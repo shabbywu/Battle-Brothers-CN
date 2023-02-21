@@ -1,0 +1,441 @@
+# scripts/items/accessory/cat_potion_item.nut
+msgid "State"
+msgstr "State"
+
+
+# scripts/items/accessory/oathtaker_skull_02_item.nut
+# scripts/items/accessory/sergeant_badge_item.nut
+msgid "]+10[/color] Resolve"
+msgstr "]+10[/color] Resolve"
+
+
+# scripts/items/accessory/berserker_mushrooms_item.nut
+msgid "No morale check triggered upon losing hitpoints"
+msgstr "失去生命值时不会触发士气检查"
+
+
+# scripts/items/accessory/oathtaker_skull_02_item.nut
+msgid "Will start combat at confident morale if permitted by mood"
+msgstr "如果心情允许，将以自信的士气开始战斗"
+
+
+# scripts/items/accessory/alp_trophy_item.nut
+msgid "]+5[/color] Resolve"
+msgstr "]+5[/color] Resolve"
+
+
+# scripts/items/accessory/cat_potion_item.nut
+msgid "]+20[/color] Initiative"
+msgstr "]+20[/color] Initiative"
+
+
+# scripts/items/accessory/lionheart_potion_item.nut
+msgid "]+20[/color] Resolve"
+msgstr "]+20[/color] Resolve"
+
+
+# scripts/items/accessory/recovery_potion_item.nut
+msgid "]+4[/color] Fatigue Recovery per turn"
+msgstr "]+4[/color] 每回合疲劳恢复"
+
+
+# scripts/items/accessory/berserker_mushrooms_item.nut
+msgid "]-15[/color] Melee Defense"
+msgstr "]-15[/color] Melee Defense"
+
+
+# scripts/items/accessory/berserker_mushrooms_item.nut
+msgid "]-15[/color] Ranged Defense"
+msgstr "]-15[/color] Ranged Defense"
+
+
+# scripts/items/accessory/berserker_mushrooms_item.nut
+msgid "]+25%[/color] Damage in Melee"
+msgstr "]+25%[/color] 近战中的伤害"
+
+
+# scripts/items/accessory/iron_will_potion_item.nut
+# scripts/items/accessory/lionheart_potion_item.nut
+# scripts/items/accessory/recovery_potion_item.nut
+# scripts/items/accessory/cat_potion_item.nut
+# scripts/items/accessory/night_vision_elixir_item.nut
+msgid "Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process."
+msgstr "右键单击或拖动到当前选定的角色上进行饮用。 此物品会在使用过程中消耗掉。"
+
+
+# scripts/items/accessory/iron_will_potion_item.nut
+# scripts/items/accessory/lionheart_potion_item.nut
+# scripts/items/accessory/recovery_potion_item.nut
+# scripts/items/accessory/cat_potion_item.nut
+# scripts/items/accessory/night_vision_elixir_item.nut
+# scripts/items/accessory/berserker_mushrooms_item.nut
+msgid "Overindulgence may lead to sickness"
+msgstr "过度使用可能导致疾病"
+
+
+# scripts/items/accessory/spider_poison_item.nut
+# scripts/items/accessory/poison_item.nut
+msgid "Is destroyed on use"
+msgstr "使用时摧毁"
+
+
+# scripts/items/accessory/accessory.nut
+msgid "Maximum Fatigue [color="
+msgstr "Maximum Fatigue [color="
+
+
+# scripts/items/accessory/orc_trophy_item.nut
+msgid "Orc Trophy"
+msgstr "兽人的雕饰"
+
+
+# scripts/items/accessory/orc_trophy_item.nut
+msgid "Grants immunity to being stunned"
+msgstr "授予免疫昏迷"
+
+
+# scripts/items/accessory/orc_trophy_item.nut
+msgid "This necklace of bones taken from a berserking orc declares the one wearing it a veteran of many battles against the green beasts, and not one to be bested by their brute force."
+msgstr "这条项链表明了一个穿着它身经百战的老兵对抗兽人的威胁，没人会屈服于蛮力。"
+
+
+# scripts/items/accessory/warhound_item.nut
+msgid " the Warhound"
+msgstr " the Warhound"
+
+
+# scripts/items/accessory/warhound_item.nut
+msgid "Warhound Collar"
+msgstr "Warhound Collar"
+
+
+# scripts/items/accessory/warhound_item.nut
+msgid "Unleash Warhound"
+msgstr "Unleash Warhound"
+
+
+# scripts/items/accessory/warhound_item.nut
+msgid "The collar of a warhound that has been unleashed onto the battlefield."
+msgstr "被释放到战场上的战猎犬项圈。"
+
+
+# scripts/items/accessory/warhound_item.nut
+msgid "Unleash your warhound and send him charging into the enemy. Needs a free tile adjacent."
+msgstr "释放你的战猎犬，让他冲向敌人。 需要相邻的空格子。"
+
+
+# scripts/items/accessory/warhound_item.nut
+msgid "A strong and loyal northern hound bred for war. Can be unleashed in battle for scouting, tracking or running down routing enemies."
+msgstr "来自北方的为战争而生的强壮又忠诚的狗。 可在战斗中释放来侦查，追踪或者猎杀逃跑的敌人。"
+
+
+# scripts/items/accessory/ghoul_trophy_item.nut
+msgid "]+4[/color] Resolve"
+msgstr "]+4[/color] Resolve"
+
+
+# scripts/items/accessory/ghoul_trophy_item.nut
+msgid "Nachzehrer Trophy Necklace"
+msgstr "食尸鬼雕饰项链"
+
+
+# scripts/items/accessory/ghoul_trophy_item.nut
+msgid "This necklace fashioned from trophies taken of various Nachzehrers declares the one wearing it a veteran of battle against feral beasts, and not easily daunted."
+msgstr "这个项链是从多个食尸鬼身上取来的雕饰制作而成，穿戴它的人会被视作针对野蛮凶兽的老手，而且不容易畏惧。"
+
+
+# scripts/items/accessory/armored_wardog_item.nut
+msgid "A strong and loyal dog bred for war. Can be unleashed in battle for scouting, tracking or running down routing enemies. This one wears a leather coat for protection against cutting wounds."
+msgstr "为战争而生的强壮又忠诚的狗。 可在战斗中释放来侦查，追踪或者猎杀逃跑的敌人。 这狗穿着的皮革护甲能有效防止割伤。"
+
+
+# scripts/items/accessory/heavily_armored_warhound_item.nut
+msgid "A strong and loyal northern hound bred for war. Can be unleashed in battle for scouting, tracking or running down routing enemies. This one wears a heavy hide coat for protection."
+msgstr "来自北方的为战争而生的强壮又忠诚的狗。 可在战斗中释放来侦查，追踪或者猎杀逃跑的敌人。 这狗穿着的重型兽皮护甲提供了很好的防护。"
+
+
+# scripts/items/accessory/iron_will_potion_item.nut
+msgid "Iron Will Potion"
+msgstr "钢铁意志药水"
+
+
+# scripts/items/accessory/iron_will_potion_item.nut
+msgid "Not affected by non-permanent injuries, new or old"
+msgstr "不受非永久性损伤的影响，无论是新的还是旧的"
+
+
+# scripts/items/accessory/iron_will_potion_item.nut
+msgid "A drink to numb the pain and get the juices flowing. Expect a major burning sensation in your throat. Drink responsibly. Lasts for the next battle."
+msgstr "除了喉咙有烧灼感之外，能让人感受不到痛苦并充满力量的饮料。 可信赖的饮品。 持续到下一场战斗。"
+
+
+# scripts/items/accessory/lionheart_potion_item.nut
+msgid "Lionheart Potion"
+msgstr "狮心药水"
+
+
+# scripts/items/accessory/lionheart_potion_item.nut
+msgid "Be brave as a lion! This potion inhibits fear and promotes courage, up to and including the gross overestimation of one's own abilities. Drink responsibly. Lasts for the next battle."
+msgstr "像狮子一样勇敢！ 这种药水抑制恐惧，促进勇气，甚至包括对自己能力的严重高估。 可信赖的饮品。 持续到下一场战斗。"
+
+
+# scripts/items/accessory/undead_trophy_item.nut
+msgid "Undead Trophy"
+msgstr "亡灵雕饰"
+
+
+# scripts/items/accessory/undead_trophy_item.nut
+msgid "Doubles your Resolve if defending against fear and mind control abilities"
+msgstr "使你在抵御恐惧和精神控制时得到决心翻倍的能力"
+
+
+# scripts/items/accessory/undead_trophy_item.nut
+msgid "This ancient necklace taken from a pile of bones declares the one wearing it a veteran of many battles against the undead scourge, and one not to waver easily in the face of their horror."
+msgstr "这条从一堆骨头上取下的古老项链表明戴着它的人是与亡灵天灾进行过多次战斗的老兵，并且在他们的恐怖面前不会轻易动摇。"
+
+
+# scripts/items/accessory/armored_warhound_item.nut
+msgid "A strong and loyal northern hound bred for war. Can be unleashed in battle for scouting, tracking or running down routing enemies. This one wears a leather coat for protection against cutting wounds."
+msgstr "来自北方的为战争而生的强壮又忠诚的狗。 可在战斗中释放来侦查，追踪或者猎杀逃跑的敌人。 这狗穿着的皮革护甲能有效防止割伤。"
+
+
+# scripts/items/accessory/hexen_trophy_item.nut
+msgid "]+6[/color] Resolve"
+msgstr "]+6[/color] Resolve"
+
+
+# scripts/items/accessory/hexen_trophy_item.nut
+msgid "Hexen Trophy Necklace"
+msgstr "女巫雕饰项链"
+
+
+# scripts/items/accessory/hexen_trophy_item.nut
+msgid "This necklace fashioned from trophies taken of slain Hexen declares the one wearing it a veteran of battle against vile sorcery, and not easily daunted."
+msgstr "这个项链是从多个女巫身上取来的雕饰制作而成，穿戴它的人会被视作针对卑鄙的巫术的老手，也不容易被吓倒。"
+
+
+# scripts/items/accessory/recovery_potion_item.nut
+msgid "Second Wind Potion"
+msgstr "第二呼吸药水"
+
+
+# scripts/items/accessory/recovery_potion_item.nut
+msgid "A fatigued fighter is a dead fighter. This concoction of adrenaline and plant-based stimulants can be used to go the extra mile. Lasts for the next battle."
+msgstr "疲劳的战士跟死了没什么区别。 这种肾上腺素和植物性兴奋剂的混合物可以让你做更多的事情。 持续到下一场战斗。"
+
+
+# scripts/items/accessory/oathtaker_skull_02_item.nut
+msgid "Young Anselm's Skull and Jawbone"
+msgstr "初创者安瑟姆的颅骨和下颚骨"
+
+
+# scripts/items/accessory/oathtaker_skull_02_item.nut
+msgid "The skull of Young Anselm, the first Oathtaker, worn alongside a reliquary containing his fractured jawbone. To enter battle adorned with such a powerful relic is to have complete assurance in victory, for who could be defeated with Young Anselm at their side?"
+msgstr "初创者安瑟姆的颅骨，第一个宣誓者，和一个装有他骨折的下颚骨的圣髑盒一起。 带着如此强大的圣物参加战斗必将无往不利，有初创者安塞姆的护佑在身，怎么可能会被人打败呢？"
+
+
+# scripts/items/accessory/wardog_item.nut
+msgid " the Wardog"
+msgstr " the Wardog"
+
+
+# scripts/items/accessory/wardog_item.nut
+msgid "Wardog Collar"
+msgstr "战犬项圈"
+
+
+# scripts/items/accessory/wardog_item.nut
+msgid "The collar of a wardog that has been unleashed onto the battlefield."
+msgstr "被释放到战场上的战犬的项圈。"
+
+
+# scripts/items/accessory/wardog_item.nut
+msgid "A strong and loyal dog bred for war. Can be unleashed in battle for scouting, tracking or running down routing enemies."
+msgstr "为战争而生的强壮又忠诚的狗。 可在战斗中释放来侦查，追踪或者猎杀逃跑的敌人。"
+
+
+# scripts/items/accessory/spider_poison_item.nut
+msgid "Poisoned Oil"
+msgstr "毒油"
+
+
+# scripts/items/accessory/spider_poison_item.nut
+msgid "A flask of oil laced with concentrated webknecht poison. Can be used to coat your weapons and arrowtips."
+msgstr "一瓶加入了浓缩蜘蛛毒液的油，可以涂在你的武器和箭头上。"
+
+
+# scripts/items/accessory/cat_potion_item.nut
+msgid "Cat Potion"
+msgstr "猫药"
+
+
+# scripts/items/accessory/cat_potion_item.nut
+msgid "Be quick as a cat! This potion promises to heighten your senses and sharpen your reflexes. Drink responsibly. Lasts for the next battle."
+msgstr "像猫一样敏捷！ 这种药水能增强你的感官，和提升你的反应能力。 可信赖的饮品。 持续到下一场战斗。"
+
+
+# scripts/items/accessory/wolf_item.nut
+msgid " the Wolf"
+msgstr " the Wolf"
+
+
+# scripts/items/accessory/wolf_item.nut
+msgid "Wolf Collar"
+msgstr "狼项圈"
+
+
+# scripts/items/accessory/wolf_item.nut
+msgid "The collar of a wolf that has been unleashed onto the battlefield."
+msgstr "被释放到战场上的狼的项圈。"
+
+
+# scripts/items/accessory/wolf_item.nut
+msgid "A strong and wild wolf, tamed to be a loyal companion in battle. Can be unleashed in battle for scouting, tracking or running down routing enemies."
+msgstr "一只强壮的野狼，被驯化成战斗伙伴。 可在战斗中释放来侦查，追踪或者猎杀逃跑的敌人。"
+
+
+# scripts/items/accessory/falcon_item.nut
+msgid "Falcon"
+msgstr "猎鹰"
+
+
+# scripts/items/accessory/falcon_item.nut
+msgid " (Released)"
+msgstr " (Released)"
+
+
+# scripts/items/accessory/falcon_item.nut
+msgid "A trained falcon. Can be released in battle to discover hidden prey."
+msgstr "一种训练有素的猎鹰，可以在战斗中被释放出来以发现隐藏的猎物。"
+
+
+# scripts/items/accessory/heavily_armored_wardog_item.nut
+msgid "A strong and loyal dog bred for war. Can be unleashed in battle for scouting, tracking or running down routing enemies. This one wears a heavy hide coat for protection."
+msgstr "为战争而生的强壮又忠诚的狗。 可在战斗中释放来侦查，追踪或者猎杀逃跑的敌人。 这狗穿着的重型兽皮护甲提供了很好的防护。"
+
+
+# scripts/items/accessory/accessory.nut
+msgid "Carried in Bag"
+msgstr "放在背包里"
+
+
+# scripts/items/accessory/accessory.nut
+msgid "Usable in Combat"
+msgstr "可用于战斗"
+
+
+# scripts/items/accessory/accessory.nut
+msgid "Worn in Accessory Slot"
+msgstr "附件位置损坏"
+
+
+# scripts/items/accessory/sergeant_badge_item.nut
+msgid "Sergeant's Sash"
+msgstr "Sergeant's Sash"
+
+
+# scripts/items/accessory/sergeant_badge_item.nut
+msgid "A sash worn by the company's sergeant, your second-in-command on the battlefield."
+msgstr "穿着绶带的战队军士，是你在战场上的副手。"
+
+
+# scripts/items/accessory/oathtaker_skull_01_item.nut
+msgid "]+7[/color] Resolve"
+msgstr "]+7[/color] Resolve"
+
+
+# scripts/items/accessory/oathtaker_skull_01_item.nut
+msgid "Young Anselm's Skull"
+msgstr "初创者安瑟姆的颅骨"
+
+
+# scripts/items/accessory/oathtaker_skull_01_item.nut
+msgid "The skull of Young Anselm, the first Oathtaker. Adorning oneself with such a priceless artifact would surely fill any man to the brim with honor and courage."
+msgstr "初创者安瑟姆颅骨，第一个宣誓者。 用这样一件无价之宝来装饰自己，无疑能让任何人充满荣誉和勇气。"
+
+
+# scripts/items/accessory/night_vision_elixir_item.nut
+msgid "Night Owl Elixir"
+msgstr "夜莺炼金药"
+
+
+# scripts/items/accessory/night_vision_elixir_item.nut
+msgid "Not affected by nighttime"
+msgstr "不受夜间影响"
+
+
+# scripts/items/accessory/night_vision_elixir_item.nut
+msgid "This elixir, when consumed, brightens up the night as if it were the mid of day. Drink responsibly. Lasts for the next battle."
+msgstr "喝了这瓶炼金药后，夜晚也似中午一样明亮。 可信赖的饮品。 持续到下一场战斗。"
+
+
+# scripts/items/accessory/goblin_trophy_item.nut
+msgid "Goblin Trophy"
+msgstr "哥布林的雕饰"
+
+
+# scripts/items/accessory/goblin_trophy_item.nut
+msgid "Grants immunity to being rooted by nets or grasping vines"
+msgstr "授予免疫定身或蔓藤"
+
+
+# scripts/items/accessory/goblin_trophy_item.nut
+msgid "This necklace of goblin ears declares the one wearing it a veteran of many battles against the green menace, and not one to fall to their dirty little tricks anymore."
+msgstr "这条项链表明了一个穿着它身经百战的老兵对抗绿皮的威胁，而不是落入他们肮脏的小把戏。"
+
+
+# scripts/items/accessory/poison_item.nut
+msgid "Goblin Poison"
+msgstr "哥布林毒药"
+
+
+# scripts/items/accessory/poison_item.nut
+msgid "A flask of spider poison used by goblins. Can be used to coat your weapons and arrowtips."
+msgstr "哥布林使用的蜘蛛毒素。可以涂在你的武器和箭头上面。"
+
+
+# scripts/items/accessory/berserker_mushrooms_item.nut
+msgid "Strange Mushrooms"
+msgstr "奇怪的蘑菇"
+
+
+# scripts/items/accessory/berserker_mushrooms_item.nut
+msgid "Right-click or drag onto the currently selected character in order to eat. This item will be consumed in the process."
+msgstr "右键单击或拖动到当前选定的角色上进行食用。 此物品会在使用过程中消耗掉。"
+
+
+# scripts/items/accessory/berserker_mushrooms_item.nut
+msgid "Strange mushrooms that have anyone chewing them enter a trance-like state of rage where they don't feel any pain and exhibit significantly increased aggression. Eat responsibly. Lasts for the next battle."
+msgstr "奇怪的蘑菇，曾经有人咀嚼它们进入一个恍惚的愤怒状态，他们不感到任何痛苦，并表现出显着增加的侵略性。 吃的时候注意。 持续到下一场战斗。"
+
+
+# scripts/items/accessory/alp_trophy_item.nut
+msgid "Alp Trophy Necklace"
+msgstr "梦魇雕饰项链"
+
+
+# scripts/items/accessory/alp_trophy_item.nut
+msgid "This necklace fashioned from trophies taken of various Alps declares the one wearing it a veteran of battle against supernatural nocturnal predators, and not easily daunted."
+msgstr "这个项链用多个梦魇身上的雕饰制作而成，穿戴它的人会被视作针对超自然夜间捕食者的老手，而且不容易畏惧。"
+
+
+# scripts/items/accessory/bandage_item.nut
+msgid "Bandages"
+msgstr "绷带"
+
+
+# scripts/items/accessory/bandage_item.nut
+msgid "Clean bandages that can be used in combat to apply pressure to bleeding wounds and stop any hemorrhaging."
+msgstr "在战斗中使用的干净绷带可以对流血的伤口施加压力来及时阻止各种外出血症状。"
+
+
+# scripts/items/accessory/antidote_item.nut
+msgid "Antidote"
+msgstr "解毒剂"
+
+
+# scripts/items/accessory/antidote_item.nut
+msgid "An antidote for various types of poisons. Tastes quite bitter."
+msgstr "一种针对各种毒药的解毒剂，尝起来非常的苦。"
+
+

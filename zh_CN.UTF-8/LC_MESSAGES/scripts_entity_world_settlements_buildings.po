@@ -1,0 +1,165 @@
+# scripts/entity/world/settlements/buildings/crowd_building.nut
+msgid "Hire"
+msgstr "雇用"
+
+
+# scripts/entity/world/settlements/buildings/arena_building.nut
+msgid "Arena"
+msgstr "竞技场"
+
+
+# scripts/entity/world/settlements/buildings/port_building.nut
+msgid "Harbor"
+msgstr "港口"
+
+
+# scripts/entity/world/settlements/buildings/temple_building.nut
+msgid "Temple"
+msgstr "神殿"
+
+
+# scripts/entity/world/settlements/buildings/barber_building.nut
+msgid "Barber"
+msgstr "理发店"
+
+
+# scripts/entity/world/settlements/buildings/tavern_building.nut
+msgid "Tavern"
+msgstr "酒馆"
+
+
+# scripts/entity/world/settlements/buildings/kennel_building.nut
+msgid "Kennel"
+msgstr "狗舍"
+
+
+# scripts/entity/world/settlements/buildings/armorsmith_building.nut
+msgid "Armorer"
+msgstr "盔甲店"
+
+
+# scripts/entity/world/settlements/buildings/fletcher_building.nut
+msgid "Fletcher"
+msgstr "弹药帐篷"
+
+
+# scripts/entity/world/settlements/buildings/alchemist_building.nut
+msgid "Alchemist"
+msgstr "炼金术士"
+
+
+# scripts/entity/world/settlements/buildings/weaponsmith_building.nut
+msgid "Weaponsmith"
+msgstr "武器店"
+
+
+# scripts/entity/world/settlements/buildings/taxidermist_building.nut
+msgid "Taxidermist"
+msgstr "剥制屋"
+
+
+# scripts/entity/world/settlements/buildings/marketplace_building.nut
+msgid "Marketplace"
+msgstr "市场"
+
+
+# scripts/entity/world/settlements/buildings/training_hall_building.nut
+msgid "Training Hall"
+msgstr "训练厅"
+
+
+# scripts/entity/world/settlements/buildings/training_hall_building.nut
+msgid "Have your men train for combat and learn from veterans"
+msgstr "让你的人接受战斗训练向老兵学习"
+
+
+# scripts/entity/world/settlements/buildings/barber_building.nut
+msgid "Customize the appearance of your men at the barber"
+msgstr "在理发店定制你的人的外表"
+
+
+# scripts/entity/world/settlements/buildings/temple_building.nut
+msgid "Have your wounded treated by priests"
+msgstr "让你的伤者得到牧师的治疗"
+
+
+# scripts/entity/world/settlements/buildings/tavern_building.nut
+msgid " is now drunk."
+msgstr " 喝醉了。"
+
+
+# scripts/entity/world/settlements/buildings/tavern_building.nut
+msgid "\n\n[color=#bcad8c]\""
+msgstr "\n\n[color=#bcad8c]\""
+
+
+# scripts/entity/world/settlements/buildings/tavern_building.nut
+msgid "Got drunk with the company"
+msgstr "在战队中喝醉了"
+
+
+# scripts/entity/world/settlements/buildings/tavern_building.nut
+msgid "The patrons talk about this and that."
+msgstr "客人在那里聊天。"
+
+
+# scripts/entity/world/settlements/buildings/tavern_building.nut
+msgid "The patrons raise their cups to you, but it seems there is nothing more to be learned by talking to them tonight."
+msgstr "客人对你举起杯，今晚似乎没有更多与你分享的话题了。"
+
+
+# scripts/entity/world/settlements/buildings/weaponsmith_building.nut
+msgid "A weaponsmith's workshop displaying all kinds of well crafted weapons"
+msgstr "展示各种精心制作的武器的武器工坊"
+
+
+# scripts/entity/world/settlements/buildings/kennel_building.nut
+msgid "Strong and fast wardogs are bred and kept at this kennel"
+msgstr "强壮和快速的战犬在这个狗舍里繁殖和饲养"
+
+
+# scripts/entity/world/settlements/buildings/port_building.nut
+msgid "Sail to "
+msgstr "驶向 "
+
+
+# scripts/entity/world/settlements/buildings/port_building.nut
+msgid "A harbor that serves both foreign trading ships and local fishermen"
+msgstr "为对外贸易船和当地渔民服务的港口"
+
+
+# scripts/entity/world/settlements/buildings/port_building.nut
+msgid "A harbor that allows you to book passage by ship to other parts of the continent"
+msgstr "一个港口，可以让你订船到大陆的其他地方"
+
+
+# scripts/entity/world/settlements/buildings/port_building.nut
+msgid "{A fast ship | A sturdy ship | A cog | A longship | A small ship | A trading ship | A knarr | A local fishing boat | A creaking old ship} by the name of '%shipname%' {would take your company onboard and to %destname% | happens to sail to %destname% and would take your company onboard | is soon to depart and could be a way to safely and quickly make passage to %destname% | could provide a means to reach %destname% a lot faster than going overland | could drop you off at %destname% for a full purse of crowns}."
+msgstr "{一艘快船 | 一艘坚固的船 | 一艘轮船 | 一艘长船 | 一艘小船 | 一艘贸易船 | 一艘客船 | 一艘当地的渔船 | 一艘吱吱作响的老船} (%shipname%号) {会带着你的人去%destname% | happens to sail to %destname% and would take your company onboard | is soon to depart and could be a way to safely and quickly make passage to %destname% | could provide a means to reach %destname% a lot faster than going overland | could drop you off at %destname% for a full purse of crowns}。"
+
+
+# scripts/entity/world/settlements/buildings/marketplace_building.nut
+msgid "A lively market offering all sorts of goods common in the region"
+msgstr "提供该地区常见的各种商品的活跃市场"
+
+
+# scripts/entity/world/settlements/buildings/armorsmith_building.nut
+msgid "This armorer's workshop is the right place to look for well-made and durable protection"
+msgstr "这间盔甲店是寻找制作精良、经久耐用的防护装备的理想场所"
+
+
+# scripts/entity/world/settlements/buildings/fletcher_building.nut
+msgid "All kinds of expertly crafted ranged weaponry can be found here"
+msgstr "这里可以找到各种精心制作的远程武器"
+
+
+# scripts/entity/world/settlements/buildings/taxidermist_building.nut
+msgid "A taxidermist can create useful items from all kinds of trophies you claimed"
+msgstr "一个剥制师可以从你得到的各种战利品中创造有用的物品。"
+
+
+# scripts/entity/world/settlements/buildings/alchemist_building.nut
+msgid "Exotic and dangerous alchemical contraptions can be bought here"
+msgstr "这里可以买到各种奇特而危险的化学装置"
+
+

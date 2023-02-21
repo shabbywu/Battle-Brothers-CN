@@ -1,0 +1,87 @@
+# scripts/items/item.nut
+msgid "State"
+msgstr "State"
+
+
+# scripts/items/item_container.nut
+# scripts/items/item.nut
+msgid "#ffffff"
+msgstr "#ffffff"
+
+
+# scripts/items/item_container.nut
+msgid "##############################################"
+msgstr "##############################################"
+
+
+# scripts/items/item_container.nut
+# scripts/items/item.nut
+msgid "player"
+msgstr "player"
+
+
+# scripts/items/item_container.nut
+msgid "# "
+msgstr "# "
+
+
+# scripts/items/item_container.nut
+msgid ", but is not equipped"
+msgstr ", but is not equipped"
+
+
+# scripts/items/item_container.nut
+msgid " to bag because no empty slot was found"
+msgstr " to bag because no empty slot was found"
+
+
+# scripts/items/item_container.nut
+msgid " from bag, but is placed somewhere else"
+msgstr " from bag, but is placed somewhere else"
+
+
+# scripts/items/item_container.nut
+msgid "Neither item is equipped, unable to swap!"
+msgstr "Neither item is equipped, unable to swap!"
+
+
+# scripts/items/item_container.nut
+msgid ", but it is already placed somewhere else"
+msgstr ", but it is already placed somewhere else"
+
+
+# scripts/items/item_container.nut
+msgid " to bag slot which isn't empty or is locked"
+msgstr " to bag slot which isn't empty or is locked"
+
+
+# scripts/items/item_container.nut
+msgid "Attempted to remove item from empty bag slot"
+msgstr "Attempted to remove item from empty bag slot"
+
+
+# scripts/items/item_container.nut
+msgid " to bag, but is already placed somewhere else"
+msgstr " to bag, but is already placed somewhere else"
+
+
+# scripts/items/item_container.nut
+msgid "Unable to swap, items don't use the same slot!"
+msgstr "Unable to swap, items don't use the same slot!"
+
+
+# scripts/items/item.nut
+msgid "Worth nothing."
+msgstr "Worth nothing."
+
+
+# scripts/items/item.nut
+msgid "Can be used to craft items"
+msgstr "可用于制作物品"
+
+
+# scripts/items/item.nut
+msgid "Attempted to drop item, but no tile specified!"
+msgstr "Attempted to drop item, but no tile specified!"
+
+

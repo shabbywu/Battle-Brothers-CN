@@ -1,0 +1,25 @@
+# scripts/ambitions/ambition_manager.nut
+msgid "State"
+msgstr "State"
+
+
+# scripts/ambitions/ambition.nut
+msgid "\n\n"
+msgstr "\n\n"
+
+
+# scripts/ambitions/ambition.nut
+msgid "Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts."
+msgstr "你的声望会提高，这意味着合同的报酬会更高，并有可能解锁新类型的合同。"
+
+
+# scripts/ambitions/ambition.nut
+msgid "Your Task"
+msgstr "Your Task"
+
+
+# scripts/ambitions/ambition.nut
+msgid "Your Reward"
+msgstr "Your Reward"
+
+

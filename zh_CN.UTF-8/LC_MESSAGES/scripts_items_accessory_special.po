@@ -1,0 +1,15 @@
+# scripts/items/accessory/special/slayer_necklace_item.nut
+msgid "A necklace made out of what appear to be orc bones."
+msgstr "一条项链似乎是用兽人的骨头做成的。"
+
+
+# scripts/items/accessory/special/arena_collar_item.nut
+msgid "Arena Collar"
+msgstr "Arena Collar"
+
+
+# scripts/items/accessory/special/arena_collar_item.nut
+msgid "A collar worn by combatants in southern arenas."
+msgstr "南方竞技场中战斗人员所戴的项圈。"
+
+

@@ -1,0 +1,10 @@
+# scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.nut
+msgid "Cancel Ambition"
+msgstr "取消野心"
+
+
+# scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.nut
+msgid "Cancelling an ambition will allow you to choose a new one, but it will also leave your men disappointed in you as a leader.\n\nAre you sure you want to cancel?"
+msgstr "Cancelling an ambition will allow you to choose a new one, but it will also leave your men disappointed in you as a leader.\n\nAre you sure you want to cancel?"
+
+

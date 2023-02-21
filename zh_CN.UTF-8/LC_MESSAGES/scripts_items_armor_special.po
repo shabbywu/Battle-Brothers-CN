@@ -1,0 +1,20 @@
+# scripts/items/armor/special/wardog_armor.nut
+msgid "Wardog Armor"
+msgstr "战犬盔甲"
+
+
+# scripts/items/armor/special/wardog_heavy_armor.nut
+msgid "Heavy Wardog Armor"
+msgstr "重型战犬盔甲"
+
+
+# scripts/items/armor/special/heraldic_armor.nut
+msgid "Heraldic Hauberk"
+msgstr "纹章锁子甲"
+
+
+# scripts/items/armor/special/heraldic_armor.nut
+msgid "A mail hauberk reinforced with shoulder pauldrons, additional metal plating and a riveted leather armor, covered with a tabbard in a noble houses' colors."
+msgstr "一种用肩甲加固的锁子甲，额外附加了金属镀层和铆接的皮革盔甲，上面镶嵌着贵族家族的纹章。"
+
+

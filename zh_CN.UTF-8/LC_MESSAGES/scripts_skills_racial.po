@@ -1,0 +1,66 @@
+# scripts/skills/racial/vampire_racial.nut
+msgid "Vampire"
+msgstr "Vampire"
+
+
+# scripts/skills/racial/vampire_racial.nut
+# scripts/skills/racial/trickster_god_racial.nut
+# scripts/skills/racial/unhold_racial.nut
+msgid " points"
+msgstr " points"
+
+
+# scripts/skills/racial/vampire_racial.nut
+# scripts/skills/racial/trickster_god_racial.nut
+# scripts/skills/racial/unhold_racial.nut
+msgid " heals for "
+msgstr " heals for "
+
+
+# scripts/skills/racial/unhold_racial.nut
+msgid "Unhold Passive"
+msgstr "Unhold Passive"
+
+
+# scripts/skills/racial/skeleton_racial.nut
+msgid "Resistant to Ranged Attacks"
+msgstr "Resistant to Ranged Attacks"
+
+
+# scripts/skills/racial/spider_racial.nut
+# scripts/skills/racial/goblin_ambusher_racial.nut
+msgid "Poison"
+msgstr "Poison"
+
+
+# scripts/skills/racial/spider_racial.nut
+# scripts/skills/racial/goblin_ambusher_racial.nut
+msgid " is poisoned"
+msgstr " 中毒了"
+
+
+# scripts/skills/racial/champion_racial.nut
+msgid "Champion"
+msgstr "Champion"
+
+
+# scripts/skills/racial/schrat_racial.nut
+msgid "Shielded"
+msgstr "Shielded"
+
+
+# scripts/skills/racial/lindwurm_racial.nut
+msgid "Acid Blood"
+msgstr "Acid Blood"
+
+
+# scripts/skills/racial/ghost_racial.nut
+msgid "Incorporeal"
+msgstr "Incorporeal"
+
+
+# scripts/skills/racial/goblin_shaman_racial.nut
+msgid "Shaman"
+msgstr "Shaman"
+
+

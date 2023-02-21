@@ -1,0 +1,1246 @@
+# scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid " has died"
+msgstr " 是死了"
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "[/color] Crowns"
+msgstr "[/color] Crowns"
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "You gain [color="
+msgstr "你获得了 [color="
+
+
+# scripts/events/events/dlc4/sled_race_event.nut
+# scripts/events/events/dlc4/horse_race_event.nut
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid " suffers "
+msgstr " suffers "
+
+
+# scripts/events/events/dlc4/sled_race_event.nut
+# scripts/events/events/dlc4/cultist_origin_armor_event.nut
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
+# scripts/events/events/dlc4/adopt_warhound_event.nut
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+# scripts/events/events/dlc4/cultist_origin_hood_event.nut
+msgid "You gain "
+msgstr "你获得了 "
+
+
+# scripts/events/events/dlc4/sled_race_event.nut
+# scripts/events/events/dlc4/barbarian_volunteer_event.nut
+# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
+# scripts/events/events/dlc4/ijirok_2_event.nut
+# scripts/events/events/dlc4/adopt_warhound_event.nut
+# scripts/events/events/dlc4/ijirok_1_event.nut
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+# scripts/events/events/dlc4/lone_wolf_origin_another_squire_event.nut
+# scripts/events/events/dlc4/ijirok_3_event.nut
+msgid "Along the way..."
+msgstr "在途中…"
+
+
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "Welcome to the %companyname%!"
+msgstr "欢迎加入 %companyname%！"
+
+
+# scripts/events/events/dlc4/cultist_origin_flock_event.nut
+# scripts/events/events/dlc4/horse_race_event.nut
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+# scripts/events/events/dlc4/traveler_north_event.nut
+# scripts/events/events/dlc4/raiders_origin_redemption_event.nut
+# scripts/events/events/dlc4/kings_guard_1_event.nut
+# scripts/events/events/dlc4/kings_guard_2_event.nut
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "Along the road..."
+msgstr "在路上…"
+
+
+# scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
+msgid " is now "
+msgstr " is now "
+
+
+# scripts/events/events/dlc4/raiders_origin_redemption_event.nut
+msgid " improve"
+msgstr " improve"
+
+
+# scripts/events/events/dlc4/cultist_origin_armor_event.nut
+# scripts/events/events/dlc4/barbarian_tells_story_event.nut
+# scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+# scripts/events/events/dlc4/cultist_origin_hood_event.nut
+# scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
+msgid "During camp..."
+msgstr "露营时…"
+
+
+# scripts/events/events/dlc4/raiders_origin_redemption_event.nut
+msgid "Your relations to "
+msgstr "Your relations to "
+
+
+# scripts/events/events/dlc4/sled_race_event.nut
+msgid "We have more important things to take care of."
+msgstr "我们有更重要的事要做。"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_depressing_lady_event.nut
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "At %townname%"
+msgstr "At %townname%"
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+# scripts/events/events/dlc4/raiders_origin_redemption_event.nut
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "You lose [color="
+msgstr "你失去了 [color="
+
+
+# scripts/events/events/dlc4/kings_guard_2_event.nut
+msgid "]+10[/color] Max Fatigue"
+msgstr "]+10[/color] Max Fatigue"
+
+
+# scripts/events/events/dlc4/kings_guard_2_event.nut
+msgid "]+10[/color] Initiative"
+msgstr "]+10[/color] Initiative"
+
+
+# scripts/events/events/dlc4/cultist_origin_armor_event.nut
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+# scripts/events/events/dlc4/cultist_origin_hood_event.nut
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "You lose "
+msgstr "你失去了 "
+
+
+# scripts/events/events/dlc4/sled_race_event.nut
+# scripts/events/events/dlc4/horse_race_event.nut
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+# scripts/events/events/dlc4/kings_guard_2_event.nut
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+# scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
+msgid " gains [color="
+msgstr " gains [color="
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "]+1[/color] Resolve"
+msgstr "]+1[/color] Resolve"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid " is exhausted"
+msgstr " 是筋疲力尽的"
+
+
+# scripts/events/events/dlc4/sled_race_event.nut
+# scripts/events/events/dlc4/barbarian_tells_story_event.nut
+msgid "Felt entertained"
+msgstr "感到愉快"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+# scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
+msgid "]+2[/color] Resolve"
+msgstr "]+2[/color] Resolve"
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
+msgid " has been converted to a Cultist"
+msgstr " 已经转化成了异教徒"
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
+msgid "Was denied the chance to convert "
+msgstr "被剥夺了转化的机会，准备转化的是 "
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "Felt entertained by "
+msgstr "感到愉快来自 "
+
+
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid "You gain the "
+msgstr "你获得了 "
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
+msgid "Davkul awaits us all."
+msgstr "达库尔即将降临到我们。"
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "Nice try."
+msgstr "不错的尝试。"
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "No, thanks."
+msgstr "不了，谢谢。"
+
+
+# scripts/events/events/dlc4/traveler_north_event.nut
+msgid "No, keep your distance."
+msgstr "不，你离远点。"
+
+
+# scripts/events/events/dlc4/sled_race_event.nut
+msgid "]+1[/color] Initiative"
+msgstr "]+1[/color] Initiative"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid " has suffered"
+msgstr " has suffered"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "Your relation to "
+msgstr "Your relation to "
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "]+200[/color] Experience"
+msgstr "]+200[/color] Experience"
+
+
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "[/color] Ammunition"
+msgstr "[/color] Ammunition"
+
+
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "[/color] Medical Supplies"
+msgstr "[/color] Medical Supplies"
+
+
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "[/color] Tools and Supplies"
+msgstr "[/color] Tools and Supplies"
+
+
+# scripts/events/events/dlc4/traveler_north_event.nut
+msgid "Join us at the campfire for tonight."
+msgstr "今晚加入我们的篝火晚会吧。"
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "]+1[/color] Max Fatigue"
+msgstr "]+1[/color] Max Fatigue"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "Leave him be."
+msgstr "让他自己待会儿。"
+
+
+# scripts/events/events/dlc4/cultist_origin_armor_event.nut
+# scripts/events/events/dlc4/cultist_origin_hood_event.nut
+# scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
+msgid "Davkul awaits."
+msgstr "达库尔即将降临。"
+
+
+# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
+msgid "You gain Venison"
+msgstr "你获得了鹿肉"
+
+
+# scripts/events/events/dlc4/sled_race_event.nut
+msgid "Nice one!"
+msgstr "很不错！"
+
+
+# scripts/events/events/dlc4/sled_race_event.nut
+msgid "Holy smokes!"
+msgstr "哦，上帝呀！"
+
+
+# scripts/events/events/dlc4/sled_race_event.nut
+msgid "Blind leading the seeing."
+msgstr "老天开眼了。"
+
+
+# scripts/events/events/dlc4/sled_race_event.nut
+msgid "Someone step forward and do it!"
+msgstr "有人站出来了！"
+
+
+# scripts/events/events/dlc4/sled_race_event.nut
+msgid "Looks like %fat% is volunteering."
+msgstr "看起来 %fat% 想来试试。"
+
+
+# scripts/events/events/dlc4/sled_race_event.nut
+msgid "Looks like %shortsighted% is volunteering."
+msgstr "看起来 %shortsighted% 想来试试。"
+
+
+# scripts/events/events/dlc4/sled_race_event.nut
+msgid "[img]gfx/ui/events/event_143.png[/img]{As the snow and stiff winds beat down upon your face, it seems almost miraculous that there's someone on this mountain waving you down. But there he is, a bearded fella with two sleds in hand. He yells out if you're interested in a race.%SPEECH_ON%First one to split them two rocks shaped like cocks is the winner!%SPEECH_OFF%You ask what it is that's on the line. When he looks at you like a dog spoken to in the wrong language, you ask what you're betting. He laughs.%SPEECH_ON%Ain't no bet! Just a matter of fun!%SPEECH_OFF%Fair enough. Maybe one of the %companyname% would like to try?}"
+msgstr "[img]gfx/ui/events/event_143.png[/img]{当凌冽的寒风夹裹着雪花拍打在你脸上时，似乎有人在山上向你招手示意，这简直难以置信。 但就在那，手里拿着雪橇留着胡子的家伙。 他大声问你是否对比赛感兴趣。%SPEECH_ON%谁先到那个鸡头型断崖的石头那谁就赢！%SPEECH_OFF%你问玩这危险游戏干嘛。 他像说错话的狗一样看着你，随后你问他赌什么。他笑着说。%SPEECH_ON%不赌什么！只是为了好玩！%SPEECH_OFF%足够好了。也许 %companyname% 想试试？}"
+
+
+# scripts/events/events/dlc4/sled_race_event.nut
+msgid "[img]gfx/ui/events/event_143.png[/img]{%sledder% takes the sled from the mountain man.%SPEECH_ON%I'll beat ya to them rock dicks in proper time.%SPEECH_OFF%Everyone raises an eyebrow as he sets the sled down. He jacks his boots against its front and tips it toward the edge of the hillside.%SPEECH_ON%Ready when you are.%SPEECH_OFF%The mountain man gives a signal to start the race and the two zip down the snow in an instant. You're not sure if your sellsword played cheap, but the mountain man suddenly turns sideways and flips his sled and he goes rolling through the powder in a flail of beard and limbs. %sledder% meanwhile coasts to an easy victory. The company roars to the victory and carry him up the mountain on their shoulders. If the mercenary did cheat it doesn't show on the mountain man's face, he is just happy to have had raced at all.}"
+msgstr "[img]gfx/ui/events/event_143.png[/img]{%sledder% 从山地人那拿过雪橇。%SPEECH_ON%我会在适当的时候把你打败。%SPEECH_OFF%当他固定好雪橇时，大家都纷纷挑了挑眉毛。 他把雪橇前头翘起来身子向着坡道倾斜。%SPEECH_ON%准备好了。%SPEECH_OFF%山地人发出信号，两人立即开始了比赛。 你不确定你的人是否做了手脚，但是山地人突然偏离了赛道人仰马翻地摔了出去，雪沾了一身。与此同时 %sledder% 轻松取得了胜利。 你的人欢呼着胜利并把他高举过头顶。 但如果你的人真作弊了，那在山地人的脸上是看不出来的，他只是很高兴他参加了比赛。}"
+
+
+# scripts/events/events/dlc4/sled_race_event.nut
+msgid "[img]gfx/ui/events/event_08.png[/img]{%fat%, the fattest man in the company, elects to give it a try. You like his chances - given his weight it's likely he'll blow right down the mountainside. The mountain man readily accepts the challenge, sets the ground rules, and starts the race proper. The two rip through the snow with ease and, just as you thought, the fat man roars through the powder like lightning through a cloud. But he doesn't seem to slow. He plows right between the two cock rocks, signaling his win, but he's unable to seize the reins or slow down. He barrels over an escarpment and that's about the last of you see of him. The mountain man grimaces and runs toward the hillside.%SPEECH_ON%He's alive! Little busted up, but alive!%SPEECH_OFF%Though you're mightily concerned, you look back to see that the company whole is doubled over or on their knees choking with laughter.}"
+msgstr "[img]gfx/ui/events/event_08.png[/img]{%fat% 这是战队手里最胖的人，他决定试试。 你觉得不错－考虑到他的体重他可能会直接冲到终点。 山地人欣然接受比赛，制定好规则后比赛正式开始。 两人轻松地在雪地穿梭，正如你想的一样，胖子在溅起的雪花中咆哮，就像闪电穿云一样壮观。 他速度惊人。 胖子乘风破浪越战越勇，但没法刹车减速了。 他从悬崖上疾驰而过，人就这么没了。 山地人跑过来做个鬼脸。%SPEECH_ON%他还活着！身体可能缺了点什么，但还活着！%SPEECH_OFF%虽然你非常担心，但当你回头的时候，你发现你的人要么笑趴在地要么哭笑不得。}"
+
+
+# scripts/events/events/dlc4/sled_race_event.nut
+msgid "[img]gfx/ui/events/event_143.png[/img]{%shortsighted% volunteers to race the mountain man. You are reluctant to allows that, given the sellsword's poor eyesight, but he is pretty diligent about the matter. As he squats on the sled and takes up the reins you can't help but notice that he is already squinting downhill as though he wouldn't tell a mountainside from a red barn.%SPEECH_ON%Ready!%SPEECH_OFF%The mountain man sets the rules and starts the race. Almost immediately the shortsighted sellsword veers off course. Thankfully he's not even full speed when he slams head first into a rock formation. The sled shatters like a tomato against a pillory and the man himself pancakes against the stone. You rush to his aide and get him to his feet, but there you find your foot stepping on something metallic. A treasure chest! You tell the company to get the man some proper help while you dig out what you can.}"
+msgstr "[img]gfx/ui/events/event_143.png[/img]{%shortsighted% 愿意跟山地人比比。 考虑到他是个近视眼，你不太愿意让他参加，但他在这事儿上表现的挺积极的。 当他坐在雪橇上开始绑绳子，不断向山下瞥的时候，你不由得担心起来他能不能分清楚石头和雪堆的区别。%SPEECH_ON%准备！%SPEECH_OFF%山地人定完规则比赛就开始了。 近视眼几乎一开始就偏离了赛道。 他的头一下子就撞上了一块石头，但谢天谢地，他还没起速。 雪橇就像砸在墙上的西红柿一样摔碎了，近视眼就像馅饼一样撞在石头上。 你跑过去帮他站起来，但你突然觉得你的脚下好像踩着什么很硬的玩意。 一个宝箱！你叫你的人来照顾他然后你拼命的开始挖。}"
+
+
+# scripts/events/events/dlc4/sled_race_event.nut
+msgid "[img]gfx/ui/events/event_143.png[/img]{%sledder% takes the sled from the mountain man.%SPEECH_ON%I'll beat ya to them rock dicks in proper time.%SPEECH_OFF%Everyone raises an eyebrow as he sets the sled down. He jacks his boots against its front and tips it toward the edge of the hillside.%SPEECH_ON%Ready when you are.%SPEECH_OFF%The mountain man gives a signal to start the race and the two zip down the snow in an instant. Rooster tails of powder shower in their wake and it seems like %sledder% is going to win until he angles incorrectly and smashes right into one of the rock cocks. The sled shatters to pieces and the sellsword goes flying over the stone and lands limply into the snow. Laughing, the company rushes to his aide and brings him back to his feet. He's got some raspberries and something is clicking, but he'll live. The mountain man cheers.%SPEECH_ON%Ye almost had me, but yer s'posed to split the dicks, not ride up them!%SPEECH_OFF%This brings your men to their knees in crying laughter.}"
+msgstr "[img]gfx/ui/events/event_143.png[/img]{%sledder% 从山地人那拿过雪橇。%SPEECH_ON%我会在适当的时候把你打败。%SPEECH_OFF%当他固定好雪橇时，大家都纷纷挑了挑眉毛。 他把雪橇前头翘起来身子向着坡道倾斜。%SPEECH_ON%准备好了。%SPEECH_OFF%山地人发出信号，两人立即开始了比赛。 快到鸡尾型断崖末端的时候比赛仍十分胶着，眼看 %sledder% 就要获胜的时候，因滑行角度失误直接撞上了那石头。 雪橇撞成了碎片，这家伙从石头上飞了过去，幸好落在了松软的雪堆里。 你的人大笑着跑过去帮他重新站起来。 他喘着粗气可能什么地方摔断了身上咔嗒作响，但他还活着。 山地人欢呼雀跃。%SPEECH_ON%你差点就干翻我了，但你的目标应该是停在鸡尾型断崖的石头那，而不是干上去。%SPEECH_OFF%这让你的人哭笑不得。}"
+
+
+# scripts/events/events/dlc4/cultist_origin_flock_event.nut
+msgid "Yes, join us."
+msgstr "是的，加入我们。"
+
+
+# scripts/events/events/dlc4/cultist_origin_flock_event.nut
+msgid "[img]gfx/ui/events/event_03.png[/img]{%joiner%, a wandering devotee of Davkul, has come to join the %companyname%. The company gathers around him, he nods, they nod back, and just like that he is with you. | %joiner%, a man in rags, yet armored in the shadows of Davkul, has joined the %companyname%. | A man by the name of %joiner% shows you his dedication to Davkul, a series of spiritual rites shaped about his skull as gruesome scars. He is welcomed into the %companyname%. | %joiner% stalked the company for a time before approaching you directly. He is an advocate for Davkul's purpose, and with that his argument has been made and yourself engendered to it all the same. The man joins the company. | Davkul surely watches over you as a man by the name of %joiner% joins the %companyname%. He stated that he had but one purpose and it was to find you and ensure that this world sees all that awaits it. | %joiner% says that he saw the shadows flicker behind your body as though they were 'of flame.' He states that he will join your cause for surely Davkul has embedded in you an aspect of the dark and infinite. | %joiner% walks beside you. He calls you an aspect of Davkul's darkness, and that eternal eyes surely watch over your party whole. The %companyname% takes him beneath its many shadowed wings. | %joiner% finds the %companyname% on the march and joins its ranks as though he were no stranger at all. No one says a word and you simply direct him to the inventory where his purpose may gather teeth. | With a showing of his scarred head, %joiner% states he is at the speartip of Davkul's purpose. You nod and welcome him into the %companyname%. | Walking in the shadow of Davkul, you were bound to find men such as %joiner%. He is keen on joining the company, in particular because you are in command of it, and more particularly because he believes Davkul has chosen you. | %joiner% bands with the company and there is little argument as to why. When asked where he came from, he shrugs and speaks of Davkul while nodding knowingly in your direction.}"
+msgstr "[img]gfx/ui/events/event_03.png[/img]{%joiner%，一个流浪的达库尔信徒，已经加入了 %companyname%。战队成员们聚集在他周围，他点头，他们也点头，就像他在早就你身边一样。 | %joiner%，一个衣衫褴褛，但身披达库尔甲的人加入了 %companyname%。 | 一个名叫 %joiner% 的人向你展示了他对达库尔的奉献，一系列精神仪式造就了他的的头盔，上面有一些可怕的疤痕。 他被欢迎加入 %companyname%。 | %joiner% 在直接联系你之前，跟踪了战队一些时间。 他是达库尔目的的拥护者，他的观点已经提出，而你自己也完全同意他说的。 这个人加入了战队。 | 达库尔肯定会像一个名叫 %joiner% 的人一样守护着你，他加入了 %companyname%。他说他只有一个目的，那就是找到你，确保这个世界看到所有等待着的东西。 | %joiner% 说他看到你身后的影子在闪烁，就好像它们是“火焰”一样。 他声明他将加入你们的事业，因为毫无疑问，达库尔已经在你们身上嵌入了黑暗和无尽。 | %joiner% 与你同行。 他称你为达库尔黑暗的一面，那永恒的眼睛一定会守护你的整个团队。 %companyname% 把他带到很多暗影的羽翼之下。 | %joiner% 在行军中找到了 %companyname%，并加入了它的队伍，就好像它并不陌生一样。 没有人说什么，你只是简单地引导他去存货那里，他的目的可能是收集牙齿。 | 通过展示他伤痕累累的头颅，%joiner% 声称他是传达达库尔意志的先锋。 你点头欢迎他加入 %companyname%。 | 行走在达库尔的阴影中，你一定会发现像 %joiner% 这样的人。他渴望加入这个战队，尤其是因为你是这个战队的负责人，更重要的是，他相信是达库尔选择了你。 | %joiner% 和战队合作，至于为什么，几乎没有争论。 当被问到他来自哪里时，他耸耸肩，说是达库尔，并有意地朝你的方向点头。}"
+
+
+# scripts/events/events/dlc4/barbarian_volunteer_event.nut
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "We have no need for you."
+msgstr "我们不需要你。"
+
+
+# scripts/events/events/dlc4/barbarian_volunteer_event.nut
+msgid "You've found a new tribe, friend."
+msgstr "你已经找到了一个新的部落，朋友。"
+
+
+# scripts/events/events/dlc4/barbarian_volunteer_event.nut
+msgid "%name% joined you after being exiled from his tribe in the north for refusing to kill his brother. He'll fight for you as well as for anyone."
+msgstr "%name% 加入了你，他从北方的部落中被驱逐出来，因为拒绝杀死他的兄弟。 他会为你和任何人战斗。"
+
+
+# scripts/events/events/dlc4/barbarian_volunteer_event.nut
+msgid "%terrainImage%{Unlike the south, finding travelers on the northern 'roads' is often a cause for caution. You never know what monstrous man or beastly barbarian you'll come across next. This time it is a large man limping with a dog beside him. You draw your sword halfway out of its sheath and loud enough to gain his ear. The man looks up and his dog rears to the sudden yank of a leash. The northerner can speak a bit of your tongue.%SPEECH_ON%Ahh, fighters. I'm a fighter myself.%SPEECH_OFF%You ask why he is alone. He explains that his clan had a dispute, and that he was to duel another man to decide who would take control. You ask why he did not duel this man, you ask if he is afraid. The traveler shakes his head.%SPEECH_ON%No. The clansman was my brother. And I'd no desire to kill kin. They gave me this bitch here as both insult and reward and threw me from the tribe. I've no land or people to go to, but if you'd have me, I'd surely fight for you just as well as anyone else.%SPEECH_OFF%}"
+msgstr "%terrainImage%{与南方不同的是，在北方的“道路”上发现旅行者往往是一个需要谨慎的由头。 You never know what monstrous man or beastly barbarian you'll come across next. 这次是一个大块头男人一瘸一拐地走着，旁边有一条狗。 你把剑从剑鞘中抽出一半，声音大到足以吸引他的耳朵。 那人抬头一看，突然拉了一下皮带，他的狗受惊向后一靠。 这个北方人能说一点你的语言。%SPEECH_ON%啊,战士们。我自己也是个战士。%SPEECH_OFF%你问他为什么独自一人。 他解释说，他的部落发生了争执，他将与另一个人决斗，以决定谁将取得领导权。 你问他为什么不跟这个人决斗，你问他是否害怕。 旅行者摇了摇头。%SPEECH_ON%不。这个族人是我的兄弟。 我不想杀死我的亲人。 他们给了我这个婊子作为侮辱和奖励并把我赶出了部落。 我无家可归，但如果你收留我，我一定会像其他人一样为你而战。%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc4/cultist_origin_armor_event.nut
+msgid "[img]gfx/ui/events/event_03.png[/img]{An urgency takes %randomcultist%. He stands, removes himself from the party's campfire, strides across the campground and retires to his tent. It is there that you see him at work, his silhouette and shadows moving frenetically. And there's more than just him in there: curves of unknown come and go beside him, reaching up in poles of black, tendrils of darkness, whipping and flailing to match the energy of his own procession. And then he is done, his silhouette falling forward before yanking something to the light.\n\n He leaves his tent with the sort of hurry with which he entered, but this time he has a piece of leather chest armor in hand. He drops it to the ground.%SPEECH_ON%He awaits us all, brothers.%SPEECH_OFF%The chest armor is patterned with unique cuts which are arranged in strips that, to the unbelieving eye, would be meaningless. To you, it is but a language of Davkul.}"
+msgstr "[img]gfx/ui/events/event_03.png[/img]{An urgency takes %randomcultist%. He stands, removes himself from the party's campfire, strides across the campground and retires to his tent. 就是在那里，你看到他在工作，他的轮廓和影子在疯狂地抖动。 他不只是在那里：一些不明的曲线影子在他身边来来回回，达到了黑暗的极致，黑暗的触手，鞭笞和击打，使之配得上他的仪式所拥有的能量。 然后他就完事了，在他把什么东西拉到灯光之前，他的影子轮廓向前倒去。\n\n He leaves his tent with the sort of hurry with which he entered, but this time he has a piece of leather chest armor in hand. 他把它扔在地上。%SPEECH_ON%他即将降临到我们，兄弟们。%SPEECH_OFF%胸甲上有独特的切口，这些切口被排列成条状，对不相信的人来说，毫无意义。 对你来说，它不过是达库尔的一种语言。}"
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid " racing a horse"
+msgstr " racing a horse"
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "He'll be alright. Pay up."
+msgstr "他会没事的，付钱吧。"
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "It was quite the amusement."
+msgstr "这确实是很有意思的娱乐。"
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "Lose some pounds, would you?"
+msgstr "这可是输了钱的，你会再来一次么？"
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "Our fattest man, %fat%, will race for our enjoyment."
+msgstr "我们最胖的人，%fat%，会为了给我们带来欢乐去赛跑。"
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "Very well. Someone step forward and race that horse!"
+msgstr "非常好。 来个人过去和那匹马赛跑！"
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "Our most athletic man, %athlete%, will race that horse."
+msgstr "我们最健壮的小伙子，%athlete%，要和那匹马赛跑。"
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "I can think only of %dumb% to be dim enough to race a horse."
+msgstr "我觉得，只有 %dumb% 足够头脑不清楚，才会去和一匹马赛跑。"
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "%terrainImage%{You come across a man holding the reins of a lanky horse whose mangy mane has seen better days. The horse has a grey beard forming and its got dry caliche lips smacking desperately for water. Seeing you, its owner waves.%SPEECH_ON%Come, come! I've a bet to make for those brave and fast enough to think they'll win it!%SPEECH_OFF%Curious, you ask what the bet is. The man pats the horse, a plume of dust lifting on the pat and you can see his handprint on the shoulder.%SPEECH_ON%Race m'horse! Not with another horse, mind, but your humanly legs! If you lose, you give me %reward% crowns. If you win, I'll pay you triple. You up for it?%SPEECH_OFF%}"
+msgstr "%terrainImage%{你遇到了一个牵着一匹高瘦的马的缰绳的男人，那匹马的鬃毛污秽不堪，已经光彩不再。 那马有着灰白色的胡子，它干裂，布满了白色钙质层的嘴唇使劲抽动着想要喝点水。 看见了你，它的主人招了招手。%SPEECH_ON%来，来！我有个为那些足够勇敢、足够快，认为自己能够获胜的人的赌要打！%SPEECH_OFF%对此感到好奇，你问了他那个赌是什么。 男人轻轻拍了拍那匹马，一片尘土因为这一拍飞了起来，并且你能够看到，他留下了一个掌印在马的肩膀上。%SPEECH_ON%和我的马赛跑！不是用别的马，忘了它吧，是用你人类的腿！ 如果你输了，你就给我 %reward% 克朗。 如果你赢了，我给你双倍。 你准备好了吗？%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "%terrainImage%{You nominate %randombrother% to try and see if he can best the beast. The race's rules are first to the apple tree and before you can even begin to root for the sellsword the horse smokes him completely. It gets to the finish line and begins fishing the branches for apples. The company is sitting completely silent, but when %randombrother% crosses the finish line in a distant last place they roar with delight as though he just won the keys to the kingdom's finest whorehouse. The horse's owner laughs.%SPEECH_ON%Don't be hard on yerself, kind sir. The fun is in the chance.%SPEECH_OFF%Indeed it seems the spectacle of the man's efforts entertained the company.} "
+msgstr "%terrainImage%{你选了 %randombrother% 去试试，看看他能不能胜过那牲口。 比赛的规则看谁第一个到一颗苹果树那儿去，但在你能为你的佣兵开始喝彩之前，马就完全打败了他。 它到了终点线，并且开始为了吃苹果而摆弄树枝。 战队都沉默地坐着，但当 %randombrother% 以隔得很远的最后一名的身份冲过终点线的时候，他们都高兴地放声大笑，就好像他赢下了王国最好的妓院的钥匙。 马的主人笑了。%SPEECH_ON%别为难自己，好心的先生。 快乐是偶然的。%SPEECH_OFF%看起来的确是那个人在精彩比赛中的努力使你的团队感到快乐。} "
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "%terrainImage%{%athlete% steps forward. His calves bulge from his socks and he shoulder rolls to loosen up.%SPEECH_ON%Yeah I'll race that sorry horse.%SPEECH_OFF%The wager is made and the horse's owner directs you to a path. With the race set up, he holds up a pair of wooden tongs held apart, and backwards, by some tine. When he cuts the rope, the tongs snap clap together and start the race. Despite being looking like a wart left in the rain, the horse instantly gets a step on the nimble sellsword. It's only halfway down the track does the mercenary's stamina seem to put him back in the race, but he ultimately fails at the finish line. The owner claps his hands.%SPEECH_ON%Oh, that was a close one! The closest I've seen!%SPEECH_OFF%You nod and pay the man what he is owed. %athlete% was beaten, but despite that it seems the loss has bettered him in some regard and the company certainly enjoyed the spectacle.}"
+msgstr "%terrainImage%{%athlete% 走上前去。他的小腿将他的袜子顶的鼓了起来，他将肩膀转了转来放松。%SPEECH_ON%好啊，我将会和那匹不咋样的马赛跑。%SPEECH_OFF%赌注已经下好了，马的主人把你领向了一条路。 赛道已经准备好了，他拿着一双分开的木钳子，并且将其往后拉，通过一些尖头。 钳子咔嚓一声合上了，当他把绳子切断的时候，比赛开始了。 尽管那匹马没精神得看起来就像个落汤鸡一样，但是它却立即领先了敏捷的佣兵一步。 只有在半路，佣兵的耐力才看起来让他占据了优势，只是他最终还是在重点线输掉了比赛。 马的主人拍了拍他的手。%SPEECH_ON%噢，这可真是很接近的一次比赛！ 是我见过的最接近的一次！%SPEECH_OFF%你点了点头，并且给了他他应得的东西。%athlete% 被打败了，但是尽管如此，看起来这次失败在某些方面上锻炼了他，并且战队也真的挺享受这场精彩的比赛的。}"
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "%terrainImage%{Feeling rather courageous, you nominate the fattest man in the company to handle the race. %fat% steps forward with an eyebrow raised, asking if you're sure about taking him as your horseracing champion. You hold your hand on his shoulder and say he's the fattest fark you've ever seen being a sellsword, but that you believe in him. You also believe the horse is a haggard draught animal that's on its last legs, but you keep that part to yourself.\n\n The man and horse are put next to each other. An apple tree stands in the distance and the first to it is the winner. With the rules laid out, the race is started. It's not an especially close one. %fat% falls behind almost instantly and trundles down the track with his face beet red and huffing breath and the men nearly die laughing at the sight. The fat sellsword and dire horse meet back up at the apple tree and there share the fruits of their labors. You pay the horse's owner what he is owed. He smiles as he counts the coin.%SPEECH_ON%Don't usually get a show with the race, sir.%SPEECH_OFF%}"
+msgstr "%terrainImage%{感到相当的勇敢，你指派战团里最胖的人来解决这场比赛。%fat% 向前走了一步，挑了挑眉毛，问你是否真的确定把他选作你的赛马勇士。 你把你的手放在他的肩上，并且说，他是你所见过的成为佣兵的人里最胖的，但是你相信他。 你还相信，那匹马是虚弱的只剩下一口气的动物，它的生命即将到头了，但是这句话你只在心里说了。\n\n 人和马站到了一起。 一棵苹果树离得不远，第一个到达那里的将成为获胜者。 规则敲定了以后，比赛开始了。 那不是一场很接近的比赛。%fat% 几乎是立即被拉在了后面，他缓慢而沉重的沿着赛道移动着，他的脸红的像甜菜根一样，气喘吁吁，大家几乎要因眼前的景象笑死。 胖胖的佣兵和虚弱的马匹在苹果树后碰面了，在那儿他们分享了他们劳动的果实。 你付给了马匹主人他应得的。 他一边数硬币一边微笑。%SPEECH_ON%不要经常用这种赛跑来当节目，先生。%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "%terrainImage%{You elect %dumb%, the company's biggest idiot, to be your horse racing champion. The horse's owner takes one look at the man and raises an eyebrow.%SPEECH_ON%Well. Alright.%SPEECH_OFF%Rules of the race are clear: first to a distant apple tree is the winner. The man and animal line up on the track. Pretending that he knows what he's doing, %dumb% crouches in a tri-pointed stance. The horse owner yells and slaps his beast on the buttocks. %dumb% releases into a nice stride and shockingly gets ahead of the horse, but he's unable to handle his speed and tilts into the second lane and collides with the beast. The horse buckles at the knees and flips head over hind and %dumb% somehow ends up in the curve of its loins and on the flip around is catapulted through the air. It's a damned sight and one you'll surely never see again. The horse gets back to its feet and stares around confused while %dumb%'s unconscious body flies over the finish line. You turn your palms to the horse owner whose hands are gripping his head.%SPEECH_ON%By the old gods, man, are you not concerned for your sellsword?%SPEECH_OFF%}"
+msgstr "%terrainImage%{你选择了 %dumb%，战队里最大的白痴来当你的赛马勇士。 马的主人看了一眼那个人，随后便挑了挑眉毛。%SPEECH_ON%好吧。好的。%SPEECH_OFF%比赛的规则很清楚：第一个到达不远处的一棵苹果树的，就是胜利者。 人和马在赛道上站成了一线。 假装知道他自己在干嘛，%dumb% 蹲出了一个三尖式。 马的主人喊了一声，在他的牲口的臀部猛地拍了拍。%dumb% 以一个漂亮的大跨步起跑，并且令人惊讶地跑在了马的前面，但是他在跑第二圈的时候不能很好地控制住自己的速度和倾斜角度，结果撞上了马匹。 马双腿一软失了前蹄，而 %dumb% 不知怎地撞进了它腰部的曲线中，在翻转中被抛上了天空。 这一幕逊爆了，你确定以后再也不会再见到了。 马匹重新站了起来，在 %dumb% 无意识的身体飞过终点线的时候疑惑地四处看了看。 你把你的手掌伸向正在用手紧紧抱住自己头的马匹主人。%SPEECH_ON%旧神啊，老兄，你不为自己的佣兵考虑考虑吗？%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "No deal."
+msgstr "这可不行。"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "We'll rob him."
+msgstr "我们要抢劫他。"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "Back to the road."
+msgstr "该上路了。"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "Rest easy, stranger."
+msgstr "好好休息吧，陌生人。"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "Let's see what he had."
+msgstr "让我们看看他有什么。"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "Why is he looking at %servant%?"
+msgstr "为什么他在盯着 %servant%？"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "Ol' thief sniffed that right out."
+msgstr "哦，小贼要被吓得哭鼻子了。"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "Perhaps %thief% can ease his burden."
+msgstr "也许 %thief% 可以减轻他的负担。"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "Finally got paid for a job while back"
+msgstr "回来的时候终于有了工作的报酬"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "Good job doing that thing awhile back."
+msgstr "没花多长时间嘛，做的不错。"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "Rumored to have robbed a family member on the road"
+msgstr "传闻在路上抢劫了一个家族的成员"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "%terrainImage%{You nod.%SPEECH_ON%Quite alright. I'm assuming all that you got is counterfeit, aye?%SPEECH_OFF%The man nods.%SPEECH_ON%Of course. The finest fitting counterfeit this side of %townname% this is! But enough chin wagging shenanigans. Appreciate ya keeping this square, but we got work to do.%SPEECH_OFF%Nodding again, you wish him luck in them doings.}"
+msgstr "%terrainImage%{你点头。%SPEECH_ON%当然可以。我猜你的那些东西都是仿制品，对吧？%SPEECH_OFF%这个人点头。%SPEECH_ON%当然了。这是在 %townname% 这里最好的合身的仿制品！ 但是这种无聊的恶作剧已经够多了。 感谢你能够保持克制，但是我们还有工作要做。%SPEECH_OFF%再次点了点头，你祝他们工作顺利。}"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "%terrainImage%{You look back at the company, then unsheathe your sword as you turn around. You swing it up and clip the crossbow and the man shoots it just over your shoulder. You drive the blade down the slat of wood and cut the cords of the weapon and stab the steel into the man's chest. He goes down easy and you hear men shout in the distance, but they're scared and scampering away. Thieves like this know not to fight with sellswords. You collect whatever goods the man had already stolen up to this point.}"
+msgstr "%terrainImage%{你回头看了看战队，然后在你转回来的时候一并拔出了剑。 你把它举了起来，然后砍在了弩上，那人射击了，弩箭擦着你的肩膀飞了过去。 你把锋刃压了下来，绕过了板条直接砍断了弩弦，然后直接把剑刺入了男人的胸膛。 他顺理成章地倒下了，而你听见了不远处有一帮人在叫喊，但是他们是在尖叫，逃走。 像这样子的盗贼不知道该怎么和佣兵战斗。 你拿走了那个人到目前为止偷走的所有的东西。}"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "%terrainImage%{You look back at the company, then unsheathe your sword as you turn around. You swing it up and clip the crossbow and the man shoots it just over your shoulder. You drive the blade down the slat of wood and cut the cords of the weapon and stab the steel into the man's chest. He goes down easy and you hear men shout in the distance, but they're scared and scampering away. Thieves like this know not to fight with sellswords. Unfortunately, the crossbow bolt that went over your shoulder struck %hurtbro%. He'll survive, but it is a garish wound.}"
+msgstr "%terrainImage%{你回头看了看战队，然后在你转回来的时候一并拔出了剑。 你把它举了起来，然后砍在了弩上，那人射击了，弩箭擦着你的肩膀飞了过去。 你把锋刃压了下来，绕过了板条直接砍断了弩弦，然后直接把剑刺入了男人的胸膛。 他顺理成章地倒下了，而你听见了不远处有一帮人在叫喊，但是他们是在尖叫，逃走。 像这样子的盗贼不知道该怎么和佣兵战斗。 不幸的是，越过你肩膀的弩箭击中了 %hurtbro%。他会活下来的，但是那是很严重的伤。}"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "%terrainImage%{You walk up to the man and, startled, he reels back with a hiccup.%SPEECH_ON%Oy, who are ye?%SPEECH_OFF%Telling him you're a good friend, you approach to rob him of everything, but as you take another step his eyes clear and he drops both bottles and suddenly reaches into his coat and pulls out a crossbow.%SPEECH_ON%Not another step you lout. I got men yonder who are watching. I don't want no trouble. We ain't keen on getting squirrely with sellswords. We're here to rob travelers, no good travelers at that, choosing to rob a drunk! Now why dontcha just get on down the road and we all leave without impasse upon our purposes.%SPEECH_OFF%The crossbow crickets as its wood shakes in his loose grip.}"
+msgstr "%terrainImage%{你走近了那个人，在一阵连续不断的嗝声中，他摇晃着后退，明显是被吓了一大跳。%SPEECH_ON%唔，你是谁？%SPEECH_OFF%一边告诉他你是个好朋友，你一边接近了他，准备抢走他的所有东西，但是当你走出下一步的同时他的眼睛马上清晰了起来，他扔掉了两个瓶子，并且马上把手伸进他的大衣里取出了一把弩。%SPEECH_ON%别再靠近了，白痴。 我有一帮兄弟就在那边看着呢。 我不想惹上麻烦。 我们不想让一帮佣兵感到不安。 我们是来这里抢劫旅行者的，没有正常的旅行者会那样，选择去抢劫一个醉汉！ 现在为什么我们不打破僵局，然后继续走我们的路，为了我们各自的目的。%SPEECH_OFF%当弩的木头在他的轻握下晃了晃的时候，它响了。}"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "%terrainImage%{As you near the nobleman, his eyes go wide and he points at %servant% the servant.%SPEECH_ON%Jast wait a sssec, I know youuu.%SPEECH_OFF%You look back. He does? The nobleman stumbles forward with his legs scissoring side to side.%SPEECH_ON%You were servant to my cousin in %randomtown% one fine evening. You were great! The greatest. Greeaaatest. S-servant. Hargh. Well -hic- I dare say you can have all this shite cause I don't think -hic- we explained yee, sorry, paid ya.%SPEECH_OFF%The man takes anything of value and throws it over. He seems happy just to be relieved of the weight of it all.%SPEECH_ON%If ye see my c-cousin again, let, let him know that I killed his brother, with the, the, mantlepiece. No harsh -hic- feelings.%SPEECH_OFF%Well alright then.}"
+msgstr "%terrainImage%{当你接近那个贵族的时候，他睁大了他的眼睛，他指着仆人 %servant%。%SPEECH_ON%只是等一下下，我认识你。%SPEECH_OFF%你看了看身后。他真的认识吗？ 那个贵族用他那像剪刀一样岔开在两边的双腿摇摇晃晃的向前走着。%SPEECH_ON%你是在 %randomtown% 的那个愉快夜晚，我表弟的一个仆人。 你做的很棒！你是最棒的。最棒的。仆人。哈。 好吧-嗝-我觉得你可以把这些玩意都拿走因为我不觉得-嗝-我们给哩服了报酬，啊不是，我们给你付过了报酬。%SPEECH_OFF%贵族卸下了所有值钱的东西，把它们都扔了过来。 他看起来很高兴，因为他从那些东西的重压下解放了出来。%SPEECH_ON%如果你再一次遇见了我的-表弟，让，让他知道，我用，用，壁炉架，杀了他兄弟。 一点也没觉得-残酷。%SPEECH_OFF%就这些。}"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "%terrainImage%{While on the march, you find a drunken nobleman tottering side to side on the path. Mussy is the name of his hair, leaves and grass and what looks like birdshit swept up in it like someone stirred the ingredients to a prank. But his clothes sweep about with the finest of silks and his fingers glisten with jewelry. He has a bottle in each hand and he swings them around as he sings gibberish pub songs.\n\nHe is in all regards the greatest magnet for a mugging you've ever seen. %randombrother% purses his lips and he looks like a wolf staring at a fat sheep.%SPEECH_ON%I'm not saying nothing, sir, I'm just. I'm just seeing it. That's a lot of juice. A lot of juice limping down the road. But again I ain't saying nothing.%SPEECH_OFF%You know what he's talking about.}"
+msgstr "%terrainImage%{当在行军的时候，你发现一个喝醉了的贵族在路上摇摇晃晃。 他的头发乱糟糟的，叶子和草还有看起来像鸟粪的东西卷在里面，就好像有人故意搅动这些材料来做恶作剧。 但是他的衣服是用上好的丝绸做的，他手指上的宝石在闪闪发光。 他的两手各拿一个瓶子，他一边把它们摆来摆去，一边唱着令人费解的酒吧歌曲。\n\n他像一块你从未见过的巨大的磁石一样吸引着所有人的注意来抢劫他。%randombrother% 撅了撅他的嘴，他看起来就像是一头盯着肥羊的狼一样。%SPEECH_ON%我啥也没说，先生，我只是。 我只是看看。 那有很多好处。 有很多好处就在路上慢慢行走着。 但是，再强调一遍，我什么也没有说。%SPEECH_OFF%你知道他在说什么。}"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "%terrainImage%{You walk up to the man and help him sit down. He grins as one of his bottles clanks off the path and rolls away.%SPEECH_ON%Thankiicup, sir, jast, no, well, ya.%SPEECH_OFF%Nodding, you hold his hand out and spit on his fingers, then roll the jewelry off and pocket them. He merely watches as though you were a physician treating a malady. The rest of your mercenaries strip him down and throw a goatskin tarp over him and then leave him there. As you walk away he asks if you know about the drink.%SPEECH_ON%Not, not sayin' away the secret, but, sirs, drinks are good.%SPEECH_OFF%Yes, are they ever. Unfortunately, as you rejoin the company %randombrother% reports that a kid saw everything and scampered off. You ask why he didn't chase after him. He looks at you shrewdly.%SPEECH_ON%I'm not the scampering sort, sir.%SPEECH_OFF%}"
+msgstr "%terrainImage%{你走近了那个人，帮助他坐了下来。 当他的一个瓶子叮当一声掉在地上，滚到一边去的时候，他咧嘴笑了出来。%SPEECH_ON%谢谢，先生，只是，不，好吧，你。%SPEECH_OFF%点着头，你把他的手张开，并朝他的手指上吐了口口水，然后把那些珠宝首饰扒拉了下来，装进包里。 他只是看着，就好像你是一个医生，在治疗疾病而已。 你剩下的佣兵把他扒光，扔给他一块羊皮布，然后就不管他了。 当你离开的时候他问你懂不懂喝酒。%SPEECH_ON%这不，这不是什么秘密，但是，先生，酒是个好东西。%SPEECH_OFF%是的，它是。 不幸的是，当你重新回到战队的时候 %randombrother% 报告，有个孩子看到了整个过程，并且迅速地跑开了。 你问他为什么不追上他。 他机智地看着你。%SPEECH_ON%我不是那种速度型的，先生。%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "%terrainImage%{As you approach the drunkard, a sharp whistle cracks across the path. You and the drunkard both look to see %thief% the thief standing there with a weapon to the back of another man.%SPEECH_ON%That feller's no nobleman, and probably aint no drunk neither. They're working together to either ambush travelers or threaten them with blackmail. They're robbers, sir.%SPEECH_OFF%You look back to see the man smiling nervously. He explains with suddenly sharpened clarity.%SPEECH_ON%We'd no interest in robbing sellswords, sir, I-I-I swear I was about to explain myself soon as I sawr yer swords.%SPEECH_OFF%%thief% yells out, asking where the cache is. You look back at the man and tell him to hand over everything he's stolen. He nods and asks if you'll gut him if he refuses. You nod and tell him the gutting will come last, and by that point it'll be a relief. The man puts a little pep in his step.%SPEECH_ON%Yessir gotcha sir, right this way.%SPEECH_OFF%} "
+msgstr "%terrainImage%{当你接近那个醉汉的时候，一声尖锐的口哨声突然打破了路上的寂静。 你和那个醉汉都看向了 %thief%，小偷站着，拿着一把武器对着后面的另一个人。%SPEECH_ON%那家伙不是贵族，甚至可能都没有喝醉。 他们是在一起工作的，就是袭击旅人或者敲诈他们。他们是强盗，先生。%SPEECH_OFF%你看了回来，却看到那个男人紧张地笑了。 他用一种简明扼要的说法解释道。%SPEECH_ON%我们不想抢劫佣兵，先生，我-我-我发誓我正要向你解释，在我康到了你的剑之后。%SPEECH_OFF%%thief% 叫了出来，他问那些赃物都在哪里。 你看回了那个人，告诉他让他把偷的所有东西都交出来。 他点了点头，并且问你如果他拒绝的话你会不会把他开膛破肚。 你点了点头，告诉他开膛破肚的整个过程会很漫长，而那时很让人放松。 那家伙被吓得晃了晃。%SPEECH_ON%好的先生明白了先生，都在这了。%SPEECH_OFF%} "
+
+
+# scripts/events/events/dlc4/traveler_north_event.nut
+msgid "We need another drink."
+msgstr "我们需要再来一杯。"
+
+
+# scripts/events/events/dlc4/traveler_north_event.nut
+msgid "%terrainImage%{You come across a man beside a hole in the ice. He's got a fishing pole next to him and, despite the environment, welcomes you warmly.%SPEECH_ON%Care to have a chat, traveler? You don't seem to be from these parts.%SPEECH_OFF% | A man wearing bear fur is cutting a hole in the ice. He looks at you just as the rim of his cuts drops and he punches it into the water.%SPEECH_ON%Come traveler, take ease beside me for a time. I'm harmless.%SPEECH_OFF%}"
+msgstr "%terrainImage%{你在冰窟旁边遇见一个人。 他身旁有一根钓竿，尽管环境恶劣，他对你还是很热情。%SPEECH_ON%想聊聊吗，旅行者？ 你看起来不像本地人。%SPEECH_OFF% | 一个披着熊皮的人正在凿冰。 他凿的冰块掉恶狠狠地掉在水面上，就像他看你的眼神一样。%SPEECH_ON%来吧，别紧张聊一会。我没恶意。%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc4/traveler_north_event.nut
+msgid "[img]gfx/ui/events/event_26.png[/img]{You ask the man if the North has seen any devastating wars. He shrugs.%SPEECH_ON%Aye, we've our differences. This spat and that. But a century ago a collective of warriors was formed to defeat a horde of undead. Ohh ya, see it in yer eyes that ye didn't know that one. It is likely that if they were defeated the walking corpses would have flooded south and killed you all. You're welcome. Bet they don't teach that in your fancy southern scripts.%SPEECH_OFF% | The man snorts and nods at the fishing pole.%SPEECH_ON%They say there's large fish down under there. Harmless ones, but big enough to spur the imagination. I can't say I've seen them in the flesh, but there was a time when a large shadow passed beneath my feet, passed right there through the waters, and it passed and passed, felt like forever. And then it was gone.%SPEECH_OFF%You ask how he thinks it a harmless beast. He shrugs.%SPEECH_ON%Cause it didn't do nothing but go from there to there and onward still.%SPEECH_OFF% | The man tests a fishing pole then crouches on his haunches. He nods across the ice.%SPEECH_ON%Ol' white bears will cross these stretches. Gotta keep your mind out for 'em. A bit of fire will fend them off, that or you dump your fish and make a run for it. I'd known a man who got eaten by a white bear. They said it ate him from legs up, giving no shits about his screaming and hollering. I'd sooner slit my own throat than let one of them beasts get a hold of me.%SPEECH_OFF% | A friendly enough fellow, the man rests beside his fishing poles and speaks to the nature of his own people.%SPEECH_ON%I'd been close enough south to know you think us savages. That's quite alright, but there's more to it than that, or less I suppose. We got less. Far less. And make do with it anyhow.%SPEECH_OFF%You remark that northerners frequent the south only to rape and pillage what it has. The man shrugs.%SPEECH_ON%And you send war parties north to treat us to a sense of southern justice. Seems fair enough. Nobody's doing nothing that don't have a bit of retribution hanging there clear as day to see. We're all on level.%SPEECH_OFF% | As you set beside the man he catches a fish and yanks it onto the ice. He grasps it with a fur-gloved hand and smashes its head to stop its flopping. He talks as he guts and salts it.%SPEECH_ON%Some of the northerners figured out a way to tame them giants, the unholds I think you call them.  Don't ask me how. Anytime I'd heard of a giant going anywhere all it did was kill anyone in its path and eat all the livestock.%SPEECH_OFF% | The man snorts and tests his fishing rods and sighs when there's no pull.%SPEECH_ON%I went south a few years back. Stayed there a few years just as well. That's how I know your tongue so well. When I was down that way, I tasted what you call vegetables. Disgusting things, truly, and the south wonders how we grow so big and strong up there in these wastes? I'll tell ya, we can't grow no fucking vegetables. Only thing we eat has to die and nothing with a heartbeat is willing to die easy.%SPEECH_OFF% | The friendly northern fisherman tells you stories of how the tribes come and go.%SPEECH_ON%I'll say this much, we're only run by the strong, but a strong man is only as good as his health and constitution. When he gets old, he loses both. When he gets old, he therefore loses. And so the new strong man comes to power, and with it a shattering of the tribe's history and successes. I do in part envy the southerner's sense of greater purpose, and the southerner's ability to hide his power, to stock it at arm's length so that others must do more than just swing a sword to get it from him. I tell you this in truth, and only here, as far away from my countrymen as I can be. You'll never hear me say any of this around no ordinary campfire, understand?%SPEECH_OFF%}"
+msgstr "[img]gfx/ui/events/event_26.png[/img]{你问他北方是否经历过毁灭性战争。他耸耸肩。%SPEECH_ON%嗯，我们之间有分歧。 又是这样又是那样。 但一个世纪以前，由勇士组织起来的一支战队打败了一群亡灵。 噢呀，你的眼神告诉了我你的无知。 如果他们被打败了，很有可能那些亡灵就会涌向南方杀光你们。 不用客气。我敢打赌僵尸不是去教你读南方花哨故事的。%SPEECH_OFF% | 这人对着钓竿哼了一声点头。%SPEECH_ON%别人说这下面有一条大鱼。 没攻击性，但是大的超乎想象。 我不敢说我亲眼见过，但是有一次，一个巨大的影子从我脚下穿过，就在那边，它游来游去，感觉时间停止了。 然后它就消失了。%SPEECH_OFF%你问他是怎么知道它没攻击性呢。他耸耸肩。%SPEECH_ON%因为它什么也没做，只是从这到那然后继续游。%SPEECH_OFF% | 这个人试了试钓竿，接着他蹲下来。 他在冰上点头示意。%SPEECH_ON%白熊会穿过那些地方。 你要小心点。 一点火星子就能把熊挡开，不然你就把鱼扔掉，撒腿开溜。 我认识一个被白熊吃掉的人。 听说熊从他的腿开始吃，对他的抓喊尖叫毫不在乎。 我宁愿割破自己的喉咙，也不愿让那些畜生抓住我。%SPEECH_OFF% | 这个人很友好，坐在钓竿旁很放松地跟大家伙说话聊天。%SPEECH_ON%我离南方很近，知道你们觉得我们是野蛮人。 这很好，但很重要的一点是，我们的资源很少。 非常少。少的可怜。 不管怎样都要凑合活下去。%SPEECH_OFF%你说北方人频繁来南方只是为了抢劫。那人耸耸肩。%SPEECH_ON%你们把战争送到北方，让我们感受来自南方的正义。 看起来不错。没人可以为所欲为而不受惩罚。 万物守恒。%SPEECH_OFF% | 当你坐在这家伙旁边时，他抓住一条鱼并把它拉上来。 他用带着皮手套的手抓住它，然后猛击鱼的头，直到鱼停止扑腾。 他边说边把鱼的内脏掏掉然后撒上盐。%SPEECH_ON%一些北方人想出一个办法来驯服这些巨人，我想你们称呼他们为释放者。  别问我怎么做的。 每当我听到一个巨人去什么地方，它所做的就只是杀掉或吃掉路上的任何牲畜。%SPEECH_OFF% | 这个人哼了一声，看了看他的钓竿，没有鱼上钩他又叹了口气。%SPEECH_ON%我几年前去过南方。 我也在那待了几年。 这就是我了解你口味的原因。 我在那的时候尝了你们称之为蔬菜的东西。 真够恶心的，你们想知道我们是怎么长得这么壮的？ 我告诉你，我们不能种那该死的蔬菜。 我们只有把活着的东西杀死吃掉，才能让我们的心脏强壮地成长。%SPEECH_OFF% | 友好的北方渔民给你讲述了部落的三三两两。%SPEECH_ON%我想说的是，我们只由强者统治，但强者的健康和体质决定了一切。 当他老了，他就失去了一切。 当他老了，他就输了。 于是，新的强者掌权，部落的成功与历史随之改写。 我的确有点羡慕南方人有更大的使命感，也羡慕你们有能力隐藏自己的权力，使自己与他人保持一定距离，这样其他人除了挥剑还需要做的更多才能夺走他的权力。 说句实话，就在这，离我的同胞越远越好。 一般情况下我绝不会说这些，你明白吗？%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
+msgid "Let's hunt!"
+msgstr "我们去打猎吧！"
+
+
+# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
+msgid "A good hunt."
+msgstr "一场美好的狩猎。"
+
+
+# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
+msgid "A decent hunt."
+msgstr "一场还不错的狩猎。"
+
+
+# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
+msgid "There's time for this later."
+msgstr "这事儿先缓缓吧。"
+
+
+# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
+msgid "This mercenary work is dulling our senses."
+msgstr "这种雇佣兵的工作使我们麻木不仁。"
+
+
+# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
+msgid "[img]gfx/ui/events/event_10.png[/img]{A few of the men depart on the hunt and return with a couple of kills. You ask if they ran into any trouble and they shake their heads no. Looks like the inventory will see some tasty additions and no nobleman will be any wiser!}"
+msgstr "[img]gfx/ui/events/event_10.png[/img]{几个人出发去打猎，回来的时候带回几个猎物。 你问他们有没有遇到什么麻烦，他们摇摇头说没有。 看起来存货中会补充一些美味，贵族也没那么聪明！}"
+
+
+# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
+msgid "[img]gfx/ui/events/event_10.png[/img]{The men are ordered to go on a hunt and they take an inch a mile! They shoot and strip and slaughter just about everything breathing animal in range. You're wary of this leading to the attention of local nobles, but they are none the wiser. Inventory stores will be brimming!}"
+msgstr "[img]gfx/ui/events/event_10.png[/img]{这些人奉命去打猎，他们得寸进尺！ 他们射杀，掠夺和屠戮几乎所有能呼吸的动物。 你担心这会引起当地贵族的注意，但他们一点也不知道。 商店的库存马上就会爆满的！}"
+
+
+# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
+msgid "[img]gfx/ui/events/event_10.png[/img]{Being the collection of hunters that you are, it becomes readily apparent that you've entered some fine hunting grounds. %randombrother% suggests the company go for a hunt, though he warns the group should be mindful of just how much they pluck from these bountiful stretches.}"
+msgstr "[img]gfx/ui/events/event_10.png[/img]{作为猎人圈子中的一员，很明显你已经进入了一个良好的狩猎场。%randombrother% 建议战队去狩猎，但他警告说，团队应该重视适度猎杀这些丰富的猎物。}"
+
+
+# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
+msgid "%terrainImage%{An hour or so after sending the men off on a hunt, they return. Except they're dragging a bloodied and shredded %bearbrother% back into camp. They report the group had crossed paths with a momma brown bear. Her fight was tremendous, and she only stopped mauling the wounded poacher because one of the men threatened her babies with a torch. You're happy the men are all alive, albeit %bearbrother% is going to require a long time to recover.}"
+msgstr "%terrainImage%{大约一个小时后，这些人出去打猎，他们回来了。 只是他们拖着一个血肉模糊的 %bearbrother% 回到营地。 他们报告说，这群人遇到了一只母棕熊。 她的战斗非常激烈，之所以她停止殴打受伤的偷猎者，是因为一个队员用火把威胁她的孩子。 你很高兴那些人都还活着，尽管 %bearbrother% 需要很长一段时间才能恢复。}"
+
+
+# scripts/events/events/dlc4/barbarian_tells_story_event.nut
+msgid "[img]gfx/ui/events/event_26.png[/img]{%barbarian% shares tales around the campfire of northern heroics and monsters. There can't be much said of his dialogue, given that he isn't the most eloquent, but he does a great job of it through miming and drawing in the ground. {One tale seems to be that of a huge warrior defeating a much larger warrior, or perhaps even defeating an ogre. It's hard to tell, but the barbarian makes a fascinating display of combat which the men applaud. | One tale is of two lovers, and with great use of his hands, makes a riveting show of what it is to plough and be ploughed. And, apparently, what it is to be betrayed and stabbed in the back. You're not sure who is stabbing whom, nor when or in what sense, but the tale has the men on the edges of their seats and ends with applause. | One tale speaks to a friendly unhold. The men gasp at the very notion of it, but the barbarian slaps his wrists and wags his finger. This, you assume, is his way of telling you it's all true, every word or grunt. The idea of a friendly monster unsettles the men initially, but by the end of the story they clap and nod as though they wish it really were the truth.}"
+msgstr "[img]gfx/ui/events/event_26.png[/img]{%barbarian% 在篝火旁分享了关于北方英雄和怪物的故事。 他的对话不值得多说，因为他不是最能言善辩的，但他通过模仿和在地上画的方式把它表现得很好。 {一个故事似乎是一个强壮的战士击败一个更庞大的战士，或者甚至击败一个食人魔。 这很难说，但野蛮人做了一个吸引人的战斗演示，大家热烈鼓掌。 | 有一个故事是关于一对恋人的，他们用自己的双手，生动地展示了什么是耕耘，什么是被耕耘。 显然，被背叛和背后捅刀子是什么滋味。 你不知道是谁捅了谁，也不知道是什么时候捅的，也不知道是以什么方式捅的，但这个故事让人如坐针毡，并以掌声结束。 | 一个故事讲述的是一个友善的巨魔。 人们一想到它就倒抽一口凉气，但野蛮人却拍打着手腕，摇着手指。 这个故事，你以为，是他告诉你这一切都是真的方式，每一个字或咕哝。 一开始队员们对一只友善的怪物感到不安，但在故事的结尾，他们鼓掌和点头，似乎他们希望这是真的。}"
+
+
+# scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid "Appeased Davkul"
+msgstr "抚慰达库尔"
+
+
+# scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid "Sacrificed to Davkul"
+msgstr "献祭给达库尔"
+
+
+# scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
+msgid "A reminder for us all."
+msgstr "一个对我们所有人的预示。"
+
+
+# scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
+msgid "Horrified by the sacrifice of "
+msgstr "被献祭吓坏了，献祭的是 "
+
+
+# scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
+msgid "%sac1% will have the honor to meet Davkul."
+msgstr "%sac1% 将会获得去见达库尔的荣耀。"
+
+
+# scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
+msgid "%sac2% will have the honor to meet Davkul."
+msgstr "%sac2% 将会获得去见达库尔的荣耀。"
+
+
+# scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
+msgid "[img]gfx/ui/events/event_140.png[/img]{%sacrifice% is bound and put to the fire. The smell of burnt pork fills the air and the men around you rejoice with tears in their eyes. You see a face twisting in the smoke of the sacrifice, a knowing visage that approves. The men are emboldened. | %sacrifice% is chopped to pieces until he is but a torso and head. The blood has emptied across the ground and yet there's still light in his eyes and a perverse smile upon his face. You take an axehead and run it into his throat until he is no more. Every bodypart is separated and put upon a pole, caked in grease, and lit aflame. You and the men dance beneath the pyres as the night comes and the night goes. | The procession is such: %sacrifice% is flayed alive and pierced with sharpened sticks through each limb and held aloft, spread-eagled over a fire which cooks him until death. The men watch his passing in silence, but as soon as one of his charred limbs breaks and collapses his corpse into the flames the men cheer and hoot and holler, some pray, others roll around in the ashes of %sacrifice%, some licking it off their fingertips like it were sweets. It is a good night. | A long stick is pierced through %sacrifice% from posterior to out the side of his neck. He is tilted up into the sky and held there by one man while others use long spears to stab him through until his corpse is the apex of an uncovered tent. The conical corpse is then covered with grass and mud until there stands a tipi, a torso and head of %sacrifice% all that remains above, and should you enter the tent you would find his legs dangling from its ceiling. The monument should stand as an omen for those to come, and a sign that they should come to accept that which awaits us all.}"
+msgstr "[img]gfx/ui/events/event_140.png[/img]{%sacrifice% 被捆绑并投入火中。 空气中弥漫着肉烧焦的味道，你周围的人眼里充满了泪水。 你看到一张扭曲的脸，在祭品的烟雾中，那是一副赞许的表情。 这些人受到了鼓舞。 | %sacrifice% 被切成了碎片直到只剩躯干和头部。 血已经流遍了整个地面，但他的眼睛里仍然有光，脸上还带着一丝狡黠的微笑。 你拿把斧头砍进他的喉咙，直到他死去。 他身体每一部分都被分开了，挂在一根杆子上，涂上油脂，点燃。 你和队员们在柴堆下跳舞，从夜晚来临持续到夜晚离去。 | 过程是这样的：%sacrifice% 被活着剥皮，用削尖的木棍刺穿祭品的四肢，举在高处，呈鹰状摊在火上，把祭品烤熟，直至死亡。 队员们静静地看着他的死亡，但是当他的一条腿烧断了，他的尸体倒在火焰中时，有人开始欢呼雀跃，有的在祈祷，有的在 %sacrifice% 的灰烬中打滚，有的在舔手指就像舔糖果一样。 真是一个美好的夜晚。 | 一根长棍从 %sacrifice% 的脖子后面穿过去。 他仰面朝天，被一个人扶着，其他人则用长矛刺穿他的身体，直到他的尸体像一个简陋帐篷的顶端。 圆锥形的尸体被草和泥土覆盖，直到建起一个尸观，%sacrifice% 的头和剩下的部分都用上了，如果你进入尸观，你发现他的腿悬挂在天花板上。 这个尸观应该预示着这帮家伙的未来，或者说是个标志，他们应该接受那个等着我们所有人的东西。}"
+
+
+# scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
+msgid "[img]gfx/ui/events/event_140.png[/img]{Most would consider the dream to have been a nightmare: the darkness surrounded you, a black so flat you could reach out and touch it. The voice spoke a language you'd never heard before, and yet you understood it nonetheless. Two faces emerged for the infinite shade: %sac1% and %sac2%. The men seemed so close, yet when you reached out they shrank, as though your fingers stretched infinitely into the void.\n\n Upon waking, you knew what must be done. But a trust had been put in you here, a trust by Davkul. A trust to do what few men can: make a choice. | Davkul's presence arrived during a campfire. The rest of the men faded into the aether of infinite black, and a strange entity replaced them. An entity which you could not see, but whose presence was but a penumbra of crossing shadows. It requested a sacrifice, not by speaking to you, but by showing: %sac1% and %sac2%. First one melted away before revivifying, then the other repeated the process until both existed with their hands out and eyes closed. It was clear that Davkul was trusting you with a choice. \n\n When the shadows snapped away, the campfire was blinding. %sac1% and %sac2% were staring at you.%SPEECH_ON%Is all alright, sir?%SPEECH_OFF% | You traveled to the place. You knew you were sleeping, but you knew damn well you traveled there nonetheless, shifting beyond your mind, beyond your body, coursing over the earth, over its rivers, across its dry earth, and past the mountains which would crumble. There you found Davkul, the immutable darkness, the inviting shade.\n\n %sac1% and %sac2% were already there, standing closest to you and Davkul's shape shifted restlessly behind their images. A black hand of fog pushed one man forward and then yanked him back, then repeated it with the other man. You nodded in understanding. A sacrifice was required and you were to choose.}"
+msgstr "[img]gfx/ui/events/event_140.png[/img]{大多数人会认为这个梦是一场噩梦：黑暗包围着你，一片漆黑，你伸手就能摸到它。 那个声音说的是一种你以前从未听过的语言，但你至少能听懂。 在无尽的阴影中出现了两个面孔：%sac1% 和 %sac2%。那些人似乎离你很近，但当你伸出手去时，他们却退缩了，仿佛你的手指无限地伸入虚空。\n\n 一醒来，你就知道该做什么了。 但你在此时获得一种信任，达库尔的信任。 但是这种信任不是一般人能承受得起的：做出一个选择。 | 达库尔的出现是在一场营火中。 其余的人都消失在无尽的黑暗之中，取而代之的是一个奇怪的实体。 一个你看不见的实体，但它的存在只是一团混沌的阴影。 它要求一次献祭，不是通过对你说话，而是通过展示：%sac1% 和 %sac2%。第一个人的幻象不见了，然后另一个重复这个过程，直到两人都伸出手闭上眼睛。 这很清楚了，达库尔相信你的选择。 \n\n 当影子啪的一声消失时，营火变得很刺眼。%sac1% 和 %sac2% 正盯着你。%SPEECH_ON%准备好了么，先生？%SPEECH_OFF% | 你去了那个地方。 你知道你在睡觉，但你知道得很清楚，你还是去了那里，超越了你的思想，超越了你的身体，越过了大地，越过了河流，越过了干涸的大地，越过了即将崩塌的群山。 在那里你找到了达库尔。永恒的黑暗，迷人的暗影。\n\n %sac1% 和 %sac2% 已经在那里了，站在离你最近的地方，达库尔的身影在他们的影子后面快速地变换着。 一只黑色的雾手把一个人往前推了推，又把他拉了回来，然后又对另一个人重复了一遍。 你点头表示理解。献祭是必须的，你必须做出选择。}"
+
+
+# scripts/events/events/dlc4/ijirok_2_event.nut
+msgid "Keep this between us."
+msgstr "别对其他人说。"
+
+
+# scripts/events/events/dlc4/ijirok_2_event.nut
+msgid "[img]gfx/ui/events/event_143.png[/img]{A blotch in the snowy wastes catches your eye. With a couple of scouts you go out to see what it is, suspecting little more than perhaps an animal carcass or abandoned camp. Instead, you find a party of naked corpses with their bodies crouched as though they were sitting upon chairs. They're in a close-knit circle, all facing inward, some with their hands out as if warming them at a fire. You push one of the corpses. As it tips back, the body sitting opposite raises up. %randombrother% jumps away.%SPEECH_ON%By the old gods!%SPEECH_OFF%A rim of flesh runs just beneath the powdered snow, and the ring connects one corpse to the other, a shared desecration beyond your understanding. The skin runs inward, meeting at a fleshen fulcrum which rises out of the snow shaped like some macabre flower pot. Nothing is inside. One of the scouts demands a return to the safety of the company and you very much agree with him.}"
+msgstr "[img]gfx/ui/events/event_143.png[/img]{雪原上的斑点吸引了你的眼睛。 你和几个侦察兵一起出去看它是什么，怀疑可能只是一具动物尸体或废弃的营地。 恰恰相反，你发现了一些赤身裸体的尸体，他们蜷缩着身体，就像坐在椅子上一样。 他们密密麻麻围成一个圈，个个脸朝内，有的伸出手来，仿佛在火炉旁取暖。 你推一具尸体。 当身体向后倾斜时，坐在对面的身体就会站起来。%randombrother% 向后跳去。%SPEECH_ON%旧神啊！%SPEECH_OFF%粉末状的雪下刚好有一圈肉，一个环把一具尸体和另一具尸体连接起来，这是一种你无法理解的群体性亵渎行为。 他们的皮肤向内延伸，在一个从雪地里冒出来的像是一个可怕的花盆在血肉支点上汇合。 里面什么都没有。其中一名侦察兵要求安全的返回战队，你非常同意他的意见。}"
+
+
+# scripts/events/events/dlc4/raiders_origin_redemption_event.nut
+msgid "2,000"
+msgstr "2,000"
+
+
+# scripts/events/events/dlc4/raiders_origin_redemption_event.nut
+msgid "Make it happen."
+msgstr "让这个事成真。"
+
+
+# scripts/events/events/dlc4/raiders_origin_redemption_event.nut
+msgid "]-2000[/color] Crowns"
+msgstr "]-2000[/color] 克朗"
+
+
+# scripts/events/events/dlc4/raiders_origin_redemption_event.nut
+msgid "We have no need for this."
+msgstr "我们不必如此。"
+
+
+# scripts/events/events/dlc4/raiders_origin_redemption_event.nut
+msgid "Was bribed to have dealings with you"
+msgstr "Was bribed to have dealings with you"
+
+
+# scripts/events/events/dlc4/raiders_origin_redemption_event.nut
+msgid "Doing mercenary work for them would further mend relations."
+msgstr "为他们做雇佣兵工作会进一步提升关系。"
+
+
+# scripts/events/events/dlc4/raiders_origin_redemption_event.nut
+msgid "[img]gfx/ui/events/event_31.png[/img]{You agree to the monk's notions. Together, you meet with an intermediary and one of the nobles himself. The meeting takes place in secret and at first there is a lot of dramatic cloak and dagger nonsense. Men wearing black and keeping their hands to their weapons, nobles whispering to one another, but after it's all said and done... you have a good long drink together. In the future, %noblehouse% will be more open to dealings.}"
+msgstr "[img]gfx/ui/events/event_31.png[/img]{你同意僧侣的意见。 你遇到一个中间人和一个贵族，聚在一起。 会议是秘密进行的，一开始有很多戏剧性的唇枪舌剑的废话。 男人穿着黑衣服，双手拿着武器，贵族们互相窃窃私语，但当一切尘埃落定之后…你们一起喝了个痛快。 在未来，%noblehouse% 将会开放更多贸易。}"
+
+
+# scripts/events/events/dlc4/raiders_origin_redemption_event.nut
+msgid "[img]gfx/ui/events/event_40.png[/img]{%monk% is a monk who, by this point, is very, very far from his home. The days on the road alone are hard enough, and the days off it being filled with violence and pillaging even worse so. It's no surprise that he has come to you with an offer. Despite being with your company for some time now, it is clear that he is still a man of civilization.\n\n He explains an old law: as a raider you are persona non grata, but as a raider with a lot of money there is a chance you can buy your way back into dealing with the nobles of this land. The monk says he knows whose palms to cross. Apparently, %noblehouse% is interested in 'opening channels', and they would just appreciate %crowns% crowns to settle into new affairs. Civilized indeed.}"
+msgstr "[img]gfx/ui/events/event_40.png[/img]{%monk% 是一个僧侣，在这一点上，已经非常、非常远离了他在家时的样子了。 独自漂泊的日子已经够苦了，而在路上的日子充满了暴力和掠夺，甚至更糟。 他主动来找你提出要求，这并不奇怪。 尽管在战队已经有一段时间了，但很明显，他仍然是一个文明人。\n\n 他解释了一条古老的法律：作为一名掠夺者，你是不受欢迎的人，但作为一名拥有大量金钱的掠夺者，你仍有机会以自己的方式重新与这片土地上的贵族打交道。 僧侣说他知道谁掌权。 显然，%noblehouse% 对“开辟新渠道”很感兴趣，他们想要 %crowns% 克朗来适应新事物。确切说是文明。}"
+
+
+# scripts/events/events/dlc4/kings_guard_1_event.nut
+msgid "We'll see."
+msgstr "我们拭目以待。"
+
+
+# scripts/events/events/dlc4/kings_guard_1_event.nut
+msgid "It's already over for you."
+msgstr "这是你的归宿。"
+
+
+# scripts/events/events/dlc4/kings_guard_1_event.nut
+msgid "We have a place for you, friend."
+msgstr "我们给你一个容身之处，朋友。"
+
+
+# scripts/events/events/dlc4/kings_guard_1_event.nut
+msgid "You're on your own in this world."
+msgstr "在这个世界上，你只能自食其力。"
+
+
+# scripts/events/events/dlc4/kings_guard_1_event.nut
+msgid "Got taken by barbarians and left to die in the cold"
+msgstr "被野蛮人带走，留在寒冷中死去"
+
+
+# scripts/events/events/dlc4/kings_guard_1_event.nut
+msgid "You found %name% frozen half to death in the north. He claims he was a King's Guard once, but looking at him now you see but a cripple."
+msgstr "他发现 %name% 在北方冻得半死。 他声称他曾经是国王的护卫，但现在你看到他只是一个瘸子。"
+
+
+# scripts/events/events/dlc4/kings_guard_1_event.nut
+msgid "%terrainImage%{The nearly frozen man joins the company. He's a ragged wreck, but if what he said is true maybe he will someday become the fighter he could barely speak of.}"
+msgstr "%terrainImage%{那个几乎冻僵的人加入了战队。 他是一个衣衫褴褛的废物，但如果他说的是真的，说不定有一天他会成为一个战士，就像他之前说的那样。}"
+
+
+# scripts/events/events/dlc4/kings_guard_1_event.nut
+msgid "%terrainImage%{You pat the man on his head, but tell him it's already over. He nods.%SPEECH_ON%Speak. For. Yourself. Mercenary.%SPEECH_OFF%He smiles again, but this time it does release. It sticks. Literally. And he leans forward and his eyes are open and do not blink and in this state he is gone. You get the men back on the road, or what one can make of a road in these snowed stretches.}"
+msgstr "%terrainImage%{你拍了拍他的头，但告诉他一切都结束了。他点头。%SPEECH_ON%说给。你自己吧。雇佣兵。%SPEECH_OFF%他又笑了，但这次是一种释放。 他挺立起来。铿锵有力。身体前倾，眼睛睁着，不眨眼，就这样死了。 你让士兵们回到道路上，或者说是雪原上的道路。}"
+
+
+# scripts/events/events/dlc4/kings_guard_1_event.nut
+msgid "%terrainImage%{The snowy wastes are home to not much of anything, so to find a man half-naked in its frigid geography is rather unusual. That he is actually alive even more so. You crouch beside him. His eyes are hollow and rime frosts make blinking them a struggle. His lips are jagged and purple. His nose a deep red bordering on black. You ask if he can speak. He nods.%SPEECH_ON%Barbarians. Took. Me.%SPEECH_OFF%You ask where his kidnappers are. He shrugs and continues his cold cadence.%SPEECH_ON%They. Got. Bored. And. Left.%SPEECH_OFF%It does seem in tune with the primitives to up and leave a prisoner in the ice. He explains that he was once a sturdy swordfighter. A smile squeezes  through the pain.%SPEECH_ON%A. King's. Guard. In. The. Kingless. Land. Things. Could. Be. Worse?%SPEECH_OFF%}"
+msgstr "%terrainImage%{在这片白雪皑皑的荒原上什么东西也没有，所以在这片严寒的土地上发现一个半裸的人是很不寻常的。 他甚至还活着。 你蹲在他旁边。 他的眼睛是空洞的，寒霜使他眨眼睛变成一种挣扎。 他的嘴唇褶皱着，冻成了紫色。 他的鼻子是深红色的，近乎黑色。 你问他是否会说话。他点头。%SPEECH_ON%野蛮人。带上。我。%SPEECH_OFF%你询问绑架他的人在哪里。 他耸耸肩，继续他那冷冰冰的调子。%SPEECH_ON%他们。觉得。烦了。然后。走了。%SPEECH_OFF%把一个俘虏留在冰天雪地里，这似乎禽兽不如。 他解释说他曾经是一个强壮的剑士。 他在痛苦中挤出一丝微笑。%SPEECH_ON%一个国王的。卫士。在。这个。没有国王的。土地。事情。会。更糟吧？%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc4/adopt_warhound_event.nut
+msgid "Brave little guy."
+msgstr "勇敢的小家伙。"
+
+
+# scripts/events/events/dlc4/adopt_warhound_event.nut
+msgid "Warrior the Warhound"
+msgstr "Warrior the Warhound"
+
+
+# scripts/events/events/dlc4/adopt_warhound_event.nut
+msgid "I'll call you 'Warrior'."
+msgstr "我以后叫你“勇士”。"
+
+
+# scripts/events/events/dlc4/adopt_warhound_event.nut
+msgid "He'll fit right in with us."
+msgstr "他会很适合我们的。"
+
+
+# scripts/events/events/dlc4/adopt_warhound_event.nut
+msgid "Lets call him 'Warrior' then."
+msgstr "我们以后就叫他“勇士”吧。"
+
+
+# scripts/events/events/dlc4/adopt_warhound_event.nut
+msgid "Just put it out of its misery."
+msgstr "给他个痛快的吧，让它从痛苦中解脱。"
+
+
+# scripts/events/events/dlc4/adopt_warhound_event.nut
+msgid "%houndman%, you've dealt with hounds before, right?"
+msgstr "%houndman%, you've dealt with hounds before, right?"
+
+
+# scripts/events/events/dlc4/adopt_warhound_event.nut
+msgid "%terrainImage%{You reach out to the hound and it lifts it head to you as though you were another threat. Its eyes peer blackly from a long-matted mane that still drips with blood. The sheep, having seen what carnage this beast has already wrought, bay nervously as they watch you. But you won't be deterred. You put your hand forth, palm supinated, and the weary dog slowly lowers into it. You nod.%SPEECH_ON%There's more fight in you yet, friend.%SPEECH_OFF%}"
+msgstr "%terrainImage%{你把手伸向那只猎犬，它抬起头来看着你，仿佛你是另一个威胁。 它黑色的眼睛从长而杂乱的鬃毛上凝视着，鬃毛上还滴着血。 绵羊见识过这只野兽的造成的杀戮，一边紧张刨着蹄子，一边注视着你。 但你不会被吓倒。 你伸出手，掌心后仰，那只疲倦的狗慢慢地俯下身来。你点头。%SPEECH_ON%还有更多战斗需要你呢，朋友。%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc4/adopt_warhound_event.nut
+msgid "%terrainImage%{You move to take the hound, but as you crouch down one of the sheep bays and charges, knocking you over. The men laugh and by the time you get to your knees another sheep crushes you from behind to many cheers. Drawing out your sword emits a sharp twang that sends the sheep scurrying. When you look back at the hound its nose is to the dirt and its eyes peerless. It has died and the sheep slowly collect around it bleating and crying out. You sheathe your sword and tell the company to move on.}"
+msgstr "%terrainImage%{你想带走那只猎犬，但当你蹲下时，一只羊叫着冲过来，把你撞倒了。 队员们哈哈大笑，当你跪下来的时候，另一只羊从后面把你压扁了，欢呼声此起彼伏。 拔出你的剑会发出一种使羊逃跑的尖锐的声音。 当你回头看那只猎犬时，它的鼻子落上了灰尘，眼睛暗淡了。 它已经死了，羊群慢慢地聚集在它周围，咩咩叫着。 你把你的剑套在鞘上，告诉大家继续前进。}"
+
+
+# scripts/events/events/dlc4/adopt_warhound_event.nut
+msgid "%terrainImage%{%houndman% steps forward.%SPEECH_ON%I know this breed. It is of northern stock, a sturdy creature. There is one thing it shall respect in a man and it is strength.%SPEECH_OFF%The sellsword crouches before the dog and without pause puts its hands around the scuff of its neck and starts to scratch. Despite the sudden movements, the dog responds positively and when the man stops scratching the dog lifts up off the ground and lopes forward and follows the man. %houndman% stares back at you as he roughs the dog up with some heavy petting.%SPEECH_ON%Yeah he'll fight for us. Fightin' is what he's made for. He just needed someone to watch him rip and tear.%SPEECH_OFF%What a lovely creature this is. And the dog is fine, too.}"
+msgstr "%terrainImage%{%houndman% 走上前去。%SPEECH_ON%我知道这个品种。 它是北方的一种家畜，一种健壮的动物。 在它身上有一样东西是值得尊敬的，那就是它的力量。%SPEECH_OFF%佣兵在狗狗面前蹲下，不停地用手掐住狗狗脖子上的伤痕，开始抓挠。 尽管动作很突然，狗还是做出了积极的反应，当他停止抓挠时，狗就会从地上站起来，向前跑，跟在他后面。%houndman% 盯着你，重重的爱抚着狗。%SPEECH_ON%是的，他会为我们而战。 战斗是他的使命。 他只是需要有人看着他撕咬和流泪。%SPEECH_OFF%这是一个多么可爱的动物啊。 而且这只狗也很好。}"
+
+
+# scripts/events/events/dlc4/adopt_warhound_event.nut
+msgid "%terrainImage%{You come across a caldera the bottom of which you find a few sheep nuzzling something. As you draw close, you see that there is an enormous hound there, its fur matted with blood, its collar shredded, and its paws wiry where the claws have come apart. It regards you with a growl, but can't maintain it for long as it simply puts its head down with an exhausted huff. The sheep depart and beyond them you find a man leaning against a rock. His chest has been ripped open and whatever killed him did it with such force as to spray his innards all along the rocks. Following the trail, you do find a monstrous Nachzehrer whose throat has been ripped out. %randombrother% nods.%SPEECH_ON%I think that pup might be worth having in the company.%SPEECH_OFF%}"
+msgstr "%terrainImage%{你碰到一个死火山口，在它的底部你发现几只羊用鼻子摩擦着什么东西。 当你走近时，你看到那里有一只巨大的猎犬，它的皮毛上沾满了鲜血，项圈被撕碎了，爪子上的指甲已经断了。 它对你发出一声咆哮，但没坚持多久它就垂下头，发出一声疲惫的呼噜声，也许它撑不了多久了。 羊走了，在他们后面，你看见一个人倚在岩石上。 他的胸部被撕开了，杀死他的东西用如此大的力量把他的内脏扯了出来，散落在岩石上。 沿着这条路走下去，你发现一个巨型食尸鬼，他的喉咙被撕开了。%randombrother% 点头。%SPEECH_ON%我觉得这条狗值得被收留到战队。%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_depressing_lady_event.nut
+msgid "This world is what I make of it."
+msgstr "我会改变这个世界的。"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_depressing_lady_event.nut
+msgid "[img]gfx/ui/events/event_91.png[/img]{You come across an old woman outside of the home of a nobleman. She sizes you up as though she were looking into her own past. Amused, you ask her what it is she wants. The lady smiles.%SPEECH_ON%What is it you think you're doing, exactly? Wandering the land as a hedge knight, killing and slaying and farkin' the ladies now and again?%SPEECH_OFF%Politely, you inform her that you are in fact not just some tournament hopper, but a bonafide sellsword. She shrugs and throws her hand to a nobleman's house.%SPEECH_ON%And what of it? They'll never accept you. You'll be a fighter. You're out here, forever. You only go inside when they let you. This is not a world you can improve yourself in. You are what you are born as.%SPEECH_OFF%}"
+msgstr "[img]gfx/ui/events/event_91.png[/img]{你在一个贵族的房子外面碰到一个老妇人。 她对你的评价就好像她在回顾自己的过去。 有趣的是，你问她想要什么。这位女士微笑。%SPEECH_ON%你真的知道你在做什么吗？ 像个雇佣骑士一样在这片土地上游荡，一次次地杀戮、屠杀、强奸女人们？%SPEECH_OFF%你礼貌地告诉她，你实际上不只是一个经常找乐子的人，而是一个真正的佣兵。 她耸肩，把手伸向一位贵族的房子。%SPEECH_ON%那又怎么样呢？ 他们永远不会接纳你。 你会成为一名战士。 你不属于这里。 你只有在他们允许的情况下才能进去。 这不是一个你可以自我升华的世界。 。%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc4/ijirok_1_event.nut
+msgid "And keep your wits about you."
+msgstr "你还要保持脑子清醒。"
+
+
+# scripts/events/events/dlc4/ijirok_1_event.nut
+msgid "[img]gfx/ui/events/event_143.png[/img]%randombrother% hails you down and says that there's something you should come take a look at. Surely something that's out in all this ice and nothingness is worth seeing.\n\n The sellsword brings you to a cavernous hole in the ground. He lights a torch and steps into and you follow. There at the bottom you find a few more of your men. They're standing around what looks like a sarcophagus made of ice, except there's no lid. A frozen blackness cakes the edges of the container. In the corner of the room is an icy corpse stuck to the wall. His hands are at his sides and icicles of blood run from his wrists. Adjacent to it is a pair of clothes hanging from icehooks, but there is no body attached. A trail of blood leads from the clothes to the other man, then back out the cave.%SPEECH_ON%I don't know what to make of this sir.%SPEECH_OFF%One mercenary says. You ask the men if they've seen anything in their scouting, and you mean damn near anything. But they all shake their heads no. If something was in that box then it is surely out now. You tell the men to get on out of the cave and back to camp."
+msgstr "[img]gfx/ui/events/event_143.png[/img]%randombrother% 把你叫下来，说有些东西你应该来看一眼。 毫无疑问，在这片冰天雪地中所隐藏的一些东西是值得一看的。\n\n 佣兵把你带到一个地底的洞穴。 他点燃火把，走了进去，你跟了进去。 在底下你发现了几个你的队员。 他们站在一个看起来像冰做的石棺的周围，只是没有盖子。 黑色的冰冻物质在石棺边缘结成硬块。 房间的角落的墙上贴着一具冰冷的尸体。 他的双手垂在身体两侧，冰冷的血液从手腕流出。 旁边是挂在冰钩上的一件衣服，但没有身体。 衣服上淌出一些其他人的血迹吸引了其他队员，然后引导他们走出了洞穴。%SPEECH_ON%我不知道这该怎么解释，先生。%SPEECH_OFF%一个雇佣兵说道。你问他们是否在侦察中看到了什么，你指的是附近他妈的任何东西。 但他们都摇头说不。 如果石棺里有什么东西，那它肯定是出来了。 你告诉他们离开洞穴，回到营地去。"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "the Squire"
+msgstr "the Squire"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "I work alone."
+msgstr "我单干。"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "I need a drink."
+msgstr "我需要喝一杯。"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "What can you do?"
+msgstr "你能做什么？"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "You met %name% in "
+msgstr "You met %name% in "
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "Now I need a drink."
+msgstr "现在我需要喝一杯。"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "Have you killed anyone?"
+msgstr "你杀过人么？"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "I take you as my squire."
+msgstr "我会带上你做我的扈从。"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "Has become a squire to a knight"
+msgstr "成为骑士的扈从"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid " where he volunteered to be your squire. He probably had no idea what he was getting into back then."
+msgstr " where he volunteered to be your squire. 他可能不知道他当时在干什么。"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "[img]gfx/ui/events/event_20.png[/img]{The man shakes his head no.%SPEECH_ON%Ain't never killed no one, sir.%SPEECH_OFF%}"
+msgstr "[img]gfx/ui/events/event_20.png[/img]{The man shakes his head no.%SPEECH_ON%我没有杀过任何人，先生。%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "[img]gfx/ui/events/event_20.png[/img]{You look at the would-be squire long and hard and then tell him no. He shrugs.%SPEECH_ON%Just so you know, you ain't gotta be alone in this world. Loneliness has no presence. It is not a place. It is not a being. It is action!%SPEECH_OFF%Spitting, you wipe your face and laugh.%SPEECH_ON%Is that what you tell yourself every morning? Get out of here.%SPEECH_OFF%}"
+msgstr "[img]gfx/ui/events/event_20.png[/img]{你久久地注视着那个想要成为扈从的人，然后对他说不。他耸耸肩。%SPEECH_ON%我想让你知道，你在这个世界上并不孤单。 孤独从未存在，它无处可寻，它无形无影，而是一种人生方式！%SPEECH_OFF%你吐了口唾沫，擦了把脸，然后大笑。%SPEECH_ON%你每天早上都是这么对自己说的吗？ 离开这里。%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "[img]gfx/ui/events/event_20.png[/img]{The man stands up straight.%SPEECH_ON%I know how to sharpen steel and mend leather. I can disassemble and reassemble heavy and light armors both, no matter how complex or simple, and I can do it fast. If we have a horse.%SPEECH_OFF%You interrupt.%SPEECH_ON%I walk.%SPEECH_OFF%Shifting uneasily on his feet, the man continues.%SPEECH_ON%Alright. Well I can cook. I can cook a fine meal whether I got the ingredients or not. I make do. And. And. That's. That's about it. But I'm willing to learn!%SPEECH_OFF%}"
+msgstr "[img]gfx/ui/events/event_20.png[/img]{这个男人站直了。%SPEECH_ON%我知道怎样打磨钢铁和修补皮革。 我可以拆装重甲和轻甲，无论多复杂或多简单，我都可以快速完成。 如果我们有一匹马。%SPEECH_OFF%你打断他。%SPEECH_ON%我走了。%SPEECH_OFF%不安地站了起来，他继续说下去。%SPEECH_ON%好的。我可以做饭。 我厨艺不错，不管我有没有配料。 我行的。而且。而且。就。就这些了。 但是我愿意学习！%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "[img]gfx/ui/events/event_20.png[/img]{You ask the man his name. He swallows nervously.%SPEECH_ON%%squire%, sir.%SPEECH_OFF%You nod.%SPEECH_ON%Well alright then. I'll take ya with me.%SPEECH_OFF%He smiles.%SPEECH_ON%That's. That's it?%SPEECH_OFF%You nod.%SPEECH_ON%Yeah. That's it.%SPEECH_OFF%%squire% looks around.%SPEECH_ON%Well. Alright. What now?%SPEECH_OFF%You lean back against the stone steps.%SPEECH_ON%You follow me. Right now I'm gonna take another nap. If yer still around when I wake, well, then you've passed your first test. Defeating boredom.%SPEECH_OFF%The squire is grinning ear to ear. He's still there when you wake.}"
+msgstr "[img]gfx/ui/events/event_20.png[/img]{你问那个人他的名字。他紧张地吞吞吐吐。%SPEECH_ON%%squire%，先生。%SPEECH_OFF%你点头。%SPEECH_ON%就这些。 I'll take ya with me.%SPEECH_OFF%他笑了。%SPEECH_ON%真的。真的么？%SPEECH_OFF%You nod.%SPEECH_ON%是的，就这样。%SPEECH_OFF%%squire% 环视四周。%SPEECH_ON%好吧。好的。 What now?%SPEECH_OFF%你靠在石阶上。%SPEECH_ON%你跟我来。现在我要再睡一会儿。 如果我醒来时你还在我身边，那么，你已经通过了你的第一次测试。战胜无聊。%SPEECH_OFF%扈从笑得合不拢嘴。 当你醒来时，他还在那里。}"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "[img]gfx/ui/events/event_20.png[/img]The pub is full of drunk denizens sloshing about, cheering, singing, carousing with the womenfolk of either wench or wife or whore. A man with a lute dances and plays and another with metal cymbals crashes overhead while a fat man booms with songs of battles or love, and whether a tale of victory or defeat they provoke rounds of ale and more merriment all the same.\n\n You leave the pub and enter the next building over. The wind whistles down a pew filled nave as you stand at the door. A man sweeping the stone floor looks up for a time then continues with his work. Another man cheerfully crosses the room and asks if you'd like to pray. You decline and he purses his lips and crosses his arms. The crowd next door roars with drunken delight as though to make a mockery of you both and then he moves on. You stay for a moment longer and then leave and go back out to the town center and squat on a series of steps. It seems there used to be a statue at the top of those steps, but vandals and raiders alike have made short work of another's artisanry. You fall asleep there at the foot of impermanence. \n\n Waking from a nap, you find a young man at the bottom of the steps. He says he knows you're a knight and he's come to offer his services as a squire."
+msgstr "[img]gfx/ui/events/event_20.png[/img]酒吧里到处都是醉醺醺的人，他们在那里晃荡，欢呼唱歌，与女人们狂欢作乐，其中包括女仆、太太、妓女等等。 一个拿着琵琶的人在跳舞和演奏，另一个拿着金属钹的人在头顶轰鸣，而一个胖子则高唱着战争或爱情的歌曲，无论胜利还是失败的故事都能激起一轮又一轮的共饮啤酒和更多的欢乐。\n\n 你离开酒吧，进入另一栋建筑。 当你站在门口时，风呼啸着吹过满是长凳的教堂中殿。 一个人扫着石头地板，抬头看了一会儿，然后继续工作。 另一个男人高高兴兴地穿过房间，问你是否愿意祈祷。 你拒绝了，他噘起嘴唇，交叉双臂。 隔壁的人群醉醺醺地欢声笑语，好像在嘲笑你们俩，然后那人走了。 你再多呆一会儿，然后离开，回到城镇中心，蹲在一系列的台阶上。 那些台阶的顶端似乎曾经有过一座雕像，但破坏者和掠夺者等人很快就攫取了别人的手艺。 徘徊了一会儿，你就在那儿睡着了。 \n\n 中午你才醒来，你发现一个年轻人站在台阶的底部。 他说他知道你是个骑士，他是来当扈从的。"
+
+
+# scripts/events/events/dlc4/kings_guard_2_event.nut
+msgid "]+15[/color] Hitpoints"
+msgstr "]+15[/color] Hitpoints"
+
+
+# scripts/events/events/dlc4/kings_guard_2_event.nut
+msgid "Is his former self again"
+msgstr "重新成为昔日的自己"
+
+
+# scripts/events/events/dlc4/kings_guard_2_event.nut
+msgid "]+12[/color] Melee Skill"
+msgstr "]+12[/color] Melee Skill"
+
+
+# scripts/events/events/dlc4/kings_guard_2_event.nut
+msgid "]+7[/color] Melee Defense"
+msgstr "]+7[/color] Melee Defense"
+
+
+# scripts/events/events/dlc4/kings_guard_2_event.nut
+msgid "]+7[/color] Ranged Defense"
+msgstr "]+7[/color] Ranged Defense"
+
+
+# scripts/events/events/dlc4/kings_guard_2_event.nut
+msgid "I'm glad we found you on that fateful day."
+msgstr "我很高兴我们在正确的时间遇到你。"
+
+
+# scripts/events/events/dlc4/kings_guard_2_event.nut
+msgid "You found %name% frozen half to death in the north. With your help, the former King's Guard regained his strength and now fights for you."
+msgstr "他发现 %name% 在北方冻得半死。 在你的帮助下，前国王的护卫恢复了力量，现在为你而战。"
+
+
+# scripts/events/events/dlc4/kings_guard_2_event.nut
+msgid "[img]gfx/ui/events/event_82.png[/img]{You find %guard% stretching about with surprising limberness. He looks nothing at all like the freezing, frigid man you found abandoned in the ice by those barbarians. Spotting you, he nods and comes over with a quiet voice.%SPEECH_ON%I'm glad you trusted in me, captain. Perhaps you did it out of the kindness of your heart, but I need to show you something.%SPEECH_OFF%He flashes an emblem you have heard referenced many times, but have never seen: it carries the sigil of the King's Guard and its pristineness is such that there is no way it could have been a farce. The man smiles at you.%SPEECH_ON%I think I am in good health and ready to serve you as I did my liege.%SPEECH_OFF%The kings of these lands have long since fallen, replaced by squabbling lords and nobles. If this man can fight for you as he did for the kings, then the %companyname% has brighter days ahead surely.}"
+msgstr "[img]gfx/ui/events/event_82.png[/img]{你发现 %guard% 展示了不可思议的灵巧程度。 他看起来一点也不像那个被野蛮人遗弃在冰天雪地里的冻僵的人。 看到你，他点头走过来，低声说。%SPEECH_ON%我很高兴你信任我，队长。 也许你是出于好心，但我需要给你看样东西。%SPEECH_OFF%他拿出一个你已经听过很多次，但从未见过的徽章：它是国王的护卫的徽章，它是如此的真实以至于这不可能是一场闹剧。 这个人对你微笑。%SPEECH_ON%我想我很健康，准备像侍奉我的君主一样侍奉你。%SPEECH_OFF%这些土地上的国王早已倒台，取而代之的是争吵不休的领主和贵族。 如果这个人能像为国王那样为你而战，那么 %companyname% 一定会前途光明。}"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "Went missing"
+msgstr "失踪"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid " went missing"
+msgstr " 失踪了"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "Just ignore it."
+msgstr "别理它。"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "Get your sleep, kid."
+msgstr "睡吧孩子。"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "Grow a pair, you gits."
+msgstr "加强警备，白痴们。"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "Had a good night's sleep"
+msgstr "睡个好觉"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "To arms, you deaf fools!"
+msgstr "拿起武器，你们这群聋子！"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "Had an excellent adventure"
+msgstr "经历了一次极好的冒险"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "Hell of a haul, I suppose."
+msgstr "我觉得这是一趟地狱之旅。"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "Didn't get a good night's sleep"
+msgstr "没有睡好觉"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "Problem good as solved, I guess."
+msgstr "我想问题已经解决了。"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "You're a hunter, %hunter%, go take a look."
+msgstr "你是个猎人，%hunter%，你去看看吧。"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "Concerned that there's something big out there"
+msgstr "担心外面有大事"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "Perhaps sending a greenhorn wasn't the best idea."
+msgstr "派新手去也许不是一个好主意。"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "You are a man of the wilds, %wildman%, go take a look."
+msgstr "你是个野人，%wildman%，你去看看吧。"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "Looks like a job for the new guy. Go take a look, %recruit%!"
+msgstr "看起来像是新来的人的工作。 去看看，%recruit%！"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "[img]gfx/ui/events/event_33.png[/img]{You tell the company to ignore the sounds. That's a hard task to oblige as the cries of the wild dogs only grow louder and louder until, just like that, they stop. Your men stand still as though making any noise could bring the hell of whatever horror it is that's out there. Nothing comes to pass, but a number of the men have a hard time sleeping through the night.}"
+msgstr "[img]gfx/ui/events/event_33.png[/img]{你告诉战队不要去理会这些声音。 这是个艰巨的任务，因为野狗的叫声越来越大，就这样直到它们停下来为止。 你的人神情呆滞，好像随便弄点声音出来就能让人感到该死的恐怖。 最后什么也没发生，但有几个人整夜难以入睡。}"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "[img]gfx/ui/events/event_33.png[/img]{As the company camps, %randombrother% stops stropping a blade and looks up.%SPEECH_ON%Y'all hear that?%SPEECH_OFF%You do. Wild dogs are yipping and howling. You shrug and say it's nothing, but in that moment there's a yelp and the yips turn into snarling and you hear the distinct sound of animalistic struggle. The snarls turn to whines. Something is losing the fight. %randombrother% turns to you.%SPEECH_ON%Sounds close, should we check it out? I don't wanna sleep with that around.%SPEECH_OFF%}"
+msgstr "[img]gfx/ui/events/event_33.png[/img]{营地里 %randombrother% 停下了手里的活并仔细聆听着什么。%SPEECH_ON%都听到那东西了吗？%SPEECH_OFF%是的。野狗在歇斯底里的狂吠。 你耸耸肩说没什么，但接下来那叫声变成了咆哮声你能感觉出这是只有战斗才能发出歇斯底里般的声音。 咆哮声逐渐变成了呜咽声。 一定有什么东西输了这场战斗。%randombrother% 转向你。%SPEECH_ON%声音听起来很近，我们应该检查一下吗？ 我可不想在这儿睡觉。%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "[img]gfx/ui/events/event_33.png[/img]{You tell the company to plug their ears if it bothers them so much. As the cries of the wild dogs grow louder the men turn to impromptu ear candling to keep the sounds at bay. Eventually, the sense deprived sellswords are awkwardly walking around like animatronics. You look to join the muted, plugging a waxball into your ear, but before you can get the second ear a loud crash sends inventory flowing and a tent billows as it collapses. You drain your ear and bark orders to the mercenaries who are scattered all over the camp.}"
+msgstr "[img]gfx/ui/events/event_33.png[/img]{你告诉大伙如果这声音让他们感到担忧，就把耳朵堵上。 大伙随即用蜡球堵上耳朵来应对野狗的狂吠声越来越大。 最终，他们又恢复到了往常傻不拉几的样子。 你也想缓解下，就拿了个蜡球堵上了一只耳朵，还没来得及堵另一只耳朵的时候仓库那边传来了巨大的碰撞声紧接着仓库帐篷坍塌了冒出大量的烟雾。 你清空了耳朵并且快速指挥着雇佣兵们分散开来。}"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "[img]gfx/ui/events/event_33.png[/img]{You look about the company. A young %recruit% looks back. He looks down, as though to look within himself, and then hurriedly gets to his feet.%SPEECH_ON%Say no more, captain. I will find out what this disturbance is.%SPEECH_OFF%The fresh recruit gathers his things and then stands at the edge of the camp's light, a very dark forest looking back at him. The man stares down again and clenches and unclenches his hands.%SPEECH_ON%Alright. Alright.%SPEECH_OFF%He looks up.%SPEECH_ON%Let's do this.%SPEECH_OFF%The man is never seen again.}"
+msgstr "[img]gfx/ui/events/event_33.png[/img]{你环顾了一下战队。 一个年轻的 %recruit% 向后看。 他低下头避开你的眼神，好像他和自己内心争斗了一番，然后赶紧站起来。%SPEECH_ON%不用说了，队长。 我会找出这骚乱是什么的。%SPEECH_OFF%他收拾好，站在营火的光亮边缘，漆黑的森林在那头正望着他。 他再次低下头，拳头握了又松。%SPEECH_ON%好吧。好吧。%SPEECH_OFF%他抬头看看。%SPEECH_ON%就这么做吧。%SPEECH_OFF%他去了后你就再没见过这个人。}"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "[img]gfx/ui/events/event_33.png[/img]{You look about the company. A young %recruit% looks back. He looks down, as though to look within himself, and then hurriedly gets to his feet.%SPEECH_ON%Say no more, captain. I will find out what this disturbance is.%SPEECH_OFF%The fresh recruit gathers his things and then stands at the edge of the camp's light, a very dark forest looking back at him. The man stares down again and clenches and unclenches his hands. He huffs and then steps forth, immediately slipping into the shadows. Hours pass. Finally, he returns. His clothes are in tatters. His weapons are gone. He spits forth story after story. Magic rings, volcanoes, giant eagles, absolute nonsense. Whatever he saw, it's clear the blubbering sellsword needs to clear his head with some well earned beauty sleep. Which he'll get since all that awful noise has ceased.}"
+msgstr "[img]gfx/ui/events/event_33.png[/img]{你环顾了一下战队。 一个年轻的 %recruit% 向后看。 他低下头避开你的眼神，好像他和自己内心争斗了一番，然后赶紧站起来。%SPEECH_ON%不用说了，队长。 我会找出这骚乱是什么的。%SPEECH_OFF%他收拾好，站在营火的光亮边缘，漆黑的森林在那头正望着他。 他再次低下头，拳头握了又松。 他愤愤地迈步向前随即消失在阴影里。 过了段时间。他最终回来了。 他的衣服破烂不堪。 武器也不见了。 他唾沫横飞的讲了一个又一个故事。 什么魔戒，火山，巨鹰，满嘴疯言疯语。 不管他看到了什么，这家伙需要好好睡一觉了。 自从可怕的声音停下来后，他真得睡个好觉。}"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "[img]gfx/ui/events/event_33.png[/img]{Fear comes over the camp, but you fetch %wildman% to your side. The wildman snorts and runs his hand along his nose as though you've inconvenienced whatever inexplicable notion he has of his own time. He raises an eyebrow as you suggest, to the best of your pantomiming abilities, that he go and seek out the noise. With little further suggestion, the man grunts and takes off into the woods.\n\n You swear he's a good hundred meters off but you can still hear him barreling through the bushes making all the goddam noise in the world. The wild dogs quit their baying and in their place you hear a loud growl and the hoots of a smaller one. They bandy back and forth and you notice you can feel the ground tremoring beneath your feet. The vibrations falter and fade and the screaming halts altogether. Just as you begin to worry, the wildman walks back into camp. He sits beside the campfire, yawns, turns over, and falls asleep. It is as though he'd never left at all.}"
+msgstr "[img]gfx/ui/events/event_33.png[/img]{恐惧笼罩着营地，但是你把 %wildman% 叫到身边。 野人哼的一声揉揉鼻子，你的做法让他摸不着头脑。 他挑了挑眉毛看着你，你手舞足蹈的比划表明想让他去找到噪音。 你掏空心思表明清楚后，这家伙才嘟囔着跑进了树林。\n\n 你发誓他离你已经有一百多米远，但你还是能听到他在灌木丛中发出奔驰的声音，发出这世上最该死的噪音。 野狗停止了吠叫，但接着那地方传来了一声大的咆哮和狗的一小声惨叫。 你的人佛口蛇心的讨论着，你能感到大地在颤动。 之后颤动减弱了和叫声一起直到消失。 你开始担心起来，这时候野人回来了。 他做在营火旁打了个哈欠，一翻身就睡着了。 好像他就没出去过一样。}"
+
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "[img]gfx/ui/events/event_14.png[/img]{It does appear the men will not be assuaged by telling them to grow a pair. %hunter% elects to go seek out the noise, as he's sure it's nothing more than the wild dogs squabbling over primacy over the pack. You send him on his way, the man venturing into the dark all by his lonesome. Just as soon as he's gone the canines cease their crying and you hear a growl that seems as though it came from a much higher ground. The whole camp is dead silent, daring not to even move.\n\n An hour later and the hunter walks into camp, nobody having heard him come in. He's camouflaged himself in mud slaked with twigs and leaves. He's grafted stems into a hood which he wears like some arboreal abbess. With hushed tones, the sellswords ask what he saw. He shrugs.%SPEECH_ON%Well. I seen about a dozen dead dogs. Some ripped apart. Found a few in the pit of very large footprints and they'd not found the print but had been stomped there, you know. And I saw something move along in the shadows between the tree tops and it went the other way and I did not follow. I found a deer dead on its feet leaning against a tree. Heart faltered by whatever it saw, I suppose. I harvested everything I could.%SPEECH_OFF%The man turns and slings forward a rack of meat strung to a paneling of wood and leaves.%SPEECH_ON%Anyone hungry?%SPEECH_OFF%} "
+msgstr "[img]gfx/ui/events/event_14.png[/img]{加强警备似乎不会缓解这些人的情绪。%hunter% 决定去探明一下声音的问题，因为他觉得那不过是野狗为了争夺族群里的狗王才发出的声音。 你同意了，他冒险独自一人走进黑暗。 他一走进去那些狗就停止了叫声，紧接着你听到了类似低吼的声音从更高的地方传来。 整个营地甚至动都不敢动，一片死寂。\n\n 一个小时后他走进营地了，但没人听到他回来的动静。 他用泥巴和树叶把自己伪装起来。 帽子里插着树枝，看起来就像树林修女院院长。 大伙压低声音问他看到了什么。他耸耸肩。%SPEECH_ON%额。我看到了十几只死狗。 一些被撕碎了。一些在几个巨大的脚印坑里找到了，它们被踩死了，你懂的。 我还看见一些东西在树梢的阴影里移动，往另一个方向去了，我没跟着。 我发现有一只鹿撞在树上死了。 我想，管我看见的是什么我的心都害怕地发抖。 我已经竭尽所能。%SPEECH_OFF%他转过身来，掏出一吊子肉上面沾着树叶。%SPEECH_ON%有人饿了吗？%SPEECH_OFF%} "
+
+
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid "Absolutely not!"
+msgstr "绝对不行！"
+
+
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid "Speak to me, Davkul."
+msgstr "对我说话，达库尔。"
+
+
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid "And with him, darkness."
+msgstr "还有和他在一起的，黑暗。"
+
+
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid "Horrified by the death of "
+msgstr "被死亡吓坏了，死的是 "
+
+
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid "It is done, and it is good."
+msgstr "它被做出来了，而且它很好。"
+
+
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid "The sacrifice must be made."
+msgstr "这场献祭一定要进行。"
+
+
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid "Was denied the chance to appease Davkul"
+msgstr "被剥夺了抚慰达库尔的机会"
+
+
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid "A grisly aspect of Davkul, an ancient power not from this world, and the last remnants of "
+msgstr "A grisly aspect of Davkul, an ancient power not from this world, and the last remnants of "
+
+
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid " from whose body it has been fashioned. It shall never break, but instead keep regrowing its scarred skin on the spot."
+msgstr " from whose body it has been fashioned. 它永远不会破裂，而是在原地不断地再生它那伤痕累累的皮肤。"
+
+
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid "[img]gfx/ui/events/event_33.png[/img]%cultist% enters your tent and a strong, brisk wind chases in after him, rearing up your scrolls and other notes. He walks forward, hands crossed before him, a rather priestly look to his approach.%SPEECH_ON%Sir, I've been spoken to and it is a grave matter which I've been given responsibility for.%SPEECH_OFF%You put your hand up and tell the man to be silent. Carefully, you reach out to each candle in the tent and snuff them out until one remains. You bring it to your face..."
+msgstr "[img]gfx/ui/events/event_33.png[/img]%cultist% 进入你帐篷，一阵强劲、凛冽的风紧随其后，刮起你的卷轴和其他文件。 他走上前，双手交叉在胸前，看起来相当虔诚地走近。%SPEECH_ON%先生，我被喻示了，而且是件我被赋予责任的大事。%SPEECH_OFF%你举起手来，叫他安静。 小心地，你走到帐篷里的每一根蜡烛前面，把它们一一熄灭，直到有一根还剩下。 你把蜡烛拿到面前…"
+
+
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid "[img]gfx/ui/events/event_33.png[/img]You feel this is a test. Not one to pass by sacrificing one of your men, but quite the opposite. Davkul may have sent false believers to see if you would do all that they say, simply because they say it. You do not know how you know this, you just know, which is the very sort of certainty a man should follow most. Just as you stand to go tell %cultist% of your decision, half the candles in the room suddenly blow out. Tendrils of smoke waft in the remaining gloom, a twisting haze through which, for but a moment, you swear you see a blackened visage fade out the tent's opening. You get the feeling that %cultist% already knows what choice you've made. You stay in the tent and await Davkul's presence. When it is not felt, you simply light the candles again and speak to the emptied room.%SPEECH_ON%Davkul awaits us all.%SPEECH_OFF%"
+msgstr "[img]gfx/ui/events/event_33.png[/img]你觉得这是个考验。 没有人会用牺牲其中一个战友的方法来通过考验，这是绝对应该反对的。 达库尔可能派了错误的信徒来查看你是否按他们说的做了，仅仅因为他们说过。 你不知道你是怎么知道这些的，你只知道，这正是一个男人最应该遵循的。 正当你准备告诉 %cultist% 你的决定时，房间里的一半蜡烛突然熄灭了。 缕缕青烟在残留的黑暗中飘荡，那是一种扭曲的烟雾，你发誓，在那烟雾中，你能看到一张发黑的脸，一会儿就从帐篷的出口消失了。 你会有这样一种感觉，%cultist% 早就已经知道你的选择了。 你呆在帐篷里，等着达库尔的出现。 当感觉不到的时候，你只是再次点燃蜡烛，对着空无一人的房间说话。%SPEECH_ON%达库尔即将降临到我们。%SPEECH_OFF%"
+
+
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid "[img]gfx/ui/events/event_33.png[/img]Kneeling before the candle, you hold your hand over the flame and the fire comes to a standstill, pointing upright and unmoving. You've seen icicles more animated than it. You stare into the glow and the tent melts away, slipping into the folds of an immense and immutable darkness. The cultist is gone. In his place is a black cloak, its arms to your shoulders, a slate of granite for a head, its edges chipped and cracking. It appears there is something behind this mask, behind this futile effort to keep your mind safe from its true visage. You reach out to the mask, but some invisible force stops you.%SPEECH_ON%In good time you shall see all that I am.%SPEECH_OFF%The voice is booming yet narrowed into a brutish whisper only for you to hear.%SPEECH_ON%I'll give you Death, mortal, and warmed in its comforts, Death shall be visited upon your enemies. %sacrifice% will not be lost, he will be with you always, this I promise you.%SPEECH_OFF%A whiteness snaps back over you, a rush of wind, tent flaps curling outward, the candle's flame tilting impossibly without going out, and a frigid coolness that has your first breath seen floating across the air. %cultist% is nowhere to be seen. You quickly get up and touch your face and skin, making sure that you are all that you're supposed to be. To your great disappointment, Davkul is gone and you are still you."
+msgstr "[img]gfx/ui/events/event_33.png[/img]你跪在蜡烛前，把手放在火焰上，火就停了下来，笔直而不动。 你见过的冰柱似乎比它更生动。 你凝视着夜光，帐篷融化了，堕入一片无尽的黑暗中。 异教徒离开了。 在他的之前的位置上是一件黑色斗篷，它保护你的双肩，一片花岗岩作为头部，它的边缘破碎并裂开着。 在这张面具的背后似乎有什么东西，在这徒劳的努力背后保护你的思想不受其真实面目的影响。 你伸手去拿面具，但是一些看不见的力量阻止了你。%SPEECH_ON%在一个好时候，你会看到我的全部。%SPEECH_OFF%这声音是隆隆的，但变小成一种只有你才能听到的粗野的低语。%SPEECH_ON%我将赐予你死亡，凡人，和它温暖的慰藉，死亡将会造访你的敌人们。%sacrifice% 不会消失，他与你同在，这是我向你保证的。%SPEECH_OFF%一股白浪卷回你身上，一阵狂风，帐篷的襟翼向外卷曲，蜡烛的火焰倾斜着，难以置信的没有熄灭，当你开始用喉咙呼吸的时候，感到阵阵凉意。%cultist% 不见了踪影。 你迅速站起来，触摸你的脸和皮肤，确保你就是你本来的样子。 令你失望的是，达库尔走了，而你还是你。"
+
+
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid "[img]gfx/ui/events/event_33.png[/img]Davkul would be most unhappy with your failure to obey, not that you feel any urge other than to do what is asked. You and the %cultist% go to %sacrifice%'s tent. He leans up as though already expecting you and he sees the knife in the carriage of your party and nods at the simple sight of it. %cultist% kneels beside the man and you realize they've already talked before this, that the question to you very well may have been a test of your devotion to Davkul. You are happy to have passed.\n\n%sacrifice% unbuttons his shirt and %cultist% pierces his chest as though he were putting a key into a lock, and he twists it all the same. The sacrifice gasps and tenses, for no devotion to Davkul can put aside the manner in which death may be permitted, which is in pain and suffering. But he smiles, and the light doesn't so much go out of his eyes as the darkness, a sort you haven't seen before, replaces it. And like that, he is gone.\n\n %cultist% gets to work on the still warm corpse, carving the flesh with rapid slices across the skin and hard cuts into the tendons. He pulls the chest apart. A black fog lingers with the blade's every move, and it seems to sway cheerily after its every move. When %cultist% is done, %sacrifice% has been turned into a slab of armor, flesh torn asunder and stretched, teeth for rivets, tendons for strappings, bones for pauldrons, a cuirass of absolute carnage. And it pulses and moves as though that manifested it still lived. %cultist% turns to you, his hands slopped red.%SPEECH_ON%Davkul awaits us all.%SPEECH_OFF%You nod and embrace your fellow comrade."
+msgstr "[img]gfx/ui/events/event_33.png[/img]达库尔会对你的不服从感到最不高兴，不是因为你除了按要求去做之外，还有其他的要求。 你和 %cultist% 一起去了 %sacrifice%的帐篷。 他探起身子，就好像已经在等着你了，他看着你们部队马车上的刀，目光坚定的点头。%cultist% 跪在这个人旁边，你意识到他们在此之前已经谈过了，这个问题对你来说很可能是对你是否忠于达库尔的考验。 你很高兴你通过了考验。\n\n%sacrifice% 解开了他的衬衫扣子，%cultist% 刺穿了他的胸膛，就好像他把钥匙插进了锁里一样，他还是拧开了锁。 这种献祭让人喘不过气来，也让人紧张，因为任何对达库尔的忠诚都无法抛开死亡的可能，那是一种痛苦和折磨。 但他微笑着，眼中的光芒并没有很快消失，一种你从未见过的黑暗，取代了它。 就这样，他死了。\n\n %cultist% 开始在仍然温暖的尸体上工作，沿着皮肤和坚硬的肌肉把尸体上的肉快速切成薄片。 他把尸体的胸腔拉开。 刀锋的每一个动作都带着一团黑雾，似乎在每一个动作之后都欢快地摇摆着。 When %cultist% is done, %sacrifice% has been turned into a slab of armor, flesh torn asunder and stretched, teeth for rivets, tendons for strappings, bones for pauldrons, a cuirass of absolute carnage. 它像脉搏一样跳动着，好像它仍然有生命力一样。%cultist% 转向你，双手被鲜血染红了。%SPEECH_ON%达库尔即将降临到我们。%SPEECH_OFF%你点头并拥抱你的战友。"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_another_squire_event.nut
+msgid "Confused about his role as your squire"
+msgstr "Confused about his role as your squire"
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_another_squire_event.nut
+msgid "And to think I used to roam these lands alone..."
+msgstr "And to think I used to roam these lands alone..."
+
+
+# scripts/events/events/dlc4/lone_wolf_origin_another_squire_event.nut
+msgid "[img]gfx/ui/events/event_64.png[/img]{%squire% comes up to you scratching the back of his head. He looks like he has something on his mind, and you prod him to let it out. Sighing, he asks why %squire2% was hired onto the company.%SPEECH_ON%He's a squire, I'm a squire, are we both your squires?%SPEECH_OFF%You inform the lad that %squire2% was squire to another man, but things changed in his life to lead him here. For all intents and purposes, he is a sellsword now and %squire% is indeed still your squire. %squire% lights up with a smile, but it quickly goes awry.%SPEECH_ON%Wait, does that mean I'm more sellsword than squire?%SPEECH_OFF%You press a ledger into the kid's chest and tell him to go count inventory.}"
+msgstr "[img]gfx/ui/events/event_64.png[/img]{%squire% comes up to you scratching the back of his head. He looks like he has something on his mind, and you prod him to let it out. Sighing, he asks why %squire2% was hired onto the company.%SPEECH_ON%He's a squire, I'm a squire, are we both your squires?%SPEECH_OFF%You inform the lad that %squire2% was squire to another man, but things changed in his life to lead him here. For all intents and purposes, he is a sellsword now and %squire% is indeed still your squire. %squire% lights up with a smile, but it quickly goes awry.%SPEECH_ON%Wait, does that mean I'm more sellsword than squire?%SPEECH_OFF%You press a ledger into the kid's chest and tell him to go count inventory.}"
+
+
+# scripts/events/events/dlc4/ijirok_3_event.nut
+msgid "All sorts of strange in these wastes."
+msgstr "这片荒地上全是奇怪的东西。"
+
+
+# scripts/events/events/dlc4/ijirok_3_event.nut
+msgid "[img]gfx/ui/events/event_76.png[/img]{While camping in the northern wastes, a silhouette approaches, a flat black whose appearance was seemingly cut out of the thin air itself. As it nears, an orange glow blossoms from a horn of fire. The company draw their weapons for what shadowy figure could possibly be out here in all this nothing? What 'something' crosses such a wretched land? But you find it is just elderly man with a bald pate and bulbous, red nose. If the snow could carve man from granite, this would be the look of its creation. The stranger passes through the camp with the company turning to him and yelling out, but not one sellsword goes near him. He finally leans down and puts the horn to the ground and the snow extinguishes its fire. Then he gets up and keeps going and soon disappears into the fog of night.\n\n  %randombrother% picks up the horn and tips it over. A rose falls out and its clear even in the dark that the petals are soft, but already curling to the brutal cold. You look around for the old man and see his tracks still fresh in the powder.}"
+msgstr "[img]gfx/ui/events/event_76.png[/img]{当我们在北部荒原宿营的时候，一个轮廓出现了，一个扁平的黑色物体，它的外形似乎是从稀薄的空气中切割出来的。 当它接近时，橙色的光芒从一个火焰之角中绽放。 战队拔出他们的武器，为应对可能出现的黑影或者虚惊一场？ 什么“东西”穿越了这么荒凉的土地？ 但你发现他只是一个秃头红鼻子的老人。 如果能用雪把人从花岗岩上雕刻出来，那就是他的模样。 那个陌生人穿过营地，同伙们都转向他大喊大叫，但没有一个佣兵靠近他。 他终于俯下身，把号角放在地上，雪熄灭了它的火焰。 然后他起身继续走，很快就消失在夜色中。\n\n  %randombrother% 捡起号角，把它翻转过来。 一朵玫瑰凋谢了，即使在黑暗中，它的花瓣也是透明的，柔软的，但已经在严寒中卷曲。 你四处寻找那位老人，发现他的足迹仍未消失。}"
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+msgid " loses [color="
+msgstr " loses [color="
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+msgid "He awaits us all."
+msgstr "他即将降临到我们。"
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+msgid "]-1[/color] Resolve"
+msgstr "]-1[/color] Resolve"
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+msgid "Let's get godly with the goriest!"
+msgstr "让我们用最血腥的方式来尊敬古老神明吧！"
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+msgid "May the darkness be ever infinite."
+msgstr "愿黑暗永远永存。"
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+msgid "Davkul awaits, we need not go to him."
+msgstr "达库尔即将降临，我们不需要麻烦他。"
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+msgid "Lost composure and resorted to violence"
+msgstr "失去镇静，诉诸暴力"
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+msgid "Was denied the chance to enlighten a cultist"
+msgstr "被剥夺了启发异教者的机会"
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+msgid "Was denied the chance to break a follower of the old gods"
+msgstr "被剥夺了击溃古老神明的追随者的机会"
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+msgid "[img]gfx/ui/events/event_06.png[/img]While enjoying a slice of bacon, you hear a quarrel taking shape. You ignore it for a time, but the shouts only get louder, quickly rising over your ability to enjoy a good meal. Angered, you stand up and head toward the disturbance. You find %cultist% and %oldgods% facing off, the cultist and follower of the old gods having apparently discovered some differences to which the latter no doubt cannot even begin to truly understand."
+msgstr "[img]gfx/ui/events/event_06.png[/img]正在享用一片培根的时候，你听到一场争吵愈演愈烈。 你忽视它一段时间，但叫喊声只是越来越大，迅速上升让你无法安心享用一顿美餐。 被惹怒了，你站起来朝骚动的方向走去。 你发现 %cultist% 和 %oldgods% 正在对峙，这些异教徒和古老神明的追随者们显然发生了一些分歧，而后者显然无法真正开始理解这些差异。"
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+msgid "[img]gfx/ui/events/event_03.png[/img]You figure to let them do what they must, but a shadow draws over both your shoulders. The blackness spools before you until it’s a great sheet blocking the world whole. In this infinite space there is a view of men dying, that of %cultist% and %oldgods%, and you see yourself amongst them. And more than that, you see a deed left undone, your work with and through Davkul unfinished. Just as you realize the omen, it snaps away and you find the two men ready to fight.\n\n Shouting, you split the godly and ungodly apart. %oldgods% leaves, but you spend a moment with %cultist%, leaning in and whispering.%SPEECH_ON%The light is only for a moment, brother, and its extinguishment is inevitable. Trust in Davkul, and await the darkness that is to come.%SPEECH_OFF%"
+msgstr "[img]gfx/ui/events/event_03.png[/img]你想让他们做他们必须做的事，但你肩膀上浮现了阴影。 The blackness spools before you until it’s a great sheet blocking the world whole. 在这无限的空间里，有一种死人的观点，那是 %cultist% 和 %oldgods%，你看到你自己在他们中间。 更重要的是，你看到的是一件未完成的事，你的工作和为达库尔干的都没有完成。 就在你意识到预兆的时候，它突然消失了，你发现那两个人正准备战斗。\n\n 大叫着，你们喊叫，把信古老神明的人和邪教徒分开了。%oldgods% 离开了，但你花了一点时间与 %cultist%，靠在一起耳语。%SPEECH_ON%光明只是暂时的，兄弟，它的消逝是不可避免的。 相信达库尔，等待黑暗的来临。%SPEECH_OFF%"
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+msgid "[img]gfx/ui/events/event_06.png[/img]You step off to the side, letting the men hash out their differences as men with great differences do. Fists for arguments, the follower of the old gods makes his case, battering the cultist again and again. But the man with the scarred head only grins in return. His eyes are puffing up, the lids purpled and puckering over his eyesight. Yet, still, he grins, and there is bloody laughter spewing out of his reddened mouth.%SPEECH_ON%Such darkness! Davkul is most pleased!%SPEECH_OFF%With an axious look, %oldgods% steps off %cultist% and backs away. He's rubbing his bloodied knuckles, realizing he may have broken a few in the seemingly one-sided scuffle. But it's the cultist's words that hurt him most of all.%SPEECH_ON%Man isn't tempted by the darkness, he is called to it! Lost without it! Gleeful in its return!%SPEECH_OFF%Almost afraid to look back, %oldgods% hurries away as the cultist remains behind, laughing and chuckling on the grass. You go over and pick him up, clapping a hand on his shoulder.%SPEECH_ON%Davkul awaits us all, brother. You did well.%SPEECH_OFF%"
+msgstr "[img]gfx/ui/events/event_06.png[/img]你退到一旁，让队员们用男人的方式解决分歧。 古老神明的追随者们挥舞着拳头为自己辩护，一次又一次地打击着异教徒。 但那个头上有疤的人只以咧嘴笑回应。 他的眼睛肿了起来，眼皮皱成紫色，遮住了他的视线。 然而，他仍然咧嘴一笑，从他流血的嘴里流出了恐怖的笑声。%SPEECH_ON%如此黑暗！达库尔一定很高兴！%SPEECH_OFF%焦虑的看了一眼，%oldgods% 离开了 %cultist% 并后退了。 他揉着血淋淋的指关节，意识到自己可能在这场看似一边倒的混战中弄断了几个。 但最刺伤他的是那个异教徒的话。%SPEECH_ON%人不是受到黑暗的诱惑，而是受到黑暗的召唤！ 失去了没有它！它的归来让人欣喜！%SPEECH_OFF%几乎不敢回头看，%oldgods% 匆忙离开，而异教徒留在后面，在草地上笑着。 你走过去抱起他，拍着他的肩膀。%SPEECH_ON%达库尔即将降临到我们，兄弟。你做的很好。%SPEECH_OFF%"
+
+
+# scripts/events/events/dlc4/cultist_origin_hood_event.nut
+msgid "[img]gfx/ui/events/event_03.png[/img]{%randomcultist%, one your followers, enters your tent and then just as soon leaves. You stand to see where he's gone, but come to find a leather half-helm sitting atop your table. The leather is stitched with hairs of unknown origin and pinched together by what look like hooks and fingernails. The holes of the helm are a pitch black, and you get the sense that even if you filled them the darkness would never depart. It is then, staring into those emptied sockets, that you know something is staring back. You nod approvingly.}"
+msgstr "[img]gfx/ui/events/event_03.png[/img]{%randomcultist%，你的一个追随者，进入你的帐篷，然后很快的离开了。 你站起来想看看他去哪儿了，却发现你的桌子上放着一顶皮头盔。 这种皮革是用来历不明的毛发缝制而成，然后用看似钩子和指甲的东西把它们夹在一起。 头盔上的洞是漆黑一片，你能感觉到即使你把它们填满，黑暗也永远不会消失。 然后，盯着头盔上那些空槽，你知道有什么东西在盯着你。你赞许地点头。}"
+
+
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "Damn those scroundels!"
+msgstr "这帮该死的鼠辈！"
+
+
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "We could use fighting men like you."
+msgstr "我们可以用上像你们这样的战士。"
+
+
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid " before he volunteered to join your company."
+msgstr " before he volunteered to join your company."
+
+
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "%name% deserted an army regiment together with "
+msgstr "%name% deserted an army regiment together with "
+
+
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "Running from bounty hunters and executioners from some time, %name% bumped into your company on the road and promptly volunteered."
+msgstr "一段时间以来，为了躲避赏金猎人和行刑者，%name% 在路上撞到了你的战队，并立即自愿加入。"
+
+
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "[img]gfx/ui/events/event_88.png[/img]{It would be almost satisfyingly ironic to string these men up and hang them for what they'd done, but you are not about to set that tone for the company. You welcome them to the band, sending them forth to the inventory. %victim% keeps an eye on them for a time, but he reports that the men are true to their word and will fight.}"
+msgstr "[img]gfx/ui/events/event_88.png[/img]{如果把他们用绳子挂起来并且吊死他们，因他们所做的那些事，那一定会及其的讽刺，但是你不打算让战队保持在那种氛围中。 你欢迎他们加入团队，并让他们接近物资。%victim% 盯着他们看了好一会儿，然后他报告说那些人说的是实话，他们将会为你战斗。}"
+
+
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "[img]gfx/ui/events/event_05.png[/img]{It would be almost satisfyingly ironic to string these men up and hang them for what they'd done, but you are not about to set that tone for the company. You welcome them to the band, sending them forth to the inventory with %victim% keeping an eye on them. Except you don't see your sellsword for a suspicious length of time. When you go looking, he's found knocked out on the ground and the inventory ransacked. The two men are nowhere to be seen!}"
+msgstr "[img]gfx/ui/events/event_05.png[/img]{如果把他们用绳子挂起来并且吊死他们，因他们所做的那些事，那一定会及其的讽刺，但是你不打算让战队保持在那种氛围中。 你欢迎他们加入团队，并让他们接近物资，让 %victim% 盯着他们。 但你并没有保留一段用来怀疑的时间，并在这期间看住你的佣兵。 当你去看的时候，他被发现打昏在地上，物资都被洗劫了。 那两个人不知道去了哪里！}"
+
+
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "[img]gfx/ui/events/event_88.png[/img]{A pair of men looking disheveled and weary emerge from some bushes beside the road. They hold their hands up as if they'd come to surrender themselves.%SPEECH_ON%Are ye the %companyname%? We'd heard you were a band of deserters. And I don't mean that as an insult. We're runners, too, but we got nowhere else to go. Everywhere we turn there are bounty hunters and executioners. Let us fight for you. It ain't the fight that ever scared us, we swears by that.%SPEECH_OFF%}"
+msgstr "[img]gfx/ui/events/event_88.png[/img]{两个看起来衣衫不整、疲倦的的人从路旁的一些树丛里冒了出来。 他们举起了他们的手，好像他们是过来投降的。%SPEECH_ON%你们是 %companyname%？我们已经听说了，你们是逃兵们组成的战团。 我这不是一种侮辱。 我们也是逃兵，但是我们无路可走了。 我们去的每一处都是赏金猎人和行刑者。 让我们为你而战吧。 战斗从来就吓不倒我们。%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
+msgid "Show him the darkness."
+msgstr "向他展示黑暗吧。"
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
+msgid "Davkul does not want him."
+msgstr "达库尔并不想要他。"
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
+msgid "[img]gfx/ui/events/event_05.png[/img]You nod and turn away. By next morning, %uneducated% is found with a fresh wound on his forehead, the blood of conversion and the price some must pay to devote themselves to Davkul. When you ask how he is doing, he only says a few words.%SPEECH_ON%Davkul is coming.%SPEECH_OFF%Shaking your head, you correct him.%SPEECH_ON%Davkul is not coming. Davkul AWAITS us all.%SPEECH_OFF%"
+msgstr "[img]gfx/ui/events/event_05.png[/img]你点头，转身走开了。 直到第二天早上，%uneducated% 被发现在他的额头上有一个新的伤口，流血的谈话和一些代价必须要付出才能皈依达库尔。 你问他感觉如何，他只说了几句话。%SPEECH_ON%达库尔就要来了。%SPEECH_OFF%摇着头，你纠正他。%SPEECH_ON%达库尔不是就要来了。 达库尔即将降临到我们。%SPEECH_OFF%"
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
+msgid "[img]gfx/ui/events/event_05.png[/img]You separate the two men, telling %uneducated% to go count some inventory. When he leaves, %cultist% sneers at you.%SPEECH_ON%Davkul awaits. You see him in your sleep. You see him in the nights. His darkness is coming. No light burns forever.%SPEECH_OFF%The man pauses and stares into your soul. And you stare back from somewhere not of your body. You can only see infinite blackness around you and a pip of light through which %cultist% is looking. Slowly, you float back toward the light and find yourself blinking and staring at the man. He bows.%SPEECH_ON%Apologies, captain, I did not know that Davkul had such plans.%SPEECH_OFF%Blinking again, you can only nod."
+msgstr "[img]gfx/ui/events/event_05.png[/img]你把这两个人分开，让 %uneducated% 去清点一些存货。 当他离开时，%cultist% 嘲笑你。%SPEECH_ON%达库尔即将降临。你在梦中看到他了。 你在夜晚看到他了。 他的黑暗就要来了。 没有永远燃烧的光明。%SPEECH_OFF%异教徒停下来，凝视着你的灵魂。 你从回头盯着某个地方，而不是你的身体。 你只能看到周围无限的黑暗和一小束光，%cultist% 正在瞅着呢。 慢慢地，你挪向那道光，发现自己在眨眼睛，并盯着那个男人。他鞠躬。%SPEECH_ON%抱歉，队长，我不知道达库尔还有这样的计划。%SPEECH_OFF%又眨了眨眼睛，你只能点头。"
+
+
+# scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
+msgid "[img]gfx/ui/events/event_05.png[/img]A few brothers come to you looking rather worried. They say %cultist% has been sitting with %uneducated% for a few hours now. When you ask what's the worry, they remind you that the cultist has a scarred forehead and speaks of incredibly strange things. Yeah. Those are the demands of Davkul, an example of one's committment. You do not understand what could possibly be wrong with that.\n\n You go and see the two men. %uneducated% looks up at you, smiling, and says the cultist actually has a lot to teach him. Perhaps he does, but you know Davkul's presence need not be felt in all, and if it desired being forced upon the world it would be a misapprehension of Davkul's purpose."
+msgstr "[img]gfx/ui/events/event_05.png[/img]有几个兄弟来找你，看上去很着急。 他们说 %cultist% 和 %uneducated% 坐在一起已经几个小时了。 当你问他们担心什么时，他们会提醒你，那个额头有伤疤的异教徒，说着令人难以置信的怪事。 是的。这些都是达库尔的要求，一个关于承诺的范例。 你不知道这会有什么问题。\n\n 你去看看那两个人。%uneducated% 抬头看着你，微笑着，说这个异教徒有很多东西要教他。 也许他是这么想的，但你知道，达库尔的存在根本不需要被感知，如果他渴望被强加到这个世界上，那将是对达库尔奥义的误解。"
+
+

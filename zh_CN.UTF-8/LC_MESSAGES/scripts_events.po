@@ -1,0 +1,55 @@
+# scripts/events/event_manager.nut
+msgid "State"
+msgstr "State"
+
+
+# scripts/events/event.nut
+msgid "\n\n[color=#bcad8c]\""
+msgstr "\n\n[color=#bcad8c]\""
+
+
+# scripts/events/event.nut
+msgid "[color=#bcad8c]\""
+msgstr "[color=#bcad8c]\""
+
+
+# scripts/events/event_manager.nut
+msgid "no event???"
+msgstr "no event???"
+
+
+# scripts/events/event_manager.nut
+msgid "' not found."
+msgstr "' not found."
+
+
+# scripts/events/event_manager.nut
+msgid "' is already queued."
+msgstr "' is already queued."
+
+
+# scripts/events/event_manager.nut
+msgid "Failed to fire event - with id '"
+msgstr "Failed to fire event - with id '"
+
+
+# scripts/events/event_manager.nut
+msgid "Failed to fire event - another event with id '"
+msgstr "Failed to fire event - another event with id '"
+
+
+# scripts/events/event.nut
+msgid "Screen '"
+msgstr "Screen '"
+
+
+# scripts/events/event.nut
+msgid "[color=#f6eedb]"
+msgstr "[color=#f6eedb]"
+
+
+# scripts/events/event.nut
+msgid "' not found for event '"
+msgstr "' not found for event '"
+
+

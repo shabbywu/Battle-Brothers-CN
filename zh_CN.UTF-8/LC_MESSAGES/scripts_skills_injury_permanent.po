@@ -1,0 +1,240 @@
+# scripts/skills/injury_permanent/brain_damage_injury.nut
+msgid "]-25%[/color] Experience Gain"
+msgstr "]-25%[/color] 经验获取"
+
+
+# scripts/skills/injury_permanent/missing_nose_injury.nut
+msgid "Missing Nose"
+msgstr "鼻缺失"
+
+
+# scripts/skills/injury_permanent/missing_nose_injury.nut
+msgid "]-10%[/color] Max Fatigue"
+msgstr "]-10%[/color] Max Fatigue"
+
+
+# scripts/skills/injury_permanent/missing_nose_injury.nut
+msgid "A gaping hole is all that is left of the nose, making this character hard to look at."
+msgstr "鼻子上只剩下一个大洞，这让这个角色很难看。"
+
+
+# scripts/skills/injury_permanent/broken_elbow_joint_injury.nut
+msgid "Broken Elbow Joint"
+msgstr "肘关节折断"
+
+
+# scripts/skills/injury_permanent/broken_elbow_joint_injury.nut
+msgid "]-20%[/color] Melee Skill"
+msgstr "]-20%[/color] Melee Skill"
+
+
+# scripts/skills/injury_permanent/broken_elbow_joint_injury.nut
+msgid "]-20%[/color] Ranged Skill"
+msgstr "]-20%[/color] Ranged Skill"
+
+
+# scripts/skills/injury_permanent/broken_elbow_joint_injury.nut
+msgid "]-30%[/color] Melee Defense"
+msgstr "]-30%[/color] Melee Defense"
+
+
+# scripts/skills/injury_permanent/broken_elbow_joint_injury.nut
+# scripts/skills/injury_permanent/collapsed_lung_part_injury.nut
+# scripts/skills/injury_permanent/weakened_heart_injury.nut
+# scripts/skills/injury_permanent/maimed_foot_injury.nut
+# scripts/skills/injury_permanent/broken_knee_injury.nut
+# scripts/skills/injury_permanent/traumatized_injury.nut
+msgid "Is always content with being in reserve"
+msgstr "长期位于后备队不会不满意"
+
+
+# scripts/skills/injury_permanent/broken_elbow_joint_injury.nut
+msgid "A broken elbow that never fully healed hinders all movement of the arm and severely reduces combat effectiveness."
+msgstr "没有完全愈合的肘关节阻碍了手臂的所有运动，严重降低了战斗力。"
+
+
+# scripts/skills/injury_permanent/missing_hand_injury.nut
+msgid "Missing Hand"
+msgstr "手缺失"
+
+
+# scripts/skills/injury_permanent/missing_hand_injury.nut
+msgid "A missing hand prevents this character from using shields and two-handed weapons."
+msgstr "失去的手阻止这个角色使用盾牌和双手武器。"
+
+
+# scripts/skills/injury_permanent/missing_eye_injury.nut
+msgid "Missing Eye"
+msgstr "眼缺失"
+
+
+# scripts/skills/injury_permanent/missing_eye_injury.nut
+msgid "]-2[/color] Vision"
+msgstr "]-2[/color] Vision"
+
+
+# scripts/skills/injury_permanent/missing_eye_injury.nut
+msgid "]-50%[/color] Ranged Skill"
+msgstr "]-50%[/color] Ranged Skill"
+
+
+# scripts/skills/injury_permanent/missing_eye_injury.nut
+msgid "A missing eye makes it difficult to judge distance properly, and limits the field of view."
+msgstr "失明的眼睛使正确判断距离变得困难，并且限制了视野。"
+
+
+# scripts/skills/injury_permanent/collapsed_lung_part_injury.nut
+msgid "]-40%[/color] Fatigue"
+msgstr "]-40%[/color] Fatigue"
+
+
+# scripts/skills/injury_permanent/collapsed_lung_part_injury.nut
+msgid "Partly Collapsed Lung"
+msgstr "部分肺萎缩"
+
+
+# scripts/skills/injury_permanent/collapsed_lung_part_injury.nut
+msgid "A part of the lung has died, making it very hard for this character to catch breath."
+msgstr "A part of the lung 是死了, making it very hard for this character to catch breath."
+
+
+# scripts/skills/injury_permanent/brain_damage_injury.nut
+msgid "Brain Damage"
+msgstr "脑损伤"
+
+
+# scripts/skills/injury_permanent/brain_damage_injury.nut
+msgid "]+15%[/color] Resolve"
+msgstr "]+15%[/color] Resolve"
+
+
+# scripts/skills/injury_permanent/brain_damage_injury.nut
+msgid "]-25%[/color] Initiative"
+msgstr "]-25%[/color] Initiative"
+
+
+# scripts/skills/injury_permanent/brain_damage_injury.nut
+msgid "A hard hit to the head shook some things up and didn't exactly benefit this character's cognitive skills. On the bright side, he may now be just too stupid to realize when it's time to run."
+msgstr "头部的受到的重击使一些东西摇晃起来，并没有完全有利于这个角色的认知能力。从好的方面来说，他现在可能太蠢了，不知道什么时候该跑了。"
+
+
+# scripts/skills/injury_permanent/missing_ear_injury.nut
+msgid "Missing Ear"
+msgstr "耳缺失"
+
+
+# scripts/skills/injury_permanent/missing_ear_injury.nut
+msgid "]-10%[/color] Initiative"
+msgstr "]-10%[/color] Initiative"
+
+
+# scripts/skills/injury_permanent/missing_ear_injury.nut
+msgid "Luckily, a missing ear isn't that much of a hindrance for this character. But it does look gross."
+msgstr "幸运的是，失踪的耳朵并不是这个角色的障碍。但看起来确实很恶心。"
+
+
+# scripts/skills/injury_permanent/weakened_heart_injury.nut
+msgid "Weakened Heart"
+msgstr "心脏衰弱"
+
+
+# scripts/skills/injury_permanent/weakened_heart_injury.nut
+msgid "]-30%[/color] Hitpoints"
+msgstr "]-30%[/color] Hitpoints"
+
+
+# scripts/skills/injury_permanent/weakened_heart_injury.nut
+msgid "Past injuries left this character with a weakened heart, severely lowering his constitution."
+msgstr "曾经的伤病使这个角色的心脏衰弱，严重降低了他的体质。"
+
+
+# scripts/skills/injury_permanent/maimed_foot_injury.nut
+msgid "Maimed Foot"
+msgstr "残废足"
+
+
+# scripts/skills/injury_permanent/maimed_foot_injury.nut
+msgid "]-20%[/color] Initiative"
+msgstr "]-20%[/color] Initiative"
+
+
+# scripts/skills/injury_permanent/maimed_foot_injury.nut
+msgid "]1[/color] Additional Action Point per tile moved"
+msgstr "]1[/color] 额外的行动点，在每移动一格时消耗增加"
+
+
+# scripts/skills/injury_permanent/maimed_foot_injury.nut
+msgid "An injury to the foot has never fully healed, making it hard to win any dancing competitions or otherwise move around quickly."
+msgstr "脚上的伤从来没有完全愈合，这使得很难赢得任何舞蹈比赛或其他快速移动。"
+
+
+# scripts/skills/injury_permanent/broken_knee_injury.nut
+msgid "Broken Knee"
+msgstr "膝盖折断"
+
+
+# scripts/skills/injury_permanent/broken_knee_injury.nut
+msgid "]-40%[/color] Initiative"
+msgstr "]-40%[/color] Initiative"
+
+
+# scripts/skills/injury_permanent/broken_knee_injury.nut
+msgid "]-40%[/color] Melee Defense"
+msgstr "]-40%[/color] Melee Defense"
+
+
+# scripts/skills/injury_permanent/broken_knee_injury.nut
+msgid "]-40%[/color] Ranged Defense"
+msgstr "]-40%[/color] Ranged Defense"
+
+
+# scripts/skills/injury_permanent/broken_knee_injury.nut
+msgid "This character took something to the knee, and it never fully healed. Lunging forward or dodging can be painful, and it lacks any grace."
+msgstr "这个角色的膝盖受到了创伤，无法完全康复。前进或躲闪都很痛苦，还增加了这些动作的难度。"
+
+
+# scripts/skills/injury_permanent/traumatized_injury.nut
+msgid "Traumatized"
+msgstr "精神创伤"
+
+
+# scripts/skills/injury_permanent/traumatized_injury.nut
+msgid "]-40%[/color] Resolve"
+msgstr "]-40%[/color] Resolve"
+
+
+# scripts/skills/injury_permanent/traumatized_injury.nut
+msgid "]-30%[/color] Initiative"
+msgstr "]-30%[/color] Initiative"
+
+
+# scripts/skills/injury_permanent/traumatized_injury.nut
+msgid "This character has been to the other side. Faced with his own mortality, the experience of dying and coming back has left him a broken man."
+msgstr "这个角色已经到了另一边。面对自己的死亡，他经历了垂死和回归，留下了一个破碎的人。"
+
+
+# scripts/skills/injury_permanent/missing_finger_injury.nut
+msgid "Missing Finger"
+msgstr "手指缺失"
+
+
+# scripts/skills/injury_permanent/missing_finger_injury.nut
+msgid "]-5%[/color] Melee Skill"
+msgstr "]-5%[/color] Melee Skill"
+
+
+# scripts/skills/injury_permanent/missing_finger_injury.nut
+msgid "]-5%[/color] Ranged Skill"
+msgstr "]-5%[/color] Ranged Skill"
+
+
+# scripts/skills/injury_permanent/missing_finger_injury.nut
+msgid "A missing finger makes it harder to firmly grab a weapon or shield, but it also makes for a good story."
+msgstr "一根手指的缺失使得很难牢牢地抓住武器或盾牌，但同时也会成为一个好故事。"
+
+
+# scripts/skills/injury_permanent/permanent_injury.nut
+msgid "Permanent"
+msgstr "永久的"
+
+

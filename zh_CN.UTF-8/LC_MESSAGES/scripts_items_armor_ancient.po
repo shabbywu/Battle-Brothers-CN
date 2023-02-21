@@ -1,0 +1,95 @@
+# scripts/items/armor/ancient/ancient_plate_harness.nut
+msgid "Ancient Plate Harness"
+msgstr "古代胄板甲"
+
+
+# scripts/items/armor/ancient/ancient_plate_harness.nut
+msgid "Made of thick metal plates and mail, this heavy ancient armor still offers great protection after countless years. It's crusted and rotten in parts, however, severely limiting the mobility of the wearer."
+msgstr "这件沉重的古代盔甲用厚金属板和链甲制成，历经无数年仍能提供巨大的保护。然而它部分已经腐烂得很粗糙了，这严重限制了穿戴者的机动性。"
+
+
+# scripts/items/armor/ancient/ancient_mail.nut
+msgid "Ancient Mail"
+msgstr "古代链甲"
+
+
+# scripts/items/armor/ancient/ancient_mail.nut
+msgid "An old and crusted heavy mail of ancient design. Some parts are missing, but it still offers decent protection."
+msgstr "古老而又粗糙的沉重链甲。一些部件不见了，但仍然提供了良好的保护。"
+
+
+# scripts/items/armor/ancient/ancient_scale_coat.nut
+msgid "Ancient Scale Coat"
+msgstr "古代鳞甲"
+
+
+# scripts/items/armor/ancient/ancient_scale_coat.nut
+msgid "A heavy and tarnished scale coat of ancient design that belongs in a collection, not on the battlefield."
+msgstr "A heavy and tarnished scale coat of ancient design that belongs in a collection, not on the battlefield."
+
+
+# scripts/items/armor/ancient/ancient_breastplate.nut
+msgid "Ancient Breastplate"
+msgstr "古代胸甲"
+
+
+# scripts/items/armor/ancient/ancient_breastplate.nut
+msgid "A tarnished thick breastplate of ancient origin."
+msgstr "一件已经褪色的厚实的古代护胸甲。"
+
+
+# scripts/items/armor/ancient/ancient_double_layer_mail.nut
+msgid "Ancient Double Layer Mail"
+msgstr "古代双层链盔甲"
+
+
+# scripts/items/armor/ancient/ancient_double_layer_mail.nut
+msgid "A heavy and rotten double-layered mail of ancient design. Not comfortable to wear but still useable."
+msgstr "一件沉重而又腐朽的双层链盔甲，穿起来很不舒服，但仍然可以使用。"
+
+
+# scripts/items/armor/ancient/ancient_plated_scale_hauberk.nut
+msgid "Ancient Plated Scale Hauberk"
+msgstr "古代镀鳞锁子甲"
+
+
+# scripts/items/armor/ancient/ancient_plated_scale_hauberk.nut
+msgid "A heavy coat of scales, partly reinforced with a layer of plated metal on top. It's a massive armor of ancient origin that didn't age well."
+msgstr "一件在金属板镀上鳞的沉重盔甲。这件巨大的古代盔甲年代十分久远。"
+
+
+# scripts/items/armor/ancient/ancient_priest_attire.nut
+msgid "Ancient Priest Attire"
+msgstr "古代祭司服"
+
+
+# scripts/items/armor/ancient/ancient_ripped_cloth.nut
+msgid "Ripped Cloth"
+msgstr "破布"
+
+
+# scripts/items/armor/ancient/ancient_lich_attire.nut
+msgid "Ancient Attire"
+msgstr "Ancient Attire"
+
+
+# scripts/items/armor/ancient/ancient_scale_harness.nut
+msgid "Ancient Scale Harness"
+msgstr "古代胄鳞甲"
+
+
+# scripts/items/armor/ancient/ancient_scale_harness.nut
+msgid "A sturdy, but heavy and partly decayed ancient scale harness."
+msgstr "一件坚固而又沉重的胄鳞甲，有一些部分已经腐朽了。"
+
+
+# scripts/items/armor/ancient/ancient_plated_mail_hauberk.nut
+msgid "Ancient Plated Mail Hauberk"
+msgstr "古代链锁子甲"
+
+
+# scripts/items/armor/ancient/ancient_plated_mail_hauberk.nut
+msgid "An ancient mail armor with plated arm guards. Very heavy and severely limiting the mobility of the wearer."
+msgstr "一件带有护臂的古代链锁子甲。非常沉重严重限制了穿戴者的机动性"
+
+

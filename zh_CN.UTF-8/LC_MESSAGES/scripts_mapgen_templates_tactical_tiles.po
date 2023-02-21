@@ -1,0 +1,9 @@
+# scripts/mapgen/templates/tactical/tiles/swamp1.nut
+# scripts/mapgen/templates/tactical/tiles/swamp4.nut
+# scripts/mapgen/templates/tactical/tiles/swamp5.nut
+# scripts/mapgen/templates/tactical/tiles/swamp2.nut
+# scripts/mapgen/templates/tactical/tiles/swamp3.nut
+msgid "#8d9271"
+msgstr "#8d9271"
+
+

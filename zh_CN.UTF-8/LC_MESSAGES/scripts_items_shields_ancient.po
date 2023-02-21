@@ -1,0 +1,30 @@
+# scripts/items/shields/ancient/auxiliary_shield.nut
+msgid "Ancient Auxiliary Shield"
+msgstr "古代辅助盾"
+
+
+# scripts/items/shields/ancient/auxiliary_shield.nut
+msgid "A wooden light shield in oval shape. The wood seems brittle and old, making it less durable."
+msgstr "椭圆形的木制盾牌。木头看起来又脆又老，已经不那么耐用了。"
+
+
+# scripts/items/shields/ancient/tower_shield.nut
+msgid "Ancient Tower Shield"
+msgstr "古代塔盾"
+
+
+# scripts/items/shields/ancient/tower_shield.nut
+msgid "A tall and heavy tower shield that offers good protection, but is very bulky to handle. It appears to be old and worn down."
+msgstr "一种又高又重的塔盾，它提供了很好的保护，但却很笨重。盾面布满了磨损的痕迹。"
+
+
+# scripts/items/shields/ancient/coffin_shield.nut
+msgid "Ancient Coffin Shield"
+msgstr "古代棺材盾"
+
+
+# scripts/items/shields/ancient/coffin_shield.nut
+msgid "An octagonal shield made of wood and reinforced with bronze. Time has taken its toll and the wood has become brittle."
+msgstr "用硬木做的八角形盾牌，并用青铜进行了加固。由于年代过于久远，木材已经变得非常脆弱。"
+
+

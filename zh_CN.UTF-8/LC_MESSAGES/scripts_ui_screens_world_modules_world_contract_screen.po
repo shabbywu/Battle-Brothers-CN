@@ -1,0 +1,10 @@
+# scripts/ui/screens/world/modules/world_contract_screen/world_active_contract_panel_module.nut
+msgid "Cancel Contract"
+msgstr "取消合同"
+
+
+# scripts/ui/screens/world/modules/world_contract_screen/world_active_contract_panel_module.nut
+msgid "Cancelling an active contract will adversely affect your reputation as a reliable sword for hire, as well as the relation to your current employer - especially if you received any payment in advance.\n\nAre you sure you want to cancel?"
+msgstr "Cancelling an active contract will adversely affect your reputation as a reliable sword for hire, as well as the relation to your current employer - especially if you received any payment in advance.\n\nAre you sure you want to cancel?"
+
+
