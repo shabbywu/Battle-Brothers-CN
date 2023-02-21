@@ -1,0 +1,5 @@
+# scripts/items/shields/beasts/schrat_shield.nut
+msgid "Schrat's Shield"
+msgstr "树人盾"
+
+

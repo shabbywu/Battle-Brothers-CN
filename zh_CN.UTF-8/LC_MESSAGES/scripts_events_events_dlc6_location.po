@@ -1,0 +1,95 @@
+# scripts/events/events/dlc6/location/vulcano_enter_event.nut
+# scripts/events/events/dlc6/location/oracle_enter_event.nut
+# scripts/events/events/dlc6/location/meteorite_enter_event.nut
+# scripts/events/events/dlc6/location/sunken_library_enter_event.nut
+msgid "As you approach..."
+msgstr "当你接近时…"
+
+
+# scripts/events/events/dlc6/location/sunken_library_enter_event.nut
+msgid "After the battle..."
+msgstr "战斗之后…"
+
+
+# scripts/events/events/dlc6/location/sunken_library_enter_event.nut
+msgid "You gain "
+msgstr "你获得了 "
+
+
+# scripts/events/events/dlc6/location/vulcano_enter_event.nut
+# scripts/events/events/dlc6/location/oracle_enter_event.nut
+# scripts/events/events/dlc6/location/meteorite_enter_event.nut
+msgid "Our fate will lead us here again in time."
+msgstr "我们的命运将再次引领我们来到这里。"
+
+
+# scripts/events/events/dlc6/location/vulcano_enter_event.nut
+msgid "[img]gfx/ui/events/event_151.png[/img]{Empire's End. Metropolis of Ash. The Annihilation.\n\nWhatever its name, the ancient city is now a vast grey ruin. It sits beneath a mountain missing a peak, its once glorious shape obliterated in an enormous eruption. The explosion hit with such violence that shockwaves unfurled cobbled streets and sent the bricks showering over the city proper. Enormous granitic boulders cratered neighborhoods whole and boiling debris vaporized all in its way. The flow of lava came last, smoldering much of the city in a black sludge, the edges of which pillowed and toed in bulbous contours until it looked as though a cloud of black smoke had solidified. It is a horrid sight to behold, in part because the earthen rage also captured many victims in perpetuity: grey casts of ancient humans still stand to this day, posed in manners most lively like pairs shaking hands, one looking over a stove, another petting a dog.\n\nOf course, it is wholly within man's nature to see such relics of destruction and, distant as they are from its reality, flock to its remains, and vicariously revivify the violence through means of faith. Followers of the Gilder see it as a warning to not fall for profligacy and greed. Northerners see it as a clash between old gods, a rarity since the dawn of man. One faith or the other, both reside here in mutual respect for those whose lives were lost... respectful for now, at least.}"
+msgstr "[img]gfx/ui/events/event_151.png[/img]{帝国的终点。尘埃之城。大灭绝。\n\n不论怎么称呼它，这座古老的城市现在只是一片广阔的灰色遗迹。 它坐落在一座没有山峰的山脊下，曾经的荣光在一场巨大的喷发中湮灭。 爆炸的威力是如此巨大，以至于冲击波使圆石铺成的街道崩开，送上天的砖块如下雨一般洒落在城市上。 庞大的花岗岩石块让街区变为弹坑，沸腾的石流蒸发着路上经过的一切。 流动的岩浆在最后到来，将大部分的城市烧成一滩黑色的烂泥，缓慢爬行的岩浆边缘呈一种难看的圆弧轮廓，直到它看起来就好像一片黑烟固化了一般。 这是一幅可怕的景象，部分是因为大地的怒火将许多受害者困在了永恒的静止之中：古代人类的灰色模具至今耸立着，维持着鲜活的姿势，比如一对夫妇在握手，一个人在照看着灶台，另一个在抚摸一只狗。\n\n当然，对人而言很自然而然的会看到这样一座毁灭的遗迹，尽管距离遥远，但他们聚集到它的遗骸，并通过信仰替代性的给与这一暴行新生。 镀金者的追随者们将它看做一个警告，以使他们远离浪费与贪婪。 北方人则将它看做旧神间的交锋，从人类诞生至今罕见的。 不论哪个宗教，都共同地在这里向失去生命的人致敬…至少，目前，还保持着敬意。}"
+
+
+# scripts/events/events/dlc6/location/oracle_enter_event.nut
+msgid "[img]gfx/ui/events/event_152.png[/img]{Venturing into the vestibule of the ancient Oracle is like stepping into someone else's dream. Men and women listlessly shift around its pillars, the timid scratch of shoes across stone faintly filling the air, and day or night the architectural curvature brings a pale and somber shadow to its strange halls as though it were permitted eternity beneath the moon herself.\n\nPeople of all religions come to the Oracle with a shared sense of awe. Nobody knows which priestly being once dwelled there, nor what clerical colors they donned. Despite these mysteries, many believe that by sleeping inside the Oracle one can harness visions of their own future. An admirable faith to have, though you find it ironic these ethereal meanings must be sought by using the faithful's hands and feet to get there. For now, an impoverished and clustered tent city has glommed onto the Oracle's edges. It is a decrepit end for those who have so buoyed themselves to hope they've made themselves refugees of reality.}"
+msgstr "[img]gfx/ui/events/event_152.png[/img]{进入神谕所的前厅就好像走入他人的梦境。 男人和女人无精打采的在柱子周围来回移动，鞋子擦过石头的细微摩擦声充斥着空气，以及黯淡而阴沉的阴影通过建筑弯曲的穹顶投射在它奇怪的大厅里，不论白天还是黑夜都如同月光下一般。\n\n不同信仰的人们来到神谕所都带有一丝敬畏。 没有人知道哪些圣职者曾经居住在这里，亦或者他们袍子的颜色。 尽管有诸多秘密，许多人相信通过在神谕所入睡可以看到自己的未来。 一个值得尊敬的信仰，虽然你觉得这些超凡的意义必须通过忠实信徒的手脚才能到达很讽刺。 眼下，破败拥挤的帐篷城趴在神谕所的边缘。 对于那些自认为逃离了凡世的难民而言真是一个暮气沉沉的结局。}"
+
+
+# scripts/events/events/dlc6/location/meteorite_enter_event.nut
+msgid "[img]gfx/ui/events/event_154.png[/img]{A cataclysm as the world knows it comes from the earth herself. Volcanos, floods, earthquakes, plagues, these are things all men fear. The unwarned issuances that can instantly shatter the greatest of kingdoms and disrobe the royal color from the greatest of kings.\n\nThe great caldera before you, then, stands as a stark reminder that not only are you small, but you might not even know just how small you are: it is quite clear to even the simplest of minds that the enormous rock at the crater's center came from above. Perhaps very far above. Northerners believe it is the coda of the great war of the old gods. It is a literal mountain weaponized by the deities, thrown like a stone from a catapult before landing with such apocalyptic damage that the horrors wrought ceased all heavenly conflict. Southerners see it as the 'fiery tear' of the Gilder. Looking down upon a world without man, the God fell into deep sadness and cried upon the earth. At first He was fearful that he had destroyed all that lay below, but instead He watched as Man drew up from the fires and armored himself in the ashes. And it is then that He knew Man, living in every corner of the earth, was His chosen beings, and Man knew Him.\n\nWhatever it is, the crater brings followers and believers from all directions. Here exists an amicable understanding that there shall be no impasses upon one another, though during times of religious war that unspoken agreement is oft shattered.}"
+msgstr "[img]gfx/ui/events/event_154.png[/img]{一场大灾害在世界上的认知中总是来自大地她本身。 火山，洪水，地震，瘟疫，这些事物为所有人所恐惧。 没有警告的突发事件能够顷刻间粉碎最伟大的王国并扯下最伟大的国王们的王袍。\n\n你面前巨大的陨石坑不仅赤裸裸的反衬出你的渺小，还有你渺小的尺度：最愚蠢的人也看得出来陨石坑中心的巨大石头来自上面。 Perhaps very far above. 北方人相信这象征着旧神之间伟大战争的尾声。 这是一座山字面意义上的被神祗们用来当做武器，像一块石头一样被投石机抛出，落地时的巨大威力有如末日降临，以至于让天堂之战都因为恐怖而终止。 南方人则将它看做镀金者的“烈焰之泪”。 俯视着一个没有人的世界，神陷入了深深的悲伤而哭泣。 一开始他害怕他摧毁了下面的一切，但是当他看到人类从火中崛起并以尘为甲时。 And it is then that He knew Man, living in every corner of the earth, was His chosen beings, and Man knew Him.\n\n不论如何，陨石坑从世界各地吸引着追随者与信徒。 这里存在这一种互不相迫的友善共识，尽管在宗教战争时这一不成文的规矩通常是作废的。}"
+
+
+# scripts/events/events/dlc6/location/sunken_library_enter_event.nut
+msgid "Perhaps one day..."
+msgstr "或许总有一天…"
+
+
+# scripts/events/events/dlc6/location/sunken_library_enter_event.nut
+msgid "What was that noise?"
+msgstr "那是什么声音？"
+
+
+# scripts/events/events/dlc6/location/sunken_library_enter_event.nut
+msgid "What did I just take?"
+msgstr "我刚刚拿的究竟是什么？"
+
+
+# scripts/events/events/dlc6/location/sunken_library_enter_event.nut
+msgid "Rappel down into the dark!"
+msgstr "索降到黑暗中去！"
+
+
+# scripts/events/events/dlc6/location/sunken_library_enter_event.nut
+msgid "Let's not disturb what rests here."
+msgstr "我们不要打扰这里面沉睡的东西。"
+
+
+# scripts/events/events/dlc6/location/sunken_library_enter_event.nut
+msgid "Fight for your lives! Fight like you've never fought before!"
+msgstr "为你们的生命而战！ 像从没打过仗一样去打！"
+
+
+# scripts/events/events/dlc6/location/sunken_library_enter_event.nut
+msgid "[img]gfx/ui/events/event_173.png[/img]The men run and hastily climb up again.%SPEECH_ON%Perhaps another time?%SPEECH_OFF%One sellsword says. %randombrother% nods.%SPEECH_ON%Another time, aye. Maybe a time far away from now, when I'm out retired and farkin' whoors, then y'all can dip down into the darkness and go gallivanting with dead wizards. Does that time work for y'all?%SPEECH_OFF%"
+msgstr "[img]gfx/ui/events/event_173.png[/img]伙计们匆忙的再次开始往上爬。%SPEECH_ON%或许下一次？%SPEECH_OFF%一个佣兵说着。%randombrother% 点头。%SPEECH_ON%是的，下次吧。或许很久以后，等我他妈的退休了，到时候你们可以再下到里面去跟那帮死巫师寻欢作乐。 这个时间对你们都合适吗？%SPEECH_OFF%"
+
+
+# scripts/events/events/dlc6/location/sunken_library_enter_event.nut
+msgid "[img]gfx/ui/events/event_173.png[/img]{The shine and shimmer is so bright you almost think the Gilder Himself has ordained you a proper visit - unfortunately or fortunately, what you've stumbled across is actually a great gilded dome protruding ever so slightly from the sands. Immediately, you test if you can pull some of the gold away, but it has no give. %randombrother% calls you over to a slab of stone which is gapped. Perhaps a belltower at one point? Light fades quick and you can see very little inside. Above the entryway a relief depicts men pulling carts of scrolls.\n\n There's a set of words repeatedly scrawled across the relief. None of the languages look remotely familiar to anything you've ever heard or seen. It takes a bit of time until you can find a hurriedly etched translation left by someone approximal to your era: 'the Library, the Labyrinth of the Night, the Labyrinth of the Mind, Leave here as you would Leave a Dream, Tread here as you would Tread a Dream, Leave to Dwell upon the Horror of not Knowing, Enter to be One with Knowing, and in Knowing the Dream, Know the Nightmare'.%SPEECH_ON%Fair bit ominous, captain, but if you wanna go down in there we got the rope and torches to see to it.%SPEECH_OFF%%randombrother% tells you this, and the look on his face suggests he's hoping you decline the proposition.}"
+msgstr "[img]gfx/ui/events/event_173.png[/img]{光与亮如此耀眼以至于你开始认为镀金者他本人授予了你一场正式访问，不幸的或者说幸运的是，实际上是你遇到了一个略微露出沙丘的巨大镀金穹顶。 很快，你试了试你能不能扒下来一些金子，但是一无所获。%randombrother% 把你叫到一块裂开的石板边。 或许这里过去曾经是一座钟塔？ 光线消散的很快，你看不到多少里面的东西。 在进入通道的上方有一片浮雕描绘着人们拉着一车一车的卷轴。\n\n 浮雕上有一组文字被反复的刻在上面。 看起来丝毫不像任何你听或看过的语言。 你花了一些时间才找到了一个更接近你的时代的人仓促刻下的翻译：“图书馆，夜晚的迷宫，思维的迷宫，如同离开梦境一般离开，如同步入梦境一般行走，离开便栖身于未知的恐惧，进入则成为已知的一员，并通过知晓梦境，知晓梦魇”。%SPEECH_ON%颇为不详啊，队长，但如果你想要下去我们有可以用的绳索与火炬。%SPEECH_OFF%%randombrother% 向你提供了这些话，还有他希望你会拒绝这个提案的表情。}"
+
+
+# scripts/events/events/dlc6/location/sunken_library_enter_event.nut
+msgid "[img]gfx/ui/events/event_89.png[/img]{%SPEECH_START%Interlopers in the Library.%SPEECH_OFF%The voice scratches along the marbled floor and rises up to meet your ears and continues on, the word 'Libraryyy' slithering into the dark behind you. Suddenly, a number of the glass cases begin to glow, the phylacteries holding some sort of ethereal energy, and as the light widens it unveils the torso of a black skeleton, its body captured in air. The ribcage holds a book, hooked into place by the sickly folds of its own ribs as a spider would clutch a meal. The skull of the creature stares at you with peerless sockets.%SPEECH_ON%Your kind has already stolen from me, now you dare profane these halls again?%SPEECH_OFF%The phylacteries grow brighter and in turn the skeleton's torso grows flesh, weeds of vein and the pulp of skin blossoming outward to cover bone. But it is only the torso which is ensconced. You stare at the phylacteries and they are brimming with energy now, and in staring you can see the ghostly faces smearing along the glass like streaks of rain. You hear a loud clap and turn back to see the Loremaster in full, its eyes aflame with white fire, its limbs skinny yet with smoky muscles winding around its frame, and its lower half is pluming with black ash as it glides forward. The brighter the glass bulbs get, the stronger and faster it becomes!}"
+msgstr "[img]gfx/ui/events/event_89.png[/img]{%SPEECH_START%图书馆中有闯入者。%SPEECH_OFF%声音在大理石地板上摩擦着挺起身来靠近你的耳朵，“图书馆”一词滑入你背后的黑暗。 突然，数副玻璃柜开始发光，其中的护符存放着某种超自然的能量，并且随着光的扩散映照出了一副黑色骷髅的身躯，它的身躯被捕获在半空中。 胸骨中有一本书，扭曲的肋骨包裹着它如同一只蜘蛛抓住它的食物一般。 这个生物用空洞的眼眶注视着你。%SPEECH_ON%你们之类曾经对我行窃过，现在你还敢再次亵渎这些长廊？%SPEECH_OFF%护符发出的光越发闪亮，同时骷髅的身躯开始长出血肉，血管与皮肤绽放出来包裹住骨头。 但只有躯干是稳定的。 你看向那些护符，他们现在充满了能量，你可以看到鬼魅般的面孔如同雨水般抹过封存他们的玻璃。 你听到一声响亮的击掌，转过身来你看到了博学士，重归完整，它的眼中冒出白色的火焰，它干瘦的四肢上烟雾缭绕的肌肉缠绕着火焰，在它的下半身黑色的灰烬随着它滑翔向前而喷出。 随着灯泡越来越亮，他正变得越来越强，越来越快！}"
+
+
+# scripts/events/events/dlc6/location/sunken_library_enter_event.nut
+msgid "[img]gfx/ui/events/event_89.png[/img]{The climb down is a perilous one, the dark so thick you can't even see your own boots. But eventually you hit a marbled floor and quickly light up some torches. You find yourself in a massive hall around which spiral rows and rows of bookcases. Every shelf is adorned with piles of scrolls, many dwelling within glass enclosures. The shelves are stacked upon each other and seem to ascend to the very ceiling from which you descended. Rolling ladders rest at each level, but even further up runs a floating mezzanine with metal chutes stationed here and there. It seems as though once upon a time one was meant to pass these scrolls up and down, though now everything is rusted, and the mezzanine has collapsed in parts.\n\n %randombrother% calls your attention. He points to an enormous scroll flattened behind a sheet of glass. Drawings sprawl over the paper, and upon closer inspection it appears they are blueprints for seemingly everything: the human body, the bodies of many animals, castles, towers, windmills, ships, weapons and armor, boots and gloves, alignments of the stars, and a great number of drawings of things which you have never seen before, things which don't make sense.%SPEECH_ON%Captain, this place is not meant for us. The languages, the halls, we should go.%SPEECH_OFF%One of the sellswords expresses the mood in the air. You have absolutely trespassed to a place few have gone before. And if they have gone before, where are they? A place like this surely can't stay hidden, right?}"
+msgstr "[img]gfx/ui/events/event_89.png[/img]{向下的路程非常的危险，黑暗如此厚重你甚至看不到你自己的靴子。 但是最终你踩到了大理石地板并快速的点亮了一些火炬。 你发现自己在一个充满了一排又一排螺旋状书柜的巨大大厅内。 每一个书柜都有成堆的卷轴，许多被封存在玻璃罐中。 书柜彼此堆叠在一起看起来好像高耸到你降下来的天花板一般。 每一层都放着楼梯，但是更高的地方时不时停着一个带着金属溜道的悬浮夹层。 看起来好像过去可以通过这些把卷轴传上传下，尽管现在一切都锈了，夹层也有部分塌了。\n\n %randombrother% 寻求你的注意。 他指向一个被压平在一层玻璃后的巨大卷轴。 纸上到处都是绘画，在更仔细的观察后看起来他们好像是一切的蓝图：人体，许多动物的身体，城堡，塔，风车磨坊，船只，武器有盔甲，靴子与手套，行星的排列，还有很多你从没见过的东西的绘画，毫不合理的东西。%SPEECH_ON%队长，这个地方不是我们该来的。 这语言，这长廊，我们应该离开这里。%SPEECH_OFF%一个佣兵表达了空气中弥漫的情绪。 你显然擅自进入了一个很少人来过的地方。 如果有人曾经来过，他们现在在哪？ 这样一个地方显然不可能就这么藏起来，对吗？}"
+
+
+# scripts/events/events/dlc6/location/sunken_library_enter_event.nut
+msgid "[img]gfx/ui/events/event_89.png[/img]{The Lorekeeper collapses onto the ground a pile of ash and the phylacteries slowly fade back to dark. You walk over with torch in hand. Its black skull resides atop the book that once dwelled in its chest.%SPEECH_ON%Captain, I don't think we should be touching anything here.%SPEECH_OFF%You ignore one of your men and pick the book up. Its leather covering is stitched together, and as you look closer you can see the flesh of ears and noses encompassing the cover. Immediately, the bones of the slain undead scratch across the marbled floor. One zips between your legs and flies into the pile of ash. A dull white fire alights inside the socket of the skull. That's more than enough for you: with a quick command, you get the men to climb back up the rope, yourself the last to leave. As you near the light of the earth above, you take one moment to stare back down and - the black skull is already in your face! It floats alone, eyes burning white, capturing your sight in a cone of fire you cannot understand, and as you stare into it you can hear the voices of your men fade away. The skull floats alone, and you almost feel the urge to let the rope go. The skull speaks to your mind:%SPEECH_ON%It is but one of its gifts, Interloper, and you are not the first to have it. There are many who have taken it, and in the many there is but one end, the one who awaits us all!%SPEECH_OFF%The skull's fire snuffs out and it drops away into the dark where you hear a brief clatter. The voices of your men rush back in, louder than ever and you look up to see %randombrother%'s hand. Grabbing hold, they pull you out. As you exit, the entrance sinks into the sand, and all you have of the place is a strange, fleshen book filled with writings you cannot ever hope to decipher.}"
+msgstr "[img]gfx/ui/events/event_89.png[/img]{博学者倒下化作了一堆灰，护符慢慢黯淡。 你拿着火炬走过去。 它的黑色头骨置于那本之前在胸口的书上面。%SPEECH_ON%队长，我不认为我们应该碰这里的任何东西。%SPEECH_OFF%你无视了你的手下并捡起了书。 它的封面是被缝在一起的某种皮革，随着你更仔细的观察你可以看到耳与鼻的血肉包裹着封面。 马上，被击倒的亡灵的尸骨擦过大理石地板。 一闪而过你的腿间并飞入一堆灰尘。 阴沉的白火从头骨的眼眶中亮起。 对你而言这足够明显了：你快速下令，让手下们用绳索爬回去，你断后。 随着你接近地表的亮光，你向下回望去－那个头骨正贴在你脸上！ 它独自飘着，眼中发出白火，将你的视线用你无法理解的火焰覆盖，随着你看着这火，只觉着你手下的声音越来越远。 头骨飘在那，而你几乎感到一股放开绳索的冲动。 头骨直接向你的思维说道：%SPEECH_ON%这只不过是它的礼物中的一个，入侵者，而你也不是第一个获得它的人。 There are many who have taken it, and in the many there is but one end, the one who awaits us all!%SPEECH_OFF%头骨的火焰熄灭了后便掉入了黑暗中，只听得一声短暂的咔嗒声。 你手下的呼声重新涌入，比以往更加洪亮，你抬头看到了 %randombrother%的手。 紧抓着手，他们把你拉了出来。 随着你出来，入口陷入了沙子，只剩你手上一本怪异的血肉之书，其中的文字你甚至无法想象从何开始解读。}"
+
+

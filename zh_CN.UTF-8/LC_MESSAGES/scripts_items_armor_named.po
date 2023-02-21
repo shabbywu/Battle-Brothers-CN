@@ -1,0 +1,530 @@
+# scripts/items/armor/named/green_coat_of_plates_armor.nut
+msgid "Bulwark"
+msgstr "堡垒"
+
+
+# scripts/items/armor/named/black_leather_armor.nut
+msgid "Dark Omen"
+msgstr "黑暗预兆"
+
+
+# scripts/items/armor/named/named_golden_lamellar_armor.nut
+# scripts/items/armor/named/brown_coat_of_plates_armor.nut
+# scripts/items/armor/named/green_coat_of_plates_armor.nut
+msgid "Ward"
+msgstr "监狱"
+
+
+# scripts/items/armor/named/black_leather_armor.nut
+msgid "Guard"
+msgstr "警卫"
+
+
+# scripts/items/armor/named/heraldic_mail_armor.nut
+msgid "Honor"
+msgstr "荣誉"
+
+
+# scripts/items/armor/named/brown_coat_of_plates_armor.nut
+msgid "Barrier"
+msgstr "阻截者"
+
+
+# scripts/items/armor/named/green_coat_of_plates_armor.nut
+msgid "Carapace"
+msgstr "甲壳"
+
+
+# scripts/items/armor/named/named_armor.nut
+msgid "'s "
+msgstr "'s "
+
+
+# scripts/items/armor/named/lindwurm_armor.nut
+msgid "Lindwurm Scales"
+msgstr "林德虫鳞片"
+
+
+# scripts/items/armor/named/golden_scale_armor.nut
+msgid "Dragonskin"
+msgstr "龙鳞甲"
+
+
+# scripts/items/armor/named/leopard_armor.nut
+msgid "Gilder's Embrace"
+msgstr "镀金者的拥抱"
+
+
+# scripts/items/armor/named/lindwurm_armor.nut
+msgid "Unaffected by acidic Lindwurm blood"
+msgstr "不受林德虫的酸血影响"
+
+
+# scripts/items/armor/named/golden_scale_armor.nut
+msgid "Scale Armor"
+msgstr "鳞甲"
+
+
+# scripts/items/armor/named/heraldic_mail_armor.nut
+# scripts/items/armor/named/named_noble_mail_armor.nut
+msgid "Noble Mail"
+msgstr "贵族链甲"
+
+
+# scripts/items/armor/named/heraldic_mail_armor.nut
+msgid "Heraldic Mail"
+msgstr "纹章链甲"
+
+
+# scripts/items/armor/named/green_coat_of_plates_armor.nut
+msgid "Coat of Plates"
+msgstr "板甲衣"
+
+
+# scripts/items/armor/named/black_leather_armor.nut
+msgid "Skin"
+msgstr "皮肤"
+
+
+# scripts/items/armor/named/black_leather_armor.nut
+msgid "Peel"
+msgstr "外皮"
+
+
+# scripts/items/armor/named/black_leather_armor.nut
+msgid "Coat"
+msgstr "外套"
+
+
+# scripts/items/armor/named/black_leather_armor.nut
+msgid "Black"
+msgstr "黑色"
+
+
+# scripts/items/armor/named/black_leather_armor.nut
+# scripts/items/armor/named/named_noble_mail_armor.nut
+msgid "Nightcloak"
+msgstr "夜斗篷"
+
+
+# scripts/items/armor/named/black_leather_armor.nut
+msgid "Mail Shirt"
+msgstr "链甲衫"
+
+
+# scripts/items/armor/named/black_leather_armor.nut
+msgid "Leather Armor"
+msgstr "皮甲"
+
+
+# scripts/items/armor/named/black_leather_armor.nut
+msgid "Leather Cuirass"
+msgstr "皮胸甲"
+
+
+# scripts/items/armor/named/black_leather_armor.nut
+msgid "A well-crafted and hardened leather armor supported by a padded gambeson and chainmail. Light to wear but very sturdy."
+msgstr "一种精心制作的硬化皮革盔甲，由加垫的软甲和链甲支撑。穿起来很轻，但是很结实。"
+
+
+# scripts/items/armor/named/named_skull_and_chain_armor.nut
+msgid "Tribal Hide"
+msgstr "Tribal Hide"
+
+
+# scripts/items/armor/named/named_skull_and_chain_armor.nut
+msgid "Barbarian Coat"
+msgstr "Barbarian Coat"
+
+
+# scripts/items/armor/named/named_skull_and_chain_armor.nut
+msgid "Barbarian Pelt"
+msgstr "Barbarian Pelt"
+
+
+# scripts/items/armor/named/named_skull_and_chain_armor.nut
+msgid "Scavenged Armor"
+msgstr "扫气装甲"
+
+
+# scripts/items/armor/named/named_skull_and_chain_armor.nut
+msgid "Primitive Harness"
+msgstr "Primitive Harness"
+
+
+# scripts/items/armor/named/named_skull_and_chain_armor.nut
+msgid "A barbarian armor of crude making that has been adjusted to protect without being too cumbersome. It wears the typical markings of the northern barbarian tribes."
+msgstr "一种粗制的野蛮人盔甲，经过调整后可以保护，但又不太笨重。 它带有北方野蛮部落的典型标志。"
+
+
+# scripts/items/armor/named/blue_studded_mail_armor.nut
+msgid "Ogreskin"
+msgstr "食人魔皮"
+
+
+# scripts/items/armor/named/blue_studded_mail_armor.nut
+msgid "Toadskin"
+msgstr "蟾蜍皮"
+
+
+# scripts/items/armor/named/blue_studded_mail_armor.nut
+msgid "Padded Mail"
+msgstr "镶甲"
+
+
+# scripts/items/armor/named/blue_studded_mail_armor.nut
+# scripts/items/armor/named/named_sellswords_armor.nut
+msgid "Layered Armor"
+msgstr "复层装甲"
+
+
+# scripts/items/armor/named/blue_studded_mail_armor.nut
+# scripts/items/armor/named/named_noble_mail_armor.nut
+msgid "Reinforced Mail"
+msgstr "强化甲"
+
+
+# scripts/items/armor/named/blue_studded_mail_armor.nut
+msgid "This particular mail shirt is combined with a gambeson and covered with a sturdy, riveted leather jacket for a light yet protective armor."
+msgstr "这件特殊的锁子甲由厚实的软甲铆接皮夹克制成，质量轻但能提供很好的防护作用。"
+
+
+# scripts/items/armor/named/named_golden_lamellar_armor.nut
+# scripts/items/armor/named/brown_coat_of_plates_armor.nut
+# scripts/items/armor/named/green_coat_of_plates_armor.nut
+msgid "Harness"
+msgstr "甲胄"
+
+
+# scripts/items/armor/named/named_golden_lamellar_armor.nut
+# scripts/items/armor/named/brown_coat_of_plates_armor.nut
+msgid "Defense"
+msgstr "防卫"
+
+
+# scripts/items/armor/named/named_golden_lamellar_armor.nut
+# scripts/items/armor/named/heraldic_mail_armor.nut
+msgid "Splendor"
+msgstr "辉煌"
+
+
+# scripts/items/armor/named/named_golden_lamellar_armor.nut
+msgid "Golden Lamellar"
+msgstr "金鳞甲"
+
+
+# scripts/items/armor/named/named_golden_lamellar_armor.nut
+msgid "An extraordinarily well-crafted piece of lamellar armor. It is covered with beaten gold, which makes it truly stand out."
+msgstr "精心制作的薄片状盔甲。 它上面覆盖着金箔，这使它真正与众不同。"
+
+
+# scripts/items/armor/named/named_plated_fur_armor.nut
+msgid "Rivetted Fur"
+msgstr "铆接毛皮"
+
+
+# scripts/items/armor/named/named_plated_fur_armor.nut
+msgid "Plate Harness"
+msgstr "钢板甲胄"
+
+
+# scripts/items/armor/named/named_plated_fur_armor.nut
+msgid "Plated Fur Armor"
+msgstr "镀毛皮铠甲"
+
+
+# scripts/items/armor/named/named_plated_fur_armor.nut
+msgid "Plate-covered Hide"
+msgstr "板盖皮"
+
+
+# scripts/items/armor/named/named_plated_fur_armor.nut
+msgid "A simple fur and leather armor with thick layers of metal plates rivetted ontop. A very simple and heavy design, but quite effective in combat."
+msgstr "一个简单的毛皮和皮革装甲与厚层金属板铆接在一起。 一个非常简单和沉重的设计，但在战斗中相当有效。"
+
+
+# scripts/items/armor/named/named_bronze_armor.nut
+msgid "Tribal Plate"
+msgstr "部落板甲"
+
+
+# scripts/items/armor/named/named_bronze_armor.nut
+msgid "Tainted Bulwark"
+msgstr "受污染的保障"
+
+
+# scripts/items/armor/named/named_bronze_armor.nut
+msgid "Alloy Plate Armor"
+msgstr "合金板装甲"
+
+
+# scripts/items/armor/named/named_bronze_armor.nut
+msgid "Tarnished Harness"
+msgstr "失去光泽的甲胄"
+
+
+# scripts/items/armor/named/named_bronze_armor.nut
+msgid "This armor is composed of a strange alloy, and well crafted for barbarian standards. A truly rare and remarkable piece."
+msgstr "这种盔甲是由一种奇怪的合金制成的，按照野蛮人的标准精心制作。 一件真正的珍品。"
+
+
+# scripts/items/armor/named/brown_coat_of_plates_armor.nut
+msgid "Lifesaver"
+msgstr "救生者"
+
+
+# scripts/items/armor/named/brown_coat_of_plates_armor.nut
+msgid "Plated Vest"
+msgstr "护板背心"
+
+
+# scripts/items/armor/named/brown_coat_of_plates_armor.nut
+msgid "Plate Armor"
+msgstr "板甲"
+
+
+# scripts/items/armor/named/brown_coat_of_plates_armor.nut
+msgid "A thick mail hauberk combined with sturdy metal plates. This armor will protect its wearer even in the fiercest of battles."
+msgstr "一种用结实金属板组成的厚链锁子甲。即使是最激烈的战斗也能保护其穿戴者。"
+
+
+# scripts/items/armor/named/lindwurm_armor.nut
+msgid "Wurmscales"
+msgstr "沼泽"
+
+
+# scripts/items/armor/named/lindwurm_armor.nut
+msgid "Lizard's Coat"
+msgstr "蜥蜴大衣"
+
+
+# scripts/items/armor/named/lindwurm_armor.nut
+msgid "Dragon's Hide"
+msgstr "龙皮"
+
+
+# scripts/items/armor/named/lindwurm_armor.nut
+msgid "Lindwurm Coat"
+msgstr "林德虫大衣"
+
+
+# scripts/items/armor/named/lindwurm_armor.nut
+msgid "Lindwurm Harness"
+msgstr "林德虫胄"
+
+
+# scripts/items/armor/named/lindwurm_armor.nut
+msgid "Coat of the Lindwurm"
+msgstr "林德虫外套"
+
+
+# scripts/items/armor/named/lindwurm_armor.nut
+msgid "The sturdy scales of a fierce Lindwurm sewn together ontop a heavy chainmail. Not only is it a trophy to a great hunter, but it also deflects the fiercest of blows, and the shimmering scales remain untouched by any corroding Lindwurm blood."
+msgstr "缝上了可怕的坚固林德虫鳞片的沉重链甲。不仅仅是伟大猎人的战利品，也能应付最猛烈的战斗，闪闪发光的鳞片不会受到酸性林德虫血液的腐蚀。"
+
+
+# scripts/items/armor/named/black_and_gold_armor.nut
+msgid "Suncloak"
+msgstr "太阳斗篷"
+
+
+# scripts/items/armor/named/black_and_gold_armor.nut
+msgid "Blazing Mail"
+msgstr "炽热的链甲"
+
+
+# scripts/items/armor/named/black_and_gold_armor.nut
+msgid "Gilder's Skin"
+msgstr "镀金者的皮肤"
+
+
+# scripts/items/armor/named/black_and_gold_armor.nut
+msgid "Shining Hauberk"
+msgstr "光辉锁子甲"
+
+
+# scripts/items/armor/named/black_and_gold_armor.nut
+msgid "Suntouched Harness"
+msgstr "日晒甲胄"
+
+
+# scripts/items/armor/named/black_and_gold_armor.nut
+msgid "Gilder's Shining Ward"
+msgstr "镀金者的光辉监护"
+
+
+# scripts/items/armor/named/black_and_gold_armor.nut
+msgid "Armor of the Scorpion King"
+msgstr "蝎子王的盔甲"
+
+
+# scripts/items/armor/named/black_and_gold_armor.nut
+msgid "Ancient knowledge has been used when smithing this unique set of armor. Its light mail overlapped with golden splints offers high protection with manageable encumberment."
+msgstr "古老的知识被用来锻造这套独特的盔甲。 它的轻甲片与黄金夹板重叠提供高保护和易于操控进而减轻负担。"
+
+
+# scripts/items/armor/named/heraldic_mail_armor.nut
+msgid "Duty"
+msgstr "荣誉"
+
+
+# scripts/items/armor/named/heraldic_mail_armor.nut
+msgid "Swank"
+msgstr "优雅"
+
+
+# scripts/items/armor/named/heraldic_mail_armor.nut
+msgid "Full Mail"
+msgstr "完整裹体"
+
+
+# scripts/items/armor/named/heraldic_mail_armor.nut
+msgid "Chainmail"
+msgstr "锁甲"
+
+
+# scripts/items/armor/named/heraldic_mail_armor.nut
+msgid "Pageantry"
+msgstr "盛典"
+
+
+# scripts/items/armor/named/heraldic_mail_armor.nut
+msgid "Grandiosity"
+msgstr "华丽"
+
+
+# scripts/items/armor/named/heraldic_mail_armor.nut
+msgid "Mail Hauberk"
+msgstr "链锁子甲"
+
+
+# scripts/items/armor/named/heraldic_mail_armor.nut
+msgid "Truly fit for a knight, this mail hauberk is made from the highest quality materials and boasts precious decorations and ornaments."
+msgstr "这锁子甲是由最高质量的材料和珍贵的装饰品制成，适合真正的骑士。"
+
+
+# scripts/items/armor/named/golden_scale_armor.nut
+msgid "Scales"
+msgstr "鳞皮甲"
+
+
+# scripts/items/armor/named/golden_scale_armor.nut
+msgid "Goldskin"
+msgstr "黄金之皮"
+
+
+# scripts/items/armor/named/golden_scale_armor.nut
+msgid "Wyrmskin"
+msgstr "古龙皮"
+
+
+# scripts/items/armor/named/golden_scale_armor.nut
+msgid "Snakeskin"
+msgstr "蛇皮甲"
+
+
+# scripts/items/armor/named/golden_scale_armor.nut
+msgid "Scale Shirt"
+msgstr "鳞片衬衫"
+
+
+# scripts/items/armor/named/golden_scale_armor.nut
+msgid "Scale Tunic"
+msgstr "鳞片外衣"
+
+
+# scripts/items/armor/named/golden_scale_armor.nut
+msgid "Golden Armor"
+msgstr "黄金甲"
+
+
+# scripts/items/armor/named/golden_scale_armor.nut
+msgid "Golden Reminder"
+msgstr "黄金提示"
+
+
+# scripts/items/armor/named/golden_scale_armor.nut
+msgid "A scale armor made of small, interlocking metal scales. The style and craftsmanship hint at the armor coming from a far-away region."
+msgstr "一种由细小的连锁鳞片打造的盔甲。这种风格和工艺暗示着盔甲来自遥远的地区。"
+
+
+# scripts/items/armor/named/green_coat_of_plates_armor.nut
+msgid "Shell"
+msgstr "坚壳"
+
+
+# scripts/items/armor/named/green_coat_of_plates_armor.nut
+msgid "Plate Coat"
+msgstr "厚板外衣"
+
+
+# scripts/items/armor/named/green_coat_of_plates_armor.nut
+msgid "Plate Cuirass"
+msgstr "胸板甲"
+
+
+# scripts/items/armor/named/green_coat_of_plates_armor.nut
+msgid "A rare coat of plates enhanced with chainmail and additional padding. A piece of true craftsmanship!"
+msgstr "一种用链甲和额外衬垫加固的罕见的板甲。 一件真正的艺术品！"
+
+
+# scripts/items/armor/named/named_sellswords_armor.nut
+msgid "Plated Coat"
+msgstr "护板外套"
+
+
+# scripts/items/armor/named/named_sellswords_armor.nut
+msgid "Mercenary Coat"
+msgstr "雇佣兵外套"
+
+
+# scripts/items/armor/named/named_sellswords_armor.nut
+msgid "Sellsword's Hide"
+msgstr "佣兵的遮挡"
+
+
+# scripts/items/armor/named/named_sellswords_armor.nut
+msgid "This piece of layered armor belonged to a famed mercenary once. Its high resilience and flexibility make it a remarkable piece of craftsmanship. And it even comes with extra pockets!"
+msgstr "这件多层盔甲曾经属于一个著名的雇佣兵。 它的高弹性和灵活性使它成为一项非凡的工艺。 它甚至还有附加的口袋！"
+
+
+# scripts/items/armor/named/leopard_armor.nut
+msgid "Gilder's Guard"
+msgstr "镀金者的守卫"
+
+
+# scripts/items/armor/named/leopard_armor.nut
+msgid "Vizier's Harness"
+msgstr "维齐尔的甲胄"
+
+
+# scripts/items/armor/named/leopard_armor.nut
+msgid "Glistening Lamellar"
+msgstr "闪光鳞甲"
+
+
+# scripts/items/armor/named/leopard_armor.nut
+msgid "Master Hunter's Armor"
+msgstr "猎人大师的盔甲"
+
+
+# scripts/items/armor/named/leopard_armor.nut
+msgid "Carapace of the Desert"
+msgstr "沙漠的甲壳"
+
+
+# scripts/items/armor/named/leopard_armor.nut
+msgid "A heavy lamellar plate harness combined with fine mail and comfortable padding. A truly well made piece that is almost too precious to be torn in battle."
+msgstr "重型多层板状甲胄与精细的链甲和舒适的垫相结合。 一个真正的制作精良的作品，几乎是珍奇物品，很怕它在战斗中撕裂。"
+
+
+# scripts/items/armor/named/named_noble_mail_armor.nut
+msgid "Fencing Mail"
+msgstr "刺剑链甲"
+
+
+# scripts/items/armor/named/named_noble_mail_armor.nut
+msgid "This piece of light mail armor was once the personal item of a well known fencing master. It is as light as a tunic, but protects all vital body parts."
+msgstr "这件轻甲曾经是一位著名刺剑高手的私人物品。 它和束腰外衣一样轻，但能保护身体所有重要部位。"
+
+

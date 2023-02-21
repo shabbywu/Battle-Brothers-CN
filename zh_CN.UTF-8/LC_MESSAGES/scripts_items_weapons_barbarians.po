@@ -1,0 +1,183 @@
+# scripts/items/weapons/barbarians/crude_axe.nut
+msgid "Axe, One-Handed"
+msgstr "Axe, One-Handed"
+
+
+# scripts/items/weapons/barbarians/heavy_rusty_axe.nut
+msgid "Axe, Two-Handed"
+msgstr "Axe, Two-Handed"
+
+
+# scripts/items/weapons/barbarians/skull_hammer.nut
+msgid "Hammer, Two-Handed"
+msgstr "Hammer, Two-Handed"
+
+
+# scripts/items/weapons/barbarians/heavy_throwing_axe.nut
+# scripts/items/weapons/barbarians/heavy_javelin.nut
+msgid "Throwing Weapon, One-Handed"
+msgstr "Throwing Weapon, One-Handed"
+
+
+# scripts/items/weapons/barbarians/thorned_whip.nut
+# scripts/items/weapons/barbarians/blunt_cleaver.nut
+# scripts/items/weapons/barbarians/antler_cleaver.nut
+msgid "Cleaver, One-Handed"
+msgstr "Cleaver, One-Handed"
+
+
+# scripts/items/weapons/barbarians/claw_club.nut
+msgid "Mace, One-Handed"
+msgstr "Mace, One-Handed"
+
+
+# scripts/items/weapons/barbarians/two_handed_spiked_mace.nut
+msgid "Mace, Two-Handed"
+msgstr "Mace, Two-Handed"
+
+
+# scripts/items/weapons/barbarians/rusty_warblade.nut
+msgid "Cleaver, Two-Handed"
+msgstr "Cleaver, Two-Handed"
+
+
+# scripts/items/weapons/barbarians/thorned_whip.nut
+msgid "Thorned Whip"
+msgstr "刺鞭"
+
+
+# scripts/items/weapons/barbarians/thorned_whip.nut
+msgid "A sturdy thorned whip. Used by barbarians both in battle and to herd wild beasts, even the largest of which will flinch from its crack."
+msgstr "一条结实的刺鞭。 被野蛮人用于战斗和放牧野兽，即使是最大的野兽也会畏缩它的抽打。"
+
+
+# scripts/items/weapons/barbarians/heavy_throwing_axe.nut
+msgid "Bundle of Heavy Throwing Axes"
+msgstr "一捆重型投斧"
+
+
+# scripts/items/weapons/barbarians/heavy_throwing_axe.nut
+msgid "Bundle of Heavy Throwing Axes (Empty)"
+msgstr "Bundle of Heavy Throwing Axes (Empty)"
+
+
+# scripts/items/weapons/barbarians/heavy_throwing_axe.nut
+msgid "Heavy and unwieldy throwing axes used by northern barbarians. Difficult to throw and hit with, but deadly."
+msgstr "北方野蛮人使用的笨重投斧。 投掷困难且难以命中，但十分致命。"
+
+
+# scripts/items/weapons/barbarians/crude_axe.nut
+msgid "Crude Axe"
+msgstr "石斧"
+
+
+# scripts/items/weapons/barbarians/crude_axe.nut
+msgid "This axe is crudely made, but heavy and jagged."
+msgstr "一把制作粗糙的斧头，沉重且带有锯齿物。"
+
+
+# scripts/items/weapons/barbarians/axehammer.nut
+msgid "Axehammer"
+msgstr "斧锤"
+
+
+# scripts/items/weapons/barbarians/axehammer.nut
+msgid "Hammer/Axe, One-Handed"
+msgstr "Hammer/Axe, One-Handed"
+
+
+# scripts/items/weapons/barbarians/axehammer.nut
+msgid "A massive, rusty hybrid of hammer and axe. Due to its blunt edge more of the former than the latter."
+msgstr "一柄大型的生锈锤子和斧头的混合体。 由于其不锋利的刀锋，使其更趋向于前者更多于后者。"
+
+
+# scripts/items/weapons/barbarians/blunt_cleaver.nut
+msgid "Blunt Cleaver"
+msgstr "钝刀"
+
+
+# scripts/items/weapons/barbarians/blunt_cleaver.nut
+msgid "This blunt cleaver is heavy and blunt, but can still cause terrible wounds."
+msgstr "这把钝刀又重又不锋利，但仍然能够造出可怕的伤口。"
+
+
+# scripts/items/weapons/barbarians/heavy_rusty_axe.nut
+msgid "Heavy Rusty Axe"
+msgstr "生锈重型斧"
+
+
+# scripts/items/weapons/barbarians/heavy_rusty_axe.nut
+msgid "This heavy rusty axe works more by its weight than its sharpness, but it gets the job done nevertheless."
+msgstr "这把生锈的重型斧头更多的依赖于它的重量而不是其锋利度，但还是能完成任务。"
+
+
+# scripts/items/weapons/barbarians/skull_hammer.nut
+msgid "Two-Handed Skull Hammer"
+msgstr "双手颅骨锤"
+
+
+# scripts/items/weapons/barbarians/skull_hammer.nut
+msgid "A crude metal hammer used with two hands to crush both armor and its wearer alike."
+msgstr "一把粗糙的合金锤子，通过双手的力量同时粉碎盔甲与穿戴者。"
+
+
+# scripts/items/weapons/barbarians/drum_item.nut
+msgid "Drum"
+msgstr "战鼓"
+
+
+# scripts/items/weapons/barbarians/antler_cleaver.nut
+msgid "Antler Cleaver"
+msgstr "鹿角刀"
+
+
+# scripts/items/weapons/barbarians/antler_cleaver.nut
+msgid "A very crude cleaver crafted from a sharpened antler. Heavy and blunt, but still dangerous."
+msgstr "一把用锋利鹿角制作的粗糙砍刀。 又钝又重，但依然危险。"
+
+
+# scripts/items/weapons/barbarians/rusty_warblade.nut
+msgid "Rusty Warblade"
+msgstr "生锈战刀"
+
+
+# scripts/items/weapons/barbarians/rusty_warblade.nut
+msgid "A heavy blade with a curved end combining sword and axe into a devastating two-handed cleaver."
+msgstr "一柄结合了斧头与剑的重型锋刃的毁灭性双手弯曲砍刀。"
+
+
+# scripts/items/weapons/barbarians/two_handed_spiked_mace.nut
+msgid "Two-Handed Spiked Mace"
+msgstr "双手尖刺棒"
+
+
+# scripts/items/weapons/barbarians/two_handed_spiked_mace.nut
+msgid "A huge club fitted with a skull for good measure. Receiving a blow from this weapon will leave anyone dazed and gasping for air, no matter their armor."
+msgstr "一个装有头盖骨的大棍子。 无论敌人穿什么样的盔甲，受到这种武器的打击会让其神志不清，陷入茫然。"
+
+
+# scripts/items/weapons/barbarians/claw_club.nut
+msgid "Claw Club"
+msgstr "爪棒"
+
+
+# scripts/items/weapons/barbarians/claw_club.nut
+msgid "The massive claws of some wild animal are fixed to this large club"
+msgstr "一把绑着某种野生动物爪子的大型棒棍"
+
+
+# scripts/items/weapons/barbarians/heavy_javelin.nut
+msgid "Bundle of Heavy Javelins"
+msgstr "一捆沉重的标枪"
+
+
+# scripts/items/weapons/barbarians/heavy_javelin.nut
+msgid "Bundle of Heavy Javelins (Empty)"
+msgstr "Bundle of Heavy Javelins (Empty)"
+
+
+# scripts/items/weapons/barbarians/heavy_javelin.nut
+msgid "A set of heavy, rugged-looking javelins. Harder to throw and hit with, but more impactful."
+msgstr "一套看起来沉重且坚固的标枪。 投掷困难且难以命中，但伤害很高。"
+
+

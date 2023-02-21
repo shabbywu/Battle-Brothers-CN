@@ -1,0 +1,295 @@
+# scripts/items/supplies/ammo_item.nut
+# scripts/items/supplies/dried_fish_item.nut
+# scripts/items/supplies/preserved_mead_item.nut
+# scripts/items/supplies/smoked_ham_item.nut
+# scripts/items/supplies/bread_item.nut
+# scripts/items/supplies/cured_venison_item.nut
+# scripts/items/supplies/rice_item.nut
+# scripts/items/supplies/cured_rations_item.nut
+# scripts/items/supplies/dates_item.nut
+# scripts/items/supplies/mead_item.nut
+# scripts/items/supplies/goat_cheese_item.nut
+# scripts/items/supplies/strange_meat_item.nut
+# scripts/items/supplies/ground_grains_item.nut
+# scripts/items/supplies/armor_parts_item.nut
+# scripts/items/supplies/dried_lamb_item.nut
+# scripts/items/supplies/fermented_unhold_heart_item.nut
+# scripts/items/supplies/food_item.nut
+# scripts/items/supplies/wine_item.nut
+# scripts/items/supplies/beer_item.nut
+# scripts/items/supplies/black_marsh_stew_item.nut
+# scripts/items/supplies/dried_fruits_item.nut
+# scripts/items/supplies/pickled_mushrooms_item.nut
+# scripts/items/supplies/medicine_item.nut
+# scripts/items/supplies/roots_and_berries_item.nut
+msgid "State"
+msgstr "State"
+
+
+# scripts/items/supplies/money_item.nut
+msgid "Crowns"
+msgstr "克朗"
+
+
+# scripts/items/supplies/ammo_item.nut
+msgid "Ammunition"
+msgstr "弹药"
+
+
+# scripts/items/supplies/medicine_item.nut
+msgid "Medical Supplies"
+msgstr "医疗用品"
+
+
+# scripts/items/supplies/armor_parts_item.nut
+msgid "Tools and Supplies"
+msgstr "工具和补给"
+
+
+# scripts/items/supplies/food_item.nut
+msgid "Bought for [img]gfx/ui/tooltips/money.png[/img]"
+msgstr "购买价格 [img]gfx/ui/tooltips/money.png[/img]"
+
+
+# scripts/items/supplies/ammo_item.nut
+# scripts/items/supplies/armor_parts_item.nut
+# scripts/items/supplies/medicine_item.nut
+msgid "A good [color="
+msgstr "A good [color="
+
+
+# scripts/items/supplies/ammo_item.nut
+msgid "[/color] units of assorted ammunition - arrows, bolts and javelins. Used to automatically refill your quivers after battle. Will be added to your global stock once you're back on the worldmap."
+msgstr "[/color] units of assorted ammunition - arrows, bolts and javelins. Used to automatically refill your quivers after battle. 一旦你重新进入世界地图，将被添加到你的库存中。"
+
+
+# scripts/items/supplies/dried_fish_item.nut
+msgid "Dried Fish"
+msgstr "鱼干"
+
+
+# scripts/items/supplies/dried_fish_item.nut
+msgid "Provisions. Fish is a common and filling food in coastal regions. It is dried to preserve it."
+msgstr "食物。 在沿海地区，鱼是一种常见的食物。通过腌制以便于保存。"
+
+
+# scripts/items/supplies/preserved_mead_item.nut
+msgid "Preserved Mead"
+msgstr "特制蜂蜜酒"
+
+
+# scripts/items/supplies/preserved_mead_item.nut
+msgid "Provisions. This ashen liquid has small sparkles of silver swirrling about. The taste is off, but it hardly ever spoils."
+msgstr "食物。 一种闪着银光的灰白色液体。味道很差，但几乎不会变质。"
+
+
+# scripts/items/supplies/smoked_ham_item.nut
+msgid "Smoked Ham"
+msgstr "熏火腿"
+
+
+# scripts/items/supplies/smoked_ham_item.nut
+msgid "Provisions. There are many ways to preserve food. This piece of ham has been treated in a smoking hut."
+msgstr "食物。 保存食物的办法有很多种。 而这种火腿一向是在熏肉房处理的。"
+
+
+# scripts/items/supplies/bread_item.nut
+msgid "Bread"
+msgstr "面包"
+
+
+# scripts/items/supplies/bread_item.nut
+msgid "Provisions. Light bread made from wheat makes for a filling meal."
+msgstr "食物。 用小麦做的面包可以填饱肚子。"
+
+
+# scripts/items/supplies/cured_venison_item.nut
+msgid "Cured Venison"
+msgstr "腌鹿肉"
+
+
+# scripts/items/supplies/cured_venison_item.nut
+msgid "Provisions. A cured chunk of venison preserved by salt. Fine food for a travelling sellsword."
+msgstr "食物。 用盐腌制的鹿肉块。佣兵们的旅行美食。"
+
+
+# scripts/items/supplies/rice_item.nut
+msgid "Rice"
+msgstr "大米"
+
+
+# scripts/items/supplies/rice_item.nut
+msgid "Provisions. Rice is cheap and readily available in the south. Spiced up with various herbs it becomes a tasty dish."
+msgstr "食物。 大米价格便宜，在南方很容易买到。 加上各种各样的香草，就成了一道美味的菜。"
+
+
+# scripts/items/supplies/cured_rations_item.nut
+msgid "Masterfully Cured Rations"
+msgstr "精制口粮"
+
+
+# scripts/items/supplies/cured_rations_item.nut
+msgid "Provisions. These rations consist of assorted, well cured meats and vegetables that are sealed in small boxes. The ideal provision to take with you on long journeys and expeditions."
+msgstr "食物。 这些口粮由各式各样精工腌制的肉和蔬菜混合而成，被密封在小盒子里。这是你长途旅行和探险的理想食物。"
+
+
+# scripts/items/supplies/dates_item.nut
+msgid "Dates"
+msgstr "枣子"
+
+
+# scripts/items/supplies/dates_item.nut
+msgid "Provisions. Dried dates are common in the south. These sweet, dried fruits are high energy and well preserved."
+msgstr "食物。 干枣在南方很常见。 这些香甜的干果富含能量保存良好。"
+
+
+# scripts/items/supplies/mead_item.nut
+msgid "Mead"
+msgstr "蜂蜜酒"
+
+
+# scripts/items/supplies/mead_item.nut
+msgid "Provisions. An alcoholic beverage made from honey. Both durable and tasty while also being much safer to drink than unpurified water."
+msgstr "食物。 一种由蜂蜜制成的酒精饮料。既耐存又美味，同时也比未净化的水更安全。"
+
+
+# scripts/items/supplies/goat_cheese_item.nut
+msgid "Goat Cheese"
+msgstr "山羊奶酪"
+
+
+# scripts/items/supplies/goat_cheese_item.nut
+msgid "Provisions. Goat cheese is a tasty and rich food that is common and popular especially in the colder regions of the north."
+msgstr "食物。 山羊奶酪是一种美味而又丰富的食物，在北方的寒冷地区尤其常见，而且很受欢迎。"
+
+
+# scripts/items/supplies/strange_meat_item.nut
+msgid "Strange Meat"
+msgstr "奇怪的肉"
+
+
+# scripts/items/supplies/strange_meat_item.nut
+msgid "Provisions. Meat of indefinable origin. Eating this may seem risky, but is preferable to starving."
+msgstr "食物。 不清楚它的出处。食用这种东西似乎有点风险，但总比饿着肚子强。"
+
+
+# scripts/items/supplies/ground_grains_item.nut
+msgid "Ground Grains"
+msgstr "谷物"
+
+
+# scripts/items/supplies/ground_grains_item.nut
+msgid "Provisions. Various kinds of grounded grain that will be cooked up with water or milk for a daily meal. It is satiating but tasteless."
+msgstr "食物。 各种各样的谷物，能用水与牛奶做出日常膳食。能够充饥但没什么味道。"
+
+
+# scripts/items/supplies/armor_parts_item.nut
+msgid "[/color] assorted tools and supplies to repair weapons, armor, helmets and shields with after battle. Will be added to your global stock once you're back on the worldmap."
+msgstr "[/color] assorted tools and supplies to repair weapons, armor, helmets and shields with after battle. 一旦你重新进入世界地图，将被添加到你的库存中。"
+
+
+# scripts/items/supplies/dried_lamb_item.nut
+msgid "Dried Lamb"
+msgstr "羊肉干"
+
+
+# scripts/items/supplies/dried_lamb_item.nut
+msgid "Provisions. Dried Lamb is a speciality and a highy sought-after food in the south. A real treat for any hungry mercenary."
+msgstr "食物。 羊肉干在南方是一种特产，也是很受欢迎的食物。 对任何饥渴的雇佣兵来说都是一种真正的享受。"
+
+
+# scripts/items/supplies/fermented_unhold_heart_item.nut
+msgid "Fermented Unhold Heart"
+msgstr "酵制巨魔心脏"
+
+
+# scripts/items/supplies/fermented_unhold_heart_item.nut
+msgid "Provisions. Once a delicacy for barbarian kings of the north who wished to embolden their virility, fermented unhold heart tastes distinctively awful."
+msgstr "食物。 曾是北方野蛮人国王用来壮阳的美食。这玩意尝起来非常糟糕。"
+
+
+# scripts/items/supplies/food_item.nut
+msgid "[/color] days."
+msgstr "[/color] days."
+
+
+# scripts/items/supplies/food_item.nut
+msgid "Will spoil in [color="
+msgstr "Will spoil in [color="
+
+
+# scripts/items/supplies/wine_item.nut
+msgid "Wine"
+msgstr "葡萄酒"
+
+
+# scripts/items/supplies/wine_item.nut
+msgid "Provisions. Wine made from squashed and fermented grapes. Both elaborate to produce and expensive to buy."
+msgstr "食物。 由压榨和发酵的葡萄酿制而成的酒。制作的材料都是精心挑选的所以十分昂贵。"
+
+
+# scripts/items/supplies/beer_item.nut
+msgid "Beer"
+msgstr "啤酒"
+
+
+# scripts/items/supplies/beer_item.nut
+msgid "Provisions. This fermented hop or barley drink is more durable and safer to drink than plain water."
+msgstr "食物。 这种发酵的啤酒花或大麦饮料比普通的水更便于保存。"
+
+
+# scripts/items/supplies/black_marsh_stew_item.nut
+msgid "Black Marsh Stew"
+msgstr "黑沼泽炖"
+
+
+# scripts/items/supplies/black_marsh_stew_item.nut
+msgid "Provisions. Black as the marshes it hails from, this ghastly stew is far from delicious but takes ages to spoil. Possibly because it already is spoiled to begin with."
+msgstr "食物。 来自沼泽的黑暗料理，这道与美味不沾边的恐怖炖汤能保存很长时间。可能刚做出来的时候就已经变质了。"
+
+
+# scripts/items/supplies/money_item.nut
+msgid "The amount of [color="
+msgstr "The amount of [color="
+
+
+# scripts/items/supplies/money_item.nut
+msgid "[/color] crowns, the currency in these lands. Will be added to your global stock once you're back on the worldmap."
+msgstr "[/color] crowns, the currency in these lands. 一旦你重新进入世界地图，将被添加到你的库存中。"
+
+
+# scripts/items/supplies/dried_fruits_item.nut
+msgid "Dried Fruits"
+msgstr "果脯"
+
+
+# scripts/items/supplies/dried_fruits_item.nut
+msgid "Provisions. Fruits from orchards are both tasty and nutritious. They are dried to preserve them longer."
+msgstr "食物。 果园里的水果既可口又营养。晒干以后可以保存更长的时间。"
+
+
+# scripts/items/supplies/pickled_mushrooms_item.nut
+msgid "Mushrooms"
+msgstr "蘑菇"
+
+
+# scripts/items/supplies/pickled_mushrooms_item.nut
+msgid "Provisions. Swampy regions offer little food, but pickled mushrooms are a favoured provision for travelers in these areas."
+msgstr "食物。 沼泽地区提供的食物很少，但腌蘑菇是那里的旅客最受欢迎的食物。"
+
+
+# scripts/items/supplies/medicine_item.nut
+msgid "[/color] units of herbs, salves, bandages and the like to help your mercenaries recover from injuries sustained in battle. Will be added to your global stock once you're back on the worldmap."
+msgstr "[/color] units of herbs, salves, bandages and the like to help your mercenaries recover from injuries sustained in battle. 一旦你重新进入世界地图，将被添加到你的库存中。"
+
+
+# scripts/items/supplies/roots_and_berries_item.nut
+msgid "Roots and Berries"
+msgstr "根茎和浆果"
+
+
+# scripts/items/supplies/roots_and_berries_item.nut
+msgid "Provisions. Dried roots and berries are not the most exciting of rations but easy to come by and durable."
+msgstr "食物。 根茎和浆果不是最令人兴奋的口粮，但很容易得到，并且保存良久。"
+
+

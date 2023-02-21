@@ -1,0 +1,5960 @@
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Horn"
+msgstr "喇叭"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Neumark"
+msgstr "纽马克"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Eisenstein"
+msgstr "埃森斯坦"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Dornen"
+msgstr "多尔宁"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Dulmen"
+msgstr "迪尔门"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Durbach"
+msgstr "德巴赫"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Dornheim"
+msgstr "多恩海姆"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Weidenau"
+msgstr "韦德诺"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Elkshorn"
+msgstr "艾克索恩"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Albstadt"
+msgstr "奥尔施塔特"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Dunkelwald"
+msgstr "登科瓦尔德"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Wiesendorf"
+msgstr "维森多夫"
+
+
+# scripts/entity/world/settlements/small_tundra_village.nut
+msgid "Kallesheim"
+msgstr "凯尔西姆"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Hammererden"
+msgstr "海默尔顿"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+msgid "Varborg"
+msgstr "Varborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+msgid "Ramborg"
+msgstr "Ramborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Gerborg"
+msgstr "Gerborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+msgid "Vineborg"
+msgstr "Vineborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Gunnborg"
+msgstr "Gunnborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Asenborg"
+msgstr "Asenborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Tangborg"
+msgstr "Tangborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Halsborg"
+msgstr "Halsborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Hornborg"
+msgstr "Hornborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Grimborg"
+msgstr "Grimborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Homsborg"
+msgstr "Homsborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Kalkborg"
+msgstr "Kalkborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Vardeborg"
+msgstr "Vardeborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+msgid "Groneborg"
+msgstr "Groneborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+msgid "Snekkborg"
+msgstr "Snekkborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+msgid "Kungsborg"
+msgstr "Kungsborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Birkeborg"
+msgstr "Birkeborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Torvaborg"
+msgstr "Torvaborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Norreborg"
+msgstr "Norreborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+msgid "Hunneborg"
+msgstr "Hunneborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Helleborg"
+msgstr "Helleborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+msgid "Jarlsborg"
+msgstr "Jarlsborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Lydersborg"
+msgstr "Lydersborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Tonderborg"
+msgstr "Tonderborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Helvikborg"
+msgstr "Helvikborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Hammarborg"
+msgstr "Hammarborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Skjoldborg"
+msgstr "Skjoldborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Donnersborg"
+msgstr "Donnersborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Sommersborg"
+msgstr "Sommersborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Eidsvikborg"
+msgstr "Eidsvikborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Brammingborg"
+msgstr "Brammingborg"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+msgid "This large citadel looks wide over the endless snow"
+msgstr "这座大城堡在无尽的雪上显得很宽"
+
+
+# scripts/entity/world/settlements/large_snow_fort.nut
+msgid "This large citadel looks wide over the endless snow and is a stronghold against anything that may come down from the far north. As people flocked to its protection over the years, the many houses and workshops in its vicinity now also grant shelter and supply to travelers, mercenaries and adventurers in the area."
+msgstr "这座大城堡在无尽的雪上显得很宽 and is a stronghold against anything that may come down from the far north. As people flocked to its protection over the years, the many houses and workshops in its vicinity now also grant shelter and supply to travelers, mercenaries and adventurers in the area."
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Hage"
+msgstr "Hage"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Varel"
+msgstr "Varel"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Wiese"
+msgstr "Wiese"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Neudorf"
+msgstr "Neudorf"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Hemmeln"
+msgstr "Hemmeln"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Meiding"
+msgstr "Meiding"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Saxdorf"
+msgstr "Saxdorf"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Ivendorf"
+msgstr "Ivendorf"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Bockhorn"
+msgstr "Bockhorn"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Freidorf"
+msgstr "Freidorf"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Altenhof"
+msgstr "Altenhof"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Markdorf"
+msgstr "Markdorf"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Schnellen"
+msgstr "Schnellen"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Harlingen"
+msgstr "Harlingen"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Grunfelde"
+msgstr "Grunfelde"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Hufschlag"
+msgstr "Hufschlag"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Wagenheim"
+msgstr "Wagenheim"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Weidefeld"
+msgstr "Weidefeld"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Heuweiler"
+msgstr "Heuweiler"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Dreifelden"
+msgstr "Dreifelden"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Muhlenheim"
+msgstr "Muhlenheim"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Kochendorf"
+msgstr "Kochendorf"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Koppeldorf"
+msgstr "Koppeldorf"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Bitterfeld"
+msgstr "Bitterfeld"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Hermannshof"
+msgstr "Hermannshof"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Weissenhaus"
+msgstr "Weissenhaus"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Grafenheide"
+msgstr "Grafenheide"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+msgid "A prospering village surrounded by fertile land"
+msgstr "富饶的土地环绕的繁荣的村庄"
+
+
+# scripts/entity/world/settlements/medium_farming_village.nut
+msgid "A prospering village surrounded by fertile land. The market is usually filled with all kinds of fresh food."
+msgstr "富饶的土地环绕的繁荣的村庄. 市场上通常摆满了各种新鲜食品。"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Kalk"
+msgstr "Kalk"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Ogna"
+msgstr "Ogna"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Bola"
+msgstr "Bola"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Varde"
+msgstr "Varde"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Norre"
+msgstr "Norre"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Alsliv"
+msgstr "Alsliv"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Skjold"
+msgstr "Skjold"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Olbing"
+msgstr "Olbing"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Tonder"
+msgstr "Tonder"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Hammar"
+msgstr "Hammar"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Helvik"
+msgstr "Helvik"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Norheim"
+msgstr "Norheim"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Undheim"
+msgstr "Undheim"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Jerstal"
+msgstr "Jerstal"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Eidsvik"
+msgstr "Eidsvik"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Vistadt"
+msgstr "Vistadt"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Gerheim"
+msgstr "Gerheim"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Halheim"
+msgstr "Halheim"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Bramming"
+msgstr "Bramming"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Asenstad"
+msgstr "Asenstad"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Hejsager"
+msgstr "Hejsager"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Gunnheim"
+msgstr "Gunnheim"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Hellevad"
+msgstr "Hellevad"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Kravlund"
+msgstr "Kravlund"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Tangvall"
+msgstr "Tangvall"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Ravestad"
+msgstr "Ravestad"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Grimstad"
+msgstr "Grimstad"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Hornheim"
+msgstr "Hornheim"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Heimstad"
+msgstr "Heimstad"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+msgid "Lonneberg"
+msgstr "Lonneberg"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Torvastad"
+msgstr "Torvastad"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+msgid "Bullarsby"
+msgstr "Bullarsby"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Birkeland"
+msgstr "Birkeland"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Lydersholm"
+msgstr "Lydersholm"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Sommerstad"
+msgstr "Sommerstad"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_snow_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "Donnerstad"
+msgstr "Donnerstad"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+msgid "Some huts huddled together"
+msgstr "一些小屋挤在一起"
+
+
+# scripts/entity/world/settlements/small_snow_village.nut
+msgid "A small group of huts huddled together, defying the harsh snowy winds of the north."
+msgstr "一小群棚屋挤在一起，抵御着北方刺骨的暴风雪。"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Hejsted"
+msgstr "Hejsted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Asested"
+msgstr "Asested"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Eidsted"
+msgstr "Eidsted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Gersted"
+msgstr "Gersted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+msgid "Agersted"
+msgstr "Agersted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Bolasted"
+msgstr "Bolasted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Ravested"
+msgstr "Ravested"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Gunnsted"
+msgstr "Gunnsted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Jarlsted"
+msgstr "Jarlsted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+msgid "Ovarsted"
+msgstr "Ovarsted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+msgid "Arsasted"
+msgstr "Arsasted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Ognasted"
+msgstr "Ognasted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Hornsted"
+msgstr "Hornsted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Grimsted"
+msgstr "Grimsted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Norrested"
+msgstr "Norrested"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Hellested"
+msgstr "Hellested"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Lydersted"
+msgstr "Lydersted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Vardested"
+msgstr "Vardested"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+msgid "Skagensted"
+msgstr "Skagensted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Tondersted"
+msgstr "Tondersted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Sommersted"
+msgstr "Sommersted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+msgid "Svarrested"
+msgstr "Svarrested"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Hammarsted"
+msgstr "Hammarsted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+msgid "Rollarsted"
+msgstr "Rollarsted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+msgid "Harkensted"
+msgstr "Harkensted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Brammingsted"
+msgstr "Brammingsted"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+msgid "A large city sheltering travelers and traders from snow and cold"
+msgstr "避雪避寒的大城市"
+
+
+# scripts/entity/world/settlements/large_snow_village.nut
+msgid "A large city far up north. Traders, travelers and adventurers come here for shelter from snow and storms."
+msgstr "北方很远的一个大城市。商人、旅行者和冒险者来到这里躲避冰雪和风暴。"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "wood"
+msgstr "wood"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Grunland"
+msgstr "Grunland"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Waldland"
+msgstr "Waldland"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Hageland"
+msgstr "Hageland"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Holzmark"
+msgstr "Holzmark"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Waldmark"
+msgstr "Waldmark"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Grunstadt"
+msgstr "Grunstadt"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Thalstadt"
+msgstr "Thalstadt"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Eichstadt"
+msgstr "Eichstadt"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Waidstadt"
+msgstr "Waidstadt"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Eulenmark"
+msgstr "Eulenmark"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Tannstadt"
+msgstr "Tannstadt"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Forstland"
+msgstr "Forstland"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Hirschmark"
+msgstr "Hirschmark"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Grafenhain"
+msgstr "Grafenhain"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Tiefenmark"
+msgstr "Tiefenmark"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Konigshain"
+msgstr "Konigshain"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Dunkelmark"
+msgstr "Dunkelmark"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Konigswald"
+msgstr "Konigswald"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Dustermark"
+msgstr "Dustermark"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Fahrnstadt"
+msgstr "Fahrnstadt"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Finstermark"
+msgstr "Finstermark"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Weilerstadt"
+msgstr "Weilerstadt"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "Finsterstadt"
+msgstr "Finsterstadt"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "A prospering city with its main produce being valuable timber and venison"
+msgstr "以珍贵的木材和鹿肉为主要产品的繁荣城市"
+
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+msgid "A prospering city located close to the forest with its main produce being valuable timber and venison."
+msgstr "一座繁荣的城市，靠近森林，其主要产品是有价值的木材和鹿肉。"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Ahlen"
+msgstr "Ahlen"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Monkamp"
+msgstr "Monkamp"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Julbach"
+msgstr "Julbach"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Farnheim"
+msgstr "Farnheim"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Tarsdorf"
+msgstr "Tarsdorf"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Grunbach"
+msgstr "Grunbach"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Birkhain"
+msgstr "Birkhain"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Kolkdorf"
+msgstr "Kolkdorf"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Mohrdorf"
+msgstr "Mohrdorf"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Brookheim"
+msgstr "Brookheim"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "mushrooms"
+msgstr "mushrooms"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Grunkraut"
+msgstr "Grunkraut"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Auengrund"
+msgstr "Auengrund"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Brookdorf"
+msgstr "Brookdorf"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Torfbruck"
+msgstr "Torfbruck"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Ehlerstorf"
+msgstr "Ehlerstorf"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Streekmoor"
+msgstr "Streekmoor"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Kaltenbach"
+msgstr "Kaltenbach"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Suderbusch"
+msgstr "Suderbusch"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Stakendorf"
+msgstr "Stakendorf"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Sehlendorf"
+msgstr "Sehlendorf"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Grunwasser"
+msgstr "Grunwasser"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Lauenbruck"
+msgstr "Lauenbruck"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Tiefenbach"
+msgstr "Tiefenbach"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Altenfurth"
+msgstr "Altenfurth"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Grossfurth"
+msgstr "Grossfurth"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Schmalfurth"
+msgstr "Schmalfurth"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Schwartbuck"
+msgstr "Schwartbuck"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Weissenbach"
+msgstr "Weissenbach"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Breitenbrunn"
+msgstr "Breitenbrunn"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Schwarzbrook"
+msgstr "Schwarzbrook"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Schwarzpfuhl"
+msgstr "Schwarzpfuhl"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Schwarzwasser"
+msgstr "Schwarzwasser"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "Schattenfluth"
+msgstr "Schattenfluth"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+msgid "A small and crude settlement in a swampy area"
+msgstr "沼泽地区的小而粗糙的定居点"
+
+
+# scripts/entity/world/settlements/small_swamp_village.nut
+msgid "A small settlement in a swampy area. The people living here sure know hardship."
+msgstr "沼泽地区的小定居点。 住在这里的人肯定很艰苦。"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Dornland"
+msgstr "Dornland"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Sandmark"
+msgstr "Sandmark"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Sonstadt"
+msgstr "Sonstadt"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Sonnmark"
+msgstr "Sonnmark"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Erlstadt"
+msgstr "Erlstadt"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Krautmark"
+msgstr "Krautmark"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Lichtmark"
+msgstr "Lichtmark"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Sandstadt"
+msgstr "Sandstadt"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Rothstadt"
+msgstr "Rothstadt"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Strohmark"
+msgstr "Strohmark"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Hellstadt"
+msgstr "Hellstadt"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Wohlstadt"
+msgstr "Wohlstadt"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Gelbstadt"
+msgstr "Gelbstadt"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Brunnstadt"
+msgstr "Brunnstadt"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Rothenmark"
+msgstr "Rothenmark"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Suderstadt"
+msgstr "Suderstadt"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Wunderstadt"
+msgstr "Wunderstadt"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Brunnenland"
+msgstr "Brunnenland"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Himmelstadt"
+msgstr "Himmelstadt"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "Grafenschein"
+msgstr "Grafenschein"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "A large city thriving on trade and fine arts"
+msgstr "一个以贸易和艺术品而繁荣的大城市"
+
+
+# scripts/entity/world/settlements/large_steppe_village.nut
+msgid "A large city thriving in the southern steppe by trading and producing valuable goods and fine arts."
+msgstr "一个在南方草原上通过贸易和生产有价值的商品和艺术品而繁荣的大城市。"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "ore"
+msgstr "ore"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Thal"
+msgstr "Thal"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Sattel"
+msgstr "Sattel"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Bergau"
+msgstr "Bergau"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Trogen"
+msgstr "Trogen"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Erdfall"
+msgstr "Erdfall"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Hohenau"
+msgstr "Hohenau"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Hochdorf"
+msgstr "Hochdorf"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Reinberg"
+msgstr "Reinberg"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Felsheim"
+msgstr "Felsheim"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Goldhoft"
+msgstr "Goldhoft"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Bokenberg"
+msgstr "Bokenberg"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Jaderberg"
+msgstr "Jaderberg"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Eisengrab"
+msgstr "Eisengrab"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Koppingen"
+msgstr "Koppingen"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Fuchsberg"
+msgstr "Fuchsberg"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Weitblick"
+msgstr "Weitblick"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Nasenfels"
+msgstr "Nasenfels"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Ellenberg"
+msgstr "Ellenberg"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Kaltenhof"
+msgstr "Kaltenhof"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Kahlenberg"
+msgstr "Kahlenberg"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Mitterfels"
+msgstr "Mitterfels"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Pfeilstein"
+msgstr "Pfeilstein"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Wolfhaiden"
+msgstr "Wolfhaiden"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Schweikhof"
+msgstr "Schweikhof"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Eichenberg"
+msgstr "Eichenberg"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Adlerstein"
+msgstr "Adlerstein"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Schneeberg"
+msgstr "Schneeberg"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Gronenberg"
+msgstr "Gronenberg"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Senftenberg"
+msgstr "Senftenberg"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Weissenfels"
+msgstr "Weissenfels"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Steinhausen"
+msgstr "Steinhausen"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Helfenstein"
+msgstr "Helfenstein"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Some huts and small buildings housing workers for the nearby mines"
+msgstr "一些小屋和小建筑为附近的煤矿工人提供住房"
+
+
+# scripts/entity/world/settlements/small_mining_village.nut
+msgid "Some huts and small buildings housing workers for the nearby mines."
+msgstr "一些小屋和小建筑为附近的煤矿工人提供住房."
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+msgid "Asaholm"
+msgstr "Asaholm"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Gerholm"
+msgstr "Gerholm"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+msgid "Gunhall"
+msgstr "Gunhall"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Grimhaug"
+msgstr "Grimhaug"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Tanghaug"
+msgstr "Tanghaug"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Vikeholm"
+msgstr "Vikeholm"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Homsgard"
+msgstr "Homsgard"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Gunnholm"
+msgstr "Gunnholm"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Horngard"
+msgstr "Horngard"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Asengard"
+msgstr "Asengard"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Halshovel"
+msgstr "Halshovel"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+msgid "Wallhovel"
+msgstr "Wallhovel"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+msgid "Hjalsgard"
+msgstr "Hjalsgard"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Torvaholm"
+msgstr "Torvaholm"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Kalkhovel"
+msgstr "Kalkhovel"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Norreholm"
+msgstr "Norreholm"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Vardegard"
+msgstr "Vardegard"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Skjoldgard"
+msgstr "Skjoldgard"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Birkehovel"
+msgstr "Birkehovel"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Hellehovel"
+msgstr "Hellehovel"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Helvikholm"
+msgstr "Helvikholm"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Lydersgard"
+msgstr "Lydersgard"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Hammargard"
+msgstr "Hammargard"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Eidsvikholm"
+msgstr "Eidsvikholm"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Sommersholm"
+msgstr "Sommersholm"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Tonderhovel"
+msgstr "Tonderhovel"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Skandergard"
+msgstr "Skandergard"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Donnersgard"
+msgstr "Donnersgard"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Brammingholm"
+msgstr "Brammingholm"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+msgid "Kungenshovel"
+msgstr "Kungenshovel"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+msgid "Grimmarsholm"
+msgstr "Grimmarsholm"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+msgid "This stone keep shelters a garrison from the snow"
+msgstr "这座石堡为守军挡住了雪"
+
+
+# scripts/entity/world/settlements/medium_snow_fort.nut
+msgid "This stone-built keep offers protection both from the cold and any invaders."
+msgstr "这座石头建造的城堡既能抵御寒冷，也能抵御任何入侵者。"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Auenfeste"
+msgstr "Auenfeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Wehrfeste"
+msgstr "Wehrfeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Grunfeste"
+msgstr "Grunfeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Feldfeste"
+msgstr "Feldfeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Aulenfeste"
+msgstr "Aulenfeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Haselfeste"
+msgstr "Haselfeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Tauschanze"
+msgstr "Tauschanze"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Weidefeste"
+msgstr "Weidefeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Hoberfeste"
+msgstr "Hoberfeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Gardefeste"
+msgstr "Gardefeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Konigsfeste"
+msgstr "Konigsfeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Koppelfeste"
+msgstr "Koppelfeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Kroonsfeste"
+msgstr "Kroonsfeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Reiherfeste"
+msgstr "Reiherfeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Weidenfeste"
+msgstr "Weidenfeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Weissenfeste"
+msgstr "Weissenfeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Gerstenfeste"
+msgstr "Gerstenfeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Lowenschanze"
+msgstr "Lowenschanze"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Brunnenfeste"
+msgstr "Brunnenfeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Freilandfeste"
+msgstr "Freilandfeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "Grunlandfeste"
+msgstr "Grunlandfeste"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Grafenschanze"
+msgstr "Grafenschanze"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "A massive citadel towering over the open plains"
+msgstr "高耸在开阔平原上的巨大城堡"
+
+
+# scripts/entity/world/settlements/large_farm_fort.nut
+msgid "A massive citadel towering over the open plains surrounding it. A seat of power to nobles, and housing large armed forces for a firm grip on the region."
+msgstr "高耸在开阔平原上的巨大城堡 surrounding it. A seat of power to nobles, and housing large armed forces for a firm grip on the region."
+
+
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Geirborg"
+msgstr "Geirborg"
+
+
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Haellborg"
+msgstr "Haellborg"
+
+
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Skagaborg"
+msgstr "Skagaborg"
+
+
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Kampaborg"
+msgstr "Kampaborg"
+
+
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Selasborg"
+msgstr "Selasborg"
+
+
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Gufarsborg"
+msgstr "Gufarsborg"
+
+
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Husnarborg"
+msgstr "Husnarborg"
+
+
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "Reistarborg"
+msgstr "Reistarborg"
+
+
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "A large citadel towering high over the surrounding tundra"
+msgstr "高高耸立在周围苔原上的大城堡"
+
+
+# scripts/entity/world/settlements/large_tundra_fort.nut
+msgid "A large citadel towering high over the surrounding tundra and securing the large and open region. Many come here to resupply, make repairs and rest until venturing on."
+msgstr "高高耸立在周围苔原上的大城堡 and securing the large and open region. Many come here to resupply, make repairs and rest until venturing on."
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Grunwall"
+msgstr "Grunwall"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Hainturm"
+msgstr "Hainturm"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Dornwall"
+msgstr "Dornwall"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Mooswehr"
+msgstr "Mooswehr"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Tannwall"
+msgstr "Tannwall"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Erlenwall"
+msgstr "Erlenwall"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Eichwacht"
+msgstr "Eichwacht"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Eulenturm"
+msgstr "Eulenturm"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Holzwacht"
+msgstr "Holzwacht"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Haselwehr"
+msgstr "Haselwehr"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Wildwacht"
+msgstr "Wildwacht"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Waldwacht"
+msgstr "Waldwacht"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Fuchsturm"
+msgstr "Fuchsturm"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Farnwacht"
+msgstr "Farnwacht"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Forstwehr"
+msgstr "Forstwehr"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Steinforst"
+msgstr "Steinforst"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Nebelwacht"
+msgstr "Nebelwacht"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Eulenwacht"
+msgstr "Eulenwacht"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Eibenwacht"
+msgstr "Eibenwacht"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Fahrnwacht"
+msgstr "Fahrnwacht"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Haselwacht"
+msgstr "Haselwacht"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Hirschturm"
+msgstr "Hirschturm"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Waldenwehr"
+msgstr "Waldenwehr"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Dunkelwacht"
+msgstr "Dunkelwacht"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Finsterwehr"
+msgstr "Finsterwehr"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Steinweiler"
+msgstr "Steinweiler"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Finsterwall"
+msgstr "Finsterwall"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Waidschanze"
+msgstr "Waidschanze"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Schwarzwacht"
+msgstr "Schwarzwacht"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Dusterschanze"
+msgstr "Dusterschanze"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "A military strongpoint surrounded by woods"
+msgstr "森林环绕的军事据点"
+
+
+# scripts/entity/world/settlements/small_forest_fort.nut
+msgid "Surrounded by forest, this small wooden keep controls the surrounding woodlands."
+msgstr "这个小木屋被森林环绕，控制着周围的林地。"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Waidburg"
+msgstr "Waidburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Holzburg"
+msgstr "Holzburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+# scripts/entity/world/settlements/medium_farm_fort.nut
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Grunburg"
+msgstr "Grunburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Moosburg"
+msgstr "Moosburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Eichburg"
+msgstr "Eichburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Tannburg"
+msgstr "Tannburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Dornburg"
+msgstr "Dornburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Hainburg"
+msgstr "Hainburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Waldburg"
+msgstr "Waldburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Eulenburg"
+msgstr "Eulenburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Haselburg"
+msgstr "Haselburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Forstburg"
+msgstr "Forstburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Fuchsburg"
+msgstr "Fuchsburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Wolfsburg"
+msgstr "Wolfsburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Fahrnburg"
+msgstr "Fahrnburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Wurzelburg"
+msgstr "Wurzelburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Dusterburg"
+msgstr "Dusterburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Buchenburg"
+msgstr "Buchenburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Dunkelburg"
+msgstr "Dunkelburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Katzenburg"
+msgstr "Katzenburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Bieberburg"
+msgstr "Bieberburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Nesselburg"
+msgstr "Nesselburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Natternburg"
+msgstr "Natternburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Breitenburg"
+msgstr "Breitenburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Finsterburg"
+msgstr "Finsterburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "Findelsburg"
+msgstr "Findelsburg"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "A mighty stone keep surrounded by woods."
+msgstr "这座巨大的石头城堡被森林所包围。"
+
+
+# scripts/entity/world/settlements/medium_forest_fort.nut
+msgid "This mighty stone keep surrounded by forest acts as a base of operations in the area."
+msgstr "这座被森林环绕的巨石城堡是该地区的一个军事基地。"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Dornturm"
+msgstr "Dornturm"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Sonnwehr"
+msgstr "Sonnwehr"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Gelbwall"
+msgstr "Gelbwall"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Dorngard"
+msgstr "Dorngard"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Goldwall"
+msgstr "Goldwall"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Kargwall"
+msgstr "Kargwall"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Brunnwall"
+msgstr "Brunnwall"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Unterwall"
+msgstr "Unterwall"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Dornwacht"
+msgstr "Dornwacht"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Sandwacht"
+msgstr "Sandwacht"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Siegwacht"
+msgstr "Siegwacht"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Wurmwacht"
+msgstr "Wurmwacht"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Steppwall"
+msgstr "Steppwall"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Thurnwall"
+msgstr "Thurnwall"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Schanzthal"
+msgstr "Schanzthal"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Krauchwall"
+msgstr "Krauchwall"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Sudschanze"
+msgstr "Sudschanze"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Rothenwall"
+msgstr "Rothenwall"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Suderwacht"
+msgstr "Suderwacht"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Erlachwall"
+msgstr "Erlachwall"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Wohlenwacht"
+msgstr "Wohlenwacht"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Brackenwacht"
+msgstr "Brackenwacht"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+# scripts/entity/world/settlements/small_farm_fort.nut
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Weissenwacht"
+msgstr "Weissenwacht"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Strauchwacht"
+msgstr "Strauchwacht"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Treitenwacht"
+msgstr "Treitenwacht"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "A small wooden keep in the dry steppe"
+msgstr "干草原上的小木屋"
+
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "This small wooden keep looks wide over the dry steppe and offers shade for weary soldiers."
+msgstr "这座小木屋在干涸的草原上显得宽阔，为疲惫的士兵提供荫凉。"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Sudburg"
+msgstr "Sudburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Siegburg"
+msgstr "Siegburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Gelbburg"
+msgstr "Gelbburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Rothburg"
+msgstr "Rothburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Thunburg"
+msgstr "Thunburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Kargburg"
+msgstr "Kargburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Lehmburg"
+msgstr "Lehmburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Maderburg"
+msgstr "Maderburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Staubburg"
+msgstr "Staubburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Glanzburg"
+msgstr "Glanzburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Lichtburg"
+msgstr "Lichtburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Suderburg"
+msgstr "Suderburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Erlachburg"
+msgstr "Erlachburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Sonnenburg"
+msgstr "Sonnenburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Hellenburg"
+msgstr "Hellenburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Wohlenburg"
+msgstr "Wohlenburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Wustenburg"
+msgstr "Wustenburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Krauchburg"
+msgstr "Krauchburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Treitenburg"
+msgstr "Treitenburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Strauchburg"
+msgstr "Strauchburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Trockenburg"
+msgstr "Trockenburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Schattenburg"
+msgstr "Schattenburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Splitterburg"
+msgstr "Splitterburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Strahlenburg"
+msgstr "Strahlenburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Schimmerburg"
+msgstr "Schimmerburg"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "A stone keep projecting power over the flat steppe"
+msgstr "一座石堡在平坦的草原上展现它的强大"
+
+
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "This stone keep is a strongpoint in the area and grants a good view of the surrounding flat and dry lands."
+msgstr "这个石堡是该地区的一个战略据点，可以很好地看到周围平坦和干燥的土地。"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+# scripts/entity/world/settlements/small_fishing_village.nut
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "fish"
+msgstr "fish"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Wikhavn"
+msgstr "Wikhavn"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Sandkai"
+msgstr "Sandkai"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Seedock"
+msgstr "Seedock"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Saltkai"
+msgstr "Saltkai"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Sandhoom"
+msgstr "Sandhoom"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Neudeich"
+msgstr "Neudeich"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Seehoben"
+msgstr "Seehoben"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Niewekai"
+msgstr "Niewekai"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Kaiwader"
+msgstr "Kaiwader"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Salthaven"
+msgstr "Salthaven"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Birkhaven"
+msgstr "Birkhaven"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Lutendock"
+msgstr "Lutendock"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Krumwader"
+msgstr "Krumwader"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Singhoben"
+msgstr "Singhoben"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Blankhoom"
+msgstr "Blankhoom"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Kampwader"
+msgstr "Kampwader"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Holmwader"
+msgstr "Holmwader"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Grotenhoom"
+msgstr "Grotenhoom"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Strandekai"
+msgstr "Strandekai"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Wasserkoog"
+msgstr "Wasserkoog"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Steinhaven"
+msgstr "Steinhaven"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Holnishovn"
+msgstr "Holnishovn"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Sundkajung"
+msgstr "Sundkajung"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Stohlhoven"
+msgstr "Stohlhoven"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Harkendock"
+msgstr "Harkendock"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Sandehaven"
+msgstr "Sandehaven"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Krakenwader"
+msgstr "Krakenwader"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Duhnenhaven"
+msgstr "Duhnenhaven"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Tiefenhaven"
+msgstr "Tiefenhaven"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Osterstrande"
+msgstr "Osterstrande"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "Weissenhaven"
+msgstr "Weissenhaven"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "A larger spread out village relying on fishing and a little trade"
+msgstr "靠捕鱼和少量贸易扩大的村庄"
+
+
+# scripts/entity/world/settlements/medium_fishing_village.nut
+msgid "A larger spread out village relying on fishing and a little trade."
+msgstr "靠捕鱼和少量贸易扩大的村庄."
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Heuburg"
+msgstr "Heuburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Wallburg"
+msgstr "Wallburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Hageburg"
+msgstr "Hageburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Auenburg"
+msgstr "Auenburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Wehrburg"
+msgstr "Wehrburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Muhlburg"
+msgstr "Muhlburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Feldburg"
+msgstr "Feldburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Grasburg"
+msgstr "Grasburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Thalburg"
+msgstr "Thalburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Weinburg"
+msgstr "Weinburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Marksburg"
+msgstr "Marksburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Freudburg"
+msgstr "Freudburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Weideburg"
+msgstr "Weideburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Friedland"
+msgstr "Friedland"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Gardeburg"
+msgstr "Gardeburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Sommerburg"
+msgstr "Sommerburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Langenburg"
+msgstr "Langenburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Grafenburg"
+msgstr "Grafenburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Weisenburg"
+msgstr "Weisenburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Tiefenburg"
+msgstr "Tiefenburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Koppelburg"
+msgstr "Koppelburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Kroonsburg"
+msgstr "Kroonsburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Weissenburg"
+msgstr "Weissenburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Hemmelsburg"
+msgstr "Hemmelsburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "Weihersburg"
+msgstr "Weihersburg"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "A stone keep surrounded by fertile lands"
+msgstr "一座被沃土包围的石堡"
+
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+msgid "A stone keep surrounded by fertile lands and acting as a strongpoint and base of operations in the region."
+msgstr "一座被沃土包围的石堡 and acting as a strongpoint and base of operations in the region."
+
+
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Leifsted"
+msgstr "Leifsted"
+
+
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Lorrested"
+msgstr "Lorrested"
+
+
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Ratarsted"
+msgstr "Ratarsted"
+
+
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Lugnisted"
+msgstr "Lugnisted"
+
+
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Einarsted"
+msgstr "Einarsted"
+
+
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Skallested"
+msgstr "Skallested"
+
+
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Halfdansted"
+msgstr "Halfdansted"
+
+
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "A large city and trading hub surrounded by barren tundra"
+msgstr "被荒芜的苔原环绕的大城市和贸易中心"
+
+
+# scripts/entity/world/settlements/large_tundra_village.nut
+msgid "Surrounded by barren tundra, this large city has lasted as an important trading hub and home to thinkers and fine arts."
+msgstr "这座大城市被荒芜的苔原环绕，一直是重要的贸易中心，也是思想家和艺术家的发源地。"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Erzberg"
+msgstr "Erzberg"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Erzheim"
+msgstr "Erzheim"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Erzfels"
+msgstr "Erzfels"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Erzgrube"
+msgstr "Erzgrube"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Erzbruch"
+msgstr "Erzbruch"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Salzfels"
+msgstr "Salzfels"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Reinbruch"
+msgstr "Reinbruch"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Goldstein"
+msgstr "Goldstein"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Havelberg"
+msgstr "Havelberg"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Salzbruch"
+msgstr "Salzbruch"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Goldbruch"
+msgstr "Goldbruch"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Eisenberg"
+msgstr "Eisenberg"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Hochgrube"
+msgstr "Hochgrube"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Eisenheim"
+msgstr "Eisenheim"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Ellengrube"
+msgstr "Ellengrube"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Schneefels"
+msgstr "Schneefels"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Hohenbruch"
+msgstr "Hohenbruch"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Grubenheim"
+msgstr "Grubenheim"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Gemmenstein"
+msgstr "Gemmenstein"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Schmelzheim"
+msgstr "Schmelzheim"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Schachtheim"
+msgstr "Schachtheim"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Kahlengrube"
+msgstr "Kahlengrube"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Wolkenstein"
+msgstr "Wolkenstein"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Adlerstollen"
+msgstr "Adlerstollen"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Gemmenschacht"
+msgstr "Gemmenschacht"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Trogenschacht"
+msgstr "Trogenschacht"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Grafenschacht"
+msgstr "Grafenschacht"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "Weissenschacht"
+msgstr "Weissenschacht"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "A stretched out settlement nestled into the surrounding mountains"
+msgstr "一个延伸的定居点依偎在周围的山上"
+
+
+# scripts/entity/world/settlements/medium_mining_village.nut
+msgid "A stretched out settlement nestled into the surrounding mountains. The hammering of pickaxes against stone can be heard from a distance."
+msgstr "一个延伸的定居点依偎在周围的山上. 从远处可以听到镐敲打石头的声音。"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Brunwald"
+msgstr "Brunwald"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Erzfeste"
+msgstr "Erzfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Zugfeste"
+msgstr "Zugfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Kammfeste"
+msgstr "Kammfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Felsfeste"
+msgstr "Felsfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Turmfeste"
+msgstr "Turmfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Wurmfeste"
+msgstr "Wurmfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Windfeste"
+msgstr "Windfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Steinturm"
+msgstr "Steinturm"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Hohenfeste"
+msgstr "Hohenfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Eisenfeste"
+msgstr "Eisenfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Adlerfeste"
+msgstr "Adlerfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Grollfeste"
+msgstr "Grollfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Donnerfeste"
+msgstr "Donnerfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Granitfeste"
+msgstr "Granitfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Wolfenstein"
+msgstr "Wolfenstein"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Zinnenfeste"
+msgstr "Zinnenfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Grubenfeste"
+msgstr "Grubenfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Lanzenfeste"
+msgstr "Lanzenfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Gronenfeste"
+msgstr "Gronenfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Gipfelfeste"
+msgstr "Gipfelfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Heldenfeste"
+msgstr "Heldenfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Sattelfeste"
+msgstr "Sattelfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Wolfenfeste"
+msgstr "Wolfenfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Falkenstein"
+msgstr "Falkenstein"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Himmelsfeste"
+msgstr "Himmelsfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Schwertfeste"
+msgstr "Schwertfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Wackersfeste"
+msgstr "Wackersfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Flechtenstein"
+msgstr "Flechtenstein"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Wildbergfeste"
+msgstr "Wildbergfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "Fernsichtfeste"
+msgstr "Fernsichtfeste"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "A massive stone citadel built into the steep mountains"
+msgstr "一座巨大的石头城堡建在陡峭的山中"
+
+
+# scripts/entity/world/settlements/large_mountains_fort.nut
+msgid "This massive stone citadel is built into the steep mountains. A large number of men are stationed here to hold a firm grip on the land."
+msgstr "这座巨大的石头城堡建在陡峭的山中。大量的人驻扎在这里牢牢地控制着土地。"
+
+
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "A larger settlement surrounded by foul swamps"
+msgstr "被肮脏的沼泽包围的更大的定居点"
+
+
+# scripts/entity/world/settlements/medium_swamp_village.nut
+msgid "A somewhat larger settlement spread out across various dry and firm spots in the swamp."
+msgstr "一个稍大的定居点散布在沼泽地中干燥和坚实的地方。"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Bergwall"
+msgstr "Bergwall"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Hochwall"
+msgstr "Hochwall"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Wallheim"
+msgstr "Wallheim"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Felswall"
+msgstr "Felswall"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Felswacht"
+msgstr "Felswacht"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Wolfswall"
+msgstr "Wolfswall"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Eisenwall"
+msgstr "Eisenwall"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Steinberg"
+msgstr "Steinberg"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Thalwacht"
+msgstr "Thalwacht"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Jaderwall"
+msgstr "Jaderwall"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Wallstein"
+msgstr "Wallstein"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Turmwacht"
+msgstr "Turmwacht"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Hohenturm"
+msgstr "Hohenturm"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Windwacht"
+msgstr "Windwacht"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Schanzberg"
+msgstr "Schanzberg"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Adlerwacht"
+msgstr "Adlerwacht"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Gronenwall"
+msgstr "Gronenwall"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Steinwacht"
+msgstr "Steinwacht"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Hohenwacht"
+msgstr "Hohenwacht"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Greifenwall"
+msgstr "Greifenwall"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Finkenwacht"
+msgstr "Finkenwacht"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Himmelswacht"
+msgstr "Himmelswacht"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Oberwallheim"
+msgstr "Oberwallheim"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Hohenschanze"
+msgstr "Hohenschanze"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "Scharfenstein"
+msgstr "Scharfenstein"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "A small fortification built in the mountains"
+msgstr "建在山上的小型防御工事"
+
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+msgid "A small fortification has been built in this mountainous region to act as a base of operations and control the surrounding lands."
+msgstr "在这片山区修建了一个小型的防御工事，作为作战基地来控制周围土地。"
+
+
+# scripts/entity/world/settlements/small_tundra_village.nut
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "pelts"
+msgstr "pelts"
+
+
+# scripts/entity/world/settlements/small_tundra_village.nut
+msgid "A humble village that managed to survive in the sparse tundra"
+msgstr "在稀疏的苔原中生存下来的简陋村庄"
+
+
+# scripts/entity/world/settlements/small_tundra_village.nut
+msgid "A humble village that managed to survive in the sparse tundra."
+msgstr "在稀疏的苔原中生存下来的简陋村庄."
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Thurn"
+msgstr "Thurn"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Erlach"
+msgstr "Erlach"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Wohlen"
+msgstr "Wohlen"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Kargau"
+msgstr "Kargau"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Siegau"
+msgstr "Siegau"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Treiten"
+msgstr "Treiten"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Sudheim"
+msgstr "Sudheim"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Sonnfels"
+msgstr "Sonnfels"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Subingen"
+msgstr "Subingen"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Sonnheim"
+msgstr "Sonnheim"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Sonstedt"
+msgstr "Sonstedt"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Sandheim"
+msgstr "Sandheim"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Dornthal"
+msgstr "Dornthal"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Sandfels"
+msgstr "Sandfels"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Strohdorf"
+msgstr "Strohdorf"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Attendorn"
+msgstr "Attendorn"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Tentlingen"
+msgstr "Tentlingen"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Rothenbach"
+msgstr "Rothenbach"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Krauchdorf"
+msgstr "Krauchdorf"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Krauchthal"
+msgstr "Krauchthal"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Brunnenthal"
+msgstr "Brunnenthal"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Strauchdorf"
+msgstr "Strauchdorf"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Thunstetten"
+msgstr "Thunstetten"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "Himmelsdorf"
+msgstr "Himmelsdorf"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+msgid "An established and thriving settlement in the steppe"
+msgstr "在大草原上建立的繁荣的定居点"
+
+
+# scripts/entity/world/settlements/medium_steppe_village.nut
+msgid "An established settlement surrounded by the dry and flat lands of the steppe."
+msgstr "被草原上干燥平坦的土地包围的已建立的定居点。"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Waidtal"
+msgstr "Waidtal"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Talbach"
+msgstr "Talbach"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Waidhof"
+msgstr "Waidhof"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Damwald"
+msgstr "Damwald"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Neufarn"
+msgstr "Neufarn"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Nordholz"
+msgstr "Nordholz"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Tanndorf"
+msgstr "Tanndorf"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Waldhain"
+msgstr "Waldhain"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Eichholz"
+msgstr "Eichholz"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Langholz"
+msgstr "Langholz"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Filzmoos"
+msgstr "Filzmoos"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Tannheim"
+msgstr "Tannheim"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Dunkeltal"
+msgstr "Dunkeltal"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Grunforst"
+msgstr "Grunforst"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Grossholz"
+msgstr "Grossholz"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Eulenkrug"
+msgstr "Eulenkrug"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Hagermoos"
+msgstr "Hagermoos"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Westerholz"
+msgstr "Westerholz"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Holzschlag"
+msgstr "Holzschlag"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Hirschbach"
+msgstr "Hirschbach"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Friedewald"
+msgstr "Friedewald"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Taubenmoos"
+msgstr "Taubenmoos"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Eichendorf"
+msgstr "Eichendorf"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Tiefenforst"
+msgstr "Tiefenforst"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Weilersheim"
+msgstr "Weilersheim"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Finsterwalde"
+msgstr "Finsterwalde"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Tannenweiler"
+msgstr "Tannenweiler"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+msgid "Schwarzforst"
+msgstr "Schwarzforst"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Finsterweiler"
+msgstr "Finsterweiler"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+msgid "A developed village thriving on lumber and game"
+msgstr "以木材和狩猎为生的发达村庄"
+
+
+# scripts/entity/world/settlements/medium_lumber_village.nut
+msgid "An established village close to the forest living mainly from lumber cutting and game."
+msgstr "一个靠近森林的老村，主要靠伐木和狩猎为生。"
+
+
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Rosenhof"
+msgstr "Rosenhof"
+
+
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Auenbach"
+msgstr "Auenbach"
+
+
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Neuenried"
+msgstr "Neuenried"
+
+
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Weingarten"
+msgstr "Weingarten"
+
+
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Weidenbach"
+msgstr "Weidenbach"
+
+
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Adelshofen"
+msgstr "Adelshofen"
+
+
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Allersdorf"
+msgstr "Allersdorf"
+
+
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Konigsfeld"
+msgstr "Konigsfeld"
+
+
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Brunnendorf"
+msgstr "Brunnendorf"
+
+
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "Ochsenhausen"
+msgstr "Ochsenhausen"
+
+
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "A small farming village living mostly off of the surrounding fertile lands"
+msgstr "主要生活在周围肥沃土地上的小农庄"
+
+
+# scripts/entity/world/settlements/small_farming_village.nut
+msgid "A small farming village living mostly off of the surrounding fertile lands."
+msgstr "主要生活在周围肥沃土地上的小农庄."
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Wehrturm"
+msgstr "Wehrturm"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Auenturm"
+msgstr "Auenturm"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Rohrwall"
+msgstr "Rohrwall"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Riedwehr"
+msgstr "Riedwehr"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Torfwall"
+msgstr "Torfwall"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Wallfurt"
+msgstr "Wallfurt"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Birkwall"
+msgstr "Birkwall"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Birkturm"
+msgstr "Birkturm"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Mooswall"
+msgstr "Mooswall"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Moorgard"
+msgstr "Moorgard"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Furthwehr"
+msgstr "Furthwehr"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Pfuhlwall"
+msgstr "Pfuhlwall"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Suhlwacht"
+msgstr "Suhlwacht"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Moorwacht"
+msgstr "Moorwacht"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Fennwacht"
+msgstr "Fennwacht"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Auenwacht"
+msgstr "Auenwacht"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Brookwall"
+msgstr "Brookwall"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Kolkwacht"
+msgstr "Kolkwacht"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Wallpfuhl"
+msgstr "Wallpfuhl"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Grunenturm"
+msgstr "Grunenturm"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Stakenwall"
+msgstr "Stakenwall"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Dusterwall"
+msgstr "Dusterwall"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Pfuhlwacht"
+msgstr "Pfuhlwacht"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Furthwacht"
+msgstr "Furthwacht"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Bruchwacht"
+msgstr "Bruchwacht"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Krautwacht"
+msgstr "Krautwacht"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Schanzmoor"
+msgstr "Schanzmoor"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Kaltenwacht"
+msgstr "Kaltenwacht"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Fackelwacht"
+msgstr "Fackelwacht"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Schwarzgard"
+msgstr "Schwarzgard"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "A motte with bailey built on a spot of dry ground"
+msgstr "在干燥的地面上建造的木制城寨"
+
+
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Placed on a small bit of solid ground, this motte and baily controls the surrounding lands."
+msgstr "在一小块坚实的土地上，一个木制城寨控制着周围的土地。"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Heuland"
+msgstr "Heuland"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Grunmark"
+msgstr "Grunmark"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Grunhain"
+msgstr "Grunhain"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Auenmark"
+msgstr "Auenmark"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Weidemark"
+msgstr "Weidemark"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Varelmark"
+msgstr "Varelmark"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Freistadt"
+msgstr "Freistadt"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Adelsland"
+msgstr "Adelsland"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Wedelmark"
+msgstr "Wedelmark"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Muhlstadt"
+msgstr "Muhlstadt"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Ivenstadt"
+msgstr "Ivenstadt"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Kornstadt"
+msgstr "Kornstadt"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Dreigrafen"
+msgstr "Dreigrafen"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Konigsheim"
+msgstr "Konigsheim"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Wiesenmark"
+msgstr "Wiesenmark"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Heldenland"
+msgstr "Heldenland"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Kochenland"
+msgstr "Kochenland"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Altenstadt"
+msgstr "Altenstadt"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Hemmelmark"
+msgstr "Hemmelmark"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Konigsland"
+msgstr "Konigsland"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Schnellmark"
+msgstr "Schnellmark"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Kammersmark"
+msgstr "Kammersmark"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Grafenstadt"
+msgstr "Grafenstadt"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Koppelstadt"
+msgstr "Koppelstadt"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Dinkelsmark"
+msgstr "Dinkelsmark"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Schwanstadt"
+msgstr "Schwanstadt"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Weissenstadt"
+msgstr "Weissenstadt"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "A large city thriving on trade and agriculture"
+msgstr "一个以贸易和农业繁荣的大城市"
+
+
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "A large city surrounded by lush green meadows, orchards and fields. Food stocks are usually filled to the brim."
+msgstr "被茂盛的绿色草地、果园和田野包围的大城市。储备的食物通常是满的。"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Aalburg"
+msgstr "Aalburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Wikburg"
+msgstr "Wikburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Seeburg"
+msgstr "Seeburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Beltburg"
+msgstr "Beltburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Meerburg"
+msgstr "Meerburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Blauburg"
+msgstr "Blauburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Krumburg"
+msgstr "Krumburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Kielburg"
+msgstr "Kielburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Salzburg"
+msgstr "Salzburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Weseburg"
+msgstr "Weseburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Sundburg"
+msgstr "Sundburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Kampburg"
+msgstr "Kampburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Sandeburg"
+msgstr "Sandeburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Sturmburg"
+msgstr "Sturmburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Mowenburg"
+msgstr "Mowenburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Stohlburg"
+msgstr "Stohlburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Dunenburg"
+msgstr "Dunenburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Schollburg"
+msgstr "Schollburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Sichelburg"
+msgstr "Sichelburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Krakenburg"
+msgstr "Krakenburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Otternburg"
+msgstr "Otternburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Gischtburg"
+msgstr "Gischtburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Heringsburg"
+msgstr "Heringsburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "Blankenburg"
+msgstr "Blankenburg"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "A stone keep that controls a strategically important port and protects nearby trading routes"
+msgstr "一个控制重要战略港口和保护附近贸易路线的石堡"
+
+
+# scripts/entity/world/settlements/medium_coast_fort.nut
+msgid "This stone keep controls a strategically important sea access and protects nearby trading routes."
+msgstr "这座石头堡垒控制着具有重要战略意义的海上通道，保护着附近的贸易路线。"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Auwall"
+msgstr "Auwall"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Markwall"
+msgstr "Markwall"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Krugwall"
+msgstr "Krugwall"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Walldorf"
+msgstr "Walldorf"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Hageturm"
+msgstr "Hageturm"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Hainwall"
+msgstr "Hainwall"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Hornwall"
+msgstr "Hornwall"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Speerheim"
+msgstr "Speerheim"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Schonwall"
+msgstr "Schonwall"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Graswacht"
+msgstr "Graswacht"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Wagenwall"
+msgstr "Wagenwall"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Grunwacht"
+msgstr "Grunwacht"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Schanzdorf"
+msgstr "Schanzdorf"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Grafenturm"
+msgstr "Grafenturm"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Gardendorf"
+msgstr "Gardendorf"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Hammerturm"
+msgstr "Hammerturm"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Wiesenwacht"
+msgstr "Wiesenwacht"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Grafenwacht"
+msgstr "Grafenwacht"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Koppelwacht"
+msgstr "Koppelwacht"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Furstenwall"
+msgstr "Furstenwall"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Weiherwacht"
+msgstr "Weiherwacht"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Hemmelswacht"
+msgstr "Hemmelswacht"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Herrmanswacht"
+msgstr "Herrmanswacht"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "A wooden motte with a bailey overlooking the surrounding fields"
+msgstr "一个木制城寨，可以俯瞰周围的田野"
+
+
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "A wooden motte with a bailey overlooking the surrounding fields."
+msgstr "一个木制城寨，可以俯瞰周围的田野."
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Horum"
+msgstr "Horum"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Stohl"
+msgstr "Stohl"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Holnis"
+msgstr "Holnis"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Niewik"
+msgstr "Niewik"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Aalbek"
+msgstr "Aalbek"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Angeln"
+msgstr "Angeln"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Strande"
+msgstr "Strande"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Seefeld"
+msgstr "Seefeld"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Sandwik"
+msgstr "Sandwik"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Holmwik"
+msgstr "Holmwik"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Seedorf"
+msgstr "Seedorf"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Seekamp"
+msgstr "Seekamp"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Sandkamp"
+msgstr "Sandkamp"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Gothmund"
+msgstr "Gothmund"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Kielseng"
+msgstr "Kielseng"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Sanddorf"
+msgstr "Sanddorf"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Sandholm"
+msgstr "Sandholm"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Sundheim"
+msgstr "Sundheim"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Jadensee"
+msgstr "Jadensee"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Sandberg"
+msgstr "Sandberg"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Meierwik"
+msgstr "Meierwik"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Krumhorn"
+msgstr "Krumhorn"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Seedeich"
+msgstr "Seedeich"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Hattlund"
+msgstr "Hattlund"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Nebelheim"
+msgstr "Nebelheim"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Harkensee"
+msgstr "Harkensee"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Otterndorf"
+msgstr "Otterndorf"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Sudersande"
+msgstr "Sudersande"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Krakendorf"
+msgstr "Krakendorf"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Egernsande"
+msgstr "Egernsande"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Blankwasser"
+msgstr "Blankwasser"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Grossenkoog"
+msgstr "Grossenkoog"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "Birkenstrand"
+msgstr "Birkenstrand"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "A small fishing village made up of a few humble huts"
+msgstr "由几个简陋的小屋组成的小渔村"
+
+
+# scripts/entity/world/settlements/small_fishing_village.nut
+msgid "A small fishing village made up of a few humble huts."
+msgstr "由几个简陋的小屋组成的小渔村."
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Gerwold"
+msgstr "Gerwold"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Asentorn"
+msgstr "Asentorn"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Hornwold"
+msgstr "Hornwold"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Tangweir"
+msgstr "Tangweir"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Kalkweir"
+msgstr "Kalkweir"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Grimtorn"
+msgstr "Grimtorn"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Halspira"
+msgstr "Halspira"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+msgid "Holmwold"
+msgstr "Holmwold"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Hornspira"
+msgstr "Hornspira"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Helleweir"
+msgstr "Helleweir"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Gunnspira"
+msgstr "Gunnspira"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Norrewold"
+msgstr "Norrewold"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Birketorn"
+msgstr "Birketorn"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+msgid "Neidspira"
+msgstr "Neidspira"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Helviktorn"
+msgstr "Helviktorn"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+msgid "Skallewold"
+msgstr "Skallewold"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Lyderswold"
+msgstr "Lyderswold"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Hammarwold"
+msgstr "Hammarwold"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Skjoldwold"
+msgstr "Skjoldwold"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Torvastorn"
+msgstr "Torvastorn"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+msgid "Bredaswold"
+msgstr "Bredaswold"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Tonderwold"
+msgstr "Tonderwold"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+msgid "Eidarswold"
+msgstr "Eidarswold"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Donnerswold"
+msgstr "Donnerswold"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+msgid "Linderstorn"
+msgstr "Linderstorn"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Sommerspira"
+msgstr "Sommerspira"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+msgid "Knorrespira"
+msgstr "Knorrespira"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Eidsviktorn"
+msgstr "Eidsviktorn"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Brammingwold"
+msgstr "Brammingwold"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+msgid "A wooden motte towering above the tundra"
+msgstr "苔原上高耸着的一个木制城寨"
+
+
+# scripts/entity/world/settlements/small_tundra_fort.nut
+msgid "In the flat lands of the tundra, this small fortification can be spotted from quite a distance."
+msgstr "在冻土带的平地上，可以从很远的地方看到这个小小的防御工事。"
+
+
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Varehaug"
+msgstr "Varehaug"
+
+
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Ragnhaug"
+msgstr "Ragnhaug"
+
+
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Holmhaug"
+msgstr "Holmhaug"
+
+
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Heersgard"
+msgstr "Heersgard"
+
+
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Skallegard"
+msgstr "Skallegard"
+
+
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Gufirsgard"
+msgstr "Gufirsgard"
+
+
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Lundirsholm"
+msgstr "Lundirsholm"
+
+
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Hafnarsholm"
+msgstr "Hafnarsholm"
+
+
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "Torgeirsholm"
+msgstr "Torgeirsholm"
+
+
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "A stone keep securing the surrounding tundra"
+msgstr "一座石堡不断地保护着周围的苔原"
+
+
+# scripts/entity/world/settlements/medium_tundra_fort.nut
+msgid "A stone keep that is the seat of power in the surrounding tundra. It acts as a base of operations for a decently sized garrison."
+msgstr "一座石堡，它是周围冻土带的权力所在地。它是一个规模可观的驻军的行动基地。"
+
+
+# scripts/entity/world/settlements/medium_snow_village.nut
+msgid "A medium sized village covered in snow throughout most of the year"
+msgstr "全年大部分时间被雪覆盖的中型村庄"
+
+
+# scripts/entity/world/settlements/medium_snow_village.nut
+msgid "A medium sized village covered in snow throughout most of the year."
+msgstr "全年大部分时间被雪覆盖的中型村庄."
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Laubfeste"
+msgstr "Laubfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Moosfeste"
+msgstr "Moosfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Waldfeste"
+msgstr "Waldfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Eichfeste"
+msgstr "Eichfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Eberfeste"
+msgstr "Eberfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Hainfeste"
+msgstr "Hainfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Hornfeste"
+msgstr "Hornfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Dornfeste"
+msgstr "Dornfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Waidfeste"
+msgstr "Waidfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Nadelfeste"
+msgstr "Nadelfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Erlenfeste"
+msgstr "Erlenfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Fahrnfeste"
+msgstr "Fahrnfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Forstfeste"
+msgstr "Forstfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Eulenfeste"
+msgstr "Eulenfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Eibenfeste"
+msgstr "Eibenfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Dusterfeste"
+msgstr "Dusterfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Fichtenwall"
+msgstr "Fichtenwall"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Dunkelfeste"
+msgstr "Dunkelfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Falkenfeste"
+msgstr "Falkenfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Tannenfeste"
+msgstr "Tannenfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Finsterfeste"
+msgstr "Finsterfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Eisbachfeste"
+msgstr "Eisbachfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Waldachfeste"
+msgstr "Waldachfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Lerchenfeste"
+msgstr "Lerchenfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Klarbachfeste"
+msgstr "Klarbachfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Schlangenfeste"
+msgstr "Schlangenfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Salamanderfeste"
+msgstr "Salamanderfeste"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "A citadel towering high over the surrounding woods"
+msgstr "高耸于周围树林之上的城堡"
+
+
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "This citadel towers high over the surrounding forests and dominates the region."
+msgstr "这座城堡高耸于周围的森林之上，主宰着该地区。"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Wikstadt"
+msgstr "Wikstadt"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Steinkai"
+msgstr "Steinkai"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Seestadt"
+msgstr "Seestadt"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Nieweland"
+msgstr "Nieweland"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Kampstadt"
+msgstr "Kampstadt"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Krakenland"
+msgstr "Krakenland"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Kronenkoog"
+msgstr "Kronenkoog"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Holnisland"
+msgstr "Holnisland"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Deichstadt"
+msgstr "Deichstadt"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Grafenhaven"
+msgstr "Grafenhaven"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Konigshaven"
+msgstr "Konigshaven"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Tiefenstadt"
+msgstr "Tiefenstadt"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Grotenhaven"
+msgstr "Grotenhaven"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Kobmanhaven"
+msgstr "Kobmanhaven"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Konigsmunde"
+msgstr "Konigsmunde"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Harkenstadt"
+msgstr "Harkenstadt"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Blankenstadt"
+msgstr "Blankenstadt"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Konigswasser"
+msgstr "Konigswasser"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "A large coastal city and trading hub"
+msgstr "沿海大城市和贸易中心"
+
+
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "A big harbor city relying on trade and fishing, and an important hub for travellers arriving or leaving by ship."
+msgstr "一个依赖贸易和渔业的大港口城市，也是旅客乘船到达或离开的重要枢纽。"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Odfeste"
+msgstr "Odfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Sudfeste"
+msgstr "Sudfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Goldfeste"
+msgstr "Goldfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Siegfeste"
+msgstr "Siegfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Durrfeste"
+msgstr "Durrfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Gelbfeste"
+msgstr "Gelbfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Kargfeste"
+msgstr "Kargfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Thunfeste"
+msgstr "Thunfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Maderfeste"
+msgstr "Maderfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Suderfeste"
+msgstr "Suderfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Lichtfeste"
+msgstr "Lichtfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Staubfeste"
+msgstr "Staubfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Brandfeste"
+msgstr "Brandfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Glanzfeste"
+msgstr "Glanzfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Rothenfeste"
+msgstr "Rothenfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Sonnenfeste"
+msgstr "Sonnenfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Krauchfeste"
+msgstr "Krauchfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Hellenfeste"
+msgstr "Hellenfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Strahlfeste"
+msgstr "Strahlfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Erlachfeste"
+msgstr "Erlachfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Wohlenfeste"
+msgstr "Wohlenfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Dornenfeste"
+msgstr "Dornenfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Strauchfeste"
+msgstr "Strauchfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Treitenfeste"
+msgstr "Treitenfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Habichtfeste"
+msgstr "Habichtfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Knochenfeste"
+msgstr "Knochenfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Gelbfelsfeste"
+msgstr "Gelbfelsfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Rothsteinfeste"
+msgstr "Rothsteinfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Sandsturmfeste"
+msgstr "Sandsturmfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "Scharfzahnfeste"
+msgstr "Scharfzahnfeste"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "A mighty citadel towering above the surrounding steppe"
+msgstr "一座雄伟的城堡耸立在周围草原之上"
+
+
+# scripts/entity/world/settlements/large_steppe_fort.nut
+msgid "This mighty citadel towers high above the surrounding steppe and is the seat of power in the region. It houses a large garrison and offers all kinds of services valuable to travellers and mercenaries."
+msgstr "这座雄伟的城堡高耸于周围草原之上，是该地区的权力中心。它拥有庞大的驻军，为旅行者和雇佣兵提供各种有价值的服务。"
+
+
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "An established village in the rough tundra"
+msgstr "在崎岖的苔原上建立的村庄"
+
+
+# scripts/entity/world/settlements/medium_tundra_village.nut
+msgid "An established village in the rough tundra that is a meeting point for the area."
+msgstr "在崎岖的苔原上建立的村庄 that is a meeting point for the area."
+
+
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "A small village in the steppe living mainly off of modest trading"
+msgstr "草原上的一个小村庄，主要靠适度的贸易生活"
+
+
+# scripts/entity/world/settlements/small_steppe_village.nut
+msgid "A small village in the steppe living mainly off of modest trading."
+msgstr "草原上的一个小村庄，主要靠适度的贸易生活."
+
+
+# scripts/entity/world/settlements/city_state.nut
+msgid "ORIENTAL CITY #3"
+msgstr "ORIENTAL CITY #3"
+
+
+# scripts/entity/world/settlements/city_state.nut
+msgid "ORIENTAL CITY #1"
+msgstr "ORIENTAL CITY #1"
+
+
+# scripts/entity/world/settlements/city_state.nut
+msgid "ORIENTAL CITY #2"
+msgstr "ORIENTAL CITY #2"
+
+
+# scripts/entity/world/settlements/city_state.nut
+msgid "A large and rich city state that thrives on trade at the edge of the desert"
+msgstr "一个富裕的巨大城邦坐落于沙漠的边缘，贸易兴隆"
+
+
+# scripts/entity/world/settlements/city_state.nut
+msgid "A large and rich city state that thrives on trade at the edge of the desert."
+msgstr "一个富裕的巨大城邦坐落于沙漠的边缘，贸易兴隆。"
+
+
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Eschbach"
+msgstr "Eschbach"
+
+
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Jungholz"
+msgstr "Jungholz"
+
+
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Ettelwald"
+msgstr "Ettelwald"
+
+
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Ehrwalden"
+msgstr "Ehrwalden"
+
+
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Eisenholz"
+msgstr "Eisenholz"
+
+
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Kleinholz"
+msgstr "Kleinholz"
+
+
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Grunenbach"
+msgstr "Grunenbach"
+
+
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "Nesselwald"
+msgstr "Nesselwald"
+
+
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "A village living off of lumber and everything the forest offers"
+msgstr "靠木材和森林提供一切生活的村庄"
+
+
+# scripts/entity/world/settlements/small_lumber_village.nut
+msgid "A village living off of lumber and everything the forest offers."
+msgstr "靠木材和森林提供一切生活的村庄."
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Seefeste"
+msgstr "Seefeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Aalfeste"
+msgstr "Aalfeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Kampfeste"
+msgstr "Kampfeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Kleifeste"
+msgstr "Kleifeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Sandfeste"
+msgstr "Sandfeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Reedfeste"
+msgstr "Reedfeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Wesefeste"
+msgstr "Wesefeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Dunenfeste"
+msgstr "Dunenfeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Stohlfeste"
+msgstr "Stohlfeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Segelfeste"
+msgstr "Segelfeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Dunstfeste"
+msgstr "Dunstfeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Regenfeste"
+msgstr "Regenfeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Otterfeste"
+msgstr "Otterfeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Sturmfeste"
+msgstr "Sturmfeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Krakenfeste"
+msgstr "Krakenfeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Seemarkfeste"
+msgstr "Seemarkfeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Seelandfeste"
+msgstr "Seelandfeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Blankenfeste"
+msgstr "Blankenfeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Kranichfeste"
+msgstr "Kranichfeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "Schwalbenfeste"
+msgstr "Schwalbenfeste"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "This massive citadel guards a warport and the surrounding trade routes"
+msgstr "这个巨大的城堡守卫着一个海港和周围的贸易路线"
+
+
+# scripts/entity/world/settlements/large_coast_fort.nut
+msgid "This massive citadel guards a warport and the surrounding trade routes. It is a seat of power for nobility and home to a large garrison."
+msgstr "这个巨大的城堡守卫着一个海港和周围的贸易路线. It is a seat of power for nobility and home to a large garrison."
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Austadt"
+msgstr "Austadt"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Moorland"
+msgstr "Moorland"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Torfmark"
+msgstr "Torfmark"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Riedland"
+msgstr "Riedland"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Fletland"
+msgstr "Fletland"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Fennstedt"
+msgstr "Fennstedt"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Fuhrtmark"
+msgstr "Fuhrtmark"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Lauenstadt"
+msgstr "Lauenstadt"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Muckenmark"
+msgstr "Muckenmark"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Brookstadt"
+msgstr "Brookstadt"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Auenhausen"
+msgstr "Auenhausen"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Niedermark"
+msgstr "Niedermark"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Muckenland"
+msgstr "Muckenland"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Streekland"
+msgstr "Streekland"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Ahlenstadt"
+msgstr "Ahlenstadt"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Pfuhlstadt"
+msgstr "Pfuhlstadt"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Stakenland"
+msgstr "Stakenland"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Ehelerstadt"
+msgstr "Ehelerstadt"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Sehlenstadt"
+msgstr "Sehlenstadt"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Schwartmark"
+msgstr "Schwartmark"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Schwarzland"
+msgstr "Schwarzland"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Schwarzmark"
+msgstr "Schwarzmark"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Drakenstadt"
+msgstr "Drakenstadt"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Grafenwasser"
+msgstr "Grafenwasser"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Schwarmstadt"
+msgstr "Schwarmstadt"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "Schwanenwasser"
+msgstr "Schwanenwasser"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "A modest city spread out over dry spots in the swampy area"
+msgstr "一个规模适中的城市在沼泽地区的干旱地区"
+
+
+# scripts/entity/world/settlements/large_swamp_village.nut
+msgid "A collection of many smaller settlements spread out over dry spots in the swampy area to form one modestly sized city."
+msgstr "许多较小的定居点分布在沼泽地区的干旱地区，形成了一个中等规模的城市。"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Seeturm"
+msgstr "Seeturm"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Wikwall"
+msgstr "Wikwall"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Seewehr"
+msgstr "Seewehr"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Seewall"
+msgstr "Seewall"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Dagewall"
+msgstr "Dagewall"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Sielburg"
+msgstr "Sielburg"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Kielwall"
+msgstr "Kielwall"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Fernwall"
+msgstr "Fernwall"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Fishburg"
+msgstr "Fishburg"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Sandturm"
+msgstr "Sandturm"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Krumwehr"
+msgstr "Krumwehr"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Seewacht"
+msgstr "Seewacht"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Sundwall"
+msgstr "Sundwall"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Kampwacht"
+msgstr "Kampwacht"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Seeschanz"
+msgstr "Seeschanz"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Sturmwall"
+msgstr "Sturmwall"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Prielburg"
+msgstr "Prielburg"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Salzwacht"
+msgstr "Salzwacht"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Blankwehr"
+msgstr "Blankwehr"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Stohlwall"
+msgstr "Stohlwall"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Stindwall"
+msgstr "Stindwall"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Tidenwall"
+msgstr "Tidenwall"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Wallsande"
+msgstr "Wallsande"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Wesselburg"
+msgstr "Wesselburg"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Strandwehr"
+msgstr "Strandwehr"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Ebbenwacht"
+msgstr "Ebbenwacht"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Strandwall"
+msgstr "Strandwall"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Otternwacht"
+msgstr "Otternwacht"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Krakenwacht"
+msgstr "Krakenwacht"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "A wooden motte with a bailey towering high over the nearby coastline"
+msgstr "在附近的海岸线上高耸着一个木制城寨"
+
+
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "A wooden motte with a bailey towering high over the nearby coastline."
+msgstr "在附近的海岸线上高耸着一个木制城寨."
+
+
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Asatorn"
+msgstr "Asatorn"
+
+
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Lindweir"
+msgstr "Lindweir"
+
+
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Gunnweir"
+msgstr "Gunnweir"
+
+
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Ringwold"
+msgstr "Ringwold"
+
+
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Lokewold"
+msgstr "Lokewold"
+
+
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Holmgard"
+msgstr "Holmgard"
+
+
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Vallgard"
+msgstr "Vallgard"
+
+
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Kungswold"
+msgstr "Kungswold"
+
+
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Falkenholm"
+msgstr "Falkenholm"
+
+
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Hagenswold"
+msgstr "Hagenswold"
+
+
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Hindaswolt"
+msgstr "Hindaswolt"
+
+
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Hakonswold"
+msgstr "Hakonswold"
+
+
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "Glommenwold"
+msgstr "Glommenwold"
+
+
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "This motte with bailey looks wide over the endless snow"
+msgstr "木制城寨在无尽的雪上显得很宽"
+
+
+# scripts/entity/world/settlements/small_snow_fort.nut
+msgid "This motte with bailey looks wide over the endless snow, and offers shelter from the cold and warm food to the garrison stationed here."
+msgstr "木制城寨在无尽的雪上显得很宽, and offers shelter from the cold and warm food to the garrison stationed here."
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Senkburg"
+msgstr "Senkburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Fennburg"
+msgstr "Fennburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Kolkburg"
+msgstr "Kolkburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Suhlburg"
+msgstr "Suhlburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Riedburg"
+msgstr "Riedburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Rohrburg"
+msgstr "Rohrburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Egelburg"
+msgstr "Egelburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Torfburg"
+msgstr "Torfburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Moorburg"
+msgstr "Moorburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Nebelburg"
+msgstr "Nebelburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Krautburg"
+msgstr "Krautburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Brookburg"
+msgstr "Brookburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Furthburg"
+msgstr "Furthburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Bruchburg"
+msgstr "Bruchburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Teichburg"
+msgstr "Teichburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Molchburg"
+msgstr "Molchburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Pfuhlburg"
+msgstr "Pfuhlburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Brunnburg"
+msgstr "Brunnburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Birkenburg"
+msgstr "Birkenburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Schilfburg"
+msgstr "Schilfburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Marschburg"
+msgstr "Marschburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Kaltenburg"
+msgstr "Kaltenburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Froschburg"
+msgstr "Froschburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Stakenburg"
+msgstr "Stakenburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Morastburg"
+msgstr "Morastburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Muckenburg"
+msgstr "Muckenburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Brackenburg"
+msgstr "Brackenburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Schwarzburg"
+msgstr "Schwarzburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Schlammburg"
+msgstr "Schlammburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Schlickburg"
+msgstr "Schlickburg"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "A stone keep controlling routes through the swamps"
+msgstr "一座石堡一直控制着穿过沼泽的路线"
+
+
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "A stone keep controlling routes through and access to the surrounding swamps and marshes."
+msgstr "一座石堡控制着通往周围沼泽和湿地的路线。"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Erzburg"
+msgstr "Erzburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Windburg"
+msgstr "Windburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Oberburg"
+msgstr "Oberburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Wurmburg"
+msgstr "Wurmburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Hochburg"
+msgstr "Hochburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Felsburg"
+msgstr "Felsburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Jadeburg"
+msgstr "Jadeburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Turmburg"
+msgstr "Turmburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Windfall"
+msgstr "Windfall"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Adlerburg"
+msgstr "Adlerburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Hohenburg"
+msgstr "Hohenburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Eisenburg"
+msgstr "Eisenburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Gronenburg"
+msgstr "Gronenburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Heldenburg"
+msgstr "Heldenburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Wolkenburg"
+msgstr "Wolkenburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Hohenstein"
+msgstr "Hohenstein"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Lanzenburg"
+msgstr "Lanzenburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Gemmenburg"
+msgstr "Gemmenburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Wolfenburg"
+msgstr "Wolfenburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Sattelburg"
+msgstr "Sattelburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Himmelsburg"
+msgstr "Himmelsburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Schwertburg"
+msgstr "Schwertburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Scharfenburg"
+msgstr "Scharfenburg"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Granitschanze"
+msgstr "Granitschanze"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "A stone keep that is towering high over the surrounding mountains"
+msgstr "高耸于周围山脉之上的一座石堡"
+
+
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "A stone keep that is towering high over the surrounding mountains. Lookouts on the towers can see approaching troops from miles away."
+msgstr "高耸于周围山脉之上的一座石堡. Lookouts on the towers can see approaching troops from miles away."
+
+

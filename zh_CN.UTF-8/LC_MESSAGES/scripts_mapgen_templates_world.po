@@ -1,0 +1,70 @@
+# scripts/mapgen/templates/world/worldmap_generator.nut
+msgid " regions..."
+msgstr " regions..."
+
+
+# scripts/mapgen/templates/world/worldmap_generator.nut
+msgid " settlements."
+msgstr " settlements."
+
+
+# scripts/mapgen/templates/world/worldmap_generator.nut
+msgid "World accepted."
+msgstr "World accepted."
+
+
+# scripts/mapgen/templates/world/worldmap_generator.nut
+msgid "Building roads..."
+msgstr "Building roads..."
+
+
+# scripts/mapgen/templates/world/worldmap_generator.nut
+msgid "Spacing terrain..."
+msgstr "Spacing terrain..."
+
+
+# scripts/mapgen/templates/world/worldmap_generator.nut
+msgid " separate regions."
+msgstr " separate regions."
+
+
+# scripts/mapgen/templates/world/worldmap_generator.nut
+msgid "Building regions..."
+msgstr "Building regions..."
+
+
+# scripts/mapgen/templates/world/worldmap_generator.nut
+msgid "Building terrain..."
+msgstr "Building terrain..."
+
+
+# scripts/mapgen/templates/world/worldmap_generator.nut
+msgid "Building settlements..."
+msgstr "Building settlements..."
+
+
+# scripts/mapgen/templates/world/worldmap_generator.nut
+msgid "Building land and sea..."
+msgstr "Building land and sea..."
+
+
+# scripts/mapgen/templates/world/worldmap_generator.nut
+msgid "Building additional roads..."
+msgstr "Building additional roads..."
+
+
+# scripts/mapgen/templates/world/worldmap_generator.nut
+msgid "Placing abandoned fortresses..."
+msgstr "Placing abandoned fortresses..."
+
+
+# scripts/mapgen/templates/world/worldmap_generator.nut
+msgid "World rejected. Creating new one..."
+msgstr "World rejected. Creating new one..."
+
+
+# scripts/mapgen/templates/world/worldmap_generator.nut
+msgid "Failed to find decent spot for region label."
+msgstr "Failed to find decent spot for region label."
+
+

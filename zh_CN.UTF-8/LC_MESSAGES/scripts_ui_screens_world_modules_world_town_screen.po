@@ -1,0 +1,70 @@
+# scripts/ui/screens/world/modules/world_town_screen/town_temple_dialog_module.nut
+msgid "Temple"
+msgstr "神殿"
+
+
+# scripts/ui/screens/world/modules/world_town_screen/town_tavern_dialog_module.nut
+msgid "Tavern"
+msgstr "酒馆"
+
+
+# scripts/ui/screens/world/modules/world_town_screen/town_taxidermist_dialog_module.nut
+msgid "Taxidermist"
+msgstr "剥制屋"
+
+
+# scripts/ui/screens/world/modules/world_town_screen/town_training_dialog_module.nut
+msgid "Training Hall"
+msgstr "训练厅"
+
+
+# scripts/ui/screens/world/modules/world_town_screen/town_training_dialog_module.nut
+msgid "Sparring Fight"
+msgstr "搏斗练习"
+
+
+# scripts/ui/screens/world/modules/world_town_screen/town_training_dialog_module.nut
+msgid "Veteran's Lessons"
+msgstr "老兵的功课"
+
+
+# scripts/ui/screens/world/modules/world_town_screen/town_training_dialog_module.nut
+msgid "Rigorous Schooling"
+msgstr "严格的训练"
+
+
+# scripts/ui/screens/world/modules/world_town_screen/town_taxidermist_dialog_module.nut
+msgid "A taxidermist can create useful items from all kinds of beast trophies that you bring him"
+msgstr "一个剥制师可以从你带给他的各种野兽战利品中创造有用的物品"
+
+
+# scripts/ui/screens/world/modules/world_town_screen/town_tavern_dialog_module.nut
+msgid "A large tavern filled with patrons from all over the lands"
+msgstr "到处都是顾客的大酒馆"
+
+
+# scripts/ui/screens/world/modules/world_town_screen/town_tavern_dialog_module.nut
+msgid "Pay a round for your men to get their spirits up ([img]gfx/ui/tooltips/money.png[/img]"
+msgstr "为你的人付一轮钱，让他们振作起来 ([img]gfx/ui/tooltips/money.png[/img]"
+
+
+# scripts/ui/screens/world/modules/world_town_screen/town_tavern_dialog_module.nut
+msgid "Pay for a round to get the patrons to share more news and rumors ([img]gfx/ui/tooltips/money.png[/img]"
+msgstr "付一轮钱，让顾客分享更多的新闻和谣言 ([img]gfx/ui/tooltips/money.png[/img]"
+
+
+# scripts/ui/screens/world/modules/world_town_screen/town_temple_dialog_module.nut
+msgid "Have your wounded treated and prayed for by priests"
+msgstr "让你的伤者得到牧师的治疗和祈祷"
+
+
+# scripts/ui/screens/world/modules/world_town_screen/town_training_dialog_module.nut
+msgid "Have your men train for combat and learn from veterans"
+msgstr "让你的人接受战斗训练向老兵学习"
+
+
+# scripts/ui/screens/world/modules/world_town_screen/town_barber_dialog_module.nut
+msgid "Customize the appearance of your men at the barber"
+msgstr "在理发店定制你的人的外表"
+
+
