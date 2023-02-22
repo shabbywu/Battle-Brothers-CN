@@ -1,140 +1,140 @@
 # scripts/ui/screens/character/character_screen.nut
 msgid "State"
-msgstr "State"
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Undefined error."
-msgstr "Undefined error."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "battle-preparation"
-msgstr "battle-preparation"
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Not enough bag space."
-msgstr "Not enough bag space."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to unlock perk."
-msgstr "Failed to unlock perk."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to find entity."
-msgstr "Failed to find entity."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Not enough stash space."
-msgstr "Not enough stash space."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to acquire stash."
-msgstr "Failed to acquire stash."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Item already within bag."
-msgstr "Item already within bag."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to find bag item."
-msgstr "Failed to find bag item."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to equip bag item."
-msgstr "Failed to equip bag item."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Not enough Action Points."
-msgstr "Not enough Action Points."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to find stash item."
-msgstr "Failed to find stash item."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to find ground item."
-msgstr "Failed to find ground item."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to equip stash item."
-msgstr "Failed to equip stash item."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to acquire inventory."
-msgstr "Failed to acquire inventory."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to equip ground item."
-msgstr "Failed to equip ground item."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to put item into bag."
-msgstr "Failed to put item into bag."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid " get reparations for his time"
-msgstr " get reparations for his time"
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to remove item from bag."
-msgstr "Failed to remove item from bag."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to acquire ground items."
-msgstr "Failed to acquire ground items."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Item is not changable in battle."
-msgstr "Item is not changable in battle."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Item is not assigned to any slot."
-msgstr "Item is not assigned to any slot."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to put stash item into bag."
-msgstr "Failed to put stash item into bag."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to put ground item into bag."
-msgstr "Failed to put ground item into bag."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to remove item from target slot."
-msgstr "Failed to remove item from target slot."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to remove item from source slot."
-msgstr "Failed to remove item from source slot."
+msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Only the active entity is allowed to change items."
-msgstr "Only the active entity is allowed to change items."
+msgstr ""
 
 

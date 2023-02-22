@@ -50,7 +50,7 @@ msgstr "贵族现在会给你合同"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid " and "
-msgstr " and "
+msgstr ""
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
@@ -108,12 +108,12 @@ msgstr "[img]gfx/ui/events/event_64.png[/img]%dismissed%的伤势实在太重了
 # scripts/events/events/special/dismiss_veteran_event.nut
 # scripts/events/events/special/dismiss_legend_event.nut
 msgid "You dismissed "
-msgstr "You dismissed "
+msgstr ""
 
 
 # scripts/events/events/special/dismiss_veteran_event.nut
 msgid ", a veteran of the company"
-msgstr ", a veteran of the company"
+msgstr ""
 
 
 # scripts/events/events/special/dismiss_veteran_event.nut
@@ -123,7 +123,7 @@ msgstr "[img]gfx/ui/events/event_64.png[/img]这是一个艰难的决定，但�
 
 # scripts/events/events/special/ambition_fulfilled_event.nut
 msgid " Fulfilled"
-msgstr " Fulfilled"
+msgstr ""
 
 
 # scripts/events/events/special/ambition_fulfilled_event.nut
@@ -133,7 +133,7 @@ msgstr "一个野心达成"
 
 # scripts/events/events/special/ambition_fulfilled_event.nut
 msgid "You went above and beyond in fulfilling the Oath"
-msgstr "You went above and beyond in fulfilling the Oath"
+msgstr ""
 
 
 # scripts/events/events/special/oathtakers_noble_contracts_event.nut
@@ -158,7 +158,7 @@ msgstr "[img]gfx/ui/events/event_60.png[/img]{商队的头领来到你跟前，�
 
 # scripts/events/events/special/dismiss_legend_event.nut
 msgid ", a legend of the company"
-msgstr ", a legend of the company"
+msgstr ""
 
 
 # scripts/events/events/special/dismiss_legend_event.nut
@@ -168,22 +168,22 @@ msgstr "[img]gfx/ui/events/event_64.png[/img]这个你解雇的男人不只是�
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "It had to be this way."
-msgstr "It had to be this way."
+msgstr ""
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "You've already chosen "
-msgstr "You've already chosen "
+msgstr ""
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "You're still not ready!"
-msgstr "You're still not ready!"
+msgstr ""
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "We can't win this. No fight."
-msgstr "We can't win this. No fight."
+msgstr ""
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
@@ -198,7 +198,7 @@ msgstr "致誓言使者之死…"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "The company lost to Oathbringers"
-msgstr "The company lost to Oathbringers"
+msgstr ""
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
@@ -208,12 +208,12 @@ msgstr " 随时准备战斗。 谁能加入他？"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "You refused to fight Oathbringers, given the chance"
-msgstr "You refused to fight Oathbringers, given the chance"
+msgstr ""
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "You refused to fight Oathbringers, given multiple chances"
-msgstr "You refused to fight Oathbringers, given multiple chances"
+msgstr ""
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
@@ -228,7 +228,7 @@ msgstr " to fight. 有没有其他人可以帮助夺回小安瑟姆的下颌骨�
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "{Represent us in this fight | Be our champion | Reclaim Anselm's jawbone | Kill these Oathbringers}, "
-msgstr "{Represent us in this fight | Be our champion | Reclaim Anselm's jawbone | Kill these Oathbringers}, "
+msgstr ""
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
@@ -243,12 +243,12 @@ msgstr "[img]gfx/ui/events/event_180.png[/img]{The Oathbringers are back. One gr
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "[img]gfx/ui/events/event_180.png[/img]{The company is still not ready. You are worried that they will leave you entirely, infuriated as they are, but you'd rather they be pissed than flat dead in the ground. With the decision weighing on your heart, and the Oathbringers screaming insults into your ear, you have the company once again march from the fight.}"
-msgstr "[img]gfx/ui/events/event_180.png[/img]{The company is still not ready. You are worried that they will leave you entirely, infuriated as they are, but you'd rather they be pissed than flat dead in the ground. With the decision weighing on your heart, and the Oathbringers screaming insults into your ear, you have the company once again march from the fight.}"
+msgstr ""
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "[img]gfx/ui/events/event_180.png[/img]{Against every fiber of your being, you turn the fight down. The reality is simple: the %companyname% is not ready for this battle. Unsurprisingly, the Oathtakers are not especially happy about this, and in fact show considerable concern that you would take a rare opportunity at slaying Oathbringers and piss all over it. As for the Oathbringers themselves, they laugh and crow at you as you leave.%SPEECH_ON%Young Anselm saw nothing good in you, Oathtakers! Your visions of him are a lie! Your whole existence is a lie! I'd say join us while you can, but we want nothing to do with you worms!%SPEECH_OFF%You pray that in the coming days you will be able to prove to your men that you made the right decision here.}"
-msgstr "[img]gfx/ui/events/event_180.png[/img]{Against every fiber of your being, you turn the fight down. The reality is simple: the %companyname% is not ready for this battle. Unsurprisingly, the Oathtakers are not especially happy about this, and in fact show considerable concern that you would take a rare opportunity at slaying Oathbringers and piss all over it. As for the Oathbringers themselves, they laugh and crow at you as you leave.%SPEECH_ON%Young Anselm saw nothing good in you, Oathtakers! Your visions of him are a lie! Your whole existence is a lie! I'd say join us while you can, but we want nothing to do with you worms!%SPEECH_OFF%You pray that in the coming days you will be able to prove to your men that you made the right decision here.}"
+msgstr ""
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut

@@ -5,22 +5,22 @@ msgstr "随从"
 
 # scripts/ui/screens/world/modules/world_campfire_screen/campfire_main_dialog_module.nut
 msgid "You can choose to "
-msgstr "You can choose to "
+msgstr ""
 
 
 # scripts/ui/screens/world/modules/world_campfire_screen/campfire_main_dialog_module.nut
 msgid " crowns necessary to "
-msgstr " crowns necessary to "
+msgstr ""
 
 
 # scripts/ui/screens/world/modules/world_campfire_screen/campfire_main_dialog_module.nut
 msgid "Sadly, you can not afford the "
-msgstr "Sadly, you can not afford the "
+msgstr ""
 
 
 # scripts/ui/screens/world/modules/world_campfire_screen/campfire_main_dialog_module.nut
 msgid " crowns. Is this what you want to do?"
-msgstr " crowns. Is this what you want to do?"
+msgstr ""
 
 
 # scripts/ui/screens/world/modules/world_campfire_screen/campfire_main_dialog_module.nut
@@ -30,11 +30,11 @@ msgstr "管理你的非战斗追随者随从"
 
 # scripts/ui/screens/world/modules/world_campfire_screen/campfire_main_dialog_module.nut
 msgid " and gain more inventory space at this time."
-msgstr " and gain more inventory space at this time."
+msgstr ""
 
 
 # scripts/ui/screens/world/modules/world_campfire_screen/campfire_main_dialog_module.nut
 msgid " in order to gain 27 more inventory slots for the cost of "
-msgstr " in order to gain 27 more inventory slots for the cost of "
+msgstr ""
 
 

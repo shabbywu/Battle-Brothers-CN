@@ -1,6 +1,6 @@
 # scripts/items/shields/named/named_shield.nut
 msgid "'s "
-msgstr "'s "
+msgstr ""
 
 
 # scripts/items/shields/named/named_wing_shield.nut

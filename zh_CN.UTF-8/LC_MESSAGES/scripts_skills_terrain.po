@@ -1,16 +1,16 @@
 # scripts/skills/terrain/swamp_effect.nut
 msgid "]-25%[/color] Melee Skill"
-msgstr "]-25%[/color] Melee Skill"
+msgstr ""
 
 
 # scripts/skills/terrain/swamp_effect.nut
 msgid "]-25%[/color] Melee Defense"
-msgstr "]-25%[/color] Melee Defense"
+msgstr ""
 
 
 # scripts/skills/terrain/swamp_effect.nut
 msgid "]-25%[/color] Ranged Defense"
-msgstr "]-25%[/color] Ranged Defense"
+msgstr ""
 
 
 # scripts/skills/terrain/hidden_effect.nut

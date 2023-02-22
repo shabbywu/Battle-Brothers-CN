@@ -1,11 +1,11 @@
 # scripts/ambitions/ambition_manager.nut
 msgid "State"
-msgstr "State"
+msgstr ""
 
 
 # scripts/ambitions/ambition.nut
 msgid "\n\n"
-msgstr "\n\n"
+msgstr ""
 
 
 # scripts/ambitions/ambition.nut
@@ -15,11 +15,11 @@ msgstr "你的声望会提高，这意味着合同的报酬会更高，并有可
 
 # scripts/ambitions/ambition.nut
 msgid "Your Task"
-msgstr "Your Task"
+msgstr ""
 
 
 # scripts/ambitions/ambition.nut
 msgid "Your Reward"
-msgstr "Your Reward"
+msgstr ""
 
 

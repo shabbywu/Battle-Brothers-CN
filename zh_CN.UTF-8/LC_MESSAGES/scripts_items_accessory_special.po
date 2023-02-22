@@ -5,7 +5,7 @@ msgstr "一条项链似乎是用兽人的骨头做成的。"
 
 # scripts/items/accessory/special/arena_collar_item.nut
 msgid "Arena Collar"
-msgstr "Arena Collar"
+msgstr ""
 
 
 # scripts/items/accessory/special/arena_collar_item.nut

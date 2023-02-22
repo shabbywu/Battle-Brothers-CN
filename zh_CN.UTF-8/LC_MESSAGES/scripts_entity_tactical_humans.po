@@ -1,12 +1,12 @@
 # scripts/entity/tactical/humans/knight.nut
 # scripts/entity/tactical/humans/standard_bearer.nut
 msgid "State"
-msgstr "State"
+msgstr ""
 
 
 # scripts/entity/tactical/humans/barbarian_madman.nut
 msgid "ffffff00"
-msgstr "ffffff00"
+msgstr ""
 
 
 # scripts/entity/tactical/humans/councilman.nut
@@ -32,7 +32,7 @@ msgstr "民兵"
 
 # scripts/entity/tactical/humans/barbarian_madman.nut
 msgid "ffffff2f"
-msgstr "ffffff2f"
+msgstr ""
 
 
 # scripts/entity/tactical/humans/councilman.nut
@@ -77,11 +77,11 @@ msgstr "行业主管"
 
 # scripts/entity/tactical/humans/barbarian_madman.nut
 msgid "ffffff5f"
-msgstr "ffffff5f"
+msgstr ""
 
 
 # scripts/entity/tactical/humans/slave.nut
 msgid "#ffeaea"
-msgstr "#ffeaea"
+msgstr ""
 
 

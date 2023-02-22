@@ -1,7 +1,7 @@
 # scripts/skills/effects/battle_standard_effect.nut
 # scripts/skills/effects/captain_effect.nut
 msgid "State"
-msgstr "State"
+msgstr ""
 
 
 # scripts/skills/effects/dodge_effect.nut
@@ -36,50 +36,50 @@ msgstr "不屈不挠"
 
 # scripts/skills/effects/charmed_effect.nut
 msgid "ffffff00"
-msgstr "ffffff00"
+msgstr ""
 
 
 # scripts/skills/effects/hex_slave_effect.nut
 # scripts/skills/effects/hex_master_effect.nut
 msgid "#ffffff"
-msgstr "#ffffff"
+msgstr ""
 
 
 # scripts/skills/effects/charmed_effect.nut
 msgid "ffffff5f"
-msgstr "ffffff5f"
+msgstr ""
 
 
 # scripts/skills/effects/charmed_effect.nut
 msgid "fff3e500"
-msgstr "fff3e500"
+msgstr ""
 
 
 # scripts/skills/effects/charmed_effect.nut
 msgid "fff3e50f"
-msgstr "fff3e50f"
+msgstr ""
 
 
 # scripts/skills/effects/smoke_effect.nut
 # scripts/skills/effects/insect_swarm_effect.nut
 msgid "]-50%[/color] Ranged Skill"
-msgstr "]-50%[/color] Ranged Skill"
+msgstr ""
 
 
 # scripts/skills/effects/lone_wolf_effect.nut
 msgid "]+15%[/color] Resolve"
-msgstr "]+15%[/color] Resolve"
+msgstr ""
 
 
 # scripts/skills/effects/dazed_effect.nut
 msgid "]-25%[/color] Initiative"
-msgstr "]-25%[/color] Initiative"
+msgstr ""
 
 
 # scripts/skills/effects/indomitable_effect.nut
 # scripts/skills/effects/rachegeist_potion_effect.nut
 msgid "Receives only [color="
-msgstr "Receives only [color="
+msgstr ""
 
 
 # scripts/skills/effects/wiederganger_potion_effect.nut
@@ -99,43 +99,43 @@ msgstr "流血至死"
 
 # scripts/skills/effects/dazed_effect.nut
 msgid "]-25%[/color] Max Fatigue"
-msgstr "]-25%[/color] Max Fatigue"
+msgstr ""
 
 
 # scripts/skills/effects/insect_swarm_effect.nut
 msgid "]-50%[/color] Melee Skill"
-msgstr "]-50%[/color] Melee Skill"
+msgstr ""
 
 
 # scripts/skills/effects/web_effect.nut
 # scripts/skills/effects/staggered_effect.nut
 # scripts/skills/effects/insect_swarm_effect.nut
 msgid "]-50%[/color] Initiative"
-msgstr "]-50%[/color] Initiative"
+msgstr ""
 
 
 # scripts/skills/effects/web_effect.nut
 # scripts/skills/effects/insect_swarm_effect.nut
 msgid "]-50%[/color] Melee Defense"
-msgstr "]-50%[/color] Melee Defense"
+msgstr ""
 
 
 # scripts/skills/effects/web_effect.nut
 # scripts/skills/effects/insect_swarm_effect.nut
 msgid "]-50%[/color] Ranged Defense"
-msgstr "]-50%[/color] Ranged Defense"
+msgstr ""
 
 
 # scripts/skills/effects/unhold_potion_effect.nut
 # scripts/skills/effects/necrosavant_potion_effect.nut
 msgid " points"
-msgstr " points"
+msgstr ""
 
 
 # scripts/skills/effects/unhold_potion_effect.nut
 # scripts/skills/effects/necrosavant_potion_effect.nut
 msgid " heals for "
-msgstr " heals for "
+msgstr ""
 
 
 # scripts/skills/effects/poison_coat_effect.nut
@@ -156,7 +156,7 @@ msgstr "盾墙"
 
 # scripts/skills/effects/killing_frenzy_effect.nut
 msgid "]+25%[/color] Damage"
-msgstr "]+25%[/color] Damage"
+msgstr ""
 
 
 # scripts/skills/effects/spearwall_effect.nut
@@ -181,7 +181,7 @@ msgstr "吞噬"
 
 # scripts/skills/effects/indomitable_effect.nut
 msgid "]50%[/color] of any damage"
-msgstr "]50%[/color] of any damage"
+msgstr ""
 
 
 # scripts/skills/effects/drums_of_war_effect.nut
@@ -222,12 +222,12 @@ msgstr "的身体被洒上了圣水。"
 
 # scripts/skills/effects/serpent_potion_effect.nut
 msgid "Enhanced Opportunism"
-msgstr "Enhanced Opportunism"
+msgstr ""
 
 
 # scripts/skills/effects/serpent_potion_effect.nut
 msgid "Gain an additional [color="
-msgstr "Gain an additional [color="
+msgstr ""
 
 
 # scripts/skills/effects/serpent_potion_effect.nut
@@ -272,7 +272,7 @@ msgstr "]+3%[/color] 命中几率 in melee for every ally adjacent to your targe
 
 # scripts/skills/effects/serpent_potion_effect.nut
 msgid "This character's eyes are altered to more easily detect faults in a target's defenses. They also seem to very faintly hiss 's' sounds."
-msgstr "This character's eyes are altered to more easily detect faults in a target's defenses. They also seem to very faintly hiss 's' sounds."
+msgstr ""
 
 
 # scripts/skills/effects/goblin_poison_effect.nut
@@ -283,7 +283,7 @@ msgstr "中毒"
 
 # scripts/skills/effects/goblin_poison_effect.nut
 msgid "[/color] Vision"
-msgstr "[/color] Vision"
+msgstr ""
 
 
 # scripts/skills/effects/goblin_poison_effect.nut
@@ -291,7 +291,7 @@ msgstr "[/color] Vision"
 # scripts/skills/effects/whipped_effect.nut
 # scripts/skills/effects/chilled_effect.nut
 msgid "[/color] Initiative"
-msgstr "[/color] Initiative"
+msgstr ""
 
 
 # scripts/skills/effects/goblin_poison_effect.nut
@@ -302,13 +302,13 @@ msgstr "[/color] Initiative"
 # scripts/skills/effects/withered_effect.nut
 # scripts/skills/effects/bleeding_effect.nut
 msgid "[/color] more turn(s)."
-msgstr "[/color] more turn(s)."
+msgstr ""
 
 
 # scripts/skills/effects/goblin_poison_effect.nut
 # scripts/skills/effects/chilled_effect.nut
 msgid "[/color] Action Points"
-msgstr "[/color] Action Points"
+msgstr ""
 
 
 # scripts/skills/effects/goblin_poison_effect.nut
@@ -318,17 +318,17 @@ msgstr "这个角色的血管里流淌着毒素。他的视力模糊，说话含
 
 # scripts/skills/effects/fallen_hero_potion_effect.nut
 msgid "Reactive Muscle Tissue"
-msgstr "Reactive Muscle Tissue"
+msgstr ""
 
 
 # scripts/skills/effects/fallen_hero_potion_effect.nut
 msgid "This character accumulates no Fatigue from enemy attacks, whether they hit or miss"
-msgstr "This character accumulates no Fatigue from enemy attacks, whether they hit or miss"
+msgstr ""
 
 
 # scripts/skills/effects/fallen_hero_potion_effect.nut
 msgid "This character's body reacts to physical trauma, secreting a calciferous substance that causes their muscles to reflexively sieze and contract at points of impact to minimize muscle damage."
-msgstr "This character's body reacts to physical trauma, secreting a calciferous substance that causes their muscles to reflexively sieze and contract at points of impact to minimize muscle damage."
+msgstr ""
 
 
 # scripts/skills/effects/horrified_effect.nut
@@ -343,7 +343,7 @@ msgstr "这个角色吓坏了，直到下一个回合才能行动。"
 
 # scripts/skills/effects/horrified_effect.nut
 msgid " resists being frozen with fear thanks to his unnatural physiology"
-msgstr " resists being frozen with fear thanks to his unnatural physiology"
+msgstr ""
 
 
 # scripts/skills/effects/rooted_effect.nut
@@ -363,17 +363,17 @@ msgstr "]不能移动[/color]"
 # scripts/skills/effects/rooted_effect.nut
 # scripts/skills/effects/distracted_effect.nut
 msgid "]-35%[/color] Initiative"
-msgstr "]-35%[/color] Initiative"
+msgstr ""
 
 
 # scripts/skills/effects/rooted_effect.nut
 msgid "]-35%[/color] Melee Defense"
-msgstr "]-35%[/color] Melee Defense"
+msgstr ""
 
 
 # scripts/skills/effects/rooted_effect.nut
 msgid "]-35%[/color] Ranged Defense"
-msgstr "]-35%[/color] Ranged Defense"
+msgstr ""
 
 
 # scripts/skills/effects/rooted_effect.nut
@@ -390,7 +390,7 @@ msgstr "被缠住"
 # scripts/skills/effects/kraken_ensnare_effect.nut
 # scripts/skills/effects/serpent_ensnare_effect.nut
 msgid "]10[/color] hitpoints."
-msgstr "]10[/color] hitpoints."
+msgstr ""
 
 
 # scripts/skills/effects/kraken_ensnare_effect.nut
@@ -417,27 +417,27 @@ msgstr "昏迷"
 # scripts/skills/effects/stunned_effect.nut
 # scripts/skills/effects/reforming_effect.nut
 msgid "[/color] more turn(s), and unable to act."
-msgstr "[/color] more turn(s), and unable to act."
+msgstr ""
 
 
 # scripts/skills/effects/stunned_effect.nut
 msgid " shook off being stunned thanks to his unnatural physiology"
-msgstr " shook off being stunned thanks to his unnatural physiology"
+msgstr ""
 
 
 # scripts/skills/effects/stunned_effect.nut
 msgid "This character is stunned or otherwise incapacitated for [color="
-msgstr "This character is stunned or otherwise incapacitated for [color="
+msgstr ""
 
 
 # scripts/skills/effects/cat_potion_effect.nut
 msgid "Heightened Reflexes"
-msgstr "Heightened Reflexes"
+msgstr ""
 
 
 # scripts/skills/effects/cat_potion_effect.nut
 msgid "]+20[/color] Initiative"
-msgstr "]+20[/color] Initiative"
+msgstr ""
 
 
 # scripts/skills/effects/cat_potion_effect.nut
@@ -456,12 +456,12 @@ msgstr "多亏了精神活性物质的混合，这个角色的感官会被增强
 
 # scripts/skills/effects/lionheart_potion_effect.nut
 msgid "Enhanced Bravery"
-msgstr "Enhanced Bravery"
+msgstr ""
 
 
 # scripts/skills/effects/lionheart_potion_effect.nut
 msgid "]+20[/color] Resolve"
-msgstr "]+20[/color] Resolve"
+msgstr ""
 
 
 # scripts/skills/effects/lionheart_potion_effect.nut
@@ -476,7 +476,7 @@ msgstr "陷在网中"
 
 # scripts/skills/effects/web_effect.nut
 msgid "]-50%[/color] Damage"
-msgstr "]-50%[/color] Damage"
+msgstr ""
 
 
 # scripts/skills/effects/web_effect.nut
@@ -491,49 +491,49 @@ msgstr "一张又大又粘的网将这个角色固定在适当的位置上，阻
 
 # scripts/skills/effects/smoke_effect.nut
 msgid "Covered by Smoke"
-msgstr "Covered by Smoke"
+msgstr ""
 
 
 # scripts/skills/effects/smoke_effect.nut
 msgid "]+100%[/color] Ranged Defense"
-msgstr "]+100%[/color] Ranged Defense"
+msgstr ""
 
 
 # scripts/skills/effects/smoke_effect.nut
 msgid "Not affected by Zones of Control"
-msgstr "Not affected by Zones of Control"
+msgstr ""
 
 
 # scripts/skills/effects/smoke_effect.nut
 msgid "This character is covered by dense layers of smoke. Slipping in and out of visibility, they can move freely and ignore any zones of control."
-msgstr "This character is covered by dense layers of smoke. Slipping in and out of visibility, they can move freely and ignore any zones of control."
+msgstr ""
 
 
 # scripts/skills/effects/overwhelmed_effect.nut
 msgid " (x"
-msgstr " (x"
+msgstr ""
 
 
 # scripts/skills/effects/overwhelmed_effect.nut
 msgid "Overwhelmed"
-msgstr "Overwhelmed"
+msgstr ""
 
 
 # scripts/skills/effects/overwhelmed_effect.nut
 # scripts/skills/effects/shellshocked_effect.nut
 msgid "%[/color] Melee Skill"
-msgstr "%[/color] Melee Skill"
+msgstr ""
 
 
 # scripts/skills/effects/overwhelmed_effect.nut
 # scripts/skills/effects/shellshocked_effect.nut
 msgid "%[/color] Ranged Skill"
-msgstr "%[/color] Ranged Skill"
+msgstr ""
 
 
 # scripts/skills/effects/overwhelmed_effect.nut
 msgid " resists being overwhelmed thanks to his unnatural physiology"
-msgstr " resists being overwhelmed thanks to his unnatural physiology"
+msgstr ""
 
 
 # scripts/skills/effects/overwhelmed_effect.nut
@@ -543,37 +543,37 @@ msgstr "这个角色已经被一系列的攻击所压制，无法有效地进行
 
 # scripts/skills/effects/unhold_potion_effect.nut
 msgid "Heals [color="
-msgstr "Heals [color="
+msgstr ""
 
 
 # scripts/skills/effects/unhold_potion_effect.nut
 msgid "Hyperactive Cell Growth"
-msgstr "Hyperactive Cell Growth"
+msgstr ""
 
 
 # scripts/skills/effects/unhold_potion_effect.nut
 msgid "]10[/color] hitpoints each turn"
-msgstr "]10[/color] hitpoints each turn"
+msgstr ""
 
 
 # scripts/skills/effects/unhold_potion_effect.nut
 msgid "This character's body has mutated to grow at an unnatural pace. In battle, this causes their wounds to close and heal within moments. Outside of battle, it causes unseemly growths, an unquenchable thirst, and disgustingly long finger nails. You once saw them lacerate both arms with a meat cleaver, screeching maniacally that it was 'the only way to keep it in check'. Odd."
-msgstr "This character's body has mutated to grow at an unnatural pace. In battle, this causes their wounds to close and heal within moments. Outside of battle, it causes unseemly growths, an unquenchable thirst, and disgustingly long finger nails. You once saw them lacerate both arms with a meat cleaver, screeching maniacally that it was 'the only way to keep it in check'. Odd."
+msgstr ""
 
 
 # scripts/skills/effects/sleeping_effect.nut
 msgid "]-100[/color] Initiative"
-msgstr "]-100[/color] Initiative"
+msgstr ""
 
 
 # scripts/skills/effects/sleeping_effect.nut
 msgid "Can take damage from Alps"
-msgstr "Can take damage from Alps"
+msgstr ""
 
 
 # scripts/skills/effects/sleeping_effect.nut
 msgid " wakes up thanks to his unnatural physiology"
-msgstr " wakes up thanks to his unnatural physiology"
+msgstr ""
 
 
 # scripts/skills/effects/sleeping_effect.nut
@@ -588,13 +588,13 @@ msgstr "[/color] more turn(s), but can also be forcibly awoken by allies and wil
 
 # scripts/skills/effects/goblin_overseer_potion_effect.nut
 msgid "Mutated Cornea"
-msgstr "Mutated Cornea"
+msgstr ""
 
 
 # scripts/skills/effects/goblin_overseer_potion_effect.nut
 # scripts/skills/effects/geist_potion_effect.nut
 msgid "An additional [color="
-msgstr "An additional [color="
+msgstr ""
 
 
 # scripts/skills/effects/goblin_overseer_potion_effect.nut
@@ -604,7 +604,7 @@ msgstr "]5%[/color] 伤害忽视盔甲 when using bows or crossbows"
 
 # scripts/skills/effects/goblin_overseer_potion_effect.nut
 msgid "This character's eyes have been permanently mutated and are now capable of detecting the subtlest movements of wind and air. While minor on its own, this allows them to better predict the trajectory of projectile attacks and better land hits on vulnerable parts of a target."
-msgstr "This character's eyes have been permanently mutated and are now capable of detecting the subtlest movements of wind and air. While minor on its own, this allows them to better predict the trajectory of projectile attacks and better land hits on vulnerable parts of a target."
+msgstr ""
 
 
 # scripts/skills/effects/battle_standard_effect.nut
@@ -617,7 +617,7 @@ msgstr "为了战队！"
 # scripts/skills/effects/orc_berserker_potion_effect.nut
 # scripts/skills/effects/whipped_effect.nut
 msgid "[/color] Resolve"
-msgstr "[/color] Resolve"
+msgstr ""
 
 
 # scripts/skills/effects/battle_standard_effect.nut
@@ -627,7 +627,7 @@ msgstr "随着战队荣耀的战斗标准的临近，这个角色感到不得不
 
 # scripts/skills/effects/geist_potion_effect.nut
 msgid "Kinetic Coating"
-msgstr "Kinetic Coating"
+msgstr ""
 
 
 # scripts/skills/effects/geist_potion_effect.nut
@@ -637,7 +637,7 @@ msgstr "]5%[/color] 伤害忽视盔甲 when using melee weapons"
 
 # scripts/skills/effects/geist_potion_effect.nut
 msgid "This character is able to secrete a substance that vibrates rapidly when stimulated. When applied to weapons, this creates a strong kinetic force that aids in armor penetration."
-msgstr "This character is able to secrete a substance that vibrates rapidly when stimulated. When applied to weapons, this creates a strong kinetic force that aids in armor penetration."
+msgstr ""
 
 
 # scripts/skills/effects/spider_poison_effect.nut
@@ -648,76 +648,76 @@ msgstr "死于中毒"
 # scripts/skills/effects/spider_poison_effect.nut
 # scripts/skills/effects/bleeding_effect.nut
 msgid "[/color] hitpoints each turn for [color="
-msgstr "[/color] hitpoints each turn for [color="
+msgstr ""
 
 
 # scripts/skills/effects/spider_poison_effect.nut
 msgid "This character has a vicious poison running through his veins and will lose [color="
-msgstr "This character has a vicious poison running through his veins and will lose [color="
+msgstr ""
 
 
 # scripts/skills/effects/nine_lives_effect.nut
 msgid "]+15[/color] Resolve"
-msgstr "]+15[/color] Resolve"
+msgstr ""
 
 
 # scripts/skills/effects/nine_lives_effect.nut
 msgid "]+15[/color] Initiative"
-msgstr "]+15[/color] Initiative"
+msgstr ""
 
 
 # scripts/skills/effects/nine_lives_effect.nut
 msgid "]+15[/color] Melee Defense"
-msgstr "]+15[/color] Melee Defense"
+msgstr ""
 
 
 # scripts/skills/effects/nine_lives_effect.nut
 msgid "]+15[/color] Ranged Defense"
-msgstr "]+15[/color] Ranged Defense"
+msgstr ""
 
 
 # scripts/skills/effects/nine_lives_effect.nut
 msgid "This character seems to have nine lives! Just having had a close encounter with death, they are in a heightened state of survival until their next turn."
-msgstr "This character seems to have nine lives! Just having had a close encounter with death, they are in a heightened state of survival until their next turn."
+msgstr ""
 
 
 # scripts/skills/effects/lone_wolf_effect.nut
 msgid "I work best alone."
-msgstr "I work best alone."
+msgstr ""
 
 
 # scripts/skills/effects/lone_wolf_effect.nut
 msgid "]+15%[/color] Melee Skill"
-msgstr "]+15%[/color] Melee Skill"
+msgstr ""
 
 
 # scripts/skills/effects/lone_wolf_effect.nut
 msgid "]+15%[/color] Ranged Skill"
-msgstr "]+15%[/color] Ranged Skill"
+msgstr ""
 
 
 # scripts/skills/effects/lone_wolf_effect.nut
 msgid "]+15%[/color] Melee Defense"
-msgstr "]+15%[/color] Melee Defense"
+msgstr ""
 
 
 # scripts/skills/effects/lone_wolf_effect.nut
 msgid "]+15%[/color] Ranged Defense"
-msgstr "]+15%[/color] Ranged Defense"
+msgstr ""
 
 
 # scripts/skills/effects/dodge_effect.nut
 # scripts/skills/effects/whipped_effect.nut
 # scripts/skills/effects/shieldwall_effect.nut
 msgid "[/color] Melee Defense"
-msgstr "[/color] Melee Defense"
+msgstr ""
 
 
 # scripts/skills/effects/dodge_effect.nut
 # scripts/skills/effects/whipped_effect.nut
 # scripts/skills/effects/shieldwall_effect.nut
 msgid "[/color] Ranged Defense"
-msgstr "[/color] Ranged Defense"
+msgstr ""
 
 
 # scripts/skills/effects/dodge_effect.nut
@@ -727,12 +727,12 @@ msgstr "快速反应可以让这个角色在近战和远程防御中加入他们
 
 # scripts/skills/effects/swallowed_whole_effect.nut
 msgid "Devoured "
-msgstr "Devoured "
+msgstr ""
 
 
 # scripts/skills/effects/captain_effect.nut
 msgid "Inspired by nearby Leader"
-msgstr "Inspired by nearby Leader"
+msgstr ""
 
 
 # scripts/skills/effects/captain_effect.nut
@@ -742,7 +742,7 @@ msgstr "附近有一个引导推进的队长，这个角色的决心暂时性的
 
 # scripts/skills/effects/orc_warrior_potion_effect.nut
 msgid "Sensory Redundancy"
-msgstr "Sensory Redundancy"
+msgstr ""
 
 
 # scripts/skills/effects/orc_warrior_potion_effect.nut
@@ -752,7 +752,7 @@ msgstr "有 ]33%[/color] chance 的几率抵抗茫然、踉跄、眩晕、分神
 
 # scripts/skills/effects/orc_warrior_potion_effect.nut
 msgid "This character's body has mutated to develop a number of redundant synapses, allowing them to maintain a degree of control over sight, hearing, and muscle control even when struck with debilitating blows."
-msgstr "This character's body has mutated to develop a number of redundant synapses, allowing them to maintain a degree of control over sight, hearing, and muscle control even when struck with debilitating blows."
+msgstr ""
 
 
 # scripts/skills/effects/nightmare_effect.nut
@@ -762,7 +762,7 @@ msgstr "在睡梦中死去"
 
 # scripts/skills/effects/nightmare_effect.nut
 msgid "]-300[/color] Initiative"
-msgstr "]-300[/color] Initiative"
+msgstr ""
 
 
 # scripts/skills/effects/nightmare_effect.nut
@@ -782,17 +782,17 @@ msgstr "动能打击"
 
 # scripts/skills/effects/orc_young_potion_effect.nut
 msgid "Attacks have an additional [color="
-msgstr "Attacks have an additional [color="
+msgstr ""
 
 
 # scripts/skills/effects/orc_young_potion_effect.nut
 msgid "]+10%[/color] effectiveness against armor"
-msgstr "]+10%[/color] effectiveness against armor"
+msgstr ""
 
 
 # scripts/skills/effects/orc_young_potion_effect.nut
 msgid "This character's wrists have mutated in such a way that the they dampen the initial shock of opposing forces. In more practical terms, they reduce the protective qualities of an enemy's armor when struck. They can also make some pretty outlandish shadow puppets."
-msgstr "This character's wrists have mutated in such a way that the they dampen the initial shock of opposing forces. In more practical terms, they reduce the protective qualities of an enemy's armor when struck. They can also make some pretty outlandish shadow puppets."
+msgstr ""
 
 
 # scripts/skills/effects/staggered_effect.nut
@@ -806,12 +806,12 @@ msgstr "趔趄"
 # scripts/skills/effects/dazed_effect.nut
 # scripts/skills/effects/antidote_effect.nut
 msgid "[/color] turn(s)."
-msgstr "[/color] turn(s)."
+msgstr ""
 
 
 # scripts/skills/effects/staggered_effect.nut
 msgid " shook off being staggered thanks to his unnatural physiology"
-msgstr " shook off being staggered thanks to his unnatural physiology"
+msgstr ""
 
 
 # scripts/skills/effects/staggered_effect.nut
@@ -821,7 +821,7 @@ msgstr "这个角色受到了沉重的打击，失去了平衡，行动迟缓。
 
 # scripts/skills/effects/alp_potion_effect.nut
 msgid "Enhanced Eye Rods"
-msgstr "Enhanced Eye Rods"
+msgstr ""
 
 
 # scripts/skills/effects/alp_potion_effect.nut
@@ -832,7 +832,7 @@ msgstr "不受夜间影响 penalties"
 
 # scripts/skills/effects/alp_potion_effect.nut
 msgid "This character's eyes have mutated to respond faster and more drastically to low light environments. As a result, they have night vision nearly on par with their sight during the day."
-msgstr "This character's eyes have mutated to respond faster and more drastically to low light environments. As a result, they have night vision nearly on par with their sight during the day."
+msgstr ""
 
 
 # scripts/skills/effects/orc_berserker_potion_effect.nut
@@ -843,32 +843,32 @@ msgstr " 获得愤怒！"
 
 # scripts/skills/effects/orc_berserker_potion_effect.nut
 msgid "Berserker Rage"
-msgstr "Berserker Rage"
+msgstr ""
 
 
 # scripts/skills/effects/orc_berserker_potion_effect.nut
 msgid "[/color] damage dealt"
-msgstr "[/color] damage dealt"
+msgstr ""
 
 
 # scripts/skills/effects/orc_berserker_potion_effect.nut
 msgid "%[/color] damage reduction"
-msgstr "%[/color] damage reduction"
+msgstr ""
 
 
 # scripts/skills/effects/orc_berserker_potion_effect.nut
 msgid "This character gains two stacks of Rage each time they take hitpoint damage, and loses one stack at the end of each turn."
-msgstr "This character gains two stacks of Rage each time they take hitpoint damage, and loses one stack at the end of each turn."
+msgstr ""
 
 
 # scripts/skills/effects/orc_berserker_potion_effect.nut
 msgid "This character's adrenaline and hormonal glands have mutated, causing a constant heightened emotional state. They can mostly keep this under control in camp, but in high-stress situations the effect is much stronger and fills them with an intense, unconsolable rage."
-msgstr "This character's adrenaline and hormonal glands have mutated, causing a constant heightened emotional state. They can mostly keep this under control in camp, but in high-stress situations the effect is much stronger and fills them with an intense, unconsolable rage."
+msgstr ""
 
 
 # scripts/skills/effects/ijirok_potion_effect.nut
 msgid "Auspice of the Mad God"
-msgstr "Auspice of the Mad God"
+msgstr ""
 
 
 # scripts/skills/effects/ijirok_potion_effect.nut
@@ -878,17 +878,17 @@ msgstr "有 ]50%[/color] 几率抵抗任何不良状态，例如茫然或眩晕"
 
 # scripts/skills/effects/ijirok_potion_effect.nut
 msgid "There's something wrong with this character. Fits of crazed laughter and muttered tirades aside, their body seems to, at random, reject changes visited upon it. In battle, this has the fortunate effect of letting them sometimes shrug off debilitating effects."
-msgstr "There's something wrong with this character. Fits of crazed laughter and muttered tirades aside, their body seems to, at random, reject changes visited upon it. In battle, this has the fortunate effect of letting them sometimes shrug off debilitating effects."
+msgstr ""
 
 
 # scripts/skills/effects/hex_slave_effect.nut
 msgid "Died from a hex"
-msgstr "Died from a hex"
+msgstr ""
 
 
 # scripts/skills/effects/hex_slave_effect.nut
 msgid "]1[/color] turn(s)."
-msgstr "]1[/color] turn(s)."
+msgstr ""
 
 
 # scripts/skills/effects/hex_slave_effect.nut
@@ -908,42 +908,42 @@ msgstr "这个角色通过他的血肉信道真实的听到了达库尔的声音
 
 # scripts/skills/effects/goblin_shaman_potion_effect.nut
 msgid "Hyperactive Sweat Glands"
-msgstr "Hyperactive Sweat Glands"
+msgstr ""
 
 
 # scripts/skills/effects/goblin_shaman_potion_effect.nut
 msgid "Always able to successfully escape from ensnaring effects, such as from nets or roots"
-msgstr "Always able to successfully escape from ensnaring effects, such as from nets or roots"
+msgstr ""
 
 
 # scripts/skills/effects/goblin_shaman_potion_effect.nut
 msgid "When in high stress situations, this character's mutated body produces a slimy, viscous substance and begins sweating it excessively. They'll have a much easier time escaping from any nets or traps in such a state. Just bring a towel."
-msgstr "When in high stress situations, this character's mutated body produces a slimy, viscous substance and begins sweating it excessively. They'll have a much easier time escaping from any nets or traps in such a state. Just bring a towel."
+msgstr ""
 
 
 # scripts/skills/effects/direwolf_potion_effect.nut
 msgid "Elasticized Sinew"
-msgstr "Elasticized Sinew"
+msgstr ""
 
 
 # scripts/skills/effects/direwolf_potion_effect.nut
 msgid "Attacks that miss have [color="
-msgstr "Attacks that miss have [color="
+msgstr ""
 
 
 # scripts/skills/effects/direwolf_potion_effect.nut
 msgid "]50%[/color] of their Fatigue cost refunded"
-msgstr "]50%[/color] of their Fatigue cost refunded"
+msgstr ""
 
 
 # scripts/skills/effects/direwolf_potion_effect.nut
 msgid "This character's muscles have mutated and respond differently to movement impulses. It is much less fatiguing to interrupt or stop mid-motion as a consequence, making it much easier to recover from errant or blocked attacks."
-msgstr "This character's muscles have mutated and respond differently to movement impulses. It is much less fatiguing to interrupt or stop mid-motion as a consequence, making it much easier to recover from errant or blocked attacks."
+msgstr ""
 
 
 # scripts/skills/effects/insect_swarm_effect.nut
 msgid " repels insects with his unnatural physiology"
-msgstr " repels insects with his unnatural physiology"
+msgstr ""
 
 
 # scripts/skills/effects/insect_swarm_effect.nut
@@ -973,17 +973,17 @@ msgstr "走，走，走！这个角色有一种肾上腺素的冲动，他会在
 
 # scripts/skills/effects/disarmed_effect.nut
 msgid "Disarmed"
-msgstr "Disarmed"
+msgstr ""
 
 
 # scripts/skills/effects/disarmed_effect.nut
 msgid "This character has been temporarily disarmed for [color="
-msgstr "This character has been temporarily disarmed for [color="
+msgstr ""
 
 
 # scripts/skills/effects/disarmed_effect.nut
 msgid " quickly recovers from being disarmed thanks to his unnatural physiology"
-msgstr " quickly recovers from being disarmed thanks to his unnatural physiology"
+msgstr ""
 
 
 # scripts/skills/effects/disarmed_effect.nut
@@ -998,17 +998,17 @@ msgstr "神化"
 
 # scripts/skills/effects/apotheosis_potion_effect.nut
 msgid "]+1[/color] Fatigue"
-msgstr "]+1[/color] Fatigue"
+msgstr ""
 
 
 # scripts/skills/effects/apotheosis_potion_effect.nut
 msgid "]+1[/color] Hitpoints"
-msgstr "]+1[/color] Hitpoints"
+msgstr ""
 
 
 # scripts/skills/effects/apotheosis_potion_effect.nut
 msgid "This character has consumed a particularly powerful stimulant. While the delivery mechanism itself is revolutionary, the drug itself is not as powerful as the grandeur of its name suggests."
-msgstr "This character has consumed a particularly powerful stimulant. While the delivery mechanism itself is revolutionary, the drug itself is not as powerful as the grandeur of its name suggests."
+msgstr ""
 
 
 # scripts/skills/effects/net_effect.nut
@@ -1018,17 +1018,17 @@ msgstr "陷网"
 
 # scripts/skills/effects/net_effect.nut
 msgid "]-45%[/color] Initiative"
-msgstr "]-45%[/color] Initiative"
+msgstr ""
 
 
 # scripts/skills/effects/net_effect.nut
 msgid "]-45%[/color] Melee Defense"
-msgstr "]-45%[/color] Melee Defense"
+msgstr ""
 
 
 # scripts/skills/effects/net_effect.nut
 msgid "]-45%[/color] Ranged Defense"
-msgstr "]-45%[/color] Ranged Defense"
+msgstr ""
 
 
 # scripts/skills/effects/net_effect.nut
@@ -1038,39 +1038,39 @@ msgstr "一张大网将这个角色固定在适当的位置，并阻碍他们自
 
 # scripts/skills/effects/shellshocked_effect.nut
 msgid "Shellshocked"
-msgstr "Shellshocked"
+msgstr ""
 
 
 # scripts/skills/effects/shellshocked_effect.nut
 # scripts/skills/effects/withered_effect.nut
 msgid "%[/color] Damage"
-msgstr "%[/color] Damage"
+msgstr ""
 
 
 # scripts/skills/effects/shellshocked_effect.nut
 msgid "%[/color] Resolve"
-msgstr "%[/color] Resolve"
+msgstr ""
 
 
 # scripts/skills/effects/shellshocked_effect.nut
 # scripts/skills/effects/withered_effect.nut
 msgid "%[/color] Initiative"
-msgstr "%[/color] Initiative"
+msgstr ""
 
 
 # scripts/skills/effects/shellshocked_effect.nut
 msgid "%[/color] Melee Defense"
-msgstr "%[/color] Melee Defense"
+msgstr ""
 
 
 # scripts/skills/effects/shellshocked_effect.nut
 msgid "%[/color] Ranged Defense"
-msgstr "%[/color] Ranged Defense"
+msgstr ""
 
 
 # scripts/skills/effects/shellshocked_effect.nut
 msgid " resists being shellshocked thanks to his unnatural physiology"
-msgstr " resists being shellshocked thanks to his unnatural physiology"
+msgstr ""
 
 
 # scripts/skills/effects/shellshocked_effect.nut
@@ -1118,13 +1118,13 @@ msgstr "]10%[/color] 头部盔甲每回合都会损失"
 
 # scripts/skills/effects/lindwurm_acid_effect.nut
 msgid " is unaffected by acid thanks to his unnatural physiology"
-msgstr " is unaffected by acid thanks to his unnatural physiology"
+msgstr ""
 
 
 # scripts/skills/effects/lindwurm_acid_effect.nut
 # scripts/skills/effects/acid_effect.nut
 msgid "This character's armor has been sprayed with a Lindwurm's acidic blood, which is now slowly eating away at it for another [color="
-msgstr "This character's armor has been sprayed with a Lindwurm's acidic blood, which is now slowly eating away at it for another [color="
+msgstr ""
 
 
 # scripts/skills/effects/whipped_effect.nut
@@ -1134,17 +1134,17 @@ msgstr "鞭打"
 
 # scripts/skills/effects/whipped_effect.nut
 msgid " round(s)."
-msgstr " round(s)."
+msgstr ""
 
 
 # scripts/skills/effects/whipped_effect.nut
 msgid "[/color] Melee Skill"
-msgstr "[/color] Melee Skill"
+msgstr ""
 
 
 # scripts/skills/effects/whipped_effect.nut
 msgid "[/color] Ranged Skill"
-msgstr "[/color] Ranged Skill"
+msgstr ""
 
 
 # scripts/skills/effects/whipped_effect.nut
@@ -1154,7 +1154,7 @@ msgstr "这个角色刚刚收到一个伤人的提醒，提醒他们需要为他
 
 # scripts/skills/effects/goblin_grunt_potion_effect.nut
 msgid "Reactive Leg Muscles"
-msgstr "Reactive Leg Muscles"
+msgstr ""
 
 
 # scripts/skills/effects/goblin_grunt_potion_effect.nut
@@ -1169,7 +1169,7 @@ msgstr "换位和步法技能的行动点消耗降低至  [color="
 
 # scripts/skills/effects/goblin_grunt_potion_effect.nut
 msgid "This character's legs have been mutated, allowing them to make swift, complex movements more smoothly and with greater rapidity. When at rest, the muscles can still occasionally be seen twitching underneath the skin."
-msgstr "This character's legs have been mutated, allowing them to make swift, complex movements more smoothly and with greater rapidity. When at rest, the muscles can still occasionally be seen twitching underneath the skin."
+msgstr ""
 
 
 # scripts/skills/effects/stealth_effect.nut
@@ -1179,17 +1179,17 @@ msgstr "隐身"
 
 # scripts/skills/effects/ancient_priest_potion_effect.nut
 msgid "Synapse Blockage"
-msgstr "Synapse Blockage"
+msgstr ""
 
 
 # scripts/skills/effects/ancient_priest_potion_effect.nut
 msgid "Can not be reduced to Fleeing morale, only Breaking"
-msgstr "Can not be reduced to Fleeing morale, only Breaking"
+msgstr ""
 
 
 # scripts/skills/effects/ancient_priest_potion_effect.nut
 msgid "This character's body has mutated in such a way that their fight-or-flight response is altered. In high stress situations, their limbic system is simply refused resources for flight, making them effectively unbreakable in the battle line."
-msgstr "This character's body has mutated in such a way that their fight-or-flight response is altered. In high stress situations, their limbic system is simply refused resources for flight, making them effectively unbreakable in the battle line."
+msgstr ""
 
 
 # scripts/skills/effects/gruesome_feast_effect.nut
@@ -1214,7 +1214,7 @@ msgstr "冷冻"
 
 # scripts/skills/effects/chilled_effect.nut
 msgid " is unaffected by the cold thanks to his unnatural physiology"
-msgstr " is unaffected by the cold thanks to his unnatural physiology"
+msgstr ""
 
 
 # scripts/skills/effects/chilled_effect.nut
@@ -1239,12 +1239,12 @@ msgstr "我可以整晚都这样！ 多亏了一种能量物质的混合物，�
 
 # scripts/skills/effects/spider_poison_coat_effect.nut
 msgid "]10[/color] hitpoints per turn until the effect has faded."
-msgstr "]10[/color] hitpoints per turn until the effect has faded."
+msgstr ""
 
 
 # scripts/skills/effects/spider_poison_coat_effect.nut
 msgid "[/color] damage to hitpoints will apply it. Targets affected will lose [color="
-msgstr "[/color] damage to hitpoints will apply it. Targets affected will lose [color="
+msgstr ""
 
 
 # scripts/skills/effects/spider_poison_coat_effect.nut
@@ -1254,12 +1254,12 @@ msgstr "这个角色使用的武器涂有浓缩的蜘蛛毒液。 The next few h
 
 # scripts/skills/effects/withered_effect.nut
 msgid "Withered"
-msgstr "Withered"
+msgstr ""
 
 
 # scripts/skills/effects/withered_effect.nut
 msgid "%[/color] Max Fatigue"
-msgstr "%[/color] Max Fatigue"
+msgstr ""
 
 
 # scripts/skills/effects/withered_effect.nut
@@ -1269,12 +1269,12 @@ msgstr "[/color] 每回合疲劳恢复"
 
 # scripts/skills/effects/withered_effect.nut
 msgid " quickly recovered from withering thanks to his unnatural physiology"
-msgstr " quickly recovered from withering thanks to his unnatural physiology"
+msgstr ""
 
 
 # scripts/skills/effects/withered_effect.nut
 msgid "By means of dark magic, this character has withered to have the physique of an old man. Will slowly wear off over [color="
-msgstr "By means of dark magic, this character has withered to have the physique of an old man. Will slowly wear off over [color="
+msgstr ""
 
 
 # scripts/skills/effects/killing_frenzy_effect.nut
@@ -1284,7 +1284,7 @@ msgstr "杀戮狂暴!"
 
 # scripts/skills/effects/killing_frenzy_effect.nut
 msgid "RAAAARGH! This character is on a killing frenzy for [color="
-msgstr "RAAAARGH! This character is on a killing frenzy for [color="
+msgstr ""
 
 
 # scripts/skills/effects/killing_frenzy_effect.nut
@@ -1294,7 +1294,7 @@ msgstr "[/color] more turn(s). 杀死另一个对手将使杀戮狂暴继续持�
 
 # scripts/skills/effects/night_vision_effect.nut
 msgid "Night Vision"
-msgstr "Night Vision"
+msgstr ""
 
 
 # scripts/skills/effects/night_vision_effect.nut
@@ -1314,12 +1314,12 @@ msgstr "茫然"
 
 # scripts/skills/effects/dazed_effect.nut
 msgid "]-25%[/color] Damage"
-msgstr "]-25%[/color] Damage"
+msgstr ""
 
 
 # scripts/skills/effects/dazed_effect.nut
 msgid " shook off being dazed thanks to his unnatural physiology"
-msgstr " shook off being dazed thanks to his unnatural physiology"
+msgstr ""
 
 
 # scripts/skills/effects/dazed_effect.nut
@@ -1329,22 +1329,22 @@ msgstr "这个角色受到了如此沉重的打击，感到茫然、困惑和神
 
 # scripts/skills/effects/hexe_potion_effect.nut
 msgid "Reflect [color="
-msgstr "Reflect [color="
+msgstr ""
 
 
 # scripts/skills/effects/hexe_potion_effect.nut
 msgid "Sympathetic Call"
-msgstr "Sympathetic Call"
+msgstr ""
 
 
 # scripts/skills/effects/hexe_potion_effect.nut
 msgid "]100%[/color] of hitpoint damage received back at the attacker"
-msgstr "]100%[/color] of hitpoint damage received back at the attacker"
+msgstr ""
 
 
 # scripts/skills/effects/hexe_potion_effect.nut
 msgid "There's something different about this character. Physically they seem unchanged, yet somehow a sense of dread precedes them. Any harm that they endure, on or off the battlefield, seems to affect another nearby. Useful in a fight, annoying in camp, and surely isolating in every day society."
-msgstr "There's something different about this character. Physically they seem unchanged, yet somehow a sense of dread precedes them. Any harm that they endure, on or off the battlefield, seems to affect another nearby. Useful in a fight, annoying in camp, and surely isolating in every day society."
+msgstr ""
 
 
 # scripts/skills/effects/taunted_effect.nut
@@ -1369,42 +1369,42 @@ msgstr "流血"
 
 # scripts/skills/effects/bleeding_effect.nut
 msgid " had his bleeding wound quickly close thanks to his unnatural physiology"
-msgstr " had his bleeding wound quickly close thanks to his unnatural physiology"
+msgstr ""
 
 
 # scripts/skills/effects/bleeding_effect.nut
 msgid "This character is bleeding profusely from a recently received wound and will lose [color="
-msgstr "This character is bleeding profusely from a recently received wound and will lose [color="
+msgstr ""
 
 
 # scripts/skills/effects/lindwurm_potion_effect.nut
 msgid "Acidic blood"
-msgstr "Acidic blood"
+msgstr ""
 
 
 # scripts/skills/effects/lindwurm_potion_effect.nut
 msgid "This character's blood burns with acid, damaging adjacent attackers whenever they deal hitpoint damage"
-msgstr "This character's blood burns with acid, damaging adjacent attackers whenever they deal hitpoint damage"
+msgstr ""
 
 
 # scripts/skills/effects/lindwurm_potion_effect.nut
 msgid "This character's blood is highly pressurized and burns upon prolonged exposure to air. Attackers who break skin will find themselves unpleasantly surprised by the resultant spray."
-msgstr "This character's blood is highly pressurized and burns upon prolonged exposure to air. Attackers who break skin will find themselves unpleasantly surprised by the resultant spray."
+msgstr ""
 
 
 # scripts/skills/effects/skeleton_warrior_potion_effect.nut
 msgid "Locking Joints"
-msgstr "Locking Joints"
+msgstr ""
 
 
 # scripts/skills/effects/skeleton_warrior_potion_effect.nut
 msgid "Reduces the Fatigue cost of the 'Shieldwall' skill by [color="
-msgstr "Reduces the Fatigue cost of the 'Shieldwall' skill by [color="
+msgstr ""
 
 
 # scripts/skills/effects/skeleton_warrior_potion_effect.nut
 msgid "This character's body has mutated such that they can lock their limbs into certain positions almost indefinitely, allowing them to brace against blows while barely breaking a sweat."
-msgstr "This character's body has mutated such that they can lock their limbs into certain positions almost indefinitely, allowing them to brace against blows while barely breaking a sweat."
+msgstr ""
 
 
 # scripts/skills/effects/berserker_mushrooms_effect.nut
@@ -1414,12 +1414,12 @@ msgstr "愤怒！！！"
 
 # scripts/skills/effects/berserker_mushrooms_effect.nut
 msgid "]-15[/color] Melee Defense"
-msgstr "]-15[/color] Melee Defense"
+msgstr ""
 
 
 # scripts/skills/effects/berserker_mushrooms_effect.nut
 msgid "]-15[/color] Ranged Defense"
-msgstr "]-15[/color] Ranged Defense"
+msgstr ""
 
 
 # scripts/skills/effects/berserker_mushrooms_effect.nut
@@ -1439,17 +1439,17 @@ msgstr "杀戮！！！这个角色处于蘑菇引起的恍惚般的愤怒中，
 
 # scripts/skills/effects/kraken_potion_effect.nut
 msgid "Ascendant Flesh"
-msgstr "Ascendant Flesh"
+msgstr ""
 
 
 # scripts/skills/effects/kraken_potion_effect.nut
 msgid "]+50[/color] Hitpoints"
-msgstr "]+50[/color] Hitpoints"
+msgstr ""
 
 
 # scripts/skills/effects/kraken_potion_effect.nut
 msgid "The character draws strength from some limitless source, with the health and durability of two men. You pretend to not notice the eviscerated corpses you sometimes find in their wake."
-msgstr "The character draws strength from some limitless source, with the health and durability of two men. You pretend to not notice the eviscerated corpses you sometimes find in their wake."
+msgstr ""
 
 
 # scripts/skills/effects/webknecht_potion_effect.nut
@@ -1464,27 +1464,27 @@ msgstr "免疫中毒效果，包括蜘蛛与哥布林的毒药"
 
 # scripts/skills/effects/webknecht_potion_effect.nut
 msgid "This character's body has mutated and propagates poisons and other hazardous substances through the bloodstream much more slowly, allowing them to be disposed of without serious health effects. Curiously, this doesn't seem to affect their ability to get drunk."
-msgstr "This character's body has mutated and propagates poisons and other hazardous substances through the bloodstream much more slowly, allowing them to be disposed of without serious health effects. Curiously, this doesn't seem to affect their ability to get drunk."
+msgstr ""
 
 
 # scripts/skills/effects/rachegeist_potion_effect.nut
 msgid "Ghastly Aura"
-msgstr "Ghastly Aura"
+msgstr ""
 
 
 # scripts/skills/effects/rachegeist_potion_effect.nut
 msgid "]+25%[/color] Damage if hitpoints are below [color="
-msgstr "]+25%[/color] Damage if hitpoints are below [color="
+msgstr ""
 
 
 # scripts/skills/effects/rachegeist_potion_effect.nut
 msgid "]75%[/color] of any damage if hitpoints are below [color="
-msgstr "]75%[/color] of any damage if hitpoints are below [color="
+msgstr ""
 
 
 # scripts/skills/effects/rachegeist_potion_effect.nut
 msgid "This character has consumed a substance, now in their bloodstream, that emits a kinetic field. This field gets stronger as their health deteriorates, eventually emitting a blue shimmer and producing a noticable effect on any blows that they deal, or that are dealt to them. They also claim to hear a constant, almost imperceptible whisper when alone, but that's probably superstition."
-msgstr "This character has consumed a substance, now in their bloodstream, that emits a kinetic field. This field gets stronger as their health deteriorates, eventually emitting a blue shimmer and producing a noticable effect on any blows that they deal, or that are dealt to them. They also claim to hear a constant, almost imperceptible whisper when alone, but that's probably superstition."
+msgstr ""
 
 
 # scripts/skills/effects/possessing_undead_effect.nut
@@ -1519,12 +1519,12 @@ msgstr "力量真言药剂"
 
 # scripts/skills/effects/orc_warlord_potion_effect.nut
 msgid "Using orc weapons no longer imposes additional fatigue costs"
-msgstr "Using orc weapons no longer imposes additional fatigue costs"
+msgstr ""
 
 
 # scripts/skills/effects/orc_warlord_potion_effect.nut
 msgid "This character's limbic system has been altered with an additional substance that allows them to sustain particularly strenuous anaerobic activity for longer. Their skin seems vaguely greener than you remember, too, but you're sure that's a coincidence."
-msgstr "This character's limbic system has been altered with an additional substance that allows them to sustain particularly strenuous anaerobic activity for longer. Their skin seems vaguely greener than you remember, too, but you're sure that's a coincidence."
+msgstr ""
 
 
 # scripts/skills/effects/debilitated_effect.nut
@@ -1549,27 +1549,27 @@ msgstr "这个角色准备了一个削弱的攻击。 击中目标会暂时降�
 
 # scripts/skills/effects/ifrit_potion_effect.nut
 msgid "Stone Skin"
-msgstr "Stone Skin"
+msgstr ""
 
 
 # scripts/skills/effects/ifrit_potion_effect.nut
 msgid "]25[/color] points of natural armor"
-msgstr "]25[/color] points of natural armor"
+msgstr ""
 
 
 # scripts/skills/effects/ifrit_potion_effect.nut
 msgid "This character's skin is hard and stone-like, granting [color="
-msgstr "This character's skin is hard and stone-like, granting [color="
+msgstr ""
 
 
 # scripts/skills/effects/ifrit_potion_effect.nut
 msgid "This character's skin has mutated and now forms hard, rock-like patches that are much hardier and difficult to puncture. When broken, these patches will gradually reform in what is apparently a rather painful, uncomfortable process. You should tell them to stop picking at that scab."
-msgstr "This character's skin has mutated and now forms hard, rock-like patches that are much hardier and difficult to puncture. When broken, these patches will gradually reform in what is apparently a rather painful, uncomfortable process. You should tell them to stop picking at that scab."
+msgstr ""
 
 
 # scripts/skills/effects/lorekeeper_potion_effect.nut
 msgid "Lorekeeper's Rib Bone"
-msgstr "Lorekeeper's Rib Bone"
+msgstr ""
 
 
 # scripts/skills/effects/lorekeeper_potion_effect.nut
@@ -1579,7 +1579,7 @@ msgstr "每场战斗一次，在遭受致命伤害时抵抗该次伤害并恢复
 
 # scripts/skills/effects/lorekeeper_potion_effect.nut
 msgid "This character has had part of the Lorekeeper's skeleton fused into their body, and as a result possesses the ability to rapidly recover when delivered seemingly fatal wounds. Now if they could just make it through the night without screaming in their sleep..."
-msgstr "This character has had part of the Lorekeeper's skeleton fused into their body, and as a result possesses the ability to rapidly recover when delivered seemingly fatal wounds. Now if they could just make it through the night without screaming in their sleep..."
+msgstr ""
 
 
 # scripts/skills/effects/double_strike_effect.nut
@@ -1599,37 +1599,37 @@ msgstr "]+20%[/color] damage to a single target. 如果击中多个目标，只�
 
 # scripts/skills/effects/honor_guard_potion_effect.nut
 msgid "Subdermal Stitching"
-msgstr "Subdermal Stitching"
+msgstr ""
 
 
 # scripts/skills/effects/honor_guard_potion_effect.nut
 msgid "]25%[/color] and [color="
-msgstr "]25%[/color] and [color="
+msgstr ""
 
 
 # scripts/skills/effects/honor_guard_potion_effect.nut
 msgid "This character takes between [color="
-msgstr "This character takes between [color="
+msgstr ""
 
 
 # scripts/skills/effects/honor_guard_potion_effect.nut
 msgid "]50%[/color] less damage from piercing attacks, such as those from bows or spears"
-msgstr "]50%[/color] less damage from piercing attacks, such as those from bows or spears"
+msgstr ""
 
 
 # scripts/skills/effects/honor_guard_potion_effect.nut
 msgid "This character's skin and subdermal tissue has mutated and will rapidly stitch itself back together. The effect is most pronounced on small puncture wounds, where the flesh can seal the wound from all directions evenly."
-msgstr "This character's skin and subdermal tissue has mutated and will rapidly stitch itself back together. The effect is most pronounced on small puncture wounds, where the flesh can seal the wound from all directions evenly."
+msgstr ""
 
 
 # scripts/skills/effects/schrat_potion_effect.nut
 msgid "Flexile Ligaments"
-msgstr "Flexile Ligaments"
+msgstr ""
 
 
 # scripts/skills/effects/schrat_potion_effect.nut
 msgid "This character's legs have mutated to respond much more rapidly and powerfully to external force. As a practical matter, they can maintain their center of balance and respond to nearly any attempt to push them back or uproot them."
-msgstr "This character's legs have mutated to respond much more rapidly and powerfully to external force. As a practical matter, they can maintain their center of balance and respond to nearly any attempt to push them back or uproot them."
+msgstr ""
 
 
 # scripts/skills/effects/charmed_effect.nut
@@ -1654,7 +1654,7 @@ msgstr "将盾牌提升到保护姿态后，此角色获得更多防御。"
 
 # scripts/skills/effects/necromancer_potion_effect.nut
 msgid "Visions"
-msgstr "Visions"
+msgstr ""
 
 
 # scripts/skills/effects/necromancer_potion_effect.nut
@@ -1664,7 +1664,7 @@ msgstr "]+20%[/color] 经验获取"
 
 # scripts/skills/effects/necromancer_potion_effect.nut
 msgid "This character has strange visions of things that have been and things to come. While less than cheery around the campfire, it does seem to give them a certain ability to connect and internalize new experiences faster."
-msgstr "This character has strange visions of things that have been and things to come. While less than cheery around the campfire, it does seem to give them a certain ability to connect and internalize new experiences faster."
+msgstr ""
 
 
 # scripts/skills/effects/berserker_rage_effect.nut
@@ -1679,12 +1679,12 @@ msgstr "注意力分散"
 
 # scripts/skills/effects/distracted_effect.nut
 msgid "]-35%[/color] Damage"
-msgstr "]-35%[/color] Damage"
+msgstr ""
 
 
 # scripts/skills/effects/distracted_effect.nut
 msgid " regained his focus thanks to his unnatural physiology"
-msgstr " regained his focus thanks to his unnatural physiology"
+msgstr ""
 
 
 # scripts/skills/effects/distracted_effect.nut
@@ -1694,17 +1694,17 @@ msgstr "这个角色遭受了卑鄙伎俩。 Distracted for [color="
 
 # scripts/skills/effects/distracted_effect.nut
 msgid "[/color] more turn(s), they are slower to react and have a harder time landing clean strikes."
-msgstr "[/color] more turn(s), they are slower to react and have a harder time landing clean strikes."
+msgstr ""
 
 
 # scripts/skills/effects/antidote_effect.nut
 msgid "Immune to Poison"
-msgstr "Immune to Poison"
+msgstr ""
 
 
 # scripts/skills/effects/antidote_effect.nut
 msgid "This character has taken antidote and is immune to any kind of poison for another [color="
-msgstr "This character has taken antidote and is immune to any kind of poison for another [color="
+msgstr ""
 
 
 # scripts/skills/effects/riposte_effect.nut
@@ -1714,22 +1714,22 @@ msgstr "这个角色准备立即反击任何在近战中攻击他未命中的角
 
 # scripts/skills/effects/necrosavant_potion_effect.nut
 msgid "Heal [color="
-msgstr "Heal [color="
+msgstr ""
 
 
 # scripts/skills/effects/necrosavant_potion_effect.nut
 msgid "Parasitic Blood"
-msgstr "Parasitic Blood"
+msgstr ""
 
 
 # scripts/skills/effects/necrosavant_potion_effect.nut
 msgid "]25%[/color] of hitpoint damage inflicted on adjacent enemies that have blood"
-msgstr "]25%[/color] of hitpoint damage inflicted on adjacent enemies that have blood"
+msgstr ""
 
 
 # scripts/skills/effects/necrosavant_potion_effect.nut
 msgid "This character's body has the incredible ability to incorporate different blood types - or indeed, blood from entirely different creatures - into itself. This grants them remarkable healing via absorption of blood through skin pores (or more dramatically by drinking it directly)."
-msgstr "This character's body has the incredible ability to incorporate different blood types - or indeed, blood from entirely different creatures - into itself. This grants them remarkable healing via absorption of blood through skin pores (or more dramatically by drinking it directly)."
+msgstr ""
 
 
 # scripts/skills/effects/nachzehrer_potion_effect.nut
@@ -1744,12 +1744,12 @@ msgstr "所有伤残的恢复时长减少一天，最短一天"
 
 # scripts/skills/effects/nachzehrer_potion_effect.nut
 msgid "This character's body has mutated to regrow skin and muscle tissue much more quickly than normal. Deep injuries heal much faster than normal as a result. They also seem to have developed a strong taste for red meat, but that's probably unrelated."
-msgstr "This character's body has mutated to regrow skin and muscle tissue much more quickly than normal. Deep injuries heal much faster than normal as a result. They also seem to have developed a strong taste for red meat, but that's probably unrelated."
+msgstr ""
 
 
 # scripts/skills/effects/hyena_potion_effect.nut
 msgid "Subdermal Clotting"
-msgstr "Subdermal Clotting"
+msgstr ""
 
 
 # scripts/skills/effects/hyena_potion_effect.nut
@@ -1759,17 +1759,17 @@ msgstr "受到的流血伤害减少  [color="
 
 # scripts/skills/effects/hyena_potion_effect.nut
 msgid "When this character's skin is broken, a substance is secreted that drastically quickens the blood clotting process in the area. Bleeding wounds are much less harmful as a result, although some blood loss still occurs."
-msgstr "When this character's skin is broken, a substance is secreted that drastically quickens the blood clotting process in the area. Bleeding wounds are much less harmful as a result, although some blood loss still occurs."
+msgstr ""
 
 
 # scripts/skills/effects/wiederganger_potion_effect.nut
 msgid "Subdermal Reactivity"
-msgstr "Subdermal Reactivity"
+msgstr ""
 
 
 # scripts/skills/effects/wiederganger_potion_effect.nut
 msgid "It's just a flesh wound! This character's subdermal flesh has mutated and automatically reacts to sudden trauma, lessening the chance to suffer injuries in battle."
-msgstr "It's just a flesh wound! This character's subdermal flesh has mutated and automatically reacts to sudden trauma, lessening the chance to suffer injuries in battle."
+msgstr ""
 
 
 # scripts/skills/effects/hex_master_effect.nut
@@ -1779,11 +1779,11 @@ msgstr "妖法防护"
 
 # scripts/skills/effects/reforming_effect.nut
 msgid "Reforming"
-msgstr "Reforming"
+msgstr ""
 
 
 # scripts/skills/effects/reforming_effect.nut
 msgid "This character's flesh is reforming and they are temporarily incapacitated for [color="
-msgstr "This character's flesh is reforming and they are temporarily incapacitated for [color="
+msgstr ""
 
 

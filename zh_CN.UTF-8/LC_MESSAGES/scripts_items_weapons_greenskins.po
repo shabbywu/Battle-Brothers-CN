@@ -10,61 +10,61 @@ msgstr "]必须重新装填才能再次发射[/color]"
 
 # scripts/items/weapons/greenskins/goblin_pike.nut
 msgid "Polearm, Two-Handed"
-msgstr "Polearm, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/greenskins/goblin_spear.nut
 msgid "Spear, One-Handed"
-msgstr "Spear, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/greenskins/goblin_falchion.nut
 msgid "Sword, One-Handed"
-msgstr "Sword, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/greenskins/orc_axe.nut
 msgid "Axe, One-Handed"
-msgstr "Axe, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/greenskins/goblin_heavy_bow.nut
 # scripts/items/weapons/greenskins/goblin_bow.nut
 msgid "Bow, Two-Handed"
-msgstr "Bow, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/greenskins/orc_axe_2h.nut
 msgid "Axe, Two-Handed"
-msgstr "Axe, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/greenskins/goblin_spiked_balls.nut
 # scripts/items/weapons/greenskins/orc_javelin.nut
 msgid "Throwing Weapon, One-Handed"
-msgstr "Throwing Weapon, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/greenskins/orc_cleaver.nut
 msgid "Cleaver, One-Handed"
-msgstr "Cleaver, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/greenskins/orc_metal_club.nut
 # scripts/items/weapons/greenskins/orc_wooden_club.nut
 # scripts/items/weapons/greenskins/goblin_staff.nut
 msgid "Mace, One-Handed"
-msgstr "Mace, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/greenskins/goblin_crossbow.nut
 msgid "Crossbow, Two-Handed"
-msgstr "Crossbow, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/greenskins/orc_flail_2h.nut
 msgid "Flail, Two-Handed"
-msgstr "Flail, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/greenskins/orc_cleaver.nut
@@ -139,7 +139,7 @@ msgstr "有金属钉的小而重的铁球要投掷到目标上。"
 
 # scripts/items/weapons/greenskins/orc_flail_2h.nut
 msgid "Berserk Chain"
-msgstr "Berserk Chain"
+msgstr ""
 
 
 # scripts/items/weapons/greenskins/orc_flail_2h.nut
@@ -174,7 +174,7 @@ msgstr "齿痕刃片"
 
 # scripts/items/weapons/greenskins/goblin_notched_blade.nut
 msgid "Sword/Dagger, One-Handed"
-msgstr "Sword/Dagger, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/greenskins/goblin_notched_blade.nut
@@ -189,7 +189,7 @@ msgstr "一捆粗糙的标枪"
 
 # scripts/items/weapons/greenskins/orc_javelin.nut
 msgid "Bundle of Crude Javelins (Empty)"
-msgstr "Bundle of Crude Javelins (Empty)"
+msgstr ""
 
 
 # scripts/items/weapons/greenskins/orc_javelin.nut

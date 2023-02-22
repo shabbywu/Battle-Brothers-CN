@@ -1,12 +1,12 @@
 # scripts/items/accessory/cat_potion_item.nut
 msgid "State"
-msgstr "State"
+msgstr ""
 
 
 # scripts/items/accessory/oathtaker_skull_02_item.nut
 # scripts/items/accessory/sergeant_badge_item.nut
 msgid "]+10[/color] Resolve"
-msgstr "]+10[/color] Resolve"
+msgstr ""
 
 
 # scripts/items/accessory/berserker_mushrooms_item.nut
@@ -21,17 +21,17 @@ msgstr "如果心情允许，将以自信的士气开始战斗"
 
 # scripts/items/accessory/alp_trophy_item.nut
 msgid "]+5[/color] Resolve"
-msgstr "]+5[/color] Resolve"
+msgstr ""
 
 
 # scripts/items/accessory/cat_potion_item.nut
 msgid "]+20[/color] Initiative"
-msgstr "]+20[/color] Initiative"
+msgstr ""
 
 
 # scripts/items/accessory/lionheart_potion_item.nut
 msgid "]+20[/color] Resolve"
-msgstr "]+20[/color] Resolve"
+msgstr ""
 
 
 # scripts/items/accessory/recovery_potion_item.nut
@@ -41,12 +41,12 @@ msgstr "]+4[/color] 每回合疲劳恢复"
 
 # scripts/items/accessory/berserker_mushrooms_item.nut
 msgid "]-15[/color] Melee Defense"
-msgstr "]-15[/color] Melee Defense"
+msgstr ""
 
 
 # scripts/items/accessory/berserker_mushrooms_item.nut
 msgid "]-15[/color] Ranged Defense"
-msgstr "]-15[/color] Ranged Defense"
+msgstr ""
 
 
 # scripts/items/accessory/berserker_mushrooms_item.nut
@@ -81,7 +81,7 @@ msgstr "使用时摧毁"
 
 # scripts/items/accessory/accessory.nut
 msgid "Maximum Fatigue [color="
-msgstr "Maximum Fatigue [color="
+msgstr ""
 
 
 # scripts/items/accessory/orc_trophy_item.nut
@@ -101,17 +101,17 @@ msgstr "这条项链表明了一个穿着它身经百战的老兵对抗兽人的
 
 # scripts/items/accessory/warhound_item.nut
 msgid " the Warhound"
-msgstr " the Warhound"
+msgstr ""
 
 
 # scripts/items/accessory/warhound_item.nut
 msgid "Warhound Collar"
-msgstr "Warhound Collar"
+msgstr ""
 
 
 # scripts/items/accessory/warhound_item.nut
 msgid "Unleash Warhound"
-msgstr "Unleash Warhound"
+msgstr ""
 
 
 # scripts/items/accessory/warhound_item.nut
@@ -131,7 +131,7 @@ msgstr "来自北方的为战争而生的强壮又忠诚的狗。 可在战斗�
 
 # scripts/items/accessory/ghoul_trophy_item.nut
 msgid "]+4[/color] Resolve"
-msgstr "]+4[/color] Resolve"
+msgstr ""
 
 
 # scripts/items/accessory/ghoul_trophy_item.nut
@@ -201,7 +201,7 @@ msgstr "来自北方的为战争而生的强壮又忠诚的狗。 可在战斗�
 
 # scripts/items/accessory/hexen_trophy_item.nut
 msgid "]+6[/color] Resolve"
-msgstr "]+6[/color] Resolve"
+msgstr ""
 
 
 # scripts/items/accessory/hexen_trophy_item.nut
@@ -236,7 +236,7 @@ msgstr "初创者安瑟姆的颅骨，第一个宣誓者，和一个装有他骨
 
 # scripts/items/accessory/wardog_item.nut
 msgid " the Wardog"
-msgstr " the Wardog"
+msgstr ""
 
 
 # scripts/items/accessory/wardog_item.nut
@@ -276,7 +276,7 @@ msgstr "像猫一样敏捷！ 这种药水能增强你的感官，和提升你�
 
 # scripts/items/accessory/wolf_item.nut
 msgid " the Wolf"
-msgstr " the Wolf"
+msgstr ""
 
 
 # scripts/items/accessory/wolf_item.nut
@@ -301,7 +301,7 @@ msgstr "猎鹰"
 
 # scripts/items/accessory/falcon_item.nut
 msgid " (Released)"
-msgstr " (Released)"
+msgstr ""
 
 
 # scripts/items/accessory/falcon_item.nut
@@ -331,7 +331,7 @@ msgstr "附件位置损坏"
 
 # scripts/items/accessory/sergeant_badge_item.nut
 msgid "Sergeant's Sash"
-msgstr "Sergeant's Sash"
+msgstr ""
 
 
 # scripts/items/accessory/sergeant_badge_item.nut
@@ -341,7 +341,7 @@ msgstr "穿着绶带的战队军士，是你在战场上的副手。"
 
 # scripts/items/accessory/oathtaker_skull_01_item.nut
 msgid "]+7[/color] Resolve"
-msgstr "]+7[/color] Resolve"
+msgstr ""
 
 
 # scripts/items/accessory/oathtaker_skull_01_item.nut

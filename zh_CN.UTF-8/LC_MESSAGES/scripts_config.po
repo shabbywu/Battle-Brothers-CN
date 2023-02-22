@@ -1,6 +1,6 @@
 # scripts/config/tactical_particles.nut
 msgid "22222200"
-msgstr "22222200"
+msgstr ""
 
 
 # scripts/config/perks.nut
@@ -520,7 +520,7 @@ msgstr "你也是来找 %item% 的吗？据说它在 %direction% 的 %terrain%�
 
 # scripts/config/rumors.nut
 msgid "An opulent armor is said to be hidden out %terrain% %direction% from here. Many treasure seekers failed to claim it so far but maybe you have more luck?"
-msgstr "An opulent armor is said to be hidden out %terrain% %direction% from here. Many treasure seekers failed to claim it so far but maybe you have more luck?"
+msgstr ""
 
 
 # scripts/config/rumors.nut
@@ -665,7 +665,7 @@ msgstr "一个佣兵战队来这里猎杀野蛮人。首领挥舞着一把我从
 
 # scripts/config/rumors.nut
 msgid "Ghastly ghosts, empty graves, otherworldly mindless slaves!\nHave a glass, find a wench before your teeth will clench!\nKill the can, don't stay dry, three days until we die!"
-msgstr "Ghastly ghosts, empty graves, otherworldly mindless slaves!\nHave a glass, find a wench before your teeth will clench!\nKill the can, don't stay dry, three days until we die!"
+msgstr ""
 
 
 # scripts/config/rumors.nut
@@ -715,7 +715,7 @@ msgstr "听说一辆运送贵重仪式武器的商队在这里的 $1 被劫了�
 
 # scripts/config/rumors.nut
 msgid "All my life I've been hunting nomads across the borders %terrain%, but I never saw one wield a shield like this one before. It was %distance% to the %direction% at one of their camps."
-msgstr "All my life I've been hunting nomads across the borders %terrain%, but I never saw one wield a shield like this one before. It was %distance% to the %direction% at one of their camps."
+msgstr ""
 
 
 # scripts/config/rumors.nut
@@ -1005,7 +1005,7 @@ msgstr "你可能有兴趣知道昨晚我们镇外的老药剂师被抢劫了，
 
 # scripts/config/rumors.nut
 msgid "It's said that kobolds and goblins take a special interest in everything shiny. I never believed this to be true myself, but I repeatedly saw something glistening in the sun %terrain% %direction% from here and heard strange stories about short and stubby creatures roaming that area."
-msgstr "It's said that kobolds and goblins take a special interest in everything shiny. I never believed this to be true myself, but I repeatedly saw something glistening in the sun %terrain% %direction% from here and heard strange stories about short and stubby creatures roaming that area."
+msgstr ""
 
 
 # scripts/config/rumors.nut
@@ -1050,12 +1050,12 @@ msgstr "我原来是北方人，几年前刚搬到 %townname%。因为无法忍�
 
 # scripts/config/contracts.nut
 msgid "Contracts"
-msgstr "Contracts"
+msgstr ""
 
 
 # scripts/config/character_injuries.nut
 msgid "Injury"
-msgstr "Injury"
+msgstr ""
 
 
 # scripts/config/spawnlist_greenskin_invasion.nut
@@ -1082,7 +1082,7 @@ msgstr "Injury"
 # scripts/config/spawnlist_southern.nut
 # scripts/config/spawnlist_undead_scourge.nut
 msgid "World"
-msgstr "World"
+msgstr ""
 
 
 # scripts/config/spawnlist_greenskin_invasion.nut
@@ -1100,7 +1100,7 @@ msgstr "World"
 # scripts/config/spawnlist_southern.nut
 # scripts/config/spawnlist_undead_scourge.nut
 msgid "Spawn"
-msgstr "Spawn"
+msgstr ""
 
 
 # scripts/config/faction_southern.nut
@@ -1112,7 +1112,7 @@ msgstr "Spawn"
 # scripts/config/faction_barbarians.nut
 # scripts/config/faction_civilian.nut
 msgid "Actor"
-msgstr "Actor"
+msgstr ""
 
 
 # scripts/config/faction_southern.nut
@@ -1129,17 +1129,17 @@ msgstr "Actor"
 # scripts/config/faction_civilian.nut
 # scripts/config/tactical_particles.nut
 msgid "Tactical"
-msgstr "Tactical"
+msgstr ""
 
 
 # scripts/config/strings.nut
 msgid "a "
-msgstr "a "
+msgstr ""
 
 
 # scripts/config/strings.nut
 msgid "A "
-msgstr "A "
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -1234,7 +1234,7 @@ msgstr "1"
 
 # scripts/config/strings.nut
 msgid "an "
-msgstr "an "
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -1244,7 +1244,7 @@ msgstr "第5"
 
 # scripts/config/strings.nut
 msgid "An "
-msgstr "An "
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -1558,7 +1558,7 @@ msgstr "残忍的"
 
 # scripts/config/strings.nut
 msgid "5,000"
-msgstr "5,000"
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -1815,7 +1815,7 @@ msgstr "[color=#ff0000]森林[/color]"
 
 # scripts/config/strings.nut
 msgid "10,000"
-msgstr "10,000"
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -1891,7 +1891,7 @@ msgstr "海妖"
 
 # scripts/config/strings.nut
 msgid "20,000"
-msgstr "20,000"
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -2319,7 +2319,7 @@ msgstr "友谊赛"
 
 # scripts/config/strings.nut
 msgid "Froghold"
-msgstr "Froghold"
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -4012,7 +4012,7 @@ msgstr "猎犬沼泽"
 
 # scripts/config/strings.nut
 msgid "Oathbringer"
-msgstr "Oathbringer"
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -4178,7 +4178,7 @@ msgstr "坦普尔格罗夫"
 
 # scripts/config/strings.nut
 msgid "Oathbringers"
-msgstr "Oathbringers"
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -5248,7 +5248,7 @@ msgstr "蛇的隐秘"
 
 # scripts/config/strings.nut
 msgid "Beatroot Wilds"
-msgstr "Beatroot Wilds"
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -5923,7 +5923,7 @@ msgstr "耳语林"
 
 # scripts/config/strings.nut
 msgid "Froglickers Grove"
-msgstr "Froglickers Grove"
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -6713,7 +6713,7 @@ msgstr "平坦而坚实的地面覆盖着干枯的草。"
 
 # scripts/config/strings.nut
 msgid "]+10%[/color] of armor on head hits.\n\nThresh gains [color="
-msgstr "]+10%[/color] of armor on head hits.\n\nThresh gains [color="
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -6843,7 +6843,7 @@ msgstr "只要你下定决心，一切都可以学到。 从战斗中获得额�
 
 # scripts/config/strings.nut
 msgid "]20[/color] per turn, respectively.\n\nDisarm only has half the penalty to hit."
-msgstr "]20[/color] per turn, respectively.\n\nDisarm only has half the penalty to hit."
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -6883,7 +6883,7 @@ msgstr "精通弓箭和火器，并学习最佳瞄准位置。武器技能减少
 
 # scripts/config/strings.nut
 msgid "]30%[/color] when attacking at 2 tiles of distance.\n\nDamage is increased by [color="
-msgstr "]30%[/color] when attacking at 2 tiles of distance.\n\nDamage is increased by [color="
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -7013,7 +7013,7 @@ msgstr "解锁 '恢复' 技能，允许角色休息一回合，以减少累积�
 
 # scripts/config/strings.nut
 msgid "]20%[/color] of your Resolve - 10, as opposed to with no penalty and only if at or above 15 points of damage."
-msgstr "]20%[/color] of your Resolve - 10, as opposed to with no penalty and only if at or above 15 points of damage."
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -7023,7 +7023,7 @@ msgstr "精通剑术, 利用对手的失误逆风翻盘。武器技能减少 [co
 
 # scripts/config/strings.nut
 msgid "]25%[/color] less Fatigue.\n\nLash and Hail ignore the defense bonus of shields.\n\nPound ignores an additional [color="
-msgstr "]25%[/color] less Fatigue.\n\nLash and Hail ignore the defense bonus of shields.\n\nPound ignores an additional [color="
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -7038,7 +7038,7 @@ msgstr "射得好! 对远程武器来说，当你向一个未进入肉搏战的�
 
 # scripts/config/strings.nut
 msgid "]50%[/color] lower threshold to inflict injuries.\n\nSplit and Swing no longer have a penalty to hitchance and gain [color="
-msgstr "]50%[/color] lower threshold to inflict injuries.\n\nSplit and Swing no longer have a penalty to hitchance and gain [color="
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -7163,7 +7163,7 @@ msgstr "]1[/color](但每个单元格至少需要 2 个行动点)，疲劳消耗
 
 # scripts/config/strings.nut
 msgid "Go for the head! Hitting the head of a target will give you a guaranteed hit to the head also with your next attack. Connecting with your hit will reset the effect."
-msgstr "Go for the head! Hitting the head of a target will give you a guaranteed hit to the head also with your next attack. Connecting with your hit will reset the effect."
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -7213,7 +7213,7 @@ msgstr "] 15 [/color]时会技能效果会大幅下降。你的盔甲和头盔�
 
 # scripts/config/strings.nut
 msgid "Unlocks the 'Rally' skill which can rally fleeing allies, and raise morale of all nearby allies to a steady level. The higher the Resolve of the character using the skill, the higher the chance to succeed."
-msgstr "Unlocks the 'Rally' skill which can rally fleeing allies, and raise morale of all nearby allies to a steady level. The higher the Resolve of the character using the skill, the higher the chance to succeed."
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -7248,7 +7248,7 @@ msgstr "每场战斗一次，在受到致命一击后，在剩余生命值的情
 
 # scripts/config/strings.nut
 msgid "]25%[/color] less Fatigue.\n\nSpearwall is no longer disabled once an opponent manages to overcome it. Instead, Spearwall can still be used and continues to give free attacks on any further opponent attempting to enter the Zone of Control.\n\nThe Spetum and Warfork no longer have a penalty for attacking targets directly adjacent."
-msgstr "]25%[/color] less Fatigue.\n\nSpearwall is no longer disabled once an opponent manages to overcome it. Instead, Spearwall can still be used and continues to give free attacks on any further opponent attempting to enter the Zone of Control.\n\nThe Spetum and Warfork no longer have a penalty for attacking targets directly adjacent."
+msgstr ""
 
 
 # scripts/config/strings.nut
@@ -7263,7 +7263,7 @@ msgstr "你沉浸在凉爽的早晨空气中。随着太阳慢慢升起，你生
 
 # scripts/config/spawnlist_master.nut
 msgid "The King of the North"
-msgstr "The King of the North"
+msgstr ""
 
 
 # scripts/config/item_names.nut
@@ -10519,7 +10519,7 @@ msgstr "“独狼”特技不会受到附近的狗或不属于你战队的盟友
 
 # scripts/config/tip_of_the_day.nut
 msgid "Consider that enemy encampments on hills are harder to assault, especially if they are fortified."
-msgstr "Consider that enemy encampments on hills are harder to assault, especially if they are fortified."
+msgstr ""
 
 
 # scripts/config/tip_of_the_day.nut
@@ -10591,63 +10591,63 @@ msgstr "如果一个角色等待他们的回合，他们在下一轮的回合顺
 # scripts/config/tactical_skill_particles.nut
 # scripts/config/tactical_particles.nut
 msgid "ffffffff"
-msgstr "ffffffff"
+msgstr ""
 
 
 # scripts/config/world_particles.nut
 # scripts/config/tactical_skill_particles.nut
 # scripts/config/tactical_particles.nut
 msgid "ffffff00"
-msgstr "ffffff00"
+msgstr ""
 
 
 # scripts/config/world_particles.nut
 # scripts/config/tactical_skill_particles.nut
 # scripts/config/tactical_particles.nut
 msgid "fec19fff"
-msgstr "fec19fff"
+msgstr ""
 
 
 # scripts/config/world_particles.nut
 # scripts/config/tactical_skill_particles.nut
 # scripts/config/tactical_particles.nut
 msgid "ffe7cf00"
-msgstr "ffe7cf00"
+msgstr ""
 
 
 # scripts/config/world_particles.nut
 # scripts/config/tactical_skill_particles.nut
 # scripts/config/tactical_particles.nut
 msgid "fc6a52f0"
-msgstr "fc6a52f0"
+msgstr ""
 
 
 # scripts/config/world_particles.nut
 # scripts/config/tactical_skill_particles.nut
 # scripts/config/tactical_particles.nut
 msgid "fcaa52f0"
-msgstr "fcaa52f0"
+msgstr ""
 
 
 # scripts/config/world_particles.nut
 # scripts/config/tactical_skill_particles.nut
 # scripts/config/tactical_particles.nut
 msgid "ff813dff"
-msgstr "ff813dff"
+msgstr ""
 
 
 # scripts/config/world_particles.nut
 # scripts/config/tactical_skill_particles.nut
 # scripts/config/tactical_particles.nut
 msgid "ffeacf00"
-msgstr "ffeacf00"
+msgstr ""
 
 
 # scripts/config/world_particles.nut
 # scripts/config/tactical_skill_particles.nut
 # scripts/config/tactical_particles.nut
 msgid "d8380000"
-msgstr "d8380000"
+msgstr ""
 
 
 # scripts/config/character_heads.nut
@@ -10657,200 +10657,200 @@ msgstr "发型"
 
 # scripts/config/character_heads.nut
 msgid "Faces"
-msgstr "Faces"
+msgstr ""
 
 
 # scripts/config/character_heads.nut
 msgid "Beards"
-msgstr "Beards"
+msgstr ""
 
 
 # scripts/config/character_heads.nut
 msgid "Bodies"
-msgstr "Bodies"
+msgstr ""
 
 
 # scripts/config/character_heads.nut
 msgid "Tattoos"
-msgstr "Tattoos"
+msgstr ""
 
 
 # scripts/config/world.nut
 msgid "undefined road brush"
-msgstr "undefined road brush"
+msgstr ""
 
 
 # scripts/config/world.nut
 msgid "undefined river brush"
-msgstr "undefined river brush"
+msgstr ""
 
 
 # scripts/config/world.nut
 msgid "undefined shore brush"
-msgstr "undefined shore brush"
+msgstr ""
 
 
 # scripts/config/world.nut
 msgid "Road Brush undefined ("
-msgstr "Road Brush undefined ("
+msgstr ""
 
 
 # scripts/config/world.nut
 msgid "River Brush undefined!"
-msgstr "River Brush undefined!"
+msgstr ""
 
 
 # scripts/config/world.nut
 msgid "Shore Brush undefined!"
-msgstr "Shore Brush undefined!"
+msgstr ""
 
 
 # scripts/config/world.nut
 msgid "undefined bridge brush"
-msgstr "undefined bridge brush"
+msgstr ""
 
 
 # scripts/config/world.nut
 msgid "Bridge Brush undefined!"
-msgstr "Bridge Brush undefined!"
+msgstr ""
 
 
 # scripts/config/world.nut
 msgid "undefined crossing brush"
-msgstr "undefined crossing brush"
+msgstr ""
 
 
 # scripts/config/world.nut
 msgid "Crossing Brush undefined!"
-msgstr "Crossing Brush undefined!"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "4cccf300"
-msgstr "4cccf300"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "ffffff1f"
-msgstr "ffffff1f"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "ffffff9d"
-msgstr "ffffff9d"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "ffffffbf"
-msgstr "ffffffbf"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "9d821700"
-msgstr "9d821700"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "031c027f"
-msgstr "031c027f"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "9d82172d"
-msgstr "9d82172d"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "031c02ff"
-msgstr "031c02ff"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 # scripts/config/tactical_particles.nut
 msgid "eeeeee00"
-msgstr "eeeeee00"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "f5e6aa00"
-msgstr "f5e6aa00"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "fffffff0"
-msgstr "fffffff0"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "000000ff"
-msgstr "000000ff"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "ffffff30"
-msgstr "ffffff30"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "0000007f"
-msgstr "0000007f"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "4cccf39d"
-msgstr "4cccf39d"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "ffffff3f"
-msgstr "ffffff3f"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "f5e6aa2d"
-msgstr "f5e6aa2d"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "00000000"
-msgstr "00000000"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "031c0200"
-msgstr "031c0200"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 # scripts/config/tactical_particles.nut
 msgid "eeeeeeee"
-msgstr "eeeeeeee"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "9d82174f"
-msgstr "9d82174f"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 msgid "f5e6aa4f"
-msgstr "f5e6aa4f"
+msgstr ""
 
 
 # scripts/config/tactical_skill_particles.nut
 # scripts/config/tactical_particles.nut
 msgid "fffffff00"
-msgstr "fffffff00"
+msgstr ""
 
 
 # scripts/config/world_settlements.nut
 msgid "Settlements"
-msgstr "Settlements"
+msgstr ""
 
 
 # scripts/config/world_parties.nut
 msgid "Party"
-msgstr "Party"
+msgstr ""
 
 
 # scripts/config/options.nut
@@ -10860,22 +10860,22 @@ msgstr "选项"
 
 # scripts/config/tactical.nut
 msgid "#222222"
-msgstr "#222222"
+msgstr ""
 
 
 # scripts/config/tactical.nut
 msgid "#f5f0e1"
-msgstr "#f5f0e1"
+msgstr ""
 
 
 # scripts/config/tactical.nut
 msgid "#9ba5ad"
-msgstr "#9ba5ad"
+msgstr ""
 
 
 # scripts/config/tactical.nut
 msgid "#330000"
-msgstr "#330000"
+msgstr ""
 
 
 # scripts/config/tactical.nut
@@ -10883,77 +10883,77 @@ msgstr "#330000"
 # scripts/config/items.nut
 # scripts/config/character.nut
 msgid "#ffffff"
-msgstr "#ffffff"
+msgstr ""
 
 
 # scripts/config/tactical.nut
 msgid "#666666"
-msgstr "#666666"
+msgstr ""
 
 
 # scripts/config/tactical.nut
 msgid "#6c96d7"
-msgstr "#6c96d7"
+msgstr ""
 
 
 # scripts/config/tactical.nut
 msgid "#c3cbd0"
-msgstr "#c3cbd0"
+msgstr ""
 
 
 # scripts/config/tactical.nut
 msgid "Default"
-msgstr "Default"
+msgstr ""
 
 
 # scripts/config/tactical.nut
 msgid "#eeeeee"
-msgstr "#eeeeee"
+msgstr ""
 
 
 # scripts/config/tactical.nut
 msgid "#d0deed"
-msgstr "#d0deed"
+msgstr ""
 
 
 # scripts/config/tactical.nut
 msgid "#ffc092"
-msgstr "#ffc092"
+msgstr ""
 
 
 # scripts/config/tactical.nut
 msgid "#f8c3be"
-msgstr "#f8c3be"
+msgstr ""
 
 
 # scripts/config/tactical.nut
 msgid "#cae7f8"
-msgstr "#cae7f8"
+msgstr ""
 
 
 # scripts/config/tactical.nut
 msgid "#e0e8ef"
-msgstr "#e0e8ef"
+msgstr ""
 
 
 # scripts/config/tactical.nut
 msgid "#b0c7f4"
-msgstr "#b0c7f4"
+msgstr ""
 
 
 # scripts/config/tactical.nut
 msgid "]-25%[/color] Melee Skill"
-msgstr "]-25%[/color] Melee Skill"
+msgstr ""
 
 
 # scripts/config/tactical.nut
 msgid "]-25%[/color] Melee Defense"
-msgstr "]-25%[/color] Melee Defense"
+msgstr ""
 
 
 # scripts/config/tactical.nut
 msgid "]-25%[/color] Ranged Defense"
-msgstr "]-25%[/color] Ranged Defense"
+msgstr ""
 
 
 # scripts/config/faction_traits_archetypes.nut
@@ -13399,7 +13399,7 @@ msgstr "岩石"
 
 # scripts/config/character_names.nut
 msgid "Barsobis"
-msgstr "Barsobis"
+msgstr ""
 
 
 # scripts/config/character_names.nut
@@ -13459,7 +13459,7 @@ msgstr "狮子"
 
 # scripts/config/character_names.nut
 msgid "Telephos"
-msgstr "Telephos"
+msgstr ""
 
 
 # scripts/config/character_names.nut
@@ -15294,7 +15294,7 @@ msgstr "旋风"
 
 # scripts/config/character_names.nut
 msgid "The Oathkeeper"
-msgstr "The Oathkeeper"
+msgstr ""
 
 
 # scripts/config/character_names.nut
@@ -15444,7 +15444,7 @@ msgstr "不败者"
 
 # scripts/config/character_names.nut
 msgid "Anselm's Sword"
-msgstr "Anselm's Sword"
+msgstr ""
 
 
 # scripts/config/character_names.nut
@@ -15489,7 +15489,7 @@ msgstr "银棍"
 
 # scripts/config/character_names.nut
 msgid "Anselm's Shield"
-msgstr "Anselm's Shield"
+msgstr ""
 
 
 # scripts/config/character_names.nut
@@ -15579,7 +15579,7 @@ msgstr "尘埃舞者"
 
 # scripts/config/character_names.nut
 msgid "Anselm's Hammer"
-msgstr "Anselm's Hammer"
+msgstr ""
 
 
 # scripts/config/character_names.nut
@@ -15904,7 +15904,7 @@ msgstr "蜂蜜酒罐·%randomname%"
 
 # scripts/config/character_names.nut
 msgid "Anselm's Stolen Valor"
-msgstr "Anselm's Stolen Valor"
+msgstr ""
 
 
 # scripts/config/character_names.nut
@@ -15939,7 +15939,7 @@ msgstr "%randomname%·蛇"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Pious"
-msgstr "%randomname% the Pious"
+msgstr ""
 
 
 # scripts/config/character_names.nut
@@ -16034,7 +16034,7 @@ msgstr "沙滩王子"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Zealot"
-msgstr "%randomname% the Zealot"
+msgstr ""
 
 
 # scripts/config/character_names.nut
@@ -16069,7 +16069,7 @@ msgstr "阿尔塔拉布卢西伊本阿斯巴特"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Paladin"
-msgstr "%randomname% the Paladin"
+msgstr ""
 
 
 # scripts/config/character_names.nut
@@ -16094,7 +16094,7 @@ msgstr "天灾·%randomname%"
 
 # scripts/config/character_names.nut
 msgid "%randomname% Featherdraw"
-msgstr "%randomname% Featherdraw"
+msgstr ""
 
 
 # scripts/config/character_names.nut
@@ -16114,12 +16114,12 @@ msgstr "通缉犯·Thohochoth"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Devoted"
-msgstr "%randomname% the Devoted"
+msgstr ""
 
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Crusader"
-msgstr "%randomname% the Crusader"
+msgstr ""
 
 
 # scripts/config/character_names.nut
@@ -16154,7 +16154,7 @@ msgstr "%randomname% 叛教者"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Righteous"
-msgstr "%randomname% the Righteous"
+msgstr ""
 
 
 # scripts/config/character_names.nut
@@ -16164,7 +16164,7 @@ msgstr "%randomtown% 的威胁"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Oathsworn"
-msgstr "%randomname% the Oathsworn"
+msgstr ""
 
 
 # scripts/config/character_names.nut
@@ -16209,12 +16209,12 @@ msgstr "%randomname% 死灵法师"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Oathbringer"
-msgstr "%randomname% the Oathbringer"
+msgstr ""
 
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Enlightened"
-msgstr "%randomname% the Enlightened"
+msgstr ""
 
 
 # scripts/config/character_names.nut
@@ -16359,82 +16359,82 @@ msgstr "闪亮边缘·%randomsouthernname%"
 
 # scripts/config/credits.nut
 msgid "BATTLE BROTHERS\n\n\nDEVELOPED BY\nOverhype Studios\n\n\nBATTLE BROTHERS DEVELOPMENT TEAM\n\n\nGAME DESIGN\nChristof Schmidt\nJan Taaks\nPaul Taaks\n\n\nART\nPaul Taaks\n\n\nPROGRAMMING\nChristof Schmidt\n\n\nADDITIONAL PROGRAMMING\nJesse Cooper\n\n\nPRODUCTION\nJan Taaks\n\n\nWRITING\nCasey Hollingshead\n\n\nADDITIONAL WRITING\nChristof Schmidt\nScott Hamm\n\n\nMUSIC\nPatrick Delaney (Breakdown Epiphanies)\nDennis Meyer (Breakdown Epiphanies)\n\n\nSOUND DESIGN\nMorten Barfod Soegaard (MBS Sounddesign)\nTroels Kristensen (AudioNation ApS)\n\n\nADDITIONAL SOUND DESIGN\nLucien McRobbie\nMichael Klier\nBreakdown Epiphanies\nJan Taaks\n\n\nTRAILER VIDEOS\nMarlon Wiebe\nJaleo PR\nBreakdown Epiphanies\n\n\nSPECIAL THANKS FROM THE DEVELOPMENT TEAM TO\nOur girlfriends and wives for their support throughout the years of development\nJochen Taaks\nAbel aka Vilain Joueur\nHeron\nJC Sato\nJoachim 'Lovegun' Roderfeld\nJohan Nagstrup\nKrzysztof Kielczewski\nMarius Ovidiu Voinescu\nSimone Bucciarelli (They Live)\nsuejak\nS. Quartermaine\nTrappist\nturtle225\nVasilisa 'Dialetheia' Prince\nWillsama974\nThomas Fischer and the team at BeamNG\nTyler Sigman from Red Hook Studios\nTom Giardino and the Steam team at Valve\nAll of our dedicated Early Access players for their support and feedback\nThe RPG Codex crowd\n\n\n\n\nBATTLE BROTHERS\nCopyright 2015 - 2022 Overhype Studios UG\nAll rights reserved"
-msgstr "BATTLE BROTHERS\n\n\nDEVELOPED BY\nOverhype Studios\n\n\nBATTLE BROTHERS DEVELOPMENT TEAM\n\n\nGAME DESIGN\nChristof Schmidt\nJan Taaks\nPaul Taaks\n\n\nART\nPaul Taaks\n\n\nPROGRAMMING\nChristof Schmidt\n\n\nADDITIONAL PROGRAMMING\nJesse Cooper\n\n\nPRODUCTION\nJan Taaks\n\n\nWRITING\nCasey Hollingshead\n\n\nADDITIONAL WRITING\nChristof Schmidt\nScott Hamm\n\n\nMUSIC\nPatrick Delaney (Breakdown Epiphanies)\nDennis Meyer (Breakdown Epiphanies)\n\n\nSOUND DESIGN\nMorten Barfod Soegaard (MBS Sounddesign)\nTroels Kristensen (AudioNation ApS)\n\n\nADDITIONAL SOUND DESIGN\nLucien McRobbie\nMichael Klier\nBreakdown Epiphanies\nJan Taaks\n\n\nTRAILER VIDEOS\nMarlon Wiebe\nJaleo PR\nBreakdown Epiphanies\n\n\nSPECIAL THANKS FROM THE DEVELOPMENT TEAM TO\nOur girlfriends and wives for their support throughout the years of development\nJochen Taaks\nAbel aka Vilain Joueur\nHeron\nJC Sato\nJoachim 'Lovegun' Roderfeld\nJohan Nagstrup\nKrzysztof Kielczewski\nMarius Ovidiu Voinescu\nSimone Bucciarelli (They Live)\nsuejak\nS. Quartermaine\nTrappist\nturtle225\nVasilisa 'Dialetheia' Prince\nWillsama974\nThomas Fischer and the team at BeamNG\nTyler Sigman from Red Hook Studios\nTom Giardino and the Steam team at Valve\nAll of our dedicated Early Access players for their support and feedback\nThe RPG Codex crowd\n\n\n\n\nBATTLE BROTHERS\nCopyright 2015 - 2022 Overhype Studios UG\nAll rights reserved"
+msgstr ""
 
 
 # scripts/config/factions.nut
 msgid "#b75a00"
-msgstr "#b75a00"
+msgstr ""
 
 
 # scripts/config/factions.nut
 msgid "#bd00c4"
-msgstr "#bd00c4"
+msgstr ""
 
 
 # scripts/config/factions.nut
 msgid "#1aa83f"
-msgstr "#1aa83f"
+msgstr ""
 
 
 # scripts/config/factions.nut
 msgid "#ff9595"
-msgstr "#ff9595"
+msgstr ""
 
 
 # scripts/config/factions.nut
 msgid "#e57878"
-msgstr "#e57878"
+msgstr ""
 
 
 # scripts/config/factions.nut
 msgid "#ababab"
-msgstr "#ababab"
+msgstr ""
 
 
 # scripts/config/factions.nut
 msgid "#537117"
-msgstr "#537117"
+msgstr ""
 
 
 # scripts/config/factions.nut
 msgid "#c72727"
-msgstr "#c72727"
+msgstr ""
 
 
 # scripts/config/factions.nut
 msgid "#02dc1b"
-msgstr "#02dc1b"
+msgstr ""
 
 
 # scripts/config/items.nut
 msgid "Items"
-msgstr "Items"
+msgstr ""
 
 
 # scripts/config/items.nut
 msgid "#ffea00"
-msgstr "#ffea00"
+msgstr ""
 
 
 # scripts/config/items.nut
 msgid "#ff1e00"
-msgstr "#ff1e00"
+msgstr ""
 
 
 # scripts/config/items.nut
 msgid "#c0ff00"
-msgstr "#c0ff00"
+msgstr ""
 
 
 # scripts/config/items.nut
 msgid "#ff8400"
-msgstr "#ff8400"
+msgstr ""
 
 
 # scripts/config/items.nut
 msgid "Generic Item"
-msgstr "Generic Item"
+msgstr ""
 
 
 # scripts/config/world_location_names.nut
@@ -16624,7 +16624,7 @@ msgstr "韦德诺"
 
 # scripts/config/world_location_names.nut
 msgid "Location"
-msgstr "Location"
+msgstr ""
 
 
 # scripts/config/world_location_names.nut
@@ -17899,7 +17899,7 @@ msgstr "死亡绿洲营地"
 
 # scripts/config/world_location_names.nut
 msgid "Raiders Retreat"
-msgstr "Raiders Retreat"
+msgstr ""
 
 
 # scripts/config/world_location_names.nut
@@ -18344,7 +18344,7 @@ msgstr "荒野哨塔"
 
 # scripts/config/world_location_names.nut
 msgid "Barbarian Outpost"
-msgstr "Barbarian Outpost"
+msgstr ""
 
 
 # scripts/config/world_location_names.nut
@@ -19214,7 +19214,7 @@ msgstr "千矛营地"
 
 # scripts/config/world_location_names.nut
 msgid "Ancestor's Last Rest"
-msgstr "Ancestor's Last Rest"
+msgstr ""
 
 
 # scripts/config/world_location_names.nut
@@ -19539,7 +19539,7 @@ msgstr "沙漠掠夺者前哨站"
 
 # scripts/config/world_location_names.nut
 msgid "Den of Unnamed Horrors"
-msgstr "Den of Unnamed Horrors"
+msgstr ""
 
 
 # scripts/config/world_location_names.nut
@@ -19779,7 +19779,7 @@ msgstr "古老统治者的陵墓"
 
 # scripts/config/world_location_names.nut
 msgid "Camp of the Slavetakers"
-msgstr "Camp of the Slavetakers"
+msgstr ""
 
 
 # scripts/config/world_location_names.nut
@@ -19979,7 +19979,7 @@ msgstr "饥渴力量窝点"
 
 # scripts/config/world_location_names.nut
 msgid "Fortified Barbarian Huts"
-msgstr "Fortified Barbarian Huts"
+msgstr ""
 
 
 # scripts/config/world_location_names.nut
@@ -20019,7 +20019,7 @@ msgstr "黑暗力量之环"
 
 # scripts/config/world_location_names.nut
 msgid "Church of the Dark Priest"
-msgstr "Church of the Dark Priest"
+msgstr ""
 
 
 # scripts/config/world_location_names.nut
@@ -20129,7 +20129,7 @@ msgstr "被遗忘的伐木工小屋"
 
 # scripts/config/world_location_names.nut
 msgid "Secret Chambers of Insanity"
-msgstr "Secret Chambers of Insanity"
+msgstr ""
 
 
 # scripts/config/world_location_names.nut
@@ -20219,7 +20219,7 @@ msgstr "稳定"
 
 # scripts/config/character.nut
 msgid "#600a0a"
-msgstr "#600a0a"
+msgstr ""
 
 
 # scripts/config/character.nut
@@ -20244,7 +20244,7 @@ msgstr "满意"
 
 # scripts/config/character.nut
 msgid "#490a03"
-msgstr "#490a03"
+msgstr ""
 
 
 # scripts/config/character.nut
@@ -20394,76 +20394,76 @@ msgstr "的士气现在是稳定的"
 
 # scripts/config/tactical_particles.nut
 msgid "559ef700"
-msgstr "559ef700"
+msgstr ""
 
 
 # scripts/config/tactical_particles.nut
 msgid "ffffffef"
-msgstr "ffffffef"
+msgstr ""
 
 
 # scripts/config/tactical_particles.nut
 msgid "c4dcf9f0"
-msgstr "c4dcf9f0"
+msgstr ""
 
 
 # scripts/config/tactical_particles.nut
 msgid "ffffff7f"
-msgstr "ffffff7f"
+msgstr ""
 
 
 # scripts/config/tactical_particles.nut
 msgid "f8fbffff"
-msgstr "f8fbffff"
+msgstr ""
 
 
 # scripts/config/tactical_particles.nut
 msgid "ddecffff"
-msgstr "ddecffff"
+msgstr ""
 
 
 # scripts/config/tactical_particles.nut
 msgid "f8fbff00"
-msgstr "f8fbff00"
+msgstr ""
 
 
 # scripts/config/tactical_particles.nut
 msgid "222222ff"
-msgstr "222222ff"
+msgstr ""
 
 
 # scripts/config/tactical_particles.nut
 msgid "ffffffe0"
-msgstr "ffffffe0"
+msgstr ""
 
 
 # scripts/config/tactical_particles.nut
 msgid "3a89e900"
-msgstr "3a89e900"
+msgstr ""
 
 
 # scripts/config/tactical_particles.nut
 msgid "ffffff2f"
-msgstr "ffffff2f"
+msgstr ""
 
 
 # scripts/config/tactical_particles.nut
 msgid "ffffffed"
-msgstr "ffffffed"
+msgstr ""
 
 
 # scripts/config/tactical_particles.nut
 msgid "8abbf8f0"
-msgstr "8abbf8f0"
+msgstr ""
 
 
 # scripts/config/tactical_particles.nut
 msgid "fffffffe0"
-msgstr "fffffffe0"
+msgstr ""
 
 
 # scripts/config/tactical_particles.nut
 msgid "ffffffff0"
-msgstr "ffffffff0"
+msgstr ""
 
 

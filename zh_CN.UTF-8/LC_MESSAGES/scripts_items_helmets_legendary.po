@@ -1,26 +1,26 @@
 # scripts/items/helmets/legendary/ijirok_helmet.nut
 msgid " points"
-msgstr " points"
+msgstr ""
 
 
 # scripts/items/helmets/legendary/ijirok_helmet.nut
 msgid " heals for "
-msgstr " heals for "
+msgstr ""
 
 
 # scripts/items/helmets/legendary/ijirok_helmet.nut
 msgid "Heals [color="
-msgstr "Heals [color="
+msgstr ""
 
 
 # scripts/items/helmets/legendary/mask_of_davkul.nut
 msgid "Regenerates itself by [color="
-msgstr "Regenerates itself by [color="
+msgstr ""
 
 
 # scripts/items/helmets/legendary/emperors_countenance.nut
 msgid "Reflects [color="
-msgstr "Reflects [color="
+msgstr ""
 
 
 # scripts/items/helmets/legendary/emperors_countenance.nut
@@ -30,7 +30,7 @@ msgstr "帝王尊容"
 
 # scripts/items/helmets/legendary/emperors_countenance.nut
 msgid "]25%[/color] of damage taken in melee back to the attacker"
-msgstr "]25%[/color] of damage taken in melee back to the attacker"
+msgstr ""
 
 
 # scripts/items/helmets/legendary/emperors_countenance.nut
@@ -45,7 +45,7 @@ msgstr "达库尔的凝视"
 
 # scripts/items/helmets/legendary/mask_of_davkul.nut
 msgid "]90[/color] points of durability each turn."
-msgstr "]90[/color] points of durability each turn."
+msgstr ""
 
 
 # scripts/items/helmets/legendary/mask_of_davkul.nut
@@ -60,7 +60,7 @@ msgstr "伊吉罗克头盔"
 
 # scripts/items/helmets/legendary/ijirok_helmet.nut
 msgid "]10[/color] hitpoints of the wearer each turn"
-msgstr "]10[/color] hitpoints of the wearer each turn"
+msgstr ""
 
 
 # scripts/items/helmets/legendary/ijirok_helmet.nut

@@ -37,7 +37,7 @@ msgstr "甲壳"
 
 # scripts/items/armor/named/named_armor.nut
 msgid "'s "
-msgstr "'s "
+msgstr ""
 
 
 # scripts/items/armor/named/lindwurm_armor.nut
@@ -129,17 +129,17 @@ msgstr "一种精心制作的硬化皮革盔甲，由加垫的软甲和链甲支
 
 # scripts/items/armor/named/named_skull_and_chain_armor.nut
 msgid "Tribal Hide"
-msgstr "Tribal Hide"
+msgstr ""
 
 
 # scripts/items/armor/named/named_skull_and_chain_armor.nut
 msgid "Barbarian Coat"
-msgstr "Barbarian Coat"
+msgstr ""
 
 
 # scripts/items/armor/named/named_skull_and_chain_armor.nut
 msgid "Barbarian Pelt"
-msgstr "Barbarian Pelt"
+msgstr ""
 
 
 # scripts/items/armor/named/named_skull_and_chain_armor.nut
@@ -149,7 +149,7 @@ msgstr "扫气装甲"
 
 # scripts/items/armor/named/named_skull_and_chain_armor.nut
 msgid "Primitive Harness"
-msgstr "Primitive Harness"
+msgstr ""
 
 
 # scripts/items/armor/named/named_skull_and_chain_armor.nut

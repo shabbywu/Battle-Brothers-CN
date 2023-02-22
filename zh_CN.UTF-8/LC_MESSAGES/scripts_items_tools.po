@@ -1,7 +1,7 @@
 # scripts/items/tools/holy_water_item.nut
 # scripts/items/tools/acid_flask_item.nut
 msgid "Has a [color="
-msgstr "Has a [color="
+msgstr ""
 
 
 # scripts/items/tools/holy_water_item.nut
@@ -17,27 +17,27 @@ msgstr "]33%[/color] 命中几率 bystanders at the same or lower height level a
 # scripts/items/tools/reinforced_throwing_net.nut
 # scripts/items/tools/fire_bomb_item.nut
 msgid "[/color] tiles"
-msgstr "[/color] tiles"
+msgstr ""
 
 
 # scripts/items/tools/smoke_bomb_item.nut
 msgid "Covers [color="
-msgstr "Covers [color="
+msgstr ""
 
 
 # scripts/items/tools/smoke_bomb_item.nut
 msgid "]7[/color] tiles in smoke for one round, allowing anyone inside to move freely and ignore zones of control"
-msgstr "]7[/color] tiles in smoke for one round, allowing anyone inside to move freely and ignore zones of control"
+msgstr ""
 
 
 # scripts/items/tools/daze_bomb_item.nut
 msgid "]7[/color] targets the Dazed status effect for 2 turns"
-msgstr "]7[/color] targets the Dazed status effect for 2 turns"
+msgstr ""
 
 
 # scripts/items/tools/acid_flask_item.nut
 msgid "Reduces the target's armor by [color="
-msgstr "Reduces the target's armor by [color="
+msgstr ""
 
 
 # scripts/items/tools/faction_banner.nut
@@ -70,7 +70,7 @@ msgstr "放在副手"
 # scripts/items/tools/reinforced_throwing_net.nut
 # scripts/items/tools/fire_bomb_item.nut
 msgid "Range of [color="
-msgstr "Range of [color="
+msgstr ""
 
 
 # scripts/items/tools/daze_bomb_item.nut
@@ -86,7 +86,7 @@ msgstr "使用时摧毁"
 
 # scripts/items/tools/daze_bomb_item.nut
 msgid "Will give up to [color="
-msgstr "Will give up to [color="
+msgstr ""
 
 
 # scripts/items/tools/daze_bomb_item.nut
@@ -96,7 +96,7 @@ msgstr "一个装满神秘火药的一次性罐子，在撞击时会发生剧烈
 
 # scripts/items/tools/holy_water_item.nut
 msgid "weapon.holy Water"
-msgstr "weapon.holy Water"
+msgstr ""
 
 
 # scripts/items/tools/holy_water_item.nut
@@ -111,7 +111,7 @@ msgstr "圣水瓶"
 
 # scripts/items/tools/holy_water_item.nut
 msgid "]20[/color] for [color="
-msgstr "]20[/color] for [color="
+msgstr ""
 
 
 # scripts/items/tools/holy_water_item.nut
@@ -121,7 +121,7 @@ msgstr "]100%[/color] 伤害忽视盔甲"
 
 # scripts/items/tools/holy_water_item.nut
 msgid "]3[/color] turns to any undead target hit"
-msgstr "]3[/color] turns to any undead target hit"
+msgstr ""
 
 
 # scripts/items/tools/holy_water_item.nut
@@ -147,7 +147,7 @@ msgstr "投网"
 # scripts/items/tools/throwing_net.nut
 # scripts/items/tools/reinforced_throwing_net.nut
 msgid "Maximum Fatigue [color="
-msgstr "Maximum Fatigue [color="
+msgstr ""
 
 
 # scripts/items/tools/throwing_net.nut
@@ -168,7 +168,7 @@ msgstr "酸瓶"
 
 # scripts/items/tools/acid_flask_item.nut
 msgid "]20%[/color] each turn for 3 turns"
-msgstr "]20%[/color] each turn for 3 turns"
+msgstr ""
 
 
 # scripts/items/tools/acid_flask_item.nut
@@ -203,12 +203,12 @@ msgstr "火焰罐"
 
 # scripts/items/tools/fire_bomb_item.nut
 msgid "Will set [color="
-msgstr "Will set [color="
+msgstr ""
 
 
 # scripts/items/tools/fire_bomb_item.nut
 msgid "]7[/color] tiles ablaze with burning fire for 2 rounds"
-msgstr "]7[/color] tiles ablaze with burning fire for 2 rounds"
+msgstr ""
 
 
 # scripts/items/tools/fire_bomb_item.nut
@@ -218,17 +218,17 @@ msgstr "一种装满高度易燃液体的罐子，当投掷时会使一个区域
 
 # scripts/items/tools/player_banner.nut
 msgid "Polearm, Two-Handed"
-msgstr "Polearm, Two-Handed"
+msgstr ""
 
 
 # scripts/items/tools/player_banner.nut
 msgid "Allies at a range of 4 tiles or less receive [color="
-msgstr "Allies at a range of 4 tiles or less receive [color="
+msgstr ""
 
 
 # scripts/items/tools/player_banner.nut
 msgid "]10%[/color] of the Resolve of the character holding this standard as a bonus, up to a maximum of the standard bearer's Resolve."
-msgstr "]10%[/color] of the Resolve of the character holding this standard as a bonus, up to a maximum of the standard bearer's Resolve."
+msgstr ""
 
 
 # scripts/items/tools/player_banner.nut

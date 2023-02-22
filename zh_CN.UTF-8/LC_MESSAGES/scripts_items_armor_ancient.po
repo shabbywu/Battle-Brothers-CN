@@ -25,7 +25,7 @@ msgstr "古代鳞甲"
 
 # scripts/items/armor/ancient/ancient_scale_coat.nut
 msgid "A heavy and tarnished scale coat of ancient design that belongs in a collection, not on the battlefield."
-msgstr "A heavy and tarnished scale coat of ancient design that belongs in a collection, not on the battlefield."
+msgstr ""
 
 
 # scripts/items/armor/ancient/ancient_breastplate.nut
@@ -70,7 +70,7 @@ msgstr "破布"
 
 # scripts/items/armor/ancient/ancient_lich_attire.nut
 msgid "Ancient Attire"
-msgstr "Ancient Attire"
+msgstr ""
 
 
 # scripts/items/armor/ancient/ancient_scale_harness.nut

@@ -7,29 +7,29 @@ msgstr "军用镰刀"
 # scripts/items/weapons/ancient/bladed_pike.nut
 # scripts/items/weapons/ancient/warscythe.nut
 msgid "Polearm, Two-Handed"
-msgstr "Polearm, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/ancient/ancient_spear.nut
 msgid "Spear, One-Handed"
-msgstr "Spear, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/ancient/rhomphaia.nut
 msgid "Sword, Two-Handed"
-msgstr "Sword, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/ancient/ancient_sword.nut
 # scripts/items/weapons/ancient/broken_ancient_sword.nut
 msgid "Sword, One-Handed"
-msgstr "Sword, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/ancient/falx.nut
 # scripts/items/weapons/ancient/khopesh.nut
 msgid "Cleaver, One-Handed"
-msgstr "Cleaver, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/ancient/warscythe.nut
@@ -39,7 +39,7 @@ msgstr "一种附有锋利弯曲的刀刃的长杆，用于在一定距离内进
 
 # scripts/items/weapons/ancient/crypt_cleaver.nut
 msgid "Cleaver, Two-Handed"
-msgstr "Cleaver, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/ancient/falx.nut

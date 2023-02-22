@@ -1,11 +1,11 @@
 # scripts/items/shields/shield.nut
 msgid "Shield skills build up [color="
-msgstr "Shield skills build up [color="
+msgstr ""
 
 
 # scripts/items/shields/shield.nut
 msgid "Maximum Fatigue [color="
-msgstr "Maximum Fatigue [color="
+msgstr ""
 
 
 # scripts/items/shields/faction_kite_shield.nut
@@ -54,7 +54,7 @@ msgstr "一种可以紧握的小而坚固的盾牌。对远程攻击的防护较
 
 # scripts/items/shields/wooden_shield.nut
 msgid "banner id: "
-msgstr "banner id: "
+msgstr ""
 
 
 # scripts/items/shields/wooden_shield.nut
@@ -91,37 +91,37 @@ msgstr "一种细长的木制盾牌，甚至能为下半身提供良好的防御
 
 # scripts/items/shields/shield.nut
 msgid "progressbar"
-msgstr "progressbar"
+msgstr ""
 
 
 # scripts/items/shields/shield.nut
 msgid "armor-head-slim"
-msgstr "armor-head-slim"
+msgstr ""
 
 
 # scripts/items/shields/shield.nut
 msgid "Melee Defense [color="
-msgstr "Melee Defense [color="
+msgstr ""
 
 
 # scripts/items/shields/shield.nut
 msgid "Ranged Defense [color="
-msgstr "Ranged Defense [color="
+msgstr ""
 
 
 # scripts/items/shields/shield.nut
 msgid "player"
-msgstr "player"
+msgstr ""
 
 
 # scripts/items/shields/shield.nut
 msgid "[/color] more fatigue"
-msgstr "[/color] more fatigue"
+msgstr ""
 
 
 # scripts/items/shields/shield.nut
 msgid "[/color] less fatigue"
-msgstr "[/color] less fatigue"
+msgstr ""
 
 
 # scripts/items/shields/shield.nut

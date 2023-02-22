@@ -23,7 +23,7 @@
 # scripts/items/supplies/medicine_item.nut
 # scripts/items/supplies/roots_and_berries_item.nut
 msgid "State"
-msgstr "State"
+msgstr ""
 
 
 # scripts/items/supplies/money_item.nut
@@ -55,7 +55,7 @@ msgstr "购买价格 [img]gfx/ui/tooltips/money.png[/img]"
 # scripts/items/supplies/armor_parts_item.nut
 # scripts/items/supplies/medicine_item.nut
 msgid "A good [color="
-msgstr "A good [color="
+msgstr ""
 
 
 # scripts/items/supplies/ammo_item.nut
@@ -210,12 +210,12 @@ msgstr "食物。 曾是北方野蛮人国王用来壮阳的美食。这玩意�
 
 # scripts/items/supplies/food_item.nut
 msgid "[/color] days."
-msgstr "[/color] days."
+msgstr ""
 
 
 # scripts/items/supplies/food_item.nut
 msgid "Will spoil in [color="
-msgstr "Will spoil in [color="
+msgstr ""
 
 
 # scripts/items/supplies/wine_item.nut
@@ -250,7 +250,7 @@ msgstr "食物。 来自沼泽的黑暗料理，这道与美味不沾边的恐�
 
 # scripts/items/supplies/money_item.nut
 msgid "The amount of [color="
-msgstr "The amount of [color="
+msgstr ""
 
 
 # scripts/items/supplies/money_item.nut

@@ -130,13 +130,13 @@ msgstr "一大群绿皮向战场进军。"
 # scripts/factions/actions/send_military_army_action.nut
 # scripts/factions/actions/defend_military_action.nut
 msgid " Company"
-msgstr " Company"
+msgstr ""
 
 
 # scripts/factions/actions/defend_citystate_action.nut
 # scripts/factions/actions/patrol_area_action.nut
 msgid "Regiment of "
-msgstr "Regiment of "
+msgstr ""
 
 
 # scripts/factions/actions/defend_citystate_action.nut
@@ -173,12 +173,12 @@ msgstr "兽人收割者"
 
 # scripts/factions/actions/send_goblin_ambushers_action.nut
 msgid "Goblin Raiders"
-msgstr "Goblin Raiders"
+msgstr ""
 
 
 # scripts/factions/actions/send_bandit_roamers_action.nut
 msgid "Brigand Hunters"
-msgstr "Brigand Hunters"
+msgstr ""
 
 
 # scripts/factions/actions/defend_barbarians_action.nut
@@ -222,12 +222,12 @@ msgstr "贸易商队"
 
 # scripts/factions/actions/send_caravan_action.nut
 msgid "A trading caravan from "
-msgstr "A trading caravan from "
+msgstr ""
 
 
 # scripts/factions/actions/send_caravan_action.nut
 msgid " that is transporting all manner of goods between settlements."
-msgstr " that is transporting all manner of goods between settlements."
+msgstr ""
 
 
 # scripts/factions/actions/send_beast_roamers_action.nut
@@ -237,7 +237,7 @@ msgstr "一个或多个笨拙的巨人。"
 
 # scripts/factions/actions/defend_militia_action.nut
 msgid " Militia"
-msgstr " Militia"
+msgstr ""
 
 
 # scripts/factions/actions/defend_militia_action.nut
@@ -305,12 +305,12 @@ msgstr "一伙强盗为了食物而突然走出去。"
 
 # scripts/factions/actions/send_goblin_roamers_action.nut
 msgid "Goblin Hunters"
-msgstr "Goblin Hunters"
+msgstr ""
 
 
 # scripts/factions/actions/send_nomad_roamers_action.nut
 msgid "A band of nomads scouting the area."
-msgstr "A band of nomads scouting the area."
+msgstr ""
 
 
 # scripts/factions/actions/receive_ship_action.nut
@@ -332,17 +332,17 @@ msgstr "逃离战争恐怖的难民，被打倒、疲惫和绝望。"
 
 # scripts/factions/actions/send_orc_roamers_action.nut
 msgid "Orc Hunters"
-msgstr "Orc Hunters"
+msgstr ""
 
 
 # scripts/factions/actions/build_unique_locations_action.nut
 msgid "Done placing all unique locations."
-msgstr "Done placing all unique locations."
+msgstr ""
 
 
 # scripts/factions/actions/send_barbarian_roamers_action.nut
 msgid "A band of barbarians out to hunt game."
-msgstr "A band of barbarians out to hunt game."
+msgstr ""
 
 
 # scripts/factions/actions/send_peasants_action.nut
@@ -352,7 +352,7 @@ msgstr "农夫、工匠、朝圣者或其他居民在定居点之间的道路上
 
 # scripts/factions/actions/send_peasants_action.nut
 msgid "Farmers, craftsmen, pilgrims or other citizens of the great city states on their way between settlements."
-msgstr "Farmers, craftsmen, pilgrims or other citizens of the great city states on their way between settlements."
+msgstr ""
 
 
 # scripts/factions/actions/send_beast_roamers_action.nut

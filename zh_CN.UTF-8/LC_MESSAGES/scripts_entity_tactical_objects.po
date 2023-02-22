@@ -25,7 +25,7 @@ msgstr "一棵柏树。 阻挡了移动和视线。"
 # scripts/entity/tactical/objects/tree_dead_steppe.nut
 # scripts/entity/tactical/objects/tree_olive_dry.nut
 msgid "Dead Tree"
-msgstr "Dead Tree"
+msgstr ""
 
 
 # scripts/entity/tactical/objects/tree_dead_steppe.nut
@@ -127,7 +127,7 @@ msgstr "一颗小树。"
 
 # scripts/entity/tactical/objects/generic_object.nut
 msgid "mirror visible!"
-msgstr "mirror visible!"
+msgstr ""
 
 
 # scripts/entity/tactical/objects/barbarian_camp_altar.nut
@@ -142,12 +142,12 @@ msgstr "一个石头祭坛。"
 
 # scripts/entity/tactical/objects/tree_trunk_forest_leaves.nut
 msgid "#f8f8e6"
-msgstr "#f8f8e6"
+msgstr ""
 
 
 # scripts/entity/tactical/objects/tree_trunk_forest_leaves.nut
 msgid "#f0ffdc"
-msgstr "#f0ffdc"
+msgstr ""
 
 
 # scripts/entity/tactical/objects/tree_trunk_forest_leaves.nut
@@ -276,7 +276,7 @@ msgstr "一个木栅栏。"
 # scripts/entity/tactical/objects/tree_stump2.nut
 # scripts/entity/tactical/objects/tree_stump3.nut
 msgid "Tree Stump"
-msgstr "Tree Stump"
+msgstr ""
 
 
 # scripts/entity/tactical/objects/tree_stump1.nut
@@ -288,7 +288,7 @@ msgstr "被砍倒的树的残留物。"
 
 # scripts/entity/tactical/objects/tree_trunk_forest.nut
 msgid "#dbdef0"
-msgstr "#dbdef0"
+msgstr ""
 
 
 # scripts/entity/tactical/objects/desert_camp_fireplace.nut
@@ -300,7 +300,7 @@ msgstr "用来做饭的火炉。"
 
 # scripts/entity/tactical/objects/tree_olive.nut
 msgid "Olive Tree"
-msgstr "Olive Tree"
+msgstr ""
 
 
 # scripts/entity/tactical/objects/tree_olive.nut

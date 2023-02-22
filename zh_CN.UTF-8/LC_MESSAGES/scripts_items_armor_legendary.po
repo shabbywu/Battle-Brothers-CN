@@ -1,43 +1,43 @@
 # scripts/items/armor/legendary/ijirok_armor.nut
 msgid " points"
-msgstr " points"
+msgstr ""
 
 
 # scripts/items/armor/legendary/ijirok_armor.nut
 msgid " heals for "
-msgstr " heals for "
+msgstr ""
 
 
 # scripts/items/armor/legendary/ijirok_armor.nut
 msgid "Heals [color="
-msgstr "Heals [color="
+msgstr ""
 
 
 # scripts/items/armor/legendary/armor_of_davkul.nut
 msgid "Regenerates itself by [color="
-msgstr "Regenerates itself by [color="
+msgstr ""
 
 
 # scripts/items/armor/legendary/emperors_armor_fake.nut
 # scripts/items/armor/legendary/emperors_armor.nut
 msgid "Reflects [color="
-msgstr "Reflects [color="
+msgstr ""
 
 
 # scripts/items/armor/legendary/emperors_armor_fake.nut
 # scripts/items/armor/legendary/emperors_armor.nut
 msgid "]25%[/color] of damage taken in melee back to the attacker"
-msgstr "]25%[/color] of damage taken in melee back to the attacker"
+msgstr ""
 
 
 # scripts/items/armor/legendary/armor_of_davkul.nut
 msgid "]90[/color] points of durability each turn."
-msgstr "]90[/color] points of durability each turn."
+msgstr ""
 
 
 # scripts/items/armor/legendary/ijirok_armor.nut
 msgid "]10[/color] hitpoints of the wearer each turn"
-msgstr "]10[/color] hitpoints of the wearer each turn"
+msgstr ""
 
 
 # scripts/items/armor/legendary/armor_of_davkul.nut

@@ -1,7 +1,7 @@
 # scripts/items/ammo/large_powder_bag.nut
 # scripts/items/ammo/powder_bag.nut
 msgid "[/color] uses"
-msgstr "[/color] uses"
+msgstr ""
 
 
 # scripts/items/ammo/large_powder_bag.nut
@@ -22,7 +22,7 @@ msgstr "大火药包"
 # scripts/items/ammo/large_powder_bag.nut
 # scripts/items/ammo/powder_bag.nut
 msgid "Contains powder for [color="
-msgstr "Contains powder for [color="
+msgstr ""
 
 
 # scripts/items/ammo/large_powder_bag.nut
@@ -33,7 +33,7 @@ msgstr "一大包黑火药，用来装填异国火器。 如果你有足够的�
 # scripts/items/ammo/quiver_of_arrows.nut
 # scripts/items/ammo/large_quiver_of_arrows.nut
 msgid "[/color] arrows"
-msgstr "[/color] arrows"
+msgstr ""
 
 
 # scripts/items/ammo/quiver_of_arrows.nut
@@ -41,7 +41,7 @@ msgstr "[/color] arrows"
 # scripts/items/ammo/large_quiver_of_arrows.nut
 # scripts/items/ammo/large_quiver_of_bolts.nut
 msgid "Contains [color="
-msgstr "Contains [color="
+msgstr ""
 
 
 # scripts/items/ammo/quiver_of_arrows.nut
@@ -67,7 +67,7 @@ msgstr "一包黑火药，用来装填异国火器。 如果你有足够的弹�
 # scripts/items/ammo/quiver_of_bolts.nut
 # scripts/items/ammo/large_quiver_of_bolts.nut
 msgid "[/color] bolts"
-msgstr "[/color] bolts"
+msgstr ""
 
 
 # scripts/items/ammo/quiver_of_bolts.nut

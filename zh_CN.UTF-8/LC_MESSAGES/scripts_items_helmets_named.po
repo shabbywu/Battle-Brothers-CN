@@ -11,7 +11,7 @@ msgstr "保护者"
 
 # scripts/items/helmets/named/named_helmet.nut
 msgid "'s "
-msgstr "'s "
+msgstr ""
 
 
 # scripts/items/helmets/named/heraldic_mail_helmet.nut
@@ -61,7 +61,7 @@ msgstr "野兽紧帽"
 
 # scripts/items/helmets/named/wolf_helmet.nut
 msgid "Berserker Coif"
-msgstr "Berserker Coif"
+msgstr ""
 
 
 # scripts/items/helmets/named/wolf_helmet.nut
@@ -397,7 +397,7 @@ msgstr "这顶带护面的北欧头盔是特别制作的，它的保护性和令
 
 # scripts/items/helmets/named/named_steppe_helmet_with_mail.nut
 msgid "Steppe Helmet"
-msgstr "Steppe Helmet"
+msgstr ""
 
 
 # scripts/items/helmets/named/named_steppe_helmet_with_mail.nut

@@ -1,27 +1,27 @@
 # scripts/entity/world/locations/noble_camp_location.nut
 msgid "ffffff00"
-msgstr "ffffff00"
+msgstr ""
 
 
 # scripts/entity/world/locations/battlefield_location.nut
 msgid "selection"
-msgstr "selection"
+msgstr ""
 
 
 # scripts/entity/world/locations/noble_camp_location.nut
 # scripts/entity/world/locations/undead_necropolis_location.nut
 msgid "lighting"
-msgstr "lighting"
+msgstr ""
 
 
 # scripts/entity/world/locations/undead_necropolis_location.nut
 msgid "Ruins of "
-msgstr "Ruins of "
+msgstr ""
 
 
 # scripts/entity/world/locations/noble_camp_location.nut
 msgid "banner"
-msgstr "banner"
+msgstr ""
 
 
 # scripts/entity/world/locations/goblin_hideout_location.nut

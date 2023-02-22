@@ -1,21 +1,21 @@
 # scripts/ui/screens/tactical/modules/turn_sequence_bar/turn_sequence_bar.nut
 msgid "End Round"
-msgstr "End Round"
+msgstr ""
 
 
 # scripts/ui/screens/tactical/modules/turn_sequence_bar/turn_sequence_bar.nut
 msgid " Round(s)."
-msgstr " Round(s)."
+msgstr ""
 
 
 # scripts/ui/screens/tactical/modules/turn_sequence_bar/turn_sequence_bar.nut
 msgid " already exists.)"
-msgstr " already exists.)"
+msgstr ""
 
 
 # scripts/ui/screens/tactical/modules/turn_sequence_bar/turn_sequence_bar.nut
 msgid "Info: Battle ended after "
-msgstr "Info: Battle ended after "
+msgstr ""
 
 
 # scripts/ui/screens/tactical/modules/turn_sequence_bar/turn_sequence_bar.nut
@@ -30,16 +30,16 @@ msgstr "]行动点不足！[/color]"
 
 # scripts/ui/screens/tactical/modules/turn_sequence_bar/turn_sequence_bar.nut
 msgid "ERROR: Skill was clicked for an unknown entity!"
-msgstr "ERROR: Skill was clicked for an unknown entity!"
+msgstr ""
 
 
 # scripts/ui/screens/tactical/modules/turn_sequence_bar/turn_sequence_bar.nut
 msgid "ERROR: Skill cancel was clicked for an unknown entity!"
-msgstr "ERROR: Skill cancel was clicked for an unknown entity!"
+msgstr ""
 
 
 # scripts/ui/screens/tactical/modules/turn_sequence_bar/turn_sequence_bar.nut
 msgid "Have all your characters skip their turn until the next round starts?"
-msgstr "Have all your characters skip their turn until the next round starts?"
+msgstr ""
 
 

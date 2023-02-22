@@ -1,6 +1,6 @@
 # scripts/items/misc/snake_oil_item.nut
 msgid "State"
-msgstr "State"
+msgstr ""
 
 
 # scripts/items/misc/potion_of_knowledge_item.nut
@@ -276,7 +276,7 @@ msgstr "第三只眼"
 
 # scripts/items/misc/third_eye_item.nut
 msgid "Alps have no eyes, yet this eye-like organ can be retrieved from inside their skulls."
-msgstr "Alps have no eyes, yet this eye-like organ can be retrieved from inside their skulls."
+msgstr ""
 
 
 # scripts/items/misc/kraken_tentacle_item.nut
@@ -326,7 +326,7 @@ msgstr "]-10%[/color] 搜捕者经验获取"
 
 # scripts/items/misc/manhunters_ledger_item.nut
 msgid "A ledger detailing the members and contract terms of the company."
-msgstr "A ledger detailing the members and contract terms of the company."
+msgstr ""
 
 
 # scripts/items/misc/manhunters_ledger_item.nut
@@ -372,7 +372,7 @@ msgstr "右键单击或拖动到当前选定的角色装备的战犬上进行使
 
 # scripts/items/misc/heart_of_the_forest_item.nut
 msgid "Heart of the Forest"
-msgstr "Heart of the Forest"
+msgstr ""
 
 
 # scripts/items/misc/heart_of_the_forest_item.nut
