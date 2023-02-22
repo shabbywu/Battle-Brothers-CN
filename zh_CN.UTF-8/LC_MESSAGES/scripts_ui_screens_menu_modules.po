@@ -1,20 +1,20 @@
 # scripts/ui/screens/menu/modules/options_menu_module.nut
 msgid "window"
-msgstr "window"
+msgstr ""
 
 
 # scripts/ui/screens/menu/modules/options_menu_module.nut
 msgid "fullscreen"
-msgstr "fullscreen"
+msgstr ""
 
 
 # scripts/ui/screens/menu/modules/options_menu_module.nut
 msgid "Borderless"
-msgstr "Borderless"
+msgstr ""
 
 
 # scripts/ui/screens/menu/modules/options_menu_module.nut
 msgid "Failed to query current resolution. Reason: Invalid index."
-msgstr "Failed to query current resolution. Reason: Invalid index."
+msgstr ""
 
 

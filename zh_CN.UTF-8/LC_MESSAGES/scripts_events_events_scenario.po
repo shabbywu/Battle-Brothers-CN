@@ -6,7 +6,7 @@ msgstr "独狼"
 # scripts/events/events/scenario/southern_quickstart_intro_event.nut
 # scripts/events/events/scenario/early_access_intro_event.nut
 msgid "The "
-msgstr "The "
+msgstr ""
 
 
 # scripts/events/events/scenario/early_access_intro_event.nut

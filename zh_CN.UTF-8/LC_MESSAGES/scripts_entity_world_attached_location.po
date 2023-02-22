@@ -10,7 +10,7 @@ msgstr "港口"
 # scripts/entity/world/attached_location/stone_watchtower_oriental_location.nut
 # scripts/entity/world/attached_location/militia_trainingcamp_location.nut
 msgid "lighting"
-msgstr "lighting"
+msgstr ""
 
 
 # scripts/entity/world/attached_location/militia_trainingcamp_oriental_location.nut
@@ -67,7 +67,7 @@ msgstr "这个种植园种植各种各样的香料和草药。 荒漠中的一�
 
 # scripts/entity/world/attached_location/silk_farm_location.nut
 msgid "Silk Farm"
-msgstr "Silk Farm"
+msgstr ""
 
 
 # scripts/entity/world/attached_location/silk_farm_location.nut
@@ -147,7 +147,7 @@ msgstr "这个木材营地被用作伐木工寻找附近树林中最珍贵和耐
 
 # scripts/entity/world/attached_location/incense_dryer_location.nut
 msgid "Incense Dryer"
-msgstr "Incense Dryer"
+msgstr ""
 
 
 # scripts/entity/world/attached_location/incense_dryer_location.nut

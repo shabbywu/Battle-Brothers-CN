@@ -1,7 +1,7 @@
 # scripts/contracts/templates/negotiation_templates.nut
 # scripts/contracts/templates/intro_templates.nut
 msgid "Contracts"
-msgstr "Contracts"
+msgstr ""
 
 
 # scripts/contracts/templates/negotiation_templates.nut
@@ -12,22 +12,22 @@ msgstr "谈判"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "Get "
-msgstr "Get "
+msgstr ""
 
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid " crowns in advance"
-msgstr " crowns in advance"
+msgstr ""
 
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid " crowns on completion"
-msgstr " crowns on completion"
+msgstr ""
 
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid " total"
-msgstr " total"
+msgstr ""
 
 
 # scripts/contracts/templates/negotiation_templates.nut

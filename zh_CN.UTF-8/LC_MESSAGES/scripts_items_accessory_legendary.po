@@ -10,12 +10,12 @@ msgstr "被诅咒的水晶颅骨"
 
 # scripts/items/accessory/legendary/cursed_crystal_skull.nut
 msgid "]confident[/color] morale"
-msgstr "]confident[/color] morale"
+msgstr ""
 
 
 # scripts/items/accessory/legendary/cursed_crystal_skull.nut
 msgid "User can never have [color="
-msgstr "User can never have [color="
+msgstr ""
 
 
 # scripts/items/accessory/legendary/cursed_crystal_skull.nut

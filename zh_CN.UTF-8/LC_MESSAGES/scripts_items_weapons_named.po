@@ -7,7 +7,7 @@
 # scripts/items/weapons/named/named_shamshir.nut
 # scripts/items/weapons/named/named_qatal_dagger.nut
 msgid "'s "
-msgstr "'s "
+msgstr ""
 
 
 # scripts/items/weapons/named/named_handgonne.nut
@@ -23,25 +23,25 @@ msgstr "]必须重新装填才能再次发射[/color]"
 # scripts/items/weapons/named/named_pike.nut
 # scripts/items/weapons/named/named_bladed_pike.nut
 msgid "Polearm, Two-Handed"
-msgstr "Polearm, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_spear.nut
 # scripts/items/weapons/named/named_goblin_spear.nut
 msgid "Spear, One-Handed"
-msgstr "Spear, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_qatal_dagger.nut
 # scripts/items/weapons/named/named_dagger.nut
 msgid "Dagger, One-Handed"
-msgstr "Dagger, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_greatsword.nut
 # scripts/items/weapons/named/named_warbrand.nut
 msgid "Sword, Two-Handed"
-msgstr "Sword, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_goblin_falchion.nut
@@ -49,24 +49,24 @@ msgstr "Sword, Two-Handed"
 # scripts/items/weapons/named/named_shamshir.nut
 # scripts/items/weapons/named/named_sword.nut
 msgid "Sword, One-Handed"
-msgstr "Sword, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_orc_axe.nut
 # scripts/items/weapons/named/named_axe.nut
 msgid "Axe, One-Handed"
-msgstr "Axe, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_spetum.nut
 msgid "Spear, Two-Handed"
-msgstr "Spear, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_warbow.nut
 # scripts/items/weapons/named/named_goblin_heavy_bow.nut
 msgid "Bow, Two-Handed"
-msgstr "Bow, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_heavy_rusty_axe.nut
@@ -74,25 +74,25 @@ msgstr "Bow, Two-Handed"
 # scripts/items/weapons/named/named_greataxe.nut
 # scripts/items/weapons/named/named_longaxe.nut
 msgid "Axe, Two-Handed"
-msgstr "Axe, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_two_handed_hammer.nut
 # scripts/items/weapons/named/named_skullhammer.nut
 # scripts/items/weapons/named/named_polehammer.nut
 msgid "Hammer, Two-Handed"
-msgstr "Hammer, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_warhammer.nut
 msgid "Hammer, One-Handed"
-msgstr "Hammer, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_javelin.nut
 # scripts/items/weapons/named/named_throwing_axe.nut
 msgid "Throwing Weapon, One-Handed"
-msgstr "Throwing Weapon, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_khopesh.nut
@@ -100,47 +100,47 @@ msgstr "Throwing Weapon, One-Handed"
 # scripts/items/weapons/named/named_orc_cleaver.nut
 # scripts/items/weapons/named/named_cleaver.nut
 msgid "Cleaver, One-Handed"
-msgstr "Cleaver, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_mace.nut
 msgid "Mace, One-Handed"
-msgstr "Mace, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_crossbow.nut
 msgid "Crossbow, Two-Handed"
-msgstr "Crossbow, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_polemace.nut
 # scripts/items/weapons/named/named_two_handed_mace.nut
 # scripts/items/weapons/named/named_two_handed_spiked_mace.nut
 msgid "Mace, Two-Handed"
-msgstr "Mace, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_crypt_cleaver.nut
 # scripts/items/weapons/named/named_rusty_warblade.nut
 # scripts/items/weapons/named/named_two_handed_scimitar.nut
 msgid "Cleaver, Two-Handed"
-msgstr "Cleaver, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_handgonne.nut
 msgid "Firearm, Two-Handed"
-msgstr "Firearm, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_three_headed_flail.nut
 # scripts/items/weapons/named/named_flail.nut
 msgid "Flail, One-Handed"
-msgstr "Flail, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_two_handed_flail.nut
 msgid "Flail, Two-Handed"
-msgstr "Flail, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/named/named_warscythe.nut
@@ -195,7 +195,7 @@ msgstr "这把又重又华丽的斧头属于一个野蛮部落的尊贵成员。
 
 # scripts/items/weapons/named/named_three_headed_flail.nut
 msgid "A very rare weapon built from valuable and strong materials. Despite its ceremonial look it makes for a terrifying tool of destruction."
-msgstr "A very rare weapon built from valuable and strong materials. Despite its ceremonial look it makes for a terrifying tool of destruction."
+msgstr ""
 
 
 # scripts/items/weapons/named/named_polemace.nut
@@ -265,7 +265,7 @@ msgstr "这种由稀有合金制成的重型大砍刀比同类武器要优越得
 
 # scripts/items/weapons/named/named_polehammer.nut
 msgid "A crude weapon like a polehammer can also be crafted with passion, skill and attention to detail, as this exemplar showcases impressively."
-msgstr "A crude weapon like a polehammer can also be crafted with passion, skill and attention to detail, as this exemplar showcases impressively."
+msgstr ""
 
 
 # scripts/items/weapons/named/named_qatal_dagger.nut

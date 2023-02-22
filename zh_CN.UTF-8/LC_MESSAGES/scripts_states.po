@@ -1,6 +1,6 @@
 # scripts/states/tactical_state.nut
 msgid "actor"
-msgstr "actor"
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
@@ -10,17 +10,17 @@ msgstr "取消"
 
 # scripts/states/world_state.nut
 msgid "A "
-msgstr "A "
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "An "
-msgstr "An "
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "The "
-msgstr "The "
+msgstr ""
 
 
 # scripts/states/world_state.nut
@@ -41,18 +41,18 @@ msgstr "撤退！"
 # scripts/states/world_state.nut
 # scripts/states/main_menu_state.nut
 msgid ");"
-msgstr ");"
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "y: "
-msgstr "y: "
+msgstr ""
 
 
 # scripts/states/world_state.nut
 # scripts/states/main_menu_state.nut
 msgid " : "
-msgstr " : "
+msgstr ""
 
 
 # scripts/states/world_state.nut
@@ -62,12 +62,12 @@ msgstr "逃走！"
 
 # scripts/states/world_state.nut
 msgid "type: "
-msgstr "type: "
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "distance: "
-msgstr "distance: "
+msgstr ""
 
 
 # scripts/states/world_state.nut
@@ -82,104 +82,104 @@ msgstr "防御工事"
 
 # scripts/states/world_state.nut
 msgid "Save campaign: "
-msgstr "Save campaign: "
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "Load campaign: "
-msgstr "Load campaign: "
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "(Press Spacebar)"
-msgstr "(Press Spacebar)"
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "Old Campaign Loaded"
-msgstr "Old Campaign Loaded"
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "Clearing World Scene"
-msgstr "Clearing World Scene"
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "Fog Of War activated."
-msgstr "Fog Of War activated."
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "World Speed set to x4.0"
-msgstr "World Speed set to x4.0"
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "World Speed set to x8.0"
-msgstr "World Speed set to x8.0"
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "World Speed set to x3.0"
-msgstr "World Speed set to x3.0"
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "Fog Of War deactivated."
-msgstr "Fog Of War deactivated."
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "World Speed set to x5.0"
-msgstr "World Speed set to x5.0"
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "World Speed set to x9.0"
-msgstr "World Speed set to x9.0"
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "World Speed set to x6.0"
-msgstr "World Speed set to x6.0"
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "World Speed set to x7.0"
-msgstr "World Speed set to x7.0"
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "Player is consuming assets."
-msgstr "Player is consuming assets."
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "Player can now be attacked."
-msgstr "Player can now be attacked."
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "Player can NOT be attacked."
-msgstr "Player can NOT be attacked."
+msgstr ""
 
 
 # scripts/states/world_state.nut
 # scripts/states/tactical_state.nut
 msgid "*** DEVELOPER MODE ENABLED ***"
-msgstr "*** DEVELOPER MODE ENABLED ***"
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "Player is NOT consuming assets."
-msgstr "Player is NOT consuming assets."
+msgstr ""
 
 
 # scripts/states/world_state.nut
 # scripts/states/tactical_state.nut
 msgid "*** DEVELOPER MODE DISABLED ***"
-msgstr "*** DEVELOPER MODE DISABLED ***"
+msgstr ""
 
 
 # scripts/states/world_state.nut
@@ -194,22 +194,22 @@ msgstr "你不知道你将面对谁。 自担风险地攻击，必要时随时�
 
 # scripts/states/world_state.nut
 msgid "This campaign was created before you activated the 'Blazing Deserts' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign."
-msgstr "This campaign was created before you activated the 'Blazing Deserts' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign."
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign."
-msgstr "This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign."
+msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "This campaign was created before you activated the 'Warriors of the North' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign."
-msgstr "This campaign was created before you activated the 'Warriors of the North' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign."
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
 msgid "win"
-msgstr "win"
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
@@ -219,17 +219,17 @@ msgstr "退出"
 
 # scripts/states/tactical_state.nut
 msgid "grow"
-msgstr "grow"
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
 msgid "loose"
-msgstr "loose"
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
 msgid " round"
-msgstr " round"
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
@@ -269,7 +269,7 @@ msgstr "赢了一场战斗"
 
 # scripts/states/tactical_state.nut
 msgid "Quit & Retire"
-msgstr "Quit & Retire"
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
@@ -284,7 +284,7 @@ msgstr "输了一场战斗"
 
 # scripts/states/tactical_state.nut
 msgid "] on target ["
-msgstr "] on target ["
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
@@ -294,27 +294,27 @@ msgstr "赶尽杀绝！"
 
 # scripts/states/tactical_state.nut
 msgid "You lost after "
-msgstr "You lost after "
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
 msgid "Quit to Main Menu"
-msgstr "Quit to Main Menu"
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
 msgid "*** AI PAUSED ***"
-msgstr "*** AI PAUSED ***"
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
 msgid "] executes skill ["
-msgstr "] executes skill ["
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
 msgid "*** AI RESUMED ***"
-msgstr "*** AI RESUMED ***"
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
@@ -329,7 +329,7 @@ msgstr "从战斗中撤退"
 
 # scripts/states/tactical_state.nut
 msgid "You retreated after "
-msgstr "You retreated after "
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
@@ -354,57 +354,57 @@ msgstr "在竞技场赢了一场"
 
 # scripts/states/tactical_state.nut
 msgid "INFO: Next round issued: "
-msgstr "INFO: Next round issued: "
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
 msgid "The enemy retreated after "
-msgstr "The enemy retreated after "
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
 msgid "The enemy was destroyed in "
-msgstr "The enemy was destroyed in "
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
 msgid "entity is currently travelling!"
-msgstr "entity is currently travelling!"
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
 msgid "entity is currently executing a skill!"
-msgstr "entity is currently executing a skill!"
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
 msgid "TurnSequenceBar::setActionStateBySkillId(No Skill selected)"
-msgstr "TurnSequenceBar::setActionStateBySkillId(No Skill selected)"
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
 msgid "TurnSequenceBar::setActionStateBySkillIndex(No Skill selected)"
-msgstr "TurnSequenceBar::setActionStateBySkillIndex(No Skill selected)"
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
 msgid "TurnSequenceBar::setActionStateBySkillId(No Active Entity | Enemy)"
-msgstr "TurnSequenceBar::setActionStateBySkillId(No Active Entity | Enemy)"
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
 msgid "Are you sure you want to quit this battle and thereby forfeit your ironman run and retire from your company?\n\nYour save will be deleted and you won't be able to continue."
-msgstr "Are you sure you want to quit this battle and thereby forfeit your ironman run and retire from your company?\n\nYour save will be deleted and you won't be able to continue."
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
 msgid "Are you sure you want to quit this battle and return to the main menu?\n\nAny progress made in battle will be lost, but there was an autosave made right before the battle started."
-msgstr "Are you sure you want to quit this battle and return to the main menu?\n\nAny progress made in battle will be lost, but there was an autosave made right before the battle started."
+msgstr ""
 
 
 # scripts/states/main_menu_state.nut
 msgid "Test"
-msgstr "Test"
+msgstr ""
 
 
 # scripts/states/main_menu_state.nut
@@ -454,7 +454,7 @@ msgstr "战线（哥布林）"
 
 # scripts/states/main_menu_state.nut
 msgid "Scenario Screen is not fully visible. Be patient!"
-msgstr "Scenario Screen is not fully visible. Be patient!"
+msgstr ""
 
 
 # scripts/states/main_menu_state.nut

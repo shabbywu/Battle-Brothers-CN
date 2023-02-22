@@ -1,36 +1,36 @@
 # scripts/items/weapons/legendary/obsidian_dagger.nut
 msgid "Corpse"
-msgstr "Corpse"
+msgstr ""
 
 
 # scripts/items/weapons/legendary/lightbringer_sword.nut
 msgid "]10[/color] - [color="
-msgstr "]10[/color] - [color="
+msgstr ""
 
 
 # scripts/items/weapons/legendary/lightbringer_sword.nut
 msgid "Inflicts an additional [color="
-msgstr "Inflicts an additional [color="
+msgstr ""
 
 
 # scripts/items/weapons/legendary/lightbringer_sword.nut
 msgid "]20[/color] damage that ignores armor to up to three targets"
-msgstr "]20[/color] damage that ignores armor to up to three targets"
+msgstr ""
 
 
 # scripts/items/weapons/legendary/obsidian_dagger.nut
 msgid "player"
-msgstr "player"
+msgstr ""
 
 
 # scripts/items/weapons/legendary/obsidian_dagger.nut
 msgid "Dagger, One-Handed"
-msgstr "Dagger, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/legendary/lightbringer_sword.nut
 msgid "Sword, One-Handed"
-msgstr "Sword, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/legendary/lightbringer_sword.nut
@@ -45,7 +45,7 @@ msgstr "这把泛着紫黄微光的剑就如黄昏的晚霞。轻轻一碰，冰
 
 # scripts/items/weapons/legendary/obsidian_dagger.nut
 msgid "human"
-msgstr "human"
+msgstr ""
 
 
 # scripts/items/weapons/legendary/obsidian_dagger.nut

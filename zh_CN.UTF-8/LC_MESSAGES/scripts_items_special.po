@@ -1,6 +1,6 @@
 # scripts/items/special/golden_goose_item.nut
 msgid "State"
-msgstr "State"
+msgstr ""
 
 
 # scripts/items/special/black_book_item.nut
@@ -23,12 +23,12 @@ msgstr "黄金鹅"
 
 # scripts/items/special/golden_goose_item.nut
 msgid "Generates [color="
-msgstr "Generates [color="
+msgstr ""
 
 
 # scripts/items/special/golden_goose_item.nut
 msgid "]15[/color] crowns daily."
-msgstr "]15[/color] crowns daily."
+msgstr ""
 
 
 # scripts/items/special/golden_goose_item.nut
@@ -88,17 +88,17 @@ msgstr "用另一个人的生命为代价与恶毒女巫交换而来的，这种
 
 # scripts/items/special/trade_jug_01_item.nut
 msgid "Mysterious Jug"
-msgstr "Mysterious Jug"
+msgstr ""
 
 
 # scripts/items/special/trade_jug_01_item.nut
 msgid "Grants a perk point"
-msgstr "Grants a perk point"
+msgstr ""
 
 
 # scripts/items/special/trade_jug_01_item.nut
 msgid "Traded for with a mysterious traveler named Yuchi, the contents of this jug promises to be a magical drink that grants strength beyond imagining."
-msgstr "Traded for with a mysterious traveler named Yuchi, the contents of this jug promises to be a magical drink that grants strength beyond imagining."
+msgstr ""
 
 
 # scripts/items/special/bodily_reward_item.nut

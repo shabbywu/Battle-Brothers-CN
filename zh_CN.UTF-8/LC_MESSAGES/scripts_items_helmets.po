@@ -1,46 +1,46 @@
 # scripts/items/helmets/helmet.nut
 msgid "#ffffff"
-msgstr "#ffffff"
+msgstr ""
 
 
 # scripts/items/helmets/helmet.nut
 msgid "'s "
-msgstr "'s "
+msgstr ""
 
 
 # scripts/items/helmets/helmet.nut
 msgid "[/b] damage"
-msgstr "[/b] damage"
+msgstr ""
 
 
 # scripts/items/helmets/helmet.nut
 msgid " is hit for [b]"
-msgstr " is hit for [b]"
+msgstr ""
 
 
 # scripts/items/helmets/helmet.nut
 msgid "helmet"
-msgstr "helmet"
+msgstr ""
 
 
 # scripts/items/helmets/helmet.nut
 msgid "Maximum Fatigue [color="
-msgstr "Maximum Fatigue [color="
+msgstr ""
 
 
 # scripts/items/helmets/helmet.nut
 msgid "progressbar"
-msgstr "progressbar"
+msgstr ""
 
 
 # scripts/items/helmets/helmet.nut
 msgid "armor-head-slim"
-msgstr "armor-head-slim"
+msgstr ""
 
 
 # scripts/items/helmets/helmet.nut
 msgid "player"
-msgstr "player"
+msgstr ""
 
 
 # scripts/items/helmets/dented_nasal_helmet.nut
@@ -75,12 +75,12 @@ msgstr "一种带有链甲保护脸部的头盔。"
 
 # scripts/items/helmets/nordic_helmet_with_closed_mail.nut
 msgid "Nordic Helmet with Closed Mail"
-msgstr "Nordic Helmet with Closed Mail"
+msgstr ""
 
 
 # scripts/items/helmets/nordic_helmet_with_closed_mail.nut
 msgid "A metal nordic helmet with an attached closed mail neck guard."
-msgstr "A metal nordic helmet with an attached closed mail neck guard."
+msgstr ""
 
 
 # scripts/items/helmets/nasal_helmet_with_mail.nut
@@ -375,12 +375,12 @@ msgstr "一个带宽边和链甲的全金属头盔。"
 
 # scripts/items/helmets/steppe_helmet_with_mail.nut
 msgid "Steppe Helmet with Mail"
-msgstr "Steppe Helmet with Mail"
+msgstr ""
 
 
 # scripts/items/helmets/steppe_helmet_with_mail.nut
 msgid "A nasal helmet witch an attached mail neck guard fashioned in the way of the steppe folks."
-msgstr "A nasal helmet witch an attached mail neck guard fashioned in the way of the steppe folks."
+msgstr ""
 
 
 # scripts/items/helmets/flat_top_helmet.nut
@@ -510,12 +510,12 @@ msgstr "疫医面具"
 
 # scripts/items/helmets/physician_mask.nut
 msgid "Only take [color="
-msgstr "Only take [color="
+msgstr ""
 
 
 # scripts/items/helmets/physician_mask.nut
 msgid "]50%[/color] of damage inflicted by harmful miasmas"
-msgstr "]50%[/color] of damage inflicted by harmful miasmas"
+msgstr ""
 
 
 # scripts/items/helmets/physician_mask.nut
@@ -525,12 +525,12 @@ msgstr "一种带有独特的鸟状面具的厚皮革头罩。 它的喙就是�
 
 # scripts/items/helmets/nordic_helmet.nut
 msgid "Nordic Helmet"
-msgstr "Nordic Helmet"
+msgstr ""
 
 
 # scripts/items/helmets/nordic_helmet.nut
 msgid "A nordic helmet guarding face and neck with additional metal plates."
-msgstr "A nordic helmet guarding face and neck with additional metal plates."
+msgstr ""
 
 
 # scripts/items/helmets/nasal_helmet.nut
@@ -605,7 +605,7 @@ msgstr "一种不覆盖耳朵和脖子的坚固皮帽。"
 
 # scripts/items/helmets/helmet.nut
 msgid "Vision [color="
-msgstr "Vision [color="
+msgstr ""
 
 
 # scripts/items/helmets/helmet.nut

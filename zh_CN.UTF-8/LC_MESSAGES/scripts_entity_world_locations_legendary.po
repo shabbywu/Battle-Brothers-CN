@@ -2,7 +2,7 @@
 # scripts/entity/world/locations/legendary/meteorite_location.nut
 # scripts/entity/world/locations/legendary/oracle_location.nut
 msgid "banner"
-msgstr "banner"
+msgstr ""
 
 
 # scripts/entity/world/locations/legendary/black_monolith_location.nut

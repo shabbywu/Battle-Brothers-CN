@@ -1,6 +1,6 @@
 # scripts/events/events/crisis/undead_hoggart_event.nut
 msgid "300"
-msgstr "300"
+msgstr ""
 
 
 # scripts/events/events/crisis/civilwar_town_conquered_event.nut
@@ -11,7 +11,7 @@ msgstr "征服者"
 # scripts/events/events/crisis/civilwar_dead_knight_event.nut
 # scripts/events/events/crisis/civilwar_ambush_event.nut
 msgid "[/color] Crowns"
-msgstr "[/color] Crowns"
+msgstr ""
 
 
 # scripts/events/events/crisis/undead_hoggart_event.nut
@@ -35,7 +35,7 @@ msgstr "拿起武器！"
 # scripts/events/events/crisis/civilwar_hungry_hamlet_event.nut
 # scripts/events/events/crisis/civilwar_trapped_soldiers_event.nut
 msgid " suffers "
-msgstr " suffers "
+msgstr ""
 
 
 # scripts/events/events/crisis/greenskins_pet_goblin_event.nut
@@ -128,7 +128,7 @@ msgstr "你不妨加入我们。"
 
 # scripts/events/events/crisis/civilwar_intro_event.nut
 msgid "At %townname%"
-msgstr "At %townname%"
+msgstr ""
 
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
@@ -153,7 +153,7 @@ msgstr "你失去了 [color="
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
 msgid "You earn [color="
-msgstr "You earn [color="
+msgstr ""
 
 
 # scripts/events/events/crisis/civilwar_conscription_event.nut
@@ -171,7 +171,7 @@ msgstr "你失去了 "
 # scripts/events/events/crisis/civilwar_conscription_event.nut
 # scripts/events/events/crisis/civilwar_trapped_soldiers_event.nut
 msgid "At %town%"
-msgstr "At %town%"
+msgstr ""
 
 
 # scripts/events/events/crisis/undead_frozen_pond_event.nut
@@ -281,7 +281,7 @@ msgstr "噢，好吧。"
 
 # scripts/events/events/crisis/civilwar_deserter_event.nut
 msgid "the Honorable"
-msgstr "the Honorable"
+msgstr ""
 
 
 # scripts/events/events/crisis/civilwar_deserter_event.nut
@@ -438,7 +438,7 @@ msgstr "你一定是疯了，隐士。疯了！"
 
 # scripts/events/events/crisis/greenskins_pet_goblin_event.nut
 msgid "]-2[/color] Medical Supplies."
-msgstr "]-2[/color] Medical Supplies."
+msgstr ""
 
 
 # scripts/events/events/crisis/greenskins_pet_goblin_event.nut
@@ -901,7 +901,7 @@ msgstr "[img]gfx/ui/events/event_59.png[/img]{通常情况下，一场真正的�
 
 # scripts/events/events/crisis/civilwar_town_conquered_event.nut
 msgid "Defeated"
-msgstr "Defeated"
+msgstr ""
 
 
 # scripts/events/events/crisis/civilwar_town_conquered_event.nut
@@ -1131,12 +1131,12 @@ msgstr "[img]gfx/ui/events/event_59.png[/img]%randombrother% 进入你的帐篷�
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
 msgid "Denied "
-msgstr "Denied "
+msgstr ""
 
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
 msgid " a favor"
-msgstr " a favor"
+msgstr ""
 
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
@@ -1578,7 +1578,7 @@ msgstr "拒绝帮助他们的人"
 
 # scripts/events/events/crisis/civilwar_trapped_soldiers_event.nut
 msgid "Not sure what I expected."
-msgstr "Not sure what I expected."
+msgstr ""
 
 
 # scripts/events/events/crisis/civilwar_trapped_soldiers_event.nut
@@ -1618,7 +1618,7 @@ msgstr "[img]gfx/ui/events/event_43.png[/img]参与其中可能只会使事情�
 
 # scripts/events/events/crisis/civilwar_trapped_soldiers_event.nut
 msgid "[img]gfx/ui/events/event_43.png[/img]There's no reason soldiers should be lynched like this. Or, for some reason, the sudden pang of justice in your side says so. With a loud voice, you announce yourself as a neutral third party here to mediate the ongoings. The cordial proceedings last for all over one second before the peasants, more shrill and hysterical than ever, announce that you are but more soldiers from %noblehouse%. You raise your hands to explain, but a melee breaks out.\n\n You can only grimace as you watch your men cut the peasants down one by one, like strong-armed farmers scything through the freshest of wheat fields. It is a gruesome sight and a few bystanders look on in horror before running off, surely to tell others of what you have done here. The soldiers, conversely, thank your bloodied and gore covered men."
-msgstr "[img]gfx/ui/events/event_43.png[/img]There's no reason soldiers should be lynched like this. Or, for some reason, the sudden pang of justice in your side says so. With a loud voice, you announce yourself as a neutral third party here to mediate the ongoings. The cordial proceedings last for all over one second before the peasants, more shrill and hysterical than ever, announce that you are but more soldiers from %noblehouse%. You raise your hands to explain, but a melee breaks out.\n\n You can only grimace as you watch your men cut the peasants down one by one, like strong-armed farmers scything through the freshest of wheat fields. It is a gruesome sight and a few bystanders look on in horror before running off, surely to tell others of what you have done here. The soldiers, conversely, thank your bloodied and gore covered men."
+msgstr ""
 
 
 # scripts/events/events/crisis/greenskins_warnings_event.nut

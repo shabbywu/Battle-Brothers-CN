@@ -1,31 +1,31 @@
 # scripts/items/armor/armor.nut
 msgid "'s "
-msgstr "'s "
+msgstr ""
 
 
 # scripts/items/armor/armor.nut
 msgid "[/b] damage"
-msgstr "[/b] damage"
+msgstr ""
 
 
 # scripts/items/armor/armor.nut
 msgid " is hit for [b]"
-msgstr " is hit for [b]"
+msgstr ""
 
 
 # scripts/items/armor/armor.nut
 msgid "Maximum Fatigue [color="
-msgstr "Maximum Fatigue [color="
+msgstr ""
 
 
 # scripts/items/armor/armor.nut
 msgid "progressbar"
-msgstr "progressbar"
+msgstr ""
 
 
 # scripts/items/armor/armor.nut
 msgid "player"
-msgstr "player"
+msgstr ""
 
 
 # scripts/items/armor/armor.nut
@@ -35,7 +35,7 @@ msgstr "[/b] damage and has been 损毁了！"
 
 # scripts/items/armor/armor.nut
 msgid "armor-body-slim"
-msgstr "armor-body-slim"
+msgstr ""
 
 
 # scripts/items/armor/werewolf_mail_armor.nut

@@ -420,12 +420,12 @@ msgstr "重建工作"
 
 # scripts/entity/world/settlements/situations/rebuilding_effort_situation.nut
 msgid "In an effort to rebuild the nearby "
-msgstr "In an effort to rebuild the nearby "
+msgstr ""
 
 
 # scripts/entity/world/settlements/situations/rebuilding_effort_situation.nut
 msgid ", building materials are in high demand and low supply."
-msgstr ", building materials are in high demand and low supply."
+msgstr ""
 
 
 # scripts/entity/world/settlements/situations/rebuilding_effort_situation.nut
@@ -560,7 +560,7 @@ msgstr "在这个季节之外打猎可能会让你的手马上被砍掉！不过
 # scripts/entity/world/settlements/situations/unhold_attacks_situation.nut
 # scripts/entity/world/settlements/situations/warehouse_burned_down_situation.nut
 msgid " has "
-msgstr " has "
+msgstr ""
 
 
 # scripts/entity/world/settlements/situations/lost_at_sea_situation.nut
@@ -590,7 +590,7 @@ msgstr "%settlement% 的讨厌的姑娘们，哭哭啼啼。我去卖了几头�
 
 # scripts/entity/world/settlements/situations/slave_revolt_situation.nut
 msgid " has a "
-msgstr " has a "
+msgstr ""
 
 
 # scripts/entity/world/settlements/situations/slave_revolt_situation.nut
@@ -720,27 +720,27 @@ msgstr "多年来我一直劝我堂兄别在路上抢劫别人。没有办法，
 
 # scripts/entity/world/settlements/situations/collectors_situation.nut
 msgid "Collectors"
-msgstr "Collectors"
+msgstr ""
 
 
 # scripts/entity/world/settlements/situations/collectors_situation.nut
 msgid "See this here dog tooth? I plan on selling it over in %settlement%, I heard they pay good coin for animal parts there."
-msgstr "See this here dog tooth? I plan on selling it over in %settlement%, I heard they pay good coin for animal parts there."
+msgstr ""
 
 
 # scripts/entity/world/settlements/situations/collectors_situation.nut
 msgid "Several collectors seeking exotic curios have made their way into town. There's good coin to be made selling beast trophies and like here."
-msgstr "Several collectors seeking exotic curios have made their way into town. There's good coin to be made selling beast trophies and like here."
+msgstr ""
 
 
 # scripts/entity/world/settlements/situations/collectors_situation.nut
 msgid "Are you lot beast hunters? I've heard that some strange characters have shown up in %settlement% and are buying every exotic monster trophy they can find."
-msgstr "Are you lot beast hunters? I've heard that some strange characters have shown up in %settlement% and are buying every exotic monster trophy they can find."
+msgstr ""
 
 
 # scripts/entity/world/settlements/situations/collectors_situation.nut
 msgid "It seems all sorts of beast slayers and corpse-pickers are gathering in %settlement%. Something about selling beast trophies, I heard. Sounds like witchcraft to me."
-msgstr "It seems all sorts of beast slayers and corpse-pickers are gathering in %settlement%. Something about selling beast trophies, I heard. Sounds like witchcraft to me."
+msgstr ""
 
 
 # scripts/entity/world/settlements/situations/seasonal_fair_situation.nut
@@ -1113,7 +1113,7 @@ msgstr "我年轻的时候当过兵，我很喜欢。即使是行军。但当我
 
 # scripts/entity/world/settlements/situations/rich_veins_situation.nut
 msgid " had "
-msgstr " had "
+msgstr ""
 
 
 # scripts/entity/world/settlements/situations/rich_veins_situation.nut

@@ -1,12 +1,12 @@
 # scripts/entity/tactical/actor.nut
 # scripts/entity/tactical/player.nut
 msgid "State"
-msgstr "State"
+msgstr ""
 
 
 # scripts/entity/tactical/goblin.nut
 msgid "A "
-msgstr "A "
+msgstr ""
 
 
 # scripts/entity/tactical/warwolf.nut
@@ -26,12 +26,12 @@ msgstr "战犬"
 
 # scripts/entity/tactical/actor.nut
 msgid "Party"
-msgstr "Party"
+msgstr ""
 
 
 # scripts/entity/tactical/actor.nut
 msgid "#ffffff"
-msgstr "#ffffff"
+msgstr ""
 
 
 # scripts/entity/tactical/tactical_entity_manager.nut
@@ -41,42 +41,42 @@ msgstr " 从死亡中复活"
 
 # scripts/entity/tactical/tactical_entity_manager.nut
 msgid "Too few indebted in battle"
-msgstr "Too few indebted in battle"
+msgstr ""
 
 
 # scripts/entity/tactical/tactical_entity_manager.nut
 msgid "Too many participants, arg!"
-msgstr "Too many participants, arg!"
+msgstr ""
 
 
 # scripts/entity/tactical/player_corpse_stub.nut
 # scripts/entity/tactical/player.nut
 msgid " daily"
-msgstr " daily"
+msgstr ""
 
 
 # scripts/entity/tactical/player_corpse_stub.nut
 # scripts/entity/tactical/player.nut
 msgid " days."
-msgstr " days."
+msgstr ""
 
 
 # scripts/entity/tactical/player_corpse_stub.nut
 # scripts/entity/tactical/player.nut
 msgid "Level "
-msgstr "Level "
+msgstr ""
 
 
 # scripts/entity/tactical/player_corpse_stub.nut
 # scripts/entity/tactical/player.nut
 msgid " kills."
-msgstr " kills."
+msgstr ""
 
 
 # scripts/entity/tactical/player_corpse_stub.nut
 # scripts/entity/tactical/player.nut
 msgid " Took part in "
-msgstr " Took part in "
+msgstr ""
 
 
 # scripts/entity/tactical/player_corpse_stub.nut
@@ -84,29 +84,29 @@ msgstr " Took part in "
 # scripts/entity/tactical/actor.nut
 # scripts/entity/tactical/player.nut
 msgid "tacticalentity("
-msgstr "tacticalentity("
+msgstr ""
 
 
 # scripts/entity/tactical/player_corpse_stub.nut
 msgid " battles and has "
-msgstr " battles and has "
+msgstr ""
 
 
 # scripts/entity/tactical/player_corpse_stub.nut
 # scripts/entity/tactical/player.nut
 msgid "With the company for "
-msgstr "With the company for "
+msgstr ""
 
 
 # scripts/entity/tactical/player_corpse_stub.nut
 msgid "Had just joined the company."
-msgstr "Had just joined the company."
+msgstr ""
 
 
 # scripts/entity/tactical/player_corpse_stub.nut
 # scripts/entity/tactical/player.nut
 msgid "Paid [img]gfx/ui/tooltips/money.png[/img]"
-msgstr "Paid [img]gfx/ui/tooltips/money.png[/img]"
+msgstr ""
 
 
 # scripts/entity/tactical/player_corpse_stub.nut
@@ -118,7 +118,7 @@ msgstr "战队的创始人。"
 # scripts/entity/tactical/player_corpse_stub.nut
 # scripts/entity/tactical/player.nut
 msgid " The most powerful opponent he vanquished was "
-msgstr " The most powerful opponent he vanquished was "
+msgstr ""
 
 
 # scripts/entity/tactical/entity.nut
@@ -133,25 +133,25 @@ msgstr "阻挡移动"
 
 # scripts/entity/tactical/actor.nut
 msgid "'s "
-msgstr "'s "
+msgstr ""
 
 
 # scripts/entity/tactical/actor.nut
 # scripts/entity/tactical/player.nut
 msgid " turn"
-msgstr " turn"
+msgstr ""
 
 
 # scripts/entity/tactical/actor.nut
 # scripts/entity/tactical/player.nut
 msgid " turns"
-msgstr " turns"
+msgstr ""
 
 
 # scripts/entity/tactical/actor.nut
 # scripts/entity/tactical/player.nut
 msgid "Acts in "
-msgstr "Acts in "
+msgstr ""
 
 
 # scripts/entity/tactical/actor.nut
@@ -172,7 +172,7 @@ msgstr " 是死了."
 
 # scripts/entity/tactical/actor.nut
 msgid "[/b] damage"
-msgstr "[/b] damage"
+msgstr ""
 
 
 # scripts/entity/tactical/actor.nut
@@ -202,7 +202,7 @@ msgstr "隐藏对手"
 
 # scripts/entity/tactical/actor.nut
 msgid " is hit for [b]"
-msgstr " is hit for [b]"
+msgstr ""
 
 
 # scripts/entity/tactical/actor.nut
@@ -239,12 +239,12 @@ msgstr "受伤了"
 
 # scripts/entity/tactical/actor.nut
 msgid ",socket,miniboss,arrow)"
-msgstr ",socket,miniboss,arrow)"
+msgstr ""
 
 
 # scripts/entity/tactical/actor.nut
 msgid "'s armor is hit for [b]"
-msgstr "'s armor is hit for [b]"
+msgstr ""
 
 
 # scripts/entity/tactical/actor.nut
@@ -255,7 +255,7 @@ msgstr "%[/color] 命中几率"
 
 # scripts/entity/tactical/actor.nut
 msgid "[/b] damage and suffers "
-msgstr "[/b] damage and suffers "
+msgstr ""
 
 
 # scripts/entity/tactical/actor.nut
@@ -266,22 +266,22 @@ msgstr " 已经退出战斗"
 
 # scripts/entity/tactical/actor.nut
 msgid "]Not currently in sight[/color]"
-msgstr "]Not currently in sight[/color]"
+msgstr ""
 
 
 # scripts/entity/tactical/actor.nut
 msgid " is reborn by the power of the Lorekeeper!"
-msgstr " is reborn by the power of the Lorekeeper!"
+msgstr ""
 
 
 # scripts/entity/tactical/player.nut
 msgid " day)"
-msgstr " day)"
+msgstr ""
 
 
 # scripts/entity/tactical/player.nut
 msgid " days)"
-msgstr " days)"
+msgstr ""
 
 
 # scripts/entity/tactical/player.nut
@@ -291,12 +291,12 @@ msgstr "内脏流出"
 
 # scripts/entity/tactical/player.nut
 msgid " kill."
-msgstr " kill."
+msgstr ""
 
 
 # scripts/entity/tactical/player.nut
 msgid " battle"
-msgstr " battle"
+msgstr ""
 
 
 # scripts/entity/tactical/player.nut
@@ -306,12 +306,12 @@ msgstr "斩首"
 
 # scripts/entity/tactical/player.nut
 msgid " battles"
-msgstr " battles"
+msgstr ""
 
 
 # scripts/entity/tactical/player.nut
 msgid " and has "
-msgstr " and has "
+msgstr ""
 
 
 # scripts/entity/tactical/player.nut
@@ -326,7 +326,7 @@ msgstr "解体"
 
 # scripts/entity/tactical/player.nut
 msgid "Light Wounds ("
-msgstr "Light Wounds ("
+msgstr ""
 
 
 # scripts/entity/tactical/player.nut
@@ -346,12 +346,12 @@ msgstr "战斗前线"
 
 # scripts/entity/tactical/player.nut
 msgid "Devoured by a Kraken"
-msgstr "Devoured by a Kraken"
+msgstr ""
 
 
 # scripts/entity/tactical/player.nut
 msgid ",socket,miniboss,arrow"
-msgstr ",socket,miniboss,arrow"
+msgstr ""
 
 
 # scripts/entity/tactical/player.nut
@@ -376,11 +376,11 @@ msgstr "刚加入战队。"
 
 # scripts/entity/tactical/human.nut
 msgid "#fbffff"
-msgstr "#fbffff"
+msgstr ""
 
 
 # scripts/entity/tactical/human.nut
 msgid "Wiederganger "
-msgstr "Wiederganger "
+msgstr ""
 
 

@@ -10,7 +10,7 @@ msgstr "鼻缺失"
 
 # scripts/skills/injury_permanent/missing_nose_injury.nut
 msgid "]-10%[/color] Max Fatigue"
-msgstr "]-10%[/color] Max Fatigue"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/missing_nose_injury.nut
@@ -25,17 +25,17 @@ msgstr "肘关节折断"
 
 # scripts/skills/injury_permanent/broken_elbow_joint_injury.nut
 msgid "]-20%[/color] Melee Skill"
-msgstr "]-20%[/color] Melee Skill"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/broken_elbow_joint_injury.nut
 msgid "]-20%[/color] Ranged Skill"
-msgstr "]-20%[/color] Ranged Skill"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/broken_elbow_joint_injury.nut
 msgid "]-30%[/color] Melee Defense"
-msgstr "]-30%[/color] Melee Defense"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/broken_elbow_joint_injury.nut
@@ -70,12 +70,12 @@ msgstr "眼缺失"
 
 # scripts/skills/injury_permanent/missing_eye_injury.nut
 msgid "]-2[/color] Vision"
-msgstr "]-2[/color] Vision"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/missing_eye_injury.nut
 msgid "]-50%[/color] Ranged Skill"
-msgstr "]-50%[/color] Ranged Skill"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/missing_eye_injury.nut
@@ -85,7 +85,7 @@ msgstr "失明的眼睛使正确判断距离变得困难，并且限制了视野
 
 # scripts/skills/injury_permanent/collapsed_lung_part_injury.nut
 msgid "]-40%[/color] Fatigue"
-msgstr "]-40%[/color] Fatigue"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/collapsed_lung_part_injury.nut
@@ -105,12 +105,12 @@ msgstr "脑损伤"
 
 # scripts/skills/injury_permanent/brain_damage_injury.nut
 msgid "]+15%[/color] Resolve"
-msgstr "]+15%[/color] Resolve"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/brain_damage_injury.nut
 msgid "]-25%[/color] Initiative"
-msgstr "]-25%[/color] Initiative"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/brain_damage_injury.nut
@@ -125,7 +125,7 @@ msgstr "耳缺失"
 
 # scripts/skills/injury_permanent/missing_ear_injury.nut
 msgid "]-10%[/color] Initiative"
-msgstr "]-10%[/color] Initiative"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/missing_ear_injury.nut
@@ -140,7 +140,7 @@ msgstr "心脏衰弱"
 
 # scripts/skills/injury_permanent/weakened_heart_injury.nut
 msgid "]-30%[/color] Hitpoints"
-msgstr "]-30%[/color] Hitpoints"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/weakened_heart_injury.nut
@@ -155,7 +155,7 @@ msgstr "残废足"
 
 # scripts/skills/injury_permanent/maimed_foot_injury.nut
 msgid "]-20%[/color] Initiative"
-msgstr "]-20%[/color] Initiative"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/maimed_foot_injury.nut
@@ -175,17 +175,17 @@ msgstr "膝盖折断"
 
 # scripts/skills/injury_permanent/broken_knee_injury.nut
 msgid "]-40%[/color] Initiative"
-msgstr "]-40%[/color] Initiative"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/broken_knee_injury.nut
 msgid "]-40%[/color] Melee Defense"
-msgstr "]-40%[/color] Melee Defense"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/broken_knee_injury.nut
 msgid "]-40%[/color] Ranged Defense"
-msgstr "]-40%[/color] Ranged Defense"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/broken_knee_injury.nut
@@ -200,12 +200,12 @@ msgstr "精神创伤"
 
 # scripts/skills/injury_permanent/traumatized_injury.nut
 msgid "]-40%[/color] Resolve"
-msgstr "]-40%[/color] Resolve"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/traumatized_injury.nut
 msgid "]-30%[/color] Initiative"
-msgstr "]-30%[/color] Initiative"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/traumatized_injury.nut
@@ -220,12 +220,12 @@ msgstr "手指缺失"
 
 # scripts/skills/injury_permanent/missing_finger_injury.nut
 msgid "]-5%[/color] Melee Skill"
-msgstr "]-5%[/color] Melee Skill"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/missing_finger_injury.nut
 msgid "]-5%[/color] Ranged Skill"
-msgstr "]-5%[/color] Ranged Skill"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/missing_finger_injury.nut

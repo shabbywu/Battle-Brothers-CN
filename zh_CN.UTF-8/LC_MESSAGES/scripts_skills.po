@@ -1,11 +1,11 @@
 # scripts/skills/skill.nut
 msgid "[/color] damage to armor"
-msgstr "[/color] damage to armor"
+msgstr ""
 
 
 # scripts/skills/skill.nut
 msgid "#ffffff"
-msgstr "#ffffff"
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -15,7 +15,7 @@ msgstr "愤怒誓言"
 
 # scripts/skills/skill.nut
 msgid " uses "
-msgstr " uses "
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -25,7 +25,7 @@ msgstr "杀死"
 
 # scripts/skills/skill.nut
 msgid "Assets"
-msgstr "Assets"
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -35,17 +35,17 @@ msgstr "还击"
 
 # scripts/skills/skill.nut
 msgid "Nighttime"
-msgstr "Nighttime"
+msgstr ""
 
 
 # scripts/skills/skill.nut
 msgid "'s shield"
-msgstr "'s shield"
+msgstr ""
 
 
 # scripts/skills/skill.nut
 msgid " has hit "
-msgstr " has hit "
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -55,12 +55,12 @@ msgstr "太近"
 
 # scripts/skills/skill.nut
 msgid " and hits "
-msgstr " and hits "
+msgstr ""
 
 
 # scripts/skills/skill.nut
 msgid ", Rolled: "
-msgstr ", Rolled: "
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -70,12 +70,12 @@ msgstr "盾墙"
 
 # scripts/skills/skill.nut
 msgid " (Chance: "
-msgstr " (Chance: "
+msgstr ""
 
 
 # scripts/skills/skill.nut
 msgid "[b][color="
-msgstr "[b][color="
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -95,7 +95,7 @@ msgstr "距离 "
 
 # scripts/skills/skill.nut
 msgid " and misses "
-msgstr " and misses "
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -115,7 +115,7 @@ msgstr "处于恶劣地形"
 
 # scripts/skills/skill.nut
 msgid " has destroyed "
-msgstr " has destroyed "
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -125,7 +125,7 @@ msgstr "高度优势"
 
 # scripts/skills/skill.nut
 msgid "Inflicts [color="
-msgstr "Inflicts [color="
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -135,7 +135,7 @@ msgstr "装备盾牌"
 
 # scripts/skills/skill.nut
 msgid "[/color] - [color="
-msgstr "[/color] - [color="
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -145,7 +145,7 @@ msgstr "高度劣势"
 
 # scripts/skills/skill.nut
 msgid "]0[/color] - [color="
-msgstr "]0[/color] - [color="
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -165,27 +165,27 @@ msgstr "免疫定身"
 
 # scripts/skills/skill.nut
 msgid "'s shield for 1 damage"
-msgstr "'s shield for 1 damage"
+msgstr ""
 
 
 # scripts/skills/skill.nut
 msgid "Immune to being disarmed"
-msgstr "Immune to being disarmed"
+msgstr ""
 
 
 # scripts/skills/skill.nut
 msgid " Fatigue[/color][/b][/i]\n"
-msgstr " Fatigue[/color][/b][/i]\n"
+msgstr ""
 
 
 # scripts/skills/skill.nut
 msgid "[/color] can ignore armor"
-msgstr "[/color] can ignore armor"
+msgstr ""
 
 
 # scripts/skills/skill.nut
 msgid " damage to hitpoints[/color]"
-msgstr " damage to hitpoints[/color]"
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -195,7 +195,7 @@ msgstr "远程抗性"
 
 # scripts/skills/skill.nut
 msgid "[/color] damage that ignores armor"
-msgstr "[/color] damage that ignores armor"
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -205,17 +205,17 @@ msgstr "穿刺抗性"
 
 # scripts/skills/skill.nut
 msgid " and the shot goes astray and hits "
-msgstr " and the shot goes astray and hits "
+msgstr ""
 
 
 # scripts/skills/skill.nut
 msgid " and the shot goes astray and misses "
-msgstr " and the shot goes astray and misses "
+msgstr ""
 
 
 # scripts/skills/skill.nut
 msgid " AP[/color][/b] to use and builds up "
-msgstr " AP[/color][/b] to use and builds up "
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -225,7 +225,7 @@ msgstr "免疫撞退或钩拉"
 
 # scripts/skills/skill.nut
 msgid "[/color] damage to hitpoints, of which [color="
-msgstr "[/color] damage to hitpoints, of which [color="
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -235,31 +235,31 @@ msgstr "]不能使用，因为这个角色已经宣誓禁止使用远程武器�
 
 # scripts/skills/skill_container.nut
 msgid ",H"
-msgstr ",H"
+msgstr ""
 
 
 # scripts/skills/skill_container.nut
 msgid "skill"
-msgstr "skill"
+msgstr ""
 
 
 # scripts/skills/skill_container.nut
 msgid "Skill ["
-msgstr "Skill ["
+msgstr ""
 
 
 # scripts/skills/skill_container.nut
 msgid "] removed from ["
-msgstr "] removed from ["
+msgstr ""
 
 
 # scripts/skills/skill_container.nut
 msgid "# A = Active, P = Passive, H = Hidden"
-msgstr "# A = Active, P = Passive, H = Hidden"
+msgstr ""
 
 
 # scripts/skills/skill_container.nut
 msgid "##############################################"
-msgstr "##############################################"
+msgstr ""
 
 

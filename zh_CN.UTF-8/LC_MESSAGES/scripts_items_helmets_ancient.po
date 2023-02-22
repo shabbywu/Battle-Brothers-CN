@@ -15,7 +15,7 @@ msgstr "古代桂冠"
 
 # scripts/items/helmets/ancient/ancient_lich_headpiece.nut
 msgid "Ancient Headpiece"
-msgstr "Ancient Headpiece"
+msgstr ""
 
 
 # scripts/items/helmets/ancient/ancient_legionary_helmet.nut

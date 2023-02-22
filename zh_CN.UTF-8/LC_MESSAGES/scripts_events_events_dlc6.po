@@ -7,7 +7,7 @@ msgstr "狼"
 # scripts/events/events/dlc6/dried_oasis_event.nut
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "[/color] Crowns"
-msgstr "[/color] Crowns"
+msgstr ""
 
 
 # scripts/events/events/dlc6/runaway_harem_event.nut
@@ -28,7 +28,7 @@ msgstr "战斗之后…"
 # scripts/events/events/dlc6/desert_fall_event.nut
 # scripts/events/events/dlc6/dried_oasis_event.nut
 msgid " suffers "
-msgstr " suffers "
+msgstr ""
 
 
 # scripts/events/events/dlc6/gunpowder_wagon_event.nut
@@ -103,7 +103,7 @@ msgstr "在 %townname%…"
 # scripts/events/events/dlc6/fire_juggler_event.nut
 # scripts/events/events/dlc6/sword_eater_event.nut
 msgid "At %townname%"
-msgstr "At %townname%"
+msgstr ""
 
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
@@ -113,7 +113,7 @@ msgstr "这里不适合你。"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "Welcome to the %companyname%."
-msgstr "Welcome to the %companyname%."
+msgstr ""
 
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
@@ -143,7 +143,7 @@ msgstr "]1,000[/color] 克朗"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "[/color] Melee Skill"
-msgstr "[/color] Melee Skill"
+msgstr ""
 
 
 # scripts/events/events/dlc6/sellsword_vs_bees_event.nut
@@ -159,7 +159,7 @@ msgstr "你失去了 "
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid " gains [color="
-msgstr " gains [color="
+msgstr ""
 
 
 # scripts/events/events/dlc6/dried_oasis_event.nut
@@ -789,7 +789,7 @@ msgstr "[img]gfx/ui/events/event_163.png[/img]{你在街上碰到一位老人。
 
 # scripts/events/events/dlc6/sellsword_vs_bees_event.nut
 msgid "Good... job"
-msgstr "Good... job"
+msgstr ""
 
 
 # scripts/events/events/dlc6/sellsword_vs_bees_event.nut
@@ -849,22 +849,22 @@ msgstr "%terrainImage%{你确定野人 %wildman% 在他森林生活中见过一�
 
 # scripts/events/events/dlc6/pirates_event.nut
 msgid "Saved "
-msgstr "Saved "
+msgstr ""
 
 
 # scripts/events/events/dlc6/pirates_event.nut
 msgid "the Sailor"
-msgstr "the Sailor"
+msgstr ""
 
 
 # scripts/events/events/dlc6/pirates_event.nut
 msgid "the Mariner"
-msgstr "the Mariner"
+msgstr ""
 
 
 # scripts/events/events/dlc6/pirates_event.nut
 msgid " from a life in slavery"
-msgstr " from a life in slavery"
+msgstr ""
 
 
 # scripts/events/events/dlc6/pirates_event.nut
@@ -974,12 +974,12 @@ msgstr "是时候离开了。"
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
 msgid "]1[/color] Crown"
-msgstr "]1[/color] Crown"
+msgstr ""
 
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
 msgid "You found %name% in "
-msgstr "You found %name% in "
+msgstr ""
 
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
@@ -1044,12 +1044,12 @@ msgstr "保重。"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "firejuggler"
-msgstr "firejuggler"
+msgstr ""
 
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "the Fire Juggler"
-msgstr "the Fire Juggler"
+msgstr ""
 
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
@@ -1074,7 +1074,7 @@ msgstr "被一个玩火杂耍者逗乐了"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "You found %name% on the streets of "
-msgstr "You found %name% on the streets of "
+msgstr ""
 
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
@@ -1094,12 +1094,12 @@ msgstr "愿镀金者给我们的道路如同你希望的一般友好。"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "Got saved from a possible flaming death by a fellow juggler"
-msgstr "Got saved from a possible flaming death by a fellow juggler"
+msgstr ""
 
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid ", ready to put on fiery display of record-breaking fire juggling that could have well cost him his life. Luckily, "
-msgstr ", ready to put on fiery display of record-breaking fire juggling that could have well cost him his life. Luckily, "
+msgstr ""
 
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
@@ -1199,7 +1199,7 @@ msgstr "祝好运。"
 
 # scripts/events/events/dlc6/sellsword_retires_event.nut
 msgid "[/color] Crown"
-msgstr "[/color] Crown"
+msgstr ""
 
 
 # scripts/events/events/dlc6/sellsword_retires_event.nut
@@ -1239,7 +1239,7 @@ msgstr "好哇！ 这儿，几个硬币，给你的。"
 
 # scripts/events/events/dlc6/sword_eater_event.nut
 msgid "Local entertainers spread the word about you"
-msgstr "Local entertainers spread the word about you"
+msgstr ""
 
 
 # scripts/events/events/dlc6/sword_eater_event.nut
@@ -1314,12 +1314,12 @@ msgstr "神跟你对过话，%monk%，你快去跟他说说！"
 
 # scripts/events/events/dlc6/desert_well_event.nut
 msgid " intervened and convinced him to join your company instead to make a new life for himself."
-msgstr " intervened and convinced him to join your company instead to make a new life for himself."
+msgstr ""
 
 
 # scripts/events/events/dlc6/desert_well_event.nut
 msgid "A string of bad fortune led the former arms-peddler %name% to attempt to end his life by blowing himself up, but "
-msgstr "A string of bad fortune led the former arms-peddler %name% to attempt to end his life by blowing himself up, but "
+msgstr ""
 
 
 # scripts/events/events/dlc6/desert_well_event.nut
@@ -1439,7 +1439,7 @@ msgstr "不，你离远点。"
 
 # scripts/events/events/dlc6/traveler_south_event.nut
 msgid "May your path be ever gilded."
-msgstr "May your path be ever gilded."
+msgstr ""
 
 
 # scripts/events/events/dlc6/traveler_south_event.nut

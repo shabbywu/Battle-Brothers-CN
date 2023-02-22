@@ -1,11 +1,11 @@
 # scripts/entity/world/world_entity.nut
 msgid "A "
-msgstr "A "
+msgstr ""
 
 
 # scripts/entity/world/world_entity.nut
 msgid "An "
-msgstr "An "
+msgstr ""
 
 
 # scripts/entity/world/world_entity.nut
@@ -26,75 +26,75 @@ msgstr "未知的"
 # scripts/entity/world/attached_location.nut
 # scripts/entity/world/player_party.nut
 msgid "ffffff00"
-msgstr "ffffff00"
+msgstr ""
 
 
 # scripts/entity/world/combat_manager.nut
 msgid "Entity cannot be attacked!"
-msgstr "Entity cannot be attacked!"
+msgstr ""
 
 
 # scripts/entity/world/world_entity.nut
 msgid "Even"
-msgstr "Even"
+msgstr ""
 
 
 # scripts/entity/world/world_entity.nut
 msgid "The "
-msgstr "The "
+msgstr ""
 
 
 # scripts/entity/world/world_entity.nut
 msgid "Weaker"
-msgstr "Weaker"
+msgstr ""
 
 
 # scripts/entity/world/world_entity.nut
 # scripts/entity/world/entity_manager.nut
 msgid "selection"
-msgstr "selection"
+msgstr ""
 
 
 # scripts/entity/world/world_entity.nut
 msgid "Impossible"
-msgstr "Impossible"
+msgstr ""
 
 
 # scripts/entity/world/world_entity.nut
 msgid "Challenging"
-msgstr "Challenging"
+msgstr ""
 
 
 # scripts/entity/world/world_entity.nut
 msgid "worldentity("
-msgstr "worldentity("
+msgstr ""
 
 
 # scripts/entity/world/world_entity.nut
 msgid "Slightly Weaker"
-msgstr "Slightly Weaker"
+msgstr ""
 
 
 # scripts/entity/world/settlement.nut
 # scripts/entity/world/attached_location.nut
 # scripts/entity/world/player_party.nut
 msgid "lighting"
-msgstr "lighting"
+msgstr ""
 
 
 # scripts/entity/world/settlement.nut
 msgid "goods"
-msgstr "goods"
+msgstr ""
 
 
 # scripts/entity/world/settlement.nut
 msgid "Ruins of "
-msgstr "Ruins of "
+msgstr ""
 
 
 # scripts/entity/world/settlement.nut
 msgid "Relations: "
-msgstr "Relations: "
+msgstr ""
 
 
 # scripts/entity/world/settlement.nut
@@ -116,39 +116,39 @@ msgstr "这座曾经令人生畏的城堡只剩下废墟。"
 # scripts/entity/world/entity_manager.nut
 # scripts/entity/world/player_party.nut
 msgid "base"
-msgstr "base"
+msgstr ""
 
 
 # scripts/entity/world/party.nut
 msgid "From "
-msgstr "From "
+msgstr ""
 
 
 # scripts/entity/world/party.nut
 msgid "combat"
-msgstr "combat"
+msgstr ""
 
 
 # scripts/entity/world/party.nut
 msgid "orders"
-msgstr "orders"
+msgstr ""
 
 
 # scripts/entity/world/party.nut
 # scripts/entity/world/entity_manager.nut
 # scripts/entity/world/player_party.nut
 msgid "banner"
-msgstr "banner"
+msgstr ""
 
 
 # scripts/entity/world/party.nut
 msgid "Fighting"
-msgstr "Fighting"
+msgstr ""
 
 
 # scripts/entity/world/party.nut
 msgid "Hired by "
-msgstr "Hired by "
+msgstr ""
 
 
 # scripts/entity/world/party.nut
@@ -193,6 +193,6 @@ msgstr "这个地方有防御工事"
 
 # scripts/entity/world/location.nut
 msgid "Location forfeited combat - no defenders in spawnlist!"
-msgstr "Location forfeited combat - no defenders in spawnlist!"
+msgstr ""
 
 

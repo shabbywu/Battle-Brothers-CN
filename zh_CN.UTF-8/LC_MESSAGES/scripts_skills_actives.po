@@ -3,7 +3,7 @@
 # scripts/skills/actives/kraken_devour_skill.nut
 # scripts/skills/actives/gruesome_feast.nut
 msgid "Corpse"
-msgstr "Corpse"
+msgstr ""
 
 
 # scripts/skills/actives/demolish_armor_skill.nut
@@ -14,12 +14,12 @@ msgstr "Corpse"
 # scripts/skills/actives/overhead_strike.nut
 # scripts/skills/actives/pound.nut
 msgid "[/color] damage to armor"
-msgstr "[/color] damage to armor"
+msgstr ""
 
 
 # scripts/skills/actives/split_man.nut
 msgid "[/color] damage to hitpoints"
-msgstr "[/color] damage to hitpoints"
+msgstr ""
 
 
 # scripts/skills/actives/taunt.nut
@@ -85,7 +85,7 @@ msgstr "瀑布"
 
 # scripts/skills/actives/throw_dirt_skill.nut
 msgid "ffffffff"
-msgstr "ffffffff"
+msgstr ""
 
 
 # scripts/skills/actives/kraken_move_skill.nut
@@ -94,55 +94,55 @@ msgstr "ffffffff"
 # scripts/skills/actives/merge_golem_skill.nut
 # scripts/skills/actives/throw_dirt_skill.nut
 msgid "ffffff00"
-msgstr "ffffff00"
+msgstr ""
 
 
 # scripts/skills/actives/teleport_skill.nut
 msgid "4cccf300"
-msgstr "4cccf300"
+msgstr ""
 
 
 # scripts/skills/actives/throw_dirt_skill.nut
 msgid "eeeeee00"
-msgstr "eeeeee00"
+msgstr ""
 
 
 # scripts/skills/actives/darkflight.nut
 msgid "00000000"
-msgstr "00000000"
+msgstr ""
 
 
 # scripts/skills/actives/throw_dirt_skill.nut
 msgid "eeeeeeee"
-msgstr "eeeeeeee"
+msgstr ""
 
 
 # scripts/skills/actives/throw_golem_skill.nut
 msgid "Party"
-msgstr "Party"
+msgstr ""
 
 
 # scripts/skills/actives/web_skill.nut
 # scripts/skills/actives/throw_net.nut
 # scripts/skills/actives/horror_skill.nut
 msgid "#ffffff"
-msgstr "#ffffff"
+msgstr ""
 
 
 # scripts/skills/actives/alp_teleport_skill.nut
 msgid "ffffff2f"
-msgstr "ffffff2f"
+msgstr ""
 
 
 # scripts/skills/actives/alp_teleport_skill.nut
 msgid "ffffff5f"
-msgstr "ffffff5f"
+msgstr ""
 
 
 # scripts/skills/actives/throw_spear_skill.nut
 # scripts/skills/actives/split_shield.nut
 msgid "[/b] damage"
-msgstr "[/b] damage"
+msgstr ""
 
 
 # scripts/skills/actives/thresh.nut
@@ -154,12 +154,12 @@ msgstr "%[/color] 命中几率"
 
 # scripts/skills/actives/berserker_mushrooms_skill.nut
 msgid "]-40%[/color] Melee Defense"
-msgstr "]-40%[/color] Melee Defense"
+msgstr ""
 
 
 # scripts/skills/actives/berserker_mushrooms_skill.nut
 msgid "]-40%[/color] Ranged Defense"
-msgstr "]-40%[/color] Ranged Defense"
+msgstr ""
 
 
 # scripts/skills/actives/throw_javelin.nut
@@ -205,7 +205,7 @@ msgstr "]-40%[/color] Ranged Defense"
 # scripts/skills/actives/aimed_shot.nut
 # scripts/skills/actives/sling_stone_skill.nut
 msgid "Has [color="
-msgstr "Has [color="
+msgstr ""
 
 
 # scripts/skills/actives/berserker_mushrooms_skill.nut
@@ -235,7 +235,7 @@ msgstr "失去生命值时不会触发士气检查"
 # scripts/skills/actives/disarm_skill.nut
 # scripts/skills/actives/sling_stone_skill.nut
 msgid "Has a [color="
-msgstr "Has a [color="
+msgstr ""
 
 
 # scripts/skills/actives/riposte.nut
@@ -246,12 +246,12 @@ msgstr "还击"
 # scripts/skills/actives/throw_spear_skill.nut
 # scripts/skills/actives/split_shield.nut
 msgid "'s shield"
-msgstr "'s shield"
+msgstr ""
 
 
 # scripts/skills/actives/break_free_skill.nut
 msgid ", Rolled: "
-msgstr ", Rolled: "
+msgstr ""
 
 
 # scripts/skills/actives/shieldwall.nut
@@ -261,7 +261,7 @@ msgstr "盾墙"
 
 # scripts/skills/actives/throw_spear_skill.nut
 msgid " has destroyed "
-msgstr " has destroyed "
+msgstr ""
 
 
 # scripts/skills/actives/throw_holy_water.nut
@@ -284,7 +284,7 @@ msgstr " has destroyed "
 # scripts/skills/actives/knock_out.nut
 # scripts/skills/actives/ghoul_claws.nut
 msgid "Inflicts [color="
-msgstr "Inflicts [color="
+msgstr ""
 
 
 # scripts/skills/actives/demolish_armor_skill.nut
@@ -296,7 +296,7 @@ msgstr "Inflicts [color="
 # scripts/skills/actives/pound.nut
 # scripts/skills/actives/ghoul_claws.nut
 msgid "[/color] - [color="
-msgstr "[/color] - [color="
+msgstr ""
 
 
 # scripts/skills/actives/decapitate.nut
@@ -305,7 +305,7 @@ msgstr "[/color] - [color="
 # scripts/skills/actives/overhead_strike.nut
 # scripts/skills/actives/pound.nut
 msgid "]0[/color] - [color="
-msgstr "]0[/color] - [color="
+msgstr ""
 
 
 # scripts/skills/actives/decapitate.nut
@@ -314,7 +314,7 @@ msgstr "]0[/color] - [color="
 # scripts/skills/actives/overhead_strike.nut
 # scripts/skills/actives/pound.nut
 msgid "[/color] can ignore armor"
-msgstr "[/color] can ignore armor"
+msgstr ""
 
 
 # scripts/skills/actives/split_man.nut
@@ -322,7 +322,7 @@ msgstr "[/color] can ignore armor"
 # scripts/skills/actives/overhead_strike.nut
 # scripts/skills/actives/pound.nut
 msgid "[/color] damage to hitpoints, of which [color="
-msgstr "[/color] damage to hitpoints, of which [color="
+msgstr ""
 
 
 # scripts/skills/actives/horrific_scream.nut
@@ -332,7 +332,7 @@ msgstr "可怕的尖叫"
 
 # scripts/skills/actives/horrific_scream.nut
 msgid " uses Horrific Scream"
-msgstr " uses Horrific Scream"
+msgstr ""
 
 
 # scripts/skills/actives/break_ally_free_skill.nut
@@ -342,7 +342,7 @@ msgstr "自由盟友"
 
 # scripts/skills/actives/break_ally_free_skill.nut
 msgid "%[/color] chance to succeed, based on Melee Skill, or higher if there's been attempts to free the ally before."
-msgstr "%[/color] chance to succeed, based on Melee Skill, or higher if there's been attempts to free the ally before."
+msgstr ""
 
 
 # scripts/skills/actives/break_ally_free_skill.nut
@@ -352,17 +352,17 @@ msgstr "利用你所能支配的一切，把附近的盟友从束缚他们的地
 
 # scripts/skills/actives/throw_fire_bomb_skill.nut
 msgid "Throw Fire Pot"
-msgstr "Throw Fire Pot"
+msgstr ""
 
 
 # scripts/skills/actives/throw_fire_bomb_skill.nut
 msgid "Set an area of [color="
-msgstr "Set an area of [color="
+msgstr ""
 
 
 # scripts/skills/actives/throw_fire_bomb_skill.nut
 msgid "Fire rages here, melting armor and flesh alike"
-msgstr "Fire rages here, melting armor and flesh alike"
+msgstr ""
 
 
 # scripts/skills/actives/throw_fire_bomb_skill.nut
@@ -383,7 +383,7 @@ msgstr "点燃一个装满高度易燃液体的罐子朝目标扔去，在那里
 # scripts/skills/actives/berserker_mushrooms_skill.nut
 # scripts/skills/actives/shieldwall.nut
 msgid "Grants [color="
-msgstr "Grants [color="
+msgstr ""
 
 
 # scripts/skills/actives/berserker_mushrooms_skill.nut
@@ -403,7 +403,7 @@ msgstr "]+40%[/color] 近战中的伤害"
 
 # scripts/skills/actives/berserker_mushrooms_skill.nut
 msgid "Eat or Give Strange Mushrooms"
-msgstr "Eat or Give Strange Mushrooms"
+msgstr ""
 
 
 # scripts/skills/actives/berserker_mushrooms_skill.nut
@@ -440,7 +440,7 @@ msgstr "触电致死"
 
 # scripts/skills/actives/lightning_storm_skill.nut
 msgid "Lightning Strike"
-msgstr "Lightning Strike"
+msgstr ""
 
 
 # scripts/skills/actives/lightning_storm_skill.nut
@@ -501,7 +501,7 @@ msgstr "粉碎"
 # scripts/skills/actives/repel.nut
 # scripts/skills/actives/disarm_skill.nut
 msgid " for one turn"
-msgstr " for one turn"
+msgstr ""
 
 
 # scripts/skills/actives/uproot_skill.nut
@@ -519,7 +519,7 @@ msgstr " for one turn"
 # scripts/skills/actives/uproot_small_zoc_skill.nut
 # scripts/skills/actives/repel.nut
 msgid " has staggered "
-msgstr " has staggered "
+msgstr ""
 
 
 # scripts/skills/actives/throw_javelin.nut
@@ -538,7 +538,7 @@ msgstr "掷标枪"
 
 # scripts/skills/actives/throw_javelin.nut
 msgid "[/color] javelins left"
-msgstr "[/color] javelins left"
+msgstr ""
 
 
 # scripts/skills/actives/throw_javelin.nut
@@ -567,7 +567,7 @@ msgstr "[/color] javelins left"
 # scripts/skills/actives/aimed_shot.nut
 # scripts/skills/actives/sling_stone_skill.nut
 msgid "Has a range of [color="
-msgstr "Has a range of [color="
+msgstr ""
 
 
 # scripts/skills/actives/throw_javelin.nut
@@ -583,7 +583,7 @@ msgstr "]没有标枪剩余[/color]"
 # scripts/skills/actives/aimed_shot.nut
 # scripts/skills/actives/sling_stone_skill.nut
 msgid "%[/color] per tile of distance"
-msgstr "%[/color] per tile of distance"
+msgstr ""
 
 
 # scripts/skills/actives/throw_javelin.nut
@@ -603,7 +603,7 @@ msgstr "%[/color] 命中几率, and [color="
 # scripts/skills/actives/throw_axe.nut
 # scripts/skills/actives/throw_balls.nut
 msgid "[/color] tiles on even ground, more if throwing downhill"
-msgstr "[/color] tiles on even ground, more if throwing downhill"
+msgstr ""
 
 
 # scripts/skills/actives/throw_javelin.nut
@@ -636,12 +636,12 @@ msgstr "]+10%[/color] 命中几率"
 
 # scripts/skills/actives/gash_skill.nut
 msgid "]50%[/color] lower threshold to inflict injuries"
-msgstr "]50%[/color] lower threshold to inflict injuries"
+msgstr ""
 
 
 # scripts/skills/actives/gash_skill.nut
 msgid "]33%[/color] lower threshold to inflict injuries"
-msgstr "]33%[/color] lower threshold to inflict injuries"
+msgstr ""
 
 
 # scripts/skills/actives/gash_skill.nut
@@ -703,12 +703,12 @@ msgstr "]-10%[/color] 命中几率"
 
 # scripts/skills/actives/shatter_skill.nut
 msgid "]33%[/color] chance to stagger on a hit"
-msgstr "]33%[/color] chance to stagger on a hit"
+msgstr ""
 
 
 # scripts/skills/actives/shatter_skill.nut
 msgid "]33%[/color] chance to knock back on a hit"
-msgstr "]33%[/color] chance to knock back on a hit"
+msgstr ""
 
 
 # scripts/skills/actives/shatter_skill.nut
@@ -724,7 +724,7 @@ msgstr "地灵术"
 
 # scripts/skills/actives/geomancy_skill.nut
 msgid " commands the earth!"
-msgstr " commands the earth!"
+msgstr ""
 
 
 # scripts/skills/actives/geomancy_skill.nut
@@ -745,7 +745,7 @@ msgstr "刺穿"
 # scripts/skills/actives/rupture.nut
 # scripts/skills/actives/repel.nut
 msgid "]2[/color] tiles"
-msgstr "]2[/color] tiles"
+msgstr ""
 
 
 # scripts/skills/actives/impale.nut
@@ -771,7 +771,7 @@ msgstr "一种穿透攻击，可以覆盖2格的距离，可以从前线后方�
 
 # scripts/skills/actives/kraken_move_skill.nut
 msgid " moves"
-msgstr " moves"
+msgstr ""
 
 
 # scripts/skills/actives/kraken_move_skill.nut
@@ -821,7 +821,7 @@ msgstr "顶伤"
 
 # scripts/skills/actives/gore_skill.nut
 msgid " gores"
-msgstr " gores"
+msgstr ""
 
 
 # scripts/skills/actives/return_favor.nut
@@ -831,12 +831,12 @@ msgstr "回馈"
 
 # scripts/skills/actives/return_favor.nut
 msgid "Gain a [color="
-msgstr "Gain a [color="
+msgstr ""
 
 
 # scripts/skills/actives/return_favor.nut
 msgid "]50%[/color] chance to stun any opponent missing this character with a melee attack (resistances and immunities still apply)."
-msgstr "]50%[/color] chance to stun any opponent missing this character with a melee attack (resistances and immunities still apply)."
+msgstr ""
 
 
 # scripts/skills/actives/return_favor.nut
@@ -865,7 +865,7 @@ msgstr "急速射击"
 # scripts/skills/actives/quick_shot.nut
 # scripts/skills/actives/aimed_shot.nut
 msgid "[/color] arrows left"
-msgstr "[/color] arrows left"
+msgstr ""
 
 
 # scripts/skills/actives/quick_shot.nut
@@ -880,7 +880,7 @@ msgstr "]需要装备非空箭袋[/color]"
 # scripts/skills/actives/aimed_shot.nut
 # scripts/skills/actives/sling_stone_skill.nut
 msgid "[/color] tiles on even ground, more if shooting downhill"
-msgstr "[/color] tiles on even ground, more if shooting downhill"
+msgstr ""
 
 
 # scripts/skills/actives/quick_shot.nut
@@ -921,12 +921,12 @@ msgstr "只影响亡灵目标"
 
 # scripts/skills/actives/throw_holy_water.nut
 msgid "]20[/color] damage to hitpoints for [color="
-msgstr "]20[/color] damage to hitpoints for [color="
+msgstr ""
 
 
 # scripts/skills/actives/throw_holy_water.nut
 msgid "]3[/color] turns, all of which ignores armor"
-msgstr "]3[/color] turns, all of which ignores armor"
+msgstr ""
 
 
 # scripts/skills/actives/throw_holy_water.nut
@@ -972,7 +972,7 @@ msgstr " 推动通过 "
 
 # scripts/skills/actives/spider_bite_skill.nut
 msgid "Webknecht Bite"
-msgstr "Webknecht Bite"
+msgstr ""
 
 
 # scripts/skills/actives/spider_bite_skill.nut
@@ -996,13 +996,13 @@ msgstr "劈开了"
 # scripts/skills/actives/cleave.nut
 # scripts/skills/actives/whip_skill.nut
 msgid "Inflicts additional stacking [color="
-msgstr "Inflicts additional stacking [color="
+msgstr ""
 
 
 # scripts/skills/actives/cleave.nut
 # scripts/skills/actives/whip_skill.nut
 msgid "[/color] bleeding damage per turn, for 2 turns"
-msgstr "[/color] bleeding damage per turn, for 2 turns"
+msgstr ""
 
 
 # scripts/skills/actives/cleave.nut
@@ -1048,19 +1048,19 @@ msgstr "投矛"
 
 # scripts/skills/actives/throw_spear_skill.nut
 msgid "'s shield is hit for [b]"
-msgstr "'s shield is hit for [b]"
+msgstr ""
 
 
 # scripts/skills/actives/throw_spear_skill.nut
 # scripts/skills/actives/split_shield.nut
 msgid "[/color] damage to shields"
-msgstr "[/color] damage to shields"
+msgstr ""
 
 
 # scripts/skills/actives/throw_spear_skill.nut
 # scripts/skills/actives/throw_balls.nut
 msgid "]-10%[/color] per tile of distance"
-msgstr "]-10%[/color] per tile of distance"
+msgstr ""
 
 
 # scripts/skills/actives/throw_spear_skill.nut
@@ -1076,7 +1076,7 @@ msgstr "向目标投掷长矛，使其盾牌无法使用。 有盾牌的目标�
 
 # scripts/skills/actives/throw_golem_skill.nut
 msgid "Throw Living Sand"
-msgstr "Throw Living Sand"
+msgstr ""
 
 
 # scripts/skills/actives/rally_the_troops.nut
@@ -1086,17 +1086,17 @@ msgstr "集结"
 
 # scripts/skills/actives/rally_the_troops.nut
 msgid "]-10[/color] per tile distance"
-msgstr "]-10[/color] per tile distance"
+msgstr ""
 
 
 # scripts/skills/actives/rally_the_troops.nut
 msgid "[/color] based on this character's Resolve"
-msgstr "[/color] based on this character's Resolve"
+msgstr ""
 
 
 # scripts/skills/actives/rally_the_troops.nut
 msgid "[/color] based on this character's Resolve, but lowered by [color="
-msgstr "[/color] based on this character's Resolve, but lowered by [color="
+msgstr ""
 
 
 # scripts/skills/actives/rally_the_troops.nut
@@ -1111,12 +1111,12 @@ msgstr "]在自己被集结的同一轮不能再集结其他人。[/color]"
 
 # scripts/skills/actives/rally_the_troops.nut
 msgid "Triggers a morale check to rally fleeing allies within 4 tiles distance, with a bonus to Resolve of [color="
-msgstr "Triggers a morale check to rally fleeing allies within 4 tiles distance, with a bonus to Resolve of [color="
+msgstr ""
 
 
 # scripts/skills/actives/rally_the_troops.nut
 msgid "Triggers a morale check to raise the morale of anyone wavering or worse within 4 tiles distance, with a bonus to Resolve of [color="
-msgstr "Triggers a morale check to raise the morale of anyone wavering or worse within 4 tiles distance, with a bonus to Resolve of [color="
+msgstr ""
 
 
 # scripts/skills/actives/rally_the_troops.nut
@@ -1126,7 +1126,7 @@ msgstr "集合！使用这个角色鼓舞他人的决心，团结附近逃跑的
 
 # scripts/skills/actives/possess_undead_skill.nut
 msgid " possesses "
-msgstr " possesses "
+msgstr ""
 
 
 # scripts/skills/actives/possess_undead_skill.nut
@@ -1137,7 +1137,7 @@ msgstr "支配亡灵"
 # scripts/skills/actives/whip_slave_skill.nut
 # scripts/skills/actives/crack_the_whip_skill.nut
 msgid "Crack the Whip"
-msgstr "Crack the Whip"
+msgstr ""
 
 
 # scripts/skills/actives/whip_slave_skill.nut
@@ -1148,12 +1148,12 @@ msgstr "鞭打致死"
 
 # scripts/skills/actives/whip_slave_skill.nut
 msgid "]1[/color] - [color="
-msgstr "]1[/color] - [color="
+msgstr ""
 
 
 # scripts/skills/actives/whip_slave_skill.nut
 msgid "]3[/color] damage that ignores armor to the target"
-msgstr "]3[/color] damage that ignores armor to the target"
+msgstr ""
 
 
 # scripts/skills/actives/whip_slave_skill.nut
@@ -1179,7 +1179,7 @@ msgstr "戳击"
 
 # scripts/skills/actives/spearwall.nut
 msgid " attack."
-msgstr " attack."
+msgstr ""
 
 
 # scripts/skills/actives/spearwall.nut
@@ -1205,7 +1205,7 @@ msgstr "冲击"
 # scripts/skills/actives/charge.nut
 # scripts/skills/actives/unstoppable_charge_skill.nut
 msgid " charges"
-msgstr " charges"
+msgstr ""
 
 
 # scripts/skills/actives/charge.nut
@@ -1230,7 +1230,7 @@ msgstr "]-10[/color] instantly. 任何非异教徒都不会受到影响。"
 
 # scripts/skills/actives/voice_of_davkul_skill.nut
 msgid "Lowers the fatigue of every cultist, friend or foe, by [color="
-msgstr "Lowers the fatigue of every cultist, friend or foe, by [color="
+msgstr ""
 
 
 # scripts/skills/actives/voice_of_davkul_skill.nut
@@ -1240,12 +1240,12 @@ msgstr "血肉信道传达达库尔的声音。 对他的追随者说话，使�
 
 # scripts/skills/actives/summon_flying_skulls_skill.nut
 msgid "Raise Screaming Skulls"
-msgstr "Raise Screaming Skulls"
+msgstr ""
 
 
 # scripts/skills/actives/load_mortar_skill.nut
 msgid "Load Mortar"
-msgstr "Load Mortar"
+msgstr ""
 
 
 # scripts/skills/actives/cascade_skill.nut
@@ -1296,12 +1296,12 @@ msgstr "给你自己的伤口施加压力的临时包扎，避免流血至死。
 
 # scripts/skills/actives/wither_skill.nut
 msgid "Wither"
-msgstr "Wither"
+msgstr ""
 
 
 # scripts/skills/actives/wither_skill.nut
 msgid " withers"
-msgstr " withers"
+msgstr ""
 
 
 # scripts/skills/actives/slash.nut
@@ -1353,7 +1353,7 @@ msgstr "回旋"
 # scripts/skills/actives/pound.nut
 # scripts/skills/actives/knock_out.nut
 msgid " has stunned "
-msgstr " has stunned "
+msgstr ""
 
 
 # scripts/skills/actives/thresh.nut
@@ -1369,7 +1369,7 @@ msgstr "最多可以击中 6 个目标"
 # scripts/skills/actives/pound.nut
 # scripts/skills/actives/knock_out.nut
 msgid "%[/color] chance to stun on a hit"
-msgstr "%[/color] chance to stun on a hit"
+msgstr ""
 
 
 # scripts/skills/actives/thresh.nut
@@ -1407,7 +1407,7 @@ msgstr "摧毁盔甲"
 # scripts/skills/actives/demolish_armor_skill.nut
 # scripts/skills/actives/crush_armor.nut
 msgid "[/color] damage to hitpoints that ignores armor"
-msgstr "[/color] damage to hitpoints that ignores armor"
+msgstr ""
 
 
 # scripts/skills/actives/demolish_armor_skill.nut
@@ -1425,7 +1425,7 @@ msgstr "射击重弩"
 # scripts/skills/actives/reload_bolt.nut
 # scripts/skills/actives/shoot_bolt.nut
 msgid "[/color] bolts left"
-msgstr "[/color] bolts left"
+msgstr ""
 
 
 # scripts/skills/actives/shoot_stake.nut
@@ -1472,13 +1472,13 @@ msgstr "锤打致死"
 # scripts/skills/actives/hammer.nut
 # scripts/skills/actives/batter_skill.nut
 msgid "Always inflicts at least [color="
-msgstr "Always inflicts at least [color="
+msgstr ""
 
 
 # scripts/skills/actives/hammer.nut
 # scripts/skills/actives/batter_skill.nut
 msgid "[/color] damage to hitpoints, regardless of armor"
-msgstr "[/color] damage to hitpoints, regardless of armor"
+msgstr ""
 
 
 # scripts/skills/actives/hammer.nut
@@ -1499,7 +1499,7 @@ msgstr "尾部猛击"
 # scripts/skills/actives/tail_slam_skill.nut
 # scripts/skills/actives/tail_slam_big_skill.nut
 msgid " has dazed "
-msgstr " has dazed "
+msgstr ""
 
 
 # scripts/skills/actives/tail_slam_zoc_skill.nut
@@ -1508,7 +1508,7 @@ msgstr " has dazed "
 # scripts/skills/actives/tail_slam_big_skill.nut
 # scripts/skills/actives/strike_down_skill.nut
 msgid " for two turns"
-msgstr " for two turns"
+msgstr ""
 
 
 # scripts/skills/actives/deathblow_skill.nut
@@ -1530,12 +1530,12 @@ msgstr "对削弱的目标进行致命的打击以终结它。"
 
 # scripts/skills/actives/deathblow_skill.nut
 msgid "]33%[/color] more damage against and ignores additional [color="
-msgstr "]33%[/color] more damage against and ignores additional [color="
+msgstr ""
 
 
 # scripts/skills/actives/deathblow_skill.nut
 msgid "]20%[/color] armor of targets that have the Dazed, Stunned or Trapped in Net status effects"
-msgstr "]20%[/color] armor of targets that have the Dazed, Stunned or Trapped in Net status effects"
+msgstr ""
 
 
 # scripts/skills/actives/wake_ally_skill.nut
@@ -1545,17 +1545,17 @@ msgstr "唤醒友军"
 
 # scripts/skills/actives/wake_ally_skill.nut
 msgid "Removes the Sleeping status effect"
-msgstr "Removes the Sleeping status effect"
+msgstr ""
 
 
 # scripts/skills/actives/wake_ally_skill.nut
 msgid "Forcibly wake an adjacent ally from unnatural sleep."
-msgstr "Forcibly wake an adjacent ally from unnatural sleep."
+msgstr ""
 
 
 # scripts/skills/actives/fake_drink_night_vision_skill.nut
 msgid "Drink Night Owl Elixir"
-msgstr "Drink Night Owl Elixir"
+msgstr ""
 
 
 # scripts/skills/actives/fake_drink_night_vision_skill.nut
@@ -1580,12 +1580,12 @@ msgstr "复活亡灵"
 
 # scripts/skills/actives/raise_undead.nut
 msgid " uses Raise Undead"
-msgstr " uses Raise Undead"
+msgstr ""
 
 
 # scripts/skills/actives/alp_teleport_skill.nut
 msgid "Fade"
-msgstr "Fade"
+msgstr ""
 
 
 # scripts/skills/actives/decapitate.nut
@@ -1595,7 +1595,7 @@ msgstr "斩首"
 
 # scripts/skills/actives/decapitate.nut
 msgid "[/color] damage depending on how wounded the target already is, of which [color="
-msgstr "[/color] damage depending on how wounded the target already is, of which [color="
+msgstr ""
 
 
 # scripts/skills/actives/decapitate.nut
@@ -1609,7 +1609,7 @@ msgstr "力求达到对目标当即斩首的毁灭性打击。 目标已经受�
 # scripts/skills/actives/batter_skill.nut
 # scripts/skills/actives/strike_skill.nut
 msgid "]2"
-msgstr "]2"
+msgstr ""
 
 
 # scripts/skills/actives/crumble_skill.nut
@@ -1627,7 +1627,7 @@ msgstr "崩裂"
 # scripts/skills/actives/disarm_skill.nut
 # scripts/skills/actives/strike_skill.nut
 msgid "[/color] tiles"
-msgstr "[/color] tiles"
+msgstr ""
 
 
 # scripts/skills/actives/crumble_skill.nut
@@ -1637,7 +1637,7 @@ msgstr "[/color] tiles"
 # scripts/skills/actives/strike_down_skill.nut
 # scripts/skills/actives/knock_out.nut
 msgid "[/color] extra fatigue"
-msgstr "[/color] extra fatigue"
+msgstr ""
 
 
 # scripts/skills/actives/crumble_skill.nut
@@ -1701,7 +1701,7 @@ msgstr "切开"
 
 # scripts/skills/actives/round_swing.nut
 msgid "Round Swing"
-msgstr "Round Swing"
+msgstr ""
 
 
 # scripts/skills/actives/round_swing.nut
@@ -1721,7 +1721,7 @@ msgstr "编织网"
 
 # scripts/skills/actives/split_shield.nut
 msgid "] "
-msgstr "] "
+msgstr ""
 
 
 # scripts/skills/actives/split_shield.nut
@@ -1731,7 +1731,7 @@ msgstr "劈盾"
 
 # scripts/skills/actives/split_shield.nut
 msgid "'s shield for [b]"
-msgstr "'s shield for [b]"
+msgstr ""
 
 
 # scripts/skills/actives/split_shield.nut
@@ -1741,7 +1741,7 @@ msgstr " 使用 Split Shield 击中 "
 
 # scripts/skills/actives/split_shield.nut
 msgid " uses Split Shield and destroys "
-msgstr " uses Split Shield and destroys "
+msgstr ""
 
 
 # scripts/skills/actives/split_shield.nut
@@ -1751,7 +1751,7 @@ msgstr "一种摧毁对手盾牌的攻击。只能用于携带盾牌的目标。
 
 # scripts/skills/actives/hyena_bite_skill.nut
 msgid "Hyena Bite"
-msgstr "Hyena Bite"
+msgstr ""
 
 
 # scripts/skills/actives/ghost_split_skill.nut
@@ -1771,12 +1771,12 @@ msgstr "深呼吸，休息一回合，恢复体力。"
 
 # scripts/skills/actives/summon_mirror_image_skill.nut
 msgid "Mirror Image"
-msgstr "Mirror Image"
+msgstr ""
 
 
 # scripts/skills/actives/summon_mirror_image_skill.nut
 msgid " transcends time and place!"
-msgstr " transcends time and place!"
+msgstr ""
 
 
 # scripts/skills/actives/lunge_skill.nut
@@ -1831,7 +1831,7 @@ msgstr "点燃"
 
 # scripts/skills/actives/ignite_firelance_skill.nut
 msgid "[/color] charge left"
-msgstr "[/color] charge left"
+msgstr ""
 
 
 # scripts/skills/actives/ignite_firelance_skill.nut
@@ -1852,12 +1852,12 @@ msgstr "点燃你的火矛的导火索，向你的对手释放一股火和烟。
 
 # scripts/skills/actives/debilitate.nut
 msgid "]-50%[/color]. Missing the target will waste the effect."
-msgstr "]-50%[/color]. Missing the target will waste the effect."
+msgstr ""
 
 
 # scripts/skills/actives/debilitate.nut
 msgid "Prepare your next attack to debilitate a target for one turn, reducing their ability to inflict damage by [color="
-msgstr "Prepare your next attack to debilitate a target for one turn, reducing their ability to inflict damage by [color="
+msgstr ""
 
 
 # scripts/skills/actives/kraken_bite_skill.nut
@@ -1879,27 +1879,27 @@ msgstr "撕烂"
 
 # scripts/skills/actives/shieldwall.nut
 msgid " uses Shieldwall"
-msgstr " uses Shieldwall"
+msgstr ""
 
 
 # scripts/skills/actives/shieldwall.nut
 msgid "Grants an additional [color="
-msgstr "Grants an additional [color="
+msgstr ""
 
 
 # scripts/skills/actives/shieldwall.nut
 msgid "[/color] Melee Defense for one turn"
-msgstr "[/color] Melee Defense for one turn"
+msgstr ""
 
 
 # scripts/skills/actives/shieldwall.nut
 msgid "[/color] Ranged Defense for one turn"
-msgstr "[/color] Ranged Defense for one turn"
+msgstr ""
 
 
 # scripts/skills/actives/shieldwall.nut
 msgid "]+5[/color] Defense against all attacks for each ally adjacent also using Shieldwall"
-msgstr "]+5[/color] Defense against all attacks for each ally adjacent also using Shieldwall"
+msgstr ""
 
 
 # scripts/skills/actives/shieldwall.nut
@@ -1909,18 +1909,18 @@ msgstr "在下一个回合之前，盾牌被提升到保护姿态。可与相邻
 
 # scripts/skills/actives/coat_with_poison_skill.nut
 msgid "Use Poison"
-msgstr "Use Poison"
+msgstr ""
 
 
 # scripts/skills/actives/coat_with_poison_skill.nut
 # scripts/skills/actives/coat_with_spider_poison_skill.nut
 msgid "The next [color="
-msgstr "The next [color="
+msgstr ""
 
 
 # scripts/skills/actives/coat_with_poison_skill.nut
 msgid "]4[/color] attacks will apply the Poisoned status effect."
-msgstr "]4[/color] attacks will apply the Poisoned status effect."
+msgstr ""
 
 
 # scripts/skills/actives/coat_with_poison_skill.nut
@@ -1958,7 +1958,7 @@ msgstr "准备好另一发弩失。 不能在近战中使用。"
 # scripts/skills/actives/unleash_wolf.nut
 # scripts/skills/actives/unleash_wardog.nut
 msgid "Unleash Wardog"
-msgstr "Unleash Wardog"
+msgstr ""
 
 
 # scripts/skills/actives/unleash_wolf.nut
@@ -1982,7 +1982,7 @@ msgstr " 钩住 "
 # scripts/skills/actives/smite_skill.nut
 # scripts/skills/actives/repel.nut
 msgid "]100%[/color] chance to stagger on a hit"
-msgstr "]100%[/color] chance to stagger on a hit"
+msgstr ""
 
 
 # scripts/skills/actives/hook.nut
@@ -2007,7 +2007,7 @@ msgstr "掷斧"
 
 # scripts/skills/actives/throw_axe.nut
 msgid "[/color] axes left"
-msgstr "[/color] axes left"
+msgstr ""
 
 
 # scripts/skills/actives/throw_axe.nut
@@ -2022,13 +2022,13 @@ msgstr "向目标投掷斧头。 不能在近战中使用。"
 
 # scripts/skills/actives/knock_over_skill.nut
 msgid "Knock Over"
-msgstr "Knock Over"
+msgstr ""
 
 
 # scripts/skills/actives/knock_over_skill.nut
 # scripts/skills/actives/knock_out.nut
 msgid "]100%[/color] chance to stun on a hit"
-msgstr "]100%[/color] chance to stun on a hit"
+msgstr ""
 
 
 # scripts/skills/actives/knock_over_skill.nut
@@ -2054,7 +2054,7 @@ msgstr "用盾牌击退目标一格。 击中的目标将受到疲劳，如果�
 
 # scripts/skills/actives/grant_night_vision_skill.nut
 msgid "Grant Night Vision"
-msgstr "Grant Night Vision"
+msgstr ""
 
 
 # scripts/skills/actives/grant_night_vision_skill.nut
@@ -2079,7 +2079,7 @@ msgstr "定身"
 
 # scripts/skills/actives/serpent_bite_skill.nut
 msgid "Serpent Bite"
-msgstr "Serpent Bite"
+msgstr ""
 
 
 # scripts/skills/actives/serpent_bite_skill.nut
@@ -2094,7 +2094,7 @@ msgstr "头锤"
 
 # scripts/skills/actives/barbarian_fury_skill.nut
 msgid "Barbarian Fury"
-msgstr "Barbarian Fury"
+msgstr ""
 
 
 # scripts/skills/actives/lash_skill.nut
@@ -2109,7 +2109,7 @@ msgstr "瞄准对手的头。 伤害有点难以估计，但有一点运气能�
 
 # scripts/skills/actives/fire_mortar_skill.nut
 msgid "Fire Mortar"
-msgstr "Fire Mortar"
+msgstr ""
 
 
 # scripts/skills/actives/fire_mortar_skill.nut
@@ -2134,7 +2134,7 @@ msgstr "黑暗飞行"
 
 # scripts/skills/actives/darkflight.nut
 msgid " uses Darkflight"
-msgstr " uses Darkflight"
+msgstr ""
 
 
 # scripts/skills/actives/reap_skill.nut
@@ -2166,7 +2166,7 @@ msgstr "掷流星锤"
 
 # scripts/skills/actives/throw_balls.nut
 msgid "[/color] spiked balls left"
-msgstr "[/color] spiked balls left"
+msgstr ""
 
 
 # scripts/skills/actives/throw_balls.nut
@@ -2192,7 +2192,7 @@ msgstr "咬了"
 # scripts/skills/actives/swallow_whole_skill.nut
 # scripts/skills/actives/kraken_devour_skill.nut
 msgid " devours "
-msgstr " devours "
+msgstr ""
 
 
 # scripts/skills/actives/swallow_whole_skill.nut
@@ -2232,12 +2232,12 @@ msgstr "挣脱"
 
 # scripts/skills/actives/break_free_skill.nut
 msgid " breaks free (Chance: "
-msgstr " breaks free (Chance: "
+msgstr ""
 
 
 # scripts/skills/actives/break_free_skill.nut
 msgid " fails to break free (Chance: "
-msgstr " fails to break free (Chance: "
+msgstr ""
 
 
 # scripts/skills/actives/break_free_skill.nut
@@ -2263,7 +2263,7 @@ msgstr "准备立即反击任何试图在近战中攻击未命中的对手。"
 # scripts/skills/actives/whip_skill.nut
 # scripts/skills/actives/disarm_skill.nut
 msgid "]3"
-msgstr "]3"
+msgstr ""
 
 
 # scripts/skills/actives/whip_skill.nut
@@ -2293,12 +2293,12 @@ msgstr "对对手盔甲的缝隙的一次适当的攻击。 忽视所有护甲�
 
 # scripts/skills/actives/merge_golem_skill.nut
 msgid "Merge Living Sands"
-msgstr "Merge Living Sands"
+msgstr ""
 
 
 # scripts/skills/actives/merge_golem_skill.nut
 msgid " merges into something bigger"
-msgstr " merges into something bigger"
+msgstr ""
 
 
 # scripts/skills/actives/crush_armor.nut
@@ -2308,7 +2308,7 @@ msgstr "摧毁盔甲"
 
 # scripts/skills/actives/release_falcon_skill.nut
 msgid "Release Falcon"
-msgstr "Release Falcon"
+msgstr ""
 
 
 # scripts/skills/actives/release_falcon_skill.nut
@@ -2333,12 +2333,12 @@ msgstr "扬尘"
 
 # scripts/skills/actives/throw_dirt_skill.nut
 msgid " throws dirt in "
-msgstr " throws dirt in "
+msgstr ""
 
 
 # scripts/skills/actives/throw_dirt_skill.nut
 msgid "'s face to distract them"
-msgstr "'s face to distract them"
+msgstr ""
 
 
 # scripts/skills/actives/serpent_hook_skill.nut
@@ -2373,7 +2373,7 @@ msgstr " 吃尸体"
 
 # scripts/skills/actives/overhead_strike.nut
 msgid "]+5%"
-msgstr "]+5%"
+msgstr ""
 
 
 # scripts/skills/actives/overhead_strike.nut
@@ -2393,27 +2393,27 @@ msgstr "叉"
 
 # scripts/skills/actives/throw_smoke_bomb_skill.nut
 msgid "Covers [color="
-msgstr "Covers [color="
+msgstr ""
 
 
 # scripts/skills/actives/throw_smoke_bomb_skill.nut
 msgid "Throw Smoke Pot"
-msgstr "Throw Smoke Pot"
+msgstr ""
 
 
 # scripts/skills/actives/throw_smoke_bomb_skill.nut
 msgid "]-50%[/color] for anyone inside"
-msgstr "]-50%[/color] for anyone inside"
+msgstr ""
 
 
 # scripts/skills/actives/throw_smoke_bomb_skill.nut
 msgid "Increases Ranged Defense by [color="
-msgstr "Increases Ranged Defense by [color="
+msgstr ""
 
 
 # scripts/skills/actives/throw_smoke_bomb_skill.nut
 msgid "]+100%[/color], but lowers Ranged Skill by [color="
-msgstr "]+100%[/color], but lowers Ranged Skill by [color="
+msgstr ""
 
 
 # scripts/skills/actives/throw_smoke_bomb_skill.nut
@@ -2428,7 +2428,7 @@ msgstr "扔一个装满物质的罐子，这些物质一旦撞击就会迅速形
 
 # scripts/skills/actives/throw_smoke_bomb_skill.nut
 msgid "]7[/color] tiles in smoke for one round, allowing anyone inside to move freely and ignore zones of control"
-msgstr "]7[/color] tiles in smoke for one round, allowing anyone inside to move freely and ignore zones of control"
+msgstr ""
 
 
 # scripts/skills/actives/throw_smoke_bomb_skill.nut
@@ -2438,12 +2438,12 @@ msgstr "浓烟笼罩着这片区域，允许里面的任何人自由移动，忽
 
 # scripts/skills/actives/indomitable.nut
 msgid "Only receive [color="
-msgstr "Only receive [color="
+msgstr ""
 
 
 # scripts/skills/actives/indomitable.nut
 msgid "]50%[/color] of any damage"
-msgstr "]50%[/color] of any damage"
+msgstr ""
 
 
 # scripts/skills/actives/indomitable.nut
@@ -2453,7 +2453,7 @@ msgstr "成为免疫昏迷"
 
 # scripts/skills/actives/indomitable.nut
 msgid "Become immune to being knocked back or grabbed"
-msgstr "Become immune to being knocked back or grabbed"
+msgstr ""
 
 
 # scripts/skills/actives/indomitable.nut
@@ -2464,7 +2464,7 @@ msgstr "聚集所有这个角色的体力和意志力，在下一个回合前变
 # scripts/skills/actives/cudgel_skill.nut
 # scripts/skills/actives/sling_stone_skill.nut
 msgid " dazed"
-msgstr " dazed"
+msgstr ""
 
 
 # scripts/skills/actives/cudgel_skill.nut
@@ -2475,12 +2475,12 @@ msgstr "重棒打死"
 
 # scripts/skills/actives/cudgel_skill.nut
 msgid " struck a blow that leaves "
-msgstr " struck a blow that leaves "
+msgstr ""
 
 
 # scripts/skills/actives/cudgel_skill.nut
 msgid "]100%[/color] chance to daze on a hit"
-msgstr "]100%[/color] chance to daze on a hit"
+msgstr ""
 
 
 # scripts/skills/actives/cudgel_skill.nut
@@ -2490,17 +2490,17 @@ msgstr "一种缓慢的头顶打击，用全部力量把目标打成肉泥。 �
 
 # scripts/skills/actives/throw_daze_bomb_skill.nut
 msgid "Throw Flash Pot"
-msgstr "Throw Flash Pot"
+msgstr ""
 
 
 # scripts/skills/actives/throw_daze_bomb_skill.nut
 msgid "Give up to [color="
-msgstr "Give up to [color="
+msgstr ""
 
 
 # scripts/skills/actives/throw_daze_bomb_skill.nut
 msgid "]7[/color] targets the Dazed status effect for 2 turns"
-msgstr "]7[/color] targets the Dazed status effect for 2 turns"
+msgstr ""
 
 
 # scripts/skills/actives/throw_daze_bomb_skill.nut
@@ -2515,12 +2515,12 @@ msgstr "击倒"
 
 # scripts/skills/actives/strike_down_skill.nut
 msgid "]100%[/color] chance to severely stun on a hit"
-msgstr "]100%[/color] chance to severely stun on a hit"
+msgstr ""
 
 
 # scripts/skills/actives/strike_down_skill.nut
 msgid "%[/color] chance to stun for two turns on a hit"
-msgstr "%[/color] chance to stun for two turns on a hit"
+msgstr ""
 
 
 # scripts/skills/actives/strike_down_skill.nut
@@ -2530,23 +2530,23 @@ msgstr "猛烈一击，击晕目标使他丧失能力两回合，但不能造成
 
 # scripts/skills/actives/fire_handgonne_skill.nut
 msgid "Fire Handgonne"
-msgstr "Fire Handgonne"
+msgstr ""
 
 
 # scripts/skills/actives/fire_handgonne_skill.nut
 # scripts/skills/actives/reload_handgonne_skill.nut
 msgid "[/color] shots left"
-msgstr "[/color] shots left"
+msgstr ""
 
 
 # scripts/skills/actives/fire_handgonne_skill.nut
 msgid "[/color] tiles if shooting downhill"
-msgstr "[/color] tiles if shooting downhill"
+msgstr ""
 
 
 # scripts/skills/actives/fire_handgonne_skill.nut
 msgid "[/color] tiles on flat ground and [color="
-msgstr "[/color] tiles on flat ground and [color="
+msgstr ""
 
 
 # scripts/skills/actives/fire_handgonne_skill.nut
@@ -2582,7 +2582,7 @@ msgstr "当你抓住机会以比对手更快的速度行动时，感觉肾上腺
 
 # scripts/skills/actives/bandage_ally_skill.nut
 msgid "Use Bandages"
-msgstr "Use Bandages"
+msgstr ""
 
 
 # scripts/skills/actives/bandage_ally_skill.nut
@@ -2597,22 +2597,22 @@ msgstr "战吼"
 
 # scripts/skills/actives/warcry.nut
 msgid " uses Warcry"
-msgstr " uses Warcry"
+msgstr ""
 
 
 # scripts/skills/actives/throw_acid_flask.nut
 msgid "Throw Acid Flask"
-msgstr "Throw Acid Flask"
+msgstr ""
 
 
 # scripts/skills/actives/throw_acid_flask.nut
 msgid "]20%[/color] each turn for 3 turns."
-msgstr "]20%[/color] each turn for 3 turns."
+msgstr ""
 
 
 # scripts/skills/actives/throw_acid_flask.nut
 msgid "Reduces the target's armor by [color="
-msgstr "Reduces the target's armor by [color="
+msgstr ""
 
 
 # scripts/skills/actives/throw_acid_flask.nut
@@ -2622,17 +2622,17 @@ msgstr "向目标扔一瓶酸，它会粉碎并喷洒其内容物。 这种酸�
 
 # scripts/skills/actives/coat_with_spider_poison_skill.nut
 msgid "Use Poisoned Oil"
-msgstr "Use Poisoned Oil"
+msgstr ""
 
 
 # scripts/skills/actives/coat_with_spider_poison_skill.nut
 msgid "]10[/color] damage per turn."
-msgstr "]10[/color] damage per turn."
+msgstr ""
 
 
 # scripts/skills/actives/coat_with_spider_poison_skill.nut
 msgid "]4[/color] attacks will apply the Poisoned status effect for [color="
-msgstr "]4[/color] attacks will apply the Poisoned status effect for [color="
+msgstr ""
 
 
 # scripts/skills/actives/drums_of_war_skill.nut
@@ -2647,17 +2647,17 @@ msgstr "光明使者"
 
 # scripts/skills/actives/slash_lightning.nut
 msgid "]10[/color] - [color="
-msgstr "]10[/color] - [color="
+msgstr ""
 
 
 # scripts/skills/actives/slash_lightning.nut
 msgid "Inflicts an additional [color="
-msgstr "Inflicts an additional [color="
+msgstr ""
 
 
 # scripts/skills/actives/slash_lightning.nut
 msgid "]20[/color] damage that ignores armor to up to three targets"
-msgstr "]20[/color] damage that ignores armor to up to three targets"
+msgstr ""
 
 
 # scripts/skills/actives/slash_lightning.nut
@@ -2689,7 +2689,7 @@ msgstr " 把解毒剂给 "
 
 # scripts/skills/actives/drink_antidote_skill.nut
 msgid "Drink or Give Antidote"
-msgstr "Drink or Give Antidote"
+msgstr ""
 
 
 # scripts/skills/actives/drink_antidote_skill.nut
@@ -2699,7 +2699,7 @@ msgstr "移除中毒状态效果"
 
 # scripts/skills/actives/drink_antidote_skill.nut
 msgid "Grants immunity to Poison for 3 turns"
-msgstr "Grants immunity to Poison for 3 turns"
+msgstr ""
 
 
 # scripts/skills/actives/drink_antidote_skill.nut
@@ -2719,17 +2719,17 @@ msgstr "砸击致死"
 
 # scripts/skills/actives/pound.nut
 msgid "]10%[/color] of armor"
-msgstr "]10%[/color] of armor"
+msgstr ""
 
 
 # scripts/skills/actives/pound.nut
 msgid "]20%[/color] of armor"
-msgstr "]20%[/color] of armor"
+msgstr ""
 
 
 # scripts/skills/actives/pound.nut
 msgid "Hits to the head ignore an additional [color="
-msgstr "Hits to the head ignore an additional [color="
+msgstr ""
 
 
 # scripts/skills/actives/pound.nut
@@ -2764,12 +2764,12 @@ msgstr "妖法"
 
 # scripts/skills/actives/hex_skill.nut
 msgid "#ff0000"
-msgstr "#ff0000"
+msgstr ""
 
 
 # scripts/skills/actives/hex_skill.nut
 msgid " hexes "
-msgstr " hexes "
+msgstr ""
 
 
 # scripts/skills/actives/hex_skill.nut
@@ -2790,12 +2790,12 @@ msgstr "破裂"
 # scripts/skills/actives/rupture.nut
 # scripts/skills/actives/chop.nut
 msgid "Inflicts additional [color="
-msgstr "Inflicts additional [color="
+msgstr ""
 
 
 # scripts/skills/actives/rupture.nut
 msgid "[/color] bleeding damage over time if not stopped by armor"
-msgstr "[/color] bleeding damage over time if not stopped by armor"
+msgstr ""
 
 
 # scripts/skills/actives/rupture.nut
@@ -2820,7 +2820,7 @@ msgstr "切碎"
 
 # scripts/skills/actives/chop.nut
 msgid "]50%[/color] damage on a hit to the head"
-msgstr "]50%[/color] damage on a hit to the head"
+msgstr ""
 
 
 # scripts/skills/actives/chop.nut
@@ -2840,7 +2840,7 @@ msgstr "戳和推一个目标，以迫使它远离一个格子。 击中的目�
 
 # scripts/skills/actives/werewolf_bite.nut
 msgid "Direwolf Bite"
-msgstr "Direwolf Bite"
+msgstr ""
 
 
 # scripts/skills/actives/disarm_skill.nut
@@ -2850,12 +2850,12 @@ msgstr "缴械"
 
 # scripts/skills/actives/disarm_skill.nut
 msgid " has disarmed "
-msgstr " has disarmed "
+msgstr ""
 
 
 # scripts/skills/actives/disarm_skill.nut
 msgid "]100%[/color] chance to disarm on a hit"
-msgstr "]100%[/color] chance to disarm on a hit"
+msgstr ""
 
 
 # scripts/skills/actives/disarm_skill.nut
@@ -2895,7 +2895,7 @@ msgstr "食尸鬼爪"
 
 # scripts/skills/actives/ghoul_claws.nut
 msgid "[/color] damage"
-msgstr "[/color] damage"
+msgstr ""
 
 
 # scripts/skills/actives/ghoul_claws.nut
@@ -2945,17 +2945,17 @@ msgstr "一种聚焦和仔细瞄准的射击，即使在远处也能很好地击
 
 # scripts/skills/actives/sling_stone_skill.nut
 msgid "Stoned"
-msgstr "Stoned"
+msgstr ""
 
 
 # scripts/skills/actives/sling_stone_skill.nut
 msgid "Sling Stone"
-msgstr "Sling Stone"
+msgstr ""
 
 
 # scripts/skills/actives/sling_stone_skill.nut
 msgid " struck a hit that leaves "
-msgstr " struck a hit that leaves "
+msgstr ""
 
 
 # scripts/skills/actives/sling_stone_skill.nut
@@ -2965,7 +2965,7 @@ msgstr "%[/color] 命中几率 per tile of distance"
 
 # scripts/skills/actives/sling_stone_skill.nut
 msgid "]100%[/color] chance to daze a target on a hit to the head"
-msgstr "]100%[/color] chance to daze a target on a hit to the head"
+msgstr ""
 
 
 # scripts/skills/actives/sling_stone_skill.nut

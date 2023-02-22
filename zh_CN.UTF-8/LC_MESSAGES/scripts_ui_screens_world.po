@@ -5,6 +5,6 @@ msgstr "取消"
 
 # scripts/ui/screens/world/world_campfire_screen.nut
 msgid "refresh"
-msgstr "refresh"
+msgstr ""
 
 

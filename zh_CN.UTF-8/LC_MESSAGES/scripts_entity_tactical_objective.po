@@ -5,11 +5,11 @@ msgstr "炮手"
 
 # scripts/entity/tactical/objective/donkey.nut
 msgid "A Donkey"
-msgstr "A Donkey"
+msgstr ""
 
 
 # scripts/entity/tactical/objective/donkey.nut
 msgid "Caravan Donkey"
-msgstr "Caravan Donkey"
+msgstr ""
 
 

@@ -1,6 +1,6 @@
 # scripts/contracts/contract_manager.nut
 msgid "State"
-msgstr "State"
+msgstr ""
 
 
 # scripts/contracts/contract.nut
@@ -15,17 +15,17 @@ msgstr "强盗"
 
 # scripts/contracts/contract.nut
 msgid "\n\n[color=#bcad8c]\""
-msgstr "\n\n[color=#bcad8c]\""
+msgstr ""
 
 
 # scripts/contracts/contract_manager.nut
 msgid " (id: "
-msgstr " (id: "
+msgstr ""
 
 
 # scripts/contracts/contract_manager.nut
 msgid "contract removed: "
-msgstr "contract removed: "
+msgstr ""
 
 
 # scripts/contracts/contract.nut
@@ -35,7 +35,7 @@ msgstr "兽人收割者"
 
 # scripts/contracts/contract.nut
 msgid "Goblin Raiders"
-msgstr "Goblin Raiders"
+msgstr ""
 
 
 # scripts/contracts/contract.nut
@@ -55,32 +55,32 @@ msgstr "一大群行尸，向活着的人索取曾经属于他们的东西。"
 
 # scripts/contracts/contract.nut
 msgid "end"
-msgstr "end"
+msgstr ""
 
 
 # scripts/contracts/contract.nut
 msgid "List"
-msgstr "List"
+msgstr ""
 
 
 # scripts/contracts/contract.nut
 msgid "Title"
-msgstr "Title"
+msgstr ""
 
 
 # scripts/contracts/contract.nut
 msgid "Banner"
-msgstr "Banner"
+msgstr ""
 
 
 # scripts/contracts/contract.nut
 msgid "update"
-msgstr "update"
+msgstr ""
 
 
 # scripts/contracts/contract.nut
 msgid "origin"
-msgstr "origin"
+msgstr ""
 
 
 # scripts/contracts/contract.nut
@@ -90,37 +90,37 @@ msgstr "报酬"
 
 # scripts/contracts/contract.nut
 msgid "faction"
-msgstr "faction"
+msgstr ""
 
 
 # scripts/contracts/contract.nut
 msgid "State \""
-msgstr "State \""
+msgstr ""
 
 
 # scripts/contracts/contract.nut
 msgid "produce"
-msgstr "produce"
+msgstr ""
 
 
 # scripts/contracts/contract.nut
 msgid "employer"
-msgstr "employer"
+msgstr ""
 
 
 # scripts/contracts/contract.nut
 msgid "townname"
-msgstr "townname"
+msgstr ""
 
 
 # scripts/contracts/contract.nut
 msgid "maxcount"
-msgstr "maxcount"
+msgstr ""
 
 
 # scripts/contracts/contract.nut
 msgid "Screen \""
-msgstr "Screen \""
+msgstr ""
 
 
 # scripts/contracts/contract.nut
@@ -130,17 +130,17 @@ msgstr "目标"
 
 # scripts/contracts/contract.nut
 msgid "Characters"
-msgstr "Characters"
+msgstr ""
 
 
 # scripts/contracts/contract.nut
 msgid "companyname"
-msgstr "companyname"
+msgstr ""
 
 
 # scripts/contracts/contract.nut
 msgid "[color=#30ac2a]"
-msgstr "[color=#30ac2a]"
+msgstr ""
 
 
 # scripts/contracts/contract.nut
@@ -150,7 +150,7 @@ msgstr "撕毁了合同"
 
 # scripts/contracts/contract.nut
 msgid "[color=#bcad8c]\""
-msgstr "[color=#bcad8c]\""
+msgstr ""
 
 
 # scripts/contracts/contract.nut
@@ -160,7 +160,7 @@ msgstr "好像有问题。"
 
 # scripts/contracts/contract.nut
 msgid "\" not found for contract \""
-msgstr "\" not found for contract \""
+msgstr ""
 
 
 # scripts/contracts/contract.nut

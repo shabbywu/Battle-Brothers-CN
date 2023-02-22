@@ -25,7 +25,7 @@
 # scripts/items/loot/jade_broche_item.nut
 # scripts/items/loot/soul_splinter_item.nut
 msgid "State"
-msgstr "State"
+msgstr ""
 
 
 # scripts/items/loot/bead_necklace_item.nut
@@ -90,7 +90,7 @@ msgstr "切割成各种大小的宝石。 如果你能找到买家的话，应�
 
 # scripts/items/loot/growth_pearls_item.nut
 msgid "Growth Pearls"
-msgstr "Growth Pearls"
+msgstr ""
 
 
 # scripts/items/loot/growth_pearls_item.nut

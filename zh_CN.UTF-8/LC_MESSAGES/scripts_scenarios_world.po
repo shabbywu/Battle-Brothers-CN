@@ -76,17 +76,17 @@ msgstr "{你不能完全确定 %name%的过去，只知道他的道路没有人�
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "the Whip"
-msgstr "the Whip"
+msgstr ""
 
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "the Stoic"
-msgstr "the Stoic"
+msgstr ""
 
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "the Beggar"
-msgstr "the Beggar"
+msgstr ""
 
 
 # scripts/scenarios/world/manhunters_scenario.nut
@@ -96,17 +96,17 @@ msgstr "搜捕者"
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "the Learned"
-msgstr "the Learned"
+msgstr ""
 
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "the Deserter"
-msgstr "the Deserter"
+msgstr ""
 
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "the Northerner"
-msgstr "the Northerner"
+msgstr ""
 
 
 # scripts/scenarios/world/manhunters_scenario.nut
@@ -261,7 +261,7 @@ msgstr "北方掠夺者"
 
 # scripts/scenarios/world/raiders_scenario.nut
 msgid "Fenrir the Warhound"
-msgstr "Fenrir the Warhound"
+msgstr ""
 
 
 # scripts/scenarios/world/raiders_scenario.nut
@@ -351,7 +351,7 @@ msgstr "{Captain? Is it alright if I call you captain? Ah, of course it is. 什�
 
 # scripts/scenarios/world/anatomists_scenario.nut
 msgid "{Though our quotidian dialogues are no doubt drollery, beneath the banausic surface I must admit I feel a touch of serotinous savagery lurking within you, coming to the fore as if my words be fire. Even our most desultory talks has me on edge, the way you stare at me with such hateful eyes. Well, know this, bounty hunter, I am no casuist, I speak in earnest. You are too fine a specimen-I mean captain to be lofting some sapskull's brickbats at. Understand?}"
-msgstr "{Though our quotidian dialogues are no doubt drollery, beneath the banausic surface I must admit I feel a touch of serotinous savagery lurking within you, coming to the fore as if my words be fire. Even our most desultory talks has me on edge, the way you stare at me with such hateful eyes. Well, know this, bounty hunter, I am no casuist, I speak in earnest. You are too fine a specimen-I mean captain to be lofting some sapskull's brickbats at. Understand?}"
+msgstr ""
 
 
 # scripts/scenarios/world/anatomists_scenario.nut
@@ -586,12 +586,12 @@ msgstr "[p=c][img]gfx/ui/events/event_141.png[/img][/p][p]它最初是由勇敢�
 
 # scripts/scenarios/world/gladiators_scenario.nut
 msgid "the Bear"
-msgstr "the Bear"
+msgstr ""
 
 
 # scripts/scenarios/world/gladiators_scenario.nut
 msgid "the Viper"
-msgstr "the Viper"
+msgstr ""
 
 
 # scripts/scenarios/world/gladiators_scenario.nut
@@ -601,7 +601,7 @@ msgstr "渴望在竞技场外证明自己"
 
 # scripts/scenarios/world/gladiators_scenario.nut
 msgid "{Why are you looking at %fullname%? Captain, it is I, "
-msgstr "{Why are you looking at %fullname%? Captain, it is I, "
+msgstr ""
 
 
 # scripts/scenarios/world/gladiators_scenario.nut
@@ -686,11 +686,11 @@ msgstr "[p=c][img]gfx/ui/events/event_180.png[/img][/p][p]奉行骑士精神的�
 
 # scripts/scenarios/world/paladins_scenario.nut
 msgid "{%name%, like many of the Oathtakers' more spry members, strives to be like Young Anselm. A youthful, capable man who has yet to let the world's horrors and grind wear him down. In moments of honesty, he reminds you of yourself. In moments of reflection, you realize that he will likely one day resemble you as you are now. But until then, to the youth of the world, for the Oaths are certainly not wasted upon them! | When Anselm set out on his quest, it was %name% whom joined him first. Despite the Young Anselm's untimely death, %name% still sought to see the young man's vision through. He is an ardent believer in the Oaths and can be frequently found idolizing and commemorating Young Anselm's skull.}"
-msgstr "{%name%, like many of the Oathtakers' more spry members, strives to be like Young Anselm. A youthful, capable man who has yet to let the world's horrors and grind wear him down. In moments of honesty, he reminds you of yourself. In moments of reflection, you realize that he will likely one day resemble you as you are now. But until then, to the youth of the world, for the Oaths are certainly not wasted upon them! | When Anselm set out on his quest, it was %name% whom joined him first. Despite the Young Anselm's untimely death, %name% still sought to see the young man's vision through. He is an ardent believer in the Oaths and can be frequently found idolizing and commemorating Young Anselm's skull.}"
+msgstr ""
 
 
 # scripts/scenarios/world/paladins_scenario.nut
 msgid "{Perhaps of an age more suitable for caretaking than oathtaking, %name% is a rather old, nigh on decrepit Oathtaker. While age has robbed him of his more natural talents, it has at least gifted him with learning and experience that no physical capabilities can match. He is a man of many spirits, having gone around this world in the shell of soldier, farmer, sellsword, and more. Now he is an Oathtaker, and all those skills and traits he built up over the years has made him quite a formidable one at that. | When First Oathtaker Anselm first met %name%, it is said that the prime paladin divulged details no one else could have possibly known, thus proving the aethereal power behind his beliefs. %name% is an ardent believer in the Oaths, and in seeing Young Anselm's vision through.}"
-msgstr "{Perhaps of an age more suitable for caretaking than oathtaking, %name% is a rather old, nigh on decrepit Oathtaker. While age has robbed him of his more natural talents, it has at least gifted him with learning and experience that no physical capabilities can match. He is a man of many spirits, having gone around this world in the shell of soldier, farmer, sellsword, and more. Now he is an Oathtaker, and all those skills and traits he built up over the years has made him quite a formidable one at that. | When First Oathtaker Anselm first met %name%, it is said that the prime paladin divulged details no one else could have possibly known, thus proving the aethereal power behind his beliefs. %name% is an ardent believer in the Oaths, and in seeing Young Anselm's vision through.}"
+msgstr ""
 
 

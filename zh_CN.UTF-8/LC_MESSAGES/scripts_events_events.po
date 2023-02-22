@@ -1,21 +1,21 @@
 # scripts/events/events/dogfighting_event.nut
 msgid "200"
-msgstr "200"
+msgstr ""
 
 
 # scripts/events/events/bad_curse_event.nut
 msgid "400"
-msgstr "400"
+msgstr ""
 
 
 # scripts/events/events/lawmen_after_criminal_event.nut
 msgid "1000"
-msgstr "1000"
+msgstr ""
 
 
 # scripts/events/events/broken_cart_event.nut
 msgid "[/color] Medical Supplies."
-msgstr "[/color] Medical Supplies."
+msgstr ""
 
 
 # scripts/events/events/wound_heals_event.nut
@@ -25,7 +25,7 @@ msgstr "不再遭受"
 
 # scripts/events/events/bowyer_crafts_masterwork_event.nut
 msgid "'s "
-msgstr "'s "
+msgstr ""
 
 
 # scripts/events/events/hedgeknight_vs_hedgeknight_event.nut
@@ -55,7 +55,7 @@ msgstr " 是死了"
 # scripts/events/events/traveling_troupe_event.nut
 # scripts/events/events/wildman_causes_havoc_event.nut
 msgid "[/color] Crowns"
-msgstr "[/color] Crowns"
+msgstr ""
 
 
 # scripts/events/events/broken_wagon_event.nut
@@ -137,7 +137,7 @@ msgstr "拿起武器！"
 # scripts/events/events/supposed_witch_event.nut
 # scripts/events/events/cow_tipping_event.nut
 msgid " suffers "
-msgstr " suffers "
+msgstr ""
 
 
 # scripts/events/events/childrens_crusade_event.nut
@@ -431,7 +431,7 @@ msgstr "对你的领导有信心"
 # scripts/events/events/wildman_causes_havoc_event.nut
 # scripts/events/events/enter_friendly_town_event.nut
 msgid "At %townname%"
-msgstr "At %townname%"
+msgstr ""
 
 
 # scripts/events/events/runaway_laborers_event.nut
@@ -448,7 +448,7 @@ msgstr "非常好。"
 # scripts/events/events/broken_wagon_in_swamp_event.nut
 # scripts/events/events/broken_cart_event.nut
 msgid "[/color] Tools and Supplies."
-msgstr "[/color] Tools and Supplies."
+msgstr ""
 
 
 # scripts/events/events/creepy_guy_event.nut
@@ -491,17 +491,17 @@ msgstr " 现在被称为 "
 
 # scripts/events/events/peddler_deal_event.nut
 msgid "You earn [color="
-msgstr "You earn [color="
+msgstr ""
 
 
 # scripts/events/events/fisherman_vs_farmer_event.nut
 msgid "the Strong"
-msgstr "the Strong"
+msgstr ""
 
 
 # scripts/events/events/fisherman_vs_farmer_event.nut
 msgid "the Fisherman"
-msgstr "the Fisherman"
+msgstr ""
 
 
 # scripts/events/events/combat_drill_event.nut
@@ -510,7 +510,7 @@ msgstr "the Fisherman"
 # scripts/events/events/supposed_witch_event.nut
 # scripts/events/events/cripple_pep_talk_event.nut
 msgid "[/color] Initiative"
-msgstr "[/color] Initiative"
+msgstr ""
 
 
 # scripts/events/events/childrens_crusade_event.nut
@@ -520,7 +520,7 @@ msgstr "[/color] Initiative"
 # scripts/events/events/supposed_witch_event.nut
 # scripts/events/events/cripple_pep_talk_event.nut
 msgid "[/color] Resolve"
-msgstr "[/color] Resolve"
+msgstr ""
 
 
 # scripts/events/events/combat_drill_event.nut
@@ -529,7 +529,7 @@ msgstr "[/color] Resolve"
 # scripts/events/events/swordmaster_teaches_event.nut
 # scripts/events/events/apprentice_learns_event.nut
 msgid "[/color] Melee Defense"
-msgstr "[/color] Melee Defense"
+msgstr ""
 
 
 # scripts/events/events/combat_drill_event.nut
@@ -539,12 +539,12 @@ msgstr "[/color] Melee Defense"
 # scripts/events/events/brawler_teaches_event.nut
 # scripts/events/events/apprentice_learns_event.nut
 msgid "[/color] Melee Skill"
-msgstr "[/color] Melee Skill"
+msgstr ""
 
 
 # scripts/events/events/combat_drill_event.nut
 msgid "[/color] Ranged Skill"
-msgstr "[/color] Ranged Skill"
+msgstr ""
 
 
 # scripts/events/events/broken_wagon_event.nut
@@ -678,7 +678,7 @@ msgstr "[img]gfx/ui/events/event_06.png[/img]你蹲下来看着那堆乱糟糟�
 
 # scripts/events/events/childrens_crusade_event.nut
 msgid "Glad that "
-msgstr "Glad that "
+msgstr ""
 
 
 # scripts/events/events/childrens_crusade_event.nut
@@ -721,7 +721,7 @@ msgstr "一群傻孩子。."
 # scripts/events/events/cow_tipping_event.nut
 # scripts/events/events/peacenik_event.nut
 msgid " gains [color="
-msgstr " gains [color="
+msgstr ""
 
 
 # scripts/events/events/childrens_crusade_event.nut
@@ -736,7 +736,7 @@ msgstr "吃土吧，你们这帮小杂种。"
 
 # scripts/events/events/childrens_crusade_event.nut
 msgid " saved children from certain doom"
-msgstr " saved children from certain doom"
+msgstr ""
 
 
 # scripts/events/events/childrens_crusade_event.nut
@@ -887,7 +887,7 @@ msgstr "[img]gfx/ui/events/event_64.png[/img]你坐在帐篷里面享受着片�
 # scripts/events/events/cow_tipping_event.nut
 # scripts/events/events/peacenik_event.nut
 msgid "]+1[/color] Resolve"
-msgstr "]+1[/color] Resolve"
+msgstr ""
 
 
 # scripts/events/events/monk_vs_monk_event.nut
@@ -953,7 +953,7 @@ msgstr "%townImage%你带着几个佣兵在 %townname% 四处游荡，你转过�
 
 # scripts/events/events/how_far_is_the_sun_event.nut
 msgid "Relished "
-msgstr "Relished "
+msgstr ""
 
 
 # scripts/events/events/how_far_is_the_sun_event.nut
@@ -963,7 +963,7 @@ msgstr "祝福他们。"
 
 # scripts/events/events/how_far_is_the_sun_event.nut
 msgid "'s preaching"
-msgstr "'s preaching"
+msgstr ""
 
 
 # scripts/events/events/how_far_is_the_sun_event.nut
@@ -973,13 +973,13 @@ msgstr "额，好吧。"
 
 # scripts/events/events/how_far_is_the_sun_event.nut
 msgid "Encouraged by "
-msgstr "Encouraged by "
+msgstr ""
 
 
 # scripts/events/events/how_far_is_the_sun_event.nut
 # scripts/events/events/cow_tipping_event.nut
 msgid "Entertained by "
-msgstr "Entertained by "
+msgstr ""
 
 
 # scripts/events/events/how_far_is_the_sun_event.nut
@@ -994,17 +994,17 @@ msgstr "他真是个笑柄。"
 
 # scripts/events/events/how_far_is_the_sun_event.nut
 msgid "'s attempt to shoot the sun"
-msgstr "'s attempt to shoot the sun"
+msgstr ""
 
 
 # scripts/events/events/how_far_is_the_sun_event.nut
 msgid "'s speech about the dying sun"
-msgstr "'s speech about the dying sun"
+msgstr ""
 
 
 # scripts/events/events/how_far_is_the_sun_event.nut
 msgid "'s silly notions about the sun"
-msgstr "'s silly notions about the sun"
+msgstr ""
 
 
 # scripts/events/events/how_far_is_the_sun_event.nut
@@ -1111,7 +1111,7 @@ msgstr "%townImage%当你们在 %townname% 闲逛时，你看到一位老人正�
 # scripts/events/events/brawler_teaches_event.nut
 # scripts/events/events/apprentice_learns_event.nut
 msgid "[/color] Hitpoints"
-msgstr "[/color] Hitpoints"
+msgstr ""
 
 
 # scripts/events/events/flagellants_wounds_heal_event.nut
@@ -1131,7 +1131,7 @@ msgstr "[img]gfx/ui/events/event_05.png[/img]%witchhunter% 女巫猎人带了一
 
 # scripts/events/events/eunuch_ladies_event.nut
 msgid "At %town%"
-msgstr "At %town%"
+msgstr ""
 
 
 # scripts/events/events/eunuch_ladies_event.nut
@@ -1234,7 +1234,7 @@ msgstr "[img]gfx/ui/events/event_25.png[/img]在你准备离开的时候，盗�
 
 # scripts/events/events/butcher_gives_pointers_event.nut
 msgid "]+2[/color] Melee Skill"
-msgstr "]+2[/color] Melee Skill"
+msgstr ""
 
 
 # scripts/events/events/butcher_gives_pointers_event.nut
@@ -1310,7 +1310,7 @@ msgstr "[img]gfx/ui/events/event_06.png[/img] 当这两个人同时向你寻求�
 # scripts/events/events/noble_more_pay_lowborn_event.nut
 # scripts/events/events/aging_swordmaster_paycut_event.nut
 msgid " is now paid "
-msgstr " is now paid "
+msgstr ""
 
 
 # scripts/events/events/more_men_event.nut
@@ -1442,7 +1442,7 @@ msgstr " 是筋疲力尽的"
 # scripts/events/events/running_around_event.nut
 # scripts/events/events/cripple_pep_talk_event.nut
 msgid "[/color] Max Fatigue"
-msgstr "[/color] Max Fatigue"
+msgstr ""
 
 
 # scripts/events/events/combat_drill_event.nut
@@ -1673,7 +1673,7 @@ msgstr "感到愉快"
 # scripts/events/events/rookie_gets_hurt_event.nut
 # scripts/events/events/flagellant_vs_monk_event.nut
 msgid "]+2[/color] Resolve"
-msgstr "]+2[/color] Resolve"
+msgstr ""
 
 
 # scripts/events/events/juggler_tempts_fate_event.nut
@@ -1683,7 +1683,7 @@ msgstr "那很痛吧！"
 
 # scripts/events/events/juggler_tempts_fate_event.nut
 msgid "]+1[/color] Melee Skill"
-msgstr "]+1[/color] Melee Skill"
+msgstr ""
 
 
 # scripts/events/events/juggler_tempts_fate_event.nut
@@ -1693,7 +1693,7 @@ msgstr "够了，停下来。"
 
 # scripts/events/events/juggler_tempts_fate_event.nut
 msgid "]+2[/color] Ranged Defense"
-msgstr "]+2[/color] Ranged Defense"
+msgstr ""
 
 
 # scripts/events/events/juggler_tempts_fate_event.nut
@@ -2132,7 +2132,7 @@ msgstr "轻而易举。"
 # scripts/events/events/creepy_guy_event.nut
 # scripts/events/events/rookie_gets_hurt_event.nut
 msgid "]+3[/color] Resolve"
-msgstr "]+3[/color] Resolve"
+msgstr ""
 
 
 # scripts/events/events/creepy_guy_event.nut
@@ -2287,7 +2287,7 @@ msgstr "%monk% 僧侣！ 你能找到一个和平的解决办法吗？"
 
 # scripts/events/events/hedgeknight_vs_hedgeknight_event.nut
 msgid "%monk% the monk, can you find a peaceful resolution?"
-msgstr "%monk% the monk, can you find a peaceful resolution?"
+msgstr ""
 
 
 # scripts/events/events/hedgeknight_vs_hedgeknight_event.nut
@@ -2482,13 +2482,13 @@ msgstr "[img]gfx/ui/events/event_09.png[/img]沼泽对于旅行者来说不是�
 
 # scripts/events/events/uber_courageous_event.nut
 msgid "'s bravery"
-msgstr "'s bravery"
+msgstr ""
 
 
 # scripts/events/events/uber_courageous_event.nut
 # scripts/events/events/determined_delivers_peptalk_event.nut
 msgid "Inspired by "
-msgstr "Inspired by "
+msgstr ""
 
 
 # scripts/events/events/uber_courageous_event.nut
@@ -2503,7 +2503,7 @@ msgstr "[img]gfx/ui/events/event_50.png[/img]%juggernaut% 带着勇气的烙印�
 
 # scripts/events/events/cocky_vs_iron_lungs_event.nut
 msgid "Beat "
-msgstr "Beat "
+msgstr ""
 
 
 # scripts/events/events/cocky_vs_iron_lungs_event.nut
@@ -2513,7 +2513,7 @@ msgstr "感到愉快来自 "
 
 # scripts/events/events/cocky_vs_iron_lungs_event.nut
 msgid " in a contest of strength"
-msgstr " in a contest of strength"
+msgstr ""
 
 
 # scripts/events/events/cocky_vs_iron_lungs_event.nut
@@ -2634,7 +2634,7 @@ msgstr " 是生病了"
 
 # scripts/events/events/ratcatcher_spreads_disease_event.nut
 msgid "[/color] Provisions"
-msgstr "[/color] Provisions"
+msgstr ""
 
 
 # scripts/events/events/ratcatcher_spreads_disease_event.nut
@@ -2704,13 +2704,13 @@ msgstr "[img]gfx/ui/events/event_34.png[/img]{你去慰问 %hurtbrother%，他�
 
 # scripts/events/events/shortsighted_shoots_bro_event.nut
 msgid "Shot at "
-msgstr "Shot at "
+msgstr ""
 
 
 # scripts/events/events/shortsighted_shoots_bro_event.nut
 # scripts/events/events/archery_stunt_event.nut
 msgid " by accident"
-msgstr " by accident"
+msgstr ""
 
 
 # scripts/events/events/shortsighted_shoots_bro_event.nut
@@ -2820,12 +2820,12 @@ msgstr "[img]gfx/ui/events/event_26.png[/img]你把脚伸前，两腿岔开，�
 # scripts/events/events/archery_stunt_event.nut
 # scripts/events/events/cat_on_tree_event.nut
 msgid "]+1[/color] Ranged Skill"
-msgstr "]+1[/color] Ranged Skill"
+msgstr ""
 
 
 # scripts/events/events/historian_mysterious_text_event.nut
 msgid "]+1[/color] Ranged Defense"
-msgstr "]+1[/color] Ranged Defense"
+msgstr ""
 
 
 # scripts/events/events/bowyer_crafts_masterwork_event.nut
@@ -2838,13 +2838,13 @@ msgstr "我们没有时间做这个。"
 # scripts/events/events/swordmaster_teaches_event.nut
 # scripts/events/events/apprentice_learns_event.nut
 msgid " something"
-msgstr " something"
+msgstr ""
 
 
 # scripts/events/events/swordmaster_teaches_event.nut
 # scripts/events/events/apprentice_learns_event.nut
 msgid "Has taught "
-msgstr "Has taught "
+msgstr ""
 
 
 # scripts/events/events/swordmaster_teaches_event.nut
@@ -2887,7 +2887,7 @@ msgstr "很出色，很出色。"
 
 # scripts/events/events/juggler_entertains_townsfolk_event.nut
 msgid "One of your men entertained the masses"
-msgstr "One of your men entertained the masses"
+msgstr ""
 
 
 # scripts/events/events/juggler_entertains_townsfolk_event.nut
@@ -2992,27 +2992,27 @@ msgstr "[img]gfx/ui/events/event_05.png[/img]想到 %monk% 这个僧侣可能会
 
 # scripts/events/events/fisherman_vs_farmer_event.nut
 msgid "Weeds"
-msgstr "Weeds"
+msgstr ""
 
 
 # scripts/events/events/fisherman_vs_farmer_event.nut
 msgid "Fishes"
-msgstr "Fishes"
+msgstr ""
 
 
 # scripts/events/events/fisherman_vs_farmer_event.nut
 msgid "the Proud"
-msgstr "the Proud"
+msgstr ""
 
 
 # scripts/events/events/fisherman_vs_farmer_event.nut
 msgid "the Farmhand"
-msgstr "the Farmhand"
+msgstr ""
 
 
 # scripts/events/events/fisherman_vs_farmer_event.nut
 msgid "the Armwrestler"
-msgstr "the Armwrestler"
+msgstr ""
 
 
 # scripts/events/events/fisherman_vs_farmer_event.nut
@@ -3032,7 +3032,7 @@ msgstr "[img]gfx/ui/events/event_26.png[/img]%farmhand% 和 %fisherman% 正在�
 
 # scripts/events/events/imprisoned_wildman_event.nut
 msgid "the Animal"
-msgstr "the Animal"
+msgstr ""
 
 
 # scripts/events/events/imprisoned_wildman_event.nut
@@ -3069,7 +3069,7 @@ msgstr "把它们全宰了。"
 # scripts/events/events/cat_on_tree_event.nut
 # scripts/events/events/pimp_vs_harlot_event.nut
 msgid "]+2[/color] Initiative"
-msgstr "]+2[/color] Initiative"
+msgstr ""
 
 
 # scripts/events/events/imprisoned_wildman_event.nut
@@ -3302,12 +3302,12 @@ msgstr "请求被拒绝"
 
 # scripts/events/events/shooting_contest_event.nut
 msgid "]-60[/color] Ammunition"
-msgstr "]-60[/color] Ammunition"
+msgstr ""
 
 
 # scripts/events/events/shooting_contest_event.nut
 msgid "]-30[/color] Ammunition"
-msgstr "]-30[/color] Ammunition"
+msgstr ""
 
 
 # scripts/events/events/shooting_contest_event.nut
@@ -3353,17 +3353,17 @@ msgstr "[img]gfx/ui/events/event_10.png[/img]感觉好像他们的争论永远�
 # scripts/events/events/education_event.nut
 # scripts/events/events/bright_vs_dumb_event.nut
 msgid "Taught "
-msgstr "Taught "
+msgstr ""
 
 
 # scripts/events/events/education_event.nut
 msgid " anything"
-msgstr " anything"
+msgstr ""
 
 
 # scripts/events/events/education_event.nut
 msgid "Failed to teach "
-msgstr "Failed to teach "
+msgstr ""
 
 
 # scripts/events/events/education_event.nut
@@ -3403,7 +3403,7 @@ msgstr "[img]gfx/ui/events/event_15.png[/img]{你发现 %scholar% 和 %dumbguy% 
 
 # scripts/events/events/sacrificed_man_event.nut
 msgid "the Sacrifice"
-msgstr "the Sacrifice"
+msgstr ""
 
 
 # scripts/events/events/sacrificed_man_event.nut
@@ -3468,7 +3468,7 @@ msgstr "你失去了一些 "
 
 # scripts/events/events/thief_caught_event.nut
 msgid "[/color] Ammunition"
-msgstr "[/color] Ammunition"
+msgstr ""
 
 
 # scripts/events/events/thief_caught_event.nut
@@ -3495,12 +3495,12 @@ msgstr "给他一顿痛打。"
 # scripts/events/events/thief_caught_event.nut
 # scripts/events/events/herbs_along_the_way_event.nut
 msgid "[/color] Medical Supplies"
-msgstr "[/color] Medical Supplies"
+msgstr ""
 
 
 # scripts/events/events/thief_caught_event.nut
 msgid "[/color] Tools and Supplies"
-msgstr "[/color] Tools and Supplies"
+msgstr ""
 
 
 # scripts/events/events/thief_caught_event.nut
@@ -3803,7 +3803,7 @@ msgstr "我不赌博。"
 # scripts/events/events/jousting_tournament_event.nut
 # scripts/events/events/player_plays_dice_event.nut
 msgid "You win [color="
-msgstr "You win [color="
+msgstr ""
 
 
 # scripts/events/events/jousting_tournament_event.nut
@@ -4097,12 +4097,12 @@ msgstr "[img]gfx/ui/events/event_45.png[/img]得到这张地图后，你花了�
 
 # scripts/events/events/pessimist_won_battle_event.nut
 msgid "'s pessimism"
-msgstr "'s pessimism"
+msgstr ""
 
 
 # scripts/events/events/pessimist_won_battle_event.nut
 msgid "Tempered by "
-msgstr "Tempered by "
+msgstr ""
 
 
 # scripts/events/events/pessimist_won_battle_event.nut
@@ -4483,7 +4483,7 @@ msgstr "[img]gfx/ui/events/event_26.png[/img]你走出了帐篷，看见 %poache
 # scripts/events/events/strength_contest_event.nut
 # scripts/events/events/cow_tipping_event.nut
 msgid "]+1[/color] Max Fatigue"
-msgstr "]+1[/color] Max Fatigue"
+msgstr ""
 
 
 # scripts/events/events/strength_contest_event.nut
@@ -4518,7 +4518,7 @@ msgstr "马上停下！"
 
 # scripts/events/events/archery_stunt_event.nut
 msgid "Severely injured "
-msgstr "Severely injured "
+msgstr ""
 
 
 # scripts/events/events/archery_stunt_event.nut
@@ -4593,12 +4593,12 @@ msgstr "[img]gfx/ui/events/event_61.png[/img]{餐盘里的食物就像人们的�
 
 # scripts/events/events/retired_soldier_tale_event.nut
 msgid "'s war stories"
-msgstr "'s war stories"
+msgstr ""
 
 
 # scripts/events/events/retired_soldier_tale_event.nut
 msgid "Felt emboldened by "
-msgstr "Felt emboldened by "
+msgstr ""
 
 
 # scripts/events/events/retired_soldier_tale_event.nut
@@ -4633,7 +4633,7 @@ msgstr "[img]gfx/ui/events/event_26.png[/img] 当 %minstrel% 这个吟游诗人�
 
 # scripts/events/events/killer_vs_others_event.nut
 msgid "'s hanging"
-msgstr "'s hanging"
+msgstr ""
 
 
 # scripts/events/events/killer_vs_others_event.nut
@@ -4644,7 +4644,7 @@ msgstr "我们继续前进。"
 
 # scripts/events/events/killer_vs_others_event.nut
 msgid "Got satisfaction with "
-msgstr "Got satisfaction with "
+msgstr ""
 
 
 # scripts/events/events/killer_vs_others_event.nut
@@ -4810,7 +4810,7 @@ msgstr "可怜的家伙。"
 
 # scripts/events/events/adopt_wardog_event.nut
 msgid "Battle Brother"
-msgstr "Battle Brother"
+msgstr ""
 
 
 # scripts/events/events/adopt_wardog_event.nut
@@ -5392,7 +5392,7 @@ msgstr "好吧，至少没有人被杀。"
 
 # scripts/events/events/bastard_assassin_event.nut
 msgid "%name% joined the company in exchange for "
-msgstr "%name% joined the company in exchange for "
+msgstr ""
 
 
 # scripts/events/events/bastard_assassin_event.nut
@@ -5678,12 +5678,12 @@ msgstr "[img]gfx/ui/events/event_42.png[/img]在高低起伏的山脉中攀爬�
 
 # scripts/events/events/flagellation_horrifies_other_event.nut
 msgid "Horrified by "
-msgstr "Horrified by "
+msgstr ""
 
 
 # scripts/events/events/flagellation_horrifies_other_event.nut
 msgid "'s flagellation"
-msgstr "'s flagellation"
+msgstr ""
 
 
 # scripts/events/events/flagellation_horrifies_other_event.nut
@@ -5703,7 +5703,7 @@ msgstr "[img]gfx/ui/events/event_38.png[/img]皮开肉绽。人类身体的某�
 
 # scripts/events/events/drunkard_loses_stuff_event.nut
 msgid " flogged"
-msgstr " flogged"
+msgstr ""
 
 
 # scripts/events/events/drunkard_loses_stuff_event.nut
@@ -5738,7 +5738,7 @@ msgstr "每个人都会犯错。"
 
 # scripts/events/events/drunkard_loses_stuff_event.nut
 msgid "Appalled by your order to have "
-msgstr "Appalled by your order to have "
+msgstr ""
 
 
 # scripts/events/events/drunkard_loses_stuff_event.nut
@@ -5843,7 +5843,7 @@ msgstr "是，是是。"
 
 # scripts/events/events/the_horseman_event.nut
 msgid "the Filly Fiddler"
-msgstr "the Filly Fiddler"
+msgstr ""
 
 
 # scripts/events/events/the_horseman_event.nut
@@ -6033,7 +6033,7 @@ msgstr "%terrainImage%在朝你的目的地进发的时候，%volunteer% 手里�
 
 # scripts/events/events/ratcatcher_catches_food_event.nut
 msgid "[/color] Rat Meat"
-msgstr "[/color] Rat Meat"
+msgstr ""
 
 
 # scripts/events/events/ratcatcher_catches_food_event.nut
@@ -6083,7 +6083,7 @@ msgstr "被剥夺了抚慰达库尔的机会"
 
 # scripts/events/events/cultist_finale_event.nut
 msgid "A grisly aspect of Davkul, an ancient power not from this world, and the last remnants of "
-msgstr "A grisly aspect of Davkul, an ancient power not from this world, and the last remnants of "
+msgstr ""
 
 
 # scripts/events/events/cultist_finale_event.nut
@@ -6094,12 +6094,12 @@ msgstr " from whose body it has been fashioned. 它永远不会破裂，而是�
 # scripts/events/events/cultist_vs_old_gods_event.nut
 # scripts/events/events/rookie_gets_hurt_event.nut
 msgid " loses [color="
-msgstr " loses [color="
+msgstr ""
 
 
 # scripts/events/events/cultist_vs_old_gods_event.nut
 msgid "]-1[/color] Resolve"
-msgstr "]-1[/color] Resolve"
+msgstr ""
 
 
 # scripts/events/events/cultist_vs_old_gods_event.nut
@@ -6129,7 +6129,7 @@ msgstr "一个偷瓜贼？"
 
 # scripts/events/events/melon_thief_event.nut
 msgid "the Melon Mugger"
-msgstr "the Melon Mugger"
+msgstr ""
 
 
 # scripts/events/events/melon_thief_event.nut
@@ -6234,12 +6234,12 @@ msgstr "[img]gfx/ui/events/event_43.png[/img]那名大汉身体似乎因为醉�
 
 # scripts/events/events/optimist_lost_battle_event.nut
 msgid "'s optimism"
-msgstr "'s optimism"
+msgstr ""
 
 
 # scripts/events/events/optimist_lost_battle_event.nut
 msgid "Rallied by "
-msgstr "Rallied by "
+msgstr ""
 
 
 # scripts/events/events/optimist_lost_battle_event.nut
@@ -6274,7 +6274,7 @@ msgstr "[img]gfx/ui/events/event_82.png[/img]这个掠夺者，%raider%，正在
 
 # scripts/events/events/determined_delivers_peptalk_event.nut
 msgid "'s speech"
-msgstr "'s speech"
+msgstr ""
 
 
 # scripts/events/events/determined_delivers_peptalk_event.nut
@@ -6505,7 +6505,7 @@ msgstr "就是这种气势！"
 
 # scripts/events/events/cow_tipping_event.nut
 msgid "Witnessed "
-msgstr "Witnessed "
+msgstr ""
 
 
 # scripts/events/events/cripple_vs_injury_event.nut
@@ -6795,12 +6795,12 @@ msgstr "[img]gfx/ui/events/event_42.png[/img]战队进入山区，%randombrother
 
 # scripts/events/events/pimp_vs_harlot_event.nut
 msgid "the Pimp"
-msgstr "the Pimp"
+msgstr ""
 
 
 # scripts/events/events/pimp_vs_harlot_event.nut
 msgid "While visiting "
-msgstr "While visiting "
+msgstr ""
 
 
 # scripts/events/events/pimp_vs_harlot_event.nut
@@ -6860,7 +6860,7 @@ msgstr "我们的僧侣有什么想说的吗，对于这场…交易？"
 
 # scripts/events/events/pimp_vs_harlot_event.nut
 msgid ", you found %name% quarreling with his only harlot. "
-msgstr ", you found %name% quarreling with his only harlot. "
+msgstr ""
 
 
 # scripts/events/events/pimp_vs_harlot_event.nut
@@ -7051,7 +7051,7 @@ msgstr "减薪了"
 
 # scripts/events/events/wildman_causes_havoc_event.nut
 msgid " is now paid [color="
-msgstr " is now paid [color="
+msgstr ""
 
 
 # scripts/events/events/wildman_causes_havoc_event.nut
@@ -7096,7 +7096,7 @@ msgstr "别那样看着我，你知道你做了什么。"
 
 # scripts/events/events/wildman_causes_havoc_event.nut
 msgid "You refused to pay for damages caused by one of your men"
-msgstr "You refused to pay for damages caused by one of your men"
+msgstr ""
 
 
 # scripts/events/events/wildman_causes_havoc_event.nut
@@ -7506,7 +7506,7 @@ msgstr "%terrainImage%{走走路，跑跑步，打打仗，操操逼，都是些
 
 # scripts/events/events/fish_caught_event.nut
 msgid "[/color] Fish"
-msgstr "[/color] Fish"
+msgstr ""
 
 
 # scripts/events/events/fish_caught_event.nut
@@ -7566,7 +7566,7 @@ msgstr "战后…"
 
 # scripts/events/events/rookie_gets_hurt_event.nut
 msgid "]-3[/color] Resolve"
-msgstr "]-3[/color] Resolve"
+msgstr ""
 
 
 # scripts/events/events/rookie_gets_hurt_event.nut
@@ -7781,7 +7781,7 @@ msgstr "很有趣。"
 
 # scripts/events/events/cow_tipping_event.nut
 msgid "'s incredible feat"
-msgstr "'s incredible feat"
+msgstr ""
 
 
 # scripts/events/events/cow_tipping_event.nut
@@ -7796,12 +7796,12 @@ msgstr "别管 that cow 了。"
 
 # scripts/events/events/cow_tipping_event.nut
 msgid "'s entertaining failure"
-msgstr "'s entertaining failure"
+msgstr ""
 
 
 # scripts/events/events/cow_tipping_event.nut
 msgid "'s attempt to tip over a cow"
-msgstr "'s attempt to tip over a cow"
+msgstr ""
 
 
 # scripts/events/events/cow_tipping_event.nut

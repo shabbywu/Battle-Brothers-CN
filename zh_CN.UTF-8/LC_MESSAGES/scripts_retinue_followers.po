@@ -1,6 +1,6 @@
 # scripts/retinue/followers/scout_follower.nut
 msgid "Won "
-msgstr "Won "
+msgstr ""
 
 
 # scripts/retinue/followers/scout_follower.nut
@@ -10,7 +10,7 @@ msgstr "侦察员"
 
 # scripts/retinue/followers/scout_follower.nut
 msgid "/5 battles against beasts"
-msgstr "/5 battles against beasts"
+msgstr ""
 
 
 # scripts/retinue/followers/scout_follower.nut
@@ -30,7 +30,7 @@ msgstr "侦察员 is an expert in finding mountain passes, navigating through tr
 
 # scripts/retinue/followers/paymaster_follower.nut
 msgid "/16 men"
-msgstr "/16 men"
+msgstr ""
 
 
 # scripts/retinue/followers/paymaster_follower.nut
@@ -40,7 +40,7 @@ msgstr "出纳员"
 
 # scripts/retinue/followers/paymaster_follower.nut
 msgid "Have a roster of "
-msgstr "Have a roster of "
+msgstr ""
 
 
 # scripts/retinue/followers/paymaster_follower.nut
@@ -66,12 +66,12 @@ msgstr "出纳员 takes care of all the day-to-day financial and organizational 
 # scripts/retinue/followers/negotiator_follower.nut
 # scripts/retinue/followers/quartermaster_follower.nut
 msgid "Completed "
-msgstr "Completed "
+msgstr ""
 
 
 # scripts/retinue/followers/negotiator_follower.nut
 msgid "/15 contracts"
-msgstr "/15 contracts"
+msgstr ""
 
 
 # scripts/retinue/followers/negotiator_follower.nut
@@ -96,7 +96,7 @@ msgstr "谈判者 is home to noble courts and fancy halls, and not used to trave
 
 # scripts/retinue/followers/surgeon_follower.nut
 msgid "Treated "
-msgstr "Treated "
+msgstr ""
 
 
 # scripts/retinue/followers/surgeon_follower.nut
@@ -106,7 +106,7 @@ msgstr "外科医生"
 
 # scripts/retinue/followers/surgeon_follower.nut
 msgid "/5 men with injuries at a temple"
-msgstr "/5 men with injuries at a temple"
+msgstr ""
 
 
 # scripts/retinue/followers/surgeon_follower.nut
@@ -126,12 +126,12 @@ msgstr "外科医生 is a walking tome of anatomical knowledge. 雇佣兵战队�
 
 # scripts/retinue/followers/brigand_follower.nut
 msgid "Raided "
-msgstr "Raided "
+msgstr ""
 
 
 # scripts/retinue/followers/brigand_follower.nut
 msgid "/4 caravans"
-msgstr "/4 caravans"
+msgstr ""
 
 
 # scripts/retinue/followers/brigand_follower.nut
@@ -181,7 +181,7 @@ msgstr "军需官"
 
 # scripts/retinue/followers/quartermaster_follower.nut
 msgid "/5 caravan escort contracts"
-msgstr "/5 caravan escort contracts"
+msgstr ""
 
 
 # scripts/retinue/followers/quartermaster_follower.nut
@@ -201,7 +201,7 @@ msgstr "凭借多年的商队旅行经验，军需官能够将任何装备、行
 
 # scripts/retinue/followers/lookout_follower.nut
 msgid "Discovered "
-msgstr "Discovered "
+msgstr ""
 
 
 # scripts/retinue/followers/lookout_follower.nut
@@ -211,7 +211,7 @@ msgstr "观察员"
 
 # scripts/retinue/followers/lookout_follower.nut
 msgid "/10 locations on your own"
-msgstr "/10 locations on your own"
+msgstr ""
 
 
 # scripts/retinue/followers/lookout_follower.nut
@@ -231,7 +231,7 @@ msgstr "拥有一名行动迅速目光敏锐的观察员在战队前面探路，
 
 # scripts/retinue/followers/alchemist_follower.nut
 msgid "Crafted "
-msgstr "Crafted "
+msgstr ""
 
 
 # scripts/retinue/followers/alchemist_follower.nut
@@ -241,7 +241,7 @@ msgstr "炼金术士"
 
 # scripts/retinue/followers/alchemist_follower.nut
 msgid "/15 items at the taxidermist"
-msgstr "/15 items at the taxidermist"
+msgstr ""
 
 
 # scripts/retinue/followers/alchemist_follower.nut
@@ -261,7 +261,7 @@ msgstr "炼金术士 is knowledgeable in crafting all kinds of mysterious contra
 
 # scripts/retinue/followers/blacksmith_follower.nut
 msgid "Had "
-msgstr "Had "
+msgstr ""
 
 
 # scripts/retinue/followers/blacksmith_follower.nut
@@ -276,7 +276,7 @@ msgstr "修复速度提高33%"
 
 # scripts/retinue/followers/blacksmith_follower.nut
 msgid "/5 items repaired at a town's smith"
-msgstr "/5 items repaired at a town's smith"
+msgstr ""
 
 
 # scripts/retinue/followers/blacksmith_follower.nut
@@ -292,7 +292,7 @@ msgstr "雇佣兵擅长摧毁武器和盔甲，但不擅长维护它们。 铁�
 # scripts/retinue/followers/cook_follower.nut
 # scripts/retinue/followers/bounty_hunter_follower.nut
 msgid "Have "
-msgstr "Have "
+msgstr ""
 
 
 # scripts/retinue/followers/cook_follower.nut
@@ -302,7 +302,7 @@ msgstr "厨师"
 
 # scripts/retinue/followers/cook_follower.nut
 msgid "/8 different types of provisions"
-msgstr "/8 different types of provisions"
+msgstr ""
 
 
 # scripts/retinue/followers/cook_follower.nut
@@ -322,12 +322,12 @@ msgstr "一顿热乎乎的好饭对治愈身心大有帮助。 厨师 makes sure
 
 # scripts/retinue/followers/recruiter_follower.nut
 msgid "/12 men"
-msgstr "/12 men"
+msgstr ""
 
 
 # scripts/retinue/followers/recruiter_follower.nut
 msgid "Recruited "
-msgstr "Recruited "
+msgstr ""
 
 
 # scripts/retinue/followers/recruiter_follower.nut
@@ -352,7 +352,7 @@ msgstr "招募者 is a sleazy jawsmith that tricks desperate people into joining
 
 # scripts/retinue/followers/trader_follower.nut
 msgid "Sold "
-msgstr "Sold "
+msgstr ""
 
 
 # scripts/retinue/followers/trader_follower.nut
@@ -362,7 +362,7 @@ msgstr "交易员"
 
 # scripts/retinue/followers/trader_follower.nut
 msgid "/25 trade goods"
-msgstr "/25 trade goods"
+msgstr ""
 
 
 # scripts/retinue/followers/trader_follower.nut
@@ -377,12 +377,12 @@ msgstr "南方商人以他们的易货技巧而闻名。 你真幸运，你能�
 
 # scripts/retinue/followers/minstrel_follower.nut
 msgid "Visited "
-msgstr "Visited "
+msgstr ""
 
 
 # scripts/retinue/followers/minstrel_follower.nut
 msgid " settlements"
-msgstr " settlements"
+msgstr ""
 
 
 # scripts/retinue/followers/minstrel_follower.nut
@@ -412,7 +412,7 @@ msgstr "赏金猎人"
 
 # scripts/retinue/followers/bounty_hunter_follower.nut
 msgid "/3 named or legendary items in your possession"
-msgstr "/3 named or legendary items in your possession"
+msgstr ""
 
 
 # scripts/retinue/followers/bounty_hunter_follower.nut

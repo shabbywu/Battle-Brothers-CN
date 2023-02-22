@@ -90,7 +90,7 @@ msgstr " 喝醉了。"
 
 # scripts/entity/world/settlements/buildings/tavern_building.nut
 msgid "\n\n[color=#bcad8c]\""
-msgstr "\n\n[color=#bcad8c]\""
+msgstr ""
 
 
 # scripts/entity/world/settlements/buildings/tavern_building.nut

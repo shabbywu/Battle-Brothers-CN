@@ -1,16 +1,16 @@
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "Maximum Fatigue [color="
-msgstr "Maximum Fatigue [color="
+msgstr ""
 
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "progressbar"
-msgstr "progressbar"
+msgstr ""
 
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "armor-head-slim"
-msgstr "armor-head-slim"
+msgstr ""
 
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
@@ -25,12 +25,12 @@ msgstr "是坚不可摧的"
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "Melee Defense [color="
-msgstr "Melee Defense [color="
+msgstr ""
 
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "Ranged Defense [color="
-msgstr "Ranged Defense [color="
+msgstr ""
 
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut

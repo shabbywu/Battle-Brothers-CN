@@ -157,7 +157,7 @@ msgstr "这对我们很有帮助。"
 
 # scripts/ambitions/ambitions/ranged_mastery_ambition.nut
 msgid "Have men with the bow or crossbow mastery perk"
-msgstr "拥有精通弓箭或弩箭的战团成员"
+msgstr "有1人点出弓精通或弩精通天赋"
 
 
 # scripts/ambitions/ambitions/ranged_mastery_ambition.nut
@@ -172,7 +172,7 @@ msgstr "咱们战队缺乏老练的弓箭手，限制了咱们的策略选择。
 
 # scripts/ambitions/ambitions/ranged_mastery_ambition.nut
 msgid "[img]gfx/ui/events/event_10.png[/img]At every opportunity, you encourage the men under your command to let loose a few volleys. Everyone participates, even the slow witted louts who would sleep in their armor if you let them. Any target at all suffices: the bole of a small tree, a doe grazing in the early hours, or a goblin scout fleeing for his life.%SPEECH_ON%Yes, we are the terror of hay bales throughout the land!%SPEECH_OFF%%randombrother% says, referring to a common choice of target during practice. He ducks when an arrow from one of his comrades whistles close past his skull and starts cursing at the shooter.\n\nWith plenty of practice, those arrows are striking closer and closer to the bullseye, and now that the company is fielding better trained bowmen, your frontline is breathing easier and living, at least marginally, longer."
-msgstr "[img]gfx/ui/events/event_10.png[/img]At every opportunity, you encourage the men under your command to let loose a few volleys. Everyone participates, even the slow witted louts who would sleep in their armor if you let them. Any target at all suffices: the bole of a small tree, a doe grazing in the early hours, or a goblin scout fleeing for his life.%SPEECH_ON%Yes, we are the terror of hay bales throughout the land!%SPEECH_OFF%%randombrother% says, referring to a common choice of target during practice. He ducks when an arrow from one of his comrades whistles close past his skull and starts cursing at the shooter.\n\nWith plenty of practice, those arrows are striking closer and closer to the bullseye, and now that the company is fielding better trained bowmen, your frontline is breathing easier and living, at least marginally, longer."
+msgstr ""
 
 
 # scripts/ambitions/ambitions/discover_locations_ambition.nut
@@ -367,7 +367,7 @@ msgstr "让我们把人数增加到20人，这样伤员就能得到休息恢复�
 
 # scripts/ambitions/ambitions/roster_of_20_ambition.nut
 msgid "[img]gfx/ui/events/event_80.png[/img]For many days you speak with potential recruits from different backgrounds and from every corner of society, weeding out the incompetent and haggling with the greedy. It seems as if in troubled times every vagrant, daytaler and nobleman's youngest son wishes to become a mercenary.\n\nThe men are glad for the company's bigger roster, and those you rejected will be the butt of many jests for weeks to come. %highestexperience_brother% claps you on the shoulder.%SPEECH_ON%How about that man who said he'd taken the heads of a bunch of orcs, but was really a baker from %randomtown%! Pinching flabby biceps and beating farmers' sons with tree branches was good sport for the first few days but by the end it was more work than chasing brigands around, if you ask me.%SPEECH_OFF%You now have twenty men under your command. Not all are veterans, and not all have been tested, but being able to rotate out your wounded will mean fresher units in the field."
-msgstr "[img]gfx/ui/events/event_80.png[/img]For many days you speak with potential recruits from different backgrounds and from every corner of society, weeding out the incompetent and haggling with the greedy. It seems as if in troubled times every vagrant, daytaler and nobleman's youngest son wishes to become a mercenary.\n\nThe men are glad for the company's bigger roster, and those you rejected will be the butt of many jests for weeks to come. %highestexperience_brother% claps you on the shoulder.%SPEECH_ON%How about that man who said he'd taken the heads of a bunch of orcs, but was really a baker from %randomtown%! Pinching flabby biceps and beating farmers' sons with tree branches was good sport for the first few days but by the end it was more work than chasing brigands around, if you ask me.%SPEECH_OFF%You now have twenty men under your command. Not all are veterans, and not all have been tested, but being able to rotate out your wounded will mean fresher units in the field."
+msgstr ""
 
 
 # scripts/ambitions/ambitions/defeat_holywar_ambition.nut
@@ -811,7 +811,7 @@ msgstr "这将在今后的日子里对我们大有帮助。"
 
 # scripts/ambitions/ambitions/sergeant_ambition.nut
 msgid "You'll be awarded a unique accessory that grants the wearer additional resolve."
-msgstr "You'll be awarded a unique accessory that grants the wearer additional resolve."
+msgstr ""
 
 
 # scripts/ambitions/ambitions/sergeant_ambition.nut
@@ -826,7 +826,7 @@ msgstr "我们作战情况不错，但还需要更好的组织来应对恶劣情
 
 # scripts/ambitions/ambitions/sergeant_ambition.nut
 msgid "[img]gfx/ui/events/event_64.png[/img]You were unsure at first about assigning %sergeantbrother% to this important task, for he was as committed to revelry and carousing as any other man. But %sergeantbrother% takes to his duties with a zeal that is at first admirable, and later worrying.\n\nScoffing at dawn as the rising hour of the cowardly and infirm, %sergeantbrother% decides that everyone must start the day much earlier. He runs the men through the usual sparring routines and checks their equipment for splits and wear, but to such light work he adds strict rules about setting up and breaking camp, formation drills, lessons on flanking, forced marches with stones in their packs, and a detailed punishment regime for anyone who dares fall behind.\n\nWords such as 'back-breaking', 'cruel', 'flint-hearted' and 'merciless', as well as dozens of saltier epithets, ring in the air whenever %sergeantbrother% is safely out of earshot, though never when he is sleeping. For the brothers have learned that %sergeantbrotherfull% never truly sleeps."
-msgstr "[img]gfx/ui/events/event_64.png[/img]You were unsure at first about assigning %sergeantbrother% to this important task, for he was as committed to revelry and carousing as any other man. But %sergeantbrother% takes to his duties with a zeal that is at first admirable, and later worrying.\n\nScoffing at dawn as the rising hour of the cowardly and infirm, %sergeantbrother% decides that everyone must start the day much earlier. He runs the men through the usual sparring routines and checks their equipment for splits and wear, but to such light work he adds strict rules about setting up and breaking camp, formation drills, lessons on flanking, forced marches with stones in their packs, and a detailed punishment regime for anyone who dares fall behind.\n\nWords such as 'back-breaking', 'cruel', 'flint-hearted' and 'merciless', as well as dozens of saltier epithets, ring in the air whenever %sergeantbrother% is safely out of earshot, though never when he is sleeping. For the brothers have learned that %sergeantbrotherfull% never truly sleeps."
+msgstr ""
 
 
 # scripts/ambitions/ambitions/win_against_x_ambition.nut
@@ -1066,27 +1066,27 @@ msgstr "[img]gfx/ui/events/event_82.png[/img]人们聚集在一起，观看 %ham
 
 # scripts/ambitions/ambitions/raid_caravans_ambition.nut
 msgid "Raid trade or supply caravans"
-msgstr "Raid trade or supply caravans"
+msgstr ""
 
 
 # scripts/ambitions/ambitions/raid_caravans_ambition.nut
 msgid "Like taking candy from a child."
-msgstr "Like taking candy from a child."
+msgstr ""
 
 
 # scripts/ambitions/ambitions/raid_caravans_ambition.nut
 msgid "There are lots of riches to be claimed from caravans.\nWe need but take them like fruit from a tree!"
-msgstr "There are lots of riches to be claimed from caravans.\nWe need but take them like fruit from a tree!"
+msgstr ""
 
 
 # scripts/ambitions/ambitions/raid_caravans_ambition.nut
 msgid "Raid 4 trade or supply caravans along the road. If you're not already hostile to their faction, you can force an attack by holding the CTRL key while left-clicking on them - but only if you're not currently hired for a contract."
-msgstr "Raid 4 trade or supply caravans along the road. If you're not already hostile to their faction, you can force an attack by holding the CTRL key while left-clicking on them - but only if you're not currently hired for a contract."
+msgstr ""
 
 
 # scripts/ambitions/ambitions/raid_caravans_ambition.nut
 msgid "[img]gfx/ui/events/event_60.png[/img]A dead merchant's voice rings in your head.%SPEECH_ON%Why did you do it? We'd have given you it all.%SPEECH_OFF%But the memory isn't about him. It's about his wagon, and what parts of it he wouldn't even divulge with his life on the balance. Since setting out to raid them, attacking caravans has turned into something of a sport for you and the %companyname%. Awashed in the riches of your ambushes, the men are happy, and you've accrued a bit of renown for your dastardly deeds."
-msgstr "[img]gfx/ui/events/event_60.png[/img]A dead merchant's voice rings in your head.%SPEECH_ON%Why did you do it? We'd have given you it all.%SPEECH_OFF%But the memory isn't about him. It's about his wagon, and what parts of it he wouldn't even divulge with his life on the balance. Since setting out to raid them, attacking caravans has turned into something of a sport for you and the %companyname%. Awashed in the riches of your ambushes, the men are happy, and you've accrued a bit of renown for your dastardly deeds."
+msgstr ""
 
 
 # scripts/ambitions/ambitions/defeat_orc_location_ambition.nut
@@ -1167,7 +1167,7 @@ msgstr "雇佣足够多的人来拥有至少12人的名册。 访问各地的定
 
 # scripts/ambitions/ambitions/roster_of_12_ambition.nut
 msgid "[img]gfx/ui/events/event_80.png[/img]Having finally gathered the coin and equipment, you manage to assemble a full complement of twelve able fighters. When next you walk down %currenttown%'s main street, the men break into a full-throated marching song. A few of the townsfolk mutter under their breath about dirty mercenaries taking over the town, but others walk alongside and shout the words with you. %SPEECH_ON%Stand tall, brothers. People can see this is a real mercenary company now, and not a handful of wandering vagabonds.%SPEECH_OFF%%highestexperience_brother% declares.%SPEECH_ON%We trade in strength, and now that our numbers have gone up, so will our price.%SPEECH_OFF%It appears he has the right of it. You notice one particularly fat nobleman sizing up the company as if he already has a task in mind. The %companyname% are now a force to be reckoned with. Once the men have settled in for a celebratory drink, perhaps you should take another stroll through town to see if any more lucrative contracts may be available."
-msgstr "[img]gfx/ui/events/event_80.png[/img]Having finally gathered the coin and equipment, you manage to assemble a full complement of twelve able fighters. When next you walk down %currenttown%'s main street, the men break into a full-throated marching song. A few of the townsfolk mutter under their breath about dirty mercenaries taking over the town, but others walk alongside and shout the words with you. %SPEECH_ON%Stand tall, brothers. People can see this is a real mercenary company now, and not a handful of wandering vagabonds.%SPEECH_OFF%%highestexperience_brother% declares.%SPEECH_ON%We trade in strength, and now that our numbers have gone up, so will our price.%SPEECH_OFF%It appears he has the right of it. You notice one particularly fat nobleman sizing up the company as if he already has a task in mind. The %companyname% are now a force to be reckoned with. Once the men have settled in for a celebratory drink, perhaps you should take another stroll through town to see if any more lucrative contracts may be available."
+msgstr ""
 
 
 # scripts/ambitions/ambitions/roster_of_16_ambition.nut
@@ -1187,7 +1187,7 @@ msgstr "雇佣足够多的人来拥有至少16人的名册。 访问各地的定
 
 # scripts/ambitions/ambitions/roster_of_16_ambition.nut
 msgid "[img]gfx/ui/events/event_80.png[/img]Having finally gathered the coin and equipment, you manage to assemble a full complement of sixteen able-bodied men. When next you walk down %currenttown%'s main street, the men break into a full-throated marching song. A few of the townsfolk mutter under their breath about dirty mercenaries taking over the town, but others walk alongside and shout the words with you. %SPEECH_ON%Stand tall, brothers. People can see this is a real mercenary company now, and not a handful of rabble.%SPEECH_OFF%%highestexperience_brother% declares.%SPEECH_ON%We trade in strength, and now that our numbers have gone up, so will our price.%SPEECH_OFF%It appears he has the right of it. You notice one particularly fat merchant sizing up the company as if he already has a task in mind. The %companyname% are now a force to be reckoned with. Once the men have settled in for a celebratory drink, perhaps you should take another stroll through town to see if any more lucrative contracts may be available."
-msgstr "[img]gfx/ui/events/event_80.png[/img]Having finally gathered the coin and equipment, you manage to assemble a full complement of sixteen able-bodied men. When next you walk down %currenttown%'s main street, the men break into a full-throated marching song. A few of the townsfolk mutter under their breath about dirty mercenaries taking over the town, but others walk alongside and shout the words with you. %SPEECH_ON%Stand tall, brothers. People can see this is a real mercenary company now, and not a handful of rabble.%SPEECH_OFF%%highestexperience_brother% declares.%SPEECH_ON%We trade in strength, and now that our numbers have gone up, so will our price.%SPEECH_OFF%It appears he has the right of it. You notice one particularly fat merchant sizing up the company as if he already has a task in mind. The %companyname% are now a force to be reckoned with. Once the men have settled in for a celebratory drink, perhaps you should take another stroll through town to see if any more lucrative contracts may be available."
+msgstr ""
 
 
 # scripts/ambitions/ambitions/win_x_arena_fights_ambition.nut
@@ -1362,27 +1362,27 @@ msgstr "[img]gfx/ui/events/event_158.png[/img]一位智者曾告诉你，一辆�
 
 # scripts/ambitions/ambitions/trade_ambition.nut
 msgid "That's the bottom line."
-msgstr "That's the bottom line."
+msgstr ""
 
 
 # scripts/ambitions/ambitions/trade_ambition.nut
 msgid "Buy and sell trading goods"
-msgstr "Buy and sell trading goods"
+msgstr ""
 
 
 # scripts/ambitions/ambitions/trade_ambition.nut
 msgid "There's lots of crowns to be made with trading between towns.\nLet's earn us a fortune!"
-msgstr "There's lots of crowns to be made with trading between towns.\nLet's earn us a fortune!"
+msgstr ""
 
 
 # scripts/ambitions/ambitions/trade_ambition.nut
 msgid "Buy and sell 25 items of trading goods, such as furs, salt or spices. Buying them in small villages that produce them and selling them in big cities will earn you the most coin. Some trading goods are also exclusive to certain regions, like the southern deserts, and selling them in other parts of the world can further increase your profit margin."
-msgstr "Buy and sell 25 items of trading goods, such as furs, salt or spices. Buying them in small villages that produce them and selling them in big cities will earn you the most coin. Some trading goods are also exclusive to certain regions, like the southern deserts, and selling them in other parts of the world can further increase your profit margin."
+msgstr ""
 
 
 # scripts/ambitions/ambitions/trade_ambition.nut
 msgid "[img]gfx/ui/events/event_55.png[/img]The thought bore down on you from the start, and it is one that escapes many a mercenary captain. A thought so simple that perhaps its very simplicity camouflages it from a sword wielding leader's ego. If the %companyname% is to be traveling from city to city looking for sellsword work, it may as already have one foot in another vocation altogether: that of trade. You picked up on it quick, realizing that goods carry a different sort of currency than which appears at face, a value hidden from the eye, and hidden in the ripples of time and location themselves. Now you spend evenings struggling to tabulate the crowns. For once, it's a good problem to have."
-msgstr "[img]gfx/ui/events/event_55.png[/img]The thought bore down on you from the start, and it is one that escapes many a mercenary captain. A thought so simple that perhaps its very simplicity camouflages it from a sword wielding leader's ego. If the %companyname% is to be traveling from city to city looking for sellsword work, it may as already have one foot in another vocation altogether: that of trade. You picked up on it quick, realizing that goods carry a different sort of currency than which appears at face, a value hidden from the eye, and hidden in the ripples of time and location themselves. Now you spend evenings struggling to tabulate the crowns. For once, it's a good problem to have."
+msgstr ""
 
 
 # scripts/ambitions/ambitions/have_armor_upgrades_ambition.nut
