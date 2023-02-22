@@ -85,13 +85,13 @@ msgstr ""
 
 
 # scripts/scenarios/world/manhunters_scenario.nut
-msgid "the Beggar"
-msgstr ""
+msgid "Manhunters"
+msgstr "搜捕者"
 
 
 # scripts/scenarios/world/manhunters_scenario.nut
-msgid "Manhunters"
-msgstr "搜捕者"
+msgid "the Beggar"
+msgstr ""
 
 
 # scripts/scenarios/world/manhunters_scenario.nut
@@ -130,11 +130,6 @@ msgstr "角色只能到7级"
 
 
 # scripts/scenarios/world/manhunters_scenario.nut
-msgid "]-10%[/color] Experience Gain"
-msgstr "]-10%[/color] 经验获取"
-
-
-# scripts/scenarios/world/manhunters_scenario.nut
 msgid "]-25%[/color] Experience Gain"
 msgstr "]-25%[/color] 经验获取"
 
@@ -145,13 +140,18 @@ msgstr "]+10%[/color] 经验获取"
 
 
 # scripts/scenarios/world/manhunters_scenario.nut
-msgid "Relieved that he escaped execution"
-msgstr "他逃脱了处决"
+msgid "]-10%[/color] Experience Gain"
+msgstr "]-10%[/color] 经验获取"
 
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "Worried about what awaits him next"
 msgstr "担心接下来会发生什么"
+
+
+# scripts/scenarios/world/manhunters_scenario.nut
+msgid "Relieved that he escaped execution"
+msgstr "他逃脱了处决"
 
 
 # scripts/scenarios/world/manhunters_scenario.nut

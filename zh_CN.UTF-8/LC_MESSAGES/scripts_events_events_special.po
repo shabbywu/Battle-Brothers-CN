@@ -167,12 +167,12 @@ msgstr "[img]gfx/ui/events/event_64.png[/img]这个你解雇的男人不只是�
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
-msgid "It had to be this way."
+msgid "You've already chosen "
 msgstr ""
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
-msgid "You've already chosen "
+msgid "It had to be this way."
 msgstr ""
 
 
@@ -192,13 +192,13 @@ msgstr "夺回了小安瑟姆的下颌骨"
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
-msgid "And death to the Oathbringers..."
-msgstr "致誓言使者之死…"
+msgid "The company lost to Oathbringers"
+msgstr ""
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
-msgid "The company lost to Oathbringers"
-msgstr ""
+msgid "And death to the Oathbringers..."
+msgstr "致誓言使者之死…"
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut

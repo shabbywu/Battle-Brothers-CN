@@ -1,13 +1,3 @@
-# scripts/skills/injury/exposed_ribs_injury.nut
-# scripts/skills/injury/deep_abdominal_cut_injury.nut
-# scripts/skills/injury/stabbed_guts_injury.nut
-# scripts/skills/injury/grazed_kidney_injury.nut
-# scripts/skills/injury/deep_chest_cut_injury.nut
-# scripts/skills/injury/injury.nut
-msgid "State"
-msgstr ""
-
-
 # scripts/skills/injury/injury.nut
 msgid "Will heal by tomorrow"
 msgstr "明天就会痊愈"
@@ -728,12 +718,12 @@ msgstr "深胸切口"
 
 
 # scripts/skills/injury/deep_chest_cut_injury.nut
-msgid "]-35%[/color] Max Fatigue"
+msgid "]-35%[/color] Melee Skill"
 msgstr ""
 
 
 # scripts/skills/injury/deep_chest_cut_injury.nut
-msgid "]-35%[/color] Melee Skill"
+msgid "]-35%[/color] Max Fatigue"
 msgstr ""
 
 

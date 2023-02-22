@@ -1,13 +1,3 @@
-# scripts/items/misc/anatomist/anatomist_potion_item.nut
-msgid "State"
-msgstr ""
-
-
-# scripts/items/misc/anatomist/research_notes_beasts_item.nut
-msgid "Lindwurm"
-msgstr "灵虫"
-
-
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Alp"
 msgstr "阿尔卑斯"
@@ -33,19 +23,14 @@ msgid "Ifrit"
 msgstr "伊夫利特"
 
 
-# scripts/items/misc/anatomist/research_notes_beasts_item.nut
-msgid "Schrat"
-msgstr "施拉特"
-
-
-# scripts/items/misc/anatomist/research_notes_beasts_item.nut
-msgid "Unhold"
-msgstr "未持有"
-
-
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 msgid "Kraken"
 msgstr "海妖"
+
+
+# scripts/items/misc/anatomist/research_notes_beasts_item.nut
+msgid "Schrat"
+msgstr "施拉特"
 
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
@@ -68,24 +53,14 @@ msgid "Webknecht"
 msgstr "韦克内希特"
 
 
-# scripts/items/misc/anatomist/research_notes_legendary_item.nut
-msgid "Rachegeist"
-msgstr "雷切吉斯特"
-
-
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Nachzehrer"
 msgstr "纳赫泽雷尔"
 
 
-# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
-msgid "Orc Warlord"
-msgstr "兽人军阀"
-
-
-# scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid "Necromancer"
-msgstr "死灵法师"
+# scripts/items/misc/anatomist/research_notes_legendary_item.nut
+msgid "Rachegeist"
+msgstr "雷切吉斯特"
 
 
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
@@ -98,9 +73,19 @@ msgid "Fallen Hero"
 msgstr "堕落的英雄"
 
 
+# scripts/items/misc/anatomist/research_notes_undead_item.nut
+msgid "Necromancer"
+msgstr "死灵法师"
+
+
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 msgid "Orc Warrior"
 msgstr "兽人战士"
+
+
+# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
+msgid "Orc Warlord"
+msgstr "兽人军阀"
 
 
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
@@ -109,13 +94,13 @@ msgstr "维德冈格"
 
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
-msgid "Orc Berserker"
-msgstr "兽人狂战士"
+msgid "Goblin Shaman"
+msgstr "地精萨满"
 
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
-msgid "Goblin Shaman"
-msgstr "地精萨满"
+msgid "Orc Berserker"
+msgstr "兽人狂战士"
 
 
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
@@ -328,12 +313,6 @@ msgstr "受到的流血伤害减少  [color="
 # scripts/items/misc/anatomist/goblin_overseer_potion_item.nut
 msgid "Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process."
 msgstr "右键单击或拖动到当前选定的角色上进行饮用。 此物品会在使用过程中消耗掉。"
-
-
-# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
-# scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid ": ???"
-msgstr ""
 
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
@@ -553,11 +532,6 @@ msgstr "'盾墙' 技能的疲劳产生量降低 [color="
 # scripts/items/misc/anatomist/skeleton_warrior_potion_item.nut
 msgid "By drinking this, even the feeblest sellsword will gain a shield arm that rivals even that of the ceaseless dead! Almost guaranteed to not turn them undead, either!"
 msgstr "喝了这瓶药，即使是最虚弱的雇佣兵架起的盾墙也会稳如泰山，甚至可以与永无休止的古代亡灵相匹敌！几乎可以保证不会让他们变成不死族！几乎！"
-
-
-# scripts/items/misc/anatomist/research_notes_beasts_item.nut
-msgid "???"
-msgstr ""
 
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut

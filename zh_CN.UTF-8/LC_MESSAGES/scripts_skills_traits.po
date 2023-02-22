@@ -1,9 +1,3 @@
-# scripts/skills/traits/weasel_trait.nut
-# scripts/skills/traits/addict_trait.nut
-msgid "State"
-msgstr ""
-
-
 # scripts/skills/traits/strong_trait.nut
 msgid "Strong"
 msgstr "强的"
@@ -19,15 +13,15 @@ msgid "Quick"
 msgstr "锋利的"
 
 
-# scripts/skills/traits/loyal_trait.nut
-msgid "the Dog"
-msgstr "狗"
-
-
 # scripts/skills/traits/dumb_trait.nut
 # scripts/skills/traits/deathwish_trait.nut
 msgid "the Odd"
 msgstr "奇怪的"
+
+
+# scripts/skills/traits/loyal_trait.nut
+msgid "the Dog"
+msgstr "狗"
 
 
 # scripts/skills/traits/hate_greenskins_trait.nut
@@ -46,14 +40,14 @@ msgid "the Rock"
 msgstr "岩石"
 
 
-# scripts/skills/traits/swift_trait.nut
-msgid "the Swift"
-msgstr "斯威夫特"
-
-
 # scripts/skills/traits/bloodthirsty_trait.nut
 msgid "the Cruel"
 msgstr "残酷的"
+
+
+# scripts/skills/traits/swift_trait.nut
+msgid "the Swift"
+msgstr "斯威夫特"
 
 
 # scripts/skills/traits/weasel_trait.nut
@@ -389,12 +383,12 @@ msgstr "在这个角色的生活中，一些过去的事件已经激起了对所
 
 
 # scripts/skills/traits/oath_of_sacrifice_trait.nut
-msgid "Is not paid any wage"
+msgid "Injuries do not heal"
 msgstr ""
 
 
 # scripts/skills/traits/oath_of_sacrifice_trait.nut
-msgid "Injuries do not heal"
+msgid "Is not paid any wage"
 msgstr ""
 
 
@@ -815,12 +809,12 @@ msgstr ""
 
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
-msgid "]-10[/color] Resolve when not fighting undead"
+msgid "]+10[/color] Melee Skill when fighting undead"
 msgstr ""
 
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
-msgid "]+10[/color] Melee Skill when fighting undead"
+msgid "]-10[/color] Resolve when not fighting undead"
 msgstr ""
 
 
@@ -1594,13 +1588,13 @@ msgstr "继续前进。 这个角色将勇敢地冒险进入未知世界。"
 
 
 # scripts/skills/traits/disloyal_trait.nut
-msgid "the Liar"
-msgstr ""
+msgid "Disloyal"
+msgstr "不忠诚"
 
 
 # scripts/skills/traits/disloyal_trait.nut
-msgid "Disloyal"
-msgstr "不忠诚"
+msgid "the Liar"
+msgstr ""
 
 
 # scripts/skills/traits/disloyal_trait.nut
@@ -1614,12 +1608,12 @@ msgstr "巨大"
 
 
 # scripts/skills/traits/huge_trait.nut
-msgid "the Tower"
+msgid "the Giant"
 msgstr ""
 
 
 # scripts/skills/traits/huge_trait.nut
-msgid "the Giant"
+msgid "the Tower"
 msgstr ""
 
 
@@ -1645,12 +1639,12 @@ msgstr ""
 
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
-msgid "]+10[/color] Melee Skill when fighting greenskins"
+msgid "]-10[/color] Resolve when not fighting greenskins"
 msgstr ""
 
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
-msgid "]-10[/color] Resolve when not fighting greenskins"
+msgid "]+10[/color] Melee Skill when fighting greenskins"
 msgstr ""
 
 

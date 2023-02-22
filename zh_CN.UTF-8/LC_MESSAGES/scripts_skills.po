@@ -4,11 +4,6 @@ msgstr ""
 
 
 # scripts/skills/skill.nut
-msgid "#ffffff"
-msgstr ""
-
-
-# scripts/skills/skill.nut
 msgid "Oath of Wrath"
 msgstr "愤怒誓言"
 
@@ -34,6 +29,11 @@ msgstr "还击"
 
 
 # scripts/skills/skill.nut
+msgid " has hit "
+msgstr ""
+
+
+# scripts/skills/skill.nut
 msgid "Nighttime"
 msgstr ""
 
@@ -44,23 +44,8 @@ msgstr ""
 
 
 # scripts/skills/skill.nut
-msgid " has hit "
-msgstr ""
-
-
-# scripts/skills/skill.nut
 msgid "Too close"
 msgstr "太近"
-
-
-# scripts/skills/skill.nut
-msgid " and hits "
-msgstr ""
-
-
-# scripts/skills/skill.nut
-msgid ", Rolled: "
-msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -79,18 +64,28 @@ msgstr ""
 
 
 # scripts/skills/skill.nut
+msgid ", Rolled: "
+msgstr ""
+
+
+# scripts/skills/skill.nut
+msgid " and hits "
+msgstr ""
+
+
+# scripts/skills/skill.nut
 msgid "Surrounded"
 msgstr "包围"
 
 
 # scripts/skills/skill.nut
-msgid " uses skill "
-msgstr " 使用技能 "
+msgid "Distance of "
+msgstr "距离 "
 
 
 # scripts/skills/skill.nut
-msgid "Distance of "
-msgstr "距离 "
+msgid " uses skill "
+msgstr " 使用技能 "
 
 
 # scripts/skills/skill.nut
@@ -104,13 +99,13 @@ msgstr "快速适应"
 
 
 # scripts/skills/skill.nut
-msgid "Immune to stun"
-msgstr "免疫击晕"
+msgid "On bad terrain"
+msgstr "处于恶劣地形"
 
 
 # scripts/skills/skill.nut
-msgid "On bad terrain"
-msgstr "处于恶劣地形"
+msgid "Immune to stun"
+msgstr "免疫击晕"
 
 
 # scripts/skills/skill.nut
@@ -255,11 +250,6 @@ msgstr ""
 
 # scripts/skills/skill_container.nut
 msgid "# A = Active, P = Passive, H = Hidden"
-msgstr ""
-
-
-# scripts/skills/skill_container.nut
-msgid "##############################################"
 msgstr ""
 
 

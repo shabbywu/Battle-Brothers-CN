@@ -1,8 +1,3 @@
-# scripts/events/events/dlc8/lindwurm_slayer_event.nut
-msgid "5000"
-msgstr ""
-
-
 # scripts/events/events/dlc8/oathbreaker_event.nut
 msgid "the Oathbreaker"
 msgstr "誓言破坏者"
@@ -21,19 +16,6 @@ msgstr ""
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "You gain [color="
 msgstr "你获得了 [color="
-
-
-# scripts/events/events/dlc8/tree_fort_event.nut
-# scripts/events/events/dlc8/captured_oathbringer_event.nut
-# scripts/events/events/dlc8/anatomist_vs_dog_event.nut
-# scripts/events/events/dlc8/brawler_throw_fight_event.nut
-# scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
-# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
-# scripts/events/events/dlc8/missing_kids_event.nut
-# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
-# scripts/events/events/dlc8/anatomist_dead_knight_event.nut
-msgid " suffers "
-msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
@@ -55,6 +37,19 @@ msgstr ""
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid "You gain "
 msgstr "你获得了 "
+
+
+# scripts/events/events/dlc8/tree_fort_event.nut
+# scripts/events/events/dlc8/captured_oathbringer_event.nut
+# scripts/events/events/dlc8/anatomist_vs_dog_event.nut
+# scripts/events/events/dlc8/brawler_throw_fight_event.nut
+# scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
+# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
+# scripts/events/events/dlc8/missing_kids_event.nut
+# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
+# scripts/events/events/dlc8/anatomist_dead_knight_event.nut
+msgid " suffers "
+msgstr ""
 
 
 # scripts/events/events/dlc8/lindwurm_slayer_event.nut
@@ -405,13 +400,18 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
+msgid "A win's a win."
+msgstr ""
+
+
+# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "On the road..."
 msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
-msgid "A win's a win."
+msgid "Alright, take it."
 msgstr ""
 
 
@@ -419,11 +419,6 @@ msgstr ""
 # scripts/events/events/dlc8/incense_trade_event.nut
 msgid "I don't think so."
 msgstr "我不这么认为。"
-
-
-# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
-msgid "Alright, take it."
-msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
@@ -666,12 +661,12 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/oathtakers_skull_cracked_event.nut
-msgid "Convinced he hasn't upheld the oaths as well as he should"
+msgid "Was compelled to redouble his efforts following the oaths"
 msgstr ""
 
 
 # scripts/events/events/dlc8/oathtakers_skull_cracked_event.nut
-msgid "Was compelled to redouble his efforts following the oaths"
+msgid "Convinced he hasn't upheld the oaths as well as he should"
 msgstr ""
 
 
@@ -739,12 +734,12 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
-msgid "The shit they get me into..."
+msgid "Alright, let's go dig it up."
 msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
-msgid "Alright, let's go dig it up."
+msgid "The shit they get me into..."
 msgstr ""
 
 
@@ -1014,12 +1009,12 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/captured_oathbringer_event.nut
-msgid "Disliked that you slew a captive in cold blood"
+msgid "You almost let a captive Oathbringer roam free"
 msgstr ""
 
 
 # scripts/events/events/dlc8/captured_oathbringer_event.nut
-msgid "You almost let a captive Oathbringer roam free"
+msgid "Disliked that you slew a captive in cold blood"
 msgstr ""
 
 
@@ -1169,12 +1164,12 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "It is what it allegedly is."
+msgid "This is far too suspicious."
 msgstr ""
 
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "This is far too suspicious."
+msgid "It is what it allegedly is."
 msgstr ""
 
 
@@ -1194,12 +1189,12 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "We have no need of yet another charlatan."
+msgid "Learned how to better deal with the laity"
 msgstr ""
 
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "Learned how to better deal with the laity"
+msgid "We have no need of yet another charlatan."
 msgstr ""
 
 
@@ -1275,13 +1270,13 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
-msgid "Let's get back on the road then."
-msgstr "让我们回到路上 then."
+msgid "Let's just get on the road then."
+msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
-msgid "Let's just get on the road then."
-msgstr ""
+msgid "Let's get back on the road then."
+msgstr "让我们回到路上 then."
 
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
@@ -1708,12 +1703,12 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
-msgid "Do it, but be careful."
+msgid "Is no longer asthmatic"
 msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
-msgid "Is no longer asthmatic"
+msgid "Do it, but be careful."
 msgstr ""
 
 
@@ -2056,13 +2051,13 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/incense_trade_event.nut
-msgid "]15[/color] Crowns"
-msgstr "]15[/color] 克朗"
+msgid "What in the hells."
+msgstr ""
 
 
 # scripts/events/events/dlc8/incense_trade_event.nut
-msgid "What in the hells."
-msgstr ""
+msgid "]15[/color] Crowns"
+msgstr "]15[/color] 克朗"
 
 
 # scripts/events/events/dlc8/incense_trade_event.nut
@@ -2211,12 +2206,12 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/missing_kids_event.nut
-msgid "Let's just get out of here."
+msgid "It gets old fast, trust me."
 msgstr ""
 
 
 # scripts/events/events/dlc8/missing_kids_event.nut
-msgid "It gets old fast, trust me."
+msgid "Let's just get out of here."
 msgstr ""
 
 
@@ -2416,12 +2411,12 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "At least the anatomist took it in stride."
+msgid "%cultist% the cultist is murmuring again."
 msgstr ""
 
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "%cultist% the cultist is murmuring again."
+msgid "At least the anatomist took it in stride."
 msgstr ""
 
 

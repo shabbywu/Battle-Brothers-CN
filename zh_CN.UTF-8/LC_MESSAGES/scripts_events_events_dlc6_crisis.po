@@ -251,13 +251,13 @@ msgstr "不喜欢你结束了南方侵略者的苦难"
 
 
 # scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
-msgid "Disliked that you left fellow Gilded to suffer a slow death"
-msgstr "不喜欢你让镀金者的同胞慢慢死去"
+msgid "Approved of your decision to leave southern invaders to die"
+msgstr "认可你让南方侵略者去死的决定"
 
 
 # scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
-msgid "Approved of your decision to leave southern invaders to die"
-msgstr "认可你让南方侵略者去死的决定"
+msgid "Disliked that you left fellow Gilded to suffer a slow death"
+msgstr "不喜欢你让镀金者的同胞慢慢死去"
 
 
 # scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut

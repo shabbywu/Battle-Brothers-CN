@@ -28,11 +28,6 @@ msgid "Necromancers"
 msgstr "死灵法师"
 
 
-# scripts/factions/faction.nut
-msgid "#ffffff"
-msgstr ""
-
-
 # scripts/factions/noble_faction.nut
 msgid "Changed sides in the war"
 msgstr "在战争中改变了立场"
@@ -45,11 +40,6 @@ msgstr ""
 
 # scripts/factions/noble_faction.nut
 msgid "House "
-msgstr ""
-
-
-# scripts/factions/faction_manager.nut
-msgid "\""
 msgstr ""
 
 

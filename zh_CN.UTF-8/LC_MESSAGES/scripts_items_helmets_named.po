@@ -50,13 +50,13 @@ msgstr "兽帽"
 
 
 # scripts/items/helmets/named/wolf_helmet.nut
-msgid "Wolf Crown"
-msgstr "狼冠"
+msgid "Beast Coif"
+msgstr "野兽紧帽"
 
 
 # scripts/items/helmets/named/wolf_helmet.nut
-msgid "Beast Coif"
-msgstr "野兽紧帽"
+msgid "Wolf Crown"
+msgstr "狼冠"
 
 
 # scripts/items/helmets/named/wolf_helmet.nut
@@ -105,13 +105,13 @@ msgstr "头饰"
 
 
 # scripts/items/helmets/named/golden_feathers_helmet.nut
-msgid "Helm with Coif"
-msgstr "带头巾的头盔"
+msgid "Feathered Helm"
+msgstr "羽毛头盔"
 
 
 # scripts/items/helmets/named/golden_feathers_helmet.nut
-msgid "Feathered Helm"
-msgstr "羽毛头盔"
+msgid "Helm with Coif"
+msgstr "带头巾的头盔"
 
 
 # scripts/items/helmets/named/golden_feathers_helmet.nut
@@ -221,23 +221,23 @@ msgstr "沙漠冠"
 
 
 # scripts/items/helmets/named/gold_and_black_turban.nut
-msgid "Gilder's Pride"
-msgstr "镀金者的骄傲"
-
-
-# scripts/items/helmets/named/gold_and_black_turban.nut
 msgid "Vizier's Pride"
 msgstr "维齐尔的骄傲"
 
 
 # scripts/items/helmets/named/gold_and_black_turban.nut
-msgid "Scorpion's Helm"
-msgstr "太阳面纱"
+msgid "Gilder's Pride"
+msgstr "镀金者的骄傲"
 
 
 # scripts/items/helmets/named/gold_and_black_turban.nut
 msgid "Gilder's Visage"
 msgstr "镀金者的面容"
+
+
+# scripts/items/helmets/named/gold_and_black_turban.nut
+msgid "Scorpion's Helm"
+msgstr "太阳面纱"
 
 
 # scripts/items/helmets/named/gold_and_black_turban.nut
@@ -401,13 +401,13 @@ msgstr ""
 
 
 # scripts/items/helmets/named/named_steppe_helmet_with_mail.nut
-msgid "Horsehair Helmet"
-msgstr "马毛头盔"
+msgid "Headdress Helmet"
+msgstr "头翼盔"
 
 
 # scripts/items/helmets/named/named_steppe_helmet_with_mail.nut
-msgid "Headdress Helmet"
-msgstr "头翼盔"
+msgid "Horsehair Helmet"
+msgstr "马毛头盔"
 
 
 # scripts/items/helmets/named/named_steppe_helmet_with_mail.nut
@@ -491,13 +491,13 @@ msgstr "纹章头盔"
 
 
 # scripts/items/helmets/named/heraldic_mail_helmet.nut
-msgid "Heraldic Bascinet"
-msgstr "纹章中头盔"
+msgid "Knightly Bascinet"
+msgstr "骑士中型盔"
 
 
 # scripts/items/helmets/named/heraldic_mail_helmet.nut
-msgid "Knightly Bascinet"
-msgstr "骑士中型盔"
+msgid "Heraldic Bascinet"
+msgstr "纹章中头盔"
 
 
 # scripts/items/helmets/named/heraldic_mail_helmet.nut

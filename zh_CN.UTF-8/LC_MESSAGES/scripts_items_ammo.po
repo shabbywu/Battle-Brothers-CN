@@ -37,16 +37,16 @@ msgstr ""
 
 
 # scripts/items/ammo/quiver_of_arrows.nut
+msgid "Quiver of Arrows"
+msgstr "弓箭袋"
+
+
+# scripts/items/ammo/quiver_of_arrows.nut
 # scripts/items/ammo/quiver_of_bolts.nut
 # scripts/items/ammo/large_quiver_of_arrows.nut
 # scripts/items/ammo/large_quiver_of_bolts.nut
 msgid "Contains [color="
 msgstr ""
-
-
-# scripts/items/ammo/quiver_of_arrows.nut
-msgid "Quiver of Arrows"
-msgstr "弓箭袋"
 
 
 # scripts/items/ammo/quiver_of_arrows.nut

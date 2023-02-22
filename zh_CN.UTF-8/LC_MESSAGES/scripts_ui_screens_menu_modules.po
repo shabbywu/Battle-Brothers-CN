@@ -4,12 +4,12 @@ msgstr ""
 
 
 # scripts/ui/screens/menu/modules/options_menu_module.nut
-msgid "fullscreen"
+msgid "Borderless"
 msgstr ""
 
 
 # scripts/ui/screens/menu/modules/options_menu_module.nut
-msgid "Borderless"
+msgid "fullscreen"
 msgstr ""
 
 

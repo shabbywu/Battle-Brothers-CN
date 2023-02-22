@@ -49,13 +49,13 @@ msgstr "减少50%的逃兵几率"
 
 
 # scripts/retinue/followers/paymaster_follower.nut
-msgid "Reduces the daily wage of each man by 15%"
-msgstr "每人每日工资减少15%"
+msgid "Prevents men demanding more pay in events"
+msgstr "阻止你的人要求更高报酬的事件出现"
 
 
 # scripts/retinue/followers/paymaster_follower.nut
-msgid "Prevents men demanding more pay in events"
-msgstr "阻止你的人要求更高报酬的事件出现"
+msgid "Reduces the daily wage of each man by 15%"
+msgstr "每人每日工资减少15%"
 
 
 # scripts/retinue/followers/paymaster_follower.nut
@@ -130,13 +130,13 @@ msgstr ""
 
 
 # scripts/retinue/followers/brigand_follower.nut
-msgid "/4 caravans"
-msgstr ""
+msgid "The Brigand"
+msgstr "强盗"
 
 
 # scripts/retinue/followers/brigand_follower.nut
-msgid "The Brigand"
-msgstr "强盗"
+msgid "/4 caravans"
+msgstr ""
 
 
 # scripts/retinue/followers/brigand_follower.nut
@@ -200,13 +200,13 @@ msgstr "凭借多年的商队旅行经验，军需官能够将任何装备、行
 
 
 # scripts/retinue/followers/lookout_follower.nut
-msgid "Discovered "
-msgstr ""
+msgid "The Lookout"
+msgstr "观察员"
 
 
 # scripts/retinue/followers/lookout_follower.nut
-msgid "The Lookout"
-msgstr "观察员"
+msgid "Discovered "
+msgstr ""
 
 
 # scripts/retinue/followers/lookout_follower.nut
@@ -381,13 +381,13 @@ msgstr ""
 
 
 # scripts/retinue/followers/minstrel_follower.nut
-msgid " settlements"
-msgstr ""
+msgid "The Minstrel"
+msgstr "吟游诗人"
 
 
 # scripts/retinue/followers/minstrel_follower.nut
-msgid "The Minstrel"
-msgstr "吟游诗人"
+msgid " settlements"
+msgstr ""
 
 
 # scripts/retinue/followers/minstrel_follower.nut

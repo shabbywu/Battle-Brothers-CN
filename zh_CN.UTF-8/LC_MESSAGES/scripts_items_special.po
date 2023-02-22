@@ -1,8 +1,3 @@
-# scripts/items/special/golden_goose_item.nut
-msgid "State"
-msgstr ""
-
-
 # scripts/items/special/black_book_item.nut
 msgid "The Black Book"
 msgstr "黑书"

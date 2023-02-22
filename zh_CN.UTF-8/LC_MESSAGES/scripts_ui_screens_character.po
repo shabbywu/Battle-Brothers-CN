@@ -1,9 +1,4 @@
 # scripts/ui/screens/character/character_screen.nut
-msgid "State"
-msgstr ""
-
-
-# scripts/ui/screens/character/character_screen.nut
 msgid "Undefined error."
 msgstr ""
 
@@ -74,12 +69,12 @@ msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to acquire inventory."
+msgid "Failed to equip ground item."
 msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to equip ground item."
+msgid "Failed to acquire inventory."
 msgstr ""
 
 
@@ -94,12 +89,12 @@ msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to remove item from bag."
+msgid "Failed to acquire ground items."
 msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to acquire ground items."
+msgid "Failed to remove item from bag."
 msgstr ""
 
 
@@ -124,12 +119,12 @@ msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to remove item from target slot."
+msgid "Failed to remove item from source slot."
 msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to remove item from source slot."
+msgid "Failed to remove item from target slot."
 msgstr ""
 
 

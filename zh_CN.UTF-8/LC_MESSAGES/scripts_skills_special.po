@@ -1,8 +1,3 @@
-# scripts/skills/special/stats_collector.nut
-msgid "State"
-msgstr ""
-
-
 # scripts/skills/special/morale_check.nut
 msgid "]-20%[/color] Melee Skill"
 msgstr ""
@@ -109,11 +104,6 @@ msgstr "这个角色目前装备的远程武器没有弹药！"
 
 
 # scripts/skills/special/mood_check.nut
-msgid "%)"
-msgstr ""
-
-
-# scripts/skills/special/mood_check.nut
 msgid "Mood Check"
 msgstr "情绪检查"
 
@@ -139,17 +129,17 @@ msgstr ""
 
 
 # scripts/skills/special/mood_check.nut
-msgid "]25%[/color] chance to start battle at confident morale"
-msgstr ""
-
-
-# scripts/skills/special/mood_check.nut
 msgid "]50%[/color] chance to start battle at confident morale"
 msgstr ""
 
 
 # scripts/skills/special/mood_check.nut
 msgid "]75%[/color] chance to start battle at confident morale"
+msgstr ""
+
+
+# scripts/skills/special/mood_check.nut
+msgid "]25%[/color] chance to start battle at confident morale"
 msgstr ""
 
 
@@ -209,12 +199,12 @@ msgstr "士气检查"
 
 
 # scripts/skills/special/morale_check.nut
-msgid "]-30%[/color] Resolve"
+msgid "]-20%[/color] Resolve"
 msgstr ""
 
 
 # scripts/skills/special/morale_check.nut
-msgid "]-20%[/color] Resolve"
+msgid "]-30%[/color] Resolve"
 msgstr ""
 
 
@@ -240,18 +230,23 @@ msgstr ""
 
 
 # scripts/skills/special/morale_check.nut
-msgid "]+10%[/color] Melee Defense"
+msgid "]-20%[/color] Melee Defense"
 msgstr ""
 
 
 # scripts/skills/special/morale_check.nut
-msgid "]-20%[/color] Melee Defense"
+msgid "]+10%[/color] Melee Defense"
 msgstr ""
 
 
 # scripts/skills/special/morale_check.nut
 # scripts/skills/special/night_effect.nut
 msgid "]-30%[/color] Ranged Defense"
+msgstr ""
+
+
+# scripts/skills/special/morale_check.nut
+msgid "]+10%[/color] Ranged Defense"
 msgstr ""
 
 
@@ -263,11 +258,6 @@ msgstr ""
 # scripts/skills/special/morale_check.nut
 msgid "Acts at the end of the round"
 msgstr "在轮末行动"
-
-
-# scripts/skills/special/morale_check.nut
-msgid "]+10%[/color] Ranged Defense"
-msgstr ""
 
 
 # scripts/skills/special/morale_check.nut

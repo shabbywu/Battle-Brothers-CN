@@ -1,8 +1,3 @@
-# scripts/items/trade/trading_good_item.nut
-msgid "State"
-msgstr ""
-
-
 # scripts/items/trade/amber_shards_item.nut
 msgid "Amber Shards"
 msgstr "琥珀碎片"

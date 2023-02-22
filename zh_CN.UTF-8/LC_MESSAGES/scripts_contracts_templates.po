@@ -1,11 +1,5 @@
 # scripts/contracts/templates/negotiation_templates.nut
 # scripts/contracts/templates/intro_templates.nut
-msgid "Contracts"
-msgstr ""
-
-
-# scripts/contracts/templates/negotiation_templates.nut
-# scripts/contracts/templates/intro_templates.nut
 msgid "Negotiations"
 msgstr "谈判"
 
@@ -56,13 +50,13 @@ msgstr "我们需要更多的预付款。"
 
 
 # scripts/contracts/templates/negotiation_templates.nut
-msgid "We need to be paid more for this."
-msgstr "我们需要更多的报酬。"
+msgid "Contract negotiations turned sour"
+msgstr "合同谈判变糟了"
 
 
 # scripts/contracts/templates/negotiation_templates.nut
-msgid "Contract negotiations turned sour"
-msgstr "合同谈判变糟了"
+msgid "We need to be paid more for this."
+msgstr "我们需要更多的报酬。"
 
 
 # scripts/contracts/templates/negotiation_templates.nut
@@ -76,18 +70,23 @@ msgstr " 克朗，为你带回的每个人头， up to "
 
 
 # scripts/contracts/templates/negotiation_templates.nut
-msgid " crowns per head you arrive with, up to "
-msgstr " 克朗，为你送达的每个人头， up to "
-
-
-# scripts/contracts/templates/negotiation_templates.nut
 msgid "I'll need some time to think about this."
 msgstr "我需要一些时间来考虑考虑。"
 
 
 # scripts/contracts/templates/negotiation_templates.nut
+msgid " crowns per head you arrive with, up to "
+msgstr " 克朗，为你送达的每个人头， up to "
+
+
+# scripts/contracts/templates/negotiation_templates.nut
 msgid "On second thought, I decline this contract."
 msgstr "再想一想，我拒绝这份合同。"
+
+
+# scripts/contracts/templates/negotiation_templates.nut
+msgid "We need more payment once the work is done."
+msgstr "工作完成后我们需要更多的报酬。"
 
 
 # scripts/contracts/templates/negotiation_templates.nut
@@ -98,11 +97,6 @@ msgstr "我们需要你为每个人头付钱。"
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "We need to be paid per head we arrive with."
 msgstr "我们需要你为送达的人头付钱。"
-
-
-# scripts/contracts/templates/negotiation_templates.nut
-msgid "We need more payment once the work is done."
-msgstr "工作完成后我们需要更多的报酬。"
 
 
 # scripts/contracts/templates/negotiation_templates.nut

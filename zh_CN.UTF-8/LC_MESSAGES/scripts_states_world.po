@@ -9,11 +9,6 @@ msgstr ""
 
 
 # scripts/states/world/asset_manager.nut
-msgid "\n\n"
-msgstr ""
-
-
-# scripts/states/world/asset_manager.nut
 msgid "the "
 msgstr ""
 

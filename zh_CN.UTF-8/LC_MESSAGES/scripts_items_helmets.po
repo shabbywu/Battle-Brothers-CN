@@ -1,9 +1,4 @@
 # scripts/items/helmets/helmet.nut
-msgid "#ffffff"
-msgstr ""
-
-
-# scripts/items/helmets/helmet.nut
 msgid "'s "
 msgstr ""
 

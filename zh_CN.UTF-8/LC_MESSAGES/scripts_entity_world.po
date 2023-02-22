@@ -130,14 +130,14 @@ msgstr ""
 
 
 # scripts/entity/world/party.nut
-msgid "orders"
+# scripts/entity/world/entity_manager.nut
+# scripts/entity/world/player_party.nut
+msgid "banner"
 msgstr ""
 
 
 # scripts/entity/world/party.nut
-# scripts/entity/world/entity_manager.nut
-# scripts/entity/world/player_party.nut
-msgid "banner"
+msgid "orders"
 msgstr ""
 
 

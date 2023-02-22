@@ -29,22 +29,6 @@ msgid "ffffff00"
 msgstr ""
 
 
-# scripts/entity/tactical/enemies/phylactery.nut
-msgid "ffffff1f"
-msgstr ""
-
-
-# scripts/entity/tactical/enemies/sand_golem.nut
-msgid "Party"
-msgstr ""
-
-
-# scripts/entity/tactical/enemies/zombie_knight.nut
-# scripts/entity/tactical/enemies/necromancer.nut
-msgid "#ffffff"
-msgstr ""
-
-
 # scripts/entity/tactical/enemies/ghost.nut
 # scripts/entity/tactical/enemies/skeleton_lich_mirror_image.nut
 # scripts/entity/tactical/enemies/zombie_boss.nut
@@ -153,11 +137,6 @@ msgid "A Schrat"
 msgstr ""
 
 
-# scripts/entity/tactical/enemies/zombie.nut
-msgid "#c1ddaa"
-msgstr ""
-
-
 # scripts/entity/tactical/enemies/orc_warrior.nut
 msgid "An Orc Warrior"
 msgstr ""
@@ -165,6 +144,11 @@ msgstr ""
 
 # scripts/entity/tactical/enemies/orc_young.nut
 msgid "A Young Orc"
+msgstr ""
+
+
+# scripts/entity/tactical/enemies/phylactery.nut
+msgid "ffffff1f"
 msgstr ""
 
 

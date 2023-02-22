@@ -549,13 +549,13 @@ msgstr "[img]gfx/ui/events/event_82.png[/img]血流成河，一百座被烧毁�
 
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
-msgid "\n- Mead"
-msgstr "\n- 蜂蜜酒"
+msgid "\n- Rice"
+msgstr "- 大米"
 
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
-msgid "\n- Rice"
-msgstr "- 大米"
+msgid "\n- Wine"
+msgstr "\n- 葡萄酒"
 
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
@@ -564,8 +564,8 @@ msgstr "\n- 啤酒"
 
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
-msgid "\n- Wine"
-msgstr "\n- 葡萄酒"
+msgid "\n- Mead"
+msgstr "\n- 蜂蜜酒"
 
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
@@ -584,6 +584,11 @@ msgstr "\n- 蘑菇"
 
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
+msgid "\n- Smoked Ham"
+msgstr "\n- 熏火腿"
+
+
+# scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid "\n- Dried Lamb"
 msgstr "\n- 羊肉干"
 
@@ -591,11 +596,6 @@ msgstr "\n- 羊肉干"
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid "\n- Dried Fish"
 msgstr "\n- 鱼干"
-
-
-# scripts/ambitions/ambitions/have_all_provisions_ambition.nut
-msgid "\n- Smoked Ham"
-msgstr "\n- 熏火腿"
 
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
@@ -609,6 +609,11 @@ msgstr "\n- 水果干"
 
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
+msgid "\n- Cured Venison"
+msgstr "\n- 腌鹿肉"
+
+
+# scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid "\n- Cured Rations"
 msgstr "\n- 腌制口粮"
 
@@ -616,11 +621,6 @@ msgstr "\n- 腌制口粮"
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid "\n- Ground Grains"
 msgstr "\n- 谷物"
-
-
-# scripts/ambitions/ambitions/have_all_provisions_ambition.nut
-msgid "\n- Cured Venison"
-msgstr "\n- 腌鹿肉"
 
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut

@@ -82,13 +82,13 @@ msgstr "板甲衣"
 
 
 # scripts/items/armor/named/black_leather_armor.nut
-msgid "Skin"
-msgstr "皮肤"
+msgid "Peel"
+msgstr "外皮"
 
 
 # scripts/items/armor/named/black_leather_armor.nut
-msgid "Peel"
-msgstr "外皮"
+msgid "Skin"
+msgstr "皮肤"
 
 
 # scripts/items/armor/named/black_leather_armor.nut
@@ -133,12 +133,12 @@ msgstr ""
 
 
 # scripts/items/armor/named/named_skull_and_chain_armor.nut
-msgid "Barbarian Coat"
+msgid "Barbarian Pelt"
 msgstr ""
 
 
 # scripts/items/armor/named/named_skull_and_chain_armor.nut
-msgid "Barbarian Pelt"
+msgid "Barbarian Coat"
 msgstr ""
 
 
@@ -158,13 +158,13 @@ msgstr "一种粗制的野蛮人盔甲，经过调整后可以保护，但又不
 
 
 # scripts/items/armor/named/blue_studded_mail_armor.nut
-msgid "Ogreskin"
-msgstr "食人魔皮"
+msgid "Toadskin"
+msgstr "蟾蜍皮"
 
 
 # scripts/items/armor/named/blue_studded_mail_armor.nut
-msgid "Toadskin"
-msgstr "蟾蜍皮"
+msgid "Ogreskin"
+msgstr "食人魔皮"
 
 
 # scripts/items/armor/named/blue_studded_mail_armor.nut
@@ -191,15 +191,15 @@ msgstr "这件特殊的锁子甲由厚实的软甲铆接皮夹克制成，质量
 
 # scripts/items/armor/named/named_golden_lamellar_armor.nut
 # scripts/items/armor/named/brown_coat_of_plates_armor.nut
-# scripts/items/armor/named/green_coat_of_plates_armor.nut
-msgid "Harness"
-msgstr "甲胄"
+msgid "Defense"
+msgstr "防卫"
 
 
 # scripts/items/armor/named/named_golden_lamellar_armor.nut
 # scripts/items/armor/named/brown_coat_of_plates_armor.nut
-msgid "Defense"
-msgstr "防卫"
+# scripts/items/armor/named/green_coat_of_plates_armor.nut
+msgid "Harness"
+msgstr "甲胄"
 
 
 # scripts/items/armor/named/named_golden_lamellar_armor.nut
@@ -294,13 +294,13 @@ msgstr "沼泽"
 
 
 # scripts/items/armor/named/lindwurm_armor.nut
-msgid "Lizard's Coat"
-msgstr "蜥蜴大衣"
+msgid "Dragon's Hide"
+msgstr "龙皮"
 
 
 # scripts/items/armor/named/lindwurm_armor.nut
-msgid "Dragon's Hide"
-msgstr "龙皮"
+msgid "Lizard's Coat"
+msgstr "蜥蜴大衣"
 
 
 # scripts/items/armor/named/lindwurm_armor.nut

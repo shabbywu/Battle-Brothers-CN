@@ -115,12 +115,12 @@ msgstr ""
 
 
 # scripts/items/shields/shield.nut
-msgid "[/color] more fatigue"
+msgid "[/color] less fatigue"
 msgstr ""
 
 
 # scripts/items/shields/shield.nut
-msgid "[/color] less fatigue"
+msgid "[/color] more fatigue"
 msgstr ""
 
 

@@ -23,11 +23,6 @@ msgid "As you approach..."
 msgstr "当你接近时…"
 
 
-# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid " suffers "
-msgstr ""
-
-
 # scripts/events/events/dlc2/location/unhold_graveyard_event.nut
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 # scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
@@ -36,6 +31,11 @@ msgstr ""
 # scripts/events/events/dlc2/location/witchhut_destroyed_event.nut
 msgid "You gain "
 msgstr "你获得了 "
+
+
+# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
+msgid " suffers "
+msgstr ""
 
 
 # scripts/events/events/dlc2/location/goblin_city_reminder_event.nut
@@ -132,13 +132,13 @@ msgstr "好吧，很好。 你可以加入我们。"
 
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "Seems dangerous. Let's get out now."
-msgstr "看起来很危险。 让我们现在出去吧。"
+msgid "Ah well. Two of the vials are ours."
+msgstr "啊，好吧。 这两个瓶子是我们的了。"
 
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "Ah well. Two of the vials are ours."
-msgstr "啊，好吧。 这两个瓶子是我们的了。"
+msgid "Seems dangerous. Let's get out now."
+msgstr "看起来很危险。 让我们现在出去吧。"
 
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
@@ -172,11 +172,6 @@ msgstr "在一座古墓的旅行中受伤"
 
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "Well, we got vials for just that problem now."
-msgstr "好吧, 我们现在就有解决那个问题的瓶子。"
-
-
-# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 msgid "Still a successful go, all things considered."
 msgstr "仍然是一次成功的旅行, 所有的情况都考虑到了。"
 
@@ -184,6 +179,11 @@ msgstr "仍然是一次成功的旅行, 所有的情况都考虑到了。"
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 msgid "Probably the best way to answer a riddle yet."
 msgstr "也许是回答一个谜语的最好方法。"
+
+
+# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
+msgid "Well, we got vials for just that problem now."
+msgstr "好吧, 我们现在就有解决那个问题的瓶子。"
 
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
@@ -337,13 +337,13 @@ msgstr "你是个十足的疯子。"
 
 
 # scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
-msgid "So the deal is done then?"
-msgstr "那么交易完成了？"
+msgid "I'll bring you the hides."
+msgstr "我会把兽皮带给你的。"
 
 
 # scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
-msgid "I'll bring you the hides."
-msgstr "我会把兽皮带给你的。"
+msgid "So the deal is done then?"
+msgstr "那么交易完成了？"
 
 
 # scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
@@ -843,13 +843,13 @@ msgstr "我们会担任前锋。"
 
 
 # scripts/events/events/dlc2/location/goblin_city_enter_event.nut
-msgid "We'll return after five outposts have been razed."
-msgstr "我们会在五个前哨点被清除之后返回。"
+msgid "We'll slaughter their scouts and raiding parties."
+msgstr "我们要杀掉他们的侦察兵和掠夺队伍。"
 
 
 # scripts/events/events/dlc2/location/goblin_city_enter_event.nut
-msgid "We'll slaughter their scouts and raiding parties."
-msgstr "我们要杀掉他们的侦察兵和掠夺队伍。"
+msgid "We'll return after five outposts have been razed."
+msgstr "我们会在五个前哨点被清除之后返回。"
 
 
 # scripts/events/events/dlc2/location/goblin_city_enter_event.nut

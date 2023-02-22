@@ -19,15 +19,15 @@ msgid "Hexen"
 msgstr "女巫"
 
 
+# scripts/contracts/contracts/roaming_beasts_desert_contract.nut
+msgid "Hyenas"
+msgstr "鬣狗"
+
+
 # scripts/contracts/contracts/patrol_contract.nut
 # scripts/contracts/contracts/escort_caravan_contract.nut
 msgid "Nomads"
 msgstr "游牧民族"
-
-
-# scripts/contracts/contracts/roaming_beasts_desert_contract.nut
-msgid "Hyenas"
-msgstr "鬣狗"
 
 
 # scripts/contracts/contracts/hunting_sand_golems_contract.nut
@@ -67,16 +67,16 @@ msgid "Lindwurms"
 msgstr "林虫"
 
 
-# scripts/contracts/contracts/hunting_webknechts_contract.nut
-# scripts/contracts/contracts/roaming_beasts_contract.nut
-msgid "Webknechts"
-msgstr "韦克内希特"
-
-
 # scripts/contracts/contracts/patrol_contract.nut
 # scripts/contracts/contracts/escort_caravan_contract.nut
 msgid "Barbarians"
 msgstr "野蛮人"
+
+
+# scripts/contracts/contracts/hunting_webknechts_contract.nut
+# scripts/contracts/contracts/roaming_beasts_contract.nut
+msgid "Webknechts"
+msgstr "韦克内希特"
 
 
 # scripts/contracts/contracts/last_stand_contract.nut
@@ -102,12 +102,12 @@ msgstr "狮子"
 
 
 # scripts/contracts/contracts/find_artifact_contract.nut
-msgid "The Raven"
+msgid "the Raven"
 msgstr "乌鸦"
 
 
 # scripts/contracts/contracts/find_artifact_contract.nut
-msgid "the Raven"
+msgid "The Raven"
 msgstr "乌鸦"
 
 
@@ -367,6 +367,11 @@ msgstr "你回来后…"
 
 
 # scripts/contracts/contracts/slave_uprising_contract.nut
+msgid "Crowns are crowns."
+msgstr "克朗就是克朗。"
+
+
+# scripts/contracts/contracts/slave_uprising_contract.nut
 # scripts/contracts/contracts/free_greenskin_prisoners_contract.nut
 # scripts/contracts/contracts/raze_attached_location_contract.nut
 # scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
@@ -394,11 +399,6 @@ msgstr "你回来后…"
 # scripts/contracts/contracts/restore_location_contract.nut
 msgid "As you approach..."
 msgstr "当你接近时…"
-
-
-# scripts/contracts/contracts/slave_uprising_contract.nut
-msgid "Crowns are crowns."
-msgstr "克朗就是克朗。"
 
 
 # scripts/contracts/contracts/slave_uprising_contract.nut
@@ -611,13 +611,6 @@ msgstr "拿起武器！"
 
 
 # scripts/contracts/contracts/free_greenskin_prisoners_contract.nut
-# scripts/contracts/contracts/find_artifact_contract.nut
-# scripts/contracts/contracts/hunting_unholds_contract.nut
-msgid " suffers "
-msgstr ""
-
-
-# scripts/contracts/contracts/free_greenskin_prisoners_contract.nut
 # scripts/contracts/contracts/privateering_contract.nut
 # scripts/contracts/contracts/escort_caravan_contract.nut
 # scripts/contracts/contracts/obtain_item_contract.nut
@@ -637,6 +630,13 @@ msgstr "你获得了 "
 
 
 # scripts/contracts/contracts/free_greenskin_prisoners_contract.nut
+# scripts/contracts/contracts/find_artifact_contract.nut
+# scripts/contracts/contracts/hunting_unholds_contract.nut
+msgid " suffers "
+msgstr ""
+
+
+# scripts/contracts/contracts/free_greenskin_prisoners_contract.nut
 # scripts/contracts/contracts/destroy_orc_camp_contract.nut
 msgid "the Survivor"
 msgstr ""
@@ -648,20 +648,15 @@ msgstr ""
 
 
 # scripts/contracts/contracts/free_greenskin_prisoners_contract.nut
-# scripts/contracts/contracts/break_greenskin_siege_contract.nut
-# scripts/contracts/contracts/confront_warlord_contract.nut
-msgid "Greenskin Horde"
-msgstr "大群绿皮"
-
-
-# scripts/contracts/contracts/free_greenskin_prisoners_contract.nut
 msgid "Not a bad find."
 msgstr ""
 
 
 # scripts/contracts/contracts/free_greenskin_prisoners_contract.nut
-msgid "Be more careful."
-msgstr ""
+# scripts/contracts/contracts/break_greenskin_siege_contract.nut
+# scripts/contracts/contracts/confront_warlord_contract.nut
+msgid "Greenskin Horde"
+msgstr "大群绿皮"
 
 
 # scripts/contracts/contracts/free_greenskin_prisoners_contract.nut
@@ -694,6 +689,11 @@ msgstr ""
 # scripts/contracts/contracts/hunting_sand_golems_contract.nut
 msgid "Along the way..."
 msgstr "在途中…"
+
+
+# scripts/contracts/contracts/free_greenskin_prisoners_contract.nut
+msgid "Be more careful."
+msgstr ""
 
 
 # scripts/contracts/contracts/free_greenskin_prisoners_contract.nut
@@ -873,11 +873,6 @@ msgstr ""
 
 
 # scripts/contracts/contracts/raze_attached_location_contract.nut
-msgid "Damn them!"
-msgstr "去他们的！"
-
-
-# scripts/contracts/contracts/raze_attached_location_contract.nut
 # scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
 # scripts/contracts/contracts/siege_fortification_contract.nut
 # scripts/contracts/contracts/destroy_goblin_camp_contract.nut
@@ -916,6 +911,11 @@ msgstr "去他们的！"
 # scripts/contracts/contracts/hunting_sand_golems_contract.nut
 msgid "Return to "
 msgstr "返回 "
+
+
+# scripts/contracts/contracts/raze_attached_location_contract.nut
+msgid "Damn them!"
+msgstr "去他们的！"
 
 
 # scripts/contracts/contracts/raze_attached_location_contract.nut
@@ -1093,12 +1093,6 @@ msgstr ""
 
 
 # scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
-# scripts/contracts/contracts/conquer_holy_site_contract.nut
-msgid "Conquer Holy Site"
-msgstr ""
-
-
-# scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
 # scripts/contracts/contracts/find_artifact_contract.nut
 # scripts/contracts/contracts/conquer_holy_site_contract.nut
 # scripts/contracts/contracts/decisive_battle_contract.nut
@@ -1108,7 +1102,25 @@ msgstr "你花费了 [color="
 
 # scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
 # scripts/contracts/contracts/conquer_holy_site_contract.nut
+msgid "Conquer Holy Site"
+msgstr ""
+
+
+# scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
+# scripts/contracts/contracts/conquer_holy_site_contract.nut
 msgid "Begin the assault!"
+msgstr ""
+
+
+# scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
+# scripts/contracts/contracts/conquer_holy_site_contract.nut
+msgid "A field battle, then."
+msgstr ""
+
+
+# scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
+# scripts/contracts/contracts/conquer_holy_site_contract.nut
+msgid "Conquered a holy site"
 msgstr ""
 
 
@@ -1123,18 +1135,6 @@ msgstr ""
 # scripts/contracts/contracts/defend_holy_site_southern_contract.nut
 msgid "Took sides in the war"
 msgstr "在战争中偏袒一方"
-
-
-# scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
-# scripts/contracts/contracts/conquer_holy_site_contract.nut
-msgid "A field battle, then."
-msgstr ""
-
-
-# scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
-# scripts/contracts/contracts/conquer_holy_site_contract.nut
-msgid "Conquered a holy site"
-msgstr ""
 
 
 # scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
@@ -1173,6 +1173,14 @@ msgstr ""
 
 
 # scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
+# scripts/contracts/contracts/conquer_holy_site_contract.nut
+# scripts/contracts/contracts/defend_holy_site_contract.nut
+# scripts/contracts/contracts/defend_holy_site_southern_contract.nut
+msgid "Destroy or rout enemy regiments in the vicinity"
+msgstr "摧毁或击溃附近的敌方部队"
+
+
+# scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
 # scripts/contracts/contracts/intercept_raiding_parties_contract.nut
 # scripts/contracts/contracts/hold_chokepoint_contract.nut
 # scripts/contracts/contracts/conquer_holy_site_contract.nut
@@ -1180,14 +1188,6 @@ msgstr ""
 # scripts/contracts/contracts/defend_holy_site_southern_contract.nut
 msgid "Conscripted soldiers loyal to their city state."
 msgstr "忠于城邦的应征士兵。"
-
-
-# scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
-# scripts/contracts/contracts/conquer_holy_site_contract.nut
-# scripts/contracts/contracts/defend_holy_site_contract.nut
-# scripts/contracts/contracts/defend_holy_site_southern_contract.nut
-msgid "Destroy or rout enemy regiments in the vicinity"
-msgstr "摧毁或击溃附近的敌方部队"
 
 
 # scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
@@ -1362,11 +1362,6 @@ msgstr "帮助围城"
 
 
 # scripts/contracts/contracts/siege_fortification_contract.nut
-msgid "Prepare for battle!"
-msgstr "准备战斗！"
-
-
-# scripts/contracts/contracts/siege_fortification_contract.nut
 msgid "Siege Fortification"
 msgstr "围攻防御工事"
 
@@ -1374,6 +1369,11 @@ msgstr "围攻防御工事"
 # scripts/contracts/contracts/siege_fortification_contract.nut
 msgid "]250[/color] Crowns"
 msgstr "]250[/color] 克朗"
+
+
+# scripts/contracts/contracts/siege_fortification_contract.nut
+msgid "Prepare for battle!"
+msgstr "准备战斗！"
 
 
 # scripts/contracts/contracts/siege_fortification_contract.nut
@@ -1387,15 +1387,15 @@ msgstr "%objective% 已经陷落！"
 
 
 # scripts/contracts/contracts/siege_fortification_contract.nut
+msgid "Failed in the siege of "
+msgstr "失败于围攻 "
+
+
+# scripts/contracts/contracts/siege_fortification_contract.nut
 # scripts/contracts/contracts/break_greenskin_siege_contract.nut
 # scripts/contracts/contracts/last_stand_contract.nut
 msgid "%objective% has fallen."
 msgstr "%objective% 陷落了。"
-
-
-# scripts/contracts/contracts/siege_fortification_contract.nut
-msgid "Failed in the siege of "
-msgstr "失败于围攻 "
 
 
 # scripts/contracts/contracts/siege_fortification_contract.nut
@@ -1439,6 +1439,11 @@ msgstr "我们会做好准备然后偷偷潜入。"
 
 
 # scripts/contracts/contracts/siege_fortification_contract.nut
+msgid "Wandered off during the siege of "
+msgstr "在闲逛，那时候在围攻 "
+
+
+# scripts/contracts/contracts/siege_fortification_contract.nut
 msgid "Maintain the siege of %objective%"
 msgstr "保持围城 %objective%"
 
@@ -1446,11 +1451,6 @@ msgstr "保持围城 %objective%"
 # scripts/contracts/contracts/siege_fortification_contract.nut
 msgid "Assassinate the enemy's commander"
 msgstr "刺杀敌人的指挥官"
-
-
-# scripts/contracts/contracts/siege_fortification_contract.nut
-msgid "Wandered off during the siege of "
-msgstr "在闲逛，那时候在围攻 "
 
 
 # scripts/contracts/contracts/siege_fortification_contract.nut
@@ -1695,19 +1695,19 @@ msgstr "接近营地时…"
 
 
 # scripts/contracts/contracts/destroy_goblin_camp_contract.nut
+# scripts/contracts/contracts/investigate_cemetery_contract.nut
+# scripts/contracts/contracts/destroy_orc_camp_contract.nut
+msgid "Time to collect our pay."
+msgstr "是时候领工钱了。"
+
+
+# scripts/contracts/contracts/destroy_goblin_camp_contract.nut
 # scripts/contracts/contracts/drive_away_bandits_contract.nut
 # scripts/contracts/contracts/drive_away_barbarians_contract.nut
 # scripts/contracts/contracts/drive_away_nomads_contract.nut
 # scripts/contracts/contracts/destroy_orc_camp_contract.nut
 msgid " %direction% of %origin%"
 msgstr ""
-
-
-# scripts/contracts/contracts/destroy_goblin_camp_contract.nut
-# scripts/contracts/contracts/investigate_cemetery_contract.nut
-# scripts/contracts/contracts/destroy_orc_camp_contract.nut
-msgid "Time to collect our pay."
-msgstr "是时候领工钱了。"
 
 
 # scripts/contracts/contracts/destroy_goblin_camp_contract.nut
@@ -1760,15 +1760,15 @@ msgstr "[img]gfx/ui/events/event_61.png[/img]{%employer%'s reading a scroll when
 
 
 # scripts/contracts/contracts/privateering_contract.nut
+msgid "1 day"
+msgstr ""
+
+
+# scripts/contracts/contracts/privateering_contract.nut
 # scripts/contracts/contracts/escort_caravan_contract.nut
 # scripts/contracts/contracts/deliver_item_contract.nut
 msgid " days"
 msgstr " 天"
-
-
-# scripts/contracts/contracts/privateering_contract.nut
-msgid "1 day"
-msgstr ""
 
 
 # scripts/contracts/contracts/privateering_contract.nut
@@ -1782,6 +1782,11 @@ msgstr "私掠"
 
 
 # scripts/contracts/contracts/privateering_contract.nut
+msgid "To hell with you!"
+msgstr "去你妈的！"
+
+
+# scripts/contracts/contracts/privateering_contract.nut
 # scripts/contracts/contracts/find_artifact_contract.nut
 # scripts/contracts/contracts/confront_warlord_contract.nut
 msgid "Be on your guard!"
@@ -1789,18 +1794,13 @@ msgstr "小心点！"
 
 
 # scripts/contracts/contracts/privateering_contract.nut
-msgid "To hell with you!"
-msgstr "去你妈的！"
+msgid "Return after 5 days"
+msgstr "5天后返回"
 
 
 # scripts/contracts/contracts/privateering_contract.nut
 msgid "Return after %days%"
 msgstr ""
-
-
-# scripts/contracts/contracts/privateering_contract.nut
-msgid "Return after 5 days"
-msgstr "5天后返回"
 
 
 # scripts/contracts/contracts/privateering_contract.nut
@@ -1966,6 +1966,11 @@ msgstr ""
 
 
 # scripts/contracts/contracts/patrol_contract.nut
+msgid "At %location2%..."
+msgstr "在 %location2%…"
+
+
+# scripts/contracts/contracts/patrol_contract.nut
 # scripts/contracts/contracts/escort_caravan_contract.nut
 # scripts/contracts/contracts/deliver_item_contract.nut
 msgid "Along the road..."
@@ -1978,8 +1983,16 @@ msgstr "在 %location1%…"
 
 
 # scripts/contracts/contracts/patrol_contract.nut
-msgid "At %location2%..."
-msgstr "在 %location2%…"
+# scripts/contracts/contracts/return_item_contract.nut
+# scripts/contracts/contracts/raid_caravan_contract.nut
+msgid "Damn this contract!"
+msgstr "该死的合同！"
+
+
+# scripts/contracts/contracts/patrol_contract.nut
+# scripts/contracts/contracts/escort_caravan_contract.nut
+msgid "no enemy base found"
+msgstr "没有找到敌人的基地"
 
 
 # scripts/contracts/contracts/patrol_contract.nut
@@ -1988,26 +2001,13 @@ msgstr "我们去放他下来。"
 
 
 # scripts/contracts/contracts/patrol_contract.nut
-# scripts/contracts/contracts/return_item_contract.nut
-# scripts/contracts/contracts/raid_caravan_contract.nut
-msgid "Damn this contract!"
-msgstr "该死的合同！"
-
-
-# scripts/contracts/contracts/patrol_contract.nut
-msgid "Patrolled the realm"
-msgstr "在领地内巡逻"
-
-
-# scripts/contracts/contracts/patrol_contract.nut
 msgid "Patrol the road to "
 msgstr "巡逻到 "
 
 
 # scripts/contracts/contracts/patrol_contract.nut
-# scripts/contracts/contracts/escort_caravan_contract.nut
-msgid "no enemy base found"
-msgstr "没有找到敌人的基地"
+msgid "Patrolled the realm"
+msgstr "在领地内巡逻"
 
 
 # scripts/contracts/contracts/patrol_contract.nut
@@ -2042,13 +2042,13 @@ msgstr "战队不适合你。"
 
 
 # scripts/contracts/contracts/patrol_contract.nut
-msgid "This is clearly a trap. Let's wait."
-msgstr "这显然是个陷阱。让我们等等。"
+msgid "Wandered off while tasked to patrol"
+msgstr "在执行巡逻任务时闲逛"
 
 
 # scripts/contracts/contracts/patrol_contract.nut
-msgid "Wandered off while tasked to patrol"
-msgstr "在执行巡逻任务时闲逛"
+msgid "This is clearly a trap. Let's wait."
+msgstr "这显然是个陷阱。让我们等等。"
 
 
 # scripts/contracts/contracts/patrol_contract.nut
@@ -2078,15 +2078,15 @@ msgstr "一支粗暴而强悍的强盗队伍在捕食弱者。"
 
 
 # scripts/contracts/contracts/patrol_contract.nut
-msgid "Few men could survive such horrors. Welcome to the company."
-msgstr "很少有人能在这样的恐怖中幸存下来。 欢迎加入战队。"
-
-
-# scripts/contracts/contracts/patrol_contract.nut
 # scripts/contracts/contracts/escort_caravan_contract.nut
 # scripts/contracts/contracts/marauding_greenskins_contract.nut
 msgid "A band of menacing orcs, greenskinned and towering any man."
 msgstr "一群凶残的兽人，绿皮肤，高耸于任何人之上。"
+
+
+# scripts/contracts/contracts/patrol_contract.nut
+msgid "Few men could survive such horrors. Welcome to the company."
+msgstr "很少有人能在这样的恐怖中幸存下来。 欢迎加入战队。"
 
 
 # scripts/contracts/contracts/patrol_contract.nut
@@ -2183,17 +2183,12 @@ msgstr "[img]gfx/ui/events/event_45.png[/img]{%employer% 将他一只强有力�
 
 
 # scripts/contracts/contracts/find_artifact_contract.nut
-msgid "Cat"
-msgstr ""
-
-
-# scripts/contracts/contracts/find_artifact_contract.nut
 msgid "Fox"
 msgstr ""
 
 
 # scripts/contracts/contracts/find_artifact_contract.nut
-msgid "Lion"
+msgid "Cat"
 msgstr ""
 
 
@@ -2203,17 +2198,12 @@ msgstr ""
 
 
 # scripts/contracts/contracts/find_artifact_contract.nut
-msgid "Raven"
+msgid "Lion"
 msgstr ""
 
 
 # scripts/contracts/contracts/find_artifact_contract.nut
-msgid "General"
-msgstr "常规"
-
-
-# scripts/contracts/contracts/find_artifact_contract.nut
-msgid "the Fox"
+msgid "Raven"
 msgstr ""
 
 
@@ -2235,6 +2225,16 @@ msgstr ""
 # scripts/contracts/contracts/find_artifact_contract.nut
 msgid "The Cat"
 msgstr ""
+
+
+# scripts/contracts/contracts/find_artifact_contract.nut
+msgid "the Fox"
+msgstr ""
+
+
+# scripts/contracts/contracts/find_artifact_contract.nut
+msgid "General"
+msgstr "常规"
 
 
 # scripts/contracts/contracts/find_artifact_contract.nut
@@ -2287,12 +2287,12 @@ msgstr ""
 
 
 # scripts/contracts/contracts/find_artifact_contract.nut
-msgid "the Robber Baron"
+msgid "Be more careful!"
 msgstr ""
 
 
 # scripts/contracts/contracts/find_artifact_contract.nut
-msgid "Be more careful!"
+msgid "the Robber Baron"
 msgstr ""
 
 
@@ -2512,13 +2512,13 @@ msgstr ""
 
 
 # scripts/contracts/contracts/arena_contract.nut
-msgid "Enter the arena again to start the fight against one lindwurm"
-msgstr ""
+msgid "This arena fight works as follows. Do you agree to the terms?"
+msgstr "这场竞技场战斗的工作原理如下。 你同意这些条款吗？"
 
 
 # scripts/contracts/contracts/arena_contract.nut
-msgid "This arena fight works as follows. Do you agree to the terms?"
-msgstr "这场竞技场战斗的工作原理如下。 你同意这些条款吗？"
+msgid "Enter the arena again to start the fight against one lindwurm"
+msgstr ""
 
 
 # scripts/contracts/contracts/arena_contract.nut
@@ -2532,22 +2532,17 @@ msgstr ""
 
 
 # scripts/contracts/contracts/arena_contract.nut
-msgid "Enter the arena again to start the fight against %amount% hyenas"
-msgstr ""
-
-
-# scripts/contracts/contracts/arena_contract.nut
 msgid "Enter the arena again to start the fight against %amount% ifrits"
 msgstr ""
 
 
 # scripts/contracts/contracts/arena_contract.nut
-msgid "Enter the arena again to start the fight against one Swordmaster"
+msgid "Enter the arena again to start the fight against %amount% hyenas"
 msgstr ""
 
 
 # scripts/contracts/contracts/arena_contract.nut
-msgid "Enter the arena again to start the fight against one Blade Dancer"
+msgid "Enter the arena again to start the fight against one Swordmaster"
 msgstr ""
 
 
@@ -2558,6 +2553,11 @@ msgstr ""
 
 # scripts/contracts/contracts/arena_contract.nut
 msgid "Enter the arena again to start the fight against %amount% unholds"
+msgstr ""
+
+
+# scripts/contracts/contracts/arena_contract.nut
+msgid "Enter the arena again to start the fight against one Blade Dancer"
 msgstr ""
 
 
@@ -2587,13 +2587,13 @@ msgstr ""
 
 
 # scripts/contracts/contracts/arena_contract.nut
-msgid "Enter the arena again to start the fight against %amount% frenzied hyenas"
-msgstr ""
+msgid "{Victory! | Are you not entertained?! | Killed it. | A bloody spectacle.}"
+msgstr "{胜利！ | Are you not entertained?! | Killed it. | A bloody spectacle.}"
 
 
 # scripts/contracts/contracts/arena_contract.nut
-msgid "{Victory! | Are you not entertained?! | Killed it. | A bloody spectacle.}"
-msgstr "{胜利！ | Are you not entertained?! | Killed it. | A bloody spectacle.}"
+msgid "Enter the arena again to start the fight against %amount% frenzied hyenas"
+msgstr ""
 
 
 # scripts/contracts/contracts/arena_contract.nut
@@ -2612,12 +2612,12 @@ msgstr ""
 
 
 # scripts/contracts/contracts/arena_contract.nut
-msgid "Enter the arena again to start the fight against one Swordmaster and %amount% raiders"
+msgid "Enter the arena again to start the fight against one Blade Dancer and %amount% nomads"
 msgstr ""
 
 
 # scripts/contracts/contracts/arena_contract.nut
-msgid "Enter the arena again to start the fight against one Blade Dancer and %amount% nomads"
+msgid "Enter the arena again to start the fight against one Swordmaster and %amount% raiders"
 msgstr ""
 
 
@@ -2696,12 +2696,12 @@ msgstr ""
 
 
 # scripts/contracts/contracts/arena_contract.nut
-msgid "%SPEECH_ON%Crownlings like you have ventured down from the north. Up there, they call them 'sellswords.' Hagh! What sort of attempt at poetry is that? Don't they know not every man even uses a sword? They ain't the brightest up there. That's why I like it in the south. The sun is bright, and thus so are we.%SPEECH_OFF%"
+msgid "He points to some strange looking collars and continues.%SPEECH_ON%When you're ready, put these on the three men who'll be doing the fighting. This lets us know who to take into the pits. Anyone not wearing these will not be allowed in, not you, not the Vizier, dare I say even the Gilder may be turned down.%SPEECH_OFF%"
 msgstr ""
 
 
 # scripts/contracts/contracts/arena_contract.nut
-msgid "He points to some strange looking collars and continues.%SPEECH_ON%When you're ready, put these on the three men who'll be doing the fighting. This lets us know who to take into the pits. Anyone not wearing these will not be allowed in, not you, not the Vizier, dare I say even the Gilder may be turned down.%SPEECH_OFF%"
+msgid "%SPEECH_ON%Crownlings like you have ventured down from the north. Up there, they call them 'sellswords.' Hagh! What sort of attempt at poetry is that? Don't they know not every man even uses a sword? They ain't the brightest up there. That's why I like it in the south. The sun is bright, and thus so are we.%SPEECH_OFF%"
 msgstr ""
 
 
@@ -2767,18 +2767,18 @@ msgstr "[img]gfx/ui/events/event_155.png[/img]{As you wait your turn, the crowd'
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
+msgid " von "
+msgstr ""
+
+
+# scripts/contracts/contracts/escort_caravan_contract.nut
 # scripts/contracts/contracts/deliver_item_contract.nut
 msgid "a day"
 msgstr "一天"
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
-msgid " von "
-msgstr ""
-
-
-# scripts/contracts/contracts/escort_caravan_contract.nut
-msgid " improve"
+msgid "Vampires"
 msgstr ""
 
 
@@ -2789,7 +2789,7 @@ msgstr "该死！"
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
-msgid "Vampires"
+msgid " improve"
 msgstr ""
 
 
@@ -2804,14 +2804,14 @@ msgstr "我们继续前进！"
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
-# scripts/contracts/contracts/deliver_item_contract.nut
-msgid "During camp..."
-msgstr "露营时…"
+msgid "Escort Caravan"
+msgstr "护送商队"
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
-msgid "Escort Caravan"
-msgstr "护送商队"
+# scripts/contracts/contracts/deliver_item_contract.nut
+msgid "During camp..."
+msgstr "露营时…"
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
@@ -2852,13 +2852,13 @@ msgstr "事情不太顺利…"
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
-msgid "A trading caravan from "
-msgstr ""
+msgid "A good payday at least."
+msgstr "至少报酬不错。"
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
-msgid "A good payday at least."
-msgstr "至少报酬不错。"
+msgid "A trading caravan from "
+msgstr ""
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
@@ -2882,13 +2882,13 @@ msgstr "到达时获得报酬"
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
-msgid "Run for your lives! Run! Run!"
-msgstr "各自逃命！逃！逃！"
+msgid "You are rewarded with [color="
+msgstr ""
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
-msgid "You are rewarded with [color="
-msgstr ""
+msgid "Run for your lives! Run! Run!"
+msgstr "各自逃命！逃！逃！"
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
@@ -2917,13 +2917,13 @@ msgstr "这些应该值很多克朗。"
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
-msgid "Slaughtered a caravan tasked to protect"
-msgstr "屠杀了一个负责保护的商队"
+msgid "Freed an imprisoned member of the house"
+msgstr "释放了一个被囚禁的贵族家族成员"
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
-msgid "Freed an imprisoned member of the house"
-msgstr "释放了一个被囚禁的贵族家族成员"
+msgid "Slaughtered a caravan tasked to protect"
+msgstr "屠杀了一个负责保护的商队"
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
@@ -2952,13 +2952,13 @@ msgstr "别白费口舌了。 我可不在乎你是谁。"
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
-msgid "Finally, luck smiles upon us. We take the gems for ourselves!"
-msgstr "终于，幸运之神向我们微笑了。 宝石是我们的了！"
+msgid "Escort caravan to %objective% about %days% to the %direction%"
+msgstr "护送商队到 %objective% 大约 %days% 去 %direction%"
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
-msgid "Escort caravan to %objective% about %days% to the %direction%"
-msgstr "护送商队到 %objective% 大约 %days% 去 %direction%"
+msgid "Finally, luck smiles upon us. We take the gems for ourselves!"
+msgstr "终于，幸运之神向我们微笑了。 宝石是我们的了！"
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
@@ -2982,13 +2982,13 @@ msgstr "{不感兴趣。 | 这不是我们要找的工作。}"
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
-msgid "Get back to work before I beat you there. We have a contract to fulfill."
-msgstr "在我开始打你之前回到你的岗位上。 我们要遵守合同。"
+msgid "Get paid for every head of an attacker you slay (%killcount%/%maxcount%)"
+msgstr "你杀死的每一个攻击者的头颅都会得到报酬 (%killcount%/%maxcount%)"
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
-msgid "Get paid for every head of an attacker you slay (%killcount%/%maxcount%)"
-msgstr "你杀死的每一个攻击者的头颅都会得到报酬 (%killcount%/%maxcount%)"
+msgid "Get back to work before I beat you there. We have a contract to fulfill."
+msgstr "在我开始打你之前回到你的岗位上。 我们要遵守合同。"
 
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
@@ -3118,13 +3118,13 @@ msgstr "太阳的印记"
 
 
 # scripts/contracts/contracts/obtain_item_contract.nut
-msgid "Dice of Destiny"
-msgstr "命运之骰子"
+msgid "Obtain Artifact"
+msgstr "获得神器"
 
 
 # scripts/contracts/contracts/obtain_item_contract.nut
-msgid "Obtain Artifact"
-msgstr "获得神器"
+msgid "Dice of Destiny"
+msgstr "命运之骰子"
 
 
 # scripts/contracts/contracts/obtain_item_contract.nut
@@ -3138,6 +3138,11 @@ msgstr "没有获得 "
 
 
 # scripts/contracts/contracts/obtain_item_contract.nut
+msgid "Staff of Foresight"
+msgstr "有远见的人"
+
+
+# scripts/contracts/contracts/obtain_item_contract.nut
 msgid "Petrified Almanach"
 msgstr "石化年鉴"
 
@@ -3148,18 +3153,8 @@ msgstr "伊斯特万爵士外套"
 
 
 # scripts/contracts/contracts/obtain_item_contract.nut
-msgid "Staff of Foresight"
-msgstr "有远见的人"
-
-
-# scripts/contracts/contracts/obtain_item_contract.nut
 msgid "Prophet's Pamphlets"
 msgstr "先知的小册子"
-
-
-# scripts/contracts/contracts/obtain_item_contract.nut
-msgid "Fetish of Fertility"
-msgstr "丰产神物"
 
 
 # scripts/contracts/contracts/obtain_item_contract.nut
@@ -3168,8 +3163,8 @@ msgstr "祖先的卷轴"
 
 
 # scripts/contracts/contracts/obtain_item_contract.nut
-msgid "Forefathers' Standard"
-msgstr "祖先的规则"
+msgid "Fetish of Fertility"
+msgstr "丰产神物"
 
 
 # scripts/contracts/contracts/obtain_item_contract.nut
@@ -3178,13 +3173,13 @@ msgstr "创始人裹尸布"
 
 
 # scripts/contracts/contracts/obtain_item_contract.nut
-msgid "That was easy enough."
-msgstr "真简单。"
+msgid "Forefathers' Standard"
+msgstr "祖先的规则"
 
 
 # scripts/contracts/contracts/obtain_item_contract.nut
-msgid "Just take that %item%."
-msgstr "那就拿走 %item%。"
+msgid "That was easy enough."
+msgstr "真简单。"
 
 
 # scripts/contracts/contracts/obtain_item_contract.nut
@@ -3195,6 +3190,11 @@ msgstr "放荡者的长笛"
 # scripts/contracts/contracts/obtain_item_contract.nut
 msgid "Seal of the False King"
 msgstr "海豹王"
+
+
+# scripts/contracts/contracts/obtain_item_contract.nut
+msgid "Just take that %item%."
+msgstr "那就拿走 %item%。"
 
 
 # scripts/contracts/contracts/obtain_item_contract.nut
@@ -3223,13 +3223,13 @@ msgstr "镇民;现在看来精神很好。"
 
 
 # scripts/contracts/contracts/obtain_item_contract.nut
-msgid "We might as well take that %risk% while we're here."
-msgstr "趁我们还在这里还是拿走 %risk% 吧。"
+msgid "Obtain %item% at %location% %direction% of %origin%"
+msgstr "获得 %item% 在 %location% %direction% of %origin%"
 
 
 # scripts/contracts/contracts/obtain_item_contract.nut
-msgid "Obtain %item% at %location% %direction% of %origin%"
-msgstr "获得 %item% 在 %location% %direction% of %origin%"
+msgid "We might as well take that %risk% while we're here."
+msgstr "趁我们还在这里还是拿走 %risk% 吧。"
 
 
 # scripts/contracts/contracts/obtain_item_contract.nut
@@ -3298,21 +3298,16 @@ msgstr "狩猎巨人"
 
 
 # scripts/contracts/contracts/hunting_unholds_contract.nut
-# scripts/contracts/contracts/tutorial_contract.nut
-# scripts/contracts/contracts/drive_away_barbarians_contract.nut
-# scripts/contracts/contracts/restore_location_contract.nut
-msgid "Time to get paid."
-msgstr "是时候拿报酬了。"
-
-
-# scripts/contracts/contracts/hunting_unholds_contract.nut
 msgid "So much for that."
 msgstr "到此为止吧。"
 
 
 # scripts/contracts/contracts/hunting_unholds_contract.nut
-msgid "They can't be far."
-msgstr "它们不远了。"
+# scripts/contracts/contracts/tutorial_contract.nut
+# scripts/contracts/contracts/drive_away_barbarians_contract.nut
+# scripts/contracts/contracts/restore_location_contract.nut
+msgid "Time to get paid."
+msgstr "是时候拿报酬了。"
 
 
 # scripts/contracts/contracts/hunting_unholds_contract.nut
@@ -3331,6 +3326,11 @@ msgstr "一场成功的狩猎。"
 
 
 # scripts/contracts/contracts/hunting_unholds_contract.nut
+msgid "They can't be far."
+msgstr "它们不远了。"
+
+
+# scripts/contracts/contracts/hunting_unholds_contract.nut
 msgid "And don't come back!"
 msgstr "可别回来咯！"
 
@@ -3341,13 +3341,13 @@ msgstr "清除镇上的巨魔"
 
 
 # scripts/contracts/contracts/hunting_unholds_contract.nut
-msgid "Hunt down the Unholds around "
-msgstr "追捕巨魔，大约在 "
+msgid "One or more lumbering giants."
+msgstr "一个或多个笨拙的巨人。"
 
 
 # scripts/contracts/contracts/hunting_unholds_contract.nut
-msgid "One or more lumbering giants."
-msgstr "一个或多个笨拙的巨人。"
+msgid "Hunt down the Unholds around "
+msgstr "追捕巨魔，大约在 "
 
 
 # scripts/contracts/contracts/hunting_unholds_contract.nut
@@ -3721,13 +3721,13 @@ msgstr "终于，一点帮助！"
 
 
 # scripts/contracts/contracts/hold_chokepoint_contract.nut
-msgid "Before the battle..."
-msgstr "战斗之前…"
+msgid "Everyone, get ready!"
+msgstr "所有人，准备好！"
 
 
 # scripts/contracts/contracts/hold_chokepoint_contract.nut
-msgid "Everyone, get ready!"
-msgstr "所有人，准备好！"
+msgid "Before the battle..."
+msgstr "战斗之前…"
 
 
 # scripts/contracts/contracts/hold_chokepoint_contract.nut
@@ -3748,13 +3748,13 @@ msgstr "让你和你的蜡见鬼去吧！"
 
 
 # scripts/contracts/contracts/hold_chokepoint_contract.nut
-msgid "Held a fort against northerners"
-msgstr "守卫要塞抵抗北方人"
+msgid "There may be more coming still."
+msgstr "还可能有更多要来。"
 
 
 # scripts/contracts/contracts/hold_chokepoint_contract.nut
-msgid "There may be more coming still."
-msgstr "还可能有更多要来。"
+msgid "Held a fort against northerners"
+msgstr "守卫要塞抵抗北方人"
 
 
 # scripts/contracts/contracts/hold_chokepoint_contract.nut
@@ -3883,13 +3883,13 @@ msgstr "[img]gfx/ui/events/event_04.png[/img]{你向 %employer% 汇报了事情�
 
 
 # scripts/contracts/contracts/return_item_contract.nut
-msgid "Thieves"
-msgstr "盗贼"
+msgid "Lockbox"
+msgstr "密码箱"
 
 
 # scripts/contracts/contracts/return_item_contract.nut
-msgid "Lockbox"
-msgstr "密码箱"
+msgid "Thieves"
+msgstr "盗贼"
 
 
 # scripts/contracts/contracts/return_item_contract.nut
@@ -3913,23 +3913,23 @@ msgstr "黄金护身符"
 
 
 # scripts/contracts/contracts/return_item_contract.nut
-msgid "Returned stolen "
-msgstr "归还被盗的 "
-
-
-# scripts/contracts/contracts/return_item_contract.nut
 msgid "Ceremonial Staff"
 msgstr "仪式手杖"
 
 
 # scripts/contracts/contracts/return_item_contract.nut
-msgid "Demonic Statuette"
-msgstr "恶魔雕像"
+msgid "Returned stolen "
+msgstr "归还被盗的 "
 
 
 # scripts/contracts/contracts/return_item_contract.nut
 msgid "Idol of Fertility"
 msgstr "丰产神像"
+
+
+# scripts/contracts/contracts/return_item_contract.nut
+msgid "Demonic Statuette"
+msgstr "恶魔雕像"
 
 
 # scripts/contracts/contracts/return_item_contract.nut
@@ -3943,13 +3943,13 @@ msgstr "我们去收钱吧。"
 
 
 # scripts/contracts/contracts/return_item_contract.nut
-msgid "Failed to return stolen "
-msgstr "没能归还被盗的 "
+msgid "Tome of Arcane Knowledge"
+msgstr "奥秘知识之书"
 
 
 # scripts/contracts/contracts/return_item_contract.nut
-msgid "Tome of Arcane Knowledge"
-msgstr "奥秘知识之书"
+msgid "Failed to return stolen "
+msgstr "没能归还被盗的 "
 
 
 # scripts/contracts/contracts/return_item_contract.nut
@@ -4036,18 +4036,18 @@ msgstr "[img]gfx/ui/events/event_20.png[/img]{%employer% 不安地走来走去�
 
 
 # scripts/contracts/contracts/tutorial_contract.nut
-msgid "Someone"
-msgstr "某人"
-
-
-# scripts/contracts/contracts/tutorial_contract.nut
 msgid "One-Eye"
 msgstr "一只眼"
 
 
 # scripts/contracts/contracts/tutorial_contract.nut
-msgid "Tutorial1"
-msgstr ""
+msgid "Someone"
+msgstr "某人"
+
+
+# scripts/contracts/contracts/tutorial_contract.nut
+msgid "So be it."
+msgstr "就这样吧。"
 
 
 # scripts/contracts/contracts/tutorial_contract.nut
@@ -4056,8 +4056,8 @@ msgstr ""
 
 
 # scripts/contracts/contracts/tutorial_contract.nut
-msgid "So be it."
-msgstr "就这样吧。"
+msgid "Tutorial1"
+msgstr ""
 
 
 # scripts/contracts/contracts/tutorial_contract.nut
@@ -4071,13 +4071,13 @@ msgstr "坚持到底！"
 
 
 # scripts/contracts/contracts/tutorial_contract.nut
-msgid " to get paid"
-msgstr ""
+msgid "As brothers!"
+msgstr "像兄弟一样！"
 
 
 # scripts/contracts/contracts/tutorial_contract.nut
-msgid "As brothers!"
-msgstr "像兄弟一样！"
+msgid " to get paid"
+msgstr ""
 
 
 # scripts/contracts/contracts/tutorial_contract.nut
@@ -4091,6 +4091,11 @@ msgstr "最后一战"
 
 
 # scripts/contracts/contracts/tutorial_contract.nut
+msgid "After the Battle"
+msgstr "战斗之后"
+
+
+# scripts/contracts/contracts/tutorial_contract.nut
 msgid "Captain Bernhard"
 msgstr ""
 
@@ -4098,11 +4103,6 @@ msgstr ""
 # scripts/contracts/contracts/tutorial_contract.nut
 msgid "Hoggart's Refuge"
 msgstr ""
-
-
-# scripts/contracts/contracts/tutorial_contract.nut
-msgid "After the Battle"
-msgstr "战斗之后"
 
 
 # scripts/contracts/contracts/tutorial_contract.nut
@@ -4126,13 +4126,13 @@ msgstr "为战队报仇"
 
 
 # scripts/contracts/contracts/tutorial_contract.nut
-msgid "Unfinished Business"
-msgstr "未完成的工作"
+msgid "]400[/color] Crowns"
+msgstr "]400[/color] 克朗"
 
 
 # scripts/contracts/contracts/tutorial_contract.nut
-msgid "]400[/color] Crowns"
-msgstr "]400[/color] 克朗"
+msgid "Unfinished Business"
+msgstr "未完成的工作"
 
 
 # scripts/contracts/contracts/tutorial_contract.nut
@@ -4333,12 +4333,12 @@ msgstr ""
 
 
 # scripts/contracts/contracts/drive_away_bandits_contract.nut
-msgid "Take the damned head then and leave."
+msgid "Take their arms and chase them away."
 msgstr ""
 
 
 # scripts/contracts/contracts/drive_away_bandits_contract.nut
-msgid "Take their arms and chase them away."
+msgid "Take the damned head then and leave."
 msgstr ""
 
 
@@ -4735,12 +4735,12 @@ msgstr ""
 
 
 # scripts/contracts/contracts/last_stand_contract.nut
-msgid "Defend the town!"
+msgid "militia losses: "
 msgstr ""
 
 
 # scripts/contracts/contracts/last_stand_contract.nut
-msgid "militia losses: "
+msgid "Defend the town!"
 msgstr ""
 
 
@@ -4871,6 +4871,11 @@ msgstr "该死的！"
 
 
 # scripts/contracts/contracts/escort_envoy_contract.nut
+msgid "Wait around "
+msgstr ""
+
+
+# scripts/contracts/contracts/escort_envoy_contract.nut
 msgid "Escort Envoy"
 msgstr "护送特使"
 
@@ -4881,7 +4886,7 @@ msgstr ""
 
 
 # scripts/contracts/contracts/escort_envoy_contract.nut
-msgid "Wait around "
+msgid " in the %direction%"
 msgstr ""
 
 
@@ -4889,11 +4894,6 @@ msgstr ""
 # scripts/contracts/contracts/raid_caravan_contract.nut
 msgid "Crowns well earned."
 msgstr "来之不易的克朗。"
-
-
-# scripts/contracts/contracts/escort_envoy_contract.nut
-msgid " in the %direction%"
-msgstr ""
 
 
 # scripts/contracts/contracts/escort_envoy_contract.nut
@@ -4907,13 +4907,13 @@ msgstr "没能保护特使"
 
 
 # scripts/contracts/contracts/escort_envoy_contract.nut
-msgid "{Easy crowns. | Everybody wins.}"
-msgstr "{轻松的克朗。 | 人人皆赢。}"
+msgid "Escort %envoy% %envoy_title% to "
+msgstr ""
 
 
 # scripts/contracts/contracts/escort_envoy_contract.nut
-msgid "Escort %envoy% %envoy_title% to "
-msgstr ""
+msgid "{Easy crowns. | Everybody wins.}"
+msgstr "{轻松的克朗。 | 人人皆赢。}"
 
 
 # scripts/contracts/contracts/escort_envoy_contract.nut
@@ -5087,12 +5087,12 @@ msgstr ""
 
 
 # scripts/contracts/contracts/drive_away_barbarians_contract.nut
-msgid "A good end."
+msgid "Let him go."
 msgstr ""
 
 
 # scripts/contracts/contracts/drive_away_barbarians_contract.nut
-msgid "Let him go."
+msgid "A good end."
 msgstr ""
 
 
@@ -5112,14 +5112,14 @@ msgstr ""
 
 
 # scripts/contracts/contracts/drive_away_barbarians_contract.nut
-# scripts/contracts/contracts/hunting_alps_contract.nut
-msgid "Near %townname%..."
-msgstr "临近 %townname%…"
+msgid "Prepare to attack."
+msgstr "准备攻击。"
 
 
 # scripts/contracts/contracts/drive_away_barbarians_contract.nut
-msgid "Prepare to attack."
-msgstr "准备攻击。"
+# scripts/contracts/contracts/hunting_alps_contract.nut
+msgid "Near %townname%..."
+msgstr "临近 %townname%…"
 
 
 # scripts/contracts/contracts/drive_away_barbarians_contract.nut
@@ -5178,17 +5178,17 @@ msgstr "I'd rather burn down this whole camp. 攻击！"
 
 
 # scripts/contracts/contracts/drive_away_barbarians_contract.nut
+msgid "Failed to destroy a barbarian encampment threatening "
+msgstr ""
+
+
+# scripts/contracts/contracts/drive_away_barbarians_contract.nut
 msgid "We will stay true to our word and leave you in peace."
 msgstr ""
 
 
 # scripts/contracts/contracts/drive_away_barbarians_contract.nut
 msgid "You destroyed a barbarian encampment that threatened "
-msgstr ""
-
-
-# scripts/contracts/contracts/drive_away_barbarians_contract.nut
-msgid "Failed to destroy a barbarian encampment threatening "
 msgstr ""
 
 
@@ -5273,12 +5273,12 @@ msgstr ""
 
 
 # scripts/contracts/contracts/arena_tournament_contract.nut
-msgid "shield"
+msgid "weapon"
 msgstr ""
 
 
 # scripts/contracts/contracts/arena_tournament_contract.nut
-msgid "weapon"
+msgid "shield"
 msgstr ""
 
 
@@ -5298,12 +5298,12 @@ msgstr ""
 
 
 # scripts/contracts/contracts/arena_tournament_contract.nut
-msgid "We enter the tournament!"
+msgid "Let's win us that prize!"
 msgstr ""
 
 
 # scripts/contracts/contracts/arena_tournament_contract.nut
-msgid "Let's win us that prize!"
+msgid "We enter the tournament!"
 msgstr ""
 
 
@@ -5633,18 +5633,13 @@ msgstr ""
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
-msgid "Won an important battle"
-msgstr "赢得了一场重要的战斗"
-
-
-# scripts/contracts/contracts/decisive_battle_contract.nut
 msgid "Let no one escape alive"
 msgstr "不让任何人活着逃脱"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
-msgid "Lost an important battle"
-msgstr "输掉了一场重要的战斗"
+msgid "Won an important battle"
+msgstr "赢得了一场重要的战斗"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
@@ -5653,18 +5648,23 @@ msgstr "一场伟大的战斗，你说呢？"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
+msgid "Lost an important battle"
+msgstr "输掉了一场重要的战斗"
+
+
+# scripts/contracts/contracts/decisive_battle_contract.nut
 msgid "Let's get this over with..."
 msgstr "让我们用…"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
-msgid "Let's get what we're here for."
-msgstr "让我们来这里是为了什么。"
+msgid "Not every battle can be won..."
+msgstr "不是每一场战斗都能赢…"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
-msgid "Not every battle can be won..."
-msgstr "不是每一场战斗都能赢…"
+msgid "Let's get what we're here for."
+msgstr "让我们来这里是为了什么。"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
@@ -5693,13 +5693,13 @@ msgstr "是时候去拜访指挥官了…"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
-msgid "What do you need the %companyname% to do?"
-msgstr "你需要 %companyname% 做什么？"
+msgid "I'm sure %noblehouse% will appreciate it."
+msgstr "我相信 %noblehouse% 会很感激的。"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
-msgid "I'm sure %noblehouse% will appreciate it."
-msgstr "我相信 %noblehouse% 会很感激的。"
+msgid "What do you need the %companyname% to do?"
+msgstr "你需要 %companyname% 做什么？"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
@@ -5708,13 +5708,13 @@ msgstr "这将在接下来的战斗中帮助我们。"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
-msgid "The company will move out within the hour."
-msgstr "战队将在一小时内迁走。"
+msgid "The company will head out within the hour."
+msgstr "战队将在一小时内出发。"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
-msgid "The company will head out within the hour."
-msgstr "战队将在一小时内出发。"
+msgid "The company will move out within the hour."
+msgstr "战队将在一小时内迁走。"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
@@ -5728,8 +5728,8 @@ msgstr "让我们快点回到战营。"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
-msgid "Onwards, brothers, there's a battle to be won!"
-msgstr "兄弟们，向前看，有一场战斗要打赢！"
+msgid "Either convince them to come back or kill them"
+msgstr "要么说服他们回来，要么杀了他们"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
@@ -5738,8 +5738,8 @@ msgstr "移动到军营并报告给 %commander%"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
-msgid "Either convince them to come back or kill them"
-msgstr "要么说服他们回来，要么杀了他们"
+msgid "Onwards, brothers, there's a battle to be won!"
+msgstr "兄弟们，向前看，有一场战斗要打赢！"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
@@ -5763,23 +5763,23 @@ msgstr "协助军队对抗 %feudfamily%"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
-msgid "Wait in the war camp until your services are called upon"
-msgstr "在军营里等着，直到你的军队被召唤"
-
-
-# scripts/contracts/contracts/decisive_battle_contract.nut
 msgid "Your choice is simple. Fight for your lord, or die here."
 msgstr "你的选择很简单。 为你的主而战，或死在这里。"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
-msgid "You forget your place, farmer. You want us to take it by force?"
-msgstr "你忘了你的位置，农夫。 你想让我们强行拿走吗？"
+msgid "Wait in the war camp until your services are called upon"
+msgstr "在军营里等着，直到你的军队被召唤"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
 msgid "Intercept supplies enroute from %supply_start% to %supply_dest%"
 msgstr "截获途中的补给，来自 %supply_start% 到 %supply_dest%"
+
+
+# scripts/contracts/contracts/decisive_battle_contract.nut
+msgid "You forget your place, farmer. You want us to take it by force?"
+msgstr "你忘了你的位置，农夫。 你想让我们强行拿走吗？"
 
 
 # scripts/contracts/contracts/decisive_battle_contract.nut
@@ -5993,12 +5993,12 @@ msgstr "铲除亡灵"
 
 
 # scripts/contracts/contracts/root_out_undead_contract.nut
-msgid "Destroy %objective1%"
+msgid "Destroy %objective2%"
 msgstr ""
 
 
 # scripts/contracts/contracts/root_out_undead_contract.nut
-msgid "Destroy %objective2%"
+msgid "Destroy %objective1%"
 msgstr ""
 
 
@@ -6138,13 +6138,13 @@ msgstr "最终报酬不错。"
 
 
 # scripts/contracts/contracts/raid_caravan_contract.nut
-msgid "Burn them with the rest."
-msgstr "把它们和其他的一起烧了。"
+msgid "Could have been worse..."
+msgstr "可能更糟…"
 
 
 # scripts/contracts/contracts/raid_caravan_contract.nut
-msgid "Could have been worse..."
-msgstr "可能更糟…"
+msgid "Burn them with the rest."
+msgstr "把它们和其他的一起烧了。"
 
 
 # scripts/contracts/contracts/raid_caravan_contract.nut
@@ -6173,13 +6173,13 @@ msgstr "我们的雇主得多付我们钱才能得到这些。"
 
 
 # scripts/contracts/contracts/raid_caravan_contract.nut
-msgid "Failed to destroy a caravan without letting anyone escape"
-msgstr "没能做到在摧毁商队时不让任何人逃脱"
+msgid "We shall give them to our employer as a token of loyalty."
+msgstr "我们会把它交给我们的雇主以表忠诚。"
 
 
 # scripts/contracts/contracts/raid_caravan_contract.nut
-msgid "We shall give them to our employer as a token of loyalty."
-msgstr "我们会把它交给我们的雇主以表忠诚。"
+msgid "Failed to destroy a caravan without letting anyone escape"
+msgstr "没能做到在摧毁商队时不让任何人逃脱"
 
 
 # scripts/contracts/contracts/raid_caravan_contract.nut
@@ -6450,18 +6450,13 @@ msgstr "现在我们接着等吧。"
 
 
 # scripts/contracts/contracts/defend_holy_site_contract.nut
-msgid "We'll take the nets."
-msgstr ""
-
-
-# scripts/contracts/contracts/defend_holy_site_contract.nut
 # scripts/contracts/contracts/defend_holy_site_southern_contract.nut
 msgid "Defended a holy site"
 msgstr "保卫圣地"
 
 
 # scripts/contracts/contracts/defend_holy_site_contract.nut
-msgid "We'll take the wardogs."
+msgid "We'll take the nets."
 msgstr ""
 
 
@@ -6472,20 +6467,25 @@ msgstr "我们会在这里扎营。"
 
 
 # scripts/contracts/contracts/defend_holy_site_contract.nut
+msgid "We'll take the wardogs."
+msgstr ""
+
+
+# scripts/contracts/contracts/defend_holy_site_contract.nut
 # scripts/contracts/contracts/defend_holy_site_southern_contract.nut
 msgid "Rally! Rally! Get ready!"
 msgstr "集合！ Rally! 准备好！"
 
 
 # scripts/contracts/contracts/defend_holy_site_contract.nut
-# scripts/contracts/contracts/defend_holy_site_southern_contract.nut
-msgid "Failed to defend a holy site"
-msgstr "没能保卫圣地"
+msgid "[/color] Tools and Supplies."
+msgstr ""
 
 
 # scripts/contracts/contracts/defend_holy_site_contract.nut
-msgid "[/color] Tools and Supplies."
-msgstr ""
+# scripts/contracts/contracts/defend_holy_site_southern_contract.nut
+msgid "Failed to defend a holy site"
+msgstr "没能保卫圣地"
 
 
 # scripts/contracts/contracts/defend_holy_site_contract.nut
@@ -6700,13 +6700,13 @@ msgstr "做得好，伙计们。"
 
 
 # scripts/contracts/contracts/confront_warlord_contract.nut
-msgid "Confront Orc Warlord"
-msgstr "对抗兽人军阀"
+msgid "Kill the orc warlord"
+msgstr "杀死兽人军阀"
 
 
 # scripts/contracts/contracts/confront_warlord_contract.nut
-msgid "Kill the orc warlord"
-msgstr "杀死兽人军阀"
+msgid "Confront Orc Warlord"
+msgstr "对抗兽人军阀"
 
 
 # scripts/contracts/contracts/confront_warlord_contract.nut
@@ -6720,13 +6720,13 @@ msgstr "我们在这里还是做得很好。"
 
 
 # scripts/contracts/contracts/confront_warlord_contract.nut
-msgid "Killed a renowned orc warlord"
-msgstr "杀死了一个著名的兽人军阀"
+msgid "{Victory! | Damn greenskins.}"
+msgstr "{胜利！ | 该死的绿皮。}"
 
 
 # scripts/contracts/contracts/confront_warlord_contract.nut
-msgid "{Victory! | Damn greenskins.}"
-msgstr "{胜利！ | 该死的绿皮。}"
+msgid "Killed a renowned orc warlord"
+msgstr "杀死了一个著名的兽人军阀"
 
 
 # scripts/contracts/contracts/confront_warlord_contract.nut
@@ -6781,13 +6781,13 @@ msgstr "[img]gfx/ui/events/event_32.png[/img]随着最后一个狂暴者被杀�
 
 
 # scripts/contracts/contracts/confront_warlord_contract.nut
-msgid "[img]gfx/ui/events/event_93.png[/img]While on the path, %randombrother% suddenly straightens up and tells everyone to get quiet. You crouch low and crabwalk to him. He points through some bushes.%SPEECH_ON%There. Trouble. Big, fat trouble.%SPEECH_OFF%You stare through the bushes to see a camp of orc berserkers. They've got a small fire going with a spit of spinning meat. Nearby are a cluster of cages, each one holding a whining dog. You watch as one of the greenskins opens a cage and yanks a dog out. He drags it kicking and screaming toward the fire and holds it over the flames.\n\n The mercenary glances at you.%SPEECH_ON%What should we do, sir?%SPEECH_OFF%"
-msgstr "[img]gfx/ui/events/event_93.png[/img]在途中，%randombrother% 突然挺直身子并告诉所有人保持安静。 你蹲下身子，向他走去。 他指着一些灌木丛。%SPEECH_ON%那里。麻烦。麻烦大了。%SPEECH_OFF%你凝视着灌木丛，看到一个兽人狂暴者营地。 他们生了一堆小火，上面放着旋转的肉。 附近有一堆笼子，每个笼子里都有一只哀嚎的狗。 你会看到其中一个绿皮打开笼子，将狗拉出。 他拖着它，又踢又叫地向着火，把它举在火焰上。\n\n 雇佣兵瞥了你一眼。%SPEECH_ON%我们该怎么办，先生？%SPEECH_OFF%"
+msgid "[img]gfx/ui/events/event_32.png[/img]The fight over, you take a good look around the berserkers' encampment. Each of the cages is home to a shriveled, cornered dog. When you open one of the cages, the dog sprints out, yelping and yapping as it darts over the hills and is gone, just like that. Most of the other mutts follow suit. Two, however, remain. They follow you around as you inspect the rest of the encampment. %randombrother% notes that they're war dogs.%SPEECH_ON%Look at the size of 'em. Big, burly, nasty farks. Their owners must've been killed by the orcs and now, well, they've reason to trust us. Welcome to the company, little buddies.%SPEECH_OFF%"
+msgstr "[img]gfx/ui/events/event_32.png[/img]战斗结束后，你好好看看狂暴者的营地。 每一个笼子都是一只枯萎走投无路的狗的家。 当你打开其中一个笼子时，狗就会跳出来，一边狂吠，一边在山上飞奔，然后消失，就像这样。 其他大多数杂种狗也纷纷效仿。不过，还有两个。 你检查营地的其他地方时，他们跟着你。%randombrother% 指出它们是战犬。%SPEECH_ON%请看看看它们的大小。 又大又壮又恶心的臭屁。 他们的主人一定被兽人杀死了，现在，他们有理由信任我们。 欢迎来到我们队伍，小伙伴们。%SPEECH_OFF%"
 
 
 # scripts/contracts/contracts/confront_warlord_contract.nut
-msgid "[img]gfx/ui/events/event_32.png[/img]The fight over, you take a good look around the berserkers' encampment. Each of the cages is home to a shriveled, cornered dog. When you open one of the cages, the dog sprints out, yelping and yapping as it darts over the hills and is gone, just like that. Most of the other mutts follow suit. Two, however, remain. They follow you around as you inspect the rest of the encampment. %randombrother% notes that they're war dogs.%SPEECH_ON%Look at the size of 'em. Big, burly, nasty farks. Their owners must've been killed by the orcs and now, well, they've reason to trust us. Welcome to the company, little buddies.%SPEECH_OFF%"
-msgstr "[img]gfx/ui/events/event_32.png[/img]战斗结束后，你好好看看狂暴者的营地。 每一个笼子都是一只枯萎走投无路的狗的家。 当你打开其中一个笼子时，狗就会跳出来，一边狂吠，一边在山上飞奔，然后消失，就像这样。 其他大多数杂种狗也纷纷效仿。不过，还有两个。 你检查营地的其他地方时，他们跟着你。%randombrother% 指出它们是战犬。%SPEECH_ON%请看看看它们的大小。 又大又壮又恶心的臭屁。 他们的主人一定被兽人杀死了，现在，他们有理由信任我们。 欢迎来到我们队伍，小伙伴们。%SPEECH_OFF%"
+msgid "[img]gfx/ui/events/event_93.png[/img]While on the path, %randombrother% suddenly straightens up and tells everyone to get quiet. You crouch low and crabwalk to him. He points through some bushes.%SPEECH_ON%There. Trouble. Big, fat trouble.%SPEECH_OFF%You stare through the bushes to see a camp of orc berserkers. They've got a small fire going with a spit of spinning meat. Nearby are a cluster of cages, each one holding a whining dog. You watch as one of the greenskins opens a cage and yanks a dog out. He drags it kicking and screaming toward the fire and holds it over the flames.\n\n The mercenary glances at you.%SPEECH_ON%What should we do, sir?%SPEECH_OFF%"
+msgstr "[img]gfx/ui/events/event_93.png[/img]在途中，%randombrother% 突然挺直身子并告诉所有人保持安静。 你蹲下身子，向他走去。 他指着一些灌木丛。%SPEECH_ON%那里。麻烦。麻烦大了。%SPEECH_OFF%你凝视着灌木丛，看到一个兽人狂暴者营地。 他们生了一堆小火，上面放着旋转的肉。 附近有一堆笼子，每个笼子里都有一只哀嚎的狗。 你会看到其中一个绿皮打开笼子，将狗拉出。 他拖着它，又踢又叫地向着火，把它举在火焰上。\n\n 雇佣兵瞥了你一眼。%SPEECH_ON%我们该怎么办，先生？%SPEECH_OFF%"
 
 
 # scripts/contracts/contracts/confront_warlord_contract.nut
@@ -7015,13 +7015,13 @@ msgstr "你失去了 [color="
 
 
 # scripts/contracts/contracts/discover_location_contract.nut
-msgid "Much appreciated."
-msgstr "非常感谢。"
+msgid " to another party"
+msgstr ""
 
 
 # scripts/contracts/contracts/discover_location_contract.nut
-msgid " to another party"
-msgstr ""
+msgid "Much appreciated."
+msgstr "非常感谢。"
 
 
 # scripts/contracts/contracts/discover_location_contract.nut
@@ -7065,12 +7065,12 @@ msgstr ""
 
 
 # scripts/contracts/contracts/discover_location_contract.nut
-msgid "Why get paid only once if we can get paid twice?"
+msgid "Well, %employer% should have just payed us more."
 msgstr ""
 
 
 # scripts/contracts/contracts/discover_location_contract.nut
-msgid "Well, %employer% should have just payed us more."
+msgid "Why get paid only once if we can get paid twice?"
 msgstr ""
 
 
@@ -7080,13 +7080,13 @@ msgstr "{报酬是多少？ | For the right price we'll find it.}"
 
 
 # scripts/contracts/contracts/discover_location_contract.nut
-msgid "We have a deal. You and no one else will learn where it is."
-msgstr "我们成交。 You and no one else will learn where it is."
+msgid "I don't think so. Only our employer will learn where it is."
+msgstr "我不这么认为。 Only our employer will learn where it is."
 
 
 # scripts/contracts/contracts/discover_location_contract.nut
-msgid "I don't think so. Only our employer will learn where it is."
-msgstr "我不这么认为。 Only our employer will learn where it is."
+msgid "We have a deal. You and no one else will learn where it is."
+msgstr "我们成交。 You and no one else will learn where it is."
 
 
 # scripts/contracts/contracts/discover_location_contract.nut
@@ -7166,23 +7166,23 @@ msgstr ""
 
 
 # scripts/contracts/contracts/hunting_hexen_contract.nut
-msgid "Betrayed "
-msgstr ""
-
-
-# scripts/contracts/contracts/hunting_hexen_contract.nut
 msgid "Oh, damn."
 msgstr "哦，该死的。"
 
 
 # scripts/contracts/contracts/hunting_hexen_contract.nut
-msgid "Poor fool."
-msgstr "可怜的蠢货。"
+msgid "Betrayed "
+msgstr ""
 
 
 # scripts/contracts/contracts/hunting_hexen_contract.nut
 msgid "Protected "
 msgstr ""
+
+
+# scripts/contracts/contracts/hunting_hexen_contract.nut
+msgid "Poor fool."
+msgstr "可怜的蠢货。"
 
 
 # scripts/contracts/contracts/hunting_hexen_contract.nut
@@ -7221,13 +7221,13 @@ msgstr "该死，该死，该死！"
 
 
 # scripts/contracts/contracts/hunting_hexen_contract.nut
-msgid "Don't think about it."
-msgstr "不要去想它。"
+msgid "Was cursed by a witch"
+msgstr "被女巫诅咒了"
 
 
 # scripts/contracts/contracts/hunting_hexen_contract.nut
-msgid "Was cursed by a witch"
-msgstr "被女巫诅咒了"
+msgid "Don't think about it."
+msgstr "不要去想它。"
 
 
 # scripts/contracts/contracts/hunting_hexen_contract.nut
@@ -7677,13 +7677,13 @@ msgstr "别挡我们的路。"
 
 
 # scripts/contracts/contracts/marauding_greenskins_contract.nut
-msgid "Looks like we're hunting goblins."
-msgstr "看起来我们即将狩猎哥布林。"
+msgid "Took care of marauding greenskins"
+msgstr "照顾劫掠的绿皮"
 
 
 # scripts/contracts/contracts/marauding_greenskins_contract.nut
-msgid "Took care of marauding greenskins"
-msgstr "照顾劫掠的绿皮"
+msgid "Looks like we're hunting goblins."
+msgstr "看起来我们即将狩猎哥布林。"
 
 
 # scripts/contracts/contracts/marauding_greenskins_contract.nut
@@ -7937,13 +7937,13 @@ msgstr "清除镇上的林德虫"
 
 
 # scripts/contracts/contracts/hunting_lindwurms_contract.nut
-msgid "Hunt down the Lindwurms around "
-msgstr "追捕林德虫，大约在 "
+msgid "Very well. I accept your offer."
+msgstr "非常好。 我接受你的提议。"
 
 
 # scripts/contracts/contracts/hunting_lindwurms_contract.nut
-msgid "Very well. I accept your offer."
-msgstr "非常好。 我接受你的提议。"
+msgid "Hunt down the Lindwurms around "
+msgstr "追捕林德虫，大约在 "
 
 
 # scripts/contracts/contracts/hunting_lindwurms_contract.nut
@@ -8180,12 +8180,12 @@ msgstr ""
 
 
 # scripts/contracts/contracts/hunting_alps_contract.nut
-msgid "nachtmars"
+msgid " at night"
 msgstr ""
 
 
 # scripts/contracts/contracts/hunting_alps_contract.nut
-msgid " at night"
+msgid "nachtmars"
 msgstr ""
 
 
@@ -8205,17 +8205,17 @@ msgstr ""
 
 
 # scripts/contracts/contracts/hunting_alps_contract.nut
+msgid "nightcreepers"
+msgstr ""
+
+
+# scripts/contracts/contracts/hunting_alps_contract.nut
 msgid "dreamstealers"
 msgstr ""
 
 
 # scripts/contracts/contracts/hunting_alps_contract.nut
 msgid "nightstalkers"
-msgstr ""
-
-
-# scripts/contracts/contracts/hunting_alps_contract.nut
-msgid "nightcreepers"
 msgstr ""
 
 
@@ -8470,22 +8470,22 @@ msgstr "运送了一些货物"
 
 
 # scripts/contracts/contracts/deliver_item_contract.nut
-msgid "We have to destroy it."
-msgstr ""
-
-
-# scripts/contracts/contracts/deliver_item_contract.nut
 msgid "Back where it belongs."
 msgstr ""
 
 
 # scripts/contracts/contracts/deliver_item_contract.nut
-msgid "Failed to deliver cargo"
+msgid "We have to destroy it."
 msgstr ""
 
 
 # scripts/contracts/contracts/deliver_item_contract.nut
 msgid "We follow their tracks!"
+msgstr ""
+
+
+# scripts/contracts/contracts/deliver_item_contract.nut
+msgid "Failed to deliver cargo"
 msgstr ""
 
 
@@ -8685,13 +8685,13 @@ msgstr "我没想到。"
 
 
 # scripts/contracts/contracts/restore_location_contract.nut
-msgid "Get lost, you rabble!"
-msgstr "滚远点，贱民！"
+msgid "Failed to secure the "
+msgstr ""
 
 
 # scripts/contracts/contracts/restore_location_contract.nut
-msgid "Failed to secure the "
-msgstr ""
+msgid "Get lost, you rabble!"
+msgstr "滚远点，贱民！"
 
 
 # scripts/contracts/contracts/restore_location_contract.nut

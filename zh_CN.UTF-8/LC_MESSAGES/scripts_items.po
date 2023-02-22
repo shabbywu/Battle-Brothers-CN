@@ -1,27 +1,6 @@
-# scripts/items/item.nut
-msgid "State"
-msgstr ""
-
-
-# scripts/items/item_container.nut
-# scripts/items/item.nut
-msgid "#ffffff"
-msgstr ""
-
-
-# scripts/items/item_container.nut
-msgid "##############################################"
-msgstr ""
-
-
 # scripts/items/item_container.nut
 # scripts/items/item.nut
 msgid "player"
-msgstr ""
-
-
-# scripts/items/item_container.nut
-msgid "# "
 msgstr ""
 
 
@@ -31,22 +10,22 @@ msgstr ""
 
 
 # scripts/items/item_container.nut
-msgid " to bag because no empty slot was found"
-msgstr ""
-
-
-# scripts/items/item_container.nut
 msgid " from bag, but is placed somewhere else"
 msgstr ""
 
 
 # scripts/items/item_container.nut
-msgid "Neither item is equipped, unable to swap!"
+msgid " to bag because no empty slot was found"
 msgstr ""
 
 
 # scripts/items/item_container.nut
 msgid ", but it is already placed somewhere else"
+msgstr ""
+
+
+# scripts/items/item_container.nut
+msgid "Neither item is equipped, unable to swap!"
 msgstr ""
 
 

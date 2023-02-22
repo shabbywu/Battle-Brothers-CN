@@ -1,9 +1,3 @@
-# scripts/entity/tactical/humans/knight.nut
-# scripts/entity/tactical/humans/standard_bearer.nut
-msgid "State"
-msgstr ""
-
-
 # scripts/entity/tactical/humans/barbarian_madman.nut
 msgid "ffffff00"
 msgstr ""
@@ -46,13 +40,13 @@ msgstr "管家"
 
 
 # scripts/entity/tactical/humans/councilman.nut
-msgid "the Councilor"
-msgstr "委员"
+msgid "the Treasurer"
+msgstr "司库"
 
 
 # scripts/entity/tactical/humans/councilman.nut
-msgid "the Treasurer"
-msgstr "司库"
+msgid "the Councilor"
+msgstr "委员"
 
 
 # scripts/entity/tactical/humans/councilman.nut
@@ -61,13 +55,13 @@ msgstr "议员"
 
 
 # scripts/entity/tactical/humans/councilman.nut
-msgid "the Guild Master"
-msgstr "帮主"
+msgid "the Burgomeister"
+msgstr "市长"
 
 
 # scripts/entity/tactical/humans/councilman.nut
-msgid "the Burgomeister"
-msgstr "市长"
+msgid "the Guild Master"
+msgstr "帮主"
 
 
 # scripts/entity/tactical/humans/councilman.nut
@@ -77,11 +71,6 @@ msgstr "行业主管"
 
 # scripts/entity/tactical/humans/barbarian_madman.nut
 msgid "ffffff5f"
-msgstr ""
-
-
-# scripts/entity/tactical/humans/slave.nut
-msgid "#ffeaea"
 msgstr ""
 
 
