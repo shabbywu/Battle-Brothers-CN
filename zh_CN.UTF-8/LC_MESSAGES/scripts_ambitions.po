@@ -1,25 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-22 15:16+0000\n"
+"PO-Revision-Date: 2023-02-22 15:16+0000\n"
+"Last-Translator: shabbywu <shabbywu@qq.com>\n"
+"Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/"
+"projects/Battle-Brothers-CN/scripts_ambitions/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.15.2\n"
+
 # scripts/ambitions/ambition_manager.nut
 msgid "State"
-msgstr ""
-
+msgstr "State"
 
 # scripts/ambitions/ambition.nut
 msgid "\n\n"
 msgstr ""
-
+"\n"
+"\n"
 
 # scripts/ambitions/ambition.nut
 msgid "Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts."
 msgstr "你的声望会提高，这意味着合同的报酬会更高，并有可能解锁新类型的合同。"
 
-
 # scripts/ambitions/ambition.nut
 msgid "Your Task"
-msgstr ""
-
+msgstr "任务"
 
 # scripts/ambitions/ambition.nut
 msgid "Your Reward"
-msgstr ""
-
-
+msgstr "奖励"
