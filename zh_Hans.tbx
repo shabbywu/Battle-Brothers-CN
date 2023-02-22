@@ -12,7 +12,7 @@
         <body>
             <termEntry id="company">
                 <langSet xml:lang="en"><tig><term>company</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term></term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>战团</term></tig></langSet>
             </termEntry>
         </body>
     </text>
