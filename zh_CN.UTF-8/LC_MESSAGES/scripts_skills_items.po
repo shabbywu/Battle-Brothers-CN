@@ -1,5 +1,0 @@
-# scripts/skills/items/generic_item.nut
-msgid "?!"
-msgstr ""
-
-

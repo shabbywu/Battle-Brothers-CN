@@ -39,19 +39,7 @@ msgstr "撤退！"
 
 
 # scripts/states/world_state.nut
-# scripts/states/main_menu_state.nut
-msgid ");"
-msgstr ""
-
-
-# scripts/states/world_state.nut
 msgid "y: "
-msgstr ""
-
-
-# scripts/states/world_state.nut
-# scripts/states/main_menu_state.nut
-msgid " : "
 msgstr ""
 
 
@@ -111,37 +99,7 @@ msgstr ""
 
 
 # scripts/states/world_state.nut
-msgid "World Speed set to x4.0"
-msgstr ""
-
-
-# scripts/states/world_state.nut
-msgid "World Speed set to x8.0"
-msgstr ""
-
-
-# scripts/states/world_state.nut
-msgid "World Speed set to x3.0"
-msgstr ""
-
-
-# scripts/states/world_state.nut
 msgid "Fog Of War deactivated."
-msgstr ""
-
-
-# scripts/states/world_state.nut
-msgid "World Speed set to x5.0"
-msgstr ""
-
-
-# scripts/states/world_state.nut
-msgid "World Speed set to x9.0"
-msgstr ""
-
-
-# scripts/states/world_state.nut
-msgid "World Speed set to x6.0"
 msgstr ""
 
 
@@ -151,12 +109,42 @@ msgstr ""
 
 
 # scripts/states/world_state.nut
-msgid "Player is consuming assets."
+msgid "World Speed set to x5.0"
+msgstr ""
+
+
+# scripts/states/world_state.nut
+msgid "World Speed set to x6.0"
+msgstr ""
+
+
+# scripts/states/world_state.nut
+msgid "World Speed set to x9.0"
+msgstr ""
+
+
+# scripts/states/world_state.nut
+msgid "World Speed set to x3.0"
+msgstr ""
+
+
+# scripts/states/world_state.nut
+msgid "World Speed set to x8.0"
+msgstr ""
+
+
+# scripts/states/world_state.nut
+msgid "World Speed set to x4.0"
 msgstr ""
 
 
 # scripts/states/world_state.nut
 msgid "Player can now be attacked."
+msgstr ""
+
+
+# scripts/states/world_state.nut
+msgid "Player is consuming assets."
 msgstr ""
 
 
@@ -172,13 +160,13 @@ msgstr ""
 
 
 # scripts/states/world_state.nut
-msgid "Player is NOT consuming assets."
+# scripts/states/tactical_state.nut
+msgid "*** DEVELOPER MODE DISABLED ***"
 msgstr ""
 
 
 # scripts/states/world_state.nut
-# scripts/states/tactical_state.nut
-msgid "*** DEVELOPER MODE DISABLED ***"
+msgid "Player is NOT consuming assets."
 msgstr ""
 
 
@@ -238,13 +226,13 @@ msgstr "失败"
 
 
 # scripts/states/tactical_state.nut
-msgid "Victory"
-msgstr "胜利"
+msgid "Retreat"
+msgstr "撤退"
 
 
 # scripts/states/tactical_state.nut
-msgid "Retreat"
-msgstr "撤退"
+msgid "Victory"
+msgstr "胜利"
 
 
 # scripts/states/tactical_state.nut
@@ -268,23 +256,23 @@ msgstr "赢了一场战斗"
 
 
 # scripts/states/tactical_state.nut
+msgid "Lost a battle"
+msgstr "输了一场战斗"
+
+
+# scripts/states/tactical_state.nut
 msgid "Quit & Retire"
+msgstr ""
+
+
+# scripts/states/tactical_state.nut
+msgid "] on target ["
 msgstr ""
 
 
 # scripts/states/tactical_state.nut
 msgid "Are you sure?"
 msgstr "你确定吗？"
-
-
-# scripts/states/tactical_state.nut
-msgid "Lost a battle"
-msgstr "输了一场战斗"
-
-
-# scripts/states/tactical_state.nut
-msgid "] on target ["
-msgstr ""
 
 
 # scripts/states/tactical_state.nut
@@ -298,12 +286,12 @@ msgstr ""
 
 
 # scripts/states/tactical_state.nut
-msgid "Quit to Main Menu"
+msgid "*** AI PAUSED ***"
 msgstr ""
 
 
 # scripts/states/tactical_state.nut
-msgid "*** AI PAUSED ***"
+msgid "Quit to Main Menu"
 msgstr ""
 
 

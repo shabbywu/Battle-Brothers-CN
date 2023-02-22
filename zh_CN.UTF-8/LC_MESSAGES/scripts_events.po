@@ -1,8 +1,3 @@
-# scripts/events/event_manager.nut
-msgid "State"
-msgstr ""
-
-
 # scripts/events/event.nut
 msgid "\n\n[color=#bcad8c]\""
 msgstr ""

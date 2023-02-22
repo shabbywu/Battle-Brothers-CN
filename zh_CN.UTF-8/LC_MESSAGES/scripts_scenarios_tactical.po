@@ -1,5 +1,0 @@
-# scripts/scenarios/tactical/scenario_canyon.nut
-msgid "#cfb693"
-msgstr ""
-
-

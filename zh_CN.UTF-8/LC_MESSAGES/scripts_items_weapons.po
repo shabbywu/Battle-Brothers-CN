@@ -23,18 +23,13 @@ msgid "Billhook"
 msgstr "钩镰"
 
 
-# scripts/items/weapons/crossbow.nut
-msgid "Crossbow"
-msgstr "弩"
+# scripts/items/weapons/bludgeon.nut
+msgid "Bludgeon"
+msgstr "大棒"
 
 
 # scripts/items/weapons/scimitar.nut
 msgid "Scimitar"
-msgstr "弯刀"
-
-
-# scripts/items/weapons/warbrand.nut
-msgid "Warbrand"
 msgstr "弯刀"
 
 
@@ -43,14 +38,19 @@ msgid "Bardiche"
 msgstr "月牙砍刀"
 
 
+# scripts/items/weapons/warbrand.nut
+msgid "Warbrand"
+msgstr "弯刀"
+
+
 # scripts/items/weapons/shamshir.nut
 msgid "Shamshir"
 msgstr "沙姆希尔"
 
 
-# scripts/items/weapons/bludgeon.nut
-msgid "Bludgeon"
-msgstr "大棒"
+# scripts/items/weapons/crossbow.nut
+msgid "Crossbow"
+msgstr "弩"
 
 
 # scripts/items/weapons/greatsword.nut
@@ -129,12 +129,12 @@ msgstr ""
 
 
 # scripts/items/weapons/weapon.nut
-msgid "[/color] more fatigue"
+msgid "[/color] less fatigue"
 msgstr ""
 
 
 # scripts/items/weapons/weapon.nut
-msgid "[/color] less fatigue"
+msgid "[/color] more fatigue"
 msgstr ""
 
 
@@ -651,12 +651,12 @@ msgstr "对盾牌的伤害 [color="
 
 
 # scripts/items/weapons/weapon.nut
-msgid "Has an additional [color="
+msgid "Contains ammo for [color="
 msgstr ""
 
 
 # scripts/items/weapons/weapon.nut
-msgid "Contains ammo for [color="
+msgid "Has an additional [color="
 msgstr ""
 
 

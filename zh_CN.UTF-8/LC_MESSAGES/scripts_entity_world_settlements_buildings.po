@@ -8,11 +8,6 @@ msgid "Arena"
 msgstr "竞技场"
 
 
-# scripts/entity/world/settlements/buildings/port_building.nut
-msgid "Harbor"
-msgstr "港口"
-
-
 # scripts/entity/world/settlements/buildings/temple_building.nut
 msgid "Temple"
 msgstr "神殿"
@@ -23,14 +18,19 @@ msgid "Barber"
 msgstr "理发店"
 
 
+# scripts/entity/world/settlements/buildings/kennel_building.nut
+msgid "Kennel"
+msgstr "狗舍"
+
+
 # scripts/entity/world/settlements/buildings/tavern_building.nut
 msgid "Tavern"
 msgstr "酒馆"
 
 
-# scripts/entity/world/settlements/buildings/kennel_building.nut
-msgid "Kennel"
-msgstr "狗舍"
+# scripts/entity/world/settlements/buildings/port_building.nut
+msgid "Harbor"
+msgstr "港口"
 
 
 # scripts/entity/world/settlements/buildings/armorsmith_building.nut

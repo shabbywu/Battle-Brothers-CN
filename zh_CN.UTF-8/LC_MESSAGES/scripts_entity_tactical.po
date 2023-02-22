@@ -1,9 +1,3 @@
-# scripts/entity/tactical/actor.nut
-# scripts/entity/tactical/player.nut
-msgid "State"
-msgstr ""
-
-
 # scripts/entity/tactical/goblin.nut
 msgid "A "
 msgstr ""
@@ -24,16 +18,6 @@ msgid "Warhound"
 msgstr "战犬"
 
 
-# scripts/entity/tactical/actor.nut
-msgid "Party"
-msgstr ""
-
-
-# scripts/entity/tactical/actor.nut
-msgid "#ffffff"
-msgstr ""
-
-
 # scripts/entity/tactical/tactical_entity_manager.nut
 msgid " has risen from the dead"
 msgstr " 从死亡中复活"
@@ -51,6 +35,12 @@ msgstr ""
 
 # scripts/entity/tactical/player_corpse_stub.nut
 # scripts/entity/tactical/player.nut
+msgid "Level "
+msgstr ""
+
+
+# scripts/entity/tactical/player_corpse_stub.nut
+# scripts/entity/tactical/player.nut
 msgid " daily"
 msgstr ""
 
@@ -58,12 +48,6 @@ msgstr ""
 # scripts/entity/tactical/player_corpse_stub.nut
 # scripts/entity/tactical/player.nut
 msgid " days."
-msgstr ""
-
-
-# scripts/entity/tactical/player_corpse_stub.nut
-# scripts/entity/tactical/player.nut
-msgid "Level "
 msgstr ""
 
 
@@ -155,14 +139,14 @@ msgstr ""
 
 
 # scripts/entity/tactical/actor.nut
-# scripts/entity/tactical/player.nut
-msgid "Turn done"
-msgstr "回合结束"
+msgid " has died"
+msgstr " 是死了"
 
 
 # scripts/entity/tactical/actor.nut
-msgid " has died"
-msgstr " 是死了"
+# scripts/entity/tactical/player.nut
+msgid "Turn done"
+msgstr "回合结束"
 
 
 # scripts/entity/tactical/actor.nut
@@ -176,13 +160,13 @@ msgstr ""
 
 
 # scripts/entity/tactical/actor.nut
-msgid " has rallied"
-msgstr " 振作起来"
+msgid " has killed "
+msgstr " 杀死 "
 
 
 # scripts/entity/tactical/actor.nut
-msgid " has killed "
-msgstr " 杀死 "
+msgid " has rallied"
+msgstr " 振作起来"
 
 
 # scripts/entity/tactical/actor.nut
@@ -191,8 +175,8 @@ msgstr " 被发现！"
 
 
 # scripts/entity/tactical/actor.nut
-msgid " died in battle"
-msgstr " 在战斗中死亡"
+msgid " is hit for [b]"
+msgstr ""
 
 
 # scripts/entity/tactical/actor.nut
@@ -201,13 +185,13 @@ msgstr "隐藏对手"
 
 
 # scripts/entity/tactical/actor.nut
-msgid " is hit for [b]"
-msgstr ""
+msgid " is struck down"
+msgstr " 被击倒"
 
 
 # scripts/entity/tactical/actor.nut
-msgid " is struck down"
-msgstr " 被击倒"
+msgid " died in battle"
+msgstr " 在战斗中死亡"
 
 
 # scripts/entity/tactical/actor.nut
@@ -300,13 +284,13 @@ msgstr ""
 
 
 # scripts/entity/tactical/player.nut
-msgid "Beheaded"
-msgstr "斩首"
+msgid " battles"
+msgstr ""
 
 
 # scripts/entity/tactical/player.nut
-msgid " battles"
-msgstr ""
+msgid "Beheaded"
+msgstr "斩首"
 
 
 # scripts/entity/tactical/player.nut
@@ -372,11 +356,6 @@ msgstr "受到永久性损伤"
 # scripts/entity/tactical/player.nut
 msgid "Has just joined the company."
 msgstr "刚加入战队。"
-
-
-# scripts/entity/tactical/human.nut
-msgid "#fbffff"
-msgstr ""
 
 
 # scripts/entity/tactical/human.nut

@@ -1,6 +1,6 @@
 # scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Lindwurm"
-msgstr "灵虫"
+msgid "Alps"
+msgstr "阿尔卑斯"
 
 
 # scripts/factions/actions/move_orcs_action.nut
@@ -10,13 +10,13 @@ msgstr "兽人"
 
 
 # scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Alps"
-msgstr "阿尔卑斯"
+msgid "Hexen"
+msgstr "女巫"
 
 
 # scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Hexen"
-msgstr "女巫"
+msgid "Hyenas"
+msgstr "鬣狗"
 
 
 # scripts/factions/actions/send_nomad_roamers_action.nut
@@ -36,23 +36,13 @@ msgstr "亡灵"
 
 
 # scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Hyenas"
-msgstr "鬣狗"
-
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Unhold"
-msgstr "未持有"
+msgid "Ifrits"
+msgstr "伊夫利特"
 
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Kraken"
 msgstr "海妖"
-
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Ifrits"
-msgstr "伊夫利特"
 
 
 # scripts/factions/actions/move_goblins_action.nut
@@ -66,9 +56,20 @@ msgid "Schrats"
 msgstr "施拉茨"
 
 
+# scripts/factions/actions/send_bandit_ambushers_action.nut
+# scripts/factions/actions/defend_bandits_action.nut
+msgid "Brigands"
+msgstr "强盗"
+
+
 # scripts/factions/actions/send_peasants_action.nut
-msgid "Peasants"
-msgstr "农民"
+msgid "Citizens"
+msgstr "公民"
+
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "Serpents"
+msgstr "蛇"
 
 
 # scripts/factions/actions/send_refugees_action.nut
@@ -77,29 +78,8 @@ msgstr "难民"
 
 
 # scripts/factions/actions/send_peasants_action.nut
-msgid "Citizens"
-msgstr "公民"
-
-
-# scripts/factions/actions/send_bandit_ambushers_action.nut
-# scripts/factions/actions/defend_bandits_action.nut
-msgid "Brigands"
-msgstr "强盗"
-
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Serpents"
-msgstr "蛇"
-
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Direwolves"
-msgstr "冰原狼"
-
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Webknechts"
-msgstr "韦克内希特"
+msgid "Peasants"
+msgstr "农民"
 
 
 # scripts/factions/actions/defend_barbarians_action.nut
@@ -107,6 +87,16 @@ msgstr "韦克内希特"
 # scripts/factions/actions/send_barbarian_ambushers_action.nut
 msgid "Barbarians"
 msgstr "野蛮人"
+
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "Webknechts"
+msgstr "韦克内希特"
+
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "Direwolves"
+msgstr "冰原狼"
 
 
 # scripts/factions/actions/send_beast_roamers_action.nut

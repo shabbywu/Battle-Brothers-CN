@@ -1,31 +1,3 @@
-# scripts/items/supplies/ammo_item.nut
-# scripts/items/supplies/dried_fish_item.nut
-# scripts/items/supplies/preserved_mead_item.nut
-# scripts/items/supplies/smoked_ham_item.nut
-# scripts/items/supplies/bread_item.nut
-# scripts/items/supplies/cured_venison_item.nut
-# scripts/items/supplies/rice_item.nut
-# scripts/items/supplies/cured_rations_item.nut
-# scripts/items/supplies/dates_item.nut
-# scripts/items/supplies/mead_item.nut
-# scripts/items/supplies/goat_cheese_item.nut
-# scripts/items/supplies/strange_meat_item.nut
-# scripts/items/supplies/ground_grains_item.nut
-# scripts/items/supplies/armor_parts_item.nut
-# scripts/items/supplies/dried_lamb_item.nut
-# scripts/items/supplies/fermented_unhold_heart_item.nut
-# scripts/items/supplies/food_item.nut
-# scripts/items/supplies/wine_item.nut
-# scripts/items/supplies/beer_item.nut
-# scripts/items/supplies/black_marsh_stew_item.nut
-# scripts/items/supplies/dried_fruits_item.nut
-# scripts/items/supplies/pickled_mushrooms_item.nut
-# scripts/items/supplies/medicine_item.nut
-# scripts/items/supplies/roots_and_berries_item.nut
-msgid "State"
-msgstr ""
-
-
 # scripts/items/supplies/money_item.nut
 msgid "Crowns"
 msgstr "克朗"

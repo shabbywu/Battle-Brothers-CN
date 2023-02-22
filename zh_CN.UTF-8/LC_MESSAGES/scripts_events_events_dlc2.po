@@ -34,12 +34,6 @@ msgid "After the battle..."
 msgstr "战斗之后…"
 
 
-# scripts/events/events/dlc2/treasure_in_rock_event.nut
-# scripts/events/events/dlc2/youngling_alp_event.nut
-msgid " suffers "
-msgstr ""
-
-
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 # scripts/events/events/dlc2/monk_crafts_holy_water_event.nut
@@ -51,6 +45,12 @@ msgstr ""
 # scripts/events/events/dlc2/corpses_in_forest_event.nut
 msgid "You gain "
 msgstr "你获得了 "
+
+
+# scripts/events/events/dlc2/treasure_in_rock_event.nut
+# scripts/events/events/dlc2/youngling_alp_event.nut
+msgid " suffers "
+msgstr ""
 
 
 # scripts/events/events/dlc2/dog_in_swamp_event.nut
@@ -391,14 +391,14 @@ msgstr "也许我该睡觉了。"
 
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
-# scripts/events/events/dlc2/addict_steals_potion_event.nut
-msgid "I just hope you'll heal in time."
-msgstr "我只希望你能及时康复。"
+msgid "Maybe two or three drinks, even."
+msgstr "可能会喝两三杯。"
 
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
-msgid "Maybe two or three drinks, even."
-msgstr "可能会喝两三杯。"
+# scripts/events/events/dlc2/addict_steals_potion_event.nut
+msgid "I just hope you'll heal in time."
+msgstr "我只希望你能及时康复。"
 
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
@@ -507,23 +507,23 @@ msgstr "看来 %killer% 想帮你。"
 
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
-msgid "You're a killer with the kid, %killer%."
-msgstr "你是一个孩子的杀人犯，%killer%。"
-
-
-# scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "Looks like %juggler% wants to help you."
 msgstr "看来 %juggler% 想帮你。"
 
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
-msgid "You should probably stay low for awhile."
-msgstr "你应该保持低调一段时间。"
+msgid "You're a killer with the kid, %killer%."
+msgstr "你是一个孩子的杀人犯，%killer%。"
 
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "Brought his blacksmithing skills to bear"
 msgstr "带着他的铁匠技能去承受"
+
+
+# scripts/events/events/dlc2/kid_blacksmith_event.nut
+msgid "You should probably stay low for awhile."
+msgstr "你应该保持低调一段时间。"
 
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
@@ -986,13 +986,13 @@ msgstr "来吧，%hedgeknight%。 停下来！"
 
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
-msgid "You can deal with this yourselves."
-msgstr "你可以自己解决这个问题。"
+msgid "What were we fighting about again?"
+msgstr ""
 
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
-msgid "What were we fighting about again?"
-msgstr ""
+msgid "You can deal with this yourselves."
+msgstr "你可以自己解决这个问题。"
 
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
@@ -1282,13 +1282,13 @@ msgstr "[img]gfx/ui/events/event_12.png[/img]{Shouting and hollering, %other% dr
 
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
-msgid "Lucky guy."
-msgstr "幸运的家伙。"
+msgid "Witnessed "
+msgstr ""
 
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
-msgid "Witnessed "
-msgstr ""
+msgid "Lucky guy."
+msgstr "幸运的家伙。"
 
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
@@ -1337,13 +1337,13 @@ msgstr ""
 
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
-msgid "Someone bring down that plumed transgressor!"
-msgstr "有人打倒了那个冒失的家伙！"
+msgid "Yeah, don't dwell on it and let's get going."
+msgstr "是啊，别老想着了，我们走吧。"
 
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
-msgid "Yeah, don't dwell on it and let's get going."
-msgstr "是啊，别老想着了，我们走吧。"
+msgid "Someone bring down that plumed transgressor!"
+msgstr "有人打倒了那个冒失的家伙！"
 
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut

@@ -14,23 +14,23 @@ msgstr "有鳞的"
 
 
 # scripts/items/shields/named/named_lindwurm_shield.nut
-msgid "Lizard's"
-msgstr "蜥蜴的"
-
-
-# scripts/items/shields/named/named_lindwurm_shield.nut
 msgid "Wurmhide"
 msgstr "糠皮"
 
 
 # scripts/items/shields/named/named_lindwurm_shield.nut
-msgid "Wurmscale"
-msgstr "沼泽"
+msgid "Lizard's"
+msgstr "蜥蜴的"
 
 
 # scripts/items/shields/named/named_lindwurm_shield.nut
 msgid "Snakehide"
 msgstr "蛇皮"
+
+
+# scripts/items/shields/named/named_lindwurm_shield.nut
+msgid "Wurmscale"
+msgstr "沼泽"
 
 
 # scripts/items/shields/named/named_lindwurm_shield.nut

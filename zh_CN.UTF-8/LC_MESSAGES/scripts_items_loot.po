@@ -1,34 +1,4 @@
 # scripts/items/loot/bead_necklace_item.nut
-# scripts/items/loot/bone_figurines_item.nut
-# scripts/items/loot/silverware_item.nut
-# scripts/items/loot/webbed_valuables_item.nut
-# scripts/items/loot/jeweled_crown_item.nut
-# scripts/items/loot/gemstones_item.nut
-# scripts/items/loot/growth_pearls_item.nut
-# scripts/items/loot/signet_ring_item.nut
-# scripts/items/loot/goblin_carved_ivory_iconographs_item.nut
-# scripts/items/loot/glittering_rock_item.nut
-# scripts/items/loot/goblin_minted_coins_item.nut
-# scripts/items/loot/lindwurm_hoard_item.nut
-# scripts/items/loot/ornate_tome_item.nut
-# scripts/items/loot/golden_chalice_item.nut
-# scripts/items/loot/deformed_valuables_item.nut
-# scripts/items/loot/ancient_amber_item.nut
-# scripts/items/loot/goblin_rank_insignia_item.nut
-# scripts/items/loot/ancient_gold_coins_item.nut
-# scripts/items/loot/white_pearls_item.nut
-# scripts/items/loot/sabertooth_item.nut
-# scripts/items/loot/silver_bowl_item.nut
-# scripts/items/loot/rainbow_scale_item.nut
-# scripts/items/loot/valuable_furs_item.nut
-# scripts/items/loot/looted_valuables_item.nut
-# scripts/items/loot/jade_broche_item.nut
-# scripts/items/loot/soul_splinter_item.nut
-msgid "State"
-msgstr ""
-
-
-# scripts/items/loot/bead_necklace_item.nut
 msgid "Bead Necklace"
 msgstr "珠子项链"
 

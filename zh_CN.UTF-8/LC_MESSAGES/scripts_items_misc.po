@@ -1,8 +1,3 @@
-# scripts/items/misc/snake_oil_item.nut
-msgid "State"
-msgstr ""
-
-
 # scripts/items/misc/potion_of_knowledge_item.nut
 msgid "]+100%[/color] Experience Gain"
 msgstr "]+100%[/color] 经验获取"

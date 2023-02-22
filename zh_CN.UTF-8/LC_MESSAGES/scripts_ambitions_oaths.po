@@ -244,13 +244,13 @@ msgstr "正义誓言"
 
 
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
-# scripts/ambitions/oaths/oath_of_dominion_ambition.nut
-msgid "]-10[/color] Resolve and [color="
+msgid "]+15[/color] Resolve and [color="
 msgstr ""
 
 
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
-msgid "]+15[/color] Resolve and [color="
+# scripts/ambitions/oaths/oath_of_dominion_ambition.nut
+msgid "]-10[/color] Resolve and [color="
 msgstr ""
 
 
@@ -478,11 +478,6 @@ msgstr ""
 
 
 # scripts/ambitions/oaths/oath_ambition.nut
-msgid "\n\n"
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_ambition.nut
 msgid " for "
 msgstr ""
 
@@ -498,13 +493,13 @@ msgstr ""
 
 
 # scripts/ambitions/oaths/oath_ambition.nut
-msgid "Uphold an "
-msgstr "正在宣下 "
+msgid "1 more day"
+msgstr " 1 天"
 
 
 # scripts/ambitions/oaths/oath_ambition.nut
-msgid "1 more day"
-msgstr " 1 天"
+msgid "Uphold an "
+msgstr "正在宣下 "
 
 
 # scripts/ambitions/oaths/oath_ambition.nut

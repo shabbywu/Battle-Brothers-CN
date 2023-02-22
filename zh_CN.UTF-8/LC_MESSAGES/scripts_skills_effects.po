@@ -1,9 +1,3 @@
-# scripts/skills/effects/battle_standard_effect.nut
-# scripts/skills/effects/captain_effect.nut
-msgid "State"
-msgstr ""
-
-
 # scripts/skills/effects/dodge_effect.nut
 msgid "Dodge"
 msgstr "躲闪"
@@ -19,14 +13,14 @@ msgid "Adrenaline"
 msgstr "肾上腺素"
 
 
-# scripts/skills/effects/nightmare_effect.nut
-msgid "Nightmares"
-msgstr "噩梦"
-
-
 # scripts/skills/effects/nine_lives_effect.nut
 msgid "Nine Lives"
 msgstr "猫有九命"
+
+
+# scripts/skills/effects/nightmare_effect.nut
+msgid "Nightmares"
+msgstr "噩梦"
 
 
 # scripts/skills/effects/indomitable_effect.nut
@@ -36,12 +30,6 @@ msgstr "不屈不挠"
 
 # scripts/skills/effects/charmed_effect.nut
 msgid "ffffff00"
-msgstr ""
-
-
-# scripts/skills/effects/hex_slave_effect.nut
-# scripts/skills/effects/hex_master_effect.nut
-msgid "#ffffff"
 msgstr ""
 
 
@@ -295,6 +283,12 @@ msgstr ""
 
 
 # scripts/skills/effects/goblin_poison_effect.nut
+# scripts/skills/effects/chilled_effect.nut
+msgid "[/color] Action Points"
+msgstr ""
+
+
+# scripts/skills/effects/goblin_poison_effect.nut
 # scripts/skills/effects/spider_poison_effect.nut
 # scripts/skills/effects/insect_swarm_effect.nut
 # scripts/skills/effects/shellshocked_effect.nut
@@ -302,12 +296,6 @@ msgstr ""
 # scripts/skills/effects/withered_effect.nut
 # scripts/skills/effects/bleeding_effect.nut
 msgid "[/color] more turn(s)."
-msgstr ""
-
-
-# scripts/skills/effects/goblin_poison_effect.nut
-# scripts/skills/effects/chilled_effect.nut
-msgid "[/color] Action Points"
 msgstr ""
 
 
@@ -1198,13 +1186,13 @@ msgstr "盛宴"
 
 
 # scripts/skills/effects/acid_effect.nut
-msgid "]20%[/color] of head armor is lost each turn"
-msgstr "]20%[/color] 头部盔甲每回合都会损失"
+msgid "]20%[/color] of body armor is lost each turn"
+msgstr "]20%[/color] 身体盔甲每回合都会损失"
 
 
 # scripts/skills/effects/acid_effect.nut
-msgid "]20%[/color] of body armor is lost each turn"
-msgstr "]20%[/color] 身体盔甲每回合都会损失"
+msgid "]20%[/color] of head armor is lost each turn"
+msgstr "]20%[/color] 头部盔甲每回合都会损失"
 
 
 # scripts/skills/effects/chilled_effect.nut

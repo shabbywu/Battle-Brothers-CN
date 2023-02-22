@@ -25,12 +25,6 @@ msgid "After the battle..."
 msgstr "战斗之后…"
 
 
-# scripts/events/events/dlc6/desert_fall_event.nut
-# scripts/events/events/dlc6/dried_oasis_event.nut
-msgid " suffers "
-msgstr ""
-
-
 # scripts/events/events/dlc6/gunpowder_wagon_event.nut
 # scripts/events/events/dlc6/dried_oasis_event.nut
 # scripts/events/events/dlc6/sellsword_retires_event.nut
@@ -38,6 +32,12 @@ msgstr ""
 # scripts/events/events/dlc6/desert_well_event.nut
 msgid "You gain "
 msgstr "你获得了 "
+
+
+# scripts/events/events/dlc6/desert_fall_event.nut
+# scripts/events/events/dlc6/dried_oasis_event.nut
+msgid " suffers "
+msgstr ""
 
 
 # scripts/events/events/dlc6/runaway_harem_event.nut
@@ -196,13 +196,13 @@ msgstr " 是生病了"
 
 
 # scripts/events/events/dlc6/runaway_harem_event.nut
-msgid "Enjoy your freedom."
-msgstr "享受你们的自由吧。"
+msgid "]100[/color] Crowns"
+msgstr "]100[/color] 克朗"
 
 
 # scripts/events/events/dlc6/runaway_harem_event.nut
-msgid "]100[/color] Crowns"
-msgstr "]100[/color] 克朗"
+msgid "Enjoy your freedom."
+msgstr "享受你们的自由吧。"
 
 
 # scripts/events/events/dlc6/runaway_harem_event.nut
@@ -462,13 +462,13 @@ msgstr "我们不会打扰你的旅行的。"
 
 
 # scripts/events/events/dlc6/gunpowder_wagon_event.nut
-msgid "The firelance at 500 crowns for sure."
-msgstr "当然是500克朗的火矛。"
+msgid "For that price, none are of interest."
+msgstr "这个价格我没有兴趣。"
 
 
 # scripts/events/events/dlc6/gunpowder_wagon_event.nut
-msgid "For that price, none are of interest."
-msgstr "这个价格我没有兴趣。"
+msgid "The firelance at 500 crowns for sure."
+msgstr "当然是500克朗的火矛。"
 
 
 # scripts/events/events/dlc6/gunpowder_wagon_event.nut
@@ -723,13 +723,13 @@ msgstr "我们可以用上你。"
 
 
 # scripts/events/events/dlc6/retired_gladiator_event.nut
-msgid "No, thanks, we're good."
-msgstr "不了，谢谢，我们没事。"
+msgid "Well, good luck to you."
+msgstr "好吧，祝你好运。"
 
 
 # scripts/events/events/dlc6/retired_gladiator_event.nut
-msgid "Well, good luck to you."
-msgstr "好吧，祝你好运。"
+msgid "No, thanks, we're good."
+msgstr "不了，谢谢，我们没事。"
 
 
 # scripts/events/events/dlc6/retired_gladiator_event.nut
@@ -883,13 +883,13 @@ msgstr "那就继续走吧，搜捕者。"
 
 
 # scripts/events/events/dlc6/pirates_event.nut
-msgid "Heard rumors of you freeing indebted"
-msgstr "听说你要释放负债者"
+msgid "I hope you know how to use a weapon."
+msgstr "希望你知道怎么使用武器。"
 
 
 # scripts/events/events/dlc6/pirates_event.nut
-msgid "I hope you know how to use a weapon."
-msgstr "希望你知道怎么使用武器。"
+msgid "Heard rumors of you freeing indebted"
+msgstr "听说你要释放负债者"
 
 
 # scripts/events/events/dlc6/pirates_event.nut

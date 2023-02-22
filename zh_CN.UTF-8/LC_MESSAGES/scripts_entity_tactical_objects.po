@@ -141,16 +141,6 @@ msgstr "一个石头祭坛。"
 
 
 # scripts/entity/tactical/objects/tree_trunk_forest_leaves.nut
-msgid "#f8f8e6"
-msgstr ""
-
-
-# scripts/entity/tactical/objects/tree_trunk_forest_leaves.nut
-msgid "#f0ffdc"
-msgstr ""
-
-
-# scripts/entity/tactical/objects/tree_trunk_forest_leaves.nut
 # scripts/entity/tactical/objects/tree_trunk_forest.nut
 # scripts/entity/tactical/objects/snow_tree_trunk.nut
 msgid "The remains of a once proud tree."
@@ -284,11 +274,6 @@ msgstr ""
 # scripts/entity/tactical/objects/tree_stump3.nut
 msgid "The remains of a cut-down tree."
 msgstr "被砍倒的树的残留物。"
-
-
-# scripts/entity/tactical/objects/tree_trunk_forest.nut
-msgid "#dbdef0"
-msgstr ""
 
 
 # scripts/entity/tactical/objects/desert_camp_fireplace.nut

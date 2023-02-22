@@ -1,8 +1,3 @@
-# scripts/events/events/crisis/undead_hoggart_event.nut
-msgid "300"
-msgstr ""
-
-
 # scripts/events/events/crisis/civilwar_town_conquered_event.nut
 msgid "Conqueror"
 msgstr "征服者"
@@ -29,16 +24,6 @@ msgstr "拿起武器！"
 
 
 # scripts/events/events/crisis/greenskins_pet_goblin_event.nut
-# scripts/events/events/crisis/civilwar_conscription_event.nut
-# scripts/events/events/crisis/undead_frozen_pond_event.nut
-# scripts/events/events/crisis/civilwar_refugees_event.nut
-# scripts/events/events/crisis/civilwar_hungry_hamlet_event.nut
-# scripts/events/events/crisis/civilwar_trapped_soldiers_event.nut
-msgid " suffers "
-msgstr ""
-
-
-# scripts/events/events/crisis/greenskins_pet_goblin_event.nut
 # scripts/events/events/crisis/civilwar_treasurer_event.nut
 # scripts/events/events/crisis/undead_frozen_pond_event.nut
 # scripts/events/events/crisis/greenskins_caravan_ambush_event.nut
@@ -52,6 +37,16 @@ msgstr ""
 # scripts/events/events/crisis/civilwar_ambush_event.nut
 msgid "You gain "
 msgstr "你获得了 "
+
+
+# scripts/events/events/crisis/greenskins_pet_goblin_event.nut
+# scripts/events/events/crisis/civilwar_conscription_event.nut
+# scripts/events/events/crisis/undead_frozen_pond_event.nut
+# scripts/events/events/crisis/civilwar_refugees_event.nut
+# scripts/events/events/crisis/civilwar_hungry_hamlet_event.nut
+# scripts/events/events/crisis/civilwar_trapped_soldiers_event.nut
+msgid " suffers "
+msgstr ""
 
 
 # scripts/events/events/crisis/greenskins_slayer_event.nut
@@ -528,18 +523,13 @@ msgstr "滚你妈的。"
 
 
 # scripts/events/events/crisis/civilwar_conscription_event.nut
-msgid "Did we do good here?"
-msgstr "我们在这里做得好吗？"
-
-
-# scripts/events/events/crisis/civilwar_conscription_event.nut
 msgid "We stay out of this."
 msgstr "我们别插手。"
 
 
 # scripts/events/events/crisis/civilwar_conscription_event.nut
-msgid "We help the peasants!"
-msgstr "我们帮农民这边！"
+msgid "Did we do good here?"
+msgstr "我们在这里做得好吗？"
 
 
 # scripts/events/events/crisis/civilwar_conscription_event.nut
@@ -548,13 +538,18 @@ msgstr "好。我们走吧。"
 
 
 # scripts/events/events/crisis/civilwar_conscription_event.nut
-msgid "We help the bannermen!"
-msgstr "我们帮贵族这边！"
+msgid "We help the peasants!"
+msgstr "我们帮农民这边！"
 
 
 # scripts/events/events/crisis/civilwar_conscription_event.nut
 msgid "That went south quick."
 msgstr "事情给搞砸了。"
+
+
+# scripts/events/events/crisis/civilwar_conscription_event.nut
+msgid "We help the bannermen!"
+msgstr "我们帮贵族这边！"
 
 
 # scripts/events/events/crisis/civilwar_conscription_event.nut
@@ -663,13 +658,13 @@ msgstr "你帮助了一个处境危险的农夫"
 
 
 # scripts/events/events/crisis/civilwar_treasurer_event.nut
-msgid "We gotta look out for ourselves first."
-msgstr "我们得先照顾好自己。"
+msgid "You threatened one of their treasurers"
+msgstr "你威胁了他们的一个司库"
 
 
 # scripts/events/events/crisis/civilwar_treasurer_event.nut
-msgid "You threatened one of their treasurers"
-msgstr "你威胁了他们的一个司库"
+msgid "We gotta look out for ourselves first."
+msgstr "我们得先照顾好自己。"
 
 
 # scripts/events/events/crisis/civilwar_treasurer_event.nut
@@ -850,13 +845,13 @@ msgstr "摆清楚你们的位置，白痴们。"
 
 
 # scripts/events/events/crisis/civilwar_refugees_event.nut
-msgid "Nice work with the niceties."
-msgstr "和好朋友一起工作就是好。"
+msgid "Leave those poor folk alone."
+msgstr "别管 those poor folk 了。"
 
 
 # scripts/events/events/crisis/civilwar_refugees_event.nut
-msgid "Leave those poor folk alone."
-msgstr "别管 those poor folk 了。"
+msgid "Nice work with the niceties."
+msgstr "和好朋友一起工作就是好。"
 
 
 # scripts/events/events/crisis/civilwar_refugees_event.nut
@@ -975,13 +970,13 @@ msgstr "霍加特的传家宝"
 
 
 # scripts/events/events/crisis/undead_hoggart_event.nut
-msgid "How do we stop him?"
-msgstr "我们如何阻止他？"
+msgid "]300[/color] Crowns"
+msgstr "]300[/color] 克朗"
 
 
 # scripts/events/events/crisis/undead_hoggart_event.nut
-msgid "]300[/color] Crowns"
-msgstr "]300[/color] 克朗"
+msgid "How do we stop him?"
+msgstr "我们如何阻止他？"
 
 
 # scripts/events/events/crisis/undead_hoggart_event.nut
@@ -1166,23 +1161,13 @@ msgstr "帮助了 "
 
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
-msgid "Some men just never learn."
-msgstr "有些人真是不长记性。"
-
-
-# scripts/events/events/crisis/greenskins_investigation_event.nut
 msgid "We shall search the halls."
 msgstr "我们要搜查大厅。"
 
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
-msgid "We have no time for favors."
-msgstr "我们没时间帮忙。"
-
-
-# scripts/events/events/crisis/greenskins_investigation_event.nut
-msgid "We shall search the pantry."
-msgstr "我们要搜查食品储藏室。"
+msgid "Some men just never learn."
+msgstr "有些人真是不长记性。"
 
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
@@ -1191,18 +1176,28 @@ msgstr "我们要搜查武器库。"
 
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
+msgid "We shall search the pantry."
+msgstr "我们要搜查食品储藏室。"
+
+
+# scripts/events/events/crisis/greenskins_investigation_event.nut
+msgid "We have no time for favors."
+msgstr "我们没时间帮忙。"
+
+
+# scripts/events/events/crisis/greenskins_investigation_event.nut
 msgid "Your secret is safe with me."
 msgstr "我会为你保密的。"
 
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
-msgid "Truly a savage cockblocking."
-msgstr "真是个野蛮的家伙。"
+msgid "I should learn more secrets."
+msgstr "我应该多干保密的事。"
 
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
-msgid "I should learn more secrets."
-msgstr "我应该多干保密的事。"
+msgid "Truly a savage cockblocking."
+msgstr "真是个野蛮的家伙。"
 
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
@@ -1486,13 +1481,13 @@ msgstr "事情居然就这样搞砸了。"
 
 
 # scripts/events/events/crisis/civilwar_hungry_hamlet_event.nut
-msgid "Find your own way, peasants."
-msgstr "自力更生吧，农民们。"
+msgid "You killed some of their men"
+msgstr "你杀了他们的一些人"
 
 
 # scripts/events/events/crisis/civilwar_hungry_hamlet_event.nut
-msgid "You killed some of their men"
-msgstr "你杀了他们的一些人"
+msgid "Find your own way, peasants."
+msgstr "自力更生吧，农民们。"
 
 
 # scripts/events/events/crisis/civilwar_hungry_hamlet_event.nut
@@ -1627,13 +1622,13 @@ msgstr "{[img]gfx/ui/events/event_49.png[/img]你走出帐篷，看到一片被�
 
 
 # scripts/events/events/crisis/civilwar_ambush_event.nut
-msgid "Let's help these peasants."
-msgstr "让我们帮助这些农民吧。"
+msgid "Ambushed some of their men"
+msgstr "伏击了他们的一些人"
 
 
 # scripts/events/events/crisis/civilwar_ambush_event.nut
-msgid "Ambushed some of their men"
-msgstr "伏击了他们的一些人"
+msgid "Let's help these peasants."
+msgstr "让我们帮助这些农民吧。"
 
 
 # scripts/events/events/crisis/civilwar_ambush_event.nut

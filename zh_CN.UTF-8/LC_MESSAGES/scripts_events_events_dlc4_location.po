@@ -67,17 +67,17 @@ msgstr "我们应该离开这儿。"
 
 
 # scripts/events/events/dlc4/location/icy_cave_enter_event.nut
-msgid "I need you to scout ahead, "
-msgstr ""
-
-
-# scripts/events/events/dlc4/location/icy_cave_enter_event.nut
 msgid "I need you to go in there, "
 msgstr ""
 
 
 # scripts/events/events/dlc4/location/icy_cave_enter_event.nut
 msgid "You can take him, %chosen%!"
+msgstr ""
+
+
+# scripts/events/events/dlc4/location/icy_cave_enter_event.nut
+msgid "I need you to scout ahead, "
 msgstr ""
 
 

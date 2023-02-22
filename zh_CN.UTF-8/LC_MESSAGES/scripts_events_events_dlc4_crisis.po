@@ -19,13 +19,13 @@ msgstr ""
 
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
-msgid "Refuse"
-msgstr ""
+msgid "Accept"
+msgstr "接受"
 
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
-msgid "Accept"
-msgstr "接受"
+msgid "Refuse"
+msgstr ""
 
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
@@ -54,13 +54,13 @@ msgstr "你得靠你自己，孩子。"
 
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
-msgid "Alright, alright, let's go."
-msgstr "好吧，好吧，我们去。"
+msgid "Lead us to your house, kid."
+msgstr "带我们去你的房子，孩子。"
 
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
-msgid "Lead us to your house, kid."
-msgstr "带我们去你的房子，孩子。"
+msgid "Alright, alright, let's go."
+msgstr "好吧，好吧，我们去。"
 
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
@@ -74,13 +74,13 @@ msgstr "这样息事宁人吧。"
 
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
-msgid "Punitive measures had to be taken."
-msgstr "必须要予以惩戒。"
+msgid "Run before you get a beating, boy!"
+msgstr "在你挨揍之前赶紧滚，孩子！"
 
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
-msgid "Run before you get a beating, boy!"
-msgstr "在你挨揍之前赶紧滚，孩子！"
+msgid "Punitive measures had to be taken."
+msgstr "必须要予以惩戒。"
 
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
