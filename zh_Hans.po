@@ -14,12 +14,9 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.15.2\n"
 
+
 msgid "company"
 msgstr "战团"
-
-msgctxt "company"
-msgid "company"
-msgstr ""
 
 msgid "%randomname%"
 msgstr "%randomname%"
