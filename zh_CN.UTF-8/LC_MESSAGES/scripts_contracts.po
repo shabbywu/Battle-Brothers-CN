@@ -1,165 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-23 00:03+0000\n"
+"PO-Revision-Date: 2023-02-23 00:03+0000\n"
+"Last-Translator: shabbywu <shabbywu@qq.com>\n"
+"Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/"
+"projects/Battle-Brothers-CN/scripts_contracts/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.15.2\n"
+
 # scripts/contracts/contract.nut
 msgid "Undead"
 msgstr "亡灵"
-
 
 # scripts/contracts/contract.nut
 msgid "Brigands"
 msgstr "强盗"
 
-
 # scripts/contracts/contract.nut
+#, fuzzy
 msgid "\n\n[color=#bcad8c]\""
 msgstr ""
-
+"\n"
+"\n"
+"[color=#bcad8c]\""
 
 # scripts/contracts/contract_manager.nut
+#, fuzzy
 msgid " (id: "
-msgstr ""
-
+msgstr " (id: "
 
 # scripts/contracts/contract_manager.nut
 msgid "contract removed: "
-msgstr ""
-
+msgstr "合同已移除。 "
 
 # scripts/contracts/contract.nut
 msgid "Orc Marauders"
 msgstr "兽人收割者"
 
-
 # scripts/contracts/contract.nut
 msgid "Goblin Raiders"
-msgstr ""
-
+msgstr "哥布林掠夺者"
 
 # scripts/contracts/contract.nut
 msgid "A band of menacing orcs, greenskinned and towering any man."
-msgstr "一群凶残的兽人，绿皮肤，高耸于任何人之上。"
-
+msgstr "一群凶神恶煞的兽人，皮肤碧绿，身材高大。"
 
 # scripts/contracts/contract.nut
 msgid "A band of mischievous goblins, small but cunning and not to be underestimated."
 msgstr "一群淘气的哥布林，小而狡猾，不可低估。"
 
-
 # scripts/contracts/contract.nut
 msgid "A legion of walking dead, back to claim from the living what was once theirs."
-msgstr "一大群行尸，向活着的人索取曾经属于他们的东西。"
-
+msgstr "一群行尸走肉，回来从生者手中夺走曾经属于他们的东西。"
 
 # scripts/contracts/contract.nut
 msgid "end"
 msgstr ""
 
-
 # scripts/contracts/contract.nut
 msgid "List"
 msgstr ""
-
 
 # scripts/contracts/contract.nut
 msgid "Title"
 msgstr ""
 
-
 # scripts/contracts/contract.nut
 msgid "origin"
 msgstr ""
-
 
 # scripts/contracts/contract.nut
 msgid "update"
 msgstr ""
 
-
 # scripts/contracts/contract.nut
 msgid "Banner"
 msgstr ""
-
 
 # scripts/contracts/contract.nut
 msgid "Payment"
 msgstr "报酬"
 
-
 # scripts/contracts/contract.nut
 msgid "faction"
 msgstr ""
-
 
 # scripts/contracts/contract.nut
 msgid "produce"
 msgstr ""
 
-
 # scripts/contracts/contract.nut
 msgid "State \""
 msgstr ""
-
 
 # scripts/contracts/contract.nut
 msgid "Screen \""
 msgstr ""
 
-
 # scripts/contracts/contract.nut
 msgid "employer"
-msgstr ""
-
+msgstr "雇主"
 
 # scripts/contracts/contract.nut
 msgid "maxcount"
 msgstr ""
 
-
 # scripts/contracts/contract.nut
 msgid "townname"
 msgstr ""
-
 
 # scripts/contracts/contract.nut
 msgid "Characters"
 msgstr ""
 
-
 # scripts/contracts/contract.nut
 msgid "Objectives"
 msgstr "目标"
-
 
 # scripts/contracts/contract.nut
 msgid "companyname"
 msgstr ""
 
-
 # scripts/contracts/contract.nut
 msgid "[color=#30ac2a]"
 msgstr ""
-
 
 # scripts/contracts/contract.nut
 msgid "[color=#bcad8c]\""
 msgstr ""
 
-
 # scripts/contracts/contract.nut
 msgid "Broke a contract"
 msgstr "撕毁了合同"
-
 
 # scripts/contracts/contract.nut
 msgid "Something seems wrong."
 msgstr "好像有问题。"
 
-
 # scripts/contracts/contract.nut
 msgid "\" not found for contract \""
-msgstr ""
-
+msgstr "“未找到合约”"
 
 # scripts/contracts/contract.nut
 msgid "A rough and tough band of brigands out to hunt for food."
-msgstr "一伙强盗为了食物而突然走出去。"
-
-
+msgstr "一群外出觅食的粗野的强盗。"
