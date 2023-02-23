@@ -1655,7 +1655,7 @@ msgstr "在战斗中，始终显示在角色上方浮动的生命和护甲条，
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "The free Lindwurm DLC adds a challenging new beast, a new player banner, as well as a new famed armor, helmet and shield."
-msgstr "免费的林德虫DLC增加了一个具有挑战性的新野兽，一些新的玩家旗帜，以及一些新的著名的盔甲、头盔和盾牌。"
+msgstr "免费的林德沃姆DLC增加了一个具有挑战性的新野兽，一些新的玩家旗帜，以及一些新的著名的盔甲、头盔和盾牌。"
 
 
 # scripts/ui/screens/tooltip/tooltip_events.nut

@@ -1,9 +1,4 @@
 # scripts/items/accessory/legendary/cursed_crystal_skull.nut
-msgid "Reduces the Resolve of any opponent engaged in melee by [color="
-msgstr "减少任何近战对手的决心 [color="
-
-
-# scripts/items/accessory/legendary/cursed_crystal_skull.nut
 msgid "Cursed Crystal Skull"
 msgstr "被诅咒的水晶颅骨"
 
@@ -16,6 +11,11 @@ msgstr ""
 # scripts/items/accessory/legendary/cursed_crystal_skull.nut
 msgid "User can never have [color="
 msgstr ""
+
+
+# scripts/items/accessory/legendary/cursed_crystal_skull.nut
+msgid "Reduces the Resolve of any opponent engaged in melee by [color="
+msgstr "减少任何近战对手的决心 [color="
 
 
 # scripts/items/accessory/legendary/cursed_crystal_skull.nut

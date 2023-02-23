@@ -3,29 +3,20 @@ msgid "Won "
 msgstr ""
 
 
-# scripts/retinue/followers/scout_follower.nut
-msgid "The Scout"
-msgstr "侦察员"
-
-
-# scripts/retinue/followers/scout_follower.nut
-msgid "/5 battles against beasts"
+# scripts/retinue/followers/blacksmith_follower.nut
+msgid "Had "
 msgstr ""
 
 
-# scripts/retinue/followers/scout_follower.nut
-msgid "Prevents sickness and accidents due to terrain"
-msgstr "阻止因地形引起的疾病和意外遭遇"
+# scripts/retinue/followers/cook_follower.nut
+# scripts/retinue/followers/bounty_hunter_follower.nut
+msgid "Have "
+msgstr ""
 
 
-# scripts/retinue/followers/scout_follower.nut
-msgid "Makes the company travel 15% faster on any terrain"
-msgstr "使战队在任何地形上的旅行速度提高15%"
-
-
-# scripts/retinue/followers/scout_follower.nut
-msgid "The Scout is an expert in finding mountain passes, navigating through treacherous swamps, and guiding anyone safely through the darkest of forests."
-msgstr "侦察员 is an expert in finding mountain passes, navigating through treacherous swamps, and guiding anyone safely through the darkest of forests."
+# scripts/retinue/followers/trader_follower.nut
+msgid "Sold "
+msgstr ""
 
 
 # scripts/retinue/followers/paymaster_follower.nut
@@ -33,34 +24,44 @@ msgid "/16 men"
 msgstr ""
 
 
-# scripts/retinue/followers/paymaster_follower.nut
-msgid "The Paymaster"
-msgstr "出纳员"
-
-
-# scripts/retinue/followers/paymaster_follower.nut
-msgid "Have a roster of "
+# scripts/retinue/followers/brigand_follower.nut
+msgid "Raided "
 msgstr ""
 
 
-# scripts/retinue/followers/paymaster_follower.nut
-msgid "Reduces the chance of desertion by 50%"
-msgstr "减少50%的逃兵几率"
+# scripts/retinue/followers/recruiter_follower.nut
+msgid "/12 men"
+msgstr ""
 
 
-# scripts/retinue/followers/paymaster_follower.nut
-msgid "Prevents men demanding more pay in events"
-msgstr "阻止你的人要求更高报酬的事件出现"
+# scripts/retinue/followers/surgeon_follower.nut
+msgid "Treated "
+msgstr ""
 
 
-# scripts/retinue/followers/paymaster_follower.nut
-msgid "Reduces the daily wage of each man by 15%"
-msgstr "每人每日工资减少15%"
+# scripts/retinue/followers/alchemist_follower.nut
+msgid "Crafted "
+msgstr ""
 
 
-# scripts/retinue/followers/paymaster_follower.nut
-msgid "The Paymaster takes care of all the day-to-day financial and organizational aspects of running a mercenary company, like paying out wages."
-msgstr "出纳员 takes care of all the day-to-day financial and organizational aspects of running a mercenary company, like paying out wages."
+# scripts/retinue/followers/cook_follower.nut
+msgid "The Cook"
+msgstr "厨师"
+
+
+# scripts/retinue/followers/minstrel_follower.nut
+msgid "Visited "
+msgstr ""
+
+
+# scripts/retinue/followers/scout_follower.nut
+msgid "The Scout"
+msgstr "侦察员"
+
+
+# scripts/retinue/followers/agent_follower.nut
+msgid "The Agent"
+msgstr "事务官"
 
 
 # scripts/retinue/followers/negotiator_follower.nut
@@ -69,64 +70,19 @@ msgid "Completed "
 msgstr ""
 
 
-# scripts/retinue/followers/negotiator_follower.nut
-msgid "/15 contracts"
+# scripts/retinue/followers/recruiter_follower.nut
+msgid "Recruited "
 msgstr ""
 
 
-# scripts/retinue/followers/negotiator_follower.nut
-msgid "The Negotiator"
-msgstr "谈判者"
-
-
-# scripts/retinue/followers/negotiator_follower.nut
-msgid "Makes good relations with any faction decay slower and bad relations recover faster"
-msgstr "使与任何派系的良好关系衰退得更慢，而不良关系恢复得更快"
-
-
-# scripts/retinue/followers/negotiator_follower.nut
-msgid "Allows for more rounds of contract negotiations with potential employers, and without any hit to relations"
-msgstr "允许与潜在雇主进行更多轮的合同谈判，而且不会对关系造成任何影响"
-
-
-# scripts/retinue/followers/negotiator_follower.nut
-msgid "The Negotiator is home to noble courts and fancy halls, and not used to travelling with a band of sellswords with muddy boots, but he is an expert on traversing the mire of social relations and contract negotiations."
-msgstr "谈判者 is home to noble courts and fancy halls, and not used to travelling with a band of sellswords with muddy boots, but he is an expert on traversing the mire of social relations and contract negotiations."
-
-
-# scripts/retinue/followers/surgeon_follower.nut
-msgid "Treated "
-msgstr ""
+# scripts/retinue/followers/trader_follower.nut
+msgid "The Trader"
+msgstr "交易员"
 
 
 # scripts/retinue/followers/surgeon_follower.nut
 msgid "The Surgeon"
 msgstr "外科医生"
-
-
-# scripts/retinue/followers/surgeon_follower.nut
-msgid "/5 men with injuries at a temple"
-msgstr ""
-
-
-# scripts/retinue/followers/surgeon_follower.nut
-msgid "Makes every injury take one less day to heal"
-msgstr "使每一个损伤的治愈时间都减少一天"
-
-
-# scripts/retinue/followers/surgeon_follower.nut
-msgid "Makes every man without a permanent injury guaranteed to survive an otherwise fatal blow"
-msgstr "使每一个没有永久性损伤的人都能在致命的打击中幸存下来"
-
-
-# scripts/retinue/followers/surgeon_follower.nut
-msgid "The Surgeon is a walking tome of anatomical knowledge. A mercenary company seems the perfect place both to apply that knowledge in healing, but also to learn more about how the insides of men are made up."
-msgstr "外科医生 is a walking tome of anatomical knowledge. 雇佣兵战队似乎是一个完美的地方，既可以将这些知识应用于治疗，也可以更多地了解人类的内部构造。"
-
-
-# scripts/retinue/followers/brigand_follower.nut
-msgid "Raided "
-msgstr ""
 
 
 # scripts/retinue/followers/brigand_follower.nut
@@ -139,66 +95,6 @@ msgid "The Brigand"
 msgstr "强盗"
 
 
-# scripts/retinue/followers/brigand_follower.nut
-msgid "Makes you see the position of some caravans at all times and even if outside your sight radius"
-msgstr "使你能随时看到一些商队的位置，即使在你的视野之外"
-
-
-# scripts/retinue/followers/brigand_follower.nut
-msgid "The Brigand may be old and weak now, but at one point his name was feared across the land. In exchange for a hot meal he happily shares with you what he learns from his contacts about caravans on the road."
-msgstr "强盗 may be old and weak now, but at one point his name was feared across the land. 作为一顿热饭的交换，他很高兴地和你分享他从朋友那里学到的关于路上商队的知识。"
-
-
-# scripts/retinue/followers/scavenger_follower.nut
-msgid "Have a heart"
-msgstr "有一颗心"
-
-
-# scripts/retinue/followers/scavenger_follower.nut
-msgid "The Scavenger"
-msgstr "拾荒者"
-
-
-# scripts/retinue/followers/scavenger_follower.nut
-msgid "Recovers a part of all ammo you use during battle"
-msgstr "回收一部分你在战斗中使用的弹药"
-
-
-# scripts/retinue/followers/scavenger_follower.nut
-msgid "Recovers tools and supplies from every armor destroyed by you during battle"
-msgstr "从战斗中被你摧毁的每一件盔甲中回收工具和补给"
-
-
-# scripts/retinue/followers/scavenger_follower.nut
-msgid "Whether the son of one of your men or an urchin you took pity on, the Scavenger pulls his weight by collecting bits and pieces from every battlefield."
-msgstr "无论是你某个伙计的儿子，还是你拽进来的流浪儿，拾荒者都会从每一个战场上收集零碎的东西。"
-
-
-# scripts/retinue/followers/quartermaster_follower.nut
-msgid "The Quartermaster"
-msgstr "军需官"
-
-
-# scripts/retinue/followers/quartermaster_follower.nut
-msgid "/5 caravan escort contracts"
-msgstr ""
-
-
-# scripts/retinue/followers/quartermaster_follower.nut
-msgid "Increases the amount of ammunition you can carry by 100"
-msgstr "增加你可以携带的弹药量100"
-
-
-# scripts/retinue/followers/quartermaster_follower.nut
-msgid "Increases the amount of medical supplies and tools you can carry by 50 each"
-msgstr "增加你可以携带的医疗用品和工具数量各50个"
-
-
-# scripts/retinue/followers/quartermaster_follower.nut
-msgid "With years of experience from traveling with caravans, the Quartermaster is able to squeeze and rotate any piece of gear, luggage or armor into the perfect spot to use space as efficiently as possible."
-msgstr "凭借多年的商队旅行经验，军需官能够将任何装备、行李或盔甲挤压和旋转到最佳位置，尽可能有效地利用空间。"
-
-
 # scripts/retinue/followers/lookout_follower.nut
 msgid "The Lookout"
 msgstr "观察员"
@@ -209,175 +105,9 @@ msgid "Discovered "
 msgstr ""
 
 
-# scripts/retinue/followers/lookout_follower.nut
-msgid "/10 locations on your own"
-msgstr ""
-
-
-# scripts/retinue/followers/lookout_follower.nut
-msgid "Increases your sight radius by 25%"
-msgstr "增加你的视野25%"
-
-
-# scripts/retinue/followers/lookout_follower.nut
-msgid "Reveals extended information about footprints"
-msgstr "显示有关足迹的扩展信息"
-
-
-# scripts/retinue/followers/lookout_follower.nut
-msgid "Having a quick Lookout with sharp eyes travel in advance of the company can prove invaluable in being aware of dangers and points of interests before others become aware of the company."
-msgstr "拥有一名行动迅速目光敏锐的观察员在战队前面探路，在其他人察觉到战队之前意识到危险，包括利益地点的发现都是极有用的。"
-
-
-# scripts/retinue/followers/alchemist_follower.nut
-msgid "Crafted "
-msgstr ""
-
-
-# scripts/retinue/followers/alchemist_follower.nut
-msgid "The Alchemist"
-msgstr "炼金术士"
-
-
-# scripts/retinue/followers/alchemist_follower.nut
-msgid "/15 items at the taxidermist"
-msgstr ""
-
-
-# scripts/retinue/followers/alchemist_follower.nut
-msgid "Has a 25% chance of not consuming any crafting component used by you"
-msgstr "有25%的几率不消耗你使用的任何工艺组件"
-
-
-# scripts/retinue/followers/alchemist_follower.nut
-msgid "Unlocks 'Snake Oil' recipe to earn money by crafting from various low tier components"
-msgstr "解锁“蛇油”配方，通过制作各种低层组件来赚钱"
-
-
-# scripts/retinue/followers/alchemist_follower.nut
-msgid "The Alchemist is knowledgeable in crafting all kinds of mysterious contraptions and concoctions from exotic ingredients when given access to taxidermist equipment, and uses less material to do so."
-msgstr "炼金术士 is knowledgeable in crafting all kinds of mysterious contraptions and concoctions from exotic ingredients when given access to taxidermist equipment, and uses less material to do so."
-
-
-# scripts/retinue/followers/blacksmith_follower.nut
-msgid "Had "
-msgstr ""
-
-
-# scripts/retinue/followers/blacksmith_follower.nut
-msgid "The Blacksmith"
-msgstr "铁匠"
-
-
-# scripts/retinue/followers/blacksmith_follower.nut
-msgid "Increases repair speed by 33%"
-msgstr "修复速度提高33%"
-
-
-# scripts/retinue/followers/blacksmith_follower.nut
-msgid "/5 items repaired at a town's smith"
-msgstr ""
-
-
-# scripts/retinue/followers/blacksmith_follower.nut
-msgid "Repairs all armor, helmets, weapons and shields worn by your men even if they're broken or lost because your man died"
-msgstr "修理你手下所有的盔甲、头盔、武器和盾牌，即使它们因为你手下的死亡而破损或丢失"
-
-
-# scripts/retinue/followers/blacksmith_follower.nut
-msgid "Mercenaries are good at getting arms and armor destroyed, but not at maintaining them. The Blacksmith will take care of this tedious task quickly and efficiently, and can mend even equipment otherwise thought lost."
-msgstr "雇佣兵擅长摧毁武器和盔甲，但不擅长维护它们。 铁匠 will take care of this tedious task quickly and efficiently, and can mend even equipment otherwise thought lost."
-
-
-# scripts/retinue/followers/cook_follower.nut
-# scripts/retinue/followers/bounty_hunter_follower.nut
-msgid "Have "
-msgstr ""
-
-
-# scripts/retinue/followers/cook_follower.nut
-msgid "The Cook"
-msgstr "厨师"
-
-
-# scripts/retinue/followers/cook_follower.nut
-msgid "/8 different types of provisions"
-msgstr ""
-
-
-# scripts/retinue/followers/cook_follower.nut
-msgid "Increases hitpoint healing rate by 33%"
-msgstr "增加33%的生命值治愈速度"
-
-
-# scripts/retinue/followers/cook_follower.nut
-msgid "Makes all provisions last 3 extra days"
-msgstr "Makes all provisions last 3 extr一天s"
-
-
-# scripts/retinue/followers/cook_follower.nut
-msgid "A good warm meal goes a long way towards healing body and mind. The Cook makes sure that no provisions go to waste, and provides the men with invigorating meals."
-msgstr "一顿热乎乎的好饭对治愈身心大有帮助。 厨师 makes sure that no provisions go to waste, and provides the men with invigorating meals."
-
-
-# scripts/retinue/followers/recruiter_follower.nut
-msgid "/12 men"
-msgstr ""
-
-
-# scripts/retinue/followers/recruiter_follower.nut
-msgid "Recruited "
-msgstr ""
-
-
-# scripts/retinue/followers/recruiter_follower.nut
-msgid "The Recruiter"
-msgstr "招募者"
-
-
-# scripts/retinue/followers/recruiter_follower.nut
-msgid "Makes you pay 10% less up front for hiring new men, and 50% less for tryouts"
-msgstr "让你在雇佣新人时少支付10%，测验费少50%"
-
-
-# scripts/retinue/followers/recruiter_follower.nut
-msgid "Makes between 2 and 4 additional men available to recruit in every settlement"
-msgstr "让每个定居点可以招募的新兵额外增加2到4人"
-
-
-# scripts/retinue/followers/recruiter_follower.nut
-msgid "The Recruiter is a sleazy jawsmith that tricks desperate people into joining a mercenary company to escape their poor lives, only to find their demise. Quite useful for anyone running a mercenary company."
-msgstr "招募者 is a sleazy jawsmith that tricks desperate people into joining a mercenary company to escape their poor lives, only to find their demise. 对任何经营雇佣兵战队的人都很有用。"
-
-
-# scripts/retinue/followers/trader_follower.nut
-msgid "Sold "
-msgstr ""
-
-
-# scripts/retinue/followers/trader_follower.nut
-msgid "The Trader"
-msgstr "交易员"
-
-
-# scripts/retinue/followers/trader_follower.nut
-msgid "/25 trade goods"
-msgstr ""
-
-
-# scripts/retinue/followers/trader_follower.nut
-msgid "Increases the amount of trade goods for sale by 1 for each location that produces them, like salt near salt mines, allowing you to trade at higher volumes"
-msgstr "对于每个生产贸易商品的地点，将贸易商品的销售数量增加1，比如盐矿附近的盐，允许你以更高的交易量进行交易"
-
-
-# scripts/retinue/followers/trader_follower.nut
-msgid "Southern traders are renowned for their bartering skills. Lucky you that you could convince one such master of haggling to join your company. And at such a bargain!"
-msgstr "南方商人以他们的易货技巧而闻名。 你真幸运，你能说服这样一位讨价还价的高手加入你的战队。 这么便宜！"
-
-
-# scripts/retinue/followers/minstrel_follower.nut
-msgid "Visited "
-msgstr ""
+# scripts/retinue/followers/scavenger_follower.nut
+msgid "Have a heart"
+msgstr "有一颗心"
 
 
 # scripts/retinue/followers/minstrel_follower.nut
@@ -390,44 +120,44 @@ msgid "The Minstrel"
 msgstr "吟游诗人"
 
 
-# scripts/retinue/followers/minstrel_follower.nut
-msgid "Makes you earn 15% more renown with every action"
-msgstr "所有行动都会获得15%更多的声望"
+# scripts/retinue/followers/paymaster_follower.nut
+msgid "The Paymaster"
+msgstr "出纳员"
 
 
-# scripts/retinue/followers/minstrel_follower.nut
-msgid "Makes tavern rumors more likely to contain useful information"
-msgstr "使酒馆谣言更有可能包含有用的信息"
-
-
-# scripts/retinue/followers/minstrel_follower.nut
-msgid "A good song and story play a large part in creating the reputation of a company. The Minstrel is a master of these crafts and will help to spread the word about your deeds to all ears - willing to hear them or not."
-msgstr "一首好歌和一个好故事在创造一个战队的声誉方面起着很大的作用。 吟游诗人 is a master of these crafts and will help to spread the word about your deeds to all ears - willing to hear them or not."
-
-
-# scripts/retinue/followers/bounty_hunter_follower.nut
-msgid "The Bounty Hunter"
-msgstr "赏金猎人"
-
-
-# scripts/retinue/followers/bounty_hunter_follower.nut
-msgid "/3 named or legendary items in your possession"
+# scripts/retinue/followers/negotiator_follower.nut
+msgid "/15 contracts"
 msgstr ""
 
 
-# scripts/retinue/followers/bounty_hunter_follower.nut
-msgid "Pays between 300 and 750 crowns for every champion slain"
-msgstr "为每一个被杀的冠军支付300到750克朗"
+# scripts/retinue/followers/scavenger_follower.nut
+msgid "The Scavenger"
+msgstr "拾荒者"
 
 
-# scripts/retinue/followers/bounty_hunter_follower.nut
-msgid "Significantly increases the chance of encountering champions"
-msgstr "显著增加了遇到冠军的机会"
+# scripts/retinue/followers/alchemist_follower.nut
+msgid "The Alchemist"
+msgstr "炼金术士"
 
 
-# scripts/retinue/followers/bounty_hunter_follower.nut
-msgid "This colorful Bounty Hunter has a pocket full of contracts on the most dangerous individuals. He knows how to get them from hiding and will pay handsomely for any bounty fulfilled."
-msgstr "这个穿着花哨的赏金猎人口袋里装满了最危险的人的合同。 他知道如何找到他们的藏身处，并会为任何完成的悬赏支付丰厚的报酬。"
+# scripts/retinue/followers/recruiter_follower.nut
+msgid "The Recruiter"
+msgstr "招募者"
+
+
+# scripts/retinue/followers/negotiator_follower.nut
+msgid "The Negotiator"
+msgstr "谈判者"
+
+
+# scripts/retinue/followers/blacksmith_follower.nut
+msgid "The Blacksmith"
+msgstr "铁匠"
+
+
+# scripts/retinue/followers/trader_follower.nut
+msgid "/25 trade goods"
+msgstr ""
 
 
 # scripts/retinue/followers/cartographer_follower.nut
@@ -435,19 +165,19 @@ msgid "The Cartographer"
 msgstr "制图师"
 
 
-# scripts/retinue/followers/cartographer_follower.nut
-msgid "Discovered a legendary location"
-msgstr "发现一个传奇地点"
+# scripts/retinue/followers/paymaster_follower.nut
+msgid "Have a roster of "
+msgstr ""
 
 
-# scripts/retinue/followers/cartographer_follower.nut
-msgid "Pays you between 100 and 400 crowns for every location you discover on your own. The further away from civilization, the more you're paid. Legendary locations pay double."
-msgstr "为你独自发现的每个地点支付100到400克朗。 离文明越远，你得到的报酬就越多。 传奇地点双倍报酬。"
+# scripts/retinue/followers/quartermaster_follower.nut
+msgid "The Quartermaster"
+msgstr "军需官"
 
 
-# scripts/retinue/followers/cartographer_follower.nut
-msgid "The Cartographer is a man of culture and knowledge, but he also realizes that traveling in the company of well-armed mercenaries is one of the best ways to safely see the world and explore places that few visited before."
-msgstr "制图师 is a man of culture and knowledge, but he also realizes that traveling in the company of well-armed mercenaries is one of the best ways to safely see the world and explore places that few visited before."
+# scripts/retinue/followers/bounty_hunter_follower.nut
+msgid "The Bounty Hunter"
+msgstr "赏金猎人"
 
 
 # scripts/retinue/followers/drill_sergeant_follower.nut
@@ -455,29 +185,114 @@ msgid "The Drill Sergeant"
 msgstr "教官"
 
 
-# scripts/retinue/followers/drill_sergeant_follower.nut
-msgid "Retired a man with a permanent injury that isn't indebted"
-msgstr "让一个受了永久性损伤不是负债者的人退休"
+# scripts/retinue/followers/scout_follower.nut
+msgid "/5 battles against beasts"
+msgstr ""
 
 
-# scripts/retinue/followers/drill_sergeant_follower.nut
-msgid "Makes men in reserve never lose mood from not taking part in battles"
-msgstr "使位于后备队的人不会因不参加战斗而降低心情"
+# scripts/retinue/followers/lookout_follower.nut
+msgid "/10 locations on your own"
+msgstr ""
 
 
-# scripts/retinue/followers/drill_sergeant_follower.nut
-msgid "Makes your men gain 20% more experience at level 1, with 2% less at each further level"
-msgstr "使你的人在1级时获得20%更多的经验，每提高一级就减少2%"
+# scripts/retinue/followers/quartermaster_follower.nut
+msgid "/5 caravan escort contracts"
+msgstr ""
 
 
-# scripts/retinue/followers/drill_sergeant_follower.nut
-msgid "The Drill Sergeant was a mercenary once, but an injury ended his career prematurely. Now he drills discipline into your men and yells a lot to make sure that everyone learns from their mistakes."
-msgstr "教官 was a mercenary once, but an injury ended his career prematurely. 现在他训练你的人遵守纪律，以大喊大叫的方式确保每个人都能从错误中吸取教训。"
+# scripts/retinue/followers/alchemist_follower.nut
+msgid "/15 items at the taxidermist"
+msgstr ""
 
 
-# scripts/retinue/followers/agent_follower.nut
-msgid "The Agent"
-msgstr "事务官"
+# scripts/retinue/followers/blacksmith_follower.nut
+msgid "Increases repair speed by 33%"
+msgstr "修复速度提高33%"
+
+
+# scripts/retinue/followers/cartographer_follower.nut
+msgid "Discovered a legendary location"
+msgstr "发现一个传奇地点"
+
+
+# scripts/retinue/followers/surgeon_follower.nut
+msgid "/5 men with injuries at a temple"
+msgstr ""
+
+
+# scripts/retinue/followers/cook_follower.nut
+msgid "/8 different types of provisions"
+msgstr ""
+
+
+# scripts/retinue/followers/lookout_follower.nut
+msgid "Increases your sight radius by 25%"
+msgstr "增加你的视野25%"
+
+
+# scripts/retinue/followers/blacksmith_follower.nut
+msgid "/5 items repaired at a town's smith"
+msgstr ""
+
+
+# scripts/retinue/followers/paymaster_follower.nut
+msgid "Reduces the chance of desertion by 50%"
+msgstr "减少50%的逃兵几率"
+
+
+# scripts/retinue/followers/cook_follower.nut
+msgid "Increases hitpoint healing rate by 33%"
+msgstr "增加33%的生命值治愈速度"
+
+
+# scripts/retinue/followers/cook_follower.nut
+msgid "Makes all provisions last 3 extra days"
+msgstr "Makes all provisions last 3 extr一天s"
+
+
+# scripts/retinue/followers/paymaster_follower.nut
+msgid "Prevents men demanding more pay in events"
+msgstr "阻止你的人要求更高报酬的事件出现"
+
+
+# scripts/retinue/followers/paymaster_follower.nut
+msgid "Reduces the daily wage of each man by 15%"
+msgstr "每人每日工资减少15%"
+
+
+# scripts/retinue/followers/surgeon_follower.nut
+msgid "Makes every injury take one less day to heal"
+msgstr "使每一个损伤的治愈时间都减少一天"
+
+
+# scripts/retinue/followers/lookout_follower.nut
+msgid "Reveals extended information about footprints"
+msgstr "显示有关足迹的扩展信息"
+
+
+# scripts/retinue/followers/scout_follower.nut
+msgid "Prevents sickness and accidents due to terrain"
+msgstr "阻止因地形引起的疾病和意外遭遇"
+
+
+# scripts/retinue/followers/bounty_hunter_follower.nut
+msgid "/3 named or legendary items in your possession"
+msgstr ""
+
+
+# scripts/retinue/followers/minstrel_follower.nut
+msgid "Makes you earn 15% more renown with every action"
+msgstr "所有行动都会获得15%更多的声望"
+
+
+# scripts/retinue/followers/scavenger_follower.nut
+msgid "Recovers a part of all ammo you use during battle"
+msgstr "回收一部分你在战斗中使用的弹药"
+
+
+# scripts/retinue/followers/scout_follower.nut
+msgid "Makes the company travel 15% faster on any terrain"
+msgstr "使战队在任何地形上的旅行速度提高15%"
 
 
 # scripts/retinue/followers/agent_follower.nut
@@ -485,13 +300,198 @@ msgid "Have allied relations with a noble house or city state"
 msgstr "与贵族家族或城邦达到同盟关系"
 
 
+# scripts/retinue/followers/quartermaster_follower.nut
+msgid "Increases the amount of ammunition you can carry by 100"
+msgstr "增加你可以携带的弹药量100"
+
+
+# scripts/retinue/followers/bounty_hunter_follower.nut
+msgid "Pays between 300 and 750 crowns for every champion slain"
+msgstr "为每一个被杀的冠军支付300到750克朗"
+
+
+# scripts/retinue/followers/drill_sergeant_follower.nut
+msgid "Retired a man with a permanent injury that isn't indebted"
+msgstr "让一个受了永久性损伤不是负债者的人退休"
+
+
+# scripts/retinue/followers/bounty_hunter_follower.nut
+msgid "Significantly increases the chance of encountering champions"
+msgstr "显著增加了遇到冠军的机会"
+
+
+# scripts/retinue/followers/minstrel_follower.nut
+msgid "Makes tavern rumors more likely to contain useful information"
+msgstr "使酒馆谣言更有可能包含有用的信息"
+
+
+# scripts/retinue/followers/alchemist_follower.nut
+msgid "Has a 25% chance of not consuming any crafting component used by you"
+msgstr "有25%的几率不消耗你使用的任何工艺组件"
+
+
+# scripts/retinue/followers/drill_sergeant_follower.nut
+msgid "Makes men in reserve never lose mood from not taking part in battles"
+msgstr "使位于后备队的人不会因不参加战斗而降低心情"
+
+
+# scripts/retinue/followers/scavenger_follower.nut
+msgid "Recovers tools and supplies from every armor destroyed by you during battle"
+msgstr "从战斗中被你摧毁的每一件盔甲中回收工具和补给"
+
+
+# scripts/retinue/followers/quartermaster_follower.nut
+msgid "Increases the amount of medical supplies and tools you can carry by 50 each"
+msgstr "增加你可以携带的医疗用品和工具数量各50个"
+
+
+# scripts/retinue/followers/recruiter_follower.nut
+msgid "Makes you pay 10% less up front for hiring new men, and 50% less for tryouts"
+msgstr "让你在雇佣新人时少支付10%，测验费少50%"
+
+
+# scripts/retinue/followers/recruiter_follower.nut
+msgid "Makes between 2 and 4 additional men available to recruit in every settlement"
+msgstr "让每个定居点可以招募的新兵额外增加2到4人"
+
+
+# scripts/retinue/followers/negotiator_follower.nut
+msgid "Makes good relations with any faction decay slower and bad relations recover faster"
+msgstr "使与任何派系的良好关系衰退得更慢，而不良关系恢复得更快"
+
+
+# scripts/retinue/followers/alchemist_follower.nut
+msgid "Unlocks 'Snake Oil' recipe to earn money by crafting from various low tier components"
+msgstr "解锁“蛇油”配方，通过制作各种低层组件来赚钱"
+
+
+# scripts/retinue/followers/drill_sergeant_follower.nut
+msgid "Makes your men gain 20% more experience at level 1, with 2% less at each further level"
+msgstr "使你的人在1级时获得20%更多的经验，每提高一级就减少2%"
+
+
+# scripts/retinue/followers/surgeon_follower.nut
+msgid "Makes every man without a permanent injury guaranteed to survive an otherwise fatal blow"
+msgstr "使每一个没有永久性损伤的人都能在致命的打击中幸存下来"
+
+
+# scripts/retinue/followers/brigand_follower.nut
+msgid "Makes you see the position of some caravans at all times and even if outside your sight radius"
+msgstr "使你能随时看到一些商队的位置，即使在你的视野之外"
+
+
 # scripts/retinue/followers/agent_follower.nut
 msgid "Reveals available contracts and active situations in the tooltip of settlements no matter where you are"
 msgstr "在定居点提示栏中显示可用的合同和活动情况，无论你在哪里"
 
 
+# scripts/retinue/followers/negotiator_follower.nut
+msgid "Allows for more rounds of contract negotiations with potential employers, and without any hit to relations"
+msgstr "允许与潜在雇主进行更多轮的合同谈判，而且不会对关系造成任何影响"
+
+
+# scripts/retinue/followers/blacksmith_follower.nut
+msgid "Repairs all armor, helmets, weapons and shields worn by your men even if they're broken or lost because your man died"
+msgstr "修理你手下所有的盔甲、头盔、武器和盾牌，即使它们因为你手下的死亡而破损或丢失"
+
+
 # scripts/retinue/followers/agent_follower.nut
 msgid "The Agent has eyes and ears everywhere and knows where to go for current events to take advantage of and well-paying contracts both."
 msgstr "事务官 has eyes and ears everywhere and knows where to go for current events to take advantage of and well-paying contracts both."
+
+
+# scripts/retinue/followers/paymaster_follower.nut
+msgid "The Paymaster takes care of all the day-to-day financial and organizational aspects of running a mercenary company, like paying out wages."
+msgstr "出纳员 takes care of all the day-to-day financial and organizational aspects of running a mercenary company, like paying out wages."
+
+
+# scripts/retinue/followers/scout_follower.nut
+msgid "The Scout is an expert in finding mountain passes, navigating through treacherous swamps, and guiding anyone safely through the darkest of forests."
+msgstr "侦察员 is an expert in finding mountain passes, navigating through treacherous swamps, and guiding anyone safely through the darkest of forests."
+
+
+# scripts/retinue/followers/scavenger_follower.nut
+msgid "Whether the son of one of your men or an urchin you took pity on, the Scavenger pulls his weight by collecting bits and pieces from every battlefield."
+msgstr "无论是你某个伙计的儿子，还是你拽进来的流浪儿，拾荒者都会从每一个战场上收集零碎的东西。"
+
+
+# scripts/retinue/followers/trader_follower.nut
+msgid "Increases the amount of trade goods for sale by 1 for each location that produces them, like salt near salt mines, allowing you to trade at higher volumes"
+msgstr "对于每个生产贸易商品的地点，将贸易商品的销售数量增加1，比如盐矿附近的盐，允许你以更高的交易量进行交易"
+
+
+# scripts/retinue/followers/cook_follower.nut
+msgid "A good warm meal goes a long way towards healing body and mind. The Cook makes sure that no provisions go to waste, and provides the men with invigorating meals."
+msgstr "一顿热乎乎的好饭对治愈身心大有帮助。 厨师 makes sure that no provisions go to waste, and provides the men with invigorating meals."
+
+
+# scripts/retinue/followers/trader_follower.nut
+msgid "Southern traders are renowned for their bartering skills. Lucky you that you could convince one such master of haggling to join your company. And at such a bargain!"
+msgstr "南方商人以他们的易货技巧而闻名。 你真幸运，你能说服这样一位讨价还价的高手加入你的战队。 这么便宜！"
+
+
+# scripts/retinue/followers/cartographer_follower.nut
+msgid "Pays you between 100 and 400 crowns for every location you discover on your own. The further away from civilization, the more you're paid. Legendary locations pay double."
+msgstr "为你独自发现的每个地点支付100到400克朗。 离文明越远，你得到的报酬就越多。 传奇地点双倍报酬。"
+
+
+# scripts/retinue/followers/bounty_hunter_follower.nut
+msgid "This colorful Bounty Hunter has a pocket full of contracts on the most dangerous individuals. He knows how to get them from hiding and will pay handsomely for any bounty fulfilled."
+msgstr "这个穿着花哨的赏金猎人口袋里装满了最危险的人的合同。 他知道如何找到他们的藏身处，并会为任何完成的悬赏支付丰厚的报酬。"
+
+
+# scripts/retinue/followers/lookout_follower.nut
+msgid "Having a quick Lookout with sharp eyes travel in advance of the company can prove invaluable in being aware of dangers and points of interests before others become aware of the company."
+msgstr "拥有一名行动迅速目光敏锐的观察员在战队前面探路，在其他人察觉到战队之前意识到危险，包括利益地点的发现都是极有用的。"
+
+
+# scripts/retinue/followers/drill_sergeant_follower.nut
+msgid "The Drill Sergeant was a mercenary once, but an injury ended his career prematurely. Now he drills discipline into your men and yells a lot to make sure that everyone learns from their mistakes."
+msgstr "教官 was a mercenary once, but an injury ended his career prematurely. 现在他训练你的人遵守纪律，以大喊大叫的方式确保每个人都能从错误中吸取教训。"
+
+
+# scripts/retinue/followers/alchemist_follower.nut
+msgid "The Alchemist is knowledgeable in crafting all kinds of mysterious contraptions and concoctions from exotic ingredients when given access to taxidermist equipment, and uses less material to do so."
+msgstr "炼金术士 is knowledgeable in crafting all kinds of mysterious contraptions and concoctions from exotic ingredients when given access to taxidermist equipment, and uses less material to do so."
+
+
+# scripts/retinue/followers/quartermaster_follower.nut
+msgid "With years of experience from traveling with caravans, the Quartermaster is able to squeeze and rotate any piece of gear, luggage or armor into the perfect spot to use space as efficiently as possible."
+msgstr "凭借多年的商队旅行经验，军需官能够将任何装备、行李或盔甲挤压和旋转到最佳位置，尽可能有效地利用空间。"
+
+
+# scripts/retinue/followers/surgeon_follower.nut
+msgid "The Surgeon is a walking tome of anatomical knowledge. A mercenary company seems the perfect place both to apply that knowledge in healing, but also to learn more about how the insides of men are made up."
+msgstr "外科医生 is a walking tome of anatomical knowledge. 雇佣兵战队似乎是一个完美的地方，既可以将这些知识应用于治疗，也可以更多地了解人类的内部构造。"
+
+
+# scripts/retinue/followers/recruiter_follower.nut
+msgid "The Recruiter is a sleazy jawsmith that tricks desperate people into joining a mercenary company to escape their poor lives, only to find their demise. Quite useful for anyone running a mercenary company."
+msgstr "招募者 is a sleazy jawsmith that tricks desperate people into joining a mercenary company to escape their poor lives, only to find their demise. 对任何经营雇佣兵战队的人都很有用。"
+
+
+# scripts/retinue/followers/brigand_follower.nut
+msgid "The Brigand may be old and weak now, but at one point his name was feared across the land. In exchange for a hot meal he happily shares with you what he learns from his contacts about caravans on the road."
+msgstr "强盗 may be old and weak now, but at one point his name was feared across the land. 作为一顿热饭的交换，他很高兴地和你分享他从朋友那里学到的关于路上商队的知识。"
+
+
+# scripts/retinue/followers/blacksmith_follower.nut
+msgid "Mercenaries are good at getting arms and armor destroyed, but not at maintaining them. The Blacksmith will take care of this tedious task quickly and efficiently, and can mend even equipment otherwise thought lost."
+msgstr "雇佣兵擅长摧毁武器和盔甲，但不擅长维护它们。 铁匠 will take care of this tedious task quickly and efficiently, and can mend even equipment otherwise thought lost."
+
+
+# scripts/retinue/followers/minstrel_follower.nut
+msgid "A good song and story play a large part in creating the reputation of a company. The Minstrel is a master of these crafts and will help to spread the word about your deeds to all ears - willing to hear them or not."
+msgstr "一首好歌和一个好故事在创造一个战队的声誉方面起着很大的作用。 吟游诗人 is a master of these crafts and will help to spread the word about your deeds to all ears - willing to hear them or not."
+
+
+# scripts/retinue/followers/negotiator_follower.nut
+msgid "The Negotiator is home to noble courts and fancy halls, and not used to travelling with a band of sellswords with muddy boots, but he is an expert on traversing the mire of social relations and contract negotiations."
+msgstr "谈判者 is home to noble courts and fancy halls, and not used to travelling with a band of sellswords with muddy boots, but he is an expert on traversing the mire of social relations and contract negotiations."
+
+
+# scripts/retinue/followers/cartographer_follower.nut
+msgid "The Cartographer is a man of culture and knowledge, but he also realizes that traveling in the company of well-armed mercenaries is one of the best ways to safely see the world and explore places that few visited before."
+msgstr "制图师 is a man of culture and knowledge, but he also realizes that traveling in the company of well-armed mercenaries is one of the best ways to safely see the world and explore places that few visited before."
 
 

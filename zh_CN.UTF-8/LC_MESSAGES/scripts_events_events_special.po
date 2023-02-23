@@ -1,12 +1,44 @@
-# scripts/events/events/special/helped_caravan_event.nut
-msgid "After the battle..."
-msgstr "战斗之后…"
+# scripts/events/events/special/oathtakers_confrontation_event.nut
+msgid " and "
+msgstr ""
+
+
+# scripts/events/events/special/oathtakers_confrontation_event.nut
+msgid "Damnit!"
+msgstr "该死的！"
 
 
 # scripts/events/events/special/helped_caravan_event.nut
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "You gain "
 msgstr "你获得了 "
+
+
+# scripts/events/events/special/oathtakers_confrontation_event.nut
+msgid "You lose "
+msgstr "你失去了 "
+
+
+# scripts/events/events/special/ambition_fulfilled_event.nut
+msgid " Fulfilled"
+msgstr ""
+
+
+# scripts/events/events/special/desertion_event.nut
+msgid " leaves the "
+msgstr " 离开了 "
+
+
+# scripts/events/events/special/ambition_failed_event.nut
+# scripts/events/events/special/choose_ambition_event.nut
+msgid "During camp..."
+msgstr "露营时…"
+
+
+# scripts/events/events/special/dismiss_veteran_event.nut
+# scripts/events/events/special/dismiss_legend_event.nut
+msgid "You dismissed "
+msgstr ""
 
 
 # scripts/events/events/special/dismiss_injured_event.nut
@@ -20,60 +52,14 @@ msgid "Along the way..."
 msgstr "在途中…"
 
 
-# scripts/events/events/special/oathtakers_confrontation_event.nut
-msgid "Damnit!"
-msgstr "该死的！"
+# scripts/events/events/special/helped_caravan_event.nut
+msgid "After the battle..."
+msgstr "战斗之后…"
 
 
-# scripts/events/events/special/ambition_failed_event.nut
-# scripts/events/events/special/choose_ambition_event.nut
-msgid "During camp..."
-msgstr "露营时…"
-
-
-# scripts/events/events/special/ambition_fulfilled_event.nut
-msgid "Gained confidence in your leadership"
-msgstr "对你的领导有信心"
-
-
-# scripts/events/events/special/oathtakers_noble_contracts_event.nut
-msgid "Nobles will now give you contracts"
-msgstr "贵族现在会给你合同"
-
-
-# scripts/events/events/special/oathtakers_confrontation_event.nut
-msgid " and "
-msgstr ""
-
-
-# scripts/events/events/special/oathtakers_confrontation_event.nut
-msgid "You lose "
-msgstr "你失去了 "
-
-
-# scripts/events/events/special/ambition_failed_event.nut
-msgid "Lost confidence in your leadership"
-msgstr "对你的领导失去信心"
-
-
-# scripts/events/events/special/ambition_fulfilled_event.nut
-msgid "The company gained renown"
-msgstr "战队获得了声望"
-
-
-# scripts/events/events/special/desertion_event.nut
-msgid " leaves the "
-msgstr " 离开了 "
-
-
-# scripts/events/events/special/ambition_failed_event.nut
-msgid "{Not everything goes as planned. | Oh well. | The men will understand. | This won't stop the %companyname%. | The important thing is that we're moving forward. | New challenges await.}"
-msgstr "{并不是所有的事情都按照计划进行。 | 噢，好吧。 | 人们会理解的。 | 这不会阻止 %companyname%。 | 重要的是我们要继续前进。 | 新的挑战等着我们。}"
-
-
-# scripts/events/events/special/ambition_failed_event.nut
-msgid "[img]gfx/ui/events/event_64.png[/img]{%randombrother% grumbles.%SPEECH_ON%Giving up is not the way of this company, or at least I didn't think it was.%SPEECH_OFF%The men have been moping about today, cursing loudly about nothing and muttering into their drink. They are unhappy about the company not achieving the goal everyone agreed on.%SPEECH_ON%Certainly we could chase this task we set ourselves across the world and back, just as we could spend our days chasing butterflies, but if it cannot be done let's put this misfortune behind us and move on to what we do best: fighting, drinking, and spending our hard-earned coin!%SPEECH_OFF%%highestexperience_brother% encourages his brothers-in-arms. These words placate the men somewhat and you are relieved not to have a revolt on your hands. | As you walk around the tents of the camp, %randombrother% approaches to complain.%SPEECH_ON%I seem to recall signing up with a band of merciless fighting men. Men who let nothing stand in their path. Now the %companyname% feels more like a squad of tired children than an unstoppable force.%SPEECH_OFF%He pauses, bites his lips.%SPEECH_ON%Captain, sir, I mean.%SPEECH_OFF%You nod and continue on your way. Clearly, the man is upset about the company's inability to fulfill the goal you announced to the men not long ago. | Despite your best efforts, you failed in fulfilling your latest ambition on the company's path to greatness. Worse, the men are all keenly aware of it, and seem more put out by this failure than you are. Feet are dragging, heads hanging, and griping and discontent louder than usual.\n\nStill, the sun rises just the same, and to worry over one's failures is to waste time better spent on new opportunities. You know that the men of the %companyname% will ride out this setback and march on to greater glories. Or die in the attempt. | After much striving and effort, you are finally forced to give up on the ambition you chose for the %companyname% to pursue. A mercenary company must face many setbacks on the road to greatness, but this latest failure to follow through has been especially bitter for the men. It would be wise to secure a lucrative contract or provide some other distraction, perhaps the threat of imminent death, to distract them from their unhappiness. | After you tell the men that the company isn't going to be able to do what you so proudly announced it would accomplish, the men grow standoffish and moody. Like sulky children they turn away when you come near and whisper their complaints whenever your back is turned.%SPEECH_ON%How are we ever going to be famous if we don't finish what we started? I want to be known wherever we go, and have our drinks poured before we walk in the door.%SPEECH_OFF%}"
-msgstr "[img]gfx/ui/events/event_64.png[/img]{%randombrother% 抱怨。%SPEECH_ON%放弃从不是我们战队的作风，或者说至少我认为不是。%SPEECH_OFF%团中的人们今天一直闷闷不乐，一边喝酒一边不知道咒骂着什么。 他们对战队没有达到每个人都认同的目标而不高兴。%SPEECH_ON%当然我们可以一直追寻着这项我们设定的任务跑遍整个世界，就像我们花费一整天的时间抓蝴蝶一样，但是如果这件事完成不了就让我们将这件不幸的事情抛在我们的身后然后向前进做我们最擅长的事情：打架，喝酒，还有随意挥霍我们的血汗钱！%SPEECH_OFF%%highestexperience_brother% 鼓励着他手臂搭着的战友。 这些话语给了人们几分安抚，并且你也庆幸没有在你身边发生哗变。 | 正当你在营地帐篷旁边走动的时候，%randombrother% 接近你并抱怨。%SPEECH_ON%在我的记忆中和我签约的是一群无情的战士。 他们不会让任何东西阻挡他们前进的道路。 现在 %companyname% 让人感觉更像是一群累了的孩子而不是一股无法阻挡的力量。%SPEECH_OFF%他停顿了一下，咬着嘴唇。%SPEECH_ON%队长，我的意思是。%SPEECH_OFF%你点了点头并继续向前走着。 很明显，这个男人对于战队没能实现你不久前向他们宣布的目标感到沮丧。 | 尽管你尽了最大的努力，你还是没能在战队通往成功的道路上实现你们最近的目标。 更加糟糕的是，团队中的人们都敏锐地意识到了这一点，他们似乎比你更在意这次失败。 双脚拖着地，脑袋耷拉着，满腹牢骚，不满的声音比平时更大。\n\n尽管如此，太阳照常升起，把心思都用在担心之前的一场失败上就是在浪费时间不如用这些时间去追寻新的目标。 你知道 %companyname% 的战士们将会安然度过这次挫折并且走向更伟大的辉煌。 或者死在尝试的路上。 | 经过了许多的努力和尝试，你最终还是放弃了你为 %companyname% 所选择的目标。 一个雇佣兵战队在走向伟大的道路上必须面对许多挫折，但最近的一次失败对这些人来说尤其痛苦。 明智的做法是获得一份利润丰厚的合同或者提供一些其他分散注意力的东西，比如一次迫在眉睫的死亡威胁，用来分散他们的注意力。 | 当你告诉他们，战队不能做到你自豪的宣布的事情后，他们变得泠漠和喜怒无常。 当你走近他们时，他们像生气的孩子一样转过身去，当你转身时，他们又低声抱怨。%SPEECH_ON%如果我们不能完成我们开始的事情，我们要如何出名？ 无论我们走到哪里，我都想让别人知道我们，并且我想让所有地方在我们进门之前就帮我们把饮品倒上。%SPEECH_OFF%}"
+# scripts/events/events/special/helped_caravan_event.nut
+msgid "Glad to be of help."
+msgstr "很高兴能帮上忙。"
 
 
 # scripts/events/events/special/dismiss_injured_event.nut
@@ -83,80 +69,9 @@ msgid "They'll get over it."
 msgstr "他们会适应的。"
 
 
-# scripts/events/events/special/dismiss_injured_event.nut
-msgid "Lost confidence in the company's solidarity"
-msgstr "对战队的团结失去信心"
-
-
-# scripts/events/events/special/dismiss_injured_event.nut
-msgid "Afraid to be dismissed on account of his injury"
-msgstr "害怕因为他受到损伤而被解雇"
-
-
-# scripts/events/events/special/dismiss_injured_event.nut
-msgid "[img]gfx/ui/events/event_64.png[/img]%dismissed%'s injuries proved too much: the man didn't die, but in your mind he might as well have for he was no longer fit for combat. You let him go. While this may have been an altruistic move that spared the sellsword's life, the rest of the company doesn't see it the same way. All they see is that one injury is all it took for you to cut a man loose. Now they worry that if they get wounded you might do the same to them, like a selfish man ridding himself of a lame horse."
-msgstr "[img]gfx/ui/events/event_64.png[/img]%dismissed%的伤势实在太重了：那个人没有死，但是在你看来，他还是死了的好，因为他已经不适合战斗了。 你让他走了。 虽然这可能是一个拯救这个佣兵生命的举动，但战队的其他人不这么认为。 他们看到的是，你只因受了一次伤，就能够把一个人解雇掉。 现在她们担心，如果他们受伤了，你也会对他们做同样的事情，就像自私的人骑着瘸腿的马一样。"
-
-
-# scripts/events/events/special/dismiss_veteran_event.nut
-# scripts/events/events/special/dismiss_legend_event.nut
-msgid "You dismissed "
-msgstr ""
-
-
-# scripts/events/events/special/dismiss_veteran_event.nut
-msgid ", a veteran of the company"
-msgstr ""
-
-
-# scripts/events/events/special/dismiss_veteran_event.nut
-msgid "[img]gfx/ui/events/event_64.png[/img]It was a tough decision, but you had to cut %dismissed% loose. However, it appears you should have consulted the rest of the men first for none of them are happy with your choice. The mercenary had been in the company long enough to make friends, and even those who weren't close to him still felt as though his place on the battlefield ensured their own safety."
-msgstr "[img]gfx/ui/events/event_64.png[/img]这是一个艰难的决定，但是必须解雇 %dismissed%。 不管怎样，看起来你应该先和其他人商量一下，因为他们都不满意你的选择。 这个雇佣兵在团队中待的时间足够长足以交到很多朋友，就算那些不是和他很熟的人也感觉他在战场上的位置保证了他们的安全。"
-
-
-# scripts/events/events/special/ambition_fulfilled_event.nut
-msgid " Fulfilled"
-msgstr ""
-
-
 # scripts/events/events/special/ambition_fulfilled_event.nut
 msgid "An Ambition Fulfilled"
 msgstr "一个野心达成"
-
-
-# scripts/events/events/special/ambition_fulfilled_event.nut
-msgid "You went above and beyond in fulfilling the Oath"
-msgstr ""
-
-
-# scripts/events/events/special/oathtakers_noble_contracts_event.nut
-msgid "With this writ, even the nobles will give us work."
-msgstr "有这个令状，即使是贵族也会给我们工作。"
-
-
-# scripts/events/events/special/oathtakers_noble_contracts_event.nut
-msgid "[img]gfx/ui/events/event_63.png[/img]{The men come to you with a startling discovery: on the inside cup of Young Anselm's brainpan was a tiny, rolled up letter - and its wax stamp bears the mark of a nobleman's ring. With agreement amongst the men, you tear it open and give it a read. You find that Young Anselm himself was of high birth, and that he had a writ of Curia in Absentia - or in mercenary parlance, an allowance to enter noble courts. You look out at the men and say,%SPEECH_ON%Young Anselm has blessed us all once again!%SPEECH_OFF%While the sensibilities of deracinated sellswords would prevent such scapegraces from ever talking with nobles, much less profaning their delicate stone floors, Young Anselm's letter carries a unique marker: anyone who is in his company will also gain the selfsame access, that includes this world or the next. The men surmise that Young Anselm must have held quite the high station in the noble circles for this to be the case, and that he must also have held your lot in high regard to offer the power to you.%SPEECH_ON%But, uhmm, who put the scroll inside his head?%SPEECH_OFF%%randombrother% inquires. You and the men tell him to shut his mouth. There's no point in dwelling on the how's and what's and why's. This is clearly a miracle and yet another acknowledgment that the Oathtakers are on the right path.}"
-msgstr "[img]gfx/ui/events/event_63.png[/img]{那人给你带来了一个惊人的发现：在小安瑟姆的颅骨内侧有一封小小的，卷起来的信件－它的蜡封上有一枚贵族戒指印章的花纹。 在征得大家的同意后，你打开蜡封并且开始阅读。 你发现小安瑟姆出生血统高贵，并且他持有法庭的缺席令状－或者用佣兵的说法，就是进入贵族法庭的许可。 你看向大家并说，%SPEECH_ON%小安瑟姆又一次保佑了我们！%SPEECH_OFF%那些跟贵族交谈接任务的佣兵们多半成了被灭口的替罪羊，以免亵渎到贵族们圣洁的地板，但是小安瑟姆的信件上有一个独特的记号：这意味着整个队伍中的任何人都将得到一个完全相同的觐见贵族的渠道，而且这个渠道永久有效。 那人推测小安瑟姆一定在贵族圈子里有着很高的地位才能做到这些，并且推测小安瑟姆可能对你所做的一切评价甚高并且想要将他的力量赐予你。%SPEECH_ON%但是，嗯，是谁把卷轴放进他的脑袋里的？%SPEECH_OFF%%randombrother% 询问道。你和手下叫他闭嘴。 执着于弄清楚怎么了为什么如何办到等问题毫无意义。 这显然是一个奇迹，并且这也是又一个证明宣誓者走在正确道路上的明证。}"
-
-
-# scripts/events/events/special/helped_caravan_event.nut
-msgid "Glad to be of help."
-msgstr "很高兴能帮上忙。"
-
-
-# scripts/events/events/special/helped_caravan_event.nut
-msgid "[img]gfx/ui/events/event_60.png[/img]{The caravan's lead merchant comes to you with thanks for saving him. Naturally, he provides more than just words: a number of goods are given, some of which will be of use. | %SPEECH_ON%Thank you, traveler, thank you!%SPEECH_OFF%The caravan's merchant master clasps his hands and shakes them up and down as though to thank you and the old gods alike. He also says thanks with material goods, providing the %companyname% with an assortment of rewards straight off the wagons. | It is rare for strangers in this world to see one another in good grace, but even a wily merchant understands that if he is saved from total annihilation then perhaps he best reward his saviors. The caravan lightens its load by rewarding you with a number of goods. | Had you not arrived this caravan surely would have met doom. It rewards you properly for your impromptu 'services.' | %SPEECH_ON%Oh by any higher power which may or may not exist to you, but whatever it is, it now reigns over me!%SPEECH_OFF%The merchant is clearly in shock. And, like any disturbed peddler, he immediately goes to the one thing he knows how to do.%SPEECH_ON%Look, we've goods to offer, how about these? Tokens of our gratitude, free of charge.%SPEECH_OFF% | Though the battle is over, the hysteria of the saved merchants is just as loud as the carnage which has just passed.%SPEECH_ON%Sellswords, sellswords! Our saviors!%SPEECH_OFF%Suddenly, you find the merchants swarming with goods as thanks for saving them.}"
-msgstr "[img]gfx/ui/events/event_60.png[/img]{商队的头领来到你跟前，感谢你救了他。 当然，他提供的远远超过语言文字：赠送了一些物品，其中一些是能派上用场的。 | %SPEECH_ON%谢谢你，旅行者，谢谢你！%SPEECH_OFF%商队的商人头领紧握双手，上下摇动着，好像要感谢你和古老的神一样。 他还用货品感谢你，给 %companyname% 提供各种各样直接从载重货车上拿下来的奖励。 | 在这个世界上，陌生人能彼此友善的相遇是稀有的，但即使是一个狡猾的商人也明白，如果他从彻底消失中悲拯救出来，那么他最好回报他的救主。 商队通过奖励你一些货物来减轻他的负载。 | 如果你没有来，这支商队肯定会遭殃。 这是对你及时的“服务”即兴的奖励。 | %SPEECH_ON%噢，以一种更高的力量，这种力量对你来说可能存在，也可能不存在，但不管它是什么，它现在支配着我！%SPEECH_OFF%商人显然处于震惊状态。 像任何一个不安的小贩一样，他会立刻去做他知道该怎么做的事情。%SPEECH_ON%瞧，我们有货可提供，这些怎么样？ 接受我们感激的谢礼，免费的。%SPEECH_OFF% | 尽管战斗已经结束，被拯救的商人们的歇斯底里还是和刚刚过去的大屠杀一样响亮。%SPEECH_ON%佣兵，佣兵！我们的救主！%SPEECH_OFF%突然间，你发现商人们都在感谢你的救援。}"
-
-
-# scripts/events/events/special/dismiss_legend_event.nut
-msgid ", a legend of the company"
-msgstr ""
-
-
-# scripts/events/events/special/dismiss_legend_event.nut
-msgid "[img]gfx/ui/events/event_64.png[/img]The man you let go wasn't just a part of the company: he was a legend. Many knew %dismissed%'s name, not just yourself and a few mercenaries, and having him leave is akin to firing a heroic general before a war-ending battle. The decision, naturally, does not go over well with the rest of the sellswords."
-msgstr "[img]gfx/ui/events/event_64.png[/img]这个你解雇的男人不只是战队的一个佣兵而已：他曾是一个传奇。 很多人都知道 %dismissed%的大名，不仅仅是你和一些雇佣兵知道，现在解雇他就如在战斗结束前解雇一个英勇的将军一样。 这个决定，很自然的，在其他佣兵之中反响不是很好。"
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
@@ -171,6 +86,21 @@ msgstr ""
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "You're still not ready!"
+msgstr ""
+
+
+# scripts/events/events/special/ambition_fulfilled_event.nut
+msgid "The company gained renown"
+msgstr "战队获得了声望"
+
+
+# scripts/events/events/special/dismiss_legend_event.nut
+msgid ", a legend of the company"
+msgstr ""
+
+
+# scripts/events/events/special/dismiss_veteran_event.nut
+msgid ", a veteran of the company"
 msgstr ""
 
 
@@ -194,9 +124,49 @@ msgid "The company lost to Oathbringers"
 msgstr ""
 
 
+# scripts/events/events/special/retinue_slot_event.nut
+msgid "I'll take a look at our retinue!"
+msgstr "去看看我们的随行人员吧！"
+
+
+# scripts/events/events/special/oathtakers_noble_contracts_event.nut
+msgid "Nobles will now give you contracts"
+msgstr "贵族现在会给你合同"
+
+
+# scripts/events/events/special/ambition_failed_event.nut
+msgid "Lost confidence in your leadership"
+msgstr "对你的领导失去信心"
+
+
+# scripts/events/events/special/ambition_fulfilled_event.nut
+msgid "Gained confidence in your leadership"
+msgstr "对你的领导有信心"
+
+
+# scripts/events/events/special/dismiss_injured_event.nut
+msgid "Lost confidence in the company's solidarity"
+msgstr "对战队的团结失去信心"
+
+
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid " stands ready to fight. Who shall join him?"
 msgstr " 随时准备战斗。 谁能加入他？"
+
+
+# scripts/events/events/special/dismiss_injured_event.nut
+msgid "Afraid to be dismissed on account of his injury"
+msgstr "害怕因为他受到损伤而被解雇"
+
+
+# scripts/events/events/special/ambition_fulfilled_event.nut
+msgid "You went above and beyond in fulfilling the Oath"
+msgstr ""
+
+
+# scripts/events/events/special/oathtakers_noble_contracts_event.nut
+msgid "With this writ, even the nobles will give us work."
+msgstr "有这个令状，即使是贵族也会给我们工作。"
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
@@ -229,14 +199,44 @@ msgid "[img]gfx/ui/events/event_180.png[/img]The Oathbringers stand before you, 
 msgstr "[img]gfx/ui/events/event_180.png[/img]誓者使者站在你面前，等待你挑选冠军。\n\n"
 
 
+# scripts/events/events/special/desertion_event.nut
+msgid "{I can hardly force him to remain with the company... | Bad news, indeed. | A momentary setback. | I can not let something like this happen again.}"
+msgstr "{很难强迫他留在战队… | 确实是个坏消息。 | 一时的挫折。 | 我不能让这样的事情再次发生。}"
+
+
+# scripts/events/events/special/ambition_failed_event.nut
+msgid "{Not everything goes as planned. | Oh well. | The men will understand. | This won't stop the %companyname%. | The important thing is that we're moving forward. | New challenges await.}"
+msgstr "{并不是所有的事情都按照计划进行。 | 噢，好吧。 | 人们会理解的。 | 这不会阻止 %companyname%。 | 重要的是我们要继续前进。 | 新的挑战等着我们。}"
+
+
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "[img]gfx/ui/events/event_180.png[/img]{The Oathbringers are back. One grins wildly as he steps forward.%SPEECH_ON%Shall we see through Young Anselm's visions, or will you drop trou and shit on divine providence once again, Oathtaker?%SPEECH_OFF%You look at your men and decide...}"
 msgstr "[img]gfx/ui/events/event_180.png[/img]{The Oathbringers are back. One grins wildly as he 走上前去。%SPEECH_ON%Shall we see through Young Anselm's visions, or will you drop trou and shit on divine providence once again, Oathtaker?%SPEECH_OFF%You look at your men and decide...}"
 
 
+# scripts/events/events/special/dismiss_legend_event.nut
+msgid "[img]gfx/ui/events/event_64.png[/img]The man you let go wasn't just a part of the company: he was a legend. Many knew %dismissed%'s name, not just yourself and a few mercenaries, and having him leave is akin to firing a heroic general before a war-ending battle. The decision, naturally, does not go over well with the rest of the sellswords."
+msgstr "[img]gfx/ui/events/event_64.png[/img]这个你解雇的男人不只是战队的一个佣兵而已：他曾是一个传奇。 很多人都知道 %dismissed%的大名，不仅仅是你和一些雇佣兵知道，现在解雇他就如在战斗结束前解雇一个英勇的将军一样。 这个决定，很自然的，在其他佣兵之中反响不是很好。"
+
+
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "[img]gfx/ui/events/event_180.png[/img]{The company is still not ready. You are worried that they will leave you entirely, infuriated as they are, but you'd rather they be pissed than flat dead in the ground. With the decision weighing on your heart, and the Oathbringers screaming insults into your ear, you have the company once again march from the fight.}"
 msgstr ""
+
+
+# scripts/events/events/special/dismiss_veteran_event.nut
+msgid "[img]gfx/ui/events/event_64.png[/img]It was a tough decision, but you had to cut %dismissed% loose. However, it appears you should have consulted the rest of the men first for none of them are happy with your choice. The mercenary had been in the company long enough to make friends, and even those who weren't close to him still felt as though his place on the battlefield ensured their own safety."
+msgstr "[img]gfx/ui/events/event_64.png[/img]这是一个艰难的决定，但是必须解雇 %dismissed%。 不管怎样，看起来你应该先和其他人商量一下，因为他们都不满意你的选择。 这个雇佣兵在团队中待的时间足够长足以交到很多朋友，就算那些不是和他很熟的人也感觉他在战场上的位置保证了他们的安全。"
+
+
+# scripts/events/events/special/dismiss_injured_event.nut
+msgid "[img]gfx/ui/events/event_64.png[/img]%dismissed%'s injuries proved too much: the man didn't die, but in your mind he might as well have for he was no longer fit for combat. You let him go. While this may have been an altruistic move that spared the sellsword's life, the rest of the company doesn't see it the same way. All they see is that one injury is all it took for you to cut a man loose. Now they worry that if they get wounded you might do the same to them, like a selfish man ridding himself of a lame horse."
+msgstr "[img]gfx/ui/events/event_64.png[/img]%dismissed%的伤势实在太重了：那个人没有死，但是在你看来，他还是死了的好，因为他已经不适合战斗了。 你让他走了。 虽然这可能是一个拯救这个佣兵生命的举动，但战队的其他人不这么认为。 他们看到的是，你只因受了一次伤，就能够把一个人解雇掉。 现在她们担心，如果他们受伤了，你也会对他们做同样的事情，就像自私的人骑着瘸腿的马一样。"
+
+
+# scripts/events/events/special/retinue_slot_event.nut
+msgid "[img]gfx/ui/events/event_26.png[/img]{The prestige and renown of the %companyname% is growing. Everywhere you go, people are looking to join - and not just sellswords, but followers who may be of other use! | With every battle your sellswords fight, the renown of the company grows. As this fame rises, more people, and not just sellswords, will be looking to join the %companyname%. Perhaps it is time the company takes on another follower? | Followers of the %companyname% need not just be fighters - it appears that with the company's growing renown and prestige there may be others willing to ride the coattails. Perhaps these tagalongs may be of great utility to the company, even if they are not contributing on the battlefield.}"
+msgstr "[img]gfx/ui/events/event_26.png[/img]{%companyname% 的威信和声望不断提高。 无论你去哪里，人们都渴望着加入你们－不仅仅是佣兵，也有其他用途的追随者！ | 随着佣兵们在每一场战役中的战斗，战队的声望都在不断提高。 因为名声的提高，更多人，不仅仅是佣兵，期待加入 %companyname%。也许该是战队该招下一个追随者的时候了？ | %companyname% 需要的下属不仅仅是战士－看来随着战队声望和威信的增长，会有其他人愿意搭顺风车。 也许这些跟随者对战队有很大的用处，即使它们在战场上没有贡献。}"
 
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
@@ -259,24 +259,14 @@ msgid "[img]gfx/ui/events/event_87.png[/img]{You stare in disbelief as your chos
 msgstr "[img]gfx/ui/events/event_87.png[/img]{你难以置信地看着你选择的战士被打倒在地。 你的大脑里飞快闪过一个念头想要干掉这个誓言使者，但是规矩就是规矩你不敢在一场公平决斗中违背小安瑟姆的誓言。 你看着一个誓言使者捡起小安瑟姆的下颌骨，把拇指插进下颚处，然后迅速地把这件圣物掰成两段。%SPEECH_ON%尽管我们赢了，甚至我们誓言使者都能看出来我们都有错误。 所以让分歧来解决分歧吧！ 我们立下的誓言失败了，并且环顾世界让我们在这个世界上找到真正的追随者…%SPEECH_OFF%那个誓言使者的目光从破碎的骨头间穿过盯着你，而他本人却因为已逝者的法令保护而使你徒呼奈何。%SPEECH_ON%只有小安瑟姆的指引得到了满足，他才能够被拼接成一个整体。%SPEECH_OFF%那个誓言使者转身离开。 你的心在不断闪过一个个念头想要在背后给他一刀，把小安瑟姆的遗体拼接完整，并且完成你的终极任务。 但这些念头最终还是全部烟消云散。 这么做会让你永受诅咒毁掉你最坚定的信念。 你只是看着那个誓言使者离开，你知道那个誓言和它所有的信徒也许终有一天能重现，但对于你来说已经是此生无望。}"
 
 
-# scripts/events/events/special/desertion_event.nut
-msgid "{I can hardly force him to remain with the company... | Bad news, indeed. | A momentary setback. | I can not let something like this happen again.}"
-msgstr "{很难强迫他留在战队… | 确实是个坏消息。 | 一时的挫折。 | 我不能让这样的事情再次发生。}"
+# scripts/events/events/special/oathtakers_noble_contracts_event.nut
+msgid "[img]gfx/ui/events/event_63.png[/img]{The men come to you with a startling discovery: on the inside cup of Young Anselm's brainpan was a tiny, rolled up letter - and its wax stamp bears the mark of a nobleman's ring. With agreement amongst the men, you tear it open and give it a read. You find that Young Anselm himself was of high birth, and that he had a writ of Curia in Absentia - or in mercenary parlance, an allowance to enter noble courts. You look out at the men and say,%SPEECH_ON%Young Anselm has blessed us all once again!%SPEECH_OFF%While the sensibilities of deracinated sellswords would prevent such scapegraces from ever talking with nobles, much less profaning their delicate stone floors, Young Anselm's letter carries a unique marker: anyone who is in his company will also gain the selfsame access, that includes this world or the next. The men surmise that Young Anselm must have held quite the high station in the noble circles for this to be the case, and that he must also have held your lot in high regard to offer the power to you.%SPEECH_ON%But, uhmm, who put the scroll inside his head?%SPEECH_OFF%%randombrother% inquires. You and the men tell him to shut his mouth. There's no point in dwelling on the how's and what's and why's. This is clearly a miracle and yet another acknowledgment that the Oathtakers are on the right path.}"
+msgstr "[img]gfx/ui/events/event_63.png[/img]{那人给你带来了一个惊人的发现：在小安瑟姆的颅骨内侧有一封小小的，卷起来的信件－它的蜡封上有一枚贵族戒指印章的花纹。 在征得大家的同意后，你打开蜡封并且开始阅读。 你发现小安瑟姆出生血统高贵，并且他持有法庭的缺席令状－或者用佣兵的说法，就是进入贵族法庭的许可。 你看向大家并说，%SPEECH_ON%小安瑟姆又一次保佑了我们！%SPEECH_OFF%那些跟贵族交谈接任务的佣兵们多半成了被灭口的替罪羊，以免亵渎到贵族们圣洁的地板，但是小安瑟姆的信件上有一个独特的记号：这意味着整个队伍中的任何人都将得到一个完全相同的觐见贵族的渠道，而且这个渠道永久有效。 那人推测小安瑟姆一定在贵族圈子里有着很高的地位才能做到这些，并且推测小安瑟姆可能对你所做的一切评价甚高并且想要将他的力量赐予你。%SPEECH_ON%但是，嗯，是谁把卷轴放进他的脑袋里的？%SPEECH_OFF%%randombrother% 询问道。你和手下叫他闭嘴。 执着于弄清楚怎么了为什么如何办到等问题毫无意义。 这显然是一个奇迹，并且这也是又一个证明宣誓者走在正确道路上的明证。}"
 
 
-# scripts/events/events/special/desertion_event.nut
-msgid "[img]gfx/ui/events/event_64.png[/img]{%desertedbrother% has deserted the %companyname%. When the days seem endless and the road longer, a different sort of quality is challenged in men. You've discovered that even those who are fearless in battle sometimes don't have the stamina for the hardships of the mercenary life. Then there are men who are both cowards and layabouts. You can only hope you don't waste too much coin on that sort before finding them out.\n\n%otherbrother% steps up to you.%SPEECH_ON%Never mind about %desertedbrother%, sir. Never liked the look of him. Without the %companyname% to take care of him, I wager in a fortnight's time he'll be swinging from the gibbet.%SPEECH_OFF% | Bellyaching is a time honored tradition among mercenaries, and among people in general, but you were quickly growing tired of %desertedbrother%'s endless complaints.\n\nIf the rations were stale, the beer too bitter, or the meat tough, he was the first to let you know about it, repeatedly. He would say the same regarding sore feet, bad weather, brittle shields, chafing armor, the caravan moving too slow, the caravan moving too fast, blunt blades, getting first watch, moldy bread, low pay, general boredom, and night owls keeping him awake after dark. This isn't the complete list of his grievances, but they are all you can recall at the moment.\n\n%desertedbrother%'s complaints are unfortunately the regular fare of the traveling mercenary troop, and mostly unavoidable. So you're not exactly surpised when you find %desertedbrother% has left for a less cumbersome life. | %desertedbrother% has not been putting his heart into racing towards certain death and crushing the enemy before him for several days now. Having missed him around camp today, you are told by the other men that he went to find firewood. Since this job doesn't typically take twelve hours, it seems %desertedbrother% has finally decided to take his discontent on the road and try his luck elsewhere. You doubt you'll see him again. | In your recent travels, the company has unfortunately faced a series of mishaps. This has hit %desertedbrother% harder than the others. He's been sleeping late, starting fights, and acting insubordinate. That is, when you can find him at all. None of this endears him to you or his comrades, and it didn't help matters when %otherbrother% chucked %desertedbrother%'s bedroll into the shallow ditch the brothers had been using for a latrine.\n\nIt is usually best to let the men vent their unhappiness, and since the company has been having a run of raw luck you've been tolerant. When this morning you found him gone, it wasn't much of a surprise. %desertedbrother% has deserted the %companyname%. | You are troubled to learn that %desertedbrother% seems to have disappeared during the night. After questioning the others and ensuring he hadn't simply stepped behind a nearby boulder to relieve his bowels, you call out a search. Thinking that perhaps %desertedbrother% had been taken by treachery, kidnapped for ransom, or fallen afoul of some beast, you and the brothers spent several hours searching the area and calling his name.\n\nThen %otherbrother% finally suggests that %desertedbrother% is not missing at all, but has deserted you all.%SPEECH_ON%He's been griping about the company lately, but I guess he hid it from you, sir, so he'd have a chance to slip away unseen.%SPEECH_OFF%Restraining the urge to give the bearer of bad news a solid box about the ears, you ask why he didn't come forward earlier, but the brother has no answer. | You never figured %desertedbrother% for the type to desert, but when the dawn comes and he's nowhere to be seen you realize you were being naive. On every march he had been falling farther and farther behind, and every time you gave the order to break camp, he was last to gather his gear and start walking. His equipment had also begun to look ratty. Though he kept his thoughts to himself, in retrospect his sour looks and disinterest in his comrades made it obvious he wasn't happy with the direction the company has been heading in lately.\n\nYou sound out the other men and discover discontent is on the rise generally. Keep the men well fed and watered like any beast, and make sure they get paid on time, and hopefully %desertedbrother% will be the last to flee in the night. | You do not know if it was the low pay, the threat of dismemberment, the forced marches in icy rain, the foul language and coarse food, the abuse at the hands of his brothers, the small children throwing stones, the cold wind or the sleepless nights, but %desertedbrother% has grown more and more unhappy this last while until apparently he gave up on the mercenary life altogether.%SPEECH_ON%Don't know what he has to complain about. Everything seems right normal to me.%SPEECH_OFF%%otherbrother% says when hearing about the whole thing. %desertedbrother% has chosen the open road over the %companyname%. At least he had the decency to tell you in person that he decided to leave - although, thinking about it, perhaps it was just to collect his remaining pay in person. | Lately, %desertedbrother% had begun to take long walks in the evening when the day's work was done. Though his habit of wandering off alone wasn't exactly safe, you could think of no reason to stop him when he wasn't needed in camp. However, the more hardships the company faced, the longer these walks became, until one morning %desertedbrother% did not return at all.\n\n%desertedbrother% has deserted the %companyname%. It's probably for the best. | %desertedbrother% has been especially moody of late, spending all his off hours fondling an old throwing knife, a blade in such poor condition it more closely resembled a bit of scrap iron than a proper weapon. He spent the previous evening throwing it at the bole of a dead tree, each time rising with a groan to retrieve it and walking back several yards to squat down and throw it again, well into the night.\n\nClearly he was unhappy with the recent setbacks the company has faced, at this morning he mustered the courage to enter your tent and explain that he'll be leaving the company to seek his fortune elsewhere.}"
-msgstr "[img]gfx/ui/events/event_64.png[/img]{%desertedbrother% 已经抛弃了 %companyname%。当白天似乎没有尽头，道路似乎更长时，人的另一种品质就会受到挑战。 你已经发现，即使是那些在战斗中无所畏惧的人，有时也没有足够的毅力来忍受雇佣兵生活的艰辛。 还有一些人既胆小又懒惰。 我只能希望你在找到他们之前不要浪费太多的硬币。\n\n%otherbrother% 走近你。%SPEECH_ON%对于 %desertedbrother% 我一点都不介意，先生。 我本来就不喜欢他的样子。 没有 %companyname% 照顾他，我敢打赌两周后他就会被绞死。%SPEECH_OFF% | 发牢骚在雇佣兵中是一种由来已久的传统，在一般人当中也是如此，但你很快就厌倦了 %desertedbrother%的抱怨。\n\n如果口粮变质了，啤酒太苦了，或者肉太硬了，他总是第一个让你知道的，而且一遍又一遍地告诉你。 对于脚疼、天气不好、盾牌易碎、盔甲擦伤、商队走得太慢、商队走得太快、刀刃钝了、第一次值勤、面包发霉、工资低、感到无聊，以及夜莺在天黑后让他无法入睡，他也会说。 这还不是他所有的抱怨，但你现在能回忆起的就只有这些了。\n\n%desertedbrother%的抱怨是雇佣兵部队旅行的家常便饭，而且几乎是不可避免的。 所以当你发现 %desertedbrother% 已经离开去过一种不这么麻烦的生活时你并没有感到惊讶。 | %desertedbrother% 已经有好几天没有一心扑向死亡，粉碎他面前的敌人了。 今天在营地附近找不到他，别人告诉你他去找柴火了。 由于捡柴火通常不需要12个小时，看来 %desertedbrother% 终于决定把他的不满带到路上，到别处碰碰运气了。 你怀疑能不能再见到他。 | 在你们最近的旅行当中战队遭遇了一系列的不幸。 这对 %desertedbrother% 的打击比其他人的都大。 他现在睡得很晚，开始打架，表现得不听话。 也就是说，当你能找到他的任何时候。 这一切都不讨你或者他的战友们的欢心，而当 %otherbrother% 把 %desertedbrother%的铺盖扔进团里用来上厕所的浅沟的时候事情就更糟糕了。\n\n让人们发泄他们的不满通常是最好的办法，既然战队最近一直运气不好，你也就宽容了。 今天早上你发现他走了，这并不奇怪。%desertedbrother% 已经离开了 %companyname%。 | 当你得知 %desertedbrother% 似乎在夜里失踪时，你感到很不安。 在询问了其他人并确定他不是简单地走到附近的一块大石头后面去方便之后，你发起了一场搜查。 你和兄弟们以为 %desertedbrother% 可能是被叛国者绑架，被绑架者勒索，或是与某个野兽作对，就花了几个小时搜索这个地区，呼喊着他的名字。\n\n这时 %otherbrother% 终于表示 %desertedbrother% 根本就没失踪，而是已经抛弃了你们所有人离开了。%SPEECH_ON%他最近一直在抱怨战队的事，但我想他是瞒着你说的，先生，这样他就有机会偷偷溜走了。%SPEECH_OFF%你抑制住了想给坏消息传递者一记耳光的冲动，问他为什么不早点说出来，但他没有回答。 | 你从来没有想过 %desertedbrother% 是会叛逃的人，但是当黎明来临的时候，他却不见了，你意识到你太天真了。 每一次行军他都落在后面越来越远的地方，每次你命令他出发他总是最后一个收拾好装备才走。 他的装备也开始显得破烂不堪。 尽管他把自己的想法藏在心里，但回想起来，他那副酸楚的表情和对战友们的漠不关心，显然表明他对战队最近的发展方向并不满意。\n\n你开始试探其他人，发现不满情绪在普遍上升。 让这些人像野兽一样吃好、喝好，确保他们按时得到报酬，希望 %desertedbrother% 会是在夜里最后一个逃跑的人。 | 你不知道是因为工资低，差点残疾的危机还是在冰冷的雨中被迫行军或者人们粗鄙的语言和粗劣难以入口食物，他战友们的虐待，孩子们冲他扔的石头，凌冽的寒风，还是一个又一个不眠之夜，但 %desertedbrother% 在最后这段时间变得越来越不快乐，直到他明显地完全放弃了雇佣兵生涯。%SPEECH_ON%我不知道他有什么可抱怨的。 我觉得一切都很正常。%SPEECH_OFF%%otherbrother% 听到这件事情后说。%desertedbrother% 选择了其他道路，而不是 %companyname%。至少他很有礼貌的当面告诉你他决定离开－尽管，考虑到这一点，也许只是为了当面收回他剩余的工资。 | 最近，%desertedbrother% 开始在白天的工作结束后的晚上散步。 虽然他独自游荡的习惯并不十分安全，但你想不出任何理由在营地不需要他的时候阻止他。 然而，战队面临的困难越多，他们走的路就越长，直到有一天早上 %desertedbrother% 再也没有回来。\n\n%desertedbrother% 已离开 %companyname%。这可能是最好的结果吧。 | %desertedbrother% 最近特别喜怒无常，他把所有的空闲时间都花在摆弄一把旧的飞刀上，一把状况很差的刀，它更像是一块废铁，而不是一件合适的武器。 前一天晚上，他把它扔向一棵枯树的树干上，每次起身时都唉声叹气着把它捡起来，然后走回几码远的地方蹲下来，再把它扔回去，一直扔到深夜。\n\n显然，他对战队最近遇到的挫折很不高兴，今天早上，他鼓足勇气走进你的帐篷，向你解释说，他将离开战队到别处去寻找他的财富。}"
-
-
-# scripts/events/events/special/retinue_slot_event.nut
-msgid "I'll take a look at our retinue!"
-msgstr "去看看我们的随行人员吧！"
-
-
-# scripts/events/events/special/retinue_slot_event.nut
-msgid "[img]gfx/ui/events/event_26.png[/img]{The prestige and renown of the %companyname% is growing. Everywhere you go, people are looking to join - and not just sellswords, but followers who may be of other use! | With every battle your sellswords fight, the renown of the company grows. As this fame rises, more people, and not just sellswords, will be looking to join the %companyname%. Perhaps it is time the company takes on another follower? | Followers of the %companyname% need not just be fighters - it appears that with the company's growing renown and prestige there may be others willing to ride the coattails. Perhaps these tagalongs may be of great utility to the company, even if they are not contributing on the battlefield.}"
-msgstr "[img]gfx/ui/events/event_26.png[/img]{%companyname% 的威信和声望不断提高。 无论你去哪里，人们都渴望着加入你们－不仅仅是佣兵，也有其他用途的追随者！ | 随着佣兵们在每一场战役中的战斗，战队的声望都在不断提高。 因为名声的提高，更多人，不仅仅是佣兵，期待加入 %companyname%。也许该是战队该招下一个追随者的时候了？ | %companyname% 需要的下属不仅仅是战士－看来随着战队声望和威信的增长，会有其他人愿意搭顺风车。 也许这些跟随者对战队有很大的用处，即使它们在战场上没有贡献。}"
+# scripts/events/events/special/helped_caravan_event.nut
+msgid "[img]gfx/ui/events/event_60.png[/img]{The caravan's lead merchant comes to you with thanks for saving him. Naturally, he provides more than just words: a number of goods are given, some of which will be of use. | %SPEECH_ON%Thank you, traveler, thank you!%SPEECH_OFF%The caravan's merchant master clasps his hands and shakes them up and down as though to thank you and the old gods alike. He also says thanks with material goods, providing the %companyname% with an assortment of rewards straight off the wagons. | It is rare for strangers in this world to see one another in good grace, but even a wily merchant understands that if he is saved from total annihilation then perhaps he best reward his saviors. The caravan lightens its load by rewarding you with a number of goods. | Had you not arrived this caravan surely would have met doom. It rewards you properly for your impromptu 'services.' | %SPEECH_ON%Oh by any higher power which may or may not exist to you, but whatever it is, it now reigns over me!%SPEECH_OFF%The merchant is clearly in shock. And, like any disturbed peddler, he immediately goes to the one thing he knows how to do.%SPEECH_ON%Look, we've goods to offer, how about these? Tokens of our gratitude, free of charge.%SPEECH_OFF% | Though the battle is over, the hysteria of the saved merchants is just as loud as the carnage which has just passed.%SPEECH_ON%Sellswords, sellswords! Our saviors!%SPEECH_OFF%Suddenly, you find the merchants swarming with goods as thanks for saving them.}"
+msgstr "[img]gfx/ui/events/event_60.png[/img]{商队的头领来到你跟前，感谢你救了他。 当然，他提供的远远超过语言文字：赠送了一些物品，其中一些是能派上用场的。 | %SPEECH_ON%谢谢你，旅行者，谢谢你！%SPEECH_OFF%商队的商人头领紧握双手，上下摇动着，好像要感谢你和古老的神一样。 他还用货品感谢你，给 %companyname% 提供各种各样直接从载重货车上拿下来的奖励。 | 在这个世界上，陌生人能彼此友善的相遇是稀有的，但即使是一个狡猾的商人也明白，如果他从彻底消失中悲拯救出来，那么他最好回报他的救主。 商队通过奖励你一些货物来减轻他的负载。 | 如果你没有来，这支商队肯定会遭殃。 这是对你及时的“服务”即兴的奖励。 | %SPEECH_ON%噢，以一种更高的力量，这种力量对你来说可能存在，也可能不存在，但不管它是什么，它现在支配着我！%SPEECH_OFF%商人显然处于震惊状态。 像任何一个不安的小贩一样，他会立刻去做他知道该怎么做的事情。%SPEECH_ON%瞧，我们有货可提供，这些怎么样？ 接受我们感激的谢礼，免费的。%SPEECH_OFF% | 尽管战斗已经结束，被拯救的商人们的歇斯底里还是和刚刚过去的大屠杀一样响亮。%SPEECH_ON%佣兵，佣兵！我们的救主！%SPEECH_OFF%突然间，你发现商人们都在感谢你的救援。}"
 
 
 # scripts/events/events/special/choose_ambition_event.nut
@@ -287,5 +277,15 @@ msgstr "[img]gfx/ui/events/event_58.png[/img]{今天清风习习，你觉得今�
 # scripts/events/events/special/choose_ambition_event.nut
 msgid "[img]gfx/ui/events/event_183.png[/img]{The past few days have been spent mulling over which of Young Anselm's beloved Oaths to take on. You feel it in your blood and bones that the right choice is... | Days have come and gone, and in the nights you have mostly sat alone, pondering. But you're not always alone. In moments of introspection the Oathtaker Young Anselm arrives, handing you purpose and duty, and this past evening he made it clear to you that the %companyname%'s next Oath should be... | Between battles internal and out, there remains one eternal war in that of following Young Anselm's Oaths. In these trials you must sequester yourself, thinking deeply and alone, until finally, it comes to you! The %companyname%'s next Oath is most surely... | Sitting alone in thought isn't just a physical task. You must clear your mind of all obstruction and distraction, cutting away every element until you are left to darkness in its purest state, where mere glimmers can become divinations, brightly standing amidst all that which is black. And there it is, coming to you in an instant, truth effervescent in its shimmering clarity, held out to you by the glow of Young Anselm's hand! The truth of your purpose, and the %companyname%'s future, it must undertake but one Oath... | Some Oathtakers take to silence, others to songs and ballads. You yourself stand in much quiet, though the noise of the %companyname%'s doings murmur from the campgrounds. If you are to seek out Young Anselm's guidance, then surely he needs to know that you don't come alone. As you start to think the Oathtaker is not going to show up, a thought flashes across your mind. The purpose and mission of the %companyname% is now clearer than ever. In an instant, Young Anselm's auguries come to your mind and you know that the company shall undertake but one Oath... | The %companyname% would be despondent without purpose. Sensing their needs, you retire yourself to a quiet spot and sit and clear your mind. Young Anselm never allowed himself distractions and you think this will work in your favor just as well. As time begins to pass, a thought nestles within your mind. You trust it to be flighty and will soon go, but instead it only grows and grows, until finally you are made to realize it is a kernel of Young Anselm's guidance. And that guidance says only one thing, that the %companyname%'s Oath should be...}"
 msgstr "[img]gfx/ui/events/event_183.png[/img]{在过去的几天里，我们一直在思考小安瑟姆的誓言中该选哪一个。 你能从骨子里感觉到正确的选择是… | 白昼来了又去，在夜晚，你大多独自坐着沉思。 但你并不总是孤独的。 正当你自省的时候，宣誓者小安瑟姆来了，他给了你目的和责任，在刚刚过去的这个晚上，他明确地告诉你，%companyname%的下一个誓言应该是… | 在内部和外部的斗争中，有一场永恒的战争，那就是遵循小安瑟姆的誓言。 在这些考验中，你必须把自己隔离起来，独自思考，直到最后，它来到你身边！ %companyname%的下一个誓言无疑是… | 独自坐着思考不仅仅是一项体力工作。 你必须清除你头脑中所有的阻碍和干扰，去除每一个元素，直到你处于最纯粹的黑暗状态，在那里，微弱的微光可以成为占卜，明亮地屹立在黑暗之中。 它就在那里，顷刻之间向你走来，在小安瑟姆的手的光芒中，真理在它闪烁的明澈中沸腾！ 你的真实目的，以及 %companyname%的未来，它必须承诺一个誓言… | 一些宣誓者喜欢沉默，另一些人喜欢唱歌和民谣。 你自己静静地站在那里，尽管营地里传来了 %companyname%的嘈杂声。 如果你想寻求小安瑟姆的指导，那么他肯定需要知道你不是一个人来的。 当你开始认为宣誓者不会出现时，一个想法闪过你的脑海。 %companyname% 的目的和使命现在比以往任何时候都更加明确。 瞬间，小安瑟姆的预言浮现在你的脑海中，你知道战队只会承诺一个誓言… | %companyname% 会因为没有目标而沮丧。 感觉到他们的需求，你会让自己安静下来，坐下来理清思绪。 小安瑟姆从不让自己分心你觉得这对你也有好处。 随着时间的流逝，一个想法萦绕在你的脑海中。 你相信它是轻浮的，很快就会消失，但相反，它只会不断成长，直到你最终意识到它是小安瑟姆指引的核心。 而且那个指引只说了一件事，%companyname%的誓言应该是…}"
+
+
+# scripts/events/events/special/ambition_failed_event.nut
+msgid "[img]gfx/ui/events/event_64.png[/img]{%randombrother% grumbles.%SPEECH_ON%Giving up is not the way of this company, or at least I didn't think it was.%SPEECH_OFF%The men have been moping about today, cursing loudly about nothing and muttering into their drink. They are unhappy about the company not achieving the goal everyone agreed on.%SPEECH_ON%Certainly we could chase this task we set ourselves across the world and back, just as we could spend our days chasing butterflies, but if it cannot be done let's put this misfortune behind us and move on to what we do best: fighting, drinking, and spending our hard-earned coin!%SPEECH_OFF%%highestexperience_brother% encourages his brothers-in-arms. These words placate the men somewhat and you are relieved not to have a revolt on your hands. | As you walk around the tents of the camp, %randombrother% approaches to complain.%SPEECH_ON%I seem to recall signing up with a band of merciless fighting men. Men who let nothing stand in their path. Now the %companyname% feels more like a squad of tired children than an unstoppable force.%SPEECH_OFF%He pauses, bites his lips.%SPEECH_ON%Captain, sir, I mean.%SPEECH_OFF%You nod and continue on your way. Clearly, the man is upset about the company's inability to fulfill the goal you announced to the men not long ago. | Despite your best efforts, you failed in fulfilling your latest ambition on the company's path to greatness. Worse, the men are all keenly aware of it, and seem more put out by this failure than you are. Feet are dragging, heads hanging, and griping and discontent louder than usual.\n\nStill, the sun rises just the same, and to worry over one's failures is to waste time better spent on new opportunities. You know that the men of the %companyname% will ride out this setback and march on to greater glories. Or die in the attempt. | After much striving and effort, you are finally forced to give up on the ambition you chose for the %companyname% to pursue. A mercenary company must face many setbacks on the road to greatness, but this latest failure to follow through has been especially bitter for the men. It would be wise to secure a lucrative contract or provide some other distraction, perhaps the threat of imminent death, to distract them from their unhappiness. | After you tell the men that the company isn't going to be able to do what you so proudly announced it would accomplish, the men grow standoffish and moody. Like sulky children they turn away when you come near and whisper their complaints whenever your back is turned.%SPEECH_ON%How are we ever going to be famous if we don't finish what we started? I want to be known wherever we go, and have our drinks poured before we walk in the door.%SPEECH_OFF%}"
+msgstr "[img]gfx/ui/events/event_64.png[/img]{%randombrother% 抱怨。%SPEECH_ON%放弃从不是我们战队的作风，或者说至少我认为不是。%SPEECH_OFF%团中的人们今天一直闷闷不乐，一边喝酒一边不知道咒骂着什么。 他们对战队没有达到每个人都认同的目标而不高兴。%SPEECH_ON%当然我们可以一直追寻着这项我们设定的任务跑遍整个世界，就像我们花费一整天的时间抓蝴蝶一样，但是如果这件事完成不了就让我们将这件不幸的事情抛在我们的身后然后向前进做我们最擅长的事情：打架，喝酒，还有随意挥霍我们的血汗钱！%SPEECH_OFF%%highestexperience_brother% 鼓励着他手臂搭着的战友。 这些话语给了人们几分安抚，并且你也庆幸没有在你身边发生哗变。 | 正当你在营地帐篷旁边走动的时候，%randombrother% 接近你并抱怨。%SPEECH_ON%在我的记忆中和我签约的是一群无情的战士。 他们不会让任何东西阻挡他们前进的道路。 现在 %companyname% 让人感觉更像是一群累了的孩子而不是一股无法阻挡的力量。%SPEECH_OFF%他停顿了一下，咬着嘴唇。%SPEECH_ON%队长，我的意思是。%SPEECH_OFF%你点了点头并继续向前走着。 很明显，这个男人对于战队没能实现你不久前向他们宣布的目标感到沮丧。 | 尽管你尽了最大的努力，你还是没能在战队通往成功的道路上实现你们最近的目标。 更加糟糕的是，团队中的人们都敏锐地意识到了这一点，他们似乎比你更在意这次失败。 双脚拖着地，脑袋耷拉着，满腹牢骚，不满的声音比平时更大。\n\n尽管如此，太阳照常升起，把心思都用在担心之前的一场失败上就是在浪费时间不如用这些时间去追寻新的目标。 你知道 %companyname% 的战士们将会安然度过这次挫折并且走向更伟大的辉煌。 或者死在尝试的路上。 | 经过了许多的努力和尝试，你最终还是放弃了你为 %companyname% 所选择的目标。 一个雇佣兵战队在走向伟大的道路上必须面对许多挫折，但最近的一次失败对这些人来说尤其痛苦。 明智的做法是获得一份利润丰厚的合同或者提供一些其他分散注意力的东西，比如一次迫在眉睫的死亡威胁，用来分散他们的注意力。 | 当你告诉他们，战队不能做到你自豪的宣布的事情后，他们变得泠漠和喜怒无常。 当你走近他们时，他们像生气的孩子一样转过身去，当你转身时，他们又低声抱怨。%SPEECH_ON%如果我们不能完成我们开始的事情，我们要如何出名？ 无论我们走到哪里，我都想让别人知道我们，并且我想让所有地方在我们进门之前就帮我们把饮品倒上。%SPEECH_OFF%}"
+
+
+# scripts/events/events/special/desertion_event.nut
+msgid "[img]gfx/ui/events/event_64.png[/img]{%desertedbrother% has deserted the %companyname%. When the days seem endless and the road longer, a different sort of quality is challenged in men. You've discovered that even those who are fearless in battle sometimes don't have the stamina for the hardships of the mercenary life. Then there are men who are both cowards and layabouts. You can only hope you don't waste too much coin on that sort before finding them out.\n\n%otherbrother% steps up to you.%SPEECH_ON%Never mind about %desertedbrother%, sir. Never liked the look of him. Without the %companyname% to take care of him, I wager in a fortnight's time he'll be swinging from the gibbet.%SPEECH_OFF% | Bellyaching is a time honored tradition among mercenaries, and among people in general, but you were quickly growing tired of %desertedbrother%'s endless complaints.\n\nIf the rations were stale, the beer too bitter, or the meat tough, he was the first to let you know about it, repeatedly. He would say the same regarding sore feet, bad weather, brittle shields, chafing armor, the caravan moving too slow, the caravan moving too fast, blunt blades, getting first watch, moldy bread, low pay, general boredom, and night owls keeping him awake after dark. This isn't the complete list of his grievances, but they are all you can recall at the moment.\n\n%desertedbrother%'s complaints are unfortunately the regular fare of the traveling mercenary troop, and mostly unavoidable. So you're not exactly surpised when you find %desertedbrother% has left for a less cumbersome life. | %desertedbrother% has not been putting his heart into racing towards certain death and crushing the enemy before him for several days now. Having missed him around camp today, you are told by the other men that he went to find firewood. Since this job doesn't typically take twelve hours, it seems %desertedbrother% has finally decided to take his discontent on the road and try his luck elsewhere. You doubt you'll see him again. | In your recent travels, the company has unfortunately faced a series of mishaps. This has hit %desertedbrother% harder than the others. He's been sleeping late, starting fights, and acting insubordinate. That is, when you can find him at all. None of this endears him to you or his comrades, and it didn't help matters when %otherbrother% chucked %desertedbrother%'s bedroll into the shallow ditch the brothers had been using for a latrine.\n\nIt is usually best to let the men vent their unhappiness, and since the company has been having a run of raw luck you've been tolerant. When this morning you found him gone, it wasn't much of a surprise. %desertedbrother% has deserted the %companyname%. | You are troubled to learn that %desertedbrother% seems to have disappeared during the night. After questioning the others and ensuring he hadn't simply stepped behind a nearby boulder to relieve his bowels, you call out a search. Thinking that perhaps %desertedbrother% had been taken by treachery, kidnapped for ransom, or fallen afoul of some beast, you and the brothers spent several hours searching the area and calling his name.\n\nThen %otherbrother% finally suggests that %desertedbrother% is not missing at all, but has deserted you all.%SPEECH_ON%He's been griping about the company lately, but I guess he hid it from you, sir, so he'd have a chance to slip away unseen.%SPEECH_OFF%Restraining the urge to give the bearer of bad news a solid box about the ears, you ask why he didn't come forward earlier, but the brother has no answer. | You never figured %desertedbrother% for the type to desert, but when the dawn comes and he's nowhere to be seen you realize you were being naive. On every march he had been falling farther and farther behind, and every time you gave the order to break camp, he was last to gather his gear and start walking. His equipment had also begun to look ratty. Though he kept his thoughts to himself, in retrospect his sour looks and disinterest in his comrades made it obvious he wasn't happy with the direction the company has been heading in lately.\n\nYou sound out the other men and discover discontent is on the rise generally. Keep the men well fed and watered like any beast, and make sure they get paid on time, and hopefully %desertedbrother% will be the last to flee in the night. | You do not know if it was the low pay, the threat of dismemberment, the forced marches in icy rain, the foul language and coarse food, the abuse at the hands of his brothers, the small children throwing stones, the cold wind or the sleepless nights, but %desertedbrother% has grown more and more unhappy this last while until apparently he gave up on the mercenary life altogether.%SPEECH_ON%Don't know what he has to complain about. Everything seems right normal to me.%SPEECH_OFF%%otherbrother% says when hearing about the whole thing. %desertedbrother% has chosen the open road over the %companyname%. At least he had the decency to tell you in person that he decided to leave - although, thinking about it, perhaps it was just to collect his remaining pay in person. | Lately, %desertedbrother% had begun to take long walks in the evening when the day's work was done. Though his habit of wandering off alone wasn't exactly safe, you could think of no reason to stop him when he wasn't needed in camp. However, the more hardships the company faced, the longer these walks became, until one morning %desertedbrother% did not return at all.\n\n%desertedbrother% has deserted the %companyname%. It's probably for the best. | %desertedbrother% has been especially moody of late, spending all his off hours fondling an old throwing knife, a blade in such poor condition it more closely resembled a bit of scrap iron than a proper weapon. He spent the previous evening throwing it at the bole of a dead tree, each time rising with a groan to retrieve it and walking back several yards to squat down and throw it again, well into the night.\n\nClearly he was unhappy with the recent setbacks the company has faced, at this morning he mustered the courage to enter your tent and explain that he'll be leaving the company to seek his fortune elsewhere.}"
+msgstr "[img]gfx/ui/events/event_64.png[/img]{%desertedbrother% 已经抛弃了 %companyname%。当白天似乎没有尽头，道路似乎更长时，人的另一种品质就会受到挑战。 你已经发现，即使是那些在战斗中无所畏惧的人，有时也没有足够的毅力来忍受雇佣兵生活的艰辛。 还有一些人既胆小又懒惰。 我只能希望你在找到他们之前不要浪费太多的硬币。\n\n%otherbrother% 走近你。%SPEECH_ON%对于 %desertedbrother% 我一点都不介意，先生。 我本来就不喜欢他的样子。 没有 %companyname% 照顾他，我敢打赌两周后他就会被绞死。%SPEECH_OFF% | 发牢骚在雇佣兵中是一种由来已久的传统，在一般人当中也是如此，但你很快就厌倦了 %desertedbrother%的抱怨。\n\n如果口粮变质了，啤酒太苦了，或者肉太硬了，他总是第一个让你知道的，而且一遍又一遍地告诉你。 对于脚疼、天气不好、盾牌易碎、盔甲擦伤、商队走得太慢、商队走得太快、刀刃钝了、第一次值勤、面包发霉、工资低、感到无聊，以及夜莺在天黑后让他无法入睡，他也会说。 这还不是他所有的抱怨，但你现在能回忆起的就只有这些了。\n\n%desertedbrother%的抱怨是雇佣兵部队旅行的家常便饭，而且几乎是不可避免的。 所以当你发现 %desertedbrother% 已经离开去过一种不这么麻烦的生活时你并没有感到惊讶。 | %desertedbrother% 已经有好几天没有一心扑向死亡，粉碎他面前的敌人了。 今天在营地附近找不到他，别人告诉你他去找柴火了。 由于捡柴火通常不需要12个小时，看来 %desertedbrother% 终于决定把他的不满带到路上，到别处碰碰运气了。 你怀疑能不能再见到他。 | 在你们最近的旅行当中战队遭遇了一系列的不幸。 这对 %desertedbrother% 的打击比其他人的都大。 他现在睡得很晚，开始打架，表现得不听话。 也就是说，当你能找到他的任何时候。 这一切都不讨你或者他的战友们的欢心，而当 %otherbrother% 把 %desertedbrother%的铺盖扔进团里用来上厕所的浅沟的时候事情就更糟糕了。\n\n让人们发泄他们的不满通常是最好的办法，既然战队最近一直运气不好，你也就宽容了。 今天早上你发现他走了，这并不奇怪。%desertedbrother% 已经离开了 %companyname%。 | 当你得知 %desertedbrother% 似乎在夜里失踪时，你感到很不安。 在询问了其他人并确定他不是简单地走到附近的一块大石头后面去方便之后，你发起了一场搜查。 你和兄弟们以为 %desertedbrother% 可能是被叛国者绑架，被绑架者勒索，或是与某个野兽作对，就花了几个小时搜索这个地区，呼喊着他的名字。\n\n这时 %otherbrother% 终于表示 %desertedbrother% 根本就没失踪，而是已经抛弃了你们所有人离开了。%SPEECH_ON%他最近一直在抱怨战队的事，但我想他是瞒着你说的，先生，这样他就有机会偷偷溜走了。%SPEECH_OFF%你抑制住了想给坏消息传递者一记耳光的冲动，问他为什么不早点说出来，但他没有回答。 | 你从来没有想过 %desertedbrother% 是会叛逃的人，但是当黎明来临的时候，他却不见了，你意识到你太天真了。 每一次行军他都落在后面越来越远的地方，每次你命令他出发他总是最后一个收拾好装备才走。 他的装备也开始显得破烂不堪。 尽管他把自己的想法藏在心里，但回想起来，他那副酸楚的表情和对战友们的漠不关心，显然表明他对战队最近的发展方向并不满意。\n\n你开始试探其他人，发现不满情绪在普遍上升。 让这些人像野兽一样吃好、喝好，确保他们按时得到报酬，希望 %desertedbrother% 会是在夜里最后一个逃跑的人。 | 你不知道是因为工资低，差点残疾的危机还是在冰冷的雨中被迫行军或者人们粗鄙的语言和粗劣难以入口食物，他战友们的虐待，孩子们冲他扔的石头，凌冽的寒风，还是一个又一个不眠之夜，但 %desertedbrother% 在最后这段时间变得越来越不快乐，直到他明显地完全放弃了雇佣兵生涯。%SPEECH_ON%我不知道他有什么可抱怨的。 我觉得一切都很正常。%SPEECH_OFF%%otherbrother% 听到这件事情后说。%desertedbrother% 选择了其他道路，而不是 %companyname%。至少他很有礼貌的当面告诉你他决定离开－尽管，考虑到这一点，也许只是为了当面收回他剩余的工资。 | 最近，%desertedbrother% 开始在白天的工作结束后的晚上散步。 虽然他独自游荡的习惯并不十分安全，但你想不出任何理由在营地不需要他的时候阻止他。 然而，战队面临的困难越多，他们走的路就越长，直到有一天早上 %desertedbrother% 再也没有回来。\n\n%desertedbrother% 已离开 %companyname%。这可能是最好的结果吧。 | %desertedbrother% 最近特别喜怒无常，他把所有的空闲时间都花在摆弄一把旧的飞刀上，一把状况很差的刀，它更像是一块废铁，而不是一件合适的武器。 前一天晚上，他把它扔向一棵枯树的树干上，每次起身时都唉声叹气着把它捡起来，然后走回几码远的地方蹲下来，再把它扔回去，一直扔到深夜。\n\n显然，他对战队最近遇到的挫折很不高兴，今天早上，他鼓足勇气走进你的帐篷，向你解释说，他将离开战队到别处去寻找他的财富。}"
 
 

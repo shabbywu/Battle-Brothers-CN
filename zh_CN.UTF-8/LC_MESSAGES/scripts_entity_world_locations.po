@@ -1,10 +1,10 @@
 # scripts/entity/world/locations/noble_camp_location.nut
-msgid "ffffff00"
+msgid "banner"
 msgstr ""
 
 
-# scripts/entity/world/locations/battlefield_location.nut
-msgid "selection"
+# scripts/entity/world/locations/noble_camp_location.nut
+msgid "ffffff00"
 msgstr ""
 
 
@@ -14,14 +14,57 @@ msgid "lighting"
 msgstr ""
 
 
+# scripts/entity/world/locations/battlefield_location.nut
+msgid "selection"
+msgstr ""
+
+
 # scripts/entity/world/locations/undead_necropolis_location.nut
 msgid "Ruins of "
 msgstr ""
 
 
 # scripts/entity/world/locations/noble_camp_location.nut
-msgid "banner"
-msgstr ""
+msgid "Army Camp"
+msgstr "军营"
+
+
+# scripts/entity/world/locations/goblin_city_location.nut
+msgid "Rul'gazhix"
+msgstr "统治者加齐克斯"
+
+
+# scripts/entity/world/locations/battlefield_location.nut
+msgid "Battle Site"
+msgstr "战场"
+
+
+# scripts/entity/world/locations/undead_monolith_location.nut
+msgid "Black Monolith"
+msgstr "黑色巨石"
+
+
+# scripts/entity/world/locations/abandoned_fortress_location.nut
+msgid "Abandoned Fortress"
+msgstr "废弃的要塞"
+
+
+# scripts/entity/world/locations/orc_fortress_location.nut
+msgid "Fortress of the Warlord"
+msgstr "军阀要塞"
+
+
+# scripts/entity/world/locations/goblin_outpost_location.nut
+msgid "A defensible outpost erected by goblins."
+msgstr "由哥布林建立的防御哨所。"
+
+
+# scripts/entity/world/locations/goblin_ruins_location.nut
+# scripts/entity/world/locations/undead_ruins_location.nut
+# scripts/entity/world/locations/orc_ruins_location.nut
+# scripts/entity/world/locations/bandit_ruins_location.nut
+msgid "A once proud fortress now lying in ruins."
+msgstr "曾经引以为豪的要塞如今已成废墟。"
 
 
 # scripts/entity/world/locations/goblin_hideout_location.nut
@@ -30,6 +73,21 @@ msgstr ""
 # scripts/entity/world/locations/bandit_hideout_location.nut
 msgid "An abandoned homestead with a collapsed roof."
 msgstr "屋顶倒塌的废弃宅基地。"
+
+
+# scripts/entity/world/locations/noble_camp_location.nut
+msgid "A sea of tents, host to the army of a noble house."
+msgstr "一片帐篷的海洋，承载着一个贵族家族的军队。"
+
+
+# scripts/entity/world/locations/abandoned_fortress_location.nut
+msgid "The remains of an old fortress. It looks entirely abandoned."
+msgstr "旧要塞遗迹。 它看起来完全被遗弃了。"
+
+
+# scripts/entity/world/locations/barbarian_shelter_location.nut
+msgid "A couple of simple barbarian fur huts huddled down in a circle."
+msgstr "几个简单的野蛮毛皮小屋挤成一个圈。"
 
 
 # scripts/entity/world/locations/nomad_tents_location.nut
@@ -42,34 +100,6 @@ msgid "A set of fur jurts typical for the barbarians of the northern regions."
 msgstr "北方地区野蛮人的典型皮毛事务处。"
 
 
-# scripts/entity/world/locations/battlefield_location.nut
-msgid "Battle Site"
-msgstr "战场"
-
-
-# scripts/entity/world/locations/battlefield_location.nut
-msgid "A battle took place here a short while ago. Broken and lost equipment, blood stains and torn ground tell of a determined fight."
-msgstr "不久前这里发生了一场战斗。破碎和丢失的装备，血迹和碎裂的土地，都表明了一场战斗。"
-
-
-# scripts/entity/world/locations/orc_cave_location.nut
-msgid "This cave has been occupied by greenskins and turned into a foul-smelling camp."
-msgstr "这个洞穴被绿皮占据，变成了一个臭气熏天的营地。"
-
-
-# scripts/entity/world/locations/bandit_camp_location.nut
-msgid "A fortified wooden encampment used by outlaws to stash their loot, rest in between raids and play drinking games."
-msgstr "一个被不法之徒用来存放战利品的强化木栅栏营地，在外出突袭后饮酒作乐休息之处。"
-
-
-# scripts/entity/world/locations/goblin_ruins_location.nut
-# scripts/entity/world/locations/undead_ruins_location.nut
-# scripts/entity/world/locations/orc_ruins_location.nut
-# scripts/entity/world/locations/bandit_ruins_location.nut
-msgid "A once proud fortress now lying in ruins."
-msgstr "曾经引以为豪的要塞如今已成废墟。"
-
-
 # scripts/entity/world/locations/goblin_ruins_location.nut
 # scripts/entity/world/locations/undead_ruins_location.nut
 # scripts/entity/world/locations/orc_ruins_location.nut
@@ -79,119 +109,14 @@ msgid "These ancient ruins cast their shadows far over the surrounding sands."
 msgstr "这些古代遗迹在沙地上拉出长长的阴影。"
 
 
-# scripts/entity/world/locations/undead_buried_castle_location.nut
-msgid "Sunken into the ground, this castle has been long abandoned, only to give refuge to much darker creatures."
-msgstr "这座城堡早已沉入地下被遗弃，只为更黑暗的生物提供庇护。"
-
-
-# scripts/entity/world/locations/barbarian_sanctuary_location.nut
-msgid "Barbarians have flocked to this place and set up camp around a site of worship. A lot of fierce northern warriors are likely to be found nearby."
-msgstr "野蛮人成群结队来到这个地方，在一个祭祀场所周围扎营。 附近可能会发现许多凶猛的北方勇士。"
-
-
-# scripts/entity/world/locations/abandoned_fortress_location.nut
-msgid "Abandoned Fortress"
-msgstr "废弃的要塞"
-
-
-# scripts/entity/world/locations/abandoned_fortress_location.nut
-msgid "The remains of an old fortress. It looks entirely abandoned."
-msgstr "旧要塞遗迹。 它看起来完全被遗弃了。"
-
-
-# scripts/entity/world/locations/orc_fortress_location.nut
-msgid "Fortress of the Warlord"
-msgstr "军阀要塞"
-
-
-# scripts/entity/world/locations/orc_fortress_location.nut
-msgid "A mighty fortress made from massive iron wood logs and covered in tribal paintings of war. The bloodthirsty shouts of orcs echoing behind the walls can be heard from afar."
-msgstr "一座巨大的要塞，由巨大的铁木原木制成，上面覆盖着部落战争的绘画。从远处可以听到兽人在墙后发出的嗜血的呼喊声。"
-
-
-# scripts/entity/world/locations/noble_camp_location.nut
-msgid "Army Camp"
-msgstr "军营"
-
-
-# scripts/entity/world/locations/noble_camp_location.nut
-msgid "A sea of tents, host to the army of a noble house."
-msgstr "一片帐篷的海洋，承载着一个贵族家族的军队。"
-
-
-# scripts/entity/world/locations/orc_settlement_location.nut
-msgid "A large and foul-smelling sea of tents, with a warlord's tent and throne-room in the middle, the largest of all. It's home to a whole tribe until they move on to hunt and raid elsewhere."
-msgstr "一个巨大的、臭气熏天的帐篷之海，中间是军阀的帐篷和王座，是最大的。它是整个部落的家园，直到他们继续在其他地方狩猎和突袭。"
-
-
-# scripts/entity/world/locations/nomad_hidden_camp_location.nut
-msgid "Nomads hide their camps well to avoid unwanted visitors or pursuing soldiers of the city states."
-msgstr "游牧民很好的把他们的营地藏了起来以避免不请自来访客或者城邦追来的士兵。"
-
-
-# scripts/entity/world/locations/undead_crypt_location.nut
-msgid "A long forgotten crypt haunted by the ghosts of the past. The dead won't find sleep here."
-msgstr "一个被昔日的幽灵所萦绕的被遗忘已久的地窖。死者在这里得不到到安息。"
-
-
 # scripts/entity/world/locations/goblin_camp_location.nut
 msgid "A makeshift encampment erected by goblins for shelter and stashing supplies."
 msgstr "哥布林搭建的临时营地，用来躲避和储存物资。"
 
 
-# scripts/entity/world/locations/undead_vampire_coven_location.nut
-msgid "Hidden for centuries, this ancient place became a safe haven for a coven of hemovores."
-msgstr "几个世纪以来，这个古老的地方成为了一种嗜血动物的避难所。"
-
-
-# scripts/entity/world/locations/undead_necromancers_lair_location.nut
-msgid "A necromancer has made this lair his refuge for practicing dark rituals undisturbed."
-msgstr "一位亡灵巫师将这个巢穴作为他修行黑暗仪式的避难所。"
-
-
-# scripts/entity/world/locations/undead_necropolis_location.nut
-msgid "Once a thriving human settlement, this place has been defiled and fallen into ruin, turned into a necropolis of the undead. Waves of walking corpses pour forth to spread terror and fear in the surrounding lands."
-msgstr "这个地方曾经是一个繁荣的人类定居点，现在已经被污染，沦为废墟，变成了亡灵的墓地。 行尸走肉涌出，在周围的土地上传播恐惧和畏惧。"
-
-
-# scripts/entity/world/locations/goblin_outpost_location.nut
-msgid "A defensible outpost erected by goblins."
-msgstr "由哥布林建立的防御哨所。"
-
-
-# scripts/entity/world/locations/undead_monolith_location.nut
-msgid "Black Monolith"
-msgstr "黑色巨石"
-
-
-# scripts/entity/world/locations/undead_monolith_location.nut
-msgid "A pitch black monolith towers over the surrounding lands, emitting a baleful aura. No living being dares drawing close to it."
-msgstr "一块漆黑的巨石耸立在周围的土地上，散发出一种恶毒的气息。没有人敢接近它。"
-
-
-# scripts/entity/world/locations/goblin_city_location.nut
-msgid "Rul'gazhix"
-msgstr "统治者加齐克斯"
-
-
-# scripts/entity/world/locations/goblin_city_location.nut
-msgid "A great goblin city nested into the remains of an ancient fortress. Protected by dark and towering walls, it is host to a standing army of vicious greenskins."
-msgstr "一座巨大的哥布林城市，嵌套在一座古老要塞的遗迹中。在黑暗和高耸的墙壁的保护下，它承载着一支邪恶的绿皮军团。"
-
-
-# scripts/entity/world/locations/barbarian_shelter_location.nut
-msgid "A couple of simple barbarian fur huts huddled down in a circle."
-msgstr "几个简单的野蛮毛皮小屋挤成一个圈。"
-
-
-# scripts/entity/world/locations/undead_mass_grave_location.nut
-msgid "The sad remains of a merciless battle, an epidemic or other catastrophe. The survivors dug a large hole and piled all the corpses into it to get rid of them quickly."
-msgstr "一场无情的战斗、一场流行病或其他灾难的悲惨残余。 幸存者们挖了一个大洞，把所有的尸体都堆在里面，用这种快速的方式处理了。"
-
-
-# scripts/entity/world/locations/goblin_settlement_location.nut
-msgid "The gates to a great underground Goblin city, its maze-like tunnels teeming with vicious greenskins."
-msgstr "通往地下哥布林城的大门，迷宫般的隧道里挤满了邪恶的绿皮。"
+# scripts/entity/world/locations/orc_cave_location.nut
+msgid "This cave has been occupied by greenskins and turned into a foul-smelling camp."
+msgstr "这个洞穴被绿皮占据，变成了一个臭气熏天的营地。"
 
 
 # scripts/entity/world/locations/nomad_tent_city_location.nut
@@ -199,13 +124,88 @@ msgid "A large collection of colorful nomad huts and tents huddled together in t
 msgstr "一大片花花绿绿的游牧民帐篷，在沙漠中聚集着。"
 
 
-# scripts/entity/world/locations/orc_camp_location.nut
-msgid "A small camp erected by Orcs, either as part of a large horde in the vicinity or a small tribes of its own. They'll eventually move on to hunt and pillage elsewhere."
-msgstr "兽人建立的一个小营地，作为附近一个大部落的一部分或自己的一个小部落。他们最终会转移到其他地方去打猎和抢劫。"
+# scripts/entity/world/locations/undead_necromancers_lair_location.nut
+msgid "A necromancer has made this lair his refuge for practicing dark rituals undisturbed."
+msgstr "一位亡灵巫师将这个巢穴作为他修行黑暗仪式的避难所。"
+
+
+# scripts/entity/world/locations/undead_vampire_coven_location.nut
+msgid "Hidden for centuries, this ancient place became a safe haven for a coven of hemovores."
+msgstr "几个世纪以来，这个古老的地方成为了一种嗜血动物的避难所。"
+
+
+# scripts/entity/world/locations/undead_crypt_location.nut
+msgid "A long forgotten crypt haunted by the ghosts of the past. The dead won't find sleep here."
+msgstr "一个被昔日的幽灵所萦绕的被遗忘已久的地窖。死者在这里得不到到安息。"
+
+
+# scripts/entity/world/locations/nomad_hidden_camp_location.nut
+msgid "Nomads hide their camps well to avoid unwanted visitors or pursuing soldiers of the city states."
+msgstr "游牧民很好的把他们的营地藏了起来以避免不请自来访客或者城邦追来的士兵。"
+
+
+# scripts/entity/world/locations/goblin_settlement_location.nut
+msgid "The gates to a great underground Goblin city, its maze-like tunnels teeming with vicious greenskins."
+msgstr "通往地下哥布林城的大门，迷宫般的隧道里挤满了邪恶的绿皮。"
+
+
+# scripts/entity/world/locations/undead_buried_castle_location.nut
+msgid "Sunken into the ground, this castle has been long abandoned, only to give refuge to much darker creatures."
+msgstr "这座城堡早已沉入地下被遗弃，只为更黑暗的生物提供庇护。"
 
 
 # scripts/entity/world/locations/undead_graveyard_location.nut
 msgid "A place where people have buried their dead, placing them down for their last rest. Or at least they hoped so."
 msgstr "一个人们埋葬死者的地方，把他们在那里安息。或者至少他们希望如此。"
+
+
+# scripts/entity/world/locations/bandit_camp_location.nut
+msgid "A fortified wooden encampment used by outlaws to stash their loot, rest in between raids and play drinking games."
+msgstr "一个被不法之徒用来存放战利品的强化木栅栏营地，在外出突袭后饮酒作乐休息之处。"
+
+
+# scripts/entity/world/locations/undead_monolith_location.nut
+msgid "A pitch black monolith towers over the surrounding lands, emitting a baleful aura. No living being dares drawing close to it."
+msgstr "一块漆黑的巨石耸立在周围的土地上，散发出一种恶毒的气息。没有人敢接近它。"
+
+
+# scripts/entity/world/locations/battlefield_location.nut
+msgid "A battle took place here a short while ago. Broken and lost equipment, blood stains and torn ground tell of a determined fight."
+msgstr "不久前这里发生了一场战斗。破碎和丢失的装备，血迹和碎裂的土地，都表明了一场战斗。"
+
+
+# scripts/entity/world/locations/barbarian_sanctuary_location.nut
+msgid "Barbarians have flocked to this place and set up camp around a site of worship. A lot of fierce northern warriors are likely to be found nearby."
+msgstr "野蛮人成群结队来到这个地方，在一个祭祀场所周围扎营。 附近可能会发现许多凶猛的北方勇士。"
+
+
+# scripts/entity/world/locations/goblin_city_location.nut
+msgid "A great goblin city nested into the remains of an ancient fortress. Protected by dark and towering walls, it is host to a standing army of vicious greenskins."
+msgstr "一座巨大的哥布林城市，嵌套在一座古老要塞的遗迹中。在黑暗和高耸的墙壁的保护下，它承载着一支邪恶的绿皮军团。"
+
+
+# scripts/entity/world/locations/undead_mass_grave_location.nut
+msgid "The sad remains of a merciless battle, an epidemic or other catastrophe. The survivors dug a large hole and piled all the corpses into it to get rid of them quickly."
+msgstr "一场无情的战斗、一场流行病或其他灾难的悲惨残余。 幸存者们挖了一个大洞，把所有的尸体都堆在里面，用这种快速的方式处理了。"
+
+
+# scripts/entity/world/locations/orc_camp_location.nut
+msgid "A small camp erected by Orcs, either as part of a large horde in the vicinity or a small tribes of its own. They'll eventually move on to hunt and pillage elsewhere."
+msgstr "兽人建立的一个小营地，作为附近一个大部落的一部分或自己的一个小部落。他们最终会转移到其他地方去打猎和抢劫。"
+
+
+# scripts/entity/world/locations/orc_fortress_location.nut
+msgid "A mighty fortress made from massive iron wood logs and covered in tribal paintings of war. The bloodthirsty shouts of orcs echoing behind the walls can be heard from afar."
+msgstr "一座巨大的要塞，由巨大的铁木原木制成，上面覆盖着部落战争的绘画。从远处可以听到兽人在墙后发出的嗜血的呼喊声。"
+
+
+# scripts/entity/world/locations/orc_settlement_location.nut
+msgid "A large and foul-smelling sea of tents, with a warlord's tent and throne-room in the middle, the largest of all. It's home to a whole tribe until they move on to hunt and raid elsewhere."
+msgstr "一个巨大的、臭气熏天的帐篷之海，中间是军阀的帐篷和王座，是最大的。它是整个部落的家园，直到他们继续在其他地方狩猎和突袭。"
+
+
+# scripts/entity/world/locations/undead_necropolis_location.nut
+msgid "Once a thriving human settlement, this place has been defiled and fallen into ruin, turned into a necropolis of the undead. Waves of walking corpses pour forth to spread terror and fear in the surrounding lands."
+msgstr "这个地方曾经是一个繁荣的人类定居点，现在已经被污染，沦为废墟，变成了亡灵的墓地。 行尸走肉涌出，在周围的土地上传播恐惧和畏惧。"
 
 

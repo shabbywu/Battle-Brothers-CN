@@ -1,11 +1,11 @@
 # scripts/items/shields/shield.nut
-msgid "Shield skills build up [color="
+msgid "player"
 msgstr ""
 
 
-# scripts/items/shields/shield.nut
-msgid "Maximum Fatigue [color="
-msgstr ""
+# scripts/items/shields/buckler_shield.nut
+msgid "Buckler"
+msgstr "小圆盾"
 
 
 # scripts/items/shields/faction_kite_shield.nut
@@ -14,10 +14,14 @@ msgid "Kite Shield"
 msgstr "筝型盾"
 
 
-# scripts/items/shields/faction_kite_shield.nut
-# scripts/items/shields/kite_shield.nut
-msgid "An elongated wooden shield covered in leather that offers good protection also to the lower body. Somewhat bulky to handle in close combat engagements."
-msgstr "一种用皮革覆盖的细长木制盾牌，甚至能为下半身提供良好的防御。 但在近距离作战中显得有些笨重。"
+# scripts/items/shields/wooden_shield.nut
+msgid "banner id: "
+msgstr ""
+
+
+# scripts/items/shields/shield.nut
+msgid "progressbar"
+msgstr ""
 
 
 # scripts/items/shields/heater_shield.nut
@@ -26,72 +30,10 @@ msgid "Heater Shield"
 msgstr "扇形盾"
 
 
-# scripts/items/shields/heater_shield.nut
-# scripts/items/shields/faction_heater_shield.nut
-msgid "A triangular wooden shield covered with leather and canvas."
-msgstr "一面由皮革与帆布覆盖的三角形木制盾牌。"
-
-
-# scripts/items/shields/worn_heater_shield.nut
-msgid "Decayed Heater Shield"
-msgstr "腐朽的扇形盾"
-
-
-# scripts/items/shields/worn_heater_shield.nut
-msgid "A rotten triangular wooden shield covered with leather, canvas and moss."
-msgstr "一面被皮革，帆布和苔藓覆盖的腐烂三角形木制盾牌。"
-
-
-# scripts/items/shields/buckler_shield.nut
-msgid "Buckler"
-msgstr "小圆盾"
-
-
-# scripts/items/shields/buckler_shield.nut
-msgid "A small but sturdy shield gripped in the fist. Offers poor protection against ranged attacks but can be useful in deflecting blows in melee."
-msgstr "一种可以紧握的小而坚固的盾牌。对远程攻击的防护较差，但在近身作战中很有用。"
-
-
-# scripts/items/shields/wooden_shield.nut
-msgid "banner id: "
-msgstr ""
-
-
 # scripts/items/shields/wooden_shield.nut
 # scripts/items/shields/faction_wooden_shield.nut
 msgid "Wooden Shield"
 msgstr "木盾"
-
-
-# scripts/items/shields/wooden_shield.nut
-# scripts/items/shields/faction_wooden_shield.nut
-msgid "A round wooden shield."
-msgstr "一种圆形的木制盾牌。"
-
-
-# scripts/items/shields/wooden_shield_old.nut
-msgid "Old Wooden Shield"
-msgstr "破旧木盾"
-
-
-# scripts/items/shields/wooden_shield_old.nut
-msgid "An old round wooden shield."
-msgstr "一面破旧的圆形木盾。"
-
-
-# scripts/items/shields/worn_kite_shield.nut
-msgid "Worn Kite Shield"
-msgstr "破旧的筝形盾"
-
-
-# scripts/items/shields/worn_kite_shield.nut
-msgid "An elongated wooden shield that offers good protection also to the lower body. Somewhat bulky to handle in close combat engagements."
-msgstr "一种细长的木制盾牌，甚至能为下半身提供良好的防御。 但在近距离作战中显得有些笨重。"
-
-
-# scripts/items/shields/shield.nut
-msgid "progressbar"
-msgstr ""
 
 
 # scripts/items/shields/shield.nut
@@ -99,18 +41,23 @@ msgid "armor-head-slim"
 msgstr ""
 
 
+# scripts/items/shields/worn_kite_shield.nut
+msgid "Worn Kite Shield"
+msgstr "破旧的筝形盾"
+
+
+# scripts/items/shields/wooden_shield_old.nut
+msgid "Old Wooden Shield"
+msgstr "破旧木盾"
+
+
+# scripts/items/shields/worn_heater_shield.nut
+msgid "Decayed Heater Shield"
+msgstr "腐朽的扇形盾"
+
+
 # scripts/items/shields/shield.nut
 msgid "Melee Defense [color="
-msgstr ""
-
-
-# scripts/items/shields/shield.nut
-msgid "Ranged Defense [color="
-msgstr ""
-
-
-# scripts/items/shields/shield.nut
-msgid "player"
 msgstr ""
 
 
@@ -124,8 +71,61 @@ msgid "[/color] less fatigue"
 msgstr ""
 
 
+# scripts/items/shields/wooden_shield.nut
+# scripts/items/shields/faction_wooden_shield.nut
+msgid "A round wooden shield."
+msgstr "一种圆形的木制盾牌。"
+
+
+# scripts/items/shields/shield.nut
+msgid "Ranged Defense [color="
+msgstr ""
+
+
+# scripts/items/shields/shield.nut
+msgid "Maximum Fatigue [color="
+msgstr ""
+
+
+# scripts/items/shields/wooden_shield_old.nut
+msgid "An old round wooden shield."
+msgstr "一面破旧的圆形木盾。"
+
+
 # scripts/items/shields/shield.nut
 msgid "]Broken and unusable[/color]"
 msgstr "]破损不能使用[/color]"
+
+
+# scripts/items/shields/shield.nut
+msgid "Shield skills build up [color="
+msgstr ""
+
+
+# scripts/items/shields/heater_shield.nut
+# scripts/items/shields/faction_heater_shield.nut
+msgid "A triangular wooden shield covered with leather and canvas."
+msgstr "一面由皮革与帆布覆盖的三角形木制盾牌。"
+
+
+# scripts/items/shields/worn_heater_shield.nut
+msgid "A rotten triangular wooden shield covered with leather, canvas and moss."
+msgstr "一面被皮革，帆布和苔藓覆盖的腐烂三角形木制盾牌。"
+
+
+# scripts/items/shields/worn_kite_shield.nut
+msgid "An elongated wooden shield that offers good protection also to the lower body. Somewhat bulky to handle in close combat engagements."
+msgstr "一种细长的木制盾牌，甚至能为下半身提供良好的防御。 但在近距离作战中显得有些笨重。"
+
+
+# scripts/items/shields/buckler_shield.nut
+msgid "A small but sturdy shield gripped in the fist. Offers poor protection against ranged attacks but can be useful in deflecting blows in melee."
+msgstr "一种可以紧握的小而坚固的盾牌。对远程攻击的防护较差，但在近身作战中很有用。"
+
+
+# scripts/items/shields/faction_kite_shield.nut
+# scripts/items/shields/kite_shield.nut
+msgid "An elongated wooden shield covered in leather that offers good protection also to the lower body. Somewhat bulky to handle in close combat engagements."
+msgstr "一种用皮革覆盖的细长木制盾牌，甚至能为下半身提供良好的防御。 但在近距离作战中显得有些笨重。"
 
 

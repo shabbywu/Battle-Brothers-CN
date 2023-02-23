@@ -3,14 +3,14 @@ msgid "Wardog Armor"
 msgstr "战犬盔甲"
 
 
-# scripts/items/armor/special/wardog_heavy_armor.nut
-msgid "Heavy Wardog Armor"
-msgstr "重型战犬盔甲"
-
-
 # scripts/items/armor/special/heraldic_armor.nut
 msgid "Heraldic Hauberk"
 msgstr "纹章锁子甲"
+
+
+# scripts/items/armor/special/wardog_heavy_armor.nut
+msgid "Heavy Wardog Armor"
+msgstr "重型战犬盔甲"
 
 
 # scripts/items/armor/special/heraldic_armor.nut

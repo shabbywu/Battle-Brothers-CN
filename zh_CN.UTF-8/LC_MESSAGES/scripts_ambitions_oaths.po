@@ -3,13 +3,162 @@ msgid " days"
 msgstr " 天"
 
 
+# scripts/ambitions/oaths/oath_ambition.nut
+msgid " for "
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
+msgid " injury"
+msgstr "次伤残"
+
+
+# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
+msgid " times ("
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_ambition.nut
+msgid "another "
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
+msgid " injuries"
+msgstr "次伤残"
+
+
+# scripts/ambitions/oaths/oath_ambition.nut
+msgid "Oath Boon"
+msgstr "誓言恩赐"
+
+
+# scripts/ambitions/oaths/oath_ambition.nut
+msgid "Uphold an "
+msgstr "正在宣下 "
+
+
+# scripts/ambitions/oaths/oath_ambition.nut
+msgid "1 more day"
+msgstr " 1 天"
+
+
+# scripts/ambitions/oaths/oath_ambition.nut
+msgid "Oath Burden"
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_valor_ambition.nut
+msgid "Oath of Valor"
+msgstr "英勇誓言"
+
+
+# scripts/ambitions/oaths/oath_of_wrath_ambition.nut
+msgid "Oath of Wrath"
+msgstr "愤怒誓言"
+
+
+# scripts/ambitions/oaths/oath_of_honor_ambition.nut
+msgid "Oath of Honor"
+msgstr "荣耀誓言"
+
+
+# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
+msgid " dead so far)."
+msgstr " 已死亡)."
+
+
+# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
+msgid " taken so far)."
+msgstr " 已承受)."
+
+
+# scripts/ambitions/oaths/oath_of_dominion_ambition.nut
+msgid "Oath of Dominion"
+msgstr "统御誓言"
+
+
+# scripts/ambitions/oaths/oath_of_humility_ambition.nut
+msgid "You earn [color="
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_humility_ambition.nut
+msgid "Oath of Humility"
+msgstr "谦逊誓言"
+
+
 # scripts/ambitions/oaths/oath_of_endurance_ambition.nut
 msgid "Oath of Endurance"
 msgstr "忍耐誓言"
 
 
+# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
+msgid "Oath of Sacrifice"
+msgstr "牺牲誓言"
+
+
+# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
+msgid "Oath of Vengeance"
+msgstr "复仇誓言"
+
+
+# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
+msgid " combat injuries ("
+msgstr "次伤残(已累计"
+
+
+# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
+msgid "Oath of Distinction"
+msgstr "超群誓言"
+
+
+# scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
+msgid "Oath of Camaraderie"
+msgstr "友谊誓言"
+
+
+# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
+msgid "Your men get [color="
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_valor_ambition.nut
+# scripts/ambitions/oaths/oath_of_humility_ambition.nut
+msgid "Your men gain [color="
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
+msgid "Oath of Fortification"
+msgstr "壁垒誓言"
+
+
+# scripts/ambitions/oaths/oath_of_wrath_ambition.nut
+# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
+# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
+# scripts/ambitions/oaths/oath_of_dominion_ambition.nut
+msgid "Your men have [color="
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
+msgid "Oath of Righteousness"
+msgstr "正义誓言"
+
+
 # scripts/ambitions/oaths/oath_of_endurance_ambition.nut
 msgid "Your men recover [color="
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
+msgid "Your men build up [color="
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
+msgid "You can take up to [color="
 msgstr ""
 
 
@@ -18,14 +167,163 @@ msgid "]10[/color] men into battle."
 msgstr "]$1[/color] 人."
 
 
+# scripts/ambitions/oaths/oath_of_wrath_ambition.nut
+msgid "]-10[/color] Ranged Defense."
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
+msgid "]14[/color] men into battle."
+msgstr "]$1[/color] 人."
+
+
 # scripts/ambitions/oaths/oath_of_endurance_ambition.nut
 msgid "]+3[/color] Fatigue per turn."
 msgstr "]+3[/color] 疲劳。"
 
 
+# scripts/ambitions/oaths/oath_of_valor_ambition.nut
+msgid "]15%[/color] less experience."
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
+msgid "]+10[/color] Resolve, [color="
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
+msgid "]-10[/color] Resolve, [color="
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
+msgid "]+15[/color] Resolve, [color="
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_humility_ambition.nut
+msgid "]10%[/color] more experience."
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
+msgid "Your men do not heal injuries."
+msgstr "你的所有战团成员无法从伤残中恢复。"
+
+
 # scripts/ambitions/oaths/oath_of_endurance_ambition.nut
 msgid "You can only take up to [color="
 msgstr "你在每场战斗中最多出动 [color="
+
+
+# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
+msgid "]+15[/color] Resolve and [color="
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
+# scripts/ambitions/oaths/oath_of_dominion_ambition.nut
+msgid "]-10[/color] Resolve and [color="
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_dominion_ambition.nut
+msgid "]+20[/color] Resolve and [color="
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_honor_ambition.nut
+msgid "Your men cannot use ranged weapons."
+msgstr "你的所有战团成员无法使用远程武器。"
+
+
+# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
+msgid "]+5[/color] Melee Defense and [color="
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_wrath_ambition.nut
+msgid "]-5[/color] Melee Defense and [color="
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_valor_ambition.nut
+msgid "Your men will never flee while in battle."
+msgstr "你的战团成员在战斗中永远不会逃跑。"
+
+
+# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
+msgid "None of your men take any crowns as wage."
+msgstr "你的所有战团成员不再需要工资。"
+
+
+# scripts/ambitions/oaths/oath_of_humility_ambition.nut
+msgid "]25%[/color] fewer crowns from contracts."
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_honor_ambition.nut
+msgid "Your men start battle at Confident morale."
+msgstr "你的所有战团成员将以自信士气开始战斗。"
+
+
+# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
+msgid "Your men gain no experience for allied kills."
+msgstr "你的人不会从盟友的击杀中获得经验。"
+
+
+# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
+# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
+msgid "]-5[/color] Melee and Ranged Skill, and [color="
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
+# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
+msgid "]+10[/color] Melee and Ranged Skill, and [color="
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
+msgid "Your men cannot move in the first round of combat."
+msgstr "你的所有战团成员在战斗的第一个回合无法移动。"
+
+
+# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
+msgid "]+3[/color] Fatigue Recovery per turn, and deal [color="
+msgstr "]+3[/color] 每回合疲劳恢复, and deal [color="
+
+
+# scripts/ambitions/oaths/oath_of_dominion_ambition.nut
+msgid "]+10[/color] Melee and Ranged Skill when fighting beasts."
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
+msgid "]+10%[/color] damage if there are no allies on adjacent tiles."
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
+msgid "]+5[/color] Melee and Ranged Defense when fighting the undead."
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_dominion_ambition.nut
+msgid "]-5[/color] Melee and Ranged Skill when fighting any other foe."
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
+# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
+msgid "]-5[/color] Melee and Ranged Defense when fighting any other foe."
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
+msgid "]+5[/color] Melee and Ranged Defense when fighting orcs or goblins."
+msgstr ""
 
 
 # scripts/ambitions/oaths/oath_of_endurance_ambition.nut
@@ -44,130 +342,9 @@ msgid "{For Young Anselm! | As Oathtakers! | And death to the Oathbringers!}"
 msgstr "{为了小安瑟姆！ | 宣誓者万岁！ | 誓言使者去死吧！}"
 
 
-# scripts/ambitions/oaths/oath_of_endurance_ambition.nut
-msgid "To uphold Young Anselm's Oaths is to take on a duty without end.\nLet us take an Oath of Endurance and prepare ourselves for the tasks to come!"
-msgstr "To uphold Young Anselm's Oaths is to take on a duty without end.\nLet us take an 忍耐誓言 and prepare ourselves for the tasks to come!"
-
-
-# scripts/ambitions/oaths/oath_of_endurance_ambition.nut
-msgid "\"Thrice times thrice to climb, endurance they did find.\" It is said that when Young Anselm ascended the highest peak of the Higgarian mountain range, he took nine of his worthiest followers with him."
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_endurance_ambition.nut
-msgid "[img]gfx/ui/events/event_180.png[/img]{When asked what army he would wish to see deployed before him, a famous general remarked: 'one that does not need to breathe.' No matter how skilled a man is, if he does not have the energy to fight, then all his abilities are reduced to nothing but wheezes of air, and in such a state even a swordmaster may find himself only as dangerous as a dram wench. A good breath taken now is a well-placed sword swing later. The %companyname% has followed that axiom to its fullest!\n\nNow that the company has filled its lungs of proper fire, it is ready to accept another Oath!}"
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_valor_ambition.nut
-msgid "Oath of Valor"
-msgstr "英勇誓言"
-
-
-# scripts/ambitions/oaths/oath_of_valor_ambition.nut
-# scripts/ambitions/oaths/oath_of_humility_ambition.nut
-msgid "Your men gain [color="
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_valor_ambition.nut
-msgid "]15%[/color] less experience."
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_valor_ambition.nut
-msgid "Your men will never flee while in battle."
-msgstr "你的战团成员在战斗中永远不会逃跑。"
-
-
-# scripts/ambitions/oaths/oath_of_valor_ambition.nut
-msgid "We must have the courage to face down any challenge, no matter how daunting.\nLet us take an Oath of Valor and prove our bravery to all!"
-msgstr "We must have the courage to face down any challenge, no matter how daunting.\nLet us take an 英勇誓言 and prove our bravery to all!"
-
-
-# scripts/ambitions/oaths/oath_of_valor_ambition.nut
-msgid "\"Remember in times of peril that courage can overcome skill. While little can be learned through bravery alone, sheer determination shall keep you alive and that is well enough as any conclusion to the lessons of battle.\" - Young Anselm"
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_valor_ambition.nut
-msgid "[img]gfx/ui/events/event_180.png[/img]{A man cannot thrive merely on skill and capability. Many know how to swing a sword, heft an axe, or loose an arrow. It is not in martial matters where man is molded, but within himself, within the corridors of his own heart. The steel forged there can't ever be defeated, for even a felled man of valor shall find himself eternal in the tomes of this world, celebrated in awe, and his name carried on the lips of those like him.\n\nNow that the company has proven itself of the firmest element, it is ready to accept another Oath!}"
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
-msgid " times ("
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
-msgid "Oath of Distinction"
-msgstr "超群誓言"
-
-
-# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
-msgid "Your men get [color="
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
-msgid "]+10[/color] Resolve, [color="
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
-msgid "Your men gain no experience for allied kills."
-msgstr "你的人不会从盟友的击杀中获得经验。"
-
-
-# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
-msgid "]+3[/color] Fatigue Recovery per turn, and deal [color="
-msgstr "]+3[/color] 每回合疲劳恢复, and deal [color="
-
-
-# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
-msgid "]+10%[/color] damage if there are no allies on adjacent tiles."
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
-msgid "Truly distinguished are those who can follow Young Anselm's teachings.\nLet us take an Oath of Distinction and prove ourselves worthy to walk in his path!"
-msgstr "真正杰出的是那些能够遵循年轻的安瑟姆的教导的人。\nLet us take an 超群誓言 and prove ourselves worthy to walk in his path!"
-
-
-# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
-msgid "Young Anselm frequently pursued solitude, sometimes even on the battlefield. \"Prove yourself worthy in such a manner that not even the old gods may claim their eyes have erred in what glories they have seen.\""
-msgstr "小安瑟姆经常寻求独处，有时甚至是在战场上。 “用这种方式证明你的价值，即使是古神也不会说他们的眼睛在他们所看到的荣耀中有错误。”"
-
-
-# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
-msgid "[img]gfx/ui/events/event_180.png[/img]{Many swordmasters practice solitude. The thought is that they are not fighting the men in front of them, they are fighting for the spaces in between. While you cannot possibly understand the small nuances which differentiate a swordmaster from a would be sellsword hacking at air, you realize the kernel of truth in the axiom. Oathtakers, though honorable and diligent, are still at heart brutally courageous and absurdly overconfident. The Oath of Distinction followed the swordmaster's art in spirit, and the Oathtaker's in mind. Standing out on their own, each man sought to prove himself to his own accord and prove himself worthy of others' praise. And if any unbiased laity happened to be watching, then it'd be damn impossible to say the %companyname% did not distinguish itself as a fine outfit.\n\nBut distinction be damned. We can't be glory hogging for all our days! Onto the next Oath!}"
-msgstr "[img]gfx/ui/events/event_180.png[/img]{许多剑术大师都是独处的。 他们的想法是，他们不是在与前面的人战斗，而是在为中间的空间而战。 虽然你不可能理解剑术大师和佣兵在空中舞剑的细微差别，但你会意识到这一公理的核心真理。 宣誓者，虽然可敬、勤奋，但内心仍然勇敢得近乎残酷，过分自信得荒谬可笑。 The 超群誓言 followed the swordmaster's art in spirit, and the Oathtaker's in mind. 每个人都独立自主地努力证明自己，证明自己值得别人的称赞。 如果有任何无偏见的俗人碰巧在观看，那么就不可能说 $1 没有作为一个精良的队伍脱颖而出。\n\n但是区别是不可避免的。 我们不能整天霸占着荣耀！ 到下一个誓言！}"
-
-
-# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
-msgid " dead so far)."
-msgstr " 已死亡)."
-
-
-# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
-msgid "Oath of Fortification"
-msgstr "壁垒誓言"
-
-
-# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
-msgid "Your men build up [color="
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
-msgid "]+5[/color] Melee Defense and [color="
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
-msgid "Your men cannot move in the first round of combat."
-msgstr "你的所有战团成员在战斗的第一个回合无法移动。"
+# scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
+msgid "Your men always start battle randomly at Wavering or Breaking morale."
+msgstr "你的人总是随机以动摇或溃散士气开始战斗。"
 
 
 # scripts/ambitions/oaths/oath_of_fortification_ambition.nut
@@ -180,186 +357,9 @@ msgid "]25%[/color] less Fatigue when using shield skills. The 'Shield Wall' ski
 msgstr ""
 
 
-# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
-msgid "Evil-doers skulk and hide away from the walls of the just.\nLet us take an Oath of Fortification and bring those walls to them!"
-msgstr "Evil-doers skulk and hide away from the walls of the just.\nLet us take an 壁垒誓言 and bring those walls to them!"
-
-
-# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
-msgid "\"Trust your shields as you would put faith in the old gods, for the contribution of the trees and the earth shall not be wasted on the nervous hinge of a coward's arm.\" - Young Anselm"
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
-msgid "[img]gfx/ui/events/event_180.png[/img]{Texts of the Ancient Empire tell of military formations so tightly knit and compact that they were like roving castles on legs: hundreds of shields held together like the scales of a snake or the shell of a tortoise. The %companyname% tried its best to replicate these theories. It always took a few moments to piece the elements together, but you never intended for it to be an exercise in excellence. The ancients had an empire for a reason, and you're a company of misfits and Oathtakers. But by your estimation, which mostly starts and ends on whether or not the company still has a pulse, this oath was an outstanding success.\n\nNow it is time to lower the shields and the Ancient Empire-fervor and take on a new Oath!}"
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_wrath_ambition.nut
-msgid "Oath of Wrath"
-msgstr "愤怒誓言"
-
-
-# scripts/ambitions/oaths/oath_of_wrath_ambition.nut
-# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
-# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
-# scripts/ambitions/oaths/oath_of_dominion_ambition.nut
-msgid "Your men have [color="
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_wrath_ambition.nut
-msgid "]-10[/color] Ranged Defense."
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_wrath_ambition.nut
-msgid "]-5[/color] Melee Defense and [color="
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_wrath_ambition.nut
-msgid "There is no error in battle more fatal than meekness.\nLet us take an Oath of Wrath and show our foes what it truly means to be lain low!"
-msgstr "There is no error in battle more fatal than meekness.\nLet us take an 愤怒誓言 and show our foes what it truly means to be lain low!"
-
-
-# scripts/ambitions/oaths/oath_of_wrath_ambition.nut
-msgid "]+15%[/color] chance to hit when using two-handed or double-gripped melee weapons, and their attacks will always cause fatalities if able."
-msgstr "]+15%[/color] 命中几率 when using two-handed or double-gripped melee weapons, and their attacks will always cause fatalities if able."
-
-
-# scripts/ambitions/oaths/oath_of_wrath_ambition.nut
-msgid "Young Anselm wrote many manuals on martial fighting, the most popular of which implore the use of two-handed weaponry and the absconsion of battle tact. Dried blood mottles the pages of these texts."
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_wrath_ambition.nut
-msgid "[img]gfx/ui/events/event_180.png[/img]When it comes to mortal combat, there's only one way to be sure: total annihilation. And the weapon of choice in this death dealing endeavor is that of the two-hander. The men of the %companyname% took to the Oath of Wrath like moths to a fiery half-completed blacksmith's iron, when it retches from the coals red hot and blazing, the smithy standing over it as some mad executioner, hammer in hand, ready to flatten its glowing edges into a finished product of ultimate killing, and he turns it up and realizes the chunk of metal is too large for an ordinary man, but big enough to cleave someone in two if put in the proper hands. And so the %companyname% disregarded defense and welcomed bloodletting with open arms.\n\nBloodslaked and with satiated wrath, the %companyname% is ready to take its next Oath!"
-msgstr "[img]gfx/ui/events/event_180.png[/img]When it comes to mortal combat, there's only one way to be sure: total annihilation. And the weapon of choice in this death dealing endeavor is that of the two-hander. The men of the %companyname% took to the 愤怒誓言 like moths to a fiery half-completed blacksmith's iron, when it retches from the coals red hot and blazing, the smithy standing over it as some mad executioner, hammer in hand, ready to flatten its glowing edges into a finished product of ultimate killing, and he turns it up and realizes the chunk of metal is too large for an ordinary man, but big enough to cleave someone in two if put in the proper hands. And so the %companyname% disregarded defense and welcomed bloodletting with open arms.\n\nBloodslaked and with satiated wrath, the %companyname% is ready to take its next Oath!"
-
-
-# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
-msgid "Oath of Righteousness"
-msgstr "正义誓言"
-
-
-# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
-msgid "]+15[/color] Resolve and [color="
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
-# scripts/ambitions/oaths/oath_of_dominion_ambition.nut
-msgid "]-10[/color] Resolve and [color="
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
-# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
-msgid "]-5[/color] Melee and Ranged Skill, and [color="
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
-# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
-msgid "]+10[/color] Melee and Ranged Skill, and [color="
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
-msgid "]+5[/color] Melee and Ranged Defense when fighting the undead."
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
-# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
-msgid "]-5[/color] Melee and Ranged Defense when fighting any other foe."
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
-msgid "Few aberrations are as repugnant as the undead.\nLet us take an Oath of Righteousness and strike down these mockeries of life!"
-msgstr "Few aberrations are as repugnant as the undead.\nLet us take an 正义誓言 and strike down these mockeries of life!"
-
-
-# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
-msgid "\"Beware the evil which has stolen into this realm. Set aside the worldly matters and dedicate oneself to putting our dead to rest once and for all. No man deserves to walk twice across this darkened land.\" - Young Anselm"
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
-msgid "[img]gfx/ui/events/event_180.png[/img]When you walk the earth, one can't help but wonder who came before, and who or what comes after. So the sight of the dead walking again is such a disturbing answer to this inquiry that most would rather run from it than seek confirmation, and in that confirmation: confrontation. But it is these godless cretins which the %companyname% sought, taking an oath to vanquish them wherever found. It was a righteous affair requiring great mettle and stupendous courage, and upon completion there's little doubt that the men of the %companyname% have been spurred with a sense of accomplishment that few who walk this earth, dead or alive, shall ever feel.\n\nWith veins aflame with righteousness, the %companyname% is ready to take on its next Oath!"
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
-msgid " injury"
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
-msgid " injuries"
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
-msgid " taken so far)."
-msgstr " 已承受)."
-
-
-# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
-msgid "Oath of Sacrifice"
-msgstr "牺牲誓言"
-
-
-# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
-msgid " combat injuries ("
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
-msgid "Your men do not heal injuries."
-msgstr "你的所有战团成员无法从伤残中恢复。"
-
-
-# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
-msgid "None of your men take any crowns as wage."
-msgstr "你的所有战团成员不再需要工资。"
-
-
-# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
-msgid "We cannot live up to Young Anselm's example if we obsess over worldly matters.\nLet us take an Oath of Sacrifice and hone our purpose to its sharpest point."
-msgstr "We cannot live up to Young Anselm's example if we obsess over worldly matters.\nLet us take an 牺牲誓言 and hone our purpose to its sharpest point."
-
-
-# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
-msgid "\"If all is within the realm of the old gods' gifts, then pain itself shall be their bitterest fruit. But an offering it is, nonetheless, and so our battle against pain is one of great selfishness. Abscise from the healer's mend, and equally so from the merchant's lend.\" - Young Anselm"
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
-msgid "[img]gfx/ui/events/event_180.png[/img]{The priory monks will go days without water, weeks without food, and forever without sex. It is believed that sacrifice is the 'salt of all things', and is so powerful an element that in the ashes of those who have willingly suffered one finds the residue of endurance itself. Now, having undertaken a similar oath, you understand why the holy men handle the ashen remains of their brethren with a sort of maternal care. For the %companyname%, this everlasting strength was spread across the company, for misery is a terrible thing, but shared misery, taken head on and shoulder to shoulder with your brothers in arms, is a poignant elixir, one that narrows the mind unto that which needs to be done, and eschews all earthly matters.\n\nNow the men shall heal up and their minds return to the tethers which keep them grounded. Leave it to the monks to sacrifice for the long haul, they are of stronger intellects and faiths, ones to look to, not foolishly follow feeling you may do the same as them.\n\nAs for the future, it is time the Oathtakers take on another Oath!}"
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
-msgid "Oath of Vengeance"
-msgstr "复仇誓言"
-
-
-# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
-msgid "]-10[/color] Resolve, [color="
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
-msgid "]+15[/color] Resolve, [color="
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
-msgid "]+5[/color] Melee and Ranged Defense when fighting orcs or goblins."
-msgstr ""
+# scripts/ambitions/oaths/oath_of_humility_ambition.nut
+msgid "Arrogance is an insidious killer.\nLet us take an Oath of Humility and reflect on our shortcomings for a time."
+msgstr "Arrogance is an insidious killer.\nLet us take an 谦逊誓言 and reflect on our shortcomings for a time."
 
 
 # scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
@@ -367,64 +367,9 @@ msgid "For too long have greenskins plagued our lands.\nLet us take an Oath of V
 msgstr "For too long have greenskins plagued our lands.\nLet us take an 复仇誓言 and strike back at this menace!"
 
 
-# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
-msgid "Young Anselm's family was killed by orcs during the Battle of Many Names. When he himself faced greenskins, it is said he seemed an unstoppable warrior and his followers seek to emulate this vengeful surge of martial prowess."
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
-msgid "[img]gfx/ui/events/event_180.png[/img]Greenskins have long plagued the land of man. Despite their everlasting threat, very few would ever take up an oath to destroy the creatures. They are a plague precisely because they are so dangerous, and because they are so dangerous most would rather look the other way than dare confront the beasts. However, the men of the %companyname% decided to take an oath against the orcs and goblins alike, and venture far to find them and hunt them down. Having followed through, a sense of accomplishment washes over the company.\n\nThe men are already chomping at the bit: which Oath should be undertaken next?"
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
-msgid "Oath of Camaraderie"
-msgstr "友谊誓言"
-
-
-# scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
-msgid "You can take up to [color="
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
-msgid "]14[/color] men into battle."
-msgstr "]$1[/color] 人."
-
-
-# scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
-msgid "Your men always start battle randomly at Wavering or Breaking morale."
-msgstr "你的人总是随机以动摇或溃散士气开始战斗。"
-
-
-# scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
-msgid "No single Oathtaker can face all the evils of the world alone.\nLet us take an Oath of Camaraderie, lest we lose sight of our true allies!"
-msgstr "没有任何一位宣誓者能够独自面对世界上的所有邪恶。\nLet us take an 友谊誓言, lest we lose sight of our true allies!"
-
-
-# scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
-msgid "Young Anselm believed that, on occasion, it was right to bring as many to a battle as one could muster, even if the great throngs did threaten the chain of command. Indeed, \"All men deserve to stand by their brothers.\""
-msgstr "小安瑟姆认为，有时，召集尽可能多的人参加战斗是正确的，即使大群人确实威胁到了指挥系统。 的确，“所有人都应该支持他们的兄弟”。"
-
-
-# scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
-msgid "[img]gfx/ui/events/event_180.png[/img]{Power in numbers, camaraderie in brotherhood. While fielding additional men encumbered your ability to command, over the course of every battle the %companyname% quickly realized that the chaos of combat could be overcome by standing shoulder to shoulder with the man beside you, trusting him to do his job and him trusting that you do yours. The experience has hardened the company to the havocs of war.\n\nNow that the company knows it can confront its enemies by trusting its own members, it is ready to take on another Oath!}"
-msgstr "[img]gfx/ui/events/event_180.png[/img]{力量在于人数，友情在于兄弟情谊。 虽然增派人手会阻碍你的指挥能力，但在每次战斗过程中，%companyname% 很快意识到，通过与你身边的人并肩作战，相信他能完成他的工作，他也相信你能完成你的工作，就能克服战斗的混乱。 这一经历使战队经受住了战争的浩劫。\n\n现在，战队知道可以通过信任自己的成员来对抗敌人，准备再次宣誓！}"
-
-
-# scripts/ambitions/oaths/oath_of_honor_ambition.nut
-msgid "Oath of Honor"
-msgstr "荣耀誓言"
-
-
-# scripts/ambitions/oaths/oath_of_honor_ambition.nut
-msgid "Your men cannot use ranged weapons."
-msgstr "你的所有战团成员无法使用远程武器。"
-
-
-# scripts/ambitions/oaths/oath_of_honor_ambition.nut
-msgid "Your men start battle at Confident morale."
-msgstr "你的所有战团成员将以自信士气开始战斗。"
+# scripts/ambitions/oaths/oath_ambition.nut
+msgid "Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts."
+msgstr "你的声望会提高，这意味着合同的报酬会更高，并有可能解锁新类型的合同。"
 
 
 # scripts/ambitions/oaths/oath_of_honor_ambition.nut
@@ -432,43 +377,113 @@ msgid "As warriors, we must never lose sight of true honor.\nLet us take an Oath
 msgstr "As warriors, we must never lose sight of true honor.\nLet us take an 荣耀誓言 and meet our opponents in melee!"
 
 
-# scripts/ambitions/oaths/oath_of_honor_ambition.nut
-msgid "\"While the arrow is nocked, the mind turns. While the sword swings, all is where it should be. Set aside the craft of archery and go unto the melee, trusting that what your steel seeks, it shall find.\" - Young Anselm"
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_honor_ambition.nut
-msgid "[img]gfx/ui/events/event_180.png[/img]No matter what the bow users wish to say, when it comes down to it there is no greater honor than meeting a man face to face, each of you with sword in hand, locking eyes between crossed steel, in this clash finding a brief respite before one finds their demise. Even in the tournaments, the grand event is not some ridiculous affair like shooting apples off heads or birds out of the sky. No, it is the joust! Martial combat! The greatest honor in battle undertaken by the greatest company in the %companyname%.\n\nNow that the company is of sturdy might and main, it is ready to accept its next Oath!"
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_dominion_ambition.nut
-msgid "Oath of Dominion"
-msgstr "统御誓言"
-
-
-# scripts/ambitions/oaths/oath_of_dominion_ambition.nut
-msgid "]+20[/color] Resolve and [color="
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_dominion_ambition.nut
-msgid "]+10[/color] Melee and Ranged Skill when fighting beasts."
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_dominion_ambition.nut
-msgid "]-5[/color] Melee and Ranged Skill when fighting any other foe."
-msgstr ""
-
-
 # scripts/ambitions/oaths/oath_of_dominion_ambition.nut
 msgid "Beasts have always threatened civilization.\nLet us take an Oath of Dominion and stake our claim against the tides of nature!"
 msgstr "Beasts have always threatened civilization.\nLet us take an 统御誓言 and stake our claim against the tides of nature!"
 
 
+# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
+msgid "Few aberrations are as repugnant as the undead.\nLet us take an Oath of Righteousness and strike down these mockeries of life!"
+msgstr "Few aberrations are as repugnant as the undead.\nLet us take an 正义誓言 and strike down these mockeries of life!"
+
+
+# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
+msgid "Evil-doers skulk and hide away from the walls of the just.\nLet us take an Oath of Fortification and bring those walls to them!"
+msgstr "Evil-doers skulk and hide away from the walls of the just.\nLet us take an 壁垒誓言 and bring those walls to them!"
+
+
+# scripts/ambitions/oaths/oath_of_valor_ambition.nut
+msgid "We must have the courage to face down any challenge, no matter how daunting.\nLet us take an Oath of Valor and prove our bravery to all!"
+msgstr "We must have the courage to face down any challenge, no matter how daunting.\nLet us take an 英勇誓言 and prove our bravery to all!"
+
+
+# scripts/ambitions/oaths/oath_of_wrath_ambition.nut
+msgid "There is no error in battle more fatal than meekness.\nLet us take an Oath of Wrath and show our foes what it truly means to be lain low!"
+msgstr "There is no error in battle more fatal than meekness.\nLet us take an 愤怒誓言 and show our foes what it truly means to be lain low!"
+
+
+# scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
+msgid "No single Oathtaker can face all the evils of the world alone.\nLet us take an Oath of Camaraderie, lest we lose sight of our true allies!"
+msgstr "没有任何一位宣誓者能够独自面对世界上的所有邪恶。\nLet us take an 友谊誓言, lest we lose sight of our true allies!"
+
+
+# scripts/ambitions/oaths/oath_of_wrath_ambition.nut
+msgid "]+15%[/color] chance to hit when using two-handed or double-gripped melee weapons, and their attacks will always cause fatalities if able."
+msgstr "]+15%[/color] 命中几率 when using two-handed or double-gripped melee weapons, and their attacks will always cause fatalities if able."
+
+
+# scripts/ambitions/oaths/oath_of_endurance_ambition.nut
+msgid "To uphold Young Anselm's Oaths is to take on a duty without end.\nLet us take an Oath of Endurance and prepare ourselves for the tasks to come!"
+msgstr "To uphold Young Anselm's Oaths is to take on a duty without end.\nLet us take an 忍耐誓言 and prepare ourselves for the tasks to come!"
+
+
+# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
+msgid "Truly distinguished are those who can follow Young Anselm's teachings.\nLet us take an Oath of Distinction and prove ourselves worthy to walk in his path!"
+msgstr "真正杰出的是那些能够遵循年轻的安瑟姆的教导的人。\nLet us take an 超群誓言 and prove ourselves worthy to walk in his path!"
+
+
+# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
+msgid "We cannot live up to Young Anselm's example if we obsess over worldly matters.\nLet us take an Oath of Sacrifice and hone our purpose to its sharpest point."
+msgstr "We cannot live up to Young Anselm's example if we obsess over worldly matters.\nLet us take an 牺牲誓言 and hone our purpose to its sharpest point."
+
+
+# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
+msgid "\"Trust your shields as you would put faith in the old gods, for the contribution of the trees and the earth shall not be wasted on the nervous hinge of a coward's arm.\" - Young Anselm"
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_wrath_ambition.nut
+msgid "Young Anselm wrote many manuals on martial fighting, the most popular of which implore the use of two-handed weaponry and the absconsion of battle tact. Dried blood mottles the pages of these texts."
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_endurance_ambition.nut
+msgid "\"Thrice times thrice to climb, endurance they did find.\" It is said that when Young Anselm ascended the highest peak of the Higgarian mountain range, he took nine of his worthiest followers with him."
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_humility_ambition.nut
+msgid "\"As you are indeed men in pursuit of power, always listen to the weak...for the weak know the strong better than you do, and in turn they shall know you better than you know yourself.\" - Young Anselm"
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
+msgid "Young Anselm frequently pursued solitude, sometimes even on the battlefield. \"Prove yourself worthy in such a manner that not even the old gods may claim their eyes have erred in what glories they have seen.\""
+msgstr "小安瑟姆经常寻求独处，有时甚至是在战场上。 “用这种方式证明你的价值，即使是古神也不会说他们的眼睛在他们所看到的荣耀中有错误。”"
+
+
+# scripts/ambitions/oaths/oath_of_honor_ambition.nut
+msgid "\"While the arrow is nocked, the mind turns. While the sword swings, all is where it should be. Set aside the craft of archery and go unto the melee, trusting that what your steel seeks, it shall find.\" - Young Anselm"
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
+msgid "Young Anselm believed that, on occasion, it was right to bring as many to a battle as one could muster, even if the great throngs did threaten the chain of command. Indeed, \"All men deserve to stand by their brothers.\""
+msgstr "小安瑟姆认为，有时，召集尽可能多的人参加战斗是正确的，即使大群人确实威胁到了指挥系统。 的确，“所有人都应该支持他们的兄弟”。"
+
+
+# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
+msgid "\"Beware the evil which has stolen into this realm. Set aside the worldly matters and dedicate oneself to putting our dead to rest once and for all. No man deserves to walk twice across this darkened land.\" - Young Anselm"
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
+msgid "Young Anselm's family was killed by orcs during the Battle of Many Names. When he himself faced greenskins, it is said he seemed an unstoppable warrior and his followers seek to emulate this vengeful surge of martial prowess."
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_valor_ambition.nut
+msgid "\"Remember in times of peril that courage can overcome skill. While little can be learned through bravery alone, sheer determination shall keep you alive and that is well enough as any conclusion to the lessons of battle.\" - Young Anselm"
+msgstr ""
+
+
 # scripts/ambitions/oaths/oath_of_dominion_ambition.nut
 msgid "\"We are from the beasts, but the beasts wish to have us back. Distance oneself from nature's primitiveness, prove your worth over Her such that your humanity be held in the grip of your own hands and seen through thine own eyes.\" - Young Anselm"
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
+msgid "\"If all is within the realm of the old gods' gifts, then pain itself shall be their bitterest fruit. But an offering it is, nonetheless, and so our battle against pain is one of great selfishness. Abscise from the healer's mend, and equally so from the merchant's lend.\" - Young Anselm"
 msgstr ""
 
 
@@ -477,73 +492,58 @@ msgid "[img]gfx/ui/events/event_180.png[/img]There is no more common a menace in
 msgstr ""
 
 
-# scripts/ambitions/oaths/oath_ambition.nut
-msgid " for "
-msgstr ""
+# scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
+msgid "[img]gfx/ui/events/event_180.png[/img]{Power in numbers, camaraderie in brotherhood. While fielding additional men encumbered your ability to command, over the course of every battle the %companyname% quickly realized that the chaos of combat could be overcome by standing shoulder to shoulder with the man beside you, trusting him to do his job and him trusting that you do yours. The experience has hardened the company to the havocs of war.\n\nNow that the company knows it can confront its enemies by trusting its own members, it is ready to take on another Oath!}"
+msgstr "[img]gfx/ui/events/event_180.png[/img]{力量在于人数，友情在于兄弟情谊。 虽然增派人手会阻碍你的指挥能力，但在每次战斗过程中，%companyname% 很快意识到，通过与你身边的人并肩作战，相信他能完成他的工作，他也相信你能完成你的工作，就能克服战斗的混乱。 这一经历使战队经受住了战争的浩劫。\n\n现在，战队知道可以通过信任自己的成员来对抗敌人，准备再次宣誓！}"
 
 
-# scripts/ambitions/oaths/oath_ambition.nut
-msgid "another "
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_ambition.nut
-msgid "Oath Boon"
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_ambition.nut
-msgid "Uphold an "
-msgstr "正在宣下 "
-
-
-# scripts/ambitions/oaths/oath_ambition.nut
-msgid "1 more day"
-msgstr " 1 天"
-
-
-# scripts/ambitions/oaths/oath_ambition.nut
-msgid "Oath Burden"
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_ambition.nut
-msgid "Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts."
-msgstr "你的声望会提高，这意味着合同的报酬会更高，并有可能解锁新类型的合同。"
-
-
-# scripts/ambitions/oaths/oath_of_humility_ambition.nut
-msgid "You earn [color="
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_humility_ambition.nut
-msgid "Oath of Humility"
-msgstr "谦逊誓言"
-
-
-# scripts/ambitions/oaths/oath_of_humility_ambition.nut
-msgid "]10%[/color] more experience."
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_humility_ambition.nut
-msgid "]25%[/color] fewer crowns from contracts."
-msgstr ""
-
-
-# scripts/ambitions/oaths/oath_of_humility_ambition.nut
-msgid "Arrogance is an insidious killer.\nLet us take an Oath of Humility and reflect on our shortcomings for a time."
-msgstr "Arrogance is an insidious killer.\nLet us take an 谦逊誓言 and reflect on our shortcomings for a time."
-
-
-# scripts/ambitions/oaths/oath_of_humility_ambition.nut
-msgid "\"As you are indeed men in pursuit of power, always listen to the weak...for the weak know the strong better than you do, and in turn they shall know you better than you know yourself.\" - Young Anselm"
+# scripts/ambitions/oaths/oath_of_valor_ambition.nut
+msgid "[img]gfx/ui/events/event_180.png[/img]{A man cannot thrive merely on skill and capability. Many know how to swing a sword, heft an axe, or loose an arrow. It is not in martial matters where man is molded, but within himself, within the corridors of his own heart. The steel forged there can't ever be defeated, for even a felled man of valor shall find himself eternal in the tomes of this world, celebrated in awe, and his name carried on the lips of those like him.\n\nNow that the company has proven itself of the firmest element, it is ready to accept another Oath!}"
 msgstr ""
 
 
 # scripts/ambitions/oaths/oath_of_humility_ambition.nut
 msgid "[img]gfx/ui/events/event_180.png[/img]Any weak man can kneel, but to do so from a position of strength is true humility. While the %companyname% could have sought to wield its fame to make new fortunes, it instead stood aside, dedicating portions of its wealth to the needy and back to the communities who were offering these contracts in the first place. Many of the men have learned well from this experience and there is some hope that the methods deployed will be of use going forward, whether in this life or the next.\n\nThe %companyname% are ready to take on their next challenge."
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_endurance_ambition.nut
+msgid "[img]gfx/ui/events/event_180.png[/img]{When asked what army he would wish to see deployed before him, a famous general remarked: 'one that does not need to breathe.' No matter how skilled a man is, if he does not have the energy to fight, then all his abilities are reduced to nothing but wheezes of air, and in such a state even a swordmaster may find himself only as dangerous as a dram wench. A good breath taken now is a well-placed sword swing later. The %companyname% has followed that axiom to its fullest!\n\nNow that the company has filled its lungs of proper fire, it is ready to accept another Oath!}"
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_honor_ambition.nut
+msgid "[img]gfx/ui/events/event_180.png[/img]No matter what the bow users wish to say, when it comes down to it there is no greater honor than meeting a man face to face, each of you with sword in hand, locking eyes between crossed steel, in this clash finding a brief respite before one finds their demise. Even in the tournaments, the grand event is not some ridiculous affair like shooting apples off heads or birds out of the sky. No, it is the joust! Martial combat! The greatest honor in battle undertaken by the greatest company in the %companyname%.\n\nNow that the company is of sturdy might and main, it is ready to accept its next Oath!"
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
+msgid "[img]gfx/ui/events/event_180.png[/img]Greenskins have long plagued the land of man. Despite their everlasting threat, very few would ever take up an oath to destroy the creatures. They are a plague precisely because they are so dangerous, and because they are so dangerous most would rather look the other way than dare confront the beasts. However, the men of the %companyname% decided to take an oath against the orcs and goblins alike, and venture far to find them and hunt them down. Having followed through, a sense of accomplishment washes over the company.\n\nThe men are already chomping at the bit: which Oath should be undertaken next?"
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
+msgid "[img]gfx/ui/events/event_180.png[/img]{Texts of the Ancient Empire tell of military formations so tightly knit and compact that they were like roving castles on legs: hundreds of shields held together like the scales of a snake or the shell of a tortoise. The %companyname% tried its best to replicate these theories. It always took a few moments to piece the elements together, but you never intended for it to be an exercise in excellence. The ancients had an empire for a reason, and you're a company of misfits and Oathtakers. But by your estimation, which mostly starts and ends on whether or not the company still has a pulse, this oath was an outstanding success.\n\nNow it is time to lower the shields and the Ancient Empire-fervor and take on a new Oath!}"
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
+msgid "[img]gfx/ui/events/event_180.png[/img]When you walk the earth, one can't help but wonder who came before, and who or what comes after. So the sight of the dead walking again is such a disturbing answer to this inquiry that most would rather run from it than seek confirmation, and in that confirmation: confrontation. But it is these godless cretins which the %companyname% sought, taking an oath to vanquish them wherever found. It was a righteous affair requiring great mettle and stupendous courage, and upon completion there's little doubt that the men of the %companyname% have been spurred with a sense of accomplishment that few who walk this earth, dead or alive, shall ever feel.\n\nWith veins aflame with righteousness, the %companyname% is ready to take on its next Oath!"
+msgstr ""
+
+
+# scripts/ambitions/oaths/oath_of_wrath_ambition.nut
+msgid "[img]gfx/ui/events/event_180.png[/img]When it comes to mortal combat, there's only one way to be sure: total annihilation. And the weapon of choice in this death dealing endeavor is that of the two-hander. The men of the %companyname% took to the Oath of Wrath like moths to a fiery half-completed blacksmith's iron, when it retches from the coals red hot and blazing, the smithy standing over it as some mad executioner, hammer in hand, ready to flatten its glowing edges into a finished product of ultimate killing, and he turns it up and realizes the chunk of metal is too large for an ordinary man, but big enough to cleave someone in two if put in the proper hands. And so the %companyname% disregarded defense and welcomed bloodletting with open arms.\n\nBloodslaked and with satiated wrath, the %companyname% is ready to take its next Oath!"
+msgstr "[img]gfx/ui/events/event_180.png[/img]When it comes to mortal combat, there's only one way to be sure: total annihilation. And the weapon of choice in this death dealing endeavor is that of the two-hander. The men of the %companyname% took to the 愤怒誓言 like moths to a fiery half-completed blacksmith's iron, when it retches from the coals red hot and blazing, the smithy standing over it as some mad executioner, hammer in hand, ready to flatten its glowing edges into a finished product of ultimate killing, and he turns it up and realizes the chunk of metal is too large for an ordinary man, but big enough to cleave someone in two if put in the proper hands. And so the %companyname% disregarded defense and welcomed bloodletting with open arms.\n\nBloodslaked and with satiated wrath, the %companyname% is ready to take its next Oath!"
+
+
+# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
+msgid "[img]gfx/ui/events/event_180.png[/img]{Many swordmasters practice solitude. The thought is that they are not fighting the men in front of them, they are fighting for the spaces in between. While you cannot possibly understand the small nuances which differentiate a swordmaster from a would be sellsword hacking at air, you realize the kernel of truth in the axiom. Oathtakers, though honorable and diligent, are still at heart brutally courageous and absurdly overconfident. The Oath of Distinction followed the swordmaster's art in spirit, and the Oathtaker's in mind. Standing out on their own, each man sought to prove himself to his own accord and prove himself worthy of others' praise. And if any unbiased laity happened to be watching, then it'd be damn impossible to say the %companyname% did not distinguish itself as a fine outfit.\n\nBut distinction be damned. We can't be glory hogging for all our days! Onto the next Oath!}"
+msgstr "[img]gfx/ui/events/event_180.png[/img]{许多剑术大师都是独处的。 他们的想法是，他们不是在与前面的人战斗，而是在为中间的空间而战。 虽然你不可能理解剑术大师和佣兵在空中舞剑的细微差别，但你会意识到这一公理的核心真理。 宣誓者，虽然可敬、勤奋，但内心仍然勇敢得近乎残酷，过分自信得荒谬可笑。 The 超群誓言 followed the swordmaster's art in spirit, and the Oathtaker's in mind. 每个人都独立自主地努力证明自己，证明自己值得别人的称赞。 如果有任何无偏见的俗人碰巧在观看，那么就不可能说 $1 没有作为一个精良的队伍脱颖而出。\n\n但是区别是不可避免的。 我们不能整天霸占着荣耀！ 到下一个誓言！}"
+
+
+# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
+msgid "[img]gfx/ui/events/event_180.png[/img]{The priory monks will go days without water, weeks without food, and forever without sex. It is believed that sacrifice is the 'salt of all things', and is so powerful an element that in the ashes of those who have willingly suffered one finds the residue of endurance itself. Now, having undertaken a similar oath, you understand why the holy men handle the ashen remains of their brethren with a sort of maternal care. For the %companyname%, this everlasting strength was spread across the company, for misery is a terrible thing, but shared misery, taken head on and shoulder to shoulder with your brothers in arms, is a poignant elixir, one that narrows the mind unto that which needs to be done, and eschews all earthly matters.\n\nNow the men shall heal up and their minds return to the tethers which keep them grounded. Leave it to the monks to sacrifice for the long haul, they are of stronger intellects and faiths, ones to look to, not foolishly follow feeling you may do the same as them.\n\nAs for the future, it is time the Oathtakers take on another Oath!}"
 msgstr ""
 
 

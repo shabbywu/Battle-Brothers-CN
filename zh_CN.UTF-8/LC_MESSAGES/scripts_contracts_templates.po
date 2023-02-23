@@ -1,21 +1,5 @@
 # scripts/contracts/templates/negotiation_templates.nut
-# scripts/contracts/templates/intro_templates.nut
-msgid "Negotiations"
-msgstr "谈判"
-
-
-# scripts/contracts/templates/negotiation_templates.nut
 msgid "Get "
-msgstr ""
-
-
-# scripts/contracts/templates/negotiation_templates.nut
-msgid " crowns in advance"
-msgstr ""
-
-
-# scripts/contracts/templates/negotiation_templates.nut
-msgid " crowns on completion"
 msgstr ""
 
 
@@ -25,8 +9,44 @@ msgstr ""
 
 
 # scripts/contracts/templates/negotiation_templates.nut
+# scripts/contracts/templates/intro_templates.nut
+msgid "Negotiations"
+msgstr "谈判"
+
+
+# scripts/contracts/templates/intro_templates.nut
+msgid "I'm all ears."
+msgstr "我洗耳恭听。"
+
+
+# scripts/contracts/templates/intro_templates.nut
+msgid "Let's talk, then."
+msgstr "我们来谈谈吧。"
+
+
+# scripts/contracts/templates/negotiation_templates.nut
+msgid " crowns in advance"
+msgstr ""
+
+
+# scripts/contracts/templates/negotiation_templates.nut
 msgid "I accept your offer."
 msgstr "我接受你的提议。"
+
+
+# scripts/contracts/templates/intro_templates.nut
+msgid "Let's talk business."
+msgstr "我们来谈谈生意。"
+
+
+# scripts/contracts/templates/negotiation_templates.nut
+msgid " crowns on completion"
+msgstr ""
+
+
+# scripts/contracts/templates/intro_templates.nut
+msgid "Let's get to business."
+msgstr "我们来商量商量。"
 
 
 # scripts/contracts/templates/negotiation_templates.nut
@@ -37,6 +57,11 @@ msgstr "我接受这份合同。"
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "We need payment in advance."
 msgstr "我们需要预付款。"
+
+
+# scripts/contracts/templates/intro_templates.nut
+msgid "Let's see what this is about."
+msgstr "我们看看这是怎么回事。"
 
 
 # scripts/contracts/templates/negotiation_templates.nut
@@ -207,31 +232,6 @@ msgstr "[img]gfx/ui/events/event_74.png[/img]{%SPEECH_START%搞得就像只有�
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "[img]gfx/ui/events/event_74.png[/img]{%SPEECH_START%You act as if you were the only ones to hold a sword for coin. I think I'll look elsewhere for the men I need. Good day.%SPEECH_OFF% | %SPEECH_START%My patience has limits, too, and I think I'm wasting my time here.%SPEECH_OFF% | %SPEECH_START%I've had enough of this! I'm sure I'll find someone else to do the job!%SPEECH_OFF% | %SPEECH_START%Do not insult my intelligence! Forget about this contract. We're done.%SPEECH_OFF% | He's face turns red with anger.%SPEECH_ON%Get out of here, I'm not in the habit of making deals with greedy devils!%SPEECH_OFF% | He sighs. %SPEECH_ON%Just... forget it. I shouldn't have trusted you in the first place. Leave me so I can look for other, more sensible men.%SPEECH_OFF% | %SPEECH_START%I really thought we had a good relationship here. But know that I can only be pushed so far. I don't think this is working out. I'll take my leave.%SPEECH_OFF% | %SPEECH_START%This has been an utter waste of time for me. Don't bother coming back until you learned some reason.%SPEECH_OFF%}"
 msgstr "[img]gfx/ui/events/event_74.png[/img]{%SPEECH_START%搞得就像只有你会为硬币卖命一样。 看来我还是去其他地方找人好了。拜拜。%SPEECH_OFF% | %SPEECH_START%我的耐心是有限度的，看来我这是在浪费时间。%SPEECH_OFF% | %SPEECH_START%我受够了！ 我相信我会找到其他人来做这项工作！%SPEECH_OFF% | %SPEECH_START%别侮辱我的智商！ 合约就算了。咱们到此为止。%SPEECH_OFF% | 他气得面色发红。%SPEECH_ON%离开这里，我还没有和贪婪之辈做交易的习惯！%SPEECH_OFF% | 他叹了口气。 %SPEECH_ON%算…算了。刚开始就不该相信你的。 你走吧，这样我好找其他人。%SPEECH_OFF% | %SPEECH_START%我当真还以为咱俩关系还不错。 但是说好了，这已经是我的极限了。 我觉得这不行。 我走了。%SPEECH_OFF% | %SPEECH_START%这真是浪费时间。 要是没想明白就别再来找我了。%SPEECH_OFF%}"
-
-
-# scripts/contracts/templates/intro_templates.nut
-msgid "I'm all ears."
-msgstr "我洗耳恭听。"
-
-
-# scripts/contracts/templates/intro_templates.nut
-msgid "Let's talk, then."
-msgstr "我们来谈谈吧。"
-
-
-# scripts/contracts/templates/intro_templates.nut
-msgid "Let's talk business."
-msgstr "我们来谈谈生意。"
-
-
-# scripts/contracts/templates/intro_templates.nut
-msgid "Let's get to business."
-msgstr "我们来商量商量。"
-
-
-# scripts/contracts/templates/intro_templates.nut
-msgid "Let's see what this is about."
-msgstr "我们看看这是怎么回事。"
 
 
 # scripts/contracts/templates/intro_templates.nut

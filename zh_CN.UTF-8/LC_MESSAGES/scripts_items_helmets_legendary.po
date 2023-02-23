@@ -13,9 +13,9 @@ msgid "Heals [color="
 msgstr ""
 
 
-# scripts/items/helmets/legendary/mask_of_davkul.nut
-msgid "Regenerates itself by [color="
-msgstr ""
+# scripts/items/helmets/legendary/fangshire.nut
+msgid "The Fangshire"
+msgstr "夏尔之牙"
 
 
 # scripts/items/helmets/legendary/emperors_countenance.nut
@@ -23,14 +23,49 @@ msgid "Reflects [color="
 msgstr ""
 
 
+# scripts/items/helmets/legendary/mask_of_davkul.nut
+msgid "Glimpse of Davkul"
+msgstr "达库尔的凝视"
+
+
+# scripts/items/helmets/legendary/ijirok_helmet.nut
+msgid "Helmet of the Ijirok"
+msgstr "伊吉罗克头盔"
+
+
 # scripts/items/helmets/legendary/emperors_countenance.nut
 msgid "The Emperor's Countenance"
 msgstr "帝王尊容"
 
 
+# scripts/items/helmets/legendary/mask_of_davkul.nut
+msgid "Regenerates itself by [color="
+msgstr ""
+
+
+# scripts/items/helmets/legendary/mask_of_davkul.nut
+msgid "]90[/color] points of durability each turn."
+msgstr ""
+
+
+# scripts/items/helmets/legendary/ijirok_helmet.nut
+msgid "]10[/color] hitpoints of the wearer each turn"
+msgstr ""
+
+
 # scripts/items/helmets/legendary/emperors_countenance.nut
 msgid "]25%[/color] of damage taken in melee back to the attacker"
 msgstr ""
+
+
+# scripts/items/helmets/legendary/fangshire.nut
+msgid "Allows the wearer to see at night and negates any penalties due to nighttime."
+msgstr "允许佩戴者在夜间观看，并取消任何夜间惩罚。"
+
+
+# scripts/items/helmets/legendary/ijirok_helmet.nut
+msgid "Once a barbarian helmet broken in battle, this piece has been bathed in the blood of the legendary Ijirok. Powers beyond your understanding mended it whole again, and will likewise mend any wounds of the wearer as well."
+msgstr "曾经有一件野蛮人的头盔在战斗中折断，盔甲的碎片沐浴在传说中的伊吉罗克的鲜血里。 超越你理解的力量再次修复了它，同样也会修复穿戴者的任何创伤。"
 
 
 # scripts/items/helmets/legendary/emperors_countenance.nut
@@ -39,43 +74,8 @@ msgstr "一个展露帝王容貌的具有神秘能力的金色头盔。 当你�
 
 
 # scripts/items/helmets/legendary/mask_of_davkul.nut
-msgid "Glimpse of Davkul"
-msgstr "达库尔的凝视"
-
-
-# scripts/items/helmets/legendary/mask_of_davkul.nut
-msgid "]90[/color] points of durability each turn."
-msgstr ""
-
-
-# scripts/items/helmets/legendary/mask_of_davkul.nut
 msgid "The Glimpse of Davkul is a gift bestowed upon man by ancient and dark powers, a helmet merged with human skin and bones through the most unspeakable of rituals. A glimpse of a future where man shall become one with creations from a realm beyond. It shall never break, but instead keep regrowing its scarred skin on the spot."
 msgstr "达库尔的凝视是远古黑暗力量赐予人类的礼物，通过最难以言表的仪式与人类的皮肤和骨骼融合在一起的一顶头盔。 在未来某时，人类将与来自另一个领域的造物成为一体。 它永远不会破裂，而是在原地不断地再生它那伤痕累累的皮肤。"
-
-
-# scripts/items/helmets/legendary/ijirok_helmet.nut
-msgid "Helmet of the Ijirok"
-msgstr "伊吉罗克头盔"
-
-
-# scripts/items/helmets/legendary/ijirok_helmet.nut
-msgid "]10[/color] hitpoints of the wearer each turn"
-msgstr ""
-
-
-# scripts/items/helmets/legendary/ijirok_helmet.nut
-msgid "Once a barbarian helmet broken in battle, this piece has been bathed in the blood of the legendary Ijirok. Powers beyond your understanding mended it whole again, and will likewise mend any wounds of the wearer as well."
-msgstr "曾经有一件野蛮人的头盔在战斗中折断，盔甲的碎片沐浴在传说中的伊吉罗克的鲜血里。 超越你理解的力量再次修复了它，同样也会修复穿戴者的任何创伤。"
-
-
-# scripts/items/helmets/legendary/fangshire.nut
-msgid "The Fangshire"
-msgstr "夏尔之牙"
-
-
-# scripts/items/helmets/legendary/fangshire.nut
-msgid "Allows the wearer to see at night and negates any penalties due to nighttime."
-msgstr "允许佩戴者在夜间观看，并取消任何夜间惩罚。"
 
 
 # scripts/items/helmets/legendary/fangshire.nut

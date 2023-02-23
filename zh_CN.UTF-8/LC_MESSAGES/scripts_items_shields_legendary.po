@@ -1,9 +1,4 @@
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
-msgid "Maximum Fatigue [color="
-msgstr ""
-
-
-# scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "progressbar"
 msgstr ""
 
@@ -30,6 +25,11 @@ msgstr ""
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "Ranged Defense [color="
+msgstr ""
+
+
+# scripts/items/shields/legendary/gilders_embrace_shield.nut
+msgid "Maximum Fatigue [color="
 msgstr ""
 
 

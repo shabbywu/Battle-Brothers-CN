@@ -4,9 +4,19 @@ msgid "player"
 msgstr ""
 
 
+# scripts/items/item.nut
+msgid "Worth nothing."
+msgstr ""
+
+
 # scripts/items/item_container.nut
 msgid ", but is not equipped"
 msgstr ""
+
+
+# scripts/items/item.nut
+msgid "Can be used to craft items"
+msgstr "可用于制作物品"
 
 
 # scripts/items/item_container.nut
@@ -47,16 +57,6 @@ msgstr ""
 # scripts/items/item_container.nut
 msgid "Unable to swap, items don't use the same slot!"
 msgstr ""
-
-
-# scripts/items/item.nut
-msgid "Worth nothing."
-msgstr ""
-
-
-# scripts/items/item.nut
-msgid "Can be used to craft items"
-msgstr "可用于制作物品"
 
 
 # scripts/items/item.nut

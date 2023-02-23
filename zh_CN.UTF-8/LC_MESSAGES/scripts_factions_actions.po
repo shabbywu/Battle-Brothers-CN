@@ -6,7 +6,13 @@ msgstr "兽人"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Alps"
-msgstr "阿尔卑斯"
+msgstr "夢魘"
+
+
+# scripts/factions/actions/receive_ship_action.nut
+# scripts/factions/actions/send_ship_action.nut
+msgid "Ship"
+msgstr "船"
 
 
 # scripts/factions/actions/send_beast_roamers_action.nut
@@ -47,7 +53,7 @@ msgstr "伊夫利特"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Schrats"
-msgstr "施拉茨"
+msgstr "树人"
 
 
 # scripts/factions/actions/move_goblins_action.nut
@@ -82,38 +88,6 @@ msgid "Citizens"
 msgstr "公民"
 
 
-# scripts/factions/actions/defend_barbarians_action.nut
-# scripts/factions/actions/send_barbarian_roamers_action.nut
-# scripts/factions/actions/send_barbarian_ambushers_action.nut
-msgid "Barbarians"
-msgstr "野蛮人"
-
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Webknechts"
-msgstr "韦克内希特"
-
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Direwolves"
-msgstr "冰原狼"
-
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Nachzehrers"
-msgstr "纳赫策尔人"
-
-
-# scripts/factions/actions/send_greenskin_army_action.nut
-msgid "Greenskin Horde"
-msgstr "大群绿皮"
-
-
-# scripts/factions/actions/send_greenskin_army_action.nut
-msgid "A horde of greenskins marching to war."
-msgstr "一大群绿皮向战场进军。"
-
-
 # scripts/factions/actions/move_troops_action.nut
 # scripts/factions/actions/patrol_roads_action.nut
 # scripts/factions/actions/send_military_holysite_action.nut
@@ -123,10 +97,150 @@ msgid " Company"
 msgstr ""
 
 
+# scripts/factions/actions/defend_militia_action.nut
+msgid " Militia"
+msgstr ""
+
+
+# scripts/factions/actions/defend_barbarians_action.nut
+# scripts/factions/actions/send_barbarian_roamers_action.nut
+# scripts/factions/actions/send_barbarian_ambushers_action.nut
+msgid "Barbarians"
+msgstr "野蛮人"
+
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "Webknechts"
+msgstr "蛛魔"
+
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "Direwolves"
+msgstr "冰原狼"
+
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "Nachzehrers"
+msgstr "食屍鬼"
+
+
+# scripts/factions/actions/send_orc_roamers_action.nut
+msgid "Orc Hunters"
+msgstr ""
+
+
 # scripts/factions/actions/defend_citystate_action.nut
 # scripts/factions/actions/patrol_area_action.nut
 msgid "Regiment of "
 msgstr ""
+
+
+# scripts/factions/actions/send_orc_marauders_action.nut
+msgid "Orc Marauders"
+msgstr "兽人收割者"
+
+
+# scripts/factions/actions/send_supplies_action.nut
+msgid "Supply Caravan"
+msgstr "供应商队"
+
+
+# scripts/factions/actions/send_goblin_ambushers_action.nut
+msgid "Goblin Raiders"
+msgstr ""
+
+
+# scripts/factions/actions/send_goblin_roamers_action.nut
+msgid "Goblin Hunters"
+msgstr ""
+
+
+# scripts/factions/actions/send_greenskin_army_action.nut
+msgid "Greenskin Horde"
+msgstr "大群绿皮"
+
+
+# scripts/factions/actions/send_bandit_roamers_action.nut
+msgid "Brigand Hunters"
+msgstr ""
+
+
+# scripts/factions/actions/send_caravan_action.nut
+msgid "Trading Caravan"
+msgstr "贸易商队"
+
+
+# scripts/factions/actions/defend_undead_action.nut
+# scripts/factions/actions/send_undead_roamers_action.nut
+msgid "Something seems wrong."
+msgstr "好像有问题。"
+
+
+# scripts/factions/actions/send_caravan_action.nut
+msgid "A trading caravan from "
+msgstr ""
+
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "One or more lumbering giants."
+msgstr "一个或多个笨拙的巨人。"
+
+
+# scripts/factions/actions/defend_barbarians_action.nut
+# scripts/factions/actions/send_barbarian_ambushers_action.nut
+msgid "A warband of barbarian tribals."
+msgstr "一支野蛮部落的战斗队。"
+
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "Giant serpents slithering about."
+msgstr "巨大的大蛇在游荡。"
+
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "A flock of scavenging nachzehrers."
+msgstr "一群寻觅的食尸鬼"
+
+
+# scripts/factions/actions/build_unique_locations_action.nut
+msgid "Done placing all unique locations."
+msgstr ""
+
+
+# scripts/factions/actions/send_nomad_roamers_action.nut
+msgid "A band of nomads scouting the area."
+msgstr ""
+
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "A tentacled horror from another age."
+msgstr "来自另一个时代的有触角的恐怖生物。"
+
+
+# scripts/factions/actions/send_greenskin_army_action.nut
+msgid "A horde of greenskins marching to war."
+msgstr "一大群绿皮向战场进军。"
+
+
+# scripts/factions/actions/send_barbarian_roamers_action.nut
+msgid "A band of barbarians out to hunt game."
+msgstr ""
+
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "A swarm of webknechts skittering about."
+msgstr "一群蜘蛛在游荡。"
+
+
+# scripts/factions/actions/receive_ship_action.nut
+# scripts/factions/actions/send_ship_action.nut
+msgid "A ship transporting goods and passengers."
+msgstr "运送货物和乘客的船。"
+
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "Pale and haggard creatures creeping around."
+msgstr "苍白而憔悴的生物在四处爬行。"
 
 
 # scripts/factions/actions/defend_citystate_action.nut
@@ -135,6 +249,11 @@ msgstr ""
 # scripts/factions/actions/patrol_area_action.nut
 msgid "Conscripted soldiers loyal to their city state."
 msgstr "忠于城邦的应征士兵。"
+
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "A pack of esurient hyenas on the hunt for prey."
+msgstr "一群贪婪的鬣狗在捕猎猎物。"
 
 
 # scripts/factions/actions/move_troops_action.nut
@@ -146,41 +265,20 @@ msgid "Professional soldiers in service to local lords."
 msgstr "为地方领主服务的专业士兵。"
 
 
-# scripts/factions/actions/send_supplies_action.nut
-msgid "Supply Caravan"
-msgstr "供应商队"
-
-
-# scripts/factions/actions/send_supplies_action.nut
-msgid "A caravan with armed escorts transporting provisions, supplies and equipment between settlements."
-msgstr "一个带有武装护卫的商队，在定居点之间运输着值得保护的东西。"
-
-
-# scripts/factions/actions/send_orc_marauders_action.nut
-msgid "Orc Marauders"
-msgstr "兽人收割者"
-
-
-# scripts/factions/actions/send_goblin_ambushers_action.nut
-msgid "Goblin Raiders"
-msgstr ""
-
-
-# scripts/factions/actions/send_bandit_roamers_action.nut
-msgid "Brigand Hunters"
-msgstr ""
-
-
-# scripts/factions/actions/defend_barbarians_action.nut
-# scripts/factions/actions/send_barbarian_ambushers_action.nut
-msgid "A warband of barbarian tribals."
-msgstr "一支野蛮部落的战斗队。"
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "A pack of ferocious direwolves on the hunt for prey."
+msgstr "一群凶猛的冰原狼正在寻找猎物。"
 
 
 # scripts/factions/actions/send_bandit_ambushers_action.nut
 # scripts/factions/actions/defend_bandits_action.nut
 msgid "A rough and tough band of brigands preying on the weak."
 msgstr "一支粗暴而强悍的强盗队伍在捕食弱者。"
+
+
+# scripts/factions/actions/send_bandit_roamers_action.nut
+msgid "A rough and tough band of brigands out to hunt for food."
+msgstr "一伙强盗为了食物而突然走出去。"
 
 
 # scripts/factions/actions/move_orcs_action.nut
@@ -191,10 +289,32 @@ msgid "A band of menacing orcs, greenskinned and towering any man."
 msgstr "一群凶残的兽人，绿皮肤，高耸于任何人之上。"
 
 
+# scripts/factions/actions/send_caravan_action.nut
+msgid " that is transporting all manner of goods between settlements."
+msgstr ""
+
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "A Lindwurm - a wingless bipedal dragon resembling a giant snake."
+msgstr "林德沃姆，一种无翼双足龙，形似巨蛇。"
+
+
+# scripts/factions/actions/send_refugees_action.nut
+msgid "Refugees fleeing the horrors of war - beaten down, tired and desperate."
+msgstr "逃离战争恐怖的难民，被打倒、疲惫和绝望。"
+
+
 # scripts/factions/actions/send_nomad_ambushers_action.nut
 # scripts/factions/actions/defend_nomad_action.nut
 msgid "A band of desert raiders preying on anyone trying to cross the seas of sand."
 msgstr "一群沙漠掠夺者捕食任何试图穿越沙海的人。"
+
+
+# scripts/factions/actions/move_undead_action.nut
+# scripts/factions/actions/send_undead_ambushers_action.nut
+# scripts/factions/actions/send_undead_army_action.nut
+msgid "A legion of walking dead, back to claim from the living what was once theirs."
+msgstr "一大群行尸，向活着的人索取曾经属于他们的东西。"
 
 
 # scripts/factions/actions/send_goblin_roamers_action.nut
@@ -205,28 +325,23 @@ msgid "A band of mischievous goblins, small but cunning and not to be underestim
 msgstr "一群淘气的哥布林，小而狡猾，不可低估。"
 
 
-# scripts/factions/actions/send_caravan_action.nut
-msgid "Trading Caravan"
-msgstr "贸易商队"
+# scripts/factions/actions/send_peasants_action.nut
+msgid "Farmers, craftsmen, pilgrims or other peasants on their way between settlements."
+msgstr "农夫、工匠、朝圣者或其他居民在定居点之间的道路上。"
 
 
-# scripts/factions/actions/send_caravan_action.nut
-msgid "A trading caravan from "
-msgstr ""
-
-
-# scripts/factions/actions/send_caravan_action.nut
-msgid " that is transporting all manner of goods between settlements."
-msgstr ""
+# scripts/factions/actions/send_supplies_action.nut
+msgid "A caravan with armed escorts transporting provisions, supplies and equipment between settlements."
+msgstr "一个带有武装护卫的商队，在定居点之间运输着值得保护的东西。"
 
 
 # scripts/factions/actions/send_beast_roamers_action.nut
-msgid "One or more lumbering giants."
-msgstr "一个或多个笨拙的巨人。"
+msgid "Creatures of living stone shaped by the blistering heat and fire of the burning sun of the south."
+msgstr "活生生的石头制成的生物，由南方烈日的酷热和烈火塑造而成。"
 
 
-# scripts/factions/actions/defend_militia_action.nut
-msgid " Militia"
+# scripts/factions/actions/send_peasants_action.nut
+msgid "Farmers, craftsmen, pilgrims or other citizens of the great city states on their way between settlements."
 msgstr ""
 
 
@@ -236,123 +351,8 @@ msgstr "勇敢的人用生命保卫家园。农夫、工匠、技工，但没有
 
 
 # scripts/factions/actions/send_beast_roamers_action.nut
-msgid "A flock of scavenging nachzehrers."
-msgstr "一群寻觅的食尸鬼"
-
-
-# scripts/factions/actions/move_undead_action.nut
-# scripts/factions/actions/send_undead_ambushers_action.nut
-# scripts/factions/actions/send_undead_army_action.nut
-msgid "A legion of walking dead, back to claim from the living what was once theirs."
-msgstr "一大群行尸，向活着的人索取曾经属于他们的东西。"
-
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "A swarm of webknechts skittering about."
-msgstr "一群蜘蛛在游荡。"
-
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Giant serpents slithering about."
-msgstr "巨大的大蛇在游荡。"
-
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "A pack of esurient hyenas on the hunt for prey."
-msgstr "一群贪婪的鬣狗在捕猎猎物。"
-
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "A Lindwurm - a wingless bipedal dragon resembling a giant snake."
-msgstr "林德虫，一种无翼双足龙，形似巨蛇。"
-
-
-# scripts/factions/actions/send_beast_roamers_action.nut
 msgid "A creature of bark and wood, blending between trees and shambling slowly, its roots digging through the soil."
 msgstr "一种树皮和木头的生物，混迹于树间，缓慢地蹒跚而行，它的根在土壤中挖掘。"
-
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "A pack of ferocious direwolves on the hunt for prey."
-msgstr "一群凶猛的冰原狼正在寻找猎物。"
-
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Creatures of living stone shaped by the blistering heat and fire of the burning sun of the south."
-msgstr "活生生的石头制成的生物，由南方烈日的酷热和烈火塑造而成。"
-
-
-# scripts/factions/actions/defend_undead_action.nut
-# scripts/factions/actions/send_undead_roamers_action.nut
-msgid "Something seems wrong."
-msgstr "好像有问题。"
-
-
-# scripts/factions/actions/send_bandit_roamers_action.nut
-msgid "A rough and tough band of brigands out to hunt for food."
-msgstr "一伙强盗为了食物而突然走出去。"
-
-
-# scripts/factions/actions/send_goblin_roamers_action.nut
-msgid "Goblin Hunters"
-msgstr ""
-
-
-# scripts/factions/actions/send_nomad_roamers_action.nut
-msgid "A band of nomads scouting the area."
-msgstr ""
-
-
-# scripts/factions/actions/receive_ship_action.nut
-# scripts/factions/actions/send_ship_action.nut
-msgid "Ship"
-msgstr "船"
-
-
-# scripts/factions/actions/receive_ship_action.nut
-# scripts/factions/actions/send_ship_action.nut
-msgid "A ship transporting goods and passengers."
-msgstr "运送货物和乘客的船。"
-
-
-# scripts/factions/actions/send_refugees_action.nut
-msgid "Refugees fleeing the horrors of war - beaten down, tired and desperate."
-msgstr "逃离战争恐怖的难民，被打倒、疲惫和绝望。"
-
-
-# scripts/factions/actions/send_orc_roamers_action.nut
-msgid "Orc Hunters"
-msgstr ""
-
-
-# scripts/factions/actions/build_unique_locations_action.nut
-msgid "Done placing all unique locations."
-msgstr ""
-
-
-# scripts/factions/actions/send_barbarian_roamers_action.nut
-msgid "A band of barbarians out to hunt game."
-msgstr ""
-
-
-# scripts/factions/actions/send_peasants_action.nut
-msgid "Farmers, craftsmen, pilgrims or other peasants on their way between settlements."
-msgstr "农夫、工匠、朝圣者或其他居民在定居点之间的道路上。"
-
-
-# scripts/factions/actions/send_peasants_action.nut
-msgid "Farmers, craftsmen, pilgrims or other citizens of the great city states on their way between settlements."
-msgstr ""
-
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "A tentacled horror from another age."
-msgstr "来自另一个时代的有触角的恐怖生物。"
-
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Pale and haggard creatures creeping around."
-msgstr "苍白而憔悴的生物在四处爬行。"
 
 
 # scripts/factions/actions/send_beast_roamers_action.nut

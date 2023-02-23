@@ -3,9 +3,9 @@ msgid "Kraken Shield"
 msgstr "克拉肯之盾"
 
 
-# scripts/items/shields/special/craftable_kraken_shield.nut
-msgid "This shield, carved out of a horn plate taken from a giant kraken, is stronger than any common shield."
-msgstr "这面盾牌是由克拉肯的角盘制作而成，比任何普通的盾牌都要坚固。"
+# scripts/items/shields/special/craftable_lindwurm_shield.nut
+msgid "Lindwurm Shield"
+msgstr "林德沃姆之盾"
 
 
 # scripts/items/shields/special/craftable_schrat_shield.nut
@@ -23,18 +23,18 @@ msgid "]20[/color] points of durability each turn."
 msgstr ""
 
 
-# scripts/items/shields/special/craftable_schrat_shield.nut
-msgid "This shield carved out of the remains of a living tree slowly regrows if it sustains any damage. At a glance, it almost looks as if its grotesque face is still moving."
-msgstr "这面盾牌是用一棵活树的残骸雕刻而成的，如果受到任何伤害，它会慢慢再生。 乍一看，它那怪诞的脸似乎还在动。"
-
-
-# scripts/items/shields/special/craftable_lindwurm_shield.nut
-msgid "Lindwurm Shield"
-msgstr "林德虫之盾"
+# scripts/items/shields/special/craftable_kraken_shield.nut
+msgid "This shield, carved out of a horn plate taken from a giant kraken, is stronger than any common shield."
+msgstr "这面盾牌是由克拉肯的角盘制作而成，比任何普通的盾牌都要坚固。"
 
 
 # scripts/items/shields/special/craftable_lindwurm_shield.nut
 msgid "This sturdy shield fashioned from the shimmering scales of a Lindwurm makes for protection nigh indestructible."
-msgstr "这个坚固的盾牌由闪闪发光的林德虫鳞片制成，几乎是坚不可摧的。"
+msgstr "这个坚固的盾牌由闪闪发光的林德沃姆鳞片制成，几乎是坚不可摧的。"
+
+
+# scripts/items/shields/special/craftable_schrat_shield.nut
+msgid "This shield carved out of the remains of a living tree slowly regrows if it sustains any damage. At a glance, it almost looks as if its grotesque face is still moving."
+msgstr "这面盾牌是用一棵活树的残骸雕刻而成的，如果受到任何伤害，它会慢慢再生。 乍一看，它那怪诞的脸似乎还在动。"
 
 
