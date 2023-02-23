@@ -1,6 +1,6 @@
 # scripts/ui/screens/tactical/modules/turn_sequence_bar/turn_sequence_bar.nut
 msgid "End Round"
-msgstr ""
+msgstr "结束回合"
 
 
 # scripts/ui/screens/tactical/modules/turn_sequence_bar/turn_sequence_bar.nut
@@ -40,6 +40,6 @@ msgstr ""
 
 # scripts/ui/screens/tactical/modules/turn_sequence_bar/turn_sequence_bar.nut
 msgid "Have all your characters skip their turn until the next round starts?"
-msgstr ""
+msgstr "你所有的角色都跳过他们的回合直到下一轮开始？"
 
 

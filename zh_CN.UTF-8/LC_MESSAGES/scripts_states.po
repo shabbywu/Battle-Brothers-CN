@@ -140,7 +140,7 @@ msgstr "你确定吗？"
 
 # scripts/states/tactical_state.nut
 msgid "Quit & Retire"
-msgstr ""
+msgstr "退出并退休"
 
 
 # scripts/states/tactical_state.nut
@@ -195,7 +195,7 @@ msgstr ""
 
 # scripts/states/tactical_state.nut
 msgid "Quit to Main Menu"
-msgstr ""
+msgstr "退出到主菜单"
 
 
 # scripts/states/tactical_state.nut
@@ -225,7 +225,7 @@ msgstr "战线（兽人）"
 
 # scripts/states/world_state.nut
 msgid "Old Campaign Loaded"
-msgstr ""
+msgstr "老战役已加载"
 
 
 # scripts/states/tactical_state.nut
@@ -462,12 +462,12 @@ msgstr "[p=c][img]gfx/ui/events/event_60.png[/img][/p]\n[p=c]抵御一群凶猛�
 
 # scripts/states/tactical_state.nut
 msgid "Are you sure you want to quit this battle and thereby forfeit your ironman run and retire from your company?\n\nYour save will be deleted and you won't be able to continue."
-msgstr ""
+msgstr "你确定你想退出这场战斗，从而失去你的铁人模式和退出你的战队？\n\n你的存档将被删除，你将无法继续。"
 
 
 # scripts/states/tactical_state.nut
 msgid "Are you sure you want to quit this battle and return to the main menu?\n\nAny progress made in battle will be lost, but there was an autosave made right before the battle started."
-msgstr ""
+msgstr "你确定要退出这场战斗并返回主菜单吗？\n\n在战斗中取得的任何进展都将丢失，如果可以的话在战斗开始前会自动保存。"
 
 
 # scripts/states/main_menu_state.nut
@@ -477,17 +477,17 @@ msgstr "[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n[p=c]很多简单的对
 
 # scripts/states/world_state.nut
 msgid "This campaign was created before you activated the 'Blazing Deserts' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign."
-msgstr ""
+msgstr "此战役是在激活“炽热沙漠”DLC之前创建的。 请注意，即使你可以继续玩此战役，除非你开始新的战役，否则你将无法访问所有新内容。"
 
 
 # scripts/states/world_state.nut
 msgid "This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign."
-msgstr ""
+msgstr "此战役是在激活“野兽与探险”DLC之前创建的。 请注意，即使你可以继续玩此战役，除非你开始新的战役，否则你将无法访问所有新内容。"
 
 
 # scripts/states/world_state.nut
 msgid "This campaign was created before you activated the 'Warriors of the North' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign."
-msgstr ""
+msgstr "此战役是在激活“北方的勇士”DLC之前创建的。 请注意，即使你可以继续玩此战役，除非你开始新的战役，否则你将无法访问所有新内容。"
 
 
 # scripts/states/main_menu_state.nut
