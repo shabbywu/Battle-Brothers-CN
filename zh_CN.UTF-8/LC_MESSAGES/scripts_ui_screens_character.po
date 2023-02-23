@@ -14,12 +14,12 @@ msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to unlock perk."
+msgid "Failed to find entity."
 msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to find entity."
+msgid "Failed to unlock perk."
 msgstr ""
 
 
@@ -29,12 +29,12 @@ msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to acquire stash."
+msgid "Item already within bag."
 msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Item already within bag."
+msgid "Failed to acquire stash."
 msgstr ""
 
 
@@ -59,12 +59,12 @@ msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to find ground item."
+msgid "Failed to equip stash item."
 msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to equip stash item."
+msgid "Failed to find ground item."
 msgstr ""
 
 
@@ -74,12 +74,12 @@ msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to acquire inventory."
+msgid "Failed to put item into bag."
 msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to put item into bag."
+msgid "Failed to acquire inventory."
 msgstr ""
 
 
@@ -119,12 +119,12 @@ msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to remove item from source slot."
+msgid "Failed to remove item from target slot."
 msgstr ""
 
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to remove item from target slot."
+msgid "Failed to remove item from source slot."
 msgstr ""
 
 

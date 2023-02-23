@@ -8,6 +8,11 @@ msgid "Lone Wolf"
 msgstr "独狼"
 
 
+# scripts/skills/effects/nightmare_effect.nut
+msgid "Nightmares"
+msgstr "噩梦"
+
+
 # scripts/skills/effects/adrenaline_effect.nut
 msgid "Adrenaline"
 msgstr "肾上腺素"
@@ -16,11 +21,6 @@ msgstr "肾上腺素"
 # scripts/skills/effects/nine_lives_effect.nut
 msgid "Nine Lives"
 msgstr "猫有九命"
-
-
-# scripts/skills/effects/nightmare_effect.nut
-msgid "Nightmares"
-msgstr "噩梦"
 
 
 # scripts/skills/effects/indomitable_effect.nut
@@ -596,16 +596,16 @@ msgstr ""
 
 
 # scripts/skills/effects/battle_standard_effect.nut
-msgid "For the company!"
-msgstr "为了战队！"
-
-
-# scripts/skills/effects/battle_standard_effect.nut
 # scripts/skills/effects/captain_effect.nut
 # scripts/skills/effects/orc_berserker_potion_effect.nut
 # scripts/skills/effects/whipped_effect.nut
 msgid "[/color] Resolve"
 msgstr ""
+
+
+# scripts/skills/effects/battle_standard_effect.nut
+msgid "For the company!"
+msgstr "为了战队！"
 
 
 # scripts/skills/effects/battle_standard_effect.nut
@@ -1095,13 +1095,13 @@ msgstr "的身体上喷了酸。"
 
 
 # scripts/skills/effects/lindwurm_acid_effect.nut
-msgid "]10%[/color] of body armor is lost each turn"
-msgstr "]10%[/color] 身体盔甲每回合都会损失"
+msgid "]10%[/color] of head armor is lost each turn"
+msgstr "]10%[/color] 头部盔甲每回合都会损失"
 
 
 # scripts/skills/effects/lindwurm_acid_effect.nut
-msgid "]10%[/color] of head armor is lost each turn"
-msgstr "]10%[/color] 头部盔甲每回合都会损失"
+msgid "]10%[/color] of body armor is lost each turn"
+msgstr "]10%[/color] 身体盔甲每回合都会损失"
 
 
 # scripts/skills/effects/lindwurm_acid_effect.nut
@@ -1186,13 +1186,13 @@ msgstr "盛宴"
 
 
 # scripts/skills/effects/acid_effect.nut
-msgid "]20%[/color] of body armor is lost each turn"
-msgstr "]20%[/color] 身体盔甲每回合都会损失"
+msgid "]20%[/color] of head armor is lost each turn"
+msgstr "]20%[/color] 头部盔甲每回合都会损失"
 
 
 # scripts/skills/effects/acid_effect.nut
-msgid "]20%[/color] of head armor is lost each turn"
-msgstr "]20%[/color] 头部盔甲每回合都会损失"
+msgid "]20%[/color] of body armor is lost each turn"
+msgstr "]20%[/color] 身体盔甲每回合都会损失"
 
 
 # scripts/skills/effects/chilled_effect.nut

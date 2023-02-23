@@ -20,12 +20,12 @@ msgstr ""
 
 
 # scripts/items/item_container.nut
-msgid ", but it is already placed somewhere else"
+msgid "Neither item is equipped, unable to swap!"
 msgstr ""
 
 
 # scripts/items/item_container.nut
-msgid "Neither item is equipped, unable to swap!"
+msgid ", but it is already placed somewhere else"
 msgstr ""
 
 

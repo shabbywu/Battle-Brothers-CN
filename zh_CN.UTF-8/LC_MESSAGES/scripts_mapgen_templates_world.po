@@ -19,12 +19,12 @@ msgstr ""
 
 
 # scripts/mapgen/templates/world/worldmap_generator.nut
-msgid "Spacing terrain..."
+msgid " separate regions."
 msgstr ""
 
 
 # scripts/mapgen/templates/world/worldmap_generator.nut
-msgid " separate regions."
+msgid "Spacing terrain..."
 msgstr ""
 
 

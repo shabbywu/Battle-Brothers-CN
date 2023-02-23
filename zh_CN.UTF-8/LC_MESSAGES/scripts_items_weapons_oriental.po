@@ -51,14 +51,14 @@ msgstr "一种附有锋利弯曲的刀刃的长杆，用于在一定距离内进
 
 
 # scripts/items/weapons/oriental/two_handed_scimitar.nut
-msgid "Two-Handed Scimitar"
-msgstr "双手弯刀"
-
-
-# scripts/items/weapons/oriental/two_handed_scimitar.nut
 # scripts/items/weapons/oriental/two_handed_saif.nut
 msgid "Cleaver, Two-Handed"
 msgstr ""
+
+
+# scripts/items/weapons/oriental/two_handed_scimitar.nut
+msgid "Two-Handed Scimitar"
+msgstr "双手弯刀"
 
 
 # scripts/items/weapons/oriental/two_handed_scimitar.nut

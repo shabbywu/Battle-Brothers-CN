@@ -18,29 +18,14 @@ msgid "Longaxe"
 msgstr "长斧"
 
 
-# scripts/items/weapons/billhook.nut
-msgid "Billhook"
-msgstr "钩镰"
-
-
-# scripts/items/weapons/bludgeon.nut
-msgid "Bludgeon"
-msgstr "大棒"
-
-
-# scripts/items/weapons/scimitar.nut
-msgid "Scimitar"
+# scripts/items/weapons/warbrand.nut
+msgid "Warbrand"
 msgstr "弯刀"
 
 
 # scripts/items/weapons/bardiche.nut
 msgid "Bardiche"
 msgstr "月牙砍刀"
-
-
-# scripts/items/weapons/warbrand.nut
-msgid "Warbrand"
-msgstr "弯刀"
 
 
 # scripts/items/weapons/shamshir.nut
@@ -51,6 +36,21 @@ msgstr "沙姆希尔"
 # scripts/items/weapons/crossbow.nut
 msgid "Crossbow"
 msgstr "弩"
+
+
+# scripts/items/weapons/scimitar.nut
+msgid "Scimitar"
+msgstr "弯刀"
+
+
+# scripts/items/weapons/bludgeon.nut
+msgid "Bludgeon"
+msgstr "大棒"
+
+
+# scripts/items/weapons/billhook.nut
+msgid "Billhook"
+msgstr "钩镰"
 
 
 # scripts/items/weapons/greatsword.nut
@@ -129,12 +129,12 @@ msgstr ""
 
 
 # scripts/items/weapons/weapon.nut
-msgid "[/color] less fatigue"
+msgid "[/color] more fatigue"
 msgstr ""
 
 
 # scripts/items/weapons/weapon.nut
-msgid "[/color] more fatigue"
+msgid "[/color] less fatigue"
 msgstr ""
 
 
@@ -676,13 +676,13 @@ msgstr ""
 
 
 # scripts/items/weapons/weapon.nut
-msgid "%[/color] effective against armor"
-msgstr "%[/color] 效果作用于盔甲"
+msgid "%[/color] of damage ignores armor"
+msgstr "%[/color] 伤害忽视盔甲"
 
 
 # scripts/items/weapons/weapon.nut
-msgid "%[/color] of damage ignores armor"
-msgstr "%[/color] 伤害忽视盔甲"
+msgid "%[/color] effective against armor"
+msgstr "%[/color] 效果作用于盔甲"
 
 
 # scripts/items/weapons/reinforced_wooden_flail.nut

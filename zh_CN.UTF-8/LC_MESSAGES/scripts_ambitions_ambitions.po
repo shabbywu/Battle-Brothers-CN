@@ -378,14 +378,14 @@ msgstr "战况激烈"
 
 # scripts/ambitions/ambitions/defeat_holywar_ambition.nut
 # scripts/ambitions/ambitions/defeat_civilwar_ambition.nut
-msgid "Almost Over"
-msgstr "接近尾声"
+msgid "Dragging On"
+msgstr "陷入胶着"
 
 
 # scripts/ambitions/ambitions/defeat_holywar_ambition.nut
 # scripts/ambitions/ambitions/defeat_civilwar_ambition.nut
-msgid "Dragging On"
-msgstr "陷入胶着"
+msgid "Almost Over"
+msgstr "接近尾声"
 
 
 # scripts/ambitions/ambitions/defeat_holywar_ambition.nut
@@ -549,11 +549,6 @@ msgstr "[img]gfx/ui/events/event_82.png[/img]血流成河，一百座被烧毁�
 
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
-msgid "\n- Rice"
-msgstr "- 大米"
-
-
-# scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid "\n- Wine"
 msgstr "\n- 葡萄酒"
 
@@ -561,6 +556,11 @@ msgstr "\n- 葡萄酒"
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid "\n- Beer"
 msgstr "\n- 啤酒"
+
+
+# scripts/ambitions/ambitions/have_all_provisions_ambition.nut
+msgid "\n- Rice"
+msgstr "- 大米"
 
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
@@ -589,13 +589,13 @@ msgstr "\n- 熏火腿"
 
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
-msgid "\n- Dried Lamb"
-msgstr "\n- 羊肉干"
+msgid "\n- Dried Fish"
+msgstr "\n- 鱼干"
 
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
-msgid "\n- Dried Fish"
-msgstr "\n- 鱼干"
+msgid "\n- Dried Lamb"
+msgstr "\n- 羊肉干"
 
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut

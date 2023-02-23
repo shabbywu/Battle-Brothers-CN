@@ -130,13 +130,13 @@ msgstr ""
 
 
 # scripts/retinue/followers/brigand_follower.nut
-msgid "The Brigand"
-msgstr "强盗"
+msgid "/4 caravans"
+msgstr ""
 
 
 # scripts/retinue/followers/brigand_follower.nut
-msgid "/4 caravans"
-msgstr ""
+msgid "The Brigand"
+msgstr "强盗"
 
 
 # scripts/retinue/followers/brigand_follower.nut
@@ -306,13 +306,13 @@ msgstr ""
 
 
 # scripts/retinue/followers/cook_follower.nut
-msgid "Makes all provisions last 3 extra days"
-msgstr "Makes all provisions last 3 extr一天s"
+msgid "Increases hitpoint healing rate by 33%"
+msgstr "增加33%的生命值治愈速度"
 
 
 # scripts/retinue/followers/cook_follower.nut
-msgid "Increases hitpoint healing rate by 33%"
-msgstr "增加33%的生命值治愈速度"
+msgid "Makes all provisions last 3 extra days"
+msgstr "Makes all provisions last 3 extr一天s"
 
 
 # scripts/retinue/followers/cook_follower.nut
@@ -381,13 +381,13 @@ msgstr ""
 
 
 # scripts/retinue/followers/minstrel_follower.nut
-msgid "The Minstrel"
-msgstr "吟游诗人"
+msgid " settlements"
+msgstr ""
 
 
 # scripts/retinue/followers/minstrel_follower.nut
-msgid " settlements"
-msgstr ""
+msgid "The Minstrel"
+msgstr "吟游诗人"
 
 
 # scripts/retinue/followers/minstrel_follower.nut

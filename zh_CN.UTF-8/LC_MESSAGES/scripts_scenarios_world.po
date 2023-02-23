@@ -85,13 +85,13 @@ msgstr ""
 
 
 # scripts/scenarios/world/manhunters_scenario.nut
-msgid "Manhunters"
-msgstr "搜捕者"
+msgid "the Beggar"
+msgstr ""
 
 
 # scripts/scenarios/world/manhunters_scenario.nut
-msgid "the Beggar"
-msgstr ""
+msgid "Manhunters"
+msgstr "搜捕者"
 
 
 # scripts/scenarios/world/manhunters_scenario.nut
@@ -535,13 +535,13 @@ msgstr "一个真正的小伙子，%name% 喜欢在酒吧里纵情款待女士�
 
 
 # scripts/scenarios/world/militia_scenario.nut
-msgid "You notice that %name% hides from certain noblemen. It is likely that he is a common criminal at large for some petty crime, but so long as he fights well it is no business to you."
-msgstr "你注意到 %name% 对某些贵族有些躲闪。 他很可能是一个普通的罪犯，因为犯了一些小罪而逍遥法外，但只要他打得好，对你来说就没什么大不了的。"
+msgid "%name% is a farmer's son, and presumably wishes to be the father of his own son at some point. For now, he's with you which is quite a regrettable clash between dreams and reality."
+msgstr "%name% 是一个农夫的儿子，大概希望在某个时候成为自己儿子的父亲。 现在，他和你在一起，这是梦想和现实之间令人遗憾的冲突。"
 
 
 # scripts/scenarios/world/militia_scenario.nut
-msgid "%name% is a farmer's son, and presumably wishes to be the father of his own son at some point. For now, he's with you which is quite a regrettable clash between dreams and reality."
-msgstr "%name% 是一个农夫的儿子，大概希望在某个时候成为自己儿子的父亲。 现在，他和你在一起，这是梦想和现实之间令人遗憾的冲突。"
+msgid "You notice that %name% hides from certain noblemen. It is likely that he is a common criminal at large for some petty crime, but so long as he fights well it is no business to you."
+msgstr "你注意到 %name% 对某些贵族有些躲闪。 他很可能是一个普通的罪犯，因为犯了一些小罪而逍遥法外，但只要他打得好，对你来说就没什么大不了的。"
 
 
 # scripts/scenarios/world/militia_scenario.nut

@@ -40,23 +40,18 @@ msgstr "管家"
 
 
 # scripts/entity/tactical/humans/councilman.nut
-msgid "the Treasurer"
-msgstr "司库"
-
-
-# scripts/entity/tactical/humans/councilman.nut
 msgid "the Councilor"
 msgstr "委员"
 
 
 # scripts/entity/tactical/humans/councilman.nut
-msgid "the Councilman"
-msgstr "议员"
+msgid "the Treasurer"
+msgstr "司库"
 
 
 # scripts/entity/tactical/humans/councilman.nut
-msgid "the Burgomeister"
-msgstr "市长"
+msgid "the Councilman"
+msgstr "议员"
 
 
 # scripts/entity/tactical/humans/councilman.nut
@@ -67,6 +62,11 @@ msgstr "帮主"
 # scripts/entity/tactical/humans/councilman.nut
 msgid "the Trade Master"
 msgstr "行业主管"
+
+
+# scripts/entity/tactical/humans/councilman.nut
+msgid "the Burgomeister"
+msgstr "市长"
 
 
 # scripts/entity/tactical/humans/barbarian_madman.nut

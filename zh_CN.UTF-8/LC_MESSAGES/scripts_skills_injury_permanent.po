@@ -84,13 +84,13 @@ msgstr "失明的眼睛使正确判断距离变得困难，并且限制了视野
 
 
 # scripts/skills/injury_permanent/collapsed_lung_part_injury.nut
-msgid "Partly Collapsed Lung"
-msgstr "部分肺萎缩"
+msgid "]-40%[/color] Fatigue"
+msgstr ""
 
 
 # scripts/skills/injury_permanent/collapsed_lung_part_injury.nut
-msgid "]-40%[/color] Fatigue"
-msgstr ""
+msgid "Partly Collapsed Lung"
+msgstr "部分肺萎缩"
 
 
 # scripts/skills/injury_permanent/collapsed_lung_part_injury.nut

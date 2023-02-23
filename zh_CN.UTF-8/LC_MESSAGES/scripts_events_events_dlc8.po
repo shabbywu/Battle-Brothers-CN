@@ -400,13 +400,13 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
-msgid "A win's a win."
+# scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
+msgid "On the road..."
 msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
-# scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
-msgid "On the road..."
+msgid "A win's a win."
 msgstr ""
 
 
@@ -450,12 +450,12 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
-msgid "What's our thief %thief% have to say?"
+msgid "Successfully stole from the peasantry"
 msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
-msgid "Successfully stole from the peasantry"
+msgid "What's our thief %thief% have to say?"
 msgstr ""
 
 
@@ -661,12 +661,12 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/oathtakers_skull_cracked_event.nut
-msgid "Was compelled to redouble his efforts following the oaths"
+msgid "Convinced he hasn't upheld the oaths as well as he should"
 msgstr ""
 
 
 # scripts/events/events/dlc8/oathtakers_skull_cracked_event.nut
-msgid "Convinced he hasn't upheld the oaths as well as he should"
+msgid "Was compelled to redouble his efforts following the oaths"
 msgstr ""
 
 
@@ -759,12 +759,12 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
-msgid "Your company was caught graverobbing"
+msgid "Put his grave-exhuming skills to use"
 msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
-msgid "Put his grave-exhuming skills to use"
+msgid "Your company was caught graverobbing"
 msgstr ""
 
 
@@ -869,12 +869,12 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
-msgid "]+3[/color] Max Fatigue"
+msgid "]+8[/color] Melee Skill"
 msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
-msgid "]+8[/color] Melee Skill"
+msgid "]+3[/color] Max Fatigue"
 msgstr ""
 
 
@@ -974,12 +974,12 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/captured_oathbringer_event.nut
-msgid "Damn Oathbringer scum."
+msgid "Justice has been done."
 msgstr ""
 
 
 # scripts/events/events/dlc8/captured_oathbringer_event.nut
-msgid "Justice has been done."
+msgid "Damn Oathbringer scum."
 msgstr ""
 
 
@@ -1139,22 +1139,17 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "I'm going with you."
-msgstr ""
-
-
-# scripts/events/events/dlc8/strange_scribe_event.nut
 msgid "]175[/color] Crowns"
 msgstr "]175[/color] 克朗"
 
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "Sure, he can come along."
+msgid "I'm going with you."
 msgstr ""
 
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "Better wise up, wiseacre."
+msgid "Sure, he can come along."
 msgstr ""
 
 
@@ -1164,12 +1159,17 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "This is far too suspicious."
+msgid "Better wise up, wiseacre."
 msgstr ""
 
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
 msgid "It is what it allegedly is."
+msgstr ""
+
+
+# scripts/events/events/dlc8/strange_scribe_event.nut
+msgid "This is far too suspicious."
 msgstr ""
 
 
@@ -1808,12 +1808,12 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/black_market_event.nut
-msgid "Gross, but alright."
+msgid "And cut your nails."
 msgstr ""
 
 
 # scripts/events/events/dlc8/black_market_event.nut
-msgid "And cut your nails."
+msgid "Gross, but alright."
 msgstr ""
 
 
@@ -1856,12 +1856,12 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/black_market_event.nut
-msgid "A promising research specimen turned out to be useless"
+msgid "I'll pay the 200 crowns for that...some kind of gland?"
 msgstr ""
 
 
 # scripts/events/events/dlc8/black_market_event.nut
-msgid "I'll pay the 200 crowns for that...some kind of gland?"
+msgid "A promising research specimen turned out to be useless"
 msgstr ""
 
 
@@ -2206,12 +2206,12 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/missing_kids_event.nut
-msgid "It gets old fast, trust me."
+msgid "Let's just get out of here."
 msgstr ""
 
 
 # scripts/events/events/dlc8/missing_kids_event.nut
-msgid "Let's just get out of here."
+msgid "It gets old fast, trust me."
 msgstr ""
 
 
@@ -2411,12 +2411,12 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "%cultist% the cultist is murmuring again."
+msgid "At least the anatomist took it in stride."
 msgstr ""
 
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "At least the anatomist took it in stride."
+msgid "%cultist% the cultist is murmuring again."
 msgstr ""
 
 
@@ -2436,12 +2436,12 @@ msgstr ""
 
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "Why's everyone lookin' at the biggest sellsword?"
+msgid "What does %anatomist% the anatomist have to say?"
 msgstr ""
 
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "What does %anatomist% the anatomist have to say?"
+msgid "Why's everyone lookin' at the biggest sellsword?"
 msgstr ""
 
 
@@ -2556,12 +2556,12 @@ msgstr "这不是我们的问题。"
 
 
 # scripts/events/events/dlc8/ruined_priory_event.nut
-msgid "]40[/color] Tools and Supplies"
+msgid "Helped repair a damaged priory"
 msgstr ""
 
 
 # scripts/events/events/dlc8/ruined_priory_event.nut
-msgid "Helped repair a damaged priory"
+msgid "]40[/color] Tools and Supplies"
 msgstr ""
 
 
@@ -2796,12 +2796,12 @@ msgstr "这不是我们的问题。"
 
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
-msgid "Good luck to you as well."
+msgid "Good luck out there, man."
 msgstr ""
 
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
-msgid "Good luck out there, man."
+msgid "Good luck to you as well."
 msgstr ""
 
 

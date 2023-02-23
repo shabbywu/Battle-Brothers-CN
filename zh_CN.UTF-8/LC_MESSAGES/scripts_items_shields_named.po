@@ -24,13 +24,18 @@ msgstr "蜥蜴的"
 
 
 # scripts/items/shields/named/named_lindwurm_shield.nut
+msgid "Wurmscale"
+msgstr "沼泽"
+
+
+# scripts/items/shields/named/named_lindwurm_shield.nut
 msgid "Snakehide"
 msgstr "蛇皮"
 
 
 # scripts/items/shields/named/named_lindwurm_shield.nut
-msgid "Wurmscale"
-msgstr "沼泽"
+msgid "Lindwurm's"
+msgstr "林德虫的"
 
 
 # scripts/items/shields/named/named_lindwurm_shield.nut
@@ -41,11 +46,6 @@ msgstr "龙鳞甲"
 # scripts/items/shields/named/named_lindwurm_shield.nut
 msgid "Scale Clad"
 msgstr "鳞片覆盖的"
-
-
-# scripts/items/shields/named/named_lindwurm_shield.nut
-msgid "Lindwurm's"
-msgstr "林德虫的"
 
 
 # scripts/items/shields/named/named_lindwurm_shield.nut

@@ -4,6 +4,11 @@ msgstr "难民"
 
 
 # scripts/entity/world/settlements/situations/besieged_situation.nut
+msgid "Besieged"
+msgstr "围困"
+
+
+# scripts/entity/world/settlements/situations/besieged_situation.nut
 # scripts/entity/world/settlements/situations/sickness_situation.nut
 # scripts/entity/world/settlements/situations/preparing_feast_situation.nut
 # scripts/entity/world/settlements/situations/short_on_food_situation.nut
@@ -12,11 +17,6 @@ msgstr "难民"
 # scripts/entity/world/settlements/situations/well_supplied_situation.nut
 msgid " now is "
 msgstr "现在有"
-
-
-# scripts/entity/world/settlements/situations/besieged_situation.nut
-msgid "Besieged"
-msgstr "围困"
 
 
 # scripts/entity/world/settlements/situations/besieged_situation.nut
@@ -1037,13 +1037,13 @@ msgstr "我听说他们在 %settlement% 附近抓了几个强盗，把他们送�
 
 
 # scripts/entity/world/settlements/situations/public_executions_situation.nut
-msgid "A public execution is not to be missed and provides entertainment for the whole family. Food and drink are abundant during such an occasion, but merchants may also try to take advantage of spectators."
-msgstr "公开处决是不容错过的，它为全家人提供了娱乐。在这样的场合，食物和饮料都很丰富，但商人也可能会试图利用观众。"
+msgid "Us poor folks don't have much to enjoy these days, but a good hanging is always welcome. Hasn't been one here since autumn, but they is hanging folk over at %settlement% is what %randomname% tells me."
+msgstr "现在，我们穷人没有什么好享受的，但是，一个好的绞刑总是受欢迎的。秋天以后这里就没人来过了，但他们在 %settlement% 有一些人，这是 %randomname% 告诉我的。"
 
 
 # scripts/entity/world/settlements/situations/public_executions_situation.nut
-msgid "Us poor folks don't have much to enjoy these days, but a good hanging is always welcome. Hasn't been one here since autumn, but they is hanging folk over at %settlement% is what %randomname% tells me."
-msgstr "现在，我们穷人没有什么好享受的，但是，一个好的绞刑总是受欢迎的。秋天以后这里就没人来过了，但他们在 %settlement% 有一些人，这是 %randomname% 告诉我的。"
+msgid "A public execution is not to be missed and provides entertainment for the whole family. Food and drink are abundant during such an occasion, but merchants may also try to take advantage of spectators."
+msgstr "公开处决是不容错过的，它为全家人提供了娱乐。在这样的场合，食物和饮料都很丰富，但商人也可能会试图利用观众。"
 
 
 # scripts/entity/world/settlements/situations/snow_storms_situation.nut

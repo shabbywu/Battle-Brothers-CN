@@ -427,13 +427,13 @@ msgstr "让我们走近点看看。"
 
 
 # scripts/events/events/crisis/greenskins_pet_goblin_event.nut
-msgid "You've gone mad, hermit. Mad!"
-msgstr "你一定是疯了，隐士。疯了！"
+msgid "]-2[/color] Medical Supplies."
+msgstr ""
 
 
 # scripts/events/events/crisis/greenskins_pet_goblin_event.nut
-msgid "]-2[/color] Medical Supplies."
-msgstr ""
+msgid "You've gone mad, hermit. Mad!"
+msgstr "你一定是疯了，隐士。疯了！"
 
 
 # scripts/events/events/crisis/greenskins_pet_goblin_event.nut
@@ -523,18 +523,13 @@ msgstr "滚你妈的。"
 
 
 # scripts/events/events/crisis/civilwar_conscription_event.nut
-msgid "We stay out of this."
-msgstr "我们别插手。"
-
-
-# scripts/events/events/crisis/civilwar_conscription_event.nut
 msgid "Did we do good here?"
 msgstr "我们在这里做得好吗？"
 
 
 # scripts/events/events/crisis/civilwar_conscription_event.nut
-msgid "Well. Let's move out."
-msgstr "好。我们走吧。"
+msgid "We stay out of this."
+msgstr "我们别插手。"
 
 
 # scripts/events/events/crisis/civilwar_conscription_event.nut
@@ -543,8 +538,8 @@ msgstr "我们帮农民这边！"
 
 
 # scripts/events/events/crisis/civilwar_conscription_event.nut
-msgid "That went south quick."
-msgstr "事情给搞砸了。"
+msgid "Well. Let's move out."
+msgstr "好。我们走吧。"
 
 
 # scripts/events/events/crisis/civilwar_conscription_event.nut
@@ -555,6 +550,11 @@ msgstr "我们帮贵族这边！"
 # scripts/events/events/crisis/civilwar_conscription_event.nut
 msgid "Glad to be of service."
 msgstr "很高兴能为你服务。"
+
+
+# scripts/events/events/crisis/civilwar_conscription_event.nut
+msgid "That went south quick."
+msgstr "事情给搞砸了。"
 
 
 # scripts/events/events/crisis/civilwar_conscription_event.nut
@@ -658,13 +658,13 @@ msgstr "你帮助了一个处境危险的农夫"
 
 
 # scripts/events/events/crisis/civilwar_treasurer_event.nut
-msgid "You threatened one of their treasurers"
-msgstr "你威胁了他们的一个司库"
+msgid "We gotta look out for ourselves first."
+msgstr "我们得先照顾好自己。"
 
 
 # scripts/events/events/crisis/civilwar_treasurer_event.nut
-msgid "We gotta look out for ourselves first."
-msgstr "我们得先照顾好自己。"
+msgid "You threatened one of their treasurers"
+msgstr "你威胁了他们的一个司库"
 
 
 # scripts/events/events/crisis/civilwar_treasurer_event.nut
@@ -1171,23 +1171,18 @@ msgstr "有些人真是不长记性。"
 
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
-msgid "We shall search the armory."
-msgstr "我们要搜查武器库。"
-
-
-# scripts/events/events/crisis/greenskins_investigation_event.nut
 msgid "We shall search the pantry."
 msgstr "我们要搜查食品储藏室。"
 
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
-msgid "We have no time for favors."
-msgstr "我们没时间帮忙。"
+msgid "We shall search the armory."
+msgstr "我们要搜查武器库。"
 
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
-msgid "Your secret is safe with me."
-msgstr "我会为你保密的。"
+msgid "We have no time for favors."
+msgstr "我们没时间帮忙。"
 
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
@@ -1201,13 +1196,18 @@ msgstr "真是个野蛮的家伙。"
 
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
-msgid "Your secret is safe with me. "
-msgstr "我会为你保密的。 "
+msgid "Your secret is safe with me."
+msgstr "我会为你保密的。"
 
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
 msgid "Your lord will hear of this. "
 msgstr "你的领主会听到的。 "
+
+
+# scripts/events/events/crisis/greenskins_investigation_event.nut
+msgid "Your secret is safe with me. "
+msgstr "我会为你保密的。 "
 
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
@@ -1556,14 +1556,14 @@ msgstr "[img]gfx/ui/events/event_79.png[/img]{当你在路上走的时候，你�
 
 
 # scripts/events/events/crisis/civilwar_trapped_soldiers_event.nut
-# scripts/events/events/crisis/civilwar_ambush_event.nut
-msgid "Saved some of their men"
-msgstr "救了他们的一些人"
+msgid "That went pretty well. "
+msgstr "这件事做的很好。 "
 
 
 # scripts/events/events/crisis/civilwar_trapped_soldiers_event.nut
-msgid "That went pretty well. "
-msgstr "这件事做的很好。 "
+# scripts/events/events/crisis/civilwar_ambush_event.nut
+msgid "Saved some of their men"
+msgstr "救了他们的一些人"
 
 
 # scripts/events/events/crisis/civilwar_trapped_soldiers_event.nut

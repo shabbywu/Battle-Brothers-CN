@@ -35,7 +35,7 @@ msgstr ""
 
 # scripts/entity/tactical/player_corpse_stub.nut
 # scripts/entity/tactical/player.nut
-msgid "Level "
+msgid " days."
 msgstr ""
 
 
@@ -47,7 +47,7 @@ msgstr ""
 
 # scripts/entity/tactical/player_corpse_stub.nut
 # scripts/entity/tactical/player.nut
-msgid " days."
+msgid "Level "
 msgstr ""
 
 
@@ -89,14 +89,14 @@ msgstr ""
 
 # scripts/entity/tactical/player_corpse_stub.nut
 # scripts/entity/tactical/player.nut
-msgid "Paid [img]gfx/ui/tooltips/money.png[/img]"
-msgstr ""
+msgid "With the company from the very beginning."
+msgstr "战队的创始人。"
 
 
 # scripts/entity/tactical/player_corpse_stub.nut
 # scripts/entity/tactical/player.nut
-msgid "With the company from the very beginning."
-msgstr "战队的创始人。"
+msgid "Paid [img]gfx/ui/tooltips/money.png[/img]"
+msgstr ""
 
 
 # scripts/entity/tactical/player_corpse_stub.nut
@@ -139,14 +139,14 @@ msgstr ""
 
 
 # scripts/entity/tactical/actor.nut
-msgid " has died"
-msgstr " 是死了"
-
-
-# scripts/entity/tactical/actor.nut
 # scripts/entity/tactical/player.nut
 msgid "Turn done"
 msgstr "回合结束"
+
+
+# scripts/entity/tactical/actor.nut
+msgid " has died"
+msgstr " 是死了"
 
 
 # scripts/entity/tactical/actor.nut
@@ -175,8 +175,8 @@ msgstr " 被发现！"
 
 
 # scripts/entity/tactical/actor.nut
-msgid " is hit for [b]"
-msgstr ""
+msgid " died in battle"
+msgstr " 在战斗中死亡"
 
 
 # scripts/entity/tactical/actor.nut
@@ -185,23 +185,23 @@ msgstr "隐藏对手"
 
 
 # scripts/entity/tactical/actor.nut
+msgid " is hit for [b]"
+msgstr ""
+
+
+# scripts/entity/tactical/actor.nut
 msgid " is struck down"
 msgstr " 被击倒"
 
 
 # scripts/entity/tactical/actor.nut
-msgid " died in battle"
-msgstr " 在战斗中死亡"
+msgid " has nine lives!"
+msgstr " 有九命！"
 
 
 # scripts/entity/tactical/actor.nut
 msgid " is unconscious."
 msgstr " 是无意识的。"
-
-
-# scripts/entity/tactical/actor.nut
-msgid " has nine lives!"
-msgstr " 有九命！"
 
 
 # scripts/entity/tactical/actor.nut
@@ -222,11 +222,6 @@ msgstr "受伤了"
 
 
 # scripts/entity/tactical/actor.nut
-msgid ",socket,miniboss,arrow)"
-msgstr ""
-
-
-# scripts/entity/tactical/actor.nut
 msgid "'s armor is hit for [b]"
 msgstr ""
 
@@ -235,6 +230,11 @@ msgstr ""
 # scripts/entity/tactical/player.nut
 msgid "%[/color] chance to hit"
 msgstr "%[/color] 命中几率"
+
+
+# scripts/entity/tactical/actor.nut
+msgid ",socket,miniboss,arrow)"
+msgstr ""
 
 
 # scripts/entity/tactical/actor.nut
@@ -284,13 +284,13 @@ msgstr ""
 
 
 # scripts/entity/tactical/player.nut
-msgid " battles"
-msgstr ""
+msgid "Beheaded"
+msgstr "斩首"
 
 
 # scripts/entity/tactical/player.nut
-msgid "Beheaded"
-msgstr "斩首"
+msgid " battles"
+msgstr ""
 
 
 # scripts/entity/tactical/player.nut

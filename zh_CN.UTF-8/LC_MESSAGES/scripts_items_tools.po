@@ -95,13 +95,13 @@ msgstr "一个装满神秘火药的一次性罐子，在撞击时会发生剧烈
 
 
 # scripts/items/tools/holy_water_item.nut
-msgid "weapon.holy Water"
-msgstr ""
+msgid "Damage of [color="
+msgstr "伤害"
 
 
 # scripts/items/tools/holy_water_item.nut
-msgid "Damage of [color="
-msgstr "伤害"
+msgid "weapon.holy Water"
+msgstr ""
 
 
 # scripts/items/tools/holy_water_item.nut

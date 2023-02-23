@@ -9,17 +9,12 @@ msgstr "愤怒誓言"
 
 
 # scripts/skills/skill.nut
-msgid " uses "
-msgstr ""
-
-
-# scripts/skills/skill.nut
 msgid "Killed"
 msgstr "杀死"
 
 
 # scripts/skills/skill.nut
-msgid "Assets"
+msgid " uses "
 msgstr ""
 
 
@@ -29,7 +24,7 @@ msgstr "还击"
 
 
 # scripts/skills/skill.nut
-msgid " has hit "
+msgid "'s shield"
 msgstr ""
 
 
@@ -39,32 +34,12 @@ msgstr ""
 
 
 # scripts/skills/skill.nut
-msgid "'s shield"
-msgstr ""
-
-
-# scripts/skills/skill.nut
 msgid "Too close"
 msgstr "太近"
 
 
 # scripts/skills/skill.nut
-msgid "Shieldwall"
-msgstr "盾墙"
-
-
-# scripts/skills/skill.nut
-msgid " (Chance: "
-msgstr ""
-
-
-# scripts/skills/skill.nut
-msgid "[b][color="
-msgstr ""
-
-
-# scripts/skills/skill.nut
-msgid ", Rolled: "
+msgid " has hit "
 msgstr ""
 
 
@@ -76,6 +51,26 @@ msgstr ""
 # scripts/skills/skill.nut
 msgid "Surrounded"
 msgstr "包围"
+
+
+# scripts/skills/skill.nut
+msgid " (Chance: "
+msgstr ""
+
+
+# scripts/skills/skill.nut
+msgid ", Rolled: "
+msgstr ""
+
+
+# scripts/skills/skill.nut
+msgid "Shieldwall"
+msgstr "盾墙"
+
+
+# scripts/skills/skill.nut
+msgid "[b][color="
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -154,13 +149,13 @@ msgstr "恶劣地形上的目标"
 
 
 # scripts/skills/skill.nut
-msgid "Immune to being rooted"
-msgstr "免疫定身"
+msgid "'s shield for 1 damage"
+msgstr ""
 
 
 # scripts/skills/skill.nut
-msgid "'s shield for 1 damage"
-msgstr ""
+msgid "Immune to being rooted"
+msgstr "免疫定身"
 
 
 # scripts/skills/skill.nut
@@ -194,22 +189,22 @@ msgstr ""
 
 
 # scripts/skills/skill.nut
-msgid "Resistance against piercing attacks"
-msgstr "穿刺抗性"
-
-
-# scripts/skills/skill.nut
 msgid " and the shot goes astray and hits "
 msgstr ""
 
 
 # scripts/skills/skill.nut
-msgid " and the shot goes astray and misses "
-msgstr ""
+msgid "Resistance against piercing attacks"
+msgstr "穿刺抗性"
 
 
 # scripts/skills/skill.nut
 msgid " AP[/color][/b] to use and builds up "
+msgstr ""
+
+
+# scripts/skills/skill.nut
+msgid " and the shot goes astray and misses "
 msgstr ""
 
 

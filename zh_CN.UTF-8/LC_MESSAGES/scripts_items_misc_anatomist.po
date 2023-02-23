@@ -13,14 +13,14 @@ msgid "Hyena"
 msgstr "鬣狗"
 
 
-# scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid "Geist"
-msgstr "精神"
-
-
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Ifrit"
 msgstr "伊夫利特"
+
+
+# scripts/items/misc/anatomist/research_notes_undead_item.nut
+msgid "Geist"
+msgstr "精神"
 
 
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
@@ -63,14 +63,14 @@ msgid "Rachegeist"
 msgstr "雷切吉斯特"
 
 
+# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
+msgid "Orc Warrior"
+msgstr "兽人战士"
+
+
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Necrosavant"
 msgstr "死灵法师"
-
-
-# scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid "Fallen Hero"
-msgstr "堕落的英雄"
 
 
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
@@ -78,9 +78,9 @@ msgid "Necromancer"
 msgstr "死灵法师"
 
 
-# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
-msgid "Orc Warrior"
-msgstr "兽人战士"
+# scripts/items/misc/anatomist/research_notes_undead_item.nut
+msgid "Fallen Hero"
+msgstr "堕落的英雄"
 
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut

@@ -82,13 +82,13 @@ msgstr "板甲衣"
 
 
 # scripts/items/armor/named/black_leather_armor.nut
-msgid "Peel"
-msgstr "外皮"
+msgid "Skin"
+msgstr "皮肤"
 
 
 # scripts/items/armor/named/black_leather_armor.nut
-msgid "Skin"
-msgstr "皮肤"
+msgid "Peel"
+msgstr "外皮"
 
 
 # scripts/items/armor/named/black_leather_armor.nut
@@ -102,14 +102,14 @@ msgstr "黑色"
 
 
 # scripts/items/armor/named/black_leather_armor.nut
-# scripts/items/armor/named/named_noble_mail_armor.nut
-msgid "Nightcloak"
-msgstr "夜斗篷"
+msgid "Mail Shirt"
+msgstr "链甲衫"
 
 
 # scripts/items/armor/named/black_leather_armor.nut
-msgid "Mail Shirt"
-msgstr "链甲衫"
+# scripts/items/armor/named/named_noble_mail_armor.nut
+msgid "Nightcloak"
+msgstr "夜斗篷"
 
 
 # scripts/items/armor/named/black_leather_armor.nut
@@ -133,12 +133,12 @@ msgstr ""
 
 
 # scripts/items/armor/named/named_skull_and_chain_armor.nut
-msgid "Barbarian Pelt"
+msgid "Barbarian Coat"
 msgstr ""
 
 
 # scripts/items/armor/named/named_skull_and_chain_armor.nut
-msgid "Barbarian Coat"
+msgid "Barbarian Pelt"
 msgstr ""
 
 
@@ -254,13 +254,13 @@ msgstr "受污染的保障"
 
 
 # scripts/items/armor/named/named_bronze_armor.nut
-msgid "Alloy Plate Armor"
-msgstr "合金板装甲"
+msgid "Tarnished Harness"
+msgstr "失去光泽的甲胄"
 
 
 # scripts/items/armor/named/named_bronze_armor.nut
-msgid "Tarnished Harness"
-msgstr "失去光泽的甲胄"
+msgid "Alloy Plate Armor"
+msgstr "合金板装甲"
 
 
 # scripts/items/armor/named/named_bronze_armor.nut
@@ -274,13 +274,13 @@ msgstr "救生者"
 
 
 # scripts/items/armor/named/brown_coat_of_plates_armor.nut
-msgid "Plated Vest"
-msgstr "护板背心"
+msgid "Plate Armor"
+msgstr "板甲"
 
 
 # scripts/items/armor/named/brown_coat_of_plates_armor.nut
-msgid "Plate Armor"
-msgstr "板甲"
+msgid "Plated Vest"
+msgstr "护板背心"
 
 
 # scripts/items/armor/named/brown_coat_of_plates_armor.nut
@@ -299,13 +299,13 @@ msgstr "龙皮"
 
 
 # scripts/items/armor/named/lindwurm_armor.nut
-msgid "Lizard's Coat"
-msgstr "蜥蜴大衣"
+msgid "Lindwurm Coat"
+msgstr "林德虫大衣"
 
 
 # scripts/items/armor/named/lindwurm_armor.nut
-msgid "Lindwurm Coat"
-msgstr "林德虫大衣"
+msgid "Lizard's Coat"
+msgstr "蜥蜴大衣"
 
 
 # scripts/items/armor/named/lindwurm_armor.nut
@@ -374,6 +374,11 @@ msgstr "优雅"
 
 
 # scripts/items/armor/named/heraldic_mail_armor.nut
+msgid "Pageantry"
+msgstr "盛典"
+
+
+# scripts/items/armor/named/heraldic_mail_armor.nut
 msgid "Full Mail"
 msgstr "完整裹体"
 
@@ -381,11 +386,6 @@ msgstr "完整裹体"
 # scripts/items/armor/named/heraldic_mail_armor.nut
 msgid "Chainmail"
 msgstr "锁甲"
-
-
-# scripts/items/armor/named/heraldic_mail_armor.nut
-msgid "Pageantry"
-msgstr "盛典"
 
 
 # scripts/items/armor/named/heraldic_mail_armor.nut
@@ -409,13 +409,13 @@ msgstr "鳞皮甲"
 
 
 # scripts/items/armor/named/golden_scale_armor.nut
-msgid "Goldskin"
-msgstr "黄金之皮"
+msgid "Wyrmskin"
+msgstr "古龙皮"
 
 
 # scripts/items/armor/named/golden_scale_armor.nut
-msgid "Wyrmskin"
-msgstr "古龙皮"
+msgid "Goldskin"
+msgstr "黄金之皮"
 
 
 # scripts/items/armor/named/golden_scale_armor.nut

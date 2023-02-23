@@ -60,13 +60,13 @@ msgstr "狼冠"
 
 
 # scripts/items/helmets/named/wolf_helmet.nut
-msgid "Berserker Coif"
-msgstr ""
+msgid "Predator Crown"
+msgstr "捕食者冠"
 
 
 # scripts/items/helmets/named/wolf_helmet.nut
-msgid "Predator Crown"
-msgstr "捕食者冠"
+msgid "Berserker Coif"
+msgstr ""
 
 
 # scripts/items/helmets/named/wolf_helmet.nut
@@ -130,8 +130,8 @@ msgstr "国外设计的一款带有完整链甲面罩的坚固合金头盔，可
 
 
 # scripts/items/helmets/named/lindwurm_helmet.nut
-msgid "Lindwurm Ward"
-msgstr "林德虫监护"
+msgid "Dragon's Dome"
+msgstr "龙穹"
 
 
 # scripts/items/helmets/named/lindwurm_helmet.nut
@@ -140,8 +140,8 @@ msgstr "林德虫面罩"
 
 
 # scripts/items/helmets/named/lindwurm_helmet.nut
-msgid "Dragon's Dome"
-msgstr "龙穹"
+msgid "Lindwurm Ward"
+msgstr "林德虫监护"
 
 
 # scripts/items/helmets/named/lindwurm_helmet.nut
@@ -150,13 +150,13 @@ msgstr "林德虫的头"
 
 
 # scripts/items/helmets/named/lindwurm_helmet.nut
-msgid "Lizard Headpiece"
-msgstr "蜥蜴头饰"
+msgid "Wurmscale Helmet"
+msgstr "沼泽头盔"
 
 
 # scripts/items/helmets/named/lindwurm_helmet.nut
-msgid "Wurmscale Helmet"
-msgstr "沼泽头盔"
+msgid "Lizard Headpiece"
+msgstr "蜥蜴头饰"
 
 
 # scripts/items/helmets/named/lindwurm_helmet.nut
@@ -211,13 +211,13 @@ msgstr "太阳斗篷"
 
 
 # scripts/items/helmets/named/gold_and_black_turban.nut
-msgid "Golden Crest"
-msgstr "金冠"
+msgid "Desert Crest"
+msgstr "沙漠冠"
 
 
 # scripts/items/helmets/named/gold_and_black_turban.nut
-msgid "Desert Crest"
-msgstr "沙漠冠"
+msgid "Golden Crest"
+msgstr "金冠"
 
 
 # scripts/items/helmets/named/gold_and_black_turban.nut
@@ -231,13 +231,13 @@ msgstr "镀金者的骄傲"
 
 
 # scripts/items/helmets/named/gold_and_black_turban.nut
-msgid "Gilder's Visage"
-msgstr "镀金者的面容"
+msgid "Scorpion's Helm"
+msgstr "太阳面纱"
 
 
 # scripts/items/helmets/named/gold_and_black_turban.nut
-msgid "Scorpion's Helm"
-msgstr "太阳面纱"
+msgid "Gilder's Visage"
+msgstr "镀金者的面容"
 
 
 # scripts/items/helmets/named/gold_and_black_turban.nut
@@ -346,13 +346,13 @@ msgstr "笨重的护面"
 
 
 # scripts/items/helmets/named/named_metal_nose_horn_helmet.nut
-msgid "Bladed Headguard"
-msgstr "刃头护板"
+msgid "Spiked Headpiece"
+msgstr "钉头"
 
 
 # scripts/items/helmets/named/named_metal_nose_horn_helmet.nut
-msgid "Spiked Headpiece"
-msgstr "钉头"
+msgid "Bladed Headguard"
+msgstr "刃头护板"
 
 
 # scripts/items/helmets/named/named_metal_nose_horn_helmet.nut
@@ -401,13 +401,13 @@ msgstr ""
 
 
 # scripts/items/helmets/named/named_steppe_helmet_with_mail.nut
-msgid "Headdress Helmet"
-msgstr "头翼盔"
+msgid "Horsehair Helmet"
+msgstr "马毛头盔"
 
 
 # scripts/items/helmets/named/named_steppe_helmet_with_mail.nut
-msgid "Horsehair Helmet"
-msgstr "马毛头盔"
+msgid "Headdress Helmet"
+msgstr "头翼盔"
 
 
 # scripts/items/helmets/named/named_steppe_helmet_with_mail.nut
@@ -491,13 +491,13 @@ msgstr "纹章头盔"
 
 
 # scripts/items/helmets/named/heraldic_mail_helmet.nut
-msgid "Knightly Bascinet"
-msgstr "骑士中型盔"
+msgid "Heraldic Bascinet"
+msgstr "纹章中头盔"
 
 
 # scripts/items/helmets/named/heraldic_mail_helmet.nut
-msgid "Heraldic Bascinet"
-msgstr "纹章中头盔"
+msgid "Knightly Bascinet"
+msgstr "骑士中型盔"
 
 
 # scripts/items/helmets/named/heraldic_mail_helmet.nut

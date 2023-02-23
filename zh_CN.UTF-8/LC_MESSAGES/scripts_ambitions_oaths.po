@@ -348,12 +348,12 @@ msgstr "复仇誓言"
 
 
 # scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
-msgid "]+15[/color] Resolve, [color="
+msgid "]-10[/color] Resolve, [color="
 msgstr ""
 
 
 # scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
-msgid "]-10[/color] Resolve, [color="
+msgid "]+15[/color] Resolve, [color="
 msgstr ""
 
 
@@ -493,13 +493,13 @@ msgstr ""
 
 
 # scripts/ambitions/oaths/oath_ambition.nut
-msgid "1 more day"
-msgstr " 1 天"
+msgid "Uphold an "
+msgstr "正在宣下 "
 
 
 # scripts/ambitions/oaths/oath_ambition.nut
-msgid "Uphold an "
-msgstr "正在宣下 "
+msgid "1 more day"
+msgstr " 1 天"
 
 
 # scripts/ambitions/oaths/oath_ambition.nut
@@ -513,13 +513,13 @@ msgstr "你的声望会提高，这意味着合同的报酬会更高，并有可
 
 
 # scripts/ambitions/oaths/oath_of_humility_ambition.nut
-msgid "Oath of Humility"
-msgstr "谦逊誓言"
+msgid "You earn [color="
+msgstr ""
 
 
 # scripts/ambitions/oaths/oath_of_humility_ambition.nut
-msgid "You earn [color="
-msgstr ""
+msgid "Oath of Humility"
+msgstr "谦逊誓言"
 
 
 # scripts/ambitions/oaths/oath_of_humility_ambition.nut
