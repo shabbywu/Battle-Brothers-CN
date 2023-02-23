@@ -1,26 +1,11 @@
-# scripts/items/shields/greenskins/orc_heavy_shield.nut
-msgid "A massive metal shield that is almost impossible to destroy but very heavy and fatiguing to wear for any human."
-msgstr "一面巨大的金属盾牌几乎不可能被摧毁但却非常沉重，人类装备会疲惫不堪。"
-
-
-# scripts/items/shields/greenskins/goblin_heavy_shield.nut
-msgid "Reinforced Skirmisher Shield"
-msgstr "强化散兵盾"
-
-
-# scripts/items/shields/greenskins/goblin_heavy_shield.nut
-msgid "A reinforced wooden shield made by goblins. Light but also small, offering little protection for a human using it."
-msgstr "由哥布林制作的强化木盾。小又轻，对使用它的人几乎没有什么保护作用。"
-
-
 # scripts/items/shields/greenskins/orc_light_shield.nut
 msgid "Feral Shield"
 msgstr "野性盾牌"
 
 
-# scripts/items/shields/greenskins/orc_light_shield.nut
-msgid "A light wooden shield covered in leather. Offers good protection against ranged attacks due to its size, but is quite fragile."
-msgstr "一个用皮革覆盖的轻木盾。它的尺寸对远程攻击提供了很好的保护，但十分脆弱。"
+# scripts/items/shields/greenskins/orc_heavy_shield.nut
+msgid "Heavy Metal Shield"
+msgstr "重型金属盾"
 
 
 # scripts/items/shields/greenskins/goblin_light_shield.nut
@@ -28,13 +13,28 @@ msgid "Wooden Skirmisher Shield"
 msgstr "木制散兵盾"
 
 
+# scripts/items/shields/greenskins/goblin_heavy_shield.nut
+msgid "Reinforced Skirmisher Shield"
+msgstr "强化散兵盾"
+
+
+# scripts/items/shields/greenskins/orc_heavy_shield.nut
+msgid "A massive metal shield that is almost impossible to destroy but very heavy and fatiguing to wear for any human."
+msgstr "一面巨大的金属盾牌几乎不可能被摧毁但却非常沉重，人类装备会疲惫不堪。"
+
+
+# scripts/items/shields/greenskins/goblin_heavy_shield.nut
+msgid "A reinforced wooden shield made by goblins. Light but also small, offering little protection for a human using it."
+msgstr "由哥布林制作的强化木盾。小又轻，对使用它的人几乎没有什么保护作用。"
+
+
 # scripts/items/shields/greenskins/goblin_light_shield.nut
 msgid "A wooden shield made by goblins. Light but also small, offering little protection against attacks for a human using it."
 msgstr "哥布林制作的木制盾牌。小又轻，对使用它的人几乎没有什么保护作用也抵御不了什么攻击。"
 
 
-# scripts/items/shields/greenskins/orc_heavy_shield.nut
-msgid "Heavy Metal Shield"
-msgstr "重型金属盾"
+# scripts/items/shields/greenskins/orc_light_shield.nut
+msgid "A light wooden shield covered in leather. Offers good protection against ranged attacks due to its size, but is quite fragile."
+msgstr "一个用皮革覆盖的轻木盾。它的尺寸对远程攻击提供了很好的保护，但十分脆弱。"
 
 

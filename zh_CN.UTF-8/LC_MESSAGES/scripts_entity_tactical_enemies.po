@@ -3,12 +3,32 @@
 # scripts/entity/tactical/enemies/zombie.nut
 # scripts/entity/tactical/enemies/schrat_small.nut
 msgid "A "
-msgstr ""
+msgstr "一个"
 
 
 # scripts/entity/tactical/enemies/sand_golem.nut
 # scripts/entity/tactical/enemies/alp.nut
 msgid "An "
+msgstr "一个"
+
+
+# scripts/entity/tactical/enemies/lindwurm_tail.nut
+msgid "'s "
+msgstr "的"
+
+
+# scripts/entity/tactical/enemies/goblin_wolfrider.nut
+msgid "A Wolf"
+msgstr ""
+
+
+# scripts/entity/tactical/enemies/hexe.nut
+msgid "A Hexe"
+msgstr ""
+
+
+# scripts/entity/tactical/enemies/hyena.nut
+msgid "A Hyena"
 msgstr ""
 
 
@@ -51,34 +71,44 @@ msgid "ffffff5f"
 msgstr ""
 
 
-# scripts/entity/tactical/enemies/lindwurm_tail.nut
-msgid "'s "
+# scripts/entity/tactical/enemies/schrat.nut
+msgid "A Schrat"
 msgstr ""
 
 
-# scripts/entity/tactical/enemies/lindwurm_tail.nut
-msgid "[/b] damage"
+# scripts/entity/tactical/enemies/phylactery.nut
+msgid "ffffff1f"
 msgstr ""
 
 
-# scripts/entity/tactical/enemies/lindwurm_tail.nut
-msgid " is hit for [b]"
+# scripts/entity/tactical/enemies/flying_skull.nut
+msgid "ffffff8f"
 msgstr ""
 
 
-# scripts/entity/tactical/enemies/lindwurm_tail.nut
-msgid "Suffered an injury"
-msgstr "受伤了"
-
-
-# scripts/entity/tactical/enemies/lindwurm_tail.nut
-msgid "[/b] damage and suffers "
+# scripts/entity/tactical/enemies/hexe.nut
+msgid "fff3e500"
 msgstr ""
 
 
-# scripts/entity/tactical/enemies/direwolf_high.nut
-msgid "Frenzied Direwolf"
+# scripts/entity/tactical/enemies/hexe.nut
+msgid "fff3e50f"
 msgstr ""
+
+
+# scripts/entity/tactical/enemies/zombie_knight.nut
+msgid "Headless "
+msgstr "无头的"
+
+
+# scripts/entity/tactical/enemies/serpent.nut
+msgid "A Serpent"
+msgstr "一条蛇"
+
+
+# scripts/entity/tactical/enemies/unhold.nut
+msgid "An Unhold"
+msgstr "一只巨魔"
 
 
 # scripts/entity/tactical/enemies/direwolf.nut
@@ -92,33 +122,13 @@ msgid "A Lindwurm"
 msgstr ""
 
 
-# scripts/entity/tactical/enemies/goblin_wolfrider.nut
-msgid "A Wolf"
+# scripts/entity/tactical/enemies/phylactery.nut
+msgid "phylactery"
 msgstr ""
 
 
-# scripts/entity/tactical/enemies/zombie_knight.nut
-msgid "Headless "
-msgstr ""
-
-
-# scripts/entity/tactical/enemies/hyena.nut
-msgid "A Hyena"
-msgstr ""
-
-
-# scripts/entity/tactical/enemies/orc_berserker.nut
-msgid "An Orc Berserker"
-msgstr ""
-
-
-# scripts/entity/tactical/enemies/orc_warlord.nut
-msgid "An Orc Warlord"
-msgstr ""
-
-
-# scripts/entity/tactical/enemies/serpent.nut
-msgid "A Serpent"
+# scripts/entity/tactical/enemies/lindwurm_tail.nut
+msgid "[/b] damage"
 msgstr ""
 
 
@@ -127,13 +137,13 @@ msgid "A Webknecht"
 msgstr ""
 
 
-# scripts/entity/tactical/enemies/bandit_raider_wolf.nut
-msgid "Disguised Bandit"
-msgstr "伪装的土匪"
+# scripts/entity/tactical/enemies/orc_young.nut
+msgid "A Young Orc"
+msgstr ""
 
 
-# scripts/entity/tactical/enemies/schrat.nut
-msgid "A Schrat"
+# scripts/entity/tactical/enemies/orc_warlord.nut
+msgid "An Orc Warlord"
 msgstr ""
 
 
@@ -142,23 +152,13 @@ msgid "An Orc Warrior"
 msgstr ""
 
 
-# scripts/entity/tactical/enemies/orc_young.nut
-msgid "A Young Orc"
-msgstr ""
-
-
-# scripts/entity/tactical/enemies/phylactery.nut
-msgid "ffffff1f"
-msgstr ""
-
-
-# scripts/entity/tactical/enemies/phylactery.nut
-msgid "phylactery"
+# scripts/entity/tactical/enemies/hyena_high.nut
+msgid "Frenzied Hyena"
 msgstr ""
 
 
 # scripts/entity/tactical/enemies/lindwurm_tail.nut
-msgid "'s natural armor is hit for [b]"
+msgid " is hit for [b]"
 msgstr ""
 
 
@@ -167,19 +167,24 @@ msgid "Beast of Beasts"
 msgstr "比斯巨兽"
 
 
-# scripts/entity/tactical/enemies/hyena_high.nut
-msgid "Frenzied Hyena"
+# scripts/entity/tactical/enemies/orc_berserker.nut
+msgid "An Orc Berserker"
 msgstr ""
 
 
-# scripts/entity/tactical/enemies/unhold.nut
-msgid "An Unhold"
+# scripts/entity/tactical/enemies/bandit_raider_wolf.nut
+msgid "Disguised Bandit"
+msgstr "伪装的土匪"
+
+
+# scripts/entity/tactical/enemies/direwolf_high.nut
+msgid "Frenzied Direwolf"
 msgstr ""
 
 
-# scripts/entity/tactical/enemies/flying_skull.nut
-msgid "ffffff8f"
-msgstr ""
+# scripts/entity/tactical/enemies/lindwurm_tail.nut
+msgid "Suffered an injury"
+msgstr "受伤了"
 
 
 # scripts/entity/tactical/enemies/skeleton_lich.nut
@@ -187,18 +192,13 @@ msgid " transcends death!"
 msgstr ""
 
 
-# scripts/entity/tactical/enemies/hexe.nut
-msgid "A Hexe"
+# scripts/entity/tactical/enemies/lindwurm_tail.nut
+msgid "[/b] damage and suffers "
 msgstr ""
 
 
-# scripts/entity/tactical/enemies/hexe.nut
-msgid "fff3e500"
-msgstr ""
-
-
-# scripts/entity/tactical/enemies/hexe.nut
-msgid "fff3e50f"
+# scripts/entity/tactical/enemies/lindwurm_tail.nut
+msgid "'s natural armor is hit for [b]"
 msgstr ""
 
 

@@ -1,12 +1,32 @@
+# scripts/items/tools/fire_bomb_item.nut
+msgid "Fire Pot"
+msgstr "火焰罐"
+
+
+# scripts/items/tools/daze_bomb_item.nut
+msgid "Flash Pot"
+msgstr "闪光罐"
+
+
+# scripts/items/tools/smoke_bomb_item.nut
+msgid "Smoke Pot"
+msgstr "烟雾罐"
+
+
+# scripts/items/tools/acid_flask_item.nut
+msgid "Acid Flask"
+msgstr "酸瓶"
+
+
+# scripts/items/tools/throwing_net.nut
+msgid "Throwing Net"
+msgstr "投网"
+
+
 # scripts/items/tools/holy_water_item.nut
 # scripts/items/tools/acid_flask_item.nut
 msgid "Has a [color="
 msgstr ""
-
-
-# scripts/items/tools/holy_water_item.nut
-msgid "]33%[/color] chance to hit bystanders at the same or lower height level as well."
-msgstr "]33%[/color] 命中几率 bystanders at the same or lower height level as well."
 
 
 # scripts/items/tools/daze_bomb_item.nut
@@ -25,30 +45,10 @@ msgid "Covers [color="
 msgstr ""
 
 
-# scripts/items/tools/smoke_bomb_item.nut
-msgid "]7[/color] tiles in smoke for one round, allowing anyone inside to move freely and ignore zones of control"
-msgstr ""
-
-
-# scripts/items/tools/daze_bomb_item.nut
-msgid "]7[/color] targets the Dazed status effect for 2 turns"
-msgstr ""
-
-
-# scripts/items/tools/acid_flask_item.nut
-msgid "Reduces the target's armor by [color="
-msgstr ""
-
-
 # scripts/items/tools/faction_banner.nut
 # scripts/items/tools/player_banner.nut
 msgid "Battle Standard"
 msgstr "战旗"
-
-
-# scripts/items/tools/daze_bomb_item.nut
-msgid "Flash Pot"
-msgstr "闪光罐"
 
 
 # scripts/items/tools/daze_bomb_item.nut
@@ -73,25 +73,9 @@ msgid "Range of [color="
 msgstr ""
 
 
-# scripts/items/tools/daze_bomb_item.nut
-# scripts/items/tools/holy_water_item.nut
-# scripts/items/tools/smoke_bomb_item.nut
-# scripts/items/tools/throwing_net.nut
-# scripts/items/tools/acid_flask_item.nut
-# scripts/items/tools/reinforced_throwing_net.nut
 # scripts/items/tools/fire_bomb_item.nut
-msgid "Is destroyed on use"
-msgstr "使用时摧毁"
-
-
-# scripts/items/tools/daze_bomb_item.nut
-msgid "Will give up to [color="
+msgid "Will set [color="
 msgstr ""
-
-
-# scripts/items/tools/daze_bomb_item.nut
-msgid "A throwable pot filled with mysterious powders that react violently on impact to create a bright flash and loud bang. Will daze anyone close by."
-msgstr "一个装满神秘火药的一次性罐子，在撞击时会发生剧烈反应，产生明亮的闪光和巨响。 会让附近的人茫然。"
 
 
 # scripts/items/tools/holy_water_item.nut
@@ -104,13 +88,55 @@ msgid "weapon.holy Water"
 msgstr ""
 
 
+# scripts/items/tools/daze_bomb_item.nut
+# scripts/items/tools/holy_water_item.nut
+# scripts/items/tools/smoke_bomb_item.nut
+# scripts/items/tools/throwing_net.nut
+# scripts/items/tools/acid_flask_item.nut
+# scripts/items/tools/reinforced_throwing_net.nut
+# scripts/items/tools/fire_bomb_item.nut
+msgid "Is destroyed on use"
+msgstr "使用时摧毁"
+
+
+# scripts/items/tools/player_banner.nut
+msgid "Polearm, Two-Handed"
+msgstr ""
+
+
 # scripts/items/tools/holy_water_item.nut
 msgid "Flask of Blessed Water"
 msgstr "圣水瓶"
 
 
+# scripts/items/tools/daze_bomb_item.nut
+msgid "Will give up to [color="
+msgstr ""
+
+
 # scripts/items/tools/holy_water_item.nut
 msgid "]20[/color] for [color="
+msgstr ""
+
+
+# scripts/items/tools/throwing_net.nut
+# scripts/items/tools/reinforced_throwing_net.nut
+msgid "Maximum Fatigue [color="
+msgstr ""
+
+
+# scripts/items/tools/reinforced_throwing_net.nut
+msgid "Reinforced Throwing Net"
+msgstr "强化投网"
+
+
+# scripts/items/tools/acid_flask_item.nut
+msgid "]20%[/color] each turn for 3 turns"
+msgstr ""
+
+
+# scripts/items/tools/acid_flask_item.nut
+msgid "Reduces the target's armor by [color="
 msgstr ""
 
 
@@ -124,29 +150,13 @@ msgid "]3[/color] turns to any undead target hit"
 msgstr ""
 
 
-# scripts/items/tools/holy_water_item.nut
-msgid "A flask filled with water blessed by a man of the gods. Can be thrown at short ranges."
-msgstr "瓶子里装满了神赐福的水。 能在短距离内投掷。"
-
-
-# scripts/items/tools/smoke_bomb_item.nut
-msgid "Smoke Pot"
-msgstr "烟雾罐"
-
-
-# scripts/items/tools/smoke_bomb_item.nut
-msgid "A small pot that quickly creates a dense smoke cloud when broken on the ground. Useful for covering movement."
-msgstr "一种小罐子，在地上摔碎后会迅速产生浓密的烟雾云。 用于掩护移动。"
-
-
-# scripts/items/tools/throwing_net.nut
-msgid "Throwing Net"
-msgstr "投网"
-
-
-# scripts/items/tools/throwing_net.nut
 # scripts/items/tools/reinforced_throwing_net.nut
-msgid "Maximum Fatigue [color="
+msgid "Chance to break free is reduced by [color="
+msgstr "挣脱的机会减少 [color="
+
+
+# scripts/items/tools/player_banner.nut
+msgid "Allies at a range of 4 tiles or less receive [color="
 msgstr ""
 
 
@@ -156,53 +166,8 @@ msgid "Will root a target in place and reduce their defenses"
 msgstr "将一个目标定身在适当的地方并减少他的防御"
 
 
-# scripts/items/tools/throwing_net.nut
-msgid "A net used to throw over a target in order to hamper their ability to move and defend themself effectively."
-msgstr "一张用来投掷的网，为了阻碍目标的移动和有效地保护自己。"
-
-
-# scripts/items/tools/acid_flask_item.nut
-msgid "Acid Flask"
-msgstr "酸瓶"
-
-
-# scripts/items/tools/acid_flask_item.nut
-msgid "]20%[/color] each turn for 3 turns"
-msgstr ""
-
-
-# scripts/items/tools/acid_flask_item.nut
-msgid "]33%[/color] chance to hit bystanders at the same or lower height level as well"
-msgstr "]33%[/color] 命中几率 bystanders at the same or lower height level as well"
-
-
-# scripts/items/tools/acid_flask_item.nut
-msgid "A flask filled with the concentrate of a Lindwurm's acidic blood. It is highly corrosive to many materials and burns through armor quickly. Can be thrown at short ranges."
-msgstr "一瓶装满林德虫血液的酸性液体。 对各种材质的盔甲具有很强的腐蚀性。 能在短距离内投掷。"
-
-
-# scripts/items/tools/reinforced_throwing_net.nut
-msgid "Reinforced Throwing Net"
-msgstr "强化投网"
-
-
-# scripts/items/tools/reinforced_throwing_net.nut
-msgid "Chance to break free is reduced by [color="
-msgstr "挣脱的机会减少 [color="
-
-
-# scripts/items/tools/reinforced_throwing_net.nut
-msgid "A net used to throw over a target in order to hamper their ability to move and defend themself effectively. Reinforced with gossamer taken from a webknecht, it is even harder to break free from."
-msgstr "一张用来投掷的网，为了阻碍目标的移动和有效地保护自己。 使用蛛丝强化后，它更难以挣脱。"
-
-
-# scripts/items/tools/fire_bomb_item.nut
-msgid "Fire Pot"
-msgstr "火焰罐"
-
-
-# scripts/items/tools/fire_bomb_item.nut
-msgid "Will set [color="
+# scripts/items/tools/daze_bomb_item.nut
+msgid "]7[/color] targets the Dazed status effect for 2 turns"
 msgstr ""
 
 
@@ -211,19 +176,39 @@ msgid "]7[/color] tiles ablaze with burning fire for 2 rounds"
 msgstr ""
 
 
+# scripts/items/tools/acid_flask_item.nut
+msgid "]33%[/color] chance to hit bystanders at the same or lower height level as well"
+msgstr "]33%[/color] 命中几率 bystanders at the same or lower height level as well"
+
+
+# scripts/items/tools/holy_water_item.nut
+msgid "]33%[/color] chance to hit bystanders at the same or lower height level as well."
+msgstr "]33%[/color] 命中几率 bystanders at the same or lower height level as well."
+
+
+# scripts/items/tools/holy_water_item.nut
+msgid "A flask filled with water blessed by a man of the gods. Can be thrown at short ranges."
+msgstr "瓶子里装满了神赐福的水。 能在短距离内投掷。"
+
+
 # scripts/items/tools/fire_bomb_item.nut
 msgid "A pot filled with highly flammable liquid that will set an area ablaze with fire when thrown."
 msgstr "一种装满高度易燃液体的罐子，当投掷时会使一个区域着火。"
 
 
-# scripts/items/tools/player_banner.nut
-msgid "Polearm, Two-Handed"
+# scripts/items/tools/smoke_bomb_item.nut
+msgid "]7[/color] tiles in smoke for one round, allowing anyone inside to move freely and ignore zones of control"
 msgstr ""
 
 
-# scripts/items/tools/player_banner.nut
-msgid "Allies at a range of 4 tiles or less receive [color="
-msgstr ""
+# scripts/items/tools/throwing_net.nut
+msgid "A net used to throw over a target in order to hamper their ability to move and defend themself effectively."
+msgstr "一张用来投掷的网，为了阻碍目标的移动和有效地保护自己。"
+
+
+# scripts/items/tools/smoke_bomb_item.nut
+msgid "A small pot that quickly creates a dense smoke cloud when broken on the ground. Useful for covering movement."
+msgstr "一种小罐子，在地上摔碎后会迅速产生浓密的烟雾云。 用于掩护移动。"
 
 
 # scripts/items/tools/player_banner.nut
@@ -231,8 +216,23 @@ msgid "]10%[/color] of the Resolve of the character holding this standard as a b
 msgstr ""
 
 
+# scripts/items/tools/daze_bomb_item.nut
+msgid "A throwable pot filled with mysterious powders that react violently on impact to create a bright flash and loud bang. Will daze anyone close by."
+msgstr "一个装满神秘火药的一次性罐子，在撞击时会发生剧烈反应，产生明亮的闪光和巨响。 会让附近的人茫然。"
+
+
 # scripts/items/tools/player_banner.nut
 msgid "A company standard to take into battle. Held high, allies will rally around it with renewed resolve, and enemies will know well who is about to crush them."
 msgstr "一柄能投入战斗的旗帜。高举战旗能提升周围友军的决心，并且还能让敌人知道是谁击溃了他们。"
+
+
+# scripts/items/tools/acid_flask_item.nut
+msgid "A flask filled with the concentrate of a Lindwurm's acidic blood. It is highly corrosive to many materials and burns through armor quickly. Can be thrown at short ranges."
+msgstr "一瓶装满林德沃姆血液的酸性液体。 对各种材质的盔甲具有很强的腐蚀性。 能在短距离内投掷。"
+
+
+# scripts/items/tools/reinforced_throwing_net.nut
+msgid "A net used to throw over a target in order to hamper their ability to move and defend themself effectively. Reinforced with gossamer taken from a webknecht, it is even harder to break free from."
+msgstr "一张用来投掷的网，为了阻碍目标的移动和有效地保护自己。 使用蛛丝强化后，它更难以挣脱。"
 
 

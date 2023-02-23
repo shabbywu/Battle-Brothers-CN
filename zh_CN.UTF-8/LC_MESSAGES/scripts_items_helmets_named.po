@@ -1,6 +1,26 @@
+# scripts/items/helmets/named/named_helmet.nut
+msgid "'s "
+msgstr "的"
+
+
 # scripts/items/helmets/named/nasal_feather_helmet.nut
 msgid "Ward"
 msgstr "监狱"
+
+
+# scripts/items/helmets/named/named_metal_skull_helmet.nut
+msgid "Mask"
+msgstr "面具"
+
+
+# scripts/items/helmets/named/gold_and_black_turban.nut
+msgid "Sun Veil"
+msgstr "太阳斗篷"
+
+
+# scripts/items/helmets/named/named_metal_skull_helmet.nut
+msgid "Facemask"
+msgstr "面罩"
 
 
 # scripts/items/helmets/named/nasal_feather_helmet.nut
@@ -9,44 +29,29 @@ msgid "Protector"
 msgstr "保护者"
 
 
-# scripts/items/helmets/named/named_helmet.nut
-msgid "'s "
-msgstr ""
-
-
-# scripts/items/helmets/named/heraldic_mail_helmet.nut
-msgid "Bascinet with Mail"
-msgstr "覆面式链甲盔"
-
-
-# scripts/items/helmets/named/sallet_green_helmet.nut
-msgid "Open Sallet"
-msgstr "开敞式轻盔"
-
-
-# scripts/items/helmets/named/sallet_green_helmet.nut
-msgid "Ribboned Sallet"
-msgstr "缎带轻盔"
-
-
-# scripts/items/helmets/named/sallet_green_helmet.nut
-msgid "Sallet with Mail"
-msgstr "轻质链盔"
-
-
-# scripts/items/helmets/named/sallet_green_helmet.nut
-msgid "Decorated Sallet"
-msgstr "装饰的轻盔"
-
-
-# scripts/items/helmets/named/sallet_green_helmet.nut
-msgid "A masterfully crafted sallet supported by a mail coif, crested with colored ribbons."
-msgstr "这是一个精心制作的带有彩色绶带的链甲头盔。"
-
-
 # scripts/items/helmets/named/wolf_helmet.nut
 msgid "Beast Cap"
 msgstr "兽帽"
+
+
+# scripts/items/helmets/named/nasal_feather_helmet.nut
+msgid "Headguard"
+msgstr "护头板"
+
+
+# scripts/items/helmets/named/golden_feathers_helmet.nut
+msgid "Headpiece"
+msgstr "头饰"
+
+
+# scripts/items/helmets/named/norse_helmet.nut
+msgid "Faceguard"
+msgstr "护面罩"
+
+
+# scripts/items/helmets/named/named_conic_helmet_with_faceguard.nut
+msgid "Iron Mask"
+msgstr "铁面具"
 
 
 # scripts/items/helmets/named/wolf_helmet.nut
@@ -59,125 +64,20 @@ msgid "Wolf Crown"
 msgstr "狼冠"
 
 
-# scripts/items/helmets/named/wolf_helmet.nut
-msgid "Predator Crown"
-msgstr "捕食者冠"
-
-
-# scripts/items/helmets/named/wolf_helmet.nut
-msgid "Berserker Coif"
-msgstr ""
-
-
-# scripts/items/helmets/named/wolf_helmet.nut
-msgid "Helmet of the Wolf"
-msgstr "狼的头盔"
-
-
-# scripts/items/helmets/named/wolf_helmet.nut
-msgid "A sturdy metal helmet with attached mail, covered with an impressive wolf head."
-msgstr "一顶结实的金属头盔，上面盖着一个令人印象深刻的狼头。"
-
-
-# scripts/items/helmets/named/nasal_feather_helmet.nut
-msgid "Headguard"
-msgstr "护头板"
-
-
-# scripts/items/helmets/named/nasal_feather_helmet.nut
-msgid "Reinforced Helm"
-msgstr "加强头盔"
-
-
-# scripts/items/helmets/named/nasal_feather_helmet.nut
-msgid "Feathered Nasal Helmet"
-msgstr "带羽毛的鼻甲"
-
-
-# scripts/items/helmets/named/nasal_feather_helmet.nut
-msgid "A hardened nasal helmet with a unique neckguard made from leather scales."
-msgstr "一种用皮革鳞片制成的可以保护颈部和鼻子的独特鼻翼盔。"
-
-
-# scripts/items/helmets/named/golden_feathers_helmet.nut
-msgid "Headpiece"
-msgstr "头饰"
-
-
-# scripts/items/helmets/named/golden_feathers_helmet.nut
-msgid "Feathered Helm"
-msgstr "羽毛头盔"
-
-
-# scripts/items/helmets/named/golden_feathers_helmet.nut
-msgid "Helm with Coif"
-msgstr "带头巾的头盔"
-
-
-# scripts/items/helmets/named/golden_feathers_helmet.nut
-msgid "Golden Skullcap"
-msgstr "金头盖"
-
-
-# scripts/items/helmets/named/golden_feathers_helmet.nut
-msgid "Shimmering Helmet"
-msgstr "闪闪发光的头盔"
-
-
-# scripts/items/helmets/named/golden_feathers_helmet.nut
-msgid "A sturdy alloy helmet of foreign design, combined with a full mail coif for excellent protection."
-msgstr "国外设计的一款带有完整链甲面罩的坚固合金头盔，可以给予佩戴者最大限度的保护。"
-
-
-# scripts/items/helmets/named/lindwurm_helmet.nut
-msgid "Dragon's Dome"
-msgstr "龙穹"
-
-
-# scripts/items/helmets/named/lindwurm_helmet.nut
-msgid "Lindwurm Mask"
-msgstr "林德虫面罩"
-
-
-# scripts/items/helmets/named/lindwurm_helmet.nut
-msgid "Lindwurm Ward"
-msgstr "林德虫监护"
-
-
-# scripts/items/helmets/named/lindwurm_helmet.nut
-msgid "Lindwurm's Head"
-msgstr "林德虫的头"
-
-
-# scripts/items/helmets/named/lindwurm_helmet.nut
-msgid "Wurmscale Helmet"
-msgstr "沼泽头盔"
-
-
-# scripts/items/helmets/named/lindwurm_helmet.nut
-msgid "Lizard Headpiece"
-msgstr "蜥蜴头饰"
-
-
-# scripts/items/helmets/named/lindwurm_helmet.nut
-msgid "Unaffected by acidic Lindwurm blood"
-msgstr "不受林德虫的酸血影响"
-
-
-# scripts/items/helmets/named/lindwurm_helmet.nut
-msgid "This helmet must have once belonged to a daring and skilled hunter for it is covered in the scales of a dreaded Lindwurm. Not only do the scales deflect blows and hits, but they also remain unscathed by the acidic Lindwurm blood."
-msgstr "这顶头盔曾经肯定属于一个勇敢而熟练的猎人，因为它覆盖着可怕的林德虫的鳞片。 鳞片不仅可以阻止攻击和击打，而且它们还不会受到酸性林德虫血液的伤害。"
-
-
-# scripts/items/helmets/named/norse_helmet.nut
-msgid "Faceguard"
-msgstr "护面罩"
-
-
 # scripts/items/helmets/named/norse_helmet.nut
 # scripts/items/helmets/named/named_nordic_helmet_with_closed_mail.nut
 msgid "Owl Helmet"
 msgstr "猫头鹰头盔"
+
+
+# scripts/items/helmets/named/named_metal_skull_helmet.nut
+msgid "Steel Veil"
+msgstr "钢铁面罩"
+
+
+# scripts/items/helmets/named/sallet_green_helmet.nut
+msgid "Open Sallet"
+msgstr "开敞式轻盔"
 
 
 # scripts/items/helmets/named/norse_helmet.nut
@@ -185,29 +85,14 @@ msgid "Clan Helmet"
 msgstr "氏族头盔"
 
 
-# scripts/items/helmets/named/norse_helmet.nut
-msgid "Highland Helm"
-msgstr "高地头盔"
+# scripts/items/helmets/named/named_metal_skull_helmet.nut
+msgid "Metal Skull"
+msgstr "金属颅骨"
 
 
-# scripts/items/helmets/named/norse_helmet.nut
-msgid "Norse Nasal Helmet"
-msgstr "挪威人头盔"
-
-
-# scripts/items/helmets/named/norse_helmet.nut
-msgid "Padded Norse Helmet"
-msgstr "加垫挪威头盔"
-
-
-# scripts/items/helmets/named/norse_helmet.nut
-msgid "A richly ornated nordic helmet that must have belonged to a high ranking noble or exalted warrior."
-msgstr "一种华丽的北欧头盔，一定是属于一个高级贵族或高级战士的。"
-
-
-# scripts/items/helmets/named/gold_and_black_turban.nut
-msgid "Sun Veil"
-msgstr "太阳斗篷"
+# scripts/items/helmets/named/named_conic_helmet_with_faceguard.nut
+msgid "Iron Visage"
+msgstr "铁面"
 
 
 # scripts/items/helmets/named/gold_and_black_turban.nut
@@ -220,64 +105,34 @@ msgid "Golden Crest"
 msgstr "金冠"
 
 
-# scripts/items/helmets/named/gold_and_black_turban.nut
-msgid "Vizier's Pride"
-msgstr "维齐尔的骄傲"
+# scripts/items/helmets/named/named_metal_bull_helmet.nut
+msgid "Horned Crest"
+msgstr "有角的冠"
 
 
-# scripts/items/helmets/named/gold_and_black_turban.nut
-msgid "Gilder's Pride"
-msgstr "镀金者的骄傲"
+# scripts/items/helmets/named/red_and_gold_band_helmet.nut
+msgid "Blazing Dome"
+msgstr "炽热的穹顶"
 
 
-# scripts/items/helmets/named/gold_and_black_turban.nut
-msgid "Scorpion's Helm"
-msgstr "太阳面纱"
+# scripts/items/helmets/named/lindwurm_helmet.nut
+msgid "Dragon's Dome"
+msgstr "龙穹"
 
 
-# scripts/items/helmets/named/gold_and_black_turban.nut
-msgid "Gilder's Visage"
-msgstr "镀金者的面容"
+# scripts/items/helmets/named/lindwurm_helmet.nut
+msgid "Lindwurm Mask"
+msgstr "林德沃姆面罩"
 
 
-# scripts/items/helmets/named/gold_and_black_turban.nut
-msgid "Turban of the Sun"
-msgstr "太阳头巾"
+# scripts/items/helmets/named/lindwurm_helmet.nut
+msgid "Lindwurm Ward"
+msgstr "林德沃姆监护"
 
 
-# scripts/items/helmets/named/gold_and_black_turban.nut
-msgid "Crown of the South"
-msgstr "南方王冠"
-
-
-# scripts/items/helmets/named/gold_and_black_turban.nut
-msgid "Helm of the Sand King"
-msgstr "沙王之舵"
-
-
-# scripts/items/helmets/named/gold_and_black_turban.nut
-msgid "This southern style helmet is not only richly decorated, but also well balanced and made from materials of the highest quality."
-msgstr "这种南方风格的头盔不仅装饰丰富，而且平衡良好，由最高质量的材料制成。"
-
-
-# scripts/items/helmets/named/named_metal_skull_helmet.nut
-msgid "Mask"
-msgstr "面具"
-
-
-# scripts/items/helmets/named/named_metal_skull_helmet.nut
-msgid "Facemask"
-msgstr "面罩"
-
-
-# scripts/items/helmets/named/named_metal_skull_helmet.nut
-msgid "Steel Veil"
-msgstr "钢铁面罩"
-
-
-# scripts/items/helmets/named/named_metal_skull_helmet.nut
-msgid "Metal Skull"
-msgstr "金属颅骨"
+# scripts/items/helmets/named/norse_helmet.nut
+msgid "Highland Helm"
+msgstr "高地头盔"
 
 
 # scripts/items/helmets/named/named_metal_skull_helmet.nut
@@ -290,29 +145,59 @@ msgid "Tribal Visage"
 msgstr "部落面貌"
 
 
-# scripts/items/helmets/named/named_metal_skull_helmet.nut
-msgid "Face of the North"
-msgstr "北方面甲"
+# scripts/items/helmets/named/named_metal_nose_horn_helmet.nut
+msgid "Closed Helmet"
+msgstr "封闭式头盔"
 
 
-# scripts/items/helmets/named/named_metal_skull_helmet.nut
-msgid "Aspect of the Clans"
-msgstr "宗族外表"
+# scripts/items/helmets/named/named_steppe_helmet_with_mail.nut
+msgid "Steppe Helmet"
+msgstr ""
 
 
-# scripts/items/helmets/named/named_metal_skull_helmet.nut
-msgid "A heavy helmet typical of the northern barbarians with a skull-like facemask. This piece is as massive as it is impressive."
-msgstr "一种典型的北方野蛮人的重型头盔，有颅骨状的面罩。 这件作品的质量令人印象深刻。"
+# scripts/items/helmets/named/named_metal_bull_helmet.nut
+msgid "Horned Helmet"
+msgstr "带角头盔"
 
 
-# scripts/items/helmets/named/named_conic_helmet_with_faceguard.nut
-msgid "Iron Mask"
-msgstr "铁面具"
+# scripts/items/helmets/named/red_and_gold_band_helmet.nut
+msgid "Nomad's Crown"
+msgstr "游牧者的王冠"
 
 
-# scripts/items/helmets/named/named_conic_helmet_with_faceguard.nut
-msgid "Iron Visage"
-msgstr "铁面"
+# scripts/items/helmets/named/heraldic_mail_helmet.nut
+msgid "Knightly Helm"
+msgstr "骑士头盔"
+
+
+# scripts/items/helmets/named/wolf_helmet.nut
+msgid "Predator Crown"
+msgstr "捕食者冠"
+
+
+# scripts/items/helmets/named/wolf_helmet.nut
+msgid "Berserker Coif"
+msgstr ""
+
+
+# scripts/items/helmets/named/golden_feathers_helmet.nut
+msgid "Feathered Helm"
+msgstr "羽毛头盔"
+
+
+# scripts/items/helmets/named/golden_feathers_helmet.nut
+msgid "Helm with Coif"
+msgstr "带头巾的头盔"
+
+
+# scripts/items/helmets/named/gold_and_black_turban.nut
+msgid "Vizier's Pride"
+msgstr "维齐尔的骄傲"
+
+
+# scripts/items/helmets/named/gold_and_black_turban.nut
+msgid "Gilder's Pride"
+msgstr "镀金者的骄傲"
 
 
 # scripts/items/helmets/named/named_conic_helmet_with_faceguard.nut
@@ -320,29 +205,79 @@ msgid "Warlord's Helm"
 msgstr "军阀的头盔"
 
 
-# scripts/items/helmets/named/named_conic_helmet_with_faceguard.nut
-msgid "Steel Countenance"
-msgstr "钢制面"
+# scripts/items/helmets/named/named_metal_bull_helmet.nut
+msgid "Ancient Sallet"
+msgstr "古老的萨莱特"
 
 
-# scripts/items/helmets/named/named_conic_helmet_with_faceguard.nut
-msgid "Conic Feathered Helmet"
-msgstr "圆锥形羽毛头盔"
+# scripts/items/helmets/named/sallet_green_helmet.nut
+msgid "Ribboned Sallet"
+msgstr "缎带轻盔"
 
 
-# scripts/items/helmets/named/named_conic_helmet_with_faceguard.nut
-msgid "This conic helmet has a faceguard attached and finely fitted scales to protect the neck. The faceguard resembles a fearsome warrior that is about to strike his enemy."
-msgstr "这顶圆锥形头盔有一个面罩和一个很好的鳞片来保护颈部。 面罩像一个即将攻击敌人的可怖的战士。"
+# scripts/items/helmets/named/nasal_feather_helmet.nut
+msgid "Reinforced Helm"
+msgstr "加强头盔"
 
 
-# scripts/items/helmets/named/named_metal_nose_horn_helmet.nut
-msgid "Closed Helmet"
-msgstr "封闭式头盔"
+# scripts/items/helmets/named/golden_feathers_helmet.nut
+msgid "Golden Skullcap"
+msgstr "金头盖"
+
+
+# scripts/items/helmets/named/lindwurm_helmet.nut
+msgid "Lindwurm's Head"
+msgstr "林德沃姆的头"
+
+
+# scripts/items/helmets/named/gold_and_black_turban.nut
+msgid "Scorpion's Helm"
+msgstr "太阳面纱"
+
+
+# scripts/items/helmets/named/gold_and_black_turban.nut
+msgid "Gilder's Visage"
+msgstr "镀金者的面容"
 
 
 # scripts/items/helmets/named/named_metal_nose_horn_helmet.nut
 msgid "Bulky Faceguard"
 msgstr "笨重的护面"
+
+
+# scripts/items/helmets/named/named_metal_bull_helmet.nut
+msgid "Alloy Headpiece"
+msgstr "合金机头"
+
+
+# scripts/items/helmets/named/red_and_gold_band_helmet.nut
+msgid "Splinted Helmet"
+msgstr "夹板头盔"
+
+
+# scripts/items/helmets/named/heraldic_mail_helmet.nut
+msgid "Heraldic Helmet"
+msgstr "纹章头盔"
+
+
+# scripts/items/helmets/named/sallet_green_helmet.nut
+msgid "Sallet with Mail"
+msgstr "轻质链盔"
+
+
+# scripts/items/helmets/named/sallet_green_helmet.nut
+msgid "Decorated Sallet"
+msgstr "装饰的轻盔"
+
+
+# scripts/items/helmets/named/lindwurm_helmet.nut
+msgid "Wurmscale Helmet"
+msgstr "沼泽头盔"
+
+
+# scripts/items/helmets/named/lindwurm_helmet.nut
+msgid "Lizard Headpiece"
+msgstr "蜥蜴头饰"
 
 
 # scripts/items/helmets/named/named_metal_nose_horn_helmet.nut
@@ -355,49 +290,9 @@ msgid "Bladed Headguard"
 msgstr "刃头护板"
 
 
-# scripts/items/helmets/named/named_metal_nose_horn_helmet.nut
-msgid "Pit Fighter Helmet"
-msgstr "战壕战士头盔"
-
-
-# scripts/items/helmets/named/named_metal_nose_horn_helmet.nut
-msgid "This helmet must have belonged to a distinct warrior of the barbarians. Its size and design appear alien to all southern folks."
-msgstr "这顶头盔一定是属于一个野蛮人的战士。 它的大小和设计对所有南方人来说都是陌生的。"
-
-
 # scripts/items/helmets/named/named_nordic_helmet_with_closed_mail.nut
 msgid "Chieftain Helmet"
 msgstr "酋长头盔"
-
-
-# scripts/items/helmets/named/named_nordic_helmet_with_closed_mail.nut
-msgid "Sea Raider Helmet"
-msgstr "海上掠夺者头盔"
-
-
-# scripts/items/helmets/named/named_nordic_helmet_with_closed_mail.nut
-msgid "Nordic Noble Helmet"
-msgstr "北欧贵族头盔"
-
-
-# scripts/items/helmets/named/named_nordic_helmet_with_closed_mail.nut
-msgid "Engraved Nordic Helmet"
-msgstr "北欧雕刻头盔"
-
-
-# scripts/items/helmets/named/named_nordic_helmet_with_closed_mail.nut
-msgid "Decorated Nordic Helmet"
-msgstr "装饰的北欧头盔"
-
-
-# scripts/items/helmets/named/named_nordic_helmet_with_closed_mail.nut
-msgid "This nordic helmet with faceguard is extraordinarly crafted, and as protective as it is impressive looking."
-msgstr "这顶带护面的北欧头盔是特别制作的，它的保护性和令人印象深刻的外观一样。"
-
-
-# scripts/items/helmets/named/named_steppe_helmet_with_mail.nut
-msgid "Steppe Helmet"
-msgstr ""
 
 
 # scripts/items/helmets/named/named_steppe_helmet_with_mail.nut
@@ -410,84 +305,34 @@ msgid "Headdress Helmet"
 msgstr "头翼盔"
 
 
-# scripts/items/helmets/named/named_steppe_helmet_with_mail.nut
-msgid "Decorated Nasal Helmet"
-msgstr "装饰的性鼻头盔"
-
-
-# scripts/items/helmets/named/named_steppe_helmet_with_mail.nut
-msgid "A masterfully crafted helmet in the fashion of the steppe folks. Decorated with gold applications and equipped with additional cheek guards."
-msgstr "一个精心制作的头盔，像草原上的人们一样。 用金色装饰，并配备额外的护面。"
-
-
-# scripts/items/helmets/named/named_metal_bull_helmet.nut
-msgid "Horned Crest"
-msgstr "有角的冠"
-
-
-# scripts/items/helmets/named/named_metal_bull_helmet.nut
-msgid "Horned Helmet"
-msgstr "带角头盔"
-
-
-# scripts/items/helmets/named/named_metal_bull_helmet.nut
-msgid "Ancient Sallet"
-msgstr "古老的萨莱特"
-
-
-# scripts/items/helmets/named/named_metal_bull_helmet.nut
-msgid "Alloy Headpiece"
-msgstr "合金机头"
-
-
-# scripts/items/helmets/named/named_metal_bull_helmet.nut
-msgid "A reinforced helmet made from an extremely sturdy alloy. It is richly decorated and heavy but offers extraordinary protection."
-msgstr "由非常坚固的合金制成的强化头盔。 它装饰华丽，重量沉重，但提供了非凡的保护。"
-
-
-# scripts/items/helmets/named/red_and_gold_band_helmet.nut
-msgid "Blazing Dome"
-msgstr "炽热的穹顶"
-
-
-# scripts/items/helmets/named/red_and_gold_band_helmet.nut
-msgid "Nomad's Crown"
-msgstr "游牧者的王冠"
-
-
-# scripts/items/helmets/named/red_and_gold_band_helmet.nut
-msgid "Splinted Helmet"
-msgstr "夹板头盔"
-
-
 # scripts/items/helmets/named/red_and_gold_band_helmet.nut
 msgid "Segmented Helmet"
 msgstr "分段头盔"
 
 
-# scripts/items/helmets/named/red_and_gold_band_helmet.nut
-msgid "Crown of the Sand King"
-msgstr "沙王之冠"
+# scripts/items/helmets/named/golden_feathers_helmet.nut
+msgid "Shimmering Helmet"
+msgstr "闪闪发光的头盔"
 
 
-# scripts/items/helmets/named/red_and_gold_band_helmet.nut
-msgid "Splinted Feathered Helmet"
-msgstr "夹板羽毛头盔"
+# scripts/items/helmets/named/gold_and_black_turban.nut
+msgid "Turban of the Sun"
+msgstr "太阳头巾"
 
 
-# scripts/items/helmets/named/red_and_gold_band_helmet.nut
-msgid "This southern style helmet is not only richly decorated, but also well balanced and made from extremely high quality metals."
-msgstr "这种南方风格的头盔不仅装饰丰富，而且平衡良好，由非常优质的金属制成。"
+# scripts/items/helmets/named/named_metal_skull_helmet.nut
+msgid "Face of the North"
+msgstr "北方面甲"
 
 
-# scripts/items/helmets/named/heraldic_mail_helmet.nut
-msgid "Knightly Helm"
-msgstr "骑士头盔"
+# scripts/items/helmets/named/named_conic_helmet_with_faceguard.nut
+msgid "Steel Countenance"
+msgstr "钢制面"
 
 
-# scripts/items/helmets/named/heraldic_mail_helmet.nut
-msgid "Heraldic Helmet"
-msgstr "纹章头盔"
+# scripts/items/helmets/named/named_nordic_helmet_with_closed_mail.nut
+msgid "Sea Raider Helmet"
+msgstr "海上掠夺者头盔"
 
 
 # scripts/items/helmets/named/heraldic_mail_helmet.nut
@@ -501,12 +346,167 @@ msgstr "骑士中型盔"
 
 
 # scripts/items/helmets/named/heraldic_mail_helmet.nut
+msgid "Bascinet with Mail"
+msgstr "覆面式链甲盔"
+
+
+# scripts/items/helmets/named/wolf_helmet.nut
+msgid "Helmet of the Wolf"
+msgstr "狼的头盔"
+
+
+# scripts/items/helmets/named/norse_helmet.nut
+msgid "Norse Nasal Helmet"
+msgstr "挪威人头盔"
+
+
+# scripts/items/helmets/named/gold_and_black_turban.nut
+msgid "Crown of the South"
+msgstr "南方王冠"
+
+
+# scripts/items/helmets/named/named_metal_nose_horn_helmet.nut
+msgid "Pit Fighter Helmet"
+msgstr "战壕战士头盔"
+
+
+# scripts/items/helmets/named/norse_helmet.nut
+msgid "Padded Norse Helmet"
+msgstr "加垫挪威头盔"
+
+
+# scripts/items/helmets/named/named_metal_skull_helmet.nut
+msgid "Aspect of the Clans"
+msgstr "宗族外表"
+
+
+# scripts/items/helmets/named/named_nordic_helmet_with_closed_mail.nut
+msgid "Nordic Noble Helmet"
+msgstr "北欧贵族头盔"
+
+
+# scripts/items/helmets/named/heraldic_mail_helmet.nut
 msgid "Bascinet with Visor"
 msgstr "帽檐中头盔"
+
+
+# scripts/items/helmets/named/gold_and_black_turban.nut
+msgid "Helm of the Sand King"
+msgstr "沙王之舵"
+
+
+# scripts/items/helmets/named/nasal_feather_helmet.nut
+msgid "Feathered Nasal Helmet"
+msgstr "带羽毛的鼻甲"
+
+
+# scripts/items/helmets/named/named_conic_helmet_with_faceguard.nut
+msgid "Conic Feathered Helmet"
+msgstr "圆锥形羽毛头盔"
+
+
+# scripts/items/helmets/named/named_nordic_helmet_with_closed_mail.nut
+msgid "Engraved Nordic Helmet"
+msgstr "北欧雕刻头盔"
+
+
+# scripts/items/helmets/named/named_steppe_helmet_with_mail.nut
+msgid "Decorated Nasal Helmet"
+msgstr "装饰的性鼻头盔"
+
+
+# scripts/items/helmets/named/red_and_gold_band_helmet.nut
+msgid "Crown of the Sand King"
+msgstr "沙王之冠"
+
+
+# scripts/items/helmets/named/named_nordic_helmet_with_closed_mail.nut
+msgid "Decorated Nordic Helmet"
+msgstr "装饰的北欧头盔"
+
+
+# scripts/items/helmets/named/red_and_gold_band_helmet.nut
+msgid "Splinted Feathered Helmet"
+msgstr "夹板羽毛头盔"
+
+
+# scripts/items/helmets/named/lindwurm_helmet.nut
+msgid "Unaffected by acidic Lindwurm blood"
+msgstr "不受林德沃姆的酸血影响"
+
+
+# scripts/items/helmets/named/nasal_feather_helmet.nut
+msgid "A hardened nasal helmet with a unique neckguard made from leather scales."
+msgstr "一种用皮革鳞片制成的可以保护颈部和鼻子的独特鼻翼盔。"
+
+
+# scripts/items/helmets/named/wolf_helmet.nut
+msgid "A sturdy metal helmet with attached mail, covered with an impressive wolf head."
+msgstr "一顶结实的金属头盔，上面盖着一个令人印象深刻的狼头。"
+
+
+# scripts/items/helmets/named/sallet_green_helmet.nut
+msgid "A masterfully crafted sallet supported by a mail coif, crested with colored ribbons."
+msgstr "这是一个精心制作的带有彩色绶带的链甲头盔。"
+
+
+# scripts/items/helmets/named/golden_feathers_helmet.nut
+msgid "A sturdy alloy helmet of foreign design, combined with a full mail coif for excellent protection."
+msgstr "国外设计的一款带有完整链甲面罩的坚固合金头盔，可以给予佩戴者最大限度的保护。"
+
+
+# scripts/items/helmets/named/norse_helmet.nut
+msgid "A richly ornated nordic helmet that must have belonged to a high ranking noble or exalted warrior."
+msgstr "一种华丽的北欧头盔，一定是属于一个高级贵族或高级战士的。"
 
 
 # scripts/items/helmets/named/heraldic_mail_helmet.nut
 msgid "A heavy bascinet with a moveable visor, worn over a mail coif. A showy piece befitting a true knight."
 msgstr "在链甲上面附有活动面罩的重型头盔。 它适合真正的骑士。"
+
+
+# scripts/items/helmets/named/named_nordic_helmet_with_closed_mail.nut
+msgid "This nordic helmet with faceguard is extraordinarly crafted, and as protective as it is impressive looking."
+msgstr "这顶带护面的北欧头盔是特别制作的，它的保护性和令人印象深刻的外观一样。"
+
+
+# scripts/items/helmets/named/named_metal_skull_helmet.nut
+msgid "A heavy helmet typical of the northern barbarians with a skull-like facemask. This piece is as massive as it is impressive."
+msgstr "一种典型的北方野蛮人的重型头盔，有颅骨状的面罩。 这件作品的质量令人印象深刻。"
+
+
+# scripts/items/helmets/named/red_and_gold_band_helmet.nut
+msgid "This southern style helmet is not only richly decorated, but also well balanced and made from extremely high quality metals."
+msgstr "这种南方风格的头盔不仅装饰丰富，而且平衡良好，由非常优质的金属制成。"
+
+
+# scripts/items/helmets/named/named_metal_bull_helmet.nut
+msgid "A reinforced helmet made from an extremely sturdy alloy. It is richly decorated and heavy but offers extraordinary protection."
+msgstr "由非常坚固的合金制成的强化头盔。 它装饰华丽，重量沉重，但提供了非凡的保护。"
+
+
+# scripts/items/helmets/named/gold_and_black_turban.nut
+msgid "This southern style helmet is not only richly decorated, but also well balanced and made from materials of the highest quality."
+msgstr "这种南方风格的头盔不仅装饰丰富，而且平衡良好，由最高质量的材料制成。"
+
+
+# scripts/items/helmets/named/named_metal_nose_horn_helmet.nut
+msgid "This helmet must have belonged to a distinct warrior of the barbarians. Its size and design appear alien to all southern folks."
+msgstr "这顶头盔一定是属于一个野蛮人的战士。 它的大小和设计对所有南方人来说都是陌生的。"
+
+
+# scripts/items/helmets/named/named_steppe_helmet_with_mail.nut
+msgid "A masterfully crafted helmet in the fashion of the steppe folks. Decorated with gold applications and equipped with additional cheek guards."
+msgstr "一个精心制作的头盔，像草原上的人们一样。 用金色装饰，并配备额外的护面。"
+
+
+# scripts/items/helmets/named/named_conic_helmet_with_faceguard.nut
+msgid "This conic helmet has a faceguard attached and finely fitted scales to protect the neck. The faceguard resembles a fearsome warrior that is about to strike his enemy."
+msgstr "这顶圆锥形头盔有一个面罩和一个很好的鳞片来保护颈部。 面罩像一个即将攻击敌人的可怖的战士。"
+
+
+# scripts/items/helmets/named/lindwurm_helmet.nut
+msgid "This helmet must have once belonged to a daring and skilled hunter for it is covered in the scales of a dreaded Lindwurm. Not only do the scales deflect blows and hits, but they also remain unscathed by the acidic Lindwurm blood."
+msgstr "这顶头盔曾经肯定属于一个勇敢而熟练的猎人，因为它覆盖着可怕的林德沃姆的鳞片。 鳞片不仅可以阻止攻击和击打，而且它们还不会受到酸性林德沃姆血液的伤害。"
 
 

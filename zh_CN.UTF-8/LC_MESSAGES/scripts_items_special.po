@@ -1,6 +1,76 @@
+# scripts/items/special/spiritual_reward_item.nut
+msgid "Blue Vial"
+msgstr "深蓝小瓶"
+
+
+# scripts/items/special/legendary_sword_grip_item.nut
+msgid "Sword Grip"
+msgstr "剑柄"
+
+
+# scripts/items/special/fountain_of_youth_item.nut
+msgid "Water Skin"
+msgstr "愈合圣水"
+
+
+# scripts/items/special/bodily_reward_item.nut
+msgid "Green Vial"
+msgstr "幽绿小瓶"
+
+
+# scripts/items/special/legendary_sword_blade_item.nut
+msgid "Sword Blade"
+msgstr "剑刃"
+
+
+# scripts/items/special/golden_goose_item.nut
+msgid "Golden Goose"
+msgstr "黄金鹅"
+
+
 # scripts/items/special/black_book_item.nut
 msgid "The Black Book"
 msgstr "黑书"
+
+
+# scripts/items/special/trade_jug_01_item.nut
+msgid "Mysterious Jug"
+msgstr ""
+
+
+# scripts/items/special/golden_goose_item.nut
+msgid "Generates [color="
+msgstr ""
+
+
+# scripts/items/special/trade_jug_01_item.nut
+msgid "Grants a perk point"
+msgstr ""
+
+
+# scripts/items/special/broken_ritual_armor_item.nut
+msgid "Broken Ritual Armor"
+msgstr "破损的仪式盔甲"
+
+
+# scripts/items/special/golden_goose_item.nut
+msgid "]15[/color] crowns daily."
+msgstr ""
+
+
+# scripts/items/special/spiritual_reward_item.nut
+msgid "Grants a veteran level up"
+msgstr "授予老兵训练"
+
+
+# scripts/items/special/bodily_reward_item.nut
+msgid "Instantly heals all temporary injuries, as well as the Hangover and Exhausted status effects"
+msgstr "立即治愈所有临时伤害，以及宿醉和精疲力竭状态的影响"
+
+
+# scripts/items/special/golden_goose_item.nut
+msgid "A small goose statue crafted from solid gold. A tiny golden egg mysteriously emerges from the statue once a day."
+msgstr "A small goose statue crafted from solid gold. A tiny golden egg mysteriously emerges from the statue once 一天."
 
 
 # scripts/items/special/fountain_of_youth_item.nut
@@ -11,84 +81,9 @@ msgid "Right-click or drag onto the currently selected character in order to dri
 msgstr "右键单击或拖动到当前选定的角色上进行饮用。 此物品会在使用过程中消耗掉。"
 
 
-# scripts/items/special/golden_goose_item.nut
-msgid "Golden Goose"
-msgstr "黄金鹅"
-
-
-# scripts/items/special/golden_goose_item.nut
-msgid "Generates [color="
-msgstr ""
-
-
-# scripts/items/special/golden_goose_item.nut
-msgid "]15[/color] crowns daily."
-msgstr ""
-
-
-# scripts/items/special/golden_goose_item.nut
-msgid "A small goose statue crafted from solid gold. A tiny golden egg mysteriously emerges from the statue once a day."
-msgstr "A small goose statue crafted from solid gold. A tiny golden egg mysteriously emerges from the statue once 一天."
-
-
-# scripts/items/special/legendary_sword_blade_item.nut
-msgid "Sword Blade"
-msgstr "剑刃"
-
-
-# scripts/items/special/legendary_sword_blade_item.nut
-msgid "The glimmering blade of a broken sword you retrieved from the Kraken. In all your years of fighting you never encountered such a masterfully crafted blade. Perhaps the sword could be reforged if you had both parts."
-msgstr "你从克拉肯那里找回的一把破碎的闪光剑刃。在你这么多年的战斗中，你从未见过这么精巧的利刃。 如果你有这把剑的两个部分，也许它可以被重新锻造。"
-
-
-# scripts/items/special/legendary_sword_grip_item.nut
-msgid "Sword Grip"
-msgstr "剑柄"
-
-
-# scripts/items/special/legendary_sword_grip_item.nut
-msgid "A masterfully crafted sword grip covered in mysterious blue stones. The stones seem to have a glimmering light emerging from deep within. Perhaps the sword could be reforged if you had both parts."
-msgstr "一个被神秘蓝宝石覆盖的巧妙的剑柄。石头的深处似乎有一道光在闪烁。 如果你有这把剑的两个部分，也许它可以被重新锻造。"
-
-
-# scripts/items/special/fountain_of_youth_item.nut
-msgid "Water Skin"
-msgstr "愈合圣水"
-
-
 # scripts/items/special/fountain_of_youth_item.nut
 msgid "Will remove all temporary or permanent injuries, as well as the Old, Addicted, Exhausted and Hangover traits and status effects"
 msgstr "将消除所有临时或永久性伤害，以及老的、上瘾、精疲力竭和宿醉的特性和状态影响。"
-
-
-# scripts/items/special/fountain_of_youth_item.nut
-msgid "A leather water skin filled up with the liquid from under a bizarre human-shaped tree. It whispered in your head that you should drink it to heal."
-msgstr "从一颗奇怪的人型树中得到的一皮袋圣水。总在你耳边低语着让你喝了它来治愈。"
-
-
-# scripts/items/special/spiritual_reward_item.nut
-msgid "Blue Vial"
-msgstr "深蓝小瓶"
-
-
-# scripts/items/special/spiritual_reward_item.nut
-msgid "Grants a veteran level up"
-msgstr "授予老兵训练"
-
-
-# scripts/items/special/spiritual_reward_item.nut
-msgid "Traded for with a malevolent witch at the expense of another man's life, this mysterious concoction promises to be a magical drink for the spirit, and to grant wisdom and insight as if having fought a dozen battles."
-msgstr "用另一个人的生命为代价与恶毒女巫交换而来的，这种神秘的混合液可给精神带来奇妙的变化，能够赋予智慧与悟性，就像经历了无数的战斗一样。"
-
-
-# scripts/items/special/trade_jug_01_item.nut
-msgid "Mysterious Jug"
-msgstr ""
-
-
-# scripts/items/special/trade_jug_01_item.nut
-msgid "Grants a perk point"
-msgstr ""
 
 
 # scripts/items/special/trade_jug_01_item.nut
@@ -96,14 +91,19 @@ msgid "Traded for with a mysterious traveler named Yuchi, the contents of this j
 msgstr ""
 
 
-# scripts/items/special/bodily_reward_item.nut
-msgid "Green Vial"
-msgstr "幽绿小瓶"
+# scripts/items/special/fountain_of_youth_item.nut
+msgid "A leather water skin filled up with the liquid from under a bizarre human-shaped tree. It whispered in your head that you should drink it to heal."
+msgstr "从一颗奇怪的人型树中得到的一皮袋圣水。总在你耳边低语着让你喝了它来治愈。"
 
 
-# scripts/items/special/bodily_reward_item.nut
-msgid "Instantly heals all temporary injuries, as well as the Hangover and Exhausted status effects"
-msgstr "立即治愈所有临时伤害，以及宿醉和精疲力竭状态的影响"
+# scripts/items/special/broken_ritual_armor_item.nut
+msgid "The broken remains of a heavy barbarian armor, covered in ritual runes. It's unusable like this, and yet you feel that there's something special about it. Perhaps there is some way to mend it?"
+msgstr "一件厚重的野蛮盔甲的残片，上面覆盖着仪式用的符文。 它不能像这样使用，但是你觉得它有一些特别的地方。 也许有什么办法可以补救？"
+
+
+# scripts/items/special/legendary_sword_grip_item.nut
+msgid "A masterfully crafted sword grip covered in mysterious blue stones. The stones seem to have a glimmering light emerging from deep within. Perhaps the sword could be reforged if you had both parts."
+msgstr "一个被神秘蓝宝石覆盖的巧妙的剑柄。石头的深处似乎有一道光在闪烁。 如果你有这把剑的两个部分，也许它可以被重新锻造。"
 
 
 # scripts/items/special/bodily_reward_item.nut
@@ -111,14 +111,14 @@ msgid "Traded for with a malevolent witch at the expense of another man's life, 
 msgstr "用另一个人的生命为代价与恶毒女巫交换而来的，这种神秘的混合液可给身体带来奇妙的变化，能够立即治愈自身所有的不良状态。"
 
 
-# scripts/items/special/broken_ritual_armor_item.nut
-msgid "Broken Ritual Armor"
-msgstr "破损的仪式盔甲"
+# scripts/items/special/legendary_sword_blade_item.nut
+msgid "The glimmering blade of a broken sword you retrieved from the Kraken. In all your years of fighting you never encountered such a masterfully crafted blade. Perhaps the sword could be reforged if you had both parts."
+msgstr "你从克拉肯那里找回的一把破碎的闪光剑刃。在你这么多年的战斗中，你从未见过这么精巧的利刃。 如果你有这把剑的两个部分，也许它可以被重新锻造。"
 
 
-# scripts/items/special/broken_ritual_armor_item.nut
-msgid "The broken remains of a heavy barbarian armor, covered in ritual runes. It's unusable like this, and yet you feel that there's something special about it. Perhaps there is some way to mend it?"
-msgstr "一件厚重的野蛮盔甲的残片，上面覆盖着仪式用的符文。 它不能像这样使用，但是你觉得它有一些特别的地方。 也许有什么办法可以补救？"
+# scripts/items/special/spiritual_reward_item.nut
+msgid "Traded for with a malevolent witch at the expense of another man's life, this mysterious concoction promises to be a magical drink for the spirit, and to grant wisdom and insight as if having fought a dozen battles."
+msgstr "用另一个人的生命为代价与恶毒女巫交换而来的，这种神秘的混合液可给精神带来奇妙的变化，能够赋予智慧与悟性，就像经历了无数的战斗一样。"
 
 
 # scripts/items/special/black_book_item.nut

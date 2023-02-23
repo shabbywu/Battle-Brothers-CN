@@ -3,24 +3,64 @@ msgid "Cudgel"
 msgstr "棍棒"
 
 
-# scripts/items/weapons/greenskins/goblin_crossbow.nut
-msgid "]Must be reloaded before firing again[/color]"
-msgstr "]必须重新装填才能再次发射[/color]"
+# scripts/items/weapons/greenskins/orc_wooden_club.nut
+msgid "Tree Limb"
+msgstr "树枝"
 
 
 # scripts/items/weapons/greenskins/goblin_pike.nut
-msgid "Polearm, Two-Handed"
-msgstr ""
+msgid "Jagged Pike"
+msgstr "锯齿峰矛"
+
+
+# scripts/items/weapons/greenskins/orc_axe_2h.nut
+msgid "Man Splitter"
+msgstr "劈人斧"
+
+
+# scripts/items/weapons/greenskins/goblin_bow.nut
+msgid "Boondock Bow"
+msgstr "处刑之弓"
+
+
+# scripts/items/weapons/greenskins/goblin_staff.nut
+msgid "Gnarly Staff"
+msgstr "粗糙的权杖"
+
+
+# scripts/items/weapons/greenskins/orc_cleaver.nut
+msgid "Head Chopper"
+msgstr "斩首刀"
 
 
 # scripts/items/weapons/greenskins/goblin_spear.nut
-msgid "Spear, One-Handed"
+msgid "Goblin Skewer"
+msgstr "哥布林烤肉叉"
+
+
+# scripts/items/weapons/greenskins/orc_axe.nut
+msgid "Head Splitter"
+msgstr "劈头斧"
+
+
+# scripts/items/weapons/greenskins/orc_flail_2h.nut
+msgid "Berserk Chain"
 msgstr ""
+
+
+# scripts/items/weapons/greenskins/goblin_notched_blade.nut
+msgid "Notched Blade"
+msgstr "齿痕刃片"
+
+
+# scripts/items/weapons/greenskins/goblin_crossbow.nut
+msgid "Spiked Impaler"
+msgstr "尖刺者"
 
 
 # scripts/items/weapons/greenskins/goblin_falchion.nut
-msgid "Sword, One-Handed"
-msgstr ""
+msgid "Cruel Falchion"
+msgstr "残忍的弯形剑"
 
 
 # scripts/items/weapons/greenskins/orc_axe.nut
@@ -39,17 +79,6 @@ msgid "Axe, Two-Handed"
 msgstr ""
 
 
-# scripts/items/weapons/greenskins/goblin_spiked_balls.nut
-# scripts/items/weapons/greenskins/orc_javelin.nut
-msgid "Throwing Weapon, One-Handed"
-msgstr ""
-
-
-# scripts/items/weapons/greenskins/orc_cleaver.nut
-msgid "Cleaver, One-Handed"
-msgstr ""
-
-
 # scripts/items/weapons/greenskins/orc_metal_club.nut
 # scripts/items/weapons/greenskins/orc_wooden_club.nut
 # scripts/items/weapons/greenskins/goblin_staff.nut
@@ -57,8 +86,13 @@ msgid "Mace, One-Handed"
 msgstr ""
 
 
-# scripts/items/weapons/greenskins/goblin_crossbow.nut
-msgid "Crossbow, Two-Handed"
+# scripts/items/weapons/greenskins/goblin_spear.nut
+msgid "Spear, One-Handed"
+msgstr ""
+
+
+# scripts/items/weapons/greenskins/goblin_falchion.nut
+msgid "Sword, One-Handed"
 msgstr ""
 
 
@@ -67,64 +101,19 @@ msgid "Flail, Two-Handed"
 msgstr ""
 
 
+# scripts/items/weapons/greenskins/goblin_pike.nut
+msgid "Polearm, Two-Handed"
+msgstr ""
+
+
 # scripts/items/weapons/greenskins/orc_cleaver.nut
-msgid "A sharp and crude shard of metal with a wrapped grip resembling a sword but a lot heavier. Not made for human hands."
-msgstr "一种锋利而粗糙的金属碎片，有一个像剑一样的握把，但要重很多。 不是为人的手做的。"
-
-
-# scripts/items/weapons/greenskins/orc_axe.nut
-msgid "A heavy piece of metal with a sharp head. Not made for human hands."
-msgstr "一块沉重的金属上面有一个锋利的金属头。 不是为人的手做的。"
-
-
-# scripts/items/weapons/greenskins/goblin_heavy_bow.nut
-msgid "Reinforced Boondock Bow"
-msgstr "强化处刑之弓"
-
-
-# scripts/items/weapons/greenskins/goblin_heavy_bow.nut
-msgid "A light, yet powerful bow made from various woods."
-msgstr "一种由各种木材制成的轻而有力的弓。"
+msgid "Cleaver, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/greenskins/goblin_crossbow.nut
-msgid "Spiked Impaler"
-msgstr "尖刺者"
-
-
-# scripts/items/weapons/greenskins/goblin_crossbow.nut
-msgid "A large and heavy crossbow with menacing spikes in front. More like a minitature ballista, it shoots stakes with enough force to knock back a target hit."
-msgstr "前面有威胁性的尖刺的巨大而沉重的弩。 更像一个小型投石机，它用足够的力量射击木桩来击退命中的目标。"
-
-
-# scripts/items/weapons/greenskins/goblin_spear.nut
-msgid "Goblin Skewer"
-msgstr "哥布林烤肉叉"
-
-
-# scripts/items/weapons/greenskins/goblin_spear.nut
-msgid "A long shaft with a sharp metal tip at the top."
-msgstr "顶部有锋利金属尖端的长杆。"
-
-
-# scripts/items/weapons/greenskins/orc_metal_club.nut
-msgid "A massive wooden club studded with metal plates. Not made for human hands."
-msgstr "镶有金属板的大木棍。 不是为人的手做的。"
-
-
-# scripts/items/weapons/greenskins/goblin_falchion.nut
-msgid "Cruel Falchion"
-msgstr "残忍的弯形剑"
-
-
-# scripts/items/weapons/greenskins/goblin_falchion.nut
-msgid "A lightweight goblin falchion made for cutting."
-msgstr "一种用于切割的轻型哥布林弯形剑。"
-
-
-# scripts/items/weapons/greenskins/orc_axe.nut
-msgid "Head Splitter"
-msgstr "劈头斧"
+msgid "Crossbow, Two-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/greenskins/goblin_spiked_balls.nut
@@ -132,44 +121,9 @@ msgid "Bundle of Spiked Bolas"
 msgstr "一捆尖刺流星锤"
 
 
-# scripts/items/weapons/greenskins/goblin_spiked_balls.nut
-msgid "Small and heavy iron balls with metal spikes to be hurled at a target."
-msgstr "有金属钉的小而重的铁球要投掷到目标上。"
-
-
-# scripts/items/weapons/greenskins/orc_flail_2h.nut
-msgid "Berserk Chain"
-msgstr ""
-
-
-# scripts/items/weapons/greenskins/orc_flail_2h.nut
-msgid "A massive iron chain with a spiked full metal head at the end. Too heavy to be used effectively by the average human."
-msgstr "末端有尖头的全金属头的大铁链。太重，普通人无法有效使用。"
-
-
-# scripts/items/weapons/greenskins/goblin_pike.nut
-msgid "Jagged Pike"
-msgstr "锯齿峰矛"
-
-
-# scripts/items/weapons/greenskins/goblin_pike.nut
-msgid "A long jagged pike that can tear bleeding wounds and keep enemies at bay with its long reach."
-msgstr "一种长而参差不齐的长矛，能撕裂流血的伤口，并能用它的长距离将敌人拒之门外。"
-
-
-# scripts/items/weapons/greenskins/orc_axe_2h.nut
-msgid "Man Splitter"
-msgstr "劈人斧"
-
-
-# scripts/items/weapons/greenskins/orc_axe_2h.nut
-msgid "A huge and crudely built double headed battleaxe too heavy to be used effectively by the average human."
-msgstr "一把巨大而粗糙的双头战斧，太重，普通人无法有效使用。"
-
-
-# scripts/items/weapons/greenskins/goblin_notched_blade.nut
-msgid "Notched Blade"
-msgstr "齿痕刃片"
+# scripts/items/weapons/greenskins/goblin_heavy_bow.nut
+msgid "Reinforced Boondock Bow"
+msgstr "强化处刑之弓"
 
 
 # scripts/items/weapons/greenskins/goblin_notched_blade.nut
@@ -177,14 +131,15 @@ msgid "Sword/Dagger, One-Handed"
 msgstr ""
 
 
-# scripts/items/weapons/greenskins/goblin_notched_blade.nut
-msgid "A long curved knife with a one sided blade used for slashing, hacking and stabbing at weak spots."
-msgstr "一种长而弯曲的刀，有一个单侧的刀片，用于在薄弱的地方砍、劈和刺。"
-
-
 # scripts/items/weapons/greenskins/orc_javelin.nut
 msgid "Bundle of Crude Javelins"
 msgstr "一捆粗糙的标枪"
+
+
+# scripts/items/weapons/greenskins/goblin_spiked_balls.nut
+# scripts/items/weapons/greenskins/orc_javelin.nut
+msgid "Throwing Weapon, One-Handed"
+msgstr ""
 
 
 # scripts/items/weapons/greenskins/orc_javelin.nut
@@ -192,14 +147,39 @@ msgid "Bundle of Crude Javelins (Empty)"
 msgstr ""
 
 
-# scripts/items/weapons/greenskins/orc_javelin.nut
-msgid "A bunch of crudely made javelins intended for throwing at targets. Have limited range and are exhausting to throw, but may inflict devastating injuries. Can also inflict minor damage to shields if those are hit instead."
-msgstr "一堆粗制滥造的标枪是用来投掷目标的。 射程有限，且十分消耗体力，但能造成毁灭性的伤害。 如果被击格挡，也会对盾牌造成轻微伤害。"
+# scripts/items/weapons/greenskins/goblin_bow.nut
+msgid "A very light short bow used by Goblins."
+msgstr "哥布林使用的非常轻的短弓。"
 
 
-# scripts/items/weapons/greenskins/orc_wooden_club.nut
-msgid "Tree Limb"
-msgstr "树枝"
+# scripts/items/weapons/greenskins/goblin_crossbow.nut
+msgid "]Must be reloaded before firing again[/color]"
+msgstr "]必须重新装填才能再次发射[/color]"
+
+
+# scripts/items/weapons/greenskins/goblin_spear.nut
+msgid "A long shaft with a sharp metal tip at the top."
+msgstr "顶部有锋利金属尖端的长杆。"
+
+
+# scripts/items/weapons/greenskins/goblin_falchion.nut
+msgid "A lightweight goblin falchion made for cutting."
+msgstr "一种用于切割的轻型哥布林弯形剑。"
+
+
+# scripts/items/weapons/greenskins/goblin_heavy_bow.nut
+msgid "A light, yet powerful bow made from various woods."
+msgstr "一种由各种木材制成的轻而有力的弓。"
+
+
+# scripts/items/weapons/greenskins/orc_axe.nut
+msgid "A heavy piece of metal with a sharp head. Not made for human hands."
+msgstr "一块沉重的金属上面有一个锋利的金属头。 不是为人的手做的。"
+
+
+# scripts/items/weapons/greenskins/goblin_spiked_balls.nut
+msgid "Small and heavy iron balls with metal spikes to be hurled at a target."
+msgstr "有金属钉的小而重的铁球要投掷到目标上。"
 
 
 # scripts/items/weapons/greenskins/orc_wooden_club.nut
@@ -207,19 +187,24 @@ msgid "A big and heavy branch torn from a tree. Not well suited for human hands.
 msgstr "从树上扯下来的又大又重的树枝。不太适合人手。"
 
 
-# scripts/items/weapons/greenskins/goblin_bow.nut
-msgid "Boondock Bow"
-msgstr "处刑之弓"
+# scripts/items/weapons/greenskins/orc_metal_club.nut
+msgid "A massive wooden club studded with metal plates. Not made for human hands."
+msgstr "镶有金属板的大木棍。 不是为人的手做的。"
 
 
-# scripts/items/weapons/greenskins/goblin_bow.nut
-msgid "A very light short bow used by Goblins."
-msgstr "哥布林使用的非常轻的短弓。"
+# scripts/items/weapons/greenskins/goblin_pike.nut
+msgid "A long jagged pike that can tear bleeding wounds and keep enemies at bay with its long reach."
+msgstr "一种长而参差不齐的长矛，能撕裂流血的伤口，并能用它的长距离将敌人拒之门外。"
 
 
-# scripts/items/weapons/greenskins/goblin_staff.nut
-msgid "Gnarly Staff"
-msgstr "粗糙的权杖"
+# scripts/items/weapons/greenskins/goblin_notched_blade.nut
+msgid "A long curved knife with a one sided blade used for slashing, hacking and stabbing at weak spots."
+msgstr "一种长而弯曲的刀，有一个单侧的刀片，用于在薄弱的地方砍、劈和刺。"
+
+
+# scripts/items/weapons/greenskins/orc_axe_2h.nut
+msgid "A huge and crudely built double headed battleaxe too heavy to be used effectively by the average human."
+msgstr "一把巨大而粗糙的双头战斧，太重，普通人无法有效使用。"
 
 
 # scripts/items/weapons/greenskins/goblin_staff.nut
@@ -228,7 +213,22 @@ msgstr "一种粗糙的木棍，由坚硬的老木头雕刻而成，用骨头和
 
 
 # scripts/items/weapons/greenskins/orc_cleaver.nut
-msgid "Head Chopper"
-msgstr "斩首刀"
+msgid "A sharp and crude shard of metal with a wrapped grip resembling a sword but a lot heavier. Not made for human hands."
+msgstr "一种锋利而粗糙的金属碎片，有一个像剑一样的握把，但要重很多。 不是为人的手做的。"
+
+
+# scripts/items/weapons/greenskins/orc_flail_2h.nut
+msgid "A massive iron chain with a spiked full metal head at the end. Too heavy to be used effectively by the average human."
+msgstr "末端有尖头的全金属头的大铁链。太重，普通人无法有效使用。"
+
+
+# scripts/items/weapons/greenskins/goblin_crossbow.nut
+msgid "A large and heavy crossbow with menacing spikes in front. More like a minitature ballista, it shoots stakes with enough force to knock back a target hit."
+msgstr "前面有威胁性的尖刺的巨大而沉重的弩。 更像一个小型投石机，它用足够的力量射击木桩来击退命中的目标。"
+
+
+# scripts/items/weapons/greenskins/orc_javelin.nut
+msgid "A bunch of crudely made javelins intended for throwing at targets. Have limited range and are exhausting to throw, but may inflict devastating injuries. Can also inflict minor damage to shields if those are hit instead."
+msgstr "一堆粗制滥造的标枪是用来投掷目标的。 射程有限，且十分消耗体力，但能造成毁灭性的伤害。 如果被击格挡，也会对盾牌造成轻微伤害。"
 
 

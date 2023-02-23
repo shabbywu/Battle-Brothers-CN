@@ -1,11 +1,11 @@
-# scripts/skills/skill.nut
-msgid "[/color] damage to armor"
+# scripts/skills/skill_container.nut
+msgid ",H"
 msgstr ""
 
 
-# scripts/skills/skill.nut
-msgid "Oath of Wrath"
-msgstr "愤怒誓言"
+# scripts/skills/skill_container.nut
+msgid "skill"
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -21,6 +21,11 @@ msgstr ""
 # scripts/skills/skill.nut
 msgid "Riposte"
 msgstr "还击"
+
+
+# scripts/skills/skill_container.nut
+msgid "Skill ["
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -89,6 +94,11 @@ msgstr ""
 
 
 # scripts/skills/skill.nut
+msgid "Oath of Wrath"
+msgstr "愤怒誓言"
+
+
+# scripts/skills/skill.nut
 msgid "Fast Adaption"
 msgstr "快速适应"
 
@@ -115,6 +125,11 @@ msgstr "高度优势"
 
 # scripts/skills/skill.nut
 msgid "Inflicts [color="
+msgstr ""
+
+
+# scripts/skills/skill_container.nut
+msgid "] removed from ["
 msgstr ""
 
 
@@ -156,6 +171,11 @@ msgstr ""
 # scripts/skills/skill.nut
 msgid "Immune to being rooted"
 msgstr "免疫定身"
+
+
+# scripts/skills/skill.nut
+msgid "[/color] damage to armor"
+msgstr ""
 
 
 # scripts/skills/skill.nut
@@ -208,6 +228,11 @@ msgid " and the shot goes astray and misses "
 msgstr ""
 
 
+# scripts/skills/skill_container.nut
+msgid "# A = Active, P = Passive, H = Hidden"
+msgstr ""
+
+
 # scripts/skills/skill.nut
 msgid "Immune to being knocked back or hooked"
 msgstr "免疫撞退或钩拉"
@@ -221,30 +246,5 @@ msgstr ""
 # scripts/skills/skill.nut
 msgid "]Can not be used because this character has taken an oath precluding the use of ranged weapons or tools[/color]"
 msgstr "]不能使用，因为这个角色已经宣誓禁止使用远程武器或工具[/color]"
-
-
-# scripts/skills/skill_container.nut
-msgid ",H"
-msgstr ""
-
-
-# scripts/skills/skill_container.nut
-msgid "skill"
-msgstr ""
-
-
-# scripts/skills/skill_container.nut
-msgid "Skill ["
-msgstr ""
-
-
-# scripts/skills/skill_container.nut
-msgid "] removed from ["
-msgstr ""
-
-
-# scripts/skills/skill_container.nut
-msgid "# A = Active, P = Passive, H = Hidden"
-msgstr ""
 
 

@@ -1,21 +1,6 @@
-# scripts/items/loot/bead_necklace_item.nut
-msgid "Bead Necklace"
-msgstr "珠子项链"
-
-
-# scripts/items/loot/bead_necklace_item.nut
-msgid "A necklace made from various beads typical of northern barbarian tribes."
-msgstr "一种由北方野蛮部落特有的各种珠子制成的项链。"
-
-
-# scripts/items/loot/bone_figurines_item.nut
-msgid "Bone Figurines"
-msgstr "骨雕像"
-
-
-# scripts/items/loot/bone_figurines_item.nut
-msgid "Small carved figurines made from various rare bones. A collector might pay decent coin for this."
-msgstr "各种稀有骨头雕刻的小雕像。 收藏家可能会为此付出相当可观的代价。"
+# scripts/items/loot/gemstones_item.nut
+msgid "Gemstones"
+msgstr "宝石"
 
 
 # scripts/items/loot/silverware_item.nut
@@ -23,49 +8,9 @@ msgid "Silverware"
 msgstr "银器"
 
 
-# scripts/items/loot/silverware_item.nut
-msgid "An accumulation of silver cutlery. Should fetch a good price at the next city."
-msgstr "一堆银餐具。 下一个城市应该能卖个好价钱。"
-
-
-# scripts/items/loot/webbed_valuables_item.nut
-msgid "Webbed Valuables"
-msgstr "网住的贵重物品"
-
-
-# scripts/items/loot/webbed_valuables_item.nut
-msgid "Within the thick webs of webknechts sometimes valuables that once belonged to their unfortunate victims can be discoverd - if one is brave enough to search through the sticky deathtraps."
-msgstr "在一张厚厚的网中，有时曾经属于不幸受害者的贵重物品可能会被发现－如果一个人足够勇敢地在粘糊糊的死亡陷阱中搜寻的话。"
-
-
-# scripts/items/loot/jeweled_crown_item.nut
-msgid "Jeweled Crown"
-msgstr "宝石王冠"
-
-
-# scripts/items/loot/jeweled_crown_item.nut
-msgid "A finely crafted golden crown beset with jewels. Should be worth a fortune if you can find a buyer."
-msgstr "一顶镶着宝石的黄金精致王冠。 如果你能找到买主的话，应该值一大笔钱。"
-
-
-# scripts/items/loot/gemstones_item.nut
-msgid "Gemstones"
-msgstr "宝石"
-
-
-# scripts/items/loot/gemstones_item.nut
-msgid "Cut gemstones of various sizes. Should be worth a lot if you can find a buyer."
-msgstr "切割成各种大小的宝石。 如果你能找到买家的话，应该很值钱。"
-
-
-# scripts/items/loot/growth_pearls_item.nut
-msgid "Growth Pearls"
-msgstr ""
-
-
-# scripts/items/loot/growth_pearls_item.nut
-msgid "The fast growth of Nachzehrer tissue sometimes engulfs small particles or debris and turns them into shimmering pearls that can be found within the creatures. Should fetch a good price at the next city."
-msgstr "The fast growth of Nachzehrer tissue sometimes engulfs small particles or debris and turns them into shimmering pearls that can be found within the creatures. 下一个城市应该能卖个好价钱。"
+# scripts/items/loot/sabertooth_item.nut
+msgid "Sabertooth"
+msgstr "剑齿"
 
 
 # scripts/items/loot/signet_ring_item.nut
@@ -73,59 +18,64 @@ msgid "Signet Ring"
 msgstr "纹章戒指"
 
 
-# scripts/items/loot/signet_ring_item.nut
-msgid "A jeweled signet ring. Should fetch a good price at the next city."
-msgstr "一个镶嵌有宝石的纹章戒指。 下一个城市应该能卖个好价钱。"
-
-
-# scripts/items/loot/goblin_carved_ivory_iconographs_item.nut
-msgid "Carved Ivory Iconographs"
-msgstr "象牙雕刻肖像画"
-
-
-# scripts/items/loot/goblin_carved_ivory_iconographs_item.nut
-msgid "Artfully carved ivory iconographs depicting revered members of goblin society."
-msgstr "雕刻精美的象牙肖像画描绘了哥布林社会中受人尊敬的成员。"
-
-
-# scripts/items/loot/glittering_rock_item.nut
-msgid "Glittering Rock"
-msgstr "闪闪发光的岩石"
-
-
-# scripts/items/loot/glittering_rock_item.nut
-msgid "Among the scattered rocks that remain of a defeated Ifrit, sometimes a rock shimmering with gold can be found. It makes for a valuable trophy."
-msgstr "在一个被击败的伊夫利特遗留下来的零星岩石中，有时可以找到一块闪着金光的岩石。 它是一个珍贵的战利品。"
-
-
-# scripts/items/loot/goblin_minted_coins_item.nut
-msgid "Minted Silver Coins"
-msgstr "铸造银币"
-
-
-# scripts/items/loot/goblin_minted_coins_item.nut
-msgid "Minted silver coins that goblins use as currency."
-msgstr "哥布林用作货币的铸造银币。"
-
-
-# scripts/items/loot/lindwurm_hoard_item.nut
-msgid "Lindwurm's Hoard"
-msgstr "林德虫的宝藏"
-
-
-# scripts/items/loot/lindwurm_hoard_item.nut
-msgid "A collection of shimmering valuables, covered in the innards of a Lindwurm."
-msgstr "一组闪闪发光的贵重物品，收藏在林德虫的体内。"
-
-
 # scripts/items/loot/ornate_tome_item.nut
 msgid "Ornate Tome"
 msgstr "华丽的书本"
 
 
-# scripts/items/loot/ornate_tome_item.nut
-msgid "A well preserved tome with a massive golden book cover. Should fetch a good price from the kind of people that study dusty old tomes."
-msgstr "一本保存完好的书，有一个巨大的黄金封面。考古学者应该会为它付出一个好价钱。"
+# scripts/items/loot/silver_bowl_item.nut
+msgid "Silver Bowl"
+msgstr "银碗"
+
+
+# scripts/items/loot/jade_broche_item.nut
+msgid "Jade Brooch"
+msgstr "玉质胸针"
+
+
+# scripts/items/loot/white_pearls_item.nut
+msgid "White Pearls"
+msgstr "白色珍珠"
+
+
+# scripts/items/loot/bead_necklace_item.nut
+msgid "Bead Necklace"
+msgstr "珠子项链"
+
+
+# scripts/items/loot/jeweled_crown_item.nut
+msgid "Jeweled Crown"
+msgstr "宝石王冠"
+
+
+# scripts/items/loot/growth_pearls_item.nut
+msgid "Growth Pearls"
+msgstr ""
+
+
+# scripts/items/loot/ancient_amber_item.nut
+msgid "Ancient Amber"
+msgstr "古琥珀"
+
+
+# scripts/items/loot/rainbow_scale_item.nut
+msgid "Rainbow Scale"
+msgstr "彩虹鳞片"
+
+
+# scripts/items/loot/valuable_furs_item.nut
+msgid "Valuable Furs"
+msgstr "贵重毛皮"
+
+
+# scripts/items/loot/soul_splinter_item.nut
+msgid "Soul Splinter"
+msgstr "灵魂碎片"
+
+
+# scripts/items/loot/bone_figurines_item.nut
+msgid "Bone Figurines"
+msgstr "骨雕像"
 
 
 # scripts/items/loot/golden_chalice_item.nut
@@ -133,14 +83,124 @@ msgid "Golden Chalice"
 msgstr "黄金圣杯"
 
 
-# scripts/items/loot/golden_chalice_item.nut
-msgid "A drinking cup made from massive gold. Should be worth a lot if you can find a buyer."
-msgstr "用纯金打造的杯子。 如果你能找到买家的话，应该很值钱。"
+# scripts/items/loot/glittering_rock_item.nut
+msgid "Glittering Rock"
+msgstr "闪闪发光的岩石"
+
+
+# scripts/items/loot/webbed_valuables_item.nut
+msgid "Webbed Valuables"
+msgstr "网住的贵重物品"
+
+
+# scripts/items/loot/lindwurm_hoard_item.nut
+msgid "Lindwurm's Hoard"
+msgstr "林德沃姆的宝藏"
+
+
+# scripts/items/loot/looted_valuables_item.nut
+msgid "Looted Valuables"
+msgstr "贵重战利品"
 
 
 # scripts/items/loot/deformed_valuables_item.nut
 msgid "Deformed Valuables"
 msgstr "变形的贵重物品"
+
+
+# scripts/items/loot/ancient_gold_coins_item.nut
+msgid "Ancient Gold Coins"
+msgstr "古代金币"
+
+
+# scripts/items/loot/goblin_minted_coins_item.nut
+msgid "Minted Silver Coins"
+msgstr "铸造银币"
+
+
+# scripts/items/loot/goblin_rank_insignia_item.nut
+msgid "Golden Rank Insignia"
+msgstr "金军衔徽章"
+
+
+# scripts/items/loot/goblin_carved_ivory_iconographs_item.nut
+msgid "Carved Ivory Iconographs"
+msgstr "象牙雕刻肖像画"
+
+
+# scripts/items/loot/goblin_minted_coins_item.nut
+msgid "Minted silver coins that goblins use as currency."
+msgstr "哥布林用作货币的铸造银币。"
+
+
+# scripts/items/loot/signet_ring_item.nut
+msgid "A jeweled signet ring. Should fetch a good price at the next city."
+msgstr "一个镶嵌有宝石的纹章戒指。 下一个城市应该能卖个好价钱。"
+
+
+# scripts/items/loot/bead_necklace_item.nut
+msgid "A necklace made from various beads typical of northern barbarian tribes."
+msgstr "一种由北方野蛮部落特有的各种珠子制成的项链。"
+
+
+# scripts/items/loot/lindwurm_hoard_item.nut
+msgid "A collection of shimmering valuables, covered in the innards of a Lindwurm."
+msgstr "一组闪闪发光的贵重物品，收藏在林德沃姆的体内。"
+
+
+# scripts/items/loot/silverware_item.nut
+msgid "An accumulation of silver cutlery. Should fetch a good price at the next city."
+msgstr "一堆银餐具。 下一个城市应该能卖个好价钱。"
+
+
+# scripts/items/loot/gemstones_item.nut
+msgid "Cut gemstones of various sizes. Should be worth a lot if you can find a buyer."
+msgstr "切割成各种大小的宝石。 如果你能找到买家的话，应该很值钱。"
+
+
+# scripts/items/loot/goblin_carved_ivory_iconographs_item.nut
+msgid "Artfully carved ivory iconographs depicting revered members of goblin society."
+msgstr "雕刻精美的象牙肖像画描绘了哥布林社会中受人尊敬的成员。"
+
+
+# scripts/items/loot/white_pearls_item.nut
+msgid "Rare white pearls in various sizes. Should fetch a good price at the next city."
+msgstr "稀有而又昂贵的白色珍珠。 下一个城市应该能卖个好价钱。"
+
+
+# scripts/items/loot/jade_broche_item.nut
+msgid "A finely crafted jade brooch that would surely make you a coin or two when sold."
+msgstr "一枚做工精细的玉质胸针，出售时一定能给你一两枚硬币。"
+
+
+# scripts/items/loot/golden_chalice_item.nut
+msgid "A drinking cup made from massive gold. Should be worth a lot if you can find a buyer."
+msgstr "用纯金打造的杯子。 如果你能找到买家的话，应该很值钱。"
+
+
+# scripts/items/loot/silver_bowl_item.nut
+msgid "A large silver bowl of remarkable weight. Should fetch a good price at the next city."
+msgstr "一只巨大的银碗。 下一个城市应该能卖个好价钱。"
+
+
+# scripts/items/loot/ancient_gold_coins_item.nut
+msgid "Thick gold coins with various ancient imprints. Should be worth a lot if you can find a buyer."
+msgstr "有着各种古代痕迹的厚金币。 如果你能找到买家的话，应该很值钱。"
+
+
+# scripts/items/loot/bone_figurines_item.nut
+msgid "Small carved figurines made from various rare bones. A collector might pay decent coin for this."
+msgstr "各种稀有骨头雕刻的小雕像。 收藏家可能会为此付出相当可观的代价。"
+
+
+# scripts/items/loot/jeweled_crown_item.nut
+msgid "A finely crafted golden crown beset with jewels. Should be worth a fortune if you can find a buyer."
+msgstr "一顶镶着宝石的黄金精致王冠。 如果你能找到买主的话，应该值一大笔钱。"
+
+
+# scripts/items/loot/goblin_rank_insignia_item.nut
+msgid "Golden rank insignia like these are worn by high-ranking goblin officials. Should be worth something to a collector."
+msgstr "像这样的金军衔徽章是高级哥布林官员佩戴的。 对收藏家来说应该有价值。"
 
 
 # scripts/items/loot/deformed_valuables_item.nut
@@ -149,78 +209,8 @@ msgstr "巨魔是笨重但强壮的生物，它们倾向于将找到的贵重物
 
 
 # scripts/items/loot/ancient_amber_item.nut
-msgid "Ancient Amber"
-msgstr "古琥珀"
-
-
-# scripts/items/loot/ancient_amber_item.nut
 msgid "Particularly old schrats grow small splinters of extremely pure amber on their bark. These sell for quite a price to a trader."
 msgstr "特别是老树人，它们的树皮上会长出非常纯净的琥珀碎片。 这些东西对一个交易者来说价格很高。"
-
-
-# scripts/items/loot/goblin_rank_insignia_item.nut
-msgid "Golden Rank Insignia"
-msgstr "金军衔徽章"
-
-
-# scripts/items/loot/goblin_rank_insignia_item.nut
-msgid "Golden rank insignia like these are worn by high-ranking goblin officials. Should be worth something to a collector."
-msgstr "像这样的金军衔徽章是高级哥布林官员佩戴的。 对收藏家来说应该有价值。"
-
-
-# scripts/items/loot/ancient_gold_coins_item.nut
-msgid "Ancient Gold Coins"
-msgstr "古代金币"
-
-
-# scripts/items/loot/ancient_gold_coins_item.nut
-msgid "Thick gold coins with various ancient imprints. Should be worth a lot if you can find a buyer."
-msgstr "有着各种古代痕迹的厚金币。 如果你能找到买家的话，应该很值钱。"
-
-
-# scripts/items/loot/white_pearls_item.nut
-msgid "White Pearls"
-msgstr "白色珍珠"
-
-
-# scripts/items/loot/white_pearls_item.nut
-msgid "Rare white pearls in various sizes. Should fetch a good price at the next city."
-msgstr "稀有而又昂贵的白色珍珠。 下一个城市应该能卖个好价钱。"
-
-
-# scripts/items/loot/sabertooth_item.nut
-msgid "Sabertooth"
-msgstr "剑齿"
-
-
-# scripts/items/loot/sabertooth_item.nut
-msgid "An extraordinarily large tooth that can probably be sold for some crowns to people who'd want to pretend that they hunted down a fearsome beast."
-msgstr "一颗非常大的牙齿，可能会卖给那些想假装猎杀可怖野兽的人。"
-
-
-# scripts/items/loot/silver_bowl_item.nut
-msgid "Silver Bowl"
-msgstr "银碗"
-
-
-# scripts/items/loot/silver_bowl_item.nut
-msgid "A large silver bowl of remarkable weight. Should fetch a good price at the next city."
-msgstr "一只巨大的银碗。 下一个城市应该能卖个好价钱。"
-
-
-# scripts/items/loot/rainbow_scale_item.nut
-msgid "Rainbow Scale"
-msgstr "彩虹鳞片"
-
-
-# scripts/items/loot/rainbow_scale_item.nut
-msgid "Desert serpents sometimes have particularly colorful and shiny scales embedded in their shimmering skin. These are sought after by jewelers and trophy hunters around the lands."
-msgstr "沙漠大蛇有时有特别彩色和闪亮的鳞片嵌入他们闪闪发光的皮肤。 它们受到各地珠宝商和战利品猎人的追捧。"
-
-
-# scripts/items/loot/valuable_furs_item.nut
-msgid "Valuable Furs"
-msgstr "贵重毛皮"
 
 
 # scripts/items/loot/valuable_furs_item.nut
@@ -228,9 +218,24 @@ msgid "A pack of valuable furs and pelts from various small animals. A very soug
 msgstr "一堆珍贵的各种小动物的毛皮。 一种非常抢手的商品，尤其是在较大的定居点。"
 
 
-# scripts/items/loot/looted_valuables_item.nut
-msgid "Looted Valuables"
-msgstr "贵重战利品"
+# scripts/items/loot/ornate_tome_item.nut
+msgid "A well preserved tome with a massive golden book cover. Should fetch a good price from the kind of people that study dusty old tomes."
+msgstr "一本保存完好的书，有一个巨大的黄金封面。考古学者应该会为它付出一个好价钱。"
+
+
+# scripts/items/loot/glittering_rock_item.nut
+msgid "Among the scattered rocks that remain of a defeated Ifrit, sometimes a rock shimmering with gold can be found. It makes for a valuable trophy."
+msgstr "在一个被击败的伊夫利特遗留下来的零星岩石中，有时可以找到一块闪着金光的岩石。 它是一个珍贵的战利品。"
+
+
+# scripts/items/loot/sabertooth_item.nut
+msgid "An extraordinarily large tooth that can probably be sold for some crowns to people who'd want to pretend that they hunted down a fearsome beast."
+msgstr "一颗非常大的牙齿，可能会卖给那些想假装猎杀可怖野兽的人。"
+
+
+# scripts/items/loot/soul_splinter_item.nut
+msgid "In the dusty remains of Alps sometimes these pitch black splinters can be found. It looks like the stars are shimmering deep within these stones."
+msgstr "在梦魇布满灰尘的遗迹中，有时会发现这些漆黑的碎片。 看起来星星在这些石头的深处闪闪发光。"
 
 
 # scripts/items/loot/looted_valuables_item.nut
@@ -238,23 +243,18 @@ msgid "A pillaged pile of valuables that have been looted by the Barbarians over
 msgstr "多年来被野蛮人抢劫的一堆贵重物品。 许多部件都是破碎和弯曲的，但材料相当精致。"
 
 
-# scripts/items/loot/jade_broche_item.nut
-msgid "Jade Brooch"
-msgstr "玉质胸针"
+# scripts/items/loot/rainbow_scale_item.nut
+msgid "Desert serpents sometimes have particularly colorful and shiny scales embedded in their shimmering skin. These are sought after by jewelers and trophy hunters around the lands."
+msgstr "沙漠大蛇有时有特别彩色和闪亮的鳞片嵌入他们闪闪发光的皮肤。 它们受到各地珠宝商和战利品猎人的追捧。"
 
 
-# scripts/items/loot/jade_broche_item.nut
-msgid "A finely crafted jade brooch that would surely make you a coin or two when sold."
-msgstr "一枚做工精细的玉质胸针，出售时一定能给你一两枚硬币。"
+# scripts/items/loot/webbed_valuables_item.nut
+msgid "Within the thick webs of webknechts sometimes valuables that once belonged to their unfortunate victims can be discoverd - if one is brave enough to search through the sticky deathtraps."
+msgstr "在一张厚厚的网中，有时曾经属于不幸受害者的贵重物品可能会被发现－如果一个人足够勇敢地在粘糊糊的死亡陷阱中搜寻的话。"
 
 
-# scripts/items/loot/soul_splinter_item.nut
-msgid "Soul Splinter"
-msgstr "灵魂碎片"
-
-
-# scripts/items/loot/soul_splinter_item.nut
-msgid "In the dusty remains of Alps sometimes these pitch black splinters can be found. It looks like the stars are shimmering deep within these stones."
-msgstr "在梦魇布满灰尘的遗迹中，有时会发现这些漆黑的碎片。 看起来星星在这些石头的深处闪闪发光。"
+# scripts/items/loot/growth_pearls_item.nut
+msgid "The fast growth of Nachzehrer tissue sometimes engulfs small particles or debris and turns them into shimmering pearls that can be found within the creatures. Should fetch a good price at the next city."
+msgstr "The fast growth of Nachzehrer tissue sometimes engulfs small particles or debris and turns them into shimmering pearls that can be found within the creatures. 下一个城市应该能卖个好价钱。"
 
 

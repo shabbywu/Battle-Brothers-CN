@@ -3,6 +3,26 @@ msgid "Harbor"
 msgstr "港口"
 
 
+# scripts/entity/world/attached_location/winery_location.nut
+msgid "Winery"
+msgstr "葡萄酒厂"
+
+
+# scripts/entity/world/attached_location/brewery_location.nut
+msgid "Brewery"
+msgstr "啤酒厂"
+
+
+# scripts/entity/world/attached_location/orchard_location.nut
+msgid "Orchard"
+msgstr "果园"
+
+
+# scripts/entity/world/attached_location/trapper_location.nut
+msgid "Trapper"
+msgstr "陷阱捕兽者"
+
+
 # scripts/entity/world/attached_location/militia_trainingcamp_oriental_location.nut
 # scripts/entity/world/attached_location/stone_watchtower_location.nut
 # scripts/entity/world/attached_location/fortified_outpost_location.nut
@@ -13,76 +33,9 @@ msgid "lighting"
 msgstr ""
 
 
-# scripts/entity/world/attached_location/militia_trainingcamp_oriental_location.nut
-# scripts/entity/world/attached_location/militia_trainingcamp_location.nut
-msgid "Militia Barracks"
-msgstr "民兵营房"
-
-
-# scripts/entity/world/attached_location/militia_trainingcamp_oriental_location.nut
-# scripts/entity/world/attached_location/militia_trainingcamp_location.nut
-msgid "A large compound of militia barracks. This camp will turn ordinary peasants into somewhat able soldiers that can defend their home and their loved ones."
-msgstr "一个由民兵兵营组成的大院。这个营地将把普通农民变成有能力保卫家园和亲人的士兵。"
-
-
-# scripts/entity/world/attached_location/dye_maker_location.nut
-msgid "Dye Maker"
-msgstr "染色机"
-
-
-# scripts/entity/world/attached_location/dye_maker_location.nut
-msgid "This dye maker creates precious dies from all kinds of ingredients. The recipes for these expensive goods are well-kept secrets."
-msgstr "这个染料制造者用各种原料制造出珍贵的模具。 这些昂贵商品的配方是保密的。"
-
-
 # scripts/entity/world/attached_location/pig_farm_location.nut
 msgid "Pig Farm"
 msgstr "养猪场"
-
-
-# scripts/entity/world/attached_location/pig_farm_location.nut
-msgid "The smell of this pig farm is just as distinct as the squeeking sounds coming from the muddy pits. The pork chops produced here are usually sold in the nearby settlement."
-msgstr "这个养猪场的气味和泥坑里发出的吱吱声一样明显。这里生产的猪排通常在附近的定居点出售。"
-
-
-# scripts/entity/world/attached_location/herbalists_grove_location.nut
-msgid "Herbalist's Grove"
-msgstr "药师小树林"
-
-
-# scripts/entity/world/attached_location/herbalists_grove_location.nut
-msgid "In this remote grove the knowing herbalist collects all kinds of medicinal plants and roots."
-msgstr "在这片偏僻的小树林里，会心的药师收集各种药用植物和根。"
-
-
-# scripts/entity/world/attached_location/plantation_location.nut
-msgid "Plantation"
-msgstr "种植园"
-
-
-# scripts/entity/world/attached_location/plantation_location.nut
-msgid "All kinds of wonderous spices and herbs are cultivated in this plantation. A small and rare fruitful spot in the barren desert."
-msgstr "这个种植园种植各种各样的香料和草药。 荒漠中的一个小而罕见的丰收之地。"
-
-
-# scripts/entity/world/attached_location/silk_farm_location.nut
-msgid "Silk Farm"
-msgstr ""
-
-
-# scripts/entity/world/attached_location/silk_farm_location.nut
-msgid "In these huts the precious silk is spun from cocoons of small insects by secret methods."
-msgstr "在这些小屋里小虫子的茧被一种秘密的方式抽出丝绸。"
-
-
-# scripts/entity/world/attached_location/hunters_cabin_location.nut
-msgid "Hunter's Cabin"
-msgstr "猎人小屋"
-
-
-# scripts/entity/world/attached_location/hunters_cabin_location.nut
-msgid "Hunters take shelter in these small huts while on the hunt. Chopped up game, venison and hides hung up to dry in the sun surround the huts."
-msgstr "狩猎时，猎人们住在这些小屋里。切碎的野味、鹿肉和兽皮悬挂起来晒在小屋周围。"
 
 
 # scripts/entity/world/attached_location/gem_mine_location.nut
@@ -90,99 +43,29 @@ msgid "Gem Mine"
 msgstr "宝石矿"
 
 
-# scripts/entity/world/attached_location/gem_mine_location.nut
-msgid "The shiny gems found in this mine are usually brought directly to the next settlement in well-guarded caravans for further refinement."
-msgstr "在这个矿山中发现的闪亮的宝石通常直接运到保护良好的大篷车中的下一个定居点进行进一步的提炼。"
-
-
-# scripts/entity/world/attached_location/brewery_location.nut
-msgid "Brewery"
-msgstr "啤酒厂"
-
-
-# scripts/entity/world/attached_location/brewery_location.nut
-msgid "This brewery produces large quantities of beer for both local taverns and traders."
-msgstr "这家酿酒厂为当地酒馆和商人生产大量的啤酒。"
-
-
 # scripts/entity/world/attached_location/workshop_location.nut
 msgid "Workshop"
 msgstr "作坊"
 
 
-# scripts/entity/world/attached_location/workshop_location.nut
-msgid "The workshop is proficient in making all kinds of tools and other supplies needed to keep carts and machines working."
-msgstr "该工坊精通于制造货车和机器工作所需的各种工具和其他用品。"
+# scripts/entity/world/attached_location/fortified_outpost_location.nut
+msgid "Barracks"
+msgstr "兵营"
 
 
-# scripts/entity/world/attached_location/amber_collector_location.nut
-msgid "Amber Collector"
-msgstr "琥珀收集者"
+# scripts/entity/world/attached_location/peat_pit_location.nut
+msgid "Peat Pit"
+msgstr "泥炭坑"
 
 
-# scripts/entity/world/attached_location/amber_collector_location.nut
-msgid "The collectors living in these huts search for valuable amber shards along the shore."
-msgstr "住在这些小屋里的收藏家沿着海岸寻找珍贵的琥珀碎片。"
+# scripts/entity/world/attached_location/dye_maker_location.nut
+msgid "Dye Maker"
+msgstr "染色机"
 
 
-# scripts/entity/world/attached_location/orchard_location.nut
-msgid "Orchard"
-msgstr "果园"
-
-
-# scripts/entity/world/attached_location/orchard_location.nut
-msgid "Dense rows of trees with ripe fruit frame a small warehouse where everything is stored until offered on local markets."
-msgstr "成行茂密的树上挂满了成熟的水果，这是一个小仓库，所有的东西都存放在那里，直到在当地市场上出售。"
-
-
-# scripts/entity/world/attached_location/lumber_camp_location.nut
-msgid "Lumber Camp"
-msgstr "伐木厂"
-
-
-# scripts/entity/world/attached_location/lumber_camp_location.nut
-msgid "This lumber camp is used as a base for lumberjacks on the search for the most precious and durable materials in the nearby woods."
-msgstr "这个木材营地被用作伐木工寻找附近树林中最珍贵和耐用材料的基地。"
-
-
-# scripts/entity/world/attached_location/incense_dryer_location.nut
-msgid "Incense Dryer"
+# scripts/entity/world/attached_location/silk_farm_location.nut
+msgid "Silk Farm"
 msgstr ""
-
-
-# scripts/entity/world/attached_location/incense_dryer_location.nut
-msgid "Tree sap is gathered from the surrounding trees and dried in the sun to create valuable incense."
-msgstr "树汁被从周围的树上收集起来放到阳光下暴晒来产出值钱的熏香。"
-
-
-# scripts/entity/world/attached_location/fishing_huts_location.nut
-msgid "Fishing Huts"
-msgstr "渔屋"
-
-
-# scripts/entity/world/attached_location/fishing_huts_location.nut
-msgid "A small group of huts surrounded by nets, spears, hooks and other fishing equipment. The smell from baskets of fish guts travels quite a distance."
-msgstr "由网、矛、钩和其他捕鱼装备包围的一小群棚屋。篮子里的鱼肠子气味传得很远。"
-
-
-# scripts/entity/world/attached_location/surface_copper_vein_location.nut
-msgid "Surface Copper Vein"
-msgstr "露天铜矿"
-
-
-# scripts/entity/world/attached_location/surface_copper_vein_location.nut
-msgid "A mining camp has been set up to mine a surfaced copper vein and smelt the ore into ingots on the spot."
-msgstr "已经建立了一个采矿营地，开采表面的铜矿脉，并在现场将矿石熔炼铸锭。"
-
-
-# scripts/entity/world/attached_location/fletchers_hut_location.nut
-msgid "Arrow Maker's Shed"
-msgstr "箭匠棚"
-
-
-# scripts/entity/world/attached_location/fletchers_hut_location.nut
-msgid "The arrow makers in these sheds produce all kinds of ranged ammunition which they then sell at the nearest settlement."
-msgstr "这些工棚里的制箭工人生产各种远程弹药，然后在最近的定居点出售。"
 
 
 # scripts/entity/world/attached_location/goat_herd_location.nut
@@ -190,9 +73,64 @@ msgid "Goat Pens"
 msgstr "山羊圈"
 
 
-# scripts/entity/world/attached_location/goat_herd_location.nut
-msgid "The goats held here are mainly used for their milk which is then turned into cheese to make it more durable."
-msgstr "这里饲养的山羊主要用来产奶，然后再把奶变成奶酪，使之更耐用。"
+# scripts/entity/world/attached_location/salt_mine_location.nut
+msgid "Salt Mine"
+msgstr "盐矿"
+
+
+# scripts/entity/world/attached_location/gold_mine_location.nut
+msgid "Gold Mine"
+msgstr "金矿"
+
+
+# scripts/entity/world/attached_location/beekeeper_location.nut
+msgid "Beekeeper"
+msgstr "养蜂人"
+
+
+# scripts/entity/world/attached_location/plantation_location.nut
+msgid "Plantation"
+msgstr "种植园"
+
+
+# scripts/entity/world/attached_location/lumber_camp_location.nut
+msgid "Lumber Camp"
+msgstr "伐木厂"
+
+
+# scripts/entity/world/attached_location/fishing_huts_location.nut
+msgid "Fishing Huts"
+msgstr "渔屋"
+
+
+# scripts/entity/world/attached_location/ore_smelters_location.nut
+msgid "Ore Smelters"
+msgstr "矿石冶炼厂"
+
+
+# scripts/entity/world/attached_location/wool_spinner_location.nut
+msgid "Wool Spinner"
+msgstr "羊毛纺纱"
+
+
+# scripts/entity/world/attached_location/wheat_fields_location.nut
+msgid "Wheat Fields"
+msgstr "麦田"
+
+
+# scripts/entity/world/attached_location/incense_dryer_location.nut
+msgid "Incense Dryer"
+msgstr ""
+
+
+# scripts/entity/world/attached_location/blast_furnace_location.nut
+msgid "Blast Furnace"
+msgstr "鼓风炉"
+
+
+# scripts/entity/world/attached_location/hunters_cabin_location.nut
+msgid "Hunter's Cabin"
+msgstr "猎人小屋"
 
 
 # scripts/entity/world/attached_location/mushroom_grove_location.nut
@@ -200,34 +138,25 @@ msgid "Mushroom Grove"
 msgstr "蘑菇树林"
 
 
-# scripts/entity/world/attached_location/mushroom_grove_location.nut
-msgid "Hidden in the mud and reed, the expert gatherer can find groves and caves full of precious mushrooms like these."
-msgstr "在泥泞和芦苇中，专家采集者可以找到像这样充满珍贵蘑菇的小树林和洞穴。"
+# scripts/entity/world/attached_location/leather_tanner_location.nut
+msgid "Leather Tanner"
+msgstr "皮革鞣革工"
 
 
-# scripts/entity/world/attached_location/trapper_location.nut
-msgid "Trapper"
-msgstr "陷阱捕兽者"
+# scripts/entity/world/attached_location/gatherers_hut_location.nut
+msgid "Gatherer's Hut"
+msgstr "采集者的小屋"
 
 
-# scripts/entity/world/attached_location/trapper_location.nut
-msgid "Small huts provide shelter for the trappers living here and setting traps for animals with valuable furs."
-msgstr "小茅屋为住在这里的猎人提供了庇护所，在这里制作陷阱为了获取有价值的动物毛皮。"
+# scripts/entity/world/attached_location/amber_collector_location.nut
+msgid "Amber Collector"
+msgstr "琥珀收集者"
 
 
-# scripts/entity/world/attached_location/guarded_checkpoint_location.nut
-msgid "Guarded Checkpoint"
-msgstr "警戒检查站"
-
-
-# scripts/entity/world/attached_location/guarded_checkpoint_location.nut
-msgid "A road checkpoint manned by professional soldiers."
-msgstr "由专业士兵管理的道路检查站。"
-
-
-# scripts/entity/world/attached_location/harbor_location.nut
-msgid "A harbor that serves both foreign trading ships and local fishermen."
-msgstr "为对外贸易船和当地渔民服务的港口。"
+# scripts/entity/world/attached_location/militia_trainingcamp_oriental_location.nut
+# scripts/entity/world/attached_location/militia_trainingcamp_location.nut
+msgid "Militia Barracks"
+msgstr "民兵营房"
 
 
 # scripts/entity/world/attached_location/stone_watchtower_location.nut
@@ -236,80 +165,9 @@ msgid "Stone Watchtower"
 msgstr "石头岗楼"
 
 
-# scripts/entity/world/attached_location/stone_watchtower_location.nut
-# scripts/entity/world/attached_location/stone_watchtower_oriental_location.nut
-msgid "A stone watchtower occupied by well trained soldiers on guard duty."
-msgstr "由训练有素的警卫士兵占领的石头岗楼。"
-
-
-# scripts/entity/world/attached_location/fortified_outpost_location.nut
-msgid "Barracks"
-msgstr "兵营"
-
-
-# scripts/entity/world/attached_location/fortified_outpost_location.nut
-msgid "Large barracks housing a host of professional soldiers."
-msgstr "容纳大量专业士兵的大型兵营。"
-
-
-# scripts/entity/world/attached_location/winery_location.nut
-msgid "Winery"
-msgstr "葡萄酒厂"
-
-
-# scripts/entity/world/attached_location/winery_location.nut
-msgid "This winery is surrounded by a large vineyard. The wine produced here is a priced commodity in wealthier circles."
-msgstr "这个酒厂周围有一个大葡萄园。这里生产的葡萄酒是富裕阶层中的一种定价商品。"
-
-
-# scripts/entity/world/attached_location/salt_mine_location.nut
-msgid "Salt Mine"
-msgstr "盐矿"
-
-
-# scripts/entity/world/attached_location/salt_mine_location.nut
-msgid "A mine in which precious rock salt is extracted and shipped off to only the most trustworthy traders."
-msgstr "一种只有最值得信赖的商人才能开采和运输贵重岩盐的矿山。"
-
-
-# scripts/entity/world/attached_location/ore_smelters_location.nut
-msgid "Ore Smelters"
-msgstr "矿石冶炼厂"
-
-
-# scripts/entity/world/attached_location/ore_smelters_location.nut
-msgid "The burning hot ore smelters produce high quality metal ingots used by able weapon smiths to create the most sophisticated of arms."
-msgstr "灼热的矿石冶炼厂生产高质量的金属锭，由能干的武器匠用来制造最精密的武器。"
-
-
-# scripts/entity/world/attached_location/gold_mine_location.nut
-msgid "Gold Mine"
-msgstr "金矿"
-
-
-# scripts/entity/world/attached_location/gold_mine_location.nut
-msgid "A deep mine build atop a gold ore vein. This rare metal has a tendency to bring out the worst in people."
-msgstr "建在金矿矿脉上的深矿井。 这种稀有金属能把人最坏的一面暴露出来。"
-
-
-# scripts/entity/world/attached_location/blast_furnace_location.nut
-msgid "Blast Furnace"
-msgstr "鼓风炉"
-
-
-# scripts/entity/world/attached_location/blast_furnace_location.nut
-msgid "The blast furnace produces the blazing temperatures needed to make the most durable of metal alloys. Handy armorsmiths will use these alloys to create sturdy armor in the nearest settlement."
-msgstr "高炉产生使金属合金最耐用所需的炽热温度。 手巧的盔甲师将使用这些合金在最近的定居点制造坚固的盔甲。"
-
-
-# scripts/entity/world/attached_location/leather_tanner_location.nut
-msgid "Leather Tanner"
-msgstr "皮革鞣革工"
-
-
-# scripts/entity/world/attached_location/leather_tanner_location.nut
-msgid "This leather tanner's workshop produces durable leather pieces from hides. The supply of this leather will increase the availability of light armor in the nearest settlement."
-msgstr "这家皮革制革厂用皮革生产耐用的皮革制品。这种皮革的供应将增加最近定居点轻型装甲的可用性。"
+# scripts/entity/world/attached_location/herbalists_grove_location.nut
+msgid "Herbalist's Grove"
+msgstr "药师小树林"
 
 
 # scripts/entity/world/attached_location/wooden_watchtower_location.nut
@@ -317,14 +175,181 @@ msgid "Wooden Watchtower"
 msgstr "木制哨塔"
 
 
+# scripts/entity/world/attached_location/surface_iron_vein_location.nut
+msgid "Surface Iron Vein"
+msgstr "露天铁矿"
+
+
+# scripts/entity/world/attached_location/fletchers_hut_location.nut
+msgid "Arrow Maker's Shed"
+msgstr "箭匠棚"
+
+
+# scripts/entity/world/attached_location/guarded_checkpoint_location.nut
+msgid "Guarded Checkpoint"
+msgstr "警戒检查站"
+
+
+# scripts/entity/world/attached_location/surface_copper_vein_location.nut
+msgid "Surface Copper Vein"
+msgstr "露天铜矿"
+
+
+# scripts/entity/world/attached_location/guarded_checkpoint_location.nut
+msgid "A road checkpoint manned by professional soldiers."
+msgstr "由专业士兵管理的道路检查站。"
+
+
+# scripts/entity/world/attached_location/fortified_outpost_location.nut
+msgid "Large barracks housing a host of professional soldiers."
+msgstr "容纳大量专业士兵的大型兵营。"
+
+
 # scripts/entity/world/attached_location/wooden_watchtower_location.nut
 msgid "A wooden watchtower with a small garrison on watch duty."
 msgstr "一个木制的哨塔，有一个小守备部队。"
 
 
-# scripts/entity/world/attached_location/beekeeper_location.nut
-msgid "Beekeeper"
-msgstr "养蜂人"
+# scripts/entity/world/attached_location/stone_watchtower_location.nut
+# scripts/entity/world/attached_location/stone_watchtower_oriental_location.nut
+msgid "A stone watchtower occupied by well trained soldiers on guard duty."
+msgstr "由训练有素的警卫士兵占领的石头岗楼。"
+
+
+# scripts/entity/world/attached_location/harbor_location.nut
+msgid "A harbor that serves both foreign trading ships and local fishermen."
+msgstr "为对外贸易船和当地渔民服务的港口。"
+
+
+# scripts/entity/world/attached_location/brewery_location.nut
+msgid "This brewery produces large quantities of beer for both local taverns and traders."
+msgstr "这家酿酒厂为当地酒馆和商人生产大量的啤酒。"
+
+
+# scripts/entity/world/attached_location/amber_collector_location.nut
+msgid "The collectors living in these huts search for valuable amber shards along the shore."
+msgstr "住在这些小屋里的收藏家沿着海岸寻找珍贵的琥珀碎片。"
+
+
+# scripts/entity/world/attached_location/peat_pit_location.nut
+msgid "These peat pits produce a valuable fuel source once the peat has been dug up and dried."
+msgstr "一旦泥炭被挖出来并干燥，这些泥炭坑就产生了宝贵的燃料来源。"
+
+
+# scripts/entity/world/attached_location/silk_farm_location.nut
+msgid "In these huts the precious silk is spun from cocoons of small insects by secret methods."
+msgstr "在这些小屋里小虫子的茧被一种秘密的方式抽出丝绸。"
+
+
+# scripts/entity/world/attached_location/herbalists_grove_location.nut
+msgid "In this remote grove the knowing herbalist collects all kinds of medicinal plants and roots."
+msgstr "在这片偏僻的小树林里，会心的药师收集各种药用植物和根。"
+
+
+# scripts/entity/world/attached_location/incense_dryer_location.nut
+msgid "Tree sap is gathered from the surrounding trees and dried in the sun to create valuable incense."
+msgstr "树汁被从周围的树上收集起来放到阳光下暴晒来产出值钱的熏香。"
+
+
+# scripts/entity/world/attached_location/salt_mine_location.nut
+msgid "A mine in which precious rock salt is extracted and shipped off to only the most trustworthy traders."
+msgstr "一种只有最值得信赖的商人才能开采和运输贵重岩盐的矿山。"
+
+
+# scripts/entity/world/attached_location/surface_copper_vein_location.nut
+msgid "A mining camp has been set up to mine a surfaced copper vein and smelt the ore into ingots on the spot."
+msgstr "已经建立了一个采矿营地，开采表面的铜矿脉，并在现场将矿石熔炼铸锭。"
+
+
+# scripts/entity/world/attached_location/gold_mine_location.nut
+msgid "A deep mine build atop a gold ore vein. This rare metal has a tendency to bring out the worst in people."
+msgstr "建在金矿矿脉上的深矿井。 这种稀有金属能把人最坏的一面暴露出来。"
+
+
+# scripts/entity/world/attached_location/trapper_location.nut
+msgid "Small huts provide shelter for the trappers living here and setting traps for animals with valuable furs."
+msgstr "小茅屋为住在这里的猎人提供了庇护所，在这里制作陷阱为了获取有价值的动物毛皮。"
+
+
+# scripts/entity/world/attached_location/goat_herd_location.nut
+msgid "The goats held here are mainly used for their milk which is then turned into cheese to make it more durable."
+msgstr "这里饲养的山羊主要用来产奶，然后再把奶变成奶酪，使之更耐用。"
+
+
+# scripts/entity/world/attached_location/mushroom_grove_location.nut
+msgid "Hidden in the mud and reed, the expert gatherer can find groves and caves full of precious mushrooms like these."
+msgstr "在泥泞和芦苇中，专家采集者可以找到像这样充满珍贵蘑菇的小树林和洞穴。"
+
+
+# scripts/entity/world/attached_location/winery_location.nut
+msgid "This winery is surrounded by a large vineyard. The wine produced here is a priced commodity in wealthier circles."
+msgstr "这个酒厂周围有一个大葡萄园。这里生产的葡萄酒是富裕阶层中的一种定价商品。"
+
+
+# scripts/entity/world/attached_location/workshop_location.nut
+msgid "The workshop is proficient in making all kinds of tools and other supplies needed to keep carts and machines working."
+msgstr "该工坊精通于制造货车和机器工作所需的各种工具和其他用品。"
+
+
+# scripts/entity/world/attached_location/orchard_location.nut
+msgid "Dense rows of trees with ripe fruit frame a small warehouse where everything is stored until offered on local markets."
+msgstr "成行茂密的树上挂满了成熟的水果，这是一个小仓库，所有的东西都存放在那里，直到在当地市场上出售。"
+
+
+# scripts/entity/world/attached_location/fletchers_hut_location.nut
+msgid "The arrow makers in these sheds produce all kinds of ranged ammunition which they then sell at the nearest settlement."
+msgstr "这些工棚里的制箭工人生产各种远程弹药，然后在最近的定居点出售。"
+
+
+# scripts/entity/world/attached_location/plantation_location.nut
+msgid "All kinds of wonderous spices and herbs are cultivated in this plantation. A small and rare fruitful spot in the barren desert."
+msgstr "这个种植园种植各种各样的香料和草药。 荒漠中的一个小而罕见的丰收之地。"
+
+
+# scripts/entity/world/attached_location/dye_maker_location.nut
+msgid "This dye maker creates precious dies from all kinds of ingredients. The recipes for these expensive goods are well-kept secrets."
+msgstr "这个染料制造者用各种原料制造出珍贵的模具。 这些昂贵商品的配方是保密的。"
+
+
+# scripts/entity/world/attached_location/lumber_camp_location.nut
+msgid "This lumber camp is used as a base for lumberjacks on the search for the most precious and durable materials in the nearby woods."
+msgstr "这个木材营地被用作伐木工寻找附近树林中最珍贵和耐用材料的基地。"
+
+
+# scripts/entity/world/attached_location/ore_smelters_location.nut
+msgid "The burning hot ore smelters produce high quality metal ingots used by able weapon smiths to create the most sophisticated of arms."
+msgstr "灼热的矿石冶炼厂生产高质量的金属锭，由能干的武器匠用来制造最精密的武器。"
+
+
+# scripts/entity/world/attached_location/gem_mine_location.nut
+msgid "The shiny gems found in this mine are usually brought directly to the next settlement in well-guarded caravans for further refinement."
+msgstr "在这个矿山中发现的闪亮的宝石通常直接运到保护良好的大篷车中的下一个定居点进行进一步的提炼。"
+
+
+# scripts/entity/world/attached_location/hunters_cabin_location.nut
+msgid "Hunters take shelter in these small huts while on the hunt. Chopped up game, venison and hides hung up to dry in the sun surround the huts."
+msgstr "狩猎时，猎人们住在这些小屋里。切碎的野味、鹿肉和兽皮悬挂起来晒在小屋周围。"
+
+
+# scripts/entity/world/attached_location/wheat_fields_location.nut
+msgid "Golden wheat can be seen glistening in the sun from afar. Many people from the nearby settlement work here, farmhands and daytalers mostly."
+msgstr "金色的麦子在远处的阳光下闪闪发光。许多人从附近的定居点来这里工作，大多是农夫和临时工。"
+
+
+# scripts/entity/world/attached_location/wool_spinner_location.nut
+msgid "The wool of the sheep herded here is spun into wool and then shipped to the next settlement. Refined wares like these can be quite valuable."
+msgstr "在这里放牧的羊的毛被纺成羊毛，然后运到下一个定居点。像这样精致的商品很有价值。"
+
+
+# scripts/entity/world/attached_location/fishing_huts_location.nut
+msgid "A small group of huts surrounded by nets, spears, hooks and other fishing equipment. The smell from baskets of fish guts travels quite a distance."
+msgstr "由网、矛、钩和其他捕鱼装备包围的一小群棚屋。篮子里的鱼肠子气味传得很远。"
+
+
+# scripts/entity/world/attached_location/militia_trainingcamp_oriental_location.nut
+# scripts/entity/world/attached_location/militia_trainingcamp_location.nut
+msgid "A large compound of militia barracks. This camp will turn ordinary peasants into somewhat able soldiers that can defend their home and their loved ones."
+msgstr "一个由民兵兵营组成的大院。这个营地将把普通农民变成有能力保卫家园和亲人的士兵。"
 
 
 # scripts/entity/world/attached_location/beekeeper_location.nut
@@ -333,52 +358,27 @@ msgstr "在蜂群的包围下，这些小屋是养蜂人的家。 他们生产�
 
 
 # scripts/entity/world/attached_location/gatherers_hut_location.nut
-msgid "Gatherer's Hut"
-msgstr "采集者的小屋"
-
-
-# scripts/entity/world/attached_location/gatherers_hut_location.nut
 msgid "Even in sparse environments an experienced gatherer can find berries, roots and other edible things. Although not the most delicious, it can still keep a man fed."
 msgstr "即使在稀疏的环境中，经验丰富的采集者也能找到浆果、树根和其他可食用的东西。虽然不是最美味的，但它仍然可以喂饱一个人。"
 
 
-# scripts/entity/world/attached_location/wool_spinner_location.nut
-msgid "Wool Spinner"
-msgstr "羊毛纺纱"
+# scripts/entity/world/attached_location/pig_farm_location.nut
+msgid "The smell of this pig farm is just as distinct as the squeeking sounds coming from the muddy pits. The pork chops produced here are usually sold in the nearby settlement."
+msgstr "这个养猪场的气味和泥坑里发出的吱吱声一样明显。这里生产的猪排通常在附近的定居点出售。"
 
 
-# scripts/entity/world/attached_location/wool_spinner_location.nut
-msgid "The wool of the sheep herded here is spun into wool and then shipped to the next settlement. Refined wares like these can be quite valuable."
-msgstr "在这里放牧的羊的毛被纺成羊毛，然后运到下一个定居点。像这样精致的商品很有价值。"
-
-
-# scripts/entity/world/attached_location/peat_pit_location.nut
-msgid "Peat Pit"
-msgstr "泥炭坑"
-
-
-# scripts/entity/world/attached_location/peat_pit_location.nut
-msgid "These peat pits produce a valuable fuel source once the peat has been dug up and dried."
-msgstr "一旦泥炭被挖出来并干燥，这些泥炭坑就产生了宝贵的燃料来源。"
-
-
-# scripts/entity/world/attached_location/wheat_fields_location.nut
-msgid "Wheat Fields"
-msgstr "麦田"
-
-
-# scripts/entity/world/attached_location/wheat_fields_location.nut
-msgid "Golden wheat can be seen glistening in the sun from afar. Many people from the nearby settlement work here, farmhands and daytalers mostly."
-msgstr "金色的麦子在远处的阳光下闪闪发光。许多人从附近的定居点来这里工作，大多是农夫和临时工。"
-
-
-# scripts/entity/world/attached_location/surface_iron_vein_location.nut
-msgid "Surface Iron Vein"
-msgstr "露天铁矿"
+# scripts/entity/world/attached_location/leather_tanner_location.nut
+msgid "This leather tanner's workshop produces durable leather pieces from hides. The supply of this leather will increase the availability of light armor in the nearest settlement."
+msgstr "这家皮革制革厂用皮革生产耐用的皮革制品。这种皮革的供应将增加最近定居点轻型装甲的可用性。"
 
 
 # scripts/entity/world/attached_location/surface_iron_vein_location.nut
 msgid "This surfaced iron vein attracted a small mining camp that is gathering the precious metal. Access to this resource increases the selection of weapons available in the next settlement."
 msgstr "在这条露天的铁矿脉吸下，在这里建立了一个收集贵金属的小型采矿营地。获得这一资源将增加下一个定居点中可用武器的选择。"
+
+
+# scripts/entity/world/attached_location/blast_furnace_location.nut
+msgid "The blast furnace produces the blazing temperatures needed to make the most durable of metal alloys. Handy armorsmiths will use these alloys to create sturdy armor in the nearest settlement."
+msgstr "高炉产生使金属合金最耐用所需的炽热温度。 手巧的盔甲师将使用这些合金在最近的定居点制造坚固的盔甲。"
 
 

@@ -1,21 +1,21 @@
-# scripts/items/trade/amber_shards_item.nut
-msgid "Amber Shards"
-msgstr "琥珀碎片"
+# scripts/items/trade/salt_item.nut
+msgid "Salt"
+msgstr "矿盐"
 
 
-# scripts/items/trade/amber_shards_item.nut
-msgid "Amber shards that are used mostly for necklaces and rings. Traders will pay good coin for this."
-msgstr "琥珀毛料主要用于制作项链和戒指。 商人会为此付个好价钱。"
+# scripts/items/trade/silk_item.nut
+msgid "Silk"
+msgstr "丝绸"
 
 
-# scripts/items/trade/incense_item.nut
-msgid "Incense"
-msgstr "熏香"
+# scripts/items/trade/furs_item.nut
+msgid "Furs"
+msgstr "毛皮"
 
 
-# scripts/items/trade/incense_item.nut
-msgid "These dried tree sap pieces create a thick smoke filled with mysterious and exotic scents. Will fetch good prices especially in the north."
-msgstr "这些干燥的树液碎片制造出一股浓烟，充满神秘和异国的情调。 会卖个好价钱，尤其是在北方。"
+# scripts/items/trade/dies_item.nut
+msgid "Dyes"
+msgstr "染料"
 
 
 # scripts/items/trade/spices_item.nut
@@ -23,19 +23,14 @@ msgid "Spices"
 msgstr "香料"
 
 
-# scripts/items/trade/spices_item.nut
-msgid "Various flavorful and rare spices heeding from the southern realms. These ingredients are highly sought after in the north."
-msgstr "来自南方王国的各种美味和稀有香料。 这些配料在北方很受欢迎。"
+# scripts/items/trade/incense_item.nut
+msgid "Incense"
+msgstr "熏香"
 
 
-# scripts/items/trade/salt_item.nut
-msgid "Salt"
-msgstr "矿盐"
-
-
-# scripts/items/trade/salt_item.nut
-msgid "Rock salt used for cooking and curing food. Traders will pay good coin for this."
-msgstr "石盐用于烹饪和烘烤食品。 商人会为此付个好价钱。"
+# scripts/items/trade/uncut_gems_item.nut
+msgid "Uncut Gems"
+msgstr "未雕琢的宝石"
 
 
 # scripts/items/trade/cloth_rolls_item.nut
@@ -43,14 +38,44 @@ msgid "Cloth Rolls"
 msgstr "布卷"
 
 
+# scripts/items/trade/peat_bricks_item.nut
+msgid "Peat Bricks"
+msgstr "煤砖"
+
+
+# scripts/items/trade/amber_shards_item.nut
+msgid "Amber Shards"
+msgstr "琥珀碎片"
+
+
+# scripts/items/trade/quality_wood_item.nut
+msgid "Quality Wood"
+msgstr "优质木材"
+
+
+# scripts/items/trade/copper_ingots_item.nut
+msgid "Copper Ingots"
+msgstr "铜锭"
+
+
+# scripts/items/trade/trading_good_item.nut
+msgid "Bought for [img]gfx/ui/tooltips/money.png[/img]"
+msgstr "购买价格 [img]gfx/ui/tooltips/money.png[/img]"
+
+
 # scripts/items/trade/cloth_rolls_item.nut
 msgid "Cloth woven from sheep wool. Traders will pay good coin for this."
 msgstr "用羊毛纺织而成的布卷。 商人会为此付个好价钱。"
 
 
-# scripts/items/trade/peat_bricks_item.nut
-msgid "Peat Bricks"
-msgstr "煤砖"
+# scripts/items/trade/salt_item.nut
+msgid "Rock salt used for cooking and curing food. Traders will pay good coin for this."
+msgstr "石盐用于烹饪和烘烤食品。 商人会为此付个好价钱。"
+
+
+# scripts/items/trade/uncut_gems_item.nut
+msgid "Rough gemstones waiting to be cut and polished. Traders will pay good coin for this."
+msgstr "粗糙的宝石等着被切割和打磨。 商人会为此付个好价钱。"
 
 
 # scripts/items/trade/peat_bricks_item.nut
@@ -59,53 +84,13 @@ msgstr "由煤炭制成的砖，通常用作燃料。 商人会为此付个好�
 
 
 # scripts/items/trade/quality_wood_item.nut
-msgid "Quality Wood"
-msgstr "优质木材"
-
-
-# scripts/items/trade/quality_wood_item.nut
 msgid "High quality wood with no knotholes or other flaws. Traders will pay good coin for this."
 msgstr "没有任何节孔的高质量木料。 商人会为此付个好价钱。"
 
 
-# scripts/items/trade/trading_good_item.nut
-msgid "Bought for [img]gfx/ui/tooltips/money.png[/img]"
-msgstr "购买价格 [img]gfx/ui/tooltips/money.png[/img]"
-
-
-# scripts/items/trade/copper_ingots_item.nut
-msgid "Copper Ingots"
-msgstr "铜锭"
-
-
-# scripts/items/trade/copper_ingots_item.nut
-msgid "Copper smolten and cast into ingots for easy transportation. Traders will pay good coin for this."
-msgstr "铜矿冶炼而成的铜锭，便于运输。 商人会为此付个好价钱。"
-
-
-# scripts/items/trade/silk_item.nut
-msgid "Silk"
-msgstr "丝绸"
-
-
-# scripts/items/trade/silk_item.nut
-msgid "These smooth silk cloth pieces are very hard to come by. Only the most wealthy and noble can afford to get their garments tailored from it, and they fetch good prices especially in the north."
-msgstr "这些光滑的丝绸布料很难买到。 只有最富有和最高贵的人才买得起衣服，而且他们的价格很高，特别是在北方。"
-
-
-# scripts/items/trade/uncut_gems_item.nut
-msgid "Uncut Gems"
-msgstr "未雕琢的宝石"
-
-
-# scripts/items/trade/uncut_gems_item.nut
-msgid "Rough gemstones waiting to be cut and polished. Traders will pay good coin for this."
-msgstr "粗糙的宝石等着被切割和打磨。 商人会为此付个好价钱。"
-
-
-# scripts/items/trade/furs_item.nut
-msgid "Furs"
-msgstr "毛皮"
+# scripts/items/trade/dies_item.nut
+msgid "Valuable dyes made from various plants or minerals. Traders will pay good coin for this."
+msgstr "由各种植物或矿物制成的贵重染料。 商人会为此付个好价钱。"
 
 
 # scripts/items/trade/furs_item.nut
@@ -113,13 +98,28 @@ msgid "Warm furs from wild animals. Traders will pay good coin for this, especia
 msgstr "野生动物的保暖毛皮。 商人会为此付个好价钱，尤其是在南方。"
 
 
-# scripts/items/trade/dies_item.nut
-msgid "Dyes"
-msgstr "染料"
+# scripts/items/trade/amber_shards_item.nut
+msgid "Amber shards that are used mostly for necklaces and rings. Traders will pay good coin for this."
+msgstr "琥珀毛料主要用于制作项链和戒指。 商人会为此付个好价钱。"
 
 
-# scripts/items/trade/dies_item.nut
-msgid "Valuable dyes made from various plants or minerals. Traders will pay good coin for this."
-msgstr "由各种植物或矿物制成的贵重染料。 商人会为此付个好价钱。"
+# scripts/items/trade/copper_ingots_item.nut
+msgid "Copper smolten and cast into ingots for easy transportation. Traders will pay good coin for this."
+msgstr "铜矿冶炼而成的铜锭，便于运输。 商人会为此付个好价钱。"
+
+
+# scripts/items/trade/spices_item.nut
+msgid "Various flavorful and rare spices heeding from the southern realms. These ingredients are highly sought after in the north."
+msgstr "来自南方王国的各种美味和稀有香料。 这些配料在北方很受欢迎。"
+
+
+# scripts/items/trade/incense_item.nut
+msgid "These dried tree sap pieces create a thick smoke filled with mysterious and exotic scents. Will fetch good prices especially in the north."
+msgstr "这些干燥的树液碎片制造出一股浓烟，充满神秘和异国的情调。 会卖个好价钱，尤其是在北方。"
+
+
+# scripts/items/trade/silk_item.nut
+msgid "These smooth silk cloth pieces are very hard to come by. Only the most wealthy and noble can afford to get their garments tailored from it, and they fetch good prices especially in the north."
+msgstr "这些光滑的丝绸布料很难买到。 只有最富有和最高贵的人才买得起衣服，而且他们的价格很高，特别是在北方。"
 
 

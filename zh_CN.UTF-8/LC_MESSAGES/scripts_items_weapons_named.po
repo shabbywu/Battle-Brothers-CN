@@ -7,59 +7,12 @@
 # scripts/items/weapons/named/named_shamshir.nut
 # scripts/items/weapons/named/named_qatal_dagger.nut
 msgid "'s "
-msgstr ""
-
-
-# scripts/items/weapons/named/named_handgonne.nut
-# scripts/items/weapons/named/named_crossbow.nut
-msgid "]Must be reloaded before firing again[/color]"
-msgstr "]必须重新装填才能再次发射[/color]"
-
-
-# scripts/items/weapons/named/named_warscythe.nut
-# scripts/items/weapons/named/named_goblin_pike.nut
-# scripts/items/weapons/named/named_swordlance.nut
-# scripts/items/weapons/named/named_billhook.nut
-# scripts/items/weapons/named/named_pike.nut
-# scripts/items/weapons/named/named_bladed_pike.nut
-msgid "Polearm, Two-Handed"
-msgstr ""
-
-
-# scripts/items/weapons/named/named_spear.nut
-# scripts/items/weapons/named/named_goblin_spear.nut
-msgid "Spear, One-Handed"
-msgstr ""
-
-
-# scripts/items/weapons/named/named_qatal_dagger.nut
-# scripts/items/weapons/named/named_dagger.nut
-msgid "Dagger, One-Handed"
-msgstr ""
-
-
-# scripts/items/weapons/named/named_greatsword.nut
-# scripts/items/weapons/named/named_warbrand.nut
-msgid "Sword, Two-Handed"
-msgstr ""
-
-
-# scripts/items/weapons/named/named_goblin_falchion.nut
-# scripts/items/weapons/named/named_fencing_sword.nut
-# scripts/items/weapons/named/named_shamshir.nut
-# scripts/items/weapons/named/named_sword.nut
-msgid "Sword, One-Handed"
-msgstr ""
+msgstr "的"
 
 
 # scripts/items/weapons/named/named_orc_axe.nut
 # scripts/items/weapons/named/named_axe.nut
 msgid "Axe, One-Handed"
-msgstr ""
-
-
-# scripts/items/weapons/named/named_spetum.nut
-msgid "Spear, Two-Handed"
 msgstr ""
 
 
@@ -77,6 +30,60 @@ msgid "Axe, Two-Handed"
 msgstr ""
 
 
+# scripts/items/weapons/named/named_mace.nut
+msgid "Mace, One-Handed"
+msgstr ""
+
+
+# scripts/items/weapons/named/named_polemace.nut
+# scripts/items/weapons/named/named_two_handed_mace.nut
+# scripts/items/weapons/named/named_two_handed_spiked_mace.nut
+msgid "Mace, Two-Handed"
+msgstr ""
+
+
+# scripts/items/weapons/named/named_spear.nut
+# scripts/items/weapons/named/named_goblin_spear.nut
+msgid "Spear, One-Handed"
+msgstr ""
+
+
+# scripts/items/weapons/named/named_greatsword.nut
+# scripts/items/weapons/named/named_warbrand.nut
+msgid "Sword, Two-Handed"
+msgstr ""
+
+
+# scripts/items/weapons/named/named_goblin_falchion.nut
+# scripts/items/weapons/named/named_fencing_sword.nut
+# scripts/items/weapons/named/named_shamshir.nut
+# scripts/items/weapons/named/named_sword.nut
+msgid "Sword, One-Handed"
+msgstr ""
+
+
+# scripts/items/weapons/named/named_spetum.nut
+msgid "Spear, Two-Handed"
+msgstr ""
+
+
+# scripts/items/weapons/named/named_three_headed_flail.nut
+# scripts/items/weapons/named/named_flail.nut
+msgid "Flail, One-Handed"
+msgstr ""
+
+
+# scripts/items/weapons/named/named_two_handed_flail.nut
+msgid "Flail, Two-Handed"
+msgstr ""
+
+
+# scripts/items/weapons/named/named_qatal_dagger.nut
+# scripts/items/weapons/named/named_dagger.nut
+msgid "Dagger, One-Handed"
+msgstr ""
+
+
 # scripts/items/weapons/named/named_two_handed_hammer.nut
 # scripts/items/weapons/named/named_skullhammer.nut
 # scripts/items/weapons/named/named_polehammer.nut
@@ -89,9 +96,13 @@ msgid "Hammer, One-Handed"
 msgstr ""
 
 
-# scripts/items/weapons/named/named_javelin.nut
-# scripts/items/weapons/named/named_throwing_axe.nut
-msgid "Throwing Weapon, One-Handed"
+# scripts/items/weapons/named/named_warscythe.nut
+# scripts/items/weapons/named/named_goblin_pike.nut
+# scripts/items/weapons/named/named_swordlance.nut
+# scripts/items/weapons/named/named_billhook.nut
+# scripts/items/weapons/named/named_pike.nut
+# scripts/items/weapons/named/named_bladed_pike.nut
+msgid "Polearm, Two-Handed"
 msgstr ""
 
 
@@ -100,23 +111,6 @@ msgstr ""
 # scripts/items/weapons/named/named_orc_cleaver.nut
 # scripts/items/weapons/named/named_cleaver.nut
 msgid "Cleaver, One-Handed"
-msgstr ""
-
-
-# scripts/items/weapons/named/named_mace.nut
-msgid "Mace, One-Handed"
-msgstr ""
-
-
-# scripts/items/weapons/named/named_crossbow.nut
-msgid "Crossbow, Two-Handed"
-msgstr ""
-
-
-# scripts/items/weapons/named/named_polemace.nut
-# scripts/items/weapons/named/named_two_handed_mace.nut
-# scripts/items/weapons/named/named_two_handed_spiked_mace.nut
-msgid "Mace, Two-Handed"
 msgstr ""
 
 
@@ -132,20 +126,31 @@ msgid "Firearm, Two-Handed"
 msgstr ""
 
 
-# scripts/items/weapons/named/named_three_headed_flail.nut
-# scripts/items/weapons/named/named_flail.nut
-msgid "Flail, One-Handed"
+# scripts/items/weapons/named/named_crossbow.nut
+msgid "Crossbow, Two-Handed"
 msgstr ""
 
 
-# scripts/items/weapons/named/named_two_handed_flail.nut
-msgid "Flail, Two-Handed"
+# scripts/items/weapons/named/named_javelin.nut
+# scripts/items/weapons/named/named_throwing_axe.nut
+msgid "Throwing Weapon, One-Handed"
 msgstr ""
 
 
-# scripts/items/weapons/named/named_warscythe.nut
-msgid "A long pole attached to a sharp curved blade, used to deliver deep sweeping strikes over some distance. This exemplar is particularly well-crafted."
-msgstr "一种附有锋利弯曲的刀刃的长杆，用于在一定距离内进行深扫打击。 这件作品做工精良。"
+# scripts/items/weapons/named/named_handgonne.nut
+# scripts/items/weapons/named/named_crossbow.nut
+msgid "]Must be reloaded before firing again[/color]"
+msgstr "]必须重新装填才能再次发射[/color]"
+
+
+# scripts/items/weapons/named/named_warhammer.nut
+msgid "A well-crafted warhammer that easily batters through armor plates."
+msgstr "一把做工精良的战锤，能轻易地击穿盔甲。"
+
+
+# scripts/items/weapons/named/named_orc_axe.nut
+msgid "A heavy piece of metal with a sharp head. Not made for human hands."
+msgstr "一块沉重的金属上面有一个锋利的金属头。 不是为人的手做的。"
 
 
 # scripts/items/weapons/named/named_spear.nut
@@ -153,174 +158,14 @@ msgid "A masterfully crafted spear that feels surprisingly light, yet sturdy."
 msgstr "这是一支制作精良的矛，重量很轻，但很结实。"
 
 
-# scripts/items/weapons/named/named_two_handed_flail.nut
-msgid "This impressive two-handed flail has little left in common with the farming tool it originates from. It appears to have been designed by an experienced fighter and built by an extraordinarily skilled craftsman."
-msgstr "这种令人印象深刻的双手链枷与它的起源农具几乎没有什么共同之处。它似乎是由一位经验丰富的战士设计，然后通过技艺高超的工匠建造的。"
-
-
-# scripts/items/weapons/named/named_crypt_cleaver.nut
-msgid "A massive cleaver that can cut through flesh and armor alike. This piece is in good condition despite its old age."
-msgstr "一个巨大的切肉刀，可以切开肉和盔甲。 是一件状态良好的古器。"
-
-
-# scripts/items/weapons/named/named_goblin_pike.nut
-msgid "A goblin pike with its jagged tips can tear terrible, bleeding wounds. This piece is particularly well-crafted."
-msgstr "一条尖部参差不齐的哥布林尖刺会撕破流血的伤口。 这件物品做工精良。"
-
-
-# scripts/items/weapons/named/named_mace.nut
-msgid "A full-metal mace with a short shaft and attached blades. The smith who forged this weapon certainly knew what he was doing."
-msgstr "一种全金属的棒槌，上面附有锋刃。 锻造这种武器的铁匠当然知道他在做什么。"
-
-
-# scripts/items/weapons/named/named_khopesh.nut
-msgid "An elegant curved blade that is fitted on a richly ornated grip. Pieces like this have been lost for centuries and are said to date back to the height of the empire."
-msgstr "优雅的弧形刀刃，配以华丽的手柄。 像这样的刀片已经遗失了几个世纪，据说可以追溯到帝国的鼎盛时期。"
-
-
-# scripts/items/weapons/named/named_swordlance.nut
-msgid "A long pole attached to a sharp and finely balanced curved blade, used to deliver deep sweeping strikes over some distance."
-msgstr "一种附有锋利而平衡的弯曲刀刃的长杆，用于在一定距离内进行深扫打击。"
-
-
-# scripts/items/weapons/named/named_goblin_falchion.nut
-msgid "Fashioned from sharpened black rock, this cruel blade can tear wounds faster than the eye can see. A truly remarkable piece."
-msgstr "由锋利的黑色岩石制成，这种残忍的刀刃撕裂伤口的速度比眼睛看到的还快。 一件真正了不起的作品。"
-
-
-# scripts/items/weapons/named/named_heavy_rusty_axe.nut
-msgid "This heavy and ornated axe belonged to a valued member of a barbarian tribe. Its decorations and relatively high craftsmanship are a rare find among the wild warriors of the north."
-msgstr "这把又重又华丽的斧头属于一个野蛮部落的尊贵成员。 它的装饰和较高的工艺水平在北方的勇士中是罕见的。"
-
-
-# scripts/items/weapons/named/named_three_headed_flail.nut
-msgid "A very rare weapon built from valuable and strong materials. Despite its ceremonial look it makes for a terrifying tool of destruction."
-msgstr ""
-
-
-# scripts/items/weapons/named/named_polemace.nut
-msgid "A crude weapon like a polemace can also be crafted with passion, skill and attention to detail, as this exemplar showcases impressively."
-msgstr "一把粗糙的长棍，看起来就像是出于对技术的热爱制作出来令人难忘的展示品。"
-
-
-# scripts/items/weapons/named/named_rusty_warblade.nut
-msgid "This massive and exceptionally well-crafted warblade is covered with runes and decorations that are typical for the barbarian tribes of the north."
-msgstr "这把巨大且制作精良的战刀上覆盖着符文和装饰品，这是北方野蛮部落的典型特征。"
-
-
-# scripts/items/weapons/named/named_battle_whip.nut
-msgid "A whip is quite the peculiar weapon, but this piece has been crafted by a true master. It is more durable and balanced than any other you've seen."
-msgstr "鞭子是很奇特的武器，但这件作品是由一位真正的大师精心制作的。 它比你见过的任何一个更耐用、更平衡。"
-
-
-# scripts/items/weapons/named/named_billhook.nut
-msgid "A pike-like weapon with a blade for striking over some distance and a hook attached for pulling in targets. The smith who forged this weapon certainly knew what he was doing."
-msgstr "一种长杆武器，带有刀片可以在一定距离内击中目标并且有一个可以用来拉动目标的金属钩。 锻造这种武器的铁匠当然知道他在做什么。"
-
-
-# scripts/items/weapons/named/named_two_handed_scimitar.nut
-msgid "A very large scimitar wielded with both hands. The curved blade cleaves right through any enemy, and the blade is surprisingly well balanced for its size."
-msgstr "双手挥舞的非常大的弯刀。 弯曲的刀锋可以穿透任何敌人，而且刀锋的大小惊人的平衡。"
-
-
-# scripts/items/weapons/named/named_two_handed_hammer.nut
-msgid "A massive hammer that is surprisingly well-balanced, despite its huge weight. What it lacks in grace, it makes up for in raw force as it is used to shatter even heavily-armored enemy lines by knocking people away or to the ground."
-msgstr "这是一把巨锤,尽管它非常重，但是却出奇的平衡。 它缺乏优雅性，却充满了原始的破坏力量，因此它被用来粉碎重装甲敌人的防线。"
-
-
-# scripts/items/weapons/named/named_handgonne.nut
-msgid "An expertly-cast iron barrel with a long wooden handle. It fires shrapnel in a cone and can hit multiple targets with one shot. Can not be used while engaged in melee."
-msgstr "有长木柄的熟铁铸桶。 它发射锥形弹片，可以一次击中多个目标。 不能在近战中使用。"
-
-
-# scripts/items/weapons/named/named_fencing_sword.nut
-msgid "Crafting a proper fencing sword, both delicate and flexible, is no less difficult than wielding it. The smith that brought this particular weapon into existence must have been among the best in his trade."
-msgstr "制作一把既精致又柔韧的刺剑并不比挥舞它容易。 制造这把武器的铁匠一定是巅峰级的大师。"
-
-
-# scripts/items/weapons/named/named_orc_cleaver.nut
-msgid "A sharp and crude shard of metal with a wrapped grip resembling a sword but a lot heavier. Not made for human hands."
-msgstr "一种锋利而粗糙的金属碎片，有一个像剑一样的握把，但要重很多。 不是为人的手做的。"
-
-
-# scripts/items/weapons/named/named_warbow.nut
-msgid "Made from very strong yet flexible wood, this warbow has massive pulling power and is a rare piece of skilled craftsmanship."
-msgstr "这把战弓由非常坚固而又柔韧的木头制成，具有强大的拉力，是一件难得的技艺精湛的工艺品。"
-
-
-# scripts/items/weapons/named/named_skullhammer.nut
-msgid "This crude and heavy hammer is decorated with additional animals skulls as if not impressive enough already. Like a ram's head, it will crush its target."
-msgstr "这把粗糙而沉重的锤子上装饰着额外的动物头骨，似乎还不够令人印象深刻。 就像公羊的头一样，它会击碎目标。"
-
-
-# scripts/items/weapons/named/named_shamshir.nut
-msgid "A Shamshir already is an exquisite and exotic weapon in these parts, but this piece is of extraordinary quality. It will cut through flesh and bone just as easily as through a ripe melon."
-msgstr "在这里，一件塞施尔弯刀已经是一件精致而奇特的武器了，但这件作品的质量异常的好。 它会像切瓜一样轻易地切开肉和骨头。"
-
-
 # scripts/items/weapons/named/named_bardiche.nut
 msgid "This heavy bardiche made from a rare alloy is vastly superior to similar weapons."
 msgstr "这种由稀有合金制成的重型大砍刀比同类武器要优越得多。"
 
 
-# scripts/items/weapons/named/named_polehammer.nut
-msgid "A crude weapon like a polehammer can also be crafted with passion, skill and attention to detail, as this exemplar showcases impressively."
-msgstr ""
-
-
-# scripts/items/weapons/named/named_qatal_dagger.nut
-msgid "An exquisitely crafted curved blade, notoriously used by assassins of the southern deserts. Particularly effective against targets already debilitated."
-msgstr "一种制作精巧的弯曲的刀刃，众所周知地被南方沙漠的刺客使用。 对已经削弱的目标特别有效。"
-
-
-# scripts/items/weapons/named/named_greataxe.nut
-msgid "A long, two-handed axe designed for battle that bears down heavy with every swing and can easily cut a man in two."
-msgstr "一把沉重而长的双手战斧，每一次挥动都能造成沉重的打击，而且可以轻易地将人一分为二。"
-
-
-# scripts/items/weapons/named/named_two_handed_mace.nut
-msgid "A large two-handed mace born in the fiery smithy of a true master. Despite its massive head, the weapon is well-balanced and reasonably easy to handle for an experienced individual."
-msgstr "一把巨大的双手大棒，诞生于一个真正的大师级铁匠之手。尽管它有巨大的头部，但对于一个有经验的人来说，它的平衡性很好，而且相当容易操作。"
-
-
-# scripts/items/weapons/named/named_goblin_heavy_bow.nut
-msgid "Goblins know how to craft efficient and light bows. This piece, made from some unknown pale wood, has surprising pulling power despite its small size."
-msgstr "Goblins know how to craft efficient and light 鞠了一躬。 这件由一些不知名的白木制成，尽管体积小，但具有惊人的拉力。"
-
-
-# scripts/items/weapons/named/named_pike.nut
-msgid "A long pike used for thrusting over some distance and keeping the enemy at bay. This particular pike is skillfully crafted from flexible wood that may bend but never snap, and the metal tip consists of an alloy rarely seen in these parts of the world."
-msgstr "一种长枪，能在一定距离内攻击敌人，并使其处于不利位置。 这种特殊的矛由柔韧的木头巧妙制成，可以弯曲但从不会折断，而它的枪尖是由一种在世界各地都非常罕见的合金制成。"
-
-
-# scripts/items/weapons/named/named_crossbow.nut
-msgid "A pull-lever crossbow that can propel bolts over medium distances. Effective even in the hands of laymen, but requires almost a full turn to reload. Well balanced and with extraordinarily strong sinews, this weapon is truly the work of a master craftsman."
-msgstr "一种可以推动螺栓的中等距离拉杆式弩。 即使是在门外汉的手上也极为有效，但需要几乎整回合的时间来重新装载。 这种武器平衡性能很好，而且有着非常强韧的弓弦，这把十字弓绝对是武器大师的杰作。"
-
-
-# scripts/items/weapons/named/named_two_handed_spiked_mace.nut
-msgid "A heavy spiked mace crafted to resemble a human skull. Despite its crude appearance, this is a well balanced and deadly weapon."
-msgstr "一种制作得像人类头骨的带有尖刺的重棒。 尽管外表粗糙，但这是一种平衡良好的致命的武器。"
-
-
-# scripts/items/weapons/named/named_longaxe.nut
-msgid "A relatively thin blade on a very long shaft used for devastating cutting attacks over some distance, and to render shields unusable from behind the frontline. This longaxe must be the work of an extraordinary craftsman."
-msgstr "在一个很长的木柄上有一个相对较薄而锋利的刀片，能在一定距离内进行毁灭性的劈砍，并且可以攻击到前排防御者后面的目标。 这把长斧肯定出自大师级工匠之手。"
-
-
-# scripts/items/weapons/named/named_javelin.nut
-msgid "A couple of light throwing spears that are skillfully balanced to fly as straight as possible. Have limited range and are exhausting to throw, but may inflict devastating injuries."
-msgstr "一组轻投矛，能够飞的笔直并且巧妙地保持平衡。 射程有限，且十分消耗体力，但能造成毁灭性的伤害。"
-
-
-# scripts/items/weapons/named/named_throwing_axe.nut
-msgid "Small axes to be thrown in an overhand motion towards a target. These ones are especially well-balanced and hardy enough to inflict serious damage to armor and shields from range."
-msgstr "可以向目标投掷的小斧。 这些武器特别平衡，足够坚固，可以对远处的盔甲和盾牌造成严重伤害。"
-
-
-# scripts/items/weapons/named/named_warhammer.nut
-msgid "A well-crafted warhammer that easily batters through armor plates."
-msgstr "一把做工精良的战锤，能轻易地击穿盔甲。"
+# scripts/items/weapons/named/named_axe.nut
+msgid "A well-crafted and rare variant of an axe explicitly designed for fighting armored opponents."
+msgstr "这是一种精心设计的、罕见的、用于对抗装甲敌人的斧头。"
 
 
 # scripts/items/weapons/named/named_greatsword.nut
@@ -333,14 +178,34 @@ msgid "A masterfully crafted goblin spear. Accurate, fast and deadly in the hand
 msgstr "精心制作的哥布林长矛。 准确、快速、致命地掌握在任何熟练的战士手中。"
 
 
-# scripts/items/weapons/named/named_cleaver.nut
-msgid "A masterful smith managed to create this military cleaver in a way that it handles almost like a regular sword but loses nothing of its devastating power."
-msgstr "一名大师级锻造师成功地制造出了这种用于战争的砍刀，在某种程度上它就像一把普通的剑，但却没有失去它毁灭性的力量。"
+# scripts/items/weapons/named/named_spetum.nut
+msgid "This Spetum is especially well-crafted, and its three tips have been honed into perfectly pointy spikes."
+msgstr "这是一把精心制作的长戟，它的三个尖端已经被打磨成完美的尖刺。"
 
 
-# scripts/items/weapons/named/named_warbrand.nut
-msgid "A masterfully crafted and somewhat uncommon variant of the sword with a long and thin blade, sharpened only on one side, and no crossguard. Can be used both for quick slashes and sweeping strikes."
-msgstr "这是一把精心制作的，有点不寻常的剑刃，长而薄的锋刃，只在一侧磨尖，没有十字型护手。 既可用于快速切割，也可用于横扫打击。"
+# scripts/items/weapons/named/named_sword.nut
+msgid "A well-balanced long sword with a double-edged blade. A weapon crafted as well as this one is hard to find."
+msgstr "一把平衡性良好的双锋利刃。 像这样精心制作的武器很难找到。"
+
+
+# scripts/items/weapons/named/named_goblin_pike.nut
+msgid "A goblin pike with its jagged tips can tear terrible, bleeding wounds. This piece is particularly well-crafted."
+msgstr "一条尖部参差不齐的哥布林尖刺会撕破流血的伤口。 这件物品做工精良。"
+
+
+# scripts/items/weapons/named/named_crypt_cleaver.nut
+msgid "A massive cleaver that can cut through flesh and armor alike. This piece is in good condition despite its old age."
+msgstr "一个巨大的切肉刀，可以切开肉和盔甲。 是一件状态良好的古器。"
+
+
+# scripts/items/weapons/named/named_greataxe.nut
+msgid "A long, two-handed axe designed for battle that bears down heavy with every swing and can easily cut a man in two."
+msgstr "一把沉重而长的双手战斧，每一次挥动都能造成沉重的打击，而且可以轻易地将人一分为二。"
+
+
+# scripts/items/weapons/named/named_orc_cleaver.nut
+msgid "A sharp and crude shard of metal with a wrapped grip resembling a sword but a lot heavier. Not made for human hands."
+msgstr "一种锋利而粗糙的金属碎片，有一个像剑一样的握把，但要重很多。 不是为人的手做的。"
 
 
 # scripts/items/weapons/named/named_dagger.nut
@@ -348,14 +213,39 @@ msgid "A short and hardened dagger, masterfully crafted with a pointed blade for
 msgstr "一把短而坚硬的匕首，它锋利的匕刃可以用来刺穿盔甲上的弱点。"
 
 
-# scripts/items/weapons/named/named_spetum.nut
-msgid "This Spetum is especially well-crafted, and its three tips have been honed into perfectly pointy spikes."
-msgstr "这是一把精心制作的长戟，它的三个尖端已经被打磨成完美的尖刺。"
+# scripts/items/weapons/named/named_swordlance.nut
+msgid "A long pole attached to a sharp and finely balanced curved blade, used to deliver deep sweeping strikes over some distance."
+msgstr "一种附有锋利而平衡的弯曲刀刃的长杆，用于在一定距离内进行深扫打击。"
 
 
-# scripts/items/weapons/named/named_orc_axe.nut
-msgid "A heavy piece of metal with a sharp head. Not made for human hands."
-msgstr "一块沉重的金属上面有一个锋利的金属头。 不是为人的手做的。"
+# scripts/items/weapons/named/named_mace.nut
+msgid "A full-metal mace with a short shaft and attached blades. The smith who forged this weapon certainly knew what he was doing."
+msgstr "一种全金属的棒槌，上面附有锋刃。 锻造这种武器的铁匠当然知道他在做什么。"
+
+
+# scripts/items/weapons/named/named_goblin_falchion.nut
+msgid "Fashioned from sharpened black rock, this cruel blade can tear wounds faster than the eye can see. A truly remarkable piece."
+msgstr "由锋利的黑色岩石制成，这种残忍的刀刃撕裂伤口的速度比眼睛看到的还快。 一件真正了不起的作品。"
+
+
+# scripts/items/weapons/named/named_warbow.nut
+msgid "Made from very strong yet flexible wood, this warbow has massive pulling power and is a rare piece of skilled craftsmanship."
+msgstr "这把战弓由非常坚固而又柔韧的木头制成，具有强大的拉力，是一件难得的技艺精湛的工艺品。"
+
+
+# scripts/items/weapons/named/named_two_handed_spiked_mace.nut
+msgid "A heavy spiked mace crafted to resemble a human skull. Despite its crude appearance, this is a well balanced and deadly weapon."
+msgstr "一种制作得像人类头骨的带有尖刺的重棒。 尽管外表粗糙，但这是一种平衡良好的致命的武器。"
+
+
+# scripts/items/weapons/named/named_three_headed_flail.nut
+msgid "A very rare weapon built from valuable and strong materials. Despite its ceremonial look it makes for a terrifying tool of destruction."
+msgstr ""
+
+
+# scripts/items/weapons/named/named_polemace.nut
+msgid "A crude weapon like a polemace can also be crafted with passion, skill and attention to detail, as this exemplar showcases impressively."
+msgstr "一把粗糙的长棍，看起来就像是出于对技术的热爱制作出来令人难忘的展示品。"
 
 
 # scripts/items/weapons/named/named_bladed_pike.nut
@@ -363,18 +253,128 @@ msgid "This pike with a swerved blade hails from the legions of the ancient empi
 msgstr "这条弯刀长矛来自古代帝国的军团。 很少有武器能像这件一样保存下来。"
 
 
+# scripts/items/weapons/named/named_polehammer.nut
+msgid "A crude weapon like a polehammer can also be crafted with passion, skill and attention to detail, as this exemplar showcases impressively."
+msgstr ""
+
+
+# scripts/items/weapons/named/named_rusty_warblade.nut
+msgid "This massive and exceptionally well-crafted warblade is covered with runes and decorations that are typical for the barbarian tribes of the north."
+msgstr "这把巨大且制作精良的战刀上覆盖着符文和装饰品，这是北方野蛮部落的典型特征。"
+
+
+# scripts/items/weapons/named/named_battle_whip.nut
+msgid "A whip is quite the peculiar weapon, but this piece has been crafted by a true master. It is more durable and balanced than any other you've seen."
+msgstr "鞭子是很奇特的武器，但这件作品是由一位真正的大师精心制作的。 它比你见过的任何一个更耐用、更平衡。"
+
+
+# scripts/items/weapons/named/named_warscythe.nut
+msgid "A long pole attached to a sharp curved blade, used to deliver deep sweeping strikes over some distance. This exemplar is particularly well-crafted."
+msgstr "一种附有锋利弯曲的刀刃的长杆，用于在一定距离内进行深扫打击。 这件作品做工精良。"
+
+
+# scripts/items/weapons/named/named_goblin_heavy_bow.nut
+msgid "Goblins know how to craft efficient and light bows. This piece, made from some unknown pale wood, has surprising pulling power despite its small size."
+msgstr "Goblins know how to craft efficient and light 鞠了一躬。 这件由一些不知名的白木制成，尽管体积小，但具有惊人的拉力。"
+
+
+# scripts/items/weapons/named/named_qatal_dagger.nut
+msgid "An exquisitely crafted curved blade, notoriously used by assassins of the southern deserts. Particularly effective against targets already debilitated."
+msgstr "一种制作精巧的弯曲的刀刃，众所周知地被南方沙漠的刺客使用。 对已经削弱的目标特别有效。"
+
+
+# scripts/items/weapons/named/named_skullhammer.nut
+msgid "This crude and heavy hammer is decorated with additional animals skulls as if not impressive enough already. Like a ram's head, it will crush its target."
+msgstr "这把粗糙而沉重的锤子上装饰着额外的动物头骨，似乎还不够令人印象深刻。 就像公羊的头一样，它会击碎目标。"
+
+
+# scripts/items/weapons/named/named_two_handed_scimitar.nut
+msgid "A very large scimitar wielded with both hands. The curved blade cleaves right through any enemy, and the blade is surprisingly well balanced for its size."
+msgstr "双手挥舞的非常大的弯刀。 弯曲的刀锋可以穿透任何敌人，而且刀锋的大小惊人的平衡。"
+
+
+# scripts/items/weapons/named/named_cleaver.nut
+msgid "A masterful smith managed to create this military cleaver in a way that it handles almost like a regular sword but loses nothing of its devastating power."
+msgstr "一名大师级锻造师成功地制造出了这种用于战争的砍刀，在某种程度上它就像一把普通的剑，但却没有失去它毁灭性的力量。"
+
+
+# scripts/items/weapons/named/named_khopesh.nut
+msgid "An elegant curved blade that is fitted on a richly ornated grip. Pieces like this have been lost for centuries and are said to date back to the height of the empire."
+msgstr "优雅的弧形刀刃，配以华丽的手柄。 像这样的刀片已经遗失了几个世纪，据说可以追溯到帝国的鼎盛时期。"
+
+
+# scripts/items/weapons/named/named_handgonne.nut
+msgid "An expertly-cast iron barrel with a long wooden handle. It fires shrapnel in a cone and can hit multiple targets with one shot. Can not be used while engaged in melee."
+msgstr "有长木柄的熟铁铸桶。 它发射锥形弹片，可以一次击中多个目标。 不能在近战中使用。"
+
+
+# scripts/items/weapons/named/named_billhook.nut
+msgid "A pike-like weapon with a blade for striking over some distance and a hook attached for pulling in targets. The smith who forged this weapon certainly knew what he was doing."
+msgstr "一种长杆武器，带有刀片可以在一定距离内击中目标并且有一个可以用来拉动目标的金属钩。 锻造这种武器的铁匠当然知道他在做什么。"
+
+
+# scripts/items/weapons/named/named_throwing_axe.nut
+msgid "Small axes to be thrown in an overhand motion towards a target. These ones are especially well-balanced and hardy enough to inflict serious damage to armor and shields from range."
+msgstr "可以向目标投掷的小斧。 这些武器特别平衡，足够坚固，可以对远处的盔甲和盾牌造成严重伤害。"
+
+
+# scripts/items/weapons/named/named_heavy_rusty_axe.nut
+msgid "This heavy and ornated axe belonged to a valued member of a barbarian tribe. Its decorations and relatively high craftsmanship are a rare find among the wild warriors of the north."
+msgstr "这把又重又华丽的斧头属于一个野蛮部落的尊贵成员。 它的装饰和较高的工艺水平在北方的勇士中是罕见的。"
+
+
+# scripts/items/weapons/named/named_javelin.nut
+msgid "A couple of light throwing spears that are skillfully balanced to fly as straight as possible. Have limited range and are exhausting to throw, but may inflict devastating injuries."
+msgstr "一组轻投矛，能够飞的笔直并且巧妙地保持平衡。 射程有限，且十分消耗体力，但能造成毁灭性的伤害。"
+
+
+# scripts/items/weapons/named/named_two_handed_mace.nut
+msgid "A large two-handed mace born in the fiery smithy of a true master. Despite its massive head, the weapon is well-balanced and reasonably easy to handle for an experienced individual."
+msgstr "一把巨大的双手大棒，诞生于一个真正的大师级铁匠之手。尽管它有巨大的头部，但对于一个有经验的人来说，它的平衡性很好，而且相当容易操作。"
+
+
+# scripts/items/weapons/named/named_shamshir.nut
+msgid "A Shamshir already is an exquisite and exotic weapon in these parts, but this piece is of extraordinary quality. It will cut through flesh and bone just as easily as through a ripe melon."
+msgstr "在这里，一件塞施尔弯刀已经是一件精致而奇特的武器了，但这件作品的质量异常的好。 它会像切瓜一样轻易地切开肉和骨头。"
+
+
+# scripts/items/weapons/named/named_warbrand.nut
+msgid "A masterfully crafted and somewhat uncommon variant of the sword with a long and thin blade, sharpened only on one side, and no crossguard. Can be used both for quick slashes and sweeping strikes."
+msgstr "这是一把精心制作的，有点不寻常的剑刃，长而薄的锋刃，只在一侧磨尖，没有十字型护手。 既可用于快速切割，也可用于横扫打击。"
+
+
+# scripts/items/weapons/named/named_fencing_sword.nut
+msgid "Crafting a proper fencing sword, both delicate and flexible, is no less difficult than wielding it. The smith that brought this particular weapon into existence must have been among the best in his trade."
+msgstr "制作一把既精致又柔韧的刺剑并不比挥舞它容易。 制造这把武器的铁匠一定是巅峰级的大师。"
+
+
+# scripts/items/weapons/named/named_two_handed_flail.nut
+msgid "This impressive two-handed flail has little left in common with the farming tool it originates from. It appears to have been designed by an experienced fighter and built by an extraordinarily skilled craftsman."
+msgstr "这种令人印象深刻的双手链枷与它的起源农具几乎没有什么共同之处。它似乎是由一位经验丰富的战士设计，然后通过技艺高超的工匠建造的。"
+
+
+# scripts/items/weapons/named/named_longaxe.nut
+msgid "A relatively thin blade on a very long shaft used for devastating cutting attacks over some distance, and to render shields unusable from behind the frontline. This longaxe must be the work of an extraordinary craftsman."
+msgstr "在一个很长的木柄上有一个相对较薄而锋利的刀片，能在一定距离内进行毁灭性的劈砍，并且可以攻击到前排防御者后面的目标。 这把长斧肯定出自大师级工匠之手。"
+
+
 # scripts/items/weapons/named/named_flail.nut
 msgid "A separate striking head attached to a handle by a chain. A rather unpredictable weapon, but useful to strike over or around shield cover. This particular flail seems even more terrifying due to its unique characteristics."
 msgstr "用铁链把一个充满尖刺的金属头固定在把手上。 这是一把难以估计的武器，可以有效的绕过盾牌直接打击对手。 由于其独特的构造，这种特殊的链枷更加可怕。"
 
 
-# scripts/items/weapons/named/named_axe.nut
-msgid "A well-crafted and rare variant of an axe explicitly designed for fighting armored opponents."
-msgstr "这是一种精心设计的、罕见的、用于对抗装甲敌人的斧头。"
+# scripts/items/weapons/named/named_two_handed_hammer.nut
+msgid "A massive hammer that is surprisingly well-balanced, despite its huge weight. What it lacks in grace, it makes up for in raw force as it is used to shatter even heavily-armored enemy lines by knocking people away or to the ground."
+msgstr "这是一把巨锤,尽管它非常重，但是却出奇的平衡。 它缺乏优雅性，却充满了原始的破坏力量，因此它被用来粉碎重装甲敌人的防线。"
 
 
-# scripts/items/weapons/named/named_sword.nut
-msgid "A well-balanced long sword with a double-edged blade. A weapon crafted as well as this one is hard to find."
-msgstr "一把平衡性良好的双锋利刃。 像这样精心制作的武器很难找到。"
+# scripts/items/weapons/named/named_pike.nut
+msgid "A long pike used for thrusting over some distance and keeping the enemy at bay. This particular pike is skillfully crafted from flexible wood that may bend but never snap, and the metal tip consists of an alloy rarely seen in these parts of the world."
+msgstr "一种长枪，能在一定距离内攻击敌人，并使其处于不利位置。 这种特殊的矛由柔韧的木头巧妙制成，可以弯曲但从不会折断，而它的枪尖是由一种在世界各地都非常罕见的合金制成。"
+
+
+# scripts/items/weapons/named/named_crossbow.nut
+msgid "A pull-lever crossbow that can propel bolts over medium distances. Effective even in the hands of laymen, but requires almost a full turn to reload. Well balanced and with extraordinarily strong sinews, this weapon is truly the work of a master craftsman."
+msgstr "一种可以推动螺栓的中等距离拉杆式弩。 即使是在门外汉的手上也极为有效，但需要几乎整回合的时间来重新装载。 这种武器平衡性能很好，而且有着非常强韧的弓弦，这把十字弓绝对是武器大师的杰作。"
 
 

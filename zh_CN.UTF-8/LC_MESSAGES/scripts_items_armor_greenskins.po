@@ -1,22 +1,6 @@
-# scripts/items/armor/greenskins/orc_warrior_medium_armor.nut
-msgid "Looted Reinforced Mail"
-msgstr "强化掠夺者链甲"
-
-
 # scripts/items/armor/greenskins/orc_berserker_medium_armor.nut
 msgid "Bone Armor"
 msgstr "骨甲"
-
-
-# scripts/items/armor/greenskins/goblin_heavy_armor.nut
-# scripts/items/armor/greenskins/orc_warlord_armor.nut
-msgid "Heavy Armor"
-msgstr "重甲"
-
-
-# scripts/items/armor/greenskins/goblin_shaman_armor.nut
-msgid "Ritual Armor"
-msgstr "仪式盔甲"
 
 
 # scripts/items/armor/greenskins/orc_young_very_light_armor.nut
@@ -26,9 +10,10 @@ msgid "Hide Armor"
 msgstr "皮铠"
 
 
-# scripts/items/armor/greenskins/goblin_skirmisher_armor.nut
-msgid "Skirmisher Armor"
-msgstr "散兵护甲"
+# scripts/items/armor/greenskins/goblin_heavy_armor.nut
+# scripts/items/armor/greenskins/orc_warlord_armor.nut
+msgid "Heavy Armor"
+msgstr "重甲"
 
 
 # scripts/items/armor/greenskins/goblin_light_armor.nut
@@ -36,9 +21,9 @@ msgid "Light Armor"
 msgstr "轻甲"
 
 
-# scripts/items/armor/greenskins/orc_warrior_light_armor.nut
-msgid "Looted Scale Armor"
-msgstr "掠夺者鳞甲"
+# scripts/items/armor/greenskins/goblin_shaman_armor.nut
+msgid "Ritual Armor"
+msgstr "仪式盔甲"
 
 
 # scripts/items/armor/greenskins/goblin_medium_armor.nut
@@ -46,18 +31,33 @@ msgid "Medium Armor"
 msgstr "中甲"
 
 
-# scripts/items/armor/greenskins/orc_young_heavy_armor.nut
-msgid "Metal Plated Hide Armor"
-msgstr "金属皮铠"
-
-
 # scripts/items/armor/greenskins/orc_berserker_light_armor.nut
 msgid "Trophy Bones"
 msgstr "骨质战利品"
 
 
+# scripts/items/armor/greenskins/goblin_skirmisher_armor.nut
+msgid "Skirmisher Armor"
+msgstr "散兵护甲"
+
+
+# scripts/items/armor/greenskins/orc_warrior_light_armor.nut
+msgid "Looted Scale Armor"
+msgstr "掠夺者鳞甲"
+
+
 # scripts/items/armor/greenskins/orc_warrior_heavy_armor.nut
 msgid "Looted Plate Armor"
 msgstr "掠夺者板甲"
+
+
+# scripts/items/armor/greenskins/orc_warrior_medium_armor.nut
+msgid "Looted Reinforced Mail"
+msgstr "强化掠夺者链甲"
+
+
+# scripts/items/armor/greenskins/orc_young_heavy_armor.nut
+msgid "Metal Plated Hide Armor"
+msgstr "金属皮铠"
 
 

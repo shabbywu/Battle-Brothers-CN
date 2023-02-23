@@ -1,41 +1,6 @@
-# scripts/items/armor/oriental/stitched_nomad_armor.nut
-msgid "Stitched Nomad Armor"
-msgstr "缝纫游牧甲"
-
-
-# scripts/items/armor/oriental/stitched_nomad_armor.nut
-msgid "A leather nomad armor stitched together from various hides and scraps."
-msgstr "一种由各种皮革和碎片缝合而成的游牧民族的皮革盔甲。"
-
-
 # scripts/items/armor/oriental/nomad_robe.nut
 msgid "Nomad Robe"
 msgstr "游牧长袍"
-
-
-# scripts/items/armor/oriental/nomad_robe.nut
-msgid "A nomad cloth robe worn to protect against both the heat and against cuts and bruises."
-msgstr "一种游牧民族的布长袍，用来防暑、防割伤和擦伤。"
-
-
-# scripts/items/armor/oriental/gladiator_harness.nut
-msgid "Gladiator Harness"
-msgstr "角斗士甲胄"
-
-
-# scripts/items/armor/oriental/gladiator_harness.nut
-msgid "A leather harness commonly worn by pit fighters in arenas of the southern city states."
-msgstr "在南方城邦的竞技场上，斗士通常戴的一种皮制甲胄。"
-
-
-# scripts/items/armor/oriental/plated_nomad_mail.nut
-msgid "Plated Nomad Mail"
-msgstr "镀金游牧链甲"
-
-
-# scripts/items/armor/oriental/plated_nomad_mail.nut
-msgid "A slightly worn-down, thin and light mail with additional metal plates grafted onto it."
-msgstr "一种稍微磨损的、薄而轻的链甲，上面有额外的金属板。"
 
 
 # scripts/items/armor/oriental/cloth_sash.nut
@@ -43,49 +8,9 @@ msgid "Cloth Sash"
 msgstr "布饰带"
 
 
-# scripts/items/armor/oriental/cloth_sash.nut
-msgid "A double sash made from thick cloth that is worn across the body."
-msgstr "一种由厚布制成穿在身上的双重饰带。"
-
-
 # scripts/items/armor/oriental/linothorax.nut
 msgid "Linothorax"
 msgstr "亚麻胸甲"
-
-
-# scripts/items/armor/oriental/linothorax.nut
-msgid "A breastplate made of several layers of linen."
-msgstr "由几层亚麻布制成的胸甲。"
-
-
-# scripts/items/armor/oriental/leather_nomad_robe.nut
-msgid "Leather Nomad Robe"
-msgstr "皮制游牧长袍"
-
-
-# scripts/items/armor/oriental/leather_nomad_robe.nut
-msgid "A thick cloth robe with added leather parts for increased protection."
-msgstr "一种增加了皮革部件以增强防护的厚布长袍。"
-
-
-# scripts/items/armor/oriental/thick_nomad_robe.nut
-msgid "Thick Nomad Robe"
-msgstr "厚游牧长袍"
-
-
-# scripts/items/armor/oriental/thick_nomad_robe.nut
-msgid "A double layered robe fashioned from thick cloth."
-msgstr "厚布制成的双层长袍。"
-
-
-# scripts/items/armor/oriental/southern_mail_shirt.nut
-msgid "Southern Mail Shirt"
-msgstr "南方链甲衫"
-
-
-# scripts/items/armor/oriental/southern_mail_shirt.nut
-msgid "A mail shirt fashioned from slightly thinner and lighter metal rings than those used in the north."
-msgstr "一种链甲衫，由比北方使用的稍薄、更轻的金属环制成。"
 
 
 # scripts/items/armor/oriental/padded_vest.nut
@@ -93,24 +18,89 @@ msgid "Padded Vest"
 msgstr "软垫背心"
 
 
-# scripts/items/armor/oriental/padded_vest.nut
-msgid "A thick cloth vest padded with dense wool to protect against blunt hits."
-msgstr "一种厚的布背心，里面垫着厚厚的羊毛，以防受到钝器的攻击。"
-
-
 # scripts/items/armor/oriental/assassin_robe.nut
 msgid "Assassin's Robe"
 msgstr "刺客长袍"
 
 
-# scripts/items/armor/oriental/assassin_robe.nut
-msgid "The dark robes of an assassin. Fine chainmail is tied and woven tightly into the fabric."
-msgstr "一位刺客的黑色长袍。 细链甲被紧紧地编织在织物上。"
+# scripts/items/armor/oriental/thick_nomad_robe.nut
+msgid "Thick Nomad Robe"
+msgstr "厚游牧长袍"
+
+
+# scripts/items/armor/oriental/gladiator_harness.nut
+msgid "Gladiator Harness"
+msgstr "角斗士甲胄"
+
+
+# scripts/items/armor/oriental/plated_nomad_mail.nut
+msgid "Plated Nomad Mail"
+msgstr "镀金游牧链甲"
+
+
+# scripts/items/armor/oriental/leather_nomad_robe.nut
+msgid "Leather Nomad Robe"
+msgstr "皮制游牧长袍"
+
+
+# scripts/items/armor/oriental/southern_mail_shirt.nut
+msgid "Southern Mail Shirt"
+msgstr "南方链甲衫"
+
+
+# scripts/items/armor/oriental/stitched_nomad_armor.nut
+msgid "Stitched Nomad Armor"
+msgstr "缝纫游牧甲"
 
 
 # scripts/items/armor/oriental/mail_and_lamellar_plating.nut
 msgid "Mail with Lamellar Plating"
 msgstr "层状金属链甲"
+
+
+# scripts/items/armor/oriental/padded_mail_and_lamellar_hauberk.nut
+msgid "Padded Mail and Lamellar Hauberk"
+msgstr "内衬片状链甲"
+
+
+# scripts/items/armor/oriental/southern_long_mail_with_padding.nut
+msgid "Southern Long Mail Shirt with Padding"
+msgstr "内衬南方长链甲衫"
+
+
+# scripts/items/armor/oriental/linothorax.nut
+msgid "A breastplate made of several layers of linen."
+msgstr "由几层亚麻布制成的胸甲。"
+
+
+# scripts/items/armor/oriental/thick_nomad_robe.nut
+msgid "A double layered robe fashioned from thick cloth."
+msgstr "厚布制成的双层长袍。"
+
+
+# scripts/items/armor/oriental/southern_long_mail_with_padding.nut
+msgid "A long and heavy mail shirt with a thickly padded coat."
+msgstr "一种又长又重的链甲衫，有厚厚的软垫外套。"
+
+
+# scripts/items/armor/oriental/cloth_sash.nut
+msgid "A double sash made from thick cloth that is worn across the body."
+msgstr "一种由厚布制成穿在身上的双重饰带。"
+
+
+# scripts/items/armor/oriental/leather_nomad_robe.nut
+msgid "A thick cloth robe with added leather parts for increased protection."
+msgstr "一种增加了皮革部件以增强防护的厚布长袍。"
+
+
+# scripts/items/armor/oriental/stitched_nomad_armor.nut
+msgid "A leather nomad armor stitched together from various hides and scraps."
+msgstr "一种由各种皮革和碎片缝合而成的游牧民族的皮革盔甲。"
+
+
+# scripts/items/armor/oriental/padded_vest.nut
+msgid "A thick cloth vest padded with dense wool to protect against blunt hits."
+msgstr "一种厚的布背心，里面垫着厚厚的羊毛，以防受到钝器的攻击。"
 
 
 # scripts/items/armor/oriental/mail_and_lamellar_plating.nut
@@ -119,22 +109,32 @@ msgstr "一种由金属板交织而成的片状衬衫穿在盔甲衫上。"
 
 
 # scripts/items/armor/oriental/padded_mail_and_lamellar_hauberk.nut
-msgid "Padded Mail and Lamellar Hauberk"
-msgstr "内衬片状链甲"
-
-
-# scripts/items/armor/oriental/padded_mail_and_lamellar_hauberk.nut
 msgid "A heavy composite armor consisting of mail coat, padding and lamellar elements."
 msgstr "一种由甲衣、衬垫和层状元素组成的重型复合装甲。"
 
 
-# scripts/items/armor/oriental/southern_long_mail_with_padding.nut
-msgid "Southern Long Mail Shirt with Padding"
-msgstr "内衬南方长链甲衫"
+# scripts/items/armor/oriental/nomad_robe.nut
+msgid "A nomad cloth robe worn to protect against both the heat and against cuts and bruises."
+msgstr "一种游牧民族的布长袍，用来防暑、防割伤和擦伤。"
 
 
-# scripts/items/armor/oriental/southern_long_mail_with_padding.nut
-msgid "A long and heavy mail shirt with a thickly padded coat."
-msgstr "一种又长又重的链甲衫，有厚厚的软垫外套。"
+# scripts/items/armor/oriental/gladiator_harness.nut
+msgid "A leather harness commonly worn by pit fighters in arenas of the southern city states."
+msgstr "在南方城邦的竞技场上，斗士通常戴的一种皮制甲胄。"
+
+
+# scripts/items/armor/oriental/plated_nomad_mail.nut
+msgid "A slightly worn-down, thin and light mail with additional metal plates grafted onto it."
+msgstr "一种稍微磨损的、薄而轻的链甲，上面有额外的金属板。"
+
+
+# scripts/items/armor/oriental/assassin_robe.nut
+msgid "The dark robes of an assassin. Fine chainmail is tied and woven tightly into the fabric."
+msgstr "一位刺客的黑色长袍。 细链甲被紧紧地编织在织物上。"
+
+
+# scripts/items/armor/oriental/southern_mail_shirt.nut
+msgid "A mail shirt fashioned from slightly thinner and lighter metal rings than those used in the north."
+msgstr "一种链甲衫，由比北方使用的稍薄、更轻的金属环制成。"
 
 

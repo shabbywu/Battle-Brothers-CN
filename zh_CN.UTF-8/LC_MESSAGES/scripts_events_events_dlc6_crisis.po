@@ -1,6 +1,61 @@
+# scripts/events/events/dlc6/crisis/holywar_occupied_south_event.nut
+# scripts/events/events/dlc6/crisis/holywar_occupied_north_event.nut
+msgid "Image"
+msgstr ""
+
+
+# scripts/events/events/dlc6/crisis/holywar_occupied_south_event.nut
+# scripts/events/events/dlc6/crisis/holywar_occupied_north_event.nut
+msgid "Holysite"
+msgstr ""
+
+
+# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
+msgid "You gain "
+msgstr "你获得了 "
+
+
+# scripts/events/events/dlc6/crisis/holywar_intro_north_event.nut
+# scripts/events/events/dlc6/crisis/holywar_intro_south_event.nut
+msgid "At %townname%"
+msgstr ""
+
+
+# scripts/events/events/dlc6/crisis/holywar_warnings_event.nut
+msgid "Good to know."
+msgstr "很高兴知道。"
+
+
+# scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
+msgid "Was crucified"
+msgstr "被钉在十字架上"
+
+
+# scripts/events/events/dlc6/crisis/holywar_outro_south_event.nut
+# scripts/events/events/dlc6/crisis/holywar_outro_north_event.nut
+msgid "During camp..."
+msgstr "露营时…"
+
+
+# scripts/events/events/dlc6/crisis/holywar_flavor_north_settlement_event.nut
+msgid "If you say so."
+msgstr "你说是就是。"
+
+
 # scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
 msgid "[/color] Crowns"
 msgstr ""
+
+
+# scripts/events/events/dlc6/crisis/holywar_flavor_south_settlement_event.nut
+msgid "A strange time."
+msgstr "奇怪的时代。"
+
+
+# scripts/events/events/dlc6/crisis/holywar_intro_north_event.nut
+# scripts/events/events/dlc6/crisis/holywar_intro_south_event.nut
+msgid "War is upon us."
+msgstr "战争就要来了。"
 
 
 # scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
@@ -10,16 +65,16 @@ msgid "You gain [color="
 msgstr "你获得了 [color="
 
 
-# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
-msgid "You gain "
-msgstr "你获得了 "
-
-
 # scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
 # scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
 # scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
 msgid "Along the way..."
 msgstr "在途中…"
+
+
+# scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
+msgid "Serves him well."
+msgstr "他罪有应得。"
 
 
 # scripts/events/events/dlc6/crisis/holywar_occupied_south_event.nut
@@ -34,82 +89,10 @@ msgid "Along the road..."
 msgstr "在路上…"
 
 
-# scripts/events/events/dlc6/crisis/holywar_outro_south_event.nut
-# scripts/events/events/dlc6/crisis/holywar_outro_north_event.nut
-msgid "During camp..."
-msgstr "露营时…"
-
-
-# scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
-msgid "Gained confidence in your leadership"
-msgstr "对你的领导有信心"
-
-
-# scripts/events/events/dlc6/crisis/holywar_intro_north_event.nut
-# scripts/events/events/dlc6/crisis/holywar_intro_south_event.nut
-msgid "At %townname%"
-msgstr ""
-
-
-# scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
-# scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
-msgid "[/color] Tools and Supplies."
-msgstr ""
-
-
-# scripts/events/events/dlc6/crisis/holywar_outro_south_event.nut
-# scripts/events/events/dlc6/crisis/holywar_outro_north_event.nut
-msgid "The %companyname% needs their commander!"
-msgstr "%companyname% 需要他们的指挥官！"
-
-
-# scripts/events/events/dlc6/crisis/holywar_outro_south_event.nut
-# scripts/events/events/dlc6/crisis/holywar_outro_north_event.nut
-msgid "It's time to retire from mercenary life. (End Campaign)"
-msgstr "是时候从雇佣兵生活中退休了。 （结束战役）"
-
-
-# scripts/events/events/dlc6/crisis/holywar_outro_south_event.nut
-msgid "[img]gfx/ui/events/event_84.png[/img]{Faith placed in the Gilder has been rewarded: the holy war is over, and the southerners stand victorious. The Vizier, councilmen, and clergy alike are found in the streets, each riding great wagons which, in place of wheels, are lofted on the backs of slaves. Northern slaves, particularly, indebted to the Gilder for their crimes. You can hardly see the men, just their legs black in shadow as though a procession of swaying beetles was on the go. The wealthy and profligate men take great chalices and hurl what looks like golden water upon the cheering faithful. You yourself lean into one of these splashes, but find it is merely just tinted water.\n\n While the faux fortunes served only to slake your thirst, the very real war between the followers of the old gods and the Gilded themselves served to fill the %companyname%'s treasury. As a Crownling, you'll never find the respect of bared heads and bowed bodies, nor the prostrations of peasants, nor the gleam of gold too heavy for any one man to carry. That is the reality for you, but that won't stop the company from being ready the next time the pious wanna have a squabble over righteousness. Or perhaps now would be a good time to put up the sword and enjoy your crowns?\n\n%OOC%You've won! Battle Brothers is designed for replayability and for campaigns to be played until you've beaten one or two late game crises. Starting a new campaign will allow you to try out different things in a different world.\n\nYou can also choose to continue your campaign for as long as you want. Just be aware that campaigns are not intended to last forever and you're likely to run out of challenges eventually.%OOC_OFF%}"
-msgstr "[img]gfx/ui/events/event_84.png[/img]{对镀金者虔诚的信仰得到了回报：圣战结束了，南方人获得了胜利。 维齐尔，议员，神职者之类在街道上，每一个都乘坐着巨大的载重货车，轮子被奴隶替代了的车。 尤其是北方奴隶，因他们对镀金者的罪孽而负债。 你几乎看不到那些人，只是他们的腿在阴影下的黑影，就好像甲虫成队列在前进一般。 富有而奢侈的人们举起巨大的酒杯向欢呼的忠实信徒们抛出看起来像是金色的水的东西。 你自己探身去检测这些泼洒，只发现这原来不过是染过色的水。\n\n 尽管这种假冒的财富只能够满足你的口渴，旧神与镀金者信徒间真实的战争本身已经把 %companyname%的宝箱塞满了。 作为一个逐币者，你从未受到过光头的和屈身的人的尊重，也没有农民的拜倒，亦没有重到一个人搬不动的黄金的微光。 这就是你的现实，但是那不会阻止你的战队在下一次虔诚者们想要争论什么是正义时做好准备。 又或许现在是放下剑享受你挣到的克朗的好时候？\n\n%OOC%你已经胜利了！战场兄弟是为可重玩性和战役而设计的，直到你在游戏后期打败了一两次危机。 开始一个新的战役会让你在不同的世界尝试不同的东西。\n\n你可以选择继续你的战役，只要你想。 只是要意识到，战役并不是要永远持续下去的，你可能最终会尝尽所有的挑战。%OOC_OFF%}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_outro_south_event.nut
-msgid "[img]gfx/ui/events/event_84.png[/img]{You recall the followers of the Gilder to once be united in their pursuit of leveling the old gods. Some misplaced notion that, were they to satisfy their God enough, He would put his powerful eye upon all enemies of His faithful and obliterate them. Instead, the Gilded find their resolve greatly tested: they have lost the holy war. Cities and towns have been burned, holy totems desecrated, and sacred grounds looted.\n\n Crowds of people listlessly shift about in the streets, wailing now and again, not with purpose, but as though they've lost all language to articulate the pain they must now endure. On occasion, a body will plummet from above, or you find the guards pulling corpses out of the well only for an onlooker to pitch herself in. A few prostrate themselves before golden relics, letting themselves cook in the sun struck glare of the shiny emblems, the grief stricken crawling beneath the simmering reflections until their skins turn to crust and their throats choke on their own flesh, and as the sun comes and goes, bodies lay in the wake of its stare. As for the %companyname%, you've put yourself to one side or the other, and regardless of winners or losers, you made a small fortune. For the future you need not wish to have the opportunity again, either: if there's one thing you know about a man of faith it's that defeat is only but one strike upon the hardening iron. With all that you've achieved, perhaps now would be a good time to put up the sword and enjoy your crowns?\n\n%OOC%You've won! Battle Brothers is designed for replayability and for campaigns to be played until you've beaten one or two late game crises. Starting a new campaign will allow you to try out different things in a different world.\n\nYou can also choose to continue your campaign for as long as you want. Just be aware that campaigns are not intended to last forever and you're likely to run out of challenges eventually.%OOC_OFF%}"
-msgstr "[img]gfx/ui/events/event_84.png[/img]{你回想起镀金者的追随者们曾经团结在他们抗衡旧神们的追求中。 有些人误认为，如果他们让他们的神足够满意，他就会将他强大的眼睛用来把他忠实的信徒们的敌人摧毁。 与之相对，镀金者发现他们的意志面临着极大的考验：他们在这场圣战中输了。 城市，城镇都被烧毁了，神圣的图腾被亵渎，圣地亦被洗劫一空。\n\n 大量的人群散乱的在街上游荡，时不时号啕大哭，没有什么明确的目的，只是如同他们失去了能够表述他们现在承受的痛苦的所有言语。 时不时的，一个尸体就会从上面掉下来，你看到卫兵们从井中捞出尸体时旁观者中的一个女人自己投身进去。 数个人伏在金制的圣物前，任自己受其上纹章在阳光下反射出的光线灼烧，饱受悲伤煎熬的悲怆者趴在炙热的反射下直到他们的皮肤结成硬壳，喉咙因他们自己的血咳嗽，日升日落，他们就这么承受着它的注视。 至于 %companyname%，你投身于其中一方或另一方，不论输赢，你获得了一份微小的财富。 对于未来，你也无需期盼这样的机会再次出现：如果关于信教者有什么是你可以确信的，那便是失败不过是愈加硬化的钢铁上的一击而已。 以你的成就，或许现在是时候放下剑享受你挣到的克朗？\n\n%OOC%你已经胜利了！战场兄弟是为可重玩性和战役而设计的，直到你在游戏后期打败了一两次危机。 开始一个新的战役会让你在不同的世界尝试不同的东西。\n\n你可以选择继续你的战役，只要你想。 只是要意识到，战役并不是要永远持续下去的，你可能最终会尝尽所有的挑战。%OOC_OFF%}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_occupied_south_event.nut
-# scripts/events/events/dlc6/crisis/holywar_occupied_north_event.nut
-msgid "Image"
-msgstr ""
-
-
-# scripts/events/events/dlc6/crisis/holywar_occupied_south_event.nut
-# scripts/events/events/dlc6/crisis/holywar_occupied_north_event.nut
-msgid "Holysite"
-msgstr ""
-
-
-# scripts/events/events/dlc6/crisis/holywar_occupied_south_event.nut
-# scripts/events/events/dlc6/crisis/holywar_occupied_north_event.nut
-msgid "The fires of religious turmoil burn bright."
-msgstr "宗教动乱之火熊熊燃烧。"
-
-
-# scripts/events/events/dlc6/crisis/holywar_occupied_south_event.nut
-msgid "[img]gfx/ui/events/event_%image%.png[/img]{News is coming that the Gilded ones have conquered %holysite%. What they plan to do with it, who knows. Maybe put up a gold-plated fence to keep the northerners out? You're mostly concerned the fighting might be nearing an end, and with it all the sweet religious honey the %companyname% has been eating up. | The Gilder's gleam must be brighter than ever now: %holysite% has fallen under control of the southerners. Perhaps the Gilded folk will ask the %companyname% to help defend it, or maybe the old gods will need a bit of proper gumption in taking it back. Either way, the %companyname% is still on the catbird seat for fattening its purse.}"
-msgstr "[img]gfx/ui/events/event_%image%.png[/img]{消息传来，镀金者们征服了 %holysite%。至于他们打算用它做什么，谁知道呢。 或许立起一圈镶金的栅栏来把北方人挡在外面？ 你最担心的是这场战斗可能接近尾声，随着所有那些 %companyname% 享受着的甜蜜的宗教甜点一起。 | 镀金者的光辉想必前所未有的闪亮：%holysite% 现在处于南方人的控制下。 或许镀金的人们会希望 %companyname% 来帮忙守住它，又或许旧神需要些真正有勇气的人来帮他们夺回它。 不论如何，%companyname% 依旧坐在让钱袋子变大的座位上。}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_flavor_south_settlement_event.nut
-msgid "A strange time."
-msgstr "奇怪的时代。"
-
-
-# scripts/events/events/dlc6/crisis/holywar_flavor_south_settlement_event.nut
-msgid "{[img]gfx/ui/events/event_97.png[/img]Children peep their heads over a sand dune, just missing another group of children hiding in the shade of a defilade. When the first troop come over the top, the ambushing kids jump out and stab them with sticks and slay them down.%SPEECH_ON%Death to the northerners, may the Gilder's gaze shine upon us!%SPEECH_OFF%The slain kids slide down the dune, limp and lifeless, before jolting back to their feet and arguing that it is their turn to play the 'good guys.' It seems the holy war has already invigorated the next generation to be ready when their time comes. | [img]gfx/ui/events/event_166.png[/img]Rows and rows of the faithful bend to the sands to give their prayers to the Gilder. All manner of men and women and children alike, and dissimilar, being that there were wealthy merchants beside impoverished beggars. The only real standouts are the Vizier and the councilmen, who all pray beside the priests at the head of the procession. That is if these men are praying at all: as far as you can tell, the council is whispering amongst themselves, some not paying the slightest bit of attention to the ceremony.}"
-msgstr "{[img]gfx/ui/events/event_97.png[/img]孩子们从沙丘后探出头来，错过了另一群躲在遮蔽物阴影下的孩子。 当第一批士兵越过顶端，埋伏着的孩子们跳出来用木棍扎他们并将他们击倒。%SPEECH_ON%死吧北方人，让镀金者的目光沐浴我们！%SPEECH_OFF%被击倒的孩子们耷拉着滑下沙丘，直到他们突然跳起并开始争论是时候让他们来扮演“好家伙.” 看来圣战已经激励了下一代，让他们在时机成熟时做好准备。 | [img]gfx/ui/events/event_166.png[/img]一排又一排的忠实信徒们趴向沙漠以向镀金者祈祷。 各种各样的人，男人，女人，儿童，也有不同之处，一些贫穷的乞丐旁边还有富商。 唯一的突出者是维齐尔与议员们，他们都在游行队伍前面的牧师旁边祈祷 这是说如果他们真的在祈祷的话：至少从你这里看，议会成员间在轻声低语着什么，有的对仪式毫无关注。}"
+# scripts/events/events/dlc6/crisis/holywar_flavor_north_outside_event.nut
+# scripts/events/events/dlc6/crisis/holywar_flavor_south_outside_event.nut
+msgid "War never changes."
+msgstr "战争从未改变。"
 
 
 # scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
@@ -117,9 +100,19 @@ msgid "Kill them with dignity."
 msgstr "有尊严地杀了他们。"
 
 
+# scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
+msgid "You're welcome with us."
+msgstr "欢迎你加入我们。"
+
+
 # scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
 msgid "Leave them to the sands."
 msgstr "将他们留给沙漠。"
+
+
+# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
+msgid "Take anything we can use."
+msgstr "带上我们能用的任何东西。"
 
 
 # scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
@@ -129,105 +122,8 @@ msgstr "镀金者已经审判了他们。"
 
 # scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
 # scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
-msgid "Better they don't suffer any longer."
-msgstr "他们最好别再受苦了。"
-
-
-# scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
-msgid "Disliked that you ended the suffering of northern invaders"
-msgstr "不喜欢你结束了北方侵略者的苦难"
-
-
-# scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
-msgid "Disliked that you left fellow northerners to suffer a slow death"
-msgstr "不喜欢你让北方同胞慢慢死去"
-
-
-# scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
-msgid "Approved of your decision to end the suffering of fellow northerners"
-msgstr "同意你结束北方同胞苦难的决定"
-
-
-# scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
-msgid "Approved of your decision to leave northern invaders judged by the Gilder"
-msgstr "同意你决定让镀金者来审判北方侵略者"
-
-
-# scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
-msgid "[img]gfx/ui/events/event_161.png[/img]{You come across a troop of men half-buried in sand. Northerners caught in a sandstorm over night. They're writhing in pain, the ones alive at least. Some have had their flesh rent from bone, and others are already being picked at by scorpions and buzzards. It seems some have killed themselves. Not one of the souls can be saved, they're just clinging on to the end.}"
-msgstr "[img]gfx/ui/events/event_161.png[/img]{你遇到一队半埋进沙子的士兵。 北方人，扎营过夜时被卷入沙尘暴。 他们在痛苦中哀嚎，至少还在活着那些。 有的人皮开肉绽，而其他的已经在被蝎子与秃鹫啄着。 看起来有的选择了自杀。 没有一个人可以被拯救，他们只是艰难的扒在终结的边缘。}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
-msgid "[img]gfx/ui/events/event_161.png[/img]{You order the sellswords to strip the dying men of any useful gear. The crusaders can only mumble and groan as they are stripped of arms and armor. Their naked bodies are left to the burning sands, and as you depart with whatever scraps of useful gear the animals of the waste already begin to move in and feed. Mixed feelings run through the %companyname% about this decision, but ultimately contentions or support alike stay quiet.}"
-msgstr "[img]gfx/ui/events/event_161.png[/img]{你命令佣兵们从半死不活的士兵们身上扒下任何有用的装备。 十字军只能随着他们的武器和盔甲被拿走时嘟哝和哀嚎。 他们身体裸露在灼热的沙漠里，而随着你带着可用的废品离开，荒野上的动物们已经进场开始进食。 对于这一决定 %companyname% 有所争执，但是最终争论与支持都安静了下来。}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
-msgid "[img]gfx/ui/events/event_161.png[/img]{Drawing your sword, you ask the men if they will accept the dignity of a swift death by your steel. They're too parched and starved to speak, but a few nod. One dies before he can even answer. You go to each, crouch, wish them well, and push the sword in. The skin cracks beneath the blade, and the dying men are briefly revivified by the piercing pain, and then they are relinquished from this world. A few in the company have varying opinions about this matter.\n\nYou have the sellsword pick up what things they can, though much of the equipment has been laid to waste by the fury of the desert.}"
-msgstr "[img]gfx/ui/events/event_161.png[/img]{拔出你的剑，你询问他们是否接受你所给予他们的尊严。 他们太渴，太饿，难以说话，但是几个人点头了。 其中一个在他能回答前便死去了。 你走过每一个人，蹲下，愿他们安息，并将剑推入。 皮肤在锋刃下裂开，正在死去的人们因疼痛短暂的恢复一丝活力后便不情愿的离开了这个世界。 队伍里的几个人对此有不同的意见。\n\n你让佣兵们拿上他们可以带走的，尽管大部分的装备都被狂躁的沙漠损坏了。}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_intro_north_event.nut
-# scripts/events/events/dlc6/crisis/holywar_intro_south_event.nut
-msgid "War is upon us."
-msgstr "战争就要来了。"
-
-
-# scripts/events/events/dlc6/crisis/holywar_intro_north_event.nut
-msgid "[img]gfx/ui/events/event_43.png[/img]{%SPEECH_START%Alright, alright, sort yerself, sort yerself.%SPEECH_OFF%You come to a peasant holding court with, unsurprisingly, more peasants.%SPEECH_ON%Now I just got told that these Gilded farks in the south think their 'maker' has something in store for the old gods.%SPEECH_OFF%A voice from the crowd asks what that could be. The speaker shrugs.%SPEECH_ON%Dunno. Now, I think we can all agree that the old gods settled their wars many years ago, and there's no need for violence. But the Gilder, he ain't no old god. That there is a heresy.%SPEECH_OFF%The crowd cheers. You're beginning to wonder if this man is a cleric in commoner's clothing. He continues.%SPEECH_ON%Gather up yer weapons, yer armor, yer gold, and most importantly, yer faith, we're going to put some shadow on that 'Gilder'! The old gods will it!%SPEECH_OFF%The crowd roars this time, so deafening that your ears crackle. It is good to see such energy. Once the fighting starts, there will be plenty of business as the righteous shall certainly find faith in the %companyname%. | A bearded cleric stands before a crowd of peasants.%SPEECH_ON%It is said that the old gods fought their wars to completion many years ago, that they tore this world asunder, and left us in the devastation, and they have been impressed by our ability to persevere against such great struggle.%SPEECH_OFF%The crowd murmurs. The man continues.%SPEECH_ON%But we are challenged yet, ye faithful! To the south wander heretics, followers of the 'Gilder', a false god of opulence, profligacy, and a lowly prestidigitation they pass for righteousness.%SPEECH_OFF%The crowd doesn't know what any of those words mean, but they raise their pitchforks to the air and roar, beckoning the clerics to tell them where to go. Smiling, the elders turn to one another and nod. You have little care for who or what is starting this crusade between north and south, only that the %companyname% will stand to earn a fair bit of coin in the gross matter. | The arsenal assembled before you is unlike any you've ever seen. Armaments piled higher than three men head to feet. Soldiers are lined up, half of them holding religious banners, each adorned with one of the old gods. Clerics and monks walk the lines, speaking to the matter in both earthly and heavenly tones. This is the crusade, the great religious arrest of the northerners to take on the Gilder's followers.%SPEECH_ON%Sellsword, are ye?%SPEECH_OFF%You turn to see a young lad gearing up.%SPEECH_ON%You'll be on the righteous path, I know it, and the old gods will watch over us all. Do by them well, little scapegrace.%SPEECH_OFF%Of course. But first you'll do right by the %companyname% and getting a fat purse from all the action to come.}"
-msgstr "[img]gfx/ui/events/event_43.png[/img]{%SPEECH_START%好吧，好吧，肃静，肃静。%SPEECH_OFF%你来到了一个农民法庭，不出所料，那里有更多的农民。%SPEECH_ON%现在我刚被告知这些镀金的南方狗屁认为他们的“造物主”给旧神们准备了点玩意。%SPEECH_OFF%人群里的一个声音问道那会是什么。喊话者耸耸肩。%SPEECH_ON%不知道。现在，我想我们都可以认同旧神在很多年以前就解决了他们的战争，没有什么好暴力的。 但是镀金者，他可不是旧神。 这意味着异端。%SPEECH_OFF%群众欢呼着。你开始寻思这个人是不是个穿着普通人衣服的牧师。他继续道。%SPEECH_ON%集起你们的武器，你们的盔甲，你们的金子还有最重要的，你们的信仰，我们要去给那个“镀金者”来点阴影！ 这是旧神的意志！%SPEECH_OFF%这次群众们咆哮了起来，震耳欲聋的响。 这种能量是好兆头。 一旦战斗开始，生意肯定会相当兴隆，特别是某些正义的人想要看到的信仰必然在 %companyname%。 | 一个大胡子牧师站在一群农民面前。%SPEECH_ON%传说旧神在许多年前便完成了他们的战争，说他们将这个世界撕裂，并把我们遗留在这一片毁灭上，以及他们欣赏我们艰难奋斗生存下去的能力。%SPEECH_OFF%群众低语着。那个人继续道。%SPEECH_ON%但我们现在面对挑战，忠实信徒哟！ 在南方异端横行着“镀金者”的信徒们，一个象征奢侈，浪费，以及他们认为正义实为下贱巫术的伪神。%SPEECH_OFF%群众们一个词都没听懂，但是他们将他们的草叉高举着嘶吼了起来，询问着牧师们他们将前往何处。 微笑着，长老们转向对方并点头。 你不在乎是谁或是什么在发起南北间的圣战，只在乎 %companyname% 能从中捞到的好处。 | 堆积在你面前的军械前所未有。 武器堆起来有三人多高。 士兵们排成队，其中一半握着宗教旗帜，每一个都装饰着旧神中的一个。 神职人员和僧侣们都循规而行，用世俗和天国的语气来谈论这件事。 这就是圣战，北方人因宗教聚集在一起去面对镀金者的追随者。%SPEECH_ON%佣兵，是吗？%SPEECH_OFF%你转过身看到一个小伙子正穿上装备。%SPEECH_ON%你会在正直的道路上的，我懂的，而且旧神会照顾好我们所有人的。 好好表现给他们看，小流氓。%SPEECH_OFF%当然。但是首先你要为了 %companyname% 从战争的漩涡中赚得盆满钵满。}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_warnings_event.nut
-msgid "Good to know."
-msgstr "很高兴知道。"
-
-
-# scripts/events/events/dlc6/crisis/holywar_warnings_event.nut
-msgid "%terrainImage%{A peasant passes you on the path. He mentions off-hand that he doesn't understand why gods would have their followers fight each other. If it really wanted to be settled, why not do it themselves? You grab him by the shirt and ask what he's blathering about. He pulls away.%SPEECH_ON%Oy! Hands off, or I'll nip ya! And I'm just grousing, thass'all. Lotta talk going around about the Gilded folk and the followers of the old gods butting heads. Again. Now lemme bitch in peace!%SPEECH_OFF%The man walks off, mumbling and, ironically, getting louder in volume the further away he gets from you. | You come across a congress of Gilded and old gods' monks alike. They're discussing the possibility of an upcoming war, and how to protect themselves if such a time comes to pass. It's admirably amicable, all told, but it does seem there's a hint of religious reckoning in the air. | A man fixing a wagon beside the road shakes his head.%SPEECH_ON%You know, I'd just like to go from one spot of the world t'another, and that be that. But no. Farking... something! Always something! Has gotta go wrong. Hey, speaking of wheels, here's one I hear turning: the Gilder and the old gods might be knocking heads again. Seen storm clouds of it. Holy war in the sky. Which means holy war here. I hope to get clear of it before it starts. You seen the last one? Nasty business.%SPEECH_OFF%You're sure it is, but nasty business means good business for the %companyname%. | %SPEECH_ON%Knees bothering me.%SPEECH_OFF%You look over to see an old man wiggling two stumps. He grins.%SPEECH_ON%That is to say, the spirit of my knee is getting ornery. When I had m'legs, the tinge in the knee meant bad weather. Now the twinge in no-knee means something worse.%SPEECH_OFF%A young boy comes and hauls the elder into a wheelbarrow. Before he departs, you ask what he means. He turns aside, elbow cocked and hand planted on his hand, looking dapper and lively for what he is.%SPEECH_ON%A reckoning from above. The Gilder, the old gods, maybe even more than just them. I think they're all toying with us, spurring us folk to kill one another to appease them, so they can have a watch. You look the part of a sellsword, so I imagine business will be kind to you once them clerical colors wanna go red.%SPEECH_OFF%}"
-msgstr "%terrainImage%{一个农民在路上从你身边经过。 他漫不经心的提到他无法理解为什么神要让他们的追随者互相战斗。 如果他们真的想解决这件事，为什么不自己上？ 你抓住他的衣服并问他在扯些什么。他摆脱开。%SPEECH_ON%嗨！手拿开，不然我就咔了你！ 而且我只是在发牢骚，仅此而已。 很多传言说镀金家伙和旧神信徒在对头锤。 又一次。现在让我安静会！%SPEECH_OFF%那个人走开了，嘟哝着，讽刺的是，他离你越远，音量就越大。 | 你遇到了一个镀金者和旧神祗的僧侣还是什么的集会。 他们在讨论一场战争的可能性，以及当它发生时怎么保护自己。 值得欣赏的友善，说真的，不过空气中确实有一股宗教上审判日的气息。 | 一个在路边修着载重货车的男人摇了摇头。%SPEECH_ON%你知道的，我只想从世界上的这个点走到另一个，仅此而已。 但是不，不行。狗日的…玩意！ 总是有什么玩意！总得出状况。 嗨，说道轮子，我这里听说个消息：镀金者和旧神祗们又要开始撞头了。 看到风暴云了吗。 是天上的圣战。 意味着这里也要圣战了。 我期盼在它开始前离它远点。 你见过上次圣战吗？可不是什么好事。%SPEECH_OFF%你确认这确实不是好事，但是这种事情也意味着要有活干了 %companyname%。 | %SPEECH_ON%膝盖苦恼着我。%SPEECH_OFF%你看过去看到一个老人摇摆着两个木桩假肢。他笑道。%SPEECH_ON%这是在说，我膝盖的灵魂在躁动。 当我还有腿的时候，膝盖的刺痛意味着坏天气要来了。 现在没有了的膝盖的剧痛意味着什么更糟的东西。%SPEECH_OFF%一个年轻的男孩过来并把老人扶到了手推车上。 在他离开前，你问他在说什么。 他转向一边，眉头紧皱，手互相紧握，相对于他的实际状况而言看起来些许潇洒和活跃。%SPEECH_ON%来自天上的审判。 镀金者，旧神，或许不止他们。 我想他们都在调戏我们，策划我们自相残杀来取乐他们，这样他们好有场戏看。 你看起来像个佣兵，所以我想当那些圣职者准备让他们的袍子染上血红色时你的生意会很不错。%SPEECH_OFF%}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_flavor_north_outside_event.nut
-# scripts/events/events/dlc6/crisis/holywar_flavor_south_outside_event.nut
-msgid "War never changes."
-msgstr "战争从未改变。"
-
-
-# scripts/events/events/dlc6/crisis/holywar_flavor_north_outside_event.nut
-msgid "{[img]gfx/ui/events/event_95.png[/img]The homestead is a smoldering ruin and its occupants have all been beheaded save one. An unlucky figure has instead been prostrated and spread-eagled on the ground and has been set afire from what looks like the belly out: his chest is a cratered, ashen ruin, and his limbs blackened and charred, yet still skeletal in their remains. His face is untouched, perhaps by design, and by the look of him he did not die in a manner you'd find suitable to anyone, not even your own enemies. | [img]gfx/ui/events/event_02.png[/img]You find some southern soldiers hanging from a tree, their eyes long since plucked by crows and their feet by fortune hunters. They twist listlessly in the wind and none of the locals seem in a hurry to cut them down. | [img]gfx/ui/events/event_60.png[/img]A wagon train is splattered to both sides of a path, the wood and material littering the fields beside them. Everything of value has been taken, and the merchant slain to the last. The wounds indicate southern intents, yet the mortal carvings don't quite seem as clean as you're used to seeing. This could very well be the work of thieves using the holy war as cover. Either way, there's nothing of value left and you have the men continue on. | [img]gfx/ui/events/event_132.png[/img]You find a battlefield, though your arrival is far too late to make any dramatic appearance: the dead are all over the place, southern and northern, and the sutlers and scavengers and scapegraces have already looted the entirety of the aftermath. Judging the frail appearances of a big heap of southerners piled in one spot, and fast footed retreat from it, you've little doubt the Gilded threw forward their indebted souls to spare the rest of the troop.}"
-msgstr "{[img]gfx/ui/events/event_95.png[/img]农庄被烧毁，它的居民全都被斩首，除了其中一个。 这个不幸的人呈飞鹰状的被压在地上，火势看来是从腹部开始的：他的胸口成了一个灰黑的坑，他的骨瘦如柴四肢亦是焦黑。 他的面部则没有受损，可能是故意的，而从他的表情看来即使是你的敌人也不该如此死去。 | [img]gfx/ui/events/event_02.png[/img]你找到了一些被吊在树上的南方士兵，他们的眼球早已被乌鸦啄走，脚则是那些碰运气的捕食者。 他们无序的在风中摇摆，当地人看起来并不急着把他们放下来。 | [img]gfx/ui/events/event_60.png[/img]一个车队散落在道路的两旁，木材与零件随着它们散布在附近的草地上。 一切有价值的东西都被拿走了，而商人也全都被杀了。 伤口上可以看出是南方人的武器，但是这些致命的雕刻看起来不像你过去看过的一般简洁。 这很有可能是贼匪借着圣战掩护下的作为。 不论如何，这里没有什么有价值的东西留下，于是你让手下们继续前进。 | [img]gfx/ui/events/event_132.png[/img]你找到了一个战场，尽管你的到来对于一个戏剧性的出场而言太迟了：死者到处都是，南方人与北方人，小贩与拾荒者还有恶棍们已经把这场战斗打扫干净了。 通过时不时出现的南方人尸体堆，以及这些尸体堆边仓促的撤退痕迹来看，你可以肯定那帮镀金者让负债者们成为了掩护他们撤退的牺牲品。}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_flavor_south_outside_event.nut
-msgid "{[img]gfx/ui/events/event_132.png[/img]You find the disassembled remains of a battlefield: a litter of unusables with corpses so shriveled it's hard to discern to which side they belonged. The scraphunters no doubt took anything of use. | [img]gfx/ui/events/event_132.png[/img]A smoldering wagon with its owner left beside it, headless, and the rest of his body plucked to the bone. Given the war going on, it's hard to say who exactly is responsible for it. | [img]gfx/ui/events/event_132.png[/img]You find the defaced remains of an old gods banner, staked into the sands with a headless corpse strung up on the pole. No doubt a northerner, the body is practically bubbling in appearance as sand lizards snake to and fro, trying to get the last of the good morsels. There's a smattering of more bodies across the sands, most crawling with beetles or being tugged at by snakes and other vulturous creatures. | [img]gfx/ui/events/event_167.png[/img]You find a dead northern man propped up in the sands, his arms and legs bound to a wooden chair. In front of him is a large pole with a catch frame and ropes which hang limp from its corners. It seems it once held something large and rotund. The man's head has a hole bored through it, and the wound is unlike any you've ever seen: it's almost as if they drilled through it with heat alone. Perhaps the Gilded used the reflection of a great medallion to intensify the sun? It's hard to say. | [img]gfx/ui/events/event_167.png[/img]You find a row of corpses in the sand, and upon closer inspection find they're all southern women and what looks like a man who could possibly be on a Vizier's council. All their heads have been removed and placed upon their backs, the eyes facing their buttocks. You're not sure what any of this means, but no doubt it is the result of internal quarrels within the Vizier's own ranks. There's nothing of value to take so you have the men move on.}"
-msgstr "{[img]gfx/ui/events/event_132.png[/img]你找到了一片杂乱的战场遗迹：干瘪的尸体凌乱的散步着，很难说他们是哪边的。 拾荒者无疑拿走了一切有用的东西。 | [img]gfx/ui/events/event_132.png[/img]一驾载重货车散发着黑烟，它的主人躺在一边，没有头，剩下的尸体也露出了白骨。 随着这场战争持续下去，很难说到底谁该为此负责。 | [img]gfx/ui/events/event_132.png[/img]你找到了一杆旧神的旗帜，上面的神像被抹去面容，扎在沙地里，一个无头的尸体被插在上面。 无疑是一个北方人，尸体随着沙漠蜥蜴们为最后一点食物进出而看似起泡一般。 更多的尸体零星的散步在沙地上，大多数被甲虫爬满或者被蛇还有什么其他食腐动物拖拽着。 | [img]gfx/ui/events/event_167.png[/img]你找到一个撑在沙漠上的北方人尸体，他的手脚绑在一个木制椅子上。 在其前方是一个大号的柱子，带有框架与角落上耷拉着的绳索。 看起来它曾经挂着什么大而圆的东西。 尸体的头上有一个洞，一种你没见过的伤口：就好像纯粹的热能就这么钻了过去。 也许镀金的家伙们用了一个很大的吊坠来强化太阳光的反射？ 很难说。 | [img]gfx/ui/events/event_167.png[/img]你在沙地中找到了一排尸体，在更近距离的观察后辨认出是一群南方女人以及一个看起来可能出现在维齐尔议会上的男人。 它们的头在移除后放在它们的背上，眼睛面向它们的臀部。 你不确定这些都有什么含义，不过这无疑是维齐尔内部纠纷的结果。 看起来再没有什么有价值的东西所以你让手下继续前进。}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_intro_south_event.nut
-msgid "[img]gfx/ui/events/event_163.png[/img]{%SPEECH_START%May our paths be gilded in the days to come.%SPEECH_OFF%The priest speaks loudly to his congregation.%SPEECH_ON%I ask of you, faithful, where is the light brightest?%SPEECH_OFF%A throng of peasants murmur about themselves. Finally, the priest holds his hand up.%SPEECH_ON%It is upon the horizon, fighting against the shade of the earth herself, that we find the Gilder's gleam to be its fiercest. And we are now fighting against the shade, and the horizon is not the earth, but the improprieties of the northern stock who dare to profane the holy lands!%SPEECH_OFF%The crowd, once confused, is suddenly unified, seemingly all too knowledgeable about religious war. The priest grins.%SPEECH_ON%That is right, I see your hearts burn with the fire of the Gilder already! We must defend the sacred grounds no matter the cost!%SPEECH_OFF%Again, the crowd roars. You're not sure what to make of the peoples themselves, but if there's one thing you know about war it is that it is good for business and a bit of holy fury might make it all the better. | The Vizier has made a rare appearance for the plebs of his land, and beside him is the greater councils of nearby cities. But he does not speak. A man clothed in gold steps forward instead.%SPEECH_ON%The path of us all has been gilded, has it not?%SPEECH_OFF%Far less gleaming than the priest, the crowd murmur amongst themselves, though none dare to contradict the holy man's assertion. The priest continues.%SPEECH_ON%The Gilder has spoken to many of us, and revealed to us a new event threat: the northerners, spurred by their so-called old gods, have swept south. They entertain the thought of a crusade! To come here, right here, and take all our lands and sacred grounds. You see, the Gilder's shine shows us the path, but perhaps to others it is far too blinding. These northerners do not understand, but we will teach them, and by the Gilder's fire we shall!%SPEECH_OFF%The crowd roars to life and any sense of hesitancy is long gone. You chow down on a local delicatessen and wonder just how much money you're going to make in this holy war to come.}"
-msgstr "[img]gfx/ui/events/event_163.png[/img]{%SPEECH_START%让我们的未来的道路金光闪耀。%SPEECH_OFF%牧师大声的向他的会众们说道。%SPEECH_ON%我问你们，忠实信徒，哪里的光最为闪亮？%SPEECH_OFF%一大群农民互相间低语着。 最后，牧师举起他的手。%SPEECH_ON%是在地平线上，对抗大地她本身的阴影，在那我们才能找到镀金者最强烈的光辉。 现在我们正与那阴影战斗，而地平线上并非大地而是胆敢亵渎圣地的北方无礼崽种！%SPEECH_OFF%人群，一开始有点困惑，突然团结一致，看起来对宗教战争太过了解了。牧师嘴角上扬。%SPEECH_ON%这就对了，我已经可以看到你们心中燃烧着的镀金者之火！ 我们必须不惜代价保卫我们的圣地！%SPEECH_OFF%又一次，回应他的是人群的吼声。 你不知道该怎么理解这群人，但是你知道战争意味着生意而一点额外的宗教狂热可以让生意更好。 | 维齐尔罕见的出现在他土地上的平民前，周边城市的大议会议员们簇拥在他身边。 但他一言不发。 一个身着真金的男人走上前来。%SPEECH_ON%我们的旅途都金光闪耀，不是吗？%SPEECH_OFF%远不如这个牧师般闪亮，人群熙熙攘攘的小声交谈着，尽管没人胆敢反对圣人的主张。牧师继续道。%SPEECH_ON%镀金者对我们中的许多人透露了一个新的威胁事件：北方人在他们所谓的旧神的刺激下，已经席卷南方。 他们可笑的声称，这是一场圣战！ 为了到这来，就这里，来夺走我们的领土与圣地。 很显然，镀金者的光芒给我们展示了道路，但或许对于他人而言这太过耀眼。 这些北方人不明白，但我们会教给他们的，以镀金者的圣火之名教给他们！%SPEECH_OFF%人群嘶吼的活跃起来，任何迟疑都烟消云散了。 你吃下一口当地菜肴，开始寻思你在这场将要到来的圣战能中赚到多少。}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_flavor_north_settlement_event.nut
-msgid "If you say so."
-msgstr "你说是就是。"
-
-
-# scripts/events/events/dlc6/crisis/holywar_flavor_north_settlement_event.nut
-msgid "{[img]gfx/ui/events/event_41.png[/img]A wagon is stopped on the side of the road. You find a man looking at a wide variety of wares. He turns to your and speaks.%SPEECH_ON%Ah, a sellsword. I imagine you're apart of the holy war, huh? Well, I hope you do right by your gods. I know coin's important, but there's more to life, and more after, understand?%SPEECH_OFF% | [img]gfx/ui/events/event_97.png[/img]You find a few children playfighting each other, some dressed up in loose clothing like you'd find in the southern deserts. The latter bunch fall easy to the preying swords of the more northern dressage.%SPEECH_ON%Ah-ha! The Gilded fall, and may the old gods take the glory we've to give!%SPEECH_OFF%The kids calm down and then reset to positions. This time, they change guard, each exchanging clothes until the 'bad guys' become 'good guys' and then the play resumes. The holy war of the future will not be on short supply of faithful fighters, that's certain. | [img]gfx/ui/events/event_40.png[/img]You come across a monk reading a scroll. He states that the old gods have willed the north to victory, and that glory shall be shared in terraria and more. You ask what happens if the north loses. It is a brazen question, certainly, yet he takes it on the chin with a smile.%SPEECH_ON%Do not fool yourself, sellsword, in thinking that our holy war today is all that there will be. These wars will continue until an obvious end, and it will be at that end where we shall find most glory. I pray I live to see it, but my father and his father prayed the same, and alas I believe it will be my son who shall see the holy war brought to their righteous end.%SPEECH_OFF%}"
-msgstr "{[img]gfx/ui/events/event_41.png[/img]一辆载重货车停在路边。 你发现一个人照看着多种多样的商品。 他转身面向你说道。%SPEECH_ON%啊，一个佣兵。我想你也参加了圣战，哏？ 我希望你做了你的神认为是正确的事情。 我知道钱是重要的，但是生命中有更多含义，以及更多在那之后，懂吗？%SPEECH_OFF% | [img]gfx/ui/events/event_97.png[/img]你发现几个儿童在玩战争游戏，有些穿着似南方沙漠中的的宽松衣服。 他们轻松的被更北方穿着的孩子们用木剑击中。%SPEECH_ON%啊哈！镀金者倒下了，让旧神拥有我们赢来的荣誉！%SPEECH_OFF%孩子们冷静下来便回到预定位置上。 这一次，他们互换队伍，每个人交换着衣服直到“坏家伙”成为“好家伙”然后他们再从头开始。 未来的圣战不会缺少忠诚的战士，这一点是可以肯定的。 | [img]gfx/ui/events/event_40.png[/img]你遇到一个正在阅读一份卷轴的僧侣。 他声称胜利是旧神们的旨意，而荣光将永照大地什么什么的。 你问他如果北方人输了怎么办。 一个厚脸皮的问题，当然，但是他带着微笑接下了它。%SPEECH_ON%不要骗自己，佣兵，特别是认为我们今天的圣战就是全部了。 这些战争会延续下去直到一个显而易见的结果，而这个结果将会是我们拥有最多的荣誉。 我祈祷我活到见证它的那一天，但是我的父亲与他的父亲都这么祈祷过，所以最终我相信我的儿子将能见证圣战正义的结局。%SPEECH_OFF%}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_outro_north_event.nut
-msgid "[img]gfx/ui/events/event_84.png[/img]{Uttering their name is to draw words from tongue to intemporal: the old gods. They are beyond time, and their vast number invoke awe over specificity. Endearing as this is to any listener familiar or not with the faith, it also brings greater weight to any defeat of those who follow these unbranded beings. The crusades are over, and the northerners have lost.\n\n You watch as the northerners try and explain it to one another how it came to pass. It was not a terrestrial defeat here, nor even a victory by the southerners - no, this was punishment. Northerners have grazed far from the holy lands, they have meadowed in the material world, priories and churches dot the realm, empty and hollow for far too long. Naturally, inquiries about the nature of this southern 'Gilder' have also come, but they quickly pass. To even dwell on Him is to invite doubt, and right now doubt is as dangerous as any poison. Of course, the %companyname% stays at a distance. Sellswords that you are, you put faith in your sword and in the purse, and both got their dues in this war. The only philosophizing you'll be doing in the days to come is pondering just how soon the north and south will resume stating their differences. Perhaps now would be a good time to put up the sword and enjoy your crowns?\n\n%OOC%You've won! Battle Brothers is designed for replayability and for campaigns to be played until you've beaten one or two late game crises. Starting a new campaign will allow you to try out different things in a different world.\n\nYou can also choose to continue your campaign for as long as you want. Just be aware that campaigns are not intended to last forever and you're likely to run out of challenges eventually.%OOC_OFF%}"
-msgstr "[img]gfx/ui/events/event_84.png[/img]{低语他们的名字是将言语从舌尖变为非世俗的事物：旧神。 他们是超越时间的，他们的数量让人对明确性敬而远之。 对于不论对宗教熟悉与否的听众而言可喜的是，它同样在那些追随这些不明确个体的人在落败时给予巨大的压力。 圣战结束了，北方人输了。\n\n 你看着北方人互相试着解释这一切是怎么发生的。 这不是地上人的失败，也不是南方人的胜利－不，这是惩罚。 北方人放牧到了离圣地太远的地方，他们沉沦在物质世界的草场中，修道院与教堂点缀着国土，空洞已久，太久。 很自然的，对南方的所谓“镀金者”的调查也曾有过，但是他们很快就过去了。 即使是停留在他身上，也会引起怀疑，而现在怀疑就像毒药一样危险。 当然，%companyname% 保持着距离。 作为一个佣兵你的信仰在于剑和钱袋上，这两个都得到了这场战争中它们应得的。 在接下来的日子里，你唯一要做的哲学思考就是思考南北两国多久会重新开始陈述他们的分歧。 又或许这是时候放下剑来享受你的克朗？\n\n%OOC%你已经胜利了！战场兄弟是为可重玩性和战役而设计的，直到你在游戏后期打败了一两次危机。 开始一个新的战役会让你在不同的世界尝试不同的东西。\n\n你可以选择继续你的战役，只要你想。 只是要意识到，战役并不是要永远持续下去的，你可能最终会尝尽所有的挑战。%OOC_OFF%}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_outro_north_event.nut
-msgid "[img]gfx/ui/events/event_84.png[/img]{Faith placed in the old gods has been rewarded: the holy war is over, and the northerners stand victorious. Songs fill the air as crowds move as a mob, fists pumping, flags flying, becoming briefly uniform in a shared sense of piety. You stand by the wayside, your shoulders already wreathed in adornments, beads, necklaces, things of no material value, and yet they bear some weight which the wearer can only find by looking into the eyes of those who hand them out.\n\n Of course, certain dignities go unrealized in the celebration: the bodies of the defeated are put on display, thrashed in ways meant to satisfy the old gods that are watching, and holy totems of the Gilder are mocked, desecrated, and ultimately burned. And it is indeed certain that not a joyful soul will recognize you as a force in this cheerful culmination. You've merely slipped right into the background once more, sellsword, crownling, interloper. But the %companyname% made a small fortune in the religious endeavors. Despite the smiles and laughs, you know that strife such as this is buried in the mind, not in the earth, and someday someone or something will come and resurrect it, and there the company will await another glorious payday. Or perhaps now would be a good time to put up the sword and enjoy your crowns?\n\n%OOC%You've won! Battle Brothers is designed for replayability and for campaigns to be played until you've beaten one or two late game crises. Starting a new campaign will allow you to try out different things in a different world.\n\nYou can also choose to continue your campaign for as long as you want. Just be aware that campaigns are not intended to last forever and you're likely to run out of challenges eventually.%OOC_OFF%}"
-msgstr "[img]gfx/ui/events/event_84.png[/img]{对旧神们的虔诚信仰得到了回报：圣战结束了，北方人获得了胜利。 喜乐随着人群摆动，好友击着拳，旗帜飘扬，一切都以一种虔诚感而团结起来。 你站在路边，你的肩膀上环绕着装饰品，念珠，项链，没有什么物质价值的东西，但同时它们有一种只有在看入那些交出它们的人的眼睛时才能感到的重量。\n\n 当然，一些美德在庆祝中被无视了：败者的尸体被摆出展示，鞭打过，仿佛是为了满足注视着的旧神一般，还有镀金者的神圣图腾，被嘲弄，亵渎，并最终烧掉。 很显然没有一个欢快的灵魂在这种庆祝的高潮中承认你的贡献。 你只不过又一次滑入了幕后，佣兵，逐币者，入侵者。 但是 %companyname% 在这一系列宗教活动中收获不少。 抛开欢言笑语，你知道这种争端只是埋在了脑海中，而不是土里，总有一天什么人或什么东西会回来复活它，在那时战队将等到又一个荣耀的发薪日。 又或许现在是放下剑享受你挣到的克朗的好时候？\n\n%OOC%你已经胜利了！战场兄弟是为可重玩性和战役而设计的，直到你在游戏后期打败了一两次危机。 开始一个新的战役会让你在不同的世界尝试不同的东西。\n\n你可以选择继续你的战役，只要你想。 只是要意识到，战役并不是要永远持续下去的，你可能最终会尝尽所有的挑战。%OOC_OFF%}"
+msgid "[/color] Tools and Supplies."
+msgstr ""
 
 
 # scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
@@ -235,14 +131,103 @@ msgid "Let us end them with dignity"
 msgstr "让我们尊严的结束他们"
 
 
+# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
+msgid "Thank you for your generosity."
+msgstr "谢谢你的慷慨。"
+
+
+# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
+msgid "Thank you for your hospitality."
+msgstr "谢谢你的盛情款待。"
+
+
+# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
+msgid "Enjoyed the hospitality of nomads"
+msgstr "喜欢游牧民的好客"
+
+
+# scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
+msgid "Gained confidence in your leadership"
+msgstr "对你的领导有信心"
+
+
+# scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
+# scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
+msgid "Better they don't suffer any longer."
+msgstr "他们最好别再受苦了。"
+
+
+# scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
+msgid "The other crusaders did this to you?"
+msgstr "其他十字军对你做的？"
+
+
 # scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
 msgid "They have no place invading the north."
 msgstr "他们不该入侵北方。"
 
 
+# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
+msgid "What is %wildmanfull% doing over there?"
+msgstr "%wildmanfull% 在那干什么呢？"
+
+
+# scripts/events/events/dlc6/crisis/holywar_outro_south_event.nut
+# scripts/events/events/dlc6/crisis/holywar_outro_north_event.nut
+msgid "The %companyname% needs their commander!"
+msgstr "%companyname% 需要他们的指挥官！"
+
+
+# scripts/events/events/dlc6/crisis/holywar_occupied_south_event.nut
+# scripts/events/events/dlc6/crisis/holywar_occupied_north_event.nut
+msgid "The fires of religious turmoil burn bright."
+msgstr "宗教动乱之火熊熊燃烧。"
+
+
 # scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
 msgid "May the flies feast upon your decrepit flesh."
 msgstr "愿苍蝇享用你衰老的肉体。"
+
+
+# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
+msgid "Disliked that you killed and robbed your hosts"
+msgstr "不喜欢你杀害和抢劫你的主人"
+
+
+# scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
+msgid "Ah, he'll fit in with the rest of the misfits."
+msgstr "啊，他在我们这帮怪胎中会很合群的。"
+
+
+# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
+msgid "You don't follow the beliefs of your countrymen?"
+msgstr "你不追随你同胞的信仰？"
+
+
+# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
+msgid "And I'm about to make even more after you're dead."
+msgstr "在你死后，我会赚得更多。"
+
+
+# scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
+msgid "Only thing you've in your heart are these buzzards."
+msgstr "你心中只有秃鹫。"
+
+
+# scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
+msgid "Saw the light and accepted the sublimity of the Gilder"
+msgstr "看到了光明，接受了镀金者的庄严"
+
+
+# scripts/events/events/dlc6/crisis/holywar_outro_south_event.nut
+# scripts/events/events/dlc6/crisis/holywar_outro_north_event.nut
+msgid "It's time to retire from mercenary life. (End Campaign)"
+msgstr "是时候从雇佣兵生活中退休了。 （结束战役）"
+
+
+# scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
+msgid "Disliked that you ended the suffering of northern invaders"
+msgstr "不喜欢你结束了北方侵略者的苦难"
 
 
 # scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
@@ -265,119 +250,19 @@ msgid "Approved of your decision to end the suffering of fellow Gilded"
 msgstr "认可你决定结束镀金者同胞的痛苦"
 
 
-# scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
-msgid "[img]gfx/ui/events/event_71.png[/img]{The southerners are killed with dignity, or at least as much dignity a sword can afford. Of course, you kill them at length, not daring to lay a hand on their diseased bodies. After each is laid to rest, you take a look around the homestead. To your luck, and probably because the material was rubbing their skins raw, the sickly had lain some equipment off to the side. You have the brothers scrub it clean and take it with you onto the road. While leaving, there's some grousing about how maybe these men deserved worse, but others are quite fine with the mercy killings.}"
-msgstr "[img]gfx/ui/events/event_71.png[/img]{南方人被杀得很有尊严，至少是剑能给予他们的最后那一点尊严。 当然，你在动手的时候保持着距离，不敢碰他们感染恶疾的身体。 在每一个患者都安息后，你环顾了农庄。 幸运的，或许是因为它们的材质很容易擦伤他们的皮肤，病人们把一些装备放在了边上。 你让兄弟们把它擦干净后带上了路。 在离开的时候，有的人发牢骚，认为这些人应该承受更多折磨，但是其他人对于这种仁慈没有意见。}"
+# scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
+msgid "Disliked that you left fellow northerners to suffer a slow death"
+msgstr "不喜欢你让北方同胞慢慢死去"
 
 
-# scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
-msgid "[img]gfx/ui/events/event_71.png[/img]{Some of the southerners' gear has been taken off and placed about the room. You have the sellswords take these and scrub them clean. Going to the front door, you light a torch and tell them the Gilder shall be seeing them in his true self real soon. The soldiers beg for mercy, a writhing mass of silhouettes crawling toward you, groaning in weakness and fear. You close the door and set the rooftop alight before pitching the torch through a window.\n\nYou've taught your men well to not take it personal on these sorts of decisions, but you suspect some in the %companyname% might not care for this one.}"
-msgstr "[img]gfx/ui/events/event_71.png[/img]{有些南方人的装备被脱下放在房间四周。 你让佣兵们拿了这些并把他们擦干净。 走到前门，你点着了一个火炬并告诉他们镀金者很快会以他的真身会见他们。 士兵们乞求怜悯，一堆扭曲的身影向你爬来，虚弱的哀嚎着他们心中的恐惧。 你关上了门并点燃了屋顶之后将火炬丢入了窗户。\n\n你指导过你的手下不要把这种决策个人化，但是怀疑有些 %companyname% 的人在这件事上不顾这些。}"
+# scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
+msgid "Approved of your decision to end the suffering of fellow northerners"
+msgstr "同意你结束北方同胞苦难的决定"
 
 
-# scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
-msgid "[img]gfx/ui/events/event_71.png[/img]{You come across a homestead and think to pass it but all of a sudden the door swings open and a man falls out, legs scissoring across the porch until he falls flat in the front yard. Drawing your sword, you investigate him. Turning him over reveals a green and purple face, a mouth caked with vomit and dried blood, and hair falling out of his head. You leave the body and enter the homestead where you find more men like him. They're all southerners and seem to have come down with some northern illness that they are perhaps uninitiated to. Judging by the slovenly state of their equipment, they've been holed up here for quite some time.\n\n One of the southerners reaches out to you with a decrepit hand.%SPEECH_ON%Please, send us to the Gilder. The light of this world is no more.%SPEECH_OFF%}"
-msgstr "[img]gfx/ui/events/event_71.png[/img]{你遇到一个农庄，你本打算快速通过不料突然一扇门摆开了，一个男人从中倒出来，腿交叉过门厅，直到他平倒在前院。 拔出了剑，你检查了他。 翻过他显露出一张又绿又紫的脸，嘴上都是呕吐物与干掉的血，头发也不停的掉下来。 你离开他并进入农庄，在那里你找到了更多像他一样的人。 他们都南方人，染上了某种他们或许不了解的北方疾病。 通过他们装备的败坏程度，他们已经在这里待了有一段时间了。\n\n 其中一个南方人向你伸出他骨瘦如柴的手。%SPEECH_ON%求你了，将我们送往镀金者。 这个世界已经没有光了。%SPEECH_OFF%}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_occupied_north_event.nut
-msgid "[img]gfx/ui/events/event_%image%.png[/img]{News travels fast with a bit of religious spurring: %holysite% has been taken by northern crusaders! | Crusaders from the north have taken %holysite%. You're not sure if this means the war is soon to be at an end. It would be a shame if that were the case as all this strife has made for such great opportunities. | %holysite% has fallen under the banner of northern crusaders! While the old gods no doubt rejoice, the followers of the Gilder will presumably seek to have it taken back. This may present opportunities for the %companyname%.}"
-msgstr "[img]gfx/ui/events/event_%image%.png[/img]{信息传的很快，带着一点宗教味的刺激性：%holysite% 被北方十字军占领了！ | 来自北方的十字军占领了 %holysite%。你不确定这意味着战争是否很快就要结束了。 如果是的话那真是可惜，想想这场斗争创造了多少好机会。 | %holysite% 陷落于北方十字军旗下！ 毫无疑问，在旧神们欢呼时，镀金者的追随者将会试图夺回它。 这个可能的机会来到了 %companyname%。}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
-msgid "Take anything we can use."
-msgstr "带上我们能用的任何东西。"
-
-
-# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
-msgid "Thank you for your generosity."
-msgstr "谢谢你的慷慨。"
-
-
-# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
-msgid "Thank you for your hospitality."
-msgstr "谢谢你的盛情款待。"
-
-
-# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
-msgid "Enjoyed the hospitality of nomads"
-msgstr "喜欢游牧民的好客"
-
-
-# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
-msgid "What is %wildmanfull% doing over there?"
-msgstr "%wildmanfull% 在那干什么呢？"
-
-
-# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
-msgid "Disliked that you killed and robbed your hosts"
-msgstr "不喜欢你杀害和抢劫你的主人"
-
-
-# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
-msgid "You don't follow the beliefs of your countrymen?"
-msgstr "你不追随你同胞的信仰？"
-
-
-# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
-msgid "And I'm about to make even more after you're dead."
-msgstr "在你死后，我会赚得更多。"
-
-
-# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
-msgid "[img]gfx/ui/events/event_170.png[/img]{You finish your drink and tell the man your time with him was all very interesting. He goes to shake your hand at which point you put the sword through him. The rest of the company joins in and the battle is as short-lived as your sense of hospitality. The nomads have little worthwhile in their holding, but no one will know of what you've done here, though it's unlike they would care anyway.}"
-msgstr "[img]gfx/ui/events/event_170.png[/img]{你喝完了饮料并告知和他一起的时间非常有趣。 他伸出手向你握手时你的剑刺穿了他。 战队的其他人也加入进来，战斗如同你的好客般短暂。 游牧民们没有什么值钱的东西，但是没人会知道你在这里做了什么，本身他们也不大可能在意。}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
-msgid "[img]gfx/ui/events/event_170.png[/img]{You come across a band of nomads. Despite the severity of a war going on, they do not treat you as a threat. One welcomes you with a drink and the shade of an umbrella which you accept.%SPEECH_ON%I hope your travels have been kind, Crownling. You share a similarity with us dune runners, that of the interloper. The grievances between the north and south need not concern us.%SPEECH_OFF%He sips his own drink and nods.%SPEECH_ON%Though I suspect you have made a great deal of coin in the conflict. Some of my countrymen would consider you most faithful to the Gilder because of it.%SPEECH_OFF%}"
-msgstr "[img]gfx/ui/events/event_170.png[/img]{你遇到一群游牧民。 尽管战争惨烈的持续着，他们没有把你当做威胁。 一个人用饮品与可以遮阳的伞欢迎你，你接受了。%SPEECH_ON%我希望你的旅途坦荡，逐币者。 你和我们沙丘旅者有一些相似，特别在作为入侵者这件事上。 南北之间的恩怨我们没必要掺和进去。%SPEECH_OFF%他喝下他自己的饮料点头说道。%SPEECH_ON%不过我想你已经在冲突中赚了不少钱。 我的一些同胞会因此把你当做镀金者最忠实的信徒的。%SPEECH_OFF%}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
-msgid "[img]gfx/ui/events/event_170.png[/img]{The nomad laughs.%SPEECH_ON%In matters of faith, why would anyone think alike?%SPEECH_OFF%He gathers up his rugs and umbrellas.%SPEECH_ON%I have heard in the north that there are wildmen like us.%SPEECH_OFF%You purse your lips, holding back a laugh.%SPEECH_ON%We've men of the forest who have absconded civilization, aye. But they're a more... peculiar sort compared to you and yours. They are not so much like you.%SPEECH_OFF%Nodding, the nomad gives you a gift.%SPEECH_ON%But maybe they are and you just have not been listening to them.%SPEECH_OFF%He touches his chest with a fist then the nomads continue on their journey.}"
-msgstr "[img]gfx/ui/events/event_170.png[/img]{游牧民笑了。%SPEECH_ON%在信仰问题上，人怎么可能有共识呢？%SPEECH_OFF%他卷起他的杯子和伞。%SPEECH_ON%我听说在北方有像我们一样的野人。%SPEECH_OFF%你咬住嘴唇，尽力忍住不漏笑。%SPEECH_ON%我们有些人进入森林逃离了文明，没错。 但是他们更加…不寻常，特别是对比你和你的族群的时候。 他们不太像你。%SPEECH_OFF%点着头，游牧民给与了你一份礼物。%SPEECH_ON%或许我是错的，只是你从没有听从过他们。%SPEECH_OFF%他握成拳头击打了下胸口，游牧民们便重新上路了。}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
-msgid "[img]gfx/ui/events/event_170.png[/img]{%wildman% the wildman steps beneath the umbrella. The nomad stares at him, and the wildman at the nomad. You ask if they know each other. The nomad smiles.%SPEECH_ON%No, but yes. We've kindred spirits. I can see it in his eyes.%SPEECH_OFF%The wildman hoots and grunts, then turns and leaves. When you return your gaze to the nomad he is holding out a gilded dagger.%SPEECH_ON%Treasures, golds, those things which shine and catch a man's eye, they carry little value to me. I found this upon one of the Vizier's guards. We had slain him and his caravan for their food and water, the things which I believe most important. You may have the dagger, as nothing more than a gift.%SPEECH_OFF%You take it, but warn him that if he ambushes you the way he did the Vizier's men that you will perhaps use the very same dagger against him. The nomad nods.%SPEECH_ON%And yet it is still my gift. I would find the occasion to be of such irony that it could only be a pleasure to die in such a manner. There are worse ways to go here in the desert, friend.%SPEECH_OFF%}"
-msgstr "[img]gfx/ui/events/event_170.png[/img]{%wildman% 野人凑上来到伞下。 游牧民盯着他，野人也盯着游牧民。 你问他们彼此是否认识。游牧民笑道。%SPEECH_ON%不，但是的。我们有相似的灵魂。 我可以从他的眼中看到。%SPEECH_OFF%野人大笑着发出了咕哝声，之后便转身离开了。 当你看回游牧民时他握着一把镀金的匕首。%SPEECH_ON%宝藏，黄金，这些闪亮而引人注目的东西，他们对我而言毫无价值。 我在维齐尔的一个卫兵身上找到了这个。 我们为了水和食物杀了他及他护送的商队，我认为这是最重要的东西。 拿走这个匕首吧，当做是我的一个礼物。%SPEECH_OFF%你收下了它，但是警告他如果他像对维齐尔的人一般伏击你，你或许会用这把匕首对抗他。游民点头说。%SPEECH_ON%依然，这是我的礼物。 如果事态发展成如此讽刺的情景，我觉得死亡也是一件乐事。 在沙漠中有很多糟的多的死法，朋友。%SPEECH_OFF%}"
-
-
-# scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
-msgid "Was crucified"
-msgstr "被钉在十字架上"
-
-
-# scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
-msgid "Serves him well."
-msgstr "他罪有应得。"
-
-
-# scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
-msgid "You're welcome with us."
-msgstr "欢迎你加入我们。"
-
-
-# scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
-msgid "The other crusaders did this to you?"
-msgstr "其他十字军对你做的？"
-
-
-# scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
-msgid "Ah, he'll fit in with the rest of the misfits."
-msgstr "啊，他在我们这帮怪胎中会很合群的。"
-
-
-# scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
-msgid "Only thing you've in your heart are these buzzards."
-msgstr "你心中只有秃鹫。"
-
-
-# scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
-msgid "Saw the light and accepted the sublimity of the Gilder"
-msgstr "看到了光明，接受了镀金者的庄严"
+# scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
+msgid "Approved of your decision to leave northern invaders judged by the Gilder"
+msgstr "同意你决定让镀金者来审判北方侵略者"
 
 
 # scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
@@ -395,9 +280,29 @@ msgid "{[img]gfx/ui/events/event_161.png[/img]{You tell the man he'll be talking
 msgstr "{[img]gfx/ui/events/event_161.png[/img]{你跟他说他很快就会去见他的神或神们了。他叹了一口气。%SPEECH_ON%某种程度上，我罪有应得，而我也对此感到平静。%SPEECH_OFF%战队里对这件事的反应不一，这里不一指的是不同程度的幸灾乐祸。 毕竟，这个人同时背叛了天和地，很容易让他被任何人与所有人厌恶。}"
 
 
+# scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
+msgid "[img]gfx/ui/events/event_161.png[/img]{You come across a troop of men half-buried in sand. Northerners caught in a sandstorm over night. They're writhing in pain, the ones alive at least. Some have had their flesh rent from bone, and others are already being picked at by scorpions and buzzards. It seems some have killed themselves. Not one of the souls can be saved, they're just clinging on to the end.}"
+msgstr "[img]gfx/ui/events/event_161.png[/img]{你遇到一队半埋进沙子的士兵。 北方人，扎营过夜时被卷入沙尘暴。 他们在痛苦中哀嚎，至少还在活着那些。 有的人皮开肉绽，而其他的已经在被蝎子与秃鹫啄着。 看起来有的选择了自杀。 没有一个人可以被拯救，他们只是艰难的扒在终结的边缘。}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
+msgid "[img]gfx/ui/events/event_170.png[/img]{You finish your drink and tell the man your time with him was all very interesting. He goes to shake your hand at which point you put the sword through him. The rest of the company joins in and the battle is as short-lived as your sense of hospitality. The nomads have little worthwhile in their holding, but no one will know of what you've done here, though it's unlike they would care anyway.}"
+msgstr "[img]gfx/ui/events/event_170.png[/img]{你喝完了饮料并告知和他一起的时间非常有趣。 他伸出手向你握手时你的剑刺穿了他。 战队的其他人也加入进来，战斗如同你的好客般短暂。 游牧民们没有什么值钱的东西，但是没人会知道你在这里做了什么，本身他们也不大可能在意。}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
+msgid "[img]gfx/ui/events/event_161.png[/img]{You order the sellswords to strip the dying men of any useful gear. The crusaders can only mumble and groan as they are stripped of arms and armor. Their naked bodies are left to the burning sands, and as you depart with whatever scraps of useful gear the animals of the waste already begin to move in and feed. Mixed feelings run through the %companyname% about this decision, but ultimately contentions or support alike stay quiet.}"
+msgstr "[img]gfx/ui/events/event_161.png[/img]{你命令佣兵们从半死不活的士兵们身上扒下任何有用的装备。 十字军只能随着他们的武器和盔甲被拿走时嘟哝和哀嚎。 他们身体裸露在灼热的沙漠里，而随着你带着可用的废品离开，荒野上的动物们已经进场开始进食。 对于这一决定 %companyname% 有所争执，但是最终争论与支持都安静了下来。}"
+
+
 # scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
 msgid "{[img]gfx/ui/events/event_161.png[/img]{You draw out your dagger and cut the man down. He's got injuries aplenty but is no doubt of strong enough constitution to one day recover. He thanks you with remarkable mildness given the doom which awaited him.%SPEECH_ON%Glad to stretch. I mean, you know, stretch on my terms. Lead the way, captain of the Gilder's circumstance, captain of His mighty sublimity.%SPEECH_OFF%Many in the company do not care for taking in a man who has turned his back not only on his fellow man, but his own gods.}"
 msgstr "{[img]gfx/ui/events/event_161.png[/img]{你掏出你的匕首把他放了下来。 他显然受了很多伤，但以他的体格他能恢复过来。 用一种对于差点丧命的人而言出奇温和的态度，他向你表示感谢。%SPEECH_ON%终于能伸展一下了。我是说，你懂的，对我而言的伸展。 带路吧，镀金者命运的领路人，他强大威严的指引者。%SPEECH_OFF%战队里的许多人对于带上一个不仅背叛了他的同胞，还背叛了他的神的人有些不满。}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_occupied_north_event.nut
+msgid "[img]gfx/ui/events/event_%image%.png[/img]{News travels fast with a bit of religious spurring: %holysite% has been taken by northern crusaders! | Crusaders from the north have taken %holysite%. You're not sure if this means the war is soon to be at an end. It would be a shame if that were the case as all this strife has made for such great opportunities. | %holysite% has fallen under the banner of northern crusaders! While the old gods no doubt rejoice, the followers of the Gilder will presumably seek to have it taken back. This may present opportunities for the %companyname%.}"
+msgstr "[img]gfx/ui/events/event_%image%.png[/img]{信息传的很快，带着一点宗教味的刺激性：%holysite% 被北方十字军占领了！ | 来自北方的十字军占领了 %holysite%。你不确定这意味着战争是否很快就要结束了。 如果是的话那真是可惜，想想这场斗争创造了多少好机会。 | %holysite% 陷落于北方十字军旗下！ 毫无疑问，在旧神们欢呼时，镀金者的追随者将会试图夺回它。 这个可能的机会来到了 %companyname%。}"
 
 
 # scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
@@ -405,8 +310,103 @@ msgid "{[img]gfx/ui/events/event_161.png[/img]{The man nods.%SPEECH_ON%Aye, that
 msgstr "{[img]gfx/ui/events/event_161.png[/img]{这个人点头。%SPEECH_ON%是的，就是他们。 不过回想起来，当他们因为同样的原因把别人钉在十字架上时我也在场。 所以部分的讲，我选择跟着他的脚印不是什么明智之举，我也不是心地善良，因为我也是当时欢呼的人群中的一员。 不过或许镀金者会看到我心中真正的光，你知道吗？%SPEECH_OFF%他把他的头扭向天空，盯着上方盘旋的秃鹫。%SPEECH_ON%我还可以战斗，不管是和谁，南方人，北方人，不重要了。 镀金者在我心中。%SPEECH_OFF%}"
 
 
+# scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
+msgid "[img]gfx/ui/events/event_71.png[/img]{The southerners are killed with dignity, or at least as much dignity a sword can afford. Of course, you kill them at length, not daring to lay a hand on their diseased bodies. After each is laid to rest, you take a look around the homestead. To your luck, and probably because the material was rubbing their skins raw, the sickly had lain some equipment off to the side. You have the brothers scrub it clean and take it with you onto the road. While leaving, there's some grousing about how maybe these men deserved worse, but others are quite fine with the mercy killings.}"
+msgstr "[img]gfx/ui/events/event_71.png[/img]{南方人被杀得很有尊严，至少是剑能给予他们的最后那一点尊严。 当然，你在动手的时候保持着距离，不敢碰他们感染恶疾的身体。 在每一个患者都安息后，你环顾了农庄。 幸运的，或许是因为它们的材质很容易擦伤他们的皮肤，病人们把一些装备放在了边上。 你让兄弟们把它擦干净后带上了路。 在离开的时候，有的人发牢骚，认为这些人应该承受更多折磨，但是其他人对于这种仁慈没有意见。}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
+msgid "[img]gfx/ui/events/event_170.png[/img]{You come across a band of nomads. Despite the severity of a war going on, they do not treat you as a threat. One welcomes you with a drink and the shade of an umbrella which you accept.%SPEECH_ON%I hope your travels have been kind, Crownling. You share a similarity with us dune runners, that of the interloper. The grievances between the north and south need not concern us.%SPEECH_OFF%He sips his own drink and nods.%SPEECH_ON%Though I suspect you have made a great deal of coin in the conflict. Some of my countrymen would consider you most faithful to the Gilder because of it.%SPEECH_OFF%}"
+msgstr "[img]gfx/ui/events/event_170.png[/img]{你遇到一群游牧民。 尽管战争惨烈的持续着，他们没有把你当做威胁。 一个人用饮品与可以遮阳的伞欢迎你，你接受了。%SPEECH_ON%我希望你的旅途坦荡，逐币者。 你和我们沙丘旅者有一些相似，特别在作为入侵者这件事上。 南北之间的恩怨我们没必要掺和进去。%SPEECH_OFF%他喝下他自己的饮料点头说道。%SPEECH_ON%不过我想你已经在冲突中赚了不少钱。 我的一些同胞会因此把你当做镀金者最忠实的信徒的。%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
+msgid "[img]gfx/ui/events/event_161.png[/img]{Drawing your sword, you ask the men if they will accept the dignity of a swift death by your steel. They're too parched and starved to speak, but a few nod. One dies before he can even answer. You go to each, crouch, wish them well, and push the sword in. The skin cracks beneath the blade, and the dying men are briefly revivified by the piercing pain, and then they are relinquished from this world. A few in the company have varying opinions about this matter.\n\nYou have the sellsword pick up what things they can, though much of the equipment has been laid to waste by the fury of the desert.}"
+msgstr "[img]gfx/ui/events/event_161.png[/img]{拔出你的剑，你询问他们是否接受你所给予他们的尊严。 他们太渴，太饿，难以说话，但是几个人点头了。 其中一个在他能回答前便死去了。 你走过每一个人，蹲下，愿他们安息，并将剑推入。 皮肤在锋刃下裂开，正在死去的人们因疼痛短暂的恢复一丝活力后便不情愿的离开了这个世界。 队伍里的几个人对此有不同的意见。\n\n你让佣兵们拿上他们可以带走的，尽管大部分的装备都被狂躁的沙漠损坏了。}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
+msgid "[img]gfx/ui/events/event_71.png[/img]{Some of the southerners' gear has been taken off and placed about the room. You have the sellswords take these and scrub them clean. Going to the front door, you light a torch and tell them the Gilder shall be seeing them in his true self real soon. The soldiers beg for mercy, a writhing mass of silhouettes crawling toward you, groaning in weakness and fear. You close the door and set the rooftop alight before pitching the torch through a window.\n\nYou've taught your men well to not take it personal on these sorts of decisions, but you suspect some in the %companyname% might not care for this one.}"
+msgstr "[img]gfx/ui/events/event_71.png[/img]{有些南方人的装备被脱下放在房间四周。 你让佣兵们拿了这些并把他们擦干净。 走到前门，你点着了一个火炬并告诉他们镀金者很快会以他的真身会见他们。 士兵们乞求怜悯，一堆扭曲的身影向你爬来，虚弱的哀嚎着他们心中的恐惧。 你关上了门并点燃了屋顶之后将火炬丢入了窗户。\n\n你指导过你的手下不要把这种决策个人化，但是怀疑有些 %companyname% 的人在这件事上不顾这些。}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
+msgid "[img]gfx/ui/events/event_170.png[/img]{The nomad laughs.%SPEECH_ON%In matters of faith, why would anyone think alike?%SPEECH_OFF%He gathers up his rugs and umbrellas.%SPEECH_ON%I have heard in the north that there are wildmen like us.%SPEECH_OFF%You purse your lips, holding back a laugh.%SPEECH_ON%We've men of the forest who have absconded civilization, aye. But they're a more... peculiar sort compared to you and yours. They are not so much like you.%SPEECH_OFF%Nodding, the nomad gives you a gift.%SPEECH_ON%But maybe they are and you just have not been listening to them.%SPEECH_OFF%He touches his chest with a fist then the nomads continue on their journey.}"
+msgstr "[img]gfx/ui/events/event_170.png[/img]{游牧民笑了。%SPEECH_ON%在信仰问题上，人怎么可能有共识呢？%SPEECH_OFF%他卷起他的杯子和伞。%SPEECH_ON%我听说在北方有像我们一样的野人。%SPEECH_OFF%你咬住嘴唇，尽力忍住不漏笑。%SPEECH_ON%我们有些人进入森林逃离了文明，没错。 但是他们更加…不寻常，特别是对比你和你的族群的时候。 他们不太像你。%SPEECH_OFF%点着头，游牧民给与了你一份礼物。%SPEECH_ON%或许我是错的，只是你从没有听从过他们。%SPEECH_OFF%他握成拳头击打了下胸口，游牧民们便重新上路了。}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_occupied_south_event.nut
+msgid "[img]gfx/ui/events/event_%image%.png[/img]{News is coming that the Gilded ones have conquered %holysite%. What they plan to do with it, who knows. Maybe put up a gold-plated fence to keep the northerners out? You're mostly concerned the fighting might be nearing an end, and with it all the sweet religious honey the %companyname% has been eating up. | The Gilder's gleam must be brighter than ever now: %holysite% has fallen under control of the southerners. Perhaps the Gilded folk will ask the %companyname% to help defend it, or maybe the old gods will need a bit of proper gumption in taking it back. Either way, the %companyname% is still on the catbird seat for fattening its purse.}"
+msgstr "[img]gfx/ui/events/event_%image%.png[/img]{消息传来，镀金者们征服了 %holysite%。至于他们打算用它做什么，谁知道呢。 或许立起一圈镶金的栅栏来把北方人挡在外面？ 你最担心的是这场战斗可能接近尾声，随着所有那些 %companyname% 享受着的甜蜜的宗教甜点一起。 | 镀金者的光辉想必前所未有的闪亮：%holysite% 现在处于南方人的控制下。 或许镀金的人们会希望 %companyname% 来帮忙守住它，又或许旧神需要些真正有勇气的人来帮他们夺回它。 不论如何，%companyname% 依旧坐在让钱袋子变大的座位上。}"
+
+
 # scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
 msgid "{[img]gfx/ui/events/event_161.png[/img]{In the middle of the desert wastes one has to be somewhat suspicious of anything they come across, especially if it's a lone man on a cross. The crucified figure looks entirely dead, given the buzzards clerically perched on each shoulder, but as you draw near the birds take flight and the man lifts is head. Despite gruesome injuries to hands and feet, he's rather lively and asks for water. Instead of giving it to him, you ask why he's here. The man sighs.%SPEECH_ON%I was a crusader. Came in with the army looking to gain glory for the old gods. Except when I got down here, and got to talking with the locals and the priests, I had a change of heart.%SPEECH_OFF%}"
 msgstr "{[img]gfx/ui/events/event_161.png[/img]{在荒芜的沙漠中，人必须要对任何他们经过的东西保持怀疑，特别是十字架上钉了一个人的时候。 被钉在上面的人看起来死透了，秃鹫像牧师似的啄过了两肩，但随着你靠近把鸟赶走时这个人抬起了头。 尽管手脚严重受伤，他还算是活着并且请求给点水。 比起给他水，你选择先问问为什么他在这里。他叹了叹气。%SPEECH_ON%我曾经是个十字军战士。为了旧神的荣誉随军来到这里。 只是当我到了这里，与当地人和牧师们交谈过了之后，我的想法改变了。%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
+msgid "[img]gfx/ui/events/event_71.png[/img]{You come across a homestead and think to pass it but all of a sudden the door swings open and a man falls out, legs scissoring across the porch until he falls flat in the front yard. Drawing your sword, you investigate him. Turning him over reveals a green and purple face, a mouth caked with vomit and dried blood, and hair falling out of his head. You leave the body and enter the homestead where you find more men like him. They're all southerners and seem to have come down with some northern illness that they are perhaps uninitiated to. Judging by the slovenly state of their equipment, they've been holed up here for quite some time.\n\n One of the southerners reaches out to you with a decrepit hand.%SPEECH_ON%Please, send us to the Gilder. The light of this world is no more.%SPEECH_OFF%}"
+msgstr "[img]gfx/ui/events/event_71.png[/img]{你遇到一个农庄，你本打算快速通过不料突然一扇门摆开了，一个男人从中倒出来，腿交叉过门厅，直到他平倒在前院。 拔出了剑，你检查了他。 翻过他显露出一张又绿又紫的脸，嘴上都是呕吐物与干掉的血，头发也不停的掉下来。 你离开他并进入农庄，在那里你找到了更多像他一样的人。 他们都南方人，染上了某种他们或许不了解的北方疾病。 通过他们装备的败坏程度，他们已经在这里待了有一段时间了。\n\n 其中一个南方人向你伸出他骨瘦如柴的手。%SPEECH_ON%求你了，将我们送往镀金者。 这个世界已经没有光了。%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
+msgid "[img]gfx/ui/events/event_170.png[/img]{%wildman% the wildman steps beneath the umbrella. The nomad stares at him, and the wildman at the nomad. You ask if they know each other. The nomad smiles.%SPEECH_ON%No, but yes. We've kindred spirits. I can see it in his eyes.%SPEECH_OFF%The wildman hoots and grunts, then turns and leaves. When you return your gaze to the nomad he is holding out a gilded dagger.%SPEECH_ON%Treasures, golds, those things which shine and catch a man's eye, they carry little value to me. I found this upon one of the Vizier's guards. We had slain him and his caravan for their food and water, the things which I believe most important. You may have the dagger, as nothing more than a gift.%SPEECH_OFF%You take it, but warn him that if he ambushes you the way he did the Vizier's men that you will perhaps use the very same dagger against him. The nomad nods.%SPEECH_ON%And yet it is still my gift. I would find the occasion to be of such irony that it could only be a pleasure to die in such a manner. There are worse ways to go here in the desert, friend.%SPEECH_OFF%}"
+msgstr "[img]gfx/ui/events/event_170.png[/img]{%wildman% 野人凑上来到伞下。 游牧民盯着他，野人也盯着游牧民。 你问他们彼此是否认识。游牧民笑道。%SPEECH_ON%不，但是的。我们有相似的灵魂。 我可以从他的眼中看到。%SPEECH_OFF%野人大笑着发出了咕哝声，之后便转身离开了。 当你看回游牧民时他握着一把镀金的匕首。%SPEECH_ON%宝藏，黄金，这些闪亮而引人注目的东西，他们对我而言毫无价值。 我在维齐尔的一个卫兵身上找到了这个。 我们为了水和食物杀了他及他护送的商队，我认为这是最重要的东西。 拿走这个匕首吧，当做是我的一个礼物。%SPEECH_OFF%你收下了它，但是警告他如果他像对维齐尔的人一般伏击你，你或许会用这把匕首对抗他。游民点头说。%SPEECH_ON%依然，这是我的礼物。 如果事态发展成如此讽刺的情景，我觉得死亡也是一件乐事。 在沙漠中有很多糟的多的死法，朋友。%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_flavor_south_settlement_event.nut
+msgid "{[img]gfx/ui/events/event_97.png[/img]Children peep their heads over a sand dune, just missing another group of children hiding in the shade of a defilade. When the first troop come over the top, the ambushing kids jump out and stab them with sticks and slay them down.%SPEECH_ON%Death to the northerners, may the Gilder's gaze shine upon us!%SPEECH_OFF%The slain kids slide down the dune, limp and lifeless, before jolting back to their feet and arguing that it is their turn to play the 'good guys.' It seems the holy war has already invigorated the next generation to be ready when their time comes. | [img]gfx/ui/events/event_166.png[/img]Rows and rows of the faithful bend to the sands to give their prayers to the Gilder. All manner of men and women and children alike, and dissimilar, being that there were wealthy merchants beside impoverished beggars. The only real standouts are the Vizier and the councilmen, who all pray beside the priests at the head of the procession. That is if these men are praying at all: as far as you can tell, the council is whispering amongst themselves, some not paying the slightest bit of attention to the ceremony.}"
+msgstr "{[img]gfx/ui/events/event_97.png[/img]孩子们从沙丘后探出头来，错过了另一群躲在遮蔽物阴影下的孩子。 当第一批士兵越过顶端，埋伏着的孩子们跳出来用木棍扎他们并将他们击倒。%SPEECH_ON%死吧北方人，让镀金者的目光沐浴我们！%SPEECH_OFF%被击倒的孩子们耷拉着滑下沙丘，直到他们突然跳起并开始争论是时候让他们来扮演“好家伙.” 看来圣战已经激励了下一代，让他们在时机成熟时做好准备。 | [img]gfx/ui/events/event_166.png[/img]一排又一排的忠实信徒们趴向沙漠以向镀金者祈祷。 各种各样的人，男人，女人，儿童，也有不同之处，一些贫穷的乞丐旁边还有富商。 唯一的突出者是维齐尔与议员们，他们都在游行队伍前面的牧师旁边祈祷 这是说如果他们真的在祈祷的话：至少从你这里看，议会成员间在轻声低语着什么，有的对仪式毫无关注。}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_flavor_north_settlement_event.nut
+msgid "{[img]gfx/ui/events/event_41.png[/img]A wagon is stopped on the side of the road. You find a man looking at a wide variety of wares. He turns to your and speaks.%SPEECH_ON%Ah, a sellsword. I imagine you're apart of the holy war, huh? Well, I hope you do right by your gods. I know coin's important, but there's more to life, and more after, understand?%SPEECH_OFF% | [img]gfx/ui/events/event_97.png[/img]You find a few children playfighting each other, some dressed up in loose clothing like you'd find in the southern deserts. The latter bunch fall easy to the preying swords of the more northern dressage.%SPEECH_ON%Ah-ha! The Gilded fall, and may the old gods take the glory we've to give!%SPEECH_OFF%The kids calm down and then reset to positions. This time, they change guard, each exchanging clothes until the 'bad guys' become 'good guys' and then the play resumes. The holy war of the future will not be on short supply of faithful fighters, that's certain. | [img]gfx/ui/events/event_40.png[/img]You come across a monk reading a scroll. He states that the old gods have willed the north to victory, and that glory shall be shared in terraria and more. You ask what happens if the north loses. It is a brazen question, certainly, yet he takes it on the chin with a smile.%SPEECH_ON%Do not fool yourself, sellsword, in thinking that our holy war today is all that there will be. These wars will continue until an obvious end, and it will be at that end where we shall find most glory. I pray I live to see it, but my father and his father prayed the same, and alas I believe it will be my son who shall see the holy war brought to their righteous end.%SPEECH_OFF%}"
+msgstr "{[img]gfx/ui/events/event_41.png[/img]一辆载重货车停在路边。 你发现一个人照看着多种多样的商品。 他转身面向你说道。%SPEECH_ON%啊，一个佣兵。我想你也参加了圣战，哏？ 我希望你做了你的神认为是正确的事情。 我知道钱是重要的，但是生命中有更多含义，以及更多在那之后，懂吗？%SPEECH_OFF% | [img]gfx/ui/events/event_97.png[/img]你发现几个儿童在玩战争游戏，有些穿着似南方沙漠中的的宽松衣服。 他们轻松的被更北方穿着的孩子们用木剑击中。%SPEECH_ON%啊哈！镀金者倒下了，让旧神拥有我们赢来的荣誉！%SPEECH_OFF%孩子们冷静下来便回到预定位置上。 这一次，他们互换队伍，每个人交换着衣服直到“坏家伙”成为“好家伙”然后他们再从头开始。 未来的圣战不会缺少忠诚的战士，这一点是可以肯定的。 | [img]gfx/ui/events/event_40.png[/img]你遇到一个正在阅读一份卷轴的僧侣。 他声称胜利是旧神们的旨意，而荣光将永照大地什么什么的。 你问他如果北方人输了怎么办。 一个厚脸皮的问题，当然，但是他带着微笑接下了它。%SPEECH_ON%不要骗自己，佣兵，特别是认为我们今天的圣战就是全部了。 这些战争会延续下去直到一个显而易见的结果，而这个结果将会是我们拥有最多的荣誉。 我祈祷我活到见证它的那一天，但是我的父亲与他的父亲都这么祈祷过，所以最终我相信我的儿子将能见证圣战正义的结局。%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_outro_south_event.nut
+msgid "[img]gfx/ui/events/event_84.png[/img]{Faith placed in the Gilder has been rewarded: the holy war is over, and the southerners stand victorious. The Vizier, councilmen, and clergy alike are found in the streets, each riding great wagons which, in place of wheels, are lofted on the backs of slaves. Northern slaves, particularly, indebted to the Gilder for their crimes. You can hardly see the men, just their legs black in shadow as though a procession of swaying beetles was on the go. The wealthy and profligate men take great chalices and hurl what looks like golden water upon the cheering faithful. You yourself lean into one of these splashes, but find it is merely just tinted water.\n\n While the faux fortunes served only to slake your thirst, the very real war between the followers of the old gods and the Gilded themselves served to fill the %companyname%'s treasury. As a Crownling, you'll never find the respect of bared heads and bowed bodies, nor the prostrations of peasants, nor the gleam of gold too heavy for any one man to carry. That is the reality for you, but that won't stop the company from being ready the next time the pious wanna have a squabble over righteousness. Or perhaps now would be a good time to put up the sword and enjoy your crowns?\n\n%OOC%You've won! Battle Brothers is designed for replayability and for campaigns to be played until you've beaten one or two late game crises. Starting a new campaign will allow you to try out different things in a different world.\n\nYou can also choose to continue your campaign for as long as you want. Just be aware that campaigns are not intended to last forever and you're likely to run out of challenges eventually.%OOC_OFF%}"
+msgstr "[img]gfx/ui/events/event_84.png[/img]{对镀金者虔诚的信仰得到了回报：圣战结束了，南方人获得了胜利。 维齐尔，议员，神职者之类在街道上，每一个都乘坐着巨大的载重货车，轮子被奴隶替代了的车。 尤其是北方奴隶，因他们对镀金者的罪孽而负债。 你几乎看不到那些人，只是他们的腿在阴影下的黑影，就好像甲虫成队列在前进一般。 富有而奢侈的人们举起巨大的酒杯向欢呼的忠实信徒们抛出看起来像是金色的水的东西。 你自己探身去检测这些泼洒，只发现这原来不过是染过色的水。\n\n 尽管这种假冒的财富只能够满足你的口渴，旧神与镀金者信徒间真实的战争本身已经把 %companyname%的宝箱塞满了。 作为一个逐币者，你从未受到过光头的和屈身的人的尊重，也没有农民的拜倒，亦没有重到一个人搬不动的黄金的微光。 这就是你的现实，但是那不会阻止你的战队在下一次虔诚者们想要争论什么是正义时做好准备。 又或许现在是放下剑享受你挣到的克朗的好时候？\n\n%OOC%你已经胜利了！战场兄弟是为可重玩性和战役而设计的，直到你在游戏后期打败了一两次危机。 开始一个新的战役会让你在不同的世界尝试不同的东西。\n\n你可以选择继续你的战役，只要你想。 只是要意识到，战役并不是要永远持续下去的，你可能最终会尝尽所有的挑战。%OOC_OFF%}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_flavor_north_outside_event.nut
+msgid "{[img]gfx/ui/events/event_95.png[/img]The homestead is a smoldering ruin and its occupants have all been beheaded save one. An unlucky figure has instead been prostrated and spread-eagled on the ground and has been set afire from what looks like the belly out: his chest is a cratered, ashen ruin, and his limbs blackened and charred, yet still skeletal in their remains. His face is untouched, perhaps by design, and by the look of him he did not die in a manner you'd find suitable to anyone, not even your own enemies. | [img]gfx/ui/events/event_02.png[/img]You find some southern soldiers hanging from a tree, their eyes long since plucked by crows and their feet by fortune hunters. They twist listlessly in the wind and none of the locals seem in a hurry to cut them down. | [img]gfx/ui/events/event_60.png[/img]A wagon train is splattered to both sides of a path, the wood and material littering the fields beside them. Everything of value has been taken, and the merchant slain to the last. The wounds indicate southern intents, yet the mortal carvings don't quite seem as clean as you're used to seeing. This could very well be the work of thieves using the holy war as cover. Either way, there's nothing of value left and you have the men continue on. | [img]gfx/ui/events/event_132.png[/img]You find a battlefield, though your arrival is far too late to make any dramatic appearance: the dead are all over the place, southern and northern, and the sutlers and scavengers and scapegraces have already looted the entirety of the aftermath. Judging the frail appearances of a big heap of southerners piled in one spot, and fast footed retreat from it, you've little doubt the Gilded threw forward their indebted souls to spare the rest of the troop.}"
+msgstr "{[img]gfx/ui/events/event_95.png[/img]农庄被烧毁，它的居民全都被斩首，除了其中一个。 这个不幸的人呈飞鹰状的被压在地上，火势看来是从腹部开始的：他的胸口成了一个灰黑的坑，他的骨瘦如柴四肢亦是焦黑。 他的面部则没有受损，可能是故意的，而从他的表情看来即使是你的敌人也不该如此死去。 | [img]gfx/ui/events/event_02.png[/img]你找到了一些被吊在树上的南方士兵，他们的眼球早已被乌鸦啄走，脚则是那些碰运气的捕食者。 他们无序的在风中摇摆，当地人看起来并不急着把他们放下来。 | [img]gfx/ui/events/event_60.png[/img]一个车队散落在道路的两旁，木材与零件随着它们散布在附近的草地上。 一切有价值的东西都被拿走了，而商人也全都被杀了。 伤口上可以看出是南方人的武器，但是这些致命的雕刻看起来不像你过去看过的一般简洁。 这很有可能是贼匪借着圣战掩护下的作为。 不论如何，这里没有什么有价值的东西留下，于是你让手下们继续前进。 | [img]gfx/ui/events/event_132.png[/img]你找到了一个战场，尽管你的到来对于一个戏剧性的出场而言太迟了：死者到处都是，南方人与北方人，小贩与拾荒者还有恶棍们已经把这场战斗打扫干净了。 通过时不时出现的南方人尸体堆，以及这些尸体堆边仓促的撤退痕迹来看，你可以肯定那帮镀金者让负债者们成为了掩护他们撤退的牺牲品。}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_outro_north_event.nut
+msgid "[img]gfx/ui/events/event_84.png[/img]{Uttering their name is to draw words from tongue to intemporal: the old gods. They are beyond time, and their vast number invoke awe over specificity. Endearing as this is to any listener familiar or not with the faith, it also brings greater weight to any defeat of those who follow these unbranded beings. The crusades are over, and the northerners have lost.\n\n You watch as the northerners try and explain it to one another how it came to pass. It was not a terrestrial defeat here, nor even a victory by the southerners - no, this was punishment. Northerners have grazed far from the holy lands, they have meadowed in the material world, priories and churches dot the realm, empty and hollow for far too long. Naturally, inquiries about the nature of this southern 'Gilder' have also come, but they quickly pass. To even dwell on Him is to invite doubt, and right now doubt is as dangerous as any poison. Of course, the %companyname% stays at a distance. Sellswords that you are, you put faith in your sword and in the purse, and both got their dues in this war. The only philosophizing you'll be doing in the days to come is pondering just how soon the north and south will resume stating their differences. Perhaps now would be a good time to put up the sword and enjoy your crowns?\n\n%OOC%You've won! Battle Brothers is designed for replayability and for campaigns to be played until you've beaten one or two late game crises. Starting a new campaign will allow you to try out different things in a different world.\n\nYou can also choose to continue your campaign for as long as you want. Just be aware that campaigns are not intended to last forever and you're likely to run out of challenges eventually.%OOC_OFF%}"
+msgstr "[img]gfx/ui/events/event_84.png[/img]{低语他们的名字是将言语从舌尖变为非世俗的事物：旧神。 他们是超越时间的，他们的数量让人对明确性敬而远之。 对于不论对宗教熟悉与否的听众而言可喜的是，它同样在那些追随这些不明确个体的人在落败时给予巨大的压力。 圣战结束了，北方人输了。\n\n 你看着北方人互相试着解释这一切是怎么发生的。 这不是地上人的失败，也不是南方人的胜利－不，这是惩罚。 北方人放牧到了离圣地太远的地方，他们沉沦在物质世界的草场中，修道院与教堂点缀着国土，空洞已久，太久。 很自然的，对南方的所谓“镀金者”的调查也曾有过，但是他们很快就过去了。 即使是停留在他身上，也会引起怀疑，而现在怀疑就像毒药一样危险。 当然，%companyname% 保持着距离。 作为一个佣兵你的信仰在于剑和钱袋上，这两个都得到了这场战争中它们应得的。 在接下来的日子里，你唯一要做的哲学思考就是思考南北两国多久会重新开始陈述他们的分歧。 又或许这是时候放下剑来享受你的克朗？\n\n%OOC%你已经胜利了！战场兄弟是为可重玩性和战役而设计的，直到你在游戏后期打败了一两次危机。 开始一个新的战役会让你在不同的世界尝试不同的东西。\n\n你可以选择继续你的战役，只要你想。 只是要意识到，战役并不是要永远持续下去的，你可能最终会尝尽所有的挑战。%OOC_OFF%}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_outro_north_event.nut
+msgid "[img]gfx/ui/events/event_84.png[/img]{Faith placed in the old gods has been rewarded: the holy war is over, and the northerners stand victorious. Songs fill the air as crowds move as a mob, fists pumping, flags flying, becoming briefly uniform in a shared sense of piety. You stand by the wayside, your shoulders already wreathed in adornments, beads, necklaces, things of no material value, and yet they bear some weight which the wearer can only find by looking into the eyes of those who hand them out.\n\n Of course, certain dignities go unrealized in the celebration: the bodies of the defeated are put on display, thrashed in ways meant to satisfy the old gods that are watching, and holy totems of the Gilder are mocked, desecrated, and ultimately burned. And it is indeed certain that not a joyful soul will recognize you as a force in this cheerful culmination. You've merely slipped right into the background once more, sellsword, crownling, interloper. But the %companyname% made a small fortune in the religious endeavors. Despite the smiles and laughs, you know that strife such as this is buried in the mind, not in the earth, and someday someone or something will come and resurrect it, and there the company will await another glorious payday. Or perhaps now would be a good time to put up the sword and enjoy your crowns?\n\n%OOC%You've won! Battle Brothers is designed for replayability and for campaigns to be played until you've beaten one or two late game crises. Starting a new campaign will allow you to try out different things in a different world.\n\nYou can also choose to continue your campaign for as long as you want. Just be aware that campaigns are not intended to last forever and you're likely to run out of challenges eventually.%OOC_OFF%}"
+msgstr "[img]gfx/ui/events/event_84.png[/img]{对旧神们的虔诚信仰得到了回报：圣战结束了，北方人获得了胜利。 喜乐随着人群摆动，好友击着拳，旗帜飘扬，一切都以一种虔诚感而团结起来。 你站在路边，你的肩膀上环绕着装饰品，念珠，项链，没有什么物质价值的东西，但同时它们有一种只有在看入那些交出它们的人的眼睛时才能感到的重量。\n\n 当然，一些美德在庆祝中被无视了：败者的尸体被摆出展示，鞭打过，仿佛是为了满足注视着的旧神一般，还有镀金者的神圣图腾，被嘲弄，亵渎，并最终烧掉。 很显然没有一个欢快的灵魂在这种庆祝的高潮中承认你的贡献。 你只不过又一次滑入了幕后，佣兵，逐币者，入侵者。 但是 %companyname% 在这一系列宗教活动中收获不少。 抛开欢言笑语，你知道这种争端只是埋在了脑海中，而不是土里，总有一天什么人或什么东西会回来复活它，在那时战队将等到又一个荣耀的发薪日。 又或许现在是放下剑享受你挣到的克朗的好时候？\n\n%OOC%你已经胜利了！战场兄弟是为可重玩性和战役而设计的，直到你在游戏后期打败了一两次危机。 开始一个新的战役会让你在不同的世界尝试不同的东西。\n\n你可以选择继续你的战役，只要你想。 只是要意识到，战役并不是要永远持续下去的，你可能最终会尝尽所有的挑战。%OOC_OFF%}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_flavor_south_outside_event.nut
+msgid "{[img]gfx/ui/events/event_132.png[/img]You find the disassembled remains of a battlefield: a litter of unusables with corpses so shriveled it's hard to discern to which side they belonged. The scraphunters no doubt took anything of use. | [img]gfx/ui/events/event_132.png[/img]A smoldering wagon with its owner left beside it, headless, and the rest of his body plucked to the bone. Given the war going on, it's hard to say who exactly is responsible for it. | [img]gfx/ui/events/event_132.png[/img]You find the defaced remains of an old gods banner, staked into the sands with a headless corpse strung up on the pole. No doubt a northerner, the body is practically bubbling in appearance as sand lizards snake to and fro, trying to get the last of the good morsels. There's a smattering of more bodies across the sands, most crawling with beetles or being tugged at by snakes and other vulturous creatures. | [img]gfx/ui/events/event_167.png[/img]You find a dead northern man propped up in the sands, his arms and legs bound to a wooden chair. In front of him is a large pole with a catch frame and ropes which hang limp from its corners. It seems it once held something large and rotund. The man's head has a hole bored through it, and the wound is unlike any you've ever seen: it's almost as if they drilled through it with heat alone. Perhaps the Gilded used the reflection of a great medallion to intensify the sun? It's hard to say. | [img]gfx/ui/events/event_167.png[/img]You find a row of corpses in the sand, and upon closer inspection find they're all southern women and what looks like a man who could possibly be on a Vizier's council. All their heads have been removed and placed upon their backs, the eyes facing their buttocks. You're not sure what any of this means, but no doubt it is the result of internal quarrels within the Vizier's own ranks. There's nothing of value to take so you have the men move on.}"
+msgstr "{[img]gfx/ui/events/event_132.png[/img]你找到了一片杂乱的战场遗迹：干瘪的尸体凌乱的散步着，很难说他们是哪边的。 拾荒者无疑拿走了一切有用的东西。 | [img]gfx/ui/events/event_132.png[/img]一驾载重货车散发着黑烟，它的主人躺在一边，没有头，剩下的尸体也露出了白骨。 随着这场战争持续下去，很难说到底谁该为此负责。 | [img]gfx/ui/events/event_132.png[/img]你找到了一杆旧神的旗帜，上面的神像被抹去面容，扎在沙地里，一个无头的尸体被插在上面。 无疑是一个北方人，尸体随着沙漠蜥蜴们为最后一点食物进出而看似起泡一般。 更多的尸体零星的散步在沙地上，大多数被甲虫爬满或者被蛇还有什么其他食腐动物拖拽着。 | [img]gfx/ui/events/event_167.png[/img]你找到一个撑在沙漠上的北方人尸体，他的手脚绑在一个木制椅子上。 在其前方是一个大号的柱子，带有框架与角落上耷拉着的绳索。 看起来它曾经挂着什么大而圆的东西。 尸体的头上有一个洞，一种你没见过的伤口：就好像纯粹的热能就这么钻了过去。 也许镀金的家伙们用了一个很大的吊坠来强化太阳光的反射？ 很难说。 | [img]gfx/ui/events/event_167.png[/img]你在沙地中找到了一排尸体，在更近距离的观察后辨认出是一群南方女人以及一个看起来可能出现在维齐尔议会上的男人。 它们的头在移除后放在它们的背上，眼睛面向它们的臀部。 你不确定这些都有什么含义，不过这无疑是维齐尔内部纠纷的结果。 看起来再没有什么有价值的东西所以你让手下继续前进。}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_outro_south_event.nut
+msgid "[img]gfx/ui/events/event_84.png[/img]{You recall the followers of the Gilder to once be united in their pursuit of leveling the old gods. Some misplaced notion that, were they to satisfy their God enough, He would put his powerful eye upon all enemies of His faithful and obliterate them. Instead, the Gilded find their resolve greatly tested: they have lost the holy war. Cities and towns have been burned, holy totems desecrated, and sacred grounds looted.\n\n Crowds of people listlessly shift about in the streets, wailing now and again, not with purpose, but as though they've lost all language to articulate the pain they must now endure. On occasion, a body will plummet from above, or you find the guards pulling corpses out of the well only for an onlooker to pitch herself in. A few prostrate themselves before golden relics, letting themselves cook in the sun struck glare of the shiny emblems, the grief stricken crawling beneath the simmering reflections until their skins turn to crust and their throats choke on their own flesh, and as the sun comes and goes, bodies lay in the wake of its stare. As for the %companyname%, you've put yourself to one side or the other, and regardless of winners or losers, you made a small fortune. For the future you need not wish to have the opportunity again, either: if there's one thing you know about a man of faith it's that defeat is only but one strike upon the hardening iron. With all that you've achieved, perhaps now would be a good time to put up the sword and enjoy your crowns?\n\n%OOC%You've won! Battle Brothers is designed for replayability and for campaigns to be played until you've beaten one or two late game crises. Starting a new campaign will allow you to try out different things in a different world.\n\nYou can also choose to continue your campaign for as long as you want. Just be aware that campaigns are not intended to last forever and you're likely to run out of challenges eventually.%OOC_OFF%}"
+msgstr "[img]gfx/ui/events/event_84.png[/img]{你回想起镀金者的追随者们曾经团结在他们抗衡旧神们的追求中。 有些人误认为，如果他们让他们的神足够满意，他就会将他强大的眼睛用来把他忠实的信徒们的敌人摧毁。 与之相对，镀金者发现他们的意志面临着极大的考验：他们在这场圣战中输了。 城市，城镇都被烧毁了，神圣的图腾被亵渎，圣地亦被洗劫一空。\n\n 大量的人群散乱的在街上游荡，时不时号啕大哭，没有什么明确的目的，只是如同他们失去了能够表述他们现在承受的痛苦的所有言语。 时不时的，一个尸体就会从上面掉下来，你看到卫兵们从井中捞出尸体时旁观者中的一个女人自己投身进去。 数个人伏在金制的圣物前，任自己受其上纹章在阳光下反射出的光线灼烧，饱受悲伤煎熬的悲怆者趴在炙热的反射下直到他们的皮肤结成硬壳，喉咙因他们自己的血咳嗽，日升日落，他们就这么承受着它的注视。 至于 %companyname%，你投身于其中一方或另一方，不论输赢，你获得了一份微小的财富。 对于未来，你也无需期盼这样的机会再次出现：如果关于信教者有什么是你可以确信的，那便是失败不过是愈加硬化的钢铁上的一击而已。 以你的成就，或许现在是时候放下剑享受你挣到的克朗？\n\n%OOC%你已经胜利了！战场兄弟是为可重玩性和战役而设计的，直到你在游戏后期打败了一两次危机。 开始一个新的战役会让你在不同的世界尝试不同的东西。\n\n你可以选择继续你的战役，只要你想。 只是要意识到，战役并不是要永远持续下去的，你可能最终会尝尽所有的挑战。%OOC_OFF%}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_intro_south_event.nut
+msgid "[img]gfx/ui/events/event_163.png[/img]{%SPEECH_START%May our paths be gilded in the days to come.%SPEECH_OFF%The priest speaks loudly to his congregation.%SPEECH_ON%I ask of you, faithful, where is the light brightest?%SPEECH_OFF%A throng of peasants murmur about themselves. Finally, the priest holds his hand up.%SPEECH_ON%It is upon the horizon, fighting against the shade of the earth herself, that we find the Gilder's gleam to be its fiercest. And we are now fighting against the shade, and the horizon is not the earth, but the improprieties of the northern stock who dare to profane the holy lands!%SPEECH_OFF%The crowd, once confused, is suddenly unified, seemingly all too knowledgeable about religious war. The priest grins.%SPEECH_ON%That is right, I see your hearts burn with the fire of the Gilder already! We must defend the sacred grounds no matter the cost!%SPEECH_OFF%Again, the crowd roars. You're not sure what to make of the peoples themselves, but if there's one thing you know about war it is that it is good for business and a bit of holy fury might make it all the better. | The Vizier has made a rare appearance for the plebs of his land, and beside him is the greater councils of nearby cities. But he does not speak. A man clothed in gold steps forward instead.%SPEECH_ON%The path of us all has been gilded, has it not?%SPEECH_OFF%Far less gleaming than the priest, the crowd murmur amongst themselves, though none dare to contradict the holy man's assertion. The priest continues.%SPEECH_ON%The Gilder has spoken to many of us, and revealed to us a new event threat: the northerners, spurred by their so-called old gods, have swept south. They entertain the thought of a crusade! To come here, right here, and take all our lands and sacred grounds. You see, the Gilder's shine shows us the path, but perhaps to others it is far too blinding. These northerners do not understand, but we will teach them, and by the Gilder's fire we shall!%SPEECH_OFF%The crowd roars to life and any sense of hesitancy is long gone. You chow down on a local delicatessen and wonder just how much money you're going to make in this holy war to come.}"
+msgstr "[img]gfx/ui/events/event_163.png[/img]{%SPEECH_START%让我们的未来的道路金光闪耀。%SPEECH_OFF%牧师大声的向他的会众们说道。%SPEECH_ON%我问你们，忠实信徒，哪里的光最为闪亮？%SPEECH_OFF%一大群农民互相间低语着。 最后，牧师举起他的手。%SPEECH_ON%是在地平线上，对抗大地她本身的阴影，在那我们才能找到镀金者最强烈的光辉。 现在我们正与那阴影战斗，而地平线上并非大地而是胆敢亵渎圣地的北方无礼崽种！%SPEECH_OFF%人群，一开始有点困惑，突然团结一致，看起来对宗教战争太过了解了。牧师嘴角上扬。%SPEECH_ON%这就对了，我已经可以看到你们心中燃烧着的镀金者之火！ 我们必须不惜代价保卫我们的圣地！%SPEECH_OFF%又一次，回应他的是人群的吼声。 你不知道该怎么理解这群人，但是你知道战争意味着生意而一点额外的宗教狂热可以让生意更好。 | 维齐尔罕见的出现在他土地上的平民前，周边城市的大议会议员们簇拥在他身边。 但他一言不发。 一个身着真金的男人走上前来。%SPEECH_ON%我们的旅途都金光闪耀，不是吗？%SPEECH_OFF%远不如这个牧师般闪亮，人群熙熙攘攘的小声交谈着，尽管没人胆敢反对圣人的主张。牧师继续道。%SPEECH_ON%镀金者对我们中的许多人透露了一个新的威胁事件：北方人在他们所谓的旧神的刺激下，已经席卷南方。 他们可笑的声称，这是一场圣战！ 为了到这来，就这里，来夺走我们的领土与圣地。 很显然，镀金者的光芒给我们展示了道路，但或许对于他人而言这太过耀眼。 这些北方人不明白，但我们会教给他们的，以镀金者的圣火之名教给他们！%SPEECH_OFF%人群嘶吼的活跃起来，任何迟疑都烟消云散了。 你吃下一口当地菜肴，开始寻思你在这场将要到来的圣战能中赚到多少。}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_warnings_event.nut
+msgid "%terrainImage%{A peasant passes you on the path. He mentions off-hand that he doesn't understand why gods would have their followers fight each other. If it really wanted to be settled, why not do it themselves? You grab him by the shirt and ask what he's blathering about. He pulls away.%SPEECH_ON%Oy! Hands off, or I'll nip ya! And I'm just grousing, thass'all. Lotta talk going around about the Gilded folk and the followers of the old gods butting heads. Again. Now lemme bitch in peace!%SPEECH_OFF%The man walks off, mumbling and, ironically, getting louder in volume the further away he gets from you. | You come across a congress of Gilded and old gods' monks alike. They're discussing the possibility of an upcoming war, and how to protect themselves if such a time comes to pass. It's admirably amicable, all told, but it does seem there's a hint of religious reckoning in the air. | A man fixing a wagon beside the road shakes his head.%SPEECH_ON%You know, I'd just like to go from one spot of the world t'another, and that be that. But no. Farking... something! Always something! Has gotta go wrong. Hey, speaking of wheels, here's one I hear turning: the Gilder and the old gods might be knocking heads again. Seen storm clouds of it. Holy war in the sky. Which means holy war here. I hope to get clear of it before it starts. You seen the last one? Nasty business.%SPEECH_OFF%You're sure it is, but nasty business means good business for the %companyname%. | %SPEECH_ON%Knees bothering me.%SPEECH_OFF%You look over to see an old man wiggling two stumps. He grins.%SPEECH_ON%That is to say, the spirit of my knee is getting ornery. When I had m'legs, the tinge in the knee meant bad weather. Now the twinge in no-knee means something worse.%SPEECH_OFF%A young boy comes and hauls the elder into a wheelbarrow. Before he departs, you ask what he means. He turns aside, elbow cocked and hand planted on his hand, looking dapper and lively for what he is.%SPEECH_ON%A reckoning from above. The Gilder, the old gods, maybe even more than just them. I think they're all toying with us, spurring us folk to kill one another to appease them, so they can have a watch. You look the part of a sellsword, so I imagine business will be kind to you once them clerical colors wanna go red.%SPEECH_OFF%}"
+msgstr "%terrainImage%{一个农民在路上从你身边经过。 他漫不经心的提到他无法理解为什么神要让他们的追随者互相战斗。 如果他们真的想解决这件事，为什么不自己上？ 你抓住他的衣服并问他在扯些什么。他摆脱开。%SPEECH_ON%嗨！手拿开，不然我就咔了你！ 而且我只是在发牢骚，仅此而已。 很多传言说镀金家伙和旧神信徒在对头锤。 又一次。现在让我安静会！%SPEECH_OFF%那个人走开了，嘟哝着，讽刺的是，他离你越远，音量就越大。 | 你遇到了一个镀金者和旧神祗的僧侣还是什么的集会。 他们在讨论一场战争的可能性，以及当它发生时怎么保护自己。 值得欣赏的友善，说真的，不过空气中确实有一股宗教上审判日的气息。 | 一个在路边修着载重货车的男人摇了摇头。%SPEECH_ON%你知道的，我只想从世界上的这个点走到另一个，仅此而已。 但是不，不行。狗日的…玩意！ 总是有什么玩意！总得出状况。 嗨，说道轮子，我这里听说个消息：镀金者和旧神祗们又要开始撞头了。 看到风暴云了吗。 是天上的圣战。 意味着这里也要圣战了。 我期盼在它开始前离它远点。 你见过上次圣战吗？可不是什么好事。%SPEECH_OFF%你确认这确实不是好事，但是这种事情也意味着要有活干了 %companyname%。 | %SPEECH_ON%膝盖苦恼着我。%SPEECH_OFF%你看过去看到一个老人摇摆着两个木桩假肢。他笑道。%SPEECH_ON%这是在说，我膝盖的灵魂在躁动。 当我还有腿的时候，膝盖的刺痛意味着坏天气要来了。 现在没有了的膝盖的剧痛意味着什么更糟的东西。%SPEECH_OFF%一个年轻的男孩过来并把老人扶到了手推车上。 在他离开前，你问他在说什么。 他转向一边，眉头紧皱，手互相紧握，相对于他的实际状况而言看起来些许潇洒和活跃。%SPEECH_ON%来自天上的审判。 镀金者，旧神，或许不止他们。 我想他们都在调戏我们，策划我们自相残杀来取乐他们，这样他们好有场戏看。 你看起来像个佣兵，所以我想当那些圣职者准备让他们的袍子染上血红色时你的生意会很不错。%SPEECH_OFF%}"
+
+
+# scripts/events/events/dlc6/crisis/holywar_intro_north_event.nut
+msgid "[img]gfx/ui/events/event_43.png[/img]{%SPEECH_START%Alright, alright, sort yerself, sort yerself.%SPEECH_OFF%You come to a peasant holding court with, unsurprisingly, more peasants.%SPEECH_ON%Now I just got told that these Gilded farks in the south think their 'maker' has something in store for the old gods.%SPEECH_OFF%A voice from the crowd asks what that could be. The speaker shrugs.%SPEECH_ON%Dunno. Now, I think we can all agree that the old gods settled their wars many years ago, and there's no need for violence. But the Gilder, he ain't no old god. That there is a heresy.%SPEECH_OFF%The crowd cheers. You're beginning to wonder if this man is a cleric in commoner's clothing. He continues.%SPEECH_ON%Gather up yer weapons, yer armor, yer gold, and most importantly, yer faith, we're going to put some shadow on that 'Gilder'! The old gods will it!%SPEECH_OFF%The crowd roars this time, so deafening that your ears crackle. It is good to see such energy. Once the fighting starts, there will be plenty of business as the righteous shall certainly find faith in the %companyname%. | A bearded cleric stands before a crowd of peasants.%SPEECH_ON%It is said that the old gods fought their wars to completion many years ago, that they tore this world asunder, and left us in the devastation, and they have been impressed by our ability to persevere against such great struggle.%SPEECH_OFF%The crowd murmurs. The man continues.%SPEECH_ON%But we are challenged yet, ye faithful! To the south wander heretics, followers of the 'Gilder', a false god of opulence, profligacy, and a lowly prestidigitation they pass for righteousness.%SPEECH_OFF%The crowd doesn't know what any of those words mean, but they raise their pitchforks to the air and roar, beckoning the clerics to tell them where to go. Smiling, the elders turn to one another and nod. You have little care for who or what is starting this crusade between north and south, only that the %companyname% will stand to earn a fair bit of coin in the gross matter. | The arsenal assembled before you is unlike any you've ever seen. Armaments piled higher than three men head to feet. Soldiers are lined up, half of them holding religious banners, each adorned with one of the old gods. Clerics and monks walk the lines, speaking to the matter in both earthly and heavenly tones. This is the crusade, the great religious arrest of the northerners to take on the Gilder's followers.%SPEECH_ON%Sellsword, are ye?%SPEECH_OFF%You turn to see a young lad gearing up.%SPEECH_ON%You'll be on the righteous path, I know it, and the old gods will watch over us all. Do by them well, little scapegrace.%SPEECH_OFF%Of course. But first you'll do right by the %companyname% and getting a fat purse from all the action to come.}"
+msgstr "[img]gfx/ui/events/event_43.png[/img]{%SPEECH_START%好吧，好吧，肃静，肃静。%SPEECH_OFF%你来到了一个农民法庭，不出所料，那里有更多的农民。%SPEECH_ON%现在我刚被告知这些镀金的南方狗屁认为他们的“造物主”给旧神们准备了点玩意。%SPEECH_OFF%人群里的一个声音问道那会是什么。喊话者耸耸肩。%SPEECH_ON%不知道。现在，我想我们都可以认同旧神在很多年以前就解决了他们的战争，没有什么好暴力的。 但是镀金者，他可不是旧神。 这意味着异端。%SPEECH_OFF%群众欢呼着。你开始寻思这个人是不是个穿着普通人衣服的牧师。他继续道。%SPEECH_ON%集起你们的武器，你们的盔甲，你们的金子还有最重要的，你们的信仰，我们要去给那个“镀金者”来点阴影！ 这是旧神的意志！%SPEECH_OFF%这次群众们咆哮了起来，震耳欲聋的响。 这种能量是好兆头。 一旦战斗开始，生意肯定会相当兴隆，特别是某些正义的人想要看到的信仰必然在 %companyname%。 | 一个大胡子牧师站在一群农民面前。%SPEECH_ON%传说旧神在许多年前便完成了他们的战争，说他们将这个世界撕裂，并把我们遗留在这一片毁灭上，以及他们欣赏我们艰难奋斗生存下去的能力。%SPEECH_OFF%群众低语着。那个人继续道。%SPEECH_ON%但我们现在面对挑战，忠实信徒哟！ 在南方异端横行着“镀金者”的信徒们，一个象征奢侈，浪费，以及他们认为正义实为下贱巫术的伪神。%SPEECH_OFF%群众们一个词都没听懂，但是他们将他们的草叉高举着嘶吼了起来，询问着牧师们他们将前往何处。 微笑着，长老们转向对方并点头。 你不在乎是谁或是什么在发起南北间的圣战，只在乎 %companyname% 能从中捞到的好处。 | 堆积在你面前的军械前所未有。 武器堆起来有三人多高。 士兵们排成队，其中一半握着宗教旗帜，每一个都装饰着旧神中的一个。 神职人员和僧侣们都循规而行，用世俗和天国的语气来谈论这件事。 这就是圣战，北方人因宗教聚集在一起去面对镀金者的追随者。%SPEECH_ON%佣兵，是吗？%SPEECH_OFF%你转过身看到一个小伙子正穿上装备。%SPEECH_ON%你会在正直的道路上的，我懂的，而且旧神会照顾好我们所有人的。 好好表现给他们看，小流氓。%SPEECH_OFF%当然。但是首先你要为了 %companyname% 从战争的漩涡中赚得盆满钵满。}"
 
 

@@ -1,24 +1,4 @@
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
-msgid "[/color] Crowns"
-msgstr ""
-
-
-# scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
-msgid "You gain [color="
-msgstr "你获得了 [color="
-
-
-# scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
-msgid "You gain "
-msgstr "你获得了 "
-
-
-# scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
-msgid "At %townname%"
-msgstr ""
-
-
-# scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
 msgid "Accept"
 msgstr "接受"
 
@@ -29,6 +9,11 @@ msgstr ""
 
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
+msgid "You gain "
+msgstr "你获得了 "
+
+
+# scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
 msgid "Very funny."
 msgstr "很有趣。"
 
@@ -36,6 +21,21 @@ msgstr "很有趣。"
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
 msgid "Damned runt."
 msgstr "可恶的小杂种。"
+
+
+# scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
+msgid "At %townname%"
+msgstr ""
+
+
+# scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
+msgid "[/color] Crowns"
+msgstr ""
+
+
+# scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
+msgid "You gain [color="
+msgstr "你获得了 [color="
 
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut

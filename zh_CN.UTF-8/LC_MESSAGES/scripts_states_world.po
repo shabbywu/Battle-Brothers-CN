@@ -1,14 +1,4 @@
 # scripts/states/world/asset_manager.nut
-msgid "Unknown"
-msgstr "未知的"
-
-
-# scripts/states/world/asset_manager.nut
-msgid "\n\n[color=#bcad8c]\""
-msgstr ""
-
-
-# scripts/states/world/asset_manager.nut
 msgid "the "
 msgstr ""
 
@@ -16,6 +6,11 @@ msgstr ""
 # scripts/states/world/asset_manager.nut
 msgid " and "
 msgstr ""
+
+
+# scripts/states/world/asset_manager.nut
+msgid "Unknown"
+msgstr "未知的"
 
 
 # scripts/states/world/asset_manager.nut
@@ -36,6 +31,11 @@ msgstr ""
 # scripts/states/world/asset_manager.nut
 msgid "Did not get paid"
 msgstr "没有得到工资"
+
+
+# scripts/states/world/asset_manager.nut
+msgid "\n\n[color=#bcad8c]\""
+msgstr ""
 
 
 # scripts/states/world/asset_manager.nut

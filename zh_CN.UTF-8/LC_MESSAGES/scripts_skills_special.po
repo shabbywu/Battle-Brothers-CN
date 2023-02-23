@@ -1,5 +1,95 @@
+# scripts/skills/special/night_effect.nut
+msgid "Nighttime"
+msgstr ""
+
+
+# scripts/skills/special/mood_check.nut
+msgid "Mood Check"
+msgstr "情绪检查"
+
+
+# scripts/skills/special/oath_of_fortification_warning.nut
+msgid "Fortifying!"
+msgstr "强化！"
+
+
+# scripts/skills/special/double_grip.nut
+msgid "Double Grip"
+msgstr "双手持握"
+
+
+# scripts/skills/special/morale_check.nut
+msgid "Morale Check"
+msgstr "士气检查"
+
+
+# scripts/skills/special/mood_check.nut
+msgid "Has a [color="
+msgstr ""
+
+
+# scripts/skills/special/no_ammo_warning.nut
+msgid "No Ammunition!"
+msgstr "没有弹药！"
+
+
+# scripts/skills/special/oath_of_honor_warning.nut
+msgid "Honorable Combat!"
+msgstr "光荣的战斗!"
+
+
+# scripts/skills/special/night_effect.nut
+msgid "]-2[/color] Vision"
+msgstr ""
+
+
+# scripts/skills/special/double_grip.nut
+msgid "]+25%[/color] Damage"
+msgstr ""
+
+
+# scripts/skills/special/morale_check.nut
+msgid "]-10%[/color] Resolve"
+msgstr ""
+
+
+# scripts/skills/special/mood_check.nut
+msgid "Can only have [color="
+msgstr ""
+
+
+# scripts/skills/special/morale_check.nut
+msgid "]-30%[/color] Resolve"
+msgstr ""
+
+
+# scripts/skills/special/morale_check.nut
+msgid "]-20%[/color] Resolve"
+msgstr ""
+
+
 # scripts/skills/special/morale_check.nut
 msgid "]-20%[/color] Melee Skill"
+msgstr ""
+
+
+# scripts/skills/special/morale_check.nut
+msgid "]-10%[/color] Melee Skill"
+msgstr ""
+
+
+# scripts/skills/special/weapon_breaking_warning.nut
+msgid "Weapon in poor condition!"
+msgstr "武器耐久度不佳！"
+
+
+# scripts/skills/special/morale_check.nut
+msgid "]-30%[/color] Melee Skill"
+msgstr ""
+
+
+# scripts/skills/special/morale_check.nut
+msgid "]+10%[/color] Melee Skill"
 msgstr ""
 
 
@@ -9,27 +99,23 @@ msgstr ""
 
 
 # scripts/skills/special/morale_check.nut
-msgid "]-30%[/color] Melee Defense"
-msgstr ""
-
-
-# scripts/skills/special/night_effect.nut
-msgid "]-2[/color] Vision"
-msgstr ""
-
-
-# scripts/skills/special/morale_check.nut
-msgid "]-10%[/color] Resolve"
-msgstr ""
-
-
-# scripts/skills/special/morale_check.nut
-msgid "]-10%[/color] Melee Skill"
-msgstr ""
-
-
-# scripts/skills/special/morale_check.nut
 msgid "]-10%[/color] Ranged Skill"
+msgstr ""
+
+
+# scripts/skills/special/morale_check.nut
+msgid "]+10%[/color] Ranged Skill"
+msgstr ""
+
+
+# scripts/skills/special/morale_check.nut
+# scripts/skills/special/night_effect.nut
+msgid "]-30%[/color] Ranged Skill"
+msgstr ""
+
+
+# scripts/skills/special/morale_check.nut
+msgid "]-30%[/color] Melee Defense"
 msgstr ""
 
 
@@ -39,77 +125,38 @@ msgstr ""
 
 
 # scripts/skills/special/morale_check.nut
+msgid "]-20%[/color] Melee Defense"
+msgstr ""
+
+
+# scripts/skills/special/morale_check.nut
+msgid "]+10%[/color] Melee Defense"
+msgstr ""
+
+
+# scripts/skills/special/morale_check.nut
 msgid "]-10%[/color] Ranged Defense"
 msgstr ""
 
 
-# scripts/skills/special/mood_check.nut
-msgid "Has a [color="
+# scripts/skills/special/morale_check.nut
+msgid "]+10%[/color] Ranged Defense"
 msgstr ""
 
 
+# scripts/skills/special/morale_check.nut
+msgid "Acts at the end of the round"
+msgstr "在轮末行动"
+
+
+# scripts/skills/special/morale_check.nut
 # scripts/skills/special/night_effect.nut
-msgid "Nighttime"
+msgid "]-30%[/color] Ranged Defense"
 msgstr ""
 
 
-# scripts/skills/special/oath_of_fortification_warning.nut
-msgid "Fortifying!"
-msgstr "强化！"
-
-
-# scripts/skills/special/oath_of_fortification_warning.nut
-msgid "This character has taken an Oath of Fortification and cannot move while steeling themselves for combat!"
-msgstr "This character has taken an 壁垒誓言 and cannot move while steeling themselves for combat!"
-
-
-# scripts/skills/special/weapon_breaking_warning.nut
-msgid "Weapon in poor condition!"
-msgstr "武器耐久度不佳！"
-
-
-# scripts/skills/special/weapon_breaking_warning.nut
-msgid "%) and may permanently break if used again."
-msgstr ""
-
-
-# scripts/skills/special/weapon_breaking_warning.nut
-msgid "This character's weapon is in poor condition ("
-msgstr ""
-
-
-# scripts/skills/special/weapon_breaking_warning.nut
-msgid "This character's weapon is in poor condition and may permanently break if used again."
-msgstr "此角色的武器耐久度不佳，如果再次使用，可能会永久损坏。"
-
-
-# scripts/skills/special/oath_of_honor_warning.nut
-msgid "Honorable Combat!"
-msgstr "光荣的战斗!"
-
-
-# scripts/skills/special/oath_of_honor_warning.nut
-msgid "This character has taken an Oath of Honor and refuses to use the currently equipped ranged weapon or tool!"
-msgstr "This character has taken an 荣耀誓言 and refuses to use the currently equipped ranged weapon or tool!"
-
-
-# scripts/skills/special/no_ammo_warning.nut
-msgid "No Ammunition!"
-msgstr "没有弹药！"
-
-
-# scripts/skills/special/no_ammo_warning.nut
-msgid "This character is out of ammunition for the currently equipped ranged weapon!"
-msgstr "这个角色目前装备的远程武器没有弹药！"
-
-
-# scripts/skills/special/mood_check.nut
-msgid "Mood Check"
-msgstr "情绪检查"
-
-
-# scripts/skills/special/mood_check.nut
-msgid "Can only have [color="
+# scripts/skills/special/morale_check.nut
+msgid "]-20%[/color] Ranged Defense"
 msgstr ""
 
 
@@ -128,6 +175,16 @@ msgid "]wavering[/color] morale or worse"
 msgstr ""
 
 
+# scripts/skills/special/weapon_breaking_warning.nut
+msgid "%) and may permanently break if used again."
+msgstr ""
+
+
+# scripts/skills/special/weapon_breaking_warning.nut
+msgid "This character's weapon is in poor condition ("
+msgstr ""
+
+
 # scripts/skills/special/mood_check.nut
 msgid "]25%[/color] chance to start battle at confident morale"
 msgstr ""
@@ -141,6 +198,51 @@ msgstr ""
 # scripts/skills/special/mood_check.nut
 msgid "]50%[/color] chance to start battle at confident morale"
 msgstr ""
+
+
+# scripts/skills/special/morale_check.nut
+msgid "We'll be victorious! This character is confident that victory will be his."
+msgstr "我们会胜利的！ 这个角色相信胜利将是他的。"
+
+
+# scripts/skills/special/no_ammo_warning.nut
+msgid "This character is out of ammunition for the currently equipped ranged weapon!"
+msgstr "这个角色目前装备的远程武器没有弹药！"
+
+
+# scripts/skills/special/weapon_breaking_warning.nut
+msgid "This character's weapon is in poor condition and may permanently break if used again."
+msgstr "此角色的武器耐久度不佳，如果再次使用，可能会永久损坏。"
+
+
+# scripts/skills/special/morale_check.nut
+msgid "Run for your lives! This character has lost it and is fleeing the battlefield in panic."
+msgstr "逃命吧！ 这个角色已经不知所措了，正惊慌失措地逃离战场。"
+
+
+# scripts/skills/special/morale_check.nut
+msgid "Uh oh. This character is wavering and unsure if the battle will turn out to his advantage."
+msgstr "呃，哦。 这个角色摇摆不定，不确定这场战斗是否会对他有利。"
+
+
+# scripts/skills/special/morale_check.nut
+msgid "We can't win this! This character's morale is breaking and he is close to fleeing the battlefield."
+msgstr "我们赢不了！ 这个角色的士气正在崩溃，他很快就要逃离战场了。"
+
+
+# scripts/skills/special/oath_of_fortification_warning.nut
+msgid "This character has taken an Oath of Fortification and cannot move while steeling themselves for combat!"
+msgstr "This character has taken an 壁垒誓言 and cannot move while steeling themselves for combat!"
+
+
+# scripts/skills/special/oath_of_honor_warning.nut
+msgid "This character has taken an Oath of Honor and refuses to use the currently equipped ranged weapon or tool!"
+msgstr "This character has taken an 荣耀誓言 and refuses to use the currently equipped ranged weapon or tool!"
+
+
+# scripts/skills/special/double_grip.nut
+msgid "With the second hand free, this character can get a firm double grip on his weapon and inflicts additional damage."
+msgstr "自由的第二只手，这个角色可以牢牢地抓住他的武器并造成额外的伤害。"
 
 
 # scripts/skills/special/mood_check.nut
@@ -176,108 +278,6 @@ msgstr "最近的事件让这个角色对周围的人愤怒和报复。 如果�
 # scripts/skills/special/mood_check.nut
 msgid "Recent events have left this character in a state of euphoria, happy to spend his time in service of the company and sure of victory against any foe. It's bordering on the annoying, really."
 msgstr "最近的事件使这个角色处于一种兴奋的状态，他乐于为战队服务，并确信能战胜任何敌人。 真的，这近乎烦人。"
-
-
-# scripts/skills/special/double_grip.nut
-msgid "Double Grip"
-msgstr "双手持握"
-
-
-# scripts/skills/special/double_grip.nut
-msgid "]+25%[/color] Damage"
-msgstr ""
-
-
-# scripts/skills/special/double_grip.nut
-msgid "With the second hand free, this character can get a firm double grip on his weapon and inflicts additional damage."
-msgstr "自由的第二只手，这个角色可以牢牢地抓住他的武器并造成额外的伤害。"
-
-
-# scripts/skills/special/morale_check.nut
-msgid "Morale Check"
-msgstr "士气检查"
-
-
-# scripts/skills/special/morale_check.nut
-msgid "]-30%[/color] Resolve"
-msgstr ""
-
-
-# scripts/skills/special/morale_check.nut
-msgid "]-20%[/color] Resolve"
-msgstr ""
-
-
-# scripts/skills/special/morale_check.nut
-msgid "]-30%[/color] Melee Skill"
-msgstr ""
-
-
-# scripts/skills/special/morale_check.nut
-msgid "]+10%[/color] Melee Skill"
-msgstr ""
-
-
-# scripts/skills/special/morale_check.nut
-msgid "]+10%[/color] Ranged Skill"
-msgstr ""
-
-
-# scripts/skills/special/morale_check.nut
-# scripts/skills/special/night_effect.nut
-msgid "]-30%[/color] Ranged Skill"
-msgstr ""
-
-
-# scripts/skills/special/morale_check.nut
-msgid "]-20%[/color] Melee Defense"
-msgstr ""
-
-
-# scripts/skills/special/morale_check.nut
-msgid "]+10%[/color] Melee Defense"
-msgstr ""
-
-
-# scripts/skills/special/morale_check.nut
-msgid "]+10%[/color] Ranged Defense"
-msgstr ""
-
-
-# scripts/skills/special/morale_check.nut
-msgid "Acts at the end of the round"
-msgstr "在轮末行动"
-
-
-# scripts/skills/special/morale_check.nut
-# scripts/skills/special/night_effect.nut
-msgid "]-30%[/color] Ranged Defense"
-msgstr ""
-
-
-# scripts/skills/special/morale_check.nut
-msgid "]-20%[/color] Ranged Defense"
-msgstr ""
-
-
-# scripts/skills/special/morale_check.nut
-msgid "We'll be victorious! This character is confident that victory will be his."
-msgstr "我们会胜利的！ 这个角色相信胜利将是他的。"
-
-
-# scripts/skills/special/morale_check.nut
-msgid "Run for your lives! This character has lost it and is fleeing the battlefield in panic."
-msgstr "逃命吧！ 这个角色已经不知所措了，正惊慌失措地逃离战场。"
-
-
-# scripts/skills/special/morale_check.nut
-msgid "Uh oh. This character is wavering and unsure if the battle will turn out to his advantage."
-msgstr "呃，哦。 这个角色摇摆不定，不确定这场战斗是否会对他有利。"
-
-
-# scripts/skills/special/morale_check.nut
-msgid "We can't win this! This character's morale is breaking and he is close to fleeing the battlefield."
-msgstr "我们赢不了！ 这个角色的士气正在崩溃，他很快就要逃离战场了。"
 
 
 # scripts/skills/special/night_effect.nut
