@@ -1,1614 +1,1614 @@
-msgid %1h%
-msgstr %1h%
+msgid "%1h%"
+msgstr "%1h%"
 
 
-msgid %2h%
-msgstr %2h%
+msgid "%2h%"
+msgstr "%2h%"
 
 
-msgid %SPEECH_OFF%
-msgstr %SPEECH_OFF%
+msgid "%SPEECH_OFF%"
+msgstr "%SPEECH_OFF%"
 
 
-msgid %SPEECH_ON%
-msgstr %SPEECH_ON%
+msgid "%SPEECH_ON%"
+msgstr "%SPEECH_ON%"
 
 
-msgid %SPEECH_START%
-msgstr %SPEECH_START%
+msgid "%SPEECH_START%"
+msgstr "%SPEECH_START%"
 
 
-msgid %addict%
-msgstr %addict%
+msgid "%addict%"
+msgstr "%addict%"
 
 
-msgid %aggro_bro%
-msgstr %aggro_bro%
+msgid "%aggro_bro%"
+msgstr "%aggro_bro%"
 
 
-msgid %ailing%
-msgstr %ailing%
+msgid "%ailing%"
+msgstr "%ailing%"
 
 
-msgid %amount%
-msgstr %amount%
+msgid "%amount%"
+msgstr "%amount%"
 
 
-msgid %anatomist%
-msgstr %anatomist%
+msgid "%anatomist%"
+msgstr "%anatomist%"
 
 
-msgid %apprentice%
-msgstr %apprentice%
+msgid "%apprentice%"
+msgstr "%apprentice%"
 
 
-msgid %archer%
-msgstr %archer%
+msgid "%archer%"
+msgstr "%archer%"
 
 
-msgid %archer1%
-msgstr %archer1%
+msgid "%archer1%"
+msgstr "%archer1%"
 
 
-msgid %archer2%
-msgstr %archer2%
+msgid "%archer2%"
+msgstr "%archer2%"
 
 
-msgid %archerfull%
-msgstr %archerfull%
+msgid "%archerfull%"
+msgstr "%archerfull%"
 
 
-msgid %asthmatic%
-msgstr %asthmatic%
+msgid "%asthmatic%"
+msgstr "%asthmatic%"
 
 
-msgid %athlete%
-msgstr %athlete%
+msgid "%athlete%"
+msgstr "%athlete%"
 
 
-msgid %barbarian%
-msgstr %barbarian%
+msgid "%barbarian%"
+msgstr "%barbarian%"
 
 
-msgid %barbarianname%
-msgstr %barbarianname%
+msgid "%barbarianname%"
+msgstr "%barbarianname%"
 
 
-msgid %bastard%
-msgstr %bastard%
+msgid "%bastard%"
+msgstr "%bastard%"
 
 
-msgid %bearbrother%
-msgstr %bearbrother%
+msgid "%bearbrother%"
+msgstr "%bearbrother%"
 
 
-msgid %beastslayer%
-msgstr %beastslayer%
+msgid "%beastslayer%"
+msgstr "%beastslayer%"
 
 
-msgid %beggar%
-msgstr %beggar%
+msgid "%beggar%"
+msgstr "%beggar%"
 
 
-msgid %bellydancer%
-msgstr %bellydancer%
+msgid "%bellydancer%"
+msgstr "%bellydancer%"
 
 
-msgid %bet%
-msgstr %bet%
+msgid "%bet%"
+msgstr "%bet%"
 
 
-msgid %bigcity%
-msgstr %bigcity%
+msgid "%bigcity%"
+msgstr "%bigcity%"
 
 
-msgid %bigdog%
-msgstr %bigdog%
+msgid "%bigdog%"
+msgstr "%bigdog%"
 
 
-msgid %birdbro%
-msgstr %birdbro%
+msgid "%birdbro%"
+msgstr "%birdbro%"
 
 
-msgid %bitbro%
-msgstr %bitbro%
+msgid "%bitbro%"
+msgstr "%bitbro%"
 
 
-msgid %blackmail%
-msgstr %blackmail%
+msgid "%blackmail%"
+msgstr "%blackmail%"
 
 
-msgid %boss%
-msgstr %boss%
+msgid "%boss%"
+msgstr "%boss%"
 
 
-msgid %bowyer%
-msgstr %bowyer%
+msgid "%bowyer%"
+msgstr "%bowyer%"
 
 
-msgid %bravebro%
-msgstr %bravebro%
+msgid "%bravebro%"
+msgstr "%bravebro%"
 
 
-msgid %braveman1%
-msgstr %braveman1%
+msgid "%braveman1%"
+msgstr "%braveman1%"
 
 
-msgid %braveman2%
-msgstr %braveman2%
+msgid "%braveman2%"
+msgstr "%braveman2%"
 
 
-msgid %bravest_brother%
-msgstr %bravest_brother%
+msgid "%bravest_brother%"
+msgstr "%bravest_brother%"
 
 
-msgid %brawler%
-msgstr %brawler%
+msgid "%brawler%"
+msgstr "%brawler%"
 
 
-msgid %brawler2%
-msgstr %brawler2%
+msgid "%brawler2%"
+msgstr "%brawler2%"
 
 
-msgid %bribe%
-msgstr %bribe%
+msgid "%bribe%"
+msgstr "%bribe%"
 
 
-msgid %bribe2%
-msgstr %bribe2%
+msgid "%bribe2%"
+msgstr "%bribe2%"
 
 
-msgid %bright%
-msgstr %bright%
+msgid "%bright%"
+msgstr "%bright%"
 
 
-msgid %bright_short%
-msgstr %bright_short%
+msgid "%bright_short%"
+msgstr "%bright_short%"
 
 
-msgid %bro%
-msgstr %bro%
+msgid "%bro%"
+msgstr "%bro%"
 
 
-msgid %bro1%
-msgstr %bro1%
+msgid "%bro1%"
+msgstr "%bro1%"
 
 
-msgid %bro2%
-msgstr %bro2%
+msgid "%bro2%"
+msgstr "%bro2%"
 
 
-msgid %bro3%
-msgstr %bro3%
+msgid "%bro3%"
+msgstr "%bro3%"
 
 
-msgid %brother%
-msgstr %brother%
+msgid "%brother%"
+msgstr "%brother%"
 
 
-msgid %bs1%
-msgstr %bs1%
+msgid "%bs1%"
+msgstr "%bs1%"
 
 
-msgid %bs2%
-msgstr %bs2%
+msgid "%bs2%"
+msgstr "%bs2%"
 
 
-msgid %bs3%
-msgstr %bs3%
+msgid "%bs3%"
+msgstr "%bs3%"
 
 
-msgid %butcher%
-msgstr %butcher%
+msgid "%butcher%"
+msgstr "%butcher%"
 
 
-msgid %butcherfull%
-msgstr %butcherfull%
+msgid "%butcherfull%"
+msgstr "%butcherfull%"
 
 
-msgid %callbrother%
-msgstr %callbrother%
+msgid "%callbrother%"
+msgstr "%callbrother%"
 
 
-msgid %caravanhand%
-msgstr %caravanhand%
+msgid "%caravanhand%"
+msgstr "%caravanhand%"
 
 
-msgid %casualty%
-msgstr %casualty%
+msgid "%casualty%"
+msgstr "%casualty%"
 
 
-msgid %ch1%
-msgstr %ch1%
+msgid "%ch1%"
+msgstr "%ch1%"
 
 
-msgid %ch2%
-msgstr %ch2%
+msgid "%ch2%"
+msgstr "%ch2%"
 
 
-msgid %champbrother%
-msgstr %champbrother%
+msgid "%champbrother%"
+msgstr "%champbrother%"
 
 
-msgid %champion1%
-msgstr %champion1%
+msgid "%champion1%"
+msgstr "%champion1%"
 
 
-msgid %chosen%
-msgstr %chosen%
+msgid "%chosen%"
+msgstr "%chosen%"
 
 
-msgid %chosenbrother%
-msgstr %chosenbrother%
+msgid "%chosenbrother%"
+msgstr "%chosenbrother%"
 
 
-msgid %city%
-msgstr %city%
+msgid "%city%"
+msgstr "%city%"
 
 
-msgid %citydirection%
-msgstr %citydirection%
+msgid "%citydirection%"
+msgstr "%citydirection%"
 
 
-msgid %citystatename%
-msgstr %citystatename%
+msgid "%citystatename%"
+msgstr "%citystatename%"
 
 
-msgid %clown%
-msgstr %clown%
+msgid "%clown%"
+msgstr "%clown%"
 
 
-msgid %clown_short%
-msgstr %clown_short%
+msgid "%clown_short%"
+msgstr "%clown_short%"
 
 
-msgid %clubfoot%
-msgstr %clubfoot%
+msgid "%clubfoot%"
+msgstr "%clubfoot%"
 
 
-msgid %clumsyguy%
-msgstr %clumsyguy%
+msgid "%clumsyguy%"
+msgstr "%clumsyguy%"
 
 
-msgid %cocky%
-msgstr %cocky%
+msgid "%cocky%"
+msgstr "%cocky%"
 
 
-msgid %cockyfull%
-msgstr %cockyfull%
+msgid "%cockyfull%"
+msgstr "%cockyfull%"
 
 
-msgid %combatbro1%
-msgstr %combatbro1%
+msgid "%combatbro1%"
+msgstr "%combatbro1%"
 
 
-msgid %combatbro2%
-msgstr %combatbro2%
+msgid "%combatbro2%"
+msgstr "%combatbro2%"
 
 
-msgid %commander%
-msgstr %commander%
+msgid "%commander%"
+msgstr "%commander%"
 
 
-msgid %companyname%
-msgstr %companyname%
+msgid "%companyname%"
+msgstr "%companyname%"
 
 
-msgid %compensation%
-msgstr %compensation%
+msgid "%compensation%"
+msgstr "%compensation%"
 
 
-msgid %conqueror%
-msgstr %conqueror%
+msgid "%conqueror%"
+msgstr "%conqueror%"
 
 
-msgid %cost%
-msgstr %cost%
+msgid "%cost%"
+msgstr "%cost%"
 
 
-msgid %cowtipper%
-msgstr %cowtipper%
+msgid "%cowtipper%"
+msgstr "%cowtipper%"
 
 
-msgid %cowtipperfull%
-msgstr %cowtipperfull%
+msgid "%cowtipperfull%"
+msgstr "%cowtipperfull%"
 
 
-msgid %criminal%
-msgstr %criminal%
+msgid "%criminal%"
+msgstr "%criminal%"
 
 
-msgid %cripple%
-msgstr %cripple%
+msgid "%cripple%"
+msgstr "%cripple%"
 
 
-msgid %crowns%
-msgstr %crowns%
+msgid "%crowns%"
+msgstr "%crowns%"
 
 
-msgid %crucifiedman%
-msgstr %crucifiedman%
+msgid "%crucifiedman%"
+msgstr "%crucifiedman%"
 
 
-msgid %crusader%
-msgstr %crusader%
+msgid "%crusader%"
+msgstr "%crusader%"
 
 
-msgid %cultist%
-msgstr %cultist%
+msgid "%cultist%"
+msgstr "%cultist%"
 
 
-msgid %cultistfull%
-msgstr %cultistfull%
+msgid "%cultistfull%"
+msgstr "%cultistfull%"
 
 
-msgid %currenttown%
-msgstr %currenttown%
+msgid "%currenttown%"
+msgstr "%currenttown%"
 
 
-msgid %dastard%
-msgstr %dastard%
+msgid "%dastard%"
+msgstr "%dastard%"
 
 
-msgid %days%
-msgstr %days%
+msgid "%days%"
+msgstr "%days%"
 
 
-msgid %deadbrother%
-msgstr %deadbrother%
+msgid "%deadbrother%"
+msgstr "%deadbrother%"
 
 
-msgid %defeated%
-msgstr %defeated%
+msgid "%defeated%"
+msgstr "%defeated%"
 
 
-msgid %defeatedcompany%
-msgstr %defeatedcompany%
+msgid "%defeatedcompany%"
+msgstr "%defeatedcompany%"
 
 
-msgid %demand%
-msgstr %demand%
+msgid "%demand%"
+msgstr "%demand%"
 
 
-msgid %desertedbrother%
-msgstr %desertedbrother%
+msgid "%desertedbrother%"
+msgstr "%desertedbrother%"
 
 
-msgid %deserter%
-msgstr %deserter%
+msgid "%deserter%"
+msgstr "%deserter%"
 
 
-msgid %dest%
-msgstr %dest%
+msgid "%dest%"
+msgstr "%dest%"
 
 
-msgid %determined%
-msgstr %determined%
+msgid "%determined%"
+msgstr "%determined%"
 
 
-msgid %direction%
-msgstr %direction%
+msgid "%direction%"
+msgstr "%direction%"
 
 
-msgid %dismissed%
-msgstr %dismissed%
+msgid "%dismissed%"
+msgstr "%dismissed%"
 
 
-msgid %disowned%
-msgstr %disowned%
+msgid "%disowned%"
+msgstr "%disowned%"
 
 
-msgid %distance%
-msgstr %distance%
+msgid "%distance%"
+msgstr "%distance%"
 
 
-msgid %doghandler%
-msgstr %doghandler%
+msgid "%doghandler%"
+msgstr "%doghandler%"
 
 
-msgid %dragonslayer%
-msgstr %dragonslayer%
+msgid "%dragonslayer%"
+msgstr "%dragonslayer%"
 
 
-msgid %drunkard%
-msgstr %drunkard%
+msgid "%drunkard%"
+msgstr "%drunkard%"
 
 
-msgid %dude%
-msgstr %dude%
+msgid "%dude%"
+msgstr "%dude%"
 
 
-msgid %dumb%
-msgstr %dumb%
+msgid "%dumb%"
+msgstr "%dumb%"
 
 
-msgid %dumb_short%
-msgstr %dumb_short%
+msgid "%dumb_short%"
+msgstr "%dumb_short%"
 
 
-msgid %dumbguy%
-msgstr %dumbguy%
+msgid "%dumbguy%"
+msgstr "%dumbguy%"
 
 
-msgid %dumbguy_short%
-msgstr %dumbguy_short%
+msgid "%dumbguy_short%"
+msgstr "%dumbguy_short%"
 
 
-msgid %employer%
-msgstr %employer%
+msgid "%employer%"
+msgstr "%employer%"
 
 
-msgid %employerfaction%
-msgstr %employerfaction%
+msgid "%employerfaction%"
+msgstr "%employerfaction%"
 
 
-msgid %enemy%
-msgstr %enemy%
+msgid "%enemy%"
+msgstr "%enemy%"
 
 
-msgid %enemyC%
-msgstr %enemyC%
+msgid "%enemyC%"
+msgstr "%enemyC%"
 
 
-msgid %enemynoblehouse%
-msgstr %enemynoblehouse%
+msgid "%enemynoblehouse%"
+msgstr "%enemynoblehouse%"
 
 
-msgid %entertainer%
-msgstr %entertainer%
+msgid "%entertainer%"
+msgstr "%entertainer%"
 
 
-msgid %entertainerfull%
-msgstr %entertainerfull%
+msgid "%entertainerfull%"
+msgstr "%entertainerfull%"
 
 
-msgid %envoy%
-msgstr %envoy%
+msgid "%envoy%"
+msgstr "%envoy%"
 
 
-msgid %eunuch%
-msgstr %eunuch%
+msgid "%eunuch%"
+msgstr "%eunuch%"
 
 
-msgid %faction%
-msgstr %faction%
+msgid "%faction%"
+msgstr "%faction%"
 
 
-msgid %factionfortressname%
-msgstr %factionfortressname%
+msgid "%factionfortressname%"
+msgstr "%factionfortressname%"
 
 
-msgid %fainthearted%
-msgstr %fainthearted%
+msgid "%fainthearted%"
+msgstr "%fainthearted%"
 
 
-msgid %fakescribe%
-msgstr %fakescribe%
+msgid "%fakescribe%"
+msgstr "%fakescribe%"
 
 
-msgid %fallbro%
-msgstr %fallbro%
+msgid "%fallbro%"
+msgstr "%fallbro%"
 
 
-msgid %farmer%
-msgstr %farmer%
+msgid "%farmer%"
+msgstr "%farmer%"
 
 
-msgid %farmhand%
-msgstr %farmhand%
+msgid "%farmhand%"
+msgstr "%farmhand%"
 
 
-msgid %fat%
-msgstr %fat%
+msgid "%fat%"
+msgstr "%fat%"
 
 
-msgid %fatguy%
-msgstr %fatguy%
+msgid "%fatguy%"
+msgstr "%fatguy%"
 
 
-msgid %fearful%
-msgstr %fearful%
+msgid "%fearful%"
+msgstr "%fearful%"
 
 
-msgid %feudfamily%
-msgstr %feudfamily%
+msgid "%feudfamily%"
+msgstr "%feudfamily%"
 
 
-msgid %finding%
-msgstr %finding%
+msgid "%finding%"
+msgstr "%finding%"
 
 
-msgid %fisherman%
-msgstr %fisherman%
+msgid "%fisherman%"
+msgstr "%fisherman%"
 
 
-msgid %flagellant%
-msgstr %flagellant%
+msgid "%flagellant%"
+msgstr "%flagellant%"
 
 
-msgid %flagellant_short%
-msgstr %flagellant_short%
+msgid "%flagellant_short%"
+msgstr "%flagellant_short%"
 
 
-msgid %flagellantfull%
-msgstr %flagellantfull%
+msgid "%flagellantfull%"
+msgstr "%flagellantfull%"
 
 
-msgid %forestlover%
-msgstr %forestlover%
+msgid "%forestlover%"
+msgstr "%forestlover%"
 
 
-msgid %friendlytown%
-msgstr %friendlytown%
+msgid "%friendlytown%"
+msgstr "%friendlytown%"
 
 
-msgid %fullname%
-msgstr %fullname%
+msgid "%fullname%"
+msgstr "%fullname%"
 
 
-msgid %g1%
-msgstr %g1%
+msgid "%g1%"
+msgstr "%g1%"
 
 
-msgid %g2%
-msgstr %g2%
+msgid "%g2%"
+msgstr "%g2%"
 
 
-msgid %g3%
-msgstr %g3%
+msgid "%g3%"
+msgstr "%g3%"
 
 
-msgid %gambler%
-msgstr %gambler%
+msgid "%gambler%"
+msgstr "%gambler%"
 
 
-msgid %gamblerdice%
-msgstr %gamblerdice%
+msgid "%gamblerdice%"
+msgstr "%gamblerdice%"
 
 
-msgid %gl%
-msgstr %gl%
+msgid "%gl%"
+msgstr "%gl%"
 
 
-msgid %gl1%
-msgstr %gl1%
+msgid "%gl1%"
+msgstr "%gl1%"
 
 
-msgid %gl2%
-msgstr %gl2%
+msgid "%gl2%"
+msgstr "%gl2%"
 
 
-msgid %gladiator%
-msgstr %gladiator%
+msgid "%gladiator%"
+msgstr "%gladiator%"
 
 
-msgid %glutton%
-msgstr %glutton%
+msgid "%glutton%"
+msgstr "%glutton%"
 
 
-msgid %goblinkillcount%
-msgstr %goblinkillcount%
+msgid "%goblinkillcount%"
+msgstr "%goblinkillcount%"
 
 
-msgid %goblinpostcount%
-msgstr %goblinpostcount%
+msgid "%goblinpostcount%"
+msgstr "%goblinpostcount%"
 
 
-msgid %gravedigger%
-msgstr %gravedigger%
+msgid "%gravedigger%"
+msgstr "%gravedigger%"
 
 
-msgid %graver%
-msgstr %graver%
+msgid "%graver%"
+msgstr "%graver%"
 
 
-msgid %graverobber%
-msgstr %graverobber%
+msgid "%graverobber%"
+msgstr "%graverobber%"
 
 
-msgid %guard%
-msgstr %guard%
+msgid "%guard%"
+msgstr "%guard%"
 
 
-msgid %hammerbrother%
-msgstr %hammerbrother%
+msgid "%hammerbrother%"
+msgstr "%hammerbrother%"
 
 
-msgid %healer%
-msgstr %healer%
+msgid "%healer%"
+msgstr "%healer%"
 
 
-msgid %heatbro%
-msgstr %heatbro%
+msgid "%heatbro%"
+msgstr "%heatbro%"
 
 
-msgid %hedgeknighfull%
-msgstr %hedgeknighfull%
+msgid "%hedgeknighfull%"
+msgstr "%hedgeknighfull%"
 
 
-msgid %hedgeknight%
-msgstr %hedgeknight%
+msgid "%hedgeknight%"
+msgstr "%hedgeknight%"
 
 
-msgid %hedgeknight1%
-msgstr %hedgeknight1%
+msgid "%hedgeknight1%"
+msgstr "%hedgeknight1%"
 
 
-msgid %hedgeknight2%
-msgstr %hedgeknight2%
+msgid "%hedgeknight2%"
+msgstr "%hedgeknight2%"
 
 
-msgid %helpbro%
-msgstr %helpbro%
+msgid "%helpbro%"
+msgstr "%helpbro%"
 
 
-msgid %helpfulbrother%
-msgstr %helpfulbrother%
+msgid "%helpfulbrother%"
+msgstr "%helpfulbrother%"
 
 
-msgid %hides%
-msgstr %hides%
+msgid "%hides%"
+msgstr "%hides%"
 
 
-msgid %highestexperience_brother%
-msgstr %highestexperience_brother%
+msgid "%highestexperience_brother%"
+msgstr "%highestexperience_brother%"
 
 
-msgid %historian%
-msgstr %historian%
+msgid "%historian%"
+msgstr "%historian%"
 
 
-msgid %historianfull%
-msgstr %historianfull%
+msgid "%historianfull%"
+msgstr "%historianfull%"
 
 
-msgid %holysite%
-msgstr %holysite%
+msgid "%holysite%"
+msgstr "%holysite%"
 
 
-msgid %home%
-msgstr %home%
+msgid "%home%"
+msgstr "%home%"
 
 
-msgid %houndman%
-msgstr %houndman%
+msgid "%houndman%"
+msgstr "%houndman%"
 
 
-msgid %houndmaster%
-msgstr %houndmaster%
+msgid "%houndmaster%"
+msgstr "%houndmaster%"
 
 
-msgid %hunter%
-msgstr %hunter%
+msgid "%hunter%"
+msgstr "%hunter%"
 
 
-msgid %hunter1%
-msgstr %hunter1%
+msgid "%hunter1%"
+msgstr "%hunter1%"
 
 
-msgid %hunter2%
-msgstr %hunter2%
+msgid "%hunter2%"
+msgstr "%hunter2%"
 
 
-msgid %hunter3%
-msgstr %hunter3%
+msgid "%hunter3%"
+msgstr "%hunter3%"
 
 
-msgid %hurtbro%
-msgstr %hurtbro%
+msgid "%hurtbro%"
+msgstr "%hurtbro%"
 
 
-msgid %hurtbrother%
-msgstr %hurtbrother%
+msgid "%hurtbrother%"
+msgstr "%hurtbrother%"
 
 
-msgid %idiot%
-msgstr %idiot%
+msgid "%idiot%"
+msgstr "%idiot%"
 
 
-msgid %illustration%
-msgstr %illustration%
+msgid "%illustration%"
+msgstr "%illustration%"
 
 
-msgid %image%
-msgstr %image%
+msgid "%image%"
+msgstr "%image%"
 
 
-msgid %injured%
-msgstr %injured%
+msgid "%injured%"
+msgstr "%injured%"
 
 
-msgid %injured_bro%
-msgstr %injured_bro%
+msgid "%injured_bro%"
+msgstr "%injured_bro%"
 
 
-msgid %injurybro%
-msgstr %injurybro%
+msgid "%injurybro%"
+msgstr "%injurybro%"
 
 
-msgid %insecure%
-msgstr %insecure%
+msgid "%insecure%"
+msgstr "%insecure%"
 
 
-msgid %ironlungs%
-msgstr %ironlungs%
+msgid "%ironlungs%"
+msgstr "%ironlungs%"
 
 
-msgid %item%
-msgstr %item%
+msgid "%item%"
+msgstr "%item%"
 
 
-msgid %itemLower%
-msgstr %itemLower%
+msgid "%itemLower%"
+msgstr "%itemLower%"
 
 
-msgid %joiner%
-msgstr %joiner%
+msgid "%joiner%"
+msgstr "%joiner%"
 
 
-msgid %jouster%
-msgstr %jouster%
+msgid "%jouster%"
+msgstr "%jouster%"
 
 
-msgid %juggernaut%
-msgstr %juggernaut%
+msgid "%juggernaut%"
+msgstr "%juggernaut%"
 
 
-msgid %juggler%
-msgstr %juggler%
+msgid "%juggler%"
+msgstr "%juggler%"
 
 
-msgid %killcount%
-msgstr %killcount%
+msgid "%killcount%"
+msgstr "%killcount%"
 
 
-msgid %killer%
-msgstr %killer%
+msgid "%killer%"
+msgstr "%killer%"
 
 
-msgid %killerontherun%
-msgstr %killerontherun%
+msgid "%killerontherun%"
+msgstr "%killerontherun%"
 
 
-msgid %lightweight%
-msgstr %lightweight%
+msgid "%lightweight%"
+msgstr "%lightweight%"
 
 
-msgid %lightweightfull%
-msgstr %lightweightfull%
+msgid "%lightweightfull%"
+msgstr "%lightweightfull%"
 
 
-msgid %location%
-msgstr %location%
+msgid "%location%"
+msgstr "%location%"
 
 
-msgid %location1%
-msgstr %location1%
+msgid "%location1%"
+msgstr "%location1%"
 
 
-msgid %location2%
-msgstr %location2%
+msgid "%location2%"
+msgstr "%location2%"
 
 
-msgid %locationC%
-msgstr %locationC%
+msgid "%locationC%"
+msgstr "%locationC%"
 
 
-msgid %lowborn%
-msgstr %lowborn%
+msgid "%lowborn%"
+msgstr "%lowborn%"
 
 
-msgid %lowborn_short%
-msgstr %lowborn_short%
+msgid "%lowborn_short%"
+msgstr "%lowborn_short%"
 
 
-msgid %lowestexperience_brother%
-msgstr %lowestexperience_brother%
+msgid "%lowestexperience_brother%"
+msgstr "%lowestexperience_brother%"
 
 
-msgid %lowesthp_brother%
-msgstr %lowesthp_brother%
+msgid "%lowesthp_brother%"
+msgstr "%lowesthp_brother%"
 
 
-msgid %lucky%
-msgstr %lucky%
+msgid "%lucky%"
+msgstr "%lucky%"
 
 
-msgid %lumberjack%
-msgstr %lumberjack%
+msgid "%lumberjack%"
+msgstr "%lumberjack%"
 
 
-msgid %mapcost%
-msgstr %mapcost%
+msgid "%mapcost%"
+msgstr "%mapcost%"
 
 
-msgid %mason%
-msgstr %mason%
+msgid "%mason%"
+msgstr "%mason%"
 
 
-msgid %maxcount%
-msgstr %maxcount%
+msgid "%maxcount%"
+msgstr "%maxcount%"
 
 
-msgid %maxdays%
-msgstr %maxdays%
+msgid "%maxdays%"
+msgstr "%maxdays%"
 
 
-msgid %mercband%
-msgstr %mercband%
+msgid "%mercband%"
+msgstr "%mercband%"
 
 
-msgid %mercenary%
-msgstr %mercenary%
+msgid "%mercenary%"
+msgstr "%mercenary%"
 
 
-msgid %mercenarycompany%
-msgstr %mercenarycompany%
+msgid "%mercenarycompany%"
+msgstr "%mercenarycompany%"
 
 
-msgid %messenger%
-msgstr %messenger%
+msgid "%messenger%"
+msgstr "%messenger%"
 
 
-msgid %militiacaptain%
-msgstr %militiacaptain%
+msgid "%militiacaptain%"
+msgstr "%militiacaptain%"
 
 
-msgid %miner%
-msgstr %miner%
+msgid "%miner%"
+msgstr "%miner%"
 
 
-msgid %minstrel%
-msgstr %minstrel%
+msgid "%minstrel%"
+msgstr "%minstrel%"
 
 
-msgid %monk%
-msgstr %monk%
+msgid "%monk%"
+msgstr "%monk%"
 
 
-msgid %monk1%
-msgstr %monk1%
+msgid "%monk1%"
+msgstr "%monk1%"
 
 
-msgid %monk2%
-msgstr %monk2%
+msgid "%monk2%"
+msgstr "%monk2%"
 
 
-msgid %monkfull%
-msgstr %monkfull%
+msgid "%monkfull%"
+msgstr "%monkfull%"
 
 
-msgid %motivator%
-msgstr %motivator%
+msgid "%motivator%"
+msgstr "%motivator%"
 
 
-msgid %nameditem%
-msgstr %nameditem%
+msgid "%nameditem%"
+msgstr "%nameditem%"
 
 
-msgid %nearesttown%
-msgstr %nearesttown%
+msgid "%nearesttown%"
+msgstr "%nearesttown%"
 
 
-msgid %nemesis%
-msgstr %nemesis%
+msgid "%nemesis%"
+msgstr "%nemesis%"
 
 
-msgid %nemesisC%
-msgstr %nemesisC%
+msgid "%nemesisC%"
+msgstr "%nemesisC%"
 
 
-msgid %nemesisS%
-msgstr %nemesisS%
+msgid "%nemesisS%"
+msgstr "%nemesisS%"
 
 
-msgid %newcost%
-msgstr %newcost%
+msgid "%newcost%"
+msgstr "%newcost%"
 
 
-msgid %newpay%
-msgstr %newpay%
+msgid "%newpay%"
+msgstr "%newpay%"
 
 
-msgid %nightowl%
-msgstr %nightowl%
+msgid "%nightowl%"
+msgstr "%nightowl%"
 
 
-msgid %noble%
-msgstr %noble%
+msgid "%noble%"
+msgstr "%noble%"
 
 
-msgid %nobledirection%
-msgstr %nobledirection%
+msgid "%nobledirection%"
+msgstr "%nobledirection%"
 
 
-msgid %noblefamily%
-msgstr %noblefamily%
+msgid "%noblefamily%"
+msgstr "%noblefamily%"
 
 
-msgid %noblefull%
-msgstr %noblefull%
+msgid "%noblefull%"
+msgstr "%noblefull%"
 
 
-msgid %noblehouse%
-msgstr %noblehouse%
+msgid "%noblehouse%"
+msgstr "%noblehouse%"
 
 
-msgid %noblehouse1%
-msgstr %noblehouse1%
+msgid "%noblehouse1%"
+msgstr "%noblehouse1%"
 
 
-msgid %noblehouse2%
-msgstr %noblehouse2%
+msgid "%noblehouse2%"
+msgstr "%noblehouse2%"
 
 
-msgid %noblehousename%
-msgstr %noblehousename%
+msgid "%noblehousename%"
+msgstr "%noblehousename%"
 
 
-msgid %nobleman%
-msgstr %nobleman%
+msgid "%nobleman%"
+msgstr "%nobleman%"
 
 
-msgid %nobleman_short%
-msgstr %nobleman_short%
+msgid "%nobleman_short%"
+msgstr "%nobleman_short%"
 
 
-msgid %noblename%
-msgstr %noblename%
+msgid "%noblename%"
+msgstr "%noblename%"
 
 
-msgid %noblesettlement%
-msgstr %noblesettlement%
+msgid "%noblesettlement%"
+msgstr "%noblesettlement%"
 
 
-msgid %noncom%
-msgstr %noncom%
+msgid "%noncom%"
+msgstr "%noncom%"
 
 
-msgid %noncombat%
-msgstr %noncombat%
+msgid "%noncombat%"
+msgstr "%noncombat%"
 
 
-msgid %nongambler%
-msgstr %nongambler%
+msgid "%nongambler%"
+msgstr "%nongambler%"
 
 
-msgid %nonhedgeknight%
-msgstr %nonhedgeknight%
+msgid "%nonhedgeknight%"
+msgstr "%nonhedgeknight%"
 
 
-msgid %nonhistorian%
-msgstr %nonhistorian%
+msgid "%nonhistorian%"
+msgstr "%nonhistorian%"
 
 
-msgid %nonjuggler%
-msgstr %nonjuggler%
+msgid "%nonjuggler%"
+msgstr "%nonjuggler%"
 
 
-msgid %notfarmer%
-msgstr %notfarmer%
+msgid "%notfarmer%"
+msgstr "%notfarmer%"
 
 
-msgid %nothammerbrother%
-msgstr %nothammerbrother%
+msgid "%nothammerbrother%"
+msgstr "%nothammerbrother%"
 
 
-msgid %notweaponbrother%
-msgstr %notweaponbrother%
+msgid "%notweaponbrother%"
+msgstr "%notweaponbrother%"
 
 
-msgid %number%
-msgstr %number%
+msgid "%number%"
+msgstr "%number%"
 
 
-msgid %numberC%
-msgstr %numberC%
+msgid "%numberC%"
+msgstr "%numberC%"
 
 
-msgid %oathtaker%
-msgstr %oathtaker%
+msgid "%oathtaker%"
+msgstr "%oathtaker%"
 
 
-msgid %oathtaker1%
-msgstr %oathtaker1%
+msgid "%oathtaker1%"
+msgstr "%oathtaker1%"
 
 
-msgid %oathtaker2%
-msgstr %oathtaker2%
+msgid "%oathtaker2%"
+msgstr "%oathtaker2%"
 
 
-msgid %objective%
-msgstr %objective%
+msgid "%objective%"
+msgstr "%objective%"
 
 
-msgid %objective1%
-msgstr %objective1%
+msgid "%objective1%"
+msgstr "%objective1%"
 
 
-msgid %objective2%
-msgstr %objective2%
+msgid "%objective2%"
+msgstr "%objective2%"
 
 
-msgid %objectivedirection%
-msgstr %objectivedirection%
+msgid "%objectivedirection%"
+msgstr "%objectivedirection%"
 
 
-msgid %observer%
-msgstr %observer%
+msgid "%observer%"
+msgstr "%observer%"
 
 
-msgid %oldgods%
-msgstr %oldgods%
+msgid "%oldgods%"
+msgstr "%oldgods%"
 
 
-msgid %oldguard%
-msgstr %oldguard%
+msgid "%oldguard%"
+msgstr "%oldguard%"
 
 
-msgid %oldpay%
-msgstr %oldpay%
+msgid "%oldpay%"
+msgstr "%oldpay%"
 
 
-msgid %opponent%
-msgstr %opponent%
+msgid "%opponent%"
+msgstr "%opponent%"
 
 
-msgid %optimist%
-msgstr %optimist%
+msgid "%optimist%"
+msgstr "%optimist%"
 
 
-msgid %orcslayer%
-msgstr %orcslayer%
+msgid "%orcslayer%"
+msgstr "%orcslayer%"
 
 
-msgid %origin%
-msgstr %origin%
+msgid "%origin%"
+msgstr "%origin%"
 
 
-msgid %other%
-msgstr %other%
+msgid "%other%"
+msgstr "%other%"
 
 
-msgid %other_bro%
-msgstr %other_bro%
+msgid "%other_bro%"
+msgstr "%other_bro%"
 
 
-msgid %otherbro%
-msgstr %otherbro%
+msgid "%otherbro%"
+msgstr "%otherbro%"
 
 
-msgid %otherbrother%
-msgstr %otherbrother%
+msgid "%otherbrother%"
+msgstr "%otherbrother%"
 
 
-msgid %othercasualty%
-msgstr %othercasualty%
+msgid "%othercasualty%"
+msgstr "%othercasualty%"
 
 
-msgid %otherguy%
-msgstr %otherguy%
+msgid "%otherguy%"
+msgstr "%otherguy%"
 
 
-msgid %otherguy1%
-msgstr %otherguy1%
+msgid "%otherguy1%"
+msgstr "%otherguy1%"
 
 
-msgid %otherguy2%
-msgstr %otherguy2%
+msgid "%otherguy2%"
+msgstr "%otherguy2%"
 
 
-msgid %othernoblehouse%
-msgstr %othernoblehouse%
+msgid "%othernoblehouse%"
+msgstr "%othernoblehouse%"
 
 
-msgid %otherother%
-msgstr %otherother%
+msgid "%otherother%"
+msgstr "%otherother%"
 
 
-msgid %othersellsword%
-msgstr %othersellsword%
+msgid "%othersellsword%"
+msgstr "%othersellsword%"
 
 
-msgid %paranoid%
-msgstr %paranoid%
+msgid "%paranoid%"
+msgstr "%paranoid%"
 
 
-msgid %pay%
-msgstr %pay%
+msgid "%pay%"
+msgstr "%pay%"
 
 
-msgid %payment%
-msgstr %payment%
+msgid "%payment%"
+msgstr "%payment%"
 
 
-msgid %peacekeeper%
-msgstr %peacekeeper%
+msgid "%peacekeeper%"
+msgstr "%peacekeeper%"
 
 
-msgid %peacekeeperfull%
-msgstr %peacekeeperfull%
+msgid "%peacekeeperfull%"
+msgstr "%peacekeeperfull%"
 
 
-msgid %peddler%
-msgstr %peddler%
+msgid "%peddler%"
+msgstr "%peddler%"
 
 
-msgid %pessimist%
-msgstr %pessimist%
+msgid "%pessimist%"
+msgstr "%pessimist%"
 
 
-msgid %playerdice%
-msgstr %playerdice%
+msgid "%playerdice%"
+msgstr "%playerdice%"
 
 
-msgid %poacher%
-msgstr %poacher%
+msgid "%poacher%"
+msgstr "%poacher%"
 
 
-msgid %price%
-msgstr %price%
+msgid "%price%"
+msgstr "%price%"
 
 
-msgid %prizename%
-msgstr %prizename%
+msgid "%prizename%"
+msgstr "%prizename%"
 
 
-msgid %prizetype%
-msgstr %prizetype%
+msgid "%prizetype%"
+msgstr "%prizetype%"
 
 
-msgid %produce%
-msgstr %produce%
+msgid "%produce%"
+msgstr "%produce%"
 
 
-msgid %protectee%
-msgstr %protectee%
+msgid "%protectee%"
+msgstr "%protectee%"
 
 
-msgid %raider%
-msgstr %raider%
+msgid "%raider%"
+msgstr "%raider%"
 
 
-msgid %raider1%
-msgstr %raider1%
+msgid "%raider1%"
+msgstr "%raider1%"
 
 
-msgid %raider2%
-msgstr %raider2%
+msgid "%raider2%"
+msgstr "%raider2%"
 
 
-msgid %raider3%
-msgstr %raider3%
+msgid "%raider3%"
+msgstr "%raider3%"
 
 
-msgid %raider4%
-msgstr %raider4%
+msgid "%raider4%"
+msgstr "%raider4%"
 
 
-msgid %randombrother%
-msgstr %randombrother%
+msgid "%randombrother%"
+msgstr "%randombrother%"
 
 
-msgid %randomcultist%
-msgstr %randomcultist%
+msgid "%randomcultist%"
+msgstr "%randomcultist%"
 
 
-msgid %randomnoblehouse%
-msgstr %randomnoblehouse%
+msgid "%randomnoblehouse%"
+msgstr "%randomnoblehouse%"
 
 
-msgid %randomwardog1%
-msgstr %randomwardog1%
+msgid "%randomwardog1%"
+msgstr "%randomwardog1%"
 
 
-msgid %randomwardog2%
-msgstr %randomwardog2%
+msgid "%randomwardog2%"
+msgstr "%randomwardog2%"
 
 
-msgid %ranged%
-msgstr %ranged%
+msgid "%ranged%"
+msgstr "%ranged%"
 
 
-msgid %ratcatcher%
-msgstr %ratcatcher%
+msgid "%ratcatcher%"
+msgstr "%ratcatcher%"
 
 
-msgid %ratcatcherfull%
-msgstr %ratcatcherfull%
+msgid "%ratcatcherfull%"
+msgstr "%ratcatcherfull%"
 
 
-msgid %recipient%
-msgstr %recipient%
+msgid "%recipient%"
+msgstr "%recipient%"
 
 
-msgid %recruit%
-msgstr %recruit%
+msgid "%recruit%"
+msgstr "%recruit%"
 
 
-msgid %refugee%
-msgstr %refugee%
+msgid "%refugee%"
+msgstr "%refugee%"
 
 
-msgid %refugee_bro%
-msgstr %refugee_bro%
+msgid "%refugee_bro%"
+msgstr "%refugee_bro%"
 
 
-msgid %region%
-msgstr %region%
+msgid "%region%"
+msgstr "%region%"
 
 
-msgid %regionname%
-msgstr %regionname%
+msgid "%regionname%"
+msgstr "%regionname%"
 
 
-msgid %regiontype%
-msgstr %regiontype%
+msgid "%regiontype%"
+msgstr "%regiontype%"
 
 
-msgid %remains%
-msgstr %remains%
+msgid "%remains%"
+msgstr "%remains%"
 
 
-msgid %retired%
-msgstr %retired%
+msgid "%retired%"
+msgstr "%retired%"
 
 
-msgid %retiredsoldier%
-msgstr %retiredsoldier%
+msgid "%retiredsoldier%"
+msgstr "%retiredsoldier%"
 
 
-msgid %reward%
-msgstr %reward%
+msgid "%reward%"
+msgstr "%reward%"
 
 
-msgid %reward_advance%
-msgstr %reward_advance%
+msgid "%reward_advance%"
+msgstr "%reward_advance%"
 
 
-msgid %reward_completion%
-msgstr %reward_completion%
+msgid "%reward_completion%"
+msgstr "%reward_completion%"
 
 
-msgid %reward_count%
-msgstr %reward_count%
+msgid "%reward_count%"
+msgstr "%reward_count%"
 
 
-msgid %risk%
-msgstr %risk%
+msgid "%risk%"
+msgstr "%risk%"
 
 
-msgid %rivalhouse%
-msgstr %rivalhouse%
+msgid "%rivalhouse%"
+msgstr "%rivalhouse%"
 
 
-msgid %robberbaron%
-msgstr %robberbaron%
+msgid "%robberbaron%"
+msgstr "%robberbaron%"
 
 
-msgid %sac1%
-msgstr %sac1%
+msgid "%sac1%"
+msgstr "%sac1%"
 
 
-msgid %sac2%
-msgstr %sac2%
+msgid "%sac2%"
+msgstr "%sac2%"
 
 
-msgid %sacrifice%
-msgstr %sacrifice%
+msgid "%sacrifice%"
+msgstr "%sacrifice%"
 
 
-msgid %sacrifice_short%
-msgstr %sacrifice_short%
+msgid "%sacrifice_short%"
+msgstr "%sacrifice_short%"
 
 
-msgid %scholar%
-msgstr %scholar%
+msgid "%scholar%"
+msgstr "%scholar%"
 
 
-msgid %scholar_short%
-msgstr %scholar_short%
+msgid "%scholar_short%"
+msgstr "%scholar_short%"
 
 
-msgid %sellsword%
-msgstr %sellsword%
+msgid "%sellsword%"
+msgstr "%sellsword%"
 
 
-msgid %sergeantbrother%
-msgstr %sergeantbrother%
+msgid "%sergeantbrother%"
+msgstr "%sergeantbrother%"
 
 
-msgid %sergeantbrotherfull%
-msgstr %sergeantbrotherfull%
+msgid "%sergeantbrotherfull%"
+msgstr "%sergeantbrotherfull%"
 
 
-msgid %servant%
-msgstr %servant%
+msgid "%servant%"
+msgstr "%servant%"
 
 
-msgid %settlement%
-msgstr %settlement%
+msgid "%settlement%"
+msgstr "%settlement%"
 
 
-msgid %settlementname%
-msgstr %settlementname%
+msgid "%settlementname%"
+msgstr "%settlementname%"
 
 
-msgid %shepherd%
-msgstr %shepherd%
+msgid "%shepherd%"
+msgstr "%shepherd%"
 
 
-msgid %shortsighted%
-msgstr %shortsighted%
+msgid "%shortsighted%"
+msgstr "%shortsighted%"
 
 
-msgid %shortsightedtarget%
-msgstr %shortsightedtarget%
+msgid "%shortsightedtarget%"
+msgstr "%shortsightedtarget%"
 
 
-msgid %shortsightedtargetshort%
-msgstr %shortsightedtargetshort%
+msgid "%shortsightedtargetshort%"
+msgstr "%shortsightedtargetshort%"
 
 
-msgid %shouter%
-msgstr %shouter%
+msgid "%shouter%"
+msgstr "%shouter%"
 
 
-msgid %sledder%
-msgstr %sledder%
+msgid "%sledder%"
+msgstr "%sledder%"
 
 
-msgid %someguy%
-msgstr %someguy%
+msgid "%someguy%"
+msgstr "%someguy%"
 
 
-msgid %someguy1%
-msgstr %someguy1%
+msgid "%someguy1%"
+msgstr "%someguy1%"
 
 
-msgid %someguy2%
-msgstr %someguy2%
+msgid "%someguy2%"
+msgstr "%someguy2%"
 
 
-msgid %sorcerer%
-msgstr %sorcerer%
+msgid "%sorcerer%"
+msgstr "%sorcerer%"
 
 
-msgid %spartacus%
-msgstr %spartacus%
+msgid "%spartacus%"
+msgstr "%spartacus%"
 
 
-msgid %spartan%
-msgstr %spartan%
+msgid "%spartan%"
+msgstr "%spartan%"
 
 
-msgid %spiderbro%
-msgstr %spiderbro%
+msgid "%spiderbro%"
+msgstr "%spiderbro%"
 
 
-msgid %splinterbro%
-msgstr %splinterbro%
+msgid "%splinterbro%"
+msgstr "%splinterbro%"
 
 
-msgid %squire%
-msgstr %squire%
+msgid "%squire%"
+msgstr "%squire%"
 
 
-msgid %squire2%
-msgstr %squire2%
+msgid "%squire2%"
+msgstr "%squire2%"
 
 
-msgid %star%
-msgstr %star%
+msgid "%star%"
+msgstr "%star%"
 
 
-msgid %start%
-msgstr %start%
+msgid "%start%"
+msgstr "%start%"
 
 
-msgid %streetrat%
-msgstr %streetrat%
+msgid "%streetrat%"
+msgstr "%streetrat%"
 
 
-msgid %strong%
-msgstr %strong%
+msgid "%strong%"
+msgstr "%strong%"
 
 
-msgid %strong1%
-msgstr %strong1%
+msgid "%strong1%"
+msgstr "%strong1%"
 
 
-msgid %strong2%
-msgstr %strong2%
+msgid "%strong2%"
+msgstr "%strong2%"
 
 
-msgid %strongbrother%
-msgstr %strongbrother%
+msgid "%strongbrother%"
+msgstr "%strongbrother%"
 
 
-msgid %strongest_brother%
-msgstr %strongest_brother%
+msgid "%strongest_brother%"
+msgstr "%strongest_brother%"
 
 
-msgid %strongfull%
-msgstr %strongfull%
+msgid "%strongfull%"
+msgstr "%strongfull%"
 
 
-msgid %successor%
-msgstr %successor%
+msgid "%successor%"
+msgstr "%successor%"
 
 
-msgid %superstitious%
-msgstr %superstitious%
+msgid "%superstitious%"
+msgstr "%superstitious%"
 
 
-msgid %supply_dest%
-msgstr %supply_dest%
+msgid "%supply_dest%"
+msgstr "%supply_dest%"
 
 
-msgid %supply_start%
-msgstr %supply_start%
+msgid "%supply_start%"
+msgstr "%supply_start%"
 
 
-msgid %surefooted%
-msgstr %surefooted%
+msgid "%surefooted%"
+msgstr "%surefooted%"
 
 
-msgid %swordmaster%
-msgstr %swordmaster%
+msgid "%swordmaster%"
+msgstr "%swordmaster%"
 
 
-msgid %swordstudent%
-msgstr %swordstudent%
+msgid "%swordstudent%"
+msgstr "%swordstudent%"
 
 
-msgid %tailor%
-msgstr %tailor%
+msgid "%tailor%"
+msgstr "%tailor%"
 
 
-msgid %taskedbro%
-msgstr %taskedbro%
+msgid "%taskedbro%"
+msgstr "%taskedbro%"
 
 
-msgid %teacher%
-msgstr %teacher%
+msgid "%teacher%"
+msgstr "%teacher%"
 
 
-msgid %teamplayer%
-msgstr %teamplayer%
+msgid "%teamplayer%"
+msgstr "%teamplayer%"
 
 
-msgid %terrain%
-msgstr %terrain%
+msgid "%terrain%"
+msgstr "%terrain%"
 
 
-msgid %thief%
-msgstr %thief%
+msgid "%thief%"
+msgstr "%thief%"
 
 
-msgid %tiny%
-msgstr %tiny%
+msgid "%tiny%"
+msgstr "%tiny%"
 
 
-msgid %torturer%
-msgstr %torturer%
+msgid "%torturer%"
+msgstr "%torturer%"
 
 
-msgid %totalenemy%
-msgstr %totalenemy%
+msgid "%totalenemy%"
+msgstr "%totalenemy%"
 
 
-msgid %town%
-msgstr %town%
+msgid "%town%"
+msgstr "%town%"
 
 
-msgid %townname%
-msgstr %townname%
+msgid "%townname%"
+msgstr "%townname%"
 
 
-msgid %townnameC%
-msgstr %townnameC%
+msgid "%townnameC%"
+msgstr "%townnameC%"
 
 
-msgid %translator%
-msgstr %translator%
+msgid "%translator%"
+msgstr "%translator%"
 
 
-msgid %travelbro%
-msgstr %travelbro%
+msgid "%travelbro%"
+msgstr "%travelbro%"
 
 
-msgid %trophy%
-msgstr %trophy%
+msgid "%trophy%"
+msgstr "%trophy%"
 
 
-msgid %troublemaker%
-msgstr %troublemaker%
+msgid "%troublemaker%"
+msgstr "%troublemaker%"
 
 
-msgid %uneducated%
-msgstr %uneducated%
+msgid "%uneducated%"
+msgstr "%uneducated%"
 
 
-msgid %uniqueitem%
-msgstr %uniqueitem%
+msgid "%uniqueitem%"
+msgstr "%uniqueitem%"
 
 
-msgid %veteran%
-msgstr %veteran%
+msgid "%veteran%"
+msgstr "%veteran%"
 
 
-msgid %victim%
-msgstr %victim%
+msgid "%victim%"
+msgstr "%victim%"
 
 
-msgid %volunteer%
-msgstr %volunteer%
+msgid "%volunteer%"
+msgstr "%volunteer%"
 
 
-msgid %walker%
-msgstr %walker%
+msgid "%walker%"
+msgstr "%walker%"
 
 
-msgid %walker1%
-msgstr %walker1%
+msgid "%walker1%"
+msgstr "%walker1%"
 
 
-msgid %walker2%
-msgstr %walker2%
+msgid "%walker2%"
+msgstr "%walker2%"
 
 
-msgid %wardog%
-msgstr %wardog%
+msgid "%wardog%"
+msgstr "%wardog%"
 
 
-msgid %weakbro%
-msgstr %weakbro%
+msgid "%weakbro%"
+msgstr "%weakbro%"
 
 
-msgid %weapon%
-msgstr %weapon%
+msgid "%weapon%"
+msgstr "%weapon%"
 
 
-msgid %weaponbrother%
-msgstr %weaponbrother%
+msgid "%weaponbrother%"
+msgstr "%weaponbrother%"
 
 
-msgid %wildman%
-msgstr %wildman%
+msgid "%wildman%"
+msgstr "%wildman%"
 
 
-msgid %wildmanfull%
-msgstr %wildmanfull%
+msgid "%wildmanfull%"
+msgstr "%wildmanfull%"
 
 
-msgid %winninghouse%
-msgstr %winninghouse%
+msgid "%winninghouse%"
+msgstr "%winninghouse%"
 
 
-msgid %witchhunter%
-msgstr %witchhunter%
+msgid "%witchhunter%"
+msgstr "%witchhunter%"
 
 
-msgid %witchhunter_short%
-msgstr %witchhunter_short%
+msgid "%witchhunter_short%"
+msgstr "%witchhunter_short%"
 
 
-msgid %witchhunterfull%
-msgstr %witchhunterfull%
+msgid "%witchhunterfull%"
+msgstr "%witchhunterfull%"
 
 
-msgid %worldmapregion%
-msgstr %worldmapregion%
+msgid "%worldmapregion%"
+msgstr "%worldmapregion%"
 
 
-msgid %wound%
-msgstr %wound%
+msgid "%wound%"
+msgstr "%wound%"
 
 
-msgid %woundedbrother%
-msgstr %woundedbrother%
+msgid "%woundedbrother%"
+msgstr "%woundedbrother%"
 
 
-msgid %woundedbrothershort%
-msgstr %woundedbrothershort%
+msgid "%woundedbrothershort%"
+msgstr "%woundedbrothershort%"
