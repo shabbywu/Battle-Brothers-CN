@@ -378,13 +378,13 @@ msgstr "这可是输了钱的，你会再来一次么？"
 
 
 # scripts/events/events/dlc4/horse_race_event.nut
-msgid "Very well. Someone step forward and race that horse!"
-msgstr "非常好。 来个人过去和那匹马赛跑！"
+msgid "Our fattest man, %fat%, will race for our enjoyment."
+msgstr "我们最胖的人，%fat%，会为了给我们带来欢乐去赛跑。"
 
 
 # scripts/events/events/dlc4/horse_race_event.nut
-msgid "Our fattest man, %fat%, will race for our enjoyment."
-msgstr "我们最胖的人，%fat%，会为了给我们带来欢乐去赛跑。"
+msgid "Very well. Someone step forward and race that horse!"
+msgstr "非常好。 来个人过去和那匹马赛跑！"
 
 
 # scripts/events/events/dlc4/horse_race_event.nut
@@ -605,13 +605,13 @@ msgstr "被献祭吓坏了，献祭的是 "
 
 
 # scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
-msgid "%sac1% will have the honor to meet Davkul."
-msgstr "%sac1% 将会获得去见达库尔的荣耀。"
+msgid "%sac2% will have the honor to meet Davkul."
+msgstr "%sac2% 将会获得去见达库尔的荣耀。"
 
 
 # scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
-msgid "%sac2% will have the honor to meet Davkul."
-msgstr "%sac2% 将会获得去见达库尔的荣耀。"
+msgid "%sac1% will have the honor to meet Davkul."
+msgstr "%sac1% 将会获得去见达库尔的荣耀。"
 
 
 # scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
@@ -1040,13 +1040,13 @@ msgstr "被死亡吓坏了，死的是 "
 
 
 # scripts/events/events/dlc4/cultist_origin_finale_event.nut
-msgid "It is done, and it is good."
-msgstr "它被做出来了，而且它很好。"
+msgid "The sacrifice must be made."
+msgstr "这场献祭一定要进行。"
 
 
 # scripts/events/events/dlc4/cultist_origin_finale_event.nut
-msgid "The sacrifice must be made."
-msgstr "这场献祭一定要进行。"
+msgid "It is done, and it is good."
+msgstr "它被做出来了，而且它很好。"
 
 
 # scripts/events/events/dlc4/cultist_origin_finale_event.nut

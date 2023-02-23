@@ -13,6 +13,11 @@ msgid "Quick"
 msgstr "锋利的"
 
 
+# scripts/skills/traits/iron_jaw_trait.nut
+msgid "Ironjaw"
+msgstr "铁爪"
+
+
 # scripts/skills/traits/dumb_trait.nut
 # scripts/skills/traits/deathwish_trait.nut
 msgid "the Odd"
@@ -30,24 +35,19 @@ msgstr "奥克班"
 
 
 # scripts/skills/traits/iron_jaw_trait.nut
-msgid "Ironjaw"
-msgstr "铁爪"
-
-
-# scripts/skills/traits/iron_jaw_trait.nut
 # scripts/skills/traits/tough_trait.nut
 msgid "the Rock"
 msgstr "岩石"
 
 
-# scripts/skills/traits/bloodthirsty_trait.nut
-msgid "the Cruel"
-msgstr "残酷的"
-
-
 # scripts/skills/traits/swift_trait.nut
 msgid "the Swift"
 msgstr "斯威夫特"
+
+
+# scripts/skills/traits/bloodthirsty_trait.nut
+msgid "the Cruel"
+msgstr "残酷的"
 
 
 # scripts/skills/traits/weasel_trait.nut
@@ -383,12 +383,12 @@ msgstr "在这个角色的生活中，一些过去的事件已经激起了对所
 
 
 # scripts/skills/traits/oath_of_sacrifice_trait.nut
-msgid "Injuries do not heal"
+msgid "Is not paid any wage"
 msgstr ""
 
 
 # scripts/skills/traits/oath_of_sacrifice_trait.nut
-msgid "Is not paid any wage"
+msgid "Injuries do not heal"
 msgstr ""
 
 
@@ -809,12 +809,12 @@ msgstr ""
 
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
-msgid "]+10[/color] Melee Skill when fighting undead"
+msgid "]-10[/color] Resolve when not fighting undead"
 msgstr ""
 
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
-msgid "]-10[/color] Resolve when not fighting undead"
+msgid "]+10[/color] Melee Skill when fighting undead"
 msgstr ""
 
 
@@ -919,12 +919,12 @@ msgstr ""
 
 
 # scripts/skills/traits/ailing_trait.nut
-msgid "the Ailing"
+msgid "the Sickly"
 msgstr ""
 
 
 # scripts/skills/traits/ailing_trait.nut
-msgid "the Sickly"
+msgid "the Ailing"
 msgstr ""
 
 
@@ -1260,12 +1260,12 @@ msgstr "矮小"
 
 
 # scripts/skills/traits/tiny_trait.nut
-msgid "the Short"
+msgid "the Dwarf"
 msgstr ""
 
 
 # scripts/skills/traits/tiny_trait.nut
-msgid "the Dwarf"
+msgid "the Short"
 msgstr ""
 
 
@@ -1588,13 +1588,13 @@ msgstr "继续前进。 这个角色将勇敢地冒险进入未知世界。"
 
 
 # scripts/skills/traits/disloyal_trait.nut
-msgid "Disloyal"
-msgstr "不忠诚"
+msgid "the Liar"
+msgstr ""
 
 
 # scripts/skills/traits/disloyal_trait.nut
-msgid "the Liar"
-msgstr ""
+msgid "Disloyal"
+msgstr "不忠诚"
 
 
 # scripts/skills/traits/disloyal_trait.nut
@@ -1649,12 +1649,12 @@ msgstr ""
 
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
-msgid "]+10[/color] Ranged Skill when fighting greenskins"
+msgid "]+5[/color] Melee Defense when fighting greenskins"
 msgstr ""
 
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
-msgid "]+5[/color] Melee Defense when fighting greenskins"
+msgid "]+10[/color] Ranged Skill when fighting greenskins"
 msgstr ""
 
 
@@ -1779,12 +1779,12 @@ msgstr "肥胖"
 
 
 # scripts/skills/traits/fat_trait.nut
-msgid "the Pig"
+msgid "the Fat"
 msgstr ""
 
 
 # scripts/skills/traits/fat_trait.nut
-msgid "the Fat"
+msgid "the Pig"
 msgstr ""
 
 

@@ -97,13 +97,13 @@ msgstr "什么？"
 
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "We'll go in."
-msgstr "我们要进去了。"
+msgid "Let's do it."
+msgstr "让我们开始吧。"
 
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "Let's do it."
-msgstr "让我们开始吧。"
+msgid "We'll go in."
+msgstr "我们要进去了。"
 
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
@@ -117,13 +117,13 @@ msgstr "不妨看看。"
 
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "Chirp. Chirp chirp chirp?"
-msgstr "啁啾。 啁啾啁啾啁啾？"
+msgid "No, that's not happening."
+msgstr "不, 那不会发生。"
 
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "No, that's not happening."
-msgstr "不, 那不会发生。"
+msgid "Chirp. Chirp chirp chirp?"
+msgstr "啁啾。 啁啾啁啾啁啾？"
 
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
@@ -132,13 +132,13 @@ msgstr "好吧，很好。 你可以加入我们。"
 
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "Ah well. Two of the vials are ours."
-msgstr "啊，好吧。 这两个瓶子是我们的了。"
+msgid "Seems dangerous. Let's get out now."
+msgstr "看起来很危险。 让我们现在出去吧。"
 
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "Seems dangerous. Let's get out now."
-msgstr "看起来很危险。 让我们现在出去吧。"
+msgid "Ah well. Two of the vials are ours."
+msgstr "啊，好吧。 这两个瓶子是我们的了。"
 
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
@@ -172,11 +172,6 @@ msgstr "在一座古墓的旅行中受伤"
 
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "Still a successful go, all things considered."
-msgstr "仍然是一次成功的旅行, 所有的情况都考虑到了。"
-
-
-# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 msgid "Probably the best way to answer a riddle yet."
 msgstr "也许是回答一个谜语的最好方法。"
 
@@ -184,6 +179,11 @@ msgstr "也许是回答一个谜语的最好方法。"
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 msgid "Well, we got vials for just that problem now."
 msgstr "好吧, 我们现在就有解决那个问题的瓶子。"
+
+
+# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
+msgid "Still a successful go, all things considered."
+msgstr "仍然是一次成功的旅行, 所有的情况都考虑到了。"
 
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
@@ -337,13 +337,13 @@ msgstr "你是个十足的疯子。"
 
 
 # scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
-msgid "I'll bring you the hides."
-msgstr "我会把兽皮带给你的。"
+msgid "So the deal is done then?"
+msgstr "那么交易完成了？"
 
 
 # scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
-msgid "So the deal is done then?"
-msgstr "那么交易完成了？"
+msgid "I'll bring you the hides."
+msgstr "我会把兽皮带给你的。"
 
 
 # scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
@@ -588,13 +588,13 @@ msgstr "你想要什么？"
 
 
 # scripts/events/events/dlc2/location/witchhut_enter_event.nut
-msgid "We've already come this far."
-msgstr "我们已经付出了这么多。"
+msgid "Stay here and stay on guard."
+msgstr "呆在这里注意防御。"
 
 
 # scripts/events/events/dlc2/location/witchhut_enter_event.nut
-msgid "Stay here and stay on guard."
-msgstr "呆在这里注意防御。"
+msgid "We've already come this far."
+msgstr "我们已经付出了这么多。"
 
 
 # scripts/events/events/dlc2/location/witchhut_enter_event.nut

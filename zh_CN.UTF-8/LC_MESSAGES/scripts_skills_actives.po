@@ -42,14 +42,14 @@ msgid "Footwork"
 msgstr "步法"
 
 
-# scripts/skills/actives/adrenaline_skill.nut
-msgid "Adrenaline"
-msgstr "肾上腺素"
-
-
 # scripts/skills/actives/debilitate.nut
 msgid "Debilitate"
 msgstr "衰弱"
+
+
+# scripts/skills/actives/adrenaline_skill.nut
+msgid "Adrenaline"
+msgstr "肾上腺素"
 
 
 # scripts/skills/actives/indomitable.nut
@@ -98,17 +98,17 @@ msgstr ""
 
 
 # scripts/skills/actives/throw_dirt_skill.nut
+msgid "eeeeeeee"
+msgstr ""
+
+
+# scripts/skills/actives/throw_dirt_skill.nut
 msgid "eeeeee00"
 msgstr ""
 
 
 # scripts/skills/actives/alp_teleport_skill.nut
 msgid "ffffff2f"
-msgstr ""
-
-
-# scripts/skills/actives/throw_dirt_skill.nut
-msgid "eeeeeeee"
 msgstr ""
 
 
@@ -227,14 +227,14 @@ msgid "'s shield"
 msgstr ""
 
 
-# scripts/skills/actives/shieldwall.nut
-msgid "Shieldwall"
-msgstr "盾墙"
-
-
 # scripts/skills/actives/break_free_skill.nut
 msgid ", Rolled: "
 msgstr ""
+
+
+# scripts/skills/actives/shieldwall.nut
+msgid "Shieldwall"
+msgstr "盾墙"
 
 
 # scripts/skills/actives/throw_spear_skill.nut
@@ -375,13 +375,13 @@ msgstr " 把奇怪的蘑菇给 "
 
 
 # scripts/skills/actives/berserker_mushrooms_skill.nut
-msgid "Eat or Give Strange Mushrooms"
-msgstr ""
+msgid "]+40%[/color] Damage in Melee"
+msgstr "]+40%[/color] 近战中的伤害"
 
 
 # scripts/skills/actives/berserker_mushrooms_skill.nut
-msgid "]+40%[/color] Damage in Melee"
-msgstr "]+40%[/color] 近战中的伤害"
+msgid "Eat or Give Strange Mushrooms"
+msgstr ""
 
 
 # scripts/skills/actives/berserker_mushrooms_skill.nut
@@ -613,12 +613,12 @@ msgstr "]+10%[/color] 命中几率"
 
 
 # scripts/skills/actives/gash_skill.nut
-msgid "]33%[/color] lower threshold to inflict injuries"
+msgid "]50%[/color] lower threshold to inflict injuries"
 msgstr ""
 
 
 # scripts/skills/actives/gash_skill.nut
-msgid "]50%[/color] lower threshold to inflict injuries"
+msgid "]33%[/color] lower threshold to inflict injuries"
 msgstr ""
 
 
@@ -1078,13 +1078,13 @@ msgstr ""
 
 
 # scripts/skills/actives/rally_the_troops.nut
-msgid "]Can not rally others the same turn as being rallied himself[/color]"
-msgstr "]在自己被集结的同一轮不能再集结其他人。[/color]"
+msgid "Removes the Sleeping status effect of allies within 4 tiles distance"
+msgstr "移除4格距离内友方的睡眠状态效果"
 
 
 # scripts/skills/actives/rally_the_troops.nut
-msgid "Removes the Sleeping status effect of allies within 4 tiles distance"
-msgstr "移除4格距离内友方的睡眠状态效果"
+msgid "]Can not rally others the same turn as being rallied himself[/color]"
+msgstr "]在自己被集结的同一轮不能再集结其他人。[/color]"
 
 
 # scripts/skills/actives/rally_the_troops.nut

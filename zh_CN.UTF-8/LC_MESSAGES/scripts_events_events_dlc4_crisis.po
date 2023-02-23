@@ -54,23 +54,23 @@ msgstr "你得靠你自己，孩子。"
 
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
-msgid "Lead us to your house, kid."
-msgstr "带我们去你的房子，孩子。"
-
-
-# scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
 msgid "Alright, alright, let's go."
 msgstr "好吧，好吧，我们去。"
 
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
-msgid "Best throw that crockpot away."
-msgstr "最好把那个锅扔掉。"
+msgid "Lead us to your house, kid."
+msgstr "带我们去你的房子，孩子。"
 
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
 msgid "That makes up for the trouble."
 msgstr "这样息事宁人吧。"
+
+
+# scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
+msgid "Best throw that crockpot away."
+msgstr "最好把那个锅扔掉。"
 
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut

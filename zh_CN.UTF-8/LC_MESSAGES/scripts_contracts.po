@@ -60,40 +60,8 @@ msgid "A legion of walking dead, back to claim from the living what was once the
 msgstr "一群行尸走肉，回来从生者手中夺走曾经属于他们的东西。"
 
 # scripts/contracts/contract.nut
-msgid "end"
-msgstr ""
-
-# scripts/contracts/contract.nut
-msgid "List"
-msgstr ""
-
-# scripts/contracts/contract.nut
-msgid "Title"
-msgstr ""
-
-# scripts/contracts/contract.nut
-msgid "origin"
-msgstr ""
-
-# scripts/contracts/contract.nut
-msgid "update"
-msgstr ""
-
-# scripts/contracts/contract.nut
-msgid "Banner"
-msgstr ""
-
-# scripts/contracts/contract.nut
 msgid "Payment"
 msgstr "报酬"
-
-# scripts/contracts/contract.nut
-msgid "faction"
-msgstr ""
-
-# scripts/contracts/contract.nut
-msgid "produce"
-msgstr ""
 
 # scripts/contracts/contract.nut
 msgid "State \""
@@ -104,28 +72,8 @@ msgid "Screen \""
 msgstr ""
 
 # scripts/contracts/contract.nut
-msgid "employer"
-msgstr "雇主"
-
-# scripts/contracts/contract.nut
-msgid "maxcount"
-msgstr ""
-
-# scripts/contracts/contract.nut
-msgid "townname"
-msgstr ""
-
-# scripts/contracts/contract.nut
-msgid "Characters"
-msgstr ""
-
-# scripts/contracts/contract.nut
 msgid "Objectives"
 msgstr "目标"
-
-# scripts/contracts/contract.nut
-msgid "companyname"
-msgstr ""
 
 # scripts/contracts/contract.nut
 msgid "[color=#30ac2a]"

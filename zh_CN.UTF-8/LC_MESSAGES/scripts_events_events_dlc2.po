@@ -391,14 +391,14 @@ msgstr "也许我该睡觉了。"
 
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
-msgid "Maybe two or three drinks, even."
-msgstr "可能会喝两三杯。"
-
-
-# scripts/events/events/dlc2/alp_nightmare2_event.nut
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
 msgid "I just hope you'll heal in time."
 msgstr "我只希望你能及时康复。"
+
+
+# scripts/events/events/dlc2/alp_nightmare2_event.nut
+msgid "Maybe two or three drinks, even."
+msgstr "可能会喝两三杯。"
 
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
@@ -805,13 +805,13 @@ msgstr "多漂亮的女人啊。"
 
 
 # scripts/events/events/dlc2/oracle_event.nut
-msgid "Burn the witch!"
-msgstr "烧死这个女巫！"
+msgid "No, we're good."
+msgstr "不，我们没事。"
 
 
 # scripts/events/events/dlc2/oracle_event.nut
-msgid "No, we're good."
-msgstr "不，我们没事。"
+msgid "Burn the witch!"
+msgstr "烧死这个女巫！"
 
 
 # scripts/events/events/dlc2/oracle_event.nut
@@ -860,14 +860,14 @@ msgstr "[img]gfx/ui/events/event_11.png[/img]{You step into the tent and its fol
 
 
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
-# scripts/events/events/dlc2/youngling_alp_event.nut
-msgid "Good work."
-msgstr "做得好。"
+msgid "Let's dig!"
+msgstr "我们开挖吧！"
 
 
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
-msgid "Let's dig!"
-msgstr "我们开挖吧！"
+# scripts/events/events/dlc2/youngling_alp_event.nut
+msgid "Good work."
+msgstr "做得好。"
 
 
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
@@ -986,13 +986,13 @@ msgstr "来吧，%hedgeknight%。 停下来！"
 
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
-msgid "What were we fighting about again?"
-msgstr ""
+msgid "You can deal with this yourselves."
+msgstr "你可以自己解决这个问题。"
 
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
-msgid "You can deal with this yourselves."
-msgstr "你可以自己解决这个问题。"
+msgid "What were we fighting about again?"
+msgstr ""
 
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
@@ -1282,11 +1282,6 @@ msgstr "[img]gfx/ui/events/event_12.png[/img]{Shouting and hollering, %other% dr
 
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
-msgid "Witnessed "
-msgstr ""
-
-
-# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "Lucky guy."
 msgstr "幸运的家伙。"
 
@@ -1294,6 +1289,11 @@ msgstr "幸运的家伙。"
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "Nice shot!"
 msgstr "射的好！"
+
+
+# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
+msgid "Witnessed "
+msgstr ""
 
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut

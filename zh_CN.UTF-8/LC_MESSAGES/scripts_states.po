@@ -99,26 +99,6 @@ msgstr ""
 
 
 # scripts/states/world_state.nut
-msgid "Fog Of War deactivated."
-msgstr ""
-
-
-# scripts/states/world_state.nut
-msgid "World Speed set to x7.0"
-msgstr ""
-
-
-# scripts/states/world_state.nut
-msgid "World Speed set to x5.0"
-msgstr ""
-
-
-# scripts/states/world_state.nut
-msgid "World Speed set to x6.0"
-msgstr ""
-
-
-# scripts/states/world_state.nut
 msgid "World Speed set to x9.0"
 msgstr ""
 
@@ -134,12 +114,32 @@ msgstr ""
 
 
 # scripts/states/world_state.nut
+msgid "World Speed set to x7.0"
+msgstr ""
+
+
+# scripts/states/world_state.nut
+msgid "World Speed set to x6.0"
+msgstr ""
+
+
+# scripts/states/world_state.nut
+msgid "Fog Of War deactivated."
+msgstr ""
+
+
+# scripts/states/world_state.nut
 msgid "World Speed set to x4.0"
 msgstr ""
 
 
 # scripts/states/world_state.nut
-msgid "Player can now be attacked."
+msgid "World Speed set to x5.0"
+msgstr ""
+
+
+# scripts/states/world_state.nut
+msgid "Player can NOT be attacked."
 msgstr ""
 
 
@@ -149,7 +149,7 @@ msgstr ""
 
 
 # scripts/states/world_state.nut
-msgid "Player can NOT be attacked."
+msgid "Player can now be attacked."
 msgstr ""
 
 
@@ -160,13 +160,13 @@ msgstr ""
 
 
 # scripts/states/world_state.nut
-# scripts/states/tactical_state.nut
-msgid "*** DEVELOPER MODE DISABLED ***"
+msgid "Player is NOT consuming assets."
 msgstr ""
 
 
 # scripts/states/world_state.nut
-msgid "Player is NOT consuming assets."
+# scripts/states/tactical_state.nut
+msgid "*** DEVELOPER MODE DISABLED ***"
 msgstr ""
 
 
@@ -206,17 +206,7 @@ msgstr "退出"
 
 
 # scripts/states/tactical_state.nut
-msgid "grow"
-msgstr ""
-
-
-# scripts/states/tactical_state.nut
 msgid "loose"
-msgstr ""
-
-
-# scripts/states/tactical_state.nut
-msgid " round"
 msgstr ""
 
 
@@ -226,13 +216,18 @@ msgstr "失败"
 
 
 # scripts/states/tactical_state.nut
-msgid "Retreat"
-msgstr "撤退"
+msgid " round"
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
 msgid "Victory"
 msgstr "胜利"
+
+
+# scripts/states/tactical_state.nut
+msgid "Retreat"
+msgstr "撤退"
 
 
 # scripts/states/tactical_state.nut
@@ -256,8 +251,8 @@ msgstr "赢了一场战斗"
 
 
 # scripts/states/tactical_state.nut
-msgid "Lost a battle"
-msgstr "输了一场战斗"
+msgid "Are you sure?"
+msgstr "你确定吗？"
 
 
 # scripts/states/tactical_state.nut
@@ -271,8 +266,8 @@ msgstr ""
 
 
 # scripts/states/tactical_state.nut
-msgid "Are you sure?"
-msgstr "你确定吗？"
+msgid "Lost a battle"
+msgstr "输了一场战斗"
 
 
 # scripts/states/tactical_state.nut
@@ -286,12 +281,12 @@ msgstr ""
 
 
 # scripts/states/tactical_state.nut
-msgid "*** AI PAUSED ***"
+msgid "Quit to Main Menu"
 msgstr ""
 
 
 # scripts/states/tactical_state.nut
-msgid "Quit to Main Menu"
+msgid "*** AI PAUSED ***"
 msgstr ""
 
 
@@ -301,13 +296,13 @@ msgstr ""
 
 
 # scripts/states/tactical_state.nut
-msgid "*** AI RESUMED ***"
-msgstr ""
+msgid "The Enemy Retreats"
+msgstr "敌人撤退了"
 
 
 # scripts/states/tactical_state.nut
-msgid "The Enemy Retreats"
-msgstr "敌人撤退了"
+msgid "*** AI RESUMED ***"
+msgstr ""
 
 
 # scripts/states/tactical_state.nut
@@ -331,13 +326,13 @@ msgstr "觉得是无用的后备"
 
 
 # scripts/states/tactical_state.nut
-msgid "]Invalid target![/color]"
-msgstr "]无效的目标！[/color]"
+msgid "Won a fight in the arena"
+msgstr "在竞技场赢了一场"
 
 
 # scripts/states/tactical_state.nut
-msgid "Won a fight in the arena"
-msgstr "在竞技场赢了一场"
+msgid "]Invalid target![/color]"
+msgstr "]无效的目标！[/color]"
 
 
 # scripts/states/tactical_state.nut

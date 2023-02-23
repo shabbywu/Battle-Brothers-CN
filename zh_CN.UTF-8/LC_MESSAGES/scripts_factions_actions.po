@@ -1,8 +1,3 @@
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Alps"
-msgstr "阿尔卑斯"
-
-
 # scripts/factions/actions/move_orcs_action.nut
 # scripts/factions/actions/defend_orcs_action.nut
 msgid "Orcs"
@@ -10,8 +5,18 @@ msgstr "兽人"
 
 
 # scripts/factions/actions/send_beast_roamers_action.nut
+msgid "Alps"
+msgstr "阿尔卑斯"
+
+
+# scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Hexen"
 msgstr "女巫"
+
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "Kraken"
+msgstr "海妖"
 
 
 # scripts/factions/actions/send_beast_roamers_action.nut
@@ -41,8 +46,8 @@ msgstr "伊夫利特"
 
 
 # scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Kraken"
-msgstr "海妖"
+msgid "Schrats"
+msgstr "施拉茨"
 
 
 # scripts/factions/actions/move_goblins_action.nut
@@ -51,25 +56,10 @@ msgid "Goblins"
 msgstr "地精"
 
 
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Schrats"
-msgstr "施拉茨"
-
-
 # scripts/factions/actions/send_bandit_ambushers_action.nut
 # scripts/factions/actions/defend_bandits_action.nut
 msgid "Brigands"
 msgstr "强盗"
-
-
-# scripts/factions/actions/send_peasants_action.nut
-msgid "Citizens"
-msgstr "公民"
-
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Serpents"
-msgstr "蛇"
 
 
 # scripts/factions/actions/send_refugees_action.nut
@@ -80,6 +70,16 @@ msgstr "难民"
 # scripts/factions/actions/send_peasants_action.nut
 msgid "Peasants"
 msgstr "农民"
+
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "Serpents"
+msgstr "蛇"
+
+
+# scripts/factions/actions/send_peasants_action.nut
+msgid "Citizens"
+msgstr "公民"
 
 
 # scripts/factions/actions/defend_barbarians_action.nut

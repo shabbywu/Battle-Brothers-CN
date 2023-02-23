@@ -124,14 +124,14 @@ msgstr ""
 
 
 # scripts/skills/effects_world/new_trained_effect.nut
-# scripts/skills/effects_world/new_knowledge_potion_effect.nut
-msgid "Will be gone after "
+# scripts/skills/effects_world/trained_effect.nut
+msgid "Training Experience"
 msgstr ""
 
 
 # scripts/skills/effects_world/new_trained_effect.nut
-# scripts/skills/effects_world/trained_effect.nut
-msgid "Training Experience"
+# scripts/skills/effects_world/new_knowledge_potion_effect.nut
+msgid "Will be gone after "
 msgstr ""
 
 

@@ -50,13 +50,13 @@ msgstr "我们需要更多的预付款。"
 
 
 # scripts/contracts/templates/negotiation_templates.nut
-msgid "Contract negotiations turned sour"
-msgstr "合同谈判变糟了"
+msgid "We need to be paid more for this."
+msgstr "我们需要更多的报酬。"
 
 
 # scripts/contracts/templates/negotiation_templates.nut
-msgid "We need to be paid more for this."
-msgstr "我们需要更多的报酬。"
+msgid "Contract negotiations turned sour"
+msgstr "合同谈判变糟了"
 
 
 # scripts/contracts/templates/negotiation_templates.nut
@@ -70,23 +70,13 @@ msgstr " 克朗，为你带回的每个人头， up to "
 
 
 # scripts/contracts/templates/negotiation_templates.nut
-msgid "I'll need some time to think about this."
-msgstr "我需要一些时间来考虑考虑。"
-
-
-# scripts/contracts/templates/negotiation_templates.nut
 msgid " crowns per head you arrive with, up to "
 msgstr " 克朗，为你送达的每个人头， up to "
 
 
 # scripts/contracts/templates/negotiation_templates.nut
-msgid "On second thought, I decline this contract."
-msgstr "再想一想，我拒绝这份合同。"
-
-
-# scripts/contracts/templates/negotiation_templates.nut
-msgid "We need more payment once the work is done."
-msgstr "工作完成后我们需要更多的报酬。"
+msgid "I'll need some time to think about this."
+msgstr "我需要一些时间来考虑考虑。"
 
 
 # scripts/contracts/templates/negotiation_templates.nut
@@ -100,18 +90,28 @@ msgstr "我们需要你为送达的人头付钱。"
 
 
 # scripts/contracts/templates/negotiation_templates.nut
+msgid "We need more payment once the work is done."
+msgstr "工作完成后我们需要更多的报酬。"
+
+
+# scripts/contracts/templates/negotiation_templates.nut
+msgid "On second thought, I decline this contract."
+msgstr "再想一想，我拒绝这份合同。"
+
+
+# scripts/contracts/templates/negotiation_templates.nut
 msgid "We won't risk our lives for such meager pay..."
 msgstr "我们不会为了微薄的报酬而冒生命危险…"
 
 
 # scripts/contracts/templates/negotiation_templates.nut
-msgid "We need to be paid more per head we arrive with."
-msgstr "我们需要你为送达的人头付更多的钱。"
+msgid "We need to be paid more per head we return with."
+msgstr "我们需要你为每个人头付更多的钱。"
 
 
 # scripts/contracts/templates/negotiation_templates.nut
-msgid "We need to be paid more per head we return with."
-msgstr "我们需要你为每个人头付更多的钱。"
+msgid "We need to be paid more per head we arrive with."
+msgstr "我们需要你为送达的人头付更多的钱。"
 
 
 # scripts/contracts/templates/negotiation_templates.nut
@@ -160,13 +160,13 @@ msgstr "{你会得到 | 你将收到 | 我会给你 | It's} %reward_advance% 克
 
 
 # scripts/contracts/templates/negotiation_templates.nut
-msgid "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%"
-msgstr "{你会得到 | 你将收到 | 我会给你 | It's} %reward_count% 克朗，为你送达的每个人头， {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, 完成任务后还有 %reward_completion%。%SPEECH_OFF%"
+msgid "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you return with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%"
+msgstr "{你会得到 | 你将收到 | 我会给你 | It's} %reward_count% 克朗，为你载回的每个人头， {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, 完成任务后还有 %reward_completion%。%SPEECH_OFF%"
 
 
 # scripts/contracts/templates/negotiation_templates.nut
-msgid "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you return with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%"
-msgstr "{你会得到 | 你将收到 | 我会给你 | It's} %reward_count% 克朗，为你载回的每个人头， {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, 完成任务后还有 %reward_completion%。%SPEECH_OFF%"
+msgid "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%"
+msgstr "{你会得到 | 你将收到 | 我会给你 | It's} %reward_count% 克朗，为你送达的每个人头， {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, 完成任务后还有 %reward_completion%。%SPEECH_OFF%"
 
 
 # scripts/contracts/templates/negotiation_templates.nut
