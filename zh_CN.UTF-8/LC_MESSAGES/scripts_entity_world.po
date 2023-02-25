@@ -1,27 +1,26 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/entity/world/world_entity.nut
 msgid "A "
 msgstr "一个"
-
 
 # scripts/entity/world/world_entity.nut
 msgid "An "
 msgstr "一个"
 
-
 # scripts/entity/world/world_entity.nut
 msgid "Puny"
 msgstr "弱小的"
-
 
 # scripts/entity/world/world_entity.nut
 msgid "Even"
 msgstr ""
 
-
 # scripts/entity/world/world_entity.nut
 msgid "The "
 msgstr ""
-
 
 # scripts/entity/world/party.nut
 # scripts/entity/world/entity_manager.nut
@@ -29,36 +28,29 @@ msgstr ""
 msgid "base"
 msgstr ""
 
-
 # scripts/entity/world/settlement.nut
 msgid "goods"
 msgstr ""
-
 
 # scripts/entity/world/party.nut
 msgid "From "
 msgstr ""
 
-
 # scripts/entity/world/attached_location.nut
 msgid "Ruins"
 msgstr "废墟"
-
 
 # scripts/entity/world/world_entity.nut
 msgid "Deadly"
 msgstr "致命"
 
-
 # scripts/entity/world/world_entity.nut
 msgid "Weaker"
 msgstr ""
 
-
 # scripts/entity/world/party.nut
 msgid "orders"
 msgstr ""
-
 
 # scripts/entity/world/party.nut
 # scripts/entity/world/entity_manager.nut
@@ -66,22 +58,18 @@ msgstr ""
 msgid "banner"
 msgstr ""
 
-
 # scripts/entity/world/party.nut
 msgid "combat"
 msgstr ""
-
 
 # scripts/entity/world/world_entity.nut
 msgid "Unknown"
 msgstr "未知的"
 
-
 # scripts/entity/world/attached_location.nut
 # scripts/entity/world/player_party.nut
 msgid "ffffff00"
 msgstr ""
-
 
 # scripts/entity/world/settlement.nut
 # scripts/entity/world/attached_location.nut
@@ -89,110 +77,91 @@ msgstr ""
 msgid "lighting"
 msgstr ""
 
-
 # scripts/entity/world/party.nut
 msgid "Fighting"
 msgstr ""
-
 
 # scripts/entity/world/world_entity.nut
 # scripts/entity/world/entity_manager.nut
 msgid "selection"
 msgstr ""
 
-
 # scripts/entity/world/settlement.nut
 msgid "Ruins of "
 msgstr ""
-
 
 # scripts/entity/world/party.nut
 msgid "Hired by "
 msgstr ""
 
-
 # scripts/entity/world/world_entity.nut
 msgid "Impossible"
 msgstr ""
-
 
 # scripts/entity/world/world_entity.nut
 msgid "Challenging"
 msgstr ""
 
-
 # scripts/entity/world/settlement.nut
 msgid "Relations: "
 msgstr ""
-
 
 # scripts/entity/world/world_entity.nut
 msgid "worldentity("
 msgstr ""
 
-
 # scripts/entity/world/party.nut
 msgid "Unknown troops"
 msgstr "未知部队"
-
 
 # scripts/entity/world/world_entity.nut
 msgid "Slightly Weaker"
 msgstr ""
 
-
 # scripts/entity/world/location.nut
 msgid "Unknown garrison"
 msgstr "未知的驻军"
-
 
 # scripts/entity/world/location.nut
 msgid "This location is "
 msgstr "这个地方是在 "
 
-
 # scripts/entity/world/combat_manager.nut
 msgid "Entity cannot be attacked!"
 msgstr ""
-
 
 # scripts/entity/world/entity_manager.nut
 msgid "unable to find unique name: "
 msgstr "找不到唯一名称： "
 
-
 # scripts/entity/world/settlement.nut
 msgid "You've never been to this place."
 msgstr "你从未到过这个地方。"
-
 
 # scripts/entity/world/location.nut
 msgid "This location has fortifications"
 msgstr "这个地方有防御工事"
 
-
 # scripts/entity/world/location.nut
 msgid "Location forfeited combat - no defenders in spawnlist!"
 msgstr ""
-
 
 # scripts/entity/world/settlement.nut
 msgid "Only ruins are left of what was once a flourishing town."
 msgstr "这个曾经繁荣的城市只剩下一片废墟。"
 
-
 # scripts/entity/world/settlement.nut
 msgid "Only ruins are left of what was once a formidable castle."
 msgstr "这座曾经令人生畏的城堡只剩下废墟。"
 
-
 # scripts/entity/world/attached_location.nut
-msgid "Once part of the nearby settlement, these are now burned down and abandoned ruins."
+msgid ""
+"Once part of the nearby settlement, these are now burned down and abandoned "
+"ruins."
 msgstr "曾经是附近定居点的一部分，现在被烧毁并废弃了。"
 
-
 # scripts/entity/world/entity_manager.nut
-msgid "A free mercenary company travelling the lands and lending their swords to the highest bidder."
+msgid ""
+"A free mercenary company travelling the lands and lending their swords to "
+"the highest bidder."
 msgstr "一个自由的雇佣兵战队在各地旅行，把他们的剑借给出价最高的人。"
-
-

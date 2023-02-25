@@ -1,100 +1,90 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/contracts/contract.nut
 msgid "Undead"
 msgstr "亡灵"
-
 
 # scripts/contracts/contract_manager.nut
 msgid " (id: "
 msgstr ""
 
+# scripts/contracts/contract.nut
+msgid "State \""
+msgstr ""
 
 # scripts/contracts/contract.nut
 msgid "Payment"
 msgstr "报酬"
 
-
-# scripts/contracts/contract.nut
-msgid "State \""
-msgstr ""
-
-
 # scripts/contracts/contract.nut
 msgid "Brigands"
 msgstr "强盗"
-
 
 # scripts/contracts/contract.nut
 msgid "Screen \""
 msgstr ""
 
-
 # scripts/contracts/contract.nut
 msgid "Objectives"
 msgstr "目标"
-
 
 # scripts/contracts/contract.nut
 msgid "Orc Marauders"
 msgstr "兽人收割者"
 
-
 # scripts/contracts/contract.nut
 msgid "Goblin Raiders"
 msgstr ""
-
 
 # scripts/contracts/contract.nut
 msgid "[color=#30ac2a]"
 msgstr ""
 
-
 # scripts/contracts/contract.nut
 msgid "[color=#bcad8c]\""
 msgstr ""
-
 
 # scripts/contracts/contract.nut
 msgid "Broke a contract"
 msgstr "撕毁了合同"
 
-
 # scripts/contracts/contract.nut
-msgid "\n\n[color=#bcad8c]\""
+msgid ""
+"\n"
+"\n"
+"[color=#bcad8c]\""
 msgstr ""
-
 
 # scripts/contracts/contract_manager.nut
 msgid "contract removed: "
 msgstr ""
 
-
 # scripts/contracts/contract.nut
 msgid "Something seems wrong."
 msgstr "好像有问题。"
-
 
 # scripts/contracts/contract.nut
 msgid "\" not found for contract \""
 msgstr ""
 
-
 # scripts/contracts/contract.nut
 msgid "A rough and tough band of brigands out to hunt for food."
 msgstr "一伙强盗为了食物而突然走出去。"
-
 
 # scripts/contracts/contract.nut
 msgid "A band of menacing orcs, greenskinned and towering any man."
 msgstr "一群凶残的兽人，绿皮肤，高耸于任何人之上。"
 
-
 # scripts/contracts/contract.nut
-msgid "A legion of walking dead, back to claim from the living what was once theirs."
+msgid ""
+"A legion of walking dead, back to claim from the living what was once "
+"theirs."
 msgstr "一大群行尸，向活着的人索取曾经属于他们的东西。"
 
-
 # scripts/contracts/contract.nut
-msgid "A band of mischievous goblins, small but cunning and not to be underestimated."
+msgid ""
+"A band of mischievous goblins, small but cunning and not to be "
+"underestimated."
 msgstr "一群淘气的哥布林，小而狡猾，不可低估。"
-
-

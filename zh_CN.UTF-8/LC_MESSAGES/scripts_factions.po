@@ -1,86 +1,72 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/factions/settlement_faction.nut
 # scripts/factions/city_state_faction.nut
 msgid "of "
 msgstr " ·"
 
-
 # scripts/factions/faction_manager.nut
 msgid "Orcs"
 msgstr "兽人"
-
 
 # scripts/factions/noble_faction.nut
 msgid "von "
 msgstr ""
 
-
 # scripts/factions/faction_manager.nut
 msgid "Arena"
 msgstr "竞技场"
-
 
 # scripts/factions/faction_manager.nut
 msgid "Enemy"
 msgstr ""
 
-
 # scripts/factions/faction_manager.nut
 msgid "Undead"
 msgstr "亡灵"
-
 
 # scripts/factions/noble_faction.nut
 msgid "House "
 msgstr ""
 
-
 # scripts/factions/faction_manager.nut
 msgid "Goblins"
 msgstr "地精"
-
 
 # scripts/factions/faction_manager.nut
 msgid "Bandits"
 msgstr ""
 
-
 # scripts/factions/faction_manager.nut
 msgid "Barbarians"
 msgstr "野蛮人"
-
 
 # scripts/factions/faction_manager.nut
 msgid " cycles..."
 msgstr ""
 
-
 # scripts/factions/faction_manager.nut
 msgid "Necromancers"
 msgstr "死灵法师"
-
 
 # scripts/factions/faction_manager.nut
 msgid "Desert Raiders"
 msgstr ""
 
-
 # scripts/factions/faction_manager.nut
 msgid "Running simulation for "
 msgstr ""
-
 
 # scripts/factions/noble_faction.nut
 msgid "Changed sides in the war"
 msgstr "在战争中改变了立场"
 
-
 # scripts/factions/faction_manager.nut
 msgid "STARTING GREATER EVIL - LIVE PHASE!"
 msgstr ""
 
-
 # scripts/factions/faction_manager.nut
 msgid "STARTING GREATER EVIL - WARNING PHASE!"
 msgstr ""
-
-

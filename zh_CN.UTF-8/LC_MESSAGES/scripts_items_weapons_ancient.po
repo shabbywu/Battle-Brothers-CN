@@ -1,53 +1,47 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/items/weapons/ancient/falx.nut
 msgid "Falx"
 msgstr "达西安镰刀"
-
 
 # scripts/items/weapons/ancient/khopesh.nut
 msgid "Khopesh"
 msgstr "镰弯刀"
 
-
 # scripts/items/weapons/ancient/warscythe.nut
 msgid "Warscythe"
 msgstr "军用镰刀"
-
 
 # scripts/items/weapons/ancient/rhomphaia.nut
 msgid "Rhomphaia"
 msgstr "长柄逆刃剑"
 
-
 # scripts/items/weapons/ancient/ancient_sword.nut
 msgid "Ancient Sword"
 msgstr "古代刃剑"
-
 
 # scripts/items/weapons/ancient/crypt_cleaver.nut
 msgid "Crypt Cleaver"
 msgstr "墓穴砍刀"
 
-
 # scripts/items/weapons/ancient/ancient_spear.nut
 msgid "Ancient Spear"
 msgstr "古代长矛"
-
 
 # scripts/items/weapons/ancient/ancient_spear.nut
 msgid "Spear, One-Handed"
 msgstr ""
 
-
 # scripts/items/weapons/ancient/rhomphaia.nut
 msgid "Sword, Two-Handed"
 msgstr ""
-
 
 # scripts/items/weapons/ancient/ancient_sword.nut
 # scripts/items/weapons/ancient/broken_ancient_sword.nut
 msgid "Sword, One-Handed"
 msgstr ""
-
 
 # scripts/items/weapons/ancient/broken_bladed_pike.nut
 # scripts/items/weapons/ancient/bladed_pike.nut
@@ -55,80 +49,84 @@ msgstr ""
 msgid "Polearm, Two-Handed"
 msgstr ""
 
-
 # scripts/items/weapons/ancient/falx.nut
 # scripts/items/weapons/ancient/khopesh.nut
 msgid "Cleaver, One-Handed"
 msgstr ""
 
-
 # scripts/items/weapons/ancient/crypt_cleaver.nut
 msgid "Cleaver, Two-Handed"
 msgstr ""
-
 
 # scripts/items/weapons/ancient/bladed_pike.nut
 msgid "Ancient Bladed Pike"
 msgstr "古代刃枪"
 
-
 # scripts/items/weapons/ancient/broken_ancient_sword.nut
 msgid "Broken Ancient Sword"
 msgstr "破损的古代刃剑"
-
 
 # scripts/items/weapons/ancient/broken_bladed_pike.nut
 msgid "Broken Ancient Bladed Pike"
 msgstr "破损的古代刃枪"
 
-
 # scripts/items/weapons/ancient/broken_ancient_sword.nut
 msgid "An ancient sword with a broken blade, severely limiting its reach."
 msgstr "一种古老的剑，锋刃断了，严重限制了它的使用。"
 
-
 # scripts/items/weapons/ancient/ancient_spear.nut
-msgid "An ancient wooden spear of simple design. Time has taken its toll on this weapon."
+msgid ""
+"An ancient wooden spear of simple design. Time has taken its toll on this "
+"weapon."
 msgstr "设计简单的古代木制矛。长久的岁月对它造成了不可修复的损害。"
 
-
 # scripts/items/weapons/ancient/bladed_pike.nut
-msgid "A long, ancient pike used to attack over some distance and keeping the enemy at bay."
+msgid ""
+"A long, ancient pike used to attack over some distance and keeping the enemy"
+" at bay."
 msgstr "一种长而古老的长矛，用于远距离攻击并与敌人保持距离。"
 
-
 # scripts/items/weapons/ancient/warscythe.nut
-msgid "A long pole attached to a sharp curved blade, used to deliver deep sweeping strikes over some distance."
+msgid ""
+"A long pole attached to a sharp curved blade, used to deliver deep sweeping "
+"strikes over some distance."
 msgstr "一种附有锋利弯曲的刀刃的长杆，用于在一定距离内进行深扫打击。"
 
-
 # scripts/items/weapons/ancient/falx.nut
-msgid "A short and heavy blade with a curved edge designed for hacking and ripping bleeding wounds. Dulled over the years."
+msgid ""
+"A short and heavy blade with a curved edge designed for hacking and ripping "
+"bleeding wounds. Dulled over the years."
 msgstr "一种短而重的刀刃，刀刃弯曲，用于切开流血的伤口。多年来变得迟钝了。"
 
-
 # scripts/items/weapons/ancient/crypt_cleaver.nut
-msgid "A heavy blade with an oddly curved end, combining the qualities of sword and axe into a devastating two-handed cleaver."
+msgid ""
+"A heavy blade with an oddly curved end, combining the qualities of sword and"
+" axe into a devastating two-handed cleaver."
 msgstr "一种末端奇怪弯曲的沉重的刀刃，将剑和斧头的特性结合成一个毁灭性的双手砍刀。"
 
-
 # scripts/items/weapons/ancient/khopesh.nut
-msgid "An ancient curved sword on a long handle with strange ornamentations. Its shape makes it particularly effective against armor."
-msgstr "An ancient curved sword on a long handle with strange ornamentations. Its shape makes it particularly 效果作用于盔甲."
-
+msgid ""
+"An ancient curved sword on a long handle with strange ornamentations. Its "
+"shape makes it particularly effective against armor."
+msgstr ""
+"An ancient curved sword on a long handle with strange ornamentations. Its "
+"shape makes it particularly 效果作用于盔甲."
 
 # scripts/items/weapons/ancient/rhomphaia.nut
-msgid "A long and curved blade, sharpened only on one side, on a large handle. Can be used both for quick slashes and sweeping strikes."
+msgid ""
+"A long and curved blade, sharpened only on one side, on a large handle. Can "
+"be used both for quick slashes and sweeping strikes."
 msgstr "一种长而弯曲的刀片，只在一边磨尖，在一个大手柄上。 既可用于快速切割，也可用于横扫打击。"
 
-
 # scripts/items/weapons/ancient/broken_bladed_pike.nut
-msgid "A bladed pike with a broken tip. Not all weapons stand the test of time. Once used to attack over some distance and keeping the enemy at bay."
+msgid ""
+"A bladed pike with a broken tip. Not all weapons stand the test of time. "
+"Once used to attack over some distance and keeping the enemy at bay."
 msgstr "尖头折断的有刃的长矛。 并非所有的武器都能经受住时间的考验。 可以用来远距离攻击并阻止敌人。"
 
-
 # scripts/items/weapons/ancient/ancient_sword.nut
-msgid "A straight blade of ancient origin. The grip is covered with strange ornamentations, which may make it valuable to historians and other scholarly-minded individuals."
+msgid ""
+"A straight blade of ancient origin. The grip is covered with strange "
+"ornamentations, which may make it valuable to historians and other "
+"scholarly-minded individuals."
 msgstr "一种起源于古代的直刃。握把上覆盖着奇怪的装饰物，这可能使它对历史学家和其他有学术头脑的人有价值。"
-
-

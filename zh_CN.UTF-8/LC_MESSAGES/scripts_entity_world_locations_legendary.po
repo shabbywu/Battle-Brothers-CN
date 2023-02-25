@@ -1,177 +1,185 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/entity/world/locations/legendary/vulcano_location.nut
 # scripts/entity/world/locations/legendary/meteorite_location.nut
 # scripts/entity/world/locations/legendary/oracle_location.nut
 msgid "banner"
 msgstr ""
 
-
 # scripts/entity/world/locations/legendary/icy_cave_location.nut
 msgid "Icy Cave"
 msgstr "冰洞"
-
 
 # scripts/entity/world/locations/legendary/waterwheel_location.nut
 msgid "Watermill"
 msgstr "水磨"
 
-
 # scripts/entity/world/locations/legendary/witch_hut_location.nut
 msgid "Witch Hut"
 msgstr "女巫小屋"
-
 
 # scripts/entity/world/locations/legendary/unique_goblin_city_location.nut
 msgid "Rul'gazhix"
 msgstr "统治者加齐克斯"
 
-
 # scripts/entity/world/locations/legendary/oracle_location.nut
 msgid "The Oracle"
 msgstr "神谕"
-
 
 # scripts/entity/world/locations/legendary/ancient_watchtower_location.nut
 msgid "Ancient Spire"
 msgstr "古代尖塔"
 
-
 # scripts/entity/world/locations/legendary/kraken_cult_location.nut
 msgid "Stone Pillars"
 msgstr "石柱"
-
 
 # scripts/entity/world/locations/legendary/black_monolith_location.nut
 msgid "Black Monolith"
 msgstr "黑色巨石"
 
-
 # scripts/entity/world/locations/legendary/ancient_temple_location.nut
 msgid "Ancient Temple"
 msgstr "古代神殿"
-
 
 # scripts/entity/world/locations/legendary/fountain_of_youth_location.nut
 msgid "Grotesque Tree"
 msgstr "怪诞树"
 
-
 # scripts/entity/world/locations/legendary/sunken_library_location.nut
 msgid "Sunken Library"
 msgstr "沉没的图书馆"
-
 
 # scripts/entity/world/locations/legendary/ancient_statue_location.nut
 msgid "Ancient Statue"
 msgstr "古代雕像"
 
-
 # scripts/entity/world/locations/legendary/tundra_elk_location.nut
 msgid "Hunting Ground"
 msgstr "狩猎场"
-
 
 # scripts/entity/world/locations/legendary/meteorite_location.nut
 msgid "The Fallen Star"
 msgstr "陨星"
 
-
 # scripts/entity/world/locations/legendary/vulcano_location.nut
 msgid "The Ancient City"
 msgstr "古代城市"
-
 
 # scripts/entity/world/locations/legendary/unhold_graveyard_location.nut
 msgid "Unhold Graveyard"
 msgstr "露天巨魔坟场"
 
-
 # scripts/entity/world/locations/legendary/land_ship_location.nut
 msgid "Curious Ship Wreck"
 msgstr "奇怪的沉船"
 
-
 # scripts/entity/world/locations/legendary/ancient_statue_location.nut
-msgid "A huge statue glittering in the sun that towers over the surrounding landscape."
+msgid ""
+"A huge statue glittering in the sun that towers over the surrounding "
+"landscape."
 msgstr "一座巨大的雕像在阳光下闪闪发光，耸立在周围的风景之上。"
 
-
 # scripts/entity/world/locations/legendary/ancient_watchtower_location.nut
-msgid "A thin spire reaching high into the sky. The view from the top must be staggering."
+msgid ""
+"A thin spire reaching high into the sky. The view from the top must be "
+"staggering."
 msgstr "高耸入云的尖顶。看起来是令人震惊的。"
 
-
 # scripts/entity/world/locations/legendary/tundra_elk_location.nut
-msgid "A lone elk grazes on green meadows, in the shadow of some trees and by a small lake."
+msgid ""
+"A lone elk grazes on green meadows, in the shadow of some trees and by a "
+"small lake."
 msgstr "在一个小湖边的树荫下，一只孤独的麋鹿在绿色的草地上吃草。"
 
-
 # scripts/entity/world/locations/legendary/kraken_cult_location.nut
-msgid "Stone circles and pillars with strange markings hint at something eerie looming in the area."
+msgid ""
+"Stone circles and pillars with strange markings hint at something eerie "
+"looming in the area."
 msgstr "石圈和柱子上有奇怪的标记，暗示着这一地区有某种神秘的东西。"
 
-
 # scripts/entity/world/locations/legendary/waterwheel_location.nut
-msgid "A small watermill with a stony house at its side. It looks like someone might be living here."
+msgid ""
+"A small watermill with a stony house at its side. It looks like someone "
+"might be living here."
 msgstr "旁边有石头房子的小水磨。 好像有某种强大的人物住在这里。"
 
-
 # scripts/entity/world/locations/legendary/icy_cave_location.nut
-msgid "A cave amidst a sea of snow and rock. A thick gate of icicles keeps your entrance well stayed."
+msgid ""
+"A cave amidst a sea of snow and rock. A thick gate of icicles keeps your "
+"entrance well stayed."
 msgstr "冰雪海洋中的洞穴。 一扇厚厚的冰柱门能让你的入口保持良好的状态。"
 
-
 # scripts/entity/world/locations/legendary/land_ship_location.nut
-msgid "Atop some trees sits a large wooden structure. As strange as it seems, it looks a lot like a ship."
+msgid ""
+"Atop some trees sits a large wooden structure. As strange as it seems, it "
+"looks a lot like a ship."
 msgstr "在一些树的顶上有一个很大的木结构。虽然看起来很奇怪，但它看起来很像一艘船。"
 
-
 # scripts/entity/world/locations/legendary/ancient_temple_location.nut
-msgid "The sunken and half buried entrance to some sort of temple or mausoleum that sticks out of the ground."
+msgid ""
+"The sunken and half buried entrance to some sort of temple or mausoleum that"
+" sticks out of the ground."
 msgstr "一个凹陷的半掩埋的入口，通向某种突出地面的神殿或陵墓。"
 
-
 # scripts/entity/world/locations/legendary/witch_hut_location.nut
-msgid "A skewed and withered hut that looks like it could collapse at any moment. Smoke is rising from an awry chimney."
+msgid ""
+"A skewed and withered hut that looks like it could collapse at any moment. "
+"Smoke is rising from an awry chimney."
 msgstr "一个倾斜而枯萎的小屋，看起来随时都可能倒塌。烟从歪斜的烟囱里冒出来。"
 
-
 # scripts/entity/world/locations/legendary/black_monolith_location.nut
-msgid "A pitch black monolith towers over the surrounding lands, emitting a baleful aura. No living being dares drawing close to it."
+msgid ""
+"A pitch black monolith towers over the surrounding lands, emitting a baleful"
+" aura. No living being dares drawing close to it."
 msgstr "一块漆黑的巨石耸立在周围的土地上，散发出一种恶毒的气息。没有人敢接近它。"
 
-
 # scripts/entity/world/locations/legendary/unhold_graveyard_location.nut
-msgid "A wide field littered with gigantic bones and skulls. Some are bleached to white but some are fresh and still have flesh attached to them."
+msgid ""
+"A wide field littered with gigantic bones and skulls. Some are bleached to "
+"white but some are fresh and still have flesh attached to them."
 msgstr "散落着巨大骨头和头骨的宽大场地。有些变淡成为了白色，但有些是新鲜的，仍然有肉附着在上面。"
 
-
 # scripts/entity/world/locations/legendary/sunken_library_location.nut
-msgid "Shimmering in the sun, golden domes peer out of the sand and give away that something larger lies dormant here, sunken and buried under the sand for ages."
+msgid ""
+"Shimmering in the sun, golden domes peer out of the sand and give away that "
+"something larger lies dormant here, sunken and buried under the sand for "
+"ages."
 msgstr "在阳光下散发辉光，突出沙漠的黄金穹顶暗示着下面有着更大的空间，埋藏在多年的风沙下。"
 
-
 # scripts/entity/world/locations/legendary/fountain_of_youth_location.nut
-msgid "A small clearing in the forest centered around a curios, slender tree. Something seems to be off about this tree but it is difficult to make out from afar."
+msgid ""
+"A small clearing in the forest centered around a curios, slender tree. "
+"Something seems to be off about this tree but it is difficult to make out "
+"from afar."
 msgstr "森林中以一棵细长的古董树为中心的小空地。这棵树似乎有点不对劲，但很难从远处看出来。"
 
-
 # scripts/entity/world/locations/legendary/unique_goblin_city_location.nut
-msgid "A great goblin city nested into the remains of an ancient fortress. Protected by dark and towering walls, it is host to a standing army of vicious greenskins."
+msgid ""
+"A great goblin city nested into the remains of an ancient fortress. "
+"Protected by dark and towering walls, it is host to a standing army of "
+"vicious greenskins."
 msgstr "一座巨大的哥布林城市，嵌套在一座古老要塞的遗迹中。在黑暗和高耸的墙壁的保护下，它承载着一支邪恶的绿皮军团。"
 
-
 # scripts/entity/world/locations/legendary/oracle_location.nut
-msgid "The remains of a temple that once housed an oracle in an age long past. Although ruined now, people still flock to it and have visions of things that will come to pass."
+msgid ""
+"The remains of a temple that once housed an oracle in an age long past. "
+"Although ruined now, people still flock to it and have visions of things "
+"that will come to pass."
 msgstr "一个很久以前是神谕所的神殿遗迹。 尽管现在破败了，人们仍从各地来到这里窥探他们的未来。"
 
-
 # scripts/entity/world/locations/legendary/vulcano_location.nut
-msgid "Once a thriving city, now but ruins covered in ash. A fallen metropolis with many names, it has become an object of cultural and religious pride for north and south alike."
+msgid ""
+"Once a thriving city, now but ruins covered in ash. A fallen metropolis with"
+" many names, it has become an object of cultural and religious pride for "
+"north and south alike."
 msgstr "一个曾经繁荣的城市，现在不过是灰尘笼罩的废墟。 这片废墟拥有许多名字，现在它成为了南北共有的文化和宗教圣地。"
 
-
 # scripts/entity/world/locations/legendary/meteorite_location.nut
-msgid "A great crater in the ground made by a rock that fell from the sky. A mausoleum was built around it a long ago, and to this day people from all corners of the world set out to pilgrimage here."
+msgid ""
+"A great crater in the ground made by a rock that fell from the sky. A "
+"mausoleum was built around it a long ago, and to this day people from all "
+"corners of the world set out to pilgrimage here."
 msgstr "一块从天而降的陨石砸出来的大坑。 很久前围绕着它有一座陵墓，今天世界各地的人们都到此地朝圣。"
-
-

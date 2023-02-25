@@ -1,497 +1,467 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/states/world_state.nut
 msgid "A "
 msgstr "一个"
-
 
 # scripts/states/world_state.nut
 msgid "An "
 msgstr "一个"
 
-
 # scripts/states/world_state.nut
 msgid "y: "
 msgstr ""
-
 
 # scripts/states/tactical_state.nut
 msgid "win"
 msgstr ""
 
-
 # scripts/states/world_state.nut
 msgid "The "
 msgstr ""
-
 
 # scripts/states/tactical_state.nut
 msgid "Quit"
 msgstr "退出"
 
-
 # scripts/states/main_menu_state.nut
 msgid "Test"
 msgstr ""
-
 
 # scripts/states/tactical_state.nut
 msgid "actor"
 msgstr ""
 
-
 # scripts/states/world_state.nut
 msgid "Flee!"
 msgstr "逃走！"
-
 
 # scripts/states/tactical_state.nut
 msgid "loose"
 msgstr ""
 
-
 # scripts/states/main_menu_state.nut
 msgid "Swipe"
 msgstr "横扫"
-
 
 # scripts/states/tactical_state.nut
 msgid "Cancel"
 msgstr "取消"
 
-
 # scripts/states/world_state.nut
 msgid "type: "
 msgstr ""
-
 
 # scripts/states/tactical_state.nut
 msgid "Defeat"
 msgstr "失败"
 
-
 # scripts/states/tactical_state.nut
 msgid " round"
-msgstr ""
-
+msgstr "回合后"
 
 # scripts/states/tactical_state.nut
 msgid "Victory"
 msgstr "胜利"
 
-
 # scripts/states/tactical_state.nut
 msgid "Retreat"
 msgstr "撤退"
-
 
 # scripts/states/tactical_state.nut
 msgid "Retreat!"
 msgstr "撤退！"
 
-
 # scripts/states/tactical_state.nut
 msgid "It's over"
 msgstr "结束了"
-
 
 # scripts/states/world_state.nut
 msgid "Fall back!"
 msgstr "撤退！"
 
-
 # scripts/states/world_state.nut
 msgid "distance: "
 msgstr ""
-
-
-# scripts/states/main_menu_state.nut
-msgid "Wolfriders"
-msgstr "狼骑兵"
-
 
 # scripts/states/main_menu_state.nut
 msgid "Early Game"
 msgstr "游戏前期"
 
+# scripts/states/main_menu_state.nut
+msgid "Wolfriders"
+msgstr "狼骑兵"
 
 # scripts/states/tactical_state.nut
 msgid "Left to die"
 msgstr "任其死去"
 
-
 # scripts/states/tactical_state.nut
 msgid "Won a battle"
 msgstr "赢了一场战斗"
-
 
 # scripts/states/world_state.nut
 msgid "Orc Marauders"
 msgstr "兽人收割者"
 
-
 # scripts/states/world_state.nut
 msgid "Attacked them"
 msgstr "攻击他们"
-
-
-# scripts/states/tactical_state.nut
-msgid "Are you sure?"
-msgstr "你确定吗？"
-
-
-# scripts/states/tactical_state.nut
-msgid "Quit & Retire"
-msgstr "退出并退休"
-
-
-# scripts/states/tactical_state.nut
-msgid "] on target ["
-msgstr ""
-
 
 # scripts/states/tactical_state.nut
 msgid "Lost a battle"
 msgstr "输了一场战斗"
 
+# scripts/states/tactical_state.nut
+msgid "] on target ["
+msgstr ""
+
+# scripts/states/tactical_state.nut
+msgid "Quit & Retire"
+msgstr "退出并退休"
+
+# scripts/states/tactical_state.nut
+msgid "Are you sure?"
+msgstr "你确定吗？"
 
 # scripts/states/main_menu_state.nut
 msgid "Combat Basics"
 msgstr "战斗基础"
 
-
 # scripts/states/world_state.nut
 msgid "Fortifications"
 msgstr "防御工事"
-
 
 # scripts/states/tactical_state.nut
 msgid "Run them down!"
 msgstr "赶尽杀绝！"
 
+# scripts/states/world_state.nut
+msgid "Load campaign: "
+msgstr ""
 
 # scripts/states/world_state.nut
 msgid "Save campaign: "
 msgstr ""
 
-
-# scripts/states/world_state.nut
-msgid "Load campaign: "
-msgstr ""
-
-
 # scripts/states/tactical_state.nut
 msgid "You lost after "
-msgstr ""
-
+msgstr "你战败了, 在"
 
 # scripts/states/main_menu_state.nut
 msgid "Defend the Hill"
 msgstr "守卫小山"
 
-
 # scripts/states/world_state.nut
 msgid "(Press Spacebar)"
 msgstr ""
-
-
-# scripts/states/tactical_state.nut
-msgid "Quit to Main Menu"
-msgstr "退出到主菜单"
-
 
 # scripts/states/tactical_state.nut
 msgid "*** AI PAUSED ***"
 msgstr ""
 
-
 # scripts/states/tactical_state.nut
-msgid "] executes skill ["
-msgstr ""
-
-
-# scripts/states/tactical_state.nut
-msgid "The Enemy Retreats"
-msgstr "敌人撤退了"
-
+msgid "Quit to Main Menu"
+msgstr "退出到主菜单"
 
 # scripts/states/tactical_state.nut
 msgid "*** AI RESUMED ***"
 msgstr ""
 
+# scripts/states/tactical_state.nut
+msgid "The Enemy Retreats"
+msgstr "敌人撤退了"
+
+# scripts/states/tactical_state.nut
+msgid "] executes skill ["
+msgstr ""
 
 # scripts/states/main_menu_state.nut
 msgid "Line Battle (Orcs)"
 msgstr "战线（兽人）"
 
-
 # scripts/states/world_state.nut
 msgid "Old Campaign Loaded"
 msgstr "老战役已加载"
-
 
 # scripts/states/tactical_state.nut
 msgid "Retreat From Combat"
 msgstr "从战斗中撤退"
 
-
 # scripts/states/main_menu_state.nut
 msgid "A Walk in the Woods"
 msgstr "林中漫步"
-
 
 # scripts/states/world_state.nut
 msgid "Clearing World Scene"
 msgstr ""
 
-
 # scripts/states/tactical_state.nut
 msgid "You retreated after "
-msgstr ""
-
+msgstr "你撤退了, 在"
 
 # scripts/states/main_menu_state.nut
 msgid "Line Battle (Undead)"
 msgstr "战线（亡灵）"
 
-
 # scripts/states/world_state.nut
 msgid "Fog Of War activated."
 msgstr ""
-
 
 # scripts/states/tactical_state.nut
 msgid "Retreated from battle"
 msgstr "从战斗中撤退"
 
-
 # scripts/states/main_menu_state.nut
 msgid "Line Battle (Goblins)"
 msgstr "战线（哥布林）"
-
 
 # scripts/states/world_state.nut
 msgid "World Speed set to x9.0"
 msgstr ""
 
-
-# scripts/states/world_state.nut
-msgid "World Speed set to x3.0"
-msgstr ""
-
-
-# scripts/states/world_state.nut
-msgid "World Speed set to x8.0"
-msgstr ""
-
-
-# scripts/states/world_state.nut
-msgid "World Speed set to x7.0"
-msgstr ""
-
-
-# scripts/states/world_state.nut
-msgid "World Speed set to x6.0"
-msgstr ""
-
-
 # scripts/states/world_state.nut
 msgid "Fog Of War deactivated."
 msgstr ""
-
 
 # scripts/states/world_state.nut
 msgid "World Speed set to x4.0"
 msgstr ""
 
-
 # scripts/states/world_state.nut
 msgid "World Speed set to x5.0"
 msgstr ""
 
+# scripts/states/world_state.nut
+msgid "World Speed set to x3.0"
+msgstr ""
+
+# scripts/states/world_state.nut
+msgid "World Speed set to x6.0"
+msgstr ""
+
+# scripts/states/world_state.nut
+msgid "World Speed set to x7.0"
+msgstr ""
+
+# scripts/states/world_state.nut
+msgid "World Speed set to x8.0"
+msgstr ""
 
 # scripts/states/tactical_state.nut
 msgid "Felt useless in reserve"
 msgstr "觉得是无用的后备"
 
+# scripts/states/tactical_state.nut
+msgid "]Invalid target![/color]"
+msgstr "]无效的目标！[/color]"
 
 # scripts/states/tactical_state.nut
 msgid "Won a fight in the arena"
 msgstr "在竞技场赢了一场"
 
-
-# scripts/states/tactical_state.nut
-msgid "]Invalid target![/color]"
-msgstr "]无效的目标！[/color]"
-
-
 # scripts/states/tactical_state.nut
 msgid "INFO: Next round issued: "
 msgstr ""
 
-
 # scripts/states/tactical_state.nut
 msgid "The enemy retreated after "
-msgstr ""
-
-
-# scripts/states/world_state.nut
-msgid "Player can NOT be attacked."
-msgstr ""
-
-
-# scripts/states/world_state.nut
-msgid "Player is consuming assets."
-msgstr ""
-
+msgstr "敌人撤退了, 在"
 
 # scripts/states/world_state.nut
 msgid "Player can now be attacked."
 msgstr ""
 
+# scripts/states/world_state.nut
+msgid "Player is consuming assets."
+msgstr ""
+
+# scripts/states/world_state.nut
+msgid "Player can NOT be attacked."
+msgstr ""
 
 # scripts/states/tactical_state.nut
 msgid "The enemy was destroyed in "
-msgstr ""
-
+msgstr "敌人被消灭了, 在"
 
 # scripts/states/world_state.nut
 # scripts/states/tactical_state.nut
 msgid "*** DEVELOPER MODE ENABLED ***"
 msgstr ""
 
-
-# scripts/states/world_state.nut
-msgid "Player is NOT consuming assets."
-msgstr ""
-
-
 # scripts/states/world_state.nut
 # scripts/states/tactical_state.nut
 msgid "*** DEVELOPER MODE DISABLED ***"
 msgstr ""
 
+# scripts/states/world_state.nut
+msgid "Player is NOT consuming assets."
+msgstr ""
 
 # scripts/states/tactical_state.nut
 msgid "entity is currently travelling!"
 msgstr ""
 
-
 # scripts/states/tactical_state.nut
 msgid "entity is currently executing a skill!"
 msgstr ""
-
 
 # scripts/states/main_menu_state.nut
 msgid "Scenario Screen is not fully visible. Be patient!"
 msgstr ""
 
-
 # scripts/states/main_menu_state.nut
 msgid "Load Campaign Screen is not fully visible. Be patient!"
 msgstr "载入战役 Screen is not fully visible. Be patient!"
-
 
 # scripts/states/world_state.nut
 msgid "A band of menacing orcs, greenskinned and towering any man."
 msgstr "一群凶残的兽人，绿皮肤，高耸于任何人之上。"
 
-
 # scripts/states/tactical_state.nut
 msgid "TurnSequenceBar::setActionStateBySkillId(No Skill selected)"
 msgstr ""
-
 
 # scripts/states/tactical_state.nut
 msgid "TurnSequenceBar::setActionStateBySkillIndex(No Skill selected)"
 msgstr ""
 
-
 # scripts/states/tactical_state.nut
 msgid "TurnSequenceBar::setActionStateBySkillId(No Active Entity | Enemy)"
 msgstr ""
 
-
 # scripts/states/world_state.nut
-msgid "You can't make out who is attacking you in time.<br/>You have to defend yourself!"
+msgid ""
+"You can't make out who is attacking you in time.<br/>You have to defend "
+"yourself!"
 msgstr "你不知道是谁在攻击你。<br/>你必须保护自己！"
 
-
 # scripts/states/main_menu_state.nut
-msgid "[p=c]An empty map for AI testing. Spawn combatants manually and let them fight it out.[/p]"
+msgid ""
+"[p=c]An empty map for AI testing. Spawn combatants manually and let them "
+"fight it out.[/p]"
 msgstr "[p=c]用于AI测试的空地图。手动生成战斗人员，让他们战斗。[/p]"
 
+# scripts/states/main_menu_state.nut
+msgid ""
+"[p=c][img]gfx/ui/events/event_49.png[/img][/p]\n"
+"[p=c]ORC ORC ORC ORC ORC ORC. Difficult.[/p]"
+msgstr ""
+"[p=c][img]gfx/ui/events/event_49.png[/img][/p]\n"
+"[p=c]兽人 兽人 兽人 兽人 兽人 兽人。 困难的。[/p]"
 
 # scripts/states/main_menu_state.nut
-msgid "[p=c][img]gfx/ui/events/event_49.png[/img][/p]\n[p=c]ORC ORC ORC ORC ORC ORC. Difficult.[/p]"
-msgstr "[p=c][img]gfx/ui/events/event_49.png[/img][/p]\n[p=c]兽人 兽人 兽人 兽人 兽人 兽人。 困难的。[/p]"
-
-
-# scripts/states/main_menu_state.nut
-msgid "[p=c][img]gfx/ui/events/event_28.png[/img][/p]\n[p=c]A simple scenario to learn combat basics. Easy.[/p]"
-msgstr "[p=c][img]gfx/ui/events/event_28.png[/img][/p]\n[p=c]学习战斗基础的简单场景。 容易的。[/p]"
-
+msgid ""
+"[p=c][img]gfx/ui/events/event_28.png[/img][/p]\n"
+"[p=c]A simple scenario to learn combat basics. Easy.[/p]"
+msgstr ""
+"[p=c][img]gfx/ui/events/event_28.png[/img][/p]\n"
+"[p=c]学习战斗基础的简单场景。 容易的。[/p]"
 
 # scripts/states/world_state.nut
-msgid "You can't make out who you'll be facing. Attack at your own peril and be prepared to retreat if need be!"
+msgid ""
+"You can't make out who you'll be facing. Attack at your own peril and be "
+"prepared to retreat if need be!"
 msgstr "你不知道你将面对谁。 自担风险地攻击，必要时随时准备撤退！"
 
+# scripts/states/main_menu_state.nut
+msgid ""
+"[p=c][img]gfx/ui/events/event_127.png[/img][/p]\n"
+"[p=c]A possible late game encounter in enemy composition and equipment available. Difficult.[/p]"
+msgstr ""
+"[p=c][img]gfx/ui/events/event_127.png[/img][/p]\n"
+"[p=c]可能在游戏后期遇到的敌人组成和装备配置。 困难的。[/p]"
 
 # scripts/states/main_menu_state.nut
-msgid "[p=c][img]gfx/ui/events/event_127.png[/img][/p]\n[p=c]A possible late game encounter in enemy composition and equipment available. Difficult.[/p]"
-msgstr "[p=c][img]gfx/ui/events/event_127.png[/img][/p]\n[p=c]可能在游戏后期遇到的敌人组成和装备配置。 困难的。[/p]"
-
-
-# scripts/states/main_menu_state.nut
-msgid "[p=c][img]gfx/ui/events/event_48.png[/img][/p]\n[p=c]Featuring two battle lines pitted against each other in close combat from the start. Difficult.[/p]"
-msgstr "[p=c][img]gfx/ui/events/event_48.png[/img][/p]\n[p=c]两条战斗线从一开始就处于紧密的交锋中。 困难的。[/p]"
-
+msgid ""
+"[p=c][img]gfx/ui/events/event_48.png[/img][/p]\n"
+"[p=c]Featuring two battle lines pitted against each other in close combat from the start. Difficult.[/p]"
+msgstr ""
+"[p=c][img]gfx/ui/events/event_48.png[/img][/p]\n"
+"[p=c]两条战斗线从一开始就处于紧密的交锋中。 困难的。[/p]"
 
 # scripts/states/main_menu_state.nut
-msgid "[p=c][img]gfx/ui/events/event_143.png[/img][/p]\n[p=c]Featuring two battle lines pitted against each other in close combat from the start. Difficult.[/p]"
-msgstr "[p=c][img]gfx/ui/events/event_143.png[/img][/p]\n[p=c]两条战斗线从一开始就处于紧密的交锋中。 困难的。[/p]"
-
-
-# scripts/states/main_menu_state.nut
-msgid "[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]A possible early game encounter in enemy composition and equipment available. Moderate difficulty.[/p]"
-msgstr "[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]可能在游戏前期遇到的敌人组成和装备配置。 中等难度。[/p]"
-
+msgid ""
+"[p=c][img]gfx/ui/events/event_143.png[/img][/p]\n"
+"[p=c]Featuring two battle lines pitted against each other in close combat from the start. Difficult.[/p]"
+msgstr ""
+"[p=c][img]gfx/ui/events/event_143.png[/img][/p]\n"
+"[p=c]两条战斗线从一开始就处于紧密的交锋中。 困难的。[/p]"
 
 # scripts/states/main_menu_state.nut
-msgid "[p=c][img]gfx/ui/events/event_60.png[/img][/p]\n[p=c]Defend against a pack of vicious Goblin Wolfriders. Don't let them encircle you! Moderate difficulty.[/p]"
-msgstr "[p=c][img]gfx/ui/events/event_60.png[/img][/p]\n[p=c]抵御一群凶猛的哥布林狼骑兵。 别让他们包围你！ 中等难度。[/p]"
+msgid ""
+"[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n"
+"[p=c]A possible early game encounter in enemy composition and equipment available. Moderate difficulty.[/p]"
+msgstr ""
+"[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n"
+"[p=c]可能在游戏前期遇到的敌人组成和装备配置。 中等难度。[/p]"
 
+# scripts/states/main_menu_state.nut
+msgid ""
+"[p=c][img]gfx/ui/events/event_60.png[/img][/p]\n"
+"[p=c]Defend against a pack of vicious Goblin Wolfriders. Don't let them encircle you! Moderate difficulty.[/p]"
+msgstr ""
+"[p=c][img]gfx/ui/events/event_60.png[/img][/p]\n"
+"[p=c]抵御一群凶猛的哥布林狼骑兵。 别让他们包围你！ 中等难度。[/p]"
 
 # scripts/states/tactical_state.nut
-msgid "Are you sure you want to quit this battle and thereby forfeit your ironman run and retire from your company?\n\nYour save will be deleted and you won't be able to continue."
-msgstr "你确定你想退出这场战斗，从而失去你的铁人模式和退出你的战队？\n\n你的存档将被删除，你将无法继续。"
-
+msgid ""
+"Are you sure you want to quit this battle and thereby forfeit your ironman run and retire from your company?\n"
+"\n"
+"Your save will be deleted and you won't be able to continue."
+msgstr ""
+"你确定你想退出这场战斗，从而失去你的铁人模式和退出你的战队？\n"
+"\n"
+"你的存档将被删除，你将无法继续。"
 
 # scripts/states/tactical_state.nut
-msgid "Are you sure you want to quit this battle and return to the main menu?\n\nAny progress made in battle will be lost, but there was an autosave made right before the battle started."
-msgstr "你确定要退出这场战斗并返回主菜单吗？\n\n在战斗中取得的任何进展都将丢失，如果可以的话在战斗开始前会自动保存。"
-
+msgid ""
+"Are you sure you want to quit this battle and return to the main menu?\n"
+"\n"
+"Any progress made in battle will be lost, but there was an autosave made right before the battle started."
+msgstr ""
+"你确定要退出这场战斗并返回主菜单吗？\n"
+"\n"
+"在战斗中取得的任何进展都将丢失，如果可以的话在战斗开始前会自动保存。"
 
 # scripts/states/main_menu_state.nut
-msgid "[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n[p=c]Few and easy opponents all over a map with lots of terrain features blocking sight. Well suited to get used to lines of sight, fog of war and ranged combat. Easy.[/p]"
-msgstr "[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n[p=c]很多简单的对手分布在整个地图中，这里的很多地形会阻挡你的视线。 非常适合用来适应视野、战争迷雾以及远程作战。 容易的。[/p]"
-
+msgid ""
+"[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n"
+"[p=c]Few and easy opponents all over a map with lots of terrain features blocking sight. Well suited to get used to lines of sight, fog of war and ranged combat. Easy.[/p]"
+msgstr ""
+"[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n"
+"[p=c]很多简单的对手分布在整个地图中，这里的很多地形会阻挡你的视线。 非常适合用来适应视野、战争迷雾以及远程作战。 容易的。[/p]"
 
 # scripts/states/world_state.nut
-msgid "This campaign was created before you activated the 'Blazing Deserts' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign."
+msgid ""
+"This campaign was created before you activated the 'Blazing Deserts' DLC. "
+"Please be aware that even though you can continue to play this campaign, you"
+" won't have access to all of the new content unless you start a new "
+"campaign."
 msgstr "此战役是在激活“炽热沙漠”DLC之前创建的。 请注意，即使你可以继续玩此战役，除非你开始新的战役，否则你将无法访问所有新内容。"
 
-
 # scripts/states/world_state.nut
-msgid "This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign."
+msgid ""
+"This campaign was created before you activated the 'Beasts & Exploration' "
+"DLC. Please be aware that even though you can continue to play this "
+"campaign, you won't have access to all of the new content unless you start a"
+" new campaign."
 msgstr "此战役是在激活“野兽与探险”DLC之前创建的。 请注意，即使你可以继续玩此战役，除非你开始新的战役，否则你将无法访问所有新内容。"
 
-
 # scripts/states/world_state.nut
-msgid "This campaign was created before you activated the 'Warriors of the North' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign."
+msgid ""
+"This campaign was created before you activated the 'Warriors of the North' "
+"DLC. Please be aware that even though you can continue to play this "
+"campaign, you won't have access to all of the new content unless you start a"
+" new campaign."
 msgstr "此战役是在激活“北方的勇士”DLC之前创建的。 请注意，即使你可以继续玩此战役，除非你开始新的战役，否则你将无法访问所有新内容。"
 
-
 # scripts/states/main_menu_state.nut
-msgid "[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]Survive against overwhelming odds while positioned on top of a hill. Well suited to learn about height advantage and to test sight and usability issues with height levels. Difficult.[/p]"
-msgstr "[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]处于小山的顶部，在巨大的危险中生存下来。 非常适合学习高度优势，并在高处测试视野和实践。 困难的。[/p]"
-
-
+msgid ""
+"[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n"
+"[p=c]Survive against overwhelming odds while positioned on top of a hill. Well suited to learn about height advantage and to test sight and usability issues with height levels. Difficult.[/p]"
+msgstr ""
+"[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n"
+"[p=c]处于小山的顶部，在巨大的危险中生存下来。 非常适合学习高度优势，并在高处测试视野和实践。 困难的。[/p]"

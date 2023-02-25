@@ -1,40 +1,35 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/ui/screens/world/modules/world_campfire_screen/campfire_main_dialog_module.nut
 msgid "Retinue"
 msgstr "随从"
-
 
 # scripts/ui/screens/world/modules/world_campfire_screen/campfire_main_dialog_module.nut
 msgid "You can choose to "
 msgstr "你可以选择"
 
-
 # scripts/ui/screens/world/modules/world_campfire_screen/campfire_main_dialog_module.nut
 msgid " crowns necessary to "
 msgstr "克朗, 无法"
-
 
 # scripts/ui/screens/world/modules/world_campfire_screen/campfire_main_dialog_module.nut
 msgid "Sadly, you can not afford the "
 msgstr "很遗憾, 你的资金少于"
 
-
 # scripts/ui/screens/world/modules/world_campfire_screen/campfire_main_dialog_module.nut
 msgid " crowns. Is this what you want to do?"
 msgstr "克朗，你想这样做吗？"
-
 
 # scripts/ui/screens/world/modules/world_campfire_screen/campfire_main_dialog_module.nut
 msgid "Manage your retinue of non-combat followers"
 msgstr "管理你的非战斗追随者随从"
 
-
 # scripts/ui/screens/world/modules/world_campfire_screen/campfire_main_dialog_module.nut
 msgid " and gain more inventory space at this time."
 msgstr ", 暂时无法获得更多的仓库空间"
 
-
 # scripts/ui/screens/world/modules/world_campfire_screen/campfire_main_dialog_module.nut
 msgid " in order to gain 27 more inventory slots for the cost of "
 msgstr "以获得 27 个额外的仓库空间, 这需要花费"
-
-

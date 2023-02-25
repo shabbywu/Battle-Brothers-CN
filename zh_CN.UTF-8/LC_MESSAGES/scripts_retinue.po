@@ -1,5 +1,7 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/retinue/follower.nut
 msgid "Open Hiring Screen to replace"
 msgstr "打开雇佣界面以替换"
-
-

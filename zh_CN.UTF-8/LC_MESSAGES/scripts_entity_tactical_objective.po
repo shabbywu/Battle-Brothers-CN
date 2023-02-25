@@ -1,15 +1,15 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/entity/tactical/objective/mortar.nut
 msgid "Mortar"
 msgstr "炮手"
-
 
 # scripts/entity/tactical/objective/donkey.nut
 msgid "A Donkey"
 msgstr ""
 
-
 # scripts/entity/tactical/objective/donkey.nut
 msgid "Caravan Donkey"
 msgstr ""
-
-

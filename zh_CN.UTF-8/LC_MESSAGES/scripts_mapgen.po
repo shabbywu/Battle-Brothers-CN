@@ -1,10 +1,11 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/mapgen/map_generator.nut
 msgid "\" does not exist!"
 msgstr ""
 
-
 # scripts/mapgen/map_generator.nut
 msgid "ERROR: Template named \""
 msgstr ""
-
-

@@ -1,78 +1,83 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/items/armor/legendary/ijirok_armor.nut
 msgid " points"
 msgstr ""
-
 
 # scripts/items/armor/legendary/ijirok_armor.nut
 msgid " heals for "
 msgstr ""
 
-
 # scripts/items/armor/legendary/ijirok_armor.nut
 msgid "Heals [color="
 msgstr ""
-
 
 # scripts/items/armor/legendary/emperors_armor_fake.nut
 # scripts/items/armor/legendary/emperors_armor.nut
 msgid "Reflects [color="
 msgstr ""
 
-
 # scripts/items/armor/legendary/armor_of_davkul.nut
 msgid "Aspect of Davkul"
 msgstr "达库尔的神体"
-
 
 # scripts/items/armor/legendary/emperors_armor_fake.nut
 # scripts/items/armor/legendary/emperors_armor.nut
 msgid "The Emperor's Armor"
 msgstr "帝王铠甲"
 
-
 # scripts/items/armor/legendary/ijirok_armor.nut
 msgid "Armor of the Ijirok"
 msgstr "伊吉罗克铠甲"
-
 
 # scripts/items/armor/legendary/armor_of_davkul.nut
 msgid "Regenerates itself by [color="
 msgstr ""
 
-
 # scripts/items/armor/legendary/armor_of_davkul.nut
 msgid "]90[/color] points of durability each turn."
 msgstr ""
 
-
 # scripts/items/armor/legendary/ijirok_armor.nut
 msgid "]10[/color] hitpoints of the wearer each turn"
 msgstr ""
-
 
 # scripts/items/armor/legendary/emperors_armor_fake.nut
 # scripts/items/armor/legendary/emperors_armor.nut
 msgid "]25%[/color] of damage taken in melee back to the attacker"
 msgstr ""
 
-
 # scripts/items/armor/legendary/ijirok_armor.nut
-msgid "Once a barbarian armor broken in battle, this piece has been bathed in the blood of the legendary Ijirok. Powers beyond your understanding mended it whole again, and will likewise mend any wounds of the wearer as well."
-msgstr "曾经有一件野蛮人的盔甲在战斗中破损，盔甲的碎片沐浴在传说中的伊吉罗克的鲜血里。 超越你理解的力量再次修复了它，同样也会修复穿戴者的任何创伤。"
-
+msgid ""
+"Once a barbarian armor broken in battle, this piece has been bathed in the "
+"blood of the legendary Ijirok. Powers beyond your understanding mended it "
+"whole again, and will likewise mend any wounds of the wearer as well."
+msgstr ""
+"曾经有一件野蛮人的盔甲在战斗中破损，盔甲的碎片沐浴在传说中的伊吉罗克的鲜血里。 超越你理解的力量再次修复了它，同样也会修复穿戴者的任何创伤。"
 
 # scripts/items/armor/legendary/armor_of_davkul.nut
-msgid "A grisly aspect of Davkul, an ancient power not from this world, and the last remnants of %sacrifice% from whose body it has been fashioned. It shall never break, but instead keep regrowing its scarred skin on the spot."
-msgstr "一件可怕的达库尔神体，这份古老的力量不属于这世界，是由 %sacrifice% 的身体残骸塑造而成。 它永远不会破裂，而是在原地不断地再生它那伤痕累累的皮肤。"
-
+msgid ""
+"A grisly aspect of Davkul, an ancient power not from this world, and the "
+"last remnants of %sacrifice% from whose body it has been fashioned. It shall"
+" never break, but instead keep regrowing its scarred skin on the spot."
+msgstr ""
+"一件可怕的达库尔神体，这份古老的力量不属于这世界，是由 %sacrifice% 的身体残骸塑造而成。 "
+"它永远不会破裂，而是在原地不断地再生它那伤痕累累的皮肤。"
 
 # scripts/items/armor/legendary/emperors_armor.nut
-msgid "A shining armor once worn by the emperor of an age long past, made from the most wondrous of materials, imbued with mystical energies. Light reflects easily off the polished armor, turning the wearer into a shimmering figure of light during the day."
+msgid ""
+"A shining armor once worn by the emperor of an age long past, made from the "
+"most wondrous of materials, imbued with mystical energies. Light reflects "
+"easily off the polished armor, turning the wearer into a shimmering figure "
+"of light during the day."
 msgstr "一件历史久远的帝王穿戴的闪亮铠甲，由许多珍奇的材料打造而成，充满了神秘的力量。 打磨过的盔甲能很容易反射光线，使得穿戴者在白天闪闪发光。"
 
-
 # scripts/items/armor/legendary/emperors_armor_fake.nut
-msgid "A shining armor once worn by the emperor of an age long past, made from the most woundrous of materials, imbued with mystical energies. Light reflects easily off the polished armor, turning the wearer into a shimmering figure of light during the day."
+msgid ""
+"A shining armor once worn by the emperor of an age long past, made from the "
+"most woundrous of materials, imbued with mystical energies. Light reflects "
+"easily off the polished armor, turning the wearer into a shimmering figure "
+"of light during the day."
 msgstr "一件历史久远的帝王穿戴的闪亮铠甲，由许多伤人的材料打造而成，充满了神秘的力量。 打磨过的盔甲能很容易反射光线，使得穿戴者在白天闪闪发光。"
-
-

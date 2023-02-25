@@ -1,91 +1,88 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/items/armor/barbarians/unhold_armor_light.nut
 # scripts/items/armor/barbarians/unhold_armor_heavy.nut
 msgid "Armor"
 msgstr "盔甲"
 
-
 # scripts/items/armor/barbarians/thick_furs_armor.nut
 msgid "Thick Furs"
 msgstr "厚皮衣"
-
 
 # scripts/items/armor/barbarians/barbarian_ritual_armor.nut
 msgid "Ritual Armor"
 msgstr "仪式盔甲"
 
-
 # scripts/items/armor/barbarians/heavy_iron_armor.nut
 msgid "Heavy Iron Armor"
 msgstr "重型铁护甲"
-
 
 # scripts/items/armor/barbarians/animal_hide_armor.nut
 msgid "Animal Hide Armor"
 msgstr "兽皮甲"
 
-
 # scripts/items/armor/barbarians/scrap_metal_armor.nut
 msgid "Scrap Metal Armor"
 msgstr "废金属护甲"
-
 
 # scripts/items/armor/barbarians/rugged_scale_armor.nut
 msgid "Rugged Scale Armor"
 msgstr "粗糙的鳞甲"
 
-
 # scripts/items/armor/barbarians/hide_and_bone_armor.nut
 msgid "Hide and Bone Armor"
 msgstr "兽皮骨甲"
-
 
 # scripts/items/armor/barbarians/reinforced_animal_hide_armor.nut
 msgid "Reinforced Animal Hide Armor"
 msgstr "强化兽皮甲"
 
-
 # scripts/items/armor/barbarians/thick_plated_barbarian_armor.nut
 msgid "Thick Plated Barbarian Armor"
 msgstr "厚实野蛮人镀金甲"
-
 
 # scripts/items/armor/barbarians/rugged_scale_armor.nut
 msgid "A heavy body armor made from thick iron scales."
 msgstr "用厚铁鳞片制成的重型护身甲。"
 
-
 # scripts/items/armor/barbarians/animal_hide_armor.nut
 msgid "Heavy hides patched together to create a decent makeshift armor."
 msgstr "用兽皮拼凑而成笨重铠甲。"
 
-
 # scripts/items/armor/barbarians/scrap_metal_armor.nut
-msgid "This armor is pieced together from scavenged metal parts that are fixed to a crude leather tunic."
+msgid ""
+"This armor is pieced together from scavenged metal parts that are fixed to a"
+" crude leather tunic."
 msgstr "这件护甲由废弃金属拼接到粗糙的皮长袍上而制成。"
 
-
 # scripts/items/armor/barbarians/reinforced_animal_hide_armor.nut
-msgid "A reinforced animal hide armor fashioned from thick leather pieces with added mail and metal scales."
+msgid ""
+"A reinforced animal hide armor fashioned from thick leather pieces with "
+"added mail and metal scales."
 msgstr "一种由厚皮革与链甲碎片，金属鳞片塑造而成强化兽皮甲。"
 
-
 # scripts/items/armor/barbarians/thick_plated_barbarian_armor.nut
-msgid "A heavy armor that is made from mostly metal. Only one chosen by the ancestors will own a set like this."
+msgid ""
+"A heavy armor that is made from mostly metal. Only one chosen by the "
+"ancestors will own a set like this."
 msgstr "一件几乎由全金属制成的重型铠甲。 只有通过祖先选中的人才有资格拥有。"
 
-
 # scripts/items/armor/barbarians/thick_furs_armor.nut
-msgid "Thick furs that are crudely dried and tied together to protect from both the cold and any incoming blows."
+msgid ""
+"Thick furs that are crudely dried and tied together to protect from both the"
+" cold and any incoming blows."
 msgstr "由脱水干燥的毛皮制成，能同时抵御寒冷和冲击。"
 
-
 # scripts/items/armor/barbarians/hide_and_bone_armor.nut
-msgid "Hide and bone are common materials in the northern regions. This armor is using both for decent protection."
+msgid ""
+"Hide and bone are common materials in the northern regions. This armor is "
+"using both for decent protection."
 msgstr "兽皮与骨头在北方是常见的材料。 这件盔甲是用这两者做成且提供了合适的防护。"
 
-
 # scripts/items/armor/barbarians/heavy_iron_armor.nut
-msgid "This armor is made from heavy metal plates, scales and pieces of chainmal. The true armor of a northern warrior."
+msgid ""
+"This armor is made from heavy metal plates, scales and pieces of chainmal. "
+"The true armor of a northern warrior."
 msgstr "用重型金属板，鳞片和锁链做成的盔甲。 真正的北方勇士铠甲。"
-
-

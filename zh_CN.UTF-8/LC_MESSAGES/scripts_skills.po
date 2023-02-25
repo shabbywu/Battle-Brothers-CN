@@ -1,250 +1,205 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/skills/skill_container.nut
 msgid ",H"
 msgstr ""
-
 
 # scripts/skills/skill_container.nut
 msgid "skill"
 msgstr ""
 
-
 # scripts/skills/skill.nut
 msgid "Killed"
 msgstr "杀死"
-
 
 # scripts/skills/skill.nut
 msgid " uses "
 msgstr ""
 
-
 # scripts/skills/skill.nut
 msgid "Riposte"
 msgstr "还击"
-
 
 # scripts/skills/skill_container.nut
 msgid "Skill ["
 msgstr ""
 
+# scripts/skills/skill.nut
+msgid "Too close"
+msgstr "太近"
 
 # scripts/skills/skill.nut
 msgid "'s shield"
 msgstr ""
 
-
 # scripts/skills/skill.nut
 msgid "Nighttime"
 msgstr ""
-
-
-# scripts/skills/skill.nut
-msgid "Too close"
-msgstr "太近"
-
 
 # scripts/skills/skill.nut
 msgid " has hit "
 msgstr ""
 
-
-# scripts/skills/skill.nut
-msgid " and hits "
-msgstr ""
-
-
 # scripts/skills/skill.nut
 msgid "Surrounded"
 msgstr "包围"
-
-
-# scripts/skills/skill.nut
-msgid " (Chance: "
-msgstr ""
-
 
 # scripts/skills/skill.nut
 msgid ", Rolled: "
 msgstr ""
 
+# scripts/skills/skill.nut
+msgid " and hits "
+msgstr ""
 
 # scripts/skills/skill.nut
 msgid "Shieldwall"
 msgstr "盾墙"
 
+# scripts/skills/skill.nut
+msgid " (Chance: "
+msgstr ""
 
 # scripts/skills/skill.nut
 msgid "[b][color="
 msgstr ""
 
-
 # scripts/skills/skill.nut
-msgid "Distance of "
-msgstr "距离 "
-
+msgid " and misses "
+msgstr ""
 
 # scripts/skills/skill.nut
 msgid " uses skill "
 msgstr " 使用技能 "
 
-
 # scripts/skills/skill.nut
-msgid " and misses "
-msgstr ""
-
+msgid "Distance of "
+msgstr "距离 "
 
 # scripts/skills/skill.nut
 msgid "Oath of Wrath"
 msgstr "愤怒誓言"
 
-
 # scripts/skills/skill.nut
 msgid "Fast Adaption"
 msgstr "快速适应"
-
 
 # scripts/skills/skill.nut
 msgid "On bad terrain"
 msgstr "处于恶劣地形"
 
-
 # scripts/skills/skill.nut
 msgid "Immune to stun"
 msgstr "免疫击晕"
-
 
 # scripts/skills/skill.nut
 msgid " has destroyed "
 msgstr ""
 
+# scripts/skills/skill.nut
+msgid "Inflicts [color="
+msgstr ""
 
 # scripts/skills/skill.nut
 msgid "Height advantage"
 msgstr "高度优势"
 
-
-# scripts/skills/skill.nut
-msgid "Inflicts [color="
-msgstr ""
-
-
 # scripts/skills/skill_container.nut
 msgid "] removed from ["
 msgstr ""
-
 
 # scripts/skills/skill.nut
 msgid "Armed with shield"
 msgstr "装备盾牌"
 
-
 # scripts/skills/skill.nut
 msgid "[/color] - [color="
 msgstr ""
-
 
 # scripts/skills/skill.nut
 msgid "Height disadvantage"
 msgstr "高度劣势"
 
+# scripts/skills/skill.nut
+msgid "Line of fire blocked"
+msgstr "阻挡射击线"
 
 # scripts/skills/skill.nut
 msgid "]0[/color] - [color="
 msgstr ""
 
-
-# scripts/skills/skill.nut
-msgid "Line of fire blocked"
-msgstr "阻挡射击线"
-
-
 # scripts/skills/skill.nut
 msgid "Target on bad terrain"
 msgstr "恶劣地形上的目标"
-
 
 # scripts/skills/skill.nut
 msgid "'s shield for 1 damage"
 msgstr ""
 
-
 # scripts/skills/skill.nut
 msgid "Immune to being rooted"
 msgstr "免疫定身"
-
 
 # scripts/skills/skill.nut
 msgid "[/color] damage to armor"
 msgstr ""
 
-
 # scripts/skills/skill.nut
 msgid "Immune to being disarmed"
 msgstr ""
-
-
-# scripts/skills/skill.nut
-msgid " Fatigue[/color][/b][/i]\n"
-msgstr ""
-
 
 # scripts/skills/skill.nut
 msgid "[/color] can ignore armor"
 msgstr ""
 
+# scripts/skills/skill.nut
+msgid " Fatigue[/color][/b][/i]\n"
+msgstr ""
 
 # scripts/skills/skill.nut
 msgid " damage to hitpoints[/color]"
 msgstr ""
 
-
 # scripts/skills/skill.nut
 msgid "Resistance against ranged weapons"
 msgstr "远程抗性"
-
 
 # scripts/skills/skill.nut
 msgid "[/color] damage that ignores armor"
 msgstr ""
 
-
 # scripts/skills/skill.nut
 msgid " and the shot goes astray and hits "
 msgstr ""
-
 
 # scripts/skills/skill.nut
 msgid "Resistance against piercing attacks"
 msgstr "穿刺抗性"
 
-
 # scripts/skills/skill.nut
 msgid " AP[/color][/b] to use and builds up "
 msgstr ""
-
 
 # scripts/skills/skill.nut
 msgid " and the shot goes astray and misses "
 msgstr ""
 
-
 # scripts/skills/skill_container.nut
 msgid "# A = Active, P = Passive, H = Hidden"
 msgstr ""
-
 
 # scripts/skills/skill.nut
 msgid "Immune to being knocked back or hooked"
 msgstr "免疫撞退或钩拉"
 
-
 # scripts/skills/skill.nut
 msgid "[/color] damage to hitpoints, of which [color="
 msgstr ""
 
-
 # scripts/skills/skill.nut
-msgid "]Can not be used because this character has taken an oath precluding the use of ranged weapons or tools[/color]"
+msgid ""
+"]Can not be used because this character has taken an oath precluding the use"
+" of ranged weapons or tools[/color]"
 msgstr "]不能使用，因为这个角色已经宣誓禁止使用远程武器或工具[/color]"
-
-
