@@ -1,180 +1,161 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/items/helmets/oriental/gunner_hat.nut
 msgid "Gunner's Hat"
 msgstr "枪手帽"
-
 
 # scripts/items/helmets/oriental/turban_helmet.nut
 msgid "Turban Helmet"
 msgstr "头巾头盔"
 
-
 # scripts/items/helmets/oriental/engineer_hat.nut
 msgid "Engineer's Hat"
 msgstr "工程师帽子"
-
 
 # scripts/items/helmets/oriental/nomad_head_wrap.nut
 msgid "Nomad Head Wrap"
 msgstr "游牧人头巾"
 
-
 # scripts/items/helmets/oriental/gladiator_helmet.nut
 msgid "Gladiator Helmet"
 msgstr "角斗士头盔"
-
 
 # scripts/items/helmets/oriental/nomad_leather_cap.nut
 msgid "Nomad Leather Cap"
 msgstr "游牧皮帽"
 
-
 # scripts/items/helmets/oriental/leather_head_wrap.nut
 msgid "Leather Head Wrap"
 msgstr "皮革头巾"
-
 
 # scripts/items/helmets/oriental/nomad_light_helmet.nut
 msgid "Nomad Light Helmet"
 msgstr "游牧民轻型头盔"
 
-
 # scripts/items/helmets/oriental/southern_head_wrap.nut
 msgid "Southern Head Wrap"
 msgstr "南方头巾"
-
 
 # scripts/items/helmets/oriental/assassin_face_mask.nut
 msgid "Assassin's Face Mask"
 msgstr "刺客面具"
 
-
 # scripts/items/helmets/oriental/assassin_head_wrap.nut
 msgid "Assassin's Head Wrap"
 msgstr "刺客头巾"
-
 
 # scripts/items/helmets/oriental/heavy_lamellar_helmet.nut
 msgid "Heavy Lamellar Helmet"
 msgstr "重型层状头盔"
 
-
 # scripts/items/helmets/oriental/nomad_reinforced_helmet.nut
 msgid "Nomad Reinforced Helmet"
 msgstr "游牧强化头盔"
-
 
 # scripts/items/helmets/oriental/wrapped_southern_helmet.nut
 msgid "Wrapped Southern Helmet"
 msgstr "包裹的南方头盔"
 
-
 # scripts/items/helmets/oriental/blade_dancer_head_wrap.nut
 msgid "Blade Dancer's Head Wrap"
 msgstr "刀锋舞者头巾"
-
 
 # scripts/items/helmets/oriental/southern_helmet_with_coif.nut
 msgid "Southern Helmet with Coif"
 msgstr "南方带巾头盔"
 
-
 # scripts/items/helmets/oriental/nomad_leather_cap.nut
 msgid "A light nomad leather cap."
 msgstr "一顶轻便的游牧皮帽。"
-
 
 # scripts/items/helmets/oriental/spiked_skull_cap_with_mail.nut
 msgid "Spiked Skull Cap with Mail"
 msgstr "链甲尖顶帽"
 
-
 # scripts/items/helmets/oriental/desert_stalker_head_wrap.nut
 msgid "Desert Stalker's Head Wrap"
 msgstr "沙漠追踪者头巾"
-
 
 # scripts/items/helmets/oriental/assassin_head_wrap.nut
 msgid "The dark head wrap of an assassin."
 msgstr "一位刺客的黑色头巾。"
 
-
 # scripts/items/helmets/oriental/nomad_reinforced_helmet.nut
 msgid "A nomad helmet reinforced with mail."
 msgstr "用链甲加固的游牧者头盔。"
-
 
 # scripts/items/helmets/oriental/assassin_face_mask.nut
 msgid "An assassin's face mask and head wrap."
 msgstr "一位刺客的面具和头巾。"
 
-
 # scripts/items/helmets/oriental/heavy_lamellar_helmet.nut
 msgid "A heavy helmet made from overlapping metal plates."
 msgstr "由重叠的金属板制成的沉重的头盔。"
-
 
 # scripts/items/helmets/oriental/nomad_light_helmet.nut
 msgid "A light helmet typical of the southern desert regions."
 msgstr "南方沙漠地区典型的轻型头盔。"
 
-
 # scripts/items/helmets/oriental/southern_head_wrap.nut
 msgid "A traditional southern head wrap suited for desert climate."
 msgstr "适合沙漠气候的南方传统头巾。"
-
 
 # scripts/items/helmets/oriental/southern_helmet_with_coif.nut
 msgid "A southern metal helmet with a mail coif to protect the neck."
 msgstr "一种南方的金属头盔，有一个链甲巾保护脖子。"
 
-
 # scripts/items/helmets/oriental/nomad_head_wrap.nut
 msgid "A nomad style head wrap suited to protect against sun and heat."
 msgstr "游牧风格的头巾，适合防晒防暑。"
-
 
 # scripts/items/helmets/oriental/leather_head_wrap.nut
 msgid "A thick leather head wrap that protects against cuts and bruises."
 msgstr "保护头部免受割伤和瘀伤的厚皮包头。"
 
-
 # scripts/items/helmets/oriental/spiked_skull_cap_with_mail.nut
 msgid "A metal skull cap with a fashionable spike worn atop a mail coif."
 msgstr "一种金属帽，链甲巾上有着一个时髦的尖顶。"
 
-
 # scripts/items/helmets/oriental/wrapped_southern_helmet.nut
-msgid "This metal helmet is wrapped in cloth to protect against the blazingly hot sun of the southern deserts."
+msgid ""
+"This metal helmet is wrapped in cloth to protect against the blazingly hot "
+"sun of the southern deserts."
 msgstr "这顶金属头盔用布包着，以抵御南方沙漠酷热的太阳。"
 
-
 # scripts/items/helmets/oriental/engineer_hat.nut
-msgid "A finely wrapped cloth turban with insignia declaring the wearer a learned engineer from the city states."
+msgid ""
+"A finely wrapped cloth turban with insignia declaring the wearer a learned "
+"engineer from the city states."
 msgstr "一种包装精美的头巾，上面印有徽章，表明佩戴者是来自城邦的博学工程师。"
 
-
 # scripts/items/helmets/oriental/desert_stalker_head_wrap.nut
-msgid "A thick head wrap with small hidden leather strings for added protection, adorned with a bronze scorpion."
+msgid ""
+"A thick head wrap with small hidden leather strings for added protection, "
+"adorned with a bronze scorpion."
 msgstr "一种厚厚的头巾，带有隐藏的小皮革绳以增加保护，饰有青铜蝎子。"
 
-
 # scripts/items/helmets/oriental/turban_helmet.nut
-msgid "A full helmet crafted from overlapping long metal splints in the shape of a traditional southern head wrap."
+msgid ""
+"A full helmet crafted from overlapping long metal splints in the shape of a "
+"traditional southern head wrap."
 msgstr "由重叠的长金属夹板制成的一种完整的头盔，形状类似于传统的南方头巾。"
 
-
 # scripts/items/helmets/oriental/blade_dancer_head_wrap.nut
-msgid "This distinct red and black head wrap is traditionally worn by the most skilled warriors of the nomad tribes."
+msgid ""
+"This distinct red and black head wrap is traditionally worn by the most "
+"skilled warriors of the nomad tribes."
 msgstr "这种独特的红黑相间的头巾传统上是游牧部落中最熟练的战士所戴的。"
 
-
 # scripts/items/helmets/oriental/gladiator_helmet.nut
-msgid "An impressive metal helmet crafted to intimidate the opponents of pit fighters in arenas of the southern city states."
+msgid ""
+"An impressive metal helmet crafted to intimidate the opponents of pit "
+"fighters in arenas of the southern city states."
 msgstr "一种令人印象深刻的金属头盔，在南方城邦的竞技场上用来恐吓角斗士的对手。"
 
-
 # scripts/items/helmets/oriental/gunner_hat.nut
-msgid "A finely wrapped cloth turban worn by those that practise the use of elaborate gunpowder weapons in armies of the city states."
+msgid ""
+"A finely wrapped cloth turban worn by those that practise the use of "
+"elaborate gunpowder weapons in armies of the city states."
 msgstr "在城邦军队中练习使用精细火药武器的人所戴的一种裹得很好的布头巾。"
-
-

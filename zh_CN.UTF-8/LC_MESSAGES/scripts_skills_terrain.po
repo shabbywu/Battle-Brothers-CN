@@ -1,35 +1,35 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/skills/terrain/swamp_effect.nut
 msgid "Swamp"
 msgstr "沼泽"
-
 
 # scripts/skills/terrain/hidden_effect.nut
 msgid "Hidden"
 msgstr "隐藏"
 
-
 # scripts/skills/terrain/swamp_effect.nut
 msgid "]-25%[/color] Melee Skill"
 msgstr ""
-
 
 # scripts/skills/terrain/swamp_effect.nut
 msgid "]-25%[/color] Melee Defense"
 msgstr ""
 
-
 # scripts/skills/terrain/swamp_effect.nut
 msgid "]-25%[/color] Ranged Defense"
 msgstr ""
 
-
 # scripts/skills/terrain/swamp_effect.nut
-msgid "Swamp with boggish ground is hampering movement and fighting abilities significantly."
+msgid ""
+"Swamp with boggish ground is hampering movement and fighting abilities "
+"significantly."
 msgstr "沼泽地严重阻碍了行动和战斗能力。"
 
-
 # scripts/skills/terrain/hidden_effect.nut
-msgid "This character is hidden in terrain and can not be seen by opponents unless directly adjacent or attacking them first."
+msgid ""
+"This character is hidden in terrain and can not be seen by opponents unless "
+"directly adjacent or attacking them first."
 msgstr "此角色隐藏在地形中，除非直接相邻或先攻击，否则对手无法看到。"
-
-

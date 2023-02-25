@@ -1,65 +1,66 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/items/weapons/legendary/obsidian_dagger.nut
 msgid "human"
 msgstr ""
-
 
 # scripts/items/weapons/legendary/obsidian_dagger.nut
 msgid "Corpse"
 msgstr ""
 
-
 # scripts/items/weapons/legendary/obsidian_dagger.nut
 msgid "player"
 msgstr ""
-
 
 # scripts/items/weapons/legendary/obsidian_dagger.nut
 msgid "Obsidian Dagger"
 msgstr "黑曜石匕首"
 
-
 # scripts/items/weapons/legendary/lightbringer_sword.nut
 msgid "Sword, One-Handed"
 msgstr ""
-
 
 # scripts/items/weapons/legendary/obsidian_dagger.nut
 msgid "Dagger, One-Handed"
 msgstr ""
 
-
 # scripts/items/weapons/legendary/lightbringer_sword.nut
 msgid "]10[/color] - [color="
 msgstr ""
-
 
 # scripts/items/weapons/legendary/lightbringer_sword.nut
 msgid "Reproach of the Old Gods"
 msgstr "古神之耻"
 
-
 # scripts/items/weapons/legendary/lightbringer_sword.nut
 msgid "Inflicts an additional [color="
 msgstr ""
-
 
 # scripts/items/weapons/legendary/lightbringer_sword.nut
 msgid "]20[/color] damage that ignores armor to up to three targets"
 msgstr ""
 
-
 # scripts/items/weapons/legendary/obsidian_dagger.nut
 msgid "Resurrects any human killed with it as a Wiederganger fighting for you"
 msgstr "杀死任何人类单位都能复活为僵尸为你战斗"
 
-
 # scripts/items/weapons/legendary/obsidian_dagger.nut
-msgid "A hermit witch gave you this stone dagger after tempering it with your blood. Reflections in its glass seem to move on their own, but this is clearly a trick of the eye. Very curiously, however, blood never seems to dry if it rests upon the obsidian."
-msgstr "一个隐居女巫用你的血炼制的石刀。镜子里的倒影似乎会自己移动，但这显然只是眼睛的把戏。然而，非常奇怪的是，如果血滴落在黑曜石上，它似乎永远不会干涸。"
-
+msgid ""
+"A hermit witch gave you this stone dagger after tempering it with your "
+"blood. Reflections in its glass seem to move on their own, but this is "
+"clearly a trick of the eye. Very curiously, however, blood never seems to "
+"dry if it rests upon the obsidian."
+msgstr ""
+"一个隐居女巫用你的血炼制的石刀。镜子里的倒影似乎会自己移动，但这显然只是眼睛的把戏。然而，非常奇怪的是，如果血滴落在黑曜石上，它似乎永远不会干涸。"
 
 # scripts/items/weapons/legendary/lightbringer_sword.nut
-msgid "The crepuscular sword bends purples and oranges until it seemingly carries twilight itself in its fuller. Held to the touch, one cannot tell if they are being burned or chilled. Magic or well-crafted, whatever the weapon is it vibrates as though it were fighting off power immense and you need only swing it to find the steel's true charge."
-msgstr "这把泛着紫黄微光的剑就如黄昏的晚霞。轻轻一碰，冰凉之中还带着灼热的触感。无论它是魔法淬炼还是精心打造的，随意间的挥舞都能感觉到其蕴含的无尽力量与强大电流。"
-
-
+msgid ""
+"The crepuscular sword bends purples and oranges until it seemingly carries "
+"twilight itself in its fuller. Held to the touch, one cannot tell if they "
+"are being burned or chilled. Magic or well-crafted, whatever the weapon is "
+"it vibrates as though it were fighting off power immense and you need only "
+"swing it to find the steel's true charge."
+msgstr ""
+"这把泛着紫黄微光的剑就如黄昏的晚霞。轻轻一碰，冰凉之中还带着灼热的触感。无论它是魔法淬炼还是精心打造的，随意间的挥舞都能感觉到其蕴含的无尽力量与强大电流。"

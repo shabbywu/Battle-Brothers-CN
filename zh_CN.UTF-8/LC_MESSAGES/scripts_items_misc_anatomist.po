@@ -1,427 +1,352 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Alp"
 msgstr "夢魘"
-
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Hexe"
 msgstr "女巫"
 
-
-# scripts/items/misc/anatomist/research_notes_beasts_item.nut
-msgid "Hyena"
-msgstr "鬣狗"
-
-
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Ifrit"
 msgstr "伊夫利特"
-
 
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Geist"
 msgstr "精神"
 
-
-# scripts/items/misc/anatomist/research_notes_legendary_item.nut
-msgid "Kraken"
-msgstr "海妖"
-
+# scripts/items/misc/anatomist/research_notes_beasts_item.nut
+msgid "Hyena"
+msgstr "鬣狗"
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Schrat"
 msgstr "树人"
 
+# scripts/items/misc/anatomist/research_notes_legendary_item.nut
+msgid "Kraken"
+msgstr "海妖"
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 msgid "Goblin"
 msgstr "哥布林"
 
-
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 msgid "Ijirok"
 msgstr ""
-
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Serpent"
 msgstr "蛇"
 
-
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Direwolf"
 msgstr "冰原狼"
-
-
-# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
-msgid "Orc Young"
-msgstr "兽人青年"
-
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Webknecht"
 msgstr "蛛魔"
 
-
-# scripts/items/misc/anatomist/research_notes_beasts_item.nut
-msgid "Nachzehrer"
-msgstr "食屍鬼"
-
+# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
+msgid "Orc Young"
+msgstr "兽人青年"
 
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 msgid "Rachegeist"
 msgstr "雷切吉斯特"
 
+# scripts/items/misc/anatomist/research_notes_beasts_item.nut
+msgid "Nachzehrer"
+msgstr "食屍鬼"
 
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 msgid "Lorekeeper"
 msgstr ""
 
-
-# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
-msgid "Orc Warrior"
-msgstr "兽人战士"
-
-
-# scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid "Necrosavant"
-msgstr "死灵法师"
-
-
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Necromancer"
 msgstr "死灵法师"
-
-
-# scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid "Fallen Hero"
-msgstr "堕落的英雄"
-
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 msgid "Orc Warlord"
 msgstr "兽人军阀"
 
+# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
+msgid "Orc Warrior"
+msgstr "兽人战士"
+
+# scripts/items/misc/anatomist/research_notes_undead_item.nut
+msgid "Necrosavant"
+msgstr "死灵法师"
+
+# scripts/items/misc/anatomist/research_notes_undead_item.nut
+msgid "Fallen Hero"
+msgstr "堕落的英雄"
 
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Wiederganger"
 msgstr "维德冈格"
 
-
 # scripts/items/misc/anatomist/necrosavant_potion_item.nut
 msgid "Heal [color="
 msgstr ""
-
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 # scripts/items/misc/anatomist/orc_berserker_potion_item.nut
 msgid "Rose Philter"
 msgstr "血腥玫瑰药剂"
 
-
 # scripts/items/misc/anatomist/rachegeist_potion_item.nut
 msgid "Deal [color="
 msgstr ""
-
-
-# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
-msgid "Goblin Shaman"
-msgstr "地精萨满"
-
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 msgid "Orc Berserker"
 msgstr "兽人狂战士"
 
+# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
+msgid "Goblin Shaman"
+msgstr "地精萨满"
 
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Ancient Priest"
 msgstr "古代牧师"
-
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 # scripts/items/misc/anatomist/hyena_potion_item.nut
 msgid "Bloodgate Brew"
 msgstr "血门关药剂"
 
-
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Tome of Beasts"
 msgstr "怪兽解剖指南"
-
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 msgid "Goblin Overseer"
 msgstr "地精监督者"
 
-
 # scripts/items/misc/anatomist/hexe_potion_item.nut
 msgid "Reflect [color="
 msgstr ""
-
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 # scripts/items/misc/anatomist/orc_warrior_potion_item.nut
 msgid "Ironhead Potion"
 msgstr "铁头药剂"
 
-
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 msgid "Book of Legends"
 msgstr "传奇故事大典"
-
 
 # scripts/items/misc/anatomist/ancient_priest_potion_item.nut
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Dastard's Valor"
 msgstr "懦夫之勇药剂"
 
-
 # scripts/items/misc/anatomist/geist_potion_item.nut
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Deadman's Drink"
 msgstr "不死人药剂"
-
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 # scripts/items/misc/anatomist/orc_warlord_potion_item.nut
 msgid "Font of Strength"
 msgstr "力量真言药剂"
 
-
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 # scripts/items/misc/anatomist/goblin_shaman_potion_item.nut
 msgid "Greasejar Potion"
 msgstr "十指抹油药剂"
-
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 # scripts/items/misc/anatomist/serpent_potion_item.nut
 msgid "Quickfang Potion"
 msgstr "迅牙药剂"
 
-
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Ancient Skeleton"
 msgstr ""
-
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 # scripts/items/misc/anatomist/goblin_overseer_potion_item.nut
 msgid "Deadeye's Draught"
 msgstr "死神之眼药剂"
 
-
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 # scripts/items/misc/anatomist/rachegeist_potion_item.nut
 msgid "Knife Edge Potion"
 msgstr "复仇刀锋灵药"
-
-
-# scripts/items/misc/anatomist/research_notes_beasts_item.nut
-# scripts/items/misc/anatomist/webknecht_potion_item.nut
-msgid "Venomblood Potion"
-msgstr "毒血药剂"
-
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 # scripts/items/misc/anatomist/alp_potion_item.nut
 msgid "Nightking's Draft"
 msgstr "午夜君王药剂"
 
+# scripts/items/misc/anatomist/research_notes_beasts_item.nut
+# scripts/items/misc/anatomist/webknecht_potion_item.nut
+msgid "Venomblood Potion"
+msgstr "毒血药剂"
 
 # scripts/items/misc/anatomist/apotheosis_potion_item.nut
 msgid "Apotheosis Potion"
 msgstr "登神长阶药剂"
-
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 # scripts/items/misc/anatomist/orc_young_potion_item.nut
 msgid "Kineticist's Draft"
 msgstr "动力学家药剂"
 
-
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 # scripts/items/misc/anatomist/kraken_potion_item.nut
 msgid "Bog King's Draught"
 msgstr "沼地霸主灵药"
-
 
 # scripts/items/misc/anatomist/necromancer_potion_item.nut
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "The King in Chains"
 msgstr "咒缚之王药剂"
 
-
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Ledger of the Dead"
 msgstr "亡灵样本图鉴"
-
 
 # scripts/items/misc/anatomist/unhold_potion_item.nut
 msgid "Regenerate [color="
 msgstr ""
 
-
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Ancient Honor Guard"
 msgstr "古代仪仗队"
 
-
 # scripts/items/misc/anatomist/apotheosis_potion_item.nut
 msgid "]+1[/color] Fatigue"
 msgstr ""
-
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 # scripts/items/misc/anatomist/goblin_grunt_potion_item.nut
 msgid "Potion of Fleetfoot"
 msgstr "扁平足药剂"
 
-
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 # scripts/items/misc/anatomist/ifrit_potion_item.nut
 msgid "Potion of Stoneskin"
 msgstr "石肤药剂"
-
 
 # scripts/items/misc/anatomist/honor_guard_potion_item.nut
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Elixir of Boneflesh"
 msgstr "血肉化骨药剂"
 
-
 # scripts/items/misc/anatomist/honor_guard_potion_item.nut
 msgid "Take between [color="
 msgstr ""
 
-
 # scripts/items/misc/anatomist/orc_young_potion_item.nut
 msgid "Attacks have [color="
 msgstr ""
-
 
 # scripts/items/misc/anatomist/geist_potion_item.nut
 # scripts/items/misc/anatomist/goblin_overseer_potion_item.nut
 msgid "An additional [color="
 msgstr ""
 
-
 # scripts/items/misc/anatomist/apotheosis_potion_item.nut
 msgid "]+1[/color] Hitpoints"
 msgstr ""
-
 
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 # scripts/items/misc/anatomist/ijirok_potion_item.nut
 msgid "Elixir of the Mad God"
 msgstr "疯嚣之神灵药"
 
-
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 # scripts/items/misc/anatomist/hexe_potion_item.nut
 msgid "Potion of Malevolence"
 msgstr "怨毒药剂"
 
-
 # scripts/items/misc/anatomist/kraken_potion_item.nut
 msgid "]+50[/color] Hitpoints"
 msgstr ""
-
 
 # scripts/items/misc/anatomist/lindwurm_potion_item.nut
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Tincture of Emberblood"
 msgstr "灰烬之血药剂"
 
-
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 # scripts/items/misc/anatomist/unhold_potion_item.nut
 msgid "Fool's Treasure Potion"
 msgstr "愚者宝藏药剂"
-
 
 # scripts/items/misc/anatomist/fallen_hero_potion_item.nut
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Elixir of Perseverance"
 msgstr "稳固药剂"
 
-
 # scripts/items/misc/anatomist/wiederganger_potion_item.nut
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Potion of Leather Skin"
 msgstr "厚皮药剂"
-
 
 # scripts/items/misc/anatomist/skeleton_warrior_potion_item.nut
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Potion of the Sleepless"
 msgstr "不眠药剂"
 
-
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 # scripts/items/misc/anatomist/direwolf_potion_item.nut
 msgid "Potion of Blade Dancing"
 msgstr "刀锋舞者药剂"
 
-
 # scripts/items/misc/anatomist/lorekeeper_potion_item.nut
 msgid "Potion of Inner Sanctum"
 msgstr "冥府之门灵药"
-
 
 # scripts/items/misc/anatomist/honor_guard_potion_item.nut
 msgid "]25%[/color] and [color="
 msgstr ""
 
-
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 msgid "Greenskin Research Notes"
 msgstr "绿皮研究笔记"
-
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 # scripts/items/misc/anatomist/nachzehrer_potion_item.nut
 msgid "Potion of Flesh Knitting"
 msgstr "血肉编织药剂"
 
-
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 # scripts/items/misc/anatomist/schrat_potion_item.nut
 msgid "Draught of Godtree Roots"
 msgstr "神树根须药剂"
 
-
 # scripts/items/misc/anatomist/serpent_potion_item.nut
 msgid "Gain an additional [color="
 msgstr ""
 
-
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 msgid "Potion of Inner Phylactery"
 msgstr ""
-
 
 # scripts/items/misc/anatomist/necrosavant_potion_item.nut
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Potion of the Nightstalker"
 msgstr "暗夜行者药剂"
 
-
 # scripts/items/misc/anatomist/necromancer_potion_item.nut
 msgid "]+20%[/color] Experience Gain"
 msgstr "]+20%[/color] 经验获取"
-
 
 # scripts/items/misc/anatomist/direwolf_potion_item.nut
 msgid "Attacks that miss have [color="
 msgstr ""
 
-
 # scripts/items/misc/anatomist/unhold_potion_item.nut
 msgid "]10[/color] hitpoints each turn"
 msgstr ""
-
 
 # scripts/items/misc/anatomist/ancient_priest_potion_item.nut
 # scripts/items/misc/anatomist/geist_potion_item.nut
@@ -457,186 +382,174 @@ msgstr ""
 msgid "Mutates the body, causing sickness"
 msgstr "会让使用者的身体发生突变并导致疾病"
 
-
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Tracks your findings on the undead"
 msgstr "记录着战团对不死亡灵的研究成果"
-
 
 # scripts/items/misc/anatomist/alp_potion_item.nut
 msgid "Not affected by nighttime penalties"
 msgstr "不受夜间影响 penalties"
 
-
 # scripts/items/misc/anatomist/ifrit_potion_item.nut
 msgid "]25[/color] points of natural armor"
 msgstr ""
-
 
 # scripts/items/misc/anatomist/schrat_potion_item.nut
 msgid "Immune to being knocked back or grabbed"
 msgstr "免疫击退和勾拽技能"
 
-
 # scripts/items/misc/anatomist/orc_young_potion_item.nut
 msgid "]+10%[/color] effectiveness against armor"
 msgstr ""
-
 
 # scripts/items/misc/anatomist/direwolf_potion_item.nut
 msgid "]50%[/color] of their Fatigue cost refunded"
 msgstr ""
 
-
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 msgid "Tracks your study of orc and goblin anatomy"
 msgstr "记录着战团对兽人与哥布林的研究成果"
-
 
 # scripts/items/misc/anatomist/rachegeist_potion_item.nut
 msgid "]+25%[/color] damage and receive only [color="
 msgstr ""
 
-
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Tracks your research on the beasts of the world"
 msgstr "记录着战团对各种奇禽异兽的研究成果"
-
 
 # scripts/items/misc/anatomist/ifrit_potion_item.nut
 msgid "Turns skin hard and stone-like, granting [color="
 msgstr ""
 
-
 # scripts/items/misc/anatomist/ancient_priest_potion_item.nut
 msgid "Cannot be reduced to Fleeing morale, only Breaking"
 msgstr "士气永远不会降至“逃跑”级别，最低达到“溃散”"
-
 
 # scripts/items/misc/anatomist/rachegeist_potion_item.nut
 msgid "]75%[/color] of any damage if hitpoints are below [color="
 msgstr ""
 
-
 # scripts/items/misc/anatomist/geist_potion_item.nut
 msgid "]5%[/color] of damage ignores armor when using melee weapons"
 msgstr "]5%[/color] 伤害忽视盔甲 when using melee weapons"
-
 
 # scripts/items/misc/anatomist/hexe_potion_item.nut
 msgid "]100%[/color] of hitpoint damage received back at the attacker"
 msgstr ""
 
-
 # scripts/items/misc/anatomist/goblin_overseer_potion_item.nut
 msgid "]5%[/color] of damage ignores armor when using bows or crossbows"
 msgstr "]5%[/color] 伤害忽视盔甲 when using bows or crossbows"
-
 
 # scripts/items/misc/anatomist/skeleton_warrior_potion_item.nut
 msgid "The Fatigue cost of the 'Shieldwall' skill is reduced by [color="
 msgstr "'盾墙' 技能的疲劳产生量降低 [color="
 
-
 # scripts/items/misc/anatomist/fallen_hero_potion_item.nut
 msgid "Accumulate no Fatigue from enemy attacks, whether they hit or miss"
 msgstr "被敌人攻击时不再增加疲劳值，不论命中与否"
-
 
 # scripts/items/misc/anatomist/webknecht_potion_item.nut
 msgid "Immune to poison effects, including those of Webknechts and Goblins"
 msgstr "免疫中毒效果，包括蜘蛛与哥布林的毒药"
 
-
 # scripts/items/misc/anatomist/hyena_potion_item.nut
 msgid "Damage received from the Bleeding status effect is reduced by [color="
 msgstr "受到的流血伤害减少  [color="
-
 
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 msgid "Tracks your research into mythical creatures, should you discover any"
 msgstr "记录着战团对传奇生物的研究成果……如果你真能找得到它们的话"
 
-
 # scripts/items/misc/anatomist/orc_warlord_potion_item.nut
 msgid "No longer suffer any additional fatigue penalty for using orc weapons"
 msgstr "使用兽人武器时不再遭受额外的疲劳惩罚"
-
 
 # scripts/items/misc/anatomist/ijirok_potion_item.nut
 msgid "]50%[/color] chance to resist any status effect, like Dazed or Stunned"
 msgstr "有 ]50%[/color] 几率抵抗任何不良状态，例如茫然或眩晕"
 
-
 # scripts/items/misc/anatomist/wiederganger_potion_item.nut
-msgid "The threshold to sustain injuries on getting hit is increased by [color="
+msgid ""
+"The threshold to sustain injuries on getting hit is increased by [color="
 msgstr "被命中时遭受伤残的伤害阈值提高  [color="
 
-
 # scripts/items/misc/anatomist/serpent_potion_item.nut
-msgid "]+3%[/color] chance to hit in melee for every ally adjacent to your target"
+msgid ""
+"]+3%[/color] chance to hit in melee for every ally adjacent to your target"
 msgstr "]+3%[/color] 命中几率 in melee for every ally adjacent to your target"
 
-
 # scripts/items/misc/anatomist/goblin_grunt_potion_item.nut
-msgid "The Fatigue costs of the Rotation and Footwork skills are reduced by [color="
+msgid ""
+"The Fatigue costs of the Rotation and Footwork skills are reduced by [color="
 msgstr "换位和步法技能的疲劳产生量降低  [color="
 
-
 # scripts/items/misc/anatomist/necrosavant_potion_item.nut
-msgid "]25%[/color] of hitpoint damage inflicted on adjacent enemies that have blood"
+msgid ""
+"]25%[/color] of hitpoint damage inflicted on adjacent enemies that have "
+"blood"
 msgstr ""
 
-
 # scripts/items/misc/anatomist/goblin_shaman_potion_item.nut
-msgid "Always successfully able to escape from ensnarement, such as from nets or roots"
+msgid ""
+"Always successfully able to escape from ensnarement, such as from nets or "
+"roots"
 msgstr "总是能成功挣脱束缚，包括投网与根须缠绕"
 
-
 # scripts/items/misc/anatomist/goblin_grunt_potion_item.nut
-msgid "The Action Point costs of the Rotation and Footwork skills are reduced to [color="
+msgid ""
+"The Action Point costs of the Rotation and Footwork skills are reduced to "
+"[color="
 msgstr "换位和步法技能的行动点消耗降低至  [color="
 
-
 # scripts/items/misc/anatomist/honor_guard_potion_item.nut
-msgid "]50%[/color] less damage from piercing attacks, such as those from bows or spears"
+msgid ""
+"]50%[/color] less damage from piercing attacks, such as those from bows or "
+"spears"
 msgstr ""
 
-
 # scripts/items/misc/anatomist/lorekeeper_potion_item.nut
-msgid "Once per battle, upon receiving a killing blow, survive instead and regain full health"
+msgid ""
+"Once per battle, upon receiving a killing blow, survive instead and regain "
+"full health"
 msgstr "每场战斗一次，在遭受致命伤害时抵抗该次伤害并恢复所有生命值"
 
-
 # scripts/items/misc/anatomist/nachzehrer_potion_item.nut
-msgid "Reduces the time it takes to heal from any injury by one day, down to a mininum of one day"
+msgid ""
+"Reduces the time it takes to heal from any injury by one day, down to a "
+"mininum of one day"
 msgstr "所有伤残的恢复时长减少一天，最短一天"
 
-
 # scripts/items/misc/anatomist/orc_warrior_potion_item.nut
-msgid "]33%[/color] to resist the Dazed, Staggered, Stunned, Distracted, and Withered status effects"
+msgid ""
+"]33%[/color] to resist the Dazed, Staggered, Stunned, Distracted, and "
+"Withered status effects"
 msgstr "有 ]33%[/color] 的几率抵抗茫然、踉跄、眩晕、分神和凋零效果"
 
-
 # scripts/items/misc/anatomist/serpent_potion_item.nut
-msgid "With this potion, the feared guile and precision of the hateful desert serpent is within any warrior's grasp!"
+msgid ""
+"With this potion, the feared guile and precision of the hateful desert "
+"serpent is within any warrior's grasp!"
 msgstr "有了这种药剂，沙漠巨蛇那令人生畏的狡诈和精准就将尽在每一位战士的掌握之中！"
 
-
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
-msgid "A slim journal bound in fine leather, containing your meager scientific notes on creatures of myth and legend."
+msgid ""
+"A slim journal bound in fine leather, containing your meager scientific "
+"notes on creatures of myth and legend."
 msgstr "这是一本薄薄的日志，用精致的皮革装订而成，里面记载着那些一度被认为只存在于神话和传说中的生物的寥寥数页研究笔记。"
 
-
 # scripts/items/misc/anatomist/lindwurm_potion_item.nut
-msgid "Makes a character's blood burn with acid, damaging attackers in melee range whenever they deal hitpoint damage"
+msgid ""
+"Makes a character's blood burn with acid, damaging attackers in melee range "
+"whenever they deal hitpoint damage"
 msgstr "使用者的血液将变为滚烫的酸液，并在承受生命值伤害时对近战范围内的攻击者施加“酸液腐蚀”状态"
 
-
 # scripts/items/misc/anatomist/hexe_potion_item.nut
-msgid "The label on this bottle reads: 'DANGER! FURTHER RESEARCH REQUIRED BEFORE CONSUMPTION.' Eh, you're sure it's fine."
+msgid ""
+"The label on this bottle reads: 'DANGER! FURTHER RESEARCH REQUIRED BEFORE "
+"CONSUMPTION.' Eh, you're sure it's fine."
 msgstr "这个瓶子上的标签写着：“危险！服用前需要进一步研究。”嗯，你觉得肯定不会出大问题的。"
-
 
 # scripts/items/misc/anatomist/ancient_priest_potion_item.nut
 # scripts/items/misc/anatomist/geist_potion_item.nut
@@ -669,172 +582,277 @@ msgstr "这个瓶子上的标签写着：“危险！服用前需要进一步研
 # scripts/items/misc/anatomist/direwolf_potion_item.nut
 # scripts/items/misc/anatomist/unhold_potion_item.nut
 # scripts/items/misc/anatomist/goblin_overseer_potion_item.nut
-msgid "Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process."
+msgid ""
+"Right-click or drag onto the currently selected character in order to drink."
+" This item will be consumed in the process."
 msgstr "右键单击或拖动到当前选定的角色上进行饮用。 此物品会在使用过程中消耗掉。"
 
-
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
-msgid "A treatise on the beasts of the world. Coded notes fill the margins in sections on the most interesting - and real - creatures."
+msgid ""
+"A treatise on the beasts of the world. Coded notes fill the margins in "
+"sections on the most interesting - and real - creatures."
 msgstr "一篇关于世界上所存在的各种怪兽的论文。书中关于那些最有趣——而且确实存在的生物的段落附近所有的空白都被笔记和注释填满了。"
 
-
 # scripts/items/misc/anatomist/orc_berserker_potion_item.nut
-msgid "Gain stacks of Rage upon taking hitpoint damage, which increases Resolve, Initiative and damage dealt, and reduces damage taken"
+msgid ""
+"Gain stacks of Rage upon taking hitpoint damage, which increases Resolve, "
+"Initiative and damage dealt, and reduces damage taken"
 msgstr "每当承受生命值伤害时获得可堆叠的“愤怒”效果，增加决心值、主动值、伤害输出并减少所受的伤害"
 
-
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
-msgid "A tidy collection of eyewitness reports, experiment logs, and research diaries detailing the anatomy of various greenskin specimens."
+msgid ""
+"A tidy collection of eyewitness reports, experiment logs, and research "
+"diaries detailing the anatomy of various greenskin specimens."
 msgstr "一系列的目击者报告、实验日志和研究笔记，里面详细介绍了各种绿皮的躯体构造以及对样本的解剖记录。"
 
-
 # scripts/items/misc/anatomist/skeleton_warrior_potion_item.nut
-msgid "By drinking this, even the feeblest sellsword will gain a shield arm that rivals even that of the ceaseless dead! Almost guaranteed to not turn them undead, either!"
+msgid ""
+"By drinking this, even the feeblest sellsword will gain a shield arm that "
+"rivals even that of the ceaseless dead! Almost guaranteed to not turn them "
+"undead, either!"
 msgstr "喝了这瓶药，即使是最虚弱的雇佣兵架起的盾墙也会稳如泰山，甚至可以与永无休止的古代亡灵相匹敌！几乎可以保证不会让他们变成不死族！几乎！"
 
-
 # scripts/items/misc/anatomist/orc_berserker_potion_item.nut
-msgid "Developed from the adrenal glands of so called Orc 'Berserkers', this concoction is so named for the heightened emotional state and reddened hue of whoever drinks it."
+msgid ""
+"Developed from the adrenal glands of so called Orc 'Berserkers', this "
+"concoction is so named for the heightened emotional state and reddened hue "
+"of whoever drinks it."
 msgstr "由所谓的兽人“狂战士”的肾上腺研制而成，这种药剂因为会让饮用者情绪高涨、颜色变红而得名。"
 
-
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid "A ledger stuffed full of folktales, post-mortems, autopsy notes, and the mad scribblings of a supposed necromancer that collectively contain your knowledge of the undead."
+msgid ""
+"A ledger stuffed full of folktales, post-mortems, autopsy notes, and the mad"
+" scribblings of a supposed necromancer that collectively contain your "
+"knowledge of the undead."
 msgstr "一本写满了民间故事、验尸记录、尸检笔记和一个所谓的亡灵巫师的疯狂涂鸦的笔记簿，你们对不死亡灵所知的一切尽数记载其中。"
 
-
 # scripts/items/misc/anatomist/schrat_potion_item.nut
-msgid "With this wondrous concoction, mere mortal men shall take on an aspect of the gods themselves! Any who consume it can become rooted as solidly as the great godtrees of legend."
+msgid ""
+"With this wondrous concoction, mere mortal men shall take on an aspect of "
+"the gods themselves! Any who consume it can become rooted as solidly as the "
+"great godtrees of legend."
 msgstr "有了这种奇妙的混合物，凡人也将呈现出神性的一面！任何喝下它的人都可以像传说中的伟大神树一样根植于地，不可动摇。"
 
-
 # scripts/items/misc/anatomist/orc_young_potion_item.nut
-msgid "Feel the strength of an orc flow through your veins! Imbibing this draft will infuse even the meekest man's blows with the intense destructive power of a hulking greenskin, guaranteed!"
+msgid ""
+"Feel the strength of an orc flow through your veins! Imbibing this draft "
+"will infuse even the meekest man's blows with the intense destructive power "
+"of a hulking greenskin, guaranteed!"
 msgstr "感受兽人的力量流过你的血管吧！喝下这瓶药水，即使是最温顺的人的打击也会像最庞大的绿皮一样充满巨大的破坏力，质量有担保！"
 
-
 # scripts/items/misc/anatomist/goblin_grunt_potion_item.nut
-msgid "Developed from drugs found on goblin frontline troops, this concoction can grant a man the celerity typically found in the diminutive greenskins. May result in minor skin discoloration."
+msgid ""
+"Developed from drugs found on goblin frontline troops, this concoction can "
+"grant a man the celerity typically found in the diminutive greenskins. May "
+"result in minor skin discoloration."
 msgstr "这种混合物由在哥布林前线步兵身上携带的药物研制而成，可以让人类拥有在小个子的绿皮身上常见的敏捷性。副作用是可能会导致皮肤轻微变色。"
 
-
 # scripts/items/misc/anatomist/ijirok_potion_item.nut
-msgid "The main label on this elixir is illegible, written in hastily scrawled sigils in some foreign or fake language. Underneath, written in a tidy, small script: 'SIDE EFFECTS: MANY'. Thrilling!"
+msgid ""
+"The main label on this elixir is illegible, written in hastily scrawled "
+"sigils in some foreign or fake language. Underneath, written in a tidy, "
+"small script: 'SIDE EFFECTS: MANY'. Thrilling!"
 msgstr "这瓶灵药上的标签十分难以辨认，一些异域语言的文字和意义不明的鬼画符草草写在上边。下方则用整洁的小字写着：“副作用：很多”。好可怕呀！"
 
-
 # scripts/items/misc/anatomist/wiederganger_potion_item.nut
-msgid "When consumed, this powerful concoction alters the flesh to react immediately to sudden blows, protecting the body from severe injury! Don't mind the smell, that's just a sign of its potency."
+msgid ""
+"When consumed, this powerful concoction alters the flesh to react "
+"immediately to sudden blows, protecting the body from severe injury! Don't "
+"mind the smell, that's just a sign of its potency."
 msgstr "饮用后，这种强大的混合物会改变你的肌肉，对突然的打击立即做出反应，保护身体免受严重伤害！别介意它的气味，那只是它效力的一个标志。"
 
-
 # scripts/items/misc/anatomist/kraken_potion_item.nut
-msgid "Take on the aspect of the beast of beasts! With this miracle draught, a cripple becomes as a strongman, and a strongman becomes as a god! Known side effects include an increased appetite and some minor hallucinations."
+msgid ""
+"Take on the aspect of the beast of beasts! With this miracle draught, a "
+"cripple becomes as a strongman, and a strongman becomes as a god! Known side"
+" effects include an increased appetite and some minor hallucinations."
 msgstr "展现万兽之王的气魄！喝下这瓶神奇的药水，废人也能瞬间变成强人，而强人将会变成神人！已知的副作用包括食欲暴涨和一些轻微的幻觉。"
 
-
 # scripts/items/misc/anatomist/apotheosis_potion_item.nut
-msgid "This fantastic concoction is the pinnacle of what research on human anatomy has yielded. The few who know of its existence claim that to consume it is to ascend to a higher state of being, something beyond a mere human."
+msgid ""
+"This fantastic concoction is the pinnacle of what research on human anatomy "
+"has yielded. The few who know of its existence claim that to consume it is "
+"to ascend to a higher state of being, something beyond a mere human."
 msgstr "这种神奇的混合物是人体解剖学研究成果的顶峰。很少有人知道它的存在，他们声称，喝下它就能让人升华到一种更高的境界，一种超越人类的东西。"
 
-
 # scripts/items/misc/anatomist/lindwurm_potion_item.nut
-msgid "Feel your blood boil! Or, more to the point, don't! With this tincture, the burning blood of a lindwurm will flow through decidedly human veins, with the lucky subject none the wiser. Until they start bleeding, of course."
-msgstr "让你的血液沸腾起来吧！或者，更准确的形容是……算了不重要！有了这种药剂，林德沃姆那滚烫的鲜血将流过人类的血管，幸运的受试者对此却毫不知情。当然，直到他们开始流血为止。"
-
+msgid ""
+"Feel your blood boil! Or, more to the point, don't! With this tincture, the "
+"burning blood of a lindwurm will flow through decidedly human veins, with "
+"the lucky subject none the wiser. Until they start bleeding, of course."
+msgstr ""
+"让你的血液沸腾起来吧！或者，更准确的形容是……算了不重要！有了这种药剂，林德沃姆那滚烫的鲜血将流过人类的血管，幸运的受试者对此却毫不知情。当然，直到他们开始流血为止。"
 
 # scripts/items/misc/anatomist/rachegeist_potion_item.nut
-msgid "Few creatures defy understanding like the so-called Rachegeist. Through meticulous examination of its meager remains, however, this miraculous potion was created! Now even mortal men may bring out the power of undeath itself!"
-msgstr "很少有生物能像所谓的“复仇之魂”那样难以理解。然而，通过对它所剩无几的遗骸仔细检查，这种神奇的药水诞生了！现在，即使是凡人，也可以发挥与亡灵无异的力量！"
-
+msgid ""
+"Few creatures defy understanding like the so-called Rachegeist. Through "
+"meticulous examination of its meager remains, however, this miraculous "
+"potion was created! Now even mortal men may bring out the power of undeath "
+"itself!"
+msgstr ""
+"很少有生物能像所谓的“复仇之魂”那样难以理解。然而，通过对它所剩无几的遗骸仔细检查，这种神奇的药水诞生了！现在，即使是凡人，也可以发挥与亡灵无异的力量！"
 
 # scripts/items/misc/anatomist/goblin_shaman_potion_item.nut
-msgid "While the phrase 'slippery as a goblin' hasn't quite caught on in the common vernacular, anyone who has fought the hateful greenskins knows its truth. With this amazing potion, however, anyone can take on this loathsome aspect!"
-msgstr "虽然“像哥布林一样滑溜”这句话在民间俗语中还不太流行，但任何与那帮可恶的小绿人战斗过的人都知道这句话是多么有含金量。然而，有了这种神奇的药剂后，任何人都可以表现出这种令人恶心的一面了！"
-
+msgid ""
+"While the phrase 'slippery as a goblin' hasn't quite caught on in the common"
+" vernacular, anyone who has fought the hateful greenskins knows its truth. "
+"With this amazing potion, however, anyone can take on this loathsome aspect!"
+msgstr ""
+"虽然“像哥布林一样滑溜”这句话在民间俗语中还不太流行，但任何与那帮可恶的小绿人战斗过的人都知道这句话是多么有含金量。然而，有了这种神奇的药剂后，任何人都可以表现出这种令人恶心的一面了！"
 
 # scripts/items/misc/anatomist/alp_potion_item.nut
-msgid "This draft, the result of intensive study into the so-called 'Third Eye' of the Alp, allows whomever drinks it to see through the night as if it were day! Blurry vision and hallucinations are expected while the body acclimates."
-msgstr "这瓶药剂是对梦魇邪物所谓的“第三只眼”进行深入研究的结果，它会让任何喝了它的人都能像白天一样看穿黑夜！在服药后的适应期出现视力模糊和各种幻觉属于正常现象。"
-
+msgid ""
+"This draft, the result of intensive study into the so-called 'Third Eye' of "
+"the Alp, allows whomever drinks it to see through the night as if it were "
+"day! Blurry vision and hallucinations are expected while the body "
+"acclimates."
+msgstr ""
+"这瓶药剂是对梦魇邪物所谓的“第三只眼”进行深入研究的结果，它会让任何喝了它的人都能像白天一样看穿黑夜！在服药后的适应期出现视力模糊和各种幻觉属于正常现象。"
 
 # scripts/items/misc/anatomist/webknecht_potion_item.nut
-msgid "As any experienced beast hunter could tell you, what makes the overgrown arachnids known as Webknechts truly fearsome is their vicious poison. Well, no longer! Whoever drinks this potion need not fear the creatures' venom again!"
-msgstr "任何一位经验丰富的野兽猎人都会告诉你，被称为“蛛魔”的发育过度的蛛形纲动物真正可怕的是它们的毒液。好吧，马上就不再是了！无论谁喝了这种药剂，都不必再害怕这些生物的毒液了！"
-
+msgid ""
+"As any experienced beast hunter could tell you, what makes the overgrown "
+"arachnids known as Webknechts truly fearsome is their vicious poison. Well, "
+"no longer! Whoever drinks this potion need not fear the creatures' venom "
+"again!"
+msgstr ""
+"任何一位经验丰富的野兽猎人都会告诉你，被称为“蛛魔”的发育过度的蛛形纲动物真正可怕的是它们的毒液。好吧，马上就不再是了！无论谁喝了这种药剂，都不必再害怕这些生物的毒液了！"
 
 # scripts/items/misc/anatomist/orc_warlord_potion_item.nut
-msgid "Many a general has wished orcs might be tamed, for if one could control the greenskins and direct their strength with the intellect of man, they would surely control an unstoppable force. With this, such fantasies are within reach!"
-msgstr "有许多军事家都希望兽人能被驯服，因为如果有人能控制绿皮，并用人类的智慧去引导他们的蛮力，那他们肯定会掌握一股不可阻挡的力量。只要吨了这瓶药，这样的幻想就触手可及了！"
-
+msgid ""
+"Many a general has wished orcs might be tamed, for if one could control the "
+"greenskins and direct their strength with the intellect of man, they would "
+"surely control an unstoppable force. With this, such fantasies are within "
+"reach!"
+msgstr ""
+"有许多军事家都希望兽人能被驯服，因为如果有人能控制绿皮，并用人类的智慧去引导他们的蛮力，那他们肯定会掌握一股不可阻挡的力量。只要吨了这瓶药，这样的幻想就触手可及了！"
 
 # scripts/items/misc/anatomist/orc_warrior_potion_item.nut
-msgid "As any veteran of the Battle of Many Names can attest, to fight an orc warrior is to fight a veritable wall of metal and flesh, seemingly impervious to even the most debilitating of blows. With this potion, now you can be that wall!"
-msgstr "正如任何一位名副其实的老兵都可以证明的那样，与兽人战士作战就是与一面金属和血肉铸成的城墙作战，即使是最致命的打击似乎也无法伤其分毫。有了这种药剂，你就可以成为那堵墙了！"
-
+msgid ""
+"As any veteran of the Battle of Many Names can attest, to fight an orc "
+"warrior is to fight a veritable wall of metal and flesh, seemingly "
+"impervious to even the most debilitating of blows. With this potion, now you"
+" can be that wall!"
+msgstr ""
+"正如任何一位名副其实的老兵都可以证明的那样，与兽人战士作战就是与一面金属和血肉铸成的城墙作战，即使是最致命的打击似乎也无法伤其分毫。有了这种药剂，你就可以成为那堵墙了！"
 
 # scripts/items/misc/anatomist/hyena_potion_item.nut
-msgid "Brewed with a previously unknown gland from the savage desert hyena, this hearty brew transforms even the frailest man into a font of endurance. Even the most grievous of wounds will stop bleeding and close in a fraction of the time."
-msgstr "用一种此前不为人所知的沙漠鬣狗的腺体酿制而成，这种味道十分上头的药剂能让最虚弱的人也变得十分持久。即使是最严重的伤口也能在短时间内止血并愈合。"
-
+msgid ""
+"Brewed with a previously unknown gland from the savage desert hyena, this "
+"hearty brew transforms even the frailest man into a font of endurance. Even "
+"the most grievous of wounds will stop bleeding and close in a fraction of "
+"the time."
+msgstr ""
+"用一种此前不为人所知的沙漠鬣狗的腺体酿制而成，这种味道十分上头的药剂能让最虚弱的人也变得十分持久。即使是最严重的伤口也能在短时间内止血并愈合。"
 
 # scripts/items/misc/anatomist/necromancer_potion_item.nut
-msgid "Of the many weapons at a man's disposal, the most deadly is surely his mind, and in no figure is this more apparent than the dreaded necromancer. With this mixture, that frightful intellect can descend to the grasp of even the common man!"
-msgstr "在一个人可以使用的众多武器中，最致命的无疑是他的头脑，而任何人在这一点上都比不过可怕的亡灵巫师。但有了这种药剂，这种可怕的智力甚至可以落到普通人的手里！"
-
+msgid ""
+"Of the many weapons at a man's disposal, the most deadly is surely his mind,"
+" and in no figure is this more apparent than the dreaded necromancer. With "
+"this mixture, that frightful intellect can descend to the grasp of even the "
+"common man!"
+msgstr ""
+"在一个人可以使用的众多武器中，最致命的无疑是他的头脑，而任何人在这一点上都比不过可怕的亡灵巫师。但有了这种药剂，这种可怕的智力甚至可以落到普通人的手里！"
 
 # scripts/items/misc/anatomist/ifrit_potion_item.nut
-msgid "With this potion, a common man may take on the aspect of that most frightful of foes, the Ifrit of the southern deserts! Gain the devils' stone skin and laugh at your foes as they break their weapons upon you! Side effects may include itchiness."
-msgstr "有了这种药剂，一个平平无奇普通人也可以变成南方沙漠的伊芙利特那般可怕的敌手！长出诡异的石头皮肤，笑看你敌人的武器在你身上磕出豁口的模样吧！副作用可能包括全身瘙痒。"
-
+msgid ""
+"With this potion, a common man may take on the aspect of that most frightful"
+" of foes, the Ifrit of the southern deserts! Gain the devils' stone skin and"
+" laugh at your foes as they break their weapons upon you! Side effects may "
+"include itchiness."
+msgstr ""
+"有了这种药剂，一个平平无奇普通人也可以变成南方沙漠的伊芙利特那般可怕的敌手！长出诡异的石头皮肤，笑看你敌人的武器在你身上磕出豁口的模样吧！副作用可能包括全身瘙痒。"
 
 # scripts/items/misc/anatomist/unhold_potion_item.nut
-msgid "Ignore the name, this potion will grant near immortality to whomever drinks it! That's right, just like the dreaded Unhold, any lucky enough to consume this will have their wounds close mere moments after opening! Take it! Quickly! Don't think, act!"
-msgstr "不要在意名字这种小事，这种药剂将让任何喝下它的人近乎不朽！没错，就像那些可怕的巨魔一样，不管是哪位幸运儿，只要喝下它，你的伤口就会在产生的瞬间开始愈合！还不赶紧喝了它！麻溜的！搞快点！少动脑子多动手！"
-
+msgid ""
+"Ignore the name, this potion will grant near immortality to whomever drinks "
+"it! That's right, just like the dreaded Unhold, any lucky enough to consume "
+"this will have their wounds close mere moments after opening! Take it! "
+"Quickly! Don't think, act!"
+msgstr ""
+"不要在意名字这种小事，这种药剂将让任何喝下它的人近乎不朽！没错，就像那些可怕的巨魔一样，不管是哪位幸运儿，只要喝下它，你的伤口就会在产生的瞬间开始愈合！还不赶紧喝了它！麻溜的！搞快点！少动脑子多动手！"
 
 # scripts/items/misc/anatomist/honor_guard_potion_item.nut
-msgid "The undead are rightly feared for their unflagging purpose and their unbreakable will, but any experienced warrior knows of a third horror, the dread creatures resistance to spears and arrows. With this concoction, the living may obtain such an aegis as well!"
-msgstr "远古亡灵因其不可动摇的目标和坚不可摧的意志而受到应有的恐惧，但任何有经验的战士都知道骷髅还有第三种可怕的地方，那就是长矛和利箭对这些怪物几乎毫无作用。有了这种混合物，就算是活人也可以获得这样的防护力！"
-
+msgid ""
+"The undead are rightly feared for their unflagging purpose and their "
+"unbreakable will, but any experienced warrior knows of a third horror, the "
+"dread creatures resistance to spears and arrows. With this concoction, the "
+"living may obtain such an aegis as well!"
+msgstr ""
+"远古亡灵因其不可动摇的目标和坚不可摧的意志而受到应有的恐惧，但任何有经验的战士都知道骷髅还有第三种可怕的地方，那就是长矛和利箭对这些怪物几乎毫无作用。有了这种混合物，就算是活人也可以获得这样的防护力！"
 
 # scripts/items/misc/anatomist/ancient_priest_potion_item.nut
-msgid "This potion will turn into even the most yellow-bellied of men into a veritable font of courage. No matter the odds or the foe, they shall remain dauntless! Side effects may include loss of life due to being unable to back down when the situation calls for it."
-msgstr "就算是胆小如鼠的怂比，喝下这瓶药剂也会变成真正的勇士。无论遇到什么困难或敌人，他们都将不屈不挠！副作用可能包括在情况必要时无法退缩而导致的生命丧失。"
-
+msgid ""
+"This potion will turn into even the most yellow-bellied of men into a "
+"veritable font of courage. No matter the odds or the foe, they shall remain "
+"dauntless! Side effects may include loss of life due to being unable to back"
+" down when the situation calls for it."
+msgstr ""
+"就算是胆小如鼠的怂比，喝下这瓶药剂也会变成真正的勇士。无论遇到什么困难或敌人，他们都将不屈不挠！副作用可能包括在情况必要时无法退缩而导致的生命丧失。"
 
 # scripts/items/misc/anatomist/lorekeeper_potion_item.nut
-msgid "Held within this vial is a powerful sedative that will induce a deep sleep, unbreakable by pain. This is needed to keep the subject under long enough to graft another row of ribs, the bones themselves recovered from one of the Lorekeeper's more ordinary phylacteries."
-msgstr "这个小瓶里装着一种强大的镇静剂，它会使人进入即使疼痛也无法打破的深度睡眠。这瓶药剂的实际作用是让受试者长时间处于麻醉状态，以便移植一排肋骨，这些骨骼本身是从“守密人”的一个命匣中抢救出来的。"
-
+msgid ""
+"Held within this vial is a powerful sedative that will induce a deep sleep, "
+"unbreakable by pain. This is needed to keep the subject under long enough to"
+" graft another row of ribs, the bones themselves recovered from one of the "
+"Lorekeeper's more ordinary phylacteries."
+msgstr ""
+"这个小瓶里装着一种强大的镇静剂，它会使人进入即使疼痛也无法打破的深度睡眠。这瓶药剂的实际作用是让受试者长时间处于麻醉状态，以便移植一排肋骨，这些骨骼本身是从“守密人”的一个命匣中抢救出来的。"
 
 # scripts/items/misc/anatomist/fallen_hero_potion_item.nut
-msgid "This serum, developed from a substance found within certain extraordinary specimens of Wiederganger, allows a living man to gain some of the indefatigable perseverance of the loathsome undead warriors - with no loss of life! Some minor joint stiffness is to be expected."
-msgstr "这种血清是用从某些特殊的僵尸样本中发现的一种物质研制而成的，它能让一个活生生的人获得和那些恶心巴拉的不死族一样不屈不挠的毅力——而且不用失去生命！只不过会导致轻微的关节僵硬而已。"
-
+msgid ""
+"This serum, developed from a substance found within certain extraordinary "
+"specimens of Wiederganger, allows a living man to gain some of the "
+"indefatigable perseverance of the loathsome undead warriors - with no loss "
+"of life! Some minor joint stiffness is to be expected."
+msgstr ""
+"这种血清是用从某些特殊的僵尸样本中发现的一种物质研制而成的，它能让一个活生生的人获得和那些恶心巴拉的不死族一样不屈不挠的毅力——而且不用失去生命！只不过会导致轻微的关节僵硬而已。"
 
 # scripts/items/misc/anatomist/direwolf_potion_item.nut
-msgid "This humoural concoction, borne from research into the dreaded direwolf, will turn even the clumsiest oaf into a lithe dancer of a warrior, able to gracefully move with the tides of battle long after lesser men succumb to fatigue! Mild akathisia after consuming is normal and expected."
-msgstr "这种略显喜感的混合物来源于对可怕的冰原野狼的研究，即使是最笨拙的白痴在喝下它之后也会变成动作如舞蹈般轻盈的战士，就算在那些足以把弱者累趴下的持久战中，他们也能在战场中翩翩起舞！服用后出现轻度的多动症状属于正常现象。"
-
+msgid ""
+"This humoural concoction, borne from research into the dreaded direwolf, "
+"will turn even the clumsiest oaf into a lithe dancer of a warrior, able to "
+"gracefully move with the tides of battle long after lesser men succumb to "
+"fatigue! Mild akathisia after consuming is normal and expected."
+msgstr ""
+"这种略显喜感的混合物来源于对可怕的冰原野狼的研究，即使是最笨拙的白痴在喝下它之后也会变成动作如舞蹈般轻盈的战士，就算在那些足以把弱者累趴下的持久战中，他们也能在战场中翩翩起舞！服用后出现轻度的多动症状属于正常现象。"
 
 # scripts/items/misc/anatomist/nachzehrer_potion_item.nut
-msgid "If one divorces the horror of the act from its utility, there are few phenomena more marvelous in nature than the Nachzehrer's ability to recover by eating the flesh of the dead. No longer! Now man himself may take on such qualities, and without committing crimes of conscience, to boot!"
-msgstr "如果你能把一种行为恐怖的外在表现与它的实际效用分开看待，那么在本质上而言，没有什么现象能比食尸鬼通过吞吃死者的血肉来恢复健康的能力更神奇了。重大突破！人类现在也可以获得这种强大的再生能力了，而且还不用犯下丧尽天良的食人罪！"
-
+msgid ""
+"If one divorces the horror of the act from its utility, there are few "
+"phenomena more marvelous in nature than the Nachzehrer's ability to recover "
+"by eating the flesh of the dead. No longer! Now man himself may take on such"
+" qualities, and without committing crimes of conscience, to boot!"
+msgstr ""
+"如果你能把一种行为恐怖的外在表现与它的实际效用分开看待，那么在本质上而言，没有什么现象能比食尸鬼通过吞吃死者的血肉来恢复健康的能力更神奇了。重大突破！人类现在也可以获得这种强大的再生能力了，而且还不用犯下丧尽天良的食人罪！"
 
 # scripts/items/misc/anatomist/goblin_overseer_potion_item.nut
-msgid "Equal parts terrifying and annoying, the uncanny marksmanship of upper caste goblins has long been thought unobtainable by ordinary, self-respecting humans. With this wondrous potion, however, the discerning warrior can harness some of that latent skill for himself at minor cosmetic cost!"
-msgstr "一个既可怕又恼人的事实是，长期以来，绝大多数人都认为那些统治阶级的哥布林那诡异的射术根本就不是人类能学得会的。然而，有了这种神奇的药剂，一位知觉敏锐的战士就可以利用一部分哥布林督军的伪装技巧，代价只不过是变丑一点儿！"
-
+msgid ""
+"Equal parts terrifying and annoying, the uncanny marksmanship of upper caste"
+" goblins has long been thought unobtainable by ordinary, self-respecting "
+"humans. With this wondrous potion, however, the discerning warrior can "
+"harness some of that latent skill for himself at minor cosmetic cost!"
+msgstr ""
+"一个既可怕又恼人的事实是，长期以来，绝大多数人都认为那些统治阶级的哥布林那诡异的射术根本就不是人类能学得会的。然而，有了这种神奇的药剂，一位知觉敏锐的战士就可以利用一部分哥布林督军的伪装技巧，代价只不过是变丑一点儿！"
 
 # scripts/items/misc/anatomist/necrosavant_potion_item.nut
-msgid "Whoever drinks this incredible potion, produced with the ash of a Necrosavant, will find themselves in possession of the miraculous healing powers of the undead creatures! It does not grant the extended lifespan associated with the abominations, however - quite the opposite, in fact. This may be considered a feature should the imbiber get a bit too comfortable drinking blood."
-msgstr "无论是谁，喝下这种用吸血鬼的灰烬制成的不可思议的药水，都会发现自己拥有了不死生物的神奇治疗能力！然而，它并不能像让你像那些可憎之物一样延年益寿——事实上恰恰相反。可能会有让服用者在喝下血液时十分愉悦的副作用。"
-
+msgid ""
+"Whoever drinks this incredible potion, produced with the ash of a "
+"Necrosavant, will find themselves in possession of the miraculous healing "
+"powers of the undead creatures! It does not grant the extended lifespan "
+"associated with the abominations, however - quite the opposite, in fact. "
+"This may be considered a feature should the imbiber get a bit too "
+"comfortable drinking blood."
+msgstr ""
+"无论是谁，喝下这种用吸血鬼的灰烬制成的不可思议的药水，都会发现自己拥有了不死生物的神奇治疗能力！然而，它并不能像让你像那些可憎之物一样延年益寿——事实上恰恰相反。可能会有让服用者在喝下血液时十分愉悦的副作用。"
 
 # scripts/items/misc/anatomist/geist_potion_item.nut
-msgid "This draft, synthesized from the faint ectoplasmic remnants of a 'slain' Geist, alters the body of whoever imbibes it to take on a similar ghostly aspect. Any weapons wielded by such a warrior will surely gain some of the creature's ability to bypass armor! Auditory hallucinations are an expected side effect of consuming the draft and will likely cease after a while. Hopefully, anyway."
-msgstr "这种药剂是由一个“被杀”的灵魂仅存的一点残留所合成的，它会改变任何服用它的人的身体，使其呈现出幽灵般的面貌。这些战士所用的武器肯定会获得像那些幽灵一样穿透装甲的部分能力！幻听是服用该药物的预期副作用，可能会在一段时间后停止。可能，大概吧。"
-
-
+msgid ""
+"This draft, synthesized from the faint ectoplasmic remnants of a 'slain' "
+"Geist, alters the body of whoever imbibes it to take on a similar ghostly "
+"aspect. Any weapons wielded by such a warrior will surely gain some of the "
+"creature's ability to bypass armor! Auditory hallucinations are an expected "
+"side effect of consuming the draft and will likely cease after a while. "
+"Hopefully, anyway."
+msgstr ""
+"这种药剂是由一个“被杀”的灵魂仅存的一点残留所合成的，它会改变任何服用它的人的身体，使其呈现出幽灵般的面貌。这些战士所用的武器肯定会获得像那些幽灵一样穿透装甲的部分能力！幻听是服用该药物的预期副作用，可能会在一段时间后停止。可能，大概吧。"

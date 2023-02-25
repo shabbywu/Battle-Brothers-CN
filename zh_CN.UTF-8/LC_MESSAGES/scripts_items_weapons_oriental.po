@@ -1,57 +1,50 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/items/weapons/oriental/saif.nut
 msgid "Saif"
 msgstr "赛义夫弯刀"
-
 
 # scripts/items/weapons/oriental/polemace.nut
 msgid "Polemace"
 msgstr "长棍"
 
-
 # scripts/items/weapons/oriental/handgonne.nut
 msgid "Handgonne"
 msgstr "手炮"
-
 
 # scripts/items/weapons/oriental/swordlance.nut
 msgid "Swordlance"
 msgstr "刃矛"
 
-
 # scripts/items/weapons/oriental/nomad_mace.nut
 msgid "Nomad Mace"
 msgstr "游牧狼牙棒"
-
 
 # scripts/items/weapons/oriental/firelance.nut
 msgid "Fire Lance"
 msgstr "火矛"
 
-
 # scripts/items/weapons/oriental/nomad_sling.nut
 msgid "Nomad Sling"
 msgstr "游牧投石索"
-
 
 # scripts/items/weapons/oriental/qatal_dagger.nut
 msgid "Qatal Dagger"
 msgstr "卡塔尔匕首"
 
-
 # scripts/items/weapons/oriental/composite_bow.nut
 msgid "Composite Bow"
 msgstr "复合弓"
-
 
 # scripts/items/weapons/oriental/composite_bow.nut
 msgid "Bow, Two-Handed"
 msgstr ""
 
-
 # scripts/items/weapons/oriental/two_handed_saif.nut
 msgid "Two-Handed Saif"
 msgstr "双手赛义夫弯刀"
-
 
 # scripts/items/weapons/oriental/nomad_mace.nut
 # scripts/items/weapons/oriental/light_southern_mace.nut
@@ -59,135 +52,131 @@ msgstr "双手赛义夫弯刀"
 msgid "Mace, One-Handed"
 msgstr ""
 
-
 # scripts/items/weapons/oriental/polemace.nut
 msgid "Mace, Two-Handed"
 msgstr ""
-
 
 # scripts/items/weapons/oriental/saif.nut
 msgid "Sword, One-Handed"
 msgstr ""
 
-
 # scripts/items/weapons/oriental/qatal_dagger.nut
 msgid "Dagger, One-Handed"
 msgstr ""
-
 
 # scripts/items/weapons/oriental/firelance.nut
 msgid "Fire Lance (Spent)"
 msgstr ""
 
-
 # scripts/items/weapons/oriental/swordlance.nut
 msgid "Polearm, Two-Handed"
 msgstr ""
-
 
 # scripts/items/weapons/oriental/two_handed_scimitar.nut
 # scripts/items/weapons/oriental/two_handed_saif.nut
 msgid "Cleaver, Two-Handed"
 msgstr ""
 
-
 # scripts/items/weapons/oriental/two_handed_scimitar.nut
 msgid "Two-Handed Scimitar"
 msgstr "双手弯刀"
-
 
 # scripts/items/weapons/oriental/light_southern_mace.nut
 msgid "Light Southern Mace"
 msgstr "轻型南方狼牙棒"
 
-
 # scripts/items/weapons/oriental/heavy_southern_mace.nut
 msgid "Heavy Southern Mace"
 msgstr "重型南方狼牙棒"
-
 
 # scripts/items/weapons/oriental/handgonne.nut
 msgid "Firearm, Two-Handed"
 msgstr ""
 
-
 # scripts/items/weapons/oriental/firelance.nut
 msgid "Spear/Firearm, One-Handed"
 msgstr ""
-
 
 # scripts/items/weapons/oriental/nomad_sling.nut
 msgid "Throwing Weapon, Two-Handed"
 msgstr ""
 
-
 # scripts/items/weapons/oriental/handgonne.nut
 msgid "]Must be reloaded before firing again[/color]"
 msgstr "]必须重新装填才能再次发射[/color]"
-
 
 # scripts/items/weapons/oriental/composite_bow.nut
 msgid "A short bow made from composite layers for additional drawing power."
 msgstr "一种由复合材料层制成的用来增加拉力的短弓。"
 
-
 # scripts/items/weapons/oriental/light_southern_mace.nut
-msgid "A metal mace with extended wings for added effectiveness against armor."
+msgid ""
+"A metal mace with extended wings for added effectiveness against armor."
 msgstr "一种金属棒，有延伸的翼状物以增加对抗装甲的效力。"
 
-
 # scripts/items/weapons/oriental/polemace.nut
-msgid "A long mace that can be used to deliver stunning blows over a distance."
+msgid ""
+"A long mace that can be used to deliver stunning blows over a distance."
 msgstr "一种长棍，可以用来在远处发出击晕打击。"
 
-
 # scripts/items/weapons/oriental/heavy_southern_mace.nut
-msgid "A heavy winged mace commonly used by well equipped soldiers of the southern reaches."
+msgid ""
+"A heavy winged mace commonly used by well equipped soldiers of the southern "
+"reaches."
 msgstr "南方装备精良的士兵常用的重翼棒。"
 
-
 # scripts/items/weapons/oriental/two_handed_scimitar.nut
-msgid "A large scimitar wielded with both hands. The curved blade cleaves right through any enemy."
+msgid ""
+"A large scimitar wielded with both hands. The curved blade cleaves right "
+"through any enemy."
 msgstr "双手挥舞的大弯刀。 弯曲的刀锋直刺任何敌人。"
 
-
 # scripts/items/weapons/oriental/two_handed_saif.nut
-msgid "A long version of the Saif wielded with both hands. The curved blade can cleave gruesome wounds."
+msgid ""
+"A long version of the Saif wielded with both hands. The curved blade can "
+"cleave gruesome wounds."
 msgstr "赛义夫弯刀的双手长版。 弯刃刀能劈出可怕的伤口。"
 
-
 # scripts/items/weapons/oriental/nomad_mace.nut
-msgid "A simple wooden mace with a metal head. Weapons like this are popular among the nomads of the deserts."
+msgid ""
+"A simple wooden mace with a metal head. Weapons like this are popular among "
+"the nomads of the deserts."
 msgstr "有金属头的简单的木制狼牙棒。 像这样的武器在沙漠游牧民族中很流行。"
 
-
 # scripts/items/weapons/oriental/swordlance.nut
-msgid "A long pole attached to a sharp curved blade, used to deliver deep sweeping strikes over some distance."
+msgid ""
+"A long pole attached to a sharp curved blade, used to deliver deep sweeping "
+"strikes over some distance."
 msgstr "一种附有锋利弯曲的刀刃的长杆，用于在一定距离内进行深扫打击。"
 
-
 # scripts/items/weapons/oriental/saif.nut
-msgid "A curved sword typically found only in the southern reaches. Excellent for slashing, but not for thrusting or penetrating armor."
+msgid ""
+"A curved sword typically found only in the southern reaches. Excellent for "
+"slashing, but not for thrusting or penetrating armor."
 msgstr "一种弯曲的剑，通常只在南方地区发现。 很适合砍伤，但不适合插入或穿透装甲。"
 
-
 # scripts/items/weapons/oriental/qatal_dagger.nut
-msgid "A curved blade notoriously used by assassins of the southern deserts. Particularly effective against targets already debilitated."
+msgid ""
+"A curved blade notoriously used by assassins of the southern deserts. "
+"Particularly effective against targets already debilitated."
 msgstr "一种弯曲的刀刃，众所周知地被南方沙漠的刺客使用。 对已经削弱的目标特别有效。"
 
-
 # scripts/items/weapons/oriental/nomad_sling.nut
-msgid "A leather sling on a metal-reinforced staff, used to hurl stones at the enemy. With stones abundant everywhere, it will never run out of ammunition."
+msgid ""
+"A leather sling on a metal-reinforced staff, used to hurl stones at the "
+"enemy. With stones abundant everywhere, it will never run out of ammunition."
 msgstr "一种用金属加固的棍子上的皮革吊索，用来向敌人投掷石块。 由于到处都是石头，弹药永远不会用完。"
 
-
 # scripts/items/weapons/oriental/handgonne.nut
-msgid "An iron barrel with a long wooden handle. It fires shrapnel in a cone and can hit multiple targets with one shot. Can not be used while engaged in melee."
+msgid ""
+"An iron barrel with a long wooden handle. It fires shrapnel in a cone and "
+"can hit multiple targets with one shot. Can not be used while engaged in "
+"melee."
 msgstr "有长木柄的铁桶。 它发射锥形弹片，可以一次击中多个目标。 不能在近战中使用。"
 
-
 # scripts/items/weapons/oriental/firelance.nut
-msgid "A spear of southern design with an explosive charge that will spew fire over two tiles when ignited. The charge is only usable once per battle, but automatically refilled after battle."
+msgid ""
+"A spear of southern design with an explosive charge that will spew fire over"
+" two tiles when ignited. The charge is only usable once per battle, but "
+"automatically refilled after battle."
 msgstr "一种南方设计的长矛，装有火药，点燃后会在两个格子距离内喷火。 每次战斗只能使用一次，但战斗结束后自动补充。"
-
-

@@ -1,50 +1,46 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/events/event.nut
 msgid "Screen '"
 msgstr ""
-
 
 # scripts/events/event_manager.nut
 msgid "no event???"
 msgstr ""
 
-
 # scripts/events/event_manager.nut
 msgid "' not found."
 msgstr ""
-
 
 # scripts/events/event.nut
 msgid "[color=#f6eedb]"
 msgstr ""
 
-
 # scripts/events/event.nut
 msgid "[color=#bcad8c]\""
 msgstr ""
 
-
 # scripts/events/event.nut
-msgid "\n\n[color=#bcad8c]\""
+msgid ""
+"\n"
+"\n"
+"[color=#bcad8c]\""
 msgstr ""
-
 
 # scripts/events/event_manager.nut
 msgid "' is already queued."
 msgstr ""
 
-
 # scripts/events/event.nut
 msgid "' not found for event '"
 msgstr ""
-
 
 # scripts/events/event_manager.nut
 msgid "Failed to fire event - with id '"
 msgstr ""
 
-
 # scripts/events/event_manager.nut
 msgid "Failed to fire event - another event with id '"
 msgstr ""
-
-

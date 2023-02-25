@@ -1,40 +1,37 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/items/ammo/powder_bag.nut
 msgid "Powder Bag"
 msgstr "火药包"
-
 
 # scripts/items/ammo/large_powder_bag.nut
 # scripts/items/ammo/powder_bag.nut
 msgid "[/color] uses"
 msgstr ""
 
-
 # scripts/items/ammo/quiver_of_bolts.nut
 # scripts/items/ammo/large_quiver_of_bolts.nut
 msgid "[/color] bolts"
 msgstr ""
-
 
 # scripts/items/ammo/quiver_of_arrows.nut
 # scripts/items/ammo/large_quiver_of_arrows.nut
 msgid "[/color] arrows"
 msgstr ""
 
-
 # scripts/items/ammo/quiver_of_bolts.nut
 msgid "Quiver of Bolts"
 msgstr "弩矢袋"
-
 
 # scripts/items/ammo/large_powder_bag.nut
 msgid "Large Powder Bag"
 msgstr "大火药包"
 
-
 # scripts/items/ammo/quiver_of_arrows.nut
 msgid "Quiver of Arrows"
 msgstr "弓箭袋"
-
 
 # scripts/items/ammo/quiver_of_arrows.nut
 # scripts/items/ammo/quiver_of_bolts.nut
@@ -43,22 +40,18 @@ msgstr "弓箭袋"
 msgid "Contains [color="
 msgstr ""
 
-
 # scripts/items/ammo/large_quiver_of_bolts.nut
 msgid "Large Quiver of Bolts"
 msgstr "大弩矢袋"
-
 
 # scripts/items/ammo/large_quiver_of_arrows.nut
 msgid "Large Quiver of Arrows"
 msgstr "大弓箭袋"
 
-
 # scripts/items/ammo/large_powder_bag.nut
 # scripts/items/ammo/powder_bag.nut
 msgid "Contains powder for [color="
 msgstr ""
-
 
 # scripts/items/ammo/large_powder_bag.nut
 # scripts/items/ammo/quiver_of_arrows.nut
@@ -69,34 +62,38 @@ msgstr ""
 msgid "]Is empty and useless[/color]"
 msgstr "]空的无用[/color]"
 
-
 # scripts/items/ammo/quiver_of_bolts.nut
-msgid "A quiver of bolts, required to use crossbows. Is automatically refilled after each battle if you have enough ammunition."
+msgid ""
+"A quiver of bolts, required to use crossbows. Is automatically refilled "
+"after each battle if you have enough ammunition."
 msgstr "一整袋弩矢，适用于弩。 如果你有足够的弹药，每次战斗后都会自动补充。"
 
-
 # scripts/items/ammo/large_quiver_of_bolts.nut
-msgid "A large quiver of bolts, required to use crossbows. Is automatically refilled after each battle if you have enough ammunition."
+msgid ""
+"A large quiver of bolts, required to use crossbows. Is automatically "
+"refilled after each battle if you have enough ammunition."
 msgstr "一大袋弩矢，适用于弩。 如果你有足够的弹药，每次战斗后都会自动补充。"
 
-
 # scripts/items/ammo/quiver_of_arrows.nut
-msgid "A quiver of arrows, required to use bows of all kinds. Is automatically refilled after each battle if you have enough ammunition."
+msgid ""
+"A quiver of arrows, required to use bows of all kinds. Is automatically "
+"refilled after each battle if you have enough ammunition."
 msgstr "一整袋箭支，适用于各种各样的弓。 如果你有足够的弹药，每次战斗后都会自动补充。"
 
-
 # scripts/items/ammo/powder_bag.nut
-msgid "A bag of black powder, used for arming exotic firearms. Is automatically refilled after each battle if you have enough ammunition."
+msgid ""
+"A bag of black powder, used for arming exotic firearms. Is automatically "
+"refilled after each battle if you have enough ammunition."
 msgstr "一包黑火药，用来装填异国火器。 如果你有足够的弹药，每次战斗后都会自动补充。"
 
-
 # scripts/items/ammo/large_quiver_of_arrows.nut
-msgid "A large quiver of arrows, required to use bows of all kinds. Is automatically refilled after each battle if you have enough ammunition."
+msgid ""
+"A large quiver of arrows, required to use bows of all kinds. Is "
+"automatically refilled after each battle if you have enough ammunition."
 msgstr "一大袋箭支，适用于各种各样的弓。 如果你有足够的弹药，每次战斗后都会自动补充。"
 
-
 # scripts/items/ammo/large_powder_bag.nut
-msgid "A large bag of black powder, used for arming exotic firearms. Is automatically refilled after each battle if you have enough ammunition."
+msgid ""
+"A large bag of black powder, used for arming exotic firearms. Is "
+"automatically refilled after each battle if you have enough ammunition."
 msgstr "一大包黑火药，用来装填异国火器。 如果你有足够的弹药，每次战斗后都会自动补充。"
-
-

@@ -1,50 +1,45 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "progressbar"
 msgstr ""
-
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "armor-head-slim"
 msgstr ""
 
-
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "Gilder's Embrace"
 msgstr "镀金者的拥抱"
-
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "Is indestructible"
 msgstr "是坚不可摧的"
 
-
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "Melee Defense [color="
 msgstr ""
-
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "Ranged Defense [color="
 msgstr ""
 
-
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "Maximum Fatigue [color="
 msgstr ""
-
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid " is dazed by the Gilder's Embrace"
 msgstr " 被镀金者的拥抱茫然了"
 
-
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "Everyone striking this shield receives the 'Dazed' effect"
 msgstr "每个击打此盾牌的人都会受到“茫然”效果"
 
-
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
-msgid "An ornate metal shield with a bright gilded shine that reflects even the tiniest ray of light with the power of the sun itself."
+msgid ""
+"An ornate metal shield with a bright gilded shine that reflects even the "
+"tiniest ray of light with the power of the sun itself."
 msgstr "一种华丽的金属盾牌，有明亮的镀金光泽，用太阳本身的力量反射哪怕是最微弱的光线。"
-
-

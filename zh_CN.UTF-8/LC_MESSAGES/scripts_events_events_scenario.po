@@ -1,226 +1,343 @@
+#
+msgid ""
+msgstr ""
+
 # scripts/events/events/scenario/southern_quickstart_intro_event.nut
 # scripts/events/events/scenario/early_access_intro_event.nut
 msgid "The "
 msgstr ""
 
-
 # scripts/events/events/scenario/early_access_intro_event.nut
 msgid "Huzzah!"
 msgstr "万岁！"
-
 
 # scripts/events/events/scenario/cultists_intro_event.nut
 msgid "The Cultists"
 msgstr "异教徒"
 
-
 # scripts/events/events/scenario/lone_wolf_intro_event.nut
 msgid "The Lone Wolf"
 msgstr "独狼"
-
 
 # scripts/events/events/scenario/deserters_intro_event.nut
 msgid "The Deserters"
 msgstr "逃兵"
 
-
 # scripts/events/events/scenario/anatomists_intro_event.nut
 msgid "The Anatomists"
 msgstr "解剖学家"
-
 
 # scripts/events/events/scenario/manhunters_intro_event.nut
 msgid "The Manhunters"
 msgstr "搜捕者"
 
-
 # scripts/events/events/scenario/gladiators_intro_event.nut
 msgid "The Gladiators"
 msgstr "角斗士"
-
 
 # scripts/events/events/scenario/cultists_intro_event.nut
 msgid "Davkul awaits."
 msgstr "达库尔即将降临。"
 
-
 # scripts/events/events/scenario/paladins_intro_event.nut
 msgid "The Oathtakers"
 msgstr "宣誓者"
-
 
 # scripts/events/events/scenario/gladiators_intro_event.nut
 msgid "Should be easy."
 msgstr "应该很容易。"
 
-
 # scripts/events/events/scenario/beast_hunter_intro_event.nut
 msgid "The Beast Slayers"
 msgstr "野兽杀手"
-
 
 # scripts/events/events/scenario/rangers_intro_event.nut
 msgid "A Band of Poachers"
 msgstr "偷猎者团队"
 
-
 # scripts/events/events/scenario/trader_intro_event.nut
 msgid "Ah, we'll be fine."
 msgstr "唉，我们会没事的。"
-
 
 # scripts/events/events/scenario/rangers_intro_event.nut
 msgid "We'll do just fine."
 msgstr "我们会做的很好的。"
 
-
 # scripts/events/events/scenario/militia_intro_event.nut
 msgid "The Peasant Militia"
 msgstr "农民民兵"
-
 
 # scripts/events/events/scenario/trader_intro_event.nut
 msgid "The Trading Caravan"
 msgstr "贸易商队"
 
-
 # scripts/events/events/scenario/raiders_intro_event.nut
 msgid "The Northern Raiders"
 msgstr "北方掠夺者"
-
 
 # scripts/events/events/scenario/militia_intro_event.nut
 msgid "We are our own lords."
 msgstr "我们会是自己的领主。"
 
-
 # scripts/events/events/scenario/raiders_intro_event.nut
 msgid "We'll strike out south."
 msgstr "我们会向南方前进。"
-
 
 # scripts/events/events/scenario/lone_wolf_intro_event.nut
 msgid "And that's what I'll do."
 msgstr "这正是我想要做的。"
 
-
 # scripts/events/events/scenario/paladins_intro_event.nut
 msgid "For gold, glory, and Young Anselm!"
 msgstr "为了金钱、荣誉、和小安瑟姆！"
-
 
 # scripts/events/events/scenario/deserters_intro_event.nut
 msgid "We'll take destiny in our own hands."
 msgstr "我们的命运掌握在自己手中。"
 
-
 # scripts/events/events/scenario/trader_intro_event.nut
 msgid "Onwards, now, we have wares to sell!"
 msgstr "前进，我们还有货物要卖！"
-
 
 # scripts/events/events/scenario/southern_quickstart_intro_event.nut
 msgid "The Gilder will reveal to us the way."
 msgstr "镀金者会指引我们的道路。"
 
-
 # scripts/events/events/scenario/trader_intro_event.nut
 msgid "We'll hire more guards and then some!"
 msgstr "我们会雇佣更多守卫，更多守卫！"
-
 
 # scripts/events/events/scenario/beast_hunter_intro_event.nut
 msgid "The most wicked beast is the one that thinks itself more."
 msgstr "最邪恶的野兽也是最自私的。"
 
-
 # scripts/events/events/scenario/manhunters_intro_event.nut
 msgid "Everyone can earn salvation by working off their debt to the Gilder."
 msgstr "每个人都可以通过努力干活还清镀金者的债务而获得救赎。"
 
-
 # scripts/events/events/scenario/anatomists_intro_event.nut
-msgid "On second thought, promise to leave my body alone while I'm alive, too."
+msgid ""
+"On second thought, promise to leave my body alone while I'm alive, too."
 msgstr "转念一想，你必须承诺我活着的时候你们也不许动我的身体，必须。"
 
+# scripts/events/events/scenario/trader_intro_event.nut
+msgid ""
+"[img]gfx/ui/events/event_95.png[/img]You shake your head.%SPEECH_ON%We're "
+"hardly making a profit as is. I can't spare the coin to hire any more "
+"guards. Not unless we find a new profitable trade route, that is. And I aim "
+"to do just that!%SPEECH_OFF%"
+msgstr ""
+"[img]gfx/ui/events/event_95.png[/img]你摇了摇头。%SPEECH_ON%我们现在几乎没有盈利。 "
+"我再也不能用更多的硬币雇守卫了。 除非我们找到一条新的有利可图的贸易路线，对就这么干。我们现在就去寻找吧！%SPEECH_OFF%"
 
 # scripts/events/events/scenario/trader_intro_event.nut
-msgid "[img]gfx/ui/events/event_95.png[/img]You shake your head.%SPEECH_ON%We're hardly making a profit as is. I can't spare the coin to hire any more guards. Not unless we find a new profitable trade route, that is. And I aim to do just that!%SPEECH_OFF%"
-msgstr "[img]gfx/ui/events/event_95.png[/img]你摇了摇头。%SPEECH_ON%我们现在几乎没有盈利。 我再也不能用更多的硬币雇守卫了。 除非我们找到一条新的有利可图的贸易路线，对就这么干。我们现在就去寻找吧！%SPEECH_OFF%"
-
+msgid ""
+"[img]gfx/ui/events/event_95.png[/img]You shake your head.%SPEECH_ON%No. What"
+" we'll be doing is fighting back and then some. I aim to hire sellswords to "
+"fit a company of making, and if your swordhands want to earn a steady keep, "
+"you two can be the first.%SPEECH_OFF%"
+msgstr ""
+"[img]gfx/ui/events/event_95.png[/img]你摇了摇头。%SPEECH_ON%不。我们现在要做的是反击。 "
+"我决定要雇佣一些佣兵去组建一个战队，如果你们两人想要拥有一个稳定工资的工作的话，你们两位可以当我的第一批佣兵。%SPEECH_OFF%"
 
 # scripts/events/events/scenario/trader_intro_event.nut
-msgid "[img]gfx/ui/events/event_95.png[/img]You shake your head.%SPEECH_ON%No. What we'll be doing is fighting back and then some. I aim to hire sellswords to fit a company of making, and if your swordhands want to earn a steady keep, you two can be the first.%SPEECH_OFF%"
-msgstr "[img]gfx/ui/events/event_95.png[/img]你摇了摇头。%SPEECH_ON%不。我们现在要做的是反击。 我决定要雇佣一些佣兵去组建一个战队，如果你们两人想要拥有一个稳定工资的工作的话，你们两位可以当我的第一批佣兵。%SPEECH_OFF%"
-
-
-# scripts/events/events/scenario/trader_intro_event.nut
-msgid "[img]gfx/ui/events/event_95.png[/img]The corpses are abuzz with flies and %ch1% stands amidst the swarm like he built the deathly totem which brought their presence. He turns to you.%SPEECH_ON%Greenskins did this one. No man can hew a head in half like that, and no sane man would stack them in such a manner. And there's goblin poison on them arrow tips.%SPEECH_OFF% %ch2% nods.%SPEECH_ON%Yesterday we find that merchant hanged by brigands, now this. The roads are getting too dangerous for a wagon carrying shine. Now, I ain't saying my swordhand ain't worth its weight in salt, but with just the two of us on duty we're throwing dice by the hour. Sir, you should look into hiring more guard.%SPEECH_OFF%"
-msgstr "[img]gfx/ui/events/event_95.png[/img]尸体堆上的苍蝇嗡嗡作响 %ch1% 站在尸体堆上就像他建造了这个死亡图腾并使得他们显现一样。 他转向你。%SPEECH_ON%是绿皮干的。 没有人类能把一个人的头像这样劈成两半，并且任何有点理智的人都不会像这样子把尸体堆起来。 并且在箭头上还发现了哥布林毒药。%SPEECH_OFF% %ch2% 点头。%SPEECH_ON%昨天我们还发现了一队商队的人被强盗吊死在了路边树上，现在又是这些兽人。 现在这些道路对于载着财宝的载重货车来说过于危险了。 现在我不是在说这堆盐不值得我这双握剑的手而是整个商队就我们两个护卫，就像是在和命运玩骰子游戏一样。 先生，我认为你应该雇佣更多的人手。%SPEECH_OFF%"
-
+msgid ""
+"[img]gfx/ui/events/event_95.png[/img]The corpses are abuzz with flies and "
+"%ch1% stands amidst the swarm like he built the deathly totem which brought "
+"their presence. He turns to you.%SPEECH_ON%Greenskins did this one. No man "
+"can hew a head in half like that, and no sane man would stack them in such a"
+" manner. And there's goblin poison on them arrow tips.%SPEECH_OFF% %ch2% "
+"nods.%SPEECH_ON%Yesterday we find that merchant hanged by brigands, now "
+"this. The roads are getting too dangerous for a wagon carrying shine. Now, I"
+" ain't saying my swordhand ain't worth its weight in salt, but with just the"
+" two of us on duty we're throwing dice by the hour. Sir, you should look "
+"into hiring more guard.%SPEECH_OFF%"
+msgstr ""
+"[img]gfx/ui/events/event_95.png[/img]尸体堆上的苍蝇嗡嗡作响 %ch1% "
+"站在尸体堆上就像他建造了这个死亡图腾并使得他们显现一样。 他转向你。%SPEECH_ON%是绿皮干的。 "
+"没有人类能把一个人的头像这样劈成两半，并且任何有点理智的人都不会像这样子把尸体堆起来。 并且在箭头上还发现了哥布林毒药。%SPEECH_OFF% "
+"%ch2% 点头。%SPEECH_ON%昨天我们还发现了一队商队的人被强盗吊死在了路边树上，现在又是这些兽人。 "
+"现在这些道路对于载着财宝的载重货车来说过于危险了。 现在我不是在说这堆盐不值得我这双握剑的手而是整个商队就我们两个护卫，就像是在和命运玩骰子游戏一样。 "
+"先生，我认为你应该雇佣更多的人手。%SPEECH_OFF%"
 
 # scripts/events/events/scenario/lone_wolf_intro_event.nut
-msgid "[img]gfx/ui/events/event_137.png[/img]{You walk the stands of a jousting arena. Moldy fruits and vegetables litter the floor. Dried blood freckles the seats. And silence fills the air. When you sit, the wood of the place seems to groan in unison as though discomfited by the haunt of a rare visitor.\n\nIn your hands is a note. 'Looking fer hardy men, knowledge of the sword pref'rred but all welcome.' It is an old note, its purpose long since served. But what draws your eye is the price offered to the task: more crowns than you could muster in five tournaments.\n\n If this is the coin to be earned, then to hell with the jousts and the sparring. But you're not one to suit up for some other captain's orders. With all that you've earned over the years you imagine you could start your own mercenary band just fine.}"
-msgstr "[img]gfx/ui/events/event_137.png[/img]{你走在竞技场的看台上。 发霉的水果和蔬菜散落在地板上。 干枯的血液使得座位布满斑点。 空气中充满了寂静。 在你坐着的时候，这地方的树木似乎在齐声呻吟，仿佛被一个罕见的访客的出没所困扰。\n\n你手里拿着一张纸条。 “寻找强壮的人，懂得如何用剑的人优先。” 这是一张旧纸条，它的目的很久以前就达到了。 但是吸引你眼球的是这项工作的所得到的报酬比你在五场锦标赛获得冠军还要多。\n\n 如果仅仅是要赚硬币的话，干嘛还要去打拳击和格斗呢。 但是你并不是一个听从队长的命令的人。 这些年来，你赚了不少钱，你想象着可以组建一支自己的雇佣兵团。}"
-
+msgid ""
+"[img]gfx/ui/events/event_137.png[/img]{You walk the stands of a jousting arena. Moldy fruits and vegetables litter the floor. Dried blood freckles the seats. And silence fills the air. When you sit, the wood of the place seems to groan in unison as though discomfited by the haunt of a rare visitor.\n"
+"\n"
+"In your hands is a note. 'Looking fer hardy men, knowledge of the sword pref'rred but all welcome.' It is an old note, its purpose long since served. But what draws your eye is the price offered to the task: more crowns than you could muster in five tournaments.\n"
+"\n"
+" If this is the coin to be earned, then to hell with the jousts and the sparring. But you're not one to suit up for some other captain's orders. With all that you've earned over the years you imagine you could start your own mercenary band just fine.}"
+msgstr ""
+"[img]gfx/ui/events/event_137.png[/img]{你走在竞技场的看台上。 发霉的水果和蔬菜散落在地板上。 干枯的血液使得座位布满斑点。 空气中充满了寂静。 在你坐着的时候，这地方的树木似乎在齐声呻吟，仿佛被一个罕见的访客的出没所困扰。\n"
+"\n"
+"你手里拿着一张纸条。 “寻找强壮的人，懂得如何用剑的人优先。” 这是一张旧纸条，它的目的很久以前就达到了。 但是吸引你眼球的是这项工作的所得到的报酬比你在五场锦标赛获得冠军还要多。\n"
+"\n"
+" 如果仅仅是要赚硬币的话，干嘛还要去打拳击和格斗呢。 但是你并不是一个听从队长的命令的人。 这些年来，你赚了不少钱，你想象着可以组建一支自己的雇佣兵团。}"
 
 # scripts/events/events/scenario/cultists_intro_event.nut
-msgid "[img]gfx/ui/events/event_71.png[/img]%SPEECH_ON%I put the woman and child in the barn which you have surely already found in ashes. They were knocked unconscious for he does not seek their pain. Please do not dwell upon their demise, they are with him now and in their passing I have been freed of all obligations to do what must be done. By now I will be gone. I will have taken up a new role, a new face, and beneath both I will become something I am not. I will pretend. I will act. But in the end, it is with one purpose. And you know what that purpose is. I must not name it, but you shall find it in the moments when you realize no one truly believes they are going to die. The purity of one's own annihilation must be clouded by distraction and merriment. Not all can see him, not all should, but see him they will.\n\nBe well, strangers that you have become, for Davkul awaits us all.%SPEECH_OFF%"
-msgstr "[img]gfx/ui/events/event_71.png[/img]%SPEECH_ON%我将她和孩子放到了谷仓之中，现在估计谷仓也只剩下一片灰烬了。 我并不是在追求她们的痛苦所以在此之前我将他们打昏了。 也请你们不要沉溺在失去她们的痛苦之中，她们现在和他在一起了，而且在她们逝去之时我也终将可以从我的义务和责任之中解放出来去完成必须完成之事。 现在我将离去。 我将获得一个新的身份，得到一张新的面孔，在两者共同作用之下我将不再是原来的我。 我将隐藏。也将表演。 但是等到终时，我只有一个目的。 而且你知道这个目的是什么。 我不能命名它，但是当你意识到所有人都不相信自己会真正死去之时，你就会发现它的存在。 一个人纯洁的自我毁灭必须笼罩在欢庆与愉悦之中。 不是所有人都能看到他，也不是所有人都应该看到他，但是所有人终将会看到他。\n\n祝平安，你们终成陌生之人，达库尔即将降临到我们。%SPEECH_OFF%"
-
+msgid ""
+"[img]gfx/ui/events/event_71.png[/img]%SPEECH_ON%I put the woman and child in the barn which you have surely already found in ashes. They were knocked unconscious for he does not seek their pain. Please do not dwell upon their demise, they are with him now and in their passing I have been freed of all obligations to do what must be done. By now I will be gone. I will have taken up a new role, a new face, and beneath both I will become something I am not. I will pretend. I will act. But in the end, it is with one purpose. And you know what that purpose is. I must not name it, but you shall find it in the moments when you realize no one truly believes they are going to die. The purity of one's own annihilation must be clouded by distraction and merriment. Not all can see him, not all should, but see him they will.\n"
+"\n"
+"Be well, strangers that you have become, for Davkul awaits us all.%SPEECH_OFF%"
+msgstr ""
+"[img]gfx/ui/events/event_71.png[/img]%SPEECH_ON%我将她和孩子放到了谷仓之中，现在估计谷仓也只剩下一片灰烬了。 我并不是在追求她们的痛苦所以在此之前我将他们打昏了。 也请你们不要沉溺在失去她们的痛苦之中，她们现在和他在一起了，而且在她们逝去之时我也终将可以从我的义务和责任之中解放出来去完成必须完成之事。 现在我将离去。 我将获得一个新的身份，得到一张新的面孔，在两者共同作用之下我将不再是原来的我。 我将隐藏。也将表演。 但是等到终时，我只有一个目的。 而且你知道这个目的是什么。 我不能命名它，但是当你意识到所有人都不相信自己会真正死去之时，你就会发现它的存在。 一个人纯洁的自我毁灭必须笼罩在欢庆与愉悦之中。 不是所有人都能看到他，也不是所有人都应该看到他，但是所有人终将会看到他。\n"
+"\n"
+"祝平安，你们终成陌生之人，达库尔即将降临到我们。%SPEECH_OFF%"
 
 # scripts/events/events/scenario/militia_intro_event.nut
-msgid "[img]gfx/ui/events/event_141.png[/img]{Hunt down bandits. Ward off raiders. Trap wolves attacking the farmsteads. All in a militiaman's work. And if more is asked then there is simply more to answer. All to keep your home of %home% safe.\n\n When a nobleman called on you, you and a group of ad hoc fighters took to the field in a battle between highborn. You didn't know their names or their quarry, only that one mustered you and your men to the field. And so there you went. Unfortunately, a lowborn man with spear and shield is little more than a peasant with misgivings of warriorship. Your militia was used to hold a contingent of enemy knights in place while your own side's archers rained hell from above, hitting knight and peasant alike.\n\n After the battle, you and your men fled the fields for good. You took up arms as sellswords and swore to one another by blood pact that you'd never have a highborn in your company. A mercenary band of motley men and that is that.}"
-msgstr "[img]gfx/ui/events/event_141.png[/img]{追捕土匪。抵御掠夺者。 诱捕攻击农场的狼群。 这些全是民兵团的工作。 而且如果你问到底要干多少活，这个答案只会越问越多。 所有的这一切只是为了保卫你的家园 %home% 的安全。\n\n 当一个贵族召见你的时候，你和你临时组成的新手战士们被带上了贵族之间的战场。 你不知道他们的贵族称号也不知道他们的目标，你只知道一个人把你和你的人集合带向了战场。 就是这样。不幸的是即使一个出身卑贱的男人即使拿上了盾牌和长矛也不过是比一个懦弱胆怯的农民好那么一点点。 你的民兵团当时被派去阻挡一支敌人的骑士队伍，你不知道的是迎来的不只是敌人的骑士还有己方弓手的漫天箭雨，这箭雨不仅击中了敌人的骑士还有你手下无辜的民兵。\n\n 在这场战斗过后你和你的人永远的逃离了这片战场。 你和你的人将自己武装的如同佣兵一样，并且彼此用血发誓你们永远不会让一个贵族与你们为伍。 一群普普通通的人组成的雇佣兵团，仅此而已。}"
-
+msgid ""
+"[img]gfx/ui/events/event_141.png[/img]{Hunt down bandits. Ward off raiders. Trap wolves attacking the farmsteads. All in a militiaman's work. And if more is asked then there is simply more to answer. All to keep your home of %home% safe.\n"
+"\n"
+" When a nobleman called on you, you and a group of ad hoc fighters took to the field in a battle between highborn. You didn't know their names or their quarry, only that one mustered you and your men to the field. And so there you went. Unfortunately, a lowborn man with spear and shield is little more than a peasant with misgivings of warriorship. Your militia was used to hold a contingent of enemy knights in place while your own side's archers rained hell from above, hitting knight and peasant alike.\n"
+"\n"
+" After the battle, you and your men fled the fields for good. You took up arms as sellswords and swore to one another by blood pact that you'd never have a highborn in your company. A mercenary band of motley men and that is that.}"
+msgstr ""
+"[img]gfx/ui/events/event_141.png[/img]{追捕土匪。抵御掠夺者。 诱捕攻击农场的狼群。 这些全是民兵团的工作。 而且如果你问到底要干多少活，这个答案只会越问越多。 所有的这一切只是为了保卫你的家园 %home% 的安全。\n"
+"\n"
+" 当一个贵族召见你的时候，你和你临时组成的新手战士们被带上了贵族之间的战场。 你不知道他们的贵族称号也不知道他们的目标，你只知道一个人把你和你的人集合带向了战场。 就是这样。不幸的是即使一个出身卑贱的男人即使拿上了盾牌和长矛也不过是比一个懦弱胆怯的农民好那么一点点。 你的民兵团当时被派去阻挡一支敌人的骑士队伍，你不知道的是迎来的不只是敌人的骑士还有己方弓手的漫天箭雨，这箭雨不仅击中了敌人的骑士还有你手下无辜的民兵。\n"
+"\n"
+" 在这场战斗过后你和你的人永远的逃离了这片战场。 你和你的人将自己武装的如同佣兵一样，并且彼此用血发誓你们永远不会让一个贵族与你们为伍。 一群普普通通的人组成的雇佣兵团，仅此而已。}"
 
 # scripts/events/events/scenario/southern_quickstart_intro_event.nut
-msgid "[img]gfx/ui/events/event_156.png[/img]{You could have stayed home. Never left town. Just lived out your days laboring for some Vizier. Instead, you took up the sword, scrounged what little money the Gilder had shone upon you, and started a band of mercenaries.\n\nLife as a Crownling has taken you places that most others never see. In a sense, you've carved open doors and avenues through violence. But the years have slowly weighed down your neck with a nasty truth: you're barely a step above being a brigand. You get hired by locals to do simple things for simple pay and then sent on your way. You want the %companyname% to be bigger than that. You want your company shown to the Vizier's offices, you want it to gain the glory it deserves, and maybe you want it to even travel north to faraway lands. Hell, maybe in the north they treat a mercenary with respect!\n\nOf course, it won't be easy. You've just a few men on hand. But those men are %bro1%, %bro2%, and %bro3%, the finest fighters you've ever known. With them at your side, the whole world shall come to know the %companyname%!}"
-msgstr "[img]gfx/ui/events/event_156.png[/img]{你本可以留在家乡。从未离开过小镇。 为维齐尔干活度日。 然而，你拿起宝剑，搜刮镀金者施舍给你的些许钱财，并组建了一支雇佣军。\n\n作为逐币者的日子让你见识了绝大部分人从未见过的地方。 从某种意义上，你已经通过暴力开凿出了自己的门路。 然而这些年来你慢慢发现一个难堪的事实：你不比一个强盗好多少。 你被当地人用浅薄的报酬雇佣去处理一些简单的事情然后被派往该去的地方。 你想要 %companyname% 做大做强。 你想要你的战队出现在维齐尔的办公室里，你想让它获得它应得的荣耀，也许甚至想北上遥远之地。 见鬼，也许在北方他们会很尊重雇佣兵！\n\n当然，这一切并不容易。 你手头只有几个人。 但这些人是 %bro1%，%bro2%，和 %bro3%，你所知最好的战士。 有他们在你身边，全世界都将知晓 %companyname%！}"
-
+msgid ""
+"[img]gfx/ui/events/event_156.png[/img]{You could have stayed home. Never left town. Just lived out your days laboring for some Vizier. Instead, you took up the sword, scrounged what little money the Gilder had shone upon you, and started a band of mercenaries.\n"
+"\n"
+"Life as a Crownling has taken you places that most others never see. In a sense, you've carved open doors and avenues through violence. But the years have slowly weighed down your neck with a nasty truth: you're barely a step above being a brigand. You get hired by locals to do simple things for simple pay and then sent on your way. You want the %companyname% to be bigger than that. You want your company shown to the Vizier's offices, you want it to gain the glory it deserves, and maybe you want it to even travel north to faraway lands. Hell, maybe in the north they treat a mercenary with respect!\n"
+"\n"
+"Of course, it won't be easy. You've just a few men on hand. But those men are %bro1%, %bro2%, and %bro3%, the finest fighters you've ever known. With them at your side, the whole world shall come to know the %companyname%!}"
+msgstr ""
+"[img]gfx/ui/events/event_156.png[/img]{你本可以留在家乡。从未离开过小镇。 为维齐尔干活度日。 然而，你拿起宝剑，搜刮镀金者施舍给你的些许钱财，并组建了一支雇佣军。\n"
+"\n"
+"作为逐币者的日子让你见识了绝大部分人从未见过的地方。 从某种意义上，你已经通过暴力开凿出了自己的门路。 然而这些年来你慢慢发现一个难堪的事实：你不比一个强盗好多少。 你被当地人用浅薄的报酬雇佣去处理一些简单的事情然后被派往该去的地方。 你想要 %companyname% 做大做强。 你想要你的战队出现在维齐尔的办公室里，你想让它获得它应得的荣耀，也许甚至想北上遥远之地。 见鬼，也许在北方他们会很尊重雇佣兵！\n"
+"\n"
+"当然，这一切并不容易。 你手头只有几个人。 但这些人是 %bro1%，%bro2%，和 %bro3%，你所知最好的战士。 有他们在你身边，全世界都将知晓 %companyname%！}"
 
 # scripts/events/events/scenario/rangers_intro_event.nut
-msgid "[img]gfx/ui/events/event_10.png[/img]Despite tales of lone hungry hunters just looking to feed a family, poachers often work in teams and create whole businesses out of the trade of stolen furs and meats.\n\nBut as your local lord, %noble%, became increasingly annoyed with poachers hunting in his woods, most of the surrounding groups of hunters were caught, mutilated, and hanged. With just yourself, %hunter1%, %hunter2%, and %hunter3% remaining, a decision had to be made - how to make a living when all you know is how to use a bow?\n\nIt was decided to turn your collective talents to mercenary work, and you were promptly elected captain of the outfit.%SPEECH_ON%You have the sharpest eyes of us all.%SPEECH_OFF%%hunter2% said, and %hunter3% agreed, though tempered it.%SPEECH_ON%And you are, of course, easily the worst shot of the group. Don't whip for that one, CAPTAIN, ha-haaa!%SPEECH_OFF%Certainly, your merry band of poachers brings unique talents to the table - your men prefer to travel light, but they are quick on their feet, good shots with a bow and experts in scouting to avoid unfavorable engagements."
-msgstr "[img]gfx/ui/events/event_10.png[/img]尽管有很多故事中说猎人都是一个人孤独地在养活他的家庭，但是现实中偷猎者经常有组织的成群结队的工作，并且建立起一整套销售渠道来贩卖他们偷来的毛皮和肉。\n\n但当地贵族首领 %noble% 对偷猎者在他的森林中进行狩猎感到越来越恼火，周围大部分猎人团体被抓到不是切手就是送上绞架。 只剩下了你和 %hunter1%，%hunter2%，和 %hunter3% 幸存了下来，但是现在的问题是－如果你所会的所有技巧知识只是拉弓放箭的话怎么才能活下来？\n\n根据大家集体讨论之后一致决定接受作为雇佣兵的工作，并且你很快被选为了队长。%SPEECH_ON%在我们之中你眼最尖。%SPEECH_OFF%%hunter2% 说并且 %hunter3% 也同意他的意见并说道。%SPEECH_ON%不仅你的眼睛最尖并且你的射击技巧还是我们之中最差的。 别因为我说了这句话就惩罚我哦，“队长”，哈哈哈！%SPEECH_OFF%当然这队快乐的偷猎者队伍还会为你带来独特的天赋－你的人喜欢轻装上阵，并且他们的腿脚很快，弓箭射的很好，还是侦察方面的大师从而避免不必要的战斗。"
-
+msgid ""
+"[img]gfx/ui/events/event_10.png[/img]Despite tales of lone hungry hunters just looking to feed a family, poachers often work in teams and create whole businesses out of the trade of stolen furs and meats.\n"
+"\n"
+"But as your local lord, %noble%, became increasingly annoyed with poachers hunting in his woods, most of the surrounding groups of hunters were caught, mutilated, and hanged. With just yourself, %hunter1%, %hunter2%, and %hunter3% remaining, a decision had to be made - how to make a living when all you know is how to use a bow?\n"
+"\n"
+"It was decided to turn your collective talents to mercenary work, and you were promptly elected captain of the outfit.%SPEECH_ON%You have the sharpest eyes of us all.%SPEECH_OFF%%hunter2% said, and %hunter3% agreed, though tempered it.%SPEECH_ON%And you are, of course, easily the worst shot of the group. Don't whip for that one, CAPTAIN, ha-haaa!%SPEECH_OFF%Certainly, your merry band of poachers brings unique talents to the table - your men prefer to travel light, but they are quick on their feet, good shots with a bow and experts in scouting to avoid unfavorable engagements."
+msgstr ""
+"[img]gfx/ui/events/event_10.png[/img]尽管有很多故事中说猎人都是一个人孤独地在养活他的家庭，但是现实中偷猎者经常有组织的成群结队的工作，并且建立起一整套销售渠道来贩卖他们偷来的毛皮和肉。\n"
+"\n"
+"但当地贵族首领 %noble% 对偷猎者在他的森林中进行狩猎感到越来越恼火，周围大部分猎人团体被抓到不是切手就是送上绞架。 只剩下了你和 %hunter1%，%hunter2%，和 %hunter3% 幸存了下来，但是现在的问题是－如果你所会的所有技巧知识只是拉弓放箭的话怎么才能活下来？\n"
+"\n"
+"根据大家集体讨论之后一致决定接受作为雇佣兵的工作，并且你很快被选为了队长。%SPEECH_ON%在我们之中你眼最尖。%SPEECH_OFF%%hunter2% 说并且 %hunter3% 也同意他的意见并说道。%SPEECH_ON%不仅你的眼睛最尖并且你的射击技巧还是我们之中最差的。 别因为我说了这句话就惩罚我哦，“队长”，哈哈哈！%SPEECH_OFF%当然这队快乐的偷猎者队伍还会为你带来独特的天赋－你的人喜欢轻装上阵，并且他们的腿脚很快，弓箭射的很好，还是侦察方面的大师从而避免不必要的战斗。"
 
 # scripts/events/events/scenario/beast_hunter_intro_event.nut
-msgid "[img]gfx/ui/events/event_124.png[/img]You met the man in his home. He offered food, drink, and the contract at hand. Kill the witch of the forest and you'll be paid in sum. You and your men set out and did just that, bringing back the wench's head.\n\nBut your employer only laughed upon your return. He said it was the witch who put him in power and that you had freed him of his debts to her, that he outsmarted you and your stupid men. His lackeys stepped out of the shadows, their swords already drawn. The ambush started upon the criminal's arrogance and ended with his head cleared from his shoulders. But it came at the cost of many of your fellow beast slayers, leaving only yourself, %bs1%, %bs2%, and %bs3% remaining.\n\n Monsters of this world are often kept out of sight: the cruelties of man hide behind blind allegiance, the horrors of beasts behind dark legends. As the leader of a band of beast slayers, it has become steadily more apparent that you can no longer differentiate between the two. If you are to make coin hunting creatures, then you might as well add more to the pot by adding man to the ledger."
-msgstr "[img]gfx/ui/events/event_124.png[/img]你在房间中见到了雇佣你的人。 他把手边的食物饮料还有雇佣合同递向了你。 杀死森林中的女巫，你就会得到一笔钱。 你和你的手下深入了森林做到了这个男人所说的一切你杀死了女巫，并且将其头颅带了回来。\n\n但是见到你回归的雇主只是微微的一笑并张口说道。 正是这个女巫帮他登上了权力的巅峰，也正是你们将他从这个契约债务中解放了出来，也正是他愚弄了你们所有的人。 话毕，他的跟班们从阴影中走出，刚拔出剑鞘的长剑闪着寒光。 一场埋伏，这场埋伏起于一个无赖罪犯的自大，也将终于一个无赖罪犯的枭首示众。 但是这场胜利是靠牺牲你手下大部分野兽杀手为代价换来的，战斗过后只剩下你和 %bs1%，%bs2%，和 %bs3% 活下来了。\n\n 这个世界上怪物往往将自己隐藏起来：人类将自己的残忍隐藏在自己的愚忠之下，野兽也往往将自己可憎的面目隐藏在黑暗之中。 身为一队野兽杀手的首领你越来越难以分辨这两者的区别。 如果猎杀生物可以让你赚取硬币，那为什么不将人也加进你的账单呢。"
-
+msgid ""
+"[img]gfx/ui/events/event_124.png[/img]You met the man in his home. He offered food, drink, and the contract at hand. Kill the witch of the forest and you'll be paid in sum. You and your men set out and did just that, bringing back the wench's head.\n"
+"\n"
+"But your employer only laughed upon your return. He said it was the witch who put him in power and that you had freed him of his debts to her, that he outsmarted you and your stupid men. His lackeys stepped out of the shadows, their swords already drawn. The ambush started upon the criminal's arrogance and ended with his head cleared from his shoulders. But it came at the cost of many of your fellow beast slayers, leaving only yourself, %bs1%, %bs2%, and %bs3% remaining.\n"
+"\n"
+" Monsters of this world are often kept out of sight: the cruelties of man hide behind blind allegiance, the horrors of beasts behind dark legends. As the leader of a band of beast slayers, it has become steadily more apparent that you can no longer differentiate between the two. If you are to make coin hunting creatures, then you might as well add more to the pot by adding man to the ledger."
+msgstr ""
+"[img]gfx/ui/events/event_124.png[/img]你在房间中见到了雇佣你的人。 他把手边的食物饮料还有雇佣合同递向了你。 杀死森林中的女巫，你就会得到一笔钱。 你和你的手下深入了森林做到了这个男人所说的一切你杀死了女巫，并且将其头颅带了回来。\n"
+"\n"
+"但是见到你回归的雇主只是微微的一笑并张口说道。 正是这个女巫帮他登上了权力的巅峰，也正是你们将他从这个契约债务中解放了出来，也正是他愚弄了你们所有的人。 话毕，他的跟班们从阴影中走出，刚拔出剑鞘的长剑闪着寒光。 一场埋伏，这场埋伏起于一个无赖罪犯的自大，也将终于一个无赖罪犯的枭首示众。 但是这场胜利是靠牺牲你手下大部分野兽杀手为代价换来的，战斗过后只剩下你和 %bs1%，%bs2%，和 %bs3% 活下来了。\n"
+"\n"
+" 这个世界上怪物往往将自己隐藏起来：人类将自己的残忍隐藏在自己的愚忠之下，野兽也往往将自己可憎的面目隐藏在黑暗之中。 身为一队野兽杀手的首领你越来越难以分辨这两者的区别。 如果猎杀生物可以让你赚取硬币，那为什么不将人也加进你的账单呢。"
 
 # scripts/events/events/scenario/manhunters_intro_event.nut
-msgid "[img]gfx/ui/events/event_172.png[/img]{Constant conflict between nomads, city states, and vagabonds makes for good business: deserters, criminals, prisoners of war, and indebted alike flee across the land, and you with manacle in hand give chase.\n\nDespite the barren wastes upon which they rule, the Southern Realms are home to large and ever shifting populations which makes personhood itself a resource worth harvesting. The riverlike flow of persons is as natural an economy as any raw material.\n\nPrisoners of war make up the bulk of your outfit, beaten men who must submit to and fight for another force: your own. Criminals and general riff raff fill in here and there, easy pickings from smaller villages who don't have the means to handle their resident reprobates. And then there are the indebted... hellfire-doomed souls who must work their way back into the Gilder's gleam, and find salvation through blood, sweat, and tears. While most must work as laborers, you favor pressing them into your company. The indebted will not protest, for even the priests state it must be within the Gilder's sublime vision that they will find penitence in the %companyname%.}"
-msgstr "[img]gfx/ui/events/event_172.png[/img]{游牧民族、城邦和流浪汉之间不断的冲突意味着有好生意：逃兵、罪犯、战俘和负债者逃过了这片土地，而你手持镣铐追捕他们。\n\n尽管他们统治着贫瘠的荒芜之地，但南方王国却是数目众多且不断流动的人们的家园，这使得人本身成为一种值得收获的资源。 河水般流动的人们和原料一样都是自然经济。\n\n战俘占了你很大一部分构成，战败之人必须服从并为另一股势力战斗：你自己的。 罪犯和普通的流氓到处都是，他们很容易从那些无法处理这些堕落的居民的小村落里挑选出来。 还有那些负债者…地狱之火诅咒的灵魂必须通过努力才能回到镀金者的金光沐浴中，并通过鲜血、汗水和泪水找到救赎。 尽管大部分人要成为工人，你还是喜欢把他们编入自己的战队里。 负债者不会抗议，因为即使是牧师也会说，他们一定会在镀金者的崇高愿景中，他们会找到忏悔就在 %companyname%。}"
-
+msgid ""
+"[img]gfx/ui/events/event_172.png[/img]{Constant conflict between nomads, city states, and vagabonds makes for good business: deserters, criminals, prisoners of war, and indebted alike flee across the land, and you with manacle in hand give chase.\n"
+"\n"
+"Despite the barren wastes upon which they rule, the Southern Realms are home to large and ever shifting populations which makes personhood itself a resource worth harvesting. The riverlike flow of persons is as natural an economy as any raw material.\n"
+"\n"
+"Prisoners of war make up the bulk of your outfit, beaten men who must submit to and fight for another force: your own. Criminals and general riff raff fill in here and there, easy pickings from smaller villages who don't have the means to handle their resident reprobates. And then there are the indebted... hellfire-doomed souls who must work their way back into the Gilder's gleam, and find salvation through blood, sweat, and tears. While most must work as laborers, you favor pressing them into your company. The indebted will not protest, for even the priests state it must be within the Gilder's sublime vision that they will find penitence in the %companyname%.}"
+msgstr ""
+"[img]gfx/ui/events/event_172.png[/img]{游牧民族、城邦和流浪汉之间不断的冲突意味着有好生意：逃兵、罪犯、战俘和负债者逃过了这片土地，而你手持镣铐追捕他们。\n"
+"\n"
+"尽管他们统治着贫瘠的荒芜之地，但南方王国却是数目众多且不断流动的人们的家园，这使得人本身成为一种值得收获的资源。 河水般流动的人们和原料一样都是自然经济。\n"
+"\n"
+"战俘占了你很大一部分构成，战败之人必须服从并为另一股势力战斗：你自己的。 罪犯和普通的流氓到处都是，他们很容易从那些无法处理这些堕落的居民的小村落里挑选出来。 还有那些负债者…地狱之火诅咒的灵魂必须通过努力才能回到镀金者的金光沐浴中，并通过鲜血、汗水和泪水找到救赎。 尽管大部分人要成为工人，你还是喜欢把他们编入自己的战队里。 负债者不会抗议，因为即使是牧师也会说，他们一定会在镀金者的崇高愿景中，他们会找到忏悔就在 %companyname%。}"
 
 # scripts/events/events/scenario/anatomists_intro_event.nut
-msgid "[img]gfx/ui/events/event_181.png[/img]{You thought them bounty hunters at first, but they were quick to correct you in that they announced themselves as 'researchers,' not 'searchers.' When you were still yet confused, they explained that they were 'anatomists' which did not help their efforts. Frustrated, they called you a 'colloquial hole,' which you were proud to retort that you knew what 'colloquial' meant, but they laughed and said you misheard for they were referring to you in the bird-sense. With them laughing in your face, you drew your sword and at this point they put their hands in the air, each one holding a purse filled with crowns.\n\nAfter some further talk, you figured out that they're eggheads with a keen interest in corpses. Being that you are quite talented in creating corpses yourself, they saw fit to hire you to do exactly that for them. You will traverse the land, hiring a formidable band of mercenaries, and help these peculiar men accomplish their scientific tasks. All that you ask is that they not do funny things with your body if you happen to die. The anatomists put on warm smiles and promise they'd never do such a thing to a man they're doing business with. Each one of them looks like they learned how to smile from a dead man, but you'll just have to take their word for it.}"
-msgstr "[img]gfx/ui/events/event_181.png[/img]{你刚开始以为他们是赏金猎人，但他们很快就更正了你的想法声称他们是“研究者”，而不是“搜索者”。 你正在一头雾水的时候，他们解释说他们其实是“解剖学家”不过这其实一点也不能帮助你理解他们的身份。 感到解释徒劳无功，他们说你是个“聊天黑洞”，你自豪地反驳道你至少听懂了“聊天”这个词是什么意思，不过他们都笑了起来说你听错了他们这是在鸡同鸭讲。 感觉到他们在嘲笑你，你拔出了你的剑而他们此刻却把双手高高举起以示没有恶意，每只手都拿着一个装满克朗的钱包。\n\n又深入谈了一会儿，你发现他们是一群对尸体有着强烈兴趣的学者。 既然你很擅长制造尸体，他们觉得雇你帮他们制造尸体就挺合适的。 你要穿过大陆，雇佣一支强大的雇佣军，并且帮这群怪人完成他们的科学研究。 你唯一的要求就是如果你不幸死掉他们可不许对你的尸体做那些奇奇怪怪的勾当。 这些解剖学家面上带着温暖的笑容做出保证说绝不会对有生意往来的人做这种事。 每个人笑得都好难看就好像是跟死人学的怎么笑一样，不过你也只好相信他们。}"
-
+msgid ""
+"[img]gfx/ui/events/event_181.png[/img]{You thought them bounty hunters at first, but they were quick to correct you in that they announced themselves as 'researchers,' not 'searchers.' When you were still yet confused, they explained that they were 'anatomists' which did not help their efforts. Frustrated, they called you a 'colloquial hole,' which you were proud to retort that you knew what 'colloquial' meant, but they laughed and said you misheard for they were referring to you in the bird-sense. With them laughing in your face, you drew your sword and at this point they put their hands in the air, each one holding a purse filled with crowns.\n"
+"\n"
+"After some further talk, you figured out that they're eggheads with a keen interest in corpses. Being that you are quite talented in creating corpses yourself, they saw fit to hire you to do exactly that for them. You will traverse the land, hiring a formidable band of mercenaries, and help these peculiar men accomplish their scientific tasks. All that you ask is that they not do funny things with your body if you happen to die. The anatomists put on warm smiles and promise they'd never do such a thing to a man they're doing business with. Each one of them looks like they learned how to smile from a dead man, but you'll just have to take their word for it.}"
+msgstr ""
+"[img]gfx/ui/events/event_181.png[/img]{你刚开始以为他们是赏金猎人，但他们很快就更正了你的想法声称他们是“研究者”，而不是“搜索者”。 你正在一头雾水的时候，他们解释说他们其实是“解剖学家”不过这其实一点也不能帮助你理解他们的身份。 感到解释徒劳无功，他们说你是个“聊天黑洞”，你自豪地反驳道你至少听懂了“聊天”这个词是什么意思，不过他们都笑了起来说你听错了他们这是在鸡同鸭讲。 感觉到他们在嘲笑你，你拔出了你的剑而他们此刻却把双手高高举起以示没有恶意，每只手都拿着一个装满克朗的钱包。\n"
+"\n"
+"又深入谈了一会儿，你发现他们是一群对尸体有着强烈兴趣的学者。 既然你很擅长制造尸体，他们觉得雇你帮他们制造尸体就挺合适的。 你要穿过大陆，雇佣一支强大的雇佣军，并且帮这群怪人完成他们的科学研究。 你唯一的要求就是如果你不幸死掉他们可不许对你的尸体做那些奇奇怪怪的勾当。 这些解剖学家面上带着温暖的笑容做出保证说绝不会对有生意往来的人做这种事。 每个人笑得都好难看就好像是跟死人学的怎么笑一样，不过你也只好相信他们。}"
 
 # scripts/events/events/scenario/deserters_intro_event.nut
-msgid "[img]gfx/ui/events/event_88.png[/img]{Long marches on old boots. Snow? Fight. Rain? Fight. Being charged by a line of heavy horse? Pick up that spear. Fight. Fight. Always fight. But even the simplicities gnawed. Ask for socks, get told to steal them from the peasants. Ask for a better meal, have your serving given to the ground.\n\n The ways of the soldier do not bother you. Killing does not bother you, nor does the threat of death. The disrespect of the nobles, the lack of responsibility by the lieutenants who 'bravely' throw you to the meatgrinder, that is what saps the will. That and the boredom. The endless day after day after day tedium of nothingness.\n\n It is somewhat ironic that you and three other deserters abandoned the war camp on the day they did. A grand meal was given to the soldiers. A celebration of victory, they called it. Your plate was pushed to the rims with foodstuffs. Portions that belonged to the men who died that day. And you ate that food. You ate it right up. And then you picked up your bags, went on watch for the evening, and simply slipped away. For engineering the escape, three other deserters elected to follow your command.\n\n You'd forge your own path as a sellsword where the pay would at least match the pain. But first, you'll have to make your way to other lands, for if you stay here for long, the noose will surely be where you meet your end.}"
-msgstr "[img]gfx/ui/events/event_88.png[/img]{穿着破旧的老靴子远征。 天降大雪？战斗。倾盆大雨？战斗。 被重骑兵冲锋？ 拿上你的长矛。 战斗。战斗。一直在战斗。 但是最简单的机械也会受到侵蚀。 申请一双袜子，却被告知要去偷农民的。 申请要一份更好的餐食，被问到你全心全意的完成你的使命了吗。\n\n 作为一个兵丁本身并不困扰你。 杀人也不会困扰你，死亡的威胁也不会困扰你。 贵族们的不尊重，那些“勇敢地”把你扔进绞肉机的副官们的不负责任，这些都削弱了你的意志。 还有无聊。 无尽的日复一日的无聊。\n\n 讽刺的是当你逃离营地的那一天有三个和你一样的逃兵也做了同样的事情。 每个人都被分发了一顿大餐。 他们称之为对胜利的庆祝。 你的盘子里面装满了食物。 这些本应该属于那天死在战场上的人的。 但是你吃了那些食物。 你吃光了那些食物。 然后你拿起你的包，去守夜，然后就溜了。 为了策划出逃，其他三个逃兵选择听从你的命令。\n\n 之后你会开辟一条佣兵之路，至少得到的报酬会和你的痛苦相称。 但首先，你必须到别的地方去，因为如果你在这里呆久了，绞架肯定是你的人生归宿。}"
-
+msgid ""
+"[img]gfx/ui/events/event_88.png[/img]{Long marches on old boots. Snow? Fight. Rain? Fight. Being charged by a line of heavy horse? Pick up that spear. Fight. Fight. Always fight. But even the simplicities gnawed. Ask for socks, get told to steal them from the peasants. Ask for a better meal, have your serving given to the ground.\n"
+"\n"
+" The ways of the soldier do not bother you. Killing does not bother you, nor does the threat of death. The disrespect of the nobles, the lack of responsibility by the lieutenants who 'bravely' throw you to the meatgrinder, that is what saps the will. That and the boredom. The endless day after day after day tedium of nothingness.\n"
+"\n"
+" It is somewhat ironic that you and three other deserters abandoned the war camp on the day they did. A grand meal was given to the soldiers. A celebration of victory, they called it. Your plate was pushed to the rims with foodstuffs. Portions that belonged to the men who died that day. And you ate that food. You ate it right up. And then you picked up your bags, went on watch for the evening, and simply slipped away. For engineering the escape, three other deserters elected to follow your command.\n"
+"\n"
+" You'd forge your own path as a sellsword where the pay would at least match the pain. But first, you'll have to make your way to other lands, for if you stay here for long, the noose will surely be where you meet your end.}"
+msgstr ""
+"[img]gfx/ui/events/event_88.png[/img]{穿着破旧的老靴子远征。 天降大雪？战斗。倾盆大雨？战斗。 被重骑兵冲锋？ 拿上你的长矛。 战斗。战斗。一直在战斗。 但是最简单的机械也会受到侵蚀。 申请一双袜子，却被告知要去偷农民的。 申请要一份更好的餐食，被问到你全心全意的完成你的使命了吗。\n"
+"\n"
+" 作为一个兵丁本身并不困扰你。 杀人也不会困扰你，死亡的威胁也不会困扰你。 贵族们的不尊重，那些“勇敢地”把你扔进绞肉机的副官们的不负责任，这些都削弱了你的意志。 还有无聊。 无尽的日复一日的无聊。\n"
+"\n"
+" 讽刺的是当你逃离营地的那一天有三个和你一样的逃兵也做了同样的事情。 每个人都被分发了一顿大餐。 他们称之为对胜利的庆祝。 你的盘子里面装满了食物。 这些本应该属于那天死在战场上的人的。 但是你吃了那些食物。 你吃光了那些食物。 然后你拿起你的包，去守夜，然后就溜了。 为了策划出逃，其他三个逃兵选择听从你的命令。\n"
+"\n"
+" 之后你会开辟一条佣兵之路，至少得到的报酬会和你的痛苦相称。 但首先，你必须到别的地方去，因为如果你在这里呆久了，绞架肯定是你的人生归宿。}"
 
 # scripts/events/events/scenario/early_access_intro_event.nut
-msgid "[img]gfx/ui/events/event_80.png[/img]You soak in the cool morning air. As the sun slowly rises, so does a new chapter in your life begin. After years of bloodying your sword for meager pay, you've saved enough crowns to start your very own mercenary company. With you are %bro1%, %bro2% and %bro3% with whom you've fought before side by side in the shieldwall. You are their commander now, the leader of the %companyname%.\n\nAs you travel the lands you should hire new men in the villages and cities to fill your ranks. Many who offer their services will have never picked up a weapon before. Maybe they are desperate, maybe they are greedy for quick spoils of war. Most of them will die on the battlefield. But do not be discouraged. Such is the mercenary life, and the next village will always have new men eagerly looking for a new start in life.\n\nThe lands are dangerous these times. Robbers and pillagers lay in ambush by the roads, wild beasts roam the dark forests and orc tribes are restless beyond the boundaries of civilization. There are rumors even of dark magic being at work, the dead rising from their graves and walking again. There is plenty of opportunity to earn good money, whether by taking on contracts you can find in the villages and cities all over the land, or by venturing out on your own to explore and raid.\n\nYour men look to you to give a command. They live and die for the %companyname% now."
-msgstr "[img]gfx/ui/events/event_80.png[/img]你沐浴在早晨凉爽的空气中。 当太阳慢慢升起的时候，你人生的新篇章也开始了。 多年来，你以微薄的报酬做着刀口舔血的工作，现在终于攒下来足够的克朗去组建一支你自己的雇佣兵战队了。 这里有你和 %bro1%，%bro2% 和 %bro3% 这些人都是当年和你在同一个盾墙下并肩战斗过的人。 你现在是他们的指挥官了，领导者 %companyname%。\n\n如果你在各地旅行，你应该在乡村和城市雇佣新人来填补你的队伍。 许多宣誓效忠的人之前从未拿起过武器。 也许他们是感到绝望了，也许是他们只是想贪婪地想要得到战斗过后的战利品。 他们绝大部分的人将会死在战场上。 但是不要气馁。 这就是雇佣兵的生活，当你来到下一个村子的时候总是会有新的人热切的想要开始一段新的生活。\n\n现在这片土地很危险。 强盗和抢劫者埋伏在路边，野兽在黑暗的森林中游荡，兽人部落在文明的边界之外躁动不安。 甚至有传言说因为黑魔法的作用，死人从坟墓里爬起来再次行走在人间。 无论你是在土地上的各个村庄和城市中签订合同，还是通过自己的探险或者掠夺，都有机会赚大钱。\n\n你的人都在指望你发号施令。 他们现在的生死都是为了 %companyname%。"
-
+msgid ""
+"[img]gfx/ui/events/event_80.png[/img]You soak in the cool morning air. As the sun slowly rises, so does a new chapter in your life begin. After years of bloodying your sword for meager pay, you've saved enough crowns to start your very own mercenary company. With you are %bro1%, %bro2% and %bro3% with whom you've fought before side by side in the shieldwall. You are their commander now, the leader of the %companyname%.\n"
+"\n"
+"As you travel the lands you should hire new men in the villages and cities to fill your ranks. Many who offer their services will have never picked up a weapon before. Maybe they are desperate, maybe they are greedy for quick spoils of war. Most of them will die on the battlefield. But do not be discouraged. Such is the mercenary life, and the next village will always have new men eagerly looking for a new start in life.\n"
+"\n"
+"The lands are dangerous these times. Robbers and pillagers lay in ambush by the roads, wild beasts roam the dark forests and orc tribes are restless beyond the boundaries of civilization. There are rumors even of dark magic being at work, the dead rising from their graves and walking again. There is plenty of opportunity to earn good money, whether by taking on contracts you can find in the villages and cities all over the land, or by venturing out on your own to explore and raid.\n"
+"\n"
+"Your men look to you to give a command. They live and die for the %companyname% now."
+msgstr ""
+"[img]gfx/ui/events/event_80.png[/img]你沐浴在早晨凉爽的空气中。 当太阳慢慢升起的时候，你人生的新篇章也开始了。 多年来，你以微薄的报酬做着刀口舔血的工作，现在终于攒下来足够的克朗去组建一支你自己的雇佣兵战队了。 这里有你和 %bro1%，%bro2% 和 %bro3% 这些人都是当年和你在同一个盾墙下并肩战斗过的人。 你现在是他们的指挥官了，领导者 %companyname%。\n"
+"\n"
+"如果你在各地旅行，你应该在乡村和城市雇佣新人来填补你的队伍。 许多宣誓效忠的人之前从未拿起过武器。 也许他们是感到绝望了，也许是他们只是想贪婪地想要得到战斗过后的战利品。 他们绝大部分的人将会死在战场上。 但是不要气馁。 这就是雇佣兵的生活，当你来到下一个村子的时候总是会有新的人热切的想要开始一段新的生活。\n"
+"\n"
+"现在这片土地很危险。 强盗和抢劫者埋伏在路边，野兽在黑暗的森林中游荡，兽人部落在文明的边界之外躁动不安。 甚至有传言说因为黑魔法的作用，死人从坟墓里爬起来再次行走在人间。 无论你是在土地上的各个村庄和城市中签订合同，还是通过自己的探险或者掠夺，都有机会赚大钱。\n"
+"\n"
+"你的人都在指望你发号施令。 他们现在的生死都是为了 %companyname%。"
 
 # scripts/events/events/scenario/paladins_intro_event.nut
-msgid "[img]gfx/ui/events/event_180.png[/img]{You knew the game well, and like any good game you got burned out on the rules and the rule setters. Oaths for this, Oaths for that. All you knew is you never got to hold Young Anselm's skull, and last you saw some Oathbringer had stolen off with the lad's preeminent jaw. Leaving the Oathtakers was the best decision you ever made, if only to preserve what little sanity you had left.\n\nUnfortunately, the faithful have a strong nose for the apostate's scent. When you opened the door this morning it was like looking at two piles of shite some prankster kid had left you: %oathtaker1% and %oathtaker2%, in the flesh. The former an older man who simply never shook his beliefs, and the latter a talented squire who reminds you of yourself. No doubt the more mawkish talker, it was the younger lad who made his plea: the Oathtakers need a man familiar with the land to help them around, completing quests and oaths. You shut the door only to find the older man's foot in it. He held up a pile of gold, and your nose must have wrinkled or wiggled because both men lit up.\n\nNow, you're only going along because times are tough, and because mercenary work – even under the guise of religious duty – can make some outstanding coin. And if someone is willing to bankroll you into such an opulent task, then so be it. There is only one condition: you will take the Oath of Captaincy, which means all the battling and rough roading will be done by others. Without pause, the Oathtakers agree, and then they show you Young Anselm's skull. You've lost touch with the organization, but seeing that lad's dumb dome still brings a stir in your heart. %oathtaker2% nods.%SPEECH_ON%Let us scour these lands for the honorable, and be diligent in our tasks, and may we ever make Young Anselm whole again from the rat bastard Oathbringers who broke him!%SPEECH_OFF%}"
-msgstr "[img]gfx/ui/events/event_180.png[/img]{你对这种游戏很熟悉，就像任何让你被规则和规则制定者搞的灰头土脸焦头烂额的游戏一样。 这里一个誓言，那里一个誓言。 你只知道你绝对不会去持有小安瑟姆的头骨，最后你看到一些誓言使者把那个孩子的颌骨给偷跑了。 离开宣誓者真是你这辈子最正确的决定，你总算还能保持那么一丁点儿理智。\n\n不幸的是，那些忠实信徒仿佛总是能闻到叛教者的味道。 当你今天早上打开大门时你仿佛看到一个恶作剧的孩子拉的两坨屎：%oathtaker1% 和 %oathtaker2%，虽然他们是肉做的。 前者是一位从来就没有动摇过信仰的老人，后者是一个像你自己一样潜质很好的扈从。 一通无病呻吟的屁话，那个年轻人恳求道：宣誓者需要一位熟悉地形的人来帮助他们，完成任务和兑现誓言。 你正准备摔门而去却发现那个老人把脚卡在门上不让你关门。 他拿着一大堆金币，你的鼻子一定在因为钱的味道扭曲着因为两个人都面露喜色。\n\n现在，你之所以这么做，只是因为时局艰难，也因为雇佣兵工作－就算披上宗教责任的外衣－还是能为你挣到一些硬币的。 既然有人愿意出资让你接这个大有赚头的任务，那也没啥不可以的。 只有一个条件：你将宣誓成为队长，这意味着所有的战斗和艰难的道路将由他人完成。 丝毫没有迟疑，宣誓者同意了，然后他们拿出了小安瑟姆的颅骨展示给你。 你与组织失去联系已经很久了，但看着这个孩子无法合口的穹顶你还是感到心底一阵悸动。%oathtaker2% 点点头。%SPEECH_ON%让我们搜寻这片土地寻找荣耀，勤于我们的责任，并且愿我们能让小安瑟姆从那些毁了他的卑鄙杂种誓言使者的手中合整回来！%SPEECH_OFF%}"
-
+msgid ""
+"[img]gfx/ui/events/event_180.png[/img]{You knew the game well, and like any good game you got burned out on the rules and the rule setters. Oaths for this, Oaths for that. All you knew is you never got to hold Young Anselm's skull, and last you saw some Oathbringer had stolen off with the lad's preeminent jaw. Leaving the Oathtakers was the best decision you ever made, if only to preserve what little sanity you had left.\n"
+"\n"
+"Unfortunately, the faithful have a strong nose for the apostate's scent. When you opened the door this morning it was like looking at two piles of shite some prankster kid had left you: %oathtaker1% and %oathtaker2%, in the flesh. The former an older man who simply never shook his beliefs, and the latter a talented squire who reminds you of yourself. No doubt the more mawkish talker, it was the younger lad who made his plea: the Oathtakers need a man familiar with the land to help them around, completing quests and oaths. You shut the door only to find the older man's foot in it. He held up a pile of gold, and your nose must have wrinkled or wiggled because both men lit up.\n"
+"\n"
+"Now, you're only going along because times are tough, and because mercenary work – even under the guise of religious duty – can make some outstanding coin. And if someone is willing to bankroll you into such an opulent task, then so be it. There is only one condition: you will take the Oath of Captaincy, which means all the battling and rough roading will be done by others. Without pause, the Oathtakers agree, and then they show you Young Anselm's skull. You've lost touch with the organization, but seeing that lad's dumb dome still brings a stir in your heart. %oathtaker2% nods.%SPEECH_ON%Let us scour these lands for the honorable, and be diligent in our tasks, and may we ever make Young Anselm whole again from the rat bastard Oathbringers who broke him!%SPEECH_OFF%}"
+msgstr ""
+"[img]gfx/ui/events/event_180.png[/img]{你对这种游戏很熟悉，就像任何让你被规则和规则制定者搞的灰头土脸焦头烂额的游戏一样。 这里一个誓言，那里一个誓言。 你只知道你绝对不会去持有小安瑟姆的头骨，最后你看到一些誓言使者把那个孩子的颌骨给偷跑了。 离开宣誓者真是你这辈子最正确的决定，你总算还能保持那么一丁点儿理智。\n"
+"\n"
+"不幸的是，那些忠实信徒仿佛总是能闻到叛教者的味道。 当你今天早上打开大门时你仿佛看到一个恶作剧的孩子拉的两坨屎：%oathtaker1% 和 %oathtaker2%，虽然他们是肉做的。 前者是一位从来就没有动摇过信仰的老人，后者是一个像你自己一样潜质很好的扈从。 一通无病呻吟的屁话，那个年轻人恳求道：宣誓者需要一位熟悉地形的人来帮助他们，完成任务和兑现誓言。 你正准备摔门而去却发现那个老人把脚卡在门上不让你关门。 他拿着一大堆金币，你的鼻子一定在因为钱的味道扭曲着因为两个人都面露喜色。\n"
+"\n"
+"现在，你之所以这么做，只是因为时局艰难，也因为雇佣兵工作－就算披上宗教责任的外衣－还是能为你挣到一些硬币的。 既然有人愿意出资让你接这个大有赚头的任务，那也没啥不可以的。 只有一个条件：你将宣誓成为队长，这意味着所有的战斗和艰难的道路将由他人完成。 丝毫没有迟疑，宣誓者同意了，然后他们拿出了小安瑟姆的颅骨展示给你。 你与组织失去联系已经很久了，但看着这个孩子无法合口的穹顶你还是感到心底一阵悸动。%oathtaker2% 点点头。%SPEECH_ON%让我们搜寻这片土地寻找荣耀，勤于我们的责任，并且愿我们能让小安瑟姆从那些毁了他的卑鄙杂种誓言使者的手中合整回来！%SPEECH_OFF%}"
 
 # scripts/events/events/scenario/raiders_intro_event.nut
-msgid "[img]gfx/ui/events/event_94.png[/img]{After you and your party killed half of them, the villagers finally submitted. A white flag was raised, and they offered parlay which you were happy to grant. In a single line they walked out to the town square where they had been holding a festival. Jewels and treasures filled their arms and they dumped the goods where you stood, boot atop the smashed skull of their mayor. Your vanguard of %raider1%, %raider2%, %raider3% and %raider4% kept careful watch of the ceremony like buzzards watching a slow death.\n\n The last in the line was a monk. He had no gold or silver on him, but instead spoke to you, his words immediately drawing the weapons of your fellow raiders. You allowed him to speak, and he spoke at length about the old gods and how the treasures of the heavens superseded all of that which terra could offer. You told him his death was written by that wagging chin of his. The monk pursed his lips.%SPEECH_ON%Alright, then if you want gold, depart these silly games. This raiding and pillaging, it is all worthless compared to the treasures of the south. The nobles won't have you in their armies, but they are forever in need of mercenaries and rarely have the time or luxury of choosing where these hired fighters come from. You'd make all the crowns you'd ever want. Come south, raiders, and be sublimated into sellswords.%SPEECH_OFF%%raider3% demands the monk's head, but you stay the execution. Instead, you take the crafty monk at his word. You've long heard of southern riches and the travels of adventurous swords for hire. You decide to venture south - so long as the monk comes with. %raider3% protests, but you won't have it. If this pale little shit of a monk is your lucky charm to a new life, then it would be an affront to the old gods to leave him be. The raider storms off, but %raider1%, %raider2% and %raider4% have no qualms about following you. The rest of the war party returns north, a split in the loot being made. What remains of the village is left behind to recover, rebuild, and make new goods for stronger tribes to come and take for themselves.}"
-msgstr "[img]gfx/ui/events/event_94.png[/img]{在你和你的部队杀掉了一半的村民之后村民们终于投降了。 一面白色的小旗从中升起并且村民们还要求停战，你很乐意答应他们。 村民们一字排开的走向他们之前举行节日庆典的城镇广场。 村民们一个一个的把怀中的珠宝和财宝放到了你脚下被打碎的镇长的脑袋旁边。 你的先锋部队 %raider1%，%raider2%，%raider3% 和 %raider4% 小心地看着村民们就像秃鹰看着快死的动物慢慢死去一样。\n\n 队伍中最后一个人是个僧侣。 他的身上没有任何金子或者银子并且还开始对你说话，他的行为立刻让你的手下们掏出了他们的武器。 你允许了他说话，但是他却开始谈论古老的神明是怎么被天堂取代的并且如果你相信了天堂又会有怎样的财富等待着你。 你告诉他他这张灵巧的嘴只会早就自己的死亡之后。 僧侣赶紧闭上了嘴但是又慢慢说到。%SPEECH_ON%好吧，好吧如果你真的想要财富的话就放弃这种无聊愚蠢的游戏吧。 这种掠夺和抢劫根本比不上南方财富的哪怕一点点。 贵族首领们肯定不会让你加入他们的军队但是他们会很乐意雇佣一队佣兵并且他们才不会用他们宝贵的时间研究这队雇佣兵是从哪里来的。 你将会得到你梦寐以求的财富的。 去南方吧，掠夺者，去作为以队佣兵生活吧。%SPEECH_OFF%%raider3% 想要把这个僧侣的头砍下来但是你把这个处决决定先保存了下来。 相反，你听信了这个狡猾的僧侣的话。 你早就听说过了南方的财富和冒险者被雇佣来战斗的故事。 你决定去南方，并且带上了这个僧侣和你一起。%raider3% 对于这个带上僧侣这个决定是抗拒的但是你根本没听。 因为如果这个小白脸僧侣是你去往新生活的幸运护符的话，杀掉他就是对古老神明的侮辱了。 其他掠夺者们鸟兽一样散去，但是 %raider1%，%raider2% 和 %raider4% 对于跟随你的领导没有任何异议。 其他的掠夺者们返回了北方并且分掉了掠夺的财富。 留下来的村庄还需要重建和回复并且还会有新的陌生部落前来拿走他们想要的财富。}"
-
+msgid ""
+"[img]gfx/ui/events/event_94.png[/img]{After you and your party killed half of them, the villagers finally submitted. A white flag was raised, and they offered parlay which you were happy to grant. In a single line they walked out to the town square where they had been holding a festival. Jewels and treasures filled their arms and they dumped the goods where you stood, boot atop the smashed skull of their mayor. Your vanguard of %raider1%, %raider2%, %raider3% and %raider4% kept careful watch of the ceremony like buzzards watching a slow death.\n"
+"\n"
+" The last in the line was a monk. He had no gold or silver on him, but instead spoke to you, his words immediately drawing the weapons of your fellow raiders. You allowed him to speak, and he spoke at length about the old gods and how the treasures of the heavens superseded all of that which terra could offer. You told him his death was written by that wagging chin of his. The monk pursed his lips.%SPEECH_ON%Alright, then if you want gold, depart these silly games. This raiding and pillaging, it is all worthless compared to the treasures of the south. The nobles won't have you in their armies, but they are forever in need of mercenaries and rarely have the time or luxury of choosing where these hired fighters come from. You'd make all the crowns you'd ever want. Come south, raiders, and be sublimated into sellswords.%SPEECH_OFF%%raider3% demands the monk's head, but you stay the execution. Instead, you take the crafty monk at his word. You've long heard of southern riches and the travels of adventurous swords for hire. You decide to venture south - so long as the monk comes with. %raider3% protests, but you won't have it. If this pale little shit of a monk is your lucky charm to a new life, then it would be an affront to the old gods to leave him be. The raider storms off, but %raider1%, %raider2% and %raider4% have no qualms about following you. The rest of the war party returns north, a split in the loot being made. What remains of the village is left behind to recover, rebuild, and make new goods for stronger tribes to come and take for themselves.}"
+msgstr ""
+"[img]gfx/ui/events/event_94.png[/img]{在你和你的部队杀掉了一半的村民之后村民们终于投降了。 一面白色的小旗从中升起并且村民们还要求停战，你很乐意答应他们。 村民们一字排开的走向他们之前举行节日庆典的城镇广场。 村民们一个一个的把怀中的珠宝和财宝放到了你脚下被打碎的镇长的脑袋旁边。 你的先锋部队 %raider1%，%raider2%，%raider3% 和 %raider4% 小心地看着村民们就像秃鹰看着快死的动物慢慢死去一样。\n"
+"\n"
+" 队伍中最后一个人是个僧侣。 他的身上没有任何金子或者银子并且还开始对你说话，他的行为立刻让你的手下们掏出了他们的武器。 你允许了他说话，但是他却开始谈论古老的神明是怎么被天堂取代的并且如果你相信了天堂又会有怎样的财富等待着你。 你告诉他他这张灵巧的嘴只会早就自己的死亡之后。 僧侣赶紧闭上了嘴但是又慢慢说到。%SPEECH_ON%好吧，好吧如果你真的想要财富的话就放弃这种无聊愚蠢的游戏吧。 这种掠夺和抢劫根本比不上南方财富的哪怕一点点。 贵族首领们肯定不会让你加入他们的军队但是他们会很乐意雇佣一队佣兵并且他们才不会用他们宝贵的时间研究这队雇佣兵是从哪里来的。 你将会得到你梦寐以求的财富的。 去南方吧，掠夺者，去作为以队佣兵生活吧。%SPEECH_OFF%%raider3% 想要把这个僧侣的头砍下来但是你把这个处决决定先保存了下来。 相反，你听信了这个狡猾的僧侣的话。 你早就听说过了南方的财富和冒险者被雇佣来战斗的故事。 你决定去南方，并且带上了这个僧侣和你一起。%raider3% 对于这个带上僧侣这个决定是抗拒的但是你根本没听。 因为如果这个小白脸僧侣是你去往新生活的幸运护符的话，杀掉他就是对古老神明的侮辱了。 其他掠夺者们鸟兽一样散去，但是 %raider1%，%raider2% 和 %raider4% 对于跟随你的领导没有任何异议。 其他的掠夺者们返回了北方并且分掉了掠夺的财富。 留下来的村庄还需要重建和回复并且还会有新的陌生部落前来拿走他们想要的财富。}"
 
 # scripts/events/events/scenario/gladiators_intro_event.nut
-msgid "[img]gfx/ui/events/event_147.png[/img]{It should be a simple matter, killing a man, but unfamiliarity toughens the flesh: murderers caught in the street, choking away, arms tensed, hands clenched, screaming why won't their victims die. The motherly estate come undone, hitting her husband with the fire iron, again and again, and yet he still draws breath long after the flames have died. A bored Vizier unsure of why his torturers struggle with a criminal, the maddened man mocking them as they cut away appendages most important.\n\nBut to a gladiator a man is not just a man, he is a wielder of weapons. Swords, axes, spears, tridents, and more. Once you are past all these manifested defenses, he is mere flesh most familiar, and to dispatch him is not a matter of struggle, but of entertainment. Entertainment! Competition with every ounce of skin in the game, and the revelry of the crowds. These are the things you love. Let the philosophers wax on and off about the nature of how things come to live and die. When you plunge a sword into some fool's neck, not only does blood gush upon your blade, but the crowd gushes upon your accomplishment! It is the most wonderful sound in the world! And the women who come after, so hot and bothered they don't even wait for you to clean the entrails off before jumping your bones? Glorious.\n\nBut it gets boring, too. How many fights has it been? You can't count. How many challenges? You can't even name a single one. Not a single one! %g1%, %g2%, and %g3% all agree: you're just too good. And they're pretty good, too, if you're being honest. All four of you agree, though: you shall depart the arenas and forge a champion's spirit across the whole world.\n\nThe gladiators have some proclivities for the opulent, particularly for scented baths and jewelry that spells their names, so be prepared to pay a tidy sum for each as you finance their lavish lifestyles outside the comfort of the city states. And so it will be. Your three solid, but not all-time great fighting buddies will display their martial prowess, and you will be matched with a new challenge: learning how to manage warriors (who are not at your level) and their needs.}"
-msgstr "[img]gfx/ui/events/event_147.png[/img]{杀死一个人本是小事一桩，然而陌生能使肉体坚韧：凶手们在街上被捉住，扼紧喉咙，拉住臂膀，钳住双手，嚷嚷着为什么他们的受害者没有死。 母亲的遗产被毁了，一遍又一遍的用火钩击打她的丈夫，而他在火星熄灭后仍长叹连连。 一个无聊的维齐尔不知道为什么他的施虐者们要和一个罪犯搏斗，而那个疯狂的人嘲笑他们被阉割了最重要的附属物。\n\n但是对于角斗士来说，一个人不仅仅是一个人，他还是一个武器的使用者。 剑，斧，矛，三叉戟等等。 当你略过这些显而易见的辩护，他仅仅是最熟悉不过的肉体，驱使他的不是斗争而是为了娱乐。娱乐！ 和比赛里各色肤色的人们竞争，以及人群的狂欢。 这些都是你喜爱的事物。 让哲学家们继续谈论事物生死存亡的本质吧。 当你把剑猛插进一些蠢货的脖子中时，不仅有鲜血喷涌到了你的锋刃之上，亦有人群喷涌出对你的成就的欢呼赞美之声！ 这是世界上最美妙的声音！ 追随而来的女人们，如此热辣令人苦恼，她们甚至不等你清理干净内脏就要开干？荣耀啊。\n\n但是事情也渐渐变得枯燥。 已经发生多少场战斗？ 你数不清了。有过多少挑战？ 你甚至连一次都说不出。 一次都没有！%g1%，%g2%，和 %g3% 都同意，是你太优秀了。 要说实话的话他们也同样很棒。 不过你们四个都同意：你们应该离开竞技场在整个世界塑造冠军之魂。\n\n角斗士们有一些奢侈的癖好，特别是香薰浴和刻有他们名字的珠宝首饰，所以当你为他们在舒适的城邦之外的奢华生活方式提供资金时，请准备好为他们支付一笔可观的费用。 事实也会如此。 你的三个坚实有力但不总是伟大的战斗伙伴将展现他们的武力，而你也将面临一项新的挑战：学习如何管理战士（和你们不是一个水平的）和他们的需求。}"
-
-
+msgid ""
+"[img]gfx/ui/events/event_147.png[/img]{It should be a simple matter, killing a man, but unfamiliarity toughens the flesh: murderers caught in the street, choking away, arms tensed, hands clenched, screaming why won't their victims die. The motherly estate come undone, hitting her husband with the fire iron, again and again, and yet he still draws breath long after the flames have died. A bored Vizier unsure of why his torturers struggle with a criminal, the maddened man mocking them as they cut away appendages most important.\n"
+"\n"
+"But to a gladiator a man is not just a man, he is a wielder of weapons. Swords, axes, spears, tridents, and more. Once you are past all these manifested defenses, he is mere flesh most familiar, and to dispatch him is not a matter of struggle, but of entertainment. Entertainment! Competition with every ounce of skin in the game, and the revelry of the crowds. These are the things you love. Let the philosophers wax on and off about the nature of how things come to live and die. When you plunge a sword into some fool's neck, not only does blood gush upon your blade, but the crowd gushes upon your accomplishment! It is the most wonderful sound in the world! And the women who come after, so hot and bothered they don't even wait for you to clean the entrails off before jumping your bones? Glorious.\n"
+"\n"
+"But it gets boring, too. How many fights has it been? You can't count. How many challenges? You can't even name a single one. Not a single one! %g1%, %g2%, and %g3% all agree: you're just too good. And they're pretty good, too, if you're being honest. All four of you agree, though: you shall depart the arenas and forge a champion's spirit across the whole world.\n"
+"\n"
+"The gladiators have some proclivities for the opulent, particularly for scented baths and jewelry that spells their names, so be prepared to pay a tidy sum for each as you finance their lavish lifestyles outside the comfort of the city states. And so it will be. Your three solid, but not all-time great fighting buddies will display their martial prowess, and you will be matched with a new challenge: learning how to manage warriors (who are not at your level) and their needs.}"
+msgstr ""
+"[img]gfx/ui/events/event_147.png[/img]{杀死一个人本是小事一桩，然而陌生能使肉体坚韧：凶手们在街上被捉住，扼紧喉咙，拉住臂膀，钳住双手，嚷嚷着为什么他们的受害者没有死。 母亲的遗产被毁了，一遍又一遍的用火钩击打她的丈夫，而他在火星熄灭后仍长叹连连。 一个无聊的维齐尔不知道为什么他的施虐者们要和一个罪犯搏斗，而那个疯狂的人嘲笑他们被阉割了最重要的附属物。\n"
+"\n"
+"但是对于角斗士来说，一个人不仅仅是一个人，他还是一个武器的使用者。 剑，斧，矛，三叉戟等等。 当你略过这些显而易见的辩护，他仅仅是最熟悉不过的肉体，驱使他的不是斗争而是为了娱乐。娱乐！ 和比赛里各色肤色的人们竞争，以及人群的狂欢。 这些都是你喜爱的事物。 让哲学家们继续谈论事物生死存亡的本质吧。 当你把剑猛插进一些蠢货的脖子中时，不仅有鲜血喷涌到了你的锋刃之上，亦有人群喷涌出对你的成就的欢呼赞美之声！ 这是世界上最美妙的声音！ 追随而来的女人们，如此热辣令人苦恼，她们甚至不等你清理干净内脏就要开干？荣耀啊。\n"
+"\n"
+"但是事情也渐渐变得枯燥。 已经发生多少场战斗？ 你数不清了。有过多少挑战？ 你甚至连一次都说不出。 一次都没有！%g1%，%g2%，和 %g3% 都同意，是你太优秀了。 要说实话的话他们也同样很棒。 不过你们四个都同意：你们应该离开竞技场在整个世界塑造冠军之魂。\n"
+"\n"
+"角斗士们有一些奢侈的癖好，特别是香薰浴和刻有他们名字的珠宝首饰，所以当你为他们在舒适的城邦之外的奢华生活方式提供资金时，请准备好为他们支付一笔可观的费用。 事实也会如此。 你的三个坚实有力但不总是伟大的战斗伙伴将展现他们的武力，而你也将面临一项新的挑战：学习如何管理战士（和你们不是一个水平的）和他们的需求。}"
