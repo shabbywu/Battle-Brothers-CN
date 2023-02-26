@@ -96,7 +96,7 @@ msgstr "物品未分配到任何插槽。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to put stash item into bag."
-msgstr "未能将存储物品放入
+msgstr "未能将存储物品进背包。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to put ground item into bag."
