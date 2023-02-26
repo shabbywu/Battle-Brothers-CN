@@ -93,12 +93,12 @@ msgid "Have a heart"
 msgstr "有一颗心"
 
 # scripts/retinue/followers/minstrel_follower.nut
-msgid " settlements"
-msgstr ""
-
-# scripts/retinue/followers/minstrel_follower.nut
 msgid "The Minstrel"
 msgstr "吟游诗人"
+
+# scripts/retinue/followers/minstrel_follower.nut
+msgid " settlements"
+msgstr ""
 
 # scripts/retinue/followers/paymaster_follower.nut
 msgid "The Paymaster"
@@ -197,20 +197,20 @@ msgid "Reduces the chance of desertion by 50%"
 msgstr "减少50%的逃兵几率"
 
 # scripts/retinue/followers/cook_follower.nut
-msgid "Increases hitpoint healing rate by 33%"
-msgstr "增加33%的生命值治愈速度"
-
-# scripts/retinue/followers/cook_follower.nut
 msgid "Makes all provisions last 3 extra days"
 msgstr "使所有的食物能多维持3天"
 
-# scripts/retinue/followers/paymaster_follower.nut
-msgid "Reduces the daily wage of each man by 15%"
-msgstr "每人每日工资减少15%"
+# scripts/retinue/followers/cook_follower.nut
+msgid "Increases hitpoint healing rate by 33%"
+msgstr "增加33%的生命值治愈速度"
 
 # scripts/retinue/followers/paymaster_follower.nut
 msgid "Prevents men demanding more pay in events"
 msgstr "阻止你的人要求更高报酬的事件出现"
+
+# scripts/retinue/followers/paymaster_follower.nut
+msgid "Reduces the daily wage of each man by 15%"
+msgstr "每人每日工资减少15%"
 
 # scripts/retinue/followers/surgeon_follower.nut
 msgid "Makes every injury take one less day to heal"

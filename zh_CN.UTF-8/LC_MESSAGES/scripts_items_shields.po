@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 
 # scripts/items/shields/shield.nut
-msgid "player"
+msgid "shield"
 msgstr ""
 
 # scripts/items/shields/buckler_shield.nut
@@ -54,11 +54,11 @@ msgid "Melee Defense [color="
 msgstr ""
 
 # scripts/items/shields/shield.nut
-msgid "[/color] more fatigue"
+msgid "[/color] less fatigue"
 msgstr ""
 
 # scripts/items/shields/shield.nut
-msgid "[/color] less fatigue"
+msgid "[/color] more fatigue"
 msgstr ""
 
 # scripts/items/shields/wooden_shield.nut

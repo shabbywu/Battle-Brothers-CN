@@ -22,10 +22,6 @@ msgstr "格挡！"
 msgid "Go in."
 msgstr "进去。"
 
-# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid " suffers "
-msgstr " 遭受 "
-
 # scripts/events/events/dlc2/location/unhold_graveyard_event.nut
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 # scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
@@ -34,6 +30,10 @@ msgstr " 遭受 "
 # scripts/events/events/dlc2/location/witchhut_destroyed_event.nut
 msgid "You gain "
 msgstr "你获得了 "
+
+# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
+msgid " suffers "
+msgstr " 遭受 "
 
 # scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
 msgid "You lose "
@@ -73,12 +73,12 @@ msgid "Time to go."
 msgstr "该出发了。"
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "Let's do it."
-msgstr "让我们开始吧。"
-
-# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 msgid "We'll go in."
 msgstr "我们要进去了。"
+
+# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
+msgid "Let's do it."
+msgstr "让我们开始吧。"
 
 # scripts/events/events/dlc2/location/goblin_city_destroyed_event.nut
 msgid "Who is that?"
@@ -234,12 +234,12 @@ msgid "Reproach of the Old Gods"
 msgstr "古神之耻"
 
 # scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
-msgid "So what all do you know?"
-msgstr "因此你到底知道些什么？"
-
-# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
 msgid "You're a full on nutbar."
 msgstr "你是个十足的疯子。"
+
+# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
+msgid "So what all do you know?"
+msgstr "因此你到底知道些什么？"
 
 # scripts/events/events/dlc2/location/ancient_statue_event.nut
 msgid "Let's not dwell on this."
@@ -250,20 +250,20 @@ msgid "I'll just take a little."
 msgstr "我就喝一点点。"
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "No, that's not happening."
-msgstr "不, 那不会发生。"
-
-# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 msgid "Chirp. Chirp chirp chirp?"
 msgstr "啁啾。 啁啾啁啾啁啾？"
 
-# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
-msgid "So the deal is done then?"
-msgstr "那么交易完成了？"
+# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
+msgid "No, that's not happening."
+msgstr "不, 那不会发生。"
 
 # scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
 msgid "I'll bring you the hides."
 msgstr "我会把兽皮带给你的。"
+
+# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
+msgid "So the deal is done then?"
+msgstr "那么交易完成了？"
 
 # scripts/events/events/dlc2/location/fountain_of_youth_event.nut
 msgid "I... don't... understand."
@@ -298,12 +298,12 @@ msgid "Well, fine. You can join us."
 msgstr "好吧，很好。 你可以加入我们。"
 
 # scripts/events/events/dlc2/location/witchhut_enter_event.nut
-msgid "Stay here and stay on guard."
-msgstr "呆在这里注意防御。"
-
-# scripts/events/events/dlc2/location/witchhut_enter_event.nut
 msgid "We've already come this far."
 msgstr "我们已经付出了这么多。"
+
+# scripts/events/events/dlc2/location/witchhut_enter_event.nut
+msgid "Stay here and stay on guard."
+msgstr "呆在这里注意防御。"
 
 # scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
 msgid "I demand to be paid right now."
@@ -330,12 +330,12 @@ msgid "Let's see what secrets are inside."
 msgstr "让我们看看里面到底有什么秘密。"
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "Ah well. Two of the vials are ours."
-msgstr "啊，好吧。 这两个瓶子是我们的了。"
-
-# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 msgid "Seems dangerous. Let's get out now."
 msgstr "看起来很危险。 让我们现在出去吧。"
+
+# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
+msgid "Ah well. Two of the vials are ours."
+msgstr "啊，好吧。 这两个瓶子是我们的了。"
 
 # scripts/events/events/dlc2/location/waterwheel_enter_event.nut
 msgid "We'll have to resolve it ourselves."
@@ -370,12 +370,12 @@ msgid "Well, at least we got a lay of the land."
 msgstr "好吧, 至少我们有一块土地。"
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "From the brink a broken man must be saved."
-msgstr "必须拯救一个处于崩溃边缘的人。"
-
-# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 msgid "Glad someone else paid that price, though."
 msgstr "景观如此, 很高兴有人按照这个价格支付。"
+
+# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
+msgid "From the brink a broken man must be saved."
+msgstr "必须拯救一个处于崩溃边缘的人。"
 
 # scripts/events/events/dlc2/location/fountain_of_youth_event.nut
 msgid "We need to get the hell out of here. Fast."
@@ -394,12 +394,12 @@ msgid "We're done, then, and I shall take my leave."
 msgstr "我们完了，我应该离开了。"
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "Probably the best way to answer a riddle yet."
-msgstr "也许是回答一个谜语的最好方法。"
-
-# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 msgid "Well, we got vials for just that problem now."
 msgstr "好吧, 我们现在就有解决那个问题的瓶子。"
+
+# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
+msgid "Probably the best way to answer a riddle yet."
+msgstr "也许是回答一个谜语的最好方法。"
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 msgid "Still a successful go, all things considered."
@@ -1897,7 +1897,7 @@ msgstr ""
 "now.%SPEECH_OFF%You stare at it, but shrug. She drags her finger across the "
 "particularities of the drawing, as though her narration were etching it "
 "there and then.%SPEECH_ON%Moonlight. This battle occurred at night. What are"
-" these here, flying above the fight? Seagulls? 不。 Those are bats. What in "
+" these here, flying above the fight? Seagulls? No. Those are bats. What in "
 "the hells are bats doing flittering around in the middle of the ocean? And "
 "then there's this man here, at the helm of the ship, with the long ears and "
 "the black cloak. An interesting figure, no? And then there's this, a few "

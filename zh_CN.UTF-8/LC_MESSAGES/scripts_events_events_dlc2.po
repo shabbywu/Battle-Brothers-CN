@@ -39,11 +39,6 @@ msgstr "这可不行。"
 msgid " has died"
 msgstr " 是死了"
 
-# scripts/events/events/dlc2/treasure_in_rock_event.nut
-# scripts/events/events/dlc2/youngling_alp_event.nut
-msgid " suffers "
-msgstr " 遭受 "
-
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 # scripts/events/events/dlc2/monk_crafts_holy_water_event.nut
@@ -55,6 +50,11 @@ msgstr " 遭受 "
 # scripts/events/events/dlc2/corpses_in_forest_event.nut
 msgid "You gain "
 msgstr "你获得了 "
+
+# scripts/events/events/dlc2/treasure_in_rock_event.nut
+# scripts/events/events/dlc2/youngling_alp_event.nut
+msgid " suffers "
+msgstr " 遭受 "
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
 # scripts/events/events/dlc2/dog_in_swamp_event.nut
@@ -80,17 +80,13 @@ msgid "Lucky you."
 msgstr "你真幸运。"
 
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
-msgid "Let's dig!"
-msgstr "我们开挖吧！"
-
-# scripts/events/events/dlc2/treasure_in_rock_event.nut
 # scripts/events/events/dlc2/youngling_alp_event.nut
 msgid "Good work."
 msgstr "做得好。"
 
-# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
-msgid "Witnessed "
-msgstr ""
+# scripts/events/events/dlc2/treasure_in_rock_event.nut
+msgid "Let's dig!"
+msgstr "我们开挖吧！"
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "Nice shot!"
@@ -99,6 +95,10 @@ msgstr "射的好！"
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "Lucky guy."
 msgstr "幸运的家伙。"
+
+# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
+msgid "Witnessed "
+msgstr ""
 
 # scripts/events/events/dlc2/youngling_alp_event.nut
 msgid "Ignore it."
@@ -333,7 +333,7 @@ msgstr "你应该杀死它。"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "No. Run along, kid."
-msgstr "不。 快跑，孩子。"
+msgstr "No. 快跑，孩子。"
 
 # scripts/events/events/dlc2/miner_fresh_air_event.nut
 msgid "[/color] Max Fatigue"
@@ -604,13 +604,13 @@ msgid "Let's get the hell out of here."
 msgstr "让我们离开这个鬼地方吧。"
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
+msgid "Maybe two or three drinks, even."
+msgstr "可能会喝两三杯。"
+
+# scripts/events/events/dlc2/alp_nightmare2_event.nut
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
 msgid "I just hope you'll heal in time."
 msgstr "我只希望你能及时康复。"
-
-# scripts/events/events/dlc2/alp_nightmare2_event.nut
-msgid "Maybe two or three drinks, even."
-msgstr "可能会喝两三杯。"
 
 # scripts/events/events/dlc2/dog_in_swamp_event.nut
 msgid "Men, we've got to help that dog!"
@@ -716,12 +716,12 @@ msgid "What is %flagellant% saying about this?"
 msgstr "%flagellant% 是怎么说的？"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
-msgid "You should probably stay low for awhile."
-msgstr "你应该保持低调一段时间。"
-
-# scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "Brought his blacksmithing skills to bear"
 msgstr "带着他的铁匠技能去承受"
+
+# scripts/events/events/dlc2/kid_blacksmith_event.nut
+msgid "You should probably stay low for awhile."
+msgstr "你应该保持低调一段时间。"
 
 # scripts/events/events/dlc2/spooky_forest_event.nut
 msgid "Well, that was a worthwhile endeavour..."
@@ -756,12 +756,12 @@ msgid "Some miner's expertise could be of use here."
 msgstr "可以在这里使用一些矿工的专业知识。"
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
-msgid "Someone bring down that plumed transgressor!"
-msgstr "有人打倒了那个冒失的家伙！"
-
-# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "Yeah, don't dwell on it and let's get going."
 msgstr "是啊，别老想着了，我们走吧。"
+
+# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
+msgid "Someone bring down that plumed transgressor!"
+msgstr "有人打倒了那个冒失的家伙！"
 
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
 msgid "Any of you tiny enough to fit into that hole?"

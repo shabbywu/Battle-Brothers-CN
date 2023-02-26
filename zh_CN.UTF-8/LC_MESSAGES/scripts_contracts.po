@@ -42,13 +42,17 @@ msgstr ""
 msgid "[color=#30ac2a]"
 msgstr ""
 
-# scripts/contracts/contract.nut
-msgid "[color=#bcad8c]\""
+# scripts/contracts/contract_manager.nut
+msgid "contract added: "
 msgstr ""
 
 # scripts/contracts/contract.nut
 msgid "Broke a contract"
 msgstr "撕毁了合同"
+
+# scripts/contracts/contract.nut
+msgid "[color=#bcad8c]\""
+msgstr ""
 
 # scripts/contracts/contract.nut
 msgid ""
@@ -58,7 +62,15 @@ msgid ""
 msgstr ""
 
 # scripts/contracts/contract_manager.nut
+msgid "showing contract: "
+msgstr ""
+
+# scripts/contracts/contract_manager.nut
 msgid "contract removed: "
+msgstr ""
+
+# scripts/contracts/contract_manager.nut
+msgid "contract activated: "
 msgstr ""
 
 # scripts/contracts/contract.nut

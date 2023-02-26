@@ -30,10 +30,6 @@ msgstr "退出"
 msgid "Test"
 msgstr ""
 
-# scripts/states/tactical_state.nut
-msgid "actor"
-msgstr ""
-
 # scripts/states/world_state.nut
 msgid "Flee!"
 msgstr "逃走！"
@@ -63,12 +59,12 @@ msgid " round"
 msgstr "回合后"
 
 # scripts/states/tactical_state.nut
-msgid "Victory"
-msgstr "胜利"
-
-# scripts/states/tactical_state.nut
 msgid "Retreat"
 msgstr "撤退"
+
+# scripts/states/tactical_state.nut
+msgid "Victory"
+msgstr "胜利"
 
 # scripts/states/tactical_state.nut
 msgid "Retreat!"
@@ -111,20 +107,24 @@ msgid "Attacked them"
 msgstr "攻击他们"
 
 # scripts/states/tactical_state.nut
+msgid "] on target ["
+msgstr ""
+
+# scripts/states/tactical_state.nut
 msgid "Lost a battle"
 msgstr "输了一场战斗"
 
 # scripts/states/tactical_state.nut
-msgid "] on target ["
+msgid "Are you sure?"
+msgstr "你确定吗？"
+
+# scripts/states/tactical_state.nut
+msgid "Kill entity: "
 msgstr ""
 
 # scripts/states/tactical_state.nut
 msgid "Quit & Retire"
 msgstr "退出并退休"
-
-# scripts/states/tactical_state.nut
-msgid "Are you sure?"
-msgstr "你确定吗？"
 
 # scripts/states/main_menu_state.nut
 msgid "Combat Basics"
@@ -133,6 +133,10 @@ msgstr "战斗基础"
 # scripts/states/world_state.nut
 msgid "Fortifications"
 msgstr "防御工事"
+
+# scripts/states/world_state.nut
+msgid "Save version: "
+msgstr ""
 
 # scripts/states/tactical_state.nut
 msgid "Run them down!"
@@ -159,24 +163,28 @@ msgid "(Press Spacebar)"
 msgstr ""
 
 # scripts/states/tactical_state.nut
+msgid "Quit to Main Menu"
+msgstr "退出到主菜单"
+
+# scripts/states/tactical_state.nut
 msgid "*** AI PAUSED ***"
 msgstr ""
 
-# scripts/states/tactical_state.nut
-msgid "Quit to Main Menu"
-msgstr "退出到主菜单"
+# scripts/states/world_state.nut
+msgid "Location entered: "
+msgstr ""
 
 # scripts/states/tactical_state.nut
 msgid "*** AI RESUMED ***"
 msgstr ""
 
 # scripts/states/tactical_state.nut
-msgid "The Enemy Retreats"
-msgstr "敌人撤退了"
-
-# scripts/states/tactical_state.nut
 msgid "] executes skill ["
 msgstr ""
+
+# scripts/states/tactical_state.nut
+msgid "The Enemy Retreats"
+msgstr "敌人撤退了"
 
 # scripts/states/main_menu_state.nut
 msgid "Line Battle (Orcs)"
@@ -223,10 +231,6 @@ msgid "World Speed set to x9.0"
 msgstr ""
 
 # scripts/states/world_state.nut
-msgid "Fog Of War deactivated."
-msgstr ""
-
-# scripts/states/world_state.nut
 msgid "World Speed set to x4.0"
 msgstr ""
 
@@ -235,15 +239,19 @@ msgid "World Speed set to x5.0"
 msgstr ""
 
 # scripts/states/world_state.nut
-msgid "World Speed set to x3.0"
-msgstr ""
-
-# scripts/states/world_state.nut
 msgid "World Speed set to x6.0"
 msgstr ""
 
 # scripts/states/world_state.nut
 msgid "World Speed set to x7.0"
+msgstr ""
+
+# scripts/states/world_state.nut
+msgid "World Speed set to x3.0"
+msgstr ""
+
+# scripts/states/world_state.nut
+msgid "Fog Of War deactivated."
 msgstr ""
 
 # scripts/states/world_state.nut
@@ -271,7 +279,7 @@ msgid "The enemy retreated after "
 msgstr "敌人撤退了, 在"
 
 # scripts/states/world_state.nut
-msgid "Player can now be attacked."
+msgid "Player can NOT be attacked."
 msgstr ""
 
 # scripts/states/world_state.nut
@@ -279,7 +287,7 @@ msgid "Player is consuming assets."
 msgstr ""
 
 # scripts/states/world_state.nut
-msgid "Player can NOT be attacked."
+msgid "Player can now be attacked."
 msgstr ""
 
 # scripts/states/tactical_state.nut

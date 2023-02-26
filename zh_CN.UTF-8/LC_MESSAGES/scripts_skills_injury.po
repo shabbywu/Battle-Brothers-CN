@@ -524,12 +524,12 @@ msgid "Will not heal because you have no medical supplies"
 msgstr "不会痊愈，因为你没有医疗用品"
 
 # scripts/skills/injury/injury.nut
-msgid "Will not heal because this character has taken an oath of sacrifice"
-msgstr "不会痊愈，因为这个角色宣誓要献祭"
-
-# scripts/skills/injury/injury.nut
 msgid "Will take effect only after combat ends due to the Iron Will effect"
 msgstr "由于钢铁意志效果，只会在战斗结束后才会生效"
+
+# scripts/skills/injury/injury.nut
+msgid "Will not heal because this character has taken an oath of sacrifice"
+msgstr "不会痊愈，因为这个角色宣誓要献祭"
 
 # scripts/skills/injury/fractured_ribs_injury.nut
 msgid "Fractured ribs send a wave of pain through the body with every breath."

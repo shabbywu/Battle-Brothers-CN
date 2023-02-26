@@ -14,12 +14,28 @@ msgstr "梭矛"
 msgid "Lute"
 msgstr "鲁特琴"
 
+# scripts/items/weapons/lute.nut
+msgid "lute"
+msgstr ""
+
+# scripts/items/weapons/pike.nut
+msgid "pike"
+msgstr ""
+
 # scripts/items/weapons/flail.nut
 msgid "Flail"
 msgstr "连枷"
 
 # scripts/items/weapons/knife.nut
+msgid "knife"
+msgstr ""
+
+# scripts/items/weapons/knife.nut
 msgid "Knife"
+msgstr ""
+
+# scripts/items/weapons/flail.nut
+msgid "flail"
 msgstr ""
 
 # scripts/items/weapons/dagger.nut
@@ -27,12 +43,20 @@ msgid "Dagger"
 msgstr "匕首"
 
 # scripts/items/weapons/weapon.nut
-msgid "player"
+msgid "weapon"
+msgstr ""
+
+# scripts/items/weapons/dagger.nut
+msgid "dagger"
 msgstr ""
 
 # scripts/items/weapons/spetum.nut
 msgid "Spetum"
 msgstr "长戟"
+
+# scripts/items/weapons/spetum.nut
+msgid "spetum"
+msgstr ""
 
 # scripts/items/weapons/longaxe.nut
 msgid "Longaxe"
@@ -43,12 +67,28 @@ msgid "Handaxe"
 msgstr "手斧"
 
 # scripts/items/weapons/hatchet.nut
+msgid "hatchet"
+msgstr ""
+
+# scripts/items/weapons/hatchet.nut
 msgid "Hatchet"
 msgstr "小斧"
+
+# scripts/items/weapons/longaxe.nut
+msgid "longaxe"
+msgstr ""
+
+# scripts/items/weapons/javelin.nut
+msgid "javelin"
+msgstr ""
 
 # scripts/items/weapons/war_bow.nut
 msgid "War Bow"
 msgstr "战斗弓"
+
+# scripts/items/weapons/warfork.nut
+msgid "warfork"
+msgstr ""
 
 # scripts/items/weapons/warfork.nut
 msgid "Warfork"
@@ -58,25 +98,9 @@ msgstr "战叉"
 msgid "Pickaxe"
 msgstr "鹤嘴锄"
 
-# scripts/items/weapons/billhook.nut
-msgid "Billhook"
-msgstr "钩镰"
-
-# scripts/items/weapons/scimitar.nut
-msgid "Scimitar"
-msgstr "弯刀"
-
-# scripts/items/weapons/shamshir.nut
-msgid "Shamshir"
-msgstr "沙姆希尔"
-
-# scripts/items/weapons/crossbow.nut
-msgid "Crossbow"
-msgstr "弩"
-
-# scripts/items/weapons/bardiche.nut
-msgid "Bardiche"
-msgstr "月牙砍刀"
+# scripts/items/weapons/pickaxe.nut
+msgid "pickaxe"
+msgstr ""
 
 # scripts/items/weapons/warbrand.nut
 msgid "Warbrand"
@@ -86,25 +110,93 @@ msgstr "弯刀"
 msgid "Bludgeon"
 msgstr "大棒"
 
+# scripts/items/weapons/shamshir.nut
+msgid "Shamshir"
+msgstr "沙姆希尔"
+
+# scripts/items/weapons/bardiche.nut
+msgid "Bardiche"
+msgstr "月牙砍刀"
+
+# scripts/items/weapons/crossbow.nut
+msgid "Crossbow"
+msgstr "弩"
+
+# scripts/items/weapons/scimitar.nut
+msgid "Scimitar"
+msgstr "弯刀"
+
+# scripts/items/weapons/billhook.nut
+msgid "Billhook"
+msgstr "钩镰"
+
 # scripts/items/weapons/greataxe.nut
 msgid "Greataxe"
 msgstr "双手巨斧"
+
+# scripts/items/weapons/greataxe.nut
+msgid "greataxe"
+msgstr ""
+
+# scripts/items/weapons/crossbow.nut
+msgid "crossbow"
+msgstr ""
+
+# scripts/items/weapons/warbrand.nut
+msgid "warbrand"
+msgstr ""
+
+# scripts/items/weapons/bludgeon.nut
+msgid "bludgeon"
+msgstr ""
 
 # scripts/items/weapons/falchion.nut
 msgid "Falchion"
 msgstr "单刃剑"
 
+# scripts/items/weapons/falchion.nut
+msgid "falchion"
+msgstr ""
+
+# scripts/items/weapons/shamshir.nut
+msgid "shamshir"
+msgstr ""
+
+# scripts/items/weapons/bardiche.nut
+msgid "bardiche"
+msgstr ""
+
+# scripts/items/weapons/billhook.nut
+msgid "billhook"
+msgstr ""
+
+# scripts/items/weapons/scimitar.nut
+msgid "scimitar"
+msgstr ""
+
 # scripts/items/weapons/longsword.nut
 msgid "Longsword"
 msgstr "长剑"
+
+# scripts/items/weapons/longsword.nut
+msgid "longsword"
+msgstr ""
 
 # scripts/items/weapons/short_bow.nut
 msgid "Short Bow"
 msgstr "短弓"
 
 # scripts/items/weapons/warhammer.nut
+msgid "warhammer"
+msgstr ""
+
+# scripts/items/weapons/warhammer.nut
 msgid "Warhammer"
 msgstr "战锤"
+
+# scripts/items/weapons/scramasax.nut
+msgid "scramasax"
+msgstr ""
 
 # scripts/items/weapons/scramasax.nut
 msgid "Scramasax"
@@ -114,9 +206,17 @@ msgstr "撒克逊大刀"
 msgid "Pitchfork"
 msgstr "干草叉"
 
+# scripts/items/weapons/pitchfork.nut
+msgid "pitchfork"
+msgstr ""
+
 # scripts/items/weapons/wonky_bow.nut
 msgid "Wonky Bow"
 msgstr "靠不住的弓"
+
+# scripts/items/weapons/goedendag.nut
+msgid "goedendag"
+msgstr ""
 
 # scripts/items/weapons/goedendag.nut
 msgid "Goedendag"
@@ -131,12 +231,24 @@ msgid "Boar Spear"
 msgstr "野猪长矛"
 
 # scripts/items/weapons/polehammer.nut
+msgid "polehammer"
+msgstr ""
+
+# scripts/items/weapons/polehammer.nut
 msgid "Polehammer"
 msgstr "长锤"
+
+# scripts/items/weapons/greatsword.nut
+msgid "greatsword"
+msgstr ""
 
 # scripts/items/weapons/shortsword.nut
 msgid "Shortsword"
 msgstr "短剑"
+
+# scripts/items/weapons/shortsword.nut
+msgid "shortsword"
+msgstr ""
 
 # scripts/items/weapons/weapon.nut
 msgid "progressbar"
@@ -401,11 +513,11 @@ msgid "Crossbow, Two-Handed"
 msgstr ""
 
 # scripts/items/weapons/weapon.nut
-msgid "[/color] more fatigue"
+msgid "[/color] less fatigue"
 msgstr ""
 
 # scripts/items/weapons/weapon.nut
-msgid "[/color] less fatigue"
+msgid "[/color] more fatigue"
 msgstr ""
 
 # scripts/items/weapons/goedendag.nut

@@ -66,12 +66,12 @@ msgid "An Ambition Fulfilled"
 msgstr "一个野心达成"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
-msgid "You've already chosen "
-msgstr "你已经委派了 "
-
-# scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "It had to be this way."
 msgstr ""
+
+# scripts/events/events/special/oathtakers_confrontation_event.nut
+msgid "You've already chosen "
+msgstr "你已经委派了 "
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "You're still not ready!"
@@ -98,12 +98,12 @@ msgid "Reclaimed Young Anselm's jawbone"
 msgstr "夺回了小安瑟姆的下颌骨"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
-msgid "And death to the Oathbringers..."
-msgstr "致誓言使者之死…"
-
-# scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "The company lost to Oathbringers"
 msgstr ""
+
+# scripts/events/events/special/oathtakers_confrontation_event.nut
+msgid "And death to the Oathbringers..."
+msgstr "致誓言使者之死…"
 
 # scripts/events/events/special/retinue_slot_event.nut
 msgid "I'll take a look at our retinue!"

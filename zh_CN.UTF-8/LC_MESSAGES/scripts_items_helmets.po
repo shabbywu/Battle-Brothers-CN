@@ -7,15 +7,15 @@ msgid "'s "
 msgstr "的"
 
 # scripts/items/helmets/hood.nut
+msgid "hood"
+msgstr ""
+
+# scripts/items/helmets/hood.nut
 msgid "Hood"
 msgstr "兜帽"
 
 # scripts/items/helmets/helmet.nut
 msgid "helmet"
-msgstr ""
-
-# scripts/items/helmets/helmet.nut
-msgid "player"
 msgstr ""
 
 # scripts/items/helmets/mail_coif.nut
@@ -37,6 +37,10 @@ msgstr "全密封头盔"
 # scripts/items/helmets/headscarf.nut
 msgid "Headscarf"
 msgstr "头巾"
+
+# scripts/items/helmets/headscarf.nut
+msgid "headscarf"
+msgstr ""
 
 # scripts/items/helmets/kettle_hat.nut
 msgid "Kettle hat"

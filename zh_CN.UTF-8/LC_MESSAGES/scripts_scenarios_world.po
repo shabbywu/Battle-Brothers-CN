@@ -39,12 +39,12 @@ msgid "Gladiators"
 msgstr "角斗士"
 
 # scripts/scenarios/world/manhunters_scenario.nut
-msgid "Manhunters"
-msgstr "搜捕者"
-
-# scripts/scenarios/world/manhunters_scenario.nut
 msgid "the Beggar"
 msgstr ""
+
+# scripts/scenarios/world/manhunters_scenario.nut
+msgid "Manhunters"
+msgstr "搜捕者"
 
 # scripts/scenarios/world/anatomists_scenario.nut
 msgid "Anatomists"
@@ -172,16 +172,16 @@ msgid "Has recently become a father"
 msgstr "最近成了父亲"
 
 # scripts/scenarios/world/manhunters_scenario.nut
-msgid "]-25%[/color] Experience Gain"
-msgstr "]-25%[/color] 经验获取"
-
-# scripts/scenarios/world/manhunters_scenario.nut
 msgid "]+10%[/color] Experience Gain"
 msgstr "]+10%[/color] 经验获取"
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "]-10%[/color] Experience Gain"
 msgstr "]-10%[/color] 经验获取"
+
+# scripts/scenarios/world/manhunters_scenario.nut
+msgid "]-25%[/color] Experience Gain"
+msgstr "]-25%[/color] 经验获取"
 
 # scripts/scenarios/world/militia_scenario.nut
 msgid "Feels somewhat sickly of late"

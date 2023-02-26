@@ -19,6 +19,10 @@ msgstr "灌木丛"
 msgid "Idol"
 msgstr "神像"
 
+# scripts/entity/tactical/objects/cart.nut
+msgid "cart"
+msgstr ""
+
 # scripts/entity/tactical/objects/goblin_camp_cage.nut
 msgid "Cage"
 msgstr "笼子"
@@ -49,6 +53,10 @@ msgstr "火盆"
 # scripts/entity/tactical/objects/desert_camp_standard.nut
 msgid "Weapons"
 msgstr "武器"
+
+# scripts/entity/tactical/objects/boulder.nut
+msgid "boulder"
+msgstr ""
 
 # scripts/entity/tactical/objects/desert_camp_marquee.nut
 msgid "Marquee"
@@ -92,6 +100,10 @@ msgstr "家具"
 # scripts/entity/tactical/objects/arena_spectator.nut
 msgid "Spectator"
 msgstr "观众"
+
+# scripts/entity/tactical/objects/cartwheel.nut
+msgid "cartwheel"
+msgstr ""
 
 # scripts/entity/tactical/objects/tree_stump1.nut
 # scripts/entity/tactical/objects/tree_stump2.nut

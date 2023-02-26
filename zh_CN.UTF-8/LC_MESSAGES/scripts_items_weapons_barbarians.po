@@ -14,6 +14,10 @@ msgstr "石斧"
 msgid "Axehammer"
 msgstr "斧锤"
 
+# scripts/items/weapons/barbarians/axehammer.nut
+msgid "axehammer"
+msgstr ""
+
 # scripts/items/weapons/barbarians/claw_club.nut
 msgid "Claw Club"
 msgstr "爪棒"

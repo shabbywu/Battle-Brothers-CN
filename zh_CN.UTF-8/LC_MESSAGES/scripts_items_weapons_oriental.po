@@ -6,17 +6,37 @@ msgstr ""
 msgid "Saif"
 msgstr "赛义夫弯刀"
 
+# scripts/items/weapons/oriental/saif.nut
+msgid "saif"
+msgstr ""
+
 # scripts/items/weapons/oriental/polemace.nut
 msgid "Polemace"
 msgstr "长棍"
+
+# scripts/items/weapons/oriental/polemace.nut
+msgid "polemace"
+msgstr ""
+
+# scripts/items/weapons/oriental/handgonne.nut
+msgid "handgonne"
+msgstr ""
 
 # scripts/items/weapons/oriental/handgonne.nut
 msgid "Handgonne"
 msgstr "手炮"
 
+# scripts/items/weapons/oriental/firelance.nut
+msgid "firelance"
+msgstr ""
+
 # scripts/items/weapons/oriental/swordlance.nut
 msgid "Swordlance"
 msgstr "刃矛"
+
+# scripts/items/weapons/oriental/swordlance.nut
+msgid "swordlance"
+msgstr ""
 
 # scripts/items/weapons/oriental/nomad_mace.nut
 msgid "Nomad Mace"

@@ -3,6 +3,10 @@ msgid ""
 msgstr ""
 
 # scripts/states/world/asset_manager.nut
+msgid "The "
+msgstr ""
+
+# scripts/states/world/asset_manager.nut
 msgid "the "
 msgstr ""
 
@@ -36,6 +40,10 @@ msgid ""
 "\n"
 "[color=#bcad8c]\""
 msgstr ""
+
+# scripts/states/world/asset_manager.nut
+msgid "Has enjoyed the visit to "
+msgstr "喜欢访问 "
 
 # scripts/states/world/asset_manager.nut
 msgid "The company standard was lost"

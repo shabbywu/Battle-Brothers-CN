@@ -2,10 +2,6 @@
 msgid ""
 msgstr ""
 
-# scripts/skills/perks/perk_fast_adaption.nut
-msgid "actor"
-msgstr ""
-
 # scripts/skills/perks/perk_nimble.nut
 # scripts/skills/perks/perk_battle_forged.nut
 msgid "Only receive [color="

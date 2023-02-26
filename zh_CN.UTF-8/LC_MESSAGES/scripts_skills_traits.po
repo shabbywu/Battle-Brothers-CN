@@ -104,22 +104,22 @@ msgstr "胆小"
 msgid "Greedy"
 msgstr "贪婪"
 
-# scripts/skills/traits/iron_jaw_trait.nut
-msgid "Ironjaw"
-msgstr "铁爪"
+# scripts/skills/traits/hate_greenskins_trait.nut
+msgid "Orcbane"
+msgstr "奥克班"
 
 # scripts/skills/traits/dumb_trait.nut
 # scripts/skills/traits/deathwish_trait.nut
 msgid "the Odd"
 msgstr "奇怪的"
 
-# scripts/skills/traits/hate_greenskins_trait.nut
-msgid "Orcbane"
-msgstr "奥克班"
-
 # scripts/skills/traits/loyal_trait.nut
 msgid "the Dog"
 msgstr "狗"
+
+# scripts/skills/traits/iron_jaw_trait.nut
+msgid "Ironjaw"
+msgstr "铁爪"
 
 # scripts/skills/traits/bright_trait.nut
 msgid "the Fox"
@@ -155,11 +155,11 @@ msgid "Bleeder"
 msgstr "出血"
 
 # scripts/skills/traits/fat_trait.nut
-msgid "the Fat"
+msgid "the Pig"
 msgstr ""
 
 # scripts/skills/traits/fat_trait.nut
-msgid "the Pig"
+msgid "the Fat"
 msgstr ""
 
 # scripts/skills/traits/iron_jaw_trait.nut
@@ -249,13 +249,13 @@ msgstr "乐观"
 msgid "Insecure"
 msgstr "不安"
 
-# scripts/skills/traits/swift_trait.nut
-msgid "the Swift"
-msgstr "斯威夫特"
-
 # scripts/skills/traits/bloodthirsty_trait.nut
 msgid "the Cruel"
 msgstr "残酷的"
+
+# scripts/skills/traits/swift_trait.nut
+msgid "the Swift"
+msgstr "斯威夫特"
 
 # scripts/skills/traits/dumb_trait.nut
 msgid "the Idiot"
@@ -304,11 +304,11 @@ msgid "Quickfeet"
 msgstr ""
 
 # scripts/skills/traits/tiny_trait.nut
-msgid "the Dwarf"
+msgid "the Short"
 msgstr ""
 
 # scripts/skills/traits/tiny_trait.nut
-msgid "the Short"
+msgid "the Dwarf"
 msgstr ""
 
 # scripts/skills/traits/pessimist_trait.nut
@@ -329,11 +329,11 @@ msgid "the Drunk"
 msgstr ""
 
 # scripts/skills/traits/huge_trait.nut
-msgid "the Tower"
+msgid "the Giant"
 msgstr ""
 
 # scripts/skills/traits/huge_trait.nut
-msgid "the Giant"
+msgid "the Tower"
 msgstr ""
 
 # scripts/skills/traits/deathwish_trait.nut
@@ -341,12 +341,12 @@ msgid "Deathwish"
 msgstr "死亡意志"
 
 # scripts/skills/traits/impatient_trait.nut
-msgid "Impatient"
-msgstr "不耐烦"
-
-# scripts/skills/traits/impatient_trait.nut
 msgid "the Eager"
 msgstr ""
+
+# scripts/skills/traits/impatient_trait.nut
+msgid "Impatient"
+msgstr "不耐烦"
 
 # scripts/skills/traits/night_owl_trait.nut
 msgid "Night Owl"
@@ -361,14 +361,14 @@ msgid "the Strong"
 msgstr ""
 
 # scripts/skills/traits/dastard_trait.nut
-# scripts/skills/traits/weasel_trait.nut
 # scripts/skills/traits/craven_trait.nut
-msgid "the Coward"
+msgid "the Craven"
 msgstr ""
 
 # scripts/skills/traits/dastard_trait.nut
+# scripts/skills/traits/weasel_trait.nut
 # scripts/skills/traits/craven_trait.nut
-msgid "the Craven"
+msgid "the Coward"
 msgstr ""
 
 # scripts/skills/traits/bright_trait.nut
@@ -388,11 +388,11 @@ msgid "the Hammer"
 msgstr ""
 
 # scripts/skills/traits/ailing_trait.nut
-msgid "the Ailing"
+msgid "the Sickly"
 msgstr ""
 
 # scripts/skills/traits/ailing_trait.nut
-msgid "the Sickly"
+msgid "the Ailing"
 msgstr ""
 
 # scripts/skills/traits/determined_trait.nut
@@ -671,11 +671,11 @@ msgid "]-5[/color] Resolve"
 msgstr ""
 
 # scripts/skills/traits/oath_of_sacrifice_trait.nut
-msgid "Injuries do not heal"
+msgid "Is not paid any wage"
 msgstr ""
 
 # scripts/skills/traits/oath_of_sacrifice_trait.nut
-msgid "Is not paid any wage"
+msgid "Injuries do not heal"
 msgstr ""
 
 # scripts/skills/traits/old_trait.nut
@@ -991,11 +991,11 @@ msgid "]0%[/color] Experience Gain for allied kills"
 msgstr ""
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
-msgid "]+10[/color] Melee Skill when fighting beasts"
+msgid "]-10[/color] Resolve when not fighting beasts"
 msgstr ""
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
-msgid "]-10[/color] Resolve when not fighting beasts"
+msgid "]+10[/color] Melee Skill when fighting beasts"
 msgstr ""
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
@@ -1101,11 +1101,11 @@ msgid "]-5[/color] Ranged Skill when not fighting undead"
 msgstr ""
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
-msgid "]-10[/color] Resolve when not fighting greenskins"
+msgid "]+10[/color] Melee Skill when fighting greenskins"
 msgstr ""
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
-msgid "]+10[/color] Melee Skill when fighting greenskins"
+msgid "]-10[/color] Resolve when not fighting greenskins"
 msgstr ""
 
 # scripts/skills/traits/old_trait.nut
@@ -1117,11 +1117,11 @@ msgid "]-5[/color] Melee Defense when not fighting undead"
 msgstr ""
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
-msgid "]+10[/color] Ranged Skill when fighting greenskins"
+msgid "]+5[/color] Melee Defense when fighting greenskins"
 msgstr ""
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
-msgid "]+5[/color] Melee Defense when fighting greenskins"
+msgid "]+10[/color] Ranged Skill when fighting greenskins"
 msgstr ""
 
 # scripts/skills/traits/teamplayer_trait.nut
@@ -1189,11 +1189,11 @@ msgid "Will start combat at confident morale if permitted by mood"
 msgstr "如果心情允许，将以自信的士气开始战斗"
 
 # scripts/skills/traits/oath_of_distinction_trait.nut
-msgid "]+10%[/color] damage if there are no allies in adjacent tiles"
+msgid "]+10[/color] Resolve if there are no allies in adjacent tiles"
 msgstr ""
 
 # scripts/skills/traits/oath_of_distinction_trait.nut
-msgid "]+10[/color] Resolve if there are no allies in adjacent tiles"
+msgid "]+10%[/color] damage if there are no allies in adjacent tiles"
 msgstr ""
 
 # scripts/skills/traits/iron_jaw_trait.nut

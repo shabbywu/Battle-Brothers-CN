@@ -16,7 +16,7 @@ msgstr "树精之盾"
 
 # scripts/items/shields/special/craftable_schrat_shield.nut
 msgid "Regenerates itself by [color="
-msgstr ""
+msgstr "回复自身 [color="
 
 # scripts/items/shields/special/craftable_schrat_shield.nut
 msgid "]20[/color] points of durability each turn."

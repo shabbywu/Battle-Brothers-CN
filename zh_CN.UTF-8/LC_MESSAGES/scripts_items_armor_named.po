@@ -13,16 +13,16 @@ msgid "Ward"
 msgstr "监狱"
 
 # scripts/items/armor/named/black_leather_armor.nut
-msgid "Coat"
-msgstr "外套"
+msgid "Peel"
+msgstr "外皮"
 
 # scripts/items/armor/named/black_leather_armor.nut
 msgid "Skin"
 msgstr "皮肤"
 
 # scripts/items/armor/named/black_leather_armor.nut
-msgid "Peel"
-msgstr "外皮"
+msgid "Coat"
+msgstr "外套"
 
 # scripts/items/armor/named/heraldic_mail_armor.nut
 msgid "Duty"
@@ -62,14 +62,14 @@ msgstr "阻截者"
 
 # scripts/items/armor/named/named_golden_lamellar_armor.nut
 # scripts/items/armor/named/brown_coat_of_plates_armor.nut
-# scripts/items/armor/named/green_coat_of_plates_armor.nut
-msgid "Harness"
-msgstr "甲胄"
+msgid "Defense"
+msgstr "防卫"
 
 # scripts/items/armor/named/named_golden_lamellar_armor.nut
 # scripts/items/armor/named/brown_coat_of_plates_armor.nut
-msgid "Defense"
-msgstr "防卫"
+# scripts/items/armor/named/green_coat_of_plates_armor.nut
+msgid "Harness"
+msgstr "甲胄"
 
 # scripts/items/armor/named/green_coat_of_plates_armor.nut
 msgid "Carapace"
@@ -93,12 +93,12 @@ msgid "Suncloak"
 msgstr "太阳斗篷"
 
 # scripts/items/armor/named/golden_scale_armor.nut
-msgid "Wyrmskin"
-msgstr "古龙皮"
-
-# scripts/items/armor/named/golden_scale_armor.nut
 msgid "Goldskin"
 msgstr "黄金之皮"
+
+# scripts/items/armor/named/golden_scale_armor.nut
+msgid "Wyrmskin"
+msgstr "古龙皮"
 
 # scripts/items/armor/named/black_leather_armor.nut
 msgid "Dark Omen"
@@ -109,12 +109,12 @@ msgid "Lifesaver"
 msgstr "救生者"
 
 # scripts/items/armor/named/heraldic_mail_armor.nut
-msgid "Pageantry"
-msgstr "盛典"
-
-# scripts/items/armor/named/heraldic_mail_armor.nut
 msgid "Chainmail"
 msgstr "锁甲"
+
+# scripts/items/armor/named/heraldic_mail_armor.nut
+msgid "Pageantry"
+msgstr "盛典"
 
 # scripts/items/armor/named/heraldic_mail_armor.nut
 msgid "Full Mail"
@@ -163,12 +163,12 @@ msgid "Padded Mail"
 msgstr "镶甲"
 
 # scripts/items/armor/named/brown_coat_of_plates_armor.nut
-msgid "Plated Vest"
-msgstr "护板背心"
-
-# scripts/items/armor/named/brown_coat_of_plates_armor.nut
 msgid "Plate Armor"
 msgstr "板甲"
+
+# scripts/items/armor/named/brown_coat_of_plates_armor.nut
+msgid "Plated Vest"
+msgstr "护板背心"
 
 # scripts/items/armor/named/heraldic_mail_armor.nut
 msgid "Grandiosity"
@@ -232,12 +232,12 @@ msgid "Lindwurm Coat"
 msgstr "林德沃姆大衣"
 
 # scripts/items/armor/named/lindwurm_armor.nut
-msgid "Dragon's Hide"
-msgstr "龙皮"
-
-# scripts/items/armor/named/lindwurm_armor.nut
 msgid "Lizard's Coat"
 msgstr "蜥蜴大衣"
+
+# scripts/items/armor/named/lindwurm_armor.nut
+msgid "Dragon's Hide"
+msgstr "龙皮"
 
 # scripts/items/armor/named/black_and_gold_armor.nut
 msgid "Gilder's Skin"
@@ -325,12 +325,12 @@ msgid "Primitive Harness"
 msgstr ""
 
 # scripts/items/armor/named/named_bronze_armor.nut
-msgid "Alloy Plate Armor"
-msgstr "合金板装甲"
-
-# scripts/items/armor/named/named_bronze_armor.nut
 msgid "Tarnished Harness"
 msgstr "失去光泽的甲胄"
+
+# scripts/items/armor/named/named_bronze_armor.nut
+msgid "Alloy Plate Armor"
+msgstr "合金板装甲"
 
 # scripts/items/armor/named/named_plated_fur_armor.nut
 msgid "Plate-covered Hide"
