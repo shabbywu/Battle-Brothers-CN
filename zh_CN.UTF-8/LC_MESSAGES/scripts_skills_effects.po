@@ -1,10 +1,24 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-26 07:54+0000\n"
+"PO-Revision-Date: 2023-02-26 07:54+0000\n"
+"Last-Translator: shabbywu <shabbywu@qq.com>\n"
+"Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/"
+"projects/Battle-Brothers-CN/scripts_skills_effects/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.15.2\n"
+
+#
 
 # scripts/skills/effects/overwhelmed_effect.nut
 msgid " (x"
-msgstr ""
+msgstr " (x"
 
 # scripts/skills/effects/hex_slave_effect.nut
 msgid "Hex"
@@ -29,7 +43,7 @@ msgstr "吞噬"
 # scripts/skills/effects/unhold_potion_effect.nut
 # scripts/skills/effects/necrosavant_potion_effect.nut
 msgid " points"
-msgstr ""
+msgstr " 点"
 
 # scripts/skills/effects/chilled_effect.nut
 msgid "Chilled"
@@ -61,7 +75,7 @@ msgstr "被嘲讽"
 
 # scripts/skills/effects/necromancer_potion_effect.nut
 msgid "Visions"
-msgstr ""
+msgstr "幻觉"
 
 # scripts/skills/effects/whipped_effect.nut
 msgid "Whipped"
@@ -73,7 +87,7 @@ msgstr "流血"
 
 # scripts/skills/effects/disarmed_effect.nut
 msgid "Disarmed"
-msgstr ""
+msgstr "解除武装"
 
 # scripts/skills/effects/goblin_poison_effect.nut
 # scripts/skills/effects/spider_poison_effect.nut
@@ -86,27 +100,31 @@ msgstr "嘲弄"
 
 # scripts/skills/effects/withered_effect.nut
 msgid "Withered"
-msgstr ""
+msgstr "老化"
 
 # scripts/skills/effects/charmed_effect.nut
+#, fuzzy
 msgid "fff3e500"
-msgstr ""
+msgstr "fff3e500"
 
 # scripts/skills/effects/charmed_effect.nut
+#, fuzzy
 msgid "fff3e50f"
-msgstr ""
+msgstr "fff3e50f"
 
 # scripts/skills/effects/charmed_effect.nut
+#, fuzzy
 msgid "ffffff00"
-msgstr ""
+msgstr "ffffff00"
 
 # scripts/skills/effects/charmed_effect.nut
+#, fuzzy
 msgid "ffffff5f"
-msgstr ""
+msgstr "ffffff5f"
 
 # scripts/skills/effects/swallowed_whole_effect.nut
 msgid "Devoured "
-msgstr ""
+msgstr "被吞噬 "
 
 # scripts/skills/effects/kraken_ensnare_effect.nut
 # scripts/skills/effects/serpent_ensnare_effect.nut
@@ -131,7 +149,7 @@ msgstr "支配"
 
 # scripts/skills/effects/reforming_effect.nut
 msgid "Reforming"
-msgstr ""
+msgstr "重塑中"
 
 # scripts/skills/effects/spearwall_effect.nut
 msgid "Spearwall"
@@ -147,7 +165,7 @@ msgstr "隐身"
 
 # scripts/skills/effects/whipped_effect.nut
 msgid " round(s)."
-msgstr ""
+msgstr " 回合。"
 
 # scripts/skills/effects/adrenaline_effect.nut
 msgid "Adrenaline"
@@ -175,12 +193,12 @@ msgstr "盾墙"
 
 # scripts/skills/effects/ifrit_potion_effect.nut
 msgid "Stone Skin"
-msgstr ""
+msgstr "石头皮肤"
 
 # scripts/skills/effects/unhold_potion_effect.nut
 # scripts/skills/effects/necrosavant_potion_effect.nut
 msgid " heals for "
-msgstr ""
+msgstr " 治疗生命值 "
 
 # scripts/skills/effects/debilitated_effect.nut
 msgid "Debilitated"
@@ -192,7 +210,7 @@ msgstr "不屈不挠"
 
 # scripts/skills/effects/overwhelmed_effect.nut
 msgid "Overwhelmed"
-msgstr ""
+msgstr "被压制"
 
 # scripts/skills/effects/orc_berserker_potion_effect.nut
 # scripts/skills/effects/berserker_rage_effect.nut
@@ -206,27 +224,28 @@ msgstr " 中毒了"
 
 # scripts/skills/effects/lindwurm_potion_effect.nut
 msgid "Acidic blood"
-msgstr ""
+msgstr "酸性血液"
 
 # scripts/skills/effects/drums_of_war_effect.nut
 msgid "Drums of War"
 msgstr "战争之鼓"
 
 # scripts/skills/effects/rachegeist_potion_effect.nut
+#, fuzzy
 msgid "Ghastly Aura"
-msgstr ""
+msgstr "阴森的光环"
 
 # scripts/skills/effects/necrosavant_potion_effect.nut
 msgid "Heal [color="
-msgstr ""
+msgstr "治疗 [color="
 
 # scripts/skills/effects/night_vision_effect.nut
 msgid "Night Vision"
-msgstr ""
+msgstr "夜视"
 
 # scripts/skills/effects/shellshocked_effect.nut
 msgid "Shellshocked"
-msgstr ""
+msgstr "被惊吓"
 
 # scripts/skills/effects/bleeding_effect.nut
 msgid "Bled to death"
@@ -234,7 +253,7 @@ msgstr "流血至死"
 
 # scripts/skills/effects/unhold_potion_effect.nut
 msgid "Heals [color="
-msgstr ""
+msgstr "治疗 [color="
 
 # scripts/skills/effects/orc_young_potion_effect.nut
 msgid "Kinetic Blows"
@@ -242,7 +261,7 @@ msgstr "动能打击"
 
 # scripts/skills/effects/orc_berserker_potion_effect.nut
 msgid "Berserker Rage"
-msgstr ""
+msgstr "狂战士之怒"
 
 # scripts/skills/effects/double_strike_effect.nut
 msgid "Double Strike!"
@@ -250,11 +269,11 @@ msgstr "双重打击!"
 
 # scripts/skills/effects/skeleton_warrior_potion_effect.nut
 msgid "Locking Joints"
-msgstr ""
+msgstr "四肢硬化"
 
 # scripts/skills/effects/goblin_overseer_potion_effect.nut
 msgid "Mutated Cornea"
-msgstr ""
+msgstr "突变角膜"
 
 # scripts/skills/effects/net_effect.nut
 msgid "Trapped in Net"
@@ -266,11 +285,11 @@ msgstr "陷在网中"
 
 # scripts/skills/effects/kraken_potion_effect.nut
 msgid "Ascendant Flesh"
-msgstr ""
+msgstr "兽化"
 
 # scripts/skills/effects/hex_slave_effect.nut
 msgid "Died from a hex"
-msgstr ""
+msgstr "痛苦锁链"
 
 # scripts/skills/effects/killing_frenzy_effect.nut
 msgid "Killing Frenzy!"
@@ -278,15 +297,15 @@ msgstr "杀戮狂暴!"
 
 # scripts/skills/effects/geist_potion_effect.nut
 msgid "Kinetic Coating"
-msgstr ""
+msgstr "应激动能分泌"
 
 # scripts/skills/effects/necrosavant_potion_effect.nut
 msgid "Parasitic Blood"
-msgstr ""
+msgstr "吸血水蛭"
 
 # scripts/skills/effects/hexe_potion_effect.nut
 msgid "Reflect [color="
-msgstr ""
+msgstr "反射 [color="
 
 # scripts/skills/effects/voice_of_davkul_effect.nut
 msgid "Voice of Davkul"
@@ -294,16 +313,16 @@ msgstr "达库尔的声音"
 
 # scripts/skills/effects/goblin_poison_effect.nut
 msgid "[/color] Vision"
-msgstr ""
+msgstr "[/color] 视野"
 
 # scripts/skills/effects/shellshocked_effect.nut
 # scripts/skills/effects/withered_effect.nut
 msgid "%[/color] Damage"
-msgstr ""
+msgstr "%[/color] 伤害"
 
 # scripts/skills/effects/smoke_effect.nut
 msgid "Covered by Smoke"
-msgstr ""
+msgstr "烟雾笼罩"
 
 # scripts/skills/effects/spider_poison_effect.nut
 msgid "Died from poison"
@@ -311,7 +330,7 @@ msgstr "死于中毒"
 
 # scripts/skills/effects/lionheart_potion_effect.nut
 msgid "Enhanced Bravery"
-msgstr ""
+msgstr "勇气鼓舞"
 
 # scripts/skills/effects/recovery_potion_effect.nut
 msgid "Enhanced Stamina"
@@ -327,7 +346,7 @@ msgstr "为了战队！"
 
 # scripts/skills/effects/antidote_effect.nut
 msgid "Immune to Poison"
-msgstr ""
+msgstr "对毒免疫"
 
 # scripts/skills/effects/insect_swarm_effect.nut
 msgid "Swarm of Insects"
@@ -1248,10 +1267,11 @@ msgid ""
 msgstr ""
 
 # scripts/skills/effects/orc_berserker_potion_effect.nut
+#, fuzzy
 msgid ""
 "This character gains two stacks of Rage each time they take hitpoint damage,"
 " and loses one stack at the end of each turn."
-msgstr ""
+msgstr "该角色每次受到生命值伤害时获得两层怒气，并在每个回合结束时失去一层怒气。"
 
 # scripts/skills/effects/staggered_effect.nut
 msgid ""
