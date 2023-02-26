@@ -11,13 +11,13 @@ msgstr "盔甲"
 msgid "Ritual Helmet"
 msgstr "仪式头盔"
 
-# scripts/items/helmets/barbarians/leather_helmet.nut
-msgid "Leather Helmet"
-msgstr "皮革头盔"
-
 # scripts/items/helmets/barbarians/bear_headpiece.nut
 msgid "Bear Headpiece"
 msgstr "熊头帽"
+
+# scripts/items/helmets/barbarians/leather_helmet.nut
+msgid "Leather Helmet"
+msgstr "皮革头盔"
 
 # scripts/items/helmets/barbarians/leather_headband.nut
 msgid "Leather Headband"
@@ -35,23 +35,23 @@ msgstr "粗糙的防护面罩"
 msgid "Beastmaster's Headpiece"
 msgstr "兽王帽"
 
-# scripts/items/helmets/barbarians/heavy_horned_plate_helmet.nut
-msgid "Heavy Horned Plate Helmet"
-msgstr "重型角板头盔"
-
 # scripts/items/helmets/barbarians/closed_scrap_metal_helmet.nut
 msgid "Closed Scrap Metal Helmet"
 msgstr "封闭式废金属头盔"
+
+# scripts/items/helmets/barbarians/heavy_horned_plate_helmet.nut
+msgid "Heavy Horned Plate Helmet"
+msgstr "重型角板头盔"
 
 # scripts/items/helmets/barbarians/leather_headband.nut
 msgid "A dried and folded leather headband designed to protect the forehead."
 msgstr "一种用来保护额头的风干折叠式头巾。"
 
-# scripts/items/helmets/barbarians/closed_scrap_metal_helmet.nut
+# scripts/items/helmets/barbarians/crude_faceguard_helmet.nut
 msgid ""
-"This heavy metal helmet also protects the wearer's face, albeit at the cost "
-"of visibility."
-msgstr "这种重型头盔能够很好的保护穿戴者的脸部，尽管它影响了视线。"
+"A crude and rusty barbarian helmet. What it lacks in finesse it makes up for"
+" in thickness."
+msgstr "粗糙生锈的野蛮人头盔。 其厚度弥补了制作技巧的不足。"
 
 # scripts/items/helmets/barbarians/crude_metal_helmet.nut
 msgid ""
@@ -59,11 +59,11 @@ msgid ""
 "piece of armor."
 msgstr "尽管这头盔既粗糙还生锈，但还是一顶坚固耐用的盔甲。"
 
-# scripts/items/helmets/barbarians/crude_faceguard_helmet.nut
+# scripts/items/helmets/barbarians/closed_scrap_metal_helmet.nut
 msgid ""
-"A crude and rusty barbarian helmet. What it lacks in finesse it makes up for"
-" in thickness."
-msgstr "粗糙生锈的野蛮人头盔。 其厚度弥补了制作技巧的不足。"
+"This heavy metal helmet also protects the wearer's face, albeit at the cost "
+"of visibility."
+msgstr "这种重型头盔能够很好的保护穿戴者的脸部，尽管它影响了视线。"
 
 # scripts/items/helmets/barbarians/beastmasters_headpiece.nut
 msgid ""

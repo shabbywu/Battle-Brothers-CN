@@ -14,10 +14,6 @@ msgstr "树枝"
 msgid "Jagged Pike"
 msgstr "锯齿峰矛"
 
-# scripts/items/weapons/greenskins/orc_axe_2h.nut
-msgid "Man Splitter"
-msgstr "劈人斧"
-
 # scripts/items/weapons/greenskins/goblin_bow.nut
 msgid "Boondock Bow"
 msgstr "处刑之弓"
@@ -30,6 +26,14 @@ msgstr "粗糙的权杖"
 msgid "Head Chopper"
 msgstr "斩首刀"
 
+# scripts/items/weapons/greenskins/orc_axe_2h.nut
+msgid "Man Splitter"
+msgstr "劈人斧"
+
+# scripts/items/weapons/greenskins/orc_flail_2h.nut
+msgid "Berserk Chain"
+msgstr ""
+
 # scripts/items/weapons/greenskins/goblin_spear.nut
 msgid "Goblin Skewer"
 msgstr "哥布林烤肉叉"
@@ -38,24 +42,24 @@ msgstr "哥布林烤肉叉"
 msgid "Head Splitter"
 msgstr "劈头斧"
 
-# scripts/items/weapons/greenskins/orc_flail_2h.nut
-msgid "Berserk Chain"
-msgstr ""
-
 # scripts/items/weapons/greenskins/goblin_notched_blade.nut
 msgid "Notched Blade"
 msgstr "齿痕刃片"
-
-# scripts/items/weapons/greenskins/goblin_crossbow.nut
-msgid "Spiked Impaler"
-msgstr "尖刺者"
 
 # scripts/items/weapons/greenskins/goblin_falchion.nut
 msgid "Cruel Falchion"
 msgstr "残忍的弯形剑"
 
+# scripts/items/weapons/greenskins/goblin_crossbow.nut
+msgid "Spiked Impaler"
+msgstr "尖刺者"
+
 # scripts/items/weapons/greenskins/orc_axe.nut
 msgid "Axe, One-Handed"
+msgstr ""
+
+# scripts/items/weapons/greenskins/orc_axe_2h.nut
+msgid "Axe, Two-Handed"
 msgstr ""
 
 # scripts/items/weapons/greenskins/goblin_heavy_bow.nut
@@ -63,14 +67,14 @@ msgstr ""
 msgid "Bow, Two-Handed"
 msgstr ""
 
-# scripts/items/weapons/greenskins/orc_axe_2h.nut
-msgid "Axe, Two-Handed"
-msgstr ""
-
 # scripts/items/weapons/greenskins/orc_metal_club.nut
 # scripts/items/weapons/greenskins/orc_wooden_club.nut
 # scripts/items/weapons/greenskins/goblin_staff.nut
 msgid "Mace, One-Handed"
+msgstr ""
+
+# scripts/items/weapons/greenskins/orc_flail_2h.nut
+msgid "Flail, Two-Handed"
 msgstr ""
 
 # scripts/items/weapons/greenskins/goblin_spear.nut
@@ -81,16 +85,12 @@ msgstr ""
 msgid "Sword, One-Handed"
 msgstr ""
 
-# scripts/items/weapons/greenskins/orc_flail_2h.nut
-msgid "Flail, Two-Handed"
+# scripts/items/weapons/greenskins/orc_cleaver.nut
+msgid "Cleaver, One-Handed"
 msgstr ""
 
 # scripts/items/weapons/greenskins/goblin_pike.nut
 msgid "Polearm, Two-Handed"
-msgstr ""
-
-# scripts/items/weapons/greenskins/orc_cleaver.nut
-msgid "Cleaver, One-Handed"
 msgstr ""
 
 # scripts/items/weapons/greenskins/goblin_crossbow.nut
@@ -105,13 +105,13 @@ msgstr "一捆尖刺流星锤"
 msgid "Reinforced Boondock Bow"
 msgstr "强化处刑之弓"
 
-# scripts/items/weapons/greenskins/goblin_notched_blade.nut
-msgid "Sword/Dagger, One-Handed"
-msgstr ""
-
 # scripts/items/weapons/greenskins/orc_javelin.nut
 msgid "Bundle of Crude Javelins"
 msgstr "一捆粗糙的标枪"
+
+# scripts/items/weapons/greenskins/goblin_notched_blade.nut
+msgid "Sword/Dagger, One-Handed"
+msgstr ""
 
 # scripts/items/weapons/greenskins/goblin_spiked_balls.nut
 # scripts/items/weapons/greenskins/orc_javelin.nut
@@ -130,13 +130,13 @@ msgstr "哥布林使用的非常轻的短弓。"
 msgid "]Must be reloaded before firing again[/color]"
 msgstr "]必须重新装填才能再次发射[/color]"
 
-# scripts/items/weapons/greenskins/goblin_spear.nut
-msgid "A long shaft with a sharp metal tip at the top."
-msgstr "顶部有锋利金属尖端的长杆。"
-
 # scripts/items/weapons/greenskins/goblin_falchion.nut
 msgid "A lightweight goblin falchion made for cutting."
 msgstr "一种用于切割的轻型哥布林弯形剑。"
+
+# scripts/items/weapons/greenskins/goblin_spear.nut
+msgid "A long shaft with a sharp metal tip at the top."
+msgstr "顶部有锋利金属尖端的长杆。"
 
 # scripts/items/weapons/greenskins/goblin_heavy_bow.nut
 msgid "A light, yet powerful bow made from various woods."

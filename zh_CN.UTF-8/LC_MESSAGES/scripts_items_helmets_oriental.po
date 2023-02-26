@@ -22,13 +22,13 @@ msgstr "游牧人头巾"
 msgid "Gladiator Helmet"
 msgstr "角斗士头盔"
 
-# scripts/items/helmets/oriental/nomad_leather_cap.nut
-msgid "Nomad Leather Cap"
-msgstr "游牧皮帽"
-
 # scripts/items/helmets/oriental/leather_head_wrap.nut
 msgid "Leather Head Wrap"
 msgstr "皮革头巾"
+
+# scripts/items/helmets/oriental/nomad_leather_cap.nut
+msgid "Nomad Leather Cap"
+msgstr "游牧皮帽"
 
 # scripts/items/helmets/oriental/nomad_light_helmet.nut
 msgid "Nomad Light Helmet"
@@ -70,13 +70,13 @@ msgstr "南方带巾头盔"
 msgid "A light nomad leather cap."
 msgstr "一顶轻便的游牧皮帽。"
 
-# scripts/items/helmets/oriental/spiked_skull_cap_with_mail.nut
-msgid "Spiked Skull Cap with Mail"
-msgstr "链甲尖顶帽"
-
 # scripts/items/helmets/oriental/desert_stalker_head_wrap.nut
 msgid "Desert Stalker's Head Wrap"
 msgstr "沙漠追踪者头巾"
+
+# scripts/items/helmets/oriental/spiked_skull_cap_with_mail.nut
+msgid "Spiked Skull Cap with Mail"
+msgstr "链甲尖顶帽"
 
 # scripts/items/helmets/oriental/assassin_head_wrap.nut
 msgid "The dark head wrap of an assassin."
@@ -110,13 +110,13 @@ msgstr "一种南方的金属头盔，有一个链甲巾保护脖子。"
 msgid "A nomad style head wrap suited to protect against sun and heat."
 msgstr "游牧风格的头巾，适合防晒防暑。"
 
-# scripts/items/helmets/oriental/leather_head_wrap.nut
-msgid "A thick leather head wrap that protects against cuts and bruises."
-msgstr "保护头部免受割伤和瘀伤的厚皮包头。"
-
 # scripts/items/helmets/oriental/spiked_skull_cap_with_mail.nut
 msgid "A metal skull cap with a fashionable spike worn atop a mail coif."
 msgstr "一种金属帽，链甲巾上有着一个时髦的尖顶。"
+
+# scripts/items/helmets/oriental/leather_head_wrap.nut
+msgid "A thick leather head wrap that protects against cuts and bruises."
+msgstr "保护头部免受割伤和瘀伤的厚皮包头。"
 
 # scripts/items/helmets/oriental/wrapped_southern_helmet.nut
 msgid ""

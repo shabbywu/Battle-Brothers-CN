@@ -54,6 +54,10 @@ msgstr "正在宣下 "
 msgid "Oath Burden"
 msgstr ""
 
+# scripts/ambitions/oaths/oath_of_honor_ambition.nut
+msgid "Oath of Honor"
+msgstr "荣耀誓言"
+
 # scripts/ambitions/oaths/oath_of_valor_ambition.nut
 msgid "Oath of Valor"
 msgstr "英勇誓言"
@@ -61,10 +65,6 @@ msgstr "英勇誓言"
 # scripts/ambitions/oaths/oath_of_wrath_ambition.nut
 msgid "Oath of Wrath"
 msgstr "愤怒誓言"
-
-# scripts/ambitions/oaths/oath_of_honor_ambition.nut
-msgid "Oath of Honor"
-msgstr "荣耀誓言"
 
 # scripts/ambitions/oaths/oath_of_fortification_ambition.nut
 msgid " dead so far)."
@@ -102,26 +102,30 @@ msgstr "复仇誓言"
 msgid " combat injuries ("
 msgstr "的伤残次数("
 
-# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
-msgid "Oath of Distinction"
-msgstr "超群誓言"
-
 # scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
 msgid "Oath of Camaraderie"
 msgstr "友谊誓言"
 
 # scripts/ambitions/oaths/oath_of_distinction_ambition.nut
+msgid "Oath of Distinction"
+msgstr "超群誓言"
+
+# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
 msgid "Your men get [color="
 msgstr "你的人得到了 [color="
+
+# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
+msgid "Oath of Fortification"
+msgstr "壁垒誓言"
+
+# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
+msgid "Oath of Righteousness"
+msgstr "正义誓言"
 
 # scripts/ambitions/oaths/oath_of_valor_ambition.nut
 # scripts/ambitions/oaths/oath_of_humility_ambition.nut
 msgid "Your men gain [color="
 msgstr "你的所有战团成员获得[color="
-
-# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
-msgid "Oath of Fortification"
-msgstr "壁垒誓言"
 
 # scripts/ambitions/oaths/oath_of_wrath_ambition.nut
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
@@ -129,10 +133,6 @@ msgstr "壁垒誓言"
 # scripts/ambitions/oaths/oath_of_dominion_ambition.nut
 msgid "Your men have [color="
 msgstr "你的所有战团成员获得[color="
-
-# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
-msgid "Oath of Righteousness"
-msgstr "正义誓言"
 
 # scripts/ambitions/oaths/oath_of_endurance_ambition.nut
 msgid "Your men recover [color="
@@ -146,25 +146,17 @@ msgstr "你的所有战团成员中使用盾牌技能时减少 [color="
 msgid "You can take up to [color="
 msgstr "你可以带上 [color="
 
-# scripts/ambitions/oaths/oath_of_endurance_ambition.nut
-msgid "]10[/color] men into battle."
-msgstr "]$1[/color] 人."
-
 # scripts/ambitions/oaths/oath_of_wrath_ambition.nut
 msgid "]-10[/color] Ranged Defense."
 msgstr "]-10[/color] 远程防御。"
 
+# scripts/ambitions/oaths/oath_of_endurance_ambition.nut
+msgid "]10[/color] men into battle."
+msgstr "]$1[/color] 人."
+
 # scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
 msgid "]14[/color] men into battle."
 msgstr "]$1[/color] 人."
-
-# scripts/ambitions/oaths/oath_of_endurance_ambition.nut
-msgid "]+3[/color] Fatigue per turn."
-msgstr "]+3[/color] 疲劳。"
-
-# scripts/ambitions/oaths/oath_of_valor_ambition.nut
-msgid "]15%[/color] less experience."
-msgstr "]-15%[/color] 经验值"
 
 # scripts/ambitions/oaths/oath_of_distinction_ambition.nut
 msgid "]+10[/color] Resolve, [color="
@@ -174,6 +166,10 @@ msgstr "]+10[/color] 决心, [color="
 msgid "]+15[/color] Resolve, [color="
 msgstr "]+15[/color] 决心, [color="
 
+# scripts/ambitions/oaths/oath_of_endurance_ambition.nut
+msgid "]+3[/color] Fatigue per turn."
+msgstr "]+3[/color] 疲劳。"
+
 # scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
 msgid "]-10[/color] Resolve, [color="
 msgstr "]-10[/color] 决心, [color="
@@ -181,6 +177,10 @@ msgstr "]-10[/color] 决心, [color="
 # scripts/ambitions/oaths/oath_of_humility_ambition.nut
 msgid "]10%[/color] more experience."
 msgstr "]+10%[/color] 经验值 。"
+
+# scripts/ambitions/oaths/oath_of_valor_ambition.nut
+msgid "]15%[/color] less experience."
+msgstr "]-15%[/color] 经验值"
 
 # scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
 msgid "Your men do not heal injuries."
@@ -191,17 +191,17 @@ msgid "You can only take up to [color="
 msgstr "你在每场战斗中最多出动 [color="
 
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
-# scripts/ambitions/oaths/oath_of_dominion_ambition.nut
-msgid "]-10[/color] Resolve and [color="
-msgstr "]-10[/color] 决心和 [color="
-
-# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
 msgid "]+15[/color] Resolve and [color="
 msgstr "]+15[/color] 决心和 [color="
 
 # scripts/ambitions/oaths/oath_of_dominion_ambition.nut
 msgid "]+20[/color] Resolve and [color="
 msgstr "]+20[/color] 决心和 [color="
+
+# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
+# scripts/ambitions/oaths/oath_of_dominion_ambition.nut
+msgid "]-10[/color] Resolve and [color="
+msgstr "]-10[/color] 决心和 [color="
 
 # scripts/ambitions/oaths/oath_of_honor_ambition.nut
 msgid "Your men cannot use ranged weapons."
@@ -215,41 +215,41 @@ msgstr "]+5[/color] 近战防御和 [color="
 msgid "]-5[/color] Melee Defense and [color="
 msgstr "]-5[/color] 近战防御和[color="
 
-# scripts/ambitions/oaths/oath_of_valor_ambition.nut
-msgid "Your men will never flee while in battle."
-msgstr "你的战团成员在战斗中永远不会逃跑。"
-
 # scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
 msgid "None of your men take any crowns as wage."
 msgstr "你的所有战团成员不再需要工资。"
+
+# scripts/ambitions/oaths/oath_of_valor_ambition.nut
+msgid "Your men will never flee while in battle."
+msgstr "你的战团成员在战斗中永远不会逃跑。"
 
 # scripts/ambitions/oaths/oath_of_humility_ambition.nut
 msgid "]25%[/color] fewer crowns from contracts."
 msgstr "]-25%[/color] 任务收益。"
 
-# scripts/ambitions/oaths/oath_of_honor_ambition.nut
-msgid "Your men start battle at Confident morale."
-msgstr "你的所有战团成员将以自信士气开始战斗。"
-
 # scripts/ambitions/oaths/oath_of_dominion_ambition.nut
 msgid "You gain extra Renown for slaying beasts ("
 msgstr "誓言目标: 击杀目标的野兽数目("
 
-# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
-msgid "Your men gain no experience for allied kills."
-msgstr "你的人不会从盟友的击杀中获得经验。"
+# scripts/ambitions/oaths/oath_of_honor_ambition.nut
+msgid "Your men start battle at Confident morale."
+msgstr "你的所有战团成员将以自信士气开始战斗。"
 
 # scripts/ambitions/oaths/oath_of_wrath_ambition.nut
 msgid "You gain extra Renown for slaying your foes ("
 msgstr "誓言目标: 击杀目标的敌人数目("
 
-# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
-msgid "You gain extra Renown for slaying the undead ("
-msgstr "誓言目标: 击杀目标的亡灵数目("
+# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
+msgid "Your men gain no experience for allied kills."
+msgstr "你的人不会从盟友的击杀中获得经验。"
 
 # scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
 msgid "You gain extra Renown for slaying greenskins ("
 msgstr "誓言目标: 击杀目标的绿皮数目("
+
+# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
+msgid "You gain extra Renown for slaying the undead ("
+msgstr "誓言目标: 击杀目标的亡灵数目("
 
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
 # scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
@@ -277,13 +277,13 @@ msgstr "你的所有战团成员在战斗的第一个回合无法移动。"
 msgid "You gain extra Renown if one of your men levels up "
 msgstr "誓言目标: 让你的一位战团成员升级"
 
-# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
-msgid "]+3[/color] Fatigue Recovery per turn, and deal [color="
-msgstr "]+3[/color] 每回合疲劳恢复, and deal [color="
-
 # scripts/ambitions/oaths/oath_of_humility_ambition.nut
 msgid "You gain extra Renown for completing enough contracts ("
 msgstr "誓言目标: 完成目标的合同数("
+
+# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
+msgid "]+3[/color] Fatigue Recovery per turn, and deal [color="
+msgstr "]+3[/color] 每回合疲劳恢复, and deal [color="
 
 # scripts/ambitions/oaths/oath_of_dominion_ambition.nut
 msgid "]+10[/color] Melee and Ranged Skill when fighting beasts."
@@ -314,6 +314,14 @@ msgstr ""
 msgid "]+5[/color] Melee and Ranged Defense when fighting orcs or goblins."
 msgstr ""
 
+# scripts/ambitions/oaths/oath_of_valor_ambition.nut
+msgid "You gain extra Renown for winning battles where you are outnumbered ("
+msgstr "誓言目标: 以寡敌众赢得目标的战斗次数"
+
+# scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
+msgid "Your men always start battle randomly at Wavering or Breaking morale."
+msgstr "你的人总是随机以动摇或溃散士气开始战斗。"
+
 # scripts/ambitions/oaths/oath_of_endurance_ambition.nut
 # scripts/ambitions/oaths/oath_of_valor_ambition.nut
 # scripts/ambitions/oaths/oath_of_distinction_ambition.nut
@@ -328,14 +336,6 @@ msgstr ""
 # scripts/ambitions/oaths/oath_of_humility_ambition.nut
 msgid "{For Young Anselm! | As Oathtakers! | And death to the Oathbringers!}"
 msgstr "{为了小安瑟姆！ | 宣誓者万岁！ | 誓言使者去死吧！}"
-
-# scripts/ambitions/oaths/oath_of_valor_ambition.nut
-msgid "You gain extra Renown for winning battles where you are outnumbered ("
-msgstr "誓言目标: 以寡敌众赢得目标的战斗次数"
-
-# scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
-msgid "Your men always start battle randomly at Wavering or Breaking morale."
-msgstr "你的人总是随机以动摇或溃散士气开始战斗。"
 
 # scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
 msgid ""
@@ -482,18 +482,18 @@ msgid ""
 "tact. Dried blood mottles the pages of these texts."
 msgstr ""
 
-# scripts/ambitions/oaths/oath_of_endurance_ambition.nut
-msgid ""
-"\"Thrice times thrice to climb, endurance they did find.\" It is said that "
-"when Young Anselm ascended the highest peak of the Higgarian mountain range,"
-" he took nine of his worthiest followers with him."
-msgstr ""
-
 # scripts/ambitions/oaths/oath_of_humility_ambition.nut
 msgid ""
 "\"As you are indeed men in pursuit of power, always listen to the weak...for"
 " the weak know the strong better than you do, and in turn they shall know "
 "you better than you know yourself.\" - Young Anselm"
+msgstr ""
+
+# scripts/ambitions/oaths/oath_of_endurance_ambition.nut
+msgid ""
+"\"Thrice times thrice to climb, endurance they did find.\" It is said that "
+"when Young Anselm ascended the highest peak of the Higgarian mountain range,"
+" he took nine of his worthiest followers with him."
 msgstr ""
 
 # scripts/ambitions/oaths/oath_of_distinction_ambition.nut

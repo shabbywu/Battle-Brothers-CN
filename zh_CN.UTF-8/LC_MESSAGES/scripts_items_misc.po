@@ -14,29 +14,29 @@ msgstr "油漆套装"
 msgid "Red Paint"
 msgstr "红色油漆"
 
-# scripts/items/misc/third_eye_item.nut
-msgid "Third Eye"
-msgstr "第三只眼"
-
 # scripts/items/misc/snake_oil_item.nut
 msgid "Snake Oil"
 msgstr "蛇油"
 
-# scripts/items/misc/witch_hair_item.nut
-msgid "Witch Hair"
-msgstr "女巫头发"
+# scripts/items/misc/third_eye_item.nut
+msgid "Third Eye"
+msgstr "第三只眼"
 
 # scripts/items/misc/kraken_horn_plate_item.nut
 msgid "Horn Plate"
 msgstr "角板"
 
-# scripts/items/misc/unhold_hide_item.nut
-msgid "Unhold Hide"
-msgstr "巨魔皮"
+# scripts/items/misc/witch_hair_item.nut
+msgid "Witch Hair"
+msgstr "女巫头发"
 
 # scripts/items/misc/paint_black_item.nut
 msgid "Black Paint"
 msgstr "黑色油漆"
+
+# scripts/items/misc/unhold_hide_item.nut
+msgid "Unhold Hide"
+msgstr "巨魔皮"
 
 # scripts/items/misc/ancient_wood_item.nut
 msgid "Ancient Wood"
@@ -46,17 +46,9 @@ msgstr "古木"
 msgid "Happy Powder"
 msgstr "快乐粉"
 
-# scripts/items/misc/serpent_skin_item.nut
-msgid "Serpent Skin"
-msgstr "大蛇皮"
-
 # scripts/items/misc/ghoul_teeth_item.nut
 msgid "Jagged Fangs"
 msgstr "锯齿尖牙"
-
-# scripts/items/misc/wardog_armor_upgrade_item.nut
-msgid "Wardog Armor"
-msgstr "战犬盔甲"
 
 # scripts/items/misc/parched_skin_item.nut
 msgid "Parched Skin"
@@ -66,6 +58,18 @@ msgstr "干瘪皮肤"
 msgid "Poison Gland"
 msgstr "毒腺"
 
+# scripts/items/misc/serpent_skin_item.nut
+msgid "Serpent Skin"
+msgstr "大蛇皮"
+
+# scripts/items/misc/wardog_armor_upgrade_item.nut
+msgid "Wardog Armor"
+msgstr "战犬盔甲"
+
+# scripts/items/misc/acidic_saliva_item.nut
+msgid "Acidic Saliva"
+msgstr "酸性唾液"
+
 # scripts/items/misc/glowing_resin_item.nut
 msgid "Glowing Resin"
 msgstr "荧光树脂"
@@ -74,29 +78,25 @@ msgstr "荧光树脂"
 msgid "Paint Remover"
 msgstr "脱漆剂"
 
-# scripts/items/misc/acidic_saliva_item.nut
-msgid "Acidic Saliva"
-msgstr "酸性唾液"
-
-# scripts/items/misc/lindwurm_bones_item.nut
-msgid "Lindwurm Bones"
-msgstr "林德沃姆骨骼"
-
 # scripts/items/misc/manhunters_ledger_item.nut
 msgid "Company Ledger"
 msgstr "战队账簿"
-
-# scripts/items/misc/unhold_heart_item.nut
-msgid "Unhold's Heart"
-msgstr "巨魔心脏"
 
 # scripts/items/misc/lindwurm_blood_item.nut
 msgid "Lindwurm Blood"
 msgstr "林德沃姆血液"
 
+# scripts/items/misc/lindwurm_bones_item.nut
+msgid "Lindwurm Bones"
+msgstr "林德沃姆骨骼"
+
 # scripts/items/misc/poisoned_apple_item.nut
 msgid "Poisoned Apple"
 msgstr "毒苹果"
+
+# scripts/items/misc/unhold_heart_item.nut
+msgid "Unhold's Heart"
+msgstr "巨魔心脏"
 
 # scripts/items/misc/lindwurm_scales_item.nut
 msgid "Lindwurm Scales"
@@ -114,57 +114,61 @@ msgstr "硫磺岩"
 msgid "Thick White Fur"
 msgstr "白色厚毛皮"
 
-# scripts/items/misc/petrified_scream_item.nut
-msgid "Petrified Scream"
-msgstr "恐怖尖声"
-
-# scripts/items/misc/vampire_dust_item.nut
-msgid "Shimmering Ashes"
-msgstr "微光闪闪的灰烬"
-
-# scripts/items/misc/ghoul_brain_item.nut
-msgid "Nachzehrer Brain"
-msgstr "食尸鬼大脑"
-
-# scripts/items/misc/kraken_tentacle_item.nut
-msgid "Severed Tentacle"
-msgstr "断掉的触手"
-
-# scripts/items/misc/mysterious_herbs_item.nut
-msgid "Mysterious Herbs"
-msgstr "神秘草药"
-
 # scripts/items/misc/adrenaline_gland_item.nut
 msgid "Adrenaline Gland"
 msgstr "肾上腺"
-
-# scripts/items/misc/hyena_fur_item.nut
-msgid "Raging Hyena Fur"
-msgstr "鬣狗毛皮"
 
 # scripts/items/misc/poisoned_apple_item.nut
 msgid "Looks delicious!"
 msgstr "看起来很好吃！"
 
+# scripts/items/misc/mysterious_herbs_item.nut
+msgid "Mysterious Herbs"
+msgstr "神秘草药"
+
+# scripts/items/misc/ghoul_brain_item.nut
+msgid "Nachzehrer Brain"
+msgstr "食尸鬼大脑"
+
+# scripts/items/misc/petrified_scream_item.nut
+msgid "Petrified Scream"
+msgstr "恐怖尖声"
+
+# scripts/items/misc/hyena_fur_item.nut
+msgid "Raging Hyena Fur"
+msgstr "鬣狗毛皮"
+
+# scripts/items/misc/kraken_tentacle_item.nut
+msgid "Severed Tentacle"
+msgstr "断掉的触手"
+
+# scripts/items/misc/vampire_dust_item.nut
+msgid "Shimmering Ashes"
+msgstr "微光闪闪的灰烬"
+
 # scripts/items/misc/glistening_scales_item.nut
 msgid "Glistening Scales"
 msgstr "闪亮的鳞片"
-
-# scripts/items/misc/potion_of_oblivion_item.nut
-msgid "Potion of Oblivion"
-msgstr "遗忘药水"
 
 # scripts/items/misc/wardog_heavy_armor_upgrade_item.nut
 msgid "Heavy Wardog Armor"
 msgstr "重型战犬盔甲"
 
-# scripts/items/misc/potion_of_knowledge_item.nut
-msgid "Potion of Knowledge"
-msgstr "知识药水"
+# scripts/items/misc/potion_of_oblivion_item.nut
+msgid "Potion of Oblivion"
+msgstr "遗忘药水"
 
 # scripts/items/misc/heart_of_the_forest_item.nut
 msgid "Heart of the Forest"
 msgstr "森林之心"
+
+# scripts/items/misc/potion_of_knowledge_item.nut
+msgid "Potion of Knowledge"
+msgstr "知识药水"
+
+# scripts/items/misc/miracle_drug_item.nut
+msgid "Apothecary's Miracle"
+msgstr "药剂师的奇迹"
 
 # scripts/items/misc/paint_orange_red_item.nut
 msgid "Orange and Red Paint"
@@ -173,10 +177,6 @@ msgstr "橘红色油漆"
 # scripts/items/misc/paint_white_blue_item.nut
 msgid "White and Blue Paint"
 msgstr "白蓝色油漆"
-
-# scripts/items/misc/miracle_drug_item.nut
-msgid "Apothecary's Miracle"
-msgstr "药剂师的奇迹"
 
 # scripts/items/misc/unhold_bones_item.nut
 msgid "Giant Skull and Bones"
@@ -222,13 +222,13 @@ msgstr "]-10%[/color] 搜捕者经验获取"
 msgid "A thorny plant part, resembling in shape a human heart."
 msgstr "一种多刺植物的某部分，看起来像人类心脏的形状。"
 
-# scripts/items/misc/ancient_wood_item.nut
-msgid "Ancient pieces of wood carved from the remains of a living tree."
-msgstr "从一棵活树的残骸上雕刻而成的古代木片。"
-
 # scripts/items/misc/paint_red_item.nut
 msgid "A bucket of red paint. Can be used to paint many common helmets."
 msgstr "一桶红色的油漆。 可以喷涂许多普通的头盔。"
+
+# scripts/items/misc/ancient_wood_item.nut
+msgid "Ancient pieces of wood carved from the remains of a living tree."
+msgstr "从一棵活树的残骸上雕刻而成的古代木片。"
 
 # scripts/items/misc/manhunters_ledger_item.nut
 msgid "A ledger detailing the members and contract terms of the company."
@@ -246,27 +246,27 @@ msgstr "来自北方冻土的巨魔身上的白色厚毛皮。"
 msgid "This skin taken from an Alp is paperthin and glitters in the sunlight."
 msgstr "这种来自梦魇身上的皮肤像纸一样薄，在阳光下闪闪发亮。"
 
-# scripts/items/misc/paint_orange_red_item.nut
-msgid ""
-"Buckets of yellow and red paint. Can be used to paint many common helmets."
-msgstr "一桶橘红色的油漆。 可以喷涂许多普通的头盔。"
-
 # scripts/items/misc/paint_white_blue_item.nut
 msgid ""
 "Buckets of white and blue paint. Can be used to paint many common helmets."
 msgstr "一桶白蓝色的油漆。 可以喷涂许多普通的头盔。"
 
-# scripts/items/misc/unhold_bones_item.nut
+# scripts/items/misc/paint_orange_red_item.nut
 msgid ""
-"These large bones taken from an Unhold are a valued trophy among beast "
-"hunters."
-msgstr "这些从巨魔身上取来的巨大的骨头在猎兽者眼中是值钱的战利品。"
+"Buckets of yellow and red paint. Can be used to paint many common helmets."
+msgstr "一桶橘红色的油漆。 可以喷涂许多普通的头盔。"
 
 # scripts/items/misc/ghoul_brain_item.nut
 msgid ""
 "The greasy brain of a slain Nachzehrer. What could you possibly want with "
 "this?"
 msgstr "被杀死的食尸鬼的油腻大脑。你想要用它做点什么呢？"
+
+# scripts/items/misc/unhold_bones_item.nut
+msgid ""
+"These large bones taken from an Unhold are a valued trophy among beast "
+"hunters."
+msgstr "这些从巨魔身上取来的巨大的骨头在猎兽者眼中是值钱的战利品。"
 
 # scripts/items/misc/paint_remover_item.nut
 msgid ""
@@ -280,17 +280,17 @@ msgid ""
 "drink."
 msgstr "蜘蛛的毒腺，不要挨着食物或饮料存放。"
 
-# scripts/items/misc/paint_white_green_yellow_item.nut
-msgid ""
-"Buckets of white, green and yellow paint. Can be used to paint many common "
-"helmets."
-msgstr "一桶白绿黄色的油漆。 可以喷涂许多普通的头盔。"
-
 # scripts/items/misc/wardog_heavy_armor_upgrade_item.nut
 msgid ""
 "A heavy hide coat that can be donned by any wardog to give it protection in "
 "combat."
 msgstr "重型的皮毛外套，可披在任何战犬身上，以在战斗时提供保护。"
+
+# scripts/items/misc/paint_white_green_yellow_item.nut
+msgid ""
+"Buckets of white, green and yellow paint. Can be used to paint many common "
+"helmets."
+msgstr "一桶白绿黄色的油漆。 可以喷涂许多普通的头盔。"
 
 # scripts/items/misc/werewolf_pelt_item.nut
 msgid ""
@@ -376,18 +376,18 @@ msgid ""
 "easy to carry trophy despite their size."
 msgstr "林德沃姆骨骼的内部大部分是中空的，因此尽管体型庞大，但还是很容易携带。"
 
+# scripts/items/misc/paint_set_item.nut
+msgid ""
+"A palette of several vibrant colors and a set of brushes. Can be used to "
+"paint common shields in your company's colors."
+msgstr "由几种鲜艳的颜料和一套刷子组成的调色板，可用来给普通盾牌涂上你战队的颜色。"
+
 # scripts/items/misc/potion_of_oblivion_item.nut
 # scripts/items/misc/potion_of_knowledge_item.nut
 msgid ""
 "Right-click or drag onto the currently selected character in order to drink."
 " This item will be consumed in the process."
 msgstr "右键单击或拖动到当前选定的角色上进行饮用。 此物品会在使用过程中消耗掉。"
-
-# scripts/items/misc/paint_set_item.nut
-msgid ""
-"A palette of several vibrant colors and a set of brushes. Can be used to "
-"paint common shields in your company's colors."
-msgstr "由几种鲜艳的颜料和一套刷子组成的调色板，可用来给普通盾牌涂上你战队的颜色。"
 
 # scripts/items/misc/happy_powder_item.nut
 msgid ""
@@ -413,17 +413,17 @@ msgid ""
 "Luckily it can be safely transported in glass vials."
 msgstr "这种林德沃姆血液能瞬间腐蚀金属。幸运的是能装在玻璃瓶里安全运输。"
 
-# scripts/items/misc/lindwurm_scales_item.nut
-msgid ""
-"The shimmering green scales of a Lindwurm are among the most reputable "
-"trophies a beast hunter can bring home from his adventures."
-msgstr "林德沃姆身上闪闪发光的绿色鳞片是猎人从历险中带回的最著名的战利品之一。"
-
 # scripts/items/misc/hyena_fur_item.nut
 msgid ""
 "The colorful fur of a desert hyena makes for an impressive and exotic "
 "addition to any mercenary armor, if not a sophisticated one."
 msgstr "沙漠鬣狗的五颜六色的皮毛为任何雇佣兵的盔甲增添了一份令人印象深刻的异国情调，如果不是一个复杂的盔甲。"
+
+# scripts/items/misc/lindwurm_scales_item.nut
+msgid ""
+"The shimmering green scales of a Lindwurm are among the most reputable "
+"trophies a beast hunter can bring home from his adventures."
+msgstr "林德沃姆身上闪闪发光的绿色鳞片是猎人从历险中带回的最著名的战利品之一。"
 
 # scripts/items/misc/potion_of_knowledge_item.nut
 msgid ""
@@ -467,17 +467,17 @@ msgid ""
 "character in order to paint it. This item will be consumed in the process."
 msgstr "右键单击或拖动到当前所选角色携带的盾牌上，对其进行喷涂。 此物品会在使用过程中消耗掉。"
 
-# scripts/items/misc/kraken_tentacle_item.nut
-msgid ""
-"The shriveled remains of a legendary kraken's tentacle, slimy and squishy "
-"but highly sought-after by alchemists for its supposed rare properties."
-msgstr "这是传说中的克拉肯触须干枯的遗骨，粘糊糊的，但炼金术士们却对它的稀有特性大加追捧。"
-
 # scripts/items/misc/unhold_heart_item.nut
 msgid ""
 "The large and heavy heart of an Unhold. Rumored to have magical properties, "
 "alchemists are prepared to pay a tidy sum to get it into their hands."
 msgstr "巨大而沉重的巨魔之心。谣传有魔法属性，炼金术士们为了要得到它，准备好了一大笔奖金。"
+
+# scripts/items/misc/kraken_tentacle_item.nut
+msgid ""
+"The shriveled remains of a legendary kraken's tentacle, slimy and squishy "
+"but highly sought-after by alchemists for its supposed rare properties."
+msgstr "这是传说中的克拉肯触须干枯的遗骨，粘糊糊的，但炼金术士们却对它的稀有特性大加追捧。"
 
 # scripts/items/misc/vampire_dust_item.nut
 msgid ""

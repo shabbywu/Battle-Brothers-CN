@@ -2,6 +2,10 @@
 msgid ""
 msgstr ""
 
+# scripts/entity/world/settlements/situations/rich_veins_situation.nut
+msgid " had "
+msgstr ""
+
 # scripts/entity/world/settlements/situations/lost_at_sea_situation.nut
 # scripts/entity/world/settlements/situations/full_nets_situation.nut
 # scripts/entity/world/settlements/situations/unhold_attacks_situation.nut
@@ -13,29 +17,21 @@ msgstr ""
 msgid "Razed"
 msgstr "夷为平地"
 
-# scripts/entity/world/settlements/situations/rich_veins_situation.nut
-msgid " had "
-msgstr ""
-
 # scripts/entity/world/settlements/situations/raided_situation.nut
 msgid "Raided"
 msgstr "掠夺"
-
-# scripts/entity/world/settlements/situations/slave_revolt_situation.nut
-msgid " has a "
-msgstr ""
 
 # scripts/entity/world/settlements/situations/mine_cavein_situation.nut
 msgid " had a "
 msgstr "有"
 
+# scripts/entity/world/settlements/situations/slave_revolt_situation.nut
+msgid " has a "
+msgstr ""
+
 # scripts/entity/world/settlements/situations/draught_situation.nut
 msgid "Drought"
 msgstr "干旱"
-
-# scripts/entity/world/settlements/situations/refugees_situation.nut
-msgid "Refugees"
-msgstr "难民"
 
 # scripts/entity/world/settlements/situations/besieged_situation.nut
 # scripts/entity/world/settlements/situations/sickness_situation.nut
@@ -50,6 +46,10 @@ msgstr "现在有"
 # scripts/entity/world/settlements/situations/besieged_situation.nut
 msgid "Besieged"
 msgstr "围困"
+
+# scripts/entity/world/settlements/situations/refugees_situation.nut
+msgid "Refugees"
+msgstr "难民"
 
 # scripts/entity/world/settlements/situations/sickness_situation.nut
 msgid "Sickness"
@@ -83,29 +83,29 @@ msgstr "征服"
 msgid "Full Nets"
 msgstr "满网"
 
-# scripts/entity/world/settlements/situations/arena_tournament_situation.nut
-msgid "Tournament"
-msgstr "骑士比武"
-
 # scripts/entity/world/settlements/situations/raided_situation.nut
 msgid " has been "
 msgstr "有"
-
-# scripts/entity/world/settlements/situations/safe_roads_situation.nut
-msgid "Safe Roads"
-msgstr "安全道路"
 
 # scripts/entity/world/settlements/situations/collectors_situation.nut
 msgid "Collectors"
 msgstr ""
 
+# scripts/entity/world/settlements/situations/rich_veins_situation.nut
+msgid "Rich Veins"
+msgstr "丰富的矿脉"
+
+# scripts/entity/world/settlements/situations/safe_roads_situation.nut
+msgid "Safe Roads"
+msgstr "安全道路"
+
 # scripts/entity/world/settlements/situations/sand_storm_situation.nut
 msgid "Sand Storm"
 msgstr "沙尘暴"
 
-# scripts/entity/world/settlements/situations/rich_veins_situation.nut
-msgid "Rich Veins"
-msgstr "丰富的矿脉"
+# scripts/entity/world/settlements/situations/arena_tournament_situation.nut
+msgid "Tournament"
+msgstr "骑士比武"
 
 # scripts/entity/world/settlements/situations/arena_tournament_situation.nut
 # scripts/entity/world/settlements/situations/cultist_procession_situation.nut
@@ -121,37 +121,37 @@ msgstr "海上遇难"
 msgid "Snow Storms"
 msgstr "暴风雪"
 
-# scripts/entity/world/settlements/situations/high_spirits_situation.nut
-msgid "High Spirits"
-msgstr "兴高采烈"
-
-# scripts/entity/world/settlements/situations/slave_revolt_situation.nut
-msgid "Slave Revolt"
-msgstr "奴隶起义"
-
-# scripts/entity/world/settlements/situations/moving_sands_situation.nut
-msgid "Moving Sands"
-msgstr "流沙"
-
 # scripts/entity/world/settlements/situations/good_harvest_situation.nut
 msgid "Good Harvest"
 msgstr "丰收"
+
+# scripts/entity/world/settlements/situations/high_spirits_situation.nut
+msgid "High Spirits"
+msgstr "兴高采烈"
 
 # scripts/entity/world/settlements/situations/mine_cavein_situation.nut
 msgid "Mine Cave In"
 msgstr "矿山塌方"
 
+# scripts/entity/world/settlements/situations/moving_sands_situation.nut
+msgid "Moving Sands"
+msgstr "流沙"
+
+# scripts/entity/world/settlements/situations/slave_revolt_situation.nut
+msgid "Slave Revolt"
+msgstr "奴隶起义"
+
 # scripts/entity/world/settlements/situations/local_holiday_situation.nut
 msgid "Local Holiday"
 msgstr "本地节日"
 
-# scripts/entity/world/settlements/situations/short_on_food_situation.nut
-msgid "Short on Food"
-msgstr "食物短缺"
-
 # scripts/entity/world/settlements/situations/seasonal_fair_situation.nut
 msgid "Seasonal Fair"
 msgstr "季节性交易会"
+
+# scripts/entity/world/settlements/situations/short_on_food_situation.nut
+msgid "Short on Food"
+msgstr "食物短缺"
 
 # scripts/entity/world/settlements/situations/well_supplied_situation.nut
 msgid "Well Supplied"
@@ -168,10 +168,6 @@ msgstr "供应充足"
 msgid " no longer is "
 msgstr "不再有"
 
-# scripts/entity/world/settlements/situations/witch_burnings_situation.nut
-msgid "Witch Burnings"
-msgstr "焚烧女巫"
-
 # scripts/entity/world/settlements/situations/terrifying_nightmares_situation.nut
 # scripts/entity/world/settlements/situations/snow_storms_situation.nut
 msgid " suffers from "
@@ -184,6 +180,10 @@ msgstr "狩猎季节"
 # scripts/entity/world/settlements/situations/unhold_attacks_situation.nut
 msgid "Unhold Attacks"
 msgstr "巨魔攻击"
+
+# scripts/entity/world/settlements/situations/witch_burnings_situation.nut
+msgid "Witch Burnings"
+msgstr "焚烧女巫"
 
 # scripts/entity/world/settlements/situations/witch_burnings_situation.nut
 # scripts/entity/world/settlements/situations/abducted_children_situation.nut
@@ -210,25 +210,17 @@ msgstr "巨魔攻击"
 msgid " no longer has "
 msgstr "不再有"
 
-# scripts/entity/world/settlements/situations/preparing_feast_situation.nut
-msgid "Preparing Feast"
-msgstr "准备盛宴"
+# scripts/entity/world/settlements/situations/archery_contest_situation.nut
+msgid "Archery Contest"
+msgstr "射箭比赛"
 
 # scripts/entity/world/settlements/situations/bread_and_games_situation.nut
 msgid "Bread and Games"
 msgstr "面包和游戏"
 
-# scripts/entity/world/settlements/situations/archery_contest_situation.nut
-msgid "Archery Contest"
-msgstr "射箭比赛"
-
-# scripts/entity/world/settlements/situations/mustering_troops_situation.nut
-msgid "Mustering Troops"
-msgstr "集合部队"
-
-# scripts/entity/world/settlements/situations/mirage_sightings_situation.nut
-msgid "Mirage Sightings"
-msgstr "目睹海市蜃楼"
+# scripts/entity/world/settlements/situations/preparing_feast_situation.nut
+msgid "Preparing Feast"
+msgstr "准备盛宴"
 
 # scripts/entity/world/settlements/situations/sand_storm_situation.nut
 # scripts/entity/world/settlements/situations/draught_situation.nut
@@ -239,13 +231,17 @@ msgstr "受损于"
 msgid "Disbanded Troops"
 msgstr "解散的军队"
 
-# scripts/entity/world/settlements/situations/abducted_children_situation.nut
-msgid "Abducted Children"
-msgstr "被拐卖儿童"
+# scripts/entity/world/settlements/situations/mirage_sightings_situation.nut
+msgid "Mirage Sightings"
+msgstr "目睹海市蜃楼"
 
-# scripts/entity/world/settlements/situations/ceremonial_season_situation.nut
-msgid "Ceremonial Season"
-msgstr "仪式季节"
+# scripts/entity/world/settlements/situations/mustering_troops_situation.nut
+msgid "Mustering Troops"
+msgstr "集合部队"
+
+# scripts/entity/world/settlements/situations/good_harvest_situation.nut
+msgid " benefits from a "
+msgstr "受益于"
 
 # scripts/entity/world/settlements/situations/arena_tournament_situation.nut
 # scripts/entity/world/settlements/situations/cultist_procession_situation.nut
@@ -254,17 +250,21 @@ msgstr "仪式季节"
 msgid " no longer has a "
 msgstr "不再有"
 
-# scripts/entity/world/settlements/situations/rebuilding_effort_situation.nut
-msgid "Rebuilding Effort"
-msgstr "重建工作"
+# scripts/entity/world/settlements/situations/abducted_children_situation.nut
+msgid "Abducted Children"
+msgstr "被拐卖儿童"
 
-# scripts/entity/world/settlements/situations/good_harvest_situation.nut
-msgid " benefits from a "
-msgstr "受益于"
+# scripts/entity/world/settlements/situations/ceremonial_season_situation.nut
+msgid "Ceremonial Season"
+msgstr "仪式季节"
 
 # scripts/entity/world/settlements/situations/public_executions_situation.nut
 msgid "Public Executions"
 msgstr "公开处决"
+
+# scripts/entity/world/settlements/situations/rebuilding_effort_situation.nut
+msgid "Rebuilding Effort"
+msgstr "重建工作"
 
 # scripts/entity/world/settlements/situations/cultist_procession_situation.nut
 msgid "Cultist Procession"
@@ -488,29 +488,23 @@ msgid ""
 "from %settlement% makes me shiver."
 msgstr "他们再也没有从海上回来过…想到从 %settlement% 失去的所有可怜的灵魂，我不禁发抖"
 
-# scripts/entity/world/settlements/situations/abducted_children_situation.nut
-msgid ""
-"Rumor is that children disappear from their cribs in %settlement% into thin "
-"air. Imagine the parents' terror..."
-msgstr "有传言说，有传言说孩子们从 %settlement% 的婴儿床上消失得无影无踪。想象一下父母的恐惧…"
-
 # scripts/entity/world/settlements/situations/good_harvest_situation.nut
 msgid ""
 "I just learned that in %settlement% the granaries and larders are filled to "
 "the brim thanks to a good harvest. "
 msgstr "我刚刚了解到，由于丰收，%settlement% 的粮仓和食物贮藏室都堆满了。 "
 
+# scripts/entity/world/settlements/situations/abducted_children_situation.nut
+msgid ""
+"Rumor is that children disappear from their cribs in %settlement% into thin "
+"air. Imagine the parents' terror..."
+msgstr "有传言说，有传言说孩子们从 %settlement% 的婴儿床上消失得无影无踪。想象一下父母的恐惧…"
+
 # scripts/entity/world/settlements/situations/witch_burnings_situation.nut
 msgid ""
 "Some witch hunters came by yesterday. They didn't find what they were "
 "looking for and headed on to %settlement%."
 msgstr "昨天来了一些女巫猎人。他们没有找到他们要找的东西，就去了 %settlement%。"
-
-# scripts/entity/world/settlements/situations/arena_tournament_situation.nut
-msgid ""
-"You look like an able fighter. The arena in %settlement% is hosting a "
-"tournament and you can surely still enter!"
-msgstr "你看起来像个能干的战士。%settlement% 的竞技场正在举办一场比赛，你肯定还可以进入！"
 
 # scripts/entity/world/settlements/situations/terrifying_nightmares_situation.nut
 msgid ""
@@ -532,6 +526,12 @@ msgstr ""
 "When I was in %settlement% the other day, a group of hunters 失踪了. They were "
 "after some sort of giant..."
 
+# scripts/entity/world/settlements/situations/arena_tournament_situation.nut
+msgid ""
+"You look like an able fighter. The arena in %settlement% is hosting a "
+"tournament and you can surely still enter!"
+msgstr "你看起来像个能干的战士。%settlement% 的竞技场正在举办一场比赛，你肯定还可以进入！"
+
 # scripts/entity/world/settlements/situations/lost_at_sea_situation.nut
 msgid ""
 "A boat with fishermen has been lost at sea during a storm. Both fresh fish "
@@ -550,17 +550,17 @@ msgid ""
 "%settlement% just don't appeal to me at all...."
 msgstr "我，我更喜欢孤独型。像 %settlement% 那样的大型集市对我一点吸引力都没有…。"
 
-# scripts/entity/world/settlements/situations/preparing_feast_situation.nut
-msgid ""
-"The oh-so-noble highborns are preparing a feast at %settlement% while us "
-"peasants have but old grain to choke on..."
-msgstr "高贵的贵族们正在 %settlement% 准备一场盛宴，而我们农民却只有老粮可吃…"
-
 # scripts/entity/world/settlements/situations/abducted_children_situation.nut
 msgid ""
 "Never ever strike a deal with witches! A relative in %settlement% did it "
 "years ago and now his kid is gone missing."
 msgstr "永远不要和女巫做交易！%settlement% 的一个亲戚几年前做的，现在他的孩子失踪了"
+
+# scripts/entity/world/settlements/situations/preparing_feast_situation.nut
+msgid ""
+"The oh-so-noble highborns are preparing a feast at %settlement% while us "
+"peasants have but old grain to choke on..."
+msgstr "高贵的贵族们正在 %settlement% 准备一场盛宴，而我们农民却只有老粮可吃…"
 
 # scripts/entity/world/settlements/situations/archery_contest_situation.nut
 msgid ""
@@ -598,23 +598,17 @@ msgid ""
 "in %settlement% burning down to the ground."
 msgstr "昨晚看见地平线上的烟了吗？他们说是 %settlement% 的一个大仓库被烧成了平地。"
 
-# scripts/entity/world/settlements/situations/high_spirits_situation.nut
-msgid ""
-"No need to get me a mug, I am still drunk from the celebrations in "
-"%settlement%. They sure know how to have a good time!"
-msgstr "不用给我拿杯子，我还在 %settlement% 庆祝的时候喝醉了。他们当然知道如何玩得开心！"
-
 # scripts/entity/world/settlements/situations/unhold_attacks_situation.nut
 msgid ""
 "Ever heard of unholds? Huge monsters that stomp whole carts under a foot! I "
 "heard rumors of sightings near %settlement%."
 msgstr "有没有听说过巨魔？巨大的怪物把整个货车踩在脚下！我听目击者说那是在 %settlement%。"
 
-# scripts/entity/world/settlements/situations/ambushed_trade_routes_situation.nut
+# scripts/entity/world/settlements/situations/high_spirits_situation.nut
 msgid ""
-"If you have any valuables on you, stay away from %settlement%. The place is "
-"scourged by cutthroats, bandits and highwaymen!"
-msgstr "如果你身上有贵重物品，请远离 %settlement%。这个地方被歹徒、强盗和响马蹂躏了！"
+"No need to get me a mug, I am still drunk from the celebrations in "
+"%settlement%. They sure know how to have a good time!"
+msgstr "不用给我拿杯子，我还在 %settlement% 庆祝的时候喝醉了。他们当然知道如何玩得开心！"
 
 # scripts/entity/world/settlements/situations/mine_cavein_situation.nut
 msgid ""
@@ -622,29 +616,17 @@ msgid ""
 "being buried alive deep under rock and earth..."
 msgstr "听说 %settlement% 的一个矿井发生了塌方。想象一下被活埋在岩石和泥土的深处…"
 
+# scripts/entity/world/settlements/situations/ambushed_trade_routes_situation.nut
+msgid ""
+"If you have any valuables on you, stay away from %settlement%. The place is "
+"scourged by cutthroats, bandits and highwaymen!"
+msgstr "如果你身上有贵重物品，请远离 %settlement%。这个地方被歹徒、强盗和响马蹂躏了！"
+
 # scripts/entity/world/settlements/situations/raided_situation.nut
 msgid ""
 "These are dangerous times indeed, sellsword. I just got word that "
 "%settlement% was plundered and raided not two nights past."
 msgstr "现在确实是危险时期，佣兵。我刚得到消息说 %settlement% 不到两个晚上就被抢掠和掠夺了。"
-
-# scripts/entity/world/settlements/situations/local_holiday_situation.nut
-msgid ""
-"If you're looking to have a good time, head on over to %settlement% and join"
-" their celebration! Boy, I wish I could be there."
-msgstr "如果你想玩得开心，就去 %settlement% 参加他们的庆祝活动吧！天呐，我真希望我能在那里。"
-
-# scripts/entity/world/settlements/situations/hunting_season_situation.nut
-msgid ""
-"Do you like venison, sellsword? And how about your men? I heard that hunting"
-" season has started in %settlement%. Just saying."
-msgstr "你喜欢鹿肉吗，佣兵？你的人呢？我听说 %settlement% 的狩猎季节已经开始了。只是说说而已。"
-
-# scripts/entity/world/settlements/situations/full_nets_situation.nut
-msgid ""
-"Tomorrow I'll head out to %settlement% and fill my carts with fish. Rumor "
-"has it the fishermen over there hit a lucky streak!"
-msgstr "明天我要去 %settlement%，把鱼装满我的货车。谣传那边的渔民们走运了！"
 
 # scripts/entity/world/settlements/situations/refugees_situation.nut
 msgid ""
@@ -652,17 +634,35 @@ msgid ""
 "refugees just arrived and I need more hands for my farm."
 msgstr "早上好，我要去 %settlement%。听说有一大群难民刚到，我的农场需要更多的人手。"
 
-# scripts/entity/world/settlements/situations/abducted_children_situation.nut
+# scripts/entity/world/settlements/situations/hunting_season_situation.nut
 msgid ""
-"Children have been disappearing from this settlement. Distrust and fear rule"
-" the streets and are slowly poisoning the community."
-msgstr "孩子们从这个定居点消失了。不信任和恐惧统治着街道，并慢慢毒害着社区。"
+"Do you like venison, sellsword? And how about your men? I heard that hunting"
+" season has started in %settlement%. Just saying."
+msgstr "你喜欢鹿肉吗，佣兵？你的人呢？我听说 %settlement% 的狩猎季节已经开始了。只是说说而已。"
+
+# scripts/entity/world/settlements/situations/local_holiday_situation.nut
+msgid ""
+"If you're looking to have a good time, head on over to %settlement% and join"
+" their celebration! Boy, I wish I could be there."
+msgstr "如果你想玩得开心，就去 %settlement% 参加他们的庆祝活动吧！天呐，我真希望我能在那里。"
+
+# scripts/entity/world/settlements/situations/full_nets_situation.nut
+msgid ""
+"Tomorrow I'll head out to %settlement% and fill my carts with fish. Rumor "
+"has it the fishermen over there hit a lucky streak!"
+msgstr "明天我要去 %settlement%，把鱼装满我的货车。谣传那边的渔民们走运了！"
 
 # scripts/entity/world/settlements/situations/arena_tournament_situation.nut
 msgid ""
 "After this drink I will head straight out towards %settlement% to watch the "
 "great arena tournament! Best entertainment all year!"
 msgstr "喝了这杯酒，我就直奔 %settlement% 去看伟大的竞技场比赛！全年最佳娱乐节目！"
+
+# scripts/entity/world/settlements/situations/abducted_children_situation.nut
+msgid ""
+"Children have been disappearing from this settlement. Distrust and fear rule"
+" the streets and are slowly poisoning the community."
+msgstr "孩子们从这个定居点消失了。不信任和恐惧统治着街道，并慢慢毒害着社区。"
 
 # scripts/entity/world/settlements/situations/greenskins_situation.nut
 msgid ""
@@ -694,6 +694,18 @@ msgid ""
 "by shifting sands. But who believes nonsense like that?"
 msgstr "有消息说，在去 %settlement% 的路上，商人们被流沙吞没了。但谁会相信这种胡话？"
 
+# scripts/entity/world/settlements/situations/draught_situation.nut
+msgid ""
+"A terrible drought is ailing %settlement% from what I hear. It's always been"
+" hard for the folks over there, but this time it's dire."
+msgstr "据我所知，%settlement% 正遭受严重的干旱。对那边的人来说一直很艰难，但这次更可怕。"
+
+# scripts/entity/world/settlements/situations/razed_situation.nut
+msgid ""
+"Floods of refugees have been arriving from %settlement%. They claim that "
+"most of it has been burned to the ground! Can this be true?"
+msgstr "大批难民从 %settlement% 涌来。他们声称大部分都被烧成了白地！这是真的吗？"
+
 # scripts/entity/world/settlements/situations/rebuilding_effort_situation.nut
 msgid ""
 "I heard they're bringing in wood to %settlement% with wagons now. The new "
@@ -705,18 +717,6 @@ msgid ""
 "You afraid of snakes? A lot have been seen near %settlement% lately, some as"
 " long as my arm, some as long as a whole trader's wagon!"
 msgstr "你怕蛇吗？最近在 %settlement% 附近看到了很多东西，有的像我的胳膊那么长，有的像整个商人的载重货车那么长！"
-
-# scripts/entity/world/settlements/situations/razed_situation.nut
-msgid ""
-"Floods of refugees have been arriving from %settlement%. They claim that "
-"most of it has been burned to the ground! Can this be true?"
-msgstr "大批难民从 %settlement% 涌来。他们声称大部分都被烧成了白地！这是真的吗？"
-
-# scripts/entity/world/settlements/situations/draught_situation.nut
-msgid ""
-"A terrible drought is ailing %settlement% from what I hear. It's always been"
-" hard for the folks over there, but this time it's dire."
-msgstr "据我所知，%settlement% 正遭受严重的干旱。对那边的人来说一直很艰难，但这次更可怕。"
 
 # scripts/entity/world/settlements/situations/ceremonial_season_situation.nut
 msgid ""
@@ -760,17 +760,17 @@ msgid ""
 "smiling on us and granted us the best harvest in many years!"
 msgstr "我从 %settlement% 来这里卖我们的额外产品。上帝一直对我们微笑，赐予我们多年来最好的收成！"
 
-# scripts/entity/world/settlements/situations/rich_veins_situation.nut
-msgid ""
-"They struck a mother lode over in %settlement%. I myself worked the mines "
-"for decades, too, and all I got to show for it is a bad cough."
-msgstr "他们在 %settlement% 的一个母矿脉里打起来了。我自己也在矿井里工作了几十年，我所能表现出来的只是一次严重的咳嗽。"
-
 # scripts/entity/world/settlements/situations/disappearing_villagers_situation.nut
 msgid ""
 "I just cancelled my visit to %settlement% after I heard that people go "
 "missing over there. Staying out of trouble served me well so far!"
 msgstr "听说那边有人失踪，我就取消了%settlement% 之行。到目前为止，远离麻烦对我很有帮助！"
+
+# scripts/entity/world/settlements/situations/rich_veins_situation.nut
+msgid ""
+"They struck a mother lode over in %settlement%. I myself worked the mines "
+"for decades, too, and all I got to show for it is a bad cough."
+msgstr "他们在 %settlement% 的一个母矿脉里打起来了。我自己也在矿井里工作了几十年，我所能表现出来的只是一次严重的咳嗽。"
 
 # scripts/entity/world/settlements/situations/cultist_procession_situation.nut
 msgid ""
@@ -778,11 +778,11 @@ msgid ""
 "good! Somebody should send the witch hunters their way, I'd say!"
 msgstr "%settlement% 到处都是奇怪的异教徒，他们肯定在干坏事！我得说，应该有人把女巫猎人送过去！"
 
-# scripts/entity/world/settlements/situations/besieged_situation.nut
+# scripts/entity/world/settlements/situations/refugees_situation.nut
 msgid ""
-"This place is or has until recently been besieged by the enemy! It's "
-"suffered damage, the supplies are low and many have lost their lives."
-msgstr "这个地方现在或直到最近一直被敌人围困！它遭受了破坏，补给不足，许多人丧生。"
+"From what I've heard, %settlement% is flooded with refugees nowadays. Those "
+"cowards should have stayed and fought for their home, I'd say!"
+msgstr "据我所知，%settlement% 现在到处都是难民。要我说，那些懦夫应该留下来为他们的家而战！"
 
 # scripts/entity/world/settlements/situations/collectors_situation.nut
 msgid ""
@@ -790,11 +790,11 @@ msgid ""
 "There's good coin to be made selling beast trophies and like here."
 msgstr ""
 
-# scripts/entity/world/settlements/situations/refugees_situation.nut
+# scripts/entity/world/settlements/situations/besieged_situation.nut
 msgid ""
-"From what I've heard, %settlement% is flooded with refugees nowadays. Those "
-"cowards should have stayed and fought for their home, I'd say!"
-msgstr "据我所知，%settlement% 现在到处都是难民。要我说，那些懦夫应该留下来为他们的家而战！"
+"This place is or has until recently been besieged by the enemy! It's "
+"suffered damage, the supplies are low and many have lost their lives."
+msgstr "这个地方现在或直到最近一直被敌人围困！它遭受了破坏，补给不足，许多人丧生。"
 
 # scripts/entity/world/settlements/situations/rich_veins_situation.nut
 msgid ""
@@ -820,29 +820,23 @@ msgid ""
 " of starving, food is hard to come by and prices are on the rise."
 msgstr "最近的事件使这个地方缺少食物。由于人们处于饥饿的边缘，食物很难得到，价格也在上涨。"
 
-# scripts/entity/world/settlements/situations/raided_situation.nut
-msgid ""
-"You one of them raiders? Sure look and smell like one! Your men pillage "
-"%settlement%? Get out of here, I says, we don't want your kind around!"
-msgstr "你是掠夺者吗？当然，看起来和闻起来都像！你的人抢劫 %settlement%？离开这里，我说，我们不想你们这种人在身边！"
-
 # scripts/entity/world/settlements/situations/seasonal_fair_situation.nut
 msgid ""
 "What's going on around here you're asking? Well, there's a fair over in "
 "%settlement%. Merchants from far and wide gather to offer their wares."
 msgstr "你在问这附近发生了什么事？嗯，%settlement% 有个集市。来自四面八方的商人聚集在一起献上他们的货物。"
 
+# scripts/entity/world/settlements/situations/raided_situation.nut
+msgid ""
+"You one of them raiders? Sure look and smell like one! Your men pillage "
+"%settlement%? Get out of here, I says, we don't want your kind around!"
+msgstr "你是掠夺者吗？当然，看起来和闻起来都像！你的人抢劫 %settlement%？离开这里，我说，我们不想你们这种人在身边！"
+
 # scripts/entity/world/settlements/situations/archery_contest_situation.nut
 msgid ""
 "Anyone skilled with a bow is making their way to %settlement% these days for"
 " some contest. Most of them poachers and other lowlifes, I imagine."
 msgstr "这些天，任何熟练的弓箭手都要去 %settlement% 参加比赛。我想，他们中的大多数是偷猎者和其他贱民。"
-
-# scripts/entity/world/settlements/situations/terrified_villagers_situation.nut
-msgid ""
-"The dead ain't really dead, sometimes they come back to haunt the living! "
-"Don't believe me? Just head over to %settlement% and see for yourself!"
-msgstr "死去的人并不是真的死了，有时候他们会回来缠着活着的人！你不相信我？你自己去 %settlement% 看看吧！"
 
 # scripts/entity/world/settlements/situations/ambushed_trade_routes_situation.nut
 msgid ""
@@ -855,6 +849,12 @@ msgid ""
 "My cousin over in %settlement% keeps bragging about how good they have it "
 "there. Well stocked market stands and all. Not like this rotten place."
 msgstr "我在 %settlement% 的表哥一直在吹嘘那里有多好。存货充足的市场摊位等等。不像这个烂地方。"
+
+# scripts/entity/world/settlements/situations/terrified_villagers_situation.nut
+msgid ""
+"The dead ain't really dead, sometimes they come back to haunt the living! "
+"Don't believe me? Just head over to %settlement% and see for yourself!"
+msgstr "死去的人并不是真的死了，有时候他们会回来缠着活着的人！你不相信我？你自己去 %settlement% 看看吧！"
 
 # scripts/entity/world/settlements/situations/preparing_feast_situation.nut
 msgid ""
@@ -875,17 +875,18 @@ msgid ""
 "%settlement%. Sure as hell would not want to meet whatever beast left those!"
 msgstr "一位旅行商人告诉我，从 %settlement% 来的路上有巨大的脚印。当然他妈的不想见到那些野兽留下的东西！"
 
+# scripts/entity/world/settlements/situations/mine_cavein_situation.nut
+msgid ""
+"A delivery of ores and minerals from the mines of %settlement% was due "
+"today, but alas it did not arrive yet. Something must have happened over "
+"there."
+msgstr "从 %settlement% 的矿场运来的矿石和矿物预计今天就到了，可惜还没到。那边一定发生了什么事。"
+
 # scripts/entity/world/settlements/situations/mustering_troops_situation.nut
 msgid ""
 "Another damn noble is pressing younglings into a regiment at %settlement%. "
 "Ach, why am I even talking to you about this, sellsword? You are no better!"
 msgstr "另一个该死的贵族正在 %settlement% 把年轻人逼进一个团。啊，为什么我要跟你谈这个，佣兵？你一点也不好！"
-
-# scripts/entity/world/settlements/situations/safe_roads_situation.nut
-msgid ""
-"The roads leading here have been reasonably safe of late, which allowed for "
-"many a profitable trade to be made and the settlement to prosper somewhat."
-msgstr "最近通往这里的道路相当安全，这使得许多有利可图的贸易得以进行，定居点也有所繁荣。"
 
 # scripts/entity/world/settlements/situations/sand_storm_situation.nut
 msgid ""
@@ -894,12 +895,11 @@ msgid ""
 "higher."
 msgstr "呼啸的沙尘暴吞噬了这座城市，阻碍了商人安全进出。商品越来越稀缺，价格越来越高。"
 
-# scripts/entity/world/settlements/situations/mine_cavein_situation.nut
+# scripts/entity/world/settlements/situations/safe_roads_situation.nut
 msgid ""
-"A delivery of ores and minerals from the mines of %settlement% was due "
-"today, but alas it did not arrive yet. Something must have happened over "
-"there."
-msgstr "从 %settlement% 的矿场运来的矿石和矿物预计今天就到了，可惜还没到。那边一定发生了什么事。"
+"The roads leading here have been reasonably safe of late, which allowed for "
+"many a profitable trade to be made and the settlement to prosper somewhat."
+msgstr "最近通往这里的道路相当安全，这使得许多有利可图的贸易得以进行，定居点也有所繁荣。"
 
 # scripts/entity/world/settlements/situations/bread_and_games_situation.nut
 msgid ""
@@ -908,13 +908,6 @@ msgid ""
 "you."
 msgstr "一年来所有的辛苦工作都是为了什么？我告诉你：吃的，喝的，玩的！我要去 %settlement% 参加，你也应该去。"
 
-# scripts/entity/world/settlements/situations/terrifying_nightmares_situation.nut
-msgid ""
-"The other day I came through %settlement%. Something is wrong there. Pale "
-"faces, tired eyes and shambling walks. It's like they didn't sleep in a "
-"week!"
-msgstr "前几天我经过 %settlement%。那里有点不对劲。苍白的脸，疲惫的眼睛和蹒跚的行走。就像他们一个星期没睡觉一样！"
-
 # scripts/entity/world/settlements/situations/greenskins_situation.nut
 msgid ""
 "Did you see the columns of smoke in the evening sky? They are rising over "
@@ -922,18 +915,18 @@ msgid ""
 "countryside."
 msgstr "你看见夜空中的烟柱了吗？它们从 %settlement% 升起，绿皮在那里焚烧和掠夺乡村。"
 
+# scripts/entity/world/settlements/situations/terrifying_nightmares_situation.nut
+msgid ""
+"The other day I came through %settlement%. Something is wrong there. Pale "
+"faces, tired eyes and shambling walks. It's like they didn't sleep in a "
+"week!"
+msgstr "前几天我经过 %settlement%。那里有点不对劲。苍白的脸，疲惫的眼睛和蹒跚的行走。就像他们一个星期没睡觉一样！"
+
 # scripts/entity/world/settlements/situations/disbanded_troops_situation.nut
 msgid ""
 "With a local conflict now solved, many levied troops and their weapons are "
 "no longer needed. A good time to grab a bargain or hire experienced new men."
 msgstr "随着当地冲突的解决，许多被征召的军队和他们的武器不再需要了。是个讨价还价或雇佣有经验的新人的好时机。"
-
-# scripts/entity/world/settlements/situations/short_on_food_situation.nut
-msgid ""
-"The men and women in %settlement% are starving, I heard, with nothing but "
-"dirt to eat. I don't think I'll ever complain about my mouldy grain soup "
-"again!"
-msgstr "我听说 %settlement% 的男男女女都在挨饿，除了土什么都没得吃。我想我再也不会抱怨我的霉粮汤了！"
 
 # scripts/entity/world/settlements/situations/public_executions_situation.nut
 msgid ""
@@ -942,12 +935,12 @@ msgid ""
 "executions!"
 msgstr "一大群人正赶往 %settlement% 观看盛大的盛会！男人，女人，年轻人，都在路上要赶去看即将到来的处决！"
 
-# scripts/entity/world/settlements/situations/high_spirits_situation.nut
+# scripts/entity/world/settlements/situations/short_on_food_situation.nut
 msgid ""
-"I arrived from %settlement% today, my clothes are still dusty from the road."
-" The folks over there surely were in a good mood, not quite sure why "
-"though..."
-msgstr "我今天从 %settlement% 来的，我的衣服还沾满了路上的灰尘。那边的人心情肯定很好，不知道为什么…"
+"The men and women in %settlement% are starving, I heard, with nothing but "
+"dirt to eat. I don't think I'll ever complain about my mouldy grain soup "
+"again!"
+msgstr "我听说 %settlement% 的男男女女都在挨饿，除了土什么都没得吃。我想我再也不会抱怨我的霉粮汤了！"
 
 # scripts/entity/world/settlements/situations/collectors_situation.nut
 msgid ""
@@ -956,6 +949,13 @@ msgid ""
 " find."
 msgstr ""
 
+# scripts/entity/world/settlements/situations/high_spirits_situation.nut
+msgid ""
+"I arrived from %settlement% today, my clothes are still dusty from the road."
+" The folks over there surely were in a good mood, not quite sure why "
+"though..."
+msgstr "我今天从 %settlement% 来的，我的衣服还沾满了路上的灰尘。那边的人心情肯定很好，不知道为什么…"
+
 # scripts/entity/world/settlements/situations/witch_burnings_situation.nut
 msgid ""
 "A fiery spectacle, witch burnings attract spectators, and spectators attract"
@@ -963,19 +963,19 @@ msgid ""
 "town..."
 msgstr "一个火热的场面，焚烧女巫吸引观众，观众吸引了食品摊。然后，镇上肯定会有很多女巫猎人…"
 
-# scripts/entity/world/settlements/situations/moving_sands_situation.nut
-msgid ""
-"The area around the city has been infested with swarming serpents, some "
-"especially large. Trade has suffered and goods have become more rare and "
-"expensive."
-msgstr "城市周围地区到处都是成群的大蛇，有些蛇特别大。贸易受到影响，商品变得稀缺和昂贵。"
-
 # scripts/entity/world/settlements/situations/snow_storms_situation.nut
 msgid ""
 "Snow storms have more or less isolated this settlement from trade. Because "
 "few new goods have been coming in, the selection is lower and prices are "
 "higher."
 msgstr "暴风雪或多或少地将这个定居点与外界的贸易隔离开来。因为很少有新产品进入市场，所以选择较低，价格较高。"
+
+# scripts/entity/world/settlements/situations/moving_sands_situation.nut
+msgid ""
+"The area around the city has been infested with swarming serpents, some "
+"especially large. Trade has suffered and goods have become more rare and "
+"expensive."
+msgstr "城市周围地区到处都是成群的大蛇，有些蛇特别大。贸易受到影响，商品变得稀缺和昂贵。"
 
 # scripts/entity/world/settlements/situations/public_executions_situation.nut
 msgid ""
@@ -991,13 +991,6 @@ msgid ""
 "bloodied up..."
 msgstr "我刚看到最令人毛骨悚然的游行队伍经过 %settlement%！蒙面的人影，鞭打着自己的后背，直到他们都血淋淋的…"
 
-# scripts/entity/world/settlements/situations/terrified_villagers_situation.nut
-msgid ""
-"The villagers here are terrified of unknown horrors. Fewer potential "
-"recruits are to be found on the streets, and people deal less favourably "
-"with strangers."
-msgstr "这里的村民害怕未知的恐怖。街上潜在的新兵越来越少，人们对陌生人的态度也越来越差。"
-
 # scripts/entity/world/settlements/situations/short_on_food_situation.nut
 msgid ""
 "Some farmer just arrived today from %settlement%. Told stories of slain "
@@ -1005,12 +998,12 @@ msgid ""
 " himself!"
 msgstr "有个农夫今天刚从 %settlement% 来。讲述了被杀的牛，被烧毁的田地和空荡荡的储藏室的故事。他自己看起来就像个活骷髅！"
 
-# scripts/entity/world/settlements/situations/sickness_situation.nut
+# scripts/entity/world/settlements/situations/terrified_villagers_situation.nut
 msgid ""
-"We had some folks coming here from %settlement%, but had to send them away "
-"at the gates. Everybody knows that a cruel disease is spreading in that "
-"cursed town."
-msgstr "我们有一些人从 %settlement% 来，但不得不把他们送到大门口。每个人都知道一种残酷的恶疾正在那个被诅咒的城镇蔓延。"
+"The villagers here are terrified of unknown horrors. Fewer potential "
+"recruits are to be found on the streets, and people deal less favourably "
+"with strangers."
+msgstr "这里的村民害怕未知的恐怖。街上潜在的新兵越来越少，人们对陌生人的态度也越来越差。"
 
 # scripts/entity/world/settlements/situations/abducted_children_situation.nut
 msgid ""
@@ -1018,6 +1011,13 @@ msgid ""
 "innocent blood. And now in %settlement%, kids have gone missing just like in"
 " the stories."
 msgstr "我奶奶给我讲了一个故事，说女巫为了孩子的清白血液而拐走他们。现在在 %settlement%，孩子们像故事里那样失踪了。"
+
+# scripts/entity/world/settlements/situations/sickness_situation.nut
+msgid ""
+"We had some folks coming here from %settlement%, but had to send them away "
+"at the gates. Everybody knows that a cruel disease is spreading in that "
+"cursed town."
+msgstr "我们有一些人从 %settlement% 来，但不得不把他们送到大门口。每个人都知道一种残酷的恶疾正在那个被诅咒的城镇蔓延。"
 
 # scripts/entity/world/settlements/situations/terrifying_nightmares_situation.nut
 msgid ""
@@ -1083,6 +1083,14 @@ msgid ""
 msgstr ""
 "你看起来像个能干的剑客！我听说有传言说死者又在 %settlement% 附近散步。可能是骗人的，但受惊吓的人往往会为了再次感到安全而付高价。"
 
+# scripts/entity/world/settlements/situations/mirage_sightings_situation.nut
+msgid ""
+"I tell you, a wonderous lush oasis, golden roofs flimmering in the distance,"
+" rainbow colored birds ahead! Where I saw that? Well, it was on the road to "
+"%settlement%. I swear!"
+msgstr ""
+"我告诉你，一片郁郁葱葱的绿洲，金色的屋顶在远处飞舞，彩虹色的鸟儿在前方飞翔！我在哪里看到的？嗯，是在去 %settlement% 的路上。我发誓！"
+
 # scripts/entity/world/settlements/situations/besieged_situation.nut
 msgid ""
 "When I was younger, I served in %randomnoble%'s army. The worst was a siege "
@@ -1092,14 +1100,6 @@ msgstr ""
 "我年轻时曾在 %randomnoble%的军队服役。最糟糕的是我们参与的围攻，持续了几个月。很遗憾现在那里又发生了这种事，那是 "
 "%settlement%。"
 
-# scripts/entity/world/settlements/situations/mirage_sightings_situation.nut
-msgid ""
-"I tell you, a wonderous lush oasis, golden roofs flimmering in the distance,"
-" rainbow colored birds ahead! Where I saw that? Well, it was on the road to "
-"%settlement%. I swear!"
-msgstr ""
-"我告诉你，一片郁郁葱葱的绿洲，金色的屋顶在远处飞舞，彩虹色的鸟儿在前方飞翔！我在哪里看到的？嗯，是在去 %settlement% 的路上。我发誓！"
-
 # scripts/entity/world/settlements/situations/mustering_troops_situation.nut
 msgid ""
 "Order has been given to muster troops for service in this settlement. "
@@ -1107,19 +1107,19 @@ msgid ""
 " selling arms and armor here."
 msgstr "在这个定居点，已经下令集合部队服役。装备和新兵供应不足，但在这里出售武器和盔甲可以迅速获得克朗。"
 
-# scripts/entity/world/settlements/situations/ambushed_trade_routes_situation.nut
-msgid ""
-"The roads leading here are unsafe of late, and many a caravan has been "
-"ambushed and plundered. With little successful trade, the selection of goods"
-" is lower and the prices higher."
-msgstr "最近通往这里的道路不安全，许多商队遭到伏击和抢掠了。由于贸易不太成功，货物的选择较少，价格较高。"
-
 # scripts/entity/world/settlements/situations/disbanded_troops_situation.nut
 msgid ""
 "I'm concerned for my niece; an entire unit of soldiers got disbanded at "
 "%settlement%, right near where she lives. Things won't end well if those "
 "brutes don't find employment soon!"
 msgstr "我关心我的侄女；整个部队在 %settlement% 解散了，就在她住的地方附近。如果那些畜生不尽快找到工作，就会发生更不好的事情！"
+
+# scripts/entity/world/settlements/situations/ambushed_trade_routes_situation.nut
+msgid ""
+"The roads leading here are unsafe of late, and many a caravan has been "
+"ambushed and plundered. With little successful trade, the selection of goods"
+" is lower and the prices higher."
+msgstr "最近通往这里的道路不安全，许多商队遭到伏击和抢掠了。由于贸易不太成功，货物的选择较少，价格较高。"
 
 # scripts/entity/world/settlements/situations/disappearing_villagers_situation.nut
 msgid ""
@@ -1142,6 +1142,13 @@ msgid ""
 "without means to feed their families."
 msgstr "在一个山洞的一个矿井里，一场悲惨的事故发生了。生产停止，直到损害得到修复，矿工们没有办法养家糊口。"
 
+# scripts/entity/world/settlements/situations/disbanded_troops_situation.nut
+msgid ""
+"Standing armies are expensive, my friend. I heard an entire regiment was "
+"disbanded at %settlement%. Surely there'll be some veteran fighters "
+"lingering there still, desperate for coin."
+msgstr "常备军很昂贵，我的朋友。我听说整个团在 %settlement% 解散了。肯定会有一些老兵还在那里徘徊，急切地想要硬币。"
+
 # scripts/entity/world/settlements/situations/local_holiday_situation.nut
 msgid ""
 "The good folks over in %settlement% are having their annual holiday right "
@@ -1155,13 +1162,6 @@ msgid ""
 "settlement. It puts a strain on local economy, but it also means cheap "
 "recruits for anyone that can offer work."
 msgstr "随着战争的爆发，源源不断的难民涌入这个定居点。这给当地经济带来了压力，但也意味着为任何能提供工作的人提供廉价的招聘机会。"
-
-# scripts/entity/world/settlements/situations/disbanded_troops_situation.nut
-msgid ""
-"Standing armies are expensive, my friend. I heard an entire regiment was "
-"disbanded at %settlement%. Surely there'll be some veteran fighters "
-"lingering there still, desperate for coin."
-msgstr "常备军很昂贵，我的朋友。我听说整个团在 %settlement% 解散了。肯定会有一些老兵还在那里徘徊，急切地想要硬币。"
 
 # scripts/entity/world/settlements/situations/warehouse_burned_down_situation.nut
 msgid ""
@@ -1232,6 +1232,13 @@ msgstr "这个地方最近被征服了。许多人丧生，幸存者不得不忍
 
 # scripts/entity/world/settlements/situations/public_executions_situation.nut
 msgid ""
+"A public execution is not to be missed and provides entertainment for the "
+"whole family. Food and drink are abundant during such an occasion, but "
+"merchants may also try to take advantage of spectators."
+msgstr "公开处决是不容错过的，它为全家人提供了娱乐。在这样的场合，食物和饮料都很丰富，但商人也可能会试图利用观众。"
+
+# scripts/entity/world/settlements/situations/public_executions_situation.nut
+msgid ""
 "Us poor folks don't have much to enjoy these days, but a good hanging is "
 "always welcome. Hasn't been one here since autumn, but they is hanging folk "
 "over at %settlement% is what %randomname% tells me."
@@ -1239,12 +1246,14 @@ msgstr ""
 "现在，我们穷人没有什么好享受的，但是，一个好的绞刑总是受欢迎的。秋天以后这里就没人来过了，但他们在 %settlement% 有一些人，这是 "
 "%randomname% 告诉我的。"
 
-# scripts/entity/world/settlements/situations/public_executions_situation.nut
+# scripts/entity/world/settlements/situations/disappearing_villagers_situation.nut
 msgid ""
-"A public execution is not to be missed and provides entertainment for the "
-"whole family. Food and drink are abundant during such an occasion, but "
-"merchants may also try to take advantage of spectators."
-msgstr "公开处决是不容错过的，它为全家人提供了娱乐。在这样的场合，食物和饮料都很丰富，但商人也可能会试图利用观众。"
+"Me neighbour %randomname% went to %settlement% 'bout a week ago. Haven't "
+"heard a word of him since. I just hope nothing happened to him, you know, "
+"with them brigands and monsters and all roaming 'bout..."
+msgstr ""
+"我的邻居 %randomname% 大约一周前去了 "
+"%settlement%。从那以后就再也没有听到过他的消息。我只希望他什么事也没发生，你知道，那里的强盗和怪物，到处游荡…"
 
 # scripts/entity/world/settlements/situations/lost_at_sea_situation.nut
 msgid ""
@@ -1259,15 +1268,6 @@ msgid ""
 " come out in the scorching sun, during the mid of day. Head on to "
 "%settlement% if you want to find out what I am talking about."
 msgstr "有些邪恶不会在黑夜中降临，也不会隐藏在暗处。他们在烈日下，在中午出来。如果你想知道我在说什么，就去 %settlement% 吧。"
-
-# scripts/entity/world/settlements/situations/disappearing_villagers_situation.nut
-msgid ""
-"Me neighbour %randomname% went to %settlement% 'bout a week ago. Haven't "
-"heard a word of him since. I just hope nothing happened to him, you know, "
-"with them brigands and monsters and all roaming 'bout..."
-msgstr ""
-"我的邻居 %randomname% 大约一周前去了 "
-"%settlement%。从那以后就再也没有听到过他的消息。我只希望他什么事也没发生，你知道，那里的强盗和怪物，到处游荡…"
 
 # scripts/entity/world/settlements/situations/witch_burnings_situation.nut
 msgid ""

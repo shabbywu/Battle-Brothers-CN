@@ -23,12 +23,16 @@ msgstr "竞技场"
 msgid "Enemy"
 msgstr ""
 
+# scripts/factions/noble_faction.nut
+msgid "House "
+msgstr ""
+
 # scripts/factions/faction_manager.nut
 msgid "Undead"
 msgstr "亡灵"
 
-# scripts/factions/noble_faction.nut
-msgid "House "
+# scripts/factions/faction_manager.nut
+msgid "Bandits"
 msgstr ""
 
 # scripts/factions/faction_manager.nut
@@ -36,16 +40,12 @@ msgid "Goblins"
 msgstr "地精"
 
 # scripts/factions/faction_manager.nut
-msgid "Bandits"
+msgid " cycles..."
 msgstr ""
 
 # scripts/factions/faction_manager.nut
 msgid "Barbarians"
 msgstr "野蛮人"
-
-# scripts/factions/faction_manager.nut
-msgid " cycles..."
-msgstr ""
 
 # scripts/factions/faction_manager.nut
 msgid "Necromancers"

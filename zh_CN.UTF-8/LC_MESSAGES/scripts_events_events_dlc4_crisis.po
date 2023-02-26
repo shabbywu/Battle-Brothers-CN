@@ -3,12 +3,12 @@ msgid ""
 msgstr ""
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
-msgid "Refuse"
-msgstr ""
-
-# scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
 msgid "Accept"
 msgstr "接受"
+
+# scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
+msgid "Refuse"
+msgstr ""
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
 msgid "You gain "

@@ -10,13 +10,13 @@ msgstr "古代桂冠"
 msgid "Ancient Headpiece"
 msgstr ""
 
-# scripts/items/helmets/ancient/ancient_legionary_helmet.nut
-msgid "Ancient Legionary Helmet"
-msgstr "古代军盔"
-
 # scripts/items/helmets/ancient/ancient_household_helmet.nut
 msgid "Ancient Household Helmet"
 msgstr "古代贵族头盔"
+
+# scripts/items/helmets/ancient/ancient_legionary_helmet.nut
+msgid "Ancient Legionary Helmet"
+msgstr "古代军盔"
 
 # scripts/items/helmets/ancient/ancient_honorguard_helmet.nut
 msgid "Ancient Honor Guard Helmet"

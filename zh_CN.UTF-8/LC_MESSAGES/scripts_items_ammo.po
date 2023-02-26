@@ -2,10 +2,6 @@
 msgid ""
 msgstr ""
 
-# scripts/items/ammo/ammo.nut
-msgid "ammo"
-msgstr ""
-
 # scripts/items/ammo/powder_bag.nut
 msgid "Powder Bag"
 msgstr "火药包"
@@ -20,18 +16,14 @@ msgstr ""
 msgid "[/color] bolts"
 msgstr ""
 
-# scripts/items/ammo/quiver_of_arrows.nut
-# scripts/items/ammo/large_quiver_of_arrows.nut
-msgid "[/color] arrows"
-msgstr ""
-
 # scripts/items/ammo/quiver_of_bolts.nut
 msgid "Quiver of Bolts"
 msgstr "弩矢袋"
 
-# scripts/items/ammo/large_powder_bag.nut
-msgid "Large Powder Bag"
-msgstr "大火药包"
+# scripts/items/ammo/quiver_of_arrows.nut
+# scripts/items/ammo/large_quiver_of_arrows.nut
+msgid "[/color] arrows"
+msgstr ""
 
 # scripts/items/ammo/quiver_of_arrows.nut
 # scripts/items/ammo/quiver_of_bolts.nut
@@ -39,6 +31,10 @@ msgstr "大火药包"
 # scripts/items/ammo/large_quiver_of_bolts.nut
 msgid "Contains [color="
 msgstr ""
+
+# scripts/items/ammo/large_powder_bag.nut
+msgid "Large Powder Bag"
+msgstr "大火药包"
 
 # scripts/items/ammo/quiver_of_arrows.nut
 msgid "Quiver of Arrows"

@@ -12,13 +12,13 @@ msgid "Shaman"
 msgstr ""
 
 # scripts/skills/racial/vampire_racial.nut
-msgid "Vampire"
-msgstr ""
-
-# scripts/skills/racial/vampire_racial.nut
 # scripts/skills/racial/trickster_god_racial.nut
 # scripts/skills/racial/unhold_racial.nut
 msgid " points"
+msgstr ""
+
+# scripts/skills/racial/vampire_racial.nut
+msgid "Vampire"
 msgstr ""
 
 # scripts/skills/racial/champion_racial.nut

@@ -10,10 +10,6 @@ msgstr "好哇！"
 msgid "Saved "
 msgstr ""
 
-# scripts/events/events/dlc6/retired_gladiator_event.nut
-msgid "the Wolf"
-msgstr "狼"
-
 # scripts/events/events/dlc6/dried_oasis_event.nut
 msgid " is sick"
 msgstr " 是生病了"
@@ -22,22 +18,14 @@ msgstr " 是生病了"
 msgid "Careful!"
 msgstr "小心！"
 
-# scripts/events/events/dlc6/gunpowder_wagon_event.nut
-# scripts/events/events/dlc6/dried_oasis_event.nut
-# scripts/events/events/dlc6/sellsword_retires_event.nut
-# scripts/events/events/dlc6/sword_eater_event.nut
-# scripts/events/events/dlc6/desert_well_event.nut
-msgid "You gain "
-msgstr "你获得了 "
+# scripts/events/events/dlc6/retired_gladiator_event.nut
+msgid "the Wolf"
+msgstr "狼"
 
 # scripts/events/events/dlc6/desert_fall_event.nut
 # scripts/events/events/dlc6/dried_oasis_event.nut
 msgid " suffers "
 msgstr " 遭受 "
-
-# scripts/events/events/dlc6/trade_black_book_event.nut
-msgid "You lose "
-msgstr "你失去了 "
 
 # scripts/events/events/dlc6/gunpowder_wagon_event.nut
 # scripts/events/events/dlc6/pirates_event.nut
@@ -48,6 +36,26 @@ msgstr "你也是。"
 msgid "Nice try."
 msgstr "不错的尝试。"
 
+# scripts/events/events/dlc6/gunpowder_wagon_event.nut
+# scripts/events/events/dlc6/dried_oasis_event.nut
+# scripts/events/events/dlc6/sellsword_retires_event.nut
+# scripts/events/events/dlc6/sword_eater_event.nut
+# scripts/events/events/dlc6/desert_well_event.nut
+msgid "You gain "
+msgstr "你获得了 "
+
+# scripts/events/events/dlc6/trade_black_book_event.nut
+msgid "You lose "
+msgstr "你失去了 "
+
+# scripts/events/events/dlc6/sellsword_retires_event.nut
+msgid "Good luck."
+msgstr "祝好运。"
+
+# scripts/events/events/dlc6/fire_juggler_event.nut
+msgid "Take care."
+msgstr "保重。"
+
 # scripts/events/events/dlc6/dried_oasis_event.nut
 msgid "Well done."
 msgstr "很出色。"
@@ -56,19 +64,13 @@ msgstr "很出色。"
 msgid "the Sailor"
 msgstr ""
 
-# scripts/events/events/dlc6/fire_juggler_event.nut
-msgid "Take care."
-msgstr "保重。"
+# scripts/events/events/dlc6/sellsword_vs_bees_event.nut
+msgid "Good... job"
+msgstr ""
 
-# scripts/events/events/dlc6/sellsword_retires_event.nut
-msgid "Good luck."
-msgstr "祝好运。"
-
-# scripts/events/events/dlc6/trade_black_book_event.nut
-# scripts/events/events/dlc6/cultish_arrangement_event.nut
 # scripts/events/events/dlc6/retired_gladiator_event.nut
-msgid "You gain a "
-msgstr "你获得了一个 "
+msgid "No, thanks."
+msgstr "不了，谢谢。"
 
 # scripts/events/events/dlc6/dried_oasis_event.nut
 msgid "We move on!"
@@ -78,25 +80,28 @@ msgstr "我们继续前进！"
 msgid "We're good."
 msgstr "我们没事。"
 
+# scripts/events/events/dlc6/trade_black_book_event.nut
+# scripts/events/events/dlc6/cultish_arrangement_event.nut
 # scripts/events/events/dlc6/retired_gladiator_event.nut
-msgid "No, thanks."
-msgstr "不了，谢谢。"
+msgid "You gain a "
+msgstr "你获得了一个 "
 
-# scripts/events/events/dlc6/sellsword_vs_bees_event.nut
-msgid "Good... job"
+# scripts/events/events/dlc6/fire_juggler_event.nut
+msgid "firejuggler"
 msgstr ""
 
 # scripts/events/events/dlc6/pirates_event.nut
 msgid "the Mariner"
 msgstr ""
 
-# scripts/events/events/dlc6/fire_juggler_event.nut
-msgid "firejuggler"
-msgstr ""
-
 # scripts/events/events/dlc6/desert_well_event.nut
 msgid "Go on ahead."
 msgstr "那就继续。"
+
+# scripts/events/events/dlc6/desert_bugbite_event.nut
+# scripts/events/events/dlc6/desert_heat_event.nut
+msgid " is exhausted"
+msgstr " 是筋疲力尽的"
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
 # scripts/events/events/dlc6/fire_juggler_event.nut
@@ -108,26 +113,25 @@ msgstr ""
 msgid "Gold is gold."
 msgstr "金子就是金子。"
 
-# scripts/events/events/dlc6/desert_bugbite_event.nut
-# scripts/events/events/dlc6/desert_heat_event.nut
-msgid " is exhausted"
-msgstr " 是筋疲力尽的"
-
-# scripts/events/events/dlc6/trade_black_book_event.nut
-msgid "You gain the "
-msgstr "你获得了 "
-
-# scripts/events/events/dlc6/retired_gladiator_event.nut
-msgid "Safe travels."
-msgstr "旅途平安。"
+# scripts/events/events/dlc6/gladiators_vibes_event.nut
+msgid "Good for you."
+msgstr "开心就好。"
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
 msgid "I had to ask."
 msgstr "我总得问的。"
 
-# scripts/events/events/dlc6/gladiators_vibes_event.nut
-msgid "Good for you."
-msgstr "开心就好。"
+# scripts/events/events/dlc6/retired_gladiator_event.nut
+msgid "Safe travels."
+msgstr "旅途平安。"
+
+# scripts/events/events/dlc6/trade_black_book_event.nut
+msgid "You gain the "
+msgstr "你获得了 "
+
+# scripts/events/events/dlc6/fire_juggler_event.nut
+msgid " gains [color="
+msgstr " 获得了 [color="
 
 # scripts/events/events/dlc6/trade_black_book_event.nut
 # scripts/events/events/dlc6/read_black_book_event.nut
@@ -137,9 +141,9 @@ msgstr "开心就好。"
 msgid "During camp..."
 msgstr "露营时…"
 
-# scripts/events/events/dlc6/fire_juggler_event.nut
-msgid " gains [color="
-msgstr " 获得了 [color="
+# scripts/events/events/dlc6/desert_heat_event.nut
+msgid "Stay hydrated!"
+msgstr "保持水分！"
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
 msgid "Time to leave."
@@ -147,16 +151,6 @@ msgstr "是时候离开了。"
 
 # scripts/events/events/dlc6/sellsword_retires_event.nut
 msgid "[/color] Crown"
-msgstr ""
-
-# scripts/events/events/dlc6/desert_heat_event.nut
-msgid "Stay hydrated!"
-msgstr "保持水分！"
-
-# scripts/events/events/dlc6/cultish_arrangement_event.nut
-# scripts/events/events/dlc6/dried_oasis_event.nut
-# scripts/events/events/dlc6/fire_juggler_event.nut
-msgid "[/color] Crowns"
 msgstr ""
 
 # scripts/events/events/dlc6/read_black_book_event.nut
@@ -171,14 +165,11 @@ msgstr "清爽可口！"
 msgid "Welcome aboard."
 msgstr "欢迎加入。"
 
-# scripts/events/events/dlc6/runaway_harem_event.nut
-# scripts/events/events/dlc6/trade_black_book_event.nut
 # scripts/events/events/dlc6/cultish_arrangement_event.nut
 # scripts/events/events/dlc6/dried_oasis_event.nut
 # scripts/events/events/dlc6/fire_juggler_event.nut
-# scripts/events/events/dlc6/sellsword_retires_event.nut
-msgid "You gain [color="
-msgstr "你获得了 [color="
+msgid "[/color] Crowns"
+msgstr ""
 
 # scripts/events/events/dlc6/runaway_harem_event.nut
 # scripts/events/events/dlc6/cultish_arrangement_event.nut
@@ -196,13 +187,22 @@ msgstr "在途中…"
 msgid "At %townname%..."
 msgstr "在 %townname%…"
 
-# scripts/events/events/dlc6/retired_gladiator_event.nut
-msgid "You lose [color="
-msgstr "你失去了 [color="
-
 # scripts/events/events/dlc6/cultish_arrangement_event.nut
 msgid "Let's get going."
 msgstr "我们走吧。"
+
+# scripts/events/events/dlc6/runaway_harem_event.nut
+# scripts/events/events/dlc6/trade_black_book_event.nut
+# scripts/events/events/dlc6/cultish_arrangement_event.nut
+# scripts/events/events/dlc6/dried_oasis_event.nut
+# scripts/events/events/dlc6/fire_juggler_event.nut
+# scripts/events/events/dlc6/sellsword_retires_event.nut
+msgid "You gain [color="
+msgstr "你获得了 [color="
+
+# scripts/events/events/dlc6/retired_gladiator_event.nut
+msgid "You lose [color="
+msgstr "你失去了 [color="
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
 msgid "]1[/color] Crown"
@@ -211,13 +211,6 @@ msgstr ""
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "the Fire Juggler"
 msgstr ""
-
-# scripts/events/events/dlc6/gunpowder_wagon_event.nut
-# scripts/events/events/dlc6/merchant_of_jugs_event.nut
-# scripts/events/events/dlc6/belly_dancer_event.nut
-# scripts/events/events/dlc6/sword_eater_event.nut
-msgid "You spend [color="
-msgstr "你花费了 [color="
 
 # scripts/events/events/dlc6/gunpowder_wagon_event.nut
 # scripts/events/events/dlc6/merchant_of_jugs_event.nut
@@ -230,6 +223,13 @@ msgstr "你花费了 [color="
 msgid "Along the road..."
 msgstr "在路上…"
 
+# scripts/events/events/dlc6/gunpowder_wagon_event.nut
+# scripts/events/events/dlc6/merchant_of_jugs_event.nut
+# scripts/events/events/dlc6/belly_dancer_event.nut
+# scripts/events/events/dlc6/sword_eater_event.nut
+msgid "You spend [color="
+msgstr "你花费了 [color="
+
 # scripts/events/events/dlc6/sword_eater_event.nut
 msgid "]5[/color] Crowns"
 msgstr "]5[/color] 克朗"
@@ -238,17 +238,37 @@ msgstr "]5[/color] 克朗"
 msgid "An uneasy thought."
 msgstr "不安的想法。"
 
-# scripts/events/events/dlc6/merchant_of_jugs_event.nut
-msgid "]50[/color] Crowns"
-msgstr "]50[/color] 克朗"
-
 # scripts/events/events/dlc6/cannon_execution_event.nut
 msgid "Guess that's that."
 msgstr "我猜就这样了吧。"
 
+# scripts/events/events/dlc6/merchant_of_jugs_event.nut
+msgid "]50[/color] Crowns"
+msgstr "]50[/color] 克朗"
+
 # scripts/events/events/dlc6/manhunters_origin_capture_prisoner_event.nut
 msgid "After the battle..."
 msgstr "战斗之后…"
+
+# scripts/events/events/dlc6/gladiators_food_event.nut
+msgid "Demands better food"
+msgstr "需要更好的食物"
+
+# scripts/events/events/dlc6/runaway_harem_event.nut
+msgid "Enjoy your freedom."
+msgstr "享受你们的自由吧。"
+
+# scripts/events/events/dlc6/dried_oasis_event.nut
+msgid "Glad you were here."
+msgstr "你在这真是太好了。"
+
+# scripts/events/events/dlc6/fire_juggler_event.nut
+msgid "Show's over, folks."
+msgstr "表演结束了，伙计们。"
+
+# scripts/events/events/dlc6/runaway_harem_event.nut
+msgid "]100[/color] Crowns"
+msgstr "]100[/color] 克朗"
 
 # scripts/events/events/dlc6/runaway_harem_event.nut
 # scripts/events/events/dlc6/merchant_of_jugs_event.nut
@@ -260,25 +280,18 @@ msgstr "]150[/color] 克朗"
 msgid "]500[/color] Crowns"
 msgstr "]500[/color] 克朗"
 
-# scripts/events/events/dlc6/runaway_harem_event.nut
-msgid "Enjoy your freedom."
-msgstr "享受你们的自由吧。"
-
-# scripts/events/events/dlc6/runaway_harem_event.nut
-msgid "]100[/color] Crowns"
-msgstr "]100[/color] 克朗"
-
 # scripts/events/events/dlc6/dried_oasis_event.nut
-msgid "Glad you were here."
-msgstr "你在这真是太好了。"
-
-# scripts/events/events/dlc6/gladiators_food_event.nut
-msgid "Demands better food"
-msgstr "需要更好的食物"
+# scripts/events/events/dlc6/sellsword_vs_bees_event.nut
+msgid "Someone go fetch it!"
+msgstr "来个人拿住它！"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
-msgid "Show's over, folks."
-msgstr "表演结束了，伙计们。"
+msgid "We need to help him!"
+msgstr "我们得帮他！"
+
+# scripts/events/events/dlc6/belly_dancer_event.nut
+msgid "You found %name% in "
+msgstr ""
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "[/color] Melee Skill"
@@ -288,26 +301,9 @@ msgstr ""
 msgid "]2500[/color] Crowns"
 msgstr "]2500[/color] 克朗"
 
-# scripts/events/events/dlc6/dried_oasis_event.nut
 # scripts/events/events/dlc6/sellsword_vs_bees_event.nut
-msgid "Someone go fetch it!"
-msgstr "来个人拿住它！"
-
-# scripts/events/events/dlc6/belly_dancer_event.nut
-msgid "You found %name% in "
-msgstr ""
-
-# scripts/events/events/dlc6/fire_juggler_event.nut
-msgid "We need to help him!"
-msgstr "我们得帮他！"
-
-# scripts/events/events/dlc6/desert_bugbite_event.nut
-msgid "Watch where you step."
-msgstr "注意脚下。"
-
-# scripts/events/events/dlc6/retired_gladiator_event.nut
-msgid "]1,000[/color] Crowns"
-msgstr "]1,000[/color] 克朗"
+msgid " suffers heavy wounds"
+msgstr " 遭受重伤"
 
 # scripts/events/events/dlc6/sellsword_vs_bees_event.nut
 # scripts/events/events/dlc6/cultural_conflagration_event.nut
@@ -318,25 +314,25 @@ msgstr " 遭受轻伤"
 msgid "Davkul awaits us all."
 msgstr "达库尔即将降临到我们。"
 
-# scripts/events/events/dlc6/retired_gladiator_event.nut
-msgid "We'd have use of you."
-msgstr "我们可以用上你。"
-
-# scripts/events/events/dlc6/sellsword_vs_bees_event.nut
-msgid " suffers heavy wounds"
-msgstr " 遭受重伤"
-
 # scripts/events/events/dlc6/desert_well_event.nut
 msgid "Oh no, don't do that!"
 msgstr "噢不，不，别这样！"
+
+# scripts/events/events/dlc6/desert_bugbite_event.nut
+msgid "Watch where you step."
+msgstr "注意脚下。"
+
+# scripts/events/events/dlc6/retired_gladiator_event.nut
+msgid "We'd have use of you."
+msgstr "我们可以用上你。"
 
 # scripts/events/events/dlc6/desert_well_event.nut
 msgid "What's about to blow?"
 msgstr "什么要喷发了？"
 
-# scripts/events/events/dlc6/trade_black_book_event.nut
-msgid "]50,000[/color] Crowns"
-msgstr "]50,000[/color] 克朗"
+# scripts/events/events/dlc6/retired_gladiator_event.nut
+msgid "]1,000[/color] Crowns"
+msgstr "]1,000[/color] 克朗"
 
 # scripts/events/events/dlc6/cultish_arrangement_event.nut
 msgid "Slaughter these fools!"
@@ -346,117 +342,125 @@ msgstr "杀了这些蠢货！"
 msgid "Was brutalized by bees"
 msgstr "被蜜蜂残忍地对待"
 
-# scripts/events/events/dlc6/belly_dancer_event.nut
-msgid "Welcome to the company!"
-msgstr "欢迎加入 company！"
-
-# scripts/events/events/dlc6/runaway_harem_event.nut
-msgid "It's the way of things."
-msgstr "事情就是这样。"
-
-# scripts/events/events/dlc6/gunpowder_wagon_event.nut
-msgid "I hope they do as well."
-msgstr "我也这么希望。"
-
-# scripts/events/events/dlc6/desert_bugbite_event.nut
-msgid "Got stung by a scorpion"
-msgstr "被蝎子蜇了"
-
-# scripts/events/events/dlc6/retired_gladiator_event.nut
-msgid "Well, good luck to you."
-msgstr "好吧，祝你好运。"
-
-# scripts/events/events/dlc6/retired_gladiator_event.nut
-msgid "No, thanks, we're good."
-msgstr "不了，谢谢，我们没事。"
+# scripts/events/events/dlc6/trade_black_book_event.nut
+msgid "]50,000[/color] Crowns"
+msgstr "]50,000[/color] 克朗"
 
 # scripts/events/events/dlc6/pirates_event.nut
 msgid " from a life in slavery"
 msgstr ""
 
-# scripts/events/events/dlc6/manhunters_origin_capture_prisoner_event.nut
-msgid "We have no use for him."
-msgstr "我们不需要他。"
+# scripts/events/events/dlc6/desert_bugbite_event.nut
+msgid "Got stung by a scorpion"
+msgstr "被蝎子蜇了"
+
+# scripts/events/events/dlc6/gunpowder_wagon_event.nut
+msgid "I hope they do as well."
+msgstr "我也这么希望。"
+
+# scripts/events/events/dlc6/runaway_harem_event.nut
+msgid "It's the way of things."
+msgstr "事情就是这样。"
 
 # scripts/events/events/dlc6/traveler_south_event.nut
 msgid "No, keep your distance."
 msgstr "不，你离远点。"
 
-# scripts/events/events/dlc6/cannon_execution_event.nut
-msgid "This doesn't concern us."
-msgstr "这与我们无关。"
+# scripts/events/events/dlc6/retired_gladiator_event.nut
+msgid "No, thanks, we're good."
+msgstr "不了，谢谢，我们没事。"
 
-# scripts/events/events/dlc6/sellsword_vs_bees_event.nut
-msgid "Let's not do that again."
-msgstr "我们最好不要再来一次那个。"
+# scripts/events/events/dlc6/manhunters_origin_capture_prisoner_event.nut
+msgid "We have no use for him."
+msgstr "我们不需要他。"
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
-msgid "Well done, have a crown."
-msgstr "很出色，这是一克朗。"
+msgid "Welcome to the company!"
+msgstr "欢迎加入 company！"
+
+# scripts/events/events/dlc6/retired_gladiator_event.nut
+msgid "Well, good luck to you."
+msgstr "好吧，祝你好运。"
 
 # scripts/events/events/dlc6/gladiators_vibes_event.nut
 msgid "It was just a bad dream."
 msgstr "那只不过是个噩梦。"
 
-# scripts/events/events/dlc6/fire_juggler_event.nut
-msgid "This is no place for you."
-msgstr "这里不适合你。"
+# scripts/events/events/dlc6/sellsword_vs_bees_event.nut
+msgid "Let's not do that again."
+msgstr "我们最好不要再来一次那个。"
 
-# scripts/events/events/dlc6/fire_juggler_event.nut
-msgid "Let's see how he does it."
-msgstr "让我们看看他怎么做。"
+# scripts/events/events/dlc6/cannon_execution_event.nut
+msgid "This doesn't concern us."
+msgstr "这与我们无关。"
+
+# scripts/events/events/dlc6/belly_dancer_event.nut
+msgid "Well done, have a crown."
+msgstr "很出色，这是一克朗。"
 
 # scripts/events/events/dlc6/desert_heat_event.nut
 msgid "Experienced a heat stroke"
 msgstr "体验中暑"
 
-# scripts/events/events/dlc6/cultish_arrangement_event.nut
-msgid "Not for us to know, maybe."
-msgstr "也许不是我们应该知道的。"
+# scripts/events/events/dlc6/fire_juggler_event.nut
+msgid "Let's see how he does it."
+msgstr "让我们看看他怎么做。"
 
-# scripts/events/events/dlc6/read_black_book_event.nut
-msgid "Has seen the end of things"
-msgstr "已经看到了事情的结局"
+# scripts/events/events/dlc6/fire_juggler_event.nut
+msgid "This is no place for you."
+msgstr "这里不适合你。"
 
 # scripts/events/events/dlc6/gladiators_vibes_event.nut
 msgid "Feels strong and beautiful"
 msgstr "感觉强壮和美丽"
 
+# scripts/events/events/dlc6/read_black_book_event.nut
+msgid "Has seen the end of things"
+msgstr "已经看到了事情的结局"
+
+# scripts/events/events/dlc6/cultish_arrangement_event.nut
+msgid "Not for us to know, maybe."
+msgstr "也许不是我们应该知道的。"
+
 # scripts/events/events/dlc6/desert_well_event.nut
 msgid "Welcome aboard, I suppose."
 msgstr "欢迎加入，我想是吧。"
-
-# scripts/events/events/dlc6/cultish_arrangement_event.nut
-msgid "We'll leave you guys to it."
-msgstr "我们不会打扰你们。"
-
-# scripts/events/events/dlc6/merchant_of_jugs_event.nut
-msgid "Had a most refreshing drink"
-msgstr "喝到清爽的饮料"
 
 # scripts/events/events/dlc6/sword_eater_event.nut
 msgid "Good job, but also bad job."
 msgstr "做得好，但也不太好。"
 
+# scripts/events/events/dlc6/merchant_of_jugs_event.nut
+msgid "Had a most refreshing drink"
+msgstr "喝到清爽的饮料"
+
+# scripts/events/events/dlc6/cultish_arrangement_event.nut
+msgid "We'll leave you guys to it."
+msgstr "我们不会打扰你们。"
+
 # scripts/events/events/dlc6/dried_oasis_event.nut
 msgid "Was bitten by a desert snake"
 msgstr "被沙漠蛇咬了"
-
-# scripts/events/events/dlc6/cannon_execution_event.nut
-msgid "What is your crime, exactly?"
-msgstr "你究竟犯了什么罪？"
 
 # scripts/events/events/dlc6/sellsword_retires_event.nut
 msgid "We'll put these to good use."
 msgstr "我们会好好用这些的。"
 
-# scripts/events/events/dlc6/fire_juggler_event.nut
-msgid "Welcome to the %companyname%."
-msgstr ""
+# scripts/events/events/dlc6/cannon_execution_event.nut
+msgid "What is your crime, exactly?"
+msgstr "你究竟犯了什么罪？"
 
 # scripts/events/events/dlc6/traveler_south_event.nut
 msgid "May your path be ever gilded."
 msgstr ""
+
+# scripts/events/events/dlc6/fire_juggler_event.nut
+msgid "Welcome to the %companyname%."
+msgstr ""
+
+# scripts/events/events/dlc6/pirates_event.nut
+msgid "Let these men go free at once!"
+msgstr "立刻释放他们！"
 
 # scripts/events/events/dlc6/dried_oasis_event.nut
 msgid "This is not worth our trouble."
@@ -466,14 +470,6 @@ msgstr "这不值得我们费心。"
 msgid "You cost me a fortune already!"
 msgstr "你已经花了我不少钱了！"
 
-# scripts/events/events/dlc6/pirates_event.nut
-msgid "Let these men go free at once!"
-msgstr "立刻释放他们！"
-
-# scripts/events/events/dlc6/runaway_harem_event.nut
-msgid "The women belong to the Vizier."
-msgstr "这些女人属于维齐尔。"
-
 # scripts/events/events/dlc6/gunpowder_wagon_event.nut
 msgid "And may you find shine as well."
 msgstr "也愿你找到你的光辉。"
@@ -482,81 +478,97 @@ msgstr "也愿你找到你的光辉。"
 msgid "Got taken captive by manhunters"
 msgstr "被搜捕者俘虏了"
 
-# scripts/events/events/dlc6/gunpowder_wagon_event.nut
-msgid "We'll leave you to your travels."
-msgstr "我们不会打扰你的旅行的。"
+# scripts/events/events/dlc6/runaway_harem_event.nut
+msgid "The women belong to the Vizier."
+msgstr "这些女人属于维齐尔。"
 
-# scripts/events/events/dlc6/cannon_execution_event.nut
-msgid "You need to stop this execution."
-msgstr "你得停下这场行刑。"
+# scripts/events/events/dlc6/pirates_event.nut
+msgid "Be on your way then, manhunters."
+msgstr "那就继续走吧，搜捕者。"
 
 # scripts/events/events/dlc6/sellsword_vs_bees_event.nut
 msgid "Enjoyed some honey in the desert"
 msgstr "在沙漠里享受蜂蜜"
 
-# scripts/events/events/dlc6/pirates_event.nut
-msgid "Be on your way then, manhunters."
-msgstr "那就继续走吧，搜捕者。"
+# scripts/events/events/dlc6/gunpowder_wagon_event.nut
+msgid "We'll leave you to your travels."
+msgstr "我们不会打扰你的旅行的。"
 
 # scripts/events/events/dlc6/cultural_conflagration_event.nut
 msgid "Why can't we all just get along?"
 msgstr "为什么我们不能和睦相处？"
 
 # scripts/events/events/dlc6/cannon_execution_event.nut
+msgid "You need to stop this execution."
+msgstr "你得停下这场行刑。"
+
+# scripts/events/events/dlc6/cannon_execution_event.nut
 msgid "Carry on with the execution then."
 msgstr "那就继续行刑吧。"
-
-# scripts/events/events/dlc6/retired_gladiator_event.nut
-msgid "Wolf of Arena Alley? Ah, alright."
-msgstr "竞技街之狼？啊，好的。"
-
-# scripts/events/events/dlc6/fire_juggler_event.nut
-msgid "Was entertained by a fire juggler"
-msgstr "被一个玩火杂耍者逗乐了"
 
 # scripts/events/events/dlc6/sword_eater_event.nut
 msgid "Interesting way to earn a living."
 msgstr "有趣的讨生活方式。"
 
-# scripts/events/events/dlc6/desert_feet_event.nut
-msgid "Are those vultures circling above?"
-msgstr "那些盘旋在上面的是秃鹫吗？"
+# scripts/events/events/dlc6/fire_juggler_event.nut
+msgid "Was entertained by a fire juggler"
+msgstr "被一个玩火杂耍者逗乐了"
+
+# scripts/events/events/dlc6/retired_gladiator_event.nut
+msgid "Wolf of Arena Alley? Ah, alright."
+msgstr "竞技街之狼？啊，好的。"
 
 # scripts/events/events/dlc6/dried_oasis_event.nut
 msgid "Applied his expertise on creatures"
 msgstr "把他的专长应用在生物上"
 
-# scripts/events/events/dlc6/cannon_execution_event.nut
-msgid "Welcome to the company, I suppose."
-msgstr "欢迎加入战队，我想。"
-
-# scripts/events/events/dlc6/belly_dancer_event.nut
-msgid "Maybe we can make use of this man?"
-msgstr "或许他可以为我们所用？"
+# scripts/events/events/dlc6/desert_feet_event.nut
+msgid "Are those vultures circling above?"
+msgstr "那些盘旋在上面的是秃鹫吗？"
 
 # scripts/events/events/dlc6/sword_eater_event.nut
 msgid "Bravo! Here's a few coins for you."
 msgstr "好哇！ 这儿，几个硬币，给你的。"
 
-# scripts/events/events/dlc6/desert_sand_event.nut
-msgid "This place truly hates everything."
-msgstr "这个地方真的讨厌一切。"
-
 # scripts/events/events/dlc6/traveler_south_event.nut
 msgid "Happy to join you at the campfire."
 msgstr "很高兴加入你们的篝火。"
 
-# scripts/events/events/dlc6/trade_black_book_event.nut
-msgid "We trade the book for the two jugs."
-msgstr "我们用这本书换两个罐子。"
+# scripts/events/events/dlc6/belly_dancer_event.nut
+msgid "Maybe we can make use of this man?"
+msgstr "或许他可以为我们所用？"
+
+# scripts/events/events/dlc6/desert_sand_event.nut
+msgid "This place truly hates everything."
+msgstr "这个地方真的讨厌一切。"
+
+# scripts/events/events/dlc6/cannon_execution_event.nut
+msgid "Welcome to the company, I suppose."
+msgstr "欢迎加入战队，我想。"
 
 # scripts/events/events/dlc6/merchant_of_jugs_event.nut
 msgid "For 50 crowns, we'll just take one."
 msgstr "50克朗，我们就买一个。"
 
+# scripts/events/events/dlc6/trade_black_book_event.nut
+msgid "We trade the book for the two jugs."
+msgstr "我们用这本书换两个罐子。"
+
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "You found %name% on the streets of "
 msgstr ""
+
+# scripts/events/events/dlc6/pirates_event.nut
+msgid "Got saved from a life in slavery by "
+msgstr "从奴隶的生活中获救被 "
+
+# scripts/events/events/dlc6/pirates_event.nut
+msgid "Heard rumors of you freeing indebted"
+msgstr "听说你要释放负债者"
+
+# scripts/events/events/dlc6/pirates_event.nut
+msgid "I hope you know how to use a weapon."
+msgstr "希望你知道怎么使用武器。"
 
 # scripts/events/events/dlc6/runaway_harem_event.nut
 msgid "I'd rather not get involved in this."
@@ -566,29 +578,9 @@ msgstr "我不太想掺和进去。"
 msgid "We trade the book for 50,000 crowns."
 msgstr "我们用这本书换50000克朗。"
 
-# scripts/events/events/dlc6/pirates_event.nut
-msgid "Heard rumors of you freeing indebted"
-msgstr "听说你要释放负债者"
-
-# scripts/events/events/dlc6/pirates_event.nut
-msgid "Got saved from a life in slavery by "
-msgstr "从奴隶的生活中获救被 "
-
-# scripts/events/events/dlc6/pirates_event.nut
-msgid "I hope you know how to use a weapon."
-msgstr "希望你知道怎么使用武器。"
-
-# scripts/events/events/dlc6/runaway_harem_event.nut
-msgid "You helped to return a Vizier's harem"
-msgstr "你帮助带回了维齐尔的后宫"
-
 # scripts/events/events/dlc6/gunpowder_wagon_event.nut
 msgid "For that price, none are of interest."
 msgstr "这个价格我没有兴趣。"
-
-# scripts/events/events/dlc6/gunpowder_wagon_event.nut
-msgid "The firelance at 500 crowns for sure."
-msgstr "当然是500克朗的火矛。"
 
 # scripts/events/events/dlc6/cultural_conflagration_event.nut
 msgid "Had a brawl over cultural differences"
@@ -598,6 +590,18 @@ msgstr "因文化差异而争吵"
 msgid "Lost a battle and was taken a captive"
 msgstr "输了一场战斗 and was taken a captive"
 
+# scripts/events/events/dlc6/gunpowder_wagon_event.nut
+msgid "The firelance at 500 crowns for sure."
+msgstr "当然是500克朗的火矛。"
+
+# scripts/events/events/dlc6/runaway_harem_event.nut
+msgid "You helped to return a Vizier's harem"
+msgstr "你帮助带回了维齐尔的后宫"
+
+# scripts/events/events/dlc6/sellsword_vs_bees_event.nut
+msgid "Buzz all you want, this honey is ours!"
+msgstr "尽管显摆把，但蜂蜜我们都有份！"
+
 # scripts/events/events/dlc6/desert_feet_event.nut
 msgid "Had his feet ground raw by desert sand"
 msgstr "他的脚被沙漠的沙子磨了"
@@ -605,18 +609,6 @@ msgstr "他的脚被沙漠的沙子磨了"
 # scripts/events/events/dlc6/retired_gladiator_event.nut
 msgid "We'll take the armor for 1,000 crowns."
 msgstr "我们要这个盔甲，这是1000克朗。"
-
-# scripts/events/events/dlc6/sellsword_vs_bees_event.nut
-msgid "Buzz all you want, this honey is ours!"
-msgstr "尽管显摆把，但蜂蜜我们都有份！"
-
-# scripts/events/events/dlc6/trade_black_book_event.nut
-msgid "What was the second thing you came for?"
-msgstr "你追寻的第二个东西是什么？"
-
-# scripts/events/events/dlc6/merchant_of_jugs_event.nut
-msgid "We'll take all the jugs for 150 crowns."
-msgstr "我们出150克朗要所有罐子。"
 
 # scripts/events/events/dlc6/retired_gladiator_event.nut
 msgid "Had a good laugh at a retired gladiator"
@@ -626,65 +618,73 @@ msgstr "对一个退休的角斗士笑得很开心"
 msgid "Put on a great display of fire juggling"
 msgstr "上演一出精彩的玩火表演"
 
+# scripts/events/events/dlc6/merchant_of_jugs_event.nut
+msgid "We'll take all the jugs for 150 crowns."
+msgstr "我们出150克朗要所有罐子。"
+
 # scripts/events/events/dlc6/trade_black_book_event.nut
-msgid "We trade the book for the golden shield."
-msgstr "我们用这本书换金盾。"
+msgid "What was the second thing you came for?"
+msgstr "你追寻的第二个东西是什么？"
 
 # scripts/events/events/dlc6/sellsword_vs_bees_event.nut
 msgid "Let's go. Nothing good can come of this."
 msgstr "我们走。这没我们好果子吃。"
 
+# scripts/events/events/dlc6/trade_black_book_event.nut
+msgid "We trade the book for the golden shield."
+msgstr "我们用这本书换金盾。"
+
 # scripts/events/events/dlc6/gunpowder_wagon_event.nut
 msgid "We'll take the handgonne for 2,500 crowns."
 msgstr "我们要2500克朗的手炮。"
-
-# scripts/events/events/dlc6/runaway_harem_event.nut
-msgid "You aided in the escape of a Vizier's harem"
-msgstr "你帮助维齐尔的后宫逃跑"
 
 # scripts/events/events/dlc6/dried_oasis_event.nut
 msgid "%beastslayer% can handle this puny monster."
 msgstr "%beastslayer% 能对付这个小怪物。"
 
-# scripts/events/events/dlc6/sellsword_vs_bees_event.nut
-msgid "Looks like %wildmanfull% wants to go for it."
-msgstr "看起来 %wildmanfull% 想去试试。"
-
-# scripts/events/events/dlc6/sword_eater_event.nut
-msgid "Local entertainers spread the word about you"
-msgstr ""
+# scripts/events/events/dlc6/runaway_harem_event.nut
+msgid "You aided in the escape of a Vizier's harem"
+msgstr "你帮助维齐尔的后宫逃跑"
 
 # scripts/events/events/dlc6/desert_well_event.nut
 msgid "Let him end himself if that's what he wants."
 msgstr "如果那是他想要的，就让他结束自己吧。"
 
+# scripts/events/events/dlc6/sword_eater_event.nut
+msgid "Local entertainers spread the word about you"
+msgstr ""
+
+# scripts/events/events/dlc6/sellsword_vs_bees_event.nut
+msgid "Looks like %wildmanfull% wants to go for it."
+msgstr "看起来 %wildmanfull% 想去试试。"
+
 # scripts/events/events/dlc6/desert_fall_event.nut
 msgid "Bruised his leg when sliding down a sand dune"
 msgstr "从沙丘上滑下来时擦伤了腿"
-
-# scripts/events/events/dlc6/gunpowder_wagon_event.nut
-msgid "You've made your point. Do you sell anything?"
-msgstr "你表述的很清楚。 有什么东西卖吗？"
 
 # scripts/events/events/dlc6/pirates_event.nut
 msgid "Welcome. I hope you know how to use a weapon."
 msgstr "欢迎。希望你知道怎么用武器。"
 
-# scripts/events/events/dlc6/runaway_harem_event.nut
-msgid "The women are free to go wherever they choose."
-msgstr "这些女人有选择去哪的自由。"
+# scripts/events/events/dlc6/gunpowder_wagon_event.nut
+msgid "You've made your point. Do you sell anything?"
+msgstr "你表述的很清楚。 有什么东西卖吗？"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "%juggler%, you can juggle, can't you help him?"
 msgstr "%juggler%，你能变戏法，你能帮他吗？"
 
-# scripts/events/events/dlc6/cultish_arrangement_event.nut
-msgid "Had an understanding with his brothers in faith"
-msgstr "在信仰上与兄弟们有了默契"
+# scripts/events/events/dlc6/runaway_harem_event.nut
+msgid "The women are free to go wherever they choose."
+msgstr "这些女人有选择去哪的自由。"
 
 # scripts/events/events/dlc6/desert_well_event.nut
 msgid "Had a string of bad fortune and lost everything"
 msgstr "有一连串的不幸，失去了一切"
+
+# scripts/events/events/dlc6/cultish_arrangement_event.nut
+msgid "Had an understanding with his brothers in faith"
+msgstr "在信仰上与兄弟们有了默契"
 
 # scripts/events/events/dlc6/retired_gladiator_event.nut
 msgid "Perhaps %gladiator% can convince you to join us."
@@ -710,49 +710,49 @@ msgstr "跟你的兄弟们谈谈信仰，%cultist%。"
 msgid "You'll have to find your way back home on your own."
 msgstr "恐怕你得自己找回家的路了。"
 
+# scripts/events/events/dlc6/sword_eater_event.nut
+msgid "Bravo! Give that guy a few coins from me, %wildman%."
+msgstr "好哇！ 替我给这个人几个硬币，%wildman%。"
+
 # scripts/events/events/dlc6/gladiators_vibes_event.nut
 msgid "Had a bad dream about not being strong and beautiful"
 msgstr "做了个不强壮不漂亮的噩梦"
 
-# scripts/events/events/dlc6/sword_eater_event.nut
-msgid "Bravo! Give that guy a few coins from me, %wildman%."
-msgstr "好哇！ 替我给这个人几个硬币，%wildman%。"
+# scripts/events/events/dlc6/trade_black_book_event.nut
+msgid "I hope we did the right thing giving him that book..."
+msgstr "我希望我们把书给他是正确的…"
 
 # scripts/events/events/dlc6/runaway_harem_event.nut
 msgid "We look forward to further business with your master."
 msgstr "我们很期待与你主人的进一步合作。"
 
-# scripts/events/events/dlc6/trade_black_book_event.nut
-msgid "I hope we did the right thing giving him that book..."
-msgstr "我希望我们把书给他是正确的…"
+# scripts/events/events/dlc6/fire_juggler_event.nut
+msgid "May the Gilder's path for us both be as good as you hope."
+msgstr "愿镀金者给我们的道路如同你希望的一般友好。"
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
 msgid "You've talent with the blade like I've never seen before."
 msgstr "你运用刀刃的天赋是我前所未见的。"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
-msgid "May the Gilder's path for us both be as good as you hope."
-msgstr "愿镀金者给我们的道路如同你希望的一般友好。"
+msgid "Got saved from a possible flaming death by a fellow juggler"
+msgstr ""
 
 # scripts/events/events/dlc6/pirates_event.nut
 msgid "The Gilder is most benevolent to let you pay off your debt."
 msgstr "镀金者大发慈悲来让你们偿还债务。"
 
-# scripts/events/events/dlc6/fire_juggler_event.nut
-msgid "Got saved from a possible flaming death by a fellow juggler"
-msgstr ""
-
 # scripts/events/events/dlc6/sword_eater_event.nut
 msgid "My sword is not so sharp, yet the ladies can't even do that?"
 msgstr "我的剑并没那么锋利，但是我团里的娘炮们连这都做不到？"
 
-# scripts/events/events/dlc6/cannon_execution_event.nut
-msgid "We saved your life. That doesn't mean you're welcome with us."
-msgstr "我们救了你。 这不意味着我们欢迎你。"
-
 # scripts/events/events/dlc6/pirates_event.nut
 msgid "It looks like %fisherman% has something to say on the matter."
 msgstr "看起来 %fisherman% 有什么想说的。"
+
+# scripts/events/events/dlc6/cannon_execution_event.nut
+msgid "We saved your life. That doesn't mean you're welcome with us."
+msgstr "我们救了你。 这不意味着我们欢迎你。"
 
 # scripts/events/events/dlc6/sword_eater_event.nut
 msgid "Rumor is that a local entertainer was killed by one of your men"
@@ -1217,21 +1217,6 @@ msgstr ""
 "他伸出他的手好似要给你展示你的所作所为。%SPEECH_ON%你的一切努力都不能争取更多时间，佣兵。 "
 "达库尔即将降临到我们。%SPEECH_OFF%你拿出你的匕首了结了他。 你踢开他的尸体并搜刮了一番，尽管没找到什么有用的东西。}"
 
-# scripts/events/events/dlc6/desert_fall_event.nut
-msgid ""
-"[img]gfx/ui/events/event_161.png[/img]{As you tread down the slope of a "
-"dune, %fallbro% loses his footing and starts to slide down. He yells out for"
-" help, flailing as he tumbles downward. Each tumble gains speed and air, "
-"every roll of the limbs seemingly arcing him higher into the air than the "
-"last. Despite the silky, slipperiness of the dune's slope, the bottom of its"
-" valley is a hard firmament and the sellsword grinds across it until he "
-"comes to a complete stop. He's not dead but comes away a little banged up, "
-"with scrapes, bruises, burns, and a hint of embarrassment.}"
-msgstr ""
-"[img]gfx/ui/events/event_161.png[/img]{随着你走下一个沙丘的斜坡，%fallbro% 脚滑了一下开始向下滑动。 "
-"他叫着求助，手舞足蹈的往下滚着。 每一次颠簸都在加速，每一次滚动肢体都好像把他比上一次弹的更高了。 "
-"尽管沙丘的斜坡如丝顺滑，谷地的底下则充满了硬物，而那个佣兵一路剐蹭过去直到完全停下来。 他没死，但是受了点冲击，划伤，淤青，灼伤还有点羞耻。}"
-
 # scripts/events/events/dlc6/pirates_event.nut
 msgid ""
 "[img]gfx/ui/events/event_157.png[/img]{You come across a line of men being "
@@ -1247,6 +1232,21 @@ msgstr ""
 "他们的领头人声称这些人是“负债者，”但是其中一个人，显然是个北方人，喊道他们是被海盗绑架了的航船商人。 "
 "搜捕者头头走在他手下前面笑道。%SPEECH_ON%不要相信他的谎言，旅行者，这些人只是害怕向镀金者偿还债务的漫长救赎之旅。 "
 "他宁愿下地狱也不愿意麻烦自己获得救赎。 他难道没有点人性吗？%SPEECH_OFF%}"
+
+# scripts/events/events/dlc6/desert_fall_event.nut
+msgid ""
+"[img]gfx/ui/events/event_161.png[/img]{As you tread down the slope of a "
+"dune, %fallbro% loses his footing and starts to slide down. He yells out for"
+" help, flailing as he tumbles downward. Each tumble gains speed and air, "
+"every roll of the limbs seemingly arcing him higher into the air than the "
+"last. Despite the silky, slipperiness of the dune's slope, the bottom of its"
+" valley is a hard firmament and the sellsword grinds across it until he "
+"comes to a complete stop. He's not dead but comes away a little banged up, "
+"with scrapes, bruises, burns, and a hint of embarrassment.}"
+msgstr ""
+"[img]gfx/ui/events/event_161.png[/img]{随着你走下一个沙丘的斜坡，%fallbro% 脚滑了一下开始向下滑动。 "
+"他叫着求助，手舞足蹈的往下滚着。 每一次颠簸都在加速，每一次滚动肢体都好像把他比上一次弹的更高了。 "
+"尽管沙丘的斜坡如丝顺滑，谷地的底下则充满了硬物，而那个佣兵一路剐蹭过去直到完全停下来。 他没死，但是受了点冲击，划伤，淤青，灼伤还有点羞耻。}"
 
 # scripts/events/events/dlc6/gladiators_vibes_event.nut
 msgid ""
@@ -1826,29 +1826,6 @@ msgstr ""
 "\n"
 " 这一些残渣绝对毫无任何用处。 至于那个人，好吧，他得到了他想要的。 毫无疑问，他在眨眼间就死了，剩下的只是到处烧焦的大块，烤过的肺和烧焦的肌腱等等。 你检查了一下来确认你的眉毛是否还在，有些欣慰，你准备继续赶路。}"
 
-# scripts/events/events/dlc6/trade_black_book_event.nut
-msgid ""
-"[img]gfx/ui/events/event_174.png[/img]{Yuchi bows for the briefest moment "
-"and when he stands he is holding a shield. At first glance, it appears to be"
-" nothing more than steel with ornate gildings around the edges, but suddenly"
-" an orb of yellow light cycles around the outer rim, dancing around and "
-"around.%SPEECH_ON%They call it the Gilder's Embrace for the God's very "
-"divinity is said to be partitioned within its framing. See, if you were to "
-"turn this against your enemies, the light would grow to such blinding rays "
-"that your foes shall not see. And as you can tell, the light now is dull, "
-"for we are not enemies, stranger.%SPEECH_OFF%The man holds out his hand. You"
-" give him the book, and he gives you the shield. He does not even stare at "
-"the book, simply stows it away and gathers up his spear. You ask him what he"
-" intends to do with the text. He smiles.%SPEECH_ON%Who knows. Maybe I will "
-"simply return it, hm? Or maybe not.%SPEECH_OFF%}"
-msgstr ""
-"[img]gfx/ui/events/event_174.png[/img]{尉迟短暂的鞠了个躬，当他起身的时候他拿着一面盾牌。 "
-"第一眼，它看起来就是个边缘镀金的普通铁盾，但是突然一个黄色光球开始环绕外缘，一圈一圈的跳动着。%SPEECH_ON%他们称呼它为镀金者的拥抱，因为传说上帝的神性参与到了它的制造过程中。"
-" 看，如果你把这个转向你的敌人，光会变得如此耀眼以至于让你的敌人失去视野。 "
-"你看得出来，现在光还很昏暗，因为我们不是敌人，陌生人。%SPEECH_OFF%那人伸出他的手。 你给了他书，而他给了你盾。 "
-"他甚至没有看向书，只是单纯的放置起它并举起他的长矛。 "
-"你问他要拿这些文献做什么。他笑道。%SPEECH_ON%谁知道呢。或许我只是要把它还回去，哼？又或许不会。%SPEECH_OFF%}"
-
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid ""
 "[img]gfx/ui/events/event_163.png[/img]{%juggler%, the company's own former "
@@ -1871,6 +1848,29 @@ msgstr ""
 "结束表演他张开他的手臂，但是没有欢呼。%SPEECH_ON%镀金者只会向逐币者吐唾沫，入侵者，你不为任何人跳舞。 "
 "还有你，玩火杂耍者，你有什么要为你说的吗？%SPEECH_OFF%%townname%的玩火杂耍者思考了一会然后转向你。%SPEECH_ON%我说我厌倦这些了，如果镀金者如此厌恶我们，我就加入这个战队里让他鄙视。"
 " 你说呢，逐币者的队长，你会带上我吗？%SPEECH_OFF%}"
+
+# scripts/events/events/dlc6/trade_black_book_event.nut
+msgid ""
+"[img]gfx/ui/events/event_174.png[/img]{Yuchi bows for the briefest moment "
+"and when he stands he is holding a shield. At first glance, it appears to be"
+" nothing more than steel with ornate gildings around the edges, but suddenly"
+" an orb of yellow light cycles around the outer rim, dancing around and "
+"around.%SPEECH_ON%They call it the Gilder's Embrace for the God's very "
+"divinity is said to be partitioned within its framing. See, if you were to "
+"turn this against your enemies, the light would grow to such blinding rays "
+"that your foes shall not see. And as you can tell, the light now is dull, "
+"for we are not enemies, stranger.%SPEECH_OFF%The man holds out his hand. You"
+" give him the book, and he gives you the shield. He does not even stare at "
+"the book, simply stows it away and gathers up his spear. You ask him what he"
+" intends to do with the text. He smiles.%SPEECH_ON%Who knows. Maybe I will "
+"simply return it, hm? Or maybe not.%SPEECH_OFF%}"
+msgstr ""
+"[img]gfx/ui/events/event_174.png[/img]{尉迟短暂的鞠了个躬，当他起身的时候他拿着一面盾牌。 "
+"第一眼，它看起来就是个边缘镀金的普通铁盾，但是突然一个黄色光球开始环绕外缘，一圈一圈的跳动着。%SPEECH_ON%他们称呼它为镀金者的拥抱，因为传说上帝的神性参与到了它的制造过程中。"
+" 看，如果你把这个转向你的敌人，光会变得如此耀眼以至于让你的敌人失去视野。 "
+"你看得出来，现在光还很昏暗，因为我们不是敌人，陌生人。%SPEECH_OFF%那人伸出他的手。 你给了他书，而他给了你盾。 "
+"他甚至没有看向书，只是单纯的放置起它并举起他的长矛。 "
+"你问他要拿这些文献做什么。他笑道。%SPEECH_ON%谁知道呢。或许我只是要把它还回去，哼？又或许不会。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
 msgid ""

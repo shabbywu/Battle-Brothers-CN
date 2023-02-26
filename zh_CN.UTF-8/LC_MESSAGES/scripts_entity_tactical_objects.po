@@ -2,16 +2,15 @@
 msgid ""
 msgstr ""
 
-# scripts/entity/tactical/objects/autumn_tree1.nut
-# scripts/entity/tactical/objects/autumn_tree2.nut
-msgid "Tree"
-msgstr "树"
-
 # scripts/entity/tactical/objects/steppe_brush.nut
 # scripts/entity/tactical/objects/autumn_brush.nut
 # scripts/entity/tactical/objects/tundra_brush.nut
 msgid "Bush"
 msgstr "灌木丛"
+
+# scripts/entity/tactical/objects/goblin_camp_cage.nut
+msgid "Cage"
+msgstr "笼子"
 
 # scripts/entity/tactical/objects/orc_camp_small_idol.nut
 # scripts/entity/tactical/objects/orc_camp_idol.nut
@@ -19,13 +18,14 @@ msgstr "灌木丛"
 msgid "Idol"
 msgstr "神像"
 
-# scripts/entity/tactical/objects/cart.nut
-msgid "cart"
-msgstr ""
+# scripts/entity/tactical/objects/autumn_tree1.nut
+# scripts/entity/tactical/objects/autumn_tree2.nut
+msgid "Tree"
+msgstr "树"
 
-# scripts/entity/tactical/objects/goblin_camp_cage.nut
-msgid "Cage"
-msgstr "笼子"
+# scripts/entity/tactical/objects/barbarian_camp_altar.nut
+msgid "Altar"
+msgstr "祭坛"
 
 # scripts/entity/tactical/objects/southern_ruins.nut
 # scripts/entity/tactical/objects/graveyard_ruins_big.nut
@@ -34,33 +34,35 @@ msgstr "笼子"
 msgid "Ruins"
 msgstr "废墟"
 
-# scripts/entity/tactical/objects/barbarian_camp_altar.nut
-msgid "Altar"
-msgstr "祭坛"
-
 # scripts/entity/tactical/objects/graveyard_grave.nut
 msgid "Graves"
 msgstr "坟墓"
-
-# scripts/entity/tactical/objects/tree_cypress.nut
-msgid "Cypress"
-msgstr "柏树"
 
 # scripts/entity/tactical/objects/goblin_camp_brazier.nut
 msgid "Brazier"
 msgstr "火盆"
 
-# scripts/entity/tactical/objects/desert_camp_standard.nut
-msgid "Weapons"
-msgstr "武器"
-
-# scripts/entity/tactical/objects/boulder.nut
-msgid "boulder"
-msgstr ""
+# scripts/entity/tactical/objects/tree_cypress.nut
+msgid "Cypress"
+msgstr "柏树"
 
 # scripts/entity/tactical/objects/desert_camp_marquee.nut
 msgid "Marquee"
 msgstr "大帐篷"
+
+# scripts/entity/tactical/objects/desert_camp_standard.nut
+msgid "Weapons"
+msgstr "武器"
+
+# scripts/entity/tactical/objects/graveyard_wall.nut
+# scripts/entity/tactical/objects/southern_ruins_wall.nut
+msgid "Old Wall"
+msgstr "旧墙"
+
+# scripts/entity/tactical/objects/orc_camp_wall.nut
+# scripts/entity/tactical/objects/human_camp_wall.nut
+msgid "Palisade"
+msgstr "栅栏"
 
 # scripts/entity/tactical/objects/orc_camp_supplies.nut
 # scripts/entity/tactical/objects/human_camp_supplies.nut
@@ -68,16 +70,6 @@ msgstr "大帐篷"
 # scripts/entity/tactical/objects/goblin_camp_supplies.nut
 msgid "Supplies"
 msgstr "补给"
-
-# scripts/entity/tactical/objects/orc_camp_wall.nut
-# scripts/entity/tactical/objects/human_camp_wall.nut
-msgid "Palisade"
-msgstr "栅栏"
-
-# scripts/entity/tactical/objects/graveyard_wall.nut
-# scripts/entity/tactical/objects/southern_ruins_wall.nut
-msgid "Old Wall"
-msgstr "旧墙"
 
 # scripts/entity/tactical/objects/tree_dead_steppe.nut
 # scripts/entity/tactical/objects/tree_olive_dry.nut
@@ -101,8 +93,8 @@ msgstr "家具"
 msgid "Spectator"
 msgstr "观众"
 
-# scripts/entity/tactical/objects/cartwheel.nut
-msgid "cartwheel"
+# scripts/entity/tactical/objects/tree_olive.nut
+msgid "Olive Tree"
 msgstr ""
 
 # scripts/entity/tactical/objects/tree_stump1.nut
@@ -111,9 +103,9 @@ msgstr ""
 msgid "Tree Stump"
 msgstr ""
 
-# scripts/entity/tactical/objects/tree_olive.nut
-msgid "Olive Tree"
-msgstr ""
+# scripts/entity/tactical/objects/graveyard_sarcophagus.nut
+msgid "Sarcophagus"
+msgstr "石棺"
 
 # scripts/entity/tactical/objects/orc_camp_head.nut
 msgid "Spiked Head"
@@ -123,9 +115,9 @@ msgstr "尖头"
 msgid "Wooden Idol"
 msgstr "木制神像"
 
-# scripts/entity/tactical/objects/graveyard_sarcophagus.nut
-msgid "Sarcophagus"
-msgstr "石棺"
+# scripts/entity/tactical/objects/human_camp_wood.nut
+msgid "Chopped Wood"
+msgstr "切碎的木头"
 
 # scripts/entity/tactical/objects/barbarian_camp_nithing_pole.nut
 msgid "Nithing Pole"
@@ -134,10 +126,6 @@ msgstr "诅咒长杖"
 # scripts/entity/tactical/objects/orc_camp_standard.nut
 msgid "Orc Standard"
 msgstr "兽人旗帜"
-
-# scripts/entity/tactical/objects/human_camp_wood.nut
-msgid "Chopped Wood"
-msgstr "切碎的木头"
 
 # scripts/entity/tactical/objects/tree_lush_small.nut
 # scripts/entity/tactical/objects/tree_needle1_snow.nut
@@ -158,13 +146,13 @@ msgstr "动物遗骸"
 msgid "Weapon Display"
 msgstr "武器陈列"
 
-# scripts/entity/tactical/objects/generic_object.nut
-msgid "mirror visible!"
-msgstr ""
-
 # scripts/entity/tactical/objects/goblin_camp_standard.nut
 msgid "Goblin Standard"
 msgstr "哥布林旗帜"
+
+# scripts/entity/tactical/objects/generic_object.nut
+msgid "mirror visible!"
+msgstr ""
 
 # scripts/entity/tactical/objects/orc_camp_large_remains.nut
 msgid "Gruesome Display"
@@ -187,18 +175,18 @@ msgstr "蛮族旗帜"
 msgid "Destroyed Siege Engine"
 msgstr "工程在围攻中被摧毁"
 
+# scripts/entity/tactical/objects/desert_camp_fireplace.nut
+# scripts/entity/tactical/objects/barbarian_camp_fireplace.nut
+# scripts/entity/tactical/objects/human_camp_large_fireplace.nut
+msgid "A fireplace for cooking."
+msgstr "用来做饭的火炉。"
+
 # scripts/entity/tactical/objects/southern_ruins.nut
 # scripts/entity/tactical/objects/graveyard_ruins_big.nut
 # scripts/entity/tactical/objects/southern_ruins_big.nut
 # scripts/entity/tactical/objects/graveyard_ruins.nut
 msgid "Ruins of crumbled stone."
 msgstr "碎石的废墟。"
-
-# scripts/entity/tactical/objects/desert_camp_fireplace.nut
-# scripts/entity/tactical/objects/barbarian_camp_fireplace.nut
-# scripts/entity/tactical/objects/human_camp_large_fireplace.nut
-msgid "A fireplace for cooking."
-msgstr "用来做饭的火炉。"
 
 # scripts/entity/tactical/objects/barbarian_camp_altar.nut
 msgid "A sacrifical stone altar."
@@ -238,22 +226,22 @@ msgstr "曾经骄傲的树的残骸。"
 msgid "A barbarian idol carved from wood."
 msgstr "一个蛮族木刻神像。"
 
-# scripts/entity/tactical/objects/orc_camp_large_remains.nut
-msgid "Flayed skin and intestines on display."
-msgstr "剥落的皮肤和肠子展示。"
-
 # scripts/entity/tactical/objects/graveyard_ruins_statue.nut
 # scripts/entity/tactical/objects/southern_ruins_statue.nut
 msgid "A bronze statue from an age long past."
 msgstr "古早时代的青铜雕像。."
 
-# scripts/entity/tactical/objects/orc_camp_small_remains.nut
-msgid "Gruesome remains of some kind of animal."
-msgstr "某种动物的可怕残骸。"
+# scripts/entity/tactical/objects/orc_camp_large_remains.nut
+msgid "Flayed skin and intestines on display."
+msgstr "剥落的皮肤和肠子展示。"
 
 # scripts/entity/tactical/objects/arena_spectator.nut
 msgid "A spectator cheering for the arena fight"
 msgstr "为竞技场比赛欢呼的观众"
+
+# scripts/entity/tactical/objects/orc_camp_small_remains.nut
+msgid "Gruesome remains of some kind of animal."
+msgstr "某种动物的可怕残骸。"
 
 # scripts/entity/tactical/objects/orc_camp_supplies.nut
 # scripts/entity/tactical/objects/human_camp_supplies.nut
@@ -275,13 +263,13 @@ msgstr "一些不幸灵魂的安眠之地。"
 msgid "A cypress tree. Blocks movement and line of sight."
 msgstr "一棵柏树。 阻挡了移动和视线。"
 
-# scripts/entity/tactical/objects/desert_camp_standard.nut
-msgid "Weapons on display, perhaps as a warning to intruders."
-msgstr "一些展示出来的武器，或许是用来警告入侵者。"
-
 # scripts/entity/tactical/objects/tree_olive.nut
 msgid "A large olive tree. Blocks movement and line of sight."
 msgstr "一棵大橄榄树。 阻挡了移动和视线。"
+
+# scripts/entity/tactical/objects/desert_camp_standard.nut
+msgid "Weapons on display, perhaps as a warning to intruders."
+msgstr "一些展示出来的武器，或许是用来警告入侵者。"
 
 # scripts/entity/tactical/objects/steppe_brush.nut
 # scripts/entity/tactical/objects/autumn_brush.nut

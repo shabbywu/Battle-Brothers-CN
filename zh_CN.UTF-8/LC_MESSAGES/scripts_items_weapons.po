@@ -6,261 +6,137 @@ msgstr ""
 msgid "'s "
 msgstr "的"
 
-# scripts/items/weapons/pike.nut
-msgid "Pike"
-msgstr "梭矛"
-
 # scripts/items/weapons/lute.nut
 msgid "Lute"
 msgstr "鲁特琴"
 
-# scripts/items/weapons/lute.nut
-msgid "lute"
-msgstr ""
-
 # scripts/items/weapons/pike.nut
-msgid "pike"
-msgstr ""
+msgid "Pike"
+msgstr "梭矛"
 
 # scripts/items/weapons/flail.nut
 msgid "Flail"
 msgstr "连枷"
 
 # scripts/items/weapons/knife.nut
-msgid "knife"
-msgstr ""
-
-# scripts/items/weapons/knife.nut
 msgid "Knife"
-msgstr ""
-
-# scripts/items/weapons/flail.nut
-msgid "flail"
 msgstr ""
 
 # scripts/items/weapons/dagger.nut
 msgid "Dagger"
 msgstr "匕首"
 
-# scripts/items/weapons/weapon.nut
-msgid "weapon"
-msgstr ""
-
-# scripts/items/weapons/dagger.nut
-msgid "dagger"
-msgstr ""
-
 # scripts/items/weapons/spetum.nut
 msgid "Spetum"
 msgstr "长戟"
-
-# scripts/items/weapons/spetum.nut
-msgid "spetum"
-msgstr ""
-
-# scripts/items/weapons/longaxe.nut
-msgid "Longaxe"
-msgstr "长斧"
 
 # scripts/items/weapons/hand_axe.nut
 msgid "Handaxe"
 msgstr "手斧"
 
 # scripts/items/weapons/hatchet.nut
-msgid "hatchet"
-msgstr ""
-
-# scripts/items/weapons/hatchet.nut
 msgid "Hatchet"
 msgstr "小斧"
 
 # scripts/items/weapons/longaxe.nut
-msgid "longaxe"
-msgstr ""
+msgid "Longaxe"
+msgstr "长斧"
 
-# scripts/items/weapons/javelin.nut
-msgid "javelin"
-msgstr ""
+# scripts/items/weapons/pickaxe.nut
+msgid "Pickaxe"
+msgstr "鹤嘴锄"
 
 # scripts/items/weapons/war_bow.nut
 msgid "War Bow"
 msgstr "战斗弓"
 
 # scripts/items/weapons/warfork.nut
-msgid "warfork"
-msgstr ""
-
-# scripts/items/weapons/warfork.nut
 msgid "Warfork"
 msgstr "战叉"
-
-# scripts/items/weapons/pickaxe.nut
-msgid "Pickaxe"
-msgstr "鹤嘴锄"
-
-# scripts/items/weapons/pickaxe.nut
-msgid "pickaxe"
-msgstr ""
-
-# scripts/items/weapons/warbrand.nut
-msgid "Warbrand"
-msgstr "弯刀"
-
-# scripts/items/weapons/bludgeon.nut
-msgid "Bludgeon"
-msgstr "大棒"
-
-# scripts/items/weapons/shamshir.nut
-msgid "Shamshir"
-msgstr "沙姆希尔"
 
 # scripts/items/weapons/bardiche.nut
 msgid "Bardiche"
 msgstr "月牙砍刀"
 
-# scripts/items/weapons/crossbow.nut
-msgid "Crossbow"
-msgstr "弩"
-
-# scripts/items/weapons/scimitar.nut
-msgid "Scimitar"
-msgstr "弯刀"
-
 # scripts/items/weapons/billhook.nut
 msgid "Billhook"
 msgstr "钩镰"
 
-# scripts/items/weapons/greataxe.nut
-msgid "Greataxe"
-msgstr "双手巨斧"
-
-# scripts/items/weapons/greataxe.nut
-msgid "greataxe"
-msgstr ""
+# scripts/items/weapons/bludgeon.nut
+msgid "Bludgeon"
+msgstr "大棒"
 
 # scripts/items/weapons/crossbow.nut
-msgid "crossbow"
-msgstr ""
-
-# scripts/items/weapons/warbrand.nut
-msgid "warbrand"
-msgstr ""
-
-# scripts/items/weapons/bludgeon.nut
-msgid "bludgeon"
-msgstr ""
+msgid "Crossbow"
+msgstr "弩"
 
 # scripts/items/weapons/falchion.nut
 msgid "Falchion"
 msgstr "单刃剑"
 
-# scripts/items/weapons/falchion.nut
-msgid "falchion"
-msgstr ""
-
-# scripts/items/weapons/shamshir.nut
-msgid "shamshir"
-msgstr ""
-
-# scripts/items/weapons/bardiche.nut
-msgid "bardiche"
-msgstr ""
-
-# scripts/items/weapons/billhook.nut
-msgid "billhook"
-msgstr ""
+# scripts/items/weapons/greataxe.nut
+msgid "Greataxe"
+msgstr "双手巨斧"
 
 # scripts/items/weapons/scimitar.nut
-msgid "scimitar"
-msgstr ""
+msgid "Scimitar"
+msgstr "弯刀"
+
+# scripts/items/weapons/shamshir.nut
+msgid "Shamshir"
+msgstr "沙姆希尔"
+
+# scripts/items/weapons/warbrand.nut
+msgid "Warbrand"
+msgstr "弯刀"
+
+# scripts/items/weapons/goedendag.nut
+msgid "Goedendag"
+msgstr "尖刺钉棒"
 
 # scripts/items/weapons/longsword.nut
 msgid "Longsword"
 msgstr "长剑"
 
-# scripts/items/weapons/longsword.nut
-msgid "longsword"
-msgstr ""
+# scripts/items/weapons/pitchfork.nut
+msgid "Pitchfork"
+msgstr "干草叉"
+
+# scripts/items/weapons/scramasax.nut
+msgid "Scramasax"
+msgstr "撒克逊大刀"
 
 # scripts/items/weapons/short_bow.nut
 msgid "Short Bow"
 msgstr "短弓"
 
 # scripts/items/weapons/warhammer.nut
-msgid "warhammer"
-msgstr ""
-
-# scripts/items/weapons/warhammer.nut
 msgid "Warhammer"
 msgstr "战锤"
-
-# scripts/items/weapons/scramasax.nut
-msgid "scramasax"
-msgstr ""
-
-# scripts/items/weapons/scramasax.nut
-msgid "Scramasax"
-msgstr "撒克逊大刀"
-
-# scripts/items/weapons/pitchfork.nut
-msgid "Pitchfork"
-msgstr "干草叉"
-
-# scripts/items/weapons/pitchfork.nut
-msgid "pitchfork"
-msgstr ""
 
 # scripts/items/weapons/wonky_bow.nut
 msgid "Wonky Bow"
 msgstr "靠不住的弓"
 
-# scripts/items/weapons/goedendag.nut
-msgid "goedendag"
-msgstr ""
-
-# scripts/items/weapons/goedendag.nut
-msgid "Goedendag"
-msgstr "尖刺钉棒"
+# scripts/items/weapons/boar_spear.nut
+msgid "Boar Spear"
+msgstr "野猪长矛"
 
 # scripts/items/weapons/greatsword.nut
 msgid "Greatsword"
 msgstr "大剑"
 
-# scripts/items/weapons/boar_spear.nut
-msgid "Boar Spear"
-msgstr "野猪长矛"
-
-# scripts/items/weapons/polehammer.nut
-msgid "polehammer"
-msgstr ""
-
 # scripts/items/weapons/polehammer.nut
 msgid "Polehammer"
 msgstr "长锤"
-
-# scripts/items/weapons/greatsword.nut
-msgid "greatsword"
-msgstr ""
 
 # scripts/items/weapons/shortsword.nut
 msgid "Shortsword"
 msgstr "短剑"
 
-# scripts/items/weapons/shortsword.nut
-msgid "shortsword"
-msgstr ""
-
-# scripts/items/weapons/weapon.nut
-msgid "progressbar"
-msgstr ""
-
-# scripts/items/weapons/staff_sling.nut
-msgid "Staff Sling"
-msgstr "投石棒"
-
-# scripts/items/weapons/winged_mace.nut
-msgid "Winged Mace"
-msgstr "飞翼杖"
+# scripts/items/weapons/battle_whip.nut
+msgid "Battle Whip"
+msgstr "战鞭"
 
 # scripts/items/weapons/hunting_bow.nut
 msgid "Hunting Bow"
@@ -270,25 +146,33 @@ msgstr "猎弓"
 msgid "Noble Sword"
 msgstr "贵族剑"
 
-# scripts/items/weapons/battle_whip.nut
-msgid "Battle Whip"
-msgstr "战鞭"
+# scripts/items/weapons/staff_sling.nut
+msgid "Staff Sling"
+msgstr "投石棒"
 
-# scripts/items/weapons/hooked_blade.nut
-msgid "Hooked Blade"
-msgstr "钩刃"
+# scripts/items/weapons/winged_mace.nut
+msgid "Winged Mace"
+msgstr "飞翼杖"
 
-# scripts/items/weapons/fighting_axe.nut
-msgid "Fighting Axe"
-msgstr "战斧"
+# scripts/items/weapons/weapon.nut
+msgid "progressbar"
+msgstr ""
+
+# scripts/items/weapons/weapon.nut
+msgid " has broken!"
+msgstr ""
 
 # scripts/items/weapons/arming_sword.nut
 msgid "Arming Sword"
 msgstr "武装剑"
 
-# scripts/items/weapons/weapon.nut
-msgid " has broken!"
-msgstr ""
+# scripts/items/weapons/fighting_axe.nut
+msgid "Fighting Axe"
+msgstr "战斧"
+
+# scripts/items/weapons/hooked_blade.nut
+msgid "Hooked Blade"
+msgstr "钩刃"
 
 # scripts/items/weapons/morning_star.nut
 msgid "Morning Star"
@@ -306,50 +190,57 @@ msgstr "木棍"
 msgid "Fencing Sword"
 msgstr "刺剑"
 
-# scripts/items/weapons/rondel_dagger.nut
-msgid "Rondel Dagger"
-msgstr "龙德尔匕首"
+# scripts/items/weapons/military_pick.nut
+msgid "Military Pick"
+msgstr "军用镐"
 
 # scripts/items/weapons/militia_spear.nut
 msgid "Militia Spear"
 msgstr "民兵矛"
 
+# scripts/items/weapons/rondel_dagger.nut
+msgid "Rondel Dagger"
+msgstr "龙德尔匕首"
+
 # scripts/items/weapons/weapon.nut
 msgid "[/color] uses"
 msgstr ""
-
-# scripts/items/weapons/military_pick.nut
-msgid "Military Pick"
-msgstr "军用镐"
-
-# scripts/items/weapons/weapon.nut
-msgid "[/color] tiles"
-msgstr ""
-
-# scripts/items/weapons/heavy_crossbow.nut
-msgid "Heavy Crossbow"
-msgstr "重弩"
 
 # scripts/items/weapons/fighting_spear.nut
 msgid "Fighting Spear"
 msgstr "战矛"
 
-# scripts/items/weapons/masterwork_bow.nut
-msgid "Masterwork Bow"
-msgstr "大师弓"
+# scripts/items/weapons/heavy_crossbow.nut
+msgid "Heavy Crossbow"
+msgstr "重弩"
 
 # scripts/items/weapons/light_crossbow.nut
 msgid "Light Crossbow"
 msgstr "轻弩"
 
+# scripts/items/weapons/masterwork_bow.nut
+msgid "Masterwork Bow"
+msgstr "大师弓"
+
 # scripts/items/weapons/throwing_spear.nut
 msgid "Throwing Spear"
 msgstr "投矛"
+
+# scripts/items/weapons/weapon.nut
+msgid "[/color] tiles"
+msgstr ""
 
 # scripts/items/weapons/hand_axe.nut
 # scripts/items/weapons/hatchet.nut
 # scripts/items/weapons/fighting_axe.nut
 msgid "Axe, One-Handed"
+msgstr ""
+
+# scripts/items/weapons/woodcutters_axe.nut
+# scripts/items/weapons/greataxe.nut
+# scripts/items/weapons/longaxe.nut
+# scripts/items/weapons/bardiche.nut
+msgid "Axe, Two-Handed"
 msgstr ""
 
 # scripts/items/weapons/short_bow.nut
@@ -360,28 +251,13 @@ msgstr ""
 msgid "Bow, Two-Handed"
 msgstr ""
 
-# scripts/items/weapons/woodcutters_axe.nut
-# scripts/items/weapons/greataxe.nut
-# scripts/items/weapons/longaxe.nut
-# scripts/items/weapons/bardiche.nut
-msgid "Axe, Two-Handed"
-msgstr ""
-
-# scripts/items/weapons/weapon.nut
-msgid "armor-body-slim"
-msgstr ""
-
 # scripts/items/weapons/two_handed_mace.nut
 msgid "Two-Handed Mace"
 msgstr "狼牙棒"
 
 # scripts/items/weapons/weapon.nut
-msgid "Range of [color="
+msgid "armor-body-slim"
 msgstr ""
-
-# scripts/items/weapons/woodcutters_axe.nut
-msgid "Woodcutter's Axe"
-msgstr "伐木斧"
 
 # scripts/items/weapons/winged_mace.nut
 # scripts/items/weapons/bludgeon.nut
@@ -395,56 +271,29 @@ msgstr ""
 msgid "Mace, Two-Handed"
 msgstr ""
 
-# scripts/items/weapons/two_handed_flail.nut
-msgid "Two-handed Flail"
-msgstr "双手链枷"
-
 # scripts/items/weapons/military_cleaver.nut
 msgid "Military Cleaver"
 msgstr "军用砍刀"
 
 # scripts/items/weapons/weapon.nut
-msgid "Damage of [color="
-msgstr "伤害"
-
-# scripts/items/weapons/boar_spear.nut
-# scripts/items/weapons/fighting_spear.nut
-# scripts/items/weapons/militia_spear.nut
-msgid "Spear, One-Handed"
+msgid "Range of [color="
 msgstr ""
 
-# scripts/items/weapons/longsword.nut
-# scripts/items/weapons/warbrand.nut
-# scripts/items/weapons/greatsword.nut
-msgid "Sword, Two-Handed"
-msgstr ""
+# scripts/items/weapons/two_handed_flail.nut
+msgid "Two-handed Flail"
+msgstr "双手链枷"
 
-# scripts/items/weapons/fencing_sword.nut
-# scripts/items/weapons/arming_sword.nut
-# scripts/items/weapons/falchion.nut
-# scripts/items/weapons/noble_sword.nut
-# scripts/items/weapons/shamshir.nut
-# scripts/items/weapons/shortsword.nut
-# scripts/items/weapons/scimitar.nut
-msgid "Sword, One-Handed"
-msgstr ""
-
-# scripts/items/weapons/spetum.nut
-# scripts/items/weapons/warfork.nut
-msgid "Spear, Two-Handed"
-msgstr ""
-
-# scripts/items/weapons/two_handed_wooden_hammer.nut
-msgid "Two-Handed Mallet"
-msgstr "双手木槌"
-
-# scripts/items/weapons/two_handed_hammer.nut
-msgid "Two-Handed Hammer"
-msgstr "双手巨锤"
+# scripts/items/weapons/woodcutters_axe.nut
+msgid "Woodcutter's Axe"
+msgstr "伐木斧"
 
 # scripts/items/weapons/butchers_cleaver.nut
 msgid "Butcher's Cleaver"
 msgstr "屠夫的切肉刀"
+
+# scripts/items/weapons/weapon.nut
+msgid "Damage of [color="
+msgstr "伤害"
 
 # scripts/items/weapons/reinforced_wooden_flail.nut
 # scripts/items/weapons/three_headed_flail.nut
@@ -458,20 +307,49 @@ msgstr ""
 msgid "Flail, Two-Handed"
 msgstr ""
 
-# scripts/items/weapons/weapon.nut
-msgid "[/color] - [color="
+# scripts/items/weapons/boar_spear.nut
+# scripts/items/weapons/fighting_spear.nut
+# scripts/items/weapons/militia_spear.nut
+msgid "Spear, One-Handed"
 msgstr ""
+
+# scripts/items/weapons/spetum.nut
+# scripts/items/weapons/warfork.nut
+msgid "Spear, Two-Handed"
+msgstr ""
+
+# scripts/items/weapons/fencing_sword.nut
+# scripts/items/weapons/arming_sword.nut
+# scripts/items/weapons/falchion.nut
+# scripts/items/weapons/noble_sword.nut
+# scripts/items/weapons/shamshir.nut
+# scripts/items/weapons/shortsword.nut
+# scripts/items/weapons/scimitar.nut
+msgid "Sword, One-Handed"
+msgstr ""
+
+# scripts/items/weapons/longsword.nut
+# scripts/items/weapons/warbrand.nut
+# scripts/items/weapons/greatsword.nut
+msgid "Sword, Two-Handed"
+msgstr ""
+
+# scripts/items/weapons/two_handed_hammer.nut
+msgid "Two-Handed Hammer"
+msgstr "双手巨锤"
+
+# scripts/items/weapons/two_handed_wooden_hammer.nut
+msgid "Two-Handed Mallet"
+msgstr "双手木槌"
+
+# scripts/items/weapons/javelin.nut
+msgid "Bundle of Javelins"
+msgstr "一捆标枪"
 
 # scripts/items/weapons/dagger.nut
 # scripts/items/weapons/rondel_dagger.nut
 # scripts/items/weapons/knife.nut
 msgid "Dagger, One-Handed"
-msgstr ""
-
-# scripts/items/weapons/two_handed_wooden_hammer.nut
-# scripts/items/weapons/two_handed_hammer.nut
-# scripts/items/weapons/polehammer.nut
-msgid "Hammer, Two-Handed"
 msgstr ""
 
 # scripts/items/weapons/warhammer.nut
@@ -480,13 +358,26 @@ msgstr ""
 msgid "Hammer, One-Handed"
 msgstr ""
 
-# scripts/items/weapons/javelin.nut
-msgid "Bundle of Javelins"
-msgstr "一捆标枪"
+# scripts/items/weapons/two_handed_wooden_hammer.nut
+# scripts/items/weapons/two_handed_hammer.nut
+# scripts/items/weapons/polehammer.nut
+msgid "Hammer, Two-Handed"
+msgstr ""
 
 # scripts/items/weapons/three_headed_flail.nut
 msgid "Three-Headed Flail"
 msgstr "三头链枷"
+
+# scripts/items/weapons/weapon.nut
+msgid "[/color] - [color="
+msgstr ""
+
+# scripts/items/weapons/scramasax.nut
+# scripts/items/weapons/butchers_cleaver.nut
+# scripts/items/weapons/military_cleaver.nut
+# scripts/items/weapons/battle_whip.nut
+msgid "Cleaver, One-Handed"
+msgstr ""
 
 # scripts/items/weapons/throwing_spear.nut
 msgid "Is destroyed on use"
@@ -497,13 +388,6 @@ msgstr "使用时摧毁"
 # scripts/items/weapons/billhook.nut
 # scripts/items/weapons/pike.nut
 msgid "Polearm, Two-Handed"
-msgstr ""
-
-# scripts/items/weapons/scramasax.nut
-# scripts/items/weapons/butchers_cleaver.nut
-# scripts/items/weapons/military_cleaver.nut
-# scripts/items/weapons/battle_whip.nut
-msgid "Cleaver, One-Handed"
 msgstr ""
 
 # scripts/items/weapons/crossbow.nut
@@ -528,21 +412,21 @@ msgstr ""
 msgid "%[/color] chance to hit"
 msgstr "%[/color] 命中几率"
 
-# scripts/items/weapons/weapon.nut
-msgid "Maximum Fatigue [color="
-msgstr ""
-
 # scripts/items/weapons/throwing_axe.nut
 msgid "Bundle of Throwing Axes"
 msgstr "一捆飞斧"
 
-# scripts/items/weapons/two_handed_flanged_mace.nut
-msgid "Two-Handed Flanged Mace"
-msgstr "双手凸缘杖"
+# scripts/items/weapons/weapon.nut
+msgid "Maximum Fatigue [color="
+msgstr ""
 
 # scripts/items/weapons/reinforced_wooden_flail.nut
 msgid "Reinforced Wooden Flail"
 msgstr "强化木链枷"
+
+# scripts/items/weapons/two_handed_flanged_mace.nut
+msgid "Two-Handed Flanged Mace"
+msgstr "双手凸缘杖"
 
 # scripts/items/weapons/two_handed_wooden_flail.nut
 msgid "Two-handed Wooden Flail"
@@ -553,11 +437,11 @@ msgid "Shield damage of [color="
 msgstr "对盾牌的伤害 [color="
 
 # scripts/items/weapons/weapon.nut
-msgid "Has an additional [color="
+msgid "Contains ammo for [color="
 msgstr ""
 
 # scripts/items/weapons/weapon.nut
-msgid "Contains ammo for [color="
+msgid "Has an additional [color="
 msgstr ""
 
 # scripts/items/weapons/javelin.nut
@@ -568,26 +452,26 @@ msgstr ""
 msgid "Chance to hit head [color="
 msgstr ""
 
-# scripts/items/weapons/staff_sling.nut
-msgid "Throwing Weapon, Two-Handed"
-msgstr ""
-
 # scripts/items/weapons/throwing_axe.nut
 # scripts/items/weapons/javelin.nut
 # scripts/items/weapons/throwing_spear.nut
 msgid "Throwing Weapon, One-Handed"
 msgstr ""
 
+# scripts/items/weapons/staff_sling.nut
+msgid "Throwing Weapon, Two-Handed"
+msgstr ""
+
 # scripts/items/weapons/weapon.nut
 msgid "]Is empty and useless[/color]"
 msgstr "]空的无用[/color]"
 
-# scripts/items/weapons/weapon.nut
-msgid "Weapon skills build up [color="
-msgstr ""
-
 # scripts/items/weapons/lute.nut
 msgid "Musical Instrument, Two-Handed"
+msgstr ""
+
+# scripts/items/weapons/weapon.nut
+msgid "Weapon skills build up [color="
 msgstr ""
 
 # scripts/items/weapons/throwing_axe.nut
@@ -595,12 +479,12 @@ msgid "Bundle of Throwing Axes (Empty)"
 msgstr ""
 
 # scripts/items/weapons/weapon.nut
-msgid "%[/color] of damage ignores armor"
-msgstr "%[/color] 伤害忽视盔甲"
-
-# scripts/items/weapons/weapon.nut
 msgid "%[/color] effective against armor"
 msgstr "%[/color] 效果作用于盔甲"
+
+# scripts/items/weapons/weapon.nut
+msgid "%[/color] of damage ignores armor"
+msgstr "%[/color] 伤害忽视盔甲"
 
 # scripts/items/weapons/knife.nut
 msgid "A short knife, not made for combat."
@@ -648,13 +532,13 @@ msgstr "一种适应各种战斗环境的修长双手利刃。"
 msgid "A long two-handed blade as good for crushing as for cutting."
 msgstr "一种很长的双手利刃，既能切割又能斩破敌人。"
 
-# scripts/items/weapons/boar_spear.nut
-msgid "A short and heavy spear with two wings behind the bladed tip."
-msgstr "一种在其开刃矛头后附有两个翅翼的重型短矛。"
-
 # scripts/items/weapons/hand_axe.nut
 msgid "A one-handed axe with a medium long shaft and a refined head."
 msgstr "一把带有中长手柄和精炼斧首的单手斧。"
+
+# scripts/items/weapons/boar_spear.nut
+msgid "A short and heavy spear with two wings behind the bladed tip."
+msgstr "一种在其开刃矛头后附有两个翅翼的重型短矛。"
 
 # scripts/items/weapons/warhammer.nut
 msgid "A short iron warhammer that easily batters through armor plates."
@@ -668,15 +552,15 @@ msgstr "有着毁灭性力量的大型锋利金属刀。"
 msgid "A light and elegant blade, favoring a swift and mobile fighting style."
 msgstr "轻柔而高雅的利刃，偏向迅捷而灵活的战斗风格。"
 
-# scripts/items/weapons/fighting_axe.nut
-msgid ""
-"An axe explicitly designed for fighting armored opponents. Quite sturdy."
-msgstr "为对抗重装敌人而设计的斧子。相当坚固。"
-
 # scripts/items/weapons/falchion.nut
 msgid ""
 "A curved sword best suited for slashing and cutting unarmored opponents."
 msgstr "一种弯曲的剑，最适合砍杀没有装甲的敌人。"
+
+# scripts/items/weapons/fighting_axe.nut
+msgid ""
+"An axe explicitly designed for fighting armored opponents. Quite sturdy."
+msgstr "为对抗重装敌人而设计的斧子。相当坚固。"
 
 # scripts/items/weapons/war_bow.nut
 msgid ""
@@ -688,15 +572,15 @@ msgid ""
 "A long, quadrangular spike designed to pierce through weakpoints in armor."
 msgstr "一种细长的四棱柱匕首，用来刺穿盔甲上的弱点。"
 
-# scripts/items/weapons/arming_sword.nut
-msgid ""
-"A lightweight, straight sword suitable for slashing, thrusting and swinging."
-msgstr "一种易于挥砍和戳刺的轻质直剑。"
-
 # scripts/items/weapons/two_handed_wooden_flail.nut
 msgid ""
 "A heavy two-handed wooden flail that can strike over or around shield cover."
 msgstr "一种较沉重的双手木链枷，能绕过盾牌打击敌人。"
+
+# scripts/items/weapons/arming_sword.nut
+msgid ""
+"A lightweight, straight sword suitable for slashing, thrusting and swinging."
+msgstr "一种易于挥砍和戳刺的轻质直剑。"
 
 # scripts/items/weapons/butchers_cleaver.nut
 msgid ""
@@ -710,17 +594,17 @@ msgid ""
 "hand."
 msgstr "一柄带有些许凹痕和锯齿的生铁剑，可以轻易的单手使用。"
 
-# scripts/items/weapons/bludgeon.nut
-msgid ""
-"A spiked metal head on a wooden shaft, crude but effective in bashing in "
-"heads."
-msgstr "木头上套有尖刺的金属头，工艺粗糙但能有效敲打头部。"
-
 # scripts/items/weapons/pike.nut
 msgid ""
 "A long pike used for thrusting over some distance and keeping the enemy at "
 "bay."
 msgstr "一种长枪，能在一定距离内攻击敌人，并使其处于不利位置。"
+
+# scripts/items/weapons/bludgeon.nut
+msgid ""
+"A spiked metal head on a wooden shaft, crude but effective in bashing in "
+"heads."
+msgstr "木头上套有尖刺的金属头，工艺粗糙但能有效敲打头部。"
 
 # scripts/items/weapons/scramasax.nut
 msgid ""
@@ -887,19 +771,19 @@ msgid ""
 " well."
 msgstr "一个长长的双手斧头，每一次挥动都会异常沉重。一般用它来砍伐大树，但同时也可以砍杀敌人。"
 
-# scripts/items/weapons/longaxe.nut
-msgid ""
-"A relatively thin blade on a very long shaft used for devastating cutting "
-"attacks over some distance, and to render shields unusable from behind the "
-"frontline."
-msgstr "在一个很长的木柄上有一个相对较薄而锋利的刀片，能在一定距离内进行毁灭性的劈砍，并且可以攻击到前排防御者后面的目标。"
-
 # scripts/items/weapons/warfork.nut
 msgid ""
 "A pitchfork re-forged into a battlefield weapon that is a cross between a "
 "spear and a pike. Used for thrusting over some distance and keeping the "
 "enemy at bay."
 msgstr "一种被重新锻造成战场武器的干草叉，它界于是矛和刺之间。 可与敌人保持距离使之处于不利位置。"
+
+# scripts/items/weapons/longaxe.nut
+msgid ""
+"A relatively thin blade on a very long shaft used for devastating cutting "
+"attacks over some distance, and to render shields unusable from behind the "
+"frontline."
+msgstr "在一个很长的木柄上有一个相对较薄而锋利的刀片，能在一定距离内进行毁灭性的劈砍，并且可以攻击到前排防御者后面的目标。"
 
 # scripts/items/weapons/warbrand.nut
 msgid ""
@@ -929,19 +813,19 @@ msgid ""
 "penetrating armor. A rare find in these lands."
 msgstr "这把精心制作的来自南方的异域刀刃有一个弯曲的边缘，它可以轻松地切开深深的伤口，但不适合插入和穿透盔甲。 在这片陆地上很稀有。"
 
-# scripts/items/weapons/two_handed_hammer.nut
-msgid ""
-"A large and heavy hammer held with both hands. What it lacks in grace, it "
-"makes up for in raw force as it is used to shatter even heavily-armored "
-"enemy lines by knocking people away or to the ground."
-msgstr "两手抓握的大型沉重铁锤。 它缺乏优雅性，却充满了原始的破坏力量，因此它被用来粉碎重装甲敌人的防线。"
-
 # scripts/items/weapons/pickaxe.nut
 msgid ""
 "A hard head made from metal attached to a wooden handle, the Pickaxe is a "
 "miner's tool used to break up rocks. As an improvised weapon it's unwieldy "
 "but can deliver fatal injuries even through armor."
 msgstr "这是一种拥有金属头的木镐，它一般是矿工用来分解岩石的。作为一种临时武器，它很笨重，但也可对装甲目标造成致命的伤害。"
+
+# scripts/items/weapons/two_handed_hammer.nut
+msgid ""
+"A large and heavy hammer held with both hands. What it lacks in grace, it "
+"makes up for in raw force as it is used to shatter even heavily-armored "
+"enemy lines by knocking people away or to the ground."
+msgstr "两手抓握的大型沉重铁锤。 它缺乏优雅性，却充满了原始的破坏力量，因此它被用来粉碎重装甲敌人的防线。"
 
 # scripts/items/weapons/wooden_flail.nut
 msgid ""

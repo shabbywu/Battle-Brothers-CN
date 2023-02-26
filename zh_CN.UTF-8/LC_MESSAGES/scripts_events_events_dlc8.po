@@ -2,25 +2,49 @@
 msgid ""
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
-msgid "Helped "
+# scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
+# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
+msgid " gains "
 msgstr ""
 
 # scripts/events/events/dlc8/oathtakers_skull_cracked_event.nut
 msgid "Fix it."
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
-# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
-msgid " gains "
+# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
+msgid "Helped "
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
+msgid "Stopped "
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
 msgid "falchion"
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
-msgid "Stopped "
+# scripts/events/events/dlc8/tree_fort_event.nut
+# scripts/events/events/dlc8/captured_oathbringer_event.nut
+# scripts/events/events/dlc8/anatomist_vs_dog_event.nut
+# scripts/events/events/dlc8/brawler_throw_fight_event.nut
+# scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
+# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
+# scripts/events/events/dlc8/missing_kids_event.nut
+# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
+# scripts/events/events/dlc8/anatomist_dead_knight_event.nut
+msgid " suffers "
+msgstr " 遭受 "
+
+# scripts/events/events/dlc8/mutated_gladiator_annoys_others_event.nut
+msgid "'s antics"
+msgstr ""
+
+# scripts/events/events/dlc8/something_in_barn_event.nut
+msgid "Good job."
+msgstr "做得好。"
+
+# scripts/events/events/dlc8/captured_oathbringer_event.nut
+msgid "Kill him."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
@@ -43,37 +67,26 @@ msgstr ""
 msgid "You gain "
 msgstr "你获得了 "
 
-# scripts/events/events/dlc8/tree_fort_event.nut
-# scripts/events/events/dlc8/captured_oathbringer_event.nut
-# scripts/events/events/dlc8/anatomist_vs_dog_event.nut
-# scripts/events/events/dlc8/brawler_throw_fight_event.nut
-# scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
-# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
-# scripts/events/events/dlc8/missing_kids_event.nut
-# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
-# scripts/events/events/dlc8/anatomist_dead_knight_event.nut
-msgid " suffers "
-msgstr " 遭受 "
-
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 # scripts/events/events/dlc8/incense_trade_event.nut
 msgid "You lose "
 msgstr "你失去了 "
 
-# scripts/events/events/dlc8/captured_oathbringer_event.nut
-msgid "Kill him."
+# scripts/events/events/dlc8/anatomist_vs_dog_event.nut
+msgid " levels up"
 msgstr ""
 
-# scripts/events/events/dlc8/mutated_gladiator_annoys_others_event.nut
-msgid "'s antics"
+# scripts/events/events/dlc8/apprentice_vs_oathtaker_event.nut
+# scripts/events/events/dlc8/apprentice_vs_anatomist_event.nut
+msgid " something"
 msgstr ""
 
-# scripts/events/events/dlc8/something_in_barn_event.nut
-msgid "Good job."
-msgstr "做得好。"
+# scripts/events/events/dlc8/shadow_dissection_event.nut
+msgid "Afraid of "
+msgstr ""
 
-# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
-msgid "shortsword"
+# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
+msgid "Damn fool."
 msgstr ""
 
 # scripts/events/events/dlc8/tree_fort_event.nut
@@ -84,33 +97,29 @@ msgstr ""
 msgid "Nice save."
 msgstr ""
 
-# scripts/events/events/dlc8/apprentice_vs_oathtaker_event.nut
-# scripts/events/events/dlc8/apprentice_vs_anatomist_event.nut
-msgid " something"
+# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
+msgid "Of course."
 msgstr ""
-
-# scripts/events/events/dlc8/anatomist_vs_dog_event.nut
-msgid " levels up"
-msgstr ""
-
-# scripts/events/events/dlc8/brawler_throw_fight_event.nut
-msgid "Well done!"
-msgstr "很出色！"
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
 msgid "Oh. Oh no."
 msgstr "噢。 Oh no."
 
-# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
-msgid "Of course."
+# scripts/events/events/dlc8/brawler_throw_fight_event.nut
+msgid "Well done!"
+msgstr "很出色！"
+
+# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
+msgid "shortsword"
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
-msgid "Damn fool."
+# scripts/events/events/dlc8/mutated_gladiator_annoys_others_event.nut
+msgid "Annoyed by "
 msgstr ""
 
-# scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "Afraid of "
+# scripts/events/events/dlc8/apprentice_vs_oathtaker_event.nut
+# scripts/events/events/dlc8/apprentice_vs_anatomist_event.nut
+msgid "Has taught "
 msgstr ""
 
 # scripts/events/events/dlc8/captured_oathbringer_event.nut
@@ -121,21 +130,24 @@ msgstr ""
 msgid "Oathtakers!"
 msgstr ""
 
-# scripts/events/events/dlc8/apprentice_vs_oathtaker_event.nut
-# scripts/events/events/dlc8/apprentice_vs_anatomist_event.nut
-msgid "Has taught "
+# scripts/events/events/dlc8/ruined_priory_event.nut
+msgid "Yeah, yeah."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 msgid "Yes, do it."
 msgstr ""
 
-# scripts/events/events/dlc8/mutated_gladiator_annoys_others_event.nut
-msgid "Annoyed by "
+# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
+msgid " leaves the "
+msgstr " 离开了 "
+
+# scripts/events/events/dlc8/strange_scribe_event.nut
+msgid "Damn scamps."
 msgstr ""
 
-# scripts/events/events/dlc8/ruined_priory_event.nut
-msgid "Yeah, yeah."
+# scripts/events/events/dlc8/anatomist_dead_knight_event.nut
+msgid "Easy enough."
 msgstr ""
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
@@ -146,14 +158,6 @@ msgstr ""
 msgid "Torture him."
 msgstr ""
 
-# scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "Damn scamps."
-msgstr ""
-
-# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
-msgid " leaves the "
-msgstr " 离开了 "
-
 # scripts/events/events/dlc8/incense_trade_event.nut
 msgid "Uh, alright."
 msgstr ""
@@ -162,8 +166,8 @@ msgstr ""
 msgid "Unnerved by "
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_dead_knight_event.nut
-msgid "Easy enough."
+# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
+msgid " has suffered"
 msgstr ""
 
 # scripts/events/events/dlc8/oathtakers_lore_event.nut
@@ -178,9 +182,9 @@ msgstr ""
 msgid "At %townname%"
 msgstr ""
 
-# scripts/events/events/dlc8/oathbreaker_event.nut
-msgid "Safe travels."
-msgstr "旅途平安。"
+# scripts/events/events/dlc8/shadow_dissection_event.nut
+msgid "Davkul awaits"
+msgstr ""
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
 msgid "Hmm, alright."
@@ -191,45 +195,17 @@ msgstr ""
 msgid "Learned from "
 msgstr "学习 "
 
-# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
-msgid " has suffered"
-msgstr ""
-
-# scripts/events/events/dlc8/oathtaker_joins_event.nut
-msgid "Young Anselm."
-msgstr ""
-
 # scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
 msgid "Not a chance."
 msgstr ""
 
-# scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "Davkul awaits"
-msgstr ""
+# scripts/events/events/dlc8/oathbreaker_event.nut
+msgid "Safe travels."
+msgstr "旅途平安。"
 
-# scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
-# scripts/events/events/dlc8/apprentice_vs_oathtaker_event.nut
-# scripts/events/events/dlc8/disowned_noble_vs_deserter_event.nut
-# scripts/events/events/dlc8/anatomist_vs_splinter_event.nut
-# scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
-# scripts/events/events/dlc8/anatomist_reflects_on_nobles_event.nut
-# scripts/events/events/dlc8/anatomist_vs_historian_event.nut
-# scripts/events/events/dlc8/anatomist_reflects_on_webknechts_event.nut
-# scripts/events/events/dlc8/anatomist_white_nachzehrer_event.nut
-# scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
-# scripts/events/events/dlc8/anatomist_bummed_at_mutations_event.nut
-# scripts/events/events/dlc8/mutated_gladiator_annoys_others_event.nut
-# scripts/events/events/dlc8/oathtaker_happy_with_company_event.nut
-# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
-# scripts/events/events/dlc8/anatomist_dissects_beetles_event.nut
-# scripts/events/events/dlc8/eunuch_vs_insecure_event.nut
-# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
-# scripts/events/events/dlc8/apprentice_vs_anatomist_event.nut
-# scripts/events/events/dlc8/shadow_dissection_event.nut
-# scripts/events/events/dlc8/gladiator_origin_vs_oathtaker_event.nut
-# scripts/events/events/dlc8/anatomist_demonology_book_event.nut
-msgid "During camp..."
-msgstr "露营时…"
+# scripts/events/events/dlc8/oathtaker_joins_event.nut
+msgid "Young Anselm."
+msgstr ""
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
 # scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
@@ -262,22 +238,45 @@ msgstr " 获得了 [color="
 msgid "A win's a win."
 msgstr ""
 
+# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
+msgid "Damn eggheads."
+msgstr ""
+
+# scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
+# scripts/events/events/dlc8/apprentice_vs_oathtaker_event.nut
+# scripts/events/events/dlc8/disowned_noble_vs_deserter_event.nut
+# scripts/events/events/dlc8/anatomist_vs_splinter_event.nut
+# scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
+# scripts/events/events/dlc8/anatomist_reflects_on_nobles_event.nut
+# scripts/events/events/dlc8/anatomist_vs_historian_event.nut
+# scripts/events/events/dlc8/anatomist_reflects_on_webknechts_event.nut
+# scripts/events/events/dlc8/anatomist_white_nachzehrer_event.nut
+# scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
+# scripts/events/events/dlc8/anatomist_bummed_at_mutations_event.nut
+# scripts/events/events/dlc8/mutated_gladiator_annoys_others_event.nut
+# scripts/events/events/dlc8/oathtaker_happy_with_company_event.nut
+# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
+# scripts/events/events/dlc8/anatomist_dissects_beetles_event.nut
+# scripts/events/events/dlc8/eunuch_vs_insecure_event.nut
+# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
+# scripts/events/events/dlc8/apprentice_vs_anatomist_event.nut
+# scripts/events/events/dlc8/shadow_dissection_event.nut
+# scripts/events/events/dlc8/gladiator_origin_vs_oathtaker_event.nut
+# scripts/events/events/dlc8/anatomist_demonology_book_event.nut
+msgid "During camp..."
+msgstr "露营时…"
+
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "On the road..."
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
-msgid "Damn eggheads."
+# scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
+msgid " gains Paranoid"
 msgstr ""
 
-# scripts/events/events/dlc8/oathbreaker_event.nut
-msgid "the Oathbreaker"
-msgstr "誓言破坏者"
-
-# scripts/events/events/dlc8/black_market_event.nut
-# scripts/events/events/dlc8/incense_trade_event.nut
-msgid "[/color] Crowns"
+# scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
+msgid "Experiments on "
 msgstr ""
 
 # scripts/events/events/dlc8/oathbreaker_event.nut
@@ -285,37 +284,34 @@ msgid "Not interested."
 msgstr "不感兴趣。"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
+msgid "Thanks, %monk%."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "That went well."
 msgstr "一切顺利。"
+
+# scripts/events/events/dlc8/oathbreaker_event.nut
+msgid "Welcome aboard!"
+msgstr ""
 
 # scripts/events/events/dlc8/oathtaker_joins_event.nut
 # scripts/events/events/dlc8/volunteers_event.nut
 msgid "Welcome aboard."
 msgstr "欢迎加入。"
 
-# scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
-msgid "Experiments on "
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
-msgid " gains Paranoid"
+# scripts/events/events/dlc8/black_market_event.nut
+# scripts/events/events/dlc8/incense_trade_event.nut
+msgid "[/color] Crowns"
 msgstr ""
 
 # scripts/events/events/dlc8/oathbreaker_event.nut
-msgid "Welcome aboard!"
-msgstr ""
+msgid "the Oathbreaker"
+msgstr "誓言破坏者"
 
-# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
-msgid "Thanks, %monk%."
+# scripts/events/events/dlc8/oathtakers_skull_cracked_event.nut
+msgid " gains Deathwish"
 msgstr ""
-
-# scripts/events/events/dlc8/brawler_throw_fight_event.nut
-# scripts/events/events/dlc8/fake_witchhunter_event.nut
-# scripts/events/events/dlc8/incense_trade_event.nut
-# scripts/events/events/dlc8/missing_kids_event.nut
-# scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
-msgid "You gain [color="
-msgstr "你获得了 [color="
 
 # scripts/events/events/dlc8/lindwurm_slayer_event.nut
 # scripts/events/events/dlc8/tree_fort_event.nut
@@ -340,6 +336,38 @@ msgstr "你获得了 [color="
 msgid "Along the way..."
 msgstr "在途中…"
 
+# scripts/events/events/dlc8/ruined_priory_event.nut
+msgid "As it should be."
+msgstr ""
+
+# scripts/events/events/dlc8/shadow_dissection_event.nut
+msgid "Felt entertained"
+msgstr "感到愉快"
+
+# scripts/events/events/dlc8/anatomist_dead_knight_event.nut
+msgid "Let's go get it."
+msgstr ""
+
+# scripts/events/events/dlc8/something_in_barn_event.nut
+msgid "Let's go see it."
+msgstr ""
+
+# scripts/events/events/dlc8/oathtakers_all_oaths_complete_event.nut
+msgid "To Young Anselm!"
+msgstr ""
+
+# scripts/events/events/dlc8/eunuch_vs_insecure_event.nut
+msgid "Was disrespected"
+msgstr ""
+
+# scripts/events/events/dlc8/brawler_throw_fight_event.nut
+# scripts/events/events/dlc8/fake_witchhunter_event.nut
+# scripts/events/events/dlc8/incense_trade_event.nut
+# scripts/events/events/dlc8/missing_kids_event.nut
+# scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
+msgid "You gain [color="
+msgstr "你获得了 [color="
+
 # scripts/events/events/dlc8/lindwurm_slayer_event.nut
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
 # scripts/events/events/dlc8/strange_scribe_event.nut
@@ -349,6 +377,10 @@ msgstr "在途中…"
 # scripts/events/events/dlc8/ruined_priory_event.nut
 msgid "You lose [color="
 msgstr "你失去了 [color="
+
+# scripts/events/events/dlc8/strange_scribe_event.nut
+msgid "[/color] Fatigue"
+msgstr ""
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
 # scripts/events/events/dlc8/oathtakers_skull_cracked_event.nut
@@ -363,47 +395,19 @@ msgstr "你失去了 [color="
 msgid "[/color] Resolve"
 msgstr ""
 
-# scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "Felt entertained"
-msgstr "感到愉快"
-
-# scripts/events/events/dlc8/oathtakers_skull_cracked_event.nut
-msgid " gains Deathwish"
+# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
+# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
+msgid " gains Iron Lungs"
 msgstr ""
 
-# scripts/events/events/dlc8/oathtakers_all_oaths_complete_event.nut
-msgid "To Young Anselm!"
-msgstr ""
-
-# scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "[/color] Fatigue"
-msgstr ""
-
-# scripts/events/events/dlc8/eunuch_vs_insecure_event.nut
-msgid "Was disrespected"
-msgstr ""
-
-# scripts/events/events/dlc8/ruined_priory_event.nut
-msgid "As it should be."
-msgstr ""
-
-# scripts/events/events/dlc8/something_in_barn_event.nut
-msgid "Let's go see it."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_dead_knight_event.nut
-msgid "Let's go get it."
-msgstr ""
+# scripts/events/events/dlc8/anatomist_reflects_on_webknechts_event.nut
+msgid " now fears beasts"
+msgstr " 现在害怕野兽"
 
 # scripts/events/events/dlc8/oathbreaker_event.nut
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid "Along the road..."
 msgstr "在路上…"
-
-# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
-# scripts/events/events/dlc8/incense_trade_event.nut
-msgid "I don't think so."
-msgstr "我不这么认为。"
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
 msgid "Alright, take it."
@@ -413,59 +417,42 @@ msgstr ""
 msgid "Assault the fort!"
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
-msgid "Your relation to "
+# scripts/events/events/dlc8/fake_witchhunter_event.nut
+msgid "Farkin' peasants."
 msgstr ""
-
-# scripts/events/events/dlc8/anatomist_reflects_on_webknechts_event.nut
-msgid " now fears beasts"
-msgstr " 现在害怕野兽"
 
 # scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
 msgid "Hobble along now."
 msgstr ""
 
-# scripts/events/events/dlc8/fake_witchhunter_event.nut
-msgid "Farkin' peasants."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
-# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
-msgid " gains Iron Lungs"
-msgstr ""
+# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
+# scripts/events/events/dlc8/incense_trade_event.nut
+msgid "I don't think so."
+msgstr "我不这么认为。"
 
 # scripts/events/events/dlc8/something_in_barn_event.nut
 msgid "Not our business."
 msgstr "不是我们的事。"
 
-# scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
-msgid "[/color] Hitpoints"
-msgstr ""
-
-# scripts/events/events/dlc8/oathtakers_lore_event.nut
-msgid "Speak about Oaths."
+# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
+msgid "Your relation to "
 msgstr ""
 
 # scripts/events/events/dlc8/oathtakers_skull_cracked_event.nut
 msgid " is now Determined"
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_reflects_on_nobles_event.nut
-msgid "That's the spirit."
-msgstr ""
-
 # scripts/events/events/dlc8/brawler_throw_fight_event.nut
 msgid "He'll get over it."
 msgstr ""
 
-# scripts/events/events/dlc8/fake_witchhunter_event.nut
-# scripts/events/events/dlc8/missing_kids_event.nut
-msgid "]75[/color] Crowns"
-msgstr "]75[/color] 克朗"
+# scripts/events/events/dlc8/oathtakers_lore_event.nut
+msgid "Speak about Oaths."
+msgstr ""
 
-# scripts/events/events/dlc8/incense_trade_event.nut
-msgid "]15[/color] Crowns"
-msgstr "]15[/color] 克朗"
+# scripts/events/events/dlc8/anatomist_reflects_on_nobles_event.nut
+msgid "That's the spirit."
+msgstr ""
 
 # scripts/events/events/dlc8/incense_trade_event.nut
 msgid "What in the hells."
@@ -475,6 +462,14 @@ msgstr ""
 msgid "What's that noise?"
 msgstr ""
 
+# scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
+msgid "[/color] Hitpoints"
+msgstr ""
+
+# scripts/events/events/dlc8/incense_trade_event.nut
+msgid "]15[/color] Crowns"
+msgstr "]15[/color] 克朗"
+
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "]45[/color] Crowns"
 msgstr "]45[/color] 克朗"
@@ -483,9 +478,42 @@ msgstr "]45[/color] 克朗"
 msgid "]65[/color] Crowns"
 msgstr "]65[/color] 克朗"
 
-# scripts/events/events/dlc8/brawler_throw_fight_event.nut
-msgid "]400[/color] Crowns"
-msgstr "]400[/color] 克朗"
+# scripts/events/events/dlc8/fake_witchhunter_event.nut
+# scripts/events/events/dlc8/missing_kids_event.nut
+msgid "]75[/color] Crowns"
+msgstr "]75[/color] 克朗"
+
+# scripts/events/events/dlc8/black_market_event.nut
+msgid "And cut your nails."
+msgstr ""
+
+# scripts/events/events/dlc8/black_market_event.nut
+msgid "Gross, but alright."
+msgstr ""
+
+# scripts/events/events/dlc8/bad_reputation_event.nut
+msgid "I will lead better."
+msgstr ""
+
+# scripts/events/events/dlc8/strange_scribe_event.nut
+msgid "I'm going with you."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_vs_dog_event.nut
+msgid "Rest in peace, dog."
+msgstr ""
+
+# scripts/events/events/dlc8/lindwurm_slayer_event.nut
+msgid "Very well, join us."
+msgstr ""
+
+# scripts/events/events/dlc8/volunteers_event.nut
+msgid "We're good, thanks."
+msgstr "我们没事，谢谢。"
+
+# scripts/events/events/dlc8/fake_witchhunter_event.nut
+msgid "What a strange man."
+msgstr ""
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
 # scripts/events/events/dlc8/brawler_throw_fight_event.nut
@@ -511,89 +539,44 @@ msgstr ""
 msgid "]+2[/color] Resolve"
 msgstr ""
 
-# scripts/events/events/dlc8/missing_kids_event.nut
-msgid "]150[/color] Crowns"
-msgstr "]150[/color] 克朗"
-
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
 msgid "]100[/color] Crowns"
 msgstr "]100[/color] 克朗"
 
-# scripts/events/events/dlc8/lindwurm_slayer_event.nut
-msgid "Very well, join us."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_vs_dog_event.nut
-msgid "Rest in peace, dog."
-msgstr ""
-
-# scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "I'm going with you."
-msgstr ""
+# scripts/events/events/dlc8/missing_kids_event.nut
+msgid "]150[/color] Crowns"
+msgstr "]150[/color] 克朗"
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
 msgid "]175[/color] Crowns"
 msgstr "]175[/color] 克朗"
 
-# scripts/events/events/dlc8/fake_witchhunter_event.nut
-msgid "What a strange man."
-msgstr ""
-
-# scripts/events/events/dlc8/black_market_event.nut
-msgid "Gross, but alright."
-msgstr ""
-
-# scripts/events/events/dlc8/black_market_event.nut
-msgid "And cut your nails."
-msgstr ""
-
-# scripts/events/events/dlc8/volunteers_event.nut
-msgid "We're good, thanks."
-msgstr "我们没事，谢谢。"
+# scripts/events/events/dlc8/brawler_throw_fight_event.nut
+msgid "]400[/color] Crowns"
+msgstr "]400[/color] 克朗"
 
 # scripts/events/events/dlc8/missing_kids_event.nut
 msgid "]750[/color] Crowns"
 msgstr "]750[/color] 克朗"
 
-# scripts/events/events/dlc8/bad_reputation_event.nut
-msgid "I will lead better."
-msgstr ""
-
-# scripts/events/events/dlc8/disowned_noble_vs_deserter_event.nut
-# scripts/events/events/dlc8/brawler_throw_fight_event.nut
-msgid "[/color] Melee Skill"
+# scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
+msgid " is no longer Ailing"
 msgstr ""
 
 # scripts/events/events/dlc8/ruined_priory_event.nut
-msgid "]2500[/color] Crowns"
-msgstr "]2500[/color] 克朗"
+msgid "All in a day's work."
+msgstr "All in 一天's work."
 
-# scripts/events/events/dlc8/lindwurm_slayer_event.nut
-msgid "]5000[/color] Crowns"
-msgstr "]5000[/color] 克朗"
-
-# scripts/events/events/dlc8/anatomist_joins_event.nut
-msgid "Yes, we'll take you."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_joins_event.nut
-msgid "Yeah, fark you, too."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
-msgid "]+12[/color] Resolve"
+# scripts/events/events/dlc8/shadow_dissection_event.nut
+msgid "Glad he fights with "
 msgstr ""
 
 # scripts/events/events/dlc8/oathtaker_joins_event.nut
 msgid "Good luck out there."
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
-msgid " is no longer Ailing"
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_reflects_on_webknechts_event.nut
-msgid "Terrified of spiders"
+# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
+msgid "Hey, it's your body."
 msgstr ""
 
 # scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
@@ -604,29 +587,34 @@ msgstr ""
 msgid "Of course you would."
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
-msgid "Hey, it's your body."
+# scripts/events/events/dlc8/anatomist_reflects_on_webknechts_event.nut
+msgid "Terrified of spiders"
 msgstr ""
 
-# scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "Glad he fights with "
+# scripts/events/events/dlc8/anatomist_joins_event.nut
+msgid "Yeah, fark you, too."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_joins_event.nut
+msgid "Yes, we'll take you."
+msgstr ""
+
+# scripts/events/events/dlc8/disowned_noble_vs_deserter_event.nut
+# scripts/events/events/dlc8/brawler_throw_fight_event.nut
+msgid "[/color] Melee Skill"
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
+msgid "]+12[/color] Resolve"
 msgstr ""
 
 # scripts/events/events/dlc8/ruined_priory_event.nut
-msgid "All in a day's work."
-msgstr "All in 一天's work."
+msgid "]2500[/color] Crowns"
+msgstr "]2500[/color] 克朗"
 
-# scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
-# scripts/events/events/dlc8/mutated_gladiator_annoys_others_event.nut
-msgid "]+1[/color] Hitpoints"
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
-# scripts/events/events/dlc8/tree_fort_event.nut
-# scripts/events/events/dlc8/fake_witchhunter_event.nut
-# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
-msgid " suffers light wounds"
-msgstr " 遭受轻伤"
+# scripts/events/events/dlc8/lindwurm_slayer_event.nut
+msgid "]5000[/color] Crowns"
+msgstr "]5000[/color] 克朗"
 
 # scripts/events/events/dlc8/captured_oathbringer_event.nut
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
@@ -636,8 +624,15 @@ msgstr " 遭受轻伤"
 msgid " suffers heavy wounds"
 msgstr " 遭受重伤"
 
-# scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
-msgid "]+5[/color] Hitpoints"
+# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
+# scripts/events/events/dlc8/tree_fort_event.nut
+# scripts/events/events/dlc8/fake_witchhunter_event.nut
+# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
+msgid " suffers light wounds"
+msgstr " 遭受轻伤"
+
+# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
+msgid "I'll burn the letter."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
@@ -648,17 +643,49 @@ msgstr "No, 我不这么认为。"
 msgid "We have to intervene."
 msgstr ""
 
+# scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
+# scripts/events/events/dlc8/mutated_gladiator_annoys_others_event.nut
+msgid "]+1[/color] Hitpoints"
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
+msgid "]+5[/color] Hitpoints"
+msgstr ""
+
 # scripts/events/events/dlc8/oathbreaker_event.nut
 msgid "]9,000[/color] Crowns"
 msgstr "]9,000[/color] 克朗"
 
-# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
-msgid "I'll burn the letter."
+# scripts/events/events/dlc8/eunuch_vs_insecure_event.nut
+msgid " is no longer insecure"
 msgstr ""
 
-# scripts/events/events/dlc8/brawler_throw_fight_event.nut
-# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
-msgid "[/color] Melee Defense"
+# scripts/events/events/dlc8/captured_oathbringer_event.nut
+msgid "Damn Oathbringer scum."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
+msgid "Do it, but be careful."
+msgstr ""
+
+# scripts/events/events/dlc8/mutated_gladiator_annoys_others_event.nut
+msgid "Feels better than ever"
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
+msgid "Had his clubfoot cured"
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
+msgid "Is no longer asthmatic"
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_joins_event.nut
+msgid "Just get in the wagon."
+msgstr ""
+
+# scripts/events/events/dlc8/captured_oathbringer_event.nut
+msgid "Justice has been done."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
@@ -667,45 +694,62 @@ msgstr ""
 msgid "Let's get out of here."
 msgstr "让我们离开这里。"
 
+# scripts/events/events/dlc8/brawler_throw_fight_event.nut
+# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
+msgid "[/color] Melee Defense"
+msgstr ""
+
 # scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
 # scripts/events/events/dlc8/mutated_gladiator_annoys_others_event.nut
 msgid "]+1[/color] Initiative"
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_joins_event.nut
-msgid "Just get in the wagon."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
 msgid "]+6[/color] Initiative"
 msgstr ""
 
-# scripts/events/events/dlc8/captured_oathbringer_event.nut
-msgid "Justice has been done."
+# scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
+msgid " are progressing nicely"
 msgstr ""
 
-# scripts/events/events/dlc8/captured_oathbringer_event.nut
-msgid "Damn Oathbringer scum."
+# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
+msgid " is no longer Asthmatic"
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
-msgid "Had his clubfoot cured"
+msgid "Do it, work your trade."
 msgstr ""
 
-# scripts/events/events/dlc8/mutated_gladiator_annoys_others_event.nut
-msgid "Feels better than ever"
+# scripts/events/events/dlc8/anatomist_dissects_beetles_event.nut
+msgid "Fascinated with beetles"
 msgstr ""
+
+# scripts/events/events/dlc8/anatomist_reflects_on_webknechts_event.nut
+msgid "Fascinated with spiders"
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_vs_dog_event.nut
+msgid "Get that wound cleaned."
+msgstr ""
+
+# scripts/events/events/dlc8/brawler_throw_fight_event.nut
+msgid "He's not taking a fall."
+msgstr ""
+
+# scripts/events/events/dlc8/shadow_dissection_event.nut
+msgid "May they watch over us."
+msgstr ""
+
+# scripts/events/events/dlc8/lindwurm_slayer_event.nut
+msgid "No, thanks, we're good."
+msgstr "不了，谢谢，我们没事。"
+
+# scripts/events/events/dlc8/ruined_priory_event.nut
+msgid "This isn't our problem."
+msgstr "这不是我们的问题。"
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
-msgid "Do it, but be careful."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
-msgid "Is no longer asthmatic"
-msgstr ""
-
-# scripts/events/events/dlc8/eunuch_vs_insecure_event.nut
-msgid " is no longer insecure"
+msgid "Was injured by a madman"
 msgstr ""
 
 # scripts/events/events/dlc8/lindwurm_slayer_event.nut
@@ -720,159 +764,77 @@ msgstr ""
 msgid "]+1[/color] Melee Skill"
 msgstr "]+1[/color] 近战技能"
 
-# scripts/events/events/dlc8/lindwurm_slayer_event.nut
-msgid "No, thanks, we're good."
-msgstr "不了，谢谢，我们没事。"
-
-# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
-msgid "]+75[/color] Experience"
-msgstr ""
-
-# scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
-msgid " are progressing nicely"
-msgstr ""
-
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
 msgid "]+3[/color] Max Fatigue"
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
-msgid "]+8[/color] Melee Skill"
-msgstr "]+8[/color] 近战技能"
-
-# scripts/events/events/dlc8/anatomist_vs_dog_event.nut
-msgid "Get that wound cleaned."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_reflects_on_webknechts_event.nut
-msgid "Fascinated with spiders"
 msgstr ""
 
 # scripts/events/events/dlc8/killer_on_the_run_reminisces_event.nut
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "]+50[/color] Experience"
-msgstr ""
+msgstr "]+50[/color] 经验值"
 
-# scripts/events/events/dlc8/brawler_throw_fight_event.nut
-msgid "He's not taking a fall."
-msgstr ""
+# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
+msgid "]+75[/color] Experience"
+msgstr "]+75[/color] 经验值"
+
+# scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
+msgid "]+8[/color] Melee Skill"
+msgstr "]+8[/color] 近战技能"
 
 # scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
-msgid "Do it, work your trade."
+msgid " is no longer Clubfooted"
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
-msgid "Was injured by a madman"
+# scripts/events/events/dlc8/strange_scribe_event.nut
+msgid "Sure, he can come along."
 msgstr ""
-
-# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
-msgid " is no longer Asthmatic"
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_dissects_beetles_event.nut
-msgid "Fascinated with beetles"
-msgstr ""
-
-# scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "May they watch over us."
-msgstr ""
-
-# scripts/events/events/dlc8/ruined_priory_event.nut
-msgid "This isn't our problem."
-msgstr "这不是我们的问题。"
 
 # scripts/events/events/dlc8/fake_witchhunter_event.nut
 msgid "This doesn't concern us."
 msgstr "这与我们无关。"
 
-# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
-# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
-msgid "]+100[/color] Experience"
-msgstr ""
-
-# scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
-msgid "]+1[/color] Ranged Skill"
-msgstr "]+1[/color] 远程技能"
-
-# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
-msgid "]+150[/color] Experience"
-msgstr ""
+# scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
+msgid "This is not our problem."
+msgstr "这不是我们的问题。"
 
 # scripts/events/events/dlc8/anatomist_joins_event.nut
 msgid "We don't need your help."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
-msgid "]+7[/color] Ranged Skill"
-msgstr "]+7[/color] 远程技能"
-
-# scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "Sure, he can come along."
 msgstr ""
 
 # scripts/events/events/dlc8/brawler_throw_fight_event.nut
 msgid "You need to take a fall."
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
-msgid " is no longer Clubfooted"
-msgstr ""
+# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
+# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
+msgid "]+100[/color] Experience"
+msgstr "]+100[/color] 经验值"
+
+# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
+msgid "]+150[/color] Experience"
+msgstr "]+150[/color] 经验值"
+
+# scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
+msgid "]+1[/color] Ranged Skill"
+msgstr "]+1[/color] 远程技能"
 
 # scripts/events/events/dlc8/black_market_event.nut
 # scripts/events/events/dlc8/something_in_barn_event.nut
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "]+200[/color] Experience"
-msgstr ""
+msgstr "]+200[/color] 经验值"
 
-# scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
-msgid "This is not our problem."
-msgstr "这不是我们的问题。"
-
-# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
-# scripts/events/events/dlc8/ruined_priory_event.nut
-msgid "The company gained renown"
-msgstr "战队获得了声望"
+# scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
+msgid "]+7[/color] Ranged Skill"
+msgstr "]+7[/color] 远程技能"
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
 msgid " acquire an unusual skull"
 msgstr ""
 
-# scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
-# scripts/events/events/dlc8/anatomist_vs_splinter_event.nut
-msgid "]+1[/color] Melee Defense"
-msgstr "]+1[/color] 近战防御"
-
-# scripts/events/events/dlc8/oathtakers_lore_event.nut
-msgid "Speak about Young Anselm."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
-msgid "]+4[/color] Melee Defense"
-msgstr "]+4[/color] 近战防御"
-
-# scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "Witnessed a brutal murder"
-msgstr ""
-
 # scripts/events/events/dlc8/strange_scribe_event.nut
 msgid "Better wise up, wiseacre."
-msgstr ""
-
-# scripts/events/events/dlc8/brawler_throw_fight_event.nut
-msgid "Was told to throw a fight"
-msgstr ""
-
-# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
-msgid "I'll show him the letter."
-msgstr ""
-
-# scripts/events/events/dlc8/oathtakers_skull_event.nut
-msgid "Whatever makes you happy."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
-msgid "Let's get on on the road."
 msgstr ""
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
@@ -880,24 +842,70 @@ msgid "Glad he fights alongside "
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
-msgid "Good luck to you as well."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "Good luck out there, man."
 msgstr ""
 
-# scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
-msgid "]+1[/color] Ranged Defense"
-msgstr "]+1[/color] 远程防御"
-
-# scripts/events/events/dlc8/disowned_noble_vs_deserter_event.nut
-msgid "Reminisced about old times"
+# scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
+msgid "Good luck to you as well."
 msgstr ""
 
+# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
+msgid "I'll show him the letter."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
+msgid "Let's get on on the road."
+msgstr ""
+
+# scripts/events/events/dlc8/oathtakers_lore_event.nut
+msgid "Speak about Young Anselm."
+msgstr ""
+
+# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
+# scripts/events/events/dlc8/ruined_priory_event.nut
+msgid "The company gained renown"
+msgstr "战队获得了声望"
+
+# scripts/events/events/dlc8/brawler_throw_fight_event.nut
+msgid "Was told to throw a fight"
+msgstr ""
+
+# scripts/events/events/dlc8/oathtakers_skull_event.nut
+msgid "Whatever makes you happy."
+msgstr ""
+
+# scripts/events/events/dlc8/strange_scribe_event.nut
+msgid "Witnessed a brutal murder"
+msgstr ""
+
+# scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
+# scripts/events/events/dlc8/anatomist_vs_splinter_event.nut
+msgid "]+1[/color] Melee Defense"
+msgstr "]+1[/color] 近战防御"
+
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
-msgid "]+4[/color] Ranged Defense"
-msgstr "]+4[/color] 远程防御"
+msgid "]+4[/color] Melee Defense"
+msgstr "]+4[/color] 近战防御"
+
+# scripts/events/events/dlc8/apprentice_vs_anatomist_event.nut
+msgid " gains Training Experience"
+msgstr " gains Training 经验值"
+
+# scripts/events/events/dlc8/incense_trade_event.nut
+msgid "A man knows what he loves."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_dead_knight_event.nut
+msgid "At least we got the armor."
+msgstr ""
+
+# scripts/events/events/dlc8/gladiator_origin_vs_oathtaker_event.nut
+msgid "It's a horror show, truly."
+msgstr ""
+
+# scripts/events/events/dlc8/black_market_event.nut
+msgid "Look at 'em fight over it."
+msgstr ""
 
 # scripts/events/events/dlc8/brawler_throw_fight_event.nut
 msgid "Lost a fighting tournament"
@@ -907,66 +915,32 @@ msgstr ""
 msgid "No, the risk is too great."
 msgstr ""
 
-# scripts/events/events/dlc8/black_market_event.nut
-msgid "Look at 'em fight over it."
-msgstr ""
-
-# scripts/events/events/dlc8/incense_trade_event.nut
-msgid "A man knows what he loves."
+# scripts/events/events/dlc8/disowned_noble_vs_deserter_event.nut
+msgid "Reminisced about old times"
 msgstr ""
 
 # scripts/events/events/dlc8/missing_kids_event.nut
 msgid "We aren't paying anything."
 msgstr ""
 
-# scripts/events/events/dlc8/apprentice_vs_anatomist_event.nut
-msgid " gains Training Experience"
-msgstr " 获得 Training 经验"
-
-# scripts/events/events/dlc8/gladiator_origin_vs_oathtaker_event.nut
-msgid "It's a horror show, truly."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_dead_knight_event.nut
-msgid "At least we got the armor."
-msgstr ""
-
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "We don't need anyone else."
 msgstr ""
 
-# scripts/events/events/dlc8/tree_fort_event.nut
-# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
-# scripts/events/events/dlc8/fake_witchhunter_event.nut
-msgid "Let's get back on the road."
-msgstr "让我们回到路上."
+# scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
+msgid "]+1[/color] Ranged Defense"
+msgstr "]+1[/color] 远程防御"
 
-# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
-msgid "No digging up graves today."
-msgstr ""
-
-# scripts/events/events/dlc8/captured_oathbringer_event.nut
-msgid "We'll find the jawbone yet."
-msgstr ""
+# scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
+msgid "]+4[/color] Ranged Defense"
+msgstr "]+4[/color] 远程防御"
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 msgid "Alright, you little mutt..."
 msgstr ""
 
-# scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "This is far too suspicious."
-msgstr ""
-
-# scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "It is what it allegedly is."
-msgstr ""
-
 # scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
 msgid "Experimented on by a madman"
-msgstr ""
-
-# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
-msgid "You're alright, %disowned%."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
@@ -977,8 +951,62 @@ msgstr ""
 msgid "It gets old fast, trust me."
 msgstr ""
 
+# scripts/events/events/dlc8/strange_scribe_event.nut
+msgid "It is what it allegedly is."
+msgstr ""
+
+# scripts/events/events/dlc8/tree_fort_event.nut
+# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
+# scripts/events/events/dlc8/fake_witchhunter_event.nut
+msgid "Let's get back on the road."
+msgstr "让我们回到路上."
+
 # scripts/events/events/dlc8/missing_kids_event.nut
 msgid "Let's just get out of here."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
+msgid "No digging up graves today."
+msgstr ""
+
+# scripts/events/events/dlc8/strange_scribe_event.nut
+msgid "This is far too suspicious."
+msgstr ""
+
+# scripts/events/events/dlc8/captured_oathbringer_event.nut
+msgid "We'll find the jawbone yet."
+msgstr ""
+
+# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
+msgid "You're alright, %disowned%."
+msgstr ""
+
+# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
+msgid " is now a Regent in Absentia"
+msgstr " 现在是一个 Regent in Absentia"
+
+# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
+msgid "Alright, let's go dig it up."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_vs_historian_event.nut
+msgid "Getting bullied by eggheads."
+msgstr ""
+
+# scripts/events/events/dlc8/oathtaker_happy_with_company_event.nut
+msgid "Glad someone appreciates it."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
+msgid "I am now breathing manually."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
+msgid "Just take it easy for a bit."
+msgstr ""
+
+# scripts/events/events/dlc8/killer_on_the_run_reminisces_event.nut
+msgid "Reminisced about an old kill"
 msgstr ""
 
 # scripts/events/events/dlc8/tree_fort_event.nut
@@ -987,108 +1015,84 @@ msgstr ""
 msgid "That could have gone better."
 msgstr ""
 
-# scripts/events/events/dlc8/tree_fort_event.nut
-msgid "We don't have time for this."
-msgstr "我们没有时间做这个。"
-
-# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
-msgid "Alright, let's go dig it up."
-msgstr ""
-
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "The shit they get me into..."
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_vs_historian_event.nut
-msgid "Getting bullied by eggheads."
-msgstr ""
+# scripts/events/events/dlc8/tree_fort_event.nut
+msgid "We don't have time for this."
+msgstr "我们没有时间做这个。"
 
-# scripts/events/events/dlc8/killer_on_the_run_reminisces_event.nut
-msgid "Reminisced about an old kill"
-msgstr ""
-
-# scripts/events/events/dlc8/oathtaker_happy_with_company_event.nut
-msgid "Glad someone appreciates it."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
-msgid "Just take it easy for a bit."
-msgstr ""
-
-# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
-msgid " is now a Regent in Absentia"
-msgstr " 现在是一个 Regent in Absentia"
-
-# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
-msgid "I am now breathing manually."
+# scripts/events/events/dlc8/strange_scribe_event.nut
+msgid "Get it together, %anatomist%."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "Gross. Let's get out of here."
 msgstr "恶心。 让我们离开这里。"
 
-# scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "Get it together, %anatomist%."
-msgstr ""
-
 # scripts/events/events/dlc8/oathtaker_mistaken_identity_event.nut
 msgid "One of your men beat up a kid"
-msgstr ""
-
-# scripts/events/events/dlc8/killer_on_the_run_reminisces_event.nut
-msgid "The lot I cast my dice with..."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_bummed_at_mutations_event.nut
-msgid "Feel better soon, %anatomist%."
 msgstr ""
 
 # scripts/events/events/dlc8/missing_kids_event.nut
 msgid "Alright, we'll pay the 'fine.'"
 msgstr ""
 
-# scripts/events/events/dlc8/ruined_priory_event.nut
-msgid "Helped repair a damaged priory"
-msgstr ""
-
-# scripts/events/events/dlc8/ruined_priory_event.nut
-msgid "]40[/color] Tools and Supplies"
-msgstr ""
-
-# scripts/events/events/dlc8/something_in_barn_event.nut
-msgid "We're running a business here."
+# scripts/events/events/dlc8/anatomist_bummed_at_mutations_event.nut
+msgid "Feel better soon, %anatomist%."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "Got to study an unusual blight"
 msgstr ""
 
-# scripts/events/events/dlc8/apprentice_vs_oathtaker_event.nut
-msgid "Not that I want that to happen."
+# scripts/events/events/dlc8/ruined_priory_event.nut
+msgid "Helped repair a damaged priory"
+msgstr ""
+
+# scripts/events/events/dlc8/killer_on_the_run_reminisces_event.nut
+msgid "The lot I cast my dice with..."
+msgstr ""
+
+# scripts/events/events/dlc8/something_in_barn_event.nut
+msgid "We're running a business here."
+msgstr ""
+
+# scripts/events/events/dlc8/ruined_priory_event.nut
+msgid "]40[/color] Tools and Supplies"
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "Got to examine a hero's cadaver"
 msgstr ""
 
-# scripts/events/events/dlc8/captured_oathbringer_event.nut
-msgid "Tortured an Oathbringer heretic"
+# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
+msgid "Had his medical advice rejected"
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid "No more experiments, anatomist."
 msgstr ""
 
+# scripts/events/events/dlc8/apprentice_vs_oathtaker_event.nut
+msgid "Not that I want that to happen."
+msgstr ""
+
 # scripts/events/events/dlc8/black_market_event.nut
 msgid "Remember, bend with your knees."
+msgstr ""
+
+# scripts/events/events/dlc8/captured_oathbringer_event.nut
+msgid "Tortured an Oathbringer heretic"
 msgstr ""
 
 # scripts/events/events/dlc8/oathtaker_mistaken_identity_event.nut
 msgid "Was mistaken for an Oathbringer"
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
-msgid "Had his medical advice rejected"
+# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
+msgid "I think you should stay with us."
 msgstr ""
 
 # scripts/events/events/dlc8/captured_oathbringer_event.nut
@@ -1096,19 +1100,27 @@ msgid "Let a captive Oathbringer escape"
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
-msgid "Let's just get on the road then."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid "Let's get back on the road then."
 msgstr "让我们回到路上 then."
 
-# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
-msgid "I think you should stay with us."
+# scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
+msgid "Let's just get on the road then."
+msgstr ""
+
+# scripts/events/events/dlc8/something_in_barn_event.nut
+msgid "Accidentally killed someone's dog"
+msgstr ""
+
+# scripts/events/events/dlc8/brawler_throw_fight_event.nut
+msgid "Handily won a fighting tournament"
 msgstr ""
 
 # scripts/events/events/dlc8/oathtakers_skull_cracked_event.nut
 msgid "I should have been an undertaker."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_vs_historian_event.nut
+msgid "I think the historian is correct."
 msgstr ""
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
@@ -1120,148 +1132,128 @@ msgstr ""
 msgid "Was denied a research opportunity"
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_vs_historian_event.nut
-msgid "I think the historian is correct."
-msgstr ""
-
-# scripts/events/events/dlc8/brawler_throw_fight_event.nut
-msgid "Handily won a fighting tournament"
-msgstr ""
-
 # scripts/events/events/dlc8/black_market_event.nut
 msgid "We can't afford such indulgences."
-msgstr ""
-
-# scripts/events/events/dlc8/something_in_barn_event.nut
-msgid "Accidentally killed someone's dog"
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
-msgid "Acquired an unusual skull to study"
-msgstr ""
-
-# scripts/events/events/dlc8/oathtakers_lore_event.nut
-msgid "Speak about those pieces of shite."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "%graver%, what are you doing here?"
 msgstr ""
 
+# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
+msgid "Acquired an unusual skull to study"
+msgstr ""
+
 # scripts/events/events/dlc8/mutated_gladiator_annoys_others_event.nut
 msgid "At least he's feeling energetic..."
 msgstr "在 least he's feeling energetic…"
 
-# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
-msgid "No, I won't risk his life on this."
-msgstr ""
-
-# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
-msgid "You should go home to your family."
+# scripts/events/events/dlc8/anatomist_demonology_book_event.nut
+msgid "Can't believe everything you read."
 msgstr ""
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
 msgid "It sorta looked like a worm to me."
 msgstr ""
 
+# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
+msgid "No, I won't risk his life on this."
+msgstr ""
+
+# scripts/events/events/dlc8/oathtakers_lore_event.nut
+msgid "Speak about those pieces of shite."
+msgstr ""
+
 # scripts/events/events/dlc8/ruined_priory_event.nut
 msgid "You refused to help a monk in need"
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_demonology_book_event.nut
-msgid "Can't believe everything you read."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
-msgid "No, this doesn't sound safe at all."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
-msgid "Walk walk, brother, it's your life."
-msgstr ""
-
-# scripts/events/events/dlc8/ruined_priory_event.nut
-msgid "The company helped restore a priory"
+# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
+msgid "You should go home to your family."
 msgstr ""
 
 # scripts/events/events/dlc8/something_in_barn_event.nut
 msgid "Just keep it away from %anatomist%."
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
-msgid "Your company was caught graverobbing"
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
-msgid "Put his grave-exhuming skills to use"
-msgstr ""
-
-# scripts/events/events/dlc8/captured_oathbringer_event.nut
-msgid "I should be more careful what I say."
-msgstr ""
-
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
-msgid "Go and and heal him of his ailments."
+msgid "No, this doesn't sound safe at all."
 msgstr ""
 
-# scripts/events/events/dlc8/brawler_throw_fight_event.nut
-msgid "What? There won't be a fight at all!"
-msgstr "什么？ There won't be a fight at all!"
+# scripts/events/events/dlc8/ruined_priory_event.nut
+msgid "The company helped restore a priory"
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
+msgid "Walk walk, brother, it's your life."
+msgstr ""
 
 # scripts/events/events/dlc8/fake_witchhunter_event.nut
 msgid "%witchhunter%, do you know this man?"
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_ok_with_mutations_event.nut
-msgid "Has come to terms with his mutations"
-msgstr ""
-
-# scripts/events/events/dlc8/oathtaker_mistaken_identity_event.nut
-msgid "It's pretty much what it looks like."
 msgstr ""
 
 # scripts/events/events/dlc8/incense_trade_event.nut
 msgid "Can't escape these strange bastards."
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
-msgid "It's not worth upsetting the locals."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
-msgid "His experimental surgery didn't work"
-msgstr ""
-
-# scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "Strange shadows for a strange night."
+# scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
+msgid "Go and and heal him of his ailments."
 msgstr ""
 
 # scripts/events/events/dlc8/something_in_barn_event.nut
 msgid "Got to study an interesting specimen"
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
-msgid "What's our thief %thief% have to say?"
+# scripts/events/events/dlc8/anatomist_ok_with_mutations_event.nut
+msgid "Has come to terms with his mutations"
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
-msgid "Successfully stole from the peasantry"
+# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
+msgid "His experimental surgery didn't work"
 msgstr ""
 
-# scripts/events/events/dlc8/oathtakers_all_oaths_complete_event.nut
-msgid "Completed all of Young Anselm's oaths"
+# scripts/events/events/dlc8/captured_oathbringer_event.nut
+msgid "I should be more careful what I say."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
+msgid "It's not worth upsetting the locals."
+msgstr ""
+
+# scripts/events/events/dlc8/oathtaker_mistaken_identity_event.nut
+msgid "It's pretty much what it looks like."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
+msgid "Put his grave-exhuming skills to use"
+msgstr ""
+
+# scripts/events/events/dlc8/shadow_dissection_event.nut
+msgid "Strange shadows for a strange night."
+msgstr ""
+
+# scripts/events/events/dlc8/brawler_throw_fight_event.nut
+msgid "What? There won't be a fight at all!"
+msgstr "什么？ There won't be a fight at all!"
+
+# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
+msgid "Your company was caught graverobbing"
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid "About to advance my fist into your..."
 msgstr ""
 
-# scripts/events/events/dlc8/brawler_throw_fight_event.nut
-msgid "Was allowed to fight on his own terms"
+# scripts/events/events/dlc8/oathtakers_all_oaths_complete_event.nut
+msgid "Completed all of Young Anselm's oaths"
 msgstr ""
 
 # scripts/events/events/dlc8/incense_trade_event.nut
 msgid "Damn this incense is some good stuff."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
+msgid "In that case we're going to help him."
 msgstr ""
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
@@ -1272,32 +1264,20 @@ msgstr ""
 msgid "Put his monster slaying skills to use"
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
-msgid "In that case we're going to help him."
+# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
+msgid "Successfully stole from the peasantry"
 msgstr ""
 
-# scripts/events/events/dlc8/oathtakers_lore_event.nut
-msgid "We've said everything there is to say."
+# scripts/events/events/dlc8/brawler_throw_fight_event.nut
+msgid "Was allowed to fight on his own terms"
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
-msgid "Was unable to exhume an unusual corpse"
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
-msgid "Yeah yeah, go cry into your textbooks."
-msgstr ""
-
-# scripts/events/events/dlc8/oathbreaker_event.nut
-msgid "We'll take the armor for 9,000 crowns."
+# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
+msgid "What's our thief %thief% have to say?"
 msgstr ""
 
 # scripts/events/events/dlc8/black_market_event.nut
 msgid "Acquired a promising research specimen"
-msgstr ""
-
-# scripts/events/events/dlc8/missing_kids_event.nut
-msgid "Well at least someone is living it up."
 msgstr ""
 
 # scripts/events/events/dlc8/gladiator_origin_vs_oathtaker_event.nut
@@ -1308,32 +1288,48 @@ msgstr ""
 msgid "Next time I'll listen to my intuition."
 msgstr ""
 
-# scripts/events/events/dlc8/lindwurm_slayer_event.nut
-msgid "Welcome to the company, %dragonslayer%."
-msgstr ""
-
-# scripts/events/events/dlc8/oathtakers_skull_cracked_event.nut
-msgid "Had his faith in Young Anselm redoubled"
-msgstr ""
-
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
-msgid "Got to examine a hero's unusual cadaver"
+msgid "Was unable to exhume an unusual corpse"
 msgstr ""
 
-# scripts/events/events/dlc8/captured_oathbringer_event.nut
-msgid "Pleased you slew an Oathbringer heretic"
+# scripts/events/events/dlc8/oathbreaker_event.nut
+msgid "We'll take the armor for 9,000 crowns."
+msgstr ""
+
+# scripts/events/events/dlc8/oathtakers_lore_event.nut
+msgid "We've said everything there is to say."
+msgstr ""
+
+# scripts/events/events/dlc8/missing_kids_event.nut
+msgid "Well at least someone is living it up."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
+msgid "Yeah yeah, go cry into your textbooks."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid " from sullying the company's reputation"
 msgstr ""
 
-# scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
-msgid "A strangely terse retort, %anatomist%..."
+# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
+msgid "Got to examine a hero's unusual cadaver"
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
-msgid "Recovered from the blight afflicting him"
+# scripts/events/events/dlc8/oathtakers_skull_cracked_event.nut
+msgid "Had his faith in Young Anselm redoubled"
+msgstr ""
+
+# scripts/events/events/dlc8/captured_oathbringer_event.nut
+msgid "Pleased you slew an Oathbringer heretic"
+msgstr ""
+
+# scripts/events/events/dlc8/lindwurm_slayer_event.nut
+msgid "Welcome to the company, %dragonslayer%."
+msgstr ""
+
+# scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
+msgid "A strangely terse retort, %anatomist%..."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
@@ -1344,52 +1340,68 @@ msgstr ""
 msgid "Glad you're feeling better, %anatomist%."
 msgstr ""
 
+# scripts/events/events/dlc8/shadow_dissection_event.nut
+msgid "His shadows traverses with great danger."
+msgstr ""
+
 # scripts/events/events/dlc8/apprentice_vs_anatomist_event.nut
 msgid "Just don't spend too much time together."
 msgstr ""
 
-# scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "His shadows traverses with great danger."
+# scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
+msgid "Recovered from the blight afflicting him"
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "Was denied the chance to help a sick man"
 msgstr ""
 
-# scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "We have no need of yet another charlatan."
-msgstr ""
-
-# scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "Learned how to better deal with the laity"
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_reflects_on_webknechts_event.nut
-msgid "Stop spreading the heebiejeebies, dammit."
-msgstr ""
-
-# scripts/events/events/dlc8/brawler_throw_fight_event.nut
-msgid "Got badly beaten in a fighting tournament"
+# scripts/events/events/dlc8/shadow_dissection_event.nut
+msgid "%cultist% the cultist is murmuring again."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "%monk%, can you talk some sense into him?"
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
-msgid "When just breathing makes you a dull boy."
-msgstr ""
-
 # scripts/events/events/dlc8/shadow_dissection_event.nut
 msgid "At least the anatomist took it in stride."
 msgstr ""
 
-# scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "%cultist% the cultist is murmuring again."
+# scripts/events/events/dlc8/brawler_throw_fight_event.nut
+msgid "Got badly beaten in a fighting tournament"
+msgstr ""
+
+# scripts/events/events/dlc8/strange_scribe_event.nut
+msgid "Learned how to better deal with the laity"
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid "Saw the decaying remains of an old friend"
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_reflects_on_webknechts_event.nut
+msgid "Stop spreading the heebiejeebies, dammit."
+msgstr ""
+
+# scripts/events/events/dlc8/strange_scribe_event.nut
+msgid "We have no need of yet another charlatan."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
+msgid "When just breathing makes you a dull boy."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_dead_knight_event.nut
+msgid "Got to study an interesting wound up close"
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_dissects_beetles_event.nut
+msgid "I need to start sleeping with a helmet on."
+msgstr ""
+
+# scripts/events/events/dlc8/oathtaker_happy_with_company_event.nut
+msgid "Is happy about the company's moral compass"
 msgstr ""
 
 # scripts/events/events/dlc8/disowned_noble_vs_deserter_event.nut
@@ -1400,18 +1412,6 @@ msgstr ""
 msgid "The anatomists probably know more on this."
 msgstr ""
 
-# scripts/events/events/dlc8/oathtaker_happy_with_company_event.nut
-msgid "Is happy about the company's moral compass"
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_dissects_beetles_event.nut
-msgid "I need to start sleeping with a helmet on."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_dead_knight_event.nut
-msgid "Got to study an interesting wound up close"
-msgstr ""
-
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "Was denied the study of an unusual illness"
 msgstr ""
@@ -1420,32 +1420,28 @@ msgstr ""
 msgid "Wasted time reading a sham demonology book"
 msgstr ""
 
-# scripts/events/events/dlc8/lindwurm_slayer_event.nut
-msgid "Very well, I'll pay your %price% crown fee."
+# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
+msgid "Gave medical advice to a receptive audience"
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_bummed_at_mutations_event.nut
 msgid "Upset at how his mutations have changed him"
 msgstr ""
 
-# scripts/events/events/dlc8/oathtakers_skull_event.nut
-msgid "Young Anselm renewed his faith in the oaths"
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
-msgid "Gave medical advice to a receptive audience"
+# scripts/events/events/dlc8/lindwurm_slayer_event.nut
+msgid "Very well, I'll pay your %price% crown fee."
 msgstr ""
 
 # scripts/events/events/dlc8/ruined_priory_event.nut
 msgid "We have tools. I think 40 should be enough?"
 msgstr ""
 
-# scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "Does %minstrel% the minstrel know something?"
+# scripts/events/events/dlc8/oathtakers_skull_event.nut
+msgid "Young Anselm renewed his faith in the oaths"
 msgstr ""
 
-# scripts/events/events/dlc8/bad_reputation_event.nut
-msgid "Is upset about the company's evil reputation"
+# scripts/events/events/dlc8/strange_scribe_event.nut
+msgid "Does %minstrel% the minstrel know something?"
 msgstr ""
 
 # scripts/events/events/dlc8/something_in_barn_event.nut
@@ -1456,24 +1452,8 @@ msgstr ""
 msgid "Got to examine the corpse of a heroic knight"
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
-msgid "That skull looks like our wildman, %wildman%."
-msgstr ""
-
-# scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
-msgid "Was accused of taking artificial enhancements"
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
-msgid "Glad you're feeling better, %militiacaptain%."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_vs_splinter_event.nut
-msgid "I best not see you using that as a toothpick."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_vs_dog_event.nut
-msgid "Was denied the opportunity to study a wardog."
+# scripts/events/events/dlc8/bad_reputation_event.nut
+msgid "Is upset about the company's evil reputation"
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_reflects_on_nobles_event.nut
@@ -1484,20 +1464,32 @@ msgstr ""
 msgid "Felt intellectually superior to the other men"
 msgstr ""
 
+# scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
+msgid "Glad you're feeling better, %militiacaptain%."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_vs_splinter_event.nut
+msgid "I best not see you using that as a toothpick."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_wants_skull_event.nut
+msgid "That skull looks like our wildman, %wildman%."
+msgstr ""
+
+# scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
+msgid "Was accused of taking artificial enhancements"
+msgstr ""
+
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "Was almost buried alive for bearing a disease"
 msgstr ""
 
-# scripts/events/events/dlc8/captured_oathbringer_event.nut
-msgid "You almost let a captive Oathbringer roam free"
+# scripts/events/events/dlc8/anatomist_vs_dog_event.nut
+msgid "Was denied the opportunity to study a wardog."
 msgstr ""
 
 # scripts/events/events/dlc8/captured_oathbringer_event.nut
 msgid "Disliked that you slew a captive in cold blood"
-msgstr ""
-
-# scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "Wait, where is our resident murderer %killer%?"
 msgstr ""
 
 # scripts/events/events/dlc8/killer_on_the_run_reminisces_event.nut
@@ -1508,32 +1500,40 @@ msgstr ""
 msgid "I've had quite enough betting for now, myself."
 msgstr ""
 
-# scripts/events/events/dlc8/oathbreaker_event.nut
-msgid "Young Anselm has other plans for you. Join us!"
+# scripts/events/events/dlc8/strange_scribe_event.nut
+msgid "Wait, where is our resident murderer %killer%?"
 msgstr ""
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
 msgid "Would somebody please keep an eye on that man?"
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_old_patient_event.nut
-msgid "An old patient thanked him for his medical help"
+# scripts/events/events/dlc8/captured_oathbringer_event.nut
+msgid "You almost let a captive Oathbringer roam free"
 msgstr ""
 
-# scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "The minstrel's shadow gets more action than me."
+# scripts/events/events/dlc8/oathbreaker_event.nut
+msgid "Young Anselm has other plans for you. Join us!"
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_old_patient_event.nut
+msgid "An old patient thanked him for his medical help"
 msgstr ""
 
 # scripts/events/events/dlc8/ruined_priory_event.nut
 msgid "The company had its kindness taken advantage of"
 msgstr ""
 
-# scripts/events/events/dlc8/captured_oathbringer_event.nut
-msgid "Is horrified that you ordered a captive tortured"
+# scripts/events/events/dlc8/shadow_dissection_event.nut
+msgid "The minstrel's shadow gets more action than me."
 msgstr ""
 
 # scripts/events/events/dlc8/black_market_event.nut
 msgid "I'll take the big heart for...550 crowns, is it?"
+msgstr ""
+
+# scripts/events/events/dlc8/captured_oathbringer_event.nut
+msgid "Is horrified that you ordered a captive tortured"
 msgstr ""
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
@@ -1552,32 +1552,32 @@ msgstr ""
 msgid "We have gold. Could you rebuild with 2500 crowns?"
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
-msgid "Was misled about the peculiarities of said cadaver"
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_old_patient_event.nut
-msgid "Saw living proof that his past work was successful"
-msgstr ""
-
-# scripts/events/events/dlc8/black_market_event.nut
-msgid "Let's get that brain-looking thing for 100 crowns."
-msgstr ""
-
-# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
-msgid "Learned something about dealing with the peasantry"
+# scripts/events/events/dlc8/something_in_barn_event.nut
+msgid "%beastslayer% the beast slayer should handle this."
 msgstr ""
 
 # scripts/events/events/dlc8/eunuch_vs_insecure_event.nut
 msgid "Don't let his insecurity rub off on you, %eunuch%."
 msgstr ""
 
+# scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
+msgid "Learned something about dealing with the peasantry"
+msgstr ""
+
+# scripts/events/events/dlc8/black_market_event.nut
+msgid "Let's get that brain-looking thing for 100 crowns."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_old_patient_event.nut
+msgid "Saw living proof that his past work was successful"
+msgstr ""
+
 # scripts/events/events/dlc8/ruined_priory_event.nut
 msgid "The company was duped out of crowns by a charlatan"
 msgstr ""
 
-# scripts/events/events/dlc8/something_in_barn_event.nut
-msgid "%beastslayer% the beast slayer should handle this."
+# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
+msgid "Was misled about the peculiarities of said cadaver"
 msgstr ""
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
@@ -1592,12 +1592,12 @@ msgstr ""
 msgid "Do you have something to say, %cultist% the Cultist?"
 msgstr ""
 
-# scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "Naturally, %minstrel% the minstrel is ready to talk."
-msgstr ""
-
 # scripts/events/events/dlc8/anatomist_creeps_out_locals_event.nut
 msgid "If only he was this happy about mercenary work, too."
+msgstr ""
+
+# scripts/events/events/dlc8/shadow_dissection_event.nut
+msgid "Naturally, %minstrel% the minstrel is ready to talk."
 msgstr ""
 
 # scripts/events/events/dlc8/incense_trade_event.nut
@@ -2403,21 +2403,6 @@ msgstr ""
 "suffer some delusions for a while, but ultimately he will still be a "
 "breathing animal-excuse me, a breathing man.%SPEECH_OFF%}"
 
-# scripts/events/events/dlc8/oathtakers_lore_event.nut
-msgid ""
-"[img]gfx/ui/events/event_97.png[/img]{%townname%'s people are happy to see "
-"the %companyname%. It is an unusual reception for a band of mercenaries, but"
-" it seems the Oathtaking aspects of your business are held in high esteem "
-"with the laity.%SPEECH_ON%It's about time someone brought honor and pride "
-"back to these lands.%SPEECH_OFF%One peasant says. Women adorn you with "
-"flowers and other good graces. As you bring the wagon to a stop, a throng of"
-" children come up wanting to touch Young Anselm's skull.%SPEECH_ON%Will it "
-"give us strength? Or will it make me sick?%SPEECH_OFF%Another kid comes up "
-"and elbows him out of the way.%SPEECH_ON%Just have 'im tell us what they do "
-"and are already! Oaths, this here skull, and the other day we heard about "
-"Oathbringers, so what makes ye so different?%SPEECH_OFF%}"
-msgstr ""
-
 # scripts/events/events/dlc8/brawler_throw_fight_event.nut
 msgid ""
 "[img]gfx/ui/events/event_06.png[/img]{You tell the gambling brokers that "
@@ -2431,6 +2416,21 @@ msgid ""
 "ground unconscious. The crowd goes wild, at least those who didn't just lose"
 " a pile of crowns. One of the bettors walks over to you as he counts his "
 "money. He grins.%SPEECH_ON%Best go fetch yer boy.%SPEECH_OFF%}"
+msgstr ""
+
+# scripts/events/events/dlc8/oathtakers_lore_event.nut
+msgid ""
+"[img]gfx/ui/events/event_97.png[/img]{%townname%'s people are happy to see "
+"the %companyname%. It is an unusual reception for a band of mercenaries, but"
+" it seems the Oathtaking aspects of your business are held in high esteem "
+"with the laity.%SPEECH_ON%It's about time someone brought honor and pride "
+"back to these lands.%SPEECH_OFF%One peasant says. Women adorn you with "
+"flowers and other good graces. As you bring the wagon to a stop, a throng of"
+" children come up wanting to touch Young Anselm's skull.%SPEECH_ON%Will it "
+"give us strength? Or will it make me sick?%SPEECH_OFF%Another kid comes up "
+"and elbows him out of the way.%SPEECH_ON%Just have 'im tell us what they do "
+"and are already! Oaths, this here skull, and the other day we heard about "
+"Oathbringers, so what makes ye so different?%SPEECH_OFF%}"
 msgstr ""
 
 # scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
@@ -4210,13 +4210,6 @@ msgstr ""
 " his shirt is clawed apart and there are little darts or arrows sticking out"
 " of his back - and those distant shouts are getting louder.}"
 
-# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
-msgid ""
-"[img]gfx/ui/events/event_46.png[/img]{After much plying, the anatomists break down your defenses and you agree to go fetch the local hero's dead, cold, and allegedly heroically shaped body from the grave. There's much stealth and sneaking done in the matter as you traipse through the graveyard like a bunch of kids up to absolutely no good, which you might as well be. The hero's grave is easy enough to spot, as it is adorned with flowers and other niceties.\n"
-"\n"
-"%anatomist% kicks the flowers out of the way and shovels off a kid's toy and hurls it across the graveyard. He quickly stakes his shovel and the digging starts. It doesn't take long, the soil so recently disturbed. A few items lie in the grave, and alongside them is the body itself: just an ordinary man with a pale visage. It is jerked up and out of the grave, the anatomists throwing it end over end like a piece of plywood and as it lands in the grass they chase after it like gremlins, slicing and dicing and digging into it with a disturbing fervor. When they're finished, they roll the body back into the grave, its shape more ragged and shredded than before. They complain that you were possibly correct, that a hero's body has no unusual aspects whatsoever. But rather than agree with the likes of an uneducated sellsword, they instead conclude that perhaps he wasn't a hero at all, and that their search will have to continue. You're just glad you didn't get caught.}"
-msgstr ""
-
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid ""
 "[img]gfx/ui/events/event_18.png[/img]{In the most reluctant rescue ever, you"
@@ -4260,6 +4253,13 @@ msgstr ""
 "briefly consider putting him out of his misery, but decide that now he's "
 "free of the grave he may himself decide how he wishes to return to it. You "
 "do, however, take his money.}"
+
+# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
+msgid ""
+"[img]gfx/ui/events/event_46.png[/img]{After much plying, the anatomists break down your defenses and you agree to go fetch the local hero's dead, cold, and allegedly heroically shaped body from the grave. There's much stealth and sneaking done in the matter as you traipse through the graveyard like a bunch of kids up to absolutely no good, which you might as well be. The hero's grave is easy enough to spot, as it is adorned with flowers and other niceties.\n"
+"\n"
+"%anatomist% kicks the flowers out of the way and shovels off a kid's toy and hurls it across the graveyard. He quickly stakes his shovel and the digging starts. It doesn't take long, the soil so recently disturbed. A few items lie in the grave, and alongside them is the body itself: just an ordinary man with a pale visage. It is jerked up and out of the grave, the anatomists throwing it end over end like a piece of plywood and as it lands in the grass they chase after it like gremlins, slicing and dicing and digging into it with a disturbing fervor. When they're finished, they roll the body back into the grave, its shape more ragged and shredded than before. They complain that you were possibly correct, that a hero's body has no unusual aspects whatsoever. But rather than agree with the likes of an uneducated sellsword, they instead conclude that perhaps he wasn't a hero at all, and that their search will have to continue. You're just glad you didn't get caught.}"
+msgstr ""
 
 # scripts/events/events/dlc8/missing_kids_event.nut
 msgid ""

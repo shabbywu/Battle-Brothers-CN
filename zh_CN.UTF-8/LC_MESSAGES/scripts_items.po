@@ -39,11 +39,11 @@ msgid "Can be used to craft items"
 msgstr "可用于制作物品"
 
 # scripts/items/item_container.nut
-msgid " to bag because no empty slot was found"
+msgid " from bag, but is placed somewhere else"
 msgstr ""
 
 # scripts/items/item_container.nut
-msgid " from bag, but is placed somewhere else"
+msgid " to bag because no empty slot was found"
 msgstr ""
 
 # scripts/items/item_container.nut
@@ -70,10 +70,10 @@ msgstr ""
 msgid "Worth [img]gfx/ui/tooltips/money.png[/img][b]"
 msgstr ""
 
-# scripts/items/item_container.nut
-msgid "Unable to swap, items don't use the same slot!"
-msgstr ""
-
 # scripts/items/item.nut
 msgid "Attempted to drop item, but no tile specified!"
+msgstr ""
+
+# scripts/items/item_container.nut
+msgid "Unable to swap, items don't use the same slot!"
 msgstr ""

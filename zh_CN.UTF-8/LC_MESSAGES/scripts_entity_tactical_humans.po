@@ -2,34 +2,6 @@
 msgid ""
 msgstr ""
 
-# scripts/entity/tactical/humans/noble.nut
-msgid "noble"
-msgstr ""
-
-# scripts/entity/tactical/humans/slave.nut
-msgid "slave"
-msgstr ""
-
-# scripts/entity/tactical/humans/gunner.nut
-msgid "gunner"
-msgstr ""
-
-# scripts/entity/tactical/humans/knight.nut
-msgid "knight"
-msgstr ""
-
-# scripts/entity/tactical/humans/vizier.nut
-msgid "vizier"
-msgstr ""
-
-# scripts/entity/tactical/humans/cultist.nut
-msgid "cultist"
-msgstr ""
-
-# scripts/entity/tactical/humans/officer.nut
-msgid "officer"
-msgstr ""
-
 # scripts/entity/tactical/humans/barbarian_madman.nut
 msgid "ffffff00"
 msgstr ""
@@ -38,82 +10,46 @@ msgstr ""
 msgid "ffffff2f"
 msgstr ""
 
-# scripts/entity/tactical/humans/councilman.nut
-msgid "the Wise"
-msgstr "智者"
-
-# scripts/entity/tactical/humans/assassin.nut
-msgid "assassin"
-msgstr ""
-
 # scripts/entity/tactical/humans/barbarian_madman.nut
 msgid "ffffff5f"
 msgstr ""
 
-# scripts/entity/tactical/humans/engineer.nut
-msgid "engineer"
-msgstr ""
+# scripts/entity/tactical/humans/councilman.nut
+msgid "the Wise"
+msgstr "智者"
 
 # scripts/entity/tactical/humans/councilman.nut
 msgid "the Elder"
 msgstr "长老"
 
-# scripts/entity/tactical/humans/conscript.nut
-msgid "conscript"
-msgstr ""
-
-# scripts/entity/tactical/humans/mercenary.nut
-msgid "mercenary"
-msgstr ""
-
-# scripts/entity/tactical/humans/gladiator.nut
-msgid "gladiator"
-msgstr ""
-
-# scripts/entity/tactical/humans/councilman.nut
-msgid "councilman"
-msgstr ""
-
-# scripts/entity/tactical/humans/councilman.nut
-msgid "the Younger"
-msgstr "年轻的"
-
-# scripts/entity/tactical/humans/oathbringer.nut
-msgid "oathbringer"
-msgstr ""
-
 # scripts/entity/tactical/humans/councilman.nut
 msgid "the Steward"
 msgstr "管家"
 
-# scripts/entity/tactical/humans/swordmaster.nut
-msgid "swordmaster"
-msgstr ""
-
-# scripts/entity/tactical/humans/executioner.nut
-msgid "executioner"
-msgstr ""
+# scripts/entity/tactical/humans/councilman.nut
+msgid "the Younger"
+msgstr "年轻的"
 
 # scripts/entity/tactical/humans/councilman.nut
 msgid "the Merchant"
 msgstr "商人"
 
 # scripts/entity/tactical/humans/councilman.nut
+msgid "the Councilor"
+msgstr "委员"
+
+# scripts/entity/tactical/humans/councilman.nut
 msgid "the Treasurer"
 msgstr "司库"
 
 # scripts/entity/tactical/humans/councilman.nut
-msgid "the Councilor"
-msgstr "委员"
+msgid "the Councilman"
+msgstr "议员"
 
 # scripts/entity/tactical/humans/militia_guest_ranged.nut
 # scripts/entity/tactical/humans/militia_guest.nut
 msgid "the Militiaman"
 msgstr "民兵"
-
-# scripts/entity/tactical/humans/councilman.nut
-msgid "the Councilman"
-msgstr "议员"
 
 # scripts/entity/tactical/humans/councilman.nut
 msgid "the Burgomeister"

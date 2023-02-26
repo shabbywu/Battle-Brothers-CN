@@ -14,13 +14,17 @@ msgstr "5"
 msgid "What?"
 msgstr "什么？"
 
+# scripts/events/events/dlc2/location/monolith_enter_event.nut
+msgid "Go in."
+msgstr "进去。"
+
 # scripts/events/events/dlc2/location/ancient_statue_event.nut
 msgid "Parry!"
 msgstr "格挡！"
 
-# scripts/events/events/dlc2/location/monolith_enter_event.nut
-msgid "Go in."
-msgstr "进去。"
+# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
+msgid " suffers "
+msgstr " 遭受 "
 
 # scripts/events/events/dlc2/location/unhold_graveyard_event.nut
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
@@ -31,34 +35,34 @@ msgstr "进去。"
 msgid "You gain "
 msgstr "你获得了 "
 
-# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid " suffers "
-msgstr " 遭受 "
-
 # scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
 msgid "You lose "
 msgstr "你失去了 "
+
+# scripts/events/events/dlc2/location/monolith_enter_event.nut
+msgid "Fall back."
+msgstr "撤退。"
 
 # scripts/events/events/dlc2/location/waterwheel_enter_event.nut
 # scripts/events/events/dlc2/location/witchhut_enter_event.nut
 msgid "To battle!"
 msgstr "战斗！"
 
-# scripts/events/events/dlc2/location/monolith_enter_event.nut
-msgid "Fall back."
-msgstr "撤退。"
-
 # scripts/events/events/dlc2/location/witchhut_destroyed_event.nut
 msgid "Who am I?!"
 msgstr "我是谁？！"
 
-# scripts/events/events/dlc2/location/monolith_enter_event.nut
-msgid "To the end!"
-msgstr "坚持到底！"
-
 # scripts/events/events/dlc2/location/golden_goose_event.nut
 msgid "Is it real?"
 msgstr "是真的吗？"
+
+# scripts/events/events/dlc2/location/witchhut_destroyed_event.nut
+msgid "Time to go."
+msgstr "该出发了。"
+
+# scripts/events/events/dlc2/location/monolith_enter_event.nut
+msgid "To the end!"
+msgstr "坚持到底！"
 
 # scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
 msgid "We're fine."
@@ -68,45 +72,41 @@ msgstr "我们很好。"
 msgid "You lose a "
 msgstr "你失去了一个 "
 
-# scripts/events/events/dlc2/location/witchhut_destroyed_event.nut
-msgid "Time to go."
-msgstr "该出发了。"
-
-# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "We'll go in."
-msgstr "我们要进去了。"
+# scripts/events/events/dlc2/location/monolith_destroyed_event.nut
+msgid "I'm alright."
+msgstr "我很好。"
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 msgid "Let's do it."
 msgstr "让我们开始吧。"
 
-# scripts/events/events/dlc2/location/goblin_city_destroyed_event.nut
-msgid "Who is that?"
-msgstr "那是什么？"
-
-# scripts/events/events/dlc2/location/monolith_destroyed_event.nut
-msgid "I'm alright."
-msgstr "我很好。"
+# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
+msgid "We'll go in."
+msgstr "我们要进去了。"
 
 # scripts/events/events/dlc2/location/witchhut_destroyed_event.nut
 msgid "Who are you?"
 msgstr "你是谁？"
 
-# scripts/events/events/dlc2/location/golden_goose_event.nut
-msgid "You gain the "
-msgstr "你获得了 "
-
-# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
-msgid "To formation!"
-msgstr "保持队型！"
+# scripts/events/events/dlc2/location/goblin_city_destroyed_event.nut
+msgid "Who is that?"
+msgstr "那是什么？"
 
 # scripts/events/events/dlc2/location/waterwheel_enter_event.nut
 msgid "I'll take it."
 msgstr "我要把它带走。"
 
+# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
+msgid "To formation!"
+msgstr "保持队型！"
+
 # scripts/events/events/dlc2/location/kraken_cult_destroyed_event.nut
 msgid "We prevailed."
 msgstr "我们赢了。"
+
+# scripts/events/events/dlc2/location/golden_goose_event.nut
+msgid "You gain the "
+msgstr "你获得了 "
 
 # scripts/events/events/dlc2/location/goblin_city_destroyed_event.nut
 msgid "That few, huh?"
@@ -116,10 +116,6 @@ msgstr "就这么几个，哏？"
 msgid "What is Davkul?"
 msgstr "什么是达库尔？"
 
-# scripts/events/events/dlc2/location/goblin_city_reminder_event.nut
-msgid "Along the way..."
-msgstr "在途中…"
-
 # scripts/events/events/dlc2/location/kraken_cult_destroyed_event.nut
 # scripts/events/events/dlc2/location/goblin_city_destroyed_event.nut
 # scripts/events/events/dlc2/location/monolith_destroyed_event.nut
@@ -127,13 +123,17 @@ msgstr "在途中…"
 msgid "After the battle"
 msgstr "战斗之后"
 
-# scripts/events/events/dlc2/location/unhold_graveyard_event.nut
-msgid "Take everything."
-msgstr "把所有东西都拿走。"
+# scripts/events/events/dlc2/location/goblin_city_reminder_event.nut
+msgid "Along the way..."
+msgstr "在途中…"
 
 # scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
 msgid "And who are you?"
 msgstr "那么，你是谁？"
+
+# scripts/events/events/dlc2/location/unhold_graveyard_event.nut
+msgid "Take everything."
+msgstr "把所有东西都拿走。"
 
 # scripts/events/events/dlc2/location/goblin_city_enter_event.nut
 msgid "What's the plan?"
@@ -161,9 +161,13 @@ msgstr "我们应该回去了。"
 msgid "As you approach..."
 msgstr "当你接近时…"
 
-# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "Might as well see."
-msgstr "不妨看看。"
+# scripts/events/events/dlc2/location/goblin_city_enter_event.nut
+msgid "Fall back for now."
+msgstr "暂时撤退。"
+
+# scripts/events/events/dlc2/location/fountain_of_youth_event.nut
+msgid "I'll drink it all!"
+msgstr "我要把它全部喝完！"
 
 # scripts/events/events/dlc2/location/golden_goose_event.nut
 msgid "Inspect the stump."
@@ -173,17 +177,13 @@ msgstr "检查残留部分。"
 msgid "Let's have a look."
 msgstr "让我们看一眼。"
 
+# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
+msgid "Might as well see."
+msgstr "不妨看看。"
+
 # scripts/events/events/dlc2/location/witchhut_enter_event.nut
 msgid "Then I will do so."
 msgstr "那么我将会这么做。"
-
-# scripts/events/events/dlc2/location/fountain_of_youth_event.nut
-msgid "I'll drink it all!"
-msgstr "我要把它全部喝完！"
-
-# scripts/events/events/dlc2/location/goblin_city_enter_event.nut
-msgid "Fall back for now."
-msgstr "暂时撤退。"
 
 # scripts/events/events/dlc2/location/goblin_city_enter_event.nut
 msgid "Prepare the attack."
@@ -192,6 +192,10 @@ msgstr "准备进攻。"
 # scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
 msgid "So, how can I help?"
 msgstr "所以, 我怎么能帮上忙？"
+
+# scripts/events/events/dlc2/location/goblin_city_enter_event.nut
+msgid "Let's leave for now."
+msgstr "让我们现在离开吧。"
 
 # scripts/events/events/dlc2/location/golden_goose_event.nut
 msgid "The tales tell true!"
@@ -205,21 +209,17 @@ msgstr "到了淘金的时候啦。"
 msgid "What is it you want?"
 msgstr "你想要什么？"
 
-# scripts/events/events/dlc2/location/goblin_city_enter_event.nut
-msgid "Let's leave for now."
-msgstr "让我们现在离开吧。"
-
 # scripts/events/events/dlc2/location/golden_goose_event.nut
 msgid "Let's get out of here."
 msgstr "让我们离开这里。"
 
-# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
-msgid "What is going on here?"
-msgstr "这是怎么回事？"
-
 # scripts/events/events/dlc2/location/ancient_statue_event.nut
 msgid "There's no harm in it."
 msgstr "这并没有什么害处。"
+
+# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
+msgid "What is going on here?"
+msgstr "这是怎么回事？"
 
 # scripts/events/events/dlc2/location/witchhut_destroyed_event.nut
 msgid "Who were the ancients?"
@@ -229,53 +229,57 @@ msgstr "谁是古人？"
 msgid "Let's see what this is."
 msgstr "让我们看看这是什么。"
 
-# scripts/events/events/dlc2/location/waterwheel_enter_event.nut
-msgid "Reproach of the Old Gods"
-msgstr "古神之耻"
-
-# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
-msgid "You're a full on nutbar."
-msgstr "你是个十足的疯子。"
-
-# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
-msgid "So what all do you know?"
-msgstr "因此你到底知道些什么？"
+# scripts/events/events/dlc2/location/fountain_of_youth_event.nut
+msgid "I'll just take a little."
+msgstr "我就喝一点点。"
 
 # scripts/events/events/dlc2/location/ancient_statue_event.nut
 msgid "Let's not dwell on this."
 msgstr "让我们不要沉溺于此。"
 
-# scripts/events/events/dlc2/location/fountain_of_youth_event.nut
-msgid "I'll just take a little."
-msgstr "我就喝一点点。"
+# scripts/events/events/dlc2/location/waterwheel_enter_event.nut
+msgid "Reproach of the Old Gods"
+msgstr "古神之耻"
+
+# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
+msgid "So what all do you know?"
+msgstr "因此你到底知道些什么？"
+
+# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
+msgid "You're a full on nutbar."
+msgstr "你是个十足的疯子。"
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 msgid "Chirp. Chirp chirp chirp?"
 msgstr "啁啾。 啁啾啁啾啁啾？"
-
-# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "No, that's not happening."
-msgstr "不, 那不会发生。"
-
-# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
-msgid "I'll bring you the hides."
-msgstr "我会把兽皮带给你的。"
-
-# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
-msgid "So the deal is done then?"
-msgstr "那么交易完成了？"
-
-# scripts/events/events/dlc2/location/fountain_of_youth_event.nut
-msgid "I... don't... understand."
-msgstr "我…不…明白。"
 
 # scripts/events/events/dlc2/location/witchhut_destroyed_event.nut
 msgid "How do you know who I am?"
 msgstr "你怎么知道我是谁？"
 
 # scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
+msgid "I'll bring you the hides."
+msgstr "我会把兽皮带给你的。"
+
+# scripts/events/events/dlc2/location/fountain_of_youth_event.nut
+msgid "I... don't... understand."
+msgstr "我…不…明白。"
+
+# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
+msgid "No, that's not happening."
+msgstr "不, 那不会发生。"
+
+# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
+msgid "So the deal is done then?"
+msgstr "那么交易完成了？"
+
+# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
 msgid "From dust to finding dust."
 msgstr "找来找去都是垃圾。"
+
+# scripts/events/events/dlc2/location/witchhut_destroyed_event.nut
+msgid "Were the greenskins human?"
+msgstr "绿皮是人类吗？"
 
 # scripts/events/events/dlc2/location/waterwheel_enter_event.nut
 msgid "What would make me worthy?"
@@ -286,32 +290,28 @@ msgid "Would this make me worthy?"
 msgstr "这会使我更有价值？"
 
 # scripts/events/events/dlc2/location/witchhut_destroyed_event.nut
-msgid "Were the greenskins human?"
-msgstr "绿皮是人类吗？"
-
-# scripts/events/events/dlc2/location/witchhut_destroyed_event.nut
 msgid "What is it that I dream of?"
 msgstr "我梦想的是什么？"
-
-# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "Well, fine. You can join us."
-msgstr "好吧，很好。 你可以加入我们。"
-
-# scripts/events/events/dlc2/location/witchhut_enter_event.nut
-msgid "We've already come this far."
-msgstr "我们已经付出了这么多。"
 
 # scripts/events/events/dlc2/location/witchhut_enter_event.nut
 msgid "Stay here and stay on guard."
 msgstr "呆在这里注意防御。"
 
-# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
-msgid "I demand to be paid right now."
-msgstr "我要求立即付款。"
+# scripts/events/events/dlc2/location/witchhut_enter_event.nut
+msgid "We've already come this far."
+msgstr "我们已经付出了这么多。"
+
+# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
+msgid "Well, fine. You can join us."
+msgstr "好吧，很好。 你可以加入我们。"
 
 # scripts/events/events/dlc2/location/fountain_of_youth_event.nut
 msgid "Best keep this somewhere safe."
 msgstr "最好把这个放在安全的地方。"
+
+# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
+msgid "I demand to be paid right now."
+msgstr "我要求立即付款。"
 
 # scripts/events/events/dlc2/location/waterwheel_enter_event.nut
 msgid "This old man ain't stopping me."
@@ -330,20 +330,20 @@ msgid "Let's see what secrets are inside."
 msgstr "让我们看看里面到底有什么秘密。"
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "Seems dangerous. Let's get out now."
-msgstr "看起来很危险。 让我们现在出去吧。"
-
-# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 msgid "Ah well. Two of the vials are ours."
 msgstr "啊，好吧。 这两个瓶子是我们的了。"
-
-# scripts/events/events/dlc2/location/waterwheel_enter_event.nut
-msgid "We'll have to resolve it ourselves."
-msgstr "我们必须自己解决这个问题。"
 
 # scripts/events/events/dlc2/location/kraken_cult_destroyed_event.nut
 msgid "Alright, show me what's been found."
 msgstr "好吧，让我们看看能发现什么。"
+
+# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
+msgid "Seems dangerous. Let's get out now."
+msgstr "看起来很危险。 让我们现在出去吧。"
+
+# scripts/events/events/dlc2/location/waterwheel_enter_event.nut
+msgid "We'll have to resolve it ourselves."
+msgstr "我们必须自己解决这个问题。"
 
 # scripts/events/events/dlc2/location/witchhut_destroyed_event.nut
 msgid "Why did you call me the False King?"
@@ -370,20 +370,20 @@ msgid "Well, at least we got a lay of the land."
 msgstr "好吧, 至少我们有一块土地。"
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "Glad someone else paid that price, though."
-msgstr "景观如此, 很高兴有人按照这个价格支付。"
-
-# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 msgid "From the brink a broken man must be saved."
 msgstr "必须拯救一个处于崩溃边缘的人。"
 
-# scripts/events/events/dlc2/location/fountain_of_youth_event.nut
-msgid "We need to get the hell out of here. Fast."
-msgstr "我们必须离开这里。 尽快的。"
+# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
+msgid "Glad someone else paid that price, though."
+msgstr "景观如此, 很高兴有人按照这个价格支付。"
 
 # scripts/events/events/dlc2/location/monolith_destroyed_event.nut
 msgid "I should take a closer look at that armor."
 msgstr "我应该仔细看看那件盔甲。"
+
+# scripts/events/events/dlc2/location/fountain_of_youth_event.nut
+msgid "We need to get the hell out of here. Fast."
+msgstr "我们必须离开这里。 尽快的。"
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 msgid "Got injured navigating an ancient mausoleum"
@@ -394,16 +394,16 @@ msgid "We're done, then, and I shall take my leave."
 msgstr "我们完了，我应该离开了。"
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
-msgid "Well, we got vials for just that problem now."
-msgstr "好吧, 我们现在就有解决那个问题的瓶子。"
-
-# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 msgid "Probably the best way to answer a riddle yet."
 msgstr "也许是回答一个谜语的最好方法。"
 
 # scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
 msgid "Still a successful go, all things considered."
 msgstr "仍然是一次成功的旅行, 所有的情况都考虑到了。"
+
+# scripts/events/events/dlc2/location/ancient_temple_enter_event.nut
+msgid "Well, we got vials for just that problem now."
+msgstr "好吧, 我们现在就有解决那个问题的瓶子。"
 
 # scripts/events/events/dlc2/location/witchhut_destroyed_event.nut
 msgid "You've served your purpose, then. Die, witch!"
@@ -744,22 +744,6 @@ msgid ""
 " beyond that!}"
 msgstr ""
 
-# scripts/events/events/dlc2/location/golden_goose_event.nut
-msgid ""
-"[img]gfx/ui/events/event_125.png[/img]{You step into the bowels of the ship."
-" It's completely vacant save for a stump with an axehead chopped into it. "
-"%observer% looks at it.%SPEECH_ON%There's an axehead.%SPEECH_OFF%Nodding, "
-"you say there it is indeed. But the metal of it carries veins of a sort of "
-"golden hue. Getting closer to the stump, you can see embers flittering "
-"upward out of the wedge. %observer% taps your shoulder and you find him "
-"pointing into the dark of the ship.%SPEECH_ON%Skeleton. Dead "
-"one.%SPEECH_OFF%Just faintly can you see the pale bones. As you draw near, "
-"the clothing becomes apparent, and readily obvious as royal attire. There is"
-" a cracked ale horn in one hand and a molded loaf of bread in the other. His"
-" jacket is blown open and shredded by splinters. Upon closer inspection, "
-"some of the wood is embedded in his brainpan.}"
-msgstr ""
-
 # scripts/events/events/dlc2/location/witchhut_destroyed_event.nut
 msgid ""
 "[img]gfx/ui/events/event_115.png[/img]{You stand up yelling at the woman for"
@@ -774,6 +758,22 @@ msgid ""
 " dagger, you ask what she did to it, but she refuses to answer. You then ask"
 " if there are more out there like her. She grins playfully.%SPEECH_ON%I pray"
 " there are not.%SPEECH_OFF%}"
+msgstr ""
+
+# scripts/events/events/dlc2/location/golden_goose_event.nut
+msgid ""
+"[img]gfx/ui/events/event_125.png[/img]{You step into the bowels of the ship."
+" It's completely vacant save for a stump with an axehead chopped into it. "
+"%observer% looks at it.%SPEECH_ON%There's an axehead.%SPEECH_OFF%Nodding, "
+"you say there it is indeed. But the metal of it carries veins of a sort of "
+"golden hue. Getting closer to the stump, you can see embers flittering "
+"upward out of the wedge. %observer% taps your shoulder and you find him "
+"pointing into the dark of the ship.%SPEECH_ON%Skeleton. Dead "
+"one.%SPEECH_OFF%Just faintly can you see the pale bones. As you draw near, "
+"the clothing becomes apparent, and readily obvious as royal attire. There is"
+" a cracked ale horn in one hand and a molded loaf of bread in the other. His"
+" jacket is blown open and shredded by splinters. Upon closer inspection, "
+"some of the wood is embedded in his brainpan.}"
 msgstr ""
 
 # scripts/events/events/dlc2/location/goblin_city_enter_event.nut
@@ -939,13 +939,6 @@ msgid ""
 " A man welcomes you in the first and only room there is. He's standing beside the mill well, running his hand through the grains. He is an elderly fellow yet of modest stature, as though time had no warrant for his posture or abilities. There is a sword hilt hanging above the fireplace. Its glint is unmistakably rich and the old man regards your stare with a warm smile.%SPEECH_ON%Only those who are worthy may have the hilt of the %weapon%. You, stranger, are not.%SPEECH_OFF%}"
 msgstr ""
 
-# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
-msgid ""
-"[img]gfx/ui/events/event_120.png[/img]{With all the time spent there, you thought this place an increasingly familiar mire, but the swamp suddenly feels strange and foreign, like walking into an old bedroom only to know something has been moved around.\n"
-"\n"
-"You find the woman standing at a distance, a formation of her helpers behind her. They're all wearing cloaks made of unhold hides. They're crouching before bulbs of green lights, cupping them in their hands, and you can see slivers of grins brokered in each viridian sheen, rinds of lips hissing softly in fading sanity. The woman's books and tomes and papers are littered all around. A fog lingers, and it has brought with it a horrible stench. You ask where your money is. The woman grins and her eyes are jaundiced and her lips parched and splintered and mushrooms bits are smattered across her cheeks.%SPEECH_ON%The sellsword wants his crowns! There is nothing here but escape! Escape from everything everywhere!%SPEECH_OFF%}"
-msgstr ""
-
 # scripts/events/events/dlc2/location/waterwheel_enter_event.nut
 msgid ""
 "[img]gfx/ui/events/event_109.png[/img]{You step forward and threaten the man"
@@ -962,6 +955,13 @@ msgid ""
 "shunted from the home and the door slams behind you. Seems you have a quest,"
 " though you've not even the faintest notion of a compass's northern point to"
 " know where to go with it.}"
+msgstr ""
+
+# scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
+msgid ""
+"[img]gfx/ui/events/event_120.png[/img]{With all the time spent there, you thought this place an increasingly familiar mire, but the swamp suddenly feels strange and foreign, like walking into an old bedroom only to know something has been moved around.\n"
+"\n"
+"You find the woman standing at a distance, a formation of her helpers behind her. They're all wearing cloaks made of unhold hides. They're crouching before bulbs of green lights, cupping them in their hands, and you can see slivers of grins brokered in each viridian sheen, rinds of lips hissing softly in fading sanity. The woman's books and tomes and papers are littered all around. A fog lingers, and it has brought with it a horrible stench. You ask where your money is. The woman grins and her eyes are jaundiced and her lips parched and splintered and mushrooms bits are smattered across her cheeks.%SPEECH_ON%The sellsword wants his crowns! There is nothing here but escape! Escape from everything everywhere!%SPEECH_OFF%}"
 msgstr ""
 
 # scripts/events/events/dlc2/location/kraken_cult_enter_event.nut
@@ -1568,6 +1568,24 @@ msgid ""
 "the obelisk's reflection, and it is your reflection alone.}"
 msgstr ""
 
+# scripts/events/events/dlc2/location/monolith_enter_event.nut
+msgid ""
+"[img]gfx/ui/events/event_101.png[/img]{Halfway into the quarry and rounding a long bend, you notice a series of hallways cut into the lower wall. You cast up a fist. The company seizes, bumbling into one another as the formation comes to a stop. %randombrother% asks what's wrong. You put a finger to your lips. \n"
+"\n"
+" With the lightest of steps you approach one of the ropes strung between this level and the very bottom of the pit. A pail filled with soil totters the tether as though jittered by your appearance. The pulley used to draw it up and down has long since rusted over. You draw your sword and cut the rope. The binding shoots back like a whip and the bucket plummets. It clatters side to side off the rocks until striking the ground with a metal pang and a cloud of dust. And just like that, the silence is gone.\n"
+"\n"
+" Pale men flood out of the hallways below, a stream of malignant miners and ditch diggers in haggard drawers and boots and capes of shredded shirts, shambling back out as though returning to some long gone work left incomplete. You try and count their numbers but are mightily distracted when a throng of armored soldiers march out behind the mob, this outfit carrying polearms, shields, spears and, most dangerously of all, a sense of cohesion.\n"
+"\n"
+" No point in running out of the quarry. Nothing in the land to run to. When you look back at the men, they're already drawing out their weapons. %randombrother% nods.%SPEECH_ON%With you to the end, captain.%SPEECH_OFF%}"
+msgstr ""
+"[img]gfx/ui/events/event_101.png[/img]{Halfway into the quarry and rounding a long bend, you notice a series of hallways cut into the lower wall. You cast up a fist. The company seizes, bumbling into one another as the formation comes to a stop. %randombrother% asks what's wrong. You put a finger to your lips. \n"
+"\n"
+" With the lightest of steps you approach one of the ropes strung between this level and the very bottom of the pit. A pail filled with soil totters the tether as though jittered by your appearance. The pulley used to draw it up and down has long since rusted over. You draw your sword and cut the rope. The binding shoots back like a whip and the bucket plummets. It clatters side to side off the rocks until striking the ground with a metal pang and a cloud of dust. And just like that, the silence is gone.\n"
+"\n"
+" Pale men flood out of the hallways below, a stream of malignant miners and ditch diggers in haggard drawers and boots and capes of shredded shirts, shambling back out as though returning to some long gone work left incomplete. You try and count their numbers but are mightily distracted when a throng of armored soldiers march out behind the mob, this outfit carrying polearms, shields, spears and, most dangerously of all, a sense of cohesion.\n"
+"\n"
+" No point in running out of the quarry. Nothing in the land to run to. When you look back at the men, they're already drawing out their weapons. %randombrother% 点了点头。%SPEECH_ON%With you to the end, captain.%SPEECH_OFF%}"
+
 # scripts/events/events/dlc2/location/ancient_statue_event.nut
 msgid ""
 "[img]gfx/ui/events/event_116.png[/img]{A golden man the size of a castle "
@@ -1613,24 +1631,6 @@ msgstr ""
 "would be nicking a fair share from the statue's shins alone. A few "
 "mercenaries ask if they can have a stab at collecting some gold for "
 "themselves.}"
-
-# scripts/events/events/dlc2/location/monolith_enter_event.nut
-msgid ""
-"[img]gfx/ui/events/event_101.png[/img]{Halfway into the quarry and rounding a long bend, you notice a series of hallways cut into the lower wall. You cast up a fist. The company seizes, bumbling into one another as the formation comes to a stop. %randombrother% asks what's wrong. You put a finger to your lips. \n"
-"\n"
-" With the lightest of steps you approach one of the ropes strung between this level and the very bottom of the pit. A pail filled with soil totters the tether as though jittered by your appearance. The pulley used to draw it up and down has long since rusted over. You draw your sword and cut the rope. The binding shoots back like a whip and the bucket plummets. It clatters side to side off the rocks until striking the ground with a metal pang and a cloud of dust. And just like that, the silence is gone.\n"
-"\n"
-" Pale men flood out of the hallways below, a stream of malignant miners and ditch diggers in haggard drawers and boots and capes of shredded shirts, shambling back out as though returning to some long gone work left incomplete. You try and count their numbers but are mightily distracted when a throng of armored soldiers march out behind the mob, this outfit carrying polearms, shields, spears and, most dangerously of all, a sense of cohesion.\n"
-"\n"
-" No point in running out of the quarry. Nothing in the land to run to. When you look back at the men, they're already drawing out their weapons. %randombrother% nods.%SPEECH_ON%With you to the end, captain.%SPEECH_OFF%}"
-msgstr ""
-"[img]gfx/ui/events/event_101.png[/img]{Halfway into the quarry and rounding a long bend, you notice a series of hallways cut into the lower wall. You cast up a fist. The company seizes, bumbling into one another as the formation comes to a stop. %randombrother% asks what's wrong. You put a finger to your lips. \n"
-"\n"
-" With the lightest of steps you approach one of the ropes strung between this level and the very bottom of the pit. A pail filled with soil totters the tether as though jittered by your appearance. The pulley used to draw it up and down has long since rusted over. You draw your sword and cut the rope. The binding shoots back like a whip and the bucket plummets. It clatters side to side off the rocks until striking the ground with a metal pang and a cloud of dust. And just like that, the silence is gone.\n"
-"\n"
-" Pale men flood out of the hallways below, a stream of malignant miners and ditch diggers in haggard drawers and boots and capes of shredded shirts, shambling back out as though returning to some long gone work left incomplete. You try and count their numbers but are mightily distracted when a throng of armored soldiers march out behind the mob, this outfit carrying polearms, shields, spears and, most dangerously of all, a sense of cohesion.\n"
-"\n"
-" No point in running out of the quarry. Nothing in the land to run to. When you look back at the men, they're already drawing out their weapons. %randombrother% 点了点头。%SPEECH_ON%With you to the end, captain.%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/location/waterwheel_enter_event.nut
 msgid ""

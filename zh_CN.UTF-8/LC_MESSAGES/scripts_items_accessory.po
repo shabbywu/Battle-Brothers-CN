@@ -6,25 +6,29 @@ msgstr ""
 msgid "Falcon"
 msgstr "猎鹰"
 
-# scripts/items/accessory/bandage_item.nut
-msgid "Bandages"
-msgstr "绷带"
-
 # scripts/items/accessory/antidote_item.nut
 msgid "Antidote"
 msgstr "解毒剂"
+
+# scripts/items/accessory/bandage_item.nut
+msgid "Bandages"
+msgstr "绷带"
 
 # scripts/items/accessory/wolf_item.nut
 msgid " the Wolf"
 msgstr ""
 
+# scripts/items/accessory/cat_potion_item.nut
+msgid "Cat Potion"
+msgstr "猫药"
+
 # scripts/items/accessory/orc_trophy_item.nut
 msgid "Orc Trophy"
 msgstr "兽人的雕饰"
 
-# scripts/items/accessory/cat_potion_item.nut
-msgid "Cat Potion"
-msgstr "猫药"
+# scripts/items/accessory/falcon_item.nut
+msgid " (Released)"
+msgstr ""
 
 # scripts/items/accessory/wardog_item.nut
 msgid " the Wardog"
@@ -34,10 +38,6 @@ msgstr ""
 msgid "Wolf Collar"
 msgstr "狼项圈"
 
-# scripts/items/accessory/falcon_item.nut
-msgid " (Released)"
-msgstr ""
-
 # scripts/items/accessory/spider_poison_item.nut
 msgid "Poisoned Oil"
 msgstr "毒油"
@@ -45,6 +45,14 @@ msgstr "毒油"
 # scripts/items/accessory/warhound_item.nut
 msgid " the Warhound"
 msgstr ""
+
+# scripts/items/accessory/poison_item.nut
+msgid "Goblin Poison"
+msgstr "哥布林毒药"
+
+# scripts/items/accessory/goblin_trophy_item.nut
+msgid "Goblin Trophy"
+msgstr "哥布林的雕饰"
 
 # scripts/items/accessory/undead_trophy_item.nut
 msgid "Undead Trophy"
@@ -54,28 +62,16 @@ msgstr "亡灵雕饰"
 msgid "Wardog Collar"
 msgstr "战犬项圈"
 
-# scripts/items/accessory/goblin_trophy_item.nut
-msgid "Goblin Trophy"
-msgstr "哥布林的雕饰"
-
-# scripts/items/accessory/poison_item.nut
-msgid "Goblin Poison"
-msgstr "哥布林毒药"
-
 # scripts/items/accessory/accessory.nut
 msgid "Carried in Bag"
 msgstr "放在背包里"
-
-# scripts/items/accessory/warhound_item.nut
-msgid "Warhound Collar"
-msgstr ""
 
 # scripts/items/accessory/sergeant_badge_item.nut
 msgid "Sergeant's Sash"
 msgstr ""
 
 # scripts/items/accessory/warhound_item.nut
-msgid "Unleash Warhound"
+msgid "Warhound Collar"
 msgstr ""
 
 # scripts/items/accessory/iron_will_potion_item.nut
@@ -86,13 +82,17 @@ msgstr "钢铁意志药水"
 msgid "Lionheart Potion"
 msgstr "狮心药水"
 
-# scripts/items/accessory/accessory.nut
-msgid "Usable in Combat"
-msgstr "可用于战斗"
-
 # scripts/items/accessory/night_vision_elixir_item.nut
 msgid "Night Owl Elixir"
 msgstr "夜莺炼金药"
+
+# scripts/items/accessory/warhound_item.nut
+msgid "Unleash Warhound"
+msgstr ""
+
+# scripts/items/accessory/accessory.nut
+msgid "Usable in Combat"
+msgstr "可用于战斗"
 
 # scripts/items/accessory/berserker_mushrooms_item.nut
 msgid "Strange Mushrooms"
@@ -103,8 +103,8 @@ msgid "Second Wind Potion"
 msgstr "第二呼吸药水"
 
 # scripts/items/accessory/alp_trophy_item.nut
-msgid "]+5[/color] Resolve"
-msgstr ""
+msgid "Alp Trophy Necklace"
+msgstr "梦魇雕饰项链"
 
 # scripts/items/accessory/spider_poison_item.nut
 # scripts/items/accessory/poison_item.nut
@@ -115,6 +115,10 @@ msgstr "使用时摧毁"
 msgid "]+4[/color] Resolve"
 msgstr ""
 
+# scripts/items/accessory/alp_trophy_item.nut
+msgid "]+5[/color] Resolve"
+msgstr ""
+
 # scripts/items/accessory/hexen_trophy_item.nut
 msgid "]+6[/color] Resolve"
 msgstr ""
@@ -123,9 +127,9 @@ msgstr ""
 msgid "]+7[/color] Resolve"
 msgstr ""
 
-# scripts/items/accessory/alp_trophy_item.nut
-msgid "Alp Trophy Necklace"
-msgstr "梦魇雕饰项链"
+# scripts/items/accessory/oathtaker_skull_01_item.nut
+msgid "Young Anselm's Skull"
+msgstr "初创者安瑟姆的颅骨"
 
 # scripts/items/accessory/oathtaker_skull_02_item.nut
 # scripts/items/accessory/sergeant_badge_item.nut
@@ -136,10 +140,6 @@ msgstr ""
 msgid "]+20[/color] Resolve"
 msgstr ""
 
-# scripts/items/accessory/oathtaker_skull_01_item.nut
-msgid "Young Anselm's Skull"
-msgstr "初创者安瑟姆的颅骨"
-
 # scripts/items/accessory/hexen_trophy_item.nut
 msgid "Hexen Trophy Necklace"
 msgstr "女巫雕饰项链"
@@ -148,25 +148,25 @@ msgstr "女巫雕饰项链"
 msgid "Worn in Accessory Slot"
 msgstr "附件位置损坏"
 
-# scripts/items/accessory/cat_potion_item.nut
-msgid "]+20[/color] Initiative"
-msgstr ""
-
 # scripts/items/accessory/accessory.nut
 msgid "Maximum Fatigue [color="
+msgstr ""
+
+# scripts/items/accessory/cat_potion_item.nut
+msgid "]+20[/color] Initiative"
 msgstr ""
 
 # scripts/items/accessory/night_vision_elixir_item.nut
 msgid "Not affected by nighttime"
 msgstr "不受夜间影响"
 
-# scripts/items/accessory/berserker_mushrooms_item.nut
-msgid "]-15[/color] Melee Defense"
-msgstr "]-15[/color] 近战防御"
-
 # scripts/items/accessory/ghoul_trophy_item.nut
 msgid "Nachzehrer Trophy Necklace"
 msgstr "食尸鬼雕饰项链"
+
+# scripts/items/accessory/berserker_mushrooms_item.nut
+msgid "]-15[/color] Melee Defense"
+msgstr "]-15[/color] 近战防御"
 
 # scripts/items/accessory/berserker_mushrooms_item.nut
 msgid "]-15[/color] Ranged Defense"
@@ -221,13 +221,13 @@ msgstr "一种针对各种毒药的解毒剂，尝起来非常的苦。"
 msgid "The collar of a wolf that has been unleashed onto the battlefield."
 msgstr "被释放到战场上的狼的项圈。"
 
-# scripts/items/accessory/wardog_item.nut
-msgid "The collar of a wardog that has been unleashed onto the battlefield."
-msgstr "被释放到战场上的战犬的项圈。"
-
 # scripts/items/accessory/falcon_item.nut
 msgid "A trained falcon. Can be released in battle to discover hidden prey."
 msgstr "一种训练有素的猎鹰，可以在战斗中被释放出来以发现隐藏的猎物。"
+
+# scripts/items/accessory/wardog_item.nut
+msgid "The collar of a wardog that has been unleashed onto the battlefield."
+msgstr "被释放到战场上的战犬的项圈。"
 
 # scripts/items/accessory/warhound_item.nut
 msgid "The collar of a warhound that has been unleashed onto the battlefield."
@@ -274,6 +274,12 @@ msgid ""
 "This item will be consumed in the process."
 msgstr "右键单击或拖动到当前选定的角色上进行食用。 此物品会在使用过程中消耗掉。"
 
+# scripts/items/accessory/wardog_item.nut
+msgid ""
+"A strong and loyal dog bred for war. Can be unleashed in battle for "
+"scouting, tracking or running down routing enemies."
+msgstr "为战争而生的强壮又忠诚的狗。 可在战斗中释放来侦查，追踪或者猎杀逃跑的敌人。"
+
 # scripts/items/accessory/iron_will_potion_item.nut
 # scripts/items/accessory/lionheart_potion_item.nut
 # scripts/items/accessory/recovery_potion_item.nut
@@ -283,12 +289,6 @@ msgid ""
 "Right-click or drag onto the currently selected character in order to drink."
 " This item will be consumed in the process."
 msgstr "右键单击或拖动到当前选定的角色上进行饮用。 此物品会在使用过程中消耗掉。"
-
-# scripts/items/accessory/wardog_item.nut
-msgid ""
-"A strong and loyal dog bred for war. Can be unleashed in battle for "
-"scouting, tracking or running down routing enemies."
-msgstr "为战争而生的强壮又忠诚的狗。 可在战斗中释放来侦查，追踪或者猎杀逃跑的敌人。"
 
 # scripts/items/accessory/night_vision_elixir_item.nut
 msgid ""

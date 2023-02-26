@@ -38,10 +38,6 @@ msgstr "露营时…"
 msgid "If you say so."
 msgstr "你说是就是。"
 
-# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
-msgid "[/color] Crowns"
-msgstr ""
-
 # scripts/events/events/dlc6/crisis/holywar_flavor_south_settlement_event.nut
 msgid "A strange time."
 msgstr "奇怪的时代。"
@@ -51,11 +47,9 @@ msgstr "奇怪的时代。"
 msgid "War is upon us."
 msgstr "战争就要来了。"
 
-# scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
-# scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
 # scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
-msgid "You gain [color="
-msgstr "你获得了 [color="
+msgid "[/color] Crowns"
+msgstr ""
 
 # scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
 # scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
@@ -66,6 +60,12 @@ msgstr "在途中…"
 # scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
 msgid "Serves him well."
 msgstr "他罪有应得。"
+
+# scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
+# scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
+# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
+msgid "You gain [color="
+msgstr "你获得了 [color="
 
 # scripts/events/events/dlc6/crisis/holywar_occupied_south_event.nut
 # scripts/events/events/dlc6/crisis/holywar_flavor_south_settlement_event.nut
@@ -103,14 +103,14 @@ msgstr "带上我们能用的任何东西。"
 msgid "The Gilder has judged them."
 msgstr "镀金者已经审判了他们。"
 
+# scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
+msgid "Let us end them with dignity"
+msgstr "让我们尊严的结束他们"
+
 # scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
 # scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
 msgid "[/color] Tools and Supplies."
 msgstr ""
-
-# scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
-msgid "Let us end them with dignity"
-msgstr "让我们尊严的结束他们"
 
 # scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
 msgid "Thank you for your generosity."
@@ -124,14 +124,14 @@ msgstr "谢谢你的盛情款待。"
 msgid "Enjoyed the hospitality of nomads"
 msgstr "喜欢游牧民的好客"
 
-# scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
-msgid "Gained confidence in your leadership"
-msgstr "对你的领导有信心"
-
 # scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
 # scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
 msgid "Better they don't suffer any longer."
 msgstr "他们最好别再受苦了。"
+
+# scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
+msgid "Gained confidence in your leadership"
+msgstr "对你的领导有信心"
 
 # scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
 msgid "The other crusaders did this to you?"
@@ -159,13 +159,13 @@ msgstr "宗教动乱之火熊熊燃烧。"
 msgid "May the flies feast upon your decrepit flesh."
 msgstr "愿苍蝇享用你衰老的肉体。"
 
-# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
-msgid "Disliked that you killed and robbed your hosts"
-msgstr "不喜欢你杀害和抢劫你的主人"
-
 # scripts/events/events/dlc6/crisis/holywar_crucified_1_event.nut
 msgid "Ah, he'll fit in with the rest of the misfits."
 msgstr "啊，他在我们这帮怪胎中会很合群的。"
+
+# scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
+msgid "Disliked that you killed and robbed your hosts"
+msgstr "不喜欢你杀害和抢劫你的主人"
 
 # scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
 msgid "You don't follow the beliefs of your countrymen?"
@@ -197,12 +197,12 @@ msgid "Disliked that you ended the suffering of southern invaders"
 msgstr "不喜欢你结束了南方侵略者的苦难"
 
 # scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
-msgid "Disliked that you left fellow Gilded to suffer a slow death"
-msgstr "不喜欢你让镀金者的同胞慢慢死去"
-
-# scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
 msgid "Approved of your decision to leave southern invaders to die"
 msgstr "认可你让南方侵略者去死的决定"
+
+# scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
+msgid "Disliked that you left fellow Gilded to suffer a slow death"
+msgstr "不喜欢你让镀金者的同胞慢慢死去"
 
 # scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
 msgid "Approved of your decision to end the suffering of fellow Gilded"
@@ -563,6 +563,24 @@ msgstr ""
 "\n"
 "你可以选择继续你的战役，只要你想。 只是要意识到，战役并不是要永远持续下去的，你可能最终会尝尽所有的挑战。%OOC_OFF%}"
 
+# scripts/events/events/dlc6/crisis/holywar_outro_north_event.nut
+msgid ""
+"[img]gfx/ui/events/event_84.png[/img]{Uttering their name is to draw words from tongue to intemporal: the old gods. They are beyond time, and their vast number invoke awe over specificity. Endearing as this is to any listener familiar or not with the faith, it also brings greater weight to any defeat of those who follow these unbranded beings. The crusades are over, and the northerners have lost.\n"
+"\n"
+" You watch as the northerners try and explain it to one another how it came to pass. It was not a terrestrial defeat here, nor even a victory by the southerners - no, this was punishment. Northerners have grazed far from the holy lands, they have meadowed in the material world, priories and churches dot the realm, empty and hollow for far too long. Naturally, inquiries about the nature of this southern 'Gilder' have also come, but they quickly pass. To even dwell on Him is to invite doubt, and right now doubt is as dangerous as any poison. Of course, the %companyname% stays at a distance. Sellswords that you are, you put faith in your sword and in the purse, and both got their dues in this war. The only philosophizing you'll be doing in the days to come is pondering just how soon the north and south will resume stating their differences. Perhaps now would be a good time to put up the sword and enjoy your crowns?\n"
+"\n"
+"%OOC%You've won! Battle Brothers is designed for replayability and for campaigns to be played until you've beaten one or two late game crises. Starting a new campaign will allow you to try out different things in a different world.\n"
+"\n"
+"You can also choose to continue your campaign for as long as you want. Just be aware that campaigns are not intended to last forever and you're likely to run out of challenges eventually.%OOC_OFF%}"
+msgstr ""
+"[img]gfx/ui/events/event_84.png[/img]{低语他们的名字是将言语从舌尖变为非世俗的事物：旧神。 他们是超越时间的，他们的数量让人对明确性敬而远之。 对于不论对宗教熟悉与否的听众而言可喜的是，它同样在那些追随这些不明确个体的人在落败时给予巨大的压力。 圣战结束了，北方人输了。\n"
+"\n"
+" 你看着北方人互相试着解释这一切是怎么发生的。 这不是地上人的失败，也不是南方人的胜利－不，这是惩罚。 北方人放牧到了离圣地太远的地方，他们沉沦在物质世界的草场中，修道院与教堂点缀着国土，空洞已久，太久。 很自然的，对南方的所谓“镀金者”的调查也曾有过，但是他们很快就过去了。 即使是停留在他身上，也会引起怀疑，而现在怀疑就像毒药一样危险。 当然，%companyname% 保持着距离。 作为一个佣兵你的信仰在于剑和钱袋上，这两个都得到了这场战争中它们应得的。 在接下来的日子里，你唯一要做的哲学思考就是思考南北两国多久会重新开始陈述他们的分歧。 又或许这是时候放下剑来享受你的克朗？\n"
+"\n"
+"%OOC%你已经胜利了！战场兄弟是为可重玩性和战役而设计的，直到你在游戏后期打败了一两次危机。 开始一个新的战役会让你在不同的世界尝试不同的东西。\n"
+"\n"
+"你可以选择继续你的战役，只要你想。 只是要意识到，战役并不是要永远持续下去的，你可能最终会尝尽所有的挑战。%OOC_OFF%}"
+
 # scripts/events/events/dlc6/crisis/holywar_flavor_north_outside_event.nut
 msgid ""
 "{[img]gfx/ui/events/event_95.png[/img]The homestead is a smoldering ruin and"
@@ -601,24 +619,6 @@ msgstr ""
 "这很有可能是贼匪借着圣战掩护下的作为。 不论如何，这里没有什么有价值的东西留下，于是你让手下们继续前进。 | "
 "[img]gfx/ui/events/event_132.png[/img]你找到了一个战场，尽管你的到来对于一个戏剧性的出场而言太迟了：死者到处都是，南方人与北方人，小贩与拾荒者还有恶棍们已经把这场战斗打扫干净了。"
 " 通过时不时出现的南方人尸体堆，以及这些尸体堆边仓促的撤退痕迹来看，你可以肯定那帮镀金者让负债者们成为了掩护他们撤退的牺牲品。}"
-
-# scripts/events/events/dlc6/crisis/holywar_outro_north_event.nut
-msgid ""
-"[img]gfx/ui/events/event_84.png[/img]{Uttering their name is to draw words from tongue to intemporal: the old gods. They are beyond time, and their vast number invoke awe over specificity. Endearing as this is to any listener familiar or not with the faith, it also brings greater weight to any defeat of those who follow these unbranded beings. The crusades are over, and the northerners have lost.\n"
-"\n"
-" You watch as the northerners try and explain it to one another how it came to pass. It was not a terrestrial defeat here, nor even a victory by the southerners - no, this was punishment. Northerners have grazed far from the holy lands, they have meadowed in the material world, priories and churches dot the realm, empty and hollow for far too long. Naturally, inquiries about the nature of this southern 'Gilder' have also come, but they quickly pass. To even dwell on Him is to invite doubt, and right now doubt is as dangerous as any poison. Of course, the %companyname% stays at a distance. Sellswords that you are, you put faith in your sword and in the purse, and both got their dues in this war. The only philosophizing you'll be doing in the days to come is pondering just how soon the north and south will resume stating their differences. Perhaps now would be a good time to put up the sword and enjoy your crowns?\n"
-"\n"
-"%OOC%You've won! Battle Brothers is designed for replayability and for campaigns to be played until you've beaten one or two late game crises. Starting a new campaign will allow you to try out different things in a different world.\n"
-"\n"
-"You can also choose to continue your campaign for as long as you want. Just be aware that campaigns are not intended to last forever and you're likely to run out of challenges eventually.%OOC_OFF%}"
-msgstr ""
-"[img]gfx/ui/events/event_84.png[/img]{低语他们的名字是将言语从舌尖变为非世俗的事物：旧神。 他们是超越时间的，他们的数量让人对明确性敬而远之。 对于不论对宗教熟悉与否的听众而言可喜的是，它同样在那些追随这些不明确个体的人在落败时给予巨大的压力。 圣战结束了，北方人输了。\n"
-"\n"
-" 你看着北方人互相试着解释这一切是怎么发生的。 这不是地上人的失败，也不是南方人的胜利－不，这是惩罚。 北方人放牧到了离圣地太远的地方，他们沉沦在物质世界的草场中，修道院与教堂点缀着国土，空洞已久，太久。 很自然的，对南方的所谓“镀金者”的调查也曾有过，但是他们很快就过去了。 即使是停留在他身上，也会引起怀疑，而现在怀疑就像毒药一样危险。 当然，%companyname% 保持着距离。 作为一个佣兵你的信仰在于剑和钱袋上，这两个都得到了这场战争中它们应得的。 在接下来的日子里，你唯一要做的哲学思考就是思考南北两国多久会重新开始陈述他们的分歧。 又或许这是时候放下剑来享受你的克朗？\n"
-"\n"
-"%OOC%你已经胜利了！战场兄弟是为可重玩性和战役而设计的，直到你在游戏后期打败了一两次危机。 开始一个新的战役会让你在不同的世界尝试不同的东西。\n"
-"\n"
-"你可以选择继续你的战役，只要你想。 只是要意识到，战役并不是要永远持续下去的，你可能最终会尝尽所有的挑战。%OOC_OFF%}"
 
 # scripts/events/events/dlc6/crisis/holywar_outro_north_event.nut
 msgid ""

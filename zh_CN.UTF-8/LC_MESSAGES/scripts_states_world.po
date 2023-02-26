@@ -15,12 +15,12 @@ msgid " and "
 msgstr " 和 "
 
 # scripts/states/world/asset_manager.nut
-msgid "Unknown"
-msgstr "未知的"
-
-# scripts/states/world/asset_manager.nut
 msgid " Points"
 msgstr ""
+
+# scripts/states/world/asset_manager.nut
+msgid "Unknown"
+msgstr "未知的"
 
 # scripts/states/world/asset_manager.nut
 msgid "Did go hungry"

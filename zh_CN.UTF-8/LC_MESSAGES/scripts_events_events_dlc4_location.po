@@ -38,20 +38,20 @@ msgid "We'll destroy this thing!"
 msgstr "我们要毁掉这东西！"
 
 # scripts/events/events/dlc4/location/icy_cave_enter_event.nut
-msgid "I need you to scout ahead, "
-msgstr ""
-
-# scripts/events/events/dlc4/location/icy_cave_enter_event.nut
 msgid "I need you to go in there, "
 msgstr ""
 
 # scripts/events/events/dlc4/location/icy_cave_enter_event.nut
-msgid "You can take him, %chosen%!"
+msgid "I need you to scout ahead, "
 msgstr ""
 
 # scripts/events/events/dlc4/location/icy_cave_enter_event.nut
 msgid "We should leave this place."
 msgstr "我们应该离开这儿。"
+
+# scripts/events/events/dlc4/location/icy_cave_enter_event.nut
+msgid "You can take him, %chosen%!"
+msgstr ""
 
 # scripts/events/events/dlc4/location/tundra_elk_enter_event.nut
 msgid "We need to get out of here! Fast!"

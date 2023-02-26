@@ -36,29 +36,29 @@ msgstr "古代尖塔"
 msgid "Stone Pillars"
 msgstr "石柱"
 
-# scripts/entity/world/locations/legendary/black_monolith_location.nut
-msgid "Black Monolith"
-msgstr "黑色巨石"
+# scripts/entity/world/locations/legendary/ancient_statue_location.nut
+msgid "Ancient Statue"
+msgstr "古代雕像"
 
 # scripts/entity/world/locations/legendary/ancient_temple_location.nut
 msgid "Ancient Temple"
 msgstr "古代神殿"
 
+# scripts/entity/world/locations/legendary/black_monolith_location.nut
+msgid "Black Monolith"
+msgstr "黑色巨石"
+
 # scripts/entity/world/locations/legendary/fountain_of_youth_location.nut
 msgid "Grotesque Tree"
 msgstr "怪诞树"
 
-# scripts/entity/world/locations/legendary/sunken_library_location.nut
-msgid "Sunken Library"
-msgstr "沉没的图书馆"
-
-# scripts/entity/world/locations/legendary/ancient_statue_location.nut
-msgid "Ancient Statue"
-msgstr "古代雕像"
-
 # scripts/entity/world/locations/legendary/tundra_elk_location.nut
 msgid "Hunting Ground"
 msgstr "狩猎场"
+
+# scripts/entity/world/locations/legendary/sunken_library_location.nut
+msgid "Sunken Library"
+msgstr "沉没的图书馆"
 
 # scripts/entity/world/locations/legendary/meteorite_location.nut
 msgid "The Fallen Star"

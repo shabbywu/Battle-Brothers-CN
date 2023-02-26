@@ -7,6 +7,10 @@ msgid "Random"
 msgstr "随机"
 
 # scripts/scenarios/world/gladiators_scenario.nut
+msgid "the Bear"
+msgstr ""
+
+# scripts/scenarios/world/gladiators_scenario.nut
 msgid "the Lion"
 msgstr "狮子"
 
@@ -14,17 +18,13 @@ msgstr "狮子"
 msgid "the Whip"
 msgstr ""
 
-# scripts/scenarios/world/gladiators_scenario.nut
-msgid "the Bear"
-msgstr ""
+# scripts/scenarios/world/deserters_scenario.nut
+msgid "Deserters"
+msgstr "逃兵"
 
 # scripts/scenarios/world/lone_wolf_scenario.nut
 msgid "Lone Wolf"
 msgstr "独狼"
-
-# scripts/scenarios/world/deserters_scenario.nut
-msgid "Deserters"
-msgstr "逃兵"
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "the Stoic"
@@ -34,25 +34,25 @@ msgstr "斯多葛学派信徒"
 msgid "the Viper"
 msgstr "毒蛇"
 
+# scripts/scenarios/world/anatomists_scenario.nut
+msgid "Anatomists"
+msgstr "解剖学者"
+
 # scripts/scenarios/world/gladiators_scenario.nut
 msgid "Gladiators"
 msgstr "角斗士"
 
 # scripts/scenarios/world/manhunters_scenario.nut
-msgid "the Beggar"
-msgstr ""
-
-# scripts/scenarios/world/manhunters_scenario.nut
 msgid "Manhunters"
 msgstr "搜捕者"
-
-# scripts/scenarios/world/anatomists_scenario.nut
-msgid "Anatomists"
-msgstr "解剖学者"
 
 # scripts/scenarios/world/paladins_scenario.nut
 msgid "Oathtakers"
 msgstr "宣誓者"
+
+# scripts/scenarios/world/manhunters_scenario.nut
+msgid "the Beggar"
+msgstr ""
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "the Learned"
@@ -62,6 +62,10 @@ msgstr ""
 msgid "the Deserter"
 msgstr ""
 
+# scripts/scenarios/world/early_access_scenario.nut
+msgid "A New Company"
+msgstr "新战队"
+
 # scripts/scenarios/world/beast_hunters_scenario.nut
 msgid "Beast Slayers"
 msgstr "野兽杀手"
@@ -70,17 +74,9 @@ msgstr "野兽杀手"
 msgid "the Lone Wolf"
 msgstr "the 独狼"
 
-# scripts/scenarios/world/early_access_scenario.nut
-msgid "A New Company"
-msgstr "新战队"
-
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "the Northerner"
 msgstr ""
-
-# scripts/scenarios/world/trader_scenario.nut
-msgid "Trading Caravan"
-msgstr "贸易商队"
 
 # scripts/scenarios/world/cultists_scenario.nut
 msgid "Davkul Cultists"
@@ -90,6 +86,14 @@ msgstr "达库尔异教徒"
 msgid "Peasant Militia"
 msgstr "农民民兵"
 
+# scripts/scenarios/world/trader_scenario.nut
+msgid "Trading Caravan"
+msgstr "贸易商队"
+
+# scripts/scenarios/world/rangers_scenario.nut
+msgid "Band of Poachers"
+msgstr "偷猎者团队"
+
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "Misses his books"
 msgstr "想念他的书"
@@ -97,10 +101,6 @@ msgstr "想念他的书"
 # scripts/scenarios/world/raiders_scenario.nut
 msgid "Northern Raiders"
 msgstr "北方掠夺者"
-
-# scripts/scenarios/world/rangers_scenario.nut
-msgid "Band of Poachers"
-msgstr "偷猎者团队"
 
 # scripts/scenarios/world/militia_scenario.nut
 msgid "Part of a militia"
@@ -134,30 +134,30 @@ msgstr "卷入了一场斗殴"
 msgid "Lost most of the company"
 msgstr "失去了大部分的同伴"
 
-# scripts/scenarios/world/deserters_scenario.nut
-msgid "You and your men deserted"
-msgstr "你和你的人都被遗弃了"
-
 # scripts/scenarios/world/militia_scenario.nut
 msgid "Stole someone's scramasax"
 msgstr "偷了别人的撒克逊大刀"
+
+# scripts/scenarios/world/deserters_scenario.nut
+msgid "You and your men deserted"
+msgstr "你和你的人都被遗弃了"
 
 # scripts/scenarios/world/southern_quickstart_scenario.nut
 # scripts/scenarios/world/early_access_scenario.nut
 msgid "Joined a mercenary company"
 msgstr "加入一个雇佣兵战队"
 
+# scripts/scenarios/world/militia_scenario.nut
+msgid "Has recently fallen in love"
+msgstr "最近坠入爱河"
+
 # scripts/scenarios/world/beast_hunters_scenario.nut
 msgid "Has slain a dangerous witch"
 msgstr "杀死了一个危险的女巫"
 
 # scripts/scenarios/world/militia_scenario.nut
-msgid "Has recently fallen in love"
-msgstr "最近坠入爱河"
-
-# scripts/scenarios/world/manhunters_scenario.nut
-msgid "]+5%[/color] Experience Gain"
-msgstr "]+5%[/color] 经验获取"
+msgid "Has recently become a father"
+msgstr "最近成了父亲"
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "Limited to character level 7"
@@ -167,9 +167,13 @@ msgstr "角色只能到7级"
 msgid "Lost many a friend in battle"
 msgstr "在战斗中失去了许多朋友"
 
+# scripts/scenarios/world/manhunters_scenario.nut
+msgid "]+5%[/color] Experience Gain"
+msgstr "]+5%[/color] 经验获取"
+
 # scripts/scenarios/world/militia_scenario.nut
-msgid "Has recently become a father"
-msgstr "最近成了父亲"
+msgid "Feels somewhat sickly of late"
+msgstr "最近觉得有点不舒服"
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "]+10%[/color] Experience Gain"
@@ -184,24 +188,20 @@ msgid "]-25%[/color] Experience Gain"
 msgstr "]-25%[/color] 经验获取"
 
 # scripts/scenarios/world/militia_scenario.nut
-msgid "Feels somewhat sickly of late"
-msgstr "最近觉得有点不舒服"
+msgid "Had his trusty scramasax stolen"
+msgstr "偷了信赖他的人的撒克逊大刀"
 
 # scripts/scenarios/world/tutorial_scenario.nut
 msgid "Rebuilding a Company (Tutorial)"
 msgstr "重建战队（教程）"
 
 # scripts/scenarios/world/militia_scenario.nut
-msgid "Had his trusty scramasax stolen"
-msgstr "偷了信赖他的人的撒克逊大刀"
+msgid "Managed to get away from his wife"
+msgstr "设法摆脱了他的妻子"
 
 # scripts/scenarios/world/anatomists_scenario.nut
 msgid "Will never be of confident morale"
 msgstr "永远不会达到自信的士气"
-
-# scripts/scenarios/world/militia_scenario.nut
-msgid "Managed to get away from his wife"
-msgstr "设法摆脱了他的妻子"
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "Relieved that he escaped execution"
@@ -255,13 +255,13 @@ msgstr ""
 msgid "Annoyed by your recent reprimand not to mistreat your captives"
 msgstr "对你最近对不要虐待俘虏的训斥而感到恼火"
 
-# scripts/scenarios/world/raiders_scenario.nut
-msgid "Thinks he managed to convince you to give up raiding and pillaging"
-msgstr "他还以为他说服你放弃了掠夺和抢劫"
-
 # scripts/scenarios/world/militia_scenario.nut
 msgid "Disliked that some members of the militia were involved in a brawl"
 msgstr "不喜欢民兵中的一些人卷入了一场斗殴"
+
+# scripts/scenarios/world/raiders_scenario.nut
+msgid "Thinks he managed to convince you to give up raiding and pillaging"
+msgstr "他还以为他说服你放弃了掠夺和抢劫"
 
 # scripts/scenarios/world/gladiators_scenario.nut
 msgid "{%fullname% thinks muscles make for glory. Wrong. Captain, it is I, "
@@ -694,6 +694,16 @@ msgstr ""
 "\n"
 "[color=#bcad8c]快速开始进入世界，没有任何特殊的优势或劣势。[/color][/p]"
 
+# scripts/scenarios/world/tutorial_scenario.nut
+msgid ""
+"[p=c][img]gfx/ui/events/event_21.png[/img][/p][p]You are second-in-command in a mercenary company that has been tracking a brigand named Hoggart for some time now. An unexpected turn of events leaves the company in shatters, and you in charge to rebuild it to its former glory.\n"
+"\n"
+"[color=#bcad8c]Recommended for new players as it includes some helpful guidance in the beginning.[/color][/p]"
+msgstr ""
+"[p=c][img]gfx/ui/events/event_21.png[/img][/p][p]你是一家雇佣兵战队的二把手，这个战队一直在追踪一个名叫霍加特的强盗。 An unexpected turn of events 离开了 company in shatters, and you in charge to rebuild it to its former glory.\n"
+"\n"
+"[color=#bcad8c]推荐给新玩家，因为它在开始时包含一些有用的指导。[/color][/p]"
+
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid ""
 "{%name% is an heirloom of heresy, a man gifted to you by one of the Vizier's"
@@ -705,16 +715,6 @@ msgid ""
 msgstr ""
 "{%name% 是异端的传家宝，是维齐尔的一位牧师送给你的。 这个人在大领主的军队里是个逃兵，但通过富有的关系设法避免了处决。 "
 "然而，只有一种方法可以避免地狱之火，那就是通过负债感恩。 他会为你工作，直到他找到救赎，什么时候会发生完全取决于你。}"
-
-# scripts/scenarios/world/tutorial_scenario.nut
-msgid ""
-"[p=c][img]gfx/ui/events/event_21.png[/img][/p][p]You are second-in-command in a mercenary company that has been tracking a brigand named Hoggart for some time now. An unexpected turn of events leaves the company in shatters, and you in charge to rebuild it to its former glory.\n"
-"\n"
-"[color=#bcad8c]Recommended for new players as it includes some helpful guidance in the beginning.[/color][/p]"
-msgstr ""
-"[p=c][img]gfx/ui/events/event_21.png[/img][/p][p]你是一家雇佣兵战队的二把手，这个战队一直在追踪一个名叫霍加特的强盗。 An unexpected turn of events 离开了 company in shatters, and you in charge to rebuild it to its former glory.\n"
-"\n"
-"[color=#bcad8c]推荐给新玩家，因为它在开始时包含一些有用的指导。[/color][/p]"
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid ""
@@ -947,20 +947,6 @@ msgstr ""
 "[color=#bcad8c]科学工作者：[/color] 研究你所击倒的敌人的遗骸，并从中提取出用于强化你战团成员的宝贵知识和特殊药剂。\n"
 "[color=#bcad8c]并非战士：[/color] 你的所有战团成员将永远无法达到自信士气。[/p]"
 
-# scripts/scenarios/world/gladiators_scenario.nut
-msgid ""
-"[p=c][img]gfx/ui/events/event_155.png[/img][/p][p]You've fought in the arenas of the south for years. First for your freedom, then for crowns, and finally to become immortal. What else does fate have in stock for you?\n"
-"\n"
-"[color=#bcad8c]Gladiators:[/color] Start with three experienced gladiators with good equipment, but very high daily wages.\n"
-"[color=#bcad8c]Legends of the Arena:[/color] Each gladiator has a unique trait in combat.\n"
-"[color=#bcad8c]Glorious Three:[/color] You can never have more than 12 men in your roster, and if all of your three starting men should die, your campaign ends.[/p]"
-msgstr ""
-"[p=c][img]gfx/ui/events/event_155.png[/img][/p][p]你已经在南方的竞技场战斗多年了。 首先是为了你的自由，然后是为了克朗，最后是为了不朽。 命运还为你准备了什么？\n"
-"\n"
-"[color=#bcad8c]角斗士：[/color] 从三个经验丰富的角斗士开始，他们装备精良，但日工资很高。\n"
-"[color=#bcad8c]竞技场传奇：[/color] 每个角斗士在战斗中都有自己独特的特点。\n"
-"[color=#bcad8c]荣耀之三：[/color] 你的名册上不能超过12个人，如果你的三个首发人员都死了，你的战役就结束了。[/p]"
-
 # scripts/scenarios/world/rangers_scenario.nut
 msgid ""
 "[p=c][img]gfx/ui/events/event_10.png[/img][/p][p]For years you've made a decent living by poaching in the local woods, evading your lord's men by being quick on your feet. But pickings have become slimmer and slimmer, and you're faced with a decision - how to make a living when all you know is how to use a bow?\n"
@@ -974,6 +960,20 @@ msgstr ""
 "[color=#bcad8c]猎人：[/color] 从三个木匠开始。\n"
 "[color=#bcad8c]专家侦察员：[/color] 你移动的更快，并且可以随时得到一个任何敌人在你附近的侦察报告。\n"
 "[color=#bcad8c]轻装旅行：[/color] 你的战队的库存携带略少的物品。[/p]"
+
+# scripts/scenarios/world/gladiators_scenario.nut
+msgid ""
+"[p=c][img]gfx/ui/events/event_155.png[/img][/p][p]You've fought in the arenas of the south for years. First for your freedom, then for crowns, and finally to become immortal. What else does fate have in stock for you?\n"
+"\n"
+"[color=#bcad8c]Gladiators:[/color] Start with three experienced gladiators with good equipment, but very high daily wages.\n"
+"[color=#bcad8c]Legends of the Arena:[/color] Each gladiator has a unique trait in combat.\n"
+"[color=#bcad8c]Glorious Three:[/color] You can never have more than 12 men in your roster, and if all of your three starting men should die, your campaign ends.[/p]"
+msgstr ""
+"[p=c][img]gfx/ui/events/event_155.png[/img][/p][p]你已经在南方的竞技场战斗多年了。 首先是为了你的自由，然后是为了克朗，最后是为了不朽。 命运还为你准备了什么？\n"
+"\n"
+"[color=#bcad8c]角斗士：[/color] 从三个经验丰富的角斗士开始，他们装备精良，但日工资很高。\n"
+"[color=#bcad8c]竞技场传奇：[/color] 每个角斗士在战斗中都有自己独特的特点。\n"
+"[color=#bcad8c]荣耀之三：[/color] 你的名册上不能超过12个人，如果你的三个首发人员都死了，你的战役就结束了。[/p]"
 
 # scripts/scenarios/world/deserters_scenario.nut
 msgid ""

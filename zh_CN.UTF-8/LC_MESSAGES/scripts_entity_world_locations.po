@@ -15,17 +15,17 @@ msgstr ""
 msgid "lighting"
 msgstr ""
 
-# scripts/entity/world/locations/battlefield_location.nut
-msgid "selection"
-msgstr ""
+# scripts/entity/world/locations/noble_camp_location.nut
+msgid "Army Camp"
+msgstr "军营"
 
 # scripts/entity/world/locations/undead_necropolis_location.nut
 msgid "Ruins of "
 msgstr ""
 
-# scripts/entity/world/locations/noble_camp_location.nut
-msgid "Army Camp"
-msgstr "军营"
+# scripts/entity/world/locations/battlefield_location.nut
+msgid "selection"
+msgstr ""
 
 # scripts/entity/world/locations/goblin_city_location.nut
 msgid "Rul'gazhix"
@@ -183,19 +183,19 @@ msgid ""
 "vicious greenskins."
 msgstr "一座巨大的哥布林城市，嵌套在一座古老要塞的遗迹中。在黑暗和高耸的墙壁的保护下，它承载着一支邪恶的绿皮军团。"
 
-# scripts/entity/world/locations/undead_mass_grave_location.nut
-msgid ""
-"The sad remains of a merciless battle, an epidemic or other catastrophe. The"
-" survivors dug a large hole and piled all the corpses into it to get rid of "
-"them quickly."
-msgstr "一场无情的战斗、一场流行病或其他灾难的悲惨残余。 幸存者们挖了一个大洞，把所有的尸体都堆在里面，用这种快速的方式处理了。"
-
 # scripts/entity/world/locations/orc_camp_location.nut
 msgid ""
 "A small camp erected by Orcs, either as part of a large horde in the "
 "vicinity or a small tribes of its own. They'll eventually move on to hunt "
 "and pillage elsewhere."
 msgstr "兽人建立的一个小营地，作为附近一个大部落的一部分或自己的一个小部落。他们最终会转移到其他地方去打猎和抢劫。"
+
+# scripts/entity/world/locations/undead_mass_grave_location.nut
+msgid ""
+"The sad remains of a merciless battle, an epidemic or other catastrophe. The"
+" survivors dug a large hole and piled all the corpses into it to get rid of "
+"them quickly."
+msgstr "一场无情的战斗、一场流行病或其他灾难的悲惨残余。 幸存者们挖了一个大洞，把所有的尸体都堆在里面，用这种快速的方式处理了。"
 
 # scripts/entity/world/locations/orc_fortress_location.nut
 msgid ""

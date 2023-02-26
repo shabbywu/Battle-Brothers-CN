@@ -2,12 +2,12 @@
 msgid ""
 msgstr ""
 
-# scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
-msgid " is now "
-msgstr ""
-
 # scripts/events/events/dlc4/raiders_origin_redemption_event.nut
 msgid " improve"
+msgstr ""
+
+# scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
+msgid " is now "
 msgstr ""
 
 # scripts/events/events/dlc4/drunk_nobleman_event.nut
@@ -20,6 +20,23 @@ msgid " has died"
 msgstr " 是死了"
 
 # scripts/events/events/dlc4/sled_race_event.nut
+# scripts/events/events/dlc4/horse_race_event.nut
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid " suffers "
+msgstr " 遭受 "
+
+# scripts/events/events/dlc4/sled_race_event.nut
+msgid "Nice one!"
+msgstr "很不错！"
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "Nice try."
+msgstr "不错的尝试。"
+
+# scripts/events/events/dlc4/sled_race_event.nut
 # scripts/events/events/dlc4/cultist_origin_armor_event.nut
 # scripts/events/events/dlc4/drunk_nobleman_event.nut
 # scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
@@ -29,29 +46,12 @@ msgstr " 是死了"
 msgid "You gain "
 msgstr "你获得了 "
 
-# scripts/events/events/dlc4/sled_race_event.nut
-# scripts/events/events/dlc4/horse_race_event.nut
-# scripts/events/events/dlc4/drunk_nobleman_event.nut
-# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
-# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
-# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
-msgid " suffers "
-msgstr " 遭受 "
-
 # scripts/events/events/dlc4/cultist_origin_armor_event.nut
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
 # scripts/events/events/dlc4/cultist_origin_hood_event.nut
 # scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
 msgid "You lose "
 msgstr "你失去了 "
-
-# scripts/events/events/dlc4/horse_race_event.nut
-msgid "Nice try."
-msgstr "不错的尝试。"
-
-# scripts/events/events/dlc4/sled_race_event.nut
-msgid "Nice one!"
-msgstr "很不错！"
 
 # scripts/events/events/dlc4/kings_guard_1_event.nut
 msgid "We'll see."
@@ -61,42 +61,46 @@ msgstr "我们拭目以待。"
 msgid "the Squire"
 msgstr ""
 
+# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
+msgid "Let's hunt!"
+msgstr "我们去打猎吧！"
+
 # scripts/events/events/dlc4/horse_race_event.nut
 msgid "No, thanks."
 msgstr "不了，谢谢。"
 
 # scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
-msgid "Let's hunt!"
-msgstr "我们去打猎吧！"
+msgid "A good hunt."
+msgstr "一场美好的狩猎。"
 
 # scripts/events/events/dlc4/sled_race_event.nut
 msgid "Holy smokes!"
 msgstr "哦，上帝呀！"
 
-# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
-msgid "A good hunt."
-msgstr "一场美好的狩猎。"
-
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
 msgid "Went missing"
 msgstr "失踪"
 
-# scripts/events/events/dlc4/lone_wolf_origin_depressing_lady_event.nut
-# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
-msgid "At %townname%"
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid " has suffered"
 msgstr ""
 
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
 msgid " is exhausted"
 msgstr " 是筋疲力尽的"
 
-# scripts/events/events/dlc4/cultist_origin_finale_event.nut
-msgid "You gain the "
-msgstr "你获得了 "
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid " went missing"
+msgstr " 失踪了"
 
-# scripts/events/events/dlc4/drunk_nobleman_event.nut
-msgid " has suffered"
+# scripts/events/events/dlc4/lone_wolf_origin_depressing_lady_event.nut
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "At %townname%"
 msgstr ""
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "I work alone."
+msgstr "我单干。"
 
 # scripts/events/events/dlc4/drunk_nobleman_event.nut
 msgid "Leave him be."
@@ -106,23 +110,9 @@ msgstr "让他自己待会儿。"
 msgid "Yes, join us."
 msgstr "是的，加入我们。"
 
-# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
-msgid "I work alone."
-msgstr "我单干。"
-
-# scripts/events/events/dlc4/wild_dog_sounds_event.nut
-msgid " went missing"
-msgstr " 失踪了"
-
-# scripts/events/events/dlc4/cultist_origin_armor_event.nut
-# scripts/events/events/dlc4/barbarian_tells_story_event.nut
-# scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
 # scripts/events/events/dlc4/cultist_origin_finale_event.nut
-# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
-# scripts/events/events/dlc4/cultist_origin_hood_event.nut
-# scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
-msgid "During camp..."
-msgstr "露营时…"
+msgid "You gain the "
+msgstr "你获得了 "
 
 # scripts/events/events/dlc4/sled_race_event.nut
 # scripts/events/events/dlc4/horse_race_event.nut
@@ -134,41 +124,46 @@ msgstr "露营时…"
 msgid " gains [color="
 msgstr " 获得了 [color="
 
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+msgid " loses [color="
+msgstr ""
+
+# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
+msgid "A decent hunt."
+msgstr "一场还不错的狩猎。"
+
 # scripts/events/events/dlc4/cultist_origin_armor_event.nut
 # scripts/events/events/dlc4/cultist_origin_hood_event.nut
 # scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
 msgid "Davkul awaits."
 msgstr "达库尔即将降临。"
 
+# scripts/events/events/dlc4/cultist_origin_armor_event.nut
+# scripts/events/events/dlc4/barbarian_tells_story_event.nut
+# scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+# scripts/events/events/dlc4/cultist_origin_hood_event.nut
+# scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
+msgid "During camp..."
+msgstr "露营时…"
+
 # scripts/events/events/dlc4/drunk_nobleman_event.nut
 msgid "We'll rob him."
 msgstr "我们要抢劫他。"
-
-# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
-msgid "A decent hunt."
-msgstr "一场还不错的狩猎。"
-
-# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
-msgid " loses [color="
-msgstr ""
-
-# scripts/events/events/dlc4/horse_race_event.nut
-# scripts/events/events/dlc4/drunk_nobleman_event.nut
-msgid "[/color] Crowns"
-msgstr ""
 
 # scripts/events/events/dlc4/horse_race_event.nut
 msgid " racing a horse"
 msgstr ""
 
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid "Absolutely not!"
+msgstr "绝对不行！"
+
 # scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
 # scripts/events/events/dlc4/cultist_origin_finale_event.nut
 msgid "Appeased Davkul"
 msgstr "抚慰达库尔"
-
-# scripts/events/events/dlc4/raiders_origin_redemption_event.nut
-msgid "Make it happen."
-msgstr "让这个事成真。"
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid "I need a drink."
@@ -178,14 +173,14 @@ msgstr "我需要喝一杯。"
 msgid "Just ignore it."
 msgstr "别理它。"
 
-# scripts/events/events/dlc4/cultist_origin_finale_event.nut
-msgid "Absolutely not!"
-msgstr "绝对不行！"
+# scripts/events/events/dlc4/raiders_origin_redemption_event.nut
+msgid "Make it happen."
+msgstr "让这个事成真。"
 
 # scripts/events/events/dlc4/horse_race_event.nut
 # scripts/events/events/dlc4/drunk_nobleman_event.nut
-msgid "You gain [color="
-msgstr "你获得了 [color="
+msgid "[/color] Crowns"
+msgstr ""
 
 # scripts/events/events/dlc4/sled_race_event.nut
 # scripts/events/events/dlc4/barbarian_volunteer_event.nut
@@ -199,24 +194,29 @@ msgstr "你获得了 [color="
 msgid "Along the way..."
 msgstr "在途中…"
 
-# scripts/events/events/dlc4/horse_race_event.nut
-# scripts/events/events/dlc4/raiders_origin_redemption_event.nut
-# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
-msgid "You lose [color="
-msgstr "你失去了 [color="
-
 # scripts/events/events/dlc4/sled_race_event.nut
 # scripts/events/events/dlc4/barbarian_tells_story_event.nut
 msgid "Felt entertained"
 msgstr "感到愉快"
 
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "What can you do?"
+msgstr "你能做什么？"
+
 # scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
 msgid "You gain Venison"
 msgstr "你获得了鹿肉"
 
-# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
-msgid "What can you do?"
-msgstr "你能做什么？"
+# scripts/events/events/dlc4/horse_race_event.nut
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "You gain [color="
+msgstr "你获得了 [color="
+
+# scripts/events/events/dlc4/horse_race_event.nut
+# scripts/events/events/dlc4/raiders_origin_redemption_event.nut
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "You lose [color="
+msgstr "你失去了 [color="
 
 # scripts/events/events/dlc4/cultist_origin_flock_event.nut
 # scripts/events/events/dlc4/horse_race_event.nut
@@ -230,10 +230,6 @@ msgid "Along the road..."
 msgstr "在路上…"
 
 # scripts/events/events/dlc4/drunk_nobleman_event.nut
-msgid "Your relation to "
-msgstr ""
-
-# scripts/events/events/dlc4/drunk_nobleman_event.nut
 msgid "Back to the road."
 msgstr "该上路了。"
 
@@ -245,12 +241,24 @@ msgstr "勇敢的小家伙。"
 msgid "He awaits us all."
 msgstr "他即将降临到我们。"
 
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "Your relation to "
+msgstr ""
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "You met %name% in "
+msgstr ""
+
 # scripts/events/events/dlc4/raiders_origin_redemption_event.nut
 msgid "Your relations to "
 msgstr ""
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
-msgid "You met %name% in "
+msgid "Now I need a drink."
+msgstr "现在我需要喝一杯。"
+
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "[/color] Ammunition"
 msgstr ""
 
 # scripts/events/events/dlc4/horse_race_event.nut
@@ -264,14 +272,6 @@ msgstr ""
 msgid "]+2[/color] Resolve"
 msgstr ""
 
-# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
-msgid "[/color] Ammunition"
-msgstr ""
-
-# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
-msgid "Now I need a drink."
-msgstr "现在我需要喝一杯。"
-
 # scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
 msgid "]-1[/color] Resolve"
 msgstr ""
@@ -279,6 +279,10 @@ msgstr ""
 # scripts/events/events/dlc4/horse_race_event.nut
 msgid "Felt entertained by "
 msgstr "感到愉快来自 "
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "Get your sleep, kid."
+msgstr "睡吧孩子。"
 
 # scripts/events/events/dlc4/drunk_nobleman_event.nut
 msgid "Rest easy, stranger."
@@ -289,17 +293,13 @@ msgstr "好好休息吧，陌生人。"
 msgid "Sacrificed to Davkul"
 msgstr "献祭给达库尔"
 
-# scripts/events/events/dlc4/adopt_warhound_event.nut
-msgid "Warrior the Warhound"
-msgstr ""
-
-# scripts/events/events/dlc4/wild_dog_sounds_event.nut
-msgid "Get your sleep, kid."
-msgstr "睡吧孩子。"
-
 # scripts/events/events/dlc4/cultist_origin_finale_event.nut
 msgid "Speak to me, Davkul."
 msgstr "对我说话，达库尔。"
+
+# scripts/events/events/dlc4/adopt_warhound_event.nut
+msgid "Warrior the Warhound"
+msgstr ""
 
 # scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
 msgid "Davkul awaits us all."
@@ -313,102 +313,102 @@ msgstr "别对其他人说。"
 msgid "]-2000[/color] Crowns"
 msgstr "]-2000[/color] 克朗"
 
-# scripts/events/events/dlc4/sled_race_event.nut
-msgid "]+1[/color] Initiative"
-msgstr ""
-
-# scripts/events/events/dlc4/drunk_nobleman_event.nut
-msgid "Let's see what he had."
-msgstr "让我们看看他有什么。"
-
-# scripts/events/events/dlc4/traveler_north_event.nut
-msgid "We need another drink."
-msgstr "我们需要再来一杯。"
-
 # scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
 msgid "A reminder for us all."
 msgstr "一个对我们所有人的预示。"
-
-# scripts/events/events/dlc4/kings_guard_2_event.nut
-msgid "]+15[/color] Hitpoints"
-msgstr ""
-
-# scripts/events/events/dlc4/wild_dog_sounds_event.nut
-msgid "Grow a pair, you gits."
-msgstr "加强警备，白痴们。"
 
 # scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
 msgid "Damn those scroundels!"
 msgstr "这帮该死的鼠辈！"
 
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "Grow a pair, you gits."
+msgstr "加强警备，白痴们。"
+
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "Let's see what he had."
+msgstr "让我们看看他有什么。"
+
 # scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
 msgid "Show him the darkness."
 msgstr "向他展示黑暗吧。"
 
-# scripts/events/events/dlc4/kings_guard_2_event.nut
-msgid "]+10[/color] Initiative"
-msgstr ""
-
 # scripts/events/events/dlc4/traveler_north_event.nut
-msgid "No, keep your distance."
-msgstr "不，你离远点。"
+msgid "We need another drink."
+msgstr "我们需要再来一杯。"
 
-# scripts/events/events/dlc4/horse_race_event.nut
-msgid "]+1[/color] Max Fatigue"
+# scripts/events/events/dlc4/kings_guard_2_event.nut
+msgid "]+15[/color] Hitpoints"
 msgstr ""
 
-# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
-msgid "Have you killed anyone?"
-msgstr "你杀过人么？"
+# scripts/events/events/dlc4/sled_race_event.nut
+msgid "]+1[/color] Initiative"
+msgstr ""
 
 # scripts/events/events/dlc4/cultist_origin_finale_event.nut
 msgid "And with him, darkness."
 msgstr "还有和他在一起的，黑暗。"
 
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "Have you killed anyone?"
+msgstr "你杀过人么？"
+
+# scripts/events/events/dlc4/traveler_north_event.nut
+msgid "No, keep your distance."
+msgstr "不，你离远点。"
+
 # scripts/events/events/dlc4/kings_guard_2_event.nut
-msgid "]+10[/color] Max Fatigue"
+msgid "]+10[/color] Initiative"
+msgstr ""
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "]+1[/color] Max Fatigue"
 msgstr ""
 
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
-msgid "]+200[/color] Experience"
-msgstr ""
+msgid "Had a good night's sleep"
+msgstr "睡个好觉"
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "I take you as my squire."
+msgstr "我会带上你做我的扈从。"
+
+# scripts/events/events/dlc4/adopt_warhound_event.nut
+msgid "I'll call you 'Warrior'."
+msgstr "我以后叫你“勇士”。"
+
+# scripts/events/events/dlc4/kings_guard_2_event.nut
+msgid "Is his former self again"
+msgstr "重新成为昔日的自己"
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "To arms, you deaf fools!"
+msgstr "拿起武器，你们这群聋子！"
 
 # scripts/events/events/dlc4/barbarian_volunteer_event.nut
 # scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
 msgid "We have no need for you."
 msgstr "我们不需要你。"
 
-# scripts/events/events/dlc4/adopt_warhound_event.nut
-msgid "I'll call you 'Warrior'."
-msgstr "我以后叫你“勇士”。"
-
-# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
-msgid "I take you as my squire."
-msgstr "我会带上你做我的扈从。"
-
 # scripts/events/events/dlc4/kings_guard_2_event.nut
-msgid "Is his former self again"
-msgstr "重新成为昔日的自己"
+msgid "]+10[/color] Max Fatigue"
+msgstr ""
 
 # scripts/events/events/dlc4/kings_guard_2_event.nut
 msgid "]+12[/color] Melee Skill"
 msgstr "]+12[/color] 近战技能"
 
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
-msgid "Had a good night's sleep"
-msgstr "睡个好觉"
-
-# scripts/events/events/dlc4/wild_dog_sounds_event.nut
-msgid "To arms, you deaf fools!"
-msgstr "拿起武器，你们这群聋子！"
-
-# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
-msgid "[/color] Medical Supplies"
-msgstr ""
+msgid "]+200[/color] Experience"
+msgstr "]+200[/color] 经验值"
 
 # scripts/events/events/dlc4/sled_race_event.nut
 msgid "Blind leading the seeing."
 msgstr "老天开眼了。"
+
+# scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
+msgid "Davkul does not want him."
+msgstr "达库尔并不想要他。"
 
 # scripts/events/events/dlc4/horse_race_event.nut
 msgid "He'll be alright. Pay up."
@@ -418,13 +418,25 @@ msgstr "他会没事的，付钱吧。"
 msgid "We have no need for this."
 msgstr "我们不必如此。"
 
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "[/color] Medical Supplies"
+msgstr ""
+
 # scripts/events/events/dlc4/kings_guard_2_event.nut
 msgid "]+7[/color] Melee Defense"
 msgstr "]+7[/color] 近战防御"
 
-# scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
-msgid "Davkul does not want him."
-msgstr "达库尔并不想要他。"
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "Had an excellent adventure"
+msgstr "经历了一次极好的冒险"
+
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "Hell of a haul, I suppose."
+msgstr "我觉得这是一趟地狱之旅。"
+
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid "Horrified by the death of "
+msgstr "被死亡吓坏了，死的是 "
 
 # scripts/events/events/dlc4/kings_guard_1_event.nut
 msgid "It's already over for you."
@@ -434,26 +446,6 @@ msgstr "这是你的归宿。"
 msgid "]+7[/color] Ranged Defense"
 msgstr "]+7[/color] 远程防御"
 
-# scripts/events/events/dlc4/wild_dog_sounds_event.nut
-msgid "Hell of a haul, I suppose."
-msgstr "我觉得这是一趟地狱之旅。"
-
-# scripts/events/events/dlc4/wild_dog_sounds_event.nut
-msgid "Had an excellent adventure"
-msgstr "经历了一次极好的冒险"
-
-# scripts/events/events/dlc4/cultist_origin_finale_event.nut
-msgid "Horrified by the death of "
-msgstr "被死亡吓坏了，死的是 "
-
-# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
-msgid "[/color] Tools and Supplies"
-msgstr ""
-
-# scripts/events/events/dlc4/horse_race_event.nut
-msgid "It was quite the amusement."
-msgstr "这确实是很有意思的娱乐。"
-
 # scripts/events/events/dlc4/adopt_warhound_event.nut
 msgid "He'll fit right in with us."
 msgstr "他会很适合我们的。"
@@ -462,9 +454,17 @@ msgstr "他会很适合我们的。"
 msgid "It is done, and it is good."
 msgstr "它被做出来了，而且它很好。"
 
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "It was quite the amusement."
+msgstr "这确实是很有意思的娱乐。"
+
 # scripts/events/events/dlc4/cultist_origin_finale_event.nut
 msgid "The sacrifice must be made."
 msgstr "这场献祭一定要进行。"
+
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "[/color] Tools and Supplies"
+msgstr ""
 
 # scripts/events/events/dlc4/horse_race_event.nut
 msgid "Lose some pounds, would you?"
@@ -474,17 +474,17 @@ msgstr "这可是输了钱的，你会再来一次么？"
 msgid "There's time for this later."
 msgstr "这事儿先缓缓吧。"
 
-# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
-msgid "Welcome to the %companyname%!"
-msgstr "欢迎加入 %companyname%！"
+# scripts/events/events/dlc4/ijirok_1_event.nut
+msgid "And keep your wits about you."
+msgstr "你还要保持脑子清醒。"
 
 # scripts/events/events/dlc4/adopt_warhound_event.nut
 msgid "Lets call him 'Warrior' then."
 msgstr "我们以后就叫他“勇士”吧。"
 
-# scripts/events/events/dlc4/ijirok_1_event.nut
-msgid "And keep your wits about you."
-msgstr "你还要保持脑子清醒。"
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid "Welcome to the %companyname%!"
+msgstr "欢迎加入 %companyname%！"
 
 # scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
 msgid "Horrified by the sacrifice of "
@@ -494,6 +494,14 @@ msgstr "被献祭吓坏了，献祭的是 "
 msgid "Just put it out of its misery."
 msgstr "给他个痛快的吧，让它从痛苦中解脱。"
 
+# scripts/events/events/dlc4/wild_dog_sounds_event.nut
+msgid "Didn't get a good night's sleep"
+msgstr "没有睡好觉"
+
+# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
+msgid "Has become a squire to a knight"
+msgstr "成为骑士的扈从"
+
 # scripts/events/events/dlc4/sled_race_event.nut
 msgid "Someone step forward and do it!"
 msgstr "有人站出来了！"
@@ -502,53 +510,45 @@ msgstr "有人站出来了！"
 msgid "Why is he looking at %servant%?"
 msgstr "为什么他在盯着 %servant%？"
 
-# scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
-msgid "Has become a squire to a knight"
-msgstr "成为骑士的扈从"
-
-# scripts/events/events/dlc4/wild_dog_sounds_event.nut
-msgid "Didn't get a good night's sleep"
-msgstr "没有睡好觉"
-
 # scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
 msgid " has been converted to a Cultist"
 msgstr " 已经转化成了异教徒"
-
-# scripts/events/events/dlc4/kings_guard_1_event.nut
-msgid "We have a place for you, friend."
-msgstr "我们给你一个容身之处，朋友。"
-
-# scripts/events/events/dlc4/lone_wolf_origin_depressing_lady_event.nut
-msgid "This world is what I make of it."
-msgstr "我会改变这个世界的。"
 
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
 msgid "Problem good as solved, I guess."
 msgstr "我想问题已经解决了。"
 
-# scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
-msgid "Was denied the chance to convert "
-msgstr "被剥夺了转化的机会，准备转化的是 "
+# scripts/events/events/dlc4/lone_wolf_origin_depressing_lady_event.nut
+msgid "This world is what I make of it."
+msgstr "我会改变这个世界的。"
+
+# scripts/events/events/dlc4/kings_guard_1_event.nut
+msgid "We have a place for you, friend."
+msgstr "我们给你一个容身之处，朋友。"
+
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+msgid "Let's get godly with the goriest!"
+msgstr "让我们用最血腥的方式来尊敬古老神明吧！"
 
 # scripts/events/events/dlc4/sled_race_event.nut
 msgid "Looks like %fat% is volunteering."
 msgstr "看起来 %fat% 想来试试。"
 
-# scripts/events/events/dlc4/barbarian_volunteer_event.nut
-msgid "You've found a new tribe, friend."
-msgstr "你已经找到了一个新的部落，朋友。"
-
 # scripts/events/events/dlc4/drunk_nobleman_event.nut
 msgid "Ol' thief sniffed that right out."
 msgstr "哦，小贼要被吓得哭鼻子了。"
+
+# scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
+msgid "Was denied the chance to convert "
+msgstr "被剥夺了转化的机会，准备转化的是 "
 
 # scripts/events/events/dlc4/kings_guard_1_event.nut
 msgid "You're on your own in this world."
 msgstr "在这个世界上，你只能自食其力。"
 
-# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
-msgid "Let's get godly with the goriest!"
-msgstr "让我们用最血腥的方式来尊敬古老神明吧！"
+# scripts/events/events/dlc4/barbarian_volunteer_event.nut
+msgid "You've found a new tribe, friend."
+msgstr "你已经找到了一个新的部落，朋友。"
 
 # scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
 msgid "May the darkness be ever infinite."
@@ -570,10 +570,6 @@ msgstr "也许 %thief% 可以减轻他的负担。"
 msgid "Was bribed to have dealings with you"
 msgstr ""
 
-# scripts/events/events/dlc4/drunk_nobleman_event.nut
-msgid "Finally got paid for a job while back"
-msgstr "回来的时候终于有了工作的报酬"
-
 # scripts/events/events/dlc4/ijirok_3_event.nut
 msgid "All sorts of strange in these wastes."
 msgstr "这片荒地上全是奇怪的东西。"
@@ -583,28 +579,24 @@ msgid "Davkul awaits, we need not go to him."
 msgstr "达库尔即将降临，我们不需要麻烦他。"
 
 # scripts/events/events/dlc4/drunk_nobleman_event.nut
-msgid "Good job doing that thing awhile back."
-msgstr "没花多长时间嘛，做的不错。"
+msgid "Finally got paid for a job while back"
+msgstr "回来的时候终于有了工作的报酬"
 
 # scripts/events/events/dlc4/lone_wolf_origin_another_squire_event.nut
 msgid "Confused about his role as your squire"
 msgstr ""
 
-# scripts/events/events/dlc4/cultist_origin_finale_event.nut
-msgid "Was denied the chance to appease Davkul"
-msgstr "被剥夺了抚慰达库尔的机会"
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+msgid "Good job doing that thing awhile back."
+msgstr "没花多长时间嘛，做的不错。"
 
 # scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
 msgid "Lost composure and resorted to violence"
 msgstr "失去镇静，诉诸暴力"
 
-# scripts/events/events/dlc4/sled_race_event.nut
-msgid "Looks like %shortsighted% is volunteering."
-msgstr "看起来 %shortsighted% 想来试试。"
-
-# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
-msgid "This mercenary work is dulling our senses."
-msgstr "这种雇佣兵的工作使我们麻木不仁。"
+# scripts/events/events/dlc4/cultist_origin_finale_event.nut
+msgid "Was denied the chance to appease Davkul"
+msgstr "被剥夺了抚慰达库尔的机会"
 
 # scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
 msgid "%sac1% will have the honor to meet Davkul."
@@ -618,25 +610,33 @@ msgstr "%sac2% 将会获得去见达库尔的荣耀。"
 msgid "I'm glad we found you on that fateful day."
 msgstr "我很高兴我们在正确的时间遇到你。"
 
+# scripts/events/events/dlc4/sled_race_event.nut
+msgid "Looks like %shortsighted% is volunteering."
+msgstr "看起来 %shortsighted% 想来试试。"
+
+# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
+msgid "This mercenary work is dulling our senses."
+msgstr "这种雇佣兵的工作使我们麻木不仁。"
+
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
 msgid "You're a hunter, %hunter%, go take a look."
 msgstr "你是个猎人，%hunter%，你去看看吧。"
-
-# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
-msgid "Was denied the chance to enlighten a cultist"
-msgstr "被剥夺了启发异教者的机会"
 
 # scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
 msgid " before he volunteered to join your company."
 msgstr ""
 
-# scripts/events/events/dlc4/sled_race_event.nut
-msgid "We have more important things to take care of."
-msgstr "我们有更重要的事要做。"
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+msgid "Was denied the chance to enlighten a cultist"
+msgstr "被剥夺了启发异教者的机会"
 
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
 msgid "Concerned that there's something big out there"
 msgstr "担心外面有大事"
+
+# scripts/events/events/dlc4/sled_race_event.nut
+msgid "We have more important things to take care of."
+msgstr "我们有更重要的事要做。"
 
 # scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
 msgid "%name% deserted an army regiment together with "
@@ -654,21 +654,21 @@ msgstr "派新手去也许不是一个好主意。"
 msgid "Rumored to have robbed a family member on the road"
 msgstr "传闻在路上抢劫了一个家族的成员"
 
-# scripts/events/events/dlc4/kings_guard_1_event.nut
-msgid "Got taken by barbarians and left to die in the cold"
-msgstr "被野蛮人带走，留在寒冷中死去"
-
 # scripts/events/events/dlc4/adopt_warhound_event.nut
 msgid "%houndman%, you've dealt with hounds before, right?"
 msgstr ""
 
-# scripts/events/events/dlc4/horse_race_event.nut
-msgid "Very well. Someone step forward and race that horse!"
-msgstr "非常好。 来个人过去和那匹马赛跑！"
+# scripts/events/events/dlc4/kings_guard_1_event.nut
+msgid "Got taken by barbarians and left to die in the cold"
+msgstr "被野蛮人带走，留在寒冷中死去"
 
 # scripts/events/events/dlc4/horse_race_event.nut
 msgid "Our fattest man, %fat%, will race for our enjoyment."
 msgstr "我们最胖的人，%fat%，会为了给我们带来欢乐去赛跑。"
+
+# scripts/events/events/dlc4/horse_race_event.nut
+msgid "Very well. Someone step forward and race that horse!"
+msgstr "非常好。 来个人过去和那匹马赛跑！"
 
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
 msgid "You are a man of the wilds, %wildman%, go take a look."
@@ -1053,6 +1053,21 @@ msgstr ""
 "他顺理成章地倒下了，而你听见了不远处有一帮人在叫喊，但是他们是在尖叫，逃走。 像这样子的盗贼不知道该怎么和佣兵战斗。 不幸的是，越过你肩膀的弩箭击中了 "
 "%hurtbro%。他会活下来的，但是那是很严重的伤。}"
 
+# scripts/events/events/dlc4/cultist_origin_hood_event.nut
+msgid ""
+"[img]gfx/ui/events/event_03.png[/img]{%randomcultist%, one your followers, "
+"enters your tent and then just as soon leaves. You stand to see where he's "
+"gone, but come to find a leather half-helm sitting atop your table. The "
+"leather is stitched with hairs of unknown origin and pinched together by "
+"what look like hooks and fingernails. The holes of the helm are a pitch "
+"black, and you get the sense that even if you filled them the darkness would"
+" never depart. It is then, staring into those emptied sockets, that you know"
+" something is staring back. You nod approvingly.}"
+msgstr ""
+"[img]gfx/ui/events/event_03.png[/img]{%randomcultist%，你的一个追随者，进入你的帐篷，然后很快的离开了。"
+" 你站起来想看看他去哪儿了，却发现你的桌子上放着一顶皮头盔。 这种皮革是用来历不明的毛发缝制而成，然后用看似钩子和指甲的东西把它们夹在一起。 "
+"头盔上的洞是漆黑一片，你能感觉到即使你把它们填满，黑暗也永远不会消失。 然后，盯着头盔上那些空槽，你知道有什么东西在盯着你。你赞许地点头。}"
+
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
 msgid ""
 "[img]gfx/ui/events/event_33.png[/img]{You tell the company to plug their "
@@ -1068,21 +1083,6 @@ msgstr ""
 "大伙随即用蜡球堵上耳朵来应对野狗的狂吠声越来越大。 最终，他们又恢复到了往常傻不拉几的样子。 "
 "你也想缓解下，就拿了个蜡球堵上了一只耳朵，还没来得及堵另一只耳朵的时候仓库那边传来了巨大的碰撞声紧接着仓库帐篷坍塌了冒出大量的烟雾。 "
 "你清空了耳朵并且快速指挥着雇佣兵们分散开来。}"
-
-# scripts/events/events/dlc4/cultist_origin_hood_event.nut
-msgid ""
-"[img]gfx/ui/events/event_03.png[/img]{%randomcultist%, one your followers, "
-"enters your tent and then just as soon leaves. You stand to see where he's "
-"gone, but come to find a leather half-helm sitting atop your table. The "
-"leather is stitched with hairs of unknown origin and pinched together by "
-"what look like hooks and fingernails. The holes of the helm are a pitch "
-"black, and you get the sense that even if you filled them the darkness would"
-" never depart. It is then, staring into those emptied sockets, that you know"
-" something is staring back. You nod approvingly.}"
-msgstr ""
-"[img]gfx/ui/events/event_03.png[/img]{%randomcultist%，你的一个追随者，进入你的帐篷，然后很快的离开了。"
-" 你站起来想看看他去哪儿了，却发现你的桌子上放着一顶皮头盔。 这种皮革是用来历不明的毛发缝制而成，然后用看似钩子和指甲的东西把它们夹在一起。 "
-"头盔上的洞是漆黑一片，你能感觉到即使你把它们填满，黑暗也永远不会消失。 然后，盯着头盔上那些空槽，你知道有什么东西在盯着你。你赞许地点头。}"
 
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
 msgid ""
