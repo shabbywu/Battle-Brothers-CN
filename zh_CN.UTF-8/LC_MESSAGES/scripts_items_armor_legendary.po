@@ -38,7 +38,7 @@ msgstr "回复自身 [color="
 
 # scripts/items/armor/legendary/armor_of_davkul.nut
 msgid "]90[/color] points of durability each turn."
-msgstr ""
+msgstr "]90[/color] 点耐力(每回合)。"
 
 # scripts/items/armor/legendary/ijirok_armor.nut
 msgid "]10[/color] hitpoints of the wearer each turn"

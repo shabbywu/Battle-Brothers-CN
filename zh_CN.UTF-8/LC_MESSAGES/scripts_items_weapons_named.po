@@ -16,91 +16,91 @@ msgstr "的"
 # scripts/items/weapons/named/named_orc_axe.nut
 # scripts/items/weapons/named/named_axe.nut
 msgid "Axe, One-Handed"
-msgstr ""
+msgstr "短斧，单手持"
 
 # scripts/items/weapons/named/named_heavy_rusty_axe.nut
 # scripts/items/weapons/named/named_bardiche.nut
 # scripts/items/weapons/named/named_greataxe.nut
 # scripts/items/weapons/named/named_longaxe.nut
 msgid "Axe, Two-Handed"
-msgstr ""
+msgstr "长柄斧，双手持"
 
 # scripts/items/weapons/named/named_warbow.nut
 # scripts/items/weapons/named/named_goblin_heavy_bow.nut
 msgid "Bow, Two-Handed"
-msgstr ""
+msgstr "弓，双手持"
 
 # scripts/items/weapons/named/named_mace.nut
 msgid "Mace, One-Handed"
-msgstr ""
+msgstr "狼牙棒, 单手持"
 
 # scripts/items/weapons/named/named_polemace.nut
 # scripts/items/weapons/named/named_two_handed_mace.nut
 # scripts/items/weapons/named/named_two_handed_spiked_mace.nut
 msgid "Mace, Two-Handed"
-msgstr ""
+msgstr "狼牙棒, 双手持"
 
 # scripts/items/weapons/named/named_three_headed_flail.nut
 # scripts/items/weapons/named/named_flail.nut
 msgid "Flail, One-Handed"
-msgstr ""
+msgstr "连枷, 单手持"
 
 # scripts/items/weapons/named/named_two_handed_flail.nut
 msgid "Flail, Two-Handed"
-msgstr ""
+msgstr "连枷, 双手持"
 
 # scripts/items/weapons/named/named_spear.nut
 # scripts/items/weapons/named/named_goblin_spear.nut
 msgid "Spear, One-Handed"
-msgstr ""
+msgstr "短矛，单手持"
 
 # scripts/items/weapons/named/named_spetum.nut
 msgid "Spear, Two-Handed"
-msgstr ""
+msgstr "长矛，双手持"
 
 # scripts/items/weapons/named/named_goblin_falchion.nut
 # scripts/items/weapons/named/named_fencing_sword.nut
 # scripts/items/weapons/named/named_shamshir.nut
 # scripts/items/weapons/named/named_sword.nut
 msgid "Sword, One-Handed"
-msgstr ""
+msgstr "短剑，单手持"
 
 # scripts/items/weapons/named/named_greatsword.nut
 # scripts/items/weapons/named/named_warbrand.nut
 msgid "Sword, Two-Handed"
-msgstr ""
+msgstr "长剑，双手持"
 
 # scripts/items/weapons/named/named_qatal_dagger.nut
 # scripts/items/weapons/named/named_dagger.nut
 msgid "Dagger, One-Handed"
-msgstr ""
+msgstr "匕首，单手持"
 
 # scripts/items/weapons/named/named_warhammer.nut
 msgid "Hammer, One-Handed"
-msgstr ""
+msgstr "锤，单手持"
 
 # scripts/items/weapons/named/named_two_handed_hammer.nut
 # scripts/items/weapons/named/named_skullhammer.nut
 # scripts/items/weapons/named/named_polehammer.nut
 msgid "Hammer, Two-Handed"
-msgstr ""
+msgstr "长柄锤，双手持"
 
 # scripts/items/weapons/named/named_khopesh.nut
 # scripts/items/weapons/named/named_battle_whip.nut
 # scripts/items/weapons/named/named_orc_cleaver.nut
 # scripts/items/weapons/named/named_cleaver.nut
 msgid "Cleaver, One-Handed"
-msgstr ""
+msgstr "刀，单手持"
 
 # scripts/items/weapons/named/named_crypt_cleaver.nut
 # scripts/items/weapons/named/named_rusty_warblade.nut
 # scripts/items/weapons/named/named_two_handed_scimitar.nut
 msgid "Cleaver, Two-Handed"
-msgstr ""
+msgstr "刀，双手持"
 
 # scripts/items/weapons/named/named_handgonne.nut
 msgid "Firearm, Two-Handed"
-msgstr ""
+msgstr "散弹枪, 双手持"
 
 # scripts/items/weapons/named/named_warscythe.nut
 # scripts/items/weapons/named/named_goblin_pike.nut
@@ -109,16 +109,16 @@ msgstr ""
 # scripts/items/weapons/named/named_pike.nut
 # scripts/items/weapons/named/named_bladed_pike.nut
 msgid "Polearm, Two-Handed"
-msgstr ""
+msgstr "长柄武器，双手持"
 
 # scripts/items/weapons/named/named_crossbow.nut
 msgid "Crossbow, Two-Handed"
-msgstr ""
+msgstr "十字弩, 双手持"
 
 # scripts/items/weapons/named/named_javelin.nut
 # scripts/items/weapons/named/named_throwing_axe.nut
 msgid "Throwing Weapon, One-Handed"
-msgstr ""
+msgstr "投掷武器，单手持"
 
 # scripts/items/weapons/named/named_handgonne.nut
 # scripts/items/weapons/named/named_crossbow.nut

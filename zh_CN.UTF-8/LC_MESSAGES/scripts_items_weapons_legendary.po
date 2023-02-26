@@ -12,11 +12,11 @@ msgstr "黑曜石匕首"
 
 # scripts/items/weapons/legendary/lightbringer_sword.nut
 msgid "Sword, One-Handed"
-msgstr ""
+msgstr "短剑，单手持"
 
 # scripts/items/weapons/legendary/obsidian_dagger.nut
 msgid "Dagger, One-Handed"
-msgstr ""
+msgstr "匕首，单手持"
 
 # scripts/items/weapons/legendary/lightbringer_sword.nut
 msgid "]10[/color] - [color="

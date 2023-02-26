@@ -36,11 +36,11 @@ msgstr "生锈战刀"
 
 # scripts/items/weapons/barbarians/crude_axe.nut
 msgid "Axe, One-Handed"
-msgstr ""
+msgstr "短斧，单手持"
 
 # scripts/items/weapons/barbarians/heavy_rusty_axe.nut
 msgid "Axe, Two-Handed"
-msgstr ""
+msgstr "长柄斧，双手持"
 
 # scripts/items/weapons/barbarians/heavy_rusty_axe.nut
 msgid "Heavy Rusty Axe"
@@ -48,29 +48,29 @@ msgstr "生锈重型斧"
 
 # scripts/items/weapons/barbarians/claw_club.nut
 msgid "Mace, One-Handed"
-msgstr ""
+msgstr "狼牙棒, 单手持"
 
 # scripts/items/weapons/barbarians/two_handed_spiked_mace.nut
 msgid "Mace, Two-Handed"
-msgstr ""
+msgstr "狼牙棒, 双手持"
 
 # scripts/items/weapons/barbarians/skull_hammer.nut
 msgid "Hammer, Two-Handed"
-msgstr ""
+msgstr "长柄锤，双手持"
 
 # scripts/items/weapons/barbarians/thorned_whip.nut
 # scripts/items/weapons/barbarians/blunt_cleaver.nut
 # scripts/items/weapons/barbarians/antler_cleaver.nut
 msgid "Cleaver, One-Handed"
-msgstr ""
+msgstr "刀，单手持"
 
 # scripts/items/weapons/barbarians/rusty_warblade.nut
 msgid "Cleaver, Two-Handed"
-msgstr ""
+msgstr "刀，双手持"
 
 # scripts/items/weapons/barbarians/axehammer.nut
 msgid "Hammer/Axe, One-Handed"
-msgstr ""
+msgstr "锤斧，单手持"
 
 # scripts/items/weapons/barbarians/two_handed_spiked_mace.nut
 msgid "Two-Handed Spiked Mace"
@@ -87,7 +87,7 @@ msgstr "一捆沉重的标枪"
 # scripts/items/weapons/barbarians/heavy_throwing_axe.nut
 # scripts/items/weapons/barbarians/heavy_javelin.nut
 msgid "Throwing Weapon, One-Handed"
-msgstr ""
+msgstr "投掷武器，单手持"
 
 # scripts/items/weapons/barbarians/heavy_throwing_axe.nut
 msgid "Bundle of Heavy Throwing Axes"

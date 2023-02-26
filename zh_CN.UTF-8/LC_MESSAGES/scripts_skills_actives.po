@@ -1222,7 +1222,7 @@ msgstr ""
 
 # scripts/skills/actives/pound.nut
 msgid "]10%[/color] of armor"
-msgstr ""
+msgstr "]10%[/color] 盔甲"
 
 # scripts/skills/actives/slash_lightning.nut
 msgid "]10[/color] - [color="
@@ -1230,7 +1230,7 @@ msgstr ""
 
 # scripts/skills/actives/pound.nut
 msgid "]20%[/color] of armor"
-msgstr ""
+msgstr "]20%[/color] 盔甲"
 
 # scripts/skills/actives/throw_axe.nut
 msgid "]No axes left[/color]"
@@ -1304,7 +1304,7 @@ msgstr "[/color] 命中几率"
 # scripts/skills/actives/strike_down_skill.nut
 # scripts/skills/actives/knock_out.nut
 msgid "[/color] extra fatigue"
-msgstr ""
+msgstr "[/color] 额外疲劳"
 
 # scripts/skills/actives/throw_javelin.nut
 msgid "[/color] javelins left"

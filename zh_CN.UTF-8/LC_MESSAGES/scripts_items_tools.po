@@ -90,7 +90,7 @@ msgstr "使用时摧毁"
 
 # scripts/items/tools/player_banner.nut
 msgid "Polearm, Two-Handed"
-msgstr ""
+msgstr "长柄武器，双手持"
 
 # scripts/items/tools/holy_water_item.nut
 msgid "Flask of Blessed Water"
