@@ -56,46 +56,46 @@ msgstr "尖刺者"
 
 # scripts/items/weapons/greenskins/orc_axe.nut
 msgid "Axe, One-Handed"
-msgstr ""
+msgstr "短斧，单手持"
 
 # scripts/items/weapons/greenskins/orc_axe_2h.nut
 msgid "Axe, Two-Handed"
-msgstr ""
+msgstr "长柄斧，双手持"
 
 # scripts/items/weapons/greenskins/goblin_heavy_bow.nut
 # scripts/items/weapons/greenskins/goblin_bow.nut
 msgid "Bow, Two-Handed"
-msgstr ""
+msgstr "弓，双手持"
 
 # scripts/items/weapons/greenskins/orc_metal_club.nut
 # scripts/items/weapons/greenskins/orc_wooden_club.nut
 # scripts/items/weapons/greenskins/goblin_staff.nut
 msgid "Mace, One-Handed"
-msgstr ""
+msgstr "狼牙棒, 单手持"
 
 # scripts/items/weapons/greenskins/orc_flail_2h.nut
 msgid "Flail, Two-Handed"
-msgstr ""
+msgstr "连枷, 双手持"
 
 # scripts/items/weapons/greenskins/goblin_spear.nut
 msgid "Spear, One-Handed"
-msgstr ""
+msgstr "短矛，单手持"
 
 # scripts/items/weapons/greenskins/goblin_falchion.nut
 msgid "Sword, One-Handed"
-msgstr ""
+msgstr "短剑，单手持"
 
 # scripts/items/weapons/greenskins/orc_cleaver.nut
 msgid "Cleaver, One-Handed"
-msgstr ""
+msgstr "刀，单手持"
 
 # scripts/items/weapons/greenskins/goblin_pike.nut
 msgid "Polearm, Two-Handed"
-msgstr ""
+msgstr "长柄武器，双手持"
 
 # scripts/items/weapons/greenskins/goblin_crossbow.nut
 msgid "Crossbow, Two-Handed"
-msgstr ""
+msgstr "十字弩, 双手持"
 
 # scripts/items/weapons/greenskins/goblin_spiked_balls.nut
 msgid "Bundle of Spiked Bolas"
@@ -111,12 +111,12 @@ msgstr "一捆粗糙的标枪"
 
 # scripts/items/weapons/greenskins/goblin_notched_blade.nut
 msgid "Sword/Dagger, One-Handed"
-msgstr ""
+msgstr "单手剑/匕首，单手持"
 
 # scripts/items/weapons/greenskins/goblin_spiked_balls.nut
 # scripts/items/weapons/greenskins/orc_javelin.nut
 msgid "Throwing Weapon, One-Handed"
-msgstr ""
+msgstr "投掷武器，单手持"
 
 # scripts/items/weapons/greenskins/orc_javelin.nut
 msgid "Bundle of Crude Javelins (Empty)"

@@ -32,16 +32,16 @@ msgstr "墓穴砍刀"
 
 # scripts/items/weapons/ancient/ancient_spear.nut
 msgid "Spear, One-Handed"
-msgstr ""
+msgstr "短矛，单手持"
 
 # scripts/items/weapons/ancient/ancient_sword.nut
 # scripts/items/weapons/ancient/broken_ancient_sword.nut
 msgid "Sword, One-Handed"
-msgstr ""
+msgstr "短剑，单手持"
 
 # scripts/items/weapons/ancient/rhomphaia.nut
 msgid "Sword, Two-Handed"
-msgstr ""
+msgstr "长剑，双手持"
 
 # scripts/items/weapons/ancient/bladed_pike.nut
 msgid "Ancient Bladed Pike"
@@ -50,17 +50,17 @@ msgstr "古代刃枪"
 # scripts/items/weapons/ancient/falx.nut
 # scripts/items/weapons/ancient/khopesh.nut
 msgid "Cleaver, One-Handed"
-msgstr ""
+msgstr "刀，单手持"
 
 # scripts/items/weapons/ancient/crypt_cleaver.nut
 msgid "Cleaver, Two-Handed"
-msgstr ""
+msgstr "刀，双手持"
 
 # scripts/items/weapons/ancient/broken_bladed_pike.nut
 # scripts/items/weapons/ancient/bladed_pike.nut
 # scripts/items/weapons/ancient/warscythe.nut
 msgid "Polearm, Two-Handed"
-msgstr ""
+msgstr "长柄武器，双手持"
 
 # scripts/items/weapons/ancient/broken_ancient_sword.nut
 msgid "Broken Ancient Sword"

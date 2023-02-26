@@ -40,7 +40,7 @@ msgstr "复合弓"
 
 # scripts/items/weapons/oriental/composite_bow.nut
 msgid "Bow, Two-Handed"
-msgstr ""
+msgstr "弓，双手持"
 
 # scripts/items/weapons/oriental/two_handed_saif.nut
 msgid "Two-Handed Saif"
@@ -50,19 +50,19 @@ msgstr "双手赛义夫弯刀"
 # scripts/items/weapons/oriental/light_southern_mace.nut
 # scripts/items/weapons/oriental/heavy_southern_mace.nut
 msgid "Mace, One-Handed"
-msgstr ""
+msgstr "狼牙棒, 单手持"
 
 # scripts/items/weapons/oriental/polemace.nut
 msgid "Mace, Two-Handed"
-msgstr ""
+msgstr "狼牙棒, 双手持"
 
 # scripts/items/weapons/oriental/saif.nut
 msgid "Sword, One-Handed"
-msgstr ""
+msgstr "短剑，单手持"
 
 # scripts/items/weapons/oriental/qatal_dagger.nut
 msgid "Dagger, One-Handed"
-msgstr ""
+msgstr "匕首，单手持"
 
 # scripts/items/weapons/oriental/firelance.nut
 msgid "Fire Lance (Spent)"
@@ -71,11 +71,11 @@ msgstr ""
 # scripts/items/weapons/oriental/two_handed_scimitar.nut
 # scripts/items/weapons/oriental/two_handed_saif.nut
 msgid "Cleaver, Two-Handed"
-msgstr ""
+msgstr "刀，双手持"
 
 # scripts/items/weapons/oriental/handgonne.nut
 msgid "Firearm, Two-Handed"
-msgstr ""
+msgstr "散弹枪, 双手持"
 
 # scripts/items/weapons/oriental/heavy_southern_mace.nut
 msgid "Heavy Southern Mace"
@@ -87,7 +87,7 @@ msgstr "轻型南方狼牙棒"
 
 # scripts/items/weapons/oriental/swordlance.nut
 msgid "Polearm, Two-Handed"
-msgstr ""
+msgstr "长柄武器，双手持"
 
 # scripts/items/weapons/oriental/two_handed_scimitar.nut
 msgid "Two-Handed Scimitar"
@@ -95,11 +95,11 @@ msgstr "双手弯刀"
 
 # scripts/items/weapons/oriental/firelance.nut
 msgid "Spear/Firearm, One-Handed"
-msgstr ""
+msgstr "喷火器, 单手持"
 
 # scripts/items/weapons/oriental/nomad_sling.nut
 msgid "Throwing Weapon, Two-Handed"
-msgstr ""
+msgstr "投掷武器，双手持"
 
 # scripts/items/weapons/oriental/handgonne.nut
 msgid "]Must be reloaded before firing again[/color]"

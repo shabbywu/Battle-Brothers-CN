@@ -20,7 +20,7 @@ msgstr "回复自身 [color="
 
 # scripts/items/shields/special/craftable_schrat_shield.nut
 msgid "]20[/color] points of durability each turn."
-msgstr ""
+msgstr "]20[/color] 点耐力(每回合)。"
 
 # scripts/items/shields/special/craftable_kraken_shield.nut
 msgid ""
