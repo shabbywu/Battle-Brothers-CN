@@ -64,12 +64,12 @@ msgid "We need more payment in advance."
 msgstr "我们需要更多的预付款。"
 
 # scripts/contracts/templates/negotiation_templates.nut
-msgid "Contract negotiations turned sour"
-msgstr "合同谈判变糟了"
-
-# scripts/contracts/templates/negotiation_templates.nut
 msgid "We need to be paid more for this."
 msgstr "我们需要更多的报酬。"
+
+# scripts/contracts/templates/negotiation_templates.nut
+msgid "Contract negotiations turned sour"
+msgstr "合同谈判变糟了"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "We need payment once the work is done."
@@ -80,20 +80,12 @@ msgid " crowns per head you bring back, up to "
 msgstr " 克朗，为你带回的每个人头， up to "
 
 # scripts/contracts/templates/negotiation_templates.nut
-msgid " crowns per head you arrive with, up to "
-msgstr " 克朗你每带回一个人头，总共最多给"
-
-# scripts/contracts/templates/negotiation_templates.nut
 msgid "I'll need some time to think about this."
 msgstr "我需要一些时间来考虑考虑。"
 
 # scripts/contracts/templates/negotiation_templates.nut
-msgid "We need more payment once the work is done."
-msgstr "工作完成后我们需要更多的报酬。"
-
-# scripts/contracts/templates/negotiation_templates.nut
-msgid "We need to be paid per head we arrive with."
-msgstr "我们需要按照我们带来的人头数付款。"
+msgid " crowns per head you arrive with, up to "
+msgstr " 克朗你每带回一个人头，总共最多给"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "On second thought, I decline this contract."
@@ -104,16 +96,24 @@ msgid "We need to be paid per head we return with."
 msgstr "我们需要你为每个人头付钱。"
 
 # scripts/contracts/templates/negotiation_templates.nut
+msgid "We need more payment once the work is done."
+msgstr "工作完成后我们需要更多的报酬。"
+
+# scripts/contracts/templates/negotiation_templates.nut
+msgid "We need to be paid per head we arrive with."
+msgstr "我们需要按照我们带来的人头数付款。"
+
+# scripts/contracts/templates/negotiation_templates.nut
 msgid "We won't risk our lives for such meager pay..."
 msgstr "我们不会为了微薄的报酬而冒生命危险…"
 
 # scripts/contracts/templates/negotiation_templates.nut
-msgid "We need to be paid more per head we return with."
-msgstr "我们需要你为每个人头付更多的钱。"
-
-# scripts/contracts/templates/negotiation_templates.nut
 msgid "We need to be paid more per head we arrive with."
 msgstr "我们需要为我们带来的每个人头数付更多的款。"
+
+# scripts/contracts/templates/negotiation_templates.nut
+msgid "We need to be paid more per head we return with."
+msgstr "我们需要你为每个人头付更多的钱。"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "You'll be paid nothing. Is that what you want?%SPEECH_OFF%"
@@ -187,22 +187,22 @@ msgstr ""
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
 "{You'll get | You are to receive | You'll be paid | It's} %reward_count% "
-"crowns per head you return with, {for up to %maxcount% heads | and I'll pay "
+"crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay "
 "for up to %maxcount% heads | %maxcount% heads at most}, and another "
 "%reward_completion% when the job is done.%SPEECH_OFF%"
 msgstr ""
-"每带回一个人头 {你会得到|你会收到|我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 "
+"每带来一个人头 {你会得到|你会收到|我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 "
 "%maxcount% 个头的钱 }。合同完成后 {你会再得到 | 你会再收到 | 我会再给你} %reward_completion% "
 "克朗。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
 "{You'll get | You are to receive | You'll be paid | It's} %reward_count% "
-"crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay "
+"crowns per head you return with, {for up to %maxcount% heads | and I'll pay "
 "for up to %maxcount% heads | %maxcount% heads at most}, and another "
 "%reward_completion% when the job is done.%SPEECH_OFF%"
 msgstr ""
-"每带来一个人头 {你会得到|你会收到|我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 "
+"每带回一个人头 {你会得到|你会收到|我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 "
 "%maxcount% 个头的钱 }。合同完成后 {你会再得到 | 你会再收到 | 我会再给你} %reward_completion% "
 "克朗。%SPEECH_OFF%"
 

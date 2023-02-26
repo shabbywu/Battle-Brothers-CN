@@ -6,14 +6,14 @@ msgstr ""
 msgid "Hex"
 msgstr "妖法"
 
+# scripts/skills/actives/hail_skill.nut
+msgid "Hail"
+msgstr "冰雹"
+
 # scripts/skills/actives/goblin_whip.nut
 # scripts/skills/actives/whip_skill.nut
 msgid "Whip"
 msgstr "鞭子"
-
-# scripts/skills/actives/hail_skill.nut
-msgid "Hail"
-msgstr "冰雹"
 
 # scripts/skills/actives/gash_skill.nut
 msgid "Gash"
@@ -40,6 +40,10 @@ msgid "Fade"
 msgstr ""
 
 # scripts/skills/actives/bash.nut
+msgid "bash"
+msgstr ""
+
+# scripts/skills/actives/bash.nut
 msgid "Bash"
 msgstr "重击"
 
@@ -50,6 +54,10 @@ msgstr "重击"
 # scripts/skills/actives/warhound_bite.nut
 msgid "Bite"
 msgstr "咬"
+
+# scripts/skills/actives/hook.nut
+msgid "hook"
+msgstr ""
 
 # scripts/skills/actives/hook.nut
 msgid "Hook"
@@ -68,8 +76,16 @@ msgid "Reap"
 msgstr "收割"
 
 # scripts/skills/actives/chop.nut
+msgid "chop"
+msgstr ""
+
+# scripts/skills/actives/chop.nut
 msgid "Chop"
 msgstr "劈剁"
+
+# scripts/skills/actives/stab.nut
+msgid "stab"
+msgstr ""
 
 # scripts/skills/actives/stab.nut
 msgid "Stab"
@@ -86,6 +102,14 @@ msgstr "连枷"
 # scripts/skills/actives/charm_skill.nut
 msgid "Charm"
 msgstr "魅惑"
+
+# scripts/skills/actives/taunt.nut
+msgid "taunt"
+msgstr ""
+
+# scripts/skills/actives/swing.nut
+msgid "swing"
+msgstr ""
 
 # scripts/skills/actives/swing.nut
 # scripts/skills/actives/ghost_swing_skill.nut
@@ -104,11 +128,19 @@ msgstr "集结"
 msgid "Slash"
 msgstr "挥砍"
 
+# scripts/skills/actives/slash.nut
+msgid "slash"
+msgstr ""
+
 # scripts/skills/actives/split.nut
 # scripts/skills/actives/ghost_split_skill.nut
 # scripts/skills/actives/split_axe.nut
 msgid "Split"
 msgstr "劈击"
+
+# scripts/skills/actives/split.nut
+msgid "split"
+msgstr ""
 
 # scripts/skills/actives/gorge_skill.nut
 msgid "Gorge"
@@ -127,8 +159,16 @@ msgid "Prong"
 msgstr "叉"
 
 # scripts/skills/actives/pound.nut
+msgid "pound"
+msgstr ""
+
+# scripts/skills/actives/pound.nut
 msgid "Pound"
 msgstr "砸击"
+
+# scripts/skills/actives/repel.nut
+msgid "repel"
+msgstr ""
 
 # scripts/skills/actives/repel.nut
 msgid "Repel"
@@ -153,6 +193,10 @@ msgid "Uproot"
 msgstr "拔除"
 
 # scripts/skills/actives/impale.nut
+msgid "impale"
+msgstr ""
+
+# scripts/skills/actives/impale.nut
 msgid "Impale"
 msgstr "刺穿"
 
@@ -168,10 +212,18 @@ msgstr ""
 msgid "Cleave"
 msgstr "劈开"
 
+# scripts/skills/actives/cleave.nut
+msgid "cleave"
+msgstr ""
+
 # scripts/skills/actives/spearwall.nut
 # scripts/skills/actives/thrust.nut
 msgid "Thrust"
 msgstr "戳击"
+
+# scripts/skills/actives/charge.nut
+msgid "charge"
+msgstr ""
 
 # scripts/skills/actives/charge.nut
 msgid "Charge"
@@ -184,6 +236,14 @@ msgstr ""
 # scripts/skills/actives/thresh.nut
 msgid "Thresh"
 msgstr "回旋"
+
+# scripts/skills/actives/thresh.nut
+msgid "thresh"
+msgstr ""
+
+# scripts/skills/actives/hammer.nut
+msgid "hammer"
+msgstr ""
 
 # scripts/skills/actives/hammer.nut
 # scripts/skills/actives/batter_skill.nut
@@ -221,8 +281,16 @@ msgid " dazed"
 msgstr ""
 
 # scripts/skills/actives/warcry.nut
+msgid "warcry"
+msgstr ""
+
+# scripts/skills/actives/warcry.nut
 msgid "Warcry"
 msgstr "战吼"
+
+# scripts/skills/actives/thrust.nut
+msgid "thrust"
+msgstr ""
 
 # scripts/skills/actives/disarm_skill.nut
 msgid "Disarm"
@@ -311,12 +379,20 @@ msgstr "隐身"
 msgid "Mangled"
 msgstr "撕烂"
 
+# scripts/skills/actives/riposte.nut
+msgid "riposte"
+msgstr ""
+
 # scripts/skills/actives/prong_skill.nut
 msgid "Pronged"
 msgstr "叉"
 
 # scripts/skills/actives/hex_skill.nut
 msgid " hexes "
+msgstr ""
+
+# scripts/skills/actives/rupture.nut
+msgid "rupture"
 msgstr ""
 
 # scripts/skills/actives/rupture.nut
@@ -348,15 +424,15 @@ msgid "ffffff00"
 msgstr ""
 
 # scripts/skills/actives/throw_dirt_skill.nut
+msgid "eeeeeeee"
+msgstr ""
+
+# scripts/skills/actives/throw_dirt_skill.nut
 msgid "eeeeee00"
 msgstr ""
 
 # scripts/skills/actives/alp_teleport_skill.nut
 msgid "ffffff2f"
-msgstr ""
-
-# scripts/skills/actives/throw_dirt_skill.nut
-msgid "eeeeeeee"
 msgstr ""
 
 # scripts/skills/actives/alp_teleport_skill.nut
@@ -387,6 +463,10 @@ msgstr ""
 msgid " withers"
 msgstr ""
 
+# scripts/skills/actives/footwork.nut
+msgid "footwork"
+msgstr ""
+
 # scripts/skills/actives/headbutt_skill.nut
 msgid "Headbutt"
 msgstr "头锤"
@@ -398,6 +478,14 @@ msgstr ""
 # scripts/skills/actives/puncture.nut
 msgid "Puncture"
 msgstr "穿刺"
+
+# scripts/skills/actives/puncture.nut
+msgid "puncture"
+msgstr ""
+
+# scripts/skills/actives/rotation.nut
+msgid "rotation"
+msgstr ""
 
 # scripts/skills/actives/throw_spear_skill.nut
 # scripts/skills/actives/split_shield.nut
@@ -411,6 +499,10 @@ msgstr "自由盟友"
 # scripts/skills/actives/spearwall.nut
 msgid "Spearwall"
 msgstr "矛墙"
+
+# scripts/skills/actives/spearwall.nut
+msgid "spearwall"
+msgstr ""
 
 # scripts/skills/actives/first_aid_skill.nut
 msgid "First Aid"
@@ -476,17 +568,21 @@ msgstr "衰弱"
 msgid "Adrenaline"
 msgstr "肾上腺素"
 
-# scripts/skills/actives/break_free_skill.nut
-msgid ", Rolled: "
-msgstr ""
-
 # scripts/skills/actives/shieldwall.nut
 msgid "Shieldwall"
 msgstr "盾墙"
 
+# scripts/skills/actives/break_free_skill.nut
+msgid ", Rolled: "
+msgstr ""
+
 # scripts/skills/actives/quick_shot.nut
 msgid "Quick Shot"
 msgstr "急速射击"
+
+# scripts/skills/actives/decapitate.nut
+msgid "decapitate"
+msgstr ""
 
 # scripts/skills/actives/decapitate.nut
 msgid "Decapitate"
@@ -494,6 +590,14 @@ msgstr "斩首"
 
 # scripts/skills/actives/hyena_bite_skill.nut
 msgid "Hyena Bite"
+msgstr ""
+
+# scripts/skills/actives/debilitate.nut
+msgid "debilitate"
+msgstr ""
+
+# scripts/skills/actives/shieldwall.nut
+msgid "shieldwall"
 msgstr ""
 
 # scripts/skills/actives/coat_with_poison_skill.nut
@@ -515,6 +619,10 @@ msgstr "撞退"
 # scripts/skills/actives/darkflight.nut
 msgid "Darkflight"
 msgstr "黑暗飞行"
+
+# scripts/skills/actives/darkflight.nut
+msgid "darkflight"
+msgstr ""
 
 # scripts/skills/actives/throw_balls.nut
 msgid "Throw Bola"
@@ -640,6 +748,10 @@ msgstr ""
 # scripts/skills/actives/teleport_skill.nut
 msgid "Spirit Walk"
 msgstr "灵魂漫步"
+
+# scripts/skills/actives/indomitable.nut
+msgid "indomitable"
+msgstr ""
 
 # scripts/skills/actives/strike_down_skill.nut
 msgid "Strike Down"
@@ -1241,10 +1353,6 @@ msgid "Set an area of [color="
 msgstr ""
 
 # scripts/skills/actives/throw_javelin.nut
-msgid "[/color] javelins left"
-msgstr ""
-
-# scripts/skills/actives/throw_javelin.nut
 # scripts/skills/actives/impale.nut
 # scripts/skills/actives/quick_shot.nut
 # scripts/skills/actives/throw_spear_skill.nut
@@ -1270,6 +1378,10 @@ msgstr ""
 # scripts/skills/actives/aimed_shot.nut
 # scripts/skills/actives/sling_stone_skill.nut
 msgid "Has a range of [color="
+msgstr ""
+
+# scripts/skills/actives/throw_javelin.nut
+msgid "[/color] javelins left"
 msgstr ""
 
 # scripts/skills/actives/geomancy_skill.nut
@@ -1509,12 +1621,12 @@ msgid "]10[/color] damage per turn."
 msgstr ""
 
 # scripts/skills/actives/berserker_mushrooms_skill.nut
-msgid "]+40%[/color] Damage in Melee"
-msgstr "]+40%[/color] 近战中的伤害"
-
-# scripts/skills/actives/berserker_mushrooms_skill.nut
 msgid "Eat or Give Strange Mushrooms"
 msgstr ""
+
+# scripts/skills/actives/berserker_mushrooms_skill.nut
+msgid "]+40%[/color] Damage in Melee"
+msgstr "]+40%[/color] 近战中的伤害"
 
 # scripts/skills/actives/throw_balls.nut
 msgid "]No spiked balls left[/color]"
@@ -1991,12 +2103,12 @@ msgid "Hurl a javelin at a target. Can not be used while engaged in melee."
 msgstr "向目标投掷标枪。 不能在近战中使用。"
 
 # scripts/skills/actives/rally_the_troops.nut
-msgid "]Can not rally others the same turn as being rallied himself[/color]"
-msgstr "]在自己被集结的同一轮不能再集结其他人。[/color]"
-
-# scripts/skills/actives/rally_the_troops.nut
 msgid "Removes the Sleeping status effect of allies within 4 tiles distance"
 msgstr "移除4格距离内友方的睡眠状态效果"
+
+# scripts/skills/actives/rally_the_troops.nut
+msgid "]Can not rally others the same turn as being rallied himself[/color]"
+msgstr "]在自己被集结的同一轮不能再集结其他人。[/color]"
 
 # scripts/skills/actives/lunge_skill.nut
 msgid "Inflicts additional damage, the higher the user's current Initiative"

@@ -14,6 +14,10 @@ msgstr "的"
 msgid "Wolf"
 msgstr "狼"
 
+# scripts/entity/tactical/player.nut
+msgid " by "
+msgstr ""
+
 # scripts/entity/tactical/actor.nut
 # scripts/entity/tactical/player.nut
 msgid " turn"
@@ -29,12 +33,12 @@ msgstr "战狗"
 
 # scripts/entity/tactical/player_corpse_stub.nut
 # scripts/entity/tactical/player.nut
-msgid " days."
+msgid " daily"
 msgstr ""
 
 # scripts/entity/tactical/player_corpse_stub.nut
 # scripts/entity/tactical/player.nut
-msgid " daily"
+msgid " days."
 msgstr ""
 
 # scripts/entity/tactical/player_corpse_stub.nut
@@ -68,6 +72,10 @@ msgstr ""
 msgid " battle"
 msgstr ""
 
+# scripts/entity/tactical/warwolf.nut
+msgid "warwolf"
+msgstr ""
+
 # scripts/entity/tactical/warhound.nut
 msgid "Warhound"
 msgstr "战犬"
@@ -78,12 +86,12 @@ msgid "Acts in "
 msgstr ""
 
 # scripts/entity/tactical/player.nut
-msgid " battles"
-msgstr ""
-
-# scripts/entity/tactical/player.nut
 msgid "Beheaded"
 msgstr "斩首"
+
+# scripts/entity/tactical/player.nut
+msgid " battles"
+msgstr ""
 
 # scripts/entity/tactical/actor.nut
 msgid " has died"
@@ -111,16 +119,16 @@ msgid "[/b] damage"
 msgstr ""
 
 # scripts/entity/tactical/actor.nut
-msgid " has rallied"
-msgstr " 振作起来"
+msgid " discovered!"
+msgstr " 被发现！"
 
 # scripts/entity/tactical/actor.nut
 msgid " has killed "
 msgstr " 杀死 "
 
 # scripts/entity/tactical/actor.nut
-msgid " discovered!"
-msgstr " 被发现！"
+msgid " has rallied"
+msgstr " 振作起来"
 
 # scripts/entity/tactical/player.nut
 msgid "Disemboweled"
@@ -187,13 +195,17 @@ msgid "Blocking movement"
 msgstr "阻挡移动"
 
 # scripts/entity/tactical/actor.nut
+msgid " has struck down "
+msgstr " 击倒 "
+
+# scripts/entity/tactical/actor.nut
 # scripts/entity/tactical/player.nut
 msgid "Acting right now!"
 msgstr "现在行动！"
 
 # scripts/entity/tactical/actor.nut
-msgid " has struck down "
-msgstr " 击倒 "
+msgid "Turn started for "
+msgstr ""
 
 # scripts/entity/tactical/player.nut
 msgid "Committed Suicide"
@@ -226,13 +238,13 @@ msgid "'s armor is hit for [b]"
 msgstr ""
 
 # scripts/entity/tactical/actor.nut
+msgid ",socket,miniboss,arrow)"
+msgstr ""
+
+# scripts/entity/tactical/actor.nut
 # scripts/entity/tactical/player.nut
 msgid "%[/color] chance to hit"
 msgstr "%[/color] 命中几率"
-
-# scripts/entity/tactical/actor.nut
-msgid ",socket,miniboss,arrow)"
-msgstr ""
 
 # scripts/entity/tactical/tactical_entity_manager.nut
 msgid " has risen from the dead"

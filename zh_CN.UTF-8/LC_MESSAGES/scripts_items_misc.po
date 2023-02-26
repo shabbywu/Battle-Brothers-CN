@@ -184,7 +184,7 @@ msgstr "巨大的颅骨"
 
 # scripts/items/misc/manhunters_ledger_item.nut
 msgid " Indebted in the company"
-msgstr " 战队负债者"
+msgstr "战队负债者"
 
 # scripts/items/misc/werewolf_pelt_item.nut
 msgid "Unusually Large Wolf Pelt"
@@ -192,7 +192,7 @@ msgstr "不同寻常的大狼皮"
 
 # scripts/items/misc/manhunters_ledger_item.nut
 msgid " Manhunters in the company"
-msgstr " 战队搜捕者"
+msgstr "战队搜捕者"
 
 # scripts/items/misc/paint_white_green_yellow_item.nut
 msgid "White, Green and Yellow Paint"

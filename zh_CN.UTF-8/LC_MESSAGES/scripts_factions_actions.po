@@ -20,6 +20,10 @@ msgstr "船"
 msgid "Hexen"
 msgstr "女巫"
 
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "Kraken"
+msgstr "海妖"
+
 # scripts/factions/actions/defend_undead_action.nut
 # scripts/factions/actions/move_undead_action.nut
 # scripts/factions/actions/send_undead_roamers_action.nut
@@ -33,10 +37,6 @@ msgid "Ifrits"
 msgstr "伊夫利特"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Kraken"
-msgstr "海妖"
-
-# scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Hyenas"
 msgstr "鬣狗"
 
@@ -46,35 +46,35 @@ msgstr "鬣狗"
 msgid "Nomads"
 msgstr "游牧民族"
 
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Schrats"
-msgstr "树人"
-
 # scripts/factions/actions/move_goblins_action.nut
 # scripts/factions/actions/defend_goblins_action.nut
 msgid "Goblins"
 msgstr "地精"
 
-# scripts/factions/actions/send_peasants_action.nut
-msgid "Peasants"
-msgstr "农民"
-
 # scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Serpents"
-msgstr "蛇"
+msgid "Schrats"
+msgstr "树人"
+
+# scripts/factions/actions/send_refugees_action.nut
+msgid "Refugees"
+msgstr "难民"
 
 # scripts/factions/actions/send_peasants_action.nut
 msgid "Citizens"
 msgstr "公民"
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "Serpents"
+msgstr "蛇"
 
 # scripts/factions/actions/send_bandit_ambushers_action.nut
 # scripts/factions/actions/defend_bandits_action.nut
 msgid "Brigands"
 msgstr "强盗"
 
-# scripts/factions/actions/send_refugees_action.nut
-msgid "Refugees"
-msgstr "难民"
+# scripts/factions/actions/send_peasants_action.nut
+msgid "Peasants"
+msgstr "农民"
 
 # scripts/factions/actions/move_troops_action.nut
 # scripts/factions/actions/patrol_roads_action.nut
@@ -88,19 +88,19 @@ msgstr ""
 msgid " Militia"
 msgstr ""
 
-# scripts/factions/actions/defend_barbarians_action.nut
-# scripts/factions/actions/send_barbarian_roamers_action.nut
-# scripts/factions/actions/send_barbarian_ambushers_action.nut
-msgid "Barbarians"
-msgstr "野蛮人"
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "Direwolves"
+msgstr "冰原狼"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Webknechts"
 msgstr "蛛魔"
 
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Direwolves"
-msgstr "冰原狼"
+# scripts/factions/actions/defend_barbarians_action.nut
+# scripts/factions/actions/send_barbarian_roamers_action.nut
+# scripts/factions/actions/send_barbarian_ambushers_action.nut
+msgid "Barbarians"
+msgstr "野蛮人"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Nachzehrers"
@@ -111,6 +111,8 @@ msgid "Orc Hunters"
 msgstr ""
 
 # scripts/factions/actions/defend_citystate_action.nut
+# scripts/factions/actions/send_citystate_holysite_action.nut
+# scripts/factions/actions/send_citystate_army_action.nut
 # scripts/factions/actions/patrol_area_action.nut
 msgid "Regiment of "
 msgstr ""

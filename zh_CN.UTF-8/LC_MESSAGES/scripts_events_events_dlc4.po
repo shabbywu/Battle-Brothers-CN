@@ -20,15 +20,6 @@ msgid " has died"
 msgstr " 是死了"
 
 # scripts/events/events/dlc4/sled_race_event.nut
-# scripts/events/events/dlc4/horse_race_event.nut
-# scripts/events/events/dlc4/drunk_nobleman_event.nut
-# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
-# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
-# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
-msgid " suffers "
-msgstr " 遭受 "
-
-# scripts/events/events/dlc4/sled_race_event.nut
 # scripts/events/events/dlc4/cultist_origin_armor_event.nut
 # scripts/events/events/dlc4/drunk_nobleman_event.nut
 # scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
@@ -37,6 +28,15 @@ msgstr " 遭受 "
 # scripts/events/events/dlc4/cultist_origin_hood_event.nut
 msgid "You gain "
 msgstr "你获得了 "
+
+# scripts/events/events/dlc4/sled_race_event.nut
+# scripts/events/events/dlc4/horse_race_event.nut
+# scripts/events/events/dlc4/drunk_nobleman_event.nut
+# scripts/events/events/dlc4/rangers_origin_hunt_food_event.nut
+# scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
+# scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
+msgid " suffers "
+msgstr " 遭受 "
 
 # scripts/events/events/dlc4/cultist_origin_armor_event.nut
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
@@ -387,12 +387,12 @@ msgid "I take you as my squire."
 msgstr "我会带上你做我的扈从。"
 
 # scripts/events/events/dlc4/kings_guard_2_event.nut
-msgid "]+12[/color] Melee Skill"
-msgstr "]+12[/color] 近战技能"
-
-# scripts/events/events/dlc4/kings_guard_2_event.nut
 msgid "Is his former self again"
 msgstr "重新成为昔日的自己"
+
+# scripts/events/events/dlc4/kings_guard_2_event.nut
+msgid "]+12[/color] Melee Skill"
+msgstr "]+12[/color] 近战技能"
 
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
 msgid "Had a good night's sleep"
@@ -607,12 +607,12 @@ msgid "This mercenary work is dulling our senses."
 msgstr "这种雇佣兵的工作使我们麻木不仁。"
 
 # scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
-msgid "%sac2% will have the honor to meet Davkul."
-msgstr "%sac2% 将会获得去见达库尔的荣耀。"
-
-# scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
 msgid "%sac1% will have the honor to meet Davkul."
 msgstr "%sac1% 将会获得去见达库尔的荣耀。"
+
+# scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
+msgid "%sac2% will have the honor to meet Davkul."
+msgstr "%sac2% 将会获得去见达库尔的荣耀。"
 
 # scripts/events/events/dlc4/kings_guard_2_event.nut
 msgid "I'm glad we found you on that fateful day."

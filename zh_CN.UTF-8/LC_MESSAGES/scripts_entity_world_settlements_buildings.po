@@ -10,6 +10,10 @@ msgstr "雇用"
 msgid "Arena"
 msgstr "竞技场"
 
+# scripts/entity/world/settlements/buildings/kennel_building.nut
+msgid "Kennel"
+msgstr "狗舍"
+
 # scripts/entity/world/settlements/buildings/port_building.nut
 msgid "Harbor"
 msgstr "港口"
@@ -18,17 +22,13 @@ msgstr "港口"
 msgid "Temple"
 msgstr "神殿"
 
-# scripts/entity/world/settlements/buildings/kennel_building.nut
-msgid "Kennel"
-msgstr "狗舍"
+# scripts/entity/world/settlements/buildings/tavern_building.nut
+msgid "Tavern"
+msgstr "酒馆"
 
 # scripts/entity/world/settlements/buildings/barber_building.nut
 msgid "Barber"
 msgstr "理发店"
-
-# scripts/entity/world/settlements/buildings/tavern_building.nut
-msgid "Tavern"
-msgstr "酒馆"
 
 # scripts/entity/world/settlements/buildings/armorsmith_building.nut
 msgid "Armorer"
@@ -46,13 +46,13 @@ msgstr "驶向 "
 msgid "Alchemist"
 msgstr "炼金术士"
 
-# scripts/entity/world/settlements/buildings/marketplace_building.nut
-msgid "Marketplace"
-msgstr "市场"
-
 # scripts/entity/world/settlements/buildings/weaponsmith_building.nut
 msgid "Weaponsmith"
 msgstr "武器店"
+
+# scripts/entity/world/settlements/buildings/marketplace_building.nut
+msgid "Marketplace"
+msgstr "市场"
 
 # scripts/entity/world/settlements/buildings/taxidermist_building.nut
 msgid "Taxidermist"

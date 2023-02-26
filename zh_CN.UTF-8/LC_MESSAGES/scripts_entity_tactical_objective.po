@@ -6,6 +6,14 @@ msgstr ""
 msgid "Mortar"
 msgstr "炮手"
 
+# scripts/entity/tactical/objective/mortar.nut
+msgid "mortar"
+msgstr ""
+
+# scripts/entity/tactical/objective/donkey.nut
+msgid "donkey"
+msgstr ""
+
 # scripts/entity/tactical/objective/donkey.nut
 msgid "A Donkey"
 msgstr "一头驴子"

@@ -38,10 +38,6 @@ msgid "Refugees"
 msgstr "难民"
 
 # scripts/entity/world/settlements/situations/besieged_situation.nut
-msgid "Besieged"
-msgstr "围困"
-
-# scripts/entity/world/settlements/situations/besieged_situation.nut
 # scripts/entity/world/settlements/situations/sickness_situation.nut
 # scripts/entity/world/settlements/situations/preparing_feast_situation.nut
 # scripts/entity/world/settlements/situations/short_on_food_situation.nut
@@ -50,6 +46,10 @@ msgstr "围困"
 # scripts/entity/world/settlements/situations/well_supplied_situation.nut
 msgid " now is "
 msgstr "现在有"
+
+# scripts/entity/world/settlements/situations/besieged_situation.nut
+msgid "Besieged"
+msgstr "围困"
 
 # scripts/entity/world/settlements/situations/sickness_situation.nut
 msgid "Sickness"
@@ -798,15 +798,15 @@ msgstr "据我所知，%settlement% 现在到处都是难民。要我说，那�
 
 # scripts/entity/world/settlements/situations/rich_veins_situation.nut
 msgid ""
-"Those lucky bastards in %settlement% have found a new vein in the mine. "
-"Caravans can't come fast enough now with what they're shoveling up."
-msgstr "%settlement% 那些幸运的混蛋在矿井里发现了新矿脉。商队现在铲起的东西还不够快。"
-
-# scripts/entity/world/settlements/situations/rich_veins_situation.nut
-msgid ""
 "I hear that the mines in %settlement% are awfully productive these days. Not"
 " a bad way to make some coin if you're in the trading business."
 msgstr "我听说 %settlement% 的矿山最近生产效率很高。如果你在做生意的话，这是个不错的赚硬币方法。"
+
+# scripts/entity/world/settlements/situations/rich_veins_situation.nut
+msgid ""
+"Those lucky bastards in %settlement% have found a new vein in the mine. "
+"Caravans can't come fast enough now with what they're shoveling up."
+msgstr "%settlement% 那些幸运的混蛋在矿井里发现了新矿脉。商队现在铲起的东西还不够快。"
 
 # scripts/entity/world/settlements/situations/ceremonial_season_situation.nut
 msgid ""

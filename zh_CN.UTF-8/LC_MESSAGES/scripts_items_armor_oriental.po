@@ -14,6 +14,10 @@ msgstr "布饰带"
 msgid "Linothorax"
 msgstr "亚麻胸甲"
 
+# scripts/items/armor/oriental/linothorax.nut
+msgid "linothorax"
+msgstr ""
+
 # scripts/items/armor/oriental/padded_vest.nut
 msgid "Padded Vest"
 msgstr "软垫背心"

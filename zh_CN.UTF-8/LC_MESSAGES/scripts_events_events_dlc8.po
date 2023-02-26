@@ -23,18 +23,6 @@ msgstr ""
 msgid "Stopped "
 msgstr ""
 
-# scripts/events/events/dlc8/tree_fort_event.nut
-# scripts/events/events/dlc8/captured_oathbringer_event.nut
-# scripts/events/events/dlc8/anatomist_vs_dog_event.nut
-# scripts/events/events/dlc8/brawler_throw_fight_event.nut
-# scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
-# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
-# scripts/events/events/dlc8/missing_kids_event.nut
-# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
-# scripts/events/events/dlc8/anatomist_dead_knight_event.nut
-msgid " suffers "
-msgstr " 遭受 "
-
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
 # scripts/events/events/dlc8/tree_fort_event.nut
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
@@ -54,6 +42,18 @@ msgstr " 遭受 "
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid "You gain "
 msgstr "你获得了 "
+
+# scripts/events/events/dlc8/tree_fort_event.nut
+# scripts/events/events/dlc8/captured_oathbringer_event.nut
+# scripts/events/events/dlc8/anatomist_vs_dog_event.nut
+# scripts/events/events/dlc8/brawler_throw_fight_event.nut
+# scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
+# scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
+# scripts/events/events/dlc8/missing_kids_event.nut
+# scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
+# scripts/events/events/dlc8/anatomist_dead_knight_event.nut
+msgid " suffers "
+msgstr " 遭受 "
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 # scripts/events/events/dlc8/incense_trade_event.nut
@@ -259,12 +259,12 @@ msgid " gains [color="
 msgstr " 获得了 [color="
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
-# scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
-msgid "On the road..."
+msgid "A win's a win."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
-msgid "A win's a win."
+# scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
+msgid "On the road..."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
@@ -476,12 +476,12 @@ msgid "What's that noise?"
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
-msgid "]65[/color] Crowns"
-msgstr "]65[/color] 克朗"
-
-# scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "]45[/color] Crowns"
 msgstr "]45[/color] 克朗"
+
+# scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
+msgid "]65[/color] Crowns"
+msgstr "]65[/color] 克朗"
 
 # scripts/events/events/dlc8/brawler_throw_fight_event.nut
 msgid "]400[/color] Crowns"
@@ -528,12 +528,12 @@ msgid "Rest in peace, dog."
 msgstr ""
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "]175[/color] Crowns"
-msgstr "]175[/color] 克朗"
-
-# scripts/events/events/dlc8/strange_scribe_event.nut
 msgid "I'm going with you."
 msgstr ""
+
+# scripts/events/events/dlc8/strange_scribe_event.nut
+msgid "]175[/color] Crowns"
+msgstr "]175[/color] 克朗"
 
 # scripts/events/events/dlc8/fake_witchhunter_event.nut
 msgid "What a strange man."
@@ -573,11 +573,11 @@ msgid "]5000[/color] Crowns"
 msgstr "]5000[/color] 克朗"
 
 # scripts/events/events/dlc8/anatomist_joins_event.nut
-msgid "Yeah, fark you, too."
+msgid "Yes, we'll take you."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_joins_event.nut
-msgid "Yes, we'll take you."
+msgid "Yeah, fark you, too."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
@@ -681,11 +681,11 @@ msgid "]+6[/color] Initiative"
 msgstr ""
 
 # scripts/events/events/dlc8/captured_oathbringer_event.nut
-msgid "Damn Oathbringer scum."
+msgid "Justice has been done."
 msgstr ""
 
 # scripts/events/events/dlc8/captured_oathbringer_event.nut
-msgid "Justice has been done."
+msgid "Damn Oathbringer scum."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
@@ -733,12 +733,12 @@ msgid " are progressing nicely"
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
-msgid "]+8[/color] Melee Skill"
-msgstr "]+8[/color] 近战技能"
-
-# scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
 msgid "]+3[/color] Max Fatigue"
 msgstr ""
+
+# scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
+msgid "]+8[/color] Melee Skill"
+msgstr "]+8[/color] 近战技能"
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 msgid "Get that wound cleaned."
@@ -762,11 +762,11 @@ msgid "Do it, work your trade."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
-msgid " is no longer Asthmatic"
+msgid "Was injured by a madman"
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
-msgid "Was injured by a madman"
+msgid " is no longer Asthmatic"
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_dissects_beetles_event.nut
@@ -852,11 +852,11 @@ msgid "]+4[/color] Melee Defense"
 msgstr "]+4[/color] 近战防御"
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "Better wise up, wiseacre."
+msgid "Witnessed a brutal murder"
 msgstr ""
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "Witnessed a brutal murder"
+msgid "Better wise up, wiseacre."
 msgstr ""
 
 # scripts/events/events/dlc8/brawler_throw_fight_event.nut
@@ -974,16 +974,12 @@ msgid "Go on and correct him then."
 msgstr ""
 
 # scripts/events/events/dlc8/missing_kids_event.nut
-msgid "Let's just get out of here."
-msgstr ""
-
-# scripts/events/events/dlc8/missing_kids_event.nut
 msgid "It gets old fast, trust me."
 msgstr ""
 
-# scripts/events/events/dlc8/tree_fort_event.nut
-msgid "We don't have time for this."
-msgstr "我们没有时间做这个。"
+# scripts/events/events/dlc8/missing_kids_event.nut
+msgid "Let's just get out of here."
+msgstr ""
 
 # scripts/events/events/dlc8/tree_fort_event.nut
 # scripts/events/events/dlc8/brawler_throw_fight_event.nut
@@ -991,12 +987,16 @@ msgstr "我们没有时间做这个。"
 msgid "That could have gone better."
 msgstr ""
 
-# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
-msgid "The shit they get me into..."
-msgstr ""
+# scripts/events/events/dlc8/tree_fort_event.nut
+msgid "We don't have time for this."
+msgstr "我们没有时间做这个。"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "Alright, let's go dig it up."
+msgstr ""
+
+# scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
+msgid "The shit they get me into..."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_vs_historian_event.nut
@@ -1357,11 +1357,11 @@ msgid "Was denied the chance to help a sick man"
 msgstr ""
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "Learned how to better deal with the laity"
+msgid "We have no need of yet another charlatan."
 msgstr ""
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
-msgid "We have no need of yet another charlatan."
+msgid "Learned how to better deal with the laity"
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_reflects_on_webknechts_event.nut
@@ -1381,11 +1381,11 @@ msgid "When just breathing makes you a dull boy."
 msgstr ""
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "%cultist% the cultist is murmuring again."
+msgid "At least the anatomist took it in stride."
 msgstr ""
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "At least the anatomist took it in stride."
+msgid "%cultist% the cultist is murmuring again."
 msgstr ""
 
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
@@ -1537,11 +1537,11 @@ msgid "I'll take the big heart for...550 crowns, is it?"
 msgstr ""
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "Why's everyone lookin' at the biggest sellsword?"
+msgid "What does %anatomist% the anatomist have to say?"
 msgstr ""
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
-msgid "What does %anatomist% the anatomist have to say?"
+msgid "Why's everyone lookin' at the biggest sellsword?"
 msgstr ""
 
 # scripts/events/events/dlc8/brawler_throw_fight_event.nut
@@ -2783,7 +2783,7 @@ msgstr ""
 "%insecure%. Look at me. I don't even have the only reason to live as a man. "
 "When the wind blows against my pants, all I feel is cloth against my inner "
 "thigh. Do you have any idea how awfully strange that feels? But do you see "
-"me complaining? 不。 When half the company goes to the local whorehouse and "
+"me complaining? No. When half the company goes to the local whorehouse and "
 "dogs a broad, do you see me sitting in a corner crying? Of course "
 "not!%SPEECH_OFF%%insecure% 点了点头。%SPEECH_ON%You know what, you dickless "
 "bastard, you're right. If you can pound air and be happy about it, then I "

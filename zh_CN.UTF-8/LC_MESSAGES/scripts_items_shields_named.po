@@ -11,12 +11,12 @@ msgid "Scaled"
 msgstr "有鳞的"
 
 # scripts/items/shields/named/named_lindwurm_shield.nut
-msgid "Lizard's"
-msgstr "蜥蜴的"
-
-# scripts/items/shields/named/named_lindwurm_shield.nut
 msgid "Wurmhide"
 msgstr "糠皮"
+
+# scripts/items/shields/named/named_lindwurm_shield.nut
+msgid "Lizard's"
+msgstr "蜥蜴的"
 
 # scripts/items/shields/named/named_lindwurm_shield.nut
 msgid "Snakehide"
@@ -27,16 +27,16 @@ msgid "Wurmscale"
 msgstr "沼泽"
 
 # scripts/items/shields/named/named_lindwurm_shield.nut
-msgid "Dragonskin"
-msgstr "龙鳞甲"
+msgid "Scale Clad"
+msgstr "鳞片覆盖的"
 
 # scripts/items/shields/named/named_lindwurm_shield.nut
 msgid "Lindwurm's"
 msgstr "林德沃姆的"
 
 # scripts/items/shields/named/named_lindwurm_shield.nut
-msgid "Scale Clad"
-msgstr "鳞片覆盖的"
+msgid "Dragonskin"
+msgstr "龙鳞甲"
 
 # scripts/items/shields/named/named_undead_heater_shield.nut
 msgid ""

@@ -55,12 +55,12 @@ msgid "]-2[/color] Vision"
 msgstr ""
 
 # scripts/skills/injury_permanent/collapsed_lung_part_injury.nut
-msgid "]-40%[/color] Fatigue"
-msgstr ""
-
-# scripts/skills/injury_permanent/collapsed_lung_part_injury.nut
 msgid "Partly Collapsed Lung"
 msgstr "部分肺萎缩"
+
+# scripts/skills/injury_permanent/collapsed_lung_part_injury.nut
+msgid "]-40%[/color] Fatigue"
+msgstr ""
 
 # scripts/skills/injury_permanent/brain_damage_injury.nut
 msgid "]+15%[/color] Resolve"

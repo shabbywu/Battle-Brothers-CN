@@ -18,8 +18,36 @@ msgstr "一个"
 msgid "'s "
 msgstr "的"
 
+# scripts/entity/tactical/enemies/hexe.nut
+msgid "hexe"
+msgstr ""
+
+# scripts/entity/tactical/enemies/hyena.nut
+msgid "hyena"
+msgstr ""
+
+# scripts/entity/tactical/enemies/ghost.nut
+msgid "ghost"
+msgstr ""
+
 # scripts/entity/tactical/enemies/goblin_wolfrider.nut
 msgid "A Wolf"
+msgstr ""
+
+# scripts/entity/tactical/enemies/spider.nut
+msgid "spider"
+msgstr ""
+
+# scripts/entity/tactical/enemies/schrat.nut
+msgid "schrat"
+msgstr ""
+
+# scripts/entity/tactical/enemies/zombie.nut
+msgid "zombie"
+msgstr ""
+
+# scripts/entity/tactical/enemies/unhold.nut
+msgid "unhold"
 msgstr ""
 
 # scripts/entity/tactical/enemies/hexe.nut
@@ -28,6 +56,14 @@ msgstr ""
 
 # scripts/entity/tactical/enemies/hyena.nut
 msgid "A Hyena"
+msgstr ""
+
+# scripts/entity/tactical/enemies/orc_warlord.nut
+msgid "stunned"
+msgstr ""
+
+# scripts/entity/tactical/enemies/serpent.nut
+msgid "serpent"
 msgstr ""
 
 # scripts/entity/tactical/enemies/flying_skull.nut
@@ -65,6 +101,10 @@ msgstr ""
 msgid "ffffff5f"
 msgstr ""
 
+# scripts/entity/tactical/enemies/direwolf.nut
+msgid "direwolf"
+msgstr ""
+
 # scripts/entity/tactical/enemies/schrat.nut
 msgid "A Schrat"
 msgstr ""
@@ -78,11 +118,11 @@ msgid "ffffff8f"
 msgstr ""
 
 # scripts/entity/tactical/enemies/hexe.nut
-msgid "fff3e50f"
+msgid "fff3e500"
 msgstr ""
 
 # scripts/entity/tactical/enemies/hexe.nut
-msgid "fff3e500"
+msgid "fff3e50f"
 msgstr ""
 
 # scripts/entity/tactical/enemies/zombie_knight.nut
@@ -112,6 +152,10 @@ msgstr ""
 
 # scripts/entity/tactical/enemies/lindwurm_tail.nut
 msgid "[/b] damage"
+msgstr ""
+
+# scripts/entity/tactical/enemies/necromancer.nut
+msgid "necromancer"
 msgstr ""
 
 # scripts/entity/tactical/enemies/spider.nut

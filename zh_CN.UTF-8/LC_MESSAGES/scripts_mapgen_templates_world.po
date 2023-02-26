@@ -3,6 +3,14 @@ msgid ""
 msgstr ""
 
 # scripts/mapgen/templates/world/worldmap_generator.nut
+msgid "Found "
+msgstr ""
+
+# scripts/mapgen/templates/world/worldmap_generator.nut
+msgid "Created "
+msgstr ""
+
+# scripts/mapgen/templates/world/worldmap_generator.nut
 msgid " regions..."
 msgstr ""
 
@@ -12,6 +20,10 @@ msgstr ""
 
 # scripts/mapgen/templates/world/worldmap_generator.nut
 msgid "World accepted."
+msgstr ""
+
+# scripts/mapgen/templates/world/worldmap_generator.nut
+msgid "Creating final "
 msgstr ""
 
 # scripts/mapgen/templates/world/worldmap_generator.nut
@@ -27,11 +39,11 @@ msgid " separate regions."
 msgstr ""
 
 # scripts/mapgen/templates/world/worldmap_generator.nut
-msgid "Building regions..."
+msgid "Building terrain..."
 msgstr ""
 
 # scripts/mapgen/templates/world/worldmap_generator.nut
-msgid "Building terrain..."
+msgid "Building regions..."
 msgstr ""
 
 # scripts/mapgen/templates/world/worldmap_generator.nut

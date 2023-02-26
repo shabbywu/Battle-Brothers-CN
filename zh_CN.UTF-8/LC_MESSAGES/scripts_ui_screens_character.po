@@ -3,6 +3,14 @@ msgid ""
 msgstr ""
 
 # scripts/ui/screens/character/character_screen.nut
+msgid "Dismissed "
+msgstr ""
+
+# scripts/ui/screens/character/character_screen.nut
+msgid "Glad to see "
+msgstr "很高兴看到"
+
+# scripts/ui/screens/character/character_screen.nut
 msgid "Undefined error."
 msgstr "未定义的错误。"
 
@@ -15,28 +23,28 @@ msgid "Not enough bag space."
 msgstr "背包空间不足。"
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to unlock perk."
-msgstr "未能解锁特技。"
-
-# scripts/ui/screens/character/character_screen.nut
 msgid "Failed to find entity."
 msgstr "未能找到实体。"
+
+# scripts/ui/screens/character/character_screen.nut
+msgid "Failed to unlock perk."
+msgstr "未能解锁特技。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Not enough stash space."
 msgstr "存储空间不足。"
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to find bag item."
-msgstr "未能找到背包物品。"
+msgid "Failed to acquire stash."
+msgstr "未能获取存储。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Item already within bag."
 msgstr "物品已在背包中。"
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to acquire stash."
-msgstr "未能获取存储。"
+msgid "Failed to find bag item."
+msgstr "未能找到背包物品。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to equip bag item."
@@ -59,10 +67,6 @@ msgid "Failed to equip stash item."
 msgstr "未能装备存储物品。"
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to acquire inventory."
-msgstr "未能获取物品清单。"
-
-# scripts/ui/screens/character/character_screen.nut
 msgid "Failed to put item into bag."
 msgstr "未能将物品放入背包。"
 
@@ -71,8 +75,8 @@ msgid "Failed to equip ground item."
 msgstr "未能装备地上物品。"
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Glad to see "
-msgstr "很高兴看到"
+msgid "Failed to acquire inventory."
+msgstr "未能获取物品清单。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid " get reparations for his time"

@@ -3,12 +3,20 @@ msgid ""
 msgstr ""
 
 # scripts/items/weapons/ancient/falx.nut
+msgid "falx"
+msgstr ""
+
+# scripts/items/weapons/ancient/falx.nut
 msgid "Falx"
 msgstr "达西安镰刀"
 
 # scripts/items/weapons/ancient/khopesh.nut
 msgid "Khopesh"
 msgstr "镰弯刀"
+
+# scripts/items/weapons/ancient/khopesh.nut
+msgid "khopesh"
+msgstr ""
 
 # scripts/items/weapons/ancient/warscythe.nut
 msgid "Warscythe"
@@ -17,6 +25,14 @@ msgstr "军用镰刀"
 # scripts/items/weapons/ancient/rhomphaia.nut
 msgid "Rhomphaia"
 msgstr "长柄逆刃剑"
+
+# scripts/items/weapons/ancient/rhomphaia.nut
+msgid "rhomphaia"
+msgstr ""
+
+# scripts/items/weapons/ancient/warscythe.nut
+msgid "warscythe"
+msgstr ""
 
 # scripts/items/weapons/ancient/ancient_sword.nut
 msgid "Ancient Sword"

@@ -43,12 +43,12 @@ msgid "Oath Boon"
 msgstr "誓言恩赐"
 
 # scripts/ambitions/oaths/oath_ambition.nut
-msgid "Uphold an "
-msgstr "正在宣下 "
-
-# scripts/ambitions/oaths/oath_ambition.nut
 msgid "1 more day"
 msgstr " 1 天"
+
+# scripts/ambitions/oaths/oath_ambition.nut
+msgid "Uphold an "
+msgstr "正在宣下 "
 
 # scripts/ambitions/oaths/oath_ambition.nut
 msgid "Oath Burden"
@@ -79,12 +79,12 @@ msgid "Oath of Dominion"
 msgstr "统御誓言"
 
 # scripts/ambitions/oaths/oath_of_humility_ambition.nut
-msgid "You earn [color="
-msgstr "你赚了[color="
-
-# scripts/ambitions/oaths/oath_of_humility_ambition.nut
 msgid "Oath of Humility"
 msgstr "谦逊誓言"
+
+# scripts/ambitions/oaths/oath_of_humility_ambition.nut
+msgid "You earn [color="
+msgstr "你赚了[color="
 
 # scripts/ambitions/oaths/oath_of_endurance_ambition.nut
 msgid "Oath of Endurance"
@@ -156,7 +156,7 @@ msgstr "]-10[/color] 远程防御。"
 
 # scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
 msgid "]14[/color] men into battle."
-msgstr "]14[/color] 人参加战斗。"
+msgstr "]$1[/color] 人."
 
 # scripts/ambitions/oaths/oath_of_endurance_ambition.nut
 msgid "]+3[/color] Fatigue per turn."
@@ -191,13 +191,13 @@ msgid "You can only take up to [color="
 msgstr "你在每场战斗中最多出动 [color="
 
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
-msgid "]+15[/color] Resolve and [color="
-msgstr "]+15[/color] 决心和 [color="
-
-# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
 # scripts/ambitions/oaths/oath_of_dominion_ambition.nut
 msgid "]-10[/color] Resolve and [color="
 msgstr "]-10[/color] 决心和 [color="
+
+# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
+msgid "]+15[/color] Resolve and [color="
+msgstr "]+15[/color] 决心和 [color="
 
 # scripts/ambitions/oaths/oath_of_dominion_ambition.nut
 msgid "]+20[/color] Resolve and [color="
@@ -231,27 +231,59 @@ msgstr "]-25%[/color] 任务收益。"
 msgid "Your men start battle at Confident morale."
 msgstr "你的所有战团成员将以自信士气开始战斗。"
 
+# scripts/ambitions/oaths/oath_of_dominion_ambition.nut
+msgid "You gain extra Renown for slaying beasts ("
+msgstr "誓言目标: 击杀目标的野兽数目("
+
 # scripts/ambitions/oaths/oath_of_distinction_ambition.nut
 msgid "Your men gain no experience for allied kills."
 msgstr "你的人不会从盟友的击杀中获得经验。"
+
+# scripts/ambitions/oaths/oath_of_wrath_ambition.nut
+msgid "You gain extra Renown for slaying your foes ("
+msgstr "誓言目标: 击杀目标的敌人数目("
+
+# scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
+msgid "You gain extra Renown for slaying the undead ("
+msgstr "誓言目标: 击杀目标的亡灵数目("
+
+# scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
+msgid "You gain extra Renown for slaying greenskins ("
+msgstr "誓言目标: 击杀目标的绿皮数目("
 
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
 # scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
 msgid "]-5[/color] Melee and Ranged Skill, and [color="
 msgstr "]-5[/color] 近战和远程技能, 以及 [color="
 
+# scripts/ambitions/oaths/oath_of_endurance_ambition.nut
+msgid "You gain extra Renown for winning many battles ("
+msgstr "誓言目标: 赢得目标的战斗次数("
+
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
 # scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
 msgid "]+10[/color] Melee and Ranged Skill, and [color="
 msgstr "]+10[/color] 近战和远程技能，以及 [color="
+
+# scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
+msgid "You gain extra Renown for suffering no more than "
+msgstr "誓言目标: 誓言期间承受不多于"
 
 # scripts/ambitions/oaths/oath_of_fortification_ambition.nut
 msgid "Your men cannot move in the first round of combat."
 msgstr "你的所有战团成员在战斗的第一个回合无法移动。"
 
 # scripts/ambitions/oaths/oath_of_distinction_ambition.nut
+msgid "You gain extra Renown if one of your men levels up "
+msgstr "誓言目标: 让你的一位战团成员升级"
+
+# scripts/ambitions/oaths/oath_of_distinction_ambition.nut
 msgid "]+3[/color] Fatigue Recovery per turn, and deal [color="
 msgstr "]+3[/color] 每回合疲劳恢复, and deal [color="
+
+# scripts/ambitions/oaths/oath_of_humility_ambition.nut
+msgid "You gain extra Renown for completing enough contracts ("
+msgstr "誓言目标: 完成目标的合同数("
 
 # scripts/ambitions/oaths/oath_of_dominion_ambition.nut
 msgid "]+10[/color] Melee and Ranged Skill when fighting beasts."
@@ -264,6 +296,10 @@ msgstr "]+10%[/color] 伤害(如何相邻的格子内没有盟友)。"
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
 msgid "]+5[/color] Melee and Ranged Defense when fighting the undead."
 msgstr "]+5[/color] 近战和远程防御(与不死族作战时)。"
+
+# scripts/ambitions/oaths/oath_of_fortification_ambition.nut
+msgid "You gain extra Renown if none of your men die during the Oath ("
+msgstr "如果你在誓言期间从未损失过战团成员，你会获得额外的声望。 ("
 
 # scripts/ambitions/oaths/oath_of_dominion_ambition.nut
 msgid "]-5[/color] Melee and Ranged Skill when fighting any other foe."
@@ -293,15 +329,30 @@ msgstr ""
 msgid "{For Young Anselm! | As Oathtakers! | And death to the Oathbringers!}"
 msgstr "{为了小安瑟姆！ | 宣誓者万岁！ | 誓言使者去死吧！}"
 
+# scripts/ambitions/oaths/oath_of_valor_ambition.nut
+msgid "You gain extra Renown for winning battles where you are outnumbered ("
+msgstr "誓言目标: 以寡敌众赢得目标的战斗次数"
+
 # scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
 msgid "Your men always start battle randomly at Wavering or Breaking morale."
 msgstr "你的人总是随机以动摇或溃散士气开始战斗。"
+
+# scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
+msgid ""
+"You gain extra Renown if your men become confident in battle enough times ("
+msgstr "誓言目标: 让你的战团成员变得自信("
 
 # scripts/ambitions/oaths/oath_of_fortification_ambition.nut
 msgid ""
 "]+5[/color] Ranged Defense. The 'Knock Back' skill now staggers targets on "
 "hit."
 msgstr "]+5[/color] 远程防御。 “撞退”技能在成功命中时会对目标施加踉跄效果。"
+
+# scripts/ambitions/oaths/oath_of_honor_ambition.nut
+msgid ""
+"You gain extra Renown for defeating enemies without them being engaged by "
+"other combatants ("
+msgstr "誓言目标: 在不贴身的情况下完成目标的击杀次数("
 
 # scripts/ambitions/oaths/oath_of_fortification_ambition.nut
 msgid ""
@@ -391,9 +442,7 @@ msgstr ""
 msgid ""
 "]+15%[/color] chance to hit when using two-handed or double-gripped melee "
 "weapons, and their attacks will always cause fatalities if able."
-msgstr ""
-"]+15%[/color] 命中几率 when using two-handed or double-gripped melee weapons, "
-"and their attacks will always cause fatalities if able."
+msgstr "]+15%[/color] 使用双手或双手握持的近战武器的命中率加成。并且只要武器允许，他们的所有杀敌都将是残暴击杀（如斩首，碎颅等）"
 
 # scripts/ambitions/oaths/oath_of_endurance_ambition.nut
 msgid ""

@@ -22,13 +22,13 @@ msgstr "精神"
 msgid "Hyena"
 msgstr "鬣狗"
 
-# scripts/items/misc/anatomist/research_notes_beasts_item.nut
-msgid "Schrat"
-msgstr "树人"
-
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 msgid "Kraken"
 msgstr "海妖"
+
+# scripts/items/misc/anatomist/research_notes_beasts_item.nut
+msgid "Schrat"
+msgstr "树人"
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 msgid "Goblin"
@@ -67,24 +67,24 @@ msgid "Lorekeeper"
 msgstr ""
 
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid "Necromancer"
+msgid "Necrosavant"
 msgstr "死灵法师"
 
-# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
-msgid "Orc Warlord"
-msgstr "兽人军阀"
+# scripts/items/misc/anatomist/research_notes_undead_item.nut
+msgid "Necromancer"
+msgstr "死灵法师"
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 msgid "Orc Warrior"
 msgstr "兽人战士"
 
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid "Necrosavant"
-msgstr "死灵法师"
-
-# scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Fallen Hero"
 msgstr "堕落的英雄"
+
+# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
+msgid "Orc Warlord"
+msgstr "兽人军阀"
 
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Wiederganger"
@@ -104,25 +104,25 @@ msgid "Deal [color="
 msgstr ""
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
-msgid "Orc Berserker"
-msgstr "兽人狂战士"
-
-# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 msgid "Goblin Shaman"
 msgstr "地精萨满"
+
+# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
+msgid "Orc Berserker"
+msgstr "兽人狂战士"
 
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Ancient Priest"
 msgstr "古代牧师"
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
+msgid "Tome of Beasts"
+msgstr "怪兽解剖指南"
+
+# scripts/items/misc/anatomist/research_notes_beasts_item.nut
 # scripts/items/misc/anatomist/hyena_potion_item.nut
 msgid "Bloodgate Brew"
 msgstr "血门关药剂"
-
-# scripts/items/misc/anatomist/research_notes_beasts_item.nut
-msgid "Tome of Beasts"
-msgstr "怪兽解剖指南"
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 msgid "Goblin Overseer"

@@ -6,17 +6,29 @@ msgstr ""
 msgid "'s "
 msgstr "的"
 
+# scripts/items/armor/armor.nut
+msgid "armor"
+msgstr "盔甲"
+
+# scripts/items/armor/apron.nut
+msgid "apron"
+msgstr ""
+
 # scripts/items/armor/apron.nut
 msgid "Apron"
 msgstr "围裙"
 
-# scripts/items/armor/armor.nut
-msgid "player"
-msgstr ""
-
 # scripts/items/armor/gambeson.nut
 msgid "Gambeson"
 msgstr "棉制软铠"
+
+# scripts/items/armor/gambeson.nut
+msgid "gambeson"
+msgstr ""
+
+# scripts/items/armor/sackcloth.nut
+msgid "sackcloth"
+msgstr ""
 
 # scripts/items/armor/sackcloth.nut
 msgid "Sackcloth"

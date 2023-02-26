@@ -48,12 +48,12 @@ msgid "Iron Mask"
 msgstr "铁面具"
 
 # scripts/items/helmets/named/wolf_helmet.nut
-msgid "Wolf Crown"
-msgstr "狼冠"
-
-# scripts/items/helmets/named/wolf_helmet.nut
 msgid "Beast Coif"
 msgstr "野兽紧帽"
+
+# scripts/items/helmets/named/wolf_helmet.nut
+msgid "Wolf Crown"
+msgstr "狼冠"
 
 # scripts/items/helmets/named/norse_helmet.nut
 # scripts/items/helmets/named/named_nordic_helmet_with_closed_mail.nut
@@ -113,12 +113,12 @@ msgid "Highland Helm"
 msgstr "高地头盔"
 
 # scripts/items/helmets/named/named_metal_skull_helmet.nut
-msgid "Pillager Gaze"
-msgstr "抢劫者凝视"
-
-# scripts/items/helmets/named/named_metal_skull_helmet.nut
 msgid "Tribal Visage"
 msgstr "部落面貌"
+
+# scripts/items/helmets/named/named_metal_skull_helmet.nut
+msgid "Pillager Gaze"
+msgstr "抢劫者凝视"
 
 # scripts/items/helmets/named/named_metal_nose_horn_helmet.nut
 msgid "Closed Helmet"
@@ -141,12 +141,12 @@ msgid "Knightly Helm"
 msgstr "骑士头盔"
 
 # scripts/items/helmets/named/wolf_helmet.nut
-msgid "Predator Crown"
-msgstr "捕食者冠"
-
-# scripts/items/helmets/named/wolf_helmet.nut
 msgid "Berserker Coif"
 msgstr "狂战士头巾"
+
+# scripts/items/helmets/named/wolf_helmet.nut
+msgid "Predator Crown"
+msgstr "捕食者冠"
 
 # scripts/items/helmets/named/golden_feathers_helmet.nut
 msgid "Helm with Coif"
@@ -229,24 +229,24 @@ msgid "Wurmscale Helmet"
 msgstr "沼泽头盔"
 
 # scripts/items/helmets/named/named_metal_nose_horn_helmet.nut
-msgid "Bladed Headguard"
-msgstr "刃头护板"
-
-# scripts/items/helmets/named/named_metal_nose_horn_helmet.nut
 msgid "Spiked Headpiece"
 msgstr "钉头"
+
+# scripts/items/helmets/named/named_metal_nose_horn_helmet.nut
+msgid "Bladed Headguard"
+msgstr "刃头护板"
 
 # scripts/items/helmets/named/named_nordic_helmet_with_closed_mail.nut
 msgid "Chieftain Helmet"
 msgstr "酋长头盔"
 
 # scripts/items/helmets/named/named_steppe_helmet_with_mail.nut
-msgid "Horsehair Helmet"
-msgstr "马毛头盔"
-
-# scripts/items/helmets/named/named_steppe_helmet_with_mail.nut
 msgid "Headdress Helmet"
 msgstr "头翼盔"
+
+# scripts/items/helmets/named/named_steppe_helmet_with_mail.nut
+msgid "Horsehair Helmet"
+msgstr "马毛头盔"
 
 # scripts/items/helmets/named/red_and_gold_band_helmet.nut
 msgid "Segmented Helmet"

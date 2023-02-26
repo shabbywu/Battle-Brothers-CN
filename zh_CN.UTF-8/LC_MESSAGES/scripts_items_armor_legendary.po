@@ -34,7 +34,7 @@ msgstr "伊吉罗克铠甲"
 
 # scripts/items/armor/legendary/armor_of_davkul.nut
 msgid "Regenerates itself by [color="
-msgstr ""
+msgstr "回复自身 [color="
 
 # scripts/items/armor/legendary/armor_of_davkul.nut
 msgid "]90[/color] points of durability each turn."
@@ -42,7 +42,7 @@ msgstr ""
 
 # scripts/items/armor/legendary/ijirok_armor.nut
 msgid "]10[/color] hitpoints of the wearer each turn"
-msgstr ""
+msgstr "回复 10[/color] 生命值(每回合)"
 
 # scripts/items/armor/legendary/emperors_armor_fake.nut
 # scripts/items/armor/legendary/emperors_armor.nut

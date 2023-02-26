@@ -3,8 +3,7 @@ msgid ""
 msgstr ""
 
 # scripts/items/item_container.nut
-# scripts/items/item.nut
-msgid "player"
+msgid "Could not add "
 msgstr ""
 
 # scripts/items/item.nut
@@ -13,6 +12,26 @@ msgstr ""
 
 # scripts/items/item_container.nut
 msgid ", but is not equipped"
+msgstr ""
+
+# scripts/items/item_container.nut
+msgid "Attempted to add item "
+msgstr ""
+
+# scripts/items/item_container.nut
+msgid "# Showing inventory of "
+msgstr ""
+
+# scripts/items/item_container.nut
+msgid "Attempted to equip item "
+msgstr ""
+
+# scripts/items/item_container.nut
+msgid "Attempted to remove item "
+msgstr ""
+
+# scripts/items/item_container.nut
+msgid "Attempted to unequip item "
 msgstr ""
 
 # scripts/items/item.nut
@@ -28,11 +47,11 @@ msgid " from bag, but is placed somewhere else"
 msgstr ""
 
 # scripts/items/item_container.nut
-msgid "Neither item is equipped, unable to swap!"
+msgid ", but it is already placed somewhere else"
 msgstr ""
 
 # scripts/items/item_container.nut
-msgid ", but it is already placed somewhere else"
+msgid "Neither item is equipped, unable to swap!"
 msgstr ""
 
 # scripts/items/item_container.nut
@@ -45,6 +64,10 @@ msgstr ""
 
 # scripts/items/item_container.nut
 msgid " to bag, but is already placed somewhere else"
+msgstr ""
+
+# scripts/items/item.nut
+msgid "Worth [img]gfx/ui/tooltips/money.png[/img][b]"
 msgstr ""
 
 # scripts/items/item_container.nut

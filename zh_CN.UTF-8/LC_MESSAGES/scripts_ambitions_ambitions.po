@@ -32,6 +32,14 @@ msgstr "胜利在望"
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid ""
 "\n"
+"- Mead"
+msgstr ""
+"\n"
+"- 蜂蜜酒"
+
+# scripts/ambitions/ambitions/have_all_provisions_ambition.nut
+msgid ""
+"\n"
 "- Beer"
 msgstr ""
 "\n"
@@ -50,14 +58,6 @@ msgid ""
 "\n"
 "- Rice"
 msgstr "- 大米"
-
-# scripts/ambitions/ambitions/have_all_provisions_ambition.nut
-msgid ""
-"\n"
-"- Mead"
-msgstr ""
-"\n"
-"- 蜂蜜酒"
 
 # scripts/ambitions/ambitions/defeat_goblin_location_ambition.nut
 msgid "Victory!"
@@ -99,13 +99,13 @@ msgstr "极好的！"
 
 # scripts/ambitions/ambitions/defeat_holywar_ambition.nut
 # scripts/ambitions/ambitions/defeat_civilwar_ambition.nut
-msgid "Almost Over"
-msgstr "接近尾声"
+msgid "Dragging On"
+msgstr "陷入胶着"
 
 # scripts/ambitions/ambitions/defeat_holywar_ambition.nut
 # scripts/ambitions/ambitions/defeat_civilwar_ambition.nut
-msgid "Dragging On"
-msgstr "陷入胶着"
+msgid "Almost Over"
+msgstr "接近尾声"
 
 # scripts/ambitions/ambitions/cart_ambition.nut
 msgid "Get moving!"
@@ -147,18 +147,18 @@ msgstr ""
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid ""
 "\n"
-"- Smoked Ham"
-msgstr ""
-"\n"
-"- 熏火腿"
-
-# scripts/ambitions/ambitions/have_all_provisions_ambition.nut
-msgid ""
-"\n"
 "- Dried Lamb"
 msgstr ""
 "\n"
 "- 羊肉干"
+
+# scripts/ambitions/ambitions/have_all_provisions_ambition.nut
+msgid ""
+"\n"
+"- Smoked Ham"
+msgstr ""
+"\n"
+"- 熏火腿"
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid ""
@@ -196,18 +196,18 @@ msgstr "看到曙光"
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid ""
 "\n"
-"- Cured Rations"
-msgstr ""
-"\n"
-"- 腌制口粮"
-
-# scripts/ambitions/ambitions/have_all_provisions_ambition.nut
-msgid ""
-"\n"
 "- Ground Grains"
 msgstr ""
 "\n"
 "- 谷物"
+
+# scripts/ambitions/ambitions/have_all_provisions_ambition.nut
+msgid ""
+"\n"
+"- Cured Rations"
+msgstr ""
+"\n"
+"- 腌制口粮"
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid ""
@@ -1588,7 +1588,7 @@ msgstr ""
 "[img]gfx/ui/events/event_82.png[/img]%SPEECH_ON%所以他们不是战士？%SPEECH_OFF%一个佣兵问道。"
 " "
 "你摇摇头，他们就抓他们的。%SPEECH_ON%但他们还是被雇佣了？%SPEECH_OFF%你点头。佣兵噘起嘴唇一秒钟，然后澄清。%SPEECH_ON%绝对不打架？%SPEECH_OFF%不打架。%SPEECH_ON%没有一个吗？所以他们会到处放屁，到处做任何事情？%SPEECH_OFF%你解释说，并不是雇佣兵团的每一个重要角色都需要战斗。"
-" 在你列出了所有其他人可以帮忙的工作之后，佣兵想了一会儿。%SPEECH_ON%那他们能清点库存吗？ 因为我真的厌倦了。%SPEECH_OFF%不。 "
+" 在你列出了所有其他人可以帮忙的工作之后，佣兵想了一会儿。%SPEECH_ON%那他们能清点库存吗？ 因为我真的厌倦了。%SPEECH_OFF%No. "
 "Of course not. 你永远不会让你的秘密惩罚转嫁给别人。"
 
 # scripts/ambitions/ambitions/hammer_mastery_ambition.nut

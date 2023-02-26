@@ -3,15 +3,7 @@ msgid ""
 msgstr ""
 
 # scripts/items/weapons/legendary/obsidian_dagger.nut
-msgid "human"
-msgstr ""
-
-# scripts/items/weapons/legendary/obsidian_dagger.nut
 msgid "Corpse"
-msgstr ""
-
-# scripts/items/weapons/legendary/obsidian_dagger.nut
-msgid "player"
 msgstr ""
 
 # scripts/items/weapons/legendary/obsidian_dagger.nut

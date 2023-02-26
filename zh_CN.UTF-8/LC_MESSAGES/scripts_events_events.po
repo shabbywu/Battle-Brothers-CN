@@ -122,6 +122,36 @@ msgstr "出去！"
 msgid " has died"
 msgstr " 是死了"
 
+# scripts/events/events/childrens_crusade_event.nut
+# scripts/events/events/witchhunter_ghoul_teeth_event.nut
+# scripts/events/events/hidden_cache_forest_event.nut
+# scripts/events/events/beat_up_old_man_event.nut
+# scripts/events/events/kids_and_dead_merchant_event.nut
+# scripts/events/events/broken_wagon_in_swamp_event.nut
+# scripts/events/events/dogs_dig_up_loot_event.nut
+# scripts/events/events/imprisoned_wildman_event.nut
+# scripts/events/events/broken_cart_event.nut
+# scripts/events/events/sacrificed_man_event.nut
+# scripts/events/events/houndmaster_tames_wolf_event.nut
+# scripts/events/events/bowyer_crafts_masterwork_event.nut
+# scripts/events/events/man_in_forest_event.nut
+# scripts/events/events/raid_farmstead_event.nut
+# scripts/events/events/dead_lumberjack_event.nut
+# scripts/events/events/adopt_wardog_event.nut
+# scripts/events/events/ratcatcher_crafts_net_event.nut
+# scripts/events/events/graverobber_heist_event.nut
+# scripts/events/events/butcher_wardogs_event.nut
+# scripts/events/events/the_horseman_event.nut
+# scripts/events/events/tailor_werewolf_hide_armor_event.nut
+# scripts/events/events/come_across_burial_event.nut
+# scripts/events/events/come_across_ritual_event.nut
+# scripts/events/events/pimp_and_harlots_event.nut
+# scripts/events/events/traveling_troupe_event.nut
+# scripts/events/events/wildman_finds_something_event.nut
+# scripts/events/events/graverobber_finds_item_event.nut
+msgid "You gain "
+msgstr "你获得了 "
+
 # scripts/events/events/brawler_vs_brawler_event.nut
 # scripts/events/events/wildman_testing_money_event.nut
 # scripts/events/events/monk_vs_monk_event.nut
@@ -160,36 +190,6 @@ msgstr " 是死了"
 # scripts/events/events/cow_tipping_event.nut
 msgid " suffers "
 msgstr " 遭受 "
-
-# scripts/events/events/childrens_crusade_event.nut
-# scripts/events/events/witchhunter_ghoul_teeth_event.nut
-# scripts/events/events/hidden_cache_forest_event.nut
-# scripts/events/events/beat_up_old_man_event.nut
-# scripts/events/events/kids_and_dead_merchant_event.nut
-# scripts/events/events/broken_wagon_in_swamp_event.nut
-# scripts/events/events/dogs_dig_up_loot_event.nut
-# scripts/events/events/imprisoned_wildman_event.nut
-# scripts/events/events/broken_cart_event.nut
-# scripts/events/events/sacrificed_man_event.nut
-# scripts/events/events/houndmaster_tames_wolf_event.nut
-# scripts/events/events/bowyer_crafts_masterwork_event.nut
-# scripts/events/events/man_in_forest_event.nut
-# scripts/events/events/raid_farmstead_event.nut
-# scripts/events/events/dead_lumberjack_event.nut
-# scripts/events/events/adopt_wardog_event.nut
-# scripts/events/events/ratcatcher_crafts_net_event.nut
-# scripts/events/events/graverobber_heist_event.nut
-# scripts/events/events/butcher_wardogs_event.nut
-# scripts/events/events/the_horseman_event.nut
-# scripts/events/events/tailor_werewolf_hide_armor_event.nut
-# scripts/events/events/come_across_burial_event.nut
-# scripts/events/events/come_across_ritual_event.nut
-# scripts/events/events/pimp_and_harlots_event.nut
-# scripts/events/events/traveling_troupe_event.nut
-# scripts/events/events/wildman_finds_something_event.nut
-# scripts/events/events/graverobber_finds_item_event.nut
-msgid "You gain "
-msgstr "你获得了 "
 
 # scripts/events/events/wildman_testing_money_event.nut
 # scripts/events/events/food_goes_bad_event.nut
@@ -353,12 +353,12 @@ msgid "Has taught "
 msgstr ""
 
 # scripts/events/events/imprisoned_wildman_event.nut
-msgid "Uh, thanks."
-msgstr "呃，谢谢。"
-
-# scripts/events/events/imprisoned_wildman_event.nut
 msgid "Leave them."
 msgstr "别管他们。"
+
+# scripts/events/events/imprisoned_wildman_event.nut
+msgid "Uh, thanks."
+msgstr "呃，谢谢。"
 
 # scripts/events/events/raid_farmstead_event.nut
 msgid "We raid it."
@@ -430,12 +430,12 @@ msgid "Stupid kids."
 msgstr "一群傻孩子。."
 
 # scripts/events/events/how_far_is_the_sun_event.nut
-msgid "Errr, right."
-msgstr "额，好吧。"
-
-# scripts/events/events/how_far_is_the_sun_event.nut
 msgid "'s preaching"
 msgstr ""
+
+# scripts/events/events/how_far_is_the_sun_event.nut
+msgid "Errr, right."
+msgstr "额，好吧。"
 
 # scripts/events/events/player_is_rich_event.nut
 # scripts/events/events/noble_more_pay_lowborn_event.nut
@@ -538,16 +538,16 @@ msgstr ""
 # scripts/events/events/greedy_demands_raise_event.nut
 # scripts/events/events/noble_more_pay_lowborn_event.nut
 # scripts/events/events/aging_swordmaster_paycut_event.nut
-msgid " crowns a day"
-msgstr " crowns 一天"
+msgid " is now paid "
+msgstr ""
 
 # scripts/events/events/more_men_event.nut
 # scripts/events/events/sellsword_gets_better_deal_event.nut
 # scripts/events/events/greedy_demands_raise_event.nut
 # scripts/events/events/noble_more_pay_lowborn_event.nut
 # scripts/events/events/aging_swordmaster_paycut_event.nut
-msgid " is now paid "
-msgstr ""
+msgid " crowns a day"
+msgstr " crowns 一天"
 
 # scripts/events/events/combat_drill_event.nut
 # scripts/events/events/lend_men_to_build_event.nut
@@ -785,20 +785,20 @@ msgid "Indeed you do."
 msgstr "确实是的。"
 
 # scripts/events/events/juggler_tempts_fate_event.nut
-msgid "Is he alright?"
-msgstr "他还好吗？"
-
-# scripts/events/events/juggler_tempts_fate_event.nut
 msgid "That's enough."
 msgstr "够了。"
 
-# scripts/events/events/kids_and_dead_merchant_event.nut
-msgid "Back off, men."
-msgstr "撤退，伙计们。"
+# scripts/events/events/juggler_tempts_fate_event.nut
+msgid "Is he alright?"
+msgstr "他还好吗？"
 
 # scripts/events/events/kids_and_dead_merchant_event.nut
 msgid "Little pricks."
 msgstr "小刺头。"
+
+# scripts/events/events/kids_and_dead_merchant_event.nut
+msgid "Back off, men."
+msgstr "撤退，伙计们。"
 
 # scripts/events/events/cultist_vs_uneducated_event.nut
 msgid "Suit yourself."
@@ -932,13 +932,13 @@ msgid "That went well."
 msgstr "一切顺利。"
 
 # scripts/events/events/how_far_is_the_sun_event.nut
+msgid "Good shot, sir!"
+msgstr "一次优秀的射击，先生！"
+
+# scripts/events/events/how_far_is_the_sun_event.nut
 # scripts/events/events/cow_tipping_event.nut
 msgid "Entertained by "
 msgstr ""
-
-# scripts/events/events/how_far_is_the_sun_event.nut
-msgid "Good shot, sir!"
-msgstr "一次优秀的射击，先生！"
 
 # scripts/events/events/player_is_rich_event.nut
 # scripts/events/events/noble_more_pay_lowborn_event.nut
@@ -1289,12 +1289,12 @@ msgid "Let's roll again!"
 msgstr "再掷一次！"
 
 # scripts/events/events/the_horseman_event.nut
-msgid "the Filly Fiddler"
-msgstr ""
-
-# scripts/events/events/the_horseman_event.nut
 msgid "Let's keep going."
 msgstr "我们继续走吧。"
+
+# scripts/events/events/the_horseman_event.nut
+msgid "the Filly Fiddler"
+msgstr ""
 
 # scripts/events/events/greedy_demands_raise_event.nut
 msgid "You've earned it!"
@@ -1614,12 +1614,12 @@ msgid "Has seen a bad omen"
 msgstr "看到了一个坏兆头"
 
 # scripts/events/events/rookie_gets_hurt_event.nut
-msgid "]-3[/color] Resolve"
-msgstr ""
-
-# scripts/events/events/rookie_gets_hurt_event.nut
 msgid "Iron sharpens iron."
 msgstr "只有钢铁才能铸就钢铁。"
+
+# scripts/events/events/rookie_gets_hurt_event.nut
+msgid "]-3[/color] Resolve"
+msgstr ""
 
 # scripts/events/events/combat_drill_event.nut
 # scripts/events/events/hedgeknight_vs_hedgeknight_event.nut
@@ -1649,24 +1649,24 @@ msgid "]1000[/color] Crowns"
 msgstr "]1000[/color] 克朗"
 
 # scripts/events/events/hedgeknight_vs_hedgeknight_event.nut
-msgid "Killed in a duel by "
-msgstr "在决斗中死于 "
-
-# scripts/events/events/hedgeknight_vs_hedgeknight_event.nut
 msgid "]2000[/color] Crowns"
 msgstr "]2000[/color] 克朗"
+
+# scripts/events/events/hedgeknight_vs_hedgeknight_event.nut
+msgid "Killed in a duel by "
+msgstr "在决斗中死于 "
 
 # scripts/events/events/cocky_vs_iron_lungs_event.nut
 msgid "Felt entertained by "
 msgstr "感到愉快来自 "
 
 # scripts/events/events/bad_curse_event.nut
-msgid "Felt let down by you"
-msgstr "为你感到失望"
-
-# scripts/events/events/bad_curse_event.nut
 msgid "Was cured of a curse"
 msgstr "被诅咒治愈"
+
+# scripts/events/events/bad_curse_event.nut
+msgid "Felt let down by you"
+msgstr "为你感到失望"
 
 # scripts/events/events/shooting_contest_event.nut
 # scripts/events/events/bowyer_crafts_masterwork_event.nut
@@ -1858,12 +1858,12 @@ msgid "Better luck next time."
 msgstr "祝你下次好运。"
 
 # scripts/events/events/warriors_death_event.nut
-msgid "Let us honor the dead!"
-msgstr "让我们给这些死者最后的体面！"
-
-# scripts/events/events/warriors_death_event.nut
 msgid "Just leave them there."
 msgstr "别管尸体了。"
+
+# scripts/events/events/warriors_death_event.nut
+msgid "Let us honor the dead!"
+msgstr "让我们给这些死者最后的体面！"
 
 # scripts/events/events/imprisoned_wildman_event.nut
 # scripts/events/events/cat_on_tree_event.nut
@@ -1900,12 +1900,12 @@ msgid "Take care you bastard."
 msgstr "多保重，你个混蛋。"
 
 # scripts/events/events/bastard_assassin_event.nut
-msgid "Or I'll just kill you."
-msgstr "我还是要杀了你。"
-
-# scripts/events/events/bastard_assassin_event.nut
 msgid "I guess that was that."
 msgstr "我想事情就是如此。"
+
+# scripts/events/events/bastard_assassin_event.nut
+msgid "Or I'll just kill you."
+msgstr "我还是要杀了你。"
 
 # scripts/events/events/oldguard_becomes_drunkard_event.nut
 msgid " has become a drunkard"
@@ -1956,25 +1956,25 @@ msgid "This isn't our problem."
 msgstr "这不是我们的问题。"
 
 # scripts/events/events/imprisoned_wildman_event.nut
-# scripts/events/events/adopt_wardog_event.nut
-msgid "Welcome to the company."
-msgstr "欢迎加入战队。"
-
-# scripts/events/events/imprisoned_wildman_event.nut
 # scripts/events/events/wildman_causes_havoc_event.nut
 msgid "This ain't our problem."
 msgstr "这不是我们自己的问题。"
+
+# scripts/events/events/imprisoned_wildman_event.nut
+# scripts/events/events/adopt_wardog_event.nut
+msgid "Welcome to the company."
+msgstr "欢迎加入战队。"
 
 # scripts/events/events/broken_cart_event.nut
 msgid "I hope it was worth it."
 msgstr "我希望这物有所值。"
 
 # scripts/events/events/shooting_contest_event.nut
-msgid "]-30[/color] Ammunition"
+msgid "]-60[/color] Ammunition"
 msgstr ""
 
 # scripts/events/events/shooting_contest_event.nut
-msgid "]-60[/color] Ammunition"
+msgid "]-30[/color] Ammunition"
 msgstr ""
 
 # scripts/events/events/bowyer_crafts_masterwork_event.nut
@@ -1986,16 +1986,16 @@ msgid "Huh. Interesting story."
 msgstr "哏。非常有趣的故事。"
 
 # scripts/events/events/traveler_event.nut
+msgid "What you heard is true."
+msgstr "你听说的那些没错是真的。"
+
+# scripts/events/events/traveler_event.nut
 msgid "A noble tale, stranger."
 msgstr "一个高尚的故事，陌生人。"
 
 # scripts/events/events/traveler_event.nut
 msgid "A frightening prospect."
 msgstr "一个可怕的展望。"
-
-# scripts/events/events/traveler_event.nut
-msgid "What you heard is true."
-msgstr "你听说的那些没错是真的。"
 
 # scripts/events/events/strength_contest_event.nut
 # scripts/events/events/cow_tipping_event.nut
@@ -2137,12 +2137,12 @@ msgid "I have no time for this."
 msgstr "我没有时间干这个。"
 
 # scripts/events/events/drunkard_loses_stuff_event.nut
-msgid " is no longer a drunkard"
-msgstr " 不再是个酒鬼"
-
-# scripts/events/events/drunkard_loses_stuff_event.nut
 msgid "Get him out of my sight."
 msgstr "让他滚出我的视线。"
+
+# scripts/events/events/drunkard_loses_stuff_event.nut
+msgid " is no longer a drunkard"
+msgstr " 不再是个酒鬼"
 
 # scripts/events/events/fell_down_well_event.nut
 msgid "I guess we can help her."
@@ -2236,12 +2236,12 @@ msgid "Has lost too many friends"
 msgstr "失去了太多的朋友"
 
 # scripts/events/events/drunkard_loses_stuff_event.nut
-msgid "Latrine duty for a month!"
-msgstr "罚他打扫茅厕一个月作为惩罚！"
-
-# scripts/events/events/drunkard_loses_stuff_event.nut
 msgid "Everybody makes mistakes."
 msgstr "每个人都会犯错。"
+
+# scripts/events/events/drunkard_loses_stuff_event.nut
+msgid "Latrine duty for a month!"
+msgstr "罚他打扫茅厕一个月作为惩罚！"
 
 # scripts/events/events/ratcatcher_catches_food_event.nut
 msgid "Was served rat for dinner"
@@ -2324,13 +2324,13 @@ msgid "Build me a bow of legends!"
 msgstr "给我做一把传奇的弓！"
 
 # scripts/events/events/killer_vs_others_event.nut
+msgid "Have him flogged for this."
+msgstr "对他处以鞭刑。"
+
+# scripts/events/events/killer_vs_others_event.nut
 # scripts/events/events/drunkard_loses_stuff_event.nut
 msgid "Was flogged on your orders"
 msgstr "被你命令鞭打了"
-
-# scripts/events/events/killer_vs_others_event.nut
-msgid "Have him flogged for this."
-msgstr "对他处以鞭刑。"
 
 # scripts/events/events/graverobber_heist_event.nut
 msgid "Uh, maybe some other time."
@@ -2421,12 +2421,12 @@ msgid "[/color] Tools and Supplies"
 msgstr ""
 
 # scripts/events/events/traveler_event.nut
-msgid "Well, may he rest in peace."
-msgstr "好吧，愿他安息。"
-
-# scripts/events/events/traveler_event.nut
 msgid "We got a mirror right here."
 msgstr "我这里恰好有一面镜子。"
+
+# scripts/events/events/traveler_event.nut
+msgid "Well, may he rest in peace."
+msgstr "好吧，愿他安息。"
 
 # scripts/events/events/retired_soldier_tale_event.nut
 msgid "Told one of his war stories"
@@ -2571,12 +2571,12 @@ msgid "'s speech about the dying sun"
 msgstr ""
 
 # scripts/events/events/creepy_guy_event.nut
-msgid "Very funny. Now hand it back."
-msgstr "很有趣。现在交回来吧。"
-
-# scripts/events/events/creepy_guy_event.nut
 msgid "We'd rather not get involved."
 msgstr "我们宁愿不卷入其中。"
+
+# scripts/events/events/creepy_guy_event.nut
+msgid "Very funny. Now hand it back."
+msgstr "很有趣。现在交回来吧。"
 
 # scripts/events/events/troublemakers_bully_peasants_event.nut
 # scripts/events/events/raid_farmstead_event.nut
@@ -2640,12 +2640,12 @@ msgid "You recruited a fellow cultist"
 msgstr "你招募了一个异教徒"
 
 # scripts/events/events/thief_caught_event.nut
-msgid "Die with some dignity at last."
-msgstr "带着些尊严死去吧。"
-
-# scripts/events/events/thief_caught_event.nut
 msgid "Felt for a thief killed by you"
 msgstr "感觉像是被你杀死的小偷"
+
+# scripts/events/events/thief_caught_event.nut
+msgid "Die with some dignity at last."
+msgstr "带着些尊严死去吧。"
 
 # scripts/events/events/sellsword_gets_better_deal_event.nut
 msgid "I see, time to part ways then."
@@ -2756,12 +2756,12 @@ msgid "How much are you paid for this?"
 msgstr "他们给了你多少钱？"
 
 # scripts/events/events/beggar_begs_event.nut
-msgid "Got a few extra crowns from you"
-msgstr "从你这多拿了几个克朗"
-
-# scripts/events/events/beggar_begs_event.nut
 msgid "Here you go, have a few crowns."
 msgstr "给你，这里有些克朗。"
+
+# scripts/events/events/beggar_begs_event.nut
+msgid "Got a few extra crowns from you"
+msgstr "从你这多拿了几个克朗"
 
 # scripts/events/events/flagellation_horrifies_other_event.nut
 msgid "Satisfied with his flagellation"
@@ -2796,12 +2796,12 @@ msgid "Well, I saw it. Now get moving."
 msgstr "好吧，但我已经看到了。继续前进吧。"
 
 # scripts/events/events/supposed_witch_event.nut
-msgid "Saw an evil spirit meet its end"
-msgstr "看到一个邪灵被终结"
-
-# scripts/events/events/supposed_witch_event.nut
 msgid "Rooting out evil is never easy."
 msgstr "铲除邪恶绝非易事。"
+
+# scripts/events/events/supposed_witch_event.nut
+msgid "Saw an evil spirit meet its end"
+msgstr "看到一个邪灵被终结"
 
 # scripts/events/events/flagellant_vs_monk_event.nut
 msgid "May the man find his peace now."
@@ -2877,12 +2877,12 @@ msgid "Let's wait and see what happens."
 msgstr "我们等待看看发生什么了。"
 
 # scripts/events/events/traveling_troupe_event.nut
-msgid "%entertainerfull%, what say you?"
-msgstr "%entertainerfull%，你说什么？"
-
-# scripts/events/events/traveling_troupe_event.nut
 msgid "Learn to mime, you creepy prick."
 msgstr "从哑剧演员身上学着点，你这个恶心的混蛋。"
+
+# scripts/events/events/traveling_troupe_event.nut
+msgid "%entertainerfull%, what say you?"
+msgstr "%entertainerfull%，你说什么？"
 
 # scripts/events/events/supposed_witch_event.nut
 msgid "Saw a witch burning at the stake"
@@ -2950,12 +2950,12 @@ msgid "Forced to eat against his beliefs"
 msgstr "被迫违背信仰吃东西"
 
 # scripts/events/events/come_across_ritual_event.nut
-msgid "%cultist%, is this not your cult?"
-msgstr "%cultist%，这不是你的宗教么？"
-
-# scripts/events/events/come_across_ritual_event.nut
 msgid "We need to stop this now. Attack!"
 msgstr "我们需要马上阻止他们。 攻击！"
+
+# scripts/events/events/come_across_ritual_event.nut
+msgid "%cultist%, is this not your cult?"
+msgstr "%cultist%，这不是你的宗教么？"
 
 # scripts/events/events/pimp_vs_harlot_event.nut
 msgid "The pimp game isn't for everyone."
@@ -3338,13 +3338,13 @@ msgid "{Good to have you back. | Good as new.}"
 msgstr "{欢迎回来。 | 看起来不错。}"
 
 # scripts/events/events/cocky_challenges_player_event.nut
+msgid "I'm in charge here! This is my company!"
+msgstr "这里我说了算！ 这是我的战队！"
+
+# scripts/events/events/cocky_challenges_player_event.nut
 # scripts/events/events/minstrel_teases_deserter_event.nut
 msgid "Felt humiliated in front of the company"
 msgstr "在战队面前感到丢脸"
-
-# scripts/events/events/cocky_challenges_player_event.nut
-msgid "I'm in charge here! This is my company!"
-msgstr "这里我说了算！ 这是我的战队！"
 
 # scripts/events/events/juggler_entertains_townsfolk_event.nut
 msgid "Entertained townsfolk with his juggling"
@@ -3711,16 +3711,16 @@ msgid "Good to have the men burn for battle like this."
 msgstr "享受战火热爱战火实在是不可多得的人才。"
 
 # scripts/events/events/hedgeknight_vs_hedgeknight_event.nut
-msgid "Angry about you bribing men to stop their fight"
-msgstr "因为你贿赂人来阻止他们的斗争而生气"
+msgid "A death in battle for %hedgeknight2%, at least."
+msgstr "至少 %hedgeknight2% 也算是死得其所。"
 
 # scripts/events/events/hedgeknight_vs_hedgeknight_event.nut
 msgid "A death in battle for %hedgeknight1%, at least."
 msgstr "至少 %hedgeknight1% 也算是死得其所。"
 
 # scripts/events/events/hedgeknight_vs_hedgeknight_event.nut
-msgid "A death in battle for %hedgeknight2%, at least."
-msgstr "至少 %hedgeknight2% 也算是死得其所。"
+msgid "Angry about you bribing men to stop their fight"
+msgstr "因为你贿赂人来阻止他们的斗争而生气"
 
 # scripts/events/events/warriors_death_event.nut
 msgid "Now we can leave them to find their final rest."
@@ -3924,12 +3924,12 @@ msgid "Relished the opportunity to talk about the dying sun"
 msgstr "享受谈论垂死的太阳的机会"
 
 # scripts/events/events/hedgeknight_vs_hedgeknight_event.nut
-msgid "%monk% the monk, can you find a peaceful resolution?"
-msgstr ""
-
-# scripts/events/events/hedgeknight_vs_hedgeknight_event.nut
 msgid "%monk% the monk! Can you find a peaceful resolution?"
 msgstr "%monk% 僧侣！ 你能找到一个和平的解决办法吗？"
+
+# scripts/events/events/hedgeknight_vs_hedgeknight_event.nut
+msgid "%monk% the monk, can you find a peaceful resolution?"
+msgstr ""
 
 # scripts/events/events/shortsighted_shoots_bro_event.nut
 msgid "Get that wound looked at, %shortsightedtargetshort%."
@@ -7363,16 +7363,6 @@ msgstr ""
 
 # scripts/events/events/dogfighting_event.nut
 msgid ""
-"[img]gfx/ui/events/event_47.png[/img]The two dogs sprint toward one another and cover the small arena in a flash. They collide, their crude bodies wheeling away from one another before their feet plant and charge in for another shot. The opponent's dog ducks beneath %wardog% then rises back up, glomming onto the underside of your dog's neck.\n"
-"\n"
-"%doghandler%'s hands go to his face, his eyes staring out between his fingers. You watch as %wardog% is shaken from side to side. Blood spurts from its nose as it yelps. You can hear the scratch of scissoring, helpless legs as the dog tries to kick across the dirt. The audience jeers and laughs."
-msgstr ""
-"[img]gfx/ui/events/event_47.png[/img]两只狗向对方冲去，一眨眼就冲过了自己的那半边场地。 它们相撞了，粗糙的身体在它们的脚落地前互相弹开，它们继续冲锋准备二次相撞。 对手的狗在 %wardog% 面前把头放低，然后抬起后背，悄悄的把头伸到你的狗的脖子下面。\n"
-"\n"
-"%doghandler%的双手捂着脸，两眼从指缝间向外瞪着。 你看着 %wardog% 左右摇晃。 血从它的鼻子里喷涌而出。 你可以听到狗在试图踢过泥土时，腿发出的无助的刮擦声。 观众发出一阵嘲笑和大笑声。"
-
-# scripts/events/events/dogfighting_event.nut
-msgid ""
 "[img]gfx/ui/events/event_20.png[/img]You order %doghandler% to put the dog "
 "down. His eyes widen.%SPEECH_ON%You can't be serious.%SPEECH_OFF%Nodding, "
 "you say you are. %wardog%'s barely awake, snorting between frightened "
@@ -7388,6 +7378,16 @@ msgstr ""
 "几乎没有清醒，鼻息在惊恐的警觉性和麻木的意识之间。 当 %doghandler% 还在犹豫的时候，你抓住狗，把它拉开。 "
 "你向人群点头，然后你的对手第二次释放他的凶残的恶犬。%wardog% 疲惫不堪，泪汪汪的眼睛抬头看着你，眨了眨眼睛，然后合上。 "
 "你把狗放下，你的对手的恶犬就带着兽性的狂暴扑向它。 你试着不去听在你脚下上演的恐怖死亡大戏。"
+
+# scripts/events/events/dogfighting_event.nut
+msgid ""
+"[img]gfx/ui/events/event_47.png[/img]The two dogs sprint toward one another and cover the small arena in a flash. They collide, their crude bodies wheeling away from one another before their feet plant and charge in for another shot. The opponent's dog ducks beneath %wardog% then rises back up, glomming onto the underside of your dog's neck.\n"
+"\n"
+"%doghandler%'s hands go to his face, his eyes staring out between his fingers. You watch as %wardog% is shaken from side to side. Blood spurts from its nose as it yelps. You can hear the scratch of scissoring, helpless legs as the dog tries to kick across the dirt. The audience jeers and laughs."
+msgstr ""
+"[img]gfx/ui/events/event_47.png[/img]两只狗向对方冲去，一眨眼就冲过了自己的那半边场地。 它们相撞了，粗糙的身体在它们的脚落地前互相弹开，它们继续冲锋准备二次相撞。 对手的狗在 %wardog% 面前把头放低，然后抬起后背，悄悄的把头伸到你的狗的脖子下面。\n"
+"\n"
+"%doghandler%的双手捂着脸，两眼从指缝间向外瞪着。 你看着 %wardog% 左右摇晃。 血从它的鼻子里喷涌而出。 你可以听到狗在试图踢过泥土时，腿发出的无助的刮擦声。 观众发出一阵嘲笑和大笑声。"
 
 # scripts/events/events/raid_farmstead_event.nut
 msgid ""
@@ -13286,4 +13286,4 @@ msgstr ""
 "\n"
 "那个发现这些恶心玩意儿的兄弟站在你身旁。%SPEECH_ON%没有身体，先生。只有…腿。%SPEECH_OFF%你看向那个雇佣兵，但他能做的也就是耸肩。%SPEECH_ON%我们一块身体的部位都没有发现，先生。 我的意思是，不管怎么样，总该会有上半部分才对。 你觉得这里面有什么含义吗？ 我是说，到底谁会做这种事？ 卸掉人腿然后带走其他部分？%SPEECH_OFF%你不以为然地摇了摇头。 看够了这些，并且脑子里也没有这些问题的答案，你匆匆地带领你的手下离开这片空地继续前进。 | 你停在一条小溪边洗漱，喝点东西，但是在你喝下第一口之前，%randombrother% 抓住了你的肩膀。 他指向上游。一个女人的尸体面部朝下漂浮在水上，她的长发扭曲活泼地荡漾着。 你感谢这位佣兵将你从死亡降临的这个世界的任何恶疾中拯救出来。 | 树冠厚实而扭曲。 无论上面有什么光都几乎不能穿透，当你的人前进时，阴影做成的织物层层包围着他们。 但在前方，你看到一根光柱在森林中闪烁。 很显然，这是别人先看到的。 而且这是他们看到的最后一件东西。\n"
 "\n"
-"在那道亮光中，一个男孩仰卧在一棵树上。 他的头昂着，双手向上张开。 紫色的污迹弄脏了他的手掌。%randombrother% 走上前然后果断地摇了摇头。%SPEECH_ON%毒浆果，这该死的孩子没机会活下来。%SPEECH_OFF%你回头看向战场兄弟，询问他是不是走得很安详。 那人又摇了摇头。 %SPEECH_ON%不。%SPEECH_OFF% | 一具尸体，或者说，它只是一具躯干。 胸部敞开，灰黑的内脏四通八达，就这么柔软地垂在那里。 你不知道它是个男人还是女人，但这肯定是个被刀切得远小于原来尺寸的成年人。 你想不到什么样的生物会这么做，尽管 %randombrother% 认为这可能是一个意志非常坚定的人所干的事。 | 你发现一具女人的尸体，背靠在树上。 她的胸口有一把刀，伤口迅速致命，就好像她本来还活着走得好好的然后突然死了。 在她上方，另一个女人挂在树枝上荡来荡去。 她的衣服是红色的。 尸体的头向前倾斜，好像在盯着她犯下的罪行，挂在那里的绳子在无声的风中呻吟。 | 你遇到了一片战场。 人，盔甲，武器，没有一个是有用的。 死者是被某种你不想学的纯粹的残暴弄这样的。 泥土上的脚印表示着这里曾经发生过什么大事，留下了毁灭和灾难的尾迹，并且没有给你任何冲动让你跟随这些脚步的去向。 | 向前走，你发现一个背上有几支折断的箭的死人。 更多的刺伤，凶手设法把他的弹药一件一件地取回。 那个人手里拿着一封情书，目的地显然是一个信中提及的女人。唉，真浪漫。}"
+"在那道亮光中，一个男孩仰卧在一棵树上。 他的头昂着，双手向上张开。 紫色的污迹弄脏了他的手掌。%randombrother% 走上前然后果断地摇了摇头。%SPEECH_ON%毒浆果，这该死的孩子没机会活下来。%SPEECH_OFF%你回头看向战场兄弟，询问他是不是走得很安详。 那人又摇了摇头。 %SPEECH_ON%No.%SPEECH_OFF% | 一具尸体，或者说，它只是一具躯干。 胸部敞开，灰黑的内脏四通八达，就这么柔软地垂在那里。 你不知道它是个男人还是女人，但这肯定是个被刀切得远小于原来尺寸的成年人。 你想不到什么样的生物会这么做，尽管 %randombrother% 认为这可能是一个意志非常坚定的人所干的事。 | 你发现一具女人的尸体，背靠在树上。 她的胸口有一把刀，伤口迅速致命，就好像她本来还活着走得好好的然后突然死了。 在她上方，另一个女人挂在树枝上荡来荡去。 她的衣服是红色的。 尸体的头向前倾斜，好像在盯着她犯下的罪行，挂在那里的绳子在无声的风中呻吟。 | 你遇到了一片战场。 人，盔甲，武器，没有一个是有用的。 死者是被某种你不想学的纯粹的残暴弄这样的。 泥土上的脚印表示着这里曾经发生过什么大事，留下了毁灭和灾难的尾迹，并且没有给你任何冲动让你跟随这些脚步的去向。 | 向前走，你发现一个背上有几支折断的箭的死人。 更多的刺伤，凶手设法把他的弹药一件一件地取回。 那个人手里拿着一封情书，目的地显然是一个信中提及的女人。唉，真浪漫。}"
