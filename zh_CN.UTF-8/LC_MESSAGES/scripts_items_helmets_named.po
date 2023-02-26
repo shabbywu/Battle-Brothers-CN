@@ -126,7 +126,7 @@ msgstr "封闭式头盔"
 
 # scripts/items/helmets/named/named_steppe_helmet_with_mail.nut
 msgid "Steppe Helmet"
-msgstr ""
+msgstr "草原头盔"
 
 # scripts/items/helmets/named/named_metal_bull_helmet.nut
 msgid "Horned Helmet"
@@ -146,7 +146,7 @@ msgstr "捕食者冠"
 
 # scripts/items/helmets/named/wolf_helmet.nut
 msgid "Berserker Coif"
-msgstr ""
+msgstr "狂战士头巾"
 
 # scripts/items/helmets/named/golden_feathers_helmet.nut
 msgid "Helm with Coif"

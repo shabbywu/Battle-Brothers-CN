@@ -339,9 +339,6 @@ msgstr "步法"
 msgid "ffffffff"
 msgstr ""
 
-msgid ""
-msgstr ""
-
 # scripts/skills/actives/kraken_move_skill.nut
 # scripts/skills/actives/kraken_move_ensnared_skill.nut
 # scripts/skills/actives/alp_teleport_skill.nut

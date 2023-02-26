@@ -279,9 +279,7 @@ msgstr "一种附有锋利弯曲的刀刃的长杆，用于在一定距离内进
 msgid ""
 "Goblins know how to craft efficient and light bows. This piece, made from "
 "some unknown pale wood, has surprising pulling power despite its small size."
-msgstr ""
-"Goblins know how to craft efficient and light 鞠了一躬。 "
-"这件由一些不知名的白木制成，尽管体积小，但具有惊人的拉力。"
+msgstr "哥布林知道如何制作高效的轻型弓。 这件由一些不知名的白木制成，尽管体积小，但具有惊人的拉力。"
 
 # scripts/items/weapons/named/named_qatal_dagger.nut
 msgid ""

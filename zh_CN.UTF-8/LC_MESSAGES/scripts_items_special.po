@@ -64,9 +64,7 @@ msgstr "立即治愈所有临时伤害，以及宿醉和精疲力竭状态的影
 msgid ""
 "A small goose statue crafted from solid gold. A tiny golden egg mysteriously"
 " emerges from the statue once a day."
-msgstr ""
-"A small goose statue crafted from solid gold. A tiny golden egg mysteriously"
-" emerges from the statue once 一天."
+msgstr "一个用纯金制作的小鹅雕像。每天有一个小小的金蛋神秘地从雕像上冒出来。"
 
 # scripts/items/special/fountain_of_youth_item.nut
 # scripts/items/special/spiritual_reward_item.nut
