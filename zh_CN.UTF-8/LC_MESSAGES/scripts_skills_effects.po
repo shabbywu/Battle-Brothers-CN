@@ -67,6 +67,9 @@ msgstr "愤怒！！！"
 msgid "Visions"
 msgstr ""
 
+msgid ""
+msgstr ""
+
 # scripts/skills/effects/charmed_effect.nut
 msgid "ffffff00"
 msgstr ""
@@ -642,7 +645,7 @@ msgstr ""
 
 # scripts/skills/effects/insect_swarm_effect.nut
 msgid "]-50%[/color] Melee Skill"
-msgstr ""
+msgstr "]-50%[/color] 近战技能"
 
 # scripts/skills/effects/sleeping_effect.nut
 msgid "Can take damage from Alps"
@@ -650,7 +653,7 @@ msgstr ""
 
 # scripts/skills/effects/lone_wolf_effect.nut
 msgid "]+15%[/color] Melee Skill"
-msgstr ""
+msgstr "]+15%[/color] 近战技能"
 
 # scripts/skills/effects/captain_effect.nut
 msgid "Inspired by nearby Leader"
@@ -668,7 +671,7 @@ msgstr "急速组织生长"
 # scripts/skills/effects/smoke_effect.nut
 # scripts/skills/effects/insect_swarm_effect.nut
 msgid "]-50%[/color] Ranged Skill"
-msgstr ""
+msgstr "]-50%[/color] 远程技能"
 
 # scripts/skills/effects/indomitable_effect.nut
 msgid "]50%[/color] of any damage"
@@ -684,11 +687,11 @@ msgstr ""
 
 # scripts/skills/effects/nine_lives_effect.nut
 msgid "]+15[/color] Melee Defense"
-msgstr ""
+msgstr "]+15[/color] 近战防御"
 
 # scripts/skills/effects/lone_wolf_effect.nut
 msgid "]+15%[/color] Ranged Skill"
-msgstr ""
+msgstr "]+15%[/color] 远程技能"
 
 # scripts/skills/effects/orc_berserker_potion_effect.nut
 msgid "%[/color] damage reduction"
@@ -696,7 +699,7 @@ msgstr ""
 
 # scripts/skills/effects/berserker_mushrooms_effect.nut
 msgid "]-15[/color] Melee Defense"
-msgstr ""
+msgstr "]-15[/color] 近战防御"
 
 # scripts/skills/effects/webknecht_potion_effect.nut
 msgid "Mutated Circulatory System"
@@ -705,44 +708,44 @@ msgstr "变异循环系统"
 # scripts/skills/effects/web_effect.nut
 # scripts/skills/effects/insect_swarm_effect.nut
 msgid "]-50%[/color] Melee Defense"
-msgstr ""
+msgstr "]-50%[/color] 近战防御"
 
 # scripts/skills/effects/rooted_effect.nut
 msgid "]-35%[/color] Melee Defense"
-msgstr ""
+msgstr "]-35%[/color] 近战防御"
 
 # scripts/skills/effects/nine_lives_effect.nut
 msgid "]+15[/color] Ranged Defense"
-msgstr ""
+msgstr "]+15[/color] 远程防御"
 
 # scripts/skills/effects/lone_wolf_effect.nut
 msgid "]+15%[/color] Melee Defense"
-msgstr ""
+msgstr "]+15%[/color] 近战防御"
 
 # scripts/skills/effects/net_effect.nut
 msgid "]-45%[/color] Melee Defense"
-msgstr ""
+msgstr "]-45%[/color] 近战防御"
 
 # scripts/skills/effects/berserker_mushrooms_effect.nut
 msgid "]-15[/color] Ranged Defense"
-msgstr ""
+msgstr "]-15[/color] 远程防御"
 
 # scripts/skills/effects/web_effect.nut
 # scripts/skills/effects/insect_swarm_effect.nut
 msgid "]-50%[/color] Ranged Defense"
-msgstr ""
+msgstr "]-50%[/color] 远程防御"
 
 # scripts/skills/effects/rooted_effect.nut
 msgid "]-35%[/color] Ranged Defense"
-msgstr ""
+msgstr "]-35%[/color] 远程防御"
 
 # scripts/skills/effects/lone_wolf_effect.nut
 msgid "]+15%[/color] Ranged Defense"
-msgstr ""
+msgstr "]+15%[/color] 远程防御"
 
 # scripts/skills/effects/net_effect.nut
 msgid "]-45%[/color] Ranged Defense"
-msgstr ""
+msgstr "]-45%[/color] 远程防御"
 
 # scripts/skills/effects/kraken_ensnare_effect.nut
 # scripts/skills/effects/serpent_ensnare_effect.nut
@@ -751,7 +754,7 @@ msgstr "]不能使用技能[/color]"
 
 # scripts/skills/effects/smoke_effect.nut
 msgid "]+100%[/color] Ranged Defense"
-msgstr ""
+msgstr "]+100%[/color] 远程防御"
 
 # scripts/skills/effects/berserker_mushrooms_effect.nut
 msgid "]+25%[/color] Damage in Melee"

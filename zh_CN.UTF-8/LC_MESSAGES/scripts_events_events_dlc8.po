@@ -35,6 +35,9 @@ msgstr ""
 msgid " suffers "
 msgstr " 遭受 "
 
+msgid ""
+msgstr ""
+
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
 # scripts/events/events/dlc8/tree_fort_event.nut
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
@@ -718,7 +721,7 @@ msgstr ""
 
 # scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
 msgid "]+1[/color] Melee Skill"
-msgstr ""
+msgstr "]+1[/color] 近战技能"
 
 # scripts/events/events/dlc8/lindwurm_slayer_event.nut
 msgid "No, thanks, we're good."
@@ -734,7 +737,7 @@ msgstr ""
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
 msgid "]+8[/color] Melee Skill"
-msgstr ""
+msgstr "]+8[/color] 近战技能"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
 msgid "]+3[/color] Max Fatigue"
@@ -792,7 +795,7 @@ msgstr ""
 
 # scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
 msgid "]+1[/color] Ranged Skill"
-msgstr ""
+msgstr "]+1[/color] 远程技能"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "]+150[/color] Experience"
@@ -804,7 +807,7 @@ msgstr ""
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
 msgid "]+7[/color] Ranged Skill"
-msgstr ""
+msgstr "]+7[/color] 远程技能"
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
 msgid "Sure, he can come along."
@@ -841,7 +844,7 @@ msgstr ""
 # scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
 # scripts/events/events/dlc8/anatomist_vs_splinter_event.nut
 msgid "]+1[/color] Melee Defense"
-msgstr ""
+msgstr "]+1[/color] 近战防御"
 
 # scripts/events/events/dlc8/oathtakers_lore_event.nut
 msgid "Speak about Young Anselm."
@@ -849,7 +852,7 @@ msgstr ""
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
 msgid "]+4[/color] Melee Defense"
-msgstr ""
+msgstr "]+4[/color] 近战防御"
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
 msgid "Better wise up, wiseacre."
@@ -889,7 +892,7 @@ msgstr ""
 
 # scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
 msgid "]+1[/color] Ranged Defense"
-msgstr ""
+msgstr "]+1[/color] 远程防御"
 
 # scripts/events/events/dlc8/disowned_noble_vs_deserter_event.nut
 msgid "Reminisced about old times"
@@ -897,7 +900,7 @@ msgstr ""
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
 msgid "]+4[/color] Ranged Defense"
-msgstr ""
+msgstr "]+4[/color] 远程防御"
 
 # scripts/events/events/dlc8/brawler_throw_fight_event.nut
 msgid "Lost a fighting tournament"

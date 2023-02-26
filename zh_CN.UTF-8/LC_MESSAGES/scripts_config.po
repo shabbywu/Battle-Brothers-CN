@@ -13539,7 +13539,7 @@ msgstr ""
 
 # scripts/config/tactical.nut
 msgid "]-25%[/color] Melee Skill"
-msgstr ""
+msgstr "]-25%[/color] 近战技能"
 
 # scripts/config/faction_traits_archetypes.nut
 msgid "Things locked up are safe"
@@ -13723,7 +13723,7 @@ msgstr "]+5%[/color]"
 
 # scripts/config/tactical.nut
 msgid "]-25%[/color] Melee Defense"
-msgstr ""
+msgstr "]-25%[/color] 近战防御"
 
 # scripts/config/faction_traits_archetypes.nut
 msgid "The eagle catches not flies"
@@ -13827,7 +13827,7 @@ msgstr "不是每一场战斗都能胜利。"
 
 # scripts/config/tactical.nut
 msgid "]-25%[/color] Ranged Defense"
-msgstr ""
+msgstr "]-25%[/color] 远程防御"
 
 # scripts/config/faction_traits_archetypes.nut
 msgid "Nothing in life is permanent"
@@ -14259,7 +14259,7 @@ msgstr "男人们一边喝酒一边为战队的名字欢呼。"
 
 # scripts/config/strings.nut
 msgid "The Knock Back skill now also inflicts [color="
-msgstr "击退技能额外造成 [color="
+msgstr "撞退技能额外造成 [color="
 
 # scripts/config/tip_of_the_day.nut
 msgid "Bows perform better against unarmored targets."
@@ -14632,7 +14632,7 @@ msgid ""
 msgstr ""
 "]50%[/color], 但至少为 1。\n"
 "\n"
-" “击退”技能命中率提高 [color="
+" “撞退”技能命中率提高 [color="
 
 # scripts/config/strings.nut
 msgid "Master polearms and keeping the enemy at bay. Skills build up [color="
@@ -14977,7 +14977,7 @@ msgstr "兽人狂暴者失去更多的血就会更愤怒，并且变得更难被
 msgid ""
 "]10[/color] Fatigue in addition to its normal effect, and costs 10 Fatigue "
 "less to use."
-msgstr "]10[/color] 点疲劳。同时, 击退技能的疲劳消耗减少 10"
+msgstr "]10[/color] 点疲劳。同时, 撞退技能的疲劳消耗减少 10"
 
 # scripts/config/tip_of_the_day.nut
 msgid ""
@@ -15216,7 +15216,7 @@ msgstr ""
 msgid ""
 "]50%[/color] damage reduction and immunity to being stunned, knocked back or"
 " grabbed for one turn."
-msgstr "]50%[/color]的伤害减免，以及对被击晕、击退或抓住的免疫，持续一回合。"
+msgstr "]50%[/color]的伤害减免，以及对被击晕、撞退或抓住的免疫，持续一回合。"
 
 # scripts/config/rumors.nut
 msgid ""
@@ -15467,7 +15467,7 @@ msgstr "我们每天都听到越来越多的农场和村庄被烧毁的故事。
 msgid ""
 "We barely fought off the greenskins last time at the Battle of Many Names, "
 "just barely made it, and now they're back."
-msgstr "上一次在许多名人之战中，我们几乎没有击退绿皮，只是勉强成功，现在他们又回来了。"
+msgstr "上一次在许多名人之战中，我们几乎没有撞退绿皮，只是勉强成功，现在他们又回来了。"
 
 # scripts/config/rumors.nut
 msgid ""
@@ -15841,7 +15841,7 @@ msgstr "跟兽人交过手吗？据说它们有两人高并且比人类强壮三
 msgid ""
 "Immunity against being knocked back or pulled up close. Applies to skills "
 "such as Knock Back, Hook and others that change a character's position."
-msgstr "免疫位移技能。适用于诸如击退、钩子和其他改变角色位置的技能。"
+msgstr "免疫位移技能。适用于诸如撞退、钩子和其他改变角色位置的技能。"
 
 # scripts/config/rumors.nut
 msgid ""

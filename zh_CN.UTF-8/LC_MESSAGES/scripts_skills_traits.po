@@ -755,7 +755,7 @@ msgstr ""
 # scripts/skills/traits/clumsy_trait.nut
 # scripts/skills/traits/drunkard_trait.nut
 msgid "]-5[/color] Melee Skill"
-msgstr ""
+msgstr "]-5[/color] 近战技能"
 
 # scripts/skills/traits/oath_of_valor_trait.nut
 msgid "Will not flee in battle"
@@ -771,7 +771,7 @@ msgstr ""
 
 # scripts/skills/traits/dexterous_trait.nut
 msgid "]+5[/color] Melee Skill"
-msgstr ""
+msgstr "]+5[/color] 近战技能"
 
 # scripts/skills/traits/optimist_trait.nut
 msgid "The glass is half full!"
@@ -788,7 +788,7 @@ msgstr ""
 
 # scripts/skills/traits/addict_trait.nut
 msgid "]-10%[/color] Melee Skill"
-msgstr ""
+msgstr "]-10%[/color] 近战技能"
 
 # scripts/skills/traits/paranoid_trait.nut
 # scripts/skills/traits/sure_footing_trait.nut
@@ -796,21 +796,21 @@ msgstr ""
 # scripts/skills/traits/tiny_trait.nut
 # scripts/skills/traits/cultist_chosen_trait.nut
 msgid "]+5[/color] Melee Defense"
-msgstr ""
+msgstr "]+5[/color] 近战防御"
 
 # scripts/skills/traits/cocky_trait.nut
 # scripts/skills/traits/huge_trait.nut
 # scripts/skills/traits/oath_of_wrath_trait.nut
 msgid "]-5[/color] Melee Defense"
-msgstr ""
+msgstr "]-5[/color] 近战防御"
 
 # scripts/skills/traits/drunkard_trait.nut
 msgid "]-10[/color] Ranged Skill"
-msgstr ""
+msgstr "]-10[/color] 远程技能"
 
 # scripts/skills/traits/addict_trait.nut
 msgid "]-10%[/color] Ranged Skill"
-msgstr ""
+msgstr "]-10%[/color] 远程技能"
 
 # scripts/skills/traits/paranoid_trait.nut
 # scripts/skills/traits/swift_trait.nut
@@ -818,7 +818,7 @@ msgstr ""
 # scripts/skills/traits/tiny_trait.nut
 # scripts/skills/traits/cultist_chosen_trait.nut
 msgid "]+5[/color] Ranged Defense"
-msgstr ""
+msgstr "]+5[/color] 远程防御"
 
 # scripts/skills/traits/ailing_trait.nut
 # scripts/skills/traits/bleeder_trait.nut
@@ -828,7 +828,7 @@ msgstr ""
 # scripts/skills/traits/cocky_trait.nut
 # scripts/skills/traits/huge_trait.nut
 msgid "]-5[/color] Ranged Defense"
-msgstr ""
+msgstr "]-5[/color] 远程防御"
 
 # scripts/skills/traits/tiny_trait.nut
 msgid "]-15%[/color] Melee Damage"
@@ -848,7 +848,7 @@ msgstr "坏心情消失得更快"
 
 # scripts/skills/traits/addict_trait.nut
 msgid "]-10%[/color] Melee Defense"
-msgstr ""
+msgstr "]-10%[/color] 近战防御"
 
 # scripts/skills/traits/ailing_trait.nut
 msgid "Poison effects last [color="
@@ -860,7 +860,7 @@ msgstr "好心情消失得更快"
 
 # scripts/skills/traits/oath_of_wrath_trait.nut
 msgid "]-10[/color] Ranged Defense"
-msgstr ""
+msgstr "]-10[/color] 远程防御"
 
 # scripts/skills/traits/oath_of_fortification_trait.nut
 msgid "]+5[/color] Ranged Defense."
@@ -868,7 +868,7 @@ msgstr ""
 
 # scripts/skills/traits/addict_trait.nut
 msgid "]-10%[/color] Ranged Defense"
-msgstr ""
+msgstr "]-10%[/color] 远程防御"
 
 # scripts/skills/traits/bright_trait.nut
 # scripts/skills/traits/oath_of_humility_trait.nut
@@ -918,7 +918,7 @@ msgstr "将以动摇的士气开始战斗"
 
 # scripts/skills/traits/oath_of_fortification_trait.nut
 msgid "]+5[/color] Melee Defense and [color="
-msgstr ""
+msgstr "]+5[/color] 近战防御和 [color="
 
 # scripts/skills/traits/asthmatic_trait.nut
 msgid "]-3[/color] Fatigue Recovery per turn"

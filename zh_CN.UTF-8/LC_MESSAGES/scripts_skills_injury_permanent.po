@@ -96,7 +96,7 @@ msgstr ""
 
 # scripts/skills/injury_permanent/missing_finger_injury.nut
 msgid "]-5%[/color] Melee Skill"
-msgstr ""
+msgstr "]-5%[/color] 近战技能"
 
 # scripts/skills/injury_permanent/missing_nose_injury.nut
 msgid "]-10%[/color] Max Fatigue"
@@ -104,31 +104,31 @@ msgstr ""
 
 # scripts/skills/injury_permanent/broken_elbow_joint_injury.nut
 msgid "]-20%[/color] Melee Skill"
-msgstr ""
+msgstr "]-20%[/color] 近战技能"
 
 # scripts/skills/injury_permanent/missing_finger_injury.nut
 msgid "]-5%[/color] Ranged Skill"
-msgstr ""
+msgstr "]-5%[/color] 远程技能"
 
 # scripts/skills/injury_permanent/broken_elbow_joint_injury.nut
 msgid "]-20%[/color] Ranged Skill"
-msgstr ""
+msgstr "]-20%[/color] 远程技能"
 
 # scripts/skills/injury_permanent/missing_eye_injury.nut
 msgid "]-50%[/color] Ranged Skill"
-msgstr ""
+msgstr "]-50%[/color] 远程技能"
 
 # scripts/skills/injury_permanent/broken_elbow_joint_injury.nut
 msgid "]-30%[/color] Melee Defense"
-msgstr ""
+msgstr "]-30%[/color] 近战防御"
 
 # scripts/skills/injury_permanent/broken_knee_injury.nut
 msgid "]-40%[/color] Melee Defense"
-msgstr ""
+msgstr "]-40%[/color] 近战防御"
 
 # scripts/skills/injury_permanent/broken_knee_injury.nut
 msgid "]-40%[/color] Ranged Defense"
-msgstr ""
+msgstr "]-40%[/color] 远程防御"
 
 # scripts/skills/injury_permanent/brain_damage_injury.nut
 msgid "]-25%[/color] Experience Gain"

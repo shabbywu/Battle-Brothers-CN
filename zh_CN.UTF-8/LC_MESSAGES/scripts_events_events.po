@@ -1921,7 +1921,7 @@ msgstr "这是你们应得的，孩子们！"
 
 # scripts/events/events/butcher_gives_pointers_event.nut
 msgid "]+2[/color] Melee Skill"
-msgstr ""
+msgstr "]+2[/color] 近战技能"
 
 # scripts/events/events/noble_vs_lowborn_event.nut
 msgid "Sort it out yourselves."
@@ -1937,7 +1937,7 @@ msgstr "愿他们安息。"
 
 # scripts/events/events/juggler_tempts_fate_event.nut
 msgid "]+1[/color] Melee Skill"
-msgstr ""
+msgstr "]+1[/color] 近战技能"
 
 # scripts/events/events/kids_and_dead_merchant_event.nut
 msgid "We're taking the goods."
@@ -2090,7 +2090,7 @@ msgstr "这与我们无关。"
 # scripts/events/events/archery_stunt_event.nut
 # scripts/events/events/cat_on_tree_event.nut
 msgid "]+1[/color] Ranged Skill"
-msgstr ""
+msgstr "]+1[/color] 远程技能"
 
 # scripts/events/events/shooting_contest_event.nut
 msgid "Peace and quiet at last."
@@ -2293,7 +2293,7 @@ msgstr "目睹了可怕的诅咒"
 
 # scripts/events/events/juggler_tempts_fate_event.nut
 msgid "]+2[/color] Ranged Defense"
-msgstr ""
+msgstr "]+2[/color] 远程防御"
 
 # scripts/events/events/juggler_tempts_fate_event.nut
 msgid "Let's see what you can do!"
@@ -2313,7 +2313,7 @@ msgstr "情况变得很好了，不是么？"
 
 # scripts/events/events/historian_mysterious_text_event.nut
 msgid "]+1[/color] Ranged Defense"
-msgstr ""
+msgstr "]+1[/color] 远程防御"
 
 # scripts/events/events/runaway_laborers_event.nut
 msgid "Then move out of my sight!"
@@ -3556,7 +3556,7 @@ msgstr "我们需要的是战士，不是没吃饱的盗贼。"
 
 # scripts/events/events/greedy_demands_raise_event.nut
 msgid "You'll get what we agreed upon and no more."
-msgstr "你会得到 what we agreed upon and no more."
+msgstr "你只会得到我们已经商定的那些，而不是更多。"
 
 # scripts/events/events/come_across_ritual_event.nut
 msgid "I've seen enough. We need to help him, now!"
@@ -4013,7 +4013,7 @@ msgstr "我们都是些该下地狱的人，但是他们并不知道…"
 
 # scripts/events/events/bad_curse_event.nut
 msgid "If it must be... go take care of it. Here are the crowns."
-msgstr "算了。.. go take care of it. 这是那些数目的克朗。"
+msgstr "如果必须要如此…那就去做吧。 这是那些数目的克朗。"
 
 # scripts/events/events/lawmen_after_criminal_event.nut
 msgid "You know who it is you're threatening? The %companyname%!"

@@ -33,7 +33,7 @@ msgstr ""
 # scripts/contracts/contracts/arena_contract.nut
 # scripts/contracts/contracts/marauding_greenskins_contract.nut
 msgid "Get "
-msgstr ""
+msgstr "给我"
 
 # scripts/contracts/contracts/drive_away_barbarians_contract.nut
 msgid "Duel"
@@ -1739,7 +1739,7 @@ msgstr "野蛮人国王"
 
 # scripts/contracts/contracts/marauding_greenskins_contract.nut
 msgid " crowns in advance"
-msgstr ""
+msgstr "克朗预付款。"
 
 # scripts/contracts/contracts/hunting_lindwurms_contract.nut
 msgid "Be on the lookout!"
@@ -2168,7 +2168,7 @@ msgstr "我们应该快点。"
 
 # scripts/contracts/contracts/marauding_greenskins_contract.nut
 msgid " crowns on completion"
-msgstr ""
+msgstr "克朗在合同完成后。"
 
 # scripts/contracts/contracts/hunting_schrats_contract.nut
 # scripts/contracts/contracts/hunting_sand_golems_contract.nut
@@ -2815,7 +2815,7 @@ msgstr "掠夺敌人的土地失败"
 
 # scripts/contracts/contracts/privateering_contract.nut
 msgid "An intriguing offer. I accept."
-msgstr "An intriguing offer. 我接受。"
+msgstr "有趣的提议。我接受。"
 
 # scripts/contracts/contracts/patrol_contract.nut
 msgid "How much are we talking about?"
@@ -2920,7 +2920,7 @@ msgstr "和女巫达成了协议"
 
 # scripts/contracts/contracts/hunting_lindwurms_contract.nut
 msgid "Very well. I accept your offer."
-msgstr "非常好。 我接受你的提议。"
+msgstr "非常好。 I accept your offer."
 
 # scripts/contracts/contracts/hunting_lindwurms_contract.nut
 msgid "Hunt down the Lindwurms around "
@@ -22060,8 +22060,8 @@ msgid ""
 "toward the corner.%SPEECH_ON%In the satchel there. You did well, sellsword, "
 "but don't speak to me in such a manner again. Good day.%SPEECH_OFF%}"
 msgstr ""
-"[img]gfx/ui/events/event_31.png[/img]{%employer% takes the Barbarian King's "
-"head and rolls it out of the sack. 它自由地翻滚，撞翻了一盘酒杯，酒杯四处散落，噼啪作响。 "
+"[img]gfx/ui/events/event_31.png[/img]{%employer% 把野蛮人国王的头从袋子里倒出来。 "
+"它自由地翻滚，撞翻了一盘酒杯，酒杯四处散落，噼啪作响。 "
 "即使是死了，野蛮人也是混乱的传播者。%SPEECH_ON%谢谢你，佣兵。%SPEECH_OFF%你的雇主说着，他一边点头一边把头伸直，并把它歪到脖子的翻边上。%SPEECH_ON%他是个丑八怪，不是吗？"
 " 看看那些牙齿。看看他们！ 那些牙齿上有洞。真恶心。%SPEECH_OFF%你告诉那个人付钱给你，他照着约定的做了。 "
 "但他不停地摇头，露出自己的牙齿，模仿要啄食它们。%SPEECH_ON%你怎么能那样刷牙？用绳子吗？%SPEECH_OFF%耸耸，你把头伸到门外，不想告诉"
@@ -25061,24 +25061,24 @@ msgstr ""
 "obliterated.%SPEECH_OFF%The paper has runic drawings and what look like "
 "depictions of a hanging. %employer% 点头。%SPEECH_ON%They massacred the "
 "farmers, the men anyway. The old gods know what came of the women. Go "
-"%direction% of here, sellsword, and find the barbarians responsible. 我会给你 "
-"handsomely for their outright, total, and complete annihilation.%SPEECH_OFF%"
-" | %employer% is looking rather bugged when you enter the room. He states "
-"that %townname% used to have good relations with the barbarians to the "
-"north.%SPEECH_ON%But I suppose I was just fooling myself to think we could "
-"stay on even terms with those savages.%SPEECH_OFF%He states they have been "
-"attacking caravans, murdering travelers, and attacking "
-"homesteads.%SPEECH_ON%So I'll treat them in kind. Go %direction% of here and"
-" slaughter their village whole. You keen to doing that?%SPEECH_OFF% | "
-"%employer% laughs when you enter the room.%SPEECH_ON%Not having a jake at "
-"your expense, sellsword, only at that cruel congruity of seeking a mercenary"
-" for prompt and total erasure of barbarians. You see, just %direction% of "
-"here stands a tribe of bearskin wearin' arsefucks that have been scalping "
-"and axing traders and travelers. I won't stand for it. Partly because "
-"they're in the wrong, but especially because I have the coin to pay someone "
-"of your ill manners to take care of it for me.%SPEECH_OFF%He laughs to "
-"himself again. You get the feeling this man has never put a sword in any "
-"breathing being.%SPEECH_ON%So what say you, sellsword, interested in "
+"%direction% of here, sellsword, and find the barbarians responsible. You'll "
+"be paid handsomely for their outright, total, and complete "
+"annihilation.%SPEECH_OFF% | %employer% is looking rather bugged when you "
+"enter the room. He states that %townname% used to have good relations with "
+"the barbarians to the north.%SPEECH_ON%But I suppose I was just fooling "
+"myself to think we could stay on even terms with those "
+"savages.%SPEECH_OFF%He states they have been attacking caravans, murdering "
+"travelers, and attacking homesteads.%SPEECH_ON%So I'll treat them in kind. "
+"Go %direction% of here and slaughter their village whole. You keen to doing "
+"that?%SPEECH_OFF% | %employer% laughs when you enter the room.%SPEECH_ON%Not"
+" having a jake at your expense, sellsword, only at that cruel congruity of "
+"seeking a mercenary for prompt and total erasure of barbarians. You see, "
+"just %direction% of here stands a tribe of bearskin wearin' arsefucks that "
+"have been scalping and axing traders and travelers. I won't stand for it. "
+"Partly because they're in the wrong, but especially because I have the coin "
+"to pay someone of your ill manners to take care of it for me.%SPEECH_OFF%He "
+"laughs to himself again. You get the feeling this man has never put a sword "
+"in any breathing being.%SPEECH_ON%So what say you, sellsword, interested in "
 "slaughtering some savages?%SPEECH_OFF% | When you enter %employer%'s room he"
 " is staring at a dog's head. A steady leak from the neck drips over the "
 "table's edge. The man is rubbing one of the ears.%SPEECH_ON%Who kills a "

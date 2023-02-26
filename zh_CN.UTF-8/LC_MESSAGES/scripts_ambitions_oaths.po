@@ -24,11 +24,11 @@ msgstr ""
 
 # scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
 msgid " injury"
-msgstr "次伤残"
+msgstr "次"
 
 # scripts/ambitions/oaths/oath_of_distinction_ambition.nut
 msgid " times ("
-msgstr ""
+msgstr " 次("
 
 # scripts/ambitions/oaths/oath_ambition.nut
 msgid "another "
@@ -36,7 +36,7 @@ msgstr ""
 
 # scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
 msgid " injuries"
-msgstr "次伤残"
+msgstr "次"
 
 # scripts/ambitions/oaths/oath_ambition.nut
 msgid "Oath Boon"
@@ -68,11 +68,11 @@ msgstr "荣耀誓言"
 
 # scripts/ambitions/oaths/oath_of_fortification_ambition.nut
 msgid " dead so far)."
-msgstr " 已死亡)."
+msgstr "已死亡)"
 
 # scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
 msgid " taken so far)."
-msgstr " 已承受)."
+msgstr "已承受"
 
 # scripts/ambitions/oaths/oath_of_dominion_ambition.nut
 msgid "Oath of Dominion"
@@ -100,7 +100,7 @@ msgstr "复仇誓言"
 
 # scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
 msgid " combat injuries ("
-msgstr "次伤残(已累计"
+msgstr "的伤残次数("
 
 # scripts/ambitions/oaths/oath_of_distinction_ambition.nut
 msgid "Oath of Distinction"
@@ -117,7 +117,7 @@ msgstr "你的人得到了 [color="
 # scripts/ambitions/oaths/oath_of_valor_ambition.nut
 # scripts/ambitions/oaths/oath_of_humility_ambition.nut
 msgid "Your men gain [color="
-msgstr "你的人获得了 [color="
+msgstr "你的所有战团成员获得[color="
 
 # scripts/ambitions/oaths/oath_of_fortification_ambition.nut
 msgid "Oath of Fortification"
@@ -128,7 +128,7 @@ msgstr "壁垒誓言"
 # scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
 # scripts/ambitions/oaths/oath_of_dominion_ambition.nut
 msgid "Your men have [color="
-msgstr "你的人有 [color="
+msgstr "你的所有战团成员获得[color="
 
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
 msgid "Oath of Righteousness"
@@ -136,15 +136,15 @@ msgstr "正义誓言"
 
 # scripts/ambitions/oaths/oath_of_endurance_ambition.nut
 msgid "Your men recover [color="
-msgstr ""
+msgstr "你的所有战团成员每回合额外恢复"
 
 # scripts/ambitions/oaths/oath_of_fortification_ambition.nut
 msgid "Your men build up [color="
-msgstr ""
+msgstr "你的所有战团成员中使用盾牌技能时减少 [color="
 
 # scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
 msgid "You can take up to [color="
-msgstr ""
+msgstr "你可以带上 [color="
 
 # scripts/ambitions/oaths/oath_of_endurance_ambition.nut
 msgid "]10[/color] men into battle."
@@ -156,7 +156,7 @@ msgstr "]-10[/color] 远程防御。"
 
 # scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
 msgid "]14[/color] men into battle."
-msgstr "]$1[/color] 人."
+msgstr "]14[/color] 人参加战斗。"
 
 # scripts/ambitions/oaths/oath_of_endurance_ambition.nut
 msgid "]+3[/color] Fatigue per turn."
@@ -164,7 +164,7 @@ msgstr "]+3[/color] 疲劳。"
 
 # scripts/ambitions/oaths/oath_of_valor_ambition.nut
 msgid "]15%[/color] less experience."
-msgstr "]-15%[/color] 经验值。"
+msgstr "]-15%[/color] 经验值"
 
 # scripts/ambitions/oaths/oath_of_distinction_ambition.nut
 msgid "]+10[/color] Resolve, [color="
@@ -301,13 +301,13 @@ msgstr "你的人总是随机以动摇或溃散士气开始战斗。"
 msgid ""
 "]+5[/color] Ranged Defense. The 'Knock Back' skill now staggers targets on "
 "hit."
-msgstr ""
+msgstr "]+5[/color] 远程防御。 “撞退”技能在成功命中时会对目标施加踉跄效果。"
 
 # scripts/ambitions/oaths/oath_of_fortification_ambition.nut
 msgid ""
 "]25%[/color] less Fatigue when using shield skills. The 'Shield Wall' skill "
 "now grants an additional [color="
-msgstr ""
+msgstr "25%疲劳积累。”盾墙“技能提供额外 [color="
 
 # scripts/ambitions/oaths/oath_of_humility_ambition.nut
 msgid ""

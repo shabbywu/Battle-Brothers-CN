@@ -339,6 +339,9 @@ msgstr "步法"
 msgid "ffffffff"
 msgstr ""
 
+msgid ""
+msgstr ""
+
 # scripts/skills/actives/kraken_move_skill.nut
 # scripts/skills/actives/kraken_move_ensnared_skill.nut
 # scripts/skills/actives/alp_teleport_skill.nut
@@ -1428,7 +1431,7 @@ msgstr ""
 
 # scripts/skills/actives/berserker_mushrooms_skill.nut
 msgid "]-40%[/color] Melee Defense"
-msgstr ""
+msgstr "]-40%[/color] 近战防御"
 
 # scripts/skills/actives/gash_skill.nut
 # scripts/skills/actives/impale.nut
@@ -1486,7 +1489,7 @@ msgstr ""
 
 # scripts/skills/actives/berserker_mushrooms_skill.nut
 msgid "]-40%[/color] Ranged Defense"
-msgstr ""
+msgstr "]-40%[/color] 远程防御"
 
 # scripts/skills/actives/berserker_mushrooms_skill.nut
 msgid " gives Strange Mushrooms to "

@@ -8,7 +8,7 @@ msgstr ""
 
 # scripts/states/world/asset_manager.nut
 msgid " and "
-msgstr ""
+msgstr " 和 "
 
 # scripts/states/world/asset_manager.nut
 msgid "Unknown"

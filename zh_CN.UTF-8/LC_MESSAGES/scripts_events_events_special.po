@@ -4,11 +4,14 @@ msgstr ""
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid " and "
-msgstr ""
+msgstr " 和 "
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "Damnit!"
 msgstr "该死的！"
+
+msgid ""
+msgstr ""
 
 # scripts/events/events/special/helped_caravan_event.nut
 # scripts/events/events/special/oathtakers_confrontation_event.nut
@@ -67,7 +70,7 @@ msgstr "一个野心达成"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "You've already chosen "
-msgstr ""
+msgstr "你已经委派了 "
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "It had to be this way."
@@ -156,7 +159,7 @@ msgstr "我已经选好了所有我想选的人。 现在打败那些誓言使�
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid ""
 " to fight. Is there another who shall help reclaim Young Anselm's jawbone?"
-msgstr " to fight. 有没有其他人可以帮助夺回小安瑟姆的下颌骨？"
+msgstr "去决斗。还有没有其他人可以帮助夺回小安瑟姆的下颌骨？"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid ""
