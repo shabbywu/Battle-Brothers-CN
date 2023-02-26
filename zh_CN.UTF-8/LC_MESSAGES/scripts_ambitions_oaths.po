@@ -16,7 +16,7 @@ msgstr ""
 
 # scripts/ambitions/oaths/oath_ambition.nut
 msgid " days"
-msgstr " 天"
+msgstr "天"
 
 # scripts/ambitions/oaths/oath_ambition.nut
 msgid " for "

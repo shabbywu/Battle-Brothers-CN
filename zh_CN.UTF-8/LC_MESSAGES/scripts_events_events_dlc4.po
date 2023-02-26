@@ -28,9 +28,6 @@ msgstr " 是死了"
 msgid " suffers "
 msgstr " 遭受 "
 
-msgid ""
-msgstr ""
-
 # scripts/events/events/dlc4/sled_race_event.nut
 # scripts/events/events/dlc4/cultist_origin_armor_event.nut
 # scripts/events/events/dlc4/drunk_nobleman_event.nut

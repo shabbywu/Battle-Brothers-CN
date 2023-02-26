@@ -10,9 +10,6 @@ msgstr " 和 "
 msgid "Damnit!"
 msgstr "该死的！"
 
-msgid ""
-msgstr ""
-
 # scripts/events/events/special/helped_caravan_event.nut
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "You gain "

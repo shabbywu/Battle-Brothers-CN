@@ -10,12 +10,9 @@ msgstr "不舒服"
 msgid " to "
 msgstr ""
 
-msgid ""
-msgstr ""
-
 # scripts/skills/injury/injury.nut
 msgid " days"
-msgstr " 天"
+msgstr "天"
 
 # scripts/skills/injury/sickness_injury.nut
 msgid " vomits"

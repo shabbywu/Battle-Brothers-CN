@@ -12,7 +12,7 @@ msgstr "破布"
 
 # scripts/items/armor/ancient/ancient_lich_attire.nut
 msgid "Ancient Attire"
-msgstr ""
+msgstr "古代服装"
 
 # scripts/items/armor/ancient/ancient_scale_coat.nut
 msgid "Ancient Scale Coat"

@@ -202,7 +202,7 @@ msgstr "增加33%的生命值治愈速度"
 
 # scripts/retinue/followers/cook_follower.nut
 msgid "Makes all provisions last 3 extra days"
-msgstr "Makes all provisions last 3 extr一天s"
+msgstr "使所有的食物能多维持3天"
 
 # scripts/retinue/followers/paymaster_follower.nut
 msgid "Reduces the daily wage of each man by 15%"

@@ -162,7 +162,9 @@ msgstr "重型战犬盔甲"
 msgid "Potion of Knowledge"
 msgstr "知识药水"
 
-
+# scripts/items/misc/heart_of_the_forest_item.nut
+msgid "Heart of the Forest"
+msgstr "森林之心"
 
 # scripts/items/misc/paint_orange_red_item.nut
 msgid "Orange and Red Paint"
@@ -228,7 +230,9 @@ msgstr "从一棵活树的残骸上雕刻而成的古代木片。"
 msgid "A bucket of red paint. Can be used to paint many common helmets."
 msgstr "一桶红色的油漆。 可以喷涂许多普通的头盔。"
 
-
+# scripts/items/misc/manhunters_ledger_item.nut
+msgid "A ledger detailing the members and contract terms of the company."
+msgstr "一本详细介绍战团成员和合同条款的账簿。"
 
 # scripts/items/misc/paint_black_item.nut
 msgid "A bucket of black paint. Can be used to paint many common helmets."
@@ -294,7 +298,11 @@ msgid ""
 "the market."
 msgstr "一种又厚又大的狼皮，应该能在市场上卖个好价钱（才怪）。"
 
-
+# scripts/items/misc/third_eye_item.nut
+msgid ""
+"Alps have no eyes, yet this eye-like organ can be retrieved from inside "
+"their skulls."
+msgstr "夢魘没有眼睛，但这个类似眼睛的器官可以从它们的颅骨内取出。"
 
 # scripts/items/misc/ghoul_horn_item.nut
 msgid ""
@@ -336,8 +344,7 @@ msgstr "野生沙漠鬣狗的唾液因其独特的特性被南方炼金术士追
 msgid ""
 "There are too few Indebted in the company! The Manhunters will become "
 "dissatisfied if this continues!"
-msgstr ""
-"There are too few 战队负债者! 搜捕者 will become dissatisfied if this continues!"
+msgstr "战队里的负债者太少了！ 如果这种情况继续下去，搜捕者会感到不满意！"
 
 # scripts/items/misc/glistening_scales_item.nut
 msgid ""
@@ -528,24 +535,3 @@ msgid ""
 msgstr ""
 "来自女巫身上的长而易碎的灰白头发。 据说她们的头发在制造药剂和炼金方面有强大的功能。 "
 "话说回来，也有人说女巫喜欢收集受害者的生殖器来把玩，所以说从农夫那里得到的消息不太靠谱。"
-
-# scripts/items/misc/heart_of_the_forest_item.nut
-msgid "Heart of the Forest"
-msgstr "森林之心"
-
-# scripts/items/misc/manhunters_ledger_item.nut
-msgid "A ledger detailing the members and contract terms of the company."
-msgstr "一本详细介绍战团成员和合同条款的账簿。"
-
-# scripts/items/misc/third_eye_item.nut
-msgid ""
-"Alps have no eyes, yet this eye-like organ can be retrieved from inside "
-"their skulls."
-msgstr "夢魘没有眼睛，但这个类似眼睛的器官可以从它们的颅骨内取出。"
-
-# scripts/items/misc/manhunters_ledger_item.nut
-msgid ""
-"There are too few Indebted in the company! The Manhunters will become "
-"dissatisfied if this continues!"
-msgstr ""
-"战团中的“负债者”太少了！如果继续下去，搜捕者们将变得不满意！"

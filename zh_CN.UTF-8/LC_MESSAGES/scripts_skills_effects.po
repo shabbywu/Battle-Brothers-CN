@@ -67,9 +67,6 @@ msgstr "愤怒！！！"
 msgid "Visions"
 msgstr ""
 
-msgid ""
-msgstr ""
-
 # scripts/skills/effects/charmed_effect.nut
 msgid "ffffff00"
 msgstr ""
