@@ -60,11 +60,11 @@ msgstr ""
 
 # scripts/skills/special/morale_check.nut
 msgid "]-20%[/color] Melee Skill"
-msgstr ""
+msgstr "]-20%[/color] 近战技能"
 
 # scripts/skills/special/morale_check.nut
 msgid "]-10%[/color] Melee Skill"
-msgstr ""
+msgstr "]-10%[/color] 近战技能"
 
 # scripts/skills/special/weapon_breaking_warning.nut
 msgid "Weapon in poor condition!"
@@ -72,52 +72,52 @@ msgstr "武器耐久度不佳！"
 
 # scripts/skills/special/morale_check.nut
 msgid "]+10%[/color] Melee Skill"
-msgstr ""
+msgstr "]+10%[/color] 近战技能"
 
 # scripts/skills/special/morale_check.nut
 msgid "]-30%[/color] Melee Skill"
-msgstr ""
+msgstr "]-30%[/color] 近战技能"
 
 # scripts/skills/special/morale_check.nut
 msgid "]-20%[/color] Ranged Skill"
-msgstr ""
+msgstr "]-20%[/color] 远程技能"
 
 # scripts/skills/special/morale_check.nut
 msgid "]-10%[/color] Ranged Skill"
-msgstr ""
+msgstr "]-10%[/color] 远程技能"
 
 # scripts/skills/special/morale_check.nut
 msgid "]+10%[/color] Ranged Skill"
-msgstr ""
+msgstr "]+10%[/color] 远程技能"
 
 # scripts/skills/special/morale_check.nut
 # scripts/skills/special/night_effect.nut
 msgid "]-30%[/color] Ranged Skill"
-msgstr ""
+msgstr "]-30%[/color] 远程技能"
 
 # scripts/skills/special/morale_check.nut
 msgid "]-30%[/color] Melee Defense"
-msgstr ""
+msgstr "]-30%[/color] 近战防御"
 
 # scripts/skills/special/morale_check.nut
 msgid "]-10%[/color] Melee Defense"
-msgstr ""
+msgstr "]-10%[/color] 近战防御"
 
 # scripts/skills/special/morale_check.nut
 msgid "]-20%[/color] Melee Defense"
-msgstr ""
+msgstr "]-20%[/color] 近战防御"
 
 # scripts/skills/special/morale_check.nut
 msgid "]+10%[/color] Melee Defense"
-msgstr ""
+msgstr "]+10%[/color] 近战防御"
 
 # scripts/skills/special/morale_check.nut
 msgid "]-10%[/color] Ranged Defense"
-msgstr ""
+msgstr "]-10%[/color] 远程防御"
 
 # scripts/skills/special/morale_check.nut
 msgid "]-20%[/color] Ranged Defense"
-msgstr ""
+msgstr "]-20%[/color] 远程防御"
 
 # scripts/skills/special/morale_check.nut
 msgid "Acts at the end of the round"
@@ -126,11 +126,11 @@ msgstr "在轮末行动"
 # scripts/skills/special/morale_check.nut
 # scripts/skills/special/night_effect.nut
 msgid "]-30%[/color] Ranged Defense"
-msgstr ""
+msgstr "]-30%[/color] 远程防御"
 
 # scripts/skills/special/morale_check.nut
 msgid "]+10%[/color] Ranged Defense"
-msgstr ""
+msgstr "]+10%[/color] 远程防御"
 
 # scripts/skills/special/mood_check.nut
 msgid "]steady[/color] morale or worse"

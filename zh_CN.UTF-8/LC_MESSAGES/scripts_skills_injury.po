@@ -10,6 +10,9 @@ msgstr "不舒服"
 msgid " to "
 msgstr ""
 
+msgid ""
+msgstr ""
+
 # scripts/skills/injury/injury.nut
 msgid " days"
 msgstr " 天"
@@ -296,7 +299,7 @@ msgstr ""
 
 # scripts/skills/injury/crushed_finger_injury.nut
 msgid "]-5%[/color] Melee Skill"
-msgstr ""
+msgstr "]-5%[/color] 近战技能"
 
 # scripts/skills/injury/fractured_skull_injury.nut
 # scripts/skills/injury/severe_concussion_injury.nut
@@ -317,16 +320,16 @@ msgstr "明天就会消失"
 # scripts/skills/injury/burnt_hands_injury.nut
 # scripts/skills/injury/burnt_face_injury.nut
 msgid "]-25%[/color] Melee Skill"
-msgstr ""
+msgstr "]-25%[/color] 近战技能"
 
 # scripts/skills/injury/fractured_hand_injury.nut
 # scripts/skills/injury/pierced_hand_injury.nut
 msgid "]-20%[/color] Melee Skill"
-msgstr ""
+msgstr "]-20%[/color] 近战技能"
 
 # scripts/skills/injury/crushed_finger_injury.nut
 msgid "]-5%[/color] Ranged Skill"
-msgstr ""
+msgstr "]-5%[/color] 远程技能"
 
 # scripts/skills/injury/dislocated_shoulder_injury.nut
 msgid "]-3[/color] Action Points"
@@ -360,7 +363,7 @@ msgstr ""
 # scripts/skills/injury/split_hand_injury.nut
 # scripts/skills/injury/severe_concussion_injury.nut
 msgid "]-50%[/color] Melee Skill"
-msgstr ""
+msgstr "]-50%[/color] 近战技能"
 
 # scripts/skills/injury/broken_ribs_injury.nut
 # scripts/skills/injury/stabbed_guts_injury.nut
@@ -370,7 +373,7 @@ msgstr ""
 
 # scripts/skills/injury/smashed_hand_injury.nut
 msgid "]-40%[/color] Melee Skill"
-msgstr ""
+msgstr "]-40%[/color] 近战技能"
 
 # scripts/skills/injury/inhaled_flames_injury.nut
 msgid "]-2[/color] Action Points"
@@ -378,7 +381,7 @@ msgstr ""
 
 # scripts/skills/injury/deep_chest_cut_injury.nut
 msgid "]-35%[/color] Melee Skill"
-msgstr ""
+msgstr "]-35%[/color] 近战技能"
 
 # scripts/skills/injury/deep_chest_cut_injury.nut
 msgid "]-35%[/color] Max Fatigue"
@@ -386,12 +389,12 @@ msgstr ""
 
 # scripts/skills/injury/cut_arm_injury.nut
 msgid "]-15%[/color] Melee Skill"
-msgstr ""
+msgstr "]-15%[/color] 近战技能"
 
 # scripts/skills/injury/fractured_hand_injury.nut
 # scripts/skills/injury/pierced_hand_injury.nut
 msgid "]-20%[/color] Ranged Skill"
-msgstr ""
+msgstr "]-20%[/color] 远程技能"
 
 # scripts/skills/injury/grazed_eye_socket_injury.nut
 # scripts/skills/injury/broken_arm_injury.nut
@@ -399,7 +402,7 @@ msgstr ""
 # scripts/skills/injury/split_hand_injury.nut
 # scripts/skills/injury/severe_concussion_injury.nut
 msgid "]-50%[/color] Ranged Skill"
-msgstr ""
+msgstr "]-50%[/color] 远程技能"
 
 # scripts/skills/injury/pierced_arm_muscles_injury.nut
 # scripts/skills/injury/deep_face_cut_injury.nut
@@ -407,50 +410,50 @@ msgstr ""
 # scripts/skills/injury/burnt_hands_injury.nut
 # scripts/skills/injury/burnt_face_injury.nut
 msgid "]-25%[/color] Ranged Skill"
-msgstr ""
+msgstr "]-25%[/color] 远程技能"
 
 # scripts/skills/injury/smashed_hand_injury.nut
 msgid "]-40%[/color] Ranged Skill"
-msgstr ""
+msgstr "]-40%[/color] 远程技能"
 
 # scripts/skills/injury/deep_chest_cut_injury.nut
 msgid "]-35%[/color] Ranged Skill"
-msgstr ""
+msgstr "]-35%[/color] 远程技能"
 
 # scripts/skills/injury/cut_arm_injury.nut
 msgid "]-15%[/color] Ranged Skill"
-msgstr ""
+msgstr "]-15%[/color] 远程技能"
 
 # scripts/skills/injury/deep_face_cut_injury.nut
 # scripts/skills/injury/sickness_injury.nut
 # scripts/skills/injury/fractured_elbow_injury.nut
 # scripts/skills/injury/burnt_face_injury.nut
 msgid "]-25%[/color] Melee Defense"
-msgstr ""
+msgstr "]-25%[/color] 近战防御"
 
 # scripts/skills/injury/pierced_leg_muscles_injury.nut
 msgid "]-30%[/color] Melee Defense"
-msgstr ""
+msgstr "]-30%[/color] 近战防御"
 
 # scripts/skills/injury/cut_leg_muscles_injury.nut
 msgid "]-40%[/color] Melee Defense"
-msgstr ""
+msgstr "]-40%[/color] 近战防御"
 
 # scripts/skills/injury/fractured_skull_injury.nut
 # scripts/skills/injury/severe_concussion_injury.nut
 msgid "]-50%[/color] Melee Defense"
-msgstr ""
+msgstr "]-50%[/color] 近战防御"
 
 # scripts/skills/injury/deep_face_cut_injury.nut
 # scripts/skills/injury/sickness_injury.nut
 # scripts/skills/injury/burnt_face_injury.nut
 msgid "]-25%[/color] Ranged Defense"
-msgstr ""
+msgstr "]-25%[/color] 远程防御"
 
 # scripts/skills/injury/fractured_skull_injury.nut
 # scripts/skills/injury/severe_concussion_injury.nut
 msgid "]-50%[/color] Ranged Defense"
-msgstr ""
+msgstr "]-50%[/color] 远程防御"
 
 # scripts/skills/injury/broken_arm_injury.nut
 msgid "]-50%[/color] Damage Inflicted"

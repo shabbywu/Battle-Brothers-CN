@@ -162,7 +162,7 @@ msgstr "不受夜间影响"
 
 # scripts/items/accessory/berserker_mushrooms_item.nut
 msgid "]-15[/color] Melee Defense"
-msgstr ""
+msgstr "]-15[/color] 近战防御"
 
 # scripts/items/accessory/ghoul_trophy_item.nut
 msgid "Nachzehrer Trophy Necklace"
@@ -170,7 +170,7 @@ msgstr "食尸鬼雕饰项链"
 
 # scripts/items/accessory/berserker_mushrooms_item.nut
 msgid "]-15[/color] Ranged Defense"
-msgstr ""
+msgstr "]-15[/color] 远程防御"
 
 # scripts/items/accessory/berserker_mushrooms_item.nut
 msgid "]+25%[/color] Damage in Melee"

@@ -12,15 +12,15 @@ msgstr "隐藏"
 
 # scripts/skills/terrain/swamp_effect.nut
 msgid "]-25%[/color] Melee Skill"
-msgstr ""
+msgstr "]-25%[/color] 近战技能"
 
 # scripts/skills/terrain/swamp_effect.nut
 msgid "]-25%[/color] Melee Defense"
-msgstr ""
+msgstr "]-25%[/color] 近战防御"
 
 # scripts/skills/terrain/swamp_effect.nut
 msgid "]-25%[/color] Ranged Defense"
-msgstr ""
+msgstr "]-25%[/color] 远程防御"
 
 # scripts/skills/terrain/swamp_effect.nut
 msgid ""

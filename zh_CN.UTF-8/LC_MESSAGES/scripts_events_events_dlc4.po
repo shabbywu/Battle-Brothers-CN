@@ -28,6 +28,9 @@ msgstr " 是死了"
 msgid " suffers "
 msgstr " 遭受 "
 
+msgid ""
+msgstr ""
+
 # scripts/events/events/dlc4/sled_race_event.nut
 # scripts/events/events/dlc4/cultist_origin_armor_event.nut
 # scripts/events/events/dlc4/drunk_nobleman_event.nut
@@ -388,7 +391,7 @@ msgstr "我会带上你做我的扈从。"
 
 # scripts/events/events/dlc4/kings_guard_2_event.nut
 msgid "]+12[/color] Melee Skill"
-msgstr ""
+msgstr "]+12[/color] 近战技能"
 
 # scripts/events/events/dlc4/kings_guard_2_event.nut
 msgid "Is his former self again"
@@ -420,7 +423,7 @@ msgstr "我们不必如此。"
 
 # scripts/events/events/dlc4/kings_guard_2_event.nut
 msgid "]+7[/color] Melee Defense"
-msgstr ""
+msgstr "]+7[/color] 近战防御"
 
 # scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
 msgid "Davkul does not want him."
@@ -432,7 +435,7 @@ msgstr "这是你的归宿。"
 
 # scripts/events/events/dlc4/kings_guard_2_event.nut
 msgid "]+7[/color] Ranged Defense"
-msgstr ""
+msgstr "]+7[/color] 远程防御"
 
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
 msgid "Hell of a haul, I suppose."
@@ -1554,7 +1557,7 @@ msgid ""
 "\n"
 " He leaves his tent with the sort of hurry with which he entered, but this time he has a piece of leather chest armor in hand. He drops it to the ground.%SPEECH_ON%He awaits us all, brothers.%SPEECH_OFF%The chest armor is patterned with unique cuts which are arranged in strips that, to the unbelieving eye, would be meaningless. To you, it is but a language of Davkul.}"
 msgstr ""
-"[img]gfx/ui/events/event_03.png[/img]{An urgency takes %randomcultist%. He stands, removes himself from the party's campfire, strides across the campground and retires to his tent. 就是在那里，你看到他在工作，他的轮廓和影子在疯狂地抖动。 他不只是在那里：一些不明的曲线影子在他身边来来回回，达到了黑暗的极致，黑暗的触手，鞭笞和击打，使之配得上他的仪式所拥有的能量。 然后他就完事了，在他把什么东西拉到灯光之前，他的影子轮廓向前倒去。\n"
+"[img]gfx/ui/events/event_03.png[/img]{紧急情况影响了 %randomcultist%。他从聚会的营火旁站起来，大步跨过营地，退到帐篷里。 就是在那里，你看到他在工作，他的轮廓和影子在疯狂地抖动。 他不只是在那里：一些不明的曲线影子在他身边来来回回，达到了黑暗的极致，黑暗的触手，鞭笞和击打，使之配得上他的仪式所拥有的能量。 然后他就完事了，在他把什么东西拉到灯光之前，他的影子轮廓向前倒去。\n"
 "\n"
 " He leaves his tent with the sort of hurry with which he entered, but this time he has a piece of leather chest armor in hand. 他把它扔在地上。%SPEECH_ON%他即将降临到我们，兄弟们。%SPEECH_OFF%胸甲上有独特的切口，这些切口被排列成条状，对不相信的人来说，毫无意义。 对你来说，它不过是达库尔的一种语言。}"
 

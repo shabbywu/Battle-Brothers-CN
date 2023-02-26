@@ -4,11 +4,11 @@ msgstr ""
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "Get "
-msgstr ""
+msgstr "给我"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid " total"
-msgstr ""
+msgstr "。"
 
 # scripts/contracts/templates/negotiation_templates.nut
 # scripts/contracts/templates/intro_templates.nut
@@ -25,7 +25,7 @@ msgstr "我们来谈谈吧。"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid " crowns in advance"
-msgstr ""
+msgstr "克朗预付款。"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "I accept your offer."
@@ -37,7 +37,7 @@ msgstr "我们来谈谈生意。"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid " crowns on completion"
-msgstr ""
+msgstr "克朗在合同完成后。"
 
 # scripts/contracts/templates/intro_templates.nut
 msgid "Let's get to business."
@@ -81,7 +81,7 @@ msgstr " 克朗，为你带回的每个人头， up to "
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid " crowns per head you arrive with, up to "
-msgstr " 克朗，为你送达的每个人头， up to "
+msgstr " 克朗你每带回一个人头，总共最多给"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "I'll need some time to think about this."
@@ -93,7 +93,7 @@ msgstr "工作完成后我们需要更多的报酬。"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "We need to be paid per head we arrive with."
-msgstr "我们需要你为送达的人头付钱。"
+msgstr "我们需要按照我们带来的人头数付款。"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "On second thought, I decline this contract."
@@ -113,7 +113,7 @@ msgstr "我们需要你为每个人头付更多的钱。"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "We need to be paid more per head we arrive with."
-msgstr "我们需要你为送达的人头付更多的钱。"
+msgstr "我们需要为我们带来的每个人头数付更多的款。"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "You'll be paid nothing. Is that what you want?%SPEECH_OFF%"
@@ -121,20 +121,19 @@ msgstr "你什么也得不到。 你希望这样吗？%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "The contract you negotiated is as follows. Do you agree to the terms?"
-msgstr "你方谈判的合同如下。 你同意这些条款吗？"
+msgstr "你方谈判的合同如下。你同意这些条款吗？"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
 "{You'll get | You are to receive | You'll be paid} all %reward_advance% "
 "crowns in advance.%SPEECH_OFF%"
-msgstr ""
-"{你会得到 | 你将收到 | 我会给你} all %reward_advance% crowns in advance.%SPEECH_OFF%"
+msgstr "{你会得到|你会收到|我会给你}共%reward_advance% 克朗的预付款。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
 "{You'll get | You are to receive | You'll be paid | It's} "
 "%reward_completion% crowns when the contract is done.%SPEECH_OFF%"
-msgstr "{合同完成后你会得到 | 你将收到 | 我会给你 | It's} %reward_completion% 克朗。%SPEECH_OFF%"
+msgstr "合同完成后 {你会得到 | 你会收到 | 我会给你} %reward_completion% 克朗。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
@@ -142,8 +141,8 @@ msgid ""
 "crowns in advance, and another %reward_completion% when the job is "
 "done.%SPEECH_OFF%"
 msgstr ""
-"{你会得到 | 你将收到 | 我会给你 | It's} %reward_advance% 克朗预付款， 完成任务后还有 "
-"%reward_completion%。%SPEECH_OFF%"
+"{你会得到|你会收到|我会给你} %reward_advance% 克朗的预付款, 并且当你完成后再付 %reward_completion% "
+"克朗。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
@@ -151,9 +150,8 @@ msgid ""
 "crowns per head you bring back, {for up to %maxcount% heads | and I'll pay "
 "for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%"
 msgstr ""
-"{你会得到 | 你将收到 | 我会给你 | It's} %reward_count% 克朗，为你带回的每个人头， {for up to "
-"%maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% "
-"heads at most}.%SPEECH_OFF%"
+"每带回一个人头 {你会得到|你会收到|我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 "
+"%maxcount% 个头的钱 }。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
@@ -161,9 +159,8 @@ msgid ""
 "crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay "
 "for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%"
 msgstr ""
-"{你会得到 | 你将收到 | 我会给你 | It's} %reward_count% 克朗，为你送达的每个人头， {for up to "
-"%maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% "
-"heads at most}.%SPEECH_OFF%"
+"每带来一个人头 {你会得到|你会收到|我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 "
+"%maxcount% 个头的钱 }。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
@@ -172,9 +169,9 @@ msgid ""
 "back, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads "
 "| %maxcount% heads at most}.%SPEECH_OFF%"
 msgstr ""
-"{你会得到 | 你将收到 | 我会给你 | It's} %reward_advance% 克朗预付款， 额外 %reward_count% "
-"克朗，为你带回的每个人头， {for up to %maxcount% heads | and I'll pay for up to "
-"%maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%"
+"{你会得到|你会收到|我会给你}共%reward_advance% 克朗的预付款, 并且每带回一个人头 {你会再得到|你会再收到|我会再给你} "
+"%reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 "
+"}。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
@@ -183,9 +180,9 @@ msgid ""
 "with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads "
 "| %maxcount% heads at most}.%SPEECH_OFF%"
 msgstr ""
-"{你会得到 | 你将收到 | 我会给你 | It's} %reward_advance% 克朗预付款， 额外 %reward_count% "
-"克朗，为你送达的每个人头， {for up to %maxcount% heads | and I'll pay for up to "
-"%maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%"
+"{你会得到|你会收到|我会给你}共 %reward_advance% 克朗的预付款, 每带回一个人头 {你会再得到|你会再收到|我会再给你} "
+"%reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 "
+"}。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
@@ -194,9 +191,9 @@ msgid ""
 "for up to %maxcount% heads | %maxcount% heads at most}, and another "
 "%reward_completion% when the job is done.%SPEECH_OFF%"
 msgstr ""
-"{你会得到 | 你将收到 | 我会给你 | It's} %reward_count% 克朗，为你载回的每个人头， {for up to "
-"%maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% "
-"heads at most}, 完成任务后还有 %reward_completion%。%SPEECH_OFF%"
+"每带回一个人头 {你会得到|你会收到|我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 "
+"%maxcount% 个头的钱 }。合同完成后 {你会再得到 | 你会再收到 | 我会再给你} %reward_completion% "
+"克朗。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
@@ -205,9 +202,9 @@ msgid ""
 "for up to %maxcount% heads | %maxcount% heads at most}, and another "
 "%reward_completion% when the job is done.%SPEECH_OFF%"
 msgstr ""
-"{你会得到 | 你将收到 | 我会给你 | It's} %reward_count% 克朗，为你送达的每个人头， {for up to "
-"%maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% "
-"heads at most}, 完成任务后还有 %reward_completion%。%SPEECH_OFF%"
+"每带来一个人头 {你会得到|你会收到|我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 "
+"%maxcount% 个头的钱 }。合同完成后 {你会再得到 | 你会再收到 | 我会再给你} %reward_completion% "
+"克朗。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
@@ -217,10 +214,9 @@ msgid ""
 "heads at most}, and another %reward_completion% when the job is "
 "done.%SPEECH_OFF%"
 msgstr ""
-"{你会得到 | 你将收到 | 我会给你 | It's} %reward_advance% 克朗预付款， %reward_count% "
-"克朗，为你带来的每个人头， {for up to %maxcount% heads | and I'll pay for up to "
-"%maxcount% heads | %maxcount% heads at most}, 完成任务后还有 "
-"%reward_completion%。%SPEECH_OFF%"
+"{你会得到|你会收到|我会给你} %reward_advance% 克朗的预付款, 并且每带回一个人头 {你会得到|你会收到|我会给你} "
+"%reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。合同完成后 "
+"{你会再得到 | 你会再收到 | 我会再给你} %reward_completion% 克朗。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
@@ -230,10 +226,9 @@ msgid ""
 "heads at most}, and another %reward_completion% when the job is "
 "done.%SPEECH_OFF%"
 msgstr ""
-"{你会得到 | 你将收到 | 我会给你 | It's} %reward_advance% 克朗预付款， %reward_count% "
-"克朗，为你送达的每个人头， {for up to %maxcount% heads | and I'll pay for up to "
-"%maxcount% heads | %maxcount% heads at most}, 完成任务后还有 "
-"%reward_completion%。%SPEECH_OFF%"
+"{你会得到|你会收到|我会给你}共 %reward_advance% 克朗的预付款, 每带来一个人头 {你会再得到|你会再收到|我会再给你} "
+"%reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }, 合同完成后 "
+"{你会再得到 | 你会再收到 | 我会再给你} %reward_completion% 克朗。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
@@ -247,12 +242,12 @@ msgid ""
 " quite understand how this works. We need to come to terms if you want to be"
 " paid for this. My offer still stands. }"
 msgstr ""
-"[img]gfx/ui/events/event_04.png[/img]{%SPEECH_START%I refuse to pay any more"
-" for this.  | %SPEECH_START%Be reasonable.  | %SPEECH_START%No, no, no.  | "
-"%SPEECH_START%你以为你是谁？ 支付方式由我来决定。  | 他严肃地看着你，摇摇头。%SPEECH_ON% | "
-"%SPEECH_START%没门儿！%SPEECH_OFF%他愤怒地大喊道。%SPEECH_ON% | "
-"%SPEECH_START%不行，给出的价格已经超出你应得的了。  | %SPEECH_START%不行。别太过份！  | "
-"%SPEECH_START%看来你还不是很懂行。 如果你想要钱，咱们就得达成协议。 我的提议仍然有效。 }"
+"[img]gfx/ui/events/event_04.png[/img]{%SPEECH_START%我拒绝再为此付出更多的报酬。| "
+"%SPEECH_START%要理性一些。  | %SPEECH_START%不，不，不。 | "
+"%SPEECH_START%你觉得你是谁？我告诉你，如何支付报酬是我决定的。  | 他只是严肃地看着你，摇了摇头。%SPEECH_ON% | "
+"%SPEECH_START%不可能！%SPEECH_OFF%他愤怒地大吼。%SPEECH_ON% | "
+"%SPEECH_START%不，你已经得到的比你应得的更多了。| %SPEECH_START%不。不要把我逼急了！| "
+"%SPEECH_START%我认为你还没有完全理解这个问题的运作方式。如果你想要钱，我们需得达成协议。我的报价仍然有效。}"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
@@ -268,13 +263,13 @@ msgid ""
 "with quickly. Here is my new offer.  | %SPEECH_START%We're all friends here,"
 " aren't we? Let's see... }"
 msgstr ""
-"[img]gfx/ui/events/event_04.png[/img]{%SPEECH_START%就这样了？  | "
-"他深呼吸。%SPEECH_ON% | 他叹了口气。%SPEECH_ON% | %SPEECH_START%足够好了。  | "
-"%SPEECH_START%行吧，行吧。  | %SPEECH_START%算了。  | %SPEECH_START%好吧。这样如何？  | "
-"%SPEECH_START%当然，当然，我懂。  | %SPEECH_START%还算合理。  | %SPEECH_START%有趣。那这样应该更合适。"
-"  | %SPEECH_START%这样如何？  | %SPEECH_START%接下来我报价。  | %SPEECH_ON%可以。这样你就接受了？  "
-"| %SPEECH_START%非常好。 鉴于你的要求，我的报价是这个。  | %SPEECH_START%咱们就不墨迹了。 这是我的最新报价。  | "
-"%SPEECH_START%咱们都是朋友一场，不是么？让我想想… }"
+"[img]gfx/ui/events/event_04.png[/img]{%SPEECH_START%就这样了? | "
+"他深呼吸了一口气。%SPEECH_ON% | 他叹了口气。%SPEECH_ON% | %SPEECH_START%行吧。  | "
+"%SPEECH_START%好吧，好吧。| %SPEECH_START%如果一定要这样的话。| %SPEECH_START%行吧，这样可以吗？ | "
+"%SPEECH_START%行，行。我理解。| %SPEECH_START%这还算合理。 | %SPEECH_START%有趣。我觉得这样比较合适。 |"
+" %SPEECH_START%这样如何？| %SPEECH_START%让我报下价吧。 | %SPEECH_ON%可以。这样你就接受了？| "
+"%SPEECH_START%好吧。鉴于你的要求，这是我新的报价  | %SPEECH_START%让我们快点结束吧。这是我的新报价。 | "
+"%SPEECH_START%我们朋友一场，对吧？让我想想……}"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
@@ -293,12 +288,14 @@ msgid ""
 "%SPEECH_ON%Rest assured that what I'm offering you now is a fine prize for "
 "your work.} "
 msgstr ""
-"[img]gfx/ui/events/event_04.png[/img]{他点头。%SPEECH_ON%好的。很好。我想的就是提前给你们报酬。 | "
-"他笑了。%SPEECH_ON%朋友，你们很快就能发大财了。 | 他深呼吸。%SPEECH_ON%非常好，这就是我付出的酬劳。 | "
-"他手放在你肩头，微笑中透着肯定。%SPEECH_ON%你们的服务会有足够的补偿。 | "
-"他指向自己的手指，仿佛在数着什么，但是你完全不懂。%SPEECH_ON%经验告诉我，这任务的报酬不错。 | He 点头。 "
-"%SPEECH_ON%你看起来挺有能力的，我愿意慷慨解囊。 | 他晃着一包硬币，叮当作响。%SPEECH_ON%要是帮忙，这就是你的了。 | "
-"他摊开手掌。%SPEECH_ON%我钱不多，这就是我现在我全部的财产了。 | %SPEECH_ON%请放心，我现在给你的是对你工作的一个很好的奖励。} "
+"[img]gfx/ui/events/event_04.png[/img]{他点了点头。%SPEECH_ON%好的。很好。我想的就是提前给你们报酬。| "
+"他笑了笑。%SPEECH_ON%朋友，你们很快就能发大财了。| 他深呼吸了一口气。%SPEECH_ON%非常好，这是我准备给你的报价。| "
+"他手放在你肩头，微笑中透着肯定。%SPEECH_ON%我想我知道一个适当的报酬来支付你的服务。 | "
+"他用手做出手势，指着手指好像在数些什么，但对你来说没有任何意义。%SPEECH_ON%根据经验来看，这对这项任务来说是很好的报酬。 | "
+"他点了点头。%SPEECH_ON%你看起来挺有能力的，我愿意慷慨解囊。 | "
+"他晃动着一袋硬币。%SPEECH_ON%如果你能帮我处理这件事，这些硬币就是你的了。 | "
+"他摊开了双手。%SPEECH_ON%我现在手头比较紧，所以在你问之前，这就是我现在所有的钱了。| "
+"%SPEECH_ON%请放心，我现在所提供的报酬对于你的工作来说是非常不错的。} "
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
@@ -317,12 +314,15 @@ msgid ""
 "this is all I have right now. | %SPEECH_ON%Rest assured that what I'm "
 "offering you now is a fine prize for your work.} "
 msgstr ""
-"[img]gfx/ui/events/event_04.png[/img]{他点头。%SPEECH_ON%好的。很好。我想的就是提前给你们报酬。 | "
-"他挺起身。%SPEECH_ON%所以，报酬。 | 他笑了。%SPEECH_ON%朋友，你们很快就能发大财了。 | "
-"他深呼吸。%SPEECH_ON%非常好，这就是我付出的酬劳。 | 他手放在你肩头，微笑中透着肯定。%SPEECH_ON%你们的服务会有足够的补偿。 | "
-"他指向自己的手指，仿佛在数着什么，但是你完全不懂。%SPEECH_ON%经验告诉我，这任务的报酬不错。 | He 点头。 "
-"%SPEECH_ON%你看起来挺有能力的，我愿意慷慨解囊。 | 他晃着一包硬币，叮当作响。%SPEECH_ON%要是帮忙，这就是你的了。 | "
-"他摊开手掌。%SPEECH_ON%我钱不多，这就是我现在我全部的财产了。 | %SPEECH_ON%请放心，我现在给你的是对你工作的一个很好的奖励。} "
+"[img]gfx/ui/events/event_04.png[/img]{他点了点头。%SPEECH_ON%很好。我想的就是提前给你们报酬。| "
+"他挺起了身。%SPEECH_ON%那么，关于报酬。| 他笑了笑。%SPEECH_ON%朋友，你们很快就能发大财了。| "
+"他深呼吸了一口气。%SPEECH_ON%非常好，这是我准备给你的报价。| "
+"他手放在你肩头，微笑中透着肯定。%SPEECH_ON%我想我知道一个适当的报酬来支付你的服务。 | "
+"他用手做出手势，指着手指好像在数些什么，但对你来说没有任何意义。%SPEECH_ON%根据经验来看，这对这项任务来说是很好的报酬。 | "
+"他点了点头。%SPEECH_ON%你看起来挺有能力的，我愿意慷慨解囊。 | "
+"他晃动着一袋硬币。%SPEECH_ON%如果你能帮我处理这件事，这些硬币就是你的了。 | "
+"他摊开了双手。%SPEECH_ON%我现在手头比较紧，所以在你问之前，这就是我现在所有的钱了。| "
+"%SPEECH_ON%请放心，我现在所提供的报酬对于你的工作来说是非常不错的。} "
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
@@ -344,13 +344,13 @@ msgid ""
 msgstr ""
 "[img]gfx/ui/events/event_74.png[/img]{%SPEECH_START%搞得就像只有你会为硬币卖命一样。 "
 "看来我还是去其他地方找人好了。拜拜。%SPEECH_OFF% | "
-"%SPEECH_START%我的耐心是有限度的，看来我这是在浪费时间。%SPEECH_OFF% | %SPEECH_START%我受够了！ "
-"我相信我会找到其他人来做这项工作！%SPEECH_OFF% | %SPEECH_START%别侮辱我的智商！ "
-"合约就算了。咱们到此为止。%SPEECH_OFF% | "
-"他气得面色发红。%SPEECH_ON%离开这里，我还没有和贪婪之辈做交易的习惯！%SPEECH_OFF% | 他叹了口气。 "
-"%SPEECH_ON%算…算了。刚开始就不该相信你的。 你走吧，这样我好找其他人。%SPEECH_OFF% | "
-"%SPEECH_START%我当真还以为咱俩关系还不错。 但是说好了，这已经是我的极限了。 我觉得这不行。 我走了。%SPEECH_OFF% | "
-"%SPEECH_ON%这真是浪费时间。 要是没想明白就别再来找我了。%SPEECH_OFF%}"
+"%SPEECH_START%我的耐心是有限度的，看来我这是在浪费时间。%SPEECH_OFF% | %SPEECH_START%我受够了! "
+"我相信我会找到其他人来做这项工作！%SPEECH_OFF% | "
+"%SPEECH_START%别侮辱我的智商！合同就算了。咱们到此为止。%SPEECH_OFF% | "
+"他气得面色发红。%SPEECH_ON%滚开这里，我还没有和贪婪之辈做交易的习惯！%SPEECH_OFF% | "
+"他叹了口气。%SPEECH_ON%算…算了。刚开始就不该相信你的。你走吧，这样我好找其他人。%SPEECH_OFF% | "
+"%SPEECH_START%我当真还以为咱俩关系还不错。但这已经超出我的极限了。我觉得这不行，拉倒吧。%SPEECH_OFF% | "
+"%SPEECH_ON%这真是浪费时间。要是没想明白就别再来找我了。%SPEECH_OFF%}"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid ""
@@ -372,13 +372,13 @@ msgid ""
 msgstr ""
 "[img]gfx/ui/events/event_74.png[/img]{%SPEECH_START%搞得就像只有你会为硬币卖命一样。 "
 "看来我还是去其他地方找人好了。拜拜。%SPEECH_OFF% | "
-"%SPEECH_START%我的耐心是有限度的，看来我这是在浪费时间。%SPEECH_OFF% | %SPEECH_START%我受够了！ "
-"我相信我会找到其他人来做这项工作！%SPEECH_OFF% | %SPEECH_START%别侮辱我的智商！ "
-"合约就算了。咱们到此为止。%SPEECH_OFF% | "
-"他气得面色发红。%SPEECH_ON%离开这里，我还没有和贪婪之辈做交易的习惯！%SPEECH_OFF% | 他叹了口气。 "
-"%SPEECH_ON%算…算了。刚开始就不该相信你的。 你走吧，这样我好找其他人。%SPEECH_OFF% | "
-"%SPEECH_START%我当真还以为咱俩关系还不错。 但是说好了，这已经是我的极限了。 我觉得这不行。 我走了。%SPEECH_OFF% | "
-"%SPEECH_START%这真是浪费时间。 要是没想明白就别再来找我了。%SPEECH_OFF%}"
+"%SPEECH_START%我的耐心是有限度的，看来我这是在浪费时间。%SPEECH_OFF% | %SPEECH_START%我受够了! "
+"我相信我会找到其他人来做这项工作！%SPEECH_OFF% | "
+"%SPEECH_START%别侮辱我的智商！合同就算了。咱们到此为止。%SPEECH_OFF% | "
+"他气得面色发红。%SPEECH_ON%滚开这里，我还没有和贪婪之辈做交易的习惯！%SPEECH_OFF% | "
+"他叹了口气。%SPEECH_ON%算…算了。刚开始就不该相信你的。你走吧，这样我好找其他人。%SPEECH_OFF% | "
+"%SPEECH_START%我当真还以为咱俩关系还不错。但这已经超出我的极限了。我觉得这不行，拉倒吧。%SPEECH_OFF% | "
+"%SPEECH_ON%这真是浪费时间。要是没想明白就别再来找我了。%SPEECH_OFF%}"
 
 # scripts/contracts/templates/intro_templates.nut
 msgid ""
