@@ -4,7 +4,7 @@ msgstr ""
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Undefined error."
-msgstr ""
+msgstr "未定义的错误。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "battle-preparation"
@@ -12,100 +12,104 @@ msgstr ""
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Not enough bag space."
-msgstr ""
+msgstr "背包空间不足。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to unlock perk."
-msgstr ""
+msgstr "未能解锁特技。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to find entity."
-msgstr ""
+msgstr "未能找到实体。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Not enough stash space."
-msgstr ""
+msgstr "存储空间不足。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to find bag item."
-msgstr ""
+msgstr "未能找到背包物品。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Item already within bag."
-msgstr ""
+msgstr "物品已在背包中。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to acquire stash."
-msgstr ""
+msgstr "未能获取存储。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to equip bag item."
-msgstr ""
+msgstr "未能装备背包物品。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Not enough Action Points."
-msgstr ""
+msgstr "行动点数不足。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to find stash item."
-msgstr ""
+msgstr "未能找到存储物品。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to find ground item."
-msgstr ""
+msgstr "未能找到地上的物品。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to equip stash item."
-msgstr ""
+msgstr "未能装备存储物品。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to acquire inventory."
-msgstr ""
+msgstr "未能获取物品清单。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to put item into bag."
-msgstr ""
+msgstr "未能将物品放入背包。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to equip ground item."
-msgstr ""
+msgstr "未能装备地上物品。"
+
+# scripts/ui/screens/character/character_screen.nut
+msgid "Glad to see "
+msgstr "很高兴看到"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid " get reparations for his time"
-msgstr ""
+msgstr "得到了为他花费时间的赔偿"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to remove item from bag."
-msgstr ""
+msgstr "未能从背包中移除物品。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to acquire ground items."
-msgstr ""
+msgstr "未能获取地上物品。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Item is not changable in battle."
-msgstr ""
+msgstr "物品在战斗中无法更换。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Item is not assigned to any slot."
-msgstr ""
+msgstr "物品未分配到任何插槽。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to put stash item into bag."
-msgstr ""
+msgstr "未能将存储物品放入
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to put ground item into bag."
-msgstr ""
+msgstr "无法将地面物品放入背包。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to remove item from source slot."
-msgstr ""
+msgstr "无法从源槽中移除物品。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to remove item from target slot."
-msgstr ""
+msgstr "无法从目标槽中移除物品。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Only the active entity is allowed to change items."
-msgstr ""
+msgstr "只有当前实体可以更换物品。"
