@@ -4,8 +4,8 @@ msgstr ""
 
 # scripts/mapgen/map_generator.nut
 msgid "\" does not exist!"
-msgstr ""
+msgstr "文件不存在！"
 
 # scripts/mapgen/map_generator.nut
 msgid "ERROR: Template named \""
-msgstr ""
+msgstr "错误：模板名为\""

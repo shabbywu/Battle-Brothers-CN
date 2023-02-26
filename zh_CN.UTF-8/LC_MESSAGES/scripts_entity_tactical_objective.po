@@ -8,8 +8,8 @@ msgstr "炮手"
 
 # scripts/entity/tactical/objective/donkey.nut
 msgid "A Donkey"
-msgstr ""
+msgstr "一头驴子"
 
 # scripts/entity/tactical/objective/donkey.nut
 msgid "Caravan Donkey"
-msgstr ""
+msgstr "商队驴子"
