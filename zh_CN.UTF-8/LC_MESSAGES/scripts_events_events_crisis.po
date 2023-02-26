@@ -216,7 +216,7 @@ msgstr "战争就要来了。"
 # scripts/events/events/crisis/civilwar_dead_knight_event.nut
 # scripts/events/events/crisis/civilwar_ambush_event.nut
 msgid "[/color] Crowns"
-msgstr ""
+msgstr "[/color] 克朗"
 
 # scripts/events/events/crisis/greenskins_slayer_event.nut
 # scripts/events/events/crisis/greenskins_pet_goblin_event.nut

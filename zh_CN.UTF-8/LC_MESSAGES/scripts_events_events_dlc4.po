@@ -180,7 +180,7 @@ msgstr "让这个事成真。"
 # scripts/events/events/dlc4/horse_race_event.nut
 # scripts/events/events/dlc4/drunk_nobleman_event.nut
 msgid "[/color] Crowns"
-msgstr ""
+msgstr "[/color] 克朗"
 
 # scripts/events/events/dlc4/sled_race_event.nut
 # scripts/events/events/dlc4/barbarian_volunteer_event.nut

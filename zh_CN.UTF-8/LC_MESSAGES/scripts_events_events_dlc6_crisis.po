@@ -49,7 +49,7 @@ msgstr "战争就要来了。"
 
 # scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
 msgid "[/color] Crowns"
-msgstr ""
+msgstr "[/color] 克朗"
 
 # scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
 # scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut

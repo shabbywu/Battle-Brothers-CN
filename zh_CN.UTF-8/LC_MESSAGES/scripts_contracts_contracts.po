@@ -1229,7 +1229,7 @@ msgstr "贸易商队"
 # scripts/contracts/contracts/hunting_sand_golems_contract.nut
 # scripts/contracts/contracts/restore_location_contract.nut
 msgid "[/color] Crowns"
-msgstr ""
+msgstr "[/color] 克朗"
 
 # scripts/contracts/contracts/hunting_hexen_contract.nut
 msgid "'s firstborn son"
