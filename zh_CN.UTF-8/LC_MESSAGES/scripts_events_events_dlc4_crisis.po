@@ -28,7 +28,7 @@ msgstr ""
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
 msgid "[/color] Crowns"
-msgstr ""
+msgstr "[/color] 克朗"
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
 msgid "You gain [color="

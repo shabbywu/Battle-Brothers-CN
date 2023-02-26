@@ -303,7 +303,7 @@ msgstr "欢迎加入。"
 # scripts/events/events/dlc8/black_market_event.nut
 # scripts/events/events/dlc8/incense_trade_event.nut
 msgid "[/color] Crowns"
-msgstr ""
+msgstr "[/color] 克朗"
 
 # scripts/events/events/dlc8/oathbreaker_event.nut
 msgid "the Oathbreaker"

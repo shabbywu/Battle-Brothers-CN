@@ -1028,7 +1028,7 @@ msgstr "不用客气。"
 # scripts/events/events/traveling_troupe_event.nut
 # scripts/events/events/wildman_causes_havoc_event.nut
 msgid "[/color] Crowns"
-msgstr ""
+msgstr "[/color] 克朗"
 
 # scripts/events/events/fisherman_vs_farmer_event.nut
 msgid "the Armwrestler"

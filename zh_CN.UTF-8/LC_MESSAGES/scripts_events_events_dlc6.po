@@ -169,7 +169,7 @@ msgstr "欢迎加入。"
 # scripts/events/events/dlc6/dried_oasis_event.nut
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "[/color] Crowns"
-msgstr ""
+msgstr "[/color] 克朗"
 
 # scripts/events/events/dlc6/runaway_harem_event.nut
 # scripts/events/events/dlc6/cultish_arrangement_event.nut

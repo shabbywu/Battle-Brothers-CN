@@ -222,7 +222,7 @@ msgstr "不，我们没事。"
 # scripts/events/events/dlc2/corpses_in_forest_event.nut
 # scripts/events/events/dlc2/nightowl_catches_thief_event.nut
 msgid "[/color] Crowns"
-msgstr ""
+msgstr "[/color] 克朗"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "A show's a show."
