@@ -18,13 +18,13 @@ msgstr "宿醉"
 msgid "Exhausted"
 msgstr "精疲力竭"
 
-# scripts/skills/effects_world/drunk_effect.nut
-msgid "Has a [color="
-msgstr ""
-
 # scripts/skills/effects_world/new_trained_effect.nut
 # scripts/skills/effects_world/new_knowledge_potion_effect.nut
 msgid " more battles"
+msgstr ""
+
+# scripts/skills/effects_world/drunk_effect.nut
+msgid "Has a [color="
 msgstr ""
 
 # scripts/skills/effects_world/knowledge_potion_effect.nut
@@ -33,13 +33,17 @@ msgid "Enhanced Learning"
 msgstr "强化学习"
 
 # scripts/skills/effects_world/new_trained_effect.nut
+# scripts/skills/effects_world/trained_effect.nut
+msgid "Training Experience"
+msgstr "Training 经验值"
+
+# scripts/skills/effects_world/new_trained_effect.nut
 # scripts/skills/effects_world/new_knowledge_potion_effect.nut
 msgid "Will be gone after "
 msgstr ""
 
-# scripts/skills/effects_world/new_trained_effect.nut
-# scripts/skills/effects_world/trained_effect.nut
-msgid "Training Experience"
+# scripts/skills/effects_world/drunk_effect.nut
+msgid "]+25%[/color] Resolve"
 msgstr ""
 
 # scripts/skills/effects_world/hangover_effect.nut
@@ -50,28 +54,12 @@ msgstr ""
 msgid "]-50%[/color] Resolve"
 msgstr ""
 
-# scripts/skills/effects_world/drunk_effect.nut
-msgid "]+25%[/color] Resolve"
-msgstr ""
-
-# scripts/skills/effects_world/drunk_effect.nut
-msgid "]-25%[/color] Initiative"
-msgstr ""
-
 # scripts/skills/effects_world/hangover_effect.nut
 msgid "]-10%[/color] Initiative"
 msgstr ""
 
 # scripts/skills/effects_world/drunk_effect.nut
-msgid "]-25%[/color] Melee Skill"
-msgstr "]-25%[/color] 近战技能"
-
-# scripts/skills/effects_world/hangover_effect.nut
-msgid "]-10%[/color] Melee Skill"
-msgstr "]-10%[/color] 近战技能"
-
-# scripts/skills/effects_world/exhausted_effect.nut
-msgid "]-40%[/color] Max Fatigue"
+msgid "]-25%[/color] Initiative"
 msgstr ""
 
 # scripts/skills/effects_world/knowledge_potion_effect.nut
@@ -81,6 +69,18 @@ msgid "%[/color] Experience Gain"
 msgstr "%[/color] 经验获取"
 
 # scripts/skills/effects_world/hangover_effect.nut
+msgid "]-10%[/color] Melee Skill"
+msgstr "]-10%[/color] 近战技能"
+
+# scripts/skills/effects_world/drunk_effect.nut
+msgid "]-25%[/color] Melee Skill"
+msgstr "]-25%[/color] 近战技能"
+
+# scripts/skills/effects_world/exhausted_effect.nut
+msgid "]-40%[/color] Max Fatigue"
+msgstr ""
+
+# scripts/skills/effects_world/hangover_effect.nut
 msgid "]-10%[/color] Ranged Skill"
 msgstr "]-10%[/color] 远程技能"
 
@@ -88,21 +88,21 @@ msgstr "]-10%[/color] 远程技能"
 msgid "]-25%[/color] Ranged Skill"
 msgstr "]-25%[/color] 远程技能"
 
-# scripts/skills/effects_world/drunk_effect.nut
-msgid "]-25%[/color] Melee Defense"
-msgstr "]-25%[/color] 近战防御"
-
 # scripts/skills/effects_world/hangover_effect.nut
 msgid "]-10%[/color] Melee Defense"
 msgstr "]-10%[/color] 近战防御"
 
 # scripts/skills/effects_world/drunk_effect.nut
-msgid "]-25%[/color] Ranged Defense"
-msgstr "]-25%[/color] 远程防御"
+msgid "]-25%[/color] Melee Defense"
+msgstr "]-25%[/color] 近战防御"
 
 # scripts/skills/effects_world/hangover_effect.nut
 msgid "]-10%[/color] Ranged Defense"
 msgstr "]-10%[/color] 远程防御"
+
+# scripts/skills/effects_world/drunk_effect.nut
+msgid "]-25%[/color] Ranged Defense"
+msgstr "]-25%[/color] 远程防御"
 
 # scripts/skills/effects_world/new_knowledge_potion_effect.nut
 msgid "]+100%[/color] Experience Gain"

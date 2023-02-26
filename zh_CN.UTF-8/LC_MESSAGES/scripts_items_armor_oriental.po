@@ -2,10 +2,6 @@
 msgid ""
 msgstr ""
 
-# scripts/items/armor/oriental/nomad_robe.nut
-msgid "Nomad Robe"
-msgstr "游牧长袍"
-
 # scripts/items/armor/oriental/cloth_sash.nut
 msgid "Cloth Sash"
 msgstr "布饰带"
@@ -14,9 +10,9 @@ msgstr "布饰带"
 msgid "Linothorax"
 msgstr "亚麻胸甲"
 
-# scripts/items/armor/oriental/linothorax.nut
-msgid "linothorax"
-msgstr ""
+# scripts/items/armor/oriental/nomad_robe.nut
+msgid "Nomad Robe"
+msgstr "游牧长袍"
 
 # scripts/items/armor/oriental/padded_vest.nut
 msgid "Padded Vest"
@@ -102,17 +98,17 @@ msgid ""
 "elements."
 msgstr "一种由甲衣、衬垫和层状元素组成的重型复合装甲。"
 
-# scripts/items/armor/oriental/nomad_robe.nut
-msgid ""
-"A nomad cloth robe worn to protect against both the heat and against cuts "
-"and bruises."
-msgstr "一种游牧民族的布长袍，用来防暑、防割伤和擦伤。"
-
 # scripts/items/armor/oriental/gladiator_harness.nut
 msgid ""
 "A leather harness commonly worn by pit fighters in arenas of the southern "
 "city states."
 msgstr "在南方城邦的竞技场上，斗士通常戴的一种皮制甲胄。"
+
+# scripts/items/armor/oriental/nomad_robe.nut
+msgid ""
+"A nomad cloth robe worn to protect against both the heat and against cuts "
+"and bruises."
+msgstr "一种游牧民族的布长袍，用来防暑、防割伤和擦伤。"
 
 # scripts/items/armor/oriental/plated_nomad_mail.nut
 msgid ""

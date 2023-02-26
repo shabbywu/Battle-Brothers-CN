@@ -10,12 +10,12 @@ msgstr ""
 msgid "Pimp"
 msgstr ""
 
-# scripts/skills/backgrounds/miner_background.nut
-msgid "Miner"
-msgstr ""
-
 # scripts/skills/backgrounds/mason_background.nut
 msgid "Mason"
+msgstr ""
+
+# scripts/skills/backgrounds/miner_background.nut
+msgid "Miner"
 msgstr ""
 
 # scripts/skills/backgrounds/nomad_background.nut
@@ -24,22 +24,6 @@ msgstr ""
 
 # scripts/skills/backgrounds/thief_background.nut
 msgid "Thief"
-msgstr ""
-
-# scripts/skills/backgrounds/eunuch_background.nut
-msgid "Eunuch"
-msgstr ""
-
-# scripts/skills/backgrounds/hunter_background.nut
-msgid "Hunter"
-msgstr ""
-
-# scripts/skills/backgrounds/tailor_background.nut
-msgid "Tailor"
-msgstr ""
-
-# scripts/skills/backgrounds/raider_background.nut
-msgid "Raider"
 msgstr ""
 
 # scripts/skills/backgrounds/beggar_background.nut
@@ -54,45 +38,101 @@ msgstr ""
 msgid "Deuces"
 msgstr ""
 
-# scripts/skills/backgrounds/squire_background.nut
-msgid "Squire"
+# scripts/skills/backgrounds/eunuch_background.nut
+msgid "Eunuch"
+msgstr ""
+
+# scripts/skills/backgrounds/hunter_background.nut
+msgid "Hunter"
 msgstr ""
 
 # scripts/skills/backgrounds/miller_background.nut
 msgid "Miller"
 msgstr ""
 
-# scripts/skills/backgrounds/militia_background.nut
-msgid "Militia"
-msgstr "民兵"
+# scripts/skills/backgrounds/raider_background.nut
+msgid "Raider"
+msgstr ""
 
-# scripts/skills/backgrounds/converted_cultist_background.nut
-# scripts/skills/backgrounds/cultist_background.nut
-msgid "Cultist"
-msgstr "邪教徒"
+# scripts/skills/backgrounds/squire_background.nut
+msgid "Squire"
+msgstr ""
 
-# scripts/skills/backgrounds/wildman_background.nut
-msgid "Wildman"
-msgstr "野人"
+# scripts/skills/backgrounds/tailor_background.nut
+msgid "Tailor"
+msgstr ""
+
+# scripts/skills/backgrounds/bastard_background.nut
+msgid "Bastard"
+msgstr ""
 
 # scripts/skills/backgrounds/brawler_background.nut
 msgid "Brawler"
 msgstr "格斗家"
 
 # scripts/skills/backgrounds/butcher_background.nut
-msgid "the Red"
-msgstr "红十字"
+msgid "Butcher"
+msgstr ""
 
+# scripts/skills/backgrounds/cripple_background.nut
+msgid "Cripple"
+msgstr ""
+
+# scripts/skills/backgrounds/converted_cultist_background.nut
 # scripts/skills/backgrounds/cultist_background.nut
-msgid "the Odd"
-msgstr "奇怪的"
+msgid "Cultist"
+msgstr "邪教徒"
+
+# scripts/skills/backgrounds/gambler_background.nut
+msgid "Gambler"
+msgstr ""
+
+# scripts/skills/backgrounds/juggler_background.nut
+msgid "Juggler"
+msgstr ""
+
+# scripts/skills/backgrounds/militia_background.nut
+msgid "Militia"
+msgstr "民兵"
+
+# scripts/skills/backgrounds/peddler_background.nut
+msgid "Peddler"
+msgstr ""
+
+# scripts/skills/backgrounds/poacher_background.nut
+msgid "Poacher"
+msgstr ""
+
+# scripts/skills/backgrounds/butcher_background.nut
+msgid "Redmeat"
+msgstr ""
+
+# scripts/skills/backgrounds/refugee_background.nut
+msgid "Refugee"
+msgstr ""
+
+# scripts/skills/backgrounds/refugee_background.nut
+msgid "Runsfar"
+msgstr ""
+
+# scripts/skills/backgrounds/servant_background.nut
+msgid "Servant"
+msgstr ""
+
+# scripts/skills/backgrounds/wildman_background.nut
+msgid "Wildman"
+msgstr "野人"
+
+# scripts/skills/backgrounds/lumberjack_background.nut
+msgid "the Axe"
+msgstr ""
 
 # scripts/skills/backgrounds/deserter_background.nut
 msgid "the Dog"
 msgstr "狗"
 
-# scripts/skills/backgrounds/bastard_background.nut
-msgid "Bastard"
+# scripts/skills/backgrounds/apprentice_background.nut
+msgid "the Kid"
 msgstr ""
 
 # scripts/skills/backgrounds/converted_cultist_background.nut
@@ -100,102 +140,93 @@ msgstr ""
 msgid "the Mad"
 msgstr ""
 
-# scripts/skills/backgrounds/cripple_background.nut
-msgid "Cripple"
-msgstr ""
-
-# scripts/skills/backgrounds/poacher_background.nut
-msgid "Poacher"
-msgstr ""
-
-# scripts/skills/backgrounds/lumberjack_background.nut
-msgid "the Axe"
-msgstr ""
-
-# scripts/skills/backgrounds/juggler_background.nut
-msgid "Juggler"
-msgstr ""
+# scripts/skills/backgrounds/cultist_background.nut
+msgid "the Odd"
+msgstr "奇怪的"
 
 # scripts/skills/backgrounds/retired_soldier_background.nut
 msgid "the Old"
-msgstr ""
-
-# scripts/skills/backgrounds/refugee_background.nut
-msgid "Runsfar"
-msgstr ""
-
-# scripts/skills/backgrounds/refugee_background.nut
-msgid "Refugee"
-msgstr ""
-
-# scripts/skills/backgrounds/peddler_background.nut
-msgid "Peddler"
-msgstr ""
-
-# scripts/skills/backgrounds/gambler_background.nut
-msgid "Gambler"
-msgstr ""
-
-# scripts/skills/backgrounds/apprentice_background.nut
-msgid "the Kid"
-msgstr ""
-
-# scripts/skills/backgrounds/butcher_background.nut
-msgid "Butcher"
-msgstr ""
-
-# scripts/skills/backgrounds/butcher_background.nut
-msgid "Redmeat"
 msgstr ""
 
 # scripts/skills/backgrounds/historian_background.nut
 msgid "the Owl"
 msgstr ""
 
-# scripts/skills/backgrounds/servant_background.nut
-msgid "Servant"
-msgstr ""
+# scripts/skills/backgrounds/butcher_background.nut
+msgid "the Red"
+msgstr "红十字"
 
 # scripts/skills/backgrounds/assassin_southern_background.nut
 # scripts/skills/backgrounds/assassin_background.nut
 msgid "Assassin"
 msgstr "刺客"
 
+# scripts/skills/backgrounds/butcher_background.nut
+msgid "Bloodeye"
+msgstr ""
+
+# scripts/skills/backgrounds/crusader_background.nut
+msgid "Crusader"
+msgstr ""
+
+# scripts/skills/backgrounds/daytaler_background.nut
+msgid "Daytaler"
+msgstr ""
+
+# scripts/skills/backgrounds/deserter_background.nut
+msgid "Deserter"
+msgstr ""
+
+# scripts/skills/backgrounds/farmhand_background.nut
+msgid "Farmhand"
+msgstr ""
+
+# scripts/skills/backgrounds/apprentice_background.nut
+msgid "Goodhand"
+msgstr ""
+
+# scripts/skills/backgrounds/shepherd_background.nut
+msgid "Hoofmind"
+msgstr ""
+
 # scripts/skills/backgrounds/slave_background.nut
 msgid "Indebted"
 msgstr "欠债者"
 
-# scripts/skills/backgrounds/nomad_background.nut
-msgid "the Hawk"
-msgstr "鹰"
-
-# scripts/skills/backgrounds/cultist_background.nut
-msgid "the Lost"
-msgstr "迷失者"
-
-# scripts/skills/backgrounds/hedge_knight_background.nut
-msgid "the Wolf"
-msgstr "狼"
-
-# scripts/skills/backgrounds/slave_background.nut
-# scripts/skills/backgrounds/slave_barbarian_background.nut
-msgid "the Pale"
-msgstr ""
-
-# scripts/skills/backgrounds/beggar_background.nut
-msgid "the Liar"
+# scripts/skills/backgrounds/minstrel_background.nut
+msgid "Minstrel"
 msgstr ""
 
 # scripts/skills/backgrounds/hunter_background.nut
 msgid "One Shot"
 msgstr ""
 
-# scripts/skills/backgrounds/tailor_background.nut
-msgid "the Fine"
+# scripts/skills/backgrounds/nomad_background.nut
+msgid "Redsands"
+msgstr ""
+
+# scripts/skills/backgrounds/shepherd_background.nut
+msgid "Shepherd"
 msgstr ""
 
 # scripts/skills/backgrounds/tailor_background.nut
 msgid "Silkworm"
+msgstr ""
+
+# scripts/skills/backgrounds/minstrel_background.nut
+msgid "Songbird"
+msgstr ""
+
+# scripts/skills/backgrounds/vagabond_background.nut
+msgid "Vagabond"
+msgstr ""
+
+# scripts/skills/backgrounds/minstrel_background.nut
+msgid "the Bard"
+msgstr "吟游诗人"
+
+# scripts/skills/backgrounds/monk_background.nut
+msgid "the Calm"
 msgstr ""
 
 # scripts/skills/backgrounds/raider_background.nut
@@ -203,174 +234,82 @@ msgstr ""
 msgid "the Crow"
 msgstr ""
 
-# scripts/skills/backgrounds/farmhand_background.nut
-msgid "Farmhand"
+# scripts/skills/backgrounds/tailor_background.nut
+msgid "the Fine"
 msgstr ""
 
 # scripts/skills/backgrounds/juggler_background.nut
 msgid "the Fool"
 msgstr ""
 
-# scripts/skills/backgrounds/minstrel_background.nut
-msgid "Minstrel"
-msgstr ""
-
-# scripts/skills/backgrounds/minstrel_background.nut
-msgid "Songbird"
-msgstr ""
-
-# scripts/skills/backgrounds/minstrel_background.nut
-msgid "the Bard"
-msgstr "吟游诗人"
-
-# scripts/skills/backgrounds/minstrel_background.nut
-msgid "the Poet"
-msgstr "诗人"
-
-# scripts/skills/backgrounds/shepherd_background.nut
-msgid "Hoofmind"
-msgstr ""
-
-# scripts/skills/backgrounds/shepherd_background.nut
-msgid "Shepherd"
-msgstr ""
-
-# scripts/skills/backgrounds/deserter_background.nut
-msgid "Deserter"
-msgstr ""
-
-# scripts/skills/backgrounds/deserter_background.nut
-msgid "the Worm"
+# scripts/skills/backgrounds/nomad_background.nut
+msgid "the Free"
 msgstr ""
 
 # scripts/skills/backgrounds/anatomist_background.nut
 msgid "the Grim"
 msgstr ""
 
-# scripts/skills/backgrounds/beggar_background.nut
-msgid "the Sick"
-msgstr ""
+# scripts/skills/backgrounds/nomad_background.nut
+msgid "the Hawk"
+msgstr "鹰"
 
 # scripts/skills/backgrounds/beggar_background.nut
 msgid "the Idle"
 msgstr ""
 
 # scripts/skills/backgrounds/beggar_background.nut
+msgid "the Liar"
+msgstr ""
+
+# scripts/skills/backgrounds/cultist_background.nut
+msgid "the Lost"
+msgstr "迷失者"
+
+# scripts/skills/backgrounds/monk_background.nut
+msgid "the Monk"
+msgstr ""
+
+# scripts/skills/backgrounds/slave_background.nut
+# scripts/skills/backgrounds/slave_barbarian_background.nut
+msgid "the Pale"
+msgstr ""
+
+# scripts/skills/backgrounds/minstrel_background.nut
+msgid "the Poet"
+msgstr "诗人"
+
+# scripts/skills/backgrounds/beggar_background.nut
 msgid "the Poor"
 msgstr ""
 
-# scripts/skills/backgrounds/nomad_background.nut
-msgid "Redsands"
-msgstr ""
-
-# scripts/skills/backgrounds/nomad_background.nut
-msgid "the Free"
+# scripts/skills/backgrounds/beggar_background.nut
+msgid "the Sick"
 msgstr ""
 
 # scripts/skills/backgrounds/wildman_background.nut
 msgid "the Wild"
 msgstr ""
 
-# scripts/skills/backgrounds/monk_background.nut
-msgid "the Monk"
+# scripts/skills/backgrounds/hedge_knight_background.nut
+msgid "the Wolf"
+msgstr "狼"
+
+# scripts/skills/backgrounds/deserter_background.nut
+msgid "the Worm"
 msgstr ""
 
-# scripts/skills/backgrounds/monk_background.nut
-msgid "the Calm"
+# scripts/skills/backgrounds/anatomist_background.nut
+msgid "Anatomist"
 msgstr ""
 
-# scripts/skills/backgrounds/apprentice_background.nut
-msgid "Goodhand"
+# scripts/skills/backgrounds/killer_on_the_run_background.nut
+msgid "Backblade"
 msgstr ""
-
-# scripts/skills/backgrounds/daytaler_background.nut
-msgid "Daytaler"
-msgstr ""
-
-# scripts/skills/backgrounds/butcher_background.nut
-msgid "Bloodeye"
-msgstr ""
-
-# scripts/skills/backgrounds/vagabond_background.nut
-msgid "Vagabond"
-msgstr ""
-
-# scripts/skills/backgrounds/crusader_background.nut
-msgid "Crusader"
-msgstr ""
-
-# scripts/skills/backgrounds/gladiator_background.nut
-msgid "Gladiator"
-msgstr "角斗士"
-
-# scripts/skills/backgrounds/messenger_background.nut
-msgid "Messenger"
-msgstr "信使"
 
 # scripts/skills/backgrounds/barbarian_background.nut
 msgid "Barbarian"
 msgstr "野蛮人"
-
-# scripts/skills/backgrounds/manhunter_background.nut
-msgid "the Cruel"
-msgstr "残酷的"
-
-# scripts/skills/backgrounds/hedge_knight_background.nut
-msgid "the Hound"
-msgstr "猎犬"
-
-# scripts/skills/backgrounds/thief_background.nut
-msgid "the Snake"
-msgstr "蛇"
-
-# scripts/skills/backgrounds/nomad_background.nut
-msgid "the Hyena"
-msgstr "鬣狗"
-
-# scripts/skills/backgrounds/thief_background.nut
-# scripts/skills/backgrounds/vagabond_background.nut
-msgid "the Raven"
-msgstr "乌鸦"
-
-# scripts/skills/backgrounds/nomad_background.nut
-msgid "the Nomad"
-msgstr "游牧民族"
-
-# scripts/skills/backgrounds/apprentice_background.nut
-msgid "Quickmind"
-msgstr "头脑灵活的人"
-
-# scripts/skills/backgrounds/manhunter_background.nut
-msgid "the Swine"
-msgstr ""
-
-# scripts/skills/backgrounds/gambler_background.nut
-msgid "the Lucky"
-msgstr ""
-
-# scripts/skills/backgrounds/hedge_knight_background.nut
-msgid "the Giant"
-msgstr ""
-
-# scripts/skills/backgrounds/miner_background.nut
-msgid "Earthside"
-msgstr ""
-
-# scripts/skills/backgrounds/miner_background.nut
-msgid "the Miner"
-msgstr ""
-
-# scripts/skills/backgrounds/hunter_background.nut
-msgid "Eagle Eye"
-msgstr "鹰眼"
-
-# scripts/skills/backgrounds/hunter_background.nut
-msgid "True-Shot"
-msgstr ""
-
-# scripts/skills/backgrounds/minstrel_background.nut
-msgid "the Lover"
-msgstr ""
 
 # scripts/skills/backgrounds/companion_ranged_background.nut
 # scripts/skills/backgrounds/companion_1h_background.nut
@@ -378,72 +317,41 @@ msgstr ""
 msgid "Companion"
 msgstr ""
 
-# scripts/skills/backgrounds/shepherd_background.nut
-msgid "the Sheep"
-msgstr ""
+# scripts/skills/backgrounds/hunter_background.nut
+msgid "Eagle Eye"
+msgstr "鹰眼"
 
-# scripts/skills/backgrounds/deserter_background.nut
-msgid "Turncloak"
-msgstr ""
-
-# scripts/skills/backgrounds/anatomist_background.nut
-msgid "Anatomist"
-msgstr ""
-
-# scripts/skills/backgrounds/beggar_background.nut
-msgid "the Sloth"
-msgstr ""
-
-# scripts/skills/backgrounds/beggar_background.nut
-msgid "the Dirty"
-msgstr ""
-
-# scripts/skills/backgrounds/beggar_background.nut
-msgid "the Skunk"
-msgstr ""
-
-# scripts/skills/backgrounds/slave_southern_background.nut
-# scripts/skills/backgrounds/slave_background.nut
-# scripts/skills/backgrounds/slave_barbarian_background.nut
-msgid "the Bound"
+# scripts/skills/backgrounds/miner_background.nut
+msgid "Earthside"
 msgstr ""
 
 # scripts/skills/backgrounds/fisherman_background.nut
 msgid "Fisherman"
 msgstr ""
 
-# scripts/skills/backgrounds/paladin_background.nut
-msgid "Oathtaker"
-msgstr ""
-
-# scripts/skills/backgrounds/paladin_background.nut
-# scripts/skills/backgrounds/monk_background.nut
-msgid "the Pious"
-msgstr ""
-
-# scripts/skills/backgrounds/thief_background.nut
-msgid "the Thief"
-msgstr ""
-
-# scripts/skills/backgrounds/wildman_background.nut
-msgid "the Feral"
-msgstr ""
-
-# scripts/skills/backgrounds/monk_background.nut
-msgid "the Quiet"
-msgstr ""
-
-# scripts/skills/backgrounds/killer_on_the_run_background.nut
-msgid "Backblade"
-msgstr ""
-
-# scripts/skills/backgrounds/apprentice_background.nut
-msgid "the Young"
-msgstr ""
+# scripts/skills/backgrounds/gladiator_background.nut
+msgid "Gladiator"
+msgstr "角斗士"
 
 # scripts/skills/backgrounds/historian_background.nut
 msgid "Historian"
 msgstr ""
+
+# scripts/skills/backgrounds/manhunter_background.nut
+msgid "Manhunter"
+msgstr ""
+
+# scripts/skills/backgrounds/messenger_background.nut
+msgid "Messenger"
+msgstr "信使"
+
+# scripts/skills/backgrounds/paladin_background.nut
+msgid "Oathtaker"
+msgstr ""
+
+# scripts/skills/backgrounds/apprentice_background.nut
+msgid "Quickmind"
+msgstr "头脑灵活的人"
 
 # scripts/skills/backgrounds/sellsword_background.nut
 msgid "Sellsword"
@@ -453,17 +361,173 @@ msgstr ""
 msgid "Threefeet"
 msgstr ""
 
-# scripts/skills/backgrounds/manhunter_background.nut
-msgid "Manhunter"
+# scripts/skills/backgrounds/hunter_background.nut
+msgid "True-Shot"
 msgstr ""
 
-# scripts/skills/backgrounds/swordmaster_background.nut
-msgid "the Master"
-msgstr "大师"
+# scripts/skills/backgrounds/deserter_background.nut
+msgid "Turncloak"
+msgstr ""
+
+# scripts/skills/backgrounds/slave_southern_background.nut
+# scripts/skills/backgrounds/slave_background.nut
+# scripts/skills/backgrounds/slave_barbarian_background.nut
+msgid "the Bound"
+msgstr ""
+
+# scripts/skills/backgrounds/manhunter_background.nut
+msgid "the Cruel"
+msgstr "残酷的"
 
 # scripts/skills/backgrounds/beggar_background.nut
-msgid "the Weasel"
-msgstr "黄鼠狼"
+msgid "the Dirty"
+msgstr ""
+
+# scripts/skills/backgrounds/wildman_background.nut
+msgid "the Feral"
+msgstr ""
+
+# scripts/skills/backgrounds/hedge_knight_background.nut
+msgid "the Giant"
+msgstr ""
+
+# scripts/skills/backgrounds/hedge_knight_background.nut
+msgid "the Hound"
+msgstr "猎犬"
+
+# scripts/skills/backgrounds/nomad_background.nut
+msgid "the Hyena"
+msgstr "鬣狗"
+
+# scripts/skills/backgrounds/minstrel_background.nut
+msgid "the Lover"
+msgstr ""
+
+# scripts/skills/backgrounds/gambler_background.nut
+msgid "the Lucky"
+msgstr ""
+
+# scripts/skills/backgrounds/miner_background.nut
+msgid "the Miner"
+msgstr ""
+
+# scripts/skills/backgrounds/nomad_background.nut
+msgid "the Nomad"
+msgstr "游牧民族"
+
+# scripts/skills/backgrounds/paladin_background.nut
+# scripts/skills/backgrounds/monk_background.nut
+msgid "the Pious"
+msgstr ""
+
+# scripts/skills/backgrounds/monk_background.nut
+msgid "the Quiet"
+msgstr ""
+
+# scripts/skills/backgrounds/thief_background.nut
+# scripts/skills/backgrounds/vagabond_background.nut
+msgid "the Raven"
+msgstr "乌鸦"
+
+# scripts/skills/backgrounds/shepherd_background.nut
+msgid "the Sheep"
+msgstr ""
+
+# scripts/skills/backgrounds/beggar_background.nut
+msgid "the Skunk"
+msgstr ""
+
+# scripts/skills/backgrounds/beggar_background.nut
+msgid "the Sloth"
+msgstr ""
+
+# scripts/skills/backgrounds/thief_background.nut
+msgid "the Snake"
+msgstr "蛇"
+
+# scripts/skills/backgrounds/manhunter_background.nut
+msgid "the Swine"
+msgstr ""
+
+# scripts/skills/backgrounds/thief_background.nut
+msgid "the Thief"
+msgstr ""
+
+# scripts/skills/backgrounds/apprentice_background.nut
+msgid "the Young"
+msgstr ""
+
+# scripts/skills/backgrounds/apprentice_background.nut
+msgid "Apprentice"
+msgstr ""
+
+# scripts/skills/backgrounds/flagellant_background.nut
+msgid "Flagellant"
+msgstr ""
+
+# scripts/skills/backgrounds/lumberjack_background.nut
+msgid "Lumberjack"
+msgstr ""
+
+# scripts/skills/backgrounds/orc_slayer_background.nut
+msgid "Orc Slayer"
+msgstr ""
+
+# scripts/skills/backgrounds/ratcatcher_background.nut
+msgid "Ratcatcher"
+msgstr ""
+
+# scripts/skills/backgrounds/hedge_knight_background.nut
+msgid "Strongface"
+msgstr ""
+
+# scripts/skills/backgrounds/killer_on_the_run_background.nut
+msgid "on the Run"
+msgstr ""
+
+# scripts/skills/backgrounds/raider_background.nut
+msgid "the Bandit"
+msgstr ""
+
+# scripts/skills/backgrounds/beggar_background.nut
+msgid "the Beggar"
+msgstr ""
+
+# scripts/skills/backgrounds/bowyer_background.nut
+msgid "the Bowyer"
+msgstr ""
+
+# scripts/skills/backgrounds/apprentice_background.nut
+msgid "the Bright"
+msgstr ""
+
+# scripts/skills/backgrounds/cripple_background.nut
+msgid "the Broken"
+msgstr ""
+
+# scripts/skills/backgrounds/manhunter_background.nut
+msgid "the Brutal"
+msgstr ""
+
+# scripts/skills/backgrounds/assassin_southern_background.nut
+msgid "the Dagger"
+msgstr ""
+
+# scripts/skills/backgrounds/eunuch_background.nut
+msgid "the Eunuch"
+msgstr ""
+
+# scripts/skills/backgrounds/disowned_noble_background.nut
+msgid "the Exiled"
+msgstr "流放者"
+
+# scripts/skills/backgrounds/fisherman_background.nut
+msgid "the Fisher"
+msgstr ""
+
+# scripts/skills/backgrounds/shepherd_background.nut
+msgid "the Humble"
+msgstr ""
 
 # scripts/skills/backgrounds/beast_hunter_background.nut
 # scripts/skills/backgrounds/hunter_background.nut
@@ -471,82 +535,41 @@ msgstr "黄鼠狼"
 msgid "the Hunter"
 msgstr "猎人"
 
-# scripts/skills/backgrounds/assassin_southern_background.nut
-# scripts/skills/backgrounds/thief_background.nut
-msgid "the Shadow"
-msgstr "影子"
-
-# scripts/skills/backgrounds/wildman_background.nut
-msgid "the Savage"
-msgstr "野蛮人"
-
-# scripts/skills/backgrounds/swordmaster_background.nut
-msgid "the Legend"
-msgstr "传奇"
-
-# scripts/skills/backgrounds/disowned_noble_background.nut
-msgid "the Exiled"
-msgstr "流放者"
-
-# scripts/skills/backgrounds/raider_background.nut
-msgid "the Menace"
-msgstr "威胁者"
-
-# scripts/skills/backgrounds/hedge_knight_background.nut
-msgid "the Slayer"
-msgstr "杀手"
-
-# scripts/skills/backgrounds/beggar_background.nut
-msgid "the Beggar"
-msgstr ""
-
-# scripts/skills/backgrounds/apprentice_background.nut
-msgid "the Bright"
-msgstr ""
-
-# scripts/skills/backgrounds/assassin_southern_background.nut
-msgid "the Unseen"
-msgstr ""
-
-# scripts/skills/backgrounds/assassin_southern_background.nut
-msgid "the Dagger"
-msgstr ""
-
-# scripts/skills/backgrounds/orc_slayer_background.nut
-msgid "Orc Slayer"
-msgstr ""
-
-# scripts/skills/backgrounds/cripple_background.nut
-msgid "the Broken"
-msgstr ""
-
-# scripts/skills/backgrounds/cripple_background.nut
-msgid "the Maimed"
-msgstr ""
-
-# scripts/skills/backgrounds/eunuch_background.nut
-msgid "the Eunuch"
-msgstr ""
-
 # scripts/skills/backgrounds/converted_cultist_background.nut
 # scripts/skills/backgrounds/cultist_background.nut
 msgid "the Insane"
 msgstr ""
 
-# scripts/skills/backgrounds/flagellant_background.nut
-msgid "Flagellant"
+# scripts/skills/backgrounds/juggler_background.nut
+msgid "the Jester"
 msgstr ""
 
-# scripts/skills/backgrounds/tailor_background.nut
-msgid "the Tailor"
+# scripts/skills/backgrounds/swordmaster_background.nut
+msgid "the Legend"
+msgstr "传奇"
+
+# scripts/skills/backgrounds/cripple_background.nut
+msgid "the Maimed"
 msgstr ""
 
-# scripts/skills/backgrounds/ratcatcher_background.nut
-msgid "Ratcatcher"
-msgstr ""
+# scripts/skills/backgrounds/swordmaster_background.nut
+msgid "the Master"
+msgstr "大师"
 
 # scripts/skills/backgrounds/raider_background.nut
-msgid "the Bandit"
+msgid "the Menace"
+msgstr "威胁者"
+
+# scripts/skills/backgrounds/miller_background.nut
+msgid "the Miller"
+msgstr ""
+
+# scripts/skills/backgrounds/thief_background.nut
+msgid "the Prince"
+msgstr ""
+
+# scripts/skills/backgrounds/beggar_background.nut
+msgid "the Ragged"
 msgstr ""
 
 # scripts/skills/backgrounds/raider_background.nut
@@ -554,37 +577,38 @@ msgstr ""
 msgid "the Raider"
 msgstr ""
 
-# scripts/skills/backgrounds/lumberjack_background.nut
-msgid "Lumberjack"
-msgstr ""
-
-# scripts/skills/backgrounds/lumberjack_background.nut
-msgid "the Sturdy"
-msgstr ""
-
-# scripts/skills/backgrounds/hedge_knight_background.nut
-msgid "Strongface"
-msgstr ""
-
-# scripts/skills/backgrounds/juggler_background.nut
-msgid "the Jester"
-msgstr ""
-
-# scripts/skills/backgrounds/minstrel_background.nut
-msgid "the Skjald"
-msgstr ""
-
-# scripts/skills/backgrounds/shepherd_background.nut
-msgid "the Humble"
-msgstr ""
-
 # scripts/skills/backgrounds/deserter_background.nut
 # scripts/skills/backgrounds/messenger_background.nut
 msgid "the Runner"
 msgstr ""
 
-# scripts/skills/backgrounds/beggar_background.nut
-msgid "the Ragged"
+# scripts/skills/backgrounds/wildman_background.nut
+msgid "the Savage"
+msgstr "野蛮人"
+
+# scripts/skills/backgrounds/assassin_southern_background.nut
+# scripts/skills/backgrounds/thief_background.nut
+msgid "the Shadow"
+msgstr "影子"
+
+# scripts/skills/backgrounds/minstrel_background.nut
+msgid "the Skjald"
+msgstr ""
+
+# scripts/skills/backgrounds/manhunter_background.nut
+msgid "the Slaver"
+msgstr ""
+
+# scripts/skills/backgrounds/hedge_knight_background.nut
+msgid "the Slayer"
+msgstr "杀手"
+
+# scripts/skills/backgrounds/lumberjack_background.nut
+msgid "the Sturdy"
+msgstr ""
+
+# scripts/skills/backgrounds/tailor_background.nut
+msgid "the Tailor"
 msgstr ""
 
 # scripts/skills/backgrounds/slave_southern_background.nut
@@ -593,112 +617,41 @@ msgstr ""
 msgid "the Unfree"
 msgstr ""
 
-# scripts/skills/backgrounds/fisherman_background.nut
-msgid "the Fisher"
+# scripts/skills/backgrounds/slave_barbarian_background.nut
+msgid "the Unruly"
 msgstr ""
 
-# scripts/skills/backgrounds/paladin_background.nut
-# scripts/skills/backgrounds/cultist_background.nut
-msgid "the Zealot"
-msgstr ""
-
-# scripts/skills/backgrounds/thief_background.nut
-msgid "the Prince"
-msgstr ""
-
-# scripts/skills/backgrounds/bowyer_background.nut
-msgid "the Bowyer"
-msgstr ""
-
-# scripts/skills/backgrounds/killer_on_the_run_background.nut
-msgid "on the Run"
+# scripts/skills/backgrounds/assassin_southern_background.nut
+msgid "the Unseen"
 msgstr ""
 
 # scripts/skills/backgrounds/killer_on_the_run_background.nut
 msgid "the Wanted"
 msgstr ""
 
-# scripts/skills/backgrounds/apprentice_background.nut
-msgid "Apprentice"
-msgstr ""
+# scripts/skills/backgrounds/beggar_background.nut
+msgid "the Weasel"
+msgstr "黄鼠狼"
 
-# scripts/skills/backgrounds/miller_background.nut
-msgid "the Miller"
-msgstr ""
-
-# scripts/skills/backgrounds/slave_barbarian_background.nut
-msgid "the Unruly"
-msgstr ""
-
-# scripts/skills/backgrounds/manhunter_background.nut
-msgid "the Brutal"
-msgstr ""
-
-# scripts/skills/backgrounds/manhunter_background.nut
-msgid "the Slaver"
-msgstr ""
-
-# scripts/skills/backgrounds/swordmaster_background.nut
-msgid "Swordmaster"
-msgstr "剑圣"
-
-# scripts/skills/backgrounds/assassin_southern_background.nut
-msgid "the Elusive"
-msgstr "难以捉摸的"
-
-# scripts/skills/backgrounds/anatomist_background.nut
-msgid "the Vulture"
-msgstr "秃鹫"
-
-# scripts/skills/backgrounds/butcher_background.nut
-msgid "the Butcher"
-msgstr "屠夫"
-
-# scripts/skills/backgrounds/hedge_knight_background.nut
-msgid "the Defiler"
-msgstr "污染者"
-
-# scripts/skills/backgrounds/nomad_background.nut
-msgid "the Serpent"
-msgstr "蛇"
-
-# scripts/skills/backgrounds/beast_hunter_background.nut
-# scripts/skills/backgrounds/manhunter_background.nut
-msgid "the Tracker"
-msgstr ""
-
-# scripts/skills/backgrounds/beast_hunter_background.nut
-# scripts/skills/backgrounds/hunter_background.nut
-msgid "Woodstalker"
-msgstr ""
-
-# scripts/skills/backgrounds/cripple_background.nut
-msgid "the Cripple"
-msgstr ""
-
-# scripts/skills/backgrounds/eunuch_background.nut
-msgid "the Gelding"
-msgstr ""
-
-# scripts/skills/backgrounds/miner_background.nut
-msgid "the Crawler"
-msgstr ""
-
-# scripts/skills/backgrounds/converted_cultist_background.nut
+# scripts/skills/backgrounds/paladin_background.nut
 # scripts/skills/backgrounds/cultist_background.nut
-msgid "the Cultist"
+msgid "the Zealot"
 msgstr ""
 
-# scripts/skills/backgrounds/raider_background.nut
-msgid "Ravensblack"
+# scripts/skills/backgrounds/vagabond_background.nut
+msgid "Bindlestiff"
 msgstr ""
 
-# scripts/skills/backgrounds/raider_background.nut
-msgid "the Defiant"
+# scripts/skills/backgrounds/killer_on_the_run_background.nut
+msgid "Darkhearted"
 msgstr ""
 
 # scripts/skills/backgrounds/raider_background.nut
 msgid "Fourfingers"
+msgstr ""
+
+# scripts/skills/backgrounds/gravedigger_background.nut
+msgid "Gravedigger"
 msgstr ""
 
 # scripts/skills/backgrounds/graverobber_background.nut
@@ -709,6 +662,106 @@ msgstr ""
 msgid "Houndmaster"
 msgstr ""
 
+# scripts/skills/backgrounds/raider_background.nut
+msgid "Ravensblack"
+msgstr ""
+
+# scripts/skills/backgrounds/swordmaster_background.nut
+msgid "Swordmaster"
+msgstr "剑圣"
+
+# scripts/skills/backgrounds/killer_on_the_run_background.nut
+msgid "Throatslash"
+msgstr ""
+
+# scripts/skills/backgrounds/witchhunter_background.nut
+msgid "Witchhunter"
+msgstr ""
+
+# scripts/skills/backgrounds/beast_hunter_background.nut
+# scripts/skills/backgrounds/hunter_background.nut
+msgid "Woodstalker"
+msgstr ""
+
+# scripts/skills/backgrounds/thief_background.nut
+msgid "the Burglar"
+msgstr ""
+
+# scripts/skills/backgrounds/butcher_background.nut
+msgid "the Butcher"
+msgstr "屠夫"
+
+# scripts/skills/backgrounds/slave_background.nut
+# scripts/skills/backgrounds/slave_barbarian_background.nut
+msgid "the Captive"
+msgstr ""
+
+# scripts/skills/backgrounds/manhunter_background.nut
+msgid "the Catcher"
+msgstr ""
+
+# scripts/skills/backgrounds/minstrel_background.nut
+msgid "the Chorine"
+msgstr ""
+
+# scripts/skills/backgrounds/butcher_background.nut
+msgid "the Cleaver"
+msgstr ""
+
+# scripts/skills/backgrounds/messenger_background.nut
+msgid "the Courier"
+msgstr ""
+
+# scripts/skills/backgrounds/miner_background.nut
+msgid "the Crawler"
+msgstr ""
+
+# scripts/skills/backgrounds/cripple_background.nut
+msgid "the Cripple"
+msgstr ""
+
+# scripts/skills/backgrounds/converted_cultist_background.nut
+# scripts/skills/backgrounds/cultist_background.nut
+msgid "the Cultist"
+msgstr ""
+
+# scripts/skills/backgrounds/anatomist_background.nut
+msgid "the Curious"
+msgstr ""
+
+# scripts/skills/backgrounds/raider_background.nut
+msgid "the Defiant"
+msgstr ""
+
+# scripts/skills/backgrounds/hedge_knight_background.nut
+msgid "the Defiler"
+msgstr "污染者"
+
+# scripts/skills/backgrounds/paladin_background.nut
+# scripts/skills/backgrounds/monk_background.nut
+msgid "the Devoted"
+msgstr ""
+
+# scripts/skills/backgrounds/assassin_southern_background.nut
+msgid "the Elusive"
+msgstr "难以捉摸的"
+
+# scripts/skills/backgrounds/cultist_background.nut
+msgid "the Fanatic"
+msgstr ""
+
+# scripts/skills/backgrounds/gambler_background.nut
+msgid "the Gambler"
+msgstr ""
+
+# scripts/skills/backgrounds/eunuch_background.nut
+msgid "the Gelding"
+msgstr ""
+
+# scripts/skills/backgrounds/shepherd_background.nut
+msgid "the Goatman"
+msgstr ""
+
 # scripts/skills/backgrounds/hedge_knight_background.nut
 msgid "the Jouster"
 msgstr ""
@@ -717,64 +770,16 @@ msgstr ""
 msgid "the Juggler"
 msgstr ""
 
-# scripts/skills/backgrounds/minstrel_background.nut
-msgid "the Chorine"
+# scripts/skills/backgrounds/apprentice_background.nut
+msgid "the Learner"
 msgstr ""
 
-# scripts/skills/backgrounds/witchhunter_background.nut
-msgid "Witchhunter"
-msgstr ""
-
-# scripts/skills/backgrounds/shepherd_background.nut
-msgid "the Goatman"
-msgstr ""
-
-# scripts/skills/backgrounds/messenger_background.nut
-msgid "the Courier"
-msgstr ""
-
-# scripts/skills/backgrounds/anatomist_background.nut
-msgid "the Tainted"
-msgstr ""
-
-# scripts/skills/backgrounds/anatomist_background.nut
-msgid "the Curious"
-msgstr ""
-
-# scripts/skills/backgrounds/beggar_background.nut
-msgid "the Useless"
-msgstr ""
-
-# scripts/skills/backgrounds/slave_southern_background.nut
-# scripts/skills/backgrounds/slave_background.nut
-# scripts/skills/backgrounds/slave_barbarian_background.nut
-msgid "the Unlucky"
-msgstr ""
-
-# scripts/skills/backgrounds/retired_soldier_background.nut
-msgid "the Soldier"
-msgstr ""
-
-# scripts/skills/backgrounds/retired_soldier_background.nut
-msgid "the Veteran"
-msgstr ""
-
-# scripts/skills/backgrounds/paladin_background.nut
-# scripts/skills/backgrounds/monk_background.nut
-msgid "the Devoted"
+# scripts/skills/backgrounds/wildman_background.nut
+msgid "the Outcast"
 msgstr ""
 
 # scripts/skills/backgrounds/paladin_background.nut
 msgid "the Paladin"
-msgstr ""
-
-# scripts/skills/backgrounds/slave_background.nut
-# scripts/skills/backgrounds/slave_barbarian_background.nut
-msgid "the Captive"
-msgstr ""
-
-# scripts/skills/backgrounds/thief_background.nut
-msgid "the Burglar"
 msgstr ""
 
 # scripts/skills/backgrounds/bowyer_background.nut
@@ -785,97 +790,158 @@ msgstr ""
 msgid "the Refugee"
 msgstr ""
 
-# scripts/skills/backgrounds/wildman_background.nut
-msgid "the Wildman"
-msgstr ""
-
-# scripts/skills/backgrounds/wildman_background.nut
-msgid "the Outcast"
-msgstr ""
-
-# scripts/skills/backgrounds/gambler_background.nut
-msgid "the Gambler"
-msgstr ""
-
-# scripts/skills/backgrounds/gravedigger_background.nut
-msgid "Gravedigger"
-msgstr ""
-
 # scripts/skills/backgrounds/monk_background.nut
 msgid "the Scholar"
 msgstr ""
 
-# scripts/skills/backgrounds/killer_on_the_run_background.nut
-msgid "Darkhearted"
-msgstr ""
+# scripts/skills/backgrounds/nomad_background.nut
+msgid "the Serpent"
+msgstr "蛇"
 
-# scripts/skills/backgrounds/killer_on_the_run_background.nut
-msgid "Throatslash"
-msgstr ""
-
-# scripts/skills/backgrounds/apprentice_background.nut
-msgid "the Learner"
+# scripts/skills/backgrounds/retired_soldier_background.nut
+msgid "the Soldier"
 msgstr ""
 
 # scripts/skills/backgrounds/apprentice_background.nut
 msgid "the Student"
 msgstr ""
 
-# scripts/skills/backgrounds/butcher_background.nut
-msgid "the Cleaver"
+# scripts/skills/backgrounds/anatomist_background.nut
+msgid "the Tainted"
 msgstr ""
 
-# scripts/skills/backgrounds/cultist_background.nut
-msgid "the Fanatic"
-msgstr ""
-
-# scripts/skills/backgrounds/vagabond_background.nut
-msgid "Bindlestiff"
-msgstr ""
-
+# scripts/skills/backgrounds/beast_hunter_background.nut
 # scripts/skills/backgrounds/manhunter_background.nut
-msgid "the Catcher"
+msgid "the Tracker"
 msgstr ""
 
-# scripts/skills/backgrounds/hedge_knight_background.nut
-msgid "Hedge Knight"
-msgstr "对冲骑士"
+# scripts/skills/backgrounds/slave_southern_background.nut
+# scripts/skills/backgrounds/slave_background.nut
+# scripts/skills/backgrounds/slave_barbarian_background.nut
+msgid "the Unlucky"
+msgstr ""
+
+# scripts/skills/backgrounds/beggar_background.nut
+msgid "the Useless"
+msgstr ""
+
+# scripts/skills/backgrounds/retired_soldier_background.nut
+msgid "the Veteran"
+msgstr ""
+
+# scripts/skills/backgrounds/anatomist_background.nut
+msgid "the Vulture"
+msgstr "秃鹫"
+
+# scripts/skills/backgrounds/wildman_background.nut
+msgid "the Wildman"
+msgstr ""
+
+# scripts/skills/backgrounds/character_background.nut
+msgid "Background: "
+msgstr ""
+
+# scripts/skills/backgrounds/beast_hunter_background.nut
+msgid "Beast Slayer"
+msgstr ""
+
+# scripts/skills/backgrounds/belly_dancer_background.nut
+msgid "Belly Dancer"
+msgstr ""
 
 # scripts/skills/backgrounds/caravan_hand_background.nut
 msgid "Caravan Hand"
 msgstr "商队之手"
 
-# scripts/skills/backgrounds/nomad_background.nut
-msgid "the Scorpion"
-msgstr "蝎子"
+# scripts/skills/backgrounds/hedge_knight_background.nut
+msgid "Hedge Knight"
+msgstr "对冲骑士"
+
+# scripts/skills/backgrounds/kings_guard_background.nut
+msgid "King's Guard"
+msgstr ""
+
+# scripts/skills/backgrounds/thief_background.nut
+msgid "Quickfingers"
+msgstr ""
+
+# scripts/skills/backgrounds/hedge_knight_background.nut
+msgid "Steelwielder"
+msgstr "钢铁侠"
+
+# scripts/skills/backgrounds/assassin_southern_background.nut
+# scripts/skills/backgrounds/assassin_background.nut
+msgid "the Assassin"
+msgstr ""
 
 # scripts/skills/backgrounds/converted_cultist_background.nut
 # scripts/skills/backgrounds/cultist_background.nut
 msgid "the Believer"
 msgstr "信徒"
 
-# scripts/skills/backgrounds/hedge_knight_background.nut
-msgid "Steelwielder"
-msgstr "钢铁侠"
-
-# scripts/skills/backgrounds/raider_background.nut
-msgid "the Pillager"
-msgstr "掠夺者"
-
-# scripts/skills/backgrounds/refugee_background.nut
-msgid "the Survivor"
+# scripts/skills/backgrounds/deserter_background.nut
+msgid "the Betrayer"
 msgstr ""
 
-# scripts/skills/backgrounds/retired_soldier_background.nut
-msgid "the Sergeant"
-msgstr "军士"
+# scripts/skills/backgrounds/slave_southern_background.nut
+msgid "the Criminal"
+msgstr ""
+
+# scripts/skills/backgrounds/paladin_background.nut
+# scripts/skills/backgrounds/crusader_background.nut
+msgid "the Crusader"
+msgstr ""
+
+# scripts/skills/backgrounds/thief_background.nut
+msgid "the Cutpurse"
+msgstr ""
+
+# scripts/skills/backgrounds/refugee_background.nut
+msgid "the Derelict"
+msgstr ""
 
 # scripts/skills/backgrounds/deserter_background.nut
 msgid "the Deserter"
 msgstr ""
 
+# scripts/skills/backgrounds/disowned_noble_background.nut
+msgid "the Disowned"
+msgstr ""
+
+# scripts/skills/backgrounds/slave_southern_background.nut
+# scripts/skills/backgrounds/slave_background.nut
+# scripts/skills/backgrounds/slave_barbarian_background.nut
+msgid "the Enslaved"
+msgstr ""
+
+# scripts/skills/backgrounds/monk_background.nut
+msgid "the Faithful"
+msgstr ""
+
+# scripts/skills/backgrounds/bowyer_background.nut
+msgid "the Fletcher"
+msgstr ""
+
 # scripts/skills/backgrounds/cultist_background.nut
 msgid "the Follower"
+msgstr ""
+
+# scripts/skills/backgrounds/beggar_background.nut
+# scripts/skills/backgrounds/vagabond_background.nut
+msgid "the Homeless"
+msgstr ""
+
+# scripts/skills/backgrounds/slave_southern_background.nut
+# scripts/skills/backgrounds/slave_background.nut
+msgid "the Indebted"
+msgstr ""
+
+# scripts/skills/backgrounds/raider_background.nut
+msgid "the Marauder"
+msgstr ""
+
+# scripts/skills/backgrounds/minstrel_background.nut
+msgid "the Minstrel"
 msgstr ""
 
 # scripts/skills/backgrounds/hedge_knight_background.nut
@@ -887,18 +953,20 @@ msgstr ""
 msgid "the Murderer"
 msgstr ""
 
-# scripts/skills/backgrounds/assassin_southern_background.nut
-# scripts/skills/backgrounds/assassin_background.nut
-msgid "the Assassin"
+# scripts/skills/backgrounds/slave_barbarian_background.nut
+msgid "the Northman"
 msgstr ""
 
-# scripts/skills/backgrounds/beast_hunter_background.nut
-msgid "Beast Slayer"
+# scripts/skills/backgrounds/slave_southern_background.nut
+msgid "the Obedient"
 msgstr ""
 
-# scripts/skills/backgrounds/hunter_background.nut
-# scripts/skills/backgrounds/lumberjack_background.nut
-msgid "the Woodsman"
+# scripts/skills/backgrounds/retired_soldier_background.nut
+msgid "the Oldguard"
+msgstr ""
+
+# scripts/skills/backgrounds/shepherd_background.nut
+msgid "the Peaceful"
 msgstr ""
 
 # scripts/skills/backgrounds/tailor_background.nut
@@ -906,58 +974,11 @@ msgid "the Peculiar"
 msgstr ""
 
 # scripts/skills/backgrounds/raider_background.nut
-msgid "the Marauder"
-msgstr ""
+msgid "the Pillager"
+msgstr "掠夺者"
 
-# scripts/skills/backgrounds/raider_background.nut
-msgid "the Terrible"
-msgstr ""
-
-# scripts/skills/backgrounds/kings_guard_background.nut
-msgid "King's Guard"
-msgstr ""
-
-# scripts/skills/backgrounds/minstrel_background.nut
-msgid "the Minstrel"
-msgstr ""
-
-# scripts/skills/backgrounds/shepherd_background.nut
-msgid "the Peaceful"
-msgstr ""
-
-# scripts/skills/backgrounds/shepherd_background.nut
-msgid "the Shepherd"
-msgstr ""
-
-# scripts/skills/backgrounds/deserter_background.nut
-msgid "the Betrayer"
-msgstr ""
-
-# scripts/skills/backgrounds/disowned_noble_background.nut
-msgid "the Disowned"
-msgstr ""
-
-# scripts/skills/backgrounds/beggar_background.nut
-msgid "the Sluggard"
-msgstr ""
-
-# scripts/skills/backgrounds/beggar_background.nut
-# scripts/skills/backgrounds/vagabond_background.nut
-msgid "the Homeless"
-msgstr ""
-
-# scripts/skills/backgrounds/slave_southern_background.nut
-msgid "the Obedient"
-msgstr ""
-
-# scripts/skills/backgrounds/slave_southern_background.nut
-msgid "the Criminal"
-msgstr ""
-
-# scripts/skills/backgrounds/slave_southern_background.nut
-# scripts/skills/backgrounds/slave_background.nut
-# scripts/skills/backgrounds/slave_barbarian_background.nut
-msgid "the Shackled"
+# scripts/skills/backgrounds/monk_background.nut
+msgid "the Preacher"
 msgstr ""
 
 # scripts/skills/backgrounds/slave_southern_background.nut
@@ -966,15 +987,62 @@ msgstr ""
 msgid "the Prisoner"
 msgstr ""
 
-# scripts/skills/backgrounds/slave_southern_background.nut
-# scripts/skills/backgrounds/slave_background.nut
-msgid "the Indebted"
+# scripts/skills/backgrounds/vagabond_background.nut
+msgid "the Restless"
 msgstr ""
+
+# scripts/skills/backgrounds/manhunter_background.nut
+msgid "the Ruthless"
+msgstr ""
+
+# scripts/skills/backgrounds/nomad_background.nut
+msgid "the Scorpion"
+msgstr "蝎子"
+
+# scripts/skills/backgrounds/retired_soldier_background.nut
+msgid "the Sergeant"
+msgstr "军士"
 
 # scripts/skills/backgrounds/slave_southern_background.nut
 # scripts/skills/backgrounds/slave_background.nut
 # scripts/skills/backgrounds/slave_barbarian_background.nut
-msgid "the Enslaved"
+msgid "the Shackled"
+msgstr ""
+
+# scripts/skills/backgrounds/shepherd_background.nut
+msgid "the Shepherd"
+msgstr ""
+
+# scripts/skills/backgrounds/beggar_background.nut
+msgid "the Sluggard"
+msgstr ""
+
+# scripts/skills/backgrounds/thief_background.nut
+msgid "the Snatcher"
+msgstr ""
+
+# scripts/skills/backgrounds/historian_background.nut
+msgid "the Studious"
+msgstr ""
+
+# scripts/skills/backgrounds/refugee_background.nut
+msgid "the Surbated"
+msgstr ""
+
+# scripts/skills/backgrounds/refugee_background.nut
+msgid "the Survivor"
+msgstr ""
+
+# scripts/skills/backgrounds/raider_background.nut
+msgid "the Terrible"
+msgstr ""
+
+# scripts/skills/backgrounds/vagabond_background.nut
+msgid "the Vagabond"
+msgstr ""
+
+# scripts/skills/backgrounds/paladin_background.nut
+msgid "the Virtuous"
 msgstr ""
 
 # scripts/skills/backgrounds/nomad_background.nut
@@ -986,141 +1054,17 @@ msgstr ""
 msgid "the Waylayer"
 msgstr ""
 
-# scripts/skills/backgrounds/retired_soldier_background.nut
-msgid "the Oldguard"
-msgstr ""
-
-# scripts/skills/backgrounds/paladin_background.nut
-# scripts/skills/backgrounds/crusader_background.nut
-msgid "the Crusader"
-msgstr ""
-
-# scripts/skills/backgrounds/paladin_background.nut
-msgid "the Virtuous"
-msgstr ""
-
-# scripts/skills/backgrounds/thief_background.nut
-msgid "Quickfingers"
-msgstr ""
-
-# scripts/skills/backgrounds/thief_background.nut
-msgid "the Snatcher"
-msgstr ""
-
-# scripts/skills/backgrounds/thief_background.nut
-msgid "the Cutpurse"
-msgstr ""
-
-# scripts/skills/backgrounds/bowyer_background.nut
-msgid "the Fletcher"
-msgstr ""
-
-# scripts/skills/backgrounds/refugee_background.nut
-msgid "the Derelict"
-msgstr ""
-
-# scripts/skills/backgrounds/refugee_background.nut
-msgid "the Surbated"
-msgstr ""
-
-# scripts/skills/backgrounds/monk_background.nut
-msgid "the Faithful"
-msgstr ""
-
-# scripts/skills/backgrounds/monk_background.nut
-msgid "the Preacher"
-msgstr ""
-
-# scripts/skills/backgrounds/character_background.nut
-msgid "Background: "
-msgstr ""
-
-# scripts/skills/backgrounds/historian_background.nut
-msgid "the Studious"
-msgstr ""
-
-# scripts/skills/backgrounds/vagabond_background.nut
-msgid "the Restless"
-msgstr ""
-
-# scripts/skills/backgrounds/vagabond_background.nut
-msgid "the Vagabond"
-msgstr ""
-
-# scripts/skills/backgrounds/slave_barbarian_background.nut
-msgid "the Northman"
-msgstr ""
-
-# scripts/skills/backgrounds/belly_dancer_background.nut
-msgid "Belly Dancer"
-msgstr ""
-
-# scripts/skills/backgrounds/manhunter_background.nut
-msgid "the Ruthless"
+# scripts/skills/backgrounds/hunter_background.nut
+# scripts/skills/backgrounds/lumberjack_background.nut
+msgid "the Woodsman"
 msgstr ""
 
 # scripts/skills/backgrounds/nomad_background.nut
 msgid "of the Desert"
 msgstr "·沙漠"
 
-# scripts/skills/backgrounds/assassin_southern_background.nut
-msgid "the Insidious"
-msgstr "阴险的"
-
-# scripts/skills/backgrounds/manhunter_background.nut
-msgid "the Merciless"
-msgstr "无情的"
-
-# scripts/skills/backgrounds/hedge_knight_background.nut
-msgid "the Lone Wolf"
-msgstr "the 独狼"
-
-# scripts/skills/backgrounds/cripple_background.nut
-msgid "the Grotesque"
-msgstr ""
-
-# scripts/skills/backgrounds/houndmaster_background.nut
-msgid "the Dogkeeper"
-msgstr ""
-
-# scripts/skills/backgrounds/messenger_background.nut
-msgid "the Messenger"
-msgstr ""
-
 # scripts/skills/backgrounds/anatomist_background.nut
 msgid "the Anatomist"
-msgstr ""
-
-# scripts/skills/backgrounds/anatomist_background.nut
-msgid "the Mortician"
-msgstr ""
-
-# scripts/skills/backgrounds/disowned_noble_background.nut
-msgid "the Disgraced"
-msgstr ""
-
-# scripts/skills/backgrounds/fisherman_background.nut
-msgid "the Fisherman"
-msgstr ""
-
-# scripts/skills/backgrounds/paladin_background.nut
-msgid "the Oathsworn"
-msgstr ""
-
-# scripts/skills/backgrounds/paladin_background.nut
-msgid "the Righteous"
-msgstr ""
-
-# scripts/skills/backgrounds/paladin_background.nut
-msgid "the Oathbound"
-msgstr ""
-
-# scripts/skills/backgrounds/slave_background.nut
-msgid "the Kidnapped"
-msgstr ""
-
-# scripts/skills/backgrounds/thief_background.nut
-msgid "the Black Cat"
 msgstr ""
 
 # scripts/skills/backgrounds/wildman_background.nut
@@ -1128,36 +1072,128 @@ msgstr ""
 msgid "the Barbarian"
 msgstr ""
 
-# scripts/skills/backgrounds/gambler_background.nut
-msgid "the Wild Card"
+# scripts/skills/backgrounds/thief_background.nut
+msgid "the Black Cat"
 msgstr ""
 
-# scripts/skills/backgrounds/swordmaster_background.nut
-msgid "the Old Guard"
+# scripts/skills/backgrounds/disowned_noble_background.nut
+msgid "the Disgraced"
 msgstr ""
 
-# scripts/skills/backgrounds/historian_background.nut
-msgid "the Historian"
+# scripts/skills/backgrounds/houndmaster_background.nut
+msgid "the Dogkeeper"
 msgstr ""
 
-# scripts/skills/backgrounds/cultist_background.nut
-msgid "the Occultist"
+# scripts/skills/backgrounds/fisherman_background.nut
+msgid "the Fisherman"
 msgstr ""
 
-# scripts/skills/backgrounds/cultist_background.nut
-msgid "the Misguided"
-msgstr ""
-
-# scripts/skills/backgrounds/vagabond_background.nut
-msgid "the Traveller"
+# scripts/skills/backgrounds/cripple_background.nut
+msgid "the Grotesque"
 msgstr ""
 
 # scripts/skills/backgrounds/manhunter_background.nut
 msgid "the Heartless"
 msgstr ""
 
+# scripts/skills/backgrounds/historian_background.nut
+msgid "the Historian"
+msgstr ""
+
+# scripts/skills/backgrounds/assassin_southern_background.nut
+msgid "the Insidious"
+msgstr "阴险的"
+
+# scripts/skills/backgrounds/slave_background.nut
+msgid "the Kidnapped"
+msgstr ""
+
+# scripts/skills/backgrounds/hedge_knight_background.nut
+msgid "the Lone Wolf"
+msgstr "the 独狼"
+
 # scripts/skills/backgrounds/manhunter_background.nut
 msgid "the Manhunter"
+msgstr ""
+
+# scripts/skills/backgrounds/manhunter_background.nut
+msgid "the Merciless"
+msgstr "无情的"
+
+# scripts/skills/backgrounds/messenger_background.nut
+msgid "the Messenger"
+msgstr ""
+
+# scripts/skills/backgrounds/cultist_background.nut
+msgid "the Misguided"
+msgstr ""
+
+# scripts/skills/backgrounds/anatomist_background.nut
+msgid "the Mortician"
+msgstr ""
+
+# scripts/skills/backgrounds/paladin_background.nut
+msgid "the Oathbound"
+msgstr ""
+
+# scripts/skills/backgrounds/paladin_background.nut
+msgid "the Oathsworn"
+msgstr ""
+
+# scripts/skills/backgrounds/cultist_background.nut
+msgid "the Occultist"
+msgstr ""
+
+# scripts/skills/backgrounds/swordmaster_background.nut
+msgid "the Old Guard"
+msgstr ""
+
+# scripts/skills/backgrounds/paladin_background.nut
+msgid "the Righteous"
+msgstr ""
+
+# scripts/skills/backgrounds/vagabond_background.nut
+msgid "the Traveller"
+msgstr ""
+
+# scripts/skills/backgrounds/gambler_background.nut
+msgid "the Wild Card"
+msgstr ""
+
+# scripts/skills/backgrounds/disowned_noble_background.nut
+msgid "Disowned Noble"
+msgstr ""
+
+# scripts/skills/backgrounds/vagabond_background.nut
+msgid "Tatterdemalion"
+msgstr ""
+
+# scripts/skills/backgrounds/apprentice_background.nut
+msgid "the Apprentice"
+msgstr ""
+
+# scripts/skills/backgrounds/bowyer_background.nut
+msgid "the Arrowmaker"
+msgstr ""
+
+# scripts/skills/backgrounds/hunter_background.nut
+msgid "the Deerhunter"
+msgstr ""
+
+# scripts/skills/backgrounds/kings_guard_background.nut
+msgid "the Kingsguard"
+msgstr ""
+
+# scripts/skills/backgrounds/gambler_background.nut
+msgid "the Luck Maker"
+msgstr ""
+
+# scripts/skills/backgrounds/anatomist_background.nut
+msgid "the Magistrate"
+msgstr ""
+
+# scripts/skills/backgrounds/manhunter_background.nut
+msgid "the Mancatcher"
 msgstr ""
 
 # scripts/skills/backgrounds/slave_background.nut
@@ -1168,32 +1204,8 @@ msgstr ""
 msgid "the Orc Slayer"
 msgstr ""
 
-# scripts/skills/backgrounds/hunter_background.nut
-msgid "the Deerhunter"
-msgstr ""
-
 # scripts/skills/backgrounds/tailor_background.nut
 msgid "the Particular"
-msgstr ""
-
-# scripts/skills/backgrounds/kings_guard_background.nut
-msgid "the Kingsguard"
-msgstr ""
-
-# scripts/skills/backgrounds/minstrel_background.nut
-msgid "the Troubadour"
-msgstr ""
-
-# scripts/skills/backgrounds/anatomist_background.nut
-msgid "the Undertaker"
-msgstr ""
-
-# scripts/skills/backgrounds/anatomist_background.nut
-msgid "the Magistrate"
-msgstr ""
-
-# scripts/skills/backgrounds/disowned_noble_background.nut
-msgid "Disowned Noble"
 msgstr ""
 
 # scripts/skills/backgrounds/slave_background.nut
@@ -1201,28 +1213,24 @@ msgstr ""
 msgid "the Restrained"
 msgstr ""
 
-# scripts/skills/backgrounds/bowyer_background.nut
-msgid "the Arrowmaker"
-msgstr ""
-
-# scripts/skills/backgrounds/gambler_background.nut
-msgid "the Luck Maker"
+# scripts/skills/backgrounds/minstrel_background.nut
+msgid "the Troubadour"
 msgstr ""
 
 # scripts/skills/backgrounds/apprentice_background.nut
 msgid "the Understudy"
 msgstr ""
 
-# scripts/skills/backgrounds/apprentice_background.nut
-msgid "the Apprentice"
+# scripts/skills/backgrounds/anatomist_background.nut
+msgid "the Undertaker"
 msgstr ""
 
-# scripts/skills/backgrounds/vagabond_background.nut
-msgid "Tatterdemalion"
+# scripts/skills/backgrounds/lindwurm_slayer_background.nut
+msgid "Lindwurm Slayer"
 msgstr ""
 
-# scripts/skills/backgrounds/manhunter_background.nut
-msgid "the Mancatcher"
+# scripts/skills/backgrounds/retired_soldier_background.nut
+msgid "Retired Soldier"
 msgstr ""
 
 # scripts/skills/backgrounds/assassin_southern_background.nut
@@ -1237,24 +1245,28 @@ msgstr ""
 msgid "the Beastslayer"
 msgstr ""
 
-# scripts/skills/backgrounds/houndmaster_background.nut
-msgid "the Houndmaster"
-msgstr ""
-
-# scripts/skills/backgrounds/retired_soldier_background.nut
-msgid "Retired Soldier"
-msgstr ""
-
 # scripts/skills/backgrounds/gambler_background.nut
 msgid "the Cardsharper"
 msgstr ""
 
-# scripts/skills/backgrounds/lindwurm_slayer_background.nut
-msgid "Lindwurm Slayer"
+# scripts/skills/backgrounds/houndmaster_background.nut
+msgid "the Houndmaster"
 msgstr ""
 
 # scripts/skills/backgrounds/manhunter_background.nut
 msgid "the Unforgiving"
+msgstr ""
+
+# scripts/skills/backgrounds/belly_dancer_background.nut
+msgid "the Belly Dancer"
+msgstr ""
+
+# scripts/skills/backgrounds/hedge_knight_background.nut
+msgid "the Hedge Knight"
+msgstr ""
+
+# scripts/skills/backgrounds/houndmaster_background.nut
+msgid "the Kennelmaster"
 msgstr ""
 
 # scripts/skills/backgrounds/hedge_knight_background.nut
@@ -1265,24 +1277,12 @@ msgstr "骑士杀手"
 msgid "the Trophyhunter"
 msgstr ""
 
-# scripts/skills/backgrounds/houndmaster_background.nut
-msgid "the Kennelmaster"
-msgstr ""
-
-# scripts/skills/backgrounds/hedge_knight_background.nut
-msgid "the Hedge Knight"
-msgstr ""
-
-# scripts/skills/backgrounds/belly_dancer_background.nut
-msgid "the Belly Dancer"
-msgstr ""
-
-# scripts/skills/backgrounds/nomad_background.nut
-msgid "the Desert Raider"
-msgstr "沙漠袭击者"
-
 # scripts/skills/backgrounds/adventurous_noble_background.nut
 msgid "Adventurous Noble"
+msgstr ""
+
+# scripts/skills/backgrounds/killer_on_the_run_background.nut
+msgid "Killer on the Run"
 msgstr ""
 
 # scripts/skills/backgrounds/regent_in_absentia_background.nut
@@ -1293,13 +1293,13 @@ msgstr ""
 msgid "Son of the Desert"
 msgstr ""
 
-# scripts/skills/backgrounds/killer_on_the_run_background.nut
-msgid "Killer on the Run"
-msgstr ""
-
 # scripts/skills/backgrounds/manhunter_background.nut
 msgid "the Bounty Hunter"
 msgstr ""
+
+# scripts/skills/backgrounds/nomad_background.nut
+msgid "the Desert Raider"
+msgstr "沙漠袭击者"
 
 # scripts/skills/backgrounds/crucified_background.nut
 msgid "Converted Crusader"
@@ -1330,13 +1330,13 @@ msgstr "]+5%[/color] 经验获取"
 msgid "]+10%[/color] Experience Gain"
 msgstr "]+10%[/color] 经验获取"
 
-# scripts/skills/backgrounds/wildman_background.nut
-msgid "]-15%[/color] Experience Gain"
-msgstr "]-15%[/color] 经验获取"
-
 # scripts/skills/backgrounds/historian_background.nut
 msgid "]+15%[/color] Experience Gain"
 msgstr "]+15%[/color] 经验获取"
+
+# scripts/skills/backgrounds/wildman_background.nut
+msgid "]-15%[/color] Experience Gain"
+msgstr "]-15%[/color] 经验获取"
 
 # scripts/skills/backgrounds/butcher_background.nut
 msgid "Butchers are used to bloodshed."
@@ -1368,13 +1368,13 @@ msgstr "长期位于后备队不会不满意"
 msgid "Farmhands are used to hard physical labor."
 msgstr "农夫习惯于艰苦的体力劳动。"
 
-# scripts/skills/backgrounds/tailor_background.nut
-msgid "Tailors are not used to hard physical labor."
-msgstr "裁缝不习惯艰苦的体力劳动。"
-
 # scripts/skills/backgrounds/houndmaster_background.nut
 msgid "Houndmasters are used to handle dogs of war."
 msgstr "训兽师习惯于处理战犬。"
+
+# scripts/skills/backgrounds/tailor_background.nut
+msgid "Tailors are not used to hard physical labor."
+msgstr "裁缝不习惯艰苦的体力劳动。"
 
 # scripts/skills/backgrounds/messenger_background.nut
 msgid "Messengers are used to long and tiring travels."
@@ -1384,29 +1384,29 @@ msgstr "信使习惯长途奔波。"
 msgid "Servants are often not used to hard physical labor."
 msgstr "仆人不经常从事艰苦的体力劳动。"
 
-# scripts/skills/backgrounds/lumberjack_background.nut
-msgid "Lumberjacks are used to hard physical labor. And axes."
-msgstr "伐木工习惯于体力劳动。还有斧子。"
-
 # scripts/skills/backgrounds/caravan_hand_background.nut
 msgid "Caravan hands are used to long and exhausting travels."
 msgstr "商队成员习惯于漫长而疲惫的旅行。"
 
-# scripts/skills/backgrounds/ratcatcher_background.nut
-msgid "Ratcatchers need to have quick reflexes to catch their prey."
-msgstr "捕鼠者需要快速反应才能捉住他们的猎物。"
+# scripts/skills/backgrounds/lumberjack_background.nut
+msgid "Lumberjacks are used to hard physical labor. And axes."
+msgstr "伐木工习惯于体力劳动。还有斧子。"
 
 # scripts/skills/backgrounds/slave_background.nut
 msgid "No morale check triggered for non-indebted allies upon dying"
 msgstr "死时对非负债者的盟友不触发士气检查"
 
-# scripts/skills/backgrounds/gravedigger_background.nut
-msgid "Gravediggers are used to physical labor and handling the dead."
-msgstr "掘墓人习惯于体力劳动和处理尸体。"
+# scripts/skills/backgrounds/ratcatcher_background.nut
+msgid "Ratcatchers need to have quick reflexes to catch their prey."
+msgstr "捕鼠者需要快速反应才能捉住他们的猎物。"
 
 # scripts/skills/backgrounds/killer_on_the_run_background.nut
 msgid "A killer on the run may kill again, and he knows where to aim."
 msgstr "一个在逃杀人犯可能会再次出手，他知道该瞄准哪里。"
+
+# scripts/skills/backgrounds/gravedigger_background.nut
+msgid "Gravediggers are used to physical labor and handling the dead."
+msgstr "掘墓人习惯于体力劳动和处理尸体。"
 
 # scripts/skills/backgrounds/bastard_background.nut
 msgid "Bastards often have profited from some training in melee fighting."
@@ -1473,17 +1473,17 @@ msgid ""
 "fighting."
 msgstr "任何一个在沙漠中生存的游牧民都会有战斗方面的专长。"
 
-# scripts/skills/backgrounds/witchhunter_background.nut
-msgid ""
-"]+20[/color] Resolve at morale checks against fear, panic or mind control "
-"effects"
-msgstr "]+20[/color] 决心，面对恐惧、恐慌或精神控制的士气检查时"
-
 # scripts/skills/backgrounds/manhunter_background.nut
 msgid ""
 "Manhunters are used to hunting down people in the rough environment of the "
 "south."
 msgstr "搜捕者习惯在南方的恶劣环境中捕猎人口。"
+
+# scripts/skills/backgrounds/witchhunter_background.nut
+msgid ""
+"]+20[/color] Resolve at morale checks against fear, panic or mind control "
+"effects"
+msgstr "]+20[/color] 决心，面对恐惧、恐慌或精神控制的士气检查时"
 
 # scripts/skills/backgrounds/disowned_noble_background.nut
 msgid ""
@@ -1521,17 +1521,17 @@ msgid ""
 " and the like."
 msgstr "偷猎者在使用弓箭猎杀兔子等方面往往有一定的技巧。"
 
-# scripts/skills/backgrounds/paladin_background.nut
-msgid ""
-"Oathtakers are brave warriors sworn to uphold a strict code, and are no "
-"strangers to combat."
-msgstr "宣誓者是勇敢的战士，他们发誓要遵守严格的规则，擅长战斗。"
-
 # scripts/skills/backgrounds/bowyer_background.nut
 msgid ""
 "Bowyers tend to have some knowledge about how to use the ranged weaponry "
 "they used to craft."
 msgstr "弓匠对如何使用他们以前制造的远程武器有一定的了解。"
+
+# scripts/skills/backgrounds/paladin_background.nut
+msgid ""
+"Oathtakers are brave warriors sworn to uphold a strict code, and are no "
+"strangers to combat."
+msgstr "宣誓者是勇敢的战士，他们发誓要遵守严格的规则，擅长战斗。"
 
 # scripts/skills/backgrounds/shepherd_background.nut
 msgid ""
@@ -1551,11 +1551,11 @@ msgid ""
 "opponents at the card table."
 msgstr "赌徒往往比牌桌上的对手反应更迅速，信心更高。"
 
-# scripts/skills/backgrounds/eunuch_background.nut
+# scripts/skills/backgrounds/brawler_background.nut
 msgid ""
-"The fact that eunuchs can't sire children is probably a secondary concern "
-"for a mercenary company."
-msgstr "太监不能生孩子这件事可能不是雇佣兵战队首要考虑的。"
+"Brawlers are unmatched in unarmed combat, and physical exercise tends to "
+"leave them in good shape."
+msgstr "打手在徒手格斗中是无与伦比的，体育锻炼往往能使他们保持良好的状态。"
 
 # scripts/skills/backgrounds/hunter_background.nut
 msgid ""
@@ -1563,11 +1563,11 @@ msgid ""
 "the woods on their own."
 msgstr "猎人们习惯于熟练地用弓箭猎杀动物和独自一人穿越树林。"
 
-# scripts/skills/backgrounds/brawler_background.nut
+# scripts/skills/backgrounds/eunuch_background.nut
 msgid ""
-"Brawlers are unmatched in unarmed combat, and physical exercise tends to "
-"leave them in good shape."
-msgstr "打手在徒手格斗中是无与伦比的，体育锻炼往往能使他们保持良好的状态。"
+"The fact that eunuchs can't sire children is probably a secondary concern "
+"for a mercenary company."
+msgstr "太监不能生孩子这件事可能不是雇佣兵战队首要考虑的。"
 
 # scripts/skills/backgrounds/monk_background.nut
 msgid ""
@@ -1575,17 +1575,17 @@ msgid ""
 "physical labor or warfare."
 msgstr "僧侣往往有很高的决心却不习惯于体力劳动或者战争事宜。"
 
-# scripts/skills/backgrounds/anatomist_background.nut
-msgid ""
-"Part scientist and part surgeon, Anatomists are unaccustomed to battle but "
-"well served by steady hands."
-msgstr "解剖学家既是科学家又是外科医生，他们不习惯于战斗，但他们有稳定的双手。"
-
 # scripts/skills/backgrounds/militia_background.nut
 msgid ""
 "Anyone that's been in the militia will have received at least some basic "
 "training in matters of combat."
 msgstr "任何参加过民兵组织的人都至少会接受一些基本的战斗训练。"
+
+# scripts/skills/backgrounds/anatomist_background.nut
+msgid ""
+"Part scientist and part surgeon, Anatomists are unaccustomed to battle but "
+"well served by steady hands."
+msgstr "解剖学家既是科学家又是外科医生，他们不习惯于战斗，但他们有稳定的双手。"
 
 # scripts/skills/backgrounds/peddler_background.nut
 msgid ""
@@ -1851,20 +1851,20 @@ msgid ""
 "over all his crops."
 msgstr ""
 
-# scripts/skills/backgrounds/sellsword_background.nut
-msgid ""
-"%name% left the %companyname% and started his own competing company. The two"
-" companies clashed on opposite sides of a battle between nobles. The "
-"sellsword died when a mercenary from the %companyname% stove his head in "
-"with a hedge knight's helmet."
-msgstr ""
-
 # scripts/skills/backgrounds/crusader_background.nut
 msgid ""
 "%name% joined your party during the undead scourge. Little is known about "
 "him and he almost never talks save for the occasional grunt while swinging "
 "his sword. His language seems to be codified into one simple structure: "
 "killing creatures of evil."
+msgstr ""
+
+# scripts/skills/backgrounds/sellsword_background.nut
+msgid ""
+"%name% left the %companyname% and started his own competing company. The two"
+" companies clashed on opposite sides of a battle between nobles. The "
+"sellsword died when a mercenary from the %companyname% stove his head in "
+"with a hedge knight's helmet."
 msgstr ""
 
 # scripts/skills/backgrounds/converted_cultist_background.nut
@@ -2096,15 +2096,6 @@ msgid ""
 "Can't be too sure these days."
 msgstr ""
 
-# scripts/skills/backgrounds/houndmaster_background.nut
-msgid ""
-"What's merely a hound to one man is a loyal beast to %name%. After leaving "
-"the company, the houndmaster went out to work for the nobility. "
-"Unfortunately, he refused to let hundreds of his dogs be used as a battle "
-"vanguard to be thrown away for some short-lived tactical advantage. He was "
-"hanged for his 'traitorous ideals'."
-msgstr ""
-
 # scripts/skills/backgrounds/miller_background.nut
 msgid ""
 "As the %companyname% fell on hard times, %name% the miller saw fit to go "
@@ -2112,6 +2103,15 @@ msgid ""
 "new way of grinding grains with mules and waterwheels working in tandem. "
 "Unfortunately, by 'helping' he managed to fall into the contraption and was "
 "brutally crushed to death."
+msgstr ""
+
+# scripts/skills/backgrounds/houndmaster_background.nut
+msgid ""
+"What's merely a hound to one man is a loyal beast to %name%. After leaving "
+"the company, the houndmaster went out to work for the nobility. "
+"Unfortunately, he refused to let hundreds of his dogs be used as a battle "
+"vanguard to be thrown away for some short-lived tactical advantage. He was "
+"hanged for his 'traitorous ideals'."
 msgstr ""
 
 # scripts/skills/backgrounds/thief_background.nut
@@ -2141,15 +2141,6 @@ msgid ""
 " dead raiders littered around him."
 msgstr ""
 
-# scripts/skills/backgrounds/retired_soldier_background.nut
-msgid ""
-"Tired of all the fighting, %name% left the quickly declining %companyname% "
-"and went out and built himself a cabin in the woods. Unfortunately, "
-"vagabonds attacked. Word has it he was found bleeding out on the floor, "
-"surrounded by six dead men and the last man standing, a nervous, broken boy "
-"shakily waving a sword at the dying old man."
-msgstr ""
-
 # scripts/skills/backgrounds/vagabond_background.nut
 msgid ""
 "As the company fell apart, it's little surprise that a vagabond like %name% "
@@ -2157,6 +2148,15 @@ msgid ""
 "world in such a dire state, it did not take long for him to find trouble. "
 "His body was found hanging outside a small farming village. A sign nailed to"
 " his chest read: 'No Free Rangers'."
+msgstr ""
+
+# scripts/skills/backgrounds/retired_soldier_background.nut
+msgid ""
+"Tired of all the fighting, %name% left the quickly declining %companyname% "
+"and went out and built himself a cabin in the woods. Unfortunately, "
+"vagabonds attacked. Word has it he was found bleeding out on the floor, "
+"surrounded by six dead men and the last man standing, a nervous, broken boy "
+"shakily waving a sword at the dying old man."
 msgstr ""
 
 # scripts/skills/backgrounds/daytaler_background.nut
@@ -2249,15 +2249,6 @@ msgid ""
 "a half-starved slave wielding a pitchfork and a net."
 msgstr ""
 
-# scripts/skills/backgrounds/cripple_background.nut
-msgid ""
-"When you left the %companyname%, there was one thing you were almost certain"
-" of: that damned cripple, %name%, wouldn't last long. Despite all odds, he "
-"did survive. Long enough in fact to retire himself, albeit departing with "
-"about as many crowns as he had when he joined up. You've no idea what became"
-" of him, but surely he's dead by now. Surely, right?"
-msgstr ""
-
 # scripts/skills/backgrounds/beggar_background.nut
 msgid ""
 "The fighting life is a rough one, and %name% the once-beggar saw fit to "
@@ -2265,6 +2256,15 @@ msgid ""
 " beggaring. Word has it that a nobleman cleaned a city of riff-raff and sent"
 " them marching north despite it being winter. Cold and hungry, %name% died "
 "on the side of a road, a tin cup frozen to his finger."
+msgstr ""
+
+# scripts/skills/backgrounds/cripple_background.nut
+msgid ""
+"When you left the %companyname%, there was one thing you were almost certain"
+" of: that damned cripple, %name%, wouldn't last long. Despite all odds, he "
+"did survive. Long enough in fact to retire himself, albeit departing with "
+"about as many crowns as he had when he joined up. You've no idea what became"
+" of him, but surely he's dead by now. Surely, right?"
 msgstr ""
 
 # scripts/skills/backgrounds/deserter_background.nut
@@ -2647,6 +2647,17 @@ msgid ""
 " to have been a dozen arrows."
 msgstr ""
 
+# scripts/skills/backgrounds/assassin_background.nut
+msgid ""
+"%name% joined the company in place of the bastard nobleman he had come to "
+"kill. So strange was this agreement that you kept your eye on the assassin "
+"for many days. But all he did was fight for the %companyname%, and fight "
+"well. Last you heard, the assassin departed the company and has not been "
+"seen or heard from since. You checked in on the bastard nobleman himself to "
+"see if perhaps the assassin had finished the job, but the man was alive and "
+"well. A peculiar run in, in the end."
+msgstr ""
+
 # scripts/skills/backgrounds/companion_ranged_background.nut
 # scripts/skills/backgrounds/companion_1h_background.nut
 # scripts/skills/backgrounds/companion_2h_background.nut
@@ -2658,17 +2669,6 @@ msgid ""
 " son could. Ironically, he hates the notion of you being a father figure to "
 "him, and you always tell him you'd never father a son so ugly to begin with."
 " You keep in touch to this day."
-msgstr ""
-
-# scripts/skills/backgrounds/assassin_background.nut
-msgid ""
-"%name% joined the company in place of the bastard nobleman he had come to "
-"kill. So strange was this agreement that you kept your eye on the assassin "
-"for many days. But all he did was fight for the %companyname%, and fight "
-"well. Last you heard, the assassin departed the company and has not been "
-"seen or heard from since. You checked in on the bastard nobleman himself to "
-"see if perhaps the assassin had finished the job, but the man was alive and "
-"well. A peculiar run in, in the end."
 msgstr ""
 
 # scripts/skills/backgrounds/swordmaster_background.nut

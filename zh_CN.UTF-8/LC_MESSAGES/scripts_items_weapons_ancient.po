@@ -3,10 +3,6 @@ msgid ""
 msgstr ""
 
 # scripts/items/weapons/ancient/falx.nut
-msgid "falx"
-msgstr ""
-
-# scripts/items/weapons/ancient/falx.nut
 msgid "Falx"
 msgstr "达西安镰刀"
 
@@ -14,25 +10,17 @@ msgstr "达西安镰刀"
 msgid "Khopesh"
 msgstr "镰弯刀"
 
-# scripts/items/weapons/ancient/khopesh.nut
-msgid "khopesh"
-msgstr ""
+# scripts/items/weapons/ancient/rhomphaia.nut
+msgid "Rhomphaia"
+msgstr "长柄逆刃剑"
 
 # scripts/items/weapons/ancient/warscythe.nut
 msgid "Warscythe"
 msgstr "军用镰刀"
 
-# scripts/items/weapons/ancient/rhomphaia.nut
-msgid "Rhomphaia"
-msgstr "长柄逆刃剑"
-
-# scripts/items/weapons/ancient/rhomphaia.nut
-msgid "rhomphaia"
-msgstr ""
-
-# scripts/items/weapons/ancient/warscythe.nut
-msgid "warscythe"
-msgstr ""
+# scripts/items/weapons/ancient/ancient_spear.nut
+msgid "Ancient Spear"
+msgstr "古代长矛"
 
 # scripts/items/weapons/ancient/ancient_sword.nut
 msgid "Ancient Sword"
@@ -43,15 +31,7 @@ msgid "Crypt Cleaver"
 msgstr "墓穴砍刀"
 
 # scripts/items/weapons/ancient/ancient_spear.nut
-msgid "Ancient Spear"
-msgstr "古代长矛"
-
-# scripts/items/weapons/ancient/ancient_spear.nut
 msgid "Spear, One-Handed"
-msgstr ""
-
-# scripts/items/weapons/ancient/rhomphaia.nut
-msgid "Sword, Two-Handed"
 msgstr ""
 
 # scripts/items/weapons/ancient/ancient_sword.nut
@@ -59,11 +39,13 @@ msgstr ""
 msgid "Sword, One-Handed"
 msgstr ""
 
-# scripts/items/weapons/ancient/broken_bladed_pike.nut
-# scripts/items/weapons/ancient/bladed_pike.nut
-# scripts/items/weapons/ancient/warscythe.nut
-msgid "Polearm, Two-Handed"
+# scripts/items/weapons/ancient/rhomphaia.nut
+msgid "Sword, Two-Handed"
 msgstr ""
+
+# scripts/items/weapons/ancient/bladed_pike.nut
+msgid "Ancient Bladed Pike"
+msgstr "古代刃枪"
 
 # scripts/items/weapons/ancient/falx.nut
 # scripts/items/weapons/ancient/khopesh.nut
@@ -74,9 +56,11 @@ msgstr ""
 msgid "Cleaver, Two-Handed"
 msgstr ""
 
+# scripts/items/weapons/ancient/broken_bladed_pike.nut
 # scripts/items/weapons/ancient/bladed_pike.nut
-msgid "Ancient Bladed Pike"
-msgstr "古代刃枪"
+# scripts/items/weapons/ancient/warscythe.nut
+msgid "Polearm, Two-Handed"
+msgstr ""
 
 # scripts/items/weapons/ancient/broken_ancient_sword.nut
 msgid "Broken Ancient Sword"

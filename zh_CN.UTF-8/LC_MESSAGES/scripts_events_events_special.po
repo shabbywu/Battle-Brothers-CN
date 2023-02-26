@@ -77,13 +77,13 @@ msgstr "你已经委派了 "
 msgid "You're still not ready!"
 msgstr ""
 
-# scripts/events/events/special/ambition_fulfilled_event.nut
-msgid "The company gained renown"
-msgstr "战队获得了声望"
-
 # scripts/events/events/special/dismiss_legend_event.nut
 msgid ", a legend of the company"
 msgstr ""
+
+# scripts/events/events/special/ambition_fulfilled_event.nut
+msgid "The company gained renown"
+msgstr "战队获得了声望"
 
 # scripts/events/events/special/dismiss_veteran_event.nut
 msgid ", a veteran of the company"
@@ -94,14 +94,6 @@ msgid "We can't win this. No fight."
 msgstr ""
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
-msgid "Reclaimed Young Anselm's jawbone"
-msgstr "夺回了小安瑟姆的下颌骨"
-
-# scripts/events/events/special/oathtakers_confrontation_event.nut
-msgid "The company lost to Oathbringers"
-msgstr ""
-
-# scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "And death to the Oathbringers..."
 msgstr "致誓言使者之死…"
 
@@ -109,25 +101,33 @@ msgstr "致誓言使者之死…"
 msgid "I'll take a look at our retinue!"
 msgstr "去看看我们的随行人员吧！"
 
-# scripts/events/events/special/oathtakers_noble_contracts_event.nut
-msgid "Nobles will now give you contracts"
-msgstr "贵族现在会给你合同"
+# scripts/events/events/special/oathtakers_confrontation_event.nut
+msgid "Reclaimed Young Anselm's jawbone"
+msgstr "夺回了小安瑟姆的下颌骨"
+
+# scripts/events/events/special/oathtakers_confrontation_event.nut
+msgid "The company lost to Oathbringers"
+msgstr ""
 
 # scripts/events/events/special/ambition_failed_event.nut
 msgid "Lost confidence in your leadership"
 msgstr "对你的领导失去信心"
 
+# scripts/events/events/special/oathtakers_noble_contracts_event.nut
+msgid "Nobles will now give you contracts"
+msgstr "贵族现在会给你合同"
+
 # scripts/events/events/special/ambition_fulfilled_event.nut
 msgid "Gained confidence in your leadership"
 msgstr "对你的领导有信心"
 
-# scripts/events/events/special/dismiss_injured_event.nut
-msgid "Lost confidence in the company's solidarity"
-msgstr "对战队的团结失去信心"
-
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid " stands ready to fight. Who shall join him?"
 msgstr " 随时准备战斗。 谁能加入他？"
+
+# scripts/events/events/special/dismiss_injured_event.nut
+msgid "Lost confidence in the company's solidarity"
+msgstr "对战队的团结失去信心"
 
 # scripts/events/events/special/dismiss_injured_event.nut
 msgid "Afraid to be dismissed on account of his injury"

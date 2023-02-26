@@ -24,10 +24,13 @@ msgstr "困难重重"
 msgid "Raging"
 msgstr "战况激烈"
 
-# scripts/ambitions/ambitions/defeat_greenskins_ambition.nut
-# scripts/ambitions/ambitions/defeat_undead_ambition.nut
-msgid "Winning"
-msgstr "胜利在望"
+# scripts/ambitions/ambitions/have_all_provisions_ambition.nut
+msgid ""
+"\n"
+"- Beer"
+msgstr ""
+"\n"
+"- 啤酒"
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid ""
@@ -40,10 +43,8 @@ msgstr ""
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid ""
 "\n"
-"- Beer"
-msgstr ""
-"\n"
-"- 啤酒"
+"- Rice"
+msgstr "- 大米"
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid ""
@@ -53,15 +54,18 @@ msgstr ""
 "\n"
 "- 葡萄酒"
 
+# scripts/ambitions/ambitions/defeat_greenskins_ambition.nut
+# scripts/ambitions/ambitions/defeat_undead_ambition.nut
+msgid "Winning"
+msgstr "胜利在望"
+
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid ""
 "\n"
-"- Rice"
-msgstr "- 大米"
-
-# scripts/ambitions/ambitions/defeat_goblin_location_ambition.nut
-msgid "Victory!"
-msgstr "胜利！"
+"- Bread"
+msgstr ""
+"\n"
+"- 面包"
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid ""
@@ -71,13 +75,14 @@ msgstr ""
 "\n"
 "- 枣子"
 
-# scripts/ambitions/ambitions/have_all_provisions_ambition.nut
-msgid ""
-"\n"
-"- Bread"
-msgstr ""
-"\n"
-"- 面包"
+# scripts/ambitions/ambitions/defeat_goblin_location_ambition.nut
+msgid "Victory!"
+msgstr "胜利！"
+
+# scripts/ambitions/ambitions/defeat_greenskins_ambition.nut
+# scripts/ambitions/ambitions/defeat_undead_ambition.nut
+msgid "Undecided"
+msgstr "悬而未决"
 
 # scripts/ambitions/ambitions/defeat_goblin_location_ambition.nut
 # scripts/ambitions/ambitions/sergeant_ambition.nut
@@ -88,24 +93,19 @@ msgstr ""
 msgid "You gain "
 msgstr "你获得了 "
 
-# scripts/ambitions/ambitions/defeat_greenskins_ambition.nut
-# scripts/ambitions/ambitions/defeat_undead_ambition.nut
-msgid "Undecided"
-msgstr "悬而未决"
-
 # scripts/ambitions/ambitions/have_y_crowns_ambition.nut
 msgid "Excellent!"
 msgstr "极好的！"
 
 # scripts/ambitions/ambitions/defeat_holywar_ambition.nut
 # scripts/ambitions/ambitions/defeat_civilwar_ambition.nut
-msgid "Dragging On"
-msgstr "陷入胶着"
+msgid "Almost Over"
+msgstr "接近尾声"
 
 # scripts/ambitions/ambitions/defeat_holywar_ambition.nut
 # scripts/ambitions/ambitions/defeat_civilwar_ambition.nut
-msgid "Almost Over"
-msgstr "接近尾声"
+msgid "Dragging On"
+msgstr "陷入胶着"
 
 # scripts/ambitions/ambitions/cart_ambition.nut
 msgid "Get moving!"
@@ -115,11 +115,6 @@ msgstr "行动起来！"
 msgid "No Ambition"
 msgstr "没有野心"
 
-# scripts/ambitions/ambitions/defeat_holywar_ambition.nut
-# scripts/ambitions/ambitions/defeat_civilwar_ambition.nut
-msgid "Just started"
-msgstr "战争初始"
-
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid ""
 "\n"
@@ -128,13 +123,14 @@ msgstr ""
 "\n"
 "- 蘑菇"
 
+# scripts/ambitions/ambitions/defeat_holywar_ambition.nut
+# scripts/ambitions/ambitions/defeat_civilwar_ambition.nut
+msgid "Just started"
+msgstr "战争初始"
+
 # scripts/ambitions/ambitions/sergeant_ambition.nut
 msgid "the Sergeant"
 msgstr "军士"
-
-# scripts/ambitions/ambitions/fulfill_x_southern_contracts_ambition.nut
-msgid "Gold is gold."
-msgstr "金子就是金子。"
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid ""
@@ -160,6 +156,10 @@ msgstr ""
 "\n"
 "- 熏火腿"
 
+# scripts/ambitions/ambitions/fulfill_x_southern_contracts_ambition.nut
+msgid "Gold is gold."
+msgstr "金子就是金子。"
+
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid ""
 "\n"
@@ -180,27 +180,6 @@ msgstr ""
 msgid "Defeat a Kraken"
 msgstr "击败克拉肯"
 
-# scripts/ambitions/ambitions/visit_settlements_ambition.nut
-msgid ""
-"\n"
-"... and others!"
-msgstr ""
-"\n"
-"... 以及更多!"
-
-# scripts/ambitions/ambitions/defeat_greenskins_ambition.nut
-# scripts/ambitions/ambitions/defeat_undead_ambition.nut
-msgid "Winning Slightly"
-msgstr "看到曙光"
-
-# scripts/ambitions/ambitions/have_all_provisions_ambition.nut
-msgid ""
-"\n"
-"- Ground Grains"
-msgstr ""
-"\n"
-"- 谷物"
-
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid ""
 "\n"
@@ -217,19 +196,30 @@ msgstr ""
 "\n"
 "- 腌鹿肉"
 
+# scripts/ambitions/ambitions/have_all_provisions_ambition.nut
+msgid ""
+"\n"
+"- Ground Grains"
+msgstr ""
+"\n"
+"- 谷物"
+
+# scripts/ambitions/ambitions/visit_settlements_ambition.nut
+msgid ""
+"\n"
+"... and others!"
+msgstr ""
+"\n"
+"... 以及更多!"
+
 # scripts/ambitions/ambitions/win_x_arena_fights_ambition.nut
 msgid "Win arena fights"
 msgstr "赢得竞技场战斗"
 
-# scripts/ambitions/ambitions/cart_ambition.nut
-# scripts/ambitions/ambitions/battle_standard_ambition.nut
-# scripts/ambitions/ambitions/wagon_ambition.nut
-msgid "You spend [color="
-msgstr "你花费了 [color="
-
-# scripts/ambitions/ambitions/named_item_ambition.nut
-msgid "Famous Greatsword"
-msgstr "名剑"
+# scripts/ambitions/ambitions/defeat_greenskins_ambition.nut
+# scripts/ambitions/ambitions/defeat_undead_ambition.nut
+msgid "Winning Slightly"
+msgstr "看到曙光"
 
 # scripts/ambitions/ambitions/sergeant_ambition.nut
 msgid " is now known as "
@@ -238,6 +228,16 @@ msgstr " 现在被称为 "
 # scripts/ambitions/ambitions/defeat_mercenaries_ambition.nut
 msgid "Eat and be eaten."
 msgstr "吞噬与被吞噬。"
+
+# scripts/ambitions/ambitions/named_item_ambition.nut
+msgid "Famous Greatsword"
+msgstr "名剑"
+
+# scripts/ambitions/ambitions/cart_ambition.nut
+# scripts/ambitions/ambitions/battle_standard_ambition.nut
+# scripts/ambitions/ambitions/wagon_ambition.nut
+msgid "You spend [color="
+msgstr "你花费了 [color="
 
 # scripts/ambitions/ambitions/hammer_mastery_ambition.nut
 msgid "Armor, what armor?"
@@ -266,29 +266,25 @@ msgstr "我们做到了。"
 msgid "We draw our own maps."
 msgstr "我们绘制自己的地图。"
 
-# scripts/ambitions/ambitions/cart_ambition.nut
-msgid "]5,000[/color] Crowns"
-msgstr "]5,000[/color] 克朗"
-
 # scripts/ambitions/ambitions/battle_standard_ambition.nut
 msgid "]1,000[/color] Crowns"
 msgstr "]1,000[/color] 克朗"
+
+# scripts/ambitions/ambitions/cart_ambition.nut
+msgid "]5,000[/color] Crowns"
+msgstr "]5,000[/color] 克朗"
 
 # scripts/ambitions/ambitions/wagon_ambition.nut
 msgid "]10,000[/color] Crowns"
 msgstr "]10,000[/color] 克朗"
 
-# scripts/ambitions/ambitions/roster_of_20_ambition.nut
-msgid "Have a roster of 20 men"
-msgstr "战队人数达到20人"
-
-# scripts/ambitions/ambitions/have_all_provisions_ambition.nut
-msgid "The men have earned it."
-msgstr "这是你们应得的。"
-
 # scripts/ambitions/ambitions/contracts_ambition.nut
 msgid "Complete more contracts"
 msgstr "完成更多合同"
+
+# scripts/ambitions/ambitions/roster_of_20_ambition.nut
+msgid "Have a roster of 20 men"
+msgstr "战队人数达到20人"
 
 # scripts/ambitions/ambitions/have_y_renown_ambition.nut
 msgid "Reach 'Glorious' renown"
@@ -298,12 +294,9 @@ msgstr "达到“荣耀”声望"
 msgid "That's the bottom line."
 msgstr ""
 
-# scripts/ambitions/ambitions/ranged_mastery_ambition.nut
-# scripts/ambitions/ambitions/named_item_set_ambition.nut
-# scripts/ambitions/ambitions/named_item_ambition.nut
-# scripts/ambitions/ambitions/have_armor_upgrades_ambition.nut
-msgid "This will serve us well."
-msgstr "这对我们很有帮助。"
+# scripts/ambitions/ambitions/have_all_provisions_ambition.nut
+msgid "The men have earned it."
+msgstr "这是你们应得的。"
 
 # scripts/ambitions/ambitions/roster_of_20_ambition.nut
 msgid "A full company, finally."
@@ -313,33 +306,36 @@ msgstr "终于招满人了。"
 msgid "Feasted with the company"
 msgstr "与战队共度盛宴"
 
-# scripts/ambitions/ambitions/have_z_renown_ambition.nut
-msgid "Reach 'Invincible' renown"
-msgstr "达到“无敌”声望"
+# scripts/ambitions/ambitions/ranged_mastery_ambition.nut
+# scripts/ambitions/ambitions/named_item_set_ambition.nut
+# scripts/ambitions/ambitions/named_item_ambition.nut
+# scripts/ambitions/ambitions/have_armor_upgrades_ambition.nut
+msgid "This will serve us well."
+msgstr "这对我们很有帮助。"
 
 # scripts/ambitions/ambitions/defeat_undead_ambition.nut
 msgid "Defeat the Undead Scourge"
 msgstr "击败亡灵天灾"
 
-# scripts/ambitions/ambitions/weapon_mastery_ambition.nut
-msgid "They're professionals now."
-msgstr "他们现在是专业人士了。"
-
-# scripts/ambitions/ambitions/cart_ambition.nut
-msgid "Have at least 7,500 crowns"
-msgstr "拥有至少7500克朗"
-
-# scripts/ambitions/ambitions/battle_standard_ambition.nut
-msgid "Have at least 2,000 crowns"
-msgstr "拥有至少2000克朗"
+# scripts/ambitions/ambitions/have_z_renown_ambition.nut
+msgid "Reach 'Invincible' renown"
+msgstr "达到“无敌”声望"
 
 # scripts/ambitions/ambitions/trade_ambition.nut
 msgid "Buy and sell trading goods"
 msgstr ""
 
-# scripts/ambitions/ambitions/make_nobles_aware_ambition.nut
-msgid "Reach 'Professional' renown"
-msgstr "达到“专业”声望"
+# scripts/ambitions/ambitions/battle_standard_ambition.nut
+msgid "Have at least 2,000 crowns"
+msgstr "拥有至少2000克朗"
+
+# scripts/ambitions/ambitions/cart_ambition.nut
+msgid "Have at least 7,500 crowns"
+msgstr "拥有至少7500克朗"
+
+# scripts/ambitions/ambitions/weapon_mastery_ambition.nut
+msgid "They're professionals now."
+msgstr "他们现在是专业人士了。"
 
 # scripts/ambitions/ambitions/have_y_crowns_ambition.nut
 msgid "Have at least 10,000 crowns"
@@ -349,6 +345,10 @@ msgstr "拥有至少10000克朗"
 msgid "Have at least 15,000 crowns"
 msgstr "拥有至少15000克朗"
 
+# scripts/ambitions/ambitions/make_nobles_aware_ambition.nut
+msgid "Reach 'Professional' renown"
+msgstr "达到“专业”声望"
+
 # scripts/ambitions/ambitions/find_and_destroy_location_ambition.nut
 msgid "Another challenge conquered."
 msgstr "又一个挑战被征服了。"
@@ -356,6 +356,10 @@ msgstr "又一个挑战被征服了。"
 # scripts/ambitions/ambitions/have_z_crowns_ambition.nut
 msgid "Have at least 50,000 crowns."
 msgstr "拥有至少50000克朗。"
+
+# scripts/ambitions/ambitions/defeat_beasts_ambition.nut
+msgid "Defeat packs of roving beasts"
+msgstr "击败流浪野兽群"
 
 # scripts/ambitions/ambitions/defeat_greenskins_ambition.nut
 msgid "Defeat the Greenskin Invasion"
@@ -366,27 +370,27 @@ msgstr "击败绿皮入侵"
 msgid "Raid trade or supply caravans"
 msgstr "突袭贸易或补给商队"
 
-# scripts/ambitions/ambitions/defeat_beasts_ambition.nut
-msgid "Defeat packs of roving beasts"
-msgstr "击败流浪野兽群"
+# scripts/ambitions/ambitions/taxidermist_ambition.nut
+msgid "Craft items at the taxidermist"
+msgstr "在剥制师那里制作物品"
 
 # scripts/ambitions/ambitions/battle_standard_ambition.nut
 msgid "Men, those are our colors now!"
 msgstr "兄弟们，那就是我们的旗帜！"
 
-# scripts/ambitions/ambitions/taxidermist_ambition.nut
-msgid "Craft items at the taxidermist"
-msgstr "在剥制师那里制作物品"
+# scripts/ambitions/ambitions/raid_caravans_ambition.nut
+#, fuzzy
+msgid "Like taking candy from a child."
+msgstr "就像从孩子手里抢糖果一样。"
 
 # scripts/ambitions/ambitions/win_against_y_ambition.nut
 # scripts/ambitions/ambitions/win_against_x_ambition.nut
 msgid "Who dares stand against us now?"
 msgstr "现在谁敢挡在我们面前？"
 
-# scripts/ambitions/ambitions/raid_caravans_ambition.nut
-#, fuzzy
-msgid "Like taking candy from a child."
-msgstr "就像从孩子手里抢糖果一样。"
+# scripts/ambitions/ambitions/defeat_mercenaries_ambition.nut
+msgid "Defeat another mercenary company"
+msgstr "击败另一支雇佣兵战队"
 
 # scripts/ambitions/ambitions/defeat_civilwar_ambition.nut
 msgid "End the war between noble houses"
@@ -400,10 +404,6 @@ msgstr "战队人数至少达到12人"
 msgid "Have a roster of at least 16 men"
 msgstr "战队人数至少达到16人"
 
-# scripts/ambitions/ambitions/defeat_mercenaries_ambition.nut
-msgid "Defeat another mercenary company"
-msgstr "击败另一支雇佣兵战队"
-
 # scripts/ambitions/ambitions/defeat_undead_location_ambition.nut
 msgid "Destroy locations beset by undead"
 msgstr "摧毁亡灵营地"
@@ -416,13 +416,13 @@ msgstr "贵族现在会给你合同"
 msgid "We're making a name for ourselves."
 msgstr "我们正在为自己扬名。"
 
-# scripts/ambitions/ambitions/visit_settlements_ambition.nut
-msgid "Remember the name, '%companyname%'!"
-msgstr "记住咱们的名字，“%companyname%”！"
-
 # scripts/ambitions/ambitions/defeat_holywar_ambition.nut
 msgid "End the war between north and south"
 msgstr "结束南北战争"
+
+# scripts/ambitions/ambitions/visit_settlements_ambition.nut
+msgid "Remember the name, '%companyname%'!"
+msgstr "记住咱们的名字，“%companyname%”！"
 
 # scripts/ambitions/ambitions/defeat_undead_ambition.nut
 msgid "The world of man is saved. For now."
@@ -436,10 +436,6 @@ msgstr "摧毁兽人营地"
 msgid "Fulfill contracts for the city states"
 msgstr "履行城邦的合同"
 
-# scripts/ambitions/ambitions/have_y_renown_ambition.nut
-msgid "People know of the %companyname% now!"
-msgstr "人们现在知道 %companyname% 了！"
-
 # scripts/ambitions/ambitions/hammer_mastery_ambition.nut
 msgid "Have men with the hammer mastery perk"
 msgstr "有人掌握锤精通特技"
@@ -447,6 +443,10 @@ msgstr "有人掌握锤精通特技"
 # scripts/ambitions/ambitions/win_x_arena_fights_ambition.nut
 msgid "I still hear them chanting our names!"
 msgstr "我还听到他们在喊我们的名字！"
+
+# scripts/ambitions/ambitions/have_y_renown_ambition.nut
+msgid "People know of the %companyname% now!"
+msgstr "人们现在知道 %companyname% 了！"
 
 # scripts/ambitions/ambitions/visit_settlements_ambition.nut
 msgid ""
@@ -467,33 +467,33 @@ msgstr "你获得了27个额外的仓库空位"
 msgid "Destroy locations controlled by goblins"
 msgstr "摧毁哥布林营地"
 
-# scripts/ambitions/ambitions/win_against_y_ambition.nut
-msgid "Win a battle against 24 or more enemies"
-msgstr "赢得一场24个或更多敌人的战斗"
+# scripts/ambitions/ambitions/have_armor_upgrades_ambition.nut
+msgid "Have at least 6 armors with attachments"
+msgstr "拥有至少6件带附件的盔甲"
 
 # scripts/ambitions/ambitions/win_against_x_ambition.nut
 msgid "Win a battle against 12 or more enemies"
 msgstr "赢得一场12个或更多敌人的战斗"
 
-# scripts/ambitions/ambitions/have_armor_upgrades_ambition.nut
-msgid "Have at least 6 armors with attachments"
-msgstr "拥有至少6件带附件的盔甲"
+# scripts/ambitions/ambitions/win_against_y_ambition.nut
+msgid "Win a battle against 24 or more enemies"
+msgstr "赢得一场24个或更多敌人的战斗"
 
-# scripts/ambitions/ambitions/weapon_mastery_ambition.nut
-msgid "Have men with a weapon mastery perk each"
-msgstr "每个人都有一个武器精通特技"
+# scripts/ambitions/ambitions/hammer_mastery_ambition.nut
+msgid "Have 2 men with the hammer mastery perk."
+msgstr "有2人掌握锤精通特技。"
 
 # scripts/ambitions/ambitions/named_item_ambition.nut
 msgid "Have at least 1 famed piece of equipment"
 msgstr "拥有至少1件著名的装备"
 
+# scripts/ambitions/ambitions/weapon_mastery_ambition.nut
+msgid "Have men with a weapon mastery perk each"
+msgstr "每个人都有一个武器精通特技"
+
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid "Have one of each provision type there is"
 msgstr "拥有每一种食物类型"
-
-# scripts/ambitions/ambitions/hammer_mastery_ambition.nut
-msgid "Have 2 men with the hammer mastery perk."
-msgstr "有2人掌握锤精通特技。"
 
 # scripts/ambitions/ambitions/defeat_beasts_ambition.nut
 msgid "Man and beast alike shall know our name."
@@ -504,6 +504,10 @@ msgstr "人类和野兽都应该听说我们的大名。"
 msgid "Your look on the worldmap has been updated"
 msgstr "你在世界地图上的形象已经更新了"
 
+# scripts/ambitions/ambitions/defeat_undead_location_ambition.nut
+msgid "Be that as it may, we are victorious again!"
+msgstr "尽管如此，但我们又胜利了！"
+
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid "Significantly improve the mood of your men."
 msgstr "能大大改善你手下的情绪。"
@@ -511,10 +515,6 @@ msgstr "能大大改善你手下的情绪。"
 # scripts/ambitions/ambitions/win_against_x_ambition.nut
 msgid "You gain additional renown for your victory"
 msgstr "你因你的胜利而获得额外的声望"
-
-# scripts/ambitions/ambitions/defeat_undead_location_ambition.nut
-msgid "Be that as it may, we are victorious again!"
-msgstr "尽管如此，但我们又胜利了！"
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid ""
@@ -530,21 +530,21 @@ msgstr ""
 msgid "Get to 'Allied' relations with a noble house"
 msgstr "与一个贵族家族达成“同盟”关系"
 
-# scripts/ambitions/ambitions/hire_follower_ambition.nut
-msgid "This will aid us greatly in the days to come."
-msgstr "这将在今后的日子里对我们大有裨益。"
+# scripts/ambitions/ambitions/discover_all_unique_locations_ambition.nut
+msgid "Discover all legendary locations in the world"
+msgstr "发现世界上所有传奇地点"
 
 # scripts/ambitions/ambitions/named_item_set_ambition.nut
 msgid "Have a famed weapon, shield, armor and helmet"
 msgstr "拥有一件著名的武器、盾牌、盔甲和头盔"
 
-# scripts/ambitions/ambitions/discover_all_unique_locations_ambition.nut
-msgid "Discover all legendary locations in the world"
-msgstr "发现世界上所有传奇地点"
-
 # scripts/ambitions/ambitions/sergeant_ambition.nut
 msgid "Have one man with the 'Rally the Troops' perk"
 msgstr "有一人点出“集结部队”特技"
+
+# scripts/ambitions/ambitions/hire_follower_ambition.nut
+msgid "This will aid us greatly in the days to come."
+msgstr "这将在今后的日子里对我们大有裨益。"
 
 # scripts/ambitions/ambitions/ranged_mastery_ambition.nut
 msgid "Have men with the bow or crossbow mastery perk"
@@ -554,9 +554,9 @@ msgstr "有1人点出弓精通或弩精通天赋"
 msgid "This will help us greatly in the days to come."
 msgstr "这将在今后的日子里对我们大有帮助。"
 
-# scripts/ambitions/ambitions/visit_settlements_ambition.nut
-msgid "Visit every town and fortification in the world"
-msgstr "拜访每一座城镇与城堡"
+# scripts/ambitions/ambitions/find_and_destroy_location_ambition.nut
+msgid "Discover a ruin or hostile camp, and destroy it"
+msgstr "发现一个废墟或敌对营地，并摧毁它"
 
 # scripts/ambitions/ambitions/named_item_ambition.nut
 # scripts/ambitions/ambitions/win_against_x_ambition.nut
@@ -567,17 +567,13 @@ msgstr "为你的胜利获得额外的150声望。"
 msgid "The %companyname%'s name shall live on forever!"
 msgstr "%companyname% 的名字将永垂不朽！"
 
-# scripts/ambitions/ambitions/find_and_destroy_location_ambition.nut
-msgid "Discover a ruin or hostile camp, and destroy it"
-msgstr "发现一个废墟或敌对营地，并摧毁它"
-
 # scripts/ambitions/ambitions/armor_ambition.nut
 msgid "This will serve us well in the battles to come."
 msgstr "这将在今后的战斗中对我们大有好处。"
 
-# scripts/ambitions/ambitions/discover_locations_ambition.nut
-msgid "Discover hidden locations by exploring the world"
-msgstr "探索世界发现隐藏的地点"
+# scripts/ambitions/ambitions/visit_settlements_ambition.nut
+msgid "Visit every town and fortification in the world"
+msgstr "拜访每一座城镇与城堡"
 
 # scripts/ambitions/ambitions/visit_settlements_ambition.nut
 msgid ""
@@ -589,13 +585,17 @@ msgstr ""
 "\n"
 "还有一些定居点要拜访。\n"
 
-# scripts/ambitions/ambitions/defeat_kraken_ambition.nut
-msgid "What other hunter can claim a feat such as this?"
-msgstr "还有哪位猎人能自信拥有这样的专长？"
+# scripts/ambitions/ambitions/discover_locations_ambition.nut
+msgid "Discover hidden locations by exploring the world"
+msgstr "探索世界发现隐藏的地点"
 
 # scripts/ambitions/ambitions/taxidermist_ambition.nut
 msgid "The %companyname% presents its trophies proudly."
 msgstr "%companyname% 自豪地展示他们的战利品。"
+
+# scripts/ambitions/ambitions/defeat_kraken_ambition.nut
+msgid "What other hunter can claim a feat such as this?"
+msgstr "还有哪位猎人能自信拥有这样的专长？"
 
 # scripts/ambitions/ambitions/ranged_mastery_ambition.nut
 msgid "Have 3 men with the bow or crossbow mastery perk."
@@ -613,21 +613,25 @@ msgstr "探索世界发现传奇地点"
 msgid "Get to 'Friendly' relations with a civilian faction"
 msgstr "与一个平民派系建立“友好”关系"
 
+# scripts/ambitions/ambitions/have_talent_ambition.nut
+msgid "Have a character with three times three talent stars"
+msgstr "拥有一个同时具有三个三星的天才角色"
+
 # scripts/ambitions/ambitions/defeat_orc_location_ambition.nut
 msgid "Tell everyone it was the %companyname% who won here!"
 msgstr "告诉大家是 %companyname% 在这里赢了！"
 
-# scripts/ambitions/ambitions/have_talent_ambition.nut
-msgid "Have a character with three times three talent stars"
-msgstr "拥有一个同时具有三个三星的天才角色"
+# scripts/ambitions/ambitions/defeat_greenskins_ambition.nut
+msgid "Bards will sing our names now. If there are any left."
+msgstr "现在吟游诗人将会歌颂我们的名字了。 如果他们没死绝的话。"
 
 # scripts/ambitions/ambitions/hire_follower_ambition.nut
 msgid "Hire someone for your retinue of non-combat followers"
 msgstr "雇佣一个人作为你的非战斗追随者随从"
 
-# scripts/ambitions/ambitions/defeat_greenskins_ambition.nut
-msgid "Bards will sing our names now. If there are any left."
-msgstr "现在吟游诗人将会歌颂我们的名字了。 如果他们没死绝的话。"
+# scripts/ambitions/ambitions/armor_ambition.nut
+msgid "Have 3 pieces of armor and helmets with 230+ durability"
+msgstr "拥有3件230+耐久的盔甲和头盔"
 
 # scripts/ambitions/ambitions/make_nobles_aware_ambition.nut
 msgid "We are about to reach into the nobility's deep pockets!"
@@ -637,10 +641,6 @@ msgstr "我们要从贵族的口袋里掏钱了！"
 # scripts/ambitions/ambitions/wagon_ambition.nut
 msgid "You'll unlock an additional 27 slots in your inventory."
 msgstr "你将解锁仓库中额外的27个空位。"
-
-# scripts/ambitions/ambitions/armor_ambition.nut
-msgid "Have 3 pieces of armor and helmets with 230+ durability"
-msgstr "拥有3件230+耐久的盔甲和头盔"
 
 # scripts/ambitions/ambitions/have_talent_ambition.nut
 msgid "Unless, of course, a stray arrow catches him next battle."
@@ -667,15 +667,15 @@ msgstr ""
 msgid "Having good relations will get you better prices and more men to hire."
 msgstr "有良好的关系会使你得到更好的价格和更多的人雇用。"
 
-# scripts/ambitions/ambitions/make_nobles_aware_ambition.nut
-msgid ""
-"You'll unlock entirely new contracts issued by nobles which pay better."
-msgstr "你将解锁由贵族签发的报酬更好的全新合同。"
-
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid ""
 "Have one of each provision type there is in your stash to hold a feast."
 msgstr "拥有每一种食物类型 in your stash to hold a feast."
+
+# scripts/ambitions/ambitions/make_nobles_aware_ambition.nut
+msgid ""
+"You'll unlock entirely new contracts issued by nobles which pay better."
+msgstr "你将解锁由贵族签发的报酬更好的全新合同。"
 
 # scripts/ambitions/ambitions/weapon_mastery_ambition.nut
 msgid ""
@@ -722,12 +722,6 @@ msgid ""
 "three days."
 msgstr "现在不选择野心。 三天后你会被要求再次选择。"
 
-# scripts/ambitions/ambitions/battle_standard_ambition.nut
-msgid ""
-"You'll be awarded a unique item that grants anyone near the wearer "
-"additional resolve."
-msgstr "你将获得一个独特的物品，授予佩戴者附近的任何人额外的决心。"
-
 # scripts/ambitions/ambitions/trade_ambition.nut
 msgid ""
 "There's lots of crowns to be made with trading between towns.\n"
@@ -735,6 +729,12 @@ msgid ""
 msgstr ""
 "城镇之间的贸易可以赚很多克朗。\n"
 "让我们赚一大笔钱吧！"
+
+# scripts/ambitions/ambitions/battle_standard_ambition.nut
+msgid ""
+"You'll be awarded a unique item that grants anyone near the wearer "
+"additional resolve."
+msgstr "你将获得一个独特的物品，授予佩戴者附近的任何人额外的决心。"
 
 # scripts/ambitions/ambitions/fulfill_x_southern_contracts_ambition.nut
 msgid ""
@@ -802,6 +802,12 @@ msgstr ""
 "让我们在呼喊着我们名字的人群面前为名利而战。\n"
 "我们会在南方的竞技场上挥洒鲜血！"
 
+# scripts/ambitions/ambitions/sergeant_ambition.nut
+msgid ""
+"Have at least one man with the 'Rally the Troops' perk. You'll also need "
+"space enough in your inventory for a new item."
+msgstr "Have at least one man with the '集结部队' perk. 你还需要在仓库中留出足够的空间来存放一个新物品。"
+
 # scripts/ambitions/ambitions/hire_follower_ambition.nut
 msgid ""
 "There are cooks, scouts and many more who can support us off the battlefield.\n"
@@ -809,12 +815,6 @@ msgid ""
 msgstr ""
 "这里有厨师，侦察兵还有很多人可以在战场外支援我们。\n"
 "我们会雇一个最适合我们需要的！"
-
-# scripts/ambitions/ambitions/sergeant_ambition.nut
-msgid ""
-"Have at least one man with the 'Rally the Troops' perk. You'll also need "
-"space enough in your inventory for a new item."
-msgstr "Have at least one man with the '集结部队' perk. 你还需要在仓库中留出足够的空间来存放一个新物品。"
 
 # scripts/ambitions/ambitions/discover_all_unique_locations_ambition.nut
 msgid ""
@@ -838,6 +838,12 @@ msgstr ""
 "有传言说沼泽地里潜伏着一只巨大的野兽。\n"
 "如果我们找到并杀死它，无上的荣誉将属于我们！"
 
+# scripts/ambitions/ambitions/taxidermist_ambition.nut
+msgid ""
+"Nothing commands respect as a trophy of a giant beast of the frozen wastes.\n"
+"Let's go hunt and get the taxidermist some work!"
+msgstr "没什么能比冻土野兽的战利品更让人尊敬。让我们去狩猎一些然后请剥制师干点活！"
+
 # scripts/ambitions/ambitions/fulfill_x_southern_contracts_ambition.nut
 msgid ""
 "Travel south, visit the southern city states and find employment there. Take"
@@ -857,12 +863,6 @@ msgid ""
 "You'll be awarded a unique accessory that doubles the wearer's resolve when "
 "defending against fear and mind control effects."
 msgstr "你将获得一件特殊的配饰，使佩戴者在抵御恐惧和精神控制效果时的决心翻倍。"
-
-# scripts/ambitions/ambitions/taxidermist_ambition.nut
-msgid ""
-"Nothing commands respect as a trophy of a giant beast of the frozen wastes.\n"
-"Let's go hunt and get the taxidermist some work!"
-msgstr "没什么能比冻土野兽的战利品更让人尊敬。让我们去狩猎一些然后请剥制师干点活！"
 
 # scripts/ambitions/ambitions/have_talent_ambition.nut
 msgid ""
@@ -930,6 +930,12 @@ msgid ""
 "a formidable force and will allow us to take on more profitable work."
 msgstr "让我们把战队人数提升到16人！ 它将使我们成为一支强大的力量，使我们能够从事更有利可图的工作。"
 
+# scripts/ambitions/ambitions/have_y_renown_ambition.nut
+msgid ""
+"Become known as 'Glorious' (2,750 renown) throughout the land. You can "
+"increase your renown by completing contracts and winning battles."
+msgstr "以“荣耀”（2750声望）闻名于大陆。 你可以通过完成合同和赢得战斗来提高自己的声望。"
+
 # scripts/ambitions/ambitions/discover_unique_locations_ambition.nut
 msgid ""
 "Discover 3 legendary locations by going off on your own and exploring the "
@@ -944,12 +950,6 @@ msgstr ""
 "让我们踏上荒野，探索未知，并抢掠它。\n"
 "无论是巫师的坟墓，哥布林营地，或者我们能找到的任何东西。"
 
-# scripts/ambitions/ambitions/have_y_renown_ambition.nut
-msgid ""
-"Become known as 'Glorious' (2,750 renown) throughout the land. You can "
-"increase your renown by completing contracts and winning battles."
-msgstr "以“荣耀”（2750声望）闻名于大陆。 你可以通过完成合同和赢得战斗来提高自己的声望。"
-
 # scripts/ambitions/ambitions/win_against_y_ambition.nut
 msgid ""
 "We achieved some renown, but now you can see real fame on the horizon.\n"
@@ -958,17 +958,17 @@ msgstr ""
 "我们获得了一些声望，但现在你可以追求真正的名望。\n"
 "让我们在战斗中击败两打强大的对手！"
 
-# scripts/ambitions/ambitions/defeat_goblin_location_ambition.nut
-msgid ""
-"Only the most daring take on goblins in larger numbers. We shall burn some\n"
-"of their fetid camps to the ground, and word of it will travel!"
-msgstr "只有最勇敢的人才敢对抗大规模的哥布林。 我们要把他们的一些臭气熏天的营地夷为平地，让消息传出去！"
-
 # scripts/ambitions/ambitions/have_y_renown_ambition.nut
 msgid ""
 "Already we are known in some parts of the land, yet we are still far from being\n"
 "a legendary company. We shall increase our renown further!"
 msgstr "我们已经在这片大陆的一些地方为人所知，但我们还远远不是一个传奇战队。 我们将进一步提高我们的声望！"
+
+# scripts/ambitions/ambitions/defeat_goblin_location_ambition.nut
+msgid ""
+"Only the most daring take on goblins in larger numbers. We shall burn some\n"
+"of their fetid camps to the ground, and word of it will travel!"
+msgstr "只有最勇敢的人才敢对抗大规模的哥布林。 我们要把他们的一些臭气熏天的营地夷为平地，让消息传出去！"
 
 # scripts/ambitions/ambitions/have_z_renown_ambition.nut
 msgid ""
@@ -992,18 +992,6 @@ msgstr ""
 "我知道你们已经厌倦了我们日复一日的霉运与陈腐食物。\n"
 "我们会从这片大陆上收集各种各样的食物和饮品来举办一场盛宴！"
 
-# scripts/ambitions/ambitions/ranged_mastery_ambition.nut
-msgid ""
-"The company lacks competent archers, limiting our tactical options.\n"
-"We shall train three men to master bow or crossbow and be deadly from afar!"
-msgstr "咱们战队缺乏老练的弓箭手，限制了咱们的策略选择。我们得训练三名弓箭或弩箭大师从远处给予致命威胁！"
-
-# scripts/ambitions/ambitions/defeat_undead_ambition.nut
-msgid ""
-"Defeat the Undead Scourge! Every contract against them, and every army or "
-"location destroyed, will bring you closer to saving the world of man."
-msgstr "击败亡灵天灾! 每一份反对他们的合同，每一支被摧毁的军队或地点，都将使你们离拯救人类世界更近。"
-
 # scripts/ambitions/ambitions/defeat_orc_location_ambition.nut
 msgid ""
 "Besting orcs in battle and burning down some of their camps would make people\n"
@@ -1016,6 +1004,18 @@ msgid ""
 "Nachzehrers, whether as part of a contract or by seeking them out on your "
 "own."
 msgstr "在战斗中击败5群流浪野兽，如冰原狼或食尸鬼，无论是作为合同的一部分，还是通过自己寻找。"
+
+# scripts/ambitions/ambitions/defeat_undead_ambition.nut
+msgid ""
+"Defeat the Undead Scourge! Every contract against them, and every army or "
+"location destroyed, will bring you closer to saving the world of man."
+msgstr "击败亡灵天灾! 每一份反对他们的合同，每一支被摧毁的军队或地点，都将使你们离拯救人类世界更近。"
+
+# scripts/ambitions/ambitions/ranged_mastery_ambition.nut
+msgid ""
+"The company lacks competent archers, limiting our tactical options.\n"
+"We shall train three men to master bow or crossbow and be deadly from afar!"
+msgstr "咱们战队缺乏老练的弓箭手，限制了咱们的策略选择。我们得训练三名弓箭或弩箭大师从远处给予致命威胁！"
 
 # scripts/ambitions/ambitions/have_z_crowns_ambition.nut
 msgid ""
@@ -1120,6 +1120,13 @@ msgid ""
 " heading out!"
 msgstr "通过自己探索荒野，发现世界上所有传奇宝藏。 出发前一定要储备好食物！"
 
+# scripts/ambitions/ambitions/discover_locations_ambition.nut
+msgid ""
+"Discover 8 hidden locations, like ruins or hostile camps, by going off on "
+"your own and exploring the world. Make sure to stock up on provisions before"
+" heading out!"
+msgstr "通过自己探索世界，发现8个隐藏的地点，如废墟或敌对营地。 出发前一定要储备好食物！"
+
 # scripts/ambitions/ambitions/weapon_mastery_ambition.nut
 msgid ""
 "Imagine the trail of terror we could blaze if your skills matched your bravery.\n"
@@ -1136,13 +1143,6 @@ msgstr ""
 "荒野中隐藏有很多其他人不敢索取的宝藏。\n"
 "这是我们的机会，所以让我们出发去寻找三个传奇地点！"
 
-# scripts/ambitions/ambitions/discover_locations_ambition.nut
-msgid ""
-"Discover 8 hidden locations, like ruins or hostile camps, by going off on "
-"your own and exploring the world. Make sure to stock up on provisions before"
-" heading out!"
-msgstr "通过自己探索世界，发现8个隐藏的地点，如废墟或敌对营地。 出发前一定要储备好食物！"
-
 # scripts/ambitions/ambitions/defeat_civilwar_ambition.nut
 msgid ""
 "Pick one of the noble houses and work with them to crush their enemies. "
@@ -1156,15 +1156,6 @@ msgid ""
 "play their own dangerous game, but what does it matter as long as the pay is good?"
 msgstr "我们需要吸引其中一个贵族家族的眼球，以获得更有利可图的工作。 他们在玩自己的危险游戏，但只要报酬丰厚又有什么关系呢？"
 
-# scripts/ambitions/ambitions/win_against_y_ambition.nut
-msgid ""
-"Win a battle against 24 or more enemies, whether by killing them or having "
-"them scatter and flee. You can do so as part of a contract or by fighting on"
-" your own terms."
-msgstr ""
-"赢得一场24个或更多敌人的战斗, whether by killing them or having them scatter and flee. "
-"你可以把它作为合同的一部分，或者按照你自己的方式来完成。"
-
 # scripts/ambitions/ambitions/win_against_x_ambition.nut
 msgid ""
 "Win a battle against 12 or more enemies, whether by killing them or having "
@@ -1174,11 +1165,14 @@ msgstr ""
 "赢得一场12个或更多敌人的战斗, whether by killing them or having them scatter and flee. "
 "你可以把它作为合同的一部分，或者按照你自己的方式来完成。"
 
-# scripts/ambitions/ambitions/defeat_holywar_ambition.nut
+# scripts/ambitions/ambitions/win_against_y_ambition.nut
 msgid ""
-"The fires of religious turmoil threaten to engulf the lands. Let the company be forged\n"
-"stronger than ever by its heat and flames, and earn a fortune by winning the war!"
-msgstr "宗教动乱之火威胁着要吞噬这片土地。 让我们的战队在热火中变得比以往任何时候都强大，并通过赢得战争来赚取财富！"
+"Win a battle against 24 or more enemies, whether by killing them or having "
+"them scatter and flee. You can do so as part of a contract or by fighting on"
+" your own terms."
+msgstr ""
+"赢得一场24个或更多敌人的战斗, whether by killing them or having them scatter and flee. "
+"你可以把它作为合同的一部分，或者按照你自己的方式来完成。"
 
 # scripts/ambitions/ambitions/have_armor_upgrades_ambition.nut
 msgid ""
@@ -1187,6 +1181,12 @@ msgid ""
 "armor of your men."
 msgstr ""
 "拥有至少6件带附件的盔甲 in your possession. 购买它们，掠夺它们，或者有一个剥制师为你制作他们，然后将它们与你的人的盔甲结合。"
+
+# scripts/ambitions/ambitions/defeat_holywar_ambition.nut
+msgid ""
+"The fires of religious turmoil threaten to engulf the lands. Let the company be forged\n"
+"stronger than ever by its heat and flames, and earn a fortune by winning the war!"
+msgstr "宗教动乱之火威胁着要吞噬这片土地。 让我们的战队在热火中变得比以往任何时候都强大，并通过赢得战争来赚取财富！"
 
 # scripts/ambitions/ambitions/make_nobles_aware_ambition.nut
 msgid ""

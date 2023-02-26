@@ -2,21 +2,21 @@
 msgid ""
 msgstr ""
 
-# scripts/contracts/contract.nut
-msgid "Undead"
-msgstr "亡灵"
-
 # scripts/contracts/contract_manager.nut
 msgid " (id: "
 msgstr ""
 
 # scripts/contracts/contract.nut
-msgid "State \""
-msgstr ""
+msgid "Undead"
+msgstr "亡灵"
 
 # scripts/contracts/contract.nut
 msgid "Payment"
 msgstr "报酬"
+
+# scripts/contracts/contract.nut
+msgid "State \""
+msgstr ""
 
 # scripts/contracts/contract.nut
 msgid "Brigands"
@@ -42,16 +42,16 @@ msgstr ""
 msgid "[color=#30ac2a]"
 msgstr ""
 
-# scripts/contracts/contract_manager.nut
-msgid "contract added: "
-msgstr ""
-
 # scripts/contracts/contract.nut
 msgid "Broke a contract"
 msgstr "撕毁了合同"
 
 # scripts/contracts/contract.nut
 msgid "[color=#bcad8c]\""
+msgstr ""
+
+# scripts/contracts/contract_manager.nut
+msgid "contract added: "
 msgstr ""
 
 # scripts/contracts/contract.nut
@@ -62,11 +62,11 @@ msgid ""
 msgstr ""
 
 # scripts/contracts/contract_manager.nut
-msgid "showing contract: "
+msgid "contract removed: "
 msgstr ""
 
 # scripts/contracts/contract_manager.nut
-msgid "contract removed: "
+msgid "showing contract: "
 msgstr ""
 
 # scripts/contracts/contract_manager.nut

@@ -2,16 +2,20 @@
 msgid ""
 msgstr ""
 
-# scripts/events/events/dlc2/kid_blacksmith_event.nut
-msgid "Your "
-msgstr ""
-
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
 msgid " some"
 msgstr ""
 
+# scripts/events/events/dlc2/kid_blacksmith_event.nut
+msgid "Your "
+msgstr ""
+
 # scripts/events/events/dlc2/dog_in_swamp_event.nut
 msgid "Swimmer"
+msgstr ""
+
+# scripts/events/events/dlc2/addict_steals_potion_event.nut
+msgid " flogged"
 msgstr ""
 
 # scripts/events/events/dlc2/glutton_eats_apple_event.nut
@@ -26,10 +30,6 @@ msgstr "啊，好吧。"
 msgid "Kill it."
 msgstr "杀死它。"
 
-# scripts/events/events/dlc2/addict_steals_potion_event.nut
-msgid " flogged"
-msgstr ""
-
 # scripts/events/events/dlc2/collector_wants_trophy_event.nut
 msgid "No deal."
 msgstr "这可不行。"
@@ -38,6 +38,15 @@ msgstr "这可不行。"
 # scripts/events/events/dlc2/alp_nightmare1_event.nut
 msgid " has died"
 msgstr " 是死了"
+
+# scripts/events/events/dlc2/treasure_in_rock_event.nut
+# scripts/events/events/dlc2/youngling_alp_event.nut
+msgid " suffers "
+msgstr " 遭受 "
+
+# scripts/events/events/dlc2/youngling_alp_event.nut
+msgid "Nice job."
+msgstr "做的好。"
 
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
@@ -51,11 +60,6 @@ msgstr " 是死了"
 msgid "You gain "
 msgstr "你获得了 "
 
-# scripts/events/events/dlc2/treasure_in_rock_event.nut
-# scripts/events/events/dlc2/youngling_alp_event.nut
-msgid " suffers "
-msgstr " 遭受 "
-
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
 # scripts/events/events/dlc2/dog_in_swamp_event.nut
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
@@ -63,54 +67,46 @@ msgstr " 遭受 "
 msgid "You lose "
 msgstr "你失去了 "
 
-# scripts/events/events/dlc2/youngling_alp_event.nut
-msgid "Nice job."
-msgstr "做的好。"
-
-# scripts/events/events/dlc2/dog_in_swamp_event.nut
-msgid "Very good."
-msgstr "非常好。"
-
-# scripts/events/events/dlc2/kid_blacksmith_event.nut
-msgid "Nice work!"
-msgstr "干好的。"
-
-# scripts/events/events/dlc2/lucky_finds_something_event.nut
-msgid "Lucky you."
-msgstr "你真幸运。"
-
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
 # scripts/events/events/dlc2/youngling_alp_event.nut
 msgid "Good work."
 msgstr "做得好。"
+
+# scripts/events/events/dlc2/youngling_alp_event.nut
+msgid "Ignore it."
+msgstr "忽视它。"
 
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
 msgid "Let's dig!"
 msgstr "我们开挖吧！"
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
-msgid "Nice shot!"
-msgstr "射的好！"
-
-# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "Lucky guy."
 msgstr "幸运的家伙。"
 
-# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
-msgid "Witnessed "
-msgstr ""
+# scripts/events/events/dlc2/lucky_finds_something_event.nut
+msgid "Lucky you."
+msgstr "你真幸运。"
 
-# scripts/events/events/dlc2/youngling_alp_event.nut
-msgid "Ignore it."
-msgstr "忽视它。"
+# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
+msgid "Nice shot!"
+msgstr "射的好！"
+
+# scripts/events/events/dlc2/kid_blacksmith_event.nut
+msgid "Nice work!"
+msgstr "干好的。"
 
 # scripts/events/events/dlc2/nightowl_catches_thief_event.nut
 msgid "Rest well."
 msgstr "好好休息。"
 
-# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
-msgid "We're good."
-msgstr "我们没事。"
+# scripts/events/events/dlc2/dog_in_swamp_event.nut
+msgid "Very good."
+msgstr "非常好。"
+
+# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
+msgid "Witnessed "
+msgstr ""
 
 # scripts/events/events/dlc2/lose_fear_beasts_event.nut
 msgid "Hear, hear!"
@@ -120,14 +116,17 @@ msgstr "讲得好，讲得好！"
 msgid "Suck it up."
 msgstr ""
 
+# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
+msgid "We're good."
+msgstr "我们没事。"
+
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid " is repaired"
 msgstr ""
 
-# scripts/events/events/dlc2/spooky_forest_event.nut
-# scripts/events/events/dlc2/treasure_in_rock_event.nut
-msgid "You gain an "
-msgstr "你获得了一个 "
+# scripts/events/events/dlc2/youngling_alp_event.nut
+msgid "Grow a pair."
+msgstr "长出了一对。"
 
 # scripts/events/events/dlc2/oracle_event.nut
 msgid "What a dame."
@@ -137,34 +136,46 @@ msgstr "多漂亮的女人啊。"
 msgid "Yes, really."
 msgstr "是的，真的。"
 
-# scripts/events/events/dlc2/youngling_alp_event.nut
-msgid "Grow a pair."
-msgstr "长出了一对。"
+# scripts/events/events/dlc2/spooky_forest_event.nut
+# scripts/events/events/dlc2/treasure_in_rock_event.nut
+msgid "You gain an "
+msgstr "你获得了一个 "
+
+# scripts/events/events/dlc2/nightowl_catches_thief_event.nut
+msgid " is exhausted"
+msgstr " 是筋疲力尽的"
+
+# scripts/events/events/dlc2/treant_vs_giants_event.nut
+msgid "A close call."
+msgstr "死里逃生。"
 
 # scripts/events/events/dlc2/collector_wants_trophy_event.nut
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "At %townname%"
 msgstr ""
 
-# scripts/events/events/dlc2/nightowl_catches_thief_event.nut
-msgid " is exhausted"
-msgstr " 是筋疲力尽的"
+# scripts/events/events/dlc2/ailing_recovers_event.nut
+msgid "Glad to hear."
+msgstr "很高兴听到。"
+
+# scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
+msgid "Grew to like "
+msgstr ""
 
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
 msgid "Nice talking."
 msgstr "说得好。"
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
-msgid "Grew to like "
+# scripts/events/events/dlc2/teamplayer_is_bro_event.nut
+# scripts/events/events/dlc2/miner_fresh_air_event.nut
+# scripts/events/events/dlc2/youngling_alp_event.nut
+msgid " gains [color="
+msgstr " 获得了 [color="
+
+# scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
+msgid " loses [color="
 msgstr ""
-
-# scripts/events/events/dlc2/treant_vs_giants_event.nut
-msgid "A close call."
-msgstr "死里逃生。"
-
-# scripts/events/events/dlc2/ailing_recovers_event.nut
-msgid "Glad to hear."
-msgstr "很高兴听到。"
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
 # scripts/events/events/dlc2/fear_greenskins_event.nut
@@ -189,32 +200,13 @@ msgstr "很高兴听到。"
 msgid "During camp..."
 msgstr "露营时…"
 
-# scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
-# scripts/events/events/dlc2/teamplayer_is_bro_event.nut
-# scripts/events/events/dlc2/miner_fresh_air_event.nut
-# scripts/events/events/dlc2/youngling_alp_event.nut
-msgid " gains [color="
-msgstr " 获得了 [color="
-
-# scripts/events/events/dlc2/spooky_forest_event.nut
-msgid "What the hell!"
-msgstr "真见鬼！"
-
-# scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
-msgid " loses [color="
-msgstr ""
-
 # scripts/events/events/dlc2/alp_nightmare1_event.nut
 msgid "What the fuck!"
 msgstr "我靠！"
 
-# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
-# scripts/events/events/dlc2/kid_blacksmith_event.nut
-# scripts/events/events/dlc2/oracle_event.nut
-# scripts/events/events/dlc2/corpses_in_forest_event.nut
-# scripts/events/events/dlc2/nightowl_catches_thief_event.nut
-msgid "[/color] Crowns"
-msgstr ""
+# scripts/events/events/dlc2/spooky_forest_event.nut
+msgid "What the hell!"
+msgstr "真见鬼！"
 
 # scripts/events/events/dlc2/oracle_event.nut
 msgid "Burn the witch!"
@@ -227,11 +219,14 @@ msgstr "不，我们没事。"
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 # scripts/events/events/dlc2/oracle_event.nut
-# scripts/events/events/dlc2/march_wear_and_tear_event.nut
 # scripts/events/events/dlc2/corpses_in_forest_event.nut
 # scripts/events/events/dlc2/nightowl_catches_thief_event.nut
-msgid "You gain [color="
-msgstr "你获得了 [color="
+msgid "[/color] Crowns"
+msgstr ""
+
+# scripts/events/events/dlc2/kid_blacksmith_event.nut
+msgid "A show's a show."
+msgstr "表演就是表演。"
 
 # scripts/events/events/dlc2/dog_in_swamp_event.nut
 # scripts/events/events/dlc2/lucky_finds_something_event.nut
@@ -245,6 +240,27 @@ msgstr "你获得了 [color="
 msgid "Along the way..."
 msgstr "在途中…"
 
+# scripts/events/events/dlc2/youngling_alp_event.nut
+msgid "By the old gods."
+msgstr "以古老神明的名义。"
+
+# scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
+msgid "Felt entertained"
+msgstr "感到愉快"
+
+# scripts/events/events/dlc2/brawl_event.nut
+msgid "Had a good brawl"
+msgstr "架打的很好"
+
+# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
+# scripts/events/events/dlc2/kid_blacksmith_event.nut
+# scripts/events/events/dlc2/oracle_event.nut
+# scripts/events/events/dlc2/march_wear_and_tear_event.nut
+# scripts/events/events/dlc2/corpses_in_forest_event.nut
+# scripts/events/events/dlc2/nightowl_catches_thief_event.nut
+msgid "You gain [color="
+msgstr "你获得了 [color="
+
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
 # scripts/events/events/dlc2/march_wear_and_tear_event.nut
@@ -255,21 +271,13 @@ msgstr "你失去了 [color="
 msgid "[/color] Resolve"
 msgstr ""
 
-# scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
-msgid "Felt entertained"
-msgstr "感到愉快"
+# scripts/events/events/dlc2/gain_addiction_event.nut
+msgid " is now an addict"
+msgstr " 现在是上瘾者"
 
-# scripts/events/events/dlc2/kid_blacksmith_event.nut
-msgid "A show's a show."
-msgstr "表演就是表演。"
-
-# scripts/events/events/dlc2/brawl_event.nut
-msgid "Had a good brawl"
-msgstr "架打的很好"
-
-# scripts/events/events/dlc2/youngling_alp_event.nut
-msgid "By the old gods."
-msgstr "以古老神明的名义。"
+# scripts/events/events/dlc2/fear_beasts_event.nut
+msgid " now fears beasts"
+msgstr " 现在害怕野兽"
 
 # scripts/events/events/dlc2/unhold_exposition_event.nut
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
@@ -281,79 +289,51 @@ msgstr "以古老神明的名义。"
 msgid "Along the road..."
 msgstr "在路上…"
 
-# scripts/events/events/dlc2/fear_beasts_event.nut
-msgid " now fears beasts"
-msgstr " 现在害怕野兽"
+# scripts/events/events/dlc2/alp_nightmare1_event.nut
+msgid "Just a bad dream."
+msgstr "仅仅是一个噩梦。"
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
 msgid "What? Let me see!"
 msgstr "什么？ 让我看看！"
 
-# scripts/events/events/dlc2/gain_addiction_event.nut
-msgid " is now an addict"
-msgstr " 现在是上瘾者"
-
-# scripts/events/events/dlc2/alp_nightmare1_event.nut
-msgid "Just a bad dream."
-msgstr "仅仅是一个噩梦。"
+# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
+msgid "Fine, let it live."
+msgstr "好吧，让它活下来。"
 
 # scripts/events/events/dlc2/treant_vs_giants_event.nut
 msgid "Prepare to attack."
 msgstr "准备攻击。"
-
-# scripts/events/events/dlc2/youngling_alp_event.nut
-msgid "[/color] Hitpoints"
-msgstr ""
-
-# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
-msgid "Fine, let it live."
-msgstr "好吧，让它活下来。"
 
 # scripts/events/events/dlc2/hate_undead_event.nut
 # scripts/events/events/dlc2/hate_greenskins_event.nut
 msgid "That's the spirit!"
 msgstr "就是这种气势！"
 
-# scripts/events/events/dlc2/hate_undead_event.nut
-# scripts/events/events/dlc2/hate_greenskins_event.nut
-msgid "After the battle..."
-msgstr "战斗之后…"
-
-# scripts/events/events/dlc2/teamplayer_is_bro_event.nut
-msgid "]+1[/color] Resolve"
+# scripts/events/events/dlc2/youngling_alp_event.nut
+msgid "[/color] Hitpoints"
 msgstr ""
 
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
 msgid " receives an injury"
 msgstr " 受到损伤"
 
-# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
-msgid "You should kill it."
-msgstr "你应该杀死它。"
+# scripts/events/events/dlc2/hate_undead_event.nut
+# scripts/events/events/dlc2/hate_greenskins_event.nut
+msgid "After the battle..."
+msgstr "战斗之后…"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "No. Run along, kid."
 msgstr "No. 快跑，孩子。"
 
-# scripts/events/events/dlc2/miner_fresh_air_event.nut
-msgid "[/color] Max Fatigue"
-msgstr ""
-
-# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
-msgid "Felt entertained by "
-msgstr "感到愉快来自 "
-
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
-msgid "I'll kill it myself."
-msgstr "我将独自杀死它。"
+msgid "You should kill it."
+msgstr "你应该杀死它。"
 
-# scripts/events/events/dlc2/lose_addiction_event.nut
-msgid "Good work being you."
-msgstr "你做的真好。"
-
-# scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
-msgid "Glad that's settled."
-msgstr "很高兴那已经解决了。"
+# scripts/events/events/dlc2/teamplayer_is_bro_event.nut
+msgid "]+1[/color] Resolve"
+msgstr ""
 
 # scripts/events/events/dlc2/ailing_recovers_event.nut
 msgid " is no longer ailing"
@@ -362,6 +342,42 @@ msgstr " 不再生病了"
 # scripts/events/events/dlc2/alp_nightmare1_event.nut
 msgid "Burn it in the fire!"
 msgstr "用火烧它！"
+
+# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
+msgid "Felt entertained by "
+msgstr "感到愉快来自 "
+
+# scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
+msgid "Glad that's settled."
+msgstr "很高兴那已经解决了。"
+
+# scripts/events/events/dlc2/lose_addiction_event.nut
+msgid "Good work being you."
+msgstr "你做的真好。"
+
+# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
+msgid "I'll kill it myself."
+msgstr "我将独自杀死它。"
+
+# scripts/events/events/dlc2/miner_fresh_air_event.nut
+msgid "[/color] Max Fatigue"
+msgstr ""
+
+# scripts/events/events/dlc2/fear_greenskins_event.nut
+msgid " now fears greenskins"
+msgstr " 现在害怕绿皮"
+
+# scripts/events/events/dlc2/fear_undead_event.nut
+msgid " now fears the undead"
+msgstr " 现在害怕亡灵"
+
+# scripts/events/events/dlc2/hate_greenskins_event.nut
+msgid " now hates greenskins"
+msgstr " 现在憎恨绿皮"
+
+# scripts/events/events/dlc2/hate_undead_event.nut
+msgid " now hates the undead"
+msgstr " 现在憎恨亡灵"
 
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 # scripts/events/events/dlc2/spooky_forest_event.nut
@@ -372,41 +388,17 @@ msgstr "用火烧它！"
 msgid " suffers light wounds"
 msgstr " 遭受轻伤"
 
-# scripts/events/events/dlc2/fear_greenskins_event.nut
-msgid " now fears greenskins"
-msgstr " 现在害怕绿皮"
+# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
+msgid "Got shit on by a bird"
+msgstr "粘到了鸟屎"
 
 # scripts/events/events/dlc2/spooky_forest_event.nut
 msgid "Let's see that blade."
 msgstr "让我们看看那把刀。"
 
-# scripts/events/events/dlc2/hate_undead_event.nut
-msgid " now hates the undead"
-msgstr " 现在憎恨亡灵"
-
-# scripts/events/events/dlc2/fear_undead_event.nut
-msgid " now fears the undead"
-msgstr " 现在害怕亡灵"
-
-# scripts/events/events/dlc2/hate_greenskins_event.nut
-msgid " now hates greenskins"
-msgstr " 现在憎恨绿皮"
-
-# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
-msgid "Got shit on by a bird"
-msgstr "粘到了鸟屎"
-
 # scripts/events/events/dlc2/alp_nightmare1_event.nut
 msgid "Someone slash it off!"
 msgstr "有人把它砍掉了！"
-
-# scripts/events/events/dlc2/oracle_event.nut
-msgid "I should stop shaving."
-msgstr "我应该停止刮胡子。"
-
-# scripts/events/events/dlc2/treant_vs_giants_event.nut
-msgid "On second thought, no."
-msgstr "再想一想，不对。"
 
 # scripts/events/events/dlc2/corpses_in_forest_event.nut
 msgid "Better not dwell here."
@@ -416,13 +408,13 @@ msgstr "最好不要住在这里。"
 msgid "Could this be an omen?"
 msgstr "这是个预兆吗？"
 
-# scripts/events/events/dlc2/alp_nightmare2_event.nut
-msgid "Maybe I just need rest."
-msgstr "可能我只是需要休息。"
+# scripts/events/events/dlc2/oracle_event.nut
+msgid "I should stop shaving."
+msgstr "我应该停止刮胡子。"
 
-# scripts/events/events/dlc2/lose_addiction_event.nut
-msgid " no longer is an addict"
-msgstr " 再也不是上瘾者了"
+# scripts/events/events/dlc2/treant_vs_giants_event.nut
+msgid "On second thought, no."
+msgstr "再想一想，不对。"
 
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
 msgid " is no longer an addict"
@@ -432,33 +424,49 @@ msgstr " 不再是上瘾者了"
 msgid " no longer fears beasts"
 msgstr " 不再害怕野兽"
 
-# scripts/events/events/dlc2/teamplayer_is_bro_event.nut
-msgid "Happy to have a bro in "
-msgstr "很高兴有个兄弟 "
-
-# scripts/events/events/dlc2/march_wear_and_tear_event.nut
-msgid "Put your boots back on."
-msgstr "穿上你的靴子。"
+# scripts/events/events/dlc2/lose_addiction_event.nut
+msgid " no longer is an addict"
+msgstr " 再也不是上瘾者了"
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid " with pinpoint accuracy"
 msgstr ""
 
-# scripts/events/events/dlc2/paranoid_bothers_others_event.nut
-msgid "Stop being so paranoid."
-msgstr "别那么多疑了。"
-
 # scripts/events/events/dlc2/nightowl_catches_thief_event.nut
 msgid "Caught a thief at night"
 msgstr "晚上抓到一个小偷"
 
-# scripts/events/events/dlc2/youngling_alp_event.nut
-msgid "]+200[/color] Experience"
+# scripts/events/events/dlc2/teamplayer_is_bro_event.nut
+msgid "Happy to have a bro in "
+msgstr "很高兴有个兄弟 "
+
+# scripts/events/events/dlc2/alp_nightmare2_event.nut
+msgid "Maybe I just need rest."
+msgstr "可能我只是需要休息。"
+
+# scripts/events/events/dlc2/march_wear_and_tear_event.nut
+msgid "Put your boots back on."
+msgstr "穿上你的靴子。"
+
+# scripts/events/events/dlc2/paranoid_bothers_others_event.nut
+msgid "Stop being so paranoid."
+msgstr "别那么多疑了。"
+
+# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
+msgid " being shat on by a bird"
 msgstr ""
+
+# scripts/events/events/dlc2/march_wear_and_tear_event.nut
+msgid "Enjoyed life on the road"
+msgstr "在路上享受生活"
 
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
 msgid "Get him out of my sight."
 msgstr "让他滚出我的视线。"
+
+# scripts/events/events/dlc2/alp_nightmare1_event.nut
+msgid "I need to get more rest."
+msgstr "我需要得到更多的休息。"
 
 # scripts/events/events/dlc2/spooky_forest_event.nut
 msgid "It's just some animal..."
@@ -468,68 +476,54 @@ msgstr "只是一些动物…"
 msgid "This ain't our business."
 msgstr "这不是我们的事。"
 
-# scripts/events/events/dlc2/march_wear_and_tear_event.nut
-msgid "Enjoyed life on the road"
-msgstr "在路上享受生活"
-
-# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
-msgid " being shat on by a bird"
-msgstr ""
-
-# scripts/events/events/dlc2/alp_nightmare1_event.nut
-msgid "I need to get more rest."
-msgstr "我需要得到更多的休息。"
-
-# scripts/events/events/dlc2/kid_blacksmith_event.nut
-msgid "Someone help the kid out."
-msgstr "有人帮帮孩子吧。"
+# scripts/events/events/dlc2/youngling_alp_event.nut
+msgid "]+200[/color] Experience"
+msgstr "]+200[/color] 经验值"
 
 # scripts/events/events/dlc2/teamplayer_is_bro_event.nut
 msgid "%teamplayer% is the best."
 msgstr "%teamplayer% 是最好的。"
 
-# scripts/events/events/dlc2/march_wear_and_tear_event.nut
-msgid "[/color] Medical Supplies."
+# scripts/events/events/dlc2/kid_blacksmith_event.nut
+msgid "Someone help the kid out."
+msgstr "有人帮帮孩子吧。"
+
+# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
+msgid "'s fine display of archery"
 msgstr ""
 
-# scripts/events/events/dlc2/addict_steals_potion_event.nut
-msgid "Was flogged on your orders"
-msgstr "被你命令鞭打了"
+# scripts/events/events/dlc2/alp_nightmare1_event.nut
+msgid "Get his body out of there!"
+msgstr "把他的尸体从那里拿走！"
+
+# scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
+msgid "Got some recognition from "
+msgstr "得到了一些认可 "
+
+# scripts/events/events/dlc2/youngling_alp_event.nut
+msgid "Had an alp invade his mind"
+msgstr "梦魇侵入了他的思想"
+
+# scripts/events/events/dlc2/treasure_in_rock_event.nut
+msgid "Luck smiles upon us today."
+msgstr "今天幸运女神向我们微笑。"
+
+# scripts/events/events/dlc2/corpses_in_forest_event.nut
+msgid "Shaken by a gruesome scene"
+msgstr "被可怕的场景惊到"
 
 # scripts/events/events/dlc2/spooky_forest_event.nut
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "So that mystery is solved."
 msgstr "所以谜团就解开了。"
 
-# scripts/events/events/dlc2/treasure_in_rock_event.nut
-msgid "Luck smiles upon us today."
-msgstr "今天幸运女神向我们微笑。"
+# scripts/events/events/dlc2/addict_steals_potion_event.nut
+msgid "Was flogged on your orders"
+msgstr "被你命令鞭打了"
 
-# scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
-msgid "Got some recognition from "
-msgstr "得到了一些认可 "
-
-# scripts/events/events/dlc2/corpses_in_forest_event.nut
-msgid "Shaken by a gruesome scene"
-msgstr "被可怕的场景惊到"
-
-# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
-msgid "'s fine display of archery"
+# scripts/events/events/dlc2/march_wear_and_tear_event.nut
+msgid "[/color] Medical Supplies."
 msgstr ""
-
-# scripts/events/events/dlc2/youngling_alp_event.nut
-msgid "Had an alp invade his mind"
-msgstr "梦魇侵入了他的思想"
-
-# scripts/events/events/dlc2/alp_nightmare1_event.nut
-msgid "Get his body out of there!"
-msgstr "把他的尸体从那里拿走！"
-
-# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
-# scripts/events/events/dlc2/oracle_event.nut
-# scripts/events/events/dlc2/corpses_in_forest_event.nut
-msgid "Let's get back on the road."
-msgstr "让我们回到路上."
 
 # scripts/events/events/dlc2/lose_fear_greenskins_event.nut
 msgid " no longer fears greenskins"
@@ -539,9 +533,11 @@ msgstr " 不再害怕绿皮"
 msgid " no longer fears the undead"
 msgstr " 不再害怕亡灵"
 
-# scripts/events/events/dlc2/treasure_in_rock_event.nut
-msgid "[/color] Tools and Supplies."
-msgstr ""
+# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
+# scripts/events/events/dlc2/oracle_event.nut
+# scripts/events/events/dlc2/corpses_in_forest_event.nut
+msgid "Let's get back on the road."
+msgstr "让我们回到路上."
 
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 msgid "Alright, uh, good luck then."
@@ -550,6 +546,14 @@ msgstr "好吧，呃，祝你好运。"
 # scripts/events/events/dlc2/march_wear_and_tear_event.nut
 msgid "Put your damn boots back on."
 msgstr "穿上你那该死的靴子。"
+
+# scripts/events/events/dlc2/treasure_in_rock_event.nut
+msgid "[/color] Tools and Supplies."
+msgstr ""
+
+# scripts/events/events/dlc2/youngling_alp_event.nut
+msgid "Dispatched of a youngling alp"
+msgstr "派出没有经验的梦魇"
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
 msgid "I should have taken action..."
@@ -563,58 +567,41 @@ msgstr "如果它流血了，我们可以杀了它。"
 msgid "Well, I guess that's settled."
 msgstr "好吧，我想已经解决了。"
 
-# scripts/events/events/dlc2/youngling_alp_event.nut
-msgid "Dispatched of a youngling alp"
-msgstr "派出没有经验的梦魇"
-
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "I thought you studied baskets?"
 msgstr "我想你学过投篮？"
-
-# scripts/events/events/dlc2/dog_in_swamp_event.nut
-msgid "What a shame. And what a gain!"
-msgstr "真可惜。 多大的收获啊！"
-
-# scripts/events/events/dlc2/oracle_event.nut
-msgid "Tell me my fortune, old woman."
-msgstr "告诉我我的命运，老太婆。"
-
-# scripts/events/events/dlc2/brawl_event.nut
-msgid "Nothing like a good brawl, eh?"
-msgstr "没有什么比打架更好的了，嗯？"
 
 # scripts/events/events/dlc2/paranoid_bothers_others_event.nut
 msgid "Is paranoid about his comrades"
 msgstr "猜疑他的战友们"
 
+# scripts/events/events/dlc2/brawl_event.nut
+msgid "Nothing like a good brawl, eh?"
+msgstr "没有什么比打架更好的了，嗯？"
+
+# scripts/events/events/dlc2/oracle_event.nut
+msgid "Tell me my fortune, old woman."
+msgstr "告诉我我的命运，老太婆。"
+
+# scripts/events/events/dlc2/dog_in_swamp_event.nut
+msgid "What a shame. And what a gain!"
+msgstr "真可惜。 多大的收获啊！"
+
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
 msgid "Appalled by your order to have "
 msgstr ""
-
-# scripts/events/events/dlc2/alp_nightmare2_event.nut
-msgid "Perhaps I should sleep instead."
-msgstr "也许我该睡觉了。"
-
-# scripts/events/events/dlc2/dog_in_swamp_event.nut
-msgid "Maybe our houndmaster can help?"
-msgstr "也许我们的驯兽师能帮忙？"
 
 # scripts/events/events/dlc2/treant_vs_giants_event.nut
 msgid "Let's get the hell out of here."
 msgstr "让我们离开这个鬼地方吧。"
 
-# scripts/events/events/dlc2/alp_nightmare2_event.nut
-msgid "Maybe two or three drinks, even."
-msgstr "可能会喝两三杯。"
-
-# scripts/events/events/dlc2/alp_nightmare2_event.nut
-# scripts/events/events/dlc2/addict_steals_potion_event.nut
-msgid "I just hope you'll heal in time."
-msgstr "我只希望你能及时康复。"
-
 # scripts/events/events/dlc2/dog_in_swamp_event.nut
-msgid "Men, we've got to help that dog!"
-msgstr "伙计们，我们得帮帮那条狗！"
+msgid "Maybe our houndmaster can help?"
+msgstr "也许我们的驯兽师能帮忙？"
+
+# scripts/events/events/dlc2/alp_nightmare2_event.nut
+msgid "Perhaps I should sleep instead."
+msgstr "也许我该睡觉了。"
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
 msgid "Come on, %hedgeknight%. Stop it!"
@@ -626,8 +613,20 @@ msgstr "你怎么老是把那个放错地方？"
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
-msgid "This needs to stop now, %addict%."
-msgstr "现在需要停止，%addict%。"
+msgid "I just hope you'll heal in time."
+msgstr "我只希望你能及时康复。"
+
+# scripts/events/events/dlc2/alp_nightmare2_event.nut
+msgid "Maybe two or three drinks, even."
+msgstr "可能会喝两三杯。"
+
+# scripts/events/events/dlc2/dog_in_swamp_event.nut
+msgid "Men, we've got to help that dog!"
+msgstr "伙计们，我们得帮帮那条狗！"
+
+# scripts/events/events/dlc2/dog_in_swamp_event.nut
+msgid "I think I'll name you... Swimmer."
+msgstr "我想我会给你起名的…游泳者。"
 
 # scripts/events/events/dlc2/fear_greenskins_event.nut
 # scripts/events/events/dlc2/fear_beasts_event.nut
@@ -635,9 +634,10 @@ msgstr "现在需要停止，%addict%。"
 msgid "This is taking a toll on the men."
 msgstr "这对这些人来说是个损失。"
 
-# scripts/events/events/dlc2/dog_in_swamp_event.nut
-msgid "I think I'll name you... Swimmer."
-msgstr "我想我会给你起名的…游泳者。"
+# scripts/events/events/dlc2/alp_nightmare2_event.nut
+# scripts/events/events/dlc2/addict_steals_potion_event.nut
+msgid "This needs to stop now, %addict%."
+msgstr "现在需要停止，%addict%。"
 
 # scripts/events/events/dlc2/lose_fear_undead_event.nut
 msgid "This world belongs to the living."
@@ -679,14 +679,6 @@ msgstr ""
 msgid "Alright I'll pay a bit to have a look."
 msgstr "好吧，我花点钱去看看。"
 
-# scripts/events/events/dlc2/kid_blacksmith_event.nut
-msgid "Looks like %killer% wants to help you."
-msgstr "看来 %killer% 想帮你。"
-
-# scripts/events/events/dlc2/dog_in_swamp_event.nut
-msgid "Well, that was a whorthwile endeavour."
-msgstr "好吧，那是一种欺骗的行为。"
-
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
 msgid "Got humiliated in front of the company"
 msgstr "在战队面前受到羞辱"
@@ -696,12 +688,12 @@ msgid "Got revenge on a bird that shat on him"
 msgstr "报复一只鸟"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
-msgid "You're a killer with the kid, %killer%."
-msgstr "你是一个孩子的杀人犯，%killer%。"
+msgid "Looks like %killer% wants to help you."
+msgstr "看来 %killer% 想帮你。"
 
-# scripts/events/events/dlc2/kid_blacksmith_event.nut
-msgid "Looks like %juggler% wants to help you."
-msgstr "看来 %juggler% 想帮你。"
+# scripts/events/events/dlc2/dog_in_swamp_event.nut
+msgid "Well, that was a whorthwile endeavour."
+msgstr "好吧，那是一种欺骗的行为。"
 
 # scripts/events/events/dlc2/monk_crafts_holy_water_event.nut
 msgid "Even holy men have tricks of the trade."
@@ -711,57 +703,65 @@ msgstr "即使是圣人也有交易的技俩。"
 msgid "Exacted revenge on a bird that shat on "
 msgstr ""
 
+# scripts/events/events/dlc2/kid_blacksmith_event.nut
+msgid "Looks like %juggler% wants to help you."
+msgstr "看来 %juggler% 想帮你。"
+
 # scripts/events/events/dlc2/youngling_alp_event.nut
 msgid "What is %flagellant% saying about this?"
 msgstr "%flagellant% 是怎么说的？"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
-msgid "Brought his blacksmithing skills to bear"
-msgstr "带着他的铁匠技能去承受"
+msgid "You're a killer with the kid, %killer%."
+msgstr "你是一个孩子的杀人犯，%killer%。"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
-msgid "You should probably stay low for awhile."
-msgstr "你应该保持低调一段时间。"
-
-# scripts/events/events/dlc2/spooky_forest_event.nut
-msgid "Well, that was a worthwhile endeavour..."
-msgstr "好吧，这是一项值得努力的工作…"
+msgid "Brought his blacksmithing skills to bear"
+msgstr "带着他的铁匠技能去承受"
 
 # scripts/events/events/dlc2/corpses_in_forest_event.nut
 msgid "Maybe there's something useful in there."
 msgstr "也许里面有些有用的东西。"
 
-# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
-msgid "You'll be splitting that with the company."
-msgstr "你会和同伴分道扬镳的。"
+# scripts/events/events/dlc2/spooky_forest_event.nut
+msgid "Well, that was a worthwhile endeavour..."
+msgstr "好吧，这是一项值得努力的工作…"
+
+# scripts/events/events/dlc2/kid_blacksmith_event.nut
+msgid "You should probably stay low for awhile."
+msgstr "你应该保持低调一段时间。"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "Looks like %apprentice% wants to help you."
 msgstr "看来 %apprentice% 想帮你。"
 
-# scripts/events/events/dlc2/kid_blacksmith_event.nut
-msgid "What a relief, nothing seems to be missing."
-msgstr "真让人宽慰，似乎没有什么遗漏。"
+# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
+msgid "You'll be splitting that with the company."
+msgstr "你会和同伴分道扬镳的。"
+
+# scripts/events/events/dlc2/march_wear_and_tear_event.nut
+msgid "Now that's a magician if I've ever see one."
+msgstr "如果我以前见过的话现在那是一个魔法师。"
 
 # scripts/events/events/dlc2/miner_fresh_air_event.nut
 msgid "There's a fresh breeze coming from the sea."
 msgstr "从海上吹来一阵清新的微风。"
 
-# scripts/events/events/dlc2/march_wear_and_tear_event.nut
-msgid "Now that's a magician if I've ever see one."
-msgstr "如果我以前见过的话现在那是一个魔法师。"
+# scripts/events/events/dlc2/kid_blacksmith_event.nut
+msgid "What a relief, nothing seems to be missing."
+msgstr "真让人宽慰，似乎没有什么遗漏。"
 
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
 msgid "Some miner's expertise could be of use here."
 msgstr "可以在这里使用一些矿工的专业知识。"
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
-msgid "Yeah, don't dwell on it and let's get going."
-msgstr "是啊，别老想着了，我们走吧。"
-
-# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "Someone bring down that plumed transgressor!"
 msgstr "有人打倒了那个冒失的家伙！"
+
+# scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
+msgid "Yeah, don't dwell on it and let's get going."
+msgstr "是啊，别老想着了，我们走吧。"
 
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
 msgid "Any of you tiny enough to fit into that hole?"
@@ -771,18 +771,22 @@ msgstr "你们中有谁小到能钻进那个洞里？"
 msgid "Used his unique stature to benefit the company"
 msgstr "利用他独特的身材造福战队"
 
+# scripts/events/events/dlc2/spooky_forest_event.nut
+msgid "Better safe than sorry. We'll cut down the tree."
+msgstr "安全总比粗心大意好。 我们要砍倒这棵树。"
+
 # scripts/events/events/dlc2/unhold_exposition_event.nut
 # scripts/events/events/dlc2/webknecht_exposition_event.nut
 msgid "Someone ought to pay us for taking care of them."
 msgstr "有人应该付钱让我们照顾他们。"
 
-# scripts/events/events/dlc2/spooky_forest_event.nut
-msgid "Better safe than sorry. We'll cut down the tree."
-msgstr "安全总比粗心大意好。 我们要砍倒这棵树。"
-
 # scripts/events/events/dlc2/gain_addiction_event.nut
 msgid "The road takes its toll, but can the men manage?"
 msgstr "这条路要收费，但这些人能应付吗？"
+
+# scripts/events/events/dlc2/schrat_exposition_event.nut
+msgid "An enemy such as this shouldn't be taken lightly."
+msgstr "不应该轻视像这样的敌人。"
 
 # scripts/events/events/dlc2/dog_in_swamp_event.nut
 msgid "Maybe I can use one of our nets to save that dog."
@@ -792,56 +796,52 @@ msgstr "也许我可以用我们的网来救那条狗。"
 msgid "Used his mining experience to benefit the company"
 msgstr "利用他的采矿经验使战队受益"
 
-# scripts/events/events/dlc2/schrat_exposition_event.nut
-msgid "An enemy such as this shouldn't be taken lightly."
-msgstr "不应该轻视像这样的敌人。"
-
 # scripts/events/events/dlc2/spooky_forest_event.nut
 msgid "Concerned that you didn't act on a possible threat"
 msgstr "担心你没有对可能的威胁采取行动"
-
-# scripts/events/events/dlc2/treasure_in_rock_event.nut
-msgid "That's not what we're after. Get ready to move on."
-msgstr "这不是我们想要的。 准备好继续前进。"
 
 # scripts/events/events/dlc2/march_wear_and_tear_event.nut
 msgid "Fashioned himself something nice from cloth scraps"
 msgstr "用布屑给自己做点好东西"
 
+# scripts/events/events/dlc2/treasure_in_rock_event.nut
+msgid "That's not what we're after. Get ready to move on."
+msgstr "这不是我们想要的。 准备好继续前进。"
+
 # scripts/events/events/dlc2/spooky_forest_event.nut
 msgid "It's just some animal. Get back to doing your jobs."
 msgstr "只是一些动物。回去做你的工作吧。"
-
-# scripts/events/events/dlc2/march_wear_and_tear_event.nut
-msgid "You've traveled the world, %travelbro%. Suggestions?"
-msgstr "你周游了世界，%travelbro%。建议？"
 
 # scripts/events/events/dlc2/youngling_alp_event.nut
 msgid "Emboldened by learning of the weakness of young alps"
 msgstr "通过学习年轻梦魇的弱点而变得胆大"
 
-# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
-# scripts/events/events/dlc2/youngling_alp_event.nut
-msgid "You let some alp live which may haunt the company later"
-msgstr "你让梦魇活下来，以后可能会闹鬼"
+# scripts/events/events/dlc2/march_wear_and_tear_event.nut
+msgid "You've traveled the world, %travelbro%. Suggestions?"
+msgstr "你周游了世界，%travelbro%。建议？"
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
 msgid "Enough. I'll have this bloody demon whipped out of you!"
 msgstr "够了。 我要把这个该死的恶魔从你身上赶出来！"
 
+# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
+# scripts/events/events/dlc2/youngling_alp_event.nut
+msgid "You let some alp live which may haunt the company later"
+msgstr "你让梦魇活下来，以后可能会闹鬼"
+
 # scripts/events/events/dlc2/spooky_forest_event.nut
 msgid "%lumberjack%, you know well how to bring down trees. Do it."
 msgstr "%lumberjack%，你很清楚如何砍伐树木。 去做吧。"
+
+# scripts/events/events/dlc2/petrified_scream_event.nut
+msgid "Concerned about carrying around a Petrified Scream artifact"
+msgstr "担心带着一个能吓得人尖叫的神器"
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
 # scripts/events/events/dlc2/march_wear_and_tear_event.nut
 msgid "Wait. %streetrat%, you look like you have something to say?"
 msgstr "等等。 %streetrat%，你看起来有话要说？"
-
-# scripts/events/events/dlc2/petrified_scream_event.nut
-msgid "Concerned about carrying around a Petrified Scream artifact"
-msgstr "担心带着一个能吓得人尖叫的神器"
 
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 # scripts/events/events/dlc2/youngling_alp_event.nut
@@ -1084,6 +1084,13 @@ msgstr ""
 "he's got. He grins.%SPEECH_ON%The darndest thing，先生。%SPEECH_OFF%A few armed "
 "men stand off a ways, no doubt a part of whatever scheme is in play here.}"
 
+# scripts/events/events/dlc2/spooky_forest_event.nut
+msgid ""
+"[img]gfx/ui/events/event_25.png[/img]You order the company to chop the tree down. They get to the task, though there's little experience in doing it and the end result is a frantic run for safety as the trunk comes barreling down in an unexpected direction. A very frightened black bear bolts off the treetop. It has a honeycomb for a snout and huffs its way into the dark of the forest.\n"
+"\n"
+" No one is crushed, but the chaos and debris leaves a few of the men worse for the wear."
+msgstr ""
+
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 msgid ""
 "[img]gfx/ui/events/event_51.png[/img]{You're not going to bother quarreling "
@@ -1093,13 +1100,6 @@ msgid ""
 "idea of an alp allowed to live, especially as the creature gazed its "
 "faceless stares upon a number of them and seemed to nod as though it'd be "
 "seeing them at a later juncture.}"
-msgstr ""
-
-# scripts/events/events/dlc2/spooky_forest_event.nut
-msgid ""
-"[img]gfx/ui/events/event_25.png[/img]You order the company to chop the tree down. They get to the task, though there's little experience in doing it and the end result is a frantic run for safety as the trunk comes barreling down in an unexpected direction. A very frightened black bear bolts off the treetop. It has a honeycomb for a snout and huffs its way into the dark of the forest.\n"
-"\n"
-" No one is crushed, but the chaos and debris leaves a few of the men worse for the wear."
 msgstr ""
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
@@ -1448,19 +1448,6 @@ msgstr ""
 "not entirely sure what it is, but figure it wouldn't hurt to take it along. "
 "Maybe some trader will find it interesting.}"
 
-# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
-msgid ""
-"[img]gfx/ui/events/event_60.png[/img]{You grab a spear from one of the "
-"guards and throw it into the pit, striking the alp through its brainpan. Its"
-" pale flesh deflates around the spear shaft as though you'd struck down an "
-"enormous curtain. The monster enslaver draws a dagger and goes to stab you. "
-"%randombrother% parries the blow and cuts the man across the throat. A few "
-"guards dive into the fray, all of them dying in quick and hurried fashion, "
-"though a few of the mercenaries get hurt in the fracas. With the violence "
-"over, you collect whatever gold the enslaver had on him. You have the bodies"
-" dumped into the hole with the dead alp and then fill it up.}"
-msgstr ""
-
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
 msgid ""
 "[img]gfx/ui/events/event_39.png[/img]{You bow your head to the earth, "
@@ -1472,6 +1459,19 @@ msgid ""
 " the shadow departed. You cannot find it nor any footprint and, not wishing "
 "to scare %addict% any further, you tell the sellsword to keep a watchful eye"
 " on the perimeter. Yourself, you go to your tent for a drink.}"
+msgstr ""
+
+# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
+msgid ""
+"[img]gfx/ui/events/event_60.png[/img]{You grab a spear from one of the "
+"guards and throw it into the pit, striking the alp through its brainpan. Its"
+" pale flesh deflates around the spear shaft as though you'd struck down an "
+"enormous curtain. The monster enslaver draws a dagger and goes to stab you. "
+"%randombrother% parries the blow and cuts the man across the throat. A few "
+"guards dive into the fray, all of them dying in quick and hurried fashion, "
+"though a few of the mercenaries get hurt in the fracas. With the violence "
+"over, you collect whatever gold the enslaver had on him. You have the bodies"
+" dumped into the hole with the dead alp and then fill it up.}"
 msgstr ""
 
 # scripts/events/events/dlc2/lose_fear_undead_event.nut

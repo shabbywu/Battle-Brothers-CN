@@ -2,14 +2,14 @@
 msgid ""
 msgstr ""
 
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "Alps"
+msgstr "夢魘"
+
 # scripts/factions/actions/move_orcs_action.nut
 # scripts/factions/actions/defend_orcs_action.nut
 msgid "Orcs"
 msgstr "兽人"
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Alps"
-msgstr "夢魘"
 
 # scripts/factions/actions/receive_ship_action.nut
 # scripts/factions/actions/send_ship_action.nut
@@ -21,8 +21,22 @@ msgid "Hexen"
 msgstr "女巫"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
+msgid "Hyenas"
+msgstr "鬣狗"
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "Ifrits"
+msgstr "伊夫利特"
+
+# scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Kraken"
 msgstr "海妖"
+
+# scripts/factions/actions/send_nomad_roamers_action.nut
+# scripts/factions/actions/send_nomad_ambushers_action.nut
+# scripts/factions/actions/defend_nomad_action.nut
+msgid "Nomads"
+msgstr "游牧民族"
 
 # scripts/factions/actions/defend_undead_action.nut
 # scripts/factions/actions/move_undead_action.nut
@@ -32,20 +46,6 @@ msgstr "海妖"
 msgid "Undead"
 msgstr "亡灵"
 
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Ifrits"
-msgstr "伊夫利特"
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Hyenas"
-msgstr "鬣狗"
-
-# scripts/factions/actions/send_nomad_roamers_action.nut
-# scripts/factions/actions/send_nomad_ambushers_action.nut
-# scripts/factions/actions/defend_nomad_action.nut
-msgid "Nomads"
-msgstr "游牧民族"
-
 # scripts/factions/actions/move_goblins_action.nut
 # scripts/factions/actions/defend_goblins_action.nut
 msgid "Goblins"
@@ -54,27 +54,6 @@ msgstr "地精"
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Schrats"
 msgstr "树人"
-
-# scripts/factions/actions/send_refugees_action.nut
-msgid "Refugees"
-msgstr "难民"
-
-# scripts/factions/actions/send_peasants_action.nut
-msgid "Citizens"
-msgstr "公民"
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "Serpents"
-msgstr "蛇"
-
-# scripts/factions/actions/send_bandit_ambushers_action.nut
-# scripts/factions/actions/defend_bandits_action.nut
-msgid "Brigands"
-msgstr "强盗"
-
-# scripts/factions/actions/send_peasants_action.nut
-msgid "Peasants"
-msgstr "农民"
 
 # scripts/factions/actions/move_troops_action.nut
 # scripts/factions/actions/patrol_roads_action.nut
@@ -88,6 +67,33 @@ msgstr ""
 msgid " Militia"
 msgstr ""
 
+# scripts/factions/actions/send_bandit_ambushers_action.nut
+# scripts/factions/actions/defend_bandits_action.nut
+msgid "Brigands"
+msgstr "强盗"
+
+# scripts/factions/actions/send_peasants_action.nut
+msgid "Citizens"
+msgstr "公民"
+
+# scripts/factions/actions/send_peasants_action.nut
+msgid "Peasants"
+msgstr "农民"
+
+# scripts/factions/actions/send_refugees_action.nut
+msgid "Refugees"
+msgstr "难民"
+
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "Serpents"
+msgstr "蛇"
+
+# scripts/factions/actions/defend_barbarians_action.nut
+# scripts/factions/actions/send_barbarian_roamers_action.nut
+# scripts/factions/actions/send_barbarian_ambushers_action.nut
+msgid "Barbarians"
+msgstr "野蛮人"
+
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Direwolves"
 msgstr "冰原狼"
@@ -95,12 +101,6 @@ msgstr "冰原狼"
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Webknechts"
 msgstr "蛛魔"
-
-# scripts/factions/actions/defend_barbarians_action.nut
-# scripts/factions/actions/send_barbarian_roamers_action.nut
-# scripts/factions/actions/send_barbarian_ambushers_action.nut
-msgid "Barbarians"
-msgstr "野蛮人"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Nachzehrers"
@@ -121,25 +121,25 @@ msgstr ""
 msgid "Orc Marauders"
 msgstr "兽人收割者"
 
-# scripts/factions/actions/send_supplies_action.nut
-msgid "Supply Caravan"
-msgstr "供应商队"
+# scripts/factions/actions/send_goblin_roamers_action.nut
+msgid "Goblin Hunters"
+msgstr ""
 
 # scripts/factions/actions/send_goblin_ambushers_action.nut
 msgid "Goblin Raiders"
 msgstr ""
 
-# scripts/factions/actions/send_goblin_roamers_action.nut
-msgid "Goblin Hunters"
+# scripts/factions/actions/send_supplies_action.nut
+msgid "Supply Caravan"
+msgstr "供应商队"
+
+# scripts/factions/actions/send_bandit_roamers_action.nut
+msgid "Brigand Hunters"
 msgstr ""
 
 # scripts/factions/actions/send_greenskin_army_action.nut
 msgid "Greenskin Horde"
 msgstr "大群绿皮"
-
-# scripts/factions/actions/send_bandit_roamers_action.nut
-msgid "Brigand Hunters"
-msgstr ""
 
 # scripts/factions/actions/send_caravan_action.nut
 msgid "Trading Caravan"
@@ -183,13 +183,13 @@ msgstr ""
 msgid "A tentacled horror from another age."
 msgstr "来自另一个时代的有触角的恐怖生物。"
 
-# scripts/factions/actions/send_greenskin_army_action.nut
-msgid "A horde of greenskins marching to war."
-msgstr "一大群绿皮向战场进军。"
-
 # scripts/factions/actions/send_barbarian_roamers_action.nut
 msgid "A band of barbarians out to hunt game."
 msgstr ""
+
+# scripts/factions/actions/send_greenskin_army_action.nut
+msgid "A horde of greenskins marching to war."
+msgstr "一大群绿皮向战场进军。"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "A swarm of webknechts skittering about."
@@ -204,16 +204,16 @@ msgstr "运送货物和乘客的船。"
 msgid "Pale and haggard creatures creeping around."
 msgstr "苍白而憔悴的生物在四处爬行。"
 
+# scripts/factions/actions/send_beast_roamers_action.nut
+msgid "A pack of esurient hyenas on the hunt for prey."
+msgstr "一群贪婪的鬣狗在捕猎猎物。"
+
 # scripts/factions/actions/defend_citystate_action.nut
 # scripts/factions/actions/send_citystate_holysite_action.nut
 # scripts/factions/actions/send_citystate_army_action.nut
 # scripts/factions/actions/patrol_area_action.nut
 msgid "Conscripted soldiers loyal to their city state."
 msgstr "忠于城邦的应征士兵。"
-
-# scripts/factions/actions/send_beast_roamers_action.nut
-msgid "A pack of esurient hyenas on the hunt for prey."
-msgstr "一群贪婪的鬣狗在捕猎猎物。"
 
 # scripts/factions/actions/move_troops_action.nut
 # scripts/factions/actions/patrol_roads_action.nut

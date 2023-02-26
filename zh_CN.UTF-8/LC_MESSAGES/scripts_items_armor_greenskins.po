@@ -21,13 +21,13 @@ msgstr "重甲"
 msgid "Light Armor"
 msgstr "轻甲"
 
-# scripts/items/armor/greenskins/goblin_shaman_armor.nut
-msgid "Ritual Armor"
-msgstr "仪式盔甲"
-
 # scripts/items/armor/greenskins/goblin_medium_armor.nut
 msgid "Medium Armor"
 msgstr "中甲"
+
+# scripts/items/armor/greenskins/goblin_shaman_armor.nut
+msgid "Ritual Armor"
+msgstr "仪式盔甲"
 
 # scripts/items/armor/greenskins/orc_berserker_light_armor.nut
 msgid "Trophy Bones"
@@ -37,13 +37,13 @@ msgstr "骨质战利品"
 msgid "Skirmisher Armor"
 msgstr "散兵护甲"
 
-# scripts/items/armor/greenskins/orc_warrior_light_armor.nut
-msgid "Looted Scale Armor"
-msgstr "掠夺者鳞甲"
-
 # scripts/items/armor/greenskins/orc_warrior_heavy_armor.nut
 msgid "Looted Plate Armor"
 msgstr "掠夺者板甲"
+
+# scripts/items/armor/greenskins/orc_warrior_light_armor.nut
+msgid "Looted Scale Armor"
+msgstr "掠夺者鳞甲"
 
 # scripts/items/armor/greenskins/orc_warrior_medium_armor.nut
 msgid "Looted Reinforced Mail"

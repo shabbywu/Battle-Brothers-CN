@@ -7,24 +7,12 @@ msgid "'s "
 msgstr "的"
 
 # scripts/items/helmets/hood.nut
-msgid "hood"
-msgstr ""
-
-# scripts/items/helmets/hood.nut
 msgid "Hood"
 msgstr "兜帽"
 
 # scripts/items/helmets/helmet.nut
 msgid "helmet"
 msgstr ""
-
-# scripts/items/helmets/mail_coif.nut
-msgid "Mail Coif"
-msgstr "链甲盔"
-
-# scripts/items/helmets/straw_hat.nut
-msgid "Straw Hat"
-msgstr "草帽"
 
 # scripts/items/helmets/dark_cowl.nut
 msgid "Dark Cowl"
@@ -38,17 +26,25 @@ msgstr "全密封头盔"
 msgid "Headscarf"
 msgstr "头巾"
 
-# scripts/items/helmets/headscarf.nut
-msgid "headscarf"
-msgstr ""
+# scripts/items/helmets/mail_coif.nut
+msgid "Mail Coif"
+msgstr "链甲盔"
+
+# scripts/items/helmets/straw_hat.nut
+msgid "Straw Hat"
+msgstr "草帽"
+
+# scripts/items/helmets/aketon_cap.nut
+msgid "Aketon Cap"
+msgstr "衬甲帽"
 
 # scripts/items/helmets/kettle_hat.nut
 msgid "Kettle hat"
 msgstr "锅盔"
 
-# scripts/items/helmets/aketon_cap.nut
-msgid "Aketon Cap"
-msgstr "衬甲帽"
+# scripts/items/helmets/mouth_piece.nut
+msgid "Mouth Piece"
+msgstr "面巾"
 
 # scripts/items/helmets/helmet.nut
 msgid "[/b] damage"
@@ -58,9 +54,9 @@ msgstr ""
 msgid "progressbar"
 msgstr ""
 
-# scripts/items/helmets/mouth_piece.nut
-msgid "Mouth Piece"
-msgstr "面巾"
+# scripts/items/helmets/cultist_hood.nut
+msgid "Cultist Hood"
+msgstr "异教徒兜帽"
 
 # scripts/items/helmets/hunters_hat.nut
 msgid "Hunter's Hat"
@@ -70,17 +66,17 @@ msgstr "皮猎帽"
 msgid "Jester's Hat"
 msgstr "小丑帽"
 
+# scripts/items/helmets/nasal_helmet.nut
+msgid "Nasal Helmet"
+msgstr "鼻翼盔"
+
 # scripts/items/helmets/wizard_hat.nut
 msgid "Wizard's Hat"
 msgstr "术士帽"
 
-# scripts/items/helmets/cultist_hood.nut
-msgid "Cultist Hood"
-msgstr "异教徒兜帽"
-
-# scripts/items/helmets/nasal_helmet.nut
-msgid "Nasal Helmet"
-msgstr "鼻翼盔"
+# scripts/items/helmets/greatsword_hat.nut
+msgid "Duelist's Hat"
+msgstr "决斗皮帽"
 
 # scripts/items/helmets/feathered_hat.nut
 msgid "Feathered Hat"
@@ -89,10 +85,6 @@ msgstr "飞羽帽"
 # scripts/items/helmets/nordic_helmet.nut
 msgid "Nordic Helmet"
 msgstr ""
-
-# scripts/items/helmets/greatsword_hat.nut
-msgid "Duelist's Hat"
-msgstr "决斗皮帽"
 
 # scripts/items/helmets/sallet_helmet.nut
 msgid "Sallet Helmet"
@@ -110,25 +102,25 @@ msgstr ""
 msgid " is hit for [b]"
 msgstr ""
 
-# scripts/items/helmets/helmet.nut
-msgid "armor-head-slim"
-msgstr ""
-
-# scripts/items/helmets/rusty_mail_coif.nut
-msgid "Rusty Mail Coif"
-msgstr "生锈的链甲盔"
+# scripts/items/helmets/flat_top_helmet.nut
+msgid "Flat Top Helmet"
+msgstr "平顶盔"
 
 # scripts/items/helmets/full_aketon_cap.nut
 msgid "Full Aketon Cap"
 msgstr "全皮帽"
 
-# scripts/items/helmets/flat_top_helmet.nut
-msgid "Flat Top Helmet"
-msgstr "平顶盔"
-
 # scripts/items/helmets/heavy_mail_coif.nut
 msgid "Heavy Mail Coif"
 msgstr "沉重的链甲盔"
+
+# scripts/items/helmets/rusty_mail_coif.nut
+msgid "Rusty Mail Coif"
+msgstr "生锈的链甲盔"
+
+# scripts/items/helmets/helmet.nut
+msgid "armor-head-slim"
+msgstr ""
 
 # scripts/items/helmets/closed_mail_coif.nut
 msgid "Closed Mail Coif"
@@ -138,29 +130,21 @@ msgstr "全链甲头盔"
 msgid "Full Leather Cap"
 msgstr "强化全皮帽"
 
-# scripts/items/helmets/undertaker_hat.nut
-msgid "Undertaker's Hat"
-msgstr "送葬者帽"
+# scripts/items/helmets/open_leather_cap.nut
+msgid "Open Leather Cap"
+msgstr "开放式皮帽"
 
 # scripts/items/helmets/physician_mask.nut
 msgid "Physician's Mask"
 msgstr "疫医面具"
 
-# scripts/items/helmets/open_leather_cap.nut
-msgid "Open Leather Cap"
-msgstr "开放式皮帽"
-
-# scripts/items/helmets/witchhunter_hat.nut
-msgid "Witchhunter's Hat"
-msgstr "女巫猎人的帽子"
+# scripts/items/helmets/undertaker_hat.nut
+msgid "Undertaker's Hat"
+msgstr "送葬者帽"
 
 # scripts/items/helmets/adorned_full_helm.nut
 msgid "Adorned Full Helm"
 msgstr "装饰全密封头盔"
-
-# scripts/items/helmets/padded_kettle_hat.nut
-msgid "Padded Kettle hat"
-msgstr "棉内衬锅盔"
 
 # scripts/items/helmets/decayed_full_helm.nut
 msgid "Decayed Full Helm"
@@ -170,69 +154,77 @@ msgstr "腐朽的全密封头盔"
 msgid "Only take [color="
 msgstr ""
 
+# scripts/items/helmets/padded_kettle_hat.nut
+msgid "Padded Kettle hat"
+msgstr "棉内衬锅盔"
+
+# scripts/items/helmets/witchhunter_hat.nut
+msgid "Witchhunter's Hat"
+msgstr "女巫猎人的帽子"
+
 # scripts/items/helmets/bascinet_with_mail.nut
 msgid "Bascinet with Mail"
 msgstr "覆面式链甲盔"
-
-# scripts/items/helmets/flat_top_with_mail.nut
-msgid "Flat Top with Mail"
-msgstr "链甲平顶盔"
 
 # scripts/items/helmets/decayed_great_helm.nut
 msgid "Decayed Great Helm"
 msgstr "腐朽的卓越头盔"
 
-# scripts/items/helmets/greatsword_faction_helm.nut
-msgid "Zweihander's Helmet"
-msgstr "双手剑士的头盔"
-
-# scripts/items/helmets/faction_helm.nut
-msgid "Decorated Full Helm"
-msgstr "装饰的全密封头盔"
+# scripts/items/helmets/flat_top_with_mail.nut
+msgid "Flat Top with Mail"
+msgstr "链甲平顶盔"
 
 # scripts/items/helmets/aketon_cap.nut
 msgid "A padded cloth cap."
 msgstr "一种有衬里的布垫帽。"
 
+# scripts/items/helmets/faction_helm.nut
+msgid "Decorated Full Helm"
+msgstr "装饰的全密封头盔"
+
 # scripts/items/helmets/padded_nasal_helmet.nut
 msgid "Padded Nasal Helmet"
 msgstr "棉内衬鼻翼盔"
 
-# scripts/items/helmets/masked_kettle_helmet.nut
-msgid "Masked Kettle Helmet"
-msgstr "带面具的锅盔"
-
-# scripts/items/helmets/kettle_hat_with_mail.nut
-msgid "Kettle Hat with Mail"
-msgstr "链甲锅盔"
+# scripts/items/helmets/greatsword_faction_helm.nut
+msgid "Zweihander's Helmet"
+msgstr "双手剑士的头盔"
 
 # scripts/items/helmets/cultist_leather_hood.nut
 msgid "Cultist Leather Hood"
 msgstr "异教徒皮帽"
 
+# scripts/items/helmets/kettle_hat_with_mail.nut
+msgid "Kettle Hat with Mail"
+msgstr "链甲锅盔"
+
+# scripts/items/helmets/masked_kettle_helmet.nut
+msgid "Masked Kettle Helmet"
+msgstr "带面具的锅盔"
+
 # scripts/items/helmets/reinforced_mail_coif.nut
 msgid "Reinforced Mail Coif"
 msgstr "强化链甲盔"
-
-# scripts/items/helmets/nasal_helmet_with_mail.nut
-msgid "Nasal Helmet with Mail"
-msgstr "链甲鼻翼盔"
 
 # scripts/items/helmets/closed_flat_top_helmet.nut
 msgid "Closed Flat Top Helmet"
 msgstr "覆面平顶盔"
 
+# scripts/items/helmets/nasal_helmet_with_mail.nut
+msgid "Nasal Helmet with Mail"
+msgstr "链甲鼻翼盔"
+
 # scripts/items/helmets/padded_flat_top_helmet.nut
 msgid "Padded Flat Top Helmet"
 msgstr "棉内衬平顶盔"
 
-# scripts/items/helmets/helmet.nut
-msgid "Maximum Fatigue [color="
-msgstr ""
-
 # scripts/items/helmets/adorned_closed_flat_top_with_mail.nut
 msgid "Adorned Closed Flat Top"
 msgstr "装饰封闭平顶盔"
+
+# scripts/items/helmets/helmet.nut
+msgid "Maximum Fatigue [color="
+msgstr ""
 
 # scripts/items/helmets/steppe_helmet_with_mail.nut
 msgid "Steppe Helmet with Mail"
@@ -246,13 +238,13 @@ msgstr "覆面链甲平顶盔"
 msgid "Flat Top with Closed Mail"
 msgstr "全密闭链甲平顶盔"
 
-# scripts/items/helmets/dented_nasal_helmet.nut
-msgid "Padded Dented Nasal Helmet"
-msgstr "有凹痕的棉内衬鼻翼盔"
-
 # scripts/items/helmets/closed_flat_top_with_neckguard.nut
 msgid "Closed and Padded Flat Top"
 msgstr "覆面内衬平顶盔"
+
+# scripts/items/helmets/dented_nasal_helmet.nut
+msgid "Padded Dented Nasal Helmet"
+msgstr "有凹痕的棉内衬鼻翼盔"
 
 # scripts/items/helmets/conic_helmet_with_faceguard.nut
 msgid "Conic Helmet with Faceguard"
@@ -266,21 +258,21 @@ msgstr "密封式链甲锅盔"
 msgid "Nasal Helmet With Rusty Mail"
 msgstr "生锈的链甲鼻翼盔"
 
-# scripts/items/helmets/nasal_helmet_with_closed_mail.nut
-msgid "Nasal Helmet with Closed Mail"
-msgstr "密封式链甲鼻翼盔"
-
 # scripts/items/helmets/conic_helmet_with_closed_mail.nut
 msgid "Conic Helmet with Closed Mail"
 msgstr "全密闭链甲圆锥盔"
 
-# scripts/items/helmets/nordic_helmet_with_closed_mail.nut
-msgid "Nordic Helmet with Closed Mail"
-msgstr ""
+# scripts/items/helmets/nasal_helmet_with_closed_mail.nut
+msgid "Nasal Helmet with Closed Mail"
+msgstr "密封式链甲鼻翼盔"
 
 # scripts/items/helmets/wizard_hat.nut
 msgid "A pointy hat with a broad rim."
 msgstr "一种宽边尖顶帽。"
+
+# scripts/items/helmets/nordic_helmet_with_closed_mail.nut
+msgid "Nordic Helmet with Closed Mail"
+msgstr ""
 
 # scripts/items/helmets/decayed_closed_flat_top_with_mail.nut
 msgid "Decayed Closed Flat Top with Mail"
@@ -298,33 +290,33 @@ msgstr "带鼻翼的金属头盔。"
 msgid "A full-metal helmet with a broad rim."
 msgstr "带宽边的全金属头盔。"
 
-# scripts/items/helmets/mail_coif.nut
-msgid "A mail coif that also protects the neck."
-msgstr "一个可以保护颈部的链甲头盔。"
-
 # scripts/items/helmets/flat_top_helmet.nut
 msgid "A flat full-metal helmet with noseguard."
 msgstr "一种带有鼻翼的全金属头盔。"
+
+# scripts/items/helmets/mail_coif.nut
+msgid "A mail coif that also protects the neck."
+msgstr "一个可以保护颈部的链甲头盔。"
 
 # scripts/items/helmets/decayed_closed_flat_top_with_sack.nut
 msgid "Covered Decayed Closed Flat Top with Mail"
 msgstr "腐朽异教徒平顶链盔"
 
-# scripts/items/helmets/cultist_hood.nut
-msgid "A rough spun cloth bag with two holes in it."
-msgstr "有两个圆孔的粗纺布包。"
-
 # scripts/items/helmets/reinforced_mail_coif.nut
 msgid "A mail coif with additional metal noseguard."
 msgstr "带有额外金属鼻翼的链甲盔。"
 
-# scripts/items/helmets/bascinet_with_mail.nut
-msgid "A metal bascinet worn atop a thick mail coif."
-msgstr "一种金属头罩和链甲护面所结合的头盔。"
+# scripts/items/helmets/cultist_hood.nut
+msgid "A rough spun cloth bag with two holes in it."
+msgstr "有两个圆孔的粗纺布包。"
 
 # scripts/items/helmets/straw_hat.nut
 msgid "A crude straw hat to protect against the sun."
 msgstr "一顶带有遮阳效果的粗制草帽。"
+
+# scripts/items/helmets/bascinet_with_mail.nut
+msgid "A metal bascinet worn atop a thick mail coif."
+msgstr "一种金属头罩和链甲护面所结合的头盔。"
 
 # scripts/items/helmets/nasal_helmet_with_rusty_mail.nut
 msgid "A worn and used helmet with a rusty mail coif."
@@ -390,13 +382,13 @@ msgstr "一个带宽边和链甲的全金属头盔。"
 msgid "A metal helmet with added noseguard and a padded coif underneath."
 msgstr "一种鼻翼里面带有棉内衬的金属头盔。"
 
-# scripts/items/helmets/nasal_helmet_with_closed_mail.nut
-msgid "A metal helmet with a noseguard and a closed mail coif underneath."
-msgstr "一种金属头盔，由一个保护用的鼻翼和一个封闭式的链甲头罩构成。"
-
 # scripts/items/helmets/padded_kettle_hat.nut
 msgid "A full-metal helmet with a broad rim and a padded coif underneath."
 msgstr "一个带宽边的全金属头盔，下面有一个衬垫。"
+
+# scripts/items/helmets/nasal_helmet_with_closed_mail.nut
+msgid "A metal helmet with a noseguard and a closed mail coif underneath."
+msgstr "一种金属头盔，由一个保护用的鼻翼和一个封闭式的链甲头罩构成。"
 
 # scripts/items/helmets/flat_top_with_mail.nut
 msgid "A flat full-metal helmet with noseguard and a mail coif underneath."
@@ -410,6 +402,10 @@ msgstr "一种有帽檐的金属头盔，戴着一个不祥的黑色口罩遮住
 msgid "A nordic helmet guarding face and neck with additional metal plates."
 msgstr ""
 
+# scripts/items/helmets/flat_top_with_closed_mail.nut
+msgid "A flat full-metal helmet with a mail coif covering the neck and face."
+msgstr "一种带面罩的扁平全金属头盔，覆盖脖子和脸部。"
+
 # scripts/items/helmets/padded_flat_top_helmet.nut
 msgid "A flat full-metal helmet with noseguard and a padded coif underneath."
 msgstr "一种扁平的全金属头盔，鼻子下面有棉做的内衬。"
@@ -418,25 +414,21 @@ msgstr "一种扁平的全金属头盔，鼻子下面有棉做的内衬。"
 msgid "A thick leather hood that covers the head and neck but limits vision."
 msgstr "覆盖头部和颈部但限制视力的厚皮风帽。"
 
-# scripts/items/helmets/flat_top_with_closed_mail.nut
-msgid "A flat full-metal helmet with a mail coif covering the neck and face."
-msgstr "一种带面罩的扁平全金属头盔，覆盖脖子和脸部。"
-
 # scripts/items/helmets/witchhunter_hat.nut
 msgid "A tough leather hat that provides decent protection against scratches."
 msgstr "一顶能够有效预防受伤的皮帽。"
-
-# scripts/items/helmets/greatsword_faction_helm.nut
-msgid ""
-"A sturdy metal helmet with added padding, covered with a large feathered "
-"hat."
-msgstr "一个结实的金属头盔，上面盖着一顶大羽毛帽子。"
 
 # scripts/items/helmets/conic_helmet_with_closed_mail.nut
 msgid ""
 "A heavy conic helmet with a full closed mail skirt for additional "
 "protection."
 msgstr "一种厚重的圆锥形头盔，带有一条全封闭的链甲网以提供额外的保护。"
+
+# scripts/items/helmets/greatsword_faction_helm.nut
+msgid ""
+"A sturdy metal helmet with added padding, covered with a large feathered "
+"hat."
+msgstr "一个结实的金属头盔，上面盖着一顶大羽毛帽子。"
 
 # scripts/items/helmets/kettle_hat_with_closed_mail.nut
 msgid ""
@@ -474,17 +466,17 @@ msgid ""
 " field of view."
 msgstr "拥有完整面罩的封闭式头盔。 影响呼吸和限制视野。"
 
-# scripts/items/helmets/decayed_great_helm.nut
-msgid ""
-"A great helmet with torn off and rotten decorations. It must have once "
-"belonged to a renowned knight."
-msgstr "一顶装饰品已经被撕破和腐烂的大头盔。它曾经肯定属于一位著名的骑士。"
-
 # scripts/items/helmets/heavy_mail_coif.nut
 msgid ""
 "A full mail coif, heavier and sturdier than most others of its kind. "
 "Decorated with a colorful plait."
 msgstr "一顶完整的链甲盔，比大多数同类都要重和结实。 用多彩的辫子装饰。"
+
+# scripts/items/helmets/decayed_great_helm.nut
+msgid ""
+"A great helmet with torn off and rotten decorations. It must have once "
+"belonged to a renowned knight."
+msgstr "一顶装饰品已经被撕破和腐烂的大头盔。它曾经肯定属于一位著名的骑士。"
 
 # scripts/items/helmets/mouth_piece.nut
 msgid ""

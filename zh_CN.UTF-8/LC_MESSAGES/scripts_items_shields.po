@@ -2,10 +2,6 @@
 msgid ""
 msgstr ""
 
-# scripts/items/shields/shield.nut
-msgid "shield"
-msgstr ""
-
 # scripts/items/shields/buckler_shield.nut
 msgid "Buckler"
 msgstr "小圆盾"

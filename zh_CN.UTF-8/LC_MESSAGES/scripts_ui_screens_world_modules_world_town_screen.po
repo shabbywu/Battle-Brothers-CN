@@ -2,13 +2,13 @@
 msgid ""
 msgstr ""
 
-# scripts/ui/screens/world/modules/world_town_screen/town_temple_dialog_module.nut
-msgid "Temple"
-msgstr "神殿"
-
 # scripts/ui/screens/world/modules/world_town_screen/town_tavern_dialog_module.nut
 msgid "Tavern"
 msgstr "酒馆"
+
+# scripts/ui/screens/world/modules/world_town_screen/town_temple_dialog_module.nut
+msgid "Temple"
+msgstr "神殿"
 
 # scripts/ui/screens/world/modules/world_town_screen/town_taxidermist_dialog_module.nut
 msgid "Taxidermist"

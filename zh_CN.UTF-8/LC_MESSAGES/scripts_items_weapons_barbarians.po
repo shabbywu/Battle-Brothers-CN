@@ -6,21 +6,17 @@ msgstr ""
 msgid "Drum"
 msgstr "战鼓"
 
-# scripts/items/weapons/barbarians/crude_axe.nut
-msgid "Crude Axe"
-msgstr "石斧"
-
 # scripts/items/weapons/barbarians/axehammer.nut
 msgid "Axehammer"
 msgstr "斧锤"
 
-# scripts/items/weapons/barbarians/axehammer.nut
-msgid "axehammer"
-msgstr ""
-
 # scripts/items/weapons/barbarians/claw_club.nut
 msgid "Claw Club"
 msgstr "爪棒"
+
+# scripts/items/weapons/barbarians/crude_axe.nut
+msgid "Crude Axe"
+msgstr "石斧"
 
 # scripts/items/weapons/barbarians/thorned_whip.nut
 msgid "Thorned Whip"

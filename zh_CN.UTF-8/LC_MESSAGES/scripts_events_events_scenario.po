@@ -15,29 +15,29 @@ msgstr "万岁！"
 msgid "The Cultists"
 msgstr "异教徒"
 
+# scripts/events/events/scenario/deserters_intro_event.nut
+msgid "The Deserters"
+msgstr "逃兵"
+
 # scripts/events/events/scenario/lone_wolf_intro_event.nut
 msgid "The Lone Wolf"
 msgstr "独狼"
 
-# scripts/events/events/scenario/deserters_intro_event.nut
-msgid "The Deserters"
-msgstr "逃兵"
+# scripts/events/events/scenario/cultists_intro_event.nut
+msgid "Davkul awaits."
+msgstr "达库尔即将降临。"
 
 # scripts/events/events/scenario/anatomists_intro_event.nut
 msgid "The Anatomists"
 msgstr "解剖学家"
 
-# scripts/events/events/scenario/manhunters_intro_event.nut
-msgid "The Manhunters"
-msgstr "搜捕者"
-
 # scripts/events/events/scenario/gladiators_intro_event.nut
 msgid "The Gladiators"
 msgstr "角斗士"
 
-# scripts/events/events/scenario/cultists_intro_event.nut
-msgid "Davkul awaits."
-msgstr "达库尔即将降临。"
+# scripts/events/events/scenario/manhunters_intro_event.nut
+msgid "The Manhunters"
+msgstr "搜捕者"
 
 # scripts/events/events/scenario/paladins_intro_event.nut
 msgid "The Oathtakers"
@@ -59,10 +59,6 @@ msgstr "偷猎者团队"
 msgid "Ah, we'll be fine."
 msgstr "唉，我们会没事的。"
 
-# scripts/events/events/scenario/rangers_intro_event.nut
-msgid "We'll do just fine."
-msgstr "我们会做的很好的。"
-
 # scripts/events/events/scenario/militia_intro_event.nut
 msgid "The Peasant Militia"
 msgstr "农民民兵"
@@ -70,6 +66,10 @@ msgstr "农民民兵"
 # scripts/events/events/scenario/trader_intro_event.nut
 msgid "The Trading Caravan"
 msgstr "贸易商队"
+
+# scripts/events/events/scenario/rangers_intro_event.nut
+msgid "We'll do just fine."
+msgstr "我们会做的很好的。"
 
 # scripts/events/events/scenario/raiders_intro_event.nut
 msgid "The Northern Raiders"
@@ -91,13 +91,13 @@ msgstr "这正是我想要做的。"
 msgid "For gold, glory, and Young Anselm!"
 msgstr "为了金钱、荣誉、和小安瑟姆！"
 
-# scripts/events/events/scenario/deserters_intro_event.nut
-msgid "We'll take destiny in our own hands."
-msgstr "我们的命运掌握在自己手中。"
-
 # scripts/events/events/scenario/trader_intro_event.nut
 msgid "Onwards, now, we have wares to sell!"
 msgstr "前进，我们还有货物要卖！"
+
+# scripts/events/events/scenario/deserters_intro_event.nut
+msgid "We'll take destiny in our own hands."
+msgstr "我们的命运掌握在自己手中。"
 
 # scripts/events/events/scenario/southern_quickstart_intro_event.nut
 msgid "The Gilder will reveal to us the way."

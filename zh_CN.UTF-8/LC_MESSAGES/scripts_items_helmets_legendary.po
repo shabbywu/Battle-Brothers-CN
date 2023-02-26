@@ -6,10 +6,6 @@ msgstr ""
 msgid " points"
 msgstr ""
 
-# scripts/items/helmets/legendary/fangshire.nut
-msgid "fangshire"
-msgstr ""
-
 # scripts/items/helmets/legendary/ijirok_helmet.nut
 msgid " heals for "
 msgstr ""

@@ -22,6 +22,26 @@ msgstr "果园"
 msgid "Trapper"
 msgstr "陷阱捕兽者"
 
+# scripts/entity/world/attached_location/fortified_outpost_location.nut
+msgid "Barracks"
+msgstr "兵营"
+
+# scripts/entity/world/attached_location/gem_mine_location.nut
+msgid "Gem Mine"
+msgstr "宝石矿"
+
+# scripts/entity/world/attached_location/peat_pit_location.nut
+msgid "Peat Pit"
+msgstr "泥炭坑"
+
+# scripts/entity/world/attached_location/pig_farm_location.nut
+msgid "Pig Farm"
+msgstr "养猪场"
+
+# scripts/entity/world/attached_location/workshop_location.nut
+msgid "Workshop"
+msgstr "作坊"
+
 # scripts/entity/world/attached_location/militia_trainingcamp_oriental_location.nut
 # scripts/entity/world/attached_location/stone_watchtower_location.nut
 # scripts/entity/world/attached_location/fortified_outpost_location.nut
@@ -31,49 +51,29 @@ msgstr "陷阱捕兽者"
 msgid "lighting"
 msgstr ""
 
-# scripts/entity/world/attached_location/pig_farm_location.nut
-msgid "Pig Farm"
-msgstr "养猪场"
-
-# scripts/entity/world/attached_location/gem_mine_location.nut
-msgid "Gem Mine"
-msgstr "宝石矿"
-
-# scripts/entity/world/attached_location/workshop_location.nut
-msgid "Workshop"
-msgstr "作坊"
-
-# scripts/entity/world/attached_location/fortified_outpost_location.nut
-msgid "Barracks"
-msgstr "兵营"
-
-# scripts/entity/world/attached_location/peat_pit_location.nut
-msgid "Peat Pit"
-msgstr "泥炭坑"
+# scripts/entity/world/attached_location/beekeeper_location.nut
+msgid "Beekeeper"
+msgstr "养蜂人"
 
 # scripts/entity/world/attached_location/dye_maker_location.nut
 msgid "Dye Maker"
 msgstr "染色机"
 
-# scripts/entity/world/attached_location/silk_farm_location.nut
-msgid "Silk Farm"
-msgstr ""
-
 # scripts/entity/world/attached_location/goat_herd_location.nut
 msgid "Goat Pens"
 msgstr "山羊圈"
-
-# scripts/entity/world/attached_location/salt_mine_location.nut
-msgid "Salt Mine"
-msgstr "盐矿"
 
 # scripts/entity/world/attached_location/gold_mine_location.nut
 msgid "Gold Mine"
 msgstr "金矿"
 
-# scripts/entity/world/attached_location/beekeeper_location.nut
-msgid "Beekeeper"
-msgstr "养蜂人"
+# scripts/entity/world/attached_location/salt_mine_location.nut
+msgid "Salt Mine"
+msgstr "盐矿"
+
+# scripts/entity/world/attached_location/silk_farm_location.nut
+msgid "Silk Farm"
+msgstr ""
 
 # scripts/entity/world/attached_location/plantation_location.nut
 msgid "Plantation"
@@ -91,37 +91,37 @@ msgstr "渔屋"
 msgid "Ore Smelters"
 msgstr "矿石冶炼厂"
 
-# scripts/entity/world/attached_location/wool_spinner_location.nut
-msgid "Wool Spinner"
-msgstr "羊毛纺纱"
-
 # scripts/entity/world/attached_location/wheat_fields_location.nut
 msgid "Wheat Fields"
 msgstr "麦田"
 
-# scripts/entity/world/attached_location/incense_dryer_location.nut
-msgid "Incense Dryer"
-msgstr ""
+# scripts/entity/world/attached_location/wool_spinner_location.nut
+msgid "Wool Spinner"
+msgstr "羊毛纺纱"
 
 # scripts/entity/world/attached_location/blast_furnace_location.nut
 msgid "Blast Furnace"
 msgstr "鼓风炉"
 
+# scripts/entity/world/attached_location/incense_dryer_location.nut
+msgid "Incense Dryer"
+msgstr ""
+
+# scripts/entity/world/attached_location/gatherers_hut_location.nut
+msgid "Gatherer's Hut"
+msgstr "采集者的小屋"
+
 # scripts/entity/world/attached_location/hunters_cabin_location.nut
 msgid "Hunter's Cabin"
 msgstr "猎人小屋"
-
-# scripts/entity/world/attached_location/mushroom_grove_location.nut
-msgid "Mushroom Grove"
-msgstr "蘑菇树林"
 
 # scripts/entity/world/attached_location/leather_tanner_location.nut
 msgid "Leather Tanner"
 msgstr "皮革鞣革工"
 
-# scripts/entity/world/attached_location/gatherers_hut_location.nut
-msgid "Gatherer's Hut"
-msgstr "采集者的小屋"
+# scripts/entity/world/attached_location/mushroom_grove_location.nut
+msgid "Mushroom Grove"
+msgstr "蘑菇树林"
 
 # scripts/entity/world/attached_location/amber_collector_location.nut
 msgid "Amber Collector"
@@ -141,13 +141,13 @@ msgstr "石头岗楼"
 msgid "Herbalist's Grove"
 msgstr "药师小树林"
 
-# scripts/entity/world/attached_location/wooden_watchtower_location.nut
-msgid "Wooden Watchtower"
-msgstr "木制哨塔"
-
 # scripts/entity/world/attached_location/surface_iron_vein_location.nut
 msgid "Surface Iron Vein"
 msgstr "露天铁矿"
+
+# scripts/entity/world/attached_location/wooden_watchtower_location.nut
+msgid "Wooden Watchtower"
+msgstr "木制哨塔"
 
 # scripts/entity/world/attached_location/fletchers_hut_location.nut
 msgid "Arrow Maker's Shed"
@@ -308,17 +308,17 @@ msgid ""
 "settlement in well-guarded caravans for further refinement."
 msgstr "在这个矿山中发现的闪亮的宝石通常直接运到保护良好的大篷车中的下一个定居点进行进一步的提炼。"
 
-# scripts/entity/world/attached_location/hunters_cabin_location.nut
-msgid ""
-"Hunters take shelter in these small huts while on the hunt. Chopped up game,"
-" venison and hides hung up to dry in the sun surround the huts."
-msgstr "狩猎时，猎人们住在这些小屋里。切碎的野味、鹿肉和兽皮悬挂起来晒在小屋周围。"
-
 # scripts/entity/world/attached_location/wheat_fields_location.nut
 msgid ""
 "Golden wheat can be seen glistening in the sun from afar. Many people from "
 "the nearby settlement work here, farmhands and daytalers mostly."
 msgstr "金色的麦子在远处的阳光下闪闪发光。许多人从附近的定居点来这里工作，大多是农夫和临时工。"
+
+# scripts/entity/world/attached_location/hunters_cabin_location.nut
+msgid ""
+"Hunters take shelter in these small huts while on the hunt. Chopped up game,"
+" venison and hides hung up to dry in the sun surround the huts."
+msgstr "狩猎时，猎人们住在这些小屋里。切碎的野味、鹿肉和兽皮悬挂起来晒在小屋周围。"
 
 # scripts/entity/world/attached_location/wool_spinner_location.nut
 msgid ""

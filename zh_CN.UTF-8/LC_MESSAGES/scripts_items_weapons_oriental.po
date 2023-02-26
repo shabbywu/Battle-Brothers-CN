@@ -6,45 +6,25 @@ msgstr ""
 msgid "Saif"
 msgstr "赛义夫弯刀"
 
-# scripts/items/weapons/oriental/saif.nut
-msgid "saif"
-msgstr ""
-
 # scripts/items/weapons/oriental/polemace.nut
 msgid "Polemace"
 msgstr "长棍"
-
-# scripts/items/weapons/oriental/polemace.nut
-msgid "polemace"
-msgstr ""
-
-# scripts/items/weapons/oriental/handgonne.nut
-msgid "handgonne"
-msgstr ""
 
 # scripts/items/weapons/oriental/handgonne.nut
 msgid "Handgonne"
 msgstr "手炮"
 
 # scripts/items/weapons/oriental/firelance.nut
-msgid "firelance"
-msgstr ""
-
-# scripts/items/weapons/oriental/swordlance.nut
-msgid "Swordlance"
-msgstr "刃矛"
-
-# scripts/items/weapons/oriental/swordlance.nut
-msgid "swordlance"
-msgstr ""
+msgid "Fire Lance"
+msgstr "火矛"
 
 # scripts/items/weapons/oriental/nomad_mace.nut
 msgid "Nomad Mace"
 msgstr "游牧狼牙棒"
 
-# scripts/items/weapons/oriental/firelance.nut
-msgid "Fire Lance"
-msgstr "火矛"
+# scripts/items/weapons/oriental/swordlance.nut
+msgid "Swordlance"
+msgstr "刃矛"
 
 # scripts/items/weapons/oriental/nomad_sling.nut
 msgid "Nomad Sling"
@@ -88,30 +68,30 @@ msgstr ""
 msgid "Fire Lance (Spent)"
 msgstr ""
 
-# scripts/items/weapons/oriental/swordlance.nut
-msgid "Polearm, Two-Handed"
-msgstr ""
-
 # scripts/items/weapons/oriental/two_handed_scimitar.nut
 # scripts/items/weapons/oriental/two_handed_saif.nut
 msgid "Cleaver, Two-Handed"
 msgstr ""
 
-# scripts/items/weapons/oriental/two_handed_scimitar.nut
-msgid "Two-Handed Scimitar"
-msgstr "双手弯刀"
-
-# scripts/items/weapons/oriental/light_southern_mace.nut
-msgid "Light Southern Mace"
-msgstr "轻型南方狼牙棒"
+# scripts/items/weapons/oriental/handgonne.nut
+msgid "Firearm, Two-Handed"
+msgstr ""
 
 # scripts/items/weapons/oriental/heavy_southern_mace.nut
 msgid "Heavy Southern Mace"
 msgstr "重型南方狼牙棒"
 
-# scripts/items/weapons/oriental/handgonne.nut
-msgid "Firearm, Two-Handed"
+# scripts/items/weapons/oriental/light_southern_mace.nut
+msgid "Light Southern Mace"
+msgstr "轻型南方狼牙棒"
+
+# scripts/items/weapons/oriental/swordlance.nut
+msgid "Polearm, Two-Handed"
 msgstr ""
+
+# scripts/items/weapons/oriental/two_handed_scimitar.nut
+msgid "Two-Handed Scimitar"
+msgstr "双手弯刀"
 
 # scripts/items/weapons/oriental/firelance.nut
 msgid "Spear/Firearm, One-Handed"
@@ -129,15 +109,15 @@ msgstr "]必须重新装填才能再次发射[/color]"
 msgid "A short bow made from composite layers for additional drawing power."
 msgstr "一种由复合材料层制成的用来增加拉力的短弓。"
 
-# scripts/items/weapons/oriental/light_southern_mace.nut
-msgid ""
-"A metal mace with extended wings for added effectiveness against armor."
-msgstr "一种金属棒，有延伸的翼状物以增加对抗装甲的效力。"
-
 # scripts/items/weapons/oriental/polemace.nut
 msgid ""
 "A long mace that can be used to deliver stunning blows over a distance."
 msgstr "一种长棍，可以用来在远处发出击晕打击。"
+
+# scripts/items/weapons/oriental/light_southern_mace.nut
+msgid ""
+"A metal mace with extended wings for added effectiveness against armor."
+msgstr "一种金属棒，有延伸的翼状物以增加对抗装甲的效力。"
 
 # scripts/items/weapons/oriental/heavy_southern_mace.nut
 msgid ""

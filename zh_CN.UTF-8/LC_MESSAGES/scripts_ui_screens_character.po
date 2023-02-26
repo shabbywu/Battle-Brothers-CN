@@ -39,12 +39,12 @@ msgid "Failed to acquire stash."
 msgstr "未能获取存储。"
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Item already within bag."
-msgstr "物品已在背包中。"
-
-# scripts/ui/screens/character/character_screen.nut
 msgid "Failed to find bag item."
 msgstr "未能找到背包物品。"
+
+# scripts/ui/screens/character/character_screen.nut
+msgid "Item already within bag."
+msgstr "物品已在背包中。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to equip bag item."
@@ -59,36 +59,36 @@ msgid "Failed to find stash item."
 msgstr "未能找到存储物品。"
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to find ground item."
-msgstr "未能找到地上的物品。"
-
-# scripts/ui/screens/character/character_screen.nut
 msgid "Failed to equip stash item."
 msgstr "未能装备存储物品。"
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to put item into bag."
-msgstr "未能将物品放入背包。"
-
-# scripts/ui/screens/character/character_screen.nut
-msgid "Failed to equip ground item."
-msgstr "未能装备地上物品。"
+msgid "Failed to find ground item."
+msgstr "未能找到地上的物品。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Failed to acquire inventory."
 msgstr "未能获取物品清单。"
 
 # scripts/ui/screens/character/character_screen.nut
+msgid "Failed to equip ground item."
+msgstr "未能装备地上物品。"
+
+# scripts/ui/screens/character/character_screen.nut
+msgid "Failed to put item into bag."
+msgstr "未能将物品放入背包。"
+
+# scripts/ui/screens/character/character_screen.nut
 msgid " get reparations for his time"
 msgstr "得到了为他花费时间的赔偿"
 
 # scripts/ui/screens/character/character_screen.nut
-msgid "Failed to remove item from bag."
-msgstr "未能从背包中移除物品。"
-
-# scripts/ui/screens/character/character_screen.nut
 msgid "Failed to acquire ground items."
 msgstr "未能获取地上物品。"
+
+# scripts/ui/screens/character/character_screen.nut
+msgid "Failed to remove item from bag."
+msgstr "未能从背包中移除物品。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Item is not changable in battle."

@@ -42,56 +42,80 @@ msgstr "角和骨"
 msgid "Metal Pauldrons"
 msgstr "金属肩铠"
 
-# scripts/items/armor_upgrades/unhold_fur_upgrade.nut
-msgid "Unhold Fur Cloak"
-msgstr "巨魔毛皮斗篷"
-
 # scripts/items/armor_upgrades/hyena_fur_upgrade.nut
 msgid "Hyena Fur Mantle"
 msgstr "鬣狗毛皮披风"
 
-# scripts/items/armor_upgrades/additional_padding_upgrade.nut
-msgid "Only take [color="
-msgstr ""
+# scripts/items/armor_upgrades/unhold_fur_upgrade.nut
+msgid "Unhold Fur Cloak"
+msgstr "巨魔毛皮斗篷"
 
 # scripts/items/armor_upgrades/leather_neckguard_upgrade.nut
 msgid "Leather Neckguard"
 msgstr "皮革护颈"
 
-# scripts/items/armor_upgrades/joint_cover_upgrade.nut
-msgid "Metal Joint Covers"
-msgstr "金属护肩"
+# scripts/items/armor_upgrades/additional_padding_upgrade.nut
+msgid "Only take [color="
+msgstr ""
 
 # scripts/items/armor_upgrades/heavy_gladiator_upgrade.nut
 msgid "Metal Armor Pieces"
 msgstr "金属装甲件"
 
-# scripts/items/armor_upgrades/serpent_skin_upgrade.nut
-msgid "Serpent Skin Mantle"
-msgstr "大蛇皮披风"
+# scripts/items/armor_upgrades/joint_cover_upgrade.nut
+msgid "Metal Joint Covers"
+msgstr "金属护肩"
 
 # scripts/items/armor_upgrades/light_gladiator_upgrade.nut
 msgid "Padded Armor Pieces"
 msgstr "内衬盔甲片"
 
-# scripts/items/armor_upgrades/lindwurm_scales_upgrade.nut
-msgid "Lindwurm Scale Cloak"
-msgstr "林德沃姆鳞片披风"
+# scripts/items/armor_upgrades/serpent_skin_upgrade.nut
+msgid "Serpent Skin Mantle"
+msgstr "大蛇皮披风"
 
 # scripts/items/armor_upgrades/direwolf_pelt_upgrade.nut
 msgid "Direwolf Pelt Mantle"
 msgstr "冰原野狼皮斗篷"
 
-# scripts/items/armor_upgrades/leather_shoulderguards_upgrade.nut
-msgid "Leather Shoulderguards"
-msgstr "皮革护肩"
+# scripts/items/armor_upgrades/lindwurm_scales_upgrade.nut
+msgid "Lindwurm Scale Cloak"
+msgstr "林德沃姆鳞片披风"
 
 # scripts/items/armor_upgrades/additional_padding_upgrade.nut
 msgid "Additional Fur Padding"
 msgstr "额外的毛皮填充物"
 
+# scripts/items/armor_upgrades/leather_shoulderguards_upgrade.nut
+msgid "Leather Shoulderguards"
+msgstr "皮革护肩"
+
+# scripts/items/armor_upgrades/heraldic_plates_upgrade.nut
+msgid "Heraldic Shoulderplates"
+msgstr "纹章护肩"
+
+# scripts/items/armor_upgrades/metal_plating_upgrade.nut
+msgid "Metal Plates and Rivets"
+msgstr "金属板与铆钉"
+
+# scripts/items/armor_upgrades/unhold_fur_upgrade.nut
+# scripts/items/armor_upgrades/leather_neckguard_upgrade.nut
+# scripts/items/armor_upgrades/leather_shoulderguards_upgrade.nut
+msgid "]+10[/color] Durability"
+msgstr ""
+
+# scripts/items/armor_upgrades/hyena_fur_upgrade.nut
+# scripts/items/armor_upgrades/direwolf_pelt_upgrade.nut
+msgid "]+15[/color] Durability"
+msgstr ""
+
 # scripts/items/armor_upgrades/hyena_fur_upgrade.nut
 msgid "]+15[/color] Initiative"
+msgstr ""
+
+# scripts/items/armor_upgrades/double_mail_upgrade.nut
+# scripts/items/armor_upgrades/mail_patch_upgrade.nut
+msgid "]+20[/color] Durability"
 msgstr ""
 
 # scripts/items/armor_upgrades/serpent_skin_upgrade.nut
@@ -101,40 +125,16 @@ msgstr ""
 msgid "]+30[/color] Durability"
 msgstr ""
 
-# scripts/items/armor_upgrades/unhold_fur_upgrade.nut
-# scripts/items/armor_upgrades/leather_neckguard_upgrade.nut
-# scripts/items/armor_upgrades/leather_shoulderguards_upgrade.nut
-msgid "]+10[/color] Durability"
-msgstr ""
-
-# scripts/items/armor_upgrades/lindwurm_scales_upgrade.nut
-# scripts/items/armor_upgrades/light_gladiator_upgrade.nut
-msgid "]+60[/color] Durability"
-msgstr ""
-
-# scripts/items/armor_upgrades/double_mail_upgrade.nut
-# scripts/items/armor_upgrades/mail_patch_upgrade.nut
-msgid "]+20[/color] Durability"
-msgstr ""
-
-# scripts/items/armor_upgrades/hyena_fur_upgrade.nut
-# scripts/items/armor_upgrades/direwolf_pelt_upgrade.nut
-msgid "]+15[/color] Durability"
-msgstr ""
-
 # scripts/items/armor_upgrades/barbarian_horn_upgrade.nut
 # scripts/items/armor_upgrades/metal_pauldrons_upgrade.nut
 # scripts/items/armor_upgrades/heraldic_plates_upgrade.nut
 msgid "]+40[/color] Durability"
 msgstr ""
 
-# scripts/items/armor_upgrades/metal_plating_upgrade.nut
-msgid "Metal Plates and Rivets"
-msgstr "金属板与铆钉"
-
-# scripts/items/armor_upgrades/heraldic_plates_upgrade.nut
-msgid "Heraldic Shoulderplates"
-msgstr "纹章护肩"
+# scripts/items/armor_upgrades/lindwurm_scales_upgrade.nut
+# scripts/items/armor_upgrades/light_gladiator_upgrade.nut
+msgid "]+60[/color] Durability"
+msgstr ""
 
 # scripts/items/armor_upgrades/negative_mouldered_upgrade.nut
 # scripts/items/armor_upgrades/negative_shabby_upgrade.nut
@@ -150,6 +150,10 @@ msgstr ""
 # scripts/items/armor_upgrades/light_padding_replacement_upgrade.nut
 msgid "Light Padding Replacement"
 msgstr "置换轻内垫"
+
+# scripts/items/armor_upgrades/protective_runes_upgrade.nut
+msgid "Protective Runes and Sigils"
+msgstr "防护符文和标志"
 
 # scripts/items/armor_upgrades/serpent_skin_upgrade.nut
 # scripts/items/armor_upgrades/double_mail_upgrade.nut
@@ -172,10 +176,6 @@ msgstr ""
 msgid "]-4[/color] Maximum Fatigue"
 msgstr ""
 
-# scripts/items/armor_upgrades/protective_runes_upgrade.nut
-msgid "Protective Runes and Sigils"
-msgstr "防护符文和标志"
-
 # scripts/items/armor_upgrades/heavy_gladiator_upgrade.nut
 msgid "]-10[/color] Maximum Fatigue"
 msgstr ""
@@ -196,13 +196,13 @@ msgstr ""
 msgid "Reduces any melee damage to the body by [color="
 msgstr "减少对身体的任何近战伤害 [color="
 
-# scripts/items/armor_upgrades/serpent_skin_upgrade.nut
-msgid "Reduces damage from fire and firearms by [color="
-msgstr "减少来自火和火器的伤害 [color="
-
 # scripts/items/armor_upgrades/unhold_fur_upgrade.nut
 msgid "Reduces any ranged damage to the body by [color="
 msgstr "减少对身体的远程伤害 [color="
+
+# scripts/items/armor_upgrades/serpent_skin_upgrade.nut
+msgid "Reduces damage from fire and firearms by [color="
+msgstr "减少来自火和火器的伤害 [color="
 
 # scripts/items/armor_upgrades/light_gladiator_upgrade.nut
 msgid "Padded armpieces that provides additional protection."
@@ -250,15 +250,15 @@ msgid ""
 "A thick double mail has been added to this armor for further protection."
 msgstr "一个厚厚的双重链甲护肩能有效的进一步增加装甲的防御。"
 
-# scripts/items/armor_upgrades/light_padding_replacement_upgrade.nut
-msgid ""
-"This armor has its padding replaced by a lighter but no less durable one."
-msgstr "这件盔甲的衬垫被一种更轻但同样耐用的衬垫所取代。"
-
 # scripts/items/armor_upgrades/barbarian_horn_upgrade.nut
 msgid ""
 "This armor has been adorned with ceremonial horns by barbarian craftsmen."
 msgstr "这件盔甲被野蛮工匠用仪式用的角装饰着。"
+
+# scripts/items/armor_upgrades/light_padding_replacement_upgrade.nut
+msgid ""
+"This armor has its padding replaced by a lighter but no less durable one."
+msgstr "这件盔甲的衬垫被一种更轻但同样耐用的衬垫所取代。"
 
 # scripts/items/armor_upgrades/joint_cover_upgrade.nut
 msgid ""
@@ -284,17 +284,17 @@ msgid ""
 "protection."
 msgstr "这件甲胄有附加的金属装甲件，提供额外的保护。"
 
-# scripts/items/armor_upgrades/protective_runes_upgrade.nut
-msgid ""
-"]+20[/color] Resolve at morale checks against fear, panic or mind control "
-"effects"
-msgstr "]+20[/color] 决心，面对恐惧、恐慌或精神控制的士气检查时"
-
 # scripts/items/armor_upgrades/metal_plating_upgrade.nut
 msgid ""
 "This armor has a layer of crudely riveted metal plates for additional "
 "protection."
 msgstr "这件装甲有一层粗糙的铆接金属板，用于提供额外的防护。"
+
+# scripts/items/armor_upgrades/protective_runes_upgrade.nut
+msgid ""
+"]+20[/color] Resolve at morale checks against fear, panic or mind control "
+"effects"
+msgstr "]+20[/color] 决心，面对恐惧、恐慌或精神控制的士气检查时"
 
 # scripts/items/armor_upgrades/armor_upgrade.nut
 msgid ""
@@ -398,17 +398,17 @@ msgid ""
 "especially resistant to heat and flames."
 msgstr "用沙漠大蛇的薄而闪亮的鳞片制成的一种披风，尤其更耐高温和火焰。"
 
-# scripts/items/armor_upgrades/negative_falling_apart_upgrade.nut
-msgid ""
-"This armor is close to falling apart. Negligence and long use have left it "
-"in a sad state long beyond repairability."
-msgstr "这盔甲快散架了。 长期的使用和疏于维护使它处于一种无法修理的可悲状态。"
-
 # scripts/items/armor_upgrades/metal_plating_upgrade.nut
 msgid ""
 "Thick metal plates that are rivetted to the underlying armor. Very crude, "
 "but an easy way to quickly add protection."
 msgstr "与下层装甲铆接的厚金属板。非常粗糙，但毕竟是一种快速增加防护的简单方法。"
+
+# scripts/items/armor_upgrades/negative_falling_apart_upgrade.nut
+msgid ""
+"This armor is close to falling apart. Negligence and long use have left it "
+"in a sad state long beyond repairability."
+msgstr "这盔甲快散架了。 长期的使用和疏于维护使它处于一种无法修理的可悲状态。"
 
 # scripts/items/armor_upgrades/barbarian_horn_upgrade.nut
 msgid ""
@@ -422,17 +422,17 @@ msgid ""
 " amount of protection as regular padding at less weight."
 msgstr "由异国的材料制成，这种替代填料可以提供与普通填料相同的保护量，而重量较轻。"
 
-# scripts/items/armor_upgrades/negative_shabby_upgrade.nut
-msgid ""
-"It appears that the previous owner did not take care of it at all; parts are"
-" missing or have been replaced with improvised patchings."
-msgstr "看来以前的主人根本就没有维护过它；部分零件缺失或者被临时拼凑的东西取代了。"
-
 # scripts/items/armor_upgrades/bone_platings_upgrade.nut
 msgid ""
 "Crafted from strong but surprisingly light bones, these ornate platings make"
 " for an ablative armor to be worn ontop of regular armor."
 msgstr "用强悍而非常轻的骨头制作而成，这些华丽的护甲板做成的一个特制装甲，套在护甲上面。"
+
+# scripts/items/armor_upgrades/negative_shabby_upgrade.nut
+msgid ""
+"It appears that the previous owner did not take care of it at all; parts are"
+" missing or have been replaced with improvised patchings."
+msgstr "看来以前的主人根本就没有维护过它；部分零件缺失或者被临时拼凑的东西取代了。"
 
 # scripts/items/armor_upgrades/negative_mouldered_upgrade.nut
 msgid ""

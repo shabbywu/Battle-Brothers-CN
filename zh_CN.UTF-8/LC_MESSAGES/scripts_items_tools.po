@@ -27,6 +27,10 @@ msgstr "投网"
 msgid "Has a [color="
 msgstr ""
 
+# scripts/items/tools/smoke_bomb_item.nut
+msgid "Covers [color="
+msgstr ""
+
 # scripts/items/tools/daze_bomb_item.nut
 # scripts/items/tools/holy_water_item.nut
 # scripts/items/tools/smoke_bomb_item.nut
@@ -35,10 +39,6 @@ msgstr ""
 # scripts/items/tools/reinforced_throwing_net.nut
 # scripts/items/tools/fire_bomb_item.nut
 msgid "[/color] tiles"
-msgstr ""
-
-# scripts/items/tools/smoke_bomb_item.nut
-msgid "Covers [color="
 msgstr ""
 
 # scripts/items/tools/faction_banner.nut
@@ -71,12 +71,12 @@ msgid "Will set [color="
 msgstr ""
 
 # scripts/items/tools/holy_water_item.nut
-msgid "weapon.holy Water"
-msgstr ""
-
-# scripts/items/tools/holy_water_item.nut
 msgid "Damage of [color="
 msgstr "伤害"
+
+# scripts/items/tools/holy_water_item.nut
+msgid "weapon.holy Water"
+msgstr ""
 
 # scripts/items/tools/daze_bomb_item.nut
 # scripts/items/tools/holy_water_item.nut
@@ -96,14 +96,6 @@ msgstr ""
 msgid "Flask of Blessed Water"
 msgstr "圣水瓶"
 
-# scripts/items/tools/daze_bomb_item.nut
-msgid "Will give up to [color="
-msgstr ""
-
-# scripts/items/tools/holy_water_item.nut
-msgid "]20[/color] for [color="
-msgstr ""
-
 # scripts/items/tools/throwing_net.nut
 # scripts/items/tools/reinforced_throwing_net.nut
 msgid "Maximum Fatigue [color="
@@ -112,6 +104,14 @@ msgstr ""
 # scripts/items/tools/reinforced_throwing_net.nut
 msgid "Reinforced Throwing Net"
 msgstr "强化投网"
+
+# scripts/items/tools/daze_bomb_item.nut
+msgid "Will give up to [color="
+msgstr ""
+
+# scripts/items/tools/holy_water_item.nut
+msgid "]20[/color] for [color="
+msgstr ""
 
 # scripts/items/tools/acid_flask_item.nut
 msgid "]20%[/color] each turn for 3 turns"

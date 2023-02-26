@@ -6,6 +6,10 @@ msgstr ""
 msgid "Blue Vial"
 msgstr "深蓝小瓶"
 
+# scripts/items/special/bodily_reward_item.nut
+msgid "Green Vial"
+msgstr "幽绿小瓶"
+
 # scripts/items/special/legendary_sword_grip_item.nut
 msgid "Sword Grip"
 msgstr "剑柄"
@@ -13,10 +17,6 @@ msgstr "剑柄"
 # scripts/items/special/fountain_of_youth_item.nut
 msgid "Water Skin"
 msgstr "愈合圣水"
-
-# scripts/items/special/bodily_reward_item.nut
-msgid "Green Vial"
-msgstr "幽绿小瓶"
 
 # scripts/items/special/legendary_sword_blade_item.nut
 msgid "Sword Blade"
@@ -26,33 +26,33 @@ msgstr "剑刃"
 msgid "Golden Goose"
 msgstr "黄金鹅"
 
-# scripts/items/special/black_book_item.nut
-msgid "The Black Book"
-msgstr "黑书"
-
 # scripts/items/special/trade_jug_01_item.nut
 msgid "Mysterious Jug"
 msgstr ""
 
+# scripts/items/special/black_book_item.nut
+msgid "The Black Book"
+msgstr "黑书"
+
 # scripts/items/special/golden_goose_item.nut
 msgid "Generates [color="
-msgstr ""
-
-# scripts/items/special/trade_jug_01_item.nut
-msgid "Grants a perk point"
 msgstr ""
 
 # scripts/items/special/broken_ritual_armor_item.nut
 msgid "Broken Ritual Armor"
 msgstr "破损的仪式盔甲"
 
-# scripts/items/special/golden_goose_item.nut
-msgid "]15[/color] crowns daily."
+# scripts/items/special/trade_jug_01_item.nut
+msgid "Grants a perk point"
 msgstr ""
 
 # scripts/items/special/spiritual_reward_item.nut
 msgid "Grants a veteran level up"
 msgstr "授予老兵训练"
+
+# scripts/items/special/golden_goose_item.nut
+msgid "]15[/color] crowns daily."
+msgstr ""
 
 # scripts/items/special/bodily_reward_item.nut
 msgid ""

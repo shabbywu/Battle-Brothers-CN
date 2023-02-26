@@ -2,6 +2,14 @@
 msgid ""
 msgstr ""
 
+# scripts/items/trade/dies_item.nut
+msgid "Dyes"
+msgstr "染料"
+
+# scripts/items/trade/furs_item.nut
+msgid "Furs"
+msgstr "毛皮"
+
 # scripts/items/trade/salt_item.nut
 msgid "Salt"
 msgstr "矿盐"
@@ -9,14 +17,6 @@ msgstr "矿盐"
 # scripts/items/trade/silk_item.nut
 msgid "Silk"
 msgstr "丝绸"
-
-# scripts/items/trade/furs_item.nut
-msgid "Furs"
-msgstr "毛皮"
-
-# scripts/items/trade/dies_item.nut
-msgid "Dyes"
-msgstr "染料"
 
 # scripts/items/trade/spices_item.nut
 msgid "Spices"

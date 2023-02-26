@@ -6,61 +6,61 @@ msgstr ""
 msgid "Gemstones"
 msgstr "宝石"
 
-# scripts/items/loot/silverware_item.nut
-msgid "Silverware"
-msgstr "银器"
-
 # scripts/items/loot/sabertooth_item.nut
 msgid "Sabertooth"
 msgstr "剑齿"
 
-# scripts/items/loot/signet_ring_item.nut
-msgid "Signet Ring"
-msgstr "纹章戒指"
-
-# scripts/items/loot/ornate_tome_item.nut
-msgid "Ornate Tome"
-msgstr "华丽的书本"
-
-# scripts/items/loot/silver_bowl_item.nut
-msgid "Silver Bowl"
-msgstr "银碗"
+# scripts/items/loot/silverware_item.nut
+msgid "Silverware"
+msgstr "银器"
 
 # scripts/items/loot/jade_broche_item.nut
 msgid "Jade Brooch"
 msgstr "玉质胸针"
 
+# scripts/items/loot/ornate_tome_item.nut
+msgid "Ornate Tome"
+msgstr "华丽的书本"
+
+# scripts/items/loot/signet_ring_item.nut
+msgid "Signet Ring"
+msgstr "纹章戒指"
+
+# scripts/items/loot/silver_bowl_item.nut
+msgid "Silver Bowl"
+msgstr "银碗"
+
 # scripts/items/loot/white_pearls_item.nut
 msgid "White Pearls"
 msgstr "白色珍珠"
-
-# scripts/items/loot/bead_necklace_item.nut
-msgid "Bead Necklace"
-msgstr "珠子项链"
-
-# scripts/items/loot/jeweled_crown_item.nut
-msgid "Jeweled Crown"
-msgstr "宝石王冠"
-
-# scripts/items/loot/growth_pearls_item.nut
-msgid "Growth Pearls"
-msgstr "大珍珠"
 
 # scripts/items/loot/ancient_amber_item.nut
 msgid "Ancient Amber"
 msgstr "古琥珀"
 
+# scripts/items/loot/bead_necklace_item.nut
+msgid "Bead Necklace"
+msgstr "珠子项链"
+
+# scripts/items/loot/growth_pearls_item.nut
+msgid "Growth Pearls"
+msgstr "大珍珠"
+
+# scripts/items/loot/jeweled_crown_item.nut
+msgid "Jeweled Crown"
+msgstr "宝石王冠"
+
 # scripts/items/loot/rainbow_scale_item.nut
 msgid "Rainbow Scale"
 msgstr "彩虹鳞片"
 
-# scripts/items/loot/valuable_furs_item.nut
-msgid "Valuable Furs"
-msgstr "贵重毛皮"
-
 # scripts/items/loot/soul_splinter_item.nut
 msgid "Soul Splinter"
 msgstr "灵魂碎片"
+
+# scripts/items/loot/valuable_furs_item.nut
+msgid "Valuable Furs"
+msgstr "贵重毛皮"
 
 # scripts/items/loot/bone_figurines_item.nut
 msgid "Bone Figurines"
@@ -74,10 +74,6 @@ msgstr "黄金圣杯"
 msgid "Glittering Rock"
 msgstr "闪闪发光的岩石"
 
-# scripts/items/loot/webbed_valuables_item.nut
-msgid "Webbed Valuables"
-msgstr "网住的贵重物品"
-
 # scripts/items/loot/lindwurm_hoard_item.nut
 msgid "Lindwurm's Hoard"
 msgstr "林德沃姆的宝藏"
@@ -86,13 +82,17 @@ msgstr "林德沃姆的宝藏"
 msgid "Looted Valuables"
 msgstr "贵重战利品"
 
-# scripts/items/loot/deformed_valuables_item.nut
-msgid "Deformed Valuables"
-msgstr "变形的贵重物品"
+# scripts/items/loot/webbed_valuables_item.nut
+msgid "Webbed Valuables"
+msgstr "网住的贵重物品"
 
 # scripts/items/loot/ancient_gold_coins_item.nut
 msgid "Ancient Gold Coins"
 msgstr "古代金币"
+
+# scripts/items/loot/deformed_valuables_item.nut
+msgid "Deformed Valuables"
+msgstr "变形的贵重物品"
 
 # scripts/items/loot/goblin_minted_coins_item.nut
 msgid "Minted Silver Coins"
@@ -130,17 +130,17 @@ msgid ""
 "city."
 msgstr "一堆银餐具。 在下一个城市应该能卖个好价钱。"
 
-# scripts/items/loot/gemstones_item.nut
-msgid ""
-"Cut gemstones of various sizes. Should be worth a lot if you can find a "
-"buyer."
-msgstr "切割成各种大小的宝石。 如果你能找到买家的话，应该很值钱。"
-
 # scripts/items/loot/goblin_carved_ivory_iconographs_item.nut
 msgid ""
 "Artfully carved ivory iconographs depicting revered members of goblin "
 "society."
 msgstr "雕刻精美的象牙肖像画描绘了哥布林社会中受人尊敬的成员。"
+
+# scripts/items/loot/gemstones_item.nut
+msgid ""
+"Cut gemstones of various sizes. Should be worth a lot if you can find a "
+"buyer."
+msgstr "切割成各种大小的宝石。 如果你能找到买家的话，应该很值钱。"
 
 # scripts/items/loot/white_pearls_item.nut
 msgid ""
@@ -196,17 +196,17 @@ msgid ""
 "valuables they find into a handy, twisted ball."
 msgstr "巨魔是笨重但强壮的生物，它们倾向于将找到的贵重物品挤压并捣烂成一个方便、扭曲的球。"
 
-# scripts/items/loot/ancient_amber_item.nut
-msgid ""
-"Particularly old schrats grow small splinters of extremely pure amber on "
-"their bark. These sell for quite a price to a trader."
-msgstr "特别是老树人，它们的树皮上会长出非常纯净的琥珀碎片。 这些东西对一个交易者来说价格很高。"
-
 # scripts/items/loot/valuable_furs_item.nut
 msgid ""
 "A pack of valuable furs and pelts from various small animals. A very sought-"
 "after commodity, especially in larger settlements."
 msgstr "一堆珍贵的各种小动物的毛皮。 一种非常抢手的商品，尤其是在较大的定居点。"
+
+# scripts/items/loot/ancient_amber_item.nut
+msgid ""
+"Particularly old schrats grow small splinters of extremely pure amber on "
+"their bark. These sell for quite a price to a trader."
+msgstr "特别是老树人，它们的树皮上会长出非常纯净的琥珀碎片。 这些东西对一个交易者来说价格很高。"
 
 # scripts/items/loot/ornate_tome_item.nut
 msgid ""

@@ -14,23 +14,23 @@ msgstr ""
 msgid "Heals [color="
 msgstr ""
 
-# scripts/items/armor/legendary/emperors_armor_fake.nut
-# scripts/items/armor/legendary/emperors_armor.nut
-msgid "Reflects [color="
-msgstr ""
-
 # scripts/items/armor/legendary/armor_of_davkul.nut
 msgid "Aspect of Davkul"
 msgstr "达库尔的神体"
 
 # scripts/items/armor/legendary/emperors_armor_fake.nut
 # scripts/items/armor/legendary/emperors_armor.nut
-msgid "The Emperor's Armor"
-msgstr "帝王铠甲"
+msgid "Reflects [color="
+msgstr ""
 
 # scripts/items/armor/legendary/ijirok_armor.nut
 msgid "Armor of the Ijirok"
 msgstr "伊吉罗克铠甲"
+
+# scripts/items/armor/legendary/emperors_armor_fake.nut
+# scripts/items/armor/legendary/emperors_armor.nut
+msgid "The Emperor's Armor"
+msgstr "帝王铠甲"
 
 # scripts/items/armor/legendary/armor_of_davkul.nut
 msgid "Regenerates itself by [color="

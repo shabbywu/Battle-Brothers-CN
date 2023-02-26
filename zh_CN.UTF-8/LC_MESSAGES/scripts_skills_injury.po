@@ -2,13 +2,13 @@
 msgid ""
 msgstr ""
 
-# scripts/skills/injury/sickness_injury.nut
-msgid "Sick"
-msgstr "不舒服"
-
 # scripts/skills/injury/injury.nut
 msgid " to "
 msgstr ""
+
+# scripts/skills/injury/sickness_injury.nut
+msgid "Sick"
+msgstr "不舒服"
 
 # scripts/skills/injury/injury.nut
 msgid " days"
@@ -26,13 +26,25 @@ msgstr "手臂断裂"
 msgid "Burnt Leg"
 msgstr "烧伤的腿"
 
-# scripts/skills/injury/cut_artery_injury.nut
-msgid "Cut Artery"
-msgstr "动脉断裂"
+# scripts/skills/injury/injury.nut
+msgid " (Treated)"
+msgstr ""
 
 # scripts/skills/injury/broken_arm_injury.nut
 msgid "Broken Arm"
 msgstr "手臂折断"
+
+# scripts/skills/injury/broken_leg_injury.nut
+msgid "Broken Leg"
+msgstr "腿折断"
+
+# scripts/skills/injury/burnt_face_injury.nut
+msgid "Burnt Face"
+msgstr "烧伤的脸"
+
+# scripts/skills/injury/cut_artery_injury.nut
+msgid "Cut Artery"
+msgstr "动脉断裂"
 
 # scripts/skills/injury/ripped_ear_injury.nut
 msgid "Ripped Ear"
@@ -46,69 +58,53 @@ msgstr "手劈裂"
 msgid "Split Nose"
 msgstr "鼻裂"
 
-# scripts/skills/injury/burnt_face_injury.nut
-msgid "Burnt Face"
-msgstr "烧伤的脸"
-
-# scripts/skills/injury/broken_leg_injury.nut
-msgid "Broken Leg"
-msgstr "腿折断"
-
-# scripts/skills/injury/injury.nut
-msgid " (Treated)"
-msgstr ""
-
-# scripts/skills/injury/bruised_leg_injury.nut
-msgid "Bruised Leg"
-msgstr "擦伤的腿"
-
-# scripts/skills/injury/grazed_neck_injury.nut
-msgid "Grazed Neck"
-msgstr "颈部擦破"
+# scripts/skills/injury/broken_nose_injury.nut
+msgid "Broken Nose"
+msgstr "鼻梁折断"
 
 # scripts/skills/injury/broken_ribs_injury.nut
 msgid "Broken Ribs"
 msgstr "肋骨折断"
 
+# scripts/skills/injury/bruised_leg_injury.nut
+msgid "Bruised Leg"
+msgstr "擦伤的腿"
+
 # scripts/skills/injury/burnt_hands_injury.nut
 msgid "Burnt Hands"
 msgstr "烧伤的手"
 
-# scripts/skills/injury/broken_nose_injury.nut
-msgid "Broken Nose"
-msgstr "鼻梁折断"
-
-# scripts/skills/injury/pierced_lung_injury.nut
-msgid "Pierced Lung"
-msgstr "肺穿孔"
-
-# scripts/skills/injury/exposed_ribs_injury.nut
-msgid "Exposed Ribs"
-msgstr "肋骨外露"
-
-# scripts/skills/injury/pierced_side_injury.nut
-msgid "Pierced Side"
-msgstr "侧面穿孔"
+# scripts/skills/injury/grazed_neck_injury.nut
+msgid "Grazed Neck"
+msgstr "颈部擦破"
 
 # scripts/skills/injury/sickness_injury.nut
 msgid " is now sick"
 msgstr " 现在生病了"
 
-# scripts/skills/injury/stabbed_guts_injury.nut
-msgid "Stabbed Guts"
-msgstr "肠刺伤"
-
-# scripts/skills/injury/smashed_hand_injury.nut
-msgid "Smashed Hand"
-msgstr "手碎裂"
+# scripts/skills/injury/exposed_ribs_injury.nut
+msgid "Exposed Ribs"
+msgstr "肋骨外露"
 
 # scripts/skills/injury/pierced_hand_injury.nut
 msgid "Pierced Hand"
 msgstr "手穿孔"
 
-# scripts/skills/injury/pierced_cheek_injury.nut
-msgid "Pierced Cheek"
-msgstr "面颊穿孔"
+# scripts/skills/injury/pierced_lung_injury.nut
+msgid "Pierced Lung"
+msgstr "肺穿孔"
+
+# scripts/skills/injury/pierced_side_injury.nut
+msgid "Pierced Side"
+msgstr "侧面穿孔"
+
+# scripts/skills/injury/smashed_hand_injury.nut
+msgid "Smashed Hand"
+msgstr "手碎裂"
+
+# scripts/skills/injury/stabbed_guts_injury.nut
+msgid "Stabbed Guts"
+msgstr "肠刺伤"
 
 # scripts/skills/injury/cut_artery_injury.nut
 # scripts/skills/injury/grazed_neck_injury.nut
@@ -116,61 +112,69 @@ msgstr "面颊穿孔"
 msgid "Bled to death"
 msgstr "流血至死"
 
-# scripts/skills/injury/deep_face_cut_injury.nut
-msgid "Deep Face Cut"
-msgstr "深面切口"
-
 # scripts/skills/injury/cut_arm_sinew_injury.nut
 msgid "Cut Arm Sinew"
 msgstr "臂腱断裂"
-
-# scripts/skills/injury/pierced_chest_injury.nut
-msgid "Pierced Chest"
-msgstr "胸部穿孔"
-
-# scripts/skills/injury/grazed_kidney_injury.nut
-msgid "Grazed Kidney"
-msgstr "肾擦破"
-
-# scripts/skills/injury/injury.nut
-msgid "Will heal in "
-msgstr ""
 
 # scripts/skills/injury/cut_throat_injury.nut
 msgid "Cut Neck Vein"
 msgstr "颈静脉断裂"
 
-# scripts/skills/injury/infected_wound_injury.nut
-msgid "Infected Wound"
-msgstr "感染伤口"
+# scripts/skills/injury/deep_face_cut_injury.nut
+msgid "Deep Face Cut"
+msgstr "深面切口"
 
-# scripts/skills/injury/sprained_ankle_injury.nut
-msgid "Sprained Ankle"
-msgstr "踝关节扭伤"
+# scripts/skills/injury/grazed_kidney_injury.nut
+msgid "Grazed Kidney"
+msgstr "肾擦破"
 
-# scripts/skills/injury/fractured_ribs_injury.nut
-msgid "Fractured Ribs"
-msgstr "肋骨骨折"
+# scripts/skills/injury/pierced_cheek_injury.nut
+msgid "Pierced Cheek"
+msgstr "面颊穿孔"
 
-# scripts/skills/injury/inhaled_flames_injury.nut
-msgid "Inhaled Flames"
+# scripts/skills/injury/pierced_chest_injury.nut
+msgid "Pierced Chest"
+msgstr "胸部穿孔"
+
+# scripts/skills/injury/injury.nut
+msgid "Will heal in "
 msgstr ""
-
-# scripts/skills/injury/fractured_hand_injury.nut
-msgid "Fractured Hand"
-msgstr "手骨折"
-
-# scripts/skills/injury/deep_chest_cut_injury.nut
-msgid "Deep Chest Cut"
-msgstr "深胸切口"
 
 # scripts/skills/injury/crushed_finger_injury.nut
 msgid "Crushed Finger"
 msgstr "压碎的手指"
 
+# scripts/skills/injury/deep_chest_cut_injury.nut
+msgid "Deep Chest Cut"
+msgstr "深胸切口"
+
+# scripts/skills/injury/fractured_hand_injury.nut
+msgid "Fractured Hand"
+msgstr "手骨折"
+
+# scripts/skills/injury/fractured_ribs_injury.nut
+msgid "Fractured Ribs"
+msgstr "肋骨骨折"
+
+# scripts/skills/injury/infected_wound_injury.nut
+msgid "Infected Wound"
+msgstr "感染伤口"
+
+# scripts/skills/injury/inhaled_flames_injury.nut
+msgid "Inhaled Flames"
+msgstr ""
+
 # scripts/skills/injury/split_shoulder_injury.nut
 msgid "Split Shoulder"
 msgstr "肩裂"
+
+# scripts/skills/injury/sprained_ankle_injury.nut
+msgid "Sprained Ankle"
+msgstr "踝关节扭伤"
+
+# scripts/skills/injury/cut_leg_muscles_injury.nut
+msgid "Cut Leg Muscles"
+msgstr "腿部肌肉断裂"
 
 # scripts/skills/injury/fractured_elbow_injury.nut
 msgid "Fractured Elbow"
@@ -179,10 +183,6 @@ msgstr "肘关节骨折"
 # scripts/skills/injury/fractured_skull_injury.nut
 msgid "Fractured Skull"
 msgstr "颅骨骨折"
-
-# scripts/skills/injury/cut_leg_muscles_injury.nut
-msgid "Cut Leg Muscles"
-msgstr "腿部肌肉断裂"
 
 # scripts/skills/injury/crushed_windpipe_injury.nut
 msgid "Crushed Windpipe"
@@ -208,6 +208,10 @@ msgstr "眼眶擦破"
 msgid "Severe Concussion"
 msgstr "严重脑震荡"
 
+# scripts/skills/injury/deep_abdominal_cut_injury.nut
+msgid "Deep Abdominal Cut"
+msgstr "腹部深切口"
+
 # scripts/skills/injury/grazed_eye_socket_injury.nut
 # scripts/skills/injury/deep_face_cut_injury.nut
 # scripts/skills/injury/sickness_injury.nut
@@ -217,21 +221,17 @@ msgstr "严重脑震荡"
 msgid "]-2[/color] Vision"
 msgstr ""
 
-# scripts/skills/injury/deep_abdominal_cut_injury.nut
-msgid "Deep Abdominal Cut"
-msgstr "腹部深切口"
-
-# scripts/skills/injury/pierced_arm_muscles_injury.nut
-msgid "Pierced Arm Muscles"
-msgstr "手臂肌肉穿孔"
+# scripts/skills/injury/cut_achilles_tendon_injury.nut
+msgid "Cut Achilles Tendon"
+msgstr "跟腱断裂"
 
 # scripts/skills/injury/dislocated_shoulder_injury.nut
 msgid "Dislocated Shoulder"
 msgstr "肩膀脱臼"
 
-# scripts/skills/injury/cut_achilles_tendon_injury.nut
-msgid "Cut Achilles Tendon"
-msgstr "跟腱断裂"
+# scripts/skills/injury/pierced_arm_muscles_injury.nut
+msgid "Pierced Arm Muscles"
+msgstr "手臂肌肉穿孔"
 
 # scripts/skills/injury/pierced_leg_muscles_injury.nut
 msgid "Pierced Leg Muscles"
@@ -245,10 +245,8 @@ msgstr "明天就会痊愈"
 msgid "]-25%[/color] Resolve"
 msgstr ""
 
-# scripts/skills/injury/cut_artery_injury.nut
-# scripts/skills/injury/exposed_ribs_injury.nut
-# scripts/skills/injury/deep_chest_cut_injury.nut
-msgid "]-35%[/color] Hitpoints"
+# scripts/skills/injury/grazed_neck_injury.nut
+msgid "]-15%[/color] Hitpoints"
 msgstr ""
 
 # scripts/skills/injury/infected_wound_injury.nut
@@ -257,24 +255,30 @@ msgstr ""
 msgid "]-25%[/color] Hitpoints"
 msgstr ""
 
-# scripts/skills/injury/grazed_neck_injury.nut
-msgid "]-15%[/color] Hitpoints"
+# scripts/skills/injury/cut_artery_injury.nut
+# scripts/skills/injury/exposed_ribs_injury.nut
+# scripts/skills/injury/deep_chest_cut_injury.nut
+msgid "]-35%[/color] Hitpoints"
 msgstr ""
 
 # scripts/skills/injury/stabbed_guts_injury.nut
 msgid "]-40%[/color] Hitpoints"
 msgstr ""
 
-# scripts/skills/injury/grazed_kidney_injury.nut
-msgid "]-60%[/color] Hitpoints"
-msgstr ""
-
 # scripts/skills/injury/cut_throat_injury.nut
 msgid "]-50%[/color] Hitpoints"
 msgstr ""
 
-# scripts/skills/injury/sickness_injury.nut
-msgid "]-25%[/color] Initiative"
+# scripts/skills/injury/grazed_kidney_injury.nut
+msgid "]-60%[/color] Hitpoints"
+msgstr ""
+
+# scripts/skills/injury/injury.nut
+msgid "Will be gone by tomorrow"
+msgstr "明天就会消失"
+
+# scripts/skills/injury/ripped_ear_injury.nut
+msgid "]-15%[/color] Initiative"
 msgstr ""
 
 # scripts/skills/injury/bruised_leg_injury.nut
@@ -283,15 +287,19 @@ msgstr ""
 msgid "]-20%[/color] Initiative"
 msgstr ""
 
-# scripts/skills/injury/injured_knee_cap_injury.nut
-# scripts/skills/injury/cut_leg_muscles_injury.nut
-# scripts/skills/injury/broken_leg_injury.nut
-msgid "]-40%[/color] Initiative"
+# scripts/skills/injury/sickness_injury.nut
+msgid "]-25%[/color] Initiative"
 msgstr ""
 
 # scripts/skills/injury/cut_achilles_tendon_injury.nut
 # scripts/skills/injury/pierced_leg_muscles_injury.nut
 msgid "]-30%[/color] Initiative"
+msgstr ""
+
+# scripts/skills/injury/injured_knee_cap_injury.nut
+# scripts/skills/injury/cut_leg_muscles_injury.nut
+# scripts/skills/injury/broken_leg_injury.nut
+msgid "]-40%[/color] Initiative"
 msgstr ""
 
 # scripts/skills/injury/crushed_finger_injury.nut
@@ -303,13 +311,25 @@ msgstr "]-5%[/color] 近战技能"
 msgid "]-50%[/color] Initiative"
 msgstr ""
 
-# scripts/skills/injury/ripped_ear_injury.nut
-msgid "]-15%[/color] Initiative"
+# scripts/skills/injury/cut_arm_injury.nut
+msgid "]-15%[/color] Melee Skill"
+msgstr "]-15%[/color] 近战技能"
+
+# scripts/skills/injury/pierced_side_injury.nut
+# scripts/skills/injury/pierced_chest_injury.nut
+msgid "]-20%[/color] Max Fatigue"
 msgstr ""
 
-# scripts/skills/injury/injury.nut
-msgid "Will be gone by tomorrow"
-msgstr "明天就会消失"
+# scripts/skills/injury/fractured_hand_injury.nut
+# scripts/skills/injury/pierced_hand_injury.nut
+msgid "]-20%[/color] Melee Skill"
+msgstr "]-20%[/color] 近战技能"
+
+# scripts/skills/injury/infected_wound_injury.nut
+# scripts/skills/injury/sickness_injury.nut
+# scripts/skills/injury/deep_abdominal_cut_injury.nut
+msgid "]-25%[/color] Max Fatigue"
+msgstr ""
 
 # scripts/skills/injury/pierced_arm_muscles_injury.nut
 # scripts/skills/injury/deep_face_cut_injury.nut
@@ -319,48 +339,25 @@ msgstr "明天就会消失"
 msgid "]-25%[/color] Melee Skill"
 msgstr "]-25%[/color] 近战技能"
 
-# scripts/skills/injury/fractured_hand_injury.nut
-# scripts/skills/injury/pierced_hand_injury.nut
-msgid "]-20%[/color] Melee Skill"
-msgstr "]-20%[/color] 近战技能"
-
-# scripts/skills/injury/crushed_finger_injury.nut
-msgid "]-5%[/color] Ranged Skill"
-msgstr "]-5%[/color] 远程技能"
-
-# scripts/skills/injury/dislocated_shoulder_injury.nut
-msgid "]-3[/color] Action Points"
-msgstr ""
-
-# scripts/skills/injury/crushed_windpipe_injury.nut
-msgid "]-50%[/color] Max Fatigue"
-msgstr ""
-
-# scripts/skills/injury/pierced_lung_injury.nut
-msgid "]-60%[/color] Max Fatigue"
-msgstr ""
-
-# scripts/skills/injury/infected_wound_injury.nut
-# scripts/skills/injury/sickness_injury.nut
-# scripts/skills/injury/deep_abdominal_cut_injury.nut
-msgid "]-25%[/color] Max Fatigue"
+# scripts/skills/injury/inhaled_flames_injury.nut
+msgid "]-2[/color] Action Points"
 msgstr ""
 
 # scripts/skills/injury/fractured_ribs_injury.nut
 msgid "]-30%[/color] Max Fatigue"
 msgstr ""
 
-# scripts/skills/injury/pierced_side_injury.nut
-# scripts/skills/injury/pierced_chest_injury.nut
-msgid "]-20%[/color] Max Fatigue"
+# scripts/skills/injury/deep_chest_cut_injury.nut
+msgid "]-35%[/color] Max Fatigue"
 msgstr ""
 
-# scripts/skills/injury/broken_arm_injury.nut
-# scripts/skills/injury/fractured_skull_injury.nut
-# scripts/skills/injury/split_hand_injury.nut
-# scripts/skills/injury/severe_concussion_injury.nut
-msgid "]-50%[/color] Melee Skill"
-msgstr "]-50%[/color] 近战技能"
+# scripts/skills/injury/deep_chest_cut_injury.nut
+msgid "]-35%[/color] Melee Skill"
+msgstr "]-35%[/color] 近战技能"
+
+# scripts/skills/injury/dislocated_shoulder_injury.nut
+msgid "]-3[/color] Action Points"
+msgstr ""
 
 # scripts/skills/injury/broken_ribs_injury.nut
 # scripts/skills/injury/stabbed_guts_injury.nut
@@ -372,34 +369,33 @@ msgstr ""
 msgid "]-40%[/color] Melee Skill"
 msgstr "]-40%[/color] 近战技能"
 
-# scripts/skills/injury/inhaled_flames_injury.nut
-msgid "]-2[/color] Action Points"
+# scripts/skills/injury/crushed_finger_injury.nut
+msgid "]-5%[/color] Ranged Skill"
+msgstr "]-5%[/color] 远程技能"
+
+# scripts/skills/injury/crushed_windpipe_injury.nut
+msgid "]-50%[/color] Max Fatigue"
 msgstr ""
 
-# scripts/skills/injury/deep_chest_cut_injury.nut
-msgid "]-35%[/color] Melee Skill"
-msgstr "]-35%[/color] 近战技能"
+# scripts/skills/injury/broken_arm_injury.nut
+# scripts/skills/injury/fractured_skull_injury.nut
+# scripts/skills/injury/split_hand_injury.nut
+# scripts/skills/injury/severe_concussion_injury.nut
+msgid "]-50%[/color] Melee Skill"
+msgstr "]-50%[/color] 近战技能"
 
-# scripts/skills/injury/deep_chest_cut_injury.nut
-msgid "]-35%[/color] Max Fatigue"
+# scripts/skills/injury/pierced_lung_injury.nut
+msgid "]-60%[/color] Max Fatigue"
 msgstr ""
 
 # scripts/skills/injury/cut_arm_injury.nut
-msgid "]-15%[/color] Melee Skill"
-msgstr "]-15%[/color] 近战技能"
+msgid "]-15%[/color] Ranged Skill"
+msgstr "]-15%[/color] 远程技能"
 
 # scripts/skills/injury/fractured_hand_injury.nut
 # scripts/skills/injury/pierced_hand_injury.nut
 msgid "]-20%[/color] Ranged Skill"
 msgstr "]-20%[/color] 远程技能"
-
-# scripts/skills/injury/grazed_eye_socket_injury.nut
-# scripts/skills/injury/broken_arm_injury.nut
-# scripts/skills/injury/fractured_skull_injury.nut
-# scripts/skills/injury/split_hand_injury.nut
-# scripts/skills/injury/severe_concussion_injury.nut
-msgid "]-50%[/color] Ranged Skill"
-msgstr "]-50%[/color] 远程技能"
 
 # scripts/skills/injury/pierced_arm_muscles_injury.nut
 # scripts/skills/injury/deep_face_cut_injury.nut
@@ -409,17 +405,21 @@ msgstr "]-50%[/color] 远程技能"
 msgid "]-25%[/color] Ranged Skill"
 msgstr "]-25%[/color] 远程技能"
 
-# scripts/skills/injury/smashed_hand_injury.nut
-msgid "]-40%[/color] Ranged Skill"
-msgstr "]-40%[/color] 远程技能"
-
 # scripts/skills/injury/deep_chest_cut_injury.nut
 msgid "]-35%[/color] Ranged Skill"
 msgstr "]-35%[/color] 远程技能"
 
-# scripts/skills/injury/cut_arm_injury.nut
-msgid "]-15%[/color] Ranged Skill"
-msgstr "]-15%[/color] 远程技能"
+# scripts/skills/injury/smashed_hand_injury.nut
+msgid "]-40%[/color] Ranged Skill"
+msgstr "]-40%[/color] 远程技能"
+
+# scripts/skills/injury/grazed_eye_socket_injury.nut
+# scripts/skills/injury/broken_arm_injury.nut
+# scripts/skills/injury/fractured_skull_injury.nut
+# scripts/skills/injury/split_hand_injury.nut
+# scripts/skills/injury/severe_concussion_injury.nut
+msgid "]-50%[/color] Ranged Skill"
+msgstr "]-50%[/color] 远程技能"
 
 # scripts/skills/injury/deep_face_cut_injury.nut
 # scripts/skills/injury/sickness_injury.nut
@@ -452,17 +452,17 @@ msgstr "]-25%[/color] 远程防御"
 msgid "]-50%[/color] Ranged Defense"
 msgstr "]-50%[/color] 远程防御"
 
-# scripts/skills/injury/broken_arm_injury.nut
-msgid "]-50%[/color] Damage Inflicted"
-msgstr "]-50%[/color] 造成的伤害"
+# scripts/skills/injury/injured_shoulder_injury.nut
+msgid "]-25%[/color] Damage inflicted"
+msgstr ""
 
 # scripts/skills/injury/cut_arm_sinew_injury.nut
 msgid "]-40%[/color] Damage inflicted"
 msgstr ""
 
-# scripts/skills/injury/injured_shoulder_injury.nut
-msgid "]-25%[/color] Damage inflicted"
-msgstr ""
+# scripts/skills/injury/broken_arm_injury.nut
+msgid "]-50%[/color] Damage Inflicted"
+msgstr "]-50%[/color] 造成的伤害"
 
 # scripts/skills/injury/split_shoulder_injury.nut
 msgid "]-50%[/color] Damage inflicted"
@@ -485,13 +485,13 @@ msgstr "]-10[/color] 每回合疲劳恢复"
 msgid "]1[/color] hitpoint each turn in combat"
 msgstr ""
 
-# scripts/skills/injury/cut_artery_injury.nut
-msgid "]3[/color] hitpoints each turn in combat"
-msgstr ""
-
 # scripts/skills/injury/injury.nut
 msgid "Is content for now with being in reserve"
 msgstr "现在位于后备队不会不满意"
+
+# scripts/skills/injury/cut_artery_injury.nut
+msgid "]3[/color] hitpoints each turn in combat"
+msgstr ""
 
 # scripts/skills/injury/cut_throat_injury.nut
 msgid "]6[/color] hitpoints each turn in combat"
@@ -524,20 +524,20 @@ msgid "Will not heal because you have no medical supplies"
 msgstr "不会痊愈，因为你没有医疗用品"
 
 # scripts/skills/injury/injury.nut
-msgid "Will take effect only after combat ends due to the Iron Will effect"
-msgstr "由于钢铁意志效果，只会在战斗结束后才会生效"
-
-# scripts/skills/injury/injury.nut
 msgid "Will not heal because this character has taken an oath of sacrifice"
 msgstr "不会痊愈，因为这个角色宣誓要献祭"
 
-# scripts/skills/injury/fractured_ribs_injury.nut
-msgid "Fractured ribs send a wave of pain through the body with every breath."
-msgstr "肋骨骨折每次呼吸都会使身体产生一阵疼痛。"
+# scripts/skills/injury/injury.nut
+msgid "Will take effect only after combat ends due to the Iron Will effect"
+msgstr "由于钢铁意志效果，只会在战斗结束后才会生效"
 
 # scripts/skills/injury/broken_arm_injury.nut
 msgid "A broken arm makes it almost impossible to use any weapon effectively."
 msgstr "手臂折断，几乎不可能有效地使用任何武器。"
+
+# scripts/skills/injury/fractured_ribs_injury.nut
+msgid "Fractured ribs send a wave of pain through the body with every breath."
+msgstr "肋骨骨折每次呼吸都会使身体产生一阵疼痛。"
 
 # scripts/skills/injury/broken_leg_injury.nut
 msgid ""
@@ -554,11 +554,6 @@ msgid ""
 "A partially cut arm sinew makes it difficult to put force into any strike."
 msgstr "部分断裂的手臂肌肉使任何打击都很难施力。"
 
-# scripts/skills/injury/burnt_legs_injury.nut
-msgid ""
-"Burn wounds on the legs limit mobility and make it painful to move quickly."
-msgstr "烧伤的腿会限制行动能力，并使快速移动感到疼痛。"
-
 # scripts/skills/injury/sprained_ankle_injury.nut
 msgid ""
 "A sprained ankle makes even the quickest man hobble across the battlefield."
@@ -568,6 +563,11 @@ msgstr "扭伤的脚踝使最快的人在战场上蹒跚而行。"
 msgid ""
 "An unlucky hit crushed a finger, making it painful to maintain a firm grip."
 msgstr "一次不幸的打击击伤了一根手指，使它难以保持紧握。"
+
+# scripts/skills/injury/burnt_legs_injury.nut
+msgid ""
+"Burn wounds on the legs limit mobility and make it painful to move quickly."
+msgstr "烧伤的腿会限制行动能力，并使快速移动感到疼痛。"
 
 # scripts/skills/injury/injured_shoulder_injury.nut
 msgid ""
@@ -592,17 +592,17 @@ msgid ""
 "effect"
 msgstr "由于钢铁意志效果，只会在下次战斗后才会再次生效"
 
-# scripts/skills/injury/cut_achilles_tendon_injury.nut
-msgid ""
-"An injury like this makes even the quickest man hobble across the "
-"battlefield."
-msgstr "这样的伤害甚至使最快的人在战场上蹒跚而行。"
-
 # scripts/skills/injury/exposed_ribs_injury.nut
 msgid ""
 "A deep cut to the side peeled the skin right off of this character's rib "
 "cage."
 msgstr "侧面的一个深切口使这个角色的胸腔的皮肤立刻脱落。"
+
+# scripts/skills/injury/cut_achilles_tendon_injury.nut
+msgid ""
+"An injury like this makes even the quickest man hobble across the "
+"battlefield."
+msgstr "这样的伤害甚至使最快的人在战场上蹒跚而行。"
 
 # scripts/skills/injury/infected_wound_injury.nut
 msgid ""
@@ -610,18 +610,18 @@ msgid ""
 "constitution."
 msgstr "一个不洁的伤口已经溃烂，耗尽了这个角色的体质。"
 
+# scripts/skills/injury/cut_leg_muscles_injury.nut
+msgid ""
+"A cut into the muscles of the leg makes any quick and sudden movements "
+"impossible."
+msgstr "腿部肌肉断裂，任何快速和突然的动作都是不可能的。"
+
 # scripts/skills/injury/pierced_lung_injury.nut
 # scripts/skills/injury/inhaled_flames_injury.nut
 msgid ""
 "A second opening for air proves of little use, except for sounding like a "
 "bagpipe."
 msgstr "第二个通气孔除了听起来像风笛外几乎没有什么用处。"
-
-# scripts/skills/injury/cut_leg_muscles_injury.nut
-msgid ""
-"A cut into the muscles of the leg makes any quick and sudden movements "
-"impossible."
-msgstr "腿部肌肉断裂，任何快速和突然的动作都是不可能的。"
 
 # scripts/skills/injury/burnt_face_injury.nut
 msgid ""
@@ -737,17 +737,17 @@ msgid ""
 "neck, and making them less aware of their surroundings."
 msgstr "这个角色的耳朵几乎被撕掉了，血液流到了他的头和脖子上，使他对周围的环境不太了解。"
 
-# scripts/skills/injury/injured_knee_cap_injury.nut
-msgid ""
-"The sensitive knee cap has been injured, resulting in pain with every "
-"movement and severely limiting the mobility of this character."
-msgstr "敏感的膝帽受伤，导致每次运动都疼痛，严重限制了这个角色的活动性。"
-
 # scripts/skills/injury/split_nose_injury.nut
 msgid ""
 "A close swing split this character's nose in two and made any attempt to "
 "breathe an exercise in swallowing copious amounts of blood."
 msgstr "一个近距离的打击把这个角色的鼻子一分为二，并试图通过呼吸运动吞下大量的血液。"
+
+# scripts/skills/injury/injured_knee_cap_injury.nut
+msgid ""
+"The sensitive knee cap has been injured, resulting in pain with every "
+"movement and severely limiting the mobility of this character."
+msgstr "敏感的膝帽受伤，导致每次运动都疼痛，严重限制了这个角色的活动性。"
 
 # scripts/skills/injury/stabbed_guts_injury.nut
 msgid ""
@@ -775,19 +775,19 @@ msgid ""
 " breathe."
 msgstr "一次穿刺攻击刺穿了胸部，损伤了肌肉组织，擦伤了肋骨。 虽然没有重要的器官受到损伤，要想平静的呼吸还是很痛苦的。"
 
-# scripts/skills/injury/fractured_skull_injury.nut
-msgid ""
-"This character's skull has sustained multiple fractures, and the brain has "
-"sustained blunt trauma leading to swelling and a build-up of pressure inside"
-" the skull."
-msgstr "这个角色的头骨有多处骨折，大脑遭受了钝性创伤，导致肿胀和头骨内部压力的积聚。"
-
 # scripts/skills/injury/grazed_kidney_injury.nut
 msgid ""
 "Abdominal pain, blood in the urine and always the danger of infection. A "
 "grazed kidney is a severe risk to the life of any character, draining their "
 "constitution."
 msgstr "腹痛、尿中带血，始终有感染的危险。擦破的肾脏对任何人的生命都是一种严重的危险，会耗尽他们的体质。"
+
+# scripts/skills/injury/fractured_skull_injury.nut
+msgid ""
+"This character's skull has sustained multiple fractures, and the brain has "
+"sustained blunt trauma leading to swelling and a build-up of pressure inside"
+" the skull."
+msgstr "这个角色的头骨有多处骨折，大脑遭受了钝性创伤，导致肿胀和头骨内部压力的积聚。"
 
 # scripts/skills/injury/sickness_injury.nut
 msgid ""

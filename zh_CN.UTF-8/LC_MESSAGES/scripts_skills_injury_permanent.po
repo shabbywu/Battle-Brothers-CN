@@ -6,45 +6,45 @@ msgstr ""
 msgid "Permanent"
 msgstr "永久的"
 
-# scripts/skills/injury_permanent/missing_eye_injury.nut
-msgid "Missing Eye"
-msgstr "眼缺失"
-
-# scripts/skills/injury_permanent/missing_ear_injury.nut
-msgid "Missing Ear"
-msgstr "耳缺失"
+# scripts/skills/injury_permanent/broken_knee_injury.nut
+msgid "Broken Knee"
+msgstr "膝盖折断"
 
 # scripts/skills/injury_permanent/maimed_foot_injury.nut
 msgid "Maimed Foot"
 msgstr "残废足"
 
-# scripts/skills/injury_permanent/broken_knee_injury.nut
-msgid "Broken Knee"
-msgstr "膝盖折断"
+# scripts/skills/injury_permanent/missing_ear_injury.nut
+msgid "Missing Ear"
+msgstr "耳缺失"
+
+# scripts/skills/injury_permanent/missing_eye_injury.nut
+msgid "Missing Eye"
+msgstr "眼缺失"
 
 # scripts/skills/injury_permanent/traumatized_injury.nut
 msgid "Traumatized"
 msgstr "精神创伤"
 
-# scripts/skills/injury_permanent/missing_nose_injury.nut
-msgid "Missing Nose"
-msgstr "鼻缺失"
+# scripts/skills/injury_permanent/brain_damage_injury.nut
+msgid "Brain Damage"
+msgstr "脑损伤"
 
 # scripts/skills/injury_permanent/missing_hand_injury.nut
 msgid "Missing Hand"
 msgstr "手缺失"
 
-# scripts/skills/injury_permanent/brain_damage_injury.nut
-msgid "Brain Damage"
-msgstr "脑损伤"
-
-# scripts/skills/injury_permanent/weakened_heart_injury.nut
-msgid "Weakened Heart"
-msgstr "心脏衰弱"
+# scripts/skills/injury_permanent/missing_nose_injury.nut
+msgid "Missing Nose"
+msgstr "鼻缺失"
 
 # scripts/skills/injury_permanent/missing_finger_injury.nut
 msgid "Missing Finger"
 msgstr "手指缺失"
+
+# scripts/skills/injury_permanent/weakened_heart_injury.nut
+msgid "Weakened Heart"
+msgstr "心脏衰弱"
 
 # scripts/skills/injury_permanent/broken_elbow_joint_injury.nut
 msgid "Broken Elbow Joint"
@@ -58,12 +58,12 @@ msgstr ""
 msgid "Partly Collapsed Lung"
 msgstr "部分肺萎缩"
 
-# scripts/skills/injury_permanent/collapsed_lung_part_injury.nut
-msgid "]-40%[/color] Fatigue"
-msgstr ""
-
 # scripts/skills/injury_permanent/brain_damage_injury.nut
 msgid "]+15%[/color] Resolve"
+msgstr ""
+
+# scripts/skills/injury_permanent/collapsed_lung_part_injury.nut
+msgid "]-40%[/color] Fatigue"
 msgstr ""
 
 # scripts/skills/injury_permanent/traumatized_injury.nut
@@ -74,10 +74,6 @@ msgstr ""
 msgid "]-30%[/color] Hitpoints"
 msgstr ""
 
-# scripts/skills/injury_permanent/brain_damage_injury.nut
-msgid "]-25%[/color] Initiative"
-msgstr ""
-
 # scripts/skills/injury_permanent/missing_ear_injury.nut
 msgid "]-10%[/color] Initiative"
 msgstr ""
@@ -86,12 +82,16 @@ msgstr ""
 msgid "]-20%[/color] Initiative"
 msgstr ""
 
-# scripts/skills/injury_permanent/broken_knee_injury.nut
-msgid "]-40%[/color] Initiative"
+# scripts/skills/injury_permanent/brain_damage_injury.nut
+msgid "]-25%[/color] Initiative"
 msgstr ""
 
 # scripts/skills/injury_permanent/traumatized_injury.nut
 msgid "]-30%[/color] Initiative"
+msgstr ""
+
+# scripts/skills/injury_permanent/broken_knee_injury.nut
+msgid "]-40%[/color] Initiative"
 msgstr ""
 
 # scripts/skills/injury_permanent/missing_finger_injury.nut

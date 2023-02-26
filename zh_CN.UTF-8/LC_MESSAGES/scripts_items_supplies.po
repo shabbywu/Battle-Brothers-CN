@@ -2,21 +2,21 @@
 msgid ""
 msgstr ""
 
-# scripts/items/supplies/rice_item.nut
-msgid "Rice"
-msgstr "大米"
+# scripts/items/supplies/beer_item.nut
+msgid "Beer"
+msgstr "啤酒"
 
 # scripts/items/supplies/mead_item.nut
 msgid "Mead"
 msgstr "蜂蜜酒"
 
+# scripts/items/supplies/rice_item.nut
+msgid "Rice"
+msgstr "大米"
+
 # scripts/items/supplies/wine_item.nut
 msgid "Wine"
 msgstr "葡萄酒"
-
-# scripts/items/supplies/beer_item.nut
-msgid "Beer"
-msgstr "啤酒"
 
 # scripts/items/supplies/bread_item.nut
 msgid "Bread"
@@ -42,25 +42,25 @@ msgstr "弹药"
 msgid "Dried Fish"
 msgstr "鱼干"
 
-# scripts/items/supplies/smoked_ham_item.nut
-msgid "Smoked Ham"
-msgstr "熏火腿"
-
 # scripts/items/supplies/dried_lamb_item.nut
 msgid "Dried Lamb"
 msgstr "羊肉干"
+
+# scripts/items/supplies/smoked_ham_item.nut
+msgid "Smoked Ham"
+msgstr "熏火腿"
 
 # scripts/items/supplies/goat_cheese_item.nut
 msgid "Goat Cheese"
 msgstr "山羊奶酪"
 
-# scripts/items/supplies/strange_meat_item.nut
-msgid "Strange Meat"
-msgstr "奇怪的肉"
-
 # scripts/items/supplies/dried_fruits_item.nut
 msgid "Dried Fruits"
 msgstr "果脯"
+
+# scripts/items/supplies/strange_meat_item.nut
+msgid "Strange Meat"
+msgstr "奇怪的肉"
 
 # scripts/items/supplies/cured_venison_item.nut
 msgid "Cured Venison"
@@ -84,13 +84,13 @@ msgstr "特制蜂蜜酒"
 msgid "[/color] days."
 msgstr ""
 
-# scripts/items/supplies/medicine_item.nut
-msgid "Medical Supplies"
-msgstr "医疗用品"
-
 # scripts/items/supplies/black_marsh_stew_item.nut
 msgid "Black Marsh Stew"
 msgstr "黑沼泽炖"
+
+# scripts/items/supplies/medicine_item.nut
+msgid "Medical Supplies"
+msgstr "医疗用品"
 
 # scripts/items/supplies/roots_and_berries_item.nut
 msgid "Roots and Berries"
@@ -100,12 +100,12 @@ msgstr "根茎和浆果"
 msgid "Tools and Supplies"
 msgstr "工具和补给"
 
-# scripts/items/supplies/food_item.nut
-msgid "Will spoil in [color="
-msgstr ""
-
 # scripts/items/supplies/money_item.nut
 msgid "The amount of [color="
+msgstr ""
+
+# scripts/items/supplies/food_item.nut
+msgid "Will spoil in [color="
 msgstr ""
 
 # scripts/items/supplies/fermented_unhold_heart_item.nut
@@ -124,17 +124,17 @@ msgstr "购买价格 [img]gfx/ui/tooltips/money.png[/img]"
 msgid "Provisions. Light bread made from wheat makes for a filling meal."
 msgstr "食物。 用小麦做的面包可以填饱肚子。"
 
-# scripts/items/supplies/dried_fish_item.nut
-msgid ""
-"Provisions. Fish is a common and filling food in coastal regions. It is "
-"dried to preserve it."
-msgstr "食物。 在沿海地区，鱼是一种常见的食物。通过腌制以便于保存。"
-
 # scripts/items/supplies/cured_venison_item.nut
 msgid ""
 "Provisions. A cured chunk of venison preserved by salt. Fine food for a "
 "travelling sellsword."
 msgstr "食物。 用盐腌制的鹿肉块。佣兵们的旅行美食。"
+
+# scripts/items/supplies/dried_fish_item.nut
+msgid ""
+"Provisions. Fish is a common and filling food in coastal regions. It is "
+"dried to preserve it."
+msgstr "食物。 在沿海地区，鱼是一种常见的食物。通过腌制以便于保存。"
 
 # scripts/items/supplies/strange_meat_item.nut
 msgid ""
@@ -160,17 +160,17 @@ msgid ""
 "dried to preserve them longer."
 msgstr "食物。 果园里的水果既可口又营养。晒干以后可以保存更长的时间。"
 
-# scripts/items/supplies/wine_item.nut
-msgid ""
-"Provisions. Wine made from squashed and fermented grapes. Both elaborate to "
-"produce and expensive to buy."
-msgstr "食物。 由压榨和发酵的葡萄酿制而成的酒。制作的材料都是精心挑选的所以十分昂贵。"
-
 # scripts/items/supplies/roots_and_berries_item.nut
 msgid ""
 "Provisions. Dried roots and berries are not the most exciting of rations but"
 " easy to come by and durable."
 msgstr "食物。 根茎和浆果不是最令人兴奋的口粮，但很容易得到，并且保存良久。"
+
+# scripts/items/supplies/wine_item.nut
+msgid ""
+"Provisions. Wine made from squashed and fermented grapes. Both elaborate to "
+"produce and expensive to buy."
+msgstr "食物。 由压榨和发酵的葡萄酿制而成的酒。制作的材料都是精心挑选的所以十分昂贵。"
 
 # scripts/items/supplies/dates_item.nut
 msgid ""

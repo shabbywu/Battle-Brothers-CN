@@ -6,14 +6,6 @@ msgstr ""
 msgid "'s "
 msgstr "的"
 
-# scripts/items/armor/armor.nut
-msgid "armor"
-msgstr "盔甲"
-
-# scripts/items/armor/apron.nut
-msgid "apron"
-msgstr ""
-
 # scripts/items/armor/apron.nut
 msgid "Apron"
 msgstr "围裙"
@@ -22,25 +14,37 @@ msgstr "围裙"
 msgid "Gambeson"
 msgstr "棉制软铠"
 
-# scripts/items/armor/gambeson.nut
-msgid "gambeson"
-msgstr ""
-
-# scripts/items/armor/sackcloth.nut
-msgid "sackcloth"
-msgstr ""
-
 # scripts/items/armor/sackcloth.nut
 msgid "Sackcloth"
 msgstr "粗布衣"
+
+# scripts/items/armor/mail_shirt.nut
+msgid "Mail Shirt"
+msgstr "链甲衫"
 
 # scripts/items/armor/noble_mail_armor.nut
 msgid "Noble Mail"
 msgstr "贵族链甲"
 
-# scripts/items/armor/mail_shirt.nut
-msgid "Mail Shirt"
-msgstr "链甲衫"
+# scripts/items/armor/linen_tunic.nut
+msgid "Linen Tunic"
+msgstr "亚麻束腰外衣"
+
+# scripts/items/armor/monk_robe.nut
+msgid "Monk's Robe"
+msgstr "僧袍"
+
+# scripts/items/armor/noble_tunic.nut
+msgid "Noble Tunic"
+msgstr "贵族束腰外衣"
+
+# scripts/items/armor/scale_armor.nut
+msgid "Scale Armor"
+msgstr "鳞甲"
+
+# scripts/items/armor/thick_tunic.nut
+msgid "Thick Tunic"
+msgstr "厚皮外衣"
 
 # scripts/items/armor/armor.nut
 msgid "[/b] damage"
@@ -50,37 +54,17 @@ msgstr ""
 msgid "progressbar"
 msgstr ""
 
-# scripts/items/armor/monk_robe.nut
-msgid "Monk's Robe"
-msgstr "僧袍"
-
-# scripts/items/armor/thick_tunic.nut
-msgid "Thick Tunic"
-msgstr "厚皮外衣"
-
-# scripts/items/armor/scale_armor.nut
-msgid "Scale Armor"
-msgstr "鳞甲"
-
-# scripts/items/armor/noble_tunic.nut
-msgid "Noble Tunic"
-msgstr "贵族束腰外衣"
-
-# scripts/items/armor/linen_tunic.nut
-msgid "Linen Tunic"
-msgstr "亚麻束腰外衣"
-
 # scripts/items/armor/mail_hauberk.nut
 msgid "Mail Hauberk"
 msgstr "链锁子甲"
 
-# scripts/items/armor/leather_tunic.nut
-msgid "Leather Tunic"
-msgstr "皮革外套"
-
 # scripts/items/armor/heraldic_mail.nut
 msgid "Heraldic Mail"
 msgstr "纹章链甲"
+
+# scripts/items/armor/leather_tunic.nut
+msgid "Leather Tunic"
+msgstr "皮革外套"
 
 # scripts/items/armor/leather_wraps.nut
 msgid "Leather Wraps"
@@ -90,41 +74,37 @@ msgstr "皮外衣"
 msgid "Wizard's Robe"
 msgstr "术士长袍"
 
-# scripts/items/armor/padded_leather.nut
-msgid "Padded Leather"
-msgstr "棉内衬皮甲"
-
-# scripts/items/armor/ragged_surcoat.nut
-msgid "Rugged Surcoat"
-msgstr "粗糙的外衣"
+# scripts/items/armor/coat_of_plates.nut
+msgid "Coat of Plates"
+msgstr "板甲衣"
 
 # scripts/items/armor/coat_of_scales.nut
 msgid "Coat of Scales"
 msgstr "鳞甲衣"
 
-# scripts/items/armor/coat_of_plates.nut
-msgid "Coat of Plates"
-msgstr "板甲衣"
+# scripts/items/armor/padded_leather.nut
+msgid "Padded Leather"
+msgstr "棉内衬皮甲"
 
 # scripts/items/armor/padded_surcoat.nut
 msgid "Padded Surcoat"
 msgstr "棉外衣"
 
+# scripts/items/armor/ragged_surcoat.nut
+msgid "Rugged Surcoat"
+msgstr "粗糙的外衣"
+
 # scripts/items/armor/armor.nut
 msgid " is hit for [b]"
 msgstr ""
 
-# scripts/items/armor/armor.nut
-msgid "armor-body-slim"
-msgstr ""
+# scripts/items/armor/butcher_apron.nut
+msgid "Butcher's Apron"
+msgstr "屠夫的围裙"
 
 # scripts/items/armor/footman_armor.nut
 msgid "Footman's Armor"
 msgstr "步兵盔甲"
-
-# scripts/items/armor/butcher_apron.nut
-msgid "Butcher's Apron"
-msgstr "屠夫的围裙"
 
 # scripts/items/armor/wanderers_coat.nut
 msgid "Wanderer's Coat"
@@ -133,6 +113,10 @@ msgstr "流浪者外套"
 # scripts/items/armor/worn_mail_shirt.nut
 msgid "Worn Mail Shirt"
 msgstr "破旧链甲衫"
+
+# scripts/items/armor/armor.nut
+msgid "armor-body-slim"
+msgstr ""
 
 # scripts/items/armor/basic_mail_shirt.nut
 msgid "Basic Mail Shirt"
@@ -146,17 +130,25 @@ msgstr "黑暗的厚外套"
 msgid "Lamellar Harness"
 msgstr "层状甲胄"
 
-# scripts/items/armor/sellsword_armor.nut
-msgid "Sellsword's Armor"
-msgstr "佣兵铠甲"
+# scripts/items/armor/blotched_gambeson.nut
+msgid "Blotched Gambeson"
+msgstr "斑点软铠甲"
 
 # scripts/items/armor/light_scale_armor.nut
 msgid "Light Scale Armor"
 msgstr "轻型鳞甲"
 
-# scripts/items/armor/blotched_gambeson.nut
-msgid "Blotched Gambeson"
-msgstr "斑点软铠甲"
+# scripts/items/armor/sellsword_armor.nut
+msgid "Sellsword's Armor"
+msgstr "佣兵铠甲"
+
+# scripts/items/armor/adorned_mail_shirt.nut
+msgid "Adorned Mail Shirt"
+msgstr "装饰链甲衬衫"
+
+# scripts/items/armor/patched_mail_shirt.nut
+msgid "Patched Mail Shirt"
+msgstr "补丁链甲衫"
 
 # scripts/items/armor/tattered_sackcloth.nut
 msgid "Tattered Sackcloth"
@@ -166,22 +158,6 @@ msgstr "破烂的麻布片"
 msgid "Undertaker's Apron"
 msgstr "送葬者围裙"
 
-# scripts/items/armor/patched_mail_shirt.nut
-msgid "Patched Mail Shirt"
-msgstr "补丁链甲衫"
-
-# scripts/items/armor/adorned_mail_shirt.nut
-msgid "Adorned Mail Shirt"
-msgstr "装饰链甲衬衫"
-
-# scripts/items/armor/leather_scale_armor.nut
-msgid "Leather Scale Armor"
-msgstr "皮革鳞甲"
-
-# scripts/items/armor/werewolf_mail_armor.nut
-msgid "Direwolf Mail Armor"
-msgstr "冰原狼链甲"
-
 # scripts/items/armor/ragged_dark_surcoat.nut
 msgid "Dark Rugged Surcoat"
 msgstr "黑暗的外衣"
@@ -190,33 +166,41 @@ msgstr "黑暗的外衣"
 msgid "Direwolf Hide Armor"
 msgstr "冰原狼皮甲"
 
-# scripts/items/armor/heavy_lamellar_armor.nut
-msgid "Heavy Lamellar Armor"
-msgstr "重型层状板甲"
+# scripts/items/armor/werewolf_mail_armor.nut
+msgid "Direwolf Mail Armor"
+msgstr "冰原狼链甲"
+
+# scripts/items/armor/leather_scale_armor.nut
+msgid "Leather Scale Armor"
+msgstr "皮革鳞甲"
 
 # scripts/items/armor/cultist_leather_robe.nut
 msgid "Cultist Leather Robe"
 msgstr "异教徒皮袍"
 
-# scripts/items/armor/decayed_coat_of_scales.nut
-msgid "Decayed Coat of Scales"
-msgstr "腐朽的鳞甲衣"
+# scripts/items/armor/heavy_lamellar_armor.nut
+msgid "Heavy Lamellar Armor"
+msgstr "重型层状板甲"
 
 # scripts/items/armor/decayed_coat_of_plates.nut
 msgid "Decayed Coat of Plates"
 msgstr "腐朽的板甲衣"
 
+# scripts/items/armor/decayed_coat_of_scales.nut
+msgid "Decayed Coat of Scales"
+msgstr "腐朽的鳞甲衣"
+
 # scripts/items/armor/leather_lamellar.nut
 msgid "Leather Lamellar Armor"
 msgstr "皮革层状甲"
 
-# scripts/items/armor/armor.nut
-msgid "Maximum Fatigue [color="
-msgstr ""
-
 # scripts/items/armor/adorned_warriors_armor.nut
 msgid "Adorned Warrior's Armor"
 msgstr "装饰战士盔甲"
+
+# scripts/items/armor/armor.nut
+msgid "Maximum Fatigue [color="
+msgstr ""
 
 # scripts/items/armor/reinforced_mail_hauberk.nut
 msgid "Reinforced Mail Hauberk"
@@ -270,26 +254,26 @@ msgstr "一件为改善保护而做的皮革背心。"
 msgid "A sturdy and heavy padded tunic that offers decent protection."
 msgstr "一件结实而厚重的棉衣，能提供很好的保护。"
 
+# scripts/items/armor/blotched_gambeson.nut
+msgid "A padded gambeson that has seen lots of patching and repairing."
+msgstr "一种有衬垫的软铠甲，有很多修复过的补丁。"
+
 # scripts/items/armor/werewolf_mail_armor.nut
 # scripts/items/armor/werewolf_hide_armor.nut
 msgid "Reduces the Resolve of any opponent engaged in melee by [color="
 msgstr "减少任何近战对手的决心 [color="
 
-# scripts/items/armor/blotched_gambeson.nut
-msgid "A padded gambeson that has seen lots of patching and repairing."
-msgstr "一种有衬垫的软铠甲，有很多修复过的补丁。"
-
 # scripts/items/armor/scale_armor.nut
 msgid "A body vest with overlapping scales worn over a small mail shirt."
 msgstr "一件覆盖了细小重叠鳞片的链甲衫背心。"
 
-# scripts/items/armor/butcher_apron.nut
-msgid "A rugged apron worn by butchers to protect against accidental cuts."
-msgstr "一件屠夫穿戴的防止意外割伤的粗糙围裙。"
-
 # scripts/items/armor/wizard_robe.nut
 msgid "A cloth robe coverd in all kinds of mystical ornaments and symbols."
 msgstr "一件布满了神秘饰品与符号的长袍。"
+
+# scripts/items/armor/butcher_apron.nut
+msgid "A rugged apron worn by butchers to protect against accidental cuts."
+msgstr "一件屠夫穿戴的防止意外割伤的粗糙围裙。"
 
 # scripts/items/armor/linen_tunic.nut
 msgid "A simple cloth tunic. Fashionable but offering little in protection."
@@ -327,17 +311,17 @@ msgid ""
 "protection."
 msgstr "这件轻便的衬衫已经旧了，但仍然提供了良好的保护。"
 
-# scripts/items/armor/undertaker_apron.nut
-msgid ""
-"A thick leather apron that provides protection against light cuts and "
-"scratches."
-msgstr "一种厚皮围裙，可以防止轻微的割伤和划伤。"
-
 # scripts/items/armor/coat_of_scales.nut
 msgid ""
 "A heavy armor made of thick, overlapping metal scales covering most of the "
 "body."
 msgstr "一件用重叠金属鳞片制成的厚重盔甲，可以覆盖住绝大部分的身体。"
+
+# scripts/items/armor/undertaker_apron.nut
+msgid ""
+"A thick leather apron that provides protection against light cuts and "
+"scratches."
+msgstr "一种厚皮围裙，可以防止轻微的割伤和划伤。"
 
 # scripts/items/armor/sellsword_armor.nut
 msgid ""
@@ -351,29 +335,29 @@ msgid ""
 "insignia."
 msgstr "一种厚厚的皮甲，覆盖着额外的皮片和神秘的徽章。"
 
-# scripts/items/armor/footman_armor.nut
-msgid ""
-"A transitional armor consisting of a long mail shirt and a rivetted leather "
-"gambeson."
-msgstr "一件由长链甲与皮革软甲铆接而成的传统盔甲。"
-
 # scripts/items/armor/mail_hauberk.nut
 msgid ""
 "A long and heavy chainmail that offers good protection but is very fatiguing"
 " to wear."
 msgstr "长而重的锁子甲，提供了良好的保护，但穿上非常容易疲劳。"
 
-# scripts/items/armor/mail_shirt.nut
+# scripts/items/armor/footman_armor.nut
 msgid ""
-"A mail shirt with shoulder guards providing excellent protection against "
-"most weapons."
-msgstr "一件有肩带护肩的链甲衬衫，针对大多数武器提供了极好的保护。"
+"A transitional armor consisting of a long mail shirt and a rivetted leather "
+"gambeson."
+msgstr "一件由长链甲与皮革软甲铆接而成的传统盔甲。"
 
 # scripts/items/armor/lamellar_harness.nut
 msgid ""
 "A body armor made of thick overlapping metal plates that cover most of the "
 "upper body."
 msgstr "一种由厚重的重叠金属板制成的盔甲，覆盖了上半身的大部分。"
+
+# scripts/items/armor/mail_shirt.nut
+msgid ""
+"A mail shirt with shoulder guards providing excellent protection against "
+"most weapons."
+msgstr "一件有肩带护肩的链甲衬衫，针对大多数武器提供了极好的保护。"
 
 # scripts/items/armor/leather_lamellar.nut
 msgid ""
@@ -417,17 +401,17 @@ msgid ""
 "against slashing and piercing attacks."
 msgstr "一种简单的链甲衬衫。提供合理的保护来防止劈砍和戳刺的攻击。"
 
-# scripts/items/armor/monk_robe.nut
-msgid ""
-"A rugged, large robe made of simple cloth usually worn by monks and similar "
-"individuals who don't care for fashion."
-msgstr "一种粗犷的僧袍，由简单的布料制成，通常看到僧侣和不追求时尚的人穿。"
-
 # scripts/items/armor/decayed_reinforced_mail_hauberk.nut
 msgid ""
 "A long mail shirt in bad condition. Some rings are missing and it is covered"
 " in dirt and has an odd smell about it."
 msgstr "一件很糟糕的链甲长袍。有些吊环已经不见了，它曾经被泥土覆盖，还有一股怪味。"
+
+# scripts/items/armor/monk_robe.nut
+msgid ""
+"A rugged, large robe made of simple cloth usually worn by monks and similar "
+"individuals who don't care for fashion."
+msgstr "一种粗犷的僧袍，由简单的布料制成，通常看到僧侣和不追求时尚的人穿。"
 
 # scripts/items/armor/heavy_lamellar_armor.nut
 msgid ""
@@ -459,12 +443,6 @@ msgid ""
 "reduce encumberance while still offering good protection."
 msgstr "一件真正大师制作的链甲。非常轻和灵活以减少负重，同时仍提供良好的保护。"
 
-# scripts/items/armor/decayed_coat_of_scales.nut
-msgid ""
-"This coat of scales is worn and parts have come lose or are missing. It "
-"still offers very good protection if you don't mind the smell."
-msgstr "这件鳞甲衣已经很破旧了，并且部分零件已经丢失。但依然能提供非常好的防护，如果你不介意那股味道的话。"
-
 # scripts/items/armor/adorned_warriors_armor.nut
 msgid ""
 "A long mail shirt covered by a riveted leather gambeson. Heavily worn from "
@@ -476,6 +454,12 @@ msgid ""
 "One layer of padding, one layer of strong mail, and heavy metal plates "
 "riveted ontop. A very heavy armor that offers great protection."
 msgstr "由一层衬垫，一层牢固的链甲和沉重金属板在上面铆接而成。能提供很强防护的沉重盔甲。"
+
+# scripts/items/armor/decayed_coat_of_scales.nut
+msgid ""
+"This coat of scales is worn and parts have come lose or are missing. It "
+"still offers very good protection if you don't mind the smell."
+msgstr "这件鳞甲衣已经很破旧了，并且部分零件已经丢失。但依然能提供非常好的防护，如果你不介意那股味道的话。"
 
 # scripts/items/armor/werewolf_mail_armor.nut
 msgid ""

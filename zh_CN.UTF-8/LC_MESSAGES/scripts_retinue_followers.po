@@ -2,12 +2,12 @@
 msgid ""
 msgstr ""
 
-# scripts/retinue/followers/scout_follower.nut
-msgid "Won "
-msgstr ""
-
 # scripts/retinue/followers/blacksmith_follower.nut
 msgid "Had "
+msgstr ""
+
+# scripts/retinue/followers/scout_follower.nut
+msgid "Won "
 msgstr ""
 
 # scripts/retinue/followers/cook_follower.nut
@@ -19,20 +19,16 @@ msgstr ""
 msgid "Sold "
 msgstr ""
 
+# scripts/retinue/followers/recruiter_follower.nut
+msgid "/12 men"
+msgstr ""
+
 # scripts/retinue/followers/paymaster_follower.nut
 msgid "/16 men"
 msgstr ""
 
 # scripts/retinue/followers/brigand_follower.nut
 msgid "Raided "
-msgstr ""
-
-# scripts/retinue/followers/recruiter_follower.nut
-msgid "/12 men"
-msgstr ""
-
-# scripts/retinue/followers/surgeon_follower.nut
-msgid "Treated "
 msgstr ""
 
 # scripts/retinue/followers/alchemist_follower.nut
@@ -43,17 +39,21 @@ msgstr "在剥制屋里制造 "
 msgid "The Cook"
 msgstr "厨师"
 
+# scripts/retinue/followers/surgeon_follower.nut
+msgid "Treated "
+msgstr ""
+
 # scripts/retinue/followers/minstrel_follower.nut
 msgid "Visited "
 msgstr ""
 
-# scripts/retinue/followers/scout_follower.nut
-msgid "The Scout"
-msgstr "侦察员"
-
 # scripts/retinue/followers/agent_follower.nut
 msgid "The Agent"
 msgstr "事务官"
+
+# scripts/retinue/followers/scout_follower.nut
+msgid "The Scout"
+msgstr "侦察员"
 
 # scripts/retinue/followers/negotiator_follower.nut
 # scripts/retinue/followers/quartermaster_follower.nut
@@ -68,12 +68,12 @@ msgstr ""
 msgid "The Trader"
 msgstr "交易员"
 
-# scripts/retinue/followers/surgeon_follower.nut
-msgid "The Surgeon"
-msgstr "外科医生"
-
 # scripts/retinue/followers/brigand_follower.nut
 msgid "/4 caravans"
+msgstr ""
+
+# scripts/retinue/followers/lookout_follower.nut
+msgid "Discovered "
 msgstr ""
 
 # scripts/retinue/followers/brigand_follower.nut
@@ -84,8 +84,12 @@ msgstr "强盗"
 msgid "The Lookout"
 msgstr "观察员"
 
-# scripts/retinue/followers/lookout_follower.nut
-msgid "Discovered "
+# scripts/retinue/followers/surgeon_follower.nut
+msgid "The Surgeon"
+msgstr "外科医生"
+
+# scripts/retinue/followers/minstrel_follower.nut
+msgid " settlements"
 msgstr ""
 
 # scripts/retinue/followers/scavenger_follower.nut
@@ -96,37 +100,33 @@ msgstr "有一颗心"
 msgid "The Minstrel"
 msgstr "吟游诗人"
 
-# scripts/retinue/followers/minstrel_follower.nut
-msgid " settlements"
-msgstr ""
-
-# scripts/retinue/followers/paymaster_follower.nut
-msgid "The Paymaster"
-msgstr "出纳员"
-
 # scripts/retinue/followers/negotiator_follower.nut
 msgid "/15 contracts"
 msgstr ""
-
-# scripts/retinue/followers/scavenger_follower.nut
-msgid "The Scavenger"
-msgstr "拾荒者"
 
 # scripts/retinue/followers/alchemist_follower.nut
 msgid "The Alchemist"
 msgstr "炼金术士"
 
+# scripts/retinue/followers/paymaster_follower.nut
+msgid "The Paymaster"
+msgstr "出纳员"
+
 # scripts/retinue/followers/recruiter_follower.nut
 msgid "The Recruiter"
 msgstr "招募者"
 
-# scripts/retinue/followers/negotiator_follower.nut
-msgid "The Negotiator"
-msgstr "谈判者"
+# scripts/retinue/followers/scavenger_follower.nut
+msgid "The Scavenger"
+msgstr "拾荒者"
 
 # scripts/retinue/followers/blacksmith_follower.nut
 msgid "The Blacksmith"
 msgstr "铁匠"
+
+# scripts/retinue/followers/negotiator_follower.nut
+msgid "The Negotiator"
+msgstr "谈判者"
 
 # scripts/retinue/followers/trader_follower.nut
 msgid "/25 trade goods"
@@ -140,24 +140,24 @@ msgstr "制图师"
 msgid "Have a roster of "
 msgstr ""
 
-# scripts/retinue/followers/quartermaster_follower.nut
-msgid "The Quartermaster"
-msgstr "军需官"
-
 # scripts/retinue/followers/bounty_hunter_follower.nut
 msgid "The Bounty Hunter"
 msgstr "赏金猎人"
+
+# scripts/retinue/followers/quartermaster_follower.nut
+msgid "The Quartermaster"
+msgstr "军需官"
 
 # scripts/retinue/followers/drill_sergeant_follower.nut
 msgid "The Drill Sergeant"
 msgstr "教官"
 
-# scripts/retinue/followers/scout_follower.nut
-msgid "/5 battles against beasts"
-msgstr ""
-
 # scripts/retinue/followers/lookout_follower.nut
 msgid "/10 locations on your own"
+msgstr ""
+
+# scripts/retinue/followers/scout_follower.nut
+msgid "/5 battles against beasts"
 msgstr ""
 
 # scripts/retinue/followers/quartermaster_follower.nut
@@ -192,17 +192,17 @@ msgstr "增加你的视野25%"
 msgid "/5 items repaired at a town's smith"
 msgstr ""
 
-# scripts/retinue/followers/paymaster_follower.nut
-msgid "Reduces the chance of desertion by 50%"
-msgstr "减少50%的逃兵几率"
+# scripts/retinue/followers/cook_follower.nut
+msgid "Increases hitpoint healing rate by 33%"
+msgstr "增加33%的生命值治愈速度"
 
 # scripts/retinue/followers/cook_follower.nut
 msgid "Makes all provisions last 3 extra days"
 msgstr "使所有的食物能多维持3天"
 
-# scripts/retinue/followers/cook_follower.nut
-msgid "Increases hitpoint healing rate by 33%"
-msgstr "增加33%的生命值治愈速度"
+# scripts/retinue/followers/paymaster_follower.nut
+msgid "Reduces the chance of desertion by 50%"
+msgstr "减少50%的逃兵几率"
 
 # scripts/retinue/followers/paymaster_follower.nut
 msgid "Prevents men demanding more pay in events"
@@ -220,13 +220,13 @@ msgstr "使每一个损伤的治愈时间都减少一天"
 msgid "Reveals extended information about footprints"
 msgstr "显示有关足迹的扩展信息"
 
-# scripts/retinue/followers/scout_follower.nut
-msgid "Prevents sickness and accidents due to terrain"
-msgstr "阻止因地形引起的疾病和意外遭遇"
-
 # scripts/retinue/followers/bounty_hunter_follower.nut
 msgid "/3 named or legendary items in your possession"
 msgstr ""
+
+# scripts/retinue/followers/scout_follower.nut
+msgid "Prevents sickness and accidents due to terrain"
+msgstr "阻止因地形引起的疾病和意外遭遇"
 
 # scripts/retinue/followers/minstrel_follower.nut
 msgid "Makes you earn 15% more renown with every action"
@@ -272,15 +272,15 @@ msgstr "有25%的几率不消耗你使用的任何工艺组件"
 msgid "Makes men in reserve never lose mood from not taking part in battles"
 msgstr "使位于后备队的人不会因不参加战斗而降低心情"
 
-# scripts/retinue/followers/scavenger_follower.nut
-msgid ""
-"Recovers tools and supplies from every armor destroyed by you during battle"
-msgstr "从战斗中被你摧毁的每一件盔甲中回收工具和补给"
-
 # scripts/retinue/followers/quartermaster_follower.nut
 msgid ""
 "Increases the amount of medical supplies and tools you can carry by 50 each"
 msgstr "增加你可以携带的医疗用品和工具数量各50个"
+
+# scripts/retinue/followers/scavenger_follower.nut
+msgid ""
+"Recovers tools and supplies from every armor destroyed by you during battle"
+msgstr "从战斗中被你摧毁的每一件盔甲中回收工具和补给"
 
 # scripts/retinue/followers/recruiter_follower.nut
 msgid ""
@@ -443,15 +443,6 @@ msgid ""
 "perfect spot to use space as efficiently as possible."
 msgstr "凭借多年的商队旅行经验，军需官能够将任何装备、行李或盔甲挤压和旋转到最佳位置，尽可能有效地利用空间。"
 
-# scripts/retinue/followers/surgeon_follower.nut
-msgid ""
-"The Surgeon is a walking tome of anatomical knowledge. A mercenary company "
-"seems the perfect place both to apply that knowledge in healing, but also to"
-" learn more about how the insides of men are made up."
-msgstr ""
-"外科医生 is a walking tome of anatomical knowledge. "
-"雇佣兵战队似乎是一个完美的地方，既可以将这些知识应用于治疗，也可以更多地了解人类的内部构造。"
-
 # scripts/retinue/followers/recruiter_follower.nut
 msgid ""
 "The Recruiter is a sleazy jawsmith that tricks desperate people into joining"
@@ -462,6 +453,15 @@ msgstr ""
 "mercenary company to escape their poor lives, only to find their demise. "
 "对任何经营雇佣兵战队的人都很有用。"
 
+# scripts/retinue/followers/surgeon_follower.nut
+msgid ""
+"The Surgeon is a walking tome of anatomical knowledge. A mercenary company "
+"seems the perfect place both to apply that knowledge in healing, but also to"
+" learn more about how the insides of men are made up."
+msgstr ""
+"外科医生 is a walking tome of anatomical knowledge. "
+"雇佣兵战队似乎是一个完美的地方，既可以将这些知识应用于治疗，也可以更多地了解人类的内部构造。"
+
 # scripts/retinue/followers/brigand_follower.nut
 msgid ""
 "The Brigand may be old and weak now, but at one point his name was feared "
@@ -470,15 +470,6 @@ msgid ""
 msgstr ""
 "强盗 may be old and weak now, but at one point his name was feared across the "
 "land. 作为一顿热饭的交换，他很高兴地和你分享他从朋友那里学到的关于路上商队的知识。"
-
-# scripts/retinue/followers/blacksmith_follower.nut
-msgid ""
-"Mercenaries are good at getting arms and armor destroyed, but not at "
-"maintaining them. The Blacksmith will take care of this tedious task quickly"
-" and efficiently, and can mend even equipment otherwise thought lost."
-msgstr ""
-"雇佣兵擅长摧毁武器和盔甲，但不擅长维护它们。 铁匠 will take care of this tedious task quickly and "
-"efficiently, and can mend even equipment otherwise thought lost."
 
 # scripts/retinue/followers/minstrel_follower.nut
 msgid ""
@@ -489,6 +480,15 @@ msgstr ""
 "一首好歌和一个好故事在创造一个战队的声誉方面起着很大的作用。 吟游诗人 is a master of these crafts and will "
 "help to spread the word about your deeds to all ears - willing to hear them "
 "or not."
+
+# scripts/retinue/followers/blacksmith_follower.nut
+msgid ""
+"Mercenaries are good at getting arms and armor destroyed, but not at "
+"maintaining them. The Blacksmith will take care of this tedious task quickly"
+" and efficiently, and can mend even equipment otherwise thought lost."
+msgstr ""
+"雇佣兵擅长摧毁武器和盔甲，但不擅长维护它们。 铁匠 will take care of this tedious task quickly and "
+"efficiently, and can mend even equipment otherwise thought lost."
 
 # scripts/retinue/followers/negotiator_follower.nut
 msgid ""

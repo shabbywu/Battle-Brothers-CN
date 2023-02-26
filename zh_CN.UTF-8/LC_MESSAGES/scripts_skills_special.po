@@ -10,13 +10,13 @@ msgstr ""
 msgid "Mood Check"
 msgstr "情绪检查"
 
-# scripts/skills/special/oath_of_fortification_warning.nut
-msgid "Fortifying!"
-msgstr "强化！"
-
 # scripts/skills/special/double_grip.nut
 msgid "Double Grip"
 msgstr "双手持握"
+
+# scripts/skills/special/oath_of_fortification_warning.nut
+msgid "Fortifying!"
+msgstr "强化！"
 
 # scripts/skills/special/morale_check.nut
 msgid "Morale Check"
@@ -42,16 +42,12 @@ msgstr ""
 msgid "]+25%[/color] Damage"
 msgstr ""
 
-# scripts/skills/special/morale_check.nut
-msgid "]-10%[/color] Resolve"
-msgstr ""
-
 # scripts/skills/special/mood_check.nut
 msgid "Can only have [color="
 msgstr ""
 
 # scripts/skills/special/morale_check.nut
-msgid "]-30%[/color] Resolve"
+msgid "]-10%[/color] Resolve"
 msgstr ""
 
 # scripts/skills/special/morale_check.nut
@@ -59,12 +55,8 @@ msgid "]-20%[/color] Resolve"
 msgstr ""
 
 # scripts/skills/special/morale_check.nut
-msgid "]-20%[/color] Melee Skill"
-msgstr "]-20%[/color] 近战技能"
-
-# scripts/skills/special/morale_check.nut
-msgid "]-10%[/color] Melee Skill"
-msgstr "]-10%[/color] 近战技能"
+msgid "]-30%[/color] Resolve"
+msgstr ""
 
 # scripts/skills/special/weapon_breaking_warning.nut
 msgid "Weapon in poor condition!"
@@ -75,16 +67,28 @@ msgid "]+10%[/color] Melee Skill"
 msgstr "]+10%[/color] 近战技能"
 
 # scripts/skills/special/morale_check.nut
+msgid "]-10%[/color] Melee Skill"
+msgstr "]-10%[/color] 近战技能"
+
+# scripts/skills/special/morale_check.nut
+msgid "]-20%[/color] Melee Skill"
+msgstr "]-20%[/color] 近战技能"
+
+# scripts/skills/special/morale_check.nut
 msgid "]-30%[/color] Melee Skill"
 msgstr "]-30%[/color] 近战技能"
 
 # scripts/skills/special/morale_check.nut
-msgid "]-20%[/color] Ranged Skill"
-msgstr "]-20%[/color] 远程技能"
+msgid "]+10%[/color] Ranged Skill"
+msgstr "]+10%[/color] 远程技能"
 
 # scripts/skills/special/morale_check.nut
 msgid "]-10%[/color] Ranged Skill"
 msgstr "]-10%[/color] 远程技能"
+
+# scripts/skills/special/morale_check.nut
+msgid "]-20%[/color] Ranged Skill"
+msgstr "]-20%[/color] 远程技能"
 
 # scripts/skills/special/morale_check.nut
 # scripts/skills/special/night_effect.nut
@@ -92,24 +96,28 @@ msgid "]-30%[/color] Ranged Skill"
 msgstr "]-30%[/color] 远程技能"
 
 # scripts/skills/special/morale_check.nut
-msgid "]+10%[/color] Ranged Skill"
-msgstr "]+10%[/color] 远程技能"
-
-# scripts/skills/special/morale_check.nut
-msgid "]-30%[/color] Melee Defense"
-msgstr "]-30%[/color] 近战防御"
+msgid "]+10%[/color] Melee Defense"
+msgstr "]+10%[/color] 近战防御"
 
 # scripts/skills/special/morale_check.nut
 msgid "]-10%[/color] Melee Defense"
 msgstr "]-10%[/color] 近战防御"
 
 # scripts/skills/special/morale_check.nut
-msgid "]+10%[/color] Melee Defense"
-msgstr "]+10%[/color] 近战防御"
-
-# scripts/skills/special/morale_check.nut
 msgid "]-20%[/color] Melee Defense"
 msgstr "]-20%[/color] 近战防御"
+
+# scripts/skills/special/morale_check.nut
+msgid "]-30%[/color] Melee Defense"
+msgstr "]-30%[/color] 近战防御"
+
+# scripts/skills/special/morale_check.nut
+msgid "Acts at the end of the round"
+msgstr "在轮末行动"
+
+# scripts/skills/special/morale_check.nut
+msgid "]+10%[/color] Ranged Defense"
+msgstr "]+10%[/color] 远程防御"
 
 # scripts/skills/special/morale_check.nut
 msgid "]-10%[/color] Ranged Defense"
@@ -120,28 +128,20 @@ msgid "]-20%[/color] Ranged Defense"
 msgstr "]-20%[/color] 远程防御"
 
 # scripts/skills/special/morale_check.nut
-msgid "Acts at the end of the round"
-msgstr "在轮末行动"
-
-# scripts/skills/special/morale_check.nut
 # scripts/skills/special/night_effect.nut
 msgid "]-30%[/color] Ranged Defense"
 msgstr "]-30%[/color] 远程防御"
-
-# scripts/skills/special/morale_check.nut
-msgid "]+10%[/color] Ranged Defense"
-msgstr "]+10%[/color] 远程防御"
 
 # scripts/skills/special/mood_check.nut
 msgid "]steady[/color] morale or worse"
 msgstr ""
 
 # scripts/skills/special/mood_check.nut
-msgid "]wavering[/color] morale or worse"
+msgid "]breaking[/color] morale or worse"
 msgstr ""
 
 # scripts/skills/special/mood_check.nut
-msgid "]breaking[/color] morale or worse"
+msgid "]wavering[/color] morale or worse"
 msgstr ""
 
 # scripts/skills/special/weapon_breaking_warning.nut
@@ -153,15 +153,15 @@ msgid "This character's weapon is in poor condition ("
 msgstr ""
 
 # scripts/skills/special/mood_check.nut
-msgid "]75%[/color] chance to start battle at confident morale"
-msgstr ""
-
-# scripts/skills/special/mood_check.nut
 msgid "]25%[/color] chance to start battle at confident morale"
 msgstr ""
 
 # scripts/skills/special/mood_check.nut
 msgid "]50%[/color] chance to start battle at confident morale"
+msgstr ""
+
+# scripts/skills/special/mood_check.nut
+msgid "]75%[/color] chance to start battle at confident morale"
 msgstr ""
 
 # scripts/skills/special/morale_check.nut

@@ -10,10 +10,6 @@ msgstr "夢魘"
 msgid "Hexe"
 msgstr "女巫"
 
-# scripts/items/misc/anatomist/research_notes_beasts_item.nut
-msgid "Ifrit"
-msgstr "伊夫利特"
-
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Geist"
 msgstr "精神"
@@ -22,13 +18,9 @@ msgstr "精神"
 msgid "Hyena"
 msgstr "鬣狗"
 
-# scripts/items/misc/anatomist/research_notes_legendary_item.nut
-msgid "Kraken"
-msgstr "海妖"
-
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
-msgid "Schrat"
-msgstr "树人"
+msgid "Ifrit"
+msgstr "伊夫利特"
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 msgid "Goblin"
@@ -38,6 +30,14 @@ msgstr "哥布林"
 msgid "Ijirok"
 msgstr ""
 
+# scripts/items/misc/anatomist/research_notes_legendary_item.nut
+msgid "Kraken"
+msgstr "海妖"
+
+# scripts/items/misc/anatomist/research_notes_beasts_item.nut
+msgid "Schrat"
+msgstr "树人"
+
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Serpent"
 msgstr "蛇"
@@ -46,49 +46,49 @@ msgstr "蛇"
 msgid "Direwolf"
 msgstr "冰原狼"
 
-# scripts/items/misc/anatomist/research_notes_beasts_item.nut
-msgid "Webknecht"
-msgstr "蛛魔"
-
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 msgid "Orc Young"
 msgstr "兽人青年"
 
+# scripts/items/misc/anatomist/research_notes_beasts_item.nut
+msgid "Webknecht"
+msgstr "蛛魔"
+
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
-msgid "Rachegeist"
-msgstr "雷切吉斯特"
+msgid "Lorekeeper"
+msgstr ""
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Nachzehrer"
 msgstr "食屍鬼"
 
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
-msgid "Lorekeeper"
-msgstr ""
-
-# scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid "Necrosavant"
-msgstr "死灵法师"
-
-# scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid "Necromancer"
-msgstr "死灵法师"
-
-# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
-msgid "Orc Warrior"
-msgstr "兽人战士"
+msgid "Rachegeist"
+msgstr "雷切吉斯特"
 
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Fallen Hero"
 msgstr "堕落的英雄"
 
+# scripts/items/misc/anatomist/research_notes_undead_item.nut
+msgid "Necromancer"
+msgstr "死灵法师"
+
+# scripts/items/misc/anatomist/research_notes_undead_item.nut
+msgid "Necrosavant"
+msgstr "死灵法师"
+
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 msgid "Orc Warlord"
 msgstr "兽人军阀"
 
-# scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid "Wiederganger"
-msgstr "维德冈格"
+# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
+msgid "Orc Warrior"
+msgstr "兽人战士"
+
+# scripts/items/misc/anatomist/rachegeist_potion_item.nut
+msgid "Deal [color="
+msgstr ""
 
 # scripts/items/misc/anatomist/necrosavant_potion_item.nut
 msgid "Heal [color="
@@ -99,9 +99,9 @@ msgstr ""
 msgid "Rose Philter"
 msgstr "血腥玫瑰药剂"
 
-# scripts/items/misc/anatomist/rachegeist_potion_item.nut
-msgid "Deal [color="
-msgstr ""
+# scripts/items/misc/anatomist/research_notes_undead_item.nut
+msgid "Wiederganger"
+msgstr "维德冈格"
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 msgid "Goblin Shaman"
@@ -116,26 +116,13 @@ msgid "Ancient Priest"
 msgstr "古代牧师"
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
-msgid "Tome of Beasts"
-msgstr "怪兽解剖指南"
-
-# scripts/items/misc/anatomist/research_notes_beasts_item.nut
 # scripts/items/misc/anatomist/hyena_potion_item.nut
 msgid "Bloodgate Brew"
 msgstr "血门关药剂"
 
-# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
-msgid "Goblin Overseer"
-msgstr "地精监督者"
-
-# scripts/items/misc/anatomist/hexe_potion_item.nut
-msgid "Reflect [color="
-msgstr ""
-
-# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
-# scripts/items/misc/anatomist/orc_warrior_potion_item.nut
-msgid "Ironhead Potion"
-msgstr "铁头药剂"
+# scripts/items/misc/anatomist/research_notes_beasts_item.nut
+msgid "Tome of Beasts"
+msgstr "怪兽解剖指南"
 
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 msgid "Book of Legends"
@@ -152,6 +139,23 @@ msgid "Deadman's Drink"
 msgstr "不死人药剂"
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
+msgid "Goblin Overseer"
+msgstr "地精监督者"
+
+# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
+# scripts/items/misc/anatomist/orc_warrior_potion_item.nut
+msgid "Ironhead Potion"
+msgstr "铁头药剂"
+
+# scripts/items/misc/anatomist/hexe_potion_item.nut
+msgid "Reflect [color="
+msgstr ""
+
+# scripts/items/misc/anatomist/research_notes_undead_item.nut
+msgid "Ancient Skeleton"
+msgstr ""
+
+# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 # scripts/items/misc/anatomist/orc_warlord_potion_item.nut
 msgid "Font of Strength"
 msgstr "力量真言药剂"
@@ -166,9 +170,9 @@ msgstr "十指抹油药剂"
 msgid "Quickfang Potion"
 msgstr "迅牙药剂"
 
-# scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid "Ancient Skeleton"
-msgstr ""
+# scripts/items/misc/anatomist/apotheosis_potion_item.nut
+msgid "Apotheosis Potion"
+msgstr "登神长阶药剂"
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 # scripts/items/misc/anatomist/goblin_overseer_potion_item.nut
@@ -190,24 +194,15 @@ msgstr "午夜君王药剂"
 msgid "Venomblood Potion"
 msgstr "毒血药剂"
 
-# scripts/items/misc/anatomist/apotheosis_potion_item.nut
-msgid "Apotheosis Potion"
-msgstr "登神长阶药剂"
-
-# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
-# scripts/items/misc/anatomist/orc_young_potion_item.nut
-msgid "Kineticist's Draft"
-msgstr "动力学家药剂"
-
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 # scripts/items/misc/anatomist/kraken_potion_item.nut
 msgid "Bog King's Draught"
 msgstr "沼地霸主灵药"
 
-# scripts/items/misc/anatomist/necromancer_potion_item.nut
-# scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid "The King in Chains"
-msgstr "咒缚之王药剂"
+# scripts/items/misc/anatomist/research_notes_greenskins_item.nut
+# scripts/items/misc/anatomist/orc_young_potion_item.nut
+msgid "Kineticist's Draft"
+msgstr "动力学家药剂"
 
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Ledger of the Dead"
@@ -217,13 +212,19 @@ msgstr "亡灵样本图鉴"
 msgid "Regenerate [color="
 msgstr ""
 
+# scripts/items/misc/anatomist/necromancer_potion_item.nut
+# scripts/items/misc/anatomist/research_notes_undead_item.nut
+msgid "The King in Chains"
+msgstr "咒缚之王药剂"
+
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Ancient Honor Guard"
 msgstr "古代仪仗队"
 
-# scripts/items/misc/anatomist/apotheosis_potion_item.nut
-msgid "]+1[/color] Fatigue"
-msgstr ""
+# scripts/items/misc/anatomist/honor_guard_potion_item.nut
+# scripts/items/misc/anatomist/research_notes_undead_item.nut
+msgid "Elixir of Boneflesh"
+msgstr "血肉化骨药剂"
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 # scripts/items/misc/anatomist/goblin_grunt_potion_item.nut
@@ -235,26 +236,21 @@ msgstr "扁平足药剂"
 msgid "Potion of Stoneskin"
 msgstr "石肤药剂"
 
-# scripts/items/misc/anatomist/honor_guard_potion_item.nut
-# scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid "Elixir of Boneflesh"
-msgstr "血肉化骨药剂"
-
-# scripts/items/misc/anatomist/honor_guard_potion_item.nut
-msgid "Take between [color="
+# scripts/items/misc/anatomist/apotheosis_potion_item.nut
+msgid "]+1[/color] Fatigue"
 msgstr ""
 
 # scripts/items/misc/anatomist/orc_young_potion_item.nut
 msgid "Attacks have [color="
 msgstr ""
 
+# scripts/items/misc/anatomist/honor_guard_potion_item.nut
+msgid "Take between [color="
+msgstr ""
+
 # scripts/items/misc/anatomist/geist_potion_item.nut
 # scripts/items/misc/anatomist/goblin_overseer_potion_item.nut
 msgid "An additional [color="
-msgstr ""
-
-# scripts/items/misc/anatomist/apotheosis_potion_item.nut
-msgid "]+1[/color] Hitpoints"
 msgstr ""
 
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
@@ -267,34 +263,33 @@ msgstr "疯嚣之神灵药"
 msgid "Potion of Malevolence"
 msgstr "怨毒药剂"
 
-# scripts/items/misc/anatomist/kraken_potion_item.nut
-msgid "]+50[/color] Hitpoints"
+# scripts/items/misc/anatomist/apotheosis_potion_item.nut
+msgid "]+1[/color] Hitpoints"
 msgstr ""
-
-# scripts/items/misc/anatomist/lindwurm_potion_item.nut
-# scripts/items/misc/anatomist/research_notes_beasts_item.nut
-msgid "Tincture of Emberblood"
-msgstr "灰烬之血药剂"
-
-# scripts/items/misc/anatomist/research_notes_beasts_item.nut
-# scripts/items/misc/anatomist/unhold_potion_item.nut
-msgid "Fool's Treasure Potion"
-msgstr "愚者宝藏药剂"
 
 # scripts/items/misc/anatomist/fallen_hero_potion_item.nut
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Elixir of Perseverance"
 msgstr "稳固药剂"
 
+# scripts/items/misc/anatomist/research_notes_beasts_item.nut
+# scripts/items/misc/anatomist/unhold_potion_item.nut
+msgid "Fool's Treasure Potion"
+msgstr "愚者宝藏药剂"
+
 # scripts/items/misc/anatomist/wiederganger_potion_item.nut
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Potion of Leather Skin"
 msgstr "厚皮药剂"
 
-# scripts/items/misc/anatomist/skeleton_warrior_potion_item.nut
-# scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid "Potion of the Sleepless"
-msgstr "不眠药剂"
+# scripts/items/misc/anatomist/lindwurm_potion_item.nut
+# scripts/items/misc/anatomist/research_notes_beasts_item.nut
+msgid "Tincture of Emberblood"
+msgstr "灰烬之血药剂"
+
+# scripts/items/misc/anatomist/kraken_potion_item.nut
+msgid "]+50[/color] Hitpoints"
+msgstr ""
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 # scripts/items/misc/anatomist/direwolf_potion_item.nut
@@ -305,9 +300,15 @@ msgstr "刀锋舞者药剂"
 msgid "Potion of Inner Sanctum"
 msgstr "冥府之门灵药"
 
-# scripts/items/misc/anatomist/honor_guard_potion_item.nut
-msgid "]25%[/color] and [color="
-msgstr ""
+# scripts/items/misc/anatomist/skeleton_warrior_potion_item.nut
+# scripts/items/misc/anatomist/research_notes_undead_item.nut
+msgid "Potion of the Sleepless"
+msgstr "不眠药剂"
+
+# scripts/items/misc/anatomist/research_notes_beasts_item.nut
+# scripts/items/misc/anatomist/schrat_potion_item.nut
+msgid "Draught of Godtree Roots"
+msgstr "神树根须药剂"
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 msgid "Greenskin Research Notes"
@@ -318,10 +319,9 @@ msgstr "绿皮研究笔记"
 msgid "Potion of Flesh Knitting"
 msgstr "血肉编织药剂"
 
-# scripts/items/misc/anatomist/research_notes_beasts_item.nut
-# scripts/items/misc/anatomist/schrat_potion_item.nut
-msgid "Draught of Godtree Roots"
-msgstr "神树根须药剂"
+# scripts/items/misc/anatomist/honor_guard_potion_item.nut
+msgid "]25%[/color] and [color="
+msgstr ""
 
 # scripts/items/misc/anatomist/serpent_potion_item.nut
 msgid "Gain an additional [color="
@@ -402,13 +402,13 @@ msgstr "免疫击退和勾拽技能"
 msgid "]+10%[/color] effectiveness against armor"
 msgstr ""
 
-# scripts/items/misc/anatomist/direwolf_potion_item.nut
-msgid "]50%[/color] of their Fatigue cost refunded"
-msgstr ""
-
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 msgid "Tracks your study of orc and goblin anatomy"
 msgstr "记录着战团对兽人与哥布林的研究成果"
+
+# scripts/items/misc/anatomist/direwolf_potion_item.nut
+msgid "]50%[/color] of their Fatigue cost refunded"
+msgstr ""
 
 # scripts/items/misc/anatomist/rachegeist_potion_item.nut
 msgid "]+25%[/color] damage and receive only [color="
@@ -438,13 +438,13 @@ msgstr "]5%[/color] 伤害忽视盔甲 when using melee weapons"
 msgid "]100%[/color] of hitpoint damage received back at the attacker"
 msgstr ""
 
-# scripts/items/misc/anatomist/goblin_overseer_potion_item.nut
-msgid "]5%[/color] of damage ignores armor when using bows or crossbows"
-msgstr "]5%[/color] 伤害忽视盔甲 when using bows or crossbows"
-
 # scripts/items/misc/anatomist/skeleton_warrior_potion_item.nut
 msgid "The Fatigue cost of the 'Shieldwall' skill is reduced by [color="
 msgstr "'盾墙' 技能的疲劳产生量降低 [color="
+
+# scripts/items/misc/anatomist/goblin_overseer_potion_item.nut
+msgid "]5%[/color] of damage ignores armor when using bows or crossbows"
+msgstr "]5%[/color] 伤害忽视盔甲 when using bows or crossbows"
 
 # scripts/items/misc/anatomist/fallen_hero_potion_item.nut
 msgid "Accumulate no Fatigue from enemy attacks, whether they hit or miss"
@@ -458,13 +458,13 @@ msgstr "免疫中毒效果，包括蜘蛛与哥布林的毒药"
 msgid "Damage received from the Bleeding status effect is reduced by [color="
 msgstr "受到的流血伤害减少  [color="
 
-# scripts/items/misc/anatomist/research_notes_legendary_item.nut
-msgid "Tracks your research into mythical creatures, should you discover any"
-msgstr "记录着战团对传奇生物的研究成果……如果你真能找得到它们的话"
-
 # scripts/items/misc/anatomist/orc_warlord_potion_item.nut
 msgid "No longer suffer any additional fatigue penalty for using orc weapons"
 msgstr "使用兽人武器时不再遭受额外的疲劳惩罚"
+
+# scripts/items/misc/anatomist/research_notes_legendary_item.nut
+msgid "Tracks your research into mythical creatures, should you discover any"
+msgstr "记录着战团对传奇生物的研究成果……如果你真能找得到它们的话"
 
 # scripts/items/misc/anatomist/ijirok_potion_item.nut
 msgid "]50%[/color] chance to resist any status effect, like Dazed or Stunned"
@@ -692,14 +692,6 @@ msgid ""
 msgstr ""
 "很少有生物能像所谓的“复仇之魂”那样难以理解。然而，通过对它所剩无几的遗骸仔细检查，这种神奇的药水诞生了！现在，即使是凡人，也可以发挥与亡灵无异的力量！"
 
-# scripts/items/misc/anatomist/goblin_shaman_potion_item.nut
-msgid ""
-"While the phrase 'slippery as a goblin' hasn't quite caught on in the common"
-" vernacular, anyone who has fought the hateful greenskins knows its truth. "
-"With this amazing potion, however, anyone can take on this loathsome aspect!"
-msgstr ""
-"虽然“像哥布林一样滑溜”这句话在民间俗语中还不太流行，但任何与那帮可恶的小绿人战斗过的人都知道这句话是多么有含金量。然而，有了这种神奇的药剂后，任何人都可以表现出这种令人恶心的一面了！"
-
 # scripts/items/misc/anatomist/alp_potion_item.nut
 msgid ""
 "This draft, the result of intensive study into the so-called 'Third Eye' of "
@@ -708,6 +700,14 @@ msgid ""
 "acclimates."
 msgstr ""
 "这瓶药剂是对梦魇邪物所谓的“第三只眼”进行深入研究的结果，它会让任何喝了它的人都能像白天一样看穿黑夜！在服药后的适应期出现视力模糊和各种幻觉属于正常现象。"
+
+# scripts/items/misc/anatomist/goblin_shaman_potion_item.nut
+msgid ""
+"While the phrase 'slippery as a goblin' hasn't quite caught on in the common"
+" vernacular, anyone who has fought the hateful greenskins knows its truth. "
+"With this amazing potion, however, anyone can take on this loathsome aspect!"
+msgstr ""
+"虽然“像哥布林一样滑溜”这句话在民间俗语中还不太流行，但任何与那帮可恶的小绿人战斗过的人都知道这句话是多么有含金量。然而，有了这种神奇的药剂后，任何人都可以表现出这种令人恶心的一面了！"
 
 # scripts/items/misc/anatomist/webknecht_potion_item.nut
 msgid ""
