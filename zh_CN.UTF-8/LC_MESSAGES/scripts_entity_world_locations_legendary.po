@@ -2,12 +2,6 @@
 msgid ""
 msgstr ""
 
-# scripts/entity/world/locations/legendary/vulcano_location.nut
-# scripts/entity/world/locations/legendary/meteorite_location.nut
-# scripts/entity/world/locations/legendary/oracle_location.nut
-msgid "banner"
-msgstr ""
-
 # scripts/entity/world/locations/legendary/icy_cave_location.nut
 msgid "Icy Cave"
 msgstr "冰洞"

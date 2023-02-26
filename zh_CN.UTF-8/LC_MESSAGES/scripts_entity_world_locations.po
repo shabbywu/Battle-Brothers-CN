@@ -3,10 +3,6 @@ msgid ""
 msgstr ""
 
 # scripts/entity/world/locations/noble_camp_location.nut
-msgid "banner"
-msgstr ""
-
-# scripts/entity/world/locations/noble_camp_location.nut
 msgid "ffffff00"
 msgstr ""
 
