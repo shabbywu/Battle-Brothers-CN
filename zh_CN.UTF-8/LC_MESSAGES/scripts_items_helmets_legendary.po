@@ -2,6 +2,34 @@
 msgid ""
 msgstr ""
 
+# scripts/items/helmets/legendary/emperors_countenance.nut
+msgid "Reflects [color="
+msgstr ""
+
+# scripts/items/helmets/legendary/emperors_countenance.nut
+msgid "The Emperor's Countenance"
+msgstr "帝王尊容"
+
+# scripts/items/helmets/legendary/emperors_countenance.nut
+msgid "]25%[/color] of damage taken in melee back to the attacker"
+msgstr ""
+
+# scripts/items/helmets/legendary/emperors_countenance.nut
+msgid "A golden helmet and facemask, showing the visage of an emperor from an age long past, imbued with mystical energies. When you hold it into the light, it almost looks as if the face were moving and making expressions of disgust."
+msgstr "一个展露帝王容貌的具有神秘能力的金色头盔。 当你把它放在阳光下时，面具感觉就像是在移动，似乎还会露出鄙夷之情。"
+
+# scripts/items/helmets/legendary/fangshire.nut
+msgid "The Fangshire"
+msgstr "夏尔之牙"
+
+# scripts/items/helmets/legendary/fangshire.nut
+msgid "Allows the wearer to see at night and negates any penalties due to nighttime."
+msgstr "允许佩戴者在夜间观看，并取消任何夜间惩罚。"
+
+# scripts/items/helmets/legendary/fangshire.nut
+msgid "The Fangshire is a northern tiger's skull that nestles the faces of men deeply and darkly behind two ferocious fangs. Originally worn by Bjarund the Beastman, a fierce northern raider, it instilled fear into the hearts of his enemies as he went on bloody raids and burned down many a village along the coastline. When Bjarund was finally slain, Fangshire was taken as a trophy and went further south. Rumors proclaim that its wearer's eyes glow a sharpened yellow, allowing them to see through the very night."
+msgstr "夏尔之牙是一个北方老虎的头骨，在两个凶猛的尖牙后面，深深地、黑暗地依偎着人类的脸。 最初是北方掠夺者比约兰戴着它，在他进行血腥袭击并烧毁海岸线上的许多村庄时，它向敌人的内心灌输了恐惧。 当比约兰最终被杀后，夏尔之牙被当作战利品运向了南方。 有传言说，佩戴者的眼睛发出一种尖锐的黄色光芒，让他们能看穿整个夜晚。"
+
 # scripts/items/helmets/legendary/ijirok_helmet.nut
 msgid " points"
 msgstr ""
@@ -14,25 +42,21 @@ msgstr ""
 msgid "Heals [color="
 msgstr ""
 
-# scripts/items/helmets/legendary/fangshire.nut
-msgid "The Fangshire"
-msgstr "夏尔之牙"
-
-# scripts/items/helmets/legendary/emperors_countenance.nut
-msgid "Reflects [color="
-msgstr ""
-
-# scripts/items/helmets/legendary/mask_of_davkul.nut
-msgid "Glimpse of Davkul"
-msgstr "达库尔的凝视"
-
 # scripts/items/helmets/legendary/ijirok_helmet.nut
 msgid "Helmet of the Ijirok"
 msgstr "伊吉罗克头盔"
 
-# scripts/items/helmets/legendary/emperors_countenance.nut
-msgid "The Emperor's Countenance"
-msgstr "帝王尊容"
+# scripts/items/helmets/legendary/ijirok_helmet.nut
+msgid "]10[/color] hitpoints of the wearer each turn"
+msgstr "回复 10[/color] 生命值(每回合)"
+
+# scripts/items/helmets/legendary/ijirok_helmet.nut
+msgid "Once a barbarian helmet broken in battle, this piece has been bathed in the blood of the legendary Ijirok. Powers beyond your understanding mended it whole again, and will likewise mend any wounds of the wearer as well."
+msgstr "曾经有一件野蛮人的头盔在战斗中折断，盔甲的碎片沐浴在传说中的伊吉罗克的鲜血里。 超越你理解的力量再次修复了它，同样也会修复穿戴者的任何创伤。"
+
+# scripts/items/helmets/legendary/mask_of_davkul.nut
+msgid "Glimpse of Davkul"
+msgstr "达库尔的凝视"
 
 # scripts/items/helmets/legendary/mask_of_davkul.nut
 msgid "Regenerates itself by [color="
@@ -42,57 +66,6 @@ msgstr "回复自身 [color="
 msgid "]90[/color] points of durability each turn."
 msgstr "]90[/color] 点耐力(每回合)。"
 
-# scripts/items/helmets/legendary/ijirok_helmet.nut
-msgid "]10[/color] hitpoints of the wearer each turn"
-msgstr "回复 10[/color] 生命值(每回合)"
-
-# scripts/items/helmets/legendary/emperors_countenance.nut
-msgid "]25%[/color] of damage taken in melee back to the attacker"
-msgstr ""
-
-# scripts/items/helmets/legendary/fangshire.nut
-msgid ""
-"Allows the wearer to see at night and negates any penalties due to "
-"nighttime."
-msgstr "允许佩戴者在夜间观看，并取消任何夜间惩罚。"
-
-# scripts/items/helmets/legendary/ijirok_helmet.nut
-msgid ""
-"Once a barbarian helmet broken in battle, this piece has been bathed in the "
-"blood of the legendary Ijirok. Powers beyond your understanding mended it "
-"whole again, and will likewise mend any wounds of the wearer as well."
-msgstr ""
-"曾经有一件野蛮人的头盔在战斗中折断，盔甲的碎片沐浴在传说中的伊吉罗克的鲜血里。 超越你理解的力量再次修复了它，同样也会修复穿戴者的任何创伤。"
-
-# scripts/items/helmets/legendary/emperors_countenance.nut
-msgid ""
-"A golden helmet and facemask, showing the visage of an emperor from an age "
-"long past, imbued with mystical energies. When you hold it into the light, "
-"it almost looks as if the face were moving and making expressions of "
-"disgust."
-msgstr "一个展露帝王容貌的具有神秘能力的金色头盔。 当你把它放在阳光下时，面具感觉就像是在移动，似乎还会露出鄙夷之情。"
-
 # scripts/items/helmets/legendary/mask_of_davkul.nut
-msgid ""
-"The Glimpse of Davkul is a gift bestowed upon man by ancient and dark "
-"powers, a helmet merged with human skin and bones through the most "
-"unspeakable of rituals. A glimpse of a future where man shall become one "
-"with creations from a realm beyond. It shall never break, but instead keep "
-"regrowing its scarred skin on the spot."
-msgstr ""
-"达库尔的凝视是远古黑暗力量赐予人类的礼物，通过最难以言表的仪式与人类的皮肤和骨骼融合在一起的一顶头盔。 "
-"在未来某时，人类将与来自另一个领域的造物成为一体。 它永远不会破裂，而是在原地不断地再生它那伤痕累累的皮肤。"
-
-# scripts/items/helmets/legendary/fangshire.nut
-msgid ""
-"The Fangshire is a northern tiger's skull that nestles the faces of men "
-"deeply and darkly behind two ferocious fangs. Originally worn by Bjarund the"
-" Beastman, a fierce northern raider, it instilled fear into the hearts of "
-"his enemies as he went on bloody raids and burned down many a village along "
-"the coastline. When Bjarund was finally slain, Fangshire was taken as a "
-"trophy and went further south. Rumors proclaim that its wearer's eyes glow a"
-" sharpened yellow, allowing them to see through the very night."
-msgstr ""
-"夏尔之牙是一个北方老虎的头骨，在两个凶猛的尖牙后面，深深地、黑暗地依偎着人类的脸。 "
-"最初是北方掠夺者比约兰戴着它，在他进行血腥袭击并烧毁海岸线上的许多村庄时，它向敌人的内心灌输了恐惧。 "
-"当比约兰最终被杀后，夏尔之牙被当作战利品运向了南方。 有传言说，佩戴者的眼睛发出一种尖锐的黄色光芒，让他们能看穿整个夜晚。"
+msgid "The Glimpse of Davkul is a gift bestowed upon man by ancient and dark powers, a helmet merged with human skin and bones through the most unspeakable of rituals. A glimpse of a future where man shall become one with creations from a realm beyond. It shall never break, but instead keep regrowing its scarred skin on the spot."
+msgstr "达库尔的凝视是远古黑暗力量赐予人类的礼物，通过最难以言表的仪式与人类的皮肤和骨骼融合在一起的一顶头盔。 在未来某时，人类将与来自另一个领域的造物成为一体。 它永远不会破裂，而是在原地不断地再生它那伤痕累累的皮肤。"

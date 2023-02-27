@@ -2,22 +2,6 @@
 msgid ""
 msgstr ""
 
-# scripts/items/helmets/ancient/ancient_laurels.nut
-msgid "Ancient Laurels"
-msgstr "古代桂冠"
-
-# scripts/items/helmets/ancient/ancient_lich_headpiece.nut
-msgid "Ancient Headpiece"
-msgstr ""
-
-# scripts/items/helmets/ancient/ancient_household_helmet.nut
-msgid "Ancient Household Helmet"
-msgstr "古代贵族头盔"
-
-# scripts/items/helmets/ancient/ancient_legionary_helmet.nut
-msgid "Ancient Legionary Helmet"
-msgstr "古代军盔"
-
 # scripts/items/helmets/ancient/ancient_honorguard_helmet.nut
 msgid "Ancient Honor Guard Helmet"
 msgstr "古代仪仗兵头盔"
@@ -26,10 +10,26 @@ msgstr "古代仪仗兵头盔"
 msgid "An ancient heavy helmet with intricate decoration."
 msgstr "一顶有着复杂装饰的古老重盔。"
 
-# scripts/items/helmets/ancient/ancient_legionary_helmet.nut
-msgid "A well-crafted but partly decayed helmet of ancient design."
-msgstr "一顶有着古代图案的做工精巧但部分磨损的头盔。"
+# scripts/items/helmets/ancient/ancient_household_helmet.nut
+msgid "Ancient Household Helmet"
+msgstr "古代贵族头盔"
 
 # scripts/items/helmets/ancient/ancient_household_helmet.nut
 msgid "An ancient light helmet that time has taken a toll on over many years."
 msgstr "一个古老的轻型头盔，由于年代过于久远磨损严重。"
+
+# scripts/items/helmets/ancient/ancient_laurels.nut
+msgid "Ancient Laurels"
+msgstr "古代桂冠"
+
+# scripts/items/helmets/ancient/ancient_legionary_helmet.nut
+msgid "Ancient Legionary Helmet"
+msgstr "古代军盔"
+
+# scripts/items/helmets/ancient/ancient_legionary_helmet.nut
+msgid "A well-crafted but partly decayed helmet of ancient design."
+msgstr "一顶有着古代图案的做工精巧但部分磨损的头盔。"
+
+# scripts/items/helmets/ancient/ancient_lich_headpiece.nut
+msgid "Ancient Headpiece"
+msgstr ""

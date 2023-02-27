@@ -15,76 +15,62 @@ msgstr "仪式头盔"
 msgid "Bear Headpiece"
 msgstr "熊头帽"
 
-# scripts/items/helmets/barbarians/leather_helmet.nut
-msgid "Leather Helmet"
-msgstr "皮革头盔"
-
-# scripts/items/helmets/barbarians/leather_headband.nut
-msgid "Leather Headband"
-msgstr "皮革头巾"
-
-# scripts/items/helmets/barbarians/crude_metal_helmet.nut
-msgid "Crude Metal Helmet"
-msgstr "粗糙金属头盔"
-
-# scripts/items/helmets/barbarians/crude_faceguard_helmet.nut
-msgid "Crude Faceguard Helmet"
-msgstr "粗糙的防护面罩"
+# scripts/items/helmets/barbarians/bear_headpiece.nut
+msgid "The dried and prepped head of a large bear. Offers some protection, but is mostly donned for the looks."
+msgstr "经过干燥处理的熊头帽。 提供了一定的防护，但主要还是为了好看。"
 
 # scripts/items/helmets/barbarians/beastmasters_headpiece.nut
 msgid "Beastmaster's Headpiece"
 msgstr "兽王帽"
 
+# scripts/items/helmets/barbarians/beastmasters_headpiece.nut
+msgid "A headpiece with long horns, fashioned in tradition of barbarian beastmasters for generations."
+msgstr "一种有着长角装饰的头帽，沿袭了几代野蛮人兽王的传统。"
+
 # scripts/items/helmets/barbarians/closed_scrap_metal_helmet.nut
 msgid "Closed Scrap Metal Helmet"
 msgstr "封闭式废金属头盔"
+
+# scripts/items/helmets/barbarians/closed_scrap_metal_helmet.nut
+msgid "This heavy metal helmet also protects the wearer's face, albeit at the cost of visibility."
+msgstr "这种重型头盔能够很好的保护穿戴者的脸部，尽管它影响了视线。"
+
+# scripts/items/helmets/barbarians/crude_faceguard_helmet.nut
+msgid "Crude Faceguard Helmet"
+msgstr "粗糙的防护面罩"
+
+# scripts/items/helmets/barbarians/crude_faceguard_helmet.nut
+msgid "A crude and rusty barbarian helmet. What it lacks in finesse it makes up for in thickness."
+msgstr "粗糙生锈的野蛮人头盔。 其厚度弥补了制作技巧的不足。"
+
+# scripts/items/helmets/barbarians/crude_metal_helmet.nut
+msgid "Crude Metal Helmet"
+msgstr "粗糙金属头盔"
+
+# scripts/items/helmets/barbarians/crude_metal_helmet.nut
+msgid "Although crudely made and rusty, this metal helmet is a durable and sturdy piece of armor."
+msgstr "尽管这头盔既粗糙还生锈，但还是一顶坚固耐用的盔甲。"
 
 # scripts/items/helmets/barbarians/heavy_horned_plate_helmet.nut
 msgid "Heavy Horned Plate Helmet"
 msgstr "重型角板头盔"
 
+# scripts/items/helmets/barbarians/heavy_horned_plate_helmet.nut
+msgid "This heavy helmet has ornamental horns attached. This is a sign of high standing and reputation within barbarian warbands."
+msgstr "这个沉重的头盔上有着角状型的装饰。 这是在野蛮人军团中享有崇高地位和声誉的标志。"
+
+# scripts/items/helmets/barbarians/leather_headband.nut
+msgid "Leather Headband"
+msgstr "皮革头巾"
+
 # scripts/items/helmets/barbarians/leather_headband.nut
 msgid "A dried and folded leather headband designed to protect the forehead."
 msgstr "一种用来保护额头的风干折叠式头巾。"
 
-# scripts/items/helmets/barbarians/crude_faceguard_helmet.nut
-msgid ""
-"A crude and rusty barbarian helmet. What it lacks in finesse it makes up for"
-" in thickness."
-msgstr "粗糙生锈的野蛮人头盔。 其厚度弥补了制作技巧的不足。"
-
-# scripts/items/helmets/barbarians/crude_metal_helmet.nut
-msgid ""
-"Although crudely made and rusty, this metal helmet is a durable and sturdy "
-"piece of armor."
-msgstr "尽管这头盔既粗糙还生锈，但还是一顶坚固耐用的盔甲。"
-
-# scripts/items/helmets/barbarians/closed_scrap_metal_helmet.nut
-msgid ""
-"This heavy metal helmet also protects the wearer's face, albeit at the cost "
-"of visibility."
-msgstr "这种重型头盔能够很好的保护穿戴者的脸部，尽管它影响了视线。"
-
-# scripts/items/helmets/barbarians/beastmasters_headpiece.nut
-msgid ""
-"A headpiece with long horns, fashioned in tradition of barbarian "
-"beastmasters for generations."
-msgstr "一种有着长角装饰的头帽，沿袭了几代野蛮人兽王的传统。"
-
-# scripts/items/helmets/barbarians/bear_headpiece.nut
-msgid ""
-"The dried and prepped head of a large bear. Offers some protection, but is "
-"mostly donned for the looks."
-msgstr "经过干燥处理的熊头帽。 提供了一定的防护，但主要还是为了好看。"
+# scripts/items/helmets/barbarians/leather_helmet.nut
+msgid "Leather Helmet"
+msgstr "皮革头盔"
 
 # scripts/items/helmets/barbarians/leather_helmet.nut
-msgid ""
-"A thick leather helmet fashioned from cured hides. The animals these once "
-"belonged to were certainly dangerous game."
+msgid "A thick leather helmet fashioned from cured hides. The animals these once belonged to were certainly dangerous game."
 msgstr "经过加工处理的兽皮制作的厚实皮革盔。 当然了，这些皮革曾经肯定属于某些危险的动物。"
-
-# scripts/items/helmets/barbarians/heavy_horned_plate_helmet.nut
-msgid ""
-"This heavy helmet has ornamental horns attached. This is a sign of high "
-"standing and reputation within barbarian warbands."
-msgstr "这个沉重的头盔上有着角状型的装饰。 这是在野蛮人军团中享有崇高地位和声誉的标志。"

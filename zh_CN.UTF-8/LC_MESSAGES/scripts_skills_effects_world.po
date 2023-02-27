@@ -2,35 +2,31 @@
 msgid ""
 msgstr ""
 
-# scripts/skills/effects_world/drunk_effect.nut
-msgid "Drunk"
-msgstr "醉酒"
+# scripts/skills/effects_world/knowledge_potion_effect.nut
+# scripts/skills/effects_world/new_trained_effect.nut
+# scripts/skills/effects_world/trained_effect.nut
+msgid "%[/color] Experience Gain"
+msgstr "%[/color] 经验获取"
 
-# scripts/skills/effects_world/afraid_effect.nut
-msgid "Afraid"
-msgstr "害怕"
+# scripts/skills/effects_world/knowledge_potion_effect.nut
+# scripts/skills/effects_world/new_knowledge_potion_effect.nut
+msgid "Enhanced Learning"
+msgstr "强化学习"
 
-# scripts/skills/effects_world/hangover_effect.nut
-msgid "Hangover"
-msgstr "宿醉"
-
-# scripts/skills/effects_world/exhausted_effect.nut
-msgid "Exhausted"
-msgstr "精疲力竭"
+# scripts/skills/effects_world/knowledge_potion_effect.nut
+# scripts/skills/effects_world/new_knowledge_potion_effect.nut
+msgid "Thanks to a cocktail of nootropics euphemistically called 'Potion of Knowledge', this character's cognitive functions, and particularly his memory and ability to learn, are enhanced along with his propensity for displaying nervous ticks."
+msgstr "由于一种被委婉地称为“知识药水”的热带混合体，这个角色的认知功能，特别是他的记忆和学习能力，随着他表现出紧张的滴答声的倾向而得到增强。"
 
 # scripts/skills/effects_world/new_trained_effect.nut
 # scripts/skills/effects_world/new_knowledge_potion_effect.nut
 msgid " more battles"
 msgstr ""
 
-# scripts/skills/effects_world/drunk_effect.nut
-msgid "Has a [color="
-msgstr ""
-
-# scripts/skills/effects_world/knowledge_potion_effect.nut
+# scripts/skills/effects_world/new_trained_effect.nut
 # scripts/skills/effects_world/new_knowledge_potion_effect.nut
-msgid "Enhanced Learning"
-msgstr "强化学习"
+msgid "Will be gone after "
+msgstr ""
 
 # scripts/skills/effects_world/new_trained_effect.nut
 # scripts/skills/effects_world/trained_effect.nut
@@ -38,123 +34,110 @@ msgid "Training Experience"
 msgstr "Training 经验值"
 
 # scripts/skills/effects_world/new_trained_effect.nut
-# scripts/skills/effects_world/new_knowledge_potion_effect.nut
-msgid "Will be gone after "
+# scripts/skills/effects_world/trained_effect.nut
+msgid "Having had the honor of training with and learning from experienced fighters recently, this character has soaked in knowledge and now needs to apply what he learned on the battlefield in order to fully grasp it and make it his own."
+msgstr "这个角色最近有幸与经验丰富的战士一起训练和学习，他已经浸透了知识，现在需要运用他在战场上所学的知识，以便完全掌握并使之成为自己的。"
+
+# scripts/skills/effects_world/afraid_effect.nut
+msgid "Afraid"
+msgstr "害怕"
+
+# scripts/skills/effects_world/afraid_effect.nut
+msgid "]-50%[/color] Resolve"
+msgstr ""
+
+# scripts/skills/effects_world/afraid_effect.nut
+msgid "Is content with being in reserve"
+msgstr "位于后备队不会不满意"
+
+# scripts/skills/effects_world/afraid_effect.nut
+msgid "Recent events have left this character afraid for his life. Either he's right and will meet his end soon, or it'll  pass in time."
+msgstr "最近的事件使这个角色害怕。 要么他能在恰当的时刻会晤，要么就随时间过去。"
+
+# scripts/skills/effects_world/drunk_effect.nut
+msgid "Drunk"
+msgstr "醉酒"
+
+# scripts/skills/effects_world/drunk_effect.nut
+msgid "Has a [color="
 msgstr ""
 
 # scripts/skills/effects_world/drunk_effect.nut
 msgid "]+25%[/color] Resolve"
 msgstr ""
 
-# scripts/skills/effects_world/hangover_effect.nut
-msgid "]-10%[/color] Resolve"
+# scripts/skills/effects_world/drunk_effect.nut
+msgid "]-25%[/color] Initiative"
 msgstr ""
 
-# scripts/skills/effects_world/afraid_effect.nut
-msgid "]-50%[/color] Resolve"
+# scripts/skills/effects_world/drunk_effect.nut
+msgid "]-25%[/color] Melee Skill"
+msgstr "]-25%[/color] 近战技能"
+
+# scripts/skills/effects_world/drunk_effect.nut
+msgid "]-25%[/color] Ranged Skill"
+msgstr "]-25%[/color] 远程技能"
+
+# scripts/skills/effects_world/drunk_effect.nut
+msgid "]-25%[/color] Melee Defense"
+msgstr "]-25%[/color] 近战防御"
+
+# scripts/skills/effects_world/drunk_effect.nut
+msgid "]-25%[/color] Ranged Defense"
+msgstr "]-25%[/color] 远程防御"
+
+# scripts/skills/effects_world/drunk_effect.nut
+msgid "]50%[/color] chance to be followed by a hangover"
+msgstr ""
+
+# scripts/skills/effects_world/drunk_effect.nut
+msgid "Hicks. This character is intoxicated with alcoholic liquor to the point of impairment of physical and mental faculties."
+msgstr "反应迟钝的人。这个人喝醉了，会损害身心的能力。"
+
+# scripts/skills/effects_world/exhausted_effect.nut
+msgid "Exhausted"
+msgstr "精疲力竭"
+
+# scripts/skills/effects_world/exhausted_effect.nut
+msgid "]-40%[/color] Max Fatigue"
+msgstr ""
+
+# scripts/skills/effects_world/exhausted_effect.nut
+msgid "Recent events have left this character physically exhausted and barely in a condition to keep up with the rest of the company, let alone fight. A few days rest should do wonders."
+msgstr "最近的事件让这个角色身体疲惫，几乎无法跟上队伍的其他人，更不用说打架了。休息几天会产生奇迹。"
+
+# scripts/skills/effects_world/hangover_effect.nut
+msgid "Hangover"
+msgstr "宿醉"
+
+# scripts/skills/effects_world/hangover_effect.nut
+msgid "]-10%[/color] Resolve"
 msgstr ""
 
 # scripts/skills/effects_world/hangover_effect.nut
 msgid "]-10%[/color] Initiative"
 msgstr ""
 
-# scripts/skills/effects_world/drunk_effect.nut
-msgid "]-25%[/color] Initiative"
-msgstr ""
-
-# scripts/skills/effects_world/knowledge_potion_effect.nut
-# scripts/skills/effects_world/new_trained_effect.nut
-# scripts/skills/effects_world/trained_effect.nut
-msgid "%[/color] Experience Gain"
-msgstr "%[/color] 经验获取"
-
 # scripts/skills/effects_world/hangover_effect.nut
 msgid "]-10%[/color] Melee Skill"
 msgstr "]-10%[/color] 近战技能"
-
-# scripts/skills/effects_world/drunk_effect.nut
-msgid "]-25%[/color] Melee Skill"
-msgstr "]-25%[/color] 近战技能"
-
-# scripts/skills/effects_world/exhausted_effect.nut
-msgid "]-40%[/color] Max Fatigue"
-msgstr ""
 
 # scripts/skills/effects_world/hangover_effect.nut
 msgid "]-10%[/color] Ranged Skill"
 msgstr "]-10%[/color] 远程技能"
 
-# scripts/skills/effects_world/drunk_effect.nut
-msgid "]-25%[/color] Ranged Skill"
-msgstr "]-25%[/color] 远程技能"
-
 # scripts/skills/effects_world/hangover_effect.nut
 msgid "]-10%[/color] Melee Defense"
 msgstr "]-10%[/color] 近战防御"
-
-# scripts/skills/effects_world/drunk_effect.nut
-msgid "]-25%[/color] Melee Defense"
-msgstr "]-25%[/color] 近战防御"
 
 # scripts/skills/effects_world/hangover_effect.nut
 msgid "]-10%[/color] Ranged Defense"
 msgstr "]-10%[/color] 远程防御"
 
-# scripts/skills/effects_world/drunk_effect.nut
-msgid "]-25%[/color] Ranged Defense"
-msgstr "]-25%[/color] 远程防御"
+# scripts/skills/effects_world/hangover_effect.nut
+msgid "Not so loud! This character suffers the consequences from recent excessive alcohol consumption."
+msgstr "不要那么大声！这一特点受到了近来过度饮酒的影响。"
 
 # scripts/skills/effects_world/new_knowledge_potion_effect.nut
 msgid "]+100%[/color] Experience Gain"
 msgstr "]+100%[/color] 经验获取"
-
-# scripts/skills/effects_world/afraid_effect.nut
-msgid "Is content with being in reserve"
-msgstr "位于后备队不会不满意"
-
-# scripts/skills/effects_world/drunk_effect.nut
-msgid "]50%[/color] chance to be followed by a hangover"
-msgstr ""
-
-# scripts/skills/effects_world/hangover_effect.nut
-msgid ""
-"Not so loud! This character suffers the consequences from recent excessive "
-"alcohol consumption."
-msgstr "不要那么大声！这一特点受到了近来过度饮酒的影响。"
-
-# scripts/skills/effects_world/drunk_effect.nut
-msgid ""
-"Hicks. This character is intoxicated with alcoholic liquor to the point of "
-"impairment of physical and mental faculties."
-msgstr "反应迟钝的人。这个人喝醉了，会损害身心的能力。"
-
-# scripts/skills/effects_world/afraid_effect.nut
-msgid ""
-"Recent events have left this character afraid for his life. Either he's "
-"right and will meet his end soon, or it'll  pass in time."
-msgstr "最近的事件使这个角色害怕。 要么他能在恰当的时刻会晤，要么就随时间过去。"
-
-# scripts/skills/effects_world/exhausted_effect.nut
-msgid ""
-"Recent events have left this character physically exhausted and barely in a "
-"condition to keep up with the rest of the company, let alone fight. A few "
-"days rest should do wonders."
-msgstr "最近的事件让这个角色身体疲惫，几乎无法跟上队伍的其他人，更不用说打架了。休息几天会产生奇迹。"
-
-# scripts/skills/effects_world/new_trained_effect.nut
-# scripts/skills/effects_world/trained_effect.nut
-msgid ""
-"Having had the honor of training with and learning from experienced fighters"
-" recently, this character has soaked in knowledge and now needs to apply "
-"what he learned on the battlefield in order to fully grasp it and make it "
-"his own."
-msgstr "这个角色最近有幸与经验丰富的战士一起训练和学习，他已经浸透了知识，现在需要运用他在战场上所学的知识，以便完全掌握并使之成为自己的。"
-
-# scripts/skills/effects_world/knowledge_potion_effect.nut
-# scripts/skills/effects_world/new_knowledge_potion_effect.nut
-msgid ""
-"Thanks to a cocktail of nootropics euphemistically called 'Potion of "
-"Knowledge', this character's cognitive functions, and particularly his "
-"memory and ability to learn, are enhanced along with his propensity for "
-"displaying nervous ticks."
-msgstr "由于一种被委婉地称为“知识药水”的热带混合体，这个角色的认知功能，特别是他的记忆和学习能力，随着他表现出紧张的滴答声的倾向而得到增强。"

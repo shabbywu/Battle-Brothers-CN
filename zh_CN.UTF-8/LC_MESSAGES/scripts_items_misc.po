@@ -2,205 +2,100 @@
 msgid ""
 msgstr ""
 
-# scripts/items/misc/spider_silk_item.nut
-msgid "Gossamer"
-msgstr "蛛丝"
-
-# scripts/items/misc/paint_set_item.nut
-msgid "Paint Set"
-msgstr "油漆套装"
-
+# scripts/items/misc/paint_orange_red_item.nut
+# scripts/items/misc/paint_white_green_yellow_item.nut
+# scripts/items/misc/paint_white_blue_item.nut
 # scripts/items/misc/paint_red_item.nut
-msgid "Red Paint"
-msgstr "红色油漆"
-
-# scripts/items/misc/snake_oil_item.nut
-msgid "Snake Oil"
-msgstr "蛇油"
-
-# scripts/items/misc/third_eye_item.nut
-msgid "Third Eye"
-msgstr "第三只眼"
-
-# scripts/items/misc/kraken_horn_plate_item.nut
-msgid "Horn Plate"
-msgstr "角板"
-
-# scripts/items/misc/witch_hair_item.nut
-msgid "Witch Hair"
-msgstr "女巫头发"
-
+# scripts/items/misc/paint_remover_item.nut
 # scripts/items/misc/paint_black_item.nut
-msgid "Black Paint"
-msgstr "黑色油漆"
+msgid "Right-click or drag onto a helmet carried by the currently selected character in order to paint it. This item will be consumed in the process."
+msgstr "右键单击或拖动到当前所选角色携带的头盔上，对其进行喷涂。 此物品会在使用过程中消耗掉。"
 
-# scripts/items/misc/unhold_hide_item.nut
-msgid "Unhold Hide"
-msgstr "巨魔皮"
-
-# scripts/items/misc/ancient_wood_item.nut
-msgid "Ancient Wood"
-msgstr "古木"
-
-# scripts/items/misc/happy_powder_item.nut
-msgid "Happy Powder"
-msgstr "快乐粉"
-
-# scripts/items/misc/ghoul_teeth_item.nut
-msgid "Jagged Fangs"
-msgstr "锯齿尖牙"
-
-# scripts/items/misc/parched_skin_item.nut
-msgid "Parched Skin"
-msgstr "干瘪皮肤"
-
-# scripts/items/misc/poison_gland_item.nut
-msgid "Poison Gland"
-msgstr "毒腺"
-
-# scripts/items/misc/serpent_skin_item.nut
-msgid "Serpent Skin"
-msgstr "大蛇皮"
+# scripts/items/misc/potion_of_oblivion_item.nut
+# scripts/items/misc/potion_of_knowledge_item.nut
+msgid "Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process."
+msgstr "右键单击或拖动到当前选定的角色上进行饮用。 此物品会在使用过程中消耗掉。"
 
 # scripts/items/misc/wardog_armor_upgrade_item.nut
-msgid "Wardog Armor"
-msgstr "战犬盔甲"
+# scripts/items/misc/wardog_heavy_armor_upgrade_item.nut
+msgid "Right-click or drag onto a wardog equipped by the currently selected character in order to use. This item will be consumed in the process."
+msgstr "右键单击或拖动到当前选定的角色装备的战犬上进行使用。 此物品会在使用过程中消耗掉。"
 
 # scripts/items/misc/acidic_saliva_item.nut
 msgid "Acidic Saliva"
 msgstr "酸性唾液"
 
-# scripts/items/misc/glowing_resin_item.nut
-msgid "Glowing Resin"
-msgstr "荧光树脂"
-
-# scripts/items/misc/paint_remover_item.nut
-msgid "Paint Remover"
-msgstr "脱漆剂"
-
-# scripts/items/misc/manhunters_ledger_item.nut
-msgid "Company Ledger"
-msgstr "战队账簿"
-
-# scripts/items/misc/lindwurm_blood_item.nut
-msgid "Lindwurm Blood"
-msgstr "林德沃姆血液"
-
-# scripts/items/misc/lindwurm_bones_item.nut
-msgid "Lindwurm Bones"
-msgstr "林德沃姆骨骼"
-
-# scripts/items/misc/poisoned_apple_item.nut
-msgid "Poisoned Apple"
-msgstr "毒苹果"
-
-# scripts/items/misc/unhold_heart_item.nut
-msgid "Unhold's Heart"
-msgstr "巨魔心脏"
-
-# scripts/items/misc/lindwurm_scales_item.nut
-msgid "Lindwurm Scales"
-msgstr "林德沃姆鳞片"
-
-# scripts/items/misc/ghoul_horn_item.nut
-msgid "Nachzehrer Horn"
-msgstr "食尸鬼的角"
-
-# scripts/items/misc/sulfurous_rocks_item.nut
-msgid "Sulfurous Rocks"
-msgstr "硫磺岩"
-
-# scripts/items/misc/frost_unhold_fur_item.nut
-msgid "Thick White Fur"
-msgstr "白色厚毛皮"
+# scripts/items/misc/acidic_saliva_item.nut
+msgid "The saliva of the wild desert hyenas is priced by southern alchemists for its unique properties."
+msgstr "野生沙漠鬣狗的唾液因其独特的特性被南方炼金术士追捧。"
 
 # scripts/items/misc/adrenaline_gland_item.nut
 msgid "Adrenaline Gland"
 msgstr "肾上腺"
 
-# scripts/items/misc/poisoned_apple_item.nut
-msgid "Looks delicious!"
-msgstr "看起来很好吃！"
+# scripts/items/misc/adrenaline_gland_item.nut
+msgid "A Direwolf's frenzy and bloodlust can be attributed to substances produced by this gland. Someone, somewhere will probably have a use for it."
+msgstr "冰原狼的疯狂和杀戮欲都可以归因于这个腺体产生的物质。某些地方的某些人可能会有用途。"
 
-# scripts/items/misc/mysterious_herbs_item.nut
-msgid "Mysterious Herbs"
-msgstr "神秘草药"
+# scripts/items/misc/ancient_wood_item.nut
+msgid "Ancient Wood"
+msgstr "古木"
+
+# scripts/items/misc/ancient_wood_item.nut
+msgid "Ancient pieces of wood carved from the remains of a living tree."
+msgstr "从一棵活树的残骸上雕刻而成的古代木片。"
+
+# scripts/items/misc/frost_unhold_fur_item.nut
+msgid "Thick White Fur"
+msgstr "白色厚毛皮"
+
+# scripts/items/misc/frost_unhold_fur_item.nut
+msgid "Thick white fur formerly belonging to an Unhold of the frozen north."
+msgstr "来自北方冻土的巨魔身上的白色厚毛皮。"
 
 # scripts/items/misc/ghoul_brain_item.nut
 msgid "Nachzehrer Brain"
 msgstr "食尸鬼大脑"
 
-# scripts/items/misc/petrified_scream_item.nut
-msgid "Petrified Scream"
-msgstr "恐怖尖声"
+# scripts/items/misc/ghoul_brain_item.nut
+msgid "The greasy brain of a slain Nachzehrer. What could you possibly want with this?"
+msgstr "被杀死的食尸鬼的油腻大脑。你想要用它做点什么呢？"
 
-# scripts/items/misc/hyena_fur_item.nut
-msgid "Raging Hyena Fur"
-msgstr "鬣狗毛皮"
+# scripts/items/misc/ghoul_horn_item.nut
+msgid "Nachzehrer Horn"
+msgstr "食尸鬼的角"
 
-# scripts/items/misc/kraken_tentacle_item.nut
-msgid "Severed Tentacle"
-msgstr "断掉的触手"
+# scripts/items/misc/ghoul_horn_item.nut
+msgid "Nachzehrers can grow impressive horns, and these in turn make for impressive trophies."
+msgstr "食尸鬼会长出不同寻常的角，这些当然也就成了不同寻常的战利品。"
 
-# scripts/items/misc/vampire_dust_item.nut
-msgid "Shimmering Ashes"
-msgstr "微光闪闪的灰烬"
+# scripts/items/misc/ghoul_teeth_item.nut
+msgid "Jagged Fangs"
+msgstr "锯齿尖牙"
+
+# scripts/items/misc/ghoul_teeth_item.nut
+msgid "A handful of jagged fangs taken from a Nachzehrer. Infected with rot but hard enough to chew through any bone. Might fetch some coin from alchemists on the market place."
+msgstr "从食尸鬼身上取得的锯齿状的尖牙。 已经感染腐烂了，但坚硬得足以咬碎骨头。 可以从市场上的炼金术士身上换取一些硬币。"
 
 # scripts/items/misc/glistening_scales_item.nut
 msgid "Glistening Scales"
 msgstr "闪亮的鳞片"
 
-# scripts/items/misc/wardog_heavy_armor_upgrade_item.nut
-msgid "Heavy Wardog Armor"
-msgstr "重型战犬盔甲"
+# scripts/items/misc/glistening_scales_item.nut
+msgid "These scales are shimmering and glistening beautifully in all the colors as you turn them towards the sun."
+msgstr "当你把这些鳞片朝向太阳时，闪耀着各种颜色的光。"
 
-# scripts/items/misc/potion_of_oblivion_item.nut
-msgid "Potion of Oblivion"
-msgstr "遗忘药水"
+# scripts/items/misc/glowing_resin_item.nut
+msgid "Glowing Resin"
+msgstr "荧光树脂"
 
-# scripts/items/misc/heart_of_the_forest_item.nut
-msgid "Heart of the Forest"
-msgstr "森林之心"
+# scripts/items/misc/glowing_resin_item.nut
+msgid "These amber resin shards have a light orange hue to them. If melted, the material makes for a strong adhesive."
+msgstr "这是些浅黄色的琥珀树脂碎片。如果熔化，这种材料就会形成一种强力粘合剂。"
 
-# scripts/items/misc/potion_of_knowledge_item.nut
-msgid "Potion of Knowledge"
-msgstr "知识药水"
-
-# scripts/items/misc/miracle_drug_item.nut
-msgid "Apothecary's Miracle"
-msgstr "药剂师的奇迹"
-
-# scripts/items/misc/paint_orange_red_item.nut
-msgid "Orange and Red Paint"
-msgstr "橘红色油漆"
-
-# scripts/items/misc/paint_white_blue_item.nut
-msgid "White and Blue Paint"
-msgstr "白蓝色油漆"
-
-# scripts/items/misc/unhold_bones_item.nut
-msgid "Giant Skull and Bones"
-msgstr "巨大的颅骨"
-
-# scripts/items/misc/manhunters_ledger_item.nut
-msgid " Indebted in the company"
-msgstr "战队负债者"
-
-# scripts/items/misc/werewolf_pelt_item.nut
-msgid "Unusually Large Wolf Pelt"
-msgstr "不同寻常的大狼皮"
-
-# scripts/items/misc/manhunters_ledger_item.nut
-msgid " Manhunters in the company"
-msgstr "战队搜捕者"
-
-# scripts/items/misc/paint_white_green_yellow_item.nut
-msgid "White, Green and Yellow Paint"
-msgstr "白绿黄油漆"
-
-# scripts/items/misc/potion_of_knowledge_item.nut
-msgid "]+100%[/color] Experience Gain"
-msgstr "]+100%[/color] 经验获取"
+# scripts/items/misc/happy_powder_item.nut
+msgid "Happy Powder"
+msgstr "快乐粉"
 
 # scripts/items/misc/happy_powder_item.nut
 msgid "Fear and loathing along the road"
@@ -210,6 +105,82 @@ msgstr "路上的恐惧和厌恶"
 msgid "Overindulgence may lead to sickness"
 msgstr "过度使用可能导致疾病"
 
+# scripts/items/misc/happy_powder_item.nut
+msgid "Right-click or drag onto the currently selected character in order to snort. This item will be consumed in the process."
+msgstr "右键单击或拖动到当前选定的角色上进行鼻吸。 此物品会在使用过程中消耗掉。"
+
+# scripts/items/misc/happy_powder_item.nut
+msgid "This miraculous powder instantly turns a grumpy, ill-tempered mercenary into an happy and energetic one. Do not operate heavy machinery while under the influence."
+msgstr "这种神奇的粉末能立即把一个脾气暴躁的雇佣兵变成一个快乐而精力充沛的人。 不需要复杂的操作就能深陷其中。"
+
+# scripts/items/misc/heart_of_the_forest_item.nut
+msgid "Heart of the Forest"
+msgstr "森林之心"
+
+# scripts/items/misc/heart_of_the_forest_item.nut
+msgid "A thorny plant part, resembling in shape a human heart."
+msgstr "一种多刺植物的某部分，看起来像人类心脏的形状。"
+
+# scripts/items/misc/hyena_fur_item.nut
+msgid "Raging Hyena Fur"
+msgstr "鬣狗毛皮"
+
+# scripts/items/misc/hyena_fur_item.nut
+msgid "The colorful fur of a desert hyena makes for an impressive and exotic addition to any mercenary armor, if not a sophisticated one."
+msgstr "沙漠鬣狗的五颜六色的皮毛为任何雇佣兵的盔甲增添了一份令人印象深刻的异国情调，如果不是一个复杂的盔甲。"
+
+# scripts/items/misc/kraken_horn_plate_item.nut
+msgid "Horn Plate"
+msgstr "角板"
+
+# scripts/items/misc/kraken_horn_plate_item.nut
+msgid "Taken from the the head of the legendary kraken, this large and hard horn plate is a trophy few in this world can claim."
+msgstr "从传说中的克拉肯的头部取下，这个巨大而坚硬的角盘是这个世界上少有的战利品。"
+
+# scripts/items/misc/kraken_tentacle_item.nut
+msgid "Severed Tentacle"
+msgstr "断掉的触手"
+
+# scripts/items/misc/kraken_tentacle_item.nut
+msgid "The shriveled remains of a legendary kraken's tentacle, slimy and squishy but highly sought-after by alchemists for its supposed rare properties."
+msgstr "这是传说中的克拉肯触须干枯的遗骨，粘糊糊的，但炼金术士们却对它的稀有特性大加追捧。"
+
+# scripts/items/misc/lindwurm_blood_item.nut
+msgid "Lindwurm Blood"
+msgstr "林德沃姆血液"
+
+# scripts/items/misc/lindwurm_blood_item.nut
+msgid "The corroding blood of a Lindwurm that eats away at metal in no time. Luckily it can be safely transported in glass vials."
+msgstr "这种林德沃姆血液能瞬间腐蚀金属。幸运的是能装在玻璃瓶里安全运输。"
+
+# scripts/items/misc/lindwurm_bones_item.nut
+msgid "Lindwurm Bones"
+msgstr "林德沃姆骨骼"
+
+# scripts/items/misc/lindwurm_bones_item.nut
+msgid "The bones of the Lindwurm are mostly hollow from the inside, making them an easy to carry trophy despite their size."
+msgstr "林德沃姆骨骼的内部大部分是中空的，因此尽管体型庞大，但还是很容易携带。"
+
+# scripts/items/misc/lindwurm_scales_item.nut
+msgid "Lindwurm Scales"
+msgstr "林德沃姆鳞片"
+
+# scripts/items/misc/lindwurm_scales_item.nut
+msgid "The shimmering green scales of a Lindwurm are among the most reputable trophies a beast hunter can bring home from his adventures."
+msgstr "林德沃姆身上闪闪发光的绿色鳞片是猎人从历险中带回的最著名的战利品之一。"
+
+# scripts/items/misc/manhunters_ledger_item.nut
+msgid "Company Ledger"
+msgstr "战队账簿"
+
+# scripts/items/misc/manhunters_ledger_item.nut
+msgid " Indebted in the company"
+msgstr "战队负债者"
+
+# scripts/items/misc/manhunters_ledger_item.nut
+msgid " Manhunters in the company"
+msgstr "战队搜捕者"
+
 # scripts/items/misc/manhunters_ledger_item.nut
 msgid "]+10%[/color] Experience Gain for Indebted"
 msgstr "]+10%[/color] 负债者经验获取"
@@ -218,302 +189,21 @@ msgstr "]+10%[/color] 负债者经验获取"
 msgid "]-10%[/color] Experience Gain for Manhunters"
 msgstr "]-10%[/color] 搜捕者经验获取"
 
-# scripts/items/misc/heart_of_the_forest_item.nut
-msgid "A thorny plant part, resembling in shape a human heart."
-msgstr "一种多刺植物的某部分，看起来像人类心脏的形状。"
-
-# scripts/items/misc/paint_red_item.nut
-msgid "A bucket of red paint. Can be used to paint many common helmets."
-msgstr "一桶红色的油漆。 可以喷涂许多普通的头盔。"
-
-# scripts/items/misc/ancient_wood_item.nut
-msgid "Ancient pieces of wood carved from the remains of a living tree."
-msgstr "从一棵活树的残骸上雕刻而成的古代木片。"
-
 # scripts/items/misc/manhunters_ledger_item.nut
 msgid "A ledger detailing the members and contract terms of the company."
 msgstr "一本详细介绍战团成员和合同条款的账簿。"
 
-# scripts/items/misc/paint_black_item.nut
-msgid "A bucket of black paint. Can be used to paint many common helmets."
-msgstr "一桶黑色的油漆。 可以喷涂许多普通的头盔。"
-
-# scripts/items/misc/frost_unhold_fur_item.nut
-msgid "Thick white fur formerly belonging to an Unhold of the frozen north."
-msgstr "来自北方冻土的巨魔身上的白色厚毛皮。"
-
-# scripts/items/misc/parched_skin_item.nut
-msgid "This skin taken from an Alp is paperthin and glitters in the sunlight."
-msgstr "这种来自梦魇身上的皮肤像纸一样薄，在阳光下闪闪发亮。"
-
-# scripts/items/misc/paint_white_blue_item.nut
-msgid ""
-"Buckets of white and blue paint. Can be used to paint many common helmets."
-msgstr "一桶白蓝色的油漆。 可以喷涂许多普通的头盔。"
-
-# scripts/items/misc/paint_orange_red_item.nut
-msgid ""
-"Buckets of yellow and red paint. Can be used to paint many common helmets."
-msgstr "一桶橘红色的油漆。 可以喷涂许多普通的头盔。"
-
-# scripts/items/misc/ghoul_brain_item.nut
-msgid ""
-"The greasy brain of a slain Nachzehrer. What could you possibly want with "
-"this?"
-msgstr "被杀死的食尸鬼的油腻大脑。你想要用它做点什么呢？"
-
-# scripts/items/misc/unhold_bones_item.nut
-msgid ""
-"These large bones taken from an Unhold are a valued trophy among beast "
-"hunters."
-msgstr "这些从巨魔身上取来的巨大的骨头在猎兽者眼中是值钱的战利品。"
-
-# scripts/items/misc/paint_remover_item.nut
-msgid ""
-"A bucket of paint remover. Can be used to remove paint from many common "
-"helmets."
-msgstr "一桶脱漆剂。 可以用来去除许多普通头盔上的油漆。"
-
-# scripts/items/misc/poison_gland_item.nut
-msgid ""
-"The poison gland of a Webknecht. Should not be carried close to any food or "
-"drink."
-msgstr "蜘蛛的毒腺，不要挨着食物或饮料存放。"
-
-# scripts/items/misc/wardog_heavy_armor_upgrade_item.nut
-msgid ""
-"A heavy hide coat that can be donned by any wardog to give it protection in "
-"combat."
-msgstr "重型的皮毛外套，可披在任何战犬身上，以在战斗时提供保护。"
-
-# scripts/items/misc/paint_white_green_yellow_item.nut
-msgid ""
-"Buckets of white, green and yellow paint. Can be used to paint many common "
-"helmets."
-msgstr "一桶白绿黄色的油漆。 可以喷涂许多普通的头盔。"
-
-# scripts/items/misc/werewolf_pelt_item.nut
-msgid ""
-"A thick and unusually large wolf pelt that should fetch a decent price at "
-"the market."
-msgstr "一种又厚又大的狼皮，应该能在市场上卖个好价钱（才怪）。"
-
-# scripts/items/misc/third_eye_item.nut
-msgid ""
-"Alps have no eyes, yet this eye-like organ can be retrieved from inside "
-"their skulls."
-msgstr "夢魘没有眼睛，但这个类似眼睛的器官可以从它们的颅骨内取出。"
-
-# scripts/items/misc/ghoul_horn_item.nut
-msgid ""
-"Nachzehrers can grow impressive horns, and these in turn make for impressive"
-" trophies."
-msgstr "食尸鬼会长出不同寻常的角，这些当然也就成了不同寻常的战利品。"
-
-# scripts/items/misc/wardog_armor_upgrade_item.nut
-msgid ""
-"A simple leather coat that can be donned by any wardog to give it some "
-"protection in combat."
-msgstr "简单的皮革外套，可披在任何战犬身上，以在战斗时提供一些保护。"
-
-# scripts/items/misc/sulfurous_rocks_item.nut
-msgid ""
-"An offensive stench is emitted by these brittle rocks, which are prized "
-"highly by alchemists."
-msgstr "这些易碎的岩石散发出一股令人作呕的臭味，炼金术士非常珍视这些岩石。"
-
-# scripts/items/misc/serpent_skin_item.nut
-msgid ""
-"The scaly skin of a large serpent. A skilled craftsman could turn this into "
-"something useful."
-msgstr "大蛇有鳞的皮肤。 一个熟练的工匠可以把它变成有用的东西。"
-
-# scripts/items/misc/unhold_hide_item.nut
-msgid ""
-"Hide is the basis of most armors, and this thick hide taken from an Unhold "
-"is especially sturdy."
-msgstr "兽皮是大部分护甲的基本组成，这个巨魔身上取来的厚厚的皮更是特别结实。"
-
-# scripts/items/misc/acidic_saliva_item.nut
-msgid ""
-"The saliva of the wild desert hyenas is priced by southern alchemists for "
-"its unique properties."
-msgstr "野生沙漠鬣狗的唾液因其独特的特性被南方炼金术士追捧。"
-
 # scripts/items/misc/manhunters_ledger_item.nut
-msgid ""
-"There are too few Indebted in the company! The Manhunters will become "
-"dissatisfied if this continues!"
+msgid "There are too few Indebted in the company! The Manhunters will become dissatisfied if this continues!"
 msgstr "战队里的负债者太少了！ 如果这种情况继续下去，搜捕者会感到不满意！"
 
-# scripts/items/misc/glistening_scales_item.nut
-msgid ""
-"These scales are shimmering and glistening beautifully in all the colors as "
-"you turn them towards the sun."
-msgstr "当你把这些鳞片朝向太阳时，闪耀着各种颜色的光。"
-
-# scripts/items/misc/glowing_resin_item.nut
-msgid ""
-"These amber resin shards have a light orange hue to them. If melted, the "
-"material makes for a strong adhesive."
-msgstr "这是些浅黄色的琥珀树脂碎片。如果熔化，这种材料就会形成一种强力粘合剂。"
-
-# scripts/items/misc/mysterious_herbs_item.nut
-msgid ""
-"These herbs do not look or smell like any known to you. Their scent is "
-"intriguing and appalling at the same time."
-msgstr "这些草药看起来或闻起来都不像你所知道的任何草药。它们的气味既迷人又可怕。"
-
-# scripts/items/misc/petrified_scream_item.nut
-msgid ""
-"An eerie artifact found among the remains of an Alp. Carrying this around "
-"may cause bad dreams and bad night's rest."
-msgstr "在梦魇遗骸中发现的一种怪异的神器。 带着它到处走可能会导致做噩梦影响休息。"
-
-# scripts/items/misc/lindwurm_bones_item.nut
-msgid ""
-"The bones of the Lindwurm are mostly hollow from the inside, making them an "
-"easy to carry trophy despite their size."
-msgstr "林德沃姆骨骼的内部大部分是中空的，因此尽管体型庞大，但还是很容易携带。"
-
-# scripts/items/misc/paint_set_item.nut
-msgid ""
-"A palette of several vibrant colors and a set of brushes. Can be used to "
-"paint common shields in your company's colors."
-msgstr "由几种鲜艳的颜料和一套刷子组成的调色板，可用来给普通盾牌涂上你战队的颜色。"
-
-# scripts/items/misc/potion_of_oblivion_item.nut
-# scripts/items/misc/potion_of_knowledge_item.nut
-msgid ""
-"Right-click or drag onto the currently selected character in order to drink."
-" This item will be consumed in the process."
-msgstr "右键单击或拖动到当前选定的角色上进行饮用。 此物品会在使用过程中消耗掉。"
-
-# scripts/items/misc/happy_powder_item.nut
-msgid ""
-"Right-click or drag onto the currently selected character in order to snort."
-" This item will be consumed in the process."
-msgstr "右键单击或拖动到当前选定的角色上进行鼻吸。 此物品会在使用过程中消耗掉。"
-
-# scripts/items/misc/kraken_horn_plate_item.nut
-msgid ""
-"Taken from the the head of the legendary kraken, this large and hard horn "
-"plate is a trophy few in this world can claim."
-msgstr "从传说中的克拉肯的头部取下，这个巨大而坚硬的角盘是这个世界上少有的战利品。"
+# scripts/items/misc/miracle_drug_item.nut
+msgid "Apothecary's Miracle"
+msgstr "药剂师的奇迹"
 
 # scripts/items/misc/miracle_drug_item.nut
-msgid ""
-"Right-click or drag onto the currently selected character in order to "
-"swallow. This item will be consumed in the process."
+msgid "Right-click or drag onto the currently selected character in order to swallow. This item will be consumed in the process."
 msgstr "右键单击或拖动到当前选定的角色上进行吞服。 此物品会在使用过程中消耗掉。"
-
-# scripts/items/misc/lindwurm_blood_item.nut
-msgid ""
-"The corroding blood of a Lindwurm that eats away at metal in no time. "
-"Luckily it can be safely transported in glass vials."
-msgstr "这种林德沃姆血液能瞬间腐蚀金属。幸运的是能装在玻璃瓶里安全运输。"
-
-# scripts/items/misc/hyena_fur_item.nut
-msgid ""
-"The colorful fur of a desert hyena makes for an impressive and exotic "
-"addition to any mercenary armor, if not a sophisticated one."
-msgstr "沙漠鬣狗的五颜六色的皮毛为任何雇佣兵的盔甲增添了一份令人印象深刻的异国情调，如果不是一个复杂的盔甲。"
-
-# scripts/items/misc/lindwurm_scales_item.nut
-msgid ""
-"The shimmering green scales of a Lindwurm are among the most reputable "
-"trophies a beast hunter can bring home from his adventures."
-msgstr "林德沃姆身上闪闪发光的绿色鳞片是猎人从历险中带回的最著名的战利品之一。"
-
-# scripts/items/misc/potion_of_knowledge_item.nut
-msgid ""
-"Knowledge of the world, arcane and mundane, is said to be distilled into "
-"this potion. Upon drinking it, lessons are more easily learned."
-msgstr "据说这药水是由世界的神秘的和世俗知识练成的。喝了它能更容易得到经验。"
-
-# scripts/items/misc/wardog_armor_upgrade_item.nut
-# scripts/items/misc/wardog_heavy_armor_upgrade_item.nut
-msgid ""
-"Right-click or drag onto a wardog equipped by the currently selected "
-"character in order to use. This item will be consumed in the process."
-msgstr "右键单击或拖动到当前选定的角色装备的战犬上进行使用。 此物品会在使用过程中消耗掉。"
-
-# scripts/items/misc/adrenaline_gland_item.nut
-msgid ""
-"A Direwolf's frenzy and bloodlust can be attributed to substances produced "
-"by this gland. Someone, somewhere will probably have a use for it."
-msgstr "冰原狼的疯狂和杀戮欲都可以归因于这个腺体产生的物质。某些地方的某些人可能会有用途。"
-
-# scripts/items/misc/spider_silk_item.nut
-msgid ""
-"Gossamer gathered from the remains of a Webknecht. Light and strong, it is "
-"superior to most common materials. If only it weren't so sticky..."
-msgstr "从蜘蛛尸体上搜刮来的蛛丝。又轻又韧，它比大部分普通材料都要好。如果它不是这么粘的话…"
-
-# scripts/items/misc/paint_orange_red_item.nut
-# scripts/items/misc/paint_white_green_yellow_item.nut
-# scripts/items/misc/paint_white_blue_item.nut
-# scripts/items/misc/paint_red_item.nut
-# scripts/items/misc/paint_remover_item.nut
-# scripts/items/misc/paint_black_item.nut
-msgid ""
-"Right-click or drag onto a helmet carried by the currently selected "
-"character in order to paint it. This item will be consumed in the process."
-msgstr "右键单击或拖动到当前所选角色携带的头盔上，对其进行喷涂。 此物品会在使用过程中消耗掉。"
-
-# scripts/items/misc/paint_set_item.nut
-msgid ""
-"Right-click or drag onto a shield carried by the currently selected "
-"character in order to paint it. This item will be consumed in the process."
-msgstr "右键单击或拖动到当前所选角色携带的盾牌上，对其进行喷涂。 此物品会在使用过程中消耗掉。"
-
-# scripts/items/misc/unhold_heart_item.nut
-msgid ""
-"The large and heavy heart of an Unhold. Rumored to have magical properties, "
-"alchemists are prepared to pay a tidy sum to get it into their hands."
-msgstr "巨大而沉重的巨魔之心。谣传有魔法属性，炼金术士们为了要得到它，准备好了一大笔奖金。"
-
-# scripts/items/misc/kraken_tentacle_item.nut
-msgid ""
-"The shriveled remains of a legendary kraken's tentacle, slimy and squishy "
-"but highly sought-after by alchemists for its supposed rare properties."
-msgstr "这是传说中的克拉肯触须干枯的遗骨，粘糊糊的，但炼金术士们却对它的稀有特性大加追捧。"
-
-# scripts/items/misc/vampire_dust_item.nut
-msgid ""
-"A small heap of ashes shimmering in many facets of blue. Allegedly it's the "
-"remains of a powerful undead creature, but few people would believe a claim "
-"like this."
-msgstr "一小堆闪烁蓝色微光的灰烬。据称这是一种强大亡灵生物的残骸，但只有部分人相信这种传言。"
-
-# scripts/items/misc/happy_powder_item.nut
-msgid ""
-"This miraculous powder instantly turns a grumpy, ill-tempered mercenary into"
-" an happy and energetic one. Do not operate heavy machinery while under the "
-"influence."
-msgstr "这种神奇的粉末能立即把一个脾气暴躁的雇佣兵变成一个快乐而精力充沛的人。 不需要复杂的操作就能深陷其中。"
-
-# scripts/items/misc/ghoul_teeth_item.nut
-msgid ""
-"A handful of jagged fangs taken from a Nachzehrer. Infected with rot but "
-"hard enough to chew through any bone. Might fetch some coin from alchemists "
-"on the market place."
-msgstr "从食尸鬼身上取得的锯齿状的尖牙。 已经感染腐烂了，但坚硬得足以咬碎骨头。 可以从市场上的炼金术士身上换取一些硬币。"
-
-# scripts/items/misc/potion_of_oblivion_item.nut
-msgid ""
-"Better not ask how this concoction of the rarest and most bizarre "
-"ingredients tastes! Anybody who drinks this is said to be able to relive his"
-" life, changing the decisions he made along the way."
-msgstr ""
-"最好不要问这种由最稀有、最奇异的原料混合而成的混合物味道如何！据说，任何喝了这东西的人都能重新体验他的生活，改变他在人生道路上所做过的决定。"
-
-# scripts/items/misc/snake_oil_item.nut
-msgid ""
-"A mysterious concoction said to help against hair loss, syphilis, deafness, "
-"impotence, skin rash, pox and writer's block. A true miracle potion if only "
-"you believe in it. Can be sold everywhere for a tidy sum."
-msgstr "这是一种神秘的混合物，据说可以治疗脱发、梅毒、耳聋、阳痿、皮疹、水痘和写作障碍。 一种真正的神奇药剂，只要你相信它。 哪里都能卖个好价钱。"
 
 # scripts/items/misc/miracle_drug_item.nut
 msgid ""
@@ -525,13 +215,226 @@ msgstr ""
 "\n"
 "用此药品治疗的角色受伤后康复得更快，就像在神殿里治疗一样。"
 
+# scripts/items/misc/mysterious_herbs_item.nut
+msgid "Mysterious Herbs"
+msgstr "神秘草药"
+
+# scripts/items/misc/mysterious_herbs_item.nut
+msgid "These herbs do not look or smell like any known to you. Their scent is intriguing and appalling at the same time."
+msgstr "这些草药看起来或闻起来都不像你所知道的任何草药。它们的气味既迷人又可怕。"
+
+# scripts/items/misc/paint_black_item.nut
+msgid "Black Paint"
+msgstr "黑色油漆"
+
+# scripts/items/misc/paint_black_item.nut
+msgid "A bucket of black paint. Can be used to paint many common helmets."
+msgstr "一桶黑色的油漆。 可以喷涂许多普通的头盔。"
+
+# scripts/items/misc/paint_orange_red_item.nut
+msgid "Orange and Red Paint"
+msgstr "橘红色油漆"
+
+# scripts/items/misc/paint_orange_red_item.nut
+msgid "Buckets of yellow and red paint. Can be used to paint many common helmets."
+msgstr "一桶橘红色的油漆。 可以喷涂许多普通的头盔。"
+
+# scripts/items/misc/paint_red_item.nut
+msgid "Red Paint"
+msgstr "红色油漆"
+
+# scripts/items/misc/paint_red_item.nut
+msgid "A bucket of red paint. Can be used to paint many common helmets."
+msgstr "一桶红色的油漆。 可以喷涂许多普通的头盔。"
+
+# scripts/items/misc/paint_remover_item.nut
+msgid "Paint Remover"
+msgstr "脱漆剂"
+
+# scripts/items/misc/paint_remover_item.nut
+msgid "A bucket of paint remover. Can be used to remove paint from many common helmets."
+msgstr "一桶脱漆剂。 可以用来去除许多普通头盔上的油漆。"
+
+# scripts/items/misc/paint_set_item.nut
+msgid "Paint Set"
+msgstr "油漆套装"
+
+# scripts/items/misc/paint_set_item.nut
+msgid "A palette of several vibrant colors and a set of brushes. Can be used to paint common shields in your company's colors."
+msgstr "由几种鲜艳的颜料和一套刷子组成的调色板，可用来给普通盾牌涂上你战队的颜色。"
+
+# scripts/items/misc/paint_set_item.nut
+msgid "Right-click or drag onto a shield carried by the currently selected character in order to paint it. This item will be consumed in the process."
+msgstr "右键单击或拖动到当前所选角色携带的盾牌上，对其进行喷涂。 此物品会在使用过程中消耗掉。"
+
+# scripts/items/misc/paint_white_blue_item.nut
+msgid "White and Blue Paint"
+msgstr "白蓝色油漆"
+
+# scripts/items/misc/paint_white_blue_item.nut
+msgid "Buckets of white and blue paint. Can be used to paint many common helmets."
+msgstr "一桶白蓝色的油漆。 可以喷涂许多普通的头盔。"
+
+# scripts/items/misc/paint_white_green_yellow_item.nut
+msgid "White, Green and Yellow Paint"
+msgstr "白绿黄油漆"
+
+# scripts/items/misc/paint_white_green_yellow_item.nut
+msgid "Buckets of white, green and yellow paint. Can be used to paint many common helmets."
+msgstr "一桶白绿黄色的油漆。 可以喷涂许多普通的头盔。"
+
+# scripts/items/misc/parched_skin_item.nut
+msgid "Parched Skin"
+msgstr "干瘪皮肤"
+
+# scripts/items/misc/parched_skin_item.nut
+msgid "This skin taken from an Alp is paperthin and glitters in the sunlight."
+msgstr "这种来自梦魇身上的皮肤像纸一样薄，在阳光下闪闪发亮。"
+
+# scripts/items/misc/petrified_scream_item.nut
+msgid "Petrified Scream"
+msgstr "恐怖尖声"
+
+# scripts/items/misc/petrified_scream_item.nut
+msgid "An eerie artifact found among the remains of an Alp. Carrying this around may cause bad dreams and bad night's rest."
+msgstr "在梦魇遗骸中发现的一种怪异的神器。 带着它到处走可能会导致做噩梦影响休息。"
+
+# scripts/items/misc/poison_gland_item.nut
+msgid "Poison Gland"
+msgstr "毒腺"
+
+# scripts/items/misc/poison_gland_item.nut
+msgid "The poison gland of a Webknecht. Should not be carried close to any food or drink."
+msgstr "蜘蛛的毒腺，不要挨着食物或饮料存放。"
+
+# scripts/items/misc/poisoned_apple_item.nut
+msgid "Poisoned Apple"
+msgstr "毒苹果"
+
+# scripts/items/misc/poisoned_apple_item.nut
+msgid "Looks delicious!"
+msgstr "看起来很好吃！"
+
+# scripts/items/misc/potion_of_knowledge_item.nut
+msgid "Potion of Knowledge"
+msgstr "知识药水"
+
+# scripts/items/misc/potion_of_knowledge_item.nut
+msgid "]+100%[/color] Experience Gain"
+msgstr "]+100%[/color] 经验获取"
+
+# scripts/items/misc/potion_of_knowledge_item.nut
+msgid "Knowledge of the world, arcane and mundane, is said to be distilled into this potion. Upon drinking it, lessons are more easily learned."
+msgstr "据说这药水是由世界的神秘的和世俗知识练成的。喝了它能更容易得到经验。"
+
+# scripts/items/misc/potion_of_oblivion_item.nut
+msgid "Potion of Oblivion"
+msgstr "遗忘药水"
+
+# scripts/items/misc/potion_of_oblivion_item.nut
+msgid "Better not ask how this concoction of the rarest and most bizarre ingredients tastes! Anybody who drinks this is said to be able to relive his life, changing the decisions he made along the way."
+msgstr "最好不要问这种由最稀有、最奇异的原料混合而成的混合物味道如何！据说，任何喝了这东西的人都能重新体验他的生活，改变他在人生道路上所做过的决定。"
+
+# scripts/items/misc/serpent_skin_item.nut
+msgid "Serpent Skin"
+msgstr "大蛇皮"
+
+# scripts/items/misc/serpent_skin_item.nut
+msgid "The scaly skin of a large serpent. A skilled craftsman could turn this into something useful."
+msgstr "大蛇有鳞的皮肤。 一个熟练的工匠可以把它变成有用的东西。"
+
+# scripts/items/misc/snake_oil_item.nut
+msgid "Snake Oil"
+msgstr "蛇油"
+
+# scripts/items/misc/snake_oil_item.nut
+msgid "A mysterious concoction said to help against hair loss, syphilis, deafness, impotence, skin rash, pox and writer's block. A true miracle potion if only you believe in it. Can be sold everywhere for a tidy sum."
+msgstr "这是一种神秘的混合物，据说可以治疗脱发、梅毒、耳聋、阳痿、皮疹、水痘和写作障碍。 一种真正的神奇药剂，只要你相信它。 哪里都能卖个好价钱。"
+
+# scripts/items/misc/spider_silk_item.nut
+msgid "Gossamer"
+msgstr "蛛丝"
+
+# scripts/items/misc/spider_silk_item.nut
+msgid "Gossamer gathered from the remains of a Webknecht. Light and strong, it is superior to most common materials. If only it weren't so sticky..."
+msgstr "从蜘蛛尸体上搜刮来的蛛丝。又轻又韧，它比大部分普通材料都要好。如果它不是这么粘的话…"
+
+# scripts/items/misc/sulfurous_rocks_item.nut
+msgid "Sulfurous Rocks"
+msgstr "硫磺岩"
+
+# scripts/items/misc/sulfurous_rocks_item.nut
+msgid "An offensive stench is emitted by these brittle rocks, which are prized highly by alchemists."
+msgstr "这些易碎的岩石散发出一股令人作呕的臭味，炼金术士非常珍视这些岩石。"
+
+# scripts/items/misc/third_eye_item.nut
+msgid "Third Eye"
+msgstr "第三只眼"
+
+# scripts/items/misc/third_eye_item.nut
+msgid "Alps have no eyes, yet this eye-like organ can be retrieved from inside their skulls."
+msgstr "夢魘没有眼睛，但这个类似眼睛的器官可以从它们的颅骨内取出。"
+
+# scripts/items/misc/unhold_bones_item.nut
+msgid "Giant Skull and Bones"
+msgstr "巨大的颅骨"
+
+# scripts/items/misc/unhold_bones_item.nut
+msgid "These large bones taken from an Unhold are a valued trophy among beast hunters."
+msgstr "这些从巨魔身上取来的巨大的骨头在猎兽者眼中是值钱的战利品。"
+
+# scripts/items/misc/unhold_heart_item.nut
+msgid "Unhold's Heart"
+msgstr "巨魔心脏"
+
+# scripts/items/misc/unhold_heart_item.nut
+msgid "The large and heavy heart of an Unhold. Rumored to have magical properties, alchemists are prepared to pay a tidy sum to get it into their hands."
+msgstr "巨大而沉重的巨魔之心。谣传有魔法属性，炼金术士们为了要得到它，准备好了一大笔奖金。"
+
+# scripts/items/misc/unhold_hide_item.nut
+msgid "Unhold Hide"
+msgstr "巨魔皮"
+
+# scripts/items/misc/unhold_hide_item.nut
+msgid "Hide is the basis of most armors, and this thick hide taken from an Unhold is especially sturdy."
+msgstr "兽皮是大部分护甲的基本组成，这个巨魔身上取来的厚厚的皮更是特别结实。"
+
+# scripts/items/misc/vampire_dust_item.nut
+msgid "Shimmering Ashes"
+msgstr "微光闪闪的灰烬"
+
+# scripts/items/misc/vampire_dust_item.nut
+msgid "A small heap of ashes shimmering in many facets of blue. Allegedly it's the remains of a powerful undead creature, but few people would believe a claim like this."
+msgstr "一小堆闪烁蓝色微光的灰烬。据称这是一种强大亡灵生物的残骸，但只有部分人相信这种传言。"
+
+# scripts/items/misc/wardog_armor_upgrade_item.nut
+msgid "Wardog Armor"
+msgstr "战犬盔甲"
+
+# scripts/items/misc/wardog_armor_upgrade_item.nut
+msgid "A simple leather coat that can be donned by any wardog to give it some protection in combat."
+msgstr "简单的皮革外套，可披在任何战犬身上，以在战斗时提供一些保护。"
+
+# scripts/items/misc/wardog_heavy_armor_upgrade_item.nut
+msgid "Heavy Wardog Armor"
+msgstr "重型战犬盔甲"
+
+# scripts/items/misc/wardog_heavy_armor_upgrade_item.nut
+msgid "A heavy hide coat that can be donned by any wardog to give it protection in combat."
+msgstr "重型的皮毛外套，可披在任何战犬身上，以在战斗时提供保护。"
+
+# scripts/items/misc/werewolf_pelt_item.nut
+msgid "Unusually Large Wolf Pelt"
+msgstr "不同寻常的大狼皮"
+
+# scripts/items/misc/werewolf_pelt_item.nut
+msgid "A thick and unusually large wolf pelt that should fetch a decent price at the market."
+msgstr "一种又厚又大的狼皮，应该能在市场上卖个好价钱（才怪）。"
+
 # scripts/items/misc/witch_hair_item.nut
-msgid ""
-"Long and brittle strands of greyish hair taken from a Hexe. Their hair is "
-"said to have powerful properties in creating potions and elixirs. But then "
-"again, it's also said that Hexen keep the genitals of their victims as pets,"
-" so information attained from the peasantry might not be especially "
-"reliable."
-msgstr ""
-"来自女巫身上的长而易碎的灰白头发。 据说她们的头发在制造药剂和炼金方面有强大的功能。 "
-"话说回来，也有人说女巫喜欢收集受害者的生殖器来把玩，所以说从农夫那里得到的消息不太靠谱。"
+msgid "Witch Hair"
+msgstr "女巫头发"
+
+# scripts/items/misc/witch_hair_item.nut
+msgid "Long and brittle strands of greyish hair taken from a Hexe. Their hair is said to have powerful properties in creating potions and elixirs. But then again, it's also said that Hexen keep the genitals of their victims as pets, so information attained from the peasantry might not be especially reliable."
+msgstr "来自女巫身上的长而易碎的灰白头发。 据说她们的头发在制造药剂和炼金方面有强大的功能。 话说回来，也有人说女巫喜欢收集受害者的生殖器来把玩，所以说从农夫那里得到的消息不太靠谱。"

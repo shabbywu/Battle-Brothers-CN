@@ -11,10 +11,6 @@ msgstr ""
 msgid "Helmet"
 msgstr "头盔"
 
-# scripts/items/helmets/greenskins/orc_berserker_helmet.nut
-msgid "Bone Helmet"
-msgstr "骨盔"
-
 # scripts/items/helmets/greenskins/goblin_light_helmet.nut
 msgid "Light Helmet"
 msgstr "轻型头盔"
@@ -23,9 +19,9 @@ msgstr "轻型头盔"
 msgid "Ritual Headpiece"
 msgstr "仪式帽"
 
-# scripts/items/helmets/greenskins/orc_warrior_medium_helmet.nut
-msgid "Looted Kettle Hat"
-msgstr "掠夺者锅盔"
+# scripts/items/helmets/greenskins/orc_berserker_helmet.nut
+msgid "Bone Helmet"
+msgstr "骨盔"
 
 # scripts/items/helmets/greenskins/orc_warrior_heavy_helmet.nut
 msgid "Metal Plate Helmet"
@@ -34,6 +30,10 @@ msgstr "金属板头盔"
 # scripts/items/helmets/greenskins/orc_warrior_light_helmet.nut
 msgid "Looted Nasal Helmet"
 msgstr "掠夺者鼻盔"
+
+# scripts/items/helmets/greenskins/orc_warrior_medium_helmet.nut
+msgid "Looted Kettle Hat"
+msgstr "掠夺者锅盔"
 
 # scripts/items/helmets/greenskins/orc_young_heavy_helmet.nut
 msgid "Metal Plated Helmet"

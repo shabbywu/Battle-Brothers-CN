@@ -6,14 +6,6 @@ msgstr ""
 msgid "Screen '"
 msgstr ""
 
-# scripts/events/event_manager.nut
-msgid "no event???"
-msgstr ""
-
-# scripts/events/event_manager.nut
-msgid "' not found."
-msgstr ""
-
 # scripts/events/event.nut
 msgid "[color=#f6eedb]"
 msgstr ""
@@ -29,12 +21,20 @@ msgid ""
 "[color=#bcad8c]\""
 msgstr ""
 
-# scripts/events/event_manager.nut
-msgid "' is already queued."
-msgstr ""
-
 # scripts/events/event.nut
 msgid "' not found for event '"
+msgstr ""
+
+# scripts/events/event_manager.nut
+msgid "no event???"
+msgstr ""
+
+# scripts/events/event_manager.nut
+msgid "' not found."
+msgstr ""
+
+# scripts/events/event_manager.nut
+msgid "' is already queued."
 msgstr ""
 
 # scripts/events/event_manager.nut

@@ -2,10 +2,6 @@
 msgid ""
 msgstr ""
 
-# scripts/contracts/contract_manager.nut
-msgid " (id: "
-msgstr ""
-
 # scripts/contracts/contract.nut
 msgid "Undead"
 msgstr "亡灵"
@@ -50,27 +46,11 @@ msgstr "撕毁了合同"
 msgid "[color=#bcad8c]\""
 msgstr ""
 
-# scripts/contracts/contract_manager.nut
-msgid "contract added: "
-msgstr ""
-
 # scripts/contracts/contract.nut
 msgid ""
 "\n"
 "\n"
 "[color=#bcad8c]\""
-msgstr ""
-
-# scripts/contracts/contract_manager.nut
-msgid "contract removed: "
-msgstr ""
-
-# scripts/contracts/contract_manager.nut
-msgid "showing contract: "
-msgstr ""
-
-# scripts/contracts/contract_manager.nut
-msgid "contract activated: "
 msgstr ""
 
 # scripts/contracts/contract.nut
@@ -90,13 +70,29 @@ msgid "A band of menacing orcs, greenskinned and towering any man."
 msgstr "一群凶残的兽人，绿皮肤，高耸于任何人之上。"
 
 # scripts/contracts/contract.nut
-msgid ""
-"A legion of walking dead, back to claim from the living what was once "
-"theirs."
+msgid "A legion of walking dead, back to claim from the living what was once theirs."
 msgstr "一大群行尸，向活着的人索取曾经属于他们的东西。"
 
 # scripts/contracts/contract.nut
-msgid ""
-"A band of mischievous goblins, small but cunning and not to be "
-"underestimated."
+msgid "A band of mischievous goblins, small but cunning and not to be underestimated."
 msgstr "一群淘气的哥布林，小而狡猾，不可低估。"
+
+# scripts/contracts/contract_manager.nut
+msgid " (id: "
+msgstr ""
+
+# scripts/contracts/contract_manager.nut
+msgid "contract added: "
+msgstr ""
+
+# scripts/contracts/contract_manager.nut
+msgid "contract removed: "
+msgstr ""
+
+# scripts/contracts/contract_manager.nut
+msgid "showing contract: "
+msgstr ""
+
+# scripts/contracts/contract_manager.nut
+msgid "contract activated: "
+msgstr ""

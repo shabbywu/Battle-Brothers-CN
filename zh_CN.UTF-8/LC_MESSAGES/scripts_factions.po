@@ -11,20 +11,12 @@ msgstr " ·"
 msgid "Orcs"
 msgstr "兽人"
 
-# scripts/factions/noble_faction.nut
-msgid "von "
-msgstr ""
-
 # scripts/factions/faction_manager.nut
 msgid "Arena"
 msgstr "竞技场"
 
 # scripts/factions/faction_manager.nut
 msgid "Enemy"
-msgstr ""
-
-# scripts/factions/noble_faction.nut
-msgid "House "
 msgstr ""
 
 # scripts/factions/faction_manager.nut
@@ -59,10 +51,6 @@ msgstr ""
 msgid "Running simulation for "
 msgstr ""
 
-# scripts/factions/noble_faction.nut
-msgid "Changed sides in the war"
-msgstr "在战争中改变了立场"
-
 # scripts/factions/faction_manager.nut
 msgid "STARTING GREATER EVIL - LIVE PHASE!"
 msgstr ""
@@ -70,3 +58,15 @@ msgstr ""
 # scripts/factions/faction_manager.nut
 msgid "STARTING GREATER EVIL - WARNING PHASE!"
 msgstr ""
+
+# scripts/factions/noble_faction.nut
+msgid "von "
+msgstr ""
+
+# scripts/factions/noble_faction.nut
+msgid "House "
+msgstr ""
+
+# scripts/factions/noble_faction.nut
+msgid "Changed sides in the war"
+msgstr "在战争中改变了立场"

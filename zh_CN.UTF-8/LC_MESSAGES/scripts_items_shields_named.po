@@ -2,9 +2,25 @@
 msgid ""
 msgstr ""
 
-# scripts/items/shields/named/named_shield.nut
-msgid "'s "
-msgstr "的"
+# scripts/items/shields/named/named_bandit_heater_shield.nut
+msgid "A sturdy triangular shield well suited for close combat. This one is an exceptionally well-crafted and balanced exemplar."
+msgstr "坚固的三角形盾牌，非常适合近距离战斗。这是精心设计的平衡典范。"
+
+# scripts/items/shields/named/named_bandit_kite_shield.nut
+msgid "A long, wooden shield covering the whole body for good protection against ranged attacks. This particular shield shows some unique craftsmanship and is a rare find."
+msgstr "一种可以保护整个身体的木制长盾牌，可以用来抵挡远程攻击。这种特殊的盾牌由一种特殊的工艺制成，非常罕见。"
+
+# scripts/items/shields/named/named_dragon_shield.nut
+msgid "A large kite shield covered in drawings. Extraordinary craftsmanship went into making this piece."
+msgstr "这面筝形盾上雕刻有一些精美的图案，制造这面盾牌需要精湛的技艺。"
+
+# scripts/items/shields/named/named_full_metal_heater_shield.nut
+msgid "A finely crafted heater shield made almost entirely out of metal. Heavy and durable, yet lighter than it looks. The craftsmen who made this must have truly been a master of his trade."
+msgstr "一个精心制作的扇形盾牌几乎完全由金属制成。沉重而又经久耐用，但使用起来却很轻。制造这种盾牌必须要大师级工匠才能胜任。"
+
+# scripts/items/shields/named/named_golden_round_shield.nut
+msgid "A full metal round shield of extraordinary quality. This must have been the pride of any warrior boasting it."
+msgstr "一面品质卓越的全金属圆盾。拥有它就是骄傲的资本。"
 
 # scripts/items/shields/named/named_lindwurm_shield.nut
 msgid "Scaled"
@@ -38,83 +54,38 @@ msgstr "林德沃姆的"
 msgid "Scale Clad"
 msgstr "鳞片覆盖的"
 
-# scripts/items/shields/named/named_undead_heater_shield.nut
-msgid ""
-"A triangular wooden shield covered with leather and canvas, old but very "
-"well balanced."
-msgstr "一个由皮革和帆布覆盖的三角形盾牌，已经有很长的使用时间了，但是仍然有非常好的平衡。"
+# scripts/items/shields/named/named_lindwurm_shield.nut
+msgid "A sturdy wooden frame lays the base for a shimmering heap of rare Lindwurm scales to form a shield impenetrable."
+msgstr "一面用坚固木材框架与罕见的林德沃姆鳞片制成的闪耀盾牌，几乎无法穿透。"
 
-# scripts/items/shields/named/named_dragon_shield.nut
-msgid ""
-"A large kite shield covered in drawings. Extraordinary craftsmanship went "
-"into making this piece."
-msgstr "这面筝形盾上雕刻有一些精美的图案，制造这面盾牌需要精湛的技艺。"
-
-# scripts/items/shields/named/named_sipar_shield.nut
-msgid ""
-"A full metal round shield of southern design with elaborate ornaments. Quite"
-" heavy, but also durable."
-msgstr "一种南方设计的全金属圆形盾牌，装饰精美。 很重，但也很耐用。"
+# scripts/items/shields/named/named_orc_heavy_shield.nut
+msgid "A massive metal shield that is almost impossible to destroy but very heavy and fatiguing to wear for any human."
+msgstr "一面巨大的金属盾牌几乎不可能被摧毁但却非常沉重，人类装备会疲惫不堪。"
 
 # scripts/items/shields/named/named_red_white_shield.nut
-msgid ""
-"A large and thick wooden shield of foreign style. It offers great protection"
-" despite its peculiar form."
+msgid "A large and thick wooden shield of foreign style. It offers great protection despite its peculiar form."
 msgstr "一种大而厚的充满异国风情的木盾。尽管它的形状有点特殊但还是提供了很好的保护。"
 
 # scripts/items/shields/named/named_rider_on_horse_shield.nut
-msgid ""
-"A relic heater shield covered in iconographic images. It seem to be old, yet"
-" is durable and well to handle."
+msgid "A relic heater shield covered in iconographic images. It seem to be old, yet is durable and well to handle."
 msgstr "这面陈旧的扇形盾牌上雕刻着一些古老的图案。 它看起来历史悠久，但依旧好使且耐用。"
 
-# scripts/items/shields/named/named_golden_round_shield.nut
-msgid ""
-"A full metal round shield of extraordinary quality. This must have been the "
-"pride of any warrior boasting it."
-msgstr "一面品质卓越的全金属圆盾。拥有它就是骄傲的资本。"
+# scripts/items/shields/named/named_shield.nut
+msgid "'s "
+msgstr "的"
 
-# scripts/items/shields/named/named_orc_heavy_shield.nut
-msgid ""
-"A massive metal shield that is almost impossible to destroy but very heavy "
-"and fatiguing to wear for any human."
-msgstr "一面巨大的金属盾牌几乎不可能被摧毁但却非常沉重，人类装备会疲惫不堪。"
+# scripts/items/shields/named/named_sipar_shield.nut
+msgid "A full metal round shield of southern design with elaborate ornaments. Quite heavy, but also durable."
+msgstr "一种南方设计的全金属圆形盾牌，装饰精美。 很重，但也很耐用。"
 
-# scripts/items/shields/named/named_lindwurm_shield.nut
-msgid ""
-"A sturdy wooden frame lays the base for a shimmering heap of rare Lindwurm "
-"scales to form a shield impenetrable."
-msgstr "一面用坚固木材框架与罕见的林德沃姆鳞片制成的闪耀盾牌，几乎无法穿透。"
-
-# scripts/items/shields/named/named_wing_shield.nut
-msgid ""
-"A reinforced wooden heater shield made from the finest materials and quite "
-"obviously crafted by a master shield maker."
-msgstr "一种用最好的材料制成的强化木质扇形盾,很明显是由盾牌大师制作而成。"
-
-# scripts/items/shields/named/named_bandit_heater_shield.nut
-msgid ""
-"A sturdy triangular shield well suited for close combat. This one is an "
-"exceptionally well-crafted and balanced exemplar."
-msgstr "坚固的三角形盾牌，非常适合近距离战斗。这是精心设计的平衡典范。"
+# scripts/items/shields/named/named_undead_heater_shield.nut
+msgid "A triangular wooden shield covered with leather and canvas, old but very well balanced."
+msgstr "一个由皮革和帆布覆盖的三角形盾牌，已经有很长的使用时间了，但是仍然有非常好的平衡。"
 
 # scripts/items/shields/named/named_undead_kite_shield.nut
-msgid ""
-"An elongated wooden shield that offers good protection also to the lower "
-"body, despite its apparent age. Somewhat bulky to handle in close combat "
-"engagements."
+msgid "An elongated wooden shield that offers good protection also to the lower body, despite its apparent age. Somewhat bulky to handle in close combat engagements."
 msgstr "一种细长的木制护盾，看起来虽然年代久远但仍然可以为下半身提供良好的保护作用。 但在近距离作战中显得有些笨重。"
 
-# scripts/items/shields/named/named_bandit_kite_shield.nut
-msgid ""
-"A long, wooden shield covering the whole body for good protection against "
-"ranged attacks. This particular shield shows some unique craftsmanship and "
-"is a rare find."
-msgstr "一种可以保护整个身体的木制长盾牌，可以用来抵挡远程攻击。这种特殊的盾牌由一种特殊的工艺制成，非常罕见。"
-
-# scripts/items/shields/named/named_full_metal_heater_shield.nut
-msgid ""
-"A finely crafted heater shield made almost entirely out of metal. Heavy and "
-"durable, yet lighter than it looks. The craftsmen who made this must have "
-"truly been a master of his trade."
-msgstr "一个精心制作的扇形盾牌几乎完全由金属制成。沉重而又经久耐用，但使用起来却很轻。制造这种盾牌必须要大师级工匠才能胜任。"
+# scripts/items/shields/named/named_wing_shield.nut
+msgid "A reinforced wooden heater shield made from the finest materials and quite obviously crafted by a master shield maker."
+msgstr "一种用最好的材料制成的强化木质扇形盾,很明显是由盾牌大师制作而成。"

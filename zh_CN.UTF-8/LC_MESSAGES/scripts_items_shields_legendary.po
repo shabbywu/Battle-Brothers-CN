@@ -39,7 +39,5 @@ msgid "Everyone striking this shield receives the 'Dazed' effect"
 msgstr "每个击打此盾牌的人都会受到“茫然”效果"
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
-msgid ""
-"An ornate metal shield with a bright gilded shine that reflects even the "
-"tiniest ray of light with the power of the sun itself."
+msgid "An ornate metal shield with a bright gilded shine that reflects even the tiniest ray of light with the power of the sun itself."
 msgstr "一种华丽的金属盾牌，有明亮的镀金光泽，用太阳本身的力量反射哪怕是最微弱的光线。"

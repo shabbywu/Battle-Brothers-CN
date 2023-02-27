@@ -2,10 +2,6 @@
 msgid ""
 msgstr ""
 
-# scripts/items/armor/greenskins/orc_berserker_medium_armor.nut
-msgid "Bone Armor"
-msgstr "骨甲"
-
 # scripts/items/armor/greenskins/orc_young_very_light_armor.nut
 # scripts/items/armor/greenskins/orc_young_medium_armor.nut
 # scripts/items/armor/greenskins/orc_young_light_armor.nut
@@ -29,13 +25,17 @@ msgstr "中甲"
 msgid "Ritual Armor"
 msgstr "仪式盔甲"
 
+# scripts/items/armor/greenskins/goblin_skirmisher_armor.nut
+msgid "Skirmisher Armor"
+msgstr "散兵护甲"
+
 # scripts/items/armor/greenskins/orc_berserker_light_armor.nut
 msgid "Trophy Bones"
 msgstr "骨质战利品"
 
-# scripts/items/armor/greenskins/goblin_skirmisher_armor.nut
-msgid "Skirmisher Armor"
-msgstr "散兵护甲"
+# scripts/items/armor/greenskins/orc_berserker_medium_armor.nut
+msgid "Bone Armor"
+msgstr "骨甲"
 
 # scripts/items/armor/greenskins/orc_warrior_heavy_armor.nut
 msgid "Looted Plate Armor"
