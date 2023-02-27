@@ -20,29 +20,29 @@ msgid "Nightcloak"
 msgstr "夜斗篷"
 
 # scripts/items/armor/named/blue_studded_mail_armor.nut
-# scripts/items/armor/named/named_noble_mail_armor.nut
-msgid "Reinforced Mail"
-msgstr "强化甲"
-
-# scripts/items/armor/named/blue_studded_mail_armor.nut
 # scripts/items/armor/named/named_sellswords_armor.nut
 msgid "Layered Armor"
 msgstr "复层装甲"
+
+# scripts/items/armor/named/blue_studded_mail_armor.nut
+# scripts/items/armor/named/named_noble_mail_armor.nut
+msgid "Reinforced Mail"
+msgstr "强化甲"
 
 # scripts/items/armor/named/named_golden_lamellar_armor.nut
 # scripts/items/armor/named/brown_coat_of_plates_armor.nut
 msgid "Defense"
 msgstr "防卫"
 
-# scripts/items/armor/named/heraldic_mail_armor.nut
-# scripts/items/armor/named/named_noble_mail_armor.nut
-msgid "Noble Mail"
-msgstr "贵族链甲"
-
 # scripts/items/armor/named/named_golden_lamellar_armor.nut
 # scripts/items/armor/named/heraldic_mail_armor.nut
 msgid "Splendor"
 msgstr "辉煌"
+
+# scripts/items/armor/named/heraldic_mail_armor.nut
+# scripts/items/armor/named/named_noble_mail_armor.nut
+msgid "Noble Mail"
+msgstr "贵族链甲"
 
 # scripts/items/armor/named/black_and_gold_armor.nut
 msgid "Suncloak"

@@ -15,6 +15,16 @@ msgstr "不破的"
 
 # scripts/config/item_names.nut
 # scripts/config/character_names.nut
+msgid "Dirk"
+msgstr "德克"
+
+# scripts/config/item_names.nut
+# scripts/config/character_names.nut
+msgid "Duke"
+msgstr "公爵"
+
+# scripts/config/item_names.nut
+# scripts/config/character_names.nut
 msgid "Quickblade"
 msgstr "快刀"
 
@@ -22,6 +32,16 @@ msgstr "快刀"
 # scripts/config/character_names.nut
 msgid "Skullcrusher"
 msgstr "碎颅者"
+
+# scripts/config/item_names.nut
+# scripts/config/character_names.nut
+msgid "of the North"
+msgstr "·北方"
+
+# scripts/config/character_names.nut
+# scripts/config/world_location_names.nut
+msgid "Hagen"
+msgstr "哈根"
 
 # scripts/config/strings.nut
 # scripts/config/character_names.nut
@@ -42,26 +62,6 @@ msgstr "布伦希尔德"
 # scripts/config/character_names.nut
 msgid "Mathilda"
 msgstr "玛蒂尔达"
-
-# scripts/config/character_names.nut
-# scripts/config/world_location_names.nut
-msgid "Hagen"
-msgstr "哈根"
-
-# scripts/config/item_names.nut
-# scripts/config/character_names.nut
-msgid "Dirk"
-msgstr "德克"
-
-# scripts/config/item_names.nut
-# scripts/config/character_names.nut
-msgid "Duke"
-msgstr "公爵"
-
-# scripts/config/item_names.nut
-# scripts/config/character_names.nut
-msgid "of the North"
-msgstr "·北方"
 
 # scripts/config/strings.nut
 # scripts/config/item_names.nut
@@ -127,51 +127,6 @@ msgstr "寡妇制造者"
 # scripts/config/world_location_names.nut
 msgid "Eisenstein"
 msgstr "埃森斯坦"
-
-# scripts/config/world_particles.nut
-# scripts/config/tactical_particles.nut
-msgid "d8380000"
-msgstr ""
-
-# scripts/config/world_particles.nut
-# scripts/config/tactical_particles.nut
-msgid "fc6a52f0"
-msgstr ""
-
-# scripts/config/world_particles.nut
-# scripts/config/tactical_particles.nut
-msgid "fcaa52f0"
-msgstr ""
-
-# scripts/config/world_particles.nut
-# scripts/config/tactical_particles.nut
-msgid "fec19fff"
-msgstr ""
-
-# scripts/config/world_particles.nut
-# scripts/config/tactical_particles.nut
-msgid "ff813dff"
-msgstr ""
-
-# scripts/config/world_particles.nut
-# scripts/config/tactical_particles.nut
-msgid "ffe7cf00"
-msgstr ""
-
-# scripts/config/world_particles.nut
-# scripts/config/tactical_particles.nut
-msgid "ffeacf00"
-msgstr ""
-
-# scripts/config/world_particles.nut
-# scripts/config/tactical_particles.nut
-msgid "ffffff00"
-msgstr ""
-
-# scripts/config/world_particles.nut
-# scripts/config/tactical_particles.nut
-msgid "ffffffff"
-msgstr ""
 
 # scripts/config/character.nut
 msgid "Angry"
@@ -12744,78 +12699,6 @@ msgstr "]-25%[/color] 近战防御"
 # scripts/config/tactical.nut
 msgid "]-25%[/color] Ranged Defense"
 msgstr "]-25%[/color] 远程防御"
-
-# scripts/config/tactical_particles.nut
-msgid "222222ff"
-msgstr ""
-
-# scripts/config/tactical_particles.nut
-msgid "3a89e900"
-msgstr ""
-
-# scripts/config/tactical_particles.nut
-msgid "559ef700"
-msgstr ""
-
-# scripts/config/tactical_particles.nut
-msgid "8abbf8f0"
-msgstr ""
-
-# scripts/config/tactical_particles.nut
-msgid "c4dcf9f0"
-msgstr ""
-
-# scripts/config/tactical_particles.nut
-msgid "ddecffff"
-msgstr ""
-
-# scripts/config/tactical_particles.nut
-msgid "eeeeee00"
-msgstr ""
-
-# scripts/config/tactical_particles.nut
-msgid "eeeeeeee"
-msgstr ""
-
-# scripts/config/tactical_particles.nut
-msgid "f8fbff00"
-msgstr ""
-
-# scripts/config/tactical_particles.nut
-msgid "f8fbffff"
-msgstr ""
-
-# scripts/config/tactical_particles.nut
-msgid "ffffff2f"
-msgstr ""
-
-# scripts/config/tactical_particles.nut
-msgid "ffffff7f"
-msgstr ""
-
-# scripts/config/tactical_particles.nut
-msgid "ffffffe0"
-msgstr ""
-
-# scripts/config/tactical_particles.nut
-msgid "ffffffed"
-msgstr ""
-
-# scripts/config/tactical_particles.nut
-msgid "ffffffef"
-msgstr ""
-
-# scripts/config/tactical_particles.nut
-msgid "fffffff00"
-msgstr ""
-
-# scripts/config/tactical_particles.nut
-msgid "fffffffe0"
-msgstr ""
-
-# scripts/config/tactical_particles.nut
-msgid "ffffffff0"
-msgstr ""
 
 # scripts/config/tip_of_the_day.nut
 msgid "Losing is fun."

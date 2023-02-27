@@ -296,8 +296,8 @@ msgid "Windfeste"
 msgstr ""
 
 # scripts/entity/world/settlements/large_farm_fort.nut
-# scripts/entity/world/settlements/small_farm_fort.nut
-msgid "Grafenschanze"
+# scripts/entity/world/settlements/large_forest_fort.nut
+msgid "Grunfeste"
 msgstr ""
 
 # scripts/entity/world/settlements/large_farm_fort.nut
@@ -306,18 +306,18 @@ msgid "Konigsfeste"
 msgstr ""
 
 # scripts/entity/world/settlements/large_farm_fort.nut
-# scripts/entity/world/settlements/large_forest_fort.nut
-msgid "Grunfeste"
-msgstr ""
-
-# scripts/entity/world/settlements/large_farming_village.nut
-# scripts/entity/world/settlements/large_fishing_village.nut
-msgid "Weissenstadt"
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Grafenschanze"
 msgstr ""
 
 # scripts/entity/world/settlements/large_lumber_village.nut
 # scripts/entity/world/settlements/large_farming_village.nut
 msgid "Hageland"
+msgstr ""
+
+# scripts/entity/world/settlements/large_farming_village.nut
+# scripts/entity/world/settlements/large_fishing_village.nut
+msgid "Weissenstadt"
 msgstr ""
 
 # scripts/entity/world/settlements/large_lumber_village.nut
@@ -551,8 +551,8 @@ msgid "Brammingsted"
 msgstr ""
 
 # scripts/entity/world/settlements/medium_farm_fort.nut
-# scripts/entity/world/settlements/small_farm_fort.nut
-msgid "Grafenburg"
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Thalburg"
 msgstr ""
 
 # scripts/entity/world/settlements/medium_forest_fort.nut
@@ -561,8 +561,8 @@ msgid "Haselburg"
 msgstr ""
 
 # scripts/entity/world/settlements/medium_farm_fort.nut
-# scripts/entity/world/settlements/medium_mountains_fort.nut
-msgid "Thalburg"
+# scripts/entity/world/settlements/small_farm_fort.nut
+msgid "Grafenburg"
 msgstr ""
 
 # scripts/entity/world/settlements/medium_farming_village.nut
@@ -721,13 +721,13 @@ msgid "Moosburg"
 msgstr ""
 
 # scripts/entity/world/settlements/medium_forest_fort.nut
-# scripts/entity/world/settlements/medium_swamp_fort.nut
-msgid "Dunkelburg"
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Dornburg"
 msgstr ""
 
 # scripts/entity/world/settlements/medium_forest_fort.nut
-# scripts/entity/world/settlements/medium_steppe_fort.nut
-msgid "Dornburg"
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Dunkelburg"
 msgstr ""
 
 # scripts/entity/world/settlements/medium_lumber_village.nut
@@ -1310,14 +1310,14 @@ msgstr ""
 msgid "pelts"
 msgstr ""
 
-# scripts/entity/world/settlements/small_mountains_fort.nut
-# scripts/entity/world/settlements/small_coast_fort.nut
-msgid "Windwacht"
-msgstr ""
-
 # scripts/entity/world/settlements/small_steppe_fort.nut
 # scripts/entity/world/settlements/small_coast_fort.nut
 msgid "Sandwacht"
+msgstr ""
+
+# scripts/entity/world/settlements/small_mountains_fort.nut
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Windwacht"
 msgstr ""
 
 # scripts/entity/world/settlements/small_mountains_fort.nut
@@ -1331,13 +1331,13 @@ msgid "Thalwacht"
 msgstr ""
 
 # scripts/entity/world/settlements/small_forest_fort.nut
-# scripts/entity/world/settlements/small_swamp_fort.nut
-msgid "Schwarzwacht"
+# scripts/entity/world/settlements/small_steppe_fort.nut
+msgid "Dornwall"
 msgstr ""
 
 # scripts/entity/world/settlements/small_forest_fort.nut
-# scripts/entity/world/settlements/small_steppe_fort.nut
-msgid "Dornwall"
+# scripts/entity/world/settlements/small_swamp_fort.nut
+msgid "Schwarzwacht"
 msgstr ""
 
 # scripts/entity/world/settlements/small_tundra_fort.nut

@@ -1254,6 +1254,11 @@ msgstr ""
 msgid "{Not interested. | Our travels will not take us there for a while. | This is not the kind of work we're looking for.}"
 msgstr "{不感兴趣。 | Our travels will not take us there for a while. | 这不是我们要找的工作。}"
 
+# scripts/contracts/contracts/escort_envoy_contract.nut
+# scripts/contracts/contracts/deliver_item_contract.nut
+msgid "Mercs"
+msgstr ""
+
 # scripts/contracts/contracts/escort_caravan_contract.nut
 # scripts/contracts/contracts/deliver_item_contract.nut
 msgid "a day"
@@ -1263,11 +1268,6 @@ msgstr "1天"
 # scripts/contracts/contracts/deliver_item_contract.nut
 msgid "During camp..."
 msgstr "露营时…"
-
-# scripts/contracts/contracts/escort_envoy_contract.nut
-# scripts/contracts/contracts/deliver_item_contract.nut
-msgid "Mercs"
-msgstr ""
 
 # scripts/contracts/contracts/destroy_goblin_camp_contract.nut
 # scripts/contracts/contracts/destroy_orc_camp_contract.nut

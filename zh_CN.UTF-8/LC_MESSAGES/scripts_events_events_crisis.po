@@ -60,13 +60,6 @@ msgstr "你获得了 "
 msgid " suffers "
 msgstr " 遭受 "
 
-# scripts/events/events/crisis/civilwar_conscription_event.nut
-# scripts/events/events/crisis/civilwar_savagery_event.nut
-# scripts/events/events/crisis/civilwar_trapped_soldiers_event.nut
-# scripts/events/events/crisis/civilwar_ambush_event.nut
-msgid "Killed some of their men"
-msgstr "杀了一些他们的人"
-
 # scripts/events/events/crisis/undead_hoggart_event.nut
 # scripts/events/events/crisis/civilwar_dead_knight_event.nut
 # scripts/events/events/crisis/civilwar_ambush_event.nut
@@ -74,11 +67,12 @@ msgstr "杀了一些他们的人"
 msgid "You gain [color="
 msgstr "你获得了 [color="
 
-# scripts/events/events/crisis/greenskins_caravan_ambush_event.nut
+# scripts/events/events/crisis/civilwar_conscription_event.nut
 # scripts/events/events/crisis/civilwar_savagery_event.nut
-# scripts/events/events/crisis/civilwar_hungry_hamlet_event.nut
-msgid "The company gained renown"
-msgstr "战队获得了声望"
+# scripts/events/events/crisis/civilwar_trapped_soldiers_event.nut
+# scripts/events/events/crisis/civilwar_ambush_event.nut
+msgid "Killed some of their men"
+msgstr "杀了一些他们的人"
 
 # scripts/events/events/crisis/undead_plague_or_infected_event.nut
 # scripts/events/events/crisis/civilwar_refugees_event.nut
@@ -86,11 +80,23 @@ msgstr "战队获得了声望"
 msgid "You lose "
 msgstr "你失去了 "
 
+# scripts/events/events/crisis/greenskins_caravan_ambush_event.nut
+# scripts/events/events/crisis/civilwar_savagery_event.nut
+# scripts/events/events/crisis/civilwar_hungry_hamlet_event.nut
+msgid "The company gained renown"
+msgstr "战队获得了声望"
+
 # scripts/events/events/crisis/civilwar_intro_event.nut
 # scripts/events/events/crisis/greenskins_intro_event.nut
 # scripts/events/events/crisis/undead_intro_event.nut
 msgid "War is upon us."
 msgstr "战争就要来了。"
+
+# scripts/events/events/crisis/civilwar_outro_event.nut
+# scripts/events/events/crisis/greenskins_intro_event.nut
+# scripts/events/events/crisis/undead_intro_event.nut
+msgid "During camp..."
+msgstr "露营时…"
 
 # scripts/events/events/crisis/civilwar_outro_event.nut
 # scripts/events/events/crisis/undead_outro_event.nut
@@ -104,21 +110,15 @@ msgstr "%companyname% 需要他们的指挥官！"
 msgid "It's time to retire from mercenary life. (End Campaign)"
 msgstr "是时候从雇佣兵生活中退休了。 （结束战役）"
 
-# scripts/events/events/crisis/civilwar_outro_event.nut
-# scripts/events/events/crisis/greenskins_intro_event.nut
-# scripts/events/events/crisis/undead_intro_event.nut
-msgid "During camp..."
-msgstr "露营时…"
+# scripts/events/events/crisis/civilwar_dead_knight_event.nut
+# scripts/events/events/crisis/civilwar_ambush_event.nut
+msgid "[/color] Crowns"
+msgstr "[/color] 克朗"
 
 # scripts/events/events/crisis/civilwar_trapped_soldiers_event.nut
 # scripts/events/events/crisis/civilwar_ambush_event.nut
 msgid "Saved some of their men"
 msgstr "救了他们的一些人"
-
-# scripts/events/events/crisis/civilwar_dead_knight_event.nut
-# scripts/events/events/crisis/civilwar_ambush_event.nut
-msgid "[/color] Crowns"
-msgstr "[/color] 克朗"
 
 # scripts/events/events/crisis/civilwar_conscription_event.nut
 # scripts/events/events/crisis/civilwar_trapped_soldiers_event.nut
@@ -126,14 +126,14 @@ msgid "At %town%"
 msgstr ""
 
 # scripts/events/events/crisis/civilwar_deserter_event.nut
-# scripts/events/events/crisis/civilwar_treasurer_event.nut
-msgid "This is none of our business."
-msgstr "这不关我们的事。"
-
-# scripts/events/events/crisis/civilwar_deserter_event.nut
 # scripts/events/events/crisis/civilwar_wounded_soldier_event.nut
 msgid "Killed one of their men"
 msgstr "杀了他们的一个人"
+
+# scripts/events/events/crisis/civilwar_deserter_event.nut
+# scripts/events/events/crisis/civilwar_treasurer_event.nut
+msgid "This is none of our business."
+msgstr "这不关我们的事。"
 
 # scripts/events/events/crisis/greenskins_caravan_ambush_event.nut
 # scripts/events/events/crisis/undead_necrosavant_event.nut

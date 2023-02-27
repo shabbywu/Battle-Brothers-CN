@@ -56,7 +56,7 @@ msgstr "下次喝下突变药剂时会导致更长时间的疾病"
 # scripts/skills/effects/withered_effect.nut
 # scripts/skills/effects/bleeding_effect.nut
 msgid "[/color] more turn(s)."
-msgstr ""
+msgstr "[/color]  回合。"
 
 # scripts/skills/effects/staggered_effect.nut
 # scripts/skills/effects/lindwurm_acid_effect.nut
@@ -64,7 +64,7 @@ msgstr ""
 # scripts/skills/effects/dazed_effect.nut
 # scripts/skills/effects/antidote_effect.nut
 msgid "[/color] turn(s)."
-msgstr ""
+msgstr "[/color] 回合)"
 
 # scripts/skills/effects/cat_potion_effect.nut
 # scripts/skills/effects/lionheart_potion_effect.nut
@@ -127,7 +127,7 @@ msgstr "的身体上喷了酸。"
 # scripts/skills/effects/lindwurm_acid_effect.nut
 # scripts/skills/effects/acid_effect.nut
 msgid "This character's armor has been sprayed with a Lindwurm's acidic blood, which is now slowly eating away at it for another [color="
-msgstr ""
+msgstr "这个角色的盔甲被喷上了林德沃姆的酸液，现在它正在慢慢地吞噬它。(剩余 [color="
 
 # scripts/skills/effects/alp_potion_effect.nut
 # scripts/skills/effects/night_vision_effect.nut
@@ -142,7 +142,7 @@ msgstr " 获得愤怒！"
 # scripts/skills/effects/spider_poison_effect.nut
 # scripts/skills/effects/bleeding_effect.nut
 msgid "[/color] hitpoints each turn for [color="
-msgstr ""
+msgstr "[/color] 生命值, 持续 [color="
 
 # scripts/skills/effects/goblin_poison_effect.nut
 # scripts/skills/effects/chilled_effect.nut
@@ -165,14 +165,19 @@ msgid "Poisoned"
 msgstr "中毒"
 
 # scripts/skills/effects/indomitable_effect.nut
+# scripts/skills/effects/rachegeist_potion_effect.nut
+msgid "Receives only [color="
+msgstr ""
+
+# scripts/skills/effects/indomitable_effect.nut
 # scripts/skills/effects/schrat_potion_effect.nut
 msgid "Immune to being knocked back or grabbed"
 msgstr "免疫击退和勾拽技能"
 
-# scripts/skills/effects/indomitable_effect.nut
-# scripts/skills/effects/rachegeist_potion_effect.nut
-msgid "Receives only [color="
-msgstr ""
+# scripts/skills/effects/smoke_effect.nut
+# scripts/skills/effects/insect_swarm_effect.nut
+msgid "]-50%[/color] Ranged Skill"
+msgstr "]-50%[/color] 远程技能"
 
 # scripts/skills/effects/web_effect.nut
 # scripts/skills/effects/insect_swarm_effect.nut
@@ -183,11 +188,6 @@ msgstr "]-50%[/color] 近战防御"
 # scripts/skills/effects/insect_swarm_effect.nut
 msgid "]-50%[/color] Ranged Defense"
 msgstr "]-50%[/color] 远程防御"
-
-# scripts/skills/effects/smoke_effect.nut
-# scripts/skills/effects/insect_swarm_effect.nut
-msgid "]-50%[/color] Ranged Skill"
-msgstr "]-50%[/color] 远程技能"
 
 # scripts/skills/effects/kraken_ensnare_effect.nut
 # scripts/skills/effects/serpent_ensnare_effect.nut
@@ -363,7 +363,7 @@ msgstr ""
 
 # scripts/skills/effects/bleeding_effect.nut
 msgid "This character is bleeding profusely from a recently received wound and will lose [color="
-msgstr ""
+msgstr "这个角色从最近受到的伤口大量出血，每回合损失 [color="
 
 # scripts/skills/effects/captain_effect.nut
 msgid "Inspired by nearby Leader"
@@ -649,19 +649,19 @@ msgstr "反射 [color="
 
 # scripts/skills/effects/hexe_potion_effect.nut
 msgid "Sympathetic Call"
-msgstr ""
+msgstr "痛苦锁链"
 
 # scripts/skills/effects/hexe_potion_effect.nut
 msgid "]100%[/color] of hitpoint damage received back at the attacker"
-msgstr ""
+msgstr "]100%[/color] 生命值伤害到攻击者"
 
 # scripts/skills/effects/hexe_potion_effect.nut
 msgid "There's something different about this character. Physically they seem unchanged, yet somehow a sense of dread precedes them. Any harm that they endure, on or off the battlefield, seems to affect another nearby. Useful in a fight, annoying in camp, and surely isolating in every day society."
-msgstr ""
+msgstr "这个角色有些异于常人。从外观上看他们似乎没有不同，但不知何故，他们会给人一种莫名的恐惧感。他们承受的任何伤害，无论是在战场上还是在战场外，似乎都会影响到附近的另一个人。这个特性在战斗中很有用，但在营地里会令人讨厌，在日常生活中中肯定会被孤立的。"
 
 # scripts/skills/effects/holy_water_effect.nut
 msgid "Sprayed with Blessed Water"
-msgstr "洒上圣水"
+msgstr "洒了圣水"
 
 # scripts/skills/effects/holy_water_effect.nut
 msgid "'s body has been sprayed with holy water"
@@ -669,23 +669,23 @@ msgstr "的身体被洒上了圣水。"
 
 # scripts/skills/effects/honor_guard_potion_effect.nut
 msgid "Subdermal Stitching"
-msgstr ""
+msgstr "表皮自愈"
 
 # scripts/skills/effects/honor_guard_potion_effect.nut
 msgid "]25%[/color] and [color="
-msgstr ""
+msgstr "]25%[/color] 到 [color="
 
 # scripts/skills/effects/honor_guard_potion_effect.nut
 msgid "This character takes between [color="
-msgstr ""
+msgstr "每次遭受穿刺攻击（例如弓和矛）伤害时随机获得 [color="
 
 # scripts/skills/effects/honor_guard_potion_effect.nut
 msgid "]50%[/color] less damage from piercing attacks, such as those from bows or spears"
-msgstr ""
+msgstr "]50%[/color] 的伤害减免。"
 
 # scripts/skills/effects/honor_guard_potion_effect.nut
 msgid "This character's skin and subdermal tissue has mutated and will rapidly stitch itself back together. The effect is most pronounced on small puncture wounds, where the flesh can seal the wound from all directions evenly."
-msgstr ""
+msgstr "这个角色的皮肤和皮下组织已经突变，能够迅速缝合在一起。这种效果在小的穿刺伤口上最为明显，因为那里的肉可以从各个方向均匀地封闭伤口。"
 
 # scripts/skills/effects/horrified_effect.nut
 msgid "Horrified"
@@ -697,7 +697,7 @@ msgstr "这个角色吓坏了，直到下一个回合才能行动。"
 
 # scripts/skills/effects/horrified_effect.nut
 msgid " resists being frozen with fear thanks to his unnatural physiology"
-msgstr ""
+msgstr "因为他不自然的生理机能抵抗了恐惧"
 
 # scripts/skills/effects/hyena_potion_effect.nut
 msgid "Subdermal Clotting"
@@ -1020,9 +1020,8 @@ msgid "%[/color] damage reduction"
 msgstr ""
 
 # scripts/skills/effects/orc_berserker_potion_effect.nut
-#, fuzzy
 msgid "This character gains two stacks of Rage each time they take hitpoint damage, and loses one stack at the end of each turn."
-msgstr "该角色每次受到生命值伤害时获得两层怒气，并在每个回合结束时失去一层怒气。"
+msgstr "该角色每次受到生命值伤害时获得两层狂暴，并在每回合结束时失去一层。"
 
 # scripts/skills/effects/orc_berserker_potion_effect.nut
 msgid "This character's adrenaline and hormonal glands have mutated, causing a constant heightened emotional state. They can mostly keep this under control in camp, but in high-stress situations the effect is much stronger and fills them with an intense, unconsolable rage."
@@ -1207,23 +1206,23 @@ msgstr "被惊吓"
 
 # scripts/skills/effects/shellshocked_effect.nut
 msgid "%[/color] Resolve"
-msgstr ""
+msgstr "%[/color] 决心"
 
 # scripts/skills/effects/shellshocked_effect.nut
 msgid "%[/color] Melee Defense"
-msgstr ""
+msgstr "%[/color] 近战防御"
 
 # scripts/skills/effects/shellshocked_effect.nut
 msgid "%[/color] Ranged Defense"
-msgstr ""
+msgstr "%[/color] 远程防御"
 
 # scripts/skills/effects/shellshocked_effect.nut
 msgid " resists being shellshocked thanks to his unnatural physiology"
-msgstr ""
+msgstr "因为他不自然的生理机能抵抗了惊吓"
 
 # scripts/skills/effects/shellshocked_effect.nut
 msgid "This character is shellshocked from being near a mortar explosion. Their ears are ringing, their vision is blurred and they're slightly disoriented. The effect will slowly wear off over [color="
-msgstr "这个角色在臼炮爆炸附近受到炮弹冲击。 他们的耳朵在响，他们的视力模糊，他们有点迷失方向。 The effect will slowly wear off over [color="
+msgstr "这个角色在臼炮爆炸附近受到炮弹冲击。他们的耳朵在响，他们的视力模糊，他们有点迷失方向。(剩余 [color="
 
 # scripts/skills/effects/shieldwall_effect.nut
 msgid "Shieldwall"

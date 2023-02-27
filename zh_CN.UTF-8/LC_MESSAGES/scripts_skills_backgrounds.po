@@ -84,14 +84,14 @@ msgid "the Assassin"
 msgstr ""
 
 # scripts/skills/backgrounds/assassin_southern_background.nut
-# scripts/skills/backgrounds/killer_on_the_run_background.nut
-msgid "the Murderer"
-msgstr ""
-
-# scripts/skills/backgrounds/assassin_southern_background.nut
 # scripts/skills/backgrounds/thief_background.nut
 msgid "the Shadow"
 msgstr "影子"
+
+# scripts/skills/backgrounds/assassin_southern_background.nut
+# scripts/skills/backgrounds/killer_on_the_run_background.nut
+msgid "the Murderer"
+msgstr ""
 
 # scripts/skills/backgrounds/beast_hunter_background.nut
 # scripts/skills/backgrounds/manhunter_background.nut
@@ -198,16 +198,6 @@ msgstr "{挨家挨户， | 曾经是一个骄傲的商人，现在 | 对大多�
 msgid "the Raider"
 msgstr ""
 
-# scripts/skills/backgrounds/slave_background.nut
-# scripts/skills/backgrounds/slave_barbarian_background.nut
-msgid "the Pale"
-msgstr ""
-
-# scripts/skills/backgrounds/slave_background.nut
-# scripts/skills/backgrounds/slave_barbarian_background.nut
-msgid "the Restrained"
-msgstr ""
-
 # scripts/skills/backgrounds/slave_southern_background.nut
 # scripts/skills/backgrounds/slave_background.nut
 msgid "the Indebted"
@@ -215,7 +205,17 @@ msgstr ""
 
 # scripts/skills/backgrounds/slave_background.nut
 # scripts/skills/backgrounds/slave_barbarian_background.nut
+msgid "the Pale"
+msgstr ""
+
+# scripts/skills/backgrounds/slave_background.nut
+# scripts/skills/backgrounds/slave_barbarian_background.nut
 msgid "the Captive"
+msgstr ""
+
+# scripts/skills/backgrounds/slave_background.nut
+# scripts/skills/backgrounds/slave_barbarian_background.nut
+msgid "the Restrained"
 msgstr ""
 
 # scripts/skills/backgrounds/wildman_background.nut
