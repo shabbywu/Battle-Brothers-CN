@@ -19,8 +19,5 @@ msgid "Reduces the Resolve of any opponent engaged in melee by [color="
 msgstr "减少任何近战对手的决心 [color="
 
 # scripts/items/accessory/legendary/cursed_crystal_skull.nut
-msgid ""
-"An eerie skull carved from a single large crystal. No scratch or other mark "
-"can be seen on its surface. Just being near it kills the fire of "
-"determination in almost any man, breaks hope and lets sprout doubts."
+msgid "An eerie skull carved from a single large crystal. No scratch or other mark can be seen on its surface. Just being near it kills the fire of determination in almost any man, breaks hope and lets sprout doubts."
 msgstr "一个可怕的用大型水晶雕刻的头骨。它的表面没有划伤或其他标志。当它靠近人时，冥火会摧毁希望和勇气。"

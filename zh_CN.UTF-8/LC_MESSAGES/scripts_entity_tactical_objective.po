@@ -2,10 +2,6 @@
 msgid ""
 msgstr ""
 
-# scripts/entity/tactical/objective/mortar.nut
-msgid "Mortar"
-msgstr "炮手"
-
 # scripts/entity/tactical/objective/donkey.nut
 msgid "A Donkey"
 msgstr "一头驴子"
@@ -13,3 +9,7 @@ msgstr "一头驴子"
 # scripts/entity/tactical/objective/donkey.nut
 msgid "Caravan Donkey"
 msgstr "商队驴子"
+
+# scripts/entity/tactical/objective/mortar.nut
+msgid "Mortar"
+msgstr "炮手"

@@ -14,10 +14,6 @@ msgstr "杀死"
 msgid "Riposte"
 msgstr "还击"
 
-# scripts/skills/skill_container.nut
-msgid "Skill ["
-msgstr ""
-
 # scripts/skills/skill.nut
 msgid " has hit "
 msgstr ""
@@ -102,10 +98,6 @@ msgstr "高度优势"
 msgid "Inflicts [color="
 msgstr ""
 
-# scripts/skills/skill_container.nut
-msgid "] removed from ["
-msgstr ""
-
 # scripts/skills/skill.nut
 msgid "Armed with shield"
 msgstr "装备盾牌"
@@ -117,10 +109,6 @@ msgstr ""
 # scripts/skills/skill.nut
 msgid "Height disadvantage"
 msgstr "高度劣势"
-
-# scripts/skills/skill_container.nut
-msgid "# Showing skills of "
-msgstr "# 显示的技能 "
 
 # scripts/skills/skill.nut
 msgid "Line of fire blocked"
@@ -186,10 +174,6 @@ msgstr ""
 msgid " and the shot goes astray and misses "
 msgstr ""
 
-# scripts/skills/skill_container.nut
-msgid "# A = Active, P = Passive, H = Hidden"
-msgstr ""
-
 # scripts/skills/skill.nut
 msgid "Immune to being knocked back or hooked"
 msgstr "免疫撞退或钩拉"
@@ -199,7 +183,21 @@ msgid "[/color] damage to hitpoints, of which [color="
 msgstr ""
 
 # scripts/skills/skill.nut
-msgid ""
-"]Can not be used because this character has taken an oath precluding the use"
-" of ranged weapons or tools[/color]"
+msgid "]Can not be used because this character has taken an oath precluding the use of ranged weapons or tools[/color]"
 msgstr "]不能使用，因为这个角色已经宣誓禁止使用远程武器或工具[/color]"
+
+# scripts/skills/skill_container.nut
+msgid "Skill ["
+msgstr ""
+
+# scripts/skills/skill_container.nut
+msgid "] removed from ["
+msgstr ""
+
+# scripts/skills/skill_container.nut
+msgid "# Showing skills of "
+msgstr "# 显示的技能 "
+
+# scripts/skills/skill_container.nut
+msgid "# A = Active, P = Passive, H = Hidden"
+msgstr ""

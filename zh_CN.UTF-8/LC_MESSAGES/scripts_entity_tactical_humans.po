@@ -2,6 +2,11 @@
 msgid ""
 msgstr ""
 
+# scripts/entity/tactical/humans/militia_guest_ranged.nut
+# scripts/entity/tactical/humans/militia_guest.nut
+msgid "the Militiaman"
+msgstr "民兵"
+
 # scripts/entity/tactical/humans/barbarian_madman.nut
 msgid "ffffff00"
 msgstr ""
@@ -45,11 +50,6 @@ msgstr "司库"
 # scripts/entity/tactical/humans/councilman.nut
 msgid "the Councilman"
 msgstr "议员"
-
-# scripts/entity/tactical/humans/militia_guest_ranged.nut
-# scripts/entity/tactical/humans/militia_guest.nut
-msgid "the Militiaman"
-msgstr "民兵"
 
 # scripts/entity/tactical/humans/councilman.nut
 msgid "the Burgomeister"

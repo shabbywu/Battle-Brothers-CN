@@ -7,77 +7,58 @@ msgstr ""
 msgid "Only receive [color="
 msgstr ""
 
-# scripts/skills/perks/perk_reach_advantage.nut
-msgid "[/color] until their next turn."
+# scripts/skills/perks/perk_battle_forged.nut
+msgid "%[/color] of any damage to armor from attacks"
 msgstr ""
 
-# scripts/skills/perks/perk_inspiring_presence.nut
-msgid "inspiring presence: on combat started!"
-msgstr "鼓舞人心的存在：战斗开始了！"
+# scripts/skills/perks/perk_battle_forged.nut
+msgid "Specialize in heavy armor! Armor damage taken is reduced by a percentage equal to [color="
+msgstr "重甲专精! 受到的护甲伤害会减少，减少的百分比等于盔甲和头盔当前总护甲值之和的[color="
+
+# scripts/skills/perks/perk_battle_forged.nut
+msgid "]This character's armor isn't protective enough to grant any benefit from having the Battleforged perk[/color]"
+msgstr "]这个角色的盔甲没有足够的保护，无法从战斗锻造特技中获得任何好处[/color]"
+
+# scripts/skills/perks/perk_battle_forged.nut
+msgid "]5%[/color] of the current total armor value of both body and head armor. The heavier your armor and helmet, the more you benefit."
+msgstr ""
 
 # scripts/skills/perks/perk_fast_adaption.nut
 msgid "%[/color] chance to hit with any attack."
 msgstr "%[/color] 命中几率 with any attack."
 
-# scripts/skills/perks/perk_battle_forged.nut
-msgid "%[/color] of any damage to armor from attacks"
+# scripts/skills/perks/perk_fast_adaption.nut
+msgid "This character is adapting fast to their opponent's moves and gains an additional [color="
 msgstr ""
+
+# scripts/skills/perks/perk_head_hunter.nut
+msgid "This character is guaranteed to land a hit to the head on the next attack that connects."
+msgstr "这个角色保证在下一次连接的攻击中击中头部。"
+
+# scripts/skills/perks/perk_inspiring_presence.nut
+msgid "inspiring presence: on combat started!"
+msgstr "鼓舞人心的存在：战斗开始了！"
 
 # scripts/skills/perks/perk_nimble.nut
 msgid "%[/color] of any damage to hitpoints from attacks"
 msgstr ""
 
-# scripts/skills/perks/perk_head_hunter.nut
-msgid ""
-"This character is guaranteed to land a hit to the head on the next attack "
-"that connects."
-msgstr "这个角色保证在下一次连接的攻击中击中头部。"
-
-# scripts/skills/perks/perk_battle_forged.nut
-msgid ""
-"Specialize in heavy armor! Armor damage taken is reduced by a percentage "
-"equal to [color="
-msgstr "重甲专精! 受到的护甲伤害会减少，减少的百分比等于盔甲和头盔当前总护甲值之和的[color="
-
-# scripts/skills/perks/perk_fast_adaption.nut
-msgid ""
-"This character is adapting fast to their opponent's moves and gains an "
-"additional [color="
-msgstr ""
-
 # scripts/skills/perks/perk_nimble.nut
-msgid ""
-"]This character's body and head armor are too heavy as to gain any benefit "
-"from being nimble[/color]"
+msgid "]This character's body and head armor are too heavy as to gain any benefit from being nimble[/color]"
 msgstr "]这个角色的身体和头部盔甲太重，无法从轻灵中获得任何好处[/color]"
 
+# scripts/skills/perks/perk_nimble.nut
+msgid "Nimble like a cat! This character is able to partially evade or deflect attacks at the last moment, turning them into glancing hits. The lighter the armor, the more you benefit."
+msgstr "像猫一样轻灵！ 这个角色能够在最后时刻躲避或转移部分攻击，将其变成偏斜的攻击。 盔甲越轻，你受益越多。"
+
 # scripts/skills/perks/perk_quick_hands.nut
-msgid ""
-"Maybe use this instead? This character has quick hands and can still swap an"
-" item for free this turn."
+msgid "Maybe use this instead? This character has quick hands and can still swap an item for free this turn."
 msgstr "也许用这个来代替？ 这个角色的快手，这个回合仍然可以免费交换物品。"
 
-# scripts/skills/perks/perk_battle_forged.nut
-msgid ""
-"]This character's armor isn't protective enough to grant any benefit from "
-"having the Battleforged perk[/color]"
-msgstr "]这个角色的盔甲没有足够的保护，无法从战斗锻造特技中获得任何好处[/color]"
+# scripts/skills/perks/perk_reach_advantage.nut
+msgid "[/color] until their next turn."
+msgstr ""
 
 # scripts/skills/perks/perk_reach_advantage.nut
-msgid ""
-"This character is using the superior reach of their melee weapon to keep "
-"opponents at bay, increasing Melee Defense by [color="
+msgid "This character is using the superior reach of their melee weapon to keep opponents at bay, increasing Melee Defense by [color="
 msgstr ""
-
-# scripts/skills/perks/perk_battle_forged.nut
-msgid ""
-"]5%[/color] of the current total armor value of both body and head armor. "
-"The heavier your armor and helmet, the more you benefit."
-msgstr ""
-
-# scripts/skills/perks/perk_nimble.nut
-msgid ""
-"Nimble like a cat! This character is able to partially evade or deflect "
-"attacks at the last moment, turning them into glancing hits. The lighter the"
-" armor, the more you benefit."
-msgstr "像猫一样轻灵！ 这个角色能够在最后时刻躲避或转移部分攻击，将其变成偏斜的攻击。 盔甲越轻，你受益越多。"

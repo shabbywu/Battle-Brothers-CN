@@ -2,12 +2,24 @@
 msgid ""
 msgstr ""
 
-# scripts/items/item_container.nut
-msgid "Could not add "
+# scripts/items/item.nut
+msgid "Worth nothing."
 msgstr ""
 
 # scripts/items/item.nut
-msgid "Worth nothing."
+msgid "Can be used to craft items"
+msgstr "可用于制作物品"
+
+# scripts/items/item.nut
+msgid "Worth [img]gfx/ui/tooltips/money.png[/img][b]"
+msgstr ""
+
+# scripts/items/item.nut
+msgid "Attempted to drop item, but no tile specified!"
+msgstr ""
+
+# scripts/items/item_container.nut
+msgid "Could not add "
 msgstr ""
 
 # scripts/items/item_container.nut
@@ -33,10 +45,6 @@ msgstr ""
 # scripts/items/item_container.nut
 msgid "Attempted to unequip item "
 msgstr ""
-
-# scripts/items/item.nut
-msgid "Can be used to craft items"
-msgstr "可用于制作物品"
 
 # scripts/items/item_container.nut
 msgid " from bag, but is placed somewhere else"
@@ -64,14 +72,6 @@ msgstr ""
 
 # scripts/items/item_container.nut
 msgid " to bag, but is already placed somewhere else"
-msgstr ""
-
-# scripts/items/item.nut
-msgid "Worth [img]gfx/ui/tooltips/money.png[/img][b]"
-msgstr ""
-
-# scripts/items/item.nut
-msgid "Attempted to drop item, but no tile specified!"
 msgstr ""
 
 # scripts/items/item_container.nut
