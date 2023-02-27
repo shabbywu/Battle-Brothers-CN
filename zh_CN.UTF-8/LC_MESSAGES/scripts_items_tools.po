@@ -116,7 +116,7 @@ msgstr "一种装满高度易燃液体的罐子，当投掷时会使一个区域
 
 # scripts/items/tools/holy_water_item.nut
 msgid "Damage of [color="
-msgstr "伤害"
+msgstr "伤害[color="
 
 # scripts/items/tools/holy_water_item.nut
 msgid "weapon.holy Water"

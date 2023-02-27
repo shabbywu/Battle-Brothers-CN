@@ -91,14 +91,14 @@ msgid "Elixir of Perseverance"
 msgstr "稳固药剂"
 
 # scripts/items/misc/anatomist/geist_potion_item.nut
-# scripts/items/misc/anatomist/goblin_overseer_potion_item.nut
-msgid "An additional [color="
-msgstr ""
-
-# scripts/items/misc/anatomist/geist_potion_item.nut
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Deadman's Drink"
 msgstr "不死人药剂"
+
+# scripts/items/misc/anatomist/geist_potion_item.nut
+# scripts/items/misc/anatomist/goblin_overseer_potion_item.nut
+msgid "An additional [color="
+msgstr ""
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 # scripts/items/misc/anatomist/goblin_grunt_potion_item.nut
@@ -191,14 +191,9 @@ msgid "Knife Edge Potion"
 msgstr "复仇刀锋灵药"
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
-# scripts/items/misc/anatomist/schrat_potion_item.nut
-msgid "Draught of Godtree Roots"
-msgstr "神树根须药剂"
-
-# scripts/items/misc/anatomist/research_notes_beasts_item.nut
-# scripts/items/misc/anatomist/unhold_potion_item.nut
-msgid "Fool's Treasure Potion"
-msgstr "愚者宝藏药剂"
+# scripts/items/misc/anatomist/serpent_potion_item.nut
+msgid "Quickfang Potion"
+msgstr "迅牙药剂"
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 # scripts/items/misc/anatomist/webknecht_potion_item.nut
@@ -206,19 +201,24 @@ msgid "Venomblood Potion"
 msgstr "毒血药剂"
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
-# scripts/items/misc/anatomist/serpent_potion_item.nut
-msgid "Quickfang Potion"
-msgstr "迅牙药剂"
+# scripts/items/misc/anatomist/unhold_potion_item.nut
+msgid "Fool's Treasure Potion"
+msgstr "愚者宝藏药剂"
 
-# scripts/items/misc/anatomist/skeleton_warrior_potion_item.nut
-# scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid "Potion of the Sleepless"
-msgstr "不眠药剂"
+# scripts/items/misc/anatomist/research_notes_beasts_item.nut
+# scripts/items/misc/anatomist/schrat_potion_item.nut
+msgid "Draught of Godtree Roots"
+msgstr "神树根须药剂"
 
 # scripts/items/misc/anatomist/wiederganger_potion_item.nut
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Potion of Leather Skin"
 msgstr "厚皮药剂"
+
+# scripts/items/misc/anatomist/skeleton_warrior_potion_item.nut
+# scripts/items/misc/anatomist/research_notes_undead_item.nut
+msgid "Potion of the Sleepless"
+msgstr "不眠药剂"
 
 # scripts/items/misc/anatomist/alp_potion_item.nut
 msgid "Not affected by nighttime penalties"
@@ -310,11 +310,11 @@ msgstr "虽然“像哥布林一样滑溜”这句话在民间俗语中还不太
 
 # scripts/items/misc/anatomist/hexe_potion_item.nut
 msgid "Reflect [color="
-msgstr ""
+msgstr "反射 [color="
 
 # scripts/items/misc/anatomist/hexe_potion_item.nut
 msgid "]100%[/color] of hitpoint damage received back at the attacker"
-msgstr ""
+msgstr "]100%[/color] 生命值伤害到攻击者"
 
 # scripts/items/misc/anatomist/hexe_potion_item.nut
 msgid "The label on this bottle reads: 'DANGER! FURTHER RESEARCH REQUIRED BEFORE CONSUMPTION.' Eh, you're sure it's fine."
@@ -326,11 +326,11 @@ msgstr ""
 
 # scripts/items/misc/anatomist/honor_guard_potion_item.nut
 msgid "]25%[/color] and [color="
-msgstr ""
+msgstr "]25%[/color] 到 [color="
 
 # scripts/items/misc/anatomist/honor_guard_potion_item.nut
 msgid "]50%[/color] less damage from piercing attacks, such as those from bows or spears"
-msgstr ""
+msgstr "]50%[/color] 的伤害减免。"
 
 # scripts/items/misc/anatomist/honor_guard_potion_item.nut
 msgid "The undead are rightly feared for their unflagging purpose and their unbreakable will, but any experienced warrior knows of a third horror, the dread creatures resistance to spears and arrows. With this concoction, the living may obtain such an aegis as well!"

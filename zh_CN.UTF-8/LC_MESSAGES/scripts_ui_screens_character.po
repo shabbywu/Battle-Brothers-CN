@@ -8,7 +8,7 @@ msgstr ""
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Glad to see "
-msgstr "很高兴看到"
+msgstr ""
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Undefined error."

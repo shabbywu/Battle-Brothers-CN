@@ -658,7 +658,7 @@ msgstr ""
 
 # scripts/items/weapons/weapon.nut
 msgid "Damage of [color="
-msgstr "伤害"
+msgstr "伤害[color="
 
 # scripts/items/weapons/weapon.nut
 msgid "[/color] - [color="

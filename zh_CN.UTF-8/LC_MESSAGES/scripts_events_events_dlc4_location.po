@@ -2,11 +2,6 @@
 msgid ""
 msgstr ""
 
-# scripts/events/events/dlc4/location/tundra_elk_enter_event.nut
-# scripts/events/events/dlc4/location/icy_cave_enter_event.nut
-msgid "As you approach..."
-msgstr "当你接近时…"
-
 # scripts/events/events/dlc4/location/tundra_elk_destroyed_event.nut
 # scripts/events/events/dlc4/location/icy_cave_enter_event.nut
 msgid "You gain "
@@ -16,6 +11,11 @@ msgstr "你获得了 "
 # scripts/events/events/dlc4/location/icy_cave_enter_event.nut
 msgid "After the battle..."
 msgstr "战斗之后…"
+
+# scripts/events/events/dlc4/location/tundra_elk_enter_event.nut
+# scripts/events/events/dlc4/location/icy_cave_enter_event.nut
+msgid "As you approach..."
+msgstr "当你接近时…"
 
 # scripts/events/events/dlc4/location/icy_cave_enter_event.nut
 msgid "Travel well."

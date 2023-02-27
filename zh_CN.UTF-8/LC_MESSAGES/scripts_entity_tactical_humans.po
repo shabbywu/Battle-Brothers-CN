@@ -7,18 +7,6 @@ msgstr ""
 msgid "the Militiaman"
 msgstr "民兵"
 
-# scripts/entity/tactical/humans/barbarian_madman.nut
-msgid "ffffff00"
-msgstr ""
-
-# scripts/entity/tactical/humans/barbarian_madman.nut
-msgid "ffffff2f"
-msgstr ""
-
-# scripts/entity/tactical/humans/barbarian_madman.nut
-msgid "ffffff5f"
-msgstr ""
-
 # scripts/entity/tactical/humans/councilman.nut
 msgid "the Wise"
 msgstr "智者"

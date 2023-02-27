@@ -50,16 +50,16 @@ msgid "]-25%[/color] Melee Defense"
 msgstr "]-25%[/color] 近战防御"
 
 # scripts/skills/injury/injured_knee_cap_injury.nut
-# scripts/skills/injury/cut_achilles_tendon_injury.nut
-# scripts/skills/injury/broken_leg_injury.nut
-msgid "]2[/color] Additional Action Point per tile moved"
-msgstr "]2[/color] 额外的行动点，在每移动一格时消耗增加"
-
-# scripts/skills/injury/injured_knee_cap_injury.nut
 # scripts/skills/injury/cut_leg_muscles_injury.nut
 # scripts/skills/injury/broken_leg_injury.nut
 msgid "]-40%[/color] Initiative"
 msgstr ""
+
+# scripts/skills/injury/injured_knee_cap_injury.nut
+# scripts/skills/injury/cut_achilles_tendon_injury.nut
+# scripts/skills/injury/broken_leg_injury.nut
+msgid "]2[/color] Additional Action Point per tile moved"
+msgstr "]2[/color] 额外的行动点，在每移动一格时消耗增加"
 
 # scripts/skills/injury/broken_ribs_injury.nut
 # scripts/skills/injury/stabbed_guts_injury.nut
@@ -86,12 +86,6 @@ msgid "]-25%[/color] Ranged Defense"
 msgstr "]-25%[/color] 远程防御"
 
 # scripts/skills/injury/cut_artery_injury.nut
-# scripts/skills/injury/exposed_ribs_injury.nut
-# scripts/skills/injury/deep_chest_cut_injury.nut
-msgid "]-35%[/color] Hitpoints"
-msgstr ""
-
-# scripts/skills/injury/cut_artery_injury.nut
 # scripts/skills/injury/grazed_neck_injury.nut
 # scripts/skills/injury/cut_throat_injury.nut
 msgid "Bled to death"
@@ -101,6 +95,12 @@ msgstr "流血至死"
 # scripts/skills/injury/grazed_neck_injury.nut
 # scripts/skills/injury/cut_throat_injury.nut
 msgid "This character will continue to lose [color="
+msgstr ""
+
+# scripts/skills/injury/cut_artery_injury.nut
+# scripts/skills/injury/exposed_ribs_injury.nut
+# scripts/skills/injury/deep_chest_cut_injury.nut
+msgid "]-35%[/color] Hitpoints"
 msgstr ""
 
 # scripts/skills/injury/infected_wound_injury.nut

@@ -4,19 +4,12 @@ msgstr ""
 
 # scripts/entity/world/settlement.nut
 # scripts/entity/world/attached_location.nut
-# scripts/entity/world/player_party.nut
 msgid "lighting"
 msgstr ""
 
 # scripts/entity/world/party.nut
 # scripts/entity/world/entity_manager.nut
-# scripts/entity/world/player_party.nut
 msgid "base"
-msgstr ""
-
-# scripts/entity/world/attached_location.nut
-# scripts/entity/world/player_party.nut
-msgid "ffffff00"
 msgstr ""
 
 # scripts/entity/world/world_entity.nut
@@ -27,6 +20,10 @@ msgstr ""
 # scripts/entity/world/attached_location.nut
 msgid "Ruins"
 msgstr "废墟"
+
+# scripts/entity/world/attached_location.nut
+msgid "ffffff00"
+msgstr ""
 
 # scripts/entity/world/attached_location.nut
 msgid "Once part of the nearby settlement, these are now burned down and abandoned ruins."

@@ -25,11 +25,11 @@ msgstr ""
 
 # scripts/skills/perks/perk_fast_adaption.nut
 msgid "%[/color] chance to hit with any attack."
-msgstr "%[/color] 命中几率 with any attack."
+msgstr "%[/color] 攻击几率。"
 
 # scripts/skills/perks/perk_fast_adaption.nut
 msgid "This character is adapting fast to their opponent's moves and gains an additional [color="
-msgstr ""
+msgstr "这个角色正在快速适应对手的动作，并获得额外的 [color="
 
 # scripts/skills/perks/perk_head_hunter.nut
 msgid "This character is guaranteed to land a hit to the head on the next attack that connects."
@@ -57,8 +57,8 @@ msgstr "也许用这个来代替？ 这个角色的快手，这个回合仍然�
 
 # scripts/skills/perks/perk_reach_advantage.nut
 msgid "[/color] until their next turn."
-msgstr ""
+msgstr "[/color] 直到下一回合。"
 
 # scripts/skills/perks/perk_reach_advantage.nut
 msgid "This character is using the superior reach of their melee weapon to keep opponents at bay, increasing Melee Defense by [color="
-msgstr ""
+msgstr "这个角色使用他的近战武器的优势来阻止对手，增加近战防御 [color="

@@ -720,14 +720,14 @@ msgid "What a show!"
 msgstr "好一场表演！"
 
 # scripts/events/events/creepy_guy_event.nut
-# scripts/events/events/imprisoned_wildman_event.nut
-msgid "]250[/color] Crowns"
-msgstr "]250[/color] 克朗"
-
-# scripts/events/events/creepy_guy_event.nut
 # scripts/events/events/rookie_gets_hurt_event.nut
 msgid "]+3[/color] Resolve"
 msgstr ""
+
+# scripts/events/events/creepy_guy_event.nut
+# scripts/events/events/imprisoned_wildman_event.nut
+msgid "]250[/color] Crowns"
+msgstr "]250[/color] 克朗"
 
 # scripts/events/events/cultist_vs_uneducated_event.nut
 # scripts/events/events/cultist_vs_old_gods_event.nut
