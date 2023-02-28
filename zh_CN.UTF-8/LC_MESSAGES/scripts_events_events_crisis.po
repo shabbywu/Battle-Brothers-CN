@@ -60,19 +60,19 @@ msgstr "你获得了 "
 msgid " suffers "
 msgstr " 遭受 "
 
-# scripts/events/events/crisis/undead_hoggart_event.nut
-# scripts/events/events/crisis/civilwar_dead_knight_event.nut
-# scripts/events/events/crisis/civilwar_ambush_event.nut
-# scripts/events/events/crisis/undead_zombie_in_granary_event.nut
-msgid "You gain [color="
-msgstr "你获得了 [color="
-
 # scripts/events/events/crisis/civilwar_conscription_event.nut
 # scripts/events/events/crisis/civilwar_savagery_event.nut
 # scripts/events/events/crisis/civilwar_trapped_soldiers_event.nut
 # scripts/events/events/crisis/civilwar_ambush_event.nut
 msgid "Killed some of their men"
 msgstr "杀了一些他们的人"
+
+# scripts/events/events/crisis/undead_hoggart_event.nut
+# scripts/events/events/crisis/civilwar_dead_knight_event.nut
+# scripts/events/events/crisis/civilwar_ambush_event.nut
+# scripts/events/events/crisis/undead_zombie_in_granary_event.nut
+msgid "You gain [color="
+msgstr "你获得了 [color="
 
 # scripts/events/events/crisis/undead_plague_or_infected_event.nut
 # scripts/events/events/crisis/civilwar_refugees_event.nut
@@ -126,14 +126,14 @@ msgid "At %town%"
 msgstr ""
 
 # scripts/events/events/crisis/civilwar_deserter_event.nut
-# scripts/events/events/crisis/civilwar_wounded_soldier_event.nut
-msgid "Killed one of their men"
-msgstr "杀了他们的一个人"
-
-# scripts/events/events/crisis/civilwar_deserter_event.nut
 # scripts/events/events/crisis/civilwar_treasurer_event.nut
 msgid "This is none of our business."
 msgstr "这不关我们的事。"
+
+# scripts/events/events/crisis/civilwar_deserter_event.nut
+# scripts/events/events/crisis/civilwar_wounded_soldier_event.nut
+msgid "Killed one of their men"
+msgstr "杀了他们的一个人"
 
 # scripts/events/events/crisis/greenskins_caravan_ambush_event.nut
 # scripts/events/events/crisis/undead_necrosavant_event.nut

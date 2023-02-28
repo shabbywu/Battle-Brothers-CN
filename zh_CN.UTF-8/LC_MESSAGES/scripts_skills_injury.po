@@ -50,16 +50,16 @@ msgid "]-25%[/color] Melee Defense"
 msgstr "]-25%[/color] 近战防御"
 
 # scripts/skills/injury/injured_knee_cap_injury.nut
-# scripts/skills/injury/cut_leg_muscles_injury.nut
-# scripts/skills/injury/broken_leg_injury.nut
-msgid "]-40%[/color] Initiative"
-msgstr ""
-
-# scripts/skills/injury/injured_knee_cap_injury.nut
 # scripts/skills/injury/cut_achilles_tendon_injury.nut
 # scripts/skills/injury/broken_leg_injury.nut
 msgid "]2[/color] Additional Action Point per tile moved"
 msgstr "]2[/color] 额外的行动点，在每移动一格时消耗增加"
+
+# scripts/skills/injury/injured_knee_cap_injury.nut
+# scripts/skills/injury/cut_leg_muscles_injury.nut
+# scripts/skills/injury/broken_leg_injury.nut
+msgid "]-40%[/color] Initiative"
+msgstr ""
 
 # scripts/skills/injury/broken_ribs_injury.nut
 # scripts/skills/injury/stabbed_guts_injury.nut
@@ -646,7 +646,7 @@ msgstr " 现在生病了"
 
 # scripts/skills/injury/sickness_injury.nut
 msgid "]-25%[/color] Resolve"
-msgstr ""
+msgstr "]-25%[/color] 决心"
 
 # scripts/skills/injury/sickness_injury.nut
 msgid "]-25%[/color] Initiative"

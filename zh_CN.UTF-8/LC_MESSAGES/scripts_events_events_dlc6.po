@@ -63,17 +63,17 @@ msgstr "你花费了 [color="
 msgid "At %townname%"
 msgstr ""
 
-# scripts/events/events/dlc6/trade_black_book_event.nut
-# scripts/events/events/dlc6/cultish_arrangement_event.nut
-# scripts/events/events/dlc6/retired_gladiator_event.nut
-msgid "You gain a "
-msgstr "你获得了一个 "
-
 # scripts/events/events/dlc6/cultish_arrangement_event.nut
 # scripts/events/events/dlc6/dried_oasis_event.nut
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "[/color] Crowns"
 msgstr "[/color] 克朗"
+
+# scripts/events/events/dlc6/trade_black_book_event.nut
+# scripts/events/events/dlc6/cultish_arrangement_event.nut
+# scripts/events/events/dlc6/retired_gladiator_event.nut
+msgid "You gain a "
+msgstr "你获得了一个 "
 
 # scripts/events/events/dlc6/gunpowder_wagon_event.nut
 # scripts/events/events/dlc6/belly_dancer_event.nut
@@ -526,7 +526,7 @@ msgstr "我们得帮他！"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "[/color] Melee Skill"
-msgstr ""
+msgstr "[/color] 近战技能"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "Let's see how he does it."

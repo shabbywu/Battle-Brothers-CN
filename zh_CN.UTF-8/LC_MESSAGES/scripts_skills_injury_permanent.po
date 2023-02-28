@@ -17,7 +17,7 @@ msgstr "脑损伤"
 
 # scripts/skills/injury_permanent/brain_damage_injury.nut
 msgid "]+15%[/color] Resolve"
-msgstr ""
+msgstr "]+15%[/color] 决心"
 
 # scripts/skills/injury_permanent/brain_damage_injury.nut
 msgid "]-25%[/color] Initiative"
@@ -173,7 +173,7 @@ msgstr "精神创伤"
 
 # scripts/skills/injury_permanent/traumatized_injury.nut
 msgid "]-40%[/color] Resolve"
-msgstr ""
+msgstr "]-40%[/color] 决心"
 
 # scripts/skills/injury_permanent/traumatized_injury.nut
 msgid "]-30%[/color] Initiative"

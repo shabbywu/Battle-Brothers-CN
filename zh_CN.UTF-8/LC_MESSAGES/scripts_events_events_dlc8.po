@@ -280,14 +280,14 @@ msgstr "学习 "
 msgid "[/color] Crowns"
 msgstr "[/color] 克朗"
 
-# scripts/events/events/dlc8/brawler_throw_fight_event.nut
-# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
-msgid "[/color] Melee Defense"
-msgstr ""
-
 # scripts/events/events/dlc8/disowned_noble_vs_deserter_event.nut
 # scripts/events/events/dlc8/brawler_throw_fight_event.nut
 msgid "[/color] Melee Skill"
+msgstr "[/color] 近战技能"
+
+# scripts/events/events/dlc8/brawler_throw_fight_event.nut
+# scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
+msgid "[/color] Melee Defense"
 msgstr ""
 
 # scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut

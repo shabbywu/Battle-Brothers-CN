@@ -584,13 +584,6 @@ msgid "{This isn't worth it. | We have other obligations.}"
 msgstr "{这不值得。 | 我们还有其他任务。}"
 
 # scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
-# scripts/contracts/contracts/conquer_holy_site_contract.nut
-# scripts/contracts/contracts/defend_holy_site_contract.nut
-# scripts/contracts/contracts/defend_holy_site_southern_contract.nut
-msgid "Destroy or rout enemy regiments in the vicinity"
-msgstr "摧毁或击溃附近的敌方部队"
-
-# scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
 # scripts/contracts/contracts/find_artifact_contract.nut
 # scripts/contracts/contracts/conquer_holy_site_contract.nut
 # scripts/contracts/contracts/decisive_battle_contract.nut
@@ -603,6 +596,13 @@ msgstr "你花费了 [color="
 # scripts/contracts/contracts/defend_holy_site_southern_contract.nut
 msgid "At %holysite%"
 msgstr ""
+
+# scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
+# scripts/contracts/contracts/conquer_holy_site_contract.nut
+# scripts/contracts/contracts/defend_holy_site_contract.nut
+# scripts/contracts/contracts/defend_holy_site_southern_contract.nut
+msgid "Destroy or rout enemy regiments in the vicinity"
+msgstr "摧毁或击溃附近的敌方部队"
 
 # scripts/contracts/contracts/siege_fortification_contract.nut
 # scripts/contracts/contracts/find_artifact_contract.nut
@@ -639,29 +639,29 @@ msgstr "赶紧结束这件事吧，我们还有克朗要拿。"
 msgid "Return to %townname%"
 msgstr "返回 %townname%"
 
-# scripts/contracts/contracts/siege_fortification_contract.nut
-# scripts/contracts/contracts/break_greenskin_siege_contract.nut
-# scripts/contracts/contracts/last_stand_contract.nut
-msgid "%objective% has fallen."
-msgstr "%objective% 陷落了。"
-
 # scripts/contracts/contracts/free_greenskin_prisoners_contract.nut
 # scripts/contracts/contracts/break_greenskin_siege_contract.nut
 # scripts/contracts/contracts/confront_warlord_contract.nut
 msgid "Greenskin Horde"
 msgstr "大群绿皮"
 
-# scripts/contracts/contracts/free_greenskin_prisoners_contract.nut
-# scripts/contracts/contracts/root_out_undead_contract.nut
-# scripts/contracts/contracts/confront_warlord_contract.nut
-msgid "{This isn't worth it. | We're needed elsewhere.}"
-msgstr "{这不值得。 | 我们还有别的地方要去。}"
+# scripts/contracts/contracts/siege_fortification_contract.nut
+# scripts/contracts/contracts/break_greenskin_siege_contract.nut
+# scripts/contracts/contracts/last_stand_contract.nut
+msgid "%objective% has fallen."
+msgstr "%objective% 陷落了。"
 
 # scripts/contracts/contracts/privateering_contract.nut
 # scripts/contracts/contracts/find_artifact_contract.nut
 # scripts/contracts/contracts/confront_warlord_contract.nut
 msgid "Be on your guard!"
 msgstr "小心点！"
+
+# scripts/contracts/contracts/free_greenskin_prisoners_contract.nut
+# scripts/contracts/contracts/root_out_undead_contract.nut
+# scripts/contracts/contracts/confront_warlord_contract.nut
+msgid "{This isn't worth it. | We're needed elsewhere.}"
+msgstr "{这不值得。 | 我们还有别的地方要去。}"
 
 # scripts/contracts/contracts/conquer_holy_site_southern_contract.nut
 # scripts/contracts/contracts/find_artifact_contract.nut
@@ -694,16 +694,16 @@ msgid "Welcome to the %companyname%!"
 msgstr "欢迎加入 %companyname%！"
 
 # scripts/contracts/contracts/defend_settlement_greenskins_contract.nut
-# scripts/contracts/contracts/last_stand_contract.nut
-# scripts/contracts/contracts/defend_settlement_bandits_contract.nut
-msgid "Defend Settlement"
-msgstr "保卫定居点"
-
-# scripts/contracts/contracts/defend_settlement_greenskins_contract.nut
 # scripts/contracts/contracts/defend_settlement_bandits_contract.nut
 # scripts/contracts/contracts/hunting_hexen_contract.nut
 msgid "Near %townname%"
 msgstr ""
+
+# scripts/contracts/contracts/defend_settlement_greenskins_contract.nut
+# scripts/contracts/contracts/last_stand_contract.nut
+# scripts/contracts/contracts/defend_settlement_bandits_contract.nut
+msgid "Defend Settlement"
+msgstr "保卫定居点"
 
 # scripts/contracts/contracts/patrol_contract.nut
 # scripts/contracts/contracts/escort_caravan_contract.nut
@@ -711,29 +711,29 @@ msgstr ""
 msgid "Along the road..."
 msgstr "在路上…"
 
-# scripts/contracts/contracts/hunting_schrats_contract.nut
-# scripts/contracts/contracts/deliver_item_contract.nut
-# scripts/contracts/contracts/hunting_sand_golems_contract.nut
-msgid "It's done."
-msgstr "完成了。"
-
 # scripts/contracts/contracts/privateering_contract.nut
 # scripts/contracts/contracts/escort_caravan_contract.nut
 # scripts/contracts/contracts/deliver_item_contract.nut
 msgid " days"
 msgstr "天"
 
-# scripts/contracts/contracts/raze_attached_location_contract.nut
-# scripts/contracts/contracts/destroy_goblin_camp_contract.nut
-# scripts/contracts/contracts/destroy_orc_camp_contract.nut
-msgid "[img]gfx/ui/events/event_22.png[/img]{You wipe your sword on your pant leg and quickly sheathe it. The ambushers lay dead, skewered into this grotesque pose or that one. %randombrother% walks up and inquires what to do now. It appears that %faction% isn't going to be on the friendliest of terms. | You kick the dead body of an ambusher off the end of your sword. It appears %faction% isn't going to be on the friendliest of terms from now on. Maybe next time, when I agree to do something for these people, I actually do it. | Well, if nothing else, what can be learned from this is to not agree to a task you can't complete. The people of these land are not particularly friendly to those who fall short of their promises... | You betrayed %faction%, but that's not something to dwell on. They betrayed you, that's what is important now! And going into the future, you best be suspicious of them and anyone who flies their banner. | %employer%, judging by the dead bannermen at your feet, appears to no longer be happy with you. If you were to guess, it's because of something you did in the past - doublecross, failure, back-talking, sleeping with a nobleman's daughter? It all runs together that you try and think about it. What's important now is that this wedge between you two will not be easily healed. You best be wary of %faction%'s men for a little while.}"
-msgstr "[img]gfx/ui/events/event_22.png[/img]{你在你腿上抹去了剑上的血并收回鞘内。 伏击者死了，扭曲成这样那样的姿势。%randombrother% 走过来问你现在怎么办。 看起来 %faction% 不会是最友善的人了。 | 你将伏击者的尸体从你剑上踹开。 看起来 %faction% 现在起不会是最友善的人了。 也许下一次，当我同意为这些人做点什么的时候，我真的做到了。 | 好吧，非常明显，这里学到的是不要接一个你完成不了的活。 这块土地上的人们对那些不守承诺的人可真不怎么友好… | 你背叛了 %faction%，但是不要在这事上钻牛角尖。 他们也背叛了你，这才是最重要的！ 未来，你最好注意着点他们和任何带着他们旗帜的人。 | %employer%，从你脚下的士兵尸体判断，看来不再喜欢你了。 如果你要猜的话，这是因为你以前做了些什么－失败，背叛，背后说坏话，睡了一个贵族的女儿？ 这些全部都被你回想起来寻思着。 重要的是你们两个之间的裂缝不会轻易修复了。 你最好看着点 %faction%的人一段时间。}"
+# scripts/contracts/contracts/hunting_schrats_contract.nut
+# scripts/contracts/contracts/deliver_item_contract.nut
+# scripts/contracts/contracts/hunting_sand_golems_contract.nut
+msgid "It's done."
+msgstr "完成了。"
 
 # scripts/contracts/contracts/destroy_goblin_camp_contract.nut
 # scripts/contracts/contracts/investigate_cemetery_contract.nut
 # scripts/contracts/contracts/destroy_orc_camp_contract.nut
 msgid "Time to collect our pay."
 msgstr "是时候领工钱了。"
+
+# scripts/contracts/contracts/raze_attached_location_contract.nut
+# scripts/contracts/contracts/destroy_goblin_camp_contract.nut
+# scripts/contracts/contracts/destroy_orc_camp_contract.nut
+msgid "[img]gfx/ui/events/event_22.png[/img]{You wipe your sword on your pant leg and quickly sheathe it. The ambushers lay dead, skewered into this grotesque pose or that one. %randombrother% walks up and inquires what to do now. It appears that %faction% isn't going to be on the friendliest of terms. | You kick the dead body of an ambusher off the end of your sword. It appears %faction% isn't going to be on the friendliest of terms from now on. Maybe next time, when I agree to do something for these people, I actually do it. | Well, if nothing else, what can be learned from this is to not agree to a task you can't complete. The people of these land are not particularly friendly to those who fall short of their promises... | You betrayed %faction%, but that's not something to dwell on. They betrayed you, that's what is important now! And going into the future, you best be suspicious of them and anyone who flies their banner. | %employer%, judging by the dead bannermen at your feet, appears to no longer be happy with you. If you were to guess, it's because of something you did in the past - doublecross, failure, back-talking, sleeping with a nobleman's daughter? It all runs together that you try and think about it. What's important now is that this wedge between you two will not be easily healed. You best be wary of %faction%'s men for a little while.}"
+msgstr "[img]gfx/ui/events/event_22.png[/img]{你在你腿上抹去了剑上的血并收回鞘内。 伏击者死了，扭曲成这样那样的姿势。%randombrother% 走过来问你现在怎么办。 看起来 %faction% 不会是最友善的人了。 | 你将伏击者的尸体从你剑上踹开。 看起来 %faction% 现在起不会是最友善的人了。 也许下一次，当我同意为这些人做点什么的时候，我真的做到了。 | 好吧，非常明显，这里学到的是不要接一个你完成不了的活。 这块土地上的人们对那些不守承诺的人可真不怎么友好… | 你背叛了 %faction%，但是不要在这事上钻牛角尖。 他们也背叛了你，这才是最重要的！ 未来，你最好注意着点他们和任何带着他们旗帜的人。 | %employer%，从你脚下的士兵尸体判断，看来不再喜欢你了。 如果你要猜的话，这是因为你以前做了些什么－失败，背叛，背后说坏话，睡了一个贵族的女儿？ 这些全部都被你回想起来寻思着。 重要的是你们两个之间的裂缝不会轻易修复了。 你最好看着点 %faction%的人一段时间。}"
 
 # scripts/contracts/contracts/drive_away_bandits_contract.nut
 # scripts/contracts/contracts/drive_away_barbarians_contract.nut
@@ -746,18 +746,6 @@ msgstr "{不感兴趣。 | 我们有更重要的事情要做。 | 我祝你好�
 # scripts/contracts/contracts/roaming_beasts_contract.nut
 msgid "Prepare the attack!"
 msgstr "准备进攻！"
-
-# scripts/contracts/contracts/patrol_contract.nut
-# scripts/contracts/contracts/escort_caravan_contract.nut
-# scripts/contracts/contracts/marauding_greenskins_contract.nut
-msgid "A band of menacing orcs, greenskinned and towering any man."
-msgstr "一群凶残的兽人，绿皮肤，高耸于任何人之上。"
-
-# scripts/contracts/contracts/patrol_contract.nut
-# scripts/contracts/contracts/escort_caravan_contract.nut
-# scripts/contracts/contracts/marauding_greenskins_contract.nut
-msgid "A band of mischievous goblins, small but cunning and not to be underestimated."
-msgstr "一群淘气的哥布林，小而狡猾，不可低估。"
 
 # scripts/contracts/contracts/escort_caravan_contract.nut
 # scripts/contracts/contracts/escort_envoy_contract.nut
@@ -777,17 +765,23 @@ msgstr "兽人收割者"
 msgid "Goblin Raiders"
 msgstr ""
 
+# scripts/contracts/contracts/patrol_contract.nut
+# scripts/contracts/contracts/escort_caravan_contract.nut
+# scripts/contracts/contracts/marauding_greenskins_contract.nut
+msgid "A band of menacing orcs, greenskinned and towering any man."
+msgstr "一群凶残的兽人，绿皮肤，高耸于任何人之上。"
+
+# scripts/contracts/contracts/patrol_contract.nut
+# scripts/contracts/contracts/escort_caravan_contract.nut
+# scripts/contracts/contracts/marauding_greenskins_contract.nut
+msgid "A band of mischievous goblins, small but cunning and not to be underestimated."
+msgstr "一群淘气的哥布林，小而狡猾，不可低估。"
+
 # scripts/contracts/contracts/free_greenskin_prisoners_contract.nut
 # scripts/contracts/contracts/find_artifact_contract.nut
 # scripts/contracts/contracts/hunting_unholds_contract.nut
 msgid " suffers "
 msgstr " 遭受 "
-
-# scripts/contracts/contracts/last_stand_contract.nut
-# scripts/contracts/contracts/roaming_beasts_desert_contract.nut
-# scripts/contracts/contracts/roaming_beasts_contract.nut
-msgid "A flock of scavenging nachzehrers."
-msgstr "一群寻觅的食尸鬼"
 
 # scripts/contracts/contracts/siege_fortification_contract.nut
 # scripts/contracts/contracts/last_stand_contract.nut
@@ -800,6 +794,12 @@ msgstr "在 %objective%…"
 # scripts/contracts/contracts/roaming_beasts_contract.nut
 msgid "Nachzehrers"
 msgstr "食屍鬼"
+
+# scripts/contracts/contracts/last_stand_contract.nut
+# scripts/contracts/contracts/roaming_beasts_desert_contract.nut
+# scripts/contracts/contracts/roaming_beasts_contract.nut
+msgid "A flock of scavenging nachzehrers."
+msgstr "一群寻觅的食尸鬼"
 
 # scripts/contracts/contracts/patrol_contract.nut
 # scripts/contracts/contracts/return_item_contract.nut
@@ -884,20 +884,20 @@ msgstr "[img]gfx/ui/events/event_155.png[/img]{As you wait your turn, the crowd'
 msgid "Get "
 msgstr "给我"
 
-# scripts/contracts/contracts/last_stand_contract.nut
+# scripts/contracts/contracts/break_greenskin_siege_contract.nut
 # scripts/contracts/contracts/barbarian_king_contract.nut
-msgid "A legion of walking dead, back to claim from the living what was once theirs."
-msgstr "一大群行尸，向活着的人索取曾经属于他们的东西。"
+msgid "Company broke a contract"
+msgstr "战队撕毁了合同"
 
 # scripts/contracts/contracts/confront_warlord_contract.nut
 # scripts/contracts/contracts/barbarian_king_contract.nut
 msgid "{The %companyname% prevailed! | Victory!}"
 msgstr "{%companyname% 获胜了！ | 胜利！}"
 
-# scripts/contracts/contracts/break_greenskin_siege_contract.nut
+# scripts/contracts/contracts/last_stand_contract.nut
 # scripts/contracts/contracts/barbarian_king_contract.nut
-msgid "Company broke a contract"
-msgstr "战队撕毁了合同"
+msgid "A legion of walking dead, back to claim from the living what was once theirs."
+msgstr "一大群行尸，向活着的人索取曾经属于他们的东西。"
 
 # scripts/contracts/contracts/free_greenskin_prisoners_contract.nut
 # scripts/contracts/contracts/break_greenskin_siege_contract.nut
@@ -984,11 +984,6 @@ msgstr "{I trust you'll pay amply for an assault like this. | We're ready to do 
 msgid "[img]gfx/ui/events/%illustration%.png[/img]{%holysite%'s defenders have received reinforcements! Thankfully, there is a silver lining: the additional arms has given them the confidence to leave the natural defenses of the holy site and to approach you in the open field. | You're surprised to see the defenders leaving %holysite% and trekking across the open field. A quick scouting report relays that they received reinforcements sometime in the past few days and are emboldened by numbers alone. On one hand, their deep ranks are a bit unsettling, but on the other hand facing them on even ground will be much easier. Though by your honest estimation it is their mistake to face the %companyname% at all.}"
 msgstr ""
 
-# scripts/contracts/contracts/siege_fortification_contract.nut
-# scripts/contracts/contracts/decisive_battle_contract.nut
-msgid "A caravan with armed escorts transporting provisions, supplies and equipment between settlements."
-msgstr "一个带有武装护卫的商队，在定居点之间运输着值得保护的东西。"
-
 # scripts/contracts/contracts/find_artifact_contract.nut
 # scripts/contracts/contracts/decisive_battle_contract.nut
 msgid "You made the right decision."
@@ -998,6 +993,11 @@ msgstr "你做了正确的决定。"
 # scripts/contracts/contracts/decisive_battle_contract.nut
 msgid "Supply Caravan"
 msgstr "供应商队"
+
+# scripts/contracts/contracts/siege_fortification_contract.nut
+# scripts/contracts/contracts/decisive_battle_contract.nut
+msgid "A caravan with armed escorts transporting provisions, supplies and equipment between settlements."
+msgstr "一个带有武装护卫的商队，在定居点之间运输着值得保护的东西。"
 
 # scripts/contracts/contracts/defend_holy_site_contract.nut
 # scripts/contracts/contracts/defend_holy_site_southern_contract.nut
@@ -1254,11 +1254,6 @@ msgstr ""
 msgid "{Not interested. | Our travels will not take us there for a while. | This is not the kind of work we're looking for.}"
 msgstr "{不感兴趣。 | Our travels will not take us there for a while. | 这不是我们要找的工作。}"
 
-# scripts/contracts/contracts/escort_envoy_contract.nut
-# scripts/contracts/contracts/deliver_item_contract.nut
-msgid "Mercs"
-msgstr ""
-
 # scripts/contracts/contracts/escort_caravan_contract.nut
 # scripts/contracts/contracts/deliver_item_contract.nut
 msgid "a day"
@@ -1268,6 +1263,11 @@ msgstr "1天"
 # scripts/contracts/contracts/deliver_item_contract.nut
 msgid "During camp..."
 msgstr "露营时…"
+
+# scripts/contracts/contracts/escort_envoy_contract.nut
+# scripts/contracts/contracts/deliver_item_contract.nut
+msgid "Mercs"
+msgstr ""
 
 # scripts/contracts/contracts/destroy_goblin_camp_contract.nut
 # scripts/contracts/contracts/destroy_orc_camp_contract.nut
@@ -1284,6 +1284,11 @@ msgstr ""
 msgid "So much for getting paid..."
 msgstr ""
 
+# scripts/contracts/contracts/free_greenskin_prisoners_contract.nut
+# scripts/contracts/contracts/destroy_orc_camp_contract.nut
+msgid "the Survivor"
+msgstr ""
+
 # scripts/contracts/contracts/hunting_webknechts_contract.nut
 # scripts/contracts/contracts/destroy_orc_camp_contract.nut
 msgid "Welcome to the company!"
@@ -1293,11 +1298,6 @@ msgstr "欢迎加入 company！"
 # scripts/contracts/contracts/destroy_orc_camp_contract.nut
 msgid "You'll have to find your luck elsewhere."
 msgstr "你得到别处去碰碰运气了。"
-
-# scripts/contracts/contracts/free_greenskin_prisoners_contract.nut
-# scripts/contracts/contracts/destroy_orc_camp_contract.nut
-msgid "the Survivor"
-msgstr ""
 
 # scripts/contracts/contracts/obtain_item_contract.nut
 # scripts/contracts/contracts/discover_location_contract.nut
@@ -1321,26 +1321,6 @@ msgstr "临近 %townname%…"
 
 # scripts/contracts/contracts/patrol_contract.nut
 # scripts/contracts/contracts/escort_caravan_contract.nut
-msgid "A warband of barbarian tribals."
-msgstr "一支野蛮部落的战斗队。"
-
-# scripts/contracts/contracts/patrol_contract.nut
-# scripts/contracts/contracts/escort_caravan_contract.nut
-msgid "A rough and tough band of brigands preying on the weak."
-msgstr "一支粗暴而强悍的强盗队伍在捕食弱者。"
-
-# scripts/contracts/contracts/patrol_contract.nut
-# scripts/contracts/contracts/escort_caravan_contract.nut
-msgid "A band of desert raiders preying on anyone trying to cross the seas of sand."
-msgstr "一群沙漠掠夺者捕食任何试图穿越沙海的人。"
-
-# scripts/contracts/contracts/escort_caravan_contract.nut
-# scripts/contracts/contracts/restore_location_contract.nut
-msgid "Darn it!"
-msgstr "该死！"
-
-# scripts/contracts/contracts/patrol_contract.nut
-# scripts/contracts/contracts/escort_caravan_contract.nut
 msgid "Nomads"
 msgstr "游牧民族"
 
@@ -1359,6 +1339,26 @@ msgstr "野蛮人"
 msgid "no enemy base found"
 msgstr "没有找到敌人的基地"
 
+# scripts/contracts/contracts/patrol_contract.nut
+# scripts/contracts/contracts/escort_caravan_contract.nut
+msgid "A warband of barbarian tribals."
+msgstr "一支野蛮部落的战斗队。"
+
+# scripts/contracts/contracts/patrol_contract.nut
+# scripts/contracts/contracts/escort_caravan_contract.nut
+msgid "A rough and tough band of brigands preying on the weak."
+msgstr "一支粗暴而强悍的强盗队伍在捕食弱者。"
+
+# scripts/contracts/contracts/patrol_contract.nut
+# scripts/contracts/contracts/escort_caravan_contract.nut
+msgid "A band of desert raiders preying on anyone trying to cross the seas of sand."
+msgstr "一群沙漠掠夺者捕食任何试图穿越沙海的人。"
+
+# scripts/contracts/contracts/escort_caravan_contract.nut
+# scripts/contracts/contracts/restore_location_contract.nut
+msgid "Darn it!"
+msgstr "该死！"
+
 # scripts/contracts/contracts/escort_envoy_contract.nut
 # scripts/contracts/contracts/raid_caravan_contract.nut
 msgid "Crowns well earned."
@@ -1374,6 +1374,11 @@ msgstr "在战争中改变了立场"
 msgid "Watch where you step."
 msgstr "注意脚下。"
 
+# scripts/contracts/contracts/hunting_webknechts_contract.nut
+# scripts/contracts/contracts/hunting_serpents_contract.nut
+msgid "Keep your eyes peeled."
+msgstr "睁大眼睛。"
+
 # scripts/contracts/contracts/roaming_beasts_desert_contract.nut
 # scripts/contracts/contracts/hunting_serpents_contract.nut
 msgid "Serpents"
@@ -1383,11 +1388,6 @@ msgstr "蛇"
 # scripts/contracts/contracts/hunting_serpents_contract.nut
 msgid "Giant serpents slithering about."
 msgstr "巨大的大蛇在游荡。"
-
-# scripts/contracts/contracts/hunting_webknechts_contract.nut
-# scripts/contracts/contracts/hunting_serpents_contract.nut
-msgid "Keep your eyes peeled."
-msgstr "睁大眼睛。"
 
 # scripts/contracts/contracts/hunting_webknechts_contract.nut
 # scripts/contracts/contracts/roaming_beasts_contract.nut

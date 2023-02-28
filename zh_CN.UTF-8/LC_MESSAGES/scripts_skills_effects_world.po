@@ -44,7 +44,7 @@ msgstr "害怕"
 
 # scripts/skills/effects_world/afraid_effect.nut
 msgid "]-50%[/color] Resolve"
-msgstr ""
+msgstr "]-50%[/color] 决心"
 
 # scripts/skills/effects_world/afraid_effect.nut
 msgid "Is content with being in reserve"
@@ -64,7 +64,7 @@ msgstr ""
 
 # scripts/skills/effects_world/drunk_effect.nut
 msgid "]+25%[/color] Resolve"
-msgstr ""
+msgstr "]+25%[/color] 决心"
 
 # scripts/skills/effects_world/drunk_effect.nut
 msgid "]-25%[/color] Initiative"
@@ -112,7 +112,7 @@ msgstr "宿醉"
 
 # scripts/skills/effects_world/hangover_effect.nut
 msgid "]-10%[/color] Resolve"
-msgstr ""
+msgstr "]-10%[/color] 决心"
 
 # scripts/skills/effects_world/hangover_effect.nut
 msgid "]-10%[/color] Initiative"

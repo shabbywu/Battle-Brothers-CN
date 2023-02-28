@@ -217,12 +217,12 @@ msgstr " 治疗生命值 "
 # scripts/skills/effects/overwhelmed_effect.nut
 # scripts/skills/effects/shellshocked_effect.nut
 msgid "%[/color] Melee Skill"
-msgstr ""
+msgstr "%[/color] 近战技能"
 
 # scripts/skills/effects/overwhelmed_effect.nut
 # scripts/skills/effects/shellshocked_effect.nut
 msgid "%[/color] Ranged Skill"
-msgstr ""
+msgstr "%[/color] 远程技能"
 
 # scripts/skills/effects/poison_coat_effect.nut
 # scripts/skills/effects/spider_poison_coat_effect.nut
@@ -865,7 +865,7 @@ msgstr ""
 
 # scripts/skills/effects/lone_wolf_effect.nut
 msgid "]+15%[/color] Resolve"
-msgstr ""
+msgstr "]+15%[/color] 决心"
 
 # scripts/skills/effects/lone_wolf_effect.nut
 msgid "]+15%[/color] Melee Skill"
@@ -1428,11 +1428,11 @@ msgstr " 回合。"
 
 # scripts/skills/effects/whipped_effect.nut
 msgid "[/color] Melee Skill"
-msgstr ""
+msgstr "[/color] 近战技能"
 
 # scripts/skills/effects/whipped_effect.nut
 msgid "[/color] Ranged Skill"
-msgstr ""
+msgstr "[/color] 远程技能"
 
 # scripts/skills/effects/whipped_effect.nut
 msgid "This character just received a hurtful reminder of what they need to do for their masters. It will last for another "

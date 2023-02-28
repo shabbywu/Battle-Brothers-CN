@@ -310,14 +310,14 @@ msgstr ""
 msgid "Grafenschanze"
 msgstr ""
 
-# scripts/entity/world/settlements/large_lumber_village.nut
-# scripts/entity/world/settlements/large_farming_village.nut
-msgid "Hageland"
-msgstr ""
-
 # scripts/entity/world/settlements/large_farming_village.nut
 # scripts/entity/world/settlements/large_fishing_village.nut
 msgid "Weissenstadt"
+msgstr ""
+
+# scripts/entity/world/settlements/large_lumber_village.nut
+# scripts/entity/world/settlements/large_farming_village.nut
+msgid "Hageland"
 msgstr ""
 
 # scripts/entity/world/settlements/large_lumber_village.nut
@@ -550,14 +550,14 @@ msgstr ""
 msgid "Brammingsted"
 msgstr ""
 
-# scripts/entity/world/settlements/medium_farm_fort.nut
-# scripts/entity/world/settlements/medium_mountains_fort.nut
-msgid "Thalburg"
-msgstr ""
-
 # scripts/entity/world/settlements/medium_forest_fort.nut
 # scripts/entity/world/settlements/medium_farm_fort.nut
 msgid "Haselburg"
+msgstr ""
+
+# scripts/entity/world/settlements/medium_farm_fort.nut
+# scripts/entity/world/settlements/medium_mountains_fort.nut
+msgid "Thalburg"
 msgstr ""
 
 # scripts/entity/world/settlements/medium_farm_fort.nut
@@ -716,13 +716,13 @@ msgid "Weissenhaus"
 msgstr ""
 
 # scripts/entity/world/settlements/medium_forest_fort.nut
-# scripts/entity/world/settlements/medium_swamp_fort.nut
-msgid "Moosburg"
+# scripts/entity/world/settlements/medium_steppe_fort.nut
+msgid "Dornburg"
 msgstr ""
 
 # scripts/entity/world/settlements/medium_forest_fort.nut
-# scripts/entity/world/settlements/medium_steppe_fort.nut
-msgid "Dornburg"
+# scripts/entity/world/settlements/medium_swamp_fort.nut
+msgid "Moosburg"
 msgstr ""
 
 # scripts/entity/world/settlements/medium_forest_fort.nut
@@ -1310,14 +1310,14 @@ msgstr ""
 msgid "pelts"
 msgstr ""
 
-# scripts/entity/world/settlements/small_steppe_fort.nut
-# scripts/entity/world/settlements/small_coast_fort.nut
-msgid "Sandwacht"
-msgstr ""
-
 # scripts/entity/world/settlements/small_mountains_fort.nut
 # scripts/entity/world/settlements/small_coast_fort.nut
 msgid "Windwacht"
+msgstr ""
+
+# scripts/entity/world/settlements/small_steppe_fort.nut
+# scripts/entity/world/settlements/small_coast_fort.nut
+msgid "Sandwacht"
 msgstr ""
 
 # scripts/entity/world/settlements/small_mountains_fort.nut

@@ -244,14 +244,14 @@ msgstr ""
 msgid "the Mountain"
 msgstr ""
 
-# scripts/skills/traits/tough_trait.nut
-# scripts/skills/traits/fat_trait.nut
-msgid "]+10[/color] Hitpoints"
-msgstr ""
-
 # scripts/skills/traits/old_trait.nut
 # scripts/skills/traits/fat_trait.nut
 msgid "]-10[/color] Max Fatigue"
+msgstr ""
+
+# scripts/skills/traits/tough_trait.nut
+# scripts/skills/traits/fat_trait.nut
+msgid "]+10[/color] Hitpoints"
 msgstr ""
 
 # scripts/skills/traits/old_trait.nut
@@ -295,7 +295,7 @@ msgstr "上瘾"
 
 # scripts/skills/traits/addict_trait.nut
 msgid "]-10%[/color] Resolve"
-msgstr ""
+msgstr "]-10%[/color] 决心"
 
 # scripts/skills/traits/addict_trait.nut
 msgid "]-10%[/color] Melee Skill"
@@ -1103,7 +1103,7 @@ msgstr ""
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
 msgid "]+10[/color] Melee Skill when fighting beasts"
-msgstr ""
+msgstr "]+10[/color] 近战技能 when fighting beasts"
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
 msgid "]-10[/color] Resolve when not fighting beasts"
@@ -1111,15 +1111,15 @@ msgstr ""
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
 msgid "]+10[/color] Ranged Skill when fighting beasts"
-msgstr ""
+msgstr "]+10[/color] 远程技能 when fighting beasts"
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
 msgid "]-5[/color] Melee Skill when not fighting beasts"
-msgstr ""
+msgstr "]-5[/color] 近战技能 when not fighting beasts"
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
 msgid "]-5[/color] Ranged Skill when not fighting beasts"
-msgstr ""
+msgstr "]-5[/color] 远程技能 when not fighting beasts"
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
 msgid "This character has taken an Oath of Dominion, and is sworn to protect mankind from the savagery of wild beasts."
@@ -1207,7 +1207,7 @@ msgstr ""
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]+10[/color] Melee Skill when fighting undead"
-msgstr ""
+msgstr "]+10[/color] 近战技能 when fighting undead"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]-10[/color] Resolve when not fighting undead"
@@ -1215,7 +1215,7 @@ msgstr ""
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]+10[/color] Ranged Skill when fighting undead"
-msgstr ""
+msgstr "]+10[/color] 远程技能 when fighting undead"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]+5[/color] Melee Defense when fighting undead"
@@ -1227,11 +1227,11 @@ msgstr ""
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]-5[/color] Melee Skill when not fighting undead"
-msgstr ""
+msgstr "]-5[/color] 近战技能 when not fighting undead"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]-5[/color] Ranged Skill when not fighting undead"
-msgstr ""
+msgstr "]-5[/color] 远程技能 when not fighting undead"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]-5[/color] Melee Defense when not fighting undead"
@@ -1283,7 +1283,7 @@ msgstr ""
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]+10[/color] Melee Skill when fighting greenskins"
-msgstr ""
+msgstr "]+10[/color] 近战技能 when fighting greenskins"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]-10[/color] Resolve when not fighting greenskins"
@@ -1291,7 +1291,7 @@ msgstr ""
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]+10[/color] Ranged Skill when fighting greenskins"
-msgstr ""
+msgstr "]+10[/color] 远程技能 when fighting greenskins"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]+5[/color] Melee Defense when fighting greenskins"
@@ -1303,11 +1303,11 @@ msgstr ""
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]-5[/color] Melee Skill when not fighting greenskins"
-msgstr ""
+msgstr "]-5[/color] 近战技能 when not fighting greenskins"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]-5[/color] Ranged Skill when not fighting greenskins"
-msgstr ""
+msgstr "]-5[/color] 远程技能 when not fighting greenskins"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]-5[/color] Melee Defense when not fighting greenskins"

@@ -522,17 +522,17 @@ msgstr "刺伤"
 msgid "%[/color] chance to hit"
 msgstr "%[/color] 命中几率"
 
-# scripts/skills/actives/shoot_stake.nut
-# scripts/skills/actives/fire_handgonne_skill.nut
-# scripts/skills/actives/shoot_bolt.nut
-msgid "]Must be reloaded before firing again[/color]"
-msgstr "]必须重新装填才能再次发射[/color]"
-
 # scripts/skills/actives/thresh.nut
 # scripts/skills/actives/round_swing.nut
 # scripts/skills/actives/fire_handgonne_skill.nut
 msgid "Can hit up to 6 targets"
 msgstr "最多可以击中 6 个目标"
+
+# scripts/skills/actives/shoot_stake.nut
+# scripts/skills/actives/fire_handgonne_skill.nut
+# scripts/skills/actives/shoot_bolt.nut
+msgid "]Must be reloaded before firing again[/color]"
+msgstr "]必须重新装填才能再次发射[/color]"
 
 # scripts/skills/actives/footwork.nut
 # scripts/skills/actives/lunge_skill.nut
@@ -661,14 +661,14 @@ msgid "Using the weapon to batter, deform, rip and otherwise render the target's
 msgstr "使用武器打击、变形、撕开或以其他方式使目标的盔甲无法使用，效果非常好。 尽管最厚的盔甲也能感受到冲击力，但它不会对穿戴者造成最严重的伤害。"
 
 # scripts/skills/actives/cudgel_skill.nut
-# scripts/skills/actives/strike_down_skill.nut
-msgid "Cudgeled to death"
-msgstr "重棒打死"
-
-# scripts/skills/actives/cudgel_skill.nut
 # scripts/skills/actives/sling_stone_skill.nut
 msgid " dazed"
 msgstr ""
+
+# scripts/skills/actives/cudgel_skill.nut
+# scripts/skills/actives/strike_down_skill.nut
+msgid "Cudgeled to death"
+msgstr "重棒打死"
 
 # scripts/skills/actives/fire_handgonne_skill.nut
 # scripts/skills/actives/reload_handgonne_skill.nut
