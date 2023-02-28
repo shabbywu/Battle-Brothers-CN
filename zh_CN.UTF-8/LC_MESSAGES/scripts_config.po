@@ -38,11 +38,6 @@ msgstr "碎颅者"
 msgid "of the North"
 msgstr "·北方"
 
-# scripts/config/character_names.nut
-# scripts/config/world_location_names.nut
-msgid "Hagen"
-msgstr "哈根"
-
 # scripts/config/strings.nut
 # scripts/config/character_names.nut
 msgid "Bertha"
@@ -62,6 +57,11 @@ msgstr "布伦希尔德"
 # scripts/config/character_names.nut
 msgid "Mathilda"
 msgstr "玛蒂尔达"
+
+# scripts/config/character_names.nut
+# scripts/config/world_location_names.nut
+msgid "Hagen"
+msgstr "哈根"
 
 # scripts/config/strings.nut
 # scripts/config/item_names.nut

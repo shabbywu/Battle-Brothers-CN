@@ -100,15 +100,15 @@ msgstr "士气检查"
 
 # scripts/skills/special/morale_check.nut
 msgid "]-10%[/color] Resolve"
-msgstr ""
+msgstr "]-10%[/color] 决心"
 
 # scripts/skills/special/morale_check.nut
 msgid "]-20%[/color] Resolve"
-msgstr ""
+msgstr "]-20%[/color] 决心"
 
 # scripts/skills/special/morale_check.nut
 msgid "]-30%[/color] Resolve"
-msgstr ""
+msgstr "]-30%[/color] 决心"
 
 # scripts/skills/special/morale_check.nut
 msgid "]+10%[/color] Melee Skill"

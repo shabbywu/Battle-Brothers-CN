@@ -60,15 +60,6 @@ msgid "Along the road..."
 msgstr "在路上…"
 
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
-# scripts/events/events/dlc2/kid_blacksmith_event.nut
-# scripts/events/events/dlc2/oracle_event.nut
-# scripts/events/events/dlc2/march_wear_and_tear_event.nut
-# scripts/events/events/dlc2/corpses_in_forest_event.nut
-# scripts/events/events/dlc2/nightowl_catches_thief_event.nut
-msgid "You gain [color="
-msgstr "你获得了 [color="
-
-# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 # scripts/events/events/dlc2/spooky_forest_event.nut
 # scripts/events/events/dlc2/dog_in_swamp_event.nut
 # scripts/events/events/dlc2/oracle_event.nut
@@ -76,6 +67,15 @@ msgstr "你获得了 [color="
 # scripts/events/events/dlc2/march_wear_and_tear_event.nut
 msgid " suffers light wounds"
 msgstr " 遭受轻伤"
+
+# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
+# scripts/events/events/dlc2/kid_blacksmith_event.nut
+# scripts/events/events/dlc2/oracle_event.nut
+# scripts/events/events/dlc2/march_wear_and_tear_event.nut
+# scripts/events/events/dlc2/corpses_in_forest_event.nut
+# scripts/events/events/dlc2/nightowl_catches_thief_event.nut
+msgid "You gain [color="
+msgstr "你获得了 [color="
 
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
@@ -100,16 +100,16 @@ msgid " gains [color="
 msgstr " 获得了 [color="
 
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
-# scripts/events/events/dlc2/treasure_in_rock_event.nut
-# scripts/events/events/dlc2/march_wear_and_tear_event.nut
-msgid "You lose [color="
-msgstr "你失去了 [color="
-
-# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 # scripts/events/events/dlc2/oracle_event.nut
 # scripts/events/events/dlc2/corpses_in_forest_event.nut
 msgid "Let's get back on the road."
 msgstr "让我们回到路上."
+
+# scripts/events/events/dlc2/alp_captured_in_hole_event.nut
+# scripts/events/events/dlc2/treasure_in_rock_event.nut
+# scripts/events/events/dlc2/march_wear_and_tear_event.nut
+msgid "You lose [color="
+msgstr "你失去了 [color="
 
 # scripts/events/events/dlc2/fear_greenskins_event.nut
 # scripts/events/events/dlc2/fear_beasts_event.nut

@@ -91,14 +91,14 @@ msgid "Elixir of Perseverance"
 msgstr "稳固药剂"
 
 # scripts/items/misc/anatomist/geist_potion_item.nut
-# scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid "Deadman's Drink"
-msgstr "不死人药剂"
-
-# scripts/items/misc/anatomist/geist_potion_item.nut
 # scripts/items/misc/anatomist/goblin_overseer_potion_item.nut
 msgid "An additional [color="
 msgstr ""
+
+# scripts/items/misc/anatomist/geist_potion_item.nut
+# scripts/items/misc/anatomist/research_notes_undead_item.nut
+msgid "Deadman's Drink"
+msgstr "不死人药剂"
 
 # scripts/items/misc/anatomist/research_notes_greenskins_item.nut
 # scripts/items/misc/anatomist/goblin_grunt_potion_item.nut
@@ -191,14 +191,14 @@ msgid "Knife Edge Potion"
 msgstr "复仇刀锋灵药"
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
+# scripts/items/misc/anatomist/schrat_potion_item.nut
+msgid "Draught of Godtree Roots"
+msgstr "神树根须药剂"
+
+# scripts/items/misc/anatomist/research_notes_beasts_item.nut
 # scripts/items/misc/anatomist/serpent_potion_item.nut
 msgid "Quickfang Potion"
 msgstr "迅牙药剂"
-
-# scripts/items/misc/anatomist/research_notes_beasts_item.nut
-# scripts/items/misc/anatomist/webknecht_potion_item.nut
-msgid "Venomblood Potion"
-msgstr "毒血药剂"
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 # scripts/items/misc/anatomist/unhold_potion_item.nut
@@ -206,19 +206,19 @@ msgid "Fool's Treasure Potion"
 msgstr "愚者宝藏药剂"
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
-# scripts/items/misc/anatomist/schrat_potion_item.nut
-msgid "Draught of Godtree Roots"
-msgstr "神树根须药剂"
-
-# scripts/items/misc/anatomist/wiederganger_potion_item.nut
-# scripts/items/misc/anatomist/research_notes_undead_item.nut
-msgid "Potion of Leather Skin"
-msgstr "厚皮药剂"
+# scripts/items/misc/anatomist/webknecht_potion_item.nut
+msgid "Venomblood Potion"
+msgstr "毒血药剂"
 
 # scripts/items/misc/anatomist/skeleton_warrior_potion_item.nut
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Potion of the Sleepless"
 msgstr "不眠药剂"
+
+# scripts/items/misc/anatomist/wiederganger_potion_item.nut
+# scripts/items/misc/anatomist/research_notes_undead_item.nut
+msgid "Potion of Leather Skin"
+msgstr "厚皮药剂"
 
 # scripts/items/misc/anatomist/alp_potion_item.nut
 msgid "Not affected by nighttime penalties"

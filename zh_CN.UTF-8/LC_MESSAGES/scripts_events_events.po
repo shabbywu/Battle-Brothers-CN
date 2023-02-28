@@ -444,7 +444,7 @@ msgstr ""
 # scripts/events/events/brawler_teaches_event.nut
 # scripts/events/events/apprentice_learns_event.nut
 msgid "[/color] Melee Skill"
-msgstr ""
+msgstr "[/color] 近战技能"
 
 # scripts/events/events/childrens_crusade_event.nut
 # scripts/events/events/disowned_noble_reminisces_event.nut
@@ -634,6 +634,11 @@ msgstr "在山上…"
 msgid "Welcome to the company."
 msgstr "欢迎加入战队。"
 
+# scripts/events/events/apprentice_learns_event.nut
+# scripts/events/events/cow_tipping_event.nut
+msgid "Well done!"
+msgstr "很出色！"
+
 # scripts/events/events/swordmaster_teaches_event.nut
 # scripts/events/events/apprentice_learns_event.nut
 msgid "Has taught "
@@ -644,20 +649,15 @@ msgstr ""
 msgid "Learned from "
 msgstr "学习 "
 
-# scripts/events/events/apprentice_learns_event.nut
-# scripts/events/events/cow_tipping_event.nut
-msgid "Well done!"
-msgstr "很出色！"
+# scripts/events/events/jousting_tournament_event.nut
+# scripts/events/events/archery_stunt_event.nut
+msgid "Ohh!"
+msgstr "噢！"
 
 # scripts/events/events/shortsighted_shoots_bro_event.nut
 # scripts/events/events/archery_stunt_event.nut
 msgid " by accident"
 msgstr ""
-
-# scripts/events/events/jousting_tournament_event.nut
-# scripts/events/events/archery_stunt_event.nut
-msgid "Ohh!"
-msgstr "噢！"
 
 # scripts/events/events/bad_curse_event.nut
 # scripts/events/events/bad_omen_event.nut
@@ -704,11 +704,6 @@ msgstr "他不再需要那东西了。"
 msgid "What's this?"
 msgstr "这是什么？"
 
-# scripts/events/events/strength_contest_event.nut
-# scripts/events/events/cow_tipping_event.nut
-msgid "]+1[/color] Max Fatigue"
-msgstr ""
-
 # scripts/events/events/how_far_is_the_sun_event.nut
 # scripts/events/events/cow_tipping_event.nut
 msgid "Entertained by "
@@ -719,15 +714,20 @@ msgstr ""
 msgid "What a show!"
 msgstr "好一场表演！"
 
-# scripts/events/events/creepy_guy_event.nut
-# scripts/events/events/rookie_gets_hurt_event.nut
-msgid "]+3[/color] Resolve"
+# scripts/events/events/strength_contest_event.nut
+# scripts/events/events/cow_tipping_event.nut
+msgid "]+1[/color] Max Fatigue"
 msgstr ""
 
 # scripts/events/events/creepy_guy_event.nut
 # scripts/events/events/imprisoned_wildman_event.nut
 msgid "]250[/color] Crowns"
 msgstr "]250[/color] 克朗"
+
+# scripts/events/events/creepy_guy_event.nut
+# scripts/events/events/rookie_gets_hurt_event.nut
+msgid "]+3[/color] Resolve"
+msgstr ""
 
 # scripts/events/events/cultist_vs_uneducated_event.nut
 # scripts/events/events/cultist_vs_old_gods_event.nut
@@ -780,14 +780,14 @@ msgid "[/color] Medical Supplies"
 msgstr ""
 
 # scripts/events/events/imprisoned_wildman_event.nut
-# scripts/events/events/wildman_causes_havoc_event.nut
-msgid "This ain't our problem."
-msgstr "这不是我们自己的问题。"
-
-# scripts/events/events/imprisoned_wildman_event.nut
 # scripts/events/events/raid_farmstead_event.nut
 msgid "You gain a "
 msgstr "你获得了一个 "
+
+# scripts/events/events/imprisoned_wildman_event.nut
+# scripts/events/events/wildman_causes_havoc_event.nut
+msgid "This ain't our problem."
+msgstr "这不是我们自己的问题。"
 
 # scripts/events/events/inadvertently_save_merchant_event.nut
 # scripts/events/events/player_plays_dice_event.nut
@@ -816,6 +816,11 @@ msgstr "该死的地方！"
 
 # scripts/events/events/player_is_rich_event.nut
 # scripts/events/events/noble_more_pay_lowborn_event.nut
+msgid " gets greedy"
+msgstr " 变得贪婪"
+
+# scripts/events/events/player_is_rich_event.nut
+# scripts/events/events/noble_more_pay_lowborn_event.nut
 msgid "Got a pay raise"
 msgstr "得到加薪"
 
@@ -823,11 +828,6 @@ msgstr "得到加薪"
 # scripts/events/events/noble_more_pay_lowborn_event.nut
 msgid "Got a pay cut"
 msgstr "减薪了"
-
-# scripts/events/events/player_is_rich_event.nut
-# scripts/events/events/noble_more_pay_lowborn_event.nut
-msgid " gets greedy"
-msgstr " 变得贪婪"
 
 # scripts/events/events/runaway_laborers_event.nut
 # scripts/events/events/peacenik_event.nut
@@ -1939,7 +1939,7 @@ msgstr "[img]gfx/ui/events/event_05.png[/img]当你卷起一些地图并把它�
 
 # scripts/events/events/combat_drill_event.nut
 msgid "[/color] Ranged Skill"
-msgstr ""
+msgstr "[/color] 远程技能"
 
 # scripts/events/events/combat_drill_event.nut
 msgid "Show me what you can do!"
