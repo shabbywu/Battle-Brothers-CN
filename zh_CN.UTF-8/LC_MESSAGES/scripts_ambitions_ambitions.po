@@ -4,9 +4,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-23 13:43+0000\n"
-"PO-Revision-Date: 2023-02-23 13:43+0000\n"
-"Last-Translator: 435495971 <435495971@qq.com>\n"
-"Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/projects/Battle-Brothers-CN/scripts_ambitions_ambitions/zh_Hans/>\n"
+"PO-Revision-Date: 2023-03-16 14:18+0000\n"
+"Last-Translator: hyscottc <d_hyzl@126.com>\n"
+"Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/"
+"projects/Battle-Brothers-CN/scripts_ambitions_ambitions/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1192,12 +1193,10 @@ msgid "Don't choose an ambition right now. You'll be asked to choose again after
 msgstr "现在不选择野心。 三天后你会被要求再次选择。"
 
 # scripts/ambitions/ambitions/raid_caravans_ambition.nut
-#, fuzzy
 msgid "Raid trade or supply caravans"
 msgstr "突袭贸易或补给商队"
 
 # scripts/ambitions/ambitions/raid_caravans_ambition.nut
-#, fuzzy
 msgid "Like taking candy from a child."
 msgstr "就像从孩子手里抢糖果一样。"
 
@@ -1216,6 +1215,11 @@ msgstr "突袭4次沿途交易或供应商队。如果你和他们的派别不�
 # scripts/ambitions/ambitions/raid_caravans_ambition.nut
 msgid "[img]gfx/ui/events/event_60.png[/img]A dead merchant's voice rings in your head.%SPEECH_ON%Why did you do it? We'd have given you it all.%SPEECH_OFF%But the memory isn't about him. It's about his wagon, and what parts of it he wouldn't even divulge with his life on the balance. Since setting out to raid them, attacking caravans has turned into something of a sport for you and the %companyname%. Awashed in the riches of your ambushes, the men are happy, and you've accrued a bit of renown for your dastardly deeds."
 msgstr ""
+"[img]gfx/ui/events/event_60.png[/img]一个死去的商人的声音在你的脑海中响起。%S"
+"PEECH_ON%你为什么这么做？我们会给你所有的东西。%SPEECH_OFF%但这段记忆与他本人"
+"无关。这是关于他的货车，以及在他的生活悬而未决的情况下，他甚至不会透露出的那"
+"些部分。自从开始突袭他们以来，攻击商队已经变成了你和%companyname%的一种乐趣。"
+"在你伏击得到的的财富中醒来，战队的大家都很高兴，你的卑鄙行为也让你名声大噪。"
 
 # scripts/ambitions/ambitions/ranged_mastery_ambition.nut
 msgid "Have men with the bow or crossbow mastery perk"
@@ -1237,6 +1241,15 @@ msgid ""
 "\n"
 "With plenty of practice, those arrows are striking closer and closer to the bullseye, and now that the company is fielding better trained bowmen, your frontline is breathing easier and living, at least marginally, longer."
 msgstr ""
+"[img]gfx/ui/events/event_10.png[/img]每有机会，你都会鼓励你指挥下的人进行几次"
+"群射。每个人都参与其中，即使是那些愚蠢的傻瓜，如果你允许的话，他们也会穿着盔"
+"甲睡觉。任何目标都足够了：一棵小树的树干，一只在清晨吃草的母鹿，或者一个逃命"
+"的哥布林侦察兵。%SPEECH_ON%是的，我们是全世界干草捆的公敌！%SPEECH_OFF%%rando"
+"mbrother%在练习中指着一个常见的目标说道。当他的一个战友的箭从他的头附近呼啸而"
+"过时，他躲开了，并咒骂着射手。\n"
+"\n"
+"经过大量的练习，这些箭越来越接近靶心，由于战团部署了训练有素的弓箭手，你的前"
+"排呼吸更轻松，存活时间也更长，至少在一定程度上更长。"
 
 # scripts/ambitions/ambitions/roster_of_12_ambition.nut
 msgid "Have a roster of at least 12 men"
@@ -1255,6 +1268,15 @@ msgstr "雇佣足够多的人来拥有至少12人的名册。 访问各地的定
 # scripts/ambitions/ambitions/roster_of_12_ambition.nut
 msgid "[img]gfx/ui/events/event_80.png[/img]Having finally gathered the coin and equipment, you manage to assemble a full complement of twelve able fighters. When next you walk down %currenttown%'s main street, the men break into a full-throated marching song. A few of the townsfolk mutter under their breath about dirty mercenaries taking over the town, but others walk alongside and shout the words with you. %SPEECH_ON%Stand tall, brothers. People can see this is a real mercenary company now, and not a handful of wandering vagabonds.%SPEECH_OFF%%highestexperience_brother% declares.%SPEECH_ON%We trade in strength, and now that our numbers have gone up, so will our price.%SPEECH_OFF%It appears he has the right of it. You notice one particularly fat nobleman sizing up the company as if he already has a task in mind. The %companyname% are now a force to be reckoned with. Once the men have settled in for a celebratory drink, perhaps you should take another stroll through town to see if any more lucrative contracts may be available."
 msgstr ""
+"[img]gfx/ui/events/event_80.png[/img]最终在集齐了钱和装备后，你成功地集合了十"
+"二名有能力的战士。当你走在%currenttown%的主干道上时，人们突然唱起了一首激昂的"
+"行军歌。一些市民低声抱怨肮脏的雇佣兵占领了这个小镇，但也有些人走在旁边，和你"
+"们一起喊着。%SPEECH_ON%兄弟们，昂首挺胸。大家可以看到，这是一个真正的雇佣军战"
+"团，而不是一群流浪汉。%SPEECH_OFF%%highestexperience_brother%宣称道。%SPEECH_"
+"ON%我们以实力为价，现在我们的实力上升了，价格也会上升。%SPEECH_OFF%看起来他有"
+"权这样说。你注意到一个特别胖的贵族在打量你的战团，好像他有任务给你。%companyn"
+"ame%现在是一股不可忽视的力量。当战士们安顿下来喝庆祝酒时，也许你应该在城里再"
+"逛一逛，看看是否有更有利可图的合同。"
 
 # scripts/ambitions/ambitions/roster_of_16_ambition.nut
 msgid "Have a roster of at least 16 men"
