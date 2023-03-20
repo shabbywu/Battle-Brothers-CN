@@ -242,11 +242,11 @@ msgstr "登神长阶药剂"
 
 # scripts/items/misc/anatomist/apotheosis_potion_item.nut
 msgid "]+1[/color] Fatigue"
-msgstr ""
+msgstr "]+1[/color] 疲劳"
 
 # scripts/items/misc/anatomist/apotheosis_potion_item.nut
 msgid "]+1[/color] Hitpoints"
-msgstr ""
+msgstr "]+1[/color] 生命值"
 
 # scripts/items/misc/anatomist/apotheosis_potion_item.nut
 msgid "This fantastic concoction is the pinnacle of what research on human anatomy has yielded. The few who know of its existence claim that to consume it is to ascend to a higher state of being, something beyond a mere human."
@@ -346,7 +346,7 @@ msgstr "用一种此前不为人所知的沙漠鬣狗的腺体酿制而成，这
 
 # scripts/items/misc/anatomist/ifrit_potion_item.nut
 msgid "]25[/color] points of natural armor"
-msgstr ""
+msgstr "]25[/color] 天生护甲点数"
 
 # scripts/items/misc/anatomist/ifrit_potion_item.nut
 msgid "Turns skin hard and stone-like, granting [color="
@@ -366,7 +366,7 @@ msgstr "这瓶灵药上的标签十分难以辨认，一些异域语言的文字
 
 # scripts/items/misc/anatomist/kraken_potion_item.nut
 msgid "]+50[/color] Hitpoints"
-msgstr ""
+msgstr "]+50[/color] 生命值"
 
 # scripts/items/misc/anatomist/kraken_potion_item.nut
 msgid "Take on the aspect of the beast of beasts! With this miracle draught, a cripple becomes as a strongman, and a strongman becomes as a god! Known side effects include an increased appetite and some minor hallucinations."
@@ -670,7 +670,7 @@ msgstr ""
 
 # scripts/items/misc/anatomist/unhold_potion_item.nut
 msgid "]10[/color] hitpoints each turn"
-msgstr ""
+msgstr "]10[/color] 生命值每回合"
 
 # scripts/items/misc/anatomist/unhold_potion_item.nut
 msgid "Ignore the name, this potion will grant near immortality to whomever drinks it! That's right, just like the dreaded Unhold, any lucky enough to consume this will have their wounds close mere moments after opening! Take it! Quickly! Don't think, act!"

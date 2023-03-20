@@ -124,7 +124,7 @@ msgstr "是时候离开了。"
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
 msgid "]1[/color] Crown"
-msgstr ""
+msgstr "]1[/color] 克朗"
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
 msgid "You found %name% in "
@@ -1048,7 +1048,7 @@ msgstr "祝好运。"
 
 # scripts/events/events/dlc6/sellsword_retires_event.nut
 msgid "[/color] Crown"
-msgstr ""
+msgstr "[/color] 克朗"
 
 # scripts/events/events/dlc6/sellsword_retires_event.nut
 msgid "We'll put these to good use."

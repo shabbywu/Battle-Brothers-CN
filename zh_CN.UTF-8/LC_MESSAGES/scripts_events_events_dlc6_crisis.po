@@ -33,7 +33,7 @@ msgstr "战争从未改变。"
 # scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
 # scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut
 msgid "[/color] Tools and Supplies."
-msgstr ""
+msgstr "[/color] 工具和补给"
 
 # scripts/events/events/dlc6/crisis/holywar_sand_storm_event.nut
 # scripts/events/events/dlc6/crisis/holywar_ill_southerners_event.nut

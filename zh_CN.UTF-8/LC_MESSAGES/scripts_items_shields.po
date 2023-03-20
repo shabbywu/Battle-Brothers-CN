@@ -54,11 +54,11 @@ msgstr ""
 
 # scripts/items/shields/shield.nut
 msgid "[/color] less fatigue"
-msgstr ""
+msgstr "[/color] 更少疲劳"
 
 # scripts/items/shields/shield.nut
 msgid "[/color] more fatigue"
-msgstr ""
+msgstr "[/color] 更多疲劳"
 
 # scripts/items/shields/shield.nut
 msgid "Ranged Defense [color="

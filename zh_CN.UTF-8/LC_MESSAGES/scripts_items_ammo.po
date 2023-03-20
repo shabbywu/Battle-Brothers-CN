@@ -21,7 +21,7 @@ msgstr ""
 # scripts/items/ammo/large_powder_bag.nut
 # scripts/items/ammo/powder_bag.nut
 msgid "[/color] uses"
-msgstr ""
+msgstr "[/color] 发"
 
 # scripts/items/ammo/large_powder_bag.nut
 # scripts/items/ammo/powder_bag.nut
@@ -31,12 +31,12 @@ msgstr ""
 # scripts/items/ammo/quiver_of_arrows.nut
 # scripts/items/ammo/large_quiver_of_arrows.nut
 msgid "[/color] arrows"
-msgstr ""
+msgstr "[/color] 支箭"
 
 # scripts/items/ammo/quiver_of_bolts.nut
 # scripts/items/ammo/large_quiver_of_bolts.nut
 msgid "[/color] bolts"
-msgstr ""
+msgstr "[/color] 支弩矢"
 
 # scripts/items/ammo/large_powder_bag.nut
 msgid "Large Powder Bag"

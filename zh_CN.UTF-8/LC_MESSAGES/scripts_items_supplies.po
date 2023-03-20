@@ -106,7 +106,7 @@ msgstr "食物。 曾是北方野蛮人国王用来壮阳的美食。这玩意�
 
 # scripts/items/supplies/food_item.nut
 msgid "[/color] days."
-msgstr ""
+msgstr "[/color] 天"
 
 # scripts/items/supplies/food_item.nut
 msgid "Will spoil in [color="

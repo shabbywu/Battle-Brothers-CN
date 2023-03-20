@@ -1198,7 +1198,7 @@ msgstr "你一定是疯了，隐士。疯了！"
 
 # scripts/events/events/crisis/greenskins_pet_goblin_event.nut
 msgid "]-2[/color] Medical Supplies."
-msgstr ""
+msgstr "]-2[/color] 医疗用品"
 
 # scripts/events/events/crisis/greenskins_pet_goblin_event.nut
 msgid "Better to kill that thing now."

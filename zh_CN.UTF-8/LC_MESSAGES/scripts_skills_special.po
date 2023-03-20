@@ -18,7 +18,7 @@ msgstr "双手持握"
 
 # scripts/skills/special/double_grip.nut
 msgid "]+25%[/color] Damage"
-msgstr ""
+msgstr "]+25%[/color] 伤害"
 
 # scripts/skills/special/double_grip.nut
 msgid "With the second hand free, this character can get a firm double grip on his weapon and inflicts additional damage."
@@ -38,15 +38,15 @@ msgstr ""
 
 # scripts/skills/special/mood_check.nut
 msgid "]steady[/color] morale or worse"
-msgstr ""
+msgstr "]steady[/color] 士气或更糟"
 
 # scripts/skills/special/mood_check.nut
 msgid "]breaking[/color] morale or worse"
-msgstr ""
+msgstr "]breaking[/color] 士气或更糟"
 
 # scripts/skills/special/mood_check.nut
 msgid "]wavering[/color] morale or worse"
-msgstr ""
+msgstr "]wavering[/color] 士气或更糟"
 
 # scripts/skills/special/mood_check.nut
 msgid "]25%[/color] chance to start battle at confident morale"
@@ -192,7 +192,7 @@ msgstr ""
 
 # scripts/skills/special/night_effect.nut
 msgid "]-2[/color] Vision"
-msgstr ""
+msgstr "]-2[/color] 视野"
 
 # scripts/skills/special/night_effect.nut
 msgid "Did that shadow just move? The dim moon light makes it hard to see more than a few feet in front, reducing the view range and making the use of ranged weapons a bad proposition for anyone not able to see in the dark."

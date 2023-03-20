@@ -371,11 +371,11 @@ msgstr "训练厅"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color] and "
-msgstr ""
+msgstr "[/color] 和 "
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color] days"
-msgstr ""
+msgstr "[/color] 天"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Auto-End Turns"
@@ -695,7 +695,7 @@ msgstr "明天就会痊愈"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color] armor damage"
-msgstr ""
+msgstr "[/color] 盔甲伤害"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Equip item ([b][color="
@@ -723,7 +723,7 @@ msgstr "切换锁定相机 (X)"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color][/b] required)"
-msgstr ""
+msgstr "[/color][/b] 至少)"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Drop item on the ground"
@@ -755,11 +755,11 @@ msgstr "未知角色特性"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color] damage to armor"
-msgstr ""
+msgstr "[/color] 盔甲伤害"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color] hitpoint damage"
-msgstr ""
+msgstr "[/color] 生命值伤害"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid " more perk point is spent"
@@ -787,7 +787,7 @@ msgstr "设置通过的时间为正常。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color] Medical Supplies."
-msgstr ""
+msgstr "[/color] 医疗用品"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid " more perk points are spent"
@@ -819,15 +819,15 @@ msgstr "你已经有合同了！"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color] damage to hitpoints"
-msgstr ""
+msgstr "[/color] 生命值伤害"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color] hours and requires "
-msgstr ""
+msgstr "[/color] 小时和需要 "
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color] tools and supplies."
-msgstr ""
+msgstr "[/color] 工具和补给。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid " recently passed through here"
@@ -859,7 +859,7 @@ msgstr "切换跟踪足迹 (F)"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color][/b] AP and [b][color="
-msgstr ""
+msgstr "[/color][/b] AP 和 [b][color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Drop item on ground ([b][color="
@@ -867,7 +867,7 @@ msgstr "将物品放在地上 ([b][color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color][/b] Fatigue to traverse"
-msgstr ""
+msgstr "[/color][/b]疲劳 去移动"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Open menu to adjust game options."
@@ -879,6 +879,9 @@ msgid ""
 "\n"
 "[color="
 msgstr ""
+"[/color] 克朗每天。\n"
+"\n"
+"[color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "How the character ultimately died."
@@ -914,7 +917,7 @@ msgstr "只显示盔甲、头盔和盾牌。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color] crowns per day. Your [color="
-msgstr ""
+msgstr "[/color] 克朗每天。你的 [color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid ""
@@ -922,6 +925,9 @@ msgid ""
 "\n"
 "[color="
 msgstr ""
+"[/color] 补给每天。\n"
+"\n"
+"[color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "]This DLC has been installed.[/color]"
@@ -949,11 +955,11 @@ msgstr "展开或收回战斗事件日志。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color] crowns will last you for [color="
-msgstr ""
+msgstr "[/color] 克朗能让你支撑 [color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color] provisions per day. Your [color="
-msgstr ""
+msgstr "[/color] 补给每天. 你的 [color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Show/Hide Highlights for Blocked Tiles (B)"
@@ -989,6 +995,9 @@ msgid ""
 "\n"
 "Repairing all your equipment will take [color="
 msgstr ""
+"\n"
+"\n"
+"修理你所有装备需要[color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Buy item for [img]gfx/ui/tooltips/money.png[/img]"
@@ -1197,7 +1206,7 @@ msgstr ""
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color][/b] Fatigue to traverse because it is at a different height level"
-msgstr ""
+msgstr "[/color][/b]疲劳 去移动(因为处于不同的高度)"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "The number of kills that the character scored in battle until their demise."

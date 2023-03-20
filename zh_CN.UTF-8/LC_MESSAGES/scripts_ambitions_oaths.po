@@ -564,11 +564,11 @@ msgstr "愤怒誓言"
 
 # scripts/ambitions/oaths/oath_of_wrath_ambition.nut
 msgid "]-10[/color] Ranged Defense."
-msgstr "]-10[/color] 远程防御。"
+msgstr "]-10[/color] 远程防御"
 
 # scripts/ambitions/oaths/oath_of_wrath_ambition.nut
 msgid "]-5[/color] Melee Defense and [color="
-msgstr "]-5[/color] 近战防御和[color="
+msgstr "]-5[/color] 近战防御和 [color="
 
 # scripts/ambitions/oaths/oath_of_wrath_ambition.nut
 msgid "You gain extra Renown for slaying your foes ("

@@ -59,7 +59,7 @@ msgstr ""
 
 # scripts/items/special/golden_goose_item.nut
 msgid "]15[/color] crowns daily."
-msgstr ""
+msgstr "]15[/color] 克朗每天"
 
 # scripts/items/special/golden_goose_item.nut
 msgid "A small goose statue crafted from solid gold. A tiny golden egg mysteriously emerges from the statue once a day."

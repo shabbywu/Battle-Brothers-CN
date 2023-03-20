@@ -9,7 +9,7 @@ msgstr ""
 # scripts/skills/injury/burnt_face_injury.nut
 # scripts/skills/injury/severe_concussion_injury.nut
 msgid "]-2[/color] Vision"
-msgstr ""
+msgstr "]-2[/color] 视野"
 
 # scripts/skills/injury/grazed_eye_socket_injury.nut
 # scripts/skills/injury/broken_arm_injury.nut
@@ -59,19 +59,19 @@ msgstr "]2[/color] 额外的行动点，在每移动一格时消耗增加"
 # scripts/skills/injury/cut_leg_muscles_injury.nut
 # scripts/skills/injury/broken_leg_injury.nut
 msgid "]-40%[/color] Initiative"
-msgstr ""
+msgstr "]-40%[/color] 主动性"
 
 # scripts/skills/injury/broken_ribs_injury.nut
 # scripts/skills/injury/stabbed_guts_injury.nut
 # scripts/skills/injury/inhaled_flames_injury.nut
 msgid "]-40%[/color] Max Fatigue"
-msgstr ""
+msgstr "]-40%[/color] 最大疲劳"
 
 # scripts/skills/injury/bruised_leg_injury.nut
 # scripts/skills/injury/burnt_legs_injury.nut
 # scripts/skills/injury/sprained_ankle_injury.nut
 msgid "]-20%[/color] Initiative"
-msgstr ""
+msgstr "]-20%[/color] 主动性"
 
 # scripts/skills/injury/bruised_leg_injury.nut
 # scripts/skills/injury/burnt_legs_injury.nut
@@ -101,19 +101,19 @@ msgstr ""
 # scripts/skills/injury/exposed_ribs_injury.nut
 # scripts/skills/injury/deep_chest_cut_injury.nut
 msgid "]-35%[/color] Hitpoints"
-msgstr ""
+msgstr "]-35%[/color] 生命值"
 
 # scripts/skills/injury/infected_wound_injury.nut
 # scripts/skills/injury/sickness_injury.nut
 # scripts/skills/injury/deep_abdominal_cut_injury.nut
 msgid "]-25%[/color] Hitpoints"
-msgstr ""
+msgstr "]-25%[/color] 生命值"
 
 # scripts/skills/injury/infected_wound_injury.nut
 # scripts/skills/injury/sickness_injury.nut
 # scripts/skills/injury/deep_abdominal_cut_injury.nut
 msgid "]-25%[/color] Max Fatigue"
-msgstr ""
+msgstr "]-25%[/color] 最大疲劳"
 
 # scripts/skills/injury/split_nose_injury.nut
 # scripts/skills/injury/broken_nose_injury.nut
@@ -123,7 +123,7 @@ msgstr "]-5[/color] 每回合疲劳恢复"
 # scripts/skills/injury/cut_achilles_tendon_injury.nut
 # scripts/skills/injury/pierced_leg_muscles_injury.nut
 msgid "]-30%[/color] Initiative"
-msgstr ""
+msgstr "]-30%[/color] 主动性"
 
 # scripts/skills/injury/fractured_hand_injury.nut
 # scripts/skills/injury/pierced_hand_injury.nut
@@ -138,7 +138,7 @@ msgstr "]-20%[/color] 远程技能"
 # scripts/skills/injury/fractured_skull_injury.nut
 # scripts/skills/injury/severe_concussion_injury.nut
 msgid "]-50%[/color] Initiative"
-msgstr ""
+msgstr "]-50%[/color] 主动性"
 
 # scripts/skills/injury/fractured_skull_injury.nut
 # scripts/skills/injury/severe_concussion_injury.nut
@@ -158,7 +158,7 @@ msgstr "第二个通气孔除了听起来像风笛外几乎没有什么用处。
 # scripts/skills/injury/pierced_side_injury.nut
 # scripts/skills/injury/pierced_chest_injury.nut
 msgid "]-20%[/color] Max Fatigue"
-msgstr ""
+msgstr "]-20%[/color] 最大疲劳"
 
 # scripts/skills/injury/broken_arm_injury.nut
 msgid "Broken Arm"
@@ -250,7 +250,7 @@ msgstr "压碎的气管"
 
 # scripts/skills/injury/crushed_windpipe_injury.nut
 msgid "]-50%[/color] Max Fatigue"
-msgstr ""
+msgstr "]-50%[/color] 最大疲劳"
 
 # scripts/skills/injury/crushed_windpipe_injury.nut
 msgid "]-10[/color] Fatigue Recovery per turn"
@@ -290,7 +290,7 @@ msgstr "臂腱断裂"
 
 # scripts/skills/injury/cut_arm_sinew_injury.nut
 msgid "]-40%[/color] Damage inflicted"
-msgstr ""
+msgstr "]-40%[/color] 造成的伤害"
 
 # scripts/skills/injury/cut_arm_sinew_injury.nut
 msgid "A partially cut arm sinew makes it difficult to put force into any strike."
@@ -326,7 +326,7 @@ msgstr "颈静脉断裂"
 
 # scripts/skills/injury/cut_throat_injury.nut
 msgid "]-50%[/color] Hitpoints"
-msgstr ""
+msgstr "]-50%[/color] 生命值"
 
 # scripts/skills/injury/cut_throat_injury.nut
 msgid "]6[/color] hitpoints each turn in combat"
@@ -350,7 +350,7 @@ msgstr "深胸切口"
 
 # scripts/skills/injury/deep_chest_cut_injury.nut
 msgid "]-35%[/color] Max Fatigue"
-msgstr ""
+msgstr "]-35%[/color] 最大疲劳"
 
 # scripts/skills/injury/deep_chest_cut_injury.nut
 msgid "]-35%[/color] Melee Skill"
@@ -378,7 +378,7 @@ msgstr "肩膀脱臼"
 
 # scripts/skills/injury/dislocated_shoulder_injury.nut
 msgid "]-3[/color] Action Points"
-msgstr ""
+msgstr "]-3[/color] 行动点"
 
 # scripts/skills/injury/dislocated_shoulder_injury.nut
 msgid "A hard hit has knocked the shoulder out of its joint, making it hard to move the arm at all."
@@ -414,7 +414,7 @@ msgstr "肋骨骨折"
 
 # scripts/skills/injury/fractured_ribs_injury.nut
 msgid "]-30%[/color] Max Fatigue"
-msgstr ""
+msgstr "]-30%[/color] 最大疲劳"
 
 # scripts/skills/injury/fractured_ribs_injury.nut
 msgid "Fractured ribs send a wave of pain through the body with every breath."
@@ -442,7 +442,7 @@ msgstr "肾擦破"
 
 # scripts/skills/injury/grazed_kidney_injury.nut
 msgid "]-60%[/color] Hitpoints"
-msgstr ""
+msgstr "]-60%[/color] 生命值"
 
 # scripts/skills/injury/grazed_kidney_injury.nut
 msgid "Abdominal pain, blood in the urine and always the danger of infection. A grazed kidney is a severe risk to the life of any character, draining their constitution."
@@ -454,11 +454,11 @@ msgstr "颈部擦破"
 
 # scripts/skills/injury/grazed_neck_injury.nut
 msgid "]-15%[/color] Hitpoints"
-msgstr ""
+msgstr "]-15%[/color] 生命值"
 
 # scripts/skills/injury/grazed_neck_injury.nut
 msgid "]1[/color] hitpoint each turn in combat"
-msgstr ""
+msgstr "]1[/color] 生命值每回合"
 
 # scripts/skills/injury/grazed_neck_injury.nut
 msgid "A grazing wound on the neck bleeds profusely. If survived, it is followed by lowered constitution due to loss of blood."
@@ -478,7 +478,7 @@ msgstr ""
 
 # scripts/skills/injury/inhaled_flames_injury.nut
 msgid "]-2[/color] Action Points"
-msgstr ""
+msgstr "]-2[/color] 行动点"
 
 # scripts/skills/injury/injured_knee_cap_injury.nut
 msgid "Injured Knee Cap"
@@ -494,7 +494,7 @@ msgstr "肩膀受伤"
 
 # scripts/skills/injury/injured_shoulder_injury.nut
 msgid "]-25%[/color] Damage inflicted"
-msgstr ""
+msgstr "]-25%[/color] 造成的伤害"
 
 # scripts/skills/injury/injured_shoulder_injury.nut
 msgid "Injured muscles in the shoulder make it hard to put any force into a strike."
@@ -602,7 +602,7 @@ msgstr "肺穿孔"
 
 # scripts/skills/injury/pierced_lung_injury.nut
 msgid "]-60%[/color] Max Fatigue"
-msgstr ""
+msgstr "]-60%[/color] 最大疲劳"
 
 # scripts/skills/injury/pierced_side_injury.nut
 msgid "Pierced Side"
@@ -618,7 +618,7 @@ msgstr "耳撕裂"
 
 # scripts/skills/injury/ripped_ear_injury.nut
 msgid "]-15%[/color] Initiative"
-msgstr ""
+msgstr "]-15%[/color] 主动性"
 
 # scripts/skills/injury/ripped_ear_injury.nut
 msgid "This character's ear almost got torn off, sending blood down their head and neck, and making them less aware of their surroundings."
@@ -650,7 +650,7 @@ msgstr "]-25%[/color] 决心"
 
 # scripts/skills/injury/sickness_injury.nut
 msgid "]-25%[/color] Initiative"
-msgstr ""
+msgstr "]-25%[/color] 主动性"
 
 # scripts/skills/injury/sickness_injury.nut
 msgid "Struck with sickness and disease, this character isn't feeling well at all and hardly in a condition to fight. If the fever doesn't take him, it'll probably pass in time."
@@ -694,7 +694,7 @@ msgstr "肩裂"
 
 # scripts/skills/injury/split_shoulder_injury.nut
 msgid "]-50%[/color] Damage inflicted"
-msgstr ""
+msgstr "]-50%[/color] 造成的伤害"
 
 # scripts/skills/injury/split_shoulder_injury.nut
 msgid "A deep cut has split this character's shoulder open, injuring the muscle tissue and severely limiting mobility of the arms."
@@ -714,7 +714,7 @@ msgstr "肠刺伤"
 
 # scripts/skills/injury/stabbed_guts_injury.nut
 msgid "]-40%[/color] Hitpoints"
-msgstr ""
+msgstr "]-40%[/color] 生命值"
 
 # scripts/skills/injury/stabbed_guts_injury.nut
 msgid "A wound at the intestines drains constitution, and the high chance of infection and the prospect of a slow and painful death don't help either."

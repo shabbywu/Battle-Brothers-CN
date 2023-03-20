@@ -87,32 +87,32 @@ msgstr "]不能移动[/color]"
 # scripts/skills/effects/orc_berserker_potion_effect.nut
 # scripts/skills/effects/whipped_effect.nut
 msgid "[/color] Resolve"
-msgstr ""
+msgstr "[/color] 决心"
 
 # scripts/skills/effects/goblin_poison_effect.nut
 # scripts/skills/effects/orc_berserker_potion_effect.nut
 # scripts/skills/effects/whipped_effect.nut
 # scripts/skills/effects/chilled_effect.nut
 msgid "[/color] Initiative"
-msgstr ""
+msgstr "[/color] 主动性"
 
 # scripts/skills/effects/dodge_effect.nut
 # scripts/skills/effects/whipped_effect.nut
 # scripts/skills/effects/shieldwall_effect.nut
 msgid "[/color] Melee Defense"
-msgstr ""
+msgstr "[/color] 近战防御"
 
 # scripts/skills/effects/dodge_effect.nut
 # scripts/skills/effects/whipped_effect.nut
 # scripts/skills/effects/shieldwall_effect.nut
 msgid "[/color] Ranged Defense"
-msgstr ""
+msgstr "[/color] 远程防御"
 
 # scripts/skills/effects/web_effect.nut
 # scripts/skills/effects/staggered_effect.nut
 # scripts/skills/effects/insect_swarm_effect.nut
 msgid "]-50%[/color] Initiative"
-msgstr ""
+msgstr "]-50%[/color] 主动性"
 
 # scripts/skills/effects/lindwurm_acid_effect.nut
 # scripts/skills/effects/acid_effect.nut
@@ -147,12 +147,12 @@ msgstr "[/color] 生命值, 持续 [color="
 # scripts/skills/effects/goblin_poison_effect.nut
 # scripts/skills/effects/chilled_effect.nut
 msgid "[/color] Action Points"
-msgstr ""
+msgstr "[/color] 行动点"
 
 # scripts/skills/effects/rooted_effect.nut
 # scripts/skills/effects/distracted_effect.nut
 msgid "]-35%[/color] Initiative"
-msgstr ""
+msgstr "]-35%[/color] 主动性"
 
 # scripts/skills/effects/goblin_overseer_potion_effect.nut
 # scripts/skills/effects/geist_potion_effect.nut
@@ -197,7 +197,7 @@ msgstr "被缠住"
 # scripts/skills/effects/kraken_ensnare_effect.nut
 # scripts/skills/effects/serpent_ensnare_effect.nut
 msgid "]10[/color] hitpoints."
-msgstr ""
+msgstr "]10[/color] 生命值"
 
 # scripts/skills/effects/kraken_ensnare_effect.nut
 # scripts/skills/effects/serpent_ensnare_effect.nut
@@ -247,7 +247,7 @@ msgstr "%[/color] 伤害"
 # scripts/skills/effects/shellshocked_effect.nut
 # scripts/skills/effects/withered_effect.nut
 msgid "%[/color] Initiative"
-msgstr ""
+msgstr "%[/color] 主动性"
 
 # scripts/skills/effects/acid_effect.nut
 msgid "]20%[/color] of body armor is lost each turn"
@@ -299,11 +299,11 @@ msgstr "神化"
 
 # scripts/skills/effects/apotheosis_potion_effect.nut
 msgid "]+1[/color] Fatigue"
-msgstr ""
+msgstr "]+1[/color] 疲劳"
 
 # scripts/skills/effects/apotheosis_potion_effect.nut
 msgid "]+1[/color] Hitpoints"
-msgstr ""
+msgstr "]+1[/color] 生命值"
 
 # scripts/skills/effects/apotheosis_potion_effect.nut
 msgid "This character has consumed a particularly powerful stimulant. While the delivery mechanism itself is revolutionary, the drug itself is not as powerful as the grandeur of its name suggests."
@@ -379,7 +379,7 @@ msgstr ""
 
 # scripts/skills/effects/cat_potion_effect.nut
 msgid "]+20[/color] Initiative"
-msgstr ""
+msgstr "]+20[/color] 主动性"
 
 # scripts/skills/effects/cat_potion_effect.nut
 msgid "Thanks to a cocktail of psychoactive substances, this character's senses are heightened and their reflexes sharpened, along with a tendency to show paranoid behavior."
@@ -437,15 +437,15 @@ msgstr "茫然"
 
 # scripts/skills/effects/dazed_effect.nut
 msgid "]-25%[/color] Damage"
-msgstr ""
+msgstr "]-25%[/color] 伤害"
 
 # scripts/skills/effects/dazed_effect.nut
 msgid "]-25%[/color] Initiative"
-msgstr ""
+msgstr "]-25%[/color] 主动性"
 
 # scripts/skills/effects/dazed_effect.nut
 msgid "]-25%[/color] Max Fatigue"
-msgstr ""
+msgstr "]-25%[/color] 最大疲劳"
 
 # scripts/skills/effects/dazed_effect.nut
 msgid " shook off being dazed thanks to his unnatural physiology"
@@ -509,7 +509,7 @@ msgstr "注意力分散"
 
 # scripts/skills/effects/distracted_effect.nut
 msgid "]-35%[/color] Damage"
-msgstr ""
+msgstr "]-35%[/color] 伤害"
 
 # scripts/skills/effects/distracted_effect.nut
 msgid " regained his focus thanks to his unnatural physiology"
@@ -717,7 +717,7 @@ msgstr "石头皮肤"
 
 # scripts/skills/effects/ifrit_potion_effect.nut
 msgid "]25[/color] points of natural armor"
-msgstr ""
+msgstr "]25[/color] 天生护甲点数"
 
 # scripts/skills/effects/ifrit_potion_effect.nut
 msgid "This character's skin is hard and stone-like, granting [color="
@@ -749,7 +749,7 @@ msgstr "免疫昏迷"
 
 # scripts/skills/effects/indomitable_effect.nut
 msgid "]50%[/color] of any damage"
-msgstr ""
+msgstr "]50%[/color] 所有伤害"
 
 # scripts/skills/effects/indomitable_effect.nut
 msgid "This character has gathered all their physical strength and willpower to become indomitable until their next turn."
@@ -789,7 +789,7 @@ msgstr "杀戮狂暴!"
 
 # scripts/skills/effects/killing_frenzy_effect.nut
 msgid "]+25%[/color] Damage"
-msgstr ""
+msgstr "]+25%[/color] 伤害"
 
 # scripts/skills/effects/killing_frenzy_effect.nut
 msgid "RAAAARGH! This character is on a killing frenzy for [color="
@@ -813,7 +813,7 @@ msgstr "兽化"
 
 # scripts/skills/effects/kraken_potion_effect.nut
 msgid "]+50[/color] Hitpoints"
-msgstr ""
+msgstr "]+50[/color] 生命值"
 
 # scripts/skills/effects/kraken_potion_effect.nut
 msgid "The character draws strength from some limitless source, with the health and durability of two men. You pretend to not notice the eviscerated corpses you sometimes find in their wake."
@@ -849,7 +849,7 @@ msgstr "勇气鼓舞"
 
 # scripts/skills/effects/lionheart_potion_effect.nut
 msgid "]+20[/color] Resolve"
-msgstr ""
+msgstr "]+20[/color] 决心"
 
 # scripts/skills/effects/lionheart_potion_effect.nut
 msgid "Thanks to a cocktail of psychoactive substances, this character's fears are inhibited along with their ability to reasonably judge the situation, and they have found courage instead to face impossible odds."
@@ -941,7 +941,7 @@ msgstr "陷网"
 
 # scripts/skills/effects/net_effect.nut
 msgid "]-45%[/color] Initiative"
-msgstr ""
+msgstr "]-45%[/color] 主动性"
 
 # scripts/skills/effects/net_effect.nut
 msgid "]-45%[/color] Melee Defense"
@@ -973,7 +973,7 @@ msgstr "在睡梦中死去"
 
 # scripts/skills/effects/nightmare_effect.nut
 msgid "]-300[/color] Initiative"
-msgstr ""
+msgstr "]-300[/color] 主动性"
 
 # scripts/skills/effects/nightmare_effect.nut
 msgid "This character is consumed by unnatural nightmares and is unable to act. As the horrors eat away at his sanity, he'll take [color="
@@ -989,11 +989,11 @@ msgstr "猫有九命"
 
 # scripts/skills/effects/nine_lives_effect.nut
 msgid "]+15[/color] Resolve"
-msgstr ""
+msgstr "]+15[/color] 决心"
 
 # scripts/skills/effects/nine_lives_effect.nut
 msgid "]+15[/color] Initiative"
-msgstr ""
+msgstr "]+15[/color] 主动性"
 
 # scripts/skills/effects/nine_lives_effect.nut
 msgid "]+15[/color] Melee Defense"
@@ -1013,11 +1013,11 @@ msgstr "狂战士之怒"
 
 # scripts/skills/effects/orc_berserker_potion_effect.nut
 msgid "[/color] damage dealt"
-msgstr ""
+msgstr "[/color] 伤害"
 
 # scripts/skills/effects/orc_berserker_potion_effect.nut
 msgid "%[/color] damage reduction"
-msgstr ""
+msgstr "%[/color] 伤害减免"
 
 # scripts/skills/effects/orc_berserker_potion_effect.nut
 msgid "This character gains two stacks of Rage each time they take hitpoint damage, and loses one stack at the end of each turn."
@@ -1250,7 +1250,7 @@ msgstr ""
 
 # scripts/skills/effects/sleeping_effect.nut
 msgid "]-100[/color] Initiative"
-msgstr ""
+msgstr "]-100[/color] 主动性"
 
 # scripts/skills/effects/sleeping_effect.nut
 msgid "Can take damage from Alps"
@@ -1376,7 +1376,7 @@ msgstr ""
 
 # scripts/skills/effects/unhold_potion_effect.nut
 msgid "]10[/color] hitpoints each turn"
-msgstr ""
+msgstr "]10[/color] 生命值每回合"
 
 # scripts/skills/effects/unhold_potion_effect.nut
 msgid "This character's body has mutated to grow at an unnatural pace. In battle, this causes their wounds to close and heal within moments. Outside of battle, it causes unseemly growths, an unquenchable thirst, and disgustingly long finger nails. You once saw them lacerate both arms with a meat cleaver, screeching maniacally that it was 'the only way to keep it in check'. Odd."
@@ -1396,7 +1396,7 @@ msgstr "陷在网中"
 
 # scripts/skills/effects/web_effect.nut
 msgid "]-50%[/color] Damage"
-msgstr ""
+msgstr "]-50%[/color] 伤害"
 
 # scripts/skills/effects/web_effect.nut
 msgid "]Twice as much damage received by a Webknecht's attack will ignore armor[/color]"
@@ -1456,7 +1456,7 @@ msgstr "老化"
 
 # scripts/skills/effects/withered_effect.nut
 msgid "%[/color] Max Fatigue"
-msgstr ""
+msgstr "%[/color] 最大疲劳"
 
 # scripts/skills/effects/withered_effect.nut
 msgid "[/color] Fatigue Recovery per turn"
