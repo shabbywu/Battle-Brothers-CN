@@ -8,21 +8,21 @@ msgstr ""
 # scripts/items/armor_upgrades/bone_platings_upgrade.nut
 # scripts/items/armor_upgrades/additional_padding_upgrade.nut
 msgid "]-2[/color] Maximum Fatigue"
-msgstr ""
+msgstr "]-2[/color] 最大疲劳"
 
 # scripts/items/armor_upgrades/light_gladiator_upgrade.nut
 # scripts/items/armor_upgrades/barbarian_horn_upgrade.nut
 # scripts/items/armor_upgrades/metal_pauldrons_upgrade.nut
 # scripts/items/armor_upgrades/heraldic_plates_upgrade.nut
 msgid "]-4[/color] Maximum Fatigue"
-msgstr ""
+msgstr "]-4[/color] 最大疲劳"
 
 # scripts/items/armor_upgrades/serpent_skin_upgrade.nut
 # scripts/items/armor_upgrades/joint_cover_upgrade.nut
 # scripts/items/armor_upgrades/metal_plating_upgrade.nut
 # scripts/items/armor_upgrades/horn_plate_upgrade.nut
 msgid "]+30[/color] Durability"
-msgstr ""
+msgstr "]+30[/color] 耐久度"
 
 # scripts/items/armor_upgrades/negative_mouldered_upgrade.nut
 # scripts/items/armor_upgrades/negative_shabby_upgrade.nut
@@ -35,34 +35,34 @@ msgstr "无盔甲附件位置"
 # scripts/items/armor_upgrades/metal_pauldrons_upgrade.nut
 # scripts/items/armor_upgrades/heraldic_plates_upgrade.nut
 msgid "]+40[/color] Durability"
-msgstr ""
+msgstr "]+40[/color] 耐久度"
 
 # scripts/items/armor_upgrades/lindwurm_scales_upgrade.nut
 # scripts/items/armor_upgrades/joint_cover_upgrade.nut
 # scripts/items/armor_upgrades/metal_plating_upgrade.nut
 msgid "]-3[/color] Maximum Fatigue"
-msgstr ""
+msgstr "]-3[/color] 最大疲劳"
 
 # scripts/items/armor_upgrades/unhold_fur_upgrade.nut
 # scripts/items/armor_upgrades/leather_neckguard_upgrade.nut
 # scripts/items/armor_upgrades/leather_shoulderguards_upgrade.nut
 msgid "]+10[/color] Durability"
-msgstr ""
+msgstr "]+10[/color] 耐久度"
 
 # scripts/items/armor_upgrades/hyena_fur_upgrade.nut
 # scripts/items/armor_upgrades/direwolf_pelt_upgrade.nut
 msgid "]+15[/color] Durability"
-msgstr ""
+msgstr "]+15[/color] 耐久度"
 
 # scripts/items/armor_upgrades/double_mail_upgrade.nut
 # scripts/items/armor_upgrades/mail_patch_upgrade.nut
 msgid "]+20[/color] Durability"
-msgstr ""
+msgstr "]+20[/color] 耐久度"
 
 # scripts/items/armor_upgrades/lindwurm_scales_upgrade.nut
 # scripts/items/armor_upgrades/light_gladiator_upgrade.nut
 msgid "]+60[/color] Durability"
-msgstr ""
+msgstr "]+60[/color] 耐久度"
 
 # scripts/items/armor_upgrades/additional_padding_upgrade.nut
 msgid "Only take [color="
@@ -158,11 +158,11 @@ msgstr "金属装甲件"
 
 # scripts/items/armor_upgrades/heavy_gladiator_upgrade.nut
 msgid "]+115[/color] Durability"
-msgstr ""
+msgstr "]+115[/color] 耐久度"
 
 # scripts/items/armor_upgrades/heavy_gladiator_upgrade.nut
 msgid "]-10[/color] Maximum Fatigue"
-msgstr ""
+msgstr "]-10[/color] 最大疲劳"
 
 # scripts/items/armor_upgrades/heavy_gladiator_upgrade.nut
 msgid "Metal armor pieces that provides additional protection."
@@ -206,7 +206,7 @@ msgstr "鬣狗毛皮披风"
 
 # scripts/items/armor_upgrades/hyena_fur_upgrade.nut
 msgid "]+15[/color] Initiative"
-msgstr ""
+msgstr "]+15[/color] 主动性"
 
 # scripts/items/armor_upgrades/hyena_fur_upgrade.nut
 msgid "A mantle of hyena furs has been attached to this armor, which bolsters the wearer's drive to action."

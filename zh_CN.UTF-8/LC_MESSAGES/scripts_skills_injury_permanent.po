@@ -21,7 +21,7 @@ msgstr "]+15%[/color] 决心"
 
 # scripts/skills/injury_permanent/brain_damage_injury.nut
 msgid "]-25%[/color] Initiative"
-msgstr ""
+msgstr "]-25%[/color] 主动性"
 
 # scripts/skills/injury_permanent/brain_damage_injury.nut
 msgid "]-25%[/color] Experience Gain"
@@ -57,7 +57,7 @@ msgstr "膝盖折断"
 
 # scripts/skills/injury_permanent/broken_knee_injury.nut
 msgid "]-40%[/color] Initiative"
-msgstr ""
+msgstr "]-40%[/color] 主动性"
 
 # scripts/skills/injury_permanent/broken_knee_injury.nut
 msgid "]-40%[/color] Melee Defense"
@@ -77,7 +77,7 @@ msgstr "部分肺萎缩"
 
 # scripts/skills/injury_permanent/collapsed_lung_part_injury.nut
 msgid "]-40%[/color] Fatigue"
-msgstr ""
+msgstr "]-40%[/color] 疲劳"
 
 # scripts/skills/injury_permanent/collapsed_lung_part_injury.nut
 msgid "A part of the lung has died, making it very hard for this character to catch breath."
@@ -89,7 +89,7 @@ msgstr "残废足"
 
 # scripts/skills/injury_permanent/maimed_foot_injury.nut
 msgid "]-20%[/color] Initiative"
-msgstr ""
+msgstr "]-20%[/color] 主动性"
 
 # scripts/skills/injury_permanent/maimed_foot_injury.nut
 msgid "]1[/color] Additional Action Point per tile moved"
@@ -105,7 +105,7 @@ msgstr "耳缺失"
 
 # scripts/skills/injury_permanent/missing_ear_injury.nut
 msgid "]-10%[/color] Initiative"
-msgstr ""
+msgstr "]-10%[/color] 主动性"
 
 # scripts/skills/injury_permanent/missing_ear_injury.nut
 msgid "Luckily, a missing ear isn't that much of a hindrance for this character. But it does look gross."
@@ -117,7 +117,7 @@ msgstr "眼缺失"
 
 # scripts/skills/injury_permanent/missing_eye_injury.nut
 msgid "]-2[/color] Vision"
-msgstr ""
+msgstr "]-2[/color] 视野"
 
 # scripts/skills/injury_permanent/missing_eye_injury.nut
 msgid "]-50%[/color] Ranged Skill"
@@ -157,7 +157,7 @@ msgstr "鼻缺失"
 
 # scripts/skills/injury_permanent/missing_nose_injury.nut
 msgid "]-10%[/color] Max Fatigue"
-msgstr ""
+msgstr "]-10%[/color] 最大疲劳"
 
 # scripts/skills/injury_permanent/missing_nose_injury.nut
 msgid "A gaping hole is all that is left of the nose, making this character hard to look at."
@@ -177,7 +177,7 @@ msgstr "]-40%[/color] 决心"
 
 # scripts/skills/injury_permanent/traumatized_injury.nut
 msgid "]-30%[/color] Initiative"
-msgstr ""
+msgstr "]-30%[/color] 主动性"
 
 # scripts/skills/injury_permanent/traumatized_injury.nut
 msgid "This character has been to the other side. Faced with his own mortality, the experience of dying and coming back has left him a broken man."
@@ -189,7 +189,7 @@ msgstr "心脏衰弱"
 
 # scripts/skills/injury_permanent/weakened_heart_injury.nut
 msgid "]-30%[/color] Hitpoints"
-msgstr ""
+msgstr "]-30%[/color] 生命值"
 
 # scripts/skills/injury_permanent/weakened_heart_injury.nut
 msgid "Past injuries left this character with a weakened heart, severely lowering his constitution."

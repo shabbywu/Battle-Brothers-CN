@@ -168,7 +168,7 @@ msgstr ""
 
 # scripts/entity/tactical/actor.nut
 msgid "]Not currently in sight[/color]"
-msgstr ""
+msgstr "]目前不在视野范围内[/color]"
 
 # scripts/entity/tactical/actor.nut
 msgid " is reborn by the power of the Lorekeeper!"

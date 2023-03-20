@@ -698,7 +698,7 @@ msgstr "感到愉快"
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
 msgid "[/color] Resolve"
-msgstr ""
+msgstr "[/color] 决心"
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
 msgid "Glad that's settled."
@@ -906,7 +906,7 @@ msgstr "在路上享受生活"
 
 # scripts/events/events/dlc2/march_wear_and_tear_event.nut
 msgid "[/color] Medical Supplies."
-msgstr ""
+msgstr "[/color] 医疗用品"
 
 # scripts/events/events/dlc2/march_wear_and_tear_event.nut
 msgid "Put your damn boots back on."
@@ -954,7 +954,7 @@ msgstr "%terrainImage%{%thief% the thief sidles up to you. Stepping away and put
 
 # scripts/events/events/dlc2/miner_fresh_air_event.nut
 msgid "[/color] Max Fatigue"
-msgstr ""
+msgstr "[/color] 最大疲劳"
 
 # scripts/events/events/dlc2/miner_fresh_air_event.nut
 msgid "Happy to have a new life surface-side"
@@ -1140,7 +1140,7 @@ msgstr ""
 
 # scripts/events/events/dlc2/teamplayer_is_bro_event.nut
 msgid "]+1[/color] Resolve"
-msgstr ""
+msgstr "]+1[/color] 决心"
 
 # scripts/events/events/dlc2/teamplayer_is_bro_event.nut
 msgid "Happy to have a bro in "
@@ -1196,7 +1196,7 @@ msgstr "今天幸运女神向我们微笑。"
 
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
 msgid "[/color] Tools and Supplies."
-msgstr ""
+msgstr "[/color] 工具和补给"
 
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
 msgid "Some miner's expertise could be of use here."
@@ -1268,7 +1268,7 @@ msgstr "以古老神明的名义。"
 
 # scripts/events/events/dlc2/youngling_alp_event.nut
 msgid "[/color] Hitpoints"
-msgstr ""
+msgstr "[/color] 生命值"
 
 # scripts/events/events/dlc2/youngling_alp_event.nut
 msgid "]+200[/color] Experience"

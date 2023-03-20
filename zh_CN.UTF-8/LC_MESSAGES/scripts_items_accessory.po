@@ -22,7 +22,7 @@ msgstr "右键单击或拖动到当前选定的角色上进行饮用。 此物�
 # scripts/items/accessory/oathtaker_skull_02_item.nut
 # scripts/items/accessory/sergeant_badge_item.nut
 msgid "]+10[/color] Resolve"
-msgstr ""
+msgstr "]+10[/color] 决心"
 
 # scripts/items/accessory/spider_poison_item.nut
 # scripts/items/accessory/poison_item.nut
@@ -51,7 +51,7 @@ msgstr "梦魇雕饰项链"
 
 # scripts/items/accessory/alp_trophy_item.nut
 msgid "]+5[/color] Resolve"
-msgstr ""
+msgstr "]+5[/color] 决心"
 
 # scripts/items/accessory/alp_trophy_item.nut
 msgid "This necklace fashioned from trophies taken of various Alps declares the one wearing it a veteran of battle against supernatural nocturnal predators, and not easily daunted."
@@ -115,7 +115,7 @@ msgstr "猫药"
 
 # scripts/items/accessory/cat_potion_item.nut
 msgid "]+20[/color] Initiative"
-msgstr ""
+msgstr "]+20[/color] 主动性"
 
 # scripts/items/accessory/cat_potion_item.nut
 msgid "Be quick as a cat! This potion promises to heighten your senses and sharpen your reflexes. Drink responsibly. Lasts for the next battle."
@@ -135,7 +135,7 @@ msgstr "一种训练有素的猎鹰，可以在战斗中被释放出来以发现
 
 # scripts/items/accessory/ghoul_trophy_item.nut
 msgid "]+4[/color] Resolve"
-msgstr ""
+msgstr "]+4[/color] 决心"
 
 # scripts/items/accessory/ghoul_trophy_item.nut
 msgid "Nachzehrer Trophy Necklace"
@@ -167,7 +167,7 @@ msgstr "来自北方的为战争而生的强壮又忠诚的狗。 可在战斗�
 
 # scripts/items/accessory/hexen_trophy_item.nut
 msgid "]+6[/color] Resolve"
-msgstr ""
+msgstr "]+6[/color] 决心"
 
 # scripts/items/accessory/hexen_trophy_item.nut
 msgid "Hexen Trophy Necklace"
@@ -195,7 +195,7 @@ msgstr "狮心药水"
 
 # scripts/items/accessory/lionheart_potion_item.nut
 msgid "]+20[/color] Resolve"
-msgstr ""
+msgstr "]+20[/color] 决心"
 
 # scripts/items/accessory/lionheart_potion_item.nut
 msgid "Be brave as a lion! This potion inhibits fear and promotes courage, up to and including the gross overestimation of one's own abilities. Drink responsibly. Lasts for the next battle."
@@ -215,7 +215,7 @@ msgstr "喝了这瓶炼金药后，夜晚也似中午一样明亮。 可信赖�
 
 # scripts/items/accessory/oathtaker_skull_01_item.nut
 msgid "]+7[/color] Resolve"
-msgstr ""
+msgstr "]+7[/color] 决心"
 
 # scripts/items/accessory/oathtaker_skull_01_item.nut
 msgid "Young Anselm's Skull"

@@ -402,7 +402,7 @@ msgstr "建立友谊与 "
 # scripts/events/events/cow_tipping_event.nut
 # scripts/events/events/peacenik_event.nut
 msgid "]+1[/color] Resolve"
-msgstr ""
+msgstr "]+1[/color] 决心"
 
 # scripts/events/events/wildman_testing_money_event.nut
 # scripts/events/events/food_goes_bad_event.nut
@@ -435,7 +435,7 @@ msgstr "你失去了 [color="
 # scripts/events/events/running_around_event.nut
 # scripts/events/events/cripple_pep_talk_event.nut
 msgid "[/color] Max Fatigue"
-msgstr ""
+msgstr "[/color] 最大疲劳"
 
 # scripts/events/events/combat_drill_event.nut
 # scripts/events/events/hedgeknight_vs_hedgeknight_event.nut
@@ -453,7 +453,7 @@ msgstr "[/color] 近战技能"
 # scripts/events/events/supposed_witch_event.nut
 # scripts/events/events/cripple_pep_talk_event.nut
 msgid "[/color] Resolve"
-msgstr ""
+msgstr "[/color] 决心"
 
 # scripts/events/events/juggler_tempts_fate_event.nut
 # scripts/events/events/cultist_vs_uneducated_event.nut
@@ -462,7 +462,7 @@ msgstr ""
 # scripts/events/events/rookie_gets_hurt_event.nut
 # scripts/events/events/flagellant_vs_monk_event.nut
 msgid "]+2[/color] Resolve"
-msgstr ""
+msgstr "]+2[/color] 决心"
 
 # scripts/events/events/more_men_event.nut
 # scripts/events/events/sellsword_gets_better_deal_event.nut
@@ -486,7 +486,7 @@ msgstr ""
 # scripts/events/events/swordmaster_teaches_event.nut
 # scripts/events/events/apprentice_learns_event.nut
 msgid "[/color] Melee Defense"
-msgstr ""
+msgstr "[/color] 近战防御"
 
 # scripts/events/events/combat_drill_event.nut
 # scripts/events/events/creepy_guy_event.nut
@@ -494,7 +494,7 @@ msgstr ""
 # scripts/events/events/supposed_witch_event.nut
 # scripts/events/events/cripple_pep_talk_event.nut
 msgid "[/color] Initiative"
-msgstr ""
+msgstr "[/color] 主动性"
 
 # scripts/events/events/juggler_tempts_fate_event.nut
 # scripts/events/events/minstrel_writes_song_event.nut
@@ -567,7 +567,7 @@ msgstr " 是生病了"
 # scripts/events/events/brawler_teaches_event.nut
 # scripts/events/events/apprentice_learns_event.nut
 msgid "[/color] Hitpoints"
-msgstr ""
+msgstr "[/color] 生命值"
 
 # scripts/events/events/shooting_contest_event.nut
 # scripts/events/events/archery_stunt_event.nut
@@ -585,13 +585,13 @@ msgstr "我们没时间做这个。"
 # scripts/events/events/broken_wagon_in_swamp_event.nut
 # scripts/events/events/broken_cart_event.nut
 msgid "[/color] Tools and Supplies."
-msgstr ""
+msgstr "[/color] 工具和补给"
 
 # scripts/events/events/imprisoned_wildman_event.nut
 # scripts/events/events/cat_on_tree_event.nut
 # scripts/events/events/pimp_vs_harlot_event.nut
 msgid "]+2[/color] Initiative"
-msgstr ""
+msgstr "]+2[/color] 主动性"
 
 # scripts/events/events/noble_vs_lowborn_event.nut
 # scripts/events/events/cocky_vs_iron_lungs_event.nut
@@ -717,7 +717,7 @@ msgstr "好一场表演！"
 # scripts/events/events/strength_contest_event.nut
 # scripts/events/events/cow_tipping_event.nut
 msgid "]+1[/color] Max Fatigue"
-msgstr ""
+msgstr "]+1[/color] 最大疲劳"
 
 # scripts/events/events/creepy_guy_event.nut
 # scripts/events/events/imprisoned_wildman_event.nut
@@ -727,7 +727,7 @@ msgstr "]250[/color] 克朗"
 # scripts/events/events/creepy_guy_event.nut
 # scripts/events/events/rookie_gets_hurt_event.nut
 msgid "]+3[/color] Resolve"
-msgstr ""
+msgstr "]+3[/color] 决心"
 
 # scripts/events/events/cultist_vs_uneducated_event.nut
 # scripts/events/events/cultist_vs_old_gods_event.nut
@@ -777,7 +777,7 @@ msgstr "被拒绝加薪"
 # scripts/events/events/thief_caught_event.nut
 # scripts/events/events/herbs_along_the_way_event.nut
 msgid "[/color] Medical Supplies"
-msgstr ""
+msgstr "[/color] 医疗用品"
 
 # scripts/events/events/imprisoned_wildman_event.nut
 # scripts/events/events/raid_farmstead_event.nut
@@ -1579,7 +1579,7 @@ msgstr "我希望这物有所值。"
 
 # scripts/events/events/broken_cart_event.nut
 msgid "[/color] Medical Supplies."
-msgstr ""
+msgstr "[/color] 医疗用品"
 
 # scripts/events/events/broken_cart_event.nut
 msgid "Store everything, we're moving on."
@@ -2411,7 +2411,7 @@ msgstr "[img]gfx/ui/events/event_33.png[/img]走到一根摇曳的蜡烛前，%c
 
 # scripts/events/events/cultist_vs_old_gods_event.nut
 msgid "]-1[/color] Resolve"
-msgstr ""
+msgstr "]-1[/color] 决心"
 
 # scripts/events/events/cultist_vs_old_gods_event.nut
 msgid "Let's get godly with the goriest!"
@@ -3023,7 +3023,7 @@ msgstr "[img]gfx/ui/events/event_91.png[/img]你觉得值得花时间去看看�
 
 # scripts/events/events/fish_caught_event.nut
 msgid "[/color] Fish"
-msgstr ""
+msgstr "[/color] 条鱼"
 
 # scripts/events/events/fish_caught_event.nut
 msgid "It's fish tonight!"
@@ -5703,7 +5703,7 @@ msgstr ""
 
 # scripts/events/events/ratcatcher_catches_food_event.nut
 msgid "[/color] Rat Meat"
-msgstr ""
+msgstr "[/color] 老鼠肉"
 
 # scripts/events/events/ratcatcher_catches_food_event.nut
 msgid "Was served rat for dinner"
@@ -5845,7 +5845,7 @@ msgstr "只有钢铁才能铸就钢铁。"
 
 # scripts/events/events/rookie_gets_hurt_event.nut
 msgid "]-3[/color] Resolve"
-msgstr ""
+msgstr "]-3[/color] 决心"
 
 # scripts/events/events/rookie_gets_hurt_event.nut
 msgid "Had an encouraging talk"
@@ -6183,11 +6183,11 @@ msgstr "好吧，很好。"
 
 # scripts/events/events/shooting_contest_event.nut
 msgid "]-30[/color] Ammunition"
-msgstr ""
+msgstr "]-30[/color] 弹药"
 
 # scripts/events/events/shooting_contest_event.nut
 msgid "]-60[/color] Ammunition"
-msgstr ""
+msgstr "]-60[/color] 弹药"
 
 # scripts/events/events/shooting_contest_event.nut
 msgid "Peace and quiet at last."
@@ -6585,7 +6585,7 @@ msgstr "你失去了一些 "
 
 # scripts/events/events/thief_caught_event.nut
 msgid "[/color] Ammunition"
-msgstr ""
+msgstr "[/color] 弹药"
 
 # scripts/events/events/thief_caught_event.nut
 msgid "That damn scoundrel!"
@@ -6601,7 +6601,7 @@ msgstr "给他一顿痛打。"
 
 # scripts/events/events/thief_caught_event.nut
 msgid "[/color] Tools and Supplies"
-msgstr ""
+msgstr "[/color] 工具和补给"
 
 # scripts/events/events/thief_caught_event.nut
 msgid "Let this be a lesson to you!"
@@ -7311,7 +7311,7 @@ msgstr ""
 
 # scripts/events/events/wildman_causes_havoc_event.nut
 msgid "[/color] crowns a day"
-msgstr "[/color] crowns 一天"
+msgstr "[/color] 克朗每天"
 
 # scripts/events/events/wildman_causes_havoc_event.nut
 msgid "To hell with your shop."

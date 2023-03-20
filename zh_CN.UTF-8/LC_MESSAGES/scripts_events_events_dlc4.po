@@ -81,7 +81,7 @@ msgstr "达库尔即将降临。"
 # scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
 # scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
 msgid "]+2[/color] Resolve"
-msgstr ""
+msgstr "]+2[/color] 决心"
 
 # scripts/events/events/dlc4/horse_race_event.nut
 # scripts/events/events/dlc4/raiders_origin_redemption_event.nut
@@ -127,7 +127,7 @@ msgstr "你获得了 [color="
 # scripts/events/events/dlc4/horse_race_event.nut
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
 msgid "]+1[/color] Resolve"
-msgstr ""
+msgstr "]+1[/color] 决心"
 
 # scripts/events/events/dlc4/lone_wolf_origin_depressing_lady_event.nut
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
@@ -334,7 +334,7 @@ msgstr "他即将降临到我们。"
 
 # scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
 msgid "]-1[/color] Resolve"
-msgstr ""
+msgstr "]-1[/color] 决心"
 
 # scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
 msgid "Let's get godly with the goriest!"
@@ -418,7 +418,7 @@ msgstr ""
 
 # scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
 msgid "[/color] Ammunition"
-msgstr ""
+msgstr "[/color] 弹药"
 
 # scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
 msgid "Damn those scroundels!"
@@ -426,11 +426,11 @@ msgstr "这帮该死的鼠辈！"
 
 # scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
 msgid "[/color] Medical Supplies"
-msgstr ""
+msgstr "[/color] 医疗用品"
 
 # scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
 msgid "[/color] Tools and Supplies"
-msgstr ""
+msgstr "[/color] 工具和补给"
 
 # scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
 msgid "Welcome to the %companyname%!"
@@ -576,7 +576,7 @@ msgstr "感到愉快来自 "
 
 # scripts/events/events/dlc4/horse_race_event.nut
 msgid "]+1[/color] Max Fatigue"
-msgstr ""
+msgstr "]+1[/color] 最大疲劳"
 
 # scripts/events/events/dlc4/horse_race_event.nut
 msgid "He'll be alright. Pay up."
@@ -706,11 +706,11 @@ msgstr "%terrainImage%{在这片白雪皑皑的荒原上什么东西也没有，
 
 # scripts/events/events/dlc4/kings_guard_2_event.nut
 msgid "]+15[/color] Hitpoints"
-msgstr ""
+msgstr "]+15[/color] 生命值"
 
 # scripts/events/events/dlc4/kings_guard_2_event.nut
 msgid "]+10[/color] Initiative"
-msgstr ""
+msgstr "]+10[/color] 主动性"
 
 # scripts/events/events/dlc4/kings_guard_2_event.nut
 msgid "Is his former self again"
@@ -718,7 +718,7 @@ msgstr "重新成为昔日的自己"
 
 # scripts/events/events/dlc4/kings_guard_2_event.nut
 msgid "]+10[/color] Max Fatigue"
-msgstr ""
+msgstr "]+10[/color] 最大疲劳"
 
 # scripts/events/events/dlc4/kings_guard_2_event.nut
 msgid "]+12[/color] Melee Skill"
@@ -926,7 +926,7 @@ msgstr "哦，上帝呀！"
 
 # scripts/events/events/dlc4/sled_race_event.nut
 msgid "]+1[/color] Initiative"
-msgstr ""
+msgstr "]+1[/color] 主动性"
 
 # scripts/events/events/dlc4/sled_race_event.nut
 msgid "Blind leading the seeing."

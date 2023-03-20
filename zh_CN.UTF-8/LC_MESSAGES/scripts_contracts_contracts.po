@@ -2689,7 +2689,7 @@ msgstr ""
 
 # scripts/contracts/contracts/defend_holy_site_contract.nut
 msgid "[/color] Tools and Supplies."
-msgstr ""
+msgstr "[/color] 工具和补给"
 
 # scripts/contracts/contracts/defend_holy_site_contract.nut
 msgid "We'll take the throwing spears."

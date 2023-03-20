@@ -68,7 +68,7 @@ msgstr "]+25%[/color] 决心"
 
 # scripts/skills/effects_world/drunk_effect.nut
 msgid "]-25%[/color] Initiative"
-msgstr ""
+msgstr "]-25%[/color] 主动性"
 
 # scripts/skills/effects_world/drunk_effect.nut
 msgid "]-25%[/color] Melee Skill"
@@ -100,7 +100,7 @@ msgstr "精疲力竭"
 
 # scripts/skills/effects_world/exhausted_effect.nut
 msgid "]-40%[/color] Max Fatigue"
-msgstr ""
+msgstr "]-40%[/color] 最大疲劳"
 
 # scripts/skills/effects_world/exhausted_effect.nut
 msgid "Recent events have left this character physically exhausted and barely in a condition to keep up with the rest of the company, let alone fight. A few days rest should do wonders."
@@ -116,7 +116,7 @@ msgstr "]-10%[/color] 决心"
 
 # scripts/skills/effects_world/hangover_effect.nut
 msgid "]-10%[/color] Initiative"
-msgstr ""
+msgstr "]-10%[/color] 主动性"
 
 # scripts/skills/effects_world/hangover_effect.nut
 msgid "]-10%[/color] Melee Skill"

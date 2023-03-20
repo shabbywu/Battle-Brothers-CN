@@ -107,7 +107,7 @@ msgstr "你获得了 "
 # scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "[/color] Resolve"
-msgstr ""
+msgstr "[/color] 决心"
 
 # scripts/events/events/dlc8/oathtakers_lore_event.nut
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
@@ -174,7 +174,7 @@ msgstr " 遭受重伤"
 # scripts/events/events/dlc8/mutated_gladiator_annoys_others_event.nut
 # scripts/events/events/dlc8/shadow_dissection_event.nut
 msgid "]+1[/color] Resolve"
-msgstr ""
+msgstr "]+1[/color] 决心"
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
 # scripts/events/events/dlc8/tree_fort_event.nut
@@ -195,7 +195,7 @@ msgstr "]+200[/color] 经验值"
 # scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
 # scripts/events/events/dlc8/missing_kids_event.nut
 msgid "[/color] Initiative"
-msgstr ""
+msgstr "[/color] 主动性"
 
 # scripts/events/events/dlc8/tree_fort_event.nut
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
@@ -288,7 +288,7 @@ msgstr "[/color] 近战技能"
 # scripts/events/events/dlc8/brawler_throw_fight_event.nut
 # scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
 msgid "[/color] Melee Defense"
-msgstr ""
+msgstr "[/color] 近战防御"
 
 # scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
 # scripts/events/events/dlc8/ruined_priory_event.nut
@@ -303,17 +303,17 @@ msgstr "]75[/color] 克朗"
 # scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
 # scripts/events/events/dlc8/mutated_gladiator_annoys_others_event.nut
 msgid "]+1[/color] Fatigue"
-msgstr ""
+msgstr "]+1[/color] 疲劳"
 
 # scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
 # scripts/events/events/dlc8/mutated_gladiator_annoys_others_event.nut
 msgid "]+1[/color] Hitpoints"
-msgstr ""
+msgstr "]+1[/color] 生命值"
 
 # scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
 # scripts/events/events/dlc8/mutated_gladiator_annoys_others_event.nut
 msgid "]+1[/color] Initiative"
-msgstr ""
+msgstr "]+1[/color] 主动性"
 
 # scripts/events/events/dlc8/oathtaker_joins_event.nut
 # scripts/events/events/dlc8/volunteers_event.nut
@@ -664,19 +664,19 @@ msgstr "[img]gfx/ui/events/event_18.png[/img]{In the most reluctant rescue ever,
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
 msgid "]+12[/color] Resolve"
-msgstr ""
+msgstr "]+12[/color] 决心"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
 msgid "]+5[/color] Hitpoints"
-msgstr ""
+msgstr "]+5[/color] 生命值"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
 msgid "]+6[/color] Initiative"
-msgstr ""
+msgstr "]+6[/color] 主动性"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
 msgid "]+3[/color] Max Fatigue"
-msgstr ""
+msgstr "]+3[/color] 最大疲劳"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
 msgid "]+8[/color] Melee Skill"
@@ -804,7 +804,7 @@ msgstr ""
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid "[/color] Hitpoints"
-msgstr ""
+msgstr "[/color] 生命值"
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid " is no longer Ailing"
@@ -1480,7 +1480,7 @@ msgstr ""
 
 # scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
 msgid "[/color] Ranged Defense"
-msgstr ""
+msgstr "[/color] 远程防御"
 
 # scripts/events/events/dlc8/disowned_noble_welcomed_back_event.nut
 msgid "I'll show him the letter."
@@ -1876,7 +1876,7 @@ msgstr ""
 
 # scripts/events/events/dlc8/oathtaker_happy_with_company_event.nut
 msgid "]+2[/color] Resolve"
-msgstr ""
+msgstr "]+2[/color] 决心"
 
 # scripts/events/events/dlc8/oathtaker_happy_with_company_event.nut
 msgid "Glad someone appreciates it."
@@ -2058,7 +2058,7 @@ msgstr ""
 
 # scripts/events/events/dlc8/ruined_priory_event.nut
 msgid "]40[/color] Tools and Supplies"
-msgstr ""
+msgstr "]40[/color] 工具和补给"
 
 # scripts/events/events/dlc8/ruined_priory_event.nut
 msgid "You refused to help a monk in need"
@@ -2305,7 +2305,7 @@ msgstr ""
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
 msgid "[/color] Fatigue"
-msgstr ""
+msgstr "[/color] 疲劳"
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
 msgid "I'm going with you."

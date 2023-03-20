@@ -12,7 +12,7 @@ msgstr ""
 # scripts/skills/traits/arena_veteran_trait.nut
 # scripts/skills/traits/cultist_acolyte_trait.nut
 msgid "]+10[/color] Resolve"
-msgstr ""
+msgstr "]+10[/color] 决心"
 
 # scripts/skills/traits/cultist_zealot_trait.nut
 # scripts/skills/traits/cultist_disciple_trait.nut
@@ -38,7 +38,7 @@ msgstr "失去生命值时不会触发士气检查"
 # scripts/skills/traits/brave_trait.nut
 # scripts/skills/traits/cultist_fanatic_trait.nut
 msgid "]+5[/color] Resolve"
-msgstr ""
+msgstr "]+5[/color] 决心"
 
 # scripts/skills/traits/strong_trait.nut
 # scripts/skills/traits/tough_trait.nut
@@ -144,7 +144,7 @@ msgstr ""
 # scripts/skills/traits/cultist_prophet_trait.nut
 # scripts/skills/traits/cultist_chosen_trait.nut
 msgid "]+20[/color] Hitpoints"
-msgstr ""
+msgstr "]+20[/color] 生命值"
 
 # scripts/skills/traits/dastard_trait.nut
 # scripts/skills/traits/weasel_trait.nut
@@ -167,7 +167,7 @@ msgstr ""
 # scripts/skills/traits/ailing_trait.nut
 # scripts/skills/traits/bleeder_trait.nut
 msgid "]1[/color] additional turn"
-msgstr ""
+msgstr "]1[/color] 额外回合"
 
 # scripts/skills/traits/clubfooted_trait.nut
 # scripts/skills/traits/athletic_trait.nut
@@ -247,22 +247,22 @@ msgstr ""
 # scripts/skills/traits/old_trait.nut
 # scripts/skills/traits/fat_trait.nut
 msgid "]-10[/color] Max Fatigue"
-msgstr ""
+msgstr "]-10[/color] 最大疲劳"
 
 # scripts/skills/traits/tough_trait.nut
 # scripts/skills/traits/fat_trait.nut
 msgid "]+10[/color] Hitpoints"
-msgstr ""
+msgstr "]+10[/color] 生命值"
 
 # scripts/skills/traits/old_trait.nut
 # scripts/skills/traits/fragile_trait.nut
 msgid "]-10[/color] Hitpoints"
-msgstr ""
+msgstr "]-10[/color] 生命值"
 
 # scripts/skills/traits/old_trait.nut
 # scripts/skills/traits/hesitant_trait.nut
 msgid "]-10[/color] Initiative"
-msgstr ""
+msgstr "]-10[/color] 主动性"
 
 # scripts/skills/traits/iron_jaw_trait.nut
 # scripts/skills/traits/tough_trait.nut
@@ -287,7 +287,7 @@ msgstr ""
 # scripts/skills/traits/old_trait.nut
 # scripts/skills/traits/short_sighted_trait.nut
 msgid "]-1[/color] Vision"
-msgstr ""
+msgstr "]-1[/color] 视野"
 
 # scripts/skills/traits/addict_trait.nut
 msgid "Addict"
@@ -535,7 +535,7 @@ msgstr ""
 
 # scripts/skills/traits/craven_trait.nut
 msgid "]-10[/color] Resolve"
-msgstr ""
+msgstr "]-10[/color] 决心"
 
 # scripts/skills/traits/craven_trait.nut
 msgid "Run for your lives! This character is a craven and will run at the slightest sign of the odds turning against him."
@@ -659,7 +659,7 @@ msgstr ""
 
 # scripts/skills/traits/drunkard_trait.nut
 msgid "]+10%[/color] Damage"
-msgstr ""
+msgstr "]+10%[/color] 伤害"
 
 # scripts/skills/traits/drunkard_trait.nut
 msgid "]-10[/color] Ranged Skill"
@@ -683,7 +683,7 @@ msgstr "嗯，什么？ 这个角色不是最聪明的，新概念需要一段�
 
 # scripts/skills/traits/eagle_eyes_trait.nut
 msgid "]+1[/color] Vision"
-msgstr ""
+msgstr "]+1[/color] 视野"
 
 # scripts/skills/traits/eagle_eyes_trait.nut
 msgid "Blessed with the eyes of an eagle, this character can spot a fly from a hundred paces away."
@@ -699,7 +699,7 @@ msgstr "懦弱"
 
 # scripts/skills/traits/fainthearted_trait.nut
 msgid "]-5[/color] Resolve"
-msgstr ""
+msgstr "]-5[/color] 决心"
 
 # scripts/skills/traits/fainthearted_trait.nut
 msgid "This character needs some warm words and a pat on the back from time to time."
@@ -783,7 +783,7 @@ msgstr ""
 
 # scripts/skills/traits/glorious_endurance_trait.nut
 msgid "%[/color] of any damage"
-msgstr ""
+msgstr "%[/color] 所有伤害"
 
 # scripts/skills/traits/glorious_endurance_trait.nut
 msgid "Gains 5% damage reduction with every hit taken, up to a limit of 25%"
@@ -971,7 +971,7 @@ msgstr "不理性"
 
 # scripts/skills/traits/irrational_trait.nut
 msgid "]+10[/color] or [color="
-msgstr ""
+msgstr "]+10[/color] 或 [color="
 
 # scripts/skills/traits/irrational_trait.nut
 msgid "]-10[/color] Resolve randomly at every morale check"
@@ -1019,7 +1019,7 @@ msgstr "疯子"
 
 # scripts/skills/traits/mad_trait.nut
 msgid "]+15[/color] or [color="
-msgstr ""
+msgstr "]+15[/color] 或 [color="
 
 # scripts/skills/traits/mad_trait.nut
 msgid "Immune against fear and mind control abilities"
@@ -1099,7 +1099,7 @@ msgstr "统御誓言"
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
 msgid "]+20[/color] Resolve when fighting beasts"
-msgstr ""
+msgstr "]+20[/color] 决心(与野兽战斗时)"
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
 msgid "]+10[/color] Melee Skill when fighting beasts"
@@ -1139,11 +1139,11 @@ msgstr "壁垒誓言"
 
 # scripts/skills/traits/oath_of_fortification_trait.nut
 msgid "]25%[/color] less Fatigue."
-msgstr ""
+msgstr "]25%[/color] 更少疲劳"
 
 # scripts/skills/traits/oath_of_fortification_trait.nut
 msgid "]+5[/color] Ranged Defense."
-msgstr ""
+msgstr "]+5[/color] 远程防御"
 
 # scripts/skills/traits/oath_of_fortification_trait.nut
 msgid "Shield skills build up [color="
@@ -1203,7 +1203,7 @@ msgstr "正义誓言"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]+15[/color] Resolve when fighting undead"
-msgstr ""
+msgstr "]+15[/color] 决心(与亡灵战斗时)"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]+10[/color] Melee Skill when fighting undead"
@@ -1375,7 +1375,7 @@ msgstr ""
 
 # scripts/skills/traits/paranoid_trait.nut
 msgid "]-30[/color] Initiative"
-msgstr ""
+msgstr "]-30[/color] 主动性"
 
 # scripts/skills/traits/paranoid_trait.nut
 msgid "I swear that bush over there was moving! This character is extra cautious and reluctant to move ahead."
@@ -1411,7 +1411,7 @@ msgstr "锋利的"
 
 # scripts/skills/traits/quick_trait.nut
 msgid "]+10[/color] Initiative"
-msgstr ""
+msgstr "]+10[/color] 主动性"
 
 # scripts/skills/traits/quick_trait.nut
 msgid "Already there! This character is quick to act, often before his opponents do."
@@ -1447,7 +1447,7 @@ msgstr ""
 
 # scripts/skills/traits/strong_trait.nut
 msgid "]+10[/color] Max Fatigue"
-msgstr ""
+msgstr "]+10[/color] 最大疲劳"
 
 # scripts/skills/traits/strong_trait.nut
 msgid "Well fed and buffed to the max."

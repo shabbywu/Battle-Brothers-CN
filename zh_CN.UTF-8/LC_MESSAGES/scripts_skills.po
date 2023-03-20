@@ -136,19 +136,19 @@ msgstr ""
 
 # scripts/skills/skill.nut
 msgid "[/color] damage to armor"
-msgstr ""
+msgstr "[/color] 盔甲伤害"
 
 # scripts/skills/skill.nut
 msgid " Fatigue[/color][/b][/i]\n"
-msgstr ""
+msgstr " 疲劳[/color][/b][/i]\n"
 
 # scripts/skills/skill.nut
 msgid "[/color] can ignore armor"
-msgstr ""
+msgstr "[/color] 可无视盔甲"
 
 # scripts/skills/skill.nut
 msgid " damage to hitpoints[/color]"
-msgstr ""
+msgstr " 生命值伤害[/color]"
 
 # scripts/skills/skill.nut
 msgid "Resistance against ranged weapons"
@@ -156,7 +156,7 @@ msgstr "远程抗性"
 
 # scripts/skills/skill.nut
 msgid "[/color] damage that ignores armor"
-msgstr ""
+msgstr "[/color] 伤害(忽略护甲)"
 
 # scripts/skills/skill.nut
 msgid " and the shot goes astray and hits "
@@ -168,7 +168,7 @@ msgstr "穿刺抗性"
 
 # scripts/skills/skill.nut
 msgid " AP[/color][/b] to use and builds up "
-msgstr ""
+msgstr " AP[/color][/b] 并产生"
 
 # scripts/skills/skill.nut
 msgid " and the shot goes astray and misses "

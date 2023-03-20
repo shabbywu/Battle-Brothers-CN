@@ -10,7 +10,7 @@ msgstr ""
 # scripts/items/tools/reinforced_throwing_net.nut
 # scripts/items/tools/fire_bomb_item.nut
 msgid "[/color] tiles"
-msgstr ""
+msgstr "[/color] 格范围"
 
 # scripts/items/tools/daze_bomb_item.nut
 # scripts/items/tools/holy_water_item.nut
@@ -30,7 +30,7 @@ msgstr "放在副手"
 # scripts/items/tools/reinforced_throwing_net.nut
 # scripts/items/tools/fire_bomb_item.nut
 msgid "Range of [color="
-msgstr ""
+msgstr "射程 [color="
 
 # scripts/items/tools/daze_bomb_item.nut
 # scripts/items/tools/holy_water_item.nut
@@ -68,7 +68,7 @@ msgstr "酸瓶"
 
 # scripts/items/tools/acid_flask_item.nut
 msgid "]20%[/color] each turn for 3 turns"
-msgstr ""
+msgstr "]20%[/color] 每回合(持续3回合)"
 
 # scripts/items/tools/acid_flask_item.nut
 msgid "Reduces the target's armor by [color="
@@ -128,7 +128,7 @@ msgstr "圣水瓶"
 
 # scripts/items/tools/holy_water_item.nut
 msgid "]20[/color] for [color="
-msgstr ""
+msgstr "]20[/color] 持续 [color="
 
 # scripts/items/tools/holy_water_item.nut
 msgid "]100%[/color] of damage ignores armor"

@@ -73,7 +73,7 @@ msgstr ""
 # scripts/skills/actives/aimed_shot.nut
 # scripts/skills/actives/sling_stone_skill.nut
 msgid "Has a range of [color="
-msgstr ""
+msgstr "有 [color="
 
 # scripts/skills/actives/uproot_skill.nut
 # scripts/skills/actives/shatter_skill.nut
@@ -239,7 +239,7 @@ msgstr "粉碎"
 # scripts/skills/actives/disarm_skill.nut
 # scripts/skills/actives/strike_skill.nut
 msgid "[/color] tiles"
-msgstr ""
+msgstr "[/color] 格范围"
 
 # scripts/skills/actives/shatter_skill.nut
 # scripts/skills/actives/gore_skill.nut
@@ -283,7 +283,7 @@ msgstr ""
 # scripts/skills/actives/aimed_shot.nut
 # scripts/skills/actives/sling_stone_skill.nut
 msgid "%[/color] per tile of distance"
-msgstr ""
+msgstr "%[/color] 每格距离"
 
 # scripts/skills/actives/demolish_armor_skill.nut
 # scripts/skills/actives/decapitate.nut
@@ -293,7 +293,7 @@ msgstr ""
 # scripts/skills/actives/overhead_strike.nut
 # scripts/skills/actives/pound.nut
 msgid "[/color] damage to armor"
-msgstr ""
+msgstr "[/color] 盔甲伤害"
 
 # scripts/skills/actives/gash_skill.nut
 # scripts/skills/actives/impale.nut
@@ -330,7 +330,7 @@ msgstr "碎裂"
 # scripts/skills/actives/rupture.nut
 # scripts/skills/actives/repel.nut
 msgid "]2[/color] tiles"
-msgstr ""
+msgstr "]2[/color] 格范围"
 
 # scripts/skills/actives/quick_shot.nut
 # scripts/skills/actives/shoot_stake.nut
@@ -370,7 +370,7 @@ msgstr ""
 # scripts/skills/actives/overhead_strike.nut
 # scripts/skills/actives/pound.nut
 msgid "[/color] can ignore armor"
-msgstr ""
+msgstr "[/color] 可无视盔甲"
 
 # scripts/skills/actives/shatter_skill.nut
 # scripts/skills/actives/swing.nut
@@ -394,7 +394,7 @@ msgstr "被刺穿"
 # scripts/skills/actives/pound.nut
 # scripts/skills/actives/knock_out.nut
 msgid "%[/color] chance to stun on a hit"
-msgstr ""
+msgstr "%[/color] 概率击昏"
 
 # scripts/skills/actives/kraken_bite_skill.nut
 # scripts/skills/actives/zombie_bite.nut
@@ -459,7 +459,7 @@ msgstr ""
 # scripts/skills/actives/smite_skill.nut
 # scripts/skills/actives/repel.nut
 msgid "]100%[/color] chance to stagger on a hit"
-msgstr ""
+msgstr "]100%[/color] 概率使趔趄"
 
 # scripts/skills/actives/kraken_bite_skill.nut
 # scripts/skills/actives/wolf_bite.nut
@@ -562,7 +562,7 @@ msgstr "]-10%[/color] 命中几率"
 # scripts/skills/actives/reload_bolt.nut
 # scripts/skills/actives/shoot_bolt.nut
 msgid "[/color] bolts left"
-msgstr ""
+msgstr "[/color] 弩矢剩余"
 
 # scripts/skills/actives/shoot_stake.nut
 # scripts/skills/actives/reload_bolt.nut
@@ -573,7 +573,7 @@ msgstr "]需要装备非空弩失袋[/color]"
 # scripts/skills/actives/quick_shot.nut
 # scripts/skills/actives/aimed_shot.nut
 msgid "[/color] arrows left"
-msgstr ""
+msgstr "[/color] 箭剩余"
 
 # scripts/skills/actives/quick_shot.nut
 # scripts/skills/actives/aimed_shot.nut
@@ -673,7 +673,7 @@ msgstr "重棒打死"
 # scripts/skills/actives/fire_handgonne_skill.nut
 # scripts/skills/actives/reload_handgonne_skill.nut
 msgid "[/color] shots left"
-msgstr ""
+msgstr "[/color] 发剩余"
 
 # scripts/skills/actives/fire_handgonne_skill.nut
 # scripts/skills/actives/reload_handgonne_skill.nut
@@ -743,7 +743,7 @@ msgstr "一种穿透攻击，可以覆盖2格的距离，可以从前线后方�
 # scripts/skills/actives/knock_over_skill.nut
 # scripts/skills/actives/knock_out.nut
 msgid "]100%[/color] chance to stun on a hit"
-msgstr ""
+msgstr "]100%[/color] 概率击昏"
 
 # scripts/skills/actives/knock_over_skill.nut
 # scripts/skills/actives/knock_out.nut
@@ -788,7 +788,7 @@ msgstr ""
 # scripts/skills/actives/throw_spear_skill.nut
 # scripts/skills/actives/split_shield.nut
 msgid "[/color] damage to shields"
-msgstr ""
+msgstr "[/color] 盾牌伤害"
 
 # scripts/skills/actives/sweep_zoc_skill.nut
 # scripts/skills/actives/sweep_skill.nut
@@ -803,7 +803,7 @@ msgstr "]33%[/color] 命中几率 bystanders at the same or lower height level a
 # scripts/skills/actives/throw_spear_skill.nut
 # scripts/skills/actives/throw_balls.nut
 msgid "]-10%[/color] per tile of distance"
-msgstr ""
+msgstr "]-10%[/color] 每格距离"
 
 # scripts/skills/actives/throw_spear_skill.nut
 # scripts/skills/actives/throw_balls.nut
@@ -1003,7 +1003,7 @@ msgstr "切碎"
 
 # scripts/skills/actives/chop.nut
 msgid "]50%[/color] damage on a hit to the head"
-msgstr ""
+msgstr "]50%[/color] 头部伤害"
 
 # scripts/skills/actives/chop.nut
 msgid "A powerful chopping attack that bears full force on any target."
@@ -1035,7 +1035,7 @@ msgstr ""
 
 # scripts/skills/actives/coat_with_spider_poison_skill.nut
 msgid "]10[/color] damage per turn."
-msgstr ""
+msgstr "]10[/color] 伤害每回合"
 
 # scripts/skills/actives/coat_with_spider_poison_skill.nut
 msgid "]4[/color] attacks will apply the Poisoned status effect for [color="
@@ -1131,7 +1131,7 @@ msgstr ""
 
 # scripts/skills/actives/disarm_skill.nut
 msgid "]100%[/color] chance to disarm on a hit"
-msgstr ""
+msgstr "]100%[/color] 概率缴械"
 
 # scripts/skills/actives/disarm_skill.nut
 msgid "Use the whip over significant distance to temporarily disarm an opponent on a hit. A disarmed opponent can not use any weapon skills, but may still use other skills and move freely. Unarmed targets can not be disarmed."
@@ -1307,7 +1307,7 @@ msgstr "食尸鬼爪"
 
 # scripts/skills/actives/ghoul_claws.nut
 msgid "[/color] damage"
-msgstr ""
+msgstr "[/color] 伤害"
 
 # scripts/skills/actives/ghoul_claws.nut
 msgid "Long and sharp claws that can tear flesh with ease."
@@ -1419,7 +1419,7 @@ msgstr "点燃"
 
 # scripts/skills/actives/ignite_firelance_skill.nut
 msgid "[/color] charge left"
-msgstr ""
+msgstr "[/color] 装弹剩余"
 
 # scripts/skills/actives/ignite_firelance_skill.nut
 msgid "]No charges left[/color]"
@@ -1443,7 +1443,7 @@ msgstr ""
 
 # scripts/skills/actives/indomitable.nut
 msgid "]50%[/color] of any damage"
-msgstr ""
+msgstr "]50%[/color] 所有伤害"
 
 # scripts/skills/actives/indomitable.nut
 msgid "Become immune to being stunned"
@@ -1691,7 +1691,7 @@ msgstr "集结"
 
 # scripts/skills/actives/rally_the_troops.nut
 msgid "]-10[/color] per tile distance"
-msgstr ""
+msgstr "]-10[/color] 每格距离"
 
 # scripts/skills/actives/rally_the_troops.nut
 msgid "[/color] based on this character's Resolve"
@@ -1847,7 +1847,7 @@ msgstr "震碎"
 
 # scripts/skills/actives/shatter_skill.nut
 msgid "]33%[/color] chance to stagger on a hit"
-msgstr ""
+msgstr "]33%[/color] 概率使趔趄"
 
 # scripts/skills/actives/shatter_skill.nut
 msgid "]33%[/color] chance to knock back on a hit"
@@ -1875,7 +1875,7 @@ msgstr ""
 
 # scripts/skills/actives/shieldwall.nut
 msgid "[/color] Ranged Defense for one turn"
-msgstr ""
+msgstr "[/color] 远程防御(持续1回合)"
 
 # scripts/skills/actives/shieldwall.nut
 msgid "]+5[/color] Defense against all attacks for each ally adjacent also using Shieldwall"
@@ -1999,7 +1999,7 @@ msgstr "分裂人"
 
 # scripts/skills/actives/split_man.nut
 msgid "[/color] damage to hitpoints"
-msgstr ""
+msgstr "[/color] 生命值伤害"
 
 # scripts/skills/actives/split_man.nut
 msgid "Hits both head and body for additional damage"
@@ -2143,7 +2143,7 @@ msgstr "掷斧"
 
 # scripts/skills/actives/throw_axe.nut
 msgid "[/color] axes left"
-msgstr ""
+msgstr "[/color] 斧头剩余"
 
 # scripts/skills/actives/throw_axe.nut
 msgid "]No axes left[/color]"
@@ -2159,7 +2159,7 @@ msgstr "掷流星锤"
 
 # scripts/skills/actives/throw_balls.nut
 msgid "[/color] spiked balls left"
-msgstr ""
+msgstr "[/color] 流星锤剩余"
 
 # scripts/skills/actives/throw_balls.nut
 msgid "]No spiked balls left[/color]"
@@ -2263,7 +2263,7 @@ msgstr "掷标枪"
 
 # scripts/skills/actives/throw_javelin.nut
 msgid "[/color] javelins left"
-msgstr ""
+msgstr "[/color] 标枪剩余"
 
 # scripts/skills/actives/throw_javelin.nut
 msgid "]No javelins left[/color]"
@@ -2291,15 +2291,15 @@ msgstr ""
 
 # scripts/skills/actives/throw_smoke_bomb_skill.nut
 msgid "]-50%[/color] for anyone inside"
-msgstr ""
+msgstr "]-50%[/color] 远程技能。"
 
 # scripts/skills/actives/throw_smoke_bomb_skill.nut
 msgid "Increases Ranged Defense by [color="
-msgstr ""
+msgstr "为烟雾中的角色增加 [color="
 
 # scripts/skills/actives/throw_smoke_bomb_skill.nut
 msgid "]+100%[/color], but lowers Ranged Skill by [color="
-msgstr ""
+msgstr "]+100%[/color] 远程防御, 但降低 [color="
 
 # scripts/skills/actives/throw_smoke_bomb_skill.nut
 msgid "Extinguishes existing tile effects like Fire or Miasma"
