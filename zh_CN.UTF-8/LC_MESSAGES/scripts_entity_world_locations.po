@@ -86,10 +86,6 @@ msgid "The gates to a great underground Goblin city, its maze-like tunnels teemi
 msgstr "通往地下哥布林城的大门，迷宫般的隧道里挤满了邪恶的绿皮。"
 
 # scripts/entity/world/locations/noble_camp_location.nut
-msgid "ffffff00"
-msgstr ""
-
-# scripts/entity/world/locations/noble_camp_location.nut
 msgid "Army Camp"
 msgstr "军营"
 

@@ -12060,6 +12060,9 @@ msgid ""
 "\n"
 "Thresh gains [color="
 msgstr ""
+"]+10%[/color] 护甲。\n"
+"\n"
+"'回旋(Thresh)'的命中率提高[color="
 
 # scripts/config/strings.nut
 msgid ""
@@ -12193,6 +12196,9 @@ msgid ""
 "\n"
 "Disarm only has half the penalty to hit."
 msgstr ""
+"]20[/color]\n"
+"\n"
+" '缴械(Disarm)' 的命中率惩罚减半。"
 
 # scripts/config/strings.nut
 msgid "]25%[/color] for 2 turns. Does not stack, but another kill will reset the timer."
@@ -12240,6 +12246,9 @@ msgid ""
 "\n"
 "Damage is increased by [color="
 msgstr ""
+"]30%[/color](当攻击距离为2格时)\n"
+"\n"
+"伤害增加 [color="
 
 # scripts/config/strings.nut
 msgid "An iron will is not swayed from the true path easily. Resolve is increased by [color="
@@ -12392,7 +12401,7 @@ msgstr "解锁 '恢复' 技能，允许角色休息一回合，以减少累积�
 
 # scripts/config/strings.nut
 msgid "]20%[/color] of your Resolve - 10, as opposed to with no penalty and only if at or above 15 points of damage."
-msgstr ""
+msgstr "]你的决心 * 20%[/color] - 10(这与无惩罚和仅在造成15点或以上伤害时进行士气检查不同)"
 
 # scripts/config/strings.nut
 msgid ""
@@ -12402,6 +12411,11 @@ msgid ""
 "\n"
 "Pound ignores an additional [color="
 msgstr ""
+"]25%[/color] 疲劳度积累。\n"
+"\n"
+"'抽打(Lash)'和'雹击(Hail)'无视盾牌加成。\n"
+"\n"
+"'砸击(Pound)'在击中头部时忽略[color="
 
 # scripts/config/strings.nut
 msgid "]60%[/color], but lowered exponentially by the total penalty to Maximum Fatigue from body and head armor above [color="
@@ -12417,6 +12431,9 @@ msgid ""
 "\n"
 "Split and Swing no longer have a penalty to hitchance and gain [color="
 msgstr ""
+"]50%[/color]伤害门槛\n"
+"\n"
+"'裂盾(split)'和'挥击(Swing)'不再受到命中率惩罚, 反而提高[color="
 
 # scripts/config/strings.nut
 msgid "Honor doesn't win you fights, stabbing the enemy where it hurts does. The bonus to hitchance in melee is doubled to [color="
@@ -12543,7 +12560,7 @@ msgstr "]1[/color](但每个单元格至少需要 2 个行动点)，疲劳消耗
 
 # scripts/config/strings.nut
 msgid "Go for the head! Hitting the head of a target will give you a guaranteed hit to the head also with your next attack. Connecting with your hit will reset the effect."
-msgstr ""
+msgstr "攻击头部！击中目标的头部将使您在下一次攻击时也能保证击中头部。如果你的攻击命中了，这个效果会重置。"
 
 # scripts/config/strings.nut
 msgid "Make them scatter and flee! Any attack that inflicts at least 1 point of damage to hitpoints triggers a morale check for the opponent with a penalty equal to [color="
@@ -12588,7 +12605,7 @@ msgstr "]+5[/color]，最多叠加5次，效果持续到这个角色的下一个
 
 # scripts/config/strings.nut
 msgid "Unlocks the 'Rally' skill which can rally fleeing allies, and raise morale of all nearby allies to a steady level. The higher the Resolve of the character using the skill, the higher the chance to succeed."
-msgstr ""
+msgstr "解锁“集结”技能，可以集结逃跑的盟友，并提高附近所有盟友的士气到稳定的等级。使用技能的角色决心越高，成功的几率就越高。"
 
 # scripts/config/strings.nut
 msgid ""
@@ -12654,6 +12671,11 @@ msgid ""
 "\n"
 "The Spetum and Warfork no longer have a penalty for attacking targets directly adjacent."
 msgstr ""
+"]25%[/color] 疲劳度积累。\n"
+"\n"
+"即使控制区内有敌人, '矛墙'技能仍可对任何试图进入控制区的敌人进行攻击。\n"
+"\n"
+"'长戟类(Spetum)'和'战叉类(Warfork)'武器攻击直接相邻的目标不再有惩罚。"
 
 # scripts/config/strings.nut
 msgid ""

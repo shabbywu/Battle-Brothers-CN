@@ -61,7 +61,7 @@ msgstr "你花费了 [color="
 # scripts/events/events/dlc6/fire_juggler_event.nut
 # scripts/events/events/dlc6/sword_eater_event.nut
 msgid "At %townname%"
-msgstr ""
+msgstr "在 %townname%"
 
 # scripts/events/events/dlc6/cultish_arrangement_event.nut
 # scripts/events/events/dlc6/dried_oasis_event.nut

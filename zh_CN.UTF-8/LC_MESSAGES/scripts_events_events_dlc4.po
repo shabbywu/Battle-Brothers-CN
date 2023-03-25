@@ -132,7 +132,7 @@ msgstr "]+1[/color] 决心"
 # scripts/events/events/dlc4/lone_wolf_origin_depressing_lady_event.nut
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid "At %townname%"
-msgstr ""
+msgstr "在 %townname%"
 
 # scripts/events/events/dlc4/adopt_warhound_event.nut
 msgid "Brave little guy."

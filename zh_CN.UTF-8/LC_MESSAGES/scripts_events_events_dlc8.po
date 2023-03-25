@@ -119,7 +119,7 @@ msgstr "[/color] 决心"
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 # scripts/events/events/dlc8/missing_kids_event.nut
 msgid "At %townname%"
-msgstr ""
+msgstr "在 %townname%"
 
 # scripts/events/events/dlc8/tree_fort_event.nut
 # scripts/events/events/dlc8/captured_oathbringer_event.nut
@@ -150,7 +150,7 @@ msgstr "你失去了 [color="
 # scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
 # scripts/events/events/dlc8/something_in_barn_event.nut
 msgid "Was denied a research opportunity"
-msgstr ""
+msgstr "被剥夺了研究机会"
 
 # scripts/events/events/dlc8/brawler_throw_fight_event.nut
 # scripts/events/events/dlc8/fake_witchhunter_event.nut
@@ -213,7 +213,7 @@ msgstr "让我们离开这里。"
 # scripts/events/events/dlc8/brawler_throw_fight_event.nut
 # scripts/events/events/dlc8/ruined_priory_event.nut
 msgid "That could have gone better."
-msgstr ""
+msgstr "那本来可以更好。"
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut

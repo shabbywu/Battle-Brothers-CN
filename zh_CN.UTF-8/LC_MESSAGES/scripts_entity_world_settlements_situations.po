@@ -80,7 +80,7 @@ msgstr "不再有"
 # scripts/entity/world/settlements/situations/unhold_attacks_situation.nut
 # scripts/entity/world/settlements/situations/warehouse_burned_down_situation.nut
 msgid " has "
-msgstr ""
+msgstr "处于"
 
 # scripts/entity/world/settlements/situations/arena_tournament_situation.nut
 # scripts/entity/world/settlements/situations/cultist_procession_situation.nut
@@ -367,7 +367,7 @@ msgstr "哦，儿子，我以前在 %settlement% 是个求雨法师，但那些�
 
 # scripts/entity/world/settlements/situations/full_nets_situation.nut
 msgid "Full Nets"
-msgstr "满网"
+msgstr "渔获颇丰"
 
 # scripts/entity/world/settlements/situations/full_nets_situation.nut
 msgid "The waters are teeming with swarms of fish. Fresh Fish is abundant and cheaply available."
@@ -387,7 +387,7 @@ msgstr "每年这个时候，%settlement% 总会有大批的鱼来。他们所�
 
 # scripts/entity/world/settlements/situations/good_harvest_situation.nut
 msgid "Good Harvest"
-msgstr "丰收"
+msgstr "五谷丰登"
 
 # scripts/entity/world/settlements/situations/good_harvest_situation.nut
 msgid " benefits from a "

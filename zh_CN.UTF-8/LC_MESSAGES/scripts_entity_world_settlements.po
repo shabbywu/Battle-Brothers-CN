@@ -258,7 +258,7 @@ msgstr ""
 # scripts/entity/world/settlements/small_fishing_village.nut
 # scripts/entity/world/settlements/large_fishing_village.nut
 msgid "fish"
-msgstr ""
+msgstr "鱼"
 
 # scripts/entity/world/settlements/large_lumber_village.nut
 # scripts/entity/world/settlements/medium_lumber_village.nut
@@ -276,7 +276,7 @@ msgstr "多尔宁"
 # scripts/entity/world/settlements/medium_swamp_village.nut
 # scripts/entity/world/settlements/large_swamp_village.nut
 msgid "mushrooms"
-msgstr ""
+msgstr "蘑菇"
 
 # scripts/entity/world/settlements/medium_forest_fort.nut
 # scripts/entity/world/settlements/medium_farm_fort.nut

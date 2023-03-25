@@ -96,7 +96,7 @@ msgstr "]+2[/color] 每回合疲劳恢复"
 # scripts/skills/traits/arena_fighter_trait.nut
 # scripts/skills/traits/arena_veteran_trait.nut
 msgid "all"
-msgstr ""
+msgstr "全部"
 
 # scripts/skills/traits/arena_pit_fighter_trait.nut
 # scripts/skills/traits/arena_fighter_trait.nut
@@ -162,7 +162,7 @@ msgstr ""
 # scripts/skills/traits/paranoid_trait.nut
 # scripts/skills/traits/mad_trait.nut
 msgid "Has [color="
-msgstr ""
+msgstr "有 [color="
 
 # scripts/skills/traits/ailing_trait.nut
 # scripts/skills/traits/bleeder_trait.nut

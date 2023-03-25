@@ -16,7 +16,7 @@ msgstr "]空的无用[/color]"
 # scripts/items/ammo/large_quiver_of_arrows.nut
 # scripts/items/ammo/large_quiver_of_bolts.nut
 msgid "Contains [color="
-msgstr ""
+msgstr "含有 [color="
 
 # scripts/items/ammo/large_powder_bag.nut
 # scripts/items/ammo/powder_bag.nut
@@ -26,7 +26,7 @@ msgstr "[/color] 发"
 # scripts/items/ammo/large_powder_bag.nut
 # scripts/items/ammo/powder_bag.nut
 msgid "Contains powder for [color="
-msgstr ""
+msgstr "含有火药 [color="
 
 # scripts/items/ammo/quiver_of_arrows.nut
 # scripts/items/ammo/large_quiver_of_arrows.nut
