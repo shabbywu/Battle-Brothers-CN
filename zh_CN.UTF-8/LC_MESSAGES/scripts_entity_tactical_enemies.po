@@ -2,37 +2,6 @@
 msgid ""
 msgstr ""
 
-# scripts/entity/tactical/enemies/ghost.nut
-# scripts/entity/tactical/enemies/skeleton_lich_mirror_image.nut
-# scripts/entity/tactical/enemies/zombie_boss.nut
-# scripts/entity/tactical/enemies/trickster_god.nut
-# scripts/entity/tactical/enemies/phylactery.nut
-# scripts/entity/tactical/enemies/ghost_knight.nut
-# scripts/entity/tactical/enemies/flying_skull.nut
-# scripts/entity/tactical/enemies/hexe.nut
-msgid "ffffff00"
-msgstr ""
-
-# scripts/entity/tactical/enemies/ghost.nut
-# scripts/entity/tactical/enemies/skeleton_lich_mirror_image.nut
-# scripts/entity/tactical/enemies/zombie_boss.nut
-# scripts/entity/tactical/enemies/trickster_god.nut
-# scripts/entity/tactical/enemies/ghost_knight.nut
-# scripts/entity/tactical/enemies/flying_skull.nut
-# scripts/entity/tactical/enemies/hexe.nut
-msgid "ffffff5f"
-msgstr ""
-
-# scripts/entity/tactical/enemies/ghost.nut
-# scripts/entity/tactical/enemies/skeleton_lich_mirror_image.nut
-# scripts/entity/tactical/enemies/zombie_boss.nut
-# scripts/entity/tactical/enemies/trickster_god.nut
-# scripts/entity/tactical/enemies/phylactery.nut
-# scripts/entity/tactical/enemies/ghost_knight.nut
-# scripts/entity/tactical/enemies/flying_skull.nut
-msgid "ffffff2f"
-msgstr ""
-
 # scripts/entity/tactical/enemies/vampire.nut
 # scripts/entity/tactical/enemies/ghoul.nut
 # scripts/entity/tactical/enemies/zombie.nut
@@ -62,28 +31,12 @@ msgstr ""
 msgid "Frenzied Direwolf"
 msgstr ""
 
-# scripts/entity/tactical/enemies/flying_skull.nut
-msgid "ffffff8f"
-msgstr ""
-
-# scripts/entity/tactical/enemies/flying_skull.nut
-msgid "ffffffff"
-msgstr ""
-
 # scripts/entity/tactical/enemies/goblin_wolfrider.nut
 msgid "A Wolf"
 msgstr ""
 
 # scripts/entity/tactical/enemies/hexe.nut
 msgid "A Hexe"
-msgstr ""
-
-# scripts/entity/tactical/enemies/hexe.nut
-msgid "fff3e500"
-msgstr ""
-
-# scripts/entity/tactical/enemies/hexe.nut
-msgid "fff3e50f"
 msgstr ""
 
 # scripts/entity/tactical/enemies/hyena.nut
@@ -140,10 +93,6 @@ msgstr ""
 
 # scripts/entity/tactical/enemies/orc_young.nut
 msgid "A Young Orc"
-msgstr ""
-
-# scripts/entity/tactical/enemies/phylactery.nut
-msgid "ffffff1f"
 msgstr ""
 
 # scripts/entity/tactical/enemies/phylactery.nut

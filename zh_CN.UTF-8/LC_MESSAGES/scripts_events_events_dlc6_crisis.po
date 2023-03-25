@@ -43,7 +43,7 @@ msgstr "他们最好别再受苦了。"
 # scripts/events/events/dlc6/crisis/holywar_intro_north_event.nut
 # scripts/events/events/dlc6/crisis/holywar_intro_south_event.nut
 msgid "At %townname%"
-msgstr ""
+msgstr "在 %townname%"
 
 # scripts/events/events/dlc6/crisis/holywar_intro_north_event.nut
 # scripts/events/events/dlc6/crisis/holywar_intro_south_event.nut

@@ -361,7 +361,7 @@ msgstr "[/color] 克朗"
 # scripts/events/events/wildman_causes_havoc_event.nut
 # scripts/events/events/enter_friendly_town_event.nut
 msgid "At %townname%"
-msgstr ""
+msgstr "在 %townname%"
 
 # scripts/events/events/dogfighting_event.nut
 # scripts/events/events/warriors_death_event.nut
@@ -470,7 +470,7 @@ msgstr "]+2[/color] 决心"
 # scripts/events/events/noble_more_pay_lowborn_event.nut
 # scripts/events/events/aging_swordmaster_paycut_event.nut
 msgid " crowns a day"
-msgstr " crowns 一天"
+msgstr "克朗每天"
 
 # scripts/events/events/more_men_event.nut
 # scripts/events/events/sellsword_gets_better_deal_event.nut
@@ -478,7 +478,7 @@ msgstr " crowns 一天"
 # scripts/events/events/noble_more_pay_lowborn_event.nut
 # scripts/events/events/aging_swordmaster_paycut_event.nut
 msgid " is now paid "
-msgstr ""
+msgstr "现在被支付"
 
 # scripts/events/events/combat_drill_event.nut
 # scripts/events/events/hedgeknight_vs_hedgeknight_event.nut
@@ -797,7 +797,7 @@ msgstr "]25[/color] 克朗"
 # scripts/events/events/jousting_tournament_event.nut
 # scripts/events/events/player_plays_dice_event.nut
 msgid "You win [color="
-msgstr ""
+msgstr "你赢了 [color="
 
 # scripts/events/events/killer_vs_others_event.nut
 # scripts/events/events/walkers_bond_event.nut

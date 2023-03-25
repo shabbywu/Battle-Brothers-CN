@@ -160,7 +160,7 @@ msgstr "所以谜团就解开了。"
 # scripts/events/events/dlc2/collector_wants_trophy_event.nut
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "At %townname%"
-msgstr ""
+msgstr "在 %townname%"
 
 # scripts/events/events/dlc2/hate_undead_event.nut
 # scripts/events/events/dlc2/hate_greenskins_event.nut

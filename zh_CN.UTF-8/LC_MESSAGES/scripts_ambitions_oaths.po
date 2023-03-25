@@ -49,17 +49,17 @@ msgstr "你的所有战团成员获得[color="
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
 # scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
 msgid "]-5[/color] Melee and Ranged Skill, and [color="
-msgstr "]-5[/color] 近战和远程技能, 以及 [color="
+msgstr "]-5[/color] 近战和远程防御, 以及 [color="
 
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
 # scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
 msgid "]+10[/color] Melee and Ranged Skill, and [color="
-msgstr "]+10[/color] 近战和远程技能，以及 [color="
+msgstr "]+10[/color] 近战和远程防御, 以及 [color="
 
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
 # scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
 msgid "]-5[/color] Melee and Ranged Defense when fighting any other foe."
-msgstr ""
+msgstr "]-5[/color] 近战和远程防御(与其他敌人战斗时)。"
 
 # scripts/ambitions/oaths/oath_ambition.nut
 msgid " days"
@@ -145,7 +145,7 @@ msgstr "超群誓言"
 
 # scripts/ambitions/oaths/oath_of_distinction_ambition.nut
 msgid "Your men get [color="
-msgstr "你的人得到了 [color="
+msgstr "你的战团成员获得 [color="
 
 # scripts/ambitions/oaths/oath_of_distinction_ambition.nut
 msgid "]+10[/color] Resolve, [color="
@@ -165,7 +165,7 @@ msgstr "]+3[/color] 每回合疲劳恢复, and deal [color="
 
 # scripts/ambitions/oaths/oath_of_distinction_ambition.nut
 msgid "]+10%[/color] damage if there are no allies on adjacent tiles."
-msgstr "]+10%[/color] 伤害(如何相邻的格子内没有盟友)。"
+msgstr "]+10%[/color] 伤害(如果相邻板块上没有盟友)"
 
 # scripts/ambitions/oaths/oath_of_distinction_ambition.nut
 msgid ""
@@ -203,11 +203,11 @@ msgstr "誓言目标: 击杀目标的野兽数目("
 
 # scripts/ambitions/oaths/oath_of_dominion_ambition.nut
 msgid "]+10[/color] Melee and Ranged Skill when fighting beasts."
-msgstr "]+10[/color] 近战和远程技能(与野兽作战时)。"
+msgstr "]+10[/color] 近战和远程技能(与野兽战斗时)"
 
 # scripts/ambitions/oaths/oath_of_dominion_ambition.nut
 msgid "]-5[/color] Melee and Ranged Skill when fighting any other foe."
-msgstr ""
+msgstr "]-5[/color] 近战和远程技能(与其他敌人战斗时)。"
 
 # scripts/ambitions/oaths/oath_of_dominion_ambition.nut
 msgid ""
@@ -410,7 +410,7 @@ msgstr "誓言目标: 击杀目标的亡灵数目("
 
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
 msgid "]+5[/color] Melee and Ranged Defense when fighting the undead."
-msgstr "]+5[/color] 近战和远程防御(与不死族作战时)。"
+msgstr "]+5[/color] 近战和远程防御(与亡灵战斗时)"
 
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
 msgid ""
@@ -537,7 +537,7 @@ msgstr "誓言目标: 击杀目标的绿皮数目("
 
 # scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
 msgid "]+5[/color] Melee and Ranged Defense when fighting orcs or goblins."
-msgstr ""
+msgstr "]+5[/color] 近战和远程防御(与兽人和哥布林时)"
 
 # scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
 msgid ""

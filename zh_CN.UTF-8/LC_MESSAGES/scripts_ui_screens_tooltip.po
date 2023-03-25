@@ -867,7 +867,7 @@ msgstr "将物品放在地上 ([b][color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color][/b] Fatigue to traverse"
-msgstr "[/color][/b]疲劳 去移动"
+msgstr "[/color][/b]疲劳去移动"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Open menu to adjust game options."
@@ -1206,7 +1206,7 @@ msgstr ""
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color][/b] Fatigue to traverse because it is at a different height level"
-msgstr "[/color][/b]疲劳 去移动(因为处于不同的高度)"
+msgstr "[/color][/b]疲劳去移动(因为处于不同的高度)"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "The number of kills that the character scored in battle until their demise."

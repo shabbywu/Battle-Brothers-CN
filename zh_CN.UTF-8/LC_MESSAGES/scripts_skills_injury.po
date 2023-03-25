@@ -95,7 +95,7 @@ msgstr "流血至死"
 # scripts/skills/injury/grazed_neck_injury.nut
 # scripts/skills/injury/cut_throat_injury.nut
 msgid "This character will continue to lose [color="
-msgstr ""
+msgstr "这个角色将持续失去 [color="
 
 # scripts/skills/injury/cut_artery_injury.nut
 # scripts/skills/injury/exposed_ribs_injury.nut

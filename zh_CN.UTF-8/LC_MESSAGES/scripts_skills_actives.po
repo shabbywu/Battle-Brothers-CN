@@ -45,7 +45,7 @@ msgstr ""
 # scripts/skills/actives/aimed_shot.nut
 # scripts/skills/actives/sling_stone_skill.nut
 msgid "Has [color="
-msgstr ""
+msgstr "有 [color="
 
 # scripts/skills/actives/throw_javelin.nut
 # scripts/skills/actives/impale.nut
@@ -73,7 +73,7 @@ msgstr ""
 # scripts/skills/actives/aimed_shot.nut
 # scripts/skills/actives/sling_stone_skill.nut
 msgid "Has a range of [color="
-msgstr "有 [color="
+msgstr "射程为 [color="
 
 # scripts/skills/actives/uproot_skill.nut
 # scripts/skills/actives/shatter_skill.nut
@@ -101,7 +101,7 @@ msgstr "有 [color="
 # scripts/skills/actives/repel.nut
 # scripts/skills/actives/disarm_skill.nut
 msgid " for one turn"
-msgstr ""
+msgstr "持续 1 回合"
 
 # scripts/skills/actives/break_ally_free_skill.nut
 # scripts/skills/actives/gash_skill.nut
@@ -185,7 +185,7 @@ msgstr "]不能使用，因为这个角色正在近战[/color]"
 # scripts/skills/actives/uproot_small_zoc_skill.nut
 # scripts/skills/actives/repel.nut
 msgid " has staggered "
-msgstr ""
+msgstr "趔趄"
 
 # scripts/skills/actives/thresh.nut
 # scripts/skills/actives/tail_slam_zoc_skill.nut
@@ -200,7 +200,7 @@ msgstr ""
 # scripts/skills/actives/pound.nut
 # scripts/skills/actives/knock_out.nut
 msgid " has stunned "
-msgstr ""
+msgstr "震惊"
 
 # scripts/skills/actives/impale.nut
 # scripts/skills/actives/demolish_armor_skill.nut
@@ -338,15 +338,7 @@ msgstr "]2[/color] 格范围"
 # scripts/skills/actives/aimed_shot.nut
 # scripts/skills/actives/sling_stone_skill.nut
 msgid "[/color] tiles on even ground, more if shooting downhill"
-msgstr ""
-
-# scripts/skills/actives/kraken_move_skill.nut
-# scripts/skills/actives/kraken_move_ensnared_skill.nut
-# scripts/skills/actives/alp_teleport_skill.nut
-# scripts/skills/actives/merge_golem_skill.nut
-# scripts/skills/actives/throw_dirt_skill.nut
-msgid "ffffff00"
-msgstr ""
+msgstr "[/color] 格(在平坦地面上), 如果向低处射击会更远。"
 
 # scripts/skills/actives/cascade_skill.nut
 # scripts/skills/actives/hail_skill.nut
@@ -410,7 +402,7 @@ msgstr "咬"
 # scripts/skills/actives/tail_slam_big_skill.nut
 # scripts/skills/actives/strike_down_skill.nut
 msgid " for two turns"
-msgstr ""
+msgstr "两回合"
 
 # scripts/skills/actives/quick_shot.nut
 # scripts/skills/actives/shoot_stake.nut
@@ -494,14 +486,14 @@ msgstr "尾部猛击"
 # scripts/skills/actives/tail_slam_skill.nut
 # scripts/skills/actives/tail_slam_big_skill.nut
 msgid " has dazed "
-msgstr ""
+msgstr "使发呆"
 
 # scripts/skills/actives/throw_javelin.nut
 # scripts/skills/actives/throw_spear_skill.nut
 # scripts/skills/actives/throw_axe.nut
 # scripts/skills/actives/throw_balls.nut
 msgid "[/color] tiles on even ground, more if throwing downhill"
-msgstr ""
+msgstr "[/color] 格(在平坦地面上), 如果向低处投掷会更远。"
 
 # scripts/skills/actives/uproot_skill.nut
 # scripts/skills/actives/uproot_zoc_skill.nut
@@ -608,12 +600,12 @@ msgstr ""
 # scripts/skills/actives/hammer.nut
 # scripts/skills/actives/batter_skill.nut
 msgid "[/color] damage to hitpoints, regardless of armor"
-msgstr ""
+msgstr "[/color] 无视护甲的生命值伤害"
 
 # scripts/skills/actives/berserker_mushrooms_skill.nut
 # scripts/skills/actives/shieldwall.nut
 msgid "Grants [color="
-msgstr ""
+msgstr "赋予 [color="
 
 # scripts/skills/actives/charge.nut
 # scripts/skills/actives/unstoppable_charge_skill.nut
@@ -628,17 +620,17 @@ msgstr ""
 # scripts/skills/actives/cleave.nut
 # scripts/skills/actives/whip_skill.nut
 msgid "Inflicts additional stacking [color="
-msgstr ""
+msgstr "造成额外的 [color="
 
 # scripts/skills/actives/cleave.nut
 # scripts/skills/actives/whip_skill.nut
 msgid "[/color] bleeding damage per turn, for 2 turns"
-msgstr ""
+msgstr "[/color] 每回合流血伤害，持续 2 回合"
 
 # scripts/skills/actives/coat_with_poison_skill.nut
 # scripts/skills/actives/coat_with_spider_poison_skill.nut
 msgid "The next [color="
-msgstr ""
+msgstr "下一次[color="
 
 # scripts/skills/actives/coat_with_poison_skill.nut
 # scripts/skills/actives/coat_with_spider_poison_skill.nut
@@ -653,7 +645,7 @@ msgstr ""
 # scripts/skills/actives/demolish_armor_skill.nut
 # scripts/skills/actives/crush_armor.nut
 msgid "[/color] damage to hitpoints that ignores armor"
-msgstr ""
+msgstr "[/color] 无视护甲的生命值伤害"
 
 # scripts/skills/actives/demolish_armor_skill.nut
 # scripts/skills/actives/crush_armor.nut
@@ -847,14 +839,6 @@ msgstr "一种聚焦和仔细瞄准的射击，即使在远处也能很好地击
 
 # scripts/skills/actives/alp_teleport_skill.nut
 msgid "Fade"
-msgstr ""
-
-# scripts/skills/actives/alp_teleport_skill.nut
-msgid "ffffff2f"
-msgstr ""
-
-# scripts/skills/actives/alp_teleport_skill.nut
-msgid "ffffff5f"
 msgstr ""
 
 # scripts/skills/actives/bandage_ally_skill.nut
@@ -2102,10 +2086,6 @@ msgid "Force the target to engage and attack this character, if possible, on the
 msgstr "如果可能的话，在下一回合强制目标攻击这个角色。 请注意，目标会遵循他们的群体策略，并且可能不会盲目地向前冲。"
 
 # scripts/skills/actives/teleport_skill.nut
-msgid "4cccf300"
-msgstr ""
-
-# scripts/skills/actives/teleport_skill.nut
 msgid "Spirit Walk"
 msgstr "灵魂漫步"
 
@@ -2184,18 +2164,6 @@ msgstr ""
 # scripts/skills/actives/throw_daze_bomb_skill.nut
 msgid "Throw a pot filled with mysterious powders that react violently on impact to create a bright flash and loud bang, and will daze anyone close by - friend and foe alike"
 msgstr "扔一个装满神秘粉末的罐子，这些粉末在撞击时会产生剧烈的反应，产生明亮的闪光和巨大的爆炸声，会让身边的任何人都产生茫然，无论是朋友还是敌人"
-
-# scripts/skills/actives/throw_dirt_skill.nut
-msgid "eeeeee00"
-msgstr ""
-
-# scripts/skills/actives/throw_dirt_skill.nut
-msgid "eeeeeeee"
-msgstr ""
-
-# scripts/skills/actives/throw_dirt_skill.nut
-msgid "ffffffff"
-msgstr ""
 
 # scripts/skills/actives/throw_dirt_skill.nut
 msgid "Throw Dirt"

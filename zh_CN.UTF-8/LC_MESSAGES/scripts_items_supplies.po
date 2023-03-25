@@ -6,7 +6,7 @@ msgstr ""
 # scripts/items/supplies/armor_parts_item.nut
 # scripts/items/supplies/medicine_item.nut
 msgid "A good [color="
-msgstr ""
+msgstr "一个好的 [color="
 
 # scripts/items/supplies/ammo_item.nut
 msgid "Ammunition"

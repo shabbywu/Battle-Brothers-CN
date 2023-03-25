@@ -24,7 +24,7 @@ msgstr "可恶的小杂种。"
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
 msgid "At %townname%"
-msgstr ""
+msgstr "在 %townname%"
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
 msgid "[/color] Crowns"

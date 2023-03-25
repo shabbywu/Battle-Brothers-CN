@@ -8,7 +8,7 @@ msgstr ""
 # scripts/factions/actions/send_military_army_action.nut
 # scripts/factions/actions/defend_military_action.nut
 msgid " Company"
-msgstr ""
+msgstr " 战团"
 
 # scripts/factions/actions/move_troops_action.nut
 # scripts/factions/actions/patrol_roads_action.nut
@@ -31,7 +31,7 @@ msgstr "亡灵"
 # scripts/factions/actions/send_citystate_army_action.nut
 # scripts/factions/actions/patrol_area_action.nut
 msgid "Regiment of "
-msgstr ""
+msgstr "一队"
 
 # scripts/factions/actions/defend_citystate_action.nut
 # scripts/factions/actions/send_citystate_holysite_action.nut

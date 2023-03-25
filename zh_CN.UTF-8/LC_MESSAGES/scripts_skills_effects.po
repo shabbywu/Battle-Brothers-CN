@@ -237,7 +237,7 @@ msgstr "带毒武器"
 # scripts/skills/effects/stunned_effect.nut
 # scripts/skills/effects/reforming_effect.nut
 msgid "[/color] more turn(s), and unable to act."
-msgstr ""
+msgstr "[/color] 回合, 无法行动。"
 
 # scripts/skills/effects/shellshocked_effect.nut
 # scripts/skills/effects/withered_effect.nut
@@ -384,26 +384,6 @@ msgstr "]+20[/color] 主动性"
 # scripts/skills/effects/cat_potion_effect.nut
 msgid "Thanks to a cocktail of psychoactive substances, this character's senses are heightened and their reflexes sharpened, along with a tendency to show paranoid behavior."
 msgstr "多亏了精神活性物质的混合，这个角色的感官会被增强，他们的反应会变得敏锐，同时也会表现出偏执的行为。"
-
-# scripts/skills/effects/charmed_effect.nut
-#, fuzzy
-msgid "fff3e500"
-msgstr "fff3e500"
-
-# scripts/skills/effects/charmed_effect.nut
-#, fuzzy
-msgid "fff3e50f"
-msgstr "fff3e50f"
-
-# scripts/skills/effects/charmed_effect.nut
-#, fuzzy
-msgid "ffffff00"
-msgstr "ffffff00"
-
-# scripts/skills/effects/charmed_effect.nut
-#, fuzzy
-msgid "ffffff5f"
-msgstr "ffffff5f"
 
 # scripts/skills/effects/charmed_effect.nut
 msgid ""
