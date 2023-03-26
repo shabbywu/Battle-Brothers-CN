@@ -263,19 +263,11 @@ msgid "[/b] damage"
 msgstr ""
 
 # scripts/items/helmets/helmet.nut
-msgid "progressbar"
-msgstr ""
-
-# scripts/items/helmets/helmet.nut
 msgid "Vision [color="
 msgstr ""
 
 # scripts/items/helmets/helmet.nut
 msgid " is hit for [b]"
-msgstr ""
-
-# scripts/items/helmets/helmet.nut
-msgid "armor-head-slim"
 msgstr ""
 
 # scripts/items/helmets/helmet.nut

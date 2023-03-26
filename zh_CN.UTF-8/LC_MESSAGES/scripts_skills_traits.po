@@ -406,7 +406,7 @@ msgid "This character is physically fit."
 msgstr "这个角色身体健康。"
 
 # scripts/skills/traits/athletic_trait.nut
-msgid "]2[/color] less fatigue for each tile travelled"
+msgid "]2[/color] less Fatigue for each tile travelled"
 msgstr ""
 
 # scripts/skills/traits/bleeder_trait.nut
@@ -494,7 +494,7 @@ msgid "Clubfooted"
 msgstr "畸足"
 
 # scripts/skills/traits/clubfooted_trait.nut
-msgid "]2[/color] more fatigue for each tile travelled"
+msgid "]2[/color] more Fatigue for each tile travelled"
 msgstr ""
 
 # scripts/skills/traits/clubfooted_trait.nut

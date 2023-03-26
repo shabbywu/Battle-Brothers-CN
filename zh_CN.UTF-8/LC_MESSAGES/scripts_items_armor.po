@@ -48,15 +48,7 @@ msgid "[/b] damage"
 msgstr ""
 
 # scripts/items/armor/armor.nut
-msgid "progressbar"
-msgstr ""
-
-# scripts/items/armor/armor.nut
 msgid " is hit for [b]"
-msgstr ""
-
-# scripts/items/armor/armor.nut
-msgid "armor-body-slim"
 msgstr ""
 
 # scripts/items/armor/armor.nut

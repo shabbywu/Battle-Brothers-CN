@@ -41,14 +41,6 @@ msgid "A small but sturdy shield gripped in the fist. Offers poor protection aga
 msgstr "一种可以紧握的小而坚固的盾牌。对远程攻击的防护较差，但在近身作战中很有用。"
 
 # scripts/items/shields/shield.nut
-msgid "progressbar"
-msgstr ""
-
-# scripts/items/shields/shield.nut
-msgid "armor-head-slim"
-msgstr ""
-
-# scripts/items/shields/shield.nut
 msgid "Melee Defense [color="
 msgstr ""
 
