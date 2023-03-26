@@ -596,7 +596,7 @@ msgstr "我们最胖的人，%fat%，会为了给我们带来欢乐去赛跑。"
 
 # scripts/events/events/dlc4/horse_race_event.nut
 msgid "Very well. Someone step forward and race that horse!"
-msgstr "非常好。 来个人过去和那匹马赛跑！"
+msgstr "非常好。来个人过去和那匹马赛跑！"
 
 # scripts/events/events/dlc4/horse_race_event.nut
 msgid "Our most athletic man, %athlete%, will race that horse."
@@ -802,11 +802,11 @@ msgstr "成为骑士的扈从"
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid " where he volunteered to be your squire. He probably had no idea what he was getting into back then."
-msgstr " where he volunteered to be your squire. 他可能不知道他当时在干什么。"
+msgstr " 他自愿成为你的侍从。 他可能不知道他当时在干什么。"
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid "[img]gfx/ui/events/event_20.png[/img]{The man shakes his head no.%SPEECH_ON%Ain't never killed no one, sir.%SPEECH_OFF%}"
-msgstr "[img]gfx/ui/events/event_20.png[/img]{The man shakes his head no.%SPEECH_ON%我没有杀过任何人，先生。%SPEECH_OFF%}"
+msgstr "[img]gfx/ui/events/event_20.png[/img]{那人摇了摇头。.%SPEECH_ON%我没有杀过任何人，先生。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid "[img]gfx/ui/events/event_20.png[/img]{You look at the would-be squire long and hard and then tell him no. He shrugs.%SPEECH_ON%Just so you know, you ain't gotta be alone in this world. Loneliness has no presence. It is not a place. It is not a being. It is action!%SPEECH_OFF%Spitting, you wipe your face and laugh.%SPEECH_ON%Is that what you tell yourself every morning? Get out of here.%SPEECH_OFF%}"
@@ -818,7 +818,7 @@ msgstr "[img]gfx/ui/events/event_20.png[/img]{这个男人站直了。%SPEECH_ON
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid "[img]gfx/ui/events/event_20.png[/img]{You ask the man his name. He swallows nervously.%SPEECH_ON%%squire%, sir.%SPEECH_OFF%You nod.%SPEECH_ON%Well alright then. I'll take ya with me.%SPEECH_OFF%He smiles.%SPEECH_ON%That's. That's it?%SPEECH_OFF%You nod.%SPEECH_ON%Yeah. That's it.%SPEECH_OFF%%squire% looks around.%SPEECH_ON%Well. Alright. What now?%SPEECH_OFF%You lean back against the stone steps.%SPEECH_ON%You follow me. Right now I'm gonna take another nap. If yer still around when I wake, well, then you've passed your first test. Defeating boredom.%SPEECH_OFF%The squire is grinning ear to ear. He's still there when you wake.}"
-msgstr "[img]gfx/ui/events/event_20.png[/img]{你问那个人他的名字。他紧张地吞吞吐吐。%SPEECH_ON%%squire%，先生。%SPEECH_OFF%你点头。%SPEECH_ON%就这些。 I'll take ya with me.%SPEECH_OFF%他笑了。%SPEECH_ON%真的。真的么？%SPEECH_OFF%You nod.%SPEECH_ON%是的，就这样。%SPEECH_OFF%%squire% 环视四周。%SPEECH_ON%好吧。好的。 What now?%SPEECH_OFF%你靠在石阶上。%SPEECH_ON%你跟我来。现在我要再睡一会儿。 如果我醒来时你还在我身边，那么，你已经通过了你的第一次测试。战胜无聊。%SPEECH_OFF%扈从笑得合不拢嘴。 当你醒来时，他还在那里。}"
+msgstr "[img]gfx/ui/events/event_20.png[/img]{You ask the man his name. He swallows nervously.%SPEECH_ON%%squire%, sir.%SPEECH_OFF%You nod.%SPEECH_ON%Well alright then. I'll take ya with me.%SPEECH_OFF%He smiles.%SPEECH_ON%That's. That's it?%SPEECH_OFF%You nod.%SPEECH_ON%Yeah. That's it.%SPEECH_OFF%%squire% looks around.%SPEECH_ON%好吧。好的。 What now?%SPEECH_OFF%You lean back against the stone steps.%SPEECH_ON%You follow me. Right now I'm gonna take another nap. If yer still around when I wake, well, then you've passed your first test. Defeating boredom.%SPEECH_OFF%The squire is grinning ear to ear. He's still there when you wake.}"
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid ""

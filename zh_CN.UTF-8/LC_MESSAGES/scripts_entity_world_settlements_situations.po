@@ -739,7 +739,7 @@ msgstr "%settlement% 那些幸运的混蛋在矿井里发现了新矿脉。商�
 
 # scripts/entity/world/settlements/situations/rich_veins_situation.nut
 msgid "Some lucky miner struck a particularly rich vein! Extraction of minerals and metals will be greatly increased until it is exhausted, but the settlement also experiences an inflation of prices."
-msgstr "Some lucky miner struck a particularly rich vein! Extraction of minerals and metals will be greatly increased until it 是筋疲力尽的, but the settlement also experiences an inflation of prices."
+msgstr "一些幸运的矿工找到了一条特别丰富的矿脉！矿产和金属的开采量将大大增加，直到耗尽，但定居点的物价也上涨了。"
 
 # scripts/entity/world/settlements/situations/safe_roads_situation.nut
 msgid "Safe Roads"
@@ -903,7 +903,7 @@ msgstr "巨魔攻击"
 
 # scripts/entity/world/settlements/situations/unhold_attacks_situation.nut
 msgid "When I was in %settlement% the other day, a group of hunters went missing. They were after some sort of giant..."
-msgstr "When I was in %settlement% the other day, a group of hunters 失踪了. They were after some sort of giant..."
+msgstr "前几天我在 %settlement% 时，一群猎人失踪了。他们在追捕某种巨人…"
 
 # scripts/entity/world/settlements/situations/unhold_attacks_situation.nut
 msgid "Large Unholds have been seen and heard in the area. The townsfolk are scared of leaving the vicinity of the settlement."

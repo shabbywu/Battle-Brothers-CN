@@ -53,7 +53,7 @@ msgstr "战争就要来了。"
 # scripts/events/events/dlc6/crisis/holywar_occupied_south_event.nut
 # scripts/events/events/dlc6/crisis/holywar_occupied_north_event.nut
 msgid "Holysite"
-msgstr ""
+msgstr "圣地"
 
 # scripts/events/events/dlc6/crisis/holywar_occupied_south_event.nut
 # scripts/events/events/dlc6/crisis/holywar_occupied_north_event.nut

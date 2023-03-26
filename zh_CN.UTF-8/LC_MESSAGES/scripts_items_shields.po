@@ -42,7 +42,7 @@ msgstr "一种可以紧握的小而坚固的盾牌。对远程攻击的防护较
 
 # scripts/items/shields/shield.nut
 msgid "Melee Defense [color="
-msgstr ""
+msgstr "近战防御 [color="
 
 # scripts/items/shields/shield.nut
 msgid "[/color] less fatigue"
@@ -54,11 +54,11 @@ msgstr "[/color] 更多疲劳"
 
 # scripts/items/shields/shield.nut
 msgid "Ranged Defense [color="
-msgstr ""
+msgstr "远程防御[color="
 
 # scripts/items/shields/shield.nut
 msgid "Maximum Fatigue [color="
-msgstr ""
+msgstr "最大疲劳[color="
 
 # scripts/items/shields/shield.nut
 msgid "]Broken and unusable[/color]"
@@ -66,11 +66,11 @@ msgstr "]破损不能使用[/color]"
 
 # scripts/items/shields/shield.nut
 msgid "Shield skills build up [color="
-msgstr ""
+msgstr "盾牌技能 [color="
 
 # scripts/items/shields/wooden_shield.nut
 msgid "banner id: "
-msgstr ""
+msgstr "旗帜ID:"
 
 # scripts/items/shields/wooden_shield_old.nut
 msgid "Old Wooden Shield"

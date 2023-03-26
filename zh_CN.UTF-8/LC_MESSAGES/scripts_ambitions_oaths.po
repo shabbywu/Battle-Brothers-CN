@@ -67,11 +67,11 @@ msgstr "天"
 
 # scripts/ambitions/oaths/oath_ambition.nut
 msgid " for "
-msgstr ""
+msgstr "为了"
 
 # scripts/ambitions/oaths/oath_ambition.nut
 msgid "another "
-msgstr ""
+msgstr "另一个"
 
 # scripts/ambitions/oaths/oath_ambition.nut
 msgid "Oath Boon"
@@ -87,7 +87,7 @@ msgstr "正在宣下 "
 
 # scripts/ambitions/oaths/oath_ambition.nut
 msgid "Oath Burden"
-msgstr ""
+msgstr "誓言之担"
 
 # scripts/ambitions/oaths/oath_ambition.nut
 msgid "Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts."
@@ -103,7 +103,7 @@ msgstr "你可以带上 [color="
 
 # scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
 msgid "]14[/color] men into battle."
-msgstr "]$1[/color] 人."
+msgstr "]14[/color] 人."
 
 # scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
 msgid "Your men always start battle randomly at Wavering or Breaking morale."
@@ -119,7 +119,7 @@ msgid ""
 "Let us take an Oath of Camaraderie, lest we lose sight of our true allies!"
 msgstr ""
 "没有任何一位宣誓者能够独自面对世界上的所有邪恶。\n"
-"Let us take an 友谊誓言, lest we lose sight of our true allies!"
+"让我们立下友谊誓言，以免失去真正的盟友！"
 
 # scripts/ambitions/oaths/oath_of_camaraderie_ambition.nut
 msgid "Young Anselm believed that, on occasion, it was right to bring as many to a battle as one could muster, even if the great throngs did threaten the chain of command. Indeed, \"All men deserve to stand by their brothers.\""
@@ -173,7 +173,7 @@ msgid ""
 "Let us take an Oath of Distinction and prove ourselves worthy to walk in his path!"
 msgstr ""
 "真正杰出的是那些能够遵循年轻的安瑟姆的教导的人。\n"
-"Let us take an 超群誓言 and prove ourselves worthy to walk in his path!"
+"让我们立下超群誓言，证明我们有资格走他的路！"
 
 # scripts/ambitions/oaths/oath_of_distinction_ambition.nut
 msgid "Young Anselm frequently pursued solitude, sometimes even on the battlefield. \"Prove yourself worthy in such a manner that not even the old gods may claim their eyes have erred in what glories they have seen.\""
@@ -185,7 +185,7 @@ msgid ""
 "\n"
 "But distinction be damned. We can't be glory hogging for all our days! Onto the next Oath!}"
 msgstr ""
-"[img]gfx/ui/events/event_180.png[/img]{许多剑术大师都是独处的。 他们的想法是，他们不是在与前面的人战斗，而是在为中间的空间而战。 虽然你不可能理解剑术大师和佣兵在空中舞剑的细微差别，但你会意识到这一公理的核心真理。 宣誓者，虽然可敬、勤奋，但内心仍然勇敢得近乎残酷，过分自信得荒谬可笑。 The 超群誓言 followed the swordmaster's art in spirit, and the Oathtaker's in mind. 每个人都独立自主地努力证明自己，证明自己值得别人的称赞。 如果有任何无偏见的俗人碰巧在观看，那么就不可能说 $1 没有作为一个精良的队伍脱颖而出。\n"
+"[img]gfx/ui/events/event_180.png[/img]{许多剑术大师都是独处的。 他们的想法是，他们不是在与前面的人战斗，而是在为中间的空间而战。 虽然你不可能理解剑术大师和佣兵在空中舞剑的细微差别，但你会意识到这一公理的核心真理。 宣誓者，虽然可敬、勤奋，但内心仍然勇敢得近乎残酷，过分自信得荒谬可笑。 超群誓言在精神上遵循了剑术大师的技艺，而宣誓者则铭记于心。 每个人都独立自主地努力证明自己，证明自己值得别人的称赞。 如果有任何无偏见的俗人碰巧在观看，那么就不可能说 $1 没有作为一个精良的队伍脱颖而出。\n"
 "\n"
 "但是区别是不可避免的。 我们不能整天霸占着荣耀！ 到下一个誓言！}"
 
@@ -214,12 +214,12 @@ msgid ""
 "Beasts have always threatened civilization.\n"
 "Let us take an Oath of Dominion and stake our claim against the tides of nature!"
 msgstr ""
-"Beasts have always threatened civilization.\n"
-"Let us take an 统御誓言 and stake our claim against the tides of nature!"
+"饕餮猛兽们是人类文明永恒的威胁。\n"
+"让我们立下统御誓言，与大自然的浪潮相抗争！"
 
 # scripts/ambitions/oaths/oath_of_dominion_ambition.nut
 msgid "\"We are from the beasts, but the beasts wish to have us back. Distance oneself from nature's primitiveness, prove your worth over Her such that your humanity be held in the grip of your own hands and seen through thine own eyes.\" - Young Anselm"
-msgstr ""
+msgstr "“我们源自野兽，但野兽也希望我们回归。远离自然的原始状态，证明自己胜过自然，让自己的人性握在自己的手中，透过自己的双眼看到。”-年轻的安瑟姆"
 
 # scripts/ambitions/oaths/oath_of_dominion_ambition.nut
 msgid ""
@@ -227,6 +227,9 @@ msgid ""
 "\n"
 "Triumphant over beasts and monsters, the men are ready to take on whatever's next!"
 msgstr ""
+"[img]gfx/ui/events/event_180.png[/img]在这个世界上，没有比普通野兽更常见的威胁了。然而，尽管这种动物疾病猖獗，很少有人愿意拿起武器去追杀它们。只有你们所有人，%companyname%，发誓要击杀这些怪物，并且你们做到了。以稳定的手和平静的心，你们履行了这个誓言。\n"
+"\n"
+"在野兽和怪物面前战胜，这些人已经准备好去接下来的挑战了！"
 
 # scripts/ambitions/oaths/oath_of_endurance_ambition.nut
 msgid "Oath of Endurance"
@@ -238,7 +241,7 @@ msgstr "你的所有战团成员每回合额外恢复"
 
 # scripts/ambitions/oaths/oath_of_endurance_ambition.nut
 msgid "]10[/color] men into battle."
-msgstr "]$1[/color] 人."
+msgstr "]10[/color] 人."
 
 # scripts/ambitions/oaths/oath_of_endurance_ambition.nut
 msgid "]+3[/color] Fatigue per turn."
@@ -257,19 +260,19 @@ msgid ""
 "To uphold Young Anselm's Oaths is to take on a duty without end.\n"
 "Let us take an Oath of Endurance and prepare ourselves for the tasks to come!"
 msgstr ""
-"To uphold Young Anselm's Oaths is to take on a duty without end.\n"
-"Let us take an 忍耐誓言 and prepare ourselves for the tasks to come!"
+"坚持初创者安塞姆的誓言就是承担起一种无穷无尽的责任。\n"
+"让我们立下忍耐誓言，为即将到来的任务做好准备！"
 
 # scripts/ambitions/oaths/oath_of_endurance_ambition.nut
 msgid "\"Thrice times thrice to climb, endurance they did find.\" It is said that when Young Anselm ascended the highest peak of the Higgarian mountain range, he took nine of his worthiest followers with him."
-msgstr ""
+msgstr "“三番三次攀登，他们真的耐力惊人。” 据说当年年轻的安瑟姆爬上希加利亚山脉最高的峰顶时，他带着他最值得信任的九名追随者。"
 
 # scripts/ambitions/oaths/oath_of_endurance_ambition.nut
 msgid ""
 "[img]gfx/ui/events/event_180.png[/img]{When asked what army he would wish to see deployed before him, a famous general remarked: 'one that does not need to breathe.' No matter how skilled a man is, if he does not have the energy to fight, then all his abilities are reduced to nothing but wheezes of air, and in such a state even a swordmaster may find himself only as dangerous as a dram wench. A good breath taken now is a well-placed sword swing later. The %companyname% has followed that axiom to its fullest!\n"
 "\n"
 "Now that the company has filled its lungs of proper fire, it is ready to accept another Oath!}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_180.png[/img]{一位著名将军被问到他希望看到哪支军队在他面前部署，他回答道：‘一支不需要呼吸的军队。’不管一个人有多么熟练，如果他没有战斗的能量，那么他所有的技能都将消失，只剩下呼吸声，甚至连剑术大师也会发现自己只有像一个卖酒的女人一样危险。现在喘上一口气，就等于成功地挥出了宝刀。%companyname%已经充分遵循了这个格言！现在公司已经充满了合适的激情，准备接受另一个誓言！}"
 
 # scripts/ambitions/oaths/oath_of_fortification_ambition.nut
 msgid " dead so far)."
@@ -308,12 +311,12 @@ msgid ""
 "Evil-doers skulk and hide away from the walls of the just.\n"
 "Let us take an Oath of Fortification and bring those walls to them!"
 msgstr ""
-"Evil-doers skulk and hide away from the walls of the just.\n"
-"Let us take an 壁垒誓言 and bring those walls to them!"
+"邪恶之徒躲藏在公理与正义的高墙之外。\n"
+"让我们立下壁垒誓言，把这堵高墙拍在他们脸上！"
 
 # scripts/ambitions/oaths/oath_of_fortification_ambition.nut
 msgid "\"Trust your shields as you would put faith in the old gods, for the contribution of the trees and the earth shall not be wasted on the nervous hinge of a coward's arm.\" - Young Anselm"
-msgstr ""
+msgstr "“信任你的盾牌，就像你相信旧神一样，因为树木和土地的贡献不应被浪费在懦夫的神经紧张上。” - 年轻的安瑟姆"
 
 # scripts/ambitions/oaths/oath_of_fortification_ambition.nut
 msgid ""
@@ -321,6 +324,9 @@ msgid ""
 "\n"
 "Now it is time to lower the shields and the Ancient Empire-fervor and take on a new Oath!}"
 msgstr ""
+"[img]gfx/ui/events/event_180.png[/img]{古帝国的文献记载了军事编队之间的关系是如此之紧密和紧凑，以至于就像是脚下漫步的城堡：数百个盾牌像蛇鳞或乌龟壳一样紧密结合。%companyname%尽力复制这些理论，总需要一些时间来整合这些要素，但您从未打算将其变成一个卓越的演练。古人拥有帝国，而你是一群不和谐的人和宣誓者。但根据你的估计，毕竟团队仍在坚持，因此这个誓言是一个杰出的成功。\n"
+"\n"
+"现在是时候放下盾牌和古代帝国的热情，并接受新的誓言了！}"
 
 # scripts/ambitions/oaths/oath_of_honor_ambition.nut
 msgid "Oath of Honor"
@@ -343,12 +349,12 @@ msgid ""
 "As warriors, we must never lose sight of true honor.\n"
 "Let us take an Oath of Honor and meet our opponents in melee!"
 msgstr ""
-"As warriors, we must never lose sight of true honor.\n"
-"Let us take an 荣耀誓言 and meet our opponents in melee!"
+"作为战士，我们决不能忽视真正的荣誉。\n"
+"让我们立下荣耀誓言，与我们的对手短兵相接！"
 
 # scripts/ambitions/oaths/oath_of_honor_ambition.nut
 msgid "\"While the arrow is nocked, the mind turns. While the sword swings, all is where it should be. Set aside the craft of archery and go unto the melee, trusting that what your steel seeks, it shall find.\" - Young Anselm"
-msgstr ""
+msgstr "“当箭被拉上弦时，心境转变。当剑挥舞时，一切都如应当的位置那样。把弓箭的技艺放下，走向近战，相信你的钢铁所寻求的，必然会找到。”——年轻的安瑟姆"
 
 # scripts/ambitions/oaths/oath_of_honor_ambition.nut
 msgid ""
@@ -356,6 +362,9 @@ msgid ""
 "\n"
 "Now that the company is of sturdy might and main, it is ready to accept its next Oath!"
 msgstr ""
+"[img]gfx/ui/events/event_180.png[/img]不管弓箭手们想说些什么，当面对面地碰触生死时，没有什么比这更值得尊敬了。当每个人手握长剑、视线交错，在这场战斗中找到一点喘息时，也许很短暂，但是在比赛中，盛大的活动不应该是像射击苹果或鸟，而应该是马上的决斗！军事战斗！是最伟大的荣誉，由%companyname%最伟大的战士承担。\n"
+"\n"
+"现在，%companyname%拥有强大的力量，已经准备好接受它的下一个誓言了！"
 
 # scripts/ambitions/oaths/oath_of_humility_ambition.nut
 msgid "Oath of Humility"
@@ -382,19 +391,19 @@ msgid ""
 "Arrogance is an insidious killer.\n"
 "Let us take an Oath of Humility and reflect on our shortcomings for a time."
 msgstr ""
-"Arrogance is an insidious killer.\n"
-"Let us take an 谦逊誓言 and reflect on our shortcomings for a time."
+"要时刻警醒：骄傲自满是位缓慢却阴险的杀手。\n"
+"让我们立下谦逊誓言，并反思一下我们的缺点。"
 
 # scripts/ambitions/oaths/oath_of_humility_ambition.nut
 msgid "\"As you are indeed men in pursuit of power, always listen to the weak...for the weak know the strong better than you do, and in turn they shall know you better than you know yourself.\" - Young Anselm"
-msgstr ""
+msgstr "“既然你们是追求权力的人，就要时刻倾听弱者的声音……因为弱者比你更了解强者，而他们也会比你更了解你自己。”——年轻的安瑟姆"
 
 # scripts/ambitions/oaths/oath_of_humility_ambition.nut
 msgid ""
 "[img]gfx/ui/events/event_180.png[/img]Any weak man can kneel, but to do so from a position of strength is true humility. While the %companyname% could have sought to wield its fame to make new fortunes, it instead stood aside, dedicating portions of its wealth to the needy and back to the communities who were offering these contracts in the first place. Many of the men have learned well from this experience and there is some hope that the methods deployed will be of use going forward, whether in this life or the next.\n"
 "\n"
 "The %companyname% are ready to take on their next challenge."
-msgstr ""
+msgstr "[img]gfx/ui/events/event_180.png[/img]任何软弱的人都可以跪下，但在强大的位置上做到这一点才是真正的谦卑。虽然%companyname%可以利用它的声誉来赚取新的财富，但它选择了退让，将其财富的一部分奉献给有需要的人，回馈社区，这些社区在第一时间提供了这些合同。很多人从这个经历中学到了很多，或许这些方法在今后的生活或来世都会有所用处。%companyname%已经准备好迎接下一个挑战了。"
 
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
 msgid "Oath of Righteousness"
@@ -417,12 +426,12 @@ msgid ""
 "Few aberrations are as repugnant as the undead.\n"
 "Let us take an Oath of Righteousness and strike down these mockeries of life!"
 msgstr ""
-"Few aberrations are as repugnant as the undead.\n"
-"Let us take an 正义誓言 and strike down these mockeries of life!"
+"很少有怪物能像不死生物那样令人厌恶。\n"
+"让我们立下正义誓言，击溃这些公然嘲弄生命的污秽邪物！"
 
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
 msgid "\"Beware the evil which has stolen into this realm. Set aside the worldly matters and dedicate oneself to putting our dead to rest once and for all. No man deserves to walk twice across this darkened land.\" - Young Anselm"
-msgstr ""
+msgstr "“当心那些潜入这个世界的邪恶。抛开世俗事物，全身心投入到彻底安息我们的死者之中。没有人应该在这片黑暗土地上走上第二遍路。” ——年轻的安瑟姆"
 
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut
 msgid ""
@@ -430,6 +439,9 @@ msgid ""
 "\n"
 "With veins aflame with righteousness, the %companyname% is ready to take on its next Oath!"
 msgstr ""
+"[img]gfx/ui/events/event_180.png[/img]在你走过这片大地时，不禁想知道之前有谁来过，之后有谁或什么出现。所以尸体再次行走的景象是一个如此令人不安的回答，大多数人宁愿逃离它也不愿意去寻找确认，因为确认意味着直面。但正是这些没有信仰的畜生成为了%companyname%公司寻找的对象，誓言要在任何地方消灭他们。这是一个正义的事情，需要巨大的勇气和毅力，完成后，%companyname%的士兵们毫不怀疑已经被一种几乎没有人能够感到的成就感所激发。\n"
+"\n"
+"怀揣正义的热血，%companyname%已经准备迎接他们的下一个誓言！"
 
 # scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
 msgid " injury"
@@ -468,12 +480,12 @@ msgid ""
 "We cannot live up to Young Anselm's example if we obsess over worldly matters.\n"
 "Let us take an Oath of Sacrifice and hone our purpose to its sharpest point."
 msgstr ""
-"We cannot live up to Young Anselm's example if we obsess over worldly matters.\n"
-"Let us take an 牺牲誓言 and hone our purpose to its sharpest point."
+"如果我们沉迷于世俗事务，我们就无法成为初创者安塞姆那样的榜样。\n"
+"让我们立下牺牲誓言，将我们的意志磨练到最尖锐的地步。"
 
 # scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
 msgid "\"If all is within the realm of the old gods' gifts, then pain itself shall be their bitterest fruit. But an offering it is, nonetheless, and so our battle against pain is one of great selfishness. Abscise from the healer's mend, and equally so from the merchant's lend.\" - Young Anselm"
-msgstr ""
+msgstr "“如果一切都在老神的馈赠之内，那么痛苦本身将是他们最苦涩的果实。尽管如此，这仍然是一种贡献，因此我们与痛苦的斗争是极其自私的。脱离治疗师的疗愈，同样也要脱离商人的借贷。”——年轻的安瑟姆"
 
 # scripts/ambitions/oaths/oath_of_sacrifice_ambition.nut
 msgid ""
@@ -483,6 +495,11 @@ msgid ""
 "\n"
 "As for the future, it is time the Oathtakers take on another Oath!}"
 msgstr ""
+"[img]gfx/ui/events/event_180.png[/img]{修道院的僧侣将会数日不喝水，数周不进食，永远不会有性。人们相信牺牲是“万物的调味料”，它是如此强大，以至于在那些自愿经历痛苦的人的灰烬中，可以找到耐力本身的残留物。现在，你承担了类似的誓言，理解了为何圣人会像母亲般对待自己弟兄的灰烬。对于%companyname%来说，这种永恒的力量分布在全公司，因为悲惨是可怕的，但是与你的战斗兄弟们肩并肩地承受共同的苦难，是一种令人动容的药剂，它将思维局限于那些必须完成的事情，排斥所有世俗的事物。\n"
+"\n"
+"现在，士兵们将会治愈，他们的思维将会回归到使他们脚踏实地的束缚上来。让修道院的僧侣为长远的奉献而付出，他们有更强的智慧和信仰，他们是应该仰望的，而不是像他们一样愚蠢地跟随。\n"
+"\n"
+"至于未来，是时候让立誓者接受另一种誓言了！}"
 
 # scripts/ambitions/oaths/oath_of_valor_ambition.nut
 msgid "Oath of Valor"
@@ -505,12 +522,12 @@ msgid ""
 "We must have the courage to face down any challenge, no matter how daunting.\n"
 "Let us take an Oath of Valor and prove our bravery to all!"
 msgstr ""
-"We must have the courage to face down any challenge, no matter how daunting.\n"
-"Let us take an 英勇誓言 and prove our bravery to all!"
+"我们必须有勇气面对任何挑战，无论挑战多么艰巨。\n"
+"让我们立下英勇誓言，向所有人证明我们的勇敢！"
 
 # scripts/ambitions/oaths/oath_of_valor_ambition.nut
 msgid "\"Remember in times of peril that courage can overcome skill. While little can be learned through bravery alone, sheer determination shall keep you alive and that is well enough as any conclusion to the lessons of battle.\" - Young Anselm"
-msgstr ""
+msgstr "“在危难时刻，请记住：勇气可以克服技能。虽然勇气不能单独决定战斗的胜负，但纯粹的决心可以让你活下来，这是战斗之教训最好的结论。”——年轻的安瑟姆"
 
 # scripts/ambitions/oaths/oath_of_valor_ambition.nut
 msgid ""
@@ -518,6 +535,9 @@ msgid ""
 "\n"
 "Now that the company has proven itself of the firmest element, it is ready to accept another Oath!}"
 msgstr ""
+"[img]gfx/ui/events/event_180.png[/img]{一个人不能仅凭技能和能力就获得成功。很多人都知道如何挥舞剑，举起斧头或者放箭。这并不是人类成长的关键，而是来自他自己内心的通过艰辛锻炼锤炼的品质。在那里锻造的坚如钢铁，永不言弃，因为即使是一个勇猛的战士在世界的历史长河中倒下了，他的名字也会被后人赞颂，被同类人传颂。\n"
+"\n"
+"现在，由于该公司已经证明了自己最坚定的元素，它已经准备好接受另一个誓言了!}"
 
 # scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
 msgid "Oath of Vengeance"
@@ -544,19 +564,19 @@ msgid ""
 "For too long have greenskins plagued our lands.\n"
 "Let us take an Oath of Vengeance and strike back at this menace!"
 msgstr ""
-"For too long have greenskins plagued our lands.\n"
-"Let us take an 复仇誓言 and strike back at this menace!"
+"绿皮已经毒害我们的土地太久了。\n"
+"让我们立下复仇誓言，反击这种威胁！"
 
 # scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
 msgid "Young Anselm's family was killed by orcs during the Battle of Many Names. When he himself faced greenskins, it is said he seemed an unstoppable warrior and his followers seek to emulate this vengeful surge of martial prowess."
-msgstr ""
+msgstr "安瑟姆年轻时家人在众名之战期间被兽人杀害。据说他面对绿皮族时，似乎成为了一名不可阻挡的战士，他的追随者试图效仿他这种报复性的武术技能。"
 
 # scripts/ambitions/oaths/oath_of_vengeance_ambition.nut
 msgid ""
 "[img]gfx/ui/events/event_180.png[/img]Greenskins have long plagued the land of man. Despite their everlasting threat, very few would ever take up an oath to destroy the creatures. They are a plague precisely because they are so dangerous, and because they are so dangerous most would rather look the other way than dare confront the beasts. However, the men of the %companyname% decided to take an oath against the orcs and goblins alike, and venture far to find them and hunt them down. Having followed through, a sense of accomplishment washes over the company.\n"
 "\n"
 "The men are already chomping at the bit: which Oath should be undertaken next?"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_180.png[/img]绿皮兽人长期以来一直困扰着人类的土地。尽管它们的威胁长存，很少有人会发誓要摧毁这些生物。它们是一种瘟疫，正因为它们如此危险，大多数人宁愿掉过头去，也不敢去面对这些野兽。然而，%companyname%的人决定发誓一定要追捕到兽人和地精，从而成功找到和消灭它们，一种成就感油然而生。这些人已经迫不及待了：下一个应该发誓做什么？"
 
 # scripts/ambitions/oaths/oath_of_wrath_ambition.nut
 msgid "Oath of Wrath"
@@ -588,7 +608,7 @@ msgstr "]+15%[/color] 使用双手或双手握持的近战武器的命中率加�
 
 # scripts/ambitions/oaths/oath_of_wrath_ambition.nut
 msgid "Young Anselm wrote many manuals on martial fighting, the most popular of which implore the use of two-handed weaponry and the absconsion of battle tact. Dried blood mottles the pages of these texts."
-msgstr ""
+msgstr "年轻的安瑟姆写了许多关于武术战斗的手册，其中最受欢迎的手册鼓励使用双手武器并避免战术。这些文字的页面上有干血斑驳。"
 
 # scripts/ambitions/oaths/oath_of_wrath_ambition.nut
 msgid ""

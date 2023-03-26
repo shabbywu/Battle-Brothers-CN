@@ -21,12 +21,12 @@ msgstr "由于一种被委婉地称为“知识药水”的热带混合体，这
 # scripts/skills/effects_world/new_trained_effect.nut
 # scripts/skills/effects_world/new_knowledge_potion_effect.nut
 msgid " more battles"
-msgstr ""
+msgstr "更多战斗"
 
 # scripts/skills/effects_world/new_trained_effect.nut
 # scripts/skills/effects_world/new_knowledge_potion_effect.nut
 msgid "Will be gone after "
-msgstr ""
+msgstr "将在之后消失"
 
 # scripts/skills/effects_world/new_trained_effect.nut
 # scripts/skills/effects_world/trained_effect.nut
@@ -88,7 +88,7 @@ msgstr "]-25%[/color] 远程防御"
 
 # scripts/skills/effects_world/drunk_effect.nut
 msgid "]50%[/color] chance to be followed by a hangover"
-msgstr ""
+msgstr "]50%[/color] 的几率会有宿醉的症状"
 
 # scripts/skills/effects_world/drunk_effect.nut
 msgid "Hicks. This character is intoxicated with alcoholic liquor to the point of impairment of physical and mental faculties."

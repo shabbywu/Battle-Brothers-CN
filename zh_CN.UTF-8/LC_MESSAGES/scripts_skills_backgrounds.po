@@ -36,42 +36,42 @@ msgstr "长期位于后备队不会不满意"
 # scripts/skills/backgrounds/slave_background.nut
 # scripts/skills/backgrounds/slave_barbarian_background.nut
 msgid "the Bound"
-msgstr ""
+msgstr "被束缚者(the Bound)"
 
 # scripts/skills/backgrounds/slave_southern_background.nut
 # scripts/skills/backgrounds/slave_background.nut
 # scripts/skills/backgrounds/slave_barbarian_background.nut
 msgid "the Unfree"
-msgstr ""
+msgstr "不自由者(the Unfree)"
 
 # scripts/skills/backgrounds/slave_southern_background.nut
 # scripts/skills/backgrounds/slave_background.nut
 # scripts/skills/backgrounds/slave_barbarian_background.nut
 msgid "the Unlucky"
-msgstr ""
+msgstr "不走运的人(the Unlucky)"
 
 # scripts/skills/backgrounds/slave_southern_background.nut
 # scripts/skills/backgrounds/slave_background.nut
 # scripts/skills/backgrounds/slave_barbarian_background.nut
 msgid "the Enslaved"
-msgstr ""
+msgstr "奴隶们(the Enslaved)"
 
 # scripts/skills/backgrounds/slave_southern_background.nut
 # scripts/skills/backgrounds/slave_background.nut
 # scripts/skills/backgrounds/slave_barbarian_background.nut
 msgid "the Prisoner"
-msgstr ""
+msgstr "囚犯(the Prisoner)"
 
 # scripts/skills/backgrounds/slave_southern_background.nut
 # scripts/skills/backgrounds/slave_background.nut
 # scripts/skills/backgrounds/slave_barbarian_background.nut
 msgid "the Shackled"
-msgstr ""
+msgstr "被束缚者(the Shackled)"
 
 # scripts/skills/backgrounds/raider_background.nut
 # scripts/skills/backgrounds/anatomist_background.nut
 msgid "the Crow"
-msgstr ""
+msgstr "乌鸦(The Crow)"
 
 # scripts/skills/backgrounds/assassin_southern_background.nut
 # scripts/skills/backgrounds/assassin_background.nut
@@ -81,12 +81,12 @@ msgstr "刺客"
 # scripts/skills/backgrounds/assassin_southern_background.nut
 # scripts/skills/backgrounds/assassin_background.nut
 msgid "the Assassin"
-msgstr ""
+msgstr "刺客(the Assassin)"
 
 # scripts/skills/backgrounds/assassin_southern_background.nut
 # scripts/skills/backgrounds/killer_on_the_run_background.nut
 msgid "the Murderer"
-msgstr ""
+msgstr "凶手(the Murderer)"
 
 # scripts/skills/backgrounds/assassin_southern_background.nut
 # scripts/skills/backgrounds/thief_background.nut
@@ -96,17 +96,17 @@ msgstr "影子"
 # scripts/skills/backgrounds/beast_hunter_background.nut
 # scripts/skills/backgrounds/hunter_background.nut
 msgid "Woodstalker"
-msgstr ""
+msgstr "木林行者(Woodstalker)"
 
 # scripts/skills/backgrounds/beast_hunter_background.nut
 # scripts/skills/backgrounds/manhunter_background.nut
 msgid "the Tracker"
-msgstr ""
+msgstr "追踪者(the Tracker)"
 
 # scripts/skills/backgrounds/beggar_background.nut
 # scripts/skills/backgrounds/vagabond_background.nut
 msgid "the Homeless"
-msgstr ""
+msgstr "无家可归者(the Homeless)"
 
 # scripts/skills/backgrounds/converted_cultist_background.nut
 # scripts/skills/backgrounds/cultist_background.nut
@@ -116,17 +116,17 @@ msgstr "邪教徒"
 # scripts/skills/backgrounds/converted_cultist_background.nut
 # scripts/skills/backgrounds/cultist_background.nut
 msgid "the Mad"
-msgstr ""
+msgstr "疯子(the Mad)"
 
 # scripts/skills/backgrounds/converted_cultist_background.nut
 # scripts/skills/backgrounds/cultist_background.nut
 msgid "the Insane"
-msgstr ""
+msgstr "疯狂者(the Insane)"
 
 # scripts/skills/backgrounds/converted_cultist_background.nut
 # scripts/skills/backgrounds/cultist_background.nut
 msgid "the Cultist"
-msgstr ""
+msgstr "邪教徒(the Cultist)"
 
 # scripts/skills/backgrounds/converted_cultist_background.nut
 # scripts/skills/backgrounds/cultist_background.nut
@@ -136,12 +136,12 @@ msgstr "信徒"
 # scripts/skills/backgrounds/paladin_background.nut
 # scripts/skills/backgrounds/crusader_background.nut
 msgid "the Crusader"
-msgstr ""
+msgstr "十字军战士(the Crusader)"
 
 # scripts/skills/backgrounds/paladin_background.nut
 # scripts/skills/backgrounds/cultist_background.nut
 msgid "the Zealot"
-msgstr ""
+msgstr "狂热者(the Zealot)"
 
 # scripts/skills/backgrounds/daytaler_southern_background.nut
 # scripts/skills/backgrounds/daytaler_background.nut
@@ -151,7 +151,7 @@ msgstr "{四处工作 | 没有稳定的工作 | 断断续续地工作 | 做做�
 # scripts/skills/backgrounds/deserter_background.nut
 # scripts/skills/backgrounds/messenger_background.nut
 msgid "the Runner"
-msgstr ""
+msgstr "递信者(the Runner)"
 
 # scripts/skills/backgrounds/fisherman_southern_background.nut
 # scripts/skills/backgrounds/fisherman_background.nut
@@ -161,12 +161,12 @@ msgstr "{%name% 热爱大海，喜欢独自在水上捕鱼的宁静 | 讽刺的�
 # scripts/skills/backgrounds/gambler_southern_background.nut
 # scripts/skills/backgrounds/gambler_background.nut
 msgid "{They say luck is the devil, so just how long can a gambler like %name% play with it? | Everyone gambles, so %name% figured why not do it for money? | Dice, cards, marbles - there are a lot of ways to take a man's money, and %name% knows all of them. | %name%'s got the eyes of a desert snake - and shaping cards is his rattle. | In a world of life or death, taking risks is %name%'s game. | A man like %name% sees everything coming, especially the next card in the deck.} {He supported himself by playing cards from town to town, only leaving after he'd cleaned out their pockets. | But it is a mystery as to how a man decides to take up cards as a lifestyle. | The constant coming and going of mercenaries made for easy targets - until one sore loser ran him off with a bastard sword. | Orphaned by his own birth, he's always scrounged up a living by gambling with others. | When he was a kid, a trickster's cup-game showed him the value in hustling. | When his father fell into gambling debts, he figured the best way to pay them back was to become an even better hustler himself. | After taking all their crowns, towns across the land banned %name% from hustling in a fit of so-called 'religious revival.'} {Now, the gambler seeks to throw his dice into the wind - as well as the mud, taking rank with any outfit that pays. | One has to wonder what a cardplayer is doing not playing cards. Then again, maybe it's good that he sees your group as a smart gamble. | Perhaps years of scamming mercenaries has given him the notion that he could just as easily be one. | Clever and quick-thinking, the cardshaper survives by moving before anyone else does, a skill as useful as any other in this world. | Ironically, a bad play put him into enormous debt with a baron. Now he has to find another way to pay it back. | Wars have sapped most of the fish from his cards games. Instead of waiting around he figured he'd just go ahead and follow them.}"
-msgstr ""
+msgstr "{他们说运气就像恶魔，那么像%name%这样的赌徒能玩多久呢？| 每个人都会赌博，所以%name%觉得干嘛不为钱赌呢？| 骰子，牌，弹珠——有很多赚取别人钱的方法，而%name%全都精通。| %name%有着沙漠蛇一样的眼睛——操纵牌就像它的嘶鸣。| 在生死存亡的世界里，冒险成为了%name%的游戏。| 类似%name%这样的人能预见一切，尤其是牌堆下一张牌的情况。} {他以玩牌为生，从一个镇到另一个镇，只要他在那里利用完他们的钱财就会离开。| 但是一个人如何决定成为一个赌徒的生活方式则是个谜。| 招募兵的不断来来往往为他提供了容易的目标，直到一个失败者用冷兵器将他赶走。| 因自身出生被遗弃，他总是通过与人赌博来维持生计。| 当他还是孩子的时候，一个骗子的杯子游戏向他展示了忽悠人的价值。| 当他的父亲陷入赌博债务时，他认为偿还债务的最佳方式是成为更好的传销者。| 在拿走他们所有的钱财之后，全国各地的城镇因为所谓的“宗教复兴”而禁止%name%继续传销。} {现在，赌徒试图把他的骰子和泥巴一起抛进空气中，跟随任何支付报酬的团队。| 一个玩牌的人为什么不玩牌呢，这让人很好奇。不过，也许他认为你的团队是个聪明的赌注也是不错的。| 或许多年欺骗招募兵已经使他认为他也可以成为他们中的一员。| 聪明机智的刻牌者通过在其他人动手之前就移动而生存，这在这个世界中是一项非常有用的技能。| 具有讽刺意味的是，一次糟糕的下注让他欠了一位男爵巨额债务。现在他必须找到另一种赚钱的方法来偿还。| 战争已经使他的赌博游戏中大部分的收益都流失了，他觉得他只能前去参战。}"
 
 # scripts/skills/backgrounds/hunter_background.nut
 # scripts/skills/backgrounds/lumberjack_background.nut
 msgid "the Woodsman"
-msgstr ""
+msgstr "伐木工人(the Woodsman)"
 
 # scripts/skills/backgrounds/juggler_background.nut
 # scripts/skills/backgrounds/killer_on_the_run_background.nut
@@ -176,17 +176,17 @@ msgstr "更高几率击中头部"
 # scripts/skills/backgrounds/paladin_background.nut
 # scripts/skills/backgrounds/monk_background.nut
 msgid "the Pious"
-msgstr ""
+msgstr "虔诚者 (the Pious)"
 
 # scripts/skills/backgrounds/paladin_background.nut
 # scripts/skills/backgrounds/monk_background.nut
 msgid "the Devoted"
-msgstr ""
+msgstr "虔诚者(the Devoted)"
 
 # scripts/skills/backgrounds/nomad_background.nut
 # scripts/skills/backgrounds/vagabond_background.nut
 msgid "the Wanderer"
-msgstr ""
+msgstr "流浪者(the Wanderer)"
 
 # scripts/skills/backgrounds/peddler_background.nut
 # scripts/skills/backgrounds/peddler_southern_background.nut
@@ -196,32 +196,32 @@ msgstr "{挨家挨户， | 曾经是一个骄傲的商人，现在 | 对大多�
 # scripts/skills/backgrounds/raider_background.nut
 # scripts/skills/backgrounds/slave_barbarian_background.nut
 msgid "the Raider"
-msgstr ""
+msgstr "掠夺者(the Raider)"
 
 # scripts/skills/backgrounds/slave_background.nut
 # scripts/skills/backgrounds/slave_barbarian_background.nut
 msgid "the Pale"
-msgstr ""
+msgstr "苍白之地(the Pale)"
 
 # scripts/skills/backgrounds/slave_background.nut
 # scripts/skills/backgrounds/slave_barbarian_background.nut
 msgid "the Captive"
-msgstr ""
+msgstr "俘虏(the Captive)"
 
 # scripts/skills/backgrounds/slave_background.nut
 # scripts/skills/backgrounds/slave_barbarian_background.nut
 msgid "the Restrained"
-msgstr ""
+msgstr "被压制者(The Restrained)"
 
 # scripts/skills/backgrounds/slave_southern_background.nut
 # scripts/skills/backgrounds/slave_background.nut
 msgid "the Indebted"
-msgstr ""
+msgstr "债务人 (the Indebted)"
 
 # scripts/skills/backgrounds/wildman_background.nut
 # scripts/skills/backgrounds/slave_barbarian_background.nut
 msgid "the Barbarian"
-msgstr ""
+msgstr "野蛮人(the Barbarian)"
 
 # scripts/skills/backgrounds/thief_background.nut
 # scripts/skills/backgrounds/vagabond_background.nut
@@ -230,7 +230,7 @@ msgstr "乌鸦"
 
 # scripts/skills/backgrounds/adventurous_noble_background.nut
 msgid "Adventurous Noble"
-msgstr ""
+msgstr "冒险贵族(Adventurous Noble)"
 
 # scripts/skills/backgrounds/adventurous_noble_background.nut
 msgid "Adventurous Nobles tend to have high resolve and melee skills, but often neglect ranged defense."
@@ -238,7 +238,7 @@ msgstr "爱冒险的贵族往往有很高的决心和近战技能，但总是不
 
 # scripts/skills/backgrounds/adventurous_noble_background.nut
 msgid "%name% departed the %companyname% and continued his adventuring elsewhere. {He headed east, hoping to discover the source of the greenskins, but the nobleman has not been heard from since. | He headed north into the snowy wastes. Word has it he was seen a week ago, marching south this time, looking rather pale and shuffling moreso than walking. | He headed south into brutal marshlands. Word has it that a mysterious flame appeared in the fog and he walked toward it. The men who saw this said he disappeared into the mist and never returned. | He headed west and sailed the open sea. Despite having no experience at sea, he saw fit to make himself captain of the boat. They say pieces of his ship and dead sailors kept washing ashore for weeks.}"
-msgstr ""
+msgstr "%name% 离开了 %companyname%，继续他的冒险旅程。{他向东走去，希望发现兽人的来源，但自那以后就再也没有听到这位贵族的消息。|他向北走入雪地荒野。有传言说他一个星期前被看到向南行军，看起来比走路更苍白缓慢。|他向南走入残酷的沼泽地。有传言说迷雾中出现了神秘的火焰，他走向它后就不见了。看到这个场面的人说他消失在了雾中且从未回来。|他向西航行远洋。尽管没有海上经验，但他自以为有资格成为船长。据说他的船和船员的尸体碎片被冲上了岸，一直持续了几周。}"
 
 # scripts/skills/backgrounds/adventurous_noble_background.nut
 msgid "Adventurousness never leaves the soul of a man like %name%. {Instead of returning to his noble family, he left the %companyname% and headed east in search of rare beasts. Word has it he returned to town with the head of what looked like a giant lizard, but you don't believe such fantastical tripe. | He departed the %companyname% and ventured west, sailing across the oceans to unseen lands. There's no telling where he is these days, but you've little doubt that he'll be coming back with stories to tell. | He retired from the %companyname% and, instead of returning to his noble family, headed south. Word has it he fought in a great noble civil war, killed an orc warlord, climbed the highest mountain in the land, and is currently writing an epic about his travels. | The nobleman left the %companyname% and, preferring the life of adventure to noble boredom, he headed north. Word has it that he's currently marching a troop of explorers to the furthest reaches of the world.}"
@@ -250,19 +250,19 @@ msgstr "{一位未成年的贵族 | 一位贵族的第三个继承人 | 一位�
 
 # scripts/skills/backgrounds/anatomist_background.nut
 msgid "the Grim"
-msgstr ""
+msgstr "格林姆(the Grim)"
 
 # scripts/skills/backgrounds/anatomist_background.nut
 msgid "Anatomist"
-msgstr ""
+msgstr "解剖学家(Anatomist)"
 
 # scripts/skills/backgrounds/anatomist_background.nut
 msgid "the Curious"
-msgstr ""
+msgstr "好奇者(the Curious)"
 
 # scripts/skills/backgrounds/anatomist_background.nut
 msgid "the Tainted"
-msgstr ""
+msgstr "被污染者(the Tainted)"
 
 # scripts/skills/backgrounds/anatomist_background.nut
 msgid "the Vulture"
@@ -270,19 +270,19 @@ msgstr "秃鹫"
 
 # scripts/skills/backgrounds/anatomist_background.nut
 msgid "the Anatomist"
-msgstr ""
+msgstr "解剖学家(the Anatomist)"
 
 # scripts/skills/backgrounds/anatomist_background.nut
 msgid "the Mortician"
-msgstr ""
+msgstr "埋尸人(the Mortician)"
 
 # scripts/skills/backgrounds/anatomist_background.nut
 msgid "the Magistrate"
-msgstr ""
+msgstr "城镇长(the Magistrate)"
 
 # scripts/skills/backgrounds/anatomist_background.nut
 msgid "the Undertaker"
-msgstr ""
+msgstr "承办人(the Undertaker)"
 
 # scripts/skills/backgrounds/anatomist_background.nut
 msgid "Part scientist and part surgeon, Anatomists are unaccustomed to battle but well served by steady hands."
@@ -290,11 +290,11 @@ msgstr "解剖学家既是科学家又是外科医生，他们不习惯于战斗
 
 # scripts/skills/backgrounds/anatomist_background.nut
 msgid "Having fled the %companyname%, %name% the anatomist continued his studies elsewhere. He was admonished by his peers for venturing out in such an uncouth manner and found himself suffering in intellectual mediocrity. Some years later, he made a small contribution to the study of beetles after which he promptly threw himself off a seaside cliff, donating his brain to the rocks and his body to the ocean."
-msgstr ""
+msgstr "逃离了\"%companyname%\"，解剖学家%name%在其他地方继续进行他的研究。他被同行谴责，因为以如此粗鄙的方式冒险，并发现自己在智力上陷入平庸。几年后，他对甲壳虫的研究做出了小贡献，然后毅然从海边悬崖跳下，把大脑捐献给了石头，身体则归于海洋。"
 
 # scripts/skills/backgrounds/anatomist_background.nut
 msgid "Out of all the men you came to know in the %companyname%, it was %name% the anatomist who is perhaps the most difficult to forget. An unending stream of letters only helps ensure you never will. You skim over his latest, one-sided correspondence: \"Captain! I've managed to...\" skimming, skimming, \"...the greatest invention! The most...\" skimming, skimming. \"I'm going to be famous! My brain will be studied for its weight is surely...\" Nothing new, it seems, though you are glad he's still in good health, albeit perhaps more so in body than mind."
-msgstr ""
+msgstr "在%companyname%里你所认识的所有人中，解剖学家%name%可能是最难忘的一个。不停的来信只让你更加难以忘怀。你浏览着他最新的单面通信：“船长！我已经成功地……”浏览中，“……最伟大的发明！最……”浏览中，“我将会出名！我的大脑会因其重量而被……”看起来没有什么新的内容，尽管你很高兴他身体很健康，虽然可能比智力更健康。"
 
 # scripts/skills/backgrounds/anatomist_background.nut
 msgid "{%name% is a sharp man with a complexion wrecked by constant and virulent testing. You hope that his methodologies may be better applied to his enemies rather than his own self. | Rumors about %name% suggest he tried to figure out how to fly. Not by machine, rather, but by growing wings. How exactly he intended to do that, or what became of his experiments, is unknown. Yet, here he is, rather shrewdly grounded and looking over his shoulders. | Like many anatomists, %name% went out on his own into the world. Of course, also like many, he was quickly chewed up by the hungriness of those to whom science means nothing. For now, he will fight alongside sellswords, if only to buy himself extra time to truly get to his studies. | %name% is cynical to the world, upset that some of his peers could see to their education in full, while he must earn coin just to support his studies. May his anger present itself on the battlefield. | One would expect a man like %name% to appear after a battle, not actually participate in it. The fact such an intelligent, albeit bizarre figure would still need a sellsword's earnings has you wondering if your own prospects of getting anywhere in this world are even worse than you realized. | One cannot overstate %name%'s intellect. He is a wicked smart man, the sort who can make you question why the gods bothered to give you a mind of your own if it is to be so dwarfed. But, in sellsword matters, he would be just another fighter. Hopefully his martial skills are as sharp as his wits. | You can never know for certain if it were hard times which forced %name% into sellswording, or if he's merely pursuing scientific inquiries by another, far crueler path. That he spends evenings dissecting wagon-crushed dogs and wingless butterflies makes you ponder a lot of things about the curious fellow. | Curiosity, not coin, brought %name% to sellswording. He has a keen interest in discovering the creatures of the world, and what they look like on the inside. So long as he makes said insides visible, you could care less what else he does with them.}"
@@ -302,11 +302,11 @@ msgstr "{%name% is a sharp man with a complexion wrecked by constant and virulen
 
 # scripts/skills/backgrounds/apprentice_background.nut
 msgid "the Kid"
-msgstr ""
+msgstr "那孩子(the Kid)"
 
 # scripts/skills/backgrounds/apprentice_background.nut
 msgid "Goodhand"
-msgstr ""
+msgstr "古德汉德(Goodhand)"
 
 # scripts/skills/backgrounds/apprentice_background.nut
 msgid "Quickmind"
@@ -314,31 +314,31 @@ msgstr "头脑灵活的人"
 
 # scripts/skills/backgrounds/apprentice_background.nut
 msgid "the Young"
-msgstr ""
+msgstr "年轻人(the Young)"
 
 # scripts/skills/backgrounds/apprentice_background.nut
 msgid "Apprentice"
-msgstr ""
+msgstr "学徒(Apprentice)"
 
 # scripts/skills/backgrounds/apprentice_background.nut
 msgid "the Bright"
-msgstr ""
+msgstr "明亮之城(the Bright)"
 
 # scripts/skills/backgrounds/apprentice_background.nut
 msgid "the Learner"
-msgstr ""
+msgstr "学徒(the Learner)"
 
 # scripts/skills/backgrounds/apprentice_background.nut
 msgid "the Student"
-msgstr ""
+msgstr "学生(the Student)"
 
 # scripts/skills/backgrounds/apprentice_background.nut
 msgid "the Apprentice"
-msgstr ""
+msgstr "学徒(the Apprentice)"
 
 # scripts/skills/backgrounds/apprentice_background.nut
 msgid "the Understudy"
-msgstr ""
+msgstr "替身演员(the Understudy)"
 
 # scripts/skills/backgrounds/apprentice_background.nut
 msgid "]+10%[/color] Experience Gain"
@@ -350,11 +350,11 @@ msgstr "学徒对于知识的渴望使他们学习的速度比常人更快。"
 
 # scripts/skills/backgrounds/apprentice_background.nut
 msgid "Perhaps one of the sharpest men you've ever met, %name% the apprentice was the quickest learner in the %companyname%. With plenty of crowns stored, he retired from fighting to take his talents to the business world. Last you heard he was doing very well for himself across multiple trades. If you ever have a son, this is the man you'll send him to for apprenticeship."
-msgstr ""
+msgstr "也许是你见过的最聪明的人之一，学徒 %name% 是 %companyname% 中最快的学习者。拥有丰富的财富积累，他从打斗中退役，将自己的才华带到了商界。据最近的消息，他在多个行业中都非常成功。如果你有儿子，这就是你会送他去实习的人。"
 
 # scripts/skills/backgrounds/apprentice_background.nut
 msgid "%name% the apprentice was, by far, the quickest learner in the %companyname%. Little surprise then that he was also one of the quickest to recognize its inevitable downfall and leave while he still could. Had he been born in a different time he would have gone on to do great things. Instead, many wars, invasions, and plagues spreading across the land ultimately ensured %name% and many other talented men went to total waste."
-msgstr ""
+msgstr "%name% 这位学徒是 %companyname% 中学习速度最快的人，所以他很快便意识到这家公司的不可避免的崩溃，并及时离开。如果他生在不同的时代，他会成就伟大事业。而如今，战争、入侵和瘟疫横扫土地，最终导致 %name% 和许多其他才华横溢的人浪费人才。"
 
 # scripts/skills/backgrounds/apprentice_background.nut
 msgid "{One enters the world always looking to be the best they can be, | Mastery of an art is prestigious, | Everybody looks up to the best,} {but no one gets there in an instant. | so what better way to be the best than to learn underneath one? | and it's no secret most look toward the masters for help.} {%name% thought the same, taking the role of an apprentice in %townname%. | Believing this to be true, %name% took up an apprenticeship in %townname%. | When %randomtown%'s college asked for apprentices, %name% was the first to sign up. | Urged by his parents to better his craft, %name% looked to start his career as an apprentice. | Not to be outdone by his overachieving brother, %name% began looking for an apprenticeship.} {Unfortunately, his master was poorly chosen: an insane carpenter with a penchant for chopping the neckline instead of the treeline. Fleeing the impending doom by association, %name% has ended up in the company of sellswords. | Learning all he could, %name% built the greatest work of art possibly ever seen in the field of underwater basket-weaving. His master, though, was a jealous one. Not to be outdone by a pupil, he burned the project to ash and eye-watering fumes. It was clear to %name%: he could learn fast, but perhaps there were better masters to study beneath. | He had soaked up all there was to learn: masonry, carpentry, blacksmithing, lovemaking. Now he turns his eyes on the martial arts. While he isn't exactly a warrior yet, %name% is a fast learner.}"
@@ -362,19 +362,19 @@ msgstr "{一个人来到世上总是想尽自己所能去做到最好， | 精�
 
 # scripts/skills/backgrounds/assassin_background.nut
 msgid "%name% joined the company in place of the bastard nobleman he had come to kill. So strange was this agreement that you kept your eye on the assassin for many days. But all he did was fight for the %companyname%, and fight well. Last you heard, the assassin departed the company and has not been seen or heard from since. You checked in on the bastard nobleman himself to see if perhaps the assassin had finished the job, but the man was alive and well. A peculiar run in, in the end."
-msgstr ""
+msgstr "%name% 代替他该杀的贵族进入公司。这样的协议看起来十分奇怪，让你观察刺客许多天。但他所做的一切都是为了%companyname%而战，而且打得出色。据你最后所知，刺客已经离开了公司，从此没有音讯。你去查看那该死的贵族，想知道刺客是否完成了任务，但发现他还活得好好的。最终这是一个奇怪的巧合。"
 
 # scripts/skills/backgrounds/assassin_background.nut
 msgid "%name% joined the company in place of the bastard nobleman he had come to kill. So strange was this agreement that you kept your eye on the assassin for many days. But all he did was fight for the %companyname%, and fight well. Last you heard, the assassin departed the company not long after your hurried retirement. You decided to check in on his target the bastard nobleman only to find out that he had been slain by an unseen assassin. It appears %name% finished the job in the end."
-msgstr ""
+msgstr "%name%代替了他原本要杀的贵族加入了公司。这样奇怪的约定让你盯着刺客好几天。但他所做的一切都是为了 %companyname% 而且他做得很好。最后你听说这个刺客在匆忙退休后不久就离开了公司。你决定去查看他要杀的贵族，却发现那个贵族被一个看不见的刺客杀死了。看来 %name% 最后完成了任务。"
 
 # scripts/skills/backgrounds/assassin_southern_background.nut
 msgid "the Dagger"
-msgstr ""
+msgstr "匕首(the Dagger)"
 
 # scripts/skills/backgrounds/assassin_southern_background.nut
 msgid "the Unseen"
-msgstr ""
+msgstr "无形者(the Unseen)"
 
 # scripts/skills/backgrounds/assassin_southern_background.nut
 msgid "the Elusive"
@@ -394,15 +394,15 @@ msgstr "刺客腿脚利索且精于武器使用。"
 
 # scripts/skills/backgrounds/assassin_southern_background.nut
 msgid "%name% the assassin departed the %companyname% with a large chest of gold and traveled far away. From what rumors you've heard, he built a castle in the mountains east of the southern kingdoms. You're not sure if it's true, but there's been a steady increase in dead viziers and lords alike as of late."
-msgstr ""
+msgstr "%name%这位刺客带着一大箱黄金离开了%companyname%，远走他乡。从你听到的谣言中，他在南部王国以东山脉建造了一座城堡。你不确定这是真的，但最近宰相和领主们的死亡率一直稳步上升。"
 
 # scripts/skills/backgrounds/assassin_southern_background.nut
 msgid "%name% disappeared not long after your retirement from the %companyname%. The assassin presumably does not want to be found and there's no telling where he is. In moments of honesty, you tell others you wished you never hired him at all. You just can't shake the terror that it is you he is stalking and hunting, and you spend many nights with one eye open, looking for the man in black with the crooked dagger."
-msgstr ""
+msgstr "%name%在你从%companyname%退休不久后就失踪了。这名刺客可能不希望被找到，并且无法确定他在哪里。在坦率的时刻，你告诉别人你希望自己根本没有雇佣他。你只是无法摆脱被他追踪和狩猎的恐惧，并且经常彻夜未眠，睁着一只眼，寻找那个拿着弯刀的黑衣人。"
 
 # scripts/skills/backgrounds/assassin_southern_background.nut
 msgid "{You wouldn't think it at first, but %name% looks like any other man. Ordinary. Just an ordinary man. | %name% looks almost like the mold of every man you've ever met put together. He has a face you'd never remember. | %name% has a gentle smile and demeanor. He talks to all others as equals, weighing the opinions of wealthy and poor seemingly to measure himself between them. | %name% offers nothing with which to garner a second look. He is wholly simple, and wholly a man meant to be a part of this world.} {Of course, this is by design. He is an assassin sent by a guild of trained killers. A scroll he carries suggests, without threat, that you take him under your employ. | This unassuming existence is a trained face for a man who is, in actuality, a trained assassin carrying a one-of-a-kind Qatal dagger from his guild. | A bland face has a murderous past, though, for the man carries a Qatal dagger given only to the best killers of one of the South's guild of assassins. | But the 'familiar stranger' face is a put on, intended to hide the fact that he is a man from a guild of assassins sent out for reasons you may never know.} {%name% could be standing right next to you, yet feel as though he's disappeared into a crowd of two. | Despite knowing you've never met the man until now, you can't help but feel you've seen %name% somewhere before. | You naturally feel at ease around %name%, which almost feels like a setup in and of itself, so in turn you force yourself to stay alert around him instead.}"
-msgstr ""
+msgstr "{起初你可能不会这么认为，但是 %name% 看起来就像其他普通人一样。很普通。就是一个普通男人。| %name% 像是你曾经遇见过的每个男人的模板拼凑而成。他有一个你永远不会记住的脸。| %name% 微笑着，态度和蔼。他和所有人都平等地交谈，看似衡量着自己和贫富两极之间的意见。| %name% 并没有什么特别之处，不会引起第二次关注。他完全简单，完全是一个适应这个世界的人。} {当然，这是有意而为之的。他是来自一个训练有素的杀手组织的刺客。他携带的一份卷轴无需恐吓，建议你雇佣他。| 这种不起眼的存在是一个经过训练的人的面孔，实际上，他是一名受过训练的刺客，携带着来自他的组织的独一无二的 Qatal 短剑。 | 平淡的脸庞隐藏了一个杀人的过去，因为这个人携带着来自南方一个杀手组织中最优秀的杀手所赐予的 Qatal 短剑。| 但是，这个“熟悉的陌生人”面孔是为了隐藏他是来自刺客组织的人而故意假装的。他出发的原因，你可能永远都不会知道。} { %name% 可能就站在你的旁边，却感觉他已经在人群中消失了。| 虽然你知道此人直到现在为止你从未见过，但你不禁感到自己在某处见过 %name%。 | 你自然而然地感到舒适，在他周围几乎感觉像是一种设置，所以你反而要让自己保持警惕。}"
 
 # scripts/skills/backgrounds/barbarian_background.nut
 msgid "Barbarian"

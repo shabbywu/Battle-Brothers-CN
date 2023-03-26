@@ -52,7 +52,7 @@ msgstr "取消"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Corpse"
-msgstr ""
+msgstr "尸体"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Crowns"
@@ -64,7 +64,7 @@ msgstr "伤害"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Demise"
-msgstr ""
+msgstr "终结"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Ground"
@@ -144,7 +144,7 @@ msgstr "圣战"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Lord of "
-msgstr ""
+msgstr "领主"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Map Seed"
@@ -152,7 +152,7 @@ msgstr "地图种子"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Renown: "
-msgstr ""
+msgstr "声望："
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "UI Scale"
@@ -168,6 +168,9 @@ msgid ""
 "\n"
 "[color="
 msgstr ""
+"\n"
+"\n"
+"[color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Alchemist"
@@ -286,10 +289,6 @@ msgid "Weaponsmith"
 msgstr "武器店"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
-msgid "tile-entity"
-msgstr ""
-
-# scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Company Name"
 msgstr "战队名称"
 
@@ -323,7 +322,7 @@ msgstr "远程技能"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Reputation: "
-msgstr ""
+msgstr "声望："
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Start Battle"
@@ -347,7 +346,7 @@ msgstr "载入战役"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Locked until "
-msgstr ""
+msgstr "锁定直到 "
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Melee Defense"
@@ -423,7 +422,7 @@ msgstr "支付花费"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid " units at most."
-msgstr ""
+msgstr "最多单位数。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Active Contract"
@@ -475,11 +474,11 @@ msgstr "测验新兵"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "  You can carry "
-msgstr ""
+msgstr "你可以携带。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid " was slain here."
-msgstr ""
+msgstr "在这里被杀。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Attribute Points"
@@ -491,7 +490,7 @@ msgstr "合同已锁定"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Costs [b][color="
-msgstr ""
+msgstr "成本 [b][color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Daily Provisions"
@@ -515,15 +514,15 @@ msgstr "暂停 (空格键)"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Received [color="
-msgstr ""
+msgstr "收到了 [color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color][/b] AP)"
-msgstr ""
+msgstr "[/color][/b] 点行动力)"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid " units at a time."
-msgstr ""
+msgstr "单位每次。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Always Hide Trees"
@@ -639,11 +638,11 @@ msgstr "使用硬件光标"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color] more days."
-msgstr ""
+msgstr "[/color] 多几天。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid " to have it repaired"
-msgstr ""
+msgstr "进行修理"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Beasts & Exploration"
@@ -655,15 +654,15 @@ msgstr "按类型筛选物品"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Will heal in [color="
-msgstr ""
+msgstr "将会痊愈在[color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Your Lookout reports"
-msgstr ""
+msgstr "您的前哨报告。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color] and [color="
-msgstr ""
+msgstr "[/color] 和 [color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Center Camera (Shift)"
@@ -747,7 +746,7 @@ msgstr "展开/收回事件日志"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Return to the main menu."
-msgstr "返回 the main menu."
+msgstr "返回主菜单。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Unknown Character Traits"
@@ -763,7 +762,7 @@ msgstr "[/color] 生命值伤害"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid " more perk point is spent"
-msgstr ""
+msgstr "更多的特技点被使用了"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Always Show Hitpoint Bars"
@@ -791,7 +790,7 @@ msgstr "[/color] 医疗用品"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid " more perk points are spent"
-msgstr ""
+msgstr "更多的技能点已经使用。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Effectiveness against Armor"
@@ -831,7 +830,7 @@ msgstr "[/color] 工具和补给。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid " recently passed through here"
-msgstr ""
+msgstr "最近从这里经过"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Auto-Pause After Leaving City"
@@ -897,7 +896,7 @@ msgstr "在所选位置中保存战役。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color] days and requires between "
-msgstr ""
+msgstr "[/color] 天并需要大约"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Set time to pass faster than normal."
@@ -943,11 +942,11 @@ msgstr "有人想雇佣雇佣兵。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Pay [img]gfx/ui/tooltips/money.png[/img]"
-msgstr ""
+msgstr "支付[img]gfx/ui/tooltips/money.png[/img]。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid " for [img]gfx/ui/tooltips/money.png[/img]"
-msgstr ""
+msgstr "对于[img]gfx/ui/tooltips/money.png[/img]"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Expands or retracts the Combat Event Log."
@@ -979,11 +978,11 @@ msgstr "显示当前放置在地面上的物品。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "You cannot retreat from this particular fight"
-msgstr ""
+msgstr "你不能从这场特定的战斗中撤退。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color] provisions will last you for [color="
-msgstr ""
+msgstr "[/color]口粮能够供应您[color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Start the battle using the selected equipment."
@@ -1017,14 +1016,14 @@ msgstr "出售物品 [img]gfx/ui/tooltips/money.png[/img]"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "]+50%[/color] Experience Gain for the next battle."
-msgstr ""
+msgstr "]+50%[/color] 经验加成（下一场战斗）。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid ""
 "\n"
 "\n"
 "Healing up all your men will take between [color="
-msgstr ""
+msgstr "治愈所有士兵将需要一段时间 [color=\""
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Show only weapons, offensive tools and accessories."
@@ -1044,7 +1043,7 @@ msgstr "单击此处更改角色的名称和头衔。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Not enough Action Points to change items ([b][color="
-msgstr ""
+msgstr "没有足够的行动点来更换物品（[b][color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "A kennel where strong and fast dogs are bred for war."
@@ -1120,7 +1119,7 @@ msgstr "你需要至少3个空的仓库空间在才能在竞技场战斗"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "]+20%[/color] Experience Gain for the duration of five battles."
-msgstr ""
+msgstr "]+20%[/color] 经验加成，持续五场战斗。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Move the camera to center and zoom in on your mercenary company."
@@ -1132,7 +1131,7 @@ msgstr "显示你的雇佣兵战队的战斗名单。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "]+35%[/color] Experience Gain for the duration of three battles."
-msgstr ""
+msgstr "]+35%[/color] 经验获取（持续三场战斗）。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "A fletcher offering all kinds of expertly crafted ranged weaponry."
@@ -1264,7 +1263,7 @@ msgstr "这个角色可能有未知的特性。 你可以支付费用尝试展�
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "]Any character on this tile may retreat safely and immediately from battle.[/color]"
-msgstr ""
+msgstr "]此方格上的任何角色都可以安全、立即地撤退。[/color]"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "The damage dealt by this character during battle, against hitpoints and against armor."

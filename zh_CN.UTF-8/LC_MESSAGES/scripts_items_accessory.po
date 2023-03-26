@@ -43,7 +43,7 @@ msgstr "附件位置损坏"
 
 # scripts/items/accessory/accessory.nut
 msgid "Maximum Fatigue [color="
-msgstr ""
+msgstr "最大疲劳 [color="
 
 # scripts/items/accessory/alp_trophy_item.nut
 msgid "Alp Trophy Necklace"
@@ -127,7 +127,7 @@ msgstr "猎鹰"
 
 # scripts/items/accessory/falcon_item.nut
 msgid " (Released)"
-msgstr ""
+msgstr "（已发布）"
 
 # scripts/items/accessory/falcon_item.nut
 msgid "A trained falcon. Can be released in battle to discover hidden prey."
@@ -271,7 +271,7 @@ msgstr "疲劳的战士跟死了没什么区别。 这种肾上腺素和植物�
 
 # scripts/items/accessory/sergeant_badge_item.nut
 msgid "Sergeant's Sash"
-msgstr ""
+msgstr "中士的肩带"
 
 # scripts/items/accessory/sergeant_badge_item.nut
 msgid "A sash worn by the company's sergeant, your second-in-command on the battlefield."
@@ -299,7 +299,7 @@ msgstr "这条从一堆骨头上取下的古老项链表明戴着它的人是与
 
 # scripts/items/accessory/wardog_item.nut
 msgid " the Wardog"
-msgstr ""
+msgstr "战争犬"
 
 # scripts/items/accessory/wardog_item.nut
 msgid "Wardog Collar"
@@ -315,15 +315,15 @@ msgstr "为战争而生的强壮又忠诚的狗。 可在战斗中释放来侦�
 
 # scripts/items/accessory/warhound_item.nut
 msgid " the Warhound"
-msgstr ""
+msgstr "战犬"
 
 # scripts/items/accessory/warhound_item.nut
 msgid "Warhound Collar"
-msgstr ""
+msgstr "战犬项圈"
 
 # scripts/items/accessory/warhound_item.nut
 msgid "Unleash Warhound"
-msgstr ""
+msgstr "释放战猎犬"
 
 # scripts/items/accessory/warhound_item.nut
 msgid "The collar of a warhound that has been unleashed onto the battlefield."
@@ -339,7 +339,7 @@ msgstr "来自北方的为战争而生的强壮又忠诚的狗。 可在战斗�
 
 # scripts/items/accessory/wolf_item.nut
 msgid " the Wolf"
-msgstr ""
+msgstr "狼"
 
 # scripts/items/accessory/wolf_item.nut
 msgid "Wolf Collar"

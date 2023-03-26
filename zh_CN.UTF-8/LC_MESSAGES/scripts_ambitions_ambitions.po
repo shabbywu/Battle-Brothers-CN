@@ -327,7 +327,7 @@ msgstr "在战斗中击败5群流浪野兽，如冰原狼或食尸鬼，无论�
 
 # scripts/ambitions/ambitions/defeat_beasts_ambition.nut
 msgid "[img]gfx/ui/events/event_56.png[/img]Having dispatched yet another band of beasts, you find yourself pondering the nature of your ancestors. Here you are, organized, armed and armored, world-traveled, experienced in matters of war and combat, and yet the monsters of this world still serve to be as dangerous as ever. Your ancestors, what did they have? No civilization to blanket themselves under, no cities to light the night and warm the courage, no maps to give a comforting border to the world. And yet... they survived. What was it? How? Perhaps, in those days, it was man who was the threat, and the beasts saw him the monster. Or perhaps there are times before the ancients, times of when they had their own cities, and all the world simply shifts in balance, beast and man, since time immemorial. And if that is the case, then it is not the past you should dwell on, but the days and years and millennia to come..."
-msgstr "[img]gfx/ui/events/event_56.png[/img]Having dispatched yet  band of beasts, you find yourself pondering the nature of your ancestors. 你在这里准备就绪、全副武装，周游世界，在战争、战斗方面经验丰富，但这个世界上的野兽仍像以前一样危险。 你的祖先，他们拥有什么？ 没有一种文明可以装点自我，没有一座城市可以照亮黑夜、点燃勇气，没有一张地图可以给世界一个舒适的领地。 然而…他们活了下来。 是什么让他们做到的。怎么做到的？ Perhaps, in those 天, it was man who was the threat, and the beasts saw him the monster. 在我们的祖先之前也许有过这样的时代，人们拥有自己的城市，从远古时代起，全世界的动物和人类均处于单纯的轮回中。 如果是这样的话，那么你就不应该沉湎于过去，而是未来的日常、岁月和纪年…"
+msgstr "[img]gfx/ui/events/event_56.png[/img]在你处决另一批野兽后，你发现自己在思考祖先的本性。 你在这里准备就绪、全副武装，周游世界，在战争、战斗方面经验丰富，但这个世界上的野兽仍像以前一样危险。 你的祖先，他们拥有什么？ 没有一种文明可以装点自我，没有一座城市可以照亮黑夜、点燃勇气，没有一张地图可以给世界一个舒适的领地。 然而…他们活了下来。 是什么让他们做到的。怎么做到的？ 也许，在过去人类构成了威胁，野兽把人类作为怪物看待。 在我们的祖先之前也许有过这样的时代，人们拥有自己的城市，从远古时代起，全世界的动物和人类均处于单纯的轮回中。 如果是这样的话，那么你就不应该沉湎于过去，而是未来的日常、岁月和纪年…"
 
 # scripts/ambitions/ambitions/defeat_civilwar_ambition.nut
 msgid "End the war between noble houses"
@@ -407,7 +407,7 @@ msgstr ""
 
 # scripts/ambitions/ambitions/defeat_greenskins_ambition.nut
 msgid "Defeat the Greenskin Invasion! Every contract against them, and every army or location destroyed, will bring you closer to saving the world of man."
-msgstr "击败绿皮入侵! 每一份反对他们的合同，每一支被摧毁的军队或地点，都将使你们离拯救人类世界更近。"
+msgstr "击败绿皮入侵！ 每一份反对他们的合同，每一支被摧毁的军队或地点，都将使你们离拯救人类世界更近。"
 
 # scripts/ambitions/ambitions/defeat_greenskins_ambition.nut
 msgid ""
@@ -449,7 +449,7 @@ msgid ""
 msgstr ""
 "[img]gfx/ui/events/event_171.png[/img]{你看到伟大的镀金者的追随者成群结队地涌向圣地，整个大地都摆脱了宗教战争的枷锁，圣地战争向着有利于南方的方向发展。 据你所知，维齐尔强制执行了一条规定，北方人可以访问圣地，但必须向监管这些领土的总督纳税。 这是一个吝啬的结果，尽管不是一个特别暴力和报复性的结果。\n"
 "\n"
-" 当你盘点你的库存时，十几位老人沿路走来，在你面前停了下来。 他们自称是记录圣战伟大回忆的文士和历史学家。 显然有人把你指给他们看了，但他们不完全确定你是谁。 你解释说维齐尔雇你来－%SPEECH_ON%你说是雇佣的？难道说，你是逐币者？%SPEECH_OFF%其中一个老人打断了你，他的羽毛笔突然停了下来。 他摇了摇头。%SPEECH_ON%不不不，我们是在记录那些让神圣之地回归镀金者之光的人的成功。 你是一个畏首畏尾的机会主义者，毫无疑问还是阴险的逐币者。 祝你过得愉快。%SPEECH_OFF%他们在你还没来得及反驳之前就离开了，尽管你怀疑，如果你想要说道说道，你可能已经拿出铁家伙来对付他们了。%randombrother% 走上前问他们是谁。你耸耸肩。%SPEECH_ON%只是一群无名小卒。%SPEECH_OFF%}"
+"当你盘点你的库存时，十几位老人沿路走来，在你面前停了下来。 他们自称是记录圣战伟大回忆的文士和历史学家。 显然有人把你指给他们看了，但他们不完全确定你是谁。 你解释说维齐尔雇你来－%SPEECH_ON%你说是雇佣的？难道说，你是逐币者？%SPEECH_OFF%其中一个老人打断了你，他的羽毛笔突然停了下来。 他摇了摇头。%SPEECH_ON%不不不，我们是在记录那些让神圣之地回归镀金者之光的人的成功。 你是一个畏首畏尾的机会主义者，毫无疑问还是阴险的逐币者。 祝你过得愉快。%SPEECH_OFF%他们在你还没来得及反驳之前就离开了，尽管你怀疑，如果你想要说道说道，你可能已经拿出铁家伙来对付他们了。%randombrother% 走上前问他们是谁。你耸耸肩。%SPEECH_ON%只是一群无名小卒。%SPEECH_OFF%}"
 
 # scripts/ambitions/ambitions/defeat_kraken_ambition.nut
 msgid "Defeat a Kraken"
@@ -461,7 +461,7 @@ msgstr "还有哪位猎人能自信拥有这样的专长？"
 
 # scripts/ambitions/ambitions/defeat_kraken_ambition.nut
 msgid "Defeat a Kraken in battle. You'll find it somewhere out there, in the wild."
-msgstr "击败克拉肯 in battle. 你能在野外的某个地方找到它。"
+msgstr "在战斗中击败克拉肯。 你能在野外的某个地方找到它。"
 
 # scripts/ambitions/ambitions/defeat_kraken_ambition.nut
 msgid ""
@@ -501,7 +501,7 @@ msgstr "证明我们是最强战队的最佳方法就是在战斗中击败另一
 
 # scripts/ambitions/ambitions/defeat_mercenaries_ambition.nut
 msgid "Defeat another mercenary company that is roaming the lands. If you have no enemies that will hire another mercenary company, you can always press CTRL + Left Click to attack anyone - provided you are currently not employed."
-msgstr "击败另一支雇佣兵战队 that is roaming the lands. 如果你没有敌对的另一支雇佣兵战队，你可以随时按CTRL加左键单击来攻击任何人－前提是你当前没被雇佣。"
+msgstr "击败另一支在路上游荡的雇佣兵战队。 如果你没有敌对的另一支雇佣兵战队，你可以随时按CTRL加左键单击来攻击任何人－前提是你当前没被雇佣。"
 
 # scripts/ambitions/ambitions/defeat_mercenaries_ambition.nut
 msgid ""
@@ -549,7 +549,7 @@ msgstr "人类的世界得救了。暂时的。"
 
 # scripts/ambitions/ambitions/defeat_undead_ambition.nut
 msgid "Defeat the Undead Scourge! Every contract against them, and every army or location destroyed, will bring you closer to saving the world of man."
-msgstr "击败亡灵天灾! 每一份反对他们的合同，每一支被摧毁的军队或地点，都将使你们离拯救人类世界更近。"
+msgstr "击败亡灵天灾！ 每一份反对他们的合同，每一支被摧毁的军队或地点，都将使你们离拯救人类世界更近。"
 
 # scripts/ambitions/ambitions/defeat_undead_ambition.nut
 msgid ""
@@ -683,7 +683,7 @@ msgstr ""
 
 # scripts/ambitions/ambitions/find_and_destroy_location_ambition.nut
 msgid "[img]gfx/ui/events/event_65.png[/img]It sounded like a good idea at the time, but tramping around the wilderness without a map or any destination in mind turned out to be quite a strenuous way to find riches, or even a battle. Your footsore band did eventually come upon a worthy target though, and everyone had to agree the venture was worthwhile after all. %farmer% is almost glowing with satisfaction as he surveys the few remaining embers of the %recently_destroyed%.%SPEECH_ON%They hadn't the merest clue we were coming. Like wheat before our scythes, brothers!%SPEECH_OFF%%notfarmer% raises an eyebrow.%SPEECH_ON%Speak for yourself. I'm no farmer.%SPEECH_OFF%"
-msgstr "[img]gfx/ui/events/event_65.png[/img]在当时，这听起来是个好主意，但在没有地图或任何目的地的荒野中行走，结果证明是一种相当费劲的寻找财富的方式，甚至是一场战斗。 不过，你的脚痛队伍最终还是找到了一个有价值的目标，所有人都不得不同意这一冒险毕竟是值得的。%farmer% 正以几乎满意得容光焕发的神情审视余烬下的 %recently_destroyed%。%SPEECH_ON%他们一点儿也不知道我们要来。 就像镰刀前的麦子，兄弟们！%SPEECH_OFF%%notfarmer% 挑了挑眉毛。%SPEECH_ON%为自己说的吧。我不是农夫。%SPEECH_OFF%"
+msgstr "[img]gfx/ui/events/event_65.png[/img]在当时，这听起来是个好主意，但在没有地图或任何目的地的荒野中行走，结果证明是一种相当费劲的寻找财富的方式，甚至是一场战斗。 不过，你的脚痛队伍最终还是找到了一个有价值的目标，所有人都不得不同意这一冒险毕竟是值得的。%farmer% 正以几乎满意得容光焕发的神情审视余烬下的 %recently_destroyed%。%SPEECH_ON%他们一点儿也不知道我们要来。 就像镰刀前的麦子，兄弟们！%SPEECH_OFF%%notfarmer%挑了挑眉毛。%SPEECH_ON%为自己说的吧。我不是农夫。%SPEECH_OFF%"
 
 # scripts/ambitions/ambitions/fulfill_x_southern_contracts_ambition.nut
 msgid "Gold is gold."
@@ -891,7 +891,7 @@ msgstr ""
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid "Have one of each provision type there is in your stash to hold a feast."
-msgstr "拥有每一种食物类型 in your stash to hold a feast."
+msgstr "仓库中拥有每一种食物类型来举办一场盛宴。"
 
 # scripts/ambitions/ambitions/have_all_provisions_ambition.nut
 msgid ""
@@ -919,7 +919,7 @@ msgstr ""
 
 # scripts/ambitions/ambitions/have_armor_upgrades_ambition.nut
 msgid "Have at least 6 armors with attachments in your possession. Buy them, loot them, or have a taxidermist craft them for you, then combine them with the armor of your men."
-msgstr "拥有至少6件带附件的盔甲 in your possession. 购买它们，掠夺它们，或者有一个剥制师为你制作他们，然后将它们与你的人的盔甲结合。"
+msgstr "在你的所有中拥有至少6件带附件的盔甲。 购买它们，掠夺它们，或者有一个剥制师为你制作他们，然后将它们与你的人的盔甲结合。"
 
 # scripts/ambitions/ambitions/have_armor_upgrades_ambition.nut
 msgid "[img]gfx/ui/events/event_82.png[/img]When you took command of the company it was a ragtag band of men clinging for life, an ad hoc assembly of sellswords stitched together with nothing if not sheer stubbornness and absolute contempt for common sense. Now you watch as the men walk around like frayed revenants of an unworldly wild, their armor adorned with hideous scalps and pelts and bones, the ill-shapen recreation of conquest fitted such that others may know the %companyname% could not be sorted by any measure known to the earth whether it be monster or man."
@@ -971,7 +971,7 @@ msgstr "如果一两场战斗对我们不利，我们就会发现自己口袋空
 
 # scripts/ambitions/ambitions/have_y_crowns_ambition.nut
 msgid "Have at least 10,000 crowns as a reserve, in order to persevere when things may turn bad in the future. You can make money by completing contracts, looting camps and ruins, or trading."
-msgstr "拥有至少10000克朗 as a reserve, in order to persevere when things may turn bad in the future. 你可以通过完成合同、掠夺营地和废墟或贸易来赚钱。"
+msgstr "拥有至少10000克朗作为储备，以便在未来情况可能恶化时坚持下去。 你可以通过完成合同、掠夺营地和废墟或贸易来赚钱。"
 
 # scripts/ambitions/ambitions/have_y_crowns_ambition.nut
 msgid ""
@@ -1151,11 +1151,11 @@ msgstr "一家受人尊敬的战队因其装备而得到认可。 我们应该�
 
 # scripts/ambitions/ambitions/named_item_ambition.nut
 msgid "Have at least 1 famed piece of equipment in your possession - weapon, shield, armor or helmet. Follow rumors in taverns to learn where famed items can be found, purchase them at specialized shops in large cities and castles, or go out on your own to explore and raid ruins and camps. The further away from civilization, the higher the chance of finding rare items."
-msgstr "拥有至少1件著名的装备 in your possession - weapon, shield, armor or helmet. 在酒馆里听从谣言，了解在哪里可以找到著名的物品，在大城市和城堡的专门商店购买，或者自己出去探索掠夺废墟和营地。 离文明越远，发现稀有物品的几率越高。"
+msgstr "拥有至少1件著名的装备－武器、盾牌、盔甲或头盔。 在酒馆里听从谣言，了解在哪里可以找到著名的物品，在大城市和城堡的专门商店购买，或者自己出去探索掠夺废墟和营地。 离文明越远，发现稀有物品的几率越高。"
 
 # scripts/ambitions/ambitions/named_item_ambition.nut
 msgid "[img]gfx/ui/events/event_28.png[/img]It was no easy task seeking out one of those rare items recognized as a talisman of fighting men, but the %nameditem% is truly remarkable. The men fairly glow with pride after acquiring it. Around the fire, some of the brothers even grow maudlin and teary-eyed when in their cups, pawing it like a favorite hound.%SPEECH_ON%Isn't it beautiful?%SPEECH_OFF%%randombrother% asks while admiring it in the glow of the campfire, quickly cut off by another of the men.%SPEECH_ON%Turn it this way so I can have a proper peek!%SPEECH_OFF%In the days that follow your men are parading the %nameditem% around like the trophy head of some fearsome beast. Usually in taverns or at festivals, and near other sources of mead and beer, the brothers make a habit of showing their prize off everywhere you go."
-msgstr "[img]gfx/ui/events/event_28.png[/img]寻找一件被认为是战士护身符的稀有物品绝非易事，但 %nameditem% 真的很了不起。 获得它后，人们都相当自豪。 在火堆周围，兄弟们中的一些人甚至在杯中变得伤感，泪眼婆娑，像最喜欢的猎犬一样挠着火堆。%SPEECH_ON%这不是很美吗？%SPEECH_OFF%%randombrother% asks while admiring it in the glow of the campfire, quickly cut off by  of the men.%SPEECH_ON%把它转过来，让我好好看看！%SPEECH_OFF%In the 天 that follow your men are parading the %nameditem% around like the trophy head of some fearsome beast. 通常在酒馆或节日里，以及靠近其他蜂蜜酒和啤酒来源的地方，兄弟们习惯于在你去的任何地方炫耀他们的战利品。"
+msgstr "[img]gfx/ui/events/event_28.png[/img]寻找一件被认为是战士护身符的稀有物品绝非易事，但 %nameditem% 真的很了不起。 获得它后，人们都相当自豪。 在火堆周围，兄弟们中的一些人甚至在杯中变得伤感，泪眼婆娑，像最喜欢的猎犬一样挠着火堆。%SPEECH_ON%这不是很美吗？%SPEECH_OFF%%randombrother% 一边在篝火的火光中欣赏着，一边问，很快就被另一个人打断了。%SPEECH_ON%把它转过来，让我好好看看！%SPEECH_OFF%在接下来的日子里，你的人拿着 %nameditem% 到处炫耀就像可怖野兽的战利品一样。 通常在酒馆或节日里，以及靠近其他蜂蜜酒和啤酒来源的地方，兄弟们习惯于在你去的任何地方炫耀他们的战利品。"
 
 # scripts/ambitions/ambitions/named_item_set_ambition.nut
 msgid "Have a famed weapon, shield, armor and helmet"
@@ -1221,7 +1221,7 @@ msgstr "有1人点出弓精通或弩精通天赋"
 
 # scripts/ambitions/ambitions/ranged_mastery_ambition.nut
 msgid "Have 3 men with the bow or crossbow mastery perk."
-msgstr "有3人点出弓精通或弩精通天赋."
+msgstr "有3人点出弓精通或弩精通天赋。"
 
 # scripts/ambitions/ambitions/ranged_mastery_ambition.nut
 msgid ""
@@ -1322,7 +1322,7 @@ msgstr "你将获得一个独特的能增加佩戴者额外的决心的配饰。
 
 # scripts/ambitions/ambitions/sergeant_ambition.nut
 msgid "Have at least one man with the 'Rally the Troops' perk. You'll also need space enough in your inventory for a new item."
-msgstr "Have at least one man with the '集结部队' perk. 你还需要在仓库中留出足够的空间来存放一个新物品。"
+msgstr "至少一人点出“集结部队”特技。 你还需要在仓库中留出足够的空间来存放一个新物品。"
 
 # scripts/ambitions/ambitions/sergeant_ambition.nut
 msgid ""
@@ -1359,7 +1359,7 @@ msgstr "拥有至少12件剥制成品。剥制师主要分布在被沼泽和森�
 
 # scripts/ambitions/ambitions/taxidermist_ambition.nut
 msgid "[img]gfx/ui/events/event_97.png[/img]A young boy hails you down and asks if you're the leader of the %companyname%. Eyeing the surrounding parts, you ask what it is to him. He shrugs.%SPEECH_ON%Well, I mean nothing by it, sir. If I find and fetch him I get paid three gold coins. Thas all.%SPEECH_OFF%Intrigued, you ask who it is set to pay this reward. The boy is picking a booger and looks up.%SPEECH_ON%Whussat? Ah, I ain't seen the gold yet! Gotta find the man first!%SPEECH_OFF%Sighing, you pull the boys' hand aside, snot and all, and ask him again. The boy snorts, thinking, staring at the dirt, at the worms there. He nods.%SPEECH_ON%T'was a taxman. Not the gold fetching sort. He'd not pay me a coin, that man's a long-fingered devil so says my pa. I mean the animal taxman. Strips the beasts and fashions something fierce with them, coats, blankets, poisons, dranks. That taxman. Well, they all talkin' to one another. They says the %companyname%'s work makes for the best business in all the land and they all itching to meet them again!%SPEECH_OFF%Ah, he's speaking of the taxidermists. Smiling, you pat the boy on the head and wish him the best of luck in his hunt. He snorts and hocks a loogie.%SPEECH_ON%Luck ain't much all to do with this, I aim to find that man the learned way. Keepin' my eyes open and ears peeled and my britches high and tight.%SPEECH_OFF%"
-msgstr "[img]gfx/ui/events/event_97.png[/img]A young boy hails you down and asks if you're the leader of the %companyname%. Eyeing the surrounding parts, you ask what it is to him. 他耸耸肩。%SPEECH_ON%Well, I mean nothing by it, sir. If I find and fetch him I get paid three gold coins. Thas all.%SPEECH_OFF%Intrigued, you ask who it is set to pay this reward. The boy is picking a booger and looks up.%SPEECH_ON%Whussat? Ah, I ain't seen the gold yet! Gotta find the man first!%SPEECH_OFF%Sighing, you pull the boys' hand aside, snot and all, and ask him again. The boy snorts, thinking, staring at the dirt, at the worms there. 他点头。%SPEECH_ON%T'was a taxman. Not the gold fetching sort. He'd not pay me a coin, that man's a long-fingered devil so says my pa. I mean the animal taxman. Strips the beasts and fashions something fierce with them, coats, blankets, poisons, dranks. That taxman. Well, they all talkin' to one another. They says the %companyname%'s work makes for the best business in all the land and they all itching to meet them again!%SPEECH_OFF%Ah, he's speaking of the taxidermists. Smiling, you pat the boy on the head and wish him the best of luck in his hunt. He snorts and hocks a loogie.%SPEECH_ON%Luck ain't much all to do with this, I aim to find that man the learned way. Keepin' my eyes open and ears peeled and my britches high and tight.%SPEECH_OFF%"
+msgstr ""
 
 # scripts/ambitions/ambitions/trade_ambition.nut
 msgid "That's the bottom line."
@@ -1517,7 +1517,7 @@ msgstr "让我们先把小规模战斗放一边，去击败至少一打敌人。
 
 # scripts/ambitions/ambitions/win_against_x_ambition.nut
 msgid "Win a battle against 12 or more enemies, whether by killing them or having them scatter and flee. You can do so as part of a contract or by fighting on your own terms."
-msgstr "赢得一场12个或更多敌人的战斗, whether by killing them or having them scatter and flee. 你可以把它作为合同的一部分，或者按照你自己的方式来完成。"
+msgstr "赢得一场12个或更多敌人的战斗，无论是杀死他们，还是让他们四散奔逃。 你可以把它作为合同的一部分，或者按照你自己的方式来完成。"
 
 # scripts/ambitions/ambitions/win_against_x_ambition.nut
 msgid "[img]gfx/ui/events/event_22.png[/img]As all your enemies either lie dead or are in retreat, %bravest_brother% waves the company's banner in celebration.%SPEECH_ON%Once more the %companyname% fought, and once more the %companyname% prevailed!%SPEECH_OFF%Raucous cheers echo him all around. You soon discover that your recent battle is the talk of the local towns and villages. Whenever they stop at a tavern along the road, the brothers find that drinks are poured when the story of that battle is told, and the more the telling is embellished, the more freely the libations flow."
@@ -1537,7 +1537,7 @@ msgstr ""
 
 # scripts/ambitions/ambitions/win_against_y_ambition.nut
 msgid "Win a battle against 24 or more enemies, whether by killing them or having them scatter and flee. You can do so as part of a contract or by fighting on your own terms."
-msgstr "赢得一场24个或更多敌人的战斗, whether by killing them or having them scatter and flee. 你可以把它作为合同的一部分，或者按照你自己的方式来完成。"
+msgstr "赢得一场24个或更多敌人的战斗，无论是杀死他们，还是让他们四散奔逃。 你可以把它作为合同的一部分，或者按照你自己的方式来完成。"
 
 # scripts/ambitions/ambitions/win_against_y_ambition.nut
 msgid ""

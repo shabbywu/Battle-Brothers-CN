@@ -4,7 +4,7 @@ msgstr ""
 
 # scripts/items/accessory/special/arena_collar_item.nut
 msgid "Arena Collar"
-msgstr ""
+msgstr "竞技场项圈"
 
 # scripts/items/accessory/special/arena_collar_item.nut
 msgid "A collar worn by combatants in southern arenas."

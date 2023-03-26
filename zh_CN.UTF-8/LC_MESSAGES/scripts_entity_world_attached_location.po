@@ -3,15 +3,6 @@ msgid ""
 msgstr ""
 
 # scripts/entity/world/attached_location/militia_trainingcamp_oriental_location.nut
-# scripts/entity/world/attached_location/stone_watchtower_location.nut
-# scripts/entity/world/attached_location/fortified_outpost_location.nut
-# scripts/entity/world/attached_location/wooden_watchtower_location.nut
-# scripts/entity/world/attached_location/stone_watchtower_oriental_location.nut
-# scripts/entity/world/attached_location/militia_trainingcamp_location.nut
-msgid "lighting"
-msgstr ""
-
-# scripts/entity/world/attached_location/militia_trainingcamp_oriental_location.nut
 # scripts/entity/world/attached_location/militia_trainingcamp_location.nut
 msgid "Militia Barracks"
 msgstr "民兵营房"

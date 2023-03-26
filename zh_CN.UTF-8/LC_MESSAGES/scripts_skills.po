@@ -4,7 +4,7 @@ msgstr ""
 
 # scripts/skills/skill.nut
 msgid " uses "
-msgstr ""
+msgstr "使用"
 
 # scripts/skills/skill.nut
 msgid "Killed"
@@ -16,15 +16,15 @@ msgstr "还击"
 
 # scripts/skills/skill.nut
 msgid " has hit "
-msgstr ""
+msgstr "命中了"
 
 # scripts/skills/skill.nut
 msgid "'s shield"
-msgstr ""
+msgstr "的盾牌"
 
 # scripts/skills/skill.nut
 msgid "Nighttime"
-msgstr ""
+msgstr "黑夜(Nighttime)"
 
 # scripts/skills/skill.nut
 msgid "Too close"

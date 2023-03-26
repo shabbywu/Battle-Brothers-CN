@@ -24,11 +24,6 @@ msgstr "屋顶倒塌的废弃宅基地。"
 msgid "A once proud fortress now lying in ruins."
 msgstr "曾经引以为豪的要塞如今已成废墟。"
 
-# scripts/entity/world/locations/noble_camp_location.nut
-# scripts/entity/world/locations/undead_necropolis_location.nut
-msgid "lighting"
-msgstr ""
-
 # scripts/entity/world/locations/abandoned_fortress_location.nut
 msgid "Abandoned Fortress"
 msgstr "废弃的要塞"
@@ -52,10 +47,6 @@ msgstr "野蛮人成群结队来到这个地方，在一个祭祀场所周围扎
 # scripts/entity/world/locations/barbarian_shelter_location.nut
 msgid "A couple of simple barbarian fur huts huddled down in a circle."
 msgstr "几个简单的野蛮毛皮小屋挤成一个圈。"
-
-# scripts/entity/world/locations/battlefield_location.nut
-msgid "selection"
-msgstr ""
 
 # scripts/entity/world/locations/battlefield_location.nut
 msgid "Battle Site"
@@ -155,7 +146,7 @@ msgstr "一位亡灵巫师将这个巢穴作为他修行黑暗仪式的避难所
 
 # scripts/entity/world/locations/undead_necropolis_location.nut
 msgid "Ruins of "
-msgstr ""
+msgstr "废墟的"
 
 # scripts/entity/world/locations/undead_necropolis_location.nut
 msgid "Once a thriving human settlement, this place has been defiled and fallen into ruin, turned into a necropolis of the undead. Waves of walking corpses pour forth to spread terror and fear in the surrounding lands."
