@@ -152,7 +152,7 @@ msgstr "一种锋利而粗糙的金属碎片，有一个像剑一样的握把，
 
 # scripts/items/weapons/greenskins/orc_flail_2h.nut
 msgid "Berserk Chain"
-msgstr ""
+msgstr "狂战链"
 
 # scripts/items/weapons/greenskins/orc_flail_2h.nut
 msgid "Flail, Two-Handed"
@@ -168,7 +168,7 @@ msgstr "一捆粗糙的标枪"
 
 # scripts/items/weapons/greenskins/orc_javelin.nut
 msgid "Bundle of Crude Javelins (Empty)"
-msgstr ""
+msgstr "粗制标枪捆包（空）"
 
 # scripts/items/weapons/greenskins/orc_javelin.nut
 msgid "A bunch of crudely made javelins intended for throwing at targets. Have limited range and are exhausting to throw, but may inflict devastating injuries. Can also inflict minor damage to shields if those are hit instead."

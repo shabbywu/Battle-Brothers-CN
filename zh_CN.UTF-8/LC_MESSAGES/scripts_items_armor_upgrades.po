@@ -66,7 +66,7 @@ msgstr "]+60[/color] 耐久度"
 
 # scripts/items/armor_upgrades/additional_padding_upgrade.nut
 msgid "Only take [color="
-msgstr ""
+msgstr "只保留 [color="
 
 # scripts/items/armor_upgrades/additional_padding_upgrade.nut
 msgid "Additional Fur Padding"
@@ -78,7 +78,7 @@ msgstr "使忽视盔甲的伤害减少 [color="
 
 # scripts/items/armor_upgrades/additional_padding_upgrade.nut
 msgid "]66%[/color] of any damage that ignores armor"
-msgstr ""
+msgstr "]66%[/color] 伤害(无视护甲)"
 
 # scripts/items/armor_upgrades/additional_padding_upgrade.nut
 msgid "Additional fur padding helps to further dampen the impact of any blow."

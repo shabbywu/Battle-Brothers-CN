@@ -1786,7 +1786,7 @@ msgstr "巴拉德摩尔"
 
 # scripts/config/character_names.nut
 msgid "Barsobis"
-msgstr ""
+msgstr "巴尔索比斯"
 
 # scripts/config/character_names.nut
 msgid "Bernhard"
@@ -1974,7 +1974,7 @@ msgstr "煞特"
 
 # scripts/config/character_names.nut
 msgid "Telephos"
-msgstr ""
+msgstr "泰勒福斯"
 
 # scripts/config/character_names.nut
 msgid "The Rock"
@@ -3258,7 +3258,7 @@ msgstr "志愿者"
 
 # scripts/config/character_names.nut
 msgid "Anselm's Sword"
-msgstr ""
+msgstr "安瑟姆之剑"
 
 # scripts/config/character_names.nut
 msgid "Brokk Mad Eyes"
@@ -3310,7 +3310,7 @@ msgstr "游牧国王"
 
 # scripts/config/character_names.nut
 msgid "The Oathkeeper"
-msgstr ""
+msgstr "守誓者"
 
 # scripts/config/character_names.nut
 msgid "The Reanimator"
@@ -3386,11 +3386,11 @@ msgstr "胜利者"
 
 # scripts/config/character_names.nut
 msgid "Anselm's Hammer"
-msgstr ""
+msgstr "安瑟姆的锤子"
 
 # scripts/config/character_names.nut
 msgid "Anselm's Shield"
-msgstr ""
+msgstr "安瑟姆之盾"
 
 # scripts/config/character_names.nut
 msgid "Eye of the Hawk"
@@ -3730,7 +3730,7 @@ msgstr "%randomname% 鹰"
 
 # scripts/config/character_names.nut
 msgid "Anselm's Stolen Valor"
-msgstr ""
+msgstr "Anselm的盗用荣誉"
 
 # scripts/config/character_names.nut
 msgid "Infamous %randomname%"
@@ -3778,7 +3778,7 @@ msgstr "尖刀·%randomname%"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Pious"
-msgstr ""
+msgstr "%randomname% 虔诚的"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Poker"
@@ -3846,7 +3846,7 @@ msgstr "%randomname% 邪恶的"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Zealot"
-msgstr ""
+msgstr "%randomname% 狂热者"
 
 # scripts/config/character_names.nut
 msgid "Al-Tarabulusi Ibn-Asbat"
@@ -3878,7 +3878,7 @@ msgstr "沙滩王子"
 
 # scripts/config/character_names.nut
 msgid "%randomname% Featherdraw"
-msgstr ""
+msgstr "%randomname% 羽绘"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Brigand"
@@ -3886,7 +3886,7 @@ msgstr "强盗·%randomname%"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Devoted"
-msgstr ""
+msgstr "%randomname% 忠诚的"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Outcast"
@@ -3894,7 +3894,7 @@ msgstr "流放者·%randomname%"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Paladin"
-msgstr ""
+msgstr "%randomname% 圣骑士"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Scourge"
@@ -3926,7 +3926,7 @@ msgstr "%randomname% 叛教者"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Crusader"
-msgstr ""
+msgstr "%randomname% 十字军"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Marauder"
@@ -3946,11 +3946,11 @@ msgstr "掠夺者·%randomname%"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Oathsworn"
-msgstr ""
+msgstr "%randomname%  宣誓效忠"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Righteous"
-msgstr ""
+msgstr "%randomname% 正义者"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the True Shot"
@@ -3982,7 +3982,7 @@ msgstr "世间万物·Xapocathlu"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Enlightened"
-msgstr ""
+msgstr "%randomname% 先知"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Necromancer"
@@ -3990,7 +3990,7 @@ msgstr "%randomname% 死灵法师"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Oathbringer"
-msgstr ""
+msgstr "誓约使者·%randomname%"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Slaughterer"
@@ -4204,6 +4204,82 @@ msgid ""
 "Copyright 2015 - 2022 Overhype Studios UG\n"
 "All rights reserved"
 msgstr ""
+"战争兄弟\n"
+"\n"
+"开发者\n"
+"Overhype Studios\n"
+"\n"
+"战争兄弟开发团队\n"
+"\n"
+"游戏设计\n"
+"Christof Schmidt\n"
+"Jan Taaks\n"
+"Paul Taaks\n"
+"\n"
+"艺术设计\n"
+"Paul Taaks\n"
+"\n"
+"编程\n"
+"Christof Schmidt\n"
+"\n"
+"额外编程\n"
+"Jesse Cooper\n"
+"\n"
+"制作\n"
+"Jan Taaks\n"
+"\n"
+"撰写\n"
+"Casey Hollingshead\n"
+"\n"
+"额外撰写\n"
+"Christof Schmidt\n"
+"Scott Hamm\n"
+"\n"
+"音乐\n"
+"Patrick Delaney（Breakdown Epiphanies）\n"
+"Dennis Meyer（Breakdown Epiphanies）\n"
+"\n"
+"音效设计\n"
+"Morten Barfod Soegaard（MBS Sounddesign）\n"
+"Troels Kristensen（AudioNation ApS）\n"
+"\n"
+"额外音效设计\n"
+"Lucien McRobbie\n"
+"Michael Klier\n"
+"Breakdown Epiphanies\n"
+"Jan Taaks\n"
+"\n"
+"预告片视频\n"
+"Marlon Wiebe\n"
+"Jaleo PR\n"
+"Breakdown Epiphanies\n"
+"\n"
+"感谢\n"
+"我们的女友和妻子在开发的多年中给予我们的支持\n"
+"Jochen Taaks\n"
+"Abel aka Vilain Joueur\n"
+"Heron\n"
+"JC Sato\n"
+"Joachim 'Lovegun' Roderfeld\n"
+"Johan Nagstrup\n"
+"Krzysztof Kielczewski\n"
+"Marius Ovidiu Voinescu\n"
+"Simone Bucciarelli（They Live）\n"
+"suejak\n"
+"S. Quartermaine\n"
+"Trappist\n"
+"turtle225\n"
+"Vasilisa 'Dialetheia' Prince\n"
+"Willsama974\n"
+"Thomas Fischer及BeamNG团队\n"
+"来自Red Hook Studios的Tyler Sigman\n"
+"Valve的Tom Giardino和Steam团队\n"
+"我们所有投入的抢先体验玩家以及他们的支持和反馈\n"
+"RPG Codex众筹支持团队\n"
+"\n"
+"战争兄弟\n"
+"Copyright 2015 - 2022 Overhype Studios UG\n"
+"All rights reserved"
 
 # scripts/config/faction_traits_archetypes.nut
 msgid "Obey"
@@ -6859,7 +6935,7 @@ msgstr "·旭日"
 
 # scripts/config/items.nut
 msgid "Generic Item"
-msgstr ""
+msgstr "通用物品"
 
 # scripts/config/rumors.nut
 msgid "The patrons nod approvingly."
@@ -7259,7 +7335,7 @@ msgstr "贵族们在处于守势，没有人知道如何阻止对我们造成威
 
 # scripts/config/rumors.nut
 msgid "An opulent armor is said to be hidden out %terrain% %direction% from here. Many treasure seekers failed to claim it so far but maybe you have more luck?"
-msgstr ""
+msgstr "据说在这里往%direction% %terrain%，有一套华丽的盔甲被隐藏了起来。迄今为止，很多寻宝者都没能找到它，但也许你会更有运气？"
 
 # scripts/config/rumors.nut
 msgid "Are you also here to look for %item% like all those other fools? It is said to lie somewhere %terrain% %direction%. Nothing but hogwash if you ask me..."
@@ -7383,6 +7459,9 @@ msgid ""
 "Have a glass, find a wench before your teeth will clench!\n"
 "Kill the can, don't stay dry, three days until we die!"
 msgstr ""
+"可怕的鬼魂，空荡的坟墓，来自异世界的愚昧奴隶！\n"
+"来杯酒，找个女人，在你的牙齿咬紧之前！\n"
+"喝掉这杯，不要干渴，只有三天时间直到我们死去！"
 
 # scripts/config/rumors.nut
 msgid "The biggest fish of my catch I always place in front of %randomfemalename%'s door to woo her. Some day I'm going to reveal myself as her secret admirer and ask for her hand!"
@@ -7422,7 +7501,7 @@ msgstr "听说一辆运送贵重仪式武器的商队在这里的 $1 被劫了�
 
 # scripts/config/rumors.nut
 msgid "All my life I've been hunting nomads across the borders %terrain%, but I never saw one wield a shield like this one before. It was %distance% to the %direction% at one of their camps."
-msgstr ""
+msgstr "我一生都在%terrain%边境追捕游牧民族，但我从未见过像这个人一样拿着盾牌。他在他们营地的%direction%方向，距离%distance%。"
 
 # scripts/config/rumors.nut
 msgid "A trader from the north got lost in the steppe the other week. He made it back but did not stop fantasizing about some lake he discovered surrounded by lush plants and strange animals."
@@ -7654,7 +7733,7 @@ msgstr "你可能有兴趣知道昨晚我们镇外的老药剂师被抢劫了，
 
 # scripts/config/rumors.nut
 msgid "It's said that kobolds and goblins take a special interest in everything shiny. I never believed this to be true myself, but I repeatedly saw something glistening in the sun %terrain% %direction% from here and heard strange stories about short and stubby creatures roaming that area."
-msgstr ""
+msgstr "有传言说狗头人和地精对所有闪闪发光的东西都有特别的兴趣。我自己并不相信这种说法，但是我多次在%terrain%%direction%处看到阳光下闪闪发光的东西，并听说矮小而粗壮的生物漫游在那个区域。"
 
 # scripts/config/rumors.nut
 msgid "Familiar with orcs? Massive beasts and strong as oxen! A mercenary band that called themselves %randommercenarycompany% came through and headed %direction% to hunt them down some weeks ago. They never returned, but their leader wore the most impressive armor I've ever seen in my life!"
@@ -7690,7 +7769,7 @@ msgstr "我原来是北方人，几年前刚搬到 %townname%。因为无法忍�
 
 # scripts/config/spawnlist_master.nut
 msgid "The King of the North"
-msgstr ""
+msgstr "北方之王"
 
 # scripts/config/strings.nut
 msgid "A "
@@ -8702,7 +8781,7 @@ msgstr "友谊赛"
 
 # scripts/config/strings.nut
 msgid "Froghold"
-msgstr ""
+msgstr "蛤蟆城"
 
 # scripts/config/strings.nut
 msgid "Glendale"
@@ -9850,7 +9929,7 @@ msgstr "针叶林"
 
 # scripts/config/strings.nut
 msgid "Oathbringer"
-msgstr ""
+msgstr "誓约使者"
 
 # scripts/config/strings.nut
 msgid "Orc Warlord"
@@ -10158,7 +10237,7 @@ msgstr "游牧不法之徒"
 
 # scripts/config/strings.nut
 msgid "Oathbringers"
-msgstr ""
+msgstr "誓约使者"
 
 # scripts/config/strings.nut
 msgid "Orc Warlords"
@@ -10666,7 +10745,7 @@ msgstr "蛮王"
 
 # scripts/config/strings.nut
 msgid "Beatroot Wilds"
-msgstr ""
+msgstr "甜菜根荒野"
 
 # scripts/config/strings.nut
 msgid "Blazing Forest"
@@ -11438,7 +11517,7 @@ msgstr "被遗忘者归来"
 
 # scripts/config/strings.nut
 msgid "Froglickers Grove"
-msgstr ""
+msgstr "“青蛙舔舔林”。"
 
 # scripts/config/strings.nut
 msgid "Fruitful Shallows"
@@ -12708,7 +12787,7 @@ msgstr ""
 
 # scripts/config/tactical.nut
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 # scripts/config/tactical.nut
 msgid "]-25%[/color] Melee Skill"
@@ -13132,7 +13211,7 @@ msgstr "“独狼”特技不会受到附近的狗或不属于你战队的盟友
 
 # scripts/config/tip_of_the_day.nut
 msgid "Consider that enemy encampments on hills are harder to assault, especially if they are fortified."
-msgstr ""
+msgstr "考虑到敌人在山上设立的营地更难攻打，尤其是他们筑有工事时。"
 
 # scripts/config/tip_of_the_day.nut
 msgid "A missed ranged attack can hit nearby characters, especially if they are in the direct line of fire."
@@ -13188,43 +13267,43 @@ msgstr "如果一个角色等待他们的回合，他们在下一轮的回合顺
 
 # scripts/config/world.nut
 msgid "undefined road brush"
-msgstr ""
+msgstr "未定义的道路画刷。"
 
 # scripts/config/world.nut
 msgid "undefined river brush"
-msgstr ""
+msgstr "未定义的河流画笔。"
 
 # scripts/config/world.nut
 msgid "undefined shore brush"
-msgstr ""
+msgstr "未定义的海岸刷。"
 
 # scripts/config/world.nut
 msgid "River Brush undefined!"
-msgstr ""
+msgstr "河流画笔未定义！"
 
 # scripts/config/world.nut
 msgid "Road Brush undefined ("
-msgstr ""
+msgstr "路面刷undefined（"
 
 # scripts/config/world.nut
 msgid "Shore Brush undefined!"
-msgstr ""
+msgstr "海岸刷 undefined！"
 
 # scripts/config/world.nut
 msgid "undefined bridge brush"
-msgstr ""
+msgstr "未定义的桥梁刷子"
 
 # scripts/config/world.nut
 msgid "Bridge Brush undefined!"
-msgstr ""
+msgstr "桥刷未定义！"
 
 # scripts/config/world.nut
 msgid "undefined crossing brush"
-msgstr ""
+msgstr "无定义的越过刷子。"
 
 # scripts/config/world.nut
 msgid "Crossing Brush undefined!"
-msgstr ""
+msgstr "穿越草丛undefined！"
 
 # scripts/config/world_location_names.nut
 msgid "Auen"
@@ -14468,7 +14547,7 @@ msgstr "抢掠者基地"
 
 # scripts/config/world_location_names.nut
 msgid "Raiders Retreat"
-msgstr ""
+msgstr "袭击者避难所"
 
 # scripts/config/world_location_names.nut
 msgid "Red Knives Camp"
@@ -14716,7 +14795,7 @@ msgstr "巴拉斯卡拉波拉盖什"
 
 # scripts/config/world_location_names.nut
 msgid "Barbarian Outpost"
-msgstr ""
+msgstr "蛮族前哨站"
 
 # scripts/config/world_location_names.nut
 msgid "Black Blood Coven"
@@ -15384,7 +15463,7 @@ msgstr "被抛弃的堡垒"
 
 # scripts/config/world_location_names.nut
 msgid "Ancestor's Last Rest"
-msgstr ""
+msgstr "祖先的最后安息"
 
 # scripts/config/world_location_names.nut
 msgid "Ancestors' Jurt City"
@@ -15724,7 +15803,7 @@ msgstr "逃避死亡者集会处"
 
 # scripts/config/world_location_names.nut
 msgid "Den of Unnamed Horrors"
-msgstr ""
+msgstr "无名恐怖巢穴"
 
 # scripts/config/world_location_names.nut
 msgid "Desert Raiders Outpost"
@@ -15836,7 +15915,7 @@ msgstr "晨光营"
 
 # scripts/config/world_location_names.nut
 msgid "Camp of the Slavetakers"
-msgstr ""
+msgstr "奴隶贩子的营地"
 
 # scripts/config/world_location_names.nut
 msgid "Cave of the Flesheaters"
@@ -16000,7 +16079,7 @@ msgstr "残忍潜行者驻扎地"
 
 # scripts/config/world_location_names.nut
 msgid "Fortified Barbarian Huts"
-msgstr ""
+msgstr "加强版野蛮人小屋"
 
 # scripts/config/world_location_names.nut
 msgid "Iron Shore Invaders Camp"
@@ -16072,7 +16151,7 @@ msgstr "绿皮死神洞穴"
 
 # scripts/config/world_location_names.nut
 msgid "Church of the Dark Priest"
-msgstr ""
+msgstr "黑暗祭司教会"
 
 # scripts/config/world_location_names.nut
 msgid "Circle of the Dark Powers"
@@ -16172,7 +16251,7 @@ msgstr "嗤笑恶魔窝点"
 
 # scripts/config/world_location_names.nut
 msgid "Secret Chambers of Insanity"
-msgstr ""
+msgstr "疯狂的秘密密室"
 
 # scripts/config/world_location_names.nut
 msgid "Thousand Teeth's Encampment"

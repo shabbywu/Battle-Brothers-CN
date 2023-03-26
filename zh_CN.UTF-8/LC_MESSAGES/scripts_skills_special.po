@@ -70,7 +70,7 @@ msgid ""
 "\n"
 "Mood will always trend towards this state over time."
 msgstr ""
-"This character 是满意的 with how things are going. 可能会更好，也可能更糟。\n"
+"这个角色满足于事情的发展。 可能会更好，也可能更糟。\n"
 "\n"
 "心情总是会被时间冲淡的。"
 
@@ -212,7 +212,7 @@ msgstr "强化！"
 
 # scripts/skills/special/oath_of_fortification_warning.nut
 msgid "This character has taken an Oath of Fortification and cannot move while steeling themselves for combat!"
-msgstr "This character has taken an 壁垒誓言 and cannot move while steeling themselves for combat!"
+msgstr "这个角色已经宣誓筑城，并且在战斗中不能移动!"
 
 # scripts/skills/special/oath_of_honor_warning.nut
 msgid "Honorable Combat!"
@@ -220,7 +220,7 @@ msgstr "光荣的战斗!"
 
 # scripts/skills/special/oath_of_honor_warning.nut
 msgid "This character has taken an Oath of Honor and refuses to use the currently equipped ranged weapon or tool!"
-msgstr "This character has taken an 荣耀誓言 and refuses to use the currently equipped ranged weapon or tool!"
+msgstr "这个角色已经宣誓荣誉，拒绝使用当前装备的远程武器或工具！"
 
 # scripts/skills/special/weapon_breaking_warning.nut
 msgid "Weapon in poor condition!"

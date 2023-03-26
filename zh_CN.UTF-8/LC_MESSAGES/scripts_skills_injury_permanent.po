@@ -81,7 +81,7 @@ msgstr "]-40%[/color] 疲劳"
 
 # scripts/skills/injury_permanent/collapsed_lung_part_injury.nut
 msgid "A part of the lung has died, making it very hard for this character to catch breath."
-msgstr "A part of the lung 是死了, making it very hard for this character to catch breath."
+msgstr "一部分肺已经死亡，这使得这个角色很难呼吸。"
 
 # scripts/skills/injury_permanent/maimed_foot_injury.nut
 msgid "Maimed Foot"

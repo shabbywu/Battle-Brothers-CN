@@ -32,4 +32,4 @@ msgstr "一顶有着古代图案的做工精巧但部分磨损的头盔。"
 
 # scripts/items/helmets/ancient/ancient_lich_headpiece.nut
 msgid "Ancient Headpiece"
-msgstr ""
+msgstr "远古头饰"

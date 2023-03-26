@@ -406,15 +406,15 @@ msgstr "这件多层盔甲曾经属于一个著名的雇佣兵。 它的高弹�
 
 # scripts/items/armor/named/named_skull_and_chain_armor.nut
 msgid "Tribal Hide"
-msgstr ""
+msgstr "部落兽皮(Tribal Hide)"
 
 # scripts/items/armor/named/named_skull_and_chain_armor.nut
 msgid "Barbarian Coat"
-msgstr ""
+msgstr "蛮族外套 (Barbarian Coat)"
 
 # scripts/items/armor/named/named_skull_and_chain_armor.nut
 msgid "Barbarian Pelt"
-msgstr ""
+msgstr "蛮族皮毛(Barbarian Pelt)"
 
 # scripts/items/armor/named/named_skull_and_chain_armor.nut
 msgid "Scavenged Armor"
@@ -422,7 +422,7 @@ msgstr "扫气装甲"
 
 # scripts/items/armor/named/named_skull_and_chain_armor.nut
 msgid "Primitive Harness"
-msgstr ""
+msgstr "原始马具(Primitive Harness)"
 
 # scripts/items/armor/named/named_skull_and_chain_armor.nut
 msgid "A barbarian armor of crude making that has been adjusted to protect without being too cumbersome. It wears the typical markings of the northern barbarian tribes."

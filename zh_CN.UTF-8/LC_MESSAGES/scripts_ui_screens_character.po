@@ -4,11 +4,11 @@ msgstr ""
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Dismissed "
-msgstr ""
+msgstr "解雇"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Glad to see "
-msgstr ""
+msgstr "高兴见到你"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Undefined error."
@@ -16,7 +16,7 @@ msgstr "未定义的错误。"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "battle-preparation"
-msgstr ""
+msgstr "战斗准备"
 
 # scripts/ui/screens/character/character_screen.nut
 msgid "Not enough bag space."
