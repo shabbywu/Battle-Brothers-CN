@@ -1,0 +1,307 @@
+#
+msgid ""
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "The southern city states are built on the ruins of the Ancient Empire."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "An Ifrit is a demonic entity possessing rocks, stone and shifting sands."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "Inventory full? Buy carts and wagons for your company in the Retinue screen."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "You unlock slots for your retinue of non-combat followers by gaining Renown."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "The Fire Lance is reloaded after every battle just like throwing weapons are."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "Nomads are a southern people that are not subject to the rule of a city state."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "Paying too much in wages? Hire a paymaster to reduce the wages you have to pay."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "Smoke Pots can be used for a safe retreat even if your men are already locked in melee."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "Hire non-combat followers for your retinue to customize your campaign to your playstyle."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "Mortars of the city states can only fire if an engineer is next to them to operate them."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "A Qatal Dagger is best used in combination with other weapons that can stun or daze opponents."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "The southern city states have made unparalleled advancements in medicine, astrology and alchemy."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "The southerners call themselves 'Gilded' after their god, in whose shine they bask day in and out."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "Training your new recruits takes too long? Hire a drill sergeant to have them gain experience faster."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "Wondering who went there? Hire a Lookout and get more information on any footprints on the world map."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "Arena matches offer a quick way to earn coin - but you can't retreat during matches or loot afterwards."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "Try out different retinue followers to find those that complement your playstyle and chosen company origin."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "Every fifth arena match offers the chance to win a piece of gladiator equipment that can't be bought otherwise."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "The Handgonne takes a whole turn to reload - unless your character has the 'Crossbows & Firearms Mastery' perk."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "Facing too few enemy champions? Hire a bounty hunter to find more and even earn a bounty for every one you kill."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "Always out of ammo and tools? Hire a scavenger to reclaim ammo you spent and gather tools from armor you destroyed."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "With the 'Gladiators' origin you start with three powerful characters, but losing all three will end your campaign."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "With the 'Manhunters' origin you can make prisoners after every battle against humans and force them to fight for you."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "Nomads are experts in desert warfare and using the environment to their advantage - including throwing it in your face."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "Ferocious hyenas roam the southern deserts, with strong jaws that can crush even metal armor and inflict bleeding wounds."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "Fire Pots can be used not just to inflict damage on your opponents, but also to deny them access to tiles and delay them."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "Losing named shields to orcs? Hire a blacksmith for your retinue and repair any item, even if its durability reaches zero."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "Arena tournaments are special events with different rules. Fight with five men over three consecutive rounds and win a famed item!"
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "The Handgonne is a ranged weapon that can hit up to 6 targets with a single attack, but has less range than either bows or crossbows."
+msgstr ""
+
+# scripts/dlc/dlc_desert.nut
+msgid "The 'indebted' are a social caste of de-facto slaves in the city states, made up of criminals, prisoners of war and violators of religous dogma."
+msgstr ""
+
+# scripts/dlc/dlc_paladins.nut
+msgid "With the 'Oathtakers' origin, instead of ambitions you'll pick oaths that grant special boons and burdens."
+msgstr ""
+
+# scripts/dlc/dlc_paladins.nut
+msgid "With the 'Anatomists' origin, defeating new enemies grants potions that mutate your men and grant them special abilities."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "Trees move slowly."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "Axes are particularly effective against trees."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "Unholds can heal wounds quickly, even in combat."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "Alps are almost exclusively encountered at night."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "There are different regional variants of the Unhold."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "Two-handed maces excel in disabling single opponents."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "Alps feed on the fear and agony of people having nightmares."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "Webknechts are more confident, the larger the group they are in."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "A Lindwurm is a wingless bipedal dragon resembling a large snake."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "Nachzehrers are found more often in the southern parts of the world."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "Explore the world to find legendary locations with legendary treasure."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "Hexen are known to strike ill-omened deals that people come to regret."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "Webknechts inflict additional damage to targets trapped in their webs."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "A Hexe can curse one of your men to suffer the same wounds as she does."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "Overdosing on potions can lead to characters vomiting and getting sick."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "A Hexe appears as a youthful lady with radiant beauty to those she enthralls."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "A Schrat is a living tree, a being of bark and wood, with a mind truly alien."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "Fencing swords are most powerful in the hands of characters with high initiative."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "Selling trophies from slain beasts can be lucrative. You can always get new ones."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "The frozen wasteland of the north is home to a giant beast not seen anywhere else."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "Use armor attachments to further improve and specialize the equipment of your men."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "The further away from civilization, the more dangerous the beasts that roam the land."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "Use throwing spears to destroy the shields of your most dangerous opponents from afar."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "Collect trophies from slain beasts and have the taxidermist craft useful items from them."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "Potions, despite their colorful descriptions, are essentially drugs, and characters can get addicted to them."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "The Webknecht is a large arachnid that lives in sizable colonies in the dark areas of forests throughout the world."
+msgstr ""
+
+# scripts/dlc/dlc_unhold.nut
+msgid "With the 'Beast Slayers' origin you'll have an easier time tracking beasts and get more trophies from any of those you slay."
+msgstr ""
+
+# scripts/dlc/dlc_wildmen.nut
+msgid "The north is inhabited by fierce barbarian tribes."
+msgstr ""
+
+# scripts/dlc/dlc_wildmen.nut
+msgid "Slings inflict the 'Daze' status effect on a hit to the head."
+msgstr ""
+
+# scripts/dlc/dlc_wildmen.nut
+msgid "Try different origins to tailor your campaign to your play style."
+msgstr ""
+
+# scripts/dlc/dlc_wildmen.nut
+msgid "Barbarians look forward to meeting their ancestors in the afterlife."
+msgstr ""
+
+# scripts/dlc/dlc_wildmen.nut
+msgid "With the 'Band of Poachers' origin you'll move faster on the worldmap."
+msgstr ""
+
+# scripts/dlc/dlc_wildmen.nut
+msgid "With stones abundant everywhere, Slings will never run out of ammunition."
+msgstr ""
+
+# scripts/dlc/dlc_wildmen.nut
+msgid "Battle Whips can inflict bleeding wounds, but perform dismally against armor."
+msgstr ""
+
+# scripts/dlc/dlc_wildmen.nut
+msgid "With the 'Peasant Militia' origin you can take up to 16 men into battle at once."
+msgstr ""
+
+# scripts/dlc/dlc_wildmen.nut
+msgid "Northern warhounds are sturdier than southern wardogs, but not as quick and agile."
+msgstr ""
+
+# scripts/dlc/dlc_wildmen.nut
+msgid "With the 'Trading Caravan' origin you'll get better prices for both buying and selling."
+msgstr ""
+
+# scripts/dlc/dlc_wildmen.nut
+msgid "Battle Whips can temporarily disarm opponents, preventing them from using weapon skills."
+msgstr ""
+
+# scripts/dlc/dlc_wildmen.nut
+msgid "Barbarians often overwhelm their opponents at the start of battle, but quickly become fatigued."
+msgstr ""
+
+# scripts/dlc/dlc_wildmen.nut
+msgid "Scimitars and Shamshirs are more likely to inflict debilitating injuries when hitting a target."
+msgstr ""
+
+# scripts/dlc/dlc_wildmen.nut
+msgid "Beastmasters can not crack the whip to direct their beastly warmachines when adjacent to an enemy."
+msgstr ""
+
+# scripts/dlc/dlc_wildmen.nut
+msgid "With the 'Lone Wolf' origin you'll have a player character in the world. If you die, the campaign ends."
+msgstr ""
+
+# scripts/dlc/dlc_wildmen.nut
+msgid "With the 'Cultists' origin your god will demand sacrifices from you, but also bestow boons upon those loyal to him."
+msgstr ""
+
+# scripts/dlc/dlc_wildmen.nut
+msgid "The rhythmic tribal beats of drummers reduce the fatigue of all barbarians on the field by a small amount each round."
+msgstr ""

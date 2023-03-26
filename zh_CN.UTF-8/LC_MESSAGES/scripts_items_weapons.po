@@ -633,10 +633,6 @@ msgid "'s "
 msgstr "的"
 
 # scripts/items/weapons/weapon.nut
-msgid "progressbar"
-msgstr ""
-
-# scripts/items/weapons/weapon.nut
 msgid " has broken!"
 msgstr ""
 
@@ -647,10 +643,6 @@ msgstr "[/color] 发"
 # scripts/items/weapons/weapon.nut
 msgid "[/color] tiles"
 msgstr "[/color] 格范围"
-
-# scripts/items/weapons/weapon.nut
-msgid "armor-body-slim"
-msgstr ""
 
 # scripts/items/weapons/weapon.nut
 msgid "Range of [color="

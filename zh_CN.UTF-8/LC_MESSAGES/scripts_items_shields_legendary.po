@@ -3,14 +3,6 @@ msgid ""
 msgstr ""
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
-msgid "progressbar"
-msgstr ""
-
-# scripts/items/shields/legendary/gilders_embrace_shield.nut
-msgid "armor-head-slim"
-msgstr ""
-
-# scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "Gilder's Embrace"
 msgstr "镀金者的拥抱"
 
@@ -20,15 +12,15 @@ msgstr "是坚不可摧的"
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "Melee Defense [color="
-msgstr ""
+msgstr "近战防御 [color="
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "Ranged Defense [color="
-msgstr ""
+msgstr "远程防御 [color="
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "Maximum Fatigue [color="
-msgstr ""
+msgstr "最大疲劳值 [color="
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid " is dazed by the Gilder's Embrace"
