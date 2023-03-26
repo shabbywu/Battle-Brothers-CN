@@ -226,7 +226,7 @@ msgstr " 是满意的"
 
 # scripts/config/character.nut
 msgid " is fleeing"
-msgstr " 逃跑中"
+msgstr "逃跑中"
 
 # scripts/config/character.nut
 msgid "Disgruntled"
@@ -234,11 +234,11 @@ msgstr "不高兴"
 
 # scripts/config/character.nut
 msgid " is breaking"
-msgstr " 溃散中"
+msgstr "溃散中"
 
 # scripts/config/character.nut
 msgid " is wavering"
-msgstr " 动摇中"
+msgstr "动摇中"
 
 # scripts/config/character.nut
 msgid "Dissatisfied"
