@@ -78,7 +78,7 @@ msgid ""
 "[p=c]A simple scenario to learn combat basics. Easy.[/p]"
 msgstr ""
 "[p=c][img]gfx/ui/events/event_28.png[/img][/p]\n"
-"[p=c]学习战斗基础的简单场景。 容易的。[/p]"
+"[p=c]学习战斗基础的简单场景。容易的。[/p]"
 
 # scripts/states/main_menu_state.nut
 msgid ""
@@ -126,7 +126,7 @@ msgid ""
 "[p=c]Few and easy opponents all over a map with lots of terrain features blocking sight. Well suited to get used to lines of sight, fog of war and ranged combat. Easy.[/p]"
 msgstr ""
 "[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n"
-"[p=c]很多简单的对手分布在整个地图中，这里的很多地形会阻挡你的视线。 非常适合用来适应视野、战争迷雾以及远程作战。 容易的。[/p]"
+"[p=c]很多简单的对手分布在整个地图中，这里的很多地形会阻挡你的视线。 非常适合用来适应视野、战争迷雾以及远程作战。容易的。[/p]"
 
 # scripts/states/main_menu_state.nut
 msgid ""

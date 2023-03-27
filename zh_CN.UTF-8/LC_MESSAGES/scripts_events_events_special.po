@@ -31,7 +31,7 @@ msgstr ""
 # scripts/events/events/special/helped_caravan_event.nut
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "You gain "
-msgstr "你获得了 "
+msgstr "你获得了"
 
 # scripts/events/events/special/ambition_failed_event.nut
 msgid "Lost confidence in your leadership"

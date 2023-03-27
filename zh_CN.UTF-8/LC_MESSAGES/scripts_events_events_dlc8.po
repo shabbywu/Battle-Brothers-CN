@@ -94,7 +94,7 @@ msgstr "在途中…"
 # scripts/events/events/dlc8/something_in_barn_event.nut
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid "You gain "
-msgstr "你获得了 "
+msgstr "你获得了"
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
 # scripts/events/events/dlc8/oathtakers_skull_cracked_event.nut
@@ -166,7 +166,7 @@ msgstr "你获得了 [color="
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
 # scripts/events/events/dlc8/ruined_priory_event.nut
 msgid " suffers heavy wounds"
-msgstr " 遭受重伤"
+msgstr "遭受重伤"
 
 # scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
 # scripts/events/events/dlc8/oathtakers_skull_cracked_event.nut
@@ -181,7 +181,7 @@ msgstr "]+1[/color] 决心"
 # scripts/events/events/dlc8/fake_witchhunter_event.nut
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid " suffers light wounds"
-msgstr " 遭受轻伤"
+msgstr "遭受轻伤"
 
 # scripts/events/events/dlc8/black_market_event.nut
 # scripts/events/events/dlc8/something_in_barn_event.nut
@@ -771,7 +771,7 @@ msgstr ""
 
 # scripts/events/events/dlc8/anatomist_reflects_on_webknechts_event.nut
 msgid " now fears beasts"
-msgstr " 现在害怕野兽"
+msgstr "现在害怕野兽"
 
 # scripts/events/events/dlc8/anatomist_reflects_on_webknechts_event.nut
 msgid "Terrified of spiders"
@@ -968,7 +968,7 @@ msgstr ""
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 msgid "No, I don't think so."
-msgstr "No, 我不这么认为。"
+msgstr "不，我不这么认为。"
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 msgid "Get that wound cleaned."
@@ -2357,7 +2357,7 @@ msgstr ""
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
 msgid "[img]gfx/ui/events/event_51.png[/img]{You agree to let %anatomist% and the strange scribe talk, but before you can even head down the street %minstrel% the minstrel steps forth, grinning and pointing.%SPEECH_ON%%fakescribe%! What in the hells are you doing these days? This some new scam you've got up your sleeve, huh?%SPEECH_OFF%The strange scribe clears his throat. He throws his hands out, and clears his throat again, he seems ready to speak deeply to some subject, but then sighs and throws back his cloak. A youngish and not at all scholarly looking fellow is revealed. He shakes his head.%SPEECH_ON%Life's been rough in the big city, %minstrel%. How are you doing?%SPEECH_OFF%The two chat for a time while you and %anatomist% look on bewildered. Eventually, the two minstrels turn to you, %minstrel% leading the way.%SPEECH_ON%Captain, this is %fakescribe%. He's on hard times out here in %townname%. What say he come along into the %companyname%? He's a lot like me, a shitass fighter, but a man of spunk, of moxy, a man who has what it takes if merely given the time to find it, especially if there's a woman involved.%SPEECH_OFF%%fakescribe% shakes his head.%SPEECH_ON%Ehem, ehh, with them I never, uh, find it.%SPEECH_OFF%}"
-msgstr "[img]gfx/ui/events/event_51.png[/img]{You agree to let %anatomist% and the strange scribe talk, but before you can even head down the street %minstrel% the minstrel steps forth, grinning and pointing.%SPEECH_ON%%fakescribe%! What in the hells are you doing these days? This some new scam you've got up your sleeve, huh?%SPEECH_OFF%The strange scribe clears his throat. He throws his hands out, and clears his throat again, he seems ready to speak deeply to some subject, but then sighs and throws back his cloak. A youngish and not at all scholarly looking fellow is revealed. He shakes his head.%SPEECH_ON%Life's been rough in the big city, %minstrel%. 你还好吗？%SPEECH_OFF%The two chat for a time while you and %anatomist% look on bewildered. Eventually, the two minstrels turn to you, %minstrel% leading the way.%SPEECH_ON%Captain, this is %fakescribe%. He's on hard times out here in %townname%. What say he come along into the %companyname%? He's a lot like me, a shitass fighter, but a man of spunk, of moxy, a man who has what it takes if merely given the time to find it, especially if there's a woman involved.%SPEECH_OFF%%fakescribe% shakes his head.%SPEECH_ON%Ehem, ehh, with them I never, uh, find it.%SPEECH_OFF%}"
+msgstr ""
 
 # scripts/events/events/dlc8/strange_scribe_event.nut
 msgid "[img]gfx/ui/events/event_31.png[/img]{While in %townname%, you are approached by a person you had seen around one of the noblemen in the area. He is wearing a black cloak and he keeps his face deep in the cowl. He is the definition of suspicious. Naturally, %anatomist% the anatomist sets his eyes on him as though he were one of his objects of scientific observation. The man bows.%SPEECH_ON%I have come with great respect for the work you do, %anatomist%. We have read many of your texts.%SPEECH_OFF%You put a hand on your sword and wait to see where this is going. The man continues.%SPEECH_ON%We would like to invite you for a meal and to discuss matters of bodily import a little more...deeply.%SPEECH_OFF%Stepping between the men, you ask who this 'we' is. The man states that he is with a group of scribes and scholars who study matters of the human body, as well as the bodies who have comported themselves well to the nature of their bestial tasks, which is to say they study the world's monsters.%SPEECH_ON%We, of course, have a particular interest in the beasts which are man himself...after he has lost what he himself is.%SPEECH_OFF%With so much intrigue flitting about, you're not surprised that the anatomist wishes to go with the strange scribe.}"

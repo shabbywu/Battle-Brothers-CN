@@ -238,7 +238,7 @@ msgstr " 获得了 [color="
 # scripts/events/events/wildman_finds_something_event.nut
 # scripts/events/events/graverobber_finds_item_event.nut
 msgid "You gain "
-msgstr "你获得了 "
+msgstr "你获得了"
 
 # scripts/events/events/broken_wagon_event.nut
 # scripts/events/events/wildman_testing_money_event.nut
@@ -318,7 +318,7 @@ msgstr "在路上…"
 # scripts/events/events/refugee_vs_raider_event.nut
 # scripts/events/events/supposed_witch_event.nut
 msgid " suffers light wounds"
-msgstr " 遭受轻伤"
+msgstr "遭受轻伤"
 
 # scripts/events/events/wildman_testing_money_event.nut
 # scripts/events/events/hidden_cache_forest_event.nut
@@ -561,7 +561,7 @@ msgstr "拿起武器！"
 # scripts/events/events/herbs_along_the_way_event.nut
 # scripts/events/events/ratcatcher_catches_food_event.nut
 msgid " is sick"
-msgstr " 是生病了"
+msgstr "是生病了"
 
 # scripts/events/events/flagellants_wounds_heal_event.nut
 # scripts/events/events/brawler_teaches_event.nut
@@ -603,7 +603,7 @@ msgstr "在战队面前丢脸"
 # scripts/events/events/killer_vs_others_event.nut
 # scripts/events/events/cultist_finale_event.nut
 msgid " has died"
-msgstr " 是死了"
+msgstr "是死了"
 
 # scripts/events/events/deserter_in_forest_event.nut
 # scripts/events/events/lend_men_to_build_event.nut
@@ -662,7 +662,7 @@ msgstr ""
 # scripts/events/events/bad_curse_event.nut
 # scripts/events/events/bad_omen_event.nut
 msgid " is afraid"
-msgstr " 是害怕的"
+msgstr "是害怕的"
 
 # scripts/events/events/sellsword_gets_better_deal_event.nut
 # scripts/events/events/bastard_assassin_event.nut
@@ -692,7 +692,7 @@ msgstr "对你的领导有信心"
 # scripts/events/events/combat_drill_event.nut
 # scripts/events/events/lend_men_to_build_event.nut
 msgid " is exhausted"
-msgstr " 是筋疲力尽的"
+msgstr "是筋疲力尽的"
 
 # scripts/events/events/come_across_burial_event.nut
 # scripts/events/events/graverobber_finds_item_event.nut
@@ -817,7 +817,7 @@ msgstr "该死的地方！"
 # scripts/events/events/player_is_rich_event.nut
 # scripts/events/events/noble_more_pay_lowborn_event.nut
 msgid " gets greedy"
-msgstr " 变得贪婪"
+msgstr "变得贪婪"
 
 # scripts/events/events/player_is_rich_event.nut
 # scripts/events/events/noble_more_pay_lowborn_event.nut
@@ -951,7 +951,7 @@ msgstr "时光流逝。"
 
 # scripts/events/events/aging_swordmaster_event.nut
 msgid " has gotten older"
-msgstr " 已经变老了"
+msgstr "已经变老了"
 
 # scripts/events/events/aging_swordmaster_event.nut
 msgid "How are you doing?"
@@ -1271,7 +1271,7 @@ msgstr "加入了"
 
 # scripts/events/events/bastard_assassin_event.nut
 msgid " is now loyal"
-msgstr " 现在是忠诚的"
+msgstr "现在是忠诚的"
 
 # scripts/events/events/bastard_assassin_event.nut
 msgid "Alright, talk."
@@ -1829,7 +1829,7 @@ msgstr "你真应该检查一下你的脚。"
 
 # scripts/events/events/childrens_crusade_event.nut
 msgid "%monk%, you speak for the old gods. What say you?"
-msgstr "%monk%, you speak for the old gods. 你怎么说？"
+msgstr "%monk%, 你是古老神明的代言人。你有什么想说的？"
 
 # scripts/events/events/childrens_crusade_event.nut
 msgid "%walker%, you've travelled up there. Say something."
@@ -1903,7 +1903,7 @@ msgid ""
 msgstr ""
 "[img]gfx/ui/events/event_26.png[/img]在篝火旁加入战队时，%cocky% 站起来，满脸通红地说话。%SPEECH_ON%我不知道你们这些可怜虫怎么想，但我想我比任何人都能更好地管理这个队伍！ 尤其是比他好！%SPEECH_OFF%他用手指着你。\n"
 "\n"
-"你在他旁边坐了下来。 人们盯着你,等待着你的回答。"
+"你在他旁边坐了下来。他盯着你, 等待着你的回答。"
 
 # scripts/events/events/cocky_challenges_player_event.nut
 msgid "[img]gfx/ui/events/event_26.png[/img]You immediately jump back to your feet and begin shouting.%SPEECH_ON%I'm the one in charge here! Me! Who has the money? Me! If it weren't for me, none of y'all would even be here! You'd still be in the pits of whatever old lives you had! You should be groveling before my feet for the opportunities I have provided! And %cocky%, if you contest me again I swear to the gods I will have you flogged and hanged, understand?%SPEECH_OFF%The outburst instantly quiets the camp. %cocky% nods and backs away. A few of the men murmur between themselves as you take your seat again."
@@ -2065,7 +2065,7 @@ msgstr "[img]gfx/ui/events/event_28.png[/img]在路上，你遇到一群人围�
 
 # scripts/events/events/come_across_burial_event.nut
 msgid "[img]gfx/ui/events/event_36.png[/img]You draw out your sword and the rest of the company does the same. The mercenaries push the crowd back, but there isn't as much resistance as you expected. One of the attendees steps forward.%SPEECH_ON%It's the sword you want, isn't it? Go on, take it. That there dead man spoke of someone like you. Said you'd need it more than he ever would.%SPEECH_OFF%Sheathing your sword, you ask him if that's why they were all standing around. The man laughs.%SPEECH_ON%Naw, he also said he'd never die, so we were curious to know if that part of his sayings would come true.%SPEECH_OFF%You slowly take the sword, now curious if there was some saying about butchering the man who laid his hands upon it. Thankfully, ostensibly, the mighty dead man said no such thing."
-msgstr "[img]gfx/ui/events/event_36.png[/img]你拔出你的剑，其他队员也这么做了。 雇佣兵们把人群往后推，但没有你想象的那么多阻碍。 一位与会者走上前。%SPEECH_ON%这是你要的剑，是吗？ 继续，拿去吧。 那个死者提到了像你这样的人。 说你比他更需要这把剑。%SPEECH_OFF%Sheathing your sword, you ask him if that's why they were all standing around. 这个人笑了。%SPEECH_ON%不是的，他还说他永远不会死，所以我们很想知道他说的话是否会成真。%SPEECH_OFF%你慢慢地拿起剑，现在很好奇是否有人说过要杀掉把手按在剑上的那个人。 谢天谢地，从表面上看，这个伟大的死人并没有说这样的话。"
+msgstr "[img]gfx/ui/events/event_36.png[/img]你拔出你的剑，其他队员也这么做了。 雇佣兵们把人群往后推，但没有你想象的那么多阻碍。 一位与会者走上前。%SPEECH_ON%这是你要的剑，是吗？ 继续，拿去吧。 那个死者提到了像你这样的人。 说你比他更需要这把剑。%SPEECH_OFF%你举起剑，问他这是不是他们都站在周围的原因。那人笑着说。%SPEECH_ON%不是的，他还说他永远不会死，所以我们很想知道他说的话是否会成真。%SPEECH_OFF%你慢慢地拿起剑，现在很好奇是否有人说过要杀掉把手按在剑上的那个人。 谢天谢地，从表面上看，这个伟大的死人并没有说这样的话。"
 
 # scripts/events/events/come_across_ritual_event.nut
 msgid "Now we attack!"
@@ -2077,7 +2077,7 @@ msgstr "我们最好离开。"
 
 # scripts/events/events/come_across_ritual_event.nut
 msgid "Time to leave. Now."
-msgstr "是时候离开了。 现在。"
+msgstr "是时候离开了,马上动身。"
 
 # scripts/events/events/come_across_ritual_event.nut
 msgid "This doesn't concern us."
@@ -2097,7 +2097,7 @@ msgstr "%cultist%，这不是你的宗教么？"
 
 # scripts/events/events/come_across_ritual_event.nut
 msgid "We need to stop this now. Attack!"
-msgstr "我们需要马上阻止他们。 攻击！"
+msgstr "我们需要马上阻止他们。进攻！"
 
 # scripts/events/events/come_across_ritual_event.nut
 msgid "Hold on, let's see what happens next."
@@ -2337,7 +2337,7 @@ msgstr "[img]gfx/ui/events/event_26.png[/img]最近的战斗在 %injured% 身上
 
 # scripts/events/events/cultist_finale_event.nut
 msgid "You gain the "
-msgstr "你获得了 "
+msgstr "你获得了"
 
 # scripts/events/events/cultist_finale_event.nut
 msgid "Absolutely not!"
@@ -2455,7 +2455,7 @@ msgstr "按你自己的意愿行事。"
 
 # scripts/events/events/cultist_vs_uneducated_event.nut
 msgid " has been converted to a Cultist"
-msgstr " 已经转化成了异教徒"
+msgstr "已经转化成了异教徒"
 
 # scripts/events/events/cultist_vs_uneducated_event.nut
 msgid "Was denied the chance to convert "
@@ -2489,7 +2489,7 @@ msgstr ""
 
 # scripts/events/events/dastard_loses_trait_event.nut
 msgid " is no longer a dastard"
-msgstr " 不再畏缩"
+msgstr "不再畏缩"
 
 # scripts/events/events/dastard_loses_trait_event.nut
 msgid "Growing up to become a real sellsword after all, are we?"
@@ -2638,7 +2638,7 @@ msgstr "[img]gfx/ui/events/event_26.png[/img]你拍拍他的肩膀说。%SPEECH_
 
 # scripts/events/events/dogfighting_event.nut
 msgid " dies."
-msgstr " 死了。"
+msgstr "死了。"
 
 # scripts/events/events/dogfighting_event.nut
 msgid "Damnit!"
@@ -2802,11 +2802,11 @@ msgstr "这会让他长记性的。"
 
 # scripts/events/events/drunkard_loses_stuff_event.nut
 msgid " receives an injury"
-msgstr " 受到损伤"
+msgstr "受到损伤"
 
 # scripts/events/events/drunkard_loses_stuff_event.nut
 msgid " is no longer a drunkard"
-msgstr " 不再是个酒鬼"
+msgstr "不再是个酒鬼"
 
 # scripts/events/events/drunkard_loses_stuff_event.nut
 msgid "Get him out of my sight."
@@ -2864,7 +2864,7 @@ msgstr ""
 
 # scripts/events/events/education_event.nut
 msgid " is no longer dumb"
-msgstr " 不再傻了"
+msgstr "不再傻了"
 
 # scripts/events/events/education_event.nut
 msgid "Leave %dumbguy% alone."
@@ -2968,7 +2968,7 @@ msgstr "[img]gfx/ui/events/event_06.png[/img]你发现 %farmhand% 和 %butcher% 
 
 # scripts/events/events/fat_guy_gets_fit_event.nut
 msgid " is no longer fat"
-msgstr " 不再胖了"
+msgstr "不再胖了"
 
 # scripts/events/events/fat_guy_gets_fit_event.nut
 msgid "He might make a good sellsword yet."
@@ -3088,7 +3088,7 @@ msgstr "[img]gfx/ui/events/event_26.png[/img]%farmhand% 和 %fisherman% 正在�
 
 # scripts/events/events/flagellant_vs_monk_event.nut
 msgid " is now a Pacified Flagellant"
-msgstr " 现在是一个被平息的苦修者"
+msgstr "现在是一个被平息的苦修者"
 
 # scripts/events/events/flagellant_vs_monk_event.nut
 msgid "May the man find his peace now."
@@ -3096,7 +3096,7 @@ msgstr "愿这人现在平静下来。"
 
 # scripts/events/events/flagellant_vs_monk_event.nut
 msgid " is now a Monk turned Flagellant"
-msgstr " 现在是僧侣转变成的苦修者"
+msgstr "现在是僧侣转变成的苦修者"
 
 # scripts/events/events/flagellant_vs_monk_event.nut
 msgid "This is fascinating. Let's see where it goes."
@@ -3276,11 +3276,11 @@ msgstr ""
 
 # scripts/events/events/glutton_gets_fat_event.nut
 msgid " gets fat"
-msgstr " 变得肥胖"
+msgstr "变得肥胖"
 
 # scripts/events/events/glutton_gets_fat_event.nut
 msgid "Drop the pork. Now."
-msgstr "把猪肉放下。 现在。"
+msgstr "把猪肉放下, 马上！"
 
 # scripts/events/events/glutton_gets_fat_event.nut
 msgid "[img]gfx/ui/events/event_14.png[/img] You find %glutton% helping himself to a third helping of food. That's far too much and so you demand that it be his last. Another brother joins in, mocking the man for his habits. The glutton, enraged, slams his food down and stands up. His stomach however, sways at a different pace than the rest of him and the rather fattened man goes down in a heap of flailing limbs. While the rest of the company has a laugh, you can't help but wonder if the sellsword really has gotten too fat."
@@ -3470,7 +3470,7 @@ msgstr ""
 
 # scripts/events/events/greedy_demands_raise_event.nut
 msgid " gets disloyal"
-msgstr " 变得不忠诚"
+msgstr "变得不忠诚"
 
 # scripts/events/events/greedy_demands_raise_event.nut
 msgid "You've earned it!"
@@ -3478,7 +3478,7 @@ msgstr "你的功劳！"
 
 # scripts/events/events/greedy_demands_raise_event.nut
 msgid " is no longer loyal"
-msgstr " 不再忠诚"
+msgstr "不再忠诚"
 
 # scripts/events/events/greedy_demands_raise_event.nut
 msgid "Received a pay raise"
@@ -3866,7 +3866,7 @@ msgstr "对即将死去的太阳感到恐惧"
 
 # scripts/events/events/how_far_is_the_sun_event.nut
 msgid "I see you thinking, %cultistfull%. What say you?"
-msgstr "I see you thinking, %cultistfull%. 你怎么说？"
+msgstr "我看见你在思考，%cultistfull%。你说呢？"
 
 # scripts/events/events/how_far_is_the_sun_event.nut
 msgid "Relished the opportunity to talk about the dying sun"
@@ -4448,7 +4448,7 @@ msgstr "上啊！"
 
 # scripts/events/events/lawmen_after_criminal_event.nut
 msgid " has left the company"
-msgstr " 离开了战队"
+msgstr "离开了战队"
 
 # scripts/events/events/lawmen_after_criminal_event.nut
 msgid "We'll not give him up."
@@ -4546,7 +4546,7 @@ msgid ""
 "\n"
 "%randombrother% comes charging across the field of mayhem with a spear in hand. He plunges it deep into the captain's steed, bringing both man and beast crashing to the ground. The lawmen, what's left of them, gather around their captain. Seemingly growling, the man wipes blood from his face and spits out a tooth. He grins a gapped smile before ordering his men to charge."
 msgstr ""
-"[img]gfx/ui/events/event_78.png[/img]队长递给你一个画有 %criminal% 脸的通缉令。 的确，两者有相似之处。 但是这个男人呆在团队里面很长时间了脸上已经有了两道伤疤。 或许他们不会认出来？ 你让罪犯上前一步，虽然很紧张，但他还是照你说的做了。 你看着那位队长。%SPEECH_ON%这就是你要找的人吗？ 他们的确长得很像但是看看这些伤疤。 画里的人可没有这些。 然后再看看他的头发！ 画里面头发是直的，这个男人的头发显然是卷的。%SPEECH_OFF%你停了下来因为从这些听众的表情判断这根本就行不通。 这个队长拔出了剑。%SPEECH_ON%Do you take me for a fool? 把他们都杀了。%SPEECH_OFF%好吧，只能这样了。 在执法者还在冲锋的时候你尽可能地大声吹着口哨。 团里一半的人从灌木丛中涌出，像女巫一样又喊又叫。 突然的惊吓使马把身子直立起来，将骑手们扔进泥土里车夫甚至直接跑掉了，还带着两个非常困惑的罪犯。\n"
+"[img]gfx/ui/events/event_78.png[/img]队长递给你一个画有 %criminal% 脸的通缉令。 的确，两者有相似之处。 但是这个男人呆在团队里面很长时间了脸上已经有了两道伤疤。 或许他们不会认出来？ 你让罪犯上前一步，虽然很紧张，但他还是照你说的做了。 你看着那位队长。%SPEECH_ON%这就是你要找的人吗？ 他们的确长得很像但是看看这些伤疤。 画里的人可没有这些。 然后再看看他的头发！ 画里面头发是直的，这个男人的头发显然是卷的。%SPEECH_OFF%你停了下来因为从这些听众的表情判断这根本就行不通。 这个队长拔出了剑。%SPEECH_ON%你认为我是好愚弄的人吗？把他们都杀了。%SPEECH_OFF%好吧，只能这样了。 在执法者还在冲锋的时候你尽可能地大声吹着口哨。 团里一半的人从灌木丛中涌出，像女巫一样又喊又叫。 突然的惊吓使马把身子直立起来，将骑手们扔进泥土里车夫甚至直接跑掉了，还带着两个非常困惑的罪犯。\n"
 "\n"
 "%randombrother% 带着长矛冲过混乱的战场。 他把长矛深深地刺进了那个队长的战马身体里，把人和马都撂倒在地上。 剩下的那些执法者聚集在他们的队长周围。 这名男子似乎在咆哮，他擦去脸上的血吐出了一颗牙齿。 露出残忍的笑容然后命令手下冲锋。"
 
@@ -4698,7 +4698,7 @@ msgstr "你这个白痴，蠢货！"
 
 # scripts/events/events/melon_thief_event.nut
 msgid "Okay. Not our business."
-msgstr "好吧。 不是我们的事。"
+msgstr "好吧。不是我们的事。"
 
 # scripts/events/events/melon_thief_event.nut
 msgid "What say you, Melon Man?"
@@ -5154,7 +5154,7 @@ msgstr "为那些缺席的朋友…"
 
 # scripts/events/events/oldguard_becomes_drunkard_event.nut
 msgid " has become a drunkard"
-msgstr " 变成了一个酒鬼"
+msgstr "变成了一个酒鬼"
 
 # scripts/events/events/oldguard_becomes_drunkard_event.nut
 msgid "Has lost too many friends"
@@ -5354,7 +5354,7 @@ msgstr "你拒绝为了妓女付钱"
 
 # scripts/events/events/pimp_and_harlots_event.nut
 msgid "Those guards are pathetic. Attack!"
-msgstr "可怜的守卫。 攻击！"
+msgstr "可怜的守卫。进攻！"
 
 # scripts/events/events/pimp_and_harlots_event.nut
 msgid "Missed out on a good lay because of you"
@@ -6272,7 +6272,7 @@ msgstr "我不会打扰你的。"
 
 # scripts/events/events/spartan_should_eat_more_event.nut
 msgid " is no longer spartan"
-msgstr " 不再是斯巴达人"
+msgstr "不再是斯巴达人"
 
 # scripts/events/events/spartan_should_eat_more_event.nut
 msgid "Don't make me repeat this."
@@ -6578,7 +6578,7 @@ msgstr "该死的盗贼！"
 
 # scripts/events/events/thief_caught_event.nut
 msgid "You lose some "
-msgstr "你失去了一些 "
+msgstr "你失去了一些"
 
 # scripts/events/events/thief_caught_event.nut
 msgid "[/color] Ammunition"

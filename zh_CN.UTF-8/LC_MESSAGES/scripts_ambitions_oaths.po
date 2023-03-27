@@ -27,7 +27,7 @@ msgstr ""
 # scripts/ambitions/oaths/oath_of_dominion_ambition.nut
 # scripts/ambitions/oaths/oath_of_humility_ambition.nut
 msgid "{For Young Anselm! | As Oathtakers! | And death to the Oathbringers!}"
-msgstr "{为了小安瑟姆！ | 宣誓者万岁！ | 誓言使者去死吧！}"
+msgstr "{为了小安瑟姆！ | 宣誓者万岁！ | 誓约使者去死吧！}"
 
 # scripts/ambitions/oaths/oath_of_wrath_ambition.nut
 # scripts/ambitions/oaths/oath_of_righteousness_ambition.nut

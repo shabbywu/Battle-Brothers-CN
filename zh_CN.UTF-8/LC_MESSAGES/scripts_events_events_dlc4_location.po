@@ -5,7 +5,7 @@ msgstr ""
 # scripts/events/events/dlc4/location/tundra_elk_destroyed_event.nut
 # scripts/events/events/dlc4/location/icy_cave_enter_event.nut
 msgid "You gain "
-msgstr "你获得了 "
+msgstr "你获得了"
 
 # scripts/events/events/dlc4/location/tundra_elk_destroyed_event.nut
 # scripts/events/events/dlc4/location/icy_cave_enter_event.nut

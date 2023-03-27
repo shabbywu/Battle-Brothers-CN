@@ -35,7 +35,7 @@ msgstr "露营时…"
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
 # scripts/events/events/dlc2/corpses_in_forest_event.nut
 msgid "You gain "
-msgstr "你获得了 "
+msgstr "你获得了"
 
 # scripts/events/events/dlc2/dog_in_swamp_event.nut
 # scripts/events/events/dlc2/lucky_finds_something_event.nut
@@ -66,7 +66,7 @@ msgstr "在路上…"
 # scripts/events/events/dlc2/brawl_event.nut
 # scripts/events/events/dlc2/march_wear_and_tear_event.nut
 msgid " suffers light wounds"
-msgstr " 遭受轻伤"
+msgstr "遭受轻伤"
 
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
@@ -145,12 +145,12 @@ msgstr "你让梦魇活下来，以后可能会闹鬼"
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 # scripts/events/events/dlc2/youngling_alp_event.nut
 msgid "%beastslayer%, you're an expert on these things. What say you?"
-msgstr "%beastslayer%，你是这方面的专家。 你怎么说？"
+msgstr "%beastslayer%，你是这方面的专家。 你怎么看？"
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
 # scripts/events/events/dlc2/alp_nightmare1_event.nut
 msgid " has died"
-msgstr " 是死了"
+msgstr "是死了"
 
 # scripts/events/events/dlc2/spooky_forest_event.nut
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
@@ -175,7 +175,7 @@ msgstr "战斗之后…"
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
 # scripts/events/events/dlc2/march_wear_and_tear_event.nut
 msgid "Wait. %streetrat%, you look like you have something to say?"
-msgstr "等等。 %streetrat%，你看起来有话要说？"
+msgstr "Wait. %streetrat%，你看起来有话要说？"
 
 # scripts/events/events/dlc2/spooky_forest_event.nut
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
@@ -207,11 +207,11 @@ msgstr "说得好。"
 
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
 msgid " receives an injury"
-msgstr " 受到损伤"
+msgstr "受到损伤"
 
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
 msgid " is no longer an addict"
-msgstr " 不再是上瘾者了"
+msgstr "不再是上瘾者了"
 
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
 msgid "Get him out of my sight."
@@ -246,7 +246,7 @@ msgstr "很高兴听到。"
 
 # scripts/events/events/dlc2/ailing_recovers_event.nut
 msgid " is no longer ailing"
-msgstr " 不再生病了"
+msgstr "不再生病了"
 
 # scripts/events/events/dlc2/ailing_recovers_event.nut
 msgid "Feels the best he did in a long time"
@@ -613,7 +613,7 @@ msgstr ""
 
 # scripts/events/events/dlc2/fear_beasts_event.nut
 msgid " now fears beasts"
-msgstr " 现在害怕野兽"
+msgstr "现在害怕野兽"
 
 # scripts/events/events/dlc2/fear_beasts_event.nut
 msgid "[img]gfx/ui/events/event_26.png[/img]{%brother% is carving a rabbit into a piece of bark. It's shaping up nicely until he angrily throws the whole thing into the campfire.%SPEECH_ON%Oh who the fark am I kidding? I wish I was out here hunting game! But this ain't game, these are monsters! Creatures of the night! Bullshit, all of it, where'd they even come from? Well I tell you what, I ain't gonna be killed by one of them things! Not a farking chance!%SPEECH_OFF%The rest of the company stares at him as he comes down from the outburst. He quietly watches the rabbit carving churn and burn.}"
@@ -621,7 +621,7 @@ msgstr ""
 
 # scripts/events/events/dlc2/fear_greenskins_event.nut
 msgid " now fears greenskins"
-msgstr " 现在害怕绿皮"
+msgstr "现在害怕绿皮"
 
 # scripts/events/events/dlc2/fear_greenskins_event.nut
 msgid "[img]gfx/ui/events/event_26.png[/img]{%brother% stares at the campfire with his hands bridged between his knees.%SPEECH_ON%Fark, man. I don't know if I can look at a greenskin again. They're so much stronger and faster than us! We, we shouldn't face them again until we got at least, two, no three times as many men!%SPEECH_OFF%You tell the company to keep an eye on him. Fear is justified but spreading it sure as hell ain't.}"
@@ -629,7 +629,7 @@ msgstr ""
 
 # scripts/events/events/dlc2/fear_undead_event.nut
 msgid " now fears the undead"
-msgstr " 现在害怕亡灵"
+msgstr "现在害怕亡灵"
 
 # scripts/events/events/dlc2/fear_undead_event.nut
 msgid "[img]gfx/ui/events/event_26.png[/img]{%brother% looks around at the men around the campfire. He then looks at the ground for a few minutes before exploding.%SPEECH_ON%Am I the only one here who is sane? How is no one else losing their farking minds over the dead walking the earth again? What the hell, where are the old gods in all this, they just farking gonna watch this shitshow?%SPEECH_OFF%The company tries to temper his fears, but he goes back to a ponderous silence of a man with too much to think about and no one willing, or wanting, to truly listen.}"
@@ -637,7 +637,7 @@ msgstr ""
 
 # scripts/events/events/dlc2/gain_addiction_event.nut
 msgid " is now an addict"
-msgstr " 现在是上瘾者"
+msgstr "现在是上瘾者"
 
 # scripts/events/events/dlc2/gain_addiction_event.nut
 msgid "The road takes its toll, but can the men manage?"
@@ -649,7 +649,7 @@ msgstr ""
 
 # scripts/events/events/dlc2/glutton_eats_apple_event.nut
 msgid " is sick"
-msgstr " 是生病了"
+msgstr "是生病了"
 
 # scripts/events/events/dlc2/glutton_eats_apple_event.nut
 msgid "[img]gfx/ui/events/event_18.png[/img]{You come to a commotion between %glutton% the glutton and a bucket. He's heaving into it so hard his back lurches like a cat and his hurls sound like an undead cow giving birth. When he lifts his head his face looks like a gourd, cheeks ballooned, his mouth still all agargle. %otherbrother% comes over.%SPEECH_ON%He ate the witch's apple.%SPEECH_OFF%Raising an eyebrow, you ask the glutton why he would do such a thing. Vomit strings wriggle from his wrist as he wipes his eyes.%SPEECH_ON%{Cause I'm always hungr-hurgh, uh, hungregghhh! | I don't rightfully know sir can't I just be in pain without having to validate my actiiiherrrghh! | Would I have to explain myself if I wasn't losing my gouerrrghhhh! | Cause you told me to eat healthy and it was an apperrrghghh!}%SPEECH_OFF%He pitches his head back into the bucket like a man who dropped a million crowns down a well. You tell the mercenaries to keep an eye on him until it's all out of his system, that is if it ever will be.}"
@@ -657,7 +657,7 @@ msgstr ""
 
 # scripts/events/events/dlc2/hate_greenskins_event.nut
 msgid " now hates greenskins"
-msgstr " 现在憎恨绿皮"
+msgstr "现在憎恨绿皮"
 
 # scripts/events/events/dlc2/hate_greenskins_event.nut
 msgid "%image%{%brother% growls and throws his arms wide like a man overtaken by a primal rage to shed blood.%SPEECH_ON%To hell with those savages! To hell with the greenskins! My life is unfinished so long as they are allowed to walk the same earth as me, my kin, or my children's kin! I will rip their tusks from their mouths, ravage their women, I don't know if they have women, don't know if I'd go near them if they did actually, but I'll ravage something and see to it an annihilation so fierce and thorough the old gods will come to me to borrow a tip!%SPEECH_OFF%}"
@@ -665,7 +665,7 @@ msgstr ""
 
 # scripts/events/events/dlc2/hate_undead_event.nut
 msgid " now hates the undead"
-msgstr " 现在憎恨亡灵"
+msgstr "现在憎恨亡灵"
 
 # scripts/events/events/dlc2/hate_undead_event.nut
 msgid "%image%{%brother% spits and runs his hand under his nose. His face scowls and he seems to be talking to himself as others look on.%SPEECH_ON%The old gods will have our arses if we permit the dead to walk again! You fellas can go to the hereafter thinking you did right in this world, but I ain't following the idle road cause by my sum that road goes straight to the hells. I'll see to it that I meet a righteous end, and I'll see to that by felling every godforsaken undead fark I see!%SPEECH_OFF%}"
@@ -745,7 +745,7 @@ msgstr "干好的。"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid " is repaired"
-msgstr ""
+msgstr "已修复"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "A show's a show."
@@ -753,7 +753,7 @@ msgstr "表演就是表演。"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "No. Run along, kid."
-msgstr "No. 快跑，孩子。"
+msgstr "不！快跑，孩子。"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "Someone help the kid out."
@@ -833,7 +833,7 @@ msgstr "你做的真好。"
 
 # scripts/events/events/dlc2/lose_addiction_event.nut
 msgid " no longer is an addict"
-msgstr " 再也不是上瘾者了"
+msgstr "再也不是上瘾者了"
 
 # scripts/events/events/dlc2/lose_addiction_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{%addict% enters your tent with his hands behind his back in a respective posture. He asks if you have a moment. You nod and he states that he is rid of his tremors and ailments. You ask what he means. He twists his hand above his mouth as though taking a swig.%SPEECH_ON%The potions, sir, I've no longer any overbearing affinity for the things. I'm good. Sound. Quite sound. Ready to fight as the man I am.%SPEECH_OFF%You're not entirely sure what he's driving at. You thought most men took to alcohol, but you've no issue with that. Whatever it is it appears he's bettered it. | You find %addict% sitting on the ground looking at his palms. He's following the grooves with a finger.%SPEECH_ON%I hear you, sir.%SPEECH_OFF%Nodding, you ask what he's up to. He smiles.%SPEECH_ON%Feeling better. Feeling like I don't need to loosen myself with them potions no longer. Feeling myself, I suppose. Ready to kill, as you command, sir, and do it with clarity of mind to know what I'm doing and why.%SPEECH_OFF%Great. You're not sure what that was about but wish him good luck in staying that way.}"
@@ -845,7 +845,7 @@ msgstr "讲得好，讲得好！"
 
 # scripts/events/events/dlc2/lose_fear_beasts_event.nut
 msgid " no longer fears beasts"
-msgstr " 不再害怕野兽"
+msgstr "不再害怕野兽"
 
 # scripts/events/events/dlc2/lose_fear_beasts_event.nut
 msgid "[img]gfx/ui/events/event_26.png[/img]{The company is gathered around the campfire enjoying rest and a meal when %fearful% stands up. Given that everyone else is sitting, he seems to have taken the 'floor' so to speak and uses his newfound privilege.%SPEECH_ON%If men were to be fearful of beasts, then men would be the beasts! But we're the ones with the homes and the fire and the trade and the money! Us! Not them! They sleep where they shit, what are they good for, really?%SPEECH_OFF%Despite the bizarre outburst, a few of the men raise their mugs and give a hearty 'hear hear.'}"
@@ -853,7 +853,7 @@ msgstr ""
 
 # scripts/events/events/dlc2/lose_fear_greenskins_event.nut
 msgid " no longer fears greenskins"
-msgstr " 不再害怕绿皮"
+msgstr "不再害怕绿皮"
 
 # scripts/events/events/dlc2/lose_fear_greenskins_event.nut
 msgid "If it bleeds, we can kill it."
@@ -865,7 +865,7 @@ msgstr ""
 
 # scripts/events/events/dlc2/lose_fear_undead_event.nut
 msgid " no longer fears the undead"
-msgstr " 不再害怕亡灵"
+msgstr "不再害怕亡灵"
 
 # scripts/events/events/dlc2/lose_fear_undead_event.nut
 msgid "This world belongs to the living."
@@ -973,7 +973,7 @@ msgstr "好好休息。"
 
 # scripts/events/events/dlc2/nightowl_catches_thief_event.nut
 msgid " is exhausted"
-msgstr " 是筋疲力尽的"
+msgstr "是筋疲力尽的"
 
 # scripts/events/events/dlc2/nightowl_catches_thief_event.nut
 msgid "Caught a thief at night"
