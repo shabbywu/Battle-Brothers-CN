@@ -41,7 +41,7 @@ msgstr ""
 
 # scripts/events/events/dlc6/location/sunken_library_enter_event.nut
 msgid "You gain "
-msgstr "你获得了 "
+msgstr "你获得了"
 
 # scripts/events/events/dlc6/location/sunken_library_enter_event.nut
 msgid "Perhaps one day..."

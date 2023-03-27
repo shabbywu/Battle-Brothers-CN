@@ -217,7 +217,7 @@ msgstr "[img]gfx/ui/events/event_163.png[/img]{%SPEECH_START%让我们的未来�
 
 # scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
 msgid "You gain "
-msgstr "你获得了 "
+msgstr "你获得了"
 
 # scripts/events/events/dlc6/crisis/holywar_neutral_nomads_event.nut
 msgid "[/color] Crowns"

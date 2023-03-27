@@ -100,7 +100,7 @@ msgstr "的"
 
 # scripts/entity/tactical/actor.nut
 msgid " has died"
-msgstr " 是死了"
+msgstr "是死了"
 
 # scripts/entity/tactical/actor.nut
 msgid " has died."

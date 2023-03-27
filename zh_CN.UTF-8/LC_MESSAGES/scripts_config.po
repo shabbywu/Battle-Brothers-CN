@@ -214,15 +214,15 @@ msgstr "濒死"
 
 # scripts/config/character.nut
 msgid " gets angry"
-msgstr " 生气了"
+msgstr "生气了"
 
 # scripts/config/character.nut
 msgid " gets eager"
-msgstr " 热情洋溢"
+msgstr "热情洋溢"
 
 # scripts/config/character.nut
 msgid " is content"
-msgstr " 是满意的"
+msgstr "是满意的"
 
 # scripts/config/character.nut
 msgid " is fleeing"
@@ -246,7 +246,7 @@ msgstr "不满意"
 
 # scripts/config/character.nut
 msgid " is confident"
-msgstr " 自信了"
+msgstr "自信了"
 
 # scripts/config/character.nut
 msgid "Falling Apart"
@@ -254,7 +254,7 @@ msgstr "四分五裂"
 
 # scripts/config/character.nut
 msgid " gets euphoric"
-msgstr " 精神愉快"
+msgstr "精神愉快"
 
 # scripts/config/character.nut
 msgid "In good spirit"
@@ -270,15 +270,15 @@ msgstr "严重受伤"
 
 # scripts/config/character.nut
 msgid " gets disgruntled"
-msgstr " 不高兴了"
+msgstr "不高兴了"
 
 # scripts/config/character.nut
 msgid " gets dissatisfied"
-msgstr " 不满意了"
+msgstr "不满意了"
 
 # scripts/config/character.nut
 msgid " is in good spirit"
-msgstr " 是精神很好"
+msgstr "是精神很好"
 
 # scripts/config/character.nut
 msgid "'s morale is now steady"

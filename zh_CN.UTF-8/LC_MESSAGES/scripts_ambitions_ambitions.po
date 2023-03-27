@@ -21,7 +21,7 @@ msgstr ""
 # scripts/ambitions/ambitions/defeat_orc_location_ambition.nut
 # scripts/ambitions/ambitions/allied_nobles_ambition.nut
 msgid "You gain "
-msgstr "你获得了 "
+msgstr "你获得了"
 
 # scripts/ambitions/ambitions/ranged_mastery_ambition.nut
 # scripts/ambitions/ambitions/named_item_set_ambition.nut

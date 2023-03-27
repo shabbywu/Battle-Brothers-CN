@@ -23,7 +23,7 @@ msgstr "当你接近时…"
 # scripts/events/events/dlc2/location/fountain_of_youth_event.nut
 # scripts/events/events/dlc2/location/witchhut_destroyed_event.nut
 msgid "You gain "
-msgstr "你获得了 "
+msgstr "你获得了"
 
 # scripts/events/events/dlc2/location/kraken_cult_destroyed_event.nut
 # scripts/events/events/dlc2/location/goblin_city_destroyed_event.nut
@@ -437,7 +437,7 @@ msgstr "是真的吗？"
 
 # scripts/events/events/dlc2/location/golden_goose_event.nut
 msgid "You gain the "
-msgstr "你获得了 "
+msgstr "你获得了"
 
 # scripts/events/events/dlc2/location/golden_goose_event.nut
 msgid "Inspect the stump."

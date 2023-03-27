@@ -33,7 +33,7 @@ msgstr "在路上…"
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
 # scripts/events/events/dlc4/cultist_origin_hood_event.nut
 msgid "You gain "
-msgstr "你获得了 "
+msgstr "你获得了"
 
 # scripts/events/events/dlc4/cultist_origin_armor_event.nut
 # scripts/events/events/dlc4/barbarian_tells_story_event.nut
@@ -102,7 +102,7 @@ msgstr "我们不需要你。"
 # scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
 # scripts/events/events/dlc4/cultist_origin_finale_event.nut
 msgid " has died"
-msgstr " 是死了"
+msgstr "是死了"
 
 # scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
 # scripts/events/events/dlc4/cultist_origin_finale_event.nut
@@ -206,7 +206,7 @@ msgstr ""
 
 # scripts/events/events/dlc4/cultist_origin_finale_event.nut
 msgid "You gain the "
-msgstr "你获得了 "
+msgstr "你获得了"
 
 # scripts/events/events/dlc4/cultist_origin_finale_event.nut
 msgid "Absolutely not!"
@@ -392,7 +392,7 @@ msgstr "达库尔并不想要他。"
 
 # scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
 msgid " has been converted to a Cultist"
-msgstr " 已经转化成了异教徒"
+msgstr "已经转化成了异教徒"
 
 # scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.nut
 msgid "Was denied the chance to convert "
@@ -810,7 +810,7 @@ msgstr "[img]gfx/ui/events/event_20.png[/img]{那人摇了摇头。.%SPEECH_ON%�
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid "[img]gfx/ui/events/event_20.png[/img]{You look at the would-be squire long and hard and then tell him no. He shrugs.%SPEECH_ON%Just so you know, you ain't gotta be alone in this world. Loneliness has no presence. It is not a place. It is not a being. It is action!%SPEECH_OFF%Spitting, you wipe your face and laugh.%SPEECH_ON%Is that what you tell yourself every morning? Get out of here.%SPEECH_OFF%}"
-msgstr "[img]gfx/ui/events/event_20.png[/img]{你久久地注视着那个想要成为扈从的人，然后对他说不。他耸耸肩。%SPEECH_ON%我想让你知道，你在这个世界上并不孤单。 孤独从未存在，它无处可寻，它无形无影，而是一种人生方式！%SPEECH_OFF%你吐了口唾沫，擦了把脸，然后大笑。%SPEECH_ON%你每天早上都是这么对自己说的吗？ 离开这里。%SPEECH_OFF%}"
+msgstr "[img]gfx/ui/events/event_20.png[/img]{你久久地注视着那个想要成为扈从的人，然后对他说不。他耸耸肩。%SPEECH_ON%我想让你知道，你在这个世界上并不孤单。 孤独从未存在，它无处可寻，它无形无影，而是一种人生方式！%SPEECH_OFF%你吐了口唾沫，擦了把脸，然后大笑。%SPEECH_ON%你每天早上都是这么对自己说的吗？离开这里。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid "[img]gfx/ui/events/event_20.png[/img]{The man stands up straight.%SPEECH_ON%I know how to sharpen steel and mend leather. I can disassemble and reassemble heavy and light armors both, no matter how complex or simple, and I can do it fast. If we have a horse.%SPEECH_OFF%You interrupt.%SPEECH_ON%I walk.%SPEECH_OFF%Shifting uneasily on his feet, the man continues.%SPEECH_ON%Alright. Well I can cook. I can cook a fine meal whether I got the ingredients or not. I make do. And. And. That's. That's about it. But I'm willing to learn!%SPEECH_OFF%}"
@@ -994,11 +994,11 @@ msgstr "失踪"
 
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
 msgid " is exhausted"
-msgstr " 是筋疲力尽的"
+msgstr "是筋疲力尽的"
 
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
 msgid " went missing"
-msgstr " 失踪了"
+msgstr "失踪了"
 
 # scripts/events/events/dlc4/wild_dog_sounds_event.nut
 msgid "Just ignore it."

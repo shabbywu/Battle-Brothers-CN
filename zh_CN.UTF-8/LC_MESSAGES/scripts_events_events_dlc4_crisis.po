@@ -12,7 +12,7 @@ msgstr ""
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
 msgid "You gain "
-msgstr "你获得了 "
+msgstr "你获得了"
 
 # scripts/events/events/dlc4/crisis/undead_boy_who_cried_event.nut
 msgid "Very funny."
