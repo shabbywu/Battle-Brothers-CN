@@ -302,7 +302,7 @@ msgstr "动脉断裂"
 
 # scripts/skills/injury/cut_artery_injury.nut
 msgid "]3[/color] hitpoints each turn in combat"
-msgstr ""
+msgstr "]3[/color]生命值(每回合)"
 
 # scripts/skills/injury/cut_artery_injury.nut
 msgid "An artery has been cut, leading to massive hemorrhaging and ultimately death if not treated out of combat. If survived, it is followed by severely lowered constitution due to loss of blood."
@@ -330,7 +330,7 @@ msgstr "]-50%[/color] 生命值"
 
 # scripts/skills/injury/cut_throat_injury.nut
 msgid "]6[/color] hitpoints each turn in combat"
-msgstr ""
+msgstr "]6[/color]生命值(每回合)"
 
 # scripts/skills/injury/cut_throat_injury.nut
 msgid "A vein on the throat has been cut, leading to massive hemorrhaging and ultimately death if not treated out of combat. If survived, it is followed by a period of severely lowered constitution due to loss of blood, and will leave a menacing scar."
@@ -474,7 +474,7 @@ msgstr "一个不洁的伤口已经溃烂，耗尽了这个角色的体质。"
 
 # scripts/skills/injury/inhaled_flames_injury.nut
 msgid "Inhaled Flames"
-msgstr ""
+msgstr "吸入火焰(Inhaled Flames)"
 
 # scripts/skills/injury/inhaled_flames_injury.nut
 msgid "]-2[/color] Action Points"
@@ -502,7 +502,7 @@ msgstr "肩膀上受伤的肌肉使人很难用任何力量进行打击。"
 
 # scripts/skills/injury/injury.nut
 msgid " to "
-msgstr ""
+msgstr "到"
 
 # scripts/skills/injury/injury.nut
 msgid " days"
@@ -510,15 +510,15 @@ msgstr "天"
 
 # scripts/skills/injury/injury.nut
 msgid " (Treated)"
-msgstr ""
+msgstr "（已治疗）"
 
 # scripts/skills/injury/injury.nut
 msgid "Will heal in "
-msgstr ""
+msgstr "将会治愈。"
 
 # scripts/skills/injury/injury.nut
 msgid "Will be gone in "
-msgstr ""
+msgstr "将在"
 
 # scripts/skills/injury/injury.nut
 msgid "Will heal by tomorrow"
@@ -554,7 +554,7 @@ msgstr "手臂肌肉穿孔"
 
 # scripts/skills/injury/pierced_arm_muscles_injury.nut
 msgid "A piercing attack has punctured the arm and injured muscle tissue, limiting its mobility."
-msgstr ""
+msgstr "一次刺击已经刺穿了手臂并且损伤了肌肉组织，限制了它的行动。"
 
 # scripts/skills/injury/pierced_cheek_injury.nut
 msgid "Pierced Cheek"
@@ -638,7 +638,7 @@ msgstr "不舒服"
 
 # scripts/skills/injury/sickness_injury.nut
 msgid " vomits"
-msgstr ""
+msgstr "呕吐了"
 
 # scripts/skills/injury/sickness_injury.nut
 msgid " is now sick"

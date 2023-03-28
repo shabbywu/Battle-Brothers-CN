@@ -5,11 +5,11 @@ msgstr ""
 # scripts/skills/perks/perk_nimble.nut
 # scripts/skills/perks/perk_battle_forged.nut
 msgid "Only receive [color="
-msgstr ""
+msgstr "只接受 [color="
 
 # scripts/skills/perks/perk_battle_forged.nut
 msgid "%[/color] of any damage to armor from attacks"
-msgstr ""
+msgstr "%[/color]护甲伤害(对所有类型的攻击均生效)"
 
 # scripts/skills/perks/perk_battle_forged.nut
 msgid "Specialize in heavy armor! Armor damage taken is reduced by a percentage equal to [color="
@@ -21,11 +21,11 @@ msgstr "]这个角色的盔甲没有足够的保护，无法从战斗锻造特�
 
 # scripts/skills/perks/perk_battle_forged.nut
 msgid "]5%[/color] of the current total armor value of both body and head armor. The heavier your armor and helmet, the more you benefit."
-msgstr ""
+msgstr "]5%[/color]当前身体和头部盔甲总值的护甲值。你的盔甲和头盔越重，受益越大。"
 
 # scripts/skills/perks/perk_fast_adaption.nut
 msgid "%[/color] chance to hit with any attack."
-msgstr "%[/color] 攻击几率。"
+msgstr "%[/color]命中率(对所有类型的攻击均生效)"
 
 # scripts/skills/perks/perk_fast_adaption.nut
 msgid "This character is adapting fast to their opponent's moves and gains an additional [color="
@@ -41,7 +41,7 @@ msgstr "鼓舞人心的存在：战斗开始了！"
 
 # scripts/skills/perks/perk_nimble.nut
 msgid "%[/color] of any damage to hitpoints from attacks"
-msgstr ""
+msgstr "%[/color]生命值伤害(对所有类型的攻击均生效)"
 
 # scripts/skills/perks/perk_nimble.nut
 msgid "]This character's body and head armor are too heavy as to gain any benefit from being nimble[/color]"

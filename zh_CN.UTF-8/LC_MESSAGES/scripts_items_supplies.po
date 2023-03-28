@@ -110,7 +110,7 @@ msgstr "[/color] 天"
 
 # scripts/items/supplies/food_item.nut
 msgid "Will spoil in [color="
-msgstr ""
+msgstr "Will spoil in [color="
 
 # scripts/items/supplies/food_item.nut
 msgid "Bought for [img]gfx/ui/tooltips/money.png[/img]"
@@ -154,7 +154,7 @@ msgstr "克朗"
 
 # scripts/items/supplies/money_item.nut
 msgid "The amount of [color="
-msgstr ""
+msgstr "The amount of [color="
 
 # scripts/items/supplies/money_item.nut
 msgid "[/color] crowns, the currency in these lands. Will be added to your global stock once you're back on the worldmap."

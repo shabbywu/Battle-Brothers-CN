@@ -30,11 +30,11 @@ msgstr "情绪检查"
 
 # scripts/skills/special/mood_check.nut
 msgid "Has a [color="
-msgstr ""
+msgstr "有一个[color="
 
 # scripts/skills/special/mood_check.nut
 msgid "Can only have [color="
-msgstr ""
+msgstr "只能拥有[color="
 
 # scripts/skills/special/mood_check.nut
 msgid "]steady[/color] morale or worse"
@@ -50,15 +50,15 @@ msgstr "]wavering[/color] 士气或更糟"
 
 # scripts/skills/special/mood_check.nut
 msgid "]25%[/color] chance to start battle at confident morale"
-msgstr ""
+msgstr "]25%[/color]的几率以自信的士气开始战斗"
 
 # scripts/skills/special/mood_check.nut
 msgid "]50%[/color] chance to start battle at confident morale"
-msgstr ""
+msgstr "]50%[/color]的几率以自信的士气开始战斗"
 
 # scripts/skills/special/mood_check.nut
 msgid "]75%[/color] chance to start battle at confident morale"
-msgstr ""
+msgstr "]75%[/color]的几率以自信的士气开始战斗"
 
 # scripts/skills/special/mood_check.nut
 msgid "Not uncommon for someone living the hardships of mercenary life, this character isn't quite satisfied and is hoping for things to improve."
@@ -188,7 +188,7 @@ msgstr "我们赢不了！ 这个角色的士气正在崩溃，他很快就要�
 
 # scripts/skills/special/night_effect.nut
 msgid "Nighttime"
-msgstr ""
+msgstr "夜晚(Nighttime)"
 
 # scripts/skills/special/night_effect.nut
 msgid "]-2[/color] Vision"
@@ -228,11 +228,11 @@ msgstr "武器耐久度不佳！"
 
 # scripts/skills/special/weapon_breaking_warning.nut
 msgid "%) and may permanently break if used again."
-msgstr ""
+msgstr "%）如果再次使用可能会永久损坏。"
 
 # scripts/skills/special/weapon_breaking_warning.nut
 msgid "This character's weapon is in poor condition ("
-msgstr ""
+msgstr "这个角色的武器状况很差（"
 
 # scripts/skills/special/weapon_breaking_warning.nut
 msgid "This character's weapon is in poor condition and may permanently break if used again."

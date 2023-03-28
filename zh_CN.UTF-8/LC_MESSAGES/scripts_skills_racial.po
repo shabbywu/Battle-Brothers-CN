@@ -6,18 +6,18 @@ msgstr ""
 # scripts/skills/racial/trickster_god_racial.nut
 # scripts/skills/racial/unhold_racial.nut
 msgid " points"
-msgstr ""
+msgstr "点数"
 
 # scripts/skills/racial/vampire_racial.nut
 # scripts/skills/racial/trickster_god_racial.nut
 # scripts/skills/racial/unhold_racial.nut
 msgid " heals for "
-msgstr ""
+msgstr "治疗量为"
 
 # scripts/skills/racial/spider_racial.nut
 # scripts/skills/racial/goblin_ambusher_racial.nut
 msgid "Poison"
-msgstr ""
+msgstr "毒药(Poison)"
 
 # scripts/skills/racial/spider_racial.nut
 # scripts/skills/racial/goblin_ambusher_racial.nut
@@ -26,32 +26,32 @@ msgstr " 中毒了"
 
 # scripts/skills/racial/champion_racial.nut
 msgid "Champion"
-msgstr ""
+msgstr "队长(Champion)"
 
 # scripts/skills/racial/ghost_racial.nut
 msgid "Incorporeal"
-msgstr ""
+msgstr "非实体的(Incorporeal)"
 
 # scripts/skills/racial/goblin_shaman_racial.nut
 msgid "Shaman"
-msgstr ""
+msgstr "萨满(Shaman)"
 
 # scripts/skills/racial/lindwurm_racial.nut
 msgid "Acid Blood"
-msgstr ""
+msgstr "酸性血液(Acid Blood)"
 
 # scripts/skills/racial/schrat_racial.nut
 msgid "Shielded"
-msgstr ""
+msgstr "被保护的 (Shielded)"
 
 # scripts/skills/racial/skeleton_racial.nut
 msgid "Resistant to Ranged Attacks"
-msgstr ""
+msgstr "抵抗远程攻击"
 
 # scripts/skills/racial/unhold_racial.nut
 msgid "Unhold Passive"
-msgstr ""
+msgstr "巨型野兽被动(Unhold Passive)"
 
 # scripts/skills/racial/vampire_racial.nut
 msgid "Vampire"
-msgstr ""
+msgstr "吸血鬼(Vampire)"

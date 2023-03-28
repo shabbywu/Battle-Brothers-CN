@@ -5,16 +5,16 @@ msgstr ""
 # scripts/states/world_state.nut
 # scripts/states/tactical_state.nut
 msgid "*** DEVELOPER MODE ENABLED ***"
-msgstr ""
+msgstr "***开发者模式已启用***"
 
 # scripts/states/world_state.nut
 # scripts/states/tactical_state.nut
 msgid "*** DEVELOPER MODE DISABLED ***"
-msgstr ""
+msgstr "***开发者模式已禁用***"
 
 # scripts/states/main_menu_state.nut
 msgid "Test"
-msgstr ""
+msgstr "测试(Test)"
 
 # scripts/states/main_menu_state.nut
 msgid "Swipe"
@@ -54,7 +54,7 @@ msgstr "战线（哥布林）"
 
 # scripts/states/main_menu_state.nut
 msgid "Scenario Screen is not fully visible. Be patient!"
-msgstr ""
+msgstr "剧情界面未完全显示，请耐心等待！"
 
 # scripts/states/main_menu_state.nut
 msgid "Load Campaign Screen is not fully visible. Be patient!"
@@ -138,7 +138,7 @@ msgstr ""
 
 # scripts/states/tactical_state.nut
 msgid "win"
-msgstr ""
+msgstr "胜利"
 
 # scripts/states/tactical_state.nut
 msgid "Quit"
@@ -146,7 +146,7 @@ msgstr "退出"
 
 # scripts/states/tactical_state.nut
 msgid "loose"
-msgstr ""
+msgstr "失败"
 
 # scripts/states/tactical_state.nut
 msgid " round"
@@ -190,7 +190,7 @@ msgstr "你确定吗？"
 
 # scripts/states/tactical_state.nut
 msgid "Kill entity: "
-msgstr ""
+msgstr "消灭目标:"
 
 # scripts/states/tactical_state.nut
 msgid "Lost a battle"
@@ -202,7 +202,7 @@ msgstr "退出并退休"
 
 # scripts/states/tactical_state.nut
 msgid "] on target ["
-msgstr ""
+msgstr "] 准确命中 ["
 
 # scripts/states/tactical_state.nut
 msgid "Run them down!"
@@ -214,7 +214,7 @@ msgstr "你战败了, 在"
 
 # scripts/states/tactical_state.nut
 msgid "*** AI PAUSED ***"
-msgstr ""
+msgstr "*** AI 暂停 ***"
 
 # scripts/states/tactical_state.nut
 msgid "Quit to Main Menu"
@@ -222,7 +222,7 @@ msgstr "退出到主菜单"
 
 # scripts/states/tactical_state.nut
 msgid "*** AI RESUMED ***"
-msgstr ""
+msgstr "*** AI已继续运行 ***"
 
 # scripts/states/tactical_state.nut
 msgid "The Enemy Retreats"
@@ -230,7 +230,7 @@ msgstr "敌人撤退了"
 
 # scripts/states/tactical_state.nut
 msgid "] executes skill ["
-msgstr ""
+msgstr "]执行技能 ["
 
 # scripts/states/tactical_state.nut
 msgid "Retreat From Combat"
@@ -258,7 +258,7 @@ msgstr "]无效的目标！[/color]"
 
 # scripts/states/tactical_state.nut
 msgid "INFO: Next round issued: "
-msgstr ""
+msgstr "下一轮已发布："
 
 # scripts/states/tactical_state.nut
 msgid "The enemy retreated after "
@@ -270,23 +270,23 @@ msgstr "敌人被消灭了, 在"
 
 # scripts/states/tactical_state.nut
 msgid "entity is currently travelling!"
-msgstr ""
+msgstr "实体正在旅行中！"
 
 # scripts/states/tactical_state.nut
 msgid "entity is currently executing a skill!"
-msgstr ""
+msgstr "实体正在执行一个技能！"
 
 # scripts/states/tactical_state.nut
 msgid "TurnSequenceBar::setActionStateBySkillId(No Skill selected)"
-msgstr ""
+msgstr "TurnSequenceBar::setActionStateBySkillId(没有选择技能)"
 
 # scripts/states/tactical_state.nut
 msgid "TurnSequenceBar::setActionStateBySkillIndex(No Skill selected)"
-msgstr ""
+msgstr "TurnSequenceBar::setActionStateBySkillIndex(未选择技能)"
 
 # scripts/states/tactical_state.nut
 msgid "TurnSequenceBar::setActionStateBySkillId(No Active Entity | Enemy)"
-msgstr ""
+msgstr "TurnSequenceBar::setActionStateBySkillId（无活跃实体 | 敌人）"
 
 # scripts/states/tactical_state.nut
 msgid ""
@@ -318,11 +318,11 @@ msgstr "一个"
 
 # scripts/states/world_state.nut
 msgid "y: "
-msgstr ""
+msgstr "y: "
 
 # scripts/states/world_state.nut
 msgid "The "
-msgstr ""
+msgstr "这个。"
 
 # scripts/states/world_state.nut
 msgid "Flee!"
@@ -330,7 +330,7 @@ msgstr "逃走！"
 
 # scripts/states/world_state.nut
 msgid "type: "
-msgstr ""
+msgstr "类型："
 
 # scripts/states/world_state.nut
 msgid "Fall back!"
@@ -338,7 +338,7 @@ msgstr "撤退！"
 
 # scripts/states/world_state.nut
 msgid "distance: "
-msgstr ""
+msgstr "距离："
 
 # scripts/states/world_state.nut
 msgid "Attacked them"
@@ -354,23 +354,23 @@ msgstr "防御工事"
 
 # scripts/states/world_state.nut
 msgid "Save version: "
-msgstr ""
+msgstr "保存版本："
 
 # scripts/states/world_state.nut
 msgid "Load campaign: "
-msgstr ""
+msgstr "读取战役："
 
 # scripts/states/world_state.nut
 msgid "Save campaign: "
-msgstr ""
+msgstr "保存战役："
 
 # scripts/states/world_state.nut
 msgid "(Press Spacebar)"
-msgstr ""
+msgstr "（按空格键）"
 
 # scripts/states/world_state.nut
 msgid "Location entered: "
-msgstr ""
+msgstr "位置已输入："
 
 # scripts/states/world_state.nut
 msgid "Old Campaign Loaded"
@@ -378,59 +378,59 @@ msgstr "老战役已加载"
 
 # scripts/states/world_state.nut
 msgid "Clearing World Scene"
-msgstr ""
+msgstr "清理世界场景"
 
 # scripts/states/world_state.nut
 msgid "Fog Of War activated."
-msgstr ""
+msgstr "战争迷雾已激活。"
 
 # scripts/states/world_state.nut
 msgid "Fog Of War deactivated."
-msgstr ""
+msgstr "战争迷雾已解除。"
 
 # scripts/states/world_state.nut
 msgid "World Speed set to x3.0"
-msgstr ""
+msgstr "世界速度设置为x3.0。"
 
 # scripts/states/world_state.nut
 msgid "World Speed set to x4.0"
-msgstr ""
+msgstr "世界速度设置为x4.0。"
 
 # scripts/states/world_state.nut
 msgid "World Speed set to x5.0"
-msgstr ""
+msgstr "世界速度设置为x5.0。"
 
 # scripts/states/world_state.nut
 msgid "World Speed set to x6.0"
-msgstr ""
+msgstr "世界速度设置为x6.0。"
 
 # scripts/states/world_state.nut
 msgid "World Speed set to x7.0"
-msgstr ""
+msgstr "世界速度设置为x7.0。"
 
 # scripts/states/world_state.nut
 msgid "World Speed set to x8.0"
-msgstr ""
+msgstr "世界速度设置为x8.0。"
 
 # scripts/states/world_state.nut
 msgid "World Speed set to x9.0"
-msgstr ""
+msgstr "世界速度设置为x9.0。"
 
 # scripts/states/world_state.nut
 msgid "Player can NOT be attacked."
-msgstr ""
+msgstr "玩家不可被攻击。"
 
 # scripts/states/world_state.nut
 msgid "Player can now be attacked."
-msgstr ""
+msgstr "现在可以攻击玩家。"
 
 # scripts/states/world_state.nut
 msgid "Player is consuming assets."
-msgstr ""
+msgstr "玩家正在消耗资产。"
 
 # scripts/states/world_state.nut
 msgid "Player is NOT consuming assets."
-msgstr ""
+msgstr "玩家没有消耗资产。"
 
 # scripts/states/world_state.nut
 msgid "A band of menacing orcs, greenskinned and towering any man."
