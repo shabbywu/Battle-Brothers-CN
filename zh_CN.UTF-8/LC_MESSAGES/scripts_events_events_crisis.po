@@ -123,7 +123,7 @@ msgstr "救了他们的一些人"
 # scripts/events/events/crisis/civilwar_conscription_event.nut
 # scripts/events/events/crisis/civilwar_trapped_soldiers_event.nut
 msgid "At %town%"
-msgstr ""
+msgstr "在%town%"
 
 # scripts/events/events/crisis/civilwar_deserter_event.nut
 # scripts/events/events/crisis/civilwar_treasurer_event.nut
@@ -399,7 +399,7 @@ msgstr "[img]gfx/ui/events/event_97.png[/img]你碰巧遇到一群孩子在草�
 
 # scripts/events/events/crisis/civilwar_deserter_event.nut
 msgid "the Honorable"
-msgstr ""
+msgstr "尊者(the Honorable)"
 
 # scripts/events/events/crisis/civilwar_deserter_event.nut
 msgid "Free that man!"
@@ -693,7 +693,7 @@ msgstr ""
 
 # scripts/events/events/crisis/civilwar_town_conquered_event.nut
 msgid "Defeated"
-msgstr ""
+msgstr "失败了(Defeated)"
 
 # scripts/events/events/crisis/civilwar_town_conquered_event.nut
 msgid "Conqueror"
@@ -717,7 +717,7 @@ msgstr "这件事做的很好。 "
 
 # scripts/events/events/crisis/civilwar_trapped_soldiers_event.nut
 msgid "Not sure what I expected."
-msgstr ""
+msgstr "不知道我期望什么。"
 
 # scripts/events/events/crisis/civilwar_trapped_soldiers_event.nut
 msgid "Refused to help their men"
@@ -767,6 +767,9 @@ msgid ""
 "\n"
 " You can only grimace as you watch your men cut the peasants down one by one, like strong-armed farmers scything through the freshest of wheat fields. It is a gruesome sight and a few bystanders look on in horror before running off, surely to tell others of what you have done here. The soldiers, conversely, thank your bloodied and gore covered men."
 msgstr ""
+"[img]gfx/ui/events/event_43.png[/img]没有理由让士兵像这样被私刑处置。或者，因为你内心突然拥有了正义感而这么认为。你大声喊道，表明自己是一个中立的第三方，来调解这件事。在礼貌的一秒钟后，农民们更加尖锐和歇斯底里，宣称你们只是来自%noblehouse%更多的士兵。你举起手来解释，然而一场肉搏战爆发了。 \n"
+"\n"
+"你只能面露愁容地看着你的士兵一个接一个地杀死农民，就像强壮的农民在收割着最新鲜的小麦田一样。这是一个可怕的景象，一些旁观者惊恐地看着，然后逃走了，肯定会告诉别人你在这里做了什么。相反，士兵们却感谢你那已经染满鲜血和尸液的士兵们。"
 
 # scripts/events/events/crisis/civilwar_treasurer_event.nut
 msgid "Oh well."
@@ -948,11 +951,11 @@ msgstr "[img]gfx/ui/events/event_59.png[/img]%randombrother% 进入你的帐篷�
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
 msgid "Denied "
-msgstr ""
+msgstr "拒绝 (Denied)"
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
 msgid " a favor"
-msgstr ""
+msgstr "一个恳求/请求"
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
 msgid "Very good."
@@ -976,7 +979,7 @@ msgstr "帮助了 "
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
 msgid "You earn [color="
-msgstr ""
+msgstr "你获得[color="
 
 # scripts/events/events/crisis/greenskins_investigation_event.nut
 msgid "]100[/color] Crowns"

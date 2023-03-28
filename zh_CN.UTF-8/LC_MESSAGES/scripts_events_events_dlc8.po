@@ -233,17 +233,17 @@ msgstr "在路上…"
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "On the road..."
-msgstr ""
+msgstr "在路上..."
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
 msgid " gains "
-msgstr ""
+msgstr "获得了"
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
 # scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
 msgid " gains Iron Lungs"
-msgstr ""
+msgstr "获得铁肺。"
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 # scripts/events/events/dlc8/incense_trade_event.nut
@@ -263,12 +263,12 @@ msgstr "我不这么认为。"
 # scripts/events/events/dlc8/apprentice_vs_oathtaker_event.nut
 # scripts/events/events/dlc8/apprentice_vs_anatomist_event.nut
 msgid " something"
-msgstr ""
+msgstr "某些东西"
 
 # scripts/events/events/dlc8/apprentice_vs_oathtaker_event.nut
 # scripts/events/events/dlc8/apprentice_vs_anatomist_event.nut
 msgid "Has taught "
-msgstr ""
+msgstr "教授了"
 
 # scripts/events/events/dlc8/apprentice_vs_oathtaker_event.nut
 # scripts/events/events/dlc8/apprentice_vs_anatomist_event.nut
@@ -322,30 +322,30 @@ msgstr "欢迎加入。"
 
 # scripts/events/events/dlc8/anatomist_bummed_at_mutations_event.nut
 msgid "Feel better soon, %anatomist%."
-msgstr ""
+msgstr "早日康复，%anatomist%。"
 
 # scripts/events/events/dlc8/anatomist_bummed_at_mutations_event.nut
 msgid "Upset at how his mutations have changed him"
-msgstr ""
+msgstr "因突变而变化的事情令他感到不安。"
 
 # scripts/events/events/dlc8/anatomist_bummed_at_mutations_event.nut
 msgid ""
 "{[img]gfx/ui/events/event_05.png[/img]{%anatomist% is sitting near to the campfire. Almost too close. You pull him back a ways so he doesn't burn himself. He looks up, his face dotted with pustules and slathered in the grease of ones which have already popped.%SPEECH_ON%I'm beginning to wonder if I made a great mistake in drinking that potion.%SPEECH_OFF%He scoots back toward the flames, and there's a sense in his eyes that he wants to pitch himself into it. You can't do much for him, mostly because he looks awfully gross at the moment and you'd rather not touch him again. | You find %anatomist% standing beside the company wagon with a sleeve unfurled and his finger picking at some strange markings there. Curious, you ask if they are birthmarks. The anatomist turns, shaking his head. He lifts up his shirt to show that these markings are all over his body, mottling the flesh with unsightly colors which look rough to the touch, like scabs that cannot be peeled.%SPEECH_ON%The potion I drank did this and I know not what to with myself.%SPEECH_OFF%You nod and tell him it'll surely get better. He sighs and simply lowers his shirt and looks away. | %anatomist% stands over a bucket of water, looking at his darkened reflection in it. He sighs. You ask how he is doing, and he turns to reveal horrific rashes and boils upon his skin.%SPEECH_ON%I am not doing so well, to be honest. The concoction I imbibed seems to have had a gravely ill-effect on me, though I am being perhaps a little giving with my vocabulary there. I will survive, but it has wounded me in ways that are not just of the skin and the body, but of the mind. I thought myself distanced from such matters, but now, seeing my horrible face...I am in a state of perpetual unease.%SPEECH_OFF%You grab his shoulder and give it a squeeze, then pat him on the back and make some recommendations like he should drink some water and of course to not feel bad. You weren't ever that great at consoling other men, much less ones suffering from terrible maladies sprung from scientific madness. | %anatomist% the anatomist is in a despondent state. The potion he made, and was in such a hurry to drink, has resulted in his entire body being overcome with maladies ranging from rashes to boils to what appear to be unusual spasms and plenty of snot from the nose. You assure him that he will get better, but his horrific appearance is taking a toll on him. | The strange concoctions %anatomist% the anatomist has been making, are strange concoctions that he has also been drinking. Unsurprisingly, the effects have not been good: rashes, infections, smells, hair falling out, and more. While on the outside he proclaims that what he is doing is in the name of science, you can tell that all these maladies and disfigurations are debilitating to the man's morale. You can only hope he gets better with time. | Matters of science, which are far outside your understanding, always do seem to come with risks. You remember as a child that your friend took the risk of swinging out on a rope into a river, and by happenstance you all found out just how much weight a branch can hold while in the throes of Fall.\n"
 "\n"
 "Now, it seems %anatomist% the anatomist is finding out the debilitating nature of drinking one of his bizarre potions. He is overwhelmed with rashes and infections, and for some reason he is a siren to ants, who for who knows what reason now love to crawl on him at all hours of day and night. Hopefully, with time, these maladies will depart, and hopefully take the damned ants with them. | You always knew the anatomists to be a bit wrong in the head, but the way they've been creating potions and drinking them has really floored you. Water alone can be poisonous if sipped from the wrong cup, nevermind wholesale concoctions which are distilled in the mire of whatever scientific notions the anatomists are carrying that day. Naturally, it isn't long until one of the eggheads, %anatomist%, falls ill. He is still capable of moving and day-to-day tasks, but the giant warts and leaking pustules makes him a horror to look at, and though he may see himself distanced from society, you've little doubt that walking around looking like a rag that's mopped up pigshite is healthy for the mind and spirit. Hopefully, with a bit of time, he might get better. | %anatomist% isn't necessarily sick from drinking his potions. After all, he is still able to move and get around, and even fight if necessary. But he is certainly affected by said potions in a manner most unsightly. Great boils have appeared on his cheeks, and occasionally his eyes spring from their sockets and he has to push them back in which is something you wished you hadn't seen. Strings of drool come down the corners of his lips and his nostril is home to snails of snot and boogers and blood. As you can imagine, he is rather down about the whole looking uglier than a dead pig carcass-thing, but you've faith that in good time he will get better.}"
-msgstr ""
+msgstr "{[img]gfx/ui/events/event_05.png[/img]{%anatomist%正坐在篝火边，离火堆太近了几乎要烧到自己。你把他拉远一点，他抬起头，满脸都是痘痘，脸上还沾满了那些已经破溃了的油脂。%SPEECH_ON%我开始怀疑自己喝下那剂药水是不是一个巨大的错误。%SPEECH_OFF%他向火堆挪动，目光中有一种想要跳入火中的感觉。你对他的情况无能为力，大概是因为他现在看起来相当恶心，你不想再碰他了。|你在战团的车旁找到%anatomist%，他的袖子已经卷起，他的手指在挑弄一些奇怪的标记。你很好奇，问他是不是先天母斑。解剖学家转过身来，摇头道。他解开上衣，示意身上有了很多这样的印记，肌肉上还斑驳着丑陋的彩色斑点，看上去会有一种不平滑、像是别人剥不下来的疮。%SPEECH_ON%我喝下的那剂药水导致了这些变化，我不知道该怎么办了。%SPEECH_OFF%你点头安慰他，告诉他这些很快会好起来。他叹了口气，简单地放下上衣，不想再看向你。|%anatomist%正在看着他倒映在桶中的黑暗影子。他叹了口气。你问他最近怎么样，他转过身来，露出了皮肤上的恶心的皮疹和脓泡。%SPEECH_ON%说实话，我状态不太好。我饮用的混合物好像对我产生了严重的影响，虽然我这里的表述可能有些夸张。我会活下去的，但这伤害并不仅限于身体，实际上也会影响我的状态。我认为自己保持距离，但现在我看到自己那令人恶心的脸……我一直处在一种不安的状态中。%SPEECH_OFF%你握住他的肩膀，轻轻拍了拍他的背，安慰他并给了他一些建议，比如喝水，当然也让他不要太过担心。你并不擅长安慰别人，更何况是遭受科学疯狂带来的可怕疾病的人。|%anatomist%解剖学家正在沮丧中。他调制的药水，自己急于饮用后，导致他全身被疹和溃疡覆盖。你确信他会好起来，但他恶心的外表太过折磨他了。|%anatomist%制作的奇怪混合物自己也喝了，结果当然不太好：疹子、感染、异味、掉头发等。虽然他坚持认为自己这么做是为了科学，但你们都知道这些疾病和畸形对他的士气产生了严峻的负面影响。希望他能随着时间的推移好起来。|你始终认为解剖学家头脑有些糊涂，但他一边制作奇怪的药水，一边喝下去，实在让你措手不及。即使是从错误的杯子里小口地喝一口水，也可能导致中毒，更不用说像解剖学家们今天研究的那种全面混合物。自然而然，其中一个脑袋，%anatomist%，很快就生病了。他还能动，能进行日常活动，但如此巨大的赘瘤和渗出的脓水毁了他的外观。虽然他对自己与社会的关系保持着一定的距离，但你毫不怀疑散步时看上去像一张拖过猪排的废布对他的身心健康有害。希望他会随着时间的推移好转。|%anatomist%并不是通过饮用药水生病的。毕竟，他还能动，而且即使需要，他也能战斗。但他的皮肤受到了药水的影响，看上去非常丑陋。他的脸上长出了大疣，有时他的眼睛甚至从眼眶中跑出来，需要将其推回去，这是你不想看到的。他的口角下流着口水，鼻孔里爬着蜗牛的鼻涕、鼻屎和血液。你可以想象，他的外貌比死了一只猪的尸体还难看，但你相信他最终一定会好起来。}"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "Stopped "
-msgstr ""
+msgstr "停止了。"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "Damn fool."
-msgstr ""
+msgstr "该死的傻瓜。"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "Thanks, %monk%."
-msgstr ""
+msgstr "谢谢，%monk%。"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "That went well."
@@ -353,110 +353,110 @@ msgstr "一切顺利。"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "Let's get on on the road."
-msgstr ""
+msgstr "我们上路吧。"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "Go on and correct him then."
-msgstr ""
+msgstr "去纠正他吧。"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "Had his medical advice rejected"
-msgstr ""
+msgstr "医疗建议被拒绝了。"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "It's not worth upsetting the locals."
-msgstr ""
+msgstr "不值得惹恼当地人。"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid " from sullying the company's reputation"
-msgstr ""
+msgstr "玷污战团声誉"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "%monk%, can you talk some sense into him?"
-msgstr ""
+msgstr "（队长）%monk%，你能劝劝他吗？"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "Gave medical advice to a receptive audience"
-msgstr ""
+msgstr "向一个愿意接受的听众提供医疗建议。"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "Learned something about dealing with the peasantry"
-msgstr ""
+msgstr "学会了如何处理农民。"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "Was denied the chance to correct improper medical practice"
-msgstr ""
+msgstr "被拒绝纠正不当的医疗行为的机会。"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "[img]gfx/ui/events/event_64.png[/img]{%anatomist% moves to get past you, but you put your hand to him and hold him where he is. You explain that correcting locals on their own customs and beliefs is dangerous ground to trod on, and as a sellsword you're already distrusted and seen in a bad light. The last thing you need is a few embers blown onto the drywood that is villager traditions. The anatomist protests, but you holdfast. If he wants to go around correcting everyone and everything, he can return to the schools or universities from which he came. Eventually, %anatomist% slinks off. You glance back at the town elder just in time to see him bite the head off a frog and pour its blood into a bowl for future divinations.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_64.png[/img]{%anatomist%向你走来，想从你身边穿过去，但你伸手挡住了他。你解释说，纠正当地人的习俗和信仰是危险的，而你作为一个佣兵已经不受信任，被看成是不良分子。你最不需要的就是让村民的传统受到更多的冒犯。解剖学家抗议，但你并不动摇。如果他想要一直去纠正每一个人的一切，他可以回到他来的学校或大学。最终，%anatomist%默默离开。你回头看镇长时，恰好看到他咬下一只青蛙的头并把它的血倒入一个碗中进行未来的占卜。}"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "[img]gfx/ui/events/event_20.png[/img]{You come into %townname% to find a white bearded and eloquent elder helping a family with their ill child. To you, this sight isn't anything unusual. To %anatomist% the anatomist, however, some great offense is at hand. So quick is his walk across the road to the elder that you jump in front of him, sensing that whatever it is he aims to do might reflect poorly on the %companyname% as a whole. %anatomist% stands up straight.%SPEECH_ON%Excuse me, this man is dispensing poor medical advice. He needs to be corrected.%SPEECH_OFF%Mindful of the natives, you warn him that it can be unwise to try and wedge yourself in on local customs, of which an elder is almost assuredly the spearpoint of. He might be and likely is of even greater import as well, such as overseeing the local militia. The anatomist, however, is rather diligent about the task, and seeks to weaponize his own knowledge and use it even if it tears the local politic apart.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_20.png[/img]{你进入%townname%，看到一个白胡子慷慨激昂地帮助一家人治疗他们的生病孩子。对你而言，这情景并不稀奇。但对解剖师%anatomist%而言，这里出现了一些极大的冒犯。他迅速走到路对面的老人身边，你跳到他面前拦住他，感觉他的行为可能会给整个%companyname%带来负面影响。%anatomist%站直了身子。%SPEECH_ON%打扰一下，这个人正在提供错误的医疗建议，我需要纠正他。%SPEECH_OFF%你提醒他要注意本地的风俗习惯，插手这些事情可能会有不智之处，而老人几乎肯定是乡里人的代表。他可能也非常重要，比如监督当地的民兵组织。但解剖师对这个任务非常努力，他想要武装自己的知识并使用它，即使这会撕裂当地的政治局势。}"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid ""
 "[img]gfx/ui/events/event_17.png[/img]{You think it over for a time, and decide to let the anatomist do as he pleases. Stepping aside, you turn to watch the goings on, hoping that this won't be an event to tarnish the %companyname%'s name any more than this quack already seems determined to do. %anatomist% sidles next to the old man and they look at each other for a moment, and a few peasants stare over as well. The anatomist pops a squat and asks the old man if he knows that the information he is giving out is incorrect.\n"
 "\n"
 "Surprisingly, the old man is receptive to the occasion, and the two sit and talk for a long while. Instead of being offended by some outsider's input, the townspeople are equally enthralled by any knowledge he might have. There's some disagreements about trivial matters, but %anatomist% himself is so warmed by the reception that he handwaves them away and even lies and says those matters are still yet to be medically settled. By the time it is all over, the anatomist hands off some notes to the old man, and the village in turn give him a bevy of treats and goods as thanks.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_17.png[/img]{你思考了一会儿，决定让解剖学家按自己的意愿去做。你退到一边，转身看着发生的事情，希望这不会让%companyname%的名声比这个江湖郎中所想象的更糟糕。%anatomist%走到那个老人的身边，他们互相看了一会儿，一些农民也盯着看。解剖学家蹲下来问老人是否知道他所提供的信息是错误的。令人惊讶的是，老人接受了这个机会，两人坐下来交谈了很长时间。镇上的人们并没有被某个局外人的见解所冒犯，他们同样被他所拥有的知识所吸引。虽然有一些琐事上的争议，但解剖学家被他们的热情所感动，他轻描淡写地表示那些问题还有待于医学上的解决。最后，解剖学家把一些笔记交给了老人，村庄也送给他一些甜点和物品以示感谢。}"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "[img]gfx/ui/events/event_40.png[/img]{As %anatomist% tries to move past you, %monk% the monk intervenes. He stands by the anatomist and calmly explains that just because someone is wrong needn't mean that a foreign party step in and correct them. The loss of face in the public's eye is not going to end with the individual being corrected, it will merely bring the light of scrutiny back upon the one doing the criticizing. %anatomist% thinks this over for a time.%SPEECH_ON%Are you telling me that the error here is not in the poor advice being given out, but in the community as a whole being so maligned with falsehoods that an entrance of truth would do not all but stoke a fire to protect what they wrongfully believe?%SPEECH_OFF%The monk purses his lips and shrugs.%SPEECH_ON%Sure.%SPEECH_OFF%The anatomist does not combat it any further and walks off, perhaps mulling over some scientific element to the affair. After he is gone, the monk shakes his head.%SPEECH_ON%I just don't want him being an arse and getting the %companyname% in more trouble than it needs to be.%SPEECH_OFF%You agree, and thank the monk for putting it in better words than you ever could.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_40.png[/img]{当%anatomist%试图移动时，僧侣%monk%介入了。他站在解剖学家身边，平静地解释说，仅仅因为某人错了，并不意味着外国一方必须介入并纠正他们。在公众的眼中，失去面子不会因为被纠正的个人而结束，它只会把批判的光芒再次照回那个批评的人身上。%anatomist%思索了一段时间。%SPEECH_ON%你是在告诉我，这里的错误不在于提供的劣质建议，而在于整个社区被谎言所污染，事实的到来会不会煽动维护错误信仰的热情？%SPEECH_OFF%僧侣皱起嘴唇耸了耸肩。%SPEECH_ON%是的。%SPEECH_OFF%解剖学家没有进一步反驳，走开了，也许还在考虑某些科学要素。他走后，僧侣摇了摇头。%SPEECH_ON%我只是不希望他变成一个混蛋，让%companyname%陷入比必要更多的麻烦中。%SPEECH_OFF%你同意，感谢僧侣用更好的话来表达这个观点，而这比你说的话更恰当。}"
 
 # scripts/events/events/dlc8/anatomist_confronts_healer_event.nut
 msgid "[img]gfx/ui/events/event_141.png[/img]{You think it over for a time, and decide to let the anatomist do as he pleases. Stepping aside, you turn to watch the goings on, hoping that this won't be an event to tarnish the %companyname%'s name any more than these quacks already seem determined to do. %anatomist% sidles next to the old man and they look at each other for a moment, and a few peasants stare over as well. The anatomist pops a squat and asks the old man if he realizes he is a charlatan. You put your head in your hands. The old man stands up and pushes the anatomist backward.%SPEECH_ON%And who the fark are you, huh? A traveler with a toolbox of fancy vocabulary, huh?%SPEECH_OFF%The anatomist holds his hands out and plainly explains himself to be an intelligent, very well educated man from- before he can even finish, a peasant comes over and decks him, knocking him right into the mud. The %companyname% jumps in to save the anatomist and in the scuffle a few more blows are exchanged, but thankfully that's where it ends. You get %anatomist% back into your ranks and order everyone to settle down before the sellswords-side of the %companyname% is drawn out into the open for all the laity to see. The elder nods and says he wishes not to invite the militia to these affairs. It seems everyone barely escaped a far more gruesome affair. %anatomist% only looks at the blood coming out of his nose and ponders if anyone has been counting time to see how long it takes to coagulate.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_141.png[/img]{你思考了一会儿，最终决定让解剖学家随心所欲。你侧步而退，转身观看着这场闹剧，希望这不会让%companyname%的名声变得更糟。%anatomist%走到老人身边，他们对视了一会儿，一些农民也盯着他们看。解剖学家蹲下来问老人是否意识到他是个江湖骗子。你捂着头。老人站起来，把解剖学家向后推了一下。%SPEECH_ON%你到底是哪里来的，又带着一箱子花言巧语，是吧？%SPEECH_OFF% 解剖学家举起手来，试图解释他来自一所受过良好教育的学校，突然之间一个农民走到他身旁，打了他一巴掌，把他打倒在泥里。%companyname%的成员冲上去保护解剖学家，在混战中又交换了几拳，但好在最终没有太大的事端。你让%anatomist%重新加入队伍，并下令大家平静下来，以免把%companyname%卖剑手的一面暴露在观众面前。老人点头表示他不希望把这些事情拿给警卫队看。看来大家勉强避过了更加惨烈的斗争。%anatomist%只是看着鼻子里的血，思考是否有人在计算凝固所需的时间。}"
 
 # scripts/events/events/dlc8/anatomist_creeps_out_locals_event.nut
 msgid "If only he was this happy about mercenary work, too."
-msgstr ""
+msgstr "如果他对雇佣工作也感到如此高兴就好了。"
 
 # scripts/events/events/dlc8/anatomist_creeps_out_locals_event.nut
 msgid "[img]gfx/ui/events/event_43.png[/img]{Despite the noise of the surrounding villagers and their commerce, %anatomist% opens up a book of dissections and starts poring through its contents. While a local peasant might not be able to read the texts, he can absolutely see the disgusting images drawn on the pages: lurid documentation of opened bodies, identifications of body parts the peasant didn't even know he had, and a number of inane symbolism that any layman would use to invite his own devilments. Unsurprisingly, the peasant takes an interest in the anatomist's tome.%SPEECH_ON%So are you some sort of sorcerer or something?%SPEECH_OFF%Smiling, %anatomist% turns and says if the peasant thought that was remotely true, would he ever ask it of him? The peasant leans back.%SPEECH_ON%Oh, so yer a wiseacre, huh? Some smartass with a book for fools.%SPEECH_OFF%%anatomist% watches the peasant turn and leave, then looks at you with a wide grin.%SPEECH_ON%That peasant had a curious bulge on his cheek. He'll be dead within a year. Two if he's unlucky and death is too generous with its time.%SPEECH_OFF% | Taking a break from the road and sellswording, %anatomist% sets down on a stone and opens up one of his books. A few moments into his studies, a little girl approaches, flowers in hand. She hands him one and asks what it is he's reading. The anatomist holds up his book and turns it around. She stares at the grisly drawings of beasts and monsters ripped open and their curious insides churned out. After a pause, she slowly pushes the book down to stare at the anatomist holding it. She says.%SPEECH_ON%I know of a beast you could have.%SPEECH_OFF%You and the anatomist turn a keen ear. The little girl lowers her voice, nearly hissing with childlike conspiracy.%SPEECH_ON%My little brother. He's two, but I swear he forsakes the old gods and the devilry is in him.%SPEECH_OFF%%anatomist% nods dutifully.%SPEECH_ON%But of course. I will put it in my notes to see to this matter, and if I have time I will find the foulness within your kin.%SPEECH_OFF%The little girl thanks the anatomist once more and gives him more flowers for his promised aid. %anatomist% holds the flowers softly, rolling them back and forth as he goes back to his reading, a small smile on his face. You're hoping that the smile is just an indicator that he's bemused by a child, and not that he actually wishes to see to some ungodly boy. | As the company takes a rest, a man stands off at the side of the path, watching curiously. He nods.%SPEECH_ON%You lot have the stench of death about you, but I can't say I'd take ye for butcherers or executioners. Yer something else entire.%SPEECH_OFF%Without missing a beat, %anatomist% steps up and eyes the man, getting right up in his face, and the man leans away, but doesn't retreat. The anatomist's lost gaze ends with a dutiful nod.%SPEECH_ON%You are right, we do carry a stench, as do you. Ours is a matter of science, yours a matter of disease. And yours, hmm, yes, yours is a hint of the pox. Lemme see your feet.%SPEECH_OFF%The peasant nervously declines the request. He steps back as the anatomist hunts forward, fingers clambering like a spider, his eyes wide. The man eventually screams and runs off. %anatomist% turns around with a smile.%SPEECH_ON%What a curious subject, that man. I believe he was very, very ill, but he does not yet know it. Oh well.%SPEECH_OFF% | You come across an open-air wagon carrying a casket, its pathing trailed by a retinue of mourners. %anatomist% steps out from the company and inquires about the death of the individual. They said it was from a beast's strike. Curious, the anatomist inquires what sort of beast would be capable killing a man. The people look at one another before opening the coffin to reveal a man with a small scratch across his cheek. The wound had long since turned dark purple with veins of green and other disturbing discoloration, evidence that his demise was one of being stricken. One of the peasants looks up.%SPEECH_ON%It was his housecat that did it. Nicked him right there, and he paid little mind to it, then the colors went out and wandered his flesh until he was dead within two nights.%SPEECH_OFF%The anatomist shares some words with the mourners then returns to you. He sighs.%SPEECH_ON%T'was a simple blighting. All he needed to do was clean the cut. Unfortunate, though I am happy that my learnings are giving me real world insights, even if it is too late to apply them.%SPEECH_OFF%You ask what came of the cat. The anatomist nods and says it was in the coffin with its victim, the feline 'beast' tucked there seemingly unawares of its final destination.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_43.png[/img]{尽管周围村民和商贩的喧闹声不断，%anatomist%(解剖学家)却翻开了一本解剖学的书籍，专注地阅读内容。尽管当地的农民可能看不懂这些文字，但他却可以看到页面上画的恶心图片：揭开身体内部的细节、标识身体部位。这些似乎是百姓无法理解的符号，甚至可能导致自己的灾难。毫不奇怪，农民对解剖学家的书产生了兴趣。%SPEECH_ON%于是，你是一名巫师之类的吗？%SPEECH_OFF%%anatomist%微笑着转过身来，呼之欲出地说，如果农民认为这是真的，他是否会问他呢？农民后退了几步。%SPEECH_ON%哦，所以你是一个聪明人？手里有一本愚人的书？%SPEECH_OFF%%anatomist%看着农民转身离去，然后转过头，面带微笑地看着你。%SPEECH_ON%那个农民脸上有个奇怪的包块。他一年内就会死。如果他不走运，那就是两年。%SPEECH_OFF%| %anatomist%暂停了旅程和佣兵生涯，坐在石头上打开一本书。几分钟后，一个小女孩拿着鲜花走了过来。她递过来一朵花，并问他在读什么。解剖学家抬起书，把它转了一圈。她瞪着野兽和怪物被撕开的可怕图画，以及他们奇特的内脏。停顿了一下，她慢慢地把书推下来，盯着解剖学家。她说。%SPEECH_ON%我知道有一个你可以做的野兽。%SPEECH_OFF%你和解剖学家的耳朵一起变得尖锐。小女孩压低了声音，像个幼小的阴谋家般地轻声说道。%SPEECH_ON%我小弟弟，他两岁，但是我发誓他放弃了旧的信仰，魔鬼进入了他的身体。%SPEECH_OFF%%anatomist%听了以后，很有水平地点了点头。%SPEECH_ON%当然，我会在我的笔记里记录下来，如果有时间我会把那种恶心的东西从你的亲戚身上剜出来。%SPEECH_OFF%小女孩再次感谢解剖学家，并为他的承诺给了他更多的花。%anatomist%轻轻地拿花，左右摆动着，回到了他的阅读中，脸上挂着微笑。你希望他的微笑只是因为他被一个小孩所迷惑，而不是他真的希望看到一些邪恶的母猪。|当战团休息的时候，一个人站在路边观察，好奇地注视着。他点头示意。%SPEECH_ON%你们这群人有着死亡的气息，但我不能说你们是屠夫或行刑者。你们是其他的东西。%SPEECH_OFF%毫不迟疑，%anatomist%走到前面，用目光盯着那个人，把他的脸贴了上去，那个人向后倾斜，但没有退缩。解剖学家失神的目光以一个应该的点头结束。%SPEECH_ON%你是对的，我们确实有恶臭，你也有。我们的问题是科学问题，你们的问题是疾病问题。而你的问题，嗯，你的问题是染病的迹象。让我看看你的脚。%SPEECH_OFF%农民紧张地拒绝了这个请求。他后退时，解剖学家向前走去，手指像蜘蛛一样爬动，他的眼睛睁得大大的，那人最终尖叫着逃走。%anatomist%转过头来微笑着说。%SPEECH_ON%多么奇怪的一个研究对象。我相信他非常,非常的生病，但他还没有意识到。没关系。%SPEECH_OFF% |你看到一个摆放着一个棺材的开放马车，它的后面是一群哀悼的人。%anatomist%从战团中走出来，询问有关该个体死亡的情况。他们说是被野兽击杀的。解剖学家好奇地问，是什么样的野兽能杀死一个人。人们相互看了看，然后打开棺材，里面躺着一个带着小伤疤的男人。伤口早已变成了深紫色，还有绿色和其他令人不安的色斑，证明他的死是因被攻击致死。其中一个农民抬起头来。%SPEECH_ON%是他的家猫干的。他立刻不再关注了，然后颜色消失了，并漫游在他的肉体中，直到他在两个晚上之内死去。%SPEECH_OFF%解剖学家与哀悼者分享了一些话，然后回到了你身边。他叹了口气。%SPEECH_ON%这只是一个简单的写照。他只需要清洗一下伤口就可以了。不幸的是，尽管我很高兴我的研究成果能给我带来现实世界的启示，但现在来应用似乎已经太晚了。%SPEECH_OFF%你问猫的情况如何。解剖学家点点头，说它和它的受害者一起躺在棺材里，那只猫作为一个看似不知道自己最终命运的“野兽”将其藏在那里。}"
 
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid "Easy enough."
-msgstr ""
+msgstr "很容易。"
 
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid "Let's go get it."
-msgstr ""
+msgstr "我们去取它。"
 
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid "At least we got the armor."
-msgstr ""
+msgstr "至少我们得到了盔甲。"
 
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid "Next time I'll listen to my intuition."
-msgstr ""
+msgstr "下次我会听我的直觉。"
 
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid "Saw the decaying remains of an old friend"
-msgstr ""
+msgstr "看到了一位老朋友腐烂的遗骸。"
 
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid "Got to study an interesting wound up close"
-msgstr ""
+msgstr "得近距离观察一个有趣的伤口"
 
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid "Got to examine the corpse of a heroic knight"
-msgstr ""
+msgstr "得检查一下一位英勇骑士的尸体。"
 
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid "You can also learn to bend with your knees, chop chop."
-msgstr ""
+msgstr "你也可以学着用膝盖弯曲，砍砍。"
 
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid "Was denied the opportunity to examine a promising corpse"
-msgstr ""
+msgstr "被拒绝了检查一具有潜力的尸体的机会。"
 
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid "[img]gfx/ui/events/event_75.png[/img]{%anatomist% the anatomist spots something gleaming a little ways off the main path. You walk over and take a look. There's something dark and metallic in the distance. Perhaps a knight's corpse? Though it would make you wonder how he got there by himself. %anatomist% ponders aloud if perhaps something could be learned from the body of presumably great martial prowess. You shake your head.%SPEECH_ON%Knights rarely die alone, and if they do they sure as shite don't keep their armor with them. It smells like a trap through and through.%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_75.png[/img]{%解剖师%解剖师发现主路旁边有一些闪光。你走过去看看，远处有些黑色的金属光。也许是骑士的尸体？但这会让你想知道他是如何独自到达那里的。%解剖师%大声思考，也许从这位很有武艺的尸体上可以学到一些东西。你摇了摇头。%SPEECH_ON%骑士很少自己死去，如果他们这样做了，他们肯定不会带着他们的盔甲。这简直是个陷阱。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid ""
@@ -464,10 +464,13 @@ msgid ""
 "\n"
 "You gather the man up and drag him back to the wagon, arrows landing in the ground around you, tufts of dirt thrown over your boots, until they start hitting the wagon itself. Gathering up the company for a counter-attack, you see the would-be ambushers think better of their chances and run off, a few of them carrying the knight's armor with them. As you thought, the whole thing was a brigandine honeypot. %anatomist% will live, thankfully, and he's already writing in his book about the experience or perhaps, judging by his fascination with the arrow sticking out of him, writing about his grisly wound.}"
 msgstr ""
+"[img]gfx/ui/events/event_21.png[/img]{你决定去看一看。当你穿过看似开阔的平原时，你感到有人在注视着你。所有这些都感觉不对劲。中途，你转身对%anatomist%说是时候折回去了。他摇了摇头说，既然来到这里就不要轻易放弃。在你回答之前，一支箭从你耳边掠过，解剖学家倒在地上抓住肩膀。\n"
+"\n"
+"你将他扶起，拖回到马车上。箭矢落在你周围的地上，尘土飞扬，直到他们开始击中马车。集结队伍进行反击，你看到这些伏击者对比起来更好的机会，开始逃跑，其中几个拿着骑士的盔甲。正如你所预料的，整个事情都是个陷阱。%anatomist%还活着，谢天谢地，他已经在他的书中写下了这次经历，或者根据他对箭伤的着迷，写下了关于他惨痛伤口的经历。}"
 
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid "[img]gfx/ui/events/event_46.png[/img]{Against your better judgment you go and take a look. You feel quite naked walking across the open ground to the knight, like a thief who steals by reaching all the way across the aisle. When you get to the knight, you pause and look around. No movement in the land around you. No bandits firing off a trap. No wolfpack finding its prey. You shrug and look down. The man is covered in decent armor and carrying a nice, albeit used sword. His face is dried out and the eyes gone. Dry birdshit crusts on the scuff of his chest armor. You order %anatomist% to get him out of the armor and carry it all back the wagon.%SPEECH_ON%What? Why do I have to do it?%SPEECH_OFF%You tell him if he wants to study the body, then the price is he has to strip it down in the first place. Walking off, you tell him that when he puts it in the inventory to make sure to not crush any of the foodstuffs cause that armor does look a bit heavy. Also be sure to clean the bird shit off, too. %anatomist% sighs, but he's still happy to have access to the corpse of one 'hero.' You sometimes wonder what the anatomist would do if he found you dead like this...}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_46.png[/img]{不顾自己的判断，你走过去看看。穿过敞开的地面走向骑士时，你感到很暴露，就像一个贼从过道里一直摸到那边的货架上。当你来到骑士跟前，你停下来四处张望。你周围的土地上没有任何活动。没有强盗把陷阱放开。没有狼群找到它们的猎物。你耸了耸肩，低下头。这个人穿着体面的盔甲，拿着一把好看但用旧了的剑。他的脸干燥，眼睛已经没了。他胸甲上的鸟粪结痂了。 你命令%anatomist%把他从盔甲里解放出来，把所有东西都拿回马车上。%SPEECH_ON%什么？为什么是我？%SPEECH_OFF%你告诉他，如果他想研究这具尸体，那么代价就是必须首先剥去它的盔甲。离开时，你告诉他，当他把它放在清单里时，一定要小心不要压坏任何食物，因为那套盔甲看起来有点沉。还要确保清除鸟粪。%anatomist%叹了口气，但他仍然很高兴能接触到一个“英雄”的尸体。有时你会想，如果解剖学家像这样发现你死了，他会怎么做...}"
 
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid ""
@@ -475,6 +478,9 @@ msgid ""
 "\n"
 "Surprisingly, %noble% comes along, the man of noble background seeming to recognize the pile of armor itself. Indeed, as you get close he exclaims that it is a good friend of his from days gone by. You nod solemnly, but still say that the armor would be best used with the company instead of just wasting away here on the ground. The man nods.%SPEECH_ON%I think he would prefer the same. I'll get it off him.%SPEECH_OFF%Before he begins, %noble% turns to %anatomist% and tells him that he better not even dare to touch his friend. You go back to the wagon with the anatomist, who you've given the duty of carrying the armor itself. The now sweaty anatomist is upset that he did not get a chance to see the corpse, and %noble% is noticeably upset that the corpse itself was a good friend. All in all, it seems this damn dead man has caused more grief than he was possibly worth.}"
 msgstr ""
+"[img]gfx/ui/events/event_78.png[/img]{你去了一堆盔甲那里，希望这并不像看起来的那样是个陷阱。%anatomist%几乎跟在你身边，他的眼睛默默地吞噬着那些前景的“科学”，手里拿着一本书正在狂热地写着。\n"
+"\n"
+"出乎意料的是，%noble%也来了，这位高贵血统的男子似乎认出了这堆盔甲本身。确实，当你们靠近时，他惊呼着说这是他从过去的日子里认识的好朋友。你郑重地点了点头，但仍然说这些盔甲最好与战团一起使用，而不是在这里荒废。这位男子点了点头。%SPEECH_ON%我想他会同意的。我会把它从他身上取下来。%SPEECH_OFF%在他开始之前，%noble%转向%anatomist%，告诉他最好不要碰他的朋友。你回到马车上，让解剖学家负责运送这些盔甲。现在已经出汗的解剖学家很难过，因为他没有机会看到尸体，而%noble%显然很难过，因为尸体本身是他的好朋友。总的来说，这个该死的死人所引起的痛苦可能比他本身值得的还要多。}"
 
 # scripts/events/events/dlc8/anatomist_dead_knight_event.nut
 msgid ""
@@ -482,42 +488,45 @@ msgid ""
 "\n"
 "The black knight pushes itself up off the ground, its gauntlets falling away to reveal pale flesh beneath. It turns to look at you and there's a slight hue of red glowing somewhere in that frothing helm. You slash the sword down and the creature's head falls free, clanking against the ground as air sputters out of its neckholes. Sheathing your sword, you tell %anatomist% that if he wants something to study, well, there it is.%SPEECH_ON%Also be sure to carry its armor back to the wagon. Make sure to use your legs when you bend, don't want you hurting your back or anything.%SPEECH_OFF%You walk past the anatomist. He stares, gobsmacked, then closes his mouth and pulls out a quill pen and some scrolls. His fear is put behind him, and his usual self comes to the fore.%SPEECH_ON%A fresh specimen, up close, recently deceased, or perhaps it is re-deceased? Either way...we can learn so much from this.%SPEECH_OFF%}"
 msgstr ""
+"[img]gfx/ui/events/event_184.png[/img]{尽管你内心觉得不妙，还是走过去仔细看了看。你感觉自己在赤裸裸的开阔地上走过去，就像一个窃贼在过道上伸手偷窃。走近尸体，你回头问解剖学家%anatomist%他对这具尸体的计划是什么。你看到解剖学家僵硬地站在那里，头仰向后，眼睛睁开，一只紧张而瑟瑟发抖的手指向前。当你回头看尸体时，它开始动了，缓慢地从地上起来，呻吟着，嘶嘶作响。头盔从缝隙处流出污物。你拔出剑。\n"
+"\n"
+"黑骑士从地上爬了起来，它的手套破碎，露出皮肤。它转过身来看着你，那把泡沫般的头盔里有一点微红的光。你猛然一剑，生物的头颅掉在了地上，空气从脖子的洞里喷出。你将剑收起来，告诉%anatomist%如果他想研究什么，那么，就是那个了%SPEECH_ON%另外也把它的盔甲放到车上。弯腰时要用你的腿，不要弄伤你的后背或其他任何地方。%SPEECH_OFF%你走过解剖学家的身边。他怔住了，然后合上嘴巴，拿出了一支羽毛笔和一些卷轴。他的恐惧被抛到了脑后，他的自然状态又恢复过来了。%SPEECH_ON%一个新鲜的标本，近距离的观察，最近死亡的，或者说是死而复生的？无论哪种情况......我们可以从中学到很多东西。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc8/anatomist_demonology_book_event.nut
 msgid "Can't believe everything you read."
-msgstr ""
+msgstr "不要轻信你看到的一切。"
 
 # scripts/events/events/dlc8/anatomist_demonology_book_event.nut
 msgid "Wasted time reading a sham demonology book"
-msgstr ""
+msgstr "浪费时间读假魔法书。"
 
 # scripts/events/events/dlc8/anatomist_demonology_book_event.nut
 msgid "You helped him realize his demonology book was a farce"
-msgstr ""
+msgstr "你帮助他意识到他的恶魔学著作是个骗局。"
 
 # scripts/events/events/dlc8/anatomist_demonology_book_event.nut
 msgid "[img]gfx/ui/events/event_184.png[/img]{You find %anatomist% scouring a red book. He closes the book and sighs.%SPEECH_ON%As an anatomist, I am compelled to think that monsters, as you laymen would call them, do not merely appear for the sake of appearance. Instead, everything has a purpose. In a sense, and through the old gods, we can trust that these elements have in actuality a divine purpose. Yet, some of my peers have found bones of creatures that have not once been seen in the flesh. It appears that these entities have disappeared entirely. It begs the question: does such evidence entail that we, ourselves, will one day disappear? An affirmative on that front suggests, then, that the divinities above are not actually weighing their visions in our favor. We walk under the gaze of mere happenstance. A terrible thought, indeed.%SPEECH_OFF%Curious, you ask what these mysterious monsters looked like. The anatomist opens the red book and shows you a drawing.%SPEECH_ON%They are quite similar to humans, but larger with implied bulkiness around the neck and shoulders. The skulls carry these notches, similar to that of horns, and the spinal columns have extra vertebrae with three of them near the top broadening out, as if they were holding onto something, something that would extend far from the body. See? Here? The back is almost like a bony mantle.%SPEECH_OFF%Interesting. You ask the anatomist if he's seen one of these skeletons for himself, and he says no. He says he's only seen it in the text. You ask if he paid for this text and he says he did. You ask him if perhaps the notion of old, bizarre monsters was but a mere sales pitch to get him to buy a book of bullshit. The anatomist ponders for a time. He nods and agrees that it is likely that he has purchased a spoof. He grows angrier by the second and suddenly throws the tome into the campfire, pledging himself to more earthly studies going forward. He thanks you for your ability to cut through the nonsense and eminence fronts this world puts on.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_184.png[/img]{你发现%anatomist%正在翻阅一本红色的书。他合上书本叹了口气。%SPEECH_ON%作为一名解剖学家，我必须认为怪物，就如你们这些俗人所称呼的，不会仅仅出现而已。相反，每一件事都有其目的。在某种程度上，通过古老的神灵，我们能够相信这些元素在实际上有一种神圣的目的。然而，我的一些同行却发现了从未以肉眼见过的生物的骨骼。看来这些实体已经完全消失了。这引发了一个问题：这种证据意味着我们自己也将有一天消失吗？在这个问题上肯定，那么，上方的神灵实际上并没有在我们的利益上权衡他们的愿景。我们在偶然的注视下行走。这真是个可怕的想法。%SPEECH_OFF%你好奇地问这些神秘的怪物长什么样子。解剖学家打开红色的书展示了一幅图画。%SPEECH_ON%它们和人类非常相似，但是颈部和肩膀周围的肌肉更加壮实。头骨上有与角类相似的凹槽，脊柱上有额外的椎骨，其中三个靠近上部扩展开来，好像它们正紧紧抓住什么东西，这件事情会从身体上延伸得很远。你看到了吗？在这里？背部几乎像是一片骨质的披风。%SPEECH_OFF%有趣。你问解剖学家是否亲眼见过这些骨骼，他说没有。他说他只在书本上看到过。你问他是否为这本书付费，他说是。你问他是否老旧、奇怪的怪物观念只是一个促销噱头，以获得他购买这本无用之书。解剖学家考虑了一会儿，点了点头，同意这很可能是一本恶搞书。他变得越来越生气，突然就将这本书扔进了篝火里，并誓言未来要致力于更务实的研究。他感谢你能够辨别出这个世界上所谓的庸人自扰和卓越立场。}"
 
 # scripts/events/events/dlc8/anatomist_dissects_beetles_event.nut
 msgid "Fascinated with beetles"
-msgstr ""
+msgstr "迷恋甲虫。"
 
 # scripts/events/events/dlc8/anatomist_dissects_beetles_event.nut
 msgid "I need to start sleeping with a helmet on."
-msgstr ""
+msgstr "我得开始戴头盔睡觉了。"
 
 # scripts/events/events/dlc8/anatomist_dissects_beetles_event.nut
 msgid "[img]gfx/ui/events/event_184.png[/img]{You find %anatomist% crouching over a piece of log. He's got a trio of beetles laid out. One has a needle pinning it to the wood, its little legs pedaling haplessly in the air. Another is nothing but a bodied husk, its legs removed and set beside it. The last is in a small tin of water with a stone weighing it down. %anatomist% shakes his head.%SPEECH_ON%The duress these creatures can undergo is quite impressive. Physical damage does not allude to destruction as it does with us. Take these three, for example: pierced, dismembered, and drowning. Yet they all live. The efficiency is something else, wouldn't you agree?%SPEECH_OFF%Sure. You ask him where he even got all those beetles. He shrugs.%SPEECH_ON%They crawl all over us when we're sleeping. I just happen to stay up to catch them in the act. This underwater one, for example, I caught pecking at your ear opening.%SPEECH_OFF%You tell him to continue his research and to capture as many beetles as he can.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_184.png[/img]{你发现%anatomist%蹲在一块木头上。他将三只甲虫排列在那里。其中一只被针刺在木头上，它的小腿无助地蹬着。另一只只剩下一个身体壳，它的腿被割去并放在它旁边。最后一只在一小罐水中，上面压着一块石头。%anatomist%摇了摇头。%SPEECH_ON%这些生物所能承受的压力是相当惊人的。身体上的损伤并不像我们一样意味着毁灭。以这三个为例:穿刺，肢解和淹水。但它们都还活着。效率是非常高的，你不同意吗？%SPEECH_OFF%当然。你问他从哪里弄来那些甲虫。他耸了耸肩。%SPEECH_ON%我们睡觉时它们正爬满我们全身。我只是碰巧熬夜抓到了一些。比如这只浸水的，在你的耳朵上啄啄啄时，我就抓住了它。%SPEECH_OFF%你告诉他继续他的研究，并尽可能多地捕捉甲虫。}"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid " has suffered"
-msgstr ""
+msgstr "受到了影响。"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "Your relation to "
-msgstr ""
+msgstr "你与"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "]+150[/color] Experience"
@@ -525,15 +534,15 @@ msgstr "]+150[/color] 经验值"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "No digging up graves today."
-msgstr ""
+msgstr "今天不准挖墓。"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "Alright, let's go dig it up."
-msgstr ""
+msgstr "好的，让我们去挖它。"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "The shit they get me into..."
-msgstr ""
+msgstr "他们把我引入了一些麻烦之中……"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "Gross. Let's get out of here."
@@ -541,39 +550,39 @@ msgstr "恶心。 让我们离开这里。"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "Got to examine a hero's cadaver"
-msgstr ""
+msgstr "需要检查一位英雄的尸体。"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "%graver%, what are you doing here?"
-msgstr ""
+msgstr "（%graver%），你在这里干嘛？"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "Put his grave-exhuming skills to use"
-msgstr ""
+msgstr "运用他挖墓的技能。"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "Your company was caught graverobbing"
-msgstr ""
+msgstr "你的战团因盗墓被捕。"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "Was unable to exhume an unusual corpse"
-msgstr ""
+msgstr "无法挖掘出一具不寻常的尸体"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "Got to examine a hero's unusual cadaver"
-msgstr ""
+msgstr "得检查一位英雄不寻常的尸体。"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "Was misled about the peculiarities of said cadaver"
-msgstr ""
+msgstr "被误导了关于该具尸体的特殊之处"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "[img]gfx/ui/events/event_20.png[/img]{While in %townname%, you get wind of a local hero who had been recently buried. To you, this is idle news. The man probably wasn't even a hero if you compare him to anything above the level of rat-killer, so you pay it little mind. Naturally, the anatomists are of a different sort, and take to the news like flies to a cadaver's arse. They're propositioning that the company dig up this hero's corpse so that they might see by its shape and make what differentiates this 'heroic element' from the ordinary man. %anatomist% explains.%SPEECH_ON%A hero's corpse is not just another corpse. It is invigorated with something else entire, some alluring drive which separates it from the rest of us.%SPEECH_OFF%Having seen your fair share in life, you assure the anatomists that the corpse will look very much like any other. They're quite fervent about stealing a look, though, even if it offends the masses.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_20.png[/img]{你在%townname%听到一个当地的英雄最近去世了的消息。对你来说，这只是一条无聊的消息。如果你把他与级别高于捕鼠人的人物比较，那这个人或许甚至不是一个英雄，所以你并没有在意。当然，解剖学家们是另一种类型的人，他们像苍蝇闻到尸体味一样迅速，开始计划去掘开这位英雄的尸体，看看是什么让这位“英雄元素”不同于普通人。%anatomist%解释道。%SPEECH_ON% 英雄的尸体不仅仅是另一个尸体。它浸染着某种完全不同的东西，一种独特的动力让它与我们其他人不同。%SPEECH_OFF% 你见识过很多事情，所以你向解剖学家保证这具尸体看起来与其他任何尸体都差不多。但他们非常热衷于窥探一眼，即使这会冒犯民众。}"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid "[img]gfx/ui/events/event_46.png[/img]{%graver% is suddenly at your side. The graveyard familiar stakes a filthy thumb into his chest.%SPEECH_ON%Wanna dig up a corpse? I'm yer man.%SPEECH_OFF%With his expertise on hand, you decide to go along with the anatomists' dire plans. You find the graveyard and set across it in search of the hero's grave. The whole place is a pauper's lot, but you eventually find a marking covered in fresh flowers and other adornments which the men gracelessly stomp and kick away. The groundwork is soon started and with %graver% on hand the body is dug up in incredible speed. The anatomists set to work on the corpse, hunched over it and murmuring to one another, their curled, cloaked forms like buzzards. %graver% meanwhile roots around in the grave itself before coming up with a weapon that had been tucked into a corner. It's a nice find, all things considered, and almost makes this series of events worth it. You turn around to see the anatomists kick the body back into the grave, its limbs coming out of shape and flopping stiffly every which way as the hero's face comes to a rest, eyes open, staring into the disturbed soil where the worms are out and prodding air. Everyone having gotten what they needed, you soon depart the place before the locals show up and lynch you to the last.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_46.png[/img]{%graver% 突然来到你身边，墓地守护者把一个肮脏的拇指压在他的胸口上。%SPEECH_ON%想挖掘尸体吗？我是你的人。%SPEECH_OFF%有了他的专业知识，你决定跟随解剖学家可怕的计划。你找到了墓地，并开始寻找英雄的坟墓。整个地方都是穷人区，但你最终找到了一个带有鲜花和装饰的标记，而这些人劣等地践踏和踢飞了这些鲜花。很快就开始了地基的工作，有了 %graver% 的帮助，尸体被挖掘出来，速度惊人。解剖学家们开始对这具尸体进行工作，在尸体上弯腰低头，私语细语，他们卷曲、披着斗篷的姿态像秃鹫一样。%graver% 在这个坟墓中四处搜索，并在一个角落里找到了一件武器。考虑到所有的事情，这是一个不错的发现，几乎让所有的事情都值得。当你转身看着解剖学家把尸体踢回坟墓里时，英雄的脸死死的盯着这个扰乱土地的地方，眼睛睁开了。每个人都得到了自己需要的东西，你很快离开这个地方，以免当地人出现并把你追杀到底。}"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid ""
@@ -581,6 +590,9 @@ msgid ""
 "\n"
 "You find such a named grave and begin the digging, but by the time you get down to the bottom of it you just find a dead cat, curled up and grey and decrepit with more worms than fur. As the anatomists hold it up, a shout shoots in from the treeline. You turn to see a young boy there crying and pointing. Before you can grab him, he turns and runs off shouting rather descriptive prose about your ill-designed venture. In return come the murmurs of the mob, and their words are lost in a frenzy, but you can still make out the name of the %companyname% and the racket a bevy of pitchforks make when they're clattering together. You turn to tell the anatomists to quit the digging only to see they're already halfway out of the graveyard and running for their lives. Cursing, you join them in the dishonorable retreat and cut out from town altogether.}"
 msgstr ""
+"[img]gfx/ui/events/event_141.png[/img]{经过一番讨价还价，解剖学家击破你微薄的防线，你同意前去墓地取回当地英雄的尸体。在你向墓地踱步的过程中，他们像一群毫无意义的孩子一样进行了大量的潜行和偷偷摸摸。你到达墓地，询问他们是否知道英雄的名字。%anatomist%说他认为是个讽刺的名字，名叫莫蒂默。\n"
+"\n"
+"你发现了这样一个名字的坟墓，开始挖掘，但当你到达底部时，你只发现一只死猫，蜷缩在那里，灰色的、腐朽的，身上的虫子比毛发还多。解剖学家们把它举了起来，然后有人从树林中尖叫了起来。你转身看到那里有一个哭泣的小男孩，他指着坟墓。在你抓住他之前，他扭头跑开，高喊着你们的冒险行为是错误的。作为回应，一群人的低语声传来，他们的话在狂热中被淹没了，但你还是能听出%companyname%的名字和一群草叉中混杂着的喧闹声。你转身告诉解剖学家停止挖掘，只见他们已经半路逃离墓地，拼命地逃命。你恶语相向，加入了他们的不名誉的撤退，一起离开了镇子。}"
 
 # scripts/events/events/dlc8/anatomist_exhumes_hero_event.nut
 msgid ""
@@ -588,6 +600,9 @@ msgid ""
 "\n"
 "%anatomist% kicks the flowers out of the way and shovels off a kid's toy and hurls it across the graveyard. He quickly stakes his shovel and the digging starts. It doesn't take long, the soil so recently disturbed. A few items lie in the grave, and alongside them is the body itself: just an ordinary man with a pale visage. It is jerked up and out of the grave, the anatomists throwing it end over end like a piece of plywood and as it lands in the grass they chase after it like gremlins, slicing and dicing and digging into it with a disturbing fervor. When they're finished, they roll the body back into the grave, its shape more ragged and shredded than before. They complain that you were possibly correct, that a hero's body has no unusual aspects whatsoever. But rather than agree with the likes of an uneducated sellsword, they instead conclude that perhaps he wasn't a hero at all, and that their search will have to continue. You're just glad you didn't get caught.}"
 msgstr ""
+"[img]gfx/ui/events/event_46.png[/img]{在经过多次请求后，解剖学家们打败了你的防线并说服你前去从坟墓中取回当地英雄的尸体，据说他已经冷逝并且被塑造成英勇的样子。你们像一群不怀好意的孩子一样在墓地内逛荡，很快就会有许多潜行和偷偷摸摸的事情发生。英雄的墓碑很容易就被发现了，因为上面装饰着花朵和其他美好的东西。\n"
+"\n"
+"%anatomist%将鲜花踢开，推开一个孩子的玩具，将它扔到墓地对面。他快速地将铲子钉在地上，开始挖掘。没有多长时间，这块土壤就被搅动了。一些物品散落在坟墓里，而在它们的旁边就是尸体本身：一位普普通通的男子，面色苍白。它被拽了起来，像一块胶合板一样被解剖学家们翻来覆去地抛出，当它掉在草地上时，他们像小鬼一样追赶着它，带着令人不安的热情剖开它。当他们完成时，他们将尸体滚回墓里，它的形状比之前更加破烂不堪。他们抱怨你也许是正确的，一个英雄的尸体没有任何不寻常的地方。但他们不想同意像一个没受过教育的佣兵那样的人，相反，他们认为也许他根本不是一位英雄，他们需要继续寻找。你只是庆幸自己没有被抓住。}"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "]45[/color] Crowns"
@@ -603,55 +618,55 @@ msgstr "这不是我们的问题。"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "Good luck out there, man."
-msgstr ""
+msgstr "祝你好运，老兄。"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "Good luck to you as well."
-msgstr ""
+msgstr "祝你好运。"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "We don't need anyone else."
-msgstr ""
+msgstr "我们不需要其他人。"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "Got to study an unusual blight"
-msgstr ""
+msgstr "不得不研究一种不同寻常的枯萎病。"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "In that case we're going to help him."
-msgstr ""
+msgstr "那么我们要帮他。"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "Was denied the chance to help a sick man"
-msgstr ""
+msgstr "被拒绝帮助一个生病的人。"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "Was denied the study of an unusual illness"
-msgstr ""
+msgstr "被拒绝研究一种不寻常的疾病。"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "Was almost buried alive for bearing a disease"
-msgstr ""
+msgstr "因患病差点被活埋"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid " the Anatomist rescued %name% from being buried alive for carrying some strange disease. Now he has the unique pleasure of both bearing the plague AND being a lab rat for some researchers. Stay over there, please."
-msgstr ""
+msgstr "解剖师从被活埋的命运中拯救了[name]，因为他带着一些奇怪的疾病。现在他既被瘟疫困扰，又成为一些研究的实验品。请呆在那边。"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "[img]gfx/ui/events/event_04.png[/img]{You tell the man that the %companyname% doesn't need anymore sellswords. You also imply that, before he goes, he should maybe consider compensating you for the help. He nods and takes off his boot, revealing he had gold stashed in there. Not trusting what illness he has, you tell him to rub the coins on the grass and then kick it over with his feet. He does as told. He nods.%SPEECH_ON%Well. I appreciate it. You take care out there.%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_04.png[/img]{你告诉这个人说%companyname%不需要更多的佣兵。你还暗示他在离开之前，也许应该考虑为帮助付出一些代价。他点了点头，脱下了他的靴子，露出里面藏有金子。因为不相信他有什么病，你告诉他挤到草地上摩擦硬币，然后用脚踢过去。他照做了。他点了点头。%SPEECH_ON%我理解了。你们也要多加小心。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "[img]gfx/ui/events/event_88.png[/img]{You draw out your sword and order the diggers to stop. They look at you with incredulous stares. One points at the man in the grave.%SPEECH_ON%Did you not hear? This fella is blighted. What we're doing here might not look right but-%SPEECH_OFF%With a point of your sword, the digger falls quiet. You tell the man in the grave to hop on out, and as he does the diggers drop their shovels and back off. They tell you he's all yours. The supposedly diseased man ambles over, still frightened and no doubt unsure if his rescuers have anything better in mind for him than those who would bury him alive. %anatomist% takes him under his wing and you slowly fall back. The anatomist states that the man is ill, but it's not serious and he will recover in good time. For now, though, he needs rest.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_88.png[/img]{你拔出剑，命令挖掘者停下。他们用难以置信的眼神看着你。其中一人指着坟墓中的那个人。%SPEECH_ON%你没听到吗？这个家伙有瘟疫。我们在这里做的或许看起来不对，但是......%SPEECH_OFF%你用剑指了指那个挖掘者，他就安静了下来。你告诉坟墓中的人出来，然后挖掘者们放下了铲子，后退了一步。他们告诉你那个人就全由你了。这个据说有传染病的人走近了，他依然很害怕，毫无疑问，他不确定救他的人是否有比把他活埋的人更好的想法。%anatomist%接管了他，你慢慢退后。解剖师说，这个人生病了，但不严重，他会尽快恢复。然而，他现在需要休息。}"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "[img]gfx/ui/events/event_53.png[/img]{You come across a man being buried alive, an inference you take from the fact that he's bound like a dead man yet still screaming about the whole affair. You ask what is going on and one of the diggers turns and holds a hand out.%SPEECH_ON%Keep yer distance. This man is blighted and anyone he touches becomes blighted. We don't want no disease, and neither should you.%SPEECH_OFF%The man cries out for help as another clump of soil lands on him. He tries to climb back out of the grave but one of the diggers kicks him back in, the kicker himself complaining he'll have to burn his favorite boot. %anatomist% comes over with a quieted voice. He says the man has a skin disease which might look like leprosy or a plague, but is in fact benign. You ask if he's sure of it, and he nods, albeit with a finger of reluctance held up.%SPEECH_ON%I may be wrong, of course. And if I am, then his very real disease might spawn itself upon us all. But to bury a man alive is not something I find, how do you say, scientifically compelling.%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_53.png[/img]{你看到一个人被活埋了，他被捆绑着像是个死人，但还在尖叫。你询问发生了什么事情，其中一个挖掘者转身向你伸出一只手。%SPEECH_ON%离他远点。这个人被感染了，任何他碰过的人都会被感染。我们不想染病，你也不该想。%SPEECH_OFF%那个男人呼救着，又被一块泥土盖住了。他试图爬出坑来，但是一个挖掘者踢了他回去。踢人者还抱怨要烧掉他最喜欢的靴子。%anatomist%走过来，用平静的声音说道。他说这个男人有一种皮肤病，看起来像麻风或瘟疫，但实际上是良性的。你问他是否确定，他点了点头，虽然带着一丝犹豫。%SPEECH_ON%当然，我也可能错了。如果我错了，他真正的病就可能传染给我们所有人。但是活埋一个人并不是我所发现的，你如何说，科学上有说服力的做法。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_1_event.nut
 msgid "[img]gfx/ui/events/event_18.png[/img]{In the most reluctant rescue ever, you sigh and draw out your sword, ordering the diggers to stop immediately. They look over at you, their hands on their shovels, their eyebrows far up their brows.%SPEECH_ON%What? Did ye you not hear us? The fella's blighted!%SPEECH_OFF%%anatomist% comes forward and waves them off. You nod and gesture for the diggers to do as told. The anatomist helps the man out of the grave, though you notice he's doing it with his own sleeve and hand covered. He is helped back to the company. As the man turns to thank you, %anatomist% drives a hammer into the back of his head, knocking him out cold. The anatomist follows him to the ground and begins to cut up the man's arm, removing a slab of flesh before backing away.%SPEECH_ON%This should be good enough for our studies, I believe.%SPEECH_OFF%You ask if the man was indeed sick. The anatomist nods.%SPEECH_ON%Of course, but it's better if he's at least useful while sick instead of just dead in the ground like some worm. He may, of course, go die now. There is not much left for him in this world.%SPEECH_OFF%The man moans as he writhes on the ground. There's a bit of a jangle in his boots which you remove to find stowed away crowns. You briefly consider putting him out of his misery, but decide that now he's free of the grave he may himself decide how he wishes to return to it. You do, however, take his money.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_18.png[/img]{你叹了口气，拔出剑来，下令挖掘者立刻停止。他们把手放在铁铲上，眉毛向上扬起。%SPEECH_ON%什么？你们没听到吗？这位家伙生了血污！%SPEECH_OFF%%anatomist% 走过来挥手阻止他们。你点点头，示意挖掘者照做。解剖学家帮助这个人离开坟墓，尽管你注意到他自己的袖子和手已经变得血腥。他被扶回了战团。这个人转过身来感谢你的时候，%anatomist% 用锤子敲中了他的脑后部，让他迅速昏过去。解剖学家跟着他倒在地上，开始割掉这个人的胳膊，拿出一块肉后才退开。%SPEECH_ON%这东西足够我们研究了，我相信。%SPEECH_OFF%你问这个人确实生病了吗。解剖学家点了点头。%SPEECH_ON%当然，但与其让他进坟墓像个蠕虫一样死去，倒不如让他在生病时也做点有用的事情。当然，他现在可以去死了。在这个世界上，他没有什么剩下的了。%SPEECH_OFF%这个人在地上打滚发出呻吟声。你取下他的靴子发现里面藏着一些克朗。你短暂地考虑了一下是否要结束他的痛苦，但决定既然他已经从坟墓里出来了，他可以自己决定如何返回它。然而，你拿走了他的钱。}"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
 msgid "]+12[/color] Resolve"
@@ -687,87 +702,87 @@ msgstr "]+4[/color] 远程防御"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
 msgid "Recovered from the blight afflicting him"
-msgstr ""
+msgstr "从影响他的瘟疫中恢复过来。"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
 msgid "Glad you're feeling better, %militiacaptain%."
-msgstr ""
+msgstr "很高兴你感觉好些了，%militiacaptain%。"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
 msgid "You found %name% being buried alive for carrying some unknown blight. The anatomists took interest in him and rescued him, nursing him back to health. Now, he fights for you, putting to use the skills that made him captain of the guard in a previous life."
-msgstr ""
+msgstr "你发现%name%因携带某种未知疫病而被活埋。解剖学家对他产生兴趣并将其解救，将其护理至康复。现在，他为你而战，运用曾使他成为前世的队长所拥有的技能。"
 
 # scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.nut
 msgid "[img]gfx/ui/events/event_58.png[/img]{The supposedly diseased man the anatomists had rescued from the literal grave comes forward. He's looking better than ever. He thanks the anatomists for their work, though they regard him with barely any notice at all. It seems he was of more interest to them when he was ill, and they could poke and prod and learn from that which ailed him, and there was some unspoken hope that he would in fact die so they could learn even more. Seeing this, the man then turns to you.%SPEECH_ON%It's all much appreciated, I hope at least you know that. You don't know what hells I've been through with that lot who tried to bury me alive. I think they knew I wasn't no blight, they just wanted my property. See, I used to head the local militia, but that position comes with the weight of conspiracy and jealousy.%SPEECH_OFF%He rubs the back of his head, then comes out with it.%SPEECH_ON%I've nothing else after those gravediggers done taken it all so regardless of whether I'm alive or dead, I may well be of the latter. So, well, let me just say I'm glad to be fighting for you and making myself a new living out here.%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_58.png[/img]{那个解剖学家从字面上把他从坟墓中救出来的那个据说生病的人向前走了过来。他看上去比以往任何时候都要好。他感谢解剖学家的工作，尽管他们几乎没有注意到他。看起来他在生病时更能引起他们的兴趣，他们可以戳戳捏捏并从他的疾病中学到更多信息，还有一些未明言的希望他真的会死，以便他们可以学到更多。看到这一切，那个人就转向你。%SPEECH_ON%这一切都让我非常感激，我希望至少你知道这一点。你不知道我与那些试图活埋我的人一起经历了什么。我认为他们明白我不是什么瘟疫，他们只是想要我的财产。你看，我曾经领导过当地的民兵，但这个位置带来了阴谋和嫉妒的压力。%SPEECH_OFF%他揉了揉后脑勺，然后说出了实话。%SPEECH_ON%那些挖掘者把我所有的东西都拿走了，所以不管我是活是死，我都可能成为后者。所以，好吧，让我说我很高兴为你而战，为我自己在这里谋求新的生活。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc8/anatomist_joins_event.nut
 msgid "Yeah, fark you, too."
-msgstr ""
+msgstr "是的，去你的，太过分了。"
 
 # scripts/events/events/dlc8/anatomist_joins_event.nut
 msgid "Yes, we'll take you."
-msgstr ""
+msgstr "是的，我们会带你。"
 
 # scripts/events/events/dlc8/anatomist_joins_event.nut
 msgid "Just get in the wagon."
-msgstr ""
+msgstr "上车吧。"
 
 # scripts/events/events/dlc8/anatomist_joins_event.nut
 msgid "We don't need your help."
-msgstr ""
+msgstr "我们不需要你的帮助。"
 
 # scripts/events/events/dlc8/anatomist_joins_event.nut
 msgid "[img]gfx/ui/events/event_184.png[/img]{The man nods.%SPEECH_ON%Fair enough. I know that when I came across my intellectual superior, I grew jealous and refused any help he provided. Well, good sir, may you travel well and catch up to me and my discoveries!%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_184.png[/img]{那人点点头。%SPEECH_ON%很公平。当我遇到我的智慧上司时，我变得嫉妒并拒绝他提供的任何帮助。那么，先生，愿您旅途愉快，追上我和我的发现！%SPEECH_OFF%}"
 
 # scripts/events/events/dlc8/anatomist_joins_event.nut
 msgid "[img]gfx/ui/events/event_184.png[/img]{The man briefly bows.%SPEECH_ON%Ahh, it is good to be with my intellectual equals, though I shall remind them that there are some more equal than others, and if they wish to read my works they may submit a request to do so.%SPEECH_OFF%Yeah. Sure.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_184.png[/img]{这个人轻轻地鞠了一躬。%SPEECH_ON%啊，和有智慧的同行在一起真是太好了，尽管我要提醒他们，有些人比其他人更加平等，如果他们希望阅读我的作品，他们可以提交请求。%SPEECH_OFF%嗯，当然。}"
 
 # scripts/events/events/dlc8/anatomist_joins_event.nut
 msgid "[img]gfx/ui/events/event_184.png[/img]{A man in drab, grey garb approaches. In place of weapons and armor, he has scrolls and papers with him, as well as a bandolier of vials and pouches brimming with strange flesh and fur. He hails you.%SPEECH_ON%Ah, the %companyname%. I have been looking for men of such...qualities. You see, I am an anatomist and-%SPEECH_OFF%You stop him right there. You've little time for men who obsess over strange fascinations. Either he wants to join or not, and you tell him that tersely. | You come across a man who is kneeling over a dead dog. He probes the snout with a long stick and nods.%SPEECH_ON%As you can tell, I am a famed anatomist.%SPEECH_OFF%Turning his head up like some creepy puppet, he claims that the %companyname% is slowly becoming renowned for its studious work - and that he wishes to join. | You find a coat, pants, and a pair of boots on a rock. Beside it are some bandoliers and reams of paper and bizarre drawings. Looking out, you see a pond and a man frolicking in it. He jolts at the sight of you and points a finger.%SPEECH_ON%Don't touch that! Hey you, don't touch anything!%SPEECH_OFF%He gets up out of the water, his legs awkwardly splish-splashing through the surface. As he rises up out of the pond you see that, thankfully, he's absurdly hairy in parts, the water turning his hairy crotch into some grey felt loincloth. You draw your sword and the man comes to a stop.%SPEECH_ON%Hold that steel, traveler. I see now that you are of an inquisitive mind and so am I! And, my dear steel-driven traveler, I am in dire need of need of equals. What say you that I join?%SPEECH_OFF%You try to keep your eyes above the neck, but a stiff wind blows through and you can hear water flying off his crotch like a shaking wet dog. The glance down which follows is quite unfortunate. | You come across a man sitting on a rock. Across from him is a slab of stone layered with dissected animals. Puppies, kittens, what might be a frog, some sort of rodent, and...a duck. He jumps to his feet.%SPEECH_ON%Behold, traveler, the result of my studies. Yet I am still short on so many of my studies. I can see that you are of an inquisitive mind albeit no doubt a brute. I would like to offer my services to you, though, I must warn, the advances I have made with these are for me and me alone.%SPEECH_OFF%He protectively holds an arm ahead of the dissected animals as if you'd have any interest with them.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_184.png[/img]{一位身穿灰色布衣的男人向你走来。他没有武器和盔甲，只带着卷轴和纸张，以及肮脏的绷带和裹着奇怪皮毛的钱袋。他向你打招呼。%SPEECH_ON%啊，%companyname%啊。我一直在寻找像你们这样具备......特质的人。你们看，我是一名解剖学家，而且-%SPEECH_OFF%你打断了他。你没有时间对付这个对于奇怪生物的痴迷者。他是要加入战团吗？简单地告诉他是或否。| 你遇到了一个人正趴在一只死狗上。他用一根长棍子探测着犬嘴，点点头。%SPEECH_ON%正如你看到的，我是一位有名的解剖学家。%SPEECH_OFF%他像个奇怪的傀儡一样扭动着头，声称%companyname%正在慢慢地因其勤奋工作而变得出名 - 他希望加入。| 你在石头上发现了一件外套，裤子和一双靴子。旁边有一些弹药袋和古怪的图纸。环顾四周，你看到一个人在池塘里嬉戏。他一看到你就惊慌地指着一只手。%SPEECH_ON%不要碰那个！嘿，你，别碰任何东西！%SPEECH_OFF%他从水中站起来，他的腿笨拙地溅着水。当他从池塘里站起来时，你看到他毛发异常浓密，水把他毛茸茸的裆部变成了一条灰色的毛巾。你拔出剑，那个男人停了下来。%SPEECH_ON%带着你的剑，旅人。我现在明白你是一个好奇心的人，我也是！亲爱的剑驱动旅人，我迫切需要平等的伙伴。你说我加入你们，怎么样？%SPEECH_OFF%你努力让眼睛盯着他的颈部，但一阵风吹过，你听到水从他的裆部飞溅像一只湿狗一样。随之而来的瞥低是相当不幸的。| 你遇到一个坐在石头上的男人。他对面是一块分层解剖动物的石块。小狗、小猫、可能是青蛙、某种啮齿动物，还有......一只鸭子。他跳了起来。%SPEECH_ON%旅人，瞧，这是我研究的结果。但我仍然缺乏很多......。我可以看出你是一个有好奇心的人，虽然毫无疑问是个蛮子。我想向你提供我的服务，但我必须警告，我这些进步只属于我一个人。%SPEECH_OFF%他保护性地将手臂伸向解剖动物，好像你会对它们产生任何兴趣一样。}"
 
 # scripts/events/events/dlc8/anatomist_ok_with_mutations_event.nut
 msgid "Has come to terms with his mutations"
-msgstr ""
+msgstr "已经与他的变异达成了协议。"
 
 # scripts/events/events/dlc8/anatomist_ok_with_mutations_event.nut
 msgid "Glad you're feeling better, %anatomist%."
-msgstr ""
+msgstr "很高兴你感觉好些了，解剖学家（%anatomist%）"
 
 # scripts/events/events/dlc8/anatomist_ok_with_mutations_event.nut
 msgid "{[img]gfx/ui/events/event_05.png[/img]{After spending some time with his new malformed shapes, %anatomist% has come to accept who he is now. He sees these horrific scars and ever growing pustules as evidence that he is on the right path. In some way, he is right. These strange changes have made him a far superior fighter than he was before, which is saying a lot for you personally had no hope that these foolish eggheads ever had a shot of becoming even competent fighters at best. Whatever fears and worries he had prior are now gone entirely, replaced by a renewed sense of purpose and desire to do more. | %anatomist% has stopped moping around worrying about his scars and horrible appearance. It seems he has made peace with how he looks now, or possibly he has simply become so ingratiated with the godawful smell emanating from every part of him that he no longer notices. While his stink brings you to nearly vomit every time you're near him, at the very least he has recovered from the dourness which was occupying his every waking minute. Maybe now he can continue on his righteous path to scientific discovery, or however else he put it. | It is hard to come to terms with who you are and, despite the superficiality, it is even more difficult to make peace with how you look. This is even more true when how you look was not the manner in which you were born, but shaped by the actions you took in life. If your own decisions brought you to this newfound state, you have only your own choices to dwell upon for the rest of your life. You've seen it many a time, particularly with sellswords who lose their ears, noses, lips, and worse. It can take a long time for a man to come to peace with his newformed circumstances, and %anatomist% was no different. But come to peace he has. Whatever horrific scars and mutations he has suffered from his own actions are no more - at least mentally. He has moved on and is ready to continue his path in this world as someone seeking scientific endeavors, and the great risks to himself that those endeavors might one day pose. | %anatomist% has come to terms with his new appearances. At first, his body's reactions to the potions and concoctions he's been imbibing were so disturbing that he reeled into a shell of his former self. You could hardly blame him, for he did and does look quite hideous. But after a while, you simply realize that life goes on, and if nothing can be done about it then nothing can be done about it. And, at the very least, the real purpose of the choices made were to satisfy scientific inquiries, and it seems re-realizing that has revivified %anatomist%'s sense of purpose. He is still ungainly and disgusting and you have a hard time looking at him, but least he's happier now. | Once wounded by maladies and disfigurements, %anatomist% the anatomist is starting to look a lot better now. That is to say, he has come to realize that there is little he can do about his physical appearance which is, to be terse, still something that takes courage and willpower to just look at. But the man has remembered the true reason he sought the concoctions and strange mixtures and tinctures which have turned him into a walking and talking monstrosity, and that reason is a matter of scientific endeavor. The anatomist is now a happier man and as long as he can be kept far away from even the smallest of mirrors you imagine that can more or less remain the case. | %anatomist%'s habit of sucking down any every potion he concocts did eventually come to bite him in the ass. His last imbibement when horribly wrong, turning his face into fleshy dough, and arising across his skin all manner of bumps and bruises and pustules and pusses. Naturally, these changes had a deep morale impact on the man. But, finally, he has gotten over it. He is still a walking, talking monstrosity in every sense of the word, but on the inside he is at peace with it, and what's on the inside is what counts. Or at least it better count, because what's on the outside you can barely muster the courage to look at. | %anatomist% the anatomist calls the changes to his body 'mutations', which must be some sort of egghead word for looking like shite. For a while, his appearance was a drag on his day to day life. You can hardly blame him, he inflicted these maladies upon himself which is always far worse than when the world does it to you and leaves little doubt as to how you could have unfarked yourself. Thankfully, the anatomist has gotten over his depression and angst about his horrendous appearance. He might even be more willing than ever to keep imbibing his potions and concoctions. Surely he can't look much worse than he already does and at a certain point of looking completely hideous even the ladyfolk take a turn, like seeing a dog so mangy and decrepit that one can't help but pet it out of curiosity. | After he drank a number of questionable potions, %anatomist% the anatomist's body began to change and, like any grown man, change at that age is rarely a good thing. His face became disfigured, his body mottled with sores and scars. For a time, the anatomist fell into a deep depression over the matter and you wondered if he had been irreversibly damaged not just on the outside, but the inside as well. Thankfully, it is the morale of a man that can be the hardest to break. %anatomist% has come to terms with his new appearance. It's not as though there is much he can do about it, and he now sees it as a sort of fundamental rite by fire that he is the way he is, and that he has helped pursue the scientific endeavors which brought him to these lands in the first place. You yourself just have to make sure that he's not the first thing you see in the morning.}"
-msgstr ""
+msgstr "{[img]gfx/ui/events/event_05.png[/img]{在与他新形成的畸形生物共度一些时间后，%anatomist%已经接受了他现在的身份。他把这些恐怖的伤疤和不断生长的脓疱看作是他走在正确道路上的证明。某种程度上，他是正确的。这些奇怪的变化使他比之前更优秀的战士，对于你个人而言，这是相当了不起的，因为你之前甚至没有希望这些愚蠢的蠢蛋们能够成为最好的合格战士。他之前的恐惧和担忧现在已经完全消失了，取而代之的是一种更新的目标感和渴望做更多的决心。| %anatomist% 已经停止了闷闷不乐地担心他的伤疤和可怕的外表。他似乎已经和现在的外表达成了和解，或者可能是因为他已经深深地融入了从他身上散发出来的可怕气味，以至于他已经不再注意到了。虽然他的臭味每次在你接近他时都让你几乎呕吐，但至少他已经从每时每刻都占据他的情绪的沉闷中恢复过来了。也许现在他可以继续他的对科学发现的正义追求，或者做他所说的其他事情。| 认识自己身份很难，尽管表面上看起来，与自己的外貌和解更加困难。当你的外貌不是你天生的，而是由你生活中的行为塑造而成时，这更加真实。如果是你自己的决定让你陷入了现在的困境，那么你只能为自己的选择而终生忧虑。你已经看到了这种情况很多次，特别是对于失去耳朵、鼻子、嘴唇甚至更严重的雇佣兵来说。一个人要和自己新的处境和解可能需要很长时间，就像 %anatomist% 一样。但他已经和解了。不管他因自己的行动所遭受的可怕伤痕和变异有多可怕，至少在心理上已不再如此。他已经继续前行，准备在科学探索中寻求自己的道路，不惜冒自己可能面临的巨大风险。| %anatomist% 已经接受了他的新外貌。起初，他的身体对他一直服用的药剂的反应非常的令人不安，以至于他变得十分孤僻。你不能怪他，因为他看起来非常的丑陋。但是过了一段时间，你就会意识到生活还要继续下去，如果无法改变，那也无法改变。至少，做这些选择的真正目的是为了满足科学的探究精神。重新认识到这一点似乎让%anatomist%重新找到了自己的人生目标。他仍然笨拙且令人讨厌，你很难看着他，但至少现在他更加快乐了。| 曾经饱受疾病和毁容之苦的解剖学家 %anatomist% 现在看起来好多了。也就是说，他已经意识到自己的相貌他几乎无能为力，而这种相貌，简言之，令人勇气和毅力才能直视。但是，该男子已经记起寻求配方、奇怪的混合物和调剂的真正原因是科学探索。现在，这位解剖学家是一个更加幸福的人，只要远离即使是最小的镜子，想必他能够保持现状。| %anatomist%的习惯是喝下他自己调制的每一种药剂，最终却把自己弄进了麻烦。他最后一次饮用时出了大问题，将他的脸变成了肉质的面团，他的皮肤上出现了各种颗粒、挫伤、脓疱和脓汁。自然地，这些变化对这个人的士气产生了深刻影响。但是，最终他已经克服了这一切，他仍然是一个在任何意义上都是一个行走的怪物，但在内心深处，他已经和这个状态和解了，而内在才是真正重要的。或者，至少内在更重要，因为外表你都不敢勇敢地去看。| 解剖学家 %anatomist% 称他身体的变化为“突变”，这肯定是个学究式的词，意思就是看起来像垃圾。有一段时间，他的外表影响了他的日常生活。你不能怪他，他是自己给自己带来了这些病痛，这总比世界上的事情更糟，让你毫无疑问地知道如何摆脱困境。幸运的是，这位解剖学家已经克服了他的沮丧和对自己可怕外表的忧虑。他甚至可能比以往更愿意继续饮用他的药水和调剂。毕竟，他已经非常难看了，在看起来完全丑陋的某一刻，甚至女性也会转过头来，就像看到了一只看起来被虐待的狗一样，好奇地去摸摸它。| 喝下一些可疑药水后，解剖学家%anatomist%的身体开始发生变化，像任何成年人一样，那个年龄的变化很少是好事。 他的脸变得丑陋，身上布满了疮痕和疤痕。 有一段时间，这位解剖学家沉入了沉重的抑郁中，你不确定他的伤害只是表面，还是内在也受到了不可逆转的影响。 幸运的是，对一个人来说，士气可能是最难打破的。 %anatomist%已经接受了他的新形象。反正他也没什么办法，他现在把它看作是一种火烧试金的基本仪式，他就是他这个样子，并且他帮助推进了最初将他带到这些土地的科学事业。 对于你自己来说，只是要确保他不是你早上看到的第一件事情。}"
 
 # scripts/events/events/dlc8/anatomist_old_patient_event.nut
 msgid "An old patient thanked him for his medical help"
-msgstr ""
+msgstr "一位老病人感谢他的医疗帮助。"
 
 # scripts/events/events/dlc8/anatomist_old_patient_event.nut
 msgid "Saw living proof that his past work was successful"
-msgstr ""
+msgstr "看到了过去工作成功的活生生的证明。"
 
 # scripts/events/events/dlc8/anatomist_old_patient_event.nut
 msgid "You'll find plenty of black masses to research elsewhere."
-msgstr ""
+msgstr "你可以在别处找到大量的黑暗大典来研究。"
 
 # scripts/events/events/dlc8/anatomist_old_patient_event.nut
 msgid "{[img]gfx/ui/events/event_77.png[/img]{%townname%'s denizens have mostly looked upon you and the anatomists as though you were wayward devils. But out of the blue, a man comes down off his porch and strides across the road toward %anatomist% the anatomist, carrying with him an upright posture, swinging gait, and a fat grin. He grabs the anatomist by the hand and starts vigorously shaking it.%SPEECH_ON%Shitfire, I'd figured you'd be back one of these days! You don't recognize me? You done come by this way years ago, many years ago, we both looked a fair bit younger then. I had that fat sack on m'back that you cut out, and my whole life's been much better since! Hells, gimme one second, don't you move a muscle I'll be right back!%SPEECH_OFF%The man quickly returns to his home. You look at %anatomist% who remarks that he remembers the man: he had a giant tumor growing on his spine, and the anatomist in his younger days had successfully cut it out using tongs, shearing blades, and a good number of rags. He laments that he did not keep the fleshy mass for study, but that he was a different sort of physician in those days. The man returns with a weapon which he holds out.%SPEECH_ON%Once I was of good health, I took to the fightin' fields. Was pretty good at it, too, but you know, lives change, and keep on changing. I'd seen you with this sellsword here so I suppose it had done changed for you as well. Please, take it.%SPEECH_OFF%The second the anatomist hesitates, you take the weapon yourself, lest the charitable opportunity be shortlived. You thank the man. He shakes %anatomist%'s hands again, then bids goodbye. The anatomist stares at him as he departs.%SPEECH_ON%We could experiment on him, now that I fully recollect my knowledge of him. That mass from his back is likely to return, I could perhaps...just...open him up and take a look...%SPEECH_OFF%You stop the anatomist from fancying any dissecting of the local laity and get back on the road.}"
-msgstr ""
+msgstr "{[img]gfx/ui/events/event_77.png[/img]{%townname%的居民们大多将你和解剖学家视为邪恶的群魔乱舞。但突然间，一个男人走下门廊横穿马路走向解剖学家%anatomist%，他往上竖起躯体，摆着姿势，脸上还挂着笑容。他握住解剖学家手开始热烈地握手。%SPEECH_ON%见鬼，我觉得你总有一天会回来的！你不认识我了吗？多年以前，你经过这里，我们两个人看起来都年轻多了。我曾经有一个背上的沉重包袱，你用镊子和剪刀帮我摘了下来，从那一天起我的整个生活都变得更好了！该死，等等啊，你一动都不动，我就马上回来！%SPEECH_OFF%男人迅速回到家中，你看着解剖学家 %anatomist%，他说他还记得这个男人：他的脊椎上长着一个巨大的肿瘤，在他年轻的时候，解剖学家用夹子、剪刀和许多绷带成功摘除了它。他后悔没有留下那块肉来研究，但那时他是一种不同的医生。男人拿着一件武器回来并伸出去。%SPEECH_ON%我身体好的时候曾经参加军队。我非常擅长战斗，但你知道，生活一直在变化。我看到你和这个剑客在一起，所以我认为你的生活也已经改变了。请拿去吧。%SPEECH_OFF%就在解剖学家犹豫的时候，你自己拿起了武器，以免这慈善的机会短暂。你感谢这个男人，他再次握住解剖学家的手，然后告别。解剖学家看着他离开。%SPEECH_ON%现在我们可以对他进行实验了，我现在完全想起我对他的了解。他背上的这块肿块可能会再次出现，我可以...打开他看看...%SPEECH_OFF%你阻止解剖学家对当地人进行任何解剖，重新上路。}"
 
 # scripts/events/events/dlc8/anatomist_reflects_on_nobles_event.nut
 msgid "That's the spirit."
-msgstr ""
+msgstr "好样的。"
 
 # scripts/events/events/dlc8/anatomist_reflects_on_nobles_event.nut
 msgid "Better understands the limits of his volition"
-msgstr ""
+msgstr "更好地理解他的意志限制。"
 
 # scripts/events/events/dlc8/anatomist_reflects_on_nobles_event.nut
 msgid "[img]gfx/ui/events/event_39.png[/img]{%anatomist% the anatomist is sitting by the campfire. He seems deep in thought. Being a bit of an arsehole, you feel this is the perfect time to stop by and start asking him questions, particularly the most annoying inquiry in all of existence “What are you thinking about?” The anatomist pinches his eyes and lets out a long sigh. He says,%SPEECH_ON%I am ruminating on the nature of this world's entities, notably the ones furthest above, and furthest below. Understand, scapegrace, that we have met a number of royals in our travels and the impression they've imparted on me is one of dire disappointment. Wild animals operate on an even table such that that which eats, and that which finds itself sniveling for scrap, or being scrap itself, are delineated by talent, pure in its innateness. Is the axiom of being the best allowing one to rise up to the top axiomatic only to the world of animals? I took it as truth that our rulers, and now benefactors, would reflect these realities. Instead I am met, time and time again, by buffoons. Incompetents whose primary talents are in balancing indulgences, too much and the peasants are angered by extravagances, too little and the laity think their rulers improperly wasting their extraordinarily lucky station in life. My evaluation of my fellow man drops with every day. Dare I say, dare I say, scapegrace...scapegrace, are you listening?%SPEECH_OFF%You're spinning a stick in the fire when you hear your byname. Glancing over, you tell him that you're not a stranger to these thoughts, but they're just that: thoughts. Despite the pressures of your surroundings, you still decide what you think about. If it bothers him so much, he should simply set it aside. He has no control over the world, after all, and such thinking will not broker greater change. It is mere whinging. The anatomist stares at you. He nods.%SPEECH_ON%I think it is well enough that I do not dwell on these things, for their errors were not by my hand made, nor by my hand could they ever be unmade.%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_39.png[/img]{解剖学家%anatomist%坐在篝火旁，精神恍惚。你心想这是个问他问题的好机会，“你在想什么？”这个全宇宙最烦人的问题。解剖医生捏紧眼睛，长叹一口气。%SPEECH_ON%我在沉思这个世界的实体，尤其是那些上层和下层的人。明白吗，你这个家伙，“我们在旅途中遇到了许多皇室成员，但他们给我的印象都是沮丧的。野生动物的运行方式都是平等的，因为那些吃东西的和那些被迫四处寻找的动物都是通过他们天生的才华来区分的。那么成为最好的动物的公理是否也只能适用于动物的世界？我一直以为我们的统治者，现在是我们的恩人，将反映这些现实。然而，我一遍又一遍地遇到了这些小丑。他们最主要的才能是权衡。太多了，百姓们会因为奢侈而生气；太少，教徒们会认为他们的统治者在浪费他们过于幸运的生命。我的评估每天都在下降。我敢说，我敢说，家伙……家伙，你在听吗？%SPEECH_OFF%当你听到自己的名字时，你正在玩火棍。转过头去告诉他，你并不陌生这些想法，但它们只是想法。尽管周围的环境非常压抑，你仍然可以决定自己的想法。如果这让他如此困扰，那他应该把它放在一边。他毕竟无法控制这个世界，这样的想法不会带来更大的改变。这只是抱怨而已。解剖师盯着你看了一会儿，然后点了点头。%SPEECH_ON%我认为我不再长时间沉浸在这些事情中是一个不错的选择，因为它们的错误并不是我造成的，也不可能由我修复。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc8/anatomist_reflects_on_webknechts_event.nut
 msgid " now fears beasts"
@@ -775,23 +790,23 @@ msgstr "现在害怕野兽"
 
 # scripts/events/events/dlc8/anatomist_reflects_on_webknechts_event.nut
 msgid "Terrified of spiders"
-msgstr ""
+msgstr "怕蜘蛛"
 
 # scripts/events/events/dlc8/anatomist_reflects_on_webknechts_event.nut
 msgid "Fascinated with spiders"
-msgstr ""
+msgstr "迷恋蜘蛛"
 
 # scripts/events/events/dlc8/anatomist_reflects_on_webknechts_event.nut
 msgid "Stop spreading the heebiejeebies, dammit."
-msgstr ""
+msgstr "停止散布恐慌，该死。"
 
 # scripts/events/events/dlc8/anatomist_reflects_on_webknechts_event.nut
 msgid "[img]gfx/ui/events/event_184.png[/img]{%anatomist% is holding out his arm, watching a long-legged spider trundling across his flesh. As the creature reaches the ends of its newfound earth, the anatomist turns his arm, suggesting the spider continue on another way. He does this for a time until putting his fingers toward the ground and the spider shuffles off entirely, perhaps not ever once aware it was on a living being. The anatomist writes a few pages down in his notes.%SPEECH_ON%The other day I watched a spider jump twenty-times its body length to snatch a fly. And this spider I've let go would, upon seeing its prey, speed across the ground like a hunting dog. It seems that the old gods have taken pity on us, scapegrace, for neither of these creatures can be found in their larger, webknecht forms.%SPEECH_OFF%While being tackled and ripped apart would be quite terrible, you tell him that being wrapped in a cocoon before having your blood sucked out by fangs is undoubtedly worse. The anatomist raises a finger.%SPEECH_ON%A common misconception, scapegrace, for the webknecht actually prefers to feed long after you are deceased. We believe its toxins are designed to target the belly, opening it up and using its fluids to melt you from the inside out. This is presumably why they hang their prey upside down, so the toxins can slosh over the organs, turning you into a sort of sack of fluids. The consuming phase of the process is merely one of digesting whatever is left. The only time they don't eat you is if they're placing their brood inside you as the spiderlings will need sustenance upon hatching.%SPEECH_OFF%That still sounds infinitely worse than being shanked by a hunting spider, but either way you regret having the conversation and pursue it no further. Unfortunately, %otherbro% is nearby and has heard all too much...}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_184.png[/img]{%解剖师% 伸出手臂，看着一只长腿蜘蛛爬过他的肌肤。当这只生物到达其新发现的土地的边缘时，解剖师转动手臂，暗示蜘蛛继续另一条路。他这样做了一段时间，直到把手指伸向地面，蜘蛛完全离开，也许从未意识到它在一个生物身上。解剖师在他的笔记中写下了几页。%SPEECH_ON%前几天我看到一只蜘蛛跳了二十倍身长去抓一只苍蝇。而这只蜘蛛我放走后，发现它在看到猎物时会像狩猎犬一样迅速横穿地面。这似乎是因为古老的神已经怜悯我们，不恶作剧了，因为这些生物都不能以更大的，蜘蛛类型的形式被发现。%SPEECH_OFF%如果被撕成碎片，那将是非常可怕的，你告诉他，在被毒牙吸血之前被包裹在一个茧中肯定更糟。解剖学家举起一根手指。%SPEECH_ON%一种普遍的误解，恶棍，因为 webknecht 实际上更喜欢在你死后喂养。我们认为它的毒素是为了攻击腹部，打开它并使用其流体从里面溶解你。这可能是为什么他们会把猎物倒挂起来的原因，这样毒素可以在器官上溅动，把你变成一个流体袋。过程的消耗阶段仅仅是消化剩余物。唯一不吃你的时候，是他们在你里面放置他们的孵化物，因为蜘蛛宝宝孵化后需要营养。%SPEECH_OFF%这听起来仍然比被狩猎蜘蛛刺伤糟糕得多，但无论哪种方式都让你后悔参与了这个对话，并不再继续探讨。不幸的是，%otherbro% 在附近，已经听到了太多的话......}"
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid " gains Paranoid"
-msgstr ""
+msgstr "获得偏执狂状态。"
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid "[/color] Hitpoints"
@@ -799,11 +814,11 @@ msgstr "[/color] 生命值"
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid " is no longer Ailing"
-msgstr ""
+msgstr "不再患病。"
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid "No more experiments, anatomist."
-msgstr ""
+msgstr "不再进行实验了，解剖学家。"
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid "Let's get back on the road then."
@@ -811,35 +826,35 @@ msgstr "让我们回到路上 then."
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid "Let's just get on the road then."
-msgstr ""
+msgstr "那我们上路吧。"
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid "No, this doesn't sound safe at all."
-msgstr ""
+msgstr "不，这听起来一点都不安全。"
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid "Go and and heal him of his ailments."
-msgstr ""
+msgstr "去治疗他的疾病。"
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid "About to advance my fist into your..."
-msgstr ""
+msgstr "关于击打您的拳头..."
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{You tell %anatomist% no. %ailing% is strong enough to heal on his own. The anatomist sighs. You get a sense that he had no real interest in helping the sellsword, only an interest in experimenting on him.%SPEECH_ON%Great advances can only be made with great risks, captain.%SPEECH_OFF%He says before walking off, his quill pen scratching out a name on one of his tomes.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_05.png[/img]{你告诉队医%anatomist%不需要。%ailing%足够坚强可以自行康复。解剖学家叹了口气。你感觉到他没有真正的兴趣去帮助这个佣兵，只是对他进行实验感兴趣。%SPEECH_ON%伟大的进步只能伴随着巨大的风险而来，队长。%SPEECH_OFF%他说着走了，他的旧书上被他的羽毛笔勾画着一个名字。}"
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{%ailing% the ailing sellsword is curled up and staring into the campfire. He's been ill for a while and does not seem to be getting any better. However, %anatomist% the anatomist suggests that he might be able to concoct a solution for the man, a sort of potion that he can imbibe to strengthen his body and heal himself.%SPEECH_ON%I've seen it work many a time. Now, there is an issue: the required ingredients are not native to where we are, but I've read enough on the subject that I can find suitable substitutes with ease.%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_05.png[/img]{%ailing% 这个身体欠佳的佣兵盯着篝火蜷缩在一起。他已经病了一段时间，看起来情况并没有好转。然而，%anatomist%解剖学家建议他可能能够调制一种解药，一种他可以服用来增强身体和治愈自己的药剂。%SPEECH_ON%我看过它很多次。现在，有一个问题：所需的成分不是我们当前所在的地方所产，但是我对这方面的知识已经足够丰富，我可以轻松找到合适的替代品。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{You give %anatomist% the go ahead. He and %ailing% step away for a time, going into a tent together. Hours pass and the company should get back on the road soon. You walk over and enter the tent. %ailing% is on a cot with his arms crossed over his head and his legs bowed at the knees. He's covered in sweat and keeps turning his head from left to right. %anatomist% is at his side taking notes.%SPEECH_ON%It appears the procedure did not work as intended, however even unintended consequences can carry information of great import.%SPEECH_OFF%Furious, you ask if the man is going to make it. The anatomist nods.%SPEECH_ON%He might suffer some delusions for a while, but ultimately he will still be a breathing animal-excuse me, a breathing man.%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_05.png[/img]{你让 %anatomist% 继续。 他和 %ailing% 离开了一段时间，一起走进了一个帐篷。几个小时过去了，战团应该尽快回归道路。你走过去进了帐篷，%ailing%躺在铺位上，手臂交叉在头上，腿弯曲在膝盖上。他满身是汗，时不时地左右扭头，%anatomist%在他身边做笔记。%SPEECH_ON%看起来手术并没有像预期的那样顺利，但是即使是意外结果也能包含重要的信息。%SPEECH_OFF%你愤怒地问这个人能不能活下来，解剖学家点点头。%SPEECH_ON%他可能会有一些幻觉，但最终他还是会成为一个正常的人，也就是一个有呼吸的动物——不好意思，是一个有呼吸的人。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{You let %anatomist% do his work, whatever that is. The anatomist and %ailing% disappear into a tent for awhile. By the time it is ready for the company to get back on the road, %ailing% is a new man. He is revivified with newfound energies, and he has a certain spring in his step. %anatomist% comes out writing notes in his book.%SPEECH_ON%Results were quite good, quite good indeed.%SPEECH_OFF%Curious, you ask him what he did. He snaps out of his focus and glares up at you, then turns the book away so you cannot read it. He continues murmuring to himself.%SPEECH_ON%Best results? No, I cannot write best results. He might yet still suffer effects which might come in a little, how do I put this, sideways.%SPEECH_OFF%Well. Hopefully %ailing% is merely healed and that's that.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_05.png[/img]{你让%anatomist%去做他的工作，不管那是什么。解剖师和%ailing%消失在帐篷里一段时间。当战团准备继续前进时，%ailing%变成了一个新人。他有了新的能量，并且步履轻盈。%anatomist%拿着他的笔记本出来写笔记。%SPEECH_ON%结果很好，真的很好。%SPEECH_OFF%你好奇地问他到底做了什么。他从专注中醒来，瞪着你，然后把笔记本转开，不让你看。他继续自言自语。%SPEECH_ON%最好的结果？不，我不能写出最好的结果。他可能会遭受一些点滴的后遗症。%SPEECH_OFF%嗯。希望%ailing%只是被治愈了，就这样吧。}"
 
 # scripts/events/events/dlc8/anatomist_vs_ailing_event.nut
 msgid ""
@@ -847,46 +862,49 @@ msgid ""
 "\n"
 "You find the anatomist sitting on a stool off to the side. He has one arm slung across a table with the hand scratching back and forth in mad notetaking. His other arm is slack between his legs, his thumb and finger pressing together now and again in a strange pinching motion that seems to be counting the seconds. You take your eyes to %ailing% who is sitting up on a cot, his legs over the sides and his feet on the ground. He looks up at you.%SPEECH_ON%Hey there, captain, I think I'm feeling much better now. Much, much better. Ready to...take on the world.%SPEECH_OFF%The man springs to his feet and pounds his chest, yet his voice does not rise.%SPEECH_ON%Shall we resume the road?%SPEECH_OFF%He walks out of the tent and the second the tarp flaps closed, %anatomist% stops writing and sets down his quill pen. He nods.%SPEECH_ON%The procedure was a success. He is no longer ill. He is healed and then some.%SPEECH_OFF%And then some? That's not the sort of language you really want to see right now. You'll have to keep an eye on the man to see what exactly has changed about him.}"
 msgstr ""
+"[img]gfx/ui/events/event_05.png[/img]{你决定任由解剖学家进行操作，希望%ailing%能迅速恢复。随着时间的流逝，你需要让战团重新上路，%anatomist%还没有走出帐篷。你过去偷看。\n"
+"\n"
+"你发现解剖学家坐在旁边的凳子上。他一只手搭在桌子上，手在疯狂地记笔记。他的另一只手松弛在两腿之间，拇指和手指时而按在一起，做着奇怪的捏合手势，似乎在数秒数。你的目光转向%ailing%，他正坐在床上，腿伸出床沿，脚踩在地上。他抬起头看着你。%SPEECH_ON%嗨，队长，我现在感觉好多了，非常非常好。准备好...征服世界了。%SPEECH_OFF%这个人站起身来，猛击胸口，但声音并没有提高。%SPEECH_ON%我们继续上路吧？%SPEECH_OFF%他走出帐篷，当帐篷飘动关闭时，%anatomist%停止写作，放下鹅毛笔。他点点头。%SPEECH_ON%手术很成功。他已经不再生病了。不但这样，他的身体更健康了。%SPEECH_OFF%那还有其他变化？这不是你想看到的语言。你将不得不密切关注这个人，看看他到底有什么变化。}"
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
 msgid "Oh. Oh no."
-msgstr "噢。 Oh no."
+msgstr "噢。噢，不。"
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
 msgid "Do it, but be careful."
-msgstr ""
+msgstr "去做吧，但要小心。"
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
 msgid "Is no longer asthmatic"
-msgstr ""
+msgstr "不再有哮喘。"
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
 msgid " is no longer Asthmatic"
-msgstr ""
+msgstr "不再有哮喘。"
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
 msgid "Was injured by a madman"
-msgstr ""
+msgstr "被疯子攻击受伤了。"
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
 msgid "Just take it easy for a bit."
-msgstr ""
+msgstr "只要轻松一点。"
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
 msgid "No, I won't risk his life on this."
-msgstr ""
+msgstr "不，我不会冒险他的生命。"
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
 msgid "Yeah yeah, go cry into your textbooks."
-msgstr ""
+msgstr "好啦好啦，去在课本里哭去吧。"
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
 msgid "Do it, and use whatever means necessary."
-msgstr ""
+msgstr "去做吧，必要时不考虑手段。"
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{You tell %anatomist% no. The anatomist purses his lips and makes some eggheaded argument about the value of medicine and science, and you tell him about the value of a sellsword who doesn't have some fool goofing around with his lungs.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_05.png[/img]{你告诉解剖学家%anatomist%不需要。解剖学家嘟起嘴，对医学和科学的价值进行了一些冷静的辩论，而你则告诉他，没有人要肺部被某个傻瓜弄坏的佣兵的价值。}"
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{You come up on %anatomist% the anatomist talking to %asthmatic%, a man who is notoriously bad at the simple act of breathing. Almost on cue, the man comes to you with a request. He says that the anatomist has a means to possibly heal his poor lungs. %anatomist% nods.%SPEECH_ON%It is but a small procedure, albeit painful. This daring subject - excuse me, this daring animal - goodness, excuse me, this daring patient has steadied himself of that challenge and is ready to take it on in full. With your say so, I may begin the process and have it done in no time at all.%SPEECH_OFF%You're not sure about this, but it would be nice if %asthmatic% could stop wheezing in the middle of the night like some rabbit having the life squeezed out of it.}"
@@ -894,51 +912,51 @@ msgstr "[img]gfx/ui/events/event_05.png[/img]{You come up on %anatomist% the ana
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{You think why not just go full donkey and take the experimental route? %asthmatic% agrees.%SPEECH_ON%If this is going to hurt, might as well make it worth my while.%SPEECH_OFF%As the two leave to a tent, a part of you considers watching. Another part realizes you probably don't have the stomach for it, whatever it is, and also that you don't want your presence alone to interfere with the anatomist's work. That said, it actually does not take long for the two to reemerge. %asthmatic% stands up straight, breathing in long and heavy, and then letting it all out in one smooth breath.%SPEECH_ON%I have never felt better.%SPEECH_OFF%He says, then shakes %anatomist%'s hand. The healed man walks off. %anatomist% cleans his hands off.%SPEECH_ON%Unfortunately, there were a few complications. Let me see, what do we have...%SPEECH_OFF%The anatomist unfurls a scroll with hastily written notes, some of which are covered in blood. You read...}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_05.png[/img]{你想，为什么不试试全新的方法？ %asthmatic%同意了。%SPEECH_ON%既然会有疼痛，那就让它值得。%SPEECH_OFF%两个人走进帐篷后，你考虑着要不要看一看。但你意识到你可能无法忍受，无论它是什么，而且你也不想单单因为你的存在干扰解剖师的工作。虽然如此，两个人很快就重新出现了。%asthmatic%站直了身子，深吸一口气，然后一口气都吐了出来。%SPEECH_ON%我从没感觉过这么舒服。%SPEECH_OFF%他说，然后握了握%anatomist%的手。治愈的人走了。%anatomist%清洁了他的手%SPEECH_ON%不幸的是，出现了一些并发症。让我看看，我们有什么…%SPEECH_OFF%解剖师展开一卷匆忙写下的笔记，其中一些笔记上沾满了血。你读到了……}"
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{You okay the procedure and the two disappear for a time. Not long after, %asthmatic% the man with lungs like a dead dog being stepped on comes to you with a wide grin. He stands straight, puffs out his chest, and takes a long, deep breath, his body swelling like a toad, his cheeks puffing, then he slowly, slowly lets the air out. There is no wheeze. There is no scratch in the throat. His face does not get red. His arms slacken, yet he does not become dizzy.%SPEECH_ON%That anatomist got me patched up just right. He is but a miracle on legs.%SPEECH_OFF%The man turns around, revealing a series of holes in his flesh which suck and pucker as he breathes. %anatomist% comes around cleaning some strange metal utensil. He shakes his head.%SPEECH_ON%At least one of us is satisfied with the results as they have arrived.%SPEECH_OFF%You're not sure why the anatomist is upset, but you do get a glance at one of his texts which reveals an operation of lung-removal via scalpel and spoon. Surely that wasn't what he did to %asthmatic%. Surely.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_05.png[/img]{您同意了这个手术，之后那两个人就消失了一段时间。不久后，像踩在死狗肺脏上的%asthmatic%走过来，露出了灿烂的笑容。他站得笔直，挺胸抬头，深深地吸了一口气，身体像蟾蜍一样膨胀，脸颊鼓起，然后他慢慢地呼出气来，没有哮喘，也没有喉咙发痒，脸也没有变红，手臂放松了，但他并没有头晕。%SPEECH_ON%那个解剖学家真的把我修补得好极了，他简直就是个奇迹。%SPEECH_OFF%那个人转过身来，露出了肉体上的一系列吸气时会弯曲的凹陷。%anatomist%端着奇怪的金属器具过来清洗，他摇了摇头。%SPEECH_ON%至少我们中的一个对结果非常满意，这是已经到达了的程度。%SPEECH_OFF%您不确定为什么那个解剖学家很生气，但您瞥了一眼他的一本书，里面记载了用手术刀和勺子切除肺部的手术，他肯定不是这么对待%asthmatic%的吧。}"
 
 # scripts/events/events/dlc8/anatomist_vs_asthmatic_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{You okay the procedure. %asthmatic% turns around to tell the anatomist, who promptly sticks a metal prong deep into the man's chest. The man winces and yelps, his fingers curling as though to grasp the pain itself. He reels backward as %anatomist% holds the utensil like a shank. As the anatomist steps forward for another stab, you jump forward and stop him. He looks at you with confusion.%SPEECH_ON%This is part of the process, do you not understand? Now, I must continue with the puncturing. We will put eight more holes into him.%SPEECH_OFF%%asthmatic% screams, rather undignified in his protest of the process. You tell the anatomist that this is over. He sighs, lowering the tool.%SPEECH_ON%Anything of import requires pain, sellsword. Whether it is you acquiring heads to sell for crowns, or myself, pursuing a cure. If pain were not a critical element, we would not be upsetting the natural order in our own ways.%SPEECH_OFF%You tell him to shut his mouth and that it's over. He sighs and walks away, cleaning the utensil with a rag. %asthmatic% wheezes a thanks to you for intervening.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_05.png[/img]{您批准了这个程序。%asthmatic%转身对解剖学家说，解剖学家随即将金属尖插入男子的胸膛深处。这个男人痛苦地龇牙咧嘴，手指弯曲，仿佛要抓住疼痛本身。当%anatomist%像持刃一样拿着该工具向前再次出击时，您向前跳并阻止了他。他困惑地看着您%SPEECH_ON%这是程序的一部分，你不明白吗？现在，我必须继续刺穿他。我们将再给他穿八个洞。%SPEECH_OFF%%asthmatic%尖叫起来，他并不像是在高贵地反对这个过程。您告诉解剖学家这个过程结束了。他叹了口气，放低了工具。%SPEECH_ON%任何重要的事情都需要痛苦，佣兵。不论是您亲自去获取头颅来换取克朗，还是我为了追求治愈而痛苦。如果疼痛不是关键因素，我们也不会以自己的方式扰乱自然秩序。%SPEECH_OFF%您让他闭嘴，告诉他现在结束了。他叹了口气，拿着抹布清洗工具走开了。%asthmatic%为您介入表示感激，并喘着气说感谢您。}"
 
 # scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
 msgid "Hobble along now."
-msgstr ""
+msgstr "现在走路吧。(Hobble along now.)"
 
 # scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
 msgid "Had his clubfoot cured"
-msgstr ""
+msgstr "他的畸形脚被治愈了。"
 
 # scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
 msgid "Do it, work your trade."
-msgstr ""
+msgstr "去做吧，努力工作吧。"
 
 # scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
 msgid " is no longer Clubfooted"
-msgstr ""
+msgstr "不再瘸足。"
 
 # scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
 msgid "No, the risk is too great."
-msgstr ""
+msgstr "不，风险太大了。"
 
 # scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
 msgid "Experimented on by a madman"
-msgstr ""
+msgstr "被疯子实验过"
 
 # scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
 msgid "Walk walk, brother, it's your life."
-msgstr ""
+msgstr "走走，兄弟，这是你的人生。"
 
 # scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{You look at %anatomist% inquisitively.%SPEECH_ON%Am I running a horse racing outfit here? If the man wants his busted foot to get fixed, he can go out to pasture with honor and dignity. We won't be needing bizarre experiments that'll end up with the old gods know what results.%SPEECH_OFF%The anatomist clears his throat and says that the procedures are fairly simple, but he slips up in also saying that the scientific gains to be made from completing them are immense, showing that he did not have %clubfoot%'s interests in mind at all. You tell the man the conversation is over.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_05.png[/img]{你好奇地看着%anatomist%。%SPEECH_ON%难道我在这经营的是一家马匹赛马场吗? 如果那个人想让他的残疾脚得到治愈，他可以光荣地和尊严地退休。我们不需要那些会得出旧神知道什么结果的奇怪实验。%SPEECH_OFF%解剖学家清了清嗓子，说这些程序非常简单，但他在说到完成这些程序所获得的科学利益时失言了，表明他根本没有%clubfoot%的利益在心中。你告诉他对话已经结束。}"
 
 # scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{You find %anatomist% the anatomist staring at %clubfoot%'s awkward footing situation: namely that one of his feet looks like a bag of hammers. It is a disgusting, unsightly thing, and of course makes it difficult for him to perform the full duties expected of a sellsword. Word is that it is strangely popular with the womenfolk, but this is unconfirmed hearsay. Whatever the case, the anatomist comes to you with a suggestion.%SPEECH_ON%It's actually not at all rare malady, this man's clubfoot. At young age it is easily fixed, but the operation becomes steadily more difficult to amend the older one grows. Thankfully, I am a trained anatomist who has great depths of knowledge on this very subject. If you will let me, I shall attempt to heal this man of his unfortunate and unnecessarily lifelong circumstance.%SPEECH_OFF%%clubfoot% himself nods, saying he's ready to give it a whirl if you think it's best.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_05.png[/img]{你发现解剖学家%anatomist%盯着%clubfoot%笨拙的脚步情况看：即他的一只脚看起来像一袋锤子。这是一件令人厌恶和不美观的事情，当然也使得他难以履行雇佣兵的全部职责。消息称这在女人中间异常流行，但这是未经证实的传闻。不管怎样，解剖学家向你提出了建议。%SPEECH_ON%这种病症并不罕见，这个人的畸形足在年轻的时候很容易修复，但是年龄越大手术就越难以矫正。幸运的是，我是一位受过训练的解剖学家，在这个问题上拥有极其丰富的知识。如果你允许我，我将尝试治愈这个人的不幸并且不必要的终身情况。%SPEECH_OFF%%clubfoot%自己点头表示，如果你认为这是最好的办法，他就准备试一试。}"
 
 # scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
 msgid ""
@@ -946,6 +964,9 @@ msgid ""
 "\n"
 "When it's all said and done, %clubfoot%'s leg is totally wrecked and casted up. %anatomist% says the operation was a success, though there will be a somewhat lengthy recovery time that will be necessary. The foot will have to be re-casted again and again, and each time moving the foot a little more, but it can be done. A delirious %clubfoot% is smiling as he looks down at his foot.%SPEECH_ON%It will be worth it, captain. For me, and also for the %companyname%.%SPEECH_OFF%The rather dutiful and drugged up mercenary then falls backwards and into a snoring sleep.}"
 msgstr ""
+"[img]gfx/ui/events/event_05.png[/img]{您同意了%anatomist%的建议，他和那个脚残的人一起走了出去。您自然而然地跟了出去。您看到%anatomist%把%clubfoot%的脚放在一张凳子上。他拿出一根木条，上面已经有牙齿印痕，然后拿出一瓶液体，打开瓶塞，用液体涂满木头，自己喝了一口，然后把剩下的交给了他的病人。%clubfoot%喝了液体，然后咬住木条。接下来是一系列恶心的腿部骨折、固定和重新固定。%anatomist%用手术刀开始切割，咧嘴一笑。\n"
+"\n"
+"%clubfoot%早已晕倒。最后,%clubfoot%的腿被固定住了。%anatomist%说手术很成功，尽管需要一段相当长的恢复时间。要不断重新固定，每次移动一点点。但这是可以做到的。%clubfoot%陷入了精神错乱的状态，他望着自己的脚笑了。%SPEECH_ON%这值得了，首领。对我来说，也对%company%来说。%SPEECH_OFF%经过一番麻药之后，这个忠实的佣兵倒在床铺上开始打呼噜。}"
 
 # scripts/events/events/dlc8/anatomist_vs_clubfooted_event.nut
 msgid ""
@@ -953,18 +974,21 @@ msgid ""
 "\n"
 "There really isn't anything like counting inventory, and the only thing that could stop your enjoyment is the shrill, horrific screams of %clubfoot% suddenly emanating from the tent you diligently avoided going into. Now, with his shrill cries filling the air, you run to the tent and enter it. You find %anatomist% off to the side wiping sweat from his brow.%SPEECH_ON%Hello captain. Well, let me summarize here. As you can see, there have been some unforeseen complications. He will heal from them, of course, don't you worry about that, but the clubfoot shall remain. It proved, eh, resistant to my applications.%SPEECH_OFF%You look at %clubfoot%. He is now passed out, and beneath the kneecaps his leg is twisted up like a rag. The anatomist nods dutifully.%SPEECH_ON%Don't worry about that, I'll get that fixed, too. Just needed for the man to stop screaming and moving around so much and a little bit of a breather so I can catch my breath. Do you wish to watch?%SPEECH_OFF%The anatomist grabs the man's foot. It flops around in his grasp as though he was holding dough. You shake your head and hurry from the tent.}"
 msgstr ""
+"[img]gfx/ui/events/event_05.png[/img]{你不情愿地让解剖学家%anatomist%开始工作。你考虑加入他和%clubfoot%在帐篷里工作，但是让自己的脚骨折来治疗它，这种想法让你感觉不对劲。相反，你去数你最喜欢的存货清单。记录下你拥有什么，需要多少，战团正在以什么速度消耗这些物品，这一切都很有趣。\n"
+"\n"
+"确实没有什么比数存货清单更好的事情了，唯一可能停止你的享受的是%clubfoot%的尖锐可怕的尖叫，它突然从你刻意避免进入的帐篷中传来。现在，他尖厉的呼喊声充满了空气，你跑到帐篷里进去了。你发现%anatomist%在一侧擦拭额上的汗水。%SPEECH_ON%你好，队长。总之，让我这样总结一下。正如你所看到的，发生了一些无法预料的并发症。当然，他会康复，你不必担心，但那个脚残将会留下。它被我的医治所耗费的时间证明了，呃，它有点抵抗力。%SPEECH_OFF%你看着%clubfoot%。他现在已经昏迷，他的腿在膝盖以下扭曲得像一块抹布。解剖学家恭敬地点点头。%SPEECH_ON%别担心这个，我会解决的。只需要这个人停止尖叫和动来动去，我好好喘口气，就行了。你想看吗？%SPEECH_OFF% 解剖学家拿起那个人的脚。它在他的手中像揉面团一样晃动。你摇了摇头，赶快离开帐篷。}"
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 msgid " levels up"
-msgstr ""
+msgstr "升级了。"
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 msgid "Yes, do it."
-msgstr ""
+msgstr "是的，请做吧。"
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 msgid "Rest in peace, dog."
-msgstr ""
+msgstr "安息吧，狗。"
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 msgid "No, I don't think so."
@@ -972,19 +996,19 @@ msgstr "不，我不这么认为。"
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 msgid "Get that wound cleaned."
-msgstr ""
+msgstr "清洗那个伤口。"
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 msgid "Alright, you little mutt..."
-msgstr ""
+msgstr "好吧，你这个小杂种……"
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 msgid "Was denied the opportunity to study a wardog."
-msgstr ""
+msgstr "被拒绝学习战犬术的机会。"
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 msgid "[img]gfx/ui/events/event_27.png[/img]{%anatomist% sighs, but does not offer much protest and ultimately submits to your denial and walks away with a bit of a slouch. You ponder if he had a tail if it would find the place between his legs just then. Just then the prospect of his scientific designs, the dog itself, appears wagging its tail and carrying a stick in its mouth. It puts the stick down at your feet, but when you go to pick the stick up the dog growls and snatches it away. Maybe these strange creatures should have been studied...}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_27.png[/img]{%anatomist% 叹了口气，但并没有提出抗议，最终接受了你的否决，带着点儿佝偻地走开了。你想知道如果他有尾巴的话，它会不会刚刚找到夹在腿间的位置。就在此时，他的科学设计——那条狗，摇着尾巴，嘴里叼着一根棍子出现了。它把木棍放在你的脚下，但当你去捡起来时，狗却咆哮着将它抢了走。或许这些奇怪的生物应该被研究一下……}"
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 msgid ""
@@ -992,26 +1016,29 @@ msgid ""
 "\n"
 "%anatomist% eventually reappears with bloodied hands. He nods and says that the specimen was satisfactory and that much has been learned from its fighting spirit. You tell him to bury the dog. He seems disgusted, but you glare at him and he backs off, saying he'll give it a proper burial.}"
 msgstr ""
+"[img]gfx/ui/events/event_37.png[/img]{你点头告诉这个人去做他必须做的事情。就你而言，你在这里是来帮助这些解剖学家开展业务的，有时候可能意味着动用战团的资金。在这种情况下，一只斗犬恰好代表着这些资金。%anatomist%很高兴，便开始宰杀。你听到了狗铃的叮当声，然后是短暂的嗥叫声。你忽略了接下来的声音。\n"
+"\n"
+"%anatomist%最终带着沾满血迹的手出现了。他点头表示样本令人满意，并从它的战斗精神中学到了很多东西。你告诉他埋葬这条狗。他看上去很厌恶，但是你瞪了他一眼，他便退缩了，说他会为它做一个合适的葬礼。}"
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 msgid "[img]gfx/ui/events/event_27.png[/img]{%anatomist% the anatomist comes up to you with a horrific idea: he wants to take one of the company's dogs and open it up. Just to be sure, you ask him if he means to kill the dog. He throws his head side to side as though to weigh the options.%SPEECH_ON%I believe from the canine's perspective it would be best if it had expired before we go dissecting it.%SPEECH_OFF%The anatomist explains that the use of dogs for studies isn't unusual, and that this requirement will be for the betterment of understanding direwolves which, by some long stretch, a dog is no doubt related. You can't imagine the slaughtering of a company dog will go well with the rest of the men and tell him to find one of the hundreds of mangy mutts moping around. He shakes his head.%SPEECH_ON%All dogs are almost assuredly cousin to the direwolf, but a fighting dog is of a different breed, and most assuredly the closest to the matter at heart.%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_27.png[/img]{%anatomist% 解剖学家过来找你，提出了一个可怕的想法：他想取一只战团的狗来进行解剖。你问他是否是打算杀死这只狗。他摇头示意在两个选择之间权衡。%SPEECH_ON%我认为在我们开始解剖之前，最好让这只狗已经去世了。%SPEECH_OFF%解剖学家解释说，狗用于研究并不罕见，并且这种要求将有助于更好地理解不怕狼，而不怕狼显然和狗有着某种关系。你无法想象屠杀战团的狗会和其他士兵相处的好，于是让他去找几百只懒散四处游荡的狗之一。他摇着头。%SPEECH_ON%所有的狗几乎可以肯定都是不怕狼的同类，但是一只战斗狗却是不同种，而且几乎可以确定是最接近这个问题的犬种。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 msgid "[img]gfx/ui/events/event_19.png[/img]{You give %anatomist% the go ahead. He smiles like a child given his first gift. As he heads off, you wonder if you've made the wrong choice. You hear the anatomist wrangling with the dog, the clinking of its collar and the growling of it being roughed up. You await the yelp, only to hear instead a that's definitely human, and even a little bit feminine. As you race over to the scene, a large dog bolts past. You find %anatomist% on the ground holding his hand. Undeterred or perhaps trying to find some educational value, the anatomist mutters sweet scientific nothings to himself.%SPEECH_ON%Ah, I think that proves that maybe it did have a little direwolf in its blood.%SPEECH_OFF%Regardless of what %anatomist% could glean from a bleeding wound, the dog itself is nowhere to be found. No doubt it even understand that such a betrayal did not emerge from nothing. If there's direwolf in that dog, then there's also regular dog in that dog, and even a dog knows when its masters have betrayed it.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_19.png[/img]{你让解剖学家%anatomist%开始操作。他笑得像孩子拿到了第一份礼物。他走开后，你开始怀疑自己是否做出了正确的选择。你听到解剖学家正在和狗搏斗，听到狗项圈的撞击声和被激怒的吼叫声。你等着听到狗惨叫，但却听到了一个明显是人的声音，甚至有一点点女性化。你朝着声音飞奔而去，一个大狗冲了过去。你发现%anatomist%正躺在地上握着他的手，他毫不畏惧或者说是为了寻找一些教育价值，自言自语地喃喃细语着科学的真理。%SPEECH_ON%啊，我想这证明了它确实有一点亡狼的血统。%SPEECH_OFF%尽管%anatomist%可以从这个流血的伤口中获得什么，但这只狗却不见了。毫无疑问，它明白这样的背叛不是无缘无故而来的。如果这只狗有亡狼的血统，那么其中也有普通狗的血统，即使是狗也知道什么时候该背叛它的主人。}"
 
 # scripts/events/events/dlc8/anatomist_vs_dog_event.nut
 msgid "[img]gfx/ui/events/event_06.png[/img]{You let the %anatomist% do as he desires. If your job is to help them along in their scientific duties, then incidents like this are going to be a part of that. A little off a ways you can hear the anatomist wrestling with the dog and trying to pin it down for a quick death. But then you hear a man's voice bark in from the side, and the wrestling takes on a distinctly human tone, with more shouts and curses, and voices pleading for reprieve. You realize that you had totally forgotten about the company houndmaster. You hurry over to find %houndmaster% whipping the anatomist with a dog leash and throwing the occasional punch.%SPEECH_ON%Does this hurt, huh? How about this? Tell me, do you learn as you bleed? What do you think your teeth will taste like if I turn them into farkin' powder, huh?%SPEECH_OFF%Sighing, you go over and pull the houndmaster off the anatomist. %houndmaster% defends himself, saying that %anatomist% was trying to kill one of the dogs. You handwave this away, saying that perhaps there must have been some miscommunication somewhere. You look down at the bloodied anatomist and tell him to stay far away from the dogs and before he can bloodily gargle some protest about how it was you who said he could do it, you simply turn and walk away.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_06.png[/img]{您允许%anatomist%按他的意愿去做。如果您的工作是帮助他们完成科学任务，那么像这样的事件将成为其中一部分。你可以听到解剖学家正试图将狗按倒并迅速杀死。但接着你听到一个男人的声音从侧面喊叫进来，摔打声从人兽打斗，渐渐变成了更多的人类喊叫和互相咒骂声，最后传来了请求饶恕的声音。你意识到自己完全忘记了战团的狩猎犬管理员。你赶忙走近，看到%houndmaster%用狗链鞭打%anatomist%，并偶尔出手打他。%SPEECH_ON%你痛吗？那这个呢？告诉我，当你流血的时候，你学到了什么？如果我把你的牙齿弄成粉末，它们会尝起来像什么，呃？%SPEECH_OFF%你叹了口气，走过去将狩猎犬管理员拉开。%houndmaster%辩解说%anatomist%试图杀死其中一只狗。你挥手表示无所谓，说可能某个地方有误解。你看着满是鲜血的%anatomist%，让他远离狗，还没等他喷出一口充满血腥的抗议，说是你让他这样做的，你就转身走开了。}"
 
 # scripts/events/events/dlc8/anatomist_vs_historian_event.nut
 msgid "Getting bullied by eggheads."
-msgstr ""
+msgstr "被书呆子欺负。"
 
 # scripts/events/events/dlc8/anatomist_vs_historian_event.nut
 msgid "I think the historian is correct."
-msgstr ""
+msgstr "我认为这位历史学家是正确的。"
 
 # scripts/events/events/dlc8/anatomist_vs_historian_event.nut
 msgid "The anatomists probably know more on this."
@@ -1027,7 +1054,7 @@ msgstr ""
 
 # scripts/events/events/dlc8/anatomist_vs_historian_event.nut
 msgid "[img]gfx/ui/events/event_64.png[/img]{You tell the historian that the anatomists are well traveled and surely they have seen other books greater and grander than the one he has. The anatomists turn to you. They speak plainly.%SPEECH_ON%No, we haven't.%SPEECH_OFF%Not sure what they mean, you try and press the fact that you're defending them on this issue, reiterating that surely they've read plenty on the subject. Again, they scoff at you.%SPEECH_ON%Read plenty? READ? Do you not see that we have come out this way not in the interest of reading, but of doing. We are men of action, and by action we will find the truth of all matters of this world, particularly those regarding its men and beasts alike. The idea that we read our way to this position is something we take offense to.%SPEECH_OFF%Sighing, you try to amend the issue, but now %historian% the historian jumps in.%SPEECH_ON%Captain, do you also see me in this light? That I have merely read my way to this position? I, too, can fight, you know? That is why I am here. I hope you do not see me as someone of minor use to read a book here and there and do little else.%SPEECH_OFF%You've enough of this lot and turn and leave, hearing mutterings of how insulting it is that you think of them as mere eggheads and not the warriors that any sellsword company would hire. A thought of challenging them to martial combat arises, but you leave it be. Another thought of simply slaughtering them in their sleep also comes to mind. You dwell on it for a minute, but also let it go.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_64.png[/img]{你告诉历史学家解剖学家是经常旅游的，他们肯定已经看过比他那本更伟大、更宏伟的书。解剖学家们转向你。他们说话直截了当。%SPEECH_ON%不，我们没有看过。%SPEECH_OFF%你不确定他们的意思，试图强调你在这个问题上为他们辩护，重申他们肯定读过这方面的书很多。他们再次嘲笑你。%SPEECH_ON%读了很多？读书？难道你没有看到我们来这里不是为了阅读，而是为了行动。我们是行动的人，通过行动我们将发现这个世界上所有的问题，特别是那些有关人和野兽的问题。认为我们凭借阅读得到了这个位置的想法是令我们感到冒犯的。%SPEECH_OFF%叹了口气，你试图解决这个问题，但现在历史学家%historian%也加入进来了。%SPEECH_ON%队长，你也这样看待我吗？认为我只是通过阅读得到这个职位的吗？你知道吗，我也会战斗。这就是我来这里的原因。我希望你不认为我只是偶尔读几本书，做得很少的人。%SPEECH_OFF%你已经忍够了这些家伙，转身离开，听到他们在抱怨你把他们视为纯粹的学究，而不是任何佣兵团都会雇用的战士。一种向他们发起军事决斗的想法浮现在你的脑海中，但你放弃了。还有一个想法是在他们睡觉时将他们杀死。你沉思了一分钟，但也放弃了。}"
 
 # scripts/events/events/dlc8/anatomist_vs_iron_lungs_event.nut
 msgid "Not a chance."

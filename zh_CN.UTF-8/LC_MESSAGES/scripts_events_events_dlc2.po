@@ -135,7 +135,7 @@ msgstr "够了。我要把这个该死的恶魔从你身上赶出来！"
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{You go to check the inventory only to find %addict% splayed half-assed into a barrel, all four limbs hanging over the lip. There's a number of vials collected onto his belly. He stares at you with dim, reddened eyes, and the sockets holding them are purple as though all the blood had rushed there. You ask what the hell is going on and %addict% only smiles.%SPEECH_ON%Do, uh, do what you must. Er, captain. For I have already won.%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_05.png[/img]{你去查看库存，却发现%addict%半垂不挂地躺在一个桶里，四肢悬在桶外，他的肚子上收集了许多小瓶。他用昏暗、红肿的眼睛盯着你，抱着他的眼窝，就像所有的血液都涌到那里一样。你问他到底发生了什么，%addict%只是微笑着说。%SPEECH_ON%做吧，队长，做你必须做的事情。因为我已经赢了。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 # scripts/events/events/dlc2/youngling_alp_event.nut
@@ -199,7 +199,7 @@ msgstr "有人应该付钱让我们照顾他们。"
 
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
 msgid " flogged"
-msgstr ""
+msgstr "鞭打"
 
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
 msgid "Nice talking."
@@ -223,7 +223,7 @@ msgstr "被你命令鞭打了"
 
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
 msgid "Appalled by your order to have "
-msgstr ""
+msgstr "我对你下达的命令感到愤怒。"
 
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
 msgid ""
@@ -231,14 +231,17 @@ msgid ""
 "\n"
 " At first, the whipping does nothing, not even as it snaps across the man's back, leaving crescents of crimson. But after a few strikes, he wakes to reality and begins to scream. You come around to face him and ask if he'll swallow his addiction. He nods hurriedly. You let him get whipped again, and ask again, and again he nods. Another whipping, another question, another answer. So this goes, until he is broken and whatever ailed him is gone.}"
 msgstr ""
+"[img]gfx/ui/events/event_38.png[/img]{你们把%addict%带到了一个临时的鞭刑柱前。他瘫软地躺在木头上，手指张开，不停地拧动着。他的眼神像在追逐蝴蝶，当%otherbrother%用鞭子抽打他时，他带着茫然的表情。\n"
+"\n"
+"起初，鞭打似乎无济于事，即使鞭子呼啸着抽在他的背上，也只残留了一道道红斑。但几次抽打之后，他渐渐清醒，开始尖叫。你扭过头问他是否愿意戒毒，他急忙点头。你让他再次挨鞭子，然后问他同样的问题，他再次点头。又来一轮的鞭打、问题和回答，这样不断重复着，直到他崩溃，不管以前的烦恼如何，都已经不复存在。}"
 
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{You pull %addict% out of the barrel and throw him to the ground. He wobbles there as though the earth was a staircase and he was looking down the top step's precipice.%SPEECH_ON%Oy, sir, careful, it's just down and down!%SPEECH_OFF%At first you think to kick his arse, but relent. You crouch and set down next to the man as he rolls over to stare at the clouds. Time passes, and after a while %addict% purses his lips and you can see clarity has returned to his eyes.%SPEECH_ON%I got a problem, sir.%SPEECH_OFF%You nod and tell him to ease up on the potions, that you can't trust him in this state. If he's got a problem with being a sellsword, if that's why he's like this, then that's okay, but it is a problem. He purses his lips again and nods.%SPEECH_ON%Thank you, sir. I'll do my best to unfark myself and set things straight.%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_05.png[/img]{你从酒桶里拉出%addict%并将他摔倒在地。他在那里摇摇晃晃，好像大地是一道楼梯，他向下看到顶层。%SPEECH_ON%喂，先生，小心点，下面的路越来越陡峭了！%SPEECH_OFF%起初，你想踢他的屁股，但最终放弃了。你蹲下来坐在他旁边，等着他翻身仰望云霄。时间过去了一会儿，%addict%闭上嘴唇，你能看到他的眼睛恢复了清明。%SPEECH_ON%我有问题，先生。%SPEECH_OFF%你点了点头，告诉他要减少药剂的使用量，因为你无法信任他在这种状态下。如果他对当卖剑手有问题，如果这就是他变成这样的原因，那没关系，但这确实是一个问题。他再次闭上嘴唇点头。%SPEECH_ON%谢谢你，先生。我会尽力解决自己的问题，把事情理顺的。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/addict_steals_potion_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{You pull %addict% out of the barrel and throw him to the ground. He wobbles there as though the earth was a staircase and he was looking down the top step's precipice.%SPEECH_ON%Oy, sir, careful, it's just down and down!%SPEECH_OFF%At first you think to kick his arse, but relent. You crouch and set down next to the man as he rolls over to stare at the clouds. After a while he looks over.%SPEECH_ON%You trying to help me?%SPEECH_OFF%You nod and say you are, but %addict% simply smiles and shakes his head.%SPEECH_ON%Ain't talking to you, I'm talking to you!%SPEECH_OFF%He points behind you at the barrel, and by the time you look back the man is up to his feet and charging forward.%SPEECH_ON%Fat sumbitch gon' be smart with me huh!%SPEECH_OFF%The sellsword tackles the barrel and it splinters from top to bottom and a number of items within spill out and shatter. A few mercenaries rush over and get the man and take him away while you count what's been lost.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_05.png[/img]{你将%addict%从桶里拖了出来，把他摔到了地上。他在那里摇摇晃晃，仿佛地球是一架楼梯，他正在看着上面的悬崖。%SPEECH_ON%喂，先生，小心点，这只是往下，一直往下！%SPEECH_OFF%一开始你想踢他的屁股，但还是放弃了。你蹲下身子，坐在那个人旁边，他翻了个身，看着云彩。过了一会儿，他转过头来。%SPEECH_ON%你要帮我？%SPEECH_OFF%你点了点头，说你是的，但%addict%只是微笑着摇了摇头。%SPEECH_ON%我不是在和你说话，我是在和你说话！%SPEECH_OFF%他指着你身后的桶，当你回头看的时候，那个人已经站起来向前冲了过去。%SPEECH_ON%这个胖老头想跟我搞聪明啊！%SPEECH_OFF%佣兵扑向桶，它从上到下裂开了，里面的一些物品散落开来并碎了。几个佣兵跑过来把这个人带走，与此同时，你正在数着失去了什么。}"
 
 # scripts/events/events/dlc2/ailing_recovers_event.nut
 msgid "Glad to hear."
@@ -254,7 +257,7 @@ msgstr "感觉他在很长一段时间内做得最好"
 
 # scripts/events/events/dlc2/ailing_recovers_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{%ailing% is walking around camp with his hands out and his fingers stretched as though he were balancing across a rope. He nods to himself as he turns around, foot placed before foot, marching his way back across.%SPEECH_ON%For the first time in a long time I actually feel quite alright. Thanks, %healer%!%SPEECH_OFF%It seems %healer% knew of a couple means to rid what ailed %ailing%.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_05.png[/img]{[ailing]像在绳索上平衡一样，双手伸出，手指伸直地绕着营地走。他自己点头，脚步稳定地走回来。%SPEECH_ON%这是很长时间以来的第一次，我感觉非常好。谢谢你，[healer]！%SPEECH_OFF%[healer]似乎知道几种方法来治愈[ailing]所患的病痛。}"
 
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 msgid "We're good."
@@ -286,27 +289,27 @@ msgstr "你会和同伴分道扬镳的。"
 
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 msgid "[img]gfx/ui/events/event_51.png[/img]{You find a man sitting next to a hole in the ground. Beside him is a metal stake attached to which is a chain that runs into the hole. The hole is covered with goatskin. He regards you with a wave, but says if you wanna see it you'll have to pay. You ask what it is he's got. He grins.%SPEECH_ON%The darndest thing, sir.%SPEECH_OFF%A few armed men stand off a ways, no doubt a part of whatever scheme is in play here.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_51.png[/img]{你发现一个人坐在地上的一个洞边上。他身边有一个铁桩，上面系着一条链子，链子伸进了洞里。洞口被山羊皮覆盖着。他挥手看着你，但说如果你想看就得付钱。你问他手上的东西是什么。他咧嘴一笑.%SPEECH_ON%这是一个奇特的东西，先生。%SPEECH_OFF%几个武装人员站在不远处，毫无疑问是这里任何阴谋的一部分。}"
 
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 msgid "[img]gfx/ui/events/event_51.png[/img]{You're not going to bother quarreling with these men. Some of the best fighters you've seen have gotten killed in reckless and pointless bar fights. If these idiots want to keep the monster, so be it. But a few of the company's mercenaries are not happy with the idea of an alp allowed to live, especially as the creature gazed its faceless stares upon a number of them and seemed to nod as though it'd be seeing them at a later juncture.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_51.png[/img]{你不会因这些人而争吵。一些你见过的最好的战士都在鲁莽和无意义的酒吧打斗中被杀害了。如果这些白痴想保留那个怪物，那就让他们自便吧。但战团的一些雇佣军对允许一个独眼巨人存活的想法并不满意，特别是当那个怪物盯着他们那无脸的眼神，并似乎点头表示以后还会遇见他们的时候。}"
 
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 msgid "[img]gfx/ui/events/event_51.png[/img]{Such hideous creatures cannot stand to survive. You tell the man that it is likely to get its way out of the hole at some point and start wreaking havoc on the world, if not moreso than usual in a fit of primeval vengeance. The man spits.%SPEECH_ON%Go fark yourself. Get on out of here and you ain't getting your money back. You take one wrong step and I'll have to defend myself and my investment. Was a right bitch capturing that thing, don't you know?%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_51.png[/img]{这种丑陋的生物无法生存。你告诉这个人，它很可能会在某个时候摆脱洞穴并开始在世界上制造混乱，甚至可能出于原始的复仇心理而更疯狂。这个人吐了口口水。%SPEECH_ON%去你的吧。赶紧离开这里，你的钱别想要回。你要是走错一步，我可得捍卫自己和我的投资。抓住那玩意儿可真是个噩梦，你知道吗？%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 msgid "[img]gfx/ui/events/event_60.png[/img]{You grab a spear from one of the guards and throw it into the pit, striking the alp through its brainpan. Its pale flesh deflates around the spear shaft as though you'd struck down an enormous curtain. The monster enslaver draws a dagger and goes to stab you. %randombrother% parries the blow and cuts the man across the throat. A few guards dive into the fray, all of them dying in quick and hurried fashion, though a few of the mercenaries get hurt in the fracas. With the violence over, you collect whatever gold the enslaver had on him. You have the bodies dumped into the hole with the dead alp and then fill it up.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_60.png[/img]{你从一个士兵手中拿起了一支长矛，将其刺进了坑中，直接命中阿尔普的头脑。怪物那苍白的肉体像撞上了一堵巨大的幕布一样被压缩下去。奴役者拔出匕首准备来刺杀你。%randombrother%挡下了这一击并将这个人的喉咙割破。几个士兵投入了战斗，他们在快速而匆忙的战斗中全部死亡，但一些雇佣兵在混战中受了伤。在暴力事件结束后，你搜索到了奴役者身上所有的黄金。你将死者的尸体和阿尔普的尸体一起投入坑中，然后将坑填平。}"
 
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 msgid "[img]gfx/ui/events/event_51.png[/img]{You flip the man a few coins. He bites them in his teeth and you tell him to be wary of doing that, there's blood on some of them. He shrugs and pockets the pay. You come to the hole and the man throws the tarp off. A gruesome looking alp stares up and hisses at you with rows of sharp teeth and a face like curtain made of pale flesh. There is a shackle around its neck and the man whistles at the reveal as though it was the first time he ever saw it there.%SPEECH_ON%Awful little bugger, ain't it? Don't get too close, it'll have you seeing things. Unless you wanna do that, of course. Some folks do. But if you start seeing things and you enjoy then you gotta pay a little more!%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_51.png[/img]{你往那人手里掷了几枚硬币。他咬着硬币说道，你警告他小心点，这些硬币上有血迹。他耸耸肩，把钱收了起来。你来到洞口，那人掀开了帆布。一只相貌可怖的绿妖注视着你，嘶嘶作响，嘴里露出一排锐利的牙齿，脸上条帘般的皮肉苍白如雪。它的脖子上套着一只铁套，那人看到时吹起口哨，似乎是第一次看到有那样东西。%SPEECH_ON%真是个可怕的小家伙，不是吗？别靠近它，否则你会看到许多东西。除非你想这么做，当然有些人是想这么做的。但是如果你开始看到东西，并且你感到享受，那么你需要多付点钱！%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/alp_captured_in_hole_event.nut
 msgid "[img]gfx/ui/events/event_122.png[/img]{%beastslayer% the beast slayer walks up to the hole and stares in. He nods.%SPEECH_ON%You don't have it captured. Alps cannot be captured.%SPEECH_OFF%The monster enslaver looks over and asks how so. The slayer laughs.%SPEECH_ON%Because that is no ordinary creature. This alp is biding its time. You said it sends nightmares to people looking in, yeah? Yeah, that's right. Fear is its blade and it is sharpening it right and steady. It is practicing its craft the best it can. Alps use environments to put their victims in and currently it's making do with the dirt. But eventually you'll look in and it'll be looking up, ready for the very moment, and you'll find yourself in the hole with it. Not you, yourself. No, the body would be spared. It will take your mind into that hole. And it will be there. You and that monstrosity alone in all the dark this world has to spare. For how long? Days, weeks. A very dangerous alp can cage your mind for what seems like years. You'll come out of it a fool, broken and slobbering and begging for death, that is if you still have the capacity to speak by then.%SPEECH_OFF%The slayer takes a bow from one of the enslaver's guards. He nocks an arrow. The alp looks up and its mouth blossoms open to rows of razor sharp teeth. The slayer shoots it right in the maw killing it instantly. He hands the bow back and unfurls his journeyman sheet.%SPEECH_ON%This is the pay I am owed. Extra for saving your soul and mind from an alp's forever harvest. I'll also be taking the alp's skin. Agreed?%SPEECH_OFF%The enslaver hurriedly nods.%SPEECH_ON%Yes, yes of course!%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_122.png[/img]{兽之杀手%beastslayer%走近洞口，凝视着里面。他点了点头。%SPEECH_ON%你没有将它抓住。艾尔普斯无法被捕捉。%SPEECH_OFF%控制怪物的人看过来问怎么回事。兽之杀手笑了。%SPEECH_ON%因为那不是普通的生物。这个艾尔普斯在等待时机。你说它会给看进去的人发噩梦，对吧？是的，是的。恐惧是它的利刃，而它在尽力磨砺它。它在尽其所能地练习。艾尔普斯利用环境来放置它们的受害者，现在只能靠泥土。但是，最终你会看进去，它会仰视着你，准备好在恰当的时候袭击你，然后你就会和它在这个世界所剩无几的黑暗中被困在这个洞里。有多长时间？几天、几周。非常危险的艾尔普斯可以将你的思维囚禁数年。你会变成个傻子，破碎而口吐白沫，渴望死亡，前提是那时你还有说话的能力。%SPEECH_OFF%杀手从一个控制者的卫兵那里拿起一支弓。他把箭放在上面。艾尔普斯抬起头，嘴里露出了一排锋利的牙齿。杀手正对着嘴巴射击，立即将它击毙了。他还了弓，展开了他的学徒证明。%SPEECH_ON%这是我应得的报酬。多给你们挽救你们的灵魂和思想免遭艾尔普斯的收获。我还会带走艾尔普斯的皮肤。同意吗？%SPEECH_OFF%控制者急忙点头。%SPEECH_ON%好的，好的，当然同意！%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/alp_nightmare1_event.nut
 msgid "What the fuck!"
@@ -334,23 +337,23 @@ msgstr "把他的尸体从那里拿走！"
 
 # scripts/events/events/dlc2/alp_nightmare1_event.nut
 msgid "[img]gfx/ui/events/event_26.png[/img]{The men are talking around the campfire when %spiderbro% suddenly jumps to his feet screaming. He bounds backward, and lit by the flames you see a spider the size of a helmet glommed onto his boot!}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_26.png[/img]{围着营火的士兵们正在交谈，%spiderbro%突然跳起来尖叫着。他向后弹开，被火光照亮，你可以看到一只像头盔一样大的蜘蛛附在他的靴子上！}"
 
 # scripts/events/events/dlc2/alp_nightmare1_event.nut
 msgid "[img]gfx/ui/events/event_26.png[/img]{You draw your blade, but %otherbro% has already beaten you to the punch. He yells at %spiderbro% to stand still which he reluctantly does. But the armed sellsword swings his blade far too high and cuts straight through the man's neck. The headless body buckles and the rest of the company screams in horror and rage.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_26.png[/img]{你拔出了剑，但是%otherbro%已经比你更快了。他对%spiderbro%喊叫让他站定，他很不情愿地这样做了。但是，这个持武器的雇佣兵的剑挥得太高，直接斩断了这个人的脖子。无头的身体倒下，整个%company% 发出了恐惧和愤怒的尖叫。}"
 
 # scripts/events/events/dlc2/alp_nightmare1_event.nut
 msgid "[img]gfx/ui/events/event_39.png[/img]{You run toward %otherbro% looking to choke the very life out of him, only for your hands to sift through the flesh like fingers into fog and your momentum sails you into the ground.%SPEECH_ON%Uh, you alright captain?%SPEECH_OFF%Looking back, you see a perfectly healthy %spiderbro% sitting beside the fire. Far off in the distance, something pale and sleek steps back from a tree trunk. When you blink, it's gone. You tell the men to mind the perimeter and then return to your tent, shaking your head and pinching your eyes.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_39.png[/img]{你冲向%otherbro%，想要梆死他，然而你的双手只是跑过他的身体，就像穿过了雾气一样，你的势头差点把你撞倒在地。%SPEECH_ON%队长，你没事吧？%SPEECH_OFF%回过头来，你看到一个状况完全良好的%spiderbro%坐在火边。远处，有一些苍白而光滑的东西从一棵树干上退后，你眨眼之间，它就不见了。你告诉士兵守好外围，然后回到你的帐篷，摇着头，捏了捏眼睛。}"
 
 # scripts/events/events/dlc2/alp_nightmare1_event.nut
 msgid "[img]gfx/ui/events/event_39.png[/img]{You scream at the mercenaries to do their part, but when you jump toward the campfire and %spiderbro% there's a wash of embers and sparks and when they fade you find the sellsword calmly sitting beside the flames.%SPEECH_ON%Ah, captain, did you say something?%SPEECH_OFF%Looking around, you find the rest of the company engaged in idle chat. When you look back at %spiderbro% you thought you saw a white shadow passing behind him, but upon second glance it is gone. You tell the men to keep a vigilant eye for intruders and then return to your tent.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_39.png[/img]{你朝雇佣兵大喊让他们尽职尽责，但当你跳向篝火和%spiderbro%的时候，有阵灰烬和火花袭来。当它们消失后，你发现那个佣兵静静地坐在火边。%SPEECH_ON%啊，队长，你说什么？%SPEECH_OFF%四周看了看，你发现战团的其他成员正在聊天。当你再次回头看向%spiderbro%时，你以为看到他身后掠过一道白影，但再一看，却已经没有了。你告诉士兵们要警惕入侵者，并回到自己的帐篷。}"
 
 # scripts/events/events/dlc2/alp_nightmare1_event.nut
 msgid "[img]gfx/ui/events/event_26.png[/img]{%spiderbro% nods and stiffly walks toward the campfire with the spiderling looking up at him with oddly trusting eyes. He puts the critter to the pit and it is immediately set ablaze. At first, you think he's done it, he's in the clear, but the fiery spiderling sprints up the man's pantleg, setting his attire alight, and gloms onto his head. Set afire, the man throws his hands out and begins to run around for help. The beast burrows its fangs into his skull and the screaming ceases in sudden paralysis and the sellsword falls into the campfire like a board of wood.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_26.png[/img]{%spiderbro%点了点头，僵硬地走向篝火，蜘蛛宝宝用着奇怪的信任之眼注视着他。他把小动物放进了火坑里，立刻着了火。一开始，你以为他已经摆脱了危险，但是燃烧的蜘蛛宝宝沿着这个男人的裤腿狂奔，将他的衣服点燃，并粘上了他的头。着火后，这个人伸出手寻找帮助。那野兽咬住了他的头，叫声戛然而止，这位雇佣兵像木板一样倒在篝火里。}"
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
 msgid "What? Let me see!"
@@ -374,19 +377,19 @@ msgstr "可能会喝两三杯。"
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{You leave the man be, but the second you turn away you hear the shatter of glass and the gargle of the man which ruined it. Spinning back, you find %addict% doubled over with strips of flesh for a neck and he's picking glass out of an exposed throat. You rush to his aid, putting your hand against the bloodletting and you can feel his throat puckering against your fingers like the mouth of a beached fish. The man collapses to the ground, his full weight, his lifeless weight, his dead weight.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_05.png[/img]{你让那个人走了，但是当你转过身去的时候，你听到了玻璃破裂的声音和那个人的喉咙发出的咕噜声。你回过头来，发现%addict%弯下腰，脖子上挂着绞肉机，正在从露出来的喉咙里挑玻璃。你冲过去帮他止血，手感受到他的喉咙像一条搁浅的鱼一样撮动。那个人倒在了地上，他沉重的，死去的身体压在你身上。}"
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
 msgid "[img]gfx/ui/events/event_39.png[/img]{You rush forward and go to lift the man's head up only for it to be a jug tied to a spear. Stepping back, you bump into %addict% who is sorting the inventory.%SPEECH_ON%Captain, you doing alright?%SPEECH_OFF%Nodding, you ask him how the stores of potions are doing. He grins.%SPEECH_ON%All accounted for. Should I count again?%SPEECH_OFF%You tell him to count something else and head to your tent for a drink. Turning around, a pale figure shifts away from one of the crates. You draw your sword and chase after it only to find a sheet billowing in the wind.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_39.png[/img]{你冲上前去，想抬起那个人的头，只发现那是一只系在长矛上的陶罐。退后一步，你撞到了%addict%，他正在整理库存。%SPEECH_ON%队长，你还好吧？%SPEECH_OFF%你点点头，询问他药水的存货情况。他笑了笑%。%SPEECH_ON%已经全都统计清楚了。我要再数一遍吗？%SPEECH_OFF%你叫他去数其他的东西，然后去帐篷里喝一杯。转身时，一道苍白的身影从箱子边上飘了出来。你拔出剑，追了过去，只发现是一张在风中飘荡的布片。}"
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
 msgid "[img]gfx/ui/events/event_39.png[/img]{You pull %addict% out of the barrel and throw him to the ground. He quickly flips around and yells out with perfect clarity.%SPEECH_ON%What the fark, captain?%SPEECH_OFF%It's not %addict% at all, but %otherbrother%. Looking away, you see %addict% stropping a blade. A pale figure shifts in the distance, but when you blink it is gone. You pull %otherbrother% to his feet and tell him to keep an eye out for robbers. He nods dutifully, perhaps sensing something is off with you, or perhaps not wanting to confront you for a mistake. You return to your tent for a drink.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_39.png[/img]{你将%addict%从木桶里拉出来，将他扔到地上。他迅速翻了个身，用清晰的声音喊道%SPEECH_ON%队长，你怎么了？%SPEECH_OFF%这不是%addict%，而是%otherbrother%。当你转身时，你看到%addict%在磨刀。一个苍白的身影在远处移动，但当你眨眼时，它就消失了。你让%otherbrother%站起来，并告诉他要小心强盗。他恭敬地点点头，可能感觉到你有点不对劲，也可能不想因一个错误而与你对抗。你回到帐篷里喝酒。}"
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
 msgid "[img]gfx/ui/events/event_39.png[/img]{You bow your head to the earth, feeling such shame that you harken to the days when you gave a shite about the old gods. When you look back up, you find your fingers into a grain sack with its contents spilling all over.%SPEECH_ON%Oy captain, we gotta put those to use.%SPEECH_OFF%Looking over, you see %addict% and a white shadow standing behind him. You rush to your feet, but somewhere in all that hustle the shadow departed. You cannot find it nor any footprint and, not wishing to scare %addict% any further, you tell the sellsword to keep a watchful eye on the perimeter. Yourself, you go to your tent for a drink.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_39.png[/img]{你低下头，感到非常惭愧，回想起以前关心旧神的日子。当你抬起头时，你发现自己的手指伸进一袋谷物里，里面的东西洒了一地。%SPEECH_ON%嘿，队长，我们得好好利用这些。%SPEECH_OFF%向那边看去，你看见了 %addict% 和一个白色的影子站在他身后。你冲起来，但在所有的纷乱中，那个影子已经消失了。你找不到任何踪迹，也不想再吓唬 %addict%，于是告诉佣兵要注意周围的情况。你自己回帐篷喝一杯。}"
 
 # scripts/events/events/dlc2/alp_nightmare2_event.nut
 msgid ""
@@ -394,6 +397,9 @@ msgid ""
 "\n"
 " At first, the whipping does nothing, not even as it snaps across the man's back, leaving crescents of crimson. But after a few strikes, he wakes to reality and begins to scream. You come around to face him and ask if he'll swallow his addiction. He nods hurriedly. You let him get whipped again, and ask again, and again he nods. Another whipping, another question, another answer. Finally, %otherbrother% slackens the whip and coils it.%SPEECH_ON%He's dead, sir.%SPEECH_OFF%}"
 msgstr ""
+"[img]gfx/ui/events/event_38.png[/img]{你们把%addict%押到了临时的鞭刑柱边。他无力地倚靠在木头上，指尖散开着，还不停地捏着和握着。他看起来像在追蝴蝶，当%otherbrother%用鞭子狠狠地抽打他时，他带着那种缺席的神情。\n"
+"\n"
+"起初，鞭打没有任何效果，即使它扫过那人的背部，留下了新月形的血痕。但几次鞭打之后，他清醒了过来开始尖叫。你走过去面对他，问他是否愿意戒掉他的瘾。他急忙点头。你让他再次挨鞭子，并再次询问。他又点点头。再一次的鞭打，再一次的问题，再一次的答案。最后，%otherbrother%收紧鞭子，将它卷起来。%SPEECH_ON%他死了，长官。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "Ah well."
@@ -409,7 +415,7 @@ msgstr "射的好！"
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "Witnessed "
-msgstr ""
+msgstr "目睹(Witnessed)"
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "Felt entertained by "
@@ -425,15 +431,15 @@ msgstr "这是个预兆吗？"
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid " with pinpoint accuracy"
-msgstr ""
+msgstr "精准地"
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid " being shat on by a bird"
-msgstr ""
+msgstr "被鸟屎砸中"
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "'s fine display of archery"
-msgstr ""
+msgstr "队长精湛的射箭技艺"
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "Got shit on by a bird for good luck"
@@ -445,7 +451,7 @@ msgstr "报复一只鸟"
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "Exacted revenge on a bird that shat on "
-msgstr ""
+msgstr "向那只拉屎的鸟复仇"
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "Someone bring down that plumed transgressor!"
@@ -461,19 +467,19 @@ msgstr "%terrainImage%{%birdbro% 点了点头。%SPEECH_ON%Course. Just ruined m
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "%terrainImage%{While traveling the land, %birdbro% gets struck by birdshite. It hits his swordhand and splashes crosswise all over his armor.%SPEECH_ON%Aww, awwww!%SPEECH_OFF%His arms go wide like chicken wings as he looks at the damage.%SPEECH_ON%Bloody hell, just my luck!%SPEECH_OFF%}"
-msgstr ""
+msgstr "%terrainImage%{在旅行途中，%birdbro%被鸟屎击中。它打在他的剑手上，并溅到他的盔甲上。%SPEECH_ON%啊，啊！%SPEECH_OFF%他的手臂像鸡翅膀一样大张，看着伤口。%SPEECH_ON%该死的，真是我倒霉！%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "%terrainImage%{The ever superstitious %superstitious% analyzes the shit with the appraising eye of a proper jeweler. He purses his lips and nods, as satisfied a summary of bird shit as there ever was. He says.%SPEECH_ON%This is a good thing.%SPEECH_OFF%In the face of very incredulous company the man calmly explains that being shat on by a bird is an omen of good things to come. A few of the sellswords seem convinced by this notion. It is rather spectacular to have a bird choose you, out of all earth below, to land a squat on. You nod and say %birdbro% should open his mouth next time for extra special good fortune.}"
-msgstr ""
+msgstr "%terrainImage%{老迷信鬼%superstitious%用正确鉴定家的眼光分析着这坨鸟屎。他噘起嘴点了点头，这是关于鸟屎的一个很满意的总结。他说：%SPEECH_ON%这是一件好事.%SPEECH_OFF%在十分怀疑的人们面前，这个人冷静地解释说被鸟屎砸中是一个好兆头。一些雇佣兵似乎已经相信了这个观念。如果一只鸟选择在所有地球下方落脚，这是相当壮观的。你点点头，说%birdbro%下次应该张嘴等更特别的好运。}"
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "%terrainImage%{You tell %birdbro% that being shit on is a part of life and get the company ready to get back on the road. But a modest %historian% comes up and tells the ill-fated sellsword to hold off on cleaning the shite. The historian takes a good look at the shite and then up at the bird which authored it.%SPEECH_ON%Yes, yes... I know that bird! That magical creature!%SPEECH_OFF%The men look up at the bird as though they were sealeagured sailors finding rarified land. %historian% points at %birdbro%.%SPEECH_ON%You got shat on by a red-and-blue mockingbird! That's all I wanted to say, really. I just hadn't seen one in awhile. You... you can clean it now.%SPEECH_OFF%The mercenaries stand slackjawed before bursting into laughter. %birdbro% grabs the historian and uses his sleeves to clean the shit off which brings more roars from the men.}"
-msgstr ""
+msgstr "%terrainImage%{您告诉%birdbro%被鸟屎糊身是生活的一部分，准备好继续前进。但一位谦虚的%historian%走上来告诉这个不幸的自由军雇佣兵先不要清理鸟屎。历史学家仔细看了看鸟屎，然后抬头看了看鸟。%SPEECH_ON%是的，我知道那只鸟！那只神奇的生物！%SPEECH_OFF% 雇佣兵们仰望着那只鸟，就像他们是被困在海上的水手发现一样。%historian%指着%birdbro%。%SPEECH_ON%你被一只红蓝色的Mockingbird（一种鸟）拉屎了！我就是想说这个，真的。我很久没见到这种鸟了。你……你现在可以清理了。%SPEECH_OFF% 雇佣兵们目瞪口呆，然后爆发出笑声。%birdbro%抓住历史学家，用他的袖子擦掉鸟屎，这引来了更多人的欢呼。}"
 
 # scripts/events/events/dlc2/bird_shits_on_sellsword_event.nut
 msgid "[img]gfx/ui/events/event_10.png[/img]{%archer% looks up, hand shielded over his eyes, tongue out. He sees the bird and nods. He licks a finger, puts it to the air, and nods again. The archer grins as he nocks an arrow.%SPEECH_ON%With crime there is punishment.%SPEECH_OFF%The mercenaries groan and mock the man's moralizing, but he calmly raises the bow and lets the arrow loose. It zips and shrinks high into the air and you can hardly see the shot but you do see the bird suddenly crank sideways and start twirling to the earth. The sharpshooter nods and looks over at the company.%SPEECH_ON%You laughing now?%SPEECH_OFF%This only brings more jeers. The archer snidely comments about his importance and this brings about a healthy debate between the men who stand on the frontline and those in the back. You tell the men that if they want to argue which is better they can prove it on the battlefield.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_10.png[/img]{%archer%抬头看向天空，用手遮住眼睛，伸出舌头。他看到了鸟，点了点头。抬起一根手指，试探了一下空气，然后再次点头。射手露出笑容，扣住了箭。%SPEECH_ON%犯罪必受惩罚。%SPEECH_OFF%雇佣兵们哼哼唧唧、嘲笑他在道德上的宣讲，但他平静地举起弓，放开了箭。箭矢迅猛飞向高空，几乎看不清轨迹。但你看到鸟突然向一侧倾斜、开始在空中旋转。神射手点了点头，看向了战团。%SPEECH_ON%你们现在还笑得出来吗？%SPEECH_OFF%这仅仅带来更多的嘲笑。射手嘴里嘀咕着他的重要性，这引起了前线和后方士兵之间激烈的辩论。你告诉这些人如果他们想争出哪个更优秀，那就去战场上证明它。}"
 
 # scripts/events/events/dlc2/brawl_event.nut
 msgid "Had a good brawl"
@@ -489,6 +495,9 @@ msgid ""
 "\n"
 " Shaking your head, you ask what sparked it. The men shrug. Not a one can remember. You do a role call to make sure nobody's dead. You then tell them all to shake hands, keeping an eye on them as they do so. No bad blood to sniff out. Seems like this was just a bit of a fun tussle and wrassle, that's all.}"
 msgstr ""
+"[img]gfx/ui/events/event_06.png[/img]{你出去撒尿，刚放出来的时候，战斗的喧哗突然在你身后爆发。你夹住它，收拾好裤子，往营地走回去。在那里，你发现整个战团正在与自己作战，而不是与任何特定的敌人作战。雇佣兵们爬过装备和篝火，互相打拳击、转肘和摔滚，或者相互拍打，把对方扑倒在地上。任何人一旦摔倒，就会被踢屁股，直到其他人分散注意力去分散踢人者的注意力，然后摔倒的人跳起来，重新加入战斗。当人们慢慢意识到你在那里时，这场混乱逐渐减轻，他们开始整理队形，似乎迅速地组织起来是个解决他们粗鲁行为问题的适当办法。\n"
+"\n"
+"你摇摇头，问他们是什么引发了这场斗殴。士兵们耸耸肩。任何人都记不住。你进行点名，确认没有人死亡。然后告诉他们握手，一边盯着他们。没有什么不好的情绪可以闻出来。看来这只是一场有趣的扭打和摔交。}"
 
 # scripts/events/events/dlc2/collector_wants_trophy_event.nut
 msgid "No deal."
@@ -500,7 +509,7 @@ msgstr ""
 
 # scripts/events/events/dlc2/collector_wants_trophy_event.nut
 msgid "[img]gfx/ui/events/event_01.png[/img]{While browsing the town's markets, a man in silk approaches. He's wearing a grin with more glitter than chomp, and each of his fingers are adorned to glint. | As you take a look at the local market's wares, a strange man approaches. He has baubles of strange liquids hanging from his hip and there's a strange wood taking the place of most of his teeth. | It's not a true trip to the markets without some strange fella accosting you. This time it's a man with a large face, his mouth a bear trap of jagged teeth, and his cheeks set high as though they were meant to be shelves. Features aside, he swings his weight around like someone of import and wealth.}%SPEECH_ON%{Ah sellsword, I see you have some interesting trophies with ya. How about I take that %trophy% for, say, %reward% crowns? | That's an interesting trophy you got there, the %trophy%. I'll give you %reward% crowns for it, hand over fist, easy money! | Hmm, I see you are of the adventuring sort. You wouldn't come by that %trophy% without some guile in ya. Well I got some gold in me, and I'll give you %reward% of it for that trinket.}%SPEECH_OFF%You consider the man's offer."
-msgstr ""
+msgstr "[img]gfx/ui/events/event_01.png[/img]{逛城镇市场时，一位身穿丝绸的男子走到了你身边。他脸上挂着比镶钻更闪的笑容，每个手指上都戴着闪光的戒指。| 当你观察当地市场的商品时，一个陌生人走了过来。他腰间挂着各种奇怪的液体，牙齿中大多是奇怪的木材。| 没有一次到市场不被奇怪的家伙引起骚扰的行程。这次是一个脸很大的男人，他的嘴巴像熊捕鼠器一样带着锯齿，他的脸颊高高挺起，像是要做成货架一样。除了他的容貌之外，他挥舞着自己的体重，像他是一个有权有势的人物。}%SPEECH_ON%{啊，佣兵，我发现你有一些有趣的战利品。你把那个%trophy%卖给我吧，我给你%reward%克朗。| 你有一个有趣的战利品，%trophy%。我会给你%reward%克朗，轻松的赚钱！| 嗯，我发现你是那种冒险类型。你不可能得到%trophy%，除非你很有诡计。我有一些金子，我会给你%reward%克朗，换取那个小玩意儿。}%SPEECH_OFF%你正在考虑那个男人的offer。"
 
 # scripts/events/events/dlc2/corpses_in_forest_event.nut
 msgid "Better not dwell here."
@@ -516,15 +525,15 @@ msgstr "也许里面有些有用的东西。"
 
 # scripts/events/events/dlc2/corpses_in_forest_event.nut
 msgid "[img]gfx/ui/events/event_132.png[/img]{While marching through the forest you come across a pile of burnt corpses clutching themselves in a final fiery embrace. It is a writhing mass of black limbs and the occasional face which gapes up at the sky. The faint smell of burnt pigs is still present, but there are no pigs with it. %randombrother% nods at the sight.%SPEECH_ON%That there is one big pile of awful.%SPEECH_OFF%You nod. Indeed it is.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_132.png[/img]{在穿越森林时，你碰到了一堆黑烬尸体，他们将自己搂在一起做最后的火葬。这是一堆黑色脚和偶尔露出天空的脸，隐约有烤猪的味道，但周围没有猪。%randombrother%看着这一幕点头。 %SPEECH_ON% 这可真是一堆糟糕的东西。%SPEECH_OFF% 你点点头，的确是这样。}"
 
 # scripts/events/events/dlc2/corpses_in_forest_event.nut
 msgid "[img]gfx/ui/events/event_132.png[/img]{The mercenaries start going through the bodies. Most of the corpses come in bundles of three or four which have to cracked apart like eggs. It takes a boot or steel wedge to get them apart. Chips of charred flesh flutter away as the men work. Burnt children are peeled off like breast plates, their chests caved in and their arms firmly out like spokes. Not much is discovered beneath the bodies. A few bits of gold at most. %randombrother% finds a grisly looking mask of sorts. You're not entirely sure what it is, but figure it wouldn't hurt to take it along. Maybe some trader will find it interesting.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_132.png[/img]{雇佣兵们开始搜查尸体。大多数尸体成簇三四个，像鸟蛋一样被敲开。他们需要用靴子或钢楔分开。当士兵们忙碌时，烤焦的肉块飘散着。烤焦的孩子们被剥下来，胸膛塌陷，手臂像辐条一样伸出来。在尸体下面没有什么发现。顶多就是一些金子碎片。%randombrother%发现了一件可怕的面具。你不太确定它是什么，但认为带上它也不会有坏处。或许会有一些商人会对它感兴趣。}"
 
 # scripts/events/events/dlc2/corpses_in_forest_event.nut
 msgid "[img]gfx/ui/events/event_132.png[/img]{%killer% the murderer on the run smirks and snorts and he nods and spits and nods again. He points at the pile of bodies.%SPEECH_ON%That's a cruelty so fierce I don't think its doer survived the doing.%SPEECH_OFF%You ask what he means, but the man holds a finger up and walks about the forest, looking behind tree after tree until he comes to a stop.%SPEECH_ON%Just as I thought.%SPEECH_OFF%You come round to see a man hanging there. His fingertips are black and there's ash on his face and a noose about his neck. A note in his hand carries apologies, though it does not describe the nature of his crime or if it were a crime at all. Below his feet is his armor and weapons. He may have been a nobleman. Regardless, you have the body cut down and everything looted.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_132.png[/img]{逃跑的凶手%killer%嘴角一撇，又点头，又吐口痰，并指着尸体堆。%SPEECH_ON%这是一种残忍，以至于我觉得施暴者无法从中幸存。%SPEECH_OFF%你问他是什么意思，但是那个男人竖起了一根手指，在森林中走来走去，看着一棵棵树后面，直到他停下来。% SPEECH_ON%就像我想的那样。%SPEECH_OFF%你走过去看到一个男人被吊在那里。他的指尖黑了，脸上有灰烬，脖子上系着绳索。他手里拿着一张道歉的纸条，虽然没有描述他的罪行的性质，也不知道它是否真的是罪行。他脚下是他的盔甲和武器。他可能是个贵族。无论如何，你让人把他打下来，把一切都抢走了。}"
 
 # scripts/events/events/dlc2/corpses_in_forest_event.nut
 msgid "[img]gfx/ui/events/event_132.png[/img]{%beastslayer% holds his hand up.%SPEECH_ON%They weren't murdered, they were purged.%SPEECH_OFF%He squats beside the rim of the pile and lifts a charred arm and wrenched it free at the elbow. He flips the arm around and gives it a squeeze. Green puss oozes out from where the veins would be, dripping steadily to the ground. The beast slayer takes a vial and collects what he can.%SPEECH_ON%These people were infected with a Webknecht's poison. It usually dissolves the organs and kills, but sometimes, rarely, it has other effects. Causes bristles of thick hair to grow out on the arms, long fingernails, the shoulder blades start to ache and protrude from the back. Unsightly. And the poisoned, well, they go insane.%SPEECH_OFF%You ask if all these people were poisoned. The beast slayer shakes his head.%SPEECH_ON%This one I knew from the shoulders, the rest, I dunno. When an illness grips a village, it grips the village whole, and soon chaos and confusion become the contagion and the illness itself is but a forgotten spark drifting in the very bonfire it started.%SPEECH_OFF%}"
@@ -536,10 +545,13 @@ msgid ""
 "\n"
 " Groaning, the survivor yells for water. You draw your sword and put it through his neck, ending his pain there and then. %randombrother% breaks the fingers off to free his boot from the grisly hand. A few of the sellswords are shaken by the event.}"
 msgstr ""
+"[img]gfx/ui/events/event_132.png[/img]{%randombrother%蹲在这堆焦黑的尸体旁，摇了摇头。%SPEECH_ON%我想这里没有什么值得我们留意的东西，长官。%SPEECH_OFF%在你来得及回应之前，一只黑手突然从中伸出，抓住了这个士兵的脚踝。尸体们起身扭动着，只有一具尸体渐渐爬了起来，它背上的焦黑尸体条状地像小蜘蛛一样摆动着。它的嘴紧紧张着，嘴唇已经烧毁，脸颊凹陷，眼神深沉。它的手像石头雕刻一样有力，当雇佣兵向后爬时，焦黑的生还者也向后爬动。整个尸体堆颤抖着翻滚，一些身体像茶几一样翻滚着肢体伸展开，另一些则晃晃悠悠地向天空凝视，还有一些前倾着，把头朝下撞向地面，将自己的头颅粘在地上形成一片墨黑的污迹。\n"
+"\n"
+"生还者呻吟着喊着要水。你拔出剑，砍断了他的脖子，结束了他的痛苦。%randombrother%打破了骨头，摆脱了可怕的手。几个雇佣兵被这个事件震惊了。}"
 
 # scripts/events/events/dlc2/dog_in_swamp_event.nut
 msgid "Swimmer"
-msgstr ""
+msgstr "游泳者(Swimmer)"
 
 # scripts/events/events/dlc2/dog_in_swamp_event.nut
 msgid "Very good."
@@ -579,7 +591,7 @@ msgstr "%beastslayer%，你习惯与野兽打交道。 知道这是什么吗？"
 
 # scripts/events/events/dlc2/dog_in_swamp_event.nut
 msgid "[img]gfx/ui/events/event_09.png[/img]A shrill cry pierces the doldrums of the swamp. You rush forward and find a man thrashing about in the waters, his arms swinging ropes of kudzu. The water is foaming and bubbling and the snout of a dog briefly appears and spends that second barking for help instead of breathing for any momentary extension of life. Seeing you, the dog's owner calls out.%SPEECH_ON%Please, help! Something's got my dog!%SPEECH_OFF%"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_09.png[/img]一声刺耳的尖叫声打破了沼泽地的寂静。你匆忙前去，发现一名男子在水中挣扎，他的手臂缠绕着葛藤。水中泡沫和气泡不断涌起，一只狗的口鼻短暂地出现，它在那一秒中尖叫着求救，而不是为任何稍纵即逝的生命延续而呼吸。看到你，那只狗的主人喊道。%SPEECH_ON%救救我的狗！有东西抓住了它！%SPEECH_OFF%"
 
 # scripts/events/events/dlc2/dog_in_swamp_event.nut
 msgid ""
@@ -587,22 +599,25 @@ msgid ""
 "\n"
 " %randombrother% notes the mutt's fit frame and obedient demeanor. Indeed, it already seems unaffected by its brush with death, offering a friendly bark as deposition. You tell the stranger the dog now belongs to the company."
 msgstr ""
+"[img]gfx/ui/events/event_09.png[/img]你从库存中拿出一张网将其投向那只狗。尽管狗在拼命挣扎，网的边缘却像孩子慢慢捉住一个紧张的苍蝇一样，渐渐地沉入泥潭。几个雇佣兵加入了你的队伍，走进泥潭，拉紧绳子，然后将网拖上岸。狗的腿四处乱晃，即使是在生死存亡的情况下，它也呆滞地看着，有一种惭愧的狗的表情。无论是什么抓住了这只狗，似乎已经意识到危险，放开了它。你看着一根滑溜溜的绿色绳子展开，然后潜入水中，最终在微小的涟漪中消失了。\n"
+"\n"
+"%randombrother% 注意到这只狗的身材匀称和顺从的态度。确实，它似乎已经不受死亡的影响，友好地吠叫着作为证据。你告诉陌生人这只狗现在是战团的。"
 
 # scripts/events/events/dlc2/dog_in_swamp_event.nut
 msgid "[img]gfx/ui/events/event_09.png[/img]%helpbro% wades into the swampwater with his arms out and swaying as though he were screwing the lid off a barrel. He lifts the weapon on high and the dog's owner nervously watches. A grin crosses the sellsword's face.%SPEECH_ON%Gotcha!%SPEECH_OFF%He skewers the swamp water and wrangles up a snake longer than any you've ever seen, the length of it flopping about as the mercenary parades its corpse like a colored rope of a reward. The owner goes for his dog, but it slips out his grasp as though his arms were but another snake and it sprints right to your side. You ask if it's his dog at all. He nods, then slowly shakes his head.%SPEECH_ON%I suppose it's yer dog now. He's a fighter, that one, but he ain't nothing at all if not a goddam shite swimmer. I'd see it a fair trade if I can keep that there snake.%SPEECH_OFF%You nod and make the trade, telling %helpbro% to hand over his newfound trophy."
-msgstr ""
+msgstr "[img]gfx/ui/events/event_09.png[/img]%helpbro%伸出手臂，左右晃动，像拧开桶盖的样子迈入沼泽水中。他高高举起武器，狗的主人紧张地看着。一个得意的笑容浮现在佣兵的脸上。%SPEECH_ON%抓住你了！%SPEECH_OFF%他刺穿了沼泽的水并捕获了一条比你见过的任何一条蛇都长的蛇，这条蛇的长度在他手中晃动着，就像一根有价值的彩绳。主人想去抓狗，但它从他的手中溜了出去，就像他的手臂是另一条蛇，它向你的身边奔去。你问他这是否是他的狗。他点了点头，然后缓慢地摇了摇头。%SPEECH_ON%我想现在这只狗是你的了。它是个战士，但如果不是一只狗屎游泳者的话，它什么都不是。就算你把这条蛇留给我，我也算看作是个公平交易吧。%SPEECH_OFF%你点点头，完成了交易，让%helpbro%交出他的新战利品。"
 
 # scripts/events/events/dlc2/dog_in_swamp_event.nut
 msgid "[img]gfx/ui/events/event_09.png[/img]%helpbro% heads to the shoreline and draws his weapon. He wades into the mire like some ale strewn saint departing a crowd before they recognize his face. Such is his struggle that he topples over on top of the dog and disappears into the froth and bubbles of the battle. You rush to his side and pull him ashore, the man covered in moss and his boots wrapped in lily pads and he's hacking nasty swamp water and picking out the brine which fermented it. There's no sight of the dog, just a slight ripple of water which trails away from the scene. Unnerved, its owner nods.%SPEECH_ON%Appreciate the effort, but it is what it is. The swamp sees to such things because it's a swamp and fark this goddam farkin' place I'd see this whole shitstain of geographical oddity drained and burned and salted to nothing but a wasteland whole if I could!%SPEECH_OFF%You raise an eyebrow and ask if he lives in the swamp. He takes a long breath and nods.%SPEECH_ON%Yessir. Rent free.%SPEECH_OFF%"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_09.png[/img]%helpbro%来到海岸线并拔出武器。他像一位披着麦芽酒的圣徒一样走进泥潭，避免人们认出他的脸。他艰难地挣扎着，最终跌倒在那只狗上面，随后消失在冒着泡沫的战场上。你赶到他的身边，并将他拖上岸。他浑身上下沾满了青苔，靴子上缠着睡莲，他一边咳嗽着肮脏的沼泽水，一边拣出发酵它的盐水。狗的身影不见了，只剩下微小的水波荡漾。看着有点不安，兄弟的主人点了点头。%SPEECH_ON%感谢你的帮助，但事情就是这样。沼泽会处理这些事情，因为它就是一个沼泽，我真的想让这个地理奇观变成荒地，以抵销它的恶性。%SPEECH_OFF%你抬起眉毛问他是否住在沼泽中。他深呼吸一口气，点点头。%SPEECH_ON%是的，没有租金。%SPEECH_OFF%"
 
 # scripts/events/events/dlc2/dog_in_swamp_event.nut
 msgid "[img]gfx/ui/events/event_09.png[/img]%houndmaster% the houndmaster rushes forward to help, but the dog the swamp surface goes still. The man slips into the water and feels about. His hands clench and he stares back at the stranger.%SPEECH_ON%I'm a dog handler at heart. That means I train 'em to not get into this much trouble. But I ain't ever would need to train a dog to beware this here bog, which means this sonuvabitch here threw him in there, ain't that right?%SPEECH_OFF%The stranger's first words are excuses and so the houndmaster batters him. The stranger scissors his legs backwards so awkwardly his pants fall about his ankles and there in his drawers spill an assortment of treasures. The damned fool is a treasure hunter! %houndmaster% draws a weapon and looks ready to murder this man. Screaming, the stranger kicks his pants off and runs off into the swampwoods hooting and pallidly half naked like some potato sack governed by a ghost. Laughing, you crouch to sift through the departed's goods, not all of which is shiny."
-msgstr ""
+msgstr "[img]gfx/ui/events/event_09.png[/img]%houndmaster% 兽猎大师冲上前去，但沼泽中的狗就这样停了下来。这个男人滑进水里摸索。他的手紧紧握住，盯着那个陌生人。%SPEECH_ON%我内心深处是个狗管理员。这意味着我训练他们不会陷入这么大的麻烦。但是我从来不需要训练一只狗提防这个沼泽，这意味着这个混蛋把他扔进去了，对吗？%SPEECH_OFF%陌生人的第一句话就是借口，所以兽猎大师痛打他。陌生人双腿生生地向后剪刀踢，裤子松了下来，在他的抽屉里掉出了各种宝藏。可恶的傻瓜是个宝藏猎人！%houndmaster% 拉出武器，准备谋杀这个人。陌生人尖叫着踢掉裤子，朝沼泽森林跑去，半裸着像被鬼魂控制的麻袋一样。你笑着蹲下来，寻找离去者的物品，其中并不都是闪亮的。"
 
 # scripts/events/events/dlc2/dog_in_swamp_event.nut
 msgid "[img]gfx/ui/events/event_09.png[/img]The slayer of creatures, %beastslayer%, nods and wades into the swamp. He calmly comes to the thrashing water and stands over it, staring into the mire with his eyes tracking left to right as though he were watching carp in clear waters. Finally, he draws a dinner knife and slashes it into the water. Once more. And again. The dog surfaces and it snorts for air. The slayer stabs again and this time the dog runs free and goes between your legs where it huddles wet and whimpering. %beastslayer% holds something in his hand and then lets it go, whatever it is diving across the swamp, the water rippling in its wake.%SPEECH_ON%Nothing but a snake, captain.%SPEECH_OFF%The beast slayer kicks his foot up out of the water and riding his toe is a shiny goblet. He regards the swamp stranger with complete contempt.%SPEECH_ON%Your cowardice has made you a monster, treasure hunter, a right savage that'd use a dog in place of his own two hands. You've no business in these swamps. When I turn around, you'd best be gone, got it?%SPEECH_OFF%The beast slayer hands you the goblet and the stranger retreats without delay."
-msgstr ""
+msgstr "[img]gfx/ui/events/event_09.png[/img]屠兽者%beastslayer%点了点头，走向沼泽。他冷静地来到激荡的水面上，站在上面，眼睛从左到右跟踪着，好像在看着清澈水中的鲤鱼一样。最后，他拿出一把餐刀，猛砍水中。再一次。又一次。那只狗浮出水面，喘着气。屠兽者再次刺了一下，这次狗跑了，穿过你的腿，湿漉漉地趴在那里哭泣。%beastslayer%握着什么东西，然后放开了，无论它是什么，在沼泽中潜行，水纹在它后面荡漾。%SPEECH_ON%只是一条蛇，队长。%SPEECH_OFF%屠兽者抬起脚，踢出水面，他脚趾骑着一只闪闪发光的高脚杯，一脸蔑视地看着沼泽上的陌生人。%SPEECH_ON%你的懦弱使你成为了一个怪物，财宝猎人，一个会用狗代替自己双手的野蛮人。你没有在这些沼泽中的道理。等我转身时，你最好走开，知道吗？%SPEECH_OFF%屠兽者把高脚杯递给了你，陌生人毫不拖延地撤退了。"
 
 # scripts/events/events/dlc2/encounter_gnomes_event.nut
 msgid ""
@@ -610,6 +625,9 @@ msgid ""
 "\n"
 " This is too much. You crawl forward to get a better look only to have a branch snap under your weight. The little men stop instantly and look toward you like a herd of prey. One yells in gibberish and the lot of them skip and hop away, diving into tree holes or into bushes. When you go down to see them out, you find nothing. They've vanished entirely. You go to the stump and find the toad impaled to the hilt by a dagger and the mushroom gone."
 msgstr ""
+"[img]gfx/ui/events/event_25.png[/img]你放松了一下手中的武器，决定亲自前去侦查前方的树林。出发没过五分钟，你就听到了一个稳定的嗡嗡声，似乎是在唱歌。你拔出剑，翻过一座倒下的树木堆看向下方。你看到了一个由一打看起来像是小人的人围成的圆舞曲。有一半吹着低沉的口哨，而另一半则一遍遍地重复着你从未听过的某个词语。在这无聊的表演的中央，有一棵蘑菇和一只看起来很无聊的蟾蜍。在偶尔的情况下，有一个小人会跑上去碰一下蘑菇或者蟾蜍，然后在回到圆舞曲时露出偷窃的表情。\n"
+"\n"
+"这太过诡异。你向前爬去，想要更仔细地看一看，却没想到碰到一根枝条，发出砰的一声巨响。小人们立刻停止唱歌，像一群猎物一样看向你。其中一个用含糊不清的语言喊叫着，然后所有人都跳着蹦着逃开了，躲进了树洞或灌木丛中。当你到达地面寻找他们时，你却什么都没找到。他们已经完全消失了。你走到树桩旁，发现蟾蜍被一把匕首刺到了最后，而蘑菇已经消失不见了。"
 
 # scripts/events/events/dlc2/fear_beasts_event.nut
 msgid " now fears beasts"
@@ -625,7 +643,7 @@ msgstr "现在害怕绿皮"
 
 # scripts/events/events/dlc2/fear_greenskins_event.nut
 msgid "[img]gfx/ui/events/event_26.png[/img]{%brother% stares at the campfire with his hands bridged between his knees.%SPEECH_ON%Fark, man. I don't know if I can look at a greenskin again. They're so much stronger and faster than us! We, we shouldn't face them again until we got at least, two, no three times as many men!%SPEECH_OFF%You tell the company to keep an eye on him. Fear is justified but spreading it sure as hell ain't.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_26.png[/img]{%brother% 双手扶膝，凝视着篝火。%SPEECH_ON%该死，伙计。我不知道我是否能再次面对兽人了。他们比我们强壮得多，速度更快！我们，在人数至少两倍、不，三倍的情况下才能再次与他们对抗！%SPEECH_OFF% 你告诉战团要注意他。害怕是可以理解的，但散布它肯定不行。}"
 
 # scripts/events/events/dlc2/fear_undead_event.nut
 msgid " now fears the undead"
@@ -633,7 +651,7 @@ msgstr "现在害怕亡灵"
 
 # scripts/events/events/dlc2/fear_undead_event.nut
 msgid "[img]gfx/ui/events/event_26.png[/img]{%brother% looks around at the men around the campfire. He then looks at the ground for a few minutes before exploding.%SPEECH_ON%Am I the only one here who is sane? How is no one else losing their farking minds over the dead walking the earth again? What the hell, where are the old gods in all this, they just farking gonna watch this shitshow?%SPEECH_OFF%The company tries to temper his fears, but he goes back to a ponderous silence of a man with too much to think about and no one willing, or wanting, to truly listen.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_26.png[/img]{%brother%环顾营火周围的人。他看了几分钟的地面后爆发了%SPEECH_ON%我是这里唯一一个正常的吗？为什么没有其他人发疯，对于死人再次走在地上怎么就没有人在失去他们的理智呢？到底在搞什么，伟大古神在哪里，他们就只会看着这一切%speech_off%战团试图平息他的恐惧，但他回到了一个沉思的沉默中，身上有太多需要思考的事情，而没有人愿意或想要真正地倾听。}"
 
 # scripts/events/events/dlc2/gain_addiction_event.nut
 msgid " is now an addict"
@@ -645,7 +663,7 @@ msgstr "这条路要收费，但这些人能应付吗？"
 
 # scripts/events/events/dlc2/gain_addiction_event.nut
 msgid "[img]gfx/ui/events/event_12.png[/img]{Shouting and hollering, %other% drags %addict% into your tent, drops him, and draws his weapon on the man who looks around dazed and confused. You demand to know what is going on. %addict% slaps the weapon out of his face and tries to get up, but %other% kicks him back down.%SPEECH_ON%Fellas got it rich for the potions, captain. We can hardly keep him away from the stock.%SPEECH_OFF%%addict% slurs his words, grunts and pauses, then nods. He speaks clearly, like a drunkard trying to explain his crime to the constable.%SPEECH_ON%I do not have a problem, sir.%SPEECH_OFF%You get up and check the man's forehead. It is cold, yet drawing sweat. %other% spits.%SPEECH_ON%He'll get a smidge violent if you confront him about the potions, sir. I think he's addicted to the damned things.%SPEECH_OFF%You nod and tell the two to keep it on level to the best of their abilities. | %addict% comes into your tent with sweat on his brow and blackeyes.%SPEECH_ON%Sir, I thought I'd tell you this personally, you know, to take full responsibility.%SPEECH_OFF%He explains that he has become addicted to the potions. He says he'll do his best to manage. You nod and thank him for his honesty. The news worries you, but there is little recourse as of yet. | The men explain that %addict% has strongly taken to the potions and vials and flasks, the ones that carry spirits beyond just good ale and mead. You're not sure if it's from overuse or because he is having difficulty handling the struggles of being a sellsword. A few of the men are told to keep an eye on him. It's the best you can do for now.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_12.png[/img]{%other%大声喊叫着，拖着%addict%进入你的帐篷，放下他，对朦胧不清的人拔出武器。你要求知道发生了什么事情。 %addict%把他的武器打在了一边，试图起身，但%other%又把他踢倒在地上。%SPEECH_ON%这家伙因为药水大发了一笔财，队长。我们几乎无法将他远离补给。%SPEECH_OFF%%addict%说话含糊，哼哼唧唧，然后点头。他清楚地讲述着，就像一个醉汉试图向警长解释他的罪行。%SPEECH_ON%我没有问题，先生。%SPEECH_OFF%你起身检查那个人的额头。他发冷，但汗水不断。%other%吐了一口口水。%SPEECH_ON%如果你对他谈论药水的话，他会有些暴力的，队长。我认为他已经对这些该死的东西上瘾了。%SPEECH_OFF% 你点头，告诉他们两个尽力保持平静。|%addict%带着汗水和黑眼睛走进你的帐篷。%SPEECH_ON%先生，我想亲自告诉你这件事，你知道，全权负责。%SPEECH_OFF% 他解释说他已经对药水上瘾了。他说他会尽力管理。你点头，并感谢他的诚实。这个消息让你担心，但现在没有太多的解决办法。|男人们解释说，%addict%已经对药水、药瓶和药剂产生了浓厚的兴趣，那些不仅仅是好麦酒和蜜酒的精神品。你不确定是因为过度使用还是因为他无法处理当雇佣兵的困难。几个人被告知要密切关注他。现在，这是你所能做的最好的事情。}"
 
 # scripts/events/events/dlc2/glutton_eats_apple_event.nut
 msgid " is sick"
@@ -653,7 +671,7 @@ msgstr "是生病了"
 
 # scripts/events/events/dlc2/glutton_eats_apple_event.nut
 msgid "[img]gfx/ui/events/event_18.png[/img]{You come to a commotion between %glutton% the glutton and a bucket. He's heaving into it so hard his back lurches like a cat and his hurls sound like an undead cow giving birth. When he lifts his head his face looks like a gourd, cheeks ballooned, his mouth still all agargle. %otherbrother% comes over.%SPEECH_ON%He ate the witch's apple.%SPEECH_OFF%Raising an eyebrow, you ask the glutton why he would do such a thing. Vomit strings wriggle from his wrist as he wipes his eyes.%SPEECH_ON%{Cause I'm always hungr-hurgh, uh, hungregghhh! | I don't rightfully know sir can't I just be in pain without having to validate my actiiiherrrghh! | Would I have to explain myself if I wasn't losing my gouerrrghhhh! | Cause you told me to eat healthy and it was an apperrrghghh!}%SPEECH_OFF%He pitches his head back into the bucket like a man who dropped a million crowns down a well. You tell the mercenaries to keep an eye on him until it's all out of his system, that is if it ever will be.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_18.png[/img]{你发现饕餮(%glutton%)在与一个桶发生着争执。他用力地吐着，背部像猫一样蜷缩，呕吐声像亡灵牛在生产。当他抬起头时，脸看起来像个葫芦，脸颊鼓起，嘴巴里还咕咕作响。%otherbrother%走过来说。%SPEECH_ON%他吃了女巫的苹果。%SPEECH_OFF%你皱起眉毛，问饕餮为什么会这样做。他擦了擦眼睛，手腕上还有呕吐物。%SPEECH_ON%{因为我总是饿啊——呕，嗯，很饿！| 我真的不知道为什么，先生，我难道不能仅仅因为疼痛而不必证明我的行为吗？——呕，呕，呕！| 如果我没有失去知觉，我还需要解释吗？——呕呕！| 因为您告诉我要健康饮食，而这是一个苹果——呕呕！}%SPEECH_OFF%他将头投入桶中，像一个掉进了水井里的人一样。你告诉雇佣兵们要照顾好他，直到他身体中的东西排出为止，如果有可能的话。}"
 
 # scripts/events/events/dlc2/hate_greenskins_event.nut
 msgid " now hates greenskins"
@@ -661,7 +679,7 @@ msgstr "现在憎恨绿皮"
 
 # scripts/events/events/dlc2/hate_greenskins_event.nut
 msgid "%image%{%brother% growls and throws his arms wide like a man overtaken by a primal rage to shed blood.%SPEECH_ON%To hell with those savages! To hell with the greenskins! My life is unfinished so long as they are allowed to walk the same earth as me, my kin, or my children's kin! I will rip their tusks from their mouths, ravage their women, I don't know if they have women, don't know if I'd go near them if they did actually, but I'll ravage something and see to it an annihilation so fierce and thorough the old gods will come to me to borrow a tip!%SPEECH_OFF%}"
-msgstr ""
+msgstr "%image%{%brother%怒吼，张开双臂，像一个被原始狂怒支配的人一样。%SPEECH_ON%该死的野蛮人！该死的绿皮族！只有当他们被允许踏上与我、我的亲人或我的孩子的亲人同样的土地时，我才算活够了！我将从他们的嘴中撕下獠牙，掠夺他们的女人，虽然我不知道他们是否有女人，如果他们真的有的话，我也不知道我是否会接近她们，但我将掠夺某些东西，然后实施一场猛烈而彻底的毁灭，以至于古老的神灵会来向我请教一些技巧！%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/hate_undead_event.nut
 msgid " now hates the undead"
@@ -669,19 +687,19 @@ msgstr "现在憎恨亡灵"
 
 # scripts/events/events/dlc2/hate_undead_event.nut
 msgid "%image%{%brother% spits and runs his hand under his nose. His face scowls and he seems to be talking to himself as others look on.%SPEECH_ON%The old gods will have our arses if we permit the dead to walk again! You fellas can go to the hereafter thinking you did right in this world, but I ain't following the idle road cause by my sum that road goes straight to the hells. I'll see to it that I meet a righteous end, and I'll see to that by felling every godforsaken undead fark I see!%SPEECH_OFF%}"
-msgstr ""
+msgstr "%image%{%brother%吐了口口水，用手抹了抹鼻子。他皱起眉头，似乎在自言自语，其他人在旁看着。%SPEECH_ON%如果我们允许死人再次行走，那么旧神们将惩罚我们！你们可以认为你们在这个世界上做对了，那么在天堂等待你们的结果，但是我不会走上这条毫无意义的路，因为我知道这条路直通地狱。我会以一个正义的终结来结束自己的生命，并摧毁每一个被诅咒的不死亡骑士！%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
 msgid " some"
-msgstr ""
+msgstr "一些"
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
 msgid "Grew to like "
-msgstr ""
+msgstr "喜欢上了"
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
 msgid " loses [color="
-msgstr ""
+msgstr "失去[color="
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
 msgid "Felt entertained"
@@ -709,7 +727,7 @@ msgstr "来吧，%hedgeknight%。 停下来！"
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
 msgid "What were we fighting about again?"
-msgstr ""
+msgstr "我们为什么要打来打去？"
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
 msgid "You can deal with this yourselves."
@@ -721,23 +739,23 @@ msgstr "在战队面前受到羞辱"
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
 msgid "[img]gfx/ui/events/event_52.png[/img]You step forward and tell the hedge knight to stuff it. The company ain't here to stroke his ego. Laughing, the bear of a man steps off.%SPEECH_ON%As you say, sir. Wouldn't want to get into a scrap with the company princess.%SPEECH_OFF%The company laughs, but the refugee only stares into is bowl of food like someone'd just spat in it."
-msgstr ""
+msgstr "[img]gfx/ui/events/event_52.png[/img]你踏前一步，告诉这个乞丐骑士别把自己的自尊心挂在嘴边。战团不是为了满足他的虚荣心而来的。这个身材魁梧的男人大笑着下了车。%SPEECH_ON%正如您所说，先生。我可不想惹起和公主打架。%SPEECH_OFF%战团人大笑起来，但是难民只是凝视着他碗里的食物，就像有人在里面吐口水一样。"
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
 msgid "[img]gfx/ui/events/event_52.png[/img]%hedgeknight% the hedge knight walks up to an eating %refugee%. The former refugee sees the shadow loom over him and slowly turns about.%SPEECH_ON%Yeah?%SPEECH_OFF%The hedge knight snorts and spits a loogie about the size of a baby's arm. He snorts again.%SPEECH_ON%You ran from your home. You watched it burn and put yer back to the flames rather than fight them. This company is your home now. What stops you from running from the fire now?%SPEECH_OFF%"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_52.png[/img]%hedgeknight%这个寒鸦骑士走到一位正在吃饭的%refugee%身边。那名前难民看到他耸立的身影，缓缓地转过身来。%SPEECH_ON%干嘛？%SPEECH_OFF%寒鸦骑士哼了一声，吐出一团巨大的痰。他再次哼了一声。%SPEECH_ON%你从家里逃了出来。你看着它被火焰吞噬，却选择了背对火源逃走。这个战团现在是你的家，那么现在是什么使你停止逃离火焰？%SPEECH_OFF%"
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
 msgid "[img]gfx/ui/events/event_06.png[/img]You don't intervene. The hedge knight continues.%SPEECH_ON%I've no pity for your pain. You understand?%SPEECH_OFF%Nodding, the refugee looks up.%SPEECH_ON%Aye, but what pity does anyone have for yours?%SPEECH_OFF%%refugee%'s arm shoots forward so fast it flips the plate into the campfire. The fork sticks in the thigh of %hedgeknight% and %refugee% can't wrench it out no better than if it were stuck in a trunk of oak. The hedge knight grits and falls on the refugee and flattens him. His giant hands press the refugee's skull into the earth until the poor man's breathing dirt. The rest of the company stands up and backs off. You step forward, but %hedgeknight% holds his hand out before standing back up.%SPEECH_ON%Alright, little runner, alright. You've fight in you yet.%SPEECH_OFF%He retrieves the fork and holds it out. A drop of blood grooves between he tines.%SPEECH_ON%Whatcha eating? Oh yeah? Good. I'll double it with my portion. Come and sit.%SPEECH_OFF%"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_06.png[/img]你没有干涉。那个棘骑继续说道。%SPEECH_ON%我对你的痛苦没有任何同情心，明白吗？%SPEECH_OFF%难民点了点头。%SPEECH_ON%是啊，但谁又有同情你呢？%SPEECH_OFF%%refugee%的手臂迅速向前，将盘子翻到了篝火里。叉子卡在了 %hedgeknight% 的大腿上，%refugee% 拔也拔不出来，就像卡在橡木树干里一样。 棘骑咬紧牙关，扑倒在难民身上，将他摁在地上，让他呼吸着泥土。其它的战团成员都站起来退后了。你向前走了一步，但 %hedgeknight% 伸出手来阻止了你。%SPEECH_ON%好了，小子。你还有一战的资本。%SPEECH_OFF%他拿回叉子，并向外伸出。一滴血在叉齿间淌下来。%SPEECH_ON%你在吃什么？噢，对了，好吃吗？很好，我会和我的那一份加倍一起给你。来，坐下吧。%SPEECH_OFF%"
 
 # scripts/events/events/dlc2/hedge_knight_vs_refugee_event.nut
 msgid "[img]gfx/ui/events/event_80.png[/img]%streetrat% steps forward. He points a finger at the hedge knight.%SPEECH_ON%You ain't got a lick of understanding of no flame nor fire.%SPEECH_OFF%Laughing, %hedgeknight% turns around and cracks his knuckles.%SPEECH_ON%Course I do. I AM the fire.%SPEECH_OFF%The lowborn defiantly crosses his arms.%SPEECH_ON%And we ain't the ash, but the wood itself. You're a whore for the noblemen, that's what you truly are. They pay you a high price and you go on with your strength and cruelty and do what they tell you to do. Like... like a whore...%SPEECH_OFF%Another sellsword holds up a finger.%SPEECH_ON%I think yer describing us in general. We're mercenaries.%SPEECH_OFF%And another adds.%SPEECH_ON%Did you just compare yerself to kindling?%SPEECH_OFF%%streetrat% rubs the back of his head.%SPEECH_ON%Yeah I'm gonna be honest the hedge knight scared me a bit there and I lost what I was going to say.%SPEECH_OFF%The company looks around before bursting into laughter and whatever animosity there was is gone."
-msgstr ""
+msgstr "[img]gfx/ui/events/event_80.png[/img]%streetrat%迈步向前。他指着那个小地主骑士。%SPEECH_ON%你对火焰一窍不通。%SPEECH_OFF%%hedgeknight%笑了，转过身来，弹了弹手指。%SPEECH_ON%我当然知道。我就是火。%SPEECH_OFF%那个卑微的人挺胸直立，双臂交叉。%SPEECH_ON%而我们不是灰烬，而是木柴本身。你是贵族的娼妓，这才是你真正的身份。他们拿高价请你，你便以你的力量和残忍度日，并按照他们的吩咐行动。就像……像妓女一样……%SPEECH_OFF%另一个佣兵举起了手指。%SPEECH_ON%我觉得你在概括我们所有人。我们是雇佣兵。%SPEECH_OFF%另一个佣兵加入进来。%SPEECH_ON%你刚刚把自己跟引火物相比较了？%SPEECH_OFF%%streetrat%揉了揉头。%SPEECH_ON%是这样，对不起，那个小地主骑士刚刚吓到我了，让我忘了我想说的话。%SPEECH_OFF%战团看了看周围，然后爆笑起来，任何敌意都消失了。"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "Your "
-msgstr ""
+msgstr "你的(Your)"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "Nice work!"
@@ -801,31 +819,31 @@ msgstr "真让人宽慰，似乎没有什么遗漏。"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "[img]gfx/ui/events/event_97.png[/img]{You tell the kid to piss off. Probably a scheming little pickpocket anyhow. Speaking of which, you check your pockets to ensure everything is still there.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_97.png[/img]{你让那个孩子滚开。反正他十有八九是个骗子。说到这个，你检查了一下自己的口袋，确保里面的东西还在。}"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "[img]gfx/ui/events/event_97.png[/img]{%other% is fetched to go help the kid. He helps place the sword's handle and steel together and the kid works his magic on his own, easily mending the sword back into one piece. You're amazed by his skill and wonder how good the blacksmith himself must be if this is his apprentice. After the work is done, the boy offers to fix some of the weapons for the %companyname% which you happily accept.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_97.png[/img]{%other%被请去帮助这个孩子。他帮忙将刀柄和刀片组合在一起，孩子靠自己的技艺轻松地把剑修好了。你惊叹于他的技艺，不禁想知道这位铁匠自己的手艺如何，如果他的徒弟都这么厉害的话。修好后，这个孩子提出为%companyname%修理一些武器，你很高兴地接受了。}"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "[img]gfx/ui/events/event_97.png[/img]{While walking about the shops of %townname%, you feel a tug at your sleeve. You turn to find a child there with a face smeared black with two bright white eyes staring out. He asks if you know anything about swords. You gesture toward the one you got sheathed at your side. He claps his hands.%SPEECH_ON%Great! I work for a blacksmith yonder, but he's away fetching iron ingots. He told me to keep watch of this special sword he was making, but it, uh, it fell. And broke. Fell on its own and broke on its own. Will you help me put it back together?%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_97.png[/img]{你正逛着%townname%的商店，感到一阵拉扯。你转身发现一个孩子，他的脸涂黑了，两只闪亮的白眼睛盯着你。他问你是否知道关于剑的任何事情。你指向了插在你身旁的那一把。他拍了拍手。%SPEECH_ON%太好了！我为一家铁匠店工作，但他正在去取铁锭。他要我看守这把特殊的剑，但它，嗯，它掉下来了。然后就碎了。它自己掉下来的，也自己碎的。你能帮我把它修好吗？%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "[img]gfx/ui/events/event_97.png[/img]{%apprentice% the young apprentice is tasked with helping the kid. He saunters over to the smithy and starts helping the kid. But he does more than just help: he fashions the sword back together in such a way that is stronger than it was to begin with. The blacksmith returns to find the handiwork and demands to know how to do it, almost begging for insight. %apprentice% laughs.%SPEECH_ON%You give me this sword and I'll give you the secret my meister passed down to me.%SPEECH_OFF%You didn't even know the apprentice knew how to do any of this, but the lad is nothing if not a sponge in boots. A trade is made with the blacksmith and both parties leave more than happy.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_97.png[/img]{%apprentice%这个年轻的学徒被派去帮助那个孩子。他慢悠悠地走到铁匠铺，开始帮这个孩子。但他所做的不仅仅是帮忙：他以一种比开始时更强的方式将剑重新拼合起来。铁匠回来发现了这件手艺活，迫不及待地要知道如何做到，几乎是恳求着。%apprentice%笑了。%SPEECH_ON%你给我这把剑，我就会告诉你我的大师传给我的秘密。%SPEECH_OFF%你甚至不知道这个学徒知道如何做到这一切，但这个小伙子在学习方面是个海绵。与铁匠达成了交易，双方都离开得非常开心。}"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "[img]gfx/ui/events/event_97.png[/img]{Your suspicions about the juggler volunteering to be sent to help are confirmed true as you soon see him throwing daggers and axes into the air and wowing the public at large. Seeing the crowds gather, he places a hat upon the cobblestones and continues the act. They throw plenty of coin in, and the applause is deafening as he plays out his final act of five maces at the same time. Bowing, he picks up the hat and rushes back over.%SPEECH_ON%A fine day's work, aye sir?%SPEECH_OFF%Nodding, you ask about the boy's broken sword. He clears the sweat from his brow.%SPEECH_ON%What you say, sir? Get back with the company? Aye sir, I'll get back with the company now.%SPEECH_OFF%Pursing your lips, you look back toward the smithery to see the boy bent over an anvil and taking a sound leather hiding from the returned blacksmith.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_97.png[/img]{你的怀疑关于杂耍演员自愿前来帮助很快得到了证实，因为你很快就看到他将匕首和斧头扔向空中，惊艳了大众。看到人群聚集，他把帽子放在鹅卵石上，继续表演节目。他们投了很多硬币，掌声震耳欲聋，当他演出了同时持有五个狼牙棒的终极演出时，掌声更是雷鸣。他鞠躬之后拿起了帽子，匆匆忙忙地走回来。%SPEECH_ON% 很棒的一天工作，没错吧，先生？%SPEECH_OFF% 你点点头，问起那个男孩断掉的剑。他擦了擦额头上的汗水。%SPEECH_ON% 什么，先生？回到队里吗？是的，先生，我现在就回到队里去。%SPEECH_OFF% 你嘴唇抿紧，向铁匠铺看去，看到男孩俯在一个铁砧上，接受着被回来的铁匠用皮鞭抽打的惩罚。}"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "[img]gfx/ui/events/event_97.png[/img]{%other% sighs after you ask that he go help the kid with his duties. He lazily steps over to the blacksmith's anvil which is shaped like a molar as it rests on thin iron stilts. The blacksmith's goods are hanging from ad hoc walls manufactured out of old iron fences, the spokes curved outward to help catch the metalworks. The kid claps his hands.%SPEECH_ON%Now don't touch nothing else, just help me with this.%SPEECH_OFF% %other% turns 'round with confusion and mid-sentence knocks the anvil's leg out. It starts to crumple sideways and the kid rushes to catch it if only to stem the tide of trouble which has beset his day. The insane weight pastes him flat against the cobblestones, his limbs briefly stretched up like a cricket smooshed beneath a thumb. You see this all from a distance and whistle for the mercenary to head back before there's trouble. He makes his escape just as a few passersby start to take notice. He shrugs.%SPEECH_ON%We didn't do nothing, right sir?%SPEECH_OFF%You nod.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_97.png[/img]{%other%你让他去帮助那个孩子完成工作后叹了口气。他懒洋洋地走到铁匠的砧板前，砧板造型像一个牙齿，支撑它的是细铁支架。铁匠的物品挂在由旧铁栏杆制成的临时墙壁上，支架向外弯曲，以便更好地吸收金属加工的力量。孩子拍手欢呼。%SPEECH_ON%现在不要碰别的东西，只帮我完成这个。%SPEECH_OFF% %other%感到困惑，打断一周迹象后回头一看就把铁砧踢倒了。铁砧开始倾斜，孩子赶紧赶过去扶住它，尽管只是为了阻止这一天遭受的麻烦。巨大的重量把孩子压扁在鹅卵石路面上，他的四肢短暂地向天空伸展，就像是一只被拇指压扁的蟋蟀。你从远处看到了这一切，赶紧示意雇佣兵回来，以免麻烦。他趁早离开，只有几个路人开始注意。他耸了耸肩。%SPEECH_ON%我们没有做错什么，对吧，先生？%SPEECH_OFF%你点了点头。}"
 
 # scripts/events/events/dlc2/kid_blacksmith_event.nut
 msgid "[img]gfx/ui/events/event_97.png[/img]{You ask %killer% the murderer to help the kid. The man obliges with a smile to which the kid seems intuitively offended by. He takes a few steps back and waves the help away.%SPEECH_ON%No sir, I think I'm quite alright. Th-thank you. After all, a man's gotta do what a man's gotta do, right?%SPEECH_OFF%The killer smiles, crouches, and puts a thumb to the kid's cheek and leaves it laying there.%SPEECH_ON%That's right, boy. That's right. A man does what he needs.%SPEECH_OFF%Now you're offended and ask %killer% to go count inventory. He rubs the lad's hair and then rises and departs. The kid runs off, but quickly returns with a dagger.%SPEECH_ON%H-here, take this. Keep that fella all the hells away from me, please sir. Got it? I want no business with that man and would sooner seek a blacksmith's hiding than see him ever again. You take the weapon, you keep him away. Deal? Deal, yeah? Take it!%SPEECH_OFF%You measure that the kid's never bargained in his life, that or this is the first time he's felt his life on the line. Either way, you accept the dagger. The kid sighs in relief before returning to the smithy, there working away, and there always keeping an eye over his shoulder.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_97.png[/img]{你请求%killer%这个杀人犯帮助这个孩子。这个人带着微笑满足了你的要求，但孩子似乎直觉上感到受到了冒犯。他向后退了几步，挥手拒绝帮助。%SPEECH_ON%不用了先生，我还好。毕竟，做一个男人，必须要做的事得去做，对吧？%SPEECH_OFF%杀人犯微笑着蹲下来，手指抚摸着孩子的脸颊，保持这个姿势。%SPEECH_ON%对，孩子，没错。做一个人需要做的事。%SPEECH_OFF%现在你觉得有些冒犯了，于是你让%killer%去数清库存。他摸了摸孩子的头然后站起身离开了。孩子跑了过来，手里拿着一把匕首。%SPEECH_ON%请，这是给你的。请防止这个家伙再靠近我。你说好不让他再靠近我。明白了吗？我不想再跟他打交道，我宁愿去找一个铁匠藏起来都不愿意再看到他。你拿了这个武器，你保护我。成交了吗？成交，好吧？拿着它！%SPEECH_OFF%你觉得这个孩子似乎是第一次进行这种交易，或者说这是他第一次感觉到自己的生命处于危险之中。无论如何，你接受了匕首。孩子松了一口气，然后回到锻造工厂继续工作，始终在观察附近。}"
 
 # scripts/events/events/dlc2/lose_addiction_event.nut
 msgid "Good work being you."
@@ -837,7 +855,7 @@ msgstr "再也不是上瘾者了"
 
 # scripts/events/events/dlc2/lose_addiction_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{%addict% enters your tent with his hands behind his back in a respective posture. He asks if you have a moment. You nod and he states that he is rid of his tremors and ailments. You ask what he means. He twists his hand above his mouth as though taking a swig.%SPEECH_ON%The potions, sir, I've no longer any overbearing affinity for the things. I'm good. Sound. Quite sound. Ready to fight as the man I am.%SPEECH_OFF%You're not entirely sure what he's driving at. You thought most men took to alcohol, but you've no issue with that. Whatever it is it appears he's bettered it. | You find %addict% sitting on the ground looking at his palms. He's following the grooves with a finger.%SPEECH_ON%I hear you, sir.%SPEECH_OFF%Nodding, you ask what he's up to. He smiles.%SPEECH_ON%Feeling better. Feeling like I don't need to loosen myself with them potions no longer. Feeling myself, I suppose. Ready to kill, as you command, sir, and do it with clarity of mind to know what I'm doing and why.%SPEECH_OFF%Great. You're not sure what that was about but wish him good luck in staying that way.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_05.png[/img]{%addict%以一种尊敬的姿态，双手放在背后，进入你的帐篷。他问你是否有时间。你点点头，他说他已经摆脱了颤抖和疾病。你问他是什么意思。他扭动手上方的嘴巴，仿佛喝了口饮料。%SPEECH_ON%先生，药水，我不再对它们有强烈的亲和力。我好了，健康了，像一个男人一样准备战斗。%SPEECH_OFF%你不完全明白他的意思。你以为大多数人会沉迷于酒精，但是你对此没有意见。无论是什么，似乎他已经改善了。| 你发现%addict%正坐在地上看着他的手掌。他用手指跟随凹槽。%SPEECH_ON%我在听你说话，先生。%SPEECH_OFF%点点头，你问他在干什么。他微笑着。%SPEECH_ON%感觉好了。感觉就像不再需要那些药水来放松自己。我感觉到了自己的存在，准备为您奉命而战，并且清晰地知道我在做什么和为什么这么做。%SPEECH_OFF%太好了。你不确定这是什么意思，但祝他好运，希望他能一直保持这种状态。}"
 
 # scripts/events/events/dlc2/lose_fear_beasts_event.nut
 msgid "Hear, hear!"
@@ -849,7 +867,7 @@ msgstr "不再害怕野兽"
 
 # scripts/events/events/dlc2/lose_fear_beasts_event.nut
 msgid "[img]gfx/ui/events/event_26.png[/img]{The company is gathered around the campfire enjoying rest and a meal when %fearful% stands up. Given that everyone else is sitting, he seems to have taken the 'floor' so to speak and uses his newfound privilege.%SPEECH_ON%If men were to be fearful of beasts, then men would be the beasts! But we're the ones with the homes and the fire and the trade and the money! Us! Not them! They sleep where they shit, what are they good for, really?%SPEECH_OFF%Despite the bizarre outburst, a few of the men raise their mugs and give a hearty 'hear hear.'}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_26.png[/img]{战团在篝火旁享受着休息和美食，当时%fearful%站了起来。鉴于其他人都坐着，他似乎已经获得了“发言”的特权。%SPEECH_ON%如果人们害怕野兽，那么人就会成为野兽！但是我们有房屋、火和贸易和金钱！是我们！不是他们！他们睡在他们拉屎的地方，他们真的有用吗？%SPEECH_OFF%尽管他的话十分奇怪，但一些人举起了酒杯，热情地喊出了“耳听为虚，眼见为实”的口号。}"
 
 # scripts/events/events/dlc2/lose_fear_greenskins_event.nut
 msgid " no longer fears greenskins"
@@ -861,7 +879,7 @@ msgstr "如果它流血了，我们可以杀了它。"
 
 # scripts/events/events/dlc2/lose_fear_greenskins_event.nut
 msgid "[img]gfx/ui/events/event_26.png[/img]{%fearful% is staring into the campfire and nodding as he mumbles to himself. It's a worrisome sight, but almost on cue of that thought he speaks up.%SPEECH_ON%You know what? The greenskins ain't shit.%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_26.png[/img]{%fearful%盯着篝火喃喃自语，这是一个令人担忧的景象，但几乎就在这样的想法出现的同时他开口了。%SPEECH_ON%你知道吗？那些绿皮根本什么都不是。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/lose_fear_undead_event.nut
 msgid " no longer fears the undead"
@@ -873,7 +891,7 @@ msgstr "这个世界属于活人。"
 
 # scripts/events/events/dlc2/lose_fear_undead_event.nut
 msgid "[img]gfx/ui/events/event_26.png[/img]{%fearful% interrupts a company break with a sudden speech.%SPEECH_ON%I've killed and buried so many men, you know? And if they were worth their salt then they wouldn't have the opportunity to come back as undead to begin with! And if they come back from ancient times then I'll be damned, they're persistent! But they ain't me. I'm living. I'm breathing. And I aim to keep it that way. And when it's my time I aim to stay dead, because I've the gumption to know I've troubled this world enough.%SPEECH_OFF%Clapping, %otherbrother% offers a plate of food.%SPEECH_ON%Well alright, now stop troubling us!%SPEECH_OFF%The men laugh and %fearful% joins right in.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_26.png[/img]{%fearful%在休息时突然发表演讲。%SPEECH_ON%我杀了和埋葬了这么多人，你知道吗？如果他们值得一试，那么他们就不会有回来成为不死族的机会！如果他们是从古代回来的，那我该死，因为他们非常顽强！但他们不是我。我还活着，我还在呼吸。我希望保持这样的状态。当我的时间到了，我打算变成死人，因为我有勇气知道我已经给这个世界带来了足够的麻烦。%SPEECH_OFF%%otherbrother%鼓掌并递上一盘食物。%SPEECH_ON%好吧，现在别再打扰我们了！%SPEECH_OFF%男人们笑了起来，%fearful%也跟着笑了。}"
 
 # scripts/events/events/dlc2/lucky_finds_something_event.nut
 msgid "Lucky you."
@@ -881,11 +899,11 @@ msgstr "你真幸运。"
 
 # scripts/events/events/dlc2/lucky_finds_something_event.nut
 msgid "%terrainImage%{%lucky% the ever lucky sellsword has managed to find something interesting. You ask how he came across the item. He shrugs.%SPEECH_ON%{I was walking, and then I stepped on it. Simple enough. | I looked up and this bird shat and it just missed me. When I looked at where it landed, well, there it was. The bird shit and that thing you got in your hands. | Felt a tingle in my fingers, and then a tingle in my cock. After that I got to looking around for somethin' boring to absolve myself and saw it just settin' there. | Saw a horseshoe just layin' on the ground there and thought to go and fetch it and, well, that was underneath. | Well, see, I saw this four-leaf clover just setting there and I was gonna add it to my bag, see, I got dozens, anyway when I went to go pick it up I saw that item just settin' there. Pretty nifty, huh?}%SPEECH_OFF%}"
-msgstr ""
+msgstr "%terrainImage%{%lucky%这位幸运的雇佣军找到了一件有趣的东西。你问他是如何找到这个物品的。他耸了耸肩。%SPEECH_ON%{我走路的时候就踩到了它。简单吧。|我仰头看到一只鸟拉了一泡屎，正好没拉在我身上，我去看它拉到了哪里，然后就看到了这个。这只鸟拉了屎，你手里拿的就是这个。|我手指感觉到一阵刺痛，接着小弟子也是，然后我就开始四处寻找一些无聊的东西从而弥补过失，我看到它就在那里。|我看到一个马蹄铁只是随意扔在地上，想去捡它，接着底下就是这个。|你懂的，我看到一片四叶草在那里，想要放到我的包里，我已经有几十片了，当我去捡它的时候，就看到那个东西放在那里。相当不错，对吧？}%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/march_wear_and_tear_event.nut
 msgid "Suck it up."
-msgstr ""
+msgstr "忍一时，风平浪静。"
 
 # scripts/events/events/dlc2/march_wear_and_tear_event.nut
 msgid "Put your boots back on."
@@ -905,7 +923,7 @@ msgstr "穿上你那该死的靴子。"
 
 # scripts/events/events/dlc2/march_wear_and_tear_event.nut
 msgid "What were we complaining about again?"
-msgstr ""
+msgstr "我们又在抱怨什么了？"
 
 # scripts/events/events/dlc2/march_wear_and_tear_event.nut
 msgid "Now that's a magician if I've ever see one."
@@ -925,23 +943,23 @@ msgstr "也许我们可以用现有的东西做些新鲜的包装？"
 
 # scripts/events/events/dlc2/march_wear_and_tear_event.nut
 msgid "%terrainImage%{The next stop ain't far. You hope the men can keep it together until they get there. What bandages you have are applied as necessary.}"
-msgstr ""
+msgstr "%terrainImage%{下一站并不远。你希望士兵们能够一直坚持走到那里。你会根据需要使用你所拥有的绷带。}"
 
 # scripts/events/events/dlc2/march_wear_and_tear_event.nut
 msgid "%terrainImage%{Marching all around the world has put some wear and tear on the men. Whenever a mercenary takes off a boot you can see the blood seeping through his sock. They've accumulated sores and boils. One man peels the flesh off his toe and says he regrets doing that and you nod. All in all, this is the price to pay for being on the road so much.}"
-msgstr ""
+msgstr "%terrainImage%{周游世界对士兵们造成了一定的磨损。每当雇佣兵脱下靴子时，你都能看到血液透过他的袜子渗出来。他们积累了疮痛和疖子。一名士兵剥下他的脚趾肉，表示他后悔这样做，你点了点头。总的来说，这是长期在路上付出的代价。}"
 
 # scripts/events/events/dlc2/march_wear_and_tear_event.nut
 msgid "%terrainImage%{When it comes to walking the earth, %travelbro% is longer in the tooth than anyone. He laughs at the plight of his fellow sellswords.%SPEECH_ON%Ah, now this is what I'm talking about! Nevermind the pain, men, embrace the soreness!%SPEECH_OFF%The company collectively tells him to stuff it, but the roadman happily wiggles his toes around. You didn't even realize he had his boots off before that, his feet are so calloused you thought the bony figures but folds of leather!}"
-msgstr ""
+msgstr "%terrainImage%{在行走这个世界方面，%travelbro%可谓老当益壮。他嘲笑着身为佣兵的同伴们的困境。%SPEECH_ON%啊，这才像话！别管疼痛，伙计们，拥抱酸痛吧！%SPEECH_OFF%战团一致反驳他，但这名路人却高高兴兴地蹬动着脚趾。你甚至没有注意到他脱下了鞋，他的脚已经被老茧包裹着，让你误以为是鞋子的皱褶和骨头隆起！}"
 
 # scripts/events/events/dlc2/march_wear_and_tear_event.nut
 msgid "%terrainImage%{%tailor% the tailor rubs his chin with two fingers. He finally points them forward.%SPEECH_ON%I've got it. Gentlemen, give me every scrap of unused or trashy clothing you have. Every article you got. Hand it over. There you go. Yes, that's absolutely trash, %otherbrother%. Your favorite shirt? By the gods, just give it to me already. Thank you.%SPEECH_OFF%The tailor collects armfuls of discarded clothing and gets to work with his scissors. He slices and dices and pauses. He pauses a lot, always unsure of his work. But finally he presents the results. A pile of fresh socks and enough left over scraps to furnish some extra bandages. He's also wearing a surprisingly flashy new garb that you've no clue how he created.}"
-msgstr ""
+msgstr "%terrainImage%{%tailor% 裁缝用两根手指摩擦下巴，终于伸手指向前方。%SPEECH_ON%我想到了！各位，把你们所有没用或破烂的衣服都给我。每一件都要。拿过来。没错，那确实是破烂，%otherbrother%。你最喜欢的衬衫？见神就拜，还是先给我。谢谢。%SPEECH_OFF%裁缝收集了一大堆废弃的衣服，并开始他的工作。他剪来剪去，不时停顿。常常不确定自己的工作。但是最终他展示了成果。一堆新的袜子和足够的小碎布撕成可以用来绷带的大小。他还穿着一套令人惊讶的花哨新装，你完全不知道他是如何制造的。}"
 
 # scripts/events/events/dlc2/march_wear_and_tear_event.nut
 msgid "%terrainImage%{%thief% the thief sidles up to you. Stepping away and putting your hands in your pockets, you ask what he wants. He smirks and answers.%SPEECH_ON%Alright I'll be honest with you, captain. Last time we stopped in town I helped myself to a blind peacemaker's wares. What? I'd a sore tooth. No reason to pay to fix what the old gods gave me. Anyway, I fixed my tooth. See? What a smile, right? But then I thought I felt some aches, man, aches all over the place! So I visited the peacemaker again and...%SPEECH_OFF%You interrupt the man and ask just how much he stole. He produces a sack of medicinal goods. He proudly puts his hands to his hips and stare out at the world with his crooked grin.%SPEECH_ON%Suffice it to say I ain't hurtin' no more.%SPEECH_OFF%} "
-msgstr ""
+msgstr "%terrainImage%{%thief% 小偷靠近你，你走开，把手放进口袋里，问他想干啥。他咧嘴一笑，回答道。%SPEECH_ON%好吧，队长，我跟你说实话。上次我们在镇上停留时，我拿了一个盲和平主义者的东西。什么？我有个疼牙。没必要花钱修复老天爷给我的东西。不过，我把我的牙齿修好了。看见了吗? 真是个好笑容，对吧？但是，之后我觉得浑身都疼，真的哪儿都疼！所以我又去拜访了那个和平主义者，然后…%SPEECH_OFF% 你打断了这个男人，询问他偷了多少东西。他拿出了一袋药物。他骄傲地双手叉腰，用他扭曲的笑容凝视着这个世界。%SPEECH_ON%不用多说，我现在不再疼了。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/miner_fresh_air_event.nut
 msgid "[/color] Max Fatigue"
@@ -957,7 +975,7 @@ msgstr "从海上吹来一阵清新的微风。"
 
 # scripts/events/events/dlc2/miner_fresh_air_event.nut
 msgid "%terrainImage%{%miner% the miner sucks in great gulps of breath and then lets them out in long, albeit a little wheezy exhales. He nods to himself as though satisfied by something everyone does. It seems some folks are easily pleased. But he does explain himself.%SPEECH_ON%You know I spent years in the dank and dark of the mines, breathing in the dust and the metals. I think being surface side this long has been a fortune of its own, a treasure I didn't know was out here for the taking. Thank you, captain, cause I wouldn't be here right now if it weren't for you.%SPEECH_OFF%You nod and thank him for the kind words.}"
-msgstr ""
+msgstr "%terrainImage%{%miner%矿工深吸口气，然后长长地呼出，虽然有些喘气。他满意地点点头，好像满足了一些每个人都做的事情。看来有些人很容易满足。但他解释了一下。%SPEECH_ON%你知道我在矿井里度过了几年，呼吸着尘土和金属。我认为待在表面这么久已经是一种幸运，一种我不知道存在的宝藏。谢谢，队长，因为如果不是你，我现在不会在这里。%SPEECH_OFF%你点了点头，感谢他的好话。}"
 
 # scripts/events/events/dlc2/monk_crafts_holy_water_event.nut
 msgid "Even holy men have tricks of the trade."
@@ -965,7 +983,7 @@ msgstr "即使是圣人也有交易的技俩。"
 
 # scripts/events/events/dlc2/monk_crafts_holy_water_event.nut
 msgid "[img]gfx/ui/events/event_05.png[/img]{%monk% the modest monk enters your tent with a vial in hand. The flask is topped with a bark stopper and a wreath of greenery with berries hanging beneath the leaves. Inside the vial is a goldish liquid sloshing about. Whatever it is, it catches any glimpse of light and seems to capture it and swirl it around. He holds it out.%SPEECH_ON%Blessed water, sir, to fight the dead that walk again.%SPEECH_OFF%You ask if it's a gift from the old gods. He nods. You ask if it's really a gift from the old gods, though. He purses his lips.%SPEECH_ON%No, not exactly. The monasteries know how to make it, but it is an ancient recipe protected under penalty of death.%SPEECH_OFF%Of course. You thank the man for taking such a risk to contribute and tell him to put it in the inventory.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_05.png[/img]{%monk%那位谦虚的僧人拿着一个小瓶子进了你的帐篷。瓶子顶部是一个树皮塞子和一串绿色的绿叶下垂的浆果。瓶子里装的是一个金色的液体，不论从任何角度看它，它似乎能够抓住光线，在里面漩涡般旋转。他伸出手来。%SPEECH_ON%祝福的水，先生，用来对抗那些再次行走的亡者。%SPEECH_OFF%你问它是不是来自老神的礼物。他点了点头。你问他这真的是来自古老的神灵的礼物吗？他撅起嘴% SPEECH_ON%不完全是，修道院知道如何制作它，但这是受到死刑保护的古老配方。%SPEECH_OFF%当然了。你感谢这个愿意冒险贡献的人，并让他把水放进库存中。}"
 
 # scripts/events/events/dlc2/nightowl_catches_thief_event.nut
 msgid "Rest well."
@@ -981,7 +999,7 @@ msgstr "晚上抓到一个小偷"
 
 # scripts/events/events/dlc2/nightowl_catches_thief_event.nut
 msgid "[img]gfx/ui/events/event_33.png[/img]{Waking from a strange dream, you step out of your tent to find most of the company asleep, aside from the night owl %nightowl%. He's at the edge of the camp with his back turned, but he seems to hear you approaching and speaks without looking.%SPEECH_ON%This is how it starts, sir. The rage. The fever. That turns good men, hoooo.%SPEECH_OFF%He wheels around to show off an actual owl he has caught. Its eyelids are half-closed, probably worn out from escaping and now simply humiliated at being caught without any carnivorous purpose. You ask %nightowl% how the hell he caught it. The sellsword lets the bird go and shrugs.%SPEECH_ON%With my hands. I also caught this.%SPEECH_OFF%He crouches and pulls up a heretofore unseen corpse.%SPEECH_ON%Slick little thief. I happened upon him, eh, discounting our wares so to speak. I was a little too tired to talk, so I let my blade here tell him the shop's closed. I then followed his footsteps out to where he came from and found his, eh, let's say accoutrements.%SPEECH_OFF%You nod. Right. Of course. You tell the man you're going back to sleep and you'll make judgments of his doings in the morning. He nods back.%SPEECH_ON%Right sir. I'll try and get some shuteye myself. Been a couple days. Or was it weeks?%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_33.png[/img]{从一个奇怪的梦中醒来后，你走出帐篷，发现大部分的战团都在睡觉，只剩夜猫子%nightowl%。他在营地边缘背对着你，但似乎听到你的脚步声，没有看也开口说话了。%SPEECH_ON%就是这样开始的，长官。愤怒，发热。好人变得……啊啊啊。%SPEECH_OFF%他转过身来，向你展示他捉到的一只真正的猫头鹰。它的眼睑半闭，可能是累了逃脱，现在只是被抓住而感到羞辱。你问%nightowl%他是怎么抓到它的。那个佣兵放了鸟，耸了耸肩。%SPEECH_ON%用我的双手。我还抓到了这个。%SPEECH_OFF%他蹲下来，拖起一个此前未见的尸体。%SPEECH_ON%品味不错的小贼。他，嗯……打了折扣，可以这么说。我有点累得说不出话来，所以让我的刀告诉他，店关门了。然后我跟着他的脚步找到了他来的地方，找到了他，嗯，我们可以说是随身物品。%SPEECH_OFF%你点点头。好吧，当然。你告诉这个人你要回去睡觉，明天早上再判断他的行为。他也点了点头。%SPEECH_ON%明白的，长官。我会试着让自己也能睡一会儿。已经过了几天了，或者几周了吗？%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/oracle_event.nut
 msgid "What a dame."
@@ -1009,27 +1027,27 @@ msgstr "我会告诉你的：你要把你所有的贵重物品都给我们。"
 
 # scripts/events/events/dlc2/oracle_event.nut
 msgid "[img]gfx/ui/events/event_11.png[/img]{You come across a goatskin tent beside the road. The hide tarps have been dipped in purple dyes and there are fresh daisies twisted into the knots of matted goat hair. An old woman with a hunchback stands outside with her hands clasped and hanging. She sizes you up and down with withered eyes.%SPEECH_ON%Ah, a sellsword. No, a captain of sellswords. Or perhaps something more. You smell of a strange odor, and not just that of a man. Do you wish to have your fortune told?%SPEECH_OFF%She gestures to inside the tent. You see a number of long, cards laid facedown across the table.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_11.png[/img]{在路边你看到一顶山羊皮帐篷。兽皮帐篷已经被浸泡在紫色染料中，并且新鲜的雏菊扭在交织的山羊毛结上。一位驼背老妇人站在帐篷外，双手交叉垂在身旁，用枯萎的眼睛打量着你。%SPEECH_ON%啊，一个雇佣兵。不，是一个雇佣兵的队长。或者更高等的角色。你身上有异样的气味，不仅仅是男人的气味。你想算一下你的命运吗？%SPEECH_OFF% 她朝帐篷里面比划。你看到一排长长的牌面朝下横放在桌子上。}"
 
 # scripts/events/events/dlc2/oracle_event.nut
 msgid "[img]gfx/ui/events/event_11.png[/img]{You step into the tent. A concerned %randombrother% looks in as the folds close him and the rest of the world out. The old woman lights a candle and carries it to her seat. Ironically, her olden shapes take further prominence in the dark as shadows find crevices you never knew could exist on a person, and her skin brims with lightning brought permanence. She immediately starts flipping cards and speaking.%SPEECH_ON%Defeat. Speculation. Doubt.%SPEECH_OFF%Poorly painted knights come and go, their limbs askew in bizarre poses.%SPEECH_ON%More defeat. But, also, victory. Many victories. You forget weakness. You grow tired of its contagious nature. You become powerful. Strength is survival. And there you are. Old. You die.%SPEECH_OFF%Raising an eyebrow you grab that last card and slide it into the light. You see a man with a long grey beard sitting in a chair. You tell the woman you've never really been able to grow a beard and she snuffs the candle out and shoos you out of the tent.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_11.png[/img]{你迈步走进帐篷，一个不安的%randombrother%在折叠的帐篷收口外望。老妇人点燃蜡烛，拿到她的位置上。讽刺的是，在黑暗中，她古老的身形更加凸显了，因为阴影发现了你从未意识到人身上可能会存在的缝隙，她的皮肤充满着永久的闪电。她立刻翻牌并开始占卜。%SPEECH_ON%失败。猜测。怀疑。%SPEECH_OFF%手绘的骑士上下前后进出，他们的肢体扭曲成奇怪的姿势。%SPEECH_ON%更多的失败，但也有胜利。许多胜利。你忘记了脆弱，你对它的传染性感到厌倦。你变得强大，实现自我保护。你老了。你死了。%SPEECH_OFF%你皱眉看着最后一张牌并将它推到了光线下。你看到一个留着长长灰胡子的男人坐在一个椅子上。你告诉这位妇人你从未真正长出胡子，她就吹灭了蜡烛并把你撵出了帐篷。}"
 
 # scripts/events/events/dlc2/oracle_event.nut
 msgid "[img]gfx/ui/events/event_11.png[/img]{The tent closes shut as you step in. An orange glow flicks and bobs from a lantern. Groaning, the old woman leans into it with a candlestick and broadens the light to a table and two chairs. She motions toward them.%SPEECH_ON%Sit.%SPEECH_OFF%You sit. She sits. She smacks her lips over toothless gums and nods and begins flipping the cards.%SPEECH_ON%First there is...%SPEECH_OFF%You lean forward to get a better look and the table breaks beneath your weight. The cards go fluttering and the woman falls backwards and the candle goes flying. You catch its stick midair with one hand and rush to save the lady from falling with the other. You set her back down and give her candle back. She stares at you, grinning with a black rim of a smile, her eyes squinted into dots.%SPEECH_ON%Let's forget this happened and say you get all that you ever wished for, sellsword, starting with this.%SPEECH_OFF%She gives you a slobbery kiss on the forehead and prods you with a dagger handle.%SPEECH_ON%Deal!%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_11.png[/img]{当你走进帐篷，帐篷就闭上了。一盏灯笼发出橙色的光芒。瘦弱的老婆子倚在烛台上，用烛台把灯光照亮，照到了桌子和两把椅子。她朝着桌子做了一个手势。%SPEECH_ON%坐下。%SPEECH_OFF%你坐了下来，她也坐了下来。她咂着嘴唇，嚼动着没有牙齿的牙龈，点点头，开始洗牌。%SPEECH_ON%先是这张牌...%SPEECH_OFF%你向前靠了一下，想看得更仔细，结果当你的重量落在桌子上的时候，桌子断裂了。牌飞舞着，老婆子向后倒去，烛光四溅。你一只手接住了烛台，一只手冲过去扶助了老婆子。你让她重新坐下，把烛台还给她。她看着你，露出了一丝黑边的笑容，眯起眼睛看着你。%SPEECH_ON%我们就假装没发生过什么，然后说你得到了你一直想要的，雇佣兵，从这里开始。%SPEECH_OFF% 她亲了你一下，并拿匕首的把手戳了你一下。%SPEECH_ON%发牌！%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/oracle_event.nut
 msgid "[img]gfx/ui/events/event_11.png[/img]{You take a good look around you. If the hag had an ambush waiting somewhere you certainly don't see it. With a wave of your hand, you order the company to ransack her place. A few brothers slide into her tent and start picking it apart, flipping tables and yanking out drawers. The old woman steps aside, and keeps stepping, and keeps stepping. She's... grinning?%SPEECH_ON%Ay, take a look at this thing!%SPEECH_OFF%You turn back to see one of the mercenaries grabbing an orb that hangs from the tent ceiling. He yanks it down. The chain goes taut, snags, and there's a clank of a wire snapping loose. Blue sparks sidewind up the chain and zip down the length right into the orb. You don't hear a thing. The tent rips apart in a burst of blue flame and the pole punches into the sky and the silhouettes of sellswords stumble through the hot smoke. Grey and burning daisies twist through the air. You augur your ears to get your hearing back and then look to see where the woman is, but she's gone. Pursing your lips, you rush to see what damage has been done.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_11.png[/img]{你环顾四周，如果有某个老巫婆伏击等着你的话，你肯定什么都看不到。你挥了一下手，让战团搜查她的藏身之处。几名兄弟溜进她的帐篷，开始翻找，翻桌子，拉抽屉。老妇人退到了一边，然后继续退，一边退一边...在笑？%SPEECH_ON%看看这个东西！%SPEECH_OFF%你转过身去，看到其中一名佣兵拿着一颗悬挂在帐篷天花板上的珠子。他把它拽了下来。链子突然绷紧，弹了出来，同时传来一声金属的断裂声。蓝色的电芒顺着链子呼啸而上，飞到了珠子上。你没听到声音。帐篷在一片蓝色的火焰中炸开，旗杆冲过了天际，佣兵们的剪影笨拙地从火烟中走出。灰色而燃烧的雏菊在空中扭曲。你捂住耳朵，等待听力恢复，然后看看老妇人在哪里，但她已经不见了。皱着嘴唇，你赶紧查看造成了什么样的伤害。}"
 
 # scripts/events/events/dlc2/oracle_event.nut
 msgid "[img]gfx/ui/events/event_11.png[/img]{A card reader such as this has probably done a fair bit of business, enough so that you wouldn't mind taking it for yourself. You order the company to pick the place apart. The woman says nothing as you move her out of the way, and she says nothing as the sellswords swarm her tent and tilt its pole to the ground. She smiles a little as they throw the goatskin tarp off to see the loot like magicians unveiling a failed trick. The smile fades as they begin to pick through her things, their boots crushing and smashing anything of no use to them. The hag shrugs and holds up two cards seemingly pulled right out of her sleeves.%SPEECH_ON%Tell me, sellsword, what do you see?%SPEECH_OFF%You take a look. The tarot cards depict a group of knights ransacking a village, and another is of a graveyard guarded by a particularly punitive keeper. You shrug and tell her she keeps those two cards tucked for events just like this and you're no fool to the notion of a helpless hag being runover on the road. You tell her she may have scared a few robbers with that trick, but you're not so easily fooled. She laughs.%SPEECH_ON%You are as wise as you are cruel.%SPEECH_OFF%Damn straight. Now let's see what the company has found.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_11.png[/img]{像这样的读卡器可能已经做了很多生意，足以让你忍不住想把它拿走。你命令战团搜索这个地方。女人没有说什么，当你把她搬开的时候，她也没有说什么，当雇佣兵们涌入她的帐篷，把它倾斜在地上时，她微笑了一下。他们像魔术师一样揭开了山羊皮布，看到了赃物，却像发现了失败的魔术一样失望。他们开始搜查她的东西，蹂躏、摧毁一些对他们没有用的东西。老巫婆耸了耸肩，从袖子里拿出两张牌。%SPEECH_ON%告诉我，雇佣兵，你看到了什么？%SPEECH_OFF%你看了看。塔罗牌描绘了一群骑士正在抢劫一座村庄，另一张牌则是一个墓地，由一个非常严厉的守卫守卫着。你耸了耸肩，告诉她她为这两张牌而保留着，正如你不是一个容易被路上可怜巴巴的老巫婆愚弄的傻瓜。你告诉她，她也许嚇到了几个抢劫犯，但你并不容易被骗。她笑了。%SPEECH_ON%你既聪明又残忍。%SPEECH_OFF%你说得没错。现在让我们看看战团找到了什么。}"
 
 # scripts/events/events/dlc2/oracle_event.nut
 msgid "[img]gfx/ui/events/event_11.png[/img]{You step into the tent and its folds close and you're in nothing but darkness. You stand there for a time and ask the woman where she went. Pursing your lips, you open the tent flap to bring in some light. The slip of light strikes a sheen from the darkness and you turn around to see the dagger soaring forward. You block it away with your gauntlet and draw your sword and plunge it into the hag's chest. She drops the knife and clutches your shoulder.%SPEECH_ON%Such a monster you are, sellsword, killing a kind old woman such as I. You'll die for this. You and your men will all die.%SPEECH_OFF%You bring the witch in close and get a look at suddenly bright, wicked cat eyes. You spit and nod.%SPEECH_ON%Foretelling doom in a world where everything dies? Not a hard job. Do you know what my job is, you witch?%SPEECH_OFF%She grins a black rind of a gummy smile. Black blood spurts over her lips as she laughs.%SPEECH_ON%Oh, sellsword! We shall see what you are when Davkul has you in his hands.%SPEECH_OFF%The witch's body goes limp and your sword suddenly cuts straight through her flesh, leaving sliced flesh folding at your feet. You quickly exit the tent and have the whole thing burned. Some of the men swear they can see the woman's face grinning in the palls of smoke.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_11.png[/img]{你迈进帐篷，布料合拢，一片黑暗。你站了一会儿，询问女巫去了哪里。你撅起嘴，掀起帐帘，想要点亮些许光明。一缕光线从黑暗中射出，你回身看见匕首正向你飞来。你戴着的护手护住自己，并拔出剑刺向女巫的胸膛。她扔掉了刀子，抓住了你的肩膀。%SPEECH_ON%像你这样残忍的佣兵，竟杀了一个单纯的老太婆。你们都会死的，你和你的手下。%SPEECH_OFF%你让女巫靠近，突然看见了她邪恶的猫眼。你吐了口唾沫并点了点头。%SPEECH_ON%在世间万物都会死去的前景下预言恶兆？这份工作可不难。你知道我的工作是什么吗，女巫？%SPEECH_OFF%女巫露出了满嘴的黑汁般的笑容。黑血从她的嘴角喷溅出来。%SPEECH_ON%哦，佣兵！等达库尔拿到你的时候，我们就会看你是什么德行了！%SPEECH_OFF%女巫的身子变得松弛，你的剑直接从她胸口穿过，留下了你脚旁的切割的肌肉。你迅速退出帐篷，将整个帐篷烧毁。一些人发誓他们在烟雾中看到了女巫的面容在咧嘴。}"
 
 # scripts/events/events/dlc2/paranoid_bothers_others_event.nut
 msgid "Stop being so paranoid."
@@ -1041,7 +1059,7 @@ msgstr "猜疑他的战友们"
 
 # scripts/events/events/dlc2/paranoid_bothers_others_event.nut
 msgid "[img]gfx/ui/events/event_64.png[/img]{You hear a commotion and go to find %paranoid% waving a weapon at his fellow sellswords.%SPEECH_ON%I know who you is, and I know who you ain't, and what you ain't are friends of mine!%SPEECH_OFF%%randombrother% looks over and shrugs.%SPEECH_ON%Never said you was my friend.%SPEECH_OFF%The paranoid mercenary barks on anyway, demanding everyone keep a good distance away or he'll cut them. You manage to calm the man down, mostly by explaining what his daily rate is and how he'll struggle without it, but it's no doubt a short term solution. | You find %paranoid% the increasingly paranoid sellsword huddled by himself with his hands around his knees. Despite the infantile posture, his eyes are steeled and he's keeping careful watch of everything. When you ask him how he's doing, he simply laughs.%SPEECH_ON%I dunno, sir, just surrounded by a mob of money-driven assholes who will stab me in the back whenever it suits them.%SPEECH_OFF%In a way, you understand where he's coming from, but you hope this mood is not contagious with the rest of the company.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_64.png[/img]{你听到了一阵喧闹的声音，走过去看到%paranoid%正挥舞着武器对着其他雇佣兵。%SPEECH_ON%我知道你是谁，也知道你不是我的朋友！%SPEECH_OFF% %randombrother%看着他耸了耸肩：%SPEECH_ON%我从来没有说过你是我的朋友。%SPEECH_OFF%这个偏执的雇佣兵还在继续大喊大叫，要求所有人远离他，否则他会伤害他们。你设法让他冷静下来，主要是解释了他的日薪以及没有工作他将如何艰难度日。但这毫无疑问只是一个短期的解决方案。| 你发现%paranoid%越来越多疑地独自一人蹲坐着，双手搂在膝盖上。尽管姿势很像是儿童，但他的眼神却很坚定，对周围的一切保持着谨慎的观察。当你问他怎么样时，他只是笑了笑。%SPEECH_ON%我不知道，先生，只是被一群只为赚钱的混蛋包围着，他们会在合适的时候捅我一刀。%SPEECH_OFF%从某种角度来说，您理解他的心情，但您希望这种情绪不会传染给战团中其他的雇员。}"
 
 # scripts/events/events/dlc2/petrified_scream_event.nut
 msgid "How do you keep misplacing that?"
@@ -1057,6 +1075,9 @@ msgid ""
 "\n"
 " You return to your map only to see something black hidden under the paper. Lifting the page, you find the alp's death mask there, maw open in grisly black permanence. You stare at the mask, you can hear something within it, something clattering its teeth like thrown dice, and the sides of it seem to be vibrating, giving its flesh a bubbling look. With a shrug and laugh you throw it on top of the map as a paperweight. Damn thing is gonna get lost if the men keep moving it around like this.}"
 msgstr ""
+"[img]gfx/ui/events/event_12.png[/img]{几个士兵急匆匆地冲进你的帐篷，每个人都睁大了眼睛，满头大汗。他们冲动地退避彼此的触碰，或者猛烈地反击。你问这是怎么回事，他们解释说就好像一群鸟争抢一块面包那样。需要解释一下，但听起来好像这个迷信地叫做“石化的尖叫”的神器一直在让士兵们做噩梦。你告诉士兵们这件物品在库存中，没有危害。士兵们悄悄地离开。\n"
+"\n"
+"你回到地图上，发现一些黑色东西藏在纸张下面。你掀起纸页，发现了阿尔普的死亡面具，嘴张得大得吓人。你盯着面具看，能听到它里面有什么东西，发出像掷骰子一样的牙齿咔嚓声，它的两侧似乎在震动，给它的肌肉泛起了一个起泡的外观。你耸了耸肩，笑着把它扔在地图上当纸铅。该死的东西要是像这样一直被士兵们移来移去，肯定会丢失。}"
 
 # scripts/events/events/dlc2/schrat_exposition_event.nut
 msgid "An enemy such as this shouldn't be taken lightly."
@@ -1064,7 +1085,7 @@ msgstr "不应该轻视像这样的敌人。"
 
 # scripts/events/events/dlc2/schrat_exposition_event.nut
 msgid "%terrainImage%{You come across a young traveler on the road. His straw hat is turned inside out as though he meant for it to catch rain. He's got a walking stick with its end shaved to a ball to navigate muddy roads. When you get near, he straightens up and tents his hands on the top of the staff.%SPEECH_ON%Oy', mercenaries are ye? I'd avoid the forests if I were ye. They say trees roam those parts now. They don't do so in menace, but neither does a motha' bear when it chows down on your balls for getting too close. It's a matter of nature, ye know?%SPEECH_OFF%Uh, sure. | A man is found beside the road reading some tomes. He looks up, turning one of the pages for you to see, displaying a drawing of a tree with long branches extended to the ground. The trunk is lit with eyes.%SPEECH_ON%They call 'em schrats. Trees that will claw and kill anything that gets close, but I don't think that's quite right. I don't think they're animals, I think they're calculating and smart monsters with a vengeful attitude toward matters of trespass. So don't trespass upon them, understand? Stay out of the forests.%SPEECH_OFF%Not in the mood for idle tree talk, you wish the man well in his studies and quickly move on. | An elderly woman carrying a basket crosses paths with your company. She gestures toward the goods, a pile of chopped firewood.%SPEECH_ON%If ye want some fyewood, aye, best stay clear of where I got it.%SPEECH_OFF%You ask what she means. She grins all wily like.%SPEECH_ON%A schrat in the forest watched me do it, gave me propuh permission to warm meself with this here tinder. Didn't give my uncle permission. It tore my uncle in half and hung his flesh. Peehaps ornamental value, ye know?%SPEECH_OFF%Er, of course.}"
-msgstr ""
+msgstr "%terrainImage%{你在路上遇到了一个年轻的旅行者。他的草帽里外颠倒，好像是为了接雨水。他手里拿着一根行走在泥泞的路上的手杖，杖头被削成了球形。当你走近时，他挺直身子，手抱在手杖顶端。%SPEECH_ON%哦，你们是雇佣兵吧？要是我就避开森林。他们说树现在在那些地方漫游着。它们没有恶意，但妈妈熊在吃掉你的蛋蛋之前也不会有敌意。这是自然规律，你懂的吗？%SPEECH_OFF% 哦，好的。|在路边，有个人正在阅读一些书卷。他抬头，翻动了其中的一页，展示出一幅树的图画，有着长长的枝叶延伸到地面，树干上还有着眼睛和光芒。%SPEECH_ON%他们叫它们Schrats。树会抓住并杀死任何靠近的东西，但我觉得那不太正确。它们不是动物，我认为它们是具有报复心态的精明的、聪明的怪物。所以不要去闯入它们的领域，明白吗？远离森林。%SPEECH_OFF%你当然不想闲扯，祝福那个人的研究，并迅速离开了。|一个扛着篮子的老妇人和你的队伍穿过了路口。她朝着货物做了个手势，那是一堆劈好的柴火。%SPEECH_ON%如果你想要一些柴火，最好不要去我取它的地方。%SPEECH_OFF%你问她是什么意思。她狡黠地笑了笑。%SPEECH_ON%森林里有一个Schrats在看着我，给了我合适的许可证让我用这里的柴火取暖。它并没有给我叔叔许可。它撕开了我叔叔的身体然后挂起了他的肉。也许是装饰作用，你懂的吗？%SPEECH_OFF% 噢，当然。}"
 
 # scripts/events/events/dlc2/spooky_forest_event.nut
 msgid "What the hell!"
@@ -1104,7 +1125,7 @@ msgstr "%bravebro%，你是这群人中最勇敢的。 去看看这是怎么回�
 
 # scripts/events/events/dlc2/spooky_forest_event.nut
 msgid "[img]gfx/ui/events/event_25.png[/img]You can't be bothered by such trivial nonsense. It's likely to be a lynx or an eagle of some sort. If it's worse, it'll come on down and the company will deal with it then. This line of thinking doesn't sit well with some of the men."
-msgstr ""
+msgstr "[img]gfx/ui/events/event_25.png[/img]你不必为这种小事烦恼。可能只是一只山猫或老鹰什么的。如果情况更严重，众人将一起应对。有些人对这种想法并不满意。"
 
 # scripts/events/events/dlc2/spooky_forest_event.nut
 msgid ""
@@ -1112,22 +1133,25 @@ msgid ""
 "\n"
 " No one is crushed, but the chaos and debris leaves a few of the men worse for the wear."
 msgstr ""
+"[img]gfx/ui/events/event_25.png[/img]你命令战团砍倒这棵树。他们开始进行任务，但没有太多的经验，在树干朝着意料之外的方向倾倒时，结果是一场疯狂的逃命。一只非常害怕的黑熊从树顶上蹦出来。它的鼻子里还嵌着一个蜂巢，它呼哧呼哧地逃进森林的黑暗中。\n"
+"\n"
+"没有人被压伤，但混乱和残骸让一些人遭受了更多的伤害。"
 
 # scripts/events/events/dlc2/spooky_forest_event.nut
 msgid "[img]gfx/ui/events/event_25.png[/img]You order the men to cut the tree down. %randombrother% starts in with a heavy thwack. He plants a foot on the trunk to wrench the tool free and that's about the last you see of him as he goes flying away. A tree branch swings back into view with a long groan emanating from the trunk as though some ancient wood were being felled inside its very body. You watch as the wood cracks loose of the soil and uproots itself. Emerald eyes flare and widen, their stare blinkered by the twists of falling leaves."
-msgstr ""
+msgstr "[img]gfx/ui/events/event_25.png[/img]你命令士兵砍倒树木。%randombrother% 用力劈了一下，一只脚放在树干上，拧动工具，但就在这个时候，他像被弹出去一样飞了出去。一根树枝随着树干发出一声长长的嘎吱声，仿佛一些古老的木头正在被砍伐。你看着木头从土壤中松动并拔起。翠绿色的眼睛猛然睁开，追逐着落叶的旋转。"
 
 # scripts/events/events/dlc2/spooky_forest_event.nut
 msgid "[img]gfx/ui/events/event_25.png[/img]While camping in the woods, %randombrother% calls you out of the command tent. You ask what it is he wants and he pushes a finger to his lips in a silent shush. He points up a tree which grows tall into the evening darkness. You hear cracks as though something were making a nest out of branches whole. The noisemaker only pauses to snort and chortle in a quick tittering of guttural chirps, like a bird crying for help from the belly of a snake. When you look back down, the men are staring at you, looking for an idea as to what to do about this event."
-msgstr ""
+msgstr "[img]gfx/ui/events/event_25.png[/img]在森林中扎营时，%randombrother%叫你从指挥帐篷里出来。你问他想做什么，他用手指捂住嘴示意安静。他指了指一棵通向深夜黑暗的高大树木。你听到有东西像是在用整个树枝筑成一个巢，发出劈啪声响。只听到这个声音暂停了一下，然后就会发出喉咙里咕哝、嘻笑不停的嘶啦声，就像一只鸟在蛇的肚子里求救一样。当你把视线落回来时，士兵们正在盯着你看，希望你有关于这件事的一个主意。"
 
 # scripts/events/events/dlc2/spooky_forest_event.nut
 msgid "[img]gfx/ui/events/event_25.png[/img]You order %lumberjack% the lumberjack to bring the tree down. He nods and gets to work, using a host of tools available, not all of which are axes. He plies the wood open in a divot on one side and jams the gaps with the helves of weapons and then goes to the other side and chops away at its trunk. He works with the sort of speed you'd love to see on the battlefield. It's the sort of authenticity one rarely sees in life, a man home at his work, his eyes settled on modeling an undeniable future, his hands hardly assigned to the task so much as born for it.%SPEECH_ON%Ay-yo!%SPEECH_OFF%He yells out and the tree is felled. It cracks and slumbers down the heft and tilts into the forest where its long stock falls through the wickets and slams the ground so hard it seems to ache the very earth. Drawing your sword, you go to investigate the felled treetop. You find a pair of Nachzehrers there, smashed flat, teeth skittered to the forest floor like capless shrooms. The company's fear is settled by the grisly sight."
-msgstr ""
+msgstr "[img]gfx/ui/events/event_25.png[/img]你让伐木工人%lumberjack%砍树。他点了点头，使用了各种可用的工具，不全是斧子。他把树木从一侧裂开，在缝隙中塞入武器柄，然后去另一侧砍树干。他的速度让你感到惊叹，这种真诚很少在生活中见到。一个人把家安在他的事业上，目光注视着一个无可争议的未来，他的双手像是为此而生。%SPEECH_ON%啊哟！%SPEECH_OFF%他喊着，树木倒下。它裂开并倒在林中，长长的树干掉进金属丝网篱笆中，猛烈地撞击着地面，似乎使整个地球颤动。你拔出剑，去调查被砍伐的树顶。你发现两个纳克泽尔被砍扁在那里，牙齿像没有帽子的蘑菇一样散落在森林地面上。这场凄惨的景象让你的战团感到恐惧。"
 
 # scripts/events/events/dlc2/spooky_forest_event.nut
 msgid "[img]gfx/ui/events/event_25.png[/img]%bravebro%, the ever brave sellsword, clambers up the tree with speed not to be erred by fear or reluctance. You'd think they spotted a fair maiden up in those parts the way he's going. It isn't long until he's gone, though the scratch 'n' scratch of his noisy ascent is unmistakable. Finally you hear him returning, the clutter of his descent coming in stops and starts as he finds safe footing. You see him break back into view, the soles of his boots first to appear like butter trays dangling in the dark. His shadowy silhouette follows, sliding ever downward until he makes a last leap to the earth. He intentionally buckles at the knees and rolls back against the tree trunk with his tired hands limp across his knees.%SPEECH_ON%T'was a black bear head deep in a honeycomb, but the beast been dead at least two days. I saw a group of bats skitter on out when I approached, I think they was eating its insides. This tumbled on out when they fled.%SPEECH_OFF%He turns and throws a sword upon the ground. It's covered in sticky honey and pinestraw, but otherwise looks like a remarkable blade."
-msgstr ""
+msgstr "[img]gfx/ui/events/event_25.png[/img]%勇敢的哥哥%，永远勇敢的雇佣兵，迅速地爬上树，没有被恐惧或犹豫所困扰。你可能会认为他在那些地方发现了一个美丽的少女。他没有消失多久，他嘈杂的攀升声是不可置疑的。最后，你听到他回来了，他疲惫的双手松弛地放在他的膝盖上，他的降落声时远时近。你看到他再次出现，他的靴子的鞋底是第一个出现的，像晃在黑暗中悬挂着的黄油盘子。他的影子一直在滑动，直到他最后跳到地上。他故意屈膝，然后倒在树干上，疲倦的双手搭在膝盖上。%SPEECH_ON%是一头深入蜂巢的黑熊，但这个野兽已经死了至少两天了。当我走近时，我看到一群蝙蝠跑了出来，我想它们在吃里面的东西。当它们逃走时，它跌落下来。%SPEECH_OFF%他转过身扔下一把剑。它沾满粘稠的蜂蜜和松针，但看起来还是一把非常好的剑。"
 
 # scripts/events/events/dlc2/teamplayer_is_bro_event.nut
 msgid "]+1[/color] Resolve"
@@ -1143,7 +1167,7 @@ msgstr "%teamplayer% 是最好的。"
 
 # scripts/events/events/dlc2/teamplayer_is_bro_event.nut
 msgid "[img]gfx/ui/events/event_65.png[/img]{%teamplayer%, always the sort to take one for the company, seems to have singlehandedly helped the resolve of the men. As one sellsword explains it.%SPEECH_ON%I dunno how to explain it.%SPEECH_OFF%As another more articulate mercenary says.%SPEECH_ON%It's like he's more than just a sword for hire, you know? He's someone we can depend on. Like a brother. But not a whole brother, obviously. More like a halfbrother. A bro, if you will.%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_65.png[/img]{%队长%，总是愿意为战团冒险，似乎独自一人帮助了部队的士气。一名雇佣兵解释道：%SPEECH_ON%我不知道该如何解释。%SPEECH_OFF%另一名更有表达能力的雇佣兵说道：%SPEECH_ON%他不仅是一个金主的剑客，你懂的吗？他是我们能依靠的人。像个兄弟一样，但不是亲兄弟，显然是半个兄弟，如果你愿意叫他一声兄弟的话。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/treant_vs_giants_event.nut
 msgid "Yes, really."
@@ -1167,15 +1191,15 @@ msgstr "让我们离开这个鬼地方吧。"
 
 # scripts/events/events/dlc2/treant_vs_giants_event.nut
 msgid "[img]gfx/ui/events/event_107.png[/img]{You draw your sword, but %randombrother% puts his hand on your shoulder.%SPEECH_ON%Really, captain?%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_107.png[/img]{你抽出了剑，但%randombrother%却把他的手搭在你的肩膀上。%SPEECH_ON%真的需要这样，队长吗？%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/treant_vs_giants_event.nut
 msgid "[img]gfx/ui/events/event_107.png[/img]{You crouch low and order the men to come forward and to do so quickly. They march past like ants as leaves and mats of hair sputter down from above and the violence of the giants claps against your ears like lightning. But you do manage to get out of there and leave the war of the monsters behind.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_107.png[/img]{你蹲下身子，下令士兵快步前行。他们像蚂蚁一样快速通过，头上的树叶和毛发碎片四散而下，巨人战斗的力量像闪电般砸在你耳边。但你设法离开那里，远离了怪物的战争。}"
 
 # scripts/events/events/dlc2/treant_vs_giants_event.nut
 msgid "[img]gfx/ui/events/event_107.png[/img]{%randombrother% wrinkles his calf into a hole in the forest floor and curses with frustration.%SPEECH_ON%For farks sake as if my dogs weren't barking enough!%SPEECH_OFF%You turn to tell him to keep it quiet when suddenly you see an unhold scrambling up the forested hillside the company just climbed. Whereas you all struggled to ascend, the giant is hurdling upward and scrambling the incline, leaving small landslides in its wake. Before you can call it out, an enormous tree swerves down from a crowd of its still brethren and clotheslines the giant. A ball of spit zips through the forest breaking branches and brush and the giant slams its back to the forest floor and even at this distance it rumbles the ground beneath your feet. You see more unhold giants coming and more schrats unweaving themselves from the camouflage of the forest to do battle with them. It's a schrat against unhold no holds barked brawl!}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_107.png[/img]{%randombrother%在森林地面上一个坑中扭曲着小腿，愤怒地诅咒着。%SPEECH_ON%我该死的，就好像我的狗不够吵闹一样！%SPEECH_OFF%你转过身去告诉他安静点，突然你看到一个不死族乱爬上了战团刚刚攀登的小山坡。而你们都奋力攀爬，这个巨人却向上跳跃和抓住倾斜的斜坡，在其身后留下小的山崩。你还没来得及大声喊出来，一颗巨大的树从仍未移动的树冠群中掉下来，把巨人绞断了。一颗口水球呼啸着穿过森林，打破着树枝和灌木，巨人砸到了森林地面上，即使在这个距离下，也能感觉到地面在颤抖。你看到更多的不死族巨人出现了，更多的树魔鬼（schrats）脱离了森林中的伪装，准备与他们战斗。这是一场树魔鬼对抗不死族的大乱斗！}"
 
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
 msgid "Let's dig!"
@@ -1211,31 +1235,31 @@ msgstr "这不是我们想要的。 准备好继续前进。"
 
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
 msgid "[img]gfx/ui/events/event_66.png[/img]%randombrother% brings you to a crack in the side of a caliche berm. You can see something glinting in the dark. Whatever it is, its earthen hold would be hard going to dig through. The sellsword nods.%SPEECH_ON%I know it's in there good and solid, but I reckon that's something worth fetching. Whatchu think?%SPEECH_OFF%"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_66.png[/img]%randombrother%带你来到一个卡里奇峰侧面的裂缝处。你可以看到昏暗中闪烁的物体。不管那是什么，都需要费很大的力气才能挖穿它的泥土包裹。佣兵点点头。%SPEECH_ON%我知道它很结实，但我认为那是值得拿回去的东西。你怎么想?%SPEECH_OFF%"
 
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
 msgid "[img]gfx/ui/events/event_66.png[/img]You order the sellswords to use whatever tools are available to dig into the berm. It takes a good clip of time to make headway into the caliche, but eventually %randombrother% manages to loosen the earth enough to reach in and take the hidden treasure right out. It's a golden chalice and a scattering of other items one could sell on the market."
-msgstr ""
+msgstr "[img]gfx/ui/events/event_66.png[/img]你下令佣兵们利用任何可用的工具挖开壕沟。挖掘坚硬的黄土很费时间，但最终 %randombrother% 成功松动土壤，将隐藏的宝藏取了出来。里面有一个金杯和其他几件可以在市场上卖掉的物品。"
 
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
 msgid "[img]gfx/ui/events/event_66.png[/img]You order a few of the mercenaries to set upon the berm with whatever tools are good for the task. They get to it to the best of their abilities, but they've barely started the dig when a chunk of caliche slides free and clips %hurtbro%, knocking him out cold. The desired treasure rolls out after him and you come to find it's a rusted and rusticated piece of metal of almost no use to anyone."
-msgstr ""
+msgstr "[img]gfx/ui/events/event_66.png[/img]你命令一些雇佣兵用任何工具进攻码头。他们尽力而为，但当他们刚开始挖掘时，一块岩盐滑落并砸中了%hurtbro%，把他击倒晕厥。期望的财宝随之滚落，结果只是一块锈迹斑斑几乎毫无用处的铁片。"
 
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
 msgid "[img]gfx/ui/events/event_66.png[/img]%miner% nods at your request. He gathers his tools and surveys the berm for a few minutes. He spits at the rock and nods and gets to work. A few minutes time and this stone hewer's already weeding out the weakspots and bringing the hard soil to crumbling dust. The hidden treasure reveals itself and the man pulls it free and hands it over.%SPEECH_ON%A nice workout, captain, and I'd say well worth the time. Appreciate you depending on me, I mean that honestly.%SPEECH_OFF%"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_66.png[/img]%miner%在你的请求下点头。他收拾好工具，观察堡垒了几分钟。他朝岩石吐了口口水，点点头，然后开始工作。过了几分钟，这个开石匠已经找出了脆弱点，将坚硬的土壤变成了粉碎的灰尘，隐藏的宝藏也显露出来，矿工将其取出并交给了你。%SPEECH_ON%队长，锻炼身体不错，我觉得这是值得的。感谢你信任我，我是认真的。%SPEECH_OFF%"
 
 # scripts/events/events/dlc2/treasure_in_rock_event.nut
 msgid "[img]gfx/ui/events/event_66.png[/img]The ever tiny %tiny% walks up to the crack in the berm and stares into it. He turns 'round like a top.%SPEECH_ON%Now I ain't one to assume, but I've the sense of being slighted here.%SPEECH_OFF%You assure him that you mean nothing at all by asking he make use of his comical size. He nods and gets to the task as though he were born for it, easily wiggling his way into the crack until it's just a pair of boots sticking out the earth. One of the sellswords glances over and quietly asks if it's weird that he feels the urge to tickle the feet. You ask what in the fark does that mean with no intention of attaining an answer. Thankfully, %tiny% yells out that he's got the item and the men help yank him back out. %tiny% flips over with the treasure held aloft in his tiny hands."
-msgstr ""
+msgstr "[img]gfx/ui/events/event_66.png[/img]小个子%tiny%走到堤坝的裂缝前，凝视着它。他像个陀螺一样转过身来。%SPEECH_ON%我不是一个轻易妥协的人，但我感觉被轻视了。%SPEECH_OFF%你向他保证，你的请求并没有对他的身材开玩笑的意思。他点点头，开始轻松地钻进裂缝里，就像他天生就为此而生一样。最终只剩下一双靴子露在地上。其中一位雇佣兵扫了一眼，悄悄问道，他有想挠脚的冲动是否很奇怪。你问他这是什么意思，并无意得到答案。幸好，%tiny%大喊他拿到了物品，众人帮忙将他拉出。%tiny%翻了个身，双手高举着宝藏，躺在他的小手中。"
 
 # scripts/events/events/dlc2/unhold_exposition_event.nut
 msgid "[img]gfx/ui/events/event_126.png[/img]{An old man is drawing upon a rock with some chalk. He regards the company as though it were a distraction to his art, but when you come around the side you see he's been 'painting' what look like giants looming over tribes of man. Tapping the chalk to the rock, he speaks as though in lesson.%SPEECH_ON%I wager the unhold giants have been here much longer than any man. Did you know there's sorts that live in the colds, others in the forests, and some in the swamps? And none of them is keen to one another. They're basically man at his most basic instincts, destructive toward and spiteful of its own kind, yet most animus is directed at one thing in particular.%SPEECH_OFF%The old man points the chalk at you and tips its end so that powder drifts from its tip.%SPEECH_ON%Outsiders. Stay away from them unholds, traveler.%SPEECH_OFF%He seems a bit wrong in the head and has nothing of value to rob except more chalk, so you hurry the company along. | A young child is found drawing in the mud of the path. As you draw near, you realize he's not actually on the path so much as inside a large divot of it where the mud cratered in the shape and size of a sarcophagus. The child is drawing along the inner walls, mostly crude shapes of dogs.%SPEECH_ON%My pa said they was 'unholds', unholds came thew right this way and to yonder, giants of lore, except they was 'as real as your mother's leaving me for that bastard Birk, who I will kill', he says that part a lot. Birk got it comin'. So he says. A lot. I think you should stay away from the unholds, mister. My pa says so, so I will too, and you should too. By the way, is yer name Birk?%SPEECH_OFF%You shake your head no and wish the child the best. In many regards you believe what he said was fair enough advice from a kid. | An elderly man with an absolutely boulder of a body regards you from a homestead porch.%SPEECH_ON%You know, I once saw an unhold in person. That's right. A real bonafide giant, the size of ten men stacked, if not larger. Was straying down the steppes, chasing horses and such. They sent a militia out after it and the damn thing threw them around like dolls. Picked one man up and threw him so hard I thought he'd fly over the damn mountains. You seem the fightin' type, so take it from this old geezer, keep away from them unholds.%SPEECH_OFF%You nod and wish the elder the best.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_126.png[/img]{一个老人在一块岩石上用粉笔画画。他看着战团，好像他们干扰了他的艺术创作。但是当你走到他旁边时，你会看见他一直在“画”出一些巨人笼罩在人类部落之上的场景。老人敲着粉笔继续说道：%SPEECH_ON%我敢打赌，不死族巨人在这里的时间比任何人都长。你知道有些生活在寒冷之处，有些在森林里，还有一些在沼泽地里吗？他们之间彼此不喜欢。他们基本上是本能上的人类，对自己的种族具有毁灭性和恶意，但他们对一件事情的敌意特别深厚。%SPEECH_OFF%老人指着你的粉笔，把它的末端翘起来，让粉末从末端飘散出来。%SPEECH_ON%外来者。离那些独眼巨人远点，旅行者。%SPEECH_OFF%他似乎有点疯，而且没有任何值得抢劫的东西，除了更多的粉笔，所以你催促着战团继续前行。|一位年轻的孩子在小路上用泥巴画画。当你靠近时，你意识到他实际上不是在路上，而是在一个像石棺一样大小和形状的坑里，孩子正在画内壁，大多数是一些狗的粗略形状。%SPEECH_ON%我爸说他们是“独眼巨人” ，独眼巨人从这儿来，朝那边走，这是传说中的巨人，但他们是“真实如你妈妈为那个混蛋伯克离开我，我会杀了他”这部分他说了很多遍。伯克会有报应的。所以他说。很多次。先生，我认为你应该远离那些独眼巨人。我爸这么说，我也是这么说，你也应该这样做。另外，你叫伯克吗？%SPEECH_OFF%你摇了摇头，并祝愿孩子一切顺利。从许多方面来说，你认为他说的是来自一个孩子的公平建议。|一位年长的男子，身材绝对像一块巨石，正从农舍的门廊上盯着你。%SPEECH_ON%你知道的，我曾经亲眼见过一只独眼巨人。没错。真正的巨人，堆积起来等于十个人那么大或更大。在草原上游荡，追着马啥的。他们出动了民兵，可这该死的东西把他们像娃娃一样扔来扔去。他抓起一名男子，把他扔得那么猛烈，我以为他会飞越这座山。你看起来像是一个好战的人，所以就听这个老糊涂的话，远离那些独眼巨人。%SPEECH_OFF%你点点头，祝愿老人一切顺利。}"
 
 # scripts/events/events/dlc2/webknecht_exposition_event.nut
 msgid "%terrainImage%{You find a man beside the road churning leaves with a mortar and pestle. He's also chewing some of the goods himself and looks up at you with a green grin.%SPEECH_ON%I've dealt with the bugs and insects all m'life, but them webknechts are something else entirely. I ain't ever seen a bug move tha' fass. Scissorin' and zippin' forward, grabbin' dogs and cats and such, stealing them aways. You stay clear of them right bastard spiders, ye hear?%SPEECH_OFF%The stranger hocks a loogie and then gets on with his work as though you'd never come by at all. | A woman in the doorway of a homestead regards the company with a series of nods. With a mug in hand she points at you, sloshing her drink around just as much as her speech.%SPEECH_ON%Ah, spiderfood comin' thew? Eh? Well git, them eight legged farks ain't keen on a game of wait and see, they'll find ye as soon as they hungry, and they always hungry, yessir, always foamin' at the mouth with that poison of theirs, yessir yessir.%SPEECH_OFF%She throws back a mug and falls back into the home's doorway with a clunk and clatter. | You come across a young man up in a poplar tree. He's somehow managed to construct a tiny abode the size and shape of an outhouse up in the heights. Looking down at you, he nods.%SPEECH_ON%Yeah you are incredulous about me and this here tree, well let me tell ya, them webknechts come fast. Spiders the size of dogs! And you know what I say to that? Fuck all of it. You can find me in these here trees from now on and if those damn beasts grow wings I'll just up and off my ownself thank ye very much.%SPEECH_OFF%Webknechts seem to be driving the locals mad, though you can't really blame them.}"
-msgstr ""
+msgstr "%terrainImage%{你在路边发现了一个身旁用研钵和研钉搅拌树叶的男子。他自己也在咀嚼着一些货物，并用绿色的笑容向你望来。%SPEECH_ON%我一直与虫子和昆虫打交到，但是那些网膝蛛完全不同。我从来没有见过如此快的虫子。剪切和滑动着，抓起狗和猫之类的东西，让它们远离。你们避开这些该死的蜘蛛，明白吗？%SPEECH_OFF%这个陌生人吐了一口痰，然后继续他的工作，仿佛你从未经过。|一位站在农舍门口的妇女用一系列点头看着你的战团。手中拿着一个杯子，她指着你，嘴里含糊不清。%SPEECH_ON%啊，蜘蛛食品来了啊？嗯？那么赶快走，这八腿的混蛋们不喜欢等待和观望，他们会很快找到你们，而且他们总是饥饿的，没错，总是口吐白沫带着他们的毒液，没错没错。%SPEECH_OFF%她喝了一口酒，然后重重地摔回家门口。|你发现一个年轻人在白杨树上。他设法构建了一个尺寸和形状与茅房相同的小屋子。他向你俯身看去。%SPEECH_ON%是啊，你对我和这棵树感到难以置信，但是让我告诉你，那些网膝蛛非常快。狗一样大小的蜘蛛！你知道我怎么说吗？他们全他娘的都得死。以后你可以在这些树上找到我，如果这些该死的野兽长出翅膀，我就自己离开，非常感谢。%SPEECH_OFF%网膝蛛似乎正在折磨当地人，但你无法真正责怪他们。}"
 
 # scripts/events/events/dlc2/youngling_alp_event.nut
 msgid "Kill it."
@@ -1283,20 +1307,20 @@ msgstr "通过学习年轻梦魇的弱点而变得胆大"
 
 # scripts/events/events/dlc2/youngling_alp_event.nut
 msgid "[img]gfx/ui/events/event_33.png[/img]{You tell the men to ignore the alp. If it were of any danger it would have already proven so. Instead, it has let you know it is there, whether by ignorance or arrogance, neither of which bother you none. A few of the men do not agree with this decision and they stay up all night watching for the beast.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_33.png[/img]{你告诉士兵们忽略那只狮鹫。如果它真的对你们构成威胁，早就已经表现出来了。相反它让你知道它的存在，无论是出于无知还是傲慢，这都不会让你困扰。然而有几个人不同意这个决定，他们整夜都在观察那只野兽。}"
 
 # scripts/events/events/dlc2/youngling_alp_event.nut
 msgid "[img]gfx/ui/events/event_122.png[/img]{The alp is alone and possibly a youngling. Even monsters have to cut their cloth and put in the work to become truly horrible beasts, and this one just doesn't seem there yet. You send a pair of sellswords to slay the beast. They close in on it through the shroud of darkness. You see the silhouettes rising up in ambush and there's a clatter and a scream, and another scream which is nothing humanlike at all. Shrieking now. And this time a man crying. Someone speaking. Quiet. A long, long quiet. Then the pair comes back. One is clutching his head as though taken by a terrific ache, the other looks at you and nods.%SPEECH_ON%We killed it and, uh, I think we need to lie down.%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_122.png[/img]{这位地精可能还很年轻并且孤身一人。即使是怪物，也需要通过努力工作来成为真正可怕的野兽，但这一只看起来还未如此。你派了一对雇佣兵去杀死这只野兽。他们在黑暗中逐渐逼近。你看到他们在埋伏中崛起，然后听到了一阵嘈杂的声音和尖叫，接着是一声更不像人声的尖叫。现在哭喊的是一个人。有人在说话，声音很轻。很长很长时间的安静。然后他们俩回来了。一个人捂着头好像被一阵剧痛折磨了一样，另一个人看着你点了点头。%SPEECH_ON%我们杀死了它，并且，嗯，我想我们需要躺下休息一下。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/youngling_alp_event.nut
 msgid "[img]gfx/ui/events/event_33.png[/img]{%callbrother% runs into your tent and says something is watching the camp. You come outside to see a silhouette in the distance, skulking behind brush and tree limbs. You know its staring when it hisses, for what else would it be looking at to elicit such a charge. Its arms are long and slender and end in claws. You take a torch and sling it toward the beast. Its slick skin winks a vibrant orange and it shrieks away from the cloud of embers and sparks as the torch lands and rolls past. The toothy maw is the last thing you see fading back into the darkness.%SPEECH_ON%I think it's an alp, sir. It's all by itself as far as we can tell.%SPEECH_OFF%You ask if the sellsword has had visions. He shrugs.%SPEECH_ON%Yeah, some, but I also been drinking so there's that.%SPEECH_OFF%}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_33.png[/img]{%callbrother%跑进你的帐篷里，说有东西在监视营地。你走到外面看到远处有一个轮廓，躲在灌木和树枝后面。它发出嘶嘶声，你知道它在盯着什么，否则它不会发出这样的声音。它的手臂又长又细，末端是爪子。你拿了一把火把，向野兽扔去。火把着地，向外溅出一片橙色的光芒，野兽尖叫着逃离火花的云团。最后你看到的是那张满是尖牙的嘴渐渐消失在黑暗中。%SPEECH_ON%我想它是个鬼压床，指挥官。据我们所知，它独自一人。%SPEECH_OFF%你问佣兵是否有预知能力。他耸耸肩。%SPEECH_ON%是的，有一些，但我也在喝酒，所以可能有误。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc2/youngling_alp_event.nut
 msgid "[img]gfx/ui/events/event_33.png[/img]{%flagellant% the flagellant is at the rim of the camp whipping himself raw. His soul cleansing tool is rigged with broken glass and cat claws, bound tight with leather rinsed taut in urine, and tassels of twisted horse hair. He walks out into the wilderness, hiding himself with every step.%SPEECH_ON%It's not that I fear you, creature in the shadows. It's not that I fear you, shadows in my mind. It's not that I fear you, mind in my body.%SPEECH_OFF%The man stops walking, but the urgency of his flagellation increases and you can see the flecks of blood winking in the moonlight.%SPEECH_ON%It is that I fear the old gods of which you are not! Of which you are but an insect!%SPEECH_OFF%The alp's silhouette shrinks away, shrieks, and then scurries off altogether. The man returns and collapses into the camp. A few of the men are horrified, while others are emboldened by his courage and righteousness.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_33.png[/img]{%flagellant%鞭笞者正在营地边缘用鞭子抽打自己的身体。他的灵魂净化器装有破碎的玻璃和猫爪，用浸了尿的皮革紧密地捆绑着，并以扭曲的马毛为饰。他走出丛林，在每一步中都躲藏着。%SPEECH_ON%我并不怕你，影子中的生物。我并不害怕你，在我脑海中的影子。我害怕的是你不是所敬畏的古神！你只是一只昆虫！%SPEECH_OFF%鞭笞者停下了脚步，但他鞭打自己的狂热愈发增强，你可以看到月光下闪烁的血迹。%SPEECH_ON%我害怕的是你不是所敬畏的古神！你只是一只昆虫！%SPEECH_OFF% 魇魔的轮廓缩小，尖叫声，然后快速逃走。这个人回到了营地，倒在地上。一些人感到震惊，而另一些人则因他的勇气和正义而变得勇敢起来。}"
 
 # scripts/events/events/dlc2/youngling_alp_event.nut
 msgid "[img]gfx/ui/events/event_122.png[/img]{%beastslayer% the beast slayer comes over.%SPEECH_ON%It ain't dangerous, it's confused. I'll take care of this.%SPEECH_OFF%He's chewing on a dried biscuit and grunts and puts the biscuit in his pocket and sets off into the dark all by himself. A moment later, the alp's silhouette suddenly falls away and disappears. A few minutes later and the slayer returns, shoving the last morsels of the biscuit into his mouth. You ask why the alp didn't put up much of a fight. The beast slayer laughs.%SPEECH_ON%You said %callbrother% fetched you from your tent, right? Right. And where is %callbrother%?%SPEECH_OFF%The beast slayer points toward the campfire. The sellsword is there. Asleep. Deeply asleep. %beastslayer% gets himself another biscuit.%SPEECH_ON%Young alps are still learning how to pry into your mind. They're not good at it and often call attention to themselves while trying. They're like thieves who can't pick a lock, so they knock on the door instead.%SPEECH_OFF%A few of the men listen to this and are emboldened by the apparent flaws of these otherwise horrifying creatures.}  "
-msgstr ""
+msgstr "[img]gfx/ui/events/event_122.png[/img]{%beastslayer% 兽人猎手走过来。%SPEECH_ON%不危险，它只是有些困惑。我来处理它。%SPEECH_OFF%他嚼着干饼干，咕哝着把饼干放进口袋，独自一人走向黑暗。片刻后，山怪的轮廓突然消失了。几分钟后，猎手回来了，把最后一口饼干塞进嘴里。你问为什么山妖没闹腾。兽人猎手笑了。%SPEECH_ON%你说%callbrother%从你的帐篷里把你叫出来了，是吧？是啊。%callbrother%在哪儿？%SPEECH_OFF%兽人猎手指了指篝火。佣兵在那里，睡着了。沉睡着。%beastslayer%拿了另一块饼干。%SPEECH_ON%年轻的山妖还在学习如何读取你的思想。它们不擅长并且往往在尝试时引起注意。它们就像无法撬开锁的小偷，所以只能敲门。%SPEECH_OFF%有几个人听了这话，似乎被这些可怕生物的显而易见的缺陷激励了。}"

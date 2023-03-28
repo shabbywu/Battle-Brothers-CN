@@ -14,10 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.15.2\n"
 
-# scripts/entity/world/party.nut
-# scripts/entity/world/entity_manager.nut
-msgid "base"
-msgstr ""
 
 # scripts/entity/world/attached_location.nut
 msgid "Ruins"
@@ -53,27 +49,27 @@ msgstr "这个地方有防御工事"
 
 # scripts/entity/world/location.nut
 msgid "Location forfeited combat - no defenders in spawnlist!"
-msgstr ""
+msgstr "放弃了位置战斗——孵化列表中没有防御者！"
 
 # scripts/entity/world/party.nut
 msgid "From "
-msgstr ""
+msgstr "从"
 
 # scripts/entity/world/party.nut
 msgid "combat"
-msgstr ""
+msgstr "战斗(combat)"
 
 # scripts/entity/world/party.nut
 msgid "orders"
-msgstr ""
+msgstr "命令"
 
 # scripts/entity/world/party.nut
 msgid "Fighting"
-msgstr ""
+msgstr "战斗(Fighting)"
 
 # scripts/entity/world/party.nut
 msgid "Hired by "
-msgstr ""
+msgstr "被雇佣于"
 
 # scripts/entity/world/party.nut
 msgid "Unknown troops"
@@ -81,15 +77,15 @@ msgstr "未知部队"
 
 # scripts/entity/world/settlement.nut
 msgid "goods"
-msgstr ""
+msgstr "商品"
 
 # scripts/entity/world/settlement.nut
 msgid "Ruins of "
-msgstr ""
+msgstr "废墟的"
 
 # scripts/entity/world/settlement.nut
 msgid "Relations: "
-msgstr ""
+msgstr "关系："
 
 # scripts/entity/world/settlement.nut
 msgid "You've never been to this place."
@@ -113,7 +109,7 @@ msgstr "一个"
 
 # scripts/entity/world/world_entity.nut
 msgid "Even"
-msgstr ""
+msgstr "伊文(Even)"
 
 # scripts/entity/world/world_entity.nut
 msgid "Puny"
@@ -121,7 +117,7 @@ msgstr "弱小的"
 
 # scripts/entity/world/world_entity.nut
 msgid "The "
-msgstr ""
+msgstr "这个"
 
 # scripts/entity/world/world_entity.nut
 msgid "Deadly"
@@ -129,7 +125,7 @@ msgstr "致命"
 
 # scripts/entity/world/world_entity.nut
 msgid "Weaker"
-msgstr ""
+msgstr "较弱(Weaker)"
 
 # scripts/entity/world/world_entity.nut
 msgid "Unknown"
@@ -137,16 +133,16 @@ msgstr "未知的"
 
 # scripts/entity/world/world_entity.nut
 msgid "Impossible"
-msgstr ""
+msgstr "不可能"
 
 # scripts/entity/world/world_entity.nut
 msgid "Challenging"
-msgstr ""
+msgstr "具有挑战性的"
 
 # scripts/entity/world/world_entity.nut
 msgid "worldentity("
-msgstr ""
+msgstr "世界实体("
 
 # scripts/entity/world/world_entity.nut
 msgid "Slightly Weaker"
-msgstr ""
+msgstr "稍微弱一点"

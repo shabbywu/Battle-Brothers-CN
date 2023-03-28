@@ -128,7 +128,7 @@ msgstr "]1[/color] 克朗"
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
 msgid "You found %name% in "
-msgstr ""
+msgstr "你找到 %name% 在"
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
 msgid "Welcome to the company!"
@@ -378,11 +378,11 @@ msgstr "神跟你对过话，%monk%，你快去跟他说说！"
 
 # scripts/events/events/dlc6/desert_well_event.nut
 msgid " intervened and convinced him to join your company instead to make a new life for himself."
-msgstr ""
+msgstr "干预并说服他加入你的战团，为自己开始新的生活。"
 
 # scripts/events/events/dlc6/desert_well_event.nut
 msgid "A string of bad fortune led the former arms-peddler %name% to attempt to end his life by blowing himself up, but "
-msgstr ""
+msgstr "一连串不幸导致前军火商人[name]试图通过自爆结束自己的生命，但是..."
 
 # scripts/events/events/dlc6/desert_well_event.nut
 msgid "%terrainImage%{The man nods.%SPEECH_ON%That ain't no watering hole, that's a cannon. I got a pile of fire powder in the bottom. The chute is armed with buckets, and fishing rods, all manner of cutlery, some soldier's metal boots, a broken sword, couple of scabbards, I think a few animals fell in but they no doubt dead now, if not they're going for a ride.%SPEECH_OFF%}"
@@ -502,7 +502,7 @@ msgstr "保重。"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "firejuggler"
-msgstr ""
+msgstr "火焰杂技师(firejuggler)"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "Gold is gold."
@@ -514,7 +514,7 @@ msgstr " 获得了 [color="
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "the Fire Juggler"
-msgstr ""
+msgstr "火焰玩偶师(the Fire Juggler)"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "Show's over, folks."
@@ -538,7 +538,7 @@ msgstr "这里不适合你。"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "Welcome to the %companyname%."
-msgstr ""
+msgstr "欢迎来到%companyname%战团。"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "Was entertained by a fire juggler"
@@ -546,7 +546,7 @@ msgstr "被一个玩火杂耍者逗乐了"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "You found %name% on the streets of "
-msgstr ""
+msgstr "你在街头发现了%name%"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "Put on a great display of fire juggling"
@@ -562,11 +562,11 @@ msgstr "愿镀金者给我们的道路如同你希望的一般友好。"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "Got saved from a possible flaming death by a fellow juggler"
-msgstr ""
+msgstr "被一位同行杂技师从可能的火海中救出。"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid ", ready to put on fiery display of record-breaking fire juggling that could have well cost him his life. Luckily, "
-msgstr ""
+msgstr "，准备进行一场激烈的火焰杂耍表演，打破纪录，甚至可能冒着失去生命的风险。幸运的是，"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid " jumped in to perform the act with him, possibly saving his life. Afterwards, %name% finally had enough of his trade and volunteered to join your company."
@@ -792,19 +792,19 @@ msgstr "[img]gfx/ui/events/event_171.png[/img]{一个孤独的商人牵着骆驼
 
 # scripts/events/events/dlc6/pirates_event.nut
 msgid "Saved "
-msgstr ""
+msgstr "已保存 (Saved)"
 
 # scripts/events/events/dlc6/pirates_event.nut
 msgid "the Sailor"
-msgstr ""
+msgstr "船员(the Sailor)"
 
 # scripts/events/events/dlc6/pirates_event.nut
 msgid "the Mariner"
-msgstr ""
+msgstr "航海家(the Mariner)"
 
 # scripts/events/events/dlc6/pirates_event.nut
 msgid " from a life in slavery"
-msgstr ""
+msgstr "从奴隶生活中解放"
 
 # scripts/events/events/dlc6/pirates_event.nut
 msgid "Let these men go free at once!"
@@ -1064,7 +1064,7 @@ msgstr "[img]gfx/ui/events/event_64.png[/img]{你遇到一个坐在路边的人�
 
 # scripts/events/events/dlc6/sellsword_vs_bees_event.nut
 msgid "Good... job"
-msgstr ""
+msgstr "干得好..."
 
 # scripts/events/events/dlc6/sellsword_vs_bees_event.nut
 msgid " suffers heavy wounds"
@@ -1134,7 +1134,7 @@ msgstr "好哇！ 这儿，几个硬币，给你的。"
 
 # scripts/events/events/dlc6/sword_eater_event.nut
 msgid "Local entertainers spread the word about you"
-msgstr ""
+msgstr "当地的演艺人员将你的名字传遍了。"
 
 # scripts/events/events/dlc6/sword_eater_event.nut
 msgid "Bravo! Give that guy a few coins from me, %wildman%."
@@ -1228,7 +1228,7 @@ msgstr "不，你离远点。"
 
 # scripts/events/events/dlc6/traveler_south_event.nut
 msgid "May your path be ever gilded."
-msgstr ""
+msgstr "愿你的道路永远被镀上金光。"
 
 # scripts/events/events/dlc6/traveler_south_event.nut
 msgid "Happy to join you at the campfire."
