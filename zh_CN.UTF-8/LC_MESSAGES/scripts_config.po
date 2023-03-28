@@ -7497,7 +7497,7 @@ msgstr "两周前，%randomname% 从酒馆回家的路上失踪了。第二天�
 
 # scripts/config/rumors.nut
 msgid "A caravan transporting some valuable ceremonial weapon has been raided %direction% of here. Rumor is the victims had every single bone broken, and a terrible stench hangs in the air."
-msgstr "听说一辆运送贵重仪式武器的商队在这里的 $1 被劫了。传言的受害者身上的每一根骨头都断了，空气中还弥漫着可怕的恶臭。"
+msgstr "听说一辆运送贵重仪式武器的商队在这里的 %direction% 方向被劫了。传言的受害者身上的每一根骨头都断了，空气中还弥漫着可怕的恶臭。"
 
 # scripts/config/rumors.nut
 msgid "All my life I've been hunting nomads across the borders %terrain%, but I never saw one wield a shield like this one before. It was %distance% to the %direction% at one of their camps."
@@ -7765,7 +7765,7 @@ msgstr "带有 %randomnoble% 字样的盔甲被一群绿皮永眠在这里 %dire
 
 # scripts/config/rumors.nut
 msgid "I'm from up north originally, moved to %townname% just some years ago. Never could stand the cold; snow and wind, day in and out. So one day I just said to myself, %randomname%, I said, go where the sun warms the earth and you're not shivering every time you go out to collect fire wood. And so I did. Didn't regret it since."
-msgstr "我原来是北方人，几年前刚搬到 %townname%。因为无法忍受寒冷；没完没了的风雪。所以有一天，我对自己说，$2，去有太阳又温暖的地方吧，你就不用每次出去收集柴火时都瑟瑟发抖了。我就这样做了。至此我也没后悔过。"
+msgstr "我原来是北方人，几年前刚搬到 %townname%。因为无法忍受寒冷；没完没了的风雪。所以有一天，我对自己说，%randomname%，去有太阳又温暖的地方吧，你就不用每次出去收集柴火时都瑟瑟发抖了。我就这样做了。至此我也没后悔过。"
 
 # scripts/config/spawnlist_master.nut
 msgid "The King of the North"

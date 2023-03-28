@@ -5,7 +5,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-23 13:43+0000\n"
 "PO-Revision-Date: 2023-03-16 14:18+0000\n"
-"Last-Translator: hyscottc <d_hyzl@126.com>\n"
+"Last-Translator: shabbywu <shabbywu@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/projects/Battle-Brothers-CN/scripts_ambitions_ambitions/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -953,7 +953,7 @@ msgid ""
 msgstr ""
 "[img]gfx/ui/events/event_82.png[/img]当矿工在山里发现一颗钻石时，它被匆忙送到了王宫。 当渔夫钓到一天中最肥的鱼时，一个贵族就会把它占为己有。 好士兵？以将军或教官的身份给了领主。 优秀的裁缝？最好的衣服需要最漂亮的手指，他要为贵族服务。 驯兽师除了摆鼻子和吠叫命令外，还显示了一点技巧？ 他能为出身高贵的军队训练战犬。 所以，这个世界抓住天才的速度就像老鹰扑向自身暴露的兔子一样快。\n"
 "\n"
-" 但现在你有了自己的目标：%star%。他是一个真正的天才，在身体、军事技能和勇气方面表现出非凡的才能。 即使是 %companyname%的其他人也能感觉到这个人的存在，就像一个人能感觉到命运和伟大一样。$2 是雇佣兵中你想要的一切，如果战队完全配备了像他那样的一类人，那么，你不仅仅是追逐合同，你还可以征服整个世界！"
+" 但现在你有了自己的目标：%star%。他是一个真正的天才，在身体、军事技能和勇气方面表现出非凡的才能。 即使是 %companyname%的其他人也能感觉到这个人的存在，就像一个人能感觉到命运和伟大一样。%star% 是雇佣兵中你想要的一切，如果战队完全配备了像他那样的一类人，那么，你不仅仅是追逐合同，你还可以征服整个世界！"
 
 # scripts/ambitions/ambitions/have_y_crowns_ambition.nut
 msgid "Excellent!"
@@ -1273,7 +1273,7 @@ msgstr "雇佣足够多的人来拥有至少16人的名册。 访问各地的定
 
 # scripts/ambitions/ambitions/roster_of_16_ambition.nut
 msgid "[img]gfx/ui/events/event_80.png[/img]Having finally gathered the coin and equipment, you manage to assemble a full complement of sixteen able-bodied men. When next you walk down %currenttown%'s main street, the men break into a full-throated marching song. A few of the townsfolk mutter under their breath about dirty mercenaries taking over the town, but others walk alongside and shout the words with you. %SPEECH_ON%Stand tall, brothers. People can see this is a real mercenary company now, and not a handful of rabble.%SPEECH_OFF%%highestexperience_brother% declares.%SPEECH_ON%We trade in strength, and now that our numbers have gone up, so will our price.%SPEECH_OFF%It appears he has the right of it. You notice one particularly fat merchant sizing up the company as if he already has a task in mind. The %companyname% are now a force to be reckoned with. Once the men have settled in for a celebratory drink, perhaps you should take another stroll through town to see if any more lucrative contracts may be available."
-msgstr ""
+msgstr "[img]gfx/ui/events/event_80.png[/img]终于凑齐了足够的金币和装备，你设法组建了一支由十六个健壮男子组成的队伍。当下次你走在%currenttown%的主街上，这些人开始高唱起了一首军歌。一些城镇居民低声抱怨着肮脏的雇佣军占领了这个城镇，但也有些人与你并肩行走，高声喊着这些歌词。%SPEECH_ON%站的高高的，兄弟们。人们现在可以看到这是一支真正的雇佣军了，而不是一群乌合之众。%SPEECH_OFF%%highestexperience_brother%宣布道。%SPEECH_ON%我们以力量为交易，现在我们的人数增加了，我们的价格也会提高。%SPEECH_OFF% 看来他是对的。你注意到一个特别肥胖的商人正在评估这支团队，好像他已经有了一个任务的想法。%companyname%现在是一个不容小觑的力量。当这些人被安置下来，庆祝喝的高兴时，也许你应该再去城里走走，看看是否还有更有利可图的合同可以得到。"
 
 # scripts/ambitions/ambitions/roster_of_20_ambition.nut
 msgid "Have a roster of 20 men"
@@ -1299,6 +1299,9 @@ msgid ""
 "\n"
 "The men are glad for the company's bigger roster, and those you rejected will be the butt of many jests for weeks to come. %highestexperience_brother% claps you on the shoulder.%SPEECH_ON%How about that man who said he'd taken the heads of a bunch of orcs, but was really a baker from %randomtown%! Pinching flabby biceps and beating farmers' sons with tree branches was good sport for the first few days but by the end it was more work than chasing brigands around, if you ask me.%SPEECH_OFF%You now have twenty men under your command. Not all are veterans, and not all have been tested, but being able to rotate out your wounded will mean fresher units in the field."
 msgstr ""
+"[img]gfx/ui/events/event_80.png[/img]连续好几天，你和来自各行各业、社会各个角落的潜在雇佣兵们谈判，筛选掉那些无能者和贪婪者。在动荡的时代，似乎每个流浪汉、每个打零工的人、每个贵族家庭的小儿子都想成为雇佣兵。\n"
+"\n"
+"这些人很高兴加入战团的壮大阵容，而那些被拒绝的人将成为接下来几周里的笑柄。%highestexperience_brother%拍了拍你的肩膀。%SPEECH_ON%你记得那个人吗？他说他杀了好几个兽人头，但实际上却是来自%randomtown%的一个面包师傅！捏捏那些懒散的二头肌，用树枝打农夫的儿子什么的，起初几天都挺好玩的，但最后反而比追逐强盗还累活呢。%SPEECH_OFF%现在你手下有20个人，不是全部都是老练的，也不是全部都经过考验，但能够轮换伤员将意味着在战场上更加新鲜的部队。"
 
 # scripts/ambitions/ambitions/sergeant_ambition.nut
 msgid "the Sergeant"
@@ -1338,6 +1341,11 @@ msgid ""
 "\n"
 "Words such as 'back-breaking', 'cruel', 'flint-hearted' and 'merciless', as well as dozens of saltier epithets, ring in the air whenever %sergeantbrother% is safely out of earshot, though never when he is sleeping. For the brothers have learned that %sergeantbrotherfull% never truly sleeps."
 msgstr ""
+"[img]gfx/ui/events/event_64.png[/img]你起初对于让%sergeantbrother%担任这个重要任务有些犹豫，因为他和其他人一样沉迷于狂欢和喝酒。但是%sergeantbrother%对于他的职责表现出了可嘉的热情，虽然有时候会让人有些担忧。\n"
+"\n"
+"对于拂晓被他认为是胆小和软弱的人最喜欢的时辰，%sergeantbrother%很傲慢地认为每个人都应该起得更早。他让这些战士们进行训练和检查装备，但是还会给他们加上一些额外的工作，比如指挥他们架设和拆卸营地，磨练反扑技巧，进行强制性的行军训练，填充沉重的石头等等。还制定了详实的惩罚制度，任何谁落后了就必须受到惩罚。\n"
+"\n"
+"当%sergeantbrother%不在附近时，这一系列诸如“痛苦至极”，“冷酷无情”，“多情善感”等数十个粗口的词汇会在部队内传阅，虽然不会传到他的耳中。因为他们已经了解到%sergeantbrotherfull%从来不是真正的睡眠。"
 
 # scripts/ambitions/ambitions/taxidermist_ambition.nut
 msgid "Craft items at the taxidermist"
@@ -1359,15 +1367,15 @@ msgstr "拥有至少12件剥制成品。剥制师主要分布在被沼泽和森�
 
 # scripts/ambitions/ambitions/taxidermist_ambition.nut
 msgid "[img]gfx/ui/events/event_97.png[/img]A young boy hails you down and asks if you're the leader of the %companyname%. Eyeing the surrounding parts, you ask what it is to him. He shrugs.%SPEECH_ON%Well, I mean nothing by it, sir. If I find and fetch him I get paid three gold coins. Thas all.%SPEECH_OFF%Intrigued, you ask who it is set to pay this reward. The boy is picking a booger and looks up.%SPEECH_ON%Whussat? Ah, I ain't seen the gold yet! Gotta find the man first!%SPEECH_OFF%Sighing, you pull the boys' hand aside, snot and all, and ask him again. The boy snorts, thinking, staring at the dirt, at the worms there. He nods.%SPEECH_ON%T'was a taxman. Not the gold fetching sort. He'd not pay me a coin, that man's a long-fingered devil so says my pa. I mean the animal taxman. Strips the beasts and fashions something fierce with them, coats, blankets, poisons, dranks. That taxman. Well, they all talkin' to one another. They says the %companyname%'s work makes for the best business in all the land and they all itching to meet them again!%SPEECH_OFF%Ah, he's speaking of the taxidermists. Smiling, you pat the boy on the head and wish him the best of luck in his hunt. He snorts and hocks a loogie.%SPEECH_ON%Luck ain't much all to do with this, I aim to find that man the learned way. Keepin' my eyes open and ears peeled and my britches high and tight.%SPEECH_OFF%"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_97.png[/img]一个年轻男孩招呼你，问你是不是%companyname%的队长。你环顾四周，问他这对他来说意味着什么。他耸了耸肩。%SPEECH_ON%啊，我没有任何意思，长官。如果我找到并找来他，我会得到三枚金币的报酬。这就是全部了。%SPEECH_OFF%你感到好奇，问谁准备支付这笔奖金。男孩在挖鼻子，抬头看着你。%SPEECH_ON%啥？啊，我还没有见过那些金币！得先找到那个人！%SPEECH_OFF%你叹了口气，把男孩的手掰开，鼻涕和其他东西都沾着，再次问他。男孩皱起眉头思考着，在地上看着蚯蚓。%SPEECH_ON%是税务员。不是拿金币的那种。他不会付给我一枚硬币。那个人就是个长手指的恶魔，我爸爸这样说。我的意思是野生动物税务员。他剥下兽皮，做成很厉害的衣服、毯子、毒药、饮料。它们都互相交流。他们说%companyname%的工作是全国最棒的生意，他们都迫不及待地想再见到他们！%SPEECH_OFF%啊，他在说制作标本的人。微笑着，你拍了拍男孩的头，祝他好运。他咕哝着，吐了口痰。%SPEECH_ON%好运并不是一切，我打算用聪明才智找到那个人。保持着警觉，听觉灵敏，紧绷我的裤子。%SPEECH_OFF%"
 
 # scripts/ambitions/ambitions/trade_ambition.nut
 msgid "That's the bottom line."
-msgstr ""
+msgstr "那是最重要的。"
 
 # scripts/ambitions/ambitions/trade_ambition.nut
 msgid "Buy and sell trading goods"
-msgstr ""
+msgstr "购买和销售贸易商品。"
 
 # scripts/ambitions/ambitions/trade_ambition.nut
 msgid ""
@@ -1385,7 +1393,7 @@ msgstr ""
 
 # scripts/ambitions/ambitions/trade_ambition.nut
 msgid "[img]gfx/ui/events/event_55.png[/img]The thought bore down on you from the start, and it is one that escapes many a mercenary captain. A thought so simple that perhaps its very simplicity camouflages it from a sword wielding leader's ego. If the %companyname% is to be traveling from city to city looking for sellsword work, it may as already have one foot in another vocation altogether: that of trade. You picked up on it quick, realizing that goods carry a different sort of currency than which appears at face, a value hidden from the eye, and hidden in the ripples of time and location themselves. Now you spend evenings struggling to tabulate the crowns. For once, it's a good problem to have."
-msgstr ""
+msgstr "[img]gfx/ui/events/event_55.png[/img]这个念头从一开始就萦绕在你的脑海中，但很多雇佣军队长却没有想到过。这个想法是如此简单，或许其简单性自身就像迷彩一样隐藏在持剑领袖的自尊心里。如果%companyname%要从城市到城市寻找雇佣工作，那么它可能已经把脚的另一只踏进了另一个职业之中：贸易。你很快就明白了这一点，意识到商品携带的是一种不同于表面的货币，一种被眼所隐藏的价值，隐藏在时间和地点的涟漪中。现在，你度过了几个晚上苦苦计算克朗。这次，这是个好问题。"
 
 # scripts/ambitions/ambitions/visit_settlements_ambition.nut
 msgid ""

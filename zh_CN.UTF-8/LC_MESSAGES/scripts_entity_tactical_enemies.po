@@ -17,7 +17,7 @@ msgstr "一个"
 # scripts/entity/tactical/enemies/lindwurm.nut
 # scripts/entity/tactical/enemies/lindwurm_tail.nut
 msgid "A Lindwurm"
-msgstr ""
+msgstr "一只林德瓦姆(A Lindwurm)"
 
 # scripts/entity/tactical/enemies/bandit_raider_wolf.nut
 msgid "Disguised Bandit"
@@ -25,27 +25,27 @@ msgstr "伪装的土匪"
 
 # scripts/entity/tactical/enemies/direwolf.nut
 msgid "A Direwolf"
-msgstr ""
+msgstr "一只恶狼(Direwolf)"
 
 # scripts/entity/tactical/enemies/direwolf_high.nut
 msgid "Frenzied Direwolf"
-msgstr ""
+msgstr "狂怒恶狼(Frenzied Direwolf)"
 
 # scripts/entity/tactical/enemies/goblin_wolfrider.nut
 msgid "A Wolf"
-msgstr ""
+msgstr "一只狼 (A Wolf)"
 
 # scripts/entity/tactical/enemies/hexe.nut
 msgid "A Hexe"
-msgstr ""
+msgstr "一个女巫(A Hexe)"
 
 # scripts/entity/tactical/enemies/hyena.nut
 msgid "A Hyena"
-msgstr ""
+msgstr "一只鬣狗(A Hyena)"
 
 # scripts/entity/tactical/enemies/hyena_high.nut
 msgid "Frenzied Hyena"
-msgstr ""
+msgstr "狂暴鬣狗(Frenzied Hyena)"
 
 # scripts/entity/tactical/enemies/kraken.nut
 msgid "Beast of Beasts"
@@ -57,11 +57,11 @@ msgstr "的"
 
 # scripts/entity/tactical/enemies/lindwurm_tail.nut
 msgid "[/b] damage"
-msgstr ""
+msgstr "[/b] 伤害"
 
 # scripts/entity/tactical/enemies/lindwurm_tail.nut
 msgid " is hit for [b]"
-msgstr ""
+msgstr "被击中 [b]"
 
 # scripts/entity/tactical/enemies/lindwurm_tail.nut
 msgid "Suffered an injury"
@@ -69,39 +69,39 @@ msgstr "受伤了"
 
 # scripts/entity/tactical/enemies/lindwurm_tail.nut
 msgid "[/b] damage and suffers "
-msgstr ""
+msgstr "[/b] 伤害并遭受"
 
 # scripts/entity/tactical/enemies/lindwurm_tail.nut
 msgid "'s natural armor is hit for [b]"
-msgstr ""
+msgstr "'s自然护甲被击中[b]"
 
 # scripts/entity/tactical/enemies/orc_berserker.nut
 msgid "An Orc Berserker"
-msgstr ""
+msgstr "一个兽人狂战士(Orc Berserker)"
 
 # scripts/entity/tactical/enemies/orc_warlord.nut
 msgid "stunned"
-msgstr ""
+msgstr "晕眩的。"
 
 # scripts/entity/tactical/enemies/orc_warlord.nut
 msgid "An Orc Warlord"
-msgstr ""
+msgstr "一个兽人军阀(An Orc Warlord)"
 
 # scripts/entity/tactical/enemies/orc_warrior.nut
 msgid "An Orc Warrior"
-msgstr ""
+msgstr "一个兽人战士(Orc Warrior)"
 
 # scripts/entity/tactical/enemies/orc_young.nut
 msgid "A Young Orc"
-msgstr ""
+msgstr "一个年轻的兽人(A Young Orc)"
 
 # scripts/entity/tactical/enemies/phylactery.nut
 msgid "phylactery"
-msgstr ""
+msgstr "魂器(phylactery)"
 
 # scripts/entity/tactical/enemies/schrat.nut
 msgid "A Schrat"
-msgstr ""
+msgstr "一个树妖(Schrat)"
 
 # scripts/entity/tactical/enemies/serpent.nut
 msgid "A Serpent"
@@ -109,11 +109,11 @@ msgstr "一条蛇"
 
 # scripts/entity/tactical/enemies/skeleton_lich.nut
 msgid " transcends death!"
-msgstr ""
+msgstr "超越死亡！"
 
 # scripts/entity/tactical/enemies/spider.nut
 msgid "A Webknecht"
-msgstr ""
+msgstr "一只Webknecht"
 
 # scripts/entity/tactical/enemies/unhold.nut
 msgid "An Unhold"

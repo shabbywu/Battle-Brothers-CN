@@ -12,7 +12,7 @@ msgstr "报酬"
 
 # scripts/contracts/contract.nut
 msgid "State \""
-msgstr ""
+msgstr "国家\""
 
 # scripts/contracts/contract.nut
 msgid "Brigands"
@@ -20,7 +20,7 @@ msgstr "强盗"
 
 # scripts/contracts/contract.nut
 msgid "Screen \""
-msgstr ""
+msgstr "屏幕 \"\""
 
 # scripts/contracts/contract.nut
 msgid "Objectives"
@@ -32,11 +32,11 @@ msgstr "兽人收割者"
 
 # scripts/contracts/contract.nut
 msgid "Goblin Raiders"
-msgstr ""
+msgstr "哥布林袭击者 (Goblin Raiders)"
 
 # scripts/contracts/contract.nut
 msgid "[color=#30ac2a]"
-msgstr ""
+msgstr "[color=#30ac2a]"
 
 # scripts/contracts/contract.nut
 msgid "Broke a contract"
@@ -44,7 +44,7 @@ msgstr "撕毁了合同"
 
 # scripts/contracts/contract.nut
 msgid "[color=#bcad8c]\""
-msgstr ""
+msgstr "[color=#bcad8c]"
 
 # scripts/contracts/contract.nut
 msgid ""
@@ -52,6 +52,9 @@ msgid ""
 "\n"
 "[color=#bcad8c]\""
 msgstr ""
+"\n"
+"\n"
+"[color=#bcad8c]\""
 
 # scripts/contracts/contract.nut
 msgid "Something seems wrong."
@@ -59,7 +62,7 @@ msgstr "好像有问题。"
 
 # scripts/contracts/contract.nut
 msgid "\" not found for contract \""
-msgstr ""
+msgstr "合同没有找到"
 
 # scripts/contracts/contract.nut
 msgid "A rough and tough band of brigands out to hunt for food."
@@ -79,20 +82,20 @@ msgstr "一群淘气的哥布林，小而狡猾，不可低估。"
 
 # scripts/contracts/contract_manager.nut
 msgid " (id: "
-msgstr ""
+msgstr "(id:"
 
 # scripts/contracts/contract_manager.nut
 msgid "contract added: "
-msgstr ""
+msgstr "添加合同："
 
 # scripts/contracts/contract_manager.nut
 msgid "contract removed: "
-msgstr ""
+msgstr "合同已解除："
 
 # scripts/contracts/contract_manager.nut
 msgid "showing contract: "
-msgstr ""
+msgstr "展示合约："
 
 # scripts/contracts/contract_manager.nut
 msgid "contract activated: "
-msgstr ""
+msgstr "合同已激活："
