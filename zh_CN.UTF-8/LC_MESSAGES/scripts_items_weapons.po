@@ -242,7 +242,7 @@ msgstr "尖刺钉棒"
 
 # scripts/items/weapons/goedendag.nut
 msgid "Spear/Mace, Two-Handed"
-msgstr ""
+msgstr "长矛/狼牙棒，双手持"
 
 # scripts/items/weapons/goedendag.nut
 msgid "A metal-reinforced club with a spike at the top. Can be used to thrust at the enemy, or pummel them into submission."
@@ -310,7 +310,7 @@ msgstr "一捆标枪"
 
 # scripts/items/weapons/javelin.nut
 msgid "Bundle of Javelins (Empty)"
-msgstr ""
+msgstr "长矛捆（空）"
 
 # scripts/items/weapons/javelin.nut
 msgid "A couple of light throwing spears usually carried by skirmishers. Have limited range and are exhausting to throw, but may inflict devastating injuries."
@@ -318,7 +318,7 @@ msgstr "几个轻型标枪通常是由散兵携带的。 射程有限，且十�
 
 # scripts/items/weapons/knife.nut
 msgid "Knife"
-msgstr ""
+msgstr "短刀"
 
 # scripts/items/weapons/knife.nut
 msgid "A short knife, not made for combat."
@@ -530,7 +530,7 @@ msgstr "一捆飞斧"
 
 # scripts/items/weapons/throwing_axe.nut
 msgid "Bundle of Throwing Axes (Empty)"
-msgstr ""
+msgstr "投掷斧捆绑包(空)"
 
 # scripts/items/weapons/throwing_axe.nut
 msgid "Small axes to be thrown in an overhand motion towards a target. Heavy enough to inflict serious damage to armor and shields from range."
@@ -634,7 +634,7 @@ msgstr "的"
 
 # scripts/items/weapons/weapon.nut
 msgid " has broken!"
-msgstr ""
+msgstr "已经损坏！"
 
 # scripts/items/weapons/weapon.nut
 msgid "[/color] uses"
@@ -654,7 +654,7 @@ msgstr "伤害[color="
 
 # scripts/items/weapons/weapon.nut
 msgid "[/color] - [color="
-msgstr ""
+msgstr "[/color] - [color="
 
 # scripts/items/weapons/weapon.nut
 msgid "[/color] less fatigue"
@@ -670,7 +670,7 @@ msgstr "%[/color] 命中几率"
 
 # scripts/items/weapons/weapon.nut
 msgid "Maximum Fatigue [color="
-msgstr ""
+msgstr "最大疲劳[color="
 
 # scripts/items/weapons/weapon.nut
 msgid "Shield damage of [color="
@@ -678,15 +678,15 @@ msgstr "对盾牌的伤害 [color="
 
 # scripts/items/weapons/weapon.nut
 msgid "Contains ammo for [color="
-msgstr ""
+msgstr "包含弹药[color="
 
 # scripts/items/weapons/weapon.nut
 msgid "Has an additional [color="
-msgstr ""
+msgstr "有额外的[color="
 
 # scripts/items/weapons/weapon.nut
 msgid "Chance to hit head [color="
-msgstr ""
+msgstr "击中头部概率 [color="
 
 # scripts/items/weapons/weapon.nut
 msgid "]Is empty and useless[/color]"
@@ -694,7 +694,7 @@ msgstr "]空的无用[/color]"
 
 # scripts/items/weapons/weapon.nut
 msgid "Weapon skills build up [color="
-msgstr ""
+msgstr "武器技能增加[color="
 
 # scripts/items/weapons/weapon.nut
 msgid "%[/color] effective against armor"

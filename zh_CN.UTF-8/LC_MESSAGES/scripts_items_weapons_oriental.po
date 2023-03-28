@@ -31,7 +31,7 @@ msgstr "火矛"
 
 # scripts/items/weapons/oriental/firelance.nut
 msgid "Fire Lance (Spent)"
-msgstr ""
+msgstr "火矛（已用）"
 
 # scripts/items/weapons/oriental/firelance.nut
 msgid "Spear/Firearm, One-Handed"

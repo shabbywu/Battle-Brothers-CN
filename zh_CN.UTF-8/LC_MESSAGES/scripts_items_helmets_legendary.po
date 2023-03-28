@@ -4,7 +4,7 @@ msgstr ""
 
 # scripts/items/helmets/legendary/emperors_countenance.nut
 msgid "Reflects [color="
-msgstr ""
+msgstr "反弹[color="
 
 # scripts/items/helmets/legendary/emperors_countenance.nut
 msgid "The Emperor's Countenance"
@@ -12,7 +12,7 @@ msgstr "帝王尊容"
 
 # scripts/items/helmets/legendary/emperors_countenance.nut
 msgid "]25%[/color] of damage taken in melee back to the attacker"
-msgstr ""
+msgstr "]25%[/color] 近战伤害反弹给攻击者"
 
 # scripts/items/helmets/legendary/emperors_countenance.nut
 msgid "A golden helmet and facemask, showing the visage of an emperor from an age long past, imbued with mystical energies. When you hold it into the light, it almost looks as if the face were moving and making expressions of disgust."
@@ -32,15 +32,15 @@ msgstr "夏尔之牙是一个北方老虎的头骨，在两个凶猛的尖牙后
 
 # scripts/items/helmets/legendary/ijirok_helmet.nut
 msgid " points"
-msgstr ""
+msgstr "点数(points)"
 
 # scripts/items/helmets/legendary/ijirok_helmet.nut
 msgid " heals for "
-msgstr ""
+msgstr "治疗量为"
 
 # scripts/items/helmets/legendary/ijirok_helmet.nut
 msgid "Heals [color="
-msgstr ""
+msgstr "治疗[color="
 
 # scripts/items/helmets/legendary/ijirok_helmet.nut
 msgid "Helmet of the Ijirok"

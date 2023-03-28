@@ -5,7 +5,7 @@ msgstr ""
 # scripts/items/armor/legendary/emperors_armor_fake.nut
 # scripts/items/armor/legendary/emperors_armor.nut
 msgid "Reflects [color="
-msgstr ""
+msgstr "反射[color="
 
 # scripts/items/armor/legendary/emperors_armor_fake.nut
 # scripts/items/armor/legendary/emperors_armor.nut
@@ -15,7 +15,7 @@ msgstr "帝王铠甲"
 # scripts/items/armor/legendary/emperors_armor_fake.nut
 # scripts/items/armor/legendary/emperors_armor.nut
 msgid "]25%[/color] of damage taken in melee back to the attacker"
-msgstr ""
+msgstr "]25%[/color] 的肉搏伤害将反弹给攻击者"
 
 # scripts/items/armor/legendary/armor_of_davkul.nut
 msgid "Aspect of Davkul"
@@ -43,15 +43,15 @@ msgstr "一件历史久远的帝王穿戴的闪亮铠甲，由许多伤人的材
 
 # scripts/items/armor/legendary/ijirok_armor.nut
 msgid " points"
-msgstr ""
+msgstr "点数"
 
 # scripts/items/armor/legendary/ijirok_armor.nut
 msgid " heals for "
-msgstr ""
+msgstr "治疗量为"
 
 # scripts/items/armor/legendary/ijirok_armor.nut
 msgid "Heals [color="
-msgstr ""
+msgstr "治疗 [color="
 
 # scripts/items/armor/legendary/ijirok_armor.nut
 msgid "Armor of the Ijirok"

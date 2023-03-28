@@ -14,7 +14,7 @@ msgstr "弹药"
 
 # scripts/items/supplies/ammo_item.nut
 msgid "[/color] units of assorted ammunition - arrows, bolts and javelins. Used to automatically refill your quivers after battle. Will be added to your global stock once you're back on the worldmap."
-msgstr "[/color] units of assorted ammunition - arrows, bolts and javelins. Used to automatically refill your quivers after battle. 一旦你重新进入世界地图，将被添加到你的库存中。"
+msgstr "[/color] 弹药(例如弓箭，弩箭，标枪等)，用于在战斗后自动补充箭袋。一旦你重新进入世界地图，将被添加到你的库存中。"
 
 # scripts/items/supplies/armor_parts_item.nut
 msgid "Tools and Supplies"
@@ -22,7 +22,7 @@ msgstr "工具和补给"
 
 # scripts/items/supplies/armor_parts_item.nut
 msgid "[/color] assorted tools and supplies to repair weapons, armor, helmets and shields with after battle. Will be added to your global stock once you're back on the worldmap."
-msgstr "[/color] assorted tools and supplies to repair weapons, armor, helmets and shields with after battle. 一旦你重新进入世界地图，将被添加到你的库存中。"
+msgstr "[/color] 各种工具，用于在战后修复武器、盔甲、头盔和盾牌 一旦你重新进入世界地图，将被添加到你的库存中。"
 
 # scripts/items/supplies/beer_item.nut
 msgid "Beer"
@@ -110,7 +110,7 @@ msgstr "[/color] 天"
 
 # scripts/items/supplies/food_item.nut
 msgid "Will spoil in [color="
-msgstr "Will spoil in [color="
+msgstr "会坏掉 [color="
 
 # scripts/items/supplies/food_item.nut
 msgid "Bought for [img]gfx/ui/tooltips/money.png[/img]"
@@ -154,7 +154,7 @@ msgstr "克朗"
 
 # scripts/items/supplies/money_item.nut
 msgid "The amount of [color="
-msgstr "The amount of [color="
+msgstr "数量 [color="
 
 # scripts/items/supplies/money_item.nut
 msgid "[/color] crowns, the currency in these lands. Will be added to your global stock once you're back on the worldmap."
