@@ -93,7 +93,7 @@ msgstr "稳固药剂"
 # scripts/items/misc/anatomist/geist_potion_item.nut
 # scripts/items/misc/anatomist/goblin_overseer_potion_item.nut
 msgid "An additional [color="
-msgstr ""
+msgstr "另外的[color="
 
 # scripts/items/misc/anatomist/geist_potion_item.nut
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
@@ -254,11 +254,11 @@ msgstr "这种神奇的混合物是人体解剖学研究成果的顶峰。很少
 
 # scripts/items/misc/anatomist/direwolf_potion_item.nut
 msgid "Attacks that miss have [color="
-msgstr ""
+msgstr "攻击未命中时会有[color="
 
 # scripts/items/misc/anatomist/direwolf_potion_item.nut
 msgid "]50%[/color] of their Fatigue cost refunded"
-msgstr ""
+msgstr "]50%[/color] 的疲劳消耗返还"
 
 # scripts/items/misc/anatomist/direwolf_potion_item.nut
 msgid "This humoural concoction, borne from research into the dreaded direwolf, will turn even the clumsiest oaf into a lithe dancer of a warrior, able to gracefully move with the tides of battle long after lesser men succumb to fatigue! Mild akathisia after consuming is normal and expected."
@@ -322,7 +322,7 @@ msgstr "这个瓶子上的标签写着：“危险！服用前需要进一步研
 
 # scripts/items/misc/anatomist/honor_guard_potion_item.nut
 msgid "Take between [color="
-msgstr ""
+msgstr "承受[color="
 
 # scripts/items/misc/anatomist/honor_guard_potion_item.nut
 msgid "]25%[/color] and [color="
@@ -350,7 +350,7 @@ msgstr "]25[/color] 天生护甲点数"
 
 # scripts/items/misc/anatomist/ifrit_potion_item.nut
 msgid "Turns skin hard and stone-like, granting [color="
-msgstr ""
+msgstr "使皮肤变硬如石头，增加[color="
 
 # scripts/items/misc/anatomist/ifrit_potion_item.nut
 msgid "With this potion, a common man may take on the aspect of that most frightful of foes, the Ifrit of the southern deserts! Gain the devils' stone skin and laugh at your foes as they break their weapons upon you! Side effects may include itchiness."
@@ -410,11 +410,11 @@ msgstr "在一个人可以使用的众多武器中，最致命的无疑是他的
 
 # scripts/items/misc/anatomist/necrosavant_potion_item.nut
 msgid "Heal [color="
-msgstr ""
+msgstr "治疗[color="
 
 # scripts/items/misc/anatomist/necrosavant_potion_item.nut
 msgid "]25%[/color] of hitpoint damage inflicted on adjacent enemies that have blood"
-msgstr ""
+msgstr "]25%[/color] 对有血液的邻近敌人造成生命值伤害"
 
 # scripts/items/misc/anatomist/necrosavant_potion_item.nut
 msgid "Whoever drinks this incredible potion, produced with the ash of a Necrosavant, will find themselves in possession of the miraculous healing powers of the undead creatures! It does not grant the extended lifespan associated with the abominations, however - quite the opposite, in fact. This may be considered a feature should the imbiber get a bit too comfortable drinking blood."
@@ -446,11 +446,11 @@ msgstr "正如任何一位名副其实的老兵都可以证明的那样，与兽
 
 # scripts/items/misc/anatomist/orc_young_potion_item.nut
 msgid "Attacks have [color="
-msgstr ""
+msgstr "攻击有[color="
 
 # scripts/items/misc/anatomist/orc_young_potion_item.nut
 msgid "]+10%[/color] effectiveness against armor"
-msgstr ""
+msgstr "]+10%[/color] 抗甲效果"
 
 # scripts/items/misc/anatomist/orc_young_potion_item.nut
 msgid "Feel the strength of an orc flow through your veins! Imbibing this draft will infuse even the meekest man's blows with the intense destructive power of a hulking greenskin, guaranteed!"
@@ -458,15 +458,17 @@ msgstr "感受兽人的力量流过你的血管吧！喝下这瓶药水，即使
 
 # scripts/items/misc/anatomist/rachegeist_potion_item.nut
 msgid "Deal [color="
-msgstr ""
+msgstr "Deal [color="
 
 # scripts/items/misc/anatomist/rachegeist_potion_item.nut
 msgid "]+25%[/color] damage and receive only [color="
 msgstr ""
+"]+%25[/color] incoming damage\"\n"
+"\"造成]+25%[/color] 伤害并且仅受到[color=\"]+%25[/color] 伤害"
 
 # scripts/items/misc/anatomist/rachegeist_potion_item.nut
 msgid "]75%[/color] of any damage if hitpoints are below [color="
-msgstr ""
+msgstr "]每抵挡1点伤害会造成总伤害的75%[/color]（在生命值低于[color="
 
 # scripts/items/misc/anatomist/rachegeist_potion_item.nut
 msgid "Few creatures defy understanding like the so-called Rachegeist. Through meticulous examination of its meager remains, however, this miraculous potion was created! Now even mortal men may bring out the power of undeath itself!"
@@ -562,7 +564,7 @@ msgstr "一系列的目击者报告、实验日志和研究笔记，里面详细
 
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 msgid "Ijirok"
-msgstr ""
+msgstr "伊杰洛克(Ijirok)"
 
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 msgid "Kraken"
@@ -570,7 +572,7 @@ msgstr "海妖"
 
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 msgid "Lorekeeper"
-msgstr ""
+msgstr "博学者(Lorekeeper)"
 
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 msgid "Rachegeist"
@@ -582,7 +584,7 @@ msgstr "传奇故事大典"
 
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 msgid "Potion of Inner Phylactery"
-msgstr ""
+msgstr "内部护符药水(Potion of Inner Phylactery)"
 
 # scripts/items/misc/anatomist/research_notes_legendary_item.nut
 msgid "Tracks your research into mythical creatures, should you discover any"
@@ -618,7 +620,7 @@ msgstr "古代牧师"
 
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Ancient Skeleton"
-msgstr ""
+msgstr "远古骷髅(Ancient Skeleton)"
 
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Ledger of the Dead"
@@ -646,7 +648,7 @@ msgstr "有了这种奇妙的混合物，凡人也将呈现出神性的一面！
 
 # scripts/items/misc/anatomist/serpent_potion_item.nut
 msgid "Gain an additional [color="
-msgstr ""
+msgstr "获得额外[color="
 
 # scripts/items/misc/anatomist/serpent_potion_item.nut
 msgid "]+3%[/color] chance to hit in melee for every ally adjacent to your target"
@@ -666,7 +668,7 @@ msgstr "喝了这瓶药，即使是最虚弱的雇佣兵架起的盾墙也会稳
 
 # scripts/items/misc/anatomist/unhold_potion_item.nut
 msgid "Regenerate [color="
-msgstr ""
+msgstr "复原[color="
 
 # scripts/items/misc/anatomist/unhold_potion_item.nut
 msgid "]10[/color] hitpoints each turn"

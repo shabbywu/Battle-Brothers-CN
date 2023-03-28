@@ -256,23 +256,23 @@ msgstr "的"
 
 # scripts/items/helmets/helmet.nut
 msgid "helmet"
-msgstr ""
+msgstr "头盔"
 
 # scripts/items/helmets/helmet.nut
 msgid "[/b] damage"
-msgstr ""
+msgstr "[/b] 伤害"
 
 # scripts/items/helmets/helmet.nut
 msgid "Vision [color="
-msgstr ""
+msgstr "视野[color="
 
 # scripts/items/helmets/helmet.nut
 msgid " is hit for [b]"
-msgstr ""
+msgstr "被击中 [b]"
 
 # scripts/items/helmets/helmet.nut
 msgid "Maximum Fatigue [color="
-msgstr ""
+msgstr "最大疲劳 [color="
 
 # scripts/items/helmets/helmet.nut
 msgid "[/b] damage and has been destroyed!"
@@ -384,19 +384,19 @@ msgstr "一个生锈的破旧链甲头盔。"
 
 # scripts/items/helmets/nordic_helmet.nut
 msgid "Nordic Helmet"
-msgstr ""
+msgstr "北欧头盔(Nordic Helmet)"
 
 # scripts/items/helmets/nordic_helmet.nut
 msgid "A nordic helmet guarding face and neck with additional metal plates."
-msgstr ""
+msgstr "一个北欧头盔，用额外的金属板保护面部和颈部。"
 
 # scripts/items/helmets/nordic_helmet_with_closed_mail.nut
 msgid "Nordic Helmet with Closed Mail"
-msgstr ""
+msgstr "封闭邮件的北欧头盔。"
 
 # scripts/items/helmets/nordic_helmet_with_closed_mail.nut
 msgid "A metal nordic helmet with an attached closed mail neck guard."
-msgstr ""
+msgstr "一个带有封闭邮件颈护的金属北欧头盔。"
 
 # scripts/items/helmets/open_leather_cap.nut
 msgid "Open Leather Cap"
@@ -436,11 +436,11 @@ msgstr "疫医面具"
 
 # scripts/items/helmets/physician_mask.nut
 msgid "Only take [color="
-msgstr ""
+msgstr "只需使用[color="
 
 # scripts/items/helmets/physician_mask.nut
 msgid "]50%[/color] of damage inflicted by harmful miasmas"
-msgstr ""
+msgstr "]50%[/color] 的有害瘴气伤害"
 
 # scripts/items/helmets/physician_mask.nut
 msgid "A thick leather hood with a distinctive, bird-like mask. The beak acts as a ventilator, containing sweet-smelling herbs to ward away sickness and disease."
@@ -472,11 +472,11 @@ msgstr "一种带加长护颈的金属轻便头盔，像这样的设计在这些
 
 # scripts/items/helmets/steppe_helmet_with_mail.nut
 msgid "Steppe Helmet with Mail"
-msgstr ""
+msgstr "盔甲蒙古头盔(Steppe Helmet with Mail)"
 
 # scripts/items/helmets/steppe_helmet_with_mail.nut
 msgid "A nasal helmet witch an attached mail neck guard fashioned in the way of the steppe folks."
-msgstr ""
+msgstr "一个带有附着的邮件颈甲的鼻子盔，以草原民族的方式制作。"
 
 # scripts/items/helmets/straw_hat.nut
 msgid "Straw Hat"

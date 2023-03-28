@@ -5,7 +5,7 @@ msgstr ""
 # scripts/scenarios/world/southern_quickstart_scenario.nut
 # scripts/scenarios/world/early_access_scenario.nut
 msgid "Joined a mercenary company"
-msgstr "加入一个雇佣兵战队"
+msgstr "加入一个佣兵战队"
 
 # scripts/scenarios/world/anatomists_scenario.nut
 msgid "Anatomists"
@@ -17,15 +17,15 @@ msgstr "永远不会达到自信的士气"
 
 # scripts/scenarios/world/anatomists_scenario.nut
 msgid "{Despite others' hesitancies, I've no qualms calling you a javel, sir. You are, after all, a javel. A scapegrace. Some sellsword or another, yes? I think only a man who trucks cowardice would avoid calling you what you are. That someone disrespects your intelligence, thinking you yourself know not yourself. Even I see that in you accepting who you are, you are quite a good specimen. I mean, sellsword.}"
-msgstr "{Despite others' hesitancies, I've no qualms calling you a javel，先生。 You are, after all, a javel. A scapegrace. Some sellsword or another, yes? I think only a man who trucks cowardice would avoid calling you what you are. That someone disrespects your intelligence, thinking you yourself know not yourself. Even I see that in you accepting who you are, you are quite a good specimen. I mean, sellsword.}"
+msgstr ""
 
 # scripts/scenarios/world/anatomists_scenario.nut
 msgid "{Captain? Is it alright if I call you captain? Ah, of course it is. What? No, we were not calling you by another name. Yers is a smooth costard, good sir, and we would not be of such derring-do to refer to you as a sellsword who is as ordinary as any of our coetaneous clodpolls, or state that we were in some sense importuning commerce by conducting business with a man of your particular skills. No sir, we would not. We are not children of perdition, sir.}"
-msgstr "{Captain? Is it alright if I call you captain? Ah, of course it is. 什么？ No, we were not calling you by another name. Yers is a smooth costard, good sir, and we would not be of such derring-do to refer to you as a sellsword who is as ordinary as any of our coetaneous clodpolls, or state that we were in some sense importuning commerce by conducting business with a man of your particular skills. No sir, we would not. We are not children of perdition, sir.}"
+msgstr ""
 
 # scripts/scenarios/world/anatomists_scenario.nut
 msgid "{Though our quotidian dialogues are no doubt drollery, beneath the banausic surface I must admit I feel a touch of serotinous savagery lurking within you, coming to the fore as if my words be fire. Even our most desultory talks has me on edge, the way you stare at me with such hateful eyes. Well, know this, bounty hunter, I am no casuist, I speak in earnest. You are too fine a specimen-I mean captain to be lofting some sapskull's brickbats at. Understand?}"
-msgstr ""
+msgstr "{虽然我们的日常对话无疑是平淡无奇的，但在这看似千篇一律的表面下，我不得不承认，我感觉到你内心里隐藏着一丝迟暮的野性，当我的话仿佛是火一般涌现时，就会显露出来。即使是我们最敷衍的谈话也让我有些紧张，因为你用那样憎恶的眼神盯着我。好吧，赏金猎人，要知道，我不是个双重标准者，我说话是认真的。你是个太出色的样本——我的意思是队长，不应该被一些阿底峰的砖头击中。明白了吗?}"
 
 # scripts/scenarios/world/anatomists_scenario.nut
 msgid ""
@@ -95,7 +95,7 @@ msgstr "%name% 是一个安静的人，他的指纹下有阴影，像苍白海�
 
 # scripts/scenarios/world/cultists_scenario.nut
 msgid "%name% found you upon the road. He stated that he knew you were a mercenary captain. You wore but ordinary cloth at that moment, but he said by Davkul's darkness you had an aura of wanted black about you."
-msgstr "%name% 在路上发现了你。 他说他知道你是雇佣兵队长。 你当时穿的是普通的衣服，但他说，借着达库尔的黑暗，你身上有一种被通缉的黑色气息。"
+msgstr "%name% 在路上发现了你。 他说他知道你是佣兵队长。 你当时穿的是普通的衣服，但他说，借着达库尔的黑暗，你身上有一种被通缉的黑色气息。"
 
 # scripts/scenarios/world/cultists_scenario.nut
 msgid "%name% banded with you outside a tavern. The first time you saw him he had scars running up his arms and across veins that would imply he should not still be living. But each morning it appears as though his scars move, slowly creeping in one direction: toward his forehead."
@@ -143,7 +143,7 @@ msgstr "{从任何角度看，%name% 都是一个优秀的战士，但他只是�
 
 # scripts/scenarios/world/deserters_scenario.nut
 msgid "{%name% is like many deserters. You can see the spirit of a fighter in him, but the heart for it is withering. It doesn't make him a coward, as many assume deserters to be, but instead simply a man who may need change. Hopefully the coin of mercenary work can provide it.}"
-msgstr "{%name% 就像很多逃兵一样。 你可以在他身上看到斗士的精神，但他的内心却在萎缩。 这并没有使他成为一个懦夫，就像许多人认为的逃兵那样，而只是一个可能需要改变的人。 希望雇佣兵工作的硬币能提供它。}"
+msgstr "{%name% 就像很多逃兵一样。 你可以在他身上看到斗士的精神，但他的内心却在萎缩。 这并没有使他成为一个懦夫，就像许多人认为的逃兵那样，而只是一个可能需要改变的人。 希望佣兵工作的硬币能提供它。}"
 
 # scripts/scenarios/world/deserters_scenario.nut
 msgid ""
@@ -179,13 +179,13 @@ msgid ""
 "\n"
 "[color=#bcad8c]A quick start into the world, without any particular advantages or disadvantages.[/color][/p]"
 msgstr ""
-"[p=c][img]gfx/ui/events/event_80.png[/img][/p][p]多年来，你以微薄的报酬做着刀口舔血的工作，现在终于攒下来足够的克朗去组建一支你自己的雇佣兵战队了。 与你在一起的是三个经验丰富的雇佣兵，你以前曾与他们并肩战斗过。\n"
+"[p=c][img]gfx/ui/events/event_80.png[/img][/p][p]多年来，你以微薄的报酬做着刀口舔血的工作，现在终于攒下来足够的克朗去组建一支你自己的佣兵战队了。 与你在一起的是三个经验丰富的佣兵，你以前曾与他们并肩战斗过。\n"
 "\n"
 "[color=#bcad8c]快速开始进入世界，没有任何特殊的优势或劣势。[/color][/p]"
 
 # scripts/scenarios/world/gladiators_scenario.nut
 msgid "the Bear"
-msgstr ""
+msgstr "熊(the Bear)"
 
 # scripts/scenarios/world/gladiators_scenario.nut
 msgid "the Lion"
@@ -205,27 +205,27 @@ msgstr "渴望在竞技场外证明自己"
 
 # scripts/scenarios/world/gladiators_scenario.nut
 msgid "{Why are you looking at %fullname%? Captain, it is I, "
-msgstr ""
+msgstr "{你为什么看着%fullname%？队长，应该是我！"
 
 # scripts/scenarios/world/gladiators_scenario.nut
 msgid "{%fullname% thinks muscles make for glory. Wrong. Captain, it is I, "
-msgstr "{%fullname% 认为肌肉是荣耀。 Wrong. Captain, it is I, "
+msgstr "{%fullname% 认为肌肉是荣耀。错了，队长，应该是我！ "
 
 # scripts/scenarios/world/gladiators_scenario.nut
 msgid "{%fullname% is not the best warrior here, let's be clear. Captain, look at my muscles, is it not I, "
-msgstr "{%fullname% 不是这里最好的战士，让我们说清楚。 Captain, look at my muscles, is it not I, "
+msgstr "{%fullname% 不是这里最好的战士，让我们说清楚。队长, 看我的肌肉, 不是我， "
 
 # scripts/scenarios/world/gladiators_scenario.nut
 msgid ", who commands the ladies of this realm. Need not ask me how. Behold! Look at it! Look at the size of it! Yeah. That's what I thought. Fools, train all you want, you can't have this!}"
-msgstr ", who commands the ladies of this realm. 不用问我怎么做。 看啊！看看！ 看看它的大小！ 是啊。我就是这么想的。 傻瓜，训练你想要的，你不能这样！}"
+msgstr ", 谁命令这个领域的女士们。不用问我怎么做。看啊！看看！看看它的大小！是啊。我就是这么想的。 傻瓜，训练你想要的，你不能这样！}"
 
 # scripts/scenarios/world/gladiators_scenario.nut
 msgid ", who is your greatest gladiator. I am the one who swept the legs of a lindwurm and choked it out with its own tail! What you bastards say? You call that a tall tale? Pah! 'Tis a horizontal lizard at best.}"
-msgstr ", who is your greatest gladiator. 我就是那个扫过林德沃姆腿，用它自己的尾巴把它勒死的人！ 你们这些混蛋怎么说？ 你说这是个大故事？ 呸！充其量只是一只横着的蜥蜴。}"
+msgstr ", 谁是你最伟大的角斗士. 我就是那个扫过林德沃姆腿，用它自己的尾巴把它勒死的人！ 你们这些混蛋怎么说？ 你说这是个大故事？ 呸！充其量只是一只横着的蜥蜴。}"
 
 # scripts/scenarios/world/gladiators_scenario.nut
 msgid "{%fullname% is somber about the passing of a good friend, but he looks to the future knowing that he has someone behind him at all times. Behind him in a brotherly way, that is. And spiritually. Brotherly and spiritually, only.}"
-msgstr "{%fullname% 对一个好朋友的去世感到悲伤，但是他在展望未来的时候知道有一个人一直在他身后。 Behind him in a brotherly way, that is. 精神上的。只有兄弟般的精神上的。}"
+msgstr "{%fullname% 对一个好朋友的去世感到悲伤，但是他在展望未来的时候知道有一个人一直在他身后。就是以兄弟般的方式在他身后。精神上的。只有兄弟般的精神上的。}"
 
 # scripts/scenarios/world/gladiators_scenario.nut
 msgid "{You should know something, captain. I'm glad you stay out of the fray. I haven't felt this alive in what must be ten years. And if you see me out there about to go down, you stay right where you are, because I'll be right where I want to be.}"
@@ -233,7 +233,7 @@ msgstr "{你应该知道些什么，队长。 我很高兴你能置身事外。 
 
 # scripts/scenarios/world/gladiators_scenario.nut
 msgid ", who commands the greatest reward of life: the fear of one's own enemies! Look, if I lather a little and catch the light, the muscles gleam. Would it not be that the heavens were mistakened for above, when all the women say they find them right here, particularly here, upon my glorious pecs?}"
-msgstr ", who commands the greatest reward of life: the fear of one's own enemies! 听着，如果我擦一点泡沫，然后抓住阳光，肌肉就会发光。 当所有的女人都说她们就在这里，尤其是在这里，在我美丽的胸脯上找到了天堂，难道不是把我的胸肌错当成了天堂吗？}"
+msgstr ", 谁能获得人生最大的回报：对自己敌人的恐惧！听着，如果我擦一点泡沫，然后抓住阳光，肌肉就会发光。 当所有的女人都说她们就在这里，尤其是在这里，在我美丽的胸脯上找到了天堂，难道不是把我的胸肌错当成了天堂吗？}"
 
 # scripts/scenarios/world/gladiators_scenario.nut
 msgid ""
@@ -259,7 +259,7 @@ msgstr "the 独狼"
 
 # scripts/scenarios/world/lone_wolf_scenario.nut
 msgid "A wandering hedge knight, you were a veteran of jousting and sparring tournaments. You were also a veteran of victory. Tis a scary thought for many, but if it were anything at all that turned your eye toward mercenary work it was boredom. Outwardly you state it is for the coin, but a part of you knows it's also for the company."
-msgstr "一个漂泊的雇佣骑士，你是一个骑术和骑士比赛的老手。 你也是一个胜利的老兵。 对许多人来说，这是一个可怕的想法，但如果说有什么东西让你的目光转向雇佣兵的工作，那就是无聊。 表面上你说这是为了硬币，但你知道有一部分也是为了战队。"
+msgstr "一个漂泊的雇佣骑士，你是一个骑术和骑士比赛的老手。 你也是一个胜利的老兵。 对许多人来说，这是一个可怕的想法，但如果说有什么东西让你的目光转向佣兵的工作，那就是无聊。 表面上你说这是为了硬币，但你知道有一部分也是为了战队。"
 
 # scripts/scenarios/world/lone_wolf_scenario.nut
 msgid ""
@@ -277,7 +277,7 @@ msgstr ""
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "the Whip"
-msgstr ""
+msgstr "鞭子(the Whip)"
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "the Stoic"
@@ -289,19 +289,19 @@ msgstr "搜捕者"
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "the Beggar"
-msgstr ""
+msgstr "乞丐(the Beggar)"
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "the Learned"
-msgstr ""
+msgstr "博学者(the Learned)"
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "the Deserter"
-msgstr ""
+msgstr "逃兵(the Deserter)"
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "the Northerner"
-msgstr ""
+msgstr "北方人(the Northerner)"
 
 # scripts/scenarios/world/manhunters_scenario.nut
 msgid "Misses his books"
@@ -447,7 +447,7 @@ msgstr "作为一个临时工和普通工人，%name% 宁愿加入你的队伍�
 
 # scripts/scenarios/world/militia_scenario.nut
 msgid "Daytaler, laborer, caravan hand, sailor, militiaman, %name%'s done a bit of it all. Hopefully this new foray into mercenary work will stick for him."
-msgstr "临时工，工人，商队成员，水手，民兵，%name% 都做过一点。 希望这种新的雇佣兵工作的尝试能持续下去。"
+msgstr "临时工，工人，商队成员，水手，民兵，%name% 都做过一点。 希望这种新的佣兵工作的尝试能持续下去。"
 
 # scripts/scenarios/world/militia_scenario.nut
 msgid "A proper lad, %name% enjoys carousing ladies at the pub and chasing skirt in the church. You get the sense he's only tagged along to spread his sense of 'fun' around the world."
@@ -463,11 +463,11 @@ msgstr "你注意到 %name% 对某些贵族有些躲闪。 他很可能是一个
 
 # scripts/scenarios/world/militia_scenario.nut
 msgid "Like yourself, %name% was fed up with militias being overused to solve the crises of unprepared nobles. He was arguably the most earnest of the men in joining the transition to mercenary work."
-msgstr "和你一样，%name% 厌倦了民兵被过度用于解决毫无准备的贵族的危机。 他可以说是加入向雇佣兵工作过渡的人中最认真的一个。"
+msgstr "和你一样，%name% 厌倦了民兵被过度用于解决毫无准备的贵族的危机。 他可以说是加入向佣兵工作过渡的人中最认真的一个。"
 
 # scripts/scenarios/world/militia_scenario.nut
 msgid "Seeking riches, %name% has come to the right place in your newfound mercenary band. Unfortunately, his background is in farming, milling, and laying stone, particularly none of which he was any good at."
-msgstr "寻找财富，%name% 在你新成立的雇佣兵团中找到了正确的位置。 不幸的是，他的背景是种地、碾磨、铺石头，尤其是他不擅长的那些。"
+msgstr "寻找财富，%name% 在你新成立的佣兵团中找到了正确的位置。 不幸的是，他的背景是种地、碾磨、铺石头，尤其是他不擅长的那些。"
 
 # scripts/scenarios/world/militia_scenario.nut
 msgid "%name% is, ostensibly, running away from his wife. You met her once and approve his escape plan entirely, and not just because it affords you another body on the front line.That wench is genuinely crazy."
@@ -479,7 +479,7 @@ msgstr "%name% 拥有一个农庄，这个农庄早就被无数过往的军队�
 
 # scripts/scenarios/world/militia_scenario.nut
 msgid "%name% states he was a sailor prior to coming inland and falling in with the militia and now your mercenary band. He hopes to eventually own a boat and put its sails to the open ocean. You hope he can do that someday, truly."
-msgstr "%name% 说他来内陆之前是个水手，后来加入了民兵，现在加入了你的雇佣兵团。 他希望最终拥有一艘船，并把它的帆驶向公海。 你真的希望有一天他能做到吗。"
+msgstr "%name% 说他来内陆之前是个水手，后来加入了民兵，现在加入了你的佣兵团。 他希望最终拥有一艘船，并把它的帆驶向公海。 你真的希望有一天他能做到吗。"
 
 # scripts/scenarios/world/militia_scenario.nut
 msgid "%name% has apparently been in many militias, all of which eventually dissolved for one reason or another. At no point has he made any money in any of them, so he hopes to changes that with this whole new sellswording schtick."
@@ -514,18 +514,18 @@ msgid ""
 "[color=#bcad8c]Paladins:[/color] Start with two battle-hardened warriors and good equipment.\n"
 "[color=#bcad8c]Oathtakers:[/color] Sworn to Young Anselm's teachings, you must take oaths that confer various advantages and disadvantages until fulfilled.[/p]"
 msgstr ""
-"[p=c][img]gfx/ui/events/event_180.png[/img][/p][p]奉行骑士精神的宣誓者们是高尚无私的战士，他们不受贵族领主的约束，而是向他们已经故去的创始人， “初创者安塞姆”的理想与教诲宣誓效忠。这支骑士教团如今发现自己身陷囹圄，并求助于你，希望你能扭转他们的命运。你能够引导这些狂热者成为优秀的雇佣兵吗？\n"
+"[p=c][img]gfx/ui/events/event_180.png[/img][/p][p]奉行骑士精神的宣誓者们是高尚无私的战士，他们不受贵族领主的约束，而是向他们已经故去的创始人， “初创者安塞姆”的理想与教诲宣誓效忠。这支骑士教团如今发现自己身陷囹圄，并求助于你，希望你能扭转他们的命运。你能够引导这些狂热者成为优秀的佣兵吗？\n"
 "\n"
 "[color=#bcad8c]圣武士：[/color] 以两位久经沙场且装备精良的战士开始游戏。\n"
 "[color=#bcad8c]宣誓者：[/color] 你必须遵从初创者安塞姆的教诲，每隔十天宣下一则誓言，并为此同时承受奖励与惩罚，直至誓言完成为止。[/p]"
 
 # scripts/scenarios/world/paladins_scenario.nut
 msgid "{%name%, like many of the Oathtakers' more spry members, strives to be like Young Anselm. A youthful, capable man who has yet to let the world's horrors and grind wear him down. In moments of honesty, he reminds you of yourself. In moments of reflection, you realize that he will likely one day resemble you as you are now. But until then, to the youth of the world, for the Oaths are certainly not wasted upon them! | When Anselm set out on his quest, it was %name% whom joined him first. Despite the Young Anselm's untimely death, %name% still sought to see the young man's vision through. He is an ardent believer in the Oaths and can be frequently found idolizing and commemorating Young Anselm's skull.}"
-msgstr ""
+msgstr "{%name%，与誓约者战团中许多精神矍铄的成员一样，努力像年轻的安瑟姆一样。安瑟姆是一个年轻、有能力、尚未被世界的恐惧和困苦磨损的男子。在诚实的时候，他让你想起自己。在反思的时候，你意识到他有一天很可能会变成现在的你。但在那之前，对于世界的年轻人来说，誓言肯定不会白费！| 安瑟姆启程时， %名称%(name)首先加入了他。尽管年轻的安瑟姆不幸去世， %名称%(name)仍然试图完成年轻人的计划。他是誓言的忠实信奉者，并经常发现自己在崇拜和纪念年轻安瑟姆的头骨。}"
 
 # scripts/scenarios/world/paladins_scenario.nut
 msgid "{Perhaps of an age more suitable for caretaking than oathtaking, %name% is a rather old, nigh on decrepit Oathtaker. While age has robbed him of his more natural talents, it has at least gifted him with learning and experience that no physical capabilities can match. He is a man of many spirits, having gone around this world in the shell of soldier, farmer, sellsword, and more. Now he is an Oathtaker, and all those skills and traits he built up over the years has made him quite a formidable one at that. | When First Oathtaker Anselm first met %name%, it is said that the prime paladin divulged details no one else could have possibly known, thus proving the aethereal power behind his beliefs. %name% is an ardent believer in the Oaths, and in seeing Young Anselm's vision through.}"
-msgstr ""
+msgstr "{或许比作誓约仪式更适合担任照顾者的是一个很老、几乎已到颓废的仪式守护者%name%。虽然年龄夺去了他的更多本能天赋，但至少赐予了他没有体能能与之媲美的学习和经验。他是一个拥有众多经历的人，曾作过士兵、农民、佣兵等。现在他是一个仪式守护者，并在很多技能和特性的积淀下，使他成为了一位相当强大的仪式守护者。 | 当第一位仪式守护者安瑟姆第一次遇见%name%时，据说这位首席骑士透露了没有其他人可能知道的细节，从而证明了他的信念背后的神奇力量。%name%是一名坚定的誓言信徒，并致力于实现年轻的安瑟姆的愿景。}"
 
 # scripts/scenarios/world/raiders_scenario.nut
 msgid "Northern Raiders"
@@ -533,7 +533,7 @@ msgstr "北方掠夺者"
 
 # scripts/scenarios/world/raiders_scenario.nut
 msgid "Fenrir the Warhound"
-msgstr ""
+msgstr "芬里尔战犬 (Fenrir the Warhound)"
 
 # scripts/scenarios/world/raiders_scenario.nut
 msgid "Had a successful raid"
@@ -571,7 +571,7 @@ msgid ""
 "[color=#bcad8c]Pillagers:[/color] You have a higher chance to get any items from slain enemies as loot.\n"
 "[color=#bcad8c]Outlaws:[/color] Start with bad relations to most human factions.[/p]"
 msgstr ""
-"[p=c][img]gfx/ui/events/event_139.png[/img][/p][p]在你的成年生活中，你一直在这片土地上掠夺和抢劫。 但是，如果当地的农民穷得像老鼠一样，你可能最终想要扩大到雇佣兵工作的盈利领域，也就是说，如果你的潜在雇主愿意原谅你过去的违法行为。\n"
+"[p=c][img]gfx/ui/events/event_139.png[/img][/p][p]在你的成年生活中，你一直在这片土地上掠夺和抢劫。 但是，如果当地的农民穷得像老鼠一样，你可能最终想要扩大到佣兵工作的盈利领域，也就是说，如果你的潜在雇主愿意原谅你过去的违法行为。\n"
 "\n"
 "[color=#bcad8c]战团：[/color] 从三个有经验的野蛮人开始。\n"
 "[color=#bcad8c]抢劫者：[/color] 你有更高的几率从被杀死的敌人那里得到任何物品作为战利品。\n"
@@ -603,7 +603,7 @@ msgstr "{一个前小丑，他的噱头是从天上射三个水罐。 你不知�
 
 # scripts/scenarios/world/rangers_scenario.nut
 msgid "{A bit of a devious runt, though a good man at heart. %name% used to hunt for his local liege, but when the nobleman died falling into an unseen ravine the hunter was blamed and kicked out of court. With some guile, he turned his hunting talents into poaching and fur trade. He is of a merchant's mind and was quick to engender the idea of mercenary work because of it.}"
-msgstr "{有点像个狡猾的小矮子，虽然内心是个好人。%name% 曾经为他的当地君主狩猎，但当贵族掉进一个看不见的峡谷死亡时，猎人被指责并被踢出了法庭 带着一些诡计，他把他的狩猎天赋变成了偷猎和毛皮贸易。 他有商人的头脑，因此很快就产生了雇佣兵工作的想法。}"
+msgstr "{有点像个狡猾的小矮子，虽然内心是个好人。%name% 曾经为他的当地君主狩猎，但当贵族掉进一个看不见的峡谷死亡时，猎人被指责并被踢出了法庭 带着一些诡计，他把他的狩猎天赋变成了偷猎和毛皮贸易。 他有商人的头脑，因此很快就产生了佣兵工作的想法。}"
 
 # scripts/scenarios/world/rangers_scenario.nut
 msgid ""
@@ -621,7 +621,7 @@ msgstr ""
 
 # scripts/scenarios/world/southern_quickstart_scenario.nut
 msgid "Southern Mercenaries"
-msgstr "南方雇佣兵"
+msgstr "南方佣兵"
 
 # scripts/scenarios/world/southern_quickstart_scenario.nut
 msgid "{%name% was once in a Vizier's elite vanguard. A pitched battle saw his entire legion annihilated and himself buried underneath their bodies. He was abandoned to the desert and survived by means that even to this day he will not tell you. But his unerring loyalty to you speaks more than any war story ever could.}"
@@ -655,7 +655,7 @@ msgstr "遇到了另一个被绿皮屠杀的商队"
 
 # scripts/scenarios/world/trader_scenario.nut
 msgid "A daytaler, mason, miller, %name% had done it all, passing from task to task with no dallying in making a one of them a true vocation. You weren't sure if he was long to stay as a caravan hand either, but when asked to turn to mercenary work he had no problem agreeing to that..."
-msgstr "临时工，石匠，碾磨工，%name% 都做过了，一个任务一个任务地做，毫不拖延地把他们中的一个当作真正的职业。 你也不确定他是否愿意长期做一名商队队员，但当被要求从事雇佣兵工作时，他毫无疑问地同意了这一点…"
+msgstr "临时工，石匠，碾磨工，%name% 都做过了，一个任务一个任务地做，毫不拖延地把他们中的一个当作真正的职业。 你也不确定他是否愿意长期做一名商队队员，但当被要求从事佣兵工作时，他毫无疑问地同意了这一点…"
 
 # scripts/scenarios/world/trader_scenario.nut
 msgid "You found %name% being thrown out of a pub and at first glance was little more than a drunken miscreant. But you watched as he fought off three would-be muggers. They managed to take his boots in the end, sure, but they couldn't truly defeat his spirit. Impressed, you took him on as a caravan hand."
@@ -689,6 +689,6 @@ msgid ""
 "\n"
 "[color=#bcad8c]Recommended for new players as it includes some helpful guidance in the beginning.[/color][/p]"
 msgstr ""
-"[p=c][img]gfx/ui/events/event_21.png[/img][/p][p]你是一家雇佣兵战队的二把手，这个战队一直在追踪一个名叫霍加特的强盗。 一个意想不到的事件让战队陷入崩溃，而你负责重建它的昔日辉煌。\n"
+"[p=c][img]gfx/ui/events/event_21.png[/img][/p][p]你是一家佣兵战队的二把手，这个战队一直在追踪一个名叫霍加特的强盗。 一个意想不到的事件让战队陷入崩溃，而你负责重建它的昔日辉煌。\n"
 "\n"
 "[color=#bcad8c]推荐给新玩家，因为它在开始时包含一些有用的指导。[/color][/p]"

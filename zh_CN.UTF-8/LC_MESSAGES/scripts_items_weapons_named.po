@@ -219,7 +219,7 @@ msgstr "一种长枪，能在一定距离内攻击敌人，并使其处于不利
 
 # scripts/items/weapons/named/named_polehammer.nut
 msgid "A crude weapon like a polehammer can also be crafted with passion, skill and attention to detail, as this exemplar showcases impressively."
-msgstr ""
+msgstr "像长枪这样的简陋武器，只要有激情、技巧和注重细节，也能打造出如此出色的杰作。"
 
 # scripts/items/weapons/named/named_polemace.nut
 msgid "A crude weapon like a polemace can also be crafted with passion, skill and attention to detail, as this exemplar showcases impressively."
@@ -263,7 +263,7 @@ msgstr "一种附有锋利而平衡的弯曲刀刃的长杆，用于在一定距
 
 # scripts/items/weapons/named/named_three_headed_flail.nut
 msgid "A very rare weapon built from valuable and strong materials. Despite its ceremonial look it makes for a terrifying tool of destruction."
-msgstr ""
+msgstr "一件由珍贵而坚固的材料制成的非常罕见的武器。尽管它看起来有礼仪性，但能成为毁灭性的可怕工具。"
 
 # scripts/items/weapons/named/named_throwing_axe.nut
 msgid "Small axes to be thrown in an overhand motion towards a target. These ones are especially well-balanced and hardy enough to inflict serious damage to armor and shields from range."

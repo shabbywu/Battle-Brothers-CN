@@ -45,15 +45,15 @@ msgstr "的"
 
 # scripts/items/armor/armor.nut
 msgid "[/b] damage"
-msgstr ""
+msgstr "[/b] 伤害"
 
 # scripts/items/armor/armor.nut
 msgid " is hit for [b]"
-msgstr ""
+msgstr "被击中 [b]"
 
 # scripts/items/armor/armor.nut
 msgid "Maximum Fatigue [color="
-msgstr ""
+msgstr "最大疲劳[color="
 
 # scripts/items/armor/armor.nut
 msgid "[/b] damage and has been destroyed!"

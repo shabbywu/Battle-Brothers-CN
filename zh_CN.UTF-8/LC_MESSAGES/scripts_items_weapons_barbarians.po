@@ -75,7 +75,7 @@ msgstr "一捆沉重的标枪"
 
 # scripts/items/weapons/barbarians/heavy_javelin.nut
 msgid "Bundle of Heavy Javelins (Empty)"
-msgstr ""
+msgstr "重型标枪捆（空）"
 
 # scripts/items/weapons/barbarians/heavy_javelin.nut
 msgid "A set of heavy, rugged-looking javelins. Harder to throw and hit with, but more impactful."
@@ -99,7 +99,7 @@ msgstr "一捆重型投斧"
 
 # scripts/items/weapons/barbarians/heavy_throwing_axe.nut
 msgid "Bundle of Heavy Throwing Axes (Empty)"
-msgstr ""
+msgstr "重型投掷斧捆绑包（空）"
 
 # scripts/items/weapons/barbarians/heavy_throwing_axe.nut
 msgid "Heavy and unwieldy throwing axes used by northern barbarians. Difficult to throw and hit with, but deadly."

@@ -8,7 +8,7 @@ msgstr "短剑，单手持"
 
 # scripts/items/weapons/legendary/lightbringer_sword.nut
 msgid "]10[/color] - [color="
-msgstr ""
+msgstr "]10[/color] - [color="
 
 # scripts/items/weapons/legendary/lightbringer_sword.nut
 msgid "Reproach of the Old Gods"
@@ -16,11 +16,11 @@ msgstr "古神之耻"
 
 # scripts/items/weapons/legendary/lightbringer_sword.nut
 msgid "Inflicts an additional [color="
-msgstr ""
+msgstr "造成额外的[color="
 
 # scripts/items/weapons/legendary/lightbringer_sword.nut
 msgid "]20[/color] damage that ignores armor to up to three targets"
-msgstr ""
+msgstr "]20[/color] 伤害，无视护甲，最多三个目标"
 
 # scripts/items/weapons/legendary/lightbringer_sword.nut
 msgid "The crepuscular sword bends purples and oranges until it seemingly carries twilight itself in its fuller. Held to the touch, one cannot tell if they are being burned or chilled. Magic or well-crafted, whatever the weapon is it vibrates as though it were fighting off power immense and you need only swing it to find the steel's true charge."
@@ -28,7 +28,7 @@ msgstr "这把泛着紫黄微光的剑就如黄昏的晚霞。轻轻一碰，冰
 
 # scripts/items/weapons/legendary/obsidian_dagger.nut
 msgid "Corpse"
-msgstr ""
+msgstr "尸体(Corpse)"
 
 # scripts/items/weapons/legendary/obsidian_dagger.nut
 msgid "Obsidian Dagger"

@@ -45,7 +45,7 @@ msgstr "使用时摧毁"
 # scripts/items/tools/holy_water_item.nut
 # scripts/items/tools/acid_flask_item.nut
 msgid "Has a [color="
-msgstr ""
+msgstr "有一个[color="
 
 # scripts/items/tools/faction_banner.nut
 # scripts/items/tools/player_banner.nut
@@ -55,7 +55,7 @@ msgstr "战旗"
 # scripts/items/tools/throwing_net.nut
 # scripts/items/tools/reinforced_throwing_net.nut
 msgid "Maximum Fatigue [color="
-msgstr ""
+msgstr "最大疲劳[color="
 
 # scripts/items/tools/throwing_net.nut
 # scripts/items/tools/reinforced_throwing_net.nut
@@ -72,7 +72,7 @@ msgstr "]20%[/color] 每回合(持续3回合)"
 
 # scripts/items/tools/acid_flask_item.nut
 msgid "Reduces the target's armor by [color="
-msgstr ""
+msgstr "减少目标[color="
 
 # scripts/items/tools/acid_flask_item.nut
 msgid "]33%[/color] chance to hit bystanders at the same or lower height level as well"
@@ -88,11 +88,11 @@ msgstr "闪光罐"
 
 # scripts/items/tools/daze_bomb_item.nut
 msgid "Will give up to [color="
-msgstr ""
+msgstr "会给最多[color="
 
 # scripts/items/tools/daze_bomb_item.nut
 msgid "]7[/color] targets the Dazed status effect for 2 turns"
-msgstr ""
+msgstr "]7[/color]目标晕眩状态影响, 持续 2 回合"
 
 # scripts/items/tools/daze_bomb_item.nut
 msgid "A throwable pot filled with mysterious powders that react violently on impact to create a bright flash and loud bang. Will daze anyone close by."
@@ -104,11 +104,11 @@ msgstr "火焰罐"
 
 # scripts/items/tools/fire_bomb_item.nut
 msgid "Will set [color="
-msgstr ""
+msgstr "会设置[color="
 
 # scripts/items/tools/fire_bomb_item.nut
 msgid "]7[/color] tiles ablaze with burning fire for 2 rounds"
-msgstr ""
+msgstr "]7[/color] 块燃烧2回合的火焰地砖"
 
 # scripts/items/tools/fire_bomb_item.nut
 msgid "A pot filled with highly flammable liquid that will set an area ablaze with fire when thrown."
@@ -120,7 +120,7 @@ msgstr "伤害[color="
 
 # scripts/items/tools/holy_water_item.nut
 msgid "weapon.holy Water"
-msgstr ""
+msgstr "武器.神圣之水"
 
 # scripts/items/tools/holy_water_item.nut
 msgid "Flask of Blessed Water"
@@ -136,7 +136,7 @@ msgstr "]100%[/color] 伤害忽视盔甲"
 
 # scripts/items/tools/holy_water_item.nut
 msgid "]3[/color] turns to any undead target hit"
-msgstr ""
+msgstr "]3[/color] 回合（只对不死族生效）"
 
 # scripts/items/tools/holy_water_item.nut
 msgid "]33%[/color] chance to hit bystanders at the same or lower height level as well."
@@ -152,11 +152,11 @@ msgstr "长柄武器，双手持"
 
 # scripts/items/tools/player_banner.nut
 msgid "Allies at a range of 4 tiles or less receive [color="
-msgstr ""
+msgstr "所有和你距离4格以内的盟友收到[color="
 
 # scripts/items/tools/player_banner.nut
 msgid "]10%[/color] of the Resolve of the character holding this standard as a bonus, up to a maximum of the standard bearer's Resolve."
-msgstr ""
+msgstr "]10%[/color]该旗帜的持有者的最高意志值加成，但加成后不会超过该旗帜的持有者的最高意志值。"
 
 # scripts/items/tools/player_banner.nut
 msgid "A company standard to take into battle. Held high, allies will rally around it with renewed resolve, and enemies will know well who is about to crush them."
@@ -180,11 +180,11 @@ msgstr "烟雾罐"
 
 # scripts/items/tools/smoke_bomb_item.nut
 msgid "Covers [color="
-msgstr ""
+msgstr "产生[color="
 
 # scripts/items/tools/smoke_bomb_item.nut
 msgid "]7[/color] tiles in smoke for one round, allowing anyone inside to move freely and ignore zones of control"
-msgstr ""
+msgstr "]7[/color]个单元格的烟雾(持续一回合)，使得里面的任何人可以自由移动并忽略控制区"
 
 # scripts/items/tools/smoke_bomb_item.nut
 msgid "A small pot that quickly creates a dense smoke cloud when broken on the ground. Useful for covering movement."

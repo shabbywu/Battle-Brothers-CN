@@ -5,12 +5,12 @@ msgstr ""
 # scripts/retinue/followers/cook_follower.nut
 # scripts/retinue/followers/bounty_hunter_follower.nut
 msgid "Have "
-msgstr ""
+msgstr "有"
 
 # scripts/retinue/followers/negotiator_follower.nut
 # scripts/retinue/followers/quartermaster_follower.nut
 msgid "Completed "
-msgstr ""
+msgstr "完成了。"
 
 # scripts/retinue/followers/agent_follower.nut
 msgid "The Agent"
@@ -38,7 +38,7 @@ msgstr "炼金术士"
 
 # scripts/retinue/followers/alchemist_follower.nut
 msgid "/15 items at the taxidermist"
-msgstr "/15 件物品"
+msgstr "/15 件物品在剥制屋"
 
 # scripts/retinue/followers/alchemist_follower.nut
 msgid "Has a 25% chance of not consuming any crafting component used by you"
@@ -54,7 +54,7 @@ msgstr "炼金术士 is knowledgeable in crafting all kinds of mysterious contra
 
 # scripts/retinue/followers/blacksmith_follower.nut
 msgid "Had "
-msgstr ""
+msgstr "有"
 
 # scripts/retinue/followers/blacksmith_follower.nut
 msgid "The Blacksmith"
@@ -66,7 +66,7 @@ msgstr "修复速度提高33%"
 
 # scripts/retinue/followers/blacksmith_follower.nut
 msgid "/5 items repaired at a town's smith"
-msgstr ""
+msgstr "/5件物品 在城镇的铁匠处修复了。"
 
 # scripts/retinue/followers/blacksmith_follower.nut
 msgid "Repairs all armor, helmets, weapons and shields worn by your men even if they're broken or lost because your man died"
@@ -82,7 +82,7 @@ msgstr "赏金猎人"
 
 # scripts/retinue/followers/bounty_hunter_follower.nut
 msgid "/3 named or legendary items in your possession"
-msgstr ""
+msgstr "/3个你拥有的命名或传说物品"
 
 # scripts/retinue/followers/bounty_hunter_follower.nut
 msgid "Pays between 300 and 750 crowns for every champion slain"
@@ -98,11 +98,11 @@ msgstr "这个穿着花哨的赏金猎人口袋里装满了最危险的人的合
 
 # scripts/retinue/followers/brigand_follower.nut
 msgid "Raided "
-msgstr ""
+msgstr "袭击 (Raided)"
 
 # scripts/retinue/followers/brigand_follower.nut
 msgid "/4 caravans"
-msgstr ""
+msgstr "/4 贸易队"
 
 # scripts/retinue/followers/brigand_follower.nut
 msgid "The Brigand"
@@ -138,7 +138,7 @@ msgstr "厨师"
 
 # scripts/retinue/followers/cook_follower.nut
 msgid "/8 different types of provisions"
-msgstr ""
+msgstr "/8 种不同类型的口粮"
 
 # scripts/retinue/followers/cook_follower.nut
 msgid "Increases hitpoint healing rate by 33%"
@@ -174,7 +174,7 @@ msgstr "教官 was a mercenary once, but an injury ended his career prematurely.
 
 # scripts/retinue/followers/lookout_follower.nut
 msgid "Discovered "
-msgstr ""
+msgstr "发现"
 
 # scripts/retinue/followers/lookout_follower.nut
 msgid "The Lookout"
@@ -182,7 +182,7 @@ msgstr "观察员"
 
 # scripts/retinue/followers/lookout_follower.nut
 msgid "/10 locations on your own"
-msgstr ""
+msgstr "/10个地点（独自完成）"
 
 # scripts/retinue/followers/lookout_follower.nut
 msgid "Increases your sight radius by 25%"
@@ -198,11 +198,11 @@ msgstr "拥有一名行动迅速目光敏锐的观察员在战队前面探路，
 
 # scripts/retinue/followers/minstrel_follower.nut
 msgid "Visited "
-msgstr ""
+msgstr "访问了"
 
 # scripts/retinue/followers/minstrel_follower.nut
 msgid " settlements"
-msgstr ""
+msgstr "定居点"
 
 # scripts/retinue/followers/minstrel_follower.nut
 msgid "The Minstrel"
@@ -222,7 +222,7 @@ msgstr "一首好歌和一个好故事在创造一个战队的声誉方面起着
 
 # scripts/retinue/followers/negotiator_follower.nut
 msgid "/15 contracts"
-msgstr ""
+msgstr "/15 合同"
 
 # scripts/retinue/followers/negotiator_follower.nut
 msgid "The Negotiator"
@@ -242,7 +242,7 @@ msgstr "谈判者 is home to noble courts and fancy halls, and not used to trave
 
 # scripts/retinue/followers/paymaster_follower.nut
 msgid "/16 men"
-msgstr ""
+msgstr "/16位队员"
 
 # scripts/retinue/followers/paymaster_follower.nut
 msgid "The Paymaster"
@@ -250,7 +250,7 @@ msgstr "出纳员"
 
 # scripts/retinue/followers/paymaster_follower.nut
 msgid "Have a roster of "
-msgstr ""
+msgstr "有一个名单的"
 
 # scripts/retinue/followers/paymaster_follower.nut
 msgid "Reduces the chance of desertion by 50%"
@@ -274,7 +274,7 @@ msgstr "军需官"
 
 # scripts/retinue/followers/quartermaster_follower.nut
 msgid "/5 caravan escort contracts"
-msgstr ""
+msgstr "/5 护送商队合同"
 
 # scripts/retinue/followers/quartermaster_follower.nut
 msgid "Increases the amount of ammunition you can carry by 100"
@@ -290,11 +290,11 @@ msgstr "凭借多年的商队旅行经验，军需官能够将任何装备、行
 
 # scripts/retinue/followers/recruiter_follower.nut
 msgid "/12 men"
-msgstr ""
+msgstr "/12名"
 
 # scripts/retinue/followers/recruiter_follower.nut
 msgid "Recruited "
-msgstr ""
+msgstr "已招募"
 
 # scripts/retinue/followers/recruiter_follower.nut
 msgid "The Recruiter"
@@ -334,7 +334,7 @@ msgstr "无论是你某个伙计的儿子，还是你拽进来的流浪儿，拾
 
 # scripts/retinue/followers/scout_follower.nut
 msgid "Won "
-msgstr ""
+msgstr "赢得了(Won)"
 
 # scripts/retinue/followers/scout_follower.nut
 msgid "The Scout"
@@ -342,7 +342,7 @@ msgstr "侦察员"
 
 # scripts/retinue/followers/scout_follower.nut
 msgid "/5 battles against beasts"
-msgstr ""
+msgstr "/5场野兽战斗"
 
 # scripts/retinue/followers/scout_follower.nut
 msgid "Prevents sickness and accidents due to terrain"
@@ -354,11 +354,11 @@ msgstr "使战队在任何地形上的旅行速度提高15%"
 
 # scripts/retinue/followers/scout_follower.nut
 msgid "The Scout is an expert in finding mountain passes, navigating through treacherous swamps, and guiding anyone safely through the darkest of forests."
-msgstr "侦察员 is an expert in finding mountain passes, navigating through treacherous swamps, and guiding anyone safely through the darkest of forests."
+msgstr ""
 
 # scripts/retinue/followers/surgeon_follower.nut
 msgid "Treated "
-msgstr ""
+msgstr "处理完成了 (Treated)"
 
 # scripts/retinue/followers/surgeon_follower.nut
 msgid "The Surgeon"
@@ -366,7 +366,7 @@ msgstr "外科医生"
 
 # scripts/retinue/followers/surgeon_follower.nut
 msgid "/5 men with injuries at a temple"
-msgstr ""
+msgstr "/5 名男子在寺庙受伤"
 
 # scripts/retinue/followers/surgeon_follower.nut
 msgid "Makes every injury take one less day to heal"
@@ -378,11 +378,11 @@ msgstr "使每一个没有永久性损伤的人都能在致命的打击中幸存
 
 # scripts/retinue/followers/surgeon_follower.nut
 msgid "The Surgeon is a walking tome of anatomical knowledge. A mercenary company seems the perfect place both to apply that knowledge in healing, but also to learn more about how the insides of men are made up."
-msgstr "外科医生 is a walking tome of anatomical knowledge. 雇佣兵战队似乎是一个完美的地方，既可以将这些知识应用于治疗，也可以更多地了解人类的内部构造。"
+msgstr "这位外科医生是解剖学知识的行家。雇佣兵战队似乎是一个完美的地方，既可以将这些知识应用于治疗，也可以更多地了解人类的内部构造。"
 
 # scripts/retinue/followers/trader_follower.nut
 msgid "Sold "
-msgstr ""
+msgstr "已售出(Sold)"
 
 # scripts/retinue/followers/trader_follower.nut
 msgid "The Trader"
@@ -390,7 +390,7 @@ msgstr "交易员"
 
 # scripts/retinue/followers/trader_follower.nut
 msgid "/25 trade goods"
-msgstr ""
+msgstr "/25 贸易物资"
 
 # scripts/retinue/followers/trader_follower.nut
 msgid "Increases the amount of trade goods for sale by 1 for each location that produces them, like salt near salt mines, allowing you to trade at higher volumes"
