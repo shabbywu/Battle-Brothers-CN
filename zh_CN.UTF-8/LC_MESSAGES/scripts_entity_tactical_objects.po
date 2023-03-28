@@ -84,7 +84,7 @@ msgstr "一颗小树。"
 # scripts/entity/tactical/objects/tree_stump2.nut
 # scripts/entity/tactical/objects/tree_stump3.nut
 msgid "Tree Stump"
-msgstr ""
+msgstr "树桩(Tree Stump)"
 
 # scripts/entity/tactical/objects/tree_stump1.nut
 # scripts/entity/tactical/objects/tree_stump2.nut
@@ -150,7 +150,7 @@ msgstr "绿皮立起来的雕像。"
 # scripts/entity/tactical/objects/tree_dead_steppe.nut
 # scripts/entity/tactical/objects/tree_olive_dry.nut
 msgid "Dead Tree"
-msgstr ""
+msgstr "死树(Dead Tree)"
 
 # scripts/entity/tactical/objects/tree_dead_steppe.nut
 # scripts/entity/tactical/objects/tree_olive_dry.nut
@@ -223,7 +223,7 @@ msgstr "在绿皮围攻下已无法使用。"
 
 # scripts/entity/tactical/objects/generic_object.nut
 msgid "mirror visible!"
-msgstr ""
+msgstr "镜子出现了！"
 
 # scripts/entity/tactical/objects/goblin_camp_brazier.nut
 msgid "Brazier"
@@ -323,7 +323,7 @@ msgstr "一棵柏树。 阻挡了移动和视线。"
 
 # scripts/entity/tactical/objects/tree_olive.nut
 msgid "Olive Tree"
-msgstr ""
+msgstr "橄榄树(Olive Tree)"
 
 # scripts/entity/tactical/objects/tree_olive.nut
 msgid "A large olive tree. Blocks movement and line of sight."

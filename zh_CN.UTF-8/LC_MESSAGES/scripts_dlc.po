@@ -4,304 +4,304 @@ msgstr ""
 
 # scripts/dlc/dlc_desert.nut
 msgid "The southern city states are built on the ruins of the Ancient Empire."
-msgstr ""
+msgstr "南方城邦是在古代帝国的废墟上建立起来的。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "An Ifrit is a demonic entity possessing rocks, stone and shifting sands."
-msgstr ""
+msgstr "伊弗利特是一种拥有石头、岩石和移动沙子的恶魔实体。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "Inventory full? Buy carts and wagons for your company in the Retinue screen."
-msgstr ""
+msgstr "背包已满？在战团界面购买手推车和货车。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "You unlock slots for your retinue of non-combat followers by gaining Renown."
-msgstr ""
+msgstr "你可以通过获得声望来解锁随从非战斗跟随者的位置。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "The Fire Lance is reloaded after every battle just like throwing weapons are."
-msgstr ""
+msgstr "火枪和投掷武器一样，每场战斗后都需要重新装填。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "Nomads are a southern people that are not subject to the rule of a city state."
-msgstr ""
+msgstr "游牧民族是一群不受城邦统治的南方人。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "Paying too much in wages? Hire a paymaster to reduce the wages you have to pay."
-msgstr ""
+msgstr "工资支出太多了吗？雇佣一名出纳员来减少您需要支付的工资。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "Smoke Pots can be used for a safe retreat even if your men are already locked in melee."
-msgstr ""
+msgstr "即使你的士兵已经陷入近战，烟雾弹也可以用于安全撤退。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "Hire non-combat followers for your retinue to customize your campaign to your playstyle."
-msgstr ""
+msgstr "雇佣非战斗跟随者加入你的随行人员，根据你的游戏风格定制你的战役。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "Mortars of the city states can only fire if an engineer is next to them to operate them."
-msgstr ""
+msgstr "城邦的迫击炮只有在有一名工程师在旁操作时才能开火。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "A Qatal Dagger is best used in combination with other weapons that can stun or daze opponents."
-msgstr ""
+msgstr "一把卡塔尔匕首最好与其他能够使敌人晕眩或眩晕的武器结合使用。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "The southern city states have made unparalleled advancements in medicine, astrology and alchemy."
-msgstr ""
+msgstr "南方城邦在医学、占星术和炼金术方面取得了空前的进步。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "The southerners call themselves 'Gilded' after their god, in whose shine they bask day in and out."
-msgstr ""
+msgstr "南方人以他们的神命名自己为“镀金者”，他们整日沐浴在神光之中。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "Training your new recruits takes too long? Hire a drill sergeant to have them gain experience faster."
-msgstr ""
+msgstr "训练新兵需要太长时间？雇佣一个军士长让他们更快地获得经验。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "Wondering who went there? Hire a Lookout and get more information on any footprints on the world map."
-msgstr ""
+msgstr "想知道谁去过那里？雇佣一个侦察兵，获取地图上任何足迹的更多信息。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "Arena matches offer a quick way to earn coin - but you can't retreat during matches or loot afterwards."
-msgstr ""
+msgstr "竞技场比赛是赚取克朗的快速方法，但是比赛中不能撤退或赛后拾取战利品。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "Try out different retinue followers to find those that complement your playstyle and chosen company origin."
-msgstr ""
+msgstr "尝试不同的侍从追随者，找到与您的游戏风格和选定的战团起源相匹配的人。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "Every fifth arena match offers the chance to win a piece of gladiator equipment that can't be bought otherwise."
-msgstr ""
+msgstr "每五场竞技场比赛中就有一场机会赢得一件无法通过购买获得的角斗士装备。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "The Handgonne takes a whole turn to reload - unless your character has the 'Crossbows & Firearms Mastery' perk."
-msgstr ""
+msgstr "手持火枪需要一整个回合才能重新装填 - 除非你的角色拥有“弩和火器掌握”专长。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "Facing too few enemy champions? Hire a bounty hunter to find more and even earn a bounty for every one you kill."
-msgstr ""
+msgstr "面对的敌方队长太少了吗？雇佣赏金猎人来寻找更多的目标，甚至可以为每个你杀死的敌方队长得到一份赏金。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "Always out of ammo and tools? Hire a scavenger to reclaim ammo you spent and gather tools from armor you destroyed."
-msgstr ""
+msgstr "总是没弹药和工具吗？雇佣一个清道夫来回收你使用过的弹药和从你摧毁的护甲中采集工具。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "With the 'Gladiators' origin you start with three powerful characters, but losing all three will end your campaign."
-msgstr ""
+msgstr "选择“角斗士”起源，你将开始拥有3个强大的角色，但失去全部3人将使你的战役结束。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "With the 'Manhunters' origin you can make prisoners after every battle against humans and force them to fight for you."
-msgstr ""
+msgstr "拥有“猎人”背景，你可以在每场与人类的战斗后俘虏他们，并迫使他们为你而战。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "Nomads are experts in desert warfare and using the environment to their advantage - including throwing it in your face."
-msgstr ""
+msgstr "游牧民族是沙漠战争和利用环境优势的专家，这包括向你的面部抛洒沙尘。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "Ferocious hyenas roam the southern deserts, with strong jaws that can crush even metal armor and inflict bleeding wounds."
-msgstr ""
+msgstr "凶猛的鬣狗在南方的沙漠漫游，它们有着强大的颚骨，可以咬碎甚至金属盔甲并造成出血伤口。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "Fire Pots can be used not just to inflict damage on your opponents, but also to deny them access to tiles and delay them."
-msgstr ""
+msgstr "火油罐不仅可以对对手造成伤害，而且还可以用来封锁格子和延迟对手行动。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "Losing named shields to orcs? Hire a blacksmith for your retinue and repair any item, even if its durability reaches zero."
-msgstr ""
+msgstr "被兽人击败拥有名字的盾牌？为你的战团雇一个铁匠，可以修复任何物品，即使它的耐久度降至零。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "Arena tournaments are special events with different rules. Fight with five men over three consecutive rounds and win a famed item!"
-msgstr ""
+msgstr "竞技场锦标赛是具有不同规则的特殊活动。在连续三轮中使用五名队员进行战斗，获胜即可得到一件著名物品！"
 
 # scripts/dlc/dlc_desert.nut
 msgid "The Handgonne is a ranged weapon that can hit up to 6 targets with a single attack, but has less range than either bows or crossbows."
-msgstr ""
+msgstr "手枪是一种远程武器，能够一次攻击最多击中6个目标，但是射程比弓箭或十字弓都要短。"
 
 # scripts/dlc/dlc_desert.nut
 msgid "The 'indebted' are a social caste of de-facto slaves in the city states, made up of criminals, prisoners of war and violators of religous dogma."
-msgstr ""
+msgstr "‘欠债人’是城市国家中的一种社会阶层，由罪犯、战俘和违犯宗教教义者组成，实质上是奴隶。"
 
 # scripts/dlc/dlc_paladins.nut
 msgid "With the 'Oathtakers' origin, instead of ambitions you'll pick oaths that grant special boons and burdens."
-msgstr ""
+msgstr "选择“宣誓者”出身，你将选择誓言而非抱负，以获得特殊的福利和负担。"
 
 # scripts/dlc/dlc_paladins.nut
 msgid "With the 'Anatomists' origin, defeating new enemies grants potions that mutate your men and grant them special abilities."
-msgstr ""
+msgstr "使用“解剖学家”起源，击败新的敌人将授予药剂，可以改变你的队员，使他们获得特殊能力。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Trees move slowly."
-msgstr ""
+msgstr "树移动缓慢。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Axes are particularly effective against trees."
-msgstr ""
+msgstr "斧头特别适合砍树。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Unholds can heal wounds quickly, even in combat."
-msgstr ""
+msgstr "不受限者可以在战斗中快速愈合伤口。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Alps are almost exclusively encountered at night."
-msgstr ""
+msgstr "阿尔卑斯山几乎只在夜间出现。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "There are different regional variants of the Unhold."
-msgstr ""
+msgstr "独眼巨人有不同的地区变种。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Two-handed maces excel in disabling single opponents."
-msgstr ""
+msgstr "双手狼牙棒在瘫痪单个对手方面表现出色。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Alps feed on the fear and agony of people having nightmares."
-msgstr ""
+msgstr "阿尔卑斯山怪物以那些做梦时感到害怕和痛苦的人的恐惧和痛苦为食。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Webknechts are more confident, the larger the group they are in."
-msgstr ""
+msgstr "蛛式骑士（Webknechts）的信心随着它们所在的队伍规模增大而增强。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "A Lindwurm is a wingless bipedal dragon resembling a large snake."
-msgstr ""
+msgstr "一只林德瓦姆(Lindwurm)是一种无翼二足龙，类似于一条大蛇。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Nachzehrers are found more often in the southern parts of the world."
-msgstr ""
+msgstr "食屍鬼在世界南部地区更为常见。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Explore the world to find legendary locations with legendary treasure."
-msgstr ""
+msgstr "探索世界，寻找传说中的地点和传奇宝藏。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Hexen are known to strike ill-omened deals that people come to regret."
-msgstr ""
+msgstr "女巫以达成令人后悔的神秘交易而著称。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Webknechts inflict additional damage to targets trapped in their webs."
-msgstr ""
+msgstr "Webknechts对于被困在它们的蛛网中的目标造成额外伤害。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "A Hexe can curse one of your men to suffer the same wounds as she does."
-msgstr ""
+msgstr "一个女巫可以诅咒你的一个士兵，让他遭受和她一样的伤口。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Overdosing on potions can lead to characters vomiting and getting sick."
-msgstr ""
+msgstr "过量服用药剂会导致角色呕吐和生病。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "A Hexe appears as a youthful lady with radiant beauty to those she enthralls."
-msgstr ""
+msgstr "一个被Hexe迷住的人看到的是一个年轻的容貌美丽的女人。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "A Schrat is a living tree, a being of bark and wood, with a mind truly alien."
-msgstr ""
+msgstr "一个树人(Schrat)是一棵活着的树，由树皮和木材组成的生命体，其思维方式十分陌生。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Fencing swords are most powerful in the hands of characters with high initiative."
-msgstr ""
+msgstr "具有高先攻属性的角色手持击剑剑最为强大。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Selling trophies from slain beasts can be lucrative. You can always get new ones."
-msgstr ""
+msgstr "出售击败野兽的战利品可以获得高额收益。你总是可以得到新的。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "The frozen wasteland of the north is home to a giant beast not seen anywhere else."
-msgstr ""
+msgstr "北方的冰原是一种巨兽的家园，其他地方都找不到它的踪影。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Use armor attachments to further improve and specialize the equipment of your men."
-msgstr ""
+msgstr "使用装甲附件来进一步改进和专门化你士兵的装备。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "The further away from civilization, the more dangerous the beasts that roam the land."
-msgstr ""
+msgstr "离文明地区越远，漫游土地的野兽就越危险。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Use throwing spears to destroy the shields of your most dangerous opponents from afar."
-msgstr ""
+msgstr "使用投掷长矛远程击破你最危险对手的盾牌。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Collect trophies from slain beasts and have the taxidermist craft useful items from them."
-msgstr ""
+msgstr "从被杀死的野兽身上收集奖杯，让制作动物标本的工匠为你制作有用的物品。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Potions, despite their colorful descriptions, are essentially drugs, and characters can get addicted to them."
-msgstr ""
+msgstr "药剂，尽管它们有着华丽的描述，本质上是毒品，角色可能会对它们上瘾。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "The Webknecht is a large arachnid that lives in sizable colonies in the dark areas of forests throughout the world."
-msgstr ""
+msgstr "Webknecht是一种大型蜘蛛，生活在世界各地森林的阴暗区域，并形成相当规模的群落。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "With the 'Beast Slayers' origin you'll have an easier time tracking beasts and get more trophies from any of those you slay."
-msgstr ""
+msgstr "选择“兽人猎手”起源后，你追踪野兽会更容易，并且你会从猎杀的每只野兽身上获得更多的战利品。"
 
 # scripts/dlc/dlc_wildmen.nut
 msgid "The north is inhabited by fierce barbarian tribes."
-msgstr ""
+msgstr "北方居住着凶猛的野蛮部落。"
 
 # scripts/dlc/dlc_wildmen.nut
 msgid "Slings inflict the 'Daze' status effect on a hit to the head."
-msgstr ""
+msgstr "投石索攻击头部可造成“眩晕”状态效果。"
 
 # scripts/dlc/dlc_wildmen.nut
 msgid "Try different origins to tailor your campaign to your play style."
-msgstr ""
+msgstr "尝试不同的起源来定制你的战役以适应你的游戏风格。"
 
 # scripts/dlc/dlc_wildmen.nut
 msgid "Barbarians look forward to meeting their ancestors in the afterlife."
-msgstr ""
+msgstr "蛮族人期望在来世与他们的祖先相遇。"
 
 # scripts/dlc/dlc_wildmen.nut
 msgid "With the 'Band of Poachers' origin you'll move faster on the worldmap."
-msgstr ""
+msgstr "选择'盗猎团'种族后，队伍在世界地图上移动速度更快。"
 
 # scripts/dlc/dlc_wildmen.nut
 msgid "With stones abundant everywhere, Slings will never run out of ammunition."
-msgstr ""
+msgstr "有着无数石头，投石器永远不会用光弹药。"
 
 # scripts/dlc/dlc_wildmen.nut
 msgid "Battle Whips can inflict bleeding wounds, but perform dismally against armor."
-msgstr ""
+msgstr "战鞭能够造成流血伤口，但对抗护甲效果低下。"
 
 # scripts/dlc/dlc_wildmen.nut
 msgid "With the 'Peasant Militia' origin you can take up to 16 men into battle at once."
-msgstr ""
+msgstr "选择“起义农民”这一背景，则你可以一次带领最多16名士兵参加战斗。"
 
 # scripts/dlc/dlc_wildmen.nut
 msgid "Northern warhounds are sturdier than southern wardogs, but not as quick and agile."
-msgstr ""
+msgstr "北方的战犬比南方的守卫犬更加结实，但不如敏捷。"
 
 # scripts/dlc/dlc_wildmen.nut
 msgid "With the 'Trading Caravan' origin you'll get better prices for both buying and selling."
-msgstr ""
+msgstr "如果选择了“贸易队商”起源，则你在买入和卖出物品时都能获得更好的价格。"
 
 # scripts/dlc/dlc_wildmen.nut
 msgid "Battle Whips can temporarily disarm opponents, preventing them from using weapon skills."
-msgstr ""
+msgstr "战斗鞭能够暂时解除对手的武器，阻止他们使用武器技能。"
 
 # scripts/dlc/dlc_wildmen.nut
 msgid "Barbarians often overwhelm their opponents at the start of battle, but quickly become fatigued."
-msgstr ""
+msgstr "蛮族常常在战斗开始时压倒对手，但很快就会疲惫不堪。"
 
 # scripts/dlc/dlc_wildmen.nut
 msgid "Scimitars and Shamshirs are more likely to inflict debilitating injuries when hitting a target."
-msgstr ""
+msgstr "匕首和弯刀在打击目标时更容易造成致残伤。"
 
 # scripts/dlc/dlc_wildmen.nut
 msgid "Beastmasters can not crack the whip to direct their beastly warmachines when adjacent to an enemy."
-msgstr ""
+msgstr "兽王不能在邻近敌人时使用鞭子指挥他们的野兽战争机器。"
 
 # scripts/dlc/dlc_wildmen.nut
 msgid "With the 'Lone Wolf' origin you'll have a player character in the world. If you die, the campaign ends."
-msgstr ""
+msgstr "如果你选择“孤狼”起源，则你将拥有一个玩家角色。如果你死了，这个游戏就结束了。"
 
 # scripts/dlc/dlc_wildmen.nut
 msgid "With the 'Cultists' origin your god will demand sacrifices from you, but also bestow boons upon those loyal to him."
-msgstr ""
+msgstr "选择“异教徒”出身，你的神将要求你献祭，但也会赐予那些忠诚于祂的人好处。"
 
 # scripts/dlc/dlc_wildmen.nut
 msgid "The rhythmic tribal beats of drummers reduce the fatigue of all barbarians on the field by a small amount each round."
-msgstr ""
+msgstr "鼓手有规律的部落节拍使得每回合所有野蛮人的疲劳值都少量降低。"
