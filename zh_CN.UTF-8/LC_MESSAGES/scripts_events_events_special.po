@@ -26,7 +26,7 @@ msgstr "露营时…"
 # scripts/events/events/special/dismiss_veteran_event.nut
 # scripts/events/events/special/dismiss_legend_event.nut
 msgid "You dismissed "
-msgstr ""
+msgstr "你解雇了"
 
 # scripts/events/events/special/helped_caravan_event.nut
 # scripts/events/events/special/oathtakers_confrontation_event.nut
@@ -53,7 +53,7 @@ msgstr ""
 
 # scripts/events/events/special/ambition_fulfilled_event.nut
 msgid " Fulfilled"
-msgstr ""
+msgstr "已完成"
 
 # scripts/events/events/special/ambition_fulfilled_event.nut
 msgid "An Ambition Fulfilled"
@@ -69,7 +69,7 @@ msgstr "对你的领导有信心"
 
 # scripts/events/events/special/ambition_fulfilled_event.nut
 msgid "You went above and beyond in fulfilling the Oath"
-msgstr ""
+msgstr "你在履行誓言方面做得非常出色。"
 
 # scripts/events/events/special/choose_ambition_event.nut
 msgid ""
@@ -157,7 +157,7 @@ msgstr "[img]gfx/ui/events/event_64.png[/img]%dismissed%的伤势实在太重了
 
 # scripts/events/events/special/dismiss_legend_event.nut
 msgid ", a legend of the company"
-msgstr ""
+msgstr "，该战团的传奇"
 
 # scripts/events/events/special/dismiss_legend_event.nut
 msgid "[img]gfx/ui/events/event_64.png[/img]The man you let go wasn't just a part of the company: he was a legend. Many knew %dismissed%'s name, not just yourself and a few mercenaries, and having him leave is akin to firing a heroic general before a war-ending battle. The decision, naturally, does not go over well with the rest of the sellswords."
@@ -165,7 +165,7 @@ msgstr "[img]gfx/ui/events/event_64.png[/img]这个你解雇的男人不只是�
 
 # scripts/events/events/special/dismiss_veteran_event.nut
 msgid ", a veteran of the company"
-msgstr ""
+msgstr "，该战团的老兵"
 
 # scripts/events/events/special/dismiss_veteran_event.nut
 msgid "[img]gfx/ui/events/event_64.png[/img]It was a tough decision, but you had to cut %dismissed% loose. However, it appears you should have consulted the rest of the men first for none of them are happy with your choice. The mercenary had been in the company long enough to make friends, and even those who weren't close to him still felt as though his place on the battlefield ensured their own safety."
@@ -197,7 +197,7 @@ msgstr "你失去了 "
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "It had to be this way."
-msgstr ""
+msgstr "这就是必然。"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "You've already chosen "
@@ -205,11 +205,11 @@ msgstr "你已经委派了 "
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "You're still not ready!"
-msgstr ""
+msgstr "你还没准备好！"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "We can't win this. No fight."
-msgstr ""
+msgstr "我们无法赢得这场战斗。放弃吧。"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "And death to the Oathbringers..."
@@ -221,7 +221,7 @@ msgstr "夺回了小安瑟姆的下颌骨"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "The company lost to Oathbringers"
-msgstr ""
+msgstr "战团输给了誓约者。"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid " stands ready to fight. Who shall join him?"
@@ -229,11 +229,11 @@ msgstr " 随时准备战斗。 谁能加入他？"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "You refused to fight Oathbringers, given the chance"
-msgstr ""
+msgstr "你有机会却拒绝与誓言守护者战斗。"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "You refused to fight Oathbringers, given multiple chances"
-msgstr ""
+msgstr "你拒绝对抗誓约者，且已经有多次机会。"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "I've selected everyone I wish to. Now defeat those Oathbringers!"
@@ -245,7 +245,7 @@ msgstr "去决斗。还有没有其他人可以帮助夺回小安瑟姆的下颌
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "{Represent us in this fight | Be our champion | Reclaim Anselm's jawbone | Kill these Oathbringers}, "
-msgstr ""
+msgstr "代表我们参与这场战斗 | 成为我们的冠军 | 夺回安瑟姆的颚骨 | 杀死这些誓言守护者，"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid ""
@@ -261,11 +261,11 @@ msgstr "[img]gfx/ui/events/event_180.png[/img]{The Oathbringers are back. One gr
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "[img]gfx/ui/events/event_180.png[/img]{The company is still not ready. You are worried that they will leave you entirely, infuriated as they are, but you'd rather they be pissed than flat dead in the ground. With the decision weighing on your heart, and the Oathbringers screaming insults into your ear, you have the company once again march from the fight.}"
-msgstr ""
+msgstr "\"[img]gfx/ui/events/event_180.png[/img]{战团还没有准备好。你担心他们会全部离开你，愤怒地离去，但你宁愿他们生气，也不愿看到他们躺在地下。心里沉重，听着队长的训话，你命令战团再次撤出战斗。}\" (注：此处根据上下文理解到 \"the Oathbringers\" 是队长，故没有进行翻译）"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "[img]gfx/ui/events/event_180.png[/img]{Against every fiber of your being, you turn the fight down. The reality is simple: the %companyname% is not ready for this battle. Unsurprisingly, the Oathtakers are not especially happy about this, and in fact show considerable concern that you would take a rare opportunity at slaying Oathbringers and piss all over it. As for the Oathbringers themselves, they laugh and crow at you as you leave.%SPEECH_ON%Young Anselm saw nothing good in you, Oathtakers! Your visions of him are a lie! Your whole existence is a lie! I'd say join us while you can, but we want nothing to do with you worms!%SPEECH_OFF%You pray that in the coming days you will be able to prove to your men that you made the right decision here.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_180.png[/img]{你的每一根神经都在反抗，但你还是拒绝了这场战斗。现实很简单： %companyname% 没有为这场战斗做好准备。毫不出奇地，誓言捍卫者并不特别高兴，事实上他们非常关心你会错过一次猎杀誓言布道者的机会。至于誓言布道者本身，在你离开时嘲笑着你。%SPEECH_ON%年轻的安塞姆(Anselm)看不到你的任何好处，誓言捍卫者们！你对他的幻象都是谎言！你们的整个存在都是谎言！我会说，在你们还能加入我们之前，加入我们吧，但我们不想和你们这些蠕虫有任何关系！%SPEECH_OFF%你祈祷在接下来的日子里，你能够向你的士兵证明你在这里做出了正确的决定。}"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "[img]gfx/ui/events/event_87.png[/img]{Two bodies on the ground, and a weight off your shoulders. But...you thought it would be different. Not that you are displeased with the results, such that the Oathbringers are no more, but there's something amiss. It is almost as if you put out a fire that threatened your home, only to realize those flames were the only warmth you had in a world of cold.%SPEECH_ON%Good riddance.%SPEECH_OFF%One of your men says and spits on the corpses. Staring at the dead, you realize you had become addicted to the hunt, addicted to the challenge, addicted to being strong. You weren't encumbered by a threat. You were weighted with purpose, and now it is gone. %randombrother% leans down and picks up Young Anselm's jawbone and hands it over. You take it and piece it to Young Anselm's skull. It fits with ease, almost as if even in its decay it had no reason to separate. The men cheer. They cheer the Oathtakers. They cheer your name. And they cheer for Young Anselm who in death has finally been made whole again. You take one last look at the Oathbringers and nod. They had a purpose, sure, but now it is fulfilled. May the old gods have mercy on their heathen souls.}"

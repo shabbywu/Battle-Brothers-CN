@@ -140,7 +140,7 @@ msgstr "勇敢的小家伙。"
 
 # scripts/events/events/dlc4/adopt_warhound_event.nut
 msgid "Warrior the Warhound"
-msgstr ""
+msgstr "勇士战猎犬"
 
 # scripts/events/events/dlc4/adopt_warhound_event.nut
 msgid "I'll call you 'Warrior'."
@@ -160,7 +160,7 @@ msgstr "给他个痛快的吧，让它从痛苦中解脱。"
 
 # scripts/events/events/dlc4/adopt_warhound_event.nut
 msgid "%houndman%, you've dealt with hounds before, right?"
-msgstr ""
+msgstr "%houndman%,，你以前处理过猎犬，是吗？"
 
 # scripts/events/events/dlc4/adopt_warhound_event.nut
 msgid "%terrainImage%{You reach out to the hound and it lifts it head to you as though you were another threat. Its eyes peer blackly from a long-matted mane that still drips with blood. The sheep, having seen what carnage this beast has already wrought, bay nervously as they watch you. But you won't be deterred. You put your hand forth, palm supinated, and the weary dog slowly lowers into it. You nod.%SPEECH_ON%There's more fight in you yet, friend.%SPEECH_OFF%}"
@@ -192,7 +192,7 @@ msgstr "%name% 加入了你，他从北方的部落中被驱逐出来，因为�
 
 # scripts/events/events/dlc4/barbarian_volunteer_event.nut
 msgid "%terrainImage%{Unlike the south, finding travelers on the northern 'roads' is often a cause for caution. You never know what monstrous man or beastly barbarian you'll come across next. This time it is a large man limping with a dog beside him. You draw your sword halfway out of its sheath and loud enough to gain his ear. The man looks up and his dog rears to the sudden yank of a leash. The northerner can speak a bit of your tongue.%SPEECH_ON%Ahh, fighters. I'm a fighter myself.%SPEECH_OFF%You ask why he is alone. He explains that his clan had a dispute, and that he was to duel another man to decide who would take control. You ask why he did not duel this man, you ask if he is afraid. The traveler shakes his head.%SPEECH_ON%No. The clansman was my brother. And I'd no desire to kill kin. They gave me this bitch here as both insult and reward and threw me from the tribe. I've no land or people to go to, but if you'd have me, I'd surely fight for you just as well as anyone else.%SPEECH_OFF%}"
-msgstr "%terrainImage%{与南方不同的是，在北方的“道路”上发现旅行者往往是一个需要谨慎的由头。 You never know what monstrous man or beastly barbarian you'll come across next. 这次是一个大块头男人一瘸一拐地走着，旁边有一条狗。 你把剑从剑鞘中抽出一半，声音大到足以吸引他的耳朵。 那人抬头一看，突然拉了一下皮带，他的狗受惊向后一靠。 这个北方人能说一点你的语言。%SPEECH_ON%啊,战士们。我自己也是个战士。%SPEECH_OFF%你问他为什么独自一人。 他解释说，他的部落发生了争执，他将与另一个人决斗，以决定谁将取得领导权。 你问他为什么不跟这个人决斗，你问他是否害怕。 旅行者摇了摇头。%SPEECH_ON%不。这个族人是我的兄弟。 我不想杀死我的亲人。 他们给了我这个婊子作为侮辱和奖励并把我赶出了部落。 我无家可归，但如果你收留我，我一定会像其他人一样为你而战。%SPEECH_OFF%}"
+msgstr "%terrainImage%{与南方不同的是，在北方的“道路”上发现旅行者往往是一个需要谨慎的由头。你永远不知道接下来会遇到什么怪物或野蛮野蛮人。这次是一个大块头男人一瘸一拐地走着，旁边有一条狗。 你把剑从剑鞘中抽出一半，声音大到足以吸引他的耳朵。 那人抬头一看，突然拉了一下皮带，他的狗受惊向后一靠。 这个北方人能说一点你的语言。%SPEECH_ON%啊,战士们。我自己也是个战士。%SPEECH_OFF%你问他为什么独自一人。 他解释说，他的部落发生了争执，他将与另一个人决斗，以决定谁将取得领导权。 你问他为什么不跟这个人决斗，你问他是否害怕。 旅行者摇了摇头。%SPEECH_ON%不。这个族人是我的兄弟。 我不想杀死我的亲人。 他们给了我这个婊子作为侮辱和奖励并把我赶出了部落。 我无家可归，但如果你收留我，我一定会像其他人一样为你而战。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc4/cultist_origin_armor_event.nut
 msgid ""
@@ -202,7 +202,7 @@ msgid ""
 msgstr ""
 "[img]gfx/ui/events/event_03.png[/img]{紧急情况影响了 %randomcultist%。他从聚会的营火旁站起来，大步跨过营地，退到帐篷里。 就是在那里，你看到他在工作，他的轮廓和影子在疯狂地抖动。 他不只是在那里：一些不明的曲线影子在他身边来来回回，达到了黑暗的极致，黑暗的触手，鞭笞和击打，使之配得上他的仪式所拥有的能量。 然后他就完事了，在他把什么东西拉到灯光之前，他的影子轮廓向前倒去。\n"
 "\n"
-" He leaves his tent with the sort of hurry with which he entered, but this time he has a piece of leather chest armor in hand. 他把它扔在地上。%SPEECH_ON%他即将降临到我们，兄弟们。%SPEECH_OFF%胸甲上有独特的切口，这些切口被排列成条状，对不相信的人来说，毫无意义。 对你来说，它不过是达库尔的一种语言。}"
+" 他离开帐篷的速度和进入帐篷时一样匆忙，但这次他手里拿着一件皮革胸甲。他把它扔在地上。%SPEECH_ON%他即将降临到我们，兄弟们。%SPEECH_OFF%胸甲上有独特的切口，这些切口被排列成条状，对不相信的人来说，毫无意义。 对你来说，它不过是达库尔的一种语言。}"
 
 # scripts/events/events/dlc4/cultist_origin_finale_event.nut
 msgid "You gain the "
@@ -238,11 +238,11 @@ msgstr "被剥夺了抚慰达库尔的机会"
 
 # scripts/events/events/dlc4/cultist_origin_finale_event.nut
 msgid "A grisly aspect of Davkul, an ancient power not from this world, and the last remnants of "
-msgstr ""
+msgstr "达库尔(Davkul)的一个可怕方面，这是来自异世界的古老力量，以及最后的遗迹。"
 
 # scripts/events/events/dlc4/cultist_origin_finale_event.nut
 msgid " from whose body it has been fashioned. It shall never break, but instead keep regrowing its scarred skin on the spot."
-msgstr " from whose body it has been fashioned. 它永远不会破裂，而是在原地不断地再生它那伤痕累累的皮肤。"
+msgstr " 是由身体制成的。它永远不会破裂，而是在原地不断地再生它那伤痕累累的皮肤。"
 
 # scripts/events/events/dlc4/cultist_origin_finale_event.nut
 msgid "[img]gfx/ui/events/event_33.png[/img]%cultist% enters your tent and a strong, brisk wind chases in after him, rearing up your scrolls and other notes. He walks forward, hands crossed before him, a rather priestly look to his approach.%SPEECH_ON%Sir, I've been spoken to and it is a grave matter which I've been given responsibility for.%SPEECH_OFF%You put your hand up and tell the man to be silent. Carefully, you reach out to each candle in the tent and snuff them out until one remains. You bring it to your face..."
@@ -268,7 +268,7 @@ msgstr ""
 "\n"
 "%sacrifice% 解开了他的衬衫扣子，%cultist% 刺穿了他的胸膛，就好像他把钥匙插进了锁里一样，他还是拧开了锁。 这种献祭让人喘不过气来，也让人紧张，因为任何对达库尔的忠诚都无法抛开死亡的可能，那是一种痛苦和折磨。 但他微笑着，眼中的光芒并没有很快消失，一种你从未见过的黑暗，取代了它。 就这样，他死了。\n"
 "\n"
-" %cultist% 开始在仍然温暖的尸体上工作，沿着皮肤和坚硬的肌肉把尸体上的肉快速切成薄片。 他把尸体的胸腔拉开。 刀锋的每一个动作都带着一团黑雾，似乎在每一个动作之后都欢快地摇摆着。 When %cultist% is done, %sacrifice% has been turned into a slab of armor, flesh torn asunder and stretched, teeth for rivets, tendons for strappings, bones for pauldrons, a cuirass of absolute carnage. 它像脉搏一样跳动着，好像它仍然有生命力一样。%cultist% 转向你，双手被鲜血染红了。%SPEECH_ON%达库尔即将降临到我们。%SPEECH_OFF%你点头并拥抱你的战友。"
+" %cultist% 开始在仍然温暖的尸体上工作，沿着皮肤和坚硬的肌肉把尸体上的肉快速切成薄片。 他把尸体的胸腔拉开。 刀锋的每一个动作都带着一团黑雾，似乎在每一个动作之后都欢快地摇摆着。当 %cultist% 完成后，%sacrifice% 变成了一块盔甲，肉体被撕裂和拉伸，牙齿变成了铆钉，肌腱变成了捆扎带，骨头变成了肩甲，一个绝对屠杀的胸甲。 它像脉搏一样跳动着，好像它仍然有生命力一样。%cultist% 转向你，双手被鲜血染红了。%SPEECH_ON%达库尔即将降临到我们。%SPEECH_OFF%你点头并拥抱你的战友。"
 
 # scripts/events/events/dlc4/cultist_origin_flock_event.nut
 msgid "Yes, join us."
@@ -284,7 +284,7 @@ msgstr "[img]gfx/ui/events/event_03.png[/img]{%randomcultist%，你的一个追�
 
 # scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
 msgid " is now "
-msgstr ""
+msgstr "现在是"
 
 # scripts/events/events/dlc4/cultist_origin_sacrifice_event.nut
 msgid "A reminder for us all."
@@ -326,7 +326,7 @@ msgstr ""
 
 # scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
 msgid " loses [color="
-msgstr ""
+msgstr "失去 [color="
 
 # scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.nut
 msgid "He awaits us all."
@@ -442,11 +442,11 @@ msgstr "我们可以用上像你们这样的战士。"
 
 # scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
 msgid " before he volunteered to join your company."
-msgstr ""
+msgstr "在他志愿加入你的战团之前。"
 
 # scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
 msgid "%name% deserted an army regiment together with "
-msgstr ""
+msgstr "%name% 和队伍（%company%）一起叛逃了"
 
 # scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
 msgid "Running from bounty hunters and executioners from some time, %name% bumped into your company on the road and promptly volunteered."
@@ -470,7 +470,7 @@ msgstr "这可不行。"
 
 # scripts/events/events/dlc4/drunk_nobleman_event.nut
 msgid " has suffered"
-msgstr ""
+msgstr "遭受了"
 
 # scripts/events/events/dlc4/drunk_nobleman_event.nut
 msgid "Leave him be."
@@ -486,7 +486,7 @@ msgstr "该上路了。"
 
 # scripts/events/events/dlc4/drunk_nobleman_event.nut
 msgid "Your relation to "
-msgstr ""
+msgstr "你与"
 
 # scripts/events/events/dlc4/drunk_nobleman_event.nut
 msgid "Rest easy, stranger."
@@ -568,7 +568,7 @@ msgstr "不了，谢谢。"
 
 # scripts/events/events/dlc4/horse_race_event.nut
 msgid " racing a horse"
-msgstr ""
+msgstr "骑马比赛"
 
 # scripts/events/events/dlc4/horse_race_event.nut
 msgid "Felt entertained by "
@@ -746,15 +746,15 @@ msgstr "[img]gfx/ui/events/event_82.png[/img]{你发现 %guard% 展示了不可�
 
 # scripts/events/events/dlc4/lone_wolf_origin_another_squire_event.nut
 msgid "Confused about his role as your squire"
-msgstr ""
+msgstr "对他作为你的侍从的角色感到困惑"
 
 # scripts/events/events/dlc4/lone_wolf_origin_another_squire_event.nut
 msgid "And to think I used to roam these lands alone..."
-msgstr ""
+msgstr "想想看，我曾经孤身一人在这片土地上漫游..."
 
 # scripts/events/events/dlc4/lone_wolf_origin_another_squire_event.nut
 msgid "[img]gfx/ui/events/event_64.png[/img]{%squire% comes up to you scratching the back of his head. He looks like he has something on his mind, and you prod him to let it out. Sighing, he asks why %squire2% was hired onto the company.%SPEECH_ON%He's a squire, I'm a squire, are we both your squires?%SPEECH_OFF%You inform the lad that %squire2% was squire to another man, but things changed in his life to lead him here. For all intents and purposes, he is a sellsword now and %squire% is indeed still your squire. %squire% lights up with a smile, but it quickly goes awry.%SPEECH_ON%Wait, does that mean I'm more sellsword than squire?%SPEECH_OFF%You press a ledger into the kid's chest and tell him to go count inventory.}"
-msgstr ""
+msgstr "[img]gfx/ui/events/event_64.png[/img]{[squire]走到你面前，揉着他的后脑勺。他看起来有事情不知该如何开口，你督促他吐露心事。他叹了口气，问为什么要雇佣[squire2]加入战团。%SPEECH_ON%他是侍从，而我也是侍从，那我们两个都是你的侍从吗？%SPEECH_OFF%你告诉他，[squire2]曾经是另一个人的侍从，但是生活发生了很多变化，最终他成为了一个自由雇佣兵。就事论事而言，[squire2]现在是一个自由雇佣兵，[squire]仍是你的侍从。[squire]露出微笑，但很快这开心的气氛就没了。%SPEECH_ON%等等，这是不是意味着我更像是一个自由雇佣兵而不是侍从？%SPEECH_OFF%你递给他一本账簿，让他去盘点库存。}"
 
 # scripts/events/events/dlc4/lone_wolf_origin_depressing_lady_event.nut
 msgid "This world is what I make of it."
@@ -766,7 +766,7 @@ msgstr "[img]gfx/ui/events/event_91.png[/img]{你在一个贵族的房子外面�
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid "the Squire"
-msgstr ""
+msgstr "侍从(the Squire)"
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid "I work alone."
@@ -782,7 +782,7 @@ msgstr "你能做什么？"
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid "You met %name% in "
-msgstr ""
+msgstr "你遇见了 %name% 在"
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid "Now I need a drink."
@@ -818,7 +818,7 @@ msgstr "[img]gfx/ui/events/event_20.png[/img]{这个男人站直了。%SPEECH_ON
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid "[img]gfx/ui/events/event_20.png[/img]{You ask the man his name. He swallows nervously.%SPEECH_ON%%squire%, sir.%SPEECH_OFF%You nod.%SPEECH_ON%Well alright then. I'll take ya with me.%SPEECH_OFF%He smiles.%SPEECH_ON%That's. That's it?%SPEECH_OFF%You nod.%SPEECH_ON%Yeah. That's it.%SPEECH_OFF%%squire% looks around.%SPEECH_ON%Well. Alright. What now?%SPEECH_OFF%You lean back against the stone steps.%SPEECH_ON%You follow me. Right now I'm gonna take another nap. If yer still around when I wake, well, then you've passed your first test. Defeating boredom.%SPEECH_OFF%The squire is grinning ear to ear. He's still there when you wake.}"
-msgstr "[img]gfx/ui/events/event_20.png[/img]{You ask the man his name. He swallows nervously.%SPEECH_ON%%squire%, sir.%SPEECH_OFF%You nod.%SPEECH_ON%Well alright then. I'll take ya with me.%SPEECH_OFF%He smiles.%SPEECH_ON%That's. That's it?%SPEECH_OFF%You nod.%SPEECH_ON%Yeah. That's it.%SPEECH_OFF%%squire% looks around.%SPEECH_ON%好吧。好的。 What now?%SPEECH_OFF%You lean back against the stone steps.%SPEECH_ON%You follow me. Right now I'm gonna take another nap. If yer still around when I wake, well, then you've passed your first test. Defeating boredom.%SPEECH_OFF%The squire is grinning ear to ear. He's still there when you wake.}"
+msgstr ""
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid ""
@@ -836,7 +836,7 @@ msgstr ""
 
 # scripts/events/events/dlc4/raiders_origin_redemption_event.nut
 msgid " improve"
-msgstr ""
+msgstr "改善"
 
 # scripts/events/events/dlc4/raiders_origin_redemption_event.nut
 msgid "Make it happen."
@@ -844,7 +844,7 @@ msgstr "让这个事成真。"
 
 # scripts/events/events/dlc4/raiders_origin_redemption_event.nut
 msgid "Your relations to "
-msgstr ""
+msgstr "你对于的关系"
 
 # scripts/events/events/dlc4/raiders_origin_redemption_event.nut
 msgid "]-2000[/color] Crowns"
@@ -856,7 +856,7 @@ msgstr "我们不必如此。"
 
 # scripts/events/events/dlc4/raiders_origin_redemption_event.nut
 msgid "Was bribed to have dealings with you"
-msgstr ""
+msgstr "被贿赂来与你打交道。"
 
 # scripts/events/events/dlc4/raiders_origin_redemption_event.nut
 msgid "Doing mercenary work for them would further mend relations."

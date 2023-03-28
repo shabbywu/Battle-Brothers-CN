@@ -1151,7 +1151,7 @@ msgstr "打开角色屏幕和查看战场兄弟的仓库。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "The name your mercenary company will be known by throughout the lands."
-msgstr "你的雇佣军公司的名字将在各地广为人知。。"
+msgstr "你的佣兵战团的名字将在各地广为人知。。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "The number of battles that the character fought in until their demise."

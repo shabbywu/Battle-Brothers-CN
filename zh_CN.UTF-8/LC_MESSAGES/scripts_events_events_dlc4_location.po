@@ -27,11 +27,11 @@ msgstr "做的很好，%chosen%。"
 
 # scripts/events/events/dlc4/location/icy_cave_enter_event.nut
 msgid "I need you to go in there, "
-msgstr ""
+msgstr "我需要你进去，"
 
 # scripts/events/events/dlc4/location/icy_cave_enter_event.nut
 msgid "I need you to scout ahead, "
-msgstr ""
+msgstr "我需要你去侦察前方，"
 
 # scripts/events/events/dlc4/location/icy_cave_enter_event.nut
 msgid "We should leave this place."
@@ -39,7 +39,7 @@ msgstr "我们应该离开这儿。"
 
 # scripts/events/events/dlc4/location/icy_cave_enter_event.nut
 msgid "You can take him, %chosen%!"
-msgstr ""
+msgstr "你可以把他打败，%chosen%！"
 
 # scripts/events/events/dlc4/location/icy_cave_enter_event.nut
 msgid "This isn't worth it. We should leave this place."
