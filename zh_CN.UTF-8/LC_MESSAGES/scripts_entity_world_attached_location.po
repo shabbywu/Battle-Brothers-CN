@@ -152,7 +152,7 @@ msgstr "狩猎时，猎人们住在这些小屋里。切碎的野味、鹿肉和
 
 # scripts/entity/world/attached_location/incense_dryer_location.nut
 msgid "Incense Dryer"
-msgstr ""
+msgstr "熏香炉(Incense Dryer)"
 
 # scripts/entity/world/attached_location/incense_dryer_location.nut
 msgid "Tree sap is gathered from the surrounding trees and dried in the sun to create valuable incense."
@@ -232,7 +232,7 @@ msgstr "一种只有最值得信赖的商人才能开采和运输贵重岩盐的
 
 # scripts/entity/world/attached_location/silk_farm_location.nut
 msgid "Silk Farm"
-msgstr ""
+msgstr "蚕丝农场 (Silk Farm)"
 
 # scripts/entity/world/attached_location/silk_farm_location.nut
 msgid "In these huts the precious silk is spun from cocoons of small insects by secret methods."

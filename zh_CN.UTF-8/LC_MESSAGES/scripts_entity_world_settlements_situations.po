@@ -247,23 +247,23 @@ msgstr "每年的这个时候，%settlement% 的神殿就像着火的窝棚一�
 
 # scripts/entity/world/settlements/situations/collectors_situation.nut
 msgid "Collectors"
-msgstr ""
+msgstr "收藏家(Collectors)"
 
 # scripts/entity/world/settlements/situations/collectors_situation.nut
 msgid "See this here dog tooth? I plan on selling it over in %settlement%, I heard they pay good coin for animal parts there."
-msgstr ""
+msgstr "你看这个犬齿？我计划拿到%selltement%去卖，听说他们那里给动物零件的价钱不错。"
 
 # scripts/entity/world/settlements/situations/collectors_situation.nut
 msgid "Several collectors seeking exotic curios have made their way into town. There's good coin to be made selling beast trophies and like here."
-msgstr ""
+msgstr "有几个寻求异国古董的收藏家来到镇上。在这里，出售野兽战利品能获得不错的收益。"
 
 # scripts/entity/world/settlements/situations/collectors_situation.nut
 msgid "Are you lot beast hunters? I've heard that some strange characters have shown up in %settlement% and are buying every exotic monster trophy they can find."
-msgstr ""
+msgstr "你们是猎兽人吗？我听说在%settlement%出现了一些奇怪的人，他们正在购买他们能找到的每一个奇异的怪物战利品。"
 
 # scripts/entity/world/settlements/situations/collectors_situation.nut
 msgid "It seems all sorts of beast slayers and corpse-pickers are gathering in %settlement%. Something about selling beast trophies, I heard. Sounds like witchcraft to me."
-msgstr ""
+msgstr "似乎各种讨伐野兽的人和捡尸者都聚集在%settlement%。我听说是为了出售野兽战利品。听起来有点像巫术。"
 
 # scripts/entity/world/settlements/situations/conquered_situation.nut
 msgid "Conquered"
@@ -679,11 +679,11 @@ msgstr "重建工作"
 
 # scripts/entity/world/settlements/situations/rebuilding_effort_situation.nut
 msgid "In an effort to rebuild the nearby "
-msgstr ""
+msgstr "为了重建附近的"
 
 # scripts/entity/world/settlements/situations/rebuilding_effort_situation.nut
 msgid ", building materials are in high demand and low supply."
-msgstr ""
+msgstr "，建筑材料需求量大，供应量少。"
 
 # scripts/entity/world/settlements/situations/rebuilding_effort_situation.nut
 msgid "In an effort to rebuild a nearby site, building materials are in high demand and low supply."
@@ -719,7 +719,7 @@ msgstr "随着战争的爆发，源源不断的难民涌入这个定居点。这
 
 # scripts/entity/world/settlements/situations/rich_veins_situation.nut
 msgid " had "
-msgstr ""
+msgstr "有"
 
 # scripts/entity/world/settlements/situations/rich_veins_situation.nut
 msgid "Rich Veins"
@@ -831,7 +831,7 @@ msgstr "喜欢我的草药项链吗？它保护我免受最严重的恶疾的侵
 
 # scripts/entity/world/settlements/situations/slave_revolt_situation.nut
 msgid " has a "
-msgstr ""
+msgstr "有一个"
 
 # scripts/entity/world/settlements/situations/slave_revolt_situation.nut
 msgid "Slave Revolt"
