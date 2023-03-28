@@ -334,7 +334,7 @@ msgstr "行动点"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Dealt [color="
-msgstr ""
+msgstr "成交 [color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "End Round (R)"

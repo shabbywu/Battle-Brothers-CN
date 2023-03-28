@@ -46,7 +46,7 @@ msgstr "]+5[/color] 决心"
 # scripts/skills/traits/huge_trait.nut
 # scripts/skills/traits/fat_trait.nut
 msgid "the Ox"
-msgstr ""
+msgstr "牛(the Ox)"
 
 # scripts/skills/traits/paranoid_trait.nut
 # scripts/skills/traits/sure_footing_trait.nut
@@ -69,14 +69,14 @@ msgstr "]+5[/color] 远程防御"
 # scripts/skills/traits/lucky_trait.nut
 # scripts/skills/traits/teamplayer_trait.nut
 msgid "Has a [color="
-msgstr ""
+msgstr "有一个[color="
 
 # scripts/skills/traits/strong_trait.nut
 # scripts/skills/traits/tough_trait.nut
 # scripts/skills/traits/brute_trait.nut
 # scripts/skills/traits/huge_trait.nut
 msgid "the Bull"
-msgstr ""
+msgstr "牛头人(the Bull)"
 
 # scripts/skills/traits/dastard_trait.nut
 # scripts/skills/traits/old_trait.nut
@@ -138,7 +138,7 @@ msgstr "]-5[/color] 近战防御"
 # scripts/skills/traits/weasel_trait.nut
 # scripts/skills/traits/craven_trait.nut
 msgid "the Coward"
-msgstr ""
+msgstr "胆小鬼(the Coward)"
 
 # scripts/skills/traits/cultist_disciple_trait.nut
 # scripts/skills/traits/cultist_prophet_trait.nut
@@ -150,13 +150,13 @@ msgstr "]+20[/color] 生命值"
 # scripts/skills/traits/weasel_trait.nut
 # scripts/skills/traits/fainthearted_trait.nut
 msgid "the Chicken"
-msgstr ""
+msgstr "那只鸡(the Chicken)"
 
 # scripts/skills/traits/strong_trait.nut
 # scripts/skills/traits/tough_trait.nut
 # scripts/skills/traits/huge_trait.nut
 msgid "the Bear"
-msgstr ""
+msgstr "熊(the Bear)"
 
 # scripts/skills/traits/irrational_trait.nut
 # scripts/skills/traits/paranoid_trait.nut
@@ -172,12 +172,12 @@ msgstr "]1[/color] 额外回合"
 # scripts/skills/traits/clubfooted_trait.nut
 # scripts/skills/traits/athletic_trait.nut
 msgid "Builds up [color="
-msgstr ""
+msgstr "[color="
 
 # scripts/skills/traits/bloodthirsty_trait.nut
 # scripts/skills/traits/deathwish_trait.nut
 msgid "the Mad"
-msgstr ""
+msgstr "疯子(the Mad)"
 
 # scripts/skills/traits/bloodthirsty_trait.nut
 # scripts/skills/traits/oath_of_wrath_trait.nut
@@ -187,7 +187,7 @@ msgstr "所有的杀戮都是残暴（如果武器允许的话）。"
 # scripts/skills/traits/cocky_trait.nut
 # scripts/skills/traits/brave_trait.nut
 msgid "the Brave"
-msgstr ""
+msgstr "勇士(the Brave)"
 
 # scripts/skills/traits/bright_trait.nut
 # scripts/skills/traits/oath_of_humility_trait.nut
@@ -202,7 +202,7 @@ msgstr "]-5[/color] 远程防御"
 # scripts/skills/traits/dastard_trait.nut
 # scripts/skills/traits/craven_trait.nut
 msgid "the Craven"
-msgstr ""
+msgstr "胆小者(the Craven)"
 
 # scripts/skills/traits/cultist_prophet_trait.nut
 # scripts/skills/traits/cultist_chosen_trait.nut
@@ -217,12 +217,12 @@ msgstr "奇怪的"
 # scripts/skills/traits/fearless_trait.nut
 # scripts/skills/traits/deathwish_trait.nut
 msgid "the Fearless"
-msgstr ""
+msgstr "无畏者(the Fearless)"
 
 # scripts/skills/traits/dumb_trait.nut
 # scripts/skills/traits/hesitant_trait.nut
 msgid "the Slow"
-msgstr ""
+msgstr "缓慢者(the Slow)"
 
 # scripts/skills/traits/dumb_trait.nut
 # scripts/skills/traits/oath_of_valor_trait.nut
@@ -237,12 +237,12 @@ msgstr "鹰眼"
 # scripts/skills/traits/gluttonous_trait.nut
 # scripts/skills/traits/fat_trait.nut
 msgid "the Swine"
-msgstr ""
+msgstr "猪人(the Swine)"
 
 # scripts/skills/traits/huge_trait.nut
 # scripts/skills/traits/fat_trait.nut
 msgid "the Mountain"
-msgstr ""
+msgstr "山(The Mountain)"
 
 # scripts/skills/traits/old_trait.nut
 # scripts/skills/traits/fat_trait.nut
@@ -277,12 +277,12 @@ msgstr "]+3[/color] 每回合疲劳恢复"
 # scripts/skills/traits/survivor_trait.nut
 # scripts/skills/traits/lucky_trait.nut
 msgid "the Lucky"
-msgstr ""
+msgstr "幸运者(the Lucky)"
 
 # scripts/skills/traits/survivor_trait.nut
 # scripts/skills/traits/lucky_trait.nut
 msgid "the Blessed"
-msgstr ""
+msgstr "蒙福者(the Blessed)"
 
 # scripts/skills/traits/old_trait.nut
 # scripts/skills/traits/short_sighted_trait.nut
@@ -327,19 +327,19 @@ msgstr "生病"
 
 # scripts/skills/traits/ailing_trait.nut
 msgid "the Pale"
-msgstr ""
+msgstr "苍白之地(the Pale)"
 
 # scripts/skills/traits/ailing_trait.nut
 msgid "the Ailing"
-msgstr ""
+msgstr "衰弱者(the Ailing)"
 
 # scripts/skills/traits/ailing_trait.nut
 msgid "the Sickly"
-msgstr ""
+msgstr "病弱者(the Sickly)"
 
 # scripts/skills/traits/ailing_trait.nut
 msgid "Poison effects last [color="
-msgstr ""
+msgstr "中毒效果持续时间[color="
 
 # scripts/skills/traits/ailing_trait.nut
 msgid "This character is always pale and sickly, which makes him particularly susceptible to poisons."
@@ -347,7 +347,7 @@ msgstr "这个人总是面色苍白，处于病态，这使他特别容易受毒
 
 # scripts/skills/traits/arena_fighter_trait.nut
 msgid "Arena Fighter"
-msgstr ""
+msgstr "角斗士(Arena Fighter)"
 
 # scripts/skills/traits/arena_fighter_trait.nut
 msgid "Hearing a crowd chant your name can be addicting. This character is starting to enjoy the deadly fights of the arena and dispatching his opponents in a way that entertains the crowds."
@@ -375,11 +375,11 @@ msgstr "这个角色刚刚把脚趾伸进角斗士的野蛮行当，并活着完
 
 # scripts/skills/traits/arena_veteran_trait.nut
 msgid "Arena Veteran"
-msgstr ""
+msgstr "竞技场老手(Arena Veteran)"
 
 # scripts/skills/traits/arena_veteran_trait.nut
 msgid "]50%[/color] chance to survive if struck down and not killed by a fatality"
-msgstr ""
+msgstr "]50%[/color]的几率在被致命攻击时存活"
 
 # scripts/skills/traits/arena_veteran_trait.nut
 msgid "A veteran of the arena with many a scar, this character knows how to make the crowd cheer for a bloody spectacle. The worse the odds of winning, the better the entertainment!"
@@ -407,7 +407,7 @@ msgstr "这个角色身体健康。"
 
 # scripts/skills/traits/athletic_trait.nut
 msgid "]2[/color] less Fatigue for each tile travelled"
-msgstr ""
+msgstr "]-2[/color] 疲劳值增量（每行走一格）"
 
 # scripts/skills/traits/bleeder_trait.nut
 msgid "Bleeder"
@@ -415,7 +415,7 @@ msgstr "出血"
 
 # scripts/skills/traits/bleeder_trait.nut
 msgid "Will receive bleeding damage for [color="
-msgstr ""
+msgstr "会受到流血伤害[color="
 
 # scripts/skills/traits/bleeder_trait.nut
 msgid "This character is prone to bleeding and will do so longer than most others."
@@ -443,7 +443,7 @@ msgstr "勇敢"
 
 # scripts/skills/traits/brave_trait.nut
 msgid "the Hero"
-msgstr ""
+msgstr "英雄(the Hero)"
 
 # scripts/skills/traits/brave_trait.nut
 msgid "Just keep on going. This character will bravely venture into the unknown."
@@ -455,7 +455,7 @@ msgstr "聪明"
 
 # scripts/skills/traits/bright_trait.nut
 msgid "the Fox"
-msgstr ""
+msgstr "狐狸(the Fox)"
 
 # scripts/skills/traits/bright_trait.nut
 msgid "the Wise"
@@ -467,7 +467,7 @@ msgstr "头脑灵活的人"
 
 # scripts/skills/traits/bright_trait.nut
 msgid "the Bright"
-msgstr ""
+msgstr "亮者(the Bright)"
 
 # scripts/skills/traits/bright_trait.nut
 msgid "This character has an easier time than most with grasping new concepts and adapting to the situation."
@@ -479,7 +479,7 @@ msgstr "野蛮"
 
 # scripts/skills/traits/brute_trait.nut
 msgid "the Hammer"
-msgstr ""
+msgstr "锤子(the Hammer)"
 
 # scripts/skills/traits/brute_trait.nut
 msgid "]+15%[/color] Damage on a hit to the head"
@@ -495,7 +495,7 @@ msgstr "畸足"
 
 # scripts/skills/traits/clubfooted_trait.nut
 msgid "]2[/color] more Fatigue for each tile travelled"
-msgstr ""
+msgstr "]+2[/color] 疲劳值增量（每行走一格）"
 
 # scripts/skills/traits/clubfooted_trait.nut
 msgid "Afflicted with clubfoot as a child, this character still has a harder time walking than most."
@@ -515,7 +515,7 @@ msgstr "自大"
 
 # scripts/skills/traits/cocky_trait.nut
 msgid "the Braggart"
-msgstr ""
+msgstr "吹牛者(the Braggart)"
 
 # scripts/skills/traits/cocky_trait.nut
 msgid "All too easy! This character can be a bit too cocky for his own good. "
@@ -527,11 +527,11 @@ msgstr "胆小"
 
 # scripts/skills/traits/craven_trait.nut
 msgid "Turncoat"
-msgstr ""
+msgstr "叛徒(Turncoat)"
 
 # scripts/skills/traits/craven_trait.nut
 msgid "the Spineless"
-msgstr ""
+msgstr "无脊者(the Spineless)"
 
 # scripts/skills/traits/craven_trait.nut
 msgid "]-10[/color] Resolve"
@@ -639,7 +639,7 @@ msgstr "不忠诚"
 
 # scripts/skills/traits/disloyal_trait.nut
 msgid "the Liar"
-msgstr ""
+msgstr "骗子(the Liar)"
 
 # scripts/skills/traits/disloyal_trait.nut
 msgid "I have to put myself first! This character is rather disloyal and will be fast to leave should you ever run out of crowns or provisions."
@@ -651,11 +651,11 @@ msgstr "酒鬼"
 
 # scripts/skills/traits/drunkard_trait.nut
 msgid "the Drunk"
-msgstr ""
+msgstr "醉汉(the Drunk)"
 
 # scripts/skills/traits/drunkard_trait.nut
 msgid "the Drunkard"
-msgstr ""
+msgstr "酒鬼(the Drunkard)"
 
 # scripts/skills/traits/drunkard_trait.nut
 msgid "]+10%[/color] Damage"
@@ -691,7 +691,7 @@ msgstr "有了老鹰的眼睛，这个角色可以在一百步之外看到一只
 
 # scripts/skills/traits/fainthearted_trait.nut
 msgid "the Meek"
-msgstr ""
+msgstr "温顺者(the Meek)"
 
 # scripts/skills/traits/fainthearted_trait.nut
 msgid "Fainthearted"
@@ -711,11 +711,11 @@ msgstr "肥胖"
 
 # scripts/skills/traits/fat_trait.nut
 msgid "the Fat"
-msgstr ""
+msgstr "肥人 (the Fat)"
 
 # scripts/skills/traits/fat_trait.nut
 msgid "the Pig"
-msgstr ""
+msgstr "猪（the Pig）"
 
 # scripts/skills/traits/fat_trait.nut
 msgid "This character is more interested in pork chops than exercising, and will run out of breath more easily."
@@ -775,11 +775,11 @@ msgstr "有着蛋壳般的体格，这家伙不是天生的打手。"
 
 # scripts/skills/traits/glorious_endurance_trait.nut
 msgid "Glorious Endurance"
-msgstr ""
+msgstr "荣耀耐力(Glorious Endurance)"
 
 # scripts/skills/traits/glorious_endurance_trait.nut
 msgid "Receives only [color="
-msgstr ""
+msgstr "仅接受[color="
 
 # scripts/skills/traits/glorious_endurance_trait.nut
 msgid "%[/color] of any damage"
@@ -795,15 +795,15 @@ msgstr "在南方的竞技场上锻造的这个角色已经打了很多仗，每
 
 # scripts/skills/traits/glorious_quickness_trait.nut
 msgid "Glorious Quickness"
-msgstr ""
+msgstr "荣耀迅捷(Glorious Quickness)"
 
 # scripts/skills/traits/glorious_quickness_trait.nut
 msgid "]1[/color] Action Point"
-msgstr ""
+msgstr "]1[/color] 行动点数"
 
 # scripts/skills/traits/glorious_quickness_trait.nut
 msgid "Upon killing an enemy on their turn, this character immediately regains [color="
-msgstr ""
+msgstr "当这个角色在他们的回合杀死一个敌人时，他们立即恢复[color="
 
 # scripts/skills/traits/glorious_quickness_trait.nut
 msgid "Forged in the arenas of the south, this character has fought many a battle, and is an expert in dispatching multiple opponents in a row. His fabulous lifestyle demands high pay, but he'll never desert you  and can't be dismissed. If all three original members should die, your campaign ends."
@@ -811,7 +811,7 @@ msgstr "在南方的竞技场上锻造的这个角色已经打了很多仗，是
 
 # scripts/skills/traits/glorious_resolve_trait.nut
 msgid "Glorious Resolve"
-msgstr ""
+msgstr "光荣决心(Glorious Resolve)"
 
 # scripts/skills/traits/glorious_resolve_trait.nut
 msgid "Re-roll every failed morale check for a second chance"
@@ -891,11 +891,11 @@ msgstr "巨大"
 
 # scripts/skills/traits/huge_trait.nut
 msgid "the Giant"
-msgstr ""
+msgstr "巨人 (the Giant)"
 
 # scripts/skills/traits/huge_trait.nut
 msgid "the Tower"
-msgstr ""
+msgstr "塔楼(the Tower)"
 
 # scripts/skills/traits/huge_trait.nut
 msgid "]+10%[/color] Melee Damage"
@@ -911,11 +911,11 @@ msgstr "不耐烦"
 
 # scripts/skills/traits/impatient_trait.nut
 msgid "the Eager"
-msgstr ""
+msgstr "渴望者(the Eager)"
 
 # scripts/skills/traits/impatient_trait.nut
 msgid "the Anxious"
-msgstr ""
+msgstr "担忧者(the Anxious)"
 
 # scripts/skills/traits/impatient_trait.nut
 msgid "Always acts first in the very first round of combat"
@@ -975,7 +975,7 @@ msgstr "]+10[/color] 或 [color="
 
 # scripts/skills/traits/irrational_trait.nut
 msgid "]-10[/color] Resolve randomly at every morale check"
-msgstr ""
+msgstr "]-10[/color] 意志力（每次士气检查时随机触发）"
 
 # scripts/skills/traits/irrational_trait.nut
 msgid "The glass is half empty now but was half full just a moment ago."
@@ -995,7 +995,7 @@ msgstr "忠诚的人"
 
 # scripts/skills/traits/loyal_trait.nut
 msgid "the Follower"
-msgstr ""
+msgstr "追随者(The Follower)"
 
 # scripts/skills/traits/loyal_trait.nut
 msgid "I'm with you! This character is loyal to the end and much less likely to leave you even if you run out of crowns and provisions."
@@ -1011,7 +1011,7 @@ msgstr "这个角色天生有在最后一秒摆脱伤害的天赋。"
 
 # scripts/skills/traits/lucky_trait.nut
 msgid "]10%[/color] chance to have any attacker require two successful attack rolls in order to hit"
-msgstr ""
+msgstr "]10%[/color] 的几率使所有攻击者需要进行两次成功的攻击才能命中"
 
 # scripts/skills/traits/mad_trait.nut
 msgid "Mad"
@@ -1027,7 +1027,7 @@ msgstr "免疫恐惧和精神控制"
 
 # scripts/skills/traits/mad_trait.nut
 msgid "]-15[/color] Resolve randomly at every morale check"
-msgstr ""
+msgstr "]-15[/color] 意志力（每次士气检查时随机触发）"
 
 # scripts/skills/traits/mad_trait.nut
 msgid "This character has gazed into the abyss, and the abyss has gazed right back at him, turning him quite mad. He often rambles unintelligibly, and his cryptic mind has become inaccessible both to his peers and to the enemy."
@@ -1059,11 +1059,11 @@ msgstr "有些角色比其他角色更适应弱光环境，这个人尤其擅长
 
 # scripts/skills/traits/oath_of_camaraderie_trait.nut
 msgid "Oath of Camaderie"
-msgstr ""
+msgstr "战友之誓(Oath of Camaderie)"
 
 # scripts/skills/traits/oath_of_camaraderie_trait.nut
 msgid "Will start combat at Wavering or Breaking morale"
-msgstr ""
+msgstr "将在动摇或崩溃士气时开始战斗。"
 
 # scripts/skills/traits/oath_of_camaraderie_trait.nut
 msgid "This character has taken an Oath of Camaraderie, and is sworn to stand and fall together with his allies. The general confusion of higher numbers on the battlefield, and the lack of focus on individual skill and personal glory has taken a toll on this character's resolve at the start of battle, however."
@@ -1075,19 +1075,19 @@ msgstr "超群誓言"
 
 # scripts/skills/traits/oath_of_distinction_trait.nut
 msgid "]0%[/color] Experience Gain for allied kills"
-msgstr ""
+msgstr "]0%[/color] 对盟友击杀获得经验"
 
 # scripts/skills/traits/oath_of_distinction_trait.nut
 msgid "]+10%[/color] damage if there are no allies in adjacent tiles"
-msgstr ""
+msgstr "]+10%[/color]伤害（如果相邻格没有盟友）"
 
 # scripts/skills/traits/oath_of_distinction_trait.nut
 msgid "]+10[/color] Resolve if there are no allies in adjacent tiles"
-msgstr ""
+msgstr "]+10[/color] 意志力（如果相邻格没有盟友）"
 
 # scripts/skills/traits/oath_of_distinction_trait.nut
 msgid "]+3[/color] Fatigue Regeneration per turn if there are no allies in adjacent tiles"
-msgstr ""
+msgstr "如果相邻格子中没有盟友：每回合+3[/color]疲劳值回复"
 
 # scripts/skills/traits/oath_of_distinction_trait.nut
 msgid "This character has taken an Oath of Distinction, and is sworn to seek his own victories without the support of allies."
@@ -1107,7 +1107,7 @@ msgstr "]+10[/color] 近战技能 when fighting beasts"
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
 msgid "]-10[/color] Resolve when not fighting beasts"
-msgstr ""
+msgstr "]-10[/color] 意志（对抗非野兽时）"
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
 msgid "]+10[/color] Ranged Skill when fighting beasts"
@@ -1147,7 +1147,7 @@ msgstr "]+5[/color] 远程防御"
 
 # scripts/skills/traits/oath_of_fortification_trait.nut
 msgid "Shield skills build up [color="
-msgstr ""
+msgstr "盾牌技能不断提升[color="
 
 # scripts/skills/traits/oath_of_fortification_trait.nut
 msgid "]+5[/color] Melee Defense and [color="
@@ -1155,19 +1155,19 @@ msgstr "]+5[/color] 近战防御和 [color="
 
 # scripts/skills/traits/oath_of_fortification_trait.nut
 msgid "]100%[/color] chance to Stagger on hits."
-msgstr ""
+msgstr "]100%[/color] 击中时使敌人失去平衡的几率。"
 
 # scripts/skills/traits/oath_of_fortification_trait.nut
 msgid "The 'Knock Back' shield skill has a [color="
-msgstr ""
+msgstr "“击退”盾牌技能具有[color="
 
 # scripts/skills/traits/oath_of_fortification_trait.nut
 msgid "The 'Shield Wall' shield skill has grants an additional [color="
-msgstr ""
+msgstr "‘盾墙’技能将会额外赋予[color="
 
 # scripts/skills/traits/oath_of_fortification_trait.nut
 msgid "Is focused on defense, and cannot move in the first round of combat"
-msgstr ""
+msgstr "专注于防御，在战斗的第一回合无法移动。"
 
 # scripts/skills/traits/oath_of_fortification_trait.nut
 msgid "This character has taken an Oath of Fortification, and is sworn to trust in his shield above all else."
@@ -1179,11 +1179,11 @@ msgstr "荣耀誓言"
 
 # scripts/skills/traits/oath_of_honor_trait.nut
 msgid "Cannot use ranged attacks or tools"
-msgstr ""
+msgstr "不能使用远程攻击或工具。"
 
 # scripts/skills/traits/oath_of_honor_trait.nut
 msgid "Starts combat at Confident morale if permitted by mood"
-msgstr ""
+msgstr "如果心情允许的话，以自信的士气开始战斗。"
 
 # scripts/skills/traits/oath_of_honor_trait.nut
 msgid "This character has taken an Oath of Honor, and is sworn to seize victory up close."
@@ -1211,7 +1211,7 @@ msgstr "]+10[/color] 近战技能 when fighting undead"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]-10[/color] Resolve when not fighting undead"
-msgstr ""
+msgstr "]-10[/color] 意志（非对抗不死族）"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]+10[/color] Ranged Skill when fighting undead"
@@ -1219,11 +1219,11 @@ msgstr "]+10[/color] 远程技能 when fighting undead"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]+5[/color] Melee Defense when fighting undead"
-msgstr ""
+msgstr "]+5[/color] 近战防御（对抗不死族）"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]+5[/color] Ranged Defense when fighting undead"
-msgstr ""
+msgstr "]+5[/color] 远程防御（对抗不死族）"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]-5[/color] Melee Skill when not fighting undead"
@@ -1235,11 +1235,11 @@ msgstr "]-5[/color] 远程技能 when not fighting undead"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]-5[/color] Melee Defense when not fighting undead"
-msgstr ""
+msgstr "]-5[/color] 近战防御（对抗非不死族）"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]-5[/color] Ranged Defense when not fighting undead"
-msgstr ""
+msgstr "]-5[/color] 远程防御（非对抗不死族）"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "This character has taken an Oath of Righteousness, and is sworn to put the living dead to their final rest."
@@ -1251,11 +1251,11 @@ msgstr "牺牲誓言"
 
 # scripts/skills/traits/oath_of_sacrifice_trait.nut
 msgid "Injuries do not heal"
-msgstr ""
+msgstr "受伤的部位无法愈合。"
 
 # scripts/skills/traits/oath_of_sacrifice_trait.nut
 msgid "Is not paid any wage"
-msgstr ""
+msgstr "没有支付任何工资。"
 
 # scripts/skills/traits/oath_of_sacrifice_trait.nut
 msgid "This character has taken an Oath of Sacrifice, and is sworn to forgo self-care to see the company succeed. Such drive takes a toll on physical well-being, however."
@@ -1267,7 +1267,7 @@ msgstr "英勇誓言"
 
 # scripts/skills/traits/oath_of_valor_trait.nut
 msgid "Will not flee in battle"
-msgstr ""
+msgstr "不会逃离战斗。"
 
 # scripts/skills/traits/oath_of_valor_trait.nut
 msgid "This character has taken an Oath of Valor, and is sworn to hold fast in battle at any cost."
@@ -1279,7 +1279,7 @@ msgstr "复仇誓言"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]+15[/color] Resolve when fighting greenskins"
-msgstr ""
+msgstr "]+15[/color] 意志（对抗绿皮）"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]+10[/color] Melee Skill when fighting greenskins"
@@ -1287,7 +1287,7 @@ msgstr "]+10[/color] 近战技能 when fighting greenskins"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]-10[/color] Resolve when not fighting greenskins"
-msgstr ""
+msgstr "]-10[/color] 意志（未对抗绿皮族）"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]+10[/color] Ranged Skill when fighting greenskins"
@@ -1295,11 +1295,11 @@ msgstr "]+10[/color] 远程技能 when fighting greenskins"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]+5[/color] Melee Defense when fighting greenskins"
-msgstr ""
+msgstr "]+5[/color] 近战防御（对抗兽人）"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]+5[/color] Ranged Defense when fighting greenskins"
-msgstr ""
+msgstr "]+5[/color] 远程防御（对抗绿皮族）"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]-5[/color] Melee Skill when not fighting greenskins"
@@ -1311,15 +1311,15 @@ msgstr "]-5[/color] 远程技能 when not fighting greenskins"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]-5[/color] Melee Defense when not fighting greenskins"
-msgstr ""
+msgstr "]-5[/color] 在非对抗绿皮族时的近战防御能力"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]-5[/color] Ranged Defense when not fighting greenskins"
-msgstr ""
+msgstr "]-5[/color] 远程防御（对抗非绿皮族）"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "This character has taken an Oath of Vengeance, and is sworn to battle the greenskin menace that plagues mankind."
-msgstr "This character has taken an 复仇誓言, and is sworn to battle the greenskin menace that plagues mankind."
+msgstr ""
 
 # scripts/skills/traits/oath_of_wrath_trait.nut
 msgid "Oath of Wrath"
@@ -1331,7 +1331,7 @@ msgstr "]-10[/color] 远程防御"
 
 # scripts/skills/traits/oath_of_wrath_trait.nut
 msgid "]+15%[/color] chance to hit when wielding a two-handed or double-gripped melee weapon"
-msgstr "]+15%[/color] 命中几率 when wielding a two-handed or double-gripped melee weapon"
+msgstr ""
 
 # scripts/skills/traits/oath_of_wrath_trait.nut
 msgid "This character has taken an Oath of Wrath, and is sworn to smite even the greatest foe."
@@ -1371,7 +1371,7 @@ msgstr "狂人"
 
 # scripts/skills/traits/paranoid_trait.nut
 msgid "the Paranoid"
-msgstr ""
+msgstr "多疑者(the Paranoid)"
 
 # scripts/skills/traits/paranoid_trait.nut
 msgid "]-30[/color] Initiative"
@@ -1439,11 +1439,11 @@ msgstr "强的"
 
 # scripts/skills/traits/strong_trait.nut
 msgid "the Big"
-msgstr ""
+msgstr "大个子(the Big)"
 
 # scripts/skills/traits/strong_trait.nut
 msgid "the Strong"
-msgstr ""
+msgstr "强者(the Strong)"
 
 # scripts/skills/traits/strong_trait.nut
 msgid "]+10[/color] Max Fatigue"
@@ -1479,11 +1479,11 @@ msgstr "幸存者"
 
 # scripts/skills/traits/survivor_trait.nut
 msgid "the Survivor"
-msgstr ""
+msgstr "幸存者(the Survivor)"
 
 # scripts/skills/traits/survivor_trait.nut
 msgid "]90%[/color] chance to survive if struck down and not killed by a fatality"
-msgstr ""
+msgstr "]90%[/color] 战斗中如果受到致命攻击但未死亡，则有幸存几率。"
 
 # scripts/skills/traits/survivor_trait.nut
 msgid "Why won't you just stay dead? This character is a survivor and will outlive most of his peers."
@@ -1495,7 +1495,7 @@ msgstr "迅捷"
 
 # scripts/skills/traits/swift_trait.nut
 msgid "Quickfeet"
-msgstr ""
+msgstr "敏足 (Quickfeet)"
 
 # scripts/skills/traits/swift_trait.nut
 msgid "the Swift"
@@ -1511,7 +1511,7 @@ msgstr "团队成员"
 
 # scripts/skills/traits/teamplayer_trait.nut
 msgid "]50%[/color] lower chance to inflict friendly fire"
-msgstr ""
+msgstr "]50%[/color] 友军误伤率降低"
 
 # scripts/skills/traits/teamplayer_trait.nut
 msgid "This character makes sure to always announce his intentions to his brothers-in-arms. In fact, he'll never shut the hell up. At least it reduces the chance of accidents happening."
@@ -1523,15 +1523,15 @@ msgstr "矮小"
 
 # scripts/skills/traits/tiny_trait.nut
 msgid "the Dwarf"
-msgstr ""
+msgstr "矮人(the Dwarf)"
 
 # scripts/skills/traits/tiny_trait.nut
 msgid "the Short"
-msgstr ""
+msgstr "矮人(the Short)"
 
 # scripts/skills/traits/tiny_trait.nut
 msgid "the Halfman"
-msgstr ""
+msgstr "半人（the Halfman）"
 
 # scripts/skills/traits/tiny_trait.nut
 msgid "]-15%[/color] Melee Damage"
@@ -1555,7 +1555,7 @@ msgstr "鼬鼠"
 
 # scripts/skills/traits/weasel_trait.nut
 msgid "the Eel"
-msgstr ""
+msgstr "鳗鱼 (the Eel)"
 
 # scripts/skills/traits/weasel_trait.nut
 msgid "the Weasel"

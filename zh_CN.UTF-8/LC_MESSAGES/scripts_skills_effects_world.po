@@ -60,7 +60,7 @@ msgstr "醉酒"
 
 # scripts/skills/effects_world/drunk_effect.nut
 msgid "Has a [color="
-msgstr ""
+msgstr "有一个[color="
 
 # scripts/skills/effects_world/drunk_effect.nut
 msgid "]+25%[/color] Resolve"

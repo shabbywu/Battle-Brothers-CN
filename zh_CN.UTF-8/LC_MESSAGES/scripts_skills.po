@@ -32,19 +32,19 @@ msgstr "太近"
 
 # scripts/skills/skill.nut
 msgid "[i]Costs "
-msgstr ""
+msgstr "[i]花费 "
 
 # scripts/skills/skill.nut
 msgid " (Chance: "
-msgstr ""
+msgstr "(几率:"
 
 # scripts/skills/skill.nut
 msgid " and hits "
-msgstr ""
+msgstr "并击中"
 
 # scripts/skills/skill.nut
 msgid ", Rolled: "
-msgstr ""
+msgstr ", 掷出： "
 
 # scripts/skills/skill.nut
 msgid "Shieldwall"
@@ -56,11 +56,11 @@ msgstr "包围"
 
 # scripts/skills/skill.nut
 msgid "[b][color="
-msgstr ""
+msgstr "[b][color="
 
 # scripts/skills/skill.nut
 msgid " and misses "
-msgstr ""
+msgstr "并且未命中。"
 
 # scripts/skills/skill.nut
 msgid " uses skill "
@@ -88,7 +88,7 @@ msgstr "处于恶劣地形"
 
 # scripts/skills/skill.nut
 msgid " has destroyed "
-msgstr ""
+msgstr "已摧毁了"
 
 # scripts/skills/skill.nut
 msgid "Height advantage"
@@ -96,7 +96,7 @@ msgstr "高度优势"
 
 # scripts/skills/skill.nut
 msgid "Inflicts [color="
-msgstr ""
+msgstr "造成[color="
 
 # scripts/skills/skill.nut
 msgid "Armed with shield"
@@ -104,7 +104,7 @@ msgstr "装备盾牌"
 
 # scripts/skills/skill.nut
 msgid "[/color] - [color="
-msgstr ""
+msgstr "[/color] - [color="
 
 # scripts/skills/skill.nut
 msgid "Height disadvantage"
@@ -116,7 +116,7 @@ msgstr "阻挡射击线"
 
 # scripts/skills/skill.nut
 msgid "]0[/color] - [color="
-msgstr ""
+msgstr "]0[/color] - [color="
 
 # scripts/skills/skill.nut
 msgid "Target on bad terrain"
@@ -124,7 +124,7 @@ msgstr "恶劣地形上的目标"
 
 # scripts/skills/skill.nut
 msgid "'s shield for 1 damage"
-msgstr ""
+msgstr "的盾牌受到1点伤害"
 
 # scripts/skills/skill.nut
 msgid "Immune to being rooted"
@@ -132,7 +132,7 @@ msgstr "免疫定身"
 
 # scripts/skills/skill.nut
 msgid "Immune to being disarmed"
-msgstr ""
+msgstr "免疫被缴械。"
 
 # scripts/skills/skill.nut
 msgid "[/color] damage to armor"
@@ -160,7 +160,7 @@ msgstr "[/color] 伤害(忽略护甲)"
 
 # scripts/skills/skill.nut
 msgid " and the shot goes astray and hits "
-msgstr ""
+msgstr "虽然子弹偏离了方向，但打中了"
 
 # scripts/skills/skill.nut
 msgid "Resistance against piercing attacks"
@@ -172,7 +172,7 @@ msgstr " AP[/color][/b] 并产生"
 
 # scripts/skills/skill.nut
 msgid " and the shot goes astray and misses "
-msgstr ""
+msgstr "但子弹偏离了目标，没有命中。"
 
 # scripts/skills/skill.nut
 msgid "Immune to being knocked back or hooked"
@@ -180,7 +180,7 @@ msgstr "免疫撞退或钩拉"
 
 # scripts/skills/skill.nut
 msgid "[/color] damage to hitpoints, of which [color="
-msgstr ""
+msgstr "[/color]伤害命中点数，其中[color="
 
 # scripts/skills/skill.nut
 msgid "]Can not be used because this character has taken an oath precluding the use of ranged weapons or tools[/color]"
@@ -188,11 +188,11 @@ msgstr "]不能使用，因为这个角色已经宣誓禁止使用远程武器�
 
 # scripts/skills/skill_container.nut
 msgid "Skill ["
-msgstr ""
+msgstr "技能 ["
 
 # scripts/skills/skill_container.nut
 msgid "] removed from ["
-msgstr ""
+msgstr "] 移除自 ["
 
 # scripts/skills/skill_container.nut
 msgid "# Showing skills of "
@@ -200,4 +200,4 @@ msgstr "# 显示的技能 "
 
 # scripts/skills/skill_container.nut
 msgid "# A = Active, P = Passive, H = Hidden"
-msgstr ""
+msgstr "# A = 主动, P = 被动, H = 隐藏"

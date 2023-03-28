@@ -8,15 +8,15 @@ msgstr "结束回合"
 
 # scripts/ui/screens/tactical/modules/turn_sequence_bar/turn_sequence_bar.nut
 msgid " Round(s)."
-msgstr ""
+msgstr "回合。"
 
 # scripts/ui/screens/tactical/modules/turn_sequence_bar/turn_sequence_bar.nut
 msgid " already exists.)"
-msgstr ""
+msgstr "已存在。)"
 
 # scripts/ui/screens/tactical/modules/turn_sequence_bar/turn_sequence_bar.nut
 msgid "Info: Battle ended after "
-msgstr ""
+msgstr "信息: 战斗结束时间为："
 
 # scripts/ui/screens/tactical/modules/turn_sequence_bar/turn_sequence_bar.nut
 msgid "]Too much fatigue![/color]"
@@ -28,11 +28,11 @@ msgstr "]行动点不足！[/color]"
 
 # scripts/ui/screens/tactical/modules/turn_sequence_bar/turn_sequence_bar.nut
 msgid "ERROR: Skill was clicked for an unknown entity!"
-msgstr ""
+msgstr "错误：对于未知的实体点击了技能！"
 
 # scripts/ui/screens/tactical/modules/turn_sequence_bar/turn_sequence_bar.nut
 msgid "ERROR: Skill cancel was clicked for an unknown entity!"
-msgstr ""
+msgstr "错误：未知实体点击了技能取消！"
 
 # scripts/ui/screens/tactical/modules/turn_sequence_bar/turn_sequence_bar.nut
 msgid "Have all your characters skip their turn until the next round starts?"

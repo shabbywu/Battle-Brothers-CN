@@ -4,7 +4,7 @@ msgstr ""
 
 # scripts/items/item.nut
 msgid "Worth nothing."
-msgstr ""
+msgstr "一文不值。"
 
 # scripts/items/item.nut
 msgid "Can be used to craft items"
@@ -12,68 +12,68 @@ msgstr "可用于制作物品"
 
 # scripts/items/item.nut
 msgid "Worth [img]gfx/ui/tooltips/money.png[/img][b]"
-msgstr ""
+msgstr "价值 [img]gfx/ui/tooltips/money.png[/img][b]"
 
 # scripts/items/item.nut
 msgid "Attempted to drop item, but no tile specified!"
-msgstr ""
+msgstr "试图丢弃物品，但并未指定位置！"
 
 # scripts/items/item_container.nut
 msgid "Could not add "
-msgstr ""
+msgstr "无法添加。"
 
 # scripts/items/item_container.nut
 msgid ", but is not equipped"
-msgstr ""
+msgstr ",但是未装备"
 
 # scripts/items/item_container.nut
 msgid "Attempted to add item "
-msgstr ""
+msgstr "尝试添加物品。"
 
 # scripts/items/item_container.nut
 msgid "# Showing inventory of "
-msgstr ""
+msgstr "# 展示库存"
 
 # scripts/items/item_container.nut
 msgid "Attempted to equip item "
-msgstr ""
+msgstr "尝试装备物品。"
 
 # scripts/items/item_container.nut
 msgid "Attempted to remove item "
-msgstr ""
+msgstr "尝试移除物品。"
 
 # scripts/items/item_container.nut
 msgid "Attempted to unequip item "
-msgstr ""
+msgstr "尝试卸下物品。"
 
 # scripts/items/item_container.nut
 msgid " from bag, but is placed somewhere else"
-msgstr ""
+msgstr "从背包中，但放置在其他地方。"
 
 # scripts/items/item_container.nut
 msgid " to bag because no empty slot was found"
-msgstr ""
+msgstr "到到背包，因为没有发现空槽位。"
 
 # scripts/items/item_container.nut
 msgid ", but it is already placed somewhere else"
-msgstr ""
+msgstr ", 但它已被放置在其他地方。"
 
 # scripts/items/item_container.nut
 msgid "Neither item is equipped, unable to swap!"
-msgstr ""
+msgstr "无法交换，没有装备任何物品！"
 
 # scripts/items/item_container.nut
 msgid " to bag slot which isn't empty or is locked"
-msgstr ""
+msgstr "到背包，该栏位不是空的或者被锁定。"
 
 # scripts/items/item_container.nut
 msgid "Attempted to remove item from empty bag slot"
-msgstr ""
+msgstr "尝试从空的背包插槽中移除物品。"
 
 # scripts/items/item_container.nut
 msgid " to bag, but is already placed somewhere else"
-msgstr ""
+msgstr "到背包, 单已经被放在其他地方了。"
 
 # scripts/items/item_container.nut
 msgid "Unable to swap, items don't use the same slot!"
-msgstr ""
+msgstr "无法交换，物品没有使用相同的槽位！"
