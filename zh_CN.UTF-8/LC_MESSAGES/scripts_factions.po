@@ -17,7 +17,7 @@ msgstr "竞技场"
 
 # scripts/factions/faction_manager.nut
 msgid "Enemy"
-msgstr ""
+msgstr "敌人"
 
 # scripts/factions/faction_manager.nut
 msgid "Undead"
@@ -25,7 +25,7 @@ msgstr "亡灵"
 
 # scripts/factions/faction_manager.nut
 msgid "Bandits"
-msgstr ""
+msgstr "土匪"
 
 # scripts/factions/faction_manager.nut
 msgid "Goblins"
@@ -33,7 +33,7 @@ msgstr "地精"
 
 # scripts/factions/faction_manager.nut
 msgid " cycles..."
-msgstr ""
+msgstr "周期..."
 
 # scripts/factions/faction_manager.nut
 msgid "Barbarians"
@@ -45,27 +45,27 @@ msgstr "死灵法师"
 
 # scripts/factions/faction_manager.nut
 msgid "Desert Raiders"
-msgstr ""
+msgstr "沙漠袭击者(Desert Raiders)"
 
 # scripts/factions/faction_manager.nut
 msgid "Running simulation for "
-msgstr ""
+msgstr "正在运行模拟 "
 
 # scripts/factions/faction_manager.nut
 msgid "STARTING GREATER EVIL - LIVE PHASE!"
-msgstr ""
+msgstr "启动巨大的邪恶-现场阶段！"
 
 # scripts/factions/faction_manager.nut
 msgid "STARTING GREATER EVIL - WARNING PHASE!"
-msgstr ""
+msgstr "开始魔王大军 - 警告阶段！"
 
 # scripts/factions/noble_faction.nut
 msgid "von "
-msgstr ""
+msgstr "冯·"
 
 # scripts/factions/noble_faction.nut
 msgid "House "
-msgstr ""
+msgstr "豪斯·"
 
 # scripts/factions/noble_faction.nut
 msgid "Changed sides in the war"
