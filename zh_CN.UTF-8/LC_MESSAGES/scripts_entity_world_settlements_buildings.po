@@ -92,6 +92,9 @@ msgid ""
 "\n"
 "[color=#bcad8c]\""
 msgstr ""
+"\n"
+"\n"
+"[color=#bcad8c]\""
 
 # scripts/entity/world/settlements/buildings/tavern_building.nut
 msgid "Got drunk with the company"
