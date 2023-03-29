@@ -1283,11 +1283,11 @@ msgstr "给被选中的新兵一个适当的测试，以揭示他隐藏的特性
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Your company lacks the renown necessary to hire more non-combat followers. Attain at least "
-msgstr "你的战队缺乏必要的声望来雇佣更多的非战斗追随者。 Attain at least "
+msgstr "你的战团名声不够，无法雇佣更多的非战斗跟随者。至少需要获得"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "[/color] more days at most. Keep in mind that individual provisions will eventually turn bad!"
-msgstr "[/color] more days at most. 记住，某些食物最终会变坏！"
+msgstr "[/color] 天最多。记住，某些食物最终会变质！"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid " The more body armor, the less damage will be applied to hitpoints on taking a hit to the body."
@@ -1341,7 +1341,7 @@ msgstr ""
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid " renown in order to unlock this seat. Gain renown by completing ambitions and contracts, as well as by winning battles."
-msgstr " renown in order to unlock this seat. 通过完成野心和合同以及赢得战斗而获得声望。"
+msgstr "声望以解锁此席位。通过完成野心和合同以及赢得战斗而获得声望。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "The hiring fee will be paid immediately on hiring a man for signing up and proving you can back up your words with coin."
@@ -1417,7 +1417,7 @@ msgstr "一个武器匠的工作室展示各种精心制作的武器。 损坏�
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Have your man learn valuable lessons and insights from a true veteran of the trade. The knowledge imparted will result in [color="
-msgstr "让你的人从一个真正的行业老手那里学到宝贵的经验和见解。 The knowledge imparted will result in [color="
+msgstr "让您的人从一位真正的行业老手那里学习有价值的课程和经验。所传授的知识将导致[color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Pause the active character's turn and move them to the end of the queue. Waiting this turn will also have you act later next round."
@@ -1555,11 +1555,11 @@ msgstr "游戏后期的第一场危机将是南北文化之间的圣战。 如�
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Have your man undergo a rigorous training regimen to shape him into a skilled fighter. The blood and sweat spent today will benefit him in the long run with [color="
-msgstr "让你的人接受严格的训练，把他塑造成一个熟练的战士。 The blood and sweat spent today will benefit him in the long run with [color="
+msgstr "让你的人接受严格的训练计划，将他打造成一个熟练的战士。今天所付出的血汗将会使他日后受益匪浅。[color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Have your man participate in a sparring fight with experienced opponents and various fighting styles. The bruises collected and lessons learned will result in [color="
-msgstr "让你的人与各种各样的战斗风格和经验丰富的对手进行战斗。 The bruises collected and lessons learned will result in [color="
+msgstr "让你的队员与有经验的对手进行练习战斗，并学习不同的战斗方式。所获得的挫伤和经验教训将会导致[color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid ""
@@ -1839,9 +1839,8 @@ msgid ""
 "\n"
 "Indebted characters are paid reparations instead for their time with the company. Other indebted will appreciate it if you pay these, but no one will react with anger if you don't."
 msgstr ""
-"支付与战队共度的报酬、酬金或养老金将使被解雇的人有尊严地离开战队，开始新的生活，并防止战队中的其他人对解雇感到愤怒。\n"
-"\n"
-"Indebted characters are paid reparations instead for their time with the company. Other indebted will appreciate it if you pay these, but no one will react with anger if you don't."
+"给被解雇者支付一笔赔偿金、酬金或是养老金，这有助于使他们离开公司时能够保有尊严并能够开启新的生活，同时也避免其他公司员工因解雇而产生的愤怒情绪。\n"
+"为负债的人支付赔偿金以弥补他们在公司工作的时间。其他负债者会感激你支付赔偿金，但如果你不支付，谁也不会因此而生气。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid ""

@@ -26,7 +26,7 @@ msgstr "在定居点提示栏中显示可用的合同和活动情况，无论你
 
 # scripts/retinue/followers/agent_follower.nut
 msgid "The Agent has eyes and ears everywhere and knows where to go for current events to take advantage of and well-paying contracts both."
-msgstr "事务官 has eyes and ears everywhere and knows where to go for current events to take advantage of and well-paying contracts both."
+msgstr "特工眼观六路，耳听八方，精通时事，以此找到机会并签订高薪合同。"
 
 # scripts/retinue/followers/alchemist_follower.nut
 msgid "Crafted "
@@ -50,7 +50,7 @@ msgstr "解锁“蛇油”配方，通过制作各种低层组件来赚钱"
 
 # scripts/retinue/followers/alchemist_follower.nut
 msgid "The Alchemist is knowledgeable in crafting all kinds of mysterious contraptions and concoctions from exotic ingredients when given access to taxidermist equipment, and uses less material to do so."
-msgstr "炼金术士 is knowledgeable in crafting all kinds of mysterious contraptions and concoctions from exotic ingredients when given access to taxidermist equipment, and uses less material to do so."
+msgstr "炼金术士拥有丰富的知识，可以使用特殊材料制造各种神秘的装置和药剂，只要他有使用制作工具的权限，并且更节省材料。"
 
 # scripts/retinue/followers/blacksmith_follower.nut
 msgid "Had "
@@ -74,7 +74,7 @@ msgstr "修理你手下所有的盔甲、头盔、武器和盾牌，即使它们
 
 # scripts/retinue/followers/blacksmith_follower.nut
 msgid "Mercenaries are good at getting arms and armor destroyed, but not at maintaining them. The Blacksmith will take care of this tedious task quickly and efficiently, and can mend even equipment otherwise thought lost."
-msgstr "雇佣兵擅长摧毁武器和盔甲，但不擅长维护它们。 铁匠 will take care of this tedious task quickly and efficiently, and can mend even equipment otherwise thought lost."
+msgstr "雇佣军很擅长破坏武器和盔甲，但并不擅长维护它们。铁匠能够快速高效地完成这项繁琐的任务，甚至可以修复其他被认为已经损坏的装备。"
 
 # scripts/retinue/followers/bounty_hunter_follower.nut
 msgid "The Bounty Hunter"
@@ -114,7 +114,7 @@ msgstr "使你能随时看到一些商队的位置，即使在你的视野之外
 
 # scripts/retinue/followers/brigand_follower.nut
 msgid "The Brigand may be old and weak now, but at one point his name was feared across the land. In exchange for a hot meal he happily shares with you what he learns from his contacts about caravans on the road."
-msgstr "强盗 may be old and weak now, but at one point his name was feared across the land. 作为一顿热饭的交换，他很高兴地和你分享他从朋友那里学到的关于路上商队的知识。"
+msgstr "这个强盗现在可能已经年迈力衰，但他早年的名字曾经在这片土地上威震一时。为了一顿热饭，他愉快地与你分享他从联系人那里了解到的关于路上押运队的情报。"
 
 # scripts/retinue/followers/cartographer_follower.nut
 msgid "The Cartographer"
@@ -130,7 +130,7 @@ msgstr "为你独自发现的每个地点支付100到400克朗。 离文明越�
 
 # scripts/retinue/followers/cartographer_follower.nut
 msgid "The Cartographer is a man of culture and knowledge, but he also realizes that traveling in the company of well-armed mercenaries is one of the best ways to safely see the world and explore places that few visited before."
-msgstr "制图师 is a man of culture and knowledge, but he also realizes that traveling in the company of well-armed mercenaries is one of the best ways to safely see the world and explore places that few visited before."
+msgstr "制图师是一位有着深厚文化底蕴和知识储备的人，但他也明白，与一群装备精良的雇佣军一起旅行是安全地探索前人未曾涉足之地的最佳方式。"
 
 # scripts/retinue/followers/cook_follower.nut
 msgid "The Cook"
@@ -150,7 +150,7 @@ msgstr "使所有的食物能多维持3天"
 
 # scripts/retinue/followers/cook_follower.nut
 msgid "A good warm meal goes a long way towards healing body and mind. The Cook makes sure that no provisions go to waste, and provides the men with invigorating meals."
-msgstr "一顿热乎乎的好饭对治愈身心大有帮助。 厨师 makes sure that no provisions go to waste, and provides the men with invigorating meals."
+msgstr "一顿热腾腾的饭菜对于恢复身心健康有很大帮助。 队长会确保没有粮食浪费，并为士兵们提供有力的补给。"
 
 # scripts/retinue/followers/drill_sergeant_follower.nut
 msgid "The Drill Sergeant"
@@ -170,7 +170,7 @@ msgstr "使你的人在1级时获得20%更多的经验，每提高一级就减�
 
 # scripts/retinue/followers/drill_sergeant_follower.nut
 msgid "The Drill Sergeant was a mercenary once, but an injury ended his career prematurely. Now he drills discipline into your men and yells a lot to make sure that everyone learns from their mistakes."
-msgstr "教官 was a mercenary once, but an injury ended his career prematurely. 现在他训练你的人遵守纪律，以大喊大叫的方式确保每个人都能从错误中吸取教训。"
+msgstr "军士长曾经是一名雇佣兵，但伤病使他的职业生涯过早结束。现在，他会训练你的士兵纪律，并大喊大叫以确保每个人都能从自己的错误中学习。"
 
 # scripts/retinue/followers/lookout_follower.nut
 msgid "Discovered "
@@ -218,7 +218,7 @@ msgstr "使酒馆谣言更有可能包含有用的信息"
 
 # scripts/retinue/followers/minstrel_follower.nut
 msgid "A good song and story play a large part in creating the reputation of a company. The Minstrel is a master of these crafts and will help to spread the word about your deeds to all ears - willing to hear them or not."
-msgstr "一首好歌和一个好故事在创造一个战队的声誉方面起着很大的作用。 吟游诗人 is a master of these crafts and will help to spread the word about your deeds to all ears - willing to hear them or not."
+msgstr "好的歌曲和故事在塑造一个公司的声誉中扮演着重要的角色。 吟游诗人是这些技能的大师，并将帮助传播你的事迹，无论听到它们的耳朵是否乐意。"
 
 # scripts/retinue/followers/negotiator_follower.nut
 msgid "/15 contracts"
@@ -238,7 +238,7 @@ msgstr "允许与潜在雇主进行更多轮的合同谈判，而且不会对关
 
 # scripts/retinue/followers/negotiator_follower.nut
 msgid "The Negotiator is home to noble courts and fancy halls, and not used to travelling with a band of sellswords with muddy boots, but he is an expert on traversing the mire of social relations and contract negotiations."
-msgstr "谈判者 is home to noble courts and fancy halls, and not used to travelling with a band of sellswords with muddy boots, but he is an expert on traversing the mire of social relations and contract negotiations."
+msgstr "谈判家的家是高贵的法院和华丽的大厅，并不习惯与一群身穿泥泞靴的佣兵一起旅行，但他是社交关系和合同谈判的专家。"
 
 # scripts/retinue/followers/paymaster_follower.nut
 msgid "/16 men"
@@ -266,7 +266,7 @@ msgstr "每人每日工资减少15%"
 
 # scripts/retinue/followers/paymaster_follower.nut
 msgid "The Paymaster takes care of all the day-to-day financial and organizational aspects of running a mercenary company, like paying out wages."
-msgstr "出纳员 takes care of all the day-to-day financial and organizational aspects of running a mercenary company, like paying out wages."
+msgstr "出纳员负责所有日常财务和组织方面的事务, 如支付工资。"
 
 # scripts/retinue/followers/quartermaster_follower.nut
 msgid "The Quartermaster"
@@ -310,7 +310,7 @@ msgstr "让每个定居点可以招募的新兵额外增加2到4人"
 
 # scripts/retinue/followers/recruiter_follower.nut
 msgid "The Recruiter is a sleazy jawsmith that tricks desperate people into joining a mercenary company to escape their poor lives, only to find their demise. Quite useful for anyone running a mercenary company."
-msgstr "招募者 is a sleazy jawsmith that tricks desperate people into joining a mercenary company to escape their poor lives, only to find their demise. 对任何经营雇佣兵战队的人都很有用。"
+msgstr "招募者是个令人讨厌的口吃之人，他会欺骗那些绝望的人们加入佣兵公司来脱离贫困的生活，结果只能步入死亡。对于任何经营佣兵团的人来说都是非常有用的。"
 
 # scripts/retinue/followers/scavenger_follower.nut
 msgid "Have a heart"

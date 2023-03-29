@@ -132,7 +132,7 @@ msgstr "这个角色的盔甲被喷上了林德沃姆的酸液，现在它正在
 # scripts/skills/effects/alp_potion_effect.nut
 # scripts/skills/effects/night_vision_effect.nut
 msgid "Not affected by nighttime penalties"
-msgstr "不受夜间影响 penalties"
+msgstr "不受夜间惩罚影响。"
 
 # scripts/skills/effects/orc_berserker_potion_effect.nut
 # scripts/skills/effects/berserker_rage_effect.nut
@@ -481,7 +481,7 @@ msgstr "他因其不自然的生理机能而迅速从被缴械中恢复。"
 
 # scripts/skills/effects/disarmed_effect.nut
 msgid "[/color] more turn(s) and is unable to use any weapon skills. Switching to a different weapon will remove this effect immediately."
-msgstr "[/color] more turn(s) and is unable to use any weapon skills. 换一个武器会立即消除这种效果。"
+msgstr "[/color] 还有更多回合的时间，无法使用任何武器技能。更换武器将立即消除此效果。"
 
 # scripts/skills/effects/distracted_effect.nut
 msgid "Distracted"
@@ -517,11 +517,11 @@ msgstr "双重打击!"
 
 # scripts/skills/effects/double_strike_effect.nut
 msgid "Having just landed a hit, this character is ready to perform a powerful followup strike! The next attack will inflict [color="
-msgstr "刚刚命中，这个角色准备执行一个强大的后续打击！ The next attack will inflict [color="
+msgstr "这个角色刚刚命中了一次打击，准备施展强大的续击！下一次攻击将造成[color="
 
 # scripts/skills/effects/double_strike_effect.nut
 msgid "]+20%[/color] damage to a single target. If multiple targets are hit, only the first one will receive increased damage. If the attack misses, the effect is wasted."
-msgstr "]+20%[/color] damage to a single target. 如果击中多个目标，只有第一个目标会受到更大的伤害。 If the attack misses, the effect is wasted."
+msgstr "]+20%[/color] 对单个目标造成伤害。如果攻击有多个目标，只有第一个会受到增加的伤害。如果攻击未命中，效果会浪费。"
 
 # scripts/skills/effects/drums_of_war_effect.nut
 msgid "Drums of War"
@@ -545,7 +545,7 @@ msgstr "应激动能分泌"
 
 # scripts/skills/effects/geist_potion_effect.nut
 msgid "]5%[/color] of damage ignores armor when using melee weapons"
-msgstr "]5%[/color] 伤害忽视盔甲 when using melee weapons"
+msgstr "]5%[/color] 的伤害在使用近战武器时无视护甲"
 
 # scripts/skills/effects/geist_potion_effect.nut
 msgid "This character is able to secrete a substance that vibrates rapidly when stimulated. When applied to weapons, this creates a strong kinetic force that aids in armor penetration."
@@ -573,7 +573,7 @@ msgstr "突变角膜"
 
 # scripts/skills/effects/goblin_overseer_potion_effect.nut
 msgid "]5%[/color] of damage ignores armor when using bows or crossbows"
-msgstr "]5%[/color] 伤害忽视盔甲 when using bows or crossbows"
+msgstr "]5%[/color]的伤害无视护甲（使用弓或弩）"
 
 # scripts/skills/effects/goblin_overseer_potion_effect.nut
 msgid "This character's eyes have been permanently mutated and are now capable of detecting the subtlest movements of wind and air. While minor on its own, this allows them to better predict the trajectory of projectile attacks and better land hits on vulnerable parts of a target."
@@ -585,7 +585,7 @@ msgstr "[/color] 视野"
 
 # scripts/skills/effects/goblin_poison_effect.nut
 msgid "This character has poison running through his veins. His vision is blurred, his speech slurred and it takes a great deal of effort for him to move in a coordinated fashion. The effect will slowly wear off over [color="
-msgstr "这个角色的血管里流淌着毒素。他的视力模糊，说话含糊不清，要协调一致地行动需要很大的努力。 The effect will slowly wear off over [color="
+msgstr "这个角色被毒素侵袭。他的视野模糊，口齿不清，移动时需要付出大量努力才能协调。效果会在[color= 后逐渐消退。"
 
 # scripts/skills/effects/goblin_shaman_potion_effect.nut
 msgid "Hyperactive Sweat Glands"
@@ -749,7 +749,7 @@ msgstr "用他的非自然生理学驱赶昆虫"
 
 # scripts/skills/effects/insect_swarm_effect.nut
 msgid "A thousand black flies buzz around this character, trying to crawl into every small opening of armor, into every orifice of the body. A terrible curse that makes it nigh impossible to fight for [color="
-msgstr "一千只黑蝇在这个角色周围嗡嗡作响，试图爬进盔甲的每一个小孔，爬进身体的每一个孔。 A terrible curse that makes it nigh impossible to fight for [color="
+msgstr "这个人周围有成千的黑蝇嗡嗡作响，试图爬进盔甲的每一个小洞口，每一个身体的开口处。一个可怕的诅咒，几乎不可能战斗 [/color]（%对抗效果%)。"
 
 # scripts/skills/effects/iron_will_effect.nut
 msgid "Iron Will"
@@ -777,7 +777,7 @@ msgstr "这个角色正在进行杀戮狂暴，伤害加成[color="
 
 # scripts/skills/effects/killing_frenzy_effect.nut
 msgid "[/color] more turn(s). Killing another opponent will refresh the killing frenzy for a 2 turn duration."
-msgstr "[/color] more turn(s). 杀死另一个对手将使杀戮狂暴继续持续2回合。"
+msgstr "[/color] 更多回合。杀死另一个对手将刷新杀戮狂乱状态持续 2 回合。"
 
 # scripts/skills/effects/kraken_ensnare_effect.nut
 msgid "This character is entangled in a giant tentacle, drawing them ever closer to a gaping maw that threatens to devour them whole."
@@ -785,7 +785,7 @@ msgstr "这个角色被一个巨大的触角缠住，把他们拉近了一个张
 
 # scripts/skills/effects/kraken_ensnare_effect.nut
 msgid "This character is entangled in a giant tentacle, drawing them ever closer to a gaping maw that threatens to devour them whole. Each turn, the tentacle threatens to crush them by gripping ever tighter, resulting in the loss of [color="
-msgstr "这个角色被一个巨大的触角缠住，把他们拉近了一个张开的大口，威胁着要把他们整个吞没。 Each turn, the tentacle threatens to crush them by gripping ever tighter, resulting in the loss of [color="
+msgstr "这个角色被一只巨大的触须缠住，将它拉得越来越接近一个威胁要将它吞噬的大嘴巴。每个回合，触须都威胁着通过越来越紧的抓握来它压扁，导致失去[color="
 
 # scripts/skills/effects/kraken_potion_effect.nut
 msgid "Ascendant Flesh"
@@ -961,7 +961,7 @@ msgstr "这个角色被非自然的噩梦吞噬，无法行动。 当恐怖吞�
 
 # scripts/skills/effects/nightmare_effect.nut
 msgid "[/color] damage based on his resolve each turn. The character can be forcibly awoken from these nightmares by a nearby ally, but he won't wake up on his own."
-msgstr "[/color] damage based on his resolve each turn. 这个角色可以被附近的盟友从噩梦中强行唤醒，但他不会自己醒来。"
+msgstr "[/color] 每回合基于他的决心值造成伤害。角色可以被附近的盟友强制唤醒，但他自己不会醒来。"
 
 # scripts/skills/effects/nine_lives_effect.nut
 msgid "Nine Lives"
@@ -1065,11 +1065,11 @@ msgstr "这个角色已经被一系列的攻击所压制，无法有效地进行
 
 # scripts/skills/effects/poison_coat_effect.nut
 msgid "This character is using a weapon coated with poison. The next few hits doing at least [color="
-msgstr "这个角色使用的是一种带毒的武器。 The next few hits doing at least [color="
+msgstr "这个角色正在使用涂有毒药的武器。接下来的几次攻击造成至少[color="
 
 # scripts/skills/effects/poison_coat_effect.nut
 msgid "[/color] damage to hitpoints will apply it. Targets affected will have blurred vision and a hard time moving in a coordinated fashion until the effect has faded."
-msgstr "[/color] damage to hitpoints will apply it. 受影响的目标视觉模糊，难以协调移动，直到效果消失。"
+msgstr "[/color]伤害将应用于生命值。 受影响的目标视野模糊，行动不协调，直到效果消失。"
 
 # scripts/skills/effects/possessed_undead_effect.nut
 msgid "Possessed"
@@ -1162,7 +1162,7 @@ msgstr "该角色的腿部基因突变，可以更快、更强力地响应外部
 
 # scripts/skills/effects/serpent_ensnare_effect.nut
 msgid "This character is entangled in a giant serpent. Each turn, the serpent threatens to crush them by gripping ever tighter, resulting in the loss of [color="
-msgstr "这个角色被一条巨大的大蛇缠住了。 Each turn, the serpent threatens to crush them by gripping ever tighter, resulting in the loss of [color="
+msgstr "这个角色被一条巨大的蛇缠住了。每回合，这条蛇都会威胁着越来越紧地抓紧他们，导致失去[color="
 
 # scripts/skills/effects/serpent_potion_effect.nut
 msgid "Enhanced Opportunism"
@@ -1174,7 +1174,7 @@ msgstr "获得额外的[color="
 
 # scripts/skills/effects/serpent_potion_effect.nut
 msgid "]+3%[/color] chance to hit in melee for every ally adjacent to your target"
-msgstr "]+3%[/color] 命中几率 in melee for every ally adjacent to your target"
+msgstr "]+3%[/color]（每有一个友军位于目标周围）近战命中率"
 
 # scripts/skills/effects/serpent_potion_effect.nut
 msgid "This character's eyes are altered to more easily detect faults in a target's defenses. They also seem to very faintly hiss 's' sounds."
@@ -1242,7 +1242,7 @@ msgstr "由于他不自然的生理机能而醒来。"
 
 # scripts/skills/effects/sleeping_effect.nut
 msgid "This character has fallen into unnatural sleep and is unable to act. They'll wake up after [color="
-msgstr "这个角色进入了非自然的睡眠，无法行动。 They'll wake up after [color="
+msgstr "这个角色已经陷入了不自然的睡眠，无法行动。他们会在[color="
 
 # scripts/skills/effects/sleeping_effect.nut
 msgid ""
@@ -1250,9 +1250,9 @@ msgid ""
 "\n"
 "The higher a character's resolve, the higher the chance to resist the urge to sleep."
 msgstr ""
-"[/color] more turn(s), but can also be forcibly awoken by allies and will wake up when taking any amount of damage.\n"
+"[/color]更多回合，但也可以被盟友强制唤醒，并且在受到任何伤害时都会醒来。\n"
 "\n"
-"角色的决心越高，抵抗睡眠欲望的机会就越高。"
+"角色决心越高，抵抗睡意的几率就越高。"
 
 # scripts/skills/effects/smoke_effect.nut
 msgid "Covered by Smoke"
@@ -1288,7 +1288,7 @@ msgstr "[/color]损伤将应用它。受影响的目标将失去[color="
 
 # scripts/skills/effects/spider_poison_coat_effect.nut
 msgid "This character is using a weapon coated with concentrated webknecht poison. The next few hits doing at least [color="
-msgstr "这个角色使用的武器涂有浓缩的蜘蛛毒液。 The next few hits doing at least [color="
+msgstr "这个角色正在使用一把涂有浓缩的网蛛毒液的武器。下几次攻击造成至少[color="
 
 # scripts/skills/effects/spider_poison_effect.nut
 msgid "Died from poison"
@@ -1308,7 +1308,7 @@ msgstr "由于他的不自然生理能力，摆脱了被震慑的状态。"
 
 # scripts/skills/effects/staggered_effect.nut
 msgid "This character has received so heavy a blow that they are off-balance, scrambling and late to act. Will wear off in [color="
-msgstr "这个角色受到了沉重的打击，失去了平衡，行动迟缓。 Will wear off in [color="
+msgstr "这个角色受到了如此沉重的打击，以至于他们失去了平衡，东倒西歪且行动迟缓。状态将在[color=后消失。"
 
 # scripts/skills/effects/stealth_effect.nut
 msgid "Stealthed"
@@ -1392,7 +1392,7 @@ msgstr "变异循环系统"
 
 # scripts/skills/effects/webknecht_potion_effect.nut
 msgid "Immune to poison effects, including those of Webknechts and Goblins"
-msgstr "免疫中毒效果，包括蜘蛛与哥布林的毒药"
+msgstr "免疫中毒效果，包括蛛魔与哥布林的毒药"
 
 # scripts/skills/effects/webknecht_potion_effect.nut
 msgid "This character's body has mutated and propagates poisons and other hazardous substances through the bloodstream much more slowly, allowing them to be disposed of without serious health effects. Curiously, this doesn't seem to affect their ability to get drunk."
@@ -1416,7 +1416,7 @@ msgstr "[/color] 远程技能"
 
 # scripts/skills/effects/whipped_effect.nut
 msgid "This character just received a hurtful reminder of what they need to do for their masters. It will last for another "
-msgstr "这个角色刚刚收到一个伤人的提醒，提醒他们需要为他们的主人做些什么。 It will last for another "
+msgstr "这个角色刚刚受到了一个痛苦的提醒，他们需要为他们的主人做什么。这将持续另外"
 
 # scripts/skills/effects/wiederganger_potion_effect.nut
 msgid "Subdermal Reactivity"

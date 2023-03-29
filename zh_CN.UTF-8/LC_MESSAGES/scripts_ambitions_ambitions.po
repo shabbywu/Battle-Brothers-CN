@@ -1247,7 +1247,7 @@ msgstr "战队人数至少达到12人"
 msgid ""
 "We shall get the company strength to a dozen men! It will make us\n"
 "a formidable force and will allow us to take on more profitable work."
-msgstr "We shall get the company strength to a dozen men! 它将使我们成为一支强大的力量，使我们能够从事更有利可图的工作。"
+msgstr "我们应该让战团增加到十几个人的实力！这会让我们变得强大，可以承担更有利可图的工作。"
 
 # scripts/ambitions/ambitions/roster_of_12_ambition.nut
 msgid "Hire enough men to have a full roster of at least 12 men. Visit settlements across the lands to find recruits that suit your needs. Having a full roster will allow you to take on more dangerous and better paying contracts."
@@ -1443,7 +1443,7 @@ msgstr "我知道你们现在闲得发慌，而且我们还得宣传咱们的战
 
 # scripts/ambitions/ambitions/visit_settlements_ambition.nut
 msgid "[img]gfx/ui/events/event_16.png[/img]You soon discover that the wanderlust of which the skalds sing is not as widespread as they say. Your decision for the band to broaden its horizons is met with grumbling about forced marches and nights on the road. But not all join in the lamenting.%SPEECH_ON%If a day's march or a night spent in the rain wears you down, how will you face an orc charge?%SPEECH_OFF%%sergeantbrother% asks the men, only to get a snappish reply.%SPEECH_ON%Dry and alert.%SPEECH_OFF%You cracked the whip though and forced them to it. At each village and town, you encouraged the men to make themselves known, and they take this request to heart, getting in brawls, passing out in the town square, threatening the merchants, and harassing the settlement's daughters. Whatever the poor tradesmen and farmers think of the company, at least they won't soon forget you! Having traveled to the edges of your map, the name '%companyname%' is more widely known, and you earned a better understanding of the land."
-msgstr "[img]gfx/ui/events/event_16.png[/img]You soon discover that the wanderlust of which the skalds sing is not as widespread as they say. Your decision for the band to broaden its horizons is met with grumbling about forced marches and nights on the road. But not all join in the lamenting.%SPEECH_ON%If 一天's march or a night spent in the rain wears you down, how will you face an orc charge?%SPEECH_OFF%%sergeantbrother% asks the men, only to get a snappish reply.%SPEECH_ON%Dry and alert.%SPEECH_OFF%You cracked the whip though and forced them to it. At each village and town, you encouraged the men to make themselves known, and they take this request to heart, getting in brawls, passing out in the town square, threatening the merchants, and harassing the settlement's daughters. Whatever the poor tradesmen and farmers think of the company, at least they won't soon forget you! Having traveled to the edges of your map, the name '%companyname%' is more widely known, and you earned a better understanding of the land."
+msgstr "[img]gfx/ui/events/event_16.png[/img]你很快发现斯卡德尔（注：古代北欧诗人）所唱的旅行热情并不像他们说的那样普遍。你决定让战团开拓视野，但是这项决定却引起了不满，人们开始抱怨强行行军和辗转夜路。不过并不是所有人都会抱怨。%SPEECH_ON%如果一天的长途行军或者一夜的雨水能让你精疲力竭，那么你将如何应对兽人的冲锋呢？%SPEECH_OFF%%caption%问士兵们，但只得到了一个爱咆哮的回答。%SPEECH_ON%干燥、警觉。%SPEECH_OFF%你逼迫他们前进。在每个村庄和城镇，你鼓励士兵们向人们展示自己，他们把这个请求铭记在心，在镇上打架、在广场上昏倒、威胁商人并骚扰村庄的女儿。无论那些可怜的手艺人和农民对战团有什么看法，至少他们不会很快忘记你们！你们的名字“%companyname%”越来越为人所知，你们对这片土地的理解也更加深入。"
 
 # scripts/ambitions/ambitions/wagon_ambition.nut
 msgid "]10,000[/color] Crowns"

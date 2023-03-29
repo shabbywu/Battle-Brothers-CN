@@ -138,7 +138,7 @@ msgstr "冰原狼皮披风附在盔甲上，可以将穿戴者变成一个威风
 
 # scripts/items/armor_upgrades/direwolf_pelt_upgrade.nut
 msgid "Pelts taken from ferocious direwolves, cured and sewn together to be worn as a beast hunter's trophy around the neck. Donning the skin of a beast like this can turn one into an imposing figure."
-msgstr "Pelts taken from ferocious direwolves, cured and sewn together to be worn as a beast hunter's trophy around the neck. 穿上这样的兽皮可以使人看起来威风凛凛。"
+msgstr "由凶猛的恶狼皮毛制成，经过处理和缝合，可佩戴在猎兽人的脖子上作为战利品。穿戴像这样的野兽皮毛可以使一个人变成一个令人敬畏的形象。"
 
 # scripts/items/armor_upgrades/double_mail_upgrade.nut
 msgid "Double Mail"

@@ -12,15 +12,15 @@ msgstr "是坚不可摧的"
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "Melee Defense [color="
-msgstr "近战防御 [color="
+msgstr "近战防御[color="
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "Ranged Defense [color="
-msgstr "远程防御 [color="
+msgstr "远程防御[color="
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid "Maximum Fatigue [color="
-msgstr "最大疲劳值 [color="
+msgstr "最大疲劳 [color="
 
 # scripts/items/shields/legendary/gilders_embrace_shield.nut
 msgid " is dazed by the Gilder's Embrace"

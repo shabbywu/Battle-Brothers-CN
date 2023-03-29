@@ -88,7 +88,7 @@ msgstr "镰弯刀"
 
 # scripts/items/weapons/ancient/khopesh.nut
 msgid "An ancient curved sword on a long handle with strange ornamentations. Its shape makes it particularly effective against armor."
-msgstr "An ancient curved sword on a long handle with strange ornamentations. Its shape makes it particularly 效果作用于盔甲."
+msgstr "一柄古老的，带有奇怪装饰的长柄弯剑。它的形状使得它对抗护甲特别有效。"
 
 # scripts/items/weapons/ancient/rhomphaia.nut
 msgid "Rhomphaia"

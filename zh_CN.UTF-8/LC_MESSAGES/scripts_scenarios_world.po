@@ -255,7 +255,7 @@ msgstr "独狼"
 
 # scripts/scenarios/world/lone_wolf_scenario.nut
 msgid "the Lone Wolf"
-msgstr "the 独狼"
+msgstr "孤狼(the Lone Wolf)"
 
 # scripts/scenarios/world/lone_wolf_scenario.nut
 msgid "A wandering hedge knight, you were a veteran of jousting and sparring tournaments. You were also a veteran of victory. Tis a scary thought for many, but if it were anything at all that turned your eye toward mercenary work it was boredom. Outwardly you state it is for the coin, but a part of you knows it's also for the company."
@@ -521,7 +521,7 @@ msgstr ""
 
 # scripts/scenarios/world/paladins_scenario.nut
 msgid "{%name%, like many of the Oathtakers' more spry members, strives to be like Young Anselm. A youthful, capable man who has yet to let the world's horrors and grind wear him down. In moments of honesty, he reminds you of yourself. In moments of reflection, you realize that he will likely one day resemble you as you are now. But until then, to the youth of the world, for the Oaths are certainly not wasted upon them! | When Anselm set out on his quest, it was %name% whom joined him first. Despite the Young Anselm's untimely death, %name% still sought to see the young man's vision through. He is an ardent believer in the Oaths and can be frequently found idolizing and commemorating Young Anselm's skull.}"
-msgstr "{%name%，与誓约者战团中许多精神矍铄的成员一样，努力像年轻的安瑟姆一样。安瑟姆是一个年轻、有能力、尚未被世界的恐惧和困苦磨损的男子。在诚实的时候，他让你想起自己。在反思的时候，你意识到他有一天很可能会变成现在的你。但在那之前，对于世界的年轻人来说，誓言肯定不会白费！| 安瑟姆启程时， %名称%(name)首先加入了他。尽管年轻的安瑟姆不幸去世， %名称%(name)仍然试图完成年轻人的计划。他是誓言的忠实信奉者，并经常发现自己在崇拜和纪念年轻安瑟姆的头骨。}"
+msgstr "{%name%，像许多誓言者中更为灵活的成员一样，努力成为像年轻的安瑟姆一样的人。他是一个年轻有为的人，尚未让世界的恐怖和压迫磨损他。在诚实的时刻，他提醒你自己。在反思的时刻，你意识到他将来很可能会像你现在这样。但在那之前，年轻人需要遵守誓言，因为这些誓言当然不会被浪费！| 当安瑟姆展开他的任务时，%name%首先加入了他。虽然年轻的安瑟姆夭折了，但%name%仍然想要完成年轻人的愿景。他是誓言的热烈信徒，经常会发现他在崇拜和纪念年轻安瑟姆的头骨。}"
 
 # scripts/scenarios/world/paladins_scenario.nut
 msgid "{Perhaps of an age more suitable for caretaking than oathtaking, %name% is a rather old, nigh on decrepit Oathtaker. While age has robbed him of his more natural talents, it has at least gifted him with learning and experience that no physical capabilities can match. He is a man of many spirits, having gone around this world in the shell of soldier, farmer, sellsword, and more. Now he is an Oathtaker, and all those skills and traits he built up over the years has made him quite a formidable one at that. | When First Oathtaker Anselm first met %name%, it is said that the prime paladin divulged details no one else could have possibly known, thus proving the aethereal power behind his beliefs. %name% is an ardent believer in the Oaths, and in seeing Young Anselm's vision through.}"

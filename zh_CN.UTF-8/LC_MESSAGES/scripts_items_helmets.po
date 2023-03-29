@@ -88,7 +88,7 @@ msgstr "护面圆锥盔"
 
 # scripts/items/helmets/conic_helmet_with_faceguard.nut
 msgid "This conic helmet with mail has an attached metal faceguard. It is heavy and hard to see through, but offers excellent protection."
-msgstr "This conic helmet with mail has an attached metal faceguard. 它很重，视野很差，但提供了极好的保护。"
+msgstr "这种锥形头盔配有链邮，带有金属面罩。它重量沉重，视线有点受限，但提供极好的保护。"
 
 # scripts/items/helmets/cultist_hood.nut
 msgid "Cultist Hood"
@@ -276,7 +276,7 @@ msgstr "最大疲劳 [color="
 
 # scripts/items/helmets/helmet.nut
 msgid "[/b] damage and has been destroyed!"
-msgstr "[/b] damage and has been 损毁了！"
+msgstr "[/b]损坏且已被摧毁！"
 
 # scripts/items/helmets/hood.nut
 msgid "Hood"

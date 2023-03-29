@@ -251,7 +251,7 @@ msgstr "收藏家(Collectors)"
 
 # scripts/entity/world/settlements/situations/collectors_situation.nut
 msgid "See this here dog tooth? I plan on selling it over in %settlement%, I heard they pay good coin for animal parts there."
-msgstr "你看这个犬齿？我计划拿到%selltement%去卖，听说他们那里给动物零件的价钱不错。"
+msgstr "你看这个犬齿？我打算把它卖到%settlement%，我听说那里对动物部位付的钱很多。"
 
 # scripts/entity/world/settlements/situations/collectors_situation.nut
 msgid "Several collectors seeking exotic curios have made their way into town. There's good coin to be made selling beast trophies and like here."

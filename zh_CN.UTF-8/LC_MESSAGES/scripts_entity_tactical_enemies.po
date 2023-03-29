@@ -113,7 +113,7 @@ msgstr "超越死亡！"
 
 # scripts/entity/tactical/enemies/spider.nut
 msgid "A Webknecht"
-msgstr "一只Webknecht"
+msgstr "一个网织者(Webknecht)"
 
 # scripts/entity/tactical/enemies/unhold.nut
 msgid "An Unhold"

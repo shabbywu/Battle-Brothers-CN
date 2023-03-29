@@ -257,7 +257,7 @@ msgstr ""
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "[img]gfx/ui/events/event_180.png[/img]{The Oathbringers are back. One grins wildly as he steps forward.%SPEECH_ON%Shall we see through Young Anselm's visions, or will you drop trou and shit on divine providence once again, Oathtaker?%SPEECH_OFF%You look at your men and decide...}"
-msgstr "[img]gfx/ui/events/event_180.png[/img]{The Oathbringers are back. One grins wildly as he 走上前去。%SPEECH_ON%Shall we see through Young Anselm's visions, or will you drop trou and shit on divine providence once again, Oathtaker?%SPEECH_OFF%You look at your men and decide...}"
+msgstr "[img]gfx/ui/events/event_180.png[/img]{誓言守护者回来了。一个狰狞地笑着向前走来。%SPEECH_ON%我们是要见证年轻的安瑟姆的愿景，还是你们又要再次对神圣的领导权掉链子？%SPEECH_OFF%你看着你的队员做出了决定...}"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "[img]gfx/ui/events/event_180.png[/img]{The company is still not ready. You are worried that they will leave you entirely, infuriated as they are, but you'd rather they be pissed than flat dead in the ground. With the decision weighing on your heart, and the Oathbringers screaming insults into your ear, you have the company once again march from the fight.}"

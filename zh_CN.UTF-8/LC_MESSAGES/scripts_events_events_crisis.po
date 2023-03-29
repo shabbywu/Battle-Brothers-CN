@@ -601,7 +601,7 @@ msgstr "摆清楚你们的位置，白痴们。"
 
 # scripts/events/events/crisis/civilwar_refugees_event.nut
 msgid "Leave those poor folk alone."
-msgstr "别管 those poor folk 了。"
+msgstr "别再骚扰那些可怜的人了。"
 
 # scripts/events/events/crisis/civilwar_refugees_event.nut
 msgid "Nice work with the niceties."

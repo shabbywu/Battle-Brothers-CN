@@ -3730,7 +3730,7 @@ msgstr "%randomname% 鹰"
 
 # scripts/config/character_names.nut
 msgid "Anselm's Stolen Valor"
-msgstr "Anselm的盗用荣誉"
+msgstr "安瑟姆的冒名顶替(Anselm's Stolen Valor)"
 
 # scripts/config/character_names.nut
 msgid "Infamous %randomname%"
@@ -3742,7 +3742,7 @@ msgstr "蜂蜜酒罐·%randomname%"
 
 # scripts/config/character_names.nut
 msgid "Naccorath the Eternal"
-msgstr "永恒的Naccorath"
+msgstr "纳克拉斯·永恒者(Naccorath the Eternal)"
 
 # scripts/config/character_names.nut
 msgid "The Master of Undeath"
@@ -3854,15 +3854,15 @@ msgstr "阿尔塔拉布卢西伊本阿斯巴特"
 
 # scripts/config/character_names.nut
 msgid "Gla-Oth the Endless Maw"
-msgstr "无尽圣杯·Gla-Oth"
+msgstr "无尽喉咙 (Gla-Oth the Endless Maw)"
 
 # scripts/config/character_names.nut
 msgid "Kha-Athlu the All-Ender"
-msgstr "终结者·Kha-Athlu"
+msgstr "卡阿斯鲁·毁灭者(Kha-Athlu the All-Ender)"
 
 # scripts/config/character_names.nut
 msgid "Shaggaruth the Unending"
-msgstr "永无止境的Shaggaruth"
+msgstr "沙加鲁斯不朽者(Shaggaruth the Unending)"
 
 # scripts/config/character_names.nut
 msgid "The Prince of the Sands"
@@ -3914,7 +3914,7 @@ msgstr "%randomtown% 的公牛"
 
 # scripts/config/character_names.nut
 msgid "Thohochoth the All-Ender"
-msgstr "通缉犯·Thohochoth"
+msgstr "托霍乔斯·全能终结者(Thohochoth the All-Ender)"
 
 # scripts/config/character_names.nut
 msgid "%randomname% Four Fingers"
@@ -3978,7 +3978,7 @@ msgstr "%randomtown% 的天灾"
 
 # scripts/config/character_names.nut
 msgid "Xapocathlu the All-Reaching"
-msgstr "世间万物·Xapocathlu"
+msgstr "太空浩克瑟鲁 (Xapocathlu the All-Reaching)"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Enlightened"
@@ -4010,7 +4010,7 @@ msgstr "%randomsouthernname% 狮子"
 
 # scripts/config/character_names.nut
 msgid "Xa-Shutar the Eater of Worlds"
-msgstr "世界食客·Xa-Shutar"
+msgstr "世界吞噬者夏舒塔尔(Xa-Shutar the Eater of Worlds)"
 
 # scripts/config/character_names.nut
 msgid "%randomname% the Knowledgeable"
@@ -4034,7 +4034,7 @@ msgstr "毒蛇·%randomsouthernname%"
 
 # scripts/config/character_names.nut
 msgid "Ogg-Sattoth the Grand Devourer"
-msgstr "吞噬者·Ogg-Sattoth"
+msgstr "奥格-萨托斯大噬者(Ogg-Sattoth the Grand Devourer)"
 
 # scripts/config/character_names.nut
 msgid "%randomsouthernname% the Exiled"
@@ -4086,7 +4086,7 @@ msgstr "尘舞者·%randomsouthernname%"
 
 # scripts/config/character_names.nut
 msgid "Gu-Shogg the Thousand-Armed Thresher"
-msgstr "千臂回旋者·Gu-Shogg"
+msgstr "古沼洛克·千臂回旋者(Gu-Shogg the Thousand-Armed Thresherg)"
 
 # scripts/config/character_names.nut
 msgid "%randomsouthernname% the Blade Dancer"
@@ -4204,12 +4204,12 @@ msgid ""
 "Copyright 2015 - 2022 Overhype Studios UG\n"
 "All rights reserved"
 msgstr ""
-"战争兄弟\n"
+"战场兄弟\n"
 "\n"
-"开发者\n"
+"开发团队\n"
 "Overhype Studios\n"
 "\n"
-"战争兄弟开发团队\n"
+"战场兄弟开发团队\n"
 "\n"
 "游戏设计\n"
 "Christof Schmidt\n"
@@ -4222,16 +4222,16 @@ msgstr ""
 "编程\n"
 "Christof Schmidt\n"
 "\n"
-"额外编程\n"
+"附加编程\n"
 "Jesse Cooper\n"
 "\n"
 "制作\n"
 "Jan Taaks\n"
 "\n"
-"撰写\n"
+"编剧\n"
 "Casey Hollingshead\n"
 "\n"
-"额外撰写\n"
+"额外编剧\n"
 "Christof Schmidt\n"
 "Scott Hamm\n"
 "\n"
@@ -4249,13 +4249,13 @@ msgstr ""
 "Breakdown Epiphanies\n"
 "Jan Taaks\n"
 "\n"
-"预告片视频\n"
+"预告片制作\n"
 "Marlon Wiebe\n"
 "Jaleo PR\n"
 "Breakdown Epiphanies\n"
 "\n"
-"感谢\n"
-"我们的女友和妻子在开发的多年中给予我们的支持\n"
+"特别致谢\n"
+"我们的女友和妻子在开发多年间的支持\n"
 "Jochen Taaks\n"
 "Abel aka Vilain Joueur\n"
 "Heron\n"
@@ -4271,13 +4271,13 @@ msgstr ""
 "turtle225\n"
 "Vasilisa 'Dialetheia' Prince\n"
 "Willsama974\n"
-"Thomas Fischer及BeamNG团队\n"
-"来自Red Hook Studios的Tyler Sigman\n"
+"Thomas Fischer和BeamNG团队\n"
+"Red Hook Studios的Tyler Sigman\n"
 "Valve的Tom Giardino和Steam团队\n"
 "我们所有投入的抢先体验玩家以及他们的支持和反馈\n"
 "RPG Codex众筹支持团队\n"
 "\n"
-"战争兄弟\n"
+"战场兄弟\n"
 "Copyright 2015 - 2022 Overhype Studios UG\n"
 "All rights reserved"
 
@@ -11093,7 +11093,7 @@ msgstr "游牧的割喉者"
 
 # scripts/config/strings.nut
 msgid "Orcbane Company"
-msgstr "Orcbane 公司"
+msgstr "奥克班战团(Orcbane Company)"
 
 # scripts/config/strings.nut
 msgid "Pagan Heathland"
@@ -11561,7 +11561,7 @@ msgstr "正当的掠夺者"
 
 # scripts/config/strings.nut
 msgid "Silversage Fields"
-msgstr "Silversage 领域"
+msgstr "银叶原野(Silversage Fields)"
 
 # scripts/config/strings.nut
 msgid "Sundering Strikes"
@@ -12466,7 +12466,7 @@ msgid ""
 "\n"
 "The Polehammer no longer has a penalty for attacking targets directly adjacent."
 msgstr ""
-"]+5%[/color]\n"
+"]+5%[/color] 命中几率。\n"
 "\n"
 "长柄锤(Polehammer)攻击直接相邻的目标不再有惩罚。"
 
@@ -12784,10 +12784,6 @@ msgstr ""
 "你的手下期待着你下达命令。他们现在为 %companyname% 生死存亡。\n"
 "\n"
 "[color=#bd9d71]早期访问免责声明：此版本仍在大量工作中，并不代表产品的最终质量。功能可能不完整或缺失，UI 尚未剥皮，会有错误，经济、资源和敌人的平衡和进展可能需要调整，有时可能太具有挑战性或太容易。抢先体验期间将添加许多额外内容，包括更多敌人、物品、合同、地形类型、独特位置、故事事件和其他功能。[/color]"
-
-# scripts/config/tactical.nut
-msgid "Default"
-msgstr "Default"
 
 # scripts/config/tactical.nut
 msgid "]-25%[/color] Melee Skill"
@@ -13303,7 +13299,7 @@ msgstr "无定义的越过刷子。"
 
 # scripts/config/world.nut
 msgid "Crossing Brush undefined!"
-msgstr "穿越草丛undefined！"
+msgstr "穿过刷(undefined)！"
 
 # scripts/config/world_location_names.nut
 msgid "Auen"
@@ -15155,7 +15151,7 @@ msgstr "护林人藏身处"
 
 # scripts/config/world_location_names.nut
 msgid "Golden Sun Hideout"
-msgstr "金色太阳 Hideout"
+msgstr "金日暮藏身处(Golden Sun Hideout)"
 
 # scripts/config/world_location_names.nut
 msgid "Grandfathers' Tomb"

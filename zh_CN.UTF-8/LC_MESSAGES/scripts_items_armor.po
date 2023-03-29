@@ -57,7 +57,7 @@ msgstr "最大疲劳[color="
 
 # scripts/items/armor/armor.nut
 msgid "[/b] damage and has been destroyed!"
-msgstr "[/b] damage and has been 损毁了！"
+msgstr "[/b] 损坏并被摧毁了！"
 
 # scripts/items/armor/basic_mail_shirt.nut
 msgid "Basic Mail Shirt"
