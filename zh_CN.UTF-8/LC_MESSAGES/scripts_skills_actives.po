@@ -214,7 +214,7 @@ msgstr "震惊"
 # scripts/skills/actives/repel.nut
 # scripts/skills/actives/strike_skill.nut
 msgid "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy"
-msgstr "]-15%[/color] 命中几率 targets directly adjacent because the weapon is too unwieldy"
+msgstr "]-15%[/color]攻击命中几率（对直接邻近的目标），因为武器过于笨重。"
 
 # scripts/skills/actives/uproot_skill.nut
 # scripts/skills/actives/shatter_skill.nut
@@ -790,7 +790,7 @@ msgstr "横扫打击"
 # scripts/skills/actives/throw_holy_water.nut
 # scripts/skills/actives/throw_acid_flask.nut
 msgid "]33%[/color] chance to hit bystanders at the same or lower height level as well."
-msgstr "]33%[/color] 命中几率 bystanders at the same or lower height level as well."
+msgstr "]33%[/color] 的概率攻击与自己相同或更低高度的敌人。"
 
 # scripts/skills/actives/throw_spear_skill.nut
 # scripts/skills/actives/throw_balls.nut
@@ -847,7 +847,7 @@ msgstr "使用绷带。"
 
 # scripts/skills/actives/bandage_ally_skill.nut
 msgid "Save yourself or another character from bleeding to death by applying pressure and provisional bandaging to any such wound. Does not heal hitpoints. Neither the character using this skill nor the patient may be engaged in melee."
-msgstr "给你自己或其他角色的伤口施加压力的临时包扎，避免流血致死。 Does not heal hitpoints. 使用此技能的角色和受治者都不能参与近战。"
+msgstr "通过对任何这样的伤口施加压力和临时包扎，使自己或另一个角色免于失血致死。不治愈生命值。使用该技能的角色和受治者旁均不能有敌人。"
 
 # scripts/skills/actives/barbarian_fury_skill.nut
 msgid "Barbarian Fury"
@@ -935,7 +935,7 @@ msgstr "利用你所能支配的一切，把你自己从束缚你的东西中解
 
 # scripts/skills/actives/break_free_skill.nut
 msgid "%[/color] chance to succeed, based on Melee Skill. Each failed attempt will increase the chance to succeed for subsequent attempts."
-msgstr "%[/color] chance to succeed, based on Melee Skill. 每次失败的尝试都会增加成功机率。"
+msgstr "%[/color]成功率，基于近战技能。每次失败尝试会增加随后尝试的成功几率。"
 
 # scripts/skills/actives/cascade_skill.nut
 msgid "Cascade"
@@ -1187,7 +1187,7 @@ msgstr "[/color] 平地上的方块和 [color="
 
 # scripts/skills/actives/fire_handgonne_skill.nut
 msgid "%[/color] per tile of distance. This chance is unaffected by objects or characters in the line of fire."
-msgstr "%[/color] per tile of distance. 这个几率不受射击线上的物体或角色的影响。"
+msgstr "%[/color]每个距离格的几率。障碍物或者射线中的角色不会影响这个几率。"
 
 # scripts/skills/actives/fire_handgonne_skill.nut
 msgid "Ignite the fuse of your Handgonne. Can hit many targets at once, but targets farther away are less likely to be hit. Can not be used while engaged in melee."
@@ -1219,7 +1219,7 @@ msgstr "]只能在出血时使用[/color]"
 
 # scripts/skills/actives/first_aid_skill.nut
 msgid "Save yourself from bleeding to death by applying pressure and provisional bandaging to any such wound. Does not heal hitpoints. Can not be used while engaged in melee."
-msgstr "给你自己的伤口施加压力的临时包扎，避免流血至死。 Does not heal hitpoints. 不能在近战中使用。"
+msgstr "通过施加压力和临时包扎可以使你免于失血过多。不会恢复生命值。不可在进行近战战斗时使用。"
 
 # scripts/skills/actives/flail_skill.nut
 msgid "Flail"
@@ -1543,7 +1543,7 @@ msgstr "使用者当前的主动值越高，造成额外的伤害越高"
 
 # scripts/skills/actives/lunge_skill.nut
 msgid "A swift lunge towards a target 2 tiles away, followed by a precise thrusting attack to catch them unprepared. The faster you are, the more damage you do."
-msgstr "快速冲向2格外的目标，然后以精准的刺击来抓住他们毫无准备的时刻的进攻。 The faster you are, 对目标造成的伤害就越大。"
+msgstr "快速冲向2格外的目标，然后进行精准的刺击，使其措手不及。你的速度越快，造成的伤害越大。"
 
 # scripts/skills/actives/merge_golem_skill.nut
 msgid "Merge Living Sands"
@@ -1847,7 +1847,7 @@ msgstr "盾墙"
 
 # scripts/skills/actives/shieldwall.nut
 msgid " uses Shieldwall"
-msgstr "使用盾墙(Shieldwall)。"
+msgstr "使用盾墙。"
 
 # scripts/skills/actives/shieldwall.nut
 msgid "Grants an additional [color="
@@ -1971,7 +1971,7 @@ msgstr " 使用矛墙"
 
 # scripts/skills/actives/spearwall.nut
 msgid "Prepare to immediately attack any opponent that attempts to move into melee range and, on a hit, prevent that opponent from closing in. Targets hit will receive half the damage of a normal "
-msgstr "准备立即攻击任何试图进入近战范围的对手，并在击中时阻止该对手靠近。 Targets hit will receive half the damage of a normal "
+msgstr "准备立即攻击任何试图进入近战范围的敌人，打中后，将击退敌人。被命中的目标只会受到正常伤害一半的攻击。"
 
 # scripts/skills/actives/spider_bite_skill.nut
 msgid "Webknecht Bite"
@@ -2003,7 +2003,7 @@ msgstr "的盾牌[b]"
 
 # scripts/skills/actives/split_shield.nut
 msgid " uses Split Shield and hits "
-msgstr " 使用 Split Shield 击中 "
+msgstr "使用“裂盾”并命中了"
 
 # scripts/skills/actives/split_shield.nut
 msgid " uses Split Shield and destroys "
@@ -2051,7 +2051,7 @@ msgstr "打击"
 
 # scripts/skills/actives/strike_skill.nut
 msgid "]-15%[/color] chance to hit targets directly adjacent"
-msgstr "]-15%[/color] 命中几率 targets directly adjacent"
+msgstr "]-15%[/color] 直接攻击毗邻目标的几率"
 
 # scripts/skills/actives/strike_skill.nut
 msgid "A sweeping strike that can cover the distance of 2 tiles and can be used from behind the frontline, outside the range of most other melee weapons."
@@ -2195,7 +2195,7 @@ msgstr "烧掉现有的格子效果，如烟雾或瘴气"
 
 # scripts/skills/actives/throw_fire_bomb_skill.nut
 msgid "]7[/color] tiles ablaze with fire for 2 rounds. Water and snow can not burn."
-msgstr "]7[/color] tiles ablaze with fire for 2 rounds. 水和雪不能燃烧。"
+msgstr "]7[/color] 个方块着火，持续两回合。水和雪不能燃烧。"
 
 # scripts/skills/actives/throw_fire_bomb_skill.nut
 msgid "Ignite and throw a pot filled with highly flammable liquids towards a target, where it will shatter and set the area ablaze. Anyone ending their turn inside the burning area will catch fire and take damage - friend and foe alike."

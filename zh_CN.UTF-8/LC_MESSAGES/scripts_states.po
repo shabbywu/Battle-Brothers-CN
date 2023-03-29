@@ -58,7 +58,7 @@ msgstr "剧情界面未完全显示，请耐心等待！"
 
 # scripts/states/main_menu_state.nut
 msgid "Load Campaign Screen is not fully visible. Be patient!"
-msgstr "载入战役 Screen is not fully visible. Be patient!"
+msgstr "战役加载界面不完全可见，请耐心等待！"
 
 # scripts/states/main_menu_state.nut
 msgid "[p=c]An empty map for AI testing. Spawn combatants manually and let them fight it out.[/p]"
@@ -278,7 +278,7 @@ msgstr "实体正在执行一个技能！"
 
 # scripts/states/tactical_state.nut
 msgid "TurnSequenceBar::setActionStateBySkillId(No Skill selected)"
-msgstr "TurnSequenceBar::setActionStateBySkillId(没有选择技能)"
+msgstr "TurnSequenceBar::setActionStateBySkillId(未选择技能)"
 
 # scripts/states/tactical_state.nut
 msgid "TurnSequenceBar::setActionStateBySkillIndex(No Skill selected)"
@@ -286,7 +286,7 @@ msgstr "TurnSequenceBar::setActionStateBySkillIndex(未选择技能)"
 
 # scripts/states/tactical_state.nut
 msgid "TurnSequenceBar::setActionStateBySkillId(No Active Entity | Enemy)"
-msgstr "TurnSequenceBar::setActionStateBySkillId（无活跃实体 | 敌人）"
+msgstr "TurnSequenceBar::setActionStateBySkillId(无活动单位 | 敌人)"
 
 # scripts/states/tactical_state.nut
 msgid ""

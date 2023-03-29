@@ -818,7 +818,7 @@ msgstr "[img]gfx/ui/events/event_20.png[/img]{这个男人站直了。%SPEECH_ON
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid "[img]gfx/ui/events/event_20.png[/img]{You ask the man his name. He swallows nervously.%SPEECH_ON%%squire%, sir.%SPEECH_OFF%You nod.%SPEECH_ON%Well alright then. I'll take ya with me.%SPEECH_OFF%He smiles.%SPEECH_ON%That's. That's it?%SPEECH_OFF%You nod.%SPEECH_ON%Yeah. That's it.%SPEECH_OFF%%squire% looks around.%SPEECH_ON%Well. Alright. What now?%SPEECH_OFF%You lean back against the stone steps.%SPEECH_ON%You follow me. Right now I'm gonna take another nap. If yer still around when I wake, well, then you've passed your first test. Defeating boredom.%SPEECH_OFF%The squire is grinning ear to ear. He's still there when you wake.}"
-msgstr "[img]gfx/ui/events/event_20.png[/img]{你询问这个男人的名字。他紧张地咽了口口水。%SPEECH_ON%我是个侍从。，长官。%SPEECH_OFF%你点点头。%SPEECH_ON%好的，那你就跟着我吧。%SPEECH_OFF%他微笑着。%SPEECH_ON%就这样了？%SPEECH_OFF%你点点头。%SPEECH_ON%是的，就这样了。%SPEECH_OFF%%squire%四周环顾。%SPEECH_ON%那么，现在怎么办？%SPEECH_OFF%你靠在石阶上。%SPEECH_ON%跟着我，我现在要再打个盹。如果醒来之后你还在这里，那么就算你通过了第一关。打败了无聊。%SPEECH_OFF%这个侍从从耳朵到耳朵都在咧嘴笑。当你醒来时，他还在那里。}"
+msgstr "[img]gfx/ui/events/event_20.png[/img]{你问那个人叫什么名字。他紧张地吞咽了一口唾沫。%SPEECH_ON% %squire%，长官。%SPEECH_OFF%你点了点头。%SPEECH_ON%好，那你就跟着我吧。%SPEECH_OFF%他微笑着。%SPEECH_ON%真的吗？%SPEECH_OFF% 你点了点头。%SPEECH_ON%是的。就是这样。%SPEECH_OFF% %squire%四处张望。%SPEECH_ON%好吧，那接下来呢？%SPEECH_OFF%你靠在石阶上。%SPEECH_ON%跟我来。现在我要再打个盹。当我醒来时，如果你仍在这里，那么你就通过了第一轮考核——打败无聊。%SPEECH_OFF%这个侍从一脸笑容。当你醒来时，他还在那儿。}"
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid ""

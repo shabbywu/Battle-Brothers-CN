@@ -553,7 +553,7 @@ msgstr "布拉明斯泰德(Brammingsted)"
 # scripts/entity/world/settlements/medium_forest_fort.nut
 # scripts/entity/world/settlements/medium_farm_fort.nut
 msgid "Haselburg"
-msgstr "哈塞尔堡（Haselburg）"
+msgstr "哈塞尔堡(Haselburg)"
 
 # scripts/entity/world/settlements/medium_farm_fort.nut
 # scripts/entity/world/settlements/medium_mountains_fort.nut
@@ -3827,7 +3827,7 @@ msgstr "克鲁格沃尔(Krugwall)"
 
 # scripts/entity/world/settlements/small_farm_fort.nut
 msgid "Markwall"
-msgstr "马克沃尔（Markwall）"
+msgstr "马克沃尔(Markwall)"
 
 # scripts/entity/world/settlements/small_farm_fort.nut
 msgid "Walldorf"
@@ -4163,7 +4163,7 @@ msgstr "法翰瓦赫特(Fahrnwacht)"
 
 # scripts/entity/world/settlements/small_forest_fort.nut
 msgid "Haselwacht"
-msgstr "哈塞尔瓦赫特（Haselwacht）"
+msgstr "哈塞尔瓦赫特(Haselwacht)"
 
 # scripts/entity/world/settlements/small_forest_fort.nut
 msgid "Hirschturm"
@@ -4495,7 +4495,7 @@ msgstr "冈维尔(Gunnweir)"
 
 # scripts/entity/world/settlements/small_snow_fort.nut
 msgid "Holmgard"
-msgstr "Holmgard(霍尔姆加德)"
+msgstr "霍姆加德(Holmgard)"
 
 # scripts/entity/world/settlements/small_snow_fort.nut
 msgid "Lindweir"

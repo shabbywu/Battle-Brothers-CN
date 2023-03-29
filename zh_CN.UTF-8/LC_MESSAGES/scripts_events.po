@@ -7,21 +7,6 @@ msgid "Screen '"
 msgstr "屏幕 '"
 
 # scripts/events/event.nut
-msgid "[color=#f6eedb]"
-msgstr "[color=#f6eedb]"
-
-# scripts/events/event.nut
-msgid "[color=#bcad8c]\""
-msgstr "[color=#bcad8c]"
-
-# scripts/events/event.nut
-msgid ""
-"\n"
-"\n"
-"[color=#bcad8c]\""
-msgstr "[color=#bcad8c]"
-
-# scripts/events/event.nut
 msgid "' not found for event '"
 msgstr "事件“'”未找到"
 
