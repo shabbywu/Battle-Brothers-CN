@@ -82,7 +82,7 @@ msgstr "一群淘气的哥布林，小而狡猾，不可低估。"
 
 # scripts/contracts/contract_manager.nut
 msgid " (id: "
-msgstr "(id:"
+msgstr " (id: "
 
 # scripts/contracts/contract_manager.nut
 msgid "contract added: "

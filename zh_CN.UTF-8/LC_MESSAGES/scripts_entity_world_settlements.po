@@ -112,7 +112,7 @@ msgstr "格海姆(Gerheim)"
 # scripts/entity/world/settlements/medium_snow_village.nut
 # scripts/entity/world/settlements/medium_tundra_village.nut
 msgid "Halheim"
-msgstr "Halheim（哈尔海姆）"
+msgstr "哈尔海姆(Halheim)"
 
 # scripts/entity/world/settlements/small_snow_village.nut
 # scripts/entity/world/settlements/small_tundra_village.nut
@@ -408,7 +408,7 @@ msgstr "托尔瓦堡(Torvaborg)"
 # scripts/entity/world/settlements/large_snow_fort.nut
 # scripts/entity/world/settlements/large_tundra_fort.nut
 msgid "Vardeborg"
-msgstr "瓦尔德堡（Vardeborg）"
+msgstr "瓦尔德堡(Vardeborg)"
 
 # scripts/entity/world/settlements/large_snow_fort.nut
 # scripts/entity/world/settlements/large_tundra_fort.nut
@@ -678,7 +678,7 @@ msgstr "毕特费尔德(Bitterfeld)"
 # scripts/entity/world/settlements/medium_farming_village.nut
 # scripts/entity/world/settlements/small_farming_village.nut
 msgid "Dreifelden"
-msgstr "德雷菲登（Dreifelden）"
+msgstr "德雷菲登(Dreifelden)"
 
 # scripts/entity/world/settlements/medium_farming_village.nut
 # scripts/entity/world/settlements/small_farming_village.nut
@@ -773,7 +773,7 @@ msgstr "菲尔茨穆斯(Filzmoos)"
 # scripts/entity/world/settlements/medium_lumber_village.nut
 # scripts/entity/world/settlements/small_lumber_village.nut
 msgid "Langholz"
-msgstr "朗霍尔兹（Langholz）"
+msgstr "朗霍尔兹(Langholz)"
 
 # scripts/entity/world/settlements/medium_lumber_village.nut
 # scripts/entity/world/settlements/small_lumber_village.nut
@@ -1571,7 +1571,7 @@ msgstr "这个巨大的城堡守卫着一个海港和周围的贸易路线"
 
 # scripts/entity/world/settlements/large_coast_fort.nut
 msgid "This massive citadel guards a warport and the surrounding trade routes. It is a seat of power for nobility and home to a large garrison."
-msgstr "这个巨大的城堡守卫着一个海港和周围的贸易路线. It is a seat of power for nobility and home to a large garrison."
+msgstr "这座巨大的城堡守卫着一个战争港口和周围的贸易路线。它是贵族权力的中心，也是一个大型驻军的家园。"
 
 # scripts/entity/world/settlements/large_farm_fort.nut
 msgid "Auenfeste"
@@ -1583,7 +1583,7 @@ msgstr "菲尔德费斯特(Feldfeste)"
 
 # scripts/entity/world/settlements/large_farm_fort.nut
 msgid "Wehrfeste"
-msgstr "\"Wehrfeste\" should be translated into Chinese. However, I couldn't find the exact meaning of this term because it seems to be a German word. Can you please provide me with more context or information about the term?"
+msgstr "韦尔费斯特(Wehrfeste)"
 
 # scripts/entity/world/settlements/large_farm_fort.nut
 msgid "Aulenfeste"
@@ -1655,7 +1655,7 @@ msgstr "高耸在开阔平原上的巨大城堡"
 
 # scripts/entity/world/settlements/large_farm_fort.nut
 msgid "A massive citadel towering over the open plains surrounding it. A seat of power to nobles, and housing large armed forces for a firm grip on the region."
-msgstr "高耸在开阔平原上的巨大城堡 surrounding it. A seat of power to nobles, and housing large armed forces for a firm grip on the region."
+msgstr "一个巨大的城堡矗立在周围敞开的平原上。这是贵族权力的象征，并且拥有庞大的武装力量，以牢牢掌握该地区。"
 
 # scripts/entity/world/settlements/large_farming_village.nut
 msgid "Dulmen"
@@ -1947,7 +1947,7 @@ msgstr "艾斯巴赫要塞(Eisbachfeste)"
 
 # scripts/entity/world/settlements/large_forest_fort.nut
 msgid "Finsterfeste"
-msgstr "黑暗堡垒（Finsterfeste）"
+msgstr "黑暗堡垒(Finsterfeste)"
 
 # scripts/entity/world/settlements/large_forest_fort.nut
 msgid "Lerchenfeste"
@@ -1955,7 +1955,7 @@ msgstr "勒尔琴堡(Lerchenfeste)"
 
 # scripts/entity/world/settlements/large_forest_fort.nut
 msgid "Waldachfeste"
-msgstr "Waldachfeste(瓦尔达赫菲斯特)"
+msgstr "瓦尔达赫要塞(Waldachfeste)"
 
 # scripts/entity/world/settlements/large_forest_fort.nut
 msgid "Klarbachfeste"
@@ -2203,7 +2203,7 @@ msgstr "格罗讷堡(Groneborg)"
 
 # scripts/entity/world/settlements/large_snow_fort.nut
 msgid "Hunneborg"
-msgstr "Hunneborg（亨内堡）"
+msgstr "洪堡(Hunneborg)"
 
 # scripts/entity/world/settlements/large_snow_fort.nut
 msgid "Jarlsborg"
@@ -2223,7 +2223,7 @@ msgstr "这座大城堡在无尽的雪上显得很宽"
 
 # scripts/entity/world/settlements/large_snow_fort.nut
 msgid "This large citadel looks wide over the endless snow and is a stronghold against anything that may come down from the far north. As people flocked to its protection over the years, the many houses and workshops in its vicinity now also grant shelter and supply to travelers, mercenaries and adventurers in the area."
-msgstr "这座大城堡在无尽的雪上显得很宽 and is a stronghold against anything that may come down from the far north. As people flocked to its protection over the years, the many houses and workshops in its vicinity now also grant shelter and supply to travelers, mercenaries and adventurers in the area."
+msgstr "这个宏大的城堡俯瞰着无尽的雪野，是抵御来自极北的威胁的坚固堡垒。随着多年来人们涌入城堡，其周围的许多房屋和作坊现在也为周边地区的旅行者、雇佣兵和冒险家提供庇护和补给。"
 
 # scripts/entity/world/settlements/large_snow_village.nut
 msgid "Agersted"
@@ -2431,7 +2431,7 @@ msgstr "罗斯塔特(Rothstadt)"
 
 # scripts/entity/world/settlements/large_steppe_village.nut
 msgid "Sandstadt"
-msgstr "The text is: \"桑德斯塔特(Sandstadt)\""
+msgstr "桑德斯塔特(Sandstadt)"
 
 # scripts/entity/world/settlements/large_steppe_village.nut
 msgid "Strohmark"
@@ -2627,7 +2627,7 @@ msgstr "高高耸立在周围苔原上的大城堡"
 
 # scripts/entity/world/settlements/large_tundra_fort.nut
 msgid "A large citadel towering high over the surrounding tundra and securing the large and open region. Many come here to resupply, make repairs and rest until venturing on."
-msgstr "高高耸立在周围苔原上的大城堡 and securing the large and open region. Many come here to resupply, make repairs and rest until venturing on."
+msgstr "一个高耸于周围冻原的大堡垒，巩固了大片开阔地区的安全。许多人来到这里补给、修理并休息，以便再次出发。"
 
 # scripts/entity/world/settlements/large_tundra_village.nut
 msgid "Leifsted"
@@ -2867,7 +2867,7 @@ msgstr "一座被沃土包围的石堡"
 
 # scripts/entity/world/settlements/medium_farm_fort.nut
 msgid "A stone keep surrounded by fertile lands and acting as a strongpoint and base of operations in the region."
-msgstr "一座被沃土包围的石堡 and acting as a strongpoint and base of operations in the region."
+msgstr "一座石头城堡，周围是肥沃的土地，是该地区的据点和行动基地。"
 
 # scripts/entity/world/settlements/medium_farming_village.nut
 msgid "A prospering village surrounded by fertile land"
@@ -2915,7 +2915,7 @@ msgstr "西霍本(Seehoben)"
 
 # scripts/entity/world/settlements/medium_fishing_village.nut
 msgid "Birkhaven"
-msgstr "Birkhaven(伯克黑文)"
+msgstr "比尔克黑文(Birkhaven)"
 
 # scripts/entity/world/settlements/medium_fishing_village.nut
 msgid "Blankhoom"
@@ -3047,7 +3047,7 @@ msgstr "福斯特堡(Forstburg)"
 
 # scripts/entity/world/settlements/medium_forest_fort.nut
 msgid "Fuchsburg"
-msgstr "Fuchsburg（福克斯堡）"
+msgstr "福克斯堡(Fuchsburg)"
 
 # scripts/entity/world/settlements/medium_forest_fort.nut
 msgid "Wolfsburg"
@@ -3239,7 +3239,7 @@ msgstr "艾尔茨堡(Erzburg)"
 
 # scripts/entity/world/settlements/medium_mountains_fort.nut
 msgid "Felsburg"
-msgstr "Felsburg(费尔斯堡)"
+msgstr "费尔斯堡(Felsburg)"
 
 # scripts/entity/world/settlements/medium_mountains_fort.nut
 msgid "Hochburg"
@@ -3335,7 +3335,7 @@ msgstr "高耸于周围山脉之上的一座石堡"
 
 # scripts/entity/world/settlements/medium_mountains_fort.nut
 msgid "A stone keep that is towering high over the surrounding mountains. Lookouts on the towers can see approaching troops from miles away."
-msgstr "高耸于周围山脉之上的一座石堡. Lookouts on the towers can see approaching troops from miles away."
+msgstr "一座高耸于周围群山之上的石堡。塔楼上的哨兵可以在数英里之外侦查敌军。"
 
 # scripts/entity/world/settlements/medium_snow_fort.nut
 msgid "Asaholm"
@@ -3587,7 +3587,7 @@ msgstr "莫拉斯特堡(Morastburg)"
 
 # scripts/entity/world/settlements/medium_swamp_fort.nut
 msgid "Muckenburg"
-msgstr "马肯堡（Muckenburg）"
+msgstr "墨肯堡(Muckenburg)"
 
 # scripts/entity/world/settlements/medium_swamp_fort.nut
 msgid "Schilfburg"
@@ -3679,7 +3679,7 @@ msgstr "在崎岖的苔原上建立的村庄"
 
 # scripts/entity/world/settlements/medium_tundra_village.nut
 msgid "An established village in the rough tundra that is a meeting point for the area."
-msgstr "在崎岖的苔原上建立的村庄 that is a meeting point for the area."
+msgstr "这是一座坐落在荒凉冻原上的已建立的村庄，也是该地区的一个交汇点。"
 
 # scripts/entity/world/settlements/small_coast_fort.nut
 msgid "Seeturm"
@@ -3831,7 +3831,7 @@ msgstr "马克沃尔（Markwall）"
 
 # scripts/entity/world/settlements/small_farm_fort.nut
 msgid "Walldorf"
-msgstr "Walldorf(沃尔多夫)"
+msgstr "沃尔多夫(Walldorf)"
 
 # scripts/entity/world/settlements/small_farm_fort.nut
 msgid "Graswacht"
@@ -3871,7 +3871,7 @@ msgstr "山茨多夫(Schanzdorf)"
 
 # scripts/entity/world/settlements/small_farm_fort.nut
 msgid "Furstenwall"
-msgstr "Furstenwall(弗斯滕瓦尔)"
+msgstr "弗斯滕沃尔(Furstenwall)"
 
 # scripts/entity/world/settlements/small_farm_fort.nut
 msgid "Grafenwacht"
@@ -4163,7 +4163,7 @@ msgstr "法翰瓦赫特(Fahrnwacht)"
 
 # scripts/entity/world/settlements/small_forest_fort.nut
 msgid "Haselwacht"
-msgstr "Haselwacht(哈塞尔瓦赫特)"
+msgstr "哈塞尔瓦赫特（Haselwacht）"
 
 # scripts/entity/world/settlements/small_forest_fort.nut
 msgid "Hirschturm"
@@ -4219,7 +4219,7 @@ msgstr "埃施巴赫(Eschbach)"
 
 # scripts/entity/world/settlements/small_lumber_village.nut
 msgid "Jungholz"
-msgstr "The text is: \"容格霍尔茨(Jungholz)\""
+msgstr "荣格霍尔茨(Jungholz)"
 
 # scripts/entity/world/settlements/small_lumber_village.nut
 msgid "Ehrwalden"
@@ -4279,7 +4279,7 @@ msgstr "霍亨奥(Hohenau)"
 
 # scripts/entity/world/settlements/small_mining_village.nut
 msgid "Felsheim"
-msgstr "Felsheim(费尔斯海姆)"
+msgstr "菲尔斯海姆(Felsheim)"
 
 # scripts/entity/world/settlements/small_mining_village.nut
 msgid "Goldhoft"
@@ -4487,7 +4487,7 @@ msgstr "在这片山区修建了一个小型的防御工事，作为作战基地
 
 # scripts/entity/world/settlements/small_snow_fort.nut
 msgid "Asatorn"
-msgstr "Asatorn(阿萨通)"
+msgstr "阿萨通(Asatorn)"
 
 # scripts/entity/world/settlements/small_snow_fort.nut
 msgid "Gunnweir"
@@ -4515,7 +4515,7 @@ msgstr "瓦尔加德(Vallgard)"
 
 # scripts/entity/world/settlements/small_snow_fort.nut
 msgid "Kungswold"
-msgstr "kungswold (昆斯沃德)"
+msgstr "昆斯沃尔德(Kungswold)"
 
 # scripts/entity/world/settlements/small_snow_fort.nut
 msgid "Falkenholm"
@@ -4543,7 +4543,7 @@ msgstr "木制城寨在无尽的雪上显得很宽"
 
 # scripts/entity/world/settlements/small_snow_fort.nut
 msgid "This motte with bailey looks wide over the endless snow, and offers shelter from the cold and warm food to the garrison stationed here."
-msgstr "木制城寨在无尽的雪上显得很宽, and offers shelter from the cold and warm food to the garrison stationed here."
+msgstr "这座带有外郭的土丘在无尽的雪原上宽阔无垠，为驻扎在此的战团提供避寒之所和温暖的食物。"
 
 # scripts/entity/world/settlements/small_snow_village.nut
 msgid "Some huts huddled together"

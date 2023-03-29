@@ -715,7 +715,7 @@ msgstr "肥人 (the Fat)"
 
 # scripts/skills/traits/fat_trait.nut
 msgid "the Pig"
-msgstr "猪（the Pig）"
+msgstr "猪(the Pig)"
 
 # scripts/skills/traits/fat_trait.nut
 msgid "This character is more interested in pork chops than exercising, and will run out of breath more easily."
@@ -1067,7 +1067,7 @@ msgstr "将在动摇或崩溃士气时开始战斗。"
 
 # scripts/skills/traits/oath_of_camaraderie_trait.nut
 msgid "This character has taken an Oath of Camaraderie, and is sworn to stand and fall together with his allies. The general confusion of higher numbers on the battlefield, and the lack of focus on individual skill and personal glory has taken a toll on this character's resolve at the start of battle, however."
-msgstr "This character has taken an 友谊誓言, and is sworn to stand and fall together with his allies. The general confusion of higher numbers on the battlefield, and the lack of focus on individual skill and personal glory has taken a toll on this character's resolve at the start of battle, however."
+msgstr "这个角色已经立下友谊誓言，与他的盟友同生共死。然而，在战场上混乱的高人数和缺乏对个人技能和个人荣耀的关注，使得这个角色在战斗开始时的决心受到了影响。"
 
 # scripts/skills/traits/oath_of_distinction_trait.nut
 msgid "Oath of Distinction"
@@ -1091,7 +1091,7 @@ msgstr "如果相邻格子中没有盟友：每回合+3[/color]疲劳值回复"
 
 # scripts/skills/traits/oath_of_distinction_trait.nut
 msgid "This character has taken an Oath of Distinction, and is sworn to seek his own victories without the support of allies."
-msgstr "This character has taken an 超群誓言, and is sworn to seek his own victories without the support of allies."
+msgstr "此角立下了超群誓言，发誓在寻求胜利时不得借助盟友的支持。"
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
 msgid "Oath of Dominion"
@@ -1103,7 +1103,7 @@ msgstr "]+20[/color] 决心(与野兽战斗时)"
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
 msgid "]+10[/color] Melee Skill when fighting beasts"
-msgstr "]+10[/color] 近战技能 when fighting beasts"
+msgstr "]+10[/color] 近战技能（对抗野兽）"
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
 msgid "]-10[/color] Resolve when not fighting beasts"
@@ -1111,19 +1111,19 @@ msgstr "]-10[/color] 意志（对抗非野兽时）"
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
 msgid "]+10[/color] Ranged Skill when fighting beasts"
-msgstr "]+10[/color] 远程技能 when fighting beasts"
+msgstr "]+10[/color] 远程技能（对抗野兽）"
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
 msgid "]-5[/color] Melee Skill when not fighting beasts"
-msgstr "]-5[/color] 近战技能 when not fighting beasts"
+msgstr "]-5[/color] 近战技能（对抗非野兽）"
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
 msgid "]-5[/color] Ranged Skill when not fighting beasts"
-msgstr "]-5[/color] 远程技能 when not fighting beasts"
+msgstr "]-5[/color] 远程技能（对抗非野兽）"
 
 # scripts/skills/traits/oath_of_dominion_trait.nut
 msgid "This character has taken an Oath of Dominion, and is sworn to protect mankind from the savagery of wild beasts."
-msgstr "This character has taken an 统御誓言, and is sworn to protect mankind from the savagery of wild beasts."
+msgstr "该角色立下了统御誓言, 发誓保卫人类免受野兽的残忍侵袭。"
 
 # scripts/skills/traits/oath_of_endurance_trait.nut
 msgid "Oath of Endurance"
@@ -1131,7 +1131,7 @@ msgstr "忍耐誓言"
 
 # scripts/skills/traits/oath_of_endurance_trait.nut
 msgid "This character has taken an Oath of Endurance, and is sworn to outlast any foe in battle."
-msgstr "This character has taken an 忍耐誓言, and is sworn to outlast any foe in battle."
+msgstr "此角色立下了忍耐誓言，发誓在战斗中比任何敌人都更加坚韧持久。"
 
 # scripts/skills/traits/oath_of_fortification_trait.nut
 msgid "Oath of Fortification"
@@ -1171,7 +1171,7 @@ msgstr "专注于防御，在战斗的第一回合无法移动。"
 
 # scripts/skills/traits/oath_of_fortification_trait.nut
 msgid "This character has taken an Oath of Fortification, and is sworn to trust in his shield above all else."
-msgstr "This character has taken an 壁垒誓言, and is sworn to trust in his shield above all else."
+msgstr "该角色立下了壁垒誓言，发誓将信任放在他的盾牌之上。"
 
 # scripts/skills/traits/oath_of_honor_trait.nut
 msgid "Oath of Honor"
@@ -1187,7 +1187,7 @@ msgstr "如果心情允许的话，以自信的士气开始战斗。"
 
 # scripts/skills/traits/oath_of_honor_trait.nut
 msgid "This character has taken an Oath of Honor, and is sworn to seize victory up close."
-msgstr "This character has taken an 荣耀誓言, and is sworn to seize victory up close."
+msgstr "该角色已经宣誓荣誉誓言，发誓必将奋力取胜。"
 
 # scripts/skills/traits/oath_of_humility_trait.nut
 msgid "Oath of Humility"
@@ -1195,7 +1195,7 @@ msgstr "谦逊誓言"
 
 # scripts/skills/traits/oath_of_humility_trait.nut
 msgid "This character has taken an Oath of Humility, and is sworn to self-reflection and self-improvement."
-msgstr "This character has taken an 谦逊誓言, and is sworn to self-reflection and self-improvement."
+msgstr "该角色立下了谦逊誓言，发誓要自我反思和自我提高。"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "Oath of Righteousness"
@@ -1207,7 +1207,7 @@ msgstr "]+15[/color] 决心(与亡灵战斗时)"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]+10[/color] Melee Skill when fighting undead"
-msgstr "]+10[/color] 近战技能 when fighting undead"
+msgstr "]+10[/color] 近战技能（对抗不死族）"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]-10[/color] Resolve when not fighting undead"
@@ -1215,7 +1215,7 @@ msgstr "]-10[/color] 意志（非对抗不死族）"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]+10[/color] Ranged Skill when fighting undead"
-msgstr "]+10[/color] 远程技能 when fighting undead"
+msgstr "]+10[/color] 远程技能（对抗不死族）"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]+5[/color] Melee Defense when fighting undead"
@@ -1227,11 +1227,11 @@ msgstr "]+5[/color] 远程防御（对抗不死族）"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]-5[/color] Melee Skill when not fighting undead"
-msgstr "]-5[/color] 近战技能 when not fighting undead"
+msgstr "]-5[/color] 近战技能（对抗不死族外）"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]-5[/color] Ranged Skill when not fighting undead"
-msgstr "]-5[/color] 远程技能 when not fighting undead"
+msgstr "]-5[/color] 远程技能（非对抗不死族）"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "]-5[/color] Melee Defense when not fighting undead"
@@ -1243,7 +1243,7 @@ msgstr "]-5[/color] 远程防御（非对抗不死族）"
 
 # scripts/skills/traits/oath_of_righteousness_trait.nut
 msgid "This character has taken an Oath of Righteousness, and is sworn to put the living dead to their final rest."
-msgstr "This character has taken an 正义誓言, and is sworn to put the living dead to their final rest."
+msgstr "该角色已经宣誓正义誓言，发誓要将亡灵赶尽杀绝。"
 
 # scripts/skills/traits/oath_of_sacrifice_trait.nut
 msgid "Oath of Sacrifice"
@@ -1259,7 +1259,7 @@ msgstr "没有支付任何工资。"
 
 # scripts/skills/traits/oath_of_sacrifice_trait.nut
 msgid "This character has taken an Oath of Sacrifice, and is sworn to forgo self-care to see the company succeed. Such drive takes a toll on physical well-being, however."
-msgstr "This character has taken an 牺牲誓言, and is sworn to forgo self-care to see the company succeed. Such drive takes a toll on physical well-being, however."
+msgstr "该角色立下了牺牲誓言，发誓为了战团的胜利而放弃自我保护。然而，这种动力对身体的健康产生了不良影响。"
 
 # scripts/skills/traits/oath_of_valor_trait.nut
 msgid "Oath of Valor"
@@ -1271,7 +1271,7 @@ msgstr "不会逃离战斗。"
 
 # scripts/skills/traits/oath_of_valor_trait.nut
 msgid "This character has taken an Oath of Valor, and is sworn to hold fast in battle at any cost."
-msgstr "This character has taken an 英勇誓言, and is sworn to hold fast in battle at any cost."
+msgstr "该角色已发誓守护荣耀，誓言在战斗中不惜一切代价坚守阵地。"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "Oath of Vengeance"
@@ -1283,7 +1283,7 @@ msgstr "]+15[/color] 意志（对抗绿皮）"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]+10[/color] Melee Skill when fighting greenskins"
-msgstr "]+10[/color] 近战技能 when fighting greenskins"
+msgstr "]+10[/color] 近战技能（对抗兽人）"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]-10[/color] Resolve when not fighting greenskins"
@@ -1291,7 +1291,7 @@ msgstr "]-10[/color] 意志（未对抗绿皮族）"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]+10[/color] Ranged Skill when fighting greenskins"
-msgstr "]+10[/color] 远程技能 when fighting greenskins"
+msgstr "]+10[/color] 远程技能（对抗兽人）"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]+5[/color] Melee Defense when fighting greenskins"
@@ -1303,11 +1303,11 @@ msgstr "]+5[/color] 远程防御（对抗绿皮族）"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]-5[/color] Melee Skill when not fighting greenskins"
-msgstr "]-5[/color] 近战技能 when not fighting greenskins"
+msgstr "]-5[/color] 近战技能（对抗绿皮族无效）"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]-5[/color] Ranged Skill when not fighting greenskins"
-msgstr "]-5[/color] 远程技能 when not fighting greenskins"
+msgstr "]-5[/color] 远程技能（对抗非绿皮族）"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "]-5[/color] Melee Defense when not fighting greenskins"
@@ -1335,7 +1335,7 @@ msgstr "]+15%[/color] 持有双手或双握近战武器攻击的命中率"
 
 # scripts/skills/traits/oath_of_wrath_trait.nut
 msgid "This character has taken an Oath of Wrath, and is sworn to smite even the greatest foe."
-msgstr "This character has taken an 愤怒誓言, and is sworn to smite even the greatest foe."
+msgstr "该角色立下了愤怒誓言，发誓要斩杀任何敌人，即使他的敌人实力强大。"
 
 # scripts/skills/traits/old_trait.nut
 msgid "Old"
@@ -1531,7 +1531,7 @@ msgstr "矮人(the Short)"
 
 # scripts/skills/traits/tiny_trait.nut
 msgid "the Halfman"
-msgstr "半人（the Halfman）"
+msgstr "半人 (the Halfman)"
 
 # scripts/skills/traits/tiny_trait.nut
 msgid "]-15%[/color] Melee Damage"

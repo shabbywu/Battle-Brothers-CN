@@ -222,7 +222,7 @@ msgstr "厚皮药剂"
 
 # scripts/items/misc/anatomist/alp_potion_item.nut
 msgid "Not affected by nighttime penalties"
-msgstr "不受夜间影响 penalties"
+msgstr "不受夜间惩罚影响"
 
 # scripts/items/misc/anatomist/alp_potion_item.nut
 msgid "This draft, the result of intensive study into the so-called 'Third Eye' of the Alp, allows whomever drinks it to see through the night as if it were day! Blurry vision and hallucinations are expected while the body acclimates."
@@ -274,7 +274,7 @@ msgstr "这种血清是用从某些特殊的僵尸样本中发现的一种物质
 
 # scripts/items/misc/anatomist/geist_potion_item.nut
 msgid "]5%[/color] of damage ignores armor when using melee weapons"
-msgstr "]5%[/color] 伤害忽视盔甲 when using melee weapons"
+msgstr "]5%[/color] 的伤害将忽略护甲（当使用近战武器时）"
 
 # scripts/items/misc/anatomist/geist_potion_item.nut
 msgid "This draft, synthesized from the faint ectoplasmic remnants of a 'slain' Geist, alters the body of whoever imbibes it to take on a similar ghostly aspect. Any weapons wielded by such a warrior will surely gain some of the creature's ability to bypass armor! Auditory hallucinations are an expected side effect of consuming the draft and will likely cease after a while. Hopefully, anyway."
@@ -294,7 +294,7 @@ msgstr "这种混合物由在哥布林前线步兵身上携带的药物研制而
 
 # scripts/items/misc/anatomist/goblin_overseer_potion_item.nut
 msgid "]5%[/color] of damage ignores armor when using bows or crossbows"
-msgstr "]5%[/color] 伤害忽视盔甲 when using bows or crossbows"
+msgstr "]5%[/color]的伤害（使用弓或弩）无视护甲"
 
 # scripts/items/misc/anatomist/goblin_overseer_potion_item.nut
 msgid "Equal parts terrifying and annoying, the uncanny marksmanship of upper caste goblins has long been thought unobtainable by ordinary, self-respecting humans. With this wondrous potion, however, the discerning warrior can harness some of that latent skill for himself at minor cosmetic cost!"
@@ -652,7 +652,7 @@ msgstr "获得额外[color="
 
 # scripts/items/misc/anatomist/serpent_potion_item.nut
 msgid "]+3%[/color] chance to hit in melee for every ally adjacent to your target"
-msgstr "]+3%[/color] 命中几率 in melee for every ally adjacent to your target"
+msgstr "]+3%[/color]（每有一个邻近目标的盟友）近战命中率"
 
 # scripts/items/misc/anatomist/serpent_potion_item.nut
 msgid "With this potion, the feared guile and precision of the hateful desert serpent is within any warrior's grasp!"
@@ -680,7 +680,7 @@ msgstr "不要在意名字这种小事，这种药剂将让任何喝下它的人
 
 # scripts/items/misc/anatomist/webknecht_potion_item.nut
 msgid "Immune to poison effects, including those of Webknechts and Goblins"
-msgstr "免疫中毒效果，包括蜘蛛与哥布林的毒药"
+msgstr "免疫中毒效果，包括蛛魔与哥布林的毒药"
 
 # scripts/items/misc/anatomist/webknecht_potion_item.nut
 msgid "As any experienced beast hunter could tell you, what makes the overgrown arachnids known as Webknechts truly fearsome is their vicious poison. Well, no longer! Whoever drinks this potion need not fear the creatures' venom again!"

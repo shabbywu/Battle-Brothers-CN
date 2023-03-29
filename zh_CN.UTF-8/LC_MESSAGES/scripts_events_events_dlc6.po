@@ -132,7 +132,7 @@ msgstr "你找到 %name% 在"
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
 msgid "Welcome to the company!"
-msgstr "欢迎加入 company！"
+msgstr "欢迎加入战团！"
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
 msgid "Well done, have a crown."
@@ -152,7 +152,7 @@ msgstr "你运用刀刃的天赋是我前所未见的。"
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
 msgid ", masked by green silk and drawing crowds with rhythmic movements and impressively precise fruit slicing. The latter skill is a boon to any mercenary company, and so you didn't hesitate to recruit him."
-msgstr ", masked by green silk and drawing crowds with rhythmic movements and impressively precise fruit slicing. 后一种技能对任何雇佣兵战队都是一种好处，所以你毫不犹豫地招募了他。"
+msgstr "，他以绿色丝绸遮面，以有节奏的舞蹈和惊人精准的水果切割技巧吸引了大批人群。后一项技能对于任何雇佣军公司都是一大福利，因此你毫不犹豫地招募了他。"
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
 msgid "[img]gfx/ui/events/event_163.png[/img]{You tell the dancer that he is one of the best you've seen with a blade. He laughs.%SPEECH_ON%A truly well intentioned attempt on your part, Crownling, to drag me to your ways of life. But you know well that there is nothing you could say or do that would take me away from this life. Yes, the blade suits me well, but so does flittering about for the crowd, earning praise without spilling blood to do it. You go play gladiator on the sands and earn you coin, Crownling, and I will be here earning mine.%SPEECH_OFF%}"
@@ -168,9 +168,9 @@ msgid ""
 "\n"
 " Someone throws an apple through the air and the dancer spins around and shoots a tiny dagger through it, plugging it dead center and dropping the fruit to the ground. Another apple soars in and this time a large saber is produced and slashes the stem off and she catches the rest and takes a bite. The crowd claps gently to this.}"
 msgstr ""
-"[img]gfx/ui/events/event_163.png[/img]{一个肚皮舞者在 %townname%的中心广场吸引着人群。 有节奏的运动本身能让一个乞丐献出一克朗，但是以一整个广场为舞台，这足够引来人群和成堆的金子。 Masked by green silk, nearly see through, and clothed in thin silks with the whole mid rift exposed, the dancer is no doubt an expert in her field. 她回转着，臀部的韵律好似安眠曲，肘部弯曲，手拍打着小钹，她的脚尖踮起着在一个点上旋转，如此稳定好似有一个隐形的神使她在眼花缭乱的运动中保持原地。\n"
+"[img]gfx/ui/events/event_163.png[/img]{一个肚皮舞者在 %townname%的中心广场吸引着人群。有节奏的运动本身能让一个乞丐献出一克朗，但是以一整个广场为舞台，这足够引来人群和成堆的金子。舞者身穿薄丝绸，遮盖了半身，饰有透明的深绿色面纱。她无疑是自己领域的专家。她转动着，臀部充满魅惑，手肘弯曲，手抓着小铜钹鼓。她的脚尖踮起着在一个点上旋转，如此稳定好似有一个隐形的神使她在眼花缭乱的运动中保持原地。\n"
 "\n"
-" 有人丢出一个苹果到半空中，而舞者旋转着，丢出一个细小的匕首刺穿了它，正中核心，苹果掉到了地上。 另一个苹果猛然投出，这次一把大弯刀出现削下茎叶后，她接住苹果小咬一口。 人群轻轻地鼓掌。}"
+"突然有人向空中扔了一个苹果，舞者立刻转身，用一把小匕首刺了进去，并且打在了目标中心，果实掉落在地上。然后又有一个苹果被扔了进来，这次舞者拿出了一把大刀，砍断了茎，并抓住剩下的部分咬了一口。人群轻轻拍掌为她喝彩。}"
 
 # scripts/events/events/dlc6/belly_dancer_event.nut
 msgid "[img]gfx/ui/events/event_163.png[/img]{You offer five hundred crowns to the dancer. He keeps picking up coins - one at a time - and putting them in his clay pot. It is almost a silent affair, coins clapping loudly as they fall into a nearly empty barrel of clay. He looks up, looks down. He puts in one more crown then gets to his feet. He strips off his clothes and holds out his hand.%SPEECH_ON%The Gilded One must be gleaming upon us both, for you to have earned such keep, and no doubt He has guided your purse here to bring it to me.%SPEECH_OFF%You nod and shake his hand. A passerby glances over and scratches his head.%SPEECH_ON%Wait a minute, you've a snake down there! I thought you were a lady of the dance, but this...%SPEECH_OFF%He dabs his forehead and lowers his voice.%SPEECH_ON%This makes it even better.%SPEECH_OFF%Sighing, the dancer asks that he take a look at your inventory.%SPEECH_ON%A body like mine, anything will fit, inside or out, I'll make it work.%SPEECH_OFF%}"
@@ -214,7 +214,7 @@ msgstr "我们救了你。 这不意味着我们欢迎你。"
 
 # scripts/events/events/dlc6/cannon_execution_event.nut
 msgid "Almost got executed by a technological marvel in spectacular fashion"
-msgstr "差点被处决 by a technological marvel in spectacular fashion"
+msgstr "差点被一个技术奇迹以壮观的方式处决"
 
 # scripts/events/events/dlc6/cannon_execution_event.nut
 msgid "Only by your timely intervention was %name% saved from execution by being shot at with a giant mortar. An eccentric thief, his latest failed attempt to burglarize a Vizier's palace was deemed a good reason to set a very clear deterrent for anyone else harboring similar plans."
@@ -382,7 +382,7 @@ msgstr "干预并说服他加入你的战团，为自己开始新的生活。"
 
 # scripts/events/events/dlc6/desert_well_event.nut
 msgid "A string of bad fortune led the former arms-peddler %name% to attempt to end his life by blowing himself up, but "
-msgstr "一连串不幸导致前军火商人[name]试图通过自爆结束自己的生命，但是..."
+msgstr "一连串的不幸事件导致前军火贩子%name%试图以炸毁自己的方式结束生命，但是"
 
 # scripts/events/events/dlc6/desert_well_event.nut
 msgid "%terrainImage%{The man nods.%SPEECH_ON%That ain't no watering hole, that's a cannon. I got a pile of fire powder in the bottom. The chute is armed with buckets, and fishing rods, all manner of cutlery, some soldier's metal boots, a broken sword, couple of scabbards, I think a few animals fell in but they no doubt dead now, if not they're going for a ride.%SPEECH_OFF%}"
@@ -570,7 +570,7 @@ msgstr "，准备进行一场激烈的火焰杂耍表演，打破纪录，甚至
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid " jumped in to perform the act with him, possibly saving his life. Afterwards, %name% finally had enough of his trade and volunteered to join your company."
-msgstr " jumped in to perform the act with him, possibly saving his life. 后来，%name% 终于受够了他的生意，自愿加入你的战队。"
+msgstr "之后，队长跳进去和他一起完成任务，可能救了他的命。后来，%name%终于厌倦了这种生活，主动加入了你的战团。"
 
 # scripts/events/events/dlc6/fire_juggler_event.nut
 msgid "[img]gfx/ui/events/event_163.png[/img]{You nod.%SPEECH_ON%Fireling, Crownling, whatever. You're with the %companyname%.%SPEECH_OFF%The crowd hisses again, but you tell them to fuck off, peppering the threat with a flash of your sword just in case they had any problems understanding. %firejuggler%, the fire juggler, thanks you profusely and quickly goes to your ranks where the company welcomes him about as begrudgingly as they do any new recruit. As for %townname%'s people, they quickly tire of the drama and move on with their lives.}"
@@ -704,7 +704,7 @@ msgstr "[img]gfx/ui/events/event_171.png[/img]{商人咧嘴一笑。%SPEECH_ON%�
 
 # scripts/events/events/dlc6/gunpowder_wagon_event.nut
 msgid "[img]gfx/ui/events/event_171.png[/img]{A series of camels come into view. They've dozens of satchels and knapsacks bobbing at their sides, and large umbrellas hoisted above. The camels are guided by a singular jockey riding the lead mount: an old man seated side-saddle with one foot in a stirrup and the other balancing a plate. He's eating nuts and berries and enjoying a cool beverage. He is nonplussed at the sight of you.%SPEECH_ON%Crownlings, yes? I can tell by your swagger, the braggadocio alchemists, transmuting raw gold in the copper of his fellow man's blood. I do not look down upon you, Crownling, and you shan't look upon me as prey to the brigandage that I know pulses whimsically in your heart.%SPEECH_OFF%He holds up a stick with a black mark at the top, his thumbnail pressed into it.%SPEECH_ON%I carry saltpeter for the Viziers' various war machines. You see, the great cast iron shots do not travel high and far without my ingredient, this here gentle dust which fills my camels' every bag. Were you to think yourself a brave robber I will set alight my wares and make us all together shine so bright the Gilder Himself shall shade His very eyes.%SPEECH_OFF%}"
-msgstr "[img]gfx/ui/events/event_171.png[/img]{一串骆驼进入视野。 它们身上载着几十个袋子和小背包，上面还有大伞。 骆驼们被一个孤独的骑手领着：一个侧坐在马鞍上一条腿踩马镫着另一条平衡着一个盘子。 他在吃坚果和浆果并享受着清凉的饮料。 他没有对于你的出现感到惊讶。%SPEECH_ON%逐币者，是吧？我可以从你张扬的步伐看出来，自负的炼金术士，从他同伴的血液中的铜中转化粗金。 I do not look down upon you, Crownling, and you shan't look upon me as prey to the brigandage that I know pulses whimsically in your heart.%SPEECH_OFF%他拿起一根顶端有黑色印记的木棍，他的大拇指按在上面。%SPEECH_ON%我为维齐尔的各种战争器械运输硝石。 你懂得，大铸钢弹丸如果没有我的材料飞不了多高多远，这些温和的粉尘装满了我骆驼的每个包裹。 你要是觉得自己是个勇敢的强盗我会点亮我的货物来让我们闪亮到镀金者他本人都要遮住眼。%SPEECH_OFF%}"
+msgstr "[img]gfx/ui/events/event_171.png[/img]{一列骆驼出现在视野中。它们的两侧摇晃着数十个书包和背包，还有一把大伞高高举起。骆驼由一个马夫掌控，他骑在最前面的骆驼上，一个老人侧坐在马鞍上，一只脚在马镫里，另一只脚平衡着一盘食物。他正在吃坚果和浆果，享受着冷饮。他看到你并不烦恼。%SPEECH_ON%皇室子民，是吧？我可以看出来从你们的趾高气扬，你们那个骄傲自大的炼金师。将原本的黄金转化成他人血液中的铜。我不会瞧不起你们，皇室子民，你们也不要将我看作是匪徒心中的猎物，我知道这种念头在你们的心中悄然滋生。%SPEECH_OFF%他拿起一根有着黑痕的棍子，他的拇指压在上面。%SPEECH_ON%我运送的是维齐尔用于制造不同战争机器的硝酸盐。你知道的，没有了这种重要成分，大铸铁炮弹飞不远也不能高。我的骆驼的每个袋子里都装满了这种粉末。如果你敢认为自己是有勇气的强盗，我会点燃我的货物，让我们都一起发光到让至高无上的吉尔德本人也要闭上双眼。%SPEECH_OFF%}"
 
 # scripts/events/events/dlc6/manhunters_origin_capture_prisoner_event.nut
 msgid "After the battle..."
@@ -716,7 +716,7 @@ msgstr "我们不需要他。"
 
 # scripts/events/events/dlc6/manhunters_origin_capture_prisoner_event.nut
 msgid "Lost a battle and was taken a captive"
-msgstr "输了一场战斗 and was taken a captive"
+msgstr "战败被俘"
 
 # scripts/events/events/dlc6/manhunters_origin_capture_prisoner_event.nut
 msgid "Take him as an indebted to the Gilder so that he may earn his salvation."
@@ -784,7 +784,7 @@ msgstr "[img]gfx/ui/events/event_171.png[/img]{商人点了点头，你用克朗
 
 # scripts/events/events/dlc6/merchant_of_jugs_event.nut
 msgid "[img]gfx/ui/events/event_171.png[/img]{You exchange for everything he's got to which the merchant happily obliges. When he leaves, his camels are barren and seem to have a skip in their step after carrying a load for so long. The drink in the jugs is a mixture of water and other additives which will ensure good, long lasting taste. A refreshing beverage to have in an otherwise hellish wasteland.}"
-msgstr "[img]gfx/ui/events/event_171.png[/img]{你提出买下他所有的货物，商人愉快的接受了。 当他离开的时候，他的骆驼都是光秃秃的，而且在扛了这么长时间的东西之后，它们的脚步好像有点跳跃。 The drink in the jugs is a mixture of water and other additives which will ensure good, long lasting taste. 对于这地狱般的荒地真是令人清爽的饮料。}"
+msgstr "[img]gfx/ui/events/event_171.png[/img]{你与商人交换了他所有的货物，他非常乐意地答应了。他离开时，他的骆驼已经空了，但却似乎已经从运输重物中恢复了活力。这些水罐中的饮料是水和其他添加剂的混合物，这将确保持久的美味口感。在这片地狱般的荒漠中，这是一种令人耳目一新的饮料。}"
 
 # scripts/events/events/dlc6/merchant_of_jugs_event.nut
 msgid "[img]gfx/ui/events/event_171.png[/img]{A lone merchant approaches with a wagon pulled by a camel. Large jugs rattle against one another in the bed of his cart, with ropes of dried moss hanging between the lids of each one. He rears up on the camel and swings his legs to one side of the animal's withers, tapping his own boot with a jockey switch.%SPEECH_ON%Hello there, travelers, I pray that your road to the coin has been gilded well. Mine has, though I'm afraid we have seemingly crossed paths at a time when my peculiar shines rank in rare number. I've but a few goods left, all of the drinking sort. 50 crowns per jug. Interested?%SPEECH_OFF%}"

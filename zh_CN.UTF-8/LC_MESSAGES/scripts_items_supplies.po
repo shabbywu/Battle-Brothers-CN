@@ -146,7 +146,7 @@ msgstr "医疗用品"
 
 # scripts/items/supplies/medicine_item.nut
 msgid "[/color] units of herbs, salves, bandages and the like to help your mercenaries recover from injuries sustained in battle. Will be added to your global stock once you're back on the worldmap."
-msgstr "[/color] units of herbs, salves, bandages and the like to help your mercenaries recover from injuries sustained in battle. 一旦你重新进入世界地图，将被添加到你的库存中。"
+msgstr "[/color] 单位草药，沙布，绷带等物品，用来帮助您的佣兵从战斗中受到的伤势中恢复。一旦您回到世界地图上，它们将被添加到您的全局库存中。"
 
 # scripts/items/supplies/money_item.nut
 msgid "Crowns"
@@ -158,7 +158,7 @@ msgstr "数量 [color="
 
 # scripts/items/supplies/money_item.nut
 msgid "[/color] crowns, the currency in these lands. Will be added to your global stock once you're back on the worldmap."
-msgstr "[/color] crowns, the currency in these lands. 一旦你重新进入世界地图，将被添加到你的库存中。"
+msgstr "[/color] 克朗，这片土地上的货币。一旦你回到世界地图上，将会被添加到你的全局库存中。"
 
 # scripts/items/supplies/pickled_mushrooms_item.nut
 msgid "Mushrooms"

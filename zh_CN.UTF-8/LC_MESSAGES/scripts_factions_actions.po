@@ -199,7 +199,7 @@ msgstr "来自另一个时代的有触角的恐怖生物。"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "A swarm of webknechts skittering about."
-msgstr "一群蜘蛛在游荡。"
+msgstr "一群蛛魔在游荡。"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Pale and haggard creatures creeping around."

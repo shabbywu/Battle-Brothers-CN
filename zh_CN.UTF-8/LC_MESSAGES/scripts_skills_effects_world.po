@@ -31,7 +31,7 @@ msgstr "将在之后消失"
 # scripts/skills/effects_world/new_trained_effect.nut
 # scripts/skills/effects_world/trained_effect.nut
 msgid "Training Experience"
-msgstr "Training 经验值"
+msgstr "训练经验(Training Experience)"
 
 # scripts/skills/effects_world/new_trained_effect.nut
 # scripts/skills/effects_world/trained_effect.nut

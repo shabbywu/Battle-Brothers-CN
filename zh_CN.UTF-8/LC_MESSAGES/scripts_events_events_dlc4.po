@@ -446,7 +446,7 @@ msgstr "在他志愿加入你的战团之前。"
 
 # scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
 msgid "%name% deserted an army regiment together with "
-msgstr "%name% 和队伍（%company%）一起叛逃了"
+msgstr "%name% 和一个军团一起背叛了该团"
 
 # scripts/events/events/dlc4/deserter_origin_volunteer_event.nut
 msgid "Running from bounty hunters and executioners from some time, %name% bumped into your company on the road and promptly volunteered."
@@ -754,7 +754,7 @@ msgstr "想想看，我曾经孤身一人在这片土地上漫游..."
 
 # scripts/events/events/dlc4/lone_wolf_origin_another_squire_event.nut
 msgid "[img]gfx/ui/events/event_64.png[/img]{%squire% comes up to you scratching the back of his head. He looks like he has something on his mind, and you prod him to let it out. Sighing, he asks why %squire2% was hired onto the company.%SPEECH_ON%He's a squire, I'm a squire, are we both your squires?%SPEECH_OFF%You inform the lad that %squire2% was squire to another man, but things changed in his life to lead him here. For all intents and purposes, he is a sellsword now and %squire% is indeed still your squire. %squire% lights up with a smile, but it quickly goes awry.%SPEECH_ON%Wait, does that mean I'm more sellsword than squire?%SPEECH_OFF%You press a ledger into the kid's chest and tell him to go count inventory.}"
-msgstr "[img]gfx/ui/events/event_64.png[/img]{[squire]走到你面前，揉着他的后脑勺。他看起来有事情不知该如何开口，你督促他吐露心事。他叹了口气，问为什么要雇佣[squire2]加入战团。%SPEECH_ON%他是侍从，而我也是侍从，那我们两个都是你的侍从吗？%SPEECH_OFF%你告诉他，[squire2]曾经是另一个人的侍从，但是生活发生了很多变化，最终他成为了一个自由雇佣兵。就事论事而言，[squire2]现在是一个自由雇佣兵，[squire]仍是你的侍从。[squire]露出微笑，但很快这开心的气氛就没了。%SPEECH_ON%等等，这是不是意味着我更像是一个自由雇佣兵而不是侍从？%SPEECH_OFF%你递给他一本账簿，让他去盘点库存。}"
+msgstr "[img]gfx/ui/events/event_64.png[/img]{%squire%拍拍头，向你走来。他看上去有些犹豫不决，你催促他说出来。他叹了口气，询问为什么要雇佣%squire2%到队伍中。%SPEECH_ON%他是个侍从，我也是个侍从，难道我们都是你的侍从？%SPEECH_OFF% 你告诉这个小伙子，%squire2%曾是另一个人的侍从，但是生活发生了变化，导致他流落到这里。就所有的目的而言，他现在是个雇佣兵，%squire%仍然是你的侍从。%squire%露出微笑，但很快又去丑化了。%SPEECH_ON%等一下，这是否意味着我比侍从还像个兵？%SPEECH_OFF% 你将一本账本压在孩子的胸口上，让他去数清库存。}"
 
 # scripts/events/events/dlc4/lone_wolf_origin_depressing_lady_event.nut
 msgid "This world is what I make of it."
@@ -818,7 +818,7 @@ msgstr "[img]gfx/ui/events/event_20.png[/img]{这个男人站直了。%SPEECH_ON
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid "[img]gfx/ui/events/event_20.png[/img]{You ask the man his name. He swallows nervously.%SPEECH_ON%%squire%, sir.%SPEECH_OFF%You nod.%SPEECH_ON%Well alright then. I'll take ya with me.%SPEECH_OFF%He smiles.%SPEECH_ON%That's. That's it?%SPEECH_OFF%You nod.%SPEECH_ON%Yeah. That's it.%SPEECH_OFF%%squire% looks around.%SPEECH_ON%Well. Alright. What now?%SPEECH_OFF%You lean back against the stone steps.%SPEECH_ON%You follow me. Right now I'm gonna take another nap. If yer still around when I wake, well, then you've passed your first test. Defeating boredom.%SPEECH_OFF%The squire is grinning ear to ear. He's still there when you wake.}"
-msgstr "[img]gfx/ui/events/event_20.png[/img]{你询问这个男人的名字。他紧张地咽了口口水。%SPEECH_ON%队长，我是个侍从。%SPEECH_OFF%你点了点头。%SPEECH_ON%好吧，那我就带你一起走了。%SPEECH_OFF%他微笑着。%SPEECH_ON%就这样？%SPEECH_OFF%你点了点头。%SPEECH_ON%没错，就这样。%SPEECH_OFF%%squire%四处张望。%SPEECH_ON%那么，现在怎么办？%SPEECH_OFF%你靠在石阶上。%SPEECH_ON%跟着我。现在我要打个盹，等我醒来时你还在这里，那么你就通过了你的第一个测试——战胜无聊。%SPEECH_OFF%侍从露出了笑容，当你醒来时，他还在那里。}"
+msgstr "[img]gfx/ui/events/event_20.png[/img]{你询问这个男人的名字。他紧张地咽了口口水。%SPEECH_ON%我是个侍从。，长官。%SPEECH_OFF%你点点头。%SPEECH_ON%好的，那你就跟着我吧。%SPEECH_OFF%他微笑着。%SPEECH_ON%就这样了？%SPEECH_OFF%你点点头。%SPEECH_ON%是的，就这样了。%SPEECH_OFF%%squire%四周环顾。%SPEECH_ON%那么，现在怎么办？%SPEECH_OFF%你靠在石阶上。%SPEECH_ON%跟着我，我现在要再打个盹。如果醒来之后你还在这里，那么就算你通过了第一关。打败了无聊。%SPEECH_OFF%这个侍从从耳朵到耳朵都在咧嘴笑。当你醒来时，他还在那里。}"
 
 # scripts/events/events/dlc4/lone_wolf_origin_squire_event.nut
 msgid ""
