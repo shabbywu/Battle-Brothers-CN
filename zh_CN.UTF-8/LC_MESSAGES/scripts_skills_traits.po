@@ -1319,7 +1319,7 @@ msgstr "]-5[/color] 远程防御（对抗非绿皮族）"
 
 # scripts/skills/traits/oath_of_vengeance_trait.nut
 msgid "This character has taken an Oath of Vengeance, and is sworn to battle the greenskin menace that plagues mankind."
-msgstr ""
+msgstr "该角色已经宣誓复仇，发誓要与困扰人类的绿皮族作战。"
 
 # scripts/skills/traits/oath_of_wrath_trait.nut
 msgid "Oath of Wrath"
@@ -1331,7 +1331,7 @@ msgstr "]-10[/color] 远程防御"
 
 # scripts/skills/traits/oath_of_wrath_trait.nut
 msgid "]+15%[/color] chance to hit when wielding a two-handed or double-gripped melee weapon"
-msgstr ""
+msgstr "]+15%[/color] 持有双手或双握近战武器攻击的命中率"
 
 # scripts/skills/traits/oath_of_wrath_trait.nut
 msgid "This character has taken an Oath of Wrath, and is sworn to smite even the greatest foe."
