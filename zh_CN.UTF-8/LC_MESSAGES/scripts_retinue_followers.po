@@ -354,7 +354,7 @@ msgstr "使战队在任何地形上的旅行速度提高15%"
 
 # scripts/retinue/followers/scout_follower.nut
 msgid "The Scout is an expert in finding mountain passes, navigating through treacherous swamps, and guiding anyone safely through the darkest of forests."
-msgstr ""
+msgstr "侦察兵是在寻找山口、穿越险恶沼泽和引导任何人安全通过最黑暗的森林方面的专家。"
 
 # scripts/retinue/followers/surgeon_follower.nut
 msgid "Treated "
