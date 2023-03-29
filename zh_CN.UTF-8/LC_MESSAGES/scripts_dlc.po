@@ -164,7 +164,7 @@ msgstr "蛛魔(Webknechts)在更大的小组中更有信心。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "A Lindwurm is a wingless bipedal dragon resembling a large snake."
-msgstr "林德瓦姆(Lindwurm)是一种无翼二足龙，类似于一条大蛇。"
+msgstr "林德瓦姆(Lindwurm)是一种无翼的双足龙，类似于一条巨大的蛇。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Nachzehrers are found more often in the southern parts of the world."
@@ -180,7 +180,7 @@ msgstr "女巫以达成令人后悔的神秘交易而著称。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Webknechts inflict additional damage to targets trapped in their webs."
-msgstr "蛛魔（Webknechts）能够对被困在它们网中的目标造成额外伤害。"
+msgstr "蛛魔(Webknechts)能够对被困在它们网中的目标造成额外伤害。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "A Hexe can curse one of your men to suffer the same wounds as she does."

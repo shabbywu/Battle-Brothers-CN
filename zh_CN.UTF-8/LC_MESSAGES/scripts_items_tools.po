@@ -76,7 +76,7 @@ msgstr "减少目标[color="
 
 # scripts/items/tools/acid_flask_item.nut
 msgid "]33%[/color] chance to hit bystanders at the same or lower height level as well"
-msgstr "]33%[/color] 命中几率 bystanders at the same or lower height level as well"
+msgstr "]33%[/color] 的概率攻击与自己相同或更低高度的敌人。"
 
 # scripts/items/tools/acid_flask_item.nut
 msgid "A flask filled with the concentrate of a Lindwurm's acidic blood. It is highly corrosive to many materials and burns through armor quickly. Can be thrown at short ranges."
@@ -140,7 +140,7 @@ msgstr "]3[/color] 回合（只对不死族生效）"
 
 # scripts/items/tools/holy_water_item.nut
 msgid "]33%[/color] chance to hit bystanders at the same or lower height level as well."
-msgstr "]33%[/color] 命中几率 bystanders at the same or lower height level as well."
+msgstr "]33%[/color] 的概率攻击与自己相同或更低高度的敌人。"
 
 # scripts/items/tools/holy_water_item.nut
 msgid "A flask filled with water blessed by a man of the gods. Can be thrown at short ranges."

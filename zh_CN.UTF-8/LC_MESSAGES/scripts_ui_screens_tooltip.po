@@ -274,7 +274,7 @@ msgstr "近战技能"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Retinue (P)"
-msgstr "随从（P）"
+msgstr "随从(P)"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Scene Scale"
