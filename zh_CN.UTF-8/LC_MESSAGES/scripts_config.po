@@ -7474,7 +7474,7 @@ msgstr "南方的白天和黑夜一样明亮。我一定是绊倒了，把我珍
 
 # scripts/config/rumors.nut
 msgid "Tomorrow night the famous minstrel %randomname% {the Songbird | the Bard | the Storyteller | the Nightingale | the Poet} is coming to this very tavern, you better not miss it!"
-msgstr "明晚著名的 {音乐鸟|吟游诗人|故事家|夜莺|诗人} %randomname% 要来这家小酒馆，你最好不要错过！"
+msgstr "明晚著名的 {音乐鸟 | 吟游诗人 | 故事家 | 夜莺 | 诗人} %randomname% 要来这家小酒馆，你最好不要错过！"
 
 # scripts/config/rumors.nut
 msgid "Don't wander through the swamps at night! You might get lost, yes, but out in the swamp at night there's far worse things that can happen to a man. Just ask anyone around here."
@@ -16300,4 +16300,4 @@ msgstr "异教徒的隐秘大厅"
 
 # scripts/config/world_location_names.nut
 msgid "Tomb of %randomname% the {Great | Cruel | Tyrant}"
-msgstr "{伟大的|残暴的|霸王·} %randomname% 之墓"
+msgstr "{伟大的 | 残暴的 | 霸王·} %randomname% 之墓"
