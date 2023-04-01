@@ -51,10 +51,6 @@ msgid "Cancel"
 msgstr "取消"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
-msgid "Corpse"
-msgstr "尸体"
-
-# scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Crowns"
 msgstr "克朗"
 

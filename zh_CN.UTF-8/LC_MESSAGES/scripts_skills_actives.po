@@ -439,13 +439,6 @@ msgstr "最多可以击中 3 个目标"
 msgid "Ripped to shreds"
 msgstr "撕成碎片"
 
-# scripts/skills/actives/raise_undead.nut
-# scripts/skills/actives/raise_all_undead_skill.nut
-# scripts/skills/actives/kraken_devour_skill.nut
-# scripts/skills/actives/gruesome_feast.nut
-msgid "Corpse"
-msgstr "尸体 (Corpse)"
-
 # scripts/skills/actives/hook.nut
 # scripts/skills/actives/knock_back.nut
 # scripts/skills/actives/smite_skill.nut
