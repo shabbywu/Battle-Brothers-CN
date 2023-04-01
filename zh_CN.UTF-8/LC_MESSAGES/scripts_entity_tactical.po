@@ -2,13 +2,6 @@
 msgid ""
 msgstr ""
 
-# scripts/entity/tactical/player_corpse_stub.nut
-# scripts/entity/tactical/entity.nut
-# scripts/entity/tactical/actor.nut
-# scripts/entity/tactical/player.nut
-msgid "tacticalentity("
-msgstr "战术单位(tacticalentity)"
-
 # scripts/entity/tactical/actor.nut
 # scripts/entity/tactical/player.nut
 msgid " turn"

@@ -140,9 +140,5 @@ msgid "Challenging"
 msgstr "具有挑战性的"
 
 # scripts/entity/world/world_entity.nut
-msgid "worldentity("
-msgstr "世界实体("
-
-# scripts/entity/world/world_entity.nut
 msgid "Slightly Weaker"
 msgstr "稍微弱一点"
