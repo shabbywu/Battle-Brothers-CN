@@ -151,7 +151,7 @@ msgstr "你方谈判的合同如下。你同意这些条款吗？"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "{You'll get | You are to receive | You'll be paid} all %reward_advance% crowns in advance.%SPEECH_OFF%"
-msgstr "{你会得到|你会收到|我会给你}共%reward_advance% 克朗的预付款。%SPEECH_OFF%"
+msgstr "{你会得到 | 你会收到 | 我会给你}共%reward_advance% 克朗的预付款。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "{You'll get | You are to receive | You'll be paid | It's} %reward_completion% crowns when the contract is done.%SPEECH_OFF%"
@@ -159,39 +159,39 @@ msgstr "合同完成后 {你会得到 | 你会收到 | 我会给你} %reward_com
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, and another %reward_completion% when the job is done.%SPEECH_OFF%"
-msgstr "{你会得到|你会收到|我会给你} %reward_advance% 克朗的预付款, 并且当你完成后再付 %reward_completion% 克朗。%SPEECH_OFF%"
+msgstr "{你会得到 | 你会收到 | 我会给你} %reward_advance% 克朗的预付款, 并且当你完成后再付 %reward_completion% 克朗。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you bring back, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%"
-msgstr "每带回一个人头 {你会得到|你会收到|我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。%SPEECH_OFF%"
+msgstr "每带回一个人头 {你会得到 | 你会收到 | 我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%"
-msgstr "每带来一个人头 {你会得到|你会收到|我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。%SPEECH_OFF%"
+msgstr "每带来一个人头 {你会得到 | 你会收到 | 我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, and another %reward_count% crowns per head you bring back, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%"
-msgstr "{你会得到|你会收到|我会给你}共%reward_advance% 克朗的预付款, 并且每带回一个人头 {你会再得到|你会再收到|我会再给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。%SPEECH_OFF%"
+msgstr "{你会得到 | 你会收到 | 我会给你}共%reward_advance% 克朗的预付款, 并且每带回一个人头 {你会再得到 | 你会再收到 | 我会再给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, and another %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%"
-msgstr "{你会得到|你会收到|我会给你}共 %reward_advance% 克朗的预付款, 每带回一个人头 {你会再得到|你会再收到|我会再给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。%SPEECH_OFF%"
+msgstr "{你会得到 | 你会收到 | 我会给你}共 %reward_advance% 克朗的预付款, 每带回一个人头 {你会再得到 | 你会再收到 | 我会再给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%"
-msgstr "每带来一个人头 {你会得到|你会收到|我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。合同完成后 {你会再得到 | 你会再收到 | 我会再给你} %reward_completion% 克朗。%SPEECH_OFF%"
+msgstr "每带来一个人头 {你会得到 | 你会收到 | 我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。合同完成后 {你会再得到 | 你会再收到 | 我会再给你} %reward_completion% 克朗。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you return with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%"
-msgstr "每带回一个人头 {你会得到|你会收到|我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。合同完成后 {你会再得到 | 你会再收到 | 我会再给你} %reward_completion% 克朗。%SPEECH_OFF%"
+msgstr "每带回一个人头 {你会得到 | 你会收到 | 我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。合同完成后 {你会再得到 | 你会再收到 | 我会再给你} %reward_completion% 克朗。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, %reward_count% crowns per head you bring, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%"
-msgstr "{你会得到|你会收到|我会给你} %reward_advance% 克朗的预付款, 并且每带回一个人头 {你会得到|你会收到|我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。合同完成后 {你会再得到 | 你会再收到 | 我会再给你} %reward_completion% 克朗。%SPEECH_OFF%"
+msgstr "{你会得到 | 你会收到 | 我会给你} %reward_advance% 克朗的预付款, 并且每带回一个人头 {你会得到 | 你会收到 | 我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。合同完成后 {你会再得到 | 你会再收到 | 我会再给你} %reward_completion% 克朗。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%"
-msgstr "{你会得到|你会收到|我会给你}共 %reward_advance% 克朗的预付款, 每带来一个人头 {你会再得到|你会再收到|我会再给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }, 合同完成后 {你会再得到 | 你会再收到 | 我会再给你} %reward_completion% 克朗。%SPEECH_OFF%"
+msgstr "{你会得到 | 你会收到 | 我会给你}共 %reward_advance% 克朗的预付款, 每带来一个人头 {你会再得到 | 你会再收到 | 我会再给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }, 合同完成后 {你会再得到 | 你会再收到 | 我会再给你} %reward_completion% 克朗。%SPEECH_OFF%"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "[img]gfx/ui/events/event_04.png[/img]{%SPEECH_START%I refuse to pay any more for this.  | %SPEECH_START%Be reasonable.  | %SPEECH_START%No, no, no.  | %SPEECH_START%Who do you think you are? I tell you how you're getting paid.  | He just looks at you sternly and shakes his head.%SPEECH_ON% | %SPEECH_START%No way!%SPEECH_OFF%He shouts, bursting with anger.%SPEECH_ON% | %SPEECH_START%No, you are already getting more than you're worth.  | %SPEECH_START%No. Do not push me too far!  | %SPEECH_START%I don't think you quite understand how this works. We need to come to terms if you want to be paid for this. My offer still stands. }"
