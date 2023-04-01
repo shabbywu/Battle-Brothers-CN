@@ -27,10 +27,6 @@ msgid "The crepuscular sword bends purples and oranges until it seemingly carrie
 msgstr "这把泛着紫黄微光的剑就如黄昏的晚霞。轻轻一碰，冰凉之中还带着灼热的触感。无论它是魔法淬炼还是精心打造的，随意间的挥舞都能感觉到其蕴含的无尽力量与强大电流。"
 
 # scripts/items/weapons/legendary/obsidian_dagger.nut
-msgid "Corpse"
-msgstr "尸体(Corpse)"
-
-# scripts/items/weapons/legendary/obsidian_dagger.nut
 msgid "Obsidian Dagger"
 msgstr "黑曜石匕首"
 
