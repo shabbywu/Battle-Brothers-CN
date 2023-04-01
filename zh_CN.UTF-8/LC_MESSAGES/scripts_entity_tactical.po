@@ -152,10 +152,6 @@ msgid "'s armor is hit for [b]"
 msgstr "'s盔甲被击中，受到[b]"
 
 # scripts/entity/tactical/actor.nut
-msgid ",socket,miniboss,arrow)"
-msgstr ",插槽,小头目,箭头)"
-
-# scripts/entity/tactical/actor.nut
 msgid "[/b] damage and suffers "
 msgstr "[/b] 伤害并遭受"
 
@@ -246,10 +242,6 @@ msgstr "被海妖吞噬了。"
 # scripts/entity/tactical/player.nut
 msgid "In the fighting line"
 msgstr "战斗前线"
-
-# scripts/entity/tactical/player.nut
-msgid ",socket,miniboss,arrow"
-msgstr ",插槽,迷你首领,箭头"
 
 # scripts/entity/tactical/player.nut
 msgid "Devoured by a Nachzehrer"
