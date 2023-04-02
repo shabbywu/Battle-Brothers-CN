@@ -330,7 +330,7 @@ msgstr "行动点"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Dealt [color="
-msgstr "成交 [color="
+msgstr "造成 [color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "End Round (R)"
@@ -418,7 +418,7 @@ msgstr "支付花费"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid " units at most."
-msgstr "最多单位数。"
+msgstr "单位。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Active Contract"
@@ -470,7 +470,7 @@ msgstr "测验新兵"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "  You can carry "
-msgstr "你可以携带。"
+msgstr "你可以携带最多"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid " was slain here."
@@ -518,7 +518,7 @@ msgstr "[/color][/b] 点行动力)"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid " units at a time."
-msgstr "单位每次。"
+msgstr "单位。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Always Hide Trees"
@@ -1489,7 +1489,7 @@ msgid ""
 msgstr ""
 "你的雇佣兵战队拥有的硬币数量。 用于每天支付每个人的工资，还可以雇新人和购买装备。\n"
 "\n"
-"You pay out [color="
+"你支付 [color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Choose how your company starts out in the world. Depending on your choice, you'll start with different men, equipment, resources, and special rules."
@@ -1531,7 +1531,7 @@ msgid ""
 msgstr ""
 "你的雇佣兵战队拥有的硬币数量。 用于每天中午给每个人发工资，还可以雇新人和购买装备。\n"
 "\n"
-"You pay out [color="
+"你支付 [color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "The first late game crisis will be a ruthless war for power between noble houses. If you survive for long enough, the following ones will be chosen at random."
@@ -1749,7 +1749,7 @@ msgid ""
 msgstr ""
 "你携带的食物总量。 一般人每天需要2份食物，在困难的地形上需要更多。 你的人会先食用最接近过期的食物。 食物短缺会降低士气，最终导致你的人民在你饿死之前抛弃你。\n"
 "\n"
-"You use [color="
+"你消耗 [color="
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "The base damage the currently equipped weapon does. Will be applied in full against hitpoints if no armor is protecting the target. If the target is protected by armor, the damage is applied to armor instead based on the weapon's effectiveness against armor. The actual damage done is modified by the skill used and the target hit."
@@ -1827,7 +1827,7 @@ msgstr ""
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Assorted arrows, bolts and throwing weapons used to automatically refill quivers after battle. Replacing one arrow or bolt will take up one point of ammunition, replacing one shot of a Handgonne will take up two points, and replacing one throwing weapon or charge of a Fire Lance will take up three. Running out of ammunition will leave your quivers empty and your people with nothing to shoot with. You can carry no more than "
-msgstr "各种各样的箭矢、弩矢和投掷武器，用于战斗后自动补充箭袋。 更换一支箭矢或箭矢将会占用一个点的弹药，更换一支手炮的一发将占用两个点，更换一支投掷武器或一支火矛将占用三个点。 弹药耗尽会使你的箭袋空空荡荡，你的人将无法射击。 You can carry no more than "
+msgstr "各种各样的箭矢、弩矢和投掷武器，用于战斗后自动补充箭袋。 更换一支箭矢或箭矢将会占用一个点的弹药，更换一支手炮的一发将占用两个点，更换一支投掷武器或一支火矛将占用三个点。 弹药耗尽会使你的箭袋空空荡荡，你的人将无法射击。 你可以总共携带不超过  "
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid ""
