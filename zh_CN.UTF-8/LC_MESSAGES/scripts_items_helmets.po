@@ -255,10 +255,6 @@ msgid "'s "
 msgstr "的"
 
 # scripts/items/helmets/helmet.nut
-msgid "helmet"
-msgstr "头盔"
-
-# scripts/items/helmets/helmet.nut
 msgid "[/b] damage"
 msgstr "[/b] 伤害"
 
