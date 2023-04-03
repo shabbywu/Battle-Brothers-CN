@@ -6332,9 +6332,9 @@ msgid ""
 "\n"
 "I will pay you for those you kill. Let me know what you think.%SPEECH_OFF% | %employer% puts a finger to a map.%SPEECH_ON%I need you to go here.%SPEECH_OFF%He trails the finger to another location.%SPEECH_ON%And then to here. One long patrol. You kill anything that thinks it owns the roads that doesn't carry the %noblehousename% name. Do be sure to take their heads, though. I will not be paying you to take a vacation. I'll be paying you for each trophy you bring me on your return within %days% days.%SPEECH_OFF%}"
 msgstr ""
-"[img]gfx/ui/events/event_45.png[/img]{%employer%向其中一把椅子的方向举起了一只严厉的手。你坐下了。%SPEECH_ON%这个地区不安全。商人们抱怨路上有强盗和其他威胁。%SPEECH_OFF%他低下头，揉了揉太阳穴。%SPEECH_ON%由于我的所有人都已经很忙，所以我需要你巡逻这个区域。前往%location1%，然后继续到%location2%，再在%days%天内回到这里。如果你遇到任何威胁，确保将其处理掉。我不会支付你在树林中散步的钱，雇佣兵。你将按你带给我的首级来获得报酬。%SPEECH_OFF%} | %employer%（雇主）对着一张地图哼唱，眼神像鹰一样扫视着一群匆匆奔跑的老鼠。他似乎无法集中注意力。%SPEECH_ON%我的士兵分散到了各个地方。在这。在那。还有那边。这张地图上的这一部分连名字都没有，但他们也在那里。他们不在这里和这里。这就是你的任务，雇佣兵。%SPEECH_OFF% 他停顿了一下，抬头看着你。%SPEECH_ON% 我需要你去巡逻%location1%和%location2%之间的领地，杀死那些认为这条路是他们的人或动物。我相信你知道这种类型的人。但我不是让你去散步的，佣兵。把你打到的每一颗头颅在%days%天内都带回来，我会按每个头颅支付你的报酬。%SPEECH_OFF% | %employer%喝了一口酒，打了个嗝。他似乎很烦恼。%SPEECH_ON% 我通常不会请佣兵来为我巡逻，但我的大部分士兵当前都在别的地方忙碌着。这是一个很简单的任务：去%location1%，然后到%location2%，再在%days%天内返回这里。一路上，杀死对这片土地上的居民构成威胁的每个人和野兽。但一定要确保收集到他们的头颅：我将按照战利品的数量支付你的报酬，而不是按你走的路程。%SPEECH_OFF% | %employer%狡黠地笑了。%SPEECH_ON%我可不仅仅为你的表现付钱，还会根据你搜集到的头颅数量付款。这个前景对你感兴趣吗？因为现在我需要你在%location1%和%location2%的土地上巡逻。你到处走走，杀死一些东西，然后在%days%天内带着你搜集到的头颅回到我这儿。%SPEECH_OFF%\n"
+"[img]gfx/ui/events/event_45.png[/img]{%employer%向其中一把椅子的方向举起了一只严厉的手。你坐下了。%SPEECH_ON%这个地区不安全。商人们抱怨路上有强盗和其他威胁。%SPEECH_OFF%他低下头，揉了揉太阳穴。%SPEECH_ON%由于我的所有人都已经很忙，所以我需要你巡逻这个区域。前往%location1%，然后继续到%location2%，再在%days%天内回到这里。如果你遇到任何威胁，确保将其处理掉。我不会支付你在树林中散步的钱，雇佣兵。你将按你带给我的首级来获得报酬。%SPEECH_OFF% | %employer%低声翻阅着地图，他的眼睛像老鹰一样扫视着匆忙奔走的老鼠群。他似乎无法集中注意力。%SPEECH_ON%我的士兵分散到了各个地方。在这。在那。还有那边。这张地图上的这一部分连名字都没有，但他们也在那里。他们不在这里和这里。这就是你的任务，雇佣兵。%SPEECH_OFF% 他停顿了一下，抬头看着你。%SPEECH_ON% 我需要你去巡逻%location1%和%location2%之间的领地，杀死那些认为这条路是他们的人或动物。我相信你知道这种类型的人。但我不是让你去散步的，佣兵。把你打到的每一颗头颅在%days%天内都带回来，我会按每个头颅支付你的报酬。%SPEECH_OFF% | %employer%喝了一口酒，打了个嗝。他似乎很烦恼。%SPEECH_ON% 我通常不会请佣兵来为我巡逻，但我的大部分士兵当前都在别的地方忙碌着。这是一个很简单的任务：去%location1%，然后到%location2%，再在%days%天内返回这里。一路上，杀死对这片土地上的居民构成威胁的每个人和野兽。但一定要确保收集到他们的头颅：我将按照战利品的数量支付你的报酬，而不是按你走的路程。%SPEECH_OFF% | %employer%狡黠地笑了。%SPEECH_ON%我可不仅仅为你的表现付钱，还会根据你搜集到的头颅数量付款。这个前景对你感兴趣吗？因为现在我需要你在%location1%和%location2%的土地上巡逻。你到处走走，杀死一些东西，然后在%days%天内带着你搜集到的头颅回到我这儿。\n"
 "\n"
-"我会支付你杀死的人的报酬。让我知道你的想法。%SPEECH_OFF% | %employer%在地图上指着一个地方.%SPEECH_ON%我需要你去这里。%SPEECH_OFF%他的手指移动到另一个位置.%SPEECH_ON%然后去这里。 一个漫长的巡逻，你要杀死任何认为自己拥有道路并且没有携带%crown%名字的人。但务必带回他们的头颅。我不会付钱给你度假，我会在你在%days%天内返回时支付你每个纪念品的报酬。%SPEECH_OFF%"
+"我会支付你杀死的人的报酬。让我知道你的想法。%SPEECH_OFF% | %employer%在地图上指着一个地方.%SPEECH_ON%我需要你去这里。%SPEECH_OFF%他的手指移动到另一个位置.%SPEECH_ON%然后去这里。一个漫长的巡逻。你可以杀死任何认为自己拥有这些道路的人，但不包括那些姓 %noblehousename% 的人。但务必带回他们的头颅。我不是请你去度假的，只要你在%days%天内返回，我会根据你带来的每个头颅支付报酬。%SPEECH_OFF%}"
 
 # scripts/contracts/contracts/privateering_contract.nut
 msgid "1 day"
@@ -7130,11 +7130,11 @@ msgstr "铲除亡灵"
 
 # scripts/contracts/contracts/root_out_undead_contract.nut
 msgid "Destroy %objective1%"
-msgstr "摧毁%objective1%。"
+msgstr "摧毁%objective1%"
 
 # scripts/contracts/contracts/root_out_undead_contract.nut
 msgid "Destroy %objective2%"
-msgstr "摧毁%objective2%。"
+msgstr "摧毁%objective2%"
 
 # scripts/contracts/contracts/root_out_undead_contract.nut
 msgid "Prepare for the worst!"
