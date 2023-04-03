@@ -245,7 +245,7 @@ msgstr "去决斗。还有没有其他人可以帮助夺回小安瑟姆的下颌
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "{Represent us in this fight | Be our champion | Reclaim Anselm's jawbone | Kill these Oathbringers}, "
-msgstr "代表我们参与这场战斗 | 成为我们的冠军 | 夺回安瑟姆的颚骨 | 杀死这些誓言守护者，"
+msgstr "{代表我们参与这场战斗 | 成为我们的冠军 | 夺回安瑟姆的颚骨 | 杀死这些誓言守护者}，"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid ""
@@ -261,7 +261,7 @@ msgstr "[img]gfx/ui/events/event_180.png[/img]{誓言守护者回来了。一个
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "[img]gfx/ui/events/event_180.png[/img]{The company is still not ready. You are worried that they will leave you entirely, infuriated as they are, but you'd rather they be pissed than flat dead in the ground. With the decision weighing on your heart, and the Oathbringers screaming insults into your ear, you have the company once again march from the fight.}"
-msgstr "\"[img]gfx/ui/events/event_180.png[/img]{战团还没有准备好。你担心他们会全部离开你，愤怒地离去，但你宁愿他们生气，也不愿看到他们躺在地下。心里沉重，听着队长的训话，你命令战团再次撤出战斗。}\" (注：此处根据上下文理解到 \"the Oathbringers\" 是队长，故没有进行翻译）"
+msgstr "[img]gfx/ui/events/event_180.png[/img]{战团还没有准备好。你担心他们会全部离开你，愤怒地离去，但你宁愿他们生气，也不愿看到他们躺在地下。心里沉重，听着队长的训话，你命令战团再次撤出战斗。}"
 
 # scripts/events/events/special/oathtakers_confrontation_event.nut
 msgid "[img]gfx/ui/events/event_180.png[/img]{Against every fiber of your being, you turn the fight down. The reality is simple: the %companyname% is not ready for this battle. Unsurprisingly, the Oathtakers are not especially happy about this, and in fact show considerable concern that you would take a rare opportunity at slaying Oathbringers and piss all over it. As for the Oathbringers themselves, they laugh and crow at you as you leave.%SPEECH_ON%Young Anselm saw nothing good in you, Oathtakers! Your visions of him are a lie! Your whole existence is a lie! I'd say join us while you can, but we want nothing to do with you worms!%SPEECH_OFF%You pray that in the coming days you will be able to prove to your men that you made the right decision here.}"

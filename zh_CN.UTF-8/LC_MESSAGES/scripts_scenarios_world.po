@@ -17,7 +17,7 @@ msgstr "永远不会达到自信的士气"
 
 # scripts/scenarios/world/anatomists_scenario.nut
 msgid "{Despite others' hesitancies, I've no qualms calling you a javel, sir. You are, after all, a javel. A scapegrace. Some sellsword or another, yes? I think only a man who trucks cowardice would avoid calling you what you are. That someone disrespects your intelligence, thinking you yourself know not yourself. Even I see that in you accepting who you are, you are quite a good specimen. I mean, sellsword.}"
-msgstr "尽管别人犹豫不决，但我毫不犹豫地称呼您为队长。毕竟，您就是队长。一个无赖。一个雇佣兵之类的人，是吗？我认为，只有那些畏惧懦弱的人才会避免称呼你的真实身份。这种人不尊重你的智商，认为你自己不知道自己是谁。但是，您接受自己的身份，对于成为一个雇佣兵，您是一个很好的标本。我是说，一个雇佣兵。"
+msgstr "{尽管别人犹豫不决，但我毫不犹豫地称呼您为队长。毕竟，您就是队长。一个无赖。一个雇佣兵之类的人，是吗？我认为，只有那些畏惧懦弱的人才会避免称呼你的真实身份。这种人不尊重你的智商，认为你自己不知道自己是谁。但是，您接受自己的身份，对于成为一个雇佣兵，您是一个很好的标本。我是说，一个雇佣兵。}"
 
 # scripts/scenarios/world/anatomists_scenario.nut
 msgid "{Captain? Is it alright if I call you captain? Ah, of course it is. What? No, we were not calling you by another name. Yers is a smooth costard, good sir, and we would not be of such derring-do to refer to you as a sellsword who is as ordinary as any of our coetaneous clodpolls, or state that we were in some sense importuning commerce by conducting business with a man of your particular skills. No sir, we would not. We are not children of perdition, sir.}"
