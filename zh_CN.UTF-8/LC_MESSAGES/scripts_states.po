@@ -137,16 +137,8 @@ msgstr ""
 "[p=c]处于小山的顶部，在巨大的危险中生存下来。 非常适合学习高度优势，并在高处测试视野和实践。 困难的。[/p]"
 
 # scripts/states/tactical_state.nut
-msgid "win"
-msgstr "胜利"
-
-# scripts/states/tactical_state.nut
 msgid "Quit"
 msgstr "退出"
-
-# scripts/states/tactical_state.nut
-msgid "loose"
-msgstr "失败"
 
 # scripts/states/tactical_state.nut
 msgid " round"
