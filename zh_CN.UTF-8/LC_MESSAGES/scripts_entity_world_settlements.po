@@ -21,7 +21,7 @@ msgstr "波拉(Bola)"
 # scripts/entity/world/settlements/medium_snow_village.nut
 # scripts/entity/world/settlements/medium_tundra_village.nut
 msgid "Horn"
-msgstr "喇叭"
+msgstr "喇叭(Horn)"
 
 # scripts/entity/world/settlements/small_snow_village.nut
 # scripts/entity/world/settlements/small_tundra_village.nut
@@ -583,7 +583,7 @@ msgstr "维瑟(Wiese)"
 # scripts/entity/world/settlements/medium_farming_village.nut
 # scripts/entity/world/settlements/small_farming_village.nut
 msgid "Durbach"
-msgstr "德巴赫"
+msgstr "德巴赫(Durbach)"
 
 # scripts/entity/world/settlements/medium_farming_village.nut
 # scripts/entity/world/settlements/small_farming_village.nut
@@ -698,7 +698,7 @@ msgstr "姆伦海姆(Muhlenheim)"
 # scripts/entity/world/settlements/medium_farming_village.nut
 # scripts/entity/world/settlements/small_farming_village.nut
 msgid "Wiesendorf"
-msgstr "维森多夫"
+msgstr "维森多夫(Wiesendorf)"
 
 # scripts/entity/world/settlements/medium_farming_village.nut
 # scripts/entity/world/settlements/small_farming_village.nut
@@ -763,7 +763,7 @@ msgstr "艾希霍尔兹(Eichholz)"
 # scripts/entity/world/settlements/medium_lumber_village.nut
 # scripts/entity/world/settlements/small_lumber_village.nut
 msgid "Elkshorn"
-msgstr "艾克索恩"
+msgstr "艾克索恩(Elkshorn)"
 
 # scripts/entity/world/settlements/medium_lumber_village.nut
 # scripts/entity/world/settlements/small_lumber_village.nut
@@ -823,7 +823,7 @@ msgstr "哈格穆斯(Hagermoos)"
 # scripts/entity/world/settlements/medium_lumber_village.nut
 # scripts/entity/world/settlements/small_lumber_village.nut
 msgid "Dunkelwald"
-msgstr "登科瓦尔德"
+msgstr "登科瓦尔德(Dunkelwald)"
 
 # scripts/entity/world/settlements/medium_lumber_village.nut
 # scripts/entity/world/settlements/small_lumber_village.nut
@@ -888,12 +888,12 @@ msgstr "矿产"
 # scripts/entity/world/settlements/small_mining_village.nut
 # scripts/entity/world/settlements/medium_mining_village.nut
 msgid "Eisenstein"
-msgstr "埃森斯坦"
+msgstr "埃森斯坦(Eisenstein)"
 
 # scripts/entity/world/settlements/small_mining_village.nut
 # scripts/entity/world/settlements/medium_mining_village.nut
 msgid "Hammererden"
-msgstr "海默尔顿"
+msgstr "海默尔顿(Hammererden)"
 
 # scripts/entity/world/settlements/medium_snow_fort.nut
 # scripts/entity/world/settlements/medium_tundra_fort.nut
@@ -1053,7 +1053,7 @@ msgstr "特莱滕(Treiten)"
 # scripts/entity/world/settlements/medium_steppe_village.nut
 # scripts/entity/world/settlements/small_steppe_village.nut
 msgid "Dornheim"
-msgstr "多恩海姆"
+msgstr "多恩海姆(Dornheim)"
 
 # scripts/entity/world/settlements/medium_steppe_village.nut
 # scripts/entity/world/settlements/small_steppe_village.nut
@@ -1308,7 +1308,7 @@ msgstr "黑水(Schwarzwasser)"
 # scripts/entity/world/settlements/small_tundra_village.nut
 # scripts/entity/world/settlements/medium_tundra_village.nut
 msgid "pelts"
-msgstr "皮毛(Pelts)"
+msgstr "皮毛"
 
 # scripts/entity/world/settlements/small_mountains_fort.nut
 # scripts/entity/world/settlements/small_coast_fort.nut
@@ -1659,7 +1659,7 @@ msgstr "一个巨大的城堡矗立在周围敞开的平原上。这是贵族权
 
 # scripts/entity/world/settlements/large_farming_village.nut
 msgid "Dulmen"
-msgstr "迪尔门"
+msgstr "迪尔门(Dulmen)"
 
 # scripts/entity/world/settlements/large_farming_village.nut
 msgid "Heuland"
@@ -1667,11 +1667,11 @@ msgstr "霍兰德(Heuland)"
 
 # scripts/entity/world/settlements/large_farming_village.nut
 msgid "Neumark"
-msgstr "纽马克"
+msgstr "纽马克(Neumark)"
 
 # scripts/entity/world/settlements/large_farming_village.nut
 msgid "Albstadt"
-msgstr "奥尔施塔特"
+msgstr "奥尔施塔特(Albstadt)"
 
 # scripts/entity/world/settlements/large_farming_village.nut
 msgid "Auenmark"

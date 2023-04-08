@@ -4,7 +4,7 @@ msgstr ""
 
 # scripts/entity/world/locations/legendary/ancient_statue_location.nut
 msgid "Ancient Statue"
-msgstr "古代雕像"
+msgstr "古代雕像(Ancient Statue)"
 
 # scripts/entity/world/locations/legendary/ancient_statue_location.nut
 msgid "A huge statue glittering in the sun that towers over the surrounding landscape."
@@ -12,7 +12,7 @@ msgstr "一座巨大的雕像在阳光下闪闪发光，耸立在周围的风景
 
 # scripts/entity/world/locations/legendary/ancient_temple_location.nut
 msgid "Ancient Temple"
-msgstr "古代神殿"
+msgstr "古代神殿(Ancient Temple)"
 
 # scripts/entity/world/locations/legendary/ancient_temple_location.nut
 msgid "The sunken and half buried entrance to some sort of temple or mausoleum that sticks out of the ground."
@@ -20,7 +20,7 @@ msgstr "一个凹陷的半掩埋的入口，通向某种突出地面的神殿或
 
 # scripts/entity/world/locations/legendary/ancient_watchtower_location.nut
 msgid "Ancient Spire"
-msgstr "古代尖塔"
+msgstr "古代尖塔(Ancient Spire)"
 
 # scripts/entity/world/locations/legendary/ancient_watchtower_location.nut
 msgid "A thin spire reaching high into the sky. The view from the top must be staggering."
@@ -28,7 +28,7 @@ msgstr "高耸入云的尖顶。看起来是令人震惊的。"
 
 # scripts/entity/world/locations/legendary/black_monolith_location.nut
 msgid "Black Monolith"
-msgstr "黑色巨石"
+msgstr "黑色巨石(Black Monolith)"
 
 # scripts/entity/world/locations/legendary/black_monolith_location.nut
 msgid "A pitch black monolith towers over the surrounding lands, emitting a baleful aura. No living being dares drawing close to it."
@@ -36,7 +36,7 @@ msgstr "一块漆黑的巨石耸立在周围的土地上，散发出一种恶毒
 
 # scripts/entity/world/locations/legendary/fountain_of_youth_location.nut
 msgid "Grotesque Tree"
-msgstr "怪诞树"
+msgstr "怪诞树(Grotesque Tree)"
 
 # scripts/entity/world/locations/legendary/fountain_of_youth_location.nut
 msgid "A small clearing in the forest centered around a curios, slender tree. Something seems to be off about this tree but it is difficult to make out from afar."
@@ -44,7 +44,7 @@ msgstr "森林中以一棵细长的古董树为中心的小空地。这棵树似
 
 # scripts/entity/world/locations/legendary/icy_cave_location.nut
 msgid "Icy Cave"
-msgstr "冰洞"
+msgstr "冰洞(Icy Cave)"
 
 # scripts/entity/world/locations/legendary/icy_cave_location.nut
 msgid "A cave amidst a sea of snow and rock. A thick gate of icicles keeps your entrance well stayed."
@@ -52,7 +52,7 @@ msgstr "冰雪海洋中的洞穴。 一扇厚厚的冰柱门能让你的入口�
 
 # scripts/entity/world/locations/legendary/kraken_cult_location.nut
 msgid "Stone Pillars"
-msgstr "石柱"
+msgstr "石柱(Stone Pillars)"
 
 # scripts/entity/world/locations/legendary/kraken_cult_location.nut
 msgid "Stone circles and pillars with strange markings hint at something eerie looming in the area."
@@ -60,7 +60,7 @@ msgstr "石圈和柱子上有奇怪的标记，暗示着这一地区有某种神
 
 # scripts/entity/world/locations/legendary/land_ship_location.nut
 msgid "Curious Ship Wreck"
-msgstr "奇怪的沉船"
+msgstr "奇怪的沉船(Curious Ship Wreck)"
 
 # scripts/entity/world/locations/legendary/land_ship_location.nut
 msgid "Atop some trees sits a large wooden structure. As strange as it seems, it looks a lot like a ship."
@@ -68,7 +68,7 @@ msgstr "在一些树的顶上有一个很大的木结构。虽然看起来很奇
 
 # scripts/entity/world/locations/legendary/meteorite_location.nut
 msgid "The Fallen Star"
-msgstr "陨星"
+msgstr "陨星(The Fallen Star)"
 
 # scripts/entity/world/locations/legendary/meteorite_location.nut
 msgid "A great crater in the ground made by a rock that fell from the sky. A mausoleum was built around it a long ago, and to this day people from all corners of the world set out to pilgrimage here."
@@ -76,7 +76,7 @@ msgstr "一块从天而降的陨石砸出来的大坑。 很久前围绕着它�
 
 # scripts/entity/world/locations/legendary/oracle_location.nut
 msgid "The Oracle"
-msgstr "神谕"
+msgstr "神谕(The Oracle)"
 
 # scripts/entity/world/locations/legendary/oracle_location.nut
 msgid "The remains of a temple that once housed an oracle in an age long past. Although ruined now, people still flock to it and have visions of things that will come to pass."
@@ -84,7 +84,7 @@ msgstr "一个很久以前是神谕所的神殿遗迹。 尽管现在破败了�
 
 # scripts/entity/world/locations/legendary/sunken_library_location.nut
 msgid "Sunken Library"
-msgstr "沉没的图书馆"
+msgstr "沉没的图书馆(Sunken Library)"
 
 # scripts/entity/world/locations/legendary/sunken_library_location.nut
 msgid "Shimmering in the sun, golden domes peer out of the sand and give away that something larger lies dormant here, sunken and buried under the sand for ages."
@@ -92,7 +92,7 @@ msgstr "在阳光下散发辉光，突出沙漠的黄金穹顶暗示着下面有
 
 # scripts/entity/world/locations/legendary/tundra_elk_location.nut
 msgid "Hunting Ground"
-msgstr "狩猎场"
+msgstr "狩猎场(Hunting Ground)"
 
 # scripts/entity/world/locations/legendary/tundra_elk_location.nut
 msgid "A lone elk grazes on green meadows, in the shadow of some trees and by a small lake."
@@ -100,7 +100,7 @@ msgstr "在一个小湖边的树荫下，一只孤独的麋鹿在绿色的草地
 
 # scripts/entity/world/locations/legendary/unhold_graveyard_location.nut
 msgid "Unhold Graveyard"
-msgstr "露天巨魔坟场"
+msgstr "露天巨魔坟场(Unhold Graveyard)"
 
 # scripts/entity/world/locations/legendary/unhold_graveyard_location.nut
 msgid "A wide field littered with gigantic bones and skulls. Some are bleached to white but some are fresh and still have flesh attached to them."
@@ -108,7 +108,7 @@ msgstr "散落着巨大骨头和头骨的宽大场地。有些变淡成为了白
 
 # scripts/entity/world/locations/legendary/unique_goblin_city_location.nut
 msgid "Rul'gazhix"
-msgstr "统治者加齐克斯"
+msgstr "统治者加齐克斯(Rul'gazhix)"
 
 # scripts/entity/world/locations/legendary/unique_goblin_city_location.nut
 msgid "A great goblin city nested into the remains of an ancient fortress. Protected by dark and towering walls, it is host to a standing army of vicious greenskins."
@@ -116,7 +116,7 @@ msgstr "一座巨大的哥布林城市，嵌套在一座古老要塞的遗迹中
 
 # scripts/entity/world/locations/legendary/vulcano_location.nut
 msgid "The Ancient City"
-msgstr "古代城市"
+msgstr "古代城市(The Ancient City)"
 
 # scripts/entity/world/locations/legendary/vulcano_location.nut
 msgid "Once a thriving city, now but ruins covered in ash. A fallen metropolis with many names, it has become an object of cultural and religious pride for north and south alike."
@@ -124,7 +124,7 @@ msgstr "一个曾经繁荣的城市，现在不过是灰尘笼罩的废墟。 �
 
 # scripts/entity/world/locations/legendary/waterwheel_location.nut
 msgid "Watermill"
-msgstr "水磨"
+msgstr "水磨(Watermill)"
 
 # scripts/entity/world/locations/legendary/waterwheel_location.nut
 msgid "A small watermill with a stony house at its side. It looks like someone might be living here."
@@ -132,7 +132,7 @@ msgstr "旁边有石头房子的小水磨。 好像有某种强大的人物住�
 
 # scripts/entity/world/locations/legendary/witch_hut_location.nut
 msgid "Witch Hut"
-msgstr "女巫小屋"
+msgstr "女巫小屋(Witch Hut)"
 
 # scripts/entity/world/locations/legendary/witch_hut_location.nut
 msgid "A skewed and withered hut that looks like it could collapse at any moment. Smoke is rising from an awry chimney."
