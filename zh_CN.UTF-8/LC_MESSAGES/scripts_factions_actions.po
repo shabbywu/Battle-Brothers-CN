@@ -24,7 +24,7 @@ msgstr "为地方领主服务的专业士兵。"
 # scripts/factions/actions/send_undead_ambushers_action.nut
 # scripts/factions/actions/send_undead_army_action.nut
 msgid "Undead"
-msgstr "亡灵"
+msgstr "亡灵(Undead)"
 
 # scripts/factions/actions/defend_citystate_action.nut
 # scripts/factions/actions/send_citystate_holysite_action.nut
@@ -58,13 +58,13 @@ msgstr "一群凶残的兽人，绿皮肤，高耸于任何人之上。"
 # scripts/factions/actions/send_barbarian_roamers_action.nut
 # scripts/factions/actions/send_barbarian_ambushers_action.nut
 msgid "Barbarians"
-msgstr "野蛮人"
+msgstr "野蛮人(Barbarians)"
 
 # scripts/factions/actions/send_nomad_roamers_action.nut
 # scripts/factions/actions/send_nomad_ambushers_action.nut
 # scripts/factions/actions/defend_nomad_action.nut
 msgid "Nomads"
-msgstr "游牧民族"
+msgstr "游牧民族(Nomads)"
 
 # scripts/factions/actions/move_undead_action.nut
 # scripts/factions/actions/send_undead_ambushers_action.nut
@@ -75,7 +75,7 @@ msgstr "一大群行尸，向活着的人索取曾经属于他们的东西。"
 # scripts/factions/actions/send_bandit_ambushers_action.nut
 # scripts/factions/actions/defend_bandits_action.nut
 msgid "Brigands"
-msgstr "强盗"
+msgstr "强盗(Brigands)"
 
 # scripts/factions/actions/send_bandit_ambushers_action.nut
 # scripts/factions/actions/defend_bandits_action.nut
@@ -90,7 +90,7 @@ msgstr "一支野蛮部落的战斗队。"
 # scripts/factions/actions/move_goblins_action.nut
 # scripts/factions/actions/defend_goblins_action.nut
 msgid "Goblins"
-msgstr "地精"
+msgstr "地精(Goblins)"
 
 # scripts/factions/actions/send_nomad_ambushers_action.nut
 # scripts/factions/actions/defend_nomad_action.nut
@@ -100,7 +100,7 @@ msgstr "一群沙漠掠夺者捕食任何试图穿越沙海的人。"
 # scripts/factions/actions/move_orcs_action.nut
 # scripts/factions/actions/defend_orcs_action.nut
 msgid "Orcs"
-msgstr "兽人"
+msgstr "兽人(Orcs)"
 
 # scripts/factions/actions/defend_undead_action.nut
 # scripts/factions/actions/send_undead_roamers_action.nut
@@ -110,7 +110,7 @@ msgstr "好像有问题。"
 # scripts/factions/actions/receive_ship_action.nut
 # scripts/factions/actions/send_ship_action.nut
 msgid "Ship"
-msgstr "船"
+msgstr "船(Ship)"
 
 # scripts/factions/actions/receive_ship_action.nut
 # scripts/factions/actions/send_ship_action.nut
@@ -123,7 +123,7 @@ msgstr "已经放置了所有唯一位置。"
 
 # scripts/factions/actions/defend_militia_action.nut
 msgid " Militia"
-msgstr "民兵"
+msgstr "民兵(Militia)"
 
 # scripts/factions/actions/defend_militia_action.nut
 msgid "Brave men defending their homes with their lives. Farmers, craftsmen, artisans - but not one real soldier."
@@ -143,43 +143,43 @@ msgstr "一群野蛮人出去狩猎。"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Alps"
-msgstr "夢魘"
+msgstr "夢魘(Alps)"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Hexen"
-msgstr "女巫"
+msgstr "女巫(Hexen)"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Hyenas"
-msgstr "鬣狗"
+msgstr "鬣狗(Hyenas)"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Ifrits"
-msgstr "伊夫利特"
+msgstr "伊夫利特(Ifrits)"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Kraken"
-msgstr "海妖"
+msgstr "海妖(Kraken)"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Schrats"
-msgstr "树人"
+msgstr "树人(Schrats)"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Serpents"
-msgstr "蛇"
+msgstr "大蛇(Serpents)"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Direwolves"
-msgstr "冰原狼"
+msgstr "冰原狼(Direwolves)"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Webknechts"
-msgstr "蛛魔"
+msgstr "蛛魔(Webknechts)"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Nachzehrers"
-msgstr "食屍鬼"
+msgstr "食屍鬼(Nachzehrers)"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "One or more lumbering giants."
@@ -231,7 +231,7 @@ msgstr "一个恶毒的老太婆，据说引诱和诱拐小孩子来做肉汤和
 
 # scripts/factions/actions/send_caravan_action.nut
 msgid "Trading Caravan"
-msgstr "贸易商队"
+msgstr "贸易商队(Trading Caravan)"
 
 # scripts/factions/actions/send_caravan_action.nut
 msgid "A trading caravan from "
@@ -251,7 +251,7 @@ msgstr "哥布林猎人(Goblin Hunters)"
 
 # scripts/factions/actions/send_greenskin_army_action.nut
 msgid "Greenskin Horde"
-msgstr "大群绿皮"
+msgstr "大群绿皮(Greenskin Horde)"
 
 # scripts/factions/actions/send_greenskin_army_action.nut
 msgid "A horde of greenskins marching to war."
@@ -263,7 +263,7 @@ msgstr "一个游牧民族正在侦查这个地区。"
 
 # scripts/factions/actions/send_orc_marauders_action.nut
 msgid "Orc Marauders"
-msgstr "兽人收割者"
+msgstr "兽人收割者(Orc Marauders)"
 
 # scripts/factions/actions/send_orc_roamers_action.nut
 msgid "Orc Hunters"
@@ -271,11 +271,11 @@ msgstr "兽人猎人(Orc Hunters)"
 
 # scripts/factions/actions/send_peasants_action.nut
 msgid "Citizens"
-msgstr "公民"
+msgstr "公民(Citizens)"
 
 # scripts/factions/actions/send_peasants_action.nut
 msgid "Peasants"
-msgstr "农民"
+msgstr "农民(Peasants)"
 
 # scripts/factions/actions/send_peasants_action.nut
 msgid "Farmers, craftsmen, pilgrims or other peasants on their way between settlements."
@@ -287,7 +287,7 @@ msgstr "大城市国家的农民、工匠、朝圣者或其他市民在不同居
 
 # scripts/factions/actions/send_refugees_action.nut
 msgid "Refugees"
-msgstr "难民"
+msgstr "难民(Refugees)"
 
 # scripts/factions/actions/send_refugees_action.nut
 msgid "Refugees fleeing the horrors of war - beaten down, tired and desperate."
@@ -295,7 +295,7 @@ msgstr "逃离战争恐怖的难民，被打倒、疲惫和绝望。"
 
 # scripts/factions/actions/send_supplies_action.nut
 msgid "Supply Caravan"
-msgstr "供应商队"
+msgstr "供应商队(Supply Caravan)"
 
 # scripts/factions/actions/send_supplies_action.nut
 msgid "A caravan with armed escorts transporting provisions, supplies and equipment between settlements."

@@ -1382,7 +1382,7 @@ msgstr "睁大眼睛。"
 # scripts/contracts/contracts/roaming_beasts_desert_contract.nut
 # scripts/contracts/contracts/hunting_serpents_contract.nut
 msgid "Serpents"
-msgstr "蛇"
+msgstr "大蛇"
 
 # scripts/contracts/contracts/roaming_beasts_desert_contract.nut
 # scripts/contracts/contracts/hunting_serpents_contract.nut
@@ -3385,7 +3385,7 @@ msgstr "我们成交。 你和其他人都不会知道它在哪里。"
 
 # scripts/contracts/contracts/discover_location_contract.nut
 msgid "Find %location% to the %direction% and around the region of %region%"
-msgstr "寻找%region%地区%direction%方向的%location%。"
+msgstr "在%region%地区的%direction%附近寻找%location%"
 
 # scripts/contracts/contracts/discover_location_contract.nut
 msgid "Find %location% %distance% to the %direction% and somewhere around the region of %region%"
@@ -5580,7 +5580,7 @@ msgstr "不死族"
 
 # scripts/contracts/contracts/investigate_cemetery_contract.nut
 msgid "Secure "
-msgstr "安全的"
+msgstr "保护"
 
 # scripts/contracts/contracts/investigate_cemetery_contract.nut
 msgid "graverobbers"
@@ -6620,11 +6620,11 @@ msgstr ""
 
 # scripts/contracts/contracts/raze_attached_location_contract.nut
 msgid "Raze "
-msgstr "摧毁"
+msgstr "摧毁了"
 
 # scripts/contracts/contracts/raze_attached_location_contract.nut
 msgid "Raided "
-msgstr "袭击了"
+msgstr "掠夺了"
 
 # scripts/contracts/contracts/raze_attached_location_contract.nut
 msgid "Damn them!"

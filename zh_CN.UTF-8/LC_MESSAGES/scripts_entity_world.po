@@ -17,7 +17,7 @@ msgstr ""
 
 # scripts/entity/world/attached_location.nut
 msgid "Ruins"
-msgstr "废墟"
+msgstr "废墟(Ruins)"
 
 # scripts/entity/world/attached_location.nut
 msgid "Once part of the nearby settlement, these are now burned down and abandoned ruins."
@@ -53,15 +53,7 @@ msgstr "放弃了位置战斗——孵化列表中没有防御者！"
 
 # scripts/entity/world/party.nut
 msgid "From "
-msgstr "从"
-
-# scripts/entity/world/party.nut
-msgid "combat"
-msgstr "战斗(combat)"
-
-# scripts/entity/world/party.nut
-msgid "orders"
-msgstr "命令"
+msgstr "来自"
 
 # scripts/entity/world/party.nut
 msgid "Fighting"
@@ -69,7 +61,7 @@ msgstr "战斗(Fighting)"
 
 # scripts/entity/world/party.nut
 msgid "Hired by "
-msgstr "被雇佣于"
+msgstr "受雇于"
 
 # scripts/entity/world/party.nut
 msgid "Unknown troops"
