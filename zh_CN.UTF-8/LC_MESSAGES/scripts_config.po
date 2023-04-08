@@ -91,7 +91,7 @@ msgstr "致命"
 # scripts/config/strings.nut
 # scripts/config/item_names.nut
 msgid "Bulwark"
-msgstr "堡垒"
+msgstr "堡垒(Bulwark)"
 
 # scripts/config/strings.nut
 # scripts/config/item_names.nut
@@ -8054,7 +8054,7 @@ msgstr "几个(2-3)"
 
 # scripts/config/strings.nut
 msgid "Barum"
-msgstr "巴鲁姆"
+msgstr "巴鲁姆(Barum)"
 
 # scripts/config/strings.nut
 msgid "Brush"
@@ -8070,7 +8070,7 @@ msgstr "躲闪"
 
 # scripts/config/strings.nut
 msgid "Durum"
-msgstr "硬粒小麦"
+msgstr "硬粒小麦(Durum)"
 
 # scripts/config/strings.nut
 msgid "Eight"
@@ -8242,7 +8242,7 @@ msgstr "川平"
 
 # scripts/config/strings.nut
 msgid "Kindon"
-msgstr "金东"
+msgstr "金东(Kindon)"
 
 # scripts/config/strings.nut
 msgid "Knight"
@@ -8262,7 +8262,7 @@ msgstr "炮手"
 
 # scripts/config/strings.nut
 msgid "Mortun"
-msgstr "莫顿"
+msgstr "莫顿(Mortun)"
 
 # scripts/config/strings.nut
 msgid "Nimble"
@@ -8282,7 +8282,7 @@ msgstr "树人"
 
 # scripts/config/strings.nut
 msgid "Skauna"
-msgstr "斯考纳"
+msgstr "斯考纳(Skauna)"
 
 # scripts/config/strings.nut
 msgid "Steppe"
@@ -8294,7 +8294,7 @@ msgstr "强的"
 
 # scripts/config/strings.nut
 msgid "Sunpan"
-msgstr "孙盘"
+msgstr "孙盘(Sunpan)"
 
 # scripts/config/strings.nut
 msgid "Tanwir"
@@ -8374,7 +8374,7 @@ msgstr "20"
 
 # scripts/config/strings.nut
 msgid "Altmark"
-msgstr "阿尔特马克"
+msgstr "阿尔特马克(Altmark)"
 
 # scripts/config/strings.nut
 msgid "Ammondt"
@@ -8386,7 +8386,7 @@ msgstr "平均"
 
 # scripts/config/strings.nut
 msgid "Barrens"
-msgstr "贫瘠之地"
+msgstr "贫瘠之地(Barrens)"
 
 # scripts/config/strings.nut
 msgid "Berserk"
@@ -8406,11 +8406,11 @@ msgstr "博尔德"
 
 # scripts/config/strings.nut
 msgid "Burnend"
-msgstr "伯恩德"
+msgstr "伯恩德(Burnend)"
 
 # scripts/config/strings.nut
 msgid "Caskain"
-msgstr "卡斯凯恩"
+msgstr "卡斯凯恩(Caskain)"
 
 # scripts/config/strings.nut
 msgid "Citizen"
@@ -8422,7 +8422,7 @@ msgstr "城市·"
 
 # scripts/config/strings.nut
 msgid "Coldend"
-msgstr "冷端"
+msgstr "冷端(Coldend)"
 
 # scripts/config/strings.nut
 msgid "Concord"
@@ -8486,7 +8486,7 @@ msgstr "枪手"
 
 # scripts/config/strings.nut
 msgid "Hogfolk"
-msgstr "猪民"
+msgstr "猪民(Hogfolk)"
 
 # scripts/config/strings.nut
 msgid "Hostile"
@@ -8494,11 +8494,11 @@ msgstr "敌对的"
 
 # scripts/config/strings.nut
 msgid "Icemark"
-msgstr "冰印"
+msgstr "冰印(Icemark)"
 
 # scripts/config/strings.nut
 msgid "Kinmere"
-msgstr "金米尔"
+msgstr "金米尔(Kinmere)"
 
 # scripts/config/strings.nut
 msgid "Knights"
@@ -8518,7 +8518,7 @@ msgstr "很多(10-11)"
 
 # scripts/config/strings.nut
 msgid "Maraman"
-msgstr "马拉曼"
+msgstr "马拉曼(Maraman)"
 
 # scripts/config/strings.nut
 msgid "Militia"
@@ -8534,11 +8534,11 @@ msgstr "迫击炮"
 
 # scripts/config/strings.nut
 msgid "Muskena"
-msgstr "马斯基纳"
+msgstr "马斯基纳(Muskena)"
 
 # scripts/config/strings.nut
 msgid "Neumark"
-msgstr "纽马克"
+msgstr "纽马克(Neumark)"
 
 # scripts/config/strings.nut
 msgid "Neutral"
@@ -8562,11 +8562,11 @@ msgstr "恢复"
 
 # scripts/config/strings.nut
 msgid "Redwood"
-msgstr "红木"
+msgstr "红木(Redwood)"
 
 # scripts/config/strings.nut
 msgid "Ridland"
-msgstr "里德兰"
+msgstr "里德兰(Ridland)"
 
 # scripts/config/strings.nut
 msgid "Ruhmolt"
@@ -8602,7 +8602,7 @@ msgstr "学者"
 
 # scripts/config/strings.nut
 msgid "Suderos"
-msgstr "苏德罗斯"
+msgstr "苏德罗斯(Suderos)"
 
 # scripts/config/strings.nut
 msgid "Supreme"
@@ -8622,7 +8622,7 @@ msgstr "老将"
 
 # scripts/config/strings.nut
 msgid "Vinland"
-msgstr "文兰"
+msgstr "文兰(Vinland)"
 
 # scripts/config/strings.nut
 msgid "Wardogs"
@@ -8666,7 +8666,7 @@ msgstr "信天翁"
 
 # scripts/config/strings.nut
 msgid "Angbride"
-msgstr "安布里德"
+msgstr "安布里德(Angbride)"
 
 # scripts/config/strings.nut
 msgid "Armsberg"
@@ -8678,7 +8678,7 @@ msgstr "刺客"
 
 # scripts/config/strings.nut
 msgid "Baleford"
-msgstr "贝尔福德"
+msgstr "贝尔福德(Baleford)"
 
 # scripts/config/strings.nut
 msgid "Beginner"
@@ -8694,7 +8694,7 @@ msgstr "贝伦加尔"
 
 # scripts/config/strings.nut
 msgid "Blackfan"
-msgstr "黑扇"
+msgstr "黑扇(Blackfan)"
 
 # scripts/config/strings.nut
 msgid "Blackfly"
@@ -8726,7 +8726,7 @@ msgstr "邪教徒"
 
 # scripts/config/strings.nut
 msgid "Dawnland"
-msgstr "黎明之地"
+msgstr "黎明之地(Dawnland)"
 
 # scripts/config/strings.nut
 msgid "Dead Men"
@@ -8738,11 +8738,11 @@ msgstr "冰原狼"
 
 # scripts/config/strings.nut
 msgid "Drylands"
-msgstr "旱地"
+msgstr "旱地(Drylands)"
 
 # scripts/config/strings.nut
 msgid "Dunspike"
-msgstr "邓斯派克"
+msgstr "邓斯派克(Dunspike)"
 
 # scripts/config/strings.nut
 msgid "Eighteen"
@@ -8758,7 +8758,7 @@ msgstr "工程师"
 
 # scripts/config/strings.nut
 msgid "Fairdale"
-msgstr "费尔代尔"
+msgstr "费尔代尔(Fairdale)"
 
 # scripts/config/strings.nut
 msgid "Fearsome"
@@ -8782,11 +8782,11 @@ msgstr "友谊赛"
 
 # scripts/config/strings.nut
 msgid "Froghold"
-msgstr "蛤蟆城"
+msgstr "蛤蟆城(Froghold)"
 
 # scripts/config/strings.nut
 msgid "Glendale"
-msgstr "格伦代尔"
+msgstr "格伦代尔(Glendale)"
 
 # scripts/config/strings.nut
 msgid "Grauwall"
@@ -8798,19 +8798,19 @@ msgstr "格林蒙德"
 
 # scripts/config/strings.nut
 msgid "Grimroof"
-msgstr "严酷的屋顶"
+msgstr "严酷的屋顶(Grimroof)"
 
 # scripts/config/strings.nut
 msgid "Highrise"
-msgstr "高楼"
+msgstr "高楼(Highrise)"
 
 # scripts/config/strings.nut
 msgid "Holmburn"
-msgstr "霍姆本"
+msgstr "霍姆本(Holmburn)"
 
 # scripts/config/strings.nut
 msgid "Icehenge"
-msgstr "冰山"
+msgstr "冰山(Icehenge)"
 
 # scripts/config/strings.nut
 msgid "Immortal"
@@ -8826,7 +8826,7 @@ msgstr "伊尔利赫特"
 
 # scripts/config/strings.nut
 msgid "Jundland"
-msgstr "君德兰"
+msgstr "君德兰(Jundland)"
 
 # scripts/config/strings.nut
 msgid "Karrakan"
@@ -8834,11 +8834,11 @@ msgstr "卡拉坎"
 
 # scripts/config/strings.nut
 msgid "Kingmill"
-msgstr "金米尔"
+msgstr "金米尔(Kingmill)"
 
 # scripts/config/strings.nut
 msgid "Lowlands"
-msgstr "低地"
+msgstr "低地(Lowlands)"
 
 # scripts/config/strings.nut
 msgid "Mainhand"
@@ -8846,7 +8846,7 @@ msgstr "主手"
 
 # scripts/config/strings.nut
 msgid "Markland"
-msgstr "马克兰"
+msgstr "马克兰(Markland)"
 
 # scripts/config/strings.nut
 msgid "Mongrels"
@@ -8858,7 +8858,7 @@ msgstr "19"
 
 # scripts/config/strings.nut
 msgid "Norshire"
-msgstr "诺郡"
+msgstr "诺郡(Norshire)"
 
 # scripts/config/strings.nut
 msgid "Officers"
@@ -8866,7 +8866,7 @@ msgstr "长官"
 
 # scripts/config/strings.nut
 msgid "Parcheim"
-msgstr "帕尔海姆"
+msgstr "帕尔海姆(Parcheim)"
 
 # scripts/config/strings.nut
 msgid "Peasants"
@@ -8874,19 +8874,19 @@ msgstr "农民"
 
 # scripts/config/strings.nut
 msgid "Peatfold"
-msgstr "泥炭地"
+msgstr "泥炭地(Peatfold)"
 
 # scripts/config/strings.nut
 msgid "Pyrewood"
-msgstr "柴火"
+msgstr "柴火(Pyrewood)"
 
 # scripts/config/strings.nut
 msgid "Ragwilds"
-msgstr "拉格威尔兹"
+msgstr "拉格威尔兹(Ragwilds)"
 
 # scripts/config/strings.nut
 msgid "Rampants"
-msgstr "猖獗"
+msgstr "猖獗(Rampants)"
 
 # scripts/config/strings.nut
 msgid "Realm of"
@@ -8906,7 +8906,7 @@ msgstr "回转"
 
 # scripts/config/strings.nut
 msgid "Ruffmuir"
-msgstr "鲁夫缪尔"
+msgstr "鲁夫缪尔(Ruffmuir)"
 
 # scripts/config/strings.nut
 msgid "Saplings"
@@ -8922,19 +8922,19 @@ msgstr "蛇"
 
 # scripts/config/strings.nut
 msgid "Skyreach"
-msgstr "通天"
+msgstr "通天(Skyreach)"
 
 # scripts/config/strings.nut
 msgid "Snowbank"
-msgstr "雪洲"
+msgstr "雪洲(Snowbank)"
 
 # scripts/config/strings.nut
 msgid "Solstein"
-msgstr "索尔斯坦"
+msgstr "索尔斯坦(Solstein)"
 
 # scripts/config/strings.nut
 msgid "Sunreach"
-msgstr "日照"
+msgstr "日照(Sunreach)"
 
 # scripts/config/strings.nut
 msgid "Sycamore"
@@ -8946,7 +8946,7 @@ msgstr "领主"
 
 # scripts/config/strings.nut
 msgid "The Rift"
-msgstr "裂谷"
+msgstr "裂谷(The Rift)"
 
 # scripts/config/strings.nut
 msgid "Thirteen"
@@ -8958,7 +8958,7 @@ msgstr "落单狗"
 
 # scripts/config/strings.nut
 msgid "Vendland"
-msgstr "文德兰"
+msgstr "文德兰(Vendland)"
 
 # scripts/config/strings.nut
 msgid "Warhound"
@@ -8970,15 +8970,15 @@ msgstr "威尔堡"
 
 # scripts/config/strings.nut
 msgid "Wideacre"
-msgstr "宽英亩"
+msgstr "宽英亩(Wideacre)"
 
 # scripts/config/strings.nut
 msgid "Woldwich"
-msgstr "沃尔德威奇"
+msgstr "沃尔德威奇(Woldwich)"
 
 # scripts/config/strings.nut
 msgid "Wolfwood"
-msgstr "沃尔夫伍德"
+msgstr "沃尔夫伍德(Wolfwood)"
 
 # scripts/config/strings.nut
 msgid "close by"
@@ -9050,7 +9050,7 @@ msgstr "秃僧"
 
 # scripts/config/strings.nut
 msgid "Barescrub"
-msgstr "磨砂膏"
+msgstr "磨砂膏(Barescrub)"
 
 # scripts/config/strings.nut
 msgid "Bartholin"
@@ -9062,15 +9062,15 @@ msgstr "大货车"
 
 # scripts/config/strings.nut
 msgid "Black Mud"
-msgstr "黑泥"
+msgstr "黑泥(Black Mud)"
 
 # scripts/config/strings.nut
 msgid "Brillfold"
-msgstr "折叠式"
+msgstr "折叠式(Brillfold)"
 
 # scripts/config/strings.nut
 msgid "Brookwood"
-msgstr "布鲁克伍德"
+msgstr "布鲁克伍德(Brookwood)"
 
 # scripts/config/strings.nut
 msgid "Clay Road"
@@ -9086,7 +9086,7 @@ msgstr "应征入伍"
 
 # scripts/config/strings.nut
 msgid "Cruel Sea"
-msgstr "残酷的大海"
+msgstr "残酷的大海(Cruel Sea)"
 
 # scripts/config/strings.nut
 msgid "Dangerous"
@@ -9098,7 +9098,7 @@ msgstr "黑暗预兆"
 
 # scripts/config/strings.nut
 msgid "Dire Hold"
-msgstr "可怕的要塞"
+msgstr "可怕的要塞(Dire Hold)"
 
 # scripts/config/strings.nut
 msgid "Dirt Road"
@@ -9106,19 +9106,19 @@ msgstr "泥路"
 
 # scripts/config/strings.nut
 msgid "Dreadhorn"
-msgstr "恐惧号角"
+msgstr "恐惧号角(Dreadhorn)"
 
 # scripts/config/strings.nut
 msgid "Dreadmoor"
-msgstr "恐惧荒原"
+msgstr "恐惧荒原(Dreadmoor)"
 
 # scripts/config/strings.nut
 msgid "Dungslump"
-msgstr "大粪"
+msgstr "大粪(Dungslump)"
 
 # scripts/config/strings.nut
 msgid "Elm Grove"
-msgstr "榆树林"
+msgstr "榆树林(Elm Grove)"
 
 # scripts/config/strings.nut
 msgid "Engineers"
@@ -9126,15 +9126,15 @@ msgstr "工程师"
 
 # scripts/config/strings.nut
 msgid "Everwoods"
-msgstr "埃弗伍德"
+msgstr "埃弗伍德(Everwoods)"
 
 # scripts/config/strings.nut
 msgid "Fireander"
-msgstr "弗兰德"
+msgstr "弗兰德(Fireander)"
 
 # scripts/config/strings.nut
 msgid "Frostfold"
-msgstr "霜褶"
+msgstr "霜褶(Frostfold)"
 
 # scripts/config/strings.nut
 msgid "Gladiator"
@@ -9142,11 +9142,11 @@ msgstr "角斗士"
 
 # scripts/config/strings.nut
 msgid "Gnarlheim"
-msgstr "纳尔海姆"
+msgstr "纳尔海姆(Gnarlheim)"
 
 # scripts/config/strings.nut
 msgid "Goathorns"
-msgstr "山羊刺"
+msgstr "山羊刺(Goathorns)"
 
 # scripts/config/strings.nut
 msgid "Grassland"
@@ -9154,31 +9154,31 @@ msgstr "草原"
 
 # scripts/config/strings.nut
 msgid "Great Sea"
-msgstr "大海"
+msgstr "大海(Great Sea)"
 
 # scripts/config/strings.nut
 msgid "Green Sea"
-msgstr "绿海"
+msgstr "绿海(Green Sea)"
 
 # scripts/config/strings.nut
 msgid "Greenfold"
-msgstr "格林福德"
+msgstr "格林福德(Greenfold)"
 
 # scripts/config/strings.nut
 msgid "Greenmere"
-msgstr "格林米尔"
+msgstr "格林米尔(Greenmere)"
 
 # scripts/config/strings.nut
 msgid "Grimdowns"
-msgstr "冷酷无情"
+msgstr "冷酷无情(Grimdowns)"
 
 # scripts/config/strings.nut
 msgid "Gritstone"
-msgstr "砂砾石"
+msgstr "砂砾石(Gritstone)"
 
 # scripts/config/strings.nut
 msgid "Hexenwald"
-msgstr "女巫之森"
+msgstr "女巫之森(Hexenwald)"
 
 # scripts/config/strings.nut
 msgid "Iron Pact"
@@ -9206,7 +9206,7 @@ msgstr "无情"
 
 # scripts/config/strings.nut
 msgid "Minceacre"
-msgstr "肉糜"
+msgstr "肉糜(Minceacre)"
 
 # scripts/config/strings.nut
 msgid "Nightmare"
@@ -9214,19 +9214,19 @@ msgstr "恶梦"
 
 # scripts/config/strings.nut
 msgid "Nordlands"
-msgstr "诺德兰兹"
+msgstr "诺德兰兹(Nordlands)"
 
 # scripts/config/strings.nut
 msgid "Norenford"
-msgstr "诺伦福德"
+msgstr "诺伦福德(Norenford)"
 
 # scripts/config/strings.nut
 msgid "Northmark"
-msgstr "诺斯马克"
+msgstr "诺斯马克(Northmark)"
 
 # scripts/config/strings.nut
 msgid "Northurst"
-msgstr "诺瑟斯特"
+msgstr "诺瑟斯特(Northurst)"
 
 # scripts/config/strings.nut
 msgid "Notorious"
@@ -9234,7 +9234,7 @@ msgstr "臭名昭著"
 
 # scripts/config/strings.nut
 msgid "Oldgrowth"
-msgstr "旧树丛"
+msgstr "旧树丛(Oldgrowth)"
 
 # scripts/config/strings.nut
 msgid "Orc Young"
@@ -9246,7 +9246,7 @@ msgstr "压倒"
 
 # scripts/config/strings.nut
 msgid "Pearl Sea"
-msgstr "珍珠海"
+msgstr "珍珠海(Pearl Sea)"
 
 # scripts/config/strings.nut
 msgid "Rabenholt"
@@ -9258,7 +9258,7 @@ msgstr "拉斯萨南"
 
 # scripts/config/strings.nut
 msgid "Ravenhold"
-msgstr "鸦堡"
+msgstr "鸦堡(Ravenhold)"
 
 # scripts/config/strings.nut
 msgid "Reputable"
@@ -9274,11 +9274,11 @@ msgstr "罗森文"
 
 # scripts/config/strings.nut
 msgid "Rustdroop"
-msgstr "锈迹斑斑"
+msgstr "锈迹斑斑(Rustdroop)"
 
 # scripts/config/strings.nut
 msgid "Sandshear"
-msgstr "沙剪"
+msgstr "沙剪(Sandshear)"
 
 # scripts/config/strings.nut
 msgid "Sandy Bay"
@@ -9306,15 +9306,15 @@ msgstr "接龙"
 
 # scripts/config/strings.nut
 msgid "Solsweald"
-msgstr "索尔斯韦尔德"
+msgstr "索尔斯韦尔德(Solsweald)"
 
 # scripts/config/strings.nut
 msgid "Southmark"
-msgstr "绍斯马克"
+msgstr "绍斯马克(Southmark)"
 
 # scripts/config/strings.nut
 msgid "Spikewind"
-msgstr "尖风"
+msgstr "尖风(Spikewind)"
 
 # scripts/config/strings.nut
 msgid "Steadfast"
@@ -9326,31 +9326,31 @@ msgstr "斯坦沃尔"
 
 # scripts/config/strings.nut
 msgid "Suderland"
-msgstr "苏德兰"
+msgstr "苏德兰(Suderland)"
 
 # scripts/config/strings.nut
 msgid "The Reach"
-msgstr "到达"
+msgstr "到达(The Reach)"
 
 # scripts/config/strings.nut
 msgid "The Reeds"
-msgstr "芦苇"
+msgstr "芦苇(The Reeds)"
 
 # scripts/config/strings.nut
 msgid "The Scald"
-msgstr "烫伤"
+msgstr "烫伤(The Scald)"
 
 # scripts/config/strings.nut
 msgid "Thornvale"
-msgstr "荆棘谷"
+msgstr "荆棘谷(Thornvale)"
 
 # scripts/config/strings.nut
 msgid "Tickbrake"
-msgstr "滴答声"
+msgstr "滴答声(Tickbrake)"
 
 # scripts/config/strings.nut
 msgid "Valeshire"
-msgstr "山谷郡"
+msgstr "山谷郡(Valeshire)"
 
 # scripts/config/strings.nut
 msgid "Warhounds"
@@ -9362,7 +9362,7 @@ msgstr "蛛魔"
 
 # scripts/config/strings.nut
 msgid "Windlands"
-msgstr "风地"
+msgstr "风地(Windlands)"
 
 # scripts/config/strings.nut
 msgid "on a hill"
@@ -9386,7 +9386,7 @@ msgstr "肾上腺素"
 
 # scripts/config/strings.nut
 msgid "Antlerfold"
-msgstr "鹿角圈"
+msgstr "鹿角圈(Antlerfold)"
 
 # scripts/config/strings.nut
 msgid "Arbalester"
@@ -9394,7 +9394,7 @@ msgstr "阿巴莱斯特"
 
 # scripts/config/strings.nut
 msgid "Bald Crown"
-msgstr "秃头冠"
+msgstr "秃头冠(Bald Crown)"
 
 # scripts/config/strings.nut
 msgid "Ballistics"
@@ -9410,19 +9410,19 @@ msgstr "黯淡的月亮"
 
 # scripts/config/strings.nut
 msgid "Bleakwolds"
-msgstr "荒凉世界"
+msgstr "荒凉世界(Bleakwolds)"
 
 # scripts/config/strings.nut
 msgid "Boar Woods"
-msgstr "野猪树林"
+msgstr "野猪树林(Boar Woods)"
 
 # scripts/config/strings.nut
 msgid "Borderdale"
-msgstr "伯德代尔"
+msgstr "伯德代尔(Borderdale)"
 
 # scripts/config/strings.nut
 msgid "Browslopes"
-msgstr "浏览斜坡"
+msgstr "浏览斜坡(Browslopes)"
 
 # scripts/config/strings.nut
 msgid "Buy a Cart"
@@ -9438,11 +9438,11 @@ msgstr "被选中的少数"
 
 # scripts/config/strings.nut
 msgid "Cloddheads"
-msgstr "笨蛋"
+msgstr "笨蛋(Cloddheads)"
 
 # scripts/config/strings.nut
 msgid "Cloudcrest"
-msgstr "云峰"
+msgstr "云峰(Cloudcrest)"
 
 # scripts/config/strings.nut
 msgid "Conscripts"
@@ -9450,19 +9450,19 @@ msgstr "应征入伍"
 
 # scripts/config/strings.nut
 msgid "Crows Nest"
-msgstr "乌鸦巢"
+msgstr "乌鸦巢(Crows Nest)"
 
 # scripts/config/strings.nut
 msgid "Dead Ponds"
-msgstr "死池塘"
+msgstr "死池塘(Dead Ponds)"
 
 # scripts/config/strings.nut
 msgid "Dead Sands"
-msgstr "死沙"
+msgstr "死沙(Dead Sands)"
 
 # scripts/config/strings.nut
 msgid "Deadbottom"
-msgstr "死底"
+msgstr "死底(Deadbottom)"
 
 # scripts/config/strings.nut
 msgid "Debilitate"
@@ -9470,7 +9470,7 @@ msgstr "衰弱"
 
 # scripts/config/strings.nut
 msgid "Dire Woods"
-msgstr "可怕的树林"
+msgstr "可怕的树林(Dire Woods)"
 
 # scripts/config/strings.nut
 msgid "Direwolves"
@@ -9482,19 +9482,19 @@ msgstr "干草原"
 
 # scripts/config/strings.nut
 msgid "Dry Wastes"
-msgstr "干废物"
+msgstr "干废物(Dry Wastes)"
 
 # scripts/config/strings.nut
 msgid "Everwinter"
-msgstr "永冬"
+msgstr "永冬(Everwinter)"
 
 # scripts/config/strings.nut
 msgid "Fair Range"
-msgstr "公平范围"
+msgstr "公平范围(Fair Range)"
 
 # scripts/config/strings.nut
 msgid "Gallowsbog"
-msgstr "绞刑沼泽"
+msgstr "绞刑沼泽(Gallowsbog)"
 
 # scripts/config/strings.nut
 msgid "Gladiators"
@@ -9506,7 +9506,7 @@ msgstr "金太阳"
 
 # scripts/config/strings.nut
 msgid "Grasslands"
-msgstr "草原"
+msgstr "草原(Grasslands)"
 
 # scripts/config/strings.nut
 msgid "Invincible"
@@ -9514,7 +9514,7 @@ msgstr "无敌"
 
 # scripts/config/strings.nut
 msgid "Iron Peaks"
-msgstr "铁峰"
+msgstr "铁峰(Iron Peaks)"
 
 # scripts/config/strings.nut
 msgid "Kaltenborn"
@@ -9522,7 +9522,7 @@ msgstr "卡尔滕伯恩"
 
 # scripts/config/strings.nut
 msgid "Knowesfold"
-msgstr "诺斯福尔德"
+msgstr "诺斯福尔德(Knowesfold)"
 
 # scripts/config/strings.nut
 msgid "Light Snow"
@@ -9530,7 +9530,7 @@ msgstr "小雪"
 
 # scripts/config/strings.nut
 msgid "Meadowcove"
-msgstr "草甸湾"
+msgstr "草甸湾(Meadowcove)"
 
 # scripts/config/strings.nut
 msgid "Merry Mist"
@@ -9538,11 +9538,11 @@ msgstr "快乐的雾"
 
 # scripts/config/strings.nut
 msgid "Middlemark"
-msgstr "中标"
+msgstr "中标(Middlemark)"
 
 # scripts/config/strings.nut
 msgid "Mooseridge"
-msgstr "穆斯里奇"
+msgstr "穆斯里奇(Mooseridge)"
 
 # scripts/config/strings.nut
 msgid "Nachzehrer"
@@ -9562,7 +9562,7 @@ msgstr "猫有九命"
 
 # scripts/config/strings.nut
 msgid "Old Forest"
-msgstr "老森林"
+msgstr "老森林(Old Forest)"
 
 # scripts/config/strings.nut
 msgid "Pathfinder"
@@ -9570,7 +9570,7 @@ msgstr "探路者"
 
 # scripts/config/strings.nut
 msgid "Peat Basin"
-msgstr "泥炭盆地"
+msgstr "泥炭盆地(Peat Basin)"
 
 # scripts/config/strings.nut
 msgid "Perowinger"
@@ -9582,7 +9582,7 @@ msgstr "护符"
 
 # scripts/config/strings.nut
 msgid "Plainshire"
-msgstr "平原郡"
+msgstr "平原郡(Plainshire)"
 
 # scripts/config/strings.nut
 msgid "Poundmaker"
@@ -9598,11 +9598,11 @@ msgstr "雷切吉斯特"
 
 # scripts/config/strings.nut
 msgid "Ravensbeak"
-msgstr "鸦喙"
+msgstr "鸦喙(Ravensbeak)"
 
 # scripts/config/strings.nut
 msgid "Razorshrub"
-msgstr "剃刀灌木"
+msgstr "剃刀灌木(Razorshrub)"
 
 # scripts/config/strings.nut
 msgid "Recognized"
@@ -9618,15 +9618,15 @@ msgstr "狠"
 
 # scripts/config/strings.nut
 msgid "Savage Bog"
-msgstr "野蛮沼泽"
+msgstr "野蛮沼泽(Savage Bog)"
 
 # scripts/config/strings.nut
 msgid "Scrublands"
-msgstr "灌木丛"
+msgstr "灌木丛(Scrublands)"
 
 # scripts/config/strings.nut
 msgid "Somerhurst"
-msgstr "萨默赫斯特"
+msgstr "萨默赫斯特(Somerhurst)"
 
 # scripts/config/strings.nut
 msgid "Sommerwein"
@@ -9634,19 +9634,19 @@ msgstr "萨默温"
 
 # scripts/config/strings.nut
 msgid "Southbloom"
-msgstr "绍斯布鲁姆"
+msgstr "绍斯布鲁姆(Southbloom)"
 
 # scripts/config/strings.nut
 msgid "Southwatch"
-msgstr "南方卫队"
+msgstr "南方卫队(Southwatch)"
 
 # scripts/config/strings.nut
 msgid "Spiderwood"
-msgstr "蜘蛛木"
+msgstr "蜘蛛木(Spiderwood)"
 
 # scripts/config/strings.nut
 msgid "Springwood"
-msgstr "斯普林伍德"
+msgstr "斯普林伍德(Springwood)"
 
 # scripts/config/strings.nut
 msgid "Steel Brow"
@@ -9654,15 +9654,15 @@ msgstr "钢眉"
 
 # scripts/config/strings.nut
 msgid "Stormy Sea"
-msgstr "暴风海"
+msgstr "暴风海(Stormy Sea)"
 
 # scripts/config/strings.nut
 msgid "Tablelands"
-msgstr "高原"
+msgstr "高原(Tablelands)"
 
 # scripts/config/strings.nut
 msgid "Tar Fields"
-msgstr "焦油田"
+msgstr "焦油田(Tar Fields)"
 
 # scripts/config/strings.nut
 msgid "The Ijirok"
@@ -9670,7 +9670,7 @@ msgstr "伊次洛克"
 
 # scripts/config/strings.nut
 msgid "Timberland"
-msgstr "天伯伦"
+msgstr "天伯伦(Timberland)"
 
 # scripts/config/strings.nut
 msgid "Twenty-one"
@@ -9686,7 +9686,7 @@ msgstr "22"
 
 # scripts/config/strings.nut
 msgid "Two Fields"
-msgstr "两个领域"
+msgstr "两个领域(Two Fields)"
 
 # scripts/config/strings.nut
 msgid "Unfriendly"
@@ -9702,7 +9702,7 @@ msgstr "蛛魔"
 
 # scripts/config/strings.nut
 msgid "Wide Watch"
-msgstr "宽手表"
+msgstr "宽手表(Wide Watch)"
 
 # scripts/config/strings.nut
 msgid "Winterhall"
@@ -9710,7 +9710,7 @@ msgstr "温特霍尔"
 
 # scripts/config/strings.nut
 msgid "Wintermore"
-msgstr "温特莫尔"
+msgstr "温特莫尔(Wintermore)"
 
 # scripts/config/strings.nut
 msgid "a long way"
@@ -9774,7 +9774,7 @@ msgstr "蔚蓝公猪"
 
 # scripts/config/strings.nut
 msgid "Azure Marsh"
-msgstr "蔚蓝沼泽"
+msgstr "蔚蓝沼泽(Azure Marsh)"
 
 # scripts/config/strings.nut
 msgid "Battle Flow"
@@ -9782,7 +9782,7 @@ msgstr "战斗流程"
 
 # scripts/config/strings.nut
 msgid "Black Woods"
-msgstr "黑森林"
+msgstr "黑森林(Black Woods)"
 
 # scripts/config/strings.nut
 msgid "Blood Bound"
@@ -9790,7 +9790,7 @@ msgstr "血缚"
 
 # scripts/config/strings.nut
 msgid "Blood Woods"
-msgstr "血树林"
+msgstr "血树林(Blood Woods)"
 
 # scripts/config/strings.nut
 msgid "Bow Mastery"
@@ -9810,11 +9810,11 @@ msgstr "夺冠者"
 
 # scripts/config/strings.nut
 msgid "Deep Covert"
-msgstr "深藏不露"
+msgstr "深藏不露(Deep Covert)"
 
 # scripts/config/strings.nut
 msgid "Deep Depths"
-msgstr "深处"
+msgstr "深处(Deep Depths)"
 
 # scripts/config/strings.nut
 msgid "Dogs of War"
@@ -9822,15 +9822,15 @@ msgstr "战犬"
 
 # scripts/config/strings.nut
 msgid "Dragonteeth"
-msgstr "龙牙"
+msgstr "龙牙(Dragonteeth)"
 
 # scripts/config/strings.nut
 msgid "Eagleflight"
-msgstr "鹰飞"
+msgstr "鹰飞(Eagleflight)"
 
 # scripts/config/strings.nut
 msgid "Elder Woods"
-msgstr "长老伍兹"
+msgstr "长老伍兹(Elder Woods)"
 
 # scripts/config/strings.nut
 msgid "Fallen Hero"
@@ -9838,15 +9838,15 @@ msgstr "堕落的英雄"
 
 # scripts/config/strings.nut
 msgid "Fiery Woods"
-msgstr "火热的树林"
+msgstr "火热的树林(Fiery Woods)"
 
 # scripts/config/strings.nut
 msgid "Ghost Hills"
-msgstr "鬼山"
+msgstr "鬼山(Ghost Hills)"
 
 # scripts/config/strings.nut
 msgid "Gift of God"
-msgstr "上帝的礼物"
+msgstr "上帝的礼物(Gift of God)"
 
 # scripts/config/strings.nut
 msgid "Hammerguard"
@@ -9858,15 +9858,15 @@ msgstr "猎头者"
 
 # scripts/config/strings.nut
 msgid "Hero's Fall"
-msgstr "英雄的陨落"
+msgstr "英雄的陨落(Hero's Fall)"
 
 # scripts/config/strings.nut
 msgid "Houndsmarsh"
-msgstr "猎犬沼泽"
+msgstr "猎犬沼泽(Houndsmarsh)"
 
 # scripts/config/strings.nut
 msgid "Howling Sea"
-msgstr "啸海"
+msgstr "啸海(Howling Sea)"
 
 # scripts/config/strings.nut
 msgid "Incompetent"
@@ -9886,7 +9886,7 @@ msgstr "失落军团"
 
 # scripts/config/strings.nut
 msgid "Macaw Woods"
-msgstr "金刚鹦鹉树林"
+msgstr "金刚鹦鹉树林(Macaw Woods)"
 
 # scripts/config/strings.nut
 msgid "Mercenaries"
@@ -9894,15 +9894,15 @@ msgstr "雇佣兵"
 
 # scripts/config/strings.nut
 msgid "Misty Woods"
-msgstr "迷雾森林"
+msgstr "迷雾森林(Misty Woods)"
 
 # scripts/config/strings.nut
 msgid "Moss Valley"
-msgstr "苔藓谷"
+msgstr "苔藓谷(Moss Valley)"
 
 # scripts/config/strings.nut
 msgid "Mossy Woods"
-msgstr "苔藓森林"
+msgstr "苔藓森林(Mossy Woods)"
 
 # scripts/config/strings.nut
 msgid "Muddy Earth"
@@ -9926,7 +9926,7 @@ msgstr "死灵法师"
 
 # scripts/config/strings.nut
 msgid "Needlegrove"
-msgstr "针叶林"
+msgstr "针叶林(Needlegrove)"
 
 # scripts/config/strings.nut
 msgid "Oathbringer"
@@ -9950,23 +9950,23 @@ msgstr "复仇之魂"
 
 # scripts/config/strings.nut
 msgid "Rainy Ocean"
-msgstr "多雨的海洋"
+msgstr "多雨的海洋(Rainy Ocean)"
 
 # scripts/config/strings.nut
 msgid "Rocky Ridge"
-msgstr "落基岭"
+msgstr "落基岭(Rocky Ridge)"
 
 # scripts/config/strings.nut
 msgid "Scragglands"
-msgstr "荒地"
+msgstr "荒地(Scragglands)"
 
 # scripts/config/strings.nut
 msgid "Sea of Sand"
-msgstr "沙海"
+msgstr "沙海(Sea of Sand)"
 
 # scripts/config/strings.nut
 msgid "Sea of Snow"
-msgstr "雪海"
+msgstr "雪海(Sea of Snow)"
 
 # scripts/config/strings.nut
 msgid "Second Sons"
@@ -9978,11 +9978,11 @@ msgstr "七颗星"
 
 # scripts/config/strings.nut
 msgid "Shallowford"
-msgstr "沙洛福德"
+msgstr "沙洛福德(Shallowford)"
 
 # scripts/config/strings.nut
 msgid "Sharp Rocks"
-msgstr "锋利的岩石"
+msgstr "锋利的岩石(Sharp Rocks)"
 
 # scripts/config/strings.nut
 msgid "Shield Bash"
@@ -9994,7 +9994,7 @@ msgstr "银灰 爪爪"
 
 # scripts/config/strings.nut
 msgid "Spidergrove"
-msgstr "蜘蛛林"
+msgstr "蜘蛛林(Spidergrove)"
 
 # scripts/config/strings.nut
 msgid "Summer Daze"
@@ -10002,7 +10002,7 @@ msgstr "夏日发呆"
 
 # scripts/config/strings.nut
 msgid "Surging Sea"
-msgstr "汹涌的大海"
+msgstr "汹涌的大海(Surging Sea)"
 
 # scripts/config/strings.nut
 msgid "Swordmaster"
@@ -10014,7 +10014,7 @@ msgstr "威胁"
 
 # scripts/config/strings.nut
 msgid "Thunder Sea"
-msgstr "雷海"
+msgstr "雷海(Thunder Sea)"
 
 # scripts/config/strings.nut
 msgid "Treacherous"
@@ -10034,11 +10034,11 @@ msgstr "29"
 
 # scripts/config/strings.nut
 msgid "White Waste"
-msgstr "白色废物"
+msgstr "白色废物(White Waste)"
 
 # scripts/config/strings.nut
 msgid "World's Rim"
-msgstr "世界之环"
+msgstr "世界之环(World's Rim)"
 
 # scripts/config/strings.nut
 msgid "Zweihanders"
@@ -10074,19 +10074,19 @@ msgstr "预期"
 
 # scripts/config/strings.nut
 msgid "Auburn Woods"
-msgstr "奥本森林"
+msgstr "奥本森林(Auburn Woods)"
 
 # scripts/config/strings.nut
 msgid "Aurora Flats"
-msgstr "极光平底鞋"
+msgstr "极光平底鞋(Aurora Flats)"
 
 # scripts/config/strings.nut
 msgid "Black Forest"
-msgstr "黑森林"
+msgstr "黑森林(Black Forest)"
 
 # scripts/config/strings.nut
 msgid "Black Morass"
-msgstr "黑色沼泽"
+msgstr "黑色沼泽(Black Morass)"
 
 # scripts/config/strings.nut
 msgid "Blade Dancer"
@@ -10094,7 +10094,7 @@ msgstr "刀锋舞者"
 
 # scripts/config/strings.nut
 msgid "Bleak Forest"
-msgstr "荒凉的森林"
+msgstr "荒凉的森林(Bleak Forest)"
 
 # scripts/config/strings.nut
 msgid "Bone Wardens"
@@ -10102,7 +10102,7 @@ msgstr "白骨守卫"
 
 # scripts/config/strings.nut
 msgid "Boulderhills"
-msgstr "博尔德希尔斯"
+msgstr "博尔德希尔斯(Boulderhills)"
 
 # scripts/config/strings.nut
 msgid "Brigand Thug"
@@ -10110,7 +10110,7 @@ msgstr "强盗暴徒"
 
 # scripts/config/strings.nut
 msgid "Bronze Flats"
-msgstr "青铜平底鞋"
+msgstr "青铜平底鞋(Bronze Flats)"
 
 # scripts/config/strings.nut
 msgid "Caravan Cart"
@@ -10122,7 +10122,7 @@ msgstr "商队之手"
 
 # scripts/config/strings.nut
 msgid "Clan's Claim"
-msgstr "氏族的主张"
+msgstr "氏族的主张(Clan's Claim)"
 
 # scripts/config/strings.nut
 msgid "Coral Secret"
@@ -10130,7 +10130,7 @@ msgstr "珊瑚秘密"
 
 # scripts/config/strings.nut
 msgid "Cursed Lands"
-msgstr "诅咒之地"
+msgstr "诅咒之地(Cursed Lands)"
 
 # scripts/config/strings.nut
 msgid "Dawn's March"
@@ -10138,27 +10138,27 @@ msgstr "黎明三月"
 
 # scripts/config/strings.nut
 msgid "Dismal Woods"
-msgstr "惨淡的树林"
+msgstr "惨淡的树林(Dismal Woods)"
 
 # scripts/config/strings.nut
 msgid "Dreaded Mire"
-msgstr "可怕的泥潭"
+msgstr "可怕的泥潭(Dreaded Mire)"
 
 # scripts/config/strings.nut
 msgid "Droughtshire"
-msgstr "干旱郡"
+msgstr "干旱郡(Droughtshire)"
 
 # scripts/config/strings.nut
 msgid "Dusky Forest"
-msgstr "昏暗的森林"
+msgstr "昏暗的森林(Dusky Forest)"
 
 # scripts/config/strings.nut
 msgid "Dusty Desert"
-msgstr "尘土飞扬的沙漠"
+msgstr "尘土飞扬的沙漠(Dusty Desert)"
 
 # scripts/config/strings.nut
 msgid "Ember Forest"
-msgstr "余烬森林"
+msgstr "余烬森林(Ember Forest)"
 
 # scripts/config/strings.nut
 msgid "Free City of"
@@ -10166,15 +10166,15 @@ msgstr "自由城·"
 
 # scripts/config/strings.nut
 msgid "Frozen North"
-msgstr "冰冻的北方"
+msgstr "冰冻的北方(Frozen North)"
 
 # scripts/config/strings.nut
 msgid "Gloomy Woods"
-msgstr "阴郁的树林"
+msgstr "阴郁的树林(Gloomy Woods)"
 
 # scripts/config/strings.nut
 msgid "Golden Flats"
-msgstr "金色平底鞋"
+msgstr "金色平底鞋(Golden Flats)"
 
 # scripts/config/strings.nut
 msgid "Golden Horse"
@@ -10194,7 +10194,7 @@ msgstr "圣城·"
 
 # scripts/config/strings.nut
 msgid "Jagged Woods"
-msgstr "锯齿状森林"
+msgstr "锯齿状森林(Jagged Woods)"
 
 # scripts/config/strings.nut
 msgid "Lords of War"
@@ -10206,11 +10206,11 @@ msgstr "权杖精通"
 
 # scripts/config/strings.nut
 msgid "Misty Covert"
-msgstr "迷雾隐蔽"
+msgstr "迷雾隐蔽(Misty Covert)"
 
 # scripts/config/strings.nut
 msgid "Misty Summit"
-msgstr "迷雾峰会"
+msgstr "迷雾峰会(Misty Summit)"
 
 # scripts/config/strings.nut
 msgid "Necromancers"
@@ -10262,39 +10262,39 @@ msgstr "专业的"
 
 # scripts/config/strings.nut
 msgid "Red Lowlands"
-msgstr "红色低地"
+msgstr "红色低地(Red Lowlands)"
 
 # scripts/config/strings.nut
 msgid "Rich Meadows"
-msgstr "丰富的草地"
+msgstr "丰富的草地(Rich Meadows)"
 
 # scripts/config/strings.nut
 msgid "Rugged Flats"
-msgstr "坚固的平底鞋"
+msgstr "坚固的平底鞋(Rugged Flats)"
 
 # scripts/config/strings.nut
 msgid "Shinglehumps"
-msgstr "带状疱疹"
+msgstr "带状疱疹(Shinglehumps)"
 
 # scripts/config/strings.nut
 msgid "Silver Flats"
-msgstr "银色平底鞋"
+msgstr "银色平底鞋(Silver Flats)"
 
 # scripts/config/strings.nut
 msgid "Silver Ridge"
-msgstr "银岭"
+msgstr "银岭(Silver Ridge)"
 
 # scripts/config/strings.nut
 msgid "Silver Sands"
-msgstr "银沙"
+msgstr "银沙(Silver Sands)"
 
 # scripts/config/strings.nut
 msgid "Splinterdale"
-msgstr "斯普林特代尔"
+msgstr "斯普林特代尔(Splinterdale)"
 
 # scripts/config/strings.nut
 msgid "Stormy Woods"
-msgstr "风雨如磐的树林"
+msgstr "风雨如磐的树林(Stormy Woods)"
 
 # scripts/config/strings.nut
 msgid "Swordmasters"
@@ -10302,23 +10302,23 @@ msgstr "剑圣"
 
 # scripts/config/strings.nut
 msgid "Sylvan Woods"
-msgstr "西尔万伍兹"
+msgstr "西尔万伍兹(Sylvan Woods)"
 
 # scripts/config/strings.nut
 msgid "Temple Grove"
-msgstr "坦普尔格罗夫"
+msgstr "坦普尔格罗夫(Temple Grove)"
 
 # scripts/config/strings.nut
 msgid "The Dryweeds"
-msgstr "干草"
+msgstr "干草(The Dryweeds)"
 
 # scripts/config/strings.nut
 msgid "The Hummocks"
-msgstr "小丘"
+msgstr "小丘(The Hummocks)"
 
 # scripts/config/strings.nut
 msgid "The Wetlands"
-msgstr "湿地"
+msgstr "湿地(The Wetlands)"
 
 # scripts/config/strings.nut
 msgid "Tiger's Claw"
@@ -10346,7 +10346,7 @@ msgstr "武器大师"
 
 # scripts/config/strings.nut
 msgid "Wicked Woods"
-msgstr "邪恶的树林"
+msgstr "邪恶的树林(Wicked Woods)"
 
 # scripts/config/strings.nut
 msgid "Wiederganger"
@@ -10354,7 +10354,7 @@ msgstr "维德冈格"
 
 # scripts/config/strings.nut
 msgid "Yawning Gaps"
-msgstr "打哈欠的差距"
+msgstr "打哈欠的差距(Yawning Gaps)"
 
 # scripts/config/strings.nut
 msgid "in the ocean"
@@ -10390,11 +10390,11 @@ msgstr "大量(12以上)"
 
 # scripts/config/strings.nut
 msgid "Azure Expanse"
-msgstr "蔚蓝的广阔"
+msgstr "蔚蓝的广阔(Azure Expanse)"
 
 # scripts/config/strings.nut
 msgid "Bandit's Rest"
-msgstr "强盗的休息"
+msgstr "强盗的休息(Bandit's Rest)"
 
 # scripts/config/strings.nut
 msgid "Battering Ram"
@@ -10410,7 +10410,7 @@ msgstr "黑公司"
 
 # scripts/config/strings.nut
 msgid "Black Marshes"
-msgstr "黑沼泽"
+msgstr "黑沼泽(Black Marshes)"
 
 # scripts/config/strings.nut
 msgid "Black Shields"
@@ -10422,7 +10422,7 @@ msgstr "刀锋舞者"
 
 # scripts/config/strings.nut
 msgid "Bogwood Grove"
-msgstr "博格伍德格罗夫"
+msgstr "博格伍德格罗夫(Bogwood Grove)"
 
 # scripts/config/strings.nut
 msgid "Bounty Hunter"
@@ -10450,27 +10450,27 @@ msgstr "州市·"
 
 # scripts/config/strings.nut
 msgid "Deserted Rise"
-msgstr "荒芜的崛起"
+msgstr "荒芜的崛起(Deserted Rise)"
 
 # scripts/config/strings.nut
 msgid "Desolate Moor"
-msgstr "荒凉的荒原"
+msgstr "荒凉的荒原(Desolate Moor)"
 
 # scripts/config/strings.nut
 msgid "Dreaded Rocks"
-msgstr "可怕的岩石"
+msgstr "可怕的岩石(Dreaded Rocks)"
 
 # scripts/config/strings.nut
 msgid "Druid's Grove"
-msgstr "德鲁伊的树林"
+msgstr "德鲁伊的树林(Druid's Grove)"
 
 # scripts/config/strings.nut
 msgid "Duke's Demise"
-msgstr "杜克之死"
+msgstr "杜克之死(Duke's Demise)"
 
 # scripts/config/strings.nut
 msgid "Eerie Marshes"
-msgstr "诡异沼泽"
+msgstr "诡异沼泽(Eerie Marshes)"
 
 # scripts/config/strings.nut
 msgid "Ejnar Erikson"
@@ -10490,7 +10490,7 @@ msgstr "连枷掌握"
 
 # scripts/config/strings.nut
 msgid "Frozen Plains"
-msgstr "冰冻平原"
+msgstr "冰冻平原(Frozen Plains)"
 
 # scripts/config/strings.nut
 msgid "Goblin Shaman"
@@ -10498,7 +10498,7 @@ msgstr "地精萨满"
 
 # scripts/config/strings.nut
 msgid "Golden Valley"
-msgstr "金谷"
+msgstr "金谷(Golden Valley)"
 
 # scripts/config/strings.nut
 msgid "Grand City of"
@@ -10514,7 +10514,7 @@ msgstr "篱笆骑士"
 
 # scripts/config/strings.nut
 msgid "Humming Hills"
-msgstr "嗡嗡山"
+msgstr "嗡嗡山(Humming Hills)"
 
 # scripts/config/strings.nut
 msgid "Hungry Hounds"
@@ -10522,11 +10522,11 @@ msgstr "饥饿的猎犬"
 
 # scripts/config/strings.nut
 msgid "Hunter's Bosk"
-msgstr "猎人的博斯克"
+msgstr "猎人的博斯克(Hunter's Bosk)"
 
 # scripts/config/strings.nut
 msgid "Iceblade Dale"
-msgstr "冰刃谷"
+msgstr "冰刃谷(Iceblade Dale)"
 
 # scripts/config/strings.nut
 msgid "Iron Covenant"
@@ -10534,19 +10534,19 @@ msgstr "铁盟"
 
 # scripts/config/strings.nut
 msgid "Ironoak Grove"
-msgstr "铁橡树林"
+msgstr "铁橡树林(Ironoak Grove)"
 
 # scripts/config/strings.nut
 msgid "Jagged Spires"
-msgstr "锯齿状尖顶"
+msgstr "锯齿状尖顶(Jagged Spires)"
 
 # scripts/config/strings.nut
 msgid "Jagged Summit"
-msgstr "锯齿峰"
+msgstr "锯齿峰(Jagged Summit)"
 
 # scripts/config/strings.nut
 msgid "Juniper Hills"
-msgstr "杜松山"
+msgstr "杜松山(Juniper Hills)"
 
 # scripts/config/strings.nut
 msgid "King's Bounty"
@@ -10558,15 +10558,15 @@ msgstr "弓箭手大师"
 
 # scripts/config/strings.nut
 msgid "Misty Barrows"
-msgstr "迷雾手推车"
+msgstr "迷雾手推车(Misty Barrows)"
 
 # scripts/config/strings.nut
 msgid "Moaning Sands"
-msgstr "呻吟之沙"
+msgstr "呻吟之沙(Moaning Sands)"
 
 # scripts/config/strings.nut
 msgid "Moonlit Peaks"
-msgstr "月光峰"
+msgstr "月光峰(Moonlit Peaks)"
 
 # scripts/config/strings.nut
 msgid "Nomad Archers"
@@ -10590,7 +10590,7 @@ msgstr "旧车轮"
 
 # scripts/config/strings.nut
 msgid "Oldlock Hills"
-msgstr "奥尔德洛克山"
+msgstr "奥尔德洛克山(Oldlock Hills)"
 
 # scripts/config/strings.nut
 msgid "Orc Berserker"
@@ -10598,11 +10598,11 @@ msgstr "兽人狂战士"
 
 # scripts/config/strings.nut
 msgid "Ranger's Rest"
-msgstr "游侠的休息"
+msgstr "游侠的休息(Ranger's Rest)"
 
 # scripts/config/strings.nut
 msgid "Royal Grounds"
-msgstr "皇家场地"
+msgstr "皇家场地(Royal Grounds)"
 
 # scripts/config/strings.nut
 msgid "Ruined Pillar"
@@ -10610,7 +10610,7 @@ msgstr "毁坏的柱子"
 
 # scripts/config/strings.nut
 msgid "Scree Barrows"
-msgstr "碎石手推车"
+msgstr "碎石手推车(Scree Barrows)"
 
 # scripts/config/strings.nut
 msgid "Shallow Water"
@@ -10622,7 +10622,7 @@ msgstr "护盾专家"
 
 # scripts/config/strings.nut
 msgid "Silver Plains"
-msgstr "银平原"
+msgstr "银平原(Silver Plains)"
 
 # scripts/config/strings.nut
 msgid "Spear Mastery"
@@ -10630,7 +10630,7 @@ msgstr "长矛精通"
 
 # scripts/config/strings.nut
 msgid "Sticky Wallow"
-msgstr "黏糊糊的"
+msgstr "黏糊糊的(Sticky Wallow)"
 
 # scripts/config/strings.nut
 msgid "Sword Mastery"
@@ -10638,7 +10638,7 @@ msgstr "剑术"
 
 # scripts/config/strings.nut
 msgid "Tempest Ocean"
-msgstr "风暴之海"
+msgstr "风暴之海(Tempest Ocean)"
 
 # scripts/config/strings.nut
 msgid "The Conqueror"
@@ -10646,15 +10646,15 @@ msgstr "征服者"
 
 # scripts/config/strings.nut
 msgid "The Emptiness"
-msgstr "虚无之地"
+msgstr "虚无之地(The Emptiness)"
 
 # scripts/config/strings.nut
 msgid "The Vast Rise"
-msgstr "巨大的崛起"
+msgstr "巨大的崛起(The Vast Rise)"
 
 # scripts/config/strings.nut
 msgid "Unbound Ocean"
-msgstr "无界的海洋"
+msgstr "无界的海洋(Unbound Ocean)"
 
 # scripts/config/strings.nut
 msgid "Very Friendly"
@@ -10662,11 +10662,11 @@ msgstr "非常友好"
 
 # scripts/config/strings.nut
 msgid "Vibrant Grove"
-msgstr "充满活力的格罗夫"
+msgstr "充满活力的格罗夫(Vibrant Grove)"
 
 # scripts/config/strings.nut
 msgid "Wailing Ocean"
-msgstr "哭泣的海洋"
+msgstr "哭泣的海洋(Wailing Ocean)"
 
 # scripts/config/strings.nut
 msgid "White Company"
@@ -10706,15 +10706,15 @@ msgstr "[color=#ff0000]平原上[/color]"
 
 # scripts/config/strings.nut
 msgid "Ancient Cairns"
-msgstr "古凯恩斯"
+msgstr "古凯恩斯(Ancient Cairns)"
 
 # scripts/config/strings.nut
 msgid "Ancient Forest"
-msgstr "古森林"
+msgstr "古森林(Ancient Forest)"
 
 # scripts/config/strings.nut
 msgid "Ancient Knolls"
-msgstr "古代小丘"
+msgstr "古代小丘(Ancient Knolls)"
 
 # scripts/config/strings.nut
 msgid "Ancient Priest"
@@ -10730,7 +10730,7 @@ msgstr "装甲战犬"
 
 # scripts/config/strings.nut
 msgid "Ashen Wetlands"
-msgstr "灰烬湿地"
+msgstr "灰烬湿地(Ashen Wetlands)"
 
 # scripts/config/strings.nut
 msgid "Bags and Belts"
@@ -10738,7 +10738,7 @@ msgstr "包和腰带"
 
 # scripts/config/strings.nut
 msgid "Banshee Mounds"
-msgstr "女妖丘"
+msgstr "女妖丘(Banshee Mounds)"
 
 # scripts/config/strings.nut
 msgid "Barbarian King"
@@ -10746,11 +10746,11 @@ msgstr "蛮王"
 
 # scripts/config/strings.nut
 msgid "Beatroot Wilds"
-msgstr "甜菜根荒野"
+msgstr "甜菜根荒野(Beatroot Wilds)"
 
 # scripts/config/strings.nut
 msgid "Blazing Forest"
-msgstr "炽热的森林"
+msgstr "炽热的森林(Blazing Forest)"
 
 # scripts/config/strings.nut
 msgid "Bounty Hunters"
@@ -10770,11 +10770,11 @@ msgstr "商队卫队"
 
 # scripts/config/strings.nut
 msgid "Chestnut Grove"
-msgstr "栗树林"
+msgstr "栗树林(Chestnut Grove)"
 
 # scripts/config/strings.nut
 msgid "Crimson Forest"
-msgstr "深红森林"
+msgstr "深红森林(Crimson Forest)"
 
 # scripts/config/strings.nut
 msgid "Dagger Mastery"
@@ -10786,19 +10786,19 @@ msgstr "沙漠追猎者"
 
 # scripts/config/strings.nut
 msgid "Emerald Bassin"
-msgstr "翡翠盆地"
+msgstr "翡翠盆地(Emerald Bassin)"
 
 # scripts/config/strings.nut
 msgid "Endless Polder"
-msgstr "无尽圩田"
+msgstr "无尽圩田(Endless Polder)"
 
 # scripts/config/strings.nut
 msgid "Firerock Grove"
-msgstr "火石林"
+msgstr "火石林(Firerock Grove)"
 
 # scripts/config/strings.nut
 msgid "Foamy Shallows"
-msgstr "泡沫浅滩"
+msgstr "泡沫浅滩(Foamy Shallows)"
 
 # scripts/config/strings.nut
 msgid "Fortified Mind"
@@ -10806,15 +10806,15 @@ msgstr "强化心灵"
 
 # scripts/config/strings.nut
 msgid "Foxfold Forest"
-msgstr "狐狸森林"
+msgstr "狐狸森林(Foxfold Forest)"
 
 # scripts/config/strings.nut
 msgid "Frozen Burrows"
-msgstr "冰冻洞穴"
+msgstr "冰冻洞穴(Frozen Burrows)"
 
 # scripts/config/strings.nut
 msgid "Giant's Slopes"
-msgstr "巨人的斜坡"
+msgstr "巨人的斜坡(Giant's Slopes)"
 
 # scripts/config/strings.nut
 msgid "Goblin Shamans"
@@ -10822,7 +10822,7 @@ msgstr "地精萨满"
 
 # scripts/config/strings.nut
 msgid "Green Shallows"
-msgstr "绿色浅滩"
+msgstr "绿色浅滩(Green Shallows)"
 
 # scripts/config/strings.nut
 msgid "Grudgebringers"
@@ -10838,11 +10838,11 @@ msgstr "锤子掌握"
 
 # scripts/config/strings.nut
 msgid "Howling Wastes"
-msgstr "嚎叫的废物"
+msgstr "嚎叫的废物(Howling Wastes)"
 
 # scripts/config/strings.nut
 msgid "Iron Mountains"
-msgstr "铁山"
+msgstr "铁山(Iron Mountains)"
 
 # scripts/config/strings.nut
 msgid "Killing Frenzy"
@@ -10858,11 +10858,11 @@ msgstr "弓箭手大师"
 
 # scripts/config/strings.nut
 msgid "Mount Bulkhead"
-msgstr "安装隔板"
+msgstr "安装隔板(Mount Bulkhead)"
 
 # scripts/config/strings.nut
 msgid "Mumbling Sands"
-msgstr "咕哝沙"
+msgstr "咕哝沙(Mumbling Sands)"
 
 # scripts/config/strings.nut
 msgid "Nomad Slingers"
@@ -10874,35 +10874,35 @@ msgstr "兽人狂战士"
 
 # scripts/config/strings.nut
 msgid "Prowlers Woods"
-msgstr "徘徊者伍兹"
+msgstr "徘徊者伍兹(Prowlers Woods)"
 
 # scripts/config/strings.nut
 msgid "Ragnar's Range"
-msgstr "拉格纳的范围"
+msgstr "拉格纳的范围(Ragnar's Range)"
 
 # scripts/config/strings.nut
 msgid "Red Worm Woods"
-msgstr "红虫树林"
+msgstr "红虫树林(Red Worm Woods)"
 
 # scripts/config/strings.nut
 msgid "Redbark Forest"
-msgstr "红皮森林"
+msgstr "红皮森林(Redbark Forest)"
 
 # scripts/config/strings.nut
 msgid "Rustcave Hills"
-msgstr "锈洞山"
+msgstr "锈洞山(Rustcave Hills)"
 
 # scripts/config/strings.nut
 msgid "Shifting Sands"
-msgstr "流沙"
+msgstr "流沙(Shifting Sands)"
 
 # scripts/config/strings.nut
 msgid "Slaughtermount"
-msgstr "屠宰山"
+msgstr "屠宰山(Slaughtermount)"
 
 # scripts/config/strings.nut
 msgid "Snake's Covert"
-msgstr "蛇的隐秘"
+msgstr "蛇的隐秘(Snake's Covert)"
 
 # scripts/config/strings.nut
 msgid "Sons of Winter"
@@ -10910,19 +10910,19 @@ msgstr "冬之子"
 
 # scripts/config/strings.nut
 msgid "Southern Reach"
-msgstr "南部地区"
+msgstr "南部地区(Southern Reach)"
 
 # scripts/config/strings.nut
 msgid "Southern Sands"
-msgstr "南沙"
+msgstr "南沙(Southern Sands)"
 
 # scripts/config/strings.nut
 msgid "Stag's Grounds"
-msgstr "雄鹿的理由"
+msgstr "雄鹿的理由(Stag's Grounds)"
 
 # scripts/config/strings.nut
 msgid "The Bare Peaks"
-msgstr "光秃秃的山峰"
+msgstr "光秃秃的山峰(The Bare Peaks)"
 
 # scripts/config/strings.nut
 msgid "The Lorekeeper"
@@ -10930,19 +10930,19 @@ msgstr "博学者"
 
 # scripts/config/strings.nut
 msgid "The Lost Oasis"
-msgstr "失落的绿洲"
+msgstr "失落的绿洲(The Lost Oasis)"
 
 # scripts/config/strings.nut
 msgid "The Marshlands"
-msgstr "沼泽地"
+msgstr "沼泽地(The Marshlands)"
 
 # scripts/config/strings.nut
 msgid "Timeless Sands"
-msgstr "永恒之沙"
+msgstr "永恒之沙(Timeless Sands)"
 
 # scripts/config/strings.nut
 msgid "Torched Plains"
-msgstr "火炬平原"
+msgstr "火炬平原(Torched Plains)"
 
 # scripts/config/strings.nut
 msgid "Unbroken Third"
@@ -10958,7 +10958,7 @@ msgstr "鲸鱼之旅"
 
 # scripts/config/strings.nut
 msgid "Wretched Woods"
-msgstr "可怜的树林"
+msgstr "可怜的树林(Wretched Woods)"
 
 # scripts/config/strings.nut
 msgid "Ancient Priests"
@@ -10974,7 +10974,7 @@ msgstr "装甲战犬"
 
 # scripts/config/strings.nut
 msgid "Badger's Covert"
-msgstr "獾的秘密"
+msgstr "獾的秘密(Badger's Covert)"
 
 # scripts/config/strings.nut
 msgid "Barbarian Kings"
@@ -10986,19 +10986,19 @@ msgstr "战斗的选择"
 
 # scripts/config/strings.nut
 msgid "Bed Load Knolls"
-msgstr "床负载小丘"
+msgstr "床负载小丘(Bed Load Knolls)"
 
 # scripts/config/strings.nut
 msgid "Bloodcut Growth"
-msgstr "断血增长"
+msgstr "断血增长(Bloodcut Growth)"
 
 # scripts/config/strings.nut
 msgid "Bonefold Barrow"
-msgstr "骨褶手推车"
+msgstr "骨褶手推车(Bonefold Barrow)"
 
 # scripts/config/strings.nut
 msgid "Bottomless Pits"
-msgstr "无底坑"
+msgstr "无底坑(Bottomless Pits)"
 
 # scripts/config/strings.nut
 msgid "Brigand Leaders"
@@ -11026,7 +11026,7 @@ msgstr "深红匕首"
 
 # scripts/config/strings.nut
 msgid "Decayed Heights"
-msgstr "腐朽的高地"
+msgstr "腐朽的高地(Decayed Heights)"
 
 # scripts/config/strings.nut
 msgid "Desert Stalkers"
@@ -11042,7 +11042,7 @@ msgstr "快速适应"
 
 # scripts/config/strings.nut
 msgid "Giant's Pebbles"
-msgstr "巨人的鹅卵石"
+msgstr "巨人的鹅卵石(Giant's Pebbles)"
 
 # scripts/config/strings.nut
 msgid "Gilded soldiers"
@@ -11050,7 +11050,7 @@ msgstr "镀金士兵"
 
 # scripts/config/strings.nut
 msgid "Glades of Decay"
-msgstr "腐烂林地"
+msgstr "腐烂林地(Glades of Decay)"
 
 # scripts/config/strings.nut
 msgid "Goblin Ambusher"
@@ -11066,7 +11066,7 @@ msgstr "海啸"
 
 # scripts/config/strings.nut
 msgid "Kraken's Refuge"
-msgstr "海妖的避难所"
+msgstr "海妖的避难所(Kraken's Refuge)"
 
 # scripts/config/strings.nut
 msgid "Lady of the Sea"
@@ -11074,7 +11074,7 @@ msgstr "海之夫人"
 
 # scripts/config/strings.nut
 msgid "Land of the Sun"
-msgstr "太阳之国"
+msgstr "太阳之国(Land of the Sun)"
 
 # scripts/config/strings.nut
 msgid "Militia Captain"
@@ -11086,7 +11086,7 @@ msgstr "民兵老兵"
 
 # scripts/config/strings.nut
 msgid "Murmuring Woods"
-msgstr "喃喃的树林"
+msgstr "喃喃的树林(Murmuring Woods)"
 
 # scripts/config/strings.nut
 msgid "Nomad Cutthroat"
@@ -11098,7 +11098,7 @@ msgstr "奥克班战团(Orcbane Company)"
 
 # scripts/config/strings.nut
 msgid "Pagan Heathland"
-msgstr "异教徒荒地"
+msgstr "异教徒荒地(Pagan Heathland)"
 
 # scripts/config/strings.nut
 msgid "Polearm Mastery"
@@ -11114,11 +11114,11 @@ msgstr "达到优势"
 
 # scripts/config/strings.nut
 msgid "Rustyblade Mesa"
-msgstr "锈刃台地"
+msgstr "锈刃台地(Rustyblade Mesa)"
 
 # scripts/config/strings.nut
 msgid "Scorching Shire"
-msgstr "灼热郡"
+msgstr "灼热郡(Scorching Shire)"
 
 # scripts/config/strings.nut
 msgid "Screaming Skull"
@@ -11126,35 +11126,35 @@ msgstr "尖叫骷髅"
 
 # scripts/config/strings.nut
 msgid "Shipreath Marsh"
-msgstr "希普雷斯沼泽"
+msgstr "希普雷斯沼泽(Shipreath Marsh)"
 
 # scripts/config/strings.nut
 msgid "Silversand Hold"
-msgstr "银沙堡"
+msgstr "银沙堡(Silversand Hold)"
 
 # scripts/config/strings.nut
 msgid "Smallriver Hold"
-msgstr "小河堡"
+msgstr "小河堡(Smallriver Hold)"
 
 # scripts/config/strings.nut
 msgid "Soft Ripple Sea"
-msgstr "软波纹海"
+msgstr "软波纹海(Soft Ripple Sea)"
 
 # scripts/config/strings.nut
 msgid "Southern Steppe"
-msgstr "南部草原"
+msgstr "南部草原(Southern Steppe)"
 
 # scripts/config/strings.nut
 msgid "Southwind Acres"
-msgstr "南风英亩"
+msgstr "南风英亩(Southwind Acres)"
 
 # scripts/config/strings.nut
 msgid "Sparkling Sands"
-msgstr "波光粼粼的沙滩"
+msgstr "波光粼粼的沙滩(Sparkling Sands)"
 
 # scripts/config/strings.nut
 msgid "Springs of Life"
-msgstr "生命之泉"
+msgstr "生命之泉(Springs of Life)"
 
 # scripts/config/strings.nut
 msgid "Standard Bearer"
@@ -11162,27 +11162,27 @@ msgstr "标准持票人"
 
 # scripts/config/strings.nut
 msgid "Suffocating Bog"
-msgstr "令人窒息的沼泽"
+msgstr "令人窒息的沼泽(Suffocating Bog)"
 
 # scripts/config/strings.nut
 msgid "The Borderlands"
-msgstr "无主之地"
+msgstr "无主之地(The Borderlands)"
 
 # scripts/config/strings.nut
 msgid "The Narrow Quag"
-msgstr "狭窄的鹌鹑"
+msgstr "狭窄的鹌鹑(The Narrow Quag)"
 
 # scripts/config/strings.nut
 msgid "The Raging Gulf"
-msgstr "汹涌的海湾"
+msgstr "汹涌的海湾(The Raging Gulf)"
 
 # scripts/config/strings.nut
 msgid "Wanderer's Boon"
-msgstr "流浪者的恩赐"
+msgstr "流浪者的恩赐(Wanderer's Boon)"
 
 # scripts/config/strings.nut
 msgid "Willow's Fields"
-msgstr "柳树的田野"
+msgstr "柳树的田野(Willow's Fields)"
 
 # scripts/config/strings.nut
 msgid "buy a big wagon"
@@ -11222,19 +11222,19 @@ msgstr "伯恩哈德的熊"
 
 # scripts/config/strings.nut
 msgid "Birch Timberland"
-msgstr "桦木天伯伦"
+msgstr "桦木天伯伦(Birch Timberland)"
 
 # scripts/config/strings.nut
 msgid "Black Mole Woods"
-msgstr "黑鼹鼠伍兹"
+msgstr "黑鼹鼠伍兹(Black Mole Woods)"
 
 # scripts/config/strings.nut
 msgid "Blackwood Forest"
-msgstr "黑木森林"
+msgstr "黑木森林(Blackwood Forest)"
 
 # scripts/config/strings.nut
 msgid "Bloodbloom Woods"
-msgstr "血花森林"
+msgstr "血花森林(Bloodbloom Woods)"
 
 # scripts/config/strings.nut
 msgid "Brigand Marksman"
@@ -11254,15 +11254,15 @@ msgstr "鹅卵石路"
 
 # scripts/config/strings.nut
 msgid "Dark Thorn Wilds"
-msgstr "黑暗荆棘荒野"
+msgstr "黑暗荆棘荒野(Dark Thorn Wilds)"
 
 # scripts/config/strings.nut
 msgid "Earthwatch Hills"
-msgstr "地球观察山"
+msgstr "地球观察山(Earthwatch Hills)"
 
 # scripts/config/strings.nut
 msgid "Elderberry Woods"
-msgstr "接骨木林"
+msgstr "接骨木林(Elderberry Woods)"
 
 # scripts/config/strings.nut
 msgid "Fallen Betrayers"
@@ -11270,7 +11270,7 @@ msgstr "堕落的背叛者"
 
 # scripts/config/strings.nut
 msgid "Forbidden Waters"
-msgstr "禁水区"
+msgstr "禁水区(Forbidden Waters)"
 
 # scripts/config/strings.nut
 msgid "Forsaken Brigade"
@@ -11278,19 +11278,19 @@ msgstr "被遗忘者旅"
 
 # scripts/config/strings.nut
 msgid "Glaucious Domain"
-msgstr "碧蓝域"
+msgstr "碧蓝域(Glaucious Domain)"
 
 # scripts/config/strings.nut
 msgid "Glenmore Barrows"
-msgstr "格伦莫尔手推车"
+msgstr "格伦莫尔手推车(Glenmore Barrows)"
 
 # scripts/config/strings.nut
 msgid "Glistening Flats"
-msgstr "闪亮平底鞋"
+msgstr "闪亮平底鞋(Glistening Flats)"
 
 # scripts/config/strings.nut
 msgid "Glittering Sands"
-msgstr "闪闪发光的沙滩"
+msgstr "闪闪发光的沙滩(Glittering Sands)"
 
 # scripts/config/strings.nut
 msgid "Goblin Ambushers"
@@ -11306,19 +11306,19 @@ msgstr "地精狼骑"
 
 # scripts/config/strings.nut
 msgid "Grand Hare Woods"
-msgstr "大野兔森林"
+msgstr "大野兔森林(Grand Hare Woods)"
 
 # scripts/config/strings.nut
 msgid "Greenwood Forest"
-msgstr "格林伍德森林"
+msgstr "格林伍德森林(Greenwood Forest)"
 
 # scripts/config/strings.nut
 msgid "Grimestone Peaks"
-msgstr "磨石峰"
+msgstr "磨石峰(Grimestone Peaks)"
 
 # scripts/config/strings.nut
 msgid "Hedgehog Thicket"
-msgstr "刺猬丛林"
+msgstr "刺猬丛林(Hedgehog Thicket)"
 
 # scripts/config/strings.nut
 msgid "Iron Brotherhood"
@@ -11326,7 +11326,7 @@ msgstr "钢铁兄弟会"
 
 # scripts/config/strings.nut
 msgid "Mammothshoulders"
-msgstr "猛犸象肩"
+msgstr "猛犸象肩(Mammothshoulders)"
 
 # scripts/config/strings.nut
 msgid "Militia Captains"
@@ -11346,15 +11346,15 @@ msgstr "民兵退伍军人"
 
 # scripts/config/strings.nut
 msgid "Mossy Pine Woods"
-msgstr "苔藓松树林"
+msgstr "苔藓松树林(Mossy Pine Woods)"
 
 # scripts/config/strings.nut
 msgid "Murky Swamplands"
-msgstr "阴暗沼泽地"
+msgstr "阴暗沼泽地(Murky Swamplands)"
 
 # scripts/config/strings.nut
 msgid "Murky Tide Ocean"
-msgstr "暗潮海"
+msgstr "暗潮海(Murky Tide Ocean)"
 
 # scripts/config/strings.nut
 msgid "Nomad Cutthroats"
@@ -11366,11 +11366,11 @@ msgstr "北方公司"
 
 # scripts/config/strings.nut
 msgid "Northern Reaches"
-msgstr "北部地区"
+msgstr "北部地区(Northern Reaches)"
 
 # scripts/config/strings.nut
 msgid "Oak Wood Meadows"
-msgstr "橡木草地"
+msgstr "橡木草地(Oak Wood Meadows)"
 
 # scripts/config/strings.nut
 msgid "Rally the Troops"
@@ -11378,15 +11378,15 @@ msgstr "集结部队"
 
 # scripts/config/strings.nut
 msgid "Riverland Glades"
-msgstr "里弗兰格莱兹"
+msgstr "里弗兰格莱兹(Riverland Glades)"
 
 # scripts/config/strings.nut
 msgid "Rustling Thicket"
-msgstr "沙沙的丛林"
+msgstr "沙沙的丛林(Rustling Thicket)"
 
 # scripts/config/strings.nut
 msgid "Scorching Desert"
-msgstr "灼热的沙漠"
+msgstr "灼热的沙漠(Scorching Desert)"
 
 # scripts/config/strings.nut
 msgid "Screaming Skulls"
@@ -11394,19 +11394,19 @@ msgstr "尖叫的骷髅"
 
 # scripts/config/strings.nut
 msgid "Skullslide Hills"
-msgstr "骷髅山"
+msgstr "骷髅山(Skullslide Hills)"
 
 # scripts/config/strings.nut
 msgid "Smoldering Woods"
-msgstr "阴燃森林"
+msgstr "阴燃森林(Smoldering Woods)"
 
 # scripts/config/strings.nut
 msgid "Southland Bowels"
-msgstr "南国肠"
+msgstr "南国肠(Southland Bowels)"
 
 # scripts/config/strings.nut
 msgid "Speedwell Fields"
-msgstr "斯皮德韦尔领域"
+msgstr "斯皮德韦尔领域(Speedwell Fields)"
 
 # scripts/config/strings.nut
 msgid "Standard Bearers"
@@ -11414,23 +11414,23 @@ msgstr "标准承载者"
 
 # scripts/config/strings.nut
 msgid "The Bronze Hills"
-msgstr "青铜山"
+msgstr "青铜山(The Bronze Hills)"
 
 # scripts/config/strings.nut
 msgid "The Gloomy Hills"
-msgstr "阴暗的山丘"
+msgstr "阴暗的山丘(The Gloomy Hills)"
 
 # scripts/config/strings.nut
 msgid "The Great Desert"
-msgstr "大沙漠"
+msgstr "大沙漠(The Great Desert)"
 
 # scripts/config/strings.nut
 msgid "The Pale Expanse"
-msgstr "苍白的广阔"
+msgstr "苍白的广阔(The Pale Expanse)"
 
 # scripts/config/strings.nut
 msgid "The Sea of Trees"
-msgstr "树海"
+msgstr "树海(The Sea of Trees)"
 
 # scripts/config/strings.nut
 msgid "Throwing Mastery"
@@ -11438,23 +11438,23 @@ msgstr "投掷精通"
 
 # scripts/config/strings.nut
 msgid "Vermillion Woods"
-msgstr "朱红树林"
+msgstr "朱红树林(Vermillion Woods)"
 
 # scripts/config/strings.nut
 msgid "Wall of the Gods"
-msgstr "墙 诸神"
+msgstr "墙 诸神(Wall of the Gods)"
 
 # scripts/config/strings.nut
 msgid "Waterwood Forest"
-msgstr "水木森林"
+msgstr "水木森林(Waterwood Forest)"
 
 # scripts/config/strings.nut
 msgid "Whispering Hills"
-msgstr "耳语山"
+msgstr "耳语山(Whispering Hills)"
 
 # scripts/config/strings.nut
 msgid "Whispering Sands"
-msgstr "细语沙"
+msgstr "细语沙(Whispering Sands)"
 
 # scripts/config/strings.nut
 msgid "Whistling Arrows"
@@ -11462,15 +11462,15 @@ msgstr "呼啸的箭矢"
 
 # scripts/config/strings.nut
 msgid "White Horses Sea"
-msgstr "白马海"
+msgstr "白马海(White Horses Sea)"
 
 # scripts/config/strings.nut
 msgid "White Wilderness"
-msgstr "白色荒野"
+msgstr "白色荒野(White Wilderness)"
 
 # scripts/config/strings.nut
 msgid "Witchmount Hills"
-msgstr "女巫山"
+msgstr "女巫山(Witchmount Hills)"
 
 # scripts/config/strings.nut
 msgid "in the mountains"
@@ -11506,11 +11506,11 @@ msgstr "致命打击"
 
 # scripts/config/strings.nut
 msgid "Desert of Mirrors"
-msgstr "镜之沙漠"
+msgstr "镜之沙漠(Desert of Mirrors)"
 
 # scripts/config/strings.nut
 msgid "Fleetfeet's Range"
-msgstr "舰队的范围"
+msgstr "舰队的范围(Fleetfeet's Range)"
 
 # scripts/config/strings.nut
 msgid "Forsaken Returned"
@@ -11518,11 +11518,11 @@ msgstr "被遗忘者归来"
 
 # scripts/config/strings.nut
 msgid "Froglickers Grove"
-msgstr "“青蛙舔舔林”。"
+msgstr "“青蛙舔舔林”。(Froglickers Grove)"
 
 # scripts/config/strings.nut
 msgid "Fruitful Shallows"
-msgstr "硕果累累的浅滩"
+msgstr "硕果累累的浅滩(Fruitful Shallows)"
 
 # scripts/config/strings.nut
 msgid "Goblin Skirmisher"
@@ -11534,19 +11534,19 @@ msgstr "地精狼骑兵"
 
 # scripts/config/strings.nut
 msgid "Heartsong's Range"
-msgstr "心歌的范围"
+msgstr "心歌的范围(Heartsong's Range)"
 
 # scripts/config/strings.nut
 msgid "Mire of the Whisp"
-msgstr "耳语的泥潭"
+msgstr "耳语的泥潭(Mire of the Whisp)"
 
 # scripts/config/strings.nut
 msgid "Neverending Sands"
-msgstr "永无止境的金沙"
+msgstr "永无止境的金沙(Neverending Sands)"
 
 # scripts/config/strings.nut
 msgid "Nevermelting Hold"
-msgstr "永不融化的保持"
+msgstr "永不融化的保持(Nevermelting Hold)"
 
 # scripts/config/strings.nut
 msgid "Nomad Executioner"
@@ -11570,31 +11570,31 @@ msgstr "天崩地裂的罢工"
 
 # scripts/config/strings.nut
 msgid "Swellpike Heights"
-msgstr "斯威派克高地"
+msgstr "斯威派克高地(Swellpike Heights)"
 
 # scripts/config/strings.nut
 msgid "The Glazed Valley"
-msgstr "琉璃谷"
+msgstr "琉璃谷(The Glazed Valley)"
 
 # scripts/config/strings.nut
 msgid "The Powder Plains"
-msgstr "粉末平原"
+msgstr "粉末平原(The Powder Plains)"
 
 # scripts/config/strings.nut
 msgid "The Scarlet Hills"
-msgstr "猩红山丘"
+msgstr "猩红山丘(The Scarlet Hills)"
 
 # scripts/config/strings.nut
 msgid "Whispering Groves"
-msgstr "耳语林"
+msgstr "耳语林(Whispering Groves)"
 
 # scripts/config/strings.nut
 msgid "White Goat Mounds"
-msgstr "白山羊丘"
+msgstr "白山羊丘(White Goat Mounds)"
 
 # scripts/config/strings.nut
 msgid "White Wolf's Home"
-msgstr "白狼之家"
+msgstr "白狼之家(White Wolf's Home)"
 
 # scripts/config/strings.nut
 msgid "in the wastelands"
@@ -11606,31 +11606,31 @@ msgstr "野蛮人鼓手"
 
 # scripts/config/strings.nut
 msgid "Black Fumes Polder"
-msgstr "黑烟圩田"
+msgstr "黑烟圩田(Black Fumes Polder)"
 
 # scripts/config/strings.nut
 msgid "Bleached Bone Dale"
-msgstr "漂白的骨头谷"
+msgstr "漂白的骨头谷(Bleached Bone Dale)"
 
 # scripts/config/strings.nut
 msgid "Buried Snake Hills"
-msgstr "埋蛇山"
+msgstr "埋蛇山(Buried Snake Hills)"
 
 # scripts/config/strings.nut
 msgid "Crowned Oak Forest"
-msgstr "加冕橡树林"
+msgstr "加冕橡树林(Crowned Oak Forest)"
 
 # scripts/config/strings.nut
 msgid "Evermist Mountains"
-msgstr "永雾山脉"
+msgstr "永雾山脉(Evermist Mountains)"
 
 # scripts/config/strings.nut
 msgid "Fast Clouds County"
-msgstr "快云县"
+msgstr "快云县(Fast Clouds County)"
 
 # scripts/config/strings.nut
 msgid "Fox and Hare Woods"
-msgstr "狐狸和野兔森林"
+msgstr "狐狸和野兔森林(Fox and Hare Woods)"
 
 # scripts/config/strings.nut
 msgid "Goblin Skirmishers"
@@ -11654,11 +11654,11 @@ msgstr "国王大道公司"
 
 # scripts/config/strings.nut
 msgid "Knight's Axe Hills"
-msgstr "骑士斧山"
+msgstr "骑士斧山(Knight's Axe Hills)"
 
 # scripts/config/strings.nut
 msgid "Nightingale Valley"
-msgstr "夜莺谷"
+msgstr "夜莺谷(Nightingale Valley)"
 
 # scripts/config/strings.nut
 msgid "Nomad Executioners"
@@ -11666,19 +11666,19 @@ msgstr "游牧刽子手"
 
 # scripts/config/strings.nut
 msgid "Northern Clanlands"
-msgstr "北方氏族"
+msgstr "北方氏族(Northern Clanlands)"
 
 # scripts/config/strings.nut
 msgid "Pearl of the South"
-msgstr "南方明珠"
+msgstr "南方明珠(Pearl of the South)"
 
 # scripts/config/strings.nut
 msgid "Scoundrels' Forest"
-msgstr "恶棍的森林"
+msgstr "恶棍的森林(Scoundrels' Forest)"
 
 # scripts/config/strings.nut
 msgid "Shimmering Expanse"
-msgstr "波光粼粼的广阔"
+msgstr "波光粼粼的广阔(Shimmering Expanse)"
 
 # scripts/config/strings.nut
 msgid "Silverreach Spears"
@@ -11686,39 +11686,39 @@ msgstr "银色长矛"
 
 # scripts/config/strings.nut
 msgid "Skullsbreath Mound"
-msgstr "颅息冢"
+msgstr "颅息冢(Skullsbreath Mound)"
 
 # scripts/config/strings.nut
 msgid "Spine of the World"
-msgstr "世界之脊"
+msgstr "世界之脊(Spine of the World)"
 
 # scripts/config/strings.nut
 msgid "The Ashen Pinnacle"
-msgstr "灰烬之巅"
+msgstr "灰烬之巅(The Ashen Pinnacle)"
 
 # scripts/config/strings.nut
 msgid "The Dreary Barrens"
-msgstr "凄凉的贫瘠之地"
+msgstr "凄凉的贫瘠之地(The Dreary Barrens)"
 
 # scripts/config/strings.nut
 msgid "The Ghostly Plains"
-msgstr "幽灵平原"
+msgstr "幽灵平原(The Ghostly Plains)"
 
 # scripts/config/strings.nut
 msgid "The Howling Desert"
-msgstr "嚎叫的沙漠"
+msgstr "嚎叫的沙漠(The Howling Desert)"
 
 # scripts/config/strings.nut
 msgid "Thousand Gulls Sea"
-msgstr "千鸥海"
+msgstr "千鸥海(Thousand Gulls Sea)"
 
 # scripts/config/strings.nut
 msgid "Valley of the Deer"
-msgstr "鹿谷"
+msgstr "鹿谷(Valley of the Deer)"
 
 # scripts/config/strings.nut
 msgid "Yellowleaf's Range"
-msgstr "黄叶的范围"
+msgstr "黄叶的范围(Yellowleaf's Range)"
 
 # scripts/config/strings.nut
 msgid "Ancient Auxiliaries"
@@ -11734,11 +11734,11 @@ msgstr "古代军团"
 
 # scripts/config/strings.nut
 msgid "Arching Tides Ocean"
-msgstr "拱潮海洋"
+msgstr "拱潮海洋(Arching Tides Ocean)"
 
 # scripts/config/strings.nut
 msgid "Brimstone Shoulders"
-msgstr "硫磺护肩"
+msgstr "硫磺护肩(Brimstone Shoulders)"
 
 # scripts/config/strings.nut
 msgid "Burning Sun Company"
@@ -11746,7 +11746,7 @@ msgstr "燃烧的太阳公司"
 
 # scripts/config/strings.nut
 msgid "Chillwind Flatlands"
-msgstr "寒风平原"
+msgstr "寒风平原(Chillwind Flatlands)"
 
 # scripts/config/strings.nut
 msgid "Cold Hearts Company"
@@ -11762,15 +11762,15 @@ msgstr "法尔肯伯格的军团"
 
 # scripts/config/strings.nut
 msgid "Frostfinger's Realm"
-msgstr "霜指的领域"
+msgstr "霜指的领域(Frostfinger's Realm)"
 
 # scripts/config/strings.nut
 msgid "Grand View Pastures"
-msgstr "大观牧场"
+msgstr "大观牧场(Grand View Pastures)"
 
 # scripts/config/strings.nut
 msgid "Gray Toad Woodlands"
-msgstr "灰蟾蜍林地"
+msgstr "灰蟾蜍林地(Gray Toad Woodlands)"
 
 # scripts/config/strings.nut
 msgid "Greenskin Catapults"
@@ -11778,7 +11778,7 @@ msgstr "绿皮弹射器"
 
 # scripts/config/strings.nut
 msgid "Prophet's Salvation"
-msgstr "先知的救赎"
+msgstr "先知的救赎(Prophet's Salvation)"
 
 # scripts/config/strings.nut
 msgid "Radobrecht's Swords"
@@ -11794,7 +11794,7 @@ msgstr "南方之剑"
 
 # scripts/config/strings.nut
 msgid "The Burning Barrens"
-msgstr "燃烧的贫瘠之地"
+msgstr "燃烧的贫瘠之地(The Burning Barrens)"
 
 # scripts/config/strings.nut
 msgid "Ancient Honor Guards"
@@ -11806,7 +11806,7 @@ msgstr "装甲威德冈格"
 
 # scripts/config/strings.nut
 msgid "Brittle Branch Woods"
-msgstr "脆枝伍兹"
+msgstr "脆枝伍兹(Brittle Branch Woods)"
 
 # scripts/config/strings.nut
 msgid "Click to focus party"
@@ -11818,11 +11818,11 @@ msgstr "失落的宝藏猎人"
 
 # scripts/config/strings.nut
 msgid "Poisonbreath Marshes"
-msgstr "毒息沼泽"
+msgstr "毒息沼泽(Poisonbreath Marshes)"
 
 # scripts/config/strings.nut
 msgid "Sea of Turning Tides"
-msgstr "转潮之海"
+msgstr "转潮之海(Sea of Turning Tides)"
 
 # scripts/config/strings.nut
 msgid "Shields of the Night"
@@ -11830,31 +11830,31 @@ msgstr "夜之盾"
 
 # scripts/config/strings.nut
 msgid "Sleeping Giants Back"
-msgstr "沉睡的巨人回来了"
+msgstr "沉睡的巨人回来了(Sleeping Giants Back)"
 
 # scripts/config/strings.nut
 msgid "Snapping Twig Forest"
-msgstr "折枝森林"
+msgstr "折枝森林(Snapping Twig Forest)"
 
 # scripts/config/strings.nut
 msgid "The Collapsing Hills"
-msgstr "崩塌的山丘"
+msgstr "崩塌的山丘(The Collapsing Hills)"
 
 # scripts/config/strings.nut
 msgid "The Shadow Mountains"
-msgstr "影子山脉"
+msgstr "影子山脉(The Shadow Mountains)"
 
 # scripts/config/strings.nut
 msgid "The Thundering Peaks"
-msgstr "雷鸣山峰"
+msgstr "雷鸣山峰(The Thundering Peaks)"
 
 # scripts/config/strings.nut
 msgid "Thousand Mirrors Bog"
-msgstr "千镜沼泽"
+msgstr "千镜沼泽(Thousand Mirrors Bog)"
 
 # scripts/config/strings.nut
 msgid "Treewalker Woodlands"
-msgstr "树行者林地"
+msgstr "树行者林地(Treewalker Woodlands)"
 
 # scripts/config/strings.nut
 msgid "Walther's Fellowship"
@@ -11862,11 +11862,11 @@ msgstr "瓦尔特的奖学金"
 
 # scripts/config/strings.nut
 msgid "Whispering Waves Sea"
-msgstr "波涛汹涌的大海"
+msgstr "波涛汹涌的大海(Whispering Waves Sea)"
 
 # scripts/config/strings.nut
 msgid "Willowshire Hillside"
-msgstr "柳郡山坡"
+msgstr "柳郡山坡(Willowshire Hillside)"
 
 # scripts/config/strings.nut
 msgid "Armored Wiedergangers"
@@ -11890,7 +11890,7 @@ msgstr "失落的宝藏猎人"
 
 # scripts/config/strings.nut
 msgid "The Shimmering Depths"
-msgstr "波光粼粼的深渊"
+msgstr "波光粼粼的深渊(The Shimmering Depths)"
 
 # scripts/config/strings.nut
 msgid "]-1[/color] per tile."
@@ -11902,11 +11902,11 @@ msgstr "野蛮人兽王"
 
 # scripts/config/strings.nut
 msgid "Forefathers' Highlands"
-msgstr "祖先高地"
+msgstr "祖先高地(Forefathers' Highlands)"
 
 # scripts/config/strings.nut
 msgid "The Glistening Heights"
-msgstr "闪闪发光的高地"
+msgstr "闪闪发光的高地(The Glistening Heights)"
 
 # scripts/config/strings.nut
 msgid "Wolves of Bleak Forest"
