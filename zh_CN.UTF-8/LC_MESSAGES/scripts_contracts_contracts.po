@@ -892,7 +892,7 @@ msgstr "[img]gfx/ui/events/event_155.png[/img]{等待轮到你的时候，人群
 # scripts/contracts/contracts/arena_contract.nut
 # scripts/contracts/contracts/marauding_greenskins_contract.nut
 msgid "Get "
-msgstr "给我"
+msgstr "给"
 
 # scripts/contracts/contracts/break_greenskin_siege_contract.nut
 # scripts/contracts/contracts/barbarian_king_contract.nut
@@ -1464,7 +1464,7 @@ msgstr "竞技场"
 
 # scripts/contracts/contracts/arena_contract.nut
 msgid " crowns for your victory"
-msgstr "你的胜利获得了 10 克朗。"
+msgstr "克朗当你胜利时。"
 
 # scripts/contracts/contracts/arena_contract.nut
 msgid "Win a piece of gladiator gear"
