@@ -5,7 +5,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-23 13:43+0000\n"
 "PO-Revision-Date: 2023-04-08 05:50+0000\n"
-"Last-Translator: 435495971 <435495971@qq.com>\n"
+"Last-Translator: shabbywu <shabbywu@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/"
 "projects/Battle-Brothers-CN/scripts_ambitions_ambitions/zh_Hans/>\n"
 "Language: zh_CN\n"
@@ -134,7 +134,8 @@ msgstr "有良好的关系会使你得到更好的价格和更多的人雇用。
 msgid ""
 "We need allies. Forging a bond of friendship and trust with one of the towns will\n"
 "get the company better prices, more volunteers and more steady work."
-msgstr "我们需要盟友。与其中一个城镇建立友谊和信任的纽带将使战队获得更好的价格，更多的志愿者和更稳定的工作。"
+msgstr "我们需要盟友。与其中一个城镇建立友谊和信任的纽带将使战团获得更好的价格，更多"
+"的志愿者和更稳定的工作。"
 
 # scripts/ambitions/ambitions/allied_civilians_ambition.nut
 msgid "Increase the relation with a civilian faction of one of the world's villages or towns to 'Friendly' by fulfilling contracts given in the faction's settlement. Failing contracts or betraying their trust will lower your relations. Increasing relations with city states takes longer than increasing relations with small villages. Noble houses do not count as civilian factions."
