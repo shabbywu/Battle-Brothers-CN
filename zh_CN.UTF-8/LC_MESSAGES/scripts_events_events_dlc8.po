@@ -1,6 +1,20 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-08 09:56+0000\n"
+"PO-Revision-Date: 2023-04-08 09:56+0000\n"
+"Last-Translator: shabbywu <shabbywu@qq.com>\n"
+"Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/"
+"projects/Battle-Brothers-CN/scripts_events_events_dlc8/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.15.2\n"
+
+#
 
 # scripts/events/events/dlc8/anatomist_wants_skull_event.nut
 # scripts/events/events/dlc8/gladiator_origin_vs_anatomist_event.nut
@@ -2261,7 +2275,19 @@ msgstr "[img]gfx/ui/events/event_51.png[/img]{当男人们玩弄着影子时，�
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
 msgid "[img]gfx/ui/events/event_26.png[/img]{%minstrel% the minstrel stands up, his head cocked to a side, his walk a shuffling amble, his eyes affixed to his own shadow upon the priory wall, every step he takes drawing it smaller and smaller yet. He stares at the shadow as though it were a body, and his closing in on it was akin to that of solving who murdered it. Suddenly, he bolts upright, hands to his hips.%SPEECH_ON%By the gods, men, I've got it figured out! My shadow is an absolute womanizer! A scapegrace smellsmock. He's got a big hammer in his pants, and every woman's a nail! A philanderer, he is! And a drunk, a pitiful sot. And...and a thief! Filching crowns from the filthy, this he cannot resist. And a little prankster, a little rat filled with devilments. Just the other day, my shadow took a shit in %othersellsword%'s boot! I couldn't believe it!%SPEECH_OFF%%othersellsword% jumps to his feet, knocking over the fire and spewing embers that seem to twirl and twist on the laughter of the men. He comes forward.%SPEECH_ON%I knew that wasn't no farkin' dogshite you bastard! What sorta man shits in another man's boots!%SPEECH_OFF%The sellsword slips and falls which arises applause from the company, and the minstrel delicately prances away, his shadow bidding goodbye with a kiss and wave.}"
-msgstr "[img]gfx/ui/events/event_26.png[/img]{[brackets]%minstrel%[/brackets]旅行诗人站起身来，头歪向一侧，脚步蹒跚，眼睛盯着自己在修道院墙上的影子，每走一步就是一步，影子也越来越小。他像看待一个身体一样凝视着那个影子，然后向它靠近，就像必须解决的命案一样。突然，他站直了起来，双手叉腰。%SPEECH_ON%老天保佑，伙计们，我已经看透了！我的影子绝对是个花心大萝卜！一个臭味相投的家伙。他裤裆里有一把大锤子，每个女人都像个钉子！他是个风流浪子！还是个酒鬼，可怜的穷鬼。还有...还有一个小偷！这个贼再怎么脏也掩饰不了它的明艳。还是一个小恶魔，一个充满突发事件的小老鼠。就在前几天，我的影子在%othersellsword%的靴子里屙了一坨便便！我简直不敢相信！%SPEECH_OFF%%othersellsword%跳了起来，撞倒了营火，火星散落而出，仿佛在欢笑中旋转扭曲。他走了过来。%SPEECH_ON%我就知道那不是狗屎你这个混蛋！什么样的男人在另一个男人的靴子里拉屎！%SPEECH_OFF%佣兵滑倒了一跤，这引起了战团的掌声，旅行诗人轻盈地舞蹈着，他的影子与一个吻和挥手告别。}"
+msgstr ""
+"[img]gfx/ui/events/event_26.png[/img]{%minstrel% 旅行诗人站起身来，头歪向一侧"
+"，脚步蹒跚，眼睛盯着自己在修道院墙上的影子，每走一步就是一步，影子也越来越小"
+"。他像看待一个身体一样凝视着那个影子，然后向它靠近，就像必须解决的命案一样。"
+"突然，他站直了起来，双手叉腰。%SPEECH_ON%老天保佑，伙计们，我已经看透了！我的"
+"影子绝对是个花心大萝卜！一个臭味相投的家伙。他裤裆里有一把大锤子，每个女人都"
+"像个钉子！他是个风流浪子！还是个酒鬼，可怜的穷鬼。还有...还有一个小偷！这个贼"
+"再怎么脏也掩饰不了它的明艳。还是一个小恶魔，一个充满突发事件的小老鼠。就在前"
+"几天，我的影子在%othersellsword%的靴子里屙了一坨便便！我简直不敢相信！%SPEECH"
+"_OFF%%othersellsword%跳了起来，撞倒了营火，火星散落而出，仿佛在欢笑中旋转扭曲"
+"。他走了过来。%SPEECH_ON%我就知道那不是狗屎你这个混蛋！什么样的男人在另一个男"
+"人的靴子里拉屎！%SPEECH_OFF%佣兵滑倒了一跤，这引起了战团的掌声，旅行诗人轻盈"
+"地舞蹈着，他的影子与一个吻和挥手告别。}"
 
 # scripts/events/events/dlc8/shadow_dissection_event.nut
 msgid "[img]gfx/ui/events/event_184.png[/img]{%anatomist% the anatomist looks up from the campfire, his face squirming with shadows as the flames rise and fall.%SPEECH_ON%Our shadows are but cuts upon the world which wound and mend all in one stride of black, dissecting the earth with our presence and self-same shaded presence in such a transient manner that it can't but be a preview of our stay here. But does the shadow think of dissecting you? Does it wish to free others which are like itself? Surely it is not alone. Surely our insides have shades. Do they cast tricks of themselves against our inner walls? What of when we sleep, are these things set against us from within or do they escape out into the world and wander? Are they the guards against our own minds, departing us in the night and leaving us to the horrors of dreamscapes which are surely present when we are awake? What distills the truth of the morning light better, than our shadow cast along the ground, and the fleeting memories of that which it has returned to ward away?%SPEECH_OFF%One of the sellswords stares at him.%SPEECH_ON%What?%SPEECH_OFF%The rest of the sellswords scoff.%SPEECH_ON%Hey man, we just wanna make like dicks and slags and shite. Check this out, I'm %anatomist%'s shadow. Blah blah blah blah!%SPEECH_OFF%The man mimes a mouth opening and closing over and over again as the company laughs.}"
