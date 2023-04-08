@@ -4,9 +4,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-23 13:43+0000\n"
-"PO-Revision-Date: 2023-03-16 14:18+0000\n"
-"Last-Translator: shabbywu <shabbywu@qq.com>\n"
-"Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/projects/Battle-Brothers-CN/scripts_ambitions_ambitions/zh_Hans/>\n"
+"PO-Revision-Date: 2023-04-08 05:50+0000\n"
+"Last-Translator: 435495971 <435495971@qq.com>\n"
+"Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/"
+"projects/Battle-Brothers-CN/scripts_ambitions_ambitions/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1371,7 +1372,7 @@ msgstr "[img]gfx/ui/events/event_97.png[/img]一个年轻男孩招呼你，问�
 
 # scripts/ambitions/ambitions/trade_ambition.nut
 msgid "That's the bottom line."
-msgstr "那是最重要的。"
+msgstr "这已经是底线了。"
 
 # scripts/ambitions/ambitions/trade_ambition.nut
 msgid "Buy and sell trading goods"
