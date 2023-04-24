@@ -27,8 +27,8 @@ bb-translator 是 Battle Brothers(战场兄弟)中文翻译器, 会自动使用�
 
 主要特性:
 - 使用 physfs 读取文件, 实现了与游戏同样的加载方式和顺序
-- 同时支持翻译 .nut/.cnut, 理论上支持翻译 Mod(只要 Po 中有对应的汉化文本)
-- 可汉化历史版本的游戏脚本(只要 Po 中有对应的汉化文本)
+- 同时支持翻译 .nut/.cnut, 理论上支持翻译 Mod(只要 po 中有对应的汉化文本)
+- 可汉化历史版本的游戏脚本(只要 po 中有对应的汉化文本)
 
 ## 使用说明
 1. 从 [Release](https://github.com/BattleBrothersGameCN/Release/releases) 下载最新版本的 bb-translator
