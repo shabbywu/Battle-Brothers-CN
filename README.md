@@ -21,7 +21,7 @@ Battle Brothers(战场兄弟)中文翻译项目
 3. 翻译不易, 走过路过右上角点个 star 可以吗？谢谢
 
 ---
-⭐️ 汉化工具 - bb-translator
+⭐️ 汉化工具 - bb-translator(测试中)
 ==========================================
 bb-translator 是 Battle Brothers(战场兄弟)中文翻译器, 会自动使用本项目的 po 文件翻译 data 目录下的游戏脚本。
 
