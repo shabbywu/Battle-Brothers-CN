@@ -38,15 +38,15 @@ msgstr "只能拥有[color="
 
 # scripts/skills/special/mood_check.nut
 msgid "]steady[/color] morale or worse"
-msgstr "]steady[/color] 士气或更糟"
+msgstr "]稳定[/color] 士气或更糟"
 
 # scripts/skills/special/mood_check.nut
 msgid "]breaking[/color] morale or worse"
-msgstr "]breaking[/color] 士气或更糟"
+msgstr "]低落[/color] 士气或更糟"
 
 # scripts/skills/special/mood_check.nut
 msgid "]wavering[/color] morale or worse"
-msgstr "]wavering[/color] 士气或更糟"
+msgstr "]动摇[/color] 士气或更糟"
 
 # scripts/skills/special/mood_check.nut
 msgid "]25%[/color] chance to start battle at confident morale"
