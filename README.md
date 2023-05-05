@@ -22,6 +22,7 @@ Battle Brothers(战场兄弟)中文翻译项目
   - [x] [modding script hooks](https://www.nexusmods.com/battlebrothers/mods/42)
   - [x] [招募显星(Smart Recruiter)](https://www.nexusmods.com/battlebrothers/mods/172)
   - ...
+- [ ] 优化大地图的中文名称替换回英文的策略
 
 使用说明
 ==========================================
