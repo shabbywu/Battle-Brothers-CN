@@ -18,10 +18,10 @@ Battle Brothers(战场兄弟)中文翻译项目
 ==========================================
 - [x] 全文本基本翻译
 - [x] 开发配套的汉化工具(bb-translator) 
-- [ ] 常用 Mod 适配
-  - [ ] 显星(已知不兼容)
+- [x] 常用 Mod 适配(适配 Mod 需要使用 bb-translator 实时生成汉化)
+  - [x] [modding script hooks](https://www.nexusmods.com/battlebrothers/mods/42)
+  - [x] [招募显星(Smart Recruiter)](https://www.nexusmods.com/battlebrothers/mods/172)
   - ...
-
 
 使用说明
 ==========================================
