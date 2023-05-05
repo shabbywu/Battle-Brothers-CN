@@ -1,6 +1,20 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-05 16:12+0000\n"
+"PO-Revision-Date: 2023-05-05 16:12+0000\n"
+"Last-Translator: Rayforward <939839415@qq.com>\n"
+"Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/"
+"projects/Battle-Brothers-CN/scripts_items_armor/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.15.2\n"
+
+#
 
 # scripts/items/armor/werewolf_mail_armor.nut
 # scripts/items/armor/werewolf_hide_armor.nut
@@ -57,7 +71,7 @@ msgstr "最大疲劳[color="
 
 # scripts/items/armor/armor.nut
 msgid "[/b] damage and has been destroyed!"
-msgstr "[/b] 损坏并被摧毁了！"
+msgstr "造成[/b] 损坏并被摧毁了！"
 
 # scripts/items/armor/basic_mail_shirt.nut
 msgid "Basic Mail Shirt"
