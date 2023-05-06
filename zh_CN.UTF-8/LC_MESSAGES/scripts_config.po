@@ -1,6 +1,20 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-06 14:15+0000\n"
+"PO-Revision-Date: 2023-05-06 14:15+0000\n"
+"Last-Translator: Rayforward <939839415@qq.com>\n"
+"Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/"
+"projects/Battle-Brothers-CN/scripts_config/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.15.2\n"
+
+#
 
 # scripts/config/strings.nut
 # scripts/config/item_names.nut
@@ -10118,7 +10132,7 @@ msgstr "大篷车"
 
 # scripts/config/strings.nut
 msgid "Caravan Hand"
-msgstr "商队之手"
+msgstr "商队护卫"
 
 # scripts/config/strings.nut
 msgid "Clan's Claim"
@@ -10442,7 +10456,7 @@ msgstr "商队卫队"
 
 # scripts/config/strings.nut
 msgid "Caravan Hands"
-msgstr "商队之手"
+msgstr "商队护卫们"
 
 # scripts/config/strings.nut
 msgid "City State of"
