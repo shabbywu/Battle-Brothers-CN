@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-05 16:12+0000\n"
-"PO-Revision-Date: 2023-05-05 16:12+0000\n"
+"PO-Revision-Date: 2023-05-06 14:15+0000\n"
 "Last-Translator: Rayforward <939839415@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/"
 "projects/Battle-Brothers-CN/scripts_skills_backgrounds/zh_Hans/>\n"
@@ -15,7 +15,6 @@ msgstr ""
 "X-Generator: Weblate 4.15.2\n"
 
 #
-
 # scripts/skills/backgrounds/beast_hunter_background.nut
 # scripts/skills/backgrounds/hunter_background.nut
 # scripts/skills/backgrounds/manhunter_background.nut
@@ -680,7 +679,7 @@ msgstr "{在他父亲去世后，%name% 接管了家族肉店在 %randomtown%。
 
 # scripts/skills/backgrounds/caravan_hand_background.nut
 msgid "Caravan Hand"
-msgstr "商队之手"
+msgstr "商队护卫"
 
 # scripts/skills/backgrounds/caravan_hand_background.nut
 msgid "Caravan hands are used to long and exhausting travels."
@@ -2247,7 +2246,7 @@ msgstr "剑圣"
 
 # scripts/skills/backgrounds/swordmaster_background.nut
 msgid "the Old Guard"
-msgstr "老卫士团(the Old Guard)"
+msgstr "老卫士(the Old Guard)"
 
 # scripts/skills/backgrounds/swordmaster_background.nut
 msgid "A swordmaster excels in melee combat like no other, but may be vulnerable at range. Age may have taken a toll on his physical attributes and may continue to do so."
@@ -2287,7 +2286,7 @@ msgstr "异教徒(the Peculiar)"
 
 # scripts/skills/backgrounds/tailor_background.nut
 msgid "the Particular"
-msgstr "具体的(The Particular)"
+msgstr "独特者(The Particular)"
 
 # scripts/skills/backgrounds/tailor_background.nut
 msgid "Tailors are not used to hard physical labor."
