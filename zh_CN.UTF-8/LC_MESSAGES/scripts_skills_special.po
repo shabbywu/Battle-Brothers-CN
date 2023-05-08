@@ -1,6 +1,20 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-08 11:15+0000\n"
+"PO-Revision-Date: 2023-05-08 11:15+0000\n"
+"Last-Translator: Rayforward <939839415@qq.com>\n"
+"Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/"
+"projects/Battle-Brothers-CN/scripts_skills_special/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.15.2\n"
+
+#
 
 # scripts/skills/special/morale_check.nut
 # scripts/skills/special/night_effect.nut
@@ -38,15 +52,15 @@ msgstr "只能拥有[color="
 
 # scripts/skills/special/mood_check.nut
 msgid "]steady[/color] morale or worse"
-msgstr "]steady[/color] 士气或更糟"
+msgstr "]稳定[/color] 士气或更糟"
 
 # scripts/skills/special/mood_check.nut
 msgid "]breaking[/color] morale or worse"
-msgstr "]breaking[/color] 士气或更糟"
+msgstr "]低落[/color] 士气或更糟"
 
 # scripts/skills/special/mood_check.nut
 msgid "]wavering[/color] morale or worse"
-msgstr "]wavering[/color] 士气或更糟"
+msgstr "]动摇[/color] 士气或更糟"
 
 # scripts/skills/special/mood_check.nut
 msgid "]25%[/color] chance to start battle at confident morale"
