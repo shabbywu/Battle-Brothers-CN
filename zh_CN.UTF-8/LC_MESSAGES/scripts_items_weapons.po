@@ -1,6 +1,20 @@
-#
 msgid ""
 msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-08 11:09+0000\n"
+"PO-Revision-Date: 2023-05-08 11:09+0000\n"
+"Last-Translator: Rayforward <939839415@qq.com>\n"
+"Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/"
+"projects/Battle-Brothers-CN/scripts_items_weapons/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.15.2\n"
+
+#
 
 # scripts/items/weapons/fencing_sword.nut
 # scripts/items/weapons/arming_sword.nut
@@ -486,7 +500,7 @@ msgstr "短弓"
 
 # scripts/items/weapons/short_bow.nut
 msgid "A simple wooden short bow with medium range. Requires some expertise to use effectively."
-msgstr "一种简单的木制短弓，中等距离射程.需要一些专业知识才能有效地使用。"
+msgstr "一种简单的木制短弓，射程中等。需要一些专业知识才能有效使用。"
 
 # scripts/items/weapons/shortsword.nut
 msgid "Shortsword"
