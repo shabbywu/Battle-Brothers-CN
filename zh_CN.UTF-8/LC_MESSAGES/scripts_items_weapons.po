@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-08 11:09+0000\n"
-"PO-Revision-Date: 2023-05-08 11:09+0000\n"
+"PO-Revision-Date: 2023-05-09 11:54+0000\n"
 "Last-Translator: Rayforward <939839415@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/"
 "projects/Battle-Brothers-CN/scripts_items_weapons/zh_Hans/>\n"
@@ -15,7 +15,6 @@ msgstr ""
 "X-Generator: Weblate 4.15.2\n"
 
 #
-
 # scripts/items/weapons/fencing_sword.nut
 # scripts/items/weapons/arming_sword.nut
 # scripts/items/weapons/falchion.nut
@@ -404,7 +403,7 @@ msgstr "民兵矛"
 
 # scripts/items/weapons/militia_spear.nut
 msgid "A simple wooden spear with a metal tip."
-msgstr "一根带有金属枪尖的简易木质矛。"
+msgstr "一种带有金属尖的简易木矛。"
 
 # scripts/items/weapons/morning_star.nut
 msgid "Morning Star"
@@ -500,7 +499,7 @@ msgstr "短弓"
 
 # scripts/items/weapons/short_bow.nut
 msgid "A simple wooden short bow with medium range. Requires some expertise to use effectively."
-msgstr "一种简单的木制短弓，射程中等。需要一些专业知识才能有效使用。"
+msgstr "一种简单的木制短弓，中等距离射程.需要一些专业知识才能有效地使用。"
 
 # scripts/items/weapons/shortsword.nut
 msgid "Shortsword"
@@ -740,7 +739,8 @@ msgstr "伐木斧"
 
 # scripts/items/weapons/woodcutters_axe.nut
 msgid "A long, two-handed axe that bears down heavy with every swing. Held with both hands it is used to cut down large trees, but will cut down men just as well."
-msgstr "一个长长的双手斧头，每一次挥动都会异常沉重。一般用它来砍伐大树，但同时也可以砍杀敌人。"
+msgstr "一柄长长的双手斧头，每一次挥动都会异常沉重。一般用它来砍伐大树，但同时也可以"
+"砍杀敌人。"
 
 # scripts/items/weapons/wooden_flail.nut
 msgid "Wooden Flail"
@@ -756,4 +756,4 @@ msgstr "木棍"
 
 # scripts/items/weapons/wooden_stick.nut
 msgid "A simple wooden stick, usually an improvised weapon."
-msgstr "一个简单的木棍，通常充当临时武器。"
+msgstr "一根简单的木棍，通常充当临时武器。"
