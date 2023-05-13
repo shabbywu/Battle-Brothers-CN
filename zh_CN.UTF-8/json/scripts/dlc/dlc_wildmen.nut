@@ -1,0 +1,104 @@
+[
+    {
+        "key": "With the 'Cultists' origin your god will demand sacrifices from you, but also bestow boons upon those loyal to him.",
+        "original": "With the 'Cultists' origin your god will demand sacrifices from you, but also bestow boons upon those loyal to him.",
+        "translation": "选择“异教徒”出身，你的神将要求你献祭，但也会赐予那些忠诚于祂的人好处。",
+        "context": ""
+    },
+    {
+        "key": "Barbarians look forward to meeting their ancestors in the afterlife.",
+        "original": "Barbarians look forward to meeting their ancestors in the afterlife.",
+        "translation": "蛮族人期望在来世与他们的祖先相遇。",
+        "context": ""
+    },
+    {
+        "key": "Scimitars and Shamshirs are more likely to inflict debilitating injuries when hitting a target.",
+        "original": "Scimitars and Shamshirs are more likely to inflict debilitating injuries when hitting a target.",
+        "translation": "匕首和弯刀在打击目标时更容易造成致残伤。",
+        "context": ""
+    },
+    {
+        "key": "With the 'Band of Poachers' origin you'll move faster on the worldmap.",
+        "original": "With the 'Band of Poachers' origin you'll move faster on the worldmap.",
+        "translation": "选择'盗猎团'种族后，队伍在世界地图上移动速度更快。",
+        "context": ""
+    },
+    {
+        "key": "Beastmasters can not crack the whip to direct their beastly warmachines when adjacent to an enemy.",
+        "original": "Beastmasters can not crack the whip to direct their beastly warmachines when adjacent to an enemy.",
+        "translation": "兽王不能在邻近敌人时使用鞭子指挥他们的野兽战争机器。",
+        "context": ""
+    },
+    {
+        "key": "Battle Whips can temporarily disarm opponents, preventing them from using weapon skills.",
+        "original": "Battle Whips can temporarily disarm opponents, preventing them from using weapon skills.",
+        "translation": "战斗鞭能够暂时解除对手的武器，阻止他们使用武器技能。",
+        "context": ""
+    },
+    {
+        "key": "With the 'Lone Wolf' origin you'll have a player character in the world. If you die, the campaign ends.",
+        "original": "With the 'Lone Wolf' origin you'll have a player character in the world. If you die, the campaign ends.",
+        "translation": "如果你选择“孤狼”起源，则你将拥有一个玩家角色。如果你死了，这个游戏就结束了。",
+        "context": ""
+    },
+    {
+        "key": "Battle Whips can inflict bleeding wounds, but perform dismally against armor.",
+        "original": "Battle Whips can inflict bleeding wounds, but perform dismally against armor.",
+        "translation": "战鞭能够造成流血伤口，但对抗护甲效果低下。",
+        "context": ""
+    },
+    {
+        "key": "With the 'Trading Caravan' origin you'll get better prices for both buying and selling.",
+        "original": "With the 'Trading Caravan' origin you'll get better prices for both buying and selling.",
+        "translation": "如果选择了“贸易队商”起源，则你在买入和卖出物品时都能获得更好的价格。",
+        "context": ""
+    },
+    {
+        "key": "Barbarians often overwhelm their opponents at the start of battle, but quickly become fatigued.",
+        "original": "Barbarians often overwhelm their opponents at the start of battle, but quickly become fatigued.",
+        "translation": "蛮族常常在战斗开始时压倒对手，但很快就会疲惫不堪。",
+        "context": ""
+    },
+    {
+        "key": "Try different origins to tailor your campaign to your play style.",
+        "original": "Try different origins to tailor your campaign to your play style.",
+        "translation": "尝试不同的起源来定制你的战役以适应你的游戏风格。",
+        "context": ""
+    },
+    {
+        "key": "Northern warhounds are sturdier than southern wardogs, but not as quick and agile.",
+        "original": "Northern warhounds are sturdier than southern wardogs, but not as quick and agile.",
+        "translation": "北方的战犬比南方的守卫犬更加结实，但不如敏捷。",
+        "context": ""
+    },
+    {
+        "key": "With stones abundant everywhere, Slings will never run out of ammunition.",
+        "original": "With stones abundant everywhere, Slings will never run out of ammunition.",
+        "translation": "有着无数石头，投石器永远不会用光弹药。",
+        "context": ""
+    },
+    {
+        "key": "Slings inflict the 'Daze' status effect on a hit to the head.",
+        "original": "Slings inflict the 'Daze' status effect on a hit to the head.",
+        "translation": "投石索攻击头部可造成“眩晕”状态效果。",
+        "context": ""
+    },
+    {
+        "key": "The north is inhabited by fierce barbarian tribes.",
+        "original": "The north is inhabited by fierce barbarian tribes.",
+        "translation": "北方居住着凶猛的野蛮部落。",
+        "context": ""
+    },
+    {
+        "key": "With the 'Peasant Militia' origin you can take up to 16 men into battle at once.",
+        "original": "With the 'Peasant Militia' origin you can take up to 16 men into battle at once.",
+        "translation": "选择“起义农民”这一背景，则你可以一次带领最多16名士兵参加战斗。",
+        "context": ""
+    },
+    {
+        "key": "The rhythmic tribal beats of drummers reduce the fatigue of all barbarians on the field by a small amount each round.",
+        "original": "The rhythmic tribal beats of drummers reduce the fatigue of all barbarians on the field by a small amount each round.",
+        "translation": "鼓手有规律的部落节拍使得每回合所有野蛮人的疲劳值都少量降低。",
+        "context": ""
+    }
+]

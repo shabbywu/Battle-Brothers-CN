@@ -1,0 +1,32 @@
+[
+    {
+        "key": "Conqueror",
+        "original": "Conqueror",
+        "translation": "征服者",
+        "context": ""
+    },
+    {
+        "key": "Defeated",
+        "original": "Defeated",
+        "translation": "失败了(Defeated)",
+        "context": ""
+    },
+    {
+        "key": "[img]gfx/ui/events/event_45.png[/img]{News on the wind has it that %conqueror% has taken %city% from %defeated%! | Messengers on the road say that %conqueror% is the new ruler of %city%, having taken it from %defeated% after a gruesome battle. | Redraw the maps! Refugees, messengers, and traders on the road are reporting that %city% now belongs to %conqueror%!}",
+        "original": "[img]gfx/ui/events/event_45.png[/img]{News on the wind has it that %conqueror% has taken %city% from %defeated%! | Messengers on the road say that %conqueror% is the new ruler of %city%, having taken it from %defeated% after a gruesome battle. | Redraw the maps! Refugees, messengers, and traders on the road are reporting that %city% now belongs to %conqueror%!}",
+        "translation": "[img]gfx/ui/events/event_45.png[/img]{有消息说 %conqueror% 夺取 %city% 赶走了 %defeated%！ | 路上的信使说 %conqueror% 是 %city% 的新统治者，是在一场可怕的战斗中击败了 %defeated% 得到的。 | 现在地图要重新绘制了！ 难民、信使和商人都在路上谈论一件事情，%city% 现在属于 %conqueror% 了！}",
+        "context": ""
+    },
+    {
+        "key": "The board has changed.",
+        "original": "The board has changed.",
+        "translation": "风水轮流转。",
+        "context": ""
+    },
+    {
+        "key": "Along the road...",
+        "original": "Along the road...",
+        "translation": "在路上…",
+        "context": "this.m.Title = 'Along the road...'"
+    }
+]

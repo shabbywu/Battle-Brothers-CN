@@ -1,0 +1,8 @@
+[
+    {
+        "key": "Beast of Beasts",
+        "original": "Beast of Beasts",
+        "translation": "比斯巨兽",
+        "context": ""
+    }
+]

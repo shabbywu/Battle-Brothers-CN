@@ -1,0 +1,32 @@
+[
+    {
+        "key": " is poisoned",
+        "original": " is poisoned",
+        "translation": " 中毒了",
+        "context": "this.Const.UI.getColorizedEntityName(_targetEntity) + ' is poisoned'"
+    },
+    {
+        "key": "[/color] damage to hitpoints will apply it. Targets affected will lose [color=",
+        "original": "[/color] damage to hitpoints will apply it. Targets affected will lose [color=",
+        "translation": "[/color]损伤将应用它。受影响的目标将失去[color=",
+        "context": "return 'This character is using a weapon coated with concentrated webknecht poison. The next few hits doing at least [color=' + this.Const.UI.Color.NegativeValue + ']' + this.Const.Combat.PoisonEffectMinDamage + '[/color] damage to hitpoints will apply it. Targets affected will lose [color=' + this.Const.UI.Color.NegativeValue + ']10[/color] hitpoints per turn until the effect has faded.';"
+    },
+    {
+        "key": "]10[/color] hitpoints per turn until the effect has faded.",
+        "original": "]10[/color] hitpoints per turn until the effect has faded.",
+        "translation": "]10[/color] 生命值每回合减少，直到效果消失。",
+        "context": "return 'This character is using a weapon coated with concentrated webknecht poison. The next few hits doing at least [color=' + this.Const.UI.Color.NegativeValue + ']' + this.Const.Combat.PoisonEffectMinDamage + '[/color] damage to hitpoints will apply it. Targets affected will lose [color=' + this.Const.UI.Color.NegativeValue + ']10[/color] hitpoints per turn until the effect has faded.';"
+    },
+    {
+        "key": "This character is using a weapon coated with concentrated webknecht poison. The next few hits doing at least [color=",
+        "original": "This character is using a weapon coated with concentrated webknecht poison. The next few hits doing at least [color=",
+        "translation": "这个角色正在使用一把涂有浓缩的网蛛毒液的武器。下几次攻击造成至少[color=",
+        "context": "return 'This character is using a weapon coated with concentrated webknecht poison. The next few hits doing at least [color=' + this.Const.UI.Color.NegativeValue + ']' + this.Const.Combat.PoisonEffectMinDamage + '[/color] damage to hitpoints will apply it. Targets affected will lose [color=' + this.Const.UI.Color.NegativeValue + ']10[/color] hitpoints per turn until the effect has faded.';"
+    },
+    {
+        "key": "Weapon coated with poison",
+        "original": "Weapon coated with poison",
+        "translation": "带毒武器",
+        "context": "this.m.Name = 'Weapon coated with poison'"
+    }
+]

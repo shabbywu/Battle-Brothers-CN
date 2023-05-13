@@ -1,0 +1,26 @@
+[
+    {
+        "key": "Pierced Hand",
+        "original": "Pierced Hand",
+        "translation": "手穿孔",
+        "context": "this.m.Name = 'Pierced Hand'"
+    },
+    {
+        "key": "]-20%[/color] Ranged Skill",
+        "original": "]-20%[/color] Ranged Skill",
+        "translation": "]-20%[/color] 远程技能",
+        "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-20%[/color] Ranged Skill'"
+    },
+    {
+        "key": "Having a hole in the hand may not stop a determined fighter, but it does make handling a weapon more difficult.",
+        "original": "Having a hole in the hand may not stop a determined fighter, but it does make handling a weapon more difficult.",
+        "translation": "手上有一个洞也许不能阻止一个坚定的战士，但它确实使处理武器更加困难。",
+        "context": "this.m.Description = 'Having a hole in the hand may not stop a determined fighter, but it does make handling a weapon more difficult.'"
+    },
+    {
+        "key": "]-20%[/color] Melee Skill",
+        "original": "]-20%[/color] Melee Skill",
+        "translation": "]-20%[/color] 近战技能",
+        "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-20%[/color] Melee Skill'"
+    }
+]
