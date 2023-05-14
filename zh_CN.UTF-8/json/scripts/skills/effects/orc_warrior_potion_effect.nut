@@ -1,26 +1,29 @@
 [
-    {
-        "key": "Further mutations will cause a longer period of sickness",
-        "original": "Further mutations will cause a longer period of sickness",
-        "translation": "下次喝下突变药剂时会导致更长时间的疾病",
-        "context": ""
-    },
-    {
-        "key": "Sensory Redundancy",
-        "original": "Sensory Redundancy",
-        "translation": "感官冗余",
-        "context": "this.m.Name = 'Sensory Redundancy'"
-    },
-    {
-        "key": "]33%[/color] chance to resist the Dazed, Staggered, Stunned, Distracted, and Withered status effects",
-        "original": "]33%[/color] chance to resist the Dazed, Staggered, Stunned, Distracted, and Withered status effects",
-        "translation": "有 ]33%[/color] chance 的几率抵抗茫然、踉跄、眩晕、分神和凋零效果",
-        "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] chance to resist the Dazed, Staggered, Stunned, Distracted, and Withered status effects'"
-    },
-    {
-        "key": "This character's body has mutated to develop a number of redundant synapses, allowing them to maintain a degree of control over sight, hearing, and muscle control even when struck with debilitating blows.",
-        "original": "This character's body has mutated to develop a number of redundant synapses, allowing them to maintain a degree of control over sight, hearing, and muscle control even when struck with debilitating blows.",
-        "translation": "这个角色的身体突变发展出了许多冗余的突触，使其即使受到致命打击也能够维持对视觉、听觉和肌肉控制的一定程度的掌控。",
-        "context": "return \"This character's body has mutated to develop a number of redundant synapses, allowing them to maintain a degree of control over sight, hearing, and muscle control even when struck with debilitating blows.\";"
-    }
+  {
+    "key": "Further mutations will cause a longer period of sickness",
+    "original": "Further mutations will cause a longer period of sickness",
+    "translation": "下次喝下突变药剂时会导致更长时间的疾病",
+    "stage": 1
+  },
+  {
+    "key": "Sensory Redundancy",
+    "original": "Sensory Redundancy",
+    "translation": "感官冗余",
+    "stage": 1,
+    "context": "this.m.Name = 'Sensory Redundancy'"
+  },
+  {
+    "key": "]33%[/color] chance to resist the Dazed, Staggered, Stunned, Distracted, and Withered status effects",
+    "original": "]33%[/color] chance to resist the Dazed, Staggered, Stunned, Distracted, and Withered status effects",
+    "translation": "有 ]33%[/color] chance 的几率抵抗茫然、踉跄、眩晕、分神和凋零效果",
+    "stage": 1,
+    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] chance to resist the Dazed, Staggered, Stunned, Distracted, and Withered status effects'"
+  },
+  {
+    "key": "This character's body has mutated to develop a number of redundant synapses, allowing them to maintain a degree of control over sight, hearing, and muscle control even when struck with debilitating blows.",
+    "original": "This character's body has mutated to develop a number of redundant synapses, allowing them to maintain a degree of control over sight, hearing, and muscle control even when struck with debilitating blows.",
+    "translation": "这个角色的身体突变发展出了许多冗余的突触，使其即使受到致命打击也能够维持对视觉、听觉和肌肉控制的一定程度的掌控。",
+    "stage": 1,
+    "context": "return \"This character's body has mutated to develop a number of redundant synapses, allowing them to maintain a degree of control over sight, hearing, and muscle control even when struck with debilitating blows.\";"
+  }
 ]

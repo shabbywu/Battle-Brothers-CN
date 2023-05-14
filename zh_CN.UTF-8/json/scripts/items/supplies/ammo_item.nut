@@ -1,20 +1,23 @@
 [
-    {
-        "key": "A good [color=",
-        "original": "A good [color=",
-        "translation": "一个好的 [color=",
-        "context": "'A good [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Amount + \"[/color] units of assorted ammunition - arrows, bolts and javelins. Used to automatically refill your quivers after battle. Will be added to your global stock once you're back on the worldmap.\""
-    },
-    {
-        "key": "Ammunition",
-        "original": "Ammunition",
-        "translation": "弹药",
-        "context": "this.m.Name = 'Ammunition'"
-    },
-    {
-        "key": "[/color] units of assorted ammunition - arrows, bolts and javelins. Used to automatically refill your quivers after battle. Will be added to your global stock once you're back on the worldmap.",
-        "original": "[/color] units of assorted ammunition - arrows, bolts and javelins. Used to automatically refill your quivers after battle. Will be added to your global stock once you're back on the worldmap.",
-        "translation": "[/color] 弹药(例如弓箭，弩箭，标枪等)，用于在战斗后自动补充箭袋。一旦你重新进入世界地图，将被添加到你的库存中。",
-        "context": "'A good [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Amount + \"[/color] units of assorted ammunition - arrows, bolts and javelins. Used to automatically refill your quivers after battle. Will be added to your global stock once you're back on the worldmap.\""
-    }
+  {
+    "key": "A good [color=",
+    "original": "A good [color=",
+    "translation": "一个好的 [color=",
+    "stage": 1,
+    "context": "'A good [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Amount + \"[/color] units of assorted ammunition - arrows, bolts and javelins. Used to automatically refill your quivers after battle. Will be added to your global stock once you're back on the worldmap.\""
+  },
+  {
+    "key": "Ammunition",
+    "original": "Ammunition",
+    "translation": "弹药",
+    "stage": 1,
+    "context": "this.m.Name = 'Ammunition'"
+  },
+  {
+    "key": "[/color] units of assorted ammunition - arrows, bolts and javelins. Used to automatically refill your quivers after battle. Will be added to your global stock once you're back on the worldmap.",
+    "original": "[/color] units of assorted ammunition - arrows, bolts and javelins. Used to automatically refill your quivers after battle. Will be added to your global stock once you're back on the worldmap.",
+    "translation": "[/color] 弹药(例如弓箭，弩箭，标枪等)，用于在战斗后自动补充箭袋。一旦你重新进入世界地图，将被添加到你的库存中。",
+    "stage": 1,
+    "context": "'A good [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Amount + \"[/color] units of assorted ammunition - arrows, bolts and javelins. Used to automatically refill your quivers after battle. Will be added to your global stock once you're back on the worldmap.\""
+  }
 ]

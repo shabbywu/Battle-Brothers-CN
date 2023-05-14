@@ -1,8 +1,9 @@
 [
-    {
-        "key": "of ",
-        "original": "of ",
-        "translation": " ·",
-        "context": "'of ' + this.m.Name"
-    }
+  {
+    "key": "of ",
+    "original": "of ",
+    "translation": " ·",
+    "stage": 1,
+    "context": "'of ' + this.m.Name"
+  }
 ]

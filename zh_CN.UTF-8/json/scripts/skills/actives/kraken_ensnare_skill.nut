@@ -1,8 +1,9 @@
 [
-    {
-        "key": "Ensnare",
-        "original": "Ensnare",
-        "translation": "诱捕",
-        "context": "this.m.Name = 'Ensnare'"
-    }
+  {
+    "key": "Ensnare",
+    "original": "Ensnare",
+    "translation": "诱捕",
+    "stage": 1,
+    "context": "this.m.Name = 'Ensnare'"
+  }
 ]

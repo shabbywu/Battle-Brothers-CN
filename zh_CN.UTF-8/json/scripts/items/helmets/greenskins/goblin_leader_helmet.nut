@@ -1,8 +1,9 @@
 [
-    {
-        "key": "Helmet",
-        "original": "Helmet",
-        "translation": "头盔",
-        "context": "this.m.Name = 'Helmet'"
-    }
+  {
+    "key": "Helmet",
+    "original": "Helmet",
+    "translation": "头盔",
+    "stage": 1,
+    "context": "this.m.Name = 'Helmet'"
+  }
 ]

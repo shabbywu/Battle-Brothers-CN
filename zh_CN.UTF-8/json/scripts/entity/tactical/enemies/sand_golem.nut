@@ -1,8 +1,9 @@
 [
-    {
-        "key": "An ",
-        "original": "An ",
-        "translation": "一个",
-        "context": "corpse.CorpseName = 'An ' + this.getName()"
-    }
+  {
+    "key": "An ",
+    "original": "An ",
+    "translation": "一个",
+    "stage": 1,
+    "context": "corpse.CorpseName = 'An ' + this.getName()"
+  }
 ]

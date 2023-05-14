@@ -1,8 +1,9 @@
 [
-    {
-        "key": "Hide Armor",
-        "original": "Hide Armor",
-        "translation": "皮铠",
-        "context": "this.m.Name = 'Hide Armor'"
-    }
+  {
+    "key": "Hide Armor",
+    "original": "Hide Armor",
+    "translation": "皮铠",
+    "stage": 1,
+    "context": "this.m.Name = 'Hide Armor'"
+  }
 ]

@@ -1,8 +1,9 @@
 [
-    {
-        "key": "Light Helmet",
-        "original": "Light Helmet",
-        "translation": "轻型头盔",
-        "context": "this.m.Name = 'Light Helmet'"
-    }
+  {
+    "key": "Light Helmet",
+    "original": "Light Helmet",
+    "translation": "轻型头盔",
+    "stage": 1,
+    "context": "this.m.Name = 'Light Helmet'"
+  }
 ]

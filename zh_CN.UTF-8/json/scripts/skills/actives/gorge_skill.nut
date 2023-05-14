@@ -1,8 +1,9 @@
 [
-    {
-        "key": "Gorge",
-        "original": "Gorge",
-        "translation": "暴食",
-        "context": "this.m.Name = 'Gorge'"
-    }
+  {
+    "key": "Gorge",
+    "original": "Gorge",
+    "translation": "暴食",
+    "stage": 1,
+    "context": "this.m.Name = 'Gorge'"
+  }
 ]

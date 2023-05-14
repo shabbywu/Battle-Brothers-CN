@@ -1,20 +1,23 @@
 [
-    {
-        "key": "This character has taken an Oath of Endurance, and is sworn to outlast any foe in battle.",
-        "original": "This character has taken an Oath of Endurance, and is sworn to outlast any foe in battle.",
-        "translation": "此角色立下了忍耐誓言，发誓在战斗中比任何敌人都更加坚韧持久。",
-        "context": "this.m.Description = 'This character has taken an Oath of Endurance, and is sworn to outlast any foe in battle.'"
-    },
-    {
-        "key": "]+3[/color] Fatigue Recovery per turn",
-        "original": "]+3[/color] Fatigue Recovery per turn",
-        "translation": "]+3[/color] 每回合疲劳恢复",
-        "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+3[/color] Fatigue Recovery per turn'"
-    },
-    {
-        "key": "Oath of Endurance",
-        "original": "Oath of Endurance",
-        "translation": "忍耐誓言",
-        "context": "this.m.Name = 'Oath of Endurance'"
-    }
+  {
+    "key": "This character has taken an Oath of Endurance, and is sworn to outlast any foe in battle.",
+    "original": "This character has taken an Oath of Endurance, and is sworn to outlast any foe in battle.",
+    "translation": "此角色立下了忍耐誓言，发誓在战斗中比任何敌人都更加坚韧持久。",
+    "stage": 1,
+    "context": "this.m.Description = 'This character has taken an Oath of Endurance, and is sworn to outlast any foe in battle.'"
+  },
+  {
+    "key": "]+3[/color] Fatigue Recovery per turn",
+    "original": "]+3[/color] Fatigue Recovery per turn",
+    "translation": "]+3[/color] 每回合疲劳恢复",
+    "stage": 1,
+    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+3[/color] Fatigue Recovery per turn'"
+  },
+  {
+    "key": "Oath of Endurance",
+    "original": "Oath of Endurance",
+    "translation": "忍耐誓言",
+    "stage": 1,
+    "context": "this.m.Name = 'Oath of Endurance'"
+  }
 ]

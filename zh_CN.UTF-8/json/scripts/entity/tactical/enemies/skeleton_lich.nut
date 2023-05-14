@@ -1,8 +1,9 @@
 [
-    {
-        "key": " transcends death!",
-        "original": " transcends death!",
-        "translation": "超越死亡！",
-        "context": "this.Const.UI.getColorizedEntityName(this) + ' transcends death!'"
-    }
+  {
+    "key": " transcends death!",
+    "original": " transcends death!",
+    "translation": "超越死亡！",
+    "stage": 1,
+    "context": "this.Const.UI.getColorizedEntityName(this) + ' transcends death!'"
+  }
 ]

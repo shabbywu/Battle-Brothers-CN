@@ -1,14 +1,9 @@
 [
-    {
-        "key": "function",
-        "original": "function",
-        "translation": "",
-        "context": "typeof _backstepCallback == 'function'"
-    },
-    {
-        "key": "function",
-        "original": "function",
-        "translation": "",
-        "context": "typeof _backstepValidationCallback == 'function'"
-    }
+  {
+    "key": "function",
+    "original": "function",
+    "translation": "",
+    "stage": 0,
+    "context": "typeof _backstepCallback == 'function'"
+  }
 ]

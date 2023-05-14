@@ -1,8 +1,9 @@
 [
-    {
-        "key": "Hire",
-        "original": "Hire",
-        "translation": "雇用",
-        "context": "this.m.Name = 'Hire'"
-    }
+  {
+    "key": "Hire",
+    "original": "Hire",
+    "translation": "雇用",
+    "stage": 1,
+    "context": "this.m.Name = 'Hire'"
+  }
 ]

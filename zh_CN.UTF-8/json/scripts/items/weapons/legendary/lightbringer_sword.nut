@@ -1,38 +1,44 @@
 [
-    {
-        "key": "]20[/color] damage that ignores armor to up to three targets",
-        "original": "]20[/color] damage that ignores armor to up to three targets",
-        "translation": "]20[/color] 伤害，无视护甲，最多三个目标",
-        "context": "'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
-    },
-    {
-        "key": "]10[/color] - [color=",
-        "original": "]10[/color] - [color=",
-        "translation": "]10[/color] - [color=",
-        "context": "'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
-    },
-    {
-        "key": "Reproach of the Old Gods",
-        "original": "Reproach of the Old Gods",
-        "translation": "古神之耻",
-        "context": "this.m.Name = 'Reproach of the Old Gods'"
-    },
-    {
-        "key": "Sword, One-Handed",
-        "original": "Sword, One-Handed",
-        "translation": "短剑，单手持",
-        "context": "this.m.Categories = 'Sword, One-Handed'"
-    },
-    {
-        "key": "The crepuscular sword bends purples and oranges until it seemingly carries twilight itself in its fuller. Held to the touch, one cannot tell if they are being burned or chilled. Magic or well-crafted, whatever the weapon is it vibrates as though it were fighting off power immense and you need only swing it to find the steel's true charge.",
-        "original": "The crepuscular sword bends purples and oranges until it seemingly carries twilight itself in its fuller. Held to the touch, one cannot tell if they are being burned or chilled. Magic or well-crafted, whatever the weapon is it vibrates as though it were fighting off power immense and you need only swing it to find the steel's true charge.",
-        "translation": "这把泛着紫黄微光的剑就如黄昏的晚霞。轻轻一碰，冰凉之中还带着灼热的触感。无论它是魔法淬炼还是精心打造的，随意间的挥舞都能感觉到其蕴含的无尽力量与强大电流。",
-        "context": "this.m.Description = \"The crepuscular sword bends purples and oranges until it seemingly carries twilight itself in its fuller. Held to the touch, one cannot tell if they are being burned or chilled. Magic or well-crafted, whatever the weapon is it vibrates as though it were fighting off power immense and you need only swing it to find the steel's true charge.\""
-    },
-    {
-        "key": "Inflicts an additional [color=",
-        "original": "Inflicts an additional [color=",
-        "translation": "造成额外的[color=",
-        "context": "'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
-    }
+  {
+    "key": "]20[/color] damage that ignores armor to up to three targets",
+    "original": "]20[/color] damage that ignores armor to up to three targets",
+    "translation": "]20[/color] 伤害，无视护甲，最多三个目标",
+    "stage": 1,
+    "context": "'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
+  },
+  {
+    "key": "]10[/color] - [color=",
+    "original": "]10[/color] - [color=",
+    "translation": "]10[/color] - [color=",
+    "stage": 1,
+    "context": "'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
+  },
+  {
+    "key": "Reproach of the Old Gods",
+    "original": "Reproach of the Old Gods",
+    "translation": "古神之耻",
+    "stage": 1,
+    "context": "this.m.Name = 'Reproach of the Old Gods'"
+  },
+  {
+    "key": "Sword, One-Handed",
+    "original": "Sword, One-Handed",
+    "translation": "短剑，单手持",
+    "stage": 1,
+    "context": "this.m.Categories = 'Sword, One-Handed'"
+  },
+  {
+    "key": "The crepuscular sword bends purples and oranges until it seemingly carries twilight itself in its fuller. Held to the touch, one cannot tell if they are being burned or chilled. Magic or well-crafted, whatever the weapon is it vibrates as though it were f",
+    "original": "The crepuscular sword bends purples and oranges until it seemingly carries twilight itself in its fuller. Held to the touch, one cannot tell if they are being burned or chilled. Magic or well-crafted, whatever the weapon is it vibrates as though it were fighting off power immense and you need only swing it to find the steel's true charge.",
+    "translation": "这把泛着紫黄微光的剑就如黄昏的晚霞。轻轻一碰，冰凉之中还带着灼热的触感。无论它是魔法淬炼还是精心打造的，随意间的挥舞都能感觉到其蕴含的无尽力量与强大电流。",
+    "stage": 1,
+    "context": "this.m.Description = \"The crepuscular sword bends purples and oranges until it seemingly carries twilight itself in its fuller. Held to the touch, one cannot tell if they are being burned or chilled. Magic or well-crafted, whatever the weapon is it vibrates as though it were fighting off power immense and you need only swing it to find the steel's true charge.\""
+  },
+  {
+    "key": "Inflicts an additional [color=",
+    "original": "Inflicts an additional [color=",
+    "translation": "造成额外的[color=",
+    "stage": 1,
+    "context": "'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
+  }
 ]

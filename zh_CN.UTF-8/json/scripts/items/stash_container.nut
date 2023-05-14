@@ -1,8 +1,9 @@
 [
-    {
-        "key": "table",
-        "original": "table",
-        "translation": "table",
-        "context": "typeof _item == 'table'"
-    }
+  {
+    "key": "table",
+    "original": "table",
+    "translation": "table",
+    "stage": 1,
+    "context": "typeof _item == 'table'"
+  }
 ]

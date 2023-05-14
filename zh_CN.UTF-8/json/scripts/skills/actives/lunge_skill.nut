@@ -1,44 +1,49 @@
 [
-    {
-        "key": "A swift lunge towards a target 2 tiles away, followed by a precise thrusting attack to catch them unprepared. The faster you are, the more damage you do.",
-        "original": "A swift lunge towards a target 2 tiles away, followed by a precise thrusting attack to catch them unprepared. The faster you are, the more damage you do.",
-        "translation": "快速冲向2格外的目标，然后进行精准的刺击，使其措手不及。你的速度越快，造成的伤害越大。",
-        "context": "this.m.Description = 'A swift lunge towards a target 2 tiles away, followed by a precise thrusting attack to catch them unprepared. The faster you are, the more damage you do.'"
-    },
-    {
-        "key": "]Can not be used while rooted[/color]",
-        "original": "]Can not be used while rooted[/color]",
-        "translation": "]定身时不能使用[/color]",
-        "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used while rooted[/color]'"
-    },
-    {
-        "key": "Moves the user next to the target, ignoring Zone of Control",
-        "original": "Moves the user next to the target, ignoring Zone of Control",
-        "translation": "将使用者移动到目标旁边，忽视控制区域",
-        "context": ""
-    },
-    {
-        "key": "Lunge",
-        "original": "Lunge",
-        "translation": "突刺",
-        "context": "this.m.Name = 'Lunge'"
-    },
-    {
-        "key": "Sliced up",
-        "original": "Sliced up",
-        "translation": "切片",
-        "context": "this.m.KilledString = 'Sliced up'"
-    },
-    {
-        "key": "Inflicts additional damage, the higher the user's current Initiative",
-        "original": "Inflicts additional damage, the higher the user's current Initiative",
-        "translation": "使用者当前的主动值越高，造成额外的伤害越高",
-        "context": ""
-    },
-    {
-        "key": " lunges and is repelled",
-        "original": " lunges and is repelled",
-        "translation": " 突刺并被排斥",
-        "context": "this.Const.UI.getColorizedEntityName(_entity) + ' lunges and is repelled'"
-    }
+  {
+    "key": "A swift lunge towards a target 2 tiles away, followed by a precise thrusting attack to catch them unprepared. The faster you are, the more damage you do.",
+    "original": "A swift lunge towards a target 2 tiles away, followed by a precise thrusting attack to catch them unprepared. The faster you are, the more damage you do.",
+    "translation": "快速冲向2格外的目标，然后进行精准的刺击，使其措手不及。你的速度越快，造成的伤害越大。",
+    "stage": 1,
+    "context": "this.m.Description = 'A swift lunge towards a target 2 tiles away, followed by a precise thrusting attack to catch them unprepared. The faster you are, the more damage you do.'"
+  },
+  {
+    "key": "]Can not be used while rooted[/color]",
+    "original": "]Can not be used while rooted[/color]",
+    "translation": "]定身时不能使用[/color]",
+    "stage": 1,
+    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used while rooted[/color]'"
+  },
+  {
+    "key": "Moves the user next to the target, ignoring Zone of Control",
+    "original": "Moves the user next to the target, ignoring Zone of Control",
+    "translation": "将使用者移动到目标旁边，忽视控制区域",
+    "stage": 1
+  },
+  {
+    "key": "Lunge",
+    "original": "Lunge",
+    "translation": "突刺",
+    "stage": 1,
+    "context": "this.m.Name = 'Lunge'"
+  },
+  {
+    "key": "Sliced up",
+    "original": "Sliced up",
+    "translation": "切片",
+    "stage": 1,
+    "context": "this.m.KilledString = 'Sliced up'"
+  },
+  {
+    "key": "Inflicts additional damage, the higher the user's current Initiative",
+    "original": "Inflicts additional damage, the higher the user's current Initiative",
+    "translation": "使用者当前的主动值越高，造成额外的伤害越高",
+    "stage": 1
+  },
+  {
+    "key": " lunges and is repelled",
+    "original": " lunges and is repelled",
+    "translation": " 突刺并被排斥",
+    "stage": 1,
+    "context": "this.Const.UI.getColorizedEntityName(_entity) + ' lunges and is repelled'"
+  }
 ]

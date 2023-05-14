@@ -1,14 +1,16 @@
 [
-    {
-        "key": "Flayed skin and intestines on display.",
-        "original": "Flayed skin and intestines on display.",
-        "translation": "剥落的皮肤和肠子展示。",
-        "context": "return 'Flayed skin and intestines on display.';"
-    },
-    {
-        "key": "Gruesome Display",
-        "original": "Gruesome Display",
-        "translation": "可怕的陈列",
-        "context": "return 'Gruesome Display';"
-    }
+  {
+    "key": "Flayed skin and intestines on display.",
+    "original": "Flayed skin and intestines on display.",
+    "translation": "剥落的皮肤和肠子展示。",
+    "stage": 1,
+    "context": "return 'Flayed skin and intestines on display.';"
+  },
+  {
+    "key": "Gruesome Display",
+    "original": "Gruesome Display",
+    "translation": "可怕的陈列",
+    "stage": 1,
+    "context": "return 'Gruesome Display';"
+  }
 ]

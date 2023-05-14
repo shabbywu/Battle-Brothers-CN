@@ -1,26 +1,30 @@
 [
-    {
-        "key": "A spear of southern design with an explosive charge that will spew fire over two tiles when ignited. The charge is only usable once per battle, but automatically refilled after battle.",
-        "original": "A spear of southern design with an explosive charge that will spew fire over two tiles when ignited. The charge is only usable once per battle, but automatically refilled after battle.",
-        "translation": "一种南方设计的长矛，装有火药，点燃后会在两个格子距离内喷火。 每次战斗只能使用一次，但战斗结束后自动补充。",
-        "context": "this.m.Description = 'A spear of southern design with an explosive charge that will spew fire over two tiles when ignited. The charge is only usable once per battle, but automatically refilled after battle.'"
-    },
-    {
-        "key": "Fire Lance (Spent)",
-        "original": "Fire Lance (Spent)",
-        "translation": "火矛（已用）",
-        "context": "this.m.Name = 'Fire Lance (Spent)'"
-    },
-    {
-        "key": "Fire Lance",
-        "original": "Fire Lance",
-        "translation": "火矛",
-        "context": "this.m.Name = 'Fire Lance'"
-    },
-    {
-        "key": "Spear/Firearm, One-Handed",
-        "original": "Spear/Firearm, One-Handed",
-        "translation": "喷火器, 单手持",
-        "context": "this.m.Categories = 'Spear/Firearm, One-Handed'"
-    }
+  {
+    "key": "A spear of southern design with an explosive charge that will spew fire over two tiles when ignited. The charge is only usable once per battle, but automatically refilled after battle.",
+    "original": "A spear of southern design with an explosive charge that will spew fire over two tiles when ignited. The charge is only usable once per battle, but automatically refilled after battle.",
+    "translation": "一种南方设计的长矛，装有火药，点燃后会在两个格子距离内喷火。 每次战斗只能使用一次，但战斗结束后自动补充。",
+    "stage": 1,
+    "context": "this.m.Description = 'A spear of southern design with an explosive charge that will spew fire over two tiles when ignited. The charge is only usable once per battle, but automatically refilled after battle.'"
+  },
+  {
+    "key": "Fire Lance (Spent)",
+    "original": "Fire Lance (Spent)",
+    "translation": "火矛（已用）",
+    "stage": 1,
+    "context": "this.m.Name = 'Fire Lance (Spent)'"
+  },
+  {
+    "key": "Fire Lance",
+    "original": "Fire Lance",
+    "translation": "火矛",
+    "stage": 1,
+    "context": "this.m.Name = 'Fire Lance'"
+  },
+  {
+    "key": "Spear/Firearm, One-Handed",
+    "original": "Spear/Firearm, One-Handed",
+    "translation": "喷火器, 单手持",
+    "stage": 1,
+    "context": "this.m.Categories = 'Spear/Firearm, One-Handed'"
+  }
 ]

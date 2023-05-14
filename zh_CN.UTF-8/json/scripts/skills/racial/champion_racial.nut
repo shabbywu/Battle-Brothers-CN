@@ -1,8 +1,9 @@
 [
-    {
-        "key": "Champion",
-        "original": "Champion",
-        "translation": "队长(Champion)",
-        "context": "this.m.Name = 'Champion'"
-    }
+  {
+    "key": "Champion",
+    "original": "Champion",
+    "translation": "队长(Champion)",
+    "stage": 1,
+    "context": "this.m.Name = 'Champion'"
+  }
 ]

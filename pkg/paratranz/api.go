@@ -5,8 +5,11 @@ import (
 	"encoding/json"
 	"fmt"
 	"io"
+	"io/ioutil"
+	"os"
 
 	"github.com/levigross/grequests"
+	"github.com/mholt/archiver/v3"
 	"github.com/pkg/errors"
 )
 
@@ -98,4 +101,28 @@ func (p *API) UpdateFile(projectID, fileID int, content []byte, filename string)
 		return respBody.File, fmt.Errorf("更新失败, %s", string(respContent))
 	}
 	return respBody.File, nil
+}
+
+func (p *API) DownloadArtifacts(projectID int, destDir string) error {
+	url := ParaTranzAPIHost + fmt.Sprintf("/projects/%d/artifacts/download", projectID)
+	resp, err := p.Session.Get(url, nil)
+	if err != nil {
+		return errors.Wrap(err, "Failed to download artifacts")
+	}
+
+	// save file to templfile
+	artifactsZip, err := ioutil.TempFile("", "artifacts.zip")
+	defer os.Remove(artifactsZip.Name())
+	if err != nil {
+		return errors.Wrap(err, "Failed to save artifacts")
+	}
+	if _, err := artifactsZip.Write(resp.Bytes()); err != nil {
+		return errors.Wrap(err, "Failed to save artifacts")
+	}
+
+	arc := archiver.NewZip()
+	if err := arc.Unarchive(artifactsZip.Name(), destDir); err != nil {
+		return errors.Wrap(err, "failed to unarchive artifacts")
+	}
+	return nil
 }
