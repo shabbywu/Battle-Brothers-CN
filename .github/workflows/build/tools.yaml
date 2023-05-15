@@ -1,0 +1,48 @@
+# This workflow will build a golang project
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-go
+
+name: 发布协同工具
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  build:
+    if: github.event.release && contains(github.event.release.tag_name, 'tools')
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        include:
+          - goarch: arm64
+            goos: darwin
+          - goarch: amd64
+            goos: darwin
+          - goarch: amd64
+            goos: linux
+          - goarch: arm64
+            goos: linux
+          - goarch: amd64
+            goos: windows
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: release push-to-paratranz binaries
+      uses: wangyoucao577/go-release-action@v1.37
+      with:
+        github_token: ${{ github.token }}
+        goversion: 1.18
+        goos: ${{ matrix.goos }}
+        goarch: ${{ matrix.goarch }}
+        project_path: ./cmd/push-to-paratranz
+        md5sum: true
+
+    - name: release sync-from-paratranz binaries
+      uses: wangyoucao577/go-release-action@v1.37
+      with:
+        github_token: ${{ github.token }}
+        goversion: 1.18
+        goos: ${{ matrix.goos }}
+        goarch: ${{ matrix.goarch }}
+        project_path: ./cmd/sync-from-paratranz
+        md5sum: true
