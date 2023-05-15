@@ -67,10 +67,10 @@ func main() {
 
 		var fileinfo paratranz.ParaTranzFileInfo
 		if currentInfo, ok := fileNamesToInfo[filename]; ok {
-			if currentInfo.UpdatedAt.After(info.ModTime()) {
+			if currentInfo.ModifiedAt.After(info.ModTime()) {
 				url := fmt.Sprintf("https://paratranz.cn/projects/%d/strings?file=%d", currentInfo.ProjectID, currentInfo.ID)
 				return fmt.Errorf("文件 %s 冲突, 请到线上 %s 检查在线文件, 线上解决冲突后使用 sync-from-paratranz --force 更新本地文件再重新推送", filename, url)
-			} else if currentInfo.UpdatedAt.Equal(info.ModTime()) {
+			} else if currentInfo.ModifiedAt.Equal(info.ModTime()) {
 				return nil
 			}
 			if fileinfo, err = cli.UpdateFile(*ProjectID, currentInfo.ID, content, filename); err != nil {

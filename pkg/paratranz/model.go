@@ -33,4 +33,5 @@ type ParaTranzFileInfo struct {
 	Locked     int       `json:"locked"`
 	CreatedAt  time.Time `json:"createdAt"`
 	UpdatedAt  time.Time `json:"updatedAt"`
+	ModifiedAt time.Time `json:"modifiedAt"`
 }

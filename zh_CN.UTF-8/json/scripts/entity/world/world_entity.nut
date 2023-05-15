@@ -19,7 +19,7 @@
     "ID": 293412493,
     "key": "Weaker",
     "original": "Weaker",
-    "translation": "较弱(Weaker)",
+    "translation": "较弱",
     "stage": 1,
     "context": "return 'Weaker';"
   },

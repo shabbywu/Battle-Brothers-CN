@@ -97,7 +97,7 @@ func main() {
 			if err = ioutil.WriteFile(destFilename, content, 0755); err != nil {
 				logger.Fatalln(errors.Wrapf(err, "更新文件 %s 翻译失败", destFilename))
 			}
-			if err = os.Chtimes(destFilename, remoteInfo.CreatedAt, remoteInfo.UpdatedAt); err != nil {
+			if err = os.Chtimes(destFilename, remoteInfo.CreatedAt, remoteInfo.ModifiedAt); err != nil {
 				logger.Fatalln(errors.Wrapf(err, "更新文件 %s 翻译失败", destFilename))
 			}
 		}
@@ -117,20 +117,24 @@ func main() {
 				}
 			}
 			// 本地文件被更新
-			if info.ModTime().After(localInfo.UpdatedAt) {
+			if info.ModTime().After(localInfo.ModifiedAt) {
 				// 远程文件被更新
-				if !localInfo.UpdatedAt.Equal(remoteInfo.UpdatedAt) {
+				if !localInfo.ModifiedAt.Equal(remoteInfo.ModifiedAt) {
 					// 所以, 冲突了
 					url := fmt.Sprintf("https://paratranz.cn/projects/%d/strings?file=%d", remoteInfo.ProjectID, remoteInfo.ID)
 					logger.Fatalln(fmt.Errorf("文件 %s 冲突, 请到线上 %s 检查在线文件, 线上解决冲突后使用 sync-from-paratranz 更新本地文件再重新推送", destFilename, url))
 				}
 				if !*ForceUpdate {
+					logger.Printf("%+v", localInfo.ModifiedAt)
+					logger.Printf("%+v", remoteInfo.ModifiedAt)
+					logger.Printf("%+v", info.ModTime())
 					logger.Printf("文件 %s 被修改且未同步至线上, 跳过同步该文件", destFilename)
+					fileNamesToInfo[filename] = localInfo
 				} else {
 					update()
 				}
 				continue
-			} else if localInfo.UpdatedAt.Equal(remoteInfo.UpdatedAt) {
+			} else if localInfo.ModifiedAt.Equal(remoteInfo.ModifiedAt) {
 				continue
 			}
 		}
