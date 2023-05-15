@@ -1,6 +1,7 @@
 package main
 
 import (
+	"crypto/sha256"
 	"encoding/json"
 	"fmt"
 	"io/fs"
@@ -20,9 +21,12 @@ var (
 	APIToken    = flag.String("token", os.Getenv("PARATRANZ_API_TOKEN"), "ParaTranZ 的 API Token")
 	ProjectID   = flag.Int("project", 0, "ParaTranZ 项目ID")
 	JsonBaseDir = flag.String("src", "zh_CN.UTF-8/json", "json 格式的翻译文件的根路径")
+	ForceUpdate = flag.Bool("force", false, "忽略本地文件状态, 强制更新")
 )
 
 func main() {
+	var err error
+
 	flag.Parse()
 	logger := log.Default()
 	if *APIToken == "" {
@@ -33,16 +37,39 @@ func main() {
 	}
 
 	cli := paratranz.NewClient(*APIToken)
+
+	lockFileName := filepath.Join(*JsonBaseDir, ".lock")
+	lockedInfos := map[string]paratranz.ParaTranzFileInfo{}
+	if _, err := os.Stat(lockFileName); err != nil {
+		if !os.IsNotExist(err) {
+			logger.Fatalln(errors.Wrap(err, "读取文件锁异常"))
+		}
+	} else {
+		content, err := ioutil.ReadFile(lockFileName)
+		if err != nil {
+			logger.Fatalln(errors.Wrap(err, "读取文件锁异常"))
+		}
+		if err = json.Unmarshal(content, &lockedInfos); err != nil {
+			logger.Fatalln(errors.Wrap(err, "读取文件锁异常"))
+		}
+	}
 	files, err := cli.ListFiles(*ProjectID)
 	if err != nil {
 		logger.Fatalln(errors.Wrap(err, "获取文件列表失败!"))
 	}
-	fileNamesToInfo := map[string]paratranz.ParaTranzFileInfo{}
-	for _, file := range files {
-		fileNamesToInfo[file.Name] = file
+
+	newLockedInfos := map[string]paratranz.ParaTranzFileInfo{}
+	for _, info := range files {
+		if locked, ok := lockedInfos[info.Name]; !ok {
+			// 本地 lock 不存在该记录, 插入记录
+			newLockedInfos[info.Name] = info
+		} else {
+			// 复用旧 lock 记录的 sha256 sum
+			info.Sha256Sum = locked.Sha256Sum
+			newLockedInfos[info.Name] = info
+		}
 	}
 
-	lockFileName := filepath.Join(*JsonBaseDir, ".lock")
 	err = filepath.Walk(*JsonBaseDir, func(path string, info fs.FileInfo, err error) error {
 		// 忽略文件锁
 		if path == lockFileName {
@@ -66,7 +93,7 @@ func main() {
 		}
 
 		var fileinfo paratranz.ParaTranzFileInfo
-		if currentInfo, ok := fileNamesToInfo[filename]; ok {
+		if currentInfo, ok := newLockedInfos[filename]; ok {
 			if currentInfo.ModifiedAt.After(info.ModTime()) {
 				url := fmt.Sprintf("https://paratranz.cn/projects/%d/strings?file=%d", currentInfo.ProjectID, currentInfo.ID)
 				return fmt.Errorf("文件 %s 冲突, 请到线上 %s 检查在线文件, 线上解决冲突后使用 sync-from-paratranz --force 更新本地文件再重新推送", filename, url)
@@ -86,7 +113,10 @@ func main() {
 			}
 			logger.Printf("创建文件 %s 成功", fileinfo.Name)
 		}
-		fileNamesToInfo[filename] = fileinfo
+
+		// 更新 sha256 sum
+		fileinfo.Sha256Sum = fmt.Sprintf("%x", sha256.Sum256(content))
+		newLockedInfos[filename] = fileinfo
 		return nil
 	})
 	if err != nil {
@@ -94,7 +124,7 @@ func main() {
 	}
 
 	logger.Println("🔐文件推送成功, 正在写入文件状态锁...")
-	lockContent, err := json.MarshalIndent(fileNamesToInfo, "", "    ")
+	lockContent, err := json.MarshalIndent(newLockedInfos, "", "    ")
 	if err != nil {
 		logger.Fatalln("写入文件状态锁失败...")
 	}

@@ -77,7 +77,7 @@ func (p *API) CreateFile(projectID int, content []byte, filename, filepath strin
 
 func (p *API) UpdateFile(projectID, fileID int, content []byte, filename string) (ParaTranzFileInfo, error) {
 	result := ParaTranzFileInfo{}
-	url := ParaTranzAPIHost + fmt.Sprintf("/projects/%d/files/%d", projectID, fileID)
+	url := ParaTranzAPIHost + fmt.Sprintf("/projects/%d/files/%d/translation", projectID, fileID)
 	resp, err := p.Post(url, &grequests.RequestOptions{
 		Files: []grequests.FileUpload{
 			{FileName: filename, FileContents: io.NopCloser(bytes.NewReader(content))},
