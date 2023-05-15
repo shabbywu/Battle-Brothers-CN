@@ -35,6 +35,7 @@ jobs:
         goos: ${{ matrix.goos }}
         goarch: ${{ matrix.goarch }}
         project_path: ./cmd/push-to-paratranz
+        binary_name: push-to-paratranz
         md5sum: true
 
     - name: release sync-from-paratranz binaries
@@ -45,4 +46,5 @@ jobs:
         goos: ${{ matrix.goos }}
         goarch: ${{ matrix.goarch }}
         project_path: ./cmd/sync-from-paratranz
+        binary_name: sync-from-paratranz
         md5sum: true
