@@ -51,6 +51,7 @@ func main() {
 		if info.IsDir() {
 			return nil
 		}
+
 		filename, err := filepath.Rel(*JsonBaseDir, path)
 		if err != nil {
 			return err

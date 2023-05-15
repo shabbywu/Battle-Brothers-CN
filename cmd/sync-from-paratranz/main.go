@@ -117,7 +117,7 @@ func main() {
 				}
 			}
 			// 本地文件被更新
-			if !info.ModTime().Equal(localInfo.UpdatedAt) {
+			if info.ModTime().After(localInfo.UpdatedAt) {
 				// 远程文件被更新
 				if !localInfo.UpdatedAt.Equal(remoteInfo.UpdatedAt) {
 					// 所以, 冲突了
