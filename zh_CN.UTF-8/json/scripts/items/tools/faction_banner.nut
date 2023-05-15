@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293418937,
     "key": "Battle Standard",
     "original": "Battle Standard",
     "translation": "战旗",

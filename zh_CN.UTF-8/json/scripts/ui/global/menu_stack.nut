@@ -1,9 +1,9 @@
 [
   {
+    "ID": 293422912,
     "key": "function",
     "original": "function",
     "translation": "",
-    "stage": 0,
     "context": "typeof _backstepCallback == 'function'"
   }
 ]

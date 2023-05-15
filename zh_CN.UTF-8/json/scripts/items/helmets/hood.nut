@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293418105,
     "key": "Hood",
     "original": "Hood",
     "translation": "兜帽",
@@ -7,6 +8,7 @@
     "context": "this.m.Name = 'Hood'"
   },
   {
+    "ID": 293418106,
     "key": "A simple hood to protect against weather and scratches.",
     "original": "A simple hood to protect against weather and scratches.",
     "translation": "用于应对日常天气和擦伤的简易兜帽。",

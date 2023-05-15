@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293421426,
     "key": "Rage",
     "original": "Rage",
     "translation": "愤怒",
@@ -7,6 +8,7 @@
     "context": "this.m.Name = 'Rage'"
   },
   {
+    "ID": 293421427,
     "key": " gains rage!",
     "original": " gains rage!",
     "translation": " 获得愤怒！",

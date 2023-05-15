@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293420741,
     "key": "Bitten",
     "original": "Bitten",
     "translation": "咬了",
@@ -7,6 +8,7 @@
     "context": "this.m.KilledString = 'Bitten'"
   },
   {
+    "ID": 293420742,
     "key": "Bite",
     "original": "Bite",
     "translation": "咬",

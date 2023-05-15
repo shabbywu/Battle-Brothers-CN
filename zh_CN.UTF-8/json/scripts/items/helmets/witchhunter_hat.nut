@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293418318,
     "key": "A tough leather hat that provides decent protection against scratches.",
     "original": "A tough leather hat that provides decent protection against scratches.",
     "translation": "一顶能够有效预防受伤的皮帽。",
@@ -7,6 +8,7 @@
     "context": "this.m.Description = 'A tough leather hat that provides decent protection against scratches.'"
   },
   {
+    "ID": 293418319,
     "key": "Witchhunter's Hat",
     "original": "Witchhunter's Hat",
     "translation": "女巫猎人的帽子",

@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293410308,
     "key": "Wiederganger ",
     "original": "Wiederganger ",
     "translation": "维德冈格 ",
@@ -7,6 +8,7 @@
     "context": "corpse.Name = 'Wiederganger ' + this.getName()"
   },
   {
+    "ID": 293410309,
     "key": "grey",
     "original": "grey",
     "translation": "grey",

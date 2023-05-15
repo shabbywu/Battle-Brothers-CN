@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293417585,
     "key": "Heavy hides patched together to create a decent makeshift armor.",
     "original": "Heavy hides patched together to create a decent makeshift armor.",
     "translation": "用兽皮拼凑而成笨重铠甲。",
@@ -7,6 +8,7 @@
     "context": "this.m.Description = 'Heavy hides patched together to create a decent makeshift armor.'"
   },
   {
+    "ID": 293417586,
     "key": "Animal Hide Armor",
     "original": "Animal Hide Armor",
     "translation": "兽皮甲",

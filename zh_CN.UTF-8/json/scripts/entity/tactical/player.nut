@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293410444,
     "key": "Beheaded",
     "original": "Beheaded",
     "translation": "斩首",
@@ -7,6 +8,7 @@
     "context": "killedBy = 'Beheaded'"
   },
   {
+    "ID": 293410445,
     "key": " day)",
     "original": " day)",
     "translation": "天)",
@@ -14,6 +16,7 @@
     "context": "injury.getName() + ' (' + ht.Min + ' day)'"
   },
   {
+    "ID": 293410446,
     "key": "Level ",
     "original": "Level ",
     "translation": "等级",
@@ -21,6 +24,7 @@
     "context": "'Level ' + this.m.Level"
   },
   {
+    "ID": 293410447,
     "key": " daily",
     "original": " daily",
     "translation": "每日",
@@ -28,12 +32,14 @@
     "context": "'Paid [img]gfx/ui/tooltips/money.png[/img]' + this.getDailyCost() + ' daily'"
   },
   {
+    "ID": 293410448,
     "key": "Suffered an injury",
     "original": "Suffered an injury",
     "translation": "受伤了",
     "stage": 1
   },
   {
+    "ID": 293410449,
     "key": " battle",
     "original": " battle",
     "translation": "战斗",
@@ -41,6 +47,7 @@
     "context": "text = text + ' Took part in ' + this.m.LifetimeStats.Battles + ' battle'"
   },
   {
+    "ID": 293410450,
     "key": "%[/color] chance to hit",
     "original": "%[/color] chance to hit",
     "translation": "%[/color] 命中几率",
@@ -48,6 +55,7 @@
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']' + _targetedWithSkill.getHitchance(this) + '%[/color] chance to hit'"
   },
   {
+    "ID": 293410451,
     "key": " kill.",
     "original": " kill.",
     "translation": "杀。",
@@ -55,6 +63,7 @@
     "context": "text = text + ' and has ' + this.m.LifetimeStats.Kills + ' kill.'"
   },
   {
+    "ID": 293410452,
     "key": " Took part in ",
     "original": " Took part in ",
     "translation": "参加了",
@@ -62,6 +71,7 @@
     "context": "text = text + ' Took part in ' + this.m.LifetimeStats.Battles + ' battles'"
   },
   {
+    "ID": 293410453,
     "key": "With the company for ",
     "original": "With the company for ",
     "translation": "跟战团在一起\"",
@@ -69,6 +79,7 @@
     "context": "text = 'With the company for ' + time + ' days.'"
   },
   {
+    "ID": 293410454,
     "key": " and has ",
     "original": " and has ",
     "translation": "并且达成",
@@ -76,6 +87,7 @@
     "context": "text = text + ' and has ' + this.m.LifetimeStats.Kills + ' kill.'"
   },
   {
+    "ID": 293410455,
     "key": "Acting right now!",
     "original": "Acting right now!",
     "translation": "现在行动！",
@@ -83,6 +95,7 @@
     "context": "this.Tactical.TurnSequenceBar.getActiveEntity() == this ? 'Acting right now!' : this.m.IsTurnDone || turnsToGo == null ? 'Turn done' : 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
   },
   {
+    "ID": 293410456,
     "key": " by ",
     "original": " by ",
     "translation": "通过",
@@ -90,6 +103,7 @@
     "context": "killedBy = killedBy + ' by ' + _killer.getKilledName()"
   },
   {
+    "ID": 293410457,
     "key": "Light Wounds (",
     "original": "Light Wounds (",
     "translation": "轻伤 (",
@@ -97,6 +111,7 @@
     "context": "'Light Wounds (' + ht + ' days)'"
   },
   {
+    "ID": 293410458,
     "key": " days)",
     "original": " days)",
     "translation": "天)",
@@ -104,6 +119,7 @@
     "context": "'Light Wounds (' + ht + ' days)'"
   },
   {
+    "ID": 293410459,
     "key": "Devoured by a Kraken",
     "original": "Devoured by a Kraken",
     "translation": "被海妖吞噬了。",
@@ -111,6 +127,7 @@
     "context": "killedBy = 'Devoured by a Kraken'"
   },
   {
+    "ID": 293410460,
     "key": "Disemboweled",
     "original": "Disemboweled",
     "translation": "解体",
@@ -118,6 +135,7 @@
     "context": "killedBy = 'Disemboweled'"
   },
   {
+    "ID": 293410461,
     "key": "Has just joined the company.",
     "original": "Has just joined the company.",
     "translation": "刚加入战队。",
@@ -125,6 +143,7 @@
     "context": "text = 'Has just joined the company.'"
   },
   {
+    "ID": 293410462,
     "key": "Gutted",
     "original": "Gutted",
     "translation": "内脏流出",
@@ -132,6 +151,7 @@
     "context": "killedBy = 'Gutted'"
   },
   {
+    "ID": 293410463,
     "key": " has retreated from battle",
     "original": " has retreated from battle",
     "translation": " 已经退出战斗",
@@ -139,6 +159,7 @@
     "context": "this.Const.UI.getColorizedEntityName(this) + ' has retreated from battle'"
   },
   {
+    "ID": 293410464,
     "key": "Committed Suicide",
     "original": "Committed Suicide",
     "translation": "自杀",
@@ -146,12 +167,14 @@
     "context": "killedBy = 'Committed Suicide'"
   },
   {
+    "ID": 293410465,
     "key": "In reserve",
     "original": "In reserve",
     "translation": "后备",
     "stage": 1
   },
   {
+    "ID": 293410466,
     "key": ",socket,miniboss,arrow",
     "original": ",socket,miniboss,arrow",
     "translation": ",socket,miniboss,arrow",
@@ -159,6 +182,7 @@
     "context": "local result = 'tacticalentity(' + this.m.ContentID + ',' + this.getID() + ',socket,miniboss,arrow'"
   },
   {
+    "ID": 293410467,
     "key": " turn",
     "original": " turn",
     "translation": "回合",
@@ -166,6 +190,7 @@
     "context": "this.Tactical.TurnSequenceBar.getActiveEntity() == this ? 'Acting right now!' : this.m.IsTurnDone || turnsToGo == null ? 'Turn done' : 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
   },
   {
+    "ID": 293410468,
     "key": "Devoured by a Nachzehrer",
     "original": "Devoured by a Nachzehrer",
     "translation": "被食尸鬼吞噬",
@@ -173,12 +198,14 @@
     "context": "killedBy = 'Devoured by a Nachzehrer'"
   },
   {
+    "ID": 293410469,
     "key": "In the fighting line",
     "original": "In the fighting line",
     "translation": "战斗前线",
     "stage": 1
   },
   {
+    "ID": 293410470,
     "key": "Killed in battle",
     "original": "Killed in battle",
     "translation": "在战斗中丧生",
@@ -186,6 +213,7 @@
     "context": "killedBy = 'Killed in battle'"
   },
   {
+    "ID": 293410471,
     "key": "Acts in ",
     "original": "Acts in ",
     "translation": "行动于：",
@@ -193,6 +221,7 @@
     "context": "this.Tactical.TurnSequenceBar.getActiveEntity() == this ? 'Acting right now!' : this.m.IsTurnDone || turnsToGo == null ? 'Turn done' : 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
   },
   {
+    "ID": 293410472,
     "key": "Turn done",
     "original": "Turn done",
     "translation": "回合结束",
@@ -200,6 +229,7 @@
     "context": "this.Tactical.TurnSequenceBar.getActiveEntity() == this ? 'Acting right now!' : this.m.IsTurnDone || turnsToGo == null ? 'Turn done' : 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
   },
   {
+    "ID": 293410473,
     "key": "With the company from the very beginning.",
     "original": "With the company from the very beginning.",
     "translation": "战队的创始人。",
@@ -207,6 +237,7 @@
     "context": "text = 'With the company from the very beginning.'"
   },
   {
+    "ID": 293410474,
     "key": " kills.",
     "original": " kills.",
     "translation": "击杀。",
@@ -214,6 +245,7 @@
     "context": "text = text + ' and has ' + this.m.LifetimeStats.Kills + ' kills.'"
   },
   {
+    "ID": 293410475,
     "key": " days.",
     "original": " days.",
     "translation": "天。",
@@ -221,6 +253,7 @@
     "context": "text = 'With the company for ' + time + ' days.'"
   },
   {
+    "ID": 293410476,
     "key": " battles",
     "original": " battles",
     "translation": "战斗",
@@ -228,6 +261,7 @@
     "context": "text = text + ' Took part in ' + this.m.LifetimeStats.Battles + ' battles'"
   },
   {
+    "ID": 293410477,
     "key": " The most powerful opponent he vanquished was ",
     "original": " The most powerful opponent he vanquished was ",
     "translation": "他曾击败过的最强对手是",
@@ -235,12 +269,14 @@
     "context": "text = text + ' The most powerful opponent he vanquished was ' + this.m.LifetimeStats.MostPowerfulVanquished + '.'"
   },
   {
+    "ID": 293410478,
     "key": "Joined a mercenary company",
     "original": "Joined a mercenary company",
     "translation": "加入一个雇佣兵战队",
     "stage": 1
   },
   {
+    "ID": 293410479,
     "key": "Paid [img]gfx/ui/tooltips/money.png[/img]",
     "original": "Paid [img]gfx/ui/tooltips/money.png[/img]",
     "translation": "支付了 [img]gfx/ui/tooltips/money.png[/img]",
@@ -248,12 +284,14 @@
     "context": "'Paid [img]gfx/ui/tooltips/money.png[/img]' + this.getDailyCost() + ' daily'"
   },
   {
+    "ID": 293410480,
     "key": "Suffered a permanent injury",
     "original": "Suffered a permanent injury",
     "translation": "受到永久性损伤",
     "stage": 1
   },
   {
+    "ID": 293410481,
     "key": " turns",
     "original": " turns",
     "translation": "回合。",

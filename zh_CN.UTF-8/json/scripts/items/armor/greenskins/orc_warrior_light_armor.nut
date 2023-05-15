@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293417635,
     "key": "Looted Scale Armor",
     "original": "Looted Scale Armor",
     "translation": "掠夺者鳞甲",

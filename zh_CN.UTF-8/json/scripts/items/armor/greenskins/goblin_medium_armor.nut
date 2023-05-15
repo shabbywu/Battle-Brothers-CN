@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293417628,
     "key": "Medium Armor",
     "original": "Medium Armor",
     "translation": "中甲",

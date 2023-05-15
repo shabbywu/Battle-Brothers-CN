@@ -7,6 +7,7 @@ import (
 	"io"
 	"io/ioutil"
 	"os"
+	"sort"
 
 	"github.com/levigross/grequests"
 	"github.com/mholt/archiver/v3"
@@ -101,6 +102,24 @@ func (p *API) UpdateFile(projectID, fileID int, content []byte, filename string)
 		return respBody.File, fmt.Errorf("更新失败, %s", string(respContent))
 	}
 	return respBody.File, nil
+}
+
+// 获取文件翻译结果
+func (p *API) GetFileTranslation(projectID, fileID int) ([]Entity, error) {
+	url := ParaTranzAPIHost + fmt.Sprintf("/projects/%d/files/%d/translation", projectID, fileID)
+	resp, err := p.Session.Get(url, nil)
+	if err != nil {
+		return nil, err
+	}
+	entities := []Entity{}
+	respContent := resp.Bytes()
+	if err := json.Unmarshal(respContent, &entities); err != nil {
+		return nil, errors.Wrapf(err, "Resp Content: \"%s\"", string(respContent))
+	}
+	sort.SliceStable(entities, func(i, j int) bool {
+		return entities[i].ID < entities[j].ID
+	})
+	return entities, nil
 }
 
 func (p *API) DownloadArtifacts(projectID int, destDir string) error {

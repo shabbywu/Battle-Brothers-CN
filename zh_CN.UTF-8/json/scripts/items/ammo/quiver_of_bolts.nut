@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293417546,
     "key": "]Is empty and useless[/color]",
     "original": "]Is empty and useless[/color]",
     "translation": "]空的无用[/color]",
@@ -7,6 +8,7 @@
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Is empty and useless[/color]'"
   },
   {
+    "ID": 293417547,
     "key": "Contains [color=",
     "original": "Contains [color=",
     "translation": "含有 [color=",
@@ -14,6 +16,7 @@
     "context": "'Contains [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] bolts'"
   },
   {
+    "ID": 293417548,
     "key": "A quiver of bolts, required to use crossbows. Is automatically refilled after each battle if you have enough ammunition.",
     "original": "A quiver of bolts, required to use crossbows. Is automatically refilled after each battle if you have enough ammunition.",
     "translation": "一整袋弩矢，适用于弩。 如果你有足够的弹药，每次战斗后都会自动补充。",
@@ -21,6 +24,7 @@
     "context": "this.m.Description = 'A quiver of bolts, required to use crossbows. Is automatically refilled after each battle if you have enough ammunition.'"
   },
   {
+    "ID": 293417549,
     "key": "[/color] bolts",
     "original": "[/color] bolts",
     "translation": "[/color] 支弩矢",
@@ -28,6 +32,7 @@
     "context": "'Contains [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] bolts'"
   },
   {
+    "ID": 293417550,
     "key": "Quiver of Bolts",
     "original": "Quiver of Bolts",
     "translation": "弩矢袋",

@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293412491,
     "key": "Puny",
     "original": "Puny",
     "translation": "弱小的",
@@ -7,6 +8,7 @@
     "context": "return 'Puny';"
   },
   {
+    "ID": 293412492,
     "key": "Impossible",
     "original": "Impossible",
     "translation": "不可能",
@@ -14,6 +16,7 @@
     "context": "return 'Impossible';"
   },
   {
+    "ID": 293412493,
     "key": "Weaker",
     "original": "Weaker",
     "translation": "较弱(Weaker)",
@@ -21,6 +24,7 @@
     "context": "return 'Weaker';"
   },
   {
+    "ID": 293412494,
     "key": "instance",
     "original": "instance",
     "translation": "instance",
@@ -28,6 +32,7 @@
     "context": "typeof _entity == 'instance'"
   },
   {
+    "ID": 293412495,
     "key": "Slightly Weaker",
     "original": "Slightly Weaker",
     "translation": "稍微弱一点",
@@ -35,6 +40,7 @@
     "context": "return 'Slightly Weaker';"
   },
   {
+    "ID": 293412496,
     "key": "An ",
     "original": "An ",
     "translation": "一个",
@@ -42,6 +48,7 @@
     "context": "local start = this.isFirstCharacter(this.Const.Strings.EntityName.i, ['A','E','I','O','U']) ? 'An ' : 'A '"
   },
   {
+    "ID": 293412497,
     "key": "table",
     "original": "table",
     "translation": "table",
@@ -49,6 +56,7 @@
     "context": "typeof _p == 'instance' || typeof _p == 'table'"
   },
   {
+    "ID": 293412498,
     "key": "Challenging",
     "original": "Challenging",
     "translation": "具有挑战性的",
@@ -56,12 +64,14 @@
     "context": "return 'Challenging';"
   },
   {
+    "ID": 293412499,
     "key": "The ",
     "original": "The ",
     "translation": "这个",
     "stage": 1
   },
   {
+    "ID": 293412500,
     "key": "Deadly",
     "original": "Deadly",
     "translation": "致命",
@@ -69,6 +79,7 @@
     "context": "return 'Deadly';"
   },
   {
+    "ID": 293412501,
     "key": "Unknown",
     "original": "Unknown",
     "translation": "未知的",
@@ -76,6 +87,7 @@
     "context": "return 'Unknown';"
   },
   {
+    "ID": 293412502,
     "key": "Even",
     "original": "Even",
     "translation": "伊文(Even)",
@@ -83,6 +95,7 @@
     "context": "return 'Even';"
   },
   {
+    "ID": 293412503,
     "key": "A ",
     "original": "A ",
     "translation": "一个",

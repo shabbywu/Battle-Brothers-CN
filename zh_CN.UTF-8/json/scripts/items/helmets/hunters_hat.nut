@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293418107,
     "key": "A thick felt hat decorated with feathers as a hunter's trophy.",
     "original": "A thick felt hat decorated with feathers as a hunter's trophy.",
     "translation": "一顶用羽毛装饰的厚毡帽，作为猎人的战利品。",
@@ -7,6 +8,7 @@
     "context": "this.m.Description = \"A thick felt hat decorated with feathers as a hunter's trophy.\""
   },
   {
+    "ID": 293418108,
     "key": "Hunter's Hat",
     "original": "Hunter's Hat",
     "translation": "皮猎帽",

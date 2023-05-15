@@ -1,6 +1,8 @@
 package main
 
 import (
+	"encoding/json"
+	"fmt"
 	"io/fs"
 	"io/ioutil"
 	"log"
@@ -35,12 +37,17 @@ func main() {
 	if err != nil {
 		logger.Fatalln(errors.Wrap(err, "获取文件列表失败!"))
 	}
-	fileNamesToId := map[string]int{}
+	fileNamesToInfo := map[string]paratranz.ParaTranzFileInfo{}
 	for _, file := range files {
-		fileNamesToId[file.Name] = file.ID
+		fileNamesToInfo[file.Name] = file
 	}
 
-	filepath.Walk(*JsonBaseDir, func(path string, info fs.FileInfo, err error) error {
+	lockFileName := filepath.Join(*JsonBaseDir, ".lock")
+	err = filepath.Walk(*JsonBaseDir, func(path string, info fs.FileInfo, err error) error {
+		// 忽略文件锁
+		if path == lockFileName {
+			return nil
+		}
 		if info.IsDir() {
 			return nil
 		}
@@ -48,6 +55,7 @@ func main() {
 		if err != nil {
 			return err
 		}
+
 		filename = strings.Replace(filename, ".nut", ".json", 1)
 		fileDir := filepath.Dir(filename)
 
@@ -57,10 +65,15 @@ func main() {
 		}
 
 		var fileinfo paratranz.ParaTranzFileInfo
-		if fileID, ok := fileNamesToId[filename]; ok {
-			if fileinfo, err = cli.UpdateFile(*ProjectID, fileID, content, filename); err != nil {
+		if currentInfo, ok := fileNamesToInfo[filename]; ok {
+			if currentInfo.UpdatedAt.After(info.ModTime()) {
+				url := fmt.Sprintf("https://paratranz.cn/projects/%d/strings?file=%d", currentInfo.ProjectID, currentInfo.ID)
+				return fmt.Errorf("文件 %s 冲突, 请到线上 %s 检查在线文件, 线上解决冲突后使用 sync-from-paratranz --force 更新本地文件再重新推送", filename, url)
+			} else if currentInfo.UpdatedAt.Equal(info.ModTime()) {
+				return nil
+			}
+			if fileinfo, err = cli.UpdateFile(*ProjectID, currentInfo.ID, content, filename); err != nil {
 				if errors.Is(err, paratranz.HashMatchedError) {
-					logger.Printf("文件 %s 无变化, 跳过更新", filename)
 					return nil
 				}
 				logger.Fatalln(errors.Wrapf(err, "更新文件 %s 失败", filename))
@@ -72,6 +85,19 @@ func main() {
 			}
 			logger.Printf("创建文件 %s 成功", fileinfo.Name)
 		}
+		fileNamesToInfo[filename] = fileinfo
 		return nil
 	})
+	if err != nil {
+		logger.Fatalln(err)
+	}
+
+	logger.Println("🔐文件推送成功, 正在写入文件状态锁...")
+	lockContent, err := json.MarshalIndent(fileNamesToInfo, "", "    ")
+	if err != nil {
+		logger.Fatalln("写入文件状态锁失败...")
+	}
+	if err := ioutil.WriteFile(lockFileName, lockContent, 0755); err != nil {
+		logger.Fatalln("写入文件状态锁失败...")
+	}
 }

@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293422158,
     "key": "Shielded",
     "original": "Shielded",
     "translation": "被保护的 (Shielded)",

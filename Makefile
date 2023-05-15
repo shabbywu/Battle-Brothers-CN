@@ -8,12 +8,12 @@ endif
 
 
 ##@ Build Binary
-.PHONY: build-push-to-paratranz
-build-push-to-paratranz: ## 构建 push-to-paratranz 命令
+.PHONY: push-to-paratranz
+push-to-paratranz: ## 构建 push-to-paratranz 命令
 	go build -o bin/push-to-paratranz${BINARY_SUFFIX} -trimpath ./cmd/push-to-paratranz
 
 
-.PHONY: build-sync-from-paratranz
+.PHONY: sync-from-paratranz
 sync-from-paratranz: ## 构建 sync-from-paratranz 命令
 	go build -o bin/sync-from-paratranz${BINARY_SUFFIX} -trimpath ./cmd/sync-from-paratranz
 

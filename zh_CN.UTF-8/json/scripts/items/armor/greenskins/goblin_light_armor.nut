@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293417627,
     "key": "Light Armor",
     "original": "Light Armor",
     "translation": "轻甲",

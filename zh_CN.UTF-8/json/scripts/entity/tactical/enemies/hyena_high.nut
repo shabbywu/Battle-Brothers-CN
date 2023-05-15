@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293410275,
     "key": "Frenzied Hyena",
     "original": "Frenzied Hyena",
     "translation": "狂暴鬣狗(Frenzied Hyena)",

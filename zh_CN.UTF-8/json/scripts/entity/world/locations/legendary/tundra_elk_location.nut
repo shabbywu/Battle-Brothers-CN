@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293410639,
     "key": "A lone elk grazes on green meadows, in the shadow of some trees and by a small lake.",
     "original": "A lone elk grazes on green meadows, in the shadow of some trees and by a small lake.",
     "translation": "在一个小湖边的树荫下，一只孤独的麋鹿在绿色的草地上吃草。",
@@ -7,6 +8,7 @@
     "context": "return 'A lone elk grazes on green meadows, in the shadow of some trees and by a small lake.';"
   },
   {
+    "ID": 293410640,
     "key": "Hunting Ground",
     "original": "Hunting Ground",
     "translation": "狩猎场(Hunting Ground)",

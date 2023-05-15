@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293403324,
     "key": "[img]gfx/ui/events/event_62.png[/img]When starting out, the world saw you for what you were: ambition armed with a weapon. Everyone has a dream, and about half those men have weapons on them. You were not unique, not outstanding, not even particularly dan",
     "original": "[img]gfx/ui/events/event_62.png[/img]When starting out, the world saw you for what you were: ambition armed with a weapon. Everyone has a dream, and about half those men have weapons on them. You were not unique, not outstanding, not even particularly dangerous if you're giving your old self a good look in the eye. But you made it. The doors shut in your face. The attempts at haggling that lost you good deals. The spitting. So much spitting. It's a cold world and you dared to warm your own damn self. And you succeeded.\\n\\n Contracts under your belt, contracts on the horizon, they're blurring together. A culture of victory has started to wash over the %companyname% and you've good reason to be proud of your command of it.",
     "translation": "[img]gfx/ui/events/event_62.png[/img]刚开始的时候，全世界都看到了你的本来面目：带着武器的野心。 每个人都有一个梦想，大约一半的人身上都有武器。 你不是唯一的，不是杰出的，甚至不是特别危险的，如果你让你过去的自己看起来很好。 但你成功了。 门在你面前关上了。 讨价还价的尝试让你失去了好买卖。 随地吐痰。吐了那么多口水。 这是一个寒冷的世界，你敢于温暖自己。你成功了。\\n\\n 你手头上的合同，地平线上的合同，他们都模糊在一起。 一种胜利的文化已经开始席卷 %companyname%，你有充分的理由为自己的指挥权感到自豪。",
@@ -7,6 +8,7 @@
     "context": "this.m.SuccessText = \"[img]gfx/ui/events/event_62.png[/img]When starting out, the world saw you for what you were: ambition armed with a weapon. Everyone has a dream, and about half those men have weapons on them. You were not unique, not outstanding, not even particularly dangerous if you're giving your old self a good look in the eye. But you made it. The doors shut in your face. The attempts at haggling that lost you good deals. The spitting. So much spitting. It's a cold world and you dared to warm your own damn self. And you succeeded.\n\n Contracts under your belt, contracts on the horizon, they're blurring together. A culture of victory has started to wash over the %companyname% and you've good reason to be proud of your command of it.\""
   },
   {
+    "ID": 293403325,
     "key": "We're making a name for ourselves.",
     "original": "We're making a name for ourselves.",
     "translation": "我们正在为自己扬名。",
@@ -14,6 +16,7 @@
     "context": "this.m.SuccessButtonText = \"We're making a name for ourselves.\""
   },
   {
+    "ID": 293403326,
     "key": "We need to establish ourselves as mercenaries that can be relied on.\nLet us be tested over and over to prove it without doubt!",
     "original": "We need to establish ourselves as mercenaries that can be relied on.\\nLet us be tested over and over to prove it without doubt!",
     "translation": "我们需要把自己打造成可以依靠的雇佣兵。\\n让我们一次又一次地接受考验，毫无疑问地证明这一点！",
@@ -21,6 +24,7 @@
     "context": "this.m.ButtonText = 'We need to establish ourselves as mercenaries that can be relied on.\nLet us be tested over and over to prove it without doubt!'"
   },
   {
+    "ID": 293403327,
     "key": "Complete 8 more contracts of any kind to prove yourselves reliable beyond doubt.",
     "original": "Complete 8 more contracts of any kind to prove yourselves reliable beyond doubt.",
     "translation": "再完成8份任何形式的合同，以证明自己毫无疑问是可靠的。",
@@ -28,6 +32,7 @@
     "context": "this.m.TooltipText = 'Complete 8 more contracts of any kind to prove yourselves reliable beyond doubt.'"
   },
   {
+    "ID": 293403328,
     "key": "Complete more contracts",
     "original": "Complete more contracts",
     "translation": "完成更多合同",

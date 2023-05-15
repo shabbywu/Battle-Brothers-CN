@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293410396,
     "key": "A gruesome display of what happens to humans around here.",
     "original": "A gruesome display of what happens to humans around here.",
     "translation": "用来警示这一带的人类会遭遇什么的标记。",
@@ -7,6 +8,7 @@
     "context": "return 'A gruesome display of what happens to humans around here.';"
   },
   {
+    "ID": 293410397,
     "key": "Spiked Head",
     "original": "Spiked Head",
     "translation": "尖头",

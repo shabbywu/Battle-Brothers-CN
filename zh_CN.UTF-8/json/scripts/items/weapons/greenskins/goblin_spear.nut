@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293419154,
     "key": "Spear, One-Handed",
     "original": "Spear, One-Handed",
     "translation": "短矛，单手持",
@@ -7,6 +8,7 @@
     "context": "this.m.Categories = 'Spear, One-Handed'"
   },
   {
+    "ID": 293419155,
     "key": "Goblin Skewer",
     "original": "Goblin Skewer",
     "translation": "哥布林烤肉叉",
@@ -14,6 +16,7 @@
     "context": "this.m.Name = 'Goblin Skewer'"
   },
   {
+    "ID": 293419156,
     "key": "A long shaft with a sharp metal tip at the top.",
     "original": "A long shaft with a sharp metal tip at the top.",
     "translation": "顶部有锋利金属尖端的长杆。",

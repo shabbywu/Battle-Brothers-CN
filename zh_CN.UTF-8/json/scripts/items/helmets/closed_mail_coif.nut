@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293418037,
     "key": "Closed Mail Coif",
     "original": "Closed Mail Coif",
     "translation": "全链甲头盔",
@@ -7,6 +8,7 @@
     "context": "this.m.Name = 'Closed Mail Coif'"
   },
   {
+    "ID": 293418038,
     "key": "A mail coif with added protection for the face.",
     "original": "A mail coif with added protection for the face.",
     "translation": "一种带有链甲保护脸部的头盔。",

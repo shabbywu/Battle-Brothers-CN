@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293410504,
     "key": "instance",
     "original": "instance",
     "translation": "instance",
@@ -7,6 +8,7 @@
     "context": "typeof _i == 'instance'"
   },
   {
+    "ID": 293410505,
     "key": "Warhound",
     "original": "Warhound",
     "translation": "战犬",

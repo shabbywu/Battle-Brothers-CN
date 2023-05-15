@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293410339,
     "key": "Wooden Idol",
     "original": "Wooden Idol",
     "translation": "木制神像",
@@ -7,6 +8,7 @@
     "context": "return 'Wooden Idol';"
   },
   {
+    "ID": 293410340,
     "key": "A barbarian idol carved from wood.",
     "original": "A barbarian idol carved from wood.",
     "translation": "一个蛮族木刻神像。",

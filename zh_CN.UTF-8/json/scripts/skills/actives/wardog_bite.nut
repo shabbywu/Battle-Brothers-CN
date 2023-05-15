@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293420715,
     "key": "Mangled",
     "original": "Mangled",
     "translation": "撕烂",
@@ -7,6 +8,7 @@
     "context": "this.m.KilledString = 'Mangled'"
   },
   {
+    "ID": 293420716,
     "key": "Bite",
     "original": "Bite",
     "translation": "咬",

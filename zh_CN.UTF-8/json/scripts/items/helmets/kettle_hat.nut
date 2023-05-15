@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293418111,
     "key": "Kettle hat",
     "original": "Kettle hat",
     "translation": "锅盔",
@@ -7,6 +8,7 @@
     "context": "this.m.Name = 'Kettle hat'"
   },
   {
+    "ID": 293418112,
     "key": "A full-metal helmet with a broad rim.",
     "original": "A full-metal helmet with a broad rim.",
     "translation": "带宽边的全金属头盔。",

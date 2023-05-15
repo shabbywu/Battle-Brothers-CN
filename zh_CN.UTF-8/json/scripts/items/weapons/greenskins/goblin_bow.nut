@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293419135,
     "key": "Boondock Bow",
     "original": "Boondock Bow",
     "translation": "处刑之弓",
@@ -7,6 +8,7 @@
     "context": "this.m.Name = 'Boondock Bow'"
   },
   {
+    "ID": 293419136,
     "key": "Bow, Two-Handed",
     "original": "Bow, Two-Handed",
     "translation": "弓，双手持",
@@ -14,6 +16,7 @@
     "context": "this.m.Categories = 'Bow, Two-Handed'"
   },
   {
+    "ID": 293419137,
     "key": "A very light short bow used by Goblins.",
     "original": "A very light short bow used by Goblins.",
     "translation": "哥布林使用的非常轻的短弓。",

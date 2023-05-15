@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293418025,
     "key": "Armor",
     "original": "Armor",
     "translation": "盔甲",

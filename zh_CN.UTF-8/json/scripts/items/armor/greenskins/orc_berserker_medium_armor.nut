@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293417632,
     "key": "Bone Armor",
     "original": "Bone Armor",
     "translation": "骨甲",

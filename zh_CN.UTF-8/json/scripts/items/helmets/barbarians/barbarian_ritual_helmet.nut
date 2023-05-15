@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293418008,
     "key": "Ritual Helmet",
     "original": "Ritual Helmet",
     "translation": "仪式头盔",

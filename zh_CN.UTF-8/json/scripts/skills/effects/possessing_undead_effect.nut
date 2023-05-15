@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293421678,
     "key": "instance",
     "original": "instance",
     "translation": "instance",
@@ -7,6 +8,7 @@
     "context": "typeof _p == 'instance'"
   },
   {
+    "ID": 293421679,
     "key": " lost concentration",
     "original": " lost concentration",
     "translation": " 神情恍惚",
@@ -14,6 +16,7 @@
     "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' lost concentration'"
   },
   {
+    "ID": 293421680,
     "key": "Possessing Undead",
     "original": "Possessing Undead",
     "translation": "支配亡灵",

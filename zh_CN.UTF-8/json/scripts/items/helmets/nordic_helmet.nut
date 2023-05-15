@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293418254,
     "key": "Nordic Helmet",
     "original": "Nordic Helmet",
     "translation": "北欧头盔(Nordic Helmet)",
@@ -7,6 +8,7 @@
     "context": "this.m.Name = 'Nordic Helmet'"
   },
   {
+    "ID": 293418255,
     "key": "A nordic helmet guarding face and neck with additional metal plates.",
     "original": "A nordic helmet guarding face and neck with additional metal plates.",
     "translation": "一个北欧头盔，用额外的金属板保护面部和颈部。",

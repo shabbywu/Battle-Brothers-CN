@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293418088,
     "key": "Looted Kettle Hat",
     "original": "Looted Kettle Hat",
     "translation": "掠夺者锅盔",

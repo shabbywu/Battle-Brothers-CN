@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293410612,
     "key": "An abandoned homestead with a collapsed roof.",
     "original": "An abandoned homestead with a collapsed roof.",
     "translation": "屋顶倒塌的废弃宅基地。",

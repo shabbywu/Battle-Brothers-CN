@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293423419,
     "key": "Cancel",
     "original": "Cancel",
     "translation": "取消",

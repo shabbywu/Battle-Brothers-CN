@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293407761,
     "key": "contract activated: ",
     "original": "contract activated: ",
     "translation": "合同已激活：",
@@ -7,6 +8,7 @@
     "context": "'contract activated: ' + _contract.getName() + ' (id: ' + _contract.getID() + ')'"
   },
   {
+    "ID": 293407762,
     "key": " (id: ",
     "original": " (id: ",
     "translation": " (id: ",
@@ -14,6 +16,7 @@
     "context": "'contract activated: ' + _contract.getName() + ' (id: ' + _contract.getID() + ')'"
   },
   {
+    "ID": 293407763,
     "key": "contract removed: ",
     "original": "contract removed: ",
     "translation": "合同已解除：",
@@ -21,6 +24,7 @@
     "context": "'contract removed: ' + this.m.Open.i.getID()"
   },
   {
+    "ID": 293407764,
     "key": "showing contract: ",
     "original": "showing contract: ",
     "translation": "展示合约：",
@@ -28,6 +32,7 @@
     "context": "'showing contract: ' + _c.getName() + ' (id: ' + _c.getID() + ')'"
   },
   {
+    "ID": 293407765,
     "key": "contract added: ",
     "original": "contract added: ",
     "translation": "添加合同：",

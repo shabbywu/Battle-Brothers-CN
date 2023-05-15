@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293417638,
     "key": "Hide Armor",
     "original": "Hide Armor",
     "translation": "皮铠",

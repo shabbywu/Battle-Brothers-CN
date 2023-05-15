@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293410423,
     "key": "A cypress tree. Blocks movement and line of sight.",
     "original": "A cypress tree. Blocks movement and line of sight.",
     "translation": "一棵柏树。 阻挡了移动和视线。",
@@ -7,6 +8,7 @@
     "context": "return 'A cypress tree. Blocks movement and line of sight.';"
   },
   {
+    "ID": 293410424,
     "key": "Cypress",
     "original": "Cypress",
     "translation": "柏树",

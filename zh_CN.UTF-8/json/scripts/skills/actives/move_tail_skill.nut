@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293420178,
     "key": "Move Tail",
     "original": "Move Tail",
     "translation": "移动尾部",
@@ -7,6 +8,7 @@
     "context": "this.m.Name = 'Move Tail'"
   },
   {
+    "ID": 293420179,
     "key": " moves its tail",
     "original": " moves its tail",
     "translation": " 移动尾巴",

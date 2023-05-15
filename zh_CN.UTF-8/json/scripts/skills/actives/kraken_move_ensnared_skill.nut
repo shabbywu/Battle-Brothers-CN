@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293420151,
     "key": "Drag",
     "original": "Drag",
     "translation": "拖拽",
@@ -7,6 +8,7 @@
     "context": "this.m.Name = 'Drag'"
   },
   {
+    "ID": 293420152,
     "key": " is dragged towards certain death",
     "original": " is dragged towards certain death",
     "translation": " 被拖向死亡",

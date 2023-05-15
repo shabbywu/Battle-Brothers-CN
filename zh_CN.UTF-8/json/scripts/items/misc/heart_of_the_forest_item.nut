@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293418657,
     "key": "Heart of the Forest",
     "original": "Heart of the Forest",
     "translation": "森林之心",
@@ -7,6 +8,7 @@
     "context": "this.m.Name = 'Heart of the Forest'"
   },
   {
+    "ID": 293418658,
     "key": "A thorny plant part, resembling in shape a human heart.",
     "original": "A thorny plant part, resembling in shape a human heart.",
     "translation": "一种多刺植物的某部分，看起来像人类心脏的形状。",

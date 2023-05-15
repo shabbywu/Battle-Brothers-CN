@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293410417,
     "key": "A bronze statue from an age long past.",
     "original": "A bronze statue from an age long past.",
     "translation": "古早时代的青铜雕像。.",
@@ -7,6 +8,7 @@
     "context": "return 'A bronze statue from an age long past.';"
   },
   {
+    "ID": 293410418,
     "key": "Bronze Statue",
     "original": "Bronze Statue",
     "translation": "铜像",

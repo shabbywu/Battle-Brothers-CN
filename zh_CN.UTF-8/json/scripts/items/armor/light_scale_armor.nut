@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293417673,
     "key": "Light Scale Armor",
     "original": "Light Scale Armor",
     "translation": "轻型鳞甲",
@@ -7,6 +8,7 @@
     "context": "this.m.Name = 'Light Scale Armor'"
   },
   {
+    "ID": 293417674,
     "key": "A sturdy yet flexible armor composed of small, overlapping metal scales.",
     "original": "A sturdy yet flexible armor composed of small, overlapping metal scales.",
     "translation": "一件由细小金属鳞片层层覆盖而成的结实但轻柔的盔甲。",

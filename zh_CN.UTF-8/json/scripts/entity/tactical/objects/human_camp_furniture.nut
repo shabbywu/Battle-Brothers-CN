@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293410382,
     "key": "Wooden furniture for this camp's inhabitants.",
     "original": "Wooden furniture for this camp's inhabitants.",
     "translation": "营地住民的木制家具。",
@@ -7,6 +8,7 @@
     "context": "return \"Wooden furniture for this camp's inhabitants.\";"
   },
   {
+    "ID": 293410383,
     "key": "Furniture",
     "original": "Furniture",
     "translation": "家具",

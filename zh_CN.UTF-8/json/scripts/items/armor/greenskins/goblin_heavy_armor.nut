@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293417626,
     "key": "Heavy Armor",
     "original": "Heavy Armor",
     "translation": "重甲",

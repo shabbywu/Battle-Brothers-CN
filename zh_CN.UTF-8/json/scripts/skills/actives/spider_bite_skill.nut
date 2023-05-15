@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293420448,
     "key": "Webknecht Bite",
     "original": "Webknecht Bite",
     "translation": "蛛后咬(Webknecht Bite)",
@@ -7,6 +8,7 @@
     "context": "this.m.Name = 'Webknecht Bite'"
   },
   {
+    "ID": 293420449,
     "key": "Ripped to shreds",
     "original": "Ripped to shreds",
     "translation": "撕成碎片",

@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293410372,
     "key": "Ruins of crumbled stone.",
     "original": "Ruins of crumbled stone.",
     "translation": "碎石的废墟。",
@@ -7,6 +8,7 @@
     "context": "return 'Ruins of crumbled stone.';"
   },
   {
+    "ID": 293410373,
     "key": "Ruins",
     "original": "Ruins",
     "translation": "废墟",

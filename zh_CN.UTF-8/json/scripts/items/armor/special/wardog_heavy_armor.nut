@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293417854,
     "key": "Heavy Wardog Armor",
     "original": "Heavy Wardog Armor",
     "translation": "重型战犬盔甲",

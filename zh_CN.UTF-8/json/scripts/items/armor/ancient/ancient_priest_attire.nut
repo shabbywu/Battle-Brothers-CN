@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293417570,
     "key": "Ancient Priest Attire",
     "original": "Ancient Priest Attire",
     "translation": "古代祭司服",

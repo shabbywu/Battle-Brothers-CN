@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293418760,
     "key": "A round wooden shield.",
     "original": "A round wooden shield.",
     "translation": "一种圆形的木制盾牌。",
@@ -7,6 +8,7 @@
     "context": "this.m.Description = 'A round wooden shield.'"
   },
   {
+    "ID": 293418761,
     "key": "Wooden Shield",
     "original": "Wooden Shield",
     "translation": "木盾",

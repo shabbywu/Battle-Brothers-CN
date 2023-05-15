@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293418733,
     "key": "Hide is the basis of most armors, and this thick hide taken from an Unhold is especially sturdy.",
     "original": "Hide is the basis of most armors, and this thick hide taken from an Unhold is especially sturdy.",
     "translation": "兽皮是大部分护甲的基本组成，这个巨魔身上取来的厚厚的皮更是特别结实。",
@@ -7,6 +8,7 @@
     "context": "this.m.Description = 'Hide is the basis of most armors, and this thick hide taken from an Unhold is especially sturdy.'"
   },
   {
+    "ID": 293418734,
     "key": "Unhold Hide",
     "original": "Unhold Hide",
     "translation": "巨魔皮",

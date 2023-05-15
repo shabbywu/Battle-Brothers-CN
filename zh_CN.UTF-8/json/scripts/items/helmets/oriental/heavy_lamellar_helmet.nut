@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293418274,
     "key": "Heavy Lamellar Helmet",
     "original": "Heavy Lamellar Helmet",
     "translation": "重型层状头盔",
@@ -7,6 +8,7 @@
     "context": "this.m.Name = 'Heavy Lamellar Helmet'"
   },
   {
+    "ID": 293418275,
     "key": "A heavy helmet made from overlapping metal plates.",
     "original": "A heavy helmet made from overlapping metal plates.",
     "translation": "由重叠的金属板制成的沉重的头盔。",

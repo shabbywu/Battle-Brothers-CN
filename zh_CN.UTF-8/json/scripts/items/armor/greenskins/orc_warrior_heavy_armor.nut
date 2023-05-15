@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293417634,
     "key": "Looted Plate Armor",
     "original": "Looted Plate Armor",
     "translation": "掠夺者板甲",

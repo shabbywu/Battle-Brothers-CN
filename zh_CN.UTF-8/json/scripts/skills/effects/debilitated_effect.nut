@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293421456,
     "key": "Debilitated",
     "original": "Debilitated",
     "translation": "衰弱",

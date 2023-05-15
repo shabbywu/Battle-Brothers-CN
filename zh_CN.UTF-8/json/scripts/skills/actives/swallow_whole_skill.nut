@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293420519,
     "key": "Swallow Whole",
     "original": "Swallow Whole",
     "translation": "囫囵活吞",
@@ -7,6 +8,7 @@
     "context": "this.m.Name = 'Swallow Whole'"
   },
   {
+    "ID": 293420520,
     "key": " devours ",
     "original": " devours ",
     "translation": "吞噬",

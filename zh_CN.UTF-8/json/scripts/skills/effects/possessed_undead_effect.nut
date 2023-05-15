@@ -1,5 +1,6 @@
 [
   {
+    "ID": 293421676,
     "key": "instance",
     "original": "instance",
     "translation": "instance",
@@ -7,6 +8,7 @@
     "context": "typeof _p == 'instance'"
   },
   {
+    "ID": 293421677,
     "key": "Possessed",
     "original": "Possessed",
     "translation": "支配",
