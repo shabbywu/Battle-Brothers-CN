@@ -27,6 +27,7 @@ jobs:
         ./bin/sync-from-paratranz --token ${PARATRANZ_API_TOKEN} --project 7032        
 
     - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
       with:
         token: ${{ github.token }}
         commit-message: 'Auto Sync From ParaTranz'
