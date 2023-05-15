@@ -81,6 +81,7 @@ func main() {
 		}
 	}
 
+	conflict := 0
 	for filename, remoteInfo := range fileNamesToInfo {
 		destFilename := filepath.Join(*JsonBaseDir, strings.Replace(filename, ".json", ".nut", 1))
 
@@ -151,6 +152,7 @@ func main() {
 					// 本地文件被更新, 但未同步至线上
 					if !*ForceUpdate {
 						logger.Printf("文件 %s 被修改且未同步至线上, 跳过同步该文件", destFilename)
+						conflict += 1
 						continue
 					}
 				} else {
@@ -160,6 +162,7 @@ func main() {
 					if !*ForceUpdate {
 						url := fmt.Sprintf("https://paratranz.cn/projects/%d/strings?file=%d", remoteInfo.ProjectID, remoteInfo.ID)
 						logger.Println(fmt.Errorf("文件 %s 冲突, 请到线上 %s 检查在线文件, 如确认无冲突, 可添加 --force 参数强制同步", destFilename, url))
+						conflict += 1
 						continue
 					}
 				}
@@ -169,7 +172,11 @@ func main() {
 		update()
 	}
 
-	logger.Println("🔐文件同步成功, 正在写入文件状态锁...")
+	if conflict != 0 {
+		logger.Printf("共有 %d 个文件未正常同步, 请检查执行日志", conflict)
+	} else {
+		logger.Println("🔐文件同步成功, 正在写入文件状态锁...")
+	}
 	lockContent, err := json.MarshalIndent(lockedInfos, "", "    ")
 	if err != nil {
 		logger.Fatalln("写入文件状态锁失败...")

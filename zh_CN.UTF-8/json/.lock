@@ -10670,8 +10670,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:15.795Z",
         "updatedAt": "2023-05-13T14:21:15.795Z",
-        "modifiedAt": "2023-05-13T14:21:15.81Z",
-        "sha256": "05aa2fd3270d86101efc095048cebda41c0fae871b91e749ca429f828662f853"
+        "modifiedAt": "2023-05-15T07:36:56Z",
+        "sha256": "da747b22d101b946763832346cae1f3e622b0f1d37596abc0975cfdf6028d303"
     },
     "scripts/events/events/dlc4/deserter_origin_volunteer_event.json": {
         "id": 918943,
