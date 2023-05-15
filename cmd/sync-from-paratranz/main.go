@@ -2,6 +2,7 @@ package main
 
 import (
 	"bytes"
+	"crypto/sha256"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
@@ -100,6 +101,8 @@ func main() {
 			if err = os.Chtimes(destFilename, remoteInfo.CreatedAt, remoteInfo.ModifiedAt); err != nil {
 				logger.Fatalln(errors.Wrapf(err, "更新文件 %s 翻译失败", destFilename))
 			}
+			remoteInfo.Sha256Sum = fmt.Sprintf("%x", sha256.Sum256(content))
+			lockedInfos[filename] = remoteInfo
 		}
 
 		if !firstSync {
@@ -115,34 +118,59 @@ func main() {
 				if !os.IsNotExist(err) {
 					logger.Fatalln(errors.Wrapf(err, "更新文件 %s 失败, 无法读取该文件", destFilename))
 				}
+				// 文件不存在, 直接写入创建文件
+				update()
+				continue
 			}
-			// 本地文件被更新
-			if info.ModTime().After(localInfo.ModifiedAt) {
-				// 远程文件被更新
-				if !localInfo.ModifiedAt.Equal(remoteInfo.ModifiedAt) {
-					// 所以, 冲突了
-					url := fmt.Sprintf("https://paratranz.cn/projects/%d/strings?file=%d", remoteInfo.ProjectID, remoteInfo.ID)
-					logger.Fatalln(fmt.Errorf("文件 %s 冲突, 请到线上 %s 检查在线文件, 线上解决冲突后使用 sync-from-paratranz 更新本地文件再重新推送", destFilename, url))
+
+			if info.ModTime().Equal(localInfo.ModifiedAt) {
+				// 本地文件未更新, 只需要判断远程文件即可
+				if localInfo.ModifiedAt.Equal(remoteInfo.ModifiedAt) {
+					// 本地文件未更新
+					// 远程文件也未更新
+					// 跳过更新
+					continue
 				}
-				if !*ForceUpdate {
-					logger.Printf("%+v", localInfo.ModifiedAt)
-					logger.Printf("%+v", remoteInfo.ModifiedAt)
-					logger.Printf("%+v", info.ModTime())
-					logger.Printf("文件 %s 被修改且未同步至线上, 跳过同步该文件", destFilename)
-					fileNamesToInfo[filename] = localInfo
+			} else {
+				// 本地文件可能被更新
+				// 判断 sha256sum 是否真的被更新
+				content, err := ioutil.ReadFile(destFilename)
+				if err != nil {
+					logger.Fatalln(errors.Wrapf(err, "更新文件 %s 失败, 无法读取该文件", destFilename))
+				}
+				digest := fmt.Sprintf("%x", sha256.Sum256(content))
+				if digest == localInfo.Sha256Sum {
+					if localInfo.ModifiedAt.Equal(remoteInfo.ModifiedAt) {
+						// 本地文件未更新
+						// 远程文件也未更新
+						// 跳过更新
+						continue
+					}
+				}
+				if localInfo.ModifiedAt.Equal(remoteInfo.ModifiedAt) {
+					// 本地文件被更新, 但未同步至线上
+					if !*ForceUpdate {
+						logger.Printf("文件 %s 被修改且未同步至线上, 跳过同步该文件", destFilename)
+						continue
+					}
 				} else {
-					update()
+					// 本地文件被更新
+					// 远程文件被更新
+					// 所以, 冲突了
+					if !*ForceUpdate {
+						url := fmt.Sprintf("https://paratranz.cn/projects/%d/strings?file=%d", remoteInfo.ProjectID, remoteInfo.ID)
+						logger.Println(fmt.Errorf("文件 %s 冲突, 请到线上 %s 检查在线文件, 如确认无冲突, 可添加 --force 参数强制同步", destFilename, url))
+						continue
+					}
 				}
-				continue
-			} else if localInfo.ModifiedAt.Equal(remoteInfo.ModifiedAt) {
-				continue
 			}
 		}
+		// 更新文件
 		update()
 	}
 
 	logger.Println("🔐文件同步成功, 正在写入文件状态锁...")
-	lockContent, err := json.MarshalIndent(fileNamesToInfo, "", "    ")
+	lockContent, err := json.MarshalIndent(lockedInfos, "", "    ")
 	if err != nil {
 		logger.Fatalln("写入文件状态锁失败...")
 	}

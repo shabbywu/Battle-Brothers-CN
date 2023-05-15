@@ -34,4 +34,6 @@ type ParaTranzFileInfo struct {
 	CreatedAt  time.Time `json:"createdAt"`
 	UpdatedAt  time.Time `json:"updatedAt"`
 	ModifiedAt time.Time `json:"modifiedAt"`
+
+	Sha256Sum string `json:"sha256,omitempty"`
 }
