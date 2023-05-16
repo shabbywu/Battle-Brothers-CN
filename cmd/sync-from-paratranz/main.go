@@ -147,25 +147,27 @@ func main() {
 						// 跳过更新
 						continue
 					}
-				}
-				if localInfo.ModifiedAt.Equal(remoteInfo.ModifiedAt) {
-					// 本地文件被更新, 但未同步至线上
-					if !*ForceUpdate {
-						logger.Printf("文件 %s 被修改且未同步至线上, 跳过同步该文件", destFilename)
-						conflict += 1
-						continue
-					}
 				} else {
-					// 本地文件被更新
-					// 远程文件被更新
-					// 所以, 冲突了
-					if !*ForceUpdate {
-						url := fmt.Sprintf("https://paratranz.cn/projects/%d/strings?file=%d", remoteInfo.ProjectID, remoteInfo.ID)
-						logger.Println(fmt.Errorf("文件 %s 冲突, 请到线上 %s 检查在线文件, 如确认无冲突, 可添加 --force 参数强制同步", destFilename, url))
-						conflict += 1
-						continue
+					if localInfo.ModifiedAt.Equal(remoteInfo.ModifiedAt) {
+						// 本地文件被更新, 但未同步至线上
+						if !*ForceUpdate {
+							logger.Printf("文件 %s 被修改且未同步至线上, 跳过同步该文件", destFilename)
+							conflict += 1
+							continue
+						}
+					} else {
+						// 本地文件被更新
+						// 远程文件被更新
+						// 所以, 冲突了
+						if !*ForceUpdate {
+							url := fmt.Sprintf("https://paratranz.cn/projects/%d/strings?file=%d", remoteInfo.ProjectID, remoteInfo.ID)
+							logger.Println(fmt.Errorf("文件 %s 冲突, 请到线上 %s 检查在线文件, 如确认无冲突, 可添加 --force 参数强制同步", destFilename, url))
+							conflict += 1
+							continue
+						}
 					}
 				}
+
 			}
 		}
 		// 更新文件
