@@ -3,8 +3,8 @@
     "ID": 293412505,
     "key": "table",
     "original": "table",
-    "translation": "table",
-    "stage": 1,
+    "translation": "",
+    "stage": -1,
     "context": "typeof _id == 'table' || typeof _id == 'instance'"
   },
   {
