@@ -2336,8 +2336,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:13.399Z",
         "updatedAt": "2023-05-13T14:18:13.399Z",
-        "modifiedAt": "2023-05-13T14:18:13.416Z",
-        "sha256": "6d4a1126be18cc382b162c880d466edcbedc356084173103b22001c5116cf42a"
+        "modifiedAt": "2023-05-16T01:40:44Z",
+        "sha256": "20f969f76e87d567e8c7dcc9c9e411d68008d27300419a8e769449ec9fb2ecdd"
     },
     "scripts/dlc/dlc_paladins.json": {
         "id": 918480,
@@ -7944,16 +7944,16 @@
         "filename": "",
         "format": "json",
         "total": 6,
-        "translated": 6,
+        "translated": 5,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
-        "hidden": 0,
+        "hidden": 1,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:14.914Z",
         "updatedAt": "2023-05-13T14:20:14.914Z",
-        "modifiedAt": "2023-05-13T14:20:14.928Z",
-        "sha256": "508d300783cb5273ca98bf134795160177e4f4fcc99bd6d6ebe27f69cdbf8361"
+        "modifiedAt": "2023-05-16T01:50:39Z",
+        "sha256": "8c79c7a453d72de08a30044e5aaa5f0d8c6d4e414b6e5d8c3b7cd33168a06d5d"
     },
     "scripts/events/event_manager.json": {
         "id": 918792,

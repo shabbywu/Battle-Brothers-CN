@@ -38,7 +38,7 @@
     "ID": 293410161,
     "key": "With the 'Manhunters' origin you can make prisoners after every battle against humans and force them to fight for you.",
     "original": "With the 'Manhunters' origin you can make prisoners after every battle against humans and force them to fight for you.",
-    "translation": "拥有“猎人”背景，你可以在每场与人类的战斗后俘虏他们，并迫使他们为你而战。",
+    "translation": "选择“猎人”起源，你可以在每场与人类的战斗后俘虏他们，并迫使他们为你而战。",
     "stage": 1
   },
   {
