@@ -113,6 +113,7 @@ func (p *API) GetFileTranslation(projectID, fileID int) ([]Entity, error) {
 	}
 	entities := []Entity{}
 	respContent := resp.Bytes()
+	respContent = bytes.ReplaceAll(respContent, []byte("\\\\n"), []byte("\\n"))
 	if err := json.Unmarshal(respContent, &entities); err != nil {
 		return nil, errors.Wrapf(err, "Resp Content: \"%s\"", string(respContent))
 	}

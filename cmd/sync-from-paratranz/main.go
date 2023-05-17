@@ -110,9 +110,9 @@ func core() {
 		if conflict != 0 {
 			logger.Printf("共有 %d 个文件未正常同步, 请检查执行日志", conflict)
 		} else if err != nil {
-			logger.Println("🔐文件同步成功, 正在写入文件状态锁...")
-		} else {
 			return
+		} else {
+			logger.Println("🔐文件同步成功, 正在写入文件状态锁...")
 		}
 		lockContent, err := json.MarshalIndent(lockedInfos, "", "    ")
 		if err != nil {

@@ -39272,8 +39272,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:05.329Z",
         "updatedAt": "2023-05-17T15:33:53.238Z",
-        "modifiedAt": "2023-05-17T15:33:54Z",
-        "sha256": "af58f2696bb2f5e4447372a4bc11f3f8916fd1dee08369c2c733fa7104bbc4f7"
+        "modifiedAt": "2023-05-17T23:19:52Z",
+        "sha256": "baeed650c70c7121fc7f260bc807e3ea4b13bc11ad1080f60d27f44db1098bdf"
     },
     "scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.json": {
         "id": 920532,

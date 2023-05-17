@@ -342,7 +342,7 @@
     "ID": 293423000,
     "key": "\n\nHealing up all your men will take between [color=",
     "original": "\n\nHealing up all your men will take between [color=",
-    "translation": "治愈所有士兵将需要一段时间 [color=\"",
+    "translation": "\n\n治愈所有士兵将需要一段时间 [color=",
     "stage": 1,
     "context": "desc = desc + '\n\nHealing up all your men will take between [color=' + this.Const.UI.Color.PositiveValue + ']' + heal.DaysMin + '[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']' + heal.DaysMax + '[/color] days and requires between '"
   },
