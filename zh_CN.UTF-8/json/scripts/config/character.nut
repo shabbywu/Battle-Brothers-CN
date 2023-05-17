@@ -38,7 +38,7 @@
     "ID": 293403743,
     "key": "Catching Breath",
     "original": "Catching Breath",
-    "translation": "捕捉呼吸",
+    "translation": "喘息",
     "stage": 1
   },
   {
