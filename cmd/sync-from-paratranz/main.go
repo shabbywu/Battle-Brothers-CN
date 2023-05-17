@@ -50,6 +50,7 @@ func main() {
 	flag.Parse()
 	defer func() {
 		if err := recover(); err != nil {
+			log.Println(err)
 			time.Sleep(time.Second * 2)
 			os.Exit(1)
 		}
@@ -108,8 +109,10 @@ func core() {
 	defer func() {
 		if conflict != 0 {
 			logger.Printf("共有 %d 个文件未正常同步, 请检查执行日志", conflict)
-		} else {
+		} else if err != nil {
 			logger.Println("🔐文件同步成功, 正在写入文件状态锁...")
+		} else {
+			return
 		}
 		lockContent, err := json.MarshalIndent(lockedInfos, "", "    ")
 		if err != nil {
@@ -220,7 +223,6 @@ func core() {
 							}
 						}
 					}
-
 				}
 			}
 			// 更新文件
