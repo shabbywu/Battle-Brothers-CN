@@ -44,7 +44,7 @@ msgstr "撕毁了合同"
 
 # scripts/contracts/contract.nut
 msgid "Something seems wrong."
-msgstr "好像有问题。"
+msgstr "好像有点不对劲。"
 
 # scripts/contracts/contract.nut
 msgid "\" not found for contract \""

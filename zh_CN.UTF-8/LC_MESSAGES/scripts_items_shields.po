@@ -15,12 +15,12 @@ msgstr "一面由皮革与帆布覆盖的三角形木制盾牌。"
 # scripts/items/shields/faction_kite_shield.nut
 # scripts/items/shields/kite_shield.nut
 msgid "Kite Shield"
-msgstr "筝型盾"
+msgstr "筝形盾"
 
 # scripts/items/shields/faction_kite_shield.nut
 # scripts/items/shields/kite_shield.nut
 msgid "An elongated wooden shield covered in leather that offers good protection also to the lower body. Somewhat bulky to handle in close combat engagements."
-msgstr "一种用皮革覆盖的细长木制盾牌，甚至能为下半身提供良好的防御。 但在近距离作战中显得有些笨重。"
+msgstr "一块覆盖着皮革的细长木制盾牌，对下半身也能提供很好的保护。在近距离战斗中有点笨重。"
 
 # scripts/items/shields/wooden_shield.nut
 # scripts/items/shields/faction_wooden_shield.nut
@@ -38,7 +38,7 @@ msgstr "小圆盾"
 
 # scripts/items/shields/buckler_shield.nut
 msgid "A small but sturdy shield gripped in the fist. Offers poor protection against ranged attacks but can be useful in deflecting blows in melee."
-msgstr "一种可以紧握的小而坚固的盾牌。对远程攻击的防护较差，但在近身作战中很有用。"
+msgstr "一种可以紧握的小而坚固的盾牌。对远程攻击的防护较差，但在近战中可以有效地偏转打击。"
 
 # scripts/items/shields/shield.nut
 msgid "Melee Defense [color="

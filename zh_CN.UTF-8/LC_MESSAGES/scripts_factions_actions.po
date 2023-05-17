@@ -105,7 +105,7 @@ msgstr "兽人(Orcs)"
 # scripts/factions/actions/defend_undead_action.nut
 # scripts/factions/actions/send_undead_roamers_action.nut
 msgid "Something seems wrong."
-msgstr "好像有问题。"
+msgstr "好像有点不对劲。"
 
 # scripts/factions/actions/receive_ship_action.nut
 # scripts/factions/actions/send_ship_action.nut
@@ -143,7 +143,7 @@ msgstr "一群野蛮人出去狩猎。"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Alps"
-msgstr "夢魘(Alps)"
+msgstr "梦魇(Alps)"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Hexen"
@@ -179,7 +179,7 @@ msgstr "蛛魔(Webknechts)"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "Nachzehrers"
-msgstr "食屍鬼(Nachzehrers)"
+msgstr "食尸鬼(Nachzehrers)"
 
 # scripts/factions/actions/send_beast_roamers_action.nut
 msgid "One or more lumbering giants."

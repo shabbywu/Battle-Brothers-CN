@@ -1,20 +1,7 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-05 16:12+0000\n"
-"PO-Revision-Date: 2023-05-09 11:54+0000\n"
-"Last-Translator: Rayforward <939839415@qq.com>\n"
-"Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/"
-"projects/Battle-Brothers-CN/scripts_items_helmets/zh_Hans/>\n"
-"Language: zh_CN\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.15.2\n"
 
-#
 # scripts/items/helmets/adorned_closed_flat_top_with_mail.nut
 msgid "Adorned Closed Flat Top"
 msgstr "装饰封闭平顶盔"
@@ -33,11 +20,11 @@ msgstr "一个带有呼吸孔的全密封金属头盔。 这是一个真正的�
 
 # scripts/items/helmets/aketon_cap.nut
 msgid "Aketon Cap"
-msgstr "衬甲帽"
+msgstr "棉衬帽"
 
 # scripts/items/helmets/aketon_cap.nut
 msgid "A padded cloth cap."
-msgstr "一种有衬里的布垫帽。"
+msgstr "一顶有衬里的布帽。"
 
 # scripts/items/helmets/barbute_helmet.nut
 msgid "Barbute Helmet"
@@ -109,15 +96,15 @@ msgstr "异教徒兜帽"
 
 # scripts/items/helmets/cultist_hood.nut
 msgid "A rough spun cloth bag with two holes in it."
-msgstr "有两个圆孔的粗纺布包。"
+msgstr "一个粗糙的带两个洞的布袋。"
 
 # scripts/items/helmets/cultist_leather_hood.nut
 msgid "Cultist Leather Hood"
-msgstr "异教徒皮帽"
+msgstr "异教徒皮兜帽"
 
 # scripts/items/helmets/cultist_leather_hood.nut
 msgid "A thick leather hood that covers the head and neck but limits vision."
-msgstr "覆盖头部和颈部但限制视力的厚皮风帽。"
+msgstr "覆盖头部和颈部但限制视力的厚皮兜帽。"
 
 # scripts/items/helmets/dark_cowl.nut
 msgid "Dark Cowl"
@@ -209,7 +196,7 @@ msgstr "一种扁平的全金属头盔，有鼻翼保护，下面还有链甲。
 
 # scripts/items/helmets/full_aketon_cap.nut
 msgid "Full Aketon Cap"
-msgstr "全皮帽"
+msgstr "全衬垫帽"
 
 # scripts/items/helmets/full_aketon_cap.nut
 msgid "A large padded cloth cap also covering the neck."
@@ -225,7 +212,7 @@ msgstr "一个带有呼吸孔的全密封金属头盔。 有着良好的防护�
 
 # scripts/items/helmets/full_leather_cap.nut
 msgid "Full Leather Cap"
-msgstr "强化全皮帽"
+msgstr "全皮帽"
 
 # scripts/items/helmets/full_leather_cap.nut
 msgid "A closed leather cap that protects the head and neck. Padded for extra protection."
@@ -281,7 +268,7 @@ msgstr "被击中 [b]"
 
 # scripts/items/helmets/helmet.nut
 msgid "Maximum Fatigue [color="
-msgstr "最大疲劳[color="
+msgstr "最大疲劳 [color="
 
 # scripts/items/helmets/helmet.nut
 msgid "[/b] damage and has been destroyed!"
@@ -365,7 +352,7 @@ msgstr "鼻翼盔"
 
 # scripts/items/helmets/nasal_helmet.nut
 msgid "A metal helmet with added noseguard."
-msgstr "带鼻翼的金属头盔。"
+msgstr "一顶加了鼻护板的金属头盔。"
 
 # scripts/items/helmets/nasal_helmet_with_closed_mail.nut
 msgid "Nasal Helmet with Closed Mail"
@@ -385,11 +372,11 @@ msgstr "一个带着链甲鼻翼的金属头盔。"
 
 # scripts/items/helmets/nasal_helmet_with_rusty_mail.nut
 msgid "Nasal Helmet With Rusty Mail"
-msgstr "生锈的链甲鼻翼盔"
+msgstr "带生锈链甲鼻翼盔"
 
 # scripts/items/helmets/nasal_helmet_with_rusty_mail.nut
 msgid "A worn and used helmet with a rusty mail coif."
-msgstr "一个生锈的破旧链甲头盔。"
+msgstr "一顶破旧头盔带着生锈的链甲科伊夫帽。"
 
 # scripts/items/helmets/nordic_helmet.nut
 msgid "Nordic Helmet"
@@ -413,7 +400,7 @@ msgstr "开放式皮帽"
 
 # scripts/items/helmets/open_leather_cap.nut
 msgid "A sturdy leather cap that is not covering the ears and neck."
-msgstr "一种不覆盖耳朵和脖子的坚固皮帽。"
+msgstr "一顶不覆盖耳朵和脖子的结实皮帽。"
 
 # scripts/items/helmets/padded_flat_top_helmet.nut
 msgid "Padded Flat Top Helmet"
@@ -425,11 +412,11 @@ msgstr "一种扁平的全金属头盔，鼻子下面有棉做的内衬。"
 
 # scripts/items/helmets/padded_kettle_hat.nut
 msgid "Padded Kettle hat"
-msgstr "棉内衬锅盔"
+msgstr "衬垫锅盔"
 
 # scripts/items/helmets/padded_kettle_hat.nut
 msgid "A full-metal helmet with a broad rim and a padded coif underneath."
-msgstr "一个带宽边的全金属头盔，下面有一个衬垫。"
+msgstr "一顶带宽边的全金属头盔，下面带有头巾式帽。"
 
 # scripts/items/helmets/padded_nasal_helmet.nut
 msgid "Padded Nasal Helmet"
@@ -465,11 +452,11 @@ msgstr "带有额外金属鼻翼的链甲盔。"
 
 # scripts/items/helmets/rusty_mail_coif.nut
 msgid "Rusty Mail Coif"
-msgstr "生锈的链甲盔"
+msgstr "生锈的链甲科伊夫帽"
 
 # scripts/items/helmets/rusty_mail_coif.nut
 msgid "A rusty mail coif that still offers good protection - it leaves horrible stains though."
-msgstr "一个生锈的头盔，仍然还能提供很好的保护－它布满了可怕的污渍。"
+msgstr "一顶仍然提供了很好保护的生锈链甲科伊夫帽－尽管它会留下可怕的污渍。"
 
 # scripts/items/helmets/sallet_helmet.nut
 msgid "Sallet Helmet"
@@ -493,7 +480,7 @@ msgstr "草帽"
 
 # scripts/items/helmets/straw_hat.nut
 msgid "A crude straw hat to protect against the sun."
-msgstr "一顶带有遮阳效果的粗制草帽。"
+msgstr "一顶遮阳用的粗制草帽。"
 
 # scripts/items/helmets/undertaker_hat.nut
 msgid "Undertaker's Hat"

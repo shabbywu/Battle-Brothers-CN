@@ -1,20 +1,6 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-08 11:09+0000\n"
-"PO-Revision-Date: 2023-05-08 11:09+0000\n"
-"Last-Translator: Rayforward <939839415@qq.com>\n"
-"Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/"
-"projects/Battle-Brothers-CN/scripts_scenarios_world/zh_Hans/>\n"
-"Language: zh_CN\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.15.2\n"
-
-#
 
 # scripts/scenarios/world/southern_quickstart_scenario.nut
 # scripts/scenarios/world/early_access_scenario.nut
@@ -101,8 +87,7 @@ msgstr "达库尔异教徒"
 
 # scripts/scenarios/world/cultists_scenario.nut
 msgid "When %name% joined, he warmly called you captain, saying \"tis a proper manner to pursue the path into the black from whence we came\"."
-msgstr "当%name%加入时，他热情地称你为队长，说“这是一种从黑暗中追求我们来时道路的正确"
-"方式”。"
+msgstr "当%name%加入时，他热情地称你为队长，说“这是一种从黑暗中追求我们来时道路的正确方式”。"
 
 # scripts/scenarios/world/cultists_scenario.nut
 msgid "A quiet man, %name% has shadows beneath his fingerprints, running like the brine beneath a pallid shore. When he shook your hand, it was as though you could hear the hissing of your sanity."

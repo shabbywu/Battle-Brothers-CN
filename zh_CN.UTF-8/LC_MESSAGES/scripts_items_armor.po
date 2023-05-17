@@ -1,20 +1,7 @@
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-05 16:12+0000\n"
-"PO-Revision-Date: 2023-05-09 11:54+0000\n"
-"Last-Translator: Rayforward <939839415@qq.com>\n"
-"Language-Team: Chinese (Simplified) <http://battle-brothers-cn.shabbywu.cn/"
-"projects/Battle-Brothers-CN/scripts_items_armor/zh_Hans/>\n"
-"Language: zh_CN\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.15.2\n"
 
-#
 # scripts/items/armor/werewolf_mail_armor.nut
 # scripts/items/armor/werewolf_hide_armor.nut
 msgid "Reduces the Resolve of any opponent engaged in melee by [color="
@@ -82,11 +69,11 @@ msgstr "一种简单的链甲衬衫。提供合理的保护来防止劈砍和戳
 
 # scripts/items/armor/blotched_gambeson.nut
 msgid "Blotched Gambeson"
-msgstr "斑点软铠甲"
+msgstr "补丁软甲"
 
 # scripts/items/armor/blotched_gambeson.nut
 msgid "A padded gambeson that has seen lots of patching and repairing."
-msgstr "一种有衬垫的软铠甲，有很多修复过的补丁。"
+msgstr "一件有衬垫的软甲，经历了多次修理和补缀。"
 
 # scripts/items/armor/butcher_apron.nut
 msgid "Butcher's Apron"
@@ -118,7 +105,7 @@ msgstr "异教徒皮袍"
 
 # scripts/items/armor/cultist_leather_robe.nut
 msgid "A thick leather armor covered with additional leather patches and occult insignia."
-msgstr "一种厚厚的皮甲，覆盖着额外的皮片和神秘的徽章。"
+msgstr "一件厚厚的皮甲，覆盖着额外的皮片和神秘的徽章。"
 
 # scripts/items/armor/decayed_coat_of_plates.nut
 msgid "Decayed Coat of Plates"
@@ -154,15 +141,15 @@ msgstr "一件由长链甲与皮革软甲铆接而成的传统盔甲。"
 
 # scripts/items/armor/gambeson.nut
 msgid "Gambeson"
-msgstr "棉制软铠"
+msgstr "软甲"
 
 # scripts/items/armor/gambeson.nut
 msgid "A sturdy and heavy padded tunic that offers decent protection."
-msgstr "一件结实而厚重的棉衣，能提供很好的保护。"
+msgstr "一件能提供适当保护的结实而厚重的衬垫束腰外衣。"
 
 # scripts/items/armor/heavy_lamellar_armor.nut
 msgid "Heavy Lamellar Armor"
-msgstr "重型层状板甲"
+msgstr "重型札甲"
 
 # scripts/items/armor/heavy_lamellar_armor.nut
 msgid "A heavy lamellar armor that covers most parts of the body with thick, overlapping metal plates for maximum protection."
@@ -178,19 +165,19 @@ msgstr "重且特别精心制作的链锁子甲，有附加的锁子手套和软
 
 # scripts/items/armor/lamellar_harness.nut
 msgid "Lamellar Harness"
-msgstr "层状甲胄"
+msgstr "札甲"
 
 # scripts/items/armor/lamellar_harness.nut
 msgid "A body armor made of thick overlapping metal plates that cover most of the upper body."
-msgstr "一种由厚重的重叠金属板制成的盔甲，覆盖了上半身的大部分。"
+msgstr "一件由厚重的重叠金属板制成的盔甲，覆盖了上半身的大部分。"
 
 # scripts/items/armor/leather_lamellar.nut
 msgid "Leather Lamellar Armor"
-msgstr "皮革层状甲"
+msgstr "皮革札甲"
 
 # scripts/items/armor/leather_lamellar.nut
 msgid "Numerous overlapping leather plates provide decent protection for most of the upper body."
-msgstr "一件由许多重叠状皮革制成的盔甲,对大部分的上身提供了良好的保护。"
+msgstr "许多重叠的皮革板为大部分上半身提供了体面的保护。"
 
 # scripts/items/armor/leather_scale_armor.nut
 msgid "Leather Scale Armor"
@@ -202,11 +189,11 @@ msgstr "一件拥有厚实皮革鳞片提供额外防护的盔甲。"
 
 # scripts/items/armor/leather_tunic.nut
 msgid "Leather Tunic"
-msgstr "皮革外套"
+msgstr "皮革束腰外衣"
 
 # scripts/items/armor/leather_tunic.nut
 msgid "A leather vest ontop of a cloth tunic for improved protection."
-msgstr "一件为改善保护而做的皮革背心。"
+msgstr "一件穿在布束腰外衣外的皮背心，以加强保护作用。"
 
 # scripts/items/armor/leather_wraps.nut
 msgid "Leather Wraps"
@@ -214,7 +201,7 @@ msgstr "皮外衣"
 
 # scripts/items/armor/leather_wraps.nut
 msgid "Various patches of rough leather sewn together."
-msgstr "各种粗糙的皮革缝合在一起的外衣。"
+msgstr "一块块粗糙的皮革缝在一起。"
 
 # scripts/items/armor/light_scale_armor.nut
 msgid "Light Scale Armor"
@@ -230,7 +217,7 @@ msgstr "亚麻束腰外衣"
 
 # scripts/items/armor/linen_tunic.nut
 msgid "A simple cloth tunic. Fashionable but offering little in protection."
-msgstr "一件简单的布外衣。时尚但几乎没有提供保护。"
+msgstr "一件简单的布束腰外衣。时尚，但提供的保护很少。"
 
 # scripts/items/armor/mail_hauberk.nut
 msgid "Mail Hauberk"
@@ -254,7 +241,7 @@ msgstr "僧袍"
 
 # scripts/items/armor/monk_robe.nut
 msgid "A rugged, large robe made of simple cloth usually worn by monks and similar individuals who don't care for fashion."
-msgstr "一种粗犷的僧袍，由简单的布料制成，通常看到僧侣和不追求时尚的人穿。"
+msgstr "一件粗犷的僧袍，由简单的布料制成，通常看到僧侣和不追求时尚的人穿。"
 
 # scripts/items/armor/noble_mail_armor.nut
 msgid "Noble Mail"
@@ -282,11 +269,11 @@ msgstr "一件用皮革配件加固以增加保护的外套。"
 
 # scripts/items/armor/padded_surcoat.nut
 msgid "Padded Surcoat"
-msgstr "棉外衣"
+msgstr "加厚外套"
 
 # scripts/items/armor/padded_surcoat.nut
 msgid "A cloth mantle padded with woolen filling."
-msgstr "一件用毛料填充的布衣。"
+msgstr "一件用羊毛填充的布衣。"
 
 # scripts/items/armor/patched_mail_shirt.nut
 msgid "Patched Mail Shirt"
@@ -306,11 +293,11 @@ msgstr "一件黑色的皮革外套，外面罩了一件毛皮大衣。"
 
 # scripts/items/armor/ragged_surcoat.nut
 msgid "Rugged Surcoat"
-msgstr "粗糙的外衣"
+msgstr "耐用外套"
 
 # scripts/items/armor/ragged_surcoat.nut
 msgid "A padded leather mantle stuffed for added protection. Usually worn under armor."
-msgstr "一件填充了皮革的外套，以增加保护。通常穿在盔甲之下。"
+msgstr "一件用填充物增加了防护力的皮革外套。通常穿在盔甲之下。"
 
 # scripts/items/armor/reinforced_leather_tunic.nut
 msgid "Reinforced Leather Armor"
@@ -354,27 +341,27 @@ msgstr "一种用金属板加固的长皮大衣，套在结实的锁子甲上。
 
 # scripts/items/armor/tattered_sackcloth.nut
 msgid "Tattered Sackcloth"
-msgstr "破烂的麻布片"
+msgstr "破烂粗布衣"
 
 # scripts/items/armor/tattered_sackcloth.nut
 msgid "Barely better than running naked."
-msgstr "穿上这个还不如裸奔呢。"
+msgstr "比裸奔好不了多少。"
 
 # scripts/items/armor/thick_dark_tunic.nut
 msgid "Dark Thick Tunic"
-msgstr "黑暗的厚外套"
+msgstr "黑厚束腰外衣"
 
 # scripts/items/armor/thick_dark_tunic.nut
 msgid "A dark and thick cloth tunic consisting of multiple layers to protect against weather and scratches."
-msgstr "一种又黑又厚的多层布外衣，用于应对日常天气和擦伤。"
+msgstr "一件由多层组成的黑色厚布束腰外衣，用于抵御天气和刮伤。"
 
 # scripts/items/armor/thick_tunic.nut
 msgid "Thick Tunic"
-msgstr "厚皮外衣"
+msgstr "厚束腰外衣"
 
 # scripts/items/armor/thick_tunic.nut
 msgid "A thick cloth tunic consisting of multiple layers to protect against weather and scratches."
-msgstr "一种厚实的多层布外衣，用于应对日常天气和擦伤。"
+msgstr "一件由多层组成的厚布束腰外衣，用于抵御天气和刮伤。"
 
 # scripts/items/armor/undertaker_apron.nut
 msgid "Undertaker's Apron"

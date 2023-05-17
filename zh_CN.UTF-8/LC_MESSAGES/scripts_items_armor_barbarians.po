@@ -13,7 +13,7 @@ msgstr "兽皮甲"
 
 # scripts/items/armor/barbarians/animal_hide_armor.nut
 msgid "Heavy hides patched together to create a decent makeshift armor."
-msgstr "用兽皮拼凑而成笨重铠甲。"
+msgstr "厚重的兽皮拼接在一起，形成一件像样的临时盔甲。"
 
 # scripts/items/armor/barbarians/barbarian_ritual_armor.nut
 msgid "Ritual Armor"
@@ -37,11 +37,11 @@ msgstr "兽皮与骨头在北方是常见的材料。 这件盔甲是用这两�
 
 # scripts/items/armor/barbarians/reinforced_animal_hide_armor.nut
 msgid "Reinforced Animal Hide Armor"
-msgstr "强化兽皮甲"
+msgstr "加固兽皮甲"
 
 # scripts/items/armor/barbarians/reinforced_animal_hide_armor.nut
 msgid "A reinforced animal hide armor fashioned from thick leather pieces with added mail and metal scales."
-msgstr "一种由厚皮革与链甲碎片，金属鳞片塑造而成强化兽皮甲。"
+msgstr "一件加固的兽皮甲，由厚厚的皮革制成，加上了链甲和金属鳞片。"
 
 # scripts/items/armor/barbarians/rugged_scale_armor.nut
 msgid "Rugged Scale Armor"

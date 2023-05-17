@@ -1088,7 +1088,7 @@ msgstr "斩首"
 
 # scripts/skills/actives/decapitate.nut
 msgid "[/color] damage depending on how wounded the target already is, of which [color="
-msgstr "[/color]造成伤害取决于目标已受伤的程度，其中[color="
+msgstr "[/color]伤害（取决于目标已受伤的程度），其中[color="
 
 # scripts/skills/actives/decapitate.nut
 msgid "A devastating blow aimed to decapitate the target on the spot. Does more damage to hitpoints, the more the target is already wounded. Killing the target will always decapitate it, if at all possible."
@@ -1636,7 +1636,7 @@ msgstr "]-15%[/color] 命中几率"
 
 # scripts/skills/actives/puncture.nut
 msgid "A well-placed attack at the opponent armor's weakspots. Ignores all armor but is harder to hit with and can not land critical hits for additional damage, nor inflict additional damage with double grip."
-msgstr "对对手盔甲的缝隙的一次适当的攻击。 忽视所有护甲，但更难击中，并且不能成为造成额外伤害的致命攻击，也不能用双手持握造成额外伤害。"
+msgstr "对对手盔甲缝隙的一次适当的攻击。忽视所有护甲，但更难击中，不能暴击造成额外伤害，也不能双手持握造成额外伤害。"
 
 # scripts/skills/actives/quick_shot.nut
 msgid "Quick Shot"

@@ -476,7 +476,7 @@ msgstr "很少有生物能像所谓的“复仇之魂”那样难以理解。然
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Alp"
-msgstr "夢魘"
+msgstr "梦魇"
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Hexe"
@@ -508,7 +508,7 @@ msgstr "蛛魔"
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Nachzehrer"
-msgstr "食屍鬼"
+msgstr "食尸鬼"
 
 # scripts/items/misc/anatomist/research_notes_beasts_item.nut
 msgid "Tome of Beasts"
@@ -612,7 +612,7 @@ msgstr "死灵法师"
 
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Wiederganger"
-msgstr "维德冈格"
+msgstr "复生者"
 
 # scripts/items/misc/anatomist/research_notes_undead_item.nut
 msgid "Ancient Priest"

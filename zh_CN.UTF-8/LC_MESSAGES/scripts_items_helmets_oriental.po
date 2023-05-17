@@ -68,15 +68,15 @@ msgstr "由重叠的金属板制成的沉重的头盔。"
 
 # scripts/items/helmets/oriental/leather_head_wrap.nut
 msgid "Leather Head Wrap"
-msgstr "皮革头巾"
+msgstr "皮革头套"
 
 # scripts/items/helmets/oriental/leather_head_wrap.nut
 msgid "A thick leather head wrap that protects against cuts and bruises."
-msgstr "保护头部免受割伤和瘀伤的厚皮包头。"
+msgstr "一顶用来防止割伤和擦伤的厚皮头套。"
 
 # scripts/items/helmets/oriental/nomad_head_wrap.nut
 msgid "Nomad Head Wrap"
-msgstr "游牧人头巾"
+msgstr "游牧头套"
 
 # scripts/items/helmets/oriental/nomad_head_wrap.nut
 msgid "A nomad style head wrap suited to protect against sun and heat."
@@ -104,7 +104,7 @@ msgstr "游牧强化头盔"
 
 # scripts/items/helmets/oriental/nomad_reinforced_helmet.nut
 msgid "A nomad helmet reinforced with mail."
-msgstr "用链甲加固的游牧者头盔。"
+msgstr "用链甲加固的游牧头盔。"
 
 # scripts/items/helmets/oriental/southern_head_wrap.nut
 msgid "Southern Head Wrap"

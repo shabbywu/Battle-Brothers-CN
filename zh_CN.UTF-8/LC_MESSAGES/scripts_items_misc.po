@@ -229,7 +229,7 @@ msgstr "黑色油漆"
 
 # scripts/items/misc/paint_black_item.nut
 msgid "A bucket of black paint. Can be used to paint many common helmets."
-msgstr "一桶黑色的油漆。 可以喷涂许多普通的头盔。"
+msgstr "一桶黑色的油漆。可用于给许多普通的头盔上漆。"
 
 # scripts/items/misc/paint_orange_red_item.nut
 msgid "Orange and Red Paint"
@@ -237,7 +237,7 @@ msgstr "橘红色油漆"
 
 # scripts/items/misc/paint_orange_red_item.nut
 msgid "Buckets of yellow and red paint. Can be used to paint many common helmets."
-msgstr "一桶橘红色的油漆。 可以喷涂许多普通的头盔。"
+msgstr "一桶橘红色的油漆。可用于给许多普通的头盔上漆。"
 
 # scripts/items/misc/paint_red_item.nut
 msgid "Red Paint"
@@ -245,7 +245,7 @@ msgstr "红色油漆"
 
 # scripts/items/misc/paint_red_item.nut
 msgid "A bucket of red paint. Can be used to paint many common helmets."
-msgstr "一桶红色的油漆。 可以喷涂许多普通的头盔。"
+msgstr "一桶红色的油漆。可用于给许多普通的头盔上漆。"
 
 # scripts/items/misc/paint_remover_item.nut
 msgid "Paint Remover"
@@ -273,7 +273,7 @@ msgstr "白蓝色油漆"
 
 # scripts/items/misc/paint_white_blue_item.nut
 msgid "Buckets of white and blue paint. Can be used to paint many common helmets."
-msgstr "一桶白蓝色的油漆。 可以喷涂许多普通的头盔。"
+msgstr "一桶白蓝色的油漆。可用于给许多普通的头盔上漆。"
 
 # scripts/items/misc/paint_white_green_yellow_item.nut
 msgid "White, Green and Yellow Paint"
@@ -281,7 +281,7 @@ msgstr "白绿黄油漆"
 
 # scripts/items/misc/paint_white_green_yellow_item.nut
 msgid "Buckets of white, green and yellow paint. Can be used to paint many common helmets."
-msgstr "一桶白绿黄色的油漆。 可以喷涂许多普通的头盔。"
+msgstr "一桶白绿黄色的油漆。可用于给许多普通的头盔上漆。"
 
 # scripts/items/misc/parched_skin_item.nut
 msgid "Parched Skin"
@@ -293,11 +293,11 @@ msgstr "这种来自梦魇身上的皮肤像纸一样薄，在阳光下闪闪发
 
 # scripts/items/misc/petrified_scream_item.nut
 msgid "Petrified Scream"
-msgstr "恐怖尖声"
+msgstr "石化尖声"
 
 # scripts/items/misc/petrified_scream_item.nut
 msgid "An eerie artifact found among the remains of an Alp. Carrying this around may cause bad dreams and bad night's rest."
-msgstr "在梦魇遗骸中发现的一种怪异的神器。 带着它到处走可能会导致做噩梦影响休息。"
+msgstr "在梦魇遗骸中发现的一种怪异的神器。带着它到处走可能会导致做噩梦影响休息。"
 
 # scripts/items/misc/poison_gland_item.nut
 msgid "Poison Gland"
@@ -373,7 +373,7 @@ msgstr "第三只眼"
 
 # scripts/items/misc/third_eye_item.nut
 msgid "Alps have no eyes, yet this eye-like organ can be retrieved from inside their skulls."
-msgstr "夢魘没有眼睛，但这个类似眼睛的器官可以从它们的颅骨内取出。"
+msgstr "梦魇没有眼睛，但这个类似眼睛的器官可以从它们的颅骨内取出。"
 
 # scripts/items/misc/unhold_bones_item.nut
 msgid "Giant Skull and Bones"

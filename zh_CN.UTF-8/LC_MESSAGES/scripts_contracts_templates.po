@@ -55,7 +55,7 @@ msgstr "[img]gfx/ui/events/event_20.png[/img]{一个兜帽男朝你示意，兜�
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "Get "
-msgstr "给我"
+msgstr "在合同完成后获得"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid " total"
@@ -71,7 +71,7 @@ msgstr "我接受你的提议。"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid " crowns on completion"
-msgstr "克朗在合同完成后。"
+msgstr "克朗。"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "I accept this contract."
@@ -103,11 +103,11 @@ msgstr "工作完成后我们需要报酬。"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid " crowns per head you bring back, up to "
-msgstr " 克朗，为你带回的每个人头， up to "
+msgstr " 克朗，为你带回的每个人头，人数最多为"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid " crowns per head you arrive with, up to "
-msgstr " 克朗你每带回一个人头，总共最多给"
+msgstr "克朗（每带回一个人头），人数最多为"
 
 # scripts/contracts/templates/negotiation_templates.nut
 msgid "I'll need some time to think about this."

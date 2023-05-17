@@ -160,7 +160,7 @@ msgstr "]10%[/color]该旗帜的持有者的最高意志值加成，但加成后
 
 # scripts/items/tools/player_banner.nut
 msgid "A company standard to take into battle. Held high, allies will rally around it with renewed resolve, and enemies will know well who is about to crush them."
-msgstr "一柄能投入战斗的旗帜。高举战旗能提升周围友军的决心，并且还能让敌人知道是谁击溃了他们。"
+msgstr "一柄能投入战斗的佣兵团旗帜。高举起来，盟友会团结在其周围，重新振奋士气，而敌人也会知道谁即将粉碎他们。"
 
 # scripts/items/tools/reinforced_throwing_net.nut
 msgid "Reinforced Throwing Net"

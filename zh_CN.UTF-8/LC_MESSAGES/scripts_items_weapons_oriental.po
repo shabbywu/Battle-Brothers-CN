@@ -79,7 +79,7 @@ msgstr "游牧狼牙棒"
 
 # scripts/items/weapons/oriental/nomad_mace.nut
 msgid "A simple wooden mace with a metal head. Weapons like this are popular among the nomads of the deserts."
-msgstr "有金属头的简单的木制狼牙棒。 像这样的武器在沙漠游牧民族中很流行。"
+msgstr "一根带有金属头的简易木制狼牙棒。像这样的武器在沙漠游牧民族中很流行。"
 
 # scripts/items/weapons/oriental/nomad_sling.nut
 msgid "Nomad Sling"
@@ -115,7 +115,7 @@ msgstr "匕首，单手持"
 
 # scripts/items/weapons/oriental/qatal_dagger.nut
 msgid "A curved blade notoriously used by assassins of the southern deserts. Particularly effective against targets already debilitated."
-msgstr "一种弯曲的刀刃，众所周知地被南方沙漠的刺客使用。 对已经削弱的目标特别有效。"
+msgstr "一把弯刀，众所周知地被南方沙漠的刺客使用。对已经削弱的目标特别有效。"
 
 # scripts/items/weapons/oriental/saif.nut
 msgid "Saif"

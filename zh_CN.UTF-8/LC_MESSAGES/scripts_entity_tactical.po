@@ -149,7 +149,7 @@ msgstr "回合开始于："
 
 # scripts/entity/tactical/actor.nut
 msgid "'s armor is hit for [b]"
-msgstr "'s盔甲被击中，受到[b]"
+msgstr "的盔甲被击中，受到[b]"
 
 # scripts/entity/tactical/actor.nut
 msgid "[/b] damage and suffers "
@@ -177,7 +177,7 @@ msgstr "一个"
 
 # scripts/entity/tactical/human.nut
 msgid "Wiederganger "
-msgstr "维德冈格 "
+msgstr "复生者"
 
 # scripts/entity/tactical/player.nut
 msgid " by "

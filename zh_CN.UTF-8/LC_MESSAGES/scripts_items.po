@@ -52,7 +52,7 @@ msgstr "从背包中，但放置在其他地方。"
 
 # scripts/items/item_container.nut
 msgid " to bag because no empty slot was found"
-msgstr "到到背包，因为没有发现空槽位。"
+msgstr "到背包，因为没有发现空槽位。"
 
 # scripts/items/item_container.nut
 msgid ", but it is already placed somewhere else"

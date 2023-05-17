@@ -160,7 +160,7 @@ msgstr "[/color] 伤害(忽略护甲)"
 
 # scripts/skills/skill.nut
 msgid " and the shot goes astray and hits "
-msgstr "虽然子弹偏离了方向，但打中了"
+msgstr "虽然偏离了方向，但打中了"
 
 # scripts/skills/skill.nut
 msgid "Resistance against piercing attacks"
@@ -172,7 +172,7 @@ msgstr " AP[/color][/b] 并产生"
 
 # scripts/skills/skill.nut
 msgid " and the shot goes astray and misses "
-msgstr "但子弹偏离了目标，没有命中。"
+msgstr "但偏离了目标，没有命中。"
 
 # scripts/skills/skill.nut
 msgid "Immune to being knocked back or hooked"
@@ -180,7 +180,7 @@ msgstr "免疫撞退或钩拉"
 
 # scripts/skills/skill.nut
 msgid "[/color] damage to hitpoints, of which [color="
-msgstr "[/color]伤害命中点数，其中[color="
+msgstr "[/color] 生命值伤害，其中[color="
 
 # scripts/skills/skill.nut
 msgid "]Can not be used because this character has taken an oath precluding the use of ranged weapons or tools[/color]"

@@ -278,7 +278,7 @@ msgstr "维齐尔的甲胄"
 
 # scripts/items/armor/named/leopard_armor.nut
 msgid "Glistening Lamellar"
-msgstr "闪光鳞甲"
+msgstr "闪光札甲"
 
 # scripts/items/armor/named/leopard_armor.nut
 msgid "Master Hunter's Armor"
@@ -354,7 +354,7 @@ msgstr "这种盔甲是由一种奇怪的合金制成的，按照野蛮人的标
 
 # scripts/items/armor/named/named_golden_lamellar_armor.nut
 msgid "Golden Lamellar"
-msgstr "金鳞甲"
+msgstr "金札甲"
 
 # scripts/items/armor/named/named_golden_lamellar_armor.nut
 msgid "An extraordinarily well-crafted piece of lamellar armor. It is covered with beaten gold, which makes it truly stand out."

@@ -168,7 +168,7 @@ msgstr "林德瓦姆(Lindwurm)是一种无翼的双足龙，类似于一条巨�
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Nachzehrers are found more often in the southern parts of the world."
-msgstr "食屍鬼在世界南部地区更为常见。"
+msgstr "食尸鬼在世界南部地区更为常见。"
 
 # scripts/dlc/dlc_unhold.nut
 msgid "Explore the world to find legendary locations with legendary treasure."

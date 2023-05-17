@@ -1497,7 +1497,7 @@ msgstr "选择你的战队如何在世界上起步。 根据你的选择，你�
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "A harbor that serves both foreign trading ships and local fishermen. You'll likely be able to book passage by sea to other parts of the continent here."
-msgstr "为对外贸易船和当地渔民服务的港口。 你很可能在这里订到到达大陆其他地方的海上船票。"
+msgstr "为对外贸易船和当地渔民服务的港口。 你很可能在这里订到前往大陆其他地方的海上船票。"
 
 # scripts/ui/screens/tooltip/tooltip_events.nut
 msgid "Toggle between showing and hiding red overlays that indicate tiles blocked with environmental objects (such as trees) that characters can not move onto."

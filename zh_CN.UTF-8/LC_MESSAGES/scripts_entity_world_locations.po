@@ -8,7 +8,7 @@ msgstr ""
 # scripts/entity/world/locations/nomad_ruins_location.nut
 # scripts/entity/world/locations/bandit_ruins_location.nut
 msgid "These ancient ruins cast their shadows far over the surrounding sands."
-msgstr "这些古代遗迹在沙地上拉出长长的阴影。"
+msgstr "这些古老的遗迹把它们的影子远远地投在周围的沙子上。"
 
 # scripts/entity/world/locations/goblin_hideout_location.nut
 # scripts/entity/world/locations/orc_hideout_location.nut
@@ -122,7 +122,7 @@ msgstr "这座城堡早已沉入地下被遗弃，只为更黑暗的生物提供
 
 # scripts/entity/world/locations/undead_crypt_location.nut
 msgid "A long forgotten crypt haunted by the ghosts of the past. The dead won't find sleep here."
-msgstr "一个被昔日的幽灵所萦绕的被遗忘已久的地窖。死者在这里得不到到安息。"
+msgstr "一座被遗忘已久的古墓，被过去的幽灵所缠绕。死者在此无法安息。"
 
 # scripts/entity/world/locations/undead_graveyard_location.nut
 msgid "A place where people have buried their dead, placing them down for their last rest. Or at least they hoped so."

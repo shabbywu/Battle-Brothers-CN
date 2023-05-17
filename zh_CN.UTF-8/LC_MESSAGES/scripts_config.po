@@ -4934,7 +4934,7 @@ msgstr "奥诺夫"
 
 # scripts/config/item_names.nut
 msgid "Pike"
-msgstr "梭矛"
+msgstr "矛"
 
 # scripts/config/item_names.nut
 msgid "Pole"
@@ -7832,7 +7832,7 @@ msgstr "第9"
 
 # scripts/config/strings.nut
 msgid "Alp"
-msgstr "夢魘"
+msgstr "梦魇"
 
 # scripts/config/strings.nut
 msgid "An "
@@ -7932,7 +7932,7 @@ msgstr "第20"
 
 # scripts/config/strings.nut
 msgid "Alps"
-msgstr "夢魘"
+msgstr "梦魇"
 
 # scripts/config/strings.nut
 msgid "Body"
@@ -7944,7 +7944,7 @@ msgstr "大车"
 
 # scripts/config/strings.nut
 msgid "Cold"
-msgstr "寒冷的"
+msgstr "冷淡"
 
 # scripts/config/strings.nut
 msgid "Dawn"
@@ -8004,7 +8004,7 @@ msgstr "没有任何"
 
 # scripts/config/strings.nut
 msgid "Open"
-msgstr "打开"
+msgstr "开放"
 
 # scripts/config/strings.nut
 msgid "Orcs"
@@ -8188,7 +8188,7 @@ msgstr "3"
 
 # scripts/config/strings.nut
 msgid "Allied"
-msgstr "盟军"
+msgstr "盟友"
 
 # scripts/config/strings.nut
 msgid "Axford"
@@ -8504,7 +8504,7 @@ msgstr "猪民(Hogfolk)"
 
 # scripts/config/strings.nut
 msgid "Hostile"
-msgstr "敌对的"
+msgstr "敌对"
 
 # scripts/config/strings.nut
 msgid "Icemark"
@@ -8556,7 +8556,7 @@ msgstr "纽马克(Neumark)"
 
 # scripts/config/strings.nut
 msgid "Neutral"
-msgstr "中性的"
+msgstr "中立"
 
 # scripts/config/strings.nut
 msgid "Offhand"
@@ -8792,7 +8792,7 @@ msgstr "自由人(Free Men)"
 
 # scripts/config/strings.nut
 msgid "Friendly"
-msgstr "友谊赛"
+msgstr "友好"
 
 # scripts/config/strings.nut
 msgid "Froghold"
@@ -9096,7 +9096,7 @@ msgstr "胜任的"
 
 # scripts/config/strings.nut
 msgid "Conscript"
-msgstr "应征入伍"
+msgstr "征召兵"
 
 # scripts/config/strings.nut
 msgid "Cruel Sea"
@@ -9404,7 +9404,7 @@ msgstr "鹿角圈(Antlerfold)"
 
 # scripts/config/strings.nut
 msgid "Arbalester"
-msgstr "阿巴莱斯特"
+msgstr "弩手"
 
 # scripts/config/strings.nut
 msgid "Bald Crown"
@@ -9460,7 +9460,7 @@ msgstr "云峰(Cloudcrest)"
 
 # scripts/config/strings.nut
 msgid "Conscripts"
-msgstr "应征入伍"
+msgstr "征召兵们"
 
 # scripts/config/strings.nut
 msgid "Crows Nest"
@@ -9560,7 +9560,7 @@ msgstr "穆斯里奇(Mooseridge)"
 
 # scripts/config/strings.nut
 msgid "Nachzehrer"
-msgstr "食屍鬼"
+msgstr "食尸鬼"
 
 # scripts/config/strings.nut
 msgid "Niedergard"
@@ -9920,7 +9920,7 @@ msgstr "苔藓森林(Mossy Woods)"
 
 # scripts/config/strings.nut
 msgid "Muddy Earth"
-msgstr "泥泞的地球"
+msgstr "泥泞的地面"
 
 # scripts/config/strings.nut
 msgid "Murky Water"
@@ -9928,7 +9928,7 @@ msgstr "浑浊的水"
 
 # scripts/config/strings.nut
 msgid "Nachzehrers"
-msgstr "食屍鬼"
+msgstr "食尸鬼"
 
 # scripts/config/strings.nut
 msgid "Necromancer"
@@ -10364,7 +10364,7 @@ msgstr "邪恶的树林(Wicked Woods)"
 
 # scripts/config/strings.nut
 msgid "Wiederganger"
-msgstr "维德冈格"
+msgstr "复生者"
 
 # scripts/config/strings.nut
 msgid "Yawning Gaps"
@@ -10688,7 +10688,7 @@ msgstr "白色公司(White Company)"
 
 # scripts/config/strings.nut
 msgid "Wiedergangers"
-msgstr "维德冈格斯"
+msgstr "复生者"
 
 # scripts/config/strings.nut
 msgid "in the desert"
@@ -11104,7 +11104,7 @@ msgstr "喃喃的树林(Murmuring Woods)"
 
 # scripts/config/strings.nut
 msgid "Nomad Cutthroat"
-msgstr "游牧的割喉者"
+msgstr "游牧割喉者"
 
 # scripts/config/strings.nut
 msgid "Orcbane Company"
@@ -11816,7 +11816,7 @@ msgstr "古代仪仗队"
 
 # scripts/config/strings.nut
 msgid "Armored Wiederganger"
-msgstr "装甲威德冈格"
+msgstr "装甲复生者"
 
 # scripts/config/strings.nut
 msgid "Brittle Branch Woods"
@@ -11884,7 +11884,7 @@ msgstr "柳郡山坡(Willowshire Hillside)"
 
 # scripts/config/strings.nut
 msgid "Armored Wiedergangers"
-msgstr "装甲维德冈格"
+msgstr "装甲复生者"
 
 # scripts/config/strings.nut
 msgid "Barbarian Beastmaster"
@@ -11892,7 +11892,7 @@ msgstr "野蛮兽王"
 
 # scripts/config/strings.nut
 msgid "Dark and muddy earth."
-msgstr "黑暗和泥泞的地球。"
+msgstr "黑暗和泥泞的地面。"
 
 # scripts/config/strings.nut
 msgid "Flaming Comet Company"
@@ -12670,7 +12670,7 @@ msgstr "解锁“旋转”技能，该技能允许两个角色在无视控制区
 
 # scripts/config/strings.nut
 msgid "The enemy is battered and beaten. Those few still alive scatter away in all directions. Will you hunt them down to claim their heads and possessions, or declare the battle won?"
-msgstr "敌人被殴打和殴打。那些少数还活着的人向四面八方散去。你会追捕他们以夺取他们的头颅和财产，还是宣布战斗胜利？"
+msgstr "敌人被击溃和打败。那些少数还活着的人向四面八方散去。你是要追踪他们夺取他们的头颅和财物，还是宣布战斗已经赢了呢？"
 
 # scripts/config/strings.nut
 msgid "Unlocks the 'Adrenaline' skill which puts you first in the turn order for the next round, to have another turn before your enemies do. Feel the adrenaline rushing through your veins!"
@@ -13898,7 +13898,7 @@ msgstr "古尔加什戈尔"
 
 # scripts/config/world_location_names.nut
 msgid "Hidden Tents"
-msgstr "隐藏的帐篷"
+msgstr "隐秘的帐篷"
 
 # scripts/config/world_location_names.nut
 msgid "Lost Cottage"
@@ -13934,7 +13934,7 @@ msgstr "毁坏的棚屋"
 
 # scripts/config/world_location_names.nut
 msgid "Ruins of Old"
-msgstr "旧城遗址"
+msgstr "古老遗迹"
 
 # scripts/config/world_location_names.nut
 msgid "Shabby Shack"
@@ -15178,7 +15178,7 @@ msgstr "隐藏的埋葬处"
 
 # scripts/config/world_location_names.nut
 msgid "Hollow Bones Crypt"
-msgstr "中空的骸骨墓穴"
+msgstr "空骨墓穴"
 
 # scripts/config/world_location_names.nut
 msgid "House of the Abyss"

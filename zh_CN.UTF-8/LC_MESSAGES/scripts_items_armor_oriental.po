@@ -32,7 +32,7 @@ msgstr "皮制游牧长袍"
 
 # scripts/items/armor/oriental/leather_nomad_robe.nut
 msgid "A thick cloth robe with added leather parts for increased protection."
-msgstr "一种增加了皮革部件以增强防护的厚布长袍。"
+msgstr "一件增加了皮革部件以增强防护的厚布长袍。"
 
 # scripts/items/armor/oriental/linothorax.nut
 msgid "Linothorax"
@@ -44,7 +44,7 @@ msgstr "由几层亚麻布制成的胸甲。"
 
 # scripts/items/armor/oriental/mail_and_lamellar_plating.nut
 msgid "Mail with Lamellar Plating"
-msgstr "层状金属链甲"
+msgstr "金属札链甲"
 
 # scripts/items/armor/oriental/mail_and_lamellar_plating.nut
 msgid "A lamellar shirt made from interlapping metal plates worn atop a mail shirt."
@@ -112,4 +112,4 @@ msgstr "厚游牧长袍"
 
 # scripts/items/armor/oriental/thick_nomad_robe.nut
 msgid "A double layered robe fashioned from thick cloth."
-msgstr "厚布制成的双层长袍。"
+msgstr "一件厚布制成的双层长袍。"

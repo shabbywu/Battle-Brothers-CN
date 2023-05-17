@@ -24,7 +24,7 @@ msgstr "珠子项链"
 
 # scripts/items/loot/bead_necklace_item.nut
 msgid "A necklace made from various beads typical of northern barbarian tribes."
-msgstr "一种由北方野蛮部落特有的各种珠子制成的项链。"
+msgstr "一条由北方野蛮部落特有的各种珠子制成的项链。"
 
 # scripts/items/loot/bone_figurines_item.nut
 msgid "Bone Figurines"
@@ -96,7 +96,7 @@ msgstr "大珍珠"
 
 # scripts/items/loot/growth_pearls_item.nut
 msgid "The fast growth of Nachzehrer tissue sometimes engulfs small particles or debris and turns them into shimmering pearls that can be found within the creatures. Should fetch a good price at the next city."
-msgstr "食尸鬼组织在快速生长时有时候会吞噬小颗粒或碎屑，并在体内形成闪闪发光的珍珠。 在下一个城市应该能卖个好价钱。"
+msgstr "食尸鬼组织在快速生长时有时候会吞噬小颗粒或碎屑，并在体内形成闪闪发光的珍珠。在下一个城市应该能卖个好价钱。"
 
 # scripts/items/loot/jade_broche_item.nut
 msgid "Jade Brooch"
@@ -160,7 +160,7 @@ msgstr "纹章戒指"
 
 # scripts/items/loot/signet_ring_item.nut
 msgid "A jeweled signet ring. Should fetch a good price at the next city."
-msgstr "一个镶嵌有宝石的纹章戒指。 在下一个城市应该能卖个好价钱。"
+msgstr "一个镶嵌有宝石的纹章戒指。在下一个城市应该能卖个好价钱。"
 
 # scripts/items/loot/silver_bowl_item.nut
 msgid "Silver Bowl"
@@ -168,7 +168,7 @@ msgstr "银碗"
 
 # scripts/items/loot/silver_bowl_item.nut
 msgid "A large silver bowl of remarkable weight. Should fetch a good price at the next city."
-msgstr "一只巨大的银碗。 在下一个城市应该能卖个好价钱。"
+msgstr "一只巨大的银碗。在下一个城市应该能卖个好价钱。"
 
 # scripts/items/loot/silverware_item.nut
 msgid "Silverware"
@@ -176,7 +176,7 @@ msgstr "银器"
 
 # scripts/items/loot/silverware_item.nut
 msgid "An accumulation of silver cutlery. Should fetch a good price at the next city."
-msgstr "一堆银餐具。 在下一个城市应该能卖个好价钱。"
+msgstr "一堆银餐具。在下一个城市应该能卖个好价钱。"
 
 # scripts/items/loot/soul_splinter_item.nut
 msgid "Soul Splinter"
@@ -184,7 +184,7 @@ msgstr "灵魂碎片"
 
 # scripts/items/loot/soul_splinter_item.nut
 msgid "In the dusty remains of Alps sometimes these pitch black splinters can be found. It looks like the stars are shimmering deep within these stones."
-msgstr "在梦魇布满灰尘的遗迹中，有时会发现这些漆黑的碎片。 看起来星星在这些石头的深处闪闪发光。"
+msgstr "在梦魇尘土飞扬的遗骸中，有时会发现这些漆黑的碎片。看起来好似有星星在这些石头的深处闪烁。"
 
 # scripts/items/loot/valuable_furs_item.nut
 msgid "Valuable Furs"
@@ -208,4 +208,4 @@ msgstr "白色珍珠"
 
 # scripts/items/loot/white_pearls_item.nut
 msgid "Rare white pearls in various sizes. Should fetch a good price at the next city."
-msgstr "稀有而又昂贵的白色珍珠。 在下一个城市应该能卖个好价钱。"
+msgstr "稀有而又昂贵的白色珍珠。在下一个城市应该能卖个好价钱。"
