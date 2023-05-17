@@ -8,8 +8,11 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
+	"os/signal"
 	"path/filepath"
 	"strings"
+	"syscall"
+	"time"
 
 	"github.com/pkg/errors"
 	flag "github.com/spf13/pflag"
@@ -45,6 +48,16 @@ func MarshalIndent(v any, prefix, indent string) ([]byte, error) {
 
 func main() {
 	flag.Parse()
+	defer func() {
+		if err := recover(); err != nil {
+			time.Sleep(time.Second * 2)
+			os.Exit(1)
+		}
+	}()
+	core()
+}
+
+func core() {
 	logger := log.Default()
 	if *APIToken == "" {
 		logger.Fatalln("未提供 API Token")
@@ -81,66 +94,90 @@ func main() {
 		}
 	}
 
+	sigs := make(chan os.Signal, 1)
+	interrupt := make(chan bool, 1)
+	done := make(chan error, 1)
+	signal.Notify(sigs, syscall.SIGINT, syscall.SIGTERM)
+
+	go func() {
+		<-sigs
+		interrupt <- true
+	}()
+
 	conflict := 0
-	for filename, remoteInfo := range fileNamesToInfo {
-		destFilename := filepath.Join(*JsonBaseDir, strings.Replace(filename, ".json", ".nut", 1))
-
-		update := func() {
-			logger.Printf("正在更新文件 %s", destFilename)
-			// 远程文件更新, 且无冲突
-			translation, err := cli.GetFileTranslation(*ProjectID, remoteInfo.ID)
-			if err != nil {
-				logger.Fatalln(errors.Wrapf(err, "获取文件 %s 翻译失败", destFilename))
-			}
-			content, err := MarshalIndent(translation, "", "  ")
-			if err != nil {
-				logger.Fatalln(errors.Wrapf(err, "更新文件 %s 翻译失败", destFilename))
-			}
-			if err = ioutil.WriteFile(destFilename, content, 0755); err != nil {
-				logger.Fatalln(errors.Wrapf(err, "更新文件 %s 翻译失败", destFilename))
-			}
-			if err = os.Chtimes(destFilename, remoteInfo.CreatedAt, remoteInfo.ModifiedAt); err != nil {
-				logger.Fatalln(errors.Wrapf(err, "更新文件 %s 翻译失败", destFilename))
-			}
-			remoteInfo.Sha256Sum = fmt.Sprintf("%x", sha256.Sum256(content))
-			lockedInfos[filename] = remoteInfo
+	defer func() {
+		if conflict != 0 {
+			logger.Printf("共有 %d 个文件未正常同步, 请检查执行日志", conflict)
+		} else {
+			logger.Println("🔐文件同步成功, 正在写入文件状态锁...")
 		}
+		lockContent, err := json.MarshalIndent(lockedInfos, "", "    ")
+		if err != nil {
+			logger.Fatalln("写入文件状态锁失败...")
+		}
+		if err := ioutil.WriteFile(lockFileName, lockContent, 0755); err != nil {
+			logger.Fatalln("写入文件状态锁失败...")
+		}
+	}()
 
-		if !firstSync {
-			var localInfo paratranz.ParaTranzFileInfo
-			var ok bool
-			if localInfo, ok = lockedInfos[filename]; !ok {
-				// 本地无该文件的状态锁, 直接更新
-				update()
-				continue
-			}
-			info, err := os.Stat(destFilename)
-			if err != nil {
-				if !os.IsNotExist(err) {
-					logger.Fatalln(errors.Wrapf(err, "更新文件 %s 失败, 无法读取该文件", destFilename))
+	go func() {
+		for filename, remoteInfo := range fileNamesToInfo {
+			select {
+			case <-interrupt:
+				{
+					done <- fmt.Errorf("Ctrl+C 主动退出")
+					return
 				}
-				// 文件不存在, 直接写入创建文件
-				update()
-				continue
+			default:
+
+			}
+			destFilename := filepath.Join(*JsonBaseDir, strings.Replace(filename, ".json", ".nut", 1))
+			update := func() {
+				logger.Printf("正在更新文件 %s", destFilename)
+				// 远程文件更新, 且无冲突
+				translation, err := cli.GetFileTranslation(*ProjectID, remoteInfo.ID)
+				if err != nil {
+					done <- errors.Wrapf(err, "获取文件 %s 翻译失败", destFilename)
+					return
+				}
+				content, err := MarshalIndent(translation, "", "  ")
+				if err != nil {
+					done <- errors.Wrapf(err, "更新文件 %s 翻译失败", destFilename)
+					return
+				}
+				if err = ioutil.WriteFile(destFilename, content, 0755); err != nil {
+					done <- errors.Wrapf(err, "更新文件 %s 翻译失败", destFilename)
+					return
+				}
+				if err = os.Chtimes(destFilename, remoteInfo.CreatedAt, remoteInfo.ModifiedAt); err != nil {
+					done <- errors.Wrapf(err, "更新文件 %s 翻译失败", destFilename)
+					return
+				}
+				remoteInfo.Sha256Sum = fmt.Sprintf("%x", sha256.Sum256(content))
+				lockedInfos[filename] = remoteInfo
 			}
 
-			if info.ModTime().Equal(localInfo.ModifiedAt) {
-				// 本地文件未更新, 只需要判断远程文件即可
-				if localInfo.ModifiedAt.Equal(remoteInfo.ModifiedAt) {
-					// 本地文件未更新
-					// 远程文件也未更新
-					// 跳过更新
+			if !firstSync {
+				var localInfo paratranz.ParaTranzFileInfo
+				var ok bool
+				if localInfo, ok = lockedInfos[filename]; !ok {
+					// 本地无该文件的状态锁, 直接更新
+					update()
 					continue
 				}
-			} else {
-				// 本地文件可能被更新
-				// 判断 sha256sum 是否真的被更新
-				content, err := ioutil.ReadFile(destFilename)
+				info, err := os.Stat(destFilename)
 				if err != nil {
-					logger.Fatalln(errors.Wrapf(err, "更新文件 %s 失败, 无法读取该文件", destFilename))
+					if !os.IsNotExist(err) {
+						done <- errors.Wrapf(err, "更新文件 %s 失败, 无法读取该文件", destFilename)
+						return
+					}
+					// 文件不存在, 直接写入创建文件
+					update()
+					continue
 				}
-				digest := fmt.Sprintf("%x", sha256.Sum256(content))
-				if digest == localInfo.Sha256Sum {
+
+				if info.ModTime().Equal(localInfo.ModifiedAt) {
+					// 本地文件未更新, 只需要判断远程文件即可
 					if localInfo.ModifiedAt.Equal(remoteInfo.ModifiedAt) {
 						// 本地文件未更新
 						// 远程文件也未更新
@@ -148,42 +185,51 @@ func main() {
 						continue
 					}
 				} else {
-					if localInfo.ModifiedAt.Equal(remoteInfo.ModifiedAt) {
-						// 本地文件被更新, 但未同步至线上
-						if !*ForceUpdate {
-							logger.Printf("文件 %s 被修改且未同步至线上, 跳过同步该文件", destFilename)
-							conflict += 1
+					// 本地文件可能被更新
+					// 判断 sha256sum 是否真的被更新
+					content, err := ioutil.ReadFile(destFilename)
+					if err != nil {
+						done <- errors.Wrapf(err, "更新文件 %s 失败, 无法读取该文件", destFilename)
+						return
+					}
+					digest := fmt.Sprintf("%x", sha256.Sum256(content))
+					if digest == localInfo.Sha256Sum {
+						if localInfo.ModifiedAt.Equal(remoteInfo.ModifiedAt) {
+							// 本地文件未更新
+							// 远程文件也未更新
+							// 跳过更新
 							continue
 						}
 					} else {
-						// 本地文件被更新
-						// 远程文件被更新
-						// 所以, 冲突了
-						if !*ForceUpdate {
-							url := fmt.Sprintf("https://paratranz.cn/projects/%d/strings?file=%d", remoteInfo.ProjectID, remoteInfo.ID)
-							logger.Println(fmt.Errorf("文件 %s 冲突, 请到线上 %s 检查在线文件, 如确认无冲突, 可添加 --force 参数强制同步", destFilename, url))
-							conflict += 1
-							continue
+						if localInfo.ModifiedAt.Equal(remoteInfo.ModifiedAt) {
+							// 本地文件被更新, 但未同步至线上
+							if !*ForceUpdate {
+								logger.Printf("文件 %s 被修改且未同步至线上, 跳过同步该文件", destFilename)
+								conflict += 1
+								continue
+							}
+						} else {
+							// 本地文件被更新
+							// 远程文件被更新
+							// 所以, 冲突了
+							if !*ForceUpdate {
+								url := fmt.Sprintf("https://paratranz.cn/projects/%d/strings?file=%d", remoteInfo.ProjectID, remoteInfo.ID)
+								logger.Println(fmt.Errorf("文件 %s 冲突, 请到线上 %s 检查在线文件, 如确认无冲突, 可添加 --force 参数强制同步", destFilename, url))
+								conflict += 1
+								continue
+							}
 						}
 					}
+
 				}
-
 			}
+			// 更新文件
+			update()
 		}
-		// 更新文件
-		update()
-	}
+		done <- nil
+	}()
 
-	if conflict != 0 {
-		logger.Printf("共有 %d 个文件未正常同步, 请检查执行日志", conflict)
-	} else {
-		logger.Println("🔐文件同步成功, 正在写入文件状态锁...")
-	}
-	lockContent, err := json.MarshalIndent(lockedInfos, "", "    ")
-	if err != nil {
-		logger.Fatalln("写入文件状态锁失败...")
-	}
-	if err := ioutil.WriteFile(lockFileName, lockContent, 0755); err != nil {
-		logger.Fatalln("写入文件状态锁失败...")
+	if err = <-done; err != nil {
+		panic(err)
 	}
 }

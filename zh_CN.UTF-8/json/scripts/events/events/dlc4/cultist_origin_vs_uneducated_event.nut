@@ -17,7 +17,7 @@
     "ID": 293414233,
     "key": "]+2[/color] Resolve",
     "original": "]+2[/color] Resolve",
-    "translation": "]+2[/color] 决心",
+    "translation": "]+2[/color]决心",
     "stage": 1,
     "context": "_event.m.Cultist.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+2[/color] Resolve'"
   },
