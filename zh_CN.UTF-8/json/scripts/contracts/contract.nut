@@ -86,7 +86,7 @@
     "ID": 293407746,
     "key": "Something seems wrong.",
     "original": "Something seems wrong.",
-    "translation": "好像有问题。",
+    "translation": "好像有点不对劲。",
     "stage": 1
   },
   {
@@ -142,8 +142,8 @@
   {
     "ID": 293407754,
     "key": "\n\n[color=#bcad8c]\"",
-    "original": "\\n\\n[color=#bcad8c]\"",
-    "translation": "\\n\\n[color=#bcad8c]\"",
+    "original": "\n\n[color=#bcad8c]\"",
+    "translation": "\n\n[color=#bcad8c]\"",
     "stage": 1
   }
 ]

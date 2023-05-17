@@ -24,8 +24,8 @@
   {
     "ID": 293412793,
     "key": "[img]gfx/ui/events/event_14.png[/img]The dogs are sitting rather studiously, panting and looking pretty content, so durable is their sense of happiness. But you've mouths to feed and battles to fight. You give %butcher% the go ahead to do what is right fo",
-    "original": "[img]gfx/ui/events/event_14.png[/img]The dogs are sitting rather studiously, panting and looking pretty content, so durable is their sense of happiness. But you've mouths to feed and battles to fight. You give %butcher% the go ahead to do what is right for the company.\\n\\nThe butcher meanders his way toward the mutts, holding out one hand to pet them as the other clutches a knife behind his back. You do not stick around to watch what happens next, but a short yelp quickly followed by another turns your already empty stomach.",
-    "translation": "[img]gfx/ui/events/event_14.png[/img]这些狗很老实地坐着，气喘吁吁，看起来很满足，所以他们的幸福感是持久的。 但你有嘴要喂，有仗要打。 你让 %butcher% 去做对战队有益的事。\\n\\n屠夫弯弯曲曲地走向那些狗狗，伸出一只手来抚摸它们，另一只手在背后抓着一把刀。 你不忍站在那里看接下来会发生什么，但是尖锐的声音已经从你空空的胃里传出来了。",
+    "original": "[img]gfx/ui/events/event_14.png[/img]The dogs are sitting rather studiously, panting and looking pretty content, so durable is their sense of happiness. But you've mouths to feed and battles to fight. You give %butcher% the go ahead to do what is right for the company.\n\nThe butcher meanders his way toward the mutts, holding out one hand to pet them as the other clutches a knife behind his back. You do not stick around to watch what happens next, but a short yelp quickly followed by another turns your already empty stomach.",
+    "translation": "[img]gfx/ui/events/event_14.png[/img]这些狗很老实地坐着，气喘吁吁，看起来很满足，所以他们的幸福感是持久的。 但你有嘴要喂，有仗要打。 你让 %butcher% 去做对战队有益的事。\n\n屠夫弯弯曲曲地走向那些狗狗，伸出一只手来抚摸它们，另一只手在背后抓着一把刀。 你不忍站在那里看接下来会发生什么，但是尖锐的声音已经从你空空的胃里传出来了。",
     "stage": 1
   },
   {
@@ -61,8 +61,8 @@
   {
     "ID": 293412798,
     "key": "[img]gfx/ui/events/event_27.png[/img]You open a crate of food to find the last of your reserves. An apple rolls across the bottom, sounding not unlike the grumble of an empty stomach as it totters about. A few loaves of bread give it some company and ther",
-    "original": "[img]gfx/ui/events/event_27.png[/img]You open a crate of food to find the last of your reserves. An apple rolls across the bottom, sounding not unlike the grumble of an empty stomach as it totters about. A few loaves of bread give it some company and there is a piece of meat wrapped in a thick leaf. That's it.\\n\\nWhen you close the lid and turn around, %butcher% the butcher is standing there.%SPEECH_ON%Hey there boss. I see we got a problem. So how about I... fix it?%SPEECH_OFF%Just then, he thumbs over his shoulder, right in the direction of two war dogs chained up to a stake.",
-    "translation": "[img]gfx/ui/events/event_27.png[/img]你打开一箱食物来寻找你最后的储备。 一个苹果滚过底部，听起来和摇摇晃晃的空腹咕噜声没什么两样。 几条面包给了它一些陪伴，还有一块用厚叶子包着的肉。就这样了。\\n\\n当你关上盖子转过身来时，%butcher% 就站在那里。%SPEECH_ON%嘿，老板。我知道我们有麻烦了。 所以我…摆平它？%SPEECH_OFF%就在这时，他用拇指搭在肩膀上，朝着拴在木桩上的两只战犬的方向。",
+    "original": "[img]gfx/ui/events/event_27.png[/img]You open a crate of food to find the last of your reserves. An apple rolls across the bottom, sounding not unlike the grumble of an empty stomach as it totters about. A few loaves of bread give it some company and there is a piece of meat wrapped in a thick leaf. That's it.\n\nWhen you close the lid and turn around, %butcher% the butcher is standing there.%SPEECH_ON%Hey there boss. I see we got a problem. So how about I... fix it?%SPEECH_OFF%Just then, he thumbs over his shoulder, right in the direction of two war dogs chained up to a stake.",
+    "translation": "[img]gfx/ui/events/event_27.png[/img]你打开一箱食物来寻找你最后的储备。 一个苹果滚过底部，听起来和摇摇晃晃的空腹咕噜声没什么两样。 几条面包给了它一些陪伴，还有一块用厚叶子包着的肉。就这样了。\n\n当你关上盖子转过身来时，%butcher% 就站在那里。%SPEECH_ON%嘿，老板。我知道我们有麻烦了。 所以我…摆平它？%SPEECH_OFF%就在这时，他用拇指搭在肩膀上，朝着拴在木桩上的两只战犬的方向。",
     "stage": 1
   },
   {

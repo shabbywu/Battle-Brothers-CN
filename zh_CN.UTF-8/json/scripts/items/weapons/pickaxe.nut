@@ -11,7 +11,7 @@
     "ID": 293419404,
     "key": "A hard head made from metal attached to a wooden handle, the Pickaxe is a miner's tool used to break up rocks. As an improvised weapon it's unwieldy but can deliver fatal injuries even through armor.",
     "original": "A hard head made from metal attached to a wooden handle, the Pickaxe is a miner's tool used to break up rocks. As an improvised weapon it's unwieldy but can deliver fatal injuries even through armor.",
-    "translation": "这是一种拥有金属头的木镐，它一般是矿工用来分解岩石的。作为一种临时武器，它很笨重，但也可对装甲目标造成致命的伤害。",
+    "translation": "由金属制成的硬头连接在木柄上，鹤嘴锄是矿工用来破碎岩石的工具。作为一种临时武器，它使用不便，但即便是穿着装甲的目标也能造成致命的伤害。",
     "stage": 1,
     "context": "this.m.Description = \"A hard head made from metal attached to a wooden handle, the Pickaxe is a miner's tool used to break up rocks. As an improvised weapon it's unwieldy but can deliver fatal injuries even through armor.\""
   },

@@ -11,7 +11,7 @@
     "ID": 293419241,
     "key": "A simple wooden spear with a metal tip.",
     "original": "A simple wooden spear with a metal tip.",
-    "translation": "一种带有金属尖的简易木矛。",
+    "translation": "一柄带有金属尖的简易木矛。",
     "stage": 1,
     "context": "this.m.Description = 'A simple wooden spear with a metal tip.'"
   },

@@ -2,8 +2,8 @@
   {
     "ID": 293403592,
     "key": "Let us seek fame and fortune fighting before crowds that chant our names.\nWe'll draw blood in the arenas of the south!",
-    "original": "Let us seek fame and fortune fighting before crowds that chant our names.\\nWe'll draw blood in the arenas of the south!",
-    "translation": "让我们在呼喊着我们名字的人群面前为名利而战。\\n我们会在南方的竞技场上挥洒鲜血！",
+    "original": "Let us seek fame and fortune fighting before crowds that chant our names.\nWe'll draw blood in the arenas of the south!",
+    "translation": "让我们在呼喊着我们名字的人群面前为名利而战。\n我们会在南方的竞技场上挥洒鲜血！",
     "stage": 1,
     "context": "this.m.ButtonText = \"Let us seek fame and fortune fighting before crowds that chant our names.\nWe'll draw blood in the arenas of the south!\""
   },

@@ -90,7 +90,7 @@
     "ID": 293418337,
     "key": " to bag because no empty slot was found",
     "original": " to bag because no empty slot was found",
-    "translation": "到到背包，因为没有发现空槽位。",
+    "translation": "到背包，因为没有发现空槽位。",
     "stage": 1,
     "context": "'Could not add ' + _item.getName() + ' to bag because no empty slot was found'"
   },

@@ -34,8 +34,8 @@
   {
     "ID": 293403399,
     "key": "The walking dead are a terrible curse upon man.\nLet us burn some of their lairs to the ground and earn the respect of all decent folk!",
-    "original": "The walking dead are a terrible curse upon man.\\nLet us burn some of their lairs to the ground and earn the respect of all decent folk!",
-    "translation": "行尸对人们来说是一种可怕的诅咒。\\n让我们把他们的一些巢穴烧成灰烬，赢得所有厚道人的尊重！",
+    "original": "The walking dead are a terrible curse upon man.\nLet us burn some of their lairs to the ground and earn the respect of all decent folk!",
+    "translation": "行尸对人们来说是一种可怕的诅咒。\n让我们把他们的一些巢穴烧成灰烬，赢得所有厚道人的尊重！",
     "stage": 1,
     "context": "this.m.ButtonText = 'The walking dead are a terrible curse upon man.\nLet us burn some of their lairs to the ground and earn the respect of all decent folk!'"
   },

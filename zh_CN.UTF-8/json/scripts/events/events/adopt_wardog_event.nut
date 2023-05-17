@@ -2,15 +2,15 @@
   {
     "ID": 293412516,
     "key": "[img]gfx/ui/events/event_27.png[/img]You noticed the mutt a few miles back, and a few miles forward he's still there, bobbing and slinking in and out of sight.\n\nA mongrel such as he doesn't follow a band of dangerous men for no reason - maybe someone is f",
-    "original": "[img]gfx/ui/events/event_27.png[/img]You noticed the mutt a few miles back, and a few miles forward he's still there, bobbing and slinking in and out of sight.\\n\\nA mongrel such as he doesn't follow a band of dangerous men for no reason - maybe someone is feeding it?",
-    "translation": "[img]gfx/ui/events/event_27.png[/img]你走了一段路之后，发现几里地前看到的那条狗仍然鬼鬼祟祟地跟在后面，仿佛有意隐藏自己的行踪一般。\\n\\n像它这样的杂种狗，不会无缘无故地跟着一群危险的佣兵－也许受人指使？",
+    "original": "[img]gfx/ui/events/event_27.png[/img]You noticed the mutt a few miles back, and a few miles forward he's still there, bobbing and slinking in and out of sight.\n\nA mongrel such as he doesn't follow a band of dangerous men for no reason - maybe someone is feeding it?",
+    "translation": "[img]gfx/ui/events/event_27.png[/img]你走了一段路之后，发现几里地前看到的那条狗仍然鬼鬼祟祟地跟在后面，仿佛有意隐藏自己的行踪一般。\n\n像它这样的杂种狗，不会无缘无故地跟着一群危险的佣兵－也许受人指使？",
     "stage": 1
   },
   {
     "ID": 293412517,
     "key": "[img]gfx/ui/events/event_27.png[/img]You take a bow and nock an arrow. A few of the brothers watch as you take aim. The wind comes, goes, and comes again. You wait patiently before drawing the string and closing one eye to put the dog into focus. It sits ",
-    "original": "[img]gfx/ui/events/event_27.png[/img]You take a bow and nock an arrow. A few of the brothers watch as you take aim. The wind comes, goes, and comes again. You wait patiently before drawing the string and closing one eye to put the dog into focus. It sits down and stares at you between long-tongued pants.\\n\\nYou release the shot. The arrow zips through the air and the dog yelps. It keels back on its hind legs and falls over, its feet kicking and scraping on the ground until it stops. You put the bow back into its holding and get the company back on the road.",
-    "translation": "[img]gfx/ui/events/event_27.png[/img]你张弓搭箭。 几个兄弟也随着你的视线望去。 风来了，去了，又来了。 你耐心地等着，然后拉弦，闭上一只眼睛对狗集中注意力。 狗得见如此，不由得停下身来，边剧烈喘息边看着你。\\n\\n你放开，射了出去。 羽箭呼啸而去，狗尖叫一声。 它向后倒下，在地上抽搐不停，直到停下来。 你收弓还袋，让战队继续赶路。",
+    "original": "[img]gfx/ui/events/event_27.png[/img]You take a bow and nock an arrow. A few of the brothers watch as you take aim. The wind comes, goes, and comes again. You wait patiently before drawing the string and closing one eye to put the dog into focus. It sits down and stares at you between long-tongued pants.\n\nYou release the shot. The arrow zips through the air and the dog yelps. It keels back on its hind legs and falls over, its feet kicking and scraping on the ground until it stops. You put the bow back into its holding and get the company back on the road.",
+    "translation": "[img]gfx/ui/events/event_27.png[/img]你张弓搭箭。 几个兄弟也随着你的视线望去。 风来了，去了，又来了。 你耐心地等着，然后拉弦，闭上一只眼睛对狗集中注意力。 狗得见如此，不由得停下身来，边剧烈喘息边看着你。\n\n你放开，射了出去。 羽箭呼啸而去，狗尖叫一声。 它向后倒下，在地上抽搐不停，直到停下来。 你收弓还袋，让战队继续赶路。",
     "stage": 1
   },
   {
@@ -81,8 +81,8 @@
   {
     "ID": 293412527,
     "key": "[img]gfx/ui/events/event_27.png[/img]You decide to take a chunk of meat and approach the dog. It is skittish at first, backing away on your approach, but the aroma you have in hand is an alluring one to be sure. The mongrel slinks back toward you, pausing",
-    "original": "[img]gfx/ui/events/event_27.png[/img]You decide to take a chunk of meat and approach the dog. It is skittish at first, backing away on your approach, but the aroma you have in hand is an alluring one to be sure. The mongrel slinks back toward you, pausing here and there, eyes flicking in search of an ambush.\\n\\nYou can see a barrel of ribs on the dog, many days on the road having given the pup a gaunt frame. Its ears are stitched up and its tail bolted with signs of battle. This here animal knows how to fight and that's just what it'll be doing for you from now on.",
-    "translation": "[img]gfx/ui/events/event_27.png[/img]你拿起一块肉走向那条狗。 刚开始的时候有点不安，在你靠近的时候后退，但是你手上的香味确实很诱惑。 杂种狗不自禁便又走到你的身旁，双眼中依然满是戒备，仿佛在不停地揣测是否有陷阱。\\n\\n连日的奔波让这条狗瘦骨嶙峋，小狗憔悴的过了很多天。 它的耳朵有缝合的伤口，尾巴上挂满了战斗的痕迹。 这只动物知道如何战斗，从现在起它将为你所用。",
+    "original": "[img]gfx/ui/events/event_27.png[/img]You decide to take a chunk of meat and approach the dog. It is skittish at first, backing away on your approach, but the aroma you have in hand is an alluring one to be sure. The mongrel slinks back toward you, pausing here and there, eyes flicking in search of an ambush.\n\nYou can see a barrel of ribs on the dog, many days on the road having given the pup a gaunt frame. Its ears are stitched up and its tail bolted with signs of battle. This here animal knows how to fight and that's just what it'll be doing for you from now on.",
+    "translation": "[img]gfx/ui/events/event_27.png[/img]你拿起一块肉走向那条狗。 刚开始的时候有点不安，在你靠近的时候后退，但是你手上的香味确实很诱惑。 杂种狗不自禁便又走到你的身旁，双眼中依然满是戒备，仿佛在不停地揣测是否有陷阱。\n\n连日的奔波让这条狗瘦骨嶙峋，小狗憔悴的过了很多天。 它的耳朵有缝合的伤口，尾巴上挂满了战斗的痕迹。 这只动物知道如何战斗，从现在起它将为你所用。",
     "stage": 1
   },
   {

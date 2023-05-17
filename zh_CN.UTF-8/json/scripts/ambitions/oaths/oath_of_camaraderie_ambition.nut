@@ -26,8 +26,8 @@
   {
     "ID": 293403608,
     "key": "[img]gfx/ui/events/event_180.png[/img]{Power in numbers, camaraderie in brotherhood. While fielding additional men encumbered your ability to command, over the course of every battle the %companyname% quickly realized that the chaos of combat could be ove",
-    "original": "[img]gfx/ui/events/event_180.png[/img]{Power in numbers, camaraderie in brotherhood. While fielding additional men encumbered your ability to command, over the course of every battle the %companyname% quickly realized that the chaos of combat could be overcome by standing shoulder to shoulder with the man beside you, trusting him to do his job and him trusting that you do yours. The experience has hardened the company to the havocs of war.\\n\\nNow that the company knows it can confront its enemies by trusting its own members, it is ready to take on another Oath!}",
-    "translation": "[img]gfx/ui/events/event_180.png[/img]{力量在于人数，友情在于兄弟情谊。 虽然增派人手会阻碍你的指挥能力，但在每次战斗过程中，%companyname% 很快意识到，通过与你身边的人并肩作战，相信他能完成他的工作，他也相信你能完成你的工作，就能克服战斗的混乱。 这一经历使战队经受住了战争的浩劫。\\n\\n现在，战队知道可以通过信任自己的成员来对抗敌人，准备再次宣誓！}",
+    "original": "[img]gfx/ui/events/event_180.png[/img]{Power in numbers, camaraderie in brotherhood. While fielding additional men encumbered your ability to command, over the course of every battle the %companyname% quickly realized that the chaos of combat could be overcome by standing shoulder to shoulder with the man beside you, trusting him to do his job and him trusting that you do yours. The experience has hardened the company to the havocs of war.\n\nNow that the company knows it can confront its enemies by trusting its own members, it is ready to take on another Oath!}",
+    "translation": "[img]gfx/ui/events/event_180.png[/img]{力量在于人数，友情在于兄弟情谊。 虽然增派人手会阻碍你的指挥能力，但在每次战斗过程中，%companyname% 很快意识到，通过与你身边的人并肩作战，相信他能完成他的工作，他也相信你能完成你的工作，就能克服战斗的混乱。 这一经历使战队经受住了战争的浩劫。\n\n现在，战队知道可以通过信任自己的成员来对抗敌人，准备再次宣誓！}",
     "stage": 1,
     "context": "this.m.SuccessText = '[img]gfx/ui/events/event_180.png[/img]{Power in numbers, camaraderie in brotherhood. While fielding additional men encumbered your ability to command, over the course of every battle the %companyname% quickly realized that the chaos of combat could be overcome by standing shoulder to shoulder with the man beside you, trusting him to do his job and him trusting that you do yours. The experience has hardened the company to the havocs of war.\n\nNow that the company knows it can confront its enemies by trusting its own members, it is ready to take on another Oath!}'"
   },
@@ -42,8 +42,8 @@
   {
     "ID": 293403610,
     "key": "No single Oathtaker can face all the evils of the world alone.\nLet us take an Oath of Camaraderie, lest we lose sight of our true allies!",
-    "original": "No single Oathtaker can face all the evils of the world alone.\\nLet us take an Oath of Camaraderie, lest we lose sight of our true allies!",
-    "translation": "没有任何一位宣誓者能够独自面对世界上的所有邪恶。\\n让我们立下友谊誓言，以免失去真正的盟友！",
+    "original": "No single Oathtaker can face all the evils of the world alone.\nLet us take an Oath of Camaraderie, lest we lose sight of our true allies!",
+    "translation": "没有任何一位宣誓者能够独自面对世界上的所有邪恶。\n让我们立下友谊誓言，以免失去真正的盟友！",
     "stage": 1,
     "context": "this.m.ButtonText = 'No single Oathtaker can face all the evils of the world alone.\nLet us take an Oath of Camaraderie, lest we lose sight of our true allies!'"
   },

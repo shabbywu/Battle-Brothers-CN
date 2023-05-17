@@ -11,7 +11,7 @@
     "ID": 293419244,
     "key": "A wooden shaft with a spiked metal head used to deliver a combination of blunt-force and puncturing blows.",
     "original": "A wooden shaft with a spiked metal head used to deliver a combination of blunt-force and puncturing blows.",
-    "translation": "一个带有尖刺金属头的木柄，用来产生钝击和刺击。",
+    "translation": "一柄带有尖钉金属头的木杆，用来交替进行钝击和刺击。",
     "stage": 1,
     "context": "this.m.Description = 'A wooden shaft with a spiked metal head used to deliver a combination of blunt-force and puncturing blows.'"
   },

@@ -3,7 +3,7 @@
     "ID": 293418069,
     "key": "Full Aketon Cap",
     "original": "Full Aketon Cap",
-    "translation": "全皮帽",
+    "translation": "全衬垫帽",
     "stage": 1,
     "context": "this.m.Name = 'Full Aketon Cap'"
   },

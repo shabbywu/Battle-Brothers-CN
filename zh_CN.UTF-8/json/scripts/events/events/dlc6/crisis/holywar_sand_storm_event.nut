@@ -9,8 +9,8 @@
   {
     "ID": 293414606,
     "key": "[img]gfx/ui/events/event_161.png[/img]{Drawing your sword, you ask the men if they will accept the dignity of a swift death by your steel. They're too parched and starved to speak, but a few nod. One dies before he can even answer. You go to each, crouch,",
-    "original": "[img]gfx/ui/events/event_161.png[/img]{Drawing your sword, you ask the men if they will accept the dignity of a swift death by your steel. They're too parched and starved to speak, but a few nod. One dies before he can even answer. You go to each, crouch, wish them well, and push the sword in. The skin cracks beneath the blade, and the dying men are briefly revivified by the piercing pain, and then they are relinquished from this world. A few in the company have varying opinions about this matter.\\n\\nYou have the sellsword pick up what things they can, though much of the equipment has been laid to waste by the fury of the desert.}",
-    "translation": "[img]gfx/ui/events/event_161.png[/img]{拔出你的剑，你询问他们是否接受你所给予他们的尊严。 他们太渴，太饿，难以说话，但是几个人点头了。 其中一个在他能回答前便死去了。 你走过每一个人，蹲下，愿他们安息，并将剑推入。 皮肤在锋刃下裂开，正在死去的人们因疼痛短暂的恢复一丝活力后便不情愿的离开了这个世界。 队伍里的几个人对此有不同的意见。\\n\\n你让佣兵们拿上他们可以带走的，尽管大部分的装备都被狂躁的沙漠损坏了。}",
+    "original": "[img]gfx/ui/events/event_161.png[/img]{Drawing your sword, you ask the men if they will accept the dignity of a swift death by your steel. They're too parched and starved to speak, but a few nod. One dies before he can even answer. You go to each, crouch, wish them well, and push the sword in. The skin cracks beneath the blade, and the dying men are briefly revivified by the piercing pain, and then they are relinquished from this world. A few in the company have varying opinions about this matter.\n\nYou have the sellsword pick up what things they can, though much of the equipment has been laid to waste by the fury of the desert.}",
+    "translation": "[img]gfx/ui/events/event_161.png[/img]{拔出你的剑，你询问他们是否接受你所给予他们的尊严。 他们太渴，太饿，难以说话，但是几个人点头了。 其中一个在他能回答前便死去了。 你走过每一个人，蹲下，愿他们安息，并将剑推入。 皮肤在锋刃下裂开，正在死去的人们因疼痛短暂的恢复一丝活力后便不情愿的离开了这个世界。 队伍里的几个人对此有不同的意见。\n\n你让佣兵们拿上他们可以带走的，尽管大部分的装备都被狂躁的沙漠损坏了。}",
     "stage": 1
   },
   {

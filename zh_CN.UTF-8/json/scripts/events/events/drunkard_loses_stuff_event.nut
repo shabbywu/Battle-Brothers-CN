@@ -46,8 +46,8 @@
   {
     "ID": 293415733,
     "key": "[img]gfx/ui/events/event_05.png[/img]While taking inventory last night, %drunkard% had a little too much to drink and ended up losing %item%!\n\nYou've had him brought to you and the man, swaying on his feet, still reeks of alcohol. He hiccups as he tries t",
-    "original": "[img]gfx/ui/events/event_05.png[/img]While taking inventory last night, %drunkard% had a little too much to drink and ended up losing %item%!\\n\\nYou've had him brought to you and the man, swaying on his feet, still reeks of alcohol. He hiccups as he tries to explain himself, but the best he can do is collapse to the ground in a drunken heap. The man laughs and laughs, but you see nothing funny about this. %otherguy% asks what you want to do with him.",
-    "translation": "[img]gfx/ui/events/event_05.png[/img]当昨晚清点存货时，%drunkard% 多喝了一点酒，结果丢失了 %item%！\\n\\n你已经把叫带到你身边，而这个摇摇晃晃站着的男人仍然散发着酒气。 当他试图为自己辩解时候，他打了个嗝，但他所能做的就是倒在地上，变成一个酒鬼。 他一个劲儿地笑，但你看不出有啥可笑的。%otherguy% 问你该怎么处置这个家伙。",
+    "original": "[img]gfx/ui/events/event_05.png[/img]While taking inventory last night, %drunkard% had a little too much to drink and ended up losing %item%!\n\nYou've had him brought to you and the man, swaying on his feet, still reeks of alcohol. He hiccups as he tries to explain himself, but the best he can do is collapse to the ground in a drunken heap. The man laughs and laughs, but you see nothing funny about this. %otherguy% asks what you want to do with him.",
+    "translation": "[img]gfx/ui/events/event_05.png[/img]当昨晚清点存货时，%drunkard% 多喝了一点酒，结果丢失了 %item%！\n\n你已经把叫带到你身边，而这个摇摇晃晃站着的男人仍然散发着酒气。 当他试图为自己辩解时候，他打了个嗝，但他所能做的就是倒在地上，变成一个酒鬼。 他一个劲儿地笑，但你看不出有啥可笑的。%otherguy% 问你该怎么处置这个家伙。",
     "stage": 1
   },
   {

@@ -37,8 +37,8 @@
   {
     "ID": 293405434,
     "key": "Ghastly ghosts, empty graves, otherworldly mindless slaves!\nHave a glass, find a wench before your teeth will clench!\nKill the can, don't stay dry, three days until we die!",
-    "original": "Ghastly ghosts, empty graves, otherworldly mindless slaves!\\nHave a glass, find a wench before your teeth will clench!\\nKill the can, don't stay dry, three days until we die!",
-    "translation": "可怕的鬼魂，空荡的坟墓，来自异世界的愚昧奴隶！\\n来杯酒，找个女人，在你的牙齿咬紧之前！\\n喝掉这杯，不要干渴，只有三天时间直到我们死去！",
+    "original": "Ghastly ghosts, empty graves, otherworldly mindless slaves!\nHave a glass, find a wench before your teeth will clench!\nKill the can, don't stay dry, three days until we die!",
+    "translation": "可怕的鬼魂，空荡的坟墓，来自异世界的愚昧奴隶！\n来杯酒，找个女人，在你的牙齿咬紧之前！\n喝掉这杯，不要干渴，只有三天时间直到我们死去！",
     "stage": 1
   },
   {

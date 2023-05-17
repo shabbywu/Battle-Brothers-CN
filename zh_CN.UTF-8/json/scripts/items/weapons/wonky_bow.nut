@@ -11,7 +11,7 @@
     "ID": 293419509,
     "key": "Wonky Bow",
     "original": "Wonky Bow",
-    "translation": "靠不住的弓",
+    "translation": "糟糕的弓",
     "stage": 1,
     "context": "this.m.Name = 'Wonky Bow'"
   },
@@ -19,7 +19,7 @@
     "ID": 293419510,
     "key": "An ill-conceived bow if you ever saw one. The wood cricks and cracks when bent, the string frizzes and goes wiry every time you draw it back.",
     "original": "An ill-conceived bow if you ever saw one. The wood cricks and cracks when bent, the string frizzes and goes wiry every time you draw it back.",
-    "translation": "这是你从没见过的劣品弓。 每次当你拉弓时僵硬的木头会发出噼啪声，弦也会发出金属般的吱吱响。",
+    "translation": "一把设计不良的弓，亲眼看到就更为明白。木头在弯曲时会咯噔作响和出现裂纹，每次你拉动弓弦时，弓弦会起毛并变得卷曲。",
     "stage": 1,
     "context": "this.m.Description = 'An ill-conceived bow if you ever saw one. The wood cricks and cracks when bent, the string frizzes and goes wiry every time you draw it back.'"
   }

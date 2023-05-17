@@ -2,8 +2,8 @@
   {
     "ID": 293403386,
     "key": "The Undead are rising all over the lands, killing and devouring at sight.\nWe need to put an end to this, or soon there will be no world as we know it left!",
-    "original": "The Undead are rising all over the lands, killing and devouring at sight.\\nWe need to put an end to this, or soon there will be no world as we know it left!",
-    "translation": "亡灵正在大地上崛起并杀死和吞噬它们看到的一切。\\n我们必须结束这一切，否则很快我们所知的世界将不复存在！",
+    "original": "The Undead are rising all over the lands, killing and devouring at sight.\nWe need to put an end to this, or soon there will be no world as we know it left!",
+    "translation": "亡灵正在大地上崛起并杀死和吞噬它们看到的一切。\n我们必须结束这一切，否则很快我们所知的世界将不复存在！",
     "stage": 1,
     "context": "this.m.ButtonText = 'The Undead are rising all over the lands, killing and devouring at sight.\nWe need to put an end to this, or soon there will be no world as we know it left!'"
   },

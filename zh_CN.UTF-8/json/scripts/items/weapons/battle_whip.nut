@@ -19,7 +19,7 @@
     "ID": 293419091,
     "key": "A long whip with a barbed tip that can tear terrible bleeding wounds over significant range, but is very inefficient against armor.",
     "original": "A long whip with a barbed tip that can tear terrible bleeding wounds over significant range, but is very inefficient against armor.",
-    "translation": "一种长鞭子，尖端有刺，能在很大范围内严重撕裂伤口造成流血，但是对盔甲来说效率很低。",
+    "translation": "一根长鞭，尖端有倒刺，能在很大范围内严重撕裂伤口造成流血，但是对盔甲的效果很差。",
     "stage": 1,
     "context": "this.m.Description = 'A long whip with a barbed tip that can tear terrible bleeding wounds over significant range, but is very inefficient against armor.'"
   }

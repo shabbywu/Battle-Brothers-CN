@@ -3,7 +3,7 @@
     "ID": 293418884,
     "key": "Provisions. Fruits from orchards are both tasty and nutritious. They are dried to preserve them longer.",
     "original": "Provisions. Fruits from orchards are both tasty and nutritious. They are dried to preserve them longer.",
-    "translation": "食物。 果园里的水果既可口又营养。晒干以后可以保存更长的时间。",
+    "translation": "食物。果园里的水果既可口又营养。它们被晒干以保存更长时间。",
     "stage": 1,
     "context": "this.m.Description = 'Provisions. Fruits from orchards are both tasty and nutritious. They are dried to preserve them longer.'"
   },

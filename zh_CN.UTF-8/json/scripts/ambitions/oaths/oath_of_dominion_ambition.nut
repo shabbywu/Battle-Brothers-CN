@@ -2,8 +2,8 @@
   {
     "ID": 293403626,
     "key": "[img]gfx/ui/events/event_180.png[/img]There is no more common a menace in this world than that of the common beast. And yet, despite this rampant disease of creatures, very few men are willing to take up arms and go seeking their vanquishment. It is only ",
-    "original": "[img]gfx/ui/events/event_180.png[/img]There is no more common a menace in this world than that of the common beast. And yet, despite this rampant disease of creatures, very few men are willing to take up arms and go seeking their vanquishment. It is only you all, the %companyname%, who swore an oath to slay the monsters, and slay them you did. With steady hands and stilled hearts, you kept to that Oath.\\n\\nTriumphant over beasts and monsters, the men are ready to take on whatever's next!",
-    "translation": "[img]gfx/ui/events/event_180.png[/img]在这个世界上，没有比普通野兽更常见的威胁了。然而，尽管这种动物疾病猖獗，很少有人愿意拿起武器去追杀它们。只有你们所有人，%companyname%，发誓要击杀这些怪物，并且你们做到了。以稳定的手和平静的心，你们履行了这个誓言。\\n\\n在野兽和怪物面前战胜，这些人已经准备好去接下来的挑战了！",
+    "original": "[img]gfx/ui/events/event_180.png[/img]There is no more common a menace in this world than that of the common beast. And yet, despite this rampant disease of creatures, very few men are willing to take up arms and go seeking their vanquishment. It is only you all, the %companyname%, who swore an oath to slay the monsters, and slay them you did. With steady hands and stilled hearts, you kept to that Oath.\n\nTriumphant over beasts and monsters, the men are ready to take on whatever's next!",
+    "translation": "[img]gfx/ui/events/event_180.png[/img]在这个世界上，没有比普通野兽更常见的威胁了。然而，尽管这种动物疾病猖獗，很少有人愿意拿起武器去追杀它们。只有你们所有人，%companyname%，发誓要击杀这些怪物，并且你们做到了。以稳定的手和平静的心，你们履行了这个誓言。\n\n在野兽和怪物面前战胜，这些人已经准备好去接下来的挑战了！",
     "stage": 1,
     "context": "this.m.SuccessText = \"[img]gfx/ui/events/event_180.png[/img]There is no more common a menace in this world than that of the common beast. And yet, despite this rampant disease of creatures, very few men are willing to take up arms and go seeking their vanquishment. It is only you all, the %companyname%, who swore an oath to slay the monsters, and slay them you did. With steady hands and stilled hearts, you kept to that Oath.\n\nTriumphant over beasts and monsters, the men are ready to take on whatever's next!\""
   },
@@ -66,8 +66,8 @@
   {
     "ID": 293403634,
     "key": "Beasts have always threatened civilization.\nLet us take an Oath of Dominion and stake our claim against the tides of nature!",
-    "original": "Beasts have always threatened civilization.\\nLet us take an Oath of Dominion and stake our claim against the tides of nature!",
-    "translation": "饕餮猛兽们是人类文明永恒的威胁。\\n让我们立下统御誓言，与大自然的浪潮相抗争！",
+    "original": "Beasts have always threatened civilization.\nLet us take an Oath of Dominion and stake our claim against the tides of nature!",
+    "translation": "饕餮猛兽们是人类文明永恒的威胁。\n让我们立下统御誓言，与大自然的浪潮相抗争！",
     "stage": 1,
     "context": "this.m.ButtonText = 'Beasts have always threatened civilization.\nLet us take an Oath of Dominion and stake our claim against the tides of nature!'"
   },

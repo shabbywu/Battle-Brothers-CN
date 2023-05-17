@@ -173,8 +173,8 @@
   {
     "ID": 293416934,
     "key": "[img]gfx/ui/events/event_180.png[/img]The Oathbringers stand before you, waiting for you to pick your champions.\n\n",
-    "original": "[img]gfx/ui/events/event_180.png[/img]The Oathbringers stand before you, waiting for you to pick your champions.\\n\\n",
-    "translation": "[img]gfx/ui/events/event_180.png[/img]誓者使者站在你面前，等待你挑选冠军。\\n\\n",
+    "original": "[img]gfx/ui/events/event_180.png[/img]The Oathbringers stand before you, waiting for you to pick your champions.\n\n",
+    "translation": "[img]gfx/ui/events/event_180.png[/img]誓者使者站在你面前，等待你挑选冠军。\n\n",
     "stage": 1,
     "context": "this.Text = '[img]gfx/ui/events/event_180.png[/img]The Oathbringers stand before you, waiting for you to pick your champions.\n\n'"
   },

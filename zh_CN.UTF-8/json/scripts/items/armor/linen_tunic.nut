@@ -3,7 +3,7 @@
     "ID": 293417675,
     "key": "A simple cloth tunic. Fashionable but offering little in protection.",
     "original": "A simple cloth tunic. Fashionable but offering little in protection.",
-    "translation": "一件简单的布外衣。时尚但几乎没有提供保护。",
+    "translation": "一件简单的布束腰外衣。时尚，但提供的保护很少。",
     "stage": 1,
     "context": "this.m.Description = 'A simple cloth tunic. Fashionable but offering little in protection.'"
   },

@@ -42,7 +42,7 @@
   {
     "ID": 293403348,
     "key": "Only the most daring take on goblins in larger numbers. We shall burn some\nof their fetid camps to the ground, and word of it will travel!",
-    "original": "Only the most daring take on goblins in larger numbers. We shall burn some\\nof their fetid camps to the ground, and word of it will travel!",
+    "original": "Only the most daring take on goblins in larger numbers. We shall burn some\nof their fetid camps to the ground, and word of it will travel!",
     "translation": "只有最勇敢的人才敢对抗大规模的哥布林。 我们要把他们的一些臭气熏天的营地夷为平地，让消息传出去！",
     "stage": 1,
     "context": "this.m.ButtonText = 'Only the most daring take on goblins in larger numbers. We shall burn some\nof their fetid camps to the ground, and word of it will travel!'"

@@ -35,7 +35,7 @@
     "ID": 293417545,
     "key": "A quiver of arrows, required to use bows of all kinds. Is automatically refilled after each battle if you have enough ammunition.",
     "original": "A quiver of arrows, required to use bows of all kinds. Is automatically refilled after each battle if you have enough ammunition.",
-    "translation": "一整袋箭支，适用于各种各样的弓。 如果你有足够的弹药，每次战斗后都会自动补充。",
+    "translation": "一整袋箭支，适用于各种各样的弓。如果你有足够的弹药，在每场战斗后自动重新填充。",
     "stage": 1,
     "context": "this.m.Description = 'A quiver of arrows, required to use bows of all kinds. Is automatically refilled after each battle if you have enough ammunition.'"
   }

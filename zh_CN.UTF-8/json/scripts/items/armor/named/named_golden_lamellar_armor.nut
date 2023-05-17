@@ -32,7 +32,7 @@
     "ID": 293417776,
     "key": "Golden Lamellar",
     "original": "Golden Lamellar",
-    "translation": "金鳞甲",
+    "translation": "金札甲",
     "stage": 1
   },
   {

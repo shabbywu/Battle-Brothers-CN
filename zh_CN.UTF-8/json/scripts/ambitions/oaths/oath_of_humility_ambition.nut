@@ -42,8 +42,8 @@
   {
     "ID": 293403673,
     "key": "Arrogance is an insidious killer.\nLet us take an Oath of Humility and reflect on our shortcomings for a time.",
-    "original": "Arrogance is an insidious killer.\\nLet us take an Oath of Humility and reflect on our shortcomings for a time.",
-    "translation": "要时刻警醒：骄傲自满是位缓慢却阴险的杀手。\\n让我们立下谦逊誓言，并反思一下我们的缺点。",
+    "original": "Arrogance is an insidious killer.\nLet us take an Oath of Humility and reflect on our shortcomings for a time.",
+    "translation": "要时刻警醒：骄傲自满是位缓慢却阴险的杀手。\n让我们立下谦逊誓言，并反思一下我们的缺点。",
     "stage": 1,
     "context": "this.m.ButtonText = 'Arrogance is an insidious killer.\nLet us take an Oath of Humility and reflect on our shortcomings for a time.'"
   },
@@ -74,7 +74,7 @@
   {
     "ID": 293403677,
     "key": "[img]gfx/ui/events/event_180.png[/img]Any weak man can kneel, but to do so from a position of strength is true humility. While the %companyname% could have sought to wield its fame to make new fortunes, it instead stood aside, dedicating portions of its w",
-    "original": "[img]gfx/ui/events/event_180.png[/img]Any weak man can kneel, but to do so from a position of strength is true humility. While the %companyname% could have sought to wield its fame to make new fortunes, it instead stood aside, dedicating portions of its wealth to the needy and back to the communities who were offering these contracts in the first place. Many of the men have learned well from this experience and there is some hope that the methods deployed will be of use going forward, whether in this life or the next.\\n\\nThe %companyname% are ready to take on their next challenge.",
+    "original": "[img]gfx/ui/events/event_180.png[/img]Any weak man can kneel, but to do so from a position of strength is true humility. While the %companyname% could have sought to wield its fame to make new fortunes, it instead stood aside, dedicating portions of its wealth to the needy and back to the communities who were offering these contracts in the first place. Many of the men have learned well from this experience and there is some hope that the methods deployed will be of use going forward, whether in this life or the next.\n\nThe %companyname% are ready to take on their next challenge.",
     "translation": "[img]gfx/ui/events/event_180.png[/img]任何软弱的人都可以跪下，但在强大的位置上做到这一点才是真正的谦卑。虽然%companyname%可以利用它的声誉来赚取新的财富，但它选择了退让，将其财富的一部分奉献给有需要的人，回馈社区，这些社区在第一时间提供了这些合同。很多人从这个经历中学到了很多，或许这些方法在今后的生活或来世都会有所用处。%companyname%已经准备好迎接下一个挑战了。",
     "stage": 1,
     "context": "this.m.SuccessText = '[img]gfx/ui/events/event_180.png[/img]Any weak man can kneel, but to do so from a position of strength is true humility. While the %companyname% could have sought to wield its fame to make new fortunes, it instead stood aside, dedicating portions of its wealth to the needy and back to the communities who were offering these contracts in the first place. Many of the men have learned well from this experience and there is some hope that the methods deployed will be of use going forward, whether in this life or the next.\n\nThe %companyname% are ready to take on their next challenge.'"

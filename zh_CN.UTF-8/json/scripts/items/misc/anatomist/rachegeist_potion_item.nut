@@ -3,7 +3,7 @@
     "ID": 293418529,
     "key": "]+25%[/color] damage and receive only [color=",
     "original": "]+25%[/color] damage and receive only [color=",
-    "translation": "]+%25[/color] incoming damage\"\\n\"造成]+25%[/color] 伤害并且仅受到[color=\"]+%25[/color] 伤害",
+    "translation": "]+%25[/color] incoming damage\"\n\"造成]+25%[/color] 伤害并且仅受到[color=\"]+%25[/color] 伤害",
     "stage": 1,
     "context": "'Deal [color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] damage and receive only [color=' + this.Const.UI.Color.PositiveValue + ']75%[/color] of any damage if hitpoints are below [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color]'"
   },

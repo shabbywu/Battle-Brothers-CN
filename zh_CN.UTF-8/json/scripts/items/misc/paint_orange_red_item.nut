@@ -10,7 +10,7 @@
     "ID": 293418687,
     "key": "Buckets of yellow and red paint. Can be used to paint many common helmets.",
     "original": "Buckets of yellow and red paint. Can be used to paint many common helmets.",
-    "translation": "一桶橘红色的油漆。 可以喷涂许多普通的头盔。",
+    "translation": "一桶橘红色的油漆。可用于给许多普通的头盔上漆。",
     "stage": 1,
     "context": "this.m.Description = 'Buckets of yellow and red paint. Can be used to paint many common helmets.'"
   },

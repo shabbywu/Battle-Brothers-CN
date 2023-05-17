@@ -11,7 +11,7 @@
     "ID": 293419099,
     "key": "Boar Spear",
     "original": "Boar Spear",
-    "translation": "野猪长矛",
+    "translation": "野猪矛",
     "stage": 1,
     "context": "this.m.Name = 'Boar Spear'"
   },
@@ -19,7 +19,7 @@
     "ID": 293419100,
     "key": "A short and heavy spear with two wings behind the bladed tip.",
     "original": "A short and heavy spear with two wings behind the bladed tip.",
-    "translation": "一种在其开刃矛头后附有两个翅翼的重型短矛。",
+    "translation": "一杆在其开刃矛头后附有两个翅翼的重型短矛。",
     "stage": 1,
     "context": "this.m.Description = 'A short and heavy spear with two wings behind the bladed tip.'"
   }

@@ -112,7 +112,7 @@
     "ID": 293409043,
     "key": "alps",
     "original": "alps",
-    "translation": "夢魘(alps)",
+    "translation": "梦魇(alps)",
     "stage": 1
   },
   {

@@ -1564,7 +1564,7 @@
     "ID": 293405092,
     "key": "Pike",
     "original": "Pike",
-    "translation": "梭矛",
+    "translation": "矛",
     "stage": 1
   },
   {

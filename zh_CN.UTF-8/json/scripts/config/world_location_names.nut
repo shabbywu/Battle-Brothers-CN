@@ -1004,7 +1004,7 @@
     "ID": 293407126,
     "key": "Ruins of Old",
     "original": "Ruins of Old",
-    "translation": "旧城遗址",
+    "translation": "古老遗迹",
     "stage": 1
   },
   {
@@ -1340,7 +1340,7 @@
     "ID": 293407174,
     "key": "Hollow Bones Crypt",
     "original": "Hollow Bones Crypt",
-    "translation": "中空的骸骨墓穴",
+    "translation": "空骨墓穴",
     "stage": 1
   },
   {
@@ -3398,7 +3398,7 @@
     "ID": 293407468,
     "key": "Hidden Tents",
     "original": "Hidden Tents",
-    "translation": "隐藏的帐篷",
+    "translation": "隐秘的帐篷",
     "stage": 1
   },
   {

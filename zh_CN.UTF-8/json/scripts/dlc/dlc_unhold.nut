@@ -115,7 +115,7 @@
     "ID": 293410204,
     "key": "Nachzehrers are found more often in the southern parts of the world.",
     "original": "Nachzehrers are found more often in the southern parts of the world.",
-    "translation": "食屍鬼在世界南部地区更为常见。",
+    "translation": "食尸鬼在世界南部地区更为常见。",
     "stage": 1
   },
   {

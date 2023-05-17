@@ -19,7 +19,7 @@
     "ID": 293419435,
     "key": "A short raw iron sword with some dents and notches, easy to wield in one hand.",
     "original": "A short raw iron sword with some dents and notches, easy to wield in one hand.",
-    "translation": "一柄带有些许凹痕和锯齿的生铁剑，可以轻易的单手使用。",
+    "translation": "一柄生铁短剑，有一些凹痕和缺口，易于单手挥舞。",
     "stage": 1,
     "context": "this.m.Description = 'A short raw iron sword with some dents and notches, easy to wield in one hand.'"
   }

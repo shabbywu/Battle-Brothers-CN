@@ -59,8 +59,8 @@
   {
     "ID": 293413184,
     "key": "[img]gfx/ui/events/event_72.png[/img]Initially, it seemed as though there were two options here, but as a sellsword free from the bonds of nobility, responsibility, and well, any sort of social shackle, you choose a third angle: taking the food for you an",
-    "original": "[img]gfx/ui/events/event_72.png[/img]Initially, it seemed as though there were two options here, but as a sellsword free from the bonds of nobility, responsibility, and well, any sort of social shackle, you choose a third angle: taking the food for you and your men. Both treasurer and farmer protest, but your men draw their blades, which is a quick way to silence any sort of debate.\\n\\n In total, there's really not that much to take and you get the ire of the common man as well as the nobility for the trouble.",
-    "translation": "[img]gfx/ui/events/event_72.png[/img]起初，这里似乎有两个选择，但是作为一个没有贵族责任和任何社会束缚的佣兵，你有了第三个选择：给你和你的人拿食物。 司库和农夫都表示抗议，但是你的手下拔出了刀，这是一个让任何形式的辩论都能瞬间保持沉默行动。\\n\\n 总的来说，没什么好拿的，而且你会为此惹恼平民和贵族。",
+    "original": "[img]gfx/ui/events/event_72.png[/img]Initially, it seemed as though there were two options here, but as a sellsword free from the bonds of nobility, responsibility, and well, any sort of social shackle, you choose a third angle: taking the food for you and your men. Both treasurer and farmer protest, but your men draw their blades, which is a quick way to silence any sort of debate.\n\n In total, there's really not that much to take and you get the ire of the common man as well as the nobility for the trouble.",
+    "translation": "[img]gfx/ui/events/event_72.png[/img]起初，这里似乎有两个选择，但是作为一个没有贵族责任和任何社会束缚的佣兵，你有了第三个选择：给你和你的人拿食物。 司库和农夫都表示抗议，但是你的手下拔出了刀，这是一个让任何形式的辩论都能瞬间保持沉默行动。\n\n 总的来说，没什么好拿的，而且你会为此惹恼平民和贵族。",
     "stage": 1
   },
   {

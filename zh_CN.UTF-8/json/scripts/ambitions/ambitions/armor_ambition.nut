@@ -34,7 +34,7 @@
   {
     "ID": 293403305,
     "key": "We shall outfit a contingent of at least three men with heavy armor\nto act as a bulwark against dangerous opponents.",
-    "original": "We shall outfit a contingent of at least three men with heavy armor\\nto act as a bulwark against dangerous opponents.",
+    "original": "We shall outfit a contingent of at least three men with heavy armor\nto act as a bulwark against dangerous opponents.",
     "translation": "我们会装备一支至少三人的重甲部队，作为防御危险对手的堡垒。",
     "stage": 1,
     "context": "this.m.ButtonText = 'We shall outfit a contingent of at least three men with heavy armor\nto act as a bulwark against dangerous opponents.'"

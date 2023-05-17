@@ -11,7 +11,7 @@
     "ID": 293417522,
     "key": "A large bag of black powder, used for arming exotic firearms. Is automatically refilled after each battle if you have enough ammunition.",
     "original": "A large bag of black powder, used for arming exotic firearms. Is automatically refilled after each battle if you have enough ammunition.",
-    "translation": "一大包黑火药，用来装填异国火器。 如果你有足够的弹药，每次战斗后都会自动补充。",
+    "translation": "一大包黑火药，用来装填异国火器。如果你有足够的弹药，在每场战斗后自动重新填充。",
     "stage": 1,
     "context": "this.m.Description = 'A large bag of black powder, used for arming exotic firearms. Is automatically refilled after each battle if you have enough ammunition.'"
   },

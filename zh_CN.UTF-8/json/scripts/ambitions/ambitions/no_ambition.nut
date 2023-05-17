@@ -16,8 +16,8 @@
   {
     "ID": 293403514,
     "key": "The company is doing great, we just need to keep it up!\n(No Ambition)",
-    "original": "The company is doing great, we just need to keep it up!\\n(No Ambition)",
-    "translation": "战队做得很好，我们只需要保持下去！\\n（没有野心）",
+    "original": "The company is doing great, we just need to keep it up!\n(No Ambition)",
+    "translation": "战队做得很好，我们只需要保持下去！\n（没有野心）",
     "stage": 1,
     "context": "this.m.ButtonText = 'The company is doing great, we just need to keep it up!\n(No Ambition)'"
   }

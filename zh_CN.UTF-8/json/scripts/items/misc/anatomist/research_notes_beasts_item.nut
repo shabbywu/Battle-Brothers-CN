@@ -130,7 +130,7 @@
     "ID": 293418554,
     "key": "Alp",
     "original": "Alp",
-    "translation": "夢魘",
+    "translation": "梦魇",
     "stage": 1
   },
   {
@@ -144,7 +144,7 @@
     "ID": 293418556,
     "key": "Nachzehrer",
     "original": "Nachzehrer",
-    "translation": "食屍鬼",
+    "translation": "食尸鬼",
     "stage": 1
   },
   {

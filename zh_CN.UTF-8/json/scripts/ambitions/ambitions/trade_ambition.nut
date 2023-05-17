@@ -19,15 +19,15 @@
     "ID": 293403556,
     "key": "Buy and sell 25 items of trading goods, such as furs, salt or spices. Buying them in small villages that produce them and selling them in big cities will earn you the most coin. Some trading goods are also exclusive to certain regions, like the southern d",
     "original": "Buy and sell 25 items of trading goods, such as furs, salt or spices. Buying them in small villages that produce them and selling them in big cities will earn you the most coin. Some trading goods are also exclusive to certain regions, like the southern deserts, and selling them in other parts of the world can further increase your profit margin.",
-    "translation": "买卖25种贸易商品，如毛皮、盐或香料。在生产它们的小村庄购买它们，然后在大城市出售它们，你会赚到最多的硬币。\\n有些地区拥有专属的贸易商品，比如南部沙漠，在世界其他地方销售它们可以进一步提高利润率。",
+    "translation": "买卖25种贸易商品，如毛皮、盐或香料。在生产它们的小村庄购买它们，然后在大城市出售它们，你会赚到最多的硬币。\n有些地区拥有专属的贸易商品，比如南部沙漠，在世界其他地方销售它们可以进一步提高利润率。",
     "stage": 1,
     "context": "this.m.TooltipText = 'Buy and sell 25 items of trading goods, such as furs, salt or spices. Buying them in small villages that produce them and selling them in big cities will earn you the most coin. Some trading goods are also exclusive to certain regions, like the southern deserts, and selling them in other parts of the world can further increase your profit margin.'"
   },
   {
     "ID": 293403557,
     "key": "There's lots of crowns to be made with trading between towns.\nLet's earn us a fortune!",
-    "original": "There's lots of crowns to be made with trading between towns.\\nLet's earn us a fortune!",
-    "translation": "城镇之间的贸易可以赚很多克朗。\\n让我们赚一大笔钱吧！",
+    "original": "There's lots of crowns to be made with trading between towns.\nLet's earn us a fortune!",
+    "translation": "城镇之间的贸易可以赚很多克朗。\n让我们赚一大笔钱吧！",
     "stage": 1,
     "context": "this.m.ButtonText = \"There's lots of crowns to be made with trading between towns.\nLet's earn us a fortune!\""
   },

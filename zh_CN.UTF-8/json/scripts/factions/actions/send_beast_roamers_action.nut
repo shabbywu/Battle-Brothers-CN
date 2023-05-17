@@ -3,7 +3,7 @@
     "ID": 293417336,
     "key": "Nachzehrers",
     "original": "Nachzehrers",
-    "translation": "食屍鬼(Nachzehrers)",
+    "translation": "食尸鬼(Nachzehrers)",
     "stage": 1
   },
   {
@@ -73,7 +73,7 @@
     "ID": 293417346,
     "key": "Alps",
     "original": "Alps",
-    "translation": "夢魘(Alps)",
+    "translation": "梦魇(Alps)",
     "stage": 1
   },
   {

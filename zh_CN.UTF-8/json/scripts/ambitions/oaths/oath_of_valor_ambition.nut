@@ -10,16 +10,16 @@
   {
     "ID": 293403705,
     "key": "[img]gfx/ui/events/event_180.png[/img]{A man cannot thrive merely on skill and capability. Many know how to swing a sword, heft an axe, or loose an arrow. It is not in martial matters where man is molded, but within himself, within the corridors of his ow",
-    "original": "[img]gfx/ui/events/event_180.png[/img]{A man cannot thrive merely on skill and capability. Many know how to swing a sword, heft an axe, or loose an arrow. It is not in martial matters where man is molded, but within himself, within the corridors of his own heart. The steel forged there can't ever be defeated, for even a felled man of valor shall find himself eternal in the tomes of this world, celebrated in awe, and his name carried on the lips of those like him.\\n\\nNow that the company has proven itself of the firmest element, it is ready to accept another Oath!}",
-    "translation": "[img]gfx/ui/events/event_180.png[/img]{一个人不能仅凭技能和能力就获得成功。很多人都知道如何挥舞剑，举起斧头或者放箭。这并不是人类成长的关键，而是来自他自己内心的通过艰辛锻炼锤炼的品质。在那里锻造的坚如钢铁，永不言弃，因为即使是一个勇猛的战士在世界的历史长河中倒下了，他的名字也会被后人赞颂，被同类人传颂。\\n\\n现在，由于该战团已经证明了自己最坚定的元素，它已经准备好接受另一个誓言了!}",
+    "original": "[img]gfx/ui/events/event_180.png[/img]{A man cannot thrive merely on skill and capability. Many know how to swing a sword, heft an axe, or loose an arrow. It is not in martial matters where man is molded, but within himself, within the corridors of his own heart. The steel forged there can't ever be defeated, for even a felled man of valor shall find himself eternal in the tomes of this world, celebrated in awe, and his name carried on the lips of those like him.\n\nNow that the company has proven itself of the firmest element, it is ready to accept another Oath!}",
+    "translation": "[img]gfx/ui/events/event_180.png[/img]{一个人不能仅凭技能和能力就获得成功。很多人都知道如何挥舞剑，举起斧头或者放箭。这并不是人类成长的关键，而是来自他自己内心的通过艰辛锻炼锤炼的品质。在那里锻造的坚如钢铁，永不言弃，因为即使是一个勇猛的战士在世界的历史长河中倒下了，他的名字也会被后人赞颂，被同类人传颂。\n\n现在，由于该战团已经证明了自己最坚定的元素，它已经准备好接受另一个誓言了!}",
     "stage": 1,
     "context": "this.m.SuccessText = \"[img]gfx/ui/events/event_180.png[/img]{A man cannot thrive merely on skill and capability. Many know how to swing a sword, heft an axe, or loose an arrow. It is not in martial matters where man is molded, but within himself, within the corridors of his own heart. The steel forged there can't ever be defeated, for even a felled man of valor shall find himself eternal in the tomes of this world, celebrated in awe, and his name carried on the lips of those like him.\n\nNow that the company has proven itself of the firmest element, it is ready to accept another Oath!}\""
   },
   {
     "ID": 293403706,
     "key": "We must have the courage to face down any challenge, no matter how daunting.\nLet us take an Oath of Valor and prove our bravery to all!",
-    "original": "We must have the courage to face down any challenge, no matter how daunting.\\nLet us take an Oath of Valor and prove our bravery to all!",
-    "translation": "我们必须有勇气面对任何挑战，无论挑战多么艰巨。\\n让我们立下英勇誓言，向所有人证明我们的勇敢！",
+    "original": "We must have the courage to face down any challenge, no matter how daunting.\nLet us take an Oath of Valor and prove our bravery to all!",
+    "translation": "我们必须有勇气面对任何挑战，无论挑战多么艰巨。\n让我们立下英勇誓言，向所有人证明我们的勇敢！",
     "stage": 1,
     "context": "this.m.ButtonText = 'We must have the courage to face down any challenge, no matter how daunting.\nLet us take an Oath of Valor and prove our bravery to all!'"
   },

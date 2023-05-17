@@ -3,7 +3,7 @@
     "ID": 293417641,
     "key": "Heavy Lamellar Armor",
     "original": "Heavy Lamellar Armor",
-    "translation": "重型层状板甲",
+    "translation": "重型札甲",
     "stage": 1,
     "context": "this.m.Name = 'Heavy Lamellar Armor'"
   },

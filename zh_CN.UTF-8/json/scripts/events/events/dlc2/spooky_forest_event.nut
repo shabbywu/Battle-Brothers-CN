@@ -109,8 +109,8 @@
   {
     "ID": 293414051,
     "key": "[img]gfx/ui/events/event_25.png[/img]You order the company to chop the tree down. They get to the task, though there's little experience in doing it and the end result is a frantic run for safety as the trunk comes barreling down in an unexpected directio",
-    "original": "[img]gfx/ui/events/event_25.png[/img]You order the company to chop the tree down. They get to the task, though there's little experience in doing it and the end result is a frantic run for safety as the trunk comes barreling down in an unexpected direction. A very frightened black bear bolts off the treetop. It has a honeycomb for a snout and huffs its way into the dark of the forest.\\n\\n No one is crushed, but the chaos and debris leaves a few of the men worse for the wear.",
-    "translation": "[img]gfx/ui/events/event_25.png[/img]你命令战团砍倒这棵树。他们开始进行任务，但没有太多的经验，在树干朝着意料之外的方向倾倒时，结果是一场疯狂的逃命。一只非常害怕的黑熊从树顶上蹦出来。它的鼻子里还嵌着一个蜂巢，它呼哧呼哧地逃进森林的黑暗中。\\n\\n没有人被压伤，但混乱和残骸让一些人遭受了更多的伤害。",
+    "original": "[img]gfx/ui/events/event_25.png[/img]You order the company to chop the tree down. They get to the task, though there's little experience in doing it and the end result is a frantic run for safety as the trunk comes barreling down in an unexpected direction. A very frightened black bear bolts off the treetop. It has a honeycomb for a snout and huffs its way into the dark of the forest.\n\n No one is crushed, but the chaos and debris leaves a few of the men worse for the wear.",
+    "translation": "[img]gfx/ui/events/event_25.png[/img]你命令战团砍倒这棵树。他们开始进行任务，但没有太多的经验，在树干朝着意料之外的方向倾倒时，结果是一场疯狂的逃命。一只非常害怕的黑熊从树顶上蹦出来。它的鼻子里还嵌着一个蜂巢，它呼哧呼哧地逃进森林的黑暗中。\n\n没有人被压伤，但混乱和残骸让一些人遭受了更多的伤害。",
     "stage": 1
   },
   {

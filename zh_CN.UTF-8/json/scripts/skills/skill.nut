@@ -126,7 +126,7 @@
     "ID": 293422186,
     "key": "[/color] damage to hitpoints, of which [color=",
     "original": "[/color] damage to hitpoints, of which [color=",
-    "translation": "[/color]伤害命中点数，其中[color=",
+    "translation": "[/color] 生命值伤害，其中[color=",
     "stage": 1,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max + '[/color] damage to hitpoints, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
   },
@@ -209,8 +209,8 @@
   {
     "ID": 293422197,
     "key": " Fatigue[/color][/b][/i]\n",
-    "original": " Fatigue[/color][/b][/i]\\n",
-    "translation": " 疲劳[/color][/b][/i]\\n",
+    "original": " Fatigue[/color][/b][/i]\n",
+    "translation": " 疲劳[/color][/b][/i]\n",
     "stage": 1,
     "context": "return '[i]Costs ' + this.isAffordableBasedOnAPPreview() ? '[b][color=' + this.Const.UI.Color.PositiveValue + ']' + this.getActionPointCost() : '[b][color=' + this.Const.UI.Color.NegativeValue + ']' + this.getActionPointCost() + ' AP[/color][/b] to use and builds up ' + this.isAffordableBasedOnFatiguePreview() ? '[b][color=' + this.Const.UI.Color.PositiveValue + ']' + this.getFatigueCost() : '[b][color=' + this.Const.UI.Color.NegativeValue + ']' + this.getFatigueCost() + ' Fatigue[/color][/b][/i]\n';"
   },
@@ -270,7 +270,7 @@
     "ID": 293422205,
     "key": " and the shot goes astray and hits ",
     "original": " and the shot goes astray and hits ",
-    "translation": "虽然子弹偏离了方向，但打中了",
+    "translation": "虽然偏离了方向，但打中了",
     "stage": 1,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses ' + this.getName() + ' and the shot goes astray and hits ' + this.Const.UI.getColorizedEntityName(_targetEntity)"
   },
@@ -337,7 +337,7 @@
     "ID": 293422214,
     "key": " and the shot goes astray and misses ",
     "original": " and the shot goes astray and misses ",
-    "translation": "但子弹偏离了目标，没有命中。",
+    "translation": "但偏离了目标，没有命中。",
     "stage": 1,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses ' + this.getName() + ' and the shot goes astray and misses ' + this.Const.UI.getColorizedEntityName(_targetEntity) + ' (Chance: ' + this.Math.min(95, this.Math.max(5, toHit)) + ', Rolled: ' + rolled + ')'"
   },

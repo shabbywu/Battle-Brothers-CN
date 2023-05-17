@@ -26,7 +26,7 @@
   {
     "ID": 293403583,
     "key": "Let us set aside skirmishes for now and seek to defeat a group of at least a dozen\nopponents. That is how our name will become known throughout the land!",
-    "original": "Let us set aside skirmishes for now and seek to defeat a group of at least a dozen\\nopponents. That is how our name will become known throughout the land!",
+    "original": "Let us set aside skirmishes for now and seek to defeat a group of at least a dozen\nopponents. That is how our name will become known throughout the land!",
     "translation": "让我们先把小规模战斗放一边，去击败至少一打敌人。 这就是我们的名字将在这片土地上广为人知的原因！",
     "stage": 1,
     "context": "this.m.ButtonText = 'Let us set aside skirmishes for now and seek to defeat a group of at least a dozen\nopponents. That is how our name will become known throughout the land!'"

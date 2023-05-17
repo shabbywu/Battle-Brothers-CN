@@ -3,7 +3,7 @@
     "ID": 293418959,
     "key": "A company standard to take into battle. Held high, allies will rally around it with renewed resolve, and enemies will know well who is about to crush them.",
     "original": "A company standard to take into battle. Held high, allies will rally around it with renewed resolve, and enemies will know well who is about to crush them.",
-    "translation": "一柄能投入战斗的旗帜。高举战旗能提升周围友军的决心，并且还能让敌人知道是谁击溃了他们。",
+    "translation": "一柄能投入战斗的佣兵团旗帜。高举起来，盟友会团结在其周围，重新振奋士气，而敌人也会知道谁即将粉碎他们。",
     "stage": 1,
     "context": "this.m.Description = 'A company standard to take into battle. Held high, allies will rally around it with renewed resolve, and enemies will know well who is about to crush them.'"
   },

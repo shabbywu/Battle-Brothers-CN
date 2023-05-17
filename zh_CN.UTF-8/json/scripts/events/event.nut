@@ -26,8 +26,8 @@
   {
     "ID": 293412508,
     "key": "\n\n[color=#bcad8c]\"",
-    "original": "\\n\\n[color=#bcad8c]\"",
-    "translation": "\\n\\n[color=#bcad8c]\"",
+    "original": "\n\n[color=#bcad8c]\"",
+    "translation": "\n\n[color=#bcad8c]\"",
     "stage": 1
   },
   {

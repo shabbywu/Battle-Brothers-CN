@@ -2,15 +2,15 @@
   {
     "ID": 293403559,
     "key": "\n... and others!",
-    "original": "\\n... and others!",
-    "translation": "\\n... 以及更多!",
+    "original": "\n... and others!",
+    "translation": "\n... 以及更多!",
     "stage": 1,
     "context": "ret = ret + '\n... and others!'"
   },
   {
     "ID": 293403560,
     "key": "I know the soles of your feet are itchy for the open road, and we need to spread\n word about the company. Let us pay visit to every settlement far and wide!",
-    "original": "I know the soles of your feet are itchy for the open road, and we need to spread\\n word about the company. Let us pay visit to every settlement far and wide!",
+    "original": "I know the soles of your feet are itchy for the open road, and we need to spread\n word about the company. Let us pay visit to every settlement far and wide!",
     "translation": "我知道你们现在闲得发慌，而且我们还得宣传咱们的战队。让我们到处拜访每一处定居点！",
     "stage": 1,
     "context": "this.m.ButtonText = 'I know the soles of your feet are itchy for the open road, and we need to spread\n word about the company. Let us pay visit to every settlement far and wide!'"
@@ -18,8 +18,8 @@
   {
     "ID": 293403561,
     "key": "\n\nYou've done what you set out to do.\n",
-    "original": "\\n\\nYou've done what you set out to do.\\n",
-    "translation": "\\n\\n你已经完成了你打算做的事。\\n",
+    "original": "\n\nYou've done what you set out to do.\n",
+    "translation": "\n\n你已经完成了你打算做的事。\n",
     "stage": 1,
     "context": "local ret = this.m.TooltipText + \"\n\nYou've done what you set out to do.\n\""
   },
@@ -58,8 +58,8 @@
   {
     "ID": 293403566,
     "key": "\n\nThere's still some settlements left to visit.\n",
-    "original": "\\n\\nThere's still some settlements left to visit.\\n",
-    "translation": "\\n\\n还有一些定居点要拜访。\\n",
+    "original": "\n\nThere's still some settlements left to visit.\n",
+    "translation": "\n\n还有一些定居点要拜访。\n",
     "stage": 1,
     "context": "local ret = this.m.TooltipText + \"\n\nThere's still some settlements left to visit.\n\""
   }

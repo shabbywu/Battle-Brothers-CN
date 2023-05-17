@@ -99,8 +99,8 @@
   {
     "ID": 293409319,
     "key": "[img]gfx/ui/events/event_94.png[/img]{The enemy is gone, but their work is finished. Smoke lingers around buildings burned to the ground, and those who haven't been taken as indebted to be sold down south lie dead in the streets.\n\nThere is little point in",
-    "original": "[img]gfx/ui/events/event_94.png[/img]{The enemy is gone, but their work is finished. Smoke lingers around buildings burned to the ground, and those who haven't been taken as indebted to be sold down south lie dead in the streets.\\n\\nThere is little point in you returning to your employer, for you stand little chance to get paid for failure. Best to look for new work elsewhere.}",
-    "translation": "[img]gfx/ui/events/event_94.png[/img]{敌人不见了，但他们的工作已经完成。 浓烟弥漫在被烧成灰烬的建筑物周围，那些没有为了在南方卖而作为负债者被抓的人则死在了街上。\\n\\n回去找雇主没有什么意义了，因为你没什么机会为失败得到报酬。 最好去别的地方找新工作。}",
+    "original": "[img]gfx/ui/events/event_94.png[/img]{The enemy is gone, but their work is finished. Smoke lingers around buildings burned to the ground, and those who haven't been taken as indebted to be sold down south lie dead in the streets.\n\nThere is little point in you returning to your employer, for you stand little chance to get paid for failure. Best to look for new work elsewhere.}",
+    "translation": "[img]gfx/ui/events/event_94.png[/img]{敌人不见了，但他们的工作已经完成。 浓烟弥漫在被烧成灰烬的建筑物周围，那些没有为了在南方卖而作为负债者被抓的人则死在了街上。\n\n回去找雇主没有什么意义了，因为你没什么机会为失败得到报酬。 最好去别的地方找新工作。}",
     "stage": 1
   },
   {

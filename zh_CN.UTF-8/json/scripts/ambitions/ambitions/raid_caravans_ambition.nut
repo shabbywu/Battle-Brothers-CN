@@ -10,8 +10,8 @@
   {
     "ID": 293403516,
     "key": "There are lots of riches to be claimed from caravans.\nWe need but take them like fruit from a tree!",
-    "original": "There are lots of riches to be claimed from caravans.\\nWe need but take them like fruit from a tree!",
-    "translation": "那些大篷车装满了财富，就等着我们去抢。\\n我们只需要像从树上摘下的果实一样拿走它们！",
+    "original": "There are lots of riches to be claimed from caravans.\nWe need but take them like fruit from a tree!",
+    "translation": "那些大篷车装满了财富，就等着我们去抢。\n我们只需要像从树上摘下的果实一样拿走它们！",
     "stage": 1,
     "context": "this.m.ButtonText = 'There are lots of riches to be claimed from caravans.\nWe need but take them like fruit from a tree!'"
   },

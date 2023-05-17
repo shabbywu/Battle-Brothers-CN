@@ -60,8 +60,8 @@
   {
     "ID": 293416292,
     "key": "[img]gfx/ui/events/event_25.png[/img]The man's tracks lead away in the hurry that so frightfully forced him out of your sight. A scared man such as he is not hard to find, unfortunately he's not scared anymore, because all you find of him is thoroughly ev",
-    "original": "[img]gfx/ui/events/event_25.png[/img]The man's tracks lead away in the hurry that so frightfully forced him out of your sight. A scared man such as he is not hard to find, unfortunately he's not scared anymore, because all you find of him is thoroughly eviscerated corpse.\\n\\nA slight growl vibrates the nearby bushes. You look over to see slick, black fur slowly stepping out from behind a tree. You yell to the men to arm themselves.",
-    "translation": "[img]gfx/ui/events/event_25.png[/img]他的足迹表明他很慌乱这股恐惧迫使他从你的视线中逃离。 像他这样恐慌的人并不难找，不幸的是，他不能再害怕了，因为你找到了一堆被肢解的很彻底的尸块是刚才那家伙的。\\n\\n一声低沉的咆哮震动了附近的灌木丛。 你看过去，看到那野兽从树后慢慢地走出来。 你对他们大喊让他们武装起来。",
+    "original": "[img]gfx/ui/events/event_25.png[/img]The man's tracks lead away in the hurry that so frightfully forced him out of your sight. A scared man such as he is not hard to find, unfortunately he's not scared anymore, because all you find of him is thoroughly eviscerated corpse.\n\nA slight growl vibrates the nearby bushes. You look over to see slick, black fur slowly stepping out from behind a tree. You yell to the men to arm themselves.",
+    "translation": "[img]gfx/ui/events/event_25.png[/img]他的足迹表明他很慌乱这股恐惧迫使他从你的视线中逃离。 像他这样恐慌的人并不难找，不幸的是，他不能再害怕了，因为你找到了一堆被肢解的很彻底的尸块是刚才那家伙的。\n\n一声低沉的咆哮震动了附近的灌木丛。 你看过去，看到那野兽从树后慢慢地走出来。 你对他们大喊让他们武装起来。",
     "stage": 1
   },
   {

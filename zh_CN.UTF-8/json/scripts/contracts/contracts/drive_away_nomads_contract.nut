@@ -105,8 +105,8 @@
   {
     "ID": 293408730,
     "key": "[img]gfx/ui/events/event_160.png[/img]{As you prepare to attack, a man suddenly rises up out of the sands. Startled, he jerks away and screams, rolling down the sand dune toward the nomads' camp. You chase after him with a weapon out ready to kill. In you",
-    "original": "[img]gfx/ui/events/event_160.png[/img]{As you prepare to attack, a man suddenly rises up out of the sands. Startled, he jerks away and screams, rolling down the sand dune toward the nomads' camp. You chase after him with a weapon out ready to kill. In your bouncing peripheral you can see the nomads clambering over one another and toppling tents to get to their weapons. When you look back at the spotter, he suddenly disappears in sandy clasp, and the arm attached to the dunes extends out of the earth and rises before you, dust and sand and earth falling off its shapes.\\n\\nYou're hardly able to understand what you're seeing, but the nomads all seem to be screaming the same thing: 'Ifrit! Ifrit! Ifrit!' And this faceless, seemingly endless, 'Ifrit' has no allegiances in the combat to come. | You charge down the dunes at the nomads. Startled, they bark out orders and run for their weapons. As you near the camp, a wave of sand blasts the corner of the camp and a few of the nomads go flying. One second later and a boulder comes sailing out of the dust cloud and pulverizes a nomad entirely. A huge, earthen creature bellows and stomps forward. 'Ifrit! Ifrit!' the nomads scream, and you surmise that this 'Ifrit' will be on no man's side.}",
-    "translation": "[img]gfx/ui/events/event_160.png[/img]{当你准备攻击时，一个人突然从沙漠中升起。他被吓到，一边尖叫着一边向着游牧民族的营地滚下沙丘。你紧追不放，手握武器准备杀死他。你在跳跃中可以看到游牧民族相互攀登，倒塌帐篷拿起武器。当你回头看向那个人时，他突然在沙中消失了，连接沙丘的胳膊从地下伸出来，形状上的尘土和沙子落了下来。\\n\\n你几乎不能理解你所看到的，但所有游牧民族似乎都在喊着同样的话：“伊弗利特！伊弗利特！伊弗利特！”这个没有面孔的，看似无穷无尽的“伊弗利特”在即将到来的战斗中没有任何归属。 | 你朝着游牧民族冲下沙丘，他们被吓到了，大声喊着口令，跑去拿武器。当你接近营地时，一股沙子冲击了营地角落，一些游牧民族被扔飞了。一秒钟后，一个巨石从尘云中飞出来，将一名游牧民族砸成碎片。一只巨大的，由土砾形成的生物咆哮着向前走来。“伊弗利特！伊弗利特！”游牧民族尖叫着，你推测这个“伊弗利特”将没有任何一方站在他的一边。}",
+    "original": "[img]gfx/ui/events/event_160.png[/img]{As you prepare to attack, a man suddenly rises up out of the sands. Startled, he jerks away and screams, rolling down the sand dune toward the nomads' camp. You chase after him with a weapon out ready to kill. In your bouncing peripheral you can see the nomads clambering over one another and toppling tents to get to their weapons. When you look back at the spotter, he suddenly disappears in sandy clasp, and the arm attached to the dunes extends out of the earth and rises before you, dust and sand and earth falling off its shapes.\n\nYou're hardly able to understand what you're seeing, but the nomads all seem to be screaming the same thing: 'Ifrit! Ifrit! Ifrit!' And this faceless, seemingly endless, 'Ifrit' has no allegiances in the combat to come. | You charge down the dunes at the nomads. Startled, they bark out orders and run for their weapons. As you near the camp, a wave of sand blasts the corner of the camp and a few of the nomads go flying. One second later and a boulder comes sailing out of the dust cloud and pulverizes a nomad entirely. A huge, earthen creature bellows and stomps forward. 'Ifrit! Ifrit!' the nomads scream, and you surmise that this 'Ifrit' will be on no man's side.}",
+    "translation": "[img]gfx/ui/events/event_160.png[/img]{当你准备攻击时，一个人突然从沙漠中升起。他被吓到，一边尖叫着一边向着游牧民族的营地滚下沙丘。你紧追不放，手握武器准备杀死他。你在跳跃中可以看到游牧民族相互攀登，倒塌帐篷拿起武器。当你回头看向那个人时，他突然在沙中消失了，连接沙丘的胳膊从地下伸出来，形状上的尘土和沙子落了下来。\n\n你几乎不能理解你所看到的，但所有游牧民族似乎都在喊着同样的话：“伊弗利特！伊弗利特！伊弗利特！”这个没有面孔的，看似无穷无尽的“伊弗利特”在即将到来的战斗中没有任何归属。 | 你朝着游牧民族冲下沙丘，他们被吓到了，大声喊着口令，跑去拿武器。当你接近营地时，一股沙子冲击了营地角落，一些游牧民族被扔飞了。一秒钟后，一个巨石从尘云中飞出来，将一名游牧民族砸成碎片。一只巨大的，由土砾形成的生物咆哮着向前走来。“伊弗利特！伊弗利特！”游牧民族尖叫着，你推测这个“伊弗利特”将没有任何一方站在他的一边。}",
     "stage": 1
   },
   {
@@ -119,8 +119,8 @@
   {
     "ID": 293408732,
     "key": "[img]gfx/ui/events/event_54.png[/img]{The nomads are surprisingly stationary and suprisingly many, but it appears there's a reason for that: you find the sand dwellers huddled around a hole in the ground. They've constructed pullies around it and are work",
-    "original": "[img]gfx/ui/events/event_54.png[/img]{The nomads are surprisingly stationary and suprisingly many, but it appears there's a reason for that: you find the sand dwellers huddled around a hole in the ground. They've constructed pullies around it and are working feverishly to drag up whatever it is they've found in the desert. Based upon the grin of the man overseeing the operation, it is no doubt a trove of treasure.\\n\\nYou could attack now, and face more opposition, or you could wait until they're done and have left with whatever they're digging up.}",
-    "translation": "[img]gfx/ui/events/event_54.png[/img]{游牧民出乎意料的按兵不动、人数众多，你发现了这样的原因所在：这些沙漠住民围在地上的一个洞旁边。 用着制作的滑轮，心急火燎地挖着他们能在沙漠里发现的一切。 从监督这次行动的人的笑容来看，这里想必是埋藏着宝物。\\n\\n你可以现在进攻，这样会面临更多的敌人，或者你可以等到他们挖完东西，带着他们挖出来的东西离开。}",
+    "original": "[img]gfx/ui/events/event_54.png[/img]{The nomads are surprisingly stationary and suprisingly many, but it appears there's a reason for that: you find the sand dwellers huddled around a hole in the ground. They've constructed pullies around it and are working feverishly to drag up whatever it is they've found in the desert. Based upon the grin of the man overseeing the operation, it is no doubt a trove of treasure.\n\nYou could attack now, and face more opposition, or you could wait until they're done and have left with whatever they're digging up.}",
+    "translation": "[img]gfx/ui/events/event_54.png[/img]{游牧民出乎意料的按兵不动、人数众多，你发现了这样的原因所在：这些沙漠住民围在地上的一个洞旁边。 用着制作的滑轮，心急火燎地挖着他们能在沙漠里发现的一切。 从监督这次行动的人的笑容来看，这里想必是埋藏着宝物。\n\n你可以现在进攻，这样会面临更多的敌人，或者你可以等到他们挖完东西，带着他们挖出来的东西离开。}",
     "stage": 1
   },
   {
@@ -205,7 +205,7 @@
     "ID": 293408744,
     "key": "Drive off nomads at ",
     "original": "Drive off nomads at ",
-    "translation": "驱逐游牧民族在战团",
+    "translation": "驱逐游牧民族于",
     "stage": 1,
     "context": "'Drive off nomads at ' + this.Flags.get('DestinationName') + ' %direction% of %origin%'"
   }

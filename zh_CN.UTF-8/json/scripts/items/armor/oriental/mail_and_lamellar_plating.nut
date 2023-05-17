@@ -3,7 +3,7 @@
     "ID": 293417813,
     "key": "Mail with Lamellar Plating",
     "original": "Mail with Lamellar Plating",
-    "translation": "层状金属链甲",
+    "translation": "金属札链甲",
     "stage": 1,
     "context": "this.m.Name = 'Mail with Lamellar Plating'"
   },

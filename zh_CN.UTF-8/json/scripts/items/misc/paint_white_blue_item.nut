@@ -18,7 +18,7 @@
     "ID": 293418700,
     "key": "Buckets of white and blue paint. Can be used to paint many common helmets.",
     "original": "Buckets of white and blue paint. Can be used to paint many common helmets.",
-    "translation": "一桶白蓝色的油漆。 可以喷涂许多普通的头盔。",
+    "translation": "一桶白蓝色的油漆。可用于给许多普通的头盔上漆。",
     "stage": 1,
     "context": "this.m.Description = 'Buckets of white and blue paint. Can be used to paint many common helmets.'"
   }

@@ -41,8 +41,8 @@
   {
     "ID": 293419674,
     "key": "[p=c][img]gfx/ui/events/event_80.png[/img][/p][p]After years of bloodying your sword for meager pay, you've saved enough crowns to start your very own mercenary company. With you are three experienced mercenaries with whom you've fought side by side in th",
-    "original": "[p=c][img]gfx/ui/events/event_80.png[/img][/p][p]After years of bloodying your sword for meager pay, you've saved enough crowns to start your very own mercenary company. With you are three experienced mercenaries with whom you've fought side by side in the shieldwall before.\\n\\n[color=#bcad8c]A quick start into the world, without any particular advantages or disadvantages.[/color][/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_80.png[/img][/p][p]多年来，你以微薄的报酬做着刀口舔血的工作，现在终于攒下来足够的克朗去组建一支你自己的佣兵战队了。 与你在一起的是三个经验丰富的佣兵，你以前曾与他们并肩战斗过。\\n\\n[color=#bcad8c]快速开始进入世界，没有任何特殊的优势或劣势。[/color][/p]",
+    "original": "[p=c][img]gfx/ui/events/event_80.png[/img][/p][p]After years of bloodying your sword for meager pay, you've saved enough crowns to start your very own mercenary company. With you are three experienced mercenaries with whom you've fought side by side in the shieldwall before.\n\n[color=#bcad8c]A quick start into the world, without any particular advantages or disadvantages.[/color][/p]",
+    "translation": "[p=c][img]gfx/ui/events/event_80.png[/img][/p][p]多年来，你以微薄的报酬做着刀口舔血的工作，现在终于攒下来足够的克朗去组建一支你自己的佣兵战队了。 与你在一起的是三个经验丰富的佣兵，你以前曾与他们并肩战斗过。\n\n[color=#bcad8c]快速开始进入世界，没有任何特殊的优势或劣势。[/color][/p]",
     "stage": 1,
     "context": "this.m.Description = \"[p=c][img]gfx/ui/events/event_80.png[/img][/p][p]After years of bloodying your sword for meager pay, you've saved enough crowns to start your very own mercenary company. With you are three experienced mercenaries with whom you've fought side by side in the shieldwall before.\n\n[color=#bcad8c]A quick start into the world, without any particular advantages or disadvantages.[/color][/p]\""
   }

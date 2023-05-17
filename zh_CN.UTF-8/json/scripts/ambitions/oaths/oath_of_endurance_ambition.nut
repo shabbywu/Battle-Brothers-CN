@@ -10,8 +10,8 @@
   {
     "ID": 293403639,
     "key": "To uphold Young Anselm's Oaths is to take on a duty without end.\nLet us take an Oath of Endurance and prepare ourselves for the tasks to come!",
-    "original": "To uphold Young Anselm's Oaths is to take on a duty without end.\\nLet us take an Oath of Endurance and prepare ourselves for the tasks to come!",
-    "translation": "坚持初创者安塞姆的誓言就是承担起一种无穷无尽的责任。\\n让我们立下忍耐誓言，为即将到来的任务做好准备！",
+    "original": "To uphold Young Anselm's Oaths is to take on a duty without end.\nLet us take an Oath of Endurance and prepare ourselves for the tasks to come!",
+    "translation": "坚持初创者安塞姆的誓言就是承担起一种无穷无尽的责任。\n让我们立下忍耐誓言，为即将到来的任务做好准备！",
     "stage": 1,
     "context": "this.m.ButtonText = \"To uphold Young Anselm's Oaths is to take on a duty without end.\nLet us take an Oath of Endurance and prepare ourselves for the tasks to come!\""
   },
@@ -34,7 +34,7 @@
   {
     "ID": 293403642,
     "key": "[img]gfx/ui/events/event_180.png[/img]{When asked what army he would wish to see deployed before him, a famous general remarked: 'one that does not need to breathe.' No matter how skilled a man is, if he does not have the energy to fight, then all his abi",
-    "original": "[img]gfx/ui/events/event_180.png[/img]{When asked what army he would wish to see deployed before him, a famous general remarked: 'one that does not need to breathe.' No matter how skilled a man is, if he does not have the energy to fight, then all his abilities are reduced to nothing but wheezes of air, and in such a state even a swordmaster may find himself only as dangerous as a dram wench. A good breath taken now is a well-placed sword swing later. The %companyname% has followed that axiom to its fullest!\\n\\nNow that the company has filled its lungs of proper fire, it is ready to accept another Oath!}",
+    "original": "[img]gfx/ui/events/event_180.png[/img]{When asked what army he would wish to see deployed before him, a famous general remarked: 'one that does not need to breathe.' No matter how skilled a man is, if he does not have the energy to fight, then all his abilities are reduced to nothing but wheezes of air, and in such a state even a swordmaster may find himself only as dangerous as a dram wench. A good breath taken now is a well-placed sword swing later. The %companyname% has followed that axiom to its fullest!\n\nNow that the company has filled its lungs of proper fire, it is ready to accept another Oath!}",
     "translation": "[img]gfx/ui/events/event_180.png[/img]{一位著名将军被问到他希望看到哪支军队在他面前部署，他回答道：‘一支不需要呼吸的军队。’不管一个人有多么熟练，如果他没有战斗的能量，那么他所有的技能都将消失，只剩下呼吸声，甚至连剑术大师也会发现自己只有像一个卖酒的女人一样危险。现在喘上一口气，就等于成功地挥出了宝刀。%companyname%已经充分遵循了这个格言！现在战团已经充满了合适的激情，准备接受另一个誓言！}",
     "stage": 1,
     "context": "this.m.SuccessText = \"[img]gfx/ui/events/event_180.png[/img]{When asked what army he would wish to see deployed before him, a famous general remarked: 'one that does not need to breathe.' No matter how skilled a man is, if he does not have the energy to fight, then all his abilities are reduced to nothing but wheezes of air, and in such a state even a swordmaster may find himself only as dangerous as a dram wench. A good breath taken now is a well-placed sword swing later. The %companyname% has followed that axiom to its fullest!\n\nNow that the company has filled its lungs of proper fire, it is ready to accept another Oath!}\""

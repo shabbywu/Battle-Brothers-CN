@@ -11,7 +11,7 @@
     "ID": 293418044,
     "key": "A rough spun cloth bag with two holes in it.",
     "original": "A rough spun cloth bag with two holes in it.",
-    "translation": "有两个圆孔的粗纺布包。",
+    "translation": "一个粗糙的带两个洞的布袋。",
     "stage": 1,
     "context": "this.m.Description = 'A rough spun cloth bag with two holes in it.'"
   }

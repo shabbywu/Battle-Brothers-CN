@@ -3,7 +3,7 @@
     "ID": 293419047,
     "key": "A very crude cleaver crafted from a sharpened antler. Heavy and blunt, but still dangerous.",
     "original": "A very crude cleaver crafted from a sharpened antler. Heavy and blunt, but still dangerous.",
-    "translation": "一把用锋利鹿角制作的粗糙砍刀。 又钝又重，但依然危险。",
+    "translation": "由锋利的鹿角制成的非常粗糙的切肉刀。又重又钝，但仍然很危险。",
     "stage": 1,
     "context": "this.m.Description = 'A very crude cleaver crafted from a sharpened antler. Heavy and blunt, but still dangerous.'"
   },

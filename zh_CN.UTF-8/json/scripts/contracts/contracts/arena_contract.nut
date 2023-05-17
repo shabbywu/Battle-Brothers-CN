@@ -26,7 +26,7 @@
   {
     "ID": 293407770,
     "key": "[img]gfx/ui/events/event_155.png[/img]Dozens of men mingle about the arena's entrance. Some stand stoically, not wishing to give any hint of their capabilities. Others, however, boast and brag with aplomb, either sincerely confident in their martial skill",
-    "original": "[img]gfx/ui/events/event_155.png[/img]Dozens of men mingle about the arena's entrance. Some stand stoically, not wishing to give any hint of their capabilities. Others, however, boast and brag with aplomb, either sincerely confident in their martial skills or hoping their bravado masks any holes in their game.\\n\\n",
+    "original": "[img]gfx/ui/events/event_155.png[/img]Dozens of men mingle about the arena's entrance. Some stand stoically, not wishing to give any hint of their capabilities. Others, however, boast and brag with aplomb, either sincerely confident in their martial skills or hoping their bravado masks any holes in their game.\n\n",
     "translation": "[img]gfx/ui/events/event_155.png[/img]数十名男子在竞技场入口处闲逛。有些人沉默不语，不想暴露出他们的能力。然而，其他人则毫不掩饰地吹嘘自己的功夫，或是希望自己的虚张声势掩盖他们的短板。",
     "stage": 1,
     "context": "this.Text = \"[img]gfx/ui/events/event_155.png[/img]Dozens of men mingle about the arena's entrance. Some stand stoically, not wishing to give any hint of their capabilities. Others, however, boast and brag with aplomb, either sincerely confident in their martial skills or hoping their bravado masks any holes in their game.\n\n\""
@@ -241,8 +241,8 @@
   {
     "ID": 293407798,
     "key": "{[img]gfx/ui/events/event_155.png[/img]The time for your arena match has come, but none of your men bear the arena collars, and so they aren't let in.\n\nYou should decide on who is to fight by equipping them with the arena collars that you've been given, a",
-    "original": "{[img]gfx/ui/events/event_155.png[/img]The time for your arena match has come, but none of your men bear the arena collars, and so they aren't let in.\\n\\nYou should decide on who is to fight by equipping them with the arena collars that you've been given, and the match will start once you enter the arena again.",
-    "translation": "{[img]gfx/ui/events/event_155.png[/img] 竞技场比赛的时间到了，但是你的士兵们没有佩戴竞技场项圈，所以他们被禁止进入。\\n\\n你应该决定谁去参加比赛，通过给他们佩戴竞技场项圈，一旦你再次进入竞技场比赛就会开始。",
+    "original": "{[img]gfx/ui/events/event_155.png[/img]The time for your arena match has come, but none of your men bear the arena collars, and so they aren't let in.\n\nYou should decide on who is to fight by equipping them with the arena collars that you've been given, and the match will start once you enter the arena again.",
+    "translation": "{[img]gfx/ui/events/event_155.png[/img] 竞技场比赛的时间到了，但是你的士兵们没有佩戴竞技场项圈，所以他们被禁止进入。\n\n你应该决定谁去参加比赛，通过给他们佩戴竞技场项圈，一旦你再次进入竞技场比赛就会开始。",
     "stage": 1
   },
   {

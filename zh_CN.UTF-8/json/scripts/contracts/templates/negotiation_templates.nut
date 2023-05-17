@@ -3,7 +3,7 @@
     "ID": 293410110,
     "key": " crowns on completion",
     "original": " crowns on completion",
-    "translation": "克朗在合同完成后。",
+    "translation": "克朗。",
     "stage": 1,
     "context": "'Get ' + this.Contract.m.Payment.getOnCompletion() + ' crowns on completion'"
   },
@@ -35,7 +35,7 @@
     "ID": 293410114,
     "key": "Get ",
     "original": "Get ",
-    "translation": "给我",
+    "translation": "在合同完成后获得",
     "stage": 1,
     "context": "'Get ' + this.Contract.m.Payment.getPerCount() + ' crowns per head you arrive with, up to ' + this.Contract.m.Payment.MaxCount + ' total'"
   },
@@ -151,7 +151,7 @@
     "ID": 293410129,
     "key": " crowns per head you arrive with, up to ",
     "original": " crowns per head you arrive with, up to ",
-    "translation": " 克朗你每带回一个人头，总共最多给",
+    "translation": "克朗（每带回一个人头），人数最多为",
     "stage": 1,
     "context": "'Get ' + this.Contract.m.Payment.getPerCount() + ' crowns per head you arrive with, up to ' + this.Contract.m.Payment.MaxCount + ' total'"
   },
@@ -205,7 +205,7 @@
     "ID": 293410136,
     "key": " crowns per head you bring back, up to ",
     "original": " crowns per head you bring back, up to ",
-    "translation": " 克朗，为你带回的每个人头， up to ",
+    "translation": " 克朗，为你带回的每个人头，人数最多为",
     "stage": 1,
     "context": "'Get ' + this.Contract.m.Payment.getPerCount() + ' crowns per head you bring back, up to ' + this.Contract.m.Payment.MaxCount + ' total'"
   },

@@ -67,7 +67,7 @@
     "ID": 293412499,
     "key": "The ",
     "original": "The ",
-    "translation": "",
+    "translation": "这个",
     "stage": -1
   },
   {

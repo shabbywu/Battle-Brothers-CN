@@ -66,7 +66,7 @@
     "ID": 293410240,
     "key": "'s armor is hit for [b]",
     "original": "'s armor is hit for [b]",
-    "translation": "'s盔甲被击中，受到[b]",
+    "translation": "的盔甲被击中，受到[b]",
     "stage": 1,
     "context": "this.Const.UI.getColorizedEntityName(this) + \"'s armor is hit for [b]\" + this.Math.floor(_hitInfo.DamageArmor) + '[/b] damage'"
   },

@@ -2,8 +2,8 @@
   {
     "ID": 293403456,
     "key": "Mundane armors won't do for a real mercenary outfit.\nWe should adorn our gear with trophies of our deeds!",
-    "original": "Mundane armors won't do for a real mercenary outfit.\\nWe should adorn our gear with trophies of our deeds!",
-    "translation": "世俗的盔甲不适合作为真正的雇佣兵装备。\\n我们应该用战利品来装饰我们的装备！",
+    "original": "Mundane armors won't do for a real mercenary outfit.\nWe should adorn our gear with trophies of our deeds!",
+    "translation": "世俗的盔甲不适合作为真正的雇佣兵装备。\n我们应该用战利品来装饰我们的装备！",
     "stage": 1,
     "context": "this.m.ButtonText = \"Mundane armors won't do for a real mercenary outfit.\nWe should adorn our gear with trophies of our deeds!\""
   },

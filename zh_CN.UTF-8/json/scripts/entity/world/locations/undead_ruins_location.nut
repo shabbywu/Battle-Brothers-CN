@@ -3,7 +3,7 @@
     "ID": 293410675,
     "key": "These ancient ruins cast their shadows far over the surrounding sands.",
     "original": "These ancient ruins cast their shadows far over the surrounding sands.",
-    "translation": "这些古代遗迹在沙地上拉出长长的阴影。",
+    "translation": "这些古老的遗迹把它们的影子远远地投在周围的沙子上。",
     "stage": 1,
     "context": "return 'These ancient ruins cast their shadows far over the surrounding sands.';"
   },

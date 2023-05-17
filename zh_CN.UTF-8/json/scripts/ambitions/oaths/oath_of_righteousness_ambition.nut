@@ -2,8 +2,8 @@
   {
     "ID": 293403678,
     "key": "[img]gfx/ui/events/event_180.png[/img]When you walk the earth, one can't help but wonder who came before, and who or what comes after. So the sight of the dead walking again is such a disturbing answer to this inquiry that most would rather run from it th",
-    "original": "[img]gfx/ui/events/event_180.png[/img]When you walk the earth, one can't help but wonder who came before, and who or what comes after. So the sight of the dead walking again is such a disturbing answer to this inquiry that most would rather run from it than seek confirmation, and in that confirmation: confrontation. But it is these godless cretins which the %companyname% sought, taking an oath to vanquish them wherever found. It was a righteous affair requiring great mettle and stupendous courage, and upon completion there's little doubt that the men of the %companyname% have been spurred with a sense of accomplishment that few who walk this earth, dead or alive, shall ever feel.\\n\\nWith veins aflame with righteousness, the %companyname% is ready to take on its next Oath!",
-    "translation": "[img]gfx/ui/events/event_180.png[/img]在你走过这片大地时，不禁想知道之前有谁来过，之后有谁或什么出现。所以尸体再次行走的景象是一个如此令人不安的回答，大多数人宁愿逃离它也不愿意去寻找确认，因为确认意味着直面。但正是这些没有信仰的畜生成为了%companyname%战团寻找的对象，誓言要在任何地方消灭他们。这是一个正义的事情，需要巨大的勇气和毅力，完成后，%companyname%的士兵们毫不怀疑已经被一种几乎没有人能够感到的成就感所激发。\\n\\n怀揣正义的热血，%companyname%已经准备迎接他们的下一个誓言！",
+    "original": "[img]gfx/ui/events/event_180.png[/img]When you walk the earth, one can't help but wonder who came before, and who or what comes after. So the sight of the dead walking again is such a disturbing answer to this inquiry that most would rather run from it than seek confirmation, and in that confirmation: confrontation. But it is these godless cretins which the %companyname% sought, taking an oath to vanquish them wherever found. It was a righteous affair requiring great mettle and stupendous courage, and upon completion there's little doubt that the men of the %companyname% have been spurred with a sense of accomplishment that few who walk this earth, dead or alive, shall ever feel.\n\nWith veins aflame with righteousness, the %companyname% is ready to take on its next Oath!",
+    "translation": "[img]gfx/ui/events/event_180.png[/img]在你走过这片大地时，不禁想知道之前有谁来过，之后有谁或什么出现。所以尸体再次行走的景象是一个如此令人不安的回答，大多数人宁愿逃离它也不愿意去寻找确认，因为确认意味着直面。但正是这些没有信仰的畜生成为了%companyname%战团寻找的对象，誓言要在任何地方消灭他们。这是一个正义的事情，需要巨大的勇气和毅力，完成后，%companyname%的士兵们毫不怀疑已经被一种几乎没有人能够感到的成就感所激发。\n\n怀揣正义的热血，%companyname%已经准备迎接他们的下一个誓言！",
     "stage": 1,
     "context": "this.m.SuccessText = \"[img]gfx/ui/events/event_180.png[/img]When you walk the earth, one can't help but wonder who came before, and who or what comes after. So the sight of the dead walking again is such a disturbing answer to this inquiry that most would rather run from it than seek confirmation, and in that confirmation: confrontation. But it is these godless cretins which the %companyname% sought, taking an oath to vanquish them wherever found. It was a righteous affair requiring great mettle and stupendous courage, and upon completion there's little doubt that the men of the %companyname% have been spurred with a sense of accomplishment that few who walk this earth, dead or alive, shall ever feel.\n\nWith veins aflame with righteousness, the %companyname% is ready to take on its next Oath!\""
   },
@@ -58,8 +58,8 @@
   {
     "ID": 293403685,
     "key": "Few aberrations are as repugnant as the undead.\nLet us take an Oath of Righteousness and strike down these mockeries of life!",
-    "original": "Few aberrations are as repugnant as the undead.\\nLet us take an Oath of Righteousness and strike down these mockeries of life!",
-    "translation": "很少有怪物能像不死生物那样令人厌恶。\\n让我们立下正义誓言，击溃这些公然嘲弄生命的污秽邪物！",
+    "original": "Few aberrations are as repugnant as the undead.\nLet us take an Oath of Righteousness and strike down these mockeries of life!",
+    "translation": "很少有怪物能像不死生物那样令人厌恶。\n让我们立下正义誓言，击溃这些公然嘲弄生命的污秽邪物！",
     "stage": 1,
     "context": "this.m.ButtonText = 'Few aberrations are as repugnant as the undead.\nLet us take an Oath of Righteousness and strike down these mockeries of life!'"
   },

@@ -26,16 +26,16 @@
   {
     "ID": 293403663,
     "key": "As warriors, we must never lose sight of true honor.\nLet us take an Oath of Honor and meet our opponents in melee!",
-    "original": "As warriors, we must never lose sight of true honor.\\nLet us take an Oath of Honor and meet our opponents in melee!",
-    "translation": "作为战士，我们决不能忽视真正的荣誉。\\n让我们立下荣耀誓言，与我们的对手短兵相接！",
+    "original": "As warriors, we must never lose sight of true honor.\nLet us take an Oath of Honor and meet our opponents in melee!",
+    "translation": "作为战士，我们决不能忽视真正的荣誉。\n让我们立下荣耀誓言，与我们的对手短兵相接！",
     "stage": 1,
     "context": "this.m.ButtonText = 'As warriors, we must never lose sight of true honor.\nLet us take an Oath of Honor and meet our opponents in melee!'"
   },
   {
     "ID": 293403664,
     "key": "[img]gfx/ui/events/event_180.png[/img]No matter what the bow users wish to say, when it comes down to it there is no greater honor than meeting a man face to face, each of you with sword in hand, locking eyes between crossed steel, in this clash finding a",
-    "original": "[img]gfx/ui/events/event_180.png[/img]No matter what the bow users wish to say, when it comes down to it there is no greater honor than meeting a man face to face, each of you with sword in hand, locking eyes between crossed steel, in this clash finding a brief respite before one finds their demise. Even in the tournaments, the grand event is not some ridiculous affair like shooting apples off heads or birds out of the sky. No, it is the joust! Martial combat! The greatest honor in battle undertaken by the greatest company in the %companyname%.\\n\\nNow that the company is of sturdy might and main, it is ready to accept its next Oath!",
-    "translation": "[img]gfx/ui/events/event_180.png[/img]无论弓手们想说什么，当事情到了这个地步，没有什么比面对面遇见一名男子，你们各自手持剑，交错的刀剑间，对视一眼，然后在战斗中找到短暂的喘息，直到无一幸存。即使在比赛中，巨大的事件也不是一些荒谬的事情，比如从头上把苹果射出去或者把鸟射下来。不，是骑士比武！军事战斗！这是由%companyname%进行的最伟大的荣誉。\\n\\n现在，该战团已经强大，准备接受它的下一个誓言！",
+    "original": "[img]gfx/ui/events/event_180.png[/img]No matter what the bow users wish to say, when it comes down to it there is no greater honor than meeting a man face to face, each of you with sword in hand, locking eyes between crossed steel, in this clash finding a brief respite before one finds their demise. Even in the tournaments, the grand event is not some ridiculous affair like shooting apples off heads or birds out of the sky. No, it is the joust! Martial combat! The greatest honor in battle undertaken by the greatest company in the %companyname%.\n\nNow that the company is of sturdy might and main, it is ready to accept its next Oath!",
+    "translation": "[img]gfx/ui/events/event_180.png[/img]无论弓手们想说什么，当事情到了这个地步，没有什么比面对面遇见一名男子，你们各自手持剑，交错的刀剑间，对视一眼，然后在战斗中找到短暂的喘息，直到无一幸存。即使在比赛中，巨大的事件也不是一些荒谬的事情，比如从头上把苹果射出去或者把鸟射下来。不，是骑士比武！军事战斗！这是由%companyname%进行的最伟大的荣誉。\n\n现在，该战团已经强大，准备接受它的下一个誓言！",
     "stage": 1,
     "context": "this.m.SuccessText = '[img]gfx/ui/events/event_180.png[/img]No matter what the bow users wish to say, when it comes down to it there is no greater honor than meeting a man face to face, each of you with sword in hand, locking eyes between crossed steel, in this clash finding a brief respite before one finds their demise. Even in the tournaments, the grand event is not some ridiculous affair like shooting apples off heads or birds out of the sky. No, it is the joust! Martial combat! The greatest honor in battle undertaken by the greatest company in the %companyname%.\n\nNow that the company is of sturdy might and main, it is ready to accept its next Oath!'"
   },

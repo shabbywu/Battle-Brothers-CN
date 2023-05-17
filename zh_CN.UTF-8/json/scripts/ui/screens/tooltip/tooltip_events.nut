@@ -44,8 +44,8 @@
   {
     "ID": 293422959,
     "key": "\n\n[color=",
-    "original": "\\n\\n[color=",
-    "translation": "\\n\\n[color=",
+    "original": "\n\n[color=",
+    "translation": "\n\n[color=",
     "stage": 1,
     "context": "ret.1[7] += '\n\n[color=' + this.Const.UI.Color.PositiveValue + ']This DLC has been installed.[/color]'"
   },
@@ -115,8 +115,8 @@
   {
     "ID": 293422969,
     "key": "Medical supplies consist of bandages, herbs, salves and the like, and are used to heal the more severe injuries sustained by your men in battle. One point of medical supplies is required each day for every injury to improve and ultimately heal. Lost hitpo",
-    "original": "Medical supplies consist of bandages, herbs, salves and the like, and are used to heal the more severe injuries sustained by your men in battle. One point of medical supplies is required each day for every injury to improve and ultimately heal. Lost hitpoints heal on their own.\\n\\nRunning out of medical supplies will leave your men unable to recover from severe injuries.",
-    "translation": "医疗用品由绷带、草药、药膏等组成，用于治疗战斗中士兵遭受的更严重的伤害。 每天需要一点医疗用品来改善和最终治愈每一个损伤。 失去的生命值会自行恢复。\\n\\n医疗用品用完会使你的人无法从重伤中恢复过来。",
+    "original": "Medical supplies consist of bandages, herbs, salves and the like, and are used to heal the more severe injuries sustained by your men in battle. One point of medical supplies is required each day for every injury to improve and ultimately heal. Lost hitpoints heal on their own.\n\nRunning out of medical supplies will leave your men unable to recover from severe injuries.",
+    "translation": "医疗用品由绷带、草药、药膏等组成，用于治疗战斗中士兵遭受的更严重的伤害。 每天需要一点医疗用品来改善和最终治愈每一个损伤。 失去的生命值会自行恢复。\n\n医疗用品用完会使你的人无法从重伤中恢复过来。",
     "stage": 1,
     "context": "local desc = 'Medical supplies consist of bandages, herbs, salves and the like, and are used to heal the more severe injuries sustained by your men in battle. One point of medical supplies is required each day for every injury to improve and ultimately heal. Lost hitpoints heal on their own.\n\nRunning out of medical supplies will leave your men unable to recover from severe injuries.'"
   },
@@ -158,8 +158,8 @@
   {
     "ID": 293422975,
     "key": "[/color] crowns per day.\n\n[color=",
-    "original": "[/color] crowns per day.\\n\\n[color=",
-    "translation": "[/color] 克朗每天。\\n\\n[color=",
+    "original": "[/color] crowns per day.\n\n[color=",
+    "translation": "[/color] 克朗每天。\n\n[color=",
     "stage": 1,
     "context": "'The amount of coin your mercenary company has. Used to pay every man daily, as well as to hire new men and purchase equipment.\n\nYou pay out [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyMoney + '[/color] crowns per day.\n\n[color=' + this.Const.UI.Color.NegativeValue + ']You have no more crowns to pay your men with! Earn some crowns fast or let some people go before they desert you one by one.[/color]'"
   },
@@ -341,7 +341,7 @@
   {
     "ID": 293423000,
     "key": "\n\nHealing up all your men will take between [color=",
-    "original": "\\n\\nHealing up all your men will take between [color=",
+    "original": "\n\nHealing up all your men will take between [color=",
     "translation": "治愈所有士兵将需要一段时间 [color=\"",
     "stage": 1,
     "context": "desc = desc + '\n\nHealing up all your men will take between [color=' + this.Const.UI.Color.PositiveValue + ']' + heal.DaysMin + '[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']' + heal.DaysMax + '[/color] days and requires between '"
@@ -463,22 +463,22 @@
   {
     "ID": 293423017,
     "key": "Contracts will pay less, and deserters will take their equipment with them.\n\nRecommended for experts in the game who want more of a challenge managing the company's funds and supplies.",
-    "original": "Contracts will pay less, and deserters will take their equipment with them.\\n\\nRecommended for experts in the game who want more of a challenge managing the company's funds and supplies.",
-    "translation": "合同费用会减少，逃兵会带上他们的装备。\\n\\n推荐给那些希望在管理战队资金和补给方面遇到更多挑战的游戏专家。",
+    "original": "Contracts will pay less, and deserters will take their equipment with them.\n\nRecommended for experts in the game who want more of a challenge managing the company's funds and supplies.",
+    "translation": "合同费用会减少，逃兵会带上他们的装备。\n\n推荐给那些希望在管理战队资金和补给方面遇到更多挑战的游戏专家。",
     "stage": 1
   },
   {
     "ID": 293423018,
     "key": "Switch to viewing the perks of the currently selected character.\n\nThe number in braces, if any, is the number of available perk points.",
-    "original": "Switch to viewing the perks of the currently selected character.\\n\\nThe number in braces, if any, is the number of available perk points.",
-    "translation": "切换到查看当前选定角色的特技。\\n\\n括号中的数字（如果有）是可用的特技点数。",
+    "original": "Switch to viewing the perks of the currently selected character.\n\nThe number in braces, if any, is the number of available perk points.",
+    "translation": "切换到查看当前选定角色的特技。\n\n括号中的数字（如果有）是可用的特技点数。",
     "stage": 1
   },
   {
     "ID": 293423019,
     "key": "The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou currently don't pay anyone.",
-    "original": "The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\\n\\nYou currently don't pay anyone.",
-    "translation": "你的雇佣兵战队拥有的硬币数量。 用于每天中午给每个人发工资，还可以雇新人和购买装备。\\n\\n你现在不给任何人付工资。",
+    "original": "The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou currently don't pay anyone.",
+    "translation": "你的雇佣兵战队拥有的硬币数量。 用于每天中午给每个人发工资，还可以雇新人和购买装备。\n\n你现在不给任何人付工资。",
     "stage": 1
   },
   {
@@ -498,8 +498,8 @@
   {
     "ID": 293423022,
     "key": "The character's level measures experience in battle. Characters rise in levels as they gain experience and are able to increase their attributes and gain perks that make them better at the mercenary profession.\n\nBeyond the 11th character level, characters",
-    "original": "The character's level measures experience in battle. Characters rise in levels as they gain experience and are able to increase their attributes and gain perks that make them better at the mercenary profession.\\n\\nBeyond the 11th character level, characters are veterans and will no longer gain perk points, but can still continue to improve.",
-    "translation": "角色的等级衡量战斗中的经验。 角色在获得经验的同时也会提升等级，并且能够增加他们的属性和获得使他们更擅长雇佣职业的特技。\\n\\n在角色11级之后，角色成为经验丰富的人，不再获得特技点，但仍可以继续提高。",
+    "original": "The character's level measures experience in battle. Characters rise in levels as they gain experience and are able to increase their attributes and gain perks that make them better at the mercenary profession.\n\nBeyond the 11th character level, characters are veterans and will no longer gain perk points, but can still continue to improve.",
+    "translation": "角色的等级衡量战斗中的经验。 角色在获得经验的同时也会提升等级，并且能够增加他们的属性和获得使他们更擅长雇佣职业的特技。\n\n在角色11级之后，角色成为经验丰富的人，不再获得特技点，但仍可以继续提高。",
     "stage": 1
   },
   {
@@ -519,8 +519,8 @@
   {
     "ID": 293423025,
     "key": "Your opponents will be more challenging and numerous.\n\nRecommended for experts in the game who want an even deadlier challenge.",
-    "original": "Your opponents will be more challenging and numerous.\\n\\nRecommended for experts in the game who want an even deadlier challenge.",
-    "translation": "你的对手将更具挑战性和更多。\\n\\n推荐给那些想要更致命挑战的游戏专家。",
+    "original": "Your opponents will be more challenging and numerous.\n\nRecommended for experts in the game who want an even deadlier challenge.",
+    "translation": "你的对手将更具挑战性和更多。\n\n推荐给那些想要更致命挑战的游戏专家。",
     "stage": 1
   },
   {
@@ -533,8 +533,8 @@
   {
     "ID": 293423027,
     "key": "The total amount of provisions you carry. The average man requires 2 provisions per day and more on difficult terrain. Your men will eat the provisions closest to expiring first. Running out of provisions will lower morale and will eventually lead to your",
-    "original": "The total amount of provisions you carry. The average man requires 2 provisions per day and more on difficult terrain. Your men will eat the provisions closest to expiring first. Running out of provisions will lower morale and will eventually lead to your people deserting you before dying of starvation.\\n\\nYou use [color=",
-    "translation": "你携带的食物总量。 一般人每天需要2份食物，在困难的地形上需要更多。 你的人会先食用最接近过期的食物。 食物短缺会降低士气，最终导致你的人民在你饿死之前抛弃你。\\n\\n你消耗 [color=",
+    "original": "The total amount of provisions you carry. The average man requires 2 provisions per day and more on difficult terrain. Your men will eat the provisions closest to expiring first. Running out of provisions will lower morale and will eventually lead to your people deserting you before dying of starvation.\n\nYou use [color=",
+    "translation": "你携带的食物总量。 一般人每天需要2份食物，在困难的地形上需要更多。 你的人会先食用最接近过期的食物。 食物短缺会降低士气，最终导致你的人民在你饿死之前抛弃你。\n\n你消耗 [color=",
     "stage": 1,
     "context": "'The total amount of provisions you carry. The average man requires 2 provisions per day and more on difficult terrain. Your men will eat the provisions closest to expiring first. Running out of provisions will lower morale and will eventually lead to your people deserting you before dying of starvation.\n\nYou use [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyFood + '[/color] provisions per day. Your [color=' + this.Const.UI.Color.PositiveValue + ']' + food + '[/color] provisions will last you for [color=' + this.Const.UI.Color.PositiveValue + ']' + time + '[/color] more days at most. Keep in mind that individual provisions will eventually turn bad!'"
   },
@@ -612,8 +612,8 @@
   {
     "ID": 293423038,
     "key": "An optional way to play the game where the map is entirely unexplored and not visible to you at the start of your campaign. You'll have to discover everything on your own, which makes your campaign more difficult, but potentially also more exciting.\n\nReco",
-    "original": "An optional way to play the game where the map is entirely unexplored and not visible to you at the start of your campaign. You'll have to discover everything on your own, which makes your campaign more difficult, but potentially also more exciting.\\n\\nRecommended only for experienced players that know what they're doing.",
-    "translation": "这是一种可选的游戏方式，在游戏开始时地图完全未被探索，你看不到。 你必须自己去发现一切，这会使你的战役更加困难，但也可能会更令人兴奋。\\n\\n只推荐给有经验的玩家，他们知道自己在做什么。",
+    "original": "An optional way to play the game where the map is entirely unexplored and not visible to you at the start of your campaign. You'll have to discover everything on your own, which makes your campaign more difficult, but potentially also more exciting.\n\nRecommended only for experienced players that know what they're doing.",
+    "translation": "这是一种可选的游戏方式，在游戏开始时地图完全未被探索，你看不到。 你必须自己去发现一切，这会使你的战役更加困难，但也可能会更令人兴奋。\n\n只推荐给有经验的玩家，他们知道自己在做什么。",
     "stage": 1
   },
   {
@@ -677,8 +677,8 @@
   {
     "ID": 293423047,
     "key": "Shows the current and maximium number of men placed in formation to fight in the next battle.\n\nDrag and drop your men to where you want them to be; the top row is the front facing the enemy, the second row is your back row, and the bottom row is your rese",
-    "original": "Shows the current and maximium number of men placed in formation to fight in the next battle.\\n\\nDrag and drop your men to where you want them to be; the top row is the front facing the enemy, the second row is your back row, and the bottom row is your reserves of characters not taking part in battle.",
-    "translation": "显示当前和最大的编队人数，以便在下一场战斗中战斗。\\n\\n把你的人拖到你想让他们到的地方；最上面一排是面对敌人的前面，第二排是你的后面一排，最下面一排是你保留的不参加战斗的角色。",
+    "original": "Shows the current and maximium number of men placed in formation to fight in the next battle.\n\nDrag and drop your men to where you want them to be; the top row is the front facing the enemy, the second row is your back row, and the bottom row is your reserves of characters not taking part in battle.",
+    "translation": "显示当前和最大的编队人数，以便在下一场战斗中战斗。\n\n把你的人拖到你想让他们到的地方；最上面一排是面对敌人的前面，第二排是你的后面一排，最下面一排是你保留的不参加战斗的角色。",
     "stage": 1
   },
   {
@@ -1046,8 +1046,8 @@
   {
     "ID": 293423098,
     "key": "The amount of coin your mercenary company has. Used to pay every man daily, as well as to hire new men and purchase equipment.\n\nYou pay out [color=",
-    "original": "The amount of coin your mercenary company has. Used to pay every man daily, as well as to hire new men and purchase equipment.\\n\\nYou pay out [color=",
-    "translation": "你的雇佣兵战队拥有的硬币数量。 用于每天支付每个人的工资，还可以雇新人和购买装备。\\n\\n你支付 [color=",
+    "original": "The amount of coin your mercenary company has. Used to pay every man daily, as well as to hire new men and purchase equipment.\n\nYou pay out [color=",
+    "translation": "你的雇佣兵战队拥有的硬币数量。 用于每天支付每个人的工资，还可以雇新人和购买装备。\n\n你支付 [color=",
     "stage": 1,
     "context": "'The amount of coin your mercenary company has. Used to pay every man daily, as well as to hire new men and purchase equipment.\n\nYou pay out [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyMoney + '[/color] crowns per day.\n\n[color=' + this.Const.UI.Color.NegativeValue + ']You have no more crowns to pay your men with! Earn some crowns fast or let some people go before they desert you one by one.[/color]'"
   },
@@ -1061,8 +1061,8 @@
   {
     "ID": 293423100,
     "key": "You'll face fewer and less challenging opponents, your men gain experience slightly faster, and retreating from battle is easier.\n\nYour men get a small bonus to hit chance, and the enemy gets a small penalty, to ease you into the game.\n\nRecommended for pl",
-    "original": "You'll face fewer and less challenging opponents, your men gain experience slightly faster, and retreating from battle is easier.\\n\\nYour men get a small bonus to hit chance, and the enemy gets a small penalty, to ease you into the game.\\n\\nRecommended for players new to the game.",
-    "translation": "你将面对较少和挑战性更低的对手，你的人获得经验的速度稍快，从战斗中撤退更容易。\\n\\n你的人会得到一个很小的命中几率奖励，而敌人会得到一个很小的惩罚，让你轻松进入游戏。\\n\\n推荐给新加入游戏的玩家。",
+    "original": "You'll face fewer and less challenging opponents, your men gain experience slightly faster, and retreating from battle is easier.\n\nYour men get a small bonus to hit chance, and the enemy gets a small penalty, to ease you into the game.\n\nRecommended for players new to the game.",
+    "translation": "你将面对较少和挑战性更低的对手，你的人获得经验的速度稍快，从战斗中撤退更容易。\n\n你的人会得到一个很小的命中几率奖励，而敌人会得到一个很小的惩罚，让你轻松进入游戏。\n\n推荐给新加入游戏的玩家。",
     "stage": 1
   },
   {
@@ -1227,8 +1227,8 @@
   {
     "ID": 293423123,
     "key": "Ironman mode disables manual saving. Only a single save will exist for the company, and the game is automatically saved during the game and on exiting it. Losing the whole company means losing the save. Recommended for the best experience once you've lear",
-    "original": "Ironman mode disables manual saving. Only a single save will exist for the company, and the game is automatically saved during the game and on exiting it. Losing the whole company means losing the save. Recommended for the best experience once you've learned the game.\\n\\nNote that on weaker computers autosaves may result in the game pausing for a few seconds.",
-    "translation": "铁人模式禁用手动保存。 战队只有一个保存，游戏在游戏期间和退出时自动保存。 失去战队意味着失去存档。 一旦你学会了游戏，就推荐给你最好的体验。\\n\\n请注意，在较差的计算机上，自动保存可能会导致游戏暂停几秒钟。",
+    "original": "Ironman mode disables manual saving. Only a single save will exist for the company, and the game is automatically saved during the game and on exiting it. Losing the whole company means losing the save. Recommended for the best experience once you've learned the game.\n\nNote that on weaker computers autosaves may result in the game pausing for a few seconds.",
+    "translation": "铁人模式禁用手动保存。 战队只有一个保存，游戏在游戏期间和退出时自动保存。 失去战队意味着失去存档。 一旦你学会了游戏，就推荐给你最好的体验。\n\n请注意，在较差的计算机上，自动保存可能会导致游戏暂停几秒钟。",
     "stage": 1
   },
   {
@@ -1263,8 +1263,8 @@
   {
     "ID": 293423128,
     "key": "Spend these points to increase any 3 out of 8 attributes per levelup by a random amount. A single attribute can only be increased once per levelup.\n\nStars mean that a character is especially talented with a specific attribute, resulting in consistently be",
-    "original": "Spend these points to increase any 3 out of 8 attributes per levelup by a random amount. A single attribute can only be increased once per levelup.\\n\\nStars mean that a character is especially talented with a specific attribute, resulting in consistently better dice rolls.",
-    "translation": "花费这些点以随机增加每个级别8个属性中的任意3个。 每个级别只能增加一次单个属性。\\n\\n星星意味着一个角色具有特殊的天赋，并具有特定的属性，从而持续地产生更好的随机值。",
+    "original": "Spend these points to increase any 3 out of 8 attributes per levelup by a random amount. A single attribute can only be increased once per levelup.\n\nStars mean that a character is especially talented with a specific attribute, resulting in consistently better dice rolls.",
+    "translation": "花费这些点以随机增加每个级别8个属性中的任意3个。 每个级别只能增加一次单个属性。\n\n星星意味着一个角色具有特殊的天赋，并具有特定的属性，从而持续地产生更好的随机值。",
     "stage": 1
   },
   {
@@ -1414,8 +1414,8 @@
   {
     "ID": 293423149,
     "key": "[/color] provisions per day.\n\n[color=",
-    "original": "[/color] provisions per day.\\n\\n[color=",
-    "translation": "[/color] 补给每天。\\n\\n[color=",
+    "original": "[/color] provisions per day.\n\n[color=",
+    "translation": "[/color] 补给每天。\n\n[color=",
     "stage": 1,
     "context": "'The total amount of provisions you carry. The average man requires 2 provisions per day and more on difficult terrain. Your men will eat the provisions closest to expiring first. Running out of provisions will lower morale and will eventually lead to your people deserting you before dying of starvation.\n\nYou use [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyFood + '[/color] provisions per day.\n\n[color=' + this.Const.UI.Color.NegativeValue + ']You have no more provisions to feed your men! Buy new provisions as fast as possible or your men will desert you one by one before they starve![/color]'"
   },
@@ -1655,8 +1655,8 @@
   {
     "ID": 293423182,
     "key": "Paying a compensation, gratuity or pension for the time spent with the company will allow the dismissed to leave with dignity and something to start a new life with, and it will prevent others in the company from reacting with anger over the dismissal.\n\nI",
-    "original": "Paying a compensation, gratuity or pension for the time spent with the company will allow the dismissed to leave with dignity and something to start a new life with, and it will prevent others in the company from reacting with anger over the dismissal.\\n\\nIndebted characters are paid reparations instead for their time with the company. Other indebted will appreciate it if you pay these, but no one will react with anger if you don't.",
-    "translation": "给被解雇者支付一笔赔偿金、酬金或是养老金，这有助于使他们离开公司时能够保有尊严并能够开启新的生活，同时也避免其他公司员工因解雇而产生的愤怒情绪。\\n为负债的人支付赔偿金以弥补他们在公司工作的时间。其他负债者会感激你支付赔偿金，但如果你不支付，谁也不会因此而生气。",
+    "original": "Paying a compensation, gratuity or pension for the time spent with the company will allow the dismissed to leave with dignity and something to start a new life with, and it will prevent others in the company from reacting with anger over the dismissal.\n\nIndebted characters are paid reparations instead for their time with the company. Other indebted will appreciate it if you pay these, but no one will react with anger if you don't.",
+    "translation": "给被解雇者支付一笔赔偿金、酬金或是养老金，这有助于使他们离开公司时能够保有尊严并能够开启新的生活，同时也避免其他公司员工因解雇而产生的愤怒情绪。\n为负债的人支付赔偿金以弥补他们在公司工作的时间。其他负债者会感激你支付赔偿金，但如果你不支付，谁也不会因此而生气。",
     "stage": 1
   },
   {
@@ -1734,8 +1734,8 @@
   {
     "ID": 293423193,
     "key": "Morale is one of five states and represents the mental condition of combatants and their effectiveness in battle. At the lowest state, fleeing, a character will be outside your control - although they may eventually rally again. Morale changes as the batt",
-    "original": "Morale is one of five states and represents the mental condition of combatants and their effectiveness in battle. At the lowest state, fleeing, a character will be outside your control - although they may eventually rally again. Morale changes as the battle unfolds, with characters that have high resolve less likely to fall to low morale states. Many of your opponents are affected by morale as well.\\n\\nMorale checks trigger on these occasions:\\n- Killing an enemy\\n- Seeing an enemy be killed\\n- Seeing an ally be killed\\n- Seeing an ally flee\\n- Being hit for 15 or more damage to hitpoints\\n- Being engaged by more than one opponent\\n- Using certain skills, like 'Rally'",
-    "translation": "士气会是五种状态之一，代表着战斗人员的心理状态和战斗力。 在最低状态下，逃跑，角色将超出你的控制，尽管他们最终可能会再次聚集。 随着战斗的展开，士气会发生变化，具有高决心的角色不太可能落入士气低落的状态。 你的许多对手也受到士气的影响。\\n\\n士气检查在这些情况下触发：\\n- 杀敌\\n- 看到敌人被杀\\n- 看到盟友被杀\\n- 看到盟友逃跑\\n- 生命值受到15点或更多的伤害\\n- 面对一个以上的对手\\n- 使用某些技能，比如“集结”",
+    "original": "Morale is one of five states and represents the mental condition of combatants and their effectiveness in battle. At the lowest state, fleeing, a character will be outside your control - although they may eventually rally again. Morale changes as the battle unfolds, with characters that have high resolve less likely to fall to low morale states. Many of your opponents are affected by morale as well.\n\nMorale checks trigger on these occasions:\n- Killing an enemy\n- Seeing an enemy be killed\n- Seeing an ally be killed\n- Seeing an ally flee\n- Being hit for 15 or more damage to hitpoints\n- Being engaged by more than one opponent\n- Using certain skills, like 'Rally'",
+    "translation": "士气会是五种状态之一，代表着战斗人员的心理状态和战斗力。 在最低状态下，逃跑，角色将超出你的控制，尽管他们最终可能会再次聚集。 随着战斗的展开，士气会发生变化，具有高决心的角色不太可能落入士气低落的状态。 你的许多对手也受到士气的影响。\n\n士气检查在这些情况下触发：\n- 杀敌\n- 看到敌人被杀\n- 看到盟友被杀\n- 看到盟友逃跑\n- 生命值受到15点或更多的伤害\n- 面对一个以上的对手\n- 使用某些技能，比如“集结”",
     "stage": 1
   },
   {
@@ -1762,8 +1762,8 @@
   {
     "ID": 293423197,
     "key": "\n\nRepairing all your equipment will take [color=",
-    "original": "\\n\\nRepairing all your equipment will take [color=",
-    "translation": "\\n\\n修理你所有装备需要[color=",
+    "original": "\n\nRepairing all your equipment will take [color=",
+    "translation": "\n\n修理你所有装备需要[color=",
     "stage": 1,
     "context": "desc = desc + '\n\nRepairing all your equipment will take [color=' + this.Const.UI.Color.PositiveValue + ']' + repair.Hours + '[/color] hours and requires '"
   },
@@ -1977,15 +1977,15 @@
   {
     "ID": 293423227,
     "key": "Provides for a balanced playing experience that can be quite challenging.\n\nRecommended for veterans of the game or the genre.",
-    "original": "Provides for a balanced playing experience that can be quite challenging.\\n\\nRecommended for veterans of the game or the genre.",
-    "translation": "提供一个平衡的游戏体验，这是非常具有挑战性的。\\n\\n推荐给这类游戏的老兵。",
+    "original": "Provides for a balanced playing experience that can be quite challenging.\n\nRecommended for veterans of the game or the genre.",
+    "translation": "提供一个平衡的游戏体验，这是非常具有挑战性的。\n\n推荐给这类游戏的老兵。",
     "stage": 1
   },
   {
     "ID": 293423228,
     "key": "A harbor that serves both foreign trading ships and local fishermen. You'll likely be able to book passage by sea to other parts of the continent here.",
     "original": "A harbor that serves both foreign trading ships and local fishermen. You'll likely be able to book passage by sea to other parts of the continent here.",
-    "translation": "为对外贸易船和当地渔民服务的港口。 你很可能在这里订到到达大陆其他地方的海上船票。",
+    "translation": "为对外贸易船和当地渔民服务的港口。 你很可能在这里订到前往大陆其他地方的海上船票。",
     "stage": 1
   },
   {
@@ -2035,8 +2035,8 @@
   {
     "ID": 293423235,
     "key": "Contracts will pay more, and you'll be able to carry more resources at once.\n\nRecommended for players new to the game.",
-    "original": "Contracts will pay more, and you'll be able to carry more resources at once.\\n\\nRecommended for players new to the game.",
-    "translation": "合同将支付更多的费用，你将能够同时携带更多的资源。\\n\\n推荐给新加入游戏的玩家。",
+    "original": "Contracts will pay more, and you'll be able to carry more resources at once.\n\nRecommended for players new to the game.",
+    "translation": "合同将支付更多的费用，你将能够同时携带更多的资源。\n\n推荐给新加入游戏的玩家。",
     "stage": 1
   },
   {
@@ -2321,8 +2321,8 @@
   {
     "ID": 293423275,
     "key": "Your relations with a faction determine whether they'll fight or deal peacefully with you, their willingness to hire you for contracts, as well as the prices they give you and the number of recruits available to you at their settlements.\n\nRelations increa",
-    "original": "Your relations with a faction determine whether they'll fight or deal peacefully with you, their willingness to hire you for contracts, as well as the prices they give you and the number of recruits available to you at their settlements.\\n\\nRelations increase when working successfully for factions, and decrease on failing to do so, betraying or attacking them. Over time, relations slowly trend back towards neutral.",
-    "translation": "你与某个派系的关系决定了他们是否会与你进行和平的战斗或交易，他们是否愿意雇佣你来签订合同，以及他们给你的价格和在他们的定居点为你提供的新兵数量。\\n\\n当成功地为派系工作时，关系会增加，如果不这样做，背叛或攻击派系，关系会减少。 随着时间的推移，双方关系逐渐趋于中立。",
+    "original": "Your relations with a faction determine whether they'll fight or deal peacefully with you, their willingness to hire you for contracts, as well as the prices they give you and the number of recruits available to you at their settlements.\n\nRelations increase when working successfully for factions, and decrease on failing to do so, betraying or attacking them. Over time, relations slowly trend back towards neutral.",
+    "translation": "你与某个派系的关系决定了他们是否会与你进行和平的战斗或交易，他们是否愿意雇佣你来签订合同，以及他们给你的价格和在他们的定居点为你提供的新兵数量。\n\n当成功地为派系工作时，关系会增加，如果不这样做，背叛或攻击派系，关系会减少。 随着时间的推移，双方关系逐渐趋于中立。",
     "stage": 1
   },
   {
@@ -2371,8 +2371,8 @@
   {
     "ID": 293423282,
     "key": "The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou pay out [color=",
-    "original": "The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\\n\\nYou pay out [color=",
-    "translation": "你的雇佣兵战队拥有的硬币数量。 用于每天中午给每个人发工资，还可以雇新人和购买装备。\\n\\n你支付 [color=",
+    "original": "The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou pay out [color=",
+    "translation": "你的雇佣兵战队拥有的硬币数量。 用于每天中午给每个人发工资，还可以雇新人和购买装备。\n\n你支付 [color=",
     "stage": 1,
     "context": "'The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou pay out [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyMoney + '[/color] crowns per day. Your [color=' + this.Const.UI.Color.PositiveValue + ']' + money + '[/color] crowns will last you for [color=' + this.Const.UI.Color.PositiveValue + ']' + time + '[/color] more days.'"
   },
@@ -2386,8 +2386,8 @@
   {
     "ID": 293423284,
     "key": "You'll start with more crowns and resources.\n\nRecommended for new players.",
-    "original": "You'll start with more crowns and resources.\\n\\nRecommended for new players.",
-    "translation": "你将从更多的克朗和资源开始。\\n\\n推荐给新玩家。",
+    "original": "You'll start with more crowns and resources.\n\nRecommended for new players.",
+    "translation": "你将从更多的克朗和资源开始。\n\n推荐给新玩家。",
     "stage": 1
   },
   {
@@ -2957,8 +2957,8 @@
   {
     "ID": 293423364,
     "key": "You'll start with fewer crowns and resources.\n\nRecommended for expert players.",
-    "original": "You'll start with fewer crowns and resources.\\n\\nRecommended for expert players.",
-    "translation": "你将从更少的克朗和资源开始。\\n\\n推荐给专业玩家。",
+    "original": "You'll start with fewer crowns and resources.\n\nRecommended for expert players.",
+    "translation": "你将从更少的克朗和资源开始。\n\n推荐给专业玩家。",
     "stage": 1
   },
   {
@@ -2972,8 +2972,8 @@
   {
     "ID": 293423366,
     "key": "Characters gain experience as they or their allies slay enemies in battles. If a character has accumulated sufficient experience, he'll level up and be able to increase his attributes and pick a perk that grants a unique bonus.\n\nBeyond the 11th character ",
-    "original": "Characters gain experience as they or their allies slay enemies in battles. If a character has accumulated sufficient experience, he'll level up and be able to increase his attributes and pick a perk that grants a unique bonus.\\n\\nBeyond the 11th character level, characters are veterans and will no longer gain perk points, but can still continue to improve.",
-    "translation": "角色在战斗中杀死敌人时获得经验。 如果一个角色积累了足够的经验，他将提升自己的等级，并且能够提高自己的属性，并授予可以选择一个独特奖励的特技。\\n\\n在角色11级之后，角色成为经验丰富的人，不再获得特技点，但仍可以继续提高。",
+    "original": "Characters gain experience as they or their allies slay enemies in battles. If a character has accumulated sufficient experience, he'll level up and be able to increase his attributes and pick a perk that grants a unique bonus.\n\nBeyond the 11th character level, characters are veterans and will no longer gain perk points, but can still continue to improve.",
+    "translation": "角色在战斗中杀死敌人时获得经验。 如果一个角色积累了足够的经验，他将提升自己的等级，并且能够提高自己的属性，并授予可以选择一个独特奖励的特技。\n\n在角色11级之后，角色成为经验丰富的人，不再获得特技点，但仍可以继续提高。",
     "stage": 1
   },
   {

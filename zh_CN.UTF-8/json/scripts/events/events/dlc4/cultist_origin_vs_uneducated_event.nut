@@ -2,8 +2,8 @@
   {
     "ID": 293414231,
     "key": "[img]gfx/ui/events/event_05.png[/img]A few brothers come to you looking rather worried. They say %cultist% has been sitting with %uneducated% for a few hours now. When you ask what's the worry, they remind you that the cultist has a scarred forehead and s",
-    "original": "[img]gfx/ui/events/event_05.png[/img]A few brothers come to you looking rather worried. They say %cultist% has been sitting with %uneducated% for a few hours now. When you ask what's the worry, they remind you that the cultist has a scarred forehead and speaks of incredibly strange things. Yeah. Those are the demands of Davkul, an example of one's committment. You do not understand what could possibly be wrong with that.\\n\\n You go and see the two men. %uneducated% looks up at you, smiling, and says the cultist actually has a lot to teach him. Perhaps he does, but you know Davkul's presence need not be felt in all, and if it desired being forced upon the world it would be a misapprehension of Davkul's purpose.",
-    "translation": "[img]gfx/ui/events/event_05.png[/img]有几个兄弟来找你，看上去很着急。 他们说 %cultist% 和 %uneducated% 坐在一起已经几个小时了。 当你问他们担心什么时，他们会提醒你，那个额头有伤疤的异教徒，说着令人难以置信的怪事。 是的。这些都是达库尔的要求，一个关于承诺的范例。 你不知道这会有什么问题。\\n\\n 你去看看那两个人。%uneducated% 抬头看着你，微笑着，说这个异教徒有很多东西要教他。 也许他是这么想的，但你知道，达库尔的存在根本不需要被感知，如果他渴望被强加到这个世界上，那将是对达库尔奥义的误解。",
+    "original": "[img]gfx/ui/events/event_05.png[/img]A few brothers come to you looking rather worried. They say %cultist% has been sitting with %uneducated% for a few hours now. When you ask what's the worry, they remind you that the cultist has a scarred forehead and speaks of incredibly strange things. Yeah. Those are the demands of Davkul, an example of one's committment. You do not understand what could possibly be wrong with that.\n\n You go and see the two men. %uneducated% looks up at you, smiling, and says the cultist actually has a lot to teach him. Perhaps he does, but you know Davkul's presence need not be felt in all, and if it desired being forced upon the world it would be a misapprehension of Davkul's purpose.",
+    "translation": "[img]gfx/ui/events/event_05.png[/img]有几个兄弟来找你，看上去很着急。 他们说 %cultist% 和 %uneducated% 坐在一起已经几个小时了。 当你问他们担心什么时，他们会提醒你，那个额头有伤疤的异教徒，说着令人难以置信的怪事。 是的。这些都是达库尔的要求，一个关于承诺的范例。 你不知道这会有什么问题。\n\n 你去看看那两个人。%uneducated% 抬头看着你，微笑着，说这个异教徒有很多东西要教他。 也许他是这么想的，但你知道，达库尔的存在根本不需要被感知，如果他渴望被强加到这个世界上，那将是对达库尔奥义的误解。",
     "stage": 1
   },
   {
@@ -17,7 +17,7 @@
     "ID": 293414233,
     "key": "]+2[/color] Resolve",
     "original": "]+2[/color] Resolve",
-    "translation": "]+2[/color]决心",
+    "translation": "]+2[/color] 决心",
     "stage": 1,
     "context": "_event.m.Cultist.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+2[/color] Resolve'"
   },

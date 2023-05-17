@@ -45,8 +45,8 @@
   {
     "ID": 293413210,
     "key": "[img]gfx/ui/events/event_60.png[/img]{You order the men to wait for the right moment.\n\n When the peasants march further down the road, the goblins waylaid them with a volley of poison arrows. The arguing men go down, arrows stuck in their chests, muscles ",
-    "original": "[img]gfx/ui/events/event_60.png[/img]{You order the men to wait for the right moment.\\n\\n When the peasants march further down the road, the goblins waylaid them with a volley of poison arrows. The arguing men go down, arrows stuck in their chests, muscles stiffening, faces drawn taut as the poison courses through. A few other men grab the reins from their wives and steer the wagons around. Some stand guard, a bunch of pitchfork-carrying farmers for a  rearguard, but they don't last long in the face of the dishonorable gobbos. Seeing that the goblins are scattered in their attack, you order the %companyname% to begin its own ambush.}",
-    "translation": "[img]gfx/ui/events/event_60.png[/img]{你命令士兵们等待合适的时机。\\n\\n 当农民们沿着大路继续前进时，一群哥布林用一排毒箭拦截了他们。 争吵的人们倒下了，箭刺进他们的胸膛，他们肌肉僵硬、面部绷紧、身中剧毒。 其他几个男人从他们的妻子手中夺过缰绳，驾着载重货车打算逃跑。 一些拿着草叉的农夫占了出来，但是他们在哥布林们的突袭面前坚持不了多久。 看见哥布林们已经开始分散进攻，你命令 %companyname% 开始冲锋。}",
+    "original": "[img]gfx/ui/events/event_60.png[/img]{You order the men to wait for the right moment.\n\n When the peasants march further down the road, the goblins waylaid them with a volley of poison arrows. The arguing men go down, arrows stuck in their chests, muscles stiffening, faces drawn taut as the poison courses through. A few other men grab the reins from their wives and steer the wagons around. Some stand guard, a bunch of pitchfork-carrying farmers for a  rearguard, but they don't last long in the face of the dishonorable gobbos. Seeing that the goblins are scattered in their attack, you order the %companyname% to begin its own ambush.}",
+    "translation": "[img]gfx/ui/events/event_60.png[/img]{你命令士兵们等待合适的时机。\n\n 当农民们沿着大路继续前进时，一群哥布林用一排毒箭拦截了他们。 争吵的人们倒下了，箭刺进他们的胸膛，他们肌肉僵硬、面部绷紧、身中剧毒。 其他几个男人从他们的妻子手中夺过缰绳，驾着载重货车打算逃跑。 一些拿着草叉的农夫占了出来，但是他们在哥布林们的突袭面前坚持不了多久。 看见哥布林们已经开始分散进攻，你命令 %companyname% 开始冲锋。}",
     "stage": 1
   },
   {

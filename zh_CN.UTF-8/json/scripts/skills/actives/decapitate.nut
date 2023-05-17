@@ -43,7 +43,7 @@
     "ID": 293419920,
     "key": "[/color] damage depending on how wounded the target already is, of which [color=",
     "original": "[/color] damage depending on how wounded the target already is, of which [color=",
-    "translation": "[/color]造成伤害取决于目标已受伤的程度，其中[color=",
+    "translation": "[/color]伤害（取决于目标已受伤的程度），其中[color=",
     "stage": 1,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max * 2 + '[/color] damage depending on how wounded the target already is, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
   },

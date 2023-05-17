@@ -19,7 +19,7 @@
     "ID": 293417548,
     "key": "A quiver of bolts, required to use crossbows. Is automatically refilled after each battle if you have enough ammunition.",
     "original": "A quiver of bolts, required to use crossbows. Is automatically refilled after each battle if you have enough ammunition.",
-    "translation": "一整袋弩矢，适用于弩。 如果你有足够的弹药，每次战斗后都会自动补充。",
+    "translation": "一整袋弩矢，适用于弩。如果你有足够的弹药，在每场战斗后自动重新填充。",
     "stage": 1,
     "context": "this.m.Description = 'A quiver of bolts, required to use crossbows. Is automatically refilled after each battle if you have enough ammunition.'"
   },

@@ -3,7 +3,7 @@
     "ID": 293419388,
     "key": "A curved blade notoriously used by assassins of the southern deserts. Particularly effective against targets already debilitated.",
     "original": "A curved blade notoriously used by assassins of the southern deserts. Particularly effective against targets already debilitated.",
-    "translation": "一种弯曲的刀刃，众所周知地被南方沙漠的刺客使用。 对已经削弱的目标特别有效。",
+    "translation": "一把弯刀，众所周知地被南方沙漠的刺客使用。对已经削弱的目标特别有效。",
     "stage": 1,
     "context": "this.m.Description = 'A curved blade notoriously used by assassins of the southern deserts. Particularly effective against targets already debilitated.'"
   },

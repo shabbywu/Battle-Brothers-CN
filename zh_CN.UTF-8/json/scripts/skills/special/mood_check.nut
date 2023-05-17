@@ -55,8 +55,8 @@
   {
     "ID": 293422253,
     "key": "This character is content with how things are going. Could be better, could be worse.\n\nMood will always trend towards this state over time.",
-    "original": "This character is content with how things are going. Could be better, could be worse.\\n\\nMood will always trend towards this state over time.",
-    "translation": "这个角色满足于事情的发展。 可能会更好，也可能更糟。\\n\\n心情总是会被时间冲淡的。",
+    "original": "This character is content with how things are going. Could be better, could be worse.\n\nMood will always trend towards this state over time.",
+    "translation": "这个角色满足于事情的发展。 可能会更好，也可能更糟。\n\n心情总是会被时间冲淡的。",
     "stage": 1
   },
   {

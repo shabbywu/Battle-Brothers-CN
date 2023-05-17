@@ -10,7 +10,7 @@
   {
     "ID": 293403380,
     "key": "Besting orcs in battle and burning down some of their camps would make people\nrecognize the company's ability on the battlefield. Let us do so!",
-    "original": "Besting orcs in battle and burning down some of their camps would make people\\nrecognize the company's ability on the battlefield. Let us do so!",
+    "original": "Besting orcs in battle and burning down some of their camps would make people\nrecognize the company's ability on the battlefield. Let us do so!",
     "translation": "在战斗中击败兽人和烧毁它们的营地能让人们认识到战队的能力。 就这么干吧。",
     "stage": 1,
     "context": "this.m.ButtonText = \"Besting orcs in battle and burning down some of their camps would make people\nrecognize the company's ability on the battlefield. Let us do so!\""

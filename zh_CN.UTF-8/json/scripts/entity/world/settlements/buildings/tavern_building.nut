@@ -2,8 +2,8 @@
   {
     "ID": 293410711,
     "key": "\n\n[color=#bcad8c]\"",
-    "original": "\\n\\n[color=#bcad8c]\"",
-    "translation": "\\n\\n[color=#bcad8c]\"",
+    "original": "\n\n[color=#bcad8c]\"",
+    "translation": "\n\n[color=#bcad8c]\"",
     "stage": 1,
     "context": "rumor = rumor + '\n\n[color=#bcad8c]\"'"
   },

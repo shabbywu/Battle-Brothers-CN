@@ -3,7 +3,7 @@
     "ID": 293403597,
     "key": "1 more day",
     "original": "1 more day",
-    "translation": " 1天",
+    "translation": " 1 天",
     "stage": 1,
     "context": "return 'Uphold an ' + this.m.OathName + ' for ' + timeRemaining > 1 ? 'another ' + timeRemaining + ' days' : '1 more day';"
   },

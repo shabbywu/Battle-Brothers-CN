@@ -11,7 +11,7 @@
     "ID": 293418247,
     "key": "A metal helmet with added noseguard.",
     "original": "A metal helmet with added noseguard.",
-    "translation": "带鼻翼的金属头盔。",
+    "translation": "一顶加了鼻护板的金属头盔。",
     "stage": 1,
     "context": "this.m.Description = 'A metal helmet with added noseguard.'"
   }

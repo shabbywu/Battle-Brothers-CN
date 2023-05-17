@@ -97,8 +97,8 @@
   {
     "ID": 293422814,
     "key": "Are you sure you want to quit this battle and return to the main menu?\n\nAny progress made in battle will be lost, but there was an autosave made right before the battle started.",
-    "original": "Are you sure you want to quit this battle and return to the main menu?\\n\\nAny progress made in battle will be lost, but there was an autosave made right before the battle started.",
-    "translation": "你确定要退出这场战斗并返回主菜单吗？\\n\\n在战斗中取得的任何进展都将丢失，如果可以的话在战斗开始前会自动保存。",
+    "original": "Are you sure you want to quit this battle and return to the main menu?\n\nAny progress made in battle will be lost, but there was an autosave made right before the battle started.",
+    "translation": "你确定要退出这场战斗并返回主菜单吗？\n\n在战斗中取得的任何进展都将丢失，如果可以的话在战斗开始前会自动保存。",
     "stage": 1
   },
   {
@@ -199,8 +199,8 @@
   {
     "ID": 293422828,
     "key": "Are you sure you want to quit this battle and thereby forfeit your ironman run and retire from your company?\n\nYour save will be deleted and you won't be able to continue.",
-    "original": "Are you sure you want to quit this battle and thereby forfeit your ironman run and retire from your company?\\n\\nYour save will be deleted and you won't be able to continue.",
-    "translation": "你确定你想退出这场战斗，从而失去你的铁人模式和退出你的战队？\\n\\n你的存档将被删除，你将无法继续。",
+    "original": "Are you sure you want to quit this battle and thereby forfeit your ironman run and retire from your company?\n\nYour save will be deleted and you won't be able to continue.",
+    "translation": "你确定你想退出这场战斗，从而失去你的铁人模式和退出你的战队？\n\n你的存档将被删除，你将无法继续。",
     "stage": 1
   },
   {

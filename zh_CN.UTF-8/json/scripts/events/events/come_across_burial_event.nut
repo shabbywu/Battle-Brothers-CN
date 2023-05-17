@@ -44,8 +44,8 @@
   {
     "ID": 293412917,
     "key": "[img]gfx/ui/events/event_36.png[/img]You tell the old lady to crawl her crotchety ass into a hole and die there. The dead man's sword is put in with your inventory and the %companyname% get back on the road.\n\nUpset, the peasants cry out that word of what ",
-    "original": "[img]gfx/ui/events/event_36.png[/img]You tell the old lady to crawl her crotchety ass into a hole and die there. The dead man's sword is put in with your inventory and the %companyname% get back on the road.\\n\\nUpset, the peasants cry out that word of what you'd done would travel the winds like the shitting farts of a thousand cows. You simply laugh and appreciate their imaginativeness.",
-    "translation": "[img]gfx/ui/events/event_36.png[/img]你告诉老太太把她那古怪的屁股钻到洞里去然后去死。 死者的剑进了你的仓库 %companyname% 回到了道路上。\\n\\n农民们心烦意乱的叫喊着，说你所做的事将会在风中传播，就像一千头牛在拉屎放屁一样。 你只是大笑，很欣赏他们的想象力。",
+    "original": "[img]gfx/ui/events/event_36.png[/img]You tell the old lady to crawl her crotchety ass into a hole and die there. The dead man's sword is put in with your inventory and the %companyname% get back on the road.\n\nUpset, the peasants cry out that word of what you'd done would travel the winds like the shitting farts of a thousand cows. You simply laugh and appreciate their imaginativeness.",
+    "translation": "[img]gfx/ui/events/event_36.png[/img]你告诉老太太把她那古怪的屁股钻到洞里去然后去死。 死者的剑进了你的仓库 %companyname% 回到了道路上。\n\n农民们心烦意乱的叫喊着，说你所做的事将会在风中传播，就像一千头牛在拉屎放屁一样。 你只是大笑，很欣赏他们的想象力。",
     "stage": 1
   },
   {

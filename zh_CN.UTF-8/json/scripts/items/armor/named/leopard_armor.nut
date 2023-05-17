@@ -32,7 +32,7 @@
     "ID": 293417752,
     "key": "Glistening Lamellar",
     "original": "Glistening Lamellar",
-    "translation": "闪光鳞甲",
+    "translation": "闪光札甲",
     "stage": 1
   },
   {

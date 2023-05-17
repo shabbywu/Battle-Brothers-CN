@@ -2,8 +2,8 @@
   {
     "ID": 293403412,
     "key": "The wilds are teeming with hidden treasures that others are not bold enough to claim.\nThis is our chance, so let us head out there and find three legendary places!",
-    "original": "The wilds are teeming with hidden treasures that others are not bold enough to claim.\\nThis is our chance, so let us head out there and find three legendary places!",
-    "translation": "荒野中隐藏有很多其他人不敢索取的宝藏。\\n这是我们的机会，所以让我们出发去寻找三个传奇地点！",
+    "original": "The wilds are teeming with hidden treasures that others are not bold enough to claim.\nThis is our chance, so let us head out there and find three legendary places!",
+    "translation": "荒野中隐藏有很多其他人不敢索取的宝藏。\n这是我们的机会，所以让我们出发去寻找三个传奇地点！",
     "stage": 1,
     "context": "this.m.ButtonText = 'The wilds are teeming with hidden treasures that others are not bold enough to claim.\nThis is our chance, so let us head out there and find three legendary places!'"
   },

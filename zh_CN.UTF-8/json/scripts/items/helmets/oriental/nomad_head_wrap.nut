@@ -3,7 +3,7 @@
     "ID": 293418278,
     "key": "Nomad Head Wrap",
     "original": "Nomad Head Wrap",
-    "translation": "游牧人头巾",
+    "translation": "游牧头套",
     "stage": 1,
     "context": "this.m.Name = 'Nomad Head Wrap'"
   },

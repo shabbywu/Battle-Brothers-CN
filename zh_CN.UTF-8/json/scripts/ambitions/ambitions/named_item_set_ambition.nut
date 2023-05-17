@@ -34,7 +34,7 @@
   {
     "ID": 293403511,
     "key": "A famed company is recognized by their equipment. We should head out\nand claim a prestigious weapon, shield, armor and helmet to increase our renown.",
-    "original": "A famed company is recognized by their equipment. We should head out\\nand claim a prestigious weapon, shield, armor and helmet to increase our renown.",
+    "original": "A famed company is recognized by their equipment. We should head out\nand claim a prestigious weapon, shield, armor and helmet to increase our renown.",
     "translation": "一家著名的战队因其装备而得到认可。 我们应该出发去索取一件享有声望的武器、盾牌、盔甲和头盔，以提高我们的声望。",
     "stage": 1,
     "context": "this.m.ButtonText = 'A famed company is recognized by their equipment. We should head out\nand claim a prestigious weapon, shield, armor and helmet to increase our renown.'"

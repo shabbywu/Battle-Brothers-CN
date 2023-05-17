@@ -42,8 +42,8 @@
   {
     "ID": 293403718,
     "key": "For too long have greenskins plagued our lands.\nLet us take an Oath of Vengeance and strike back at this menace!",
-    "original": "For too long have greenskins plagued our lands.\\nLet us take an Oath of Vengeance and strike back at this menace!",
-    "translation": "绿皮已经毒害我们的土地太久了。\\n让我们立下复仇誓言，反击这种威胁！",
+    "original": "For too long have greenskins plagued our lands.\nLet us take an Oath of Vengeance and strike back at this menace!",
+    "translation": "绿皮已经毒害我们的土地太久了。\n让我们立下复仇誓言，反击这种威胁！",
     "stage": 1,
     "context": "this.m.ButtonText = 'For too long have greenskins plagued our lands.\nLet us take an Oath of Vengeance and strike back at this menace!'"
   },
@@ -90,7 +90,7 @@
   {
     "ID": 293403724,
     "key": "[img]gfx/ui/events/event_180.png[/img]Greenskins have long plagued the land of man. Despite their everlasting threat, very few would ever take up an oath to destroy the creatures. They are a plague precisely because they are so dangerous, and because they",
-    "original": "[img]gfx/ui/events/event_180.png[/img]Greenskins have long plagued the land of man. Despite their everlasting threat, very few would ever take up an oath to destroy the creatures. They are a plague precisely because they are so dangerous, and because they are so dangerous most would rather look the other way than dare confront the beasts. However, the men of the %companyname% decided to take an oath against the orcs and goblins alike, and venture far to find them and hunt them down. Having followed through, a sense of accomplishment washes over the company.\\n\\nThe men are already chomping at the bit: which Oath should be undertaken next?",
+    "original": "[img]gfx/ui/events/event_180.png[/img]Greenskins have long plagued the land of man. Despite their everlasting threat, very few would ever take up an oath to destroy the creatures. They are a plague precisely because they are so dangerous, and because they are so dangerous most would rather look the other way than dare confront the beasts. However, the men of the %companyname% decided to take an oath against the orcs and goblins alike, and venture far to find them and hunt them down. Having followed through, a sense of accomplishment washes over the company.\n\nThe men are already chomping at the bit: which Oath should be undertaken next?",
     "translation": "[img]gfx/ui/events/event_180.png[/img]绿皮兽人长期以来一直困扰着人类的土地。尽管它们的威胁长存，很少有人会发誓要摧毁这些生物。它们是一种瘟疫，正因为它们如此危险，大多数人宁愿掉过头去，也不敢去面对这些野兽。然而，%companyname%的人决定发誓一定要追捕到兽人和地精，从而成功找到和消灭它们，一种成就感油然而生。这些人已经迫不及待了：下一个应该发誓做什么？",
     "stage": 1,
     "context": "this.m.SuccessText = '[img]gfx/ui/events/event_180.png[/img]Greenskins have long plagued the land of man. Despite their everlasting threat, very few would ever take up an oath to destroy the creatures. They are a plague precisely because they are so dangerous, and because they are so dangerous most would rather look the other way than dare confront the beasts. However, the men of the %companyname% decided to take an oath against the orcs and goblins alike, and venture far to find them and hunt them down. Having followed through, a sense of accomplishment washes over the company.\n\nThe men are already chomping at the bit: which Oath should be undertaken next?'"

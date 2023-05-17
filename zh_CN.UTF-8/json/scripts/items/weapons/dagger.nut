@@ -19,7 +19,7 @@
     "ID": 293419110,
     "key": "A pointy dagger made for close quarter combat.",
     "original": "A pointy dagger made for close quarter combat.",
-    "translation": "一种尖锐的匕首，用于近距离的战斗。",
+    "translation": "一把为近身格斗而制造的尖匕首。",
     "stage": 1,
     "context": "this.m.Description = 'A pointy dagger made for close quarter combat.'"
   }

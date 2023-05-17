@@ -11,7 +11,7 @@
     "ID": 293419102,
     "key": "A tool with a thick rectangular blade used for hacking through meat and bone.",
     "original": "A tool with a thick rectangular blade used for hacking through meat and bone.",
-    "translation": "一种有着厚刀刃的矩形刀具，用来劈砍肉和骨头。",
+    "translation": "一种有厚的矩形刀片的刀具，用来劈砍肉和骨头。",
     "stage": 1,
     "context": "this.m.Description = 'A tool with a thick rectangular blade used for hacking through meat and bone.'"
   },

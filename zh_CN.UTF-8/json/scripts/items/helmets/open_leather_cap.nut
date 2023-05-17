@@ -11,7 +11,7 @@
     "ID": 293418259,
     "key": "A sturdy leather cap that is not covering the ears and neck.",
     "original": "A sturdy leather cap that is not covering the ears and neck.",
-    "translation": "一种不覆盖耳朵和脖子的坚固皮帽。",
+    "translation": "一顶不覆盖耳朵和脖子的结实皮帽。",
     "stage": 1,
     "context": "this.m.Description = 'A sturdy leather cap that is not covering the ears and neck.'"
   }
