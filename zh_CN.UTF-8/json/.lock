@@ -1130,8 +1130,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:40.889Z",
         "updatedAt": "2023-05-13T14:17:40.889Z",
-        "modifiedAt": "2023-05-13T14:17:40.905Z",
-        "sha256": "8adeb2553a796882aa66ed8aa715450658a1bf12a8ae5f89c75cab829e1d9df8"
+        "modifiedAt": "2023-05-16T06:18:38Z",
+        "sha256": "edd7459f1d1b5f22580001fff7d27756cc7d6e7973d99da2d604503569513060"
     },
     "scripts/config/character_names.json": {
         "id": 918413,
@@ -7944,16 +7944,16 @@
         "filename": "",
         "format": "json",
         "total": 6,
-        "translated": 5,
+        "translated": 3,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
-        "hidden": 1,
+        "hidden": 3,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:14.914Z",
         "updatedAt": "2023-05-13T14:20:14.914Z",
-        "modifiedAt": "2023-05-16T01:50:39Z",
-        "sha256": "8c79c7a453d72de08a30044e5aaa5f0d8c6d4e414b6e5d8c3b7cd33168a06d5d"
+        "modifiedAt": "2023-05-16T01:53:39Z",
+        "sha256": "0c0155926dde2501ef7a67d791ef8dee39ed2a106a3182a36295b316424c5b45"
     },
     "scripts/events/event_manager.json": {
         "id": 918792,

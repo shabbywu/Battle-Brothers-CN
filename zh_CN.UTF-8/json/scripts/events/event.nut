@@ -19,8 +19,8 @@
     "ID": 293412507,
     "key": "instance",
     "original": "instance",
-    "translation": "instance",
-    "stage": 1,
+    "translation": "",
+    "stage": -1,
     "context": "typeof _id == 'table' || typeof _id == 'instance'"
   },
   {
@@ -34,8 +34,8 @@
     "ID": 293412509,
     "key": "string",
     "original": "string",
-    "translation": "string",
-    "stage": 1,
+    "translation": "",
+    "stage": -1,
     "context": "typeof result != 'string' && result <= 0"
   },
   {
