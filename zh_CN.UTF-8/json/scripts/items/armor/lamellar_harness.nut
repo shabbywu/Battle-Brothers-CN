@@ -12,7 +12,7 @@
     "key": "Lamellar Harness",
     "original": "Lamellar Harness",
     "translation": "札甲",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Lamellar Harness'"
   }
 ]

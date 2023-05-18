@@ -4,7 +4,7 @@
     "key": "Heavy Lamellar Armor",
     "original": "Heavy Lamellar Armor",
     "translation": "重型札甲",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Heavy Lamellar Armor'"
   },
   {

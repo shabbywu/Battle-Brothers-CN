@@ -17972,14 +17972,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:58.005Z",
         "updatedAt": "2023-05-17T14:29:03.832Z",
-        "modifiedAt": "2023-05-17T14:29:04Z",
-        "sha256": "6c90f110b0537d90d9f93028eaaedb845072a5b17a9e76590a21edf5f8037ddc"
+        "modifiedAt": "2023-05-18T00:43:52Z",
+        "sha256": "1041af7d58ad44c74c4d982b5dc08a35b8767cdbb3879ea5d9ec5909db049a44"
     },
     "scripts/items/armor/heraldic_mail.json": {
         "id": 919349,
@@ -18008,14 +18008,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:59.492Z",
         "updatedAt": "2023-05-17T14:29:05.676Z",
-        "modifiedAt": "2023-05-17T14:29:06Z",
-        "sha256": "a8fcef27370287588724d85edf5871cc76f1dd3bae7b95f114837ac3052892dd"
+        "modifiedAt": "2023-05-18T00:43:53Z",
+        "sha256": "a65135d7a411dc744c227d2778035c5b24e2bf91f4fc4dc76ca82bb5b53e65db"
     },
     "scripts/items/armor/leather_lamellar.json": {
         "id": 919351,
@@ -18026,14 +18026,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:59.824Z",
         "updatedAt": "2023-05-17T14:29:06.05Z",
-        "modifiedAt": "2023-05-17T14:29:06Z",
-        "sha256": "98970b3a3378fe41b584613d8cefd245d7b46253ca1c67211ee7e441eb06fa76"
+        "modifiedAt": "2023-05-18T00:43:53Z",
+        "sha256": "a79d32189811e8cece5234846fe85b7b32543077f18866c06ddbb5ff724fdcc8"
     },
     "scripts/items/armor/leather_scale_armor.json": {
         "id": 919352,
@@ -18386,14 +18386,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:24:09.966Z",
         "updatedAt": "2023-05-17T14:29:17.273Z",
-        "modifiedAt": "2023-05-17T14:29:17Z",
-        "sha256": "efb9a85374456602700db38b6501efcc14184f038294cf7d5bc2665c32186ea7"
+        "modifiedAt": "2023-05-18T00:43:54Z",
+        "sha256": "e66c306f3df6b5913b2fee31397594f7726ac94b23c406372104cb4ceeff85e7"
     },
     "scripts/items/armor/named/lindwurm_armor.json": {
         "id": 919372,
@@ -18458,14 +18458,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:24:11.394Z",
         "updatedAt": "2023-05-17T14:29:19.106Z",
-        "modifiedAt": "2023-05-17T14:29:19Z",
-        "sha256": "8daa26e29c276697de2006ad857c9b1e83a840f8593521ce8708ac7e291695de"
+        "modifiedAt": "2023-05-18T00:43:55Z",
+        "sha256": "b3c6a65815f334b63db95d5eeaa05a14951e54b5c86d1d175988476d4fdc8100"
     },
     "scripts/items/armor/named/named_noble_mail_armor.json": {
         "id": 919376,
@@ -21986,14 +21986,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:25:39.466Z",
         "updatedAt": "2023-05-17T14:31:15.242Z",
-        "modifiedAt": "2023-05-17T14:31:15Z",
-        "sha256": "853733370093691e2d112d52b3b0fd863ffa1bd9cc52b254edd8e7610b6b65c3"
+        "modifiedAt": "2023-05-18T00:45:03Z",
+        "sha256": "06c0194f51e844a52532f34429ac33d1a7fa6fb29862633491ee21ac22ecdf46"
     },
     "scripts/items/item_container.json": {
         "id": 919572,
