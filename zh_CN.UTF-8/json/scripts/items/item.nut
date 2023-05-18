@@ -19,7 +19,7 @@
     "key": "Worth nothing.",
     "original": "Worth nothing.",
     "translation": "一文不值。",
-    "stage": 1,
+    "stage": 5,
     "context": "return 'Worth nothing.';"
   },
   {
@@ -27,6 +27,6 @@
     "key": "Can be used to craft items",
     "original": "Can be used to craft items",
     "translation": "可用于制作物品",
-    "stage": 1
+    "stage": 5
   }
 ]

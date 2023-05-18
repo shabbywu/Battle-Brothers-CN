@@ -4,7 +4,7 @@
     "key": "Leather Lamellar Armor",
     "original": "Leather Lamellar Armor",
     "translation": "皮革札甲",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Leather Lamellar Armor'"
   },
   {

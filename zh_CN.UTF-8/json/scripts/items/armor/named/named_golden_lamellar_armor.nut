@@ -33,7 +33,7 @@
     "key": "Golden Lamellar",
     "original": "Golden Lamellar",
     "translation": "金札甲",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293417777,
