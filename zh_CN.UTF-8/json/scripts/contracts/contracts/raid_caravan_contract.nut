@@ -32,8 +32,8 @@
     "ID": 293409642,
     "key": "Along the way...",
     "original": "Along the way...",
-    "translation": "在途中…",
-    "stage": 1
+    "translation": "在途中……",
+    "stage": 5
   },
   {
     "ID": 293409643,

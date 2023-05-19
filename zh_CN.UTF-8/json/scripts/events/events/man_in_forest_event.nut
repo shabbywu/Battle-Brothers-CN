@@ -32,8 +32,8 @@
     "ID": 293416288,
     "key": "Along the way...",
     "original": "Along the way...",
-    "translation": "在途中…",
-    "stage": 1,
+    "translation": "在途中……",
+    "stage": 5,
     "context": "this.m.Title = 'Along the way...'"
   },
   {
