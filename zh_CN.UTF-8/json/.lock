@@ -1628,14 +1628,14 @@
         "total": 46,
         "translated": 46,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:55.4Z",
         "updatedAt": "2023-05-17T15:30:31.849Z",
-        "modifiedAt": "2023-05-18T09:08:36Z",
-        "sha256": "39751bf14c1ff2e7dca7f0a6a35126088b24bc7b53a7720926654e043211168c"
+        "modifiedAt": "2023-05-19T03:15:20Z",
+        "sha256": "1c56a84894cbf3d4a7d21919207bc57ec0517256c0fe8818fe915d6a5a1633fc"
     },
     "scripts/contracts/contracts/destroy_goblin_camp_contract.json": {
         "id": 918441,
@@ -1754,14 +1754,14 @@
         "total": 83,
         "translated": 83,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:58.212Z",
         "updatedAt": "2023-05-17T14:20:50.035Z",
-        "modifiedAt": "2023-05-17T14:20:50Z",
-        "sha256": "5421c3187a05289042479867ea05f7a63bc61328b3d1621094e8c32767b8d043"
+        "modifiedAt": "2023-05-19T01:37:15Z",
+        "sha256": "48472c9bc9432ae15e0d7b9d1c079619f9c05409e42eb7c692ad850e1a511149"
     },
     "scripts/contracts/contracts/escort_envoy_contract.json": {
         "id": 918448,
