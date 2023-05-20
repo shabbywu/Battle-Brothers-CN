@@ -110,8 +110,8 @@
     "ID": 293408760,
     "key": "Escort caravan to %objective% about %days% to the %direction%",
     "original": "Escort caravan to %objective% about %days% to the %direction%",
-    "translation": "护送商队到 %objective% 去 %direction%, 大约需要 %days%",
-    "stage": 1
+    "translation": "护送商队去约%days%路程的%direction%的%objective%",
+    "stage": 5
   },
   {
     "ID": 293408761,
@@ -326,7 +326,7 @@
     "key": "Escort Caravan",
     "original": "Escort Caravan",
     "translation": "护送商队",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Escort Caravan'"
   },
   {
