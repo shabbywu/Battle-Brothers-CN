@@ -42,7 +42,7 @@
     "ID": 293410449,
     "key": " battle",
     "original": " battle",
-    "translation": "战斗",
+    "translation": "场战斗",
     "stage": 1,
     "context": "text = text + ' Took part in ' + this.m.LifetimeStats.Battles + ' battle'"
   },
@@ -74,8 +74,8 @@
     "ID": 293410453,
     "key": "With the company for ",
     "original": "With the company for ",
-    "translation": "跟战团在一起\"",
-    "stage": 1,
+    "translation": "与战团一起度过了",
+    "stage": 5,
     "context": "text = 'With the company for ' + time + ' days.'"
   },
   {
@@ -240,8 +240,8 @@
     "ID": 293410474,
     "key": " kills.",
     "original": " kills.",
-    "translation": "击杀。",
-    "stage": 1,
+    "translation": "次击杀。",
+    "stage": 5,
     "context": "text = text + ' and has ' + this.m.LifetimeStats.Kills + ' kills.'"
   },
   {

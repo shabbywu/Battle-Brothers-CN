@@ -4166,14 +4166,14 @@
         "total": 38,
         "translated": 38,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:51.707Z",
         "updatedAt": "2023-05-17T14:22:10.43Z",
-        "modifiedAt": "2023-05-17T14:22:11Z",
-        "sha256": "f246c3c7dd199971ae8e3a9140cc6be94ba72fda8ebb6e554571925cae074663"
+        "modifiedAt": "2023-05-20T08:39:49Z",
+        "sha256": "71ae7d40dd117131665570b4e64f6f60013122d08bbda504d0b8811edafa904e"
     },
     "scripts/entity/tactical/player_corpse_stub.json": {
         "id": 918582,
@@ -4184,14 +4184,14 @@
         "total": 11,
         "translated": 11,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:52.043Z",
         "updatedAt": "2023-05-17T14:22:11.324Z",
-        "modifiedAt": "2023-05-17T14:22:11Z",
-        "sha256": "e4c7783226378832174999ccab3d012077dbd8ebd826d148f1b6e29682f7d4a0"
+        "modifiedAt": "2023-05-20T08:39:28Z",
+        "sha256": "4121ff4c228b267ae811a2f22ce2b0a9227cd24fa004da6d2ff334ebbffe5699"
     },
     "scripts/entity/tactical/tactical_entity_manager.json": {
         "id": 918583,
@@ -38150,14 +38150,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:41.168Z",
         "updatedAt": "2023-05-13T14:32:41.168Z",
-        "modifiedAt": "2023-05-13T14:32:41.181Z",
-        "sha256": "605f61ebc0f0f59aaca828150d7436550f0c21996860716eebc853eb78937017"
+        "modifiedAt": "2023-05-20T08:45:19Z",
+        "sha256": "3db6f90a3bee6e758a7e44fcb159b400b11ecc55c20e06efad9184b8b69a763b"
     },
     "scripts/skills/traits/fear_greenskins_trait.json": {
         "id": 920470,
@@ -38330,14 +38330,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:45.913Z",
         "updatedAt": "2023-05-13T14:32:45.913Z",
-        "modifiedAt": "2023-05-13T14:32:45.926Z",
-        "sha256": "c2dbe30333ebc1d624e8cd06e1af7572810b18ec7363d8b106f99a671f68e8f6"
+        "modifiedAt": "2023-05-20T08:46:01Z",
+        "sha256": "21b10044f09d9c3a9ff991b5a6f9732404d3f4fca7400156107f1daa4fcc0cc4"
     },
     "scripts/skills/traits/hate_greenskins_trait.json": {
         "id": 920480,
