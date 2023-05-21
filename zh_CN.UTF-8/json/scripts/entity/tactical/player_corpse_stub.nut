@@ -11,8 +11,8 @@
     "ID": 293410489,
     "key": " battles and has ",
     "original": " battles and has ",
-    "translation": "战斗并且拥有",
-    "stage": 1,
+    "translation": "场战斗并且拥有",
+    "stage": 5,
     "context": "text = text + ' Took part in ' + this.m.LifetimeStats.Battles + ' battles and has ' + this.m.LifetimeStats.Kills + ' kills.'"
   },
   {
@@ -67,8 +67,8 @@
     "ID": 293410496,
     "key": " kills.",
     "original": " kills.",
-    "translation": "击杀。",
-    "stage": 1,
+    "translation": "次击杀。",
+    "stage": 5,
     "context": "text = text + ' Took part in ' + this.m.LifetimeStats.Battles + ' battles and has ' + this.m.LifetimeStats.Kills + ' kills.'"
   },
   {
@@ -76,15 +76,15 @@
     "key": " Took part in ",
     "original": " Took part in ",
     "translation": "参加了",
-    "stage": 1,
+    "stage": 5,
     "context": "text = text + ' Took part in ' + this.m.LifetimeStats.Battles + ' battles and has ' + this.m.LifetimeStats.Kills + ' kills.'"
   },
   {
     "ID": 293410498,
     "key": "With the company for ",
     "original": "With the company for ",
-    "translation": "跟战团在一起\"",
-    "stage": 1,
+    "translation": "与战团一起度过了",
+    "stage": 5,
     "context": "text = 'With the company for ' + time + ' days.'"
   }
 ]
