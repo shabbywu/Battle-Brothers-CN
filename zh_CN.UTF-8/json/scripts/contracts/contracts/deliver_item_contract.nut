@@ -10,7 +10,7 @@
     "ID": 293408481,
     "key": "Deliver cargo to %recipient% in %objective% about %days% to the %direction% by road",
     "original": "Deliver cargo to %recipient% in %objective% about %days% to the %direction% by road",
-    "translation": "将货物走大路于%days%天内，向%direction%运往%objective%，交付给%recipient%",
+    "translation": "将货物走大路于%days%内，向%direction%运往%objective%，交付给%recipient%",
     "stage": 5
   },
   {
