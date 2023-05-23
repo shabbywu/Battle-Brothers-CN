@@ -4,14 +4,14 @@
     "key": "Swipe",
     "original": "Swipe",
     "translation": "横扫",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422780,
     "key": "Line Battle (Undead)",
     "original": "Line Battle (Undead)",
-    "translation": "战线（亡灵）",
-    "stage": 1
+    "translation": "线列战（亡灵）",
+    "stage": 5
   },
   {
     "ID": 293422781,
@@ -24,8 +24,8 @@
     "ID": 293422782,
     "key": "Line Battle (Goblins)",
     "original": "Line Battle (Goblins)",
-    "translation": "战线（哥布林）",
-    "stage": 1
+    "translation": "线列战（地精）",
+    "stage": 5
   },
   {
     "ID": 293422783,
@@ -45,15 +45,15 @@
     "ID": 293422785,
     "key": "[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]A possible early game encounter in enemy composition and equipment available. Moderate difficulty.[/p]",
     "original": "[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]A possible early game encounter in enemy composition and equipment available. Moderate difficulty.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]可能在游戏前期遇到的敌人组成和装备配置。 中等难度。[/p]",
-    "stage": 1
+    "translation": "[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]可能在游戏前期遇到的敌人组成和可用装备。 中等难度。[/p]",
+    "stage": 5
   },
   {
     "ID": 293422786,
     "key": "Early Game",
     "original": "Early Game",
     "translation": "游戏前期",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422787,
@@ -67,7 +67,7 @@
     "key": "Combat Basics",
     "original": "Combat Basics",
     "translation": "战斗基础",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422789,
@@ -94,8 +94,8 @@
     "ID": 293422792,
     "key": "[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n[p=c]Few and easy opponents all over a map with lots of terrain features blocking sight. Well suited to get used to lines of sight, fog of war and ranged combat. Easy.[/p]",
     "original": "[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n[p=c]Few and easy opponents all over a map with lots of terrain features blocking sight. Well suited to get used to lines of sight, fog of war and ranged combat. Easy.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n[p=c]很多简单的对手分布在整个地图中，这里的很多地形会阻挡你的视线。 非常适合用来适应视野、战争迷雾以及远程作战。容易的。[/p]",
-    "stage": 1
+    "translation": "[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n[p=c]少量简单的对手分布在整个地图中，许多地形特征阻挡视线。非常适合用来适应视野、战争迷雾以及远程作战。容易。[/p]",
+    "stage": 5
   },
   {
     "ID": 293422793,
@@ -108,15 +108,15 @@
     "ID": 293422794,
     "key": "[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]Survive against overwhelming odds while positioned on top of a hill. Well suited to learn about height advantage and to test sight and usability issues with height levels. Difficult.[/p]",
     "original": "[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]Survive against overwhelming odds while positioned on top of a hill. Well suited to learn about height advantage and to test sight and usability issues with height levels. Difficult.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]处于小山的顶部，在巨大的危险中生存下来。 非常适合学习高度优势，并在高处测试视野和实践。 困难的。[/p]",
-    "stage": 1
+    "translation": "[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]处于小山的顶部，在巨大的危险中生存下来。非常适合学习高度优势，并在高处测试视野和交互细节。困难。[/p]",
+    "stage": 5
   },
   {
     "ID": 293422795,
     "key": "[p=c][img]gfx/ui/events/event_28.png[/img][/p]\n[p=c]A simple scenario to learn combat basics. Easy.[/p]",
     "original": "[p=c][img]gfx/ui/events/event_28.png[/img][/p]\n[p=c]A simple scenario to learn combat basics. Easy.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_28.png[/img][/p]\n[p=c]学习战斗基础的简单场景。容易的。[/p]",
-    "stage": 1
+    "translation": "[p=c][img]gfx/ui/events/event_28.png[/img][/p]\n[p=c]学习战斗基础的简单场景。容易。[/p]",
+    "stage": 5
   },
   {
     "ID": 293422796,
@@ -129,8 +129,8 @@
     "ID": 293422797,
     "key": "Defend the Hill",
     "original": "Defend the Hill",
-    "translation": "守卫小山",
-    "stage": 1
+    "translation": "保卫山丘",
+    "stage": 5
   },
   {
     "ID": 293422798,

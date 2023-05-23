@@ -1634,8 +1634,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:55.4Z",
         "updatedAt": "2023-05-17T15:30:31.849Z",
-        "modifiedAt": "2023-05-19T03:15:20Z",
-        "sha256": "1c56a84894cbf3d4a7d21919207bc57ec0517256c0fe8818fe915d6a5a1633fc"
+        "modifiedAt": "2023-05-23T00:24:48Z",
+        "sha256": "e12b3d0b9c328b7c5e60839667d4e52838de99986c84ccf2c6e471b309ef2682"
     },
     "scripts/contracts/contracts/destroy_goblin_camp_contract.json": {
         "id": 918441,
@@ -39122,14 +39122,14 @@
         "total": 22,
         "translated": 22,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 10,
+        "reviewed": 10,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:02.307Z",
         "updatedAt": "2023-05-17T15:33:50.736Z",
-        "modifiedAt": "2023-05-17T15:33:51Z",
-        "sha256": "8eb9ceff9af5b54e24d88a84591e079fc86e5021da3f1dc08a30d2aefd1cb2f6"
+        "modifiedAt": "2023-05-23T00:52:22Z",
+        "sha256": "6f10db5038cd253c2b69bc530a5d02ffff3f7f2a4260cf0417d7a26d45699c3e"
     },
     "scripts/states/tactical_state.json": {
         "id": 920524,
