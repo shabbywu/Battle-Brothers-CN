@@ -139,7 +139,7 @@
     "key": "Has just joined the company.",
     "original": "Has just joined the company.",
     "translation": "刚加入战队。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Has just joined the company.'"
   },
   {

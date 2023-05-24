@@ -24,14 +24,14 @@
     "ID": 293405432,
     "key": "Somewhere %direction% of here be some goblins. The only reason I know it is because every swinging dick that comes this way talks about how they just barely got away with their life. One even claims he lost his mastercrafted shield when legging it.",
     "original": "Somewhere %direction% of here be some goblins. The only reason I know it is because every swinging dick that comes this way talks about how they just barely got away with their life. One even claims he lost his mastercrafted shield when legging it.",
-    "translation": "这里 %direction% 的某处居住着一群哥布林。我知道这一切的唯一原因是因为每一个嘚瑟的家伙都在谈论他们是如何侥幸逃脱它们的魔掌。有人还声称在逃跑时丢了一块精良的盾牌。",
+    "translation": "这里 %direction% 的某处居住着一群地精。我知道这一切的唯一原因是因为每一个嘚瑟的家伙都在谈论他们是如何侥幸逃脱它们的魔掌。有人还声称在逃跑时丢了一块精良的盾牌。",
     "stage": 1
   },
   {
     "ID": 293405433,
     "key": "A farmer from up %direction% told me he saw some small, sinister creatures on his land carrying a large, shiny shield and making devilish noises. He says it was goblins, but I say he got pranked by some youngsters!",
     "original": "A farmer from up %direction% told me he saw some small, sinister creatures on his land carrying a large, shiny shield and making devilish noises. He says it was goblins, but I say he got pranked by some youngsters!",
-    "translation": "一位来自 %direction% 的农夫告诉我，他看见一些矮小的，阴险的生物在他的土地上，还拿着一件巨大闪亮的盾牌发出邪恶的声音。他说那些是哥布林，但我说他是被一些小孩子戏耍了！",
+    "translation": "一位来自 %direction% 的农夫告诉我，他看见一些矮小的，阴险的生物在他的土地上，还拿着一件巨大闪亮的盾牌发出邪恶的声音。他说那些是地精，但我说他是被一些小孩子戏耍了！",
     "stage": 1
   },
   {
@@ -171,7 +171,7 @@
     "ID": 293405453,
     "key": "Ever fought goblins? Nastly little buggers, don't be fooled by their size. I'd take large kite shields to protect the men from their arrows. And a pack of wardogs to run them down as they scatter, if you can afford it.",
     "original": "Ever fought goblins? Nastly little buggers, don't be fooled by their size. I'd take large kite shields to protect the men from their arrows. And a pack of wardogs to run them down as they scatter, if you can afford it.",
-    "translation": "与哥布林战斗过没？那是一种阴险的狗杂碎，不要被它们的体型糊弄了。我会带上筝型盾来防御它们的弓箭。如果你有钱的话还可以带着战犬，在它们四散逃跑时追上它们。",
+    "translation": "与地精战斗过没？那是一种阴险的狗杂碎，不要被它们的体型糊弄了。我会带上筝型盾来防御它们的弓箭。如果你有钱的话还可以带着战犬，在它们四散逃跑时追上它们。",
     "stage": 1
   },
   {
@@ -458,7 +458,7 @@
     "ID": 293405494,
     "key": "Afraid of greenskins? Some real beaten up soldiers passed down through here the other day. Said they wanted to wrestle a well-known weapon from goblins %direction% of here, but it sure looked like it didn't go down as planned and they had to pull back. Gu",
     "original": "Afraid of greenskins? Some real beaten up soldiers passed down through here the other day. Said they wanted to wrestle a well-known weapon from goblins %direction% of here, but it sure looked like it didn't go down as planned and they had to pull back. Guess their prize is still up for the taking.",
-    "translation": "害怕绿皮吗？几天前一群久经沙场的士兵来过这里。据说他们想从这里 %direction% 的哥布林那里争取一件著名的武器，但看起来他们的计划确实没有奏效而不得不撤回来。看来他们的战利品还没到手。",
+    "translation": "害怕绿皮吗？几天前一群久经沙场的士兵来过这里。据说他们想从这里 %direction% 的地精那里争取一件著名的武器，但看起来他们的计划确实没有奏效而不得不撤回来。看来他们的战利品还没到手。",
     "stage": 1
   },
   {
@@ -507,7 +507,7 @@
     "ID": 293405501,
     "key": "Word has it that some overpriced and overvalued piece of armor  was stolen from the guardhouse by some small devil creatures that hauled it to the %direction%. %randomname% said it must've been goblins, but no one here really knows what they look like.",
     "original": "Word has it that some overpriced and overvalued piece of armor  was stolen from the guardhouse by some small devil creatures that hauled it to the %direction%. %randomname% said it must've been goblins, but no one here really knows what they look like.",
-    "translation": "有传言说一些价值连城盔甲被一群邪恶的生物从警卫室偷到 %direction% 去了。%randomname%  说一定是哥布林，但没人真正看清那些家伙是啥模样的。",
+    "translation": "有传言说一些价值连城盔甲被一群邪恶的生物从警卫室偷到 %direction% 去了。%randomname%  说一定是地精，但没人真正看清那些家伙是啥模样的。",
     "stage": 1
   },
   {
@@ -794,7 +794,7 @@
     "ID": 293405542,
     "key": "Got wounded bad some months back in a skirmish 'gainst goblins. Couldn't feel me legs anymore, but the lads carried me all the way back to %townname%. Gods bless 'em.",
     "original": "Got wounded bad some months back in a skirmish 'gainst goblins. Couldn't feel me legs anymore, but the lads carried me all the way back to %townname%. Gods bless 'em.",
-    "translation": "我数月前与哥布林的战斗中受了重伤。再也感觉不到我的腿了，但小伙子们硬是扛着我跑回了 %townname%。愿上帝保佑他们。",
+    "translation": "我数月前与地精的战斗中受了重伤。再也感觉不到我的腿了，但小伙子们硬是扛着我跑回了 %townname%。愿上帝保佑他们。",
     "stage": 1
   },
   {

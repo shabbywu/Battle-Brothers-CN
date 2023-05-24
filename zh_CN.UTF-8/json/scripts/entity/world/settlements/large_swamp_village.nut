@@ -117,7 +117,7 @@
     "ID": 293411056,
     "key": "Fuhrtmark",
     "original": "Fuhrtmark",
-    "translation": "Fuhrtmark\" should be translated into \"弗特马克(Fuhrtmark)",
+    "translation": "弗特马克(Fuhrtmark)",
     "stage": 1
   },
   {

@@ -10,7 +10,7 @@
     "ID": 293418432,
     "key": "Developed from drugs found on goblin frontline troops, this concoction can grant a man the celerity typically found in the diminutive greenskins. May result in minor skin discoloration.",
     "original": "Developed from drugs found on goblin frontline troops, this concoction can grant a man the celerity typically found in the diminutive greenskins. May result in minor skin discoloration.",
-    "translation": "这种混合物由在哥布林前线步兵身上携带的药物研制而成，可以让人类拥有在小个子的绿皮身上常见的敏捷性。副作用是可能会导致皮肤轻微变色。",
+    "translation": "这种混合物由在地精前线步兵身上携带的药物研制而成，可以让人类拥有在小个子的绿皮身上常见的敏捷性。副作用是可能会导致皮肤轻微变色。",
     "stage": 1,
     "context": "this.m.Description = 'Developed from drugs found on goblin frontline troops, this concoction can grant a man the celerity typically found in the diminutive greenskins. May result in minor skin discoloration.'"
   },

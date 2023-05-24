@@ -32,7 +32,7 @@
     "ID": 293409439,
     "key": "[img]gfx/ui/events/event_48.png[/img]{While approaching, you spot a strange smoke clambering upward. It is not ashy or grey, but purple, with tendrils of seemingly living green slipping and looping through it. Goblins are here, and they have a shaman with",
     "original": "[img]gfx/ui/events/event_48.png[/img]{While approaching, you spot a strange smoke clambering upward. It is not ashy or grey, but purple, with tendrils of seemingly living green slipping and looping through it. Goblins are here, and they have a shaman with them! | A shaman! You'd recognize one of those crafty goblins anywhere - the bony jewelry, the sloped eyes, the sense of sapience usually unseen in a gobbo's dumb face. These are dangerous greenskins, be wary! | Oy, watch yer step. A goblin shaman is standing amongst the enemy ranks! This is a most dangerous enemy combatant! Do not take its small shape or size lightly... | You've heard stories of some shamans being able to draw a man's dreams from his ears. You're not so sure if that's true, but you do know they make for crafty combatants, and you're about to face one! | A shamanistic goblin... you'd know that bony garb anywhere, and the camouflaging cloak, too! Keep calm and carry on - killing all these greenskins, that is! | Shaman. One goblin shaman... You've heard horror stories about their 'magicks', but this isn't the time or place. Prepare the men to attack! | A goblin shaman. You've heard stories of these foul gits being able to trick the minds of men. You now wonder if %employer%, your employer, was fooled into bringing you here.\n\n...nah. Surely not, right? | A goblin shaman! You've heard stories of these nefarious things. One was that they feed wasps into the ears of their prisoners! One man, admittedly having a few drinks in his belly, told you that he watched bees turn a man's brains into a honeycomb! Bet that honey smarted the tongue!}",
-    "translation": "[img]gfx/ui/events/event_48.png[/img]{当你接近的时候，你发现一缕陌生的烟雾升上天空。 它并不是黑色或者灰色，是紫色的，看起来像活物一般在绿色的卷曲中循环滑动。 哥布林群中有一位萨满！ | 一位萨满！你意识到这些狡诈的哥布林其中一个有着骨制首饰，斜眼，在他们笨拙的面孔中带着一丝寻常哥布林不会拥有的智慧。 这些是危险的绿皮，必须要小心！ | 唔，注意你的脚步。 哥布林队伍中出现了一位萨满！ 这是最危险的敌方战斗人员！ 不要轻视他矮小的体型或者重量… | 你曾经听说一些萨满可以从一个人的耳朵中抽取梦境。 你并不确信这是否是真的，但是你知道他们是狡诈的战士，而你即将面对他！ | 一个哥布林萨满…你无论在哪都知道这骨质外衣还有伪装斗篷！ 保持冷静，继续前进-将所有的绿皮屠戮殆尽，仅此而已！ | 萨满。一位哥布林萨满… 你曾听过关它们的恐怖魔法的故事，但并不是此时此刻。 让士兵们准备进攻！ | 一个哥布林萨满。你曾听过那些卑鄙的把戏能迷惑一个人的心智。 你现在疑惑 %employer%，你的雇主，是否被欺骗了以至于将你陷入此处。\n\n…不。不是吧？ | 一个哥布林萨满！你曾听过关于这些生物的邪恶故事。 其中一个是他们把黄蜂放入囚犯的耳朵！ 一个男人在喝了一些酒后信誓旦旦的告诉你，他曾亲眼看到蜜蜂把一个人的脑袋变成蜂窝！ 以他亲爱的舌头作为赌注！}",
+    "translation": "[img]gfx/ui/events/event_48.png[/img]{当你接近的时候，你发现一缕陌生的烟雾升上天空。 它并不是黑色或者灰色，是紫色的，看起来像活物一般在绿色的卷曲中循环滑动。 地精群中有一位萨满！ | 一位萨满！你意识到这些狡诈的地精其中一个有着骨制首饰，斜眼，在他们笨拙的面孔中带着一丝寻常地精不会拥有的智慧。 这些是危险的绿皮，必须要小心！ | 唔，注意你的脚步。 地精队伍中出现了一位萨满！ 这是最危险的敌方战斗人员！ 不要轻视他矮小的体型或者重量… | 你曾经听说一些萨满可以从一个人的耳朵中抽取梦境。 你并不确信这是否是真的，但是你知道他们是狡诈的战士，而你即将面对他！ | 一个地精萨满…你无论在哪都知道这骨质外衣还有伪装斗篷！ 保持冷静，继续前进-将所有的绿皮屠戮殆尽，仅此而已！ | 萨满。一位地精萨满… 你曾听过关它们的恐怖魔法的故事，但并不是此时此刻。 让士兵们准备进攻！ | 一个地精萨满。你曾听过那些卑鄙的把戏能迷惑一个人的心智。 你现在疑惑 %employer%，你的雇主，是否被欺骗了以至于将你陷入此处。\n\n…不。不是吧？ | 一个地精萨满！你曾听过关于这些生物的邪恶故事。 其中一个是他们把黄蜂放入囚犯的耳朵！ 一个男人在喝了一些酒后信誓旦旦的告诉你，他曾亲眼看到蜜蜂把一个人的脑袋变成蜂窝！ 以他亲爱的舌头作为赌注！}",
     "stage": 1
   },
   {
@@ -97,7 +97,7 @@
     "ID": 293409448,
     "key": "[img]gfx/ui/events/event_83.png[/img]{For being such small gits, the goblins sure know how to put up a good fight! Your employer, %employer%, shall be pleased with the work you've accomplished here today. | You've heard people scoff at the size of the gob",
     "original": "[img]gfx/ui/events/event_83.png[/img]{For being such small gits, the goblins sure know how to put up a good fight! Your employer, %employer%, shall be pleased with the work you've accomplished here today. | You've heard people scoff at the size of the goblins. Well, they may have been small but they gave it their all.\n\nTake count of your men and prepare a return to your employer, %employer%, for your payday. | The gobbos fought like starving mutts. Starving, crafty, murderous mutts. Unfortunate that their savviness couldn't be put to better use. Ah well, %employer% will appreciate the news of what was done here. | You're not sure if it was a good thing your employer, %employer%, wasn't entirely sure if there were goblins afoot. Had he known, would he have paid you less? The goblins sure seem ineffectual when you look at them, but goddam do they know how to put up a fight.\n\n Regardless, it's time to take account of your company and return to your employer. | The goblins lay dead. What a nuisance. Your employer, %employer%, should be pleased with what you've done here today. | A stack of dead goblins is still not tall enough to reach the overwhelming height of an orcish berserker. And yet... they put up just as good of a fight! A shame their efforts are wasted in such tiny bodies. Then again, if their wits and craftiness were fitted to an orc's body... by the old gods, it is a scary thought!}",
-    "translation": "[img]gfx/ui/events/event_83.png[/img]{对于这样的卑鄙小人们来说，哥布林们确实懂得如何战斗！ 你的雇主，%employer%，应该会对你今天完成的任务感到满意。 | 你曾听过人们嘲笑哥布林的体格大小。 好吧，他们可能小，但他们全力以赴。\n\n统计下你的人员准备回到你的雇主，%employer% 那去，为了你的发薪日。 | 哥布林们像饥饿的狗杂种一样战斗。 饥饿，狡诈 ，杀人的杂种。 不幸的是它们的精明没能应用得更好。 恩，%employer% 会为这边的消息感到满意的。 | 你并不清楚这是否是一件好事，你的雇主，%employer%，并不能完全确定这里是否有哥布林。 如果他知道后，会减少我们的佣金吗？ 当然看着这些哥布林时，它们无疑已经失败了，但是该死的，它们清楚的明白该如何战斗。\n\n 无论如何，是时候统计人数，准备返回雇主那去交差了。 | 哥布林们死了。真是令人憎恶。 你的雇主，%employer%，应该会为你今天在此所作的事感到满意。 | 一堆死去的哥布林的仍然无法与一个兽人狂战士压倒性的高度相提并论。 但是，它们表现得很出色！ 遗憾的是，他们的努力在如此渺小的身躯上被白白浪费。 再说一次，如果他们的机智和狡猾装在了兽人的身上…旧神啊，这真是一个令人胆寒的想法！}",
+    "translation": "[img]gfx/ui/events/event_83.png[/img]{对于这样的卑鄙小人们来说，地精们确实懂得如何战斗！ 你的雇主，%employer%，应该会对你今天完成的任务感到满意。 | 你曾听过人们嘲笑地精的体格大小。 好吧，他们可能小，但他们全力以赴。\n\n统计下你的人员准备回到你的雇主，%employer% 那去，为了你的发薪日。 | 地精们像饥饿的狗杂种一样战斗。 饥饿，狡诈 ，杀人的杂种。 不幸的是它们的精明没能应用得更好。 恩，%employer% 会为这边的消息感到满意的。 | 你并不清楚这是否是一件好事，你的雇主，%employer%，并不能完全确定这里是否有地精。 如果他知道后，会减少我们的佣金吗？ 当然看着这些地精时，它们无疑已经失败了，但是该死的，它们清楚的明白该如何战斗。\n\n 无论如何，是时候统计人数，准备返回雇主那去交差了。 | 地精们死了。真是令人憎恶。 你的雇主，%employer%，应该会为你今天在此所作的事感到满意。 | 一堆死去的地精的仍然无法与一个兽人狂战士压倒性的高度相提并论。 但是，它们表现得很出色！ 遗憾的是，他们的努力在如此渺小的身躯上被白白浪费。 再说一次，如果他们的机智和狡猾装在了兽人的身上…旧神啊，这真是一个令人胆寒的想法！}",
     "stage": 1
   },
   {
@@ -156,7 +156,7 @@
     "ID": 293409456,
     "key": "Looks like we're hunting goblins.",
     "original": "Looks like we're hunting goblins.",
-    "translation": "看起来我们即将狩猎哥布林。",
+    "translation": "看起来我们即将狩猎地精。",
     "stage": 1
   },
   {
@@ -227,7 +227,7 @@
     "ID": 293409466,
     "key": "[img]gfx/ui/events/event_60.png[/img]{You stumble across a man leaning against a signpost. When you ask if he's seen any greenskins, he simply slopes forward and falls to the ground. There are darts in his back. I guess that answers your question. It also",
     "original": "[img]gfx/ui/events/event_60.png[/img]{You stumble across a man leaning against a signpost. When you ask if he's seen any greenskins, he simply slopes forward and falls to the ground. There are darts in his back. I guess that answers your question. It also means you're behind goblins, not orcs. | Orcs don't leave messes like this. You've found a series of peasants and their dogs dead and slain. But there's little mess. Stab wounds here, small puncture wounds there. A few darts here and there. Poison on the tips. This is the work of... goblins. They must not be far. | A man is laying in the grass, a dart in his neck. His face is purpled, his tongue retched out. His hands are firmly clenched, almost as if they were clutching themselves. The work of a nasty, paralyzing poison, no doubt. And no doubt not the work of orcs, but goblins. They must be close...}",
-    "translation": "[img]gfx/ui/events/event_60.png[/img]{你偶然发现一名男子倚着路标。 当你问他是否见过绿皮时，他前倾斜并跌落在地。 他的背部有一只飞镖。 我想这就是你问题的答案。 这也意味着你即将面对哥布林，而不是兽人。 | 兽人不会留下像这样混乱的局面。 你发现了一系列农民和他们的狗被杀。 但是这有点的混乱。 刺伤在这里，小刺伤在那里。 到处都是几支飞镖。 并提示着有毒。 这是…哥布林的作品。 他们一定不远。 | 一个人躺在草地上，一只飞镖扎在脖子上。 他的脸发紫，舌头抽出。 他的手紧紧地握着，好像他们在抓紧自己一样。 毫无疑问，这是一种令人讨厌，麻痹的毒药。 无疑，这不是兽人的作品，而是哥布林作品。 他们一定就在附近了…}",
+    "translation": "[img]gfx/ui/events/event_60.png[/img]{你偶然发现一名男子倚着路标。 当你问他是否见过绿皮时，他前倾斜并跌落在地。 他的背部有一只飞镖。 我想这就是你问题的答案。 这也意味着你即将面对地精，而不是兽人。 | 兽人不会留下像这样混乱的局面。 你发现了一系列农民和他们的狗被杀。 但是这有点的混乱。 刺伤在这里，小刺伤在那里。 到处都是几支飞镖。 并提示着有毒。 这是…地精的作品。 他们一定不远。 | 一个人躺在草地上，一只飞镖扎在脖子上。 他的脸发紫，舌头抽出。 他的手紧紧地握着，好像他们在抓紧自己一样。 毫无疑问，这是一种令人讨厌，麻痹的毒药。 无疑，这不是兽人的作品，而是地精作品。 他们一定就在附近了…}",
     "stage": 1
   },
   {
@@ -248,7 +248,7 @@
     "ID": 293409469,
     "key": "Goblin Raiders",
     "original": "Goblin Raiders",
-    "translation": "哥布林突袭者(Goblin Raiders)",
+    "translation": "地精突袭者(Goblin Raiders)",
     "stage": 1
   },
   {
@@ -305,7 +305,7 @@
     "ID": 293409477,
     "key": "A band of mischievous goblins, small but cunning and not to be underestimated.",
     "original": "A band of mischievous goblins, small but cunning and not to be underestimated.",
-    "translation": "一群淘气的哥布林，小而狡猾，不可低估。",
+    "translation": "一群淘气的地精，小而狡猾，不可低估。",
     "stage": 1
   },
   {

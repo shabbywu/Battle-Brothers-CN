@@ -20,7 +20,7 @@
     "key": "Have at least 2,000 crowns",
     "original": "Have at least 2,000 crowns",
     "translation": "拥有至少2000克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.UIText = 'Have at least 2,000 crowns'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "]1,000[/color] Crowns",
     "original": "]1,000[/color] Crowns",
     "translation": "]1,000[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']1,000[/color] Crowns'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "You'll be awarded a unique item that grants anyone near the wearer additional resolve.",
     "original": "You'll be awarded a unique item that grants anyone near the wearer additional resolve.",
     "translation": "你将获得一个独特的物品，授予佩戴者附近的任何人额外的决心。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.RewardTooltip = \"You'll be awarded a unique item that grants anyone near the wearer additional resolve.\""
   },
   {
@@ -44,7 +44,7 @@
     "key": "You spend [color=",
     "original": "You spend [color=",
     "translation": "你花费了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']1,000[/color] Crowns'"
   },
   {
@@ -52,7 +52,7 @@
     "key": "Men, those are our colors now!",
     "original": "Men, those are our colors now!",
     "translation": "兄弟们，那就是我们的旗帜！",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.SuccessButtonText = 'Men, those are our colors now!'"
   },
   {
@@ -60,15 +60,15 @@
     "key": "You gain ",
     "original": "You gain ",
     "translation": "你获得了",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain ' + this.Const.Strings.getArticle(item.getName()) + item.getName()"
   },
   {
     "ID": 293403314,
     "key": "Gather the amount of 2,000 crowns or more, so that you can afford to have a battle standard made for the company. You can make money by completing contracts, looting camps and ruins, or trading. You'll also need space enough in your inventory for a new it",
     "original": "Gather the amount of 2,000 crowns or more, so that you can afford to have a battle standard made for the company. You can make money by completing contracts, looting camps and ruins, or trading. You'll also need space enough in your inventory for a new item.",
-    "translation": "收集2000或更多的克朗，这样就能为战队打造一面旗帜。 你可以通过完成合同、掠夺营地和废墟或贸易来赚钱。 你还需要在仓库中留出足够的空间来存放一个新物品。",
-    "stage": 1,
+    "translation": "收集2000或更多的克朗，这样就能为战队打造一面旗帜。 你可以通过完成合同、掠夺营地和废墟或贸易来赚钱。 当然，你还需要在仓库中留出足够的空间来存放一个新物品。",
+    "stage": 5,
     "context": "this.m.TooltipText = \"Gather the amount of 2,000 crowns or more, so that you can afford to have a battle standard made for the company. You can make money by completing contracts, looting camps and ruins, or trading. You'll also need space enough in your inventory for a new item.\""
   }
 ]

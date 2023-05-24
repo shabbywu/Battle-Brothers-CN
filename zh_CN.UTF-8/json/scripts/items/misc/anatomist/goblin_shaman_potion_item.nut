@@ -3,7 +3,7 @@
     "ID": 293418443,
     "key": "While the phrase 'slippery as a goblin' hasn't quite caught on in the common vernacular, anyone who has fought the hateful greenskins knows its truth. With this amazing potion, however, anyone can take on this loathsome aspect!",
     "original": "While the phrase 'slippery as a goblin' hasn't quite caught on in the common vernacular, anyone who has fought the hateful greenskins knows its truth. With this amazing potion, however, anyone can take on this loathsome aspect!",
-    "translation": "虽然“像哥布林一样滑溜”这句话在民间俗语中还不太流行，但任何与那帮可恶的小绿人战斗过的人都知道这句话是多么有含金量。然而，有了这种神奇的药剂后，任何人都可以表现出这种令人恶心的一面了！",
+    "translation": "虽然“像地精一样滑溜”这句话在民间俗语中还不太流行，但任何与那帮可恶的小绿人战斗过的人都知道这句话是多么有含金量。然而，有了这种神奇的药剂后，任何人都可以表现出这种令人恶心的一面了！",
     "stage": 1,
     "context": "this.m.Description = \"While the phrase 'slippery as a goblin' hasn't quite caught on in the common vernacular, anyone who has fought the hateful greenskins knows its truth. With this amazing potion, however, anyone can take on this loathsome aspect!\""
   },

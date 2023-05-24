@@ -3,7 +3,7 @@
     "ID": 293403535,
     "key": "Have a roster of 20 men",
     "original": "Have a roster of 20 men",
-    "translation": "战队人数达到20人",
+    "translation": "花名册人数达到20人",
     "stage": 1,
     "context": "this.m.UIText = 'Have a roster of 20 men'"
   },
@@ -11,7 +11,7 @@
     "ID": 293403536,
     "key": "Hire enough men to have a full roster of 20 men. Visit settlements across the lands to find recruits that suit your needs.",
     "original": "Hire enough men to have a full roster of 20 men. Visit settlements across the lands to find recruits that suit your needs.",
-    "translation": "雇佣足够多的人来达到20人的名册。 访问各地的定居点，寻找适合你需要的新兵。",
+    "translation": "雇佣足够多的人来达到20人的花名册。 访问各地的定居点，寻找适合你需要的新兵。",
     "stage": 1,
     "context": "this.m.TooltipText = 'Hire enough men to have a full roster of 20 men. Visit settlements across the lands to find recruits that suit your needs.'"
   },

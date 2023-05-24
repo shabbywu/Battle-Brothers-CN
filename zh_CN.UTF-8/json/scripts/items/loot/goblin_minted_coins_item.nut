@@ -11,7 +11,7 @@
     "ID": 293418359,
     "key": "Minted silver coins that goblins use as currency.",
     "original": "Minted silver coins that goblins use as currency.",
-    "translation": "哥布林用作货币的铸造银币。",
+    "translation": "地精用作货币的铸造银币。",
     "stage": 1,
     "context": "this.m.Description = 'Minted silver coins that goblins use as currency.'"
   }

@@ -4,7 +4,7 @@
     "key": "Gather the amount of 7,500 crowns or more, so that you can afford to buy a cart for additional inventory space. You can make money by completing contracts, looting camps and ruins, or trading.",
     "original": "Gather the amount of 7,500 crowns or more, so that you can afford to buy a cart for additional inventory space. You can make money by completing contracts, looting camps and ruins, or trading.",
     "translation": "收集7500或更多的克朗，这样就能买一辆货车来增加额外的仓库空间。 你可以通过完成合同、掠夺营地和废墟或贸易来赚钱。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.TooltipText = 'Gather the amount of 7,500 crowns or more, so that you can afford to buy a cart for additional inventory space. You can make money by completing contracts, looting camps and ruins, or trading.'"
   },
   {
@@ -12,7 +12,7 @@
     "key": "You spend [color=",
     "original": "You spend [color=",
     "translation": "你花费了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']5,000[/color] Crowns'"
   },
   {
@@ -20,14 +20,14 @@
     "key": "You gain 27 additional inventory slots",
     "original": "You gain 27 additional inventory slots",
     "translation": "你获得了27个额外的仓库空位",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293403318,
     "key": "]5,000[/color] Crowns",
     "original": "]5,000[/color] Crowns",
     "translation": "]5,000[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']5,000[/color] Crowns'"
   },
   {
@@ -43,7 +43,7 @@
     "key": "You'll unlock an additional 27 slots in your inventory.",
     "original": "You'll unlock an additional 27 slots in your inventory.",
     "translation": "你将解锁仓库中额外的27个空位。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.RewardTooltip = \"You'll unlock an additional 27 slots in your inventory.\""
   },
   {
@@ -51,7 +51,7 @@
     "key": "Have at least 7,500 crowns",
     "original": "Have at least 7,500 crowns",
     "translation": "拥有至少7500克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.UIText = 'Have at least 7,500 crowns'"
   },
   {
@@ -59,7 +59,7 @@
     "key": "Get moving!",
     "original": "Get moving!",
     "translation": "行动起来！",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.SuccessButtonText = 'Get moving!'"
   },
   {

@@ -19,7 +19,7 @@
     "ID": 293419137,
     "key": "A very light short bow used by Goblins.",
     "original": "A very light short bow used by Goblins.",
-    "translation": "哥布林使用的非常轻的短弓。",
+    "translation": "地精使用的非常轻的短弓。",
     "stage": 1,
     "context": "this.m.Description = 'A very light short bow used by Goblins.'"
   }

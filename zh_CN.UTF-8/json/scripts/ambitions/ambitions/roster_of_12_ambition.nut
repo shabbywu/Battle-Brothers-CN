@@ -3,7 +3,7 @@
     "ID": 293403525,
     "key": "Hire enough men to have a full roster of at least 12 men. Visit settlements across the lands to find recruits that suit your needs. Having a full roster will allow you to take on more dangerous and better paying contracts.",
     "original": "Hire enough men to have a full roster of at least 12 men. Visit settlements across the lands to find recruits that suit your needs. Having a full roster will allow you to take on more dangerous and better paying contracts.",
-    "translation": "雇佣足够多的人来拥有至少12人的名册。 访问各地的定居点，寻找适合你需要的新兵。 充足的人员能使你接受更危险更高报酬的合同。",
+    "translation": "雇佣足够多的人来拥有至少12人的花名册。 访问各地的定居点，寻找适合你需要的新兵。 充足的人员能使你接受更危险更高报酬的合同。",
     "stage": 1,
     "context": "this.m.TooltipText = 'Hire enough men to have a full roster of at least 12 men. Visit settlements across the lands to find recruits that suit your needs. Having a full roster will allow you to take on more dangerous and better paying contracts.'"
   },
@@ -19,7 +19,7 @@
     "ID": 293403527,
     "key": "Have a roster of at least 12 men",
     "original": "Have a roster of at least 12 men",
-    "translation": "战队人数至少达到12人",
+    "translation": "花名册人数至少达到12人",
     "stage": 1,
     "context": "this.m.UIText = 'Have a roster of at least 12 men'"
   },

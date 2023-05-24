@@ -1076,7 +1076,7 @@
     "ID": 293423102,
     "key": "Hire the selected recruit and have him join your roster.",
     "original": "Hire the selected recruit and have him join your roster.",
-    "translation": "雇佣选定的新兵，让他加入你的名册。",
+    "translation": "雇佣选定的新兵，让他加入你的花名册。",
     "stage": 1
   },
   {
@@ -1092,7 +1092,7 @@
     "key": "Contract available",
     "original": "Contract available",
     "translation": "可获得的合同",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423105,
@@ -1215,7 +1215,7 @@
     "key": "Someone is looking to hire mercenaries.",
     "original": "Someone is looking to hire mercenaries.",
     "translation": "有人想雇佣雇佣兵。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423122,
@@ -2173,7 +2173,7 @@
     "ID": 293423254,
     "key": "Dismiss this character from your roster to save daily wage and make room for someone else. Indebted characters will be freed from slavery and leave your company.",
     "original": "Dismiss this character from your roster to save daily wage and make room for someone else. Indebted characters will be freed from slavery and leave your company.",
-    "translation": "把这个角色从你的名册中解雇掉，这样可以节省日工资，并为其他人腾出空间。 负债者角色将解除奴隶身份，离开你的战队。",
+    "translation": "把这个角色从你的花名册中解雇掉，这样可以节省日工资，并为其他人腾出空间。 负债者角色将解除奴隶身份，离开你的战队。",
     "stage": 1
   },
   {
@@ -2272,7 +2272,7 @@
     "ID": 293423268,
     "key": "Show the roster of the fighting force of your mercenary company.",
     "original": "Show the roster of the fighting force of your mercenary company.",
-    "translation": "显示你的雇佣兵战队的战斗名单。",
+    "translation": "显示你的雇佣兵战队的战斗部队花名册。",
     "stage": 1
   },
   {
@@ -2699,7 +2699,7 @@
     "ID": 293423328,
     "key": "This character just leveled up! Find him in your roster, accessible on the worldmap, to raise his attributes and select a perk.",
     "original": "This character just leveled up! Find him in your roster, accessible on the worldmap, to raise his attributes and select a perk.",
-    "translation": "这个角色刚刚升级！ 在你的名册中找到他，可以在世界地图上访问，以提高他的属性并选择一个特技。",
+    "translation": "这个角色刚刚升级！ 在你的花名册中找到他，可以在世界地图上访问，以提高他的属性并选择一个特技。",
     "stage": 1
   },
   {

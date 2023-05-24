@@ -780,7 +780,7 @@
     "ID": 293406968,
     "key": "A goblin is no match for an adult human physically, so they rely on wit and dirty tricks.",
     "original": "A goblin is no match for an adult human physically, so they rely on wit and dirty tricks.",
-    "translation": "哥布林在身体上无法与成年人类相匹敌，所以他们靠的是机智和肮脏的把戏。",
+    "translation": "地精在身体上无法与成年人类相匹敌，所以他们靠的是机智和肮脏的把戏。",
     "stage": 1
   },
   {

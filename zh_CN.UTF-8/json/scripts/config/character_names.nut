@@ -4462,8 +4462,8 @@
     "ID": 293404415,
     "key": "%randomname% the Ox",
     "original": "%randomname% the Ox",
-    "translation": "%randomname% 牛",
-    "stage": 1
+    "translation": "壮牛%randomname%",
+    "stage": 5
   },
   {
     "ID": 293404416,
@@ -5883,8 +5883,8 @@
     "ID": 293404618,
     "key": "The Hedge Knight",
     "original": "The Hedge Knight",
-    "translation": "对冲骑士",
-    "stage": 1
+    "translation": "雇佣骑士",
+    "stage": 5
   },
   {
     "ID": 293404619,

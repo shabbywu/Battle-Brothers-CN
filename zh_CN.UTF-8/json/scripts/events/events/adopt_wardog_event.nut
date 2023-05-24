@@ -3,21 +3,21 @@
     "ID": 293412516,
     "key": "[img]gfx/ui/events/event_27.png[/img]You noticed the mutt a few miles back, and a few miles forward he's still there, bobbing and slinking in and out of sight.\n\nA mongrel such as he doesn't follow a band of dangerous men for no reason - maybe someone is f",
     "original": "[img]gfx/ui/events/event_27.png[/img]You noticed the mutt a few miles back, and a few miles forward he's still there, bobbing and slinking in and out of sight.\n\nA mongrel such as he doesn't follow a band of dangerous men for no reason - maybe someone is feeding it?",
-    "translation": "[img]gfx/ui/events/event_27.png[/img]你走了一段路之后，发现几里地前看到的那条狗仍然鬼鬼祟祟地跟在后面，仿佛有意隐藏自己的行踪一般。\n\n像它这样的杂种狗，不会无缘无故地跟着一群危险的佣兵－也许受人指使？",
+    "translation": "[img]gfx/ui/events/event_27.png[/img]你发现几英里前看到的那条图狗仍然鬼鬼祟祟地跟在后面，在你的视线范围内时隐时现。\n\n像它这样的杂种狗，不会无缘无故地跟着一群危险的佣兵－也许有人在指挥它？",
     "stage": 1
   },
   {
     "ID": 293412517,
     "key": "[img]gfx/ui/events/event_27.png[/img]You take a bow and nock an arrow. A few of the brothers watch as you take aim. The wind comes, goes, and comes again. You wait patiently before drawing the string and closing one eye to put the dog into focus. It sits ",
     "original": "[img]gfx/ui/events/event_27.png[/img]You take a bow and nock an arrow. A few of the brothers watch as you take aim. The wind comes, goes, and comes again. You wait patiently before drawing the string and closing one eye to put the dog into focus. It sits down and stares at you between long-tongued pants.\n\nYou release the shot. The arrow zips through the air and the dog yelps. It keels back on its hind legs and falls over, its feet kicking and scraping on the ground until it stops. You put the bow back into its holding and get the company back on the road.",
-    "translation": "[img]gfx/ui/events/event_27.png[/img]你张弓搭箭。 几个兄弟也随着你的视线望去。 风来了，去了，又来了。 你耐心地等着，然后拉弦，闭上一只眼睛对狗集中注意力。 狗得见如此，不由得停下身来，边剧烈喘息边看着你。\n\n你放开，射了出去。 羽箭呼啸而去，狗尖叫一声。 它向后倒下，在地上抽搐不停，直到停下来。 你收弓还袋，让战队继续赶路。",
+    "translation": "[img]gfx/ui/events/event_27.png[/img]你取弓搭箭。几个兄弟也看着你瞄准。风时起时息，你耐心地等待着机会，然后拉弦，闭上一只眼睛瞄准那只狗。而那只狗则大口喘息，坐着那边盯着你。\n\n你松开弓弦，羽箭呼啸而去。只见那狗惨叫一声，后腿一晃，摔倒在地上。它挣扎着用腿在地上踢来踢去，直到失去了生命。你收好弓箭，让战队继续赶路。",
     "stage": 1
   },
   {
     "ID": 293412518,
     "key": "Better to put it down now before it steals any of our supplies later.",
     "original": "Better to put it down now before it steals any of our supplies later.",
-    "translation": "最好立刻甩掉它，免得它以后偷走我们的补给。",
+    "translation": "最好现在就放倒它，以免它以后来偷我们的补给。",
     "stage": 1
   },
   {
@@ -32,7 +32,7 @@
     "ID": 293412520,
     "key": "[img]gfx/ui/events/event_75.png[/img]You take a bow and nock an arrow. A few of the brothers watch as you take aim. The shot goes wide, but the dog gets the message and quickly scampers off.",
     "original": "[img]gfx/ui/events/event_75.png[/img]You take a bow and nock an arrow. A few of the brothers watch as you take aim. The shot goes wide, but the dog gets the message and quickly scampers off.",
-    "translation": "[img]gfx/ui/events/event_75.png[/img]你张弓搭箭。 几个兄弟也随着你的视线望去。 虽然没有射中，但狗识趣地跑开了。",
+    "translation": "[img]gfx/ui/events/event_75.png[/img]你取弓搭箭。几个兄弟也看着你瞄准。虽然射空了，但狗识趣地跑开了。",
     "stage": 1
   },
   {

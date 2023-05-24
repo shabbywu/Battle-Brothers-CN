@@ -3,7 +3,7 @@
     "ID": 293413204,
     "key": "We wait for the goblins to attack first, then we charge!",
     "original": "We wait for the goblins to attack first, then we charge!",
-    "translation": "我们等着哥布林先进攻，然后再冲锋！",
+    "translation": "我们等着地精先进攻，然后再冲锋！",
     "stage": 1
   },
   {
@@ -31,7 +31,7 @@
     "ID": 293413208,
     "key": "[img]gfx/ui/events/event_48.png[/img]{You won't sacrifice these innocent people for tactical advantage! You order the men to attack now. The goblins immediately hear you come and turn face. In the distance, the peasants clear out, seeing the danger ahead.",
     "original": "[img]gfx/ui/events/event_48.png[/img]{You won't sacrifice these innocent people for tactical advantage! You order the men to attack now. The goblins immediately hear you come and turn face. In the distance, the peasants clear out, seeing the danger ahead. It appears you've saved them, but now you'll have to face the goblins in whole!}",
-    "translation": "[img]gfx/ui/events/event_48.png[/img]{你不会为了战术上的优势而牺牲这些无辜的人！ 你命令士兵现在就进攻。 哥布林一听到声音就转过身来。 在远处，农民们看到前方的危险，纷纷撤离。 看来你已经救了他们，但现在你必须面对整个哥布林军团！}",
+    "translation": "[img]gfx/ui/events/event_48.png[/img]{你不会为了战术上的优势而牺牲这些无辜的人！ 你命令士兵现在就进攻。 地精一听到声音就转过身来。 在远处，农民们看到前方的危险，纷纷撤离。 看来你已经救了他们，但现在你必须面对整个地精军团！}",
     "stage": 1
   },
   {
@@ -46,7 +46,7 @@
     "ID": 293413210,
     "key": "[img]gfx/ui/events/event_60.png[/img]{You order the men to wait for the right moment.\n\n When the peasants march further down the road, the goblins waylaid them with a volley of poison arrows. The arguing men go down, arrows stuck in their chests, muscles ",
     "original": "[img]gfx/ui/events/event_60.png[/img]{You order the men to wait for the right moment.\n\n When the peasants march further down the road, the goblins waylaid them with a volley of poison arrows. The arguing men go down, arrows stuck in their chests, muscles stiffening, faces drawn taut as the poison courses through. A few other men grab the reins from their wives and steer the wagons around. Some stand guard, a bunch of pitchfork-carrying farmers for a  rearguard, but they don't last long in the face of the dishonorable gobbos. Seeing that the goblins are scattered in their attack, you order the %companyname% to begin its own ambush.}",
-    "translation": "[img]gfx/ui/events/event_60.png[/img]{你命令士兵们等待合适的时机。\n\n 当农民们沿着大路继续前进时，一群哥布林用一排毒箭拦截了他们。 争吵的人们倒下了，箭刺进他们的胸膛，他们肌肉僵硬、面部绷紧、身中剧毒。 其他几个男人从他们的妻子手中夺过缰绳，驾着载重货车打算逃跑。 一些拿着草叉的农夫占了出来，但是他们在哥布林们的突袭面前坚持不了多久。 看见哥布林们已经开始分散进攻，你命令 %companyname% 开始冲锋。}",
+    "translation": "[img]gfx/ui/events/event_60.png[/img]{你命令士兵们等待合适的时机。\n\n 当农民们沿着大路继续前进时，一群地精用一排毒箭拦截了他们。 争吵的人们倒下了，箭刺进他们的胸膛，他们肌肉僵硬、面部绷紧、身中剧毒。 其他几个男人从他们的妻子手中夺过缰绳，驾着载重货车打算逃跑。 一些拿着草叉的农夫占了出来，但是他们在地精们的突袭面前坚持不了多久。 看见地精们已经开始分散进攻，你命令 %companyname% 开始冲锋。}",
     "stage": 1
   },
   {
@@ -60,7 +60,7 @@
     "ID": 293413212,
     "key": "[img]gfx/ui/events/event_59.png[/img]{Cresting a small hill, you see a caravan of people along the road. They're trundling down the path with pots and pans clinking along the wagon sides, children swinging their legs off the edges, women at the front bidd",
     "original": "[img]gfx/ui/events/event_59.png[/img]{Cresting a small hill, you see a caravan of people along the road. They're trundling down the path with pots and pans clinking along the wagon sides, children swinging their legs off the edges, women at the front bidding the draught animals forward with sharp whippings. Men march together, looking at a map and arguing over it, gesticulating in different directions to show a difference in geographic opinion. And then, further up the road, beyond the travelers' eyes, are a few goblins laying in the grass. %randombrother% sees them, too, and comments.%SPEECH_ON%We'd best get down there now, sir, before there's a slaughter.%SPEECH_OFF%%randombrother2% shrugs.%SPEECH_ON%Or... we let the goblins make their move, then we swoop in and clean up the mess. Easier to fight them when they're tangled up, no?%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_59.png[/img]{在爬一座小山的时候，你看到一队人马正沿着路行进。 他们正沿着小路走着，载重货车边的锅碗瓢盆叮当作响，孩子们把腿从边缘上甩下来，前面的女人用鞭子命令牲口前进。 男人们一起走着，看着地图，争论着，朝不同的方向做着手势，表示不同的地理观点。 然后，在路上更远的地方，在这队人马的视线之外，有几个哥布林躺在草地上。%randombrother% 也看到他们了，建议。%SPEECH_ON%先生，我们最好现在就下去帮忙，免得发生屠杀。%SPEECH_OFF%%randombrother2% 耸了耸肩。%SPEECH_ON%或者…我们先让哥布林行动，然后我们再冲进去收拾残局。 在一团糟的情况下，我们的战术优势是很大的，不是吗？%SPEECH_OFF%}",
+    "translation": "[img]gfx/ui/events/event_59.png[/img]{在爬一座小山的时候，你看到一队人马正沿着路行进。 他们正沿着小路走着，载重货车边的锅碗瓢盆叮当作响，孩子们把腿从边缘上甩下来，前面的女人用鞭子命令牲口前进。 男人们一起走着，看着地图，争论着，朝不同的方向做着手势，表示不同的地理观点。 然后，在路上更远的地方，在这队人马的视线之外，有几个地精躺在草地上。%randombrother% 也看到他们了，建议。%SPEECH_ON%先生，我们最好现在就下去帮忙，免得发生屠杀。%SPEECH_OFF%%randombrother2% 耸了耸肩。%SPEECH_ON%或者…我们先让地精行动，然后我们再冲进去收拾残局。 在一团糟的情况下，我们的战术优势是很大的，不是吗？%SPEECH_OFF%}",
     "stage": 1
   },
   {
@@ -111,7 +111,7 @@
     "ID": 293413219,
     "key": "[img]gfx/ui/events/event_83.png[/img]{With the goblins taken care of, the peasants slowly bring their wagons back around. They look at the scene with plenty of awe. One shakes your hand.%SPEECH_ON%By all the old gods, everyone we meet shall hear the name ",
     "original": "[img]gfx/ui/events/event_83.png[/img]{With the goblins taken care of, the peasants slowly bring their wagons back around. They look at the scene with plenty of awe. One shakes your hand.%SPEECH_ON%By all the old gods, everyone we meet shall hear the name of the %companyname%!%SPEECH_OFF%A few others give you food, kisses, and plenty of thanks.}",
-    "translation": "[img]gfx/ui/events/event_83.png[/img]{哥布林们被解决干净后，农民们慢慢地把他们的载重货车拉回来。 他们敬畏的看着这个场景。 一个人与你握手。%SPEECH_ON%敬畏古老的神明，我们会把你们的善行告诉所有人的，%companyname%！%SPEECH_OFF%剩下的人则给了食物、亲吻还有很多感谢。}",
+    "translation": "[img]gfx/ui/events/event_83.png[/img]{地精们被解决干净后，农民们慢慢地把他们的载重货车拉回来。 他们敬畏的看着这个场景。 一个人与你握手。%SPEECH_ON%敬畏古老的神明，我们会把你们的善行告诉所有人的，%companyname%！%SPEECH_OFF%剩下的人则给了食物、亲吻还有很多感谢。}",
     "stage": 1
   },
   {

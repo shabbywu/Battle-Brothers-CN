@@ -258,7 +258,7 @@
     "ID": 293411646,
     "key": "Hejsager",
     "original": "Hejsager",
-    "translation": "Hejsager\" should be translated as \"海萨格(Hejsager)",
+    "translation": "海萨格(Hejsager)",
     "stage": 1
   },
   {

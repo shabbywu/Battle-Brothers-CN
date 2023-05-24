@@ -31,7 +31,7 @@
     "ID": 293418563,
     "key": "Tracks your study of orc and goblin anatomy",
     "original": "Tracks your study of orc and goblin anatomy",
-    "translation": "记录着战团对兽人与哥布林的研究成果",
+    "translation": "记录着战团对兽人与地精的研究成果",
     "stage": 1
   },
   {
@@ -110,7 +110,7 @@
     "ID": 293418574,
     "key": "Goblin",
     "original": "Goblin",
-    "translation": "哥布林",
+    "translation": "地精",
     "stage": 1
   },
   {

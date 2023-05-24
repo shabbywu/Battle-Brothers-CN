@@ -44,7 +44,7 @@
     "key": "Lone Wolf",
     "original": "Lone Wolf",
     "translation": "独狼",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Lone Wolf'"
   },
   {

@@ -330,7 +330,7 @@
     "ID": 293409578,
     "key": "Goblin Raiders",
     "original": "Goblin Raiders",
-    "translation": "哥布林突袭者(Goblin Raiders)",
+    "translation": "地精突袭者(Goblin Raiders)",
     "stage": 1
   },
   {
@@ -352,7 +352,7 @@
     "ID": 293409581,
     "key": "Goblin Scouts",
     "original": "Goblin Scouts",
-    "translation": "哥布林侦察兵(Goblin Scouts)",
+    "translation": "地精侦察兵(Goblin Scouts)",
     "stage": 1
   },
   {
@@ -394,7 +394,7 @@
     "ID": 293409587,
     "key": "A band of mischievous goblins, small but cunning and not to be underestimated.",
     "original": "A band of mischievous goblins, small but cunning and not to be underestimated.",
-    "translation": "一群淘气的哥布林，小而狡猾，不可低估。",
+    "translation": "一群淘气的地精，小而狡猾，不可低估。",
     "stage": 1
   },
   {

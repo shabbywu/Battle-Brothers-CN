@@ -11,15 +11,15 @@
     "ID": 293403290,
     "key": "Get to 'Friendly' relations with a civilian faction",
     "original": "Get to 'Friendly' relations with a civilian faction",
-    "translation": "与一个平民派系建立“友好”关系",
-    "stage": 1,
+    "translation": "与一个平民派系达到“友好”关系",
+    "stage": 5,
     "context": "this.m.UIText = \"Get to 'Friendly' relations with a civilian faction\""
   },
   {
     "ID": 293403291,
     "key": "This will help us.",
     "original": "This will help us.",
-    "translation": "这样有利于我们。",
+    "translation": "这对我们有利。",
     "stage": 1,
     "context": "this.m.SuccessButtonText = 'This will help us.'"
   },
@@ -28,7 +28,7 @@
     "key": "We need allies. Forging a bond of friendship and trust with one of the towns will\nget the company better prices, more volunteers and more steady work.",
     "original": "We need allies. Forging a bond of friendship and trust with one of the towns will\nget the company better prices, more volunteers and more steady work.",
     "translation": "我们需要盟友。与其中一个城镇建立友谊和信任的纽带将使战团获得更好的价格，更多的志愿者和更稳定的工作。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.ButtonText = 'We need allies. Forging a bond of friendship and trust with one of the towns will\nget the company better prices, more volunteers and more steady work.'"
   },
   {
@@ -36,15 +36,15 @@
     "key": "Having good relations will get you better prices and more men to hire.",
     "original": "Having good relations will get you better prices and more men to hire.",
     "translation": "有良好的关系会使你得到更好的价格和更多的人雇用。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.RewardTooltip = 'Having good relations will get you better prices and more men to hire.'"
   },
   {
     "ID": 293403294,
     "key": "Increase the relation with a civilian faction of one of the world's villages or towns to 'Friendly' by fulfilling contracts given in the faction's settlement. Failing contracts or betraying their trust will lower your relations. Increasing relations with ",
     "original": "Increase the relation with a civilian faction of one of the world's villages or towns to 'Friendly' by fulfilling contracts given in the faction's settlement. Failing contracts or betraying their trust will lower your relations. Increasing relations with city states takes longer than increasing relations with small villages. Noble houses do not count as civilian factions.",
-    "translation": "通过履行派系定居点中的合同，将世界上某个村庄或城镇的平民派系的关系提升为“友好”。 违反合同或背叛他们会降低你们的关系。 增加与城邦的关系比增加与小村庄的关系需要更长的时间。 贵族家族不算平民派系。",
-    "stage": 1,
+    "translation": "通过履行派系定居点中的合同，将世界上某个村庄或城镇的平民派系的关系提升为“友好”。违反合同或背叛他们会降低你们的关系。增加与城邦的关系比增加与小村庄的关系需要更长的时间。贵族家族不算平民派系。",
+    "stage": 5,
     "context": "this.m.TooltipText = \"Increase the relation with a civilian faction of one of the world's villages or towns to 'Friendly' by fulfilling contracts given in the faction's settlement. Failing contracts or betraying their trust will lower your relations. Increasing relations with city states takes longer than increasing relations with small villages. Noble houses do not count as civilian factions.\""
   }
 ]

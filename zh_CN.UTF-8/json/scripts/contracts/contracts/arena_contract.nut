@@ -159,7 +159,7 @@
     "ID": 293407787,
     "key": "Enter the arena again to start the fight against one Hedge Knight",
     "original": "Enter the arena again to start the fight against one Hedge Knight",
-    "translation": "再次进入竞技场，开始与一个刺客骑士的战斗。",
+    "translation": "再次进入竞技场，开始与一个雇佣骑士的战斗。",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against one Hedge Knight'"
   },
@@ -347,7 +347,7 @@
     "ID": 293407812,
     "key": "Enter the arena again to start the fight against one Hedge Knight and %amount% raiders",
     "original": "Enter the arena again to start the fight against one Hedge Knight and %amount% raiders",
-    "translation": "再次进入竞技场，将要对抗一位刺客和%amount%名袭击者。",
+    "translation": "再次进入竞技场，将要对抗一位雇佣骑士和%amount%名袭击者。",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against one Hedge Knight and %amount% raiders'"
   },
