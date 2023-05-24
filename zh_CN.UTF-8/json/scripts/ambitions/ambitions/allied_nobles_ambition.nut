@@ -19,8 +19,8 @@
     "ID": 293403297,
     "key": "Increase the relation with any noble house to 'Allied' by fulfilling contracts given by members of the faction. Failing contracts or betraying their trust will lower your relations.",
     "original": "Increase the relation with any noble house to 'Allied' by fulfilling contracts given by members of the faction. Failing contracts or betraying their trust will lower your relations.",
-    "translation": "通过履行合同增加任何贵族家族的关系成为“同盟关系”。 违反合同或背叛他们会降低你们的关系。",
-    "stage": 1,
+    "translation": "通过履行合同增加任何贵族家族的关系成为“同盟”。 违反合同或背叛他们会降低你们的关系。",
+    "stage": 5,
     "context": "this.m.TooltipText = \"Increase the relation with any noble house to 'Allied' by fulfilling contracts given by members of the faction. Failing contracts or betraying their trust will lower your relations.\""
   },
   {
@@ -28,7 +28,7 @@
     "key": "Get to 'Allied' relations with a noble house",
     "original": "Get to 'Allied' relations with a noble house",
     "translation": "与一个贵族家族达成“同盟”关系",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.UIText = \"Get to 'Allied' relations with a noble house\""
   },
   {
@@ -44,7 +44,7 @@
     "key": "You gain ",
     "original": "You gain ",
     "translation": "你获得了",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain ' + this.Const.Strings.getArticle(item.getName()) + item.getName()"
   }
 ]

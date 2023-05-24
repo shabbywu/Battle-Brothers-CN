@@ -48,7 +48,7 @@
     "ID": 293419606,
     "key": "Have a roster of ",
     "original": "Have a roster of ",
-    "translation": "有一个名单的",
+    "translation": "有一个花名册的",
     "stage": 1,
     "context": "this.m.Requirements.0.Text = 'Have a roster of ' + this.Math.min(16, this.World.getPlayerRoster().getSize()) + '/16 men'"
   }

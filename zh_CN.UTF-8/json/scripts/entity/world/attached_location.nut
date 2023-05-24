@@ -3,8 +3,8 @@
     "ID": 293410586,
     "key": "Once part of the nearby settlement, these are now burned down and abandoned ruins.",
     "original": "Once part of the nearby settlement, these are now burned down and abandoned ruins.",
-    "translation": "曾经是附近定居点的一部分，现在被烧毁并废弃了。",
-    "stage": 1,
+    "translation": "曾经是附近定居点的一部分，现在已被烧毁，成为被抛弃的废墟。",
+    "stage": 5,
     "context": "return 'Once part of the nearby settlement, these are now burned down and abandoned ruins.';"
   },
   {

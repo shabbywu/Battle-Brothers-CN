@@ -18,7 +18,7 @@
     "ID": 293417451,
     "key": "Goblin Trophy",
     "original": "Goblin Trophy",
-    "translation": "哥布林的雕饰",
+    "translation": "地精的雕饰",
     "stage": 1,
     "context": "this.m.Name = 'Goblin Trophy'"
   }

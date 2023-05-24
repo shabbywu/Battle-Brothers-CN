@@ -12,7 +12,7 @@
     "key": "Man and beast alike shall know our name.",
     "original": "Man and beast alike shall know our name.",
     "translation": "人类和野兽都应该听说我们的大名。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.SuccessButtonText = 'Man and beast alike shall know our name.'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "Defeat 5 packs of roving beasts in battle, such as Direwolves or Nachzehrers, whether as part of a contract or by seeking them out on your own.",
     "original": "Defeat 5 packs of roving beasts in battle, such as Direwolves or Nachzehrers, whether as part of a contract or by seeking them out on your own.",
     "translation": "在战斗中击败5群流浪野兽，如冰原狼或食尸鬼，无论是作为合同的一部分，还是通过自己寻找。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.TooltipText = 'Defeat 5 packs of roving beasts in battle, such as Direwolves or Nachzehrers, whether as part of a contract or by seeking them out on your own.'"
   }
 ]

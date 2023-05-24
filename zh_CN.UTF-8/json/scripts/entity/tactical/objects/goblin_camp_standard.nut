@@ -11,7 +11,7 @@
     "ID": 293410365,
     "key": "Goblin Standard",
     "original": "Goblin Standard",
-    "translation": "哥布林旗帜",
+    "translation": "地精旗帜",
     "stage": 1,
     "context": "return 'Goblin Standard';"
   }

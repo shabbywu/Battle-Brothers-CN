@@ -4,7 +4,7 @@
     "key": "Let us seek fame and fortune fighting before crowds that chant our names.\nWe'll draw blood in the arenas of the south!",
     "original": "Let us seek fame and fortune fighting before crowds that chant our names.\nWe'll draw blood in the arenas of the south!",
     "translation": "让我们在呼喊着我们名字的人群面前为名利而战。\n我们会在南方的竞技场上挥洒鲜血！",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.ButtonText = \"Let us seek fame and fortune fighting before crowds that chant our names.\nWe'll draw blood in the arenas of the south!\""
   },
   {
@@ -20,7 +20,7 @@
     "key": "I still hear them chanting our names!",
     "original": "I still hear them chanting our names!",
     "translation": "我还听到他们在喊我们的名字！",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.SuccessButtonText = 'I still hear them chanting our names!'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "Enter and win 5 fights in the arena of the southern city states.",
     "original": "Enter and win 5 fights in the arena of the southern city states.",
     "translation": "进入南方城邦的竞技场并赢得5场战斗。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.TooltipText = 'Enter and win 5 fights in the arena of the southern city states.'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "Win arena fights",
     "original": "Win arena fights",
     "translation": "赢得竞技场战斗",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.UIText = 'Win arena fights'"
   }
 ]

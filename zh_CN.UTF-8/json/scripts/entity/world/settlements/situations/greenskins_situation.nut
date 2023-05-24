@@ -18,7 +18,7 @@
     "ID": 293411752,
     "key": "Greenskins are terrorizing the surrounding lands, and many lives have been lost as orcs or goblins continue to raid outlying farms and raze caravans. Supplies are beginning to run low and people become desperate.",
     "original": "Greenskins are terrorizing the surrounding lands, and many lives have been lost as orcs or goblins continue to raid outlying farms and raze caravans. Supplies are beginning to run low and people become desperate.",
-    "translation": "绿皮正在恐吓周围的土地，很多人已经失去了生命，因为兽人或哥布林继续突袭边远的商队和夷为平地的农场。补给开始减少，人们变得绝望。",
+    "translation": "绿皮正在恐吓周围的土地，很多人已经失去了生命，因为兽人或地精继续突袭边远的商队和夷为平地的农场。补给开始减少，人们变得绝望。",
     "stage": 1,
     "context": "this.m.Description = 'Greenskins are terrorizing the surrounding lands, and many lives have been lost as orcs or goblins continue to raid outlying farms and raze caravans. Supplies are beginning to run low and people become desperate.'"
   },

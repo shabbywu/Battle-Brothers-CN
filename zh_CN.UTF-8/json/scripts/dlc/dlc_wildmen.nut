@@ -45,7 +45,7 @@
     "ID": 293410221,
     "key": "With the 'Lone Wolf' origin you'll have a player character in the world. If you die, the campaign ends.",
     "original": "With the 'Lone Wolf' origin you'll have a player character in the world. If you die, the campaign ends.",
-    "translation": "如果你选择“孤狼”起源，则你将拥有一个玩家角色。如果你死了，这个游戏就结束了。",
+    "translation": "如果你选择“独狼”起源，则你将拥有一个玩家角色。如果你死了，这个游戏就结束了。",
     "stage": 1
   },
   {

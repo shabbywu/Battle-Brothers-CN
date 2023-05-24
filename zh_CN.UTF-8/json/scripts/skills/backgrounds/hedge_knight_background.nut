@@ -3,15 +3,15 @@
     "ID": 293421000,
     "key": "the Lone Wolf",
     "original": "the Lone Wolf",
-    "translation": "独狼(the Lone Wolf)",
-    "stage": 1
+    "translation": "独狼",
+    "stage": 5
   },
   {
     "ID": 293421001,
     "key": "the Giant",
     "original": "the Giant",
     "translation": "巨人(the Giant)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293421002,
@@ -53,8 +53,8 @@
     "ID": 293421007,
     "key": "Hedge Knight",
     "original": "Hedge Knight",
-    "translation": "对冲骑士",
-    "stage": 1,
+    "translation": "雇佣骑士",
+    "stage": 5,
     "context": "this.m.Name = 'Hedge Knight'"
   },
   {
@@ -113,14 +113,14 @@
     "ID": 293421015,
     "key": "the Mountain",
     "original": "the Mountain",
-    "translation": "山(The Mountain)",
-    "stage": 1
+    "translation": "大山(The Mountain)",
+    "stage": 5
   },
   {
     "ID": 293421016,
     "key": "the Hedge Knight",
     "original": "the Hedge Knight",
-    "translation": "篱笆骑士 (the Hedge Knight)",
-    "stage": 1
+    "translation": "雇佣骑士 (the Hedge Knight)",
+    "stage": 5
   }
 ]

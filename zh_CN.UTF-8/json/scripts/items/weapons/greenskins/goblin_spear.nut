@@ -11,7 +11,7 @@
     "ID": 293419155,
     "key": "Goblin Skewer",
     "original": "Goblin Skewer",
-    "translation": "哥布林烤肉叉",
+    "translation": "地精烤肉叉",
     "stage": 1,
     "context": "this.m.Name = 'Goblin Skewer'"
   },

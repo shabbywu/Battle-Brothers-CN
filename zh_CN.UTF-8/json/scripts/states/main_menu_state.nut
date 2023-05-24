@@ -17,8 +17,8 @@
     "ID": 293422781,
     "key": "[p=c][img]gfx/ui/events/event_49.png[/img][/p]\n[p=c]ORC ORC ORC ORC ORC ORC. Difficult.[/p]",
     "original": "[p=c][img]gfx/ui/events/event_49.png[/img][/p]\n[p=c]ORC ORC ORC ORC ORC ORC. Difficult.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_49.png[/img][/p]\n[p=c]兽人 兽人 兽人 兽人 兽人 兽人。 困难的。[/p]",
-    "stage": 1
+    "translation": "[p=c][img]gfx/ui/events/event_49.png[/img][/p]\n[p=c]兽人 兽人 兽人 兽人 兽人 兽人。困难。[/p]",
+    "stage": 5
   },
   {
     "ID": 293422782,
@@ -32,20 +32,20 @@
     "key": "A Walk in the Woods",
     "original": "A Walk in the Woods",
     "translation": "林中漫步",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422784,
     "key": "[p=c][img]gfx/ui/events/event_127.png[/img][/p]\n[p=c]A possible late game encounter in enemy composition and equipment available. Difficult.[/p]",
     "original": "[p=c][img]gfx/ui/events/event_127.png[/img][/p]\n[p=c]A possible late game encounter in enemy composition and equipment available. Difficult.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_127.png[/img][/p]\n[p=c]可能在游戏后期遇到的敌人组成和装备配置。 困难的。[/p]",
-    "stage": 1
+    "translation": "[p=c][img]gfx/ui/events/event_127.png[/img][/p]\n[p=c]可能在游戏后期遇到的敌人组成和可用装备。困难。[/p]",
+    "stage": 5
   },
   {
     "ID": 293422785,
     "key": "[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]A possible early game encounter in enemy composition and equipment available. Moderate difficulty.[/p]",
     "original": "[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]A possible early game encounter in enemy composition and equipment available. Moderate difficulty.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]可能在游戏前期遇到的敌人组成和可用装备。 中等难度。[/p]",
+    "translation": "[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]可能在游戏前期遇到的敌人组成和可用装备。中等难度。[/p]",
     "stage": 5
   },
   {
@@ -59,8 +59,8 @@
     "ID": 293422787,
     "key": "Line Battle (Orcs)",
     "original": "Line Battle (Orcs)",
-    "translation": "战线（兽人）",
-    "stage": 1
+    "translation": "线列战（兽人）",
+    "stage": 5
   },
   {
     "ID": 293422788,
@@ -73,22 +73,22 @@
     "ID": 293422789,
     "key": "[p=c]An empty map for AI testing. Spawn combatants manually and let them fight it out.[/p]",
     "original": "[p=c]An empty map for AI testing. Spawn combatants manually and let them fight it out.[/p]",
-    "translation": "[p=c]用于AI测试的空地图。手动生成战斗人员，让他们战斗。[/p]",
-    "stage": 1
+    "translation": "[p=c]用于AI测试的空地图。手动生成战斗人员，让他们战斗到底。[/p]",
+    "stage": 5
   },
   {
     "ID": 293422790,
     "key": "Scenario Screen is not fully visible. Be patient!",
     "original": "Scenario Screen is not fully visible. Be patient!",
-    "translation": "剧情界面未完全显示，请耐心等待！",
-    "stage": 1
+    "translation": "场景界面未完全显示。要有耐心！",
+    "stage": 5
   },
   {
     "ID": 293422791,
     "key": "[p=c][img]gfx/ui/events/event_60.png[/img][/p]\n[p=c]Defend against a pack of vicious Goblin Wolfriders. Don't let them encircle you! Moderate difficulty.[/p]",
     "original": "[p=c][img]gfx/ui/events/event_60.png[/img][/p]\n[p=c]Defend against a pack of vicious Goblin Wolfriders. Don't let them encircle you! Moderate difficulty.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_60.png[/img][/p]\n[p=c]抵御一群凶猛的哥布林狼骑兵。 别让他们包围你！ 中等难度。[/p]",
-    "stage": 1
+    "translation": "[p=c][img]gfx/ui/events/event_60.png[/img][/p]\n[p=c]抵御一群恶毒的地精狼骑兵。别让他们包围你！中等难度。[/p]",
+    "stage": 5
   },
   {
     "ID": 293422792,
@@ -101,8 +101,8 @@
     "ID": 293422793,
     "key": "[p=c][img]gfx/ui/events/event_48.png[/img][/p]\n[p=c]Featuring two battle lines pitted against each other in close combat from the start. Difficult.[/p]",
     "original": "[p=c][img]gfx/ui/events/event_48.png[/img][/p]\n[p=c]Featuring two battle lines pitted against each other in close combat from the start. Difficult.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_48.png[/img][/p]\n[p=c]两条战斗线从一开始就处于紧密的交锋中。 困难的。[/p]",
-    "stage": 1
+    "translation": "[p=c][img]gfx/ui/events/event_48.png[/img][/p]\n[p=c]两条战线从一开始就处于紧密的交锋中。困难。[/p]",
+    "stage": 5
   },
   {
     "ID": 293422794,
@@ -122,8 +122,8 @@
     "ID": 293422796,
     "key": "Test",
     "original": "Test",
-    "translation": "测试(Test)",
-    "stage": 1
+    "translation": "测试",
+    "stage": 5
   },
   {
     "ID": 293422797,
@@ -137,20 +137,20 @@
     "key": "Wolfriders",
     "original": "Wolfriders",
     "translation": "狼骑兵",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422799,
     "key": "[p=c][img]gfx/ui/events/event_143.png[/img][/p]\n[p=c]Featuring two battle lines pitted against each other in close combat from the start. Difficult.[/p]",
     "original": "[p=c][img]gfx/ui/events/event_143.png[/img][/p]\n[p=c]Featuring two battle lines pitted against each other in close combat from the start. Difficult.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_143.png[/img][/p]\n[p=c]两条战斗线从一开始就处于紧密的交锋中。 困难的。[/p]",
-    "stage": 1
+    "translation": "[p=c][img]gfx/ui/events/event_143.png[/img][/p]\n[p=c]两条战线从一开始就处于紧密的交锋中。困难。[/p]",
+    "stage": 5
   },
   {
     "ID": 293422800,
     "key": "Load Campaign Screen is not fully visible. Be patient!",
     "original": "Load Campaign Screen is not fully visible. Be patient!",
-    "translation": "战役加载界面不完全可见，请耐心等待！",
-    "stage": 1
+    "translation": "载入战役界面未完全显示。要有耐心！",
+    "stage": 5
   }
 ]

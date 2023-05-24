@@ -11,7 +11,7 @@
     "ID": 293403335,
     "key": "If we can win this war for one of the noble houses, our name will be unmatched.\nLet us pick a side, bask in the glory of battle and get rich for it!",
     "original": "If we can win this war for one of the noble houses, our name will be unmatched.\nLet us pick a side, bask in the glory of battle and get rich for it!",
-    "translation": "如果我们能为一个贵族家族赢得这场战争，我们将名冠天下。\n让我们选择一方，沐浴在战斗的荣光里，并因此得到巨额的财富！",
+    "translation": "如果我们能为一个贵族家族赢得这场战争，我们将名冠天下。\n让我们选择一方，沐浴在战斗的荣光里，并因此发家致富吧！",
     "stage": 1,
     "context": "this.m.ButtonText = 'If we can win this war for one of the noble houses, our name will be unmatched.\nLet us pick a side, bask in the glory of battle and get rich for it!'"
   },
@@ -20,7 +20,7 @@
     "key": "End the war between noble houses",
     "original": "End the war between noble houses",
     "translation": "结束贵族家族之间的战争",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.UIText = 'End the war between noble houses'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "Whether they love or hate us, everyone knows the %companyname% now!",
     "original": "Whether they love or hate us, everyone knows the %companyname% now!",
     "translation": "不管他们是喜欢我们还是憎恨我们，但现在每个人都知道 %companyname%！",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.SuccessButtonText = 'Whether they love or hate us, everyone knows the %companyname% now!'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "Dragging On",
     "original": "Dragging On",
     "translation": "陷入胶着",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Dragging On'"
   },
   {
@@ -44,7 +44,7 @@
     "key": "Pick one of the noble houses and work with them to crush their enemies. Every army destroyed, and every contract fulfilled, will bring you closer to ending the war.",
     "original": "Pick one of the noble houses and work with them to crush their enemies. Every army destroyed, and every contract fulfilled, will bring you closer to ending the war.",
     "translation": "选择一个贵族家族，与他们合作粉碎他们的敌人。 每一支被摧毁的军队，每一份合同的履行，都将使你离结束战争更近。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.TooltipText = 'Pick one of the noble houses and work with them to crush their enemies. Every army destroyed, and every contract fulfilled, will bring you closer to ending the war.'"
   },
   {
@@ -52,7 +52,7 @@
     "key": "Raging",
     "original": "Raging",
     "translation": "战况激烈",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Raging'"
   },
   {
@@ -60,7 +60,7 @@
     "key": "Just started",
     "original": "Just started",
     "translation": "战争初始",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Just started'"
   },
   {
@@ -68,7 +68,7 @@
     "key": "Almost Over",
     "original": "Almost Over",
     "translation": "接近尾声",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Almost Over'"
   }
 ]

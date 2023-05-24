@@ -3,8 +3,8 @@
     "ID": 293422499,
     "key": "the Ox",
     "original": "the Ox",
-    "translation": "牛(the Ox)",
-    "stage": 1
+    "translation": "壮牛(the Ox)",
+    "stage": 5
   },
   {
     "ID": 293422500,
@@ -48,8 +48,8 @@
     "ID": 293422505,
     "key": "the Mountain",
     "original": "the Mountain",
-    "translation": "山(The Mountain)",
-    "stage": 1
+    "translation": "大山(The Mountain)",
+    "stage": 5
   },
   {
     "ID": 293422506,

@@ -1668,8 +1668,8 @@
     "ID": 293405871,
     "key": "Hedge Knight",
     "original": "Hedge Knight",
-    "translation": "对冲骑士",
-    "stage": 1
+    "translation": "雇佣骑士",
+    "stage": 5
   },
   {
     "ID": 293405872,
@@ -5466,8 +5466,8 @@
     "ID": 293406407,
     "key": "Hedge Knights",
     "original": "Hedge Knights",
-    "translation": "篱笆骑士",
-    "stage": 1
+    "translation": "雇佣骑士",
+    "stage": 5
   },
   {
     "ID": 293406408,

@@ -3,8 +3,8 @@
     "ID": 293422765,
     "key": "the Ox",
     "original": "the Ox",
-    "translation": "牛(the Ox)",
-    "stage": 1
+    "translation": "壮牛(the Ox)",
+    "stage": 5
   },
   {
     "ID": 293422766,
@@ -25,8 +25,8 @@
     "ID": 293422768,
     "key": "the Bull",
     "original": "the Bull",
-    "translation": "牛头人(the Bull)",
-    "stage": 1
+    "translation": "公牛(the Bull)",
+    "stage": 5
   },
   {
     "ID": 293422769,
@@ -40,8 +40,8 @@
     "ID": 293422770,
     "key": "the Bear",
     "original": "the Bear",
-    "translation": "熊(the Bear)",
-    "stage": 1
+    "translation": "大熊(the Bear)",
+    "stage": 5
   },
   {
     "ID": 293422771,

@@ -11,16 +11,16 @@
     "ID": 293403325,
     "key": "We're making a name for ourselves.",
     "original": "We're making a name for ourselves.",
-    "translation": "我们正在为自己扬名。",
-    "stage": 1,
+    "translation": "我们正在为自己打响名号。",
+    "stage": 5,
     "context": "this.m.SuccessButtonText = \"We're making a name for ourselves.\""
   },
   {
     "ID": 293403326,
     "key": "We need to establish ourselves as mercenaries that can be relied on.\nLet us be tested over and over to prove it without doubt!",
     "original": "We need to establish ourselves as mercenaries that can be relied on.\nLet us be tested over and over to prove it without doubt!",
-    "translation": "我们需要把自己打造成可以依靠的雇佣兵。\n让我们一次又一次地接受考验，毫无疑问地证明这一点！",
-    "stage": 1,
+    "translation": "我们需要把自己打造成可信赖的雇佣兵团。\n让我们一次又一次地接受考验，毫无疑问地证明这一点！",
+    "stage": 5,
     "context": "this.m.ButtonText = 'We need to establish ourselves as mercenaries that can be relied on.\nLet us be tested over and over to prove it without doubt!'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "Complete 8 more contracts of any kind to prove yourselves reliable beyond doubt.",
     "original": "Complete 8 more contracts of any kind to prove yourselves reliable beyond doubt.",
     "translation": "再完成8份任何形式的合同，以证明自己毫无疑问是可靠的。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.TooltipText = 'Complete 8 more contracts of any kind to prove yourselves reliable beyond doubt.'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "Complete more contracts",
     "original": "Complete more contracts",
     "translation": "完成更多合同",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.UIText = 'Complete more contracts'"
   }
 ]

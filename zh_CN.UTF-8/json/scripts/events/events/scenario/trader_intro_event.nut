@@ -39,7 +39,7 @@
     "ID": 293416765,
     "key": "[img]gfx/ui/events/event_95.png[/img]The corpses are abuzz with flies and %ch1% stands amidst the swarm like he built the deathly totem which brought their presence. He turns to you.%SPEECH_ON%Greenskins did this one. No man can hew a head in half like th",
     "original": "[img]gfx/ui/events/event_95.png[/img]The corpses are abuzz with flies and %ch1% stands amidst the swarm like he built the deathly totem which brought their presence. He turns to you.%SPEECH_ON%Greenskins did this one. No man can hew a head in half like that, and no sane man would stack them in such a manner. And there's goblin poison on them arrow tips.%SPEECH_OFF% %ch2% nods.%SPEECH_ON%Yesterday we find that merchant hanged by brigands, now this. The roads are getting too dangerous for a wagon carrying shine. Now, I ain't saying my swordhand ain't worth its weight in salt, but with just the two of us on duty we're throwing dice by the hour. Sir, you should look into hiring more guard.%SPEECH_OFF%",
-    "translation": "[img]gfx/ui/events/event_95.png[/img]尸体堆上的苍蝇嗡嗡作响 %ch1% 站在尸体堆上就像他建造了这个死亡图腾并使得他们显现一样。他转向你。%SPEECH_ON%是绿皮干的。 没有人类能把一个人的头像这样劈成两半，并且任何有点理智的人都不会像这样子把尸体堆起来。 并且在箭头上还发现了哥布林毒药。%SPEECH_OFF% %ch2% 点了点头。%SPEECH_ON%昨天我们还发现了一队商队的人被强盗吊死在了路边树上，现在又是这些兽人。 现在这些道路对于载着财宝的载重货车来说过于危险了。 现在我不是在说这堆盐不值得我这双握剑的手而是整个商队就我们两个护卫，就像是在和命运玩骰子游戏一样。 先生，我认为你应该雇佣更多的人手。%SPEECH_OFF%",
+    "translation": "[img]gfx/ui/events/event_95.png[/img]尸体堆上的苍蝇嗡嗡作响 %ch1% 站在尸体堆上就像他建造了这个死亡图腾并使得他们显现一样。他转向你。%SPEECH_ON%是绿皮干的。 没有人类能把一个人的头像这样劈成两半，并且任何有点理智的人都不会像这样子把尸体堆起来。 并且在箭头上还发现了地精毒药。%SPEECH_OFF% %ch2% 点了点头。%SPEECH_ON%昨天我们还发现了一队商队的人被强盗吊死在了路边树上，现在又是这些兽人。 现在这些道路对于载着财宝的载重货车来说过于危险了。 现在我不是在说这堆盐不值得我这双握剑的手而是整个商队就我们两个护卫，就像是在和命运玩骰子游戏一样。 先生，我认为你应该雇佣更多的人手。%SPEECH_OFF%",
     "stage": 1
   },
   {

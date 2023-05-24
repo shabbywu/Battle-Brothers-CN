@@ -54,7 +54,7 @@
     "ID": 293420934,
     "key": "You heard %name% the deserter actually renewed his title and fled a battle the %companyname% had with some greenskins. Goblins caught him out in the woods and turned his head into a goblet for an orc warlord.",
     "original": "You heard %name% the deserter actually renewed his title and fled a battle the %companyname% had with some greenskins. Goblins caught him out in the woods and turned his head into a goblet for an orc warlord.",
-    "translation": "你听说了 %name% 这个叛逃者其实在和一些绿皮兽的战斗中更新了他的称号并逃跑了。哥布林在森林中抓住了他，并将他的头骨制成了兽人酋长的酒杯。(战团：%companyname%)",
+    "translation": "你听说了 %name% 这个叛逃者其实在和一些绿皮兽的战斗中更新了他的称号并逃跑了。地精在森林中抓住了他，并将他的头骨制成了兽人酋长的酒杯。(战团：%companyname%)",
     "stage": 1,
     "context": "this.m.BadEnding = 'You heard %name% the deserter actually renewed his title and fled a battle the %companyname% had with some greenskins. Goblins caught him out in the woods and turned his head into a goblet for an orc warlord.'"
   },

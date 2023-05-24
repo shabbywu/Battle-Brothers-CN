@@ -249,8 +249,8 @@
     "ID": 293412485,
     "key": "A humble village that managed to survive in the sparse tundra",
     "original": "A humble village that managed to survive in the sparse tundra",
-    "translation": "在稀疏的苔原中生存下来的简陋村庄",
-    "stage": 1,
+    "translation": "在稀疏的苔原上生存下来的简陋村庄",
+    "stage": 5,
     "context": "this.m.UIDescription = 'A humble village that managed to survive in the sparse tundra'"
   },
   {
@@ -271,15 +271,15 @@
     "ID": 293412488,
     "key": "Hejsager",
     "original": "Hejsager",
-    "translation": "Hejsager\" should be translated as \"海萨格(Hejsager)",
+    "translation": "海萨格(Hejsager)",
     "stage": 1
   },
   {
     "ID": 293412489,
     "key": "A humble village that managed to survive in the sparse tundra.",
     "original": "A humble village that managed to survive in the sparse tundra.",
-    "translation": "在稀疏的苔原中生存下来的简陋村庄.",
-    "stage": 1,
+    "translation": "在稀疏的苔原上生存下来的简陋村庄。",
+    "stage": 5,
     "context": "this.m.Description = 'A humble village that managed to survive in the sparse tundra.'"
   },
   {

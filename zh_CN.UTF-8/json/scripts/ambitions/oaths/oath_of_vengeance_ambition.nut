@@ -11,7 +11,7 @@
     "ID": 293403714,
     "key": "]+5[/color] Melee and Ranged Defense when fighting orcs or goblins.",
     "original": "]+5[/color] Melee and Ranged Defense when fighting orcs or goblins.",
-    "translation": "]+5[/color] 近战和远程防御(与兽人和哥布林时)",
+    "translation": "]+5[/color] 近战和远程防御(与兽人和地精时)",
     "stage": 1,
     "context": "this.m.OathBoonText = 'Your men have [color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Resolve, [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Melee and Ranged Skill, and [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee and Ranged Defense when fighting orcs or goblins.'"
   },

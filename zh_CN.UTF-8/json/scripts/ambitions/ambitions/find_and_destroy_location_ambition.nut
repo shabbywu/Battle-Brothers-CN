@@ -11,7 +11,7 @@
     "ID": 293403418,
     "key": "Let us set out into the wilderness, discover the unknown, and plunder it.\nBe it a wizard's tomb, goblin camp, or aught else we may find.",
     "original": "Let us set out into the wilderness, discover the unknown, and plunder it.\nBe it a wizard's tomb, goblin camp, or aught else we may find.",
-    "translation": "让我们踏上荒野，探索未知，并抢掠它。\n无论是巫师的坟墓，哥布林营地，或者我们能找到的任何东西。",
+    "translation": "让我们踏上荒野，探索未知，并抢掠它。\n无论是巫师的坟墓，地精营地，或者我们能找到的任何东西。",
     "stage": 1,
     "context": "this.m.ButtonText = \"Let us set out into the wilderness, discover the unknown, and plunder it.\nBe it a wizard's tomb, goblin camp, or aught else we may find.\""
   },
