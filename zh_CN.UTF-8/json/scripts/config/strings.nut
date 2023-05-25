@@ -5374,7 +5374,7 @@
     "key": "Allied",
     "original": "Allied",
     "translation": "盟友",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406395,
@@ -7511,8 +7511,8 @@
     "ID": 293406694,
     "key": "Armsberg",
     "original": "Armsberg",
-    "translation": "阿姆斯贝格(Armsberg)",
-    "stage": 1
+    "translation": "阿姆斯丘(Armsberg)",
+    "stage": 5
   },
   {
     "ID": 293406695,

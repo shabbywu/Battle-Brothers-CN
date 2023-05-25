@@ -75,8 +75,8 @@
     "ID": 293420347,
     "key": "]-10%[/color] chance to hit",
     "original": "]-10%[/color] chance to hit",
-    "translation": "]-10%[/color] 命中几率",
-    "stage": 1,
+    "translation": "]-10%[/color]命中几率",
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] chance to hit'"
   },
   {

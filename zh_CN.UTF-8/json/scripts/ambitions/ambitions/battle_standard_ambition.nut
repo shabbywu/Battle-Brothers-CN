@@ -67,7 +67,7 @@
     "ID": 293403314,
     "key": "Gather the amount of 2,000 crowns or more, so that you can afford to have a battle standard made for the company. You can make money by completing contracts, looting camps and ruins, or trading. You'll also need space enough in your inventory for a new it",
     "original": "Gather the amount of 2,000 crowns or more, so that you can afford to have a battle standard made for the company. You can make money by completing contracts, looting camps and ruins, or trading. You'll also need space enough in your inventory for a new item.",
-    "translation": "收集2000或更多的克朗，这样就能为战队打造一面旗帜。 你可以通过完成合同、掠夺营地和废墟或贸易来赚钱。 当然，你还需要在仓库中留出足够的空间来存放一个新物品。",
+    "translation": "收集2000或更多的克朗，这样就能为战团打造一面旗帜。 你可以通过完成合同、掠夺营地和废墟或贸易来赚钱。 当然，你还需要在仓库中留出足够的空间来存放一个新物品。",
     "stage": 5,
     "context": "this.m.TooltipText = \"Gather the amount of 2,000 crowns or more, so that you can afford to have a battle standard made for the company. You can make money by completing contracts, looting camps and ruins, or trading. You'll also need space enough in your inventory for a new item.\""
   }

@@ -116,8 +116,8 @@
     "ID": 293412204,
     "key": "Schanzberg",
     "original": "Schanzberg",
-    "translation": "尚茨贝格(Schanzberg)",
-    "stage": 1
+    "translation": "尚茨丘(Schanzberg)",
+    "stage": 5
   },
   {
     "ID": 293412205,
@@ -144,8 +144,8 @@
     "ID": 293412208,
     "key": "Steinberg",
     "original": "Steinberg",
-    "translation": "斯坦伯格(Steinberg)",
-    "stage": 1
+    "translation": "斯坦丘(Steinberg)",
+    "stage": 5
   },
   {
     "ID": 293412209,
