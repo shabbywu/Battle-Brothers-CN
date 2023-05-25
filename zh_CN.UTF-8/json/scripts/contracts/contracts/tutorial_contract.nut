@@ -10,8 +10,8 @@
     "ID": 293410048,
     "key": "[img]gfx/ui/events/event_21.png[/img]It all went wrong. Two days ago the company was hired to track down %boss% and his band of raiders, but it was them who found you first. An ambush. Some joke about horses, cut short by an arrow to the throat. Arrows sh",
     "original": "[img]gfx/ui/events/event_21.png[/img]It all went wrong. Two days ago the company was hired to track down %boss% and his band of raiders, but it was them who found you first. An ambush. Some joke about horses, cut short by an arrow to the throat. Arrows shooting in from everywhere and nowhere. Men holler and scream, a great volume before death.\n\nAs the hail subsides you draw your weapon with the rest of the men, only to collapse to your knees. An arrow has punctured your side. You shout in pain. A harried glance sees the men charge without you to make a valiant last stand, met in force as steel clashes with steel.\n\nYou meet eyes with the captain, a last nod before his throat is cut. You're left in command now of what few men remain. Trembling in pain you lean on your sword and with all the will you can muster slowly rise again...",
-    "translation": "[img]gfx/ui/events/event_21.png[/img]一切都错了。 两天前，战队被雇来追查 %boss% 和他的掠夺团队，但最先找到你的是他们。 这是一场埋伏。一些关于马的笑话，被一只穿喉箭给打断了。 到处都有箭射进来。 人们死前的呼喊尖叫。\n\n当箭雨平息时，你和残存的人拔出了武器，却只能跪倒在地上。 一支箭刺穿了你的身体。 你痛得大叫。 匆匆一瞥，只见人们不等你就英勇冲上去做最后一搏，就像钢铁与钢铁那样激烈碰撞。\n\n你和队长对视了一眼，当他的喉咙被割断之前向你点了一下头。 剩下的人不多了，现在就由你来指挥。 你在痛苦中颤抖着倚靠在你的剑上，用你所能鼓起的所有意志慢慢地重新站起来…",
-    "stage": 1
+    "translation": "[img]gfx/ui/events/event_21.png[/img]一切都出错了。两天前，战团被雇来追查%boss%和他的掠夺者团队，但最先找到你的是他们。这是一场伏击。有人开了一个有关马的玩笑，却因为一支箭射入喉咙而戛然而止。箭矢无所不在，从各个方向射来。人们呼喊和尖叫着，在死亡之前发出巨大的声响。\n\n当箭雨减缓时，你和残存的人拔出武器，但你突然跪倒在地。一支箭射入了你的身体。你在痛苦中大叫。匆匆一瞥，只见人们不等你就英勇冲上去做最后一搏，钢铁与钢铁激烈碰撞。\n\n你与队长对视一眼，他在喉咙被割开前最后点了一次头。现在，你指挥着残余的几人。你在痛苦中颤抖着倚靠在你的剑上，用你所能鼓起的一切意志慢慢地重新站起来……",
+    "stage": 5
   },
   {
     "ID": 293410049,
@@ -39,7 +39,7 @@
     "key": "Tutorial1",
     "original": "Tutorial1",
     "translation": "Tutorial1",
-    "stage": 1,
+    "stage": 9,
     "context": "_combatID == 'Tutorial1'"
   },
   {
@@ -74,22 +74,22 @@
     "ID": 293410057,
     "key": "Captain Bernhard",
     "original": "Captain Bernhard",
-    "translation": "[队长]伯恩哈德(Captain Bernhard)",
-    "stage": 1
+    "translation": "伯恩哈德队长(Captain Bernhard)",
+    "stage": 5
   },
   {
     "ID": 293410058,
     "key": "One-Eye",
     "original": "One-Eye",
     "translation": "一只眼",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293410059,
     "key": "To the end!",
     "original": "To the end!",
     "translation": "坚持到底！",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293410060,
@@ -326,7 +326,7 @@
     "key": "The Last Battle",
     "original": "The Last Battle",
     "translation": "最后一战",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293410093,

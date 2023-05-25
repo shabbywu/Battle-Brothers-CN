@@ -114,8 +114,8 @@
     "ID": 293410246,
     "key": " has retreated from battle",
     "original": " has retreated from battle",
-    "translation": " 已经退出战斗",
-    "stage": 1,
+    "translation": "已经退出了战斗",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(this) + ' has retreated from battle'"
   },
   {
@@ -223,8 +223,8 @@
     "ID": 293410260,
     "key": " has killed ",
     "original": " has killed ",
-    "translation": " 杀死 ",
-    "stage": 1,
+    "translation": "杀死了",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_killer) + ' has killed ' + this.Const.UI.getColorizedEntityName(this)"
   },
   {

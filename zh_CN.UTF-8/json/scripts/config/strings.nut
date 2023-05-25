@@ -2930,8 +2930,8 @@
     "ID": 293406049,
     "key": "Falkenberg's Legion",
     "original": "Falkenberg's Legion",
-    "translation": "法尔肯伯格的军团(Falkenberg's Legion)",
-    "stage": 1
+    "translation": "鹰丘军团(Falkenberg's Legion)",
+    "stage": 5
   },
   {
     "ID": 293406050,
@@ -3353,7 +3353,7 @@
     "key": "Brigand Thug",
     "original": "Brigand Thug",
     "translation": "强盗暴徒",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406110,
@@ -4604,7 +4604,7 @@
     "key": "Brigand Thugs",
     "original": "Brigand Thugs",
     "translation": "强盗暴徒",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406286,

@@ -19,7 +19,7 @@
     "key": " (Chance: ",
     "original": " (Chance: ",
     "translation": "(几率:",
-    "stage": 1,
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses ' + this.getName() + ' and misses ' + this.Const.UI.getColorizedEntityName(_targetEntity) + ' (Chance: ' + this.Math.min(95, this.Math.max(5, toHit)) + ', Rolled: ' + rolled + ')'"
   },
   {
@@ -41,7 +41,7 @@
     "key": " uses ",
     "original": " uses ",
     "translation": "使用",
-    "stage": 1,
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses ' + this.getName() + ' and the shot goes astray and misses ' + this.Const.UI.getColorizedEntityName(_targetEntity) + ' (Chance: ' + this.Math.min(95, this.Math.max(5, toHit)) + ', Rolled: ' + rolled + ')'"
   },
   {
@@ -55,16 +55,16 @@
     "ID": 293422177,
     "key": ", Rolled: ",
     "original": ", Rolled: ",
-    "translation": ", 掷出： ",
-    "stage": 1,
+    "translation": ", 掷出:",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses ' + this.getName() + ' and the shot goes astray and hits ' + this.Const.UI.getColorizedEntityName(_targetEntity) + ' (Chance: ' + this.Math.min(95, this.Math.max(5, toHit)) + ', Rolled: ' + rolled + ')'"
   },
   {
     "ID": 293422178,
     "key": " and hits ",
     "original": " and hits ",
-    "translation": "并击中",
-    "stage": 1,
+    "translation": "并命中",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses ' + this.getName() + ' and hits ' + this.Const.UI.getColorizedEntityName(_targetEntity)"
   },
   {
@@ -135,7 +135,7 @@
     "key": "instance",
     "original": "instance",
     "translation": "instance",
-    "stage": 1,
+    "stage": 9,
     "context": "typeof _info.User == 'instance' && _info.User.isNull() || !_info.User.isAlive() || _info.User.isDying()"
   },
   {
@@ -164,8 +164,8 @@
     "ID": 293422191,
     "key": " and misses ",
     "original": " and misses ",
-    "translation": "并且未命中。",
-    "stage": 1,
+    "translation": "但没命中",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses ' + this.getName() + ' and misses ' + this.Const.UI.getColorizedEntityName(_targetEntity) + ' (Chance: ' + this.Math.min(95, this.Math.max(5, toHit)) + ', Rolled: ' + rolled + ')'"
   },
   {

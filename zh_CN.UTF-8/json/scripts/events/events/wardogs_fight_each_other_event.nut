@@ -103,7 +103,7 @@
     "ID": 293417209,
     "key": "%houndmaster%, you are a houndmaster, handle this!",
     "original": "%houndmaster%, you are a houndmaster, handle this!",
-    "translation": "%houndmaster% 你是驯兽师，把它处理好了！",
+    "translation": "%houndmaster% 你是训犬师，把它处理好了！",
     "stage": 1
   },
   {

@@ -154,8 +154,8 @@
     "ID": 293410463,
     "key": " has retreated from battle",
     "original": " has retreated from battle",
-    "translation": " 已经退出战斗",
-    "stage": 1,
+    "translation": "已经退出了战斗",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(this) + ' has retreated from battle'"
   },
   {

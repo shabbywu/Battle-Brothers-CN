@@ -563,8 +563,8 @@
     "ID": 293406937,
     "key": "Trees can be hidden in combat using the 'T' key.",
     "original": "Trees can be hidden in combat using the 'T' key.",
-    "translation": "战斗中可以使用“T”键可以在隐藏树木。",
-    "stage": 1
+    "translation": "树木可以在战斗中使用“T”键隐藏。",
+    "stage": 5
   },
   {
     "ID": 293406938,
