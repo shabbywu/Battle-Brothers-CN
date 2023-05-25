@@ -18,7 +18,7 @@
     "key": "To the end!",
     "original": "To the end!",
     "translation": "坚持到底！",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293413889,
