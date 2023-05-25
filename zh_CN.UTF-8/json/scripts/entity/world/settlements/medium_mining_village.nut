@@ -151,15 +151,15 @@
     "ID": 293411336,
     "key": "Eisenberg",
     "original": "Eisenberg",
-    "translation": "艾森贝格(Eisenberg)",
-    "stage": 1
+    "translation": "铁矿丘(Eisenberg)",
+    "stage": 5
   },
   {
     "ID": 293411337,
     "key": "Havelberg",
     "original": "Havelberg",
-    "translation": "哈弗尔贝格(Havelberg)",
-    "stage": 1
+    "translation": "哈弗尔丘(Havelberg)",
+    "stage": 5
   },
   {
     "ID": 293411338,
@@ -230,7 +230,7 @@
     "ID": 293411347,
     "key": "Erzberg",
     "original": "Erzberg",
-    "translation": "艾扎贝格(Erzberg)",
-    "stage": 1
+    "translation": "矿丘(Erzberg)",
+    "stage": 5
   }
 ]

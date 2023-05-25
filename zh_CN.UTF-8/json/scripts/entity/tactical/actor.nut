@@ -10,8 +10,8 @@
     "ID": 293410233,
     "key": "Acts in ",
     "original": "Acts in ",
-    "translation": "行动于：",
-    "stage": 1,
+    "translation": "行动于",
+    "stage": 5,
     "context": "'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
   },
   {
@@ -74,8 +74,8 @@
     "ID": 293410241,
     "key": " turns",
     "original": " turns",
-    "translation": "回合。",
-    "stage": 1,
+    "translation": "回合后",
+    "stage": 5,
     "context": "'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
   },
   {
@@ -154,14 +154,14 @@
     "key": "Acting right now!",
     "original": "Acting right now!",
     "translation": "现在行动！",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293410252,
     "key": "Turn done",
     "original": "Turn done",
     "translation": "回合结束",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293410253,
@@ -239,8 +239,8 @@
     "ID": 293410262,
     "key": " turn",
     "original": " turn",
-    "translation": "回合",
-    "stage": 1,
+    "translation": "回合后",
+    "stage": 5,
     "context": "'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
   }
 ]

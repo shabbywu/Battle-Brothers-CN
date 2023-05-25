@@ -108,7 +108,7 @@
     "ID": 293410905,
     "key": "Wildbergfeste",
     "original": "Wildbergfeste",
-    "translation": "威尔德贝格要塞(Wildbergfeste)",
+    "translation": "野丘要塞(Wildbergfeste)",
     "stage": 1
   },
   {

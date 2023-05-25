@@ -116,8 +116,8 @@
     "ID": 293412058,
     "key": "Sandberg",
     "original": "Sandberg",
-    "translation": "桑德伯格(Sandberg)",
-    "stage": 1
+    "translation": "沙丘(Sandberg)",
+    "stage": 5
   },
   {
     "ID": 293412059,

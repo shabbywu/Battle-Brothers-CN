@@ -35,8 +35,8 @@
     "ID": 293419673,
     "key": "Joined a mercenary company",
     "original": "Joined a mercenary company",
-    "translation": "加入一个佣兵战队",
-    "stage": 1
+    "translation": "加入了一个雇佣兵战团",
+    "stage": 5
   },
   {
     "ID": 293419674,

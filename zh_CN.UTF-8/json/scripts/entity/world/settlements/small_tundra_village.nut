@@ -257,8 +257,8 @@
     "ID": 293412486,
     "key": "Lonneberg",
     "original": "Lonneberg",
-    "translation": "隆内贝里(Lonneberg)",
-    "stage": 1
+    "translation": "隆内丘(Lonneberg)",
+    "stage": 5
   },
   {
     "ID": 293412487,

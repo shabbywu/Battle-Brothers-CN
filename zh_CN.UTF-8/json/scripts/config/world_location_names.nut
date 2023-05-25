@@ -808,8 +808,8 @@
     "ID": 293407098,
     "key": "Schoenberg",
     "original": "Schoenberg",
-    "translation": "舍恩伯格",
-    "stage": 1
+    "translation": "美丽之丘",
+    "stage": 5
   },
   {
     "ID": 293407099,
@@ -1676,8 +1676,8 @@
     "ID": 293407222,
     "key": "Sonneberg",
     "original": "Sonneberg",
-    "translation": "索尼伯格",
-    "stage": 1
+    "translation": "阳光丘",
+    "stage": 5
   },
   {
     "ID": 293407223,
@@ -3888,8 +3888,8 @@
     "ID": 293407538,
     "key": "Rietberg",
     "original": "Rietberg",
-    "translation": "瑞彻伯格",
-    "stage": 1
+    "translation": "芦苇丘",
+    "stage": 5
   },
   {
     "ID": 293407539,

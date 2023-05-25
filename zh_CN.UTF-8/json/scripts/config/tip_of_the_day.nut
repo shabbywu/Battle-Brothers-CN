@@ -389,7 +389,7 @@
     "key": "Each type of weapon has advantages and disadvantages.",
     "original": "Each type of weapon has advantages and disadvantages.",
     "translation": "每种武器都有优缺点。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406913,

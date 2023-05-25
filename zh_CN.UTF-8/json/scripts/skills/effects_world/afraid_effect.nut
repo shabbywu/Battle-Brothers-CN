@@ -3,7 +3,7 @@
     "ID": 293421817,
     "key": "Is content with being in reserve",
     "original": "Is content with being in reserve",
-    "translation": "位于后备队不会不满意",
+    "translation": "处于后备队不会不满意",
     "stage": 1
   },
   {

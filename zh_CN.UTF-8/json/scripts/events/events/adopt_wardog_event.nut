@@ -75,14 +75,14 @@
     "ID": 293412526,
     "key": "[img]gfx/ui/events/event_27.png[/img]You ask %houndmaster% the houndmaster if he can try and 'woo' this dog. He nods and steps toward it. The wild mongrel's ears go from pinned to pointed. Crouched, the houndmaster slowly edges his way toward the beast. H",
     "original": "[img]gfx/ui/events/event_27.png[/img]You ask %houndmaster% the houndmaster if he can try and 'woo' this dog. He nods and steps toward it. The wild mongrel's ears go from pinned to pointed. Crouched, the houndmaster slowly edges his way toward the beast. He keeps his hand out with a piece of meat in the palm. Hunger overcomes heedfulness and the dog sniffs its way ever closer to the houndmaster's hand. The dog tongues it out of his palm and chows down. The dog trainer feeds him another bite. He scruffs him up and finds the sweet spot behind his ears. Looking back, %houndmaster% nods.%SPEECH_ON%Aye, it's an agreeable beast and will be easily trained.%SPEECH_OFF%That's great. You ask if it can fight. The houndmaster purses his lips.%SPEECH_ON%A dog is akin to a man. If it can breathe, it can fight.%SPEECH_OFF%",
-    "translation": "[img]gfx/ui/events/event_27.png[/img]你问 %houndmaster% 驯兽师能否试着和狗“交流”。 他点头朝它走去。 这只野生杂种狗的耳朵尖尖的直了起来。 驯兽师蹲下，慢慢地向这只动物走去。 他伸出手来，手里拿着一块肉。 恐惧难敌饥饿，狗不由自主地接近了驯兽师的手。 狗向掌心吐出舌头，狼吞虎咽地吃下去。 驯兽员又喂了一块肉。 他把他推倒在地，并舔他的耳朵后面。 回头望了望，%houndmaster% 点头。%SPEECH_ON%是的，这是一个令人愉快的野兽，很容易被驯服。%SPEECH_OFF%这太好了。你问它是否能战斗。 驯兽师自信的噘着嘴。%SPEECH_ON%狗与人相似。 如果它能呼吸，它就能战斗。%SPEECH_OFF%",
+    "translation": "[img]gfx/ui/events/event_27.png[/img]你问%houndmaster%驯兽师能否试着和狗“交流”。他点头朝它走去。这只野生杂种狗的耳朵尖尖的直了起来。驯兽师慢慢地蹲着向这只动物挪去。他伸出手，把一块肉放在手心里。饥饿战胜了谨慎，狗嗅着鼻子逐渐接近了驯兽师的手。狗用舌头舔出那块肉，狼吞虎咽地吃了下去。驯兽员又喂了一块肉。他抓着它的颈头，找到了它耳后的舒适点。%houndmaster%回头望去，点了点头。%SPEECH_ON%是的，这是一头讨人喜欢的野兽，很容易被驯服。%SPEECH_OFF%这太好了。你问它能否参加战斗。驯兽师抿着嘴。%SPEECH_ON%狗就像人一样。只要能呼吸，就能战斗。%SPEECH_OFF%",
     "stage": 1
   },
   {
     "ID": 293412527,
     "key": "[img]gfx/ui/events/event_27.png[/img]You decide to take a chunk of meat and approach the dog. It is skittish at first, backing away on your approach, but the aroma you have in hand is an alluring one to be sure. The mongrel slinks back toward you, pausing",
     "original": "[img]gfx/ui/events/event_27.png[/img]You decide to take a chunk of meat and approach the dog. It is skittish at first, backing away on your approach, but the aroma you have in hand is an alluring one to be sure. The mongrel slinks back toward you, pausing here and there, eyes flicking in search of an ambush.\n\nYou can see a barrel of ribs on the dog, many days on the road having given the pup a gaunt frame. Its ears are stitched up and its tail bolted with signs of battle. This here animal knows how to fight and that's just what it'll be doing for you from now on.",
-    "translation": "[img]gfx/ui/events/event_27.png[/img]你拿起一块肉走向那条狗。 刚开始的时候有点不安，在你靠近的时候后退，但是你手上的香味确实很诱惑。 杂种狗不自禁便又走到你的身旁，双眼中依然满是戒备，仿佛在不停地揣测是否有陷阱。\n\n连日的奔波让这条狗瘦骨嶙峋，小狗憔悴的过了很多天。 它的耳朵有缝合的伤口，尾巴上挂满了战斗的痕迹。 这只动物知道如何战斗，从现在起它将为你所用。",
+    "translation": "[img]gfx/ui/events/event_27.png[/img]你决定拿起一块肉并走向那条狗。它一开始有点不安，在你靠近的时候后退，但是你手上的香气的确很诱人。 杂种狗走一步停一步地缓缓挪到你的身旁，眼神闪烁着寻找周围潜藏的陷阱。\n\n你能看到狗身上嶙峋的肋骨，在路上的许多天让这只狗变得憔悴不堪。它的耳朵有缝合的伤口，尾巴上挂满了战斗的痕迹。这只动物知道如何战斗，而从现在起它将为你所用。",
     "stage": 1
   },
   {

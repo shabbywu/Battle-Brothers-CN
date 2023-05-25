@@ -3,8 +3,8 @@
     "ID": 293410488,
     "key": " daily",
     "original": " daily",
-    "translation": "每日",
-    "stage": 1,
+    "translation": " /日",
+    "stage": 5,
     "context": "'Paid [img]gfx/ui/tooltips/money.png[/img]' + this.m.DailyCost + ' daily'"
   },
   {
@@ -20,15 +20,15 @@
     "key": "Level ",
     "original": "Level ",
     "translation": "等级",
-    "stage": 1,
+    "stage": 5,
     "context": "'Level ' + this.m.Level"
   },
   {
     "ID": 293410491,
     "key": "With the company from the very beginning.",
     "original": "With the company from the very beginning.",
-    "translation": "战队的创始人。",
-    "stage": 1,
+    "translation": "一开始就是战团的一员。",
+    "stage": 5,
     "context": "text = 'With the company from the very beginning.'"
   },
   {
@@ -36,23 +36,23 @@
     "key": " days.",
     "original": " days.",
     "translation": "天。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'With the company for ' + time + ' days.'"
   },
   {
     "ID": 293410493,
     "key": "Had just joined the company.",
     "original": "Had just joined the company.",
-    "translation": "刚刚加入了战团。",
-    "stage": 1,
+    "translation": "刚加入战团。",
+    "stage": 5,
     "context": "text = 'Had just joined the company.'"
   },
   {
     "ID": 293410494,
     "key": "Paid [img]gfx/ui/tooltips/money.png[/img]",
     "original": "Paid [img]gfx/ui/tooltips/money.png[/img]",
-    "translation": "支付了 [img]gfx/ui/tooltips/money.png[/img]",
-    "stage": 1,
+    "translation": "薪资:[img]gfx/ui/tooltips/money.png[/img]",
+    "stage": 5,
     "context": "'Paid [img]gfx/ui/tooltips/money.png[/img]' + this.m.DailyCost + ' daily'"
   },
   {
@@ -60,7 +60,7 @@
     "key": " The most powerful opponent he vanquished was ",
     "original": " The most powerful opponent he vanquished was ",
     "translation": "他曾击败过的最强对手是",
-    "stage": 1,
+    "stage": 5,
     "context": "text = text + ' The most powerful opponent he vanquished was ' + this.m.LifetimeStats.MostPowerfulVanquished + '.'"
   },
   {

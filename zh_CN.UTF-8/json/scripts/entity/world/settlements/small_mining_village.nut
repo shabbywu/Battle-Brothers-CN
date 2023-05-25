@@ -3,8 +3,8 @@
     "ID": 293412151,
     "key": "Jaderberg",
     "original": "Jaderberg",
-    "translation": "亚德贝格(Jaderberg)",
-    "stage": 1
+    "translation": "玉丘(Jaderberg)",
+    "stage": 5
   },
   {
     "ID": 293412152,
@@ -59,8 +59,8 @@
     "ID": 293412159,
     "key": "Fuchsberg",
     "original": "Fuchsberg",
-    "translation": "福克斯伯格(Fuchsberg)",
-    "stage": 1
+    "translation": "狐狸丘(Fuchsberg)",
+    "stage": 5
   },
   {
     "ID": 293412160,
@@ -73,8 +73,8 @@
     "ID": 293412161,
     "key": "Gronenberg",
     "original": "Gronenberg",
-    "translation": "格罗尼贝尔格(Gronenberg)",
-    "stage": 1
+    "translation": "格若南丘(Gronenberg)",
+    "stage": 5
   },
   {
     "ID": 293412162,
@@ -87,8 +87,8 @@
     "ID": 293412163,
     "key": "Schneeberg",
     "original": "Schneeberg",
-    "translation": "雪山市(Schneeberg)",
-    "stage": 1
+    "translation": "雪丘(Schneeberg)",
+    "stage": 5
   },
   {
     "ID": 293412164,
@@ -172,15 +172,15 @@
     "ID": 293412175,
     "key": "Bokenberg",
     "original": "Bokenberg",
-    "translation": "博肯贝格(Bokenberg)",
-    "stage": 1
+    "translation": "博肯丘(Bokenberg)",
+    "stage": 5
   },
   {
     "ID": 293412176,
     "key": "Ellenberg",
     "original": "Ellenberg",
-    "translation": "艾伦伯格(Ellenberg)",
-    "stage": 1
+    "translation": "艾伦丘(Ellenberg)",
+    "stage": 5
   },
   {
     "ID": 293412177,
@@ -215,22 +215,22 @@
     "ID": 293412181,
     "key": "Kahlenberg",
     "original": "Kahlenberg",
-    "translation": "卡伦贝格(Kahlenberg)",
-    "stage": 1
+    "translation": "秃丘(Kahlenberg)",
+    "stage": 5
   },
   {
     "ID": 293412182,
     "key": "Eichenberg",
     "original": "Eichenberg",
-    "translation": "艾肯伯格(Eichenberg)",
-    "stage": 1
+    "translation": "橡树丘(Eichenberg)",
+    "stage": 5
   },
   {
     "ID": 293412183,
     "key": "Senftenberg",
     "original": "Senftenberg",
-    "translation": "森芬特贝格(Senftenberg)",
-    "stage": 1
+    "translation": "森芬特丘(Senftenberg)",
+    "stage": 5
   },
   {
     "ID": 293412184,
@@ -258,7 +258,7 @@
     "ID": 293412187,
     "key": "Reinberg",
     "original": "Reinberg",
-    "translation": "莱因贝格(Reinberg)",
-    "stage": 1
+    "translation": "莱因丘(Reinberg)",
+    "stage": 5
   }
 ]

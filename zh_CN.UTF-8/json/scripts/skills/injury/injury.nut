@@ -87,7 +87,7 @@
     "ID": 293422007,
     "key": "Is content for now with being in reserve",
     "original": "Is content for now with being in reserve",
-    "translation": "现在位于后备队不会不满意",
+    "translation": "现在处于后备队不会不满意",
     "stage": 1
   }
 ]
