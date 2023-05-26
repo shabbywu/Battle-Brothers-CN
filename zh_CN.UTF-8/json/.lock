@@ -62,14 +62,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:15:11.946Z",
-        "updatedAt": "2023-05-17T14:19:29.605Z",
-        "modifiedAt": "2023-05-24T14:44:18Z",
-        "sha256": "f37e1975495755d8af047ed269d2936da0aad0d2845cebe60bb97f9a7c3452cd"
+        "updatedAt": "2023-05-26T04:49:04.067Z",
+        "modifiedAt": "2023-05-26T04:53:52Z",
+        "sha256": "a1fc619d45aca3d276d4d556d60a027a9ee219c4d5df1d3d15b22b0a648476e1"
     },
     "scripts/ambitions/ambitions/allied_nobles_ambition.json": {
         "id": 918352,
@@ -278,14 +278,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:15:17.723Z",
-        "updatedAt": "2023-05-17T14:19:38.624Z",
-        "modifiedAt": "2023-05-26T04:31:47Z",
-        "sha256": "7b78c378a50e89bad939d884d95bbc4c0d5e2938b7575893a59b082457042a28"
+        "updatedAt": "2023-05-26T04:49:23.974Z",
+        "modifiedAt": "2023-05-26T04:53:57Z",
+        "sha256": "ce4945c9440386ffa683269e15ee7fe08bdb5521a12b09ffca0474ab95f93a3b"
     },
     "scripts/ambitions/ambitions/defeat_orc_location_ambition.json": {
         "id": 918364,
@@ -8024,8 +8024,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:15.601Z",
         "updatedAt": "2023-05-26T04:50:18.209Z",
-        "modifiedAt": "2023-05-26T04:50:18Z",
-        "sha256": "d237954b5c0376e3d88e0e34375b2244a27234bd7904278a0efb95b4482781c9"
+        "modifiedAt": "2023-05-26T04:54:05Z",
+        "sha256": "623c96ec6a6313527355c1d199ce9f8a634e0c56a3c5fbb72d5ae03fb0ddd719"
     },
     "scripts/events/events/aging_swordmaster_event.json": {
         "id": 918794,
@@ -9014,8 +9014,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:39.173Z",
         "updatedAt": "2023-05-26T04:50:20.678Z",
-        "modifiedAt": "2023-05-26T04:50:21Z",
-        "sha256": "9047f506516099a180f10c91638144c1056e6cd18938ccfab9366fb5ec8c8ce1"
+        "modifiedAt": "2023-05-26T04:54:32Z",
+        "sha256": "c2b6721a51484d7bc8fd316cd3d1b7ca2ce7caffddbd582199e2dc21b4292cf8"
     },
     "scripts/events/events/crisis/greenskins_slayer_event.json": {
         "id": 918849,
@@ -9050,8 +9050,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:40.819Z",
         "updatedAt": "2023-05-26T04:50:20.812Z",
-        "modifiedAt": "2023-05-26T04:50:21Z",
-        "sha256": "645ce3ce4581a27d8564de981187a21487e8ec3b1c9a10b62553fc3f274287c3"
+        "modifiedAt": "2023-05-26T04:54:37Z",
+        "sha256": "77eacce7676a097ac40f7ba6665bf66c6c8fd95d0889019933cc9f224adbc926"
     },
     "scripts/events/events/crisis/greenskins_town_destroyed_event.json": {
         "id": 918851,
@@ -9086,8 +9086,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:41.501Z",
         "updatedAt": "2023-05-26T04:50:20.888Z",
-        "modifiedAt": "2023-05-26T04:50:21Z",
-        "sha256": "be0cd7096d97f4ce1cdc275043af3eafd4ef20cf991d90a48035bee085b24df8"
+        "modifiedAt": "2023-05-26T04:54:56Z",
+        "sha256": "05c9ef8daee9db6b9a932629325367be937203b72998fb6dd766cbf75847fe12"
     },
     "scripts/events/events/crisis/greenskins_warnings_event.json": {
         "id": 918853,
@@ -9104,8 +9104,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:41.922Z",
         "updatedAt": "2023-05-26T04:50:21.018Z",
-        "modifiedAt": "2023-05-26T04:50:21Z",
-        "sha256": "99552ff71c1750c9c92647961dafc435a2cc450f0f4bc67fa7f4ea2c30ab07aa"
+        "modifiedAt": "2023-05-26T04:55:20Z",
+        "sha256": "708083416600369f9dffb3223c946be5ccc81aa921ee6011ce57f1f9f6cc187c"
     },
     "scripts/events/events/crisis/undead_crusader_event.json": {
         "id": 918854,
@@ -9320,8 +9320,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:46.653Z",
         "updatedAt": "2023-05-26T04:50:21.528Z",
-        "modifiedAt": "2023-05-26T04:50:22Z",
-        "sha256": "05f949cd65c3efaddaf1eeef30d0d6693af3a83a694067b60a01eca45879de19"
+        "modifiedAt": "2023-05-26T04:55:26Z",
+        "sha256": "dd178bd3364aad3eea74a6d21edf46e732d80c405861526e6f12cb65c898cf37"
     },
     "scripts/events/events/cultist_vs_old_gods_event.json": {
         "id": 918866,
@@ -13514,8 +13514,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:21.339Z",
         "updatedAt": "2023-05-26T04:50:30.964Z",
-        "modifiedAt": "2023-05-26T04:50:31Z",
-        "sha256": "008fd031b9e032269d7b7f17839ef181faaec151c68f01345af0279f008e383c"
+        "modifiedAt": "2023-05-26T04:55:32Z",
+        "sha256": "5309a85b726c061bd602ed1c5f26e3baf12d3444e40aaf6eeec33ca189c9818b"
     },
     "scripts/events/events/how_far_is_the_sun_event.json": {
         "id": 919099,
@@ -33584,8 +33584,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:47.041Z",
         "updatedAt": "2023-05-26T04:50:41.362Z",
-        "modifiedAt": "2023-05-26T04:50:41Z",
-        "sha256": "acf4d39d96b554798ae01e4bb835a78245be623c299d23be6aa77a8e38d3e0b9"
+        "modifiedAt": "2023-05-26T04:55:36Z",
+        "sha256": "0db5b633ca6e42ba605425860af57f81d83cf19b5ddf4a31de95687fcdcf6461"
     },
     "scripts/skills/backgrounds/pacified_flagellant_background.json": {
         "id": 920214,
@@ -39308,8 +39308,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:05.329Z",
         "updatedAt": "2023-05-26T04:50:42.387Z",
-        "modifiedAt": "2023-05-26T04:50:43Z",
-        "sha256": "b3258b0389056995e042975a191d3ff32d2e2f04eb9e67066afdd840e47fbfb0"
+        "modifiedAt": "2023-05-26T04:55:52Z",
+        "sha256": "4bcd421e262a1d8860cddf03aeefa894fc6bd729e6f038b71bdfb5937110f18b"
     },
     "scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.json": {
         "id": 920532,

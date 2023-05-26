@@ -19,8 +19,8 @@
     "ID": 293403376,
     "key": "Defeat another mercenary company that is roaming the lands. If you have no enemies that will hire another mercenary company, you can always press CTRL + Left Click to attack anyone - provided you are currently not employed.",
     "original": "Defeat another mercenary company that is roaming the lands. If you have no enemies that will hire another mercenary company, you can always press CTRL + Left Click to attack anyone - provided you are currently not employed.",
-    "translation": "击败另一支在路上游荡的雇佣兵战团。 如果你没有敌对的另一支雇佣兵战队，你可以随时按CTRL加左键单击来攻击任何人－前提是你当前没被雇佣。",
-    "stage": 5,
+    "translation": "击败另一支在路上游荡的雇佣兵战团。 如果你没有敌对的另一支雇佣兵战团，你可以随时按CTRL加左键单击来攻击任何人－前提是你当前没被雇佣。",
+    "stage": 1,
     "context": "this.m.TooltipText = 'Defeat another mercenary company that is roaming the lands. If you have no enemies that will hire another mercenary company, you can always press CTRL + Left Click to attack anyone - provided you are currently not employed.'"
   },
   {

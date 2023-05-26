@@ -10,7 +10,7 @@
     "ID": 293412517,
     "key": "[img]gfx/ui/events/event_27.png[/img]You take a bow and nock an arrow. A few of the brothers watch as you take aim. The wind comes, goes, and comes again. You wait patiently before drawing the string and closing one eye to put the dog into focus. It sits ",
     "original": "[img]gfx/ui/events/event_27.png[/img]You take a bow and nock an arrow. A few of the brothers watch as you take aim. The wind comes, goes, and comes again. You wait patiently before drawing the string and closing one eye to put the dog into focus. It sits down and stares at you between long-tongued pants.\n\nYou release the shot. The arrow zips through the air and the dog yelps. It keels back on its hind legs and falls over, its feet kicking and scraping on the ground until it stops. You put the bow back into its holding and get the company back on the road.",
-    "translation": "[img]gfx/ui/events/event_27.png[/img]你取弓搭箭。几个兄弟也看着你瞄准。风时起时息，你耐心地等待着机会，然后拉弦，闭上一只眼睛瞄准那只狗。而那只狗则大口喘息，坐着那边盯着你。\n\n你松开弓弦，羽箭呼啸而去。只见那狗惨叫一声，后腿一晃，摔倒在地上。它挣扎着用腿在地上踢来踢去，直到失去了生命。你收好弓箭，让战队继续赶路。",
+    "translation": "[img]gfx/ui/events/event_27.png[/img]你取弓搭箭。几个兄弟也看着你瞄准。风时起时息，你耐心地等待着机会，然后拉弦，闭上一只眼睛瞄准那只狗。而那只狗则大口喘息，坐着那边盯着你。\n\n你松开弓弦，羽箭呼啸而去。只见那狗惨叫一声，后腿一晃，摔倒在地上。它挣扎着用腿在地上踢来踢去，直到失去了生命。你收好弓箭，让战团继续赶路。",
     "stage": 1
   },
   {
