@@ -3,7 +3,7 @@
     "ID": 293403432,
     "key": "Feasted with the company",
     "original": "Feasted with the company",
-    "translation": "与战队共度盛宴",
+    "translation": "与战团共度盛宴",
     "stage": 1
   },
   {

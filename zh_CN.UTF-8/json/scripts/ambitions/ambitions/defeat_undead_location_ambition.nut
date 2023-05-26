@@ -19,7 +19,7 @@
     "ID": 293403397,
     "key": "Destroy four locations beset by undead to prove the company's prowess, whether as part of a contract or by heading out on your own. You'll also need space enough in your inventory for a new item.",
     "original": "Destroy four locations beset by undead to prove the company's prowess, whether as part of a contract or by heading out on your own. You'll also need space enough in your inventory for a new item.",
-    "translation": "摧毁四个亡灵营地来证明战队的实力，无论是作为合同的一部分，还是通过自己发现。 你还需要在仓库中留出足够的空间来存放一个新物品。",
+    "translation": "摧毁四个亡灵营地来证明战团的实力，无论是作为合同的一部分，还是通过自己发现。 你还需要在仓库中留出足够的空间来存放一个新物品。",
     "stage": 1,
     "context": "this.m.TooltipText = \"Destroy four locations beset by undead to prove the company's prowess, whether as part of a contract or by heading out on your own. You'll also need space enough in your inventory for a new item.\""
   },

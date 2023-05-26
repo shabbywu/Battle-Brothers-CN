@@ -27,7 +27,7 @@
     "ID": 293403510,
     "key": "[img]gfx/ui/events/event_82.png[/img]After weeks spent listening for rumors, buying pints of beer for decrepit old veterans, and negotiating with wheedling crones, you were able to ferret out the locations of a prestigious weapon, shield, armor and helmet",
     "original": "[img]gfx/ui/events/event_82.png[/img]After weeks spent listening for rumors, buying pints of beer for decrepit old veterans, and negotiating with wheedling crones, you were able to ferret out the locations of a prestigious weapon, shield, armor and helmet. Having learned where to find the pieces, all that remained was the minor matter of defeating the various horrors and cutthroats guarding it. Now soon to be worn by the men of your company, the pieces form a set fearsome to behold. %SPEECH_ON%The man who dons this arming onto the battlefield will see the fiercest enemy hobble away shaking a load down the leg of his pants!%SPEECH_OFF%%randombrother% exclaims proudly and to the laughing approval of his brothers in arms. You only hope their joy and excitement doesn't turn into envy once you announce which man will get to wear the pieces.",
-    "translation": "[img]gfx/ui/events/event_82.png[/img]数周以来，你一直在听谣言，给年迈的老兵买啤酒，和那些甜言蜜语的老妪谈判，最终你找到了一件享有声望的武器、盾牌、盔甲和头盔的位置。 知道了在哪里可以找到这几件装备后，剩下的小事就是打败守卫它的各种恐怖之物和杀手。 现在，你战队的人很快就要穿上这些了，它们组成了一套可怖的景象。 %SPEECH_ON%在战场上武装起来的人会看到最凶猛的敌人蹒跚地离开，抖动着他那裤裆内的重物！%SPEECH_OFF%%randombrother% 自豪地欢呼着，得到了他战友们的欢笑和赞许。 一旦你宣布哪个男人去穿上这几件，你只希望他们的喜悦和兴奋不会变成嫉妒。",
+    "translation": "[img]gfx/ui/events/event_82.png[/img]数周以来，你一直在听谣言，给年迈的老兵买啤酒，和那些甜言蜜语的老妪谈判，最终你找到了一件享有声望的武器、盾牌、盔甲和头盔的位置。 知道了在哪里可以找到这几件装备后，剩下的小事就是打败守卫它的各种恐怖之物和杀手。 现在，你战团的人很快就要穿上这些了，它们组成了一套可怖的景象。 %SPEECH_ON%在战场上武装起来的人会看到最凶猛的敌人蹒跚地离开，抖动着他那裤裆内的重物！%SPEECH_OFF%%randombrother% 自豪地欢呼着，得到了他战友们的欢笑和赞许。 一旦你宣布哪个男人去穿上这几件，你只希望他们的喜悦和兴奋不会变成嫉妒。",
     "stage": 1,
     "context": "this.m.SuccessText = \"[img]gfx/ui/events/event_82.png[/img]After weeks spent listening for rumors, buying pints of beer for decrepit old veterans, and negotiating with wheedling crones, you were able to ferret out the locations of a prestigious weapon, shield, armor and helmet. Having learned where to find the pieces, all that remained was the minor matter of defeating the various horrors and cutthroats guarding it. Now soon to be worn by the men of your company, the pieces form a set fearsome to behold. %SPEECH_ON%The man who dons this arming onto the battlefield will see the fiercest enemy hobble away shaking a load down the leg of his pants!%SPEECH_OFF%%randombrother% exclaims proudly and to the laughing approval of his brothers in arms. You only hope their joy and excitement doesn't turn into envy once you announce which man will get to wear the pieces.\""
   },
@@ -35,7 +35,7 @@
     "ID": 293403511,
     "key": "A famed company is recognized by their equipment. We should head out\nand claim a prestigious weapon, shield, armor and helmet to increase our renown.",
     "original": "A famed company is recognized by their equipment. We should head out\nand claim a prestigious weapon, shield, armor and helmet to increase our renown.",
-    "translation": "一家著名的战队因其装备而得到认可。 我们应该出发去索取一件享有声望的武器、盾牌、盔甲和头盔，以提高我们的声望。",
+    "translation": "一家著名的战团因其装备而得到认可。 我们应该出发去\n索取一件享有声望的武器、盾牌、盔甲和头盔，以提高我们的声望。",
     "stage": 1,
     "context": "this.m.ButtonText = 'A famed company is recognized by their equipment. We should head out\nand claim a prestigious weapon, shield, armor and helmet to increase our renown.'"
   }

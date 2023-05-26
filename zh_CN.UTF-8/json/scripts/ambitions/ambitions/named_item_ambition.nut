@@ -3,7 +3,7 @@
     "ID": 293403499,
     "key": "A respectable company is recognized by their equipment. We should head out\nand claim either a famed weapon, shield, armor or helmet to increase our renown.",
     "original": "A respectable company is recognized by their equipment. We should head out\nand claim either a famed weapon, shield, armor or helmet to increase our renown.",
-    "translation": "一家受人尊敬的战队因其装备而得到认可。 我们应该出发去索取一件著名的武器、盾牌、盔甲或头盔，以提高我们的声望。",
+    "translation": "一家受人尊敬的战团因其装备而得到认可。 我们应该出发去\n索取一件著名的武器、盾牌、盔甲或头盔，以提高我们的声望。",
     "stage": 1,
     "context": "this.m.ButtonText = 'A respectable company is recognized by their equipment. We should head out\nand claim either a famed weapon, shield, armor or helmet to increase our renown.'"
   },

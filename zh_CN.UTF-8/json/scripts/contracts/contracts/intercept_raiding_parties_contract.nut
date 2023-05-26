@@ -122,7 +122,7 @@
     "ID": 293409322,
     "key": "{This may just be the right kind of work for us. | Repel invaders from the south? This here company answers the call! | Very well. Let's discuss payment further.}",
     "original": "{This may just be the right kind of work for us. | Repel invaders from the south? This here company answers the call! | Very well. Let's discuss payment further.}",
-    "translation": "{这对我们来说也许正是合适的工作。 | 击退南方来的入侵者？ 战队在此响应号召！ | Very well. 让我们更深入地谈谈报酬问题。}",
+    "translation": "{这对我们来说也许正是合适的工作。 | 击退南方来的入侵者？ 战团在此响应号召！ | Very well. 让我们更深入地谈谈报酬问题。}",
     "stage": 1
   },
   {
@@ -257,7 +257,7 @@
     "ID": 293409341,
     "key": "[img]gfx/ui/events/event_53.png[/img]{The southern raiding party looks a collective of all the world's men. It is upon closer inspection that you realize it is because they are slavers! The mishmash of masters and slaves moves on the %companyname%, a flai",
     "original": "[img]gfx/ui/events/event_53.png[/img]{The southern raiding party looks a collective of all the world's men. It is upon closer inspection that you realize it is because they are slavers! The mishmash of masters and slaves moves on the %companyname%, a flailing formation of trained and untrained alike. You can see that there are northern faces amongst the crowd, but sadly they are a broken lot and will sooner raise arms against the company than fight for freedom. | You come across the southerners, but they are not raiders at all - they are slavers! They've carts of women and children, and upon your discovering them the slavers hurriedly start decapitating any recently enslaved man who poses a threat while the rest of the group charges the %companyname%. With carnage in the air, you bear down on the group with impunity!}",
-    "translation": "[img]gfx/ui/events/event_53.png[/img]{南方掠夺队看起来好像由世界各地的人组合出来的般。 在更近的观察下你才意识到是因为他们是奴隶主！ 奴隶与主人的大杂烩接近着 %companyname%，受过训练的与毫无训练的一起组成一排散乱的阵线。 你可以看到人群中有北方人的面孔，但可悲的是，他们是一个破碎的群体，他们宁愿拿起武器对抗战队，也不愿为自由而战。 | 你找到了南方人，但他们完全不是强盗－他们是奴隶主！ 他们带着一车车的女人和孩子，并在你发现的同时，奴隶主们匆忙的开始处决任何近期奴役的有威胁的人同时剩下的开始冲向 %companyname%。空气中弥漫着屠杀的气息，你肆无忌惮地向他们发起进攻！}",
+    "translation": "[img]gfx/ui/events/event_53.png[/img]{南方掠夺队看起来好像由世界各地的人组合出来的般。 在更近的观察下你才意识到是因为他们是奴隶主！ 奴隶与主人的大杂烩接近着 %companyname%，受过训练的与毫无训练的一起组成一排散乱的阵线。 你可以看到人群中有北方人的面孔，但可悲的是，他们是一个破碎的群体，他们宁愿拿起武器对抗战团，也不愿为自由而战。 | 你找到了南方人，但他们完全不是强盗－他们是奴隶主！ 他们带着一车车的女人和孩子，并在你发现的同时，奴隶主们匆忙的开始处决任何近期奴役的有威胁的人同时剩下的开始冲向 %companyname%。空气中弥漫着屠杀的气息，你肆无忌惮地向他们发起进攻！}",
     "stage": 1
   },
   {

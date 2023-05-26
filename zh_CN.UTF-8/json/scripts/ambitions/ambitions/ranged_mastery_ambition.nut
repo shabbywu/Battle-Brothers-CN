@@ -3,7 +3,7 @@
     "ID": 293403520,
     "key": "The company lacks competent archers, limiting our tactical options.\nWe shall train three men to master bow or crossbow and be deadly from afar!",
     "original": "The company lacks competent archers, limiting our tactical options.\nWe shall train three men to master bow or crossbow and be deadly from afar!",
-    "translation": "咱们战队缺乏老练的弓箭手，限制了咱们的策略选择。我们得训练三名弓箭或弩箭大师从远处给予致命威胁！",
+    "translation": "咱们战团缺乏老练的弓箭手，限制了咱们的策略选择。\n我们得训练三名弓箭或弩箭大师从远处给予致命威胁！",
     "stage": 1,
     "context": "this.m.ButtonText = 'The company lacks competent archers, limiting our tactical options.\nWe shall train three men to master bow or crossbow and be deadly from afar!'"
   },

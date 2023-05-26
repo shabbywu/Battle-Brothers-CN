@@ -335,8 +335,8 @@
     "ID": 293422999,
     "key": "Choose how your company starts out in the world. Depending on your choice, you'll start with different men, equipment, resources, and special rules.",
     "original": "Choose how your company starts out in the world. Depending on your choice, you'll start with different men, equipment, resources, and special rules.",
-    "translation": "选择你的战队如何在世界上起步。 根据你的选择，你将从不同的人员、装备、资源和特殊规则开始。",
-    "stage": 1
+    "translation": "选择你的战团如何在世界上起步。根据你的选择，你将从不同的人、装备、资源和特殊规则开始。",
+    "stage": 5
   },
   {
     "ID": 293423000,

@@ -553,7 +553,7 @@
     "key": "Lone Wolf",
     "original": "Lone Wolf",
     "translation": "独狼",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405715,

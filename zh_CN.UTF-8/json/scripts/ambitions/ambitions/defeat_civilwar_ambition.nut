@@ -12,7 +12,7 @@
     "key": "If we can win this war for one of the noble houses, our name will be unmatched.\nLet us pick a side, bask in the glory of battle and get rich for it!",
     "original": "If we can win this war for one of the noble houses, our name will be unmatched.\nLet us pick a side, bask in the glory of battle and get rich for it!",
     "translation": "如果我们能为一个贵族家族赢得这场战争，我们将名冠天下。\n让我们选择一方，沐浴在战斗的荣光里，并因此发家致富吧！",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.ButtonText = 'If we can win this war for one of the noble houses, our name will be unmatched.\nLet us pick a side, bask in the glory of battle and get rich for it!'"
   },
   {

@@ -316,7 +316,7 @@
     "ID": 293408269,
     "key": "[img]gfx/ui/events/%illustration%.png[/img]{You believe you have made a modest defense out of what positions %holysite% can give. With what little time remains, there's probably at least one serious task you can set the %companyname% to completing. It's j",
     "original": "[img]gfx/ui/events/%illustration%.png[/img]{You believe you have made a modest defense out of what positions %holysite% can give. With what little time remains, there's probably at least one serious task you can set the %companyname% to completing. It's just a question of what exactly would suit the company best.}",
-    "translation": "[img]gfx/ui/events/%illustration%.png[/img]{你坚信你已经做出了对 %holysite% 来说适当的防卫。 剩下的时间不多了，你的 %companyname% 至少还能完成一项重要任务。 现在问题是如何将战队保持在最佳状态。}",
+    "translation": "[img]gfx/ui/events/%illustration%.png[/img]{你坚信你已经做出了对 %holysite% 来说适当的防卫。 剩下的时间不多了，你的 %companyname% 至少还能完成一项重要任务。 现在问题是如何将战团保持在最佳状态。}",
     "stage": 1
   },
   {

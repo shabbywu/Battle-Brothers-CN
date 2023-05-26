@@ -3,7 +3,7 @@
     "ID": 293403427,
     "key": "Our company is ill-prepared to fight armored opponents. We shall train two men\nto master the hammer in combat, and no knight will be safe from us.",
     "original": "Our company is ill-prepared to fight armored opponents. We shall train two men\nto master the hammer in combat, and no knight will be safe from us.",
-    "translation": "我们战队没有做好与装甲对手作战的准备。 我们得训练俩人精通战锤来战斗，没有骑士能逃出我们的魔掌。",
+    "translation": "我们战团没有做好与装甲对手作战的准备。\n我们得训练俩人精通战锤来战斗，没有骑士能逃出我们的魔掌。",
     "stage": 1,
     "context": "this.m.ButtonText = 'Our company is ill-prepared to fight armored opponents. We shall train two men\nto master the hammer in combat, and no knight will be safe from us.'"
   },

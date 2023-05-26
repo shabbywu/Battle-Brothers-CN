@@ -4,14 +4,14 @@
     "key": "Destroy locations controlled by orcs",
     "original": "Destroy locations controlled by orcs",
     "translation": "摧毁兽人营地",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.UIText = 'Destroy locations controlled by orcs'"
   },
   {
     "ID": 293403380,
     "key": "Besting orcs in battle and burning down some of their camps would make people\nrecognize the company's ability on the battlefield. Let us do so!",
     "original": "Besting orcs in battle and burning down some of their camps would make people\nrecognize the company's ability on the battlefield. Let us do so!",
-    "translation": "在战斗中击败兽人和烧毁它们的营地能让人们认识到战队的能力。 就这么干吧。",
+    "translation": "在战斗中击败兽人和烧毁它们的营地\n能让人们认识到战团的能力。 就这么干吧。",
     "stage": 1,
     "context": "this.m.ButtonText = \"Besting orcs in battle and burning down some of their camps would make people\nrecognize the company's ability on the battlefield. Let us do so!\""
   },
@@ -43,7 +43,7 @@
     "ID": 293403384,
     "key": "Destroy four locations controlled by orcs to prove the company's prowess, whether as part of a contract or by heading out on your own. You'll also need space enough in your inventory for a new item.",
     "original": "Destroy four locations controlled by orcs to prove the company's prowess, whether as part of a contract or by heading out on your own. You'll also need space enough in your inventory for a new item.",
-    "translation": "摧毁四个兽人营地来证明战队的实力，无论是作为合同的一部分，还是通过自己发现。 你还需要在仓库中留出足够的空间来存放一个新物品。",
+    "translation": "摧毁四个兽人营地来证明战团的实力，无论是作为合同的一部分，还是通过自己发现。 你还需要在仓库中留出足够的空间来存放一个新物品。",
     "stage": 1,
     "context": "this.m.TooltipText = \"Destroy four locations controlled by orcs to prove the company's prowess, whether as part of a contract or by heading out on your own. You'll also need space enough in your inventory for a new item.\""
   },
@@ -52,7 +52,7 @@
     "key": "You gain ",
     "original": "You gain ",
     "translation": "你获得了",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain ' + this.Const.Strings.getArticle(item.getName()) + item.getName()"
   }
 ]

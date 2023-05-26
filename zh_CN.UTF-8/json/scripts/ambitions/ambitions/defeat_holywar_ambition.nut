@@ -27,7 +27,7 @@
     "ID": 293403362,
     "key": "The fires of religious turmoil threaten to engulf the lands. Let the company be forged\nstronger than ever by its heat and flames, and earn a fortune by winning the war!",
     "original": "The fires of religious turmoil threaten to engulf the lands. Let the company be forged\nstronger than ever by its heat and flames, and earn a fortune by winning the war!",
-    "translation": "宗教动乱之火威胁着要吞噬这片土地。 让我们的战队在热火中变得比以往任何时候都强大，并通过赢得战争来赚取财富！",
+    "translation": "宗教动乱之火威胁着要吞噬这片土地。 \n让我们的战团在热火中变得比以往任何时候都强大，并通过赢得战争来赚取财富！",
     "stage": 1,
     "context": "this.m.ButtonText = 'The fires of religious turmoil threaten to engulf the lands. Let the company be forged\nstronger than ever by its heat and flames, and earn a fortune by winning the war!'"
   },

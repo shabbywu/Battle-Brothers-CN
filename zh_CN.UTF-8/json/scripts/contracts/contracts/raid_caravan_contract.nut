@@ -328,7 +328,7 @@
     "ID": 293409684,
     "key": "[img]gfx/ui/events/event_75.png[/img]{Awaiting the caravan, a pair of travelers come up from where the convoy should be going. They remark in detail about a cart which is no doubt the one which you were supposed to be hunting down. No point in returning t",
     "original": "[img]gfx/ui/events/event_75.png[/img]{Awaiting the caravan, a pair of travelers come up from where the convoy should be going. They remark in detail about a cart which is no doubt the one which you were supposed to be hunting down. No point in returning to %employer%. | Word on the road hints that the caravan you were supposed to be hunting down has given you the slip and reached its destination. The company shouldn't bother reaching %employer%.}",
-    "translation": "[img]gfx/ui/events/event_75.png[/img]{在等待商队的时候，一对旅行者从车队应该去的地方走了过来。 他们详细地描述了一辆货车，毫无疑问，那就是你要找的。 最好不要回去找 %employer%。 | 路人的传闻暗示着你要追杀的商队溜到目的地了。 战队不应该再自讨苦吃的回去找 %employer%。}",
+    "translation": "[img]gfx/ui/events/event_75.png[/img]{在等待商队的时候，一对旅行者从车队应该去的地方走了过来。 他们详细地描述了一辆货车，毫无疑问，那就是你要找的。 最好不要回去找 %employer%。 | 路人的传闻暗示着你要追杀的商队溜到目的地了。 战团不应该再自讨苦吃的回去找 %employer%。}",
     "stage": 1
   },
   {
