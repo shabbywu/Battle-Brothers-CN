@@ -10,7 +10,7 @@
     "ID": 293416345,
     "key": "Felt humiliated in front of the company",
     "original": "Felt humiliated in front of the company",
-    "translation": "在战队面前感到丢脸",
+    "translation": "在战团面前感到丢脸",
     "stage": 1
   },
   {

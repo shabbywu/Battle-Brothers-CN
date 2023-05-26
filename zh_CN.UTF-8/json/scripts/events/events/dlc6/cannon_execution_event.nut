@@ -25,14 +25,14 @@
     "ID": 293414513,
     "key": "[img]gfx/ui/events/event_177.png[/img]{You inform the guards and executioner that you'll be stopping the execution. They immediately stand back from the mortar. The executioner plugs his ear again.%SPEECH_ON%A stay of execution? Or did you say to start it",
     "original": "[img]gfx/ui/events/event_177.png[/img]{You inform the guards and executioner that you'll be stopping the execution. They immediately stand back from the mortar. The executioner plugs his ear again.%SPEECH_ON%A stay of execution? Or did you say to start it?%SPEECH_OFF%The thief nervously laughs.%SPEECH_ON%Yes, Crownling, please clear that up for our friend here.%SPEECH_OFF%The matter is settled slowly and for all to hear. Surprisingly, the guards agree. They see you not as a random intervention, but as one sent from the Gilder Himself, for why else would you be there? The thief is cut free from the device and he is handed over to the company. He holds his hand out.%SPEECH_ON%All funny business aside, I'll fight for you, uh, hmmm... the %companyname%. Quaint. But I'm no ordinary thief, I'm a man of pride, and a man with a sense of duty, and a man with a sense of crowns!%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_177.png[/img]{你告诉卫兵和行刑者你要阻止这场行刑。 他们马上从臼炮边离开。 行刑者又开始掏耳朵了。%SPEECH_ON%暂缓执行？ 又或者你来说开始？%SPEECH_OFF%小偷紧张的笑道。%SPEECH_ON%是的，逐币者，帮我们这位朋友理清楚。%SPEECH_OFF%事态缓慢的平和了下来。 意外的，守卫们同意了。 他们并未将你视作一个随机干预者，而是镀金者的使徒，不然你怎么会在这里？ 小偷从装置上被解放出来并交给你的战队。 他伸出他的手。%SPEECH_ON%抛开所有有趣的事情，我会为你而战，呃，嗯… %companyname%。奇特而有趣。 但我不是个普通的小偷，我充满荣誉，使命感，当然还有对克朗的敏锐直觉！%SPEECH_OFF%}",
+    "translation": "[img]gfx/ui/events/event_177.png[/img]{你告诉卫兵和行刑者你要阻止这场行刑。 他们马上从臼炮边离开。 行刑者又开始掏耳朵了。%SPEECH_ON%暂缓执行？ 又或者你来说开始？%SPEECH_OFF%小偷紧张的笑道。%SPEECH_ON%是的，逐币者，帮我们这位朋友理清楚。%SPEECH_OFF%事态缓慢的平和了下来。 意外的，守卫们同意了。 他们并未将你视作一个随机干预者，而是镀金者的使徒，不然你怎么会在这里？ 小偷从装置上被解放出来并交给你的战团。 他伸出他的手。%SPEECH_ON%抛开所有有趣的事情，我会为你而战，呃，嗯… %companyname%。奇特而有趣。 但我不是个普通的小偷，我充满荣誉，使命感，当然还有对克朗的敏锐直觉！%SPEECH_OFF%}",
     "stage": 1
   },
   {
     "ID": 293414514,
     "key": "Welcome to the company, I suppose.",
     "original": "Welcome to the company, I suppose.",
-    "translation": "欢迎加入战队，我想。",
+    "translation": "欢迎加入战团，我想。",
     "stage": 1
   },
   {

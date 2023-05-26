@@ -11,7 +11,7 @@
     "ID": 293419648,
     "key": "Lost most of the company in a betrayal",
     "original": "Lost most of the company in a betrayal",
-    "translation": "在一次背叛中失去了大部分的战队同伴",
+    "translation": "在一次背叛中失去了大部分的战团同伴",
     "stage": 1
   },
   {

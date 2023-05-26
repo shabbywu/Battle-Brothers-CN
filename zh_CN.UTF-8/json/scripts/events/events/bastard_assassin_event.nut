@@ -32,7 +32,7 @@
     "ID": 293412651,
     "key": "An assassin tired of the killing life, %name% offered to join your company at a large price which you were quick to match. He is extremely skilled with a short-blade, twirling daggers around with more dexterity and control than some men have over their ow",
     "original": "An assassin tired of the killing life, %name% offered to join your company at a large price which you were quick to match. He is extremely skilled with a short-blade, twirling daggers around with more dexterity and control than some men have over their own fingers.",
-    "translation": "一个厌倦了杀戮生活的刺客，%name% 以你很快就能接受的高价提出加入了你的战队。 他非常熟练地使用短刃，旋转匕首，比某些人对自己手指的控制更灵巧。",
+    "translation": "一个厌倦了杀戮生活的刺客，%name% 以你很快就能接受的高价提出加入了你的战团。 他非常熟练地使用短刃，旋转匕首，比某些人对自己手指的控制更灵巧。",
     "stage": 1,
     "context": "_event.m.Assassin.getBackground().m.RawDescription = 'An assassin tired of the killing life, %name% offered to join your company at a large price which you were quick to match. He is extremely skilled with a short-blade, twirling daggers around with more dexterity and control than some men have over their own fingers.'"
   },
@@ -179,7 +179,7 @@
     "ID": 293412671,
     "key": "[img]gfx/ui/events/event_33.png[/img]While the %companyname% is doing well, it could be doing the best in the world and six-thousand crowns would still be a lot to ask for. But... you agree. The assassin hears your words and sits there for a moment.%SPEEC",
     "original": "[img]gfx/ui/events/event_33.png[/img]While the %companyname% is doing well, it could be doing the best in the world and six-thousand crowns would still be a lot to ask for. But... you agree. The assassin hears your words and sits there for a moment.%SPEECH_ON%You agree? You'll pay six-thousand crowns, really?%SPEECH_OFF%You nod. He mulls the words over for another moment, a slight break in an otherwise stalwart presentation he has been putting on.%SPEECH_ON%Gotta be honest, didn't think you'd do that. But a deal is a deal, and I am not one to playfully waste words.%SPEECH_OFF%He jets his hand out and you take it with a firm shake - just in case it is a ruse. He bows gracefully, no doubt something he learned in the halls of the noblemen that had sent him here in the first place.%SPEECH_ON%Captain of the %companyname%, you have my blade!%SPEECH_OFF%It'll take some explaining as to how a random man slipped into the company overnight, but the men have enough faith in your command that you could have recruited a sword-wielding goat and they would go along with it.",
-    "translation": "[img]gfx/ui/events/event_33.png[/img]虽然 %companyname% 运转的很好，它可能是世界上最好的，但六千克朗仍然是一个很高的要求。 但是…你同意了。刺客听到你的话，坐了一会儿。%SPEECH_ON%你同意了？你愿意出六千克朗，真的吗？%SPEECH_OFF%你点头。他把这些话又想了一会儿，这是他进行一场持续而坚定的演讲前的一个小停顿。%SPEECH_ON%老实说，我没想到你会那么做。 但协议就是协议，我不是那种会开玩笑而浪费言语的人。%SPEECH_OFF%他伸出手来，你坚定地握了一下－以防这是他的诡计。 他优雅地鞠躬，毫无疑问，这是他从最初派他来这里的贵族们那里学到的。%SPEECH_ON%%companyname% 的队长，我为你而战！%SPEECH_OFF%这需要解释一下，一个路人是如何在一个夜晚溜进战队的，但这些队员对你的指挥有着足够的信心，就算你招募一只挥舞着剑的山羊，他们也会追随你。",
+    "translation": "[img]gfx/ui/events/event_33.png[/img]虽然 %companyname% 运转的很好，它可能是世界上最好的，但六千克朗仍然是一个很高的要求。 但是…你同意了。刺客听到你的话，坐了一会儿。%SPEECH_ON%你同意了？你愿意出六千克朗，真的吗？%SPEECH_OFF%你点头。他把这些话又想了一会儿，这是他进行一场持续而坚定的演讲前的一个小停顿。%SPEECH_ON%老实说，我没想到你会那么做。 但协议就是协议，我不是那种会开玩笑而浪费言语的人。%SPEECH_OFF%他伸出手来，你坚定地握了一下－以防这是他的诡计。 他优雅地鞠躬，毫无疑问，这是他从最初派他来这里的贵族们那里学到的。%SPEECH_ON%%companyname% 的队长，我为你而战！%SPEECH_OFF%这需要解释一下，一个路人是如何在一个夜晚溜进战团的，但这些队员对你的指挥有着足够的信心，就算你招募一只挥舞着剑的山羊，他们也会追随你。",
     "stage": 1
   },
   {

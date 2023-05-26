@@ -136,7 +136,7 @@
     "ID": 293413723,
     "key": "Got humiliated in front of the company",
     "original": "Got humiliated in front of the company",
-    "translation": "在战队面前受到羞辱",
+    "translation": "在战团面前受到羞辱",
     "stage": 1
   }
 ]

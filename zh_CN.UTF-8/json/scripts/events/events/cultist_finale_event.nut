@@ -120,7 +120,7 @@
     "ID": 293413456,
     "key": "Somewhere along the road, this company took a wrong turn.",
     "original": "Somewhere along the road, this company took a wrong turn.",
-    "translation": "在路上的某个地方，战队走错了方向。",
+    "translation": "在路上的某个地方，战团走错了方向。",
     "stage": 1
   },
   {

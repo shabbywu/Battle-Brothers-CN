@@ -45,7 +45,7 @@
     "ID": 293413149,
     "key": "The company gained renown",
     "original": "The company gained renown",
-    "translation": "战队获得了声望",
+    "translation": "战团获得了声望",
     "stage": 1
   },
   {

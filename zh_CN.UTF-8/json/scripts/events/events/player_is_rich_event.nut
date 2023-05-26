@@ -18,7 +18,7 @@
     "ID": 293416571,
     "key": "[img]gfx/ui/events/event_04.png[/img]Over time, you've come to acquire a great deal of money. While you keep the war chest under lock and key, you can't help but notice a few brothers have gotten a bit greedier over the time they've spent in your company.",
     "original": "[img]gfx/ui/events/event_04.png[/img]Over time, you've come to acquire a great deal of money. While you keep the war chest under lock and key, you can't help but notice a few brothers have gotten a bit greedier over the time they've spent in your company. Now you hear rumors of the men demanding higher pay.",
-    "translation": "[img]gfx/ui/events/event_04.png[/img]一段时间之后，你挣了很大一笔钱。 虽然你仍然保持战利品箱妥善保管，但是你却注意到一些兄弟的贪婪心随着待在战队里的时间的延长而日益膨胀。 最近你开始听见一些关于伙计们要求涨薪的传言。",
+    "translation": "[img]gfx/ui/events/event_04.png[/img]一段时间之后，你挣了很大一笔钱。 虽然你仍然保持战利品箱妥善保管，但是你却注意到一些兄弟的贪婪心随着待在战团里的时间的延长而日益膨胀。 最近你开始听见一些关于伙计们要求涨薪的传言。",
     "stage": 1
   },
   {
@@ -39,7 +39,7 @@
     "ID": 293416574,
     "key": "[img]gfx/ui/events/event_04.png[/img]Preempting any sort of mutiny or raise requests, you announce that the group shall have a company-wide raise. Three crowns a day for everyone. As it turns out, the men are quite fond of this move and cheer your name wi",
     "original": "[img]gfx/ui/events/event_04.png[/img]Preempting any sort of mutiny or raise requests, you announce that the group shall have a company-wide raise. Three crowns a day for everyone. As it turns out, the men are quite fond of this move and cheer your name with a huzzah!",
-    "translation": "[img]gfx/ui/events/event_04.png[/img]为了防止任何形式的兵变或者要求提高待遇，你宣布整个战队都将有一次涨薪。 每个人每天将能多获得三克朗。 作为结果，伙计们对这次事件非常满意，开始热切地欢呼着你的名字！",
+    "translation": "[img]gfx/ui/events/event_04.png[/img]为了防止任何形式的兵变或者要求提高待遇，你宣布整个战团都将有一次涨薪。 每个人每天将能多获得三克朗。 作为结果，伙计们对这次事件非常满意，开始热切地欢呼着你的名字！",
     "stage": 1
   },
   {
@@ -61,7 +61,7 @@
     "ID": 293416577,
     "key": "[img]gfx/ui/events/event_05.png[/img]Before anyone gets any ideas, you step up before the whole company and announce that there will be no raises. As far as you are concerned, every man present signed the contract. Any prospect of earning more pay shall b",
     "original": "[img]gfx/ui/events/event_05.png[/img]Before anyone gets any ideas, you step up before the whole company and announce that there will be no raises. As far as you are concerned, every man present signed the contract. Any prospect of earning more pay shall be done by experience only, and that is only done by doing what sellswords do best: kill.",
-    "translation": "[img]gfx/ui/events/event_05.png[/img]在任何人发表意见的之前，你站到了战队面前，大声宣布不会有涨薪。 就你而言，在场的每个人都签了合同。 任何人对涨薪的要求只能基于他的资历，而这只能通过最适合佣兵来做的一件事来达成：杀戮。",
+    "translation": "[img]gfx/ui/events/event_05.png[/img]在任何人发表意见的之前，你站到了战团面前，大声宣布不会有涨薪。 就你而言，在场的每个人都签了合同。 任何人对涨薪的要求只能基于他的资历，而这只能通过最适合佣兵来做的一件事来达成：杀戮。",
     "stage": 1
   },
   {

@@ -39,7 +39,7 @@
     "ID": 293412521,
     "key": "Welcome to the company.",
     "original": "Welcome to the company.",
-    "translation": "欢迎加入战队。",
+    "translation": "欢迎加入战团。",
     "stage": 1
   },
   {
@@ -96,7 +96,7 @@
     "ID": 293412529,
     "key": "The company needs a mascot. Take it in.",
     "original": "The company needs a mascot. Take it in.",
-    "translation": "战队需要一只吉祥物，带上它。",
+    "translation": "战团需要一只吉祥物，带上它。",
     "stage": 1
   },
   {

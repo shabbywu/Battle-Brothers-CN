@@ -11,7 +11,7 @@
     "ID": 293419670,
     "key": "You crossed paths with %name% a number of times prior to his joining the company. First time you were both simple laborers. The second time you were sellswords. And now is the third go of it with him joining your company. If all goes well, he'll finally s",
     "original": "You crossed paths with %name% a number of times prior to his joining the company. First time you were both simple laborers. The second time you were sellswords. And now is the third go of it with him joining your company. If all goes well, he'll finally stick around this time and you'll both find the riches you seek.",
-    "translation": "在他加入战队之前，你曾多次与 %name% 有过交集。 第一次你们都是普通工人。 第二次你们是佣兵。 现在是第三次了，他加入了你的战队。 如果一切顺利的话，他这次会留下来，你们两个都会找到你们想要的财富。",
+    "translation": "在他加入战团之前，你曾多次与 %name% 有过交集。 第一次你们都是普通工人。 第二次你们是佣兵。 现在是第三次了，他加入了你的战团。 如果一切顺利的话，他这次会留下来，你们两个都会找到你们想要的财富。",
     "stage": 1,
     "context": "bros.2.getBackground().m.RawDescription = \"You crossed paths with %name% a number of times prior to his joining the company. First time you were both simple laborers. The second time you were sellswords. And now is the third go of it with him joining your company. If all goes well, he'll finally stick around this time and you'll both find the riches you seek.\""
   },
@@ -19,7 +19,7 @@
     "ID": 293419671,
     "key": "A New Company",
     "original": "A New Company",
-    "translation": "新战队",
+    "translation": "新战团",
     "stage": 1,
     "context": "this.m.Name = 'A New Company'"
   },
@@ -42,7 +42,7 @@
     "ID": 293419674,
     "key": "[p=c][img]gfx/ui/events/event_80.png[/img][/p][p]After years of bloodying your sword for meager pay, you've saved enough crowns to start your very own mercenary company. With you are three experienced mercenaries with whom you've fought side by side in th",
     "original": "[p=c][img]gfx/ui/events/event_80.png[/img][/p][p]After years of bloodying your sword for meager pay, you've saved enough crowns to start your very own mercenary company. With you are three experienced mercenaries with whom you've fought side by side in the shieldwall before.\n\n[color=#bcad8c]A quick start into the world, without any particular advantages or disadvantages.[/color][/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_80.png[/img][/p][p]多年来，你以微薄的报酬做着刀口舔血的工作，现在终于攒下来足够的克朗去组建一支你自己的佣兵战队了。 与你在一起的是三个经验丰富的佣兵，你以前曾与他们并肩战斗过。\n\n[color=#bcad8c]快速开始进入世界，没有任何特殊的优势或劣势。[/color][/p]",
+    "translation": "[p=c][img]gfx/ui/events/event_80.png[/img][/p][p]多年来，你以微薄的报酬做着刀口舔血的工作，现在终于攒下来足够的克朗去组建一支你自己的佣兵战团了。 与你在一起的是三个经验丰富的佣兵，你以前曾与他们并肩战斗过。\n\n[color=#bcad8c]快速开始进入世界，没有任何特殊的优势或劣势。[/color][/p]",
     "stage": 1,
     "context": "this.m.Description = \"[p=c][img]gfx/ui/events/event_80.png[/img][/p][p]After years of bloodying your sword for meager pay, you've saved enough crowns to start your very own mercenary company. With you are three experienced mercenaries with whom you've fought side by side in the shieldwall before.\n\n[color=#bcad8c]A quick start into the world, without any particular advantages or disadvantages.[/color][/p]\""
   }

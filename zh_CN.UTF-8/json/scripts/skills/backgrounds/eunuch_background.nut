@@ -25,7 +25,7 @@
     "ID": 293420950,
     "key": "The fact that eunuchs can't sire children is probably a secondary concern for a mercenary company.",
     "original": "The fact that eunuchs can't sire children is probably a secondary concern for a mercenary company.",
-    "translation": "太监不能生孩子这件事可能不是佣兵战队首要考虑的。",
+    "translation": "太监不能生孩子这件事可能不是佣兵战团首要考虑的。",
     "stage": 1,
     "context": "this.m.BackgroundDescription = \"The fact that eunuchs can't sire children is probably a secondary concern for a mercenary company.\""
   },

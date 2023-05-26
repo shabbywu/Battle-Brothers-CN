@@ -97,7 +97,7 @@
     "ID": 293414902,
     "key": "%terrainImage%{%chosen% confidently walks up toward the tree and the bees seem shunted away by his very presence. The noise of their fluttering thickens with angry vibrations, but otherwise they take no further offense. He carefully scoops some of the hon",
     "original": "%terrainImage%{%chosen% confidently walks up toward the tree and the bees seem shunted away by his very presence. The noise of their fluttering thickens with angry vibrations, but otherwise they take no further offense. He carefully scoops some of the honey into a jar and then eases back and steps away. He returns to the company.%SPEECH_ON%Easy peasy beehive squeezy, lads.%SPEECH_OFF%}",
-    "translation": "%terrainImage%{%chosen% 自信的走向树，蜜蜂好似被他的存在驱赶开一样。 它们的振翅声带着愤怒的震动越来越大了，但是除此之外他们没有发起攻击。 他小心的挖些蜂蜜到罐子里并后撤回来。 他回到战队里。%SPEECH_ON%轻而易举，小伙子们。%SPEECH_OFF%}",
+    "translation": "%terrainImage%{%chosen% 自信的走向树，蜜蜂好似被他的存在驱赶开一样。 它们的振翅声带着愤怒的震动越来越大了，但是除此之外他们没有发起攻击。 他小心的挖些蜂蜜到罐子里并后撤回来。 他回到战团里。%SPEECH_ON%轻而易举，小伙子们。%SPEECH_OFF%}",
     "stage": 1
   },
   {

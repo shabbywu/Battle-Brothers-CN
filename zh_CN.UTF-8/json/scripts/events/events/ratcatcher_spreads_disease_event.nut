@@ -19,7 +19,7 @@
     "ID": 293416633,
     "key": "[img]gfx/ui/events/event_18.png[/img]%ratcatcher% the ratcatcher has earned his old vocation's namesake: apparently he's been rounding up rats as your party has been traveling about. Tonight, they all escaped. Some of the food stocks needed to be thrown a",
     "original": "[img]gfx/ui/events/event_18.png[/img]%ratcatcher% the ratcatcher has earned his old vocation's namesake: apparently he's been rounding up rats as your party has been traveling about. Tonight, they all escaped. Some of the food stocks needed to be thrown away and a few men have fallen ill.",
-    "translation": "[img]gfx/ui/events/event_18.png[/img]%ratcatcher% 证明了他和他以前的职业名副其实：很显然他在跟着你的战队东奔西走的时候也在一直围捕老鼠。 而今晚，它们全都逃走了。 有些食物在事后不得不被扔掉，还有一些人生病了。",
+    "translation": "[img]gfx/ui/events/event_18.png[/img]%ratcatcher% 证明了他和他以前的职业名副其实：很显然他在跟着你的战团东奔西走的时候也在一直围捕老鼠。 而今晚，它们全都逃走了。 有些食物在事后不得不被扔掉，还有一些人生病了。",
     "stage": 1
   },
   {

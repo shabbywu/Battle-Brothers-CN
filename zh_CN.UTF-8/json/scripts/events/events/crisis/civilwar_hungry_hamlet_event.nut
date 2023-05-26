@@ -11,7 +11,7 @@
     "ID": 293413096,
     "key": "The company gained renown",
     "original": "The company gained renown",
-    "translation": "战队获得了声望",
+    "translation": "战团获得了声望",
     "stage": 1
   },
   {
@@ -54,7 +54,7 @@
     "ID": 293413102,
     "key": "The company loses renown",
     "original": "The company loses renown",
-    "translation": "战队失去了声望",
+    "translation": "战团失去了声望",
     "stage": 1
   },
   {

@@ -69,7 +69,7 @@
     "ID": 293416272,
     "key": "[img]gfx/ui/events/event_79.png[/img]While approaching %townname%, a local man waves you down. He's standing beside the skeleton of what appears to be a mill. Exasperated, he explains that his laborers didn't show up today and he needs to finish the mill ",
     "original": "[img]gfx/ui/events/event_79.png[/img]While approaching %townname%, a local man waves you down. He's standing beside the skeleton of what appears to be a mill. Exasperated, he explains that his laborers didn't show up today and he needs to finish the mill before a local baron arrives. If he doesn't finish it, the baron might not ever give him another contract. You do have a few former laborers in the company. Perhaps they can be used to help the man?",
-    "translation": "[img]gfx/ui/events/event_79.png[/img]当你们接近 %townname% 时，一个当地人朝你们挥手。 他站在一座磨坊的骨架旁。 他看起来非常生气，他解释说他的工人今天没有来但是他需要在当地一位男爵到来之前把磨坊完工。 如果他不能完成的话男爵可能就不会再给他一份合同了。 你的战队里面有些成员以前是工人。 也许可以叫他们来帮助这个人？",
+    "translation": "[img]gfx/ui/events/event_79.png[/img]当你们接近 %townname% 时，一个当地人朝你们挥手。 他站在一座磨坊的骨架旁。 他看起来非常生气，他解释说他的工人今天没有来但是他需要在当地一位男爵到来之前把磨坊完工。 如果他不能完成的话男爵可能就不会再给他一份合同了。 你的战团里面有些成员以前是工人。 也许可以叫他们来帮助这个人？",
     "stage": 1
   },
   {

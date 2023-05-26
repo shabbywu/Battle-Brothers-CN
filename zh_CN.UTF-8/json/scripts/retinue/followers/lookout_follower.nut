@@ -25,7 +25,7 @@
     "ID": 293419585,
     "key": "Having a quick Lookout with sharp eyes travel in advance of the company can prove invaluable in being aware of dangers and points of interests before others become aware of the company.",
     "original": "Having a quick Lookout with sharp eyes travel in advance of the company can prove invaluable in being aware of dangers and points of interests before others become aware of the company.",
-    "translation": "拥有一名行动迅速目光敏锐的观察员在战队前面探路，在其他人察觉到战队之前意识到危险，包括利益地点的发现都是极有用的。",
+    "translation": "拥有一名行动迅速目光敏锐的观察员在战团前面探路，在其他人察觉到战团之前意识到危险，包括利益地点的发现都是极有用的。",
     "stage": 1,
     "context": "this.m.Description = 'Having a quick Lookout with sharp eyes travel in advance of the company can prove invaluable in being aware of dangers and points of interests before others become aware of the company.'"
   },

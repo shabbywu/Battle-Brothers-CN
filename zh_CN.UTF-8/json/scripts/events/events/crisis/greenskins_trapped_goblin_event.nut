@@ -82,7 +82,7 @@
     "ID": 293413320,
     "key": "Best keep the company in shape for bigger threats.",
     "original": "Best keep the company in shape for bigger threats.",
-    "translation": "最好保持战队良好的状态，来应对更大的威胁。",
+    "translation": "最好保持战团良好的状态，来应对更大的威胁。",
     "stage": 1
   },
   {

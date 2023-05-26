@@ -90,7 +90,7 @@
     "ID": 293414583,
     "key": "[img]gfx/ui/events/event_170.png[/img]{You finish your drink and tell the man your time with him was all very interesting. He goes to shake your hand at which point you put the sword through him. The rest of the company joins in and the battle is as short",
     "original": "[img]gfx/ui/events/event_170.png[/img]{You finish your drink and tell the man your time with him was all very interesting. He goes to shake your hand at which point you put the sword through him. The rest of the company joins in and the battle is as short-lived as your sense of hospitality. The nomads have little worthwhile in their holding, but no one will know of what you've done here, though it's unlike they would care anyway.}",
-    "translation": "[img]gfx/ui/events/event_170.png[/img]{你喝完了饮料并告知和他一起的时间非常有趣。 他伸出手向你握手时你的剑刺穿了他。 战队的其他人也加入进来，战斗如同你的好客般短暂。 游牧民们没有什么值钱的东西，但是没人会知道你在这里做了什么，本身他们也不大可能在意。}",
+    "translation": "[img]gfx/ui/events/event_170.png[/img]{你喝完了饮料并告知和他一起的时间非常有趣。 他伸出手向你握手时你的剑刺穿了他。 战团的其他人也加入进来，战斗如同你的好客般短暂。 游牧民们没有什么值钱的东西，但是没人会知道你在这里做了什么，本身他们也不大可能在意。}",
     "stage": 1
   },
   {

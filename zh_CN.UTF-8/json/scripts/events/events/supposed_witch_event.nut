@@ -33,7 +33,7 @@
     "ID": 293416962,
     "key": "[img]gfx/ui/events/event_79.png[/img]You will not stand idly by while an innocent woman is burned for some imaginary crime. Blade in hand, you climb the wooden pallets and cut her free. She quickly scurries away, seeking her own safety. The crowd, enraged",
     "original": "[img]gfx/ui/events/event_79.png[/img]You will not stand idly by while an innocent woman is burned for some imaginary crime. Blade in hand, you climb the wooden pallets and cut her free. She quickly scurries away, seeking her own safety. The crowd, enraged, sets upon the company in an instant. A scuffle between peasants and sellswords ends poorly for the former, but they do put in some damage.\n\n For losing control of the crowd, you have the monk beaten up, and the man carrying the torch, too. A few of the brothers believe this was the right thing to do and are pleased with your decision.",
-    "translation": "[img]gfx/ui/events/event_79.png[/img]当一个无辜的女人因为虚构的罪行而被烧死时，你不会袖手旁观的。 手里拿着利刃，你爬上柴火堆，割断绳子救了她。 她急忙跑开，寻找安全的地点。 人群被激怒了，立刻向战队进攻。 农民和佣兵之间的混战对前者来说结局并不好，但却造成了一定的伤害。\n\n 因为失去了对人群的控制，你打了那个僧侣，还有那个拿火把的人。 有几个兄弟认为这么做是对的，他们很满意你的决定。",
+    "translation": "[img]gfx/ui/events/event_79.png[/img]当一个无辜的女人因为虚构的罪行而被烧死时，你不会袖手旁观的。 手里拿着利刃，你爬上柴火堆，割断绳子救了她。 她急忙跑开，寻找安全的地点。 人群被激怒了，立刻向战团进攻。 农民和佣兵之间的混战对前者来说结局并不好，但却造成了一定的伤害。\n\n 因为失去了对人群的控制，你打了那个僧侣，还有那个拿火把的人。 有几个兄弟认为这么做是对的，他们很满意你的决定。",
     "stage": 1
   },
   {

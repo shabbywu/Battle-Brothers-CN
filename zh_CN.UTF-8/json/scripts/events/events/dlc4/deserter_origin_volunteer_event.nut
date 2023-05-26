@@ -80,7 +80,7 @@
     "ID": 293414253,
     "key": "[img]gfx/ui/events/event_88.png[/img]{It would be almost satisfyingly ironic to string these men up and hang them for what they'd done, but you are not about to set that tone for the company. You welcome them to the band, sending them forth to the invento",
     "original": "[img]gfx/ui/events/event_88.png[/img]{It would be almost satisfyingly ironic to string these men up and hang them for what they'd done, but you are not about to set that tone for the company. You welcome them to the band, sending them forth to the inventory. %victim% keeps an eye on them for a time, but he reports that the men are true to their word and will fight.}",
-    "translation": "[img]gfx/ui/events/event_88.png[/img]{如果把他们用绳子挂起来并且吊死他们，因他们所做的那些事，那一定会及其的讽刺，但是你不打算让战队保持在那种氛围中。 你欢迎他们加入团队，并让他们接近物资。%victim% 盯着他们看了好一会儿，然后他报告说那些人说的是实话，他们将会为你战斗。}",
+    "translation": "[img]gfx/ui/events/event_88.png[/img]{如果把他们用绳子挂起来并且吊死他们，因他们所做的那些事，那一定会及其的讽刺，但是你不打算让战团保持在那种氛围中。 你欢迎他们加入团队，并让他们接近物资。%victim% 盯着他们看了好一会儿，然后他报告说那些人说的是实话，他们将会为你战斗。}",
     "stage": 1
   },
   {
@@ -95,7 +95,7 @@
     "ID": 293414255,
     "key": "Running from bounty hunters and executioners from some time, %name% bumped into your company on the road and promptly volunteered.",
     "original": "Running from bounty hunters and executioners from some time, %name% bumped into your company on the road and promptly volunteered.",
-    "translation": "一段时间以来，为了躲避赏金猎人和行刑者，%name% 在路上撞到了你的战队，并立即自愿加入。",
+    "translation": "一段时间以来，为了躲避赏金猎人和行刑者，%name% 在路上撞到了你的战团，并立即自愿加入。",
     "stage": 1,
     "context": "_event.m.Dude1.getBackground().m.RawDescription = 'Running from bounty hunters and executioners from some time, %name% bumped into your company on the road and promptly volunteered.'"
   },
@@ -117,7 +117,7 @@
     "ID": 293414258,
     "key": "[img]gfx/ui/events/event_05.png[/img]{It would be almost satisfyingly ironic to string these men up and hang them for what they'd done, but you are not about to set that tone for the company. You welcome them to the band, sending them forth to the invento",
     "original": "[img]gfx/ui/events/event_05.png[/img]{It would be almost satisfyingly ironic to string these men up and hang them for what they'd done, but you are not about to set that tone for the company. You welcome them to the band, sending them forth to the inventory with %victim% keeping an eye on them. Except you don't see your sellsword for a suspicious length of time. When you go looking, he's found knocked out on the ground and the inventory ransacked. The two men are nowhere to be seen!}",
-    "translation": "[img]gfx/ui/events/event_05.png[/img]{如果把他们用绳子挂起来并且吊死他们，因他们所做的那些事，那一定会及其的讽刺，但是你不打算让战队保持在那种氛围中。 你欢迎他们加入团队，并让他们接近物资，让 %victim% 盯着他们。 但你并没有保留一段用来怀疑的时间，并在这期间看住你的佣兵。 当你去看的时候，他被发现打昏在地上，物资都被洗劫了。 那两个人不知道去了哪里！}",
+    "translation": "[img]gfx/ui/events/event_05.png[/img]{如果把他们用绳子挂起来并且吊死他们，因他们所做的那些事，那一定会及其的讽刺，但是你不打算让战团保持在那种氛围中。 你欢迎他们加入团队，并让他们接近物资，让 %victim% 盯着他们。 但你并没有保留一段用来怀疑的时间，并在这期间看住你的佣兵。 当你去看的时候，他被发现打昏在地上，物资都被洗劫了。 那两个人不知道去了哪里！}",
     "stage": 1
   },
   {

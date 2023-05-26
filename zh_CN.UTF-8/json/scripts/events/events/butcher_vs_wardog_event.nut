@@ -25,7 +25,7 @@
     "ID": 293412789,
     "key": "Didn't get along with the company's wardogs",
     "original": "Didn't get along with the company's wardogs",
-    "translation": "与战队的战犬相处的不好",
+    "translation": "与战团的战犬相处的不好",
     "stage": 1
   }
 ]

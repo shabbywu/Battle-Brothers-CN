@@ -32,7 +32,7 @@
     "ID": 293416805,
     "key": "[img]gfx/ui/events/event_45.png[/img]Having acquired the map, you take a good long look at it. You take out your own map and start looking between the two. There's nothing on the purchased map that can be cross-referenced. In fact, the map you bought has ",
     "original": "[img]gfx/ui/events/event_45.png[/img]Having acquired the map, you take a good long look at it. You take out your own map and start looking between the two. There's nothing on the purchased map that can be cross-referenced. In fact, the map you bought has strange runes scribbled at the edges. It's either a recent fake, or it originated in a time when the common tongue was not your own. Either way, it seems very unusable.\n\n Just as you get ready to ball it up and throw it away, %historian% the historian walks up and gently takes it. He looks at the runes and begins nodding, running his finger along the edges before drawing them further inward, amongst the map's poorly drawn mountains and rivers and forests.%SPEECH_ON%Hmmm... Oh... Ah yes, I've read of this place before. And I know these runes, though I dare not speak them aloud.%SPEECH_OFF%He takes the company map and uses three quill pens pinched between his fingers to slowly triangulate and translate the directions. Finished, he nods and whacks the back of his hand against the company map.%SPEECH_ON%There, sir. That's where we'll find it.%SPEECH_OFF%",
-    "translation": "[img]gfx/ui/events/event_45.png[/img]得到这张地图后，你花了好长时间好好地查看。 你拿出自己的地图，开始在两者之间寻找。 购买的地图上没有任何可以相互参照的地方。 事实上，你买的地图边缘还乱画着奇怪的符文。 要么是最近的一个赝品，要么它起源于一个不是你的母语的时代。 不管怎样，它似乎非常没用。\n\n 就在你准备把它揉成一团扔掉的时候，%historian% 这个历史学家走了过来轻轻地把它捡了起来。 他看着符文，开始点头，用手指在边缘上划了划，然后再往里画，在地图上画得很差的山脉、河流和森林之间。%SPEECH_ON%哼…噢…啊，是的，我之前听说过这个地方。 我知道这些符文，虽然我不敢大声说出来。%SPEECH_OFF%他拿起战队的地图，用三支捏在手指间的羽毛笔慢慢地三角定位并翻译方向。 说完，他点了点头，用手背在战队的地图上敲了几下。%SPEECH_ON%在那里，先生。那就是我们要找的地方。%SPEECH_OFF%",
+    "translation": "[img]gfx/ui/events/event_45.png[/img]得到这张地图后，你花了好长时间好好地查看。 你拿出自己的地图，开始在两者之间寻找。 购买的地图上没有任何可以相互参照的地方。 事实上，你买的地图边缘还乱画着奇怪的符文。 要么是最近的一个赝品，要么它起源于一个不是你的母语的时代。 不管怎样，它似乎非常没用。\n\n 就在你准备把它揉成一团扔掉的时候，%historian% 这个历史学家走了过来轻轻地把它捡了起来。 他看着符文，开始点头，用手指在边缘上划了划，然后再往里画，在地图上画得很差的山脉、河流和森林之间。%SPEECH_ON%哼…噢…啊，是的，我之前听说过这个地方。 我知道这些符文，虽然我不敢大声说出来。%SPEECH_OFF%他拿起战团的地图，用三支捏在手指间的羽毛笔慢慢地三角定位并翻译方向。 说完，他点了点头，用手背在战团的地图上敲了几下。%SPEECH_ON%在那里，先生。那就是我们要找的地方。%SPEECH_OFF%",
     "stage": 1
   },
   {
@@ -46,7 +46,7 @@
     "ID": 293416807,
     "key": "Let's claim it for the company!",
     "original": "Let's claim it for the company!",
-    "translation": "这就是战队的财产！",
+    "translation": "这就是战团的财产！",
     "stage": 1
   },
   {

@@ -121,7 +121,7 @@
     "ID": 293414697,
     "key": "%terrainImage%{%brother% walks forward with his weapon in hand. The snake rears up and the man stabs it clean through, instantly killing the creature. He holds it up at the end of his steel, wriggling its flesh before tossing it aside.%SPEECH_ON%Easiest p",
     "original": "%terrainImage%{%brother% walks forward with his weapon in hand. The snake rears up and the man stabs it clean through, instantly killing the creature. He holds it up at the end of his steel, wriggling its flesh before tossing it aside.%SPEECH_ON%Easiest pay I've ever had.%SPEECH_OFF%He says as the treasure is taken into the company's inventory.}",
-    "translation": "%terrainImage%{%brother% 拿着他的武器走上前。 蛇弓起身然后他干净利落的捅过了它，瞬间杀死了这个生物。 他用剑的末端举起它，扭了一下后将它丢到一旁。%SPEECH_ON%我接过最轻松的活。%SPEECH_OFF%他说着这笔财富便被收入战队的仓库。}",
+    "translation": "%terrainImage%{%brother% 拿着他的武器走上前。 蛇弓起身然后他干净利落的捅过了它，瞬间杀死了这个生物。 他用剑的末端举起它，扭了一下后将它丢到一旁。%SPEECH_ON%我接过最轻松的活。%SPEECH_OFF%他说着这笔财富便被收入战团的仓库。}",
     "stage": 1
   },
   {

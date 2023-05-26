@@ -54,7 +54,7 @@
     "ID": 293417238,
     "key": "The company backed down from a fight",
     "original": "The company backed down from a fight",
-    "translation": "战队在一场战斗中退缩了",
+    "translation": "战团在一场战斗中退缩了",
     "stage": 1
   },
   {
@@ -68,7 +68,7 @@
     "ID": 293417240,
     "key": "Fine, the company will cover the damages.",
     "original": "Fine, the company will cover the damages.",
-    "translation": "好吧，战队会赔偿的。",
+    "translation": "好吧，战团会赔偿的。",
     "stage": 1
   },
   {
@@ -118,7 +118,7 @@
     "ID": 293417247,
     "key": "Fine, the company will cover the damages - but %wildman% will work it off.",
     "original": "Fine, the company will cover the damages - but %wildman% will work it off.",
-    "translation": "好吧，战队会赔偿－费用由 %wildman% 自己负担。",
+    "translation": "好吧，战团会赔偿－费用由 %wildman% 自己负担。",
     "stage": 1
   },
   {

@@ -18,7 +18,7 @@
     "ID": 293416240,
     "key": "[img]gfx/ui/events/event_12.png[/img]You walk directly toward the captain, stopping halfway between your men and his. With your fists to your hips, you call out to the captain's lawmen, asking if they know the name of the %companyname%. You see a few of t",
     "original": "[img]gfx/ui/events/event_12.png[/img]You walk directly toward the captain, stopping halfway between your men and his. With your fists to your hips, you call out to the captain's lawmen, asking if they know the name of the %companyname%. You see a few of the riders shift up on their saddles, balancing tented arms on their pommels as they stare intently at your banner. They quickly sit back down and hushed whispers trickle down and back up their battle line.\n\nOne man calls out, asking if it's true that you shorn the noses of those you slay. It is not true, but you've no reason to spill the truth. Another man asks if %randombrother% is in your ranks, and if he has a necklace of ears and eats bonemeal for breakfast. You stifle the urge to laugh, only nodding in return. Quite naturally, the rumors overtake your opponents and they begin to cry out that this fight is not theirs to have.\n\nThe captain tells them that you're full of shit and to charge, but none follow his orders. Eventually, the captain is forced to turn back, heading after his men who are now in retreat.\n\nThe supposed cannibal-brother walks up, scratching his head.%SPEECH_ON%Bonemeal for breakfast?%SPEECH_OFF%A crackle of laughter rips through the company and soon a chant of 'don't eat me!' is to be had.",
-    "translation": "[img]gfx/ui/events/event_12.png[/img]你径直向这个队长走去，最后停在了你的人和他之间。 你把拳头放在屁股上，向那位执法者队长大喊，问他们是否知道 %companyname% 大名。你可以看到一些骑手在马鞍上移动着不安的身体，他们看着你的旗帜并且用手撑住马鞍保持平衡。 他们很快平静下来低声细语从他们的队伍中传出来。\n\n有一个人大喊着，问你是否真的剪掉了那些被你杀死的人的鼻子。 这当然不是真的，但是你却没理由去反驳他们述说的真实。 另一个人问 %randombrother% 是否在你的队伍中，并且他是否有一条耳朵项链而早餐是否吃人骨。 你抑制住了想笑的冲动，只是点头回应。 很自然地，谣言击垮了你的对手他们开始大叫着不想参与这场战斗。\n\n他们的队长告诉他们你们就是狗屎没有什么好怕的只要一冲锋就可以解决你们，但没有人听从他的命令。 最终，那名队长被迫折回，向他现在正在撤退的部队追去。\n\n被认为是食人族的兄弟挠了挠头走了过来。%SPEECH_ON%早餐吃人骨头？%SPEECH_OFF%一阵爆笑撕裂了整个战队很快就有一声非常应景的“不要吃我！”",
+    "translation": "[img]gfx/ui/events/event_12.png[/img]你径直向这个队长走去，最后停在了你的人和他之间。 你把拳头放在屁股上，向那位执法者队长大喊，问他们是否知道 %companyname% 大名。你可以看到一些骑手在马鞍上移动着不安的身体，他们看着你的旗帜并且用手撑住马鞍保持平衡。 他们很快平静下来低声细语从他们的队伍中传出来。\n\n有一个人大喊着，问你是否真的剪掉了那些被你杀死的人的鼻子。 这当然不是真的，但是你却没理由去反驳他们述说的真实。 另一个人问 %randombrother% 是否在你的队伍中，并且他是否有一条耳朵项链而早餐是否吃人骨。 你抑制住了想笑的冲动，只是点头回应。 很自然地，谣言击垮了你的对手他们开始大叫着不想参与这场战斗。\n\n他们的队长告诉他们你们就是狗屎没有什么好怕的只要一冲锋就可以解决你们，但没有人听从他的命令。 最终，那名队长被迫折回，向他现在正在撤退的部队追去。\n\n被认为是食人族的兄弟挠了挠头走了过来。%SPEECH_ON%早餐吃人骨头？%SPEECH_OFF%一阵爆笑撕裂了整个战团很快就有一声非常应景的“不要吃我！”",
     "stage": 1
   },
   {
@@ -40,7 +40,7 @@
     "ID": 293416243,
     "key": "The company would only suffer if we fought over this. The man is yours.",
     "original": "The company would only suffer if we fought over this. The man is yours.",
-    "translation": "如果我们为此事而斗争，战队就会遭殃。 这个人是你的。",
+    "translation": "如果我们为此事而斗争，战团就会遭殃。 这个人是你的。",
     "stage": 1
   },
   {
@@ -68,7 +68,7 @@
     "ID": 293416247,
     "key": "Was protected by the company",
     "original": "Was protected by the company",
-    "translation": "受到战队的保护",
+    "translation": "受到战团的保护",
     "stage": 1
   },
   {
@@ -132,7 +132,7 @@
     "ID": 293416256,
     "key": " has left the company",
     "original": " has left the company",
-    "translation": "离开了战队",
+    "translation": "离开了战团",
     "stage": 1,
     "context": "_event.m.Criminal.getName() + ' has left the company'"
   },

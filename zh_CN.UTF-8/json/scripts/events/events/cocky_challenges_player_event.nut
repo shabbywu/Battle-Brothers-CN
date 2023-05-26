@@ -74,14 +74,14 @@
     "ID": 293412869,
     "key": "I'm in charge here! This is my company!",
     "original": "I'm in charge here! This is my company!",
-    "translation": "这里我说了算！ 这是我的战队！",
+    "translation": "这里我说了算！ 这是我的战团！",
     "stage": 1
   },
   {
     "ID": 293412870,
     "key": "Felt humiliated in front of the company",
     "original": "Felt humiliated in front of the company",
-    "translation": "在战队面前感到丢脸",
+    "translation": "在战团面前感到丢脸",
     "stage": 1
   },
   {
@@ -95,7 +95,7 @@
     "ID": 293412872,
     "key": "[img]gfx/ui/events/event_26.png[/img]While joining the company at a campfire, %cocky% stands up and speaks with reddened face.%SPEECH_ON%I don't know about the rest of you sad clods, but I think I could run this camp better than anyone! Especially better ",
     "original": "[img]gfx/ui/events/event_26.png[/img]While joining the company at a campfire, %cocky% stands up and speaks with reddened face.%SPEECH_ON%I don't know about the rest of you sad clods, but I think I could run this camp better than anyone! Especially better than him!%SPEECH_OFF%He points a finger at you.\n\nYou take a seat. The men are staring at you, waiting for a response.",
-    "translation": "[img]gfx/ui/events/event_26.png[/img]在篝火旁加入战队时，%cocky% 站起来，满脸通红地说话。%SPEECH_ON%我不知道你们这些可怜虫怎么想，但我想我比任何人都能更好地管理这个队伍！ 尤其是比他好！%SPEECH_OFF%他用手指着你。\n\n你在他旁边坐了下来。他盯着你, 等待着你的回答。",
+    "translation": "[img]gfx/ui/events/event_26.png[/img]在篝火旁加入战团时，%cocky% 站起来，满脸通红地说话。%SPEECH_ON%我不知道你们这些可怜虫怎么想，但我想我比任何人都能更好地管理这个队伍！ 尤其是比他好！%SPEECH_OFF%他用手指着你。\n\n你在他旁边坐了下来。他盯着你, 等待着你的回答。",
     "stage": 1
   }
 ]

@@ -127,7 +127,7 @@
     "ID": 293412850,
     "key": "[img]gfx/ui/events/event_97.png[/img]You doubt that you can talk the fervor out of these kids, but if your pop's parenting is anything to go by you can probably beat it out of them. With a swift order, you have the company set upon the kids, knocking them",
     "original": "[img]gfx/ui/events/event_97.png[/img]You doubt that you can talk the fervor out of these kids, but if your pop's parenting is anything to go by you can probably beat it out of them. With a swift order, you have the company set upon the kids, knocking them around and taking their stuff. The little leader tries to spear a sellsword and gets cold cocked for his troubles.\n\n This isn't the prettiest of things to do and it'd look really bad if anyone saw the company beating up children, but this 'end' to their crusade is preferable to the nastier sorts that await them on the road.",
-    "translation": "[img]gfx/ui/events/event_97.png[/img]你不相信你能说服这些孩子，但是如果你爸爸的教育方式可以作为参考的话，你很可能揍他们一顿。 你迅速下了命令，让同伴们袭击孩子们，把他们打倒在地，拿走他们的东西。 小领袖试图用长矛刺向佣兵，却因为自己惹麻烦而被打得鼻青鼻肿。\n\n 这不是最好的解决方法，如果有人看到战队打孩子，那真是太糟糕了，但是这样“结束”他们的十字军远征远比他们在路上再遇麻烦要好。",
+    "translation": "[img]gfx/ui/events/event_97.png[/img]你不相信你能说服这些孩子，但是如果你爸爸的教育方式可以作为参考的话，你很可能揍他们一顿。 你迅速下了命令，让同伴们袭击孩子们，把他们打倒在地，拿走他们的东西。 小领袖试图用长矛刺向佣兵，却因为自己惹麻烦而被打得鼻青鼻肿。\n\n 这不是最好的解决方法，如果有人看到战团打孩子，那真是太糟糕了，但是这样“结束”他们的十字军远征远比他们在路上再遇麻烦要好。",
     "stage": 1
   },
   {

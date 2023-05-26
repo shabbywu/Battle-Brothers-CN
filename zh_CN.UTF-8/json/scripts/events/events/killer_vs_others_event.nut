@@ -98,7 +98,7 @@
     "ID": 293416228,
     "key": "Was beaten up by men of the company",
     "original": "Was beaten up by men of the company",
-    "translation": "被战队的人打了",
+    "translation": "被战团的人打了",
     "stage": 1
   },
   {
@@ -112,7 +112,7 @@
     "ID": 293416230,
     "key": "[img]gfx/ui/events/event_02.png[/img]You order the man hanged. Half the company cheers and %killerontherun% screams a shriek rather suitable for seeing death ordered to his side. They drag the man beneath a tree. Ropes are thrown up over the branches, aga",
     "original": "[img]gfx/ui/events/event_02.png[/img]You order the man hanged. Half the company cheers and %killerontherun% screams a shriek rather suitable for seeing death ordered to his side. They drag the man beneath a tree. Ropes are thrown up over the branches, again and again, looping and drawing taut. One man ties a noose while the others cheer and clap and drink beer. A stool is placed and the condemned man is forced to stand on it. As %killerontherun%'s head is put into the noose, he says he has a word for all of you, but whatever he has to say is cut off when %otherguy1% kicks the stool out from beneath him.\n\nThis is not a good way to die. It is by an executioner's hand or means. Ordinarily a man dropped from a platform breaks his neck, or is even decapitated. This man hangs choking and kicking. You hear some screams in his lungs, but they struggle to get past his throat. A few minutes pass and he is still fighting. %otherguy2% steps over to the dying man, grabbing one of his jerking feet to keep him still, and with his free hand he stabs %killerontherun% in the heart. And that was that.\n\n{Surprisingly, the brothers agree to cut the man down and bury him. | The man is left hanging there when the company's march begins anew.}",
-    "translation": "[img]gfx/ui/events/event_02.png[/img]你将这个人判处以绞刑。 战队里面有一半的人在欢呼而 %killerontherun% 听到你下的命令以后适时的发出了尖叫。 他们把那个人拖到树下。 绳子被扔到树枝上，缠了一圈又一圈，往下一拉收紧它。 一个人绑好绞索而其他人则欢呼、鼓掌、喝啤酒。 凳子放好了死刑犯被迫站在凳子上。 当 %killerontherun%的头被放进绞索里面以后，他说他有些话想对你们所有人说，但是 %otherguy1% 从他下面踢出凳子他要说的话就被打断了。\n\n这可不是一个好的死法。 这个经常出现在行刑者手上或者他的表演单上。 通常从平台上掉下来的人会摔断脖子，甚至直接被斩首。 这个人喘不过气来不停地踢腿。 你可以听见他的肺发出像坏掉的鼓风箱一样的声音，但是那些新鲜的空气很难通过他的喉咙。 几分钟过去了他还在挣扎。%otherguy2% 走到这个垂死的人身边，抓住他抽搐的一只脚不让他动，然后用另一只手刺向 %killerontherun% 的心脏。就这样。\n\n{令人惊讶的是，这兄弟俩同意把这个人从树上解下来埋了。 | 当战队的旅程重新开始时，这个人被留在那里。}",
+    "translation": "[img]gfx/ui/events/event_02.png[/img]你将这个人判处以绞刑。 战团里面有一半的人在欢呼而 %killerontherun% 听到你下的命令以后适时的发出了尖叫。 他们把那个人拖到树下。 绳子被扔到树枝上，缠了一圈又一圈，往下一拉收紧它。 一个人绑好绞索而其他人则欢呼、鼓掌、喝啤酒。 凳子放好了死刑犯被迫站在凳子上。 当 %killerontherun%的头被放进绞索里面以后，他说他有些话想对你们所有人说，但是 %otherguy1% 从他下面踢出凳子他要说的话就被打断了。\n\n这可不是一个好的死法。 这个经常出现在行刑者手上或者他的表演单上。 通常从平台上掉下来的人会摔断脖子，甚至直接被斩首。 这个人喘不过气来不停地踢腿。 你可以听见他的肺发出像坏掉的鼓风箱一样的声音，但是那些新鲜的空气很难通过他的喉咙。 几分钟过去了他还在挣扎。%otherguy2% 走到这个垂死的人身边，抓住他抽搐的一只脚不让他动，然后用另一只手刺向 %killerontherun% 的心脏。就这样。\n\n{令人惊讶的是，这兄弟俩同意把这个人从树上解下来埋了。 | 当战团的旅程重新开始时，这个人被留在那里。}",
     "stage": 1
   },
   {

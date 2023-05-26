@@ -34,7 +34,7 @@
     "ID": 293419640,
     "key": "Southern traders are renowned for their bartering skills. Lucky you that you could convince one such master of haggling to join your company. And at such a bargain!",
     "original": "Southern traders are renowned for their bartering skills. Lucky you that you could convince one such master of haggling to join your company. And at such a bargain!",
-    "translation": "南方商人以他们的易货技巧而闻名。 你真幸运，你能说服这样一位讨价还价的高手加入你的战队。 这么便宜！",
+    "translation": "南方商人以他们的易货技巧而闻名。 你真幸运，你能说服这样一位讨价还价的高手加入你的战团。 这么便宜！",
     "stage": 1,
     "context": "this.m.Description = 'Southern traders are renowned for their bartering skills. Lucky you that you could convince one such master of haggling to join your company. And at such a bargain!'"
   }

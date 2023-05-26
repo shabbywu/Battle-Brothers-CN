@@ -27,7 +27,7 @@
     "ID": 293412563,
     "key": "[img]gfx/ui/events/event_05.png[/img]%teacher% the unretired soldier has taking a liking to %apprentice%. You find the two practicing their craft whenever possible. The old grunt believes in the value of the offensive, showing the apprentice how to turn a",
     "original": "[img]gfx/ui/events/event_05.png[/img]%teacher% the unretired soldier has taking a liking to %apprentice%. You find the two practicing their craft whenever possible. The old grunt believes in the value of the offensive, showing the apprentice how to turn a blade, axe, or mace in such a manner that it inflicts the most damage. Unfortunately, they are using the company dining equipment to set up little dolls to beat up. The young lad has certainly made a mess of those pots and pans in his continuous pursuit of being a better fighter.",
-    "translation": "[img]gfx/ui/events/event_05.png[/img]%teacher% 这位未退役的士兵很欣赏 %apprentice%。你就会发现他们俩抽空就在练习他们的武艺。 这老战士熟知进攻的技巧，教学徒如何舞动刀刃，斧头或狼牙棒，使之造成最大的伤害。 不幸的是，他们继续使用战队的餐具作为练习的武器战斗。 这个年轻的小伙子为了继续追求成为一个更好的战士，把那些锅碗瓢盆都弄得一塌糊涂。",
+    "translation": "[img]gfx/ui/events/event_05.png[/img]%teacher% 这位未退役的士兵很欣赏 %apprentice%。你就会发现他们俩抽空就在练习他们的武艺。 这老战士熟知进攻的技巧，教学徒如何舞动刀刃，斧头或狼牙棒，使之造成最大的伤害。 不幸的是，他们继续使用战团的餐具作为练习的武器战斗。 这个年轻的小伙子为了继续追求成为一个更好的战士，把那些锅碗瓢盆都弄得一塌糊涂。",
     "stage": 1
   },
   {

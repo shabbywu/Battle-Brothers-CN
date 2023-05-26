@@ -200,7 +200,7 @@
     "ID": 293422828,
     "key": "Are you sure you want to quit this battle and thereby forfeit your ironman run and retire from your company?\n\nYour save will be deleted and you won't be able to continue.",
     "original": "Are you sure you want to quit this battle and thereby forfeit your ironman run and retire from your company?\n\nYour save will be deleted and you won't be able to continue.",
-    "translation": "你确定你想退出这场战斗，从而失去你的铁人模式和退出你的战队？\n\n你的存档将被删除，你将无法继续。",
+    "translation": "你确定你想退出这场战斗，从而失去你的铁人模式和退出你的战团？\n\n你的存档将被删除，你将无法继续。",
     "stage": 1
   },
   {
