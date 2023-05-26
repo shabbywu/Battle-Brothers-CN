@@ -3,8 +3,8 @@
     "ID": 293421404,
     "key": "Can not be reduced to Fleeing morale, only Breaking",
     "original": "Can not be reduced to Fleeing morale, only Breaking",
-    "translation": "只能使士气崩溃，不能使其逃跑。",
-    "stage": 1
+    "translation": "士气无法降低至溃逃，只能达到瓦解",
+    "stage": 5
   },
   {
     "ID": 293421405,

@@ -10,7 +10,7 @@
     "ID": 293414623,
     "key": "[img]gfx/ui/events/event_12.png[/img]{You draw your sword and order the company to make short work of the cultists. They are set upon with ease, the cultists not even so much as raising a hand to resist their own demise. A survivor coughs as he lets an op",
     "original": "[img]gfx/ui/events/event_12.png[/img]{You draw your sword and order the company to make short work of the cultists. They are set upon with ease, the cultists not even so much as raising a hand to resist their own demise. A survivor coughs as he lets an open wound bleed. He holds his hand out as if to show you your handiwork.%SPEECH_ON%With all your hard work you cannot buy time, sellsword. Davkul awaits us all.%SPEECH_OFF%You take your dagger out and end the man. You kick his body over and loot it, as well as the other corpses, though not much is to be found.}",
-    "translation": "[img]gfx/ui/events/event_12.png[/img]{你拔出你的剑并命令队伍快速解决这些异教徒。 他们坦然的接受了，异教徒甚至不举手抵抗他们自己的死亡。 一个幸存者任由伤口流血咳嗽了起来。 他伸出他的手好似要给你展示你的所作所为。%SPEECH_ON%你的一切努力都不能争取更多时间，佣兵。 达库尔即将降临到我们。%SPEECH_OFF%你拿出你的匕首了结了他。 你踢开他的尸体并搜刮了一番，尽管没找到什么有用的东西。}",
+    "translation": "[img]gfx/ui/events/event_12.png[/img]{你拔出你的剑并命令队伍快速解决这些邪教徒。 他们坦然的接受了，邪教徒甚至不举手抵抗他们自己的死亡。 一个幸存者任由伤口流血咳嗽了起来。 他伸出他的手好似要给你展示你的所作所为。%SPEECH_ON%你的一切努力都不能争取更多时间，佣兵。 达库尔即将降临到我们。%SPEECH_OFF%你拿出你的匕首了结了他。 你踢开他的尸体并搜刮了一番，尽管没找到什么有用的东西。}",
     "stage": 1
   },
   {

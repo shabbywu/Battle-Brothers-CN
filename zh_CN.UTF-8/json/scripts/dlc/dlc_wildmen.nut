@@ -3,7 +3,7 @@
     "ID": 293410215,
     "key": "With the 'Cultists' origin your god will demand sacrifices from you, but also bestow boons upon those loyal to him.",
     "original": "With the 'Cultists' origin your god will demand sacrifices from you, but also bestow boons upon those loyal to him.",
-    "translation": "选择“异教徒”出身，你的神将要求你献祭，但也会赐予那些忠诚于祂的人好处。",
+    "translation": "选择“邪教徒”出身，你的神将要求你献祭，但也会赐予那些忠诚于祂的人好处。",
     "stage": 1
   },
   {

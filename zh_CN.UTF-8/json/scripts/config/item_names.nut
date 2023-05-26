@@ -3258,8 +3258,8 @@
     "ID": 293405334,
     "key": "Unbreakable",
     "original": "Unbreakable",
-    "translation": "不破的",
-    "stage": 1
+    "translation": "坚不可摧的",
+    "stage": 5
   },
   {
     "ID": 293405335,

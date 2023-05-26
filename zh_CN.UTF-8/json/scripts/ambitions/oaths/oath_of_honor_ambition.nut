@@ -19,8 +19,8 @@
     "ID": 293403662,
     "key": "Your men start battle at Confident morale.",
     "original": "Your men start battle at Confident morale.",
-    "translation": "你的所有战团成员将以自信士气开始战斗。",
-    "stage": 1,
+    "translation": "你的人将以自信士气开始战斗。",
+    "stage": 5,
     "context": "this.m.OathBoonText = 'Your men start battle at Confident morale.'"
   },
   {

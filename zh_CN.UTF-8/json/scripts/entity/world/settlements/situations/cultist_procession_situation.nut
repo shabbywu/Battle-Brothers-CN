@@ -3,7 +3,7 @@
     "ID": 293411708,
     "key": "Cultist Procession",
     "original": "Cultist Procession",
-    "translation": "异教徒游行",
+    "translation": "邪教徒游行",
     "stage": 1,
     "context": "this.m.Name = 'Cultist Procession'"
   },
@@ -11,7 +11,7 @@
     "ID": 293411709,
     "key": "There's a procession of cultists going through the city; a steady stream of people seemingly manifested themselves out of thin air and now slowly makes their way along the main roads. Clad in muted colors they ring bells and chant monotonously the name of",
     "original": "There's a procession of cultists going through the city; a steady stream of people seemingly manifested themselves out of thin air and now slowly makes their way along the main roads. Clad in muted colors they ring bells and chant monotonously the name of Davkul.",
-    "translation": "有一队异教徒穿过城市；源源不断的人似乎凭空出现，现在慢慢地沿着主要道路前进。他们身着柔和的色彩，敲响铃铛，单调地吟唱着达库尔的名字。",
+    "translation": "有一队邪教徒穿过城市；源源不断的人似乎凭空出现，现在慢慢地沿着主要道路前进。他们身着柔和的色彩，敲响铃铛，单调地吟唱着达库尔的名字。",
     "stage": 1,
     "context": "this.m.Description = \"There's a procession of cultists going through the city; a steady stream of people seemingly manifested themselves out of thin air and now slowly makes their way along the main roads. Clad in muted colors they ring bells and chant monotonously the name of Davkul.\""
   },
@@ -34,7 +34,7 @@
     "ID": 293411712,
     "key": "%settlement% is swarming with strange cultists, they are surely up to no good! Somebody should send the witch hunters their way, I'd say!",
     "original": "%settlement% is swarming with strange cultists, they are surely up to no good! Somebody should send the witch hunters their way, I'd say!",
-    "translation": "%settlement% 到处都是奇怪的异教徒，他们肯定在干坏事！我得说，应该有人把女巫猎人送过去！",
+    "translation": "%settlement% 到处都是奇怪的邪教徒，他们肯定在干坏事！我得说，应该有人把女巫猎人送过去！",
     "stage": 1
   },
   {
