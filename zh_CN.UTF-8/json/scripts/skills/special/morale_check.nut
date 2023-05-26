@@ -11,8 +11,8 @@
     "ID": 293422267,
     "key": "We'll be victorious! This character is confident that victory will be his.",
     "original": "We'll be victorious! This character is confident that victory will be his.",
-    "translation": "我们会胜利的！ 这个角色相信胜利将是他的。",
-    "stage": 1
+    "translation": "我们会胜利的！这个角色自信胜利将属于他。",
+    "stage": 5
   },
   {
     "ID": 293422268,
@@ -50,8 +50,8 @@
     "ID": 293422272,
     "key": "Uh oh. This character is wavering and unsure if the battle will turn out to his advantage.",
     "original": "Uh oh. This character is wavering and unsure if the battle will turn out to his advantage.",
-    "translation": "呃，哦。 这个角色摇摆不定，不确定这场战斗是否会对他有利。",
-    "stage": 1
+    "translation": "呃，哦。这个角色摇摆不定，不确定这场战斗是否会对他有利。",
+    "stage": 5
   },
   {
     "ID": 293422273,
@@ -65,8 +65,8 @@
     "ID": 293422274,
     "key": "Run for your lives! This character has lost it and is fleeing the battlefield in panic.",
     "original": "Run for your lives! This character has lost it and is fleeing the battlefield in panic.",
-    "translation": "逃命吧！ 这个角色已经不知所措了，正惊慌失措地逃离战场。",
-    "stage": 1
+    "translation": "逃命吧！这个角色失去理智了，正在恐慌地逃离战场。",
+    "stage": 5
   },
   {
     "ID": 293422275,
@@ -159,8 +159,8 @@
     "ID": 293422286,
     "key": "We can't win this! This character's morale is breaking and he is close to fleeing the battlefield.",
     "original": "We can't win this! This character's morale is breaking and he is close to fleeing the battlefield.",
-    "translation": "我们赢不了！ 这个角色的士气正在崩溃，他很快就要逃离战场了。",
-    "stage": 1
+    "translation": "我们赢不了！这个角色的士气正在瓦解，他很快就要逃离战场了。",
+    "stage": 5
   },
   {
     "ID": 293422287,

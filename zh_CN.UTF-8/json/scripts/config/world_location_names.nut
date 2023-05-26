@@ -402,7 +402,7 @@
     "ID": 293407040,
     "key": "Secret Halls of the Occultist",
     "original": "Secret Halls of the Occultist",
-    "translation": "异教徒的隐秘大厅",
+    "translation": "邪教徒的隐秘大厅",
     "stage": 1
   },
   {

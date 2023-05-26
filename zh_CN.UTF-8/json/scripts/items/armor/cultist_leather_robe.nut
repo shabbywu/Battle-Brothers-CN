@@ -11,7 +11,7 @@
     "ID": 293417615,
     "key": "Cultist Leather Robe",
     "original": "Cultist Leather Robe",
-    "translation": "异教徒皮袍",
+    "translation": "邪教徒皮袍",
     "stage": 1,
     "context": "this.m.Name = 'Cultist Leather Robe'"
   }

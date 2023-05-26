@@ -3,7 +3,7 @@
     "ID": 293418043,
     "key": "Cultist Hood",
     "original": "Cultist Hood",
-    "translation": "异教徒兜帽",
+    "translation": "邪教徒兜帽",
     "stage": 1,
     "context": "this.m.Name = 'Cultist Hood'"
   },

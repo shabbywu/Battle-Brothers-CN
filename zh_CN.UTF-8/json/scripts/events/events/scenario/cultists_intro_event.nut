@@ -3,7 +3,7 @@
     "ID": 293416727,
     "key": "The Cultists",
     "original": "The Cultists",
-    "translation": "异教徒",
+    "translation": "邪教徒",
     "stage": 1,
     "context": "this.m.Title = 'The Cultists'"
   },

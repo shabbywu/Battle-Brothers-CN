@@ -1027,7 +1027,7 @@
     "key": "Random Late Game Crisis",
     "original": "Random Late Game Crisis",
     "translation": "随机游戏后期危机",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423096,
@@ -2021,8 +2021,8 @@
     "ID": 293423233,
     "key": "The name your mercenary company will be known by throughout the lands.",
     "original": "The name your mercenary company will be known by throughout the lands.",
-    "translation": "你的佣兵战团的名字将在各地广为人知。。",
-    "stage": 1
+    "translation": "你的佣兵战团的名字将响彻大地。",
+    "stage": 5
   },
   {
     "ID": 293423234,

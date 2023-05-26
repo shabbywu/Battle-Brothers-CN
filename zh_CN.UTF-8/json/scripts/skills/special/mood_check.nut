@@ -86,7 +86,7 @@
     "key": "Can only have [color=",
     "original": "Can only have [color=",
     "translation": "只能拥有[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'Can only have [color=' + this.Const.UI.Color.NegativeValue + ']steady[/color] morale or worse'"
   },
   {

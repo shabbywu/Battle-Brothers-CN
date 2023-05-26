@@ -18,7 +18,7 @@
     "key": "Steady",
     "original": "Steady",
     "translation": "稳定",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293403741,
@@ -87,15 +87,15 @@
     "ID": 293403750,
     "key": "Unbreakable",
     "original": "Unbreakable",
-    "translation": "不破的",
-    "stage": 1
+    "translation": "坚不可摧",
+    "stage": 5
   },
   {
     "ID": 293403751,
     "key": "Wavering",
     "original": "Wavering",
     "translation": "动摇",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293403752,
@@ -122,8 +122,8 @@
     "ID": 293403755,
     "key": " is breaking",
     "original": " is breaking",
-    "translation": "溃散中",
-    "stage": 1
+    "translation": "瓦解中",
+    "stage": 5
   },
   {
     "ID": 293403756,
@@ -136,8 +136,8 @@
     "ID": 293403757,
     "key": "'s morale is now steady",
     "original": "'s morale is now steady",
-    "translation": "的士气现在是稳定的",
-    "stage": 1
+    "translation": "的士气现在是稳定",
+    "stage": 5
   },
   {
     "ID": 293403758,
@@ -151,7 +151,7 @@
     "key": "Confident",
     "original": "Confident",
     "translation": "自信",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293403760,
@@ -178,8 +178,8 @@
     "ID": 293403763,
     "key": "Fleeing",
     "original": "Fleeing",
-    "translation": "逃跑",
-    "stage": 1
+    "translation": "溃逃",
+    "stage": 5
   },
   {
     "ID": 293403764,
@@ -221,14 +221,14 @@
     "key": " is wavering",
     "original": " is wavering",
     "translation": "动摇中",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293403770,
     "key": " is confident",
     "original": " is confident",
     "translation": "自信了",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293403771,
@@ -241,8 +241,8 @@
     "ID": 293403772,
     "key": "Breaking",
     "original": "Breaking",
-    "translation": "溃散",
-    "stage": 1
+    "translation": "瓦解",
+    "stage": 5
   },
   {
     "ID": 293403773,
@@ -262,8 +262,8 @@
     "ID": 293403775,
     "key": " is fleeing",
     "original": " is fleeing",
-    "translation": "逃跑中",
-    "stage": 1
+    "translation": "溃逃中",
+    "stage": 5
   },
   {
     "ID": 293403776,

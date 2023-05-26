@@ -42,8 +42,8 @@
     "ID": 293420734,
     "key": "Resets the morale of the targeted indebted to 'Steady' if currently below",
     "original": "Resets the morale of the targeted indebted to 'Steady' if currently below",
-    "translation": "如果目标当前负债者的士气低于“稳定”，则将他的士气重置为此",
-    "stage": 1
+    "translation": "如果目标负债者的当前士气低于“稳定”，则将他的士气重置为此",
+    "stage": 5
   },
   {
     "ID": 293420735,

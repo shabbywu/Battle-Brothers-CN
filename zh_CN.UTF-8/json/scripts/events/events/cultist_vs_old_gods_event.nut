@@ -3,7 +3,7 @@
     "ID": 293413458,
     "key": "[img]gfx/ui/events/event_06.png[/img] You step off to the side, letting the men hash out their differences as men with great differences do. Fists for arguments, the follower of the old gods makes his case, battering the cultist again and again. But the m",
     "original": "[img]gfx/ui/events/event_06.png[/img] You step off to the side, letting the men hash out their differences as men with great differences do. Fists for arguments, the follower of the old gods makes his case, battering the cultist again and again. But the man with the scarred head only grins in return. His eyes are puffing up, the lids purpled and puckering over his eyesight. Yet, still, he grins, and there is bloody laughter spewing out of his reddened mouth.%SPEECH_ON%Such darkness! Davkul is most pleased!%SPEECH_OFF%With an anxious look, %oldgods% steps off %cultist% and backs away. He's rubbing his bloodied knuckles, realizing he may have broken a few in the seemingly one-sided scuffle. But it's the cultist's words that hurt him most of all.%SPEECH_ON%Man isn't tempted by the darkness, he is called to it! Lost without it! Gleeful in its return!%SPEECH_OFF%Almost afraid to look back, %oldgods% hurries away as the cultist remains behind, laughing and chuckling on the grass, nobody daring to get near him.",
-    "translation": "[img]gfx/ui/events/event_06.png[/img] 你退到一旁，让队员们用男人的方式解决分歧。 古老神明的追随者们挥舞着拳头为自己辩护，一次又一次地打击着异教徒。 但那个头上有疤的人只以咧嘴笑回应。 他的眼睛肿了起来，眼皮皱成紫色，遮住了他的视线。 然而，他仍然咧嘴一笑，从他流血的嘴里流出了恐怖的笑声。%SPEECH_ON%如此黑暗！达库尔一定很高兴！%SPEECH_OFF%带着焦虑的表情，%oldgods% 离开 %cultist% 并向后退却。 他揉着血淋淋的指关节，意识到自己可能在这场看似一边倒的混战中弄断了几个。 但最刺伤他的是那个异教徒的话。%SPEECH_ON%人不是受到黑暗的诱惑，而是受到黑暗的召唤！ 失去了没有它！它的归来让人欣喜！%SPEECH_OFF%几乎不敢回头看，%oldgods% 匆忙离开，而异教徒还在他们身后，在草地上大声发笑，没人敢靠近他。",
+    "translation": "[img]gfx/ui/events/event_06.png[/img] 你退到一旁，让队员们用男人的方式解决分歧。 古老神明的追随者们挥舞着拳头为自己辩护，一次又一次地打击着邪教徒。 但那个头上有疤的人只以咧嘴笑回应。 他的眼睛肿了起来，眼皮皱成紫色，遮住了他的视线。 然而，他仍然咧嘴一笑，从他流血的嘴里流出了恐怖的笑声。%SPEECH_ON%如此黑暗！达库尔一定很高兴！%SPEECH_OFF%带着焦虑的表情，%oldgods% 离开 %cultist% 并向后退却。 他揉着血淋淋的指关节，意识到自己可能在这场看似一边倒的混战中弄断了几个。 但最刺伤他的是那个邪教徒的话。%SPEECH_ON%人不是受到黑暗的诱惑，而是受到黑暗的召唤！ 失去了没有它！它的归来让人欣喜！%SPEECH_OFF%几乎不敢回头看，%oldgods% 匆忙离开，而邪教徒还在他们身后，在草地上大声发笑，没人敢靠近他。",
     "stage": 1
   },
   {
@@ -77,7 +77,7 @@
     "ID": 293413468,
     "key": "[img]gfx/ui/events/event_03.png[/img] The way things are going, you've hardly a man to spare. Just as fists are about to start flying, you step in between the two men and put an end to it. You tell %oldgods% he is better than this, and you tell %cultist% ",
     "original": "[img]gfx/ui/events/event_03.png[/img] The way things are going, you've hardly a man to spare. Just as fists are about to start flying, you step in between the two men and put an end to it. You tell %oldgods% he is better than this, and you tell %cultist% nothing, for the cultist is almost bowled over in fits of laughter. He points, grinning madly.%SPEECH_ON%The light steps in, but darkness is patient. Davkul awaits you all.%SPEECH_OFF%",
-    "translation": "[img]gfx/ui/events/event_03.png[/img] 照目前的情况看，你几乎没有多余的人可用。 就在他们准备挥拳相向的时候，你走入这两个人之间，结束了他们的争吵。 你告诉 %oldgods% 他更有理，对 %cultist% 什么都没有说，因为异教徒几乎被一阵阵的笑声击倒。 他指着我们，疯狂地笑着。%SPEECH_ON%光明来了，但黑暗正耐心等待。 达库尔即将降临到你们。%SPEECH_OFF%",
+    "translation": "[img]gfx/ui/events/event_03.png[/img] 照目前的情况看，你几乎没有多余的人可用。 就在他们准备挥拳相向的时候，你走入这两个人之间，结束了他们的争吵。 你告诉 %oldgods% 他更有理，对 %cultist% 什么都没有说，因为邪教徒几乎被一阵阵的笑声击倒。 他指着我们，疯狂地笑着。%SPEECH_ON%光明来了，但黑暗正耐心等待。 达库尔即将降临到你们。%SPEECH_OFF%",
     "stage": 1
   },
   {

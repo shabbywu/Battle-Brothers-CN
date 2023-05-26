@@ -11,7 +11,7 @@
     "ID": 293418046,
     "key": "Cultist Leather Hood",
     "original": "Cultist Leather Hood",
-    "translation": "异教徒皮兜帽",
+    "translation": "邪教徒皮兜帽",
     "stage": 1,
     "context": "this.m.Name = 'Cultist Leather Hood'"
   }
