@@ -2173,7 +2173,7 @@
     "ID": 293423254,
     "key": "Dismiss this character from your roster to save daily wage and make room for someone else. Indebted characters will be freed from slavery and leave your company.",
     "original": "Dismiss this character from your roster to save daily wage and make room for someone else. Indebted characters will be freed from slavery and leave your company.",
-    "translation": "把这个角色从你的花名册中解雇掉，这样可以节省日工资，并为其他人腾出空间。 负债者角色将解除奴隶身份，离开你的战队。",
+    "translation": "把这个角色从你的花名册中解雇掉，这样可以节省日工资，并为其他人腾出空间。 负债者角色将解除奴隶身份，离开你的战团。",
     "stage": 1
   },
   {
@@ -2272,7 +2272,7 @@
     "ID": 293423268,
     "key": "Show the roster of the fighting force of your mercenary company.",
     "original": "Show the roster of the fighting force of your mercenary company.",
-    "translation": "显示你的雇佣兵战队的战斗部队花名册。",
+    "translation": "显示你的雇佣兵战团的战斗部队花名册。",
     "stage": 1
   },
   {

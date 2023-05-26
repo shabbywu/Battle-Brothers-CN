@@ -17,7 +17,7 @@
     "ID": 293413311,
     "key": "[img]gfx/ui/events/event_25.png[/img]You're not going to risk the company over a single measly goblin and a dead man who may or may not have anything valuable. The company gives a wide berth to the clearing and continue on through the forest without any i",
     "original": "[img]gfx/ui/events/event_25.png[/img]You're not going to risk the company over a single measly goblin and a dead man who may or may not have anything valuable. The company gives a wide berth to the clearing and continue on through the forest without any issue.",
-    "translation": "[img]gfx/ui/events/event_25.png[/img]你不会为了一个微不足道的地精和一个或有或无任何值钱东西的死人而拿整个战队去冒险的。 战队离开了一片空地的距离，继续穿过森林，没有遇到任何麻烦。",
+    "translation": "[img]gfx/ui/events/event_25.png[/img]你不会为了一个微不足道的地精和一个或有或无任何值钱东西的死人而拿整个战团去冒险的。 战团离开了一片空地的距离，继续穿过森林，没有遇到任何麻烦。",
     "stage": 1
   },
   {
@@ -54,7 +54,7 @@
     "ID": 293413316,
     "key": "[img]gfx/ui/events/event_25.png[/img]The company steps through some brush and into a clearing where they find a goblin squatting. It turns toward the company, its breath labored, its eyes somber. You see that there's a large bear trap tightly clenching it",
     "original": "[img]gfx/ui/events/event_25.png[/img]The company steps through some brush and into a clearing where they find a goblin squatting. It turns toward the company, its breath labored, its eyes somber. You see that there's a large bear trap tightly clenching its lower thigh. The greenskin tries a growl, but only manages to cough some blood.\n\n Beside the dying goblin is a man face down in the grass. There's something shiny attached to his hip, but you can't quite tell what it is. %randombrother% comes to your side.%SPEECH_ON%Could be a trap. A trap within a trap. The rest of his buddies are probably not far. Then again, if we leave, he might get free and tell everyone we were here. What should we do?%SPEECH_OFF%",
-    "translation": "[img]gfx/ui/events/event_25.png[/img]战队穿过一片灌木丛，进入一片空地，在那里他们发现了一个蹲着的地精。 它转向人群，呼吸困难，眼神忧郁。 你看到一个巨大的捕熊器紧紧地夹住它的大腿下部。 绿皮试图咆哮，但只咳出一些血。\n\n 在奄奄一息的地精旁边，一个人脸朝下倒在草地上。 他的屁股上有个亮闪闪的东西，但你不知道那是什么。%randombrother% 来到你身边。%SPEECH_ON%可能是个陷阱。 陷阱中的陷阱。 他的其他伙伴可能离这里不远。 然后，如果我们离开，他一旦得到自由，会告诉每个人我们在这里。 我们应该怎么做？%SPEECH_OFF%",
+    "translation": "[img]gfx/ui/events/event_25.png[/img]战团穿过一片灌木丛，进入一片空地，在那里他们发现了一个蹲着的地精。 它转向人群，呼吸困难，眼神忧郁。 你看到一个巨大的捕熊器紧紧地夹住它的大腿下部。 绿皮试图咆哮，但只咳出一些血。\n\n 在奄奄一息的地精旁边，一个人脸朝下倒在草地上。 他的屁股上有个亮闪闪的东西，但你不知道那是什么。%randombrother% 来到你身边。%SPEECH_ON%可能是个陷阱。 陷阱中的陷阱。 他的其他伙伴可能离这里不远。 然后，如果我们离开，他一旦得到自由，会告诉每个人我们在这里。 我们应该怎么做？%SPEECH_OFF%",
     "stage": 1
   },
   {
@@ -68,7 +68,7 @@
     "ID": 293413318,
     "key": "[img]gfx/ui/events/event_48.png[/img]You're not going to risk the company over a single measly goblin and a dead man who may or may not have anything valuable. The company gives a wide berth to the clearing and continue on through the forest.\n\n No more th",
     "original": "[img]gfx/ui/events/event_48.png[/img]You're not going to risk the company over a single measly goblin and a dead man who may or may not have anything valuable. The company gives a wide berth to the clearing and continue on through the forest.\n\n No more than five minutes down the road do you hear a thundering of footsteps coming up from the rear. Loud and burly enough that whoever is making it has no fear of being heard. You duck and wait and, unsurprisingly, orcs and goblins come through the trees. One of them is the bastard you'd left to the bear trap, his leg hurriedly wrapped in linens and leaves.",
-    "translation": "[img]gfx/ui/events/event_48.png[/img]你不会为了一个微不足道的地精和一个或有或无任何值钱东西的死人而拿整个战队去冒险的。 战队离开了一片空地的距离，继续穿过森林。\n\n 走了不到五分钟，你就听到从后面传来隆隆的脚步声。 声音够大，够有力，不管是谁干的，都不怕被人听见。 你低头等待，兽人和地精毫无意外地从树林中穿过。 其中一个是你留在捕熊器里的那个杂种，他的腿匆匆裹上了亚麻和树叶。",
+    "translation": "[img]gfx/ui/events/event_48.png[/img]你不会为了一个微不足道的地精和一个或有或无任何值钱东西的死人而拿整个战团去冒险的。 战团离开了一片空地的距离，继续穿过森林。\n\n 走了不到五分钟，你就听到从后面传来隆隆的脚步声。 声音够大，够有力，不管是谁干的，都不怕被人听见。 你低头等待，兽人和地精毫无意外地从树林中穿过。 其中一个是你留在捕熊器里的那个杂种，他的腿匆匆裹上了亚麻和树叶。",
     "stage": 1
   },
   {
