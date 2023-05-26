@@ -31,7 +31,7 @@
     "ID": 293404873,
     "key": "Warband",
     "original": "Warband",
-    "translation": "军战队",
+    "translation": "战团",
     "stage": 1
   },
   {

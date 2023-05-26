@@ -60,7 +60,7 @@
     "ID": 293408985,
     "key": "It's best for the company this way.",
     "original": "It's best for the company this way.",
-    "translation": "对于战队而言这是最好的办法。",
+    "translation": "对于战团而言这是最好的办法。",
     "stage": 1
   },
   {
@@ -104,7 +104,7 @@
     "ID": 293408991,
     "key": "[img]gfx/ui/events/event_167.png[/img]{The %companyname% are almost starting to look like the men they were when you first hired them: downtrodden and beaten by the world. But all this time with the company has made them better men. Despite the exhaustion",
     "original": "[img]gfx/ui/events/event_167.png[/img]{The %companyname% are almost starting to look like the men they were when you first hired them: downtrodden and beaten by the world. But all this time with the company has made them better men. Despite the exhaustion, there is no tiring out training, there is no wearing down prestige, there is no taxing renown. When it comes, the %companyname% will be ready for the next assault.}",
-    "translation": "[img]gfx/ui/events/event_167.png[/img]{%companyname% 几乎开始看起来像你刚招募他们时一样：被世界践踏与殴打过那样。 但是在战队度过的这段时间让他们成为了更强的人。 尽管精疲力竭，但疲劳没有磨灭训练、威望和名声。 当时候来时，%companyname% 将准备好迎接下次攻击。}",
+    "translation": "[img]gfx/ui/events/event_167.png[/img]{%companyname% 几乎开始看起来像你刚招募他们时一样：被世界践踏与殴打过那样。 但是在战团度过的这段时间让他们成为了更强的人。 尽管精疲力竭，但疲劳没有磨灭训练、威望和名声。 当时候来时，%companyname% 将准备好迎接下次攻击。}",
     "stage": 1
   },
   {
@@ -141,7 +141,7 @@
     "ID": 293408996,
     "key": "{This isn't worth it. | We're needed elsewhere. | I won't risk the company to hold some ruins.}",
     "original": "{This isn't worth it. | We're needed elsewhere. | I won't risk the company to hold some ruins.}",
-    "translation": "{这不值得。 | 我们还有别的地方要去。 | 我不会冒险让战队守住一个废墟。}",
+    "translation": "{这不值得。 | 我们还有别的地方要去。 | 我不会冒险让战团守住一个废墟。}",
     "stage": 1
   },
   {
@@ -352,7 +352,7 @@
     "ID": 293409026,
     "key": "This is not worth losing the company over...",
     "original": "This is not worth losing the company over...",
-    "translation": "不值得为此失去整个战队…",
+    "translation": "不值得为此失去整个战团…",
     "stage": 1
   },
   {

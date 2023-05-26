@@ -38,7 +38,7 @@
     "ID": 293409537,
     "key": "[img]gfx/ui/events/event_02.png[/img]You're not sure you could sleep at night knowing you left this poor sod to such a horrid fate. You and the company start down the hillside. It's not an especially quick rescue as you're still worried about ambushes, bu",
     "original": "[img]gfx/ui/events/event_02.png[/img]You're not sure you could sleep at night knowing you left this poor sod to such a horrid fate. You and the company start down the hillside. It's not an especially quick rescue as you're still worried about ambushes, but nothing does spring. The crucified man grins when you near.%SPEECH_ON%Lemme down and I'll fight for you to the end of my days, I promise it!%SPEECH_OFF%The sellswords leverage their weapons beneath the nails and wrench the man free. He slides down the wooden post into the arms of some mercenaries who gently lower him to the ground. In between sips of water, he talks.%SPEECH_ON%Greenskins did this to me. I was the last of my village and I guess they thought to have a bit of fun beyond just putting an axe in my face. I was beginning to prefer the latter until you came along. I'm not in the best of shape, sir, but with time I'll recover and I swear by my name, which I am the last of, that I will fight for you until death or the last victory!%SPEECH_OFF%",
-    "translation": "[img]gfx/ui/events/event_02.png[/img]你开始担心，会不会因为丢下这个可怜的家伙并让他接受悲惨命运的事实，从而导致你晚上睡不好安稳觉。 你和你的战队开始往山坡的方向走去。 因为你担心有人会伏击你们，所以你们救援的进展速度并没有想象中的那么快，不过貌似没有别的东西在说话。 当你们靠近那个被钉着的男人时他开始歪嘴笑了。%SPEECH_ON%放我下来吧，我发誓会用我的余生来为你而战，我发誓！%SPEECH_OFF%佣兵们拔出了他们的武器不断地顶着那些钉子，并通过不断地扭动木桩从而让这个男人重获自由。 他从那个木桩上滑了下来，当被你的雇佣兵们牢牢接住后，他被缓缓地放在草地上。 在他不停地用水往自己肚子里灌的同时，他说道。%SPEECH_ON%是那些绿皮这样对我的。 他们发现了我是村子里最后一个生还者，然后他们估计是想在我身上多找一些乐子而不是简单的用斧子劈我的脸。 所以直到你们出现之前，我都一直希望的是后者。 虽然我目前的身体还不是太好，但是我尊敬的先生啊，我将会很快地恢复过来并以我的最后最珍贵的财产，也就是以我的名字发誓，我一定会为你赴汤蹈火，我会为你战斗直到死亡或最后的胜利！%SPEECH_OFF%",
+    "translation": "[img]gfx/ui/events/event_02.png[/img]你开始担心，会不会因为丢下这个可怜的家伙并让他接受悲惨命运的事实，从而导致你晚上睡不好安稳觉。 你和你的战团开始往山坡的方向走去。 因为你担心有人会伏击你们，所以你们救援的进展速度并没有想象中的那么快，不过貌似没有别的东西在说话。 当你们靠近那个被钉着的男人时他开始歪嘴笑了。%SPEECH_ON%放我下来吧，我发誓会用我的余生来为你而战，我发誓！%SPEECH_OFF%佣兵们拔出了他们的武器不断地顶着那些钉子，并通过不断地扭动木桩从而让这个男人重获自由。 他从那个木桩上滑了下来，当被你的雇佣兵们牢牢接住后，他被缓缓地放在草地上。 在他不停地用水往自己肚子里灌的同时，他说道。%SPEECH_ON%是那些绿皮这样对我的。 他们发现了我是村子里最后一个生还者，然后他们估计是想在我身上多找一些乐子而不是简单的用斧子劈我的脸。 所以直到你们出现之前，我都一直希望的是后者。 虽然我目前的身体还不是太好，但是我尊敬的先生啊，我将会很快地恢复过来并以我的最后最珍贵的财产，也就是以我的名字发誓，我一定会为你赴汤蹈火，我会为你战斗直到死亡或最后的胜利！%SPEECH_OFF%",
     "stage": 1
   },
   {
@@ -158,7 +158,7 @@
     "ID": 293409554,
     "key": "[img]gfx/ui/events/event_45.png[/img]{You reach %location1% and have the men take a break. While they rest, you count supplies and make sure everything is in order. Soon enough, you get the company back to marching. | Stopping at %location1%, the first le",
     "original": "[img]gfx/ui/events/event_45.png[/img]{You reach %location1% and have the men take a break. While they rest, you count supplies and make sure everything is in order. Soon enough, you get the company back to marching. | Stopping at %location1%, the first leg of the patrol, you have the men rest for a time. You've more road ahead so you figure now is a good time as any to resupply. | The first leg of the patrol is finished. Now you've to move on to the next one. You inform the men as much and they groan. You also inform them that you are not paying them to bitch, but they groan at that, too. | You reach the first point of patrol and order the men to take five while you count supplies. The patrol is only one third finished. You wonder if you should stock up on more equipment before heading back out. | You reach %location1% safe and for the most part sound.}",
-    "translation": "[img]gfx/ui/events/event_45.png[/img]{你顺利到达了 %location1% 并带着伙计们进行休整。 在他们休息的时候，你开始清点团队的物资，并确保没有一件东西被弄丢。 不一会儿，你就带领着你的战队继续前进了。 | 你们在 %location1% 停了下来，这是巡逻落脚点的第一站，你准备让你的伙计们休息一会儿。 因为考虑到接下来还有更长的路要走，所以开始寻思要不要在这儿弄点补给之类的。 | 巡逻的第一阶段结束了。 但你打算继续向前出发。 你跟你的伙计们说了一声后他们就开始止不住的抱怨太累。 你又跟他们讲，给他们发工资不是为了听他们发牢骚的，但是他们嘴臭的更厉害了。 | 你到达了巡逻的第一个落脚点，准备让伙计们休息几分钟，并用这一点时间来清点一下团队的物资。 巡逻路程只完成了三分之一。 你开始寻思在离开这儿之前有没有必要再多屯点装备来以防万一。 | 你安全的到达了 %location1% 并且大部分情况下都很安全。}",
+    "translation": "[img]gfx/ui/events/event_45.png[/img]{你顺利到达了 %location1% 并带着伙计们进行休整。 在他们休息的时候，你开始清点团队的物资，并确保没有一件东西被弄丢。 不一会儿，你就带领着你的战团继续前进了。 | 你们在 %location1% 停了下来，这是巡逻落脚点的第一站，你准备让你的伙计们休息一会儿。 因为考虑到接下来还有更长的路要走，所以开始寻思要不要在这儿弄点补给之类的。 | 巡逻的第一阶段结束了。 但你打算继续向前出发。 你跟你的伙计们说了一声后他们就开始止不住的抱怨太累。 你又跟他们讲，给他们发工资不是为了听他们发牢骚的，但是他们嘴臭的更厉害了。 | 你到达了巡逻的第一个落脚点，准备让伙计们休息几分钟，并用这一点时间来清点一下团队的物资。 巡逻路程只完成了三分之一。 你开始寻思在离开这儿之前有没有必要再多屯点装备来以防万一。 | 你安全的到达了 %location1% 并且大部分情况下都很安全。}",
     "stage": 1
   },
   {
@@ -253,7 +253,7 @@
     "ID": 293409567,
     "key": "[img]gfx/ui/events/event_67.png[/img]Sleeping at night would get a little harder if you left this poor sod behind. You lead the company down the hillside in part to save him and save your own sanity. The crucified fella begins to smile as you near.%SPEECH",
     "original": "[img]gfx/ui/events/event_67.png[/img]Sleeping at night would get a little harder if you left this poor sod behind. You lead the company down the hillside in part to save him and save your own sanity. The crucified fella begins to smile as you near.%SPEECH_ON%Thank you, stranger! Thank you thank you thank--%SPEECH_OFF%He's cut off by a sickening 'thunk' of a javelin spearing his chest and into the wooden boards upon which he is crucified. You spin around in time to see greenskins rushing out of some nearby bushes. Goddammit, it was a trap all along! To arms!",
-    "translation": "[img]gfx/ui/events/event_67.png[/img]如果你把这个可怜的家伙就这么丢在这儿的话，那么恐怕你今晚也别想睡好了。 你带这战队冲下山坡去救那个家伙，并暗自希望这样做能给自己积点阴德。 当你逐渐靠近时，那个被钉着的男人疲惫地露出微笑。%SPEECH_ON%谢谢你，陌生人！谢谢你谢谢你谢谢－%SPEECH_OFF%突然，他被一根令人作呕，发出“铮”的标枪劈开了胸膛，并深深的贯穿他的整个身体，最后嵌入进他被钉着的木板中。 你迅速的转身回头看，发现有绿皮不断的从附近的灌木丛里冒了出来。 该死，一直都是个陷阱！拿起武器！",
+    "translation": "[img]gfx/ui/events/event_67.png[/img]如果你把这个可怜的家伙就这么丢在这儿的话，那么恐怕你今晚也别想睡好了。 你带这战团冲下山坡去救那个家伙，并暗自希望这样做能给自己积点阴德。 当你逐渐靠近时，那个被钉着的男人疲惫地露出微笑。%SPEECH_ON%谢谢你，陌生人！谢谢你谢谢你谢谢－%SPEECH_OFF%突然，他被一根令人作呕，发出“铮”的标枪劈开了胸膛，并深深的贯穿他的整个身体，最后嵌入进他被钉着的木板中。 你迅速的转身回头看，发现有绿皮不断的从附近的灌木丛里冒了出来。 该死，一直都是个陷阱！拿起武器！",
     "stage": 1
   },
   {
@@ -281,7 +281,7 @@
     "ID": 293409571,
     "key": "Few men could survive such horrors. Welcome to the company.",
     "original": "Few men could survive such horrors. Welcome to the company.",
-    "translation": "很少有人能在这样的恐怖中幸存下来。 欢迎加入战队。",
+    "translation": "很少有人能在这样的恐怖中幸存下来。 欢迎加入战团。",
     "stage": 1
   },
   {
@@ -323,7 +323,7 @@
     "ID": 293409577,
     "key": "This company is no place for you.",
     "original": "This company is no place for you.",
-    "translation": "战队不适合你。",
+    "translation": "战团不适合你。",
     "stage": 1
   },
   {
@@ -415,7 +415,7 @@
     "ID": 293409590,
     "key": "[img]gfx/ui/events/event_02.png[/img]You decide to wait it out. The dying man keeps on dying. His cries get a little bit quieter, which is nice on the ears, but bad on the souls of the men. After a while, %randombrother% comes up and suggests that the com",
     "original": "[img]gfx/ui/events/event_02.png[/img]You decide to wait it out. The dying man keeps on dying. His cries get a little bit quieter, which is nice on the ears, but bad on the souls of the men. After a while, %randombrother% comes up and suggests that the company head on down. The likelihood that someone would stay around for an ambush now is very unlikely indeed. You and the company trot down the hillside and get to the crucified man. His chin is to his chest, his eyes half-opened, a froth of drool and blood dripping from his lips. With nothing on him worth taking, you order the %companyname% to get back on the path.",
-    "translation": "[img]gfx/ui/events/event_02.png[/img]你决定等一会儿。 那个半死不活的男人现在在生死线之间徘徊。 他的嚎叫越来越小声了，虽然还算挺好听的，但对于一个快死的人来说并不是什么好事。 过了一小会儿，%randombrother% 站到了你的面前，建议战队去看看那个家伙的情况。 你想了想，认为现在那个男人旁边设埋伏的几率非常小。 你带着战队沿着山坡快步跑到被钉着的男人身边。 他的下巴抵着胸膛，眼睛半张半闭，一滴混杂着血液的口水粘液像一条线一样，从他的嘴唇旁落了下来。 你看了看他，身无分文，于是你命令 %companyname% 重返至原先的小道上。",
+    "translation": "[img]gfx/ui/events/event_02.png[/img]你决定等一会儿。 那个半死不活的男人现在在生死线之间徘徊。 他的嚎叫越来越小声了，虽然还算挺好听的，但对于一个快死的人来说并不是什么好事。 过了一小会儿，%randombrother% 站到了你的面前，建议战团去看看那个家伙的情况。 你想了想，认为现在那个男人旁边设埋伏的几率非常小。 你带着战团沿着山坡快步跑到被钉着的男人身边。 他的下巴抵着胸膛，眼睛半张半闭，一滴混杂着血液的口水粘液像一条线一样，从他的嘴唇旁落了下来。 你看了看他，身无分文，于是你命令 %companyname% 重返至原先的小道上。",
     "stage": 1
   },
   {

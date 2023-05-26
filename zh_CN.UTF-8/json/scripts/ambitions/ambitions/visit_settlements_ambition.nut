@@ -11,7 +11,7 @@
     "ID": 293403560,
     "key": "I know the soles of your feet are itchy for the open road, and we need to spread\n word about the company. Let us pay visit to every settlement far and wide!",
     "original": "I know the soles of your feet are itchy for the open road, and we need to spread\n word about the company. Let us pay visit to every settlement far and wide!",
-    "translation": "我知道你们现在闲得发慌，而且我们还得宣传咱们的战队。让我们到处拜访每一处定居点！",
+    "translation": "我知道你们现在闲得发慌，而且我们还得宣传\n咱们的战团。让我们到处拜访每一处定居点！",
     "stage": 1,
     "context": "this.m.ButtonText = 'I know the soles of your feet are itchy for the open road, and we need to spread\n word about the company. Let us pay visit to every settlement far and wide!'"
   },
@@ -51,7 +51,7 @@
     "ID": 293403565,
     "key": "Enter each village, city, fortification and castle there is in the world to learn about their goods and services, and spread word about the company.",
     "original": "Enter each village, city, fortification and castle there is in the world to learn about their goods and services, and spread word about the company.",
-    "translation": "拜访每一座村落，城镇，城堡来了解他们的商品与服务设施，并且推广战队。",
+    "translation": "拜访每一座村落，城镇，城堡来了解他们的商品与服务设施，并且推广战团。",
     "stage": 1,
     "context": "this.m.TooltipText = 'Enter each village, city, fortification and castle there is in the world to learn about their goods and services, and spread word about the company.'"
   },

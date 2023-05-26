@@ -75,7 +75,7 @@
     "ID": 293409355,
     "key": "No, the company's done enough here.",
     "original": "No, the company's done enough here.",
-    "translation": "不，战队在这方面做得够多了。",
+    "translation": "不，战团在这方面做得够多了。",
     "stage": 1
   },
   {

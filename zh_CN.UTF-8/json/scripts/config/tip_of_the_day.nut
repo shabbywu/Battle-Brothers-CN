@@ -73,8 +73,8 @@
     "ID": 293406867,
     "key": "The 'Lone Wolf' perk is not affected by nearby dogs or allies that are not part of your company.",
     "original": "The 'Lone Wolf' perk is not affected by nearby dogs or allies that are not part of your company.",
-    "translation": "“独狼”特技不会受到附近的狗或不属于你战队的盟友的影响。",
-    "stage": 1
+    "translation": "“独狼”特技不会受到附近的狗或不属于你战团的盟友的影响。",
+    "stage": 5
   },
   {
     "ID": 293406868,

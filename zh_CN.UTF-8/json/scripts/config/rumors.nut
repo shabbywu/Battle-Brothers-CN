@@ -66,7 +66,7 @@
     "ID": 293405438,
     "key": "1st %townname% Company. Best lot of halfwits and scallywags I've ever served with. Wouldn't trade 'em for the world.",
     "original": "1st %townname% Company. Best lot of halfwits and scallywags I've ever served with. Wouldn't trade 'em for the world.",
-    "translation": "%townname% 第一的战队。我服务过的最好的混蛋与流氓。我不会拿他们和世界做交易。",
+    "translation": "%townname% 的第一战团。我服务过的最好的混蛋与流氓。我不会拿他们和世界做交易。",
     "stage": 1
   },
   {
@@ -122,7 +122,7 @@
     "ID": 293405446,
     "key": "The men cheer the company name as they drink.",
     "original": "The men cheer the company name as they drink.",
-    "translation": "男人们一边喝酒一边为战队的名字欢呼。",
+    "translation": "男人们一边喝酒一边为战团的名字欢呼。",
     "stage": 1
   },
   {
@@ -143,7 +143,7 @@
     "ID": 293405449,
     "key": "Hiring a man of the woods could be a good idea for a mercenary like you, I'd say. They ought to know how to fling around those large axes!",
     "original": "Hiring a man of the woods could be a good idea for a mercenary like you, I'd say. They ought to know how to fling around those large axes!",
-    "translation": "对于像你这样的雇佣兵来说，雇佣一名伐木工对你的战队很有帮助，我说的。他们擅长挥舞巨斧！",
+    "translation": "对于像你这样的雇佣兵来说，雇佣一名伐木工对你的战团很有帮助，我说的。他们擅长挥舞巨斧！",
     "stage": 1
   },
   {
@@ -164,7 +164,7 @@
     "ID": 293405452,
     "key": "One day I'll be standard bearer of the company. It's only the bravest of us all and they've been with the company for years and years, y'know, but it's the greatest honor for a man with common blood. I've seen even a knight once shake the hand of ours.",
     "original": "One day I'll be standard bearer of the company. It's only the bravest of us all and they've been with the company for years and years, y'know, but it's the greatest honor for a man with common blood. I've seen even a knight once shake the hand of ours.",
-    "translation": "总有一天我会成为战队的扛旗手。这是有史以来最勇敢的人，对于普通人来说也是最高的荣誉。我甚至见过一名骑士与咱们的扛旗手握手呢。",
+    "translation": "总有一天我会成为战团的扛旗手。这是有史以来最勇敢的人，对于普通人来说也是最高的荣誉。我甚至见过一名骑士与咱们的扛旗手握手呢。",
     "stage": 1
   },
   {
@@ -178,7 +178,7 @@
     "ID": 293405454,
     "key": "My cousin %randomname% left town with a mercenary company like yours, %randommercenarycompany% or something like that it was called. Haven't heard from him since...",
     "original": "My cousin %randomname% left town with a mercenary company like yours, %randommercenarycompany% or something like that it was called. Haven't heard from him since...",
-    "translation": "我堂兄 %randomname% 像你一样也是雇佣兵，加入了一支好像叫做 %randommercenarycompany% 的战队。不过从他离开镇子后就再也没他的消息了…",
+    "translation": "我堂兄 %randomname% 像你一样也是雇佣兵，加入了一支好像叫做 %randommercenarycompany% 的战团。不过从他离开镇子后就再也没他的消息了…",
     "stage": 1
   },
   {
@@ -332,7 +332,7 @@
     "ID": 293405476,
     "key": "I've been a farmhand all my life and sometimes I wish I'd taken the chance to venture with a company like yours... well, it's too late for that now.",
     "original": "I've been a farmhand all my life and sometimes I wish I'd taken the chance to venture with a company like yours... well, it's too late for that now.",
-    "translation": "我干了一辈子的农夫有时候真想加入到像你们一样的战队去冒险…好吧，现在一切都晚了。",
+    "translation": "我干了一辈子的农夫有时候真想加入到像你们一样的战团去冒险…好吧，现在一切都晚了。",
     "stage": 1
   },
   {
@@ -528,7 +528,7 @@
     "ID": 293405504,
     "key": "Picking up desperate farmers and fishers for your company is all good and well, but you should look for recruits in a castle like this one. Here you'll find people who actually know which end of the sword goes where.",
     "original": "Picking up desperate farmers and fishers for your company is all good and well, but you should look for recruits in a castle like this one. Here you'll find people who actually know which end of the sword goes where.",
-    "translation": "为你的战队招募啥也不懂的农夫和渔夫是件好事，但你应该在这样的城堡里寻找新兵。在这里，你发现那些真正知道剑的哪一头该指向哪里的人。",
+    "translation": "为你的战团招募啥也不懂的农夫和渔夫是件好事，但你应该在这样的城堡里寻找新兵。在这里，你发现那些真正知道剑的哪一头该指向哪里的人。",
     "stage": 1
   },
   {
@@ -563,7 +563,7 @@
     "ID": 293405509,
     "key": "You came to the right place if you're looking for able men to bolster your company. Us northern folk are strong, rugged and honest!",
     "original": "You came to the right place if you're looking for able men to bolster your company. Us northern folk are strong, rugged and honest!",
-    "translation": "如果你在寻找有能力的人来充实你的战队，那你来对地方了。我们北方的男儿既强壮坚韧又诚实！",
+    "translation": "如果你在寻找有能力的人来充实你的战团，那你来对地方了。我们北方的男儿既强壮坚韧又诚实！",
     "stage": 1
   },
   {
@@ -1193,7 +1193,7 @@
     "ID": 293405599,
     "key": "A mercenary company came by here hunting barbarians. The leader wielded a weapon unlike anything I ever saw before. They turned %direction% and were never to be seen again.",
     "original": "A mercenary company came by here hunting barbarians. The leader wielded a weapon unlike anything I ever saw before. They turned %direction% and were never to be seen again.",
-    "translation": "一个佣兵战队来这里猎杀野蛮人。首领挥舞着一把我从未见过的武器。他们转向 %direction% 就从此消失无踪了。",
+    "translation": "一个佣兵战团来这里猎杀野蛮人。首领挥舞着一把我从未见过的武器。他们转向 %direction% 就从此消失无踪了。",
     "stage": 1
   },
   {

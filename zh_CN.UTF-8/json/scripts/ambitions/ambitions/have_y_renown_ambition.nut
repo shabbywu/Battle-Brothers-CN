@@ -27,7 +27,7 @@
     "ID": 293403474,
     "key": "Already we are known in some parts of the land, yet we are still far from being\na legendary company. We shall increase our renown further!",
     "original": "Already we are known in some parts of the land, yet we are still far from being\na legendary company. We shall increase our renown further!",
-    "translation": "我们已经在这片大陆的一些地方为人所知，但我们还远远不是一个传奇战队。 我们将进一步提高我们的声望！",
+    "translation": "我们已经在这片大陆的一些地方为人所知，但我们还远远不是\n一个传奇战团。 我们将进一步提高我们的声望！",
     "stage": 1,
     "context": "this.m.ButtonText = 'Already we are known in some parts of the land, yet we are still far from being\na legendary company. We shall increase our renown further!'"
   },

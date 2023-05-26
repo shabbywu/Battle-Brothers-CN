@@ -3,7 +3,7 @@
     "ID": 293408128,
     "key": "The company will head out immediately.",
     "original": "The company will head out immediately.",
-    "translation": "战队马上出发。",
+    "translation": "战团马上出发。",
     "stage": 1
   },
   {
@@ -88,7 +88,7 @@
     "ID": 293408140,
     "key": "The company will move out within the hour.",
     "original": "The company will move out within the hour.",
-    "translation": "战队将在一小时内迁走。",
+    "translation": "战团将在一小时内迁走。",
     "stage": 1
   },
   {
@@ -194,7 +194,7 @@
     "ID": 293408155,
     "key": "[img]gfx/ui/events/event_88.png[/img]{%bigdog% steps forward, wheeling a weapon around over his shoulder with ease. He nods.%SPEECH_ON%You're afraid of %commander%. I get that. You know him, you know his temperament, and what he's capable of. Question is.",
     "original": "[img]gfx/ui/events/event_88.png[/img]{%bigdog% steps forward, wheeling a weapon around over his shoulder with ease. He nods.%SPEECH_ON%You're afraid of %commander%. I get that. You know him, you know his temperament, and what he's capable of. Question is...%SPEECH_OFF%The sellsword grins, the wily smile reflected in the sheen of his blade.%SPEECH_ON%Do you know me?%SPEECH_OFF% | The deserters look about ready to leave when %bigdog% whistles loudly.%SPEECH_ON%Hey you shits, my commander gave you an order.%SPEECH_OFF%One of the deserter scoffs.%SPEECH_ON%Yeah? He ain't our farkin' commander so you can take that order and cram it.%SPEECH_OFF%%bigdog% draws out a huge blade and plants it in the ground. He tents his hands atop the pommel.%SPEECH_ON%You're afraid of %commander% and that's alright. But you keep on being a little shit, my friend, and we'll see just which commander you should have really been afraid of.%SPEECH_OFF% | The deserters turn to leave. %bigdog% takes out a huge blade and clangs it against his armor. Slowly, the deserters turn around. %bigdog% smiles.%SPEECH_ON%Any one of you ever pissed your pants?%SPEECH_OFF%One of the deserters shakes his head.%SPEECH_ON%H-hey man, get the fark out of here with that talk.%SPEECH_OFF%%bigdog% snatches up his blade and points the tip of it at the deserter.%SPEECH_ON%Oh, you want me shut up? Keep speaking to me like that and there won't be anybody talking here real soon.%SPEECH_OFF%}{The deserters mull their options and eventually agree to come back with you. | The deserters huddle and come to some sort of agreement. Breaking the huddle, their leader steps forward.%SPEECH_ON%Despite some objections, we agree to come back with you to the war camp. I hope I do not come to regret this.%SPEECH_OFF% | After a short time debating on what to do, the deserters put it to a vote. It isn't unanimous, but they come to an agreement: they'll go back with you to %commander%. | The deserters argue about what to do next. Inevitably, it comes to a vote. Predictably, that vote is a tie. The men then agree to toss a crown: heads they go back to camp, tails they leave. Their leader flips the coin and all the men watch as it turns and glints. The coin lands heads. Every single one of them sighs upon seeing it, as if chance and fortune relieved them of an enormous responsibility beyond their own choosing.}",
-    "translation": "[img]gfx/ui/events/event_88.png[/img]{%bigdog%走上前来，将武器随意地挥动在肩膀上。他点点头。%SPEECH_ON%你们害怕%commander%，我知道。你们了解他，了解他的脾气和能力。问题是......%SPEECH_OFF%雇佣军咧嘴一笑，狡猾的笑容在他的刀光中映衬得很清楚。%SPEECH_ON%你们认识我吗？%SPEECH_OFF% | 当%bigdog%大声吹口哨时，逃兵们似乎已经准备好离开了。%SPEECH_ON%嘿, 你们这些玩意，我的指挥官给了你们一个命令。%SPEECH_OFF%其中一名逃兵嗤之以鼻。%SPEECH_ON%是吗？他不是我们的指挥官，所以你可以把那条命令塞到你的屁股里。%SPEECH_OFF%%bigdog%拔出一把巨大的刀，把它插在地上。他用手按住刀柄的顶部。%SPEECH_ON%你害怕%commander%，这很正常。但你们要继续这么装逼，我的朋友，我们就会看到你们应该真正害怕的指挥官是谁。%SPEECH_OFF% | 逃兵们转身离开。 %bigdog%拔出一把巨刃，发出锵锵的响声。慢慢地，逃兵们转向。%bigdog%微笑着。%SPEECH_ON%你们中有没有人尿过裤子?%SPEECH_OFF%其中一名逃兵摇了摇头。%SPEECH_ON%嘿，伙计，别拿那话跟我说。%SPEECH_OFF%%bigdog%抢过他的刀，将刀尖指向逃兵。%SPEECH_ON%哦，你想让我闭嘴？继续对我这样说话，这里就没有人会说话了。%SPEECH_OFF%}{逃兵们斟酌了一下，最终同意回来跟你们一起走。 | 逃兵们密谋着，达成某种协议。大家散开后，他们的领袖走了过来。%SPEECH_ON%尽管有些人反对，但我们同意回到战队的营地。我希望我不会后悔。%SPEECH_OFF% | 经过一段时间的讨论，逃兵们达成了一致，他们将和你一起回到%commander%那里。 | 逃兵们争论着下一步该怎么办。不可避免地，他们进行了投票。可预见的是，票数打成了平局。然后，这些人同意抛硬币：正面朝上，他们回到营地；反面朝上，他们离开。他们的领袖掷硬币，所有士兵都看着它翻转和闪闪发亮。硬币落在了正面。他们每个人看到硬币落地的那一刻都叹了口气，仿佛机会和命运减轻了他们超出自己选择的巨大责任。}",
+    "translation": "[img]gfx/ui/events/event_88.png[/img]{%bigdog%走上前来，将武器随意地挥动在肩膀上。他点点头。%SPEECH_ON%你们害怕%commander%，我知道。你们了解他，了解他的脾气和能力。问题是......%SPEECH_OFF%雇佣军咧嘴一笑，狡猾的笑容在他的刀光中映衬得很清楚。%SPEECH_ON%你们认识我吗？%SPEECH_OFF% | 当%bigdog%大声吹口哨时，逃兵们似乎已经准备好离开了。%SPEECH_ON%嘿, 你们这些玩意，我的指挥官给了你们一个命令。%SPEECH_OFF%其中一名逃兵嗤之以鼻。%SPEECH_ON%是吗？他不是我们的指挥官，所以你可以把那条命令塞到你的屁股里。%SPEECH_OFF%%bigdog%拔出一把巨大的刀，把它插在地上。他用手按住刀柄的顶部。%SPEECH_ON%你害怕%commander%，这很正常。但你们要继续这么装逼，我的朋友，我们就会看到你们应该真正害怕的指挥官是谁。%SPEECH_OFF% | 逃兵们转身离开。 %bigdog%拔出一把巨刃，发出锵锵的响声。慢慢地，逃兵们转向。%bigdog%微笑着。%SPEECH_ON%你们中有没有人尿过裤子?%SPEECH_OFF%其中一名逃兵摇了摇头。%SPEECH_ON%嘿，伙计，别拿那话跟我说。%SPEECH_OFF%%bigdog%抢过他的刀，将刀尖指向逃兵。%SPEECH_ON%哦，你想让我闭嘴？继续对我这样说话，这里就没有人会说话了。%SPEECH_OFF%}{逃兵们斟酌了一下，最终同意回来跟你们一起走。 | 逃兵们密谋着，达成某种协议。大家散开后，他们的领袖走了过来。%SPEECH_ON%尽管有些人反对，但我们同意回到战团的营地。我希望我不会后悔。%SPEECH_OFF% | 经过一段时间的讨论，逃兵们达成了一致，他们将和你一起回到%commander%那里。 | 逃兵们争论着下一步该怎么办。不可避免地，他们进行了投票。可预见的是，票数打成了平局。然后，这些人同意抛硬币：正面朝上，他们回到营地；反面朝上，他们离开。他们的领袖掷硬币，所有士兵都看着它翻转和闪闪发亮。硬币落在了正面。他们每个人看到硬币落地的那一刻都叹了口气，仿佛机会和命运减轻了他们超出自己选择的巨大责任。}",
     "stage": 1
   },
   {
@@ -350,7 +350,7 @@
     "ID": 293408177,
     "key": "The company will head out within the hour.",
     "original": "The company will head out within the hour.",
-    "translation": "战队将在一小时内出发。",
+    "translation": "战团将在一小时内出发。",
     "stage": 1
   },
   {

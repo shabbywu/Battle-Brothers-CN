@@ -253,7 +253,7 @@
     "ID": 293409808,
     "key": "[img]gfx/ui/events/event_76.png[/img]{There's brigands here, just as expected, but they are handing the %itemLower% to a man in dark, ragged clothes. Your presence, unsurprisingly, brings a halt to the transaction and both the thugs and the ghoulish figur",
     "original": "[img]gfx/ui/events/event_76.png[/img]{There's brigands here, just as expected, but they are handing the %itemLower% to a man in dark, ragged clothes. Your presence, unsurprisingly, brings a halt to the transaction and both the thugs and the ghoulish figure take up weapons. | You catch brigands trading %employer%'s property to what appears to be a necromancer! Maybe he wanted it to cast some sort of vicious spell upon the house. In some light, the notion doesn't seem that bad... but, the man's paying you for a reason. Charge! | %employer%'s property is being sold off by brigands to a pale man in black! He glares at you before anyone else, his beady black eyes narrowing on your company in an instant.}",
-    "translation": "[img]gfx/ui/events/event_76.png[/img]{这里有强盗，正如预期的那样，但是他们正在把 %itemLower% 交给一个穿着深色破烂衣服的人。 你的存在，毫不意外的，中止了交易并且强盗和阴森的人都拿起了武器。 | 你看到强盗把 %employer%的财产交易给一个看起来像是亡灵巫师的人！ 或许他想要它来对雇主家族施什么邪恶巫术。 某种程度上来说，这不是那么坏…但是，他花钱雇你是来干活的。冲锋！ | %employer%的财产被强盗卖给了一个惨败的黑衣人！ 他在那些人面前瞪着你，他呆滞的黑眼瞬间聚焦在了你的战队上。}",
+    "translation": "[img]gfx/ui/events/event_76.png[/img]{这里有强盗，正如预期的那样，但是他们正在把 %itemLower% 交给一个穿着深色破烂衣服的人。 你的存在，毫不意外的，中止了交易并且强盗和阴森的人都拿起了武器。 | 你看到强盗把 %employer%的财产交易给一个看起来像是亡灵巫师的人！ 或许他想要它来对雇主家族施什么邪恶巫术。 某种程度上来说，这不是那么坏…但是，他花钱雇你是来干活的。冲锋！ | %employer%的财产被强盗卖给了一个惨败的黑衣人！ 他在那些人面前瞪着你，他呆滞的黑眼瞬间聚焦在了你的战团上。}",
     "stage": 1
   },
   {

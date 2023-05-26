@@ -4,7 +4,7 @@
     "key": "table",
     "original": "table",
     "translation": "table",
-    "stage": 1,
+    "stage": 9,
     "context": "typeof _item == 'table'"
   }
 ]

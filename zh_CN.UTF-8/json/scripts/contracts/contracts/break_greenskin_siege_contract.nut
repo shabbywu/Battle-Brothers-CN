@@ -297,7 +297,7 @@
     "ID": 293407986,
     "key": "Company broke a contract",
     "original": "Company broke a contract",
-    "translation": "战队撕毁了合同",
+    "translation": "战团撕毁了合同",
     "stage": 1
   },
   {

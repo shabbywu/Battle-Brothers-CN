@@ -60,7 +60,7 @@
     "ID": 293407927,
     "key": "{We're not about to chase ghosts around %worldmapregion%. | That's not the kind of work we're looking for. | I won't risk the company against an enemy such as this.}",
     "original": "{We're not about to chase ghosts around %worldmapregion%. | That's not the kind of work we're looking for. | I won't risk the company against an enemy such as this.}",
-    "translation": "{我们不打算追捕幽灵，尤其是在 %worldmapregion%。 | 那不是我们要找的工作。 | 我不会让战队冒险对付这样的敌人。}",
+    "translation": "{我们不打算追捕幽灵，尤其是在 %worldmapregion%。 | 那不是我们要找的工作。 | 我不会让战团冒险对付这样的敌人。}",
     "stage": 1
   },
   {
