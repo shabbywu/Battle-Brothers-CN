@@ -61,7 +61,7 @@
     "ID": 293416609,
     "key": "[img]gfx/ui/events/event_72.png[/img]%randombrother% comes to you with a report of your food stocks. He explains that there's not much to go around and what bread is on hand could be better used to build a house or slay a man. Most of the fruit is soft to",
     "original": "[img]gfx/ui/events/event_72.png[/img]%randombrother% comes to you with a report of your food stocks. He explains that there's not much to go around and what bread is on hand could be better used to build a house or slay a man. Most of the fruit is soft to the touch, covered in what appears to be grey fur. All that's left otherwise has been thrown into a great stew which the men have aptly named 'crotch broth'. To be frank, it isn't looking good.\n\nHowever, by some fortuitous coincidence, a small farm stands in the distance. The brother doesn't come right out and say it, but it is gently suggested that maybe the company could go raid it.",
-    "translation": "[img]gfx/ui/events/event_72.png[/img]%randombrother% 拿着一份关于战队食物库存的报告走到你身边。 手上有粮，干活不累，但战队已经快要没有足够的食物分给大家了。 库存里的大部分水果都已变质发软，上面长满了灰色的毛霉。 剩下所有的东西都被一股脑扔进锅里做成了乱炖，佣兵们形象地称之为“吊毛炖汤”。 老实说，那看起来根本不像是给人类吃的东西。\n\n不过，机缘巧合之下，一个小农场出现在了远方。 尽管兄弟们没人直接站出来明说，但还是有人委婉地建议战队或许可以去抢了它。",
+    "translation": "[img]gfx/ui/events/event_72.png[/img]%randombrother% 拿着一份关于战团食物库存的报告走到你身边。 手上有粮，干活不累，但战团已经快要没有足够的食物分给大家了。 库存里的大部分水果都已变质发软，上面长满了灰色的毛霉。 剩下所有的东西都被一股脑扔进锅里做成了乱炖，佣兵们形象地称之为“吊毛炖汤”。 老实说，那看起来根本不像是给人类吃的东西。\n\n不过，机缘巧合之下，一个小农场出现在了远方。 尽管兄弟们没人直接站出来明说，但还是有人委婉地建议战团或许可以去抢了它。",
     "stage": 1
   },
   {
@@ -75,14 +75,14 @@
     "ID": 293416611,
     "key": "Was appalled by the company's conduct",
     "original": "Was appalled by the company's conduct",
-    "translation": "对战队的行为感到震惊",
+    "translation": "对战团的行为感到震惊",
     "stage": 1
   },
   {
     "ID": 293416612,
     "key": "[img]gfx/ui/events/event_30.png[/img]There's plenty of food here. And too many witnesses.\n\nYou turn around and give a knowing glance at %someguy1%. He nods back and nocks an arrow. Before the woman can scream, the brother releases the shot and the old man",
     "original": "[img]gfx/ui/events/event_30.png[/img]There's plenty of food here. And too many witnesses.\n\nYou turn around and give a knowing glance at %someguy1%. He nods back and nocks an arrow. Before the woman can scream, the brother releases the shot and the old man on the porch stumbles backward into the house, followed by a retinue of screaming children. The rest of your company fans out, unsheathing their swords as they run into the fields. A few farmhands try to fight back, but your well-armed band makes short work of them. %someguy2% sprints into the homestead and inside you hear a number of cries that, one by one, disappear until there is silence. You hand the woman off to a few brothers, telling them to just make sure she is dead before you leave. A few other sellswords immediately begin cutting down crops and stealing away items from the home. Before long, you're back out on the roads, your stocks now almost full. A few brothers are taking red rags to their wet blades.",
-    "translation": "[img]gfx/ui/events/event_30.png[/img]这里有许多食物。 还有许多多余的目击者。\n\n你转过身去给了 %someguy1% 一个眼神。他点头作为回应，然后射出一根箭。 在女人反应过来开始尖叫之前，雇佣兵射出的箭击中了门廊上的那名老人，他踉跄跌回了房子中，随之而来的是他边上孩子们的哭喊。 战队里其他的人一哄而散，冲进田野，利剑出鞘。 几个农夫试图反抗，但全副武装的佣兵很快就解决了他们。%someguy2% 冲进了农场屋子里，你在里面听到了许多的哭喊声一个接一个地消失，直到最终归于沉寂。 你把那个女人交给几个佣兵，告诉他们在你们离开前确保她已经死了就行。 另一批佣兵则立即开始收割作物以及从屋子里搬走东西。 没过多久，你们重新上路，带着几乎被填满的仓库。 几个佣兵用被染成红色的抹布擦拭着他们湿漉漉的利刃。",
+    "translation": "[img]gfx/ui/events/event_30.png[/img]这里有许多食物。 还有许多多余的目击者。\n\n你转过身去给了 %someguy1% 一个眼神。他点头作为回应，然后射出一根箭。 在女人反应过来开始尖叫之前，雇佣兵射出的箭击中了门廊上的那名老人，他踉跄跌回了房子中，随之而来的是他边上孩子们的哭喊。 战团里其他的人一哄而散，冲进田野，利剑出鞘。 几个农夫试图反抗，但全副武装的佣兵很快就解决了他们。%someguy2% 冲进了农场屋子里，你在里面听到了许多的哭喊声一个接一个地消失，直到最终归于沉寂。 你把那个女人交给几个佣兵，告诉他们在你们离开前确保她已经死了就行。 另一批佣兵则立即开始收割作物以及从屋子里搬走东西。 没过多久，你们重新上路，带着几乎被填满的仓库。 几个佣兵用被染成红色的抹布擦拭着他们湿漉漉的利刃。",
     "stage": 1
   },
   {

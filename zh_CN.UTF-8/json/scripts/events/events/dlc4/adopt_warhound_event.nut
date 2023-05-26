@@ -38,7 +38,7 @@
     "ID": 293414126,
     "key": "%terrainImage%{You come across a caldera the bottom of which you find a few sheep nuzzling something. As you draw close, you see that there is an enormous hound there, its fur matted with blood, its collar shredded, and its paws wiry where the claws have ",
     "original": "%terrainImage%{You come across a caldera the bottom of which you find a few sheep nuzzling something. As you draw close, you see that there is an enormous hound there, its fur matted with blood, its collar shredded, and its paws wiry where the claws have come apart. It regards you with a growl, but can't maintain it for long as it simply puts its head down with an exhausted huff. The sheep depart and beyond them you find a man leaning against a rock. His chest has been ripped open and whatever killed him did it with such force as to spray his innards all along the rocks. Following the trail, you do find a monstrous Nachzehrer whose throat has been ripped out. %randombrother% nods.%SPEECH_ON%I think that pup might be worth having in the company.%SPEECH_OFF%}",
-    "translation": "%terrainImage%{你碰到一个死火山口，在它的底部你发现几只羊用鼻子摩擦着什么东西。 当你走近时，你看到那里有一只巨大的猎犬，它的皮毛上沾满了鲜血，项圈被撕碎了，爪子上的指甲已经断了。 它对你发出一声咆哮，但没坚持多久它就垂下头，发出一声疲惫的呼噜声，也许它撑不了多久了。 羊走了，在他们后面，你看见一个人倚在岩石上。 他的胸部被撕开了，杀死他的东西用如此大的力量把他的内脏扯了出来，散落在岩石上。 沿着这条路走下去，你发现一个巨型食尸鬼，他的喉咙被撕开了。%randombrother% 点头。%SPEECH_ON%我觉得这条狗值得被收留到战队。%SPEECH_OFF%}",
+    "translation": "%terrainImage%{你碰到一个死火山口，在它的底部你发现几只羊用鼻子摩擦着什么东西。 当你走近时，你看到那里有一只巨大的猎犬，它的皮毛上沾满了鲜血，项圈被撕碎了，爪子上的指甲已经断了。 它对你发出一声咆哮，但没坚持多久它就垂下头，发出一声疲惫的呼噜声，也许它撑不了多久了。 羊走了，在他们后面，你看见一个人倚在岩石上。 他的胸部被撕开了，杀死他的东西用如此大的力量把他的内脏扯了出来，散落在岩石上。 沿着这条路走下去，你发现一个巨型食尸鬼，他的喉咙被撕开了。%randombrother% 点头。%SPEECH_ON%我觉得这条狗值得被收留到战团。%SPEECH_OFF%}",
     "stage": 1
   },
   {

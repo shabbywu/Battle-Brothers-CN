@@ -53,7 +53,7 @@
     "ID": 293414531,
     "key": "{[img]gfx/ui/events/event_161.png[/img]{You draw out your dagger and cut the man down. He's got injuries aplenty but is no doubt of strong enough constitution to one day recover. He thanks you with remarkable mildness given the doom which awaited him.%SPE",
     "original": "{[img]gfx/ui/events/event_161.png[/img]{You draw out your dagger and cut the man down. He's got injuries aplenty but is no doubt of strong enough constitution to one day recover. He thanks you with remarkable mildness given the doom which awaited him.%SPEECH_ON%Glad to stretch. I mean, you know, stretch on my terms. Lead the way, captain of the Gilder's circumstance, captain of His mighty sublimity.%SPEECH_OFF%Many in the company do not care for taking in a man who has turned his back not only on his fellow man, but his own gods.}",
-    "translation": "{[img]gfx/ui/events/event_161.png[/img]{你掏出你的匕首把他放了下来。 他显然受了很多伤，但以他的体格他能恢复过来。 用一种对于差点丧命的人而言出奇温和的态度，他向你表示感谢。%SPEECH_ON%终于能伸展一下了。我是说，你懂的，对我而言的伸展。 带路吧，镀金者命运的领路人，他强大威严的指引者。%SPEECH_OFF%战队里的许多人对于带上一个不仅背叛了他的同胞，还背叛了他的神的人有些不满。}",
+    "translation": "{[img]gfx/ui/events/event_161.png[/img]{你掏出你的匕首把他放了下来。 他显然受了很多伤，但以他的体格他能恢复过来。 用一种对于差点丧命的人而言出奇温和的态度，他向你表示感谢。%SPEECH_ON%终于能伸展一下了。我是说，你懂的，对我而言的伸展。 带路吧，镀金者命运的领路人，他强大威严的指引者。%SPEECH_OFF%战团里的许多人对于带上一个不仅背叛了他的同胞，还背叛了他的神的人有些不满。}",
     "stage": 1
   },
   {
@@ -89,7 +89,7 @@
     "ID": 293414536,
     "key": "{[img]gfx/ui/events/event_161.png[/img]{You tell the man he'll be talking to his god or gods real soon. He sighs.%SPEECH_ON%In a manner, I deserve this, but I am at peace with it.%SPEECH_OFF%There's mixed reactions about the company on it, and by mixed it",
     "original": "{[img]gfx/ui/events/event_161.png[/img]{You tell the man he'll be talking to his god or gods real soon. He sighs.%SPEECH_ON%In a manner, I deserve this, but I am at peace with it.%SPEECH_OFF%There's mixed reactions about the company on it, and by mixed it is mostly varying levels of exuberance. After all, the man is a traitor to both terra and celestial, making him easily hated by anyone and everyone.}",
-    "translation": "{[img]gfx/ui/events/event_161.png[/img]{你跟他说他很快就会去见他的神或神们了。他叹了一口气。%SPEECH_ON%某种程度上，我罪有应得，而我也对此感到平静。%SPEECH_OFF%战队里对这件事的反应不一，这里不一指的是不同程度的幸灾乐祸。 毕竟，这个人同时背叛了天和地，很容易让他被任何人与所有人厌恶。}",
+    "translation": "{[img]gfx/ui/events/event_161.png[/img]{你跟他说他很快就会去见他的神或神们了。他叹了一口气。%SPEECH_ON%某种程度上，我罪有应得，而我也对此感到平静。%SPEECH_OFF%战团里对这件事的反应不一，这里不一指的是不同程度的幸灾乐祸。 毕竟，这个人同时背叛了天和地，很容易让他被任何人与所有人厌恶。}",
     "stage": 1
   },
   {

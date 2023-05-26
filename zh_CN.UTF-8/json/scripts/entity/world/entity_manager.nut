@@ -18,7 +18,7 @@
     "ID": 293410593,
     "key": "A free mercenary company travelling the lands and lending their swords to the highest bidder.",
     "original": "A free mercenary company travelling the lands and lending their swords to the highest bidder.",
-    "translation": "一个自由的雇佣兵战队在各地旅行，把他们的剑借给出价最高的人。",
+    "translation": "一个自由的雇佣兵战团在各地旅行，把他们的剑借给出价最高的人。",
     "stage": 1
   }
 ]

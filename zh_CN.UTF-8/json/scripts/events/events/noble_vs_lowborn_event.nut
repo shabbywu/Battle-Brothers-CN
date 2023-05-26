@@ -24,7 +24,7 @@
     "ID": 293416444,
     "key": "Was humiliated in front of the company",
     "original": "Was humiliated in front of the company",
-    "translation": "在战队面前丢脸",
+    "translation": "在战团面前丢脸",
     "stage": 1
   },
   {
@@ -46,7 +46,7 @@
     "ID": 293416447,
     "key": "In the company of sellswords, no man is low or highborn.",
     "original": "In the company of sellswords, no man is low or highborn.",
-    "translation": "在战队，没有人是卑微或高贵的。",
+    "translation": "在战团，没有人是卑微或高贵的。",
     "stage": 1
   },
   {

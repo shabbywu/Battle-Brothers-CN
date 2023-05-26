@@ -17,7 +17,7 @@
     "ID": 293417146,
     "key": "Celebrated with the company",
     "original": "Celebrated with the company",
-    "translation": "与战队一起庆祝",
+    "translation": "与战团一起庆祝",
     "stage": 1
   },
   {
@@ -67,7 +67,7 @@
     "ID": 293417153,
     "key": "A round for the whole company!",
     "original": "A round for the whole company!",
-    "translation": "给整个战队都来一轮！",
+    "translation": "给整个战团都来一轮！",
     "stage": 1
   },
   {

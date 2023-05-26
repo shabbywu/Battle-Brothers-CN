@@ -156,7 +156,7 @@
     "ID": 293417057,
     "key": "[img]gfx/ui/events/event_33.png[/img] You tell the men to get back to marching. The thief wipes his mouth and stands up, wobbling as his weak legs take a few steps after you. He asks if maybe he could join the company. He'll give his life for you, if he m",
     "original": "[img]gfx/ui/events/event_33.png[/img] You tell the men to get back to marching. The thief wipes his mouth and stands up, wobbling as his weak legs take a few steps after you. He asks if maybe he could join the company. He'll give his life for you, if he must, just anything to not have to steal anymore.",
-    "translation": "[img]gfx/ui/events/event_33.png[/img] 你告诉你的手下回去继续行军。 小偷擦了擦他的嘴然后站了起来，摇晃着，用他那瘦弱的腿走了几步跟上了你。 他问他可不可以加入战队。 他会把他的生命献给你，如果他必须的话，这样他就什么都不用偷了。",
+    "translation": "[img]gfx/ui/events/event_33.png[/img] 你告诉你的手下回去继续行军。 小偷擦了擦他的嘴然后站了起来，摇晃着，用他那瘦弱的腿走了几步跟上了你。 他问他可不可以加入战团。 他会把他的生命献给你，如果他必须的话，这样他就什么都不用偷了。",
     "stage": 1
   },
   {
@@ -192,7 +192,7 @@
     "ID": 293417062,
     "key": "[img]gfx/ui/events/event_05.png[/img]You lower your weapon and the man crawls to you and hugs your legs. He kisses your feet until you draw away.\n\nTo get things straight, you give him a long list of orders and how it is to work in the company. You also gi",
     "original": "[img]gfx/ui/events/event_05.png[/img]You lower your weapon and the man crawls to you and hugs your legs. He kisses your feet until you draw away.\n\nTo get things straight, you give him a long list of orders and how it is to work in the company. You also give him a contract which he signs with a jagged 'x'. A few of the brothers then spend the rest of the day teaching him the ropes and introducing him to the rest of the company. By night's end, it seems like he's already beginning to fit in. By next morning, you wake to see a great number of supplies are missing and the new man is nowhere in sight. It appears that, although you stayed the thief's execution, he went on ahead and stole things anyway. Let that be a lesson to you.",
-    "translation": "[img]gfx/ui/events/event_05.png[/img]你放下了你的武器，那人爬向了你保住了你的双腿。 他亲吻着你的脚直到你走开。\n\n为了确保一切顺利，你给了他一张长长的关于命令和如何在战队里工作的清单。 你也给了他一份合同，他用一个歪歪扭扭的“x”来签。 有几个兄弟花了这天接下来的时间来教他如何打结，并把他介绍给战队里的其他人。 到了晚上时，他看起来已经开始适应了。 第二天早上，你醒来却看见一大堆补给不见了，新来的那个也看不见了。 看来，虽然你饶恕了那个小偷，他也依然偷了你的东西然后逃跑了。 让这成为给你的一个教训。",
+    "translation": "[img]gfx/ui/events/event_05.png[/img]你放下了你的武器，那人爬向了你保住了你的双腿。 他亲吻着你的脚直到你走开。\n\n为了确保一切顺利，你给了他一张长长的关于命令和如何在战团里工作的清单。 你也给了他一份合同，他用一个歪歪扭扭的“x”来签。 有几个兄弟花了这天接下来的时间来教他如何打结，并把他介绍给战团里的其他人。 到了晚上时，他看起来已经开始适应了。 第二天早上，你醒来却看见一大堆补给不见了，新来的那个也看不见了。 看来，虽然你饶恕了那个小偷，他也依然偷了你的东西然后逃跑了。 让这成为给你的一个教训。",
     "stage": 1
   },
   {

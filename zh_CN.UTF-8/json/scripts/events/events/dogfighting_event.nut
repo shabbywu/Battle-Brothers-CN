@@ -3,7 +3,7 @@
     "ID": 293415690,
     "key": "It appears the company also has the meanest and baddest dogs.",
     "original": "It appears the company also has the meanest and baddest dogs.",
-    "translation": "看来战队还拥有最卑鄙和最坏的狗狗们。",
+    "translation": "看来战团还拥有最卑鄙和最坏的狗狗们。",
     "stage": 1
   },
   {

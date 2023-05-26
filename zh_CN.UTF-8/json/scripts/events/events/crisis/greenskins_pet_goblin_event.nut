@@ -162,7 +162,7 @@
     "ID": 293413293,
     "key": "[img]gfx/ui/events/event_25.png[/img]You've no reason to further transgress upon this old man's day, and so you tell the company to give him and his hut a wide berth. The elder eyes you suspiciously every step of the way.%SPEECH_ON%Mmhmm, y'all have a goo",
     "original": "[img]gfx/ui/events/event_25.png[/img]You've no reason to further transgress upon this old man's day, and so you tell the company to give him and his hut a wide berth. The elder eyes you suspiciously every step of the way.%SPEECH_ON%Mmhmm, y'all have a good day now.%SPEECH_OFF%You nod and respond.%SPEECH_ON%Yeah, you too.%SPEECH_OFF%The chain moves again and is met with another hushing. Who knows what the hell was going on here, but the company has places to be.",
-    "translation": "[img]gfx/ui/events/event_25.png[/img]你没有理由再冒犯这位老人，所以你让大家离他和他的小屋远点。 老人用怀疑的目光看着你前进的每一步。%SPEECH_ON%嗯哼，你们现在都有美好的一天了。%SPEECH_OFF%你点头回应。%SPEECH_ON%好的，你也一样。%SPEECH_OFF%链条又动了一下，发出了另一个声音。 谁知道这到底是怎么回事，但战队有它自己的任务。",
+    "translation": "[img]gfx/ui/events/event_25.png[/img]你没有理由再冒犯这位老人，所以你让大家离他和他的小屋远点。 老人用怀疑的目光看着你前进的每一步。%SPEECH_ON%嗯哼，你们现在都有美好的一天了。%SPEECH_OFF%你点头回应。%SPEECH_ON%好的，你也一样。%SPEECH_OFF%链条又动了一下，发出了另一个声音。 谁知道这到底是怎么回事，但战团有它自己的任务。",
     "stage": 1
   },
   {

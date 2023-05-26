@@ -41,7 +41,7 @@
     "ID": 293414267,
     "key": "%terrainImage%{You look back at the company, then unsheathe your sword as you turn around. You swing it up and clip the crossbow and the man shoots it just over your shoulder. You drive the blade down the slat of wood and cut the cords of the weapon and s",
     "original": "%terrainImage%{You look back at the company, then unsheathe your sword as you turn around. You swing it up and clip the crossbow and the man shoots it just over your shoulder. You drive the blade down the slat of wood and cut the cords of the weapon and stab the steel into the man's chest. He goes down easy and you hear men shout in the distance, but they're scared and scampering away. Thieves like this know not to fight with sellswords. Unfortunately, the crossbow bolt that went over your shoulder struck %hurtbro%. He'll survive, but it is a garish wound.}",
-    "translation": "%terrainImage%{你回头看了看战队，然后在你转回来的时候一并拔出了剑。 你把它举了起来，然后砍在了弩上，那人射击了，弩箭擦着你的肩膀飞了过去。 你把锋刃压了下来，绕过了板条直接砍断了弩弦，然后直接把剑刺入了男人的胸膛。 他顺理成章地倒下了，而你听见了不远处有一帮人在叫喊，但是他们是在尖叫，逃走。 像这样子的盗贼不知道该怎么和佣兵战斗。 不幸的是，越过你肩膀的弩箭击中了 %hurtbro%。他会活下来的，但是那是很严重的伤。}",
+    "translation": "%terrainImage%{你回头看了看战团，然后在你转回来的时候一并拔出了剑。 你把它举了起来，然后砍在了弩上，那人射击了，弩箭擦着你的肩膀飞了过去。 你把锋刃压了下来，绕过了板条直接砍断了弩弦，然后直接把剑刺入了男人的胸膛。 他顺理成章地倒下了，而你听见了不远处有一帮人在叫喊，但是他们是在尖叫，逃走。 像这样子的盗贼不知道该怎么和佣兵战斗。 不幸的是，越过你肩膀的弩箭击中了 %hurtbro%。他会活下来的，但是那是很严重的伤。}",
     "stage": 1
   },
   {
@@ -157,7 +157,7 @@
     "ID": 293414283,
     "key": "%terrainImage%{You walk up to the man and help him sit down. He grins as one of his bottles clanks off the path and rolls away.%SPEECH_ON%Thankiicup, sir, jast, no, well, ya.%SPEECH_OFF%Nodding, you hold his hand out and spit on his fingers, then roll the",
     "original": "%terrainImage%{You walk up to the man and help him sit down. He grins as one of his bottles clanks off the path and rolls away.%SPEECH_ON%Thankiicup, sir, jast, no, well, ya.%SPEECH_OFF%Nodding, you hold his hand out and spit on his fingers, then roll the jewelry off and pocket them. He merely watches as though you were a physician treating a malady. The rest of your mercenaries strip him down and throw a goatskin tarp over him and then leave him there. As you walk away he asks if you know about the drink.%SPEECH_ON%Not, not sayin' away the secret, but, sirs, drinks are good.%SPEECH_OFF%Yes, are they ever. Unfortunately, as you rejoin the company %randombrother% reports that a kid saw everything and scampered off. You ask why he didn't chase after him. He looks at you shrewdly.%SPEECH_ON%I'm not the scampering sort, sir.%SPEECH_OFF%}",
-    "translation": "%terrainImage%{你走近了那个人，帮助他坐了下来。 当他的一个瓶子叮当一声掉在地上，滚到一边去的时候，他咧嘴笑了出来。%SPEECH_ON%谢谢，先生，只是，不，好吧，你。%SPEECH_OFF%点着头，你把他的手张开，并朝他的手指上吐了口口水，然后把那些珠宝首饰扒拉了下来，装进包里。 他只是看着，就好像你是一个医生，在治疗疾病而已。 你剩下的佣兵把他扒光，扔给他一块羊皮布，然后就不管他了。 当你离开的时候他问你懂不懂喝酒。%SPEECH_ON%这不，这不是什么秘密，但是，先生，酒是个好东西。%SPEECH_OFF%是的，它是。 不幸的是，当你重新回到战队的时候 %randombrother% 报告，有个孩子看到了整个过程，并且迅速地跑开了。 你问他为什么不追上他。 他机智地看着你。%SPEECH_ON%我不是那种速度型的，先生。%SPEECH_OFF%}",
+    "translation": "%terrainImage%{你走近了那个人，帮助他坐了下来。 当他的一个瓶子叮当一声掉在地上，滚到一边去的时候，他咧嘴笑了出来。%SPEECH_ON%谢谢，先生，只是，不，好吧，你。%SPEECH_OFF%点着头，你把他的手张开，并朝他的手指上吐了口口水，然后把那些珠宝首饰扒拉了下来，装进包里。 他只是看着，就好像你是一个医生，在治疗疾病而已。 你剩下的佣兵把他扒光，扔给他一块羊皮布，然后就不管他了。 当你离开的时候他问你懂不懂喝酒。%SPEECH_ON%这不，这不是什么秘密，但是，先生，酒是个好东西。%SPEECH_OFF%是的，它是。 不幸的是，当你重新回到战团的时候 %randombrother% 报告，有个孩子看到了整个过程，并且迅速地跑开了。 你问他为什么不追上他。 他机智地看着你。%SPEECH_ON%我不是那种速度型的，先生。%SPEECH_OFF%}",
     "stage": 1
   },
   {

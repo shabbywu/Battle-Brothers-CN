@@ -10,7 +10,7 @@
     "ID": 293416381,
     "key": "Let's go hire some more men for the company!",
     "original": "Let's go hire some more men for the company!",
-    "translation": "来让我们雇佣更多的人加入战队！",
+    "translation": "来让我们雇佣更多的人加入战团！",
     "stage": 1
   },
   {
@@ -59,7 +59,7 @@
     "ID": 293416388,
     "key": "[img]gfx/ui/events/event_05.png[/img]The entire company - a motley little crew if you say so yourself - enters your tent all at once. A troupe of sellswords appearing in such a fashion is not the friendliest of sights and so for a split-second you think t",
     "original": "[img]gfx/ui/events/event_05.png[/img]The entire company - a motley little crew if you say so yourself - enters your tent all at once. A troupe of sellswords appearing in such a fashion is not the friendliest of sights and so for a split-second you think to reach for your sword. But then you notice that none of them have their weapons out nor do they carry the faces of men about to commit a murder. While they don't seem to be forming a mutiny to take your head, you keep the thought in mind nonetheless.\n\n You are only further relieved when they don't immediately start talking, instead waiting for your words to come first. This is a show of respect, and so the thought of reaching for your sword grows more distant. Crossing your arms over the table, you ask them what is on their minds.\n\n They explain that the company is too thin. Everywhere they go there is danger and the men are now concerned that every new battle shall be their last. Finally, they state their wants outright: if they are going to survive, they're going to need more brothers by their side.",
-    "translation": "[img]gfx/ui/events/event_05.png[/img]这一整个战队的人－但其实不过是一个零零散散的小团队－全部都进入你的帐篷里面。 一群佣兵以这样的方式出现在眼前并不是最友好的景象所以在看见他们的一瞬间你的手就向剑伸去。 但是很快你就注意到他们并没有携带武器也没有带着一副想要杀人的表情。 尽管他们并没有想要发动叛乱来砍掉你的头，尽管如此你还是把这个可能性暗暗记在心里。\n\n 他们没有立刻说话而是等待你先发出问题，对此你感到些许欣慰。 这代表了他们对你的尊重，所以你也把手伸了回来不再去想它。 你交叉双臂撑在桌子上，然年询问他们的想法。\n\n 他们解释说现在团队实在是太过单薄。 现在他们去的每一个地方都充满着危险并且也在担心他们现在参加的每场新的战斗都有可能成为他们最后一场。 最后，他们坦率地表达了他们的愿望：如果团队想要生存下去，那名这里需要更多的成员。",
+    "translation": "[img]gfx/ui/events/event_05.png[/img]这一整个战团的人－但其实不过是一个零零散散的小团队－全部都进入你的帐篷里面。 一群佣兵以这样的方式出现在眼前并不是最友好的景象所以在看见他们的一瞬间你的手就向剑伸去。 但是很快你就注意到他们并没有携带武器也没有带着一副想要杀人的表情。 尽管他们并没有想要发动叛乱来砍掉你的头，尽管如此你还是把这个可能性暗暗记在心里。\n\n 他们没有立刻说话而是等待你先发出问题，对此你感到些许欣慰。 这代表了他们对你的尊重，所以你也把手伸了回来不再去想它。 你交叉双臂撑在桌子上，然年询问他们的想法。\n\n 他们解释说现在团队实在是太过单薄。 现在他们去的每一个地方都充满着危险并且也在担心他们现在参加的每场新的战斗都有可能成为他们最后一场。 最后，他们坦率地表达了他们的愿望：如果团队想要生存下去，那名这里需要更多的成员。",
     "stage": 1
   },
   {
@@ -88,7 +88,7 @@
     "ID": 293416392,
     "key": "Things will pick up for the company, I'm sure.",
     "original": "Things will pick up for the company, I'm sure.",
-    "translation": "我相信战队的情况会好转的。",
+    "translation": "我相信战团的情况会好转的。",
     "stage": 1
   },
   {

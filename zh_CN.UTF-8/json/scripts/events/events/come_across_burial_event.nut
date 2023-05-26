@@ -59,7 +59,7 @@
     "ID": 293412919,
     "key": "[img]gfx/ui/events/event_28.png[/img]You reach through the crowd and grab the dead man's sword. One of the attendees screams out. %randombrother% uncorks a punch and sends the peasant astral planing. The rest of the company draw out their weapons to make ",
     "original": "[img]gfx/ui/events/event_28.png[/img]You reach through the crowd and grab the dead man's sword. One of the attendees screams out. %randombrother% uncorks a punch and sends the peasant astral planing. The rest of the company draw out their weapons to make sure any further protests don't get far. An elderly woman cuts through the crowd as well as an elderly woman can, wobbling and shaking.%SPEECH_ON%Sir, that don't belong to you. Put it back.%SPEECH_OFF%",
-    "translation": "[img]gfx/ui/events/event_28.png[/img]你穿过人群，抓起死者的剑。 一名与会者尖叫起来。%randombrother% 打开酒瓶塞，把泡沫喷到一个农民脸上。 战队的其他成员拿出了他们的武器，以确保任何进一步的抗议不会发生。 一位上了年纪的妇女从人群中穿过，像老妇人一样，摇摇晃晃的。%SPEECH_ON%先生，那不属于你。还给我们。%SPEECH_OFF%",
+    "translation": "[img]gfx/ui/events/event_28.png[/img]你穿过人群，抓起死者的剑。 一名与会者尖叫起来。%randombrother% 打开酒瓶塞，把泡沫喷到一个农民脸上。 战团的其他成员拿出了他们的武器，以确保任何进一步的抗议不会发生。 一位上了年纪的妇女从人群中穿过，像老妇人一样，摇摇晃晃的。%SPEECH_ON%先生，那不属于你。还给我们。%SPEECH_OFF%",
     "stage": 1
   },
   {

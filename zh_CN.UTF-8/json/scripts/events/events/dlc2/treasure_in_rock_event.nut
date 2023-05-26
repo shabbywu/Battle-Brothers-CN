@@ -83,7 +83,7 @@
     "ID": 293414082,
     "key": "Used his unique stature to benefit the company",
     "original": "Used his unique stature to benefit the company",
-    "translation": "利用他独特的身材造福战队",
+    "translation": "利用他独特的身材造福战团",
     "stage": 1
   },
   {
@@ -97,7 +97,7 @@
     "ID": 293414084,
     "key": "Used his mining experience to benefit the company",
     "original": "Used his mining experience to benefit the company",
-    "translation": "利用他的采矿经验使战队受益",
+    "translation": "利用他的采矿经验使战团受益",
     "stage": 1
   },
   {

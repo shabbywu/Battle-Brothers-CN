@@ -76,7 +76,7 @@
     "ID": 293414428,
     "key": "[img]gfx/ui/events/event_10.png[/img]{Being the collection of hunters that you are, it becomes readily apparent that you've entered some fine hunting grounds. %randombrother% suggests the company go for a hunt, though he warns the group should be mindful ",
     "original": "[img]gfx/ui/events/event_10.png[/img]{Being the collection of hunters that you are, it becomes readily apparent that you've entered some fine hunting grounds. %randombrother% suggests the company go for a hunt, though he warns the group should be mindful of just how much they pluck from these bountiful stretches.}",
-    "translation": "[img]gfx/ui/events/event_10.png[/img]{作为猎人圈子中的一员，很明显你已经进入了一个良好的狩猎场。%randombrother% 建议战队去狩猎，但他警告说，团队应该重视适度猎杀这些丰富的猎物。}",
+    "translation": "[img]gfx/ui/events/event_10.png[/img]{作为猎人圈子中的一员，很明显你已经进入了一个良好的狩猎场。%randombrother% 建议战团去狩猎，但他警告说，团队应该重视适度猎杀这些丰富的猎物。}",
     "stage": 1
   },
   {

@@ -24,7 +24,7 @@
     "ID": 293413528,
     "key": "The company appreciates it.",
     "original": "The company appreciates it.",
-    "translation": "战队为此感到欣喜。",
+    "translation": "战团为此感到欣喜。",
     "stage": 1
   },
   {

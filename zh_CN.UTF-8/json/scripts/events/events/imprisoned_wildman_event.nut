@@ -47,7 +47,7 @@
     "ID": 293416086,
     "key": "%name% was 'saved' by you during a confrontation with an animal tamer-turned-enslaver. A sense of gratitude and debt overcomes any language barriers: the once imprisoned wildman serves the company loyally for rescuing him.",
     "original": "%name% was 'saved' by you during a confrontation with an animal tamer-turned-enslaver. A sense of gratitude and debt overcomes any language barriers: the once imprisoned wildman serves the company loyally for rescuing him.",
-    "translation": "%name% 是在一次与驯兽者变成奴役者的对抗中被你“拯救”的。 一种感激和人情债的感觉克服了任何语言障碍：这个曾经被囚禁的野人为战队服务，忠诚于帮助他的人。",
+    "translation": "%name% 是在一次与驯兽者变成奴役者的对抗中被你“拯救”的。 一种感激和人情债的感觉克服了任何语言障碍：这个曾经被囚禁的野人为战团服务，忠诚于帮助他的人。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = \"%name% was 'saved' by you during a confrontation with an animal tamer-turned-enslaver. A sense of gratitude and debt overcomes any language barriers: the once imprisoned wildman serves the company loyally for rescuing him.\""
   },
@@ -55,7 +55,7 @@
     "ID": 293416087,
     "key": "Welcome to the company.",
     "original": "Welcome to the company.",
-    "translation": "欢迎加入战队。",
+    "translation": "欢迎加入战团。",
     "stage": 1
   },
   {
@@ -309,7 +309,7 @@
     "ID": 293416122,
     "key": "[img]gfx/ui/events/event_100.png[/img]You don't think the imprisoned wildman would fit in with the company, but you do set him free nonetheless. He shoots out his cage like a banshee and runs for the tree line. There he stands at a distance hooting and ho",
     "original": "[img]gfx/ui/events/event_100.png[/img]You don't think the imprisoned wildman would fit in with the company, but you do set him free nonetheless. He shoots out his cage like a banshee and runs for the tree line. There he stands at a distance hooting and hollering until he runs off again.",
-    "translation": "[img]gfx/ui/events/event_100.png[/img]你不认为那个被囚禁的野人会适应战队，但你还是释放了他。 他像女妖一样冲出笼子，向树林深处奔去。 他站在远处，不断嚎叫，直到再次跑掉。",
+    "translation": "[img]gfx/ui/events/event_100.png[/img]你不认为那个被囚禁的野人会适应战团，但你还是释放了他。 他像女妖一样冲出笼子，向树林深处奔去。 他站在远处，不断嚎叫，直到再次跑掉。",
     "stage": 1
   },
   {

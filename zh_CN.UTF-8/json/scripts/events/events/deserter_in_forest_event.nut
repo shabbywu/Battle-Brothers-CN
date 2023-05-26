@@ -55,7 +55,7 @@
     "ID": 293413512,
     "key": "I better not reget this. Welcome to the company.",
     "original": "I better not reget this. Welcome to the company.",
-    "translation": "我最好不会因此后悔。 欢迎加入战队。",
+    "translation": "我最好不会因此后悔。 欢迎加入战团。",
     "stage": 1
   },
   {

@@ -38,7 +38,7 @@
     "ID": 293414847,
     "key": "[img]gfx/ui/events/event_163.png[/img]{The gladiator sits back down.%SPEECH_ON%Well, what the fuck was all that big bravado speech for?%SPEECH_OFF%%gladiator% apologizes, throwing you a glare between words whlie the rest of the company laughs.}",
     "original": "[img]gfx/ui/events/event_163.png[/img]{The gladiator sits back down.%SPEECH_ON%Well, what the fuck was all that big bravado speech for?%SPEECH_OFF%%gladiator% apologizes, throwing you a glare between words whlie the rest of the company laughs.}",
-    "translation": "[img]gfx/ui/events/event_163.png[/img]{角斗士坐了下来。%SPEECH_ON%好吧，他妈的那些虚张声势的演讲是为了什么？%SPEECH_OFF%%gladiator% 向你道歉，在战队其他人笑的时候，他在言语间瞪了你一眼。}",
+    "translation": "[img]gfx/ui/events/event_163.png[/img]{角斗士坐了下来。%SPEECH_ON%好吧，他妈的那些虚张声势的演讲是为了什么？%SPEECH_OFF%%gladiator% 向你道歉，在战团其他人笑的时候，他在言语间瞪了你一眼。}",
     "stage": 1
   },
   {
@@ -125,7 +125,7 @@
     "ID": 293414859,
     "key": "[img]gfx/ui/events/event_163.png[/img]{%gladiator% laughs.%SPEECH_ON%Friend, I was once a gladiator. Come with us and treat the whole world as your arena. I know you have that itch. I know it's somewhere down in there. Find it. That glee of the kill. That",
     "original": "[img]gfx/ui/events/event_163.png[/img]{%gladiator% laughs.%SPEECH_ON%Friend, I was once a gladiator. Come with us and treat the whole world as your arena. I know you have that itch. I know it's somewhere down in there. Find it. That glee of the kill. That energy from victory. Share it with us, a band of battle brothers.%SPEECH_OFF%The elder gladiator stares at his equipment. His reflection stares back, albeit muddled and warbled from dirt and dents. He nods.%SPEECH_ON%You're right. What in the Gilder's name am I thinking? I've been piss poor and pissed on and pissed off for far too long. If your company will have me, then I shall end my days going out the way I lived it: killing!%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_163.png[/img]{%gladiator% 笑了笑。%SPEECH_ON%朋友，我曾经是个角斗士。 跟我们来吧，把整个世界当做你的角斗场。 我知道你有那种瘙痒。 我知道它在那下面。 找到它。那战斗的欣喜。 那胜利的力量。 跟我们这群战场兄弟分享吧。%SPEECH_OFF%年老的角斗士看着他的装备。 他的倒影也看向他，尽管布满尘土还有坑洼。他点头。%SPEECH_ON%你说的对。以镀金者之名我刚才都在想什么？ 我已经在贫穷中被欺凌了太久了。 如果你的战队愿意接受我，那么我将会以我过去生活过的方式度过我的日子：杀戮！%SPEECH_OFF%}",
+    "translation": "[img]gfx/ui/events/event_163.png[/img]{%gladiator% 笑了笑。%SPEECH_ON%朋友，我曾经是个角斗士。 跟我们来吧，把整个世界当做你的角斗场。 我知道你有那种瘙痒。 我知道它在那下面。 找到它。那战斗的欣喜。 那胜利的力量。 跟我们这群战场兄弟分享吧。%SPEECH_OFF%年老的角斗士看着他的装备。 他的倒影也看向他，尽管布满尘土还有坑洼。他点头。%SPEECH_ON%你说的对。以镀金者之名我刚才都在想什么？ 我已经在贫穷中被欺凌了太久了。 如果你的战团愿意接受我，那么我将会以我过去生活过的方式度过我的日子：杀戮！%SPEECH_OFF%}",
     "stage": 1
   },
   {

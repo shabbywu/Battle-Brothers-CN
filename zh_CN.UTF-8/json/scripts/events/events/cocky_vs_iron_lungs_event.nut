@@ -3,7 +3,7 @@
     "ID": 293412873,
     "key": "Was humiliated in front of the company",
     "original": "Was humiliated in front of the company",
-    "translation": "在战队面前丢脸",
+    "translation": "在战团面前丢脸",
     "stage": 1
   },
   {

@@ -55,7 +55,7 @@
     "ID": 293416015,
     "key": "%terrainImage%While heading toward your destination, %volunteer% runs up to you with a bundle of herbs in hand. Now you know this fool knows nothing about plants or wildlife, but he seems rather persistent in wanting to try them out. Something about 'hear",
     "original": "%terrainImage%While heading toward your destination, %volunteer% runs up to you with a bundle of herbs in hand. Now you know this fool knows nothing about plants or wildlife, but he seems rather persistent in wanting to try them out. Something about 'hearing' of magical powers to be found in the essence of herbs. This talk gets the attention of a few others in the company. Soon, a number of them are asking to try out the 'medicine' for the good of their brothers.",
-    "translation": "%terrainImage%在朝你的目的地进发的时候，%volunteer% 手里拿着一把草药向你跑来。 现在你知道这个傻蛋一点也不了解植物和野生动物，但他似乎非常执着地想要试一试它们。 大概什么“听说”草药的精华中蕴含着神奇的魔力。 这个话题引起了战队里其他的伙伴的注意。 不久之后，为了队伍里的兄弟的身体，一些人开始要求尝试一下这些“药物”。",
+    "translation": "%terrainImage%在朝你的目的地进发的时候，%volunteer% 手里拿着一把草药向你跑来。 现在你知道这个傻蛋一点也不了解植物和野生动物，但他似乎非常执着地想要试一试它们。 大概什么“听说”草药的精华中蕴含着神奇的魔力。 这个话题引起了战团里其他的伙伴的注意。 不久之后，为了队伍里的兄弟的身体，一些人开始要求尝试一下这些“药物”。",
     "stage": 1
   },
   {

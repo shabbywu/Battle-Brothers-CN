@@ -43,7 +43,7 @@
     "ID": 293410716,
     "key": "Got drunk with the company",
     "original": "Got drunk with the company",
-    "translation": "在战队中喝醉了",
+    "translation": "在战团中喝醉了",
     "stage": 1
   }
 ]

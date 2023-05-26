@@ -114,7 +114,7 @@
     "ID": 293419708,
     "key": "{%name% is one of the worst people you have ever come to know. He is relentlessly brutal on the indebted, even by your measure, and is responsible for outright killing a few of your catches. That said, his mean streak will serve the company well. And give",
     "original": "{%name% is one of the worst people you have ever come to know. He is relentlessly brutal on the indebted, even by your measure, and is responsible for outright killing a few of your catches. That said, his mean streak will serve the company well. And given that you've already whipped him a time or three for losing inventory, you know he can take a hit as well as he can give it.}",
-    "translation": "{%name% 是你认识的最糟糕的人之一。 他对负债者毫不留情地残暴，即使以你的标准来衡量，他也要对你的一些捕获物负责。 也就是说，他的刻薄作风将对战队很有好处。 考虑到你已经因为失去库存而鞭打了他一到三次，你知道他也能承受打击。}",
+    "translation": "{%name% 是你认识的最糟糕的人之一。 他对负债者毫不留情地残暴，即使以你的标准来衡量，他也要对你的一些捕获物负责。 也就是说，他的刻薄作风将对战团很有好处。 考虑到你已经因为失去库存而鞭打了他一到三次，你知道他也能承受打击。}",
     "stage": 1,
     "context": "bros.1.getBackground().m.RawDescription = \"{%name% is one of the worst people you have ever come to know. He is relentlessly brutal on the indebted, even by your measure, and is responsible for outright killing a few of your catches. That said, his mean streak will serve the company well. And given that you've already whipped him a time or three for losing inventory, you know he can take a hit as well as he can give it.}\""
   },

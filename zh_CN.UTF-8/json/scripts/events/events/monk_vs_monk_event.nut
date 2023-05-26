@@ -77,7 +77,7 @@
     "ID": 293416362,
     "key": "[img]gfx/ui/events/event_06.png[/img]Now, this isn't the first time you've seen two monks squabbling. The last time it happened the debaters hashed it out right quick. So naturally you think these two will do the same. Alas, it isn't to be. Their voices g",
     "original": "[img]gfx/ui/events/event_06.png[/img]Now, this isn't the first time you've seen two monks squabbling. The last time it happened the debaters hashed it out right quick. So naturally you think these two will do the same. Alas, it isn't to be. Their voices grow louder and louder. You never knew monks could be so sharp-tongued. Fierceness and lewdness don't even begin to describe the insults being thrown back and forth. It isn't but a few seconds later that they are on the ground, wrestling and punching until you order %otherguy% to put an end to it.\n\nThe company of sellswords and their bloody daywork, it seems, have left a mark on the once peaceful demeanor of the two.",
-    "translation": "[img]gfx/ui/events/event_06.png[/img]现在，这两个僧侣的争吵已经不是第一次了。 上次辩论时这两位很快就把问题解决了。 所以你认为这一回也会和上一次一样快速结束。 唉，这次不是。 他们的声音越来越大。 你从没想到僧侣会说出这么尖酸刻薄的话。 狠毒和粗俗甚至不能描述这种反常态的侮辱。 但是这没持续多久几秒钟以后他们都已经在地上了，互相拳打脚踢知道你下达命令让 %otherguy% 结束这一切。\n\n和战队里佣兵的相处和他们血腥的日常，这个似乎，已经在他们两个原本应该和平的行为增添了自己的符号。",
+    "translation": "[img]gfx/ui/events/event_06.png[/img]现在，这两个僧侣的争吵已经不是第一次了。 上次辩论时这两位很快就把问题解决了。 所以你认为这一回也会和上一次一样快速结束。 唉，这次不是。 他们的声音越来越大。 你从没想到僧侣会说出这么尖酸刻薄的话。 狠毒和粗俗甚至不能描述这种反常态的侮辱。 但是这没持续多久几秒钟以后他们都已经在地上了，互相拳打脚踢知道你下达命令让 %otherguy% 结束这一切。\n\n和战团里佣兵的相处和他们血腥的日常，这个似乎，已经在他们两个原本应该和平的行为增添了自己的符号。",
     "stage": 1
   },
   {
@@ -99,7 +99,7 @@
     "ID": 293416365,
     "key": "A mercenary company is no place to talk religion!",
     "original": "A mercenary company is no place to talk religion!",
-    "translation": "一个雇佣兵战队可不适合谈信仰！",
+    "translation": "一个雇佣兵战团可不适合谈信仰！",
     "stage": 1
   }
 ]

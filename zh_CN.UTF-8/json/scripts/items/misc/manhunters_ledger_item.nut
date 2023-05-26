@@ -11,7 +11,7 @@
     "ID": 293418672,
     "key": " Manhunters in the company",
     "original": " Manhunters in the company",
-    "translation": "战队搜捕者",
+    "translation": "战团搜捕者",
     "stage": 1,
     "context": "nonIndebted + ' Manhunters in the company'"
   },
@@ -19,7 +19,7 @@
     "ID": 293418673,
     "key": "There are too few Indebted in the company! The Manhunters will become dissatisfied if this continues!",
     "original": "There are too few Indebted in the company! The Manhunters will become dissatisfied if this continues!",
-    "translation": "战队里的负债者太少了！ 如果这种情况继续下去，搜捕者会感到不满意！",
+    "translation": "战团里的负债者太少了！ 如果这种情况继续下去，搜捕者会感到不满意！",
     "stage": 1
   },
   {
@@ -34,7 +34,7 @@
     "ID": 293418675,
     "key": "Company Ledger",
     "original": "Company Ledger",
-    "translation": "战队账簿",
+    "translation": "战团账簿",
     "stage": 1,
     "context": "this.m.Name = 'Company Ledger'"
   },
@@ -42,7 +42,7 @@
     "ID": 293418676,
     "key": " Indebted in the company",
     "original": " Indebted in the company",
-    "translation": "战队负债者",
+    "translation": "战团负债者",
     "stage": 1,
     "context": "indebted + ' Indebted in the company'"
   },

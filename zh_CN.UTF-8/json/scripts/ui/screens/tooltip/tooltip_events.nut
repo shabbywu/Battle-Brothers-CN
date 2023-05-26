@@ -31,7 +31,7 @@
     "ID": 293422957,
     "key": "There's space here to add another non-combat follower to your company.",
     "original": "There's space here to add another non-combat follower to your company.",
-    "translation": "这里有空间添加另一个非战斗追随者到你的战队。",
+    "translation": "这里有空间添加另一个非战斗追随者到你的战团。",
     "stage": 1
   },
   {
@@ -81,7 +81,7 @@
     "ID": 293422964,
     "key": "See the obituary which lists those who have fallen in service to the company since you took command.",
     "original": "See the obituary which lists those who have fallen in service to the company since you took command.",
-    "translation": "看看这篇讣告，上面列出了自你上任以来为战队服务的人。",
+    "translation": "看看这篇讣告，上面列出了自你上任以来为战团服务的人。",
     "stage": 1
   },
   {
@@ -364,7 +364,7 @@
     "ID": 293423003,
     "key": "You have not announced any ambition for your company to pursue. You'll be asked to do so as the game progresses.",
     "original": "You have not announced any ambition for your company to pursue. You'll be asked to do so as the game progresses.",
-    "translation": "你还没有宣布你的战队有任何追求的野心。 随着游戏的进行，你将被要求这样做。",
+    "translation": "你还没有宣布你的战团有任何追求的野心。 随着游戏的进行，你将被要求这样做。",
     "stage": 1
   },
   {
@@ -464,7 +464,7 @@
     "ID": 293423017,
     "key": "Contracts will pay less, and deserters will take their equipment with them.\n\nRecommended for experts in the game who want more of a challenge managing the company's funds and supplies.",
     "original": "Contracts will pay less, and deserters will take their equipment with them.\n\nRecommended for experts in the game who want more of a challenge managing the company's funds and supplies.",
-    "translation": "合同费用会减少，逃兵会带上他们的装备。\n\n推荐给那些希望在管理战队资金和补给方面遇到更多挑战的游戏专家。",
+    "translation": "合同费用会减少，逃兵会带上他们的装备。\n\n推荐给那些希望在管理战团资金和补给方面遇到更多挑战的游戏专家。",
     "stage": 1
   },
   {
@@ -478,7 +478,7 @@
     "ID": 293423019,
     "key": "The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou currently don't pay anyone.",
     "original": "The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou currently don't pay anyone.",
-    "translation": "你的雇佣兵战队拥有的硬币数量。 用于每天中午给每个人发工资，还可以雇新人和购买装备。\n\n你现在不给任何人付工资。",
+    "translation": "你的雇佣兵战团拥有的硬币数量。 用于每天中午给每个人发工资，还可以雇新人和购买装备。\n\n你现在不给任何人付工资。",
     "stage": 1
   },
   {
@@ -1047,7 +1047,7 @@
     "ID": 293423098,
     "key": "The amount of coin your mercenary company has. Used to pay every man daily, as well as to hire new men and purchase equipment.\n\nYou pay out [color=",
     "original": "The amount of coin your mercenary company has. Used to pay every man daily, as well as to hire new men and purchase equipment.\n\nYou pay out [color=",
-    "translation": "你的雇佣兵战队拥有的硬币数量。 用于每天支付每个人的工资，还可以雇新人和购买装备。\n\n你支付 [color=",
+    "translation": "你的雇佣兵战团拥有的硬币数量。 用于每天支付每个人的工资，还可以雇新人和购买装备。\n\n你支付 [color=",
     "stage": 1,
     "context": "'The amount of coin your mercenary company has. Used to pay every man daily, as well as to hire new men and purchase equipment.\n\nYou pay out [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyMoney + '[/color] crowns per day.\n\n[color=' + this.Const.UI.Color.NegativeValue + ']You have no more crowns to pay your men with! Earn some crowns fast or let some people go before they desert you one by one.[/color]'"
   },
@@ -1221,14 +1221,14 @@
     "ID": 293423122,
     "key": "Hire new men for your mercenary company. The quality and quantity of volunteers depends on the size and type of settlement, as well as your reputation here. Every few days, new people will arrive, and others will travel on.",
     "original": "Hire new men for your mercenary company. The quality and quantity of volunteers depends on the size and type of settlement, as well as your reputation here. Every few days, new people will arrive, and others will travel on.",
-    "translation": "为你的雇佣兵战队雇佣新人。 志愿者的质量和数量取决于这个定居点的规模和类型，以及你在这里的声誉。 每隔几天，就会有新的人来，其他人会继续旅行。",
+    "translation": "为你的雇佣兵战团雇佣新人。 志愿者的质量和数量取决于这个定居点的规模和类型，以及你在这里的声誉。 每隔几天，就会有新的人来，其他人会继续旅行。",
     "stage": 1
   },
   {
     "ID": 293423123,
     "key": "Ironman mode disables manual saving. Only a single save will exist for the company, and the game is automatically saved during the game and on exiting it. Losing the whole company means losing the save. Recommended for the best experience once you've lear",
     "original": "Ironman mode disables manual saving. Only a single save will exist for the company, and the game is automatically saved during the game and on exiting it. Losing the whole company means losing the save. Recommended for the best experience once you've learned the game.\n\nNote that on weaker computers autosaves may result in the game pausing for a few seconds.",
-    "translation": "铁人模式禁用手动保存。 战队只有一个保存，游戏在游戏期间和退出时自动保存。 失去战队意味着失去存档。 一旦你学会了游戏，就推荐给你最好的体验。\n\n请注意，在较差的计算机上，自动保存可能会导致游戏暂停几秒钟。",
+    "translation": "铁人模式禁用手动保存。 战团只有一个保存，游戏在游戏期间和退出时自动保存。 失去战团意味着失去存档。 一旦你学会了游戏，就推荐给你最好的体验。\n\n请注意，在较差的计算机上，自动保存可能会导致游戏暂停几秒钟。",
     "stage": 1
   },
   {
@@ -1315,7 +1315,7 @@
     "ID": 293423135,
     "key": "The number of days that the character served in the company until their demise.",
     "original": "The number of days that the character served in the company until their demise.",
-    "translation": "角色在战队任职到其死亡的天数。",
+    "translation": "角色在战团任职到其死亡的天数。",
     "stage": 1
   },
   {
@@ -1815,7 +1815,7 @@
     "ID": 293423204,
     "key": "Book passage for your company and fast travel to the selected destination.",
     "original": "Book passage for your company and fast travel to the selected destination.",
-    "translation": "为你的战队预订商票，并快速前往选定的目的地。",
+    "translation": "为你的战团预订商票，并快速前往选定的目的地。",
     "stage": 1
   },
   {
@@ -1935,7 +1935,7 @@
     "ID": 293423221,
     "key": "A mercenary company has to carry a lot of equipment and supplies. By using carts and wagons, you can expand your available inventory space and carry even more.",
     "original": "A mercenary company has to carry a lot of equipment and supplies. By using carts and wagons, you can expand your available inventory space and carry even more.",
-    "translation": "雇佣兵战队必须携带大量的装备和物资。 通过使用货车和载重货车，你可以扩大你的可用库存空间，并携带更多。",
+    "translation": "雇佣兵战团必须携带大量的装备和物资。 通过使用货车和载重货车，你可以扩大你的可用库存空间，并携带更多。",
     "stage": 1
   },
   {
@@ -2101,7 +2101,7 @@
     "ID": 293423244,
     "key": "Move the camera to center and zoom in on your mercenary company.",
     "original": "Move the camera to center and zoom in on your mercenary company.",
-    "translation": "把相机移到中间，放大你的雇佣兵战队。",
+    "translation": "把相机移到中间，放大你的雇佣兵战团。",
     "stage": 1
   },
   {
@@ -2258,7 +2258,7 @@
     "ID": 293423266,
     "key": "Your renown is your repute as a professional mercenary company and reflects how reliable and competent people judge you to be. The higher your renown, the higher-paid and more difficult contracts people will entrust you with. Renown increases on successfu",
     "original": "Your renown is your repute as a professional mercenary company and reflects how reliable and competent people judge you to be. The higher your renown, the higher-paid and more difficult contracts people will entrust you with. Renown increases on successfully completing ambitions and contracts, and winning battles, and decreases on failing to do so.",
-    "translation": "你的声望是你作为一个专业的雇佣兵战队的名气，反映了人们对你的评价是多么的可靠和有能力。 你的声望越高，报酬越高，人们委托你的合同就越困难。 成功完成野心和合同，打赢仗，声望会增加，失败会减少。",
+    "translation": "你的声望是你作为一个专业的雇佣兵战团的名气，反映了人们对你的评价是多么的可靠和有能力。 你的声望越高，报酬越高，人们委托你的合同就越困难。 成功完成野心和合同，打赢仗，声望会增加，失败会减少。",
     "stage": 1
   },
   {
@@ -2372,7 +2372,7 @@
     "ID": 293423282,
     "key": "The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou pay out [color=",
     "original": "The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou pay out [color=",
-    "translation": "你的雇佣兵战队拥有的硬币数量。 用于每天中午给每个人发工资，还可以雇新人和购买装备。\n\n你支付 [color=",
+    "translation": "你的雇佣兵战团拥有的硬币数量。 用于每天中午给每个人发工资，还可以雇新人和购买装备。\n\n你支付 [color=",
     "stage": 1,
     "context": "'The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou pay out [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyMoney + '[/color] crowns per day. Your [color=' + this.Const.UI.Color.PositiveValue + ']' + money + '[/color] crowns will last you for [color=' + this.Const.UI.Color.PositiveValue + ']' + time + '[/color] more days.'"
   },
@@ -2394,21 +2394,21 @@
     "ID": 293423285,
     "key": "Company Name",
     "original": "Company Name",
-    "translation": "战队名称",
+    "translation": "战团名称",
     "stage": 1
   },
   {
     "ID": 293423286,
     "key": "Only contracts by the noble house owning this fortification are available here, but they don't recognize you as worthy of their attention. Increase your renown and fulfill the ambition of noble houses to take notice of the company in order to unlock new c",
     "original": "Only contracts by the noble house owning this fortification are available here, but they don't recognize you as worthy of their attention. Increase your renown and fulfill the ambition of noble houses to take notice of the company in order to unlock new contracts!",
-    "translation": "这里只有拥有这座防御工事的贵族家族的合同，但他们不承认你值得他们关注。 增加你的声望，完成让贵族家族注意到你的战队的野心，以解锁新合同！",
+    "translation": "这里只有拥有这座防御工事的贵族家族的合同，但他们不承认你值得他们关注。 增加你的声望，完成让贵族家族注意到你的战团的野心，以解锁新合同！",
     "stage": 1
   },
   {
     "ID": 293423287,
     "key": "The Blazing Deserts DLC adds a new desert region to the south inspired by medieval Arabic and Persian cultures, a new late game crisis involving a holy war, a retinue of non-combat followers with which to customize your company, alchemical contraptions an",
     "original": "The Blazing Deserts DLC adds a new desert region to the south inspired by medieval Arabic and Persian cultures, a new late game crisis involving a holy war, a retinue of non-combat followers with which to customize your company, alchemical contraptions and primitive firearms, new human and beastly opponents, new contracts and events, and more.",
-    "translation": "炽热的沙漠DLC为南方增添了一个新的沙漠地区，灵感来自中世纪的阿拉伯和波斯文化，一场新的涉及圣战的游戏后期危机，非战斗追随者随从可以改制你的战队，炼金术装置和原始火器，新的人类和野兽对手，新的合同和事件，等等。",
+    "translation": "炽热的沙漠DLC为南方增添了一个新的沙漠地区，灵感来自中世纪的阿拉伯和波斯文化，一场新的涉及圣战的游戏后期危机，非战斗追随者随从可以改制你的战团，炼金术装置和原始火器，新的人类和野兽对手，新的合同和事件，等等。",
     "stage": 1
   },
   {
@@ -2552,7 +2552,7 @@
     "ID": 293423307,
     "key": "Switch to viewing the global stash of your mercenary company, or the ground beneath the currently selected character while in combat.",
     "original": "Switch to viewing the global stash of your mercenary company, or the ground beneath the currently selected character while in combat.",
-    "translation": "切换到查看你的雇佣兵战队的仓库，或在战斗中当前选定角色下方的地面。",
+    "translation": "切换到查看你的雇佣兵战团的仓库，或在战斗中当前选定角色下方的地面。",
     "stage": 1
   },
   {
@@ -2786,7 +2786,7 @@
     "ID": 293423340,
     "key": "Lock or unlock the camera to always be centered on your mercenary company.",
     "original": "Lock or unlock the camera to always be centered on your mercenary company.",
-    "translation": "锁定或解锁相机，始终集中在你的雇佣兵战队。",
+    "translation": "锁定或解锁相机，始终集中在你的雇佣兵战团。",
     "stage": 1
   },
   {
@@ -2980,7 +2980,7 @@
     "ID": 293423367,
     "key": "Your reputation reflects how people in the world judge your mercenary company to conduct itself based on past actions. Do you show mercy to your enemies? Do you burn down farmsteads and massacre the peasantry? Based on your reputation, people may offer yo",
     "original": "Your reputation reflects how people in the world judge your mercenary company to conduct itself based on past actions. Do you show mercy to your enemies? Do you burn down farmsteads and massacre the peasantry? Based on your reputation, people may offer you different kinds of contracts, and both contracts and events may play out differently.",
-    "translation": "你的声誉反映了世界上的人们如何根据过去的行为判断你的雇佣兵战队的行为。 你对敌人仁慈吗？ 你烧了农庄，屠杀了农民吗？ 根据你的声誉，人们可能会给你提供不同种类的合同，合同和事件的执行方式也可能不同。",
+    "translation": "你的声誉反映了世界上的人们如何根据过去的行为判断你的雇佣兵战团的行为。 你对敌人仁慈吗？ 你烧了农庄，屠杀了农民吗？ 根据你的声誉，人们可能会给你提供不同种类的合同，合同和事件的执行方式也可能不同。",
     "stage": 1
   },
   {
@@ -3030,7 +3030,7 @@
     "ID": 293423374,
     "key": "The Warriors of the North DLC adds a new human faction of northern barbarians with their own fighting style and equipment, different starting scenarios for your company, new nordic and rus inspired equipment, as well as new contracts and events.",
     "original": "The Warriors of the North DLC adds a new human faction of northern barbarians with their own fighting style and equipment, different starting scenarios for your company, new nordic and rus inspired equipment, as well as new contracts and events.",
-    "translation": "北方的勇士DLC添加了一个新的北方野蛮人派系，他们有自己的战斗风格和装备，你的战队有不同的开始剧情，新的北欧和罗斯优秀的装备，以及新的合同和事件。",
+    "translation": "北方的勇士DLC添加了一个新的北方野蛮人派系，他们有自己的战斗风格和装备，你的战团有不同的开始剧情，新的北欧和罗斯优秀的装备，以及新的合同和事件。",
     "stage": 1
   },
   {

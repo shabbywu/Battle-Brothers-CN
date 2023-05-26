@@ -31,7 +31,7 @@
     "ID": 293417164,
     "key": "%townImage%%peacekeeperfull% steps in between %troublemaker% and the old man. The troublemaking sellsword laughs and sheathes his weapon. He turns back to the rest of the company, grinning and shaking his head, but you notice that this smile quickly fades",
     "original": "%townImage%%peacekeeperfull% steps in between %troublemaker% and the old man. The troublemaking sellsword laughs and sheathes his weapon. He turns back to the rest of the company, grinning and shaking his head, but you notice that this smile quickly fades. Before you can say anything, %troublemaker% wheels a fist back around and knocks %peacekeeper% out cold.\n\n Well, that's one way to mollify a mercenary.",
-    "translation": "%townImage%%peacekeeperfull% 走到了 %troublemaker% 和老人之间。 那个制造麻烦的佣兵边笑边收起了他的武器。 他回头走向了战队其余的人，一边咧嘴笑着，一边摇晃着他的头，但是你注意到了这笑容马上消失了。 在你来得及说任何事之前，%troublemaker% 转身无情地给了 %peacekeeper% 一拳，把他打倒在地。\n\n 好吧，那也算是一种安抚雇佣兵的方法。",
+    "translation": "%townImage%%peacekeeperfull% 走到了 %troublemaker% 和老人之间。 那个制造麻烦的佣兵边笑边收起了他的武器。 他回头走向了战团其余的人，一边咧嘴笑着，一边摇晃着他的头，但是你注意到了这笑容马上消失了。 在你来得及说任何事之前，%troublemaker% 转身无情地给了 %peacekeeper% 一拳，把他打倒在地。\n\n 好吧，那也算是一种安抚雇佣兵的方法。",
     "stage": 1
   },
   {
@@ -59,7 +59,7 @@
     "ID": 293417168,
     "key": "Was humiliated in front of the company",
     "original": "Was humiliated in front of the company",
-    "translation": "在战队面前丢脸",
+    "translation": "在战团面前丢脸",
     "stage": 1
   },
   {
@@ -118,7 +118,7 @@
     "ID": 293417176,
     "key": "You need to stop this, %troublemaker%. It reflects badly on the company.",
     "original": "You need to stop this, %troublemaker%. It reflects badly on the company.",
-    "translation": "你必须马上停下，%troublemaker%，这对我们的战队有很不好的影响。",
+    "translation": "你必须马上停下，%troublemaker%，这对我们的战团有很不好的影响。",
     "stage": 1
   },
   {
@@ -140,7 +140,7 @@
     "ID": 293417179,
     "key": "Was appalled by the company's conduct",
     "original": "Was appalled by the company's conduct",
-    "translation": "对战队的行为感到震惊",
+    "translation": "对战团的行为感到震惊",
     "stage": 1
   },
   {
@@ -175,7 +175,7 @@
     "ID": 293417184,
     "key": "I might have to do something about discipline in this company.",
     "original": "I might have to do something about discipline in this company.",
-    "translation": "我也许应该对战队的纪律做些什么。",
+    "translation": "我也许应该对战团的纪律做些什么。",
     "stage": 1
   }
 ]

@@ -3,7 +3,7 @@
     "ID": 293418695,
     "key": "A palette of several vibrant colors and a set of brushes. Can be used to paint common shields in your company's colors.",
     "original": "A palette of several vibrant colors and a set of brushes. Can be used to paint common shields in your company's colors.",
-    "translation": "由几种鲜艳的颜料和一套刷子组成的调色板，可用来给普通盾牌涂上你战队的颜色。",
+    "translation": "由几种鲜艳的颜料和一套刷子组成的调色板，可用来给普通盾牌涂上你战团的颜色。",
     "stage": 1,
     "context": "this.m.Description = \"A palette of several vibrant colors and a set of brushes. Can be used to paint common shields in your company's colors.\""
   },

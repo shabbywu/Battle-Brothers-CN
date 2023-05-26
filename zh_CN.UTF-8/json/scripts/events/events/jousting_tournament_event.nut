@@ -10,7 +10,7 @@
     "ID": 293416133,
     "key": "[img]gfx/ui/events/event_64.png[/img]You grab the tournament poster and put it to a candle. While flames eat away the paper, you set some ground rules for %jouster%.%SPEECH_ON%I hired you to be a sellsword, not some nimby-namby jouster. If you want to go ",
     "original": "[img]gfx/ui/events/event_64.png[/img]You grab the tournament poster and put it to a candle. While flames eat away the paper, you set some ground rules for %jouster%.%SPEECH_ON%I hired you to be a sellsword, not some nimby-namby jouster. If you want to go off fighting in tournaments, then you can return all your equipment and base pay. Otherwise, get the hell out of my tent.%SPEECH_OFF%This doesn't go over especially well, but ultimately the mercenary does only leave your tent and not the whole company altogether.",
-    "translation": "[img]gfx/ui/events/event_64.png[/img]你扯下宣传海报，把它放在蜡烛上。 当火焰吞噬纸张的时候，你制定了一些基本规则为 %jouster%。%SPEECH_ON%我雇你来当佣兵，不是什么游手好闲的竞技者。 如果你想参加锦标赛，那么你可以退还所有的装备和基本工资。 否则，滚出我的帐篷。%SPEECH_OFF%这样的时机这么说这不太好，但最终雇佣兵仅仅只会离开你的帐篷，而不是整个战队。",
+    "translation": "[img]gfx/ui/events/event_64.png[/img]你扯下宣传海报，把它放在蜡烛上。 当火焰吞噬纸张的时候，你制定了一些基本规则为 %jouster%。%SPEECH_ON%我雇你来当佣兵，不是什么游手好闲的竞技者。 如果你想参加锦标赛，那么你可以退还所有的装备和基本工资。 否则，滚出我的帐篷。%SPEECH_OFF%这样的时机这么说这不太好，但最终雇佣兵仅仅只会离开你的帐篷，而不是整个战团。",
     "stage": 1
   },
   {

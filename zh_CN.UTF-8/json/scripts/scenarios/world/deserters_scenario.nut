@@ -26,7 +26,7 @@
     "ID": 293419663,
     "key": "{Prior to his conscription into the army, %name% was a failed, illiterate baker. His poor work and frequent dessert errors made him prone to being pulled into military ranks. Having always hated the life, the deserter was quick to join your cause and comp",
     "original": "{Prior to his conscription into the army, %name% was a failed, illiterate baker. His poor work and frequent dessert errors made him prone to being pulled into military ranks. Having always hated the life, the deserter was quick to join your cause and company.}",
-    "translation": "{在被征召入伍之前，%name% 是一个失败的、不识字的面包师。 他糟糕的工作和经常在甜点上犯的错误使他很容易被拉进军队。 这个逃兵一向讨厌这种生活，所以很快就加入了你的事业和战队。}",
+    "translation": "{在被征召入伍之前，%name% 是一个失败的、不识字的面包师。 他糟糕的工作和经常在甜点上犯的错误使他很容易被拉进军队。 这个逃兵一向讨厌这种生活，所以很快就加入了你的事业和战团。}",
     "stage": 1,
     "context": "bros.0.getBackground().m.RawDescription = '{Prior to his conscription into the army, %name% was a failed, illiterate baker. His poor work and frequent dessert errors made him prone to being pulled into military ranks. Having always hated the life, the deserter was quick to join your cause and company.}'"
   },

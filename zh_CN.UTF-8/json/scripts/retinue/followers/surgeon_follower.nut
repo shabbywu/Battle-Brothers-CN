@@ -19,7 +19,7 @@
     "ID": 293419632,
     "key": "The Surgeon is a walking tome of anatomical knowledge. A mercenary company seems the perfect place both to apply that knowledge in healing, but also to learn more about how the insides of men are made up.",
     "original": "The Surgeon is a walking tome of anatomical knowledge. A mercenary company seems the perfect place both to apply that knowledge in healing, but also to learn more about how the insides of men are made up.",
-    "translation": "这位外科医生是解剖学知识的行家。雇佣兵战队似乎是一个完美的地方，既可以将这些知识应用于治疗，也可以更多地了解人类的内部构造。",
+    "translation": "这位外科医生是解剖学知识的行家。雇佣兵战团似乎是一个完美的地方，既可以将这些知识应用于治疗，也可以更多地了解人类的内部构造。",
     "stage": 1,
     "context": "this.m.Description = 'The Surgeon is a walking tome of anatomical knowledge. A mercenary company seems the perfect place both to apply that knowledge in healing, but also to learn more about how the insides of men are made up.'"
   },

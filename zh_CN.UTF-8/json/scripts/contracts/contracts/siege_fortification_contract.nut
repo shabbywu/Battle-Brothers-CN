@@ -237,7 +237,7 @@
     "ID": 293409957,
     "key": "{This isn't worth it. | We have other obligations. | I won't grind the company in some siege.}",
     "original": "{This isn't worth it. | We have other obligations. | I won't grind the company in some siege.}",
-    "translation": "{这不值得。 | 我们还有其他任务。 | 我不会让战队在围城中煎熬。}",
+    "translation": "{这不值得。 | 我们还有其他任务。 | 我不会让战团在围城中煎熬。}",
     "stage": 1
   },
   {

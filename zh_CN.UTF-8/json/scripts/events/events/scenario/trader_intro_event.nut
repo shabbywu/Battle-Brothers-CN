@@ -3,7 +3,7 @@
     "ID": 293416760,
     "key": "[img]gfx/ui/events/event_95.png[/img]You shake your head.%SPEECH_ON%No. What we'll be doing is fighting back and then some. I aim to hire sellswords to fit a company of making, and if your swordhands want to earn a steady keep, you two can be the first.%S",
     "original": "[img]gfx/ui/events/event_95.png[/img]You shake your head.%SPEECH_ON%No. What we'll be doing is fighting back and then some. I aim to hire sellswords to fit a company of making, and if your swordhands want to earn a steady keep, you two can be the first.%SPEECH_OFF%",
-    "translation": "[img]gfx/ui/events/event_95.png[/img]你摇了摇头。%SPEECH_ON%不。我们现在要做的是反击。 我决定要雇佣一些佣兵去组建一个战队，如果你们两人想要拥有一个稳定工资的工作的话，你们两位可以当我的第一批佣兵。%SPEECH_OFF%",
+    "translation": "[img]gfx/ui/events/event_95.png[/img]你摇了摇头。%SPEECH_ON%不。我们现在要做的是反击。 我决定要雇佣一些佣兵去组建一个战团，如果你们两人想要拥有一个稳定工资的工作的话，你们两位可以当我的第一批佣兵。%SPEECH_OFF%",
     "stage": 1
   },
   {

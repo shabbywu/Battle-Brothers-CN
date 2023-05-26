@@ -25,7 +25,7 @@
     "ID": 293412793,
     "key": "[img]gfx/ui/events/event_14.png[/img]The dogs are sitting rather studiously, panting and looking pretty content, so durable is their sense of happiness. But you've mouths to feed and battles to fight. You give %butcher% the go ahead to do what is right fo",
     "original": "[img]gfx/ui/events/event_14.png[/img]The dogs are sitting rather studiously, panting and looking pretty content, so durable is their sense of happiness. But you've mouths to feed and battles to fight. You give %butcher% the go ahead to do what is right for the company.\n\nThe butcher meanders his way toward the mutts, holding out one hand to pet them as the other clutches a knife behind his back. You do not stick around to watch what happens next, but a short yelp quickly followed by another turns your already empty stomach.",
-    "translation": "[img]gfx/ui/events/event_14.png[/img]这些狗很老实地坐着，气喘吁吁，看起来很满足，所以他们的幸福感是持久的。 但你有嘴要喂，有仗要打。 你让 %butcher% 去做对战队有益的事。\n\n屠夫弯弯曲曲地走向那些狗狗，伸出一只手来抚摸它们，另一只手在背后抓着一把刀。 你不忍站在那里看接下来会发生什么，但是尖锐的声音已经从你空空的胃里传出来了。",
+    "translation": "[img]gfx/ui/events/event_14.png[/img]这些狗很老实地坐着，气喘吁吁，看起来很满足，所以他们的幸福感是持久的。 但你有嘴要喂，有仗要打。 你让 %butcher% 去做对战团有益的事。\n\n屠夫弯弯曲曲地走向那些狗狗，伸出一只手来抚摸它们，另一只手在背后抓着一把刀。 你不忍站在那里看接下来会发生什么，但是尖锐的声音已经从你空空的胃里传出来了。",
     "stage": 1
   },
   {
@@ -69,7 +69,7 @@
     "ID": 293412799,
     "key": "[img]gfx/ui/events/event_27.png[/img]You shake your head no.%SPEECH_ON%Absolutely not. They are as part of the company as any man, and certainly some men would rather starve than eat their own.%SPEECH_OFF%The butcher shrugs.%SPEECH_ON%They're just dogs, s",
     "original": "[img]gfx/ui/events/event_27.png[/img]You shake your head no.%SPEECH_ON%Absolutely not. They are as part of the company as any man, and certainly some men would rather starve than eat their own.%SPEECH_OFF%The butcher shrugs.%SPEECH_ON%They're just dogs, sir. Mutts. Mongrels. Ain't nothing but a beast that knows its name and little else. There are plenty of pups to find when we need them.%SPEECH_OFF%Again, you shake your head.%SPEECH_ON%We're not killing the dogs, %butcher%. And don't think I don't see the glint in your eye. There's more to slaughtering them animals than just feeding a few mouths.%SPEECH_OFF%%butcher% can only shrug again.%SPEECH_ON%I can't pick and choose what gives me pleasure, sir, but I'll follow yer orders.%SPEECH_OFF%",
-    "translation": "[img]gfx/ui/events/event_27.png[/img]你摇头表示反对。%SPEECH_ON%绝对不行。他们和任何人一样是战队的一员，当然有人宁愿饿死也不能吃自己的战友。%SPEECH_OFF%屠夫耸肩。%SPEECH_ON%它们只是狗，先生。野狗。杂种狗。 只不过是一只知道自己名字的野兽。 当我们需要它们的时候，有很多只小狗可以找到。%SPEECH_OFF%再一次的，你摇了摇头。%SPEECH_ON%我们不是在杀狗，%butcher%。别以为我看不到你眼中的凶光。 屠杀这些动物意味着很多，不仅仅是喂了几口而已。%SPEECH_OFF%%butcher% 只能再次耸肩。%SPEECH_ON%我不能挑选和选择什么给了我快乐，先生，但我听从你的命令。%SPEECH_OFF%",
+    "translation": "[img]gfx/ui/events/event_27.png[/img]你摇头表示反对。%SPEECH_ON%绝对不行。他们和任何人一样是战团的一员，当然有人宁愿饿死也不能吃自己的战友。%SPEECH_OFF%屠夫耸肩。%SPEECH_ON%它们只是狗，先生。野狗。杂种狗。 只不过是一只知道自己名字的野兽。 当我们需要它们的时候，有很多只小狗可以找到。%SPEECH_OFF%再一次的，你摇了摇头。%SPEECH_ON%我们不是在杀狗，%butcher%。别以为我看不到你眼中的凶光。 屠杀这些动物意味着很多，不仅仅是喂了几口而已。%SPEECH_OFF%%butcher% 只能再次耸肩。%SPEECH_ON%我不能挑选和选择什么给了我快乐，先生，但我听从你的命令。%SPEECH_OFF%",
     "stage": 1
   },
   {

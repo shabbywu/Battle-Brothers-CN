@@ -25,7 +25,7 @@
     "ID": 293414787,
     "key": "Formerly a soldier loyal to noble lords, his company was slaughtered by your men and %name% was taken as an indebted. It didn't take much to break his spirit and force him to fight for you.",
     "original": "Formerly a soldier loyal to noble lords, his company was slaughtered by your men and %name% was taken as an indebted. It didn't take much to break his spirit and force him to fight for you.",
-    "translation": "以前是一个忠于贵族的士兵，他的战队被你们的人屠杀了，而 %name% 成为了负债者。 没花多少时间他就精神崩溃了，强迫他为你而战。",
+    "translation": "以前是一个忠于贵族的士兵，他的战团被你们的人屠杀了，而 %name% 成为了负债者。 没花多少时间他就精神崩溃了，强迫他为你而战。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = \"Formerly a soldier loyal to noble lords, his company was slaughtered by your men and %name% was taken as an indebted. It didn't take much to break his spirit and force him to fight for you.\""
   },

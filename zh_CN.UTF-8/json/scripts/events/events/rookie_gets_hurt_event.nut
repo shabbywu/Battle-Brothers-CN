@@ -46,7 +46,7 @@
     "ID": 293416674,
     "key": "[img]gfx/ui/events/event_22.png[/img]Unfortunately, telling the man to 'suck it up' gets him nowhere. He turns to you, face covered in the blood and gore of battle, but before any words can come out his lip quivers and keels over again. You ask the man if",
     "original": "[img]gfx/ui/events/event_22.png[/img]Unfortunately, telling the man to 'suck it up' gets him nowhere. He turns to you, face covered in the blood and gore of battle, but before any words can come out his lip quivers and keels over again. You ask the man if he wishes to be cut from the company, but he shakes his head no. He'll get better, he explains. You nod and walk off, but there's little doubt that this poor show of resolve has hurt the man's pride.",
-    "translation": "[img]gfx/ui/events/event_22.png[/img]不幸的是，告诉这个人“忍着点”并没有什么用。 他转过身来，脸上全是血和其他战斗留下的痕迹，他的嘴唇在他还没说出一个字之前就颤抖起来，他又跪在了地上。 你问他是不是想被战队开除，他摇头否认。 他解释说他会好起来的。 你点头走开了，但毫无疑问，自己这种缺乏决心的表现已经深深伤害了这个人的自尊心。",
+    "translation": "[img]gfx/ui/events/event_22.png[/img]不幸的是，告诉这个人“忍着点”并没有什么用。 他转过身来，脸上全是血和其他战斗留下的痕迹，他的嘴唇在他还没说出一个字之前就颤抖起来，他又跪在了地上。 你问他是不是想被战团开除，他摇头否认。 他解释说他会好起来的。 你点头走开了，但毫无疑问，自己这种缺乏决心的表现已经深深伤害了这个人的自尊心。",
     "stage": 1
   },
   {
@@ -113,7 +113,7 @@
     "ID": 293416683,
     "key": "[img]gfx/ui/events/event_22.png[/img]The man turns to you, tears cutting through the crusts of blood on his cheeks. He shakes his head and asks how is it that he's the only one out here crying. You shrug and ask the man if he wishes to leave the company. ",
     "original": "[img]gfx/ui/events/event_22.png[/img]The man turns to you, tears cutting through the crusts of blood on his cheeks. He shakes his head and asks how is it that he's the only one out here crying. You shrug and ask the man if he wishes to leave the company. He shakes his head again.%SPEECH_ON%I'll get better. I just.. I just need some time to do it, that's all.%SPEECH_OFF%",
-    "translation": "[img]gfx/ui/events/event_22.png[/img]那人转向你，泪水划开了他脸颊上的血迹。 他摇摇头，问为什么只有他在外面哭。 你耸耸肩，问他是否想要离开战队。 他又摇了摇头。%SPEECH_ON%我会做得更好的。我只是…我只是需要些时间，就这样。%SPEECH_OFF%",
+    "translation": "[img]gfx/ui/events/event_22.png[/img]那人转向你，泪水划开了他脸颊上的血迹。 他摇摇头，问为什么只有他在外面哭。 你耸耸肩，问他是否想要离开战团。 他又摇了摇头。%SPEECH_ON%我会做得更好的。我只是…我只是需要些时间，就这样。%SPEECH_OFF%",
     "stage": 1
   },
   {

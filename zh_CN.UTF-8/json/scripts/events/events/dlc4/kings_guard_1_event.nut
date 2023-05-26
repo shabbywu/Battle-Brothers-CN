@@ -68,7 +68,7 @@
     "ID": 293414339,
     "key": "%terrainImage%{The nearly frozen man joins the company. He's a ragged wreck, but if what he said is true maybe he will someday become the fighter he could barely speak of.}",
     "original": "%terrainImage%{The nearly frozen man joins the company. He's a ragged wreck, but if what he said is true maybe he will someday become the fighter he could barely speak of.}",
-    "translation": "%terrainImage%{那个几乎冻僵的人加入了战队。 他是一个衣衫褴褛的废物，但如果他说的是真的，说不定有一天他会成为一个战士，就像他之前说的那样。}",
+    "translation": "%terrainImage%{那个几乎冻僵的人加入了战团。 他是一个衣衫褴褛的废物，但如果他说的是真的，说不定有一天他会成为一个战士，就像他之前说的那样。}",
     "stage": 1
   }
 ]

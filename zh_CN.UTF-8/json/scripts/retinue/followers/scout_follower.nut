@@ -10,7 +10,7 @@
     "ID": 293419625,
     "key": "Makes the company travel 15% faster on any terrain",
     "original": "Makes the company travel 15% faster on any terrain",
-    "translation": "使战队在任何地形上的旅行速度提高15%",
+    "translation": "使战团在任何地形上的旅行速度提高15%",
     "stage": 1
   },
   {

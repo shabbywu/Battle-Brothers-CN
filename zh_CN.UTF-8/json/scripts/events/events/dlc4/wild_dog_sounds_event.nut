@@ -91,7 +91,7 @@
     "ID": 293414469,
     "key": "[img]gfx/ui/events/event_33.png[/img]{You look about the company. A young %recruit% looks back. He looks down, as though to look within himself, and then hurriedly gets to his feet.%SPEECH_ON%Say no more, captain. I will find out what this disturbance is.",
     "original": "[img]gfx/ui/events/event_33.png[/img]{You look about the company. A young %recruit% looks back. He looks down, as though to look within himself, and then hurriedly gets to his feet.%SPEECH_ON%Say no more, captain. I will find out what this disturbance is.%SPEECH_OFF%The fresh recruit gathers his things and then stands at the edge of the camp's light, a very dark forest looking back at him. The man stares down again and clenches and unclenches his hands.%SPEECH_ON%Alright. Alright.%SPEECH_OFF%He looks up.%SPEECH_ON%Let's do this.%SPEECH_OFF%The man is never seen again.}",
-    "translation": "[img]gfx/ui/events/event_33.png[/img]{你环顾了一下战队。 一个年轻的 %recruit% 向后看。 他低下头避开你的眼神，好像他和自己内心争斗了一番，然后赶紧站起来。%SPEECH_ON%不用说了，队长。 我会找出这骚乱是什么的。%SPEECH_OFF%他收拾好，站在营火的光亮边缘，漆黑的森林在那头正望着他。 他再次低下头，拳头握了又松。%SPEECH_ON%好吧。好吧。%SPEECH_OFF%他抬头看看。%SPEECH_ON%就这么做吧。%SPEECH_OFF%他去了后你就再没见过这个人。}",
+    "translation": "[img]gfx/ui/events/event_33.png[/img]{你环顾了一下战团。 一个年轻的 %recruit% 向后看。 他低下头避开你的眼神，好像他和自己内心争斗了一番，然后赶紧站起来。%SPEECH_ON%不用说了，队长。 我会找出这骚乱是什么的。%SPEECH_OFF%他收拾好，站在营火的光亮边缘，漆黑的森林在那头正望着他。 他再次低下头，拳头握了又松。%SPEECH_ON%好吧。好吧。%SPEECH_OFF%他抬头看看。%SPEECH_ON%就这么做吧。%SPEECH_OFF%他去了后你就再没见过这个人。}",
     "stage": 1
   },
   {
@@ -178,7 +178,7 @@
     "ID": 293414481,
     "key": "[img]gfx/ui/events/event_33.png[/img]{You tell the company to ignore the sounds. That's a hard task to oblige as the cries of the wild dogs only grow louder and louder until, just like that, they stop. Your men stand still as though making any noise could",
     "original": "[img]gfx/ui/events/event_33.png[/img]{You tell the company to ignore the sounds. That's a hard task to oblige as the cries of the wild dogs only grow louder and louder until, just like that, they stop. Your men stand still as though making any noise could bring the hell of whatever horror it is that's out there. Nothing comes to pass, but a number of the men have a hard time sleeping through the night.}",
-    "translation": "[img]gfx/ui/events/event_33.png[/img]{你告诉战队不要去理会这些声音。 这是个艰巨的任务，因为野狗的叫声越来越大，就这样直到它们停下来为止。 你的人神情呆滞，好像随便弄点声音出来就能让人感到该死的恐怖。 最后什么也没发生，但有几个人整夜难以入睡。}",
+    "translation": "[img]gfx/ui/events/event_33.png[/img]{你告诉战团不要去理会这些声音。 这是个艰巨的任务，因为野狗的叫声越来越大，就这样直到它们停下来为止。 你的人神情呆滞，好像随便弄点声音出来就能让人感到该死的恐怖。 最后什么也没发生，但有几个人整夜难以入睡。}",
     "stage": 1
   },
   {

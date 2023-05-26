@@ -45,7 +45,7 @@
     "ID": 293416652,
     "key": "Helped spread word about the company",
     "original": "Helped spread word about the company",
-    "translation": "帮助宣传了战队",
+    "translation": "帮助宣传了战团",
     "stage": 1
   },
   {
@@ -67,7 +67,7 @@
     "ID": 293416655,
     "key": "The company gained renown",
     "original": "The company gained renown",
-    "translation": "战队获得了声望",
+    "translation": "战团获得了声望",
     "stage": 1
   },
   {

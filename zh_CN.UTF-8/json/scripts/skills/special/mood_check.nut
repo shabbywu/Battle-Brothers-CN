@@ -11,7 +11,7 @@
     "ID": 293422247,
     "key": "Recent events have left this character angry and vengeful towards those around him. If things don't improve very quickly, this character may decide to desert the company!",
     "original": "Recent events have left this character angry and vengeful towards those around him. If things don't improve very quickly, this character may decide to desert the company!",
-    "translation": "最近的事件让这个角色对周围的人愤怒和报复。 如果事情没有很快改善，这个角色可能决定离开战队！",
+    "translation": "最近的事件让这个角色对周围的人愤怒和报复。 如果事情没有很快改善，这个角色可能决定离开战团！",
     "stage": 1
   },
   {
@@ -63,7 +63,7 @@
     "ID": 293422254,
     "key": "Recent events have left this character in a state of euphoria, happy to spend his time in service of the company and sure of victory against any foe. It's bordering on the annoying, really.",
     "original": "Recent events have left this character in a state of euphoria, happy to spend his time in service of the company and sure of victory against any foe. It's bordering on the annoying, really.",
-    "translation": "最近的事件使这个角色处于一种兴奋的状态，他乐于为战队服务，并确信能战胜任何敌人。 真的，这近乎烦人。",
+    "translation": "最近的事件使这个角色处于一种兴奋的状态，他乐于为战团服务，并确信能战胜任何敌人。 真的，这近乎烦人。",
     "stage": 1
   },
   {
@@ -101,7 +101,7 @@
     "ID": 293422259,
     "key": "Recent events have left this character eager to fight with the company, pleased with how things are going and motivating to those around him.",
     "original": "Recent events have left this character eager to fight with the company, pleased with how things are going and motivating to those around him.",
-    "translation": "最近的事件让这个角色渴望为战队战斗，对事情的进展感到高兴，并激励他周围的人。",
+    "translation": "最近的事件让这个角色渴望为战团战斗，对事情的进展感到高兴，并激励他周围的人。",
     "stage": 1
   },
   {

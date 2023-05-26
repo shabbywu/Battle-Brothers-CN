@@ -74,7 +74,7 @@
     "ID": 293417020,
     "key": "%terrainImage%%butcher% asks if the horse is still around. Its owner nods.%SPEECH_ON%Aye, freshly dead, freshly soiled by that prick. Why?%SPEECH_OFF%The butcher asks if he can take it off his hands. The owner shrugs.%SPEECH_ON%Yours if you want it. Thoug",
     "original": "%terrainImage%%butcher% asks if the horse is still around. Its owner nods.%SPEECH_ON%Aye, freshly dead, freshly soiled by that prick. Why?%SPEECH_OFF%The butcher asks if he can take it off his hands. The owner shrugs.%SPEECH_ON%Yours if you want it. Though you'd best be careful cutting around the bits he touched with his own bits.%SPEECH_OFF%Before anymore can be said, %butcher% has the man take him to the horse corpse to, well, butcher it. The company gets some questionable meat to eat.",
-    "translation": "%terrainImage%%butcher% 问马是否还在附近。主人点了点头。%SPEECH_ON%啊，新鲜的尸体，刚刚被刺的方式弄脏了。为什么？%SPEECH_OFF%屠夫问他能不能接手那匹死马。主人耸耸肩。%SPEECH_ON%如果你想要的话，它就是你的了。 虽然你在切被他碰过的那一部分附近时最好小心一点。%SPEECH_OFF%在说其他什么之前，%butcher% 让人把他带到了马的尸体旁，以便于，嗯，肢解它。 战队拿到了一些有问题的肉可以吃。",
+    "translation": "%terrainImage%%butcher% 问马是否还在附近。主人点了点头。%SPEECH_ON%啊，新鲜的尸体，刚刚被刺的方式弄脏了。为什么？%SPEECH_OFF%屠夫问他能不能接手那匹死马。主人耸耸肩。%SPEECH_ON%如果你想要的话，它就是你的了。 虽然你在切被他碰过的那一部分附近时最好小心一点。%SPEECH_OFF%在说其他什么之前，%butcher% 让人把他带到了马的尸体旁，以便于，嗯，肢解它。 战团拿到了一些有问题的肉可以吃。",
     "stage": 1
   },
   {

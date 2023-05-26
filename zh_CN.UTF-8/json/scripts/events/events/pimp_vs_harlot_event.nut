@@ -76,14 +76,14 @@
     "ID": 293416550,
     "key": "The company tailor might have some input here.",
     "original": "The company tailor might have some input here.",
-    "translation": "战队里的裁缝可能会提供一些信息。",
+    "translation": "战团里的裁缝可能会提供一些信息。",
     "stage": 1
   },
   {
     "ID": 293416551,
     "key": "[img]gfx/ui/events/event_92.png[/img]%monk% the monk steps forward. He takes the pimp by the hands. Were you to do that, the pimp would not doubt shrink back or strike you. But the holy man does it with such grace and humility that the pimp simply stares ",
     "original": "[img]gfx/ui/events/event_92.png[/img]%monk% the monk steps forward. He takes the pimp by the hands. Were you to do that, the pimp would not doubt shrink back or strike you. But the holy man does it with such grace and humility that the pimp simply stares at him. The monk smiles warmly.%SPEECH_ON%This is not the path for you, that much is clear. You have not the means to handle this woman, and this is but one woman, when a pimp really needs many. The old gods tell me you are meant for a different path, one which is for hardier men. I daresay you are fit for a mercenary company. Leave the women-wrangling to the snake handlers.%SPEECH_OFF%The pimp thinks for a time, but you can tell the words have gotten to him. He asks if you'd accept him into your company.",
-    "translation": "[img]gfx/ui/events/event_92.png[/img]%monk% 这个僧侣走上前。 他抓住皮条客的手。 如果你那样做，皮条客肯定会退缩或打你。 但这位圣人是如此优雅和谦逊，皮条客只是盯着他看。 僧侣热情地笑了。%SPEECH_ON%这不是你要走的路，这一点很清楚。 你没有办法对付这个女人，而这只是一个女人，而皮条客需要很多。 古神告诉我，你注定要走另一条路，一条适合更坚强的人的路。 我想说你适合加入一个雇佣兵战队。 把女人们的争吵留给蛇头吧。%SPEECH_OFF%皮条客想了一会儿，但你可以看出他已经被这些话打动了。 他问你是否愿意接受他加入你的战队。",
+    "translation": "[img]gfx/ui/events/event_92.png[/img]%monk% 这个僧侣走上前。 他抓住皮条客的手。 如果你那样做，皮条客肯定会退缩或打你。 但这位圣人是如此优雅和谦逊，皮条客只是盯着他看。 僧侣热情地笑了。%SPEECH_ON%这不是你要走的路，这一点很清楚。 你没有办法对付这个女人，而这只是一个女人，而皮条客需要很多。 古神告诉我，你注定要走另一条路，一条适合更坚强的人的路。 我想说你适合加入一个雇佣兵战团。 把女人们的争吵留给蛇头吧。%SPEECH_OFF%皮条客想了一会儿，但你可以看出他已经被这些话打动了。 他问你是否愿意接受他加入你的战团。",
     "stage": 1
   },
   {

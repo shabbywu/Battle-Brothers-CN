@@ -49,7 +49,7 @@
     "ID": 293412952,
     "key": "[img]gfx/ui/events/event_72.png[/img]Before you can even finish your sentence, %cocky% beats his chest and steps forward.%SPEECH_ON%I will fell that petty cow!%SPEECH_OFF%You remind him that the company has no beef with the bovine creature and that this i",
     "original": "[img]gfx/ui/events/event_72.png[/img]Before you can even finish your sentence, %cocky% beats his chest and steps forward.%SPEECH_ON%I will fell that petty cow!%SPEECH_OFF%You remind him that the company has no beef with the bovine creature and that this is all for fun and games. He stands there, arms tent-poled with his fists at his hips.%SPEECH_ON%Nonsense. The company laughs and thinks this an impossibility, but I'm here to show them all just how wrong they are!%SPEECH_OFF%The cocksure sellsword steps into the field and immediately cuts his boot across a cow patty. He sidewinders forward, arms flailing for balance, but it's all for naught as he slams to the ground. The men burst into laughter. The cow glances over before simply walking off. %cocky% cleans himself up.%SPEECH_ON%A minor misstep. But look! The cowardly cattle wants no part of me!%SPEECH_OFF%%otherbrother% laughs and points at the sellsword's stained garb.%SPEECH_ON%Maybe, but it looks like you got a little part of her.%SPEECH_OFF%The cocky sellsword quickly swipes the shite off his shirt. Despite the failure, he is undeterred and the men are almost passing out they're laughing so hard.",
-    "translation": "[img]gfx/ui/events/event_72.png[/img]还没等你说完，%cocky% 就拍着胸脯向前走了一步。%SPEECH_ON%我要打倒那头小母牛！%SPEECH_OFF%你提醒他战队和奶牛没有任何关系，这只是为了好玩和游戏。 他站在那里，双臂隆起肌肉双拳击打屁股。%SPEECH_ON%无稽之谈。队友们嘲笑我认为这是不可能的，但是我在这里要让他们知道他们是多么的错误！%SPEECH_OFF%那个自信满满的佣兵一脚跨进地里，立刻就踩到了一块牛粪饼。 他侧着身子向前走，为了保持平衡而挥舞着双臂，但当他重重地摔在地上时，这一切都化为乌有。 伙计们开始大笑起来。 这头奶牛只是瞥了一眼就走开了。%cocky% 把自己弄干净后站起来。%SPEECH_ON%一个小小的失误。但是，看吧！ 这个懦弱的畜生根本不敢与我一战！%SPEECH_OFF%%otherbrother% 大笑并指着他的脏衣服。%SPEECH_ON%也许吧，你对它还有那么点胜算。%SPEECH_OFF%这个嚣张的佣兵马上擦去衣服上的牛屎。 尽管失败了，但他没有被吓倒，队员们几乎要晕过去了，因为他们笑的太多了。",
+    "translation": "[img]gfx/ui/events/event_72.png[/img]还没等你说完，%cocky% 就拍着胸脯向前走了一步。%SPEECH_ON%我要打倒那头小母牛！%SPEECH_OFF%你提醒他战团和奶牛没有任何关系，这只是为了好玩和游戏。 他站在那里，双臂隆起肌肉双拳击打屁股。%SPEECH_ON%无稽之谈。队友们嘲笑我认为这是不可能的，但是我在这里要让他们知道他们是多么的错误！%SPEECH_OFF%那个自信满满的佣兵一脚跨进地里，立刻就踩到了一块牛粪饼。 他侧着身子向前走，为了保持平衡而挥舞着双臂，但当他重重地摔在地上时，这一切都化为乌有。 伙计们开始大笑起来。 这头奶牛只是瞥了一眼就走开了。%cocky% 把自己弄干净后站起来。%SPEECH_ON%一个小小的失误。但是，看吧！ 这个懦弱的畜生根本不敢与我一战！%SPEECH_OFF%%otherbrother% 大笑并指着他的脏衣服。%SPEECH_ON%也许吧，你对它还有那么点胜算。%SPEECH_OFF%这个嚣张的佣兵马上擦去衣服上的牛屎。 尽管失败了，但他没有被吓倒，队员们几乎要晕过去了，因为他们笑的太多了。",
     "stage": 1
   },
   {
@@ -114,7 +114,7 @@
     "ID": 293412961,
     "key": "Humiliated himself in front of the company",
     "original": "Humiliated himself in front of the company",
-    "translation": "在战队面前羞辱了自己",
+    "translation": "在战团面前羞辱了自己",
     "stage": 1
   },
   {

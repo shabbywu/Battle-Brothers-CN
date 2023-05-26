@@ -27,7 +27,7 @@
     "ID": 293420797,
     "key": "{%name% survived the battle between yourself and his own tribe of warriors. He offered himself to your company or to your sword. Impressed by his bravery, you chose to take him in. A foreign brute, he hardly speaks your native tongue and he is not well li",
     "original": "{%name% survived the battle between yourself and his own tribe of warriors. He offered himself to your company or to your sword. Impressed by his bravery, you chose to take him in. A foreign brute, he hardly speaks your native tongue and he is not well liked by the rest of the company. But if anything can bond two men it is fighting beside one another, killing when it counts, and drinking the night away at the tavern.}",
-    "translation": "{%name% 在和他自己部落的战斗中幸存了下来。 他向你的战队和你的剑宣誓效忠。 他的勇敢给你留下了很深的印象，你决定收留他。 他是个外族蛮人，几乎不会说你的母语，战队其他人也不喜欢他。 但如果有什么能把两个人联系起来的话，那无疑是并肩战斗，必要时杀人，在酒馆里通宵喝酒。}",
+    "translation": "{%name% 在和他自己部落的战斗中幸存了下来。 他向你的战团和你的剑宣誓效忠。 他的勇敢给你留下了很深的印象，你决定收留他。 他是个外族蛮人，几乎不会说你的母语，战团其他人也不喜欢他。 但如果有什么能把两个人联系起来的话，那无疑是并肩战斗，必要时杀人，在酒馆里通宵喝酒。}",
     "stage": 1,
     "context": "return '{%name% survived the battle between yourself and his own tribe of warriors. He offered himself to your company or to your sword. Impressed by his bravery, you chose to take him in. A foreign brute, he hardly speaks your native tongue and he is not well liked by the rest of the company. But if anything can bond two men it is fighting beside one another, killing when it counts, and drinking the night away at the tavern.}';"
   }
