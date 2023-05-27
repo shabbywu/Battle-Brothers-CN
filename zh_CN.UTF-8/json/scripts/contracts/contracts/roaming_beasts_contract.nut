@@ -95,7 +95,7 @@
     "ID": 293409828,
     "key": "Hunt down what terrorizes ",
     "original": "Hunt down what terrorizes ",
-    "translation": "追捕是什么造成了恐怖 ",
+    "translation": "追捕威胁",
     "stage": 1,
     "context": "'Hunt down what terrorizes ' + this.Contract.m.Home.getName()"
   },
@@ -189,7 +189,7 @@
     "ID": 293409841,
     "key": "Back to %townname%!",
     "original": "Back to %townname%!",
-    "translation": "回 %townname%！",
+    "translation": "返回 %townname%！",
     "stage": 1
   },
   {

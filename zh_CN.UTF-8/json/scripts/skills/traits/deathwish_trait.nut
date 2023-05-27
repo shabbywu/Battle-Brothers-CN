@@ -33,7 +33,7 @@
     "key": "No morale check triggered upon losing hitpoints",
     "original": "No morale check triggered upon losing hitpoints",
     "translation": "失去生命值时不会触发士气检查",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422466,

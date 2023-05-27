@@ -35,8 +35,8 @@
     "ID": 293422655,
     "key": "]+5[/color] Melee Defense when fighting undead",
     "original": "]+5[/color] Melee Defense when fighting undead",
-    "translation": "]+5[/color] 近战防御（对抗不死族）",
-    "stage": 1,
+    "translation": "]+5[/color] 近战防御（对抗亡灵）",
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense when fighting undead'"
   },
   {
@@ -83,8 +83,8 @@
     "ID": 293422661,
     "key": "]+5[/color] Ranged Defense when fighting undead",
     "original": "]+5[/color] Ranged Defense when fighting undead",
-    "translation": "]+5[/color] 远程防御（对抗不死族）",
-    "stage": 1,
+    "translation": "]+5[/color] 远程防御（对抗亡灵）",
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense when fighting undead'"
   },
   {

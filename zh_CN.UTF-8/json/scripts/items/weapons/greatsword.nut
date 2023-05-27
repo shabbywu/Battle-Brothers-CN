@@ -4,7 +4,7 @@
     "key": "Sword, Two-Handed",
     "original": "Sword, Two-Handed",
     "translation": "长剑，双手持",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Categories = 'Sword, Two-Handed'"
   },
   {

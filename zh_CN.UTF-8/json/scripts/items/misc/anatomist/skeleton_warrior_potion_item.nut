@@ -3,7 +3,7 @@
     "ID": 293418617,
     "key": "The Fatigue cost of the 'Shieldwall' skill is reduced by [color=",
     "original": "The Fatigue cost of the 'Shieldwall' skill is reduced by [color=",
-    "translation": "'盾墙' 技能的疲劳产生量降低 [color=",
+    "translation": "'盾墙' 技能的疲劳值产生量降低 [color=",
     "stage": 1,
     "context": "\"The Fatigue cost of the 'Shieldwall' skill is reduced by [color=\" + this.Const.UI.Color.PositiveValue + ']' + 100 * 1 - this.Const.Combat.WeaponSpecFatigueMult + '%[/color]'"
   },

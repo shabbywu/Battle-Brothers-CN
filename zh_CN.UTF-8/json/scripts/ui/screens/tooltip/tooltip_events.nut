@@ -102,7 +102,7 @@
     "ID": 293422967,
     "key": "Fatigue is gained for every action, like moving or using skills, and when being hit in combat or dodging in melee. It is reduced at a fixed rate of 15 each turn or as much as necessary for a character to start every turn with 15 less than his maximum fati",
     "original": "Fatigue is gained for every action, like moving or using skills, and when being hit in combat or dodging in melee. It is reduced at a fixed rate of 15 each turn or as much as necessary for a character to start every turn with 15 less than his maximum fatigue. If a character accumulates too much fatigue they may need to rest a turn (i.e. do nothing) before being able to use more specialized skills again.",
-    "translation": "每一个动作，如移动或使用技能，以及在战斗中被击中或在近战中躲闪，都会导致疲劳。 每回合固定减少15疲劳或角色在低于最大疲劳15的情况下开始每个回合。 如果一个角色积累了太多的疲劳，他们可能需要休息一段时间（即什么都不做），然后才能再次使用更专业的技能。",
+    "translation": "每一个动作，如移动或使用技能，以及在战斗中被击中或在近战中躲闪，都会导致疲劳值。 每回合固定减少15疲劳值或角色在低于最大疲劳值15的情况下开始每个回合。 如果一个角色积累了太多的疲劳值，他们可能需要休息一段时间（即什么都不做），然后才能再次使用更专业的技能。",
     "stage": 1
   },
   {
@@ -2629,7 +2629,7 @@
     "ID": 293423318,
     "key": "Maximum Fatigue is the amount of fatigue a character can accumulate before being unable to take any more actions and having to recuperate. It is reduced by wearing heavy equipment, especially armor.",
     "original": "Maximum Fatigue is the amount of fatigue a character can accumulate before being unable to take any more actions and having to recuperate. It is reduced by wearing heavy equipment, especially armor.",
-    "translation": "最大疲劳是一个角色在无法采取任何行动和必须恢复之前可能积累的疲劳量。 它是通过穿戴重型装备，特别是盔甲来减少的。",
+    "translation": "最大疲劳值是一个角色在无法采取任何行动和必须恢复之前可能积累的疲劳值量。 它是通过穿戴重型装备，特别是盔甲来减少的。",
     "stage": 1
   },
   {
@@ -2664,7 +2664,7 @@
     "ID": 293423323,
     "key": "The higher this value, the earlier the position in the turn order. Initiative is reduced by the current fatigue, as well as any penalty to maximum fatigue (such as from heavy armor). In general, someone in light armor will act before someone in heavy armo",
     "original": "The higher this value, the earlier the position in the turn order. Initiative is reduced by the current fatigue, as well as any penalty to maximum fatigue (such as from heavy armor). In general, someone in light armor will act before someone in heavy armor, and someone fresh will act before someone fatigued.",
-    "translation": "该值越高，回合顺序中的位置越靠前。 主动值会因当前的疲劳以及对最大疲劳的惩罚（如重型盔甲）而降低。 一般来说，穿轻甲的人会在穿重甲的人前面行动，一个新来的人会在疲惫的人前面行动。",
+    "translation": "该值越高，回合顺序中的位置越靠前。 主动值会因当前的疲劳值以及对最大疲劳值的惩罚（如重型盔甲）而降低。 一般来说，穿轻甲的人会在穿重甲的人前面行动，一个新来的人会在疲惫的人前面行动。",
     "stage": 1
   },
   {
@@ -2994,7 +2994,7 @@
     "ID": 293423369,
     "key": "Maximum Fatigue",
     "original": "Maximum Fatigue",
-    "translation": "最大疲劳",
+    "translation": "最大疲劳值",
     "stage": 1
   },
   {

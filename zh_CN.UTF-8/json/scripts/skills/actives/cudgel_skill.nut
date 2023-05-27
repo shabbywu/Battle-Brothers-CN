@@ -11,7 +11,7 @@
     "ID": 293419896,
     "key": "[/color] extra fatigue",
     "original": "[/color] extra fatigue",
-    "translation": "[/color] 额外疲劳",
+    "translation": "[/color] 额外疲劳值",
     "stage": 1,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 4 + '[/color] extra fatigue'"
   },

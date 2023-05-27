@@ -4,7 +4,7 @@
     "key": "Dagger",
     "original": "Dagger",
     "translation": "匕首",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Dagger'"
   },
   {
@@ -12,7 +12,7 @@
     "key": "Dagger, One-Handed",
     "original": "Dagger, One-Handed",
     "translation": "匕首，单手持",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Categories = 'Dagger, One-Handed'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "A pointy dagger made for close quarter combat.",
     "original": "A pointy dagger made for close quarter combat.",
     "translation": "一把为近身格斗而制造的尖匕首。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'A pointy dagger made for close quarter combat.'"
   }
 ]

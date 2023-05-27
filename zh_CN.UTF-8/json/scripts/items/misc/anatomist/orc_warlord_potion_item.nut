@@ -3,7 +3,7 @@
     "ID": 293418513,
     "key": "No longer suffer any additional fatigue penalty for using orc weapons",
     "original": "No longer suffer any additional fatigue penalty for using orc weapons",
-    "translation": "使用兽人武器时不再遭受额外的疲劳惩罚",
+    "translation": "使用兽人武器时不再遭受额外的疲劳值惩罚",
     "stage": 1
   },
   {

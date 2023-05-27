@@ -3,7 +3,7 @@
     "ID": 293419806,
     "key": "[/color] extra fatigue",
     "original": "[/color] extra fatigue",
-    "translation": "[/color] 额外疲劳",
+    "translation": "[/color] 额外疲劳值",
     "stage": 1,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
   },
@@ -27,7 +27,7 @@
     "ID": 293419809,
     "key": "A brute force attack that inflicts additional fatigue with every hit.",
     "original": "A brute force attack that inflicts additional fatigue with every hit.",
-    "translation": "一种暴力攻击，每次攻击都会造成额外的疲劳。",
+    "translation": "一种暴力攻击，每次攻击都会造成额外的疲劳值。",
     "stage": 1,
     "context": "this.m.Description = 'A brute force attack that inflicts additional fatigue with every hit.'"
   },

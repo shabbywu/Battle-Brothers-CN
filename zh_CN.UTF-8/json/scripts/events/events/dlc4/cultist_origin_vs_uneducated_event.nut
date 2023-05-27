@@ -63,7 +63,7 @@
     "key": "Davkul awaits.",
     "original": "Davkul awaits.",
     "translation": "达库尔即将降临。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293414240,

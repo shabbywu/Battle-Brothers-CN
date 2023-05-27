@@ -12,7 +12,7 @@
     "key": "Throwing Weapon, One-Handed",
     "original": "Throwing Weapon, One-Handed",
     "translation": "投掷武器，单手持",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Categories = 'Throwing Weapon, One-Handed'"
   }
 ]

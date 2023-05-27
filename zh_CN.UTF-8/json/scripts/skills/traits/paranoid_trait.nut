@@ -28,7 +28,7 @@
     "key": "]+5[/color] Ranged Defense",
     "original": "]+5[/color] Ranged Defense",
     "translation": "]+5[/color] 远程防御",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense'"
   },
   {
@@ -58,7 +58,7 @@
     "key": "]+5[/color] Melee Defense",
     "original": "]+5[/color] Melee Defense",
     "translation": "]+5[/color] 近战防御",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense'"
   }
 ]

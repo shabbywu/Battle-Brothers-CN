@@ -4,7 +4,7 @@
     "key": "Sword, One-Handed",
     "original": "Sword, One-Handed",
     "translation": "短剑，单手持",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Categories = 'Sword, One-Handed'"
   },
   {
@@ -19,8 +19,8 @@
     "ID": 293419423,
     "key": "Scimitar",
     "original": "Scimitar",
-    "translation": "弯刀",
-    "stage": 1,
+    "translation": "短弯刀",
+    "stage": 5,
     "context": "this.m.Name = 'Scimitar'"
   }
 ]

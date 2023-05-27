@@ -11,8 +11,8 @@
     "ID": 293419042,
     "key": "Warscythe",
     "original": "Warscythe",
-    "translation": "军用镰刀",
-    "stage": 1,
+    "translation": "战镰",
+    "stage": 5,
     "context": "this.m.Name = 'Warscythe'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "Polearm, Two-Handed",
     "original": "Polearm, Two-Handed",
     "translation": "长柄武器，双手持",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Categories = 'Polearm, Two-Handed'"
   }
 ]

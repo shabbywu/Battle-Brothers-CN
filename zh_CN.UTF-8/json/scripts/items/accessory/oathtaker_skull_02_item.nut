@@ -12,7 +12,7 @@
     "key": "]+10[/color] Resolve",
     "original": "]+10[/color] Resolve",
     "translation": "]+10[/color] 决心",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve'"
   },
   {

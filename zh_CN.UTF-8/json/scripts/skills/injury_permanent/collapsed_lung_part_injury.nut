@@ -26,7 +26,7 @@
     "ID": 293422104,
     "key": "]-40%[/color] Fatigue",
     "original": "]-40%[/color] Fatigue",
-    "translation": "]-40%[/color] 疲劳",
+    "translation": "]-40%[/color] 疲劳值",
     "stage": 1,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Fatigue'"
   }

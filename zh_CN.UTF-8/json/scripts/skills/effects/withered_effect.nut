@@ -27,7 +27,7 @@
     "ID": 293421812,
     "key": "[/color] Fatigue Recovery per turn",
     "original": "[/color] Fatigue Recovery per turn",
-    "translation": "[/color] 每回合疲劳恢复",
+    "translation": "[/color] 每回合疲劳值恢复",
     "stage": 1,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-' + this.m.TurnsLeft * 5 + '[/color] Fatigue Recovery per turn'"
   },
@@ -59,7 +59,7 @@
     "ID": 293421816,
     "key": "%[/color] Max Fatigue",
     "original": "%[/color] Max Fatigue",
-    "translation": "%[/color] 最大疲劳",
+    "translation": "%[/color] 最大疲劳值",
     "stage": 1,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-' + this.m.TurnsLeft * 25 + '%[/color] Max Fatigue'"
   }

@@ -43,8 +43,8 @@
     "ID": 293422622,
     "key": "]+10[/color] Resolve if there are no allies in adjacent tiles",
     "original": "]+10[/color] Resolve if there are no allies in adjacent tiles",
-    "translation": "]+10[/color] 意志力（如果相邻格没有盟友）",
-    "stage": 1,
+    "translation": "]+10[/color] 决心（如果相邻格没有盟友）",
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve if there are no allies in adjacent tiles'"
   }
 ]

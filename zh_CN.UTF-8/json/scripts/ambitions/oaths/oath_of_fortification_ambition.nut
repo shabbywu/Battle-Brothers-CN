@@ -3,7 +3,7 @@
     "ID": 293403648,
     "key": "]25%[/color] less Fatigue when using shield skills. The 'Shield Wall' skill now grants an additional [color=",
     "original": "]25%[/color] less Fatigue when using shield skills. The 'Shield Wall' skill now grants an additional [color=",
-    "translation": "25%疲劳积累。”盾墙“技能提供额外 [color=",
+    "translation": "25%疲劳值积累。”盾墙“技能提供额外 [color=",
     "stage": 1,
     "context": "this.m.OathBoonText = 'Your men build up [color=' + this.Const.UI.Color.NegativeValue + \"]25%[/color] less Fatigue when using shield skills. The 'Shield Wall' skill now grants an additional [color=\" + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense and [color=' + this.Const.UI.Color.PositiveValue + \"]+5[/color] Ranged Defense. The 'Knock Back' skill now staggers targets on hit.\""
   },
@@ -92,7 +92,7 @@
     "key": "]+5[/color] Melee Defense and [color=",
     "original": "]+5[/color] Melee Defense and [color=",
     "translation": "]+5[/color] 近战防御和 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.OathBoonText = 'Your men build up [color=' + this.Const.UI.Color.NegativeValue + \"]25%[/color] less Fatigue when using shield skills. The 'Shield Wall' skill now grants an additional [color=\" + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense and [color=' + this.Const.UI.Color.PositiveValue + \"]+5[/color] Ranged Defense. The 'Knock Back' skill now staggers targets on hit.\""
   }
 ]

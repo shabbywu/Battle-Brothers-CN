@@ -28,7 +28,7 @@
     "key": "]+5[/color] Resolve",
     "original": "]+5[/color] Resolve",
     "translation": "]+5[/color] 决心",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Resolve'"
   },
   {

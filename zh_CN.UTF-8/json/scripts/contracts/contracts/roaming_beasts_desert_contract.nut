@@ -74,7 +74,7 @@
     "ID": 293409863,
     "key": "Hunt down what terrorizes ",
     "original": "Hunt down what terrorizes ",
-    "translation": "追捕是什么造成了恐怖 ",
+    "translation": "追捕威胁",
     "stage": 1,
     "context": "'Hunt down what terrorizes ' + this.Contract.m.Home.getName()"
   },

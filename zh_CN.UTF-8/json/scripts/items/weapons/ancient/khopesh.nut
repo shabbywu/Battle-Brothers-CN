@@ -20,7 +20,7 @@
     "key": "Khopesh",
     "original": "Khopesh",
     "translation": "镰弯刀",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Khopesh'"
   }
 ]

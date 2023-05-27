@@ -4,7 +4,7 @@
     "key": "Crossbow, Two-Handed",
     "original": "Crossbow, Two-Handed",
     "translation": "十字弩, 双手持",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Categories = 'Crossbow, Two-Handed'"
   },
   {

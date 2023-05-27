@@ -27,7 +27,7 @@
     "ID": 293415479,
     "key": "]+1[/color] Fatigue",
     "original": "]+1[/color] Fatigue",
-    "translation": "]+1[/color] 疲劳",
+    "translation": "]+1[/color] 疲劳值",
     "stage": 1,
     "context": "_event.m.Gladiator.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+1[/color] Fatigue'"
   },

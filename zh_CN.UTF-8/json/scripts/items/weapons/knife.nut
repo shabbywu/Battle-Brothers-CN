@@ -4,15 +4,15 @@
     "key": "Knife",
     "original": "Knife",
     "translation": "短刀",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Knife'"
   },
   {
     "ID": 293419206,
     "key": "A short knife, not made for combat.",
     "original": "A short knife, not made for combat.",
-    "translation": "一把短刀，不是用来战斗的。",
-    "stage": 1,
+    "translation": "一把短刀，并非为战斗制作。",
+    "stage": 5,
     "context": "this.m.Description = 'A short knife, not made for combat.'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "Dagger, One-Handed",
     "original": "Dagger, One-Handed",
     "translation": "匕首，单手持",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Categories = 'Dagger, One-Handed'"
   }
 ]

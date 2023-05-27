@@ -12,7 +12,7 @@
     "key": "A heavy piece of metal with a sharp head. Not made for human hands.",
     "original": "A heavy piece of metal with a sharp head. Not made for human hands.",
     "translation": "一块沉重的金属上面有一个锋利的金属头。 不是为人的手做的。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'A heavy piece of metal with a sharp head. Not made for human hands.'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "Head Splitter",
     "original": "Head Splitter",
     "translation": "劈头斧",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Head Splitter'"
   }
 ]

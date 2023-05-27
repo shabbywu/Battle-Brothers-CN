@@ -56,7 +56,7 @@
     "ID": 293414347,
     "key": "]+10[/color] Max Fatigue",
     "original": "]+10[/color] Max Fatigue",
-    "translation": "]+10[/color] 最大疲劳",
+    "translation": "]+10[/color] 最大疲劳值",
     "stage": 1,
     "context": "_event.m.Dude.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+10[/color] Max Fatigue'"
   },

@@ -19,7 +19,7 @@
     "ID": 293420274,
     "key": "Current Fatigue is reduced by half",
     "original": "Current Fatigue is reduced by half",
-    "translation": "当前疲劳减少一半",
+    "translation": "当前疲劳值减少一半",
     "stage": 1
   }
 ]

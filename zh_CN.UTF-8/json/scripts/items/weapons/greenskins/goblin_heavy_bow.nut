@@ -4,7 +4,7 @@
     "key": "Bow, Two-Handed",
     "original": "Bow, Two-Handed",
     "translation": "弓，双手持",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Categories = 'Bow, Two-Handed'"
   },
   {

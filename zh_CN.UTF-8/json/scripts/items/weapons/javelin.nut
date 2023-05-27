@@ -3,7 +3,7 @@
     "ID": 293419201,
     "key": "Bundle of Javelins (Empty)",
     "original": "Bundle of Javelins (Empty)",
-    "translation": "长矛捆（空）",
+    "translation": "一捆标枪（空）",
     "stage": 1,
     "context": "this.m.Name = 'Bundle of Javelins (Empty)'"
   },
@@ -12,15 +12,15 @@
     "key": "Bundle of Javelins",
     "original": "Bundle of Javelins",
     "translation": "一捆标枪",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Bundle of Javelins'"
   },
   {
     "ID": 293419203,
     "key": "A couple of light throwing spears usually carried by skirmishers. Have limited range and are exhausting to throw, but may inflict devastating injuries.",
     "original": "A couple of light throwing spears usually carried by skirmishers. Have limited range and are exhausting to throw, but may inflict devastating injuries.",
-    "translation": "几个轻型标枪通常是由散兵携带的。 射程有限，且十分消耗体力，但能造成毁灭性的伤害。",
-    "stage": 1,
+    "translation": "一组通常由散兵携带的轻型投矛。射程有限，且十分消耗体力，但能造成毁灭性的伤害。",
+    "stage": 5,
     "context": "this.m.Description = 'A couple of light throwing spears usually carried by skirmishers. Have limited range and are exhausting to throw, but may inflict devastating injuries.'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "Throwing Weapon, One-Handed",
     "original": "Throwing Weapon, One-Handed",
     "translation": "投掷武器，单手持",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Categories = 'Throwing Weapon, One-Handed'"
   }
 ]

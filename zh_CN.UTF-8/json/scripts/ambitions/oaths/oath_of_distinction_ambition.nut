@@ -11,7 +11,7 @@
     "ID": 293403615,
     "key": "]+3[/color] Fatigue Recovery per turn, and deal [color=",
     "original": "]+3[/color] Fatigue Recovery per turn, and deal [color=",
-    "translation": "]+3[/color] 每回合疲劳恢复, and deal [color=",
+    "translation": "]+3[/color] 每回合疲劳值恢复, and deal [color=",
     "stage": 1,
     "context": "this.m.OathBoonText = 'Your men get [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve, [color=' + this.Const.UI.Color.PositiveValue + ']+3[/color] Fatigue Recovery per turn, and deal [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] damage if there are no allies on adjacent tiles.'"
   },
@@ -27,8 +27,8 @@
     "ID": 293403617,
     "key": "]+10[/color] Resolve, [color=",
     "original": "]+10[/color] Resolve, [color=",
-    "translation": "]+10[/color] 决心, [color=",
-    "stage": 1,
+    "translation": "]+10[/color] 决心，[color=",
+    "stage": 5,
     "context": "this.m.OathBoonText = 'Your men get [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve, [color=' + this.Const.UI.Color.PositiveValue + ']+3[/color] Fatigue Recovery per turn, and deal [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] damage if there are no allies on adjacent tiles.'"
   },
   {

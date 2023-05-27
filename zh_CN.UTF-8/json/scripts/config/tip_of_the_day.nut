@@ -255,7 +255,7 @@
     "ID": 293406893,
     "key": "Undead are unaffected by fatigue and morale.",
     "original": "Undead are unaffected by fatigue and morale.",
-    "translation": "亡灵不受疲劳和士气的影响。",
+    "translation": "亡灵不受疲劳值和士气的影响。",
     "stage": 1
   },
   {

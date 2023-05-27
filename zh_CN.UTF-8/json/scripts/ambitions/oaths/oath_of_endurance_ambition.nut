@@ -51,7 +51,7 @@
     "ID": 293403644,
     "key": "]+3[/color] Fatigue per turn.",
     "original": "]+3[/color] Fatigue per turn.",
-    "translation": "]+3[/color] 疲劳。",
+    "translation": "]+3[/color] 疲劳值。",
     "stage": 1,
     "context": "this.m.OathBoonText = 'Your men recover [color=' + this.Const.UI.Color.PositiveValue + ']+3[/color] Fatigue per turn.'"
   },
