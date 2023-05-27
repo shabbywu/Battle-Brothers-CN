@@ -65,7 +65,7 @@
     "ID": 293415055,
     "key": "]+3[/color] Max Fatigue",
     "original": "]+3[/color] Max Fatigue",
-    "translation": "]+3[/color] 最大疲劳",
+    "translation": "]+3[/color] 最大疲劳值",
     "stage": 1,
     "context": "_event.m.MilitiaCaptain.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+3[/color] Max Fatigue'"
   },

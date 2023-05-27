@@ -173,7 +173,7 @@
     "ID": 293414314,
     "key": "]+1[/color] Max Fatigue",
     "original": "]+1[/color] Max Fatigue",
-    "translation": "]+1[/color] 最大疲劳",
+    "translation": "]+1[/color] 最大疲劳值",
     "stage": 1,
     "context": "_event.m.Athletic.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+1[/color] Max Fatigue'"
   }

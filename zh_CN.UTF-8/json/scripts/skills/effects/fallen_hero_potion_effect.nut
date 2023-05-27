@@ -18,7 +18,7 @@
     "ID": 293421485,
     "key": "This character accumulates no Fatigue from enemy attacks, whether they hit or miss",
     "original": "This character accumulates no Fatigue from enemy attacks, whether they hit or miss",
-    "translation": "该角色不会因敌人的攻击（无论是否命中）而积累疲劳。",
+    "translation": "该角色不会因敌人的攻击（无论是否命中）而积累疲劳值。",
     "stage": 1
   },
   {

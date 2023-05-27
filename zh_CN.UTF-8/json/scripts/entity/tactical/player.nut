@@ -279,7 +279,7 @@
     "ID": 293410479,
     "key": "Paid [img]gfx/ui/tooltips/money.png[/img]",
     "original": "Paid [img]gfx/ui/tooltips/money.png[/img]",
-    "translation": "薪资:[img]gfx/ui/tooltips/money.png[/img]",
+    "translation": "薪资: [img]gfx/ui/tooltips/money.png[/img]",
     "stage": 5,
     "context": "'Paid [img]gfx/ui/tooltips/money.png[/img]' + this.getDailyCost() + ' daily'"
   },

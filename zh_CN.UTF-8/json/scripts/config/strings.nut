@@ -679,7 +679,7 @@
     "ID": 293405732,
     "key": "Getting hit by regular attacks does not cause a loss of fatigue anymore. Attacks that specifically target fatigue are unaffected.",
     "original": "Getting hit by regular attacks does not cause a loss of fatigue anymore. Attacks that specifically target fatigue are unaffected.",
-    "translation": "被常规攻击击中不会再导致疲劳。专门针对疲劳的攻击不受影响。",
+    "translation": "被常规攻击击中不会再导致疲劳值。专门针对疲劳值的攻击不受影响。",
     "stage": 1
   },
   {
@@ -1161,7 +1161,7 @@
     "ID": 293405800,
     "key": "]25%[/color] less Fatigue.\n\nRiposte no longer has a penalty to hitchance.\n\nGash has a [color=",
     "original": "]25%[/color] less Fatigue.\n\nRiposte no longer has a penalty to hitchance.\n\nGash has a [color=",
-    "translation": "]25%[/color] 疲劳度积累。\n\n'还击'不再有命中几率的惩罚。\n\n'冲撞'造成伤害的门槛减低[color=",
+    "translation": "]25%[/color] 疲劳值积累。\n\n'还击'不再有命中几率的惩罚。\n\n'冲撞'造成伤害的门槛减低[color=",
     "stage": 1,
     "context": "\"Master the art of swordfighting and using your opponent's mistakes to your advantage. Skills build up [color=\" + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nRiposte no longer has a penalty to hitchance.\n\nGash has a [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] lower threshold to inflict injuries.\n\nSplit and Swing no longer have a penalty to hitchance and gain [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.'"
   },
@@ -1553,7 +1553,7 @@
     "ID": 293405855,
     "key": "The fatigue and initiative penalty from wearing armor and helmet is reduced by [color=",
     "original": "The fatigue and initiative penalty from wearing armor and helmet is reduced by [color=",
-    "translation": "穿着盔甲和头盔的疲劳和主动惩罚降低了 [color=",
+    "translation": "穿着盔甲和头盔的疲劳值和主动惩罚降低了 [color=",
     "stage": 1,
     "context": "'The fatigue and initiative penalty from wearing armor and helmet is reduced by [color=' + this.Const.UI.Color.NegativeValue + ']30%[/color].'"
   },
@@ -2462,7 +2462,7 @@
     "ID": 293405983,
     "key": "]25%[/color] less Fatigue.\n\nDamage is increased by [color=",
     "original": "]25%[/color] less Fatigue.\n\nDamage is increased by [color=",
-    "translation": "]25%[/color] 疲劳度积累。\n\n当攻击距离为2格时，伤害会增加[color=",
+    "translation": "]25%[/color] 疲劳值积累。\n\n当攻击距离为2格时，伤害会增加[color=",
     "stage": 1,
     "context": "'Master throwing weapons to wound or kill the enemy before they even get close. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nDamage is increased by [color=' + this.Const.UI.Color.PositiveValue + ']30%[/color] when attacking at 2 tiles of distance.\n\nDamage is increased by [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] when attacking at 3 tiles of distance.'"
   },
@@ -2865,7 +2865,7 @@
     "ID": 293406040,
     "key": "]25%[/color] less Fatigue.\n\nAn additional [color=",
     "original": "]25%[/color] less Fatigue.\n\nAn additional [color=",
-    "translation": "]25%[/color] 疲劳度积累。\n\n弩箭额外造成的无视护甲的 [color=",
+    "translation": "]25%[/color] 疲劳值积累。\n\n弩箭额外造成的无视护甲的 [color=",
     "stage": 1,
     "context": "'Master crossbows and firearms, and learn where to aim best. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nAn additional [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] of damage inflicted with crossbows ignores armor.\n\nHandgonnes now require [color=' + this.Const.UI.Color.NegativeValue + ']6[/color] Action Points to reload and can be fired every turn instead of every other turn.'"
   },
@@ -2908,7 +2908,7 @@
     "ID": 293406046,
     "key": "]25%[/color] less Fatigue.\n\nLash and Hail ignore the defense bonus of shields.\n\nPound ignores an additional [color=",
     "original": "]25%[/color] less Fatigue.\n\nLash and Hail ignore the defense bonus of shields.\n\nPound ignores an additional [color=",
-    "translation": "]25%[/color] 疲劳度积累。\n\n'抽打(Lash)'和'雹击(Hail)'无视盾牌加成。\n\n'砸击(Pound)'在击中头部时忽略[color=",
+    "translation": "]25%[/color] 疲劳值积累。\n\n'抽打(Lash)'和'雹击(Hail)'无视盾牌加成。\n\n'砸击(Pound)'在击中头部时忽略[color=",
     "stage": 1,
     "context": "\"Master flails and circumvent your opponent's shield. Skills build up [color=\" + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nLash and Hail ignore the defense bonus of shields.\n\nPound ignores an additional [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] of armor on head hits.\n\nThresh gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.'"
   },
@@ -3692,7 +3692,7 @@
     "ID": 293406157,
     "key": "]25%[/color] less Fatigue.\n\nPolearm skills have their Action Point cost reduced to [color=",
     "original": "]25%[/color] less Fatigue.\n\nPolearm skills have their Action Point cost reduced to [color=",
-    "translation": "]25%[/color] 疲劳度积累。\n\n长柄武器技能的行动点消耗减少到[color=",
+    "translation": "]25%[/color] 疲劳值积累。\n\n长柄武器技能的行动点消耗减少到[color=",
     "stage": 1,
     "context": "'Master polearms and keeping the enemy at bay. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nPolearm skills have their Action Point cost reduced to [color=' + this.Const.UI.Color.NegativeValue + ']5[/color], and no longer have a penalty for attacking targets directly adjacent.'"
   },
@@ -4511,7 +4511,7 @@
     "ID": 293406272,
     "key": "Unlocks the 'Recover' skill which allows for resting a turn in order to reduce accumulated Fatigue by [color=",
     "original": "Unlocks the 'Recover' skill which allows for resting a turn in order to reduce accumulated Fatigue by [color=",
-    "translation": "解锁 '恢复' 技能，允许角色休息一回合，以减少累积疲劳的[color=",
+    "translation": "解锁 '恢复' 技能，允许角色休息一回合，以减少累积疲劳值的[color=",
     "stage": 1,
     "context": "\"Unlocks the 'Recover' skill which allows for resting a turn in order to reduce accumulated Fatigue by [color=\" + this.Const.UI.Color.NegativeValue + ']50%[/color].'"
   },
@@ -4624,7 +4624,7 @@
     "ID": 293406288,
     "key": "Unlock two extra bag slots to carry all your favorite things. Items placed in bags no longer give a penalty to Maximum Fatigue, except for two-handed weapons.",
     "original": "Unlock two extra bag slots to carry all your favorite things. Items placed in bags no longer give a penalty to Maximum Fatigue, except for two-handed weapons.",
-    "translation": "解锁两个额外的包槽以携带所有您喜爱的物品。放在袋子里的物品不再对最大疲劳造成惩罚，除了双手武器。",
+    "translation": "解锁两个额外的包槽以携带所有您喜爱的物品。放在袋子里的物品不再对最大疲劳值造成惩罚，除了双手武器。",
     "stage": 1
   },
   {
@@ -5387,7 +5387,7 @@
     "ID": 293406396,
     "key": "Fatigue costs for all two-handed weapon skills are reduced by [color=",
     "original": "Fatigue costs for all two-handed weapon skills are reduced by [color=",
-    "translation": "所有双手武器技能的疲劳消耗降低 [color=",
+    "translation": "所有双手武器技能的疲劳值消耗降低 [color=",
     "stage": 1,
     "context": "'Fatigue costs for all two-handed weapon skills are reduced by [color=' + this.Const.UI.Color.NegativeValue + ']-20%[/color].'"
   },
@@ -5726,7 +5726,7 @@
     "ID": 293406444,
     "key": "]10[/color] Fatigue in addition to its normal effect, and costs 10 Fatigue less to use.",
     "original": "]10[/color] Fatigue in addition to its normal effect, and costs 10 Fatigue less to use.",
-    "translation": "]10[/color] 点疲劳。同时, 撞退技能的疲劳消耗减少 10",
+    "translation": "]10[/color] 点疲劳值。同时, 撞退技能的疲劳值消耗减少 10",
     "stage": 1,
     "context": "'The Knock Back skill now also inflicts [color=' + this.Const.UI.Color.DamageValue + ']10 - 25[/color] Damage (50% effective against armor) and [color=' + this.Const.UI.Color.DamageValue + ']10[/color] Fatigue in addition to its normal effect, and costs 10 Fatigue less to use.'"
   },
@@ -6168,7 +6168,7 @@
     "ID": 293406506,
     "key": "]25%[/color] less Fatigue.\n\nStab, Puncture and Deathblow have a reduced Action Point cost to allow for an additional attack each turn.",
     "original": "]25%[/color] less Fatigue.\n\nStab, Puncture and Deathblow have a reduced Action Point cost to allow for an additional attack each turn.",
-    "translation": "]25%[/color] 疲劳度积累。\n\n'刺杀'、'穿刺'和'致命一击'的行动点成本降低，以允许每回合进行额外的攻击。",
+    "translation": "]25%[/color] 疲劳值积累。\n\n'刺杀'、'穿刺'和'致命一击'的行动点成本降低，以允许每回合进行额外的攻击。",
     "stage": 1,
     "context": "'Master swift and deadly daggers. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nStab, Puncture and Deathblow have a reduced Action Point cost to allow for an additional attack each turn.'"
   },
@@ -6261,7 +6261,7 @@
     "ID": 293406519,
     "key": "]25%[/color] less Fatigue.\n\nSplit Shield damage to shields is increased by [color=",
     "original": "]25%[/color] less Fatigue.\n\nSplit Shield damage to shields is increased by [color=",
-    "translation": "]25%[/color] 疲劳度积累。\n\n斧头对盾牌的分裂伤害会增加[color=",
+    "translation": "]25%[/color] 疲劳值积累。\n\n斧头对盾牌的分裂伤害会增加[color=",
     "stage": 1,
     "context": "'Master combat with axes and destroying shields. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nSplit Shield damage to shields is increased by [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] when used with axes.\n\nRound Swing gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.\n\nThe Longaxe no longer has a penalty for attacking targets directly adjacent.'"
   },
@@ -6502,7 +6502,7 @@
     "ID": 293406553,
     "key": "]25%[/color] less Fatigue.\n\nSpearwall is no longer disabled once an opponent manages to overcome it. Instead, Spearwall can still be used and continues to give free attacks on any further opponent attempting to enter the Zone of Control.\n\nThe Spetum and W",
     "original": "]25%[/color] less Fatigue.\n\nSpearwall is no longer disabled once an opponent manages to overcome it. Instead, Spearwall can still be used and continues to give free attacks on any further opponent attempting to enter the Zone of Control.\n\nThe Spetum and Warfork no longer have a penalty for attacking targets directly adjacent.",
-    "translation": "]25%[/color] 疲劳度积累。\n\n即使控制区内有敌人, '矛墙'技能仍可对任何试图进入控制区的敌人进行攻击。\n\n'长戟类(Spetum)'和'战叉类(Warfork)'武器攻击直接相邻的目标不再有惩罚。",
+    "translation": "]25%[/color] 疲劳值积累。\n\n即使控制区内有敌人, '矛墙'技能仍可对任何试图进入控制区的敌人进行攻击。\n\n'长戟类(Spetum)'和'战叉类(Warfork)'武器攻击直接相邻的目标不再有惩罚。",
     "stage": 1,
     "context": "'Master fighting with spears and keeping the enemy at bay. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nSpearwall is no longer disabled once an opponent manages to overcome it. Instead, Spearwall can still be used and continues to give free attacks on any further opponent attempting to enter the Zone of Control.\n\nThe Spetum and Warfork no longer have a penalty for attacking targets directly adjacent.'"
   },
@@ -6930,7 +6930,7 @@
     "ID": 293406613,
     "key": "]25%[/color] less Fatigue.\n\nView range and maximum firing range with bows is increased by [color=",
     "original": "]25%[/color] less Fatigue.\n\nView range and maximum firing range with bows is increased by [color=",
-    "translation": "]25%[/color] 疲劳度积累。/n\n使用弓箭时的视野范围和最大射程增加[color=",
+    "translation": "]25%[/color] 疲劳值积累。/n\n使用弓箭时的视野范围和最大射程增加[color=",
     "stage": 1,
     "context": "'Master the art of archery and pelting your opponents with arrows from afar. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nView range and maximum firing range with bows is increased by [color=' + this.Const.UI.Color.PositiveValue + ']+1[/color].'"
   },
@@ -7206,7 +7206,7 @@
     "ID": 293406652,
     "key": "All attacks cost [color=",
     "original": "All attacks cost [color=",
-    "translation": "所有的攻击的疲劳消耗减少[color=",
+    "translation": "所有攻击的疲劳值消耗减少[color=",
     "stage": 1,
     "context": "'All attacks cost [color=' + this.Const.UI.Color.NegativeValue + ']-20%[/color] Fatigue to use and weapon condition degrades only half as fast. Dance gracefully with your weapon and make every hit count. '"
   },
@@ -7249,7 +7249,7 @@
     "ID": 293406658,
     "key": "]-1[/color] to a minimum of 2 Action Points per tile, and Fatigue cost is reduced to half. Changing height levels also has no additional Action Point cost anymore.",
     "original": "]-1[/color] to a minimum of 2 Action Points per tile, and Fatigue cost is reduced to half. Changing height levels also has no additional Action Point cost anymore.",
-    "translation": "]1[/color](但每个单元格至少需要 2 个行动点)，疲劳消耗减少到一半。 改变高度也不再需要消耗额外的行动点。",
+    "translation": "]1[/color](但每个单元格至少需要 2 个行动点)，疲劳值消耗减少到一半。 改变高度也不再需要消耗额外的行动点。",
     "stage": 1,
     "context": "'Learn to move on difficult terrain. Action Point costs for movement on all terrain is reduced by [color=' + this.Const.UI.Color.NegativeValue + ']-1[/color] to a minimum of 2 Action Points per tile, and Fatigue cost is reduced to half. Changing height levels also has no additional Action Point cost anymore.'"
   },
@@ -7294,7 +7294,7 @@
     "ID": 293406664,
     "key": "]25%[/color] less Fatigue.\n\nBleeding damage inflicted by cleavers and whips is doubled to [color=",
     "original": "]25%[/color] less Fatigue.\n\nBleeding damage inflicted by cleavers and whips is doubled to [color=",
-    "translation": "]25%[/color] 疲劳度积累。\n\n劈刀和鞭子造成的流血伤害(每回合)分别增加到[color=",
+    "translation": "]25%[/color] 疲劳值积累。\n\n劈刀和鞭子造成的流血伤害(每回合)分别增加到[color=",
     "stage": 1,
     "context": "'Master cleavers to inflict gruesome wounds. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nBleeding damage inflicted by cleavers and whips is doubled to [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']20[/color] per turn, respectively.\n\nDisarm only has half the penalty to hit.'"
   },
@@ -7482,7 +7482,7 @@
     "ID": 293406690,
     "key": "]25%[/color] less Fatigue.\n\nKnock Out, Knock Over and Strike Down have a [color=",
     "original": "]25%[/color] less Fatigue.\n\nKnock Out, Knock Over and Strike Down have a [color=",
-    "translation": "]25%[/color] 疲劳度积累。\n\n只要免疫豁免未通过, '锤倒'，'撞倒'和'击倒'的击昏概率提升至[color=",
+    "translation": "]25%[/color] 疲劳值积累。\n\n只要免疫豁免未通过, '锤倒'，'撞倒'和'击倒'的击昏概率提升至[color=",
     "stage": 1,
     "context": "'Master maces to beat your opponents into submission, armored or not. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nKnock Out, Knock Over and Strike Down have a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stun the target if not immune.\n\nThe Polemace no longer has a penalty for attacking targets directly adjacent.'"
   },
@@ -7715,7 +7715,7 @@
     "ID": 293406723,
     "key": "]25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=",
     "original": "]25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=",
-    "translation": "]25%[/color] 疲劳度积累。\n\n'摧毁盔甲'会护甲造成的伤害提高 [color=",
+    "translation": "]25%[/color] 疲劳值积累。\n\n'摧毁盔甲'会护甲造成的伤害提高 [color=",
     "stage": 1,
     "context": "'Master hammers and fighting against heavily armored opponents. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] more damage against armor.\n\nShatter gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.\n\nThe Polehammer no longer has a penalty for attacking targets directly adjacent.'"
   },

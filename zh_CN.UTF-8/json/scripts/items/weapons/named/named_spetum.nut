@@ -4,7 +4,7 @@
     "key": "Spear, Two-Handed",
     "original": "Spear, Two-Handed",
     "translation": "长矛，双手持",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Categories = 'Spear, Two-Handed'"
   },
   {

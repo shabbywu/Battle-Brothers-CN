@@ -12,7 +12,7 @@
     "key": "]+10[/color] Resolve when in battle with undead",
     "original": "]+10[/color] Resolve when in battle with undead",
     "translation": "]+10[/color] 决心，与亡灵战斗时",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve when in battle with undead'"
   },
   {

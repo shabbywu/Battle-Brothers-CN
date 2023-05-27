@@ -11,7 +11,7 @@
     "ID": 293422635,
     "key": "]25%[/color] less Fatigue.",
     "original": "]25%[/color] less Fatigue.",
-    "translation": "]25%[/color] 更少疲劳",
+    "translation": "]25%[/color] 更少疲劳值",
     "stage": 1,
     "context": "'Shield skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.'"
   },
@@ -20,7 +20,7 @@
     "key": "]+5[/color] Melee Defense and [color=",
     "original": "]+5[/color] Melee Defense and [color=",
     "translation": "]+5[/color] 近战防御和 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "\"The 'Shield Wall' shield skill has grants an additional [color=\" + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense and [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense.'"
   },
   {
@@ -51,7 +51,7 @@
     "key": "]+5[/color] Ranged Defense.",
     "original": "]+5[/color] Ranged Defense.",
     "translation": "]+5[/color] 远程防御",
-    "stage": 1,
+    "stage": 5,
     "context": "\"The 'Shield Wall' shield skill has grants an additional [color=\" + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense and [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense.'"
   },
   {

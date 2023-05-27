@@ -19,14 +19,14 @@
     "key": "]+10[/color] Resolve",
     "original": "]+10[/color] Resolve",
     "translation": "]+10[/color] 决心",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve'"
   },
   {
     "ID": 293422692,
     "key": "]-10[/color] Max Fatigue",
     "original": "]-10[/color] Max Fatigue",
-    "translation": "]-10[/color] 最大疲劳",
+    "translation": "]-10[/color] 最大疲劳值",
     "stage": 1,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Max Fatigue'"
   },

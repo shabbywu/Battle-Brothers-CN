@@ -34,7 +34,7 @@
     "ID": 293418435,
     "key": "The Fatigue costs of the Rotation and Footwork skills are reduced by [color=",
     "original": "The Fatigue costs of the Rotation and Footwork skills are reduced by [color=",
-    "translation": "换位和步法技能的疲劳产生量降低  [color=",
+    "translation": "换位和步法技能的疲劳值产生量降低  [color=",
     "stage": 1,
     "context": "'The Fatigue costs of the Rotation and Footwork skills are reduced by [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color]'"
   },

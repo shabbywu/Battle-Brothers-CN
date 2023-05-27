@@ -4,15 +4,15 @@
     "key": "Heavy and unwieldy throwing axes used by northern barbarians. Difficult to throw and hit with, but deadly.",
     "original": "Heavy and unwieldy throwing axes used by northern barbarians. Difficult to throw and hit with, but deadly.",
     "translation": "北方野蛮人使用的笨重投斧。 投掷困难且难以命中，但十分致命。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'Heavy and unwieldy throwing axes used by northern barbarians. Difficult to throw and hit with, but deadly.'"
   },
   {
     "ID": 293419071,
     "key": "Bundle of Heavy Throwing Axes",
     "original": "Bundle of Heavy Throwing Axes",
-    "translation": "一捆重型投斧",
-    "stage": 1,
+    "translation": "一捆重投斧",
+    "stage": 5,
     "context": "this.m.Name = 'Bundle of Heavy Throwing Axes'"
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293419073,
     "key": "Bundle of Heavy Throwing Axes (Empty)",
     "original": "Bundle of Heavy Throwing Axes (Empty)",
-    "translation": "重型投掷斧捆绑包（空）",
-    "stage": 1,
+    "translation": "一捆重投斧（空）",
+    "stage": 5,
     "context": "this.m.Name = 'Bundle of Heavy Throwing Axes (Empty)'"
   }
 ]

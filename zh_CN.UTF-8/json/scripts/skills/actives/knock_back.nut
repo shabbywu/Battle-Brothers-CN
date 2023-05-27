@@ -3,7 +3,7 @@
     "ID": 293420111,
     "key": "Use the shield to knock a target away by one tile. Targets hit will receive fatigue and may take damage if they are pushed down several levels of height. Shieldwall, Spearwall and Riposte will be canceled for a target that is successfully knocked back. A ",
     "original": "Use the shield to knock a target away by one tile. Targets hit will receive fatigue and may take damage if they are pushed down several levels of height. Shieldwall, Spearwall and Riposte will be canceled for a target that is successfully knocked back. A rooted target can not be knocked back.",
-    "translation": "用盾牌击退目标一格。 击中的目标将受到疲劳，如果被推下几级高度，可能会受到伤害。 对于成功撞退的目标，将取消盾墙、矛墙和还击。 定身的目标不能被撞退。",
+    "translation": "用盾牌击退目标一格。 击中的目标将受到疲劳值，如果被推下几级高度，可能会受到伤害。 对于成功撞退的目标，将取消盾墙、矛墙和还击。 定身的目标不能被撞退。",
     "stage": 1,
     "context": "this.m.Description = 'Use the shield to knock a target away by one tile. Targets hit will receive fatigue and may take damage if they are pushed down several levels of height. Shieldwall, Spearwall and Riposte will be canceled for a target that is successfully knocked back. A rooted target can not be knocked back.'"
   },

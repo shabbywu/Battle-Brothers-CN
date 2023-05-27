@@ -210,7 +210,7 @@
     "ID": 293422197,
     "key": " Fatigue[/color][/b][/i]\n",
     "original": " Fatigue[/color][/b][/i]\n",
-    "translation": " 疲劳[/color][/b][/i]\n",
+    "translation": " 疲劳值[/color][/b][/i]\n",
     "stage": 1,
     "context": "return '[i]Costs ' + this.isAffordableBasedOnAPPreview() ? '[b][color=' + this.Const.UI.Color.PositiveValue + ']' + this.getActionPointCost() : '[b][color=' + this.Const.UI.Color.NegativeValue + ']' + this.getActionPointCost() + ' AP[/color][/b] to use and builds up ' + this.isAffordableBasedOnFatiguePreview() ? '[b][color=' + this.Const.UI.Color.PositiveValue + ']' + this.getFatigueCost() : '[b][color=' + this.Const.UI.Color.NegativeValue + ']' + this.getFatigueCost() + ' Fatigue[/color][/b][/i]\n';"
   },

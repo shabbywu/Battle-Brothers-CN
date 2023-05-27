@@ -20,7 +20,7 @@
     "key": "Polearm, Two-Handed",
     "original": "Polearm, Two-Handed",
     "translation": "长柄武器，双手持",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Categories = 'Polearm, Two-Handed'"
   }
 ]

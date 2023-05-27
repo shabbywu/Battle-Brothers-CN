@@ -3,7 +3,7 @@
     "ID": 293422021,
     "key": "]-20%[/color] Max Fatigue",
     "original": "]-20%[/color] Max Fatigue",
-    "translation": "]-20%[/color] 最大疲劳",
+    "translation": "]-20%[/color] 最大疲劳值",
     "stage": 1,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-20%[/color] Max Fatigue'"
   },

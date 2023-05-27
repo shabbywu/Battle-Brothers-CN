@@ -10,7 +10,7 @@
     "ID": 293415640,
     "key": "[/color] Fatigue",
     "original": "[/color] Fatigue",
-    "translation": "[/color] 疲劳",
+    "translation": "[/color] 疲劳值",
     "stage": 1,
     "context": "_event.m.Anatomist.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + fatigueBoost + '[/color] Fatigue'"
   },

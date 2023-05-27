@@ -157,7 +157,7 @@
     "ID": 293404891,
     "key": "Bardiche",
     "original": "Bardiche",
-    "translation": "月牙砍刀",
+    "translation": "月牙斧",
     "stage": 1
   },
   {
@@ -283,7 +283,7 @@
     "ID": 293404909,
     "key": "Shamshir",
     "original": "Shamshir",
-    "translation": "沙姆希尔",
+    "translation": "狮尾弯刀",
     "stage": 1
   },
   {
@@ -3356,7 +3356,7 @@
     "ID": 293405348,
     "key": "Scimitar",
     "original": "Scimitar",
-    "translation": "弯刀",
+    "translation": "短弯刀",
     "stage": 1
   },
   {

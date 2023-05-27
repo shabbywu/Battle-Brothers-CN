@@ -4,7 +4,7 @@
     "key": "Drum",
     "original": "Drum",
     "translation": "战鼓",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Drum'"
   }
 ]

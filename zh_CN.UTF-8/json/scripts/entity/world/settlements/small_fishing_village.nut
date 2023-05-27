@@ -17,8 +17,8 @@
     "ID": 293412044,
     "key": "A small fishing village made up of a few humble huts",
     "original": "A small fishing village made up of a few humble huts",
-    "translation": "由几个简陋的小屋组成的小渔村",
-    "stage": 1,
+    "translation": "一个由几间简陋小屋组成的小渔村",
+    "stage": 5,
     "context": "this.m.UIDescription = 'A small fishing village made up of a few humble huts'"
   },
   {
@@ -144,8 +144,8 @@
     "ID": 293412062,
     "key": "A small fishing village made up of a few humble huts.",
     "original": "A small fishing village made up of a few humble huts.",
-    "translation": "由几个简陋的小屋组成的小渔村.",
-    "stage": 1,
+    "translation": "一个由几间简陋小屋组成的小渔村。",
+    "stage": 5,
     "context": "this.m.Description = 'A small fishing village made up of a few humble huts.'"
   },
   {

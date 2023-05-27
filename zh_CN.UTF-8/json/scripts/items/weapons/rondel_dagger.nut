@@ -4,7 +4,7 @@
     "key": "Dagger, One-Handed",
     "original": "Dagger, One-Handed",
     "translation": "匕首，单手持",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Categories = 'Dagger, One-Handed'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "A long, quadrangular spike designed to pierce through weakpoints in armor.",
     "original": "A long, quadrangular spike designed to pierce through weakpoints in armor.",
     "translation": "一种细长的四棱柱匕首，用来刺穿盔甲上的弱点。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'A long, quadrangular spike designed to pierce through weakpoints in armor.'"
   }
 ]

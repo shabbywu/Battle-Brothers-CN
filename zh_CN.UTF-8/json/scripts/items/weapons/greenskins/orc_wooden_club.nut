@@ -4,7 +4,7 @@
     "key": "Tree Limb",
     "original": "Tree Limb",
     "translation": "树枝",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Tree Limb'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "A big and heavy branch torn from a tree. Not well suited for human hands.",
     "original": "A big and heavy branch torn from a tree. Not well suited for human hands.",
     "translation": "从树上扯下来的又大又重的树枝。不太适合人手。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'A big and heavy branch torn from a tree. Not well suited for human hands.'"
   }
 ]

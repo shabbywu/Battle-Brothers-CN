@@ -3,7 +3,7 @@
     "ID": 293421653,
     "key": "Using orc weapons no longer imposes additional fatigue costs",
     "original": "Using orc weapons no longer imposes additional fatigue costs",
-    "translation": "使用兽人武器不再产生疲劳代价。",
+    "translation": "使用兽人武器不再产生疲劳值代价。",
     "stage": 1
   },
   {

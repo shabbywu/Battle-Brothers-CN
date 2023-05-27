@@ -27,7 +27,7 @@
     "ID": 293420709,
     "key": "Lowers the fatigue of every cultist, friend or foe, by [color=",
     "original": "Lowers the fatigue of every cultist, friend or foe, by [color=",
-    "translation": "立即将每个邪教徒的疲劳度降低[color=",
+    "translation": "立即将每个邪教徒的疲劳值降低[color=",
     "stage": 1,
     "context": "'Lowers the fatigue of every cultist, friend or foe, by [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] instantly. Anyone not a cultist is not affected.'"
   }

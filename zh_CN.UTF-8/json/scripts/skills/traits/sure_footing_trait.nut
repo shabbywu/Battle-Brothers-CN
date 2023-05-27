@@ -20,7 +20,7 @@
     "key": "]+5[/color] Melee Defense",
     "original": "]+5[/color] Melee Defense",
     "translation": "]+5[/color] 近战防御",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense'"
   }
 ]

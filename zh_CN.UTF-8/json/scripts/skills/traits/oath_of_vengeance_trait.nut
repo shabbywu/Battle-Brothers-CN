@@ -35,8 +35,8 @@
     "ID": 293422675,
     "key": "]+5[/color] Melee Defense when fighting greenskins",
     "original": "]+5[/color] Melee Defense when fighting greenskins",
-    "translation": "]+5[/color] 近战防御（对抗兽人）",
-    "stage": 1,
+    "translation": "]+5[/color] 近战防御（对抗绿皮）",
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense when fighting greenskins'"
   },
   {
@@ -75,8 +75,8 @@
     "ID": 293422680,
     "key": "]+5[/color] Ranged Defense when fighting greenskins",
     "original": "]+5[/color] Ranged Defense when fighting greenskins",
-    "translation": "]+5[/color] 远程防御（对抗绿皮族）",
-    "stage": 1,
+    "translation": "]+5[/color] 远程防御（对抗绿皮）",
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense when fighting greenskins'"
   },
   {

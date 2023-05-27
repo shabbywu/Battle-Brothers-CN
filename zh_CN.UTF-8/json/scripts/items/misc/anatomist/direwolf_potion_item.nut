@@ -34,7 +34,7 @@
     "ID": 293418418,
     "key": "]50%[/color] of their Fatigue cost refunded",
     "original": "]50%[/color] of their Fatigue cost refunded",
-    "translation": "]50%[/color] 的疲劳消耗返还",
+    "translation": "]50%[/color] 的疲劳值消耗返还",
     "stage": 1,
     "context": "'Attacks that miss have [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of their Fatigue cost refunded'"
   },
