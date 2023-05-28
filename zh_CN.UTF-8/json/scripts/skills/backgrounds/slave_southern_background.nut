@@ -17,7 +17,7 @@
     "ID": 293421310,
     "key": "You purchased %name% as an indebted and after your retiring, he went on with the %companyname%. Word of the mercenary band's problems have trickled in, but nothing about the indebted's current situation. Knowing how this world works, he has either been pu",
     "original": "You purchased %name% as an indebted and after your retiring, he went on with the %companyname%. Word of the mercenary band's problems have trickled in, but nothing about the indebted's current situation. Knowing how this world works, he has either been put into the vanguard as fodder or perhaps even been sold off to recoup profits. Either way, the world isn't easy on a sellsword, and it isn't easy on an indebted, and the man is unfortunately both.",
-    "translation": "你买下了[%name%]作为一个欠债者，但是当你退出时，他继续留在%companyname%的队伍里。有关这个雇佣军团队的问题的消息已经传出，但没有关于这个欠债者目前状况的任何消息。知道这个世界是如何运作的，他可能已经被送到前线当炮灰，或者甚至被出售以收回利润。无论哪种情况，这个世界不容易对付一个佣兵，也不容易对付一个欠债者，而不幸的是，这个人两者都是。",
+    "translation": "你买下了%name%作为一个欠债者，但是当你退出时，他继续留在%companyname%的队伍里。有关这个雇佣军团队的问题的消息已经传出，但没有关于这个欠债者目前状况的任何消息。知道这个世界是如何运作的，他可能已经被送到前线当炮灰，或者甚至被出售以收回利润。无论哪种情况，这个世界不容易对付一个佣兵，也不容易对付一个欠债者，而不幸的是，这个人两者都是。",
     "stage": 1,
     "context": "this.m.BadEnding = \"You purchased %name% as an indebted and after your retiring, he went on with the %companyname%. Word of the mercenary band's problems have trickled in, but nothing about the indebted's current situation. Knowing how this world works, he has either been put into the vanguard as fodder or perhaps even been sold off to recoup profits. Either way, the world isn't easy on a sellsword, and it isn't easy on an indebted, and the man is unfortunately both.\""
   },

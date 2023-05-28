@@ -109,8 +109,8 @@
     "ID": 293411234,
     "key": "Wasserkoog",
     "original": "Wasserkoog",
-    "translation": "瓦瑟库格(Wasserkoog)",
-    "stage": 1
+    "translation": "水围(Wasserkoog)",
+    "stage": 5
   },
   {
     "ID": 293411235,

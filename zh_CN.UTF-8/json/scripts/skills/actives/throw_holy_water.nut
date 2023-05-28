@@ -50,7 +50,7 @@
     "ID": 293420629,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有一个[color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] chance to hit bystanders at the same or lower height level as well.'"
   },
@@ -58,8 +58,8 @@
     "ID": 293420630,
     "key": "Inflicts [color=",
     "original": "Inflicts [color=",
-    "translation": "造成[color=",
-    "stage": 1,
+    "translation": "造成 [color=",
+    "stage": 5,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage to hitpoints for [color=' + this.Const.UI.Color.DamageValue + ']3[/color] turns, all of which ignores armor'"
   }
 ]

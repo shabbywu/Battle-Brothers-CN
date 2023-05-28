@@ -3,7 +3,7 @@
     "ID": 293420490,
     "key": "Stabbed",
     "original": "Stabbed",
-    "translation": "刺伤",
+    "translation": "捅死",
     "stage": 1,
     "context": "this.m.KilledString = 'Stabbed'"
   },

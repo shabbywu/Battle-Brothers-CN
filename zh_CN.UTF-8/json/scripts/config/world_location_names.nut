@@ -2166,8 +2166,8 @@
     "ID": 293407292,
     "key": "Eisenstein",
     "original": "Eisenstein",
-    "translation": "埃森斯坦(Eisenstein)",
-    "stage": 1
+    "translation": "铁石(Eisenstein)",
+    "stage": 5
   },
   {
     "ID": 293407293,

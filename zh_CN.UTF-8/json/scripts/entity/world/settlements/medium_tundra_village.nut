@@ -158,8 +158,8 @@
     "ID": 293411632,
     "key": "Donnerstad",
     "original": "Donnerstad",
-    "translation": "唐纳斯塔德(Donnerstad)",
-    "stage": 1
+    "translation": "雷神镇(Donnerstad)",
+    "stage": 5
   },
   {
     "ID": 293411633,
@@ -195,7 +195,7 @@
     "key": "Helvik",
     "original": "Helvik",
     "translation": "海尔维克(Helvik)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293411638,

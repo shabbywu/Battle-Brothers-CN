@@ -3,7 +3,7 @@
     "ID": 293420584,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有 [color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] axes left'"
   },
@@ -43,7 +43,7 @@
     "ID": 293420589,
     "key": "Has a range of [color=",
     "original": "Has a range of [color=",
-    "translation": "射程为 [color=",
+    "translation": "攻击范围为[color=",
     "stage": 1,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if throwing downhill'"
   },
@@ -59,7 +59,7 @@
     "ID": 293420591,
     "key": "]Can not be used because this character is engaged in melee[/color]",
     "original": "]Can not be used because this character is engaged in melee[/color]",
-    "translation": "]不能使用，因为这个角色正在近战[/color]",
+    "translation": "]无法使用，因为此角色已卷入近战[/color]",
     "stage": 1,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   },

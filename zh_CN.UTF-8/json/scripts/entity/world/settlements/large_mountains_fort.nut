@@ -3,8 +3,8 @@
     "ID": 293410890,
     "key": "Donnerfeste",
     "original": "Donnerfeste",
-    "translation": "冬妮堡(Donnerfeste)",
-    "stage": 1
+    "translation": "雷鸣堡(Donnerfeste)",
+    "stage": 5
   },
   {
     "ID": 293410891,
@@ -94,8 +94,8 @@
     "ID": 293410903,
     "key": "Turmfeste",
     "original": "Turmfeste",
-    "translation": "塔基地(Turmfeste)",
-    "stage": 1
+    "translation": "塔堡(Turmfeste)",
+    "stage": 5
   },
   {
     "ID": 293410904,
@@ -130,8 +130,8 @@
     "ID": 293410908,
     "key": "Himmelsfeste",
     "original": "Himmelsfeste",
-    "translation": "天空城堡(Himmelsfeste)",
-    "stage": 1
+    "translation": "天空堡(Himmelsfeste)",
+    "stage": 5
   },
   {
     "ID": 293410909,

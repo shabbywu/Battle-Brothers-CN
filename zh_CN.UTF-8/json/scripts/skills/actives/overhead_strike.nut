@@ -3,8 +3,8 @@
     "ID": 293420181,
     "key": "[/color] damage to armor",
     "original": "[/color] damage to armor",
-    "translation": "[/color] 盔甲伤害",
-    "stage": 1,
+    "translation": "[/color] 护甲伤害",
+    "stage": 5,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_Armor_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_Armor_max + '[/color] damage to armor'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "]0[/color] - [color=",
     "original": "]0[/color] - [color=",
     "translation": "]0[/color] - [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max + '[/color] damage to hitpoints, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
   },
   {
@@ -51,8 +51,8 @@
     "ID": 293420187,
     "key": "%[/color] chance to stun on a hit",
     "original": "%[/color] chance to stun on a hit",
-    "translation": "%[/color] 概率击昏",
-    "stage": 1,
+    "translation": "%[/color] 几率在击中时造成击昏",
+    "stage": 5,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun on a hit'"
   },
   {
@@ -67,15 +67,15 @@
     "ID": 293420189,
     "key": "Inflicts [color=",
     "original": "Inflicts [color=",
-    "translation": "造成[color=",
-    "stage": 1,
+    "translation": "造成 [color=",
+    "stage": 5,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max + '[/color] damage to hitpoints, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
   },
   {
     "ID": 293420190,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有一个[color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun on a hit'"
   },
@@ -83,7 +83,7 @@
     "ID": 293420191,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有 [color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+5%' + '[/color] chance to hit'"
   },
@@ -91,8 +91,8 @@
     "ID": 293420192,
     "key": " has stunned ",
     "original": " has stunned ",
-    "translation": "震惊",
-    "stage": 1,
+    "translation": "被击晕",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + ' for one turn'"
   },
   {

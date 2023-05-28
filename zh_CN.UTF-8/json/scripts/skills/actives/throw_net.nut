@@ -3,7 +3,7 @@
     "ID": 293420646,
     "key": "Has a range of [color=",
     "original": "Has a range of [color=",
-    "translation": "射程为 [color=",
+    "translation": "攻击范围为[color=",
     "stage": 1,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles'"
   },

@@ -67,7 +67,7 @@
     "key": "Treiten",
     "original": "Treiten",
     "translation": "特莱滕(Treiten)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293411485,
@@ -80,8 +80,8 @@
     "ID": 293411486,
     "key": "Himmelsdorf",
     "original": "Himmelsdorf",
-    "translation": "希姆尔斯多夫(Himmelsdorf)",
-    "stage": 1
+    "translation": "天空村(Himmelsdorf)",
+    "stage": 5
   },
   {
     "ID": 293411487,

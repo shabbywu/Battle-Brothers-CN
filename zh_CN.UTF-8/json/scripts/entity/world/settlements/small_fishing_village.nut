@@ -33,7 +33,7 @@
     "key": "Sandwik",
     "original": "Sandwik",
     "translation": "桑维克(Sandwik)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293412047,
@@ -47,7 +47,7 @@
     "key": "Niewik",
     "original": "Niewik",
     "translation": "尼维克(Niewik)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293412049,
@@ -124,7 +124,7 @@
     "key": "Holmwik",
     "original": "Holmwik",
     "translation": "霍尔姆维克(Holmwik)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293412060,
@@ -159,8 +159,8 @@
     "ID": 293412064,
     "key": "Blankwasser",
     "original": "Blankwasser",
-    "translation": "布兰克瓦瑟(Blankwasser)",
-    "stage": 1
+    "translation": "白水村(Blankwasser)",
+    "stage": 5
   },
   {
     "ID": 293412065,
@@ -201,8 +201,8 @@
     "ID": 293412070,
     "key": "Strande",
     "original": "Strande",
-    "translation": "斯特兰德(Strande)",
-    "stage": 1
+    "translation": "海滨村(Strande)",
+    "stage": 5
   },
   {
     "ID": 293412071,
@@ -222,8 +222,8 @@
     "ID": 293412073,
     "key": "fish",
     "original": "fish",
-    "translation": "鱼",
-    "stage": 1,
+    "translation": "鱼村",
+    "stage": 5,
     "context": "this.m.ProduceString = 'fish'"
   },
   {
@@ -237,8 +237,8 @@
     "ID": 293412075,
     "key": "Meierwik",
     "original": "Meierwik",
-    "translation": "迈里维克(Meierwik)",
-    "stage": 1
+    "translation": "迈尔维克(Meierwik)",
+    "stage": 5
   },
   {
     "ID": 293412076,

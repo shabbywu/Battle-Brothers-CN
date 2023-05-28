@@ -81,7 +81,7 @@
     "key": "Schwarzwasser",
     "original": "Schwarzwasser",
     "translation": "黑水(Schwarzwasser)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293412394,
@@ -131,8 +131,8 @@
     "ID": 293412400,
     "key": "Lauenbruck",
     "original": "Lauenbruck",
-    "translation": "劳恩布吕克(Lauenbruck)",
-    "stage": 1
+    "translation": "杂草桥(Lauenbruck)",
+    "stage": 5
   },
   {
     "ID": 293412401,
@@ -194,8 +194,8 @@
     "ID": 293412409,
     "key": "Torfbruck",
     "original": "Torfbruck",
-    "translation": "托尔夫布鲁克(Torfbruck)",
-    "stage": 1
+    "translation": "泥炭桥(Torfbruck)",
+    "stage": 5
   },
   {
     "ID": 293412410,
@@ -251,7 +251,7 @@
     "ID": 293412417,
     "key": "Grunwasser",
     "original": "Grunwasser",
-    "translation": "格伦瓦瑟(Grunwasser)",
-    "stage": 1
+    "translation": "绿水(Grunwasser)",
+    "stage": 5
   }
 ]

@@ -12,7 +12,7 @@
     "key": "Darkflight",
     "original": "Darkflight",
     "translation": "黑暗飞行",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Darkflight'"
   }
 ]

@@ -51,6 +51,6 @@
     "key": "the Brave",
     "original": "the Brave",
     "translation": "勇士(the Brave)",
-    "stage": 1
+    "stage": 5
   }
 ]

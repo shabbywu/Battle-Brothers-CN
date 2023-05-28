@@ -19,8 +19,8 @@
     "ID": 293419171,
     "key": "A sharp and crude shard of metal with a wrapped grip resembling a sword but a lot heavier. Not made for human hands.",
     "original": "A sharp and crude shard of metal with a wrapped grip resembling a sword but a lot heavier. Not made for human hands.",
-    "translation": "一种锋利而粗糙的金属碎片，有一个像剑一样的握把，但要重很多。 不是为人的手制作的。",
-    "stage": 5,
+    "translation": "一片锋利而粗糙的金属碎片，握柄被包裹，类似于剑，但重了很多。不适合人类手持。",
+    "stage": 1,
     "context": "this.m.Description = 'A sharp and crude shard of metal with a wrapped grip resembling a sword but a lot heavier. Not made for human hands.'"
   }
 ]

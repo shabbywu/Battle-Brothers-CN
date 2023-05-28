@@ -3,16 +3,16 @@
     "ID": 293418529,
     "key": "]+25%[/color] damage and receive only [color=",
     "original": "]+25%[/color] damage and receive only [color=",
-    "translation": "]+%25[/color] incoming damage\"\n\"造成]+25%[/color] 伤害并且仅受到[color=\"]+%25[/color] 伤害",
-    "stage": 1,
+    "translation": "]+%25[/color] 伤害并仅受到[color=",
+    "stage": 5,
     "context": "'Deal [color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] damage and receive only [color=' + this.Const.UI.Color.PositiveValue + ']75%[/color] of any damage if hitpoints are below [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color]'"
   },
   {
     "ID": 293418530,
     "key": "Deal [color=",
     "original": "Deal [color=",
-    "translation": "Deal [color=",
-    "stage": 1,
+    "translation": "造成 [color=",
+    "stage": 5,
     "context": "'Deal [color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] damage and receive only [color=' + this.Const.UI.Color.PositiveValue + ']75%[/color] of any damage if hitpoints are below [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color]'"
   },
   {
@@ -26,8 +26,8 @@
     "ID": 293418532,
     "key": "]75%[/color] of any damage if hitpoints are below [color=",
     "original": "]75%[/color] of any damage if hitpoints are below [color=",
-    "translation": "]每抵挡1点伤害会造成总伤害的75%[/color]（在生命值低于[color=",
-    "stage": 1,
+    "translation": "]75%[/color] 任何伤害，如果生命值低于 [color=",
+    "stage": 5,
     "context": "'Deal [color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] damage and receive only [color=' + this.Const.UI.Color.PositiveValue + ']75%[/color] of any damage if hitpoints are below [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color]'"
   },
   {

@@ -11,7 +11,7 @@
     "ID": 293419937,
     "key": "[/color] tiles",
     "original": "[/color] tiles",
-    "translation": "[/color] 格范围",
+    "translation": "[/color]格",
     "stage": 1,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']3' + '[/color] tiles'"
   },
@@ -59,7 +59,7 @@
     "ID": 293419943,
     "key": "Has a range of [color=",
     "original": "Has a range of [color=",
-    "translation": "射程为 [color=",
+    "translation": "攻击范围为[color=",
     "stage": 1,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']3' + '[/color] tiles'"
   },
@@ -67,7 +67,7 @@
     "ID": 293419944,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有 [color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.HitChanceBonus + '%[/color] chance to hit'"
   },
@@ -75,7 +75,7 @@
     "ID": 293419945,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有一个[color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to disarm on a hit'"
   }

@@ -19,7 +19,7 @@
     "ID": 293420444,
     "key": "]Can not be used because this character is engaged in melee[/color]",
     "original": "]Can not be used because this character is engaged in melee[/color]",
-    "translation": "]不能使用，因为这个角色正在近战[/color]",
+    "translation": "]无法使用，因为此角色已卷入近战[/color]",
     "stage": 1,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   },

@@ -4,7 +4,7 @@
     "key": "Rally",
     "original": "Rally",
     "translation": "集结",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Rally'"
   },
   {

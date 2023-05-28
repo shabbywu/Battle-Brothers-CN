@@ -11,7 +11,7 @@
     "ID": 293420538,
     "key": " has dazed ",
     "original": " has dazed ",
-    "translation": "使发呆",
+    "translation": "使茫然",
     "stage": 1,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' has dazed ' + this.Const.UI.getColorizedEntityName(_target) + ' for two turns'"
   },
@@ -51,8 +51,8 @@
     "ID": 293420543,
     "key": " has stunned ",
     "original": " has stunned ",
-    "translation": "震惊",
-    "stage": 1,
+    "translation": "被击晕",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn'"
   }
 ]

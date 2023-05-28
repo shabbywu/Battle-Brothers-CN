@@ -17,8 +17,8 @@
     "ID": 293411073,
     "key": "Donnersborg",
     "original": "Donnersborg",
-    "translation": "唐纳斯堡(Donnersborg)",
-    "stage": 1
+    "translation": "雷神堡(Donnersborg)",
+    "stage": 5
   },
   {
     "ID": 293411074,

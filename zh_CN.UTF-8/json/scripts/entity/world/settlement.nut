@@ -12,7 +12,7 @@
     "key": "Relations: ",
     "original": "Relations: ",
     "translation": "关系：",
-    "stage": 1,
+    "stage": 5,
     "context": "'Relations: ' + f.getPlayerRelationAsText()"
   },
   {
@@ -34,7 +34,7 @@
     "key": "You've never been to this place.",
     "original": "You've never been to this place.",
     "translation": "你从未到过这个地方。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293410690,

@@ -18,14 +18,14 @@
     "ID": 293420839,
     "key": "the Bowyer",
     "original": "the Bowyer",
-    "translation": "弓箭匠(the Bowyer)",
+    "translation": "弓匠(the Bowyer)",
     "stage": 1
   },
   {
     "ID": 293420840,
     "key": "the Fletcher",
     "original": "the Fletcher",
-    "translation": "弗莱彻(the Fletcher)",
+    "translation": "制箭师(the Fletcher)",
     "stage": 1
   },
   {
@@ -48,7 +48,7 @@
     "ID": 293420843,
     "key": "Bowyer",
     "original": "Bowyer",
-    "translation": "弓箭匠(Bowyer)",
+    "translation": "弓匠(Bowyer)",
     "stage": 1,
     "context": "this.m.Name = 'Bowyer'"
   },
@@ -64,7 +64,7 @@
     "ID": 293420845,
     "key": "the Patient",
     "original": "the Patient",
-    "translation": "病人(the Patient)",
+    "translation": "耐心者(the Patient)",
     "stage": 1
   }
 ]

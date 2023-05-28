@@ -4,7 +4,7 @@
     "key": "Axe, One-Handed",
     "original": "Axe, One-Handed",
     "translation": "短斧，单手持",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Categories = 'Axe, One-Handed'"
   },
   {

@@ -1062,8 +1062,8 @@
     "ID": 293405786,
     "key": "Ras Sanan",
     "original": "Ras Sanan",
-    "translation": "拉斯萨南(Ras Sanan)",
-    "stage": 1
+    "translation": "拉斯 萨南(Ras Sanan)",
+    "stage": 5
   },
   {
     "ID": 293405787,
@@ -2347,7 +2347,7 @@
     "ID": 293405967,
     "key": "Cripple your enemies! Lowers the threshold to inflict injuries by [color=",
     "original": "Cripple your enemies! Lowers the threshold to inflict injuries by [color=",
-    "translation": "削弱你的敌人! 将近战和远程攻击的伤害阈值降低[color=",
+    "translation": "致残你的敌人! 将在攻击的同时造成伤残的伤害阈值降低[color=",
     "stage": 1,
     "context": "'Cripple your enemies! Lowers the threshold to inflict injuries by [color=' + this.Const.UI.Color.NegativeValue + ']33%[/color] for both melee and ranged attacks.'"
   },
@@ -2505,7 +2505,7 @@
     "ID": 293405989,
     "key": "Zweihanders",
     "original": "Zweihanders",
-    "translation": "两手人",
+    "translation": "双手剑士",
     "stage": 1
   },
   {
@@ -2880,8 +2880,8 @@
     "ID": 293406042,
     "key": "Colossus",
     "original": "Colossus",
-    "translation": "巨人",
-    "stage": 1
+    "translation": "巨像",
+    "stage": 5
   },
   {
     "ID": 293406043,
@@ -3515,8 +3515,8 @@
     "ID": 293406132,
     "key": "Eisenstein",
     "original": "Eisenstein",
-    "translation": "埃森斯坦(Eisenstein)",
-    "stage": 1
+    "translation": "铁石(Eisenstein)",
+    "stage": 5
   },
   {
     "ID": 293406133,
@@ -4231,7 +4231,7 @@
     "ID": 293406233,
     "key": "Once per battle, upon receiving a killing blow, survive instead with a few hitpoints left and have all damage over time effects (e.g. bleeding, poisoned) cured. The next hit is likely to kill you for good, of course, but improved defensive stats until you",
     "original": "Once per battle, upon receiving a killing blow, survive instead with a few hitpoints left and have all damage over time effects (e.g. bleeding, poisoned) cured. The next hit is likely to kill you for good, of course, but improved defensive stats until your next turn help you to survive until then.",
-    "translation": "每场战斗一次，在受到致命一击后，在剩余生命值的情况下存活下来，并治愈所有随时间推移造成的伤害效果（例如流血、中毒）。当然，下一击很可能会永远杀死你，但在你下一轮之前改进的防御统计数据可以帮助你在那之前存活下来。",
+    "translation": "每场战斗只能触发一次。在受到致命一击时，你在保留极少生命值的情况下存活，同时解除所有持续性伤害效果（如出血、中毒）。当然，下一次攻击很可能会将你击杀，但直到你的下一轮行动开始之前，你会拥有更高的防御力来帮助你幸存。",
     "stage": 1
   },
   {
@@ -4490,7 +4490,7 @@
     "key": "Kabira",
     "original": "Kabira",
     "translation": "卡比拉(Kabira)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406270,
@@ -4701,7 +4701,7 @@
     "ID": 293406299,
     "key": "]25%[/color], which also reduces the chance to sustain debilitating injuries when being hit.",
     "original": "]25%[/color], which also reduces the chance to sustain debilitating injuries when being hit.",
-    "translation": "]25%[/color]，这也降低了被击中时遭受虚弱伤害的概率。",
+    "translation": "]25%[/color]，同时也降低了遭受攻击时获得部位伤残的概率。",
     "stage": 1,
     "context": "'Bring it on! Hitpoints are increased by [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color], which also reduces the chance to sustain debilitating injuries when being hit.'"
   },
@@ -5804,7 +5804,7 @@
     "ID": 293406455,
     "key": "Bring it on! Hitpoints are increased by [color=",
     "original": "Bring it on! Hitpoints are increased by [color=",
-    "translation": "来吧！ 生命值增加 [color=",
+    "translation": "来吧！ 生命值上限增加 [color=",
     "stage": 1,
     "context": "'Bring it on! Hitpoints are increased by [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color], which also reduces the chance to sustain debilitating injuries when being hit.'"
   },
@@ -6879,7 +6879,7 @@
     "ID": 293406606,
     "key": "Nailed it! The penalty to hitchance when shooting at a target you have no clear line of fire to is reduced from [color=",
     "original": "Nailed it! The penalty to hitchance when shooting at a target you have no clear line of fire to is reduced from [color=",
-    "translation": "射得好! 对远程武器来说，当你向一个未进入肉搏战的目标射击时，命中惩罚从[color=",
+    "translation": "射得好! 当瞄准的目标没有被清空的弹道路线（即目标被遮挡）时，受到的命中惩罚从[color=",
     "stage": 1,
     "context": "'Nailed it! The penalty to hitchance when shooting at a target you have no clear line of fire to is reduced from [color=' + this.Const.UI.Color.NegativeValue + ']75%[/color] to [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] for ranged weapons.'"
   },
@@ -7337,8 +7337,8 @@
     "ID": 293406670,
     "key": "Azim Shab",
     "original": "Azim Shab",
-    "translation": "阿兹姆沙布(Azim Shab)",
-    "stage": 1
+    "translation": "阿兹姆 沙布(Azim Shab)",
+    "stage": 5
   },
   {
     "ID": 293406671,
@@ -8394,7 +8394,7 @@
     "ID": 293406819,
     "key": "Zweihander",
     "original": "Zweihander",
-    "translation": "双手巨剑",
+    "translation": "双手剑士",
     "stage": 1
   },
   {

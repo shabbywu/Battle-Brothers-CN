@@ -59,8 +59,8 @@
     "ID": 293422658,
     "key": "]-5[/color] Melee Skill when not fighting undead",
     "original": "]-5[/color] Melee Skill when not fighting undead",
-    "translation": "]-5[/color] 近战技能（对抗不死族外）",
-    "stage": 1,
+    "translation": "]-5[/color] 近战技能（对抗非亡灵）",
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Skill when not fighting undead'"
   },
   {

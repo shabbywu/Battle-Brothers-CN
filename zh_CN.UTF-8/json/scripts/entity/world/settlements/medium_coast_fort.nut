@@ -45,8 +45,8 @@
     "ID": 293411138,
     "key": "Dunenburg",
     "original": "Dunenburg",
-    "translation": "敦堡(Dunenburg)",
-    "stage": 1
+    "translation": "丘陵堡(Dunenburg)",
+    "stage": 5
   },
   {
     "ID": 293411139,

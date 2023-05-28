@@ -3,7 +3,7 @@
     "ID": 293420353,
     "key": "Grants [color=",
     "original": "Grants [color=",
-    "translation": "赋予 [color=",
+    "translation": "赋予[color=",
     "stage": 1,
     "context": "'Grants [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.Math.floor(item.getMeleeDefense() * mult + proficiencyBonus) + '[/color] Melee Defense for one turn'"
   },

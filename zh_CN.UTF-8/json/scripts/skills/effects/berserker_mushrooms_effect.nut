@@ -34,8 +34,8 @@
     "ID": 293421423,
     "key": "]+25%[/color] Damage in Melee",
     "original": "]+25%[/color] Damage in Melee",
-    "translation": "]+25%[/color] 近战中的伤害",
-    "stage": 1,
+    "translation": "]+25%[/color] 近战伤害",
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] Damage in Melee'"
   },
   {

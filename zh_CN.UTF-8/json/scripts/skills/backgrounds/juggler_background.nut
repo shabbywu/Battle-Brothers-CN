@@ -26,7 +26,7 @@
     "ID": 293421051,
     "key": "%name% the juggler retired from fighting. He was performing for a gaudy nobleman in the {south | north | east | west} when an act went horribly wrong. Word has it he was thrown off a tower for his mistake, but you prefer to not believe that.",
     "original": "%name% the juggler retired from fighting. He was performing for a gaudy nobleman in the {south | north | east | west} when an act went horribly wrong. Word has it he was thrown off a tower for his mistake, but you prefer to not believe that.",
-    "translation": "%name% [杂耍者] 退出战斗。他在{南方 | 北方 | 东方 | 西方}为一个花哨的贵族表演时，某个节目出了差错。有传言称他因这个错误被从塔上扔下去，但你不想相信这个传言。",
+    "translation": "杂耍者%name%退出战斗。他在{南方 | 北方 | 东方 | 西方}为一个花哨的贵族表演时，某个节目出了差错。有传言称他因这个错误被从塔上扔下去，但你不想相信这个传言。",
     "stage": 1,
     "context": "this.m.BadEnding = '%name% the juggler retired from fighting. He was performing for a gaudy nobleman in the {south | north | east | west} when an act went horribly wrong. Word has it he was thrown off a tower for his mistake, but you prefer to not believe that.'"
   },
@@ -34,7 +34,7 @@
     "ID": 293421052,
     "key": "%name% the juggler took all his mercenary money and started a traveling troupe of performers. Last you heard, he started an entire theater and puts on a new play a month!",
     "original": "%name% the juggler took all his mercenary money and started a traveling troupe of performers. Last you heard, he started an entire theater and puts on a new play a month!",
-    "translation": "%name% (杂耍者) 把所有佣金都拿来了，开始了一支巡回表演团。你最后听到的消息是，他建立了一座剧院，每月上演一部新剧！",
+    "translation": "杂耍者%name%把所有佣金都拿来了，开始了一支巡回表演团。你最后听到的消息是，他建立了一座剧院，每月上演一部新剧！",
     "stage": 1,
     "context": "this.m.GoodEnding = '%name% the juggler took all his mercenary money and started a traveling troupe of performers. Last you heard, he started an entire theater and puts on a new play a month!'"
   },

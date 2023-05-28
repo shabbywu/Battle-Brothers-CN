@@ -3,7 +3,7 @@
     "ID": 293420495,
     "key": "[/color] extra fatigue",
     "original": "[/color] extra fatigue",
-    "translation": "[/color] 额外疲劳值",
+    "translation": "[/color]额外疲劳值",
     "stage": 1,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 4 + '[/color] extra fatigue'"
   },
@@ -35,7 +35,7 @@
     "ID": 293420499,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有一个[color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to severely stun on a hit'"
   },
@@ -51,16 +51,16 @@
     "ID": 293420501,
     "key": " has stunned ",
     "original": " has stunned ",
-    "translation": "震惊",
-    "stage": 1,
+    "translation": "被击晕",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + ' for two turns'"
   },
   {
     "ID": 293420502,
     "key": "Inflicts [color=",
     "original": "Inflicts [color=",
-    "translation": "造成[color=",
-    "stage": 1,
+    "translation": "造成 [color=",
+    "stage": 5,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 4 + '[/color] extra fatigue'"
   },
   {

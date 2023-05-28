@@ -35,7 +35,7 @@
     "ID": 293420293,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有 [color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
@@ -43,7 +43,7 @@
     "ID": 293420294,
     "key": "Has a range of [color=",
     "original": "Has a range of [color=",
-    "translation": "射程为 [color=",
+    "translation": "攻击范围为[color=",
     "stage": 1,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2[/color] tiles'"
   },
@@ -67,7 +67,7 @@
     "ID": 293420297,
     "key": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
     "original": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
-    "translation": "]-15%[/color]攻击命中几率（对直接邻近的目标），因为武器过于笨重。",
+    "translation": "]-15%[/color]攻击近身敌人的命中惩罚，因为武器过于笨重",
     "stage": 1,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
@@ -83,7 +83,7 @@
     "ID": 293420299,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有一个[color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stagger on a hit'"
   },

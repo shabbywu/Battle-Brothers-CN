@@ -27,7 +27,7 @@
     "ID": 293421395,
     "key": "]20%[/color] of body armor is lost each turn",
     "original": "]20%[/color] of body armor is lost each turn",
-    "translation": "]20%[/color] 身体盔甲每回合都会损失",
+    "translation": "]20%[/color] 身体护甲每回合都会损失",
     "stage": 1,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']20%[/color] of body armor is lost each turn'"
   },
@@ -43,7 +43,7 @@
     "ID": 293421397,
     "key": "Sprayed with Acid",
     "original": "Sprayed with Acid",
-    "translation": "喷酸",
+    "translation": "被喷酸",
     "stage": 1,
     "context": "this.m.Name = 'Sprayed with Acid'"
   }

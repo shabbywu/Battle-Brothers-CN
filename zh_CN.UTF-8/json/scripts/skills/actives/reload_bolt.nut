@@ -3,7 +3,7 @@
     "ID": 293420277,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有 [color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] bolts left'"
   },
@@ -35,7 +35,7 @@
     "ID": 293420281,
     "key": "]Can not be used because this character is engaged in melee[/color]",
     "original": "]Can not be used because this character is engaged in melee[/color]",
-    "translation": "]不能使用，因为这个角色正在近战[/color]",
+    "translation": "]无法使用，因为此角色已卷入近战[/color]",
     "stage": 1,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   },

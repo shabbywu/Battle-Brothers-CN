@@ -3,7 +3,7 @@
     "ID": 293419172,
     "key": "Flail, Two-Handed",
     "original": "Flail, Two-Handed",
-    "translation": "连枷, 双手持",
+    "translation": "链枷, 双手持",
     "stage": 5,
     "context": "this.m.Categories = 'Flail, Two-Handed'"
   },

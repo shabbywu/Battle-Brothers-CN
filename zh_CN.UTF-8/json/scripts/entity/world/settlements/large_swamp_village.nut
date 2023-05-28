@@ -81,8 +81,8 @@
     "ID": 293411051,
     "key": "Schwanenwasser",
     "original": "Schwanenwasser",
-    "translation": "天鹅水(Schwanenwasser)",
-    "stage": 1
+    "translation": "天鹅之水(Schwanenwasser)",
+    "stage": 5
   },
   {
     "ID": 293411052,
@@ -180,8 +180,8 @@
     "ID": 293411065,
     "key": "Grafenwasser",
     "original": "Grafenwasser",
-    "translation": "格拉芬瓦瑟(Grafenwasser)",
-    "stage": 1
+    "translation": "伯爵之水(Grafenwasser)",
+    "stage": 5
   },
   {
     "ID": 293411066,

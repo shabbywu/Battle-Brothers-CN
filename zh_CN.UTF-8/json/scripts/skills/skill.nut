@@ -3,8 +3,8 @@
     "ID": 293422170,
     "key": "Inflicts [color=",
     "original": "Inflicts [color=",
-    "translation": "造成[color=",
-    "stage": 1,
+    "translation": "造成 [color=",
+    "stage": 5,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] damage that ignores armor'"
   },
   {
@@ -172,8 +172,8 @@
     "ID": 293422192,
     "key": " AP[/color][/b] to use and builds up ",
     "original": " AP[/color][/b] to use and builds up ",
-    "translation": " AP[/color][/b] 并产生",
-    "stage": 1,
+    "translation": " AP[/color][/b] 并产生 ",
+    "stage": 5,
     "context": "return '[i]Costs ' + this.isAffordableBasedOnAPPreview() ? '[b][color=' + this.Const.UI.Color.PositiveValue + ']' + this.getActionPointCost() : '[b][color=' + this.Const.UI.Color.NegativeValue + ']' + this.getActionPointCost() + ' AP[/color][/b] to use and builds up ' + this.isAffordableBasedOnFatiguePreview() ? '[b][color=' + this.Const.UI.Color.PositiveValue + ']' + this.getFatigueCost() : '[b][color=' + this.Const.UI.Color.NegativeValue + ']' + this.getFatigueCost() + ' Fatigue[/color][/b][/i]\n';"
   },
   {
@@ -233,7 +233,7 @@
     "key": "]0[/color] - [color=",
     "original": "]0[/color] - [color=",
     "translation": "]0[/color] - [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max + '[/color] damage to hitpoints, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
   },
   {
@@ -301,8 +301,8 @@
     "ID": 293422209,
     "key": "[/color] damage to armor",
     "original": "[/color] damage to armor",
-    "translation": "[/color] 盔甲伤害",
-    "stage": 1,
+    "translation": "[/color] 护甲伤害",
+    "stage": 5,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_armor_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_armor_max + '[/color] damage to armor'"
   },
   {

@@ -11,14 +11,14 @@
     "ID": 293419989,
     "key": "Ignores the bonus to Melee Defense granted by shields",
     "original": "Ignores the bonus to Melee Defense granted by shields",
-    "translation": "忽视盾牌授予的近战防御加成",
-    "stage": 1
+    "translation": "忽视盾牌提供的近战防御加成",
+    "stage": 5
   },
   {
     "ID": 293419990,
     "key": "Smashed",
     "original": "Smashed",
-    "translation": "碎裂",
+    "translation": "砸碎",
     "stage": 1,
     "context": "this.m.KilledString = 'Smashed'"
   },

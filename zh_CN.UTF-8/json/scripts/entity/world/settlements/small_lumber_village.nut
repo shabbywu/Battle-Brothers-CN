@@ -181,8 +181,8 @@
     "ID": 293412135,
     "key": "Jungholz",
     "original": "Jungholz",
-    "translation": "荣格霍尔茨(Jungholz)",
-    "stage": 1
+    "translation": "新木村(Jungholz)",
+    "stage": 5
   },
   {
     "ID": 293412136,

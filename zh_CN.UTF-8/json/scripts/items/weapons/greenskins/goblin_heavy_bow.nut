@@ -19,7 +19,7 @@
     "ID": 293419147,
     "key": "Reinforced Boondock Bow",
     "original": "Reinforced Boondock Bow",
-    "translation": "强化处刑之弓",
+    "translation": "强化荒野弓",
     "stage": 1,
     "context": "this.m.Name = 'Reinforced Boondock Bow'"
   }

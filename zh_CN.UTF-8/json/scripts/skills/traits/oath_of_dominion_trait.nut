@@ -52,7 +52,7 @@
     "key": "]-5[/color] Melee Skill when not fighting beasts",
     "original": "]-5[/color] Melee Skill when not fighting beasts",
     "translation": "]-5[/color] 近战技能（对抗非野兽）",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Skill when not fighting beasts'"
   },
   {

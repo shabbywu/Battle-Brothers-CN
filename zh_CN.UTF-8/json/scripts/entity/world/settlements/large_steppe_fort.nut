@@ -31,8 +31,8 @@
     "ID": 293410988,
     "key": "Treitenfeste",
     "original": "Treitenfeste",
-    "translation": "特雷滕堡(Treitenfeste)",
-    "stage": 1
+    "translation": "特莱滕要塞(Treitenfeste)",
+    "stage": 5
   },
   {
     "ID": 293410989,
@@ -123,8 +123,8 @@
     "ID": 293411001,
     "key": "Sandsturmfeste",
     "original": "Sandsturmfeste",
-    "translation": "沙尘堡垒(Sandsturmfeste)",
-    "stage": 1
+    "translation": "沙暴堡(Sandsturmfeste)",
+    "stage": 5
   },
   {
     "ID": 293411002,

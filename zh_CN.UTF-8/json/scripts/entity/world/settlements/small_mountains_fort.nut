@@ -95,8 +95,8 @@
     "ID": 293412201,
     "key": "Himmelswacht",
     "original": "Himmelswacht",
-    "translation": "天空守卫(Himmelswacht)",
-    "stage": 1
+    "translation": "天空卫所(Himmelswacht)",
+    "stage": 5
   },
   {
     "ID": 293412202,
