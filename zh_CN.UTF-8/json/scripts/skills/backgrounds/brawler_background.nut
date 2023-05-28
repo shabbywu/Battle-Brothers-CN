@@ -3,7 +3,7 @@
     "ID": 293420846,
     "key": "Brawlers are unmatched in unarmed combat, and physical exercise tends to leave them in good shape.",
     "original": "Brawlers are unmatched in unarmed combat, and physical exercise tends to leave them in good shape.",
-    "translation": "打手在徒手格斗中是无与伦比的，体育锻炼往往能使他们保持良好的状态。",
+    "translation": "格斗家在徒手格斗中是无与伦比的，体育锻炼往往能使他们保持良好的状态。",
     "stage": 1,
     "context": "this.m.BackgroundDescription = 'Brawlers are unmatched in unarmed combat, and physical exercise tends to leave them in good shape.'"
   },
@@ -11,7 +11,7 @@
     "ID": 293420847,
     "key": "%name% the brawler left the company when it became clear it would soon dissolve and probably end up killing everyone who stayed onboard. He returned to prizefighting, grinding out the following years in brutal, weekly bouts. As he got older, his chin disa",
     "original": "%name% the brawler left the company when it became clear it would soon dissolve and probably end up killing everyone who stayed onboard. He returned to prizefighting, grinding out the following years in brutal, weekly bouts. As he got older, his chin disappeared, as did his speed and power. He was left jobbing, intentionally taking falls and losing badly when he didn't. Eventually, no one would give him a fight. A nobleman offered him a large sum to wrestle a bear and the desperate %name% took him up on it. When the 'fight' was over, the brawler lay dead, mangled beyond recognition, being dragged around the mud by a ferocious beast as drunken highborn cheered and clapped.",
-    "translation": "%name%(搏击手)在战团即将解散并有可能会让留下来的人都丧命时离开了该战团。他回到拳击赛场，参加每周残酷的比赛以度过接下来的几年。随着他年龄的增长，他的下巴不见了，速度和力量也不复存在。他只能故意输掉比赛并被打得很惨。最终，没有人愿意和他比赛。一位贵族向他提出高价请他去和一只熊搏斗，绝望的%name%接受了这个挑战。当“战斗”结束时，搏击手被野兽咬死，死不瞑目，而醉醺醺的贵族却欢呼雀跃。",
+    "translation": "格斗家%name%在战团即将解散并有可能会让留下来的人都丧命时离开了该战团。他回到拳击赛场，参加每周残酷的比赛以度过接下来的几年。随着他年龄的增长，他的下巴不见了，速度和力量也不复存在。他只能故意输掉比赛并被打得很惨。最终，没有人愿意和他比赛。一位贵族向他提出高价请他去和一只熊搏斗，绝望的%name%接受了这个挑战。当“战斗”结束时，搏击手被野兽咬死，死不瞑目，而醉醺醺的贵族却欢呼雀跃。",
     "stage": 1,
     "context": "this.m.BadEnding = \"%name% the brawler left the company when it became clear it would soon dissolve and probably end up killing everyone who stayed onboard. He returned to prizefighting, grinding out the following years in brutal, weekly bouts. As he got older, his chin disappeared, as did his speed and power. He was left jobbing, intentionally taking falls and losing badly when he didn't. Eventually, no one would give him a fight. A nobleman offered him a large sum to wrestle a bear and the desperate %name% took him up on it. When the 'fight' was over, the brawler lay dead, mangled beyond recognition, being dragged around the mud by a ferocious beast as drunken highborn cheered and clapped.\""
   },
@@ -43,7 +43,7 @@
     "ID": 293420851,
     "key": "A brawler like %name% is dangerous with just his fists, and proved himself similarly savage with weapons. Before you left the %companyname%, you talked to the fighter about whether or not he'd stay in the band. He said he had no desire to return to prizef",
     "original": "A brawler like %name% is dangerous with just his fists, and proved himself similarly savage with weapons. Before you left the %companyname%, you talked to the fighter about whether or not he'd stay in the band. He said he had no desire to return to prizefighting, shook your hand, and thanked you for giving him the opportunity. Last you heard, the company chose him for a one-on-one, winner take all fight to settle compensation differences with a competing mercenary band. He won in the first round.",
-    "translation": "像[队长]%name%一样好斗的搏击手，仅凭双手已经非常危险，并且同样能用武器证明自己十分野蛮。在你离开[战团]%companyname%之前，你与这个战士谈到他是否会留在战团。他说他没有返回拳击比赛的意愿，与你握手，并感谢你给了他这个机会。最后你听说，战团选择了他与竞争的佣兵团进行一对一的、取胜者通吃的战斗，用来解决补偿差异。他在第一轮中获胜了。",
+    "translation": "像格斗家%name%一样好斗的搏击手，仅凭双手已经非常危险，并且同样能用武器证明自己十分野蛮。在你离开%companyname%之前，你与这个战士谈到他是否会留在战团。他说他没有返回拳击比赛的意愿，与你握手，并感谢你给了他这个机会。最后你听说，战团选择了他与竞争的佣兵团进行一对一的、取胜者通吃的战斗，用来解决补偿差异。他在第一轮中获胜了。",
     "stage": 1,
     "context": "this.m.GoodEnding = \"A brawler like %name% is dangerous with just his fists, and proved himself similarly savage with weapons. Before you left the %companyname%, you talked to the fighter about whether or not he'd stay in the band. He said he had no desire to return to prizefighting, shook your hand, and thanked you for giving him the opportunity. Last you heard, the company chose him for a one-on-one, winner take all fight to settle compensation differences with a competing mercenary band. He won in the first round.\""
   }

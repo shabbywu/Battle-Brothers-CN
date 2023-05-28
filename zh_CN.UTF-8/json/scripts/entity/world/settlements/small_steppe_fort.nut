@@ -67,8 +67,8 @@
     "ID": 293412301,
     "key": "Treitenwacht",
     "original": "Treitenwacht",
-    "translation": "特雷滕瓦赫特(Treitenwacht)",
-    "stage": 1
+    "translation": "特莱滕卫所(Treitenwacht)",
+    "stage": 5
   },
   {
     "ID": 293412302,

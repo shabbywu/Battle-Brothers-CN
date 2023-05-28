@@ -3783,7 +3783,7 @@
     "ID": 293405409,
     "key": "Zweihander",
     "original": "Zweihander",
-    "translation": "双手巨剑",
+    "translation": "双手剑士",
     "stage": 1
   },
   {

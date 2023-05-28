@@ -34,7 +34,7 @@
     "ID": 293420091,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有 [color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+40%[/color] chance to hit'"
   },

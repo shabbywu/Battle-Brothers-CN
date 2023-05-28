@@ -27,7 +27,7 @@
     "ID": 293421452,
     "key": " shook off being dazed thanks to his unnatural physiology",
     "original": " shook off being dazed thanks to his unnatural physiology",
-    "translation": "由于他不正常的生理机能，他甩掉了受晕眩的状态。",
+    "translation": "由于他不正常的生理机能，他甩掉了茫然状态。",
     "stage": 1,
     "context": "this.Const.UI.getColorizedEntityName(actor) + ' shook off being dazed thanks to his unnatural physiology'"
   },

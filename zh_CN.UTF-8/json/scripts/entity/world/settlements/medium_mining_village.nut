@@ -53,8 +53,8 @@
     "ID": 293411322,
     "key": "Eisenstein",
     "original": "Eisenstein",
-    "translation": "埃森斯坦(Eisenstein)",
-    "stage": 1
+    "translation": "铁石村(Eisenstein)",
+    "stage": 5
   },
   {
     "ID": 293411323,
@@ -223,8 +223,8 @@
     "ID": 293411346,
     "key": "Gemmenstein",
     "original": "Gemmenstein",
-    "translation": "格门斯坦(Gemmenstein)",
-    "stage": 1
+    "translation": "宝石村(Gemmenstein)",
+    "stage": 5
   },
   {
     "ID": 293411347,

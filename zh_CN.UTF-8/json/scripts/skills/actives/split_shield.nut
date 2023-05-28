@@ -3,8 +3,8 @@
     "ID": 293420477,
     "key": "Inflicts [color=",
     "original": "Inflicts [color=",
-    "translation": "造成[color=",
-    "stage": 1,
+    "translation": "造成 [color=",
+    "stage": 5,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage + '[/color] damage to shields'"
   },
   {
@@ -19,7 +19,7 @@
     "ID": 293420479,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有 [color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
@@ -27,7 +27,7 @@
     "ID": 293420480,
     "key": "Has a range of [color=",
     "original": "Has a range of [color=",
-    "translation": "射程为 [color=",
+    "translation": "攻击范围为[color=",
     "stage": 1,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + '] ' + this.m.MaxRange + '[/color] tiles'"
   },
@@ -51,7 +51,7 @@
     "ID": 293420483,
     "key": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
     "original": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
-    "translation": "]-15%[/color]攻击命中几率（对直接邻近的目标），因为武器过于笨重。",
+    "translation": "]-15%[/color]攻击近身敌人的命中惩罚，因为武器过于笨重",
     "stage": 1,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
@@ -75,7 +75,7 @@
     "ID": 293420486,
     "key": "[/color] tiles",
     "original": "[/color] tiles",
-    "translation": "[/color] 格范围",
+    "translation": "[/color]格",
     "stage": 1,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + '] ' + this.m.MaxRange + '[/color] tiles'"
   },

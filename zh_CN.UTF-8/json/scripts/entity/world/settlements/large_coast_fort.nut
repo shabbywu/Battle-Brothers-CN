@@ -75,8 +75,8 @@
     "ID": 293410742,
     "key": "Otterfeste",
     "original": "Otterfeste",
-    "translation": "水獭堡垒(Otterfeste)",
-    "stage": 1
+    "translation": "水獭要塞(Otterfeste)",
+    "stage": 5
   },
   {
     "ID": 293410743,
@@ -96,29 +96,29 @@
     "ID": 293410745,
     "key": "Seemarkfeste",
     "original": "Seemarkfeste",
-    "translation": "湖之盛宴(Seemarkfeste)",
-    "stage": 1
+    "translation": "湖之要塞(Seemarkfeste)",
+    "stage": 5
   },
   {
     "ID": 293410746,
     "key": "Sandfeste",
     "original": "Sandfeste",
-    "translation": "桑德费斯特(Sandfeste)",
-    "stage": 1
+    "translation": "沙之要塞(Sandfeste)",
+    "stage": 5
   },
   {
     "ID": 293410747,
     "key": "Krakenfeste",
     "original": "Krakenfeste",
-    "translation": "克拉肯堡(Krakenfeste)",
-    "stage": 1
+    "translation": "克拉肯要塞(Krakenfeste)",
+    "stage": 5
   },
   {
     "ID": 293410748,
     "key": "Seefeste",
     "original": "Seefeste",
-    "translation": "海上要塞(Seefeste)",
-    "stage": 1
+    "translation": "海之要塞(Seefeste)",
+    "stage": 5
   },
   {
     "ID": 293410749,
@@ -145,21 +145,21 @@
     "ID": 293410752,
     "key": "Windfeste",
     "original": "Windfeste",
-    "translation": "温德费斯特(Windfeste)",
-    "stage": 1
+    "translation": "大风要塞(Windfeste)",
+    "stage": 5
   },
   {
     "ID": 293410753,
     "key": "Dunenfeste",
     "original": "Dunenfeste",
-    "translation": "杜嫩费斯特(Dunenfeste)",
-    "stage": 1
+    "translation": "丘陵要塞(Dunenfeste)",
+    "stage": 5
   },
   {
     "ID": 293410754,
     "key": "Sturmfeste",
     "original": "Sturmfeste",
-    "translation": "斯图姆费斯特(Sturmfeste)",
-    "stage": 1
+    "translation": "风暴要塞(Sturmfeste)",
+    "stage": 5
   }
 ]

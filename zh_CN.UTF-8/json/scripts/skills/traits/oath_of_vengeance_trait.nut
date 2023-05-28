@@ -91,8 +91,8 @@
     "ID": 293422682,
     "key": "]-5[/color] Melee Skill when not fighting greenskins",
     "original": "]-5[/color] Melee Skill when not fighting greenskins",
-    "translation": "]-5[/color] 近战技能（对抗绿皮族无效）",
-    "stage": 1,
+    "translation": "]-5[/color] 近战技能（对抗非绿皮）",
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Skill when not fighting greenskins'"
   }
 ]

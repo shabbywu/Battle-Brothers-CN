@@ -3,7 +3,7 @@
     "ID": 293421344,
     "key": "%name% the thief read the lines being drawn in the sands and retired from the %companyname% while he still could. He took what money he had made and threw together a crew of thieves and brigands. Last you heard, he pulled off a perfect heist only for one ",
     "original": "%name% the thief read the lines being drawn in the sands and retired from the %companyname% while he still could. He took what money he had made and threw together a crew of thieves and brigands. Last you heard, he pulled off a perfect heist only for one of his partners to stab him in the back and take off with all the goods.",
-    "translation": "%name%(窃贼)从沙地上画出的线条中读懂了信息，趁自己还来得及就退离了%companyname%(战团)。他带着积攒的钱财招募了一支盗贼团队。最后你听说他们完成了一场完美的大劫案，只可惜其中一位同伴出卖了他，拿走了所有赃物。",
+    "translation": "窃贼%name%从沙地上画出的线条中读懂了信息，趁自己还来得及就退离了%companyname%。他带着积攒的钱财招募了一支盗贼团队。最后你听说他们完成了一场完美的大劫案，只可惜其中一位同伴出卖了他，拿走了所有赃物。",
     "stage": 1,
     "context": "this.m.BadEnding = '%name% the thief read the lines being drawn in the sands and retired from the %companyname% while he still could. He took what money he had made and threw together a crew of thieves and brigands. Last you heard, he pulled off a perfect heist only for one of his partners to stab him in the back and take off with all the goods.'"
   },

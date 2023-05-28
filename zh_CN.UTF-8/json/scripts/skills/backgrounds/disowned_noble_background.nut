@@ -48,7 +48,7 @@
     "ID": 293420945,
     "key": "A man of nobility at heart, %name% the disowned noble returned to his family home. Word has it an usurper arrested him at the gates. His head currently rests on a pike with crows for a crown.",
     "original": "A man of nobility at heart, %name% the disowned noble returned to his family home. Word has it an usurper arrested him at the gates. His head currently rests on a pike with crows for a crown.",
-    "translation": "一个怀有贵族情怀的人，遭遇家庭的背叛而发誓回到家乡。有传言称，一个篡位者将他在城门口捕获，他的头目前镶嵌在一根长枪上，鸦群为之作婚礼引路(Crows for a Crown)，他名为%name%。",
+    "translation": "%name%是个有贵族情怀的人，即使被家族抛弃仍然发誓要回到家族。有传言称，一个篡位者将他在城门口捕获，他的头目前镶嵌在一根长枪上，成为了乌鸦头上的皇冠。",
     "stage": 1,
     "context": "this.m.BadEnding = 'A man of nobility at heart, %name% the disowned noble returned to his family home. Word has it an usurper arrested him at the gates. His head currently rests on a pike with crows for a crown.'"
   },

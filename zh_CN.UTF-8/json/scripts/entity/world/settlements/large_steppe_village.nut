@@ -32,8 +32,8 @@
     "ID": 293411021,
     "key": "Himmelstadt",
     "original": "Himmelstadt",
-    "translation": "亨梅尔斯塔特(Himmelstadt)",
-    "stage": 1
+    "translation": "天空城(Himmelstadt)",
+    "stage": 5
   },
   {
     "ID": 293411022,

@@ -108,8 +108,8 @@
     "ID": 293412166,
     "key": "Eisenstein",
     "original": "Eisenstein",
-    "translation": "埃森斯坦(Eisenstein)",
-    "stage": 1
+    "translation": "铁石(Eisenstein)",
+    "stage": 5
   },
   {
     "ID": 293412167,
@@ -144,8 +144,8 @@
     "ID": 293412171,
     "key": "Erdfall",
     "original": "Erdfall",
-    "translation": "埃尔德福尔(Erdfall)",
-    "stage": 1
+    "translation": "地陷村(Erdfall)",
+    "stage": 5
   },
   {
     "ID": 293412172,
@@ -252,7 +252,7 @@
     "key": "Wolfhaiden",
     "original": "Wolfhaiden",
     "translation": "沃尔夫海登(Wolfhaiden)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293412187,

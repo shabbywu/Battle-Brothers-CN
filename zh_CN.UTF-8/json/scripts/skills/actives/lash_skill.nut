@@ -11,14 +11,14 @@
     "ID": 293420156,
     "key": "Ignores the bonus to Melee Defense granted by shields",
     "original": "Ignores the bonus to Melee Defense granted by shields",
-    "translation": "忽视盾牌授予的近战防御加成",
-    "stage": 1
+    "translation": "忽视盾牌提供的近战防御加成",
+    "stage": 5
   },
   {
     "ID": 293420157,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有一个[color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to hit the head'"
   },

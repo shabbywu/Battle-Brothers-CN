@@ -35,7 +35,7 @@
     "ID": 293420925,
     "key": "%name% retired from fighting while he still had most of his fingers and toes intact. He went back to working for the nobility. Last you heard he was out {south | north | east | west} building a great tower for some nobleman. Sadly, you also heard that tow",
     "original": "%name% retired from fighting while he still had most of his fingers and toes intact. He went back to working for the nobility. Last you heard he was out {south | north | east | west} building a great tower for some nobleman. Sadly, you also heard that tower collapsed halfway through its construction with many workers going down with it.",
-    "translation": "%name%（%姓名%）在大部分手足完好无损时退役。他回到了为贵族工作。你上次听到他在{南部 | 北部 | 东部 | 西部}为某个贵族修建一座大塔。不幸的是，你也听说在建造过程中这座塔倒塌了，许多工人也随之倒下。",
+    "translation": "%name%在大部分手足完好无损时退役。他回到了为贵族工作。你上次听到他在{南部 | 北部 | 东部 | 西部}为某个贵族修建一座大塔。不幸的是，你也听说在建造过程中这座塔倒塌了，许多工人也随之倒下。",
     "stage": 1,
     "context": "this.m.BadEnding = '%name% retired from fighting while he still had most of his fingers and toes intact. He went back to working for the nobility. Last you heard he was out {south | north | east | west} building a great tower for some nobleman. Sadly, you also heard that tower collapsed halfway through its construction with many workers going down with it.'"
   }

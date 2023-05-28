@@ -27,7 +27,7 @@
     "ID": 293421585,
     "key": "]10%[/color] of body armor is lost each turn",
     "original": "]10%[/color] of body armor is lost each turn",
-    "translation": "]10%[/color] 身体盔甲每回合都会损失",
+    "translation": "]10%[/color] 身体护甲每回合都会损失",
     "stage": 1,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']10%[/color] of body armor is lost each turn'"
   },

@@ -3,7 +3,7 @@
     "ID": 293420409,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有 [color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -10 + this.m.AdditionalHitChance + '%[/color] per tile of distance'"
   },
@@ -19,7 +19,7 @@
     "ID": 293420411,
     "key": " dazed",
     "original": " dazed",
-    "translation": "晕眩的",
+    "translation": "茫然",
     "stage": 1,
     "context": "this.Const.UI.getColorizedEntityName(user) + ' struck a hit that leaves ' + this.Const.UI.getColorizedEntityName(_targetEntity) + ' dazed'"
   },
@@ -83,7 +83,7 @@
     "ID": 293420419,
     "key": "]Can not be used because this character is engaged in melee[/color]",
     "original": "]Can not be used because this character is engaged in melee[/color]",
-    "translation": "]不能使用，因为这个角色正在近战[/color]",
+    "translation": "]无法使用，因为此角色已卷入近战[/color]",
     "stage": 1,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   },
@@ -91,7 +91,7 @@
     "ID": 293420420,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有一个[color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.NegativeValue + ']100%[/color] chance to daze a target on a hit to the head'"
   },
@@ -107,7 +107,7 @@
     "ID": 293420422,
     "key": "Has a range of [color=",
     "original": "Has a range of [color=",
-    "translation": "射程为 [color=",
+    "translation": "攻击范围为[color=",
     "stage": 1,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if shooting downhill'"
   }

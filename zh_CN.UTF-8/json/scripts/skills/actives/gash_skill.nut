@@ -3,7 +3,7 @@
     "ID": 293419998,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有一个[color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] lower threshold to inflict injuries'"
   },
@@ -19,7 +19,7 @@
     "ID": 293420000,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有 [color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit'"
   },

@@ -157,8 +157,8 @@
     "ID": 293412275,
     "key": "Donnerstad",
     "original": "Donnerstad",
-    "translation": "唐纳斯塔德(Donnerstad)",
-    "stage": 1
+    "translation": "雷神镇(Donnerstad)",
+    "stage": 5
   },
   {
     "ID": 293412276,

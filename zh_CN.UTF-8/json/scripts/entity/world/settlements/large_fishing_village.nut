@@ -4,7 +4,7 @@
     "key": "Konigswasser",
     "original": "Konigswasser",
     "translation": "国王之水(Konigswasser)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293410813,
@@ -68,7 +68,7 @@
     "key": "Kobmanhaven",
     "original": "Kobmanhaven",
     "translation": "科布曼港(Kobmanhaven)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293410822,
@@ -116,8 +116,8 @@
     "ID": 293410828,
     "key": "fish",
     "original": "fish",
-    "translation": "鱼",
-    "stage": 1,
+    "translation": "鱼城",
+    "stage": 5,
     "context": "this.m.ProduceString = 'fish'"
   },
   {
@@ -145,8 +145,8 @@
     "ID": 293410832,
     "key": "Holnisland",
     "original": "Holnisland",
-    "translation": "霍尔尼岛(Holnisland)",
-    "stage": 1
+    "translation": "霍尔尼斯城(Holnisland)",
+    "stage": 5
   },
   {
     "ID": 293410833,

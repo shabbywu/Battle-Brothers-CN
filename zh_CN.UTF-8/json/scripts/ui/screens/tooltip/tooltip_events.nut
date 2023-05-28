@@ -1041,7 +1041,7 @@
     "key": " The more body armor, the less damage will be applied to hitpoints on taking a hit to the body.",
     "original": " The more body armor, the less damage will be applied to hitpoints on taking a hit to the body.",
     "translation": " 身体护甲越多，受到打击时对生命值的伤害就越小。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423098,
@@ -1525,8 +1525,8 @@
     "ID": 293423164,
     "key": "[/color] damage to armor",
     "original": "[/color] damage to armor",
-    "translation": "[/color] 盔甲伤害",
-    "stage": 1,
+    "translation": "[/color] 护甲伤害",
+    "stage": 5,
     "context": "'Dealt [color=' + this.Const.UI.Color.PositiveValue + ']' + combatStats.DamageDealtArmor + '[/color] damage to armor'"
   },
   {
@@ -2366,7 +2366,7 @@
     "key": "Body Armor",
     "original": "Body Armor",
     "translation": "身体护甲",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423282,
@@ -2445,8 +2445,8 @@
     "ID": 293423292,
     "key": "Head Armor protects, surprisingly, the head, which is harder to hit than the body, but more vulnerable to damage. The more head armor, the less damage will be applied to hitpoints on taking a hit to the head.",
     "original": "Head Armor protects, surprisingly, the head, which is harder to hit than the body, but more vulnerable to damage. The more head armor, the less damage will be applied to hitpoints on taking a hit to the head.",
-    "translation": "令人惊讶的是，头部盔甲可以保护头部，头部比身体更难被击中，但更容易受到伤害。 头部护甲越多，受到打击时对生命值的伤害就越小。",
-    "stage": 1
+    "translation": "令人惊讶的是，头部护甲保护的，是头部，它比身体更难被击中，但也更脆弱。头部护甲越多，头部受到攻击时的生命值伤害就越小。",
+    "stage": 5
   },
   {
     "ID": 293423293,

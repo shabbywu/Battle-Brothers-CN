@@ -12,7 +12,7 @@
     "key": "]-5[/color] Melee Skill",
     "original": "]-5[/color] Melee Skill",
     "translation": "]-5[/color] 近战技能",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Skill'"
   },
   {

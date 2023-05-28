@@ -137,7 +137,7 @@
     "key": "Wallfurt",
     "original": "Wallfurt",
     "translation": "沃尔夫特(Wallfurt)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293412368,

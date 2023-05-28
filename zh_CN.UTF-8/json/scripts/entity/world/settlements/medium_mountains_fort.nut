@@ -17,8 +17,8 @@
     "ID": 293411350,
     "key": "Himmelsburg",
     "original": "Himmelsburg",
-    "translation": "天堡(Himmelsburg)",
-    "stage": 1
+    "translation": "天空堡(Himmelsburg)",
+    "stage": 5
   },
   {
     "ID": 293411351,

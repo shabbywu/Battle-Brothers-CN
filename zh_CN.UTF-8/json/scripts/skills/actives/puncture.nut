@@ -19,7 +19,7 @@
     "ID": 293420233,
     "key": "Stabbed",
     "original": "Stabbed",
-    "translation": "刺伤",
+    "translation": "捅死",
     "stage": 1,
     "context": "this.m.KilledString = 'Stabbed'"
   },
@@ -34,7 +34,7 @@
     "ID": 293420235,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有 [color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit'"
   },

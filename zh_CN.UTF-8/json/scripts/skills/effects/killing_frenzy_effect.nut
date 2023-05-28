@@ -12,7 +12,7 @@
     "key": "]+25%[/color] Damage",
     "original": "]+25%[/color] Damage",
     "translation": "]+25%[/color] 伤害",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] Damage'"
   },
   {

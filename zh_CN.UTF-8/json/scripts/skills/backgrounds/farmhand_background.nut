@@ -3,7 +3,7 @@
     "ID": 293420955,
     "key": "The former farmhand, %name%, retired from the %companyname%. The money he made was put toward purchasing a bit of land. He spends the rest of his days happily farming and starting a family with way too many children.",
     "original": "The former farmhand, %name%, retired from the %companyname%. The money he made was put toward purchasing a bit of land. He spends the rest of his days happily farming and starting a family with way too many children.",
-    "translation": "前农工%name%从%companyname%退休。他赚的钱用于购买一块土地。他余生都在幸福地耕种，并和有着过多子女的家庭生活在一起。",
+    "translation": "前农夫%name%从%companyname%退休。他赚的钱用于购买一块土地。他余生都在幸福地耕种，并和有着过多子女的家庭生活在一起。",
     "stage": 1,
     "context": "this.m.GoodEnding = 'The former farmhand, %name%, retired from the %companyname%. The money he made was put toward purchasing a bit of land. He spends the rest of his days happily farming and starting a family with way too many children.'"
   },
@@ -11,7 +11,7 @@
     "ID": 293420956,
     "key": "The former farmhand, %name%, soon left the %companyname%. He purchased a bit of land out {south | north | east | west} and was doing quite well for himself - until noble soldiers hanged him from a tree for refusing to hand over all his crops.",
     "original": "The former farmhand, %name%, soon left the %companyname%. He purchased a bit of land out {south | north | east | west} and was doing quite well for himself - until noble soldiers hanged him from a tree for refusing to hand over all his crops.",
-    "translation": "前农场工人，%name%，很快离开了%companyname%。他在{南方 | 北方 | 东方 | 西方}买了一块地，并取得了相当的成功——直到贵族士兵因他拒绝交出所有庄稼而将他吊在树上。",
+    "translation": "前农夫%name%很快离开了%companyname%。他在{南方 | 北方 | 东方 | 西方}买了一块地，并取得了相当的成功——直到贵族士兵因他拒绝交出所有庄稼而将他吊在树上。",
     "stage": 1,
     "context": "this.m.BadEnding = 'The former farmhand, %name%, soon left the %companyname%. He purchased a bit of land out {south | north | east | west} and was doing quite well for himself - until noble soldiers hanged him from a tree for refusing to hand over all his crops.'"
   },

@@ -11,7 +11,7 @@
     "ID": 293420339,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有一个[color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] chance to stagger on a hit'"
   },
@@ -27,7 +27,7 @@
     "ID": 293420341,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有 [color=",
+    "translation": "有[color=",
     "stage": 1,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-5%[/color] chance to hit'"
   },

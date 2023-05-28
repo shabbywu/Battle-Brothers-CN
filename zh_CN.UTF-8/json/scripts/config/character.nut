@@ -207,7 +207,7 @@
     "key": "Content",
     "original": "Content",
     "translation": "满意",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293403768,

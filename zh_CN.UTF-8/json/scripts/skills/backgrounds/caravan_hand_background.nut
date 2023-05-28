@@ -19,7 +19,7 @@
     "ID": 293420865,
     "key": "Caravan hands are used to long and exhausting travels.",
     "original": "Caravan hands are used to long and exhausting travels.",
-    "translation": "商队成员习惯于漫长而疲惫的旅行。",
+    "translation": "商队护卫习惯于漫长而疲惫的旅行。",
     "stage": 1,
     "context": "this.m.BackgroundDescription = 'Caravan hands are used to long and exhausting travels.'"
   },

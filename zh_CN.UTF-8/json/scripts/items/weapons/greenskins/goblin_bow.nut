@@ -3,7 +3,7 @@
     "ID": 293419135,
     "key": "Boondock Bow",
     "original": "Boondock Bow",
-    "translation": "处刑之弓",
+    "translation": "荒野弓",
     "stage": 1,
     "context": "this.m.Name = 'Boondock Bow'"
   },

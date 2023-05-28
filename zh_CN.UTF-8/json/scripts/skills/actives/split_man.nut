@@ -27,8 +27,8 @@
     "ID": 293420465,
     "key": "Inflicts [color=",
     "original": "Inflicts [color=",
-    "translation": "造成[color=",
-    "stage": 1,
+    "translation": "造成 [color=",
+    "stage": 5,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_armor_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_armor_max + '[/color] damage to armor'"
   },
   {
@@ -44,7 +44,7 @@
     "key": "]0[/color] - [color=",
     "original": "]0[/color] - [color=",
     "translation": "]0[/color] - [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max + '[/color] damage to hitpoints, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
   },
   {
@@ -59,8 +59,8 @@
     "ID": 293420469,
     "key": "[/color] damage to armor",
     "original": "[/color] damage to armor",
-    "translation": "[/color] 盔甲伤害",
-    "stage": 1,
+    "translation": "[/color] 护甲伤害",
+    "stage": 5,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_armor_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_armor_max + '[/color] damage to armor'"
   },
   {
