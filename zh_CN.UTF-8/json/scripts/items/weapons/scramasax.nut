@@ -4,7 +4,7 @@
     "key": "Cleaver, One-Handed",
     "original": "Cleaver, One-Handed",
     "translation": "刀，单手持",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Categories = 'Cleaver, One-Handed'"
   },
   {
@@ -12,7 +12,7 @@
     "key": "Scramasax",
     "original": "Scramasax",
     "translation": "撒克逊大刀",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Scramasax'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "A long and heavy knife with a one sided blade used more for hacking than slashing.",
     "original": "A long and heavy knife with a one sided blade used more for hacking than slashing.",
     "translation": "一把长而重的单刃刀，多用于挥砍而不是削划。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'A long and heavy knife with a one sided blade used more for hacking than slashing.'"
   }
 ]

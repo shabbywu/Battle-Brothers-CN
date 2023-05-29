@@ -42,8 +42,8 @@
     "ID": 293418951,
     "key": "Damage of [color=",
     "original": "Damage of [color=",
-    "translation": "伤害[color=",
-    "stage": 1,
+    "translation": "伤害 [color=",
+    "stage": 5,
     "context": "'Damage of [color=' + this.Const.UI.Color.DamageValue + ']20[/color] for [color=' + this.Const.UI.Color.DamageValue + ']3[/color] turns to any undead target hit'"
   },
   {
@@ -89,16 +89,16 @@
     "ID": 293418957,
     "key": "]100%[/color] of damage ignores armor",
     "original": "]100%[/color] of damage ignores armor",
-    "translation": "]100%[/color] 伤害忽视盔甲",
-    "stage": 1,
+    "translation": "]100%[/color] 伤害忽略护甲",
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.DamageValue + ']100%[/color] of damage ignores armor'"
   },
   {
     "ID": 293418958,
     "key": "[/color] tiles",
     "original": "[/color] tiles",
-    "translation": "[/color] 格范围",
-    "stage": 1,
+    "translation": "[/color] 格",
+    "stage": 5,
     "context": "'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
   }
 ]

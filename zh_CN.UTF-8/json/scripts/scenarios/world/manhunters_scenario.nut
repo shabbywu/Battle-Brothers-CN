@@ -153,7 +153,7 @@
     "key": "the Beggar",
     "original": "the Beggar",
     "translation": "乞丐(the Beggar)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293419714,

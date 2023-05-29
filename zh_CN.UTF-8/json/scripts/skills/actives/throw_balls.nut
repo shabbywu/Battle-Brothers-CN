@@ -35,8 +35,8 @@
     "ID": 293420602,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有[color=",
-    "stage": 1,
+    "translation": "有 [color=",
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] spiked balls left'"
   },
   {
@@ -59,8 +59,8 @@
     "ID": 293420605,
     "key": "Has a range of [color=",
     "original": "Has a range of [color=",
-    "translation": "攻击范围为[color=",
-    "stage": 1,
+    "translation": "攻击范围为 [color=",
+    "stage": 5,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if throwing downhill'"
   },
   {

@@ -11,7 +11,7 @@
     "ID": 293419833,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有[color=",
+    "translation": "有 [color=",
     "stage": 5,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + chance + \"%[/color] chance to succeed, based on Melee Skill, or higher if there's been attempts to free the ally before.\""
   },

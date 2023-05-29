@@ -4,7 +4,7 @@
     "key": "Mace, One-Handed",
     "original": "Mace, One-Handed",
     "translation": "狼牙棒, 单手持",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Categories = 'Mace, One-Handed'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "Bludgeon",
     "original": "Bludgeon",
     "translation": "棍棒",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Bludgeon'"
   }
 ]

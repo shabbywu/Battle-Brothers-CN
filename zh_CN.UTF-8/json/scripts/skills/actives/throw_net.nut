@@ -3,8 +3,8 @@
     "ID": 293420646,
     "key": "Has a range of [color=",
     "original": "Has a range of [color=",
-    "translation": "攻击范围为[color=",
-    "stage": 1,
+    "translation": "攻击范围为 [color=",
+    "stage": 5,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles'"
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293420649,
     "key": "[/color] tiles",
     "original": "[/color] tiles",
-    "translation": "[/color] 格范围",
-    "stage": 1,
+    "translation": "[/color] 格",
+    "stage": 5,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles'"
   }
 ]

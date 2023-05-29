@@ -3,8 +3,8 @@
     "ID": 293420315,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有[color=",
-    "stage": 1,
+    "translation": "有 [color=",
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + hitchanceBonus + '%[/color] chance to hit'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "%[/color] chance to hit",
     "original": "%[/color] chance to hit",
     "translation": "%[/color] 命中几率",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + hitchanceBonus + '%[/color] chance to hit'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "Can hit up to 6 targets",
     "original": "Can hit up to 6 targets",
     "translation": "最多可以击中 6 个目标",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293420320,

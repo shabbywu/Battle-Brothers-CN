@@ -3,8 +3,8 @@
     "ID": 293420506,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有[color=",
-    "stage": 1,
+    "translation": "有 [color=",
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit'"
   },
   {
@@ -12,15 +12,15 @@
     "key": "]+5%[/color] chance to hit",
     "original": "]+5%[/color] chance to hit",
     "translation": "]+5%[/color] 命中几率",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit'"
   },
   {
     "ID": 293420508,
     "key": "Has a range of [color=",
     "original": "Has a range of [color=",
-    "translation": "攻击范围为[color=",
-    "stage": 1,
+    "translation": "攻击范围为 [color=",
+    "stage": 5,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
   },
   {
@@ -59,8 +59,8 @@
     "ID": 293420513,
     "key": "[/color] tiles",
     "original": "[/color] tiles",
-    "translation": "[/color]格",
-    "stage": 1,
+    "translation": "[/color] 格",
+    "stage": 5,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
   }
 ]

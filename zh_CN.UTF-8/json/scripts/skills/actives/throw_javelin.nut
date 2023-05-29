@@ -3,8 +3,8 @@
     "ID": 293420631,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有[color=",
-    "stage": 1,
+    "translation": "有 [color=",
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+' + 30 + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -10 + this.m.AdditionalHitChance + '%[/color] per tile of distance'"
   },
   {
@@ -51,8 +51,8 @@
     "ID": 293420637,
     "key": "Has a range of [color=",
     "original": "Has a range of [color=",
-    "translation": "攻击范围为[color=",
-    "stage": 1,
+    "translation": "攻击范围为 [color=",
+    "stage": 5,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if throwing downhill'"
   },
   {

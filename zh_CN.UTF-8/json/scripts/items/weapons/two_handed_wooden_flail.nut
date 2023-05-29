@@ -12,7 +12,7 @@
     "key": "A heavy two-handed wooden flail that can strike over or around shield cover.",
     "original": "A heavy two-handed wooden flail that can strike over or around shield cover.",
     "translation": "一把沉重的双手木链枷，能绕过盾牌打击敌人。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'A heavy two-handed wooden flail that can strike over or around shield cover.'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "Two-handed Wooden Flail",
     "original": "Two-handed Wooden Flail",
     "translation": "双手木链枷",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Two-handed Wooden Flail'"
   }
 ]

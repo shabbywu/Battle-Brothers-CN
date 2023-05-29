@@ -83,8 +83,8 @@
     "ID": 293420669,
     "key": "Has a range of [color=",
     "original": "Has a range of [color=",
-    "translation": "射程为 [color=",
-    "stage": 1,
+    "translation": "攻击范围为 [color=",
+    "stage": 5,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if throwing downhill'"
   },
   {
@@ -92,7 +92,7 @@
     "key": "Has [color=",
     "original": "Has [color=",
     "translation": "有 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+30%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] per tile of distance'"
   },
   {

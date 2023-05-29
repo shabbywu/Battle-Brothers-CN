@@ -57,8 +57,8 @@
     "ID": 293418980,
     "key": "[/color] tiles",
     "original": "[/color] tiles",
-    "translation": "[/color] 格范围",
-    "stage": 1,
+    "translation": "[/color] 格",
+    "stage": 5,
     "context": "'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
   }
 ]

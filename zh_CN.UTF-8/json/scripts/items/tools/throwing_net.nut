@@ -40,8 +40,8 @@
     "ID": 293418986,
     "key": "Maximum Fatigue [color=",
     "original": "Maximum Fatigue [color=",
-    "translation": "最大疲劳值[color=",
-    "stage": 1,
+    "translation": "最大疲劳值 [color=",
+    "stage": 5,
     "context": "'Maximum Fatigue [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.StaminaModifier + '[/color]'"
   },
   {
@@ -56,8 +56,8 @@
     "ID": 293418988,
     "key": "[/color] tiles",
     "original": "[/color] tiles",
-    "translation": "[/color] 格范围",
-    "stage": 1,
+    "translation": "[/color] 格",
+    "stage": 5,
     "context": "'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
   }
 ]

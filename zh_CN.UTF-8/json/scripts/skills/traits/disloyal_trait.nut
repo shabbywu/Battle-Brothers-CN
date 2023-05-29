@@ -20,7 +20,7 @@
     "key": "the Liar",
     "original": "the Liar",
     "translation": "骗子(the Liar)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422476,

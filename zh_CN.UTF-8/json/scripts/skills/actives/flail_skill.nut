@@ -18,8 +18,8 @@
     "ID": 293419990,
     "key": "Smashed",
     "original": "Smashed",
-    "translation": "砸碎",
-    "stage": 1,
+    "translation": "被砸碎",
+    "stage": 5,
     "context": "this.m.KilledString = 'Smashed'"
   },
   {

@@ -11,14 +11,14 @@
     "key": "Maximum Fatigue [color=",
     "original": "Maximum Fatigue [color=",
     "translation": "最大疲劳值 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'Maximum Fatigue [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.StaminaModifier + '[/color]'"
   },
   {
     "ID": 293417419,
     "key": "Usable in Combat",
     "original": "Usable in Combat",
-    "translation": "可用于战斗",
+    "translation": "可在战斗中使用",
     "stage": 5
   },
   {

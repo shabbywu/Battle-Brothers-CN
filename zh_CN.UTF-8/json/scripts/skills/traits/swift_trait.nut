@@ -11,30 +11,30 @@
     "ID": 293422749,
     "key": "the Swift",
     "original": "the Swift",
-    "translation": "斯威夫特",
-    "stage": 1
+    "translation": "迅捷",
+    "stage": 5
   },
   {
     "ID": 293422750,
     "key": "Quickfeet",
     "original": "Quickfeet",
     "translation": "敏足 (Quickfeet)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422751,
     "key": "Swift",
     "original": "Swift",
     "translation": "迅捷",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Swift'"
   },
   {
     "ID": 293422752,
     "key": "This character is naturally swift and agile, and has an easier time dodging incoming projectiles.",
     "original": "This character is naturally swift and agile, and has an easier time dodging incoming projectiles.",
-    "translation": "这个角色天生迅捷灵巧，很容易躲避来袭的弹丸。",
-    "stage": 1,
+    "translation": "这个角色天生迅捷灵巧，更容易躲避飞来的投射物。",
+    "stage": 5,
     "context": "this.m.Description = 'This character is naturally swift and agile, and has an easier time dodging incoming projectiles.'"
   }
 ]

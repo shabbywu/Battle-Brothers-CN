@@ -35,8 +35,8 @@
     "ID": 293417582,
     "key": "Maximum Fatigue [color=",
     "original": "Maximum Fatigue [color=",
-    "translation": "最大疲劳值[color=",
-    "stage": 1,
+    "translation": "最大疲劳值 [color=",
+    "stage": 5,
     "context": "'Maximum Fatigue [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.StaminaModifier + '[/color]'"
   }
 ]

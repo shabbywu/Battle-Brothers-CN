@@ -12,7 +12,7 @@
     "key": "Has [color=",
     "original": "Has [color=",
     "translation": "有 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+20%[/color] chance to hit'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "]+20%[/color] chance to hit",
     "original": "]+20%[/color] chance to hit",
     "translation": "]+20%[/color] 命中几率",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+20%[/color] chance to hit'"
   }
 ]

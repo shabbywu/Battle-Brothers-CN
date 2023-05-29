@@ -19,7 +19,7 @@
     "ID": 293419485,
     "key": "Maximum Fatigue [color=",
     "original": "Maximum Fatigue [color=",
-    "translation": "最大疲劳值[color=",
+    "translation": "最大疲劳值 [color=",
     "stage": 5,
     "context": "'Maximum Fatigue [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.StaminaModifier + '[/color]'"
   },
@@ -27,7 +27,7 @@
     "ID": 293419486,
     "key": "Chance to hit head [color=",
     "original": "Chance to hit head [color=",
-    "translation": "击中头部概率 [color=",
+    "translation": "击中头部几率 [color=",
     "stage": 5,
     "context": "'Chance to hit head [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.m.ChanceToHitHead + '%[/color]'"
   },
@@ -35,7 +35,7 @@
     "ID": 293419487,
     "key": "Damage of [color=",
     "original": "Damage of [color=",
-    "translation": "伤害[color=",
+    "translation": "伤害 [color=",
     "stage": 5,
     "context": "'Damage of [color=' + this.Const.UI.Color.DamageValue + ']' + this.m.RegularDamage + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + this.m.RegularDamageMax + '[/color]'"
   },
@@ -99,7 +99,7 @@
     "ID": 293419495,
     "key": "[/color] tiles",
     "original": "[/color] tiles",
-    "translation": "[/color] 格范围",
+    "translation": "[/color] 格",
     "stage": 5,
     "context": "'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getRangeMax() + '[/color] tiles'"
   },
@@ -107,7 +107,7 @@
     "ID": 293419496,
     "key": "%[/color] effective against armor",
     "original": "%[/color] effective against armor",
-    "translation": "%[/color] 效果作用于盔甲",
+    "translation": "%[/color] 效果作用于护甲",
     "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.DamageValue + ']' + this.Math.floor(this.m.ArmorDamageMult * 100) + '%[/color] effective against armor'"
   },
@@ -131,7 +131,7 @@
     "ID": 293419499,
     "key": "%[/color] of damage ignores armor",
     "original": "%[/color] of damage ignores armor",
-    "translation": "%[/color] 伤害忽视盔甲",
+    "translation": "%[/color] 伤害忽略护甲",
     "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.DamageValue + ']' + this.Math.floor(this.m.DirectDamageMult + this.m.DirectDamageAdd * 100) + '%[/color] of damage ignores armor'"
   },

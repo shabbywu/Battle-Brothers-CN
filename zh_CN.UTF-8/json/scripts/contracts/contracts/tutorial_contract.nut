@@ -254,7 +254,7 @@
     "key": "Hoggart the Weasel",
     "original": "Hoggart the Weasel",
     "translation": "黄鼠狼霍加特",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293410083,

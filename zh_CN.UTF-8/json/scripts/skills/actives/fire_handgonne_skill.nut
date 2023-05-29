@@ -36,22 +36,22 @@
     "key": "Can hit up to 6 targets",
     "original": "Can hit up to 6 targets",
     "translation": "最多可以击中 6 个目标",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293419966,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有[color=",
-    "stage": 1,
+    "translation": "有 [color=",
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + 10 + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -10 + this.m.AdditionalHitChance + '%[/color] per tile of distance. This chance is unaffected by objects or characters in the line of fire.'"
   },
   {
     "ID": 293419967,
     "key": "Has a range of [color=",
     "original": "Has a range of [color=",
-    "translation": "攻击范围为[color=",
-    "stage": 1,
+    "translation": "攻击范围为 [color=",
+    "stage": 5,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on flat ground and [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + this.m.MaxRangeBonus + '[/color] tiles if shooting downhill'"
   },
   {

@@ -1466,7 +1466,7 @@
     "ID": 293405078,
     "key": "Thresher",
     "original": "Thresher",
-    "translation": "回旋者",
+    "translation": "打谷者",
     "stage": 1
   },
   {
