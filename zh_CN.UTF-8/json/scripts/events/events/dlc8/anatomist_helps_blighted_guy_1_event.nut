@@ -106,7 +106,7 @@
     "ID": 293415040,
     "key": " the Anatomist rescued %name% from being buried alive for carrying some strange disease. Now he has the unique pleasure of both bearing the plague AND being a lab rat for some researchers. Stay over there, please.",
     "original": " the Anatomist rescued %name% from being buried alive for carrying some strange disease. Now he has the unique pleasure of both bearing the plague AND being a lab rat for some researchers. Stay over there, please.",
-    "translation": "解剖师从被活埋的命运中拯救了%name%，因为他带着一些奇怪的疾病。现在他既被瘟疫困扰，又成为一些研究的实验品。请呆在那边。",
+    "translation": "解剖学家从被活埋的命运中拯救了%name%，因为他带着一些奇怪的疾病。现在他既被瘟疫困扰，又成为一些研究的实验品。请呆在那边。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = '' + _event.m.Anatomist.getNameOnly() + ' the Anatomist rescued %name% from being buried alive for carrying some strange disease. Now he has the unique pleasure of both bearing the plague AND being a lab rat for some researchers. Stay over there, please.'"
   },

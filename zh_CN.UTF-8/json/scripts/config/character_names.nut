@@ -5680,8 +5680,8 @@
     "ID": 293404589,
     "key": "the Vulture",
     "original": "the Vulture",
-    "translation": "秃鹫",
-    "stage": 1
+    "translation": "秃鹫(the Curious)",
+    "stage": 5
   },
   {
     "ID": 293404590,

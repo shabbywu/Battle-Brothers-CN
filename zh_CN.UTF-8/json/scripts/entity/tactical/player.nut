@@ -98,8 +98,8 @@
     "ID": 293410456,
     "key": " by ",
     "original": " by ",
-    "translation": "，凶手为",
-    "stage": 5,
+    "translation": "被",
+    "stage": 1,
     "context": "killedBy = killedBy + ' by ' + _killer.getKilledName()"
   },
   {
