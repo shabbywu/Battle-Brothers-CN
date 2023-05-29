@@ -3,7 +3,7 @@
     "ID": 293419641,
     "key": "[p=c][img]gfx/ui/events/event_181.png[/img][/p][p]Fueled by an unquenchable thirst for knowledge, the Anatomists have spent years dissecting the exotic and the alien. With social mores dogging their research, however, they've turned to you to form a merce",
     "original": "[p=c][img]gfx/ui/events/event_181.png[/img][/p][p]Fueled by an unquenchable thirst for knowledge, the Anatomists have spent years dissecting the exotic and the alien. With social mores dogging their research, however, they've turned to you to form a mercenary company and provide them a new source of fresh specimens.\n\n[color=#bcad8c]Anatomists:[/color] Start with three men and high funds.\n[color=#bcad8c]Researchers:[/color] Research the corpses of your fallen foes and gain knowledge to empower your men.\n[color=#bcad8c]Not Fighters:[/color] Your men will never be of Confident morale.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_181.png[/img][/p][p]在他们无法抑制的求知欲驱动下，解剖学者们已经花费了数年时间用于剖析大陆上的各种邪崇异兽。然而，随着社会大众对他们的研究手段愈发排斥，他们最终找上了你，希望能够成立一家佣兵战团，以便为他们提供源源不断的新鲜样本。\n\n[color=#bcad8c]解剖学者：[/color] 以三名解剖学家开始游戏，启动资金相当充裕。\n[color=#bcad8c]科学工作者：[/color] 研究你所击倒的敌人的遗骸，并从中提取出用于强化你战团成员的宝贵知识和特殊药剂。\n[color=#bcad8c]并非战士：[/color] 你的所有战团成员将永远无法达到自信士气。[/p]",
+    "translation": "[p=c][img]gfx/ui/events/event_181.png[/img][/p][p]在他们无法抑制的求知欲驱动下，解剖学家们已经花费了数年时间用于剖析大陆上的各种邪崇异兽。然而，随着社会大众对他们的研究手段愈发排斥，他们最终找上了你，希望能够成立一家佣兵战团，以便为他们提供源源不断的新鲜样本。\n\n[color=#bcad8c]解剖学家：[/color] 以三名解剖学家开始游戏，启动资金相当充裕。\n[color=#bcad8c]研究者：[/color] 研究你所击倒的敌人的遗骸，并从中提取出用于强化你战团成员的宝贵知识和特殊药剂。\n[color=#bcad8c]并非战士：[/color] 你的所有战团成员将永远无法达到自信士气。[/p]",
     "stage": 1,
     "context": "this.m.Description = \"[p=c][img]gfx/ui/events/event_181.png[/img][/p][p]Fueled by an unquenchable thirst for knowledge, the Anatomists have spent years dissecting the exotic and the alien. With social mores dogging their research, however, they've turned to you to form a mercenary company and provide them a new source of fresh specimens.\n\n[color=#bcad8c]Anatomists:[/color] Start with three men and high funds.\n[color=#bcad8c]Researchers:[/color] Research the corpses of your fallen foes and gain knowledge to empower your men.\n[color=#bcad8c]Not Fighters:[/color] Your men will never be of Confident morale.[/p]\""
   },
@@ -42,7 +42,7 @@
     "ID": 293419646,
     "key": "Anatomists",
     "original": "Anatomists",
-    "translation": "解剖学者",
+    "translation": "解剖学家",
     "stage": 1,
     "context": "this.m.Name = 'Anatomists'"
   }

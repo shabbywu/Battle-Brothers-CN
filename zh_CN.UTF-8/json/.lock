@@ -1178,14 +1178,14 @@
         "total": 967,
         "translated": 967,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 7,
+        "reviewed": 7,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.288Z",
         "updatedAt": "2023-05-17T14:20:14.948Z",
-        "modifiedAt": "2023-05-28T15:04:42Z",
-        "sha256": "ba21721a6138db6baa3f45422063d082e76385a5ef7ea0dbbcda59301dc1efde"
+        "modifiedAt": "2023-05-29T02:49:43Z",
+        "sha256": "fa4c34e3b12721108b2704f0f2680c510676d57d807a11e8dfcbf94c7171aecd"
     },
     "scripts/config/credits.json": {
         "id": 918414,
@@ -1790,14 +1790,14 @@
         "total": 83,
         "translated": 83,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:58.212Z",
         "updatedAt": "2023-05-17T14:20:50.035Z",
-        "modifiedAt": "2023-05-29T00:54:05Z",
-        "sha256": "7f553c74be2630083a5ca938c882e0ec78034fbf219fd312ec4d2a979823a9c2"
+        "modifiedAt": "2023-05-29T01:22:15Z",
+        "sha256": "af1d5a6d8591cd94f9256a8a12ceb9ab106df717f469beeab80f3112db15f5f2"
     },
     "scripts/contracts/contracts/escort_envoy_contract.json": {
         "id": 918448,
@@ -4202,14 +4202,14 @@
         "total": 38,
         "translated": 38,
         "disputed": 0,
-        "checked": 33,
-        "reviewed": 33,
+        "checked": 32,
+        "reviewed": 32,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:51.707Z",
         "updatedAt": "2023-05-17T14:22:10.43Z",
-        "modifiedAt": "2023-05-28T02:46:10Z",
-        "sha256": "39f20964f26e24c8ea15589a67268f3ad92ba12d4b8a970fcef8d3ebbe9503a4"
+        "modifiedAt": "2023-05-29T05:24:06Z",
+        "sha256": "5f614bc753c6a0b2aa53ba3b0c06587f273554c42e3ed4b45a16373c6f61c203"
     },
     "scripts/entity/tactical/player_corpse_stub.json": {
         "id": 918582,
@@ -12020,8 +12020,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:42.568Z",
         "updatedAt": "2023-05-17T14:25:55.965Z",
-        "modifiedAt": "2023-05-17T14:25:56Z",
-        "sha256": "cfe55588853db07ee6b967de179f645628d14b4a3f4ff20ce5e0fc702db1a159"
+        "modifiedAt": "2023-05-29T02:47:46Z",
+        "sha256": "b1aa65ddd4f948125f354fd70877dcbf1d0e3023de88d50ec4f50a5d48ab00d9"
     },
     "scripts/events/events/dlc8/anatomist_helps_blighted_guy_2_event.json": {
         "id": 919016,
@@ -29120,8 +29120,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:44.33Z",
         "updatedAt": "2023-05-17T15:33:38.71Z",
-        "modifiedAt": "2023-05-17T15:33:39Z",
-        "sha256": "3412e5b389dc0aa7690741d4045faed5524e836c794c5d21611b066c6b65b9d6"
+        "modifiedAt": "2023-05-29T02:37:48Z",
+        "sha256": "d3deeaf08c26547cc09c36b4fb03d0f665589ca716f8da877e60ab0784610f67"
     },
     "scripts/scenarios/world/beast_hunters_scenario.json": {
         "id": 919966,
@@ -32462,14 +32462,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:10.864Z",
         "updatedAt": "2023-05-13T14:30:10.864Z",
-        "modifiedAt": "2023-05-27T05:17:56Z",
-        "sha256": "8aa9080628b22966ee4c339ee1d02ff1bd6725cdc58a47fbd94861270a961f8a"
+        "modifiedAt": "2023-05-29T02:26:29Z",
+        "sha256": "43551796d30788aceddcb6888cdaa121bb930a16c8eece70288d06acab5723ad"
     },
     "scripts/skills/backgrounds/anatomist_background.json": {
         "id": 920152,
@@ -32480,14 +32480,14 @@
         "total": 14,
         "translated": 14,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 13,
+        "reviewed": 13,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:12.177Z",
         "updatedAt": "2023-05-13T14:30:12.177Z",
-        "modifiedAt": "2023-05-13T14:30:12.194Z",
-        "sha256": "b8b6654a4053eb994b91c61fa4ba985dc4682e46f26d5b405a243abca0863838"
+        "modifiedAt": "2023-05-29T03:22:48Z",
+        "sha256": "2a2e6423c14f8c0a580ffc656f8d09d70f7d2e3ecad0b687cb229cb0885c221e"
     },
     "scripts/skills/backgrounds/apprentice_background.json": {
         "id": 920153,
@@ -33704,14 +33704,14 @@
         "total": 15,
         "translated": 15,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:49.436Z",
         "updatedAt": "2023-05-13T14:30:49.436Z",
-        "modifiedAt": "2023-05-13T14:30:49.45Z",
-        "sha256": "328876eeacdb963ada25655ee19d59b4555a68e42b6e619304454d4cf086d1e8"
+        "modifiedAt": "2023-05-29T02:46:33Z",
+        "sha256": "2efaffc8caebe5cf0ceb57e246be781a7e0397effd089be27508df61c25f9a4b"
     },
     "scripts/skills/backgrounds/ratcatcher_background.json": {
         "id": 920221,

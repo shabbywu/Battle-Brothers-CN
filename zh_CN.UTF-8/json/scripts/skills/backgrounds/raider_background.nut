@@ -71,7 +71,7 @@
     "key": "the Crow",
     "original": "the Crow",
     "translation": "乌鸦(The Crow)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293421221,
