@@ -3,8 +3,8 @@
     "ID": 293420025,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有[color=",
-    "stage": 1,
+    "translation": "有 [color=",
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-5%[/color] chance to hit'"
   },
   {
@@ -12,7 +12,7 @@
     "key": "]-5%[/color] chance to hit",
     "original": "]-5%[/color] chance to hit",
     "translation": "]-5%[/color] 命中几率",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-5%[/color] chance to hit'"
   },
   {

@@ -3,8 +3,8 @@
     "ID": 293420132,
     "key": "[/color] extra fatigue",
     "original": "[/color] extra fatigue",
-    "translation": "[/color]额外疲劳值",
-    "stage": 1,
+    "translation": "[/color] 额外疲劳值",
+    "stage": 5,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
   },
   {
@@ -19,8 +19,8 @@
     "ID": 293420134,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有[color=",
-    "stage": 1,
+    "translation": "有 [color=",
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
@@ -44,7 +44,7 @@
     "key": " for one turn",
     "original": " for one turn",
     "translation": "持续 1 回合",
-    "stage": 1,
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn'"
   },
   {
@@ -59,8 +59,8 @@
     "ID": 293420139,
     "key": "Has a range of [color=",
     "original": "Has a range of [color=",
-    "translation": "攻击范围为[color=",
-    "stage": 1,
+    "translation": "攻击范围为 [color=",
+    "stage": 5,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
   },
   {
@@ -99,8 +99,8 @@
     "ID": 293420144,
     "key": "[/color] tiles",
     "original": "[/color] tiles",
-    "translation": "[/color]格",
-    "stage": 1,
+    "translation": "[/color] 格",
+    "stage": 5,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
   }
 ]

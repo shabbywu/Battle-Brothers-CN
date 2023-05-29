@@ -3,8 +3,8 @@
     "ID": 293420122,
     "key": "[/color] extra fatigue",
     "original": "[/color] extra fatigue",
-    "translation": "[/color]额外疲劳值",
-    "stage": 1,
+    "translation": "[/color] 额外疲劳值",
+    "stage": 5,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
   },
   {
@@ -44,7 +44,7 @@
     "key": " for one turn",
     "original": " for one turn",
     "translation": "持续 1 回合",
-    "stage": 1,
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn'"
   },
   {

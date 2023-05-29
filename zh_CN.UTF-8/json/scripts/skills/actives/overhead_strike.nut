@@ -60,7 +60,7 @@
     "key": " for one turn",
     "original": " for one turn",
     "translation": "持续 1 回合",
-    "stage": 1,
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + ' for one turn'"
   },
   {
@@ -83,8 +83,8 @@
     "ID": 293420191,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有[color=",
-    "stage": 1,
+    "translation": "有 [color=",
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+5%' + '[/color] chance to hit'"
   },
   {

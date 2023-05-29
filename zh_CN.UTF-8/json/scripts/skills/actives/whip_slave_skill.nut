@@ -58,7 +58,7 @@
     "key": "Whipped to death",
     "original": "Whipped to death",
     "translation": "鞭打致死",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.KilledString = 'Whipped to death'"
   }
 ]

@@ -19,7 +19,7 @@
     "key": "the Homeless",
     "original": "the Homeless",
     "translation": "无家可归者(the Homeless)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293421363,

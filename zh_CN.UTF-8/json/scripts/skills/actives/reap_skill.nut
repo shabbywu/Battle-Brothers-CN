@@ -10,8 +10,8 @@
     "ID": 293420266,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有[color=",
-    "stage": 1,
+    "translation": "有 [color=",
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
@@ -26,8 +26,8 @@
     "ID": 293420268,
     "key": "Has a range of [color=",
     "original": "Has a range of [color=",
-    "translation": "攻击范围为[color=",
-    "stage": 1,
+    "translation": "攻击范围为 [color=",
+    "stage": 5,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
   },
   {
@@ -50,8 +50,8 @@
     "ID": 293420271,
     "key": "[/color] tiles",
     "original": "[/color] tiles",
-    "translation": "[/color]格",
-    "stage": 1,
+    "translation": "[/color] 格",
+    "stage": 5,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
   }
 ]

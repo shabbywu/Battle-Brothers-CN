@@ -1123,8 +1123,8 @@
     "ID": 293403938,
     "key": "Gunther the Grinning",
     "original": "Gunther the Grinning",
-    "translation": "巩特尔嘲笑者",
-    "stage": 1
+    "translation": "咧嘴巩特尔",
+    "stage": 5
   },
   {
     "ID": 293403939,
@@ -3770,7 +3770,7 @@
     "key": "the Weasel",
     "original": "the Weasel",
     "translation": "黄鼠狼",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404317,
@@ -4931,7 +4931,7 @@
     "ID": 293404482,
     "key": "Gu-Shogg the Thousand-Armed Thresher",
     "original": "Gu-Shogg the Thousand-Armed Thresher",
-    "translation": "古沼洛克·千臂回旋者(Gu-Shogg the Thousand-Armed Thresherg)",
+    "translation": "古沼洛克·千臂打谷者(Gu-Shogg the Thousand-Armed Thresherg)",
     "stage": 1
   },
   {

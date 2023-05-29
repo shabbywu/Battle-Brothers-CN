@@ -27,8 +27,8 @@
     "ID": 293420341,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有[color=",
-    "stage": 1,
+    "translation": "有 [color=",
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-5%[/color] chance to hit'"
   },
   {
@@ -52,7 +52,7 @@
     "key": "]-5%[/color] chance to hit",
     "original": "]-5%[/color] chance to hit",
     "translation": "]-5%[/color] 命中几率",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-5%[/color] chance to hit'"
   },
   {
@@ -68,7 +68,7 @@
     "key": " for one turn",
     "original": " for one turn",
     "translation": "持续 1 回合",
-    "stage": 1,
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn'"
   },
   {

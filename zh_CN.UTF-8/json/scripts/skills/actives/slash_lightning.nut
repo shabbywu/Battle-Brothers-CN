@@ -19,8 +19,8 @@
     "ID": 293420400,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有[color=",
-    "stage": 1,
+    "translation": "有 [color=",
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "]+10%[/color] chance to hit",
     "original": "]+10%[/color] chance to hit",
     "translation": "]+10%[/color] 命中几率",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit'"
   },
   {

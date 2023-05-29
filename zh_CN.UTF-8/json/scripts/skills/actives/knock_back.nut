@@ -20,15 +20,15 @@
     "key": " for one turn",
     "original": " for one turn",
     "translation": "持续 1 回合",
-    "stage": 1,
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn'"
   },
   {
     "ID": 293420114,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有[color=",
-    "stage": 1,
+    "translation": "有 [color=",
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] chance to hit'"
   },
   {
@@ -44,7 +44,7 @@
     "key": "]+25%[/color] chance to hit",
     "original": "]+25%[/color] chance to hit",
     "translation": "]+25%[/color] 命中几率",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] chance to hit'"
   },
   {
@@ -76,7 +76,7 @@
     "key": "]+40%[/color] chance to hit",
     "original": "]+40%[/color] chance to hit",
     "translation": "]+40%[/color] 命中几率",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+40%[/color] chance to hit'"
   }
 ]

@@ -11,8 +11,8 @@
     "ID": 293410704,
     "key": "Marketplace",
     "original": "Marketplace",
-    "translation": "市场",
-    "stage": 1,
+    "translation": "集市",
+    "stage": 5,
     "context": "this.m.Name = 'Marketplace'"
   }
 ]

@@ -123,8 +123,8 @@
     "ID": 293422929,
     "key": "Failed to put ground item into bag.",
     "original": "Failed to put ground item into bag.",
-    "translation": "无法将地面物品放入背包。",
-    "stage": 1,
+    "translation": "无法将地上的物品放入背包。",
+    "stage": 5,
     "context": "errorString = 'Failed to put ground item into bag.'"
   },
   {
@@ -172,7 +172,7 @@
     "key": "Failed to put item into bag.",
     "original": "Failed to put item into bag.",
     "translation": "未能将物品放入背包。",
-    "stage": 1,
+    "stage": 5,
     "context": "errorString = 'Failed to put item into bag.'"
   },
   {

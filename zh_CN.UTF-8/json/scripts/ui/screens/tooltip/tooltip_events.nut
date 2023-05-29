@@ -54,7 +54,7 @@
     "key": "Unknown Character Traits",
     "original": "Unknown Character Traits",
     "translation": "未知角色特性",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422961,
@@ -109,8 +109,8 @@
     "ID": 293422968,
     "key": "Hire",
     "original": "Hire",
-    "translation": "雇用",
-    "stage": 1
+    "translation": "雇佣",
+    "stage": 5
   },
   {
     "ID": 293422969,
@@ -132,7 +132,7 @@
     "key": "Put item into stash",
     "original": "Put item into stash",
     "translation": "将物品放入仓库",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422972,
@@ -1221,8 +1221,8 @@
     "ID": 293423122,
     "key": "Hire new men for your mercenary company. The quality and quantity of volunteers depends on the size and type of settlement, as well as your reputation here. Every few days, new people will arrive, and others will travel on.",
     "original": "Hire new men for your mercenary company. The quality and quantity of volunteers depends on the size and type of settlement, as well as your reputation here. Every few days, new people will arrive, and others will travel on.",
-    "translation": "为你的雇佣兵战团雇佣新人。 志愿者的质量和数量取决于这个定居点的规模和类型，以及你在这里的声誉。 每隔几天，就会有新的人来，其他人会继续旅行。",
-    "stage": 1
+    "translation": "为你的雇佣兵战团雇佣新人。志愿者的质量和数量取决于这个定居点的规模和类型，以及你在这里的声誉。 每隔几天，就会有新的人来，而其他人会继续旅行。",
+    "stage": 5
   },
   {
     "ID": 293423123,
@@ -1408,8 +1408,8 @@
     "ID": 293423148,
     "key": "A lively market offering all sorts of goods common in the region. New wares will be on offer every few days, and when trading caravans reach this settlement.",
     "original": "A lively market offering all sorts of goods common in the region. New wares will be on offer every few days, and when trading caravans reach this settlement.",
-    "translation": "一个活跃的市场，提供该地区常见的各种商品。 每隔几天就会有新产品上市，当贸易商队到达这个定居点时。",
-    "stage": 1
+    "translation": "一个热闹的市场，提供该地区常见的各种商品。每隔几天或当商队到达这个定居点时就会有新的商品出售。",
+    "stage": 5
   },
   {
     "ID": 293423149,
@@ -1557,7 +1557,7 @@
     "key": "Harbor",
     "original": "Harbor",
     "translation": "港口",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423169,
@@ -1634,7 +1634,7 @@
     "key": "Equip item ([b][color=",
     "original": "Equip item ([b][color=",
     "translation": "装备物品 ([b][color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'Equip item ([b][color=' + this.Const.UI.Color.PositiveValue + ']' + _activeEntity.getItems().getActionCost([_item,_entity.getItems().getItemAtSlot(_item.getSlotType()),_entity.getItems().getItemAtSlot(_item.getBlockedSlotType())]) + '[/color][/b] AP)'"
   },
   {
@@ -1671,7 +1671,7 @@
     "key": "Place item in bag",
     "original": "Place item in bag",
     "translation": "将物品放入背包中",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423185,
@@ -1971,7 +1971,7 @@
     "key": "Place item in bag ([b][color=",
     "original": "Place item in bag ([b][color=",
     "translation": "将物品放入背包中 ([b][color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'Place item in bag ([b][color=' + this.Const.UI.Color.PositiveValue + ']' + _activeEntity.getItems().getActionCost([_item]) + '[/color][/b] AP)'"
   },
   {
@@ -1985,8 +1985,8 @@
     "ID": 293423228,
     "key": "A harbor that serves both foreign trading ships and local fishermen. You'll likely be able to book passage by sea to other parts of the continent here.",
     "original": "A harbor that serves both foreign trading ships and local fishermen. You'll likely be able to book passage by sea to other parts of the continent here.",
-    "translation": "为对外贸易船和当地渔民服务的港口。 你很可能在这里订到前往大陆其他地方的海上船票。",
-    "stage": 1
+    "translation": "一个为外来商船和当地渔民服务的港口。你很可能能够在这里乘船前往该大陆的其他地区。",
+    "stage": 5
   },
   {
     "ID": 293423229,
@@ -2014,8 +2014,8 @@
     "ID": 293423232,
     "key": "Shows the current and maximum load of the stash, your global inventory.",
     "original": "Shows the current and maximum load of the stash, your global inventory.",
-    "translation": "显示库存当前和最大负载，即你的全部库存。",
-    "stage": 1
+    "translation": "显示仓库当前的储量和最大储量，你的全局仓库。",
+    "stage": 5
   },
   {
     "ID": 293423233,
@@ -2051,7 +2051,7 @@
     "key": "Place item in stash",
     "original": "Place item in stash",
     "translation": "将物品放入仓库",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423238,
@@ -2439,7 +2439,7 @@
     "key": "Equip item",
     "original": "Equip item",
     "translation": "装备物品",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423292,
@@ -2566,8 +2566,8 @@
     "ID": 293423309,
     "key": "Marketplace",
     "original": "Marketplace",
-    "translation": "市场",
-    "stage": 1
+    "translation": "集市",
+    "stage": 5
   },
   {
     "ID": 293423310,

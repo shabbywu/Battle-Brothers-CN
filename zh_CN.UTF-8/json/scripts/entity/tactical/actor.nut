@@ -139,7 +139,7 @@
     "key": "%[/color] chance to hit",
     "original": "%[/color] chance to hit",
     "translation": "%[/color] 命中几率",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']' + hitchance + '%[/color] chance to hit'"
   },
   {

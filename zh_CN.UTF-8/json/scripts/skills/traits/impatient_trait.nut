@@ -18,8 +18,8 @@
     "ID": 293422568,
     "key": "the Quick",
     "original": "the Quick",
-    "translation": "快银",
-    "stage": 1
+    "translation": "快人",
+    "stage": 5
   },
   {
     "ID": 293422569,

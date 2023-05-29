@@ -3,15 +3,15 @@
     "ID": 293419862,
     "key": "Cleaved",
     "original": "Cleaved",
-    "translation": "被劈开",
-    "stage": 5,
+    "translation": "劈开",
+    "stage": 1,
     "context": "this.m.KilledString = 'Cleaved'"
   },
   {
     "ID": 293419863,
     "key": "Inflicts additional stacking [color=",
     "original": "Inflicts additional stacking [color=",
-    "translation": "造成额外的[color=",
+    "translation": "造成额外的 [color=",
     "stage": 5,
     "context": "'Inflicts additional stacking [color=' + this.Const.UI.Color.DamageValue + ']' + dmg + '[/color] bleeding damage per turn, for 2 turns'"
   },

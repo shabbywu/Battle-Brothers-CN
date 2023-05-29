@@ -27,8 +27,8 @@
     "ID": 293420062,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有[color=",
-    "stage": 1,
+    "translation": "有 [color=",
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] chance to hit'"
   },
   {

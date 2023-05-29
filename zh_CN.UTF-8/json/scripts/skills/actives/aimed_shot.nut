@@ -11,7 +11,7 @@
     "ID": 293419785,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有[color=",
+    "translation": "有 [color=",
     "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] arrows left'"
   },
@@ -83,8 +83,8 @@
     "ID": 293419794,
     "key": "Has a range of [color=",
     "original": "Has a range of [color=",
-    "translation": "攻击范围为[color=",
-    "stage": 1,
+    "translation": "攻击范围为 [color=",
+    "stage": 5,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if shooting downhill'"
   }
 ]

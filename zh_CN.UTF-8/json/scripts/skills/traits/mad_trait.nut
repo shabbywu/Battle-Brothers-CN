@@ -19,7 +19,7 @@
     "key": "Has [color=",
     "original": "Has [color=",
     "translation": "有 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] or [color=' + this.Const.UI.Color.NegativeValue + ']-15[/color] Resolve randomly at every morale check'"
   },
   {

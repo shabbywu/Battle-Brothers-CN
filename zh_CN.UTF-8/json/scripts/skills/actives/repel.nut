@@ -3,8 +3,8 @@
     "ID": 293420289,
     "key": "]2[/color] tiles",
     "original": "]2[/color] tiles",
-    "translation": "]2[/color] 格范围",
-    "stage": 1,
+    "translation": "]2[/color] 格",
+    "stage": 5,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2[/color] tiles'"
   },
   {
@@ -20,7 +20,7 @@
     "key": " for one turn",
     "original": " for one turn",
     "translation": "持续 1 回合",
-    "stage": 1,
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn'"
   },
   {
@@ -35,16 +35,16 @@
     "ID": 293420293,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有[color=",
-    "stage": 1,
+    "translation": "有 [color=",
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
     "ID": 293420294,
     "key": "Has a range of [color=",
     "original": "Has a range of [color=",
-    "translation": "攻击范围为[color=",
-    "stage": 1,
+    "translation": "攻击范围为 [color=",
+    "stage": 5,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2[/color] tiles'"
   },
   {
@@ -76,7 +76,7 @@
     "key": "]+10%[/color] chance to hit",
     "original": "]+10%[/color] chance to hit",
     "translation": "]+10%[/color] 命中几率",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit'"
   },
   {

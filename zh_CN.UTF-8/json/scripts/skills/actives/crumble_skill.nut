@@ -3,15 +3,15 @@
     "ID": 293419879,
     "key": "[/color] extra fatigue",
     "original": "[/color] extra fatigue",
-    "translation": "[/color]额外疲劳值",
-    "stage": 1,
+    "translation": "[/color] 额外疲劳值",
+    "stage": 5,
     "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
   },
   {
     "ID": 293419880,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有[color=",
+    "translation": "有 [color=",
     "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
@@ -27,7 +27,7 @@
     "ID": 293419882,
     "key": "Smashed",
     "original": "Smashed",
-    "translation": "砸碎",
+    "translation": "被砸碎",
     "stage": 5,
     "context": "this.m.KilledString = 'Smashed'"
   },
@@ -43,7 +43,7 @@
     "ID": 293419884,
     "key": "Has a range of [color=",
     "original": "Has a range of [color=",
-    "translation": "攻击范围为[color=",
+    "translation": "攻击范围为 [color=",
     "stage": 5,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
   },
@@ -67,7 +67,7 @@
     "ID": 293419887,
     "key": "[/color] tiles",
     "original": "[/color] tiles",
-    "translation": "[/color]格",
+    "translation": "[/color] 格",
     "stage": 5,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
   }

@@ -25,7 +25,7 @@
     "key": "the Weasel",
     "original": "the Weasel",
     "translation": "黄鼠狼",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422776,
