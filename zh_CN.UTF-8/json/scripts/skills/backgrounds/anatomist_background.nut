@@ -3,8 +3,8 @@
     "ID": 293420748,
     "key": "Out of all the men you came to know in the %companyname%, it was %name% the anatomist who is perhaps the most difficult to forget. An unending stream of letters only helps ensure you never will. You skim over his latest, one-sided correspondence: \"Captain",
     "original": "Out of all the men you came to know in the %companyname%, it was %name% the anatomist who is perhaps the most difficult to forget. An unending stream of letters only helps ensure you never will. You skim over his latest, one-sided correspondence: \"Captain! I've managed to...\" skimming, skimming, \"...the greatest invention! The most...\" skimming, skimming. \"I'm going to be famous! My brain will be studied for its weight is surely...\" Nothing new, it seems, though you are glad he's still in good health, albeit perhaps more so in body than mind.",
-    "translation": "在%companyname%里你所认识的所有人中，解剖学家 %name% 可能是最难忘的一个。不停的来信只让你更加难以忘怀。你浏览着他最新的单面通信：“队长！我已经成功地……”浏览中，“……最伟大的发明！最……”浏览中，“我将会出名！我的大脑会因其重量而被……”看起来没有什么新的内容，尽管你很高兴他身体很健康，虽然可能比智力更健康。",
-    "stage": 1,
+    "translation": "在%companyname%里你所认识的所有人中，解剖学家%name%可能是最令人难忘的一个。他不停的来信更是令你永远不会忘记他。你浏览了他最新的单向通讯：“队长！我已经成功地……”浏览中，浏览中，“……最伟大的发明！最……”浏览中，浏览中，“我将会出名！我的大脑会被研究，其重量……”似乎没有什么新内容，不过你很高兴他仍然健康，尽管可能身体会比精神更健康些。",
+    "stage": 5,
     "context": "this.m.GoodEnding = 'Out of all the men you came to know in the %companyname%, it was %name% the anatomist who is perhaps the most difficult to forget. An unending stream of letters only helps ensure you never will. You skim over his latest, one-sided correspondence: \"Captain! I\\'ve managed to...\" skimming, skimming, \"...the greatest invention! The most...\" skimming, skimming. \"I\\'m going to be famous! My brain will be studied for its weight is surely...\" Nothing new, it seems, though you are glad he\\'s still in good health, albeit perhaps more so in body than mind.'"
   },
   {

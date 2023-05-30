@@ -55,7 +55,7 @@
     "key": "the Murderer",
     "original": "the Murderer",
     "translation": "凶手(the Murderer)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293421065,
