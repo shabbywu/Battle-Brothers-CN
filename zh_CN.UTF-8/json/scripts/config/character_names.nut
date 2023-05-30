@@ -241,8 +241,8 @@
     "ID": 293403812,
     "key": "the Insidious",
     "original": "the Insidious",
-    "translation": "阴险的",
-    "stage": 1
+    "translation": "潜伏者(the Insidious)",
+    "stage": 5
   },
   {
     "ID": 293403813,
@@ -3069,8 +3069,8 @@
     "ID": 293404216,
     "key": "%randomsouthernname% the Elusive",
     "original": "%randomsouthernname% the Elusive",
-    "translation": "难以捉摸的%randomsouthernname%",
-    "stage": 1
+    "translation": "难以捉摸者%randomsouthernname%",
+    "stage": 5
   },
   {
     "ID": 293404217,
@@ -6345,8 +6345,8 @@
     "ID": 293404684,
     "key": "the Backstabber",
     "original": "the Backstabber",
-    "translation": "背刺者",
-    "stage": 1
+    "translation": "背刺者(the Backstabber)",
+    "stage": 5
   },
   {
     "ID": 293404685,
@@ -6562,8 +6562,8 @@
     "ID": 293404715,
     "key": "the Elusive",
     "original": "the Elusive",
-    "translation": "难以捉摸的",
-    "stage": 1
+    "translation": "难以捉摸者(the Elusive)",
+    "stage": 5
   },
   {
     "ID": 293404716,
@@ -6730,8 +6730,8 @@
     "ID": 293404739,
     "key": "the Shadow",
     "original": "the Shadow",
-    "translation": "影子",
-    "stage": 1
+    "translation": "影子(the Shadow)",
+    "stage": 5
   },
   {
     "ID": 293404740,

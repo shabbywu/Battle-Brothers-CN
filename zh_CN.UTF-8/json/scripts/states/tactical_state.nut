@@ -255,7 +255,7 @@
     "key": "Left to die",
     "original": "Left to die",
     "translation": "任其死去",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422836,
