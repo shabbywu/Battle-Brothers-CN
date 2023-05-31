@@ -221,7 +221,7 @@
     "key": "Geists test the resolve of your men - the lower, the more likely they are to panic and flee.",
     "original": "Geists test the resolve of your men - the lower, the more likely they are to panic and flee.",
     "translation": "幽灵考验你的人的决心－越低，他们越有可能恐慌和逃跑。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406889,

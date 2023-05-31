@@ -43,8 +43,8 @@
     "ID": 293403545,
     "key": "the Sergeant",
     "original": "the Sergeant",
-    "translation": "军士",
-    "stage": 1
+    "translation": "军士(the Sergeant)",
+    "stage": 5
   },
   {
     "ID": 293403546,

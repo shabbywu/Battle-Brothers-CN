@@ -70,7 +70,7 @@
     "ID": 293412615,
     "key": "[img]gfx/ui/events/event_05.png[/img]Thumb and finger pinching your eyes shut, you wonder if maybe this wasn't the life for you. Killing's easy, but this? Whatever. You throw your hands up and get out of your chair to retrieve a satchel of crowns. The sup",
     "original": "[img]gfx/ui/events/event_05.png[/img]Thumb and finger pinching your eyes shut, you wonder if maybe this wasn't the life for you. Killing's easy, but this? Whatever. You throw your hands up and get out of your chair to retrieve a satchel of crowns. The superstitious man totters up on the tips of his toes.%SPEECH_ON%Please count it out! It mustn't be a crown short!%SPEECH_OFF%You begrudgingly set the satchel on the table and begin counting. Once the appropriate number is had, you shuffle it into a purse and toss it to %superstitious%. He bows, thanking you and your mercy. You wave the man off to quickly get him out of your tent.",
-    "translation": "[img]gfx/ui/events/event_05.png[/img]你用拇指和手指夹住自己的眼皮，你想知道这是不是你想要的的生活。 杀人很容易，但是这个事？无所谓吧。 你把手举起来，从椅子上站起来，拿起一个装着克朗的袋子。 那个迷信的人用脚尖蹒跚着站起来。%SPEECH_ON%请把它数出来！ 一定不要少克朗了！%SPEECH_OFF%你不情愿地把袋子放在桌子上，开始数钱。 一旦有了合适的数目，你就把钱放到钱包里，然后把它扔给 %superstitious%。他鞠躬，感谢你和你的仁慈。 你挥手示意他赶快离开你的帐篷。",
+    "translation": "[img]gfx/ui/events/event_05.png[/img]你用拇指和手指夹住自己的眼皮，你想知道这是不是你想要的生活。 杀人很容易，但是这个事？无所谓吧。 你把手举起来，从椅子上站起来，拿起一个装着克朗的袋子。 那个迷信的人用脚尖蹒跚着站起来。%SPEECH_ON%请把它数出来！ 一定不要少克朗了！%SPEECH_OFF%你不情愿地把袋子放在桌子上，开始数钱。 一旦有了合适的数目，你就把钱放到钱包里，然后把它扔给 %superstitious%。他鞠躬，感谢你和你的仁慈。 你挥手示意他赶快离开你的帐篷。",
     "stage": 1
   },
   {

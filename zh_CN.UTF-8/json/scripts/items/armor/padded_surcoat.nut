@@ -4,7 +4,7 @@
     "key": "Padded Surcoat",
     "original": "Padded Surcoat",
     "translation": "加厚外套",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Padded Surcoat'"
   },
   {
@@ -12,7 +12,7 @@
     "key": "A cloth mantle padded with woolen filling.",
     "original": "A cloth mantle padded with woolen filling.",
     "translation": "一件用羊毛填充的布衣。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'A cloth mantle padded with woolen filling.'"
   }
 ]

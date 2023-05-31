@@ -43,8 +43,8 @@
     "ID": 293419724,
     "key": "%name% is a farmer's son, and presumably wishes to be the father of his own son at some point. For now, he's with you which is quite a regrettable clash between dreams and reality.",
     "original": "%name% is a farmer's son, and presumably wishes to be the father of his own son at some point. For now, he's with you which is quite a regrettable clash between dreams and reality.",
-    "translation": "%name% 是一个农夫的儿子，大概希望在某个时候成为自己儿子的父亲。 现在，他和你在一起，这是梦想和现实之间令人遗憾的冲突。",
-    "stage": 1,
+    "translation": "%name%是一个农夫的儿子，大概希望在某个时候成为自己儿子的父亲。现在，他和你在一起，这是梦想和现实之间令人遗憾的冲突。",
+    "stage": 5,
     "context": "bros.0.getBackground().m.RawDescription = \"%name% is a farmer's son, and presumably wishes to be the father of his own son at some point. For now, he's with you which is quite a regrettable clash between dreams and reality.\""
   },
   {
@@ -52,7 +52,7 @@
     "key": "Was involved in a brawl",
     "original": "Was involved in a brawl",
     "translation": "卷入了一场斗殴",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293419726,
@@ -101,8 +101,8 @@
     "ID": 293419732,
     "key": "It is a common joke that %name% is in fact a nobleman hiding away from the world, but to the best of your knowledge he was a simple poacher. The grind of the world got him to where he is today, not much else need be said other than you hope he gets back o",
     "original": "It is a common joke that %name% is in fact a nobleman hiding away from the world, but to the best of your knowledge he was a simple poacher. The grind of the world got him to where he is today, not much else need be said other than you hope he gets back on his feet.",
-    "translation": "这是一个常见的笑话，说 %name% 实际上是一个远离世界的贵族，但据你所知，他只是一个简单的偷猎者。 世界的磨难把他带到了今天的位置，除了你希望他重新站起来之外，别无他言。",
-    "stage": 1,
+    "translation": "说%name%实际上是一个避世的贵族是一个老笑话，但据你所知，他只是一个简单的偷猎者。世界的压力使他走到了今天这个地步，除了你希望他重新振作起来之外，别无他言。",
+    "stage": 5,
     "context": "bros.2.getBackground().m.RawDescription = 'It is a common joke that %name% is in fact a nobleman hiding away from the world, but to the best of your knowledge he was a simple poacher. The grind of the world got him to where he is today, not much else need be said other than you hope he gets back on his feet.'"
   },
   {
@@ -183,8 +183,8 @@
     "ID": 293419743,
     "key": "%name% owned a farmstead that has long since gone underfoot of countless passing armies, including the very ones he has fought for. His 'allegiance' to you is arguably the result of an empty belly more than anything.",
     "original": "%name% owned a farmstead that has long since gone underfoot of countless passing armies, including the very ones he has fought for. His 'allegiance' to you is arguably the result of an empty belly more than anything.",
-    "translation": "%name% 拥有一个农庄，这个农庄早就被无数过往的军队占领了，包括他曾经为之战斗过的军队。 他对你的“效忠”可以说是肚子空的结果。",
-    "stage": 1,
+    "translation": "%name%拥有过一个农场，而那农场早已被无数路过的军队所践踏，包括他曾经为之战斗过的军队。他对你的“忠诚”可以说是空肚子的结果。",
+    "stage": 5,
     "context": "bros.1.getBackground().m.RawDescription = \"%name% owned a farmstead that has long since gone underfoot of countless passing armies, including the very ones he has fought for. His 'allegiance' to you is arguably the result of an empty belly more than anything.\""
   },
   {

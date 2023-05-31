@@ -67,8 +67,8 @@
     "ID": 293405645,
     "key": "Rotation",
     "original": "Rotation",
-    "translation": "回转",
-    "stage": 1
+    "translation": "换位",
+    "stage": 5
   },
   {
     "ID": 293405646,
@@ -559,8 +559,8 @@
     "ID": 293405715,
     "key": "Billman",
     "original": "Billman",
-    "translation": "比尔曼",
-    "stage": 1
+    "translation": "钩镰兵",
+    "stage": 5
   },
   {
     "ID": 293405716,
@@ -907,7 +907,7 @@
     "ID": 293405764,
     "key": "Brawny",
     "original": "Brawny",
-    "translation": "粗壮的",
+    "translation": "强壮",
     "stage": 1
   },
   {
@@ -1311,7 +1311,7 @@
     "ID": 293405821,
     "key": "Indomitable",
     "original": "Indomitable",
-    "translation": "不屈不挠",
+    "translation": "不屈",
     "stage": 1
   },
   {
@@ -2242,8 +2242,8 @@
     "ID": 293405952,
     "key": "Standard Bearers",
     "original": "Standard Bearers",
-    "translation": "标准承载者",
-    "stage": 1
+    "translation": "旗手",
+    "stage": 5
   },
   {
     "ID": 293405953,
@@ -2298,7 +2298,7 @@
     "ID": 293405960,
     "key": "Reach Advantage",
     "original": "Reach Advantage",
-    "translation": "达到优势",
+    "translation": "双手优势",
     "stage": 1
   },
   {
@@ -2788,7 +2788,7 @@
     "ID": 293406029,
     "key": "Necrosavants",
     "original": "Necrosavants",
-    "translation": "死灵法师",
+    "translation": "死灵学者（吸血鬼）",
     "stage": 1
   },
   {
@@ -3777,7 +3777,7 @@
     "ID": 293406169,
     "key": "Steel Brow",
     "original": "Steel Brow",
-    "translation": "钢眉",
+    "translation": "钢头",
     "stage": 1
   },
   {
@@ -4105,7 +4105,7 @@
     "ID": 293406215,
     "key": "Armored Unhold",
     "original": "Armored Unhold",
-    "translation": "武装巨魔",
+    "translation": "装甲巨魔",
     "stage": 1
   },
   {
@@ -4446,7 +4446,7 @@
     "ID": 293406263,
     "key": "Billmen",
     "original": "Billmen",
-    "translation": "比尔门",
+    "translation": "钩镰兵",
     "stage": 1
   },
   {
@@ -4673,8 +4673,8 @@
     "ID": 293406295,
     "key": "Resilient",
     "original": "Resilient",
-    "translation": "有弹性的",
-    "stage": 1
+    "translation": "韧性",
+    "stage": 5
   },
   {
     "ID": 293406296,
@@ -4901,8 +4901,8 @@
     "ID": 293406327,
     "key": "Nine Lives",
     "original": "Nine Lives",
-    "translation": "猫有九命",
-    "stage": 1
+    "translation": "九命",
+    "stage": 5
   },
   {
     "ID": 293406328,
@@ -4915,8 +4915,8 @@
     "ID": 293406329,
     "key": "Geists",
     "original": "Geists",
-    "translation": "盖斯特",
-    "stage": 1
+    "translation": "幽灵",
+    "stage": 5
   },
   {
     "ID": 293406330,
@@ -6318,8 +6318,8 @@
     "ID": 293406527,
     "key": "Anticipation",
     "original": "Anticipation",
-    "translation": "预期",
-    "stage": 1
+    "translation": "预判",
+    "stage": 5
   },
   {
     "ID": 293406528,
@@ -7242,7 +7242,7 @@
     "ID": 293406657,
     "key": "Overwhelm",
     "original": "Overwhelm",
-    "translation": "压倒",
+    "translation": "压制",
     "stage": 1
   },
   {
@@ -7280,15 +7280,15 @@
     "ID": 293406662,
     "key": "Veteran",
     "original": "Veteran",
-    "translation": "老将",
-    "stage": 1
+    "translation": "老兵",
+    "stage": 5
   },
   {
     "ID": 293406663,
     "key": "Mercenary",
     "original": "Mercenary",
     "translation": "雇佣兵",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406664,
@@ -7708,7 +7708,7 @@
     "ID": 293406722,
     "key": "Relentless",
     "original": "Relentless",
-    "translation": "狠",
+    "translation": "不懈",
     "stage": 1
   },
   {
@@ -7737,8 +7737,8 @@
     "ID": 293406726,
     "key": "Standard Bearer",
     "original": "Standard Bearer",
-    "translation": "标准持票人",
-    "stage": 1
+    "translation": "旗手",
+    "stage": 5
   },
   {
     "ID": 293406727,
@@ -8026,7 +8026,7 @@
     "key": "Dark Omen",
     "original": "Dark Omen",
     "translation": "黑暗预兆(Dark Omen)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406768,

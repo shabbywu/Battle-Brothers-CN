@@ -3,7 +3,7 @@
     "ID": 293420312,
     "key": "Rotation",
     "original": "Rotation",
-    "translation": "回转",
+    "translation": "换位",
     "stage": 1,
     "context": "this.m.Name = 'Rotation'"
   },

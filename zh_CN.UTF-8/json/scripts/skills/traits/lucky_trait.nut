@@ -11,8 +11,8 @@
     "ID": 293422595,
     "key": "the Lucky",
     "original": "the Lucky",
-    "translation": "幸运者(the Lucky)",
-    "stage": 1
+    "translation": "幸运星(the Lucky)",
+    "stage": 5
   },
   {
     "ID": 293422596,
