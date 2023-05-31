@@ -3,7 +3,7 @@
     "ID": 293417929,
     "key": "A neckguard of cured leather has been attached to this armor for additional protection.",
     "original": "A neckguard of cured leather has been attached to this armor for additional protection.",
-    "translation": "这件盔甲已经装上了皮革护颈，增加了额外的的防护。",
+    "translation": "这件盔甲已经装上了皮革护颈，增加了额外的防护。",
     "stage": 1,
     "context": "this.m.ArmorDescription = 'A neckguard of cured leather has been attached to this armor for additional protection.'"
   },

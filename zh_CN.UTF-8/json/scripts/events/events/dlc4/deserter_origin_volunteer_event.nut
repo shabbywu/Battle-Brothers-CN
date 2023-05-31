@@ -65,7 +65,7 @@
     "ID": 293414251,
     "key": "[img]gfx/ui/events/event_88.png[/img]{A pair of men looking disheveled and weary emerge from some bushes beside the road. They hold their hands up as if they'd come to surrender themselves.%SPEECH_ON%Are ye the %companyname%? We'd heard you were a band of",
     "original": "[img]gfx/ui/events/event_88.png[/img]{A pair of men looking disheveled and weary emerge from some bushes beside the road. They hold their hands up as if they'd come to surrender themselves.%SPEECH_ON%Are ye the %companyname%? We'd heard you were a band of deserters. And I don't mean that as an insult. We're runners, too, but we got nowhere else to go. Everywhere we turn there are bounty hunters and executioners. Let us fight for you. It ain't the fight that ever scared us, we swears by that.%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_88.png[/img]{两个看起来衣衫不整、疲倦的的人从路旁的一些树丛里冒了出来。 他们举起了他们的手，好像他们是过来投降的。%SPEECH_ON%你们是 %companyname%？我们已经听说了，你们是逃兵们组成的战团。 我这不是一种侮辱。 我们也是逃兵，但是我们无路可走了。 我们去的每一处都是赏金猎人和行刑者。 让我们为你而战吧。 战斗从来就吓不倒我们。%SPEECH_OFF%}",
+    "translation": "[img]gfx/ui/events/event_88.png[/img]{两个看起来衣衫不整、疲倦的人从路旁的一些树丛里冒了出来。 他们举起了他们的手，好像他们是过来投降的。%SPEECH_ON%你们是 %companyname%？我们已经听说了，你们是逃兵们组成的战团。 我这不是一种侮辱。 我们也是逃兵，但是我们无路可走了。 我们去的每一处都是赏金猎人和行刑者。 让我们为你而战吧。 战斗从来就吓不倒我们。%SPEECH_OFF%}",
     "stage": 1
   },
   {

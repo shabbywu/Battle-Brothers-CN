@@ -27,7 +27,7 @@
     "ID": 293420924,
     "key": "Daytaler",
     "original": "Daytaler",
-    "translation": "大特勒(Daytaler)",
+    "translation": "临时工(Daytaler)",
     "stage": 1,
     "context": "this.m.Name = 'Daytaler'"
   },

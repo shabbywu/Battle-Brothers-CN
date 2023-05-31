@@ -26,7 +26,7 @@
     "key": " now hates the undead",
     "original": " now hates the undead",
     "translation": "现在憎恨亡灵",
-    "stage": 1,
+    "stage": 5,
     "context": "_event.m.Casualty.getName() + ' now hates the undead'"
   }
 ]
