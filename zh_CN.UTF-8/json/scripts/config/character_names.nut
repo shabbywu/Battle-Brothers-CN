@@ -2586,8 +2586,8 @@
     "ID": 293404147,
     "key": "%randomname% the Hunter",
     "original": "%randomname% the Hunter",
-    "translation": "%randomname% 猎人",
-    "stage": 1
+    "translation": "猎人%randomname%",
+    "stage": 5
   },
   {
     "ID": 293404148,
@@ -6457,7 +6457,7 @@
     "ID": 293404700,
     "key": "the Chosen",
     "original": "the Chosen",
-    "translation": "天选者",
+    "translation": "神选者",
     "stage": 1
   },
   {
@@ -6590,8 +6590,8 @@
     "ID": 293404719,
     "key": "the Hunter",
     "original": "the Hunter",
-    "translation": "猎人",
-    "stage": 1
+    "translation": "猎人(the Hunter)",
+    "stage": 5
   },
   {
     "ID": 293404720,

@@ -3,8 +3,8 @@
     "ID": 293420921,
     "key": "Daytalers are used to all kinds of physical work, but don't excel in any.",
     "original": "Daytalers are used to all kinds of physical work, but don't excel in any.",
-    "translation": "临时工习惯于各种体力劳动，但是都也不算精通。",
-    "stage": 1,
+    "translation": "日结工习惯于各种体力劳动，但是都也不算精通。",
+    "stage": 5,
     "context": "this.m.BackgroundDescription = \"Daytalers are used to all kinds of physical work, but don't excel in any.\""
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293420924,
     "key": "Daytaler",
     "original": "Daytaler",
-    "translation": "临时工(Daytaler)",
-    "stage": 1,
+    "translation": "日结工",
+    "stage": 5,
     "context": "this.m.Name = 'Daytaler'"
   },
   {

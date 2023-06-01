@@ -4,7 +4,7 @@
     "key": "]-30%[/color] Ranged Skill",
     "original": "]-30%[/color] Ranged Skill",
     "translation": "]-30%[/color] 远程技能",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-30%[/color] Ranged Skill'"
   },
   {
@@ -88,7 +88,7 @@
     "key": "]-30%[/color] Ranged Defense",
     "original": "]-30%[/color] Ranged Defense",
     "translation": "]-30%[/color] 远程防御",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-30%[/color] Ranged Defense'"
   },
   {

@@ -4253,7 +4253,7 @@
     "key": "Animator's Hideout",
     "original": "Animator's Hideout",
     "translation": "复生者藏匿处",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407591,

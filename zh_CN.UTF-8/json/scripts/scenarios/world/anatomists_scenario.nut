@@ -27,8 +27,8 @@
     "ID": 293419644,
     "key": "Will never be of confident morale",
     "original": "Will never be of confident morale",
-    "translation": "永远不会达到自信的士气",
-    "stage": 1
+    "translation": "永远不会达到自信士气",
+    "stage": 5
   },
   {
     "ID": 293419645,

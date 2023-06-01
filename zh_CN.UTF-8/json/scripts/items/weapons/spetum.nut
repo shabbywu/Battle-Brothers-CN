@@ -3,7 +3,7 @@
     "ID": 293419436,
     "key": "Spear, Two-Handed",
     "original": "Spear, Two-Handed",
-    "translation": "长矛，双手持",
+    "translation": "矛，双手持",
     "stage": 5,
     "context": "this.m.Categories = 'Spear, Two-Handed'"
   },

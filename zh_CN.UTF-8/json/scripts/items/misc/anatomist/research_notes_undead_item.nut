@@ -68,8 +68,8 @@
     "ID": 293418596,
     "key": "Wiederganger",
     "original": "Wiederganger",
-    "translation": "复生者",
-    "stage": 1
+    "translation": "僵尸",
+    "stage": 5
   },
   {
     "ID": 293418597,

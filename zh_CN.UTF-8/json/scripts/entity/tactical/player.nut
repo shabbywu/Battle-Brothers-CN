@@ -122,8 +122,8 @@
     "ID": 293410459,
     "key": "Devoured by a Kraken",
     "original": "Devoured by a Kraken",
-    "translation": "被海妖吞噬了。",
-    "stage": 1,
+    "translation": "被克拉肯吞噬了。",
+    "stage": 5,
     "context": "killedBy = 'Devoured by a Kraken'"
   },
   {

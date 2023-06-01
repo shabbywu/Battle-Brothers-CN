@@ -108,8 +108,8 @@
     "ID": 293406872,
     "key": "Bows can not be fired and crossbows not be reloaded while engaged in melee.",
     "original": "Bows can not be fired and crossbows not be reloaded while engaged in melee.",
-    "translation": "在近战中不能发射弓，也不能重新装载弩。",
-    "stage": 1
+    "translation": "在近战中不能射击，也不能重新装载弩矢。",
+    "stage": 5
   },
   {
     "ID": 293406873,

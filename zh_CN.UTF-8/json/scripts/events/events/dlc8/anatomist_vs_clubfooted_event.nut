@@ -38,8 +38,8 @@
     "ID": 293415141,
     "key": " is no longer Clubfooted",
     "original": " is no longer Clubfooted",
-    "translation": "不再瘸足。",
-    "stage": 1,
+    "translation": "不再患有畸形足",
+    "stage": 5,
     "context": "_event.m.Clubfooted.getName() + ' is no longer Clubfooted'"
   },
   {
@@ -53,8 +53,8 @@
     "ID": 293415143,
     "key": "During camp...",
     "original": "During camp...",
-    "translation": "露营时…",
-    "stage": 1,
+    "translation": "露营时……",
+    "stage": 5,
     "context": "this.m.Title = 'During camp...'"
   },
   {

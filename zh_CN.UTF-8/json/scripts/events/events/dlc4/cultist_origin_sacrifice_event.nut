@@ -62,8 +62,8 @@
     "ID": 293414212,
     "key": "During camp...",
     "original": "During camp...",
-    "translation": "露营时…",
-    "stage": 1,
+    "translation": "露营时……",
+    "stage": 5,
     "context": "this.m.Title = 'During camp...'"
   },
   {
