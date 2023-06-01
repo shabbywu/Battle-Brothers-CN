@@ -3,7 +3,7 @@
     "ID": 293419240,
     "key": "Spear, One-Handed",
     "original": "Spear, One-Handed",
-    "translation": "短矛，单手持",
+    "translation": "矛，单手持",
     "stage": 5,
     "context": "this.m.Categories = 'Spear, One-Handed'"
   },

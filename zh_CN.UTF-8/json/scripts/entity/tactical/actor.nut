@@ -19,7 +19,7 @@
     "key": "'s ",
     "original": "'s ",
     "translation": "的",
-    "stage": 1,
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(this) + \"'s \" + this.Const.Strings.BodyPartName._hitInfo.BodyPart + ' is hit for [b]' + this.Math.floor(damage) + '[/b] damage'"
   },
   {
@@ -35,7 +35,7 @@
     "key": "[/b] damage",
     "original": "[/b] damage",
     "translation": "[/b] 伤害",
-    "stage": 1,
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(this) + \"'s armor is hit for [b]\" + this.Math.floor(_hitInfo.DamageArmor) + '[/b] damage'"
   },
   {
@@ -66,8 +66,8 @@
     "ID": 293410240,
     "key": "'s armor is hit for [b]",
     "original": "'s armor is hit for [b]",
-    "translation": "的盔甲被击中，受到[b]",
-    "stage": 1,
+    "translation": "的盔甲被击中，受到 [b]",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(this) + \"'s armor is hit for [b]\" + this.Math.floor(_hitInfo.DamageArmor) + '[/b] damage'"
   },
   {
@@ -176,15 +176,15 @@
     "key": "instance",
     "original": "instance",
     "translation": "instance",
-    "stage": 1,
+    "stage": 9,
     "context": "typeof _attacker == 'instance'"
   },
   {
     "ID": 293410255,
     "key": " is hit for [b]",
     "original": " is hit for [b]",
-    "translation": "被击中 [b]",
-    "stage": 1,
+    "translation": "被击中，受到 [b]",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(this) + \"'s \" + this.Const.Strings.BodyPartName._hitInfo.BodyPart + ' is hit for [b]' + this.Math.floor(damage) + '[/b] damage'"
   },
   {

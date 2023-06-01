@@ -11,16 +11,16 @@
     "ID": 293419720,
     "key": "A daytaler and common laborer, %name% would rather join your outfit than go back to wasting his body building some nobleman's new fancy foyer.",
     "original": "A daytaler and common laborer, %name% would rather join your outfit than go back to wasting his body building some nobleman's new fancy foyer.",
-    "translation": "作为一个临时工和普通工人，%name% 宁愿加入你的队伍，也不愿再浪费体力去建造贵族的新门厅。",
-    "stage": 1,
+    "translation": "作为一个日结工和普通工人，%name%宁愿加入你的队伍也不愿回去耗费他的身体去建造某个贵族的新豪华门厅。",
+    "stage": 5,
     "context": "bros.4.getBackground().m.RawDescription = \"A daytaler and common laborer, %name% would rather join your outfit than go back to wasting his body building some nobleman's new fancy foyer.\""
   },
   {
     "ID": 293419721,
     "key": "Daytaler, laborer, caravan hand, sailor, militiaman, %name%'s done a bit of it all. Hopefully this new foray into mercenary work will stick for him.",
     "original": "Daytaler, laborer, caravan hand, sailor, militiaman, %name%'s done a bit of it all. Hopefully this new foray into mercenary work will stick for him.",
-    "translation": "临时工，工人，商队成员，水手，民兵，%name% 都做过一点。 希望这种新的佣兵工作的尝试能持续下去。",
-    "stage": 1,
+    "translation": "日结工、工人、商队护卫、水手、民兵，%name%都做过一段时间。希望这次对雇佣兵工作的新尝试能让他坚持下去。",
+    "stage": 5,
     "context": "bros.9.getBackground().m.RawDescription = \"Daytaler, laborer, caravan hand, sailor, militiaman, %name%'s done a bit of it all. Hopefully this new foray into mercenary work will stick for him.\""
   },
   {

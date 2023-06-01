@@ -425,7 +425,7 @@
     "ID": 293407822,
     "key": "Enter the arena again to start the fight against one unhold",
     "original": "Enter the arena again to start the fight against one unhold",
-    "translation": "重新进入竞技场与一只巨怪战斗。",
+    "translation": "重新进入竞技场与一只巨魔战斗。",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against one unhold'"
   },
@@ -509,7 +509,7 @@
     "ID": 293407833,
     "key": "Enter the arena again to start the fight against %amount% unholds",
     "original": "Enter the arena again to start the fight against %amount% unholds",
-    "translation": "再次进入竞技场，开始对抗 %amount% 只不屈兽。",
+    "translation": "再次进入竞技场，开始对抗 %amount% 只巨魔。",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against %amount% unholds'"
   }

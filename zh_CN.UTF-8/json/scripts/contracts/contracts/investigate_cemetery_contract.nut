@@ -3,15 +3,15 @@
     "ID": 293409345,
     "key": "After the battle...",
     "original": "After the battle...",
-    "translation": "战斗之后…",
-    "stage": 1
+    "translation": "战斗之后……",
+    "stage": 5
   },
   {
     "ID": 293409346,
     "key": "Let's talk money.",
     "original": "Let's talk money.",
     "translation": "我们来谈谈价钱。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293409347,
@@ -40,14 +40,14 @@
     "key": "Secured the cemetery",
     "original": "Secured the cemetery",
     "translation": "保护了墓地",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293409351,
     "key": "Negotiations",
     "original": "Negotiations",
     "translation": "谈判",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293409352,
@@ -97,7 +97,7 @@
     "key": "Secure Cemetery",
     "original": "Secure Cemetery",
     "translation": "保护墓地",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Secure Cemetery'"
   },
   {
@@ -105,15 +105,15 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
     "ID": 293409360,
     "key": "map",
     "original": "map",
-    "translation": "地图(map)",
-    "stage": 1
+    "translation": "地图",
+    "stage": 5
   },
   {
     "ID": 293409361,
@@ -127,7 +127,7 @@
     "key": "undead",
     "original": "undead",
     "translation": "不死族",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293409363,
@@ -198,7 +198,7 @@
     "key": "To arms!",
     "original": "To arms!",
     "translation": "拿起武器！",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293409373,
@@ -226,14 +226,14 @@
     "key": "Not interested.",
     "original": "Not interested.",
     "translation": "不感兴趣。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293409377,
     "key": "Secure ",
     "original": "Secure ",
     "translation": "保护",
-    "stage": 1,
+    "stage": 5,
     "context": "'Secure ' + this.Flags.get('DestinationName')"
   },
   {
@@ -248,7 +248,7 @@
     "key": "graverobbers",
     "original": "graverobbers",
     "translation": "盗墓贼",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293409380,
@@ -261,8 +261,8 @@
     "ID": 293409381,
     "key": "ghouls",
     "original": "ghouls",
-    "translation": "食尸鬼(ghouls)",
-    "stage": 1
+    "translation": "食尸鬼",
+    "stage": 5
   },
   {
     "ID": 293409382,

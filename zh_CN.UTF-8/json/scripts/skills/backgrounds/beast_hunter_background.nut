@@ -33,8 +33,8 @@
     "ID": 293420807,
     "key": "the Hunter",
     "original": "the Hunter",
-    "translation": "猎人",
-    "stage": 1
+    "translation": "猎人(the Hunter)",
+    "stage": 5
   },
   {
     "ID": 293420808,
@@ -71,8 +71,8 @@
     "ID": 293420812,
     "key": "Woodstalker",
     "original": "Woodstalker",
-    "translation": "木林行者(Woodstalker)",
-    "stage": 1
+    "translation": "森林潜行者(Woodstalker)",
+    "stage": 5
   },
   {
     "ID": 293420813,

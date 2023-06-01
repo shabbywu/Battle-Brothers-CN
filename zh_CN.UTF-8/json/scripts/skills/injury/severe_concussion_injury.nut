@@ -36,7 +36,7 @@
     "key": "]-2[/color] Vision",
     "original": "]-2[/color] Vision",
     "translation": "]-2[/color] 视野",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-2[/color] Vision'"
   },
   {

@@ -1340,8 +1340,8 @@
     "ID": 293405825,
     "key": "Armored Wiedergangers",
     "original": "Armored Wiedergangers",
-    "translation": "装甲复生者",
-    "stage": 1
+    "translation": "装甲僵尸",
+    "stage": 5
   },
   {
     "ID": 293405826,
@@ -1922,8 +1922,8 @@
     "ID": 293405907,
     "key": "Barbarian Chosen",
     "original": "Barbarian Chosen",
-    "translation": "天选之野蛮人",
-    "stage": 1
+    "translation": "野蛮人神选者",
+    "stage": 5
   },
   {
     "ID": 293405908,
@@ -2319,8 +2319,8 @@
     "ID": 293405963,
     "key": "The Ijirok",
     "original": "The Ijirok",
-    "translation": "伊次洛克",
-    "stage": 1
+    "translation": "伊吉洛克",
+    "stage": 5
   },
   {
     "ID": 293405964,
@@ -2788,8 +2788,8 @@
     "ID": 293406029,
     "key": "Necrosavants",
     "original": "Necrosavants",
-    "translation": "死灵学者（吸血鬼）",
-    "stage": 1
+    "translation": "吸血鬼",
+    "stage": 5
   },
   {
     "ID": 293406030,
@@ -2802,8 +2802,8 @@
     "ID": 293406031,
     "key": "Fearsome",
     "original": "Fearsome",
-    "translation": "可怕的",
-    "stage": 1
+    "translation": "恐惧",
+    "stage": 5
   },
   {
     "ID": 293406032,
@@ -4133,8 +4133,8 @@
     "ID": 293406219,
     "key": "Armored Wiederganger",
     "original": "Armored Wiederganger",
-    "translation": "装甲复生者",
-    "stage": 1
+    "translation": "装甲僵尸",
+    "stage": 5
   },
   {
     "ID": 293406220,
@@ -4447,7 +4447,7 @@
     "key": "Billmen",
     "original": "Billmen",
     "translation": "钩镰兵",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406264,
@@ -4809,8 +4809,8 @@
     "ID": 293406314,
     "key": "Crippling Strikes",
     "original": "Crippling Strikes",
-    "translation": "致命打击",
-    "stage": 1
+    "translation": "致残打击",
+    "stage": 5
   },
   {
     "ID": 293406315,
@@ -4950,8 +4950,8 @@
     "ID": 293406334,
     "key": "Nimble",
     "original": "Nimble",
-    "translation": "敏捷",
-    "stage": 1
+    "translation": "轻灵",
+    "stage": 5
   },
   {
     "ID": 293406335,
@@ -5274,8 +5274,8 @@
     "ID": 293406380,
     "key": "A Kraken",
     "original": "A Kraken",
-    "translation": "海妖",
-    "stage": 1
+    "translation": "克拉肯",
+    "stage": 5
   },
   {
     "ID": 293406381,
@@ -5635,8 +5635,8 @@
     "ID": 293406431,
     "key": "Wiederganger",
     "original": "Wiederganger",
-    "translation": "复生者",
-    "stage": 1
+    "translation": "僵尸",
+    "stage": 5
   },
   {
     "ID": 293406432,
@@ -6376,8 +6376,8 @@
     "ID": 293406535,
     "key": "Killing Frenzy",
     "original": "Killing Frenzy",
-    "translation": "杀戮狂潮",
-    "stage": 1
+    "translation": "杀戮",
+    "stage": 5
   },
   {
     "ID": 293406536,
@@ -6481,8 +6481,8 @@
     "ID": 293406550,
     "key": "Kraken",
     "original": "Kraken",
-    "translation": "海妖",
-    "stage": 1
+    "translation": "克拉肯(Kraken)",
+    "stage": 5
   },
   {
     "ID": 293406551,
@@ -6566,7 +6566,7 @@
     "ID": 293406562,
     "key": "Sword Mastery",
     "original": "Sword Mastery",
-    "translation": "剑术",
+    "translation": "剑术精通",
     "stage": 1
   },
   {
@@ -6980,8 +6980,8 @@
     "ID": 293406620,
     "key": "Wiedergangers",
     "original": "Wiedergangers",
-    "translation": "复生者",
-    "stage": 1
+    "translation": "僵尸",
+    "stage": 5
   },
   {
     "ID": 293406621,
@@ -7666,8 +7666,8 @@
     "ID": 293406716,
     "key": "Fortified Mind",
     "original": "Fortified Mind",
-    "translation": "强化心灵",
-    "stage": 1
+    "translation": "强化思想",
+    "stage": 5
   },
   {
     "ID": 293406717,
@@ -8387,8 +8387,8 @@
     "ID": 293406818,
     "key": "Kraken's Refuge",
     "original": "Kraken's Refuge",
-    "translation": "海妖的避难所(Kraken's Refuge)",
-    "stage": 1
+    "translation": "克拉肯的避难所(Kraken's Refuge)",
+    "stage": 5
   },
   {
     "ID": 293406819,

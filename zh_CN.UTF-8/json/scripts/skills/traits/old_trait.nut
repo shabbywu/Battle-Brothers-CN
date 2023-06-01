@@ -4,7 +4,7 @@
     "key": "Is always content with being in reserve",
     "original": "Is always content with being in reserve",
     "translation": "长期处于后备队不会不满意",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422690,

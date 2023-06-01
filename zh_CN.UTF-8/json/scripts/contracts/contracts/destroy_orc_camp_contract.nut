@@ -171,7 +171,7 @@
     "key": "To Arms!",
     "original": "To Arms!",
     "translation": "拿起武器！",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408574,

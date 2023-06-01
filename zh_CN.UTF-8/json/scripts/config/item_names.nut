@@ -2418,8 +2418,8 @@
     "ID": 293405214,
     "key": "Warbrand",
     "original": "Warbrand",
-    "translation": "弯刀",
-    "stage": 1
+    "translation": "布兰德战刃",
+    "stage": 5
   },
   {
     "ID": 293405215,

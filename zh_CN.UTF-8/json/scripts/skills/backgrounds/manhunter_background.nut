@@ -61,8 +61,8 @@
     "ID": 293421090,
     "key": "the Hunter",
     "original": "the Hunter",
-    "translation": "猎人",
-    "stage": 1
+    "translation": "猎人(the Hunter)",
+    "stage": 5
   },
   {
     "ID": 293421091,

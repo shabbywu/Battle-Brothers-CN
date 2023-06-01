@@ -34,8 +34,8 @@
     "ID": 293419777,
     "key": "A daytaler, mason, miller, %name% had done it all, passing from task to task with no dallying in making a one of them a true vocation. You weren't sure if he was long to stay as a caravan hand either, but when asked to turn to mercenary work he had no pro",
     "original": "A daytaler, mason, miller, %name% had done it all, passing from task to task with no dallying in making a one of them a true vocation. You weren't sure if he was long to stay as a caravan hand either, but when asked to turn to mercenary work he had no problem agreeing to that...",
-    "translation": "临时工，石匠，碾磨工，%name% 都做过了，一个任务一个任务地做，毫不拖延地把他们中的一个当作真正的职业。 你也不确定他是否愿意长期做一名商队队员，但当被要求从事佣兵工作时，他毫无疑问地同意了这一点…",
-    "stage": 1,
+    "translation": "日结工、石匠、碾磨工，%name%都干过了，从一个工作转到另一个工作，毫不拖延地把他们中的一个当作真正的职业。你也不确定他是否愿意长期做一名商队护卫，但当他被要求转做雇佣兵时，他毫不犹豫地同意了……",
+    "stage": 5,
     "context": "bros.0.getBackground().m.RawDescription = \"A daytaler, mason, miller, %name% had done it all, passing from task to task with no dallying in making a one of them a true vocation. You weren't sure if he was long to stay as a caravan hand either, but when asked to turn to mercenary work he had no problem agreeing to that...\""
   }
 ]

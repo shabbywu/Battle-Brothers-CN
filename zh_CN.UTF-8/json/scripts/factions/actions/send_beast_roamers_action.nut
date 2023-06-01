@@ -17,7 +17,7 @@
     "ID": 293417338,
     "key": "Kraken",
     "original": "Kraken",
-    "translation": "海妖(Kraken)",
+    "translation": "克拉肯(Kraken)",
     "stage": 1
   },
   {

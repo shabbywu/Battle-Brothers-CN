@@ -39,7 +39,7 @@
     "key": "To arms!",
     "original": "To arms!",
     "translation": "拿起武器！",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408751,
@@ -583,8 +583,8 @@
     "ID": 293408826,
     "key": "During camp...",
     "original": "During camp...",
-    "translation": "露营时…",
-    "stage": 1
+    "translation": "露营时……",
+    "stage": 5
   },
   {
     "ID": 293408827,

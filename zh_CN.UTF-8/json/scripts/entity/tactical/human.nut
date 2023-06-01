@@ -3,8 +3,8 @@
     "ID": 293410308,
     "key": "Wiederganger ",
     "original": "Wiederganger ",
-    "translation": "复生者",
-    "stage": 1,
+    "translation": "僵尸",
+    "stage": 5,
     "context": "corpse.Name = 'Wiederganger ' + this.getName()"
   },
   {
