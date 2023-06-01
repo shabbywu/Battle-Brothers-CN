@@ -143,8 +143,8 @@
     "ID": 293403798,
     "key": "%randomsouthernname% the Exiled",
     "original": "%randomsouthernname% the Exiled",
-    "translation": "流放者·%randomsouthernname%",
-    "stage": 1
+    "translation": "流放者%randomsouthernname%",
+    "stage": 5
   },
   {
     "ID": 293403799,
@@ -2460,8 +2460,8 @@
     "ID": 293404129,
     "key": "the Exiled",
     "original": "the Exiled",
-    "translation": "流放者",
-    "stage": 1
+    "translation": "流放者(the Exiled)",
+    "stage": 5
   },
   {
     "ID": 293404130,
@@ -6191,8 +6191,8 @@
     "ID": 293404662,
     "key": "The Exiled",
     "original": "The Exiled",
-    "translation": "流放者",
-    "stage": 1
+    "translation": "流放者(the Exiled)",
+    "stage": 5
   },
   {
     "ID": 293404663,
