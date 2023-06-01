@@ -1178,14 +1178,14 @@
         "total": 967,
         "translated": 967,
         "disputed": 0,
-        "checked": 14,
-        "reviewed": 14,
+        "checked": 17,
+        "reviewed": 17,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.288Z",
         "updatedAt": "2023-05-17T14:20:14.948Z",
-        "modifiedAt": "2023-05-31T02:35:20Z",
-        "sha256": "099c69e00cd8b6dc7c5fe1b78d0d2f42aa4acc05d1807e97ee9f6150d36fccf7"
+        "modifiedAt": "2023-06-01T03:09:18Z",
+        "sha256": "fe96e2a44f59159f3544a291dd6fd19aff8fc861504438f62ddbc27ef334464a"
     },
     "scripts/config/credits.json": {
         "id": 918414,
@@ -2742,16 +2742,16 @@
         "filename": "",
         "format": "json",
         "total": 1,
-        "translated": 1,
+        "translated": 0,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
-        "hidden": 0,
+        "hidden": 1,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:21.226Z",
         "updatedAt": "2023-05-17T14:21:29.919Z",
-        "modifiedAt": "2023-05-17T14:21:30Z",
-        "sha256": "cb6d4125c9ff5e6e45e7b5a4760045ec780b386bc5a9e720264d5e03b275302a"
+        "modifiedAt": "2023-06-01T04:34:10Z",
+        "sha256": "3ef3c72a2a84637033909933e77343c55e92a59deef26fa773211da74bf59c58"
     },
     "scripts/entity/tactical/enemies/sand_golem.json": {
         "id": 918501,
@@ -11660,8 +11660,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:35.471Z",
         "updatedAt": "2023-05-17T14:25:43.808Z",
-        "modifiedAt": "2023-05-17T14:25:44Z",
-        "sha256": "221a05239626ca34a77b14a18ee83d3ea7d9503284b0f3168c350be1ac3168f7"
+        "modifiedAt": "2023-06-01T04:14:39Z",
+        "sha256": "356ec154210dfeefe8864a04e4376a1ca87285e2d3db5ff90dd197835155fd1e"
     },
     "scripts/events/events/dlc6/location/vulcano_enter_event.json": {
         "id": 918996,
@@ -32612,8 +32612,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:15.979Z",
         "updatedAt": "2023-05-13T14:30:15.979Z",
-        "modifiedAt": "2023-05-28T13:38:51Z",
-        "sha256": "713aa73dd72d8deb4f37e474ac0e328a5d2af3c2a4023a3a2d7bb8b7756edd8f"
+        "modifiedAt": "2023-06-01T02:38:25Z",
+        "sha256": "8f3fbb10c2dfbe208b368d685c60855e04ebcdfc67d62cba796b41dc2ecf94be"
     },
     "scripts/skills/backgrounds/beggar_southern_background.json": {
         "id": 920160,
@@ -32624,14 +32624,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:16.496Z",
         "updatedAt": "2023-05-13T14:30:16.496Z",
-        "modifiedAt": "2023-05-13T14:30:17.313Z",
-        "sha256": "f7e141c3cb5cb94b7bb736dd105129d0f9be90b0a8658e0dd40b34d05b608441"
+        "modifiedAt": "2023-06-01T02:39:28Z",
+        "sha256": "be402a72d6cb436691c7c273ecda4a9b40af8cd9e6c5ee36c8f713c86bc328ac"
     },
     "scripts/skills/backgrounds/belly_dancer_background.json": {
         "id": 920161,
@@ -32948,14 +32948,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:32.852Z",
         "updatedAt": "2023-05-26T04:50:40.34Z",
-        "modifiedAt": "2023-06-01T00:40:04Z",
-        "sha256": "e4fa7f1384365790cf887cca90f52264c3c02840ab0f66b53fb8bf94245129bf"
+        "modifiedAt": "2023-06-01T02:19:43Z",
+        "sha256": "43a7699f2349a73a30baa0702065020a5c3ff7a8947d04dcd64bfe1154eb19b5"
     },
     "scripts/skills/backgrounds/daytaler_southern_background.json": {
         "id": 920179,
@@ -32966,14 +32966,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:33.224Z",
         "updatedAt": "2023-05-26T04:50:40.413Z",
-        "modifiedAt": "2023-05-26T04:50:40Z",
-        "sha256": "1edaae54c665303510fa794f012f7efd67a34909bd6f498c855bd9f2aef4a043"
+        "modifiedAt": "2023-06-01T02:20:15Z",
+        "sha256": "11666ccb1352327d003c29011c247807085dc6e4cbbc89daf80817a04fdacbd3"
     },
     "scripts/skills/backgrounds/deserter_background.json": {
         "id": 920180,
@@ -33002,14 +33002,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:33.965Z",
         "updatedAt": "2023-05-13T14:30:33.965Z",
-        "modifiedAt": "2023-05-27T05:32:57Z",
-        "sha256": "e78c5f84d1b1ce0ee63241fce76f576cb60f376caf3deb93ff3a385de1a1d0cd"
+        "modifiedAt": "2023-06-01T03:21:48Z",
+        "sha256": "bb6a47e585b512ad61702e5f26e8203e8af8044be0f23cbc8d9a80467173fa80"
     },
     "scripts/skills/backgrounds/eunuch_background.json": {
         "id": 920182,

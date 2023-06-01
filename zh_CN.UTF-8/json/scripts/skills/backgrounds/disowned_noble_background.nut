@@ -19,45 +19,45 @@
     "ID": 293420941,
     "key": "the Disowned",
     "original": "the Disowned",
-    "translation": "被遗弃者(the Disowned)",
-    "stage": 1
+    "translation": "被断绝关系者(the Disowned)",
+    "stage": 5
   },
   {
     "ID": 293420942,
     "key": "the Exiled",
     "original": "the Exiled",
-    "translation": "流放者",
-    "stage": 1
+    "translation": "流放者(the Exiled)",
+    "stage": 5
   },
   {
     "ID": 293420943,
     "key": "the Disgraced",
     "original": "the Disgraced",
-    "translation": "被流放者(the Disgraced)",
-    "stage": 1
+    "translation": "遭贬谪者(the Disgraced)",
+    "stage": 5
   },
   {
     "ID": 293420944,
     "key": "Disowned nobles often have profited from some training in melee fighting at court.",
     "original": "Disowned nobles often have profited from some training in melee fighting at court.",
-    "translation": "没落的贵族往往从宫廷里的近身格斗训练中受益颇多。",
-    "stage": 1,
+    "translation": "被断绝关系的贵族通常会从宫廷里的近身格斗训练中受益颇多。",
+    "stage": 5,
     "context": "this.m.BackgroundDescription = 'Disowned nobles often have profited from some training in melee fighting at court.'"
   },
   {
     "ID": 293420945,
     "key": "A man of nobility at heart, %name% the disowned noble returned to his family home. Word has it an usurper arrested him at the gates. His head currently rests on a pike with crows for a crown.",
     "original": "A man of nobility at heart, %name% the disowned noble returned to his family home. Word has it an usurper arrested him at the gates. His head currently rests on a pike with crows for a crown.",
-    "translation": "%name%是个有贵族情怀的人，即使被家族抛弃仍然发誓要回到家族。有传言称，一个篡位者将他在城门口捕获，他的头目前镶嵌在一根长枪上，成为了乌鸦头上的皇冠。",
-    "stage": 1,
+    "translation": "%name%是个有贵族情怀的人，虽被断绝关系还是回到了家族。有传言称，一个篡位者将他在城门口捕获，他的头目前镶嵌在一根长枪上，成为了乌鸦头上的皇冠。",
+    "stage": 5,
     "context": "this.m.BadEnding = 'A man of nobility at heart, %name% the disowned noble returned to his family home. Word has it an usurper arrested him at the gates. His head currently rests on a pike with crows for a crown.'"
   },
   {
     "ID": 293420946,
     "key": "Disowned Noble",
     "original": "Disowned Noble",
-    "translation": "被遗弃的贵族(Disowned Noble)",
-    "stage": 1,
+    "translation": "被断绝关系的贵族",
+    "stage": 5,
     "context": "this.m.Name = 'Disowned Noble'"
   }
 ]
