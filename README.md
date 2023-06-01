@@ -2,7 +2,7 @@ Battle Brothers(战场兄弟)中文翻译项目
 ==========================================
 
 <a href="https://paratranz.cn/projects/7032">
-<img src="http://battle-brothers-cn.shabbywu.cn/widgets/Battle-Brothers-CN/zh_Hans/open-graph.png" alt="翻译状态" />
+<img src="https://static.paratranz.cn/media/cd18e5c603bdaff23ad9a7e55935fc66" alt="翻译状态" />
 </a>
 
 重要说明
