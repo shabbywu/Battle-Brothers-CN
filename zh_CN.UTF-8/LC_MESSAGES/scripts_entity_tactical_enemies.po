@@ -95,10 +95,6 @@ msgstr "一个兽人战士(Orc Warrior)"
 msgid "A Young Orc"
 msgstr "一个年轻的兽人(A Young Orc)"
 
-# scripts/entity/tactical/enemies/phylactery.nut
-msgid "phylactery"
-msgstr "魂器(phylactery)"
-
 # scripts/entity/tactical/enemies/schrat.nut
 msgid "A Schrat"
 msgstr "一个树妖(Schrat)"
