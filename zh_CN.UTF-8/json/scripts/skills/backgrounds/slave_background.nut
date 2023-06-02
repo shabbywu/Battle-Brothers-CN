@@ -38,8 +38,8 @@
     "ID": 293421281,
     "key": "the Pale",
     "original": "the Pale",
-    "translation": "苍白之地(the Pale)",
-    "stage": 1
+    "translation": "苍白者(the Pale)",
+    "stage": 5
   },
   {
     "ID": 293421282,

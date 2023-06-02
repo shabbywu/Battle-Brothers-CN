@@ -4189,8 +4189,8 @@
     "ID": 293406227,
     "key": "Caravan Hand",
     "original": "Caravan Hand",
-    "translation": "商队护卫",
-    "stage": 1
+    "translation": "商队队员",
+    "stage": 5
   },
   {
     "ID": 293406228,
@@ -5558,8 +5558,8 @@
     "ID": 293406420,
     "key": "Caravan Hands",
     "original": "Caravan Hands",
-    "translation": "商队护卫们",
-    "stage": 1
+    "translation": "商队队员",
+    "stage": 5
   },
   {
     "ID": 293406421,
