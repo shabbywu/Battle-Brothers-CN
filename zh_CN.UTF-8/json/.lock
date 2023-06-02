@@ -1304,14 +1304,14 @@
         "total": 1216,
         "translated": 1216,
         "disputed": 0,
-        "checked": 40,
-        "reviewed": 40,
+        "checked": 42,
+        "reviewed": 42,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-05-17T14:20:25.132Z",
-        "modifiedAt": "2023-05-31T08:01:14Z",
-        "sha256": "7df8ec8202aa4375b6cf0bb212e887170faaa9c24eb05e96e5d4e627f7dd58ed"
+        "modifiedAt": "2023-06-01T07:05:17Z",
+        "sha256": "cd6744a93bd521a293aecda689fb482faed79ba3a974b486686febac4039b956"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -29264,8 +29264,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:51.925Z",
         "updatedAt": "2023-05-17T15:33:44.018Z",
-        "modifiedAt": "2023-06-01T00:45:34Z",
-        "sha256": "2bd782916692ce31f66661d44ea3d75214592120125726c659ddee95377490f4"
+        "modifiedAt": "2023-06-01T07:05:46Z",
+        "sha256": "ad83b2786f1ae18e6847182a24bd2adc22c064a4c06c4b4afda188bb0e350282"
     },
     "scripts/scenarios/world/paladins_scenario.json": {
         "id": 919974,
@@ -29372,8 +29372,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:54.563Z",
         "updatedAt": "2023-05-17T15:33:45.792Z",
-        "modifiedAt": "2023-06-01T00:47:08Z",
-        "sha256": "dde8213e8e6a13d00f196fb25e76562b22ed50ba5b8948c96e804ff4ce778d21"
+        "modifiedAt": "2023-06-01T07:06:00Z",
+        "sha256": "20b5cecd58c3987c3e3b9de236c45ee6ea116094e382648a0ad43f318238478e"
     },
     "scripts/scenarios/world/tutorial_scenario.json": {
         "id": 919980,
@@ -32732,14 +32732,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:26.889Z",
         "updatedAt": "2023-05-13T14:30:26.889Z",
-        "modifiedAt": "2023-05-27T05:26:59Z",
-        "sha256": "bdf9547cd1d4c3c093368bebf530fab61d206a0ba33eb8fd1737111fa9b63eb9"
+        "modifiedAt": "2023-06-02T00:40:48Z",
+        "sha256": "0d42c0e334d37a9d1ad78ef414ca7c35f33e5c7f27433e3a3d2a4a24e0350c10"
     },
     "scripts/skills/backgrounds/caravan_hand_southern_background.json": {
         "id": 920167,
@@ -32750,14 +32750,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:28.408Z",
         "updatedAt": "2023-05-13T14:30:28.408Z",
-        "modifiedAt": "2023-05-13T14:30:28.423Z",
-        "sha256": "ba5fa727bcc810c219c9ac40de414ae5691299e3dd91dd9525ca9b1fa4896eb4"
+        "modifiedAt": "2023-06-02T00:40:54Z",
+        "sha256": "7f090c2d4e449faef1bc08a9f2600bf5c1768789cdee652684c2c9aba0adf1a7"
     },
     "scripts/skills/backgrounds/character_background.json": {
         "id": 920168,
@@ -33002,14 +33002,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 8,
+        "reviewed": 8,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:33.965Z",
         "updatedAt": "2023-05-13T14:30:33.965Z",
-        "modifiedAt": "2023-06-01T03:21:48Z",
-        "sha256": "bb6a47e585b512ad61702e5f26e8203e8af8044be0f23cbc8d9a80467173fa80"
+        "modifiedAt": "2023-06-01T06:46:39Z",
+        "sha256": "db2b33bca68b2a11141ef9e73489a904f8e18a51faae234f1cdec69b3dd700f5"
     },
     "scripts/skills/backgrounds/eunuch_background.json": {
         "id": 920182,
@@ -33884,14 +33884,14 @@
         "total": 19,
         "translated": 19,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:52.979Z",
         "updatedAt": "2023-05-13T14:30:52.979Z",
-        "modifiedAt": "2023-05-31T13:17:06Z",
-        "sha256": "165a7bed835172e51cd648dfced9e88ffec983a49cfa49adb02d7a995b6c5b6a"
+        "modifiedAt": "2023-06-02T00:56:28Z",
+        "sha256": "fac905e8a601be49d53f5ba695bfa9f1b09eba8d3d8859435383b9847c7b14f3"
     },
     "scripts/skills/backgrounds/slave_barbarian_background.json": {
         "id": 920231,
@@ -33902,14 +33902,14 @@
         "total": 13,
         "translated": 13,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:53.314Z",
         "updatedAt": "2023-05-13T14:30:53.314Z",
-        "modifiedAt": "2023-05-13T14:30:53.327Z",
-        "sha256": "c62cb530884c1264f4dd015f89200a43410d309df29363da62f024be1eda79ff"
+        "modifiedAt": "2023-06-02T00:56:29Z",
+        "sha256": "9acbf7f95c2e6530873cd32dd538993b37085024ebb44682b584aa23e266cecf"
     },
     "scripts/skills/backgrounds/slave_southern_background.json": {
         "id": 920232,
@@ -37628,14 +37628,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 7,
+        "reviewed": 7,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:30.045Z",
         "updatedAt": "2023-05-13T14:32:30.045Z",
-        "modifiedAt": "2023-05-13T14:32:30.064Z",
-        "sha256": "eb8843682e20ad6689fb751ebbbe38cbcea9cf1519e239d99f143f2d10b84f1c"
+        "modifiedAt": "2023-06-02T00:56:55Z",
+        "sha256": "8e5426907bb29ebb7572f5e65791ae9559803ca01fe9e1b14122d005fad6a2cf"
     },
     "scripts/skills/traits/arena_fighter_trait.json": {
         "id": 920439,
@@ -38204,14 +38204,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:41.488Z",
         "updatedAt": "2023-05-13T14:32:41.488Z",
-        "modifiedAt": "2023-05-13T14:32:41.53Z",
-        "sha256": "fe9ff58b807d3ef204a4db6e1cf62a97c8da2ea9bcaee419b478da25cec7e40d"
+        "modifiedAt": "2023-06-02T00:46:26Z",
+        "sha256": "42dd3cfc98d059fe98a4ef6de90a62f7990d0db889cb07744094f801808143a6"
     },
     "scripts/skills/traits/fear_undead_trait.json": {
         "id": 920471,
@@ -38222,14 +38222,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:41.85Z",
         "updatedAt": "2023-05-13T14:32:41.85Z",
-        "modifiedAt": "2023-05-13T14:32:41.862Z",
-        "sha256": "cf6493d1a480d3ed7a35e036643b20440a6cf3902bad6a143d8f68d0e5e35003"
+        "modifiedAt": "2023-06-02T00:46:19Z",
+        "sha256": "ca3c6925ffaa60e2009f04ff1f68696f5a5abc6e904b3bf3386bd7d7deec03d4"
     },
     "scripts/skills/traits/fearless_trait.json": {
         "id": 920472,
@@ -38600,14 +38600,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:51.323Z",
         "updatedAt": "2023-05-13T14:32:51.323Z",
-        "modifiedAt": "2023-05-13T14:32:51.337Z",
-        "sha256": "bdd4bdb68aa4c6b6d099436cc3a8905169378cf34262eb6a4cd085133afcedc4"
+        "modifiedAt": "2023-06-02T00:45:41Z",
+        "sha256": "a4645920322b9809dc8d5f8e5f312938ce0f8a31249059f08e2b0b17eb87ff90"
     },
     "scripts/skills/traits/night_owl_trait.json": {
         "id": 920493,

@@ -19,7 +19,7 @@
     "ID": 293419721,
     "key": "Daytaler, laborer, caravan hand, sailor, militiaman, %name%'s done a bit of it all. Hopefully this new foray into mercenary work will stick for him.",
     "original": "Daytaler, laborer, caravan hand, sailor, militiaman, %name%'s done a bit of it all. Hopefully this new foray into mercenary work will stick for him.",
-    "translation": "日结工、工人、商队护卫、水手、民兵，%name%都做过一段时间。希望这次对雇佣兵工作的新尝试能让他坚持下去。",
+    "translation": "日结工、工人、商队队员、水手、民兵，%name%都做过一段时间。希望这次对雇佣兵工作的新尝试能让他坚持下去。",
     "stage": 5,
     "context": "bros.9.getBackground().m.RawDescription = \"Daytaler, laborer, caravan hand, sailor, militiaman, %name%'s done a bit of it all. Hopefully this new foray into mercenary work will stick for him.\""
   },
