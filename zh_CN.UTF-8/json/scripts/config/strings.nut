@@ -650,7 +650,7 @@
     "ID": 293405728,
     "key": "Shield Expert",
     "original": "Shield Expert",
-    "translation": "护盾专家",
+    "translation": "盾牌专家",
     "stage": 1
   },
   {
@@ -686,7 +686,7 @@
     "ID": 293405733,
     "key": "Brigand Raiders",
     "original": "Brigand Raiders",
-    "translation": "强盗袭击手",
+    "translation": "强盗掠夺者",
     "stage": 1
   },
   {
@@ -2470,7 +2470,7 @@
     "ID": 293405984,
     "key": "Brigand Raider",
     "original": "Brigand Raider",
-    "translation": "强盗袭击者",
+    "translation": "强盗掠夺者",
     "stage": 1
   },
   {
@@ -2788,7 +2788,7 @@
     "ID": 293406029,
     "key": "Necrosavants",
     "original": "Necrosavants",
-    "translation": "吸血鬼",
+    "translation": "死灵学者",
     "stage": 5
   },
   {
@@ -3543,8 +3543,8 @@
     "ID": 293406136,
     "key": "Nomad Outlaws",
     "original": "Nomad Outlaws",
-    "translation": "游牧不法之徒",
-    "stage": 1
+    "translation": "游牧亡命徒",
+    "stage": 5
   },
   {
     "ID": 293406137,
@@ -4816,7 +4816,7 @@
     "ID": 293406315,
     "key": "Ancient Priest",
     "original": "Ancient Priest",
-    "translation": "古代牧师",
+    "translation": "古代祭司",
     "stage": 1
   },
   {
@@ -5175,8 +5175,8 @@
     "ID": 293406366,
     "key": "Necrosavant",
     "original": "Necrosavant",
-    "translation": "死灵法师",
-    "stage": 1
+    "translation": "死灵学者",
+    "stage": 5
   },
   {
     "ID": 293406367,
@@ -6075,8 +6075,8 @@
     "ID": 293406493,
     "key": "Nomad Outlaw",
     "original": "Nomad Outlaw",
-    "translation": "游牧不法之徒",
-    "stage": 1
+    "translation": "游牧亡命徒",
+    "stage": 5
   },
   {
     "ID": 293406494,
@@ -6673,8 +6673,8 @@
     "ID": 293406577,
     "key": "Geist",
     "original": "Geist",
-    "translation": "精神",
-    "stage": 1
+    "translation": "幽灵",
+    "stage": 5
   },
   {
     "ID": 293406578,

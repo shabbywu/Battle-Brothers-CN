@@ -54,7 +54,7 @@
     "ID": 293421218,
     "key": "Raider",
     "original": "Raider",
-    "translation": "突袭者(Raider)",
+    "translation": "掠夺者(Raider)",
     "stage": 1,
     "context": "this.m.Name = 'Raider'"
   },

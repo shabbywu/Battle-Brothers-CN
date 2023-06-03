@@ -11,8 +11,8 @@
     "ID": 293410700,
     "key": "Fletcher",
     "original": "Fletcher",
-    "translation": "弹药帐篷",
-    "stage": 1,
+    "translation": "弓弩店",
+    "stage": 5,
     "context": "this.m.Name = 'Fletcher'"
   }
 ]

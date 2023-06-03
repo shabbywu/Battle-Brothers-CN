@@ -11,7 +11,7 @@
     "ID": 293422749,
     "key": "the Swift",
     "original": "the Swift",
-    "translation": "迅捷",
+    "translation": "迅捷者(the Swift)",
     "stage": 5
   },
   {

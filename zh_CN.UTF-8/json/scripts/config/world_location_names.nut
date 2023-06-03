@@ -661,7 +661,7 @@
     "ID": 293407077,
     "key": "Castle of the Necrosavant",
     "original": "Castle of the Necrosavant",
-    "translation": "吸血鬼城堡",
+    "translation": "死灵学者城堡",
     "stage": 1
   },
   {
@@ -4889,7 +4889,7 @@
     "ID": 293407681,
     "key": "Raiders Retreat",
     "original": "Raiders Retreat",
-    "translation": "袭击者避难所",
+    "translation": "掠夺者避难所",
     "stage": 1
   },
   {

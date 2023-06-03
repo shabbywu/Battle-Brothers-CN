@@ -1109,8 +1109,8 @@
     "ID": 293403936,
     "key": "the Dog",
     "original": "the Dog",
-    "translation": "狗",
-    "stage": 1
+    "translation": "狗(the Dog)",
+    "stage": 5
   },
   {
     "ID": 293403937,
@@ -5757,8 +5757,8 @@
     "ID": 293404600,
     "key": "the Ratcatcher",
     "original": "the Ratcatcher",
-    "translation": "捕鼠人",
-    "stage": 1
+    "translation": "捕鼠者(the Ratcatcher)",
+    "stage": 5
   },
   {
     "ID": 293404601,
@@ -6527,7 +6527,7 @@
     "ID": 293404710,
     "key": "the Desert Raider",
     "original": "the Desert Raider",
-    "translation": "沙漠袭击者",
+    "translation": "沙漠掠夺者",
     "stage": 1
   },
   {

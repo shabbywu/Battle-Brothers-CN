@@ -11,7 +11,7 @@
     "key": "the Coward",
     "original": "the Coward",
     "translation": "胆小鬼(the Coward)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422774,

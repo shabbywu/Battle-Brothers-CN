@@ -42,6 +42,6 @@
     "key": "the Slow",
     "original": "the Slow",
     "translation": "缓慢者(the Slow)",
-    "stage": 1
+    "stage": 5
   }
 ]

@@ -67,7 +67,7 @@
     "ID": 293422659,
     "key": "]-10[/color] Resolve when not fighting undead",
     "original": "]-10[/color] Resolve when not fighting undead",
-    "translation": "]-10[/color] 意志（非对抗不死族）",
+    "translation": "]-10[/color] 决心（非对抗不死族）",
     "stage": 1,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve when not fighting undead'"
   },

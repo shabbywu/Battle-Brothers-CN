@@ -39,8 +39,8 @@
     "ID": 293418592,
     "key": "Necrosavant",
     "original": "Necrosavant",
-    "translation": "死灵法师",
-    "stage": 1
+    "translation": "死灵学者",
+    "stage": 5
   },
   {
     "ID": 293418593,
@@ -75,8 +75,8 @@
     "ID": 293418597,
     "key": "Geist",
     "original": "Geist",
-    "translation": "精神",
-    "stage": 1
+    "translation": "幽灵",
+    "stage": 5
   },
   {
     "ID": 293418598,
@@ -103,8 +103,8 @@
     "ID": 293418601,
     "key": "Ancient Priest",
     "original": "Ancient Priest",
-    "translation": "古代牧师",
-    "stage": 1
+    "translation": "古代祭司",
+    "stage": 5
   },
   {
     "ID": 293418602,

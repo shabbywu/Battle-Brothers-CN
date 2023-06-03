@@ -19,7 +19,7 @@
     "ID": 293419476,
     "key": "Warbrand",
     "original": "Warbrand",
-    "translation": "战刃",
+    "translation": "布兰德战刃",
     "stage": 1,
     "context": "this.m.Name = 'Warbrand'"
   }

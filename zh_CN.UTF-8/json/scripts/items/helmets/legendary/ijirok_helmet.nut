@@ -35,8 +35,8 @@
     "ID": 293418128,
     "key": "]10[/color] hitpoints of the wearer each turn",
     "original": "]10[/color] hitpoints of the wearer each turn",
-    "translation": "回复 10[/color] 生命值(每回合)",
-    "stage": 1,
+    "translation": "]10[/color] 生命值(每回合)",
+    "stage": 5,
     "context": "'Heals [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints of the wearer each turn'"
   },
   {

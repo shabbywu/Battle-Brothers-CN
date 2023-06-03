@@ -3,7 +3,7 @@
     "ID": 293410305,
     "key": "Blocking sight",
     "original": "Blocking sight",
-    "translation": "阻挡视力",
+    "translation": "阻挡视线",
     "stage": 1
   },
   {

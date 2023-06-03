@@ -27,8 +27,8 @@
     "ID": 293422620,
     "key": "]+10%[/color] damage if there are no allies in adjacent tiles",
     "original": "]+10%[/color] damage if there are no allies in adjacent tiles",
-    "translation": "]+10%[/color]伤害（如果相邻格没有盟友）",
-    "stage": 1,
+    "translation": "]+10%[/color] 伤害（如果相邻格没有盟友）",
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] damage if there are no allies in adjacent tiles'"
   },
   {

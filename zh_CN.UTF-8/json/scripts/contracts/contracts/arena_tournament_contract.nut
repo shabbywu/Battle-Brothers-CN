@@ -117,7 +117,7 @@
     "ID": 293407850,
     "key": "armor",
     "original": "armor",
-    "translation": "armor",
+    "translation": "盔甲",
     "stage": 1
   },
   {

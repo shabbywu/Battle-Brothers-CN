@@ -75,8 +75,8 @@
     "ID": 293403722,
     "key": "]-10[/color] Resolve, [color=",
     "original": "]-10[/color] Resolve, [color=",
-    "translation": "]-10[/color] 决心, [color=",
-    "stage": 1,
+    "translation": "]-10[/color] 决心， [color=",
+    "stage": 5,
     "context": "this.m.OathBurdenText = 'Your men have [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve, [color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee and Ranged Skill, and [color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee and Ranged Defense when fighting any other foe.'"
   },
   {

@@ -35,7 +35,7 @@
     "ID": 293422588,
     "key": "]-10[/color] Resolve randomly at every morale check",
     "original": "]-10[/color] Resolve randomly at every morale check",
-    "translation": "]-10[/color] 意志力（每次士气检查时随机触发）",
+    "translation": "]-10[/color] 决心（每次士气检查时随机触发）",
     "stage": 1,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] or [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve randomly at every morale check'"
   }
