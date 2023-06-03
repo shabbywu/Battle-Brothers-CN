@@ -3,8 +3,8 @@
     "ID": 293422167,
     "key": "Vampire",
     "original": "Vampire",
-    "translation": "吸血鬼(Vampire)",
-    "stage": 1,
+    "translation": "吸血鬼",
+    "stage": 5,
     "context": "this.m.Name = 'Vampire'"
   },
   {

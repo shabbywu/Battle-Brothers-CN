@@ -113,7 +113,7 @@
     "ID": 293420920,
     "key": "the Follower",
     "original": "the Follower",
-    "translation": "信徒(the Follower)",
-    "stage": 1
+    "translation": "追随者(The Follower)",
+    "stage": 5
   }
 ]

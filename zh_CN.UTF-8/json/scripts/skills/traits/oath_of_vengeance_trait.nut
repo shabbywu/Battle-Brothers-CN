@@ -83,7 +83,7 @@
     "ID": 293422681,
     "key": "]-10[/color] Resolve when not fighting greenskins",
     "original": "]-10[/color] Resolve when not fighting greenskins",
-    "translation": "]-10[/color] 意志（未对抗绿皮族）",
+    "translation": "]-10[/color] 决心（未对抗绿皮族）",
     "stage": 1,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve when not fighting greenskins'"
   },

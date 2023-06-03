@@ -19,8 +19,8 @@
     "ID": 293420929,
     "key": "the Dog",
     "original": "the Dog",
-    "translation": "狗",
-    "stage": 1
+    "translation": "狗(the Dog)",
+    "stage": 5
   },
   {
     "ID": 293420930,

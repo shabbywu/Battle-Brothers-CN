@@ -1178,7 +1178,7 @@
     "ID": 293423116,
     "key": "Fletcher",
     "original": "Fletcher",
-    "translation": "弹药帐篷",
+    "translation": "弓弩店",
     "stage": 1
   },
   {

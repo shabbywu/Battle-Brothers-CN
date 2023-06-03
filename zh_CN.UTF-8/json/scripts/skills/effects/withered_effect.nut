@@ -27,8 +27,8 @@
     "ID": 293421812,
     "key": "[/color] Fatigue Recovery per turn",
     "original": "[/color] Fatigue Recovery per turn",
-    "translation": "[/color] 每回合疲劳值恢复",
-    "stage": 1,
+    "translation": "[/color] 每回合疲劳值恢复量",
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-' + this.m.TurnsLeft * 5 + '[/color] Fatigue Recovery per turn'"
   },
   {

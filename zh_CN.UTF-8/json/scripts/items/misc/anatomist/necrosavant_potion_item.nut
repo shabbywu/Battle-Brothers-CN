@@ -3,7 +3,7 @@
     "ID": 293418502,
     "key": "Whoever drinks this incredible potion, produced with the ash of a Necrosavant, will find themselves in possession of the miraculous healing powers of the undead creatures! It does not grant the extended lifespan associated with the abominations, however -",
     "original": "Whoever drinks this incredible potion, produced with the ash of a Necrosavant, will find themselves in possession of the miraculous healing powers of the undead creatures! It does not grant the extended lifespan associated with the abominations, however - quite the opposite, in fact. This may be considered a feature should the imbiber get a bit too comfortable drinking blood.",
-    "translation": "无论是谁，喝下这种用吸血鬼的灰烬制成的不可思议的药水，都会发现自己拥有了不死生物的神奇治疗能力！然而，它并不能像让你像那些可憎之物一样延年益寿——事实上恰恰相反。可能会有让服用者在喝下血液时十分愉悦的副作用。",
+    "translation": "无论是谁，喝下这种用死灵学者的灰烬制成的不可思议的药水，都会发现自己拥有了不死生物的神奇治疗能力！然而，它并不能像让你像那些可憎之物一样延年益寿——事实上恰恰相反。可能会有让服用者在喝下血液时十分愉悦的副作用。",
     "stage": 1,
     "context": "this.m.Description = 'Whoever drinks this incredible potion, produced with the ash of a Necrosavant, will find themselves in possession of the miraculous healing powers of the undead creatures! It does not grant the extended lifespan associated with the abominations, however - quite the opposite, in fact. This may be considered a feature should the imbiber get a bit too comfortable drinking blood.'"
   },

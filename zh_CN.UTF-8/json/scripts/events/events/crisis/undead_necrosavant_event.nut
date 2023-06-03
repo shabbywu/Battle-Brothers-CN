@@ -17,7 +17,7 @@
     "ID": 293413382,
     "key": "[img]gfx/ui/events/event_76.png[/img]Suddenly, a crossbow aims over your shoulder and fires so closely you can feel the air rushing past the twang of its rope. The bolt pierces the old man's skull and he tips forward, head to the mud, arse in the air, han",
     "original": "[img]gfx/ui/events/event_76.png[/img]Suddenly, a crossbow aims over your shoulder and fires so closely you can feel the air rushing past the twang of its rope. The bolt pierces the old man's skull and he tips forward, head to the mud, arse in the air, hands still beside himself in dispirited supination.\n\nYou turn to see %witchhunter% the witch hunter standing behind you. He lowers the crossbow and walks over to the corpse, grabbing it by the nape of the neck and putting a stake through its back. The body wretches with a shriek and the clothing bloats as the body implodes, a swirling dust hurriedly exiting out the cloak as though it had been caught impersonating a man.\n\n The witch hunter turns to you.%SPEECH_ON%Necrosavant. Rare. Extremely dangerous.%SPEECH_OFF%",
-    "translation": "[img]gfx/ui/events/event_76.png[/img]突然之间，一把弩越过你的肩膀上发射，在如此之近的地方发射，以至于你能感受到绳子的当啷声中剧烈振动的空气。 弩箭穿透了老人的脑袋，他向前一倾，屁股朝上一头栽进在泥里，双手以一种颓萎的姿势向后翻着。\n\n你转过身看到女巫猎人 %witchhunter% 站在你后面。 他放下弩，走到尸体跟前，抓住尸体的后颈，把一根木桩楔进尸体的背部。 尸体惨叫一声在斗篷里爆裂开，把衣服撑得鼓了起来，一团旋动的粉尘迅速从斗篷里飞了出来，就好像冒充别人被抓了现行。\n\n 女巫猎人转向你。%SPEECH_ON%吸血鬼。罕见。极其危险。%SPEECH_OFF%",
+    "translation": "[img]gfx/ui/events/event_76.png[/img]突然之间，一把弩越过你的肩膀上发射，在如此之近的地方发射，以至于你能感受到绳子的当啷声中剧烈振动的空气。 弩箭穿透了老人的脑袋，他向前一倾，屁股朝上一头栽进在泥里，双手以一种颓萎的姿势向后翻着。\n\n你转过身看到女巫猎人 %witchhunter% 站在你后面。 他放下弩，走到尸体跟前，抓住尸体的后颈，把一根木桩楔进尸体的背部。 尸体惨叫一声在斗篷里爆裂开，把衣服撑得鼓了起来，一团旋动的粉尘迅速从斗篷里飞了出来，就好像冒充别人被抓了现行。\n\n 女巫猎人转向你。%SPEECH_ON%死灵学者。罕见。极其危险。%SPEECH_OFF%",
     "stage": 1
   },
   {
@@ -39,7 +39,7 @@
     "ID": 293413385,
     "key": "Killed a Necrosavant on the road",
     "original": "Killed a Necrosavant on the road",
-    "translation": "在路上杀了一个吸血鬼",
+    "translation": "在路上杀了一个死灵学者",
     "stage": 1
   },
   {

@@ -27,8 +27,8 @@
     "ID": 293418133,
     "key": "]90[/color] points of durability each turn.",
     "original": "]90[/color] points of durability each turn.",
-    "translation": "]90[/color] 点耐力(每回合)。",
-    "stage": 1,
+    "translation": "]90[/color] 点耐久(每回合)。",
+    "stage": 5,
     "context": "'Regenerates itself by [color=' + this.Const.UI.Color.PositiveValue + ']90[/color] points of durability each turn.'"
   }
 ]

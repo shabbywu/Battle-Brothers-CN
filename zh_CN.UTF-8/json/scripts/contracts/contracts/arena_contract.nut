@@ -477,16 +477,16 @@
     "ID": 293407829,
     "key": "Enter the arena again to start the fight against %amount% webknechts",
     "original": "Enter the arena again to start the fight against %amount% webknechts",
-    "translation": "再次进入竞技场，开始对抗 %amount% 只织网者。",
-    "stage": 1,
+    "translation": "再次进入竞技场，开始对抗 %amount% 只蛛魔。",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against %amount% webknechts'"
   },
   {
     "ID": 293407830,
     "key": "Enter the arena again to start the fight against %amount% nachzehrers",
     "original": "Enter the arena again to start the fight against %amount% nachzehrers",
-    "translation": "再次进入竞技场，开始对抗%amount%名纳克泽尔。",
-    "stage": 1,
+    "translation": "再次进入竞技场，开始对抗%amount%名食尸鬼。",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against %amount% nachzehrers'"
   },
   {

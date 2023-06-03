@@ -11,7 +11,7 @@
     "key": "the Coward",
     "original": "the Coward",
     "translation": "胆小鬼(the Coward)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422456,
@@ -40,8 +40,8 @@
     "ID": 293422459,
     "key": "the Craven",
     "original": "the Craven",
-    "translation": "胆小者(the Craven)",
-    "stage": 1
+    "translation": "懦夫(the Craven)",
+    "stage": 5
   },
   {
     "ID": 293422460,
