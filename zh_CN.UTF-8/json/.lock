@@ -33974,14 +33974,14 @@
         "total": 10,
         "translated": 10,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 8,
+        "reviewed": 8,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:54.781Z",
         "updatedAt": "2023-05-13T14:30:54.781Z",
-        "modifiedAt": "2023-06-02T09:14:30Z",
-        "sha256": "663012ff9072e65a2ec37c460d616f86c342e7b8b42ca083c697f7e2509825fb"
+        "modifiedAt": "2023-06-03T09:02:05Z",
+        "sha256": "6bf65a681358714e84d920956993e0288bd8459f6bcdf6c4c82f8607bd086d57"
     },
     "scripts/skills/backgrounds/tailor_southern_background.json": {
         "id": 920236,
