@@ -12,28 +12,28 @@
     "key": "the Particular",
     "original": "the Particular",
     "translation": "独特者(The Particular)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293421335,
     "key": "the Tailor",
     "original": "the Tailor",
-    "translation": "裁缝师 (the Tailor)",
-    "stage": 1
+    "translation": "裁缝(the Tailor)",
+    "stage": 5
   },
   {
     "ID": 293421336,
     "key": "the Fine",
     "original": "the Fine",
-    "translation": "优质之品 (the Fine)",
-    "stage": 1
+    "translation": "妙手(the Fine)",
+    "stage": 5
   },
   {
     "ID": 293421337,
     "key": "Tailors are not used to hard physical labor.",
     "original": "Tailors are not used to hard physical labor.",
     "translation": "裁缝不习惯艰苦的体力劳动。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.BackgroundDescription = 'Tailors are not used to hard physical labor.'"
   },
   {
@@ -41,7 +41,7 @@
     "key": "Silkworm",
     "original": "Silkworm",
     "translation": "蚕(Silkworm)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293421339,
@@ -71,7 +71,7 @@
     "ID": 293421342,
     "key": "the Peculiar",
     "original": "the Peculiar",
-    "translation": "异教徒(the Peculiar)",
-    "stage": 1
+    "translation": "特立独行者(the Peculiar)",
+    "stage": 5
   }
 ]
