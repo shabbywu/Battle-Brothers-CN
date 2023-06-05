@@ -3,8 +3,8 @@
     "ID": 293421333,
     "key": "A tailor at heart, it didn't take much to compel %name% to bail from the quickly sinking company. He left to go start a business, but was kidnapped along the way by a group of brigands. When they threatened to kill him, he pretended to be a simple and wea",
     "original": "A tailor at heart, it didn't take much to compel %name% to bail from the quickly sinking company. He left to go start a business, but was kidnapped along the way by a group of brigands. When they threatened to kill him, he pretended to be a simple and weak tailor and showed his talents in creating clothes. Impressed, the raggedly dressed outlaws took him into their band. A few days later they were all dead and this 'meek' man walked out of their camp with a bit of red on him. He started his business a week later and is doing well to this day.",
-    "translation": "本心还是一个裁缝，%name%并没有太多犹豫就离开了这个正在迅速沉没的战团。他离开了，去创业的路途上被一群强盗绑架了。当他们威胁要杀他的时候，他假装自己是一个简单而脆弱的裁缝，并展示了他制作服装的才能。这些衣衫褴褛的歹徒们对他印象深刻，于是便收他为伙伴。几天后，他们全部死亡了，而这个“懦弱”的人则带着一点红色的印记走出了他们的营地。他一周后开始创业，并且如今生意兴隆。",
-    "stage": 1,
+    "translation": "一心想要当一名裁缝的%name%并没多少犹豫就离开了正在快速完蛋的战团。他离开并开始创业，但在途中被一个强盗团伙绑架。当他们威胁要杀他时，他伪装成一个单纯而又虚弱的裁缝，并展示了他在制作服装方面的才华。这些衣衫褴褛的强盗们对他留下了深刻的印象，并接纳他成为他们团队的一员。几天后，他们全部被杀，而这个“温顺”的人则带着一点点红印子走出了他们的营地。一周后，他开始了自己的生意，并至今生意兴隆。",
+    "stage": 5,
     "context": "this.m.BadEnding = \"A tailor at heart, it didn't take much to compel %name% to bail from the quickly sinking company. He left to go start a business, but was kidnapped along the way by a group of brigands. When they threatened to kill him, he pretended to be a simple and weak tailor and showed his talents in creating clothes. Impressed, the raggedly dressed outlaws took him into their band. A few days later they were all dead and this 'meek' man walked out of their camp with a bit of red on him. He started his business a week later and is doing well to this day.\""
   },
   {
@@ -55,8 +55,8 @@
     "ID": 293421340,
     "key": "What was a tailor doing in a mercenary company? A good question, but %name% certainly answered it well by killing so many enemies they could've made an epic tapestry out of story. After a few good years in the company, he eventually left to start up a bus",
     "original": "What was a tailor doing in a mercenary company? A good question, but %name% certainly answered it well by killing so many enemies they could've made an epic tapestry out of story. After a few good years in the company, he eventually left to start up a business creating clothes for nobility. His name is world-renowned, well, the known-world-renowned, and he gets so much business he's making a very different killing these days.",
-    "translation": "一名裁缝身在佣兵战团能做什么？这是个好问题，%name%凭借对抗众多敌人的能力回答了这个问题。在战团服务了数年后，他最终离开，开始创业为贵族制作服装。他的名字在全球范围内都知名，或者说是在已知世界内都出名，他的业务量非常大，这些年他挣了很多钱，但手里没有杀气了。",
-    "stage": 1,
+    "translation": "一名裁缝身在佣兵战团能做什么？这是个好问题，但%name%杀够了织一条史诗故事挂毯的敌人，确实很好地回答了这个问题。在战团服干了几年好时光后，他最终离开，开始创业为贵族制作服装。他世界闻名，至少是在已知的世界上是有名的，他现在的生意很好，赚了一大笔钱。",
+    "stage": 5,
     "context": "this.m.GoodEnding = \"What was a tailor doing in a mercenary company? A good question, but %name% certainly answered it well by killing so many enemies they could've made an epic tapestry out of story. After a few good years in the company, he eventually left to start up a business creating clothes for nobility. His name is world-renowned, well, the known-world-renowned, and he gets so much business he's making a very different killing these days.\""
   },
   {
