@@ -207,7 +207,7 @@
     "ID": 293412479,
     "key": "Horn",
     "original": "Horn",
-    "translation": "喇叭(Horn)",
+    "translation": "霍恩(Horn)",
     "stage": 1
   },
   {

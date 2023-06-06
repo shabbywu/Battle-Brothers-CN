@@ -1184,8 +1184,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.288Z",
         "updatedAt": "2023-05-17T14:20:14.948Z",
-        "modifiedAt": "2023-06-02T06:09:58Z",
-        "sha256": "d0b5068e94b2f20cb6b98e1b1b14b4e0016ea912ee3e09d40784c228086a4c74"
+        "modifiedAt": "2023-06-05T20:48:47Z",
+        "sha256": "ea5d630cb4b469c973f1038bb44742bbfed0e9f42a5e48e289aaa20b1e3ad90a"
     },
     "scripts/config/credits.json": {
         "id": 918414,
@@ -1304,14 +1304,14 @@
         "total": 1216,
         "translated": 1216,
         "disputed": 0,
-        "checked": 46,
-        "reviewed": 46,
+        "checked": 47,
+        "reviewed": 47,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-05-17T14:20:25.132Z",
-        "modifiedAt": "2023-06-02T06:24:59Z",
-        "sha256": "6a41d199acb2905f8efc6305bb3f4bc9cf6f55e0c51c8cfb164221a3bf2d1dfe"
+        "modifiedAt": "2023-06-05T20:49:30Z",
+        "sha256": "f09b037c5e36d27efdc0900ba530fc38e544814712d70d2f4dd1dd49c85c7bba"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -6746,8 +6746,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:50.103Z",
         "updatedAt": "2023-05-17T14:23:19.545Z",
-        "modifiedAt": "2023-05-27T04:49:24Z",
-        "sha256": "72a840e3b08c64fd8339046df189f7f6cc0c6d69621a06ad77e2fba597a0fc50"
+        "modifiedAt": "2023-06-05T03:28:57Z",
+        "sha256": "393570dc3c3d30f30361edd99fcd2d93429d8cd36c2604f51d66d4e0c52b32b4"
     },
     "scripts/entity/world/settlements/medium_steppe_fort.json": {
         "id": 918723,
@@ -6854,8 +6854,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:52.195Z",
         "updatedAt": "2023-05-17T14:23:22.224Z",
-        "modifiedAt": "2023-05-27T05:03:28Z",
-        "sha256": "28226996809bcafc8590bc3b4fbe0b166d4fbc878509d6d1591b5dd6e47f6425"
+        "modifiedAt": "2023-06-05T03:28:57Z",
+        "sha256": "f479a46f29f19e352b789f34d5bf9abd2e75203139d4f3be175bb154b5d9b7b5"
     },
     "scripts/entity/world/settlements/situations/abducted_children_situation.json": {
         "id": 918729,
@@ -7844,8 +7844,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:12.113Z",
         "updatedAt": "2023-05-17T14:23:46.7Z",
-        "modifiedAt": "2023-05-27T04:49:24Z",
-        "sha256": "2ac415ff64edfec11f0e7080203584f97c5f3885cfc484551b64c82a3e1fb24d"
+        "modifiedAt": "2023-06-05T03:28:57Z",
+        "sha256": "0608e7d5ca342086ff8031baf345038b80ac086db419a5a43442d22f9d7bc89c"
     },
     "scripts/entity/world/settlements/small_steppe_fort.json": {
         "id": 918784,
@@ -7952,8 +7952,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:14.239Z",
         "updatedAt": "2023-05-17T14:23:50.034Z",
-        "modifiedAt": "2023-05-27T04:49:25Z",
-        "sha256": "59a97388092f59e80b22f0d31e39eb0d7a9dd467c616773d0a77c5bae595ba45"
+        "modifiedAt": "2023-06-05T03:28:57Z",
+        "sha256": "2c68cdeff8d804909215a47754decc656e113b41d54111fe4dc3c60fe0cdc0d5"
     },
     "scripts/entity/world/world_entity.json": {
         "id": 918790,
@@ -32534,14 +32534,14 @@
         "total": 13,
         "translated": 13,
         "disputed": 0,
-        "checked": 10,
-        "reviewed": 10,
+        "checked": 13,
+        "reviewed": 13,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:13.204Z",
         "updatedAt": "2023-05-13T14:30:13.204Z",
-        "modifiedAt": "2023-06-04T13:12:44Z",
-        "sha256": "41d4d06a05921479388f53f09ed9731b32fe871a438f12eaa77029a63f24877c"
+        "modifiedAt": "2023-06-05T01:31:57Z",
+        "sha256": "c9fcd8786486d63e3fd5b4eb23a218a5ea031b2ee134091ff77aad65a9e05ca0"
     },
     "scripts/skills/backgrounds/barbarian_background.json": {
         "id": 920156,
@@ -32570,14 +32570,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:14.647Z",
         "updatedAt": "2023-05-13T14:30:14.647Z",
-        "modifiedAt": "2023-05-13T14:30:14.66Z",
-        "sha256": "dedf05eaf95e084f2b9ade747006b5aefba424f8a0e38096b41684f718c1ae57"
+        "modifiedAt": "2023-06-05T02:31:42Z",
+        "sha256": "ea75d5492c0e20cfbc0bf349698809544669772db700c14c5af1d5b3dae85d40"
     },
     "scripts/skills/backgrounds/beast_hunter_background.json": {
         "id": 920158,
@@ -32588,14 +32588,14 @@
         "total": 11,
         "translated": 11,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 11,
+        "reviewed": 11,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:15.328Z",
         "updatedAt": "2023-05-13T14:30:15.328Z",
-        "modifiedAt": "2023-05-31T01:25:13Z",
-        "sha256": "1c289537b97d0618ceda20ca8d3c9aeeccc92e4918efe46bd73cb60d5e95b695"
+        "modifiedAt": "2023-06-05T08:30:47Z",
+        "sha256": "9cbeae93a75ce9fa4c20b08818314e9f71e7518ae5d7975653b841f4f809769c"
     },
     "scripts/skills/backgrounds/beggar_background.json": {
         "id": 920159,
@@ -32642,14 +32642,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:17.64Z",
         "updatedAt": "2023-05-13T14:30:17.64Z",
-        "modifiedAt": "2023-05-13T14:30:17.686Z",
-        "sha256": "a748412d465304cf564c1c855569f468309b82fccb27d8f17fc03ec7e6d7e06c"
+        "modifiedAt": "2023-06-05T08:38:24Z",
+        "sha256": "7c2ff66f3926233dc6fb4db4ef66065a1ff23a5583abba74367dbb3227203e74"
     },
     "scripts/skills/backgrounds/bowyer_background.json": {
         "id": 920162,
@@ -32678,14 +32678,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:21.909Z",
         "updatedAt": "2023-05-13T14:30:21.909Z",
-        "modifiedAt": "2023-05-27T05:25:16Z",
-        "sha256": "6be89274a584edbb5b08f01be44323797ccf3c478d4712345820e6623979c9e0"
+        "modifiedAt": "2023-06-05T08:41:22Z",
+        "sha256": "8b76bd63ca4d5e13988eb499a319df1e2854c25b8276469e0aadd4140a8efc21"
     },
     "scripts/skills/backgrounds/butcher_background.json": {
         "id": 920164,
@@ -33398,14 +33398,14 @@
         "total": 19,
         "translated": 19,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:43.45Z",
         "updatedAt": "2023-05-26T04:50:40.953Z",
-        "modifiedAt": "2023-05-31T01:19:38Z",
-        "sha256": "920cdacdbe6351ea75256a682e9bf8c1652827bd4c2c2ad264b99ac464fb7c7e"
+        "modifiedAt": "2023-06-05T03:15:40Z",
+        "sha256": "d5ee6bba86b9ee2ea17de88c790a79ae03c0d01f3335678b4f6ef36d6931040f"
     },
     "scripts/skills/backgrounds/mason_background.json": {
         "id": 920204,

@@ -2078,7 +2078,7 @@
     "ID": 293405929,
     "key": "Horn",
     "original": "Horn",
-    "translation": "喇叭(Horn)",
+    "translation": "霍恩(Horn)",
     "stage": 1
   },
   {
@@ -3820,7 +3820,7 @@
     "key": "Conscript",
     "original": "Conscript",
     "translation": "征召兵",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406176,
@@ -5917,7 +5917,7 @@
     "ID": 293406471,
     "key": "Conscripts",
     "original": "Conscripts",
-    "translation": "征召兵们",
+    "translation": "征召兵",
     "stage": 1
   },
   {

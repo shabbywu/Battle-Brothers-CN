@@ -4,7 +4,7 @@
     "key": "Brawlers are unmatched in unarmed combat, and physical exercise tends to leave them in good shape.",
     "original": "Brawlers are unmatched in unarmed combat, and physical exercise tends to leave them in good shape.",
     "translation": "格斗家在徒手格斗中是无与伦比的，体育锻炼往往能使他们保持良好的状态。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.BackgroundDescription = 'Brawlers are unmatched in unarmed combat, and physical exercise tends to leave them in good shape.'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "Brawler",
     "original": "Brawler",
     "translation": "格斗家",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Brawler'"
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293420850,
     "key": "]+100%[/color] Damage when unarmed",
     "original": "]+100%[/color] Damage when unarmed",
-    "translation": "]+100%[/color] 无武器时的伤害",
-    "stage": 1,
+    "translation": "]+100%[/color] 徒手时的伤害",
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+100%[/color] Damage when unarmed'"
   },
   {

@@ -2607,7 +2607,7 @@
     "ID": 293404150,
     "key": "the Conscript",
     "original": "the Conscript",
-    "translation": "义务兵",
+    "translation": "征召兵",
     "stage": 1
   },
   {
