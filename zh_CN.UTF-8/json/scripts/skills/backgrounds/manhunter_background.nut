@@ -69,7 +69,7 @@
     "key": "the Tracker",
     "original": "the Tracker",
     "translation": "追踪者(the Tracker)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293421092,
