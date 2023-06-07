@@ -3,8 +3,8 @@
     "ID": 293422485,
     "key": "the Odd",
     "original": "the Odd",
-    "translation": "奇怪的",
-    "stage": 1
+    "translation": "怪人(the Odd)",
+    "stage": 5
   },
   {
     "ID": 293422486,

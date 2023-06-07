@@ -4,7 +4,7 @@
     "key": "the Deserter",
     "original": "the Deserter",
     "translation": "逃兵(the Deserter)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293419694,

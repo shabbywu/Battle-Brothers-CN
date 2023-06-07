@@ -28,15 +28,15 @@
     "key": "Farmhands are used to hard physical labor.",
     "original": "Farmhands are used to hard physical labor.",
     "translation": "农夫习惯于艰苦的体力劳动。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.BackgroundDescription = 'Farmhands are used to hard physical labor.'"
   },
   {
     "ID": 293420959,
     "key": "Farmhand",
     "original": "Farmhand",
-    "translation": "农民(Farmhand)",
-    "stage": 1,
+    "translation": "农夫",
+    "stage": 5,
     "context": "this.m.Name = 'Farmhand'"
   }
 ]

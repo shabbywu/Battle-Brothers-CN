@@ -11,7 +11,7 @@
     "ID": 293420682,
     "key": "Unleash Wardog",
     "original": "Unleash Wardog",
-    "translation": "释放战狗(Unleash Wardog)",
+    "translation": "释放战犬(Unleash Wardog)",
     "stage": 1,
     "context": "this.m.Name = 'Unleash Wardog'"
   }

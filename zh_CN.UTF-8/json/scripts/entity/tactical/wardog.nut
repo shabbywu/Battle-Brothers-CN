@@ -11,7 +11,7 @@
     "ID": 293410503,
     "key": "Wardog",
     "original": "Wardog",
-    "translation": "战狗",
+    "translation": "战犬",
     "stage": 1
   }
 ]
