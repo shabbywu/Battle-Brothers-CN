@@ -19,8 +19,8 @@
     "ID": 293421109,
     "key": "the Runner",
     "original": "the Runner",
-    "translation": "递信者(the Runner)",
-    "stage": 1
+    "translation": "跑手(the Runner)",
+    "stage": 5
   },
   {
     "ID": 293421110,

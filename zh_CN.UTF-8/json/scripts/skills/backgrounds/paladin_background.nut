@@ -62,8 +62,8 @@
     "ID": 293421193,
     "key": "the Zealot",
     "original": "the Zealot",
-    "translation": "狂热者(the Zealot)",
-    "stage": 1
+    "translation": "狂信者(the Zealot)",
+    "stage": 5
   },
   {
     "ID": 293421194,

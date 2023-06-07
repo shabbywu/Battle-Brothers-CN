@@ -629,7 +629,7 @@
     "ID": 293405725,
     "key": "Webknecht Eggs",
     "original": "Webknecht Eggs",
-    "translation": "蛛魔蛋",
+    "translation": "蛛魔卵",
     "stage": 1
   },
   {
@@ -5543,8 +5543,8 @@
     "ID": 293406418,
     "key": "Cleaver Mastery",
     "original": "Cleaver Mastery",
-    "translation": "切肉刀精通",
-    "stage": 1
+    "translation": "砍刀精通",
+    "stage": 5
   },
   {
     "ID": 293406419,
@@ -6031,8 +6031,8 @@
     "ID": 293406487,
     "key": "Buy a Cart",
     "original": "Buy a Cart",
-    "translation": "购买购物车",
-    "stage": 1
+    "translation": "购买货车",
+    "stage": 5
   },
   {
     "ID": 293406488,
@@ -7588,7 +7588,7 @@
     "ID": 293406705,
     "key": "Wardog",
     "original": "Wardog",
-    "translation": "战狗",
+    "translation": "战犬",
     "stage": 1
   },
   {

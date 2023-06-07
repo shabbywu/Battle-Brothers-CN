@@ -87,8 +87,8 @@
     "ID": 293403790,
     "key": "the Believer",
     "original": "the Believer",
-    "translation": "信徒",
-    "stage": 1
+    "translation": "信徒(the Believer)",
+    "stage": 5
   },
   {
     "ID": 293403791,
@@ -255,8 +255,8 @@
     "ID": 293403814,
     "key": "the Odd",
     "original": "the Odd",
-    "translation": "奇怪的",
-    "stage": 1
+    "translation": "怪人(the Odd)",
+    "stage": 5
   },
   {
     "ID": 293403815,
@@ -3923,8 +3923,8 @@
     "ID": 293404338,
     "key": "the Lost",
     "original": "the Lost",
-    "translation": "迷失者",
-    "stage": 1
+    "translation": "迷失者(the Lost)",
+    "stage": 5
   },
   {
     "ID": 293404339,
@@ -4175,8 +4175,8 @@
     "ID": 293404374,
     "key": "%randomname% the Zealot",
     "original": "%randomname% the Zealot",
-    "translation": "%randomname% 狂热者",
-    "stage": 1
+    "translation": "狂信者%randomname%",
+    "stage": 5
   },
   {
     "ID": 293404375,
