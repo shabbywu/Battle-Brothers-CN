@@ -1018,8 +1018,8 @@
     "ID": 293405014,
     "key": "of the Desert",
     "original": "of the Desert",
-    "translation": "·沙漠",
-    "stage": 1
+    "translation": "·沙漠(of the Desert)",
+    "stage": 5
   },
   {
     "ID": 293405015,

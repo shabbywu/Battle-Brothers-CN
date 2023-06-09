@@ -11,7 +11,7 @@
     "ID": 293420201,
     "key": " possesses ",
     "original": " possesses ",
-    "translation": "拥有",
+    "translation": "支配",
     "stage": 1,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' possesses ' + this.Const.UI.getColorizedEntityName(target)"
   }

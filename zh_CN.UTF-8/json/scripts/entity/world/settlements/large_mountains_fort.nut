@@ -10,8 +10,8 @@
     "ID": 293410891,
     "key": "Gipfelfeste",
     "original": "Gipfelfeste",
-    "translation": "山顶派对(Gipfelfeste)",
-    "stage": 1
+    "translation": "山峰要塞(Gipfelfeste)",
+    "stage": 5
   },
   {
     "ID": 293410892,
@@ -38,7 +38,7 @@
     "ID": 293410895,
     "key": "Zugfeste",
     "original": "Zugfeste",
-    "translation": "扯力强度(Zugfeste)",
+    "translation": "楚格堡(Zugfeste)",
     "stage": 1
   },
   {
@@ -229,7 +229,7 @@
     "ID": 293410922,
     "key": "Fernsichtfeste",
     "original": "Fernsichtfeste",
-    "translation": "远视塔(Fernsichtfeste)",
-    "stage": 1
+    "translation": "远眺堡(Fernsichtfeste)",
+    "stage": 5
   }
 ]

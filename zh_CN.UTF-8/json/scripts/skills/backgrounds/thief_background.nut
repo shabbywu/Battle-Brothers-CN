@@ -11,8 +11,8 @@
     "ID": 293421345,
     "key": "the Snake",
     "original": "the Snake",
-    "translation": "蛇",
-    "stage": 1
+    "translation": "蛇(the Snake)",
+    "stage": 5
   },
   {
     "ID": 293421346,

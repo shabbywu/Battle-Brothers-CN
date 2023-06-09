@@ -162,7 +162,7 @@
     "key": "the Survivor",
     "original": "the Survivor",
     "translation": "幸存者(the Survivor)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408958,

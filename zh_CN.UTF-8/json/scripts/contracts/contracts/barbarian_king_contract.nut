@@ -116,8 +116,8 @@
     "ID": 293407890,
     "key": "Hunt down the Barbarian King and his warhost",
     "original": "Hunt down the Barbarian King and his warhost",
-    "translation": "追捕野蛮人国王和他的战争宿主",
-    "stage": 1
+    "translation": "追捕野蛮人国王和他的战团",
+    "stage": 5
   },
   {
     "ID": 293407891,
@@ -209,8 +209,8 @@
     "ID": 293407903,
     "key": "His warhost was last spotted around %region%, %terrain% %direction% from you, near %nearest_town%",
     "original": "His warhost was last spotted around %region%, %terrain% %direction% from you, near %nearest_town%",
-    "translation": "他的战争宿主最后被发现在 %region%，在你的 %terrain% %direction%，附近是 %nearest_town%",
-    "stage": 1
+    "translation": "他的战团最后被发现在 %region%，在你的 %terrain% %direction%，附近是 %nearest_town%",
+    "stage": 5
   },
   {
     "ID": 293407904,

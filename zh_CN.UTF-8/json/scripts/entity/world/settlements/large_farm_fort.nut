@@ -87,7 +87,7 @@
     "ID": 293410767,
     "key": "Haselfeste",
     "original": "Haselfeste",
-    "translation": "黑色聚会(Haselfeste)",
+    "translation": "哈瑟尔堡(Haselfeste)",
     "stage": 1
   },
   {

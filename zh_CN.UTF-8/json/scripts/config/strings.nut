@@ -3962,7 +3962,7 @@
     "ID": 293406195,
     "key": "Stone",
     "original": "Stone",
-    "translation": "结石",
+    "translation": "石头",
     "stage": 1
   },
   {

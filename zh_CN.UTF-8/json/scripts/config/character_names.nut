@@ -318,8 +318,8 @@
     "ID": 293403823,
     "key": "the Hyena",
     "original": "the Hyena",
-    "translation": "鬣狗",
-    "stage": 1
+    "translation": "鬣狗(the Hyena)",
+    "stage": 5
   },
   {
     "ID": 293403824,
@@ -913,8 +913,8 @@
     "ID": 293403908,
     "key": "the Hawk",
     "original": "the Hawk",
-    "translation": "鹰",
-    "stage": 1
+    "translation": "鹰(the Hawk)",
+    "stage": 5
   },
   {
     "ID": 293403909,
@@ -1032,8 +1032,8 @@
     "ID": 293403925,
     "key": "The Desert Raider",
     "original": "The Desert Raider",
-    "translation": "沙漠掠夺者",
-    "stage": 1
+    "translation": "沙漠掠夺者(The Desert Raider)",
+    "stage": 5
   },
   {
     "ID": 293403926,
@@ -1998,8 +1998,8 @@
     "ID": 293404063,
     "key": "The Nomad",
     "original": "The Nomad",
-    "translation": "游牧者",
-    "stage": 1
+    "translation": "游牧民(The Nomad)",
+    "stage": 5
   },
   {
     "ID": 293404064,
@@ -2019,8 +2019,8 @@
     "ID": 293404066,
     "key": "the Scorpion",
     "original": "the Scorpion",
-    "translation": "蝎子",
-    "stage": 1
+    "translation": "蝎子(the Scorpion)",
+    "stage": 5
   },
   {
     "ID": 293404067,
@@ -2558,8 +2558,8 @@
     "ID": 293404143,
     "key": "the Snake",
     "original": "the Snake",
-    "translation": "蛇",
-    "stage": 1
+    "translation": "蛇(the Snake)",
+    "stage": 5
   },
   {
     "ID": 293404144,
@@ -2873,8 +2873,8 @@
     "ID": 293404188,
     "key": "the Nomad",
     "original": "the Nomad",
-    "translation": "游牧民族",
-    "stage": 1
+    "translation": "游牧民(the Nomad)",
+    "stage": 5
   },
   {
     "ID": 293404189,
@@ -3384,8 +3384,8 @@
     "ID": 293404261,
     "key": "The Serpent",
     "original": "The Serpent",
-    "translation": "大蛇",
-    "stage": 1
+    "translation": "大蛇(The Serpent)",
+    "stage": 5
   },
   {
     "ID": 293404262,
@@ -4910,8 +4910,8 @@
     "ID": 293404479,
     "key": "The Scorpion",
     "original": "The Scorpion",
-    "translation": "蝎子",
-    "stage": 1
+    "translation": "蝎子(The Scorpion)",
+    "stage": 5
   },
   {
     "ID": 293404480,
@@ -5645,8 +5645,8 @@
     "ID": 293404584,
     "key": "the Serpent",
     "original": "the Serpent",
-    "translation": "蛇",
-    "stage": 1
+    "translation": "大蛇(the Serpent)",
+    "stage": 5
   },
   {
     "ID": 293404585,
@@ -6226,8 +6226,8 @@
     "ID": 293404667,
     "key": "The Snake",
     "original": "The Snake",
-    "translation": "蛇",
-    "stage": 1
+    "translation": "蛇(The Snake)",
+    "stage": 5
   },
   {
     "ID": 293404668,
@@ -6527,8 +6527,8 @@
     "ID": 293404710,
     "key": "the Desert Raider",
     "original": "the Desert Raider",
-    "translation": "沙漠掠夺者",
-    "stage": 1
+    "translation": "沙漠掠夺者(the Desert Raider)",
+    "stage": 5
   },
   {
     "ID": 293404711,
