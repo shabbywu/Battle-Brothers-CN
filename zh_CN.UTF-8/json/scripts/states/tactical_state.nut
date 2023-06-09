@@ -165,8 +165,8 @@
     "ID": 293422823,
     "key": "Won a battle",
     "original": "Won a battle",
-    "translation": "赢了一场战斗",
-    "stage": 1
+    "translation": "赢得了一场战斗",
+    "stage": 5
   },
   {
     "ID": 293422824,
@@ -179,8 +179,8 @@
     "ID": 293422825,
     "key": "Lost a battle",
     "original": "Lost a battle",
-    "translation": "输了一场战斗",
-    "stage": 1
+    "translation": "输掉了一场战斗",
+    "stage": 5
   },
   {
     "ID": 293422826,

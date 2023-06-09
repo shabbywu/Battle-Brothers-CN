@@ -31,8 +31,8 @@
     "ID": 293415816,
     "key": "the Farmhand",
     "original": "the Farmhand",
-    "translation": "农场工人(the Farmhand)",
-    "stage": 1
+    "translation": "雇农(the Farmhand)",
+    "stage": 5
   },
   {
     "ID": 293415817,

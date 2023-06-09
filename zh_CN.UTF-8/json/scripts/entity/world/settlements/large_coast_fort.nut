@@ -25,14 +25,14 @@
     "ID": 293410735,
     "key": "Blankenfeste",
     "original": "Blankenfeste",
-    "translation": "布兰肯菲斯特(Blankenfeste)",
+    "translation": "布兰肯要塞(Blankenfeste)",
     "stage": 1
   },
   {
     "ID": 293410736,
     "key": "Wesefeste",
     "original": "Wesefeste",
-    "translation": "韦塞费斯特(Wesefeste)",
+    "translation": "韦塞堡(Wesefeste)",
     "stage": 1
   },
   {
@@ -82,7 +82,7 @@
     "ID": 293410743,
     "key": "Stohlfeste",
     "original": "Stohlfeste",
-    "translation": "斯托尔费斯特(Stohlfeste)",
+    "translation": "斯托尔堡(Stohlfeste)",
     "stage": 1
   },
   {
@@ -124,21 +124,21 @@
     "ID": 293410749,
     "key": "Reedfeste",
     "original": "Reedfeste",
-    "translation": "里德费斯特(Reedfeste)",
+    "translation": "里德要塞(Reedfeste)",
     "stage": 1
   },
   {
     "ID": 293410750,
     "key": "Dunstfeste",
     "original": "Dunstfeste",
-    "translation": "邓斯特费斯特(Dunstfeste)",
+    "translation": "邓斯特要塞(Dunstfeste)",
     "stage": 1
   },
   {
     "ID": 293410751,
     "key": "Regenfeste",
     "original": "Regenfeste",
-    "translation": "雷根费斯特(Regenfeste)",
+    "translation": "雷根堡(Regenfeste)",
     "stage": 1
   },
   {

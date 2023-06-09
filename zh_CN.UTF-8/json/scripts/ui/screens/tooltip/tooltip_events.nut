@@ -10,8 +10,8 @@
     "ID": 293422954,
     "key": "Light bruises, flesh wounds, loss of blood and similar that caused this character to lose hitpoints without impairing their abilities.",
     "original": "Light bruises, flesh wounds, loss of blood and similar that caused this character to lose hitpoints without impairing their abilities.",
-    "translation": "轻微的瘀伤、皮肉伤、失血以及类似的情况，导致这个角色在不损害其能力的情况下失去生命值。",
-    "stage": 1
+    "translation": "轻微的瘀伤、皮肉伤、失血以及类似的情况，导致这个角色失去生命值而不影响他们的能力。",
+    "stage": 5
   },
   {
     "ID": 293422955,
@@ -1430,8 +1430,8 @@
     "ID": 293423151,
     "key": "Received [color=",
     "original": "Received [color=",
-    "translation": "收到了 [color=",
-    "stage": 1,
+    "translation": "受到了 [color=",
+    "stage": 5,
     "context": "'Received [color=' + this.Const.UI.Color.NegativeValue + ']' + combatStats.DamageReceivedHitpoints + '[/color] hitpoint damage'"
   },
   {

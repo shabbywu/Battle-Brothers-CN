@@ -26,7 +26,7 @@
     "key": "the Wanderer",
     "original": "the Wanderer",
     "translation": "流浪者(the Wanderer)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293421364,

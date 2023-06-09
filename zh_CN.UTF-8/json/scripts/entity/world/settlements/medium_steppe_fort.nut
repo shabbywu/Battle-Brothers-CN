@@ -88,7 +88,7 @@
     "ID": 293411459,
     "key": "Sonnenburg",
     "original": "Sonnenburg",
-    "translation": "孙嫩堡(Sonnenburg)",
+    "translation": "桑能堡(Sonnenburg)",
     "stage": 1
   },
   {
