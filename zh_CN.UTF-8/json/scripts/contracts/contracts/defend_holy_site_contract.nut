@@ -31,8 +31,8 @@
     "ID": 293408229,
     "key": "After the battle...",
     "original": "After the battle...",
-    "translation": "战斗之后…",
-    "stage": 1
+    "translation": "战斗之后……",
+    "stage": 5
   },
   {
     "ID": 293408230,

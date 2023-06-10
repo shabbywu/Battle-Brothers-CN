@@ -3230,8 +3230,8 @@
     "ID": 293404239,
     "key": "The Manhunter",
     "original": "The Manhunter",
-    "translation": "猎人",
-    "stage": 1
+    "translation": "猎奴者(The Manhunter)",
+    "stage": 5
   },
   {
     "ID": 293404240,

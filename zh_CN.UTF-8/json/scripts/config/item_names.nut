@@ -1879,8 +1879,8 @@
     "ID": 293405137,
     "key": "Manhunter's",
     "original": "Manhunter's",
-    "translation": "猎人的",
-    "stage": 1
+    "translation": "猎奴者的",
+    "stage": 5
   },
   {
     "ID": 293405138,

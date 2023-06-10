@@ -3,8 +3,8 @@
     "ID": 293416742,
     "key": "The Manhunters",
     "original": "The Manhunters",
-    "translation": "搜捕者",
-    "stage": 1,
+    "translation": "猎奴者",
+    "stage": 5,
     "context": "this.m.Title = 'The Manhunters'"
   },
   {

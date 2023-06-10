@@ -3,8 +3,8 @@
     "ID": 293409638,
     "key": "After the battle...",
     "original": "After the battle...",
-    "translation": "战斗之后…",
-    "stage": 1
+    "translation": "战斗之后……",
+    "stage": 5
   },
   {
     "ID": 293409639,
@@ -161,7 +161,7 @@
     "key": "{This doesn't sound like our kind of work. | I don't think so.}",
     "original": "{This doesn't sound like our kind of work. | I don't think so.}",
     "translation": "{这听起来不像是适合我们的工作。 | 我不这么认为。}",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293409661,
@@ -230,8 +230,8 @@
     "ID": 293409670,
     "key": "{What's this worth to you? | Let's talk pay.}",
     "original": "{What's this worth to you? | Let's talk pay.}",
-    "translation": "{这对你值多少钱？ | 我们来谈谈酬劳。}",
-    "stage": 1
+    "translation": "{这对你来说值多少钱？ | 我们来谈谈酬劳。}",
+    "stage": 5
   },
   {
     "ID": 293409671,

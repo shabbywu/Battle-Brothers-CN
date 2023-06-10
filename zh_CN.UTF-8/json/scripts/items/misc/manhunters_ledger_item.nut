@@ -3,23 +3,23 @@
     "ID": 293418671,
     "key": "]-10%[/color] Experience Gain for Manhunters",
     "original": "]-10%[/color] Experience Gain for Manhunters",
-    "translation": "]-10%[/color] 搜捕者经验获取",
-    "stage": 1,
+    "translation": "]-10%[/color] 猎奴者经验获取",
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] Experience Gain for Manhunters'"
   },
   {
     "ID": 293418672,
     "key": " Manhunters in the company",
     "original": " Manhunters in the company",
-    "translation": "战团搜捕者",
-    "stage": 1,
+    "translation": "战团里的猎奴者",
+    "stage": 5,
     "context": "nonIndebted + ' Manhunters in the company'"
   },
   {
     "ID": 293418673,
     "key": "There are too few Indebted in the company! The Manhunters will become dissatisfied if this continues!",
     "original": "There are too few Indebted in the company! The Manhunters will become dissatisfied if this continues!",
-    "translation": "战团里的负债者太少了！ 如果这种情况继续下去，搜捕者会感到不满意！",
+    "translation": "战团里的负债者太少了！ 如果这种情况继续下去，猎奴者会感到不满意！",
     "stage": 1
   },
   {
