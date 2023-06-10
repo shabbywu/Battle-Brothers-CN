@@ -3,8 +3,8 @@
     "ID": 293409730,
     "key": "After the battle...",
     "original": "After the battle...",
-    "translation": "战斗之后…",
-    "stage": 1
+    "translation": "战斗之后……",
+    "stage": 5
   },
   {
     "ID": 293409731,
@@ -156,7 +156,7 @@
     "key": "{This doesn't sound like our kind of work. | I don't think so.}",
     "original": "{This doesn't sound like our kind of work. | I don't think so.}",
     "translation": "{这听起来不像是适合我们的工作。 | 我不这么认为。}",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293409752,

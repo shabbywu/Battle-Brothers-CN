@@ -10,7 +10,7 @@
     "ID": 293419694,
     "key": "[p=c][img]gfx/ui/events/event_172.png[/img][/p][p]Constant conflict between city states and nomads makes for good business. The bulk of your outfit are captives, forced to fight to earn their freedom, and their ranks grow after each battle.\n\n[color=#bcad8",
     "original": "[p=c][img]gfx/ui/events/event_172.png[/img][/p][p]Constant conflict between city states and nomads makes for good business. The bulk of your outfit are captives, forced to fight to earn their freedom, and their ranks grow after each battle.\n\n[color=#bcad8c]Army of Captives:[/color] Start with two manhunters and four indebted. Take up to 16 men into battle at once. Having equal or fewer indebted than non-indebted will make your men dissatisfied.\n[color=#bcad8c]Overseers:[/color] All non-indebted can whip indebted in combat to reset their morale and buff their stats.\n[color=#bcad8c]Captives:[/color] Indebted earn 10% more experience, are capped at level 7, and will die if struck down.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_172.png[/img][/p][p]城邦和游牧民族之间不断的冲突有利于生意的发展。 你的大部分构成都是俘虏，为了获得自由被迫战斗，他们的队伍在每次战斗后都会增加。\n\n[color=#bcad8c]俘虏大军：[/color] 从两个搜捕者和四个负债者开始。 一次最多可携带16人参战。 负债者与非负债者相等或更少会使你的人不满意。\n[color=#bcad8c]监工：[/color] 所有非负债者都可以在战斗中鞭打负债者的来重置他们的士气和增加他们的属性。\n[color=#bcad8c]俘虏：[/color] 负债者获得的经验增加10%，上限为7级，如果被击倒将死亡。[/p]",
+    "translation": "[p=c][img]gfx/ui/events/event_172.png[/img][/p][p]城邦和游牧民族之间不断的冲突有利于生意的发展。 你的大部分构成都是俘虏，为了获得自由被迫战斗，他们的队伍在每次战斗后都会增加。\n\n[color=#bcad8c]俘虏大军：[/color] 从两个猎奴者和四个负债者开始。 一次最多可携带16人参战。 负债者与非负债者相等或更少会使你的人不满意。\n[color=#bcad8c]监工：[/color] 所有非负债者都可以在战斗中鞭打负债者的来重置他们的士气和增加他们的属性。\n[color=#bcad8c]俘虏：[/color] 负债者获得的经验增加10%，上限为7级，如果被击倒将死亡。[/p]",
     "stage": 1,
     "context": "this.m.Description = '[p=c][img]gfx/ui/events/event_172.png[/img][/p][p]Constant conflict between city states and nomads makes for good business. The bulk of your outfit are captives, forced to fight to earn their freedom, and their ranks grow after each battle.\n\n[color=#bcad8c]Army of Captives:[/color] Start with two manhunters and four indebted. Take up to 16 men into battle at once. Having equal or fewer indebted than non-indebted will make your men dissatisfied.\n[color=#bcad8c]Overseers:[/color] All non-indebted can whip indebted in combat to reset their morale and buff their stats.\n[color=#bcad8c]Captives:[/color] Indebted earn 10% more experience, are capped at level 7, and will die if struck down.[/p]'"
   },
@@ -49,7 +49,7 @@
     "key": "the Northerner",
     "original": "the Northerner",
     "translation": "北方人(the Northerner)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293419700,
@@ -174,8 +174,8 @@
     "ID": 293419716,
     "key": "Manhunters",
     "original": "Manhunters",
-    "translation": "搜捕者",
-    "stage": 1,
+    "translation": "猎奴者",
+    "stage": 5,
     "context": "this.m.Name = 'Manhunters'"
   },
   {

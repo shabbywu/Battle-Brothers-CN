@@ -127,8 +127,8 @@
     "ID": 293414826,
     "key": "Got taken captive by manhunters",
     "original": "Got taken captive by manhunters",
-    "translation": "被搜捕者俘虏了",
-    "stage": 1
+    "translation": "被猎奴者俘虏了",
+    "stage": 5
   },
   {
     "ID": 293414827,
@@ -141,7 +141,7 @@
     "ID": 293414828,
     "key": "Be on your way then, manhunters.",
     "original": "Be on your way then, manhunters.",
-    "translation": "那就继续走吧，搜捕者。",
+    "translation": "那就继续走吧，猎奴者。",
     "stage": 1
   },
   {

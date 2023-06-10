@@ -26,8 +26,8 @@
     "ID": 293414377,
     "key": "After the battle...",
     "original": "After the battle...",
-    "translation": "战斗之后…",
-    "stage": 1,
+    "translation": "战斗之后……",
+    "stage": 5,
     "context": "this.m.Title = 'After the battle...'"
   },
   {

@@ -10,8 +10,8 @@
     "ID": 293410009,
     "key": "After the battle...",
     "original": "After the battle...",
-    "translation": "战斗之后…",
-    "stage": 1
+    "translation": "战斗之后……",
+    "stage": 5
   },
   {
     "ID": 293410010,
@@ -61,7 +61,7 @@
     "ID": 293410016,
     "key": "Indebted",
     "original": "Indebted",
-    "translation": "欠债者",
+    "translation": "负债者",
     "stage": 1
   },
   {
