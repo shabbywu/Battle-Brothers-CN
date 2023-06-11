@@ -19,8 +19,8 @@
     "ID": 293419479,
     "key": "A pitchfork re-forged into a battlefield weapon that is a cross between a spear and a pike. Used for thrusting over some distance and keeping the enemy at bay.",
     "original": "A pitchfork re-forged into a battlefield weapon that is a cross between a spear and a pike. Used for thrusting over some distance and keeping the enemy at bay.",
-    "translation": "一种被重新锻造成战场武器的干草叉，介于矛和枪之间。可在一定距离外戳击并与敌人保持距离。",
-    "stage": 1,
+    "translation": "一把被重新锻造成战场武器的干草叉，介于矛和枪之间。可在一定距离外戳击并与敌人保持距离。",
+    "stage": 5,
     "context": "this.m.Description = 'A pitchfork re-forged into a battlefield weapon that is a cross between a spear and a pike. Used for thrusting over some distance and keeping the enemy at bay.'"
   }
 ]

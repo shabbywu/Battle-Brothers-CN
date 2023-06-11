@@ -105,7 +105,7 @@
     "ID": 293420919,
     "key": "You heard that %name%, the cultist, left the company at some juncture and went out to spread his faith. There's no telling what became of him, but there was a recent inquisition against unholy faiths and hundreds of 'men in dark cloaks with even darker in",
     "original": "You heard that %name%, the cultist, left the company at some juncture and went out to spread his faith. There's no telling what became of him, but there was a recent inquisition against unholy faiths and hundreds of 'men in dark cloaks with even darker intentions' were burned at the stake across the realm.",
-    "translation": "你听说过%name%，那个邪教徒，在某个时刻离开了战团，出去传播他的信仰。没人知道他后来怎么样了，但最近有一场针对邪恶信仰的宗教审判，数百名“披着黑斗篷，意图则更黑暗的人”在各地被处以火刑。",
+    "translation": "你听说%name%，那个邪教徒，在某个时刻离开了战团，出去传播他的信仰。没人知道他后来怎么样了，但最近有一场针对邪恶信仰的宗教审判，数百名“披着黑斗篷，意图则更黑暗的人”在各地被处以火刑。",
     "stage": 5,
     "context": "this.m.BadEnding = \"You heard that %name%, the cultist, left the company at some juncture and went out to spread his faith. There's no telling what became of him, but there was a recent inquisition against unholy faiths and hundreds of 'men in dark cloaks with even darker intentions' were burned at the stake across the realm.\""
   },

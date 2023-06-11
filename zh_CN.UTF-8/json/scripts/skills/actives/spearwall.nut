@@ -28,7 +28,7 @@
     "key": "Thrust",
     "original": "Thrust",
     "translation": "戳击",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293420446,

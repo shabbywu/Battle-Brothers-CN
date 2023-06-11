@@ -10,8 +10,8 @@
     "ID": 293409436,
     "key": " crowns on completion",
     "original": " crowns on completion",
-    "translation": "克朗在合同完成后。",
-    "stage": 1,
+    "translation": " 克朗于合同完成之后",
+    "stage": 5,
     "context": "'Get ' + this.Contract.m.Payment.getOnCompletion() + ' crowns on completion'"
   },
   {
@@ -39,8 +39,8 @@
     "ID": 293409440,
     "key": " crowns in advance",
     "original": " crowns in advance",
-    "translation": "克朗预付款。",
-    "stage": 1,
+    "translation": " 克朗预付款",
+    "stage": 5,
     "context": "'Get ' + this.Contract.m.Payment.getInAdvance() + ' crowns in advance'"
   },
   {

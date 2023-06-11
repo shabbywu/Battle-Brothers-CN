@@ -4,7 +4,7 @@
     "key": "Read and learn",
     "original": "Read and learn",
     "translation": "阅读和学习",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404747,
@@ -17,22 +17,22 @@
     "ID": 293404748,
     "key": "Nothing in life is permanent",
     "original": "Nothing in life is permanent",
-    "translation": "无人永生",
-    "stage": 1
+    "translation": "生命中没有什么是永恒的",
+    "stage": 5
   },
   {
     "ID": 293404749,
     "key": "Judge not",
     "original": "Judge not",
-    "translation": "我们不接受评判",
-    "stage": 1
+    "translation": "不轻易评判",
+    "stage": 5
   },
   {
     "ID": 293404750,
     "key": "A city state ruled by a ruthless council that is out to achieve power by all means. Many an untimely death is rumored to have been an assassination ordered by the viziers of %citystatename%.",
     "original": "A city state ruled by a ruthless council that is out to achieve power by all means. Many an untimely death is rumored to have been an assassination ordered by the viziers of %citystatename%.",
-    "translation": "一个由无情的议会统治的城邦，它不择手段地获得权力。据传，许多离奇的死亡案都是 %citystatename% 的大臣下令暗杀的。",
-    "stage": 1
+    "translation": "一个由无情的议会统治的城邦，他们会不择手段地获取权力。据传许多突然死亡事件都是由%citystatename%的维齐尔下令实施的暗杀。",
+    "stage": 5
   },
   {
     "ID": 293404751,
@@ -52,15 +52,15 @@
     "ID": 293404753,
     "key": "A wealthy and independent city state focused mostly on trade and acquiring further wealth.",
     "original": "A wealthy and independent city state focused mostly on trade and acquiring further wealth.",
-    "translation": "一个富裕而独立的城邦主要专注于贸易和获取更多财富。",
-    "stage": 1
+    "translation": "一个富裕而独立的城邦，主要专注于贸易和获取更多财富。",
+    "stage": 5
   },
   {
     "ID": 293404754,
     "key": "Dare to be wise",
     "original": "Dare to be wise",
-    "translation": "敢为睿智者",
-    "stage": 1
+    "translation": "敢为智者",
+    "stage": 5
   },
   {
     "ID": 293404755,
@@ -122,8 +122,8 @@
     "ID": 293404763,
     "key": "Most members of the house of %noblehousename% live secluded behind thick doors and barred windows and some of them have not been seen for years. Rumor has it that their noble blood is plagued with madness and insanity but no ordinary man dares to utter su",
     "original": "Most members of the house of %noblehousename% live secluded behind thick doors and barred windows and some of them have not been seen for years. Rumor has it that their noble blood is plagued with madness and insanity but no ordinary man dares to utter such claims in fear of their vengeance. Other noble houses mainly avoid contact to house %noblehousename% as guests may be greeted with open arms as well as crossbow bolts.",
-    "translation": "绝大多数 %noblehousename% 家族的成员都生活在厚厚的门窗后面，有些人甚至已经好几年没有抛头露面了。 有传言说他们高贵的血脉中流淌着疯狂与错乱的诅咒，但因为害怕他们的报复，从来没人敢当众说出这样的话。 其他的贵族多数情况下都会避免与 %noblehousename% 进行接触，因为去他们那拜访的客人有可能会同时受到敞开的双臂与弓弩的箭矢作为欢迎。",
-    "stage": 1
+    "translation": "绝大多数%noblehousename%家族的成员都隐居在厚厚的门和闩着的窗户后面，其中一些人多年来一直没有露面。有传言说他们高贵的血脉中流淌着疯狂与错乱的诅咒，但因为害怕他们的报复，平民中从来没有敢当众说出这样的话的。其他的贵族多数情况下都会避免与%noblehousename%家族进行接触，因为去他们那拜访的客人有可能会同时收到敞开的双臂与弩矢作为欢迎。",
+    "stage": 5
   },
   {
     "ID": 293404764,
@@ -158,7 +158,7 @@
     "key": "Among the first",
     "original": "Among the first",
     "translation": "敢为天下先",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404769,
@@ -186,7 +186,7 @@
     "key": "Wealth is my arrow",
     "original": "Wealth is my arrow",
     "translation": "财富是我们的箭",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404773,
@@ -213,15 +213,15 @@
     "ID": 293404776,
     "key": "Things locked up are safe",
     "original": "Things locked up are safe",
-    "translation": "只有锁起来的东西才是安全的东西",
-    "stage": 1
+    "translation": "锁起来的东西是安全的",
+    "stage": 5
   },
   {
     "ID": 293404777,
     "key": "By all means",
     "original": "By all means",
-    "translation": "尽一切办法",
-    "stage": 1
+    "translation": "不择手段",
+    "stage": 5
   },
   {
     "ID": 293404778,
@@ -269,8 +269,8 @@
     "ID": 293404784,
     "key": "Each his share",
     "original": "Each his share",
-    "translation": "人人为我",
-    "stage": 1
+    "translation": "各占其份",
+    "stage": 5
   },
   {
     "ID": 293404785,
@@ -284,21 +284,21 @@
     "key": "A snake in the grass",
     "original": "A snake in the grass",
     "translation": "草丛中的蛇",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404787,
     "key": "From the shadows",
     "original": "From the shadows",
-    "translation": "利用好阴影",
-    "stage": 1
+    "translation": "来自阴影",
+    "stage": 5
   },
   {
     "ID": 293404788,
     "key": "A gift returned",
     "original": "A gift returned",
-    "translation": "归还的礼物",
-    "stage": 1
+    "translation": "礼物须有回赠",
+    "stage": 5
   },
   {
     "ID": 293404789,
@@ -325,8 +325,8 @@
     "ID": 293404792,
     "key": "We neither despise nor fear",
     "original": "We neither despise nor fear",
-    "translation": "我们不蔑视别人，我们亦无所畏惧",
-    "stage": 1
+    "translation": "我们不蔑视他人，我们亦无所畏惧",
+    "stage": 5
   },
   {
     "ID": 293404793,
@@ -388,8 +388,8 @@
     "ID": 293404801,
     "key": "House %noblehousename% claims to have roots in the time when man first claimed this land, and the first king ruled all men. They are but one of many noble houses now, but proud of their long history and with ambitions to continue writing history. As their",
     "original": "House %noblehousename% claims to have roots in the time when man first claimed this land, and the first king ruled all men. They are but one of many noble houses now, but proud of their long history and with ambitions to continue writing history. As their renown and their resources dwindle in the now, they are said to finance expeditions in an attempt to unearth long lost treasures from the past, in sunken cities and places long forgotten.",
-    "translation": "%noblehousename% 家族自称他们的家史从人类第一次踏足这片大陆，以及第一任帝王登基统治以来就已经开始了。 尽管他们现在只不过是众多普普通通的贵族家族之一，但他们为自己家族的古老传统深感荣耀，并胸怀野心，渴望再次亲自书写历史。 现在，随着他们的名望和财产一点点地减少，据说他们开始资助探险者们，试图从过去那些沉沦的都市与早已被人遗忘的地方发掘失落的宝藏。",
-    "stage": 1
+    "translation": "%noblehousename%家族宣称他们的渊源可以追溯到当人类首次宣称这片土地，以及第一位国王统治所有人的时代。尽管他们现在只是众多贵族家族之一，但他们引以为傲的悠久历史和不断书写历史的雄心壮志在如今仍旧存在。随着其声名和资源的日渐衰弱，据说他们正在资助各种探险活动，试图在沉没的城市和早已被遗忘的地方发掘失落已久的宝藏。",
+    "stage": 5
   },
   {
     "ID": 293404802,
@@ -423,8 +423,8 @@
     "ID": 293404806,
     "key": "A city state dedicated to acquiring knowledge above all - even if it comes at the cost of doing autopsies, reading forbidden tomes or engaging with sinister powers not of this world.",
     "original": "A city state dedicated to acquiring knowledge above all - even if it comes at the cost of doing autopsies, reading forbidden tomes or engaging with sinister powers not of this world.",
-    "translation": "一个致力于获取最重要的知识的城邦——即使是以尸检、阅读禁书或与不属于这个世界的邪恶势力交往为代价。",
-    "stage": 1
+    "translation": "一个首要致力于获取知识的城邦 —— 即使这意味着要进行尸检、阅读禁书，或者与不属于这个世界的邪恶势力接触。",
+    "stage": 5
   },
   {
     "ID": 293404807,
@@ -465,8 +465,8 @@
     "ID": 293404812,
     "key": "Once and always",
     "original": "Once and always",
-    "translation": "一如既往",
-    "stage": 1
+    "translation": "一次即永恒",
+    "stage": 5
   },
   {
     "ID": 293404813,
@@ -528,15 +528,15 @@
     "ID": 293404821,
     "key": "Every man for himself",
     "original": "Every man for himself",
-    "translation": "人不为己天诛地灭",
-    "stage": 1
+    "translation": "各为其自",
+    "stage": 5
   },
   {
     "ID": 293404822,
     "key": "The castle of wisdom",
     "original": "The castle of wisdom",
     "translation": "智慧城堡",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404823,
@@ -564,7 +564,7 @@
     "key": "Safe on the waves",
     "original": "Safe on the waves",
     "translation": "狂涛巨浪，能奈我何",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404827,
@@ -577,15 +577,15 @@
     "ID": 293404828,
     "key": "Beware the wolf",
     "original": "Beware the wolf",
-    "translation": "当心狼群",
-    "stage": 1
+    "translation": "保持警觉",
+    "stage": 5
   },
   {
     "ID": 293404829,
     "key": "Gauge and measure",
     "original": "Gauge and measure",
-    "translation": "评估与测量",
-    "stage": 1
+    "translation": "审慎与衡量",
+    "stage": 5
   },
   {
     "ID": 293404830,
@@ -613,7 +613,7 @@
     "key": "With sail and oars",
     "original": "With sail and oars",
     "translation": "风帆与船桨",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404834,
@@ -640,15 +640,15 @@
     "ID": 293404837,
     "key": "Wealth to him who knows how to use it",
     "original": "Wealth to him who knows how to use it",
-    "translation": "财富属于知道如何使用它的人",
-    "stage": 1
+    "translation": "财富属于懂得利用它的人",
+    "stage": 5
   },
   {
     "ID": 293404838,
     "key": "The hawk catcheth not flies",
     "original": "The hawk catcheth not flies",
-    "translation": "鹰捉不到苍蝇",
-    "stage": 1
+    "translation": "鹰不捉蝇",
+    "stage": 5
   },
   {
     "ID": 293404839,
@@ -661,8 +661,8 @@
     "ID": 293404840,
     "key": "Wisdom the conqueror of fortune",
     "original": "Wisdom the conqueror of fortune",
-    "translation": "智慧是财富的征服者",
-    "stage": 1
+    "translation": "智慧征服命运",
+    "stage": 5
   },
   {
     "ID": 293404841,
@@ -710,29 +710,29 @@
     "ID": 293404847,
     "key": "All things change",
     "original": "All things change",
-    "translation": "时代变了",
-    "stage": 1
+    "translation": "万物皆变",
+    "stage": 5
   },
   {
     "ID": 293404848,
     "key": "He lives twice who lives well",
     "original": "He lives twice who lives well",
     "translation": "活得好等于活了两次",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404849,
     "key": "One giveth, one taketh",
     "original": "One giveth, one taketh",
-    "translation": "没有付出就没有收获",
-    "stage": 1
+    "translation": "有得必有失",
+    "stage": 5
   },
   {
     "ID": 293404850,
     "key": "All things are thus unstable",
     "original": "All things are thus unstable",
-    "translation": "一切都如此反复无常",
-    "stage": 1
+    "translation": "万物皆无常",
+    "stage": 5
   },
   {
     "ID": 293404851,
@@ -767,14 +767,14 @@
     "key": "Wealth is our sword",
     "original": "Wealth is our sword",
     "translation": "财富是我们的剑",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404856,
     "key": "Golden towers in the distance",
     "original": "Golden towers in the distance",
-    "translation": "远处的金塔",
-    "stage": 1
+    "translation": "金塔立于远方",
+    "stage": 5
   },
   {
     "ID": 293404857,
@@ -787,15 +787,15 @@
     "ID": 293404858,
     "key": "He lives well who lives peacefully",
     "original": "He lives well who lives peacefully",
-    "translation": "和平生活的人生活得很好",
-    "stage": 1
+    "translation": "生活平和，生活幸福",
+    "stage": 5
   },
   {
     "ID": 293404859,
     "key": "Consider the end",
     "original": "Consider the end",
-    "translation": "预想你的终末",
-    "stage": 1
+    "translation": "预想终末",
+    "stage": 5
   },
   {
     "ID": 293404860,
@@ -815,8 +815,8 @@
     "ID": 293404862,
     "key": "Knowledge at last",
     "original": "Knowledge at last",
-    "translation": "终于有了知识",
-    "stage": 1
+    "translation": "终有所知",
+    "stage": 5
   },
   {
     "ID": 293404863,

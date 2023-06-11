@@ -4,7 +4,7 @@
     "key": "Impaled",
     "original": "Impaled",
     "translation": "被刺穿",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.KilledString = 'Impaled'"
   },
   {
@@ -19,8 +19,8 @@
     "ID": 293420676,
     "key": "A well placed thrust attack that is hard to avoid or block.",
     "original": "A well placed thrust attack that is hard to avoid or block.",
-    "translation": "很难避免或阻止的位置良好的推力攻击。",
-    "stage": 1,
+    "translation": "一记难以避免或阻挡的准确刺击。",
+    "stage": 5,
     "context": "this.m.Description = 'A well placed thrust attack that is hard to avoid or block.'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "Thrust",
     "original": "Thrust",
     "translation": "戳击",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Thrust'"
   },
   {

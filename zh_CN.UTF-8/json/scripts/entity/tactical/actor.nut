@@ -192,7 +192,7 @@
     "key": " discovered!",
     "original": " discovered!",
     "translation": " 被发现！",
-    "stage": 1,
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(this) + ' discovered!'"
   },
   {

@@ -701,7 +701,7 @@
     "key": "Many",
     "original": "Many",
     "translation": "许多(7-9)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405736,
@@ -1382,8 +1382,8 @@
     "ID": 293405831,
     "key": "Caravan Cart",
     "original": "Caravan Cart",
-    "translation": "大篷车",
-    "stage": 1
+    "translation": "商队运货马车",
+    "stage": 5
   },
   {
     "ID": 293405832,
@@ -7567,8 +7567,8 @@
     "ID": 293406702,
     "key": "A cart full of trading goods.",
     "original": "A cart full of trading goods.",
-    "translation": "满载贸易商品的推车。",
-    "stage": 1
+    "translation": "满载贸易商品的运货马车。",
+    "stage": 5
   },
   {
     "ID": 293406703,
@@ -7595,8 +7595,8 @@
     "ID": 293406706,
     "key": "Caravan Carts",
     "original": "Caravan Carts",
-    "translation": "大篷车推车",
-    "stage": 1
+    "translation": "商队运货马车",
+    "stage": 5
   },
   {
     "ID": 293406707,

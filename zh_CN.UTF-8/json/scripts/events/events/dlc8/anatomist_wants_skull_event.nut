@@ -183,7 +183,7 @@
     "key": "I don't think so.",
     "original": "I don't think so.",
     "translation": "我不这么认为。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293415217,
