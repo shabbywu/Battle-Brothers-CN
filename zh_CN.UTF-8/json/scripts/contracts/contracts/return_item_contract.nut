@@ -31,8 +31,8 @@
     "ID": 293409777,
     "key": "[img]gfx/ui/events/event_20.png[/img]{%employer% restlessly walks back and forth while explaining what troubles him.%SPEECH_ON%There has been an audacious act of thievery! The despicable brigands stole my %itemLower% which is of immeasurable value to me. ",
     "original": "[img]gfx/ui/events/event_20.png[/img]{%employer% restlessly walks back and forth while explaining what troubles him.%SPEECH_ON%There has been an audacious act of thievery! The despicable brigands stole my %itemLower% which is of immeasurable value to me. I implore you to hunt down those thieves and return that item to me.%SPEECH_OFF%He lowers his voice to an insisting tone.%SPEECH_ON%Not only will you get paid handsomely, but you would also set the worried minds of the good people of %townname% to rest!%SPEECH_OFF% | %employer%'s reading one of many scrolls. He angrily tosses it onto a pile of others.%SPEECH_ON%The people of %townname% are rightfully furious. Do you know a brigand, possibly in league with other vagabonds, managed to steal my %itemLower% from us? That artifact is of immeasurable value to me! And... to the people, of course.%SPEECH_OFF%You shrug.%SPEECH_ON%And you want me to get it back for you?%SPEECH_OFF%The man points a finger.%SPEECH_ON%Precisely, smart sellsword! That is exactly what I want you to do. Follow the footprints of thievery and return to me the item which I... the town, rightfully owns!%SPEECH_OFF% | %employer%'s turning an apple in hand. He seems frustrated with it, almost as if he wishes it were something else like a valuable trinket or perhaps just a tastier fruit.%SPEECH_ON%Have you ever lost something you loved?%SPEECH_OFF%You shrug and answer.%SPEECH_ON%There was this girl...%SPEECH_OFF%The man shakes his head.%SPEECH_ON%No, not some woman. More important. Because I have! Thieves stole my %itemLower%. How they managed to do get beyond my guards is, well, beyond me. But I know if I set you on them I'll be having what is rightfully mine back where it belongs. Isn't that right? Or have I been mislead as to the quality of your services?%SPEECH_OFF% | A dog is snoring at the feet of %employer%. He leans forward to gently pet the hound behind its ears.%SPEECH_ON%I hear you have a nose for finding people, sellsword. For... solving problems.%SPEECH_OFF%You nod. It is true, after all.%SPEECH_ON%Good... good... I have a task for you. A simple one. Something of great value to me has been stolen, my %itemLower%. I need you to track down those who stole it, kill them, obviously, and then bring back the item.%SPEECH_OFF% | A bird is perched on %employer%'s window. The man, seated, points at it.%SPEECH_ON%I wonder if that's how they got in. The brigands, I mean. I think they must've snuck through a window and then right back out. That's how they got away with my %itemLower%.%SPEECH_OFF%The man slowly rises and stalks across the room. He crouches, about ready to pounce on the bird, but the creature scatters before the man can so much as flinch.%SPEECH_ON%Damn.%SPEECH_OFF%He returns to his seat, wiping his hands as if he'd worked up a sweat during his attempted avian ambush.%SPEECH_ON%My task is simple, sellsword. Bring my property back to me. Kill the brigands, too, if you wouldn't mind.%SPEECH_OFF% | Dust covers %employer%'s table, but there is a spot oddly cleaner than the rest. He gestures to it.%SPEECH_ON%That's where my %itemLower% used to sit. If you couldn't tell, it's gone.%SPEECH_OFF%You nod. It does appear to be missing.%SPEECH_ON%The thieves who took it should be easy to track down. They're good thinkers in the night, those brigands, but they make mistakes aplenty during the day. Footprints, crowns ill-spent... you should be able to track them down with ease.%SPEECH_OFF%He looks at you with a stern eye.%SPEECH_ON%Do you understand, mercenary? I want you to get my property back. I want it placed right where it belongs. And... I want those thieves dead in the mud.%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_20.png[/img]{%employer% 不安地走来走去，一边解释是什么困扰着他。%SPEECH_ON%我这里发生了一桩明目张胆的盗窃！ 可恶 的强盗偷走了我的 %itemLower%，这对我来说有着不可估量的价值。 我请求你去追捕那些盗贼并把它带回来。%SPEECH_OFF%他压低音量到一个更固执的语调。%SPEECH_ON%你不仅会拿到不少报酬，你还会让 %townname% 的人民安心！%SPEECH_OFF% | %employer% 阅读着许多卷轴中的一卷。 他愤怒的把它丢到另一堆里。%SPEECH_ON%%townname% 的人民非常愤怒。 你知道有个强盗，可能还有其他的流浪汉，成功偷了我的 %itemLower%？ 那件神器对我来说有着不可估量的价值！ 还有…当然对于人民也是。%SPEECH_OFF%You shrug.%SPEECH_ON%所以你想要我替你去把它夺回来？%SPEECH_OFF%他指出手指。%SPEECH_ON%没错，聪明佣兵！这就是我想要你做的。 跟随那些贼的足迹并夺回属于我的…城镇的东西！%SPEECH_OFF% | %employer%正在转动手里的苹果。他似乎对它很失望，好像他希望它是别的东西，比如一件有价值的小饰品，或者只是一种更美味的水果。%SPEECH_ON%你曾经失去过你所爱的东西吗？%SPEECH_OFF%你耸耸肩回答。%SPEECH_ON%曾经有个女孩……%SPEECH_OFF%男人摇了摇头。%SPEECH_ON%不，不是什么女人。更重要的。因为我有！盗贼偷走了我的%itemLower%。他们如何越过我的警卫，好吧我是很难理解。但是我知道只要我让你出手，我就可以把我应得的东西拿回来。是这样的吗？还是我对你的服务质量有误解？%SPEECH_OFF% | 一条狗在 %employer% 脚边打瞌睡。他向前靠来抚摸狗耳朵后面。%SPEECH_ON%我听说你很擅长找人，佣兵。还有…解决问题。%SPEECH_OFF%你点头。毕竟，确实。%SPEECH_ON%好…很好…我有个任务给你。一个简单的任务。 有件对我而言很有价值的东西被偷了，我的 %itemLower%。我需要你去追踪那些小偷，然后很显然，杀了他们，然后把它拿回来。%SPEECH_OFF% | 一只鸟立在 %employer%的窗户上。 他，坐着，指向他。%SPEECH_ON%我寻思他们或许就是这么进来的。 强盗，我是说。 我想他们肯定从窗户摸进来然后出去的。 他们就是这么带走我的 %itemLower%。%SPEECH_OFF%他慢慢站起走过房间。 他蹲下来，准备好打鸟，但是它在他动之前就逃走了。%SPEECH_ON%Damn.%SPEECH_OFF%他回到椅子上，好像他未遂的抓鸟行动让他流了很多汗一样擦手。%SPEECH_ON%我的任务很简单，佣兵。 把我的财产拿回来。 还有，杀了强盗，如果你不介意。%SPEECH_OFF% | 灰尘覆盖了 %employer%的桌子，但是上面有个地方突兀的更干净点。 他示意向那个点。%SPEECH_ON%那是我的 %itemLower% 曾经摆着的地方。 如果你看不到它，它就是不见了。%SPEECH_OFF%你点头。它看起来确实不见了。%SPEECH_ON%带走它的盗贼应该很好追踪。 晚上他们想的很不错，这些强盗，但是他们在白天犯了很多错。 脚印，乱花的克朗…你应该很轻松就能追踪到他们。%SPEECH_OFF%他用坚毅的眼神看着你。%SPEECH_ON%你明白吗，雇佣兵？ 我想要你去夺回我的财产。 我想要它放在他该摆的地方。 而且…我想要这些盗贼死。%SPEECH_OFF%}",
-    "stage": 1
+    "translation": "[img]gfx/ui/events/event_20.png[/img]{%employer%不安地走来走去，一边解释他的烦恼。%SPEECH_ON%我这里发生了一桩明目张胆的盗窃案！卑鄙的强盗偷走了我的%itemLower%，这对我来说价值不可估量。我恳求你追捕那些盗贼，把那件东西还给我%SPEECH_OFF%他将声音降低到一个更为坚决的语气。%SPEECH_ON%你不仅会获得丰厚的薪酬，还会让%townname%善良人们的担心烟消云散！%SPEECH_OFF% | %employer%正在读许多卷轴中的一卷。他愤怒地把它丢到另一堆卷轴里。%SPEECH_ON%%townname%的居民为此事感到愤怒，他们很有理由这么做。你知道吗？一名强盗，可能是与其他流浪汉勾结的，设法从我们身边偷走了我的%itemLower%？那东西对于我来说价值无穷，而且……对于人民来说也一样，当然了。%SPEECH_OFF%你耸耸肩。%SPEECH_ON%所以你想要我替你去把它弄回来？%SPEECH_OFF%他指出手指。%SPEECH_ON%没错，聪明的佣兵！这就是我想要你做的。跟随那些贼的足迹并夺回属于我……镇子的那东西！%SPEECH_OFF% | %employer%正在转动手里的苹果。他似乎对它很失望，好像他希望它是别的东西，比如一件有价值的小饰品，或者只是一种更美味的水果。%SPEECH_ON%你曾经失去过你所爱的东西吗？%SPEECH_OFF%你耸耸肩回答。%SPEECH_ON%曾经有个女孩……%SPEECH_OFF%男人摇了摇头。%SPEECH_ON%不，不是什么女人。更重要的。因为我有！盗贼偷走了我的%itemLower%。他们如何越过我的警卫，好吧我是很难理解。但是我知道只要我让你出手，我就可以把我应得的东西拿回来。是这样的吗？还是我对你的服务质量有误解？%SPEECH_OFF% | 一条狗在%employer%的脚边打着鼾。他倾身轻轻抚摸猎犬的耳后。%SPEECH_ON%我听说你很擅长找人，佣兵。还有……解决问题。%SPEECH_OFF%你点点头。毕竟，这是实话。%SPEECH_ON%好……很好……我有个任务给你。一个简单的任务。有件对我而言很有价值的东西被偷了，我的%itemLower%。我需要你找到偷走它的人，杀了他们，当然，然后把东西带回来。%SPEECH_OFF% | 一只鸟立在%employer%的窗户上。那人坐着，指着它。%SPEECH_ON%我想知道他们是不是这样进来的。我是说强盗。我想他们一定是从窗户溜进来的，然后又从那出去。他们就是这样把我的%itemLower%偷走的。%SPEECH_OFF%那人慢慢站起来，大步穿过房间。他蹲下身子，准备扑向那只鸟，但是在他还没有做出反应的时候，那只生物已经四散逃开了。%SPEECH_ON%该死。%SPEECH_OFF%他回到座位上，擦了擦手，好像他在试图伏击鸟类时出了一身汗。%SPEECH_ON%我的任务很简单，佣兵。把我的财产弄回来。还有，杀了强盗，如果你不介意。%SPEECH_OFF% | 灰尘覆盖了%employer%的桌子，但是上面有个突兀的干净之处。他向那示意。%SPEECH_ON%那是我的%itemLower%曾经摆着的地方。如果你看不出来，说明它已经不见了。%SPEECH_OFF%你点头。它看起来确实不见了。%SPEECH_ON%带走它的盗贼应该很好追踪。他们在晚上盘算得不错，那些强盗，但是他们在白天犯了很多错。脚印，乱花的克朗……你应该能够轻松地追踪到它们。%SPEECH_OFF%他用严厉的眼神看着你。%SPEECH_ON%你明白吗，雇佣兵？我想要你去夺回我的财产。我要把它摆在该摆的地方。而且……我要那些盗贼死在泥里。%SPEECH_OFF%}",
+    "stage": 5
   },
   {
     "ID": 293409778,
@@ -67,8 +67,8 @@
     "ID": 293409782,
     "key": "Thieves",
     "original": "Thieves",
-    "translation": "盗贼",
-    "stage": 1
+    "translation": "盗贼(Thieves)",
+    "stage": 5
   },
   {
     "ID": 293409783,
@@ -95,8 +95,8 @@
     "ID": 293409786,
     "key": "[img]gfx/ui/events/event_80.png[/img]{Brigands! Just as your employer had thought. They look scared, presumably understanding that %employer%'s well-paid wrath is about to descend upon them. | Ah, the thieves are quite human - a simple crew of vagabonds a",
     "original": "[img]gfx/ui/events/event_80.png[/img]{Brigands! Just as your employer had thought. They look scared, presumably understanding that %employer%'s well-paid wrath is about to descend upon them. | Ah, the thieves are quite human - a simple crew of vagabonds and brigands. They arm themselves as you order your men to attack. | You catch a group of brigands lugging your employer's property around. They seem shocked that you have found them here and no time is wasted trying to parlay - they arm themselves and you order the %companyname% to charge.}",
-    "translation": "[img]gfx/ui/events/event_80.png[/img]{强盗！跟你的雇主猜的一样。 他们看起来很害怕，或许知道 %employer% 花了大价钱雇来的怒火要降临在他们身上。 | 啊，小偷显然是人－一群普通的流浪汉和强盗。 他们准备战斗而你命令你的手下开始进攻。 | 你跟上了一群强盗正拖着你雇主的财产。 他们对于你找到他们很震惊而且没有花时间试图谈判-他们武装起来而你命令 %companyname% 开始冲锋。}",
-    "stage": 1
+    "translation": "[img]gfx/ui/events/event_80.png[/img]{是强盗们！跟你的雇主猜的一样。他们看起来很害怕，或许知道%employer%花了大价钱雇来的怒火要降临在他们身上。 | 哦，这些小偷很普通 —— 只不过是一群流浪汉和强盗。当你命令你的手下攻击时，他们拿起了武器。 | 你抓到了一伙强盗正在拖着你雇主的财物四处游荡。他们似乎对你在这里找到了他们很震惊，没有浪费任何时间进行交涉，他们拿起了武器，而你命令%companyname%发起冲锋。}",
+    "stage": 5
   },
   {
     "ID": 293409787,
@@ -167,15 +167,15 @@
     "ID": 293409796,
     "key": "Follow the tracks %direction% of %townname%",
     "original": "Follow the tracks %direction% of %townname%",
-    "translation": "沿着%townname% %direction% 的足迹前行",
-    "stage": 1
+    "translation": "沿着%townname%%direction%的踪迹前进",
+    "stage": 5
   },
   {
     "ID": 293409797,
     "key": "As you approach...",
     "original": "As you approach...",
-    "translation": "当你接近时…",
-    "stage": 1
+    "translation": "当你接近时……",
+    "stage": 5
   },
   {
     "ID": 293409798,
@@ -203,7 +203,7 @@
     "key": "A group of thieves and bandits.",
     "original": "A group of thieves and bandits.",
     "translation": "一群盗贼和土匪。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293409802,

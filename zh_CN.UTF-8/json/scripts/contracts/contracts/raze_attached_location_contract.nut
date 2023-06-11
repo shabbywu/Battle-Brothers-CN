@@ -135,8 +135,8 @@
     "ID": 293409717,
     "key": "As you approach...",
     "original": "As you approach...",
-    "translation": "当你接近时…",
-    "stage": 1
+    "translation": "当你接近时……",
+    "stage": 5
   },
   {
     "ID": 293409718,

@@ -55,8 +55,8 @@
     "ID": 293414364,
     "key": "As you approach...",
     "original": "As you approach...",
-    "translation": "当你接近时…",
-    "stage": 1,
+    "translation": "当你接近时……",
+    "stage": 5,
     "context": "_event.m.Title = 'As you approach...'"
   },
   {

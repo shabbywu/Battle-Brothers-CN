@@ -11,15 +11,15 @@
     "key": "von ",
     "original": "von ",
     "translation": "冯·",
-    "stage": 1,
+    "stage": 5,
     "context": "'von ' + this.m.Name"
   },
   {
     "ID": 293417415,
     "key": "House ",
     "original": "House ",
-    "translation": "豪斯·",
-    "stage": 1,
+    "translation": "家族",
+    "stage": 5,
     "context": "return 'House ' + this.m.Name;"
   }
 ]
