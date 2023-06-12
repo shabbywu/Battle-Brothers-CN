@@ -3237,8 +3237,8 @@
     "ID": 293407445,
     "key": "%randomname%'s Watch",
     "original": "%randomname%'s Watch",
-    "translation": "%randomname% 的手表",
-    "stage": 1
+    "translation": "%randomname% 的瞭望塔",
+    "stage": 5
   },
   {
     "ID": 293407446,
@@ -4435,7 +4435,7 @@
     "key": "Ruined Lodge",
     "original": "Ruined Lodge",
     "translation": "毁坏的棚屋",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407617,

@@ -69,7 +69,7 @@
     "key": "Negotiations",
     "original": "Negotiations",
     "translation": "谈判",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408588,
@@ -83,8 +83,8 @@
     "ID": 293408589,
     "key": "[img]gfx/ui/events/event_45.png[/img]{%employer% is looking at a poorly drawn map, then looks up at you as though you're the one responsible for making it.%SPEECH_ON%Look, mercenary, this is a strange thing to task you with, but you seem to have a good he",
     "original": "[img]gfx/ui/events/event_45.png[/img]{%employer% is looking at a poorly drawn map, then looks up at you as though you're the one responsible for making it.%SPEECH_ON%Look, mercenary, this is a strange thing to task you with, but you seem to have a good head on your shoulders. See this dark spot here? Would you be willing to venture that way and try and find the %location%? It's somewhere at or around the region of %region%.%SPEECH_OFF% | You step into %employer%'s room and he shoves a map into your face.%SPEECH_ON%{Sellsword! Time for you to go exploring! See this uncharted spot, %direction% of here in the region of %region%? That's where I need you to go in search of the %location%. Do you accept or not? | Alright, this might seem strange, but I need a place by the name of the %location% located and charted. Our maps are incomplete in regards to this spot which, at the very least, I believe is at or near the region of %region% %direction% of here. Go, find it, and come back with the coordinates and you will be properly rewarded. | There are parts of this world man still has yet to find and chart into his maps. I'm looking for %location% %direction% of here at or near the region of %region%. That's about all I know of it, but I do know it exists. So you go and find it for me and you'll be properly rewarded. | I need a place found, sellsword. It lies %direction% of here at or near to the region of %region%. The laymen call it %location%, but whatever it is, I need to know WHERE it is, understand? Find it and you will be paid handsomely. | I'm in need of a soldier and explorer, sellsword, and I think you're just the man to be both in one. Now, before you accuse me of being cheap by not hiring both vocations, let's just say I have plenty of crowns for you to earn in doing this for me. What is it, hm? Well, I know of a place by the name of %location%, but I know not where it is other than it resides %direction% of here in the strip of land called %region%. Find it, draw its place on the map, and you'll get the pay of both a soldier and an explorer!}%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_45.png[/img]{%employer% 正看着一张画得很差的地图，然后看着你，仿佛你要为此负责一样。%SPEECH_ON%看呐，雇佣兵，这是一件奇怪的任务，但你似乎很有头脑。这里有个黑色区域，你愿意前往那里并试图找到%location%吗？它位于或靠近%region%地区。%SPEECH_OFF% | 你走进了%employer%的房间，他把一张地图猛地推到了你的面前。%SPEECH_ON%{佣兵！是时候去探险了！看这个未被勘测的地点，%region%地区%direction%有一个未知的位置叫%location%，你能接受吗？ | 好的，这可能看起来很奇怪，但我需要一个被称为%location%的地方被找到和标出在地图上。我们的地图在这个位置上是不完整的，但我至少相信它位于或靠近%region% %direction%的地区。去吧，找到它，并带着坐标回来，你会得到适当的报酬。 | 还有这个世界上的部分区域人类尚未发现和探索。我正在寻找位于或靠近%region% %direction%的%location%。我对它所知甚少，但我知道它的存在。所以，你去为我找到它，你会得到适当的报酬。 | 我需要一个被发现的地方，佣兵。它位于或靠近%region%%direction%。普通人称它为%location%，但无论它是什么，我需要知道它的具体位置，明白吗？找到它，你就会有丰厚的报酬。 | 我需要一名士兵和探险家，佣兵，我认为你就是能够胜任这两项工作的人。现在，在你指责我不肯多雇用一些工人之前，让我们只说我有足够的克朗让你来做这件事。怎么了？嗯？好吧，我知道一个叫做%location%的地方，但我不知道它的确切位置，除了它位于%region%这块地区的%direction%。找到它，标在地图上，你将得到士兵和探险家两份工资的酬劳！}%SPEECH_OFF%}",
-    "stage": 1
+    "translation": "[img]gfx/ui/events/event_45.png[/img]{%employer%正看着一张画得很差的地图，然后抬头看着你，仿佛你是负责制作这张地图的人。%SPEECH_ON%看呐，雇佣兵，给你这个任务很奇怪，但你看起来很有头脑。看到这个黑点了吗？你愿意前往那个方向，尝试找到位于%region%地区或附近的%location%吗？%SPEECH_OFF% | 你走进了%employer%的房间，他把一张地图猛地推到了你的面前。%SPEECH_ON%{佣兵！你是时候去探险了！看到这个未知的点了吗，这儿%direction%边的%region%地区。我需要你去那儿寻找%location%。你接不接受这个任务？ | 好吧，这可能看起来很奇怪，但我需要一个被称为%location%的地方被找到和标在地图上。我们的地图在这一点上不完整，我至少认为它位于或靠近%region% —— 这儿%direction%边的地区。去吧，找到它，并带着坐标回来，你会得到适当的报酬。 | 这个世界上还有许多地方人类尚未发现和勘测并标在地图上。我正在寻找%location%，位于%region%或在其附近，在这里的%direction%边。除此之外，我对它了解不多，但我确信它的存在。所以，请你去找到它，回来向我报告坐标，你会得到适当的奖励。 | 我需要你去寻找一个地方，佣兵。它位于或靠近这里%direction%边的%region%。外行人称它为%location%，但无论它是什么，我需要知道它的具体位置，明白吗？找到它，你就会有丰厚的报酬。 | 我需要一位士兵和一位探险家，佣兵，而我认为你恰好有这两种技能。在你指责我不雇佣两种职业显得吝啬之前，我只想说你帮我做这件事可以赚很多钱。嗯，这个任务是什么呢？我知道一个叫%location%的地方，但我不知道它在哪，除了它位于这里%direction%边的狭长地带 —— 叫作%region%。找到它，将它标记在地图上，你将得到士兵和探险家两个人的报酬！}%SPEECH_OFF%}",
+    "stage": 5
   },
   {
     "ID": 293408590,
@@ -178,8 +178,8 @@
     "ID": 293408602,
     "key": "Find %location% %distance% to the %direction% and somewhere around the region of %region%",
     "original": "Find %location% %distance% to the %direction% and somewhere around the region of %region%",
-    "translation": "找到距离%direction%%location%%distance%的地方，大约在%region%区域附近。",
-    "stage": 1
+    "translation": "找到位于%direction%边%distance%处的%location%，大约在%region%区域附近。",
+    "stage": 5
   },
   {
     "ID": 293408603,
@@ -256,8 +256,8 @@
     "ID": 293408613,
     "key": "Find %location% to the %direction% and around the region of %region%",
     "original": "Find %location% to the %direction% and around the region of %region%",
-    "translation": "在%region%地区的%direction%附近寻找%location%",
-    "stage": 1
+    "translation": "向%direction%搜索，在%region%地区附近寻找%location%。",
+    "stage": 5
   },
   {
     "ID": 293408614,

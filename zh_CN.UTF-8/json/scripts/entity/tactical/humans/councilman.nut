@@ -4,7 +4,7 @@
     "key": "the Councilman",
     "original": "the Councilman",
     "translation": "议员",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293410312,

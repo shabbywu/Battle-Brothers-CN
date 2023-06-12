@@ -18,8 +18,8 @@
     "ID": 293422767,
     "key": "the Rock",
     "original": "the Rock",
-    "translation": "岩石",
-    "stage": 1
+    "translation": "岩石(the Rock)",
+    "stage": 5
   },
   {
     "ID": 293422768,

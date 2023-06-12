@@ -55,8 +55,8 @@
     "ID": 293415105,
     "key": " gains Paranoid",
     "original": " gains Paranoid",
-    "translation": "获得偏执狂状态。",
-    "stage": 1,
+    "translation": "成为了偏执狂。",
+    "stage": 5,
     "context": "_event.m.Ailing.getName() + ' gains Paranoid'"
   },
   {

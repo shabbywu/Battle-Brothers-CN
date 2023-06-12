@@ -871,8 +871,8 @@
     "ID": 293403902,
     "key": "The Rock",
     "original": "The Rock",
-    "translation": "岩石",
-    "stage": 1
+    "translation": "岩石(The Rock)",
+    "stage": 5
   },
   {
     "ID": 293403903,
@@ -1340,8 +1340,8 @@
     "ID": 293403969,
     "key": "the Vizier of War",
     "original": "the Vizier of War",
-    "translation": "维齐尔战争大臣",
-    "stage": 1
+    "translation": "战争维齐尔",
+    "stage": 5
   },
   {
     "ID": 293403970,
@@ -2642,8 +2642,8 @@
     "ID": 293404155,
     "key": "the Master Astrologer",
     "original": "the Master Astrologer",
-    "translation": "占星家大师",
-    "stage": 1
+    "translation": "主占星师",
+    "stage": 5
   },
   {
     "ID": 293404156,
@@ -2888,7 +2888,7 @@
     "key": "the High Priest",
     "original": "the High Priest",
     "translation": "大祭司",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404191,
@@ -2964,8 +2964,8 @@
     "ID": 293404201,
     "key": "Ironjaw",
     "original": "Ironjaw",
-    "translation": "铁爪",
-    "stage": 1
+    "translation": "铁颌(Ironjaw)",
+    "stage": 5
   },
   {
     "ID": 293404202,
@@ -3013,8 +3013,8 @@
     "ID": 293404208,
     "key": "the Grand Vizier",
     "original": "the Grand Vizier",
-    "translation": "维齐尔总理大臣",
-    "stage": 1
+    "translation": "大维齐尔",
+    "stage": 5
   },
   {
     "ID": 293404209,
@@ -4658,8 +4658,8 @@
     "ID": 293404443,
     "key": "the Rock",
     "original": "the Rock",
-    "translation": "岩石",
-    "stage": 1
+    "translation": "岩石(the Rock)",
+    "stage": 5
   },
   {
     "ID": 293404444,
@@ -5904,8 +5904,8 @@
     "ID": 293404621,
     "key": "the Vizier of Trade",
     "original": "the Vizier of Trade",
-    "translation": "维齐尔贸易大臣",
-    "stage": 1
+    "translation": "贸易维齐尔",
+    "stage": 5
   },
   {
     "ID": 293404622,
@@ -5960,8 +5960,8 @@
     "ID": 293404629,
     "key": "the Vizier of Treasury",
     "original": "the Vizier of Treasury",
-    "translation": "维齐尔财政大臣",
-    "stage": 1
+    "translation": "财政维齐尔",
+    "stage": 5
   },
   {
     "ID": 293404630,
@@ -6520,8 +6520,8 @@
     "ID": 293404709,
     "key": "the Stallion",
     "original": "the Stallion",
-    "translation": "种马",
-    "stage": 1
+    "translation": "种马(the Stallion)",
+    "stage": 5
   },
   {
     "ID": 293404710,

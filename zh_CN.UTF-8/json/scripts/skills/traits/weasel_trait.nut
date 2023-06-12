@@ -17,8 +17,8 @@
     "ID": 293422774,
     "key": "the Chicken",
     "original": "the Chicken",
-    "translation": "那只鸡(the Chicken)",
-    "stage": 1
+    "translation": "鸡仔(the Chicken)",
+    "stage": 5
   },
   {
     "ID": 293422775,

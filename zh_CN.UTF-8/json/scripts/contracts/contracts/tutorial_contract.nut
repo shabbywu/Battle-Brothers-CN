@@ -24,7 +24,7 @@
     "ID": 293410050,
     "key": "[img]gfx/ui/events/event_79.png[/img]%employer% claps his hands in satisfaction.%SPEECH_ON%Excellent! My little birds will need some time to find where Hoggart is hiding his hide now. In the meantime, I suggest you see about stocking up on supplies so tha",
     "original": "[img]gfx/ui/events/event_79.png[/img]%employer% claps his hands in satisfaction.%SPEECH_ON%Excellent! My little birds will need some time to find where Hoggart is hiding his hide now. In the meantime, I suggest you see about stocking up on supplies so that you'll be good and ready to end this when the time comes. I shall see you in a few days' time at the latest!%SPEECH_OFF%As you leave %employer%'s house and stand on the outskirts of %townname%, %bro1% seeks a word with you.%SPEECH_ON%We need more men, captain. I know I gave a big speech back there, but bravado won't do shite. We need more warm bodies in the ranks. Figure we find three good men, buy them some decent weapons, and dress them in the best armor we can afford.%SPEECH_OFF%The man pauses to glance around.%SPEECH_ON%I bet this bodunk town's got a desperate peasant or two looking for a new life. Or we could travel to %bigcity% in the %citydirection%. Them cityfolk aren't always as hardy as these country bumpkins, but we're more likely to find men with fighting experience stopping to rest there.%SPEECH_OFF%",
-    "translation": "[img]gfx/ui/events/event_79.png[/img]%employer% 满意地鼓了鼓掌。%SPEECH_ON%好极了！我的探子需要一些时间找到霍加特的藏身处。 在这段时间，我建议你们储存一些补给，这样当时机来临时你们就可以做好准备结束这件事。 我最迟过几天后见你们！%SPEECH_OFF%当你离开 %employer%的住宅，站在 %townname% 郊外，%bro1% 找你说话。%SPEECH_ON%我们需要更多的人手，队长。 我知道我在那做了一个大演讲，但虚张声势没有什么用。 我们需要更多的活人在队伍里。 我们应该找到三个不错的人手，给他们买一些像样的武器，给他们穿上我们可以买得起的最好的盔甲。%SPEECH_OFF%这个人暂停了下，环视四周。%SPEECH_ON%我打赌这镇上有一两个渴望新生活的农民。 或者我们可以旅行去 %bigcity% 在 %citydirection%。那的市民并不像这的土包子一样耐劳，但我们更有可能找到休息完毕有战斗经验的人。%SPEECH_OFF%",
+    "translation": "[img]gfx/ui/events/event_79.png[/img]%employer% 满意地鼓了鼓掌。%SPEECH_ON%好极了！我的探子需要一些时间找到霍加特的藏身处。 在这段时间，我建议你们储存一些补给，这样当时机来临时你们就可以做好准备结束这件事。 我最迟过几天后见你们！%SPEECH_OFF%当你离开 %employer%的住宅，站在 %townname% 郊外，%bro1% 找你说话。%SPEECH_ON%我们需要更多的人手，队长。 我知道我在那做了一个大演讲，但虚张声势没有什么用。 我们需要更多的活人在队伍里。 我们应该找到三个不错的人手，给他们买一些像样的武器，给他们穿上我们可以买得起的最好的盔甲。%SPEECH_OFF%这个人暂停了下，环视四周。%SPEECH_ON%我打赌这镇上有一两个渴望新生活的农民。 或者我们可以旅行去 %citydirection%边的%bigcity%。那的市民并不像这的土包子一样耐劳，但我们更有可能找到休息完毕有战斗经验的人。%SPEECH_OFF%",
     "stage": 1
   },
   {
@@ -211,7 +211,7 @@
     "ID": 293410076,
     "key": "Visit %bigcity% %citydirection% of %townname%",
     "original": "Visit %bigcity% %citydirection% of %townname%",
-    "translation": "拜访 %townname% 的 %bigcity% %citydirection%",
+    "translation": "拜访%townname%%citydirection%边的%bigcity% ",
     "stage": 1
   },
   {

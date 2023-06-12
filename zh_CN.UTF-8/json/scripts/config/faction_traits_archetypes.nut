@@ -11,7 +11,7 @@
     "key": "Not without booty",
     "original": "Not without booty",
     "translation": "留下买路财",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404748,
@@ -39,14 +39,14 @@
     "key": "Cruel rumor, be still",
     "original": "Cruel rumor, be still",
     "translation": "流言蜚语止步",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404752,
     "key": "Always watchful",
     "original": "Always watchful",
-    "translation": "时刻警惕着",
-    "stage": 1
+    "translation": "时刻警惕",
+    "stage": 5
   },
   {
     "ID": 293404753,
@@ -67,56 +67,56 @@
     "key": "Sons of hounds come here and get flesh",
     "original": "Sons of hounds come here and get flesh",
     "translation": "猎犬之子嗣于此猎食",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404756,
     "key": "Friendship without deceit",
     "original": "Friendship without deceit",
     "translation": "友谊不容虚伪",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404757,
     "key": "An oak in aged strength",
     "original": "An oak in aged strength",
-    "translation": "虽饱经沧桑，仍坚毅不拔",
-    "stage": 1
+    "translation": "经年古树",
+    "stage": 5
   },
   {
     "ID": 293404758,
     "key": "Strive without reproach",
     "original": "Strive without reproach",
-    "translation": "身正不怕影子斜",
-    "stage": 1
+    "translation": "奋斗不受批评阻",
+    "stage": 5
   },
   {
     "ID": 293404759,
     "key": "Learn to endure what must be borne",
     "original": "Learn to endure what must be borne",
-    "translation": "如果无法反抗，那就忍受",
-    "stage": 1
+    "translation": "学会忍受必须承受的",
+    "stage": 5
   },
   {
     "ID": 293404760,
     "key": "And we also have hurled our javelins",
     "original": "And we also have hurled our javelins",
     "translation": "我们厉兵秣马",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404761,
     "key": "The wrath of the lion is noble",
     "original": "The wrath of the lion is noble",
     "translation": "雄狮之怒，依然高贵",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404762,
     "key": "Peace is obtained by war",
     "original": "Peace is obtained by war",
     "translation": "战火铸就和平",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404763,
@@ -129,29 +129,29 @@
     "ID": 293404764,
     "key": "He stands by his own powers",
     "original": "He stands by his own powers",
-    "translation": "我们恃强自立",
-    "stage": 1
+    "translation": "恃强自立",
+    "stage": 5
   },
   {
     "ID": 293404765,
     "key": "Wealth is sought by many, but the highly reputable traders of house %noblehousename% are the best when it comes to striking profitable bargains. Bound by ancestral ties to the renown of their forefathers they uphold honesty and integrity as their family v",
     "original": "Wealth is sought by many, but the highly reputable traders of house %noblehousename% are the best when it comes to striking profitable bargains. Bound by ancestral ties to the renown of their forefathers they uphold honesty and integrity as their family values.",
-    "translation": "许多人都追求财富，但 %noblehousename% 的诚信商人们尤其懂得抓住机遇与和气生财之道。 在他们祖先的高尚名声下，他们恪守着诚实与正直作为他们的家族价值观。",
-    "stage": 1
+    "translation": "许多人都追求财富，但%noblehousename%家族的诚信商人们尤其懂得生财之道。与祖辈的名望深深绑定，他们坚持将诚实和正直作为他们的家庭价值观。",
+    "stage": 5
   },
   {
     "ID": 293404766,
     "key": "Under this sign thou shalt conquer",
     "original": "Under this sign thou shalt conquer",
     "translation": "以家徽之名征服",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404767,
     "key": "No steps backwards",
     "original": "No steps backwards",
     "translation": "绝不后退",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404768,
@@ -165,21 +165,21 @@
     "key": "Irritate not the lion",
     "original": "Irritate not the lion",
     "translation": "不要惹怒雄狮",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404770,
     "key": "Courage in difficulties",
     "original": "Courage in difficulties",
-    "translation": "困难使我们勇敢",
-    "stage": 1
+    "translation": "勇于面对困难",
+    "stage": 5
   },
   {
     "ID": 293404771,
     "key": "Nothing resists valour and arms",
     "original": "Nothing resists valour and arms",
     "translation": "勇猛与利刃无物可挡",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404772,
@@ -193,21 +193,21 @@
     "key": "Virtue is the only nobility",
     "original": "Virtue is the only nobility",
     "translation": "唯有美德堪称高贵",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404774,
     "key": "Victory is in truth",
     "original": "Victory is in truth",
-    "translation": "胜利高于一切",
-    "stage": 1
+    "translation": "胜利在于真理",
+    "stage": 5
   },
   {
     "ID": 293404775,
     "key": "Cleansed by the flame",
     "original": "Cleansed by the flame",
     "translation": "让火焰净化一切",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404776,
@@ -228,42 +228,42 @@
     "key": "One heart, one way",
     "original": "One heart, one way",
     "translation": "齐心协力，众志成城",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404779,
     "key": "Disdained for their ruthlessness, brutality and greed, house %noblehousename% has little interaction with other noble families. Their captains and soldiers are known for raiding trade caravans, outlying farms and small settlements from their fortress of %",
     "original": "Disdained for their ruthlessness, brutality and greed, house %noblehousename% has little interaction with other noble families. Their captains and soldiers are known for raiding trade caravans, outlying farms and small settlements from their fortress of %factionfortressname%. A life is not worth much in the realm of house %noblehousename% and many a mercenary on the look for a quick coin only found a quick end here.",
-    "translation": "因为他们的冷酷无情与贪得无厌而饱受唾弃的 %noblehousename% 家族与其他贵族家族相交甚少。 他们麾下来自 %factionfortressname% 要塞的队长与士兵因劫掠商队、农场与聚落而闻名 人命在 %noblehousename% 家族的领地里一文不值，许多雇佣兵来到他们的领地希望赚笔快钱，而他们所获的唯一事物就是速死。",
-    "stage": 1
+    "translation": "因其残忍、暴虐和贪婪而备受鄙视，%noblehousename%家族很少与其他贵族家族交往。他们的将领和士兵以在他们的堡垒%factionfortressname%邻近袭击贸易商队、边远农场和小定居点而闻名。在%noblehousename%家族的领地上人命一文不值，许多为了赚快钱的雇佣兵在这里只能获得快速的死亡。",
+    "stage": 5
   },
   {
     "ID": 293404780,
     "key": "He dies not whose fame survives",
     "original": "He dies not whose fame survives",
-    "translation": "名声乃身外之物",
-    "stage": 1
+    "translation": "人死声名留",
+    "stage": 5
   },
   {
     "ID": 293404781,
     "key": "The eagle catches not flies",
     "original": "The eagle catches not flies",
-    "translation": "猎鹰不食飞蝇",
-    "stage": 1
+    "translation": "鹰不捉蝇",
+    "stage": 5
   },
   {
     "ID": 293404782,
     "key": "Firmly in act and gently in manner",
     "original": "Firmly in act and gently in manner",
-    "translation": "行动当机立断，礼仪温和得体",
-    "stage": 1
+    "translation": "行动坚决，举止文雅",
+    "stage": 5
   },
   {
     "ID": 293404783,
     "key": "The house of %noblehousename% is well known for its lavish lifestyle and bacchanal festivities. The price has to be paid by someone, so half-starved cattle, empty granaries and desperate townsfolk are a common sight where house %noblehousename% rules. Alt",
     "original": "The house of %noblehousename% is well known for its lavish lifestyle and bacchanal festivities. The price has to be paid by someone, so half-starved cattle, empty granaries and desperate townsfolk are a common sight where house %noblehousename% rules. Although other noble houses may look down on such brutality and depletion they are at the same time desperately awaiting their invitation to the next feast.",
-    "translation": "%noblehousename% 以其奢华的生活方式和纵情享乐的节日而闻名。 如此盛宴总得有人来为其买单，所以饿到半死不活的耕牛、空空荡荡的粮仓和目光无神的镇民在 %noblehousename% 的治下是再正常不过的现象。 尽管其他贵族都看不起这种残暴和奢侈无度，但他们也同时都在绝望地等待下一次宴会的邀请。",
-    "stage": 1
+    "translation": "%noblehousename%以其奢华的生活方式和纵情享乐的派对而闻名。如此盛宴总得有人来为其买单，所以饿到半死不活的耕牛、空空荡荡的粮仓和绝望的镇民在%noblehousename%的治下是再正常不过的现象。尽管其他贵族都看不起这种残暴和奢侈无度，但他们同时也在渴望着被邀请参加下一次盛宴。",
+    "stage": 5
   },
   {
     "ID": 293404784,
@@ -277,7 +277,7 @@
     "key": "While we have breath we hope",
     "original": "While we have breath we hope",
     "translation": "希望永存",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404786,
@@ -305,21 +305,21 @@
     "key": "Boldly and rightly",
     "original": "Boldly and rightly",
     "translation": "凶暴勇猛，理直气壮",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404790,
     "key": "A friend to a friend",
     "original": "A friend to a friend",
     "translation": "予我以爱，必还之以花",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404791,
     "key": "We trample it under our feet",
     "original": "We trample it under our feet",
-    "translation": "我们践踏一切",
-    "stage": 1
+    "translation": "我们把它践踏在脚下",
+    "stage": 5
   },
   {
     "ID": 293404792,
@@ -332,57 +332,57 @@
     "ID": 293404793,
     "key": "Fortune favours the bold",
     "original": "Fortune favours the bold",
-    "translation": "幸运眷顾敢于豪赌之人",
-    "stage": 1
+    "translation": "天佑勇者",
+    "stage": 5
   },
   {
     "ID": 293404794,
     "key": "Our harvest will also arrive",
     "original": "Our harvest will also arrive",
-    "translation": "我们的丰收终将到来",
-    "stage": 1
+    "translation": "我们的收获也会到来",
+    "stage": 5
   },
   {
     "ID": 293404795,
     "key": "Always ready",
     "original": "Always ready",
     "translation": "整装待发",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404796,
     "key": "Firm of purpose",
     "original": "Firm of purpose",
-    "translation": "坚定不移",
-    "stage": 1
+    "translation": "目标坚定",
+    "stage": 5
   },
   {
     "ID": 293404797,
     "key": "Let us be viewed by our actions",
     "original": "Let us be viewed by our actions",
-    "translation": "我们用事实说话",
-    "stage": 1
+    "translation": "让我们用行动说话",
+    "stage": 5
   },
   {
     "ID": 293404798,
     "key": "He conquers who endures",
     "original": "He conquers who endures",
-    "translation": "逆来顺受者死有余辜",
-    "stage": 1
+    "translation": "征服忍耐者",
+    "stage": 5
   },
   {
     "ID": 293404799,
     "key": "Cutting causes growth",
     "original": "Cutting causes growth",
     "translation": "旧的不去，新的不来",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404800,
     "key": "I gain by hazard",
     "original": "I gain by hazard",
-    "translation": "灾难带给我们财富",
-    "stage": 1
+    "translation": "危难为我带来财富",
+    "stage": 5
   },
   {
     "ID": 293404801,
@@ -395,29 +395,29 @@
     "ID": 293404802,
     "key": "Live that you may live",
     "original": "Live that you may live",
-    "translation": "为你自己而活",
-    "stage": 1
+    "translation": "为了更好地活着而活着",
+    "stage": 5
   },
   {
     "ID": 293404803,
     "key": "For me and for mine",
     "original": "For me and for mine",
-    "translation": "为了我们和我们还有我们",
-    "stage": 1
+    "translation": "为了我和我的人",
+    "stage": 5
   },
   {
     "ID": 293404804,
     "key": "Whatever grows perishes in ashes",
     "original": "Whatever grows perishes in ashes",
-    "translation": "万物终归于尘土",
-    "stage": 1
+    "translation": "万物终归于灰烬",
+    "stage": 5
   },
   {
     "ID": 293404805,
     "key": "The house of %noblehousename% holds high the principles of justice and honor, and without irrational rulings their region has prospered. Their reputation may be peaceful, but %noblehousename% knights are battle-hardened and their troops will ferociously f",
     "original": "The house of %noblehousename% holds high the principles of justice and honor, and without irrational rulings their region has prospered. Their reputation may be peaceful, but %noblehousename% knights are battle-hardened and their troops will ferociously fight anyone threatening their realm, subordinates or principles. Many nobles envy their wealth and ridicule their principles; house %othernoblehouse% especially holds a more or less overt grudge against those of %noblehousename%.",
-    "translation": "%noblehousename% 坚信正义与荣耀的原则，他们的领地因远离不公正的裁决而繁荣昌盛。他们或许因儒雅随和而闻名，但 %noblehousename% 家族的骑士却都身经百战，而且他们的军队时刻准备着与任何胆敢威胁他们的领土、下属和原则的敌人进行殊死决斗。许多贵族都觊觎他们的财富，嘲笑他们的信条；其中尤以 %othernoblehouse% 为甚，他们那些怨恨都或多或少的作用给了 %noblehousename%。",
-    "stage": 1
+    "translation": "%noblehousename%家族秉持着公正和荣誉的高尚原则，毫无不合理的统治，他们的领地繁荣昌盛。虽然他们的声誉是温和的，但%noblehousename%的骑士久经沙场，他们的军队会凶猛打击任何威胁他们领土、手下和原则的人。许多贵族羡慕他们的财富、嘲笑他们的原则；%othernoblehouse%家族尤其对%noblehousename%家族持着或多或少的公开怨恨。",
+    "stage": 5
   },
   {
     "ID": 293404806,
@@ -430,36 +430,36 @@
     "ID": 293404807,
     "key": "The noble house of %noblehousename% is a proud and unrelenting family with a long and bloodstained history of conquest. Seated in their fortress of %factionfortressname%, they take with arms what they consider theirs by right. An ancestral feud with house",
     "original": "The noble house of %noblehousename% is a proud and unrelenting family with a long and bloodstained history of conquest. Seated in their fortress of %factionfortressname%, they take with arms what they consider theirs by right. An ancestral feud with house %othernoblehouse% provides never ending reasons to keep both hate in the hearts and ore smelters burning.",
-    "translation": "%noblehousename% 家族高傲而无情，有着悠久而血腥的征服家史。 安坐在他们家族的 %factionfortressname% 堡垒中，他们心安理得地用暴力夺取他们想要的一切。 他们与 %othernoblehouse% 家族间的世仇给了他们数不清的理由来让怒火同时在两个家族人们的心头和兵工厂的熔炉中熊熊燃烧。",
-    "stage": 1
+    "translation": "%noblehousename%家族是一支自豪而不屈的家族，有着悠久而血腥的征服家史。他们坐镇在自己%factionfortressname%的城堡中，用武力夺取自认为拥有的东西。他们与%othernoblehouse%家族之间的世仇使得两家人心头的怒火与冶炼的炉火从未熄灭。",
+    "stage": 5
   },
   {
     "ID": 293404808,
     "key": "The brave always show mercy",
     "original": "The brave always show mercy",
     "translation": "勇者仁心",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404809,
     "key": "The sun rises after clouds",
     "original": "The sun rises after clouds",
-    "translation": "阳光总在风雨后",
-    "stage": 1
+    "translation": "乌云之后有晴天",
+    "stage": 5
   },
   {
     "ID": 293404810,
     "key": "Arms maintain peace",
     "original": "Arms maintain peace",
-    "translation": "武力维持和平",
-    "stage": 1
+    "translation": "武力维系和平",
+    "stage": 5
   },
   {
     "ID": 293404811,
     "key": "Prepared in either case",
     "original": "Prepared in either case",
-    "translation": "时刻准备就绪",
-    "stage": 1
+    "translation": "时刻做好准备",
+    "stage": 5
   },
   {
     "ID": 293404812,
@@ -472,57 +472,57 @@
     "ID": 293404813,
     "key": "Such is the way to immortality",
     "original": "Such is the way to immortality",
-    "translation": "征服书写不朽",
-    "stage": 1
+    "translation": "这是通往不朽的道路",
+    "stage": 5
   },
   {
     "ID": 293404814,
     "key": "Noble in anger",
     "original": "Noble in anger",
-    "translation": "狂怒的贵族",
-    "stage": 1
+    "translation": "愤怒中心存高贵",
+    "stage": 5
   },
   {
     "ID": 293404815,
     "key": "Trading and haggling can be just as fierce as fighting a war, and the house of %noblehousename% is a true master of cunning bargains. Rumor has it that many a profitable deal made by house %noblehousename% is not only based on honest trading but also brib",
     "original": "Trading and haggling can be just as fierce as fighting a war, and the house of %noblehousename% is a true master of cunning bargains. Rumor has it that many a profitable deal made by house %noblehousename% is not only based on honest trading but also bribery, extortion and deception. The family resides in the pompous region capitol of %factionfortressname%, but despite their unmeasurable riches they are known to be notoriously close-fisted.",
-    "translation": "俗话说商场如战场，而 %noblehousename% 家族正是对讨价还价，锱铢必较的狡诈商法登峰造极的大师。 据传言称，%noblehousename% 所进行的许多利润丰厚的交易都不只是基于诚实守信的贸易，而是更通过贿赂、敲诈与骗术所达成。 这个家族居住在他们富丽堂皇的地区首府 %factionfortressname% 要塞中，尽管他们的财富不可估量，但他们的小气抠门也同样是出了名的。",
-    "stage": 1
+    "translation": "俗话说商场如战场，而%noblehousename% 家族正是对讨价还价、锱铢必较的狡诈商法登峰造极的大师。据传言称，%noblehousename%所进行的许多利润丰厚的交易都不仅基于诚实的贸易，还包括贿赂、敲诈和欺骗。这个家族居住在%factionfortressname%华丽的地区首府中，尽管他们的财富不可估量，但他们的小气抠门也同样是出了名的。",
+    "stage": 5
   },
   {
     "ID": 293404816,
     "key": "Deeds not words",
     "original": "Deeds not words",
     "translation": "行动胜于空谈",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404817,
     "key": "With good right",
     "original": "With good right",
-    "translation": "理由充分",
-    "stage": 1
+    "translation": "凭良心而行",
+    "stage": 5
   },
   {
     "ID": 293404818,
     "key": "The world does not suffice",
     "original": "The world does not suffice",
-    "translation": "这个世界还不够好",
-    "stage": 1
+    "translation": "世界难以满足",
+    "stage": 5
   },
   {
     "ID": 293404819,
     "key": "The heron seeks high places",
     "original": "The heron seeks high places",
-    "translation": "苍鹰生而只为身居高位",
-    "stage": 1
+    "translation": "苍鹭生而只为身居高位",
+    "stage": 5
   },
   {
     "ID": 293404820,
     "key": "Innocent as doves",
     "original": "Innocent as doves",
     "translation": "清白如鸽",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404821,
@@ -542,22 +542,22 @@
     "ID": 293404823,
     "key": "Spare not",
     "original": "Spare not",
-    "translation": "拒绝节俭",
-    "stage": 1
+    "translation": "毫不手软",
+    "stage": 5
   },
   {
     "ID": 293404824,
     "key": "The gods feed the ravens",
     "original": "The gods feed the ravens",
-    "translation": "天佑渡鸦",
-    "stage": 1
+    "translation": "诸神喂食乌鸦",
+    "stage": 5
   },
   {
     "ID": 293404825,
     "key": "Separate the honest from the useful",
     "original": "Separate the honest from the useful",
-    "translation": "诚实与实用不可相提并论",
-    "stage": 1
+    "translation": "分辨诚实与有用",
+    "stage": 5
   },
   {
     "ID": 293404826,
@@ -571,7 +571,7 @@
     "key": "Obey",
     "original": "Obey",
     "translation": "服从",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404828,
@@ -591,22 +591,22 @@
     "ID": 293404830,
     "key": "A knife in the dark",
     "original": "A knife in the dark",
-    "translation": "当心你的背后",
-    "stage": 1
+    "translation": "暗中之刃",
+    "stage": 5
   },
   {
     "ID": 293404831,
     "key": "Unconquered",
     "original": "Unconquered",
-    "translation": "不可战胜",
-    "stage": 1
+    "translation": "不可征服",
+    "stage": 5
   },
   {
     "ID": 293404832,
     "key": "To live without a wish concealed",
     "original": "To live without a wish concealed",
-    "translation": "忠实于自己的愿望而活",
-    "stage": 1
+    "translation": "不留私心",
+    "stage": 5
   },
   {
     "ID": 293404833,
@@ -620,21 +620,21 @@
     "key": "Profit is gained by danger",
     "original": "Profit is gained by danger",
     "translation": "富贵险中求",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404835,
     "key": "The house of %noblehousename% revolves around a religious cult that teaches compassion towards their own but turned them zealous and unforgiving towards their foes. Generations ago, a large orc invasion pillaged and destroyed most of what belonged to the ",
     "original": "The house of %noblehousename% revolves around a religious cult that teaches compassion towards their own but turned them zealous and unforgiving towards their foes. Generations ago, a large orc invasion pillaged and destroyed most of what belonged to the family, and it never fully recovered. Since then, the house started many a crusade and punitive expedition deep into orc lands but never managed to drive the greenskins off for good.",
-    "translation": "%noblehousename% 家族成立的根基是一个宗教教派，他们的教义教导他们要对自己人施以同情和关怀，但也让他们在面对敌人时充满狂热，毫不留情。 在几代人以前，一场大规模的兽人入侵掠夺并摧毁了曾属于这个家族的绝大部分财产，造成了直至今日仍未恢复的损失。 自那以后，这个家族派遣了许多支打着圣战与复仇旗号的远征军深入兽人领地的心腹，但却从未能够将绿皮从大陆上真正一劳永逸地抹除。",
-    "stage": 1
+    "translation": "%noblehousename%家族以一个宗教团体为中心成立，教导他们对自己的同胞施以同情和关怀、面对敌人时狂热且无情。几代人以前，一次大规模的兽人入侵摧毁了家族的大部分家业，造成了直至今日仍未恢复的损失。从那时起，%noblehousename%家族开始了许多次圣战和惩罚性的远征，深入兽人的领土，但从未成功将这些绿皮真正一劳永逸地抹除。",
+    "stage": 5
   },
   {
     "ID": 293404836,
     "key": "Through arrows and enemies",
     "original": "Through arrows and enemies",
     "translation": "穿破箭雨，突破敌军",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404837,
@@ -654,8 +654,8 @@
     "ID": 293404839,
     "key": "Plenty is caused by dilligence",
     "original": "Plenty is caused by dilligence",
-    "translation": "勤奋是富有之本",
-    "stage": 1
+    "translation": "勤奋乃富足之本",
+    "stage": 5
   },
   {
     "ID": 293404840,
@@ -668,43 +668,43 @@
     "ID": 293404841,
     "key": "Sheep, ye bear the wool",
     "original": "Sheep, ye bear the wool",
-    "translation": "羊毛出在羊身上",
-    "stage": 1
+    "translation": "羊啊，你们只会长毛",
+    "stage": 5
   },
   {
     "ID": 293404842,
     "key": "I soar",
     "original": "I soar",
     "translation": "一飞冲天",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404843,
     "key": "Glory to the father",
     "original": "Glory to the father",
-    "translation": "荣耀归于长者",
-    "stage": 1
+    "translation": "荣耀归于父辈",
+    "stage": 5
   },
   {
     "ID": 293404844,
     "key": "Not for ourselves alone",
     "original": "Not for ourselves alone",
-    "translation": "富则兼济天下，绝不独善其身",
-    "stage": 1
+    "translation": "兼济天下",
+    "stage": 5
   },
   {
     "ID": 293404845,
     "key": "This hand is hostile to tyrants",
     "original": "This hand is hostile to tyrants",
-    "translation": "此地无暴虐无道者容身之处",
-    "stage": 1
+    "translation": "此掌为暴君之敌",
+    "stage": 5
   },
   {
     "ID": 293404846,
     "key": "Virtue under strength",
     "original": "Virtue under strength",
     "translation": "美德源于力量",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404847,
@@ -738,29 +738,29 @@
     "ID": 293404851,
     "key": "Always thirsty",
     "original": "Always thirsty",
-    "translation": "渴望永无止境",
-    "stage": 1
+    "translation": "永远饥渴",
+    "stage": 5
   },
   {
     "ID": 293404852,
     "key": "House %noblehousename% is hated by many but feared by even more. A number of small and big uprisings have been put down with fire and sword and the %noblehousename% henchmen are known to have eyes in every shady corner and ears in every wall. The family's",
     "original": "House %noblehousename% is hated by many but feared by even more. A number of small and big uprisings have been put down with fire and sword and the %noblehousename% henchmen are known to have eyes in every shady corner and ears in every wall. The family's ancestral home of %factionfortressname% is swarming with armed guards, sniffing wardogs and bulky mercenaries to protect their paranoid leaders.",
-    "translation": "与其说 %noblehousename% 被人憎恨，不如说他们被人所畏惧。 无数次大大小小的起义被烈火与长剑所镇压，%noblehousename% 家族的追随者充斥在每一个阴暗的角落与每一面墙背后。 在他们祖传的 %factionfortressname% 要塞中，数不胜数的武装警卫、警惕的战犬和规模庞大的雇佣兵团拱卫着家族那偏执的领导者。",
-    "stage": 1
+    "translation": "%noblehousename%家族广受憎恶，但更多的人畏惧他们。无数次大大小小的起义被烈火与长剑所镇压，%noblehousename%家族的爪牙据说充斥在每一个阴暗的角落与每一面墙背后。在他们祖传的%factionfortressname%要塞中到处都是武装警卫、警惕的战犬和规模庞大的雇佣兵团，以保护他们疑心病重的领导人。",
+    "stage": 5
   },
   {
     "ID": 293404853,
     "key": "Boldly and honourably",
     "original": "Boldly and honourably",
-    "translation": "光荣而勇猛",
-    "stage": 1
+    "translation": "勇猛而光荣",
+    "stage": 5
   },
   {
     "ID": 293404854,
     "key": "I despise",
     "original": "I despise",
-    "translation": "施以轻蔑",
-    "stage": 1
+    "translation": "我施以轻蔑",
+    "stage": 5
   },
   {
     "ID": 293404855,
@@ -780,8 +780,8 @@
     "ID": 293404857,
     "key": "With heart and hand",
     "original": "With heart and hand",
-    "translation": "心口如一",
-    "stage": 1
+    "translation": "全心全意",
+    "stage": 5
   },
   {
     "ID": 293404858,
@@ -801,15 +801,15 @@
     "ID": 293404860,
     "key": "Reason is the guide of life",
     "original": "Reason is the guide of life",
-    "translation": "理性乃人生向导",
-    "stage": 1
+    "translation": "理性乃人生的指南",
+    "stage": 5
   },
   {
     "ID": 293404861,
     "key": "By laws and arms",
     "original": "By laws and arms",
     "translation": "以法律与武力之名",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404862,
@@ -822,42 +822,42 @@
     "ID": 293404863,
     "key": "Light in Darkness",
     "original": "Light in Darkness",
-    "translation": "黑暗中的灯塔",
-    "stage": 1
+    "translation": "黑暗中的光明",
+    "stage": 5
   },
   {
     "ID": 293404864,
     "key": "We scorn to change or to fear",
     "original": "We scorn to change or to fear",
-    "translation": "我们蔑视变革与恐惧",
-    "stage": 1
+    "translation": "我们蔑视变卦和恐惧",
+    "stage": 5
   },
   {
     "ID": 293404865,
     "key": "Zeal and honour",
     "original": "Zeal and honour",
     "translation": "热忱与荣耀",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404866,
     "key": "Remember that thou must die",
     "original": "Remember that thou must die",
-    "translation": "铭记在心，人终有一死",
-    "stage": 1
+    "translation": "谨记人固有一死",
+    "stage": 5
   },
   {
     "ID": 293404867,
     "key": "The sentinel sleeps not",
     "original": "The sentinel sleeps not",
-    "translation": "守望永不停歇",
-    "stage": 1
+    "translation": "哨兵不眠",
+    "stage": 5
   },
   {
     "ID": 293404868,
     "key": "In defence of the distressed",
     "original": "In defence of the distressed",
-    "translation": "誓死捍卫受难之人",
-    "stage": 1
+    "translation": "捍卫受难之人",
+    "stage": 5
   }
 ]
