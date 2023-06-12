@@ -3,8 +3,8 @@
     "ID": 293410550,
     "key": "Mushroom Grove",
     "original": "Mushroom Grove",
-    "translation": "蘑菇树林(Mushroom Grove)",
-    "stage": 1,
+    "translation": "蘑菇林(Mushroom Grove)",
+    "stage": 5,
     "context": "this.m.Name = 'Mushroom Grove'"
   },
   {

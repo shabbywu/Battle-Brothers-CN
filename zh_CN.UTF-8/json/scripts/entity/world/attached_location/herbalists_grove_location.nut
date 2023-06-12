@@ -11,8 +11,8 @@
     "ID": 293410537,
     "key": "Herbalist's Grove",
     "original": "Herbalist's Grove",
-    "translation": "药师小树林(Herbalist's Grove)",
-    "stage": 1,
+    "translation": "药师的小树林(Herbalist's Grove)",
+    "stage": 5,
     "context": "this.m.Name = \"Herbalist's Grove\""
   }
 ]

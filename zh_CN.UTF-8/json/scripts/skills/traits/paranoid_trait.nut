@@ -4,15 +4,15 @@
     "key": "]-30[/color] Initiative",
     "original": "]-30[/color] Initiative",
     "translation": "]-30[/color] 主动性",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-30[/color] Initiative'"
   },
   {
     "ID": 293422702,
     "key": "I swear that bush over there was moving! This character is extra cautious and reluctant to move ahead.",
     "original": "I swear that bush over there was moving! This character is extra cautious and reluctant to move ahead.",
-    "translation": "我发誓那边的灌木在动！ 这个角色格外谨慎，不愿意前进。",
-    "stage": 1,
+    "translation": "我发誓那边的灌木在动！这个角色格外谨慎，不愿意前进。",
+    "stage": 5,
     "context": "this.m.Description = 'I swear that bush over there was moving! This character is extra cautious and reluctant to move ahead.'"
   },
   {
@@ -36,22 +36,22 @@
     "key": "Paranoid",
     "original": "Paranoid",
     "translation": "偏执狂",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Paranoid'"
   },
   {
     "ID": 293422706,
     "key": "the Crazy",
     "original": "the Crazy",
-    "translation": "狂人",
-    "stage": 1
+    "translation": "狂人(the Crazy)",
+    "stage": 5
   },
   {
     "ID": 293422707,
     "key": "the Paranoid",
     "original": "the Paranoid",
-    "translation": "多疑者(the Paranoid)",
-    "stage": 1
+    "translation": "偏执狂(the Paranoid)",
+    "stage": 5
   },
   {
     "ID": 293422708,

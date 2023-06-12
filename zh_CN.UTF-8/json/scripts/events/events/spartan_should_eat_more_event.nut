@@ -47,7 +47,7 @@
     "key": " is no longer spartan",
     "original": " is no longer spartan",
     "translation": "不再是斯巴达人",
-    "stage": 1,
+    "stage": 5,
     "context": "_event.m.Spartan.getName() + ' is no longer spartan'"
   },
   {

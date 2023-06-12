@@ -167,7 +167,7 @@
     "ID": 293409796,
     "key": "Follow the tracks %direction% of %townname%",
     "original": "Follow the tracks %direction% of %townname%",
-    "translation": "沿着%townname%%direction%的踪迹前进",
+    "translation": "沿着%townname%%direction%边的踪迹前进",
     "stage": 5
   },
   {

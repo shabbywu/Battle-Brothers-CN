@@ -17,23 +17,23 @@
     "ID": 293422456,
     "key": "This character will turn tail on the first possible occasion. Better have an eye on him!",
     "original": "This character will turn tail on the first possible occasion. Better have an eye on him!",
-    "translation": "这个角色会在任何可能的情况下逃跑。 最好看着他！",
-    "stage": 1,
+    "translation": "这个角色一有可能就会逃跑。最好看着点他！",
+    "stage": 5,
     "context": "this.m.Description = 'This character will turn tail on the first possible occasion. Better have an eye on him!'"
   },
   {
     "ID": 293422457,
     "key": "the Chicken",
     "original": "the Chicken",
-    "translation": "那只鸡(the Chicken)",
-    "stage": 1
+    "translation": "鸡仔(the Chicken)",
+    "stage": 5
   },
   {
     "ID": 293422458,
     "key": "Dastard",
     "original": "Dastard",
-    "translation": "畏缩",
-    "stage": 1,
+    "translation": "懦夫",
+    "stage": 5,
     "context": "this.m.Name = 'Dastard'"
   },
   {
@@ -48,6 +48,6 @@
     "key": "Will start combat at wavering morale",
     "original": "Will start combat at wavering morale",
     "translation": "将以动摇的士气开始战斗",
-    "stage": 1
+    "stage": 5
   }
 ]

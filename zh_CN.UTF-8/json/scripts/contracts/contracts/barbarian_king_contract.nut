@@ -209,7 +209,7 @@
     "ID": 293407903,
     "key": "His warhost was last spotted around %region%, %terrain% %direction% from you, near %nearest_town%",
     "original": "His warhost was last spotted around %region%, %terrain% %direction% from you, near %nearest_town%",
-    "translation": "他的战团最后被发现在 %region%，在你的 %terrain% %direction%，附近是 %nearest_town%",
+    "translation": "他的战团最后在%region%附近被发现，在你%direction%边的%terrain%，靠近%nearest_town%",
     "stage": 5
   },
   {

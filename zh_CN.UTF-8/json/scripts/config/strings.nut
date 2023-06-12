@@ -46,8 +46,8 @@
     "ID": 293405642,
     "key": "Sleeping Giants Back",
     "original": "Sleeping Giants Back",
-    "translation": "沉睡的巨人回来了(Sleeping Giants Back)",
-    "stage": 1
+    "translation": "眠巨人之背(Sleeping Giants Back)",
+    "stage": 5
   },
   {
     "ID": 293405643,
@@ -145,14 +145,14 @@
     "key": "Windlands",
     "original": "Windlands",
     "translation": "风地(Windlands)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405657,
     "key": "close by",
     "original": "close by",
-    "translation": "[color=#00ff00]较近的[/color]",
-    "stage": 1
+    "translation": "[color=#00ff00]较近[/color]",
+    "stage": 5
   },
   {
     "ID": 293405658,
@@ -165,15 +165,15 @@
     "ID": 293405659,
     "key": "not far",
     "original": "not far",
-    "translation": "[color=#00ff00]不远的[/color]",
-    "stage": 1
+    "translation": "[color=#00ff00]不远[/color]",
+    "stage": 5
   },
   {
     "ID": 293405660,
     "key": "Protectorate of",
     "original": "Protectorate of",
     "translation": "保护国·",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405661,
@@ -334,8 +334,8 @@
     "ID": 293405683,
     "key": "Desert of Mirrors",
     "original": "Desert of Mirrors",
-    "translation": "镜之沙漠(Desert of Mirrors)",
-    "stage": 1
+    "translation": "镜之荒漠(Desert of Mirrors)",
+    "stage": 5
   },
   {
     "ID": 293405684,
@@ -364,7 +364,7 @@
     "key": "Clan's Claim",
     "original": "Clan's Claim",
     "translation": "氏族的主张(Clan's Claim)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405688,
@@ -595,7 +595,7 @@
     "key": "City of",
     "original": "City of",
     "translation": "城市·",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405721,
@@ -785,8 +785,8 @@
     "ID": 293405747,
     "key": "Vibrant Grove",
     "original": "Vibrant Grove",
-    "translation": "充满活力的格罗夫(Vibrant Grove)",
-    "stage": 1
+    "translation": "充满生机的树林(Vibrant Grove)",
+    "stage": 5
   },
   {
     "ID": 293405748,
@@ -814,7 +814,7 @@
     "key": "Realm of",
     "original": "Realm of",
     "translation": "领地·",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405752,
@@ -998,8 +998,8 @@
     "ID": 293405777,
     "key": "Mount Bulkhead",
     "original": "Mount Bulkhead",
-    "translation": "安装隔板(Mount Bulkhead)",
-    "stage": 1
+    "translation": "堤防山(Mount Bulkhead)",
+    "stage": 5
   },
   {
     "ID": 293405778,
@@ -1213,15 +1213,15 @@
     "ID": 293405807,
     "key": "Hogfolk",
     "original": "Hogfolk",
-    "translation": "猪民(Hogfolk)",
-    "stage": 1
+    "translation": "猪人村(Hogfolk)",
+    "stage": 5
   },
   {
     "ID": 293405808,
     "key": "some way",
     "original": "some way",
-    "translation": "[color=#00ff00]稍远的[/color]",
-    "stage": 1
+    "translation": "[color=#00ff00]稍远[/color]",
+    "stage": 5
   },
   {
     "ID": 293405809,
@@ -1368,8 +1368,8 @@
     "ID": 293405829,
     "key": "Knowesfold",
     "original": "Knowesfold",
-    "translation": "诺斯福尔德(Knowesfold)",
-    "stage": 1
+    "translation": "山丘草地(Knowesfold)",
+    "stage": 5
   },
   {
     "ID": 293405830,
@@ -1627,7 +1627,7 @@
     "key": "Firerock Grove",
     "original": "Firerock Grove",
     "translation": "火石林(Firerock Grove)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405866,
@@ -1788,8 +1788,8 @@
     "ID": 293405888,
     "key": "south",
     "original": "south",
-    "translation": "[color=#ffff00]南方[/color]",
-    "stage": 1
+    "translation": "[color=#ffff00]南[/color]",
+    "stage": 5
   },
   {
     "ID": 293405889,
@@ -1995,7 +1995,7 @@
     "key": "Willowshire Hillside",
     "original": "Willowshire Hillside",
     "translation": "柳郡山坡(Willowshire Hillside)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405918,
@@ -2121,8 +2121,8 @@
     "ID": 293405935,
     "key": "Froglickers Grove",
     "original": "Froglickers Grove",
-    "translation": "“青蛙舔舔林”。(Froglickers Grove)",
-    "stage": 1
+    "translation": "舔吮青蛙林(Froglickers Grove)",
+    "stage": 5
   },
   {
     "ID": 293405936,
@@ -2633,7 +2633,7 @@
     "key": "Oak Wood Meadows",
     "original": "Oak Wood Meadows",
     "translation": "橡木草地(Oak Wood Meadows)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406008,
@@ -3170,8 +3170,8 @@
     "ID": 293406083,
     "key": "north-west",
     "original": "north-west",
-    "translation": "[color=#ffff00]西北方[/color]",
-    "stage": 1
+    "translation": "[color=#ffff00]西北[/color]",
+    "stage": 5
   },
   {
     "ID": 293406084,
@@ -3240,8 +3240,8 @@
     "ID": 293406093,
     "key": "far away",
     "original": "far away",
-    "translation": "[color=#00ff00]非常远的[/color]",
-    "stage": 1
+    "translation": "[color=#00ff00]非常远[/color]",
+    "stage": 5
   },
   {
     "ID": 293406094,
@@ -3453,7 +3453,7 @@
     "key": "Grand City of",
     "original": "Grand City of",
     "translation": "大城市·",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406124,
@@ -3600,7 +3600,7 @@
     "key": "The Borderlands",
     "original": "The Borderlands",
     "translation": "无主之地(The Borderlands)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406145,
@@ -3976,8 +3976,8 @@
     "ID": 293406197,
     "key": "east",
     "original": "east",
-    "translation": "[color=#ffff00]东方[/color]",
-    "stage": 1
+    "translation": "[color=#ffff00]东[/color]",
+    "stage": 5
   },
   {
     "ID": 293406198,
@@ -3990,8 +3990,8 @@
     "ID": 293406199,
     "key": "Bogwood Grove",
     "original": "Bogwood Grove",
-    "translation": "博格伍德格罗夫(Bogwood Grove)",
-    "stage": 1
+    "translation": "地下木材林(Bogwood Grove)",
+    "stage": 5
   },
   {
     "ID": 293406200,
@@ -4061,8 +4061,8 @@
     "ID": 293406209,
     "key": "Willow's Fields",
     "original": "Willow's Fields",
-    "translation": "柳树的田野(Willow's Fields)",
-    "stage": 1
+    "translation": "柳树原野(Willow's Fields)",
+    "stage": 5
   },
   {
     "ID": 293406210,
@@ -4169,7 +4169,7 @@
     "key": "Elm Grove",
     "original": "Elm Grove",
     "translation": "榆树林(Elm Grove)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406225,
@@ -4182,8 +4182,8 @@
     "ID": 293406226,
     "key": "west",
     "original": "west",
-    "translation": "[color=#ffff00]西方[/color]",
-    "stage": 1
+    "translation": "[color=#ffff00]西[/color]",
+    "stage": 5
   },
   {
     "ID": 293406227,
@@ -4196,8 +4196,8 @@
     "ID": 293406228,
     "key": "Shallowford",
     "original": "Shallowford",
-    "translation": "沙洛福德(Shallowford)",
-    "stage": 1
+    "translation": "浅石滩(Shallowford)",
+    "stage": 5
   },
   {
     "ID": 293406229,
@@ -4345,15 +4345,15 @@
     "ID": 293406249,
     "key": "north",
     "original": "north",
-    "translation": "[color=#ffff00]北方[/color]",
-    "stage": 1
+    "translation": "[color=#ffff00]北[/color]",
+    "stage": 5
   },
   {
     "ID": 293406250,
     "key": "Hero's Fall",
     "original": "Hero's Fall",
-    "translation": "英雄的陨落(Hero's Fall)",
-    "stage": 1
+    "translation": "英雄陨落之处(Hero's Fall)",
+    "stage": 5
   },
   {
     "ID": 293406251,
@@ -4738,7 +4738,7 @@
     "key": "Moss Valley",
     "original": "Moss Valley",
     "translation": "苔藓谷(Moss Valley)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406305,
@@ -4851,8 +4851,8 @@
     "ID": 293406320,
     "key": "south-east",
     "original": "south-east",
-    "translation": "[color=#ffff00]东南方[/color]",
-    "stage": 1
+    "translation": "[color=#ffff00]东南[/color]",
+    "stage": 5
   },
   {
     "ID": 293406321,
@@ -4985,8 +4985,8 @@
     "ID": 293406339,
     "key": "Needlegrove",
     "original": "Needlegrove",
-    "translation": "针叶林(Needlegrove)",
-    "stage": 1
+    "translation": "针林(Needlegrove)",
+    "stage": 5
   },
   {
     "ID": 293406340,
@@ -5027,8 +5027,8 @@
     "ID": 293406345,
     "key": "far",
     "original": "far",
-    "translation": "[color=#00ff00]很远的[/color]",
-    "stage": 1
+    "translation": "[color=#00ff00]很远[/color]",
+    "stage": 5
   },
   {
     "ID": 293406346,
@@ -5148,7 +5148,7 @@
     "key": "Whispering Groves",
     "original": "Whispering Groves",
     "translation": "耳语林(Whispering Groves)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406363,
@@ -5410,7 +5410,7 @@
     "key": "in the forest",
     "original": "in the forest",
     "translation": "[color=#ff0000]森林里[/color]",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406400,
@@ -5438,7 +5438,7 @@
     "key": "Holy City of",
     "original": "Holy City of",
     "translation": "圣城·",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406404,
@@ -5487,8 +5487,8 @@
     "ID": 293406410,
     "key": "Skullsbreath Mound",
     "original": "Skullsbreath Mound",
-    "translation": "颅息冢(Skullsbreath Mound)",
-    "stage": 1
+    "translation": "颅息之丘(Skullsbreath Mound)",
+    "stage": 5
   },
   {
     "ID": 293406411,
@@ -5565,8 +5565,8 @@
     "ID": 293406421,
     "key": "Silversage Fields",
     "original": "Silversage Fields",
-    "translation": "银叶原野(Silversage Fields)",
-    "stage": 1
+    "translation": "银鼠尾草原野(Silversage Fields)",
+    "stage": 5
   },
   {
     "ID": 293406422,
@@ -5756,7 +5756,7 @@
     "key": "Banshee Mounds",
     "original": "Banshee Mounds",
     "translation": "女妖丘(Banshee Mounds)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406449,
@@ -5896,8 +5896,8 @@
     "ID": 293406468,
     "key": "Crows Nest",
     "original": "Crows Nest",
-    "translation": "乌鸦巢(Crows Nest)",
-    "stage": 1
+    "translation": "乌鸦之巢(Crows Nest)",
+    "stage": 5
   },
   {
     "ID": 293406469,
@@ -6291,7 +6291,7 @@
     "key": "Druid's Grove",
     "original": "Druid's Grove",
     "translation": "德鲁伊的树林(Druid's Grove)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406524,
@@ -6468,7 +6468,7 @@
     "key": "The Rift",
     "original": "The Rift",
     "translation": "裂谷(The Rift)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406549,
@@ -6531,15 +6531,15 @@
     "ID": 293406557,
     "key": "north-east",
     "original": "north-east",
-    "translation": "[color=#ffff00]东北方[/color]",
-    "stage": 1
+    "translation": "[color=#ffff00]东北[/color]",
+    "stage": 5
   },
   {
     "ID": 293406558,
     "key": "Free City of",
     "original": "Free City of",
     "translation": "自由城·",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406559,
@@ -6716,7 +6716,7 @@
     "key": "Spidergrove",
     "original": "Spidergrove",
     "translation": "蜘蛛林(Spidergrove)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406584,
@@ -6844,8 +6844,8 @@
     "ID": 293406601,
     "key": "Rich Meadows",
     "original": "Rich Meadows",
-    "translation": "丰富的草地(Rich Meadows)",
-    "stage": 1
+    "translation": "肥沃的草地(Rich Meadows)",
+    "stage": 5
   },
   {
     "ID": 293406602,
@@ -7043,8 +7043,8 @@
     "ID": 293406629,
     "key": "a long way",
     "original": "a long way",
-    "translation": "[color=#00ff00]较远的[/color]",
-    "stage": 1
+    "translation": "[color=#00ff00]远[/color]",
+    "stage": 5
   },
   {
     "ID": 293406630,
@@ -7185,8 +7185,8 @@
     "ID": 293406649,
     "key": "Wideacre",
     "original": "Wideacre",
-    "translation": "宽英亩(Wideacre)",
-    "stage": 1
+    "translation": "宽阔的耕地(Wideacre)",
+    "stage": 5
   },
   {
     "ID": 293406650,
@@ -7221,8 +7221,8 @@
     "ID": 293406654,
     "key": "Dead Sands",
     "original": "Dead Sands",
-    "translation": "死沙(Dead Sands)",
-    "stage": 1
+    "translation": "死亡沙地(Dead Sands)",
+    "stage": 5
   },
   {
     "ID": 293406655,
@@ -7490,15 +7490,15 @@
     "ID": 293406691,
     "key": "Temple Grove",
     "original": "Temple Grove",
-    "translation": "坦普尔格罗夫(Temple Grove)",
-    "stage": 1
+    "translation": "神庙林(Temple Grove)",
+    "stage": 5
   },
   {
     "ID": 293406692,
     "key": "south-west",
     "original": "south-west",
-    "translation": "[color=#ffff00]西南方[/color]",
-    "stage": 1
+    "translation": "[color=#ffff00]西南[/color]",
+    "stage": 5
   },
   {
     "ID": 293406693,
@@ -8010,8 +8010,8 @@
     "ID": 293406765,
     "key": "Mumbling Sands",
     "original": "Mumbling Sands",
-    "translation": "咕哝沙(Mumbling Sands)",
-    "stage": 1
+    "translation": "呢喃沙地(Mumbling Sands)",
+    "stage": 5
   },
   {
     "ID": 293406766,
@@ -8111,8 +8111,8 @@
     "ID": 293406779,
     "key": "Ironoak Grove",
     "original": "Ironoak Grove",
-    "translation": "铁橡树林(Ironoak Grove)",
-    "stage": 1
+    "translation": "铁橡林(Ironoak Grove)",
+    "stage": 5
   },
   {
     "ID": 293406780,
@@ -8454,7 +8454,7 @@
     "key": "Chestnut Grove",
     "original": "Chestnut Grove",
     "translation": "栗树林(Chestnut Grove)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406828,
@@ -8552,8 +8552,8 @@
     "ID": 293406841,
     "key": "City State of",
     "original": "City State of",
-    "translation": "州市·",
-    "stage": 1
+    "translation": "城邦·",
+    "stage": 5
   },
   {
     "ID": 293406842,
