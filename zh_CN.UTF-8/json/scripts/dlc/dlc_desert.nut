@@ -59,7 +59,7 @@
     "ID": 293410164,
     "key": "Mortars of the city states can only fire if an engineer is next to them to operate them.",
     "original": "Mortars of the city states can only fire if an engineer is next to them to operate them.",
-    "translation": "城邦的迫击炮只有在有一名工程师在旁操作时才能开火。",
+    "translation": "城邦的臼炮必须有一名火炮技师在旁操作时才能开火。",
     "stage": 1
   },
   {

@@ -3,8 +3,8 @@
     "ID": 293422394,
     "key": "This character can be as dangerous for himself as to his opponent.",
     "original": "This character can be as dangerous for himself as to his opponent.",
-    "translation": "这个角色对他自己和对他的对手都是危险的。",
-    "stage": 1,
+    "translation": "这个角色对他自己和对手来说都可能是同样危险的。",
+    "stage": 5,
     "context": "this.m.Description = 'This character can be as dangerous for himself as to his opponent.'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "Clumsy",
     "original": "Clumsy",
     "translation": "笨拙",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Clumsy'"
   }
 ]

@@ -12,7 +12,7 @@
     "key": " suffers ",
     "original": " suffers ",
     "translation": " 遭受 ",
-    "stage": 1,
+    "stage": 5,
     "context": "lowestBro.getName() + ' suffers ' + injury.getNameOnly()"
   },
   {

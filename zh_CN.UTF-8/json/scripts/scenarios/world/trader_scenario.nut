@@ -4,7 +4,7 @@
     "key": "Trading Caravan",
     "original": "Trading Caravan",
     "translation": "贸易商队",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Trading Caravan'"
   },
   {

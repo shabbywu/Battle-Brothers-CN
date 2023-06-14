@@ -10,8 +10,8 @@
     "ID": 293406984,
     "key": "Improvised Burial Site",
     "original": "Improvised Burial Site",
-    "translation": "简易墓地",
-    "stage": 1
+    "translation": "临时墓地",
+    "stage": 5
   },
   {
     "ID": 293406985,
@@ -80,8 +80,8 @@
     "ID": 293406994,
     "key": "Vulture's Feast",
     "original": "Vulture's Feast",
-    "translation": "秃鹫饱腹之地",
-    "stage": 1
+    "translation": "秃鹰的盛宴",
+    "stage": 5
   },
   {
     "ID": 293406995,
@@ -298,14 +298,14 @@
     "key": "Xin Zatox",
     "original": "Xin Zatox",
     "translation": "辛赞托斯",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407026,
     "key": "House of the Immortals",
     "original": "House of the Immortals",
     "translation": "不朽者宅邸",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407027,
@@ -354,7 +354,7 @@
     "key": "Exposed Massgrave",
     "original": "Exposed Massgrave",
     "translation": "露天大坟场",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407034,
@@ -473,7 +473,7 @@
     "key": "Occupied Cave",
     "original": "Occupied Cave",
     "translation": "被占领的洞穴",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407051,
@@ -493,8 +493,8 @@
     "ID": 293407053,
     "key": "Camp of the Morning Sun",
     "original": "Camp of the Morning Sun",
-    "translation": "晨光营",
-    "stage": 1
+    "translation": "晨光营地",
+    "stage": 5
   },
   {
     "ID": 293407054,
@@ -745,8 +745,8 @@
     "ID": 293407089,
     "key": "Crumbled Watchtower",
     "original": "Crumbled Watchtower",
-    "translation": "倒塌的瞭望塔",
-    "stage": 1
+    "translation": "坍塌的瞭望塔",
+    "stage": 5
   },
   {
     "ID": 293407090,
@@ -759,8 +759,8 @@
     "ID": 293407091,
     "key": "Camp of the Senate",
     "original": "Camp of the Senate",
-    "translation": "参议营地",
-    "stage": 1
+    "translation": "议事营地",
+    "stage": 5
   },
   {
     "ID": 293407092,
@@ -829,8 +829,8 @@
     "ID": 293407101,
     "key": "Champion's Rallyfield",
     "original": "Champion's Rallyfield",
-    "translation": "冠军勇士集结地",
-    "stage": 1
+    "translation": "冠军集结地",
+    "stage": 5
   },
   {
     "ID": 293407102,
@@ -984,7 +984,7 @@
     "key": "Zugat Nazat",
     "original": "Zugat Nazat",
     "translation": "祖加特那伽特",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407124,
@@ -1005,14 +1005,14 @@
     "key": "Ruins of Old",
     "original": "Ruins of Old",
     "translation": "古老遗迹",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407127,
     "key": "Mirkwood Marauders Camp",
     "original": "Mirkwood Marauders Camp",
-    "translation": "黑森林收割者营地",
-    "stage": 1
+    "translation": "黑森林掳掠者营地",
+    "stage": 5
   },
   {
     "ID": 293407128,
@@ -1053,8 +1053,8 @@
     "ID": 293407133,
     "key": "Crimson Marauders' Camp",
     "original": "Crimson Marauders' Camp",
-    "translation": "深红掠夺者营地",
-    "stage": 1
+    "translation": "猩红掳掠者营地",
+    "stage": 5
   },
   {
     "ID": 293407134,
@@ -1201,7 +1201,7 @@
     "key": "Blood Cleaver's Den",
     "original": "Blood Cleaver's Den",
     "translation": "血腥砍刀窝点",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407155,
@@ -1333,8 +1333,8 @@
     "ID": 293407173,
     "key": "Ruins of Kragenheim",
     "original": "Ruins of Kragenheim",
-    "translation": "克根海姆的废墟",
-    "stage": 1
+    "translation": "克根海姆废墟",
+    "stage": 5
   },
   {
     "ID": 293407174,
@@ -1417,8 +1417,8 @@
     "ID": 293407185,
     "key": "Overturned Massgrave",
     "original": "Overturned Massgrave",
-    "translation": "翻转的大墓地",
-    "stage": 1
+    "translation": "倾覆的大墓地",
+    "stage": 5
   },
   {
     "ID": 293407186,
@@ -1432,7 +1432,7 @@
     "key": "Cave of the Ilskah Ghul",
     "original": "Cave of the Ilskah Ghul",
     "translation": "伊尔斯卡戈尔洞穴",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407188,
@@ -1495,7 +1495,7 @@
     "key": "Graurukash",
     "original": "Graurukash",
     "translation": "格奥鲁喀什",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407197,
@@ -1537,7 +1537,7 @@
     "key": "Nagraz Nox",
     "original": "Nagraz Nox",
     "translation": "那格兹诺克斯",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407203,
@@ -1593,7 +1593,7 @@
     "key": "Occupied Ruins",
     "original": "Occupied Ruins",
     "translation": "被占领的废墟",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407211,
@@ -1740,7 +1740,7 @@
     "key": "Toppled Watchtower",
     "original": "Toppled Watchtower",
     "translation": "倒塌的瞭望塔",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407232,
@@ -1879,8 +1879,8 @@
     "ID": 293407251,
     "key": "Marauders' Camp",
     "original": "Marauders' Camp",
-    "translation": "收割者营地",
-    "stage": 1
+    "translation": "掳掠者营地",
+    "stage": 5
   },
   {
     "ID": 293407252,
@@ -1992,7 +1992,7 @@
     "key": "Dark Shrouds Coven",
     "original": "Dark Shrouds Coven",
     "translation": "黑色迷雾集会处",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407268,
@@ -2096,8 +2096,8 @@
     "ID": 293407282,
     "key": "Blazing Sun Camp",
     "original": "Blazing Sun Camp",
-    "translation": "烈日营",
-    "stage": 1
+    "translation": "烈日营地",
+    "stage": 5
   },
   {
     "ID": 293407283,
@@ -2209,7 +2209,7 @@
     "key": "Occupied Hovel",
     "original": "Occupied Hovel",
     "translation": "被占领的小屋",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407299,
@@ -2356,7 +2356,7 @@
     "key": "Duskfall Camp",
     "original": "Duskfall Camp",
     "translation": "落暮营地",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407320,
@@ -2411,8 +2411,8 @@
     "ID": 293407327,
     "key": "Cavern of the Green Death",
     "original": "Cavern of the Green Death",
-    "translation": "绿皮死神洞穴",
-    "stage": 1
+    "translation": "绿色死神洞穴",
+    "stage": 5
   },
   {
     "ID": 293407328,
@@ -2440,7 +2440,7 @@
     "key": "Defiled Battlefield",
     "original": "Defiled Battlefield",
     "translation": "被污染的古战场",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407332,
@@ -2538,7 +2538,7 @@
     "key": "Headcrusher's Garrison",
     "original": "Headcrusher's Garrison",
     "translation": "碎颅者驻扎地",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407346,
@@ -2803,8 +2803,8 @@
     "ID": 293407383,
     "key": "Coldhearts' Escape",
     "original": "Coldhearts' Escape",
-    "translation": "铁石心肠逃亡地",
-    "stage": 1
+    "translation": "寒心藏身处",
+    "stage": 5
   },
   {
     "ID": 293407384,
@@ -2881,7 +2881,7 @@
     "key": "Boar Skull Camp",
     "original": "Boar Skull Camp",
     "translation": "野猪颅骨营地",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407395,
@@ -2908,8 +2908,8 @@
     "ID": 293407398,
     "key": "Buried Walls",
     "original": "Buried Walls",
-    "translation": "埋墙",
-    "stage": 1
+    "translation": "被掩埋的壁堆",
+    "stage": 5
   },
   {
     "ID": 293407399,
@@ -2958,14 +2958,14 @@
     "key": "Refuge of the Apostate",
     "original": "Refuge of the Apostate",
     "translation": "叛教者避难所",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407406,
     "key": "Sunken Battlefield",
     "original": "Sunken Battlefield",
-    "translation": "沉沦的古战场",
-    "stage": 1
+    "translation": "下陷的古战场",
+    "stage": 5
   },
   {
     "ID": 293407407,
@@ -3063,7 +3063,7 @@
     "key": "Remnants of Long Past",
     "original": "Remnants of Long Past",
     "translation": "久远的遗迹",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407421,
@@ -3237,7 +3237,7 @@
     "ID": 293407445,
     "key": "%randomname%'s Watch",
     "original": "%randomname%'s Watch",
-    "translation": "%randomname% 的瞭望塔",
+    "translation": "%randomname%的瞭望塔",
     "stage": 5
   },
   {
@@ -3294,7 +3294,7 @@
     "key": "Collapsed Hovel",
     "original": "Collapsed Hovel",
     "translation": "倒塌的小屋",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407454,
@@ -3405,8 +3405,8 @@
     "ID": 293407469,
     "key": "Nomad Hideout",
     "original": "Nomad Hideout",
-    "translation": "游牧者藏身处",
-    "stage": 1
+    "translation": "游牧民藏身处",
+    "stage": 5
   },
   {
     "ID": 293407470,
@@ -3434,7 +3434,7 @@
     "key": "Collapsed Hiding-Place",
     "original": "Collapsed Hiding-Place",
     "translation": "倒塌的藏身处",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407474,
@@ -3475,8 +3475,8 @@
     "ID": 293407479,
     "key": "Rallyfield of the Senate",
     "original": "Rallyfield of the Senate",
-    "translation": "参议院集结地",
-    "stage": 1
+    "translation": "议事集结地",
+    "stage": 5
   },
   {
     "ID": 293407480,
@@ -3546,7 +3546,7 @@
     "key": "Cave of the Flesheaters",
     "original": "Cave of the Flesheaters",
     "translation": "食肉者洞穴",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407490,
@@ -3728,7 +3728,7 @@
     "key": "Collapsed Ruins",
     "original": "Collapsed Ruins",
     "translation": "倒塌的废墟",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407516,
@@ -3763,7 +3763,7 @@
     "key": "Doomed Fields",
     "original": "Doomed Fields",
     "translation": "被毁灭的原野",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407521,
@@ -3839,8 +3839,8 @@
     "ID": 293407531,
     "key": "Temple of the Undying",
     "original": "Temple of the Undying",
-    "translation": "不朽者神殿",
-    "stage": 1
+    "translation": "不死者神殿",
+    "stage": 5
   },
   {
     "ID": 293407532,
@@ -4063,15 +4063,15 @@
     "ID": 293407563,
     "key": "Flesheater's Cavern",
     "original": "Flesheater's Cavern",
-    "translation": "食肉者洞穴",
-    "stage": 1
+    "translation": "食肉者之洞",
+    "stage": 5
   },
   {
     "ID": 293407564,
     "key": "Skewer's Hideout",
     "original": "Skewer's Hideout",
-    "translation": "串肉串的藏身处",
-    "stage": 1
+    "translation": "串肉扦藏身处",
+    "stage": 5
   },
   {
     "ID": 293407565,
@@ -4112,8 +4112,8 @@
     "ID": 293407570,
     "key": "Halls of the Uundying",
     "original": "Halls of the Uundying",
-    "translation": "不朽者大厅",
-    "stage": 1
+    "translation": "不死者礼堂",
+    "stage": 5
   },
   {
     "ID": 293407571,
@@ -4147,8 +4147,8 @@
     "ID": 293407575,
     "key": "Headchopper's Grotto",
     "original": "Headchopper's Grotto",
-    "translation": "碎颅者洞穴",
-    "stage": 1
+    "translation": "砍头者洞穴",
+    "stage": 5
   },
   {
     "ID": 293407576,
@@ -4246,7 +4246,7 @@
     "key": "Zatox Thum",
     "original": "Zatox Thum",
     "translation": "赞托斯索姆",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407590,
@@ -4343,8 +4343,8 @@
     "ID": 293407603,
     "key": "Bleached out Ruins",
     "original": "Bleached out Ruins",
-    "translation": "苍白废墟",
-    "stage": 1
+    "translation": "褪色废墟",
+    "stage": 5
   },
   {
     "ID": 293407604,
@@ -4385,8 +4385,8 @@
     "ID": 293407609,
     "key": "Shuffling Bones Swale",
     "original": "Shuffling Bones Swale",
-    "translation": "吞噬骸骨之地",
-    "stage": 1
+    "translation": "拖骨泥潭",
+    "stage": 5
   },
   {
     "ID": 293407610,
@@ -4463,7 +4463,7 @@
     "key": "City of Tents",
     "original": "City of Tents",
     "translation": "帐篷之城",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407621,
@@ -4588,8 +4588,8 @@
     "ID": 293407638,
     "key": "Collapsed Dwellings",
     "original": "Collapsed Dwellings",
-    "translation": "倒塌的住宅",
-    "stage": 1
+    "translation": "倒塌的民居",
+    "stage": 5
   },
   {
     "ID": 293407639,
@@ -4680,7 +4680,7 @@
     "key": "First King's final rest",
     "original": "First King's final rest",
     "translation": "先王安息之地",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407652,
@@ -4785,7 +4785,7 @@
     "key": "Collapsed Fortress",
     "original": "Collapsed Fortress",
     "translation": "倒塌的要塞",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407667,
@@ -4890,7 +4890,7 @@
     "key": "Raiders Retreat",
     "original": "Raiders Retreat",
     "translation": "掠夺者避难所",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407682,
@@ -4925,7 +4925,7 @@
     "key": "Poison Flinger's Garrison",
     "original": "Poison Flinger's Garrison",
     "translation": "投毒者驻扎地",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407687,
@@ -5016,7 +5016,7 @@
     "key": "Greenskin's Den",
     "original": "Greenskin's Den",
     "translation": "绿皮窝点",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407700,
@@ -5030,7 +5030,7 @@
     "key": "Burned Ruins",
     "original": "Burned Ruins",
     "translation": "被烧毁的废墟",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407702,
@@ -5051,7 +5051,7 @@
     "key": "Withered Battlesite",
     "original": "Withered Battlesite",
     "translation": "凋零的古战场",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407705,
@@ -5072,7 +5072,7 @@
     "key": "Black Shroud Manor",
     "original": "Black Shroud Manor",
     "translation": "黑色迷雾庄园",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407708,

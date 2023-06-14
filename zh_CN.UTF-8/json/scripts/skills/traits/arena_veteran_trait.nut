@@ -59,8 +59,8 @@
     "ID": 293422351,
     "key": "]50%[/color] chance to survive if struck down and not killed by a fatality",
     "original": "]50%[/color] chance to survive if struck down and not killed by a fatality",
-    "translation": "]50%[/color]的几率在被致命攻击时存活",
-    "stage": 1,
+    "translation": "]50%[/color] 几率在受非处决攻击且生命值归零时幸存",
+    "stage": 5,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] chance to survive if struck down and not killed by a fatality'"
   },
   {

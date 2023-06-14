@@ -3,8 +3,8 @@
     "ID": 293410653,
     "key": "Nomads hide their camps well to avoid unwanted visitors or pursuing soldiers of the city states.",
     "original": "Nomads hide their camps well to avoid unwanted visitors or pursuing soldiers of the city states.",
-    "translation": "游牧民很好的把他们的营地藏了起来以避免不请自来访客或者城邦追来的士兵。",
-    "stage": 1,
+    "translation": "游牧民把他们的营地藏得很好，以避免不期而遇的访客或城邦的追兵。",
+    "stage": 5,
     "context": "return 'Nomads hide their camps well to avoid unwanted visitors or pursuing soldiers of the city states.';"
   }
 ]

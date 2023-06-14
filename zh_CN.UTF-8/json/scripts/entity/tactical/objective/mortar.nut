@@ -3,8 +3,8 @@
     "ID": 293410326,
     "key": "Mortar",
     "original": "Mortar",
-    "translation": "炮手",
-    "stage": 1,
+    "translation": "臼炮",
+    "stage": 5,
     "context": "this.m.Name = 'Mortar'"
   }
 ]

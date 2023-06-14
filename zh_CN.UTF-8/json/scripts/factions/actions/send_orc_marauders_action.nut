@@ -10,7 +10,7 @@
     "ID": 293417380,
     "key": "Orc Marauders",
     "original": "Orc Marauders",
-    "translation": "兽人收割者(Orc Marauders)",
-    "stage": 1
+    "translation": "兽人掳掠者",
+    "stage": 5
   }
 ]

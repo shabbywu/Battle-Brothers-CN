@@ -75,8 +75,8 @@
     "ID": 293411291,
     "key": "Schwarzforst",
     "original": "Schwarzforst",
-    "translation": "黑森林(Schwarzforst)",
-    "stage": 1
+    "translation": "漆黑森林(Schwarzforst)",
+    "stage": 5
   },
   {
     "ID": 293411292,

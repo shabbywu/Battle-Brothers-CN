@@ -11,8 +11,8 @@
     "ID": 293418269,
     "key": "Engineer's Hat",
     "original": "Engineer's Hat",
-    "translation": "工程师帽子",
-    "stage": 1,
+    "translation": "技师帽子",
+    "stage": 5,
     "context": "this.m.Name = \"Engineer's Hat\""
   }
 ]

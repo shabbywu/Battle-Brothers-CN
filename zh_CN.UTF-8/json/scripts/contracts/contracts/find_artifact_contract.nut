@@ -4,7 +4,7 @@
     "key": "The Raven",
     "original": "The Raven",
     "translation": "乌鸦",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408869,
@@ -60,7 +60,7 @@
     "key": " suffers ",
     "original": " suffers ",
     "translation": " 遭受 ",
-    "stage": 1,
+    "stage": 5,
     "context": "bro.getName() + ' suffers ' + injury.getNameOnly()"
   },
   {
@@ -416,7 +416,7 @@
     "key": "the Raven",
     "original": "the Raven",
     "translation": "乌鸦",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408927,

@@ -514,8 +514,8 @@
     "ID": 293403851,
     "key": "The Raven",
     "original": "The Raven",
-    "translation": "乌鸦",
-    "stage": 1
+    "translation": "乌鸦(The Raven)",
+    "stage": 5
   },
   {
     "ID": 293403852,
@@ -1312,8 +1312,8 @@
     "ID": 293403965,
     "key": "the Raven",
     "original": "the Raven",
-    "translation": "乌鸦",
-    "stage": 1
+    "translation": "乌鸦(the Raven)",
+    "stage": 5
   },
   {
     "ID": 293403966,
@@ -2076,7 +2076,7 @@
     "key": "Meinrad",
     "original": "Meinrad",
     "translation": "迈因拉德",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404075,
@@ -2356,7 +2356,7 @@
     "key": "Sir Humbert",
     "original": "Sir Humbert",
     "translation": "亨伯特爵士",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404115,
@@ -2440,7 +2440,7 @@
     "key": "Hartbert",
     "original": "Hartbert",
     "translation": "哈特伯特",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404127,
@@ -3195,8 +3195,8 @@
     "ID": 293404234,
     "key": "The Wolf",
     "original": "The Wolf",
-    "translation": "这个狼",
-    "stage": 1
+    "translation": "狼",
+    "stage": 5
   },
   {
     "ID": 293404235,
@@ -4232,7 +4232,7 @@
     "key": "Humbert",
     "original": "Humbert",
     "translation": "亨伯特",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404383,
@@ -4372,7 +4372,7 @@
     "key": "Skullcrusher",
     "original": "Skullcrusher",
     "translation": "碎颅者",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404403,
@@ -4974,7 +4974,7 @@
     "key": "Ingolf",
     "original": "Ingolf",
     "translation": "伊戈尔夫",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404489,
@@ -5197,8 +5197,8 @@
     "ID": 293404520,
     "key": "Jifri",
     "original": "Jifri",
-    "translation": "加密",
-    "stage": 1
+    "translation": "吉弗利",
+    "stage": 5
   },
   {
     "ID": 293404521,
@@ -5855,8 +5855,8 @@
     "ID": 293404614,
     "key": "%randomname% the Marauder",
     "original": "%randomname% the Marauder",
-    "translation": "掠夺者·%randomname%",
-    "stage": 1
+    "translation": "掳掠者·%randomname%",
+    "stage": 5
   },
   {
     "ID": 293404615,
@@ -6086,8 +6086,8 @@
     "ID": 293404647,
     "key": "%randomname% the Undying",
     "original": "%randomname% the Undying",
-    "translation": "%randomname% 不朽者",
-    "stage": 1
+    "translation": "不死者%randomname%",
+    "stage": 5
   },
   {
     "ID": 293404648,
@@ -6338,8 +6338,8 @@
     "ID": 293404683,
     "key": "%randomsouthernname% the Immortal",
     "original": "%randomsouthernname% the Immortal",
-    "translation": "%randomsouthernname% 不朽者",
-    "stage": 1
+    "translation": "不朽者%randomsouthernname%",
+    "stage": 5
   },
   {
     "ID": 293404684,
@@ -6534,8 +6534,8 @@
     "ID": 293404711,
     "key": "Shaggaruth the Unending",
     "original": "Shaggaruth the Unending",
-    "translation": "沙加鲁斯不朽者(Shaggaruth the Unending)",
-    "stage": 1
+    "translation": "不朽者沙加鲁斯(Shaggaruth the Unending)",
+    "stage": 5
   },
   {
     "ID": 293404712,

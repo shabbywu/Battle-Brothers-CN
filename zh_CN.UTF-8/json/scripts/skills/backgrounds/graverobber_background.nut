@@ -3,8 +3,8 @@
     "ID": 293420995,
     "key": "Graverobber",
     "original": "Graverobber",
-    "translation": "盗墓贼(Graverobber)",
-    "stage": 1,
+    "translation": "盗墓贼",
+    "stage": 5,
     "context": "this.m.Name = 'Graverobber'"
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293420999,
     "key": "Graverobbers are not faint of heart.",
     "original": "Graverobbers are not faint of heart.",
-    "translation": "盗墓贼胆子很大。",
-    "stage": 1,
+    "translation": "盗墓贼胆子不小。",
+    "stage": 5,
     "context": "this.m.BackgroundDescription = 'Graverobbers are not faint of heart.'"
   }
 ]

@@ -99,7 +99,7 @@
     "key": " by ",
     "original": " by ",
     "translation": "被",
-    "stage": 1,
+    "stage": 5,
     "context": "killedBy = killedBy + ' by ' + _killer.getKilledName()"
   },
   {

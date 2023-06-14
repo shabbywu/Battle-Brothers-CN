@@ -17,8 +17,8 @@
     "ID": 293409308,
     "key": "Regiment of ",
     "original": "Regiment of ",
-    "translation": "一队",
-    "stage": 1,
+    "translation": "团",
+    "stage": 5,
     "context": "'Regiment of ' + cityState.getNameOnly()"
   },
   {
@@ -164,8 +164,8 @@
     "ID": 293409328,
     "key": "Conscripted soldiers loyal to their city state.",
     "original": "Conscripted soldiers loyal to their city state.",
-    "translation": "忠于城邦的应征士兵。",
-    "stage": 1
+    "translation": "忠于城邦的应征士兵们。",
+    "stage": 5
   },
   {
     "ID": 293409329,

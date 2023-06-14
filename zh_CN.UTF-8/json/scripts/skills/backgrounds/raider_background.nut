@@ -3,22 +3,22 @@
     "ID": 293421211,
     "key": "Ravensblack",
     "original": "Ravensblack",
-    "translation": "雷文斯布莱克(Ravensblack)",
-    "stage": 1
+    "translation": "乌鸦黑(Ravensblack)",
+    "stage": 5
   },
   {
     "ID": 293421212,
     "key": "the Defiant",
     "original": "the Defiant",
     "translation": "反抗者(the Defiant)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293421213,
     "key": "the Terrible",
     "original": "the Terrible",
-    "translation": "可怕的人(the Terrible)",
-    "stage": 1
+    "translation": "可怖者(the Terrible)",
+    "stage": 5
   },
   {
     "ID": 293421214,
@@ -84,8 +84,8 @@
     "ID": 293421222,
     "key": "the Marauder",
     "original": "the Marauder",
-    "translation": "野蛮人(the Marauder)",
-    "stage": 1
+    "translation": "掳掠者(the Marauder)",
+    "stage": 5
   },
   {
     "ID": 293421223,

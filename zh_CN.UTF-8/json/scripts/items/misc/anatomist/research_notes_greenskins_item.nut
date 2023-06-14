@@ -74,8 +74,8 @@
     "ID": 293418569,
     "key": "Orc Young",
     "original": "Orc Young",
-    "translation": "兽人青年",
-    "stage": 1
+    "translation": "兽人幼崽",
+    "stage": 5
   },
   {
     "ID": 293418570,
