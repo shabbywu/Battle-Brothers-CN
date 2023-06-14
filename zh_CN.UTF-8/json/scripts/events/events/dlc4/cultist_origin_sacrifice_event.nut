@@ -19,8 +19,8 @@
     "ID": 293414206,
     "key": "Appeased Davkul",
     "original": "Appeased Davkul",
-    "translation": "抚慰达库尔",
-    "stage": 1
+    "translation": "安抚了达库尔",
+    "stage": 5
   },
   {
     "ID": 293414207,

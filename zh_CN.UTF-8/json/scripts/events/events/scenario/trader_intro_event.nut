@@ -11,7 +11,7 @@
     "key": "The Trading Caravan",
     "original": "The Trading Caravan",
     "translation": "贸易商队",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Title = 'The Trading Caravan'"
   },
   {

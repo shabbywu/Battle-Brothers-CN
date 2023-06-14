@@ -11,8 +11,8 @@
     "ID": 293421550,
     "key": "Indomitable",
     "original": "Indomitable",
-    "translation": "不屈不挠",
-    "stage": 1,
+    "translation": "不屈",
+    "stage": 5,
     "context": "this.m.Name = 'Indomitable'"
   },
   {

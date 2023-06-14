@@ -3,7 +3,7 @@
     "ID": 293408745,
     "key": "[img]gfx/ui/events/event_04.png[/img]{Reaching %objective%, the caravan leader turns to you, a large satchel in hand.%SPEECH_ON%Thanks for getting us here, sellsword.%SPEECH_OFF%You take it and hand it over to %randombrother% for counting. He nods when he",
     "original": "[img]gfx/ui/events/event_04.png[/img]{Reaching %objective%, the caravan leader turns to you, a large satchel in hand.%SPEECH_ON%Thanks for getting us here, sellsword.%SPEECH_OFF%You take it and hand it over to %randombrother% for counting. He nods when he's finished. The caravan leader smiles.%SPEECH_ON%Also thanks for not betraying us and, you know, slaughtering us to a man and all that.%SPEECH_OFF%Mercenaries get thanked in the strangest ways. | Having reached %objective%, the caravan's wagons are immediately unloaded and their goods taken to a nearby warehouse. Once it's all cleared out, the leader of the group hands you a satchel of crowns and thanks you for making sure their passage was a safe one. | %objective% greets you with a swarm of daytalers looking for work. The caravan leader doles out crowns to men here and there, their grubby hands going to the carts to unload the cargo. When he's finished with the throngs of men, the leader turns to you. He's got a satchel in hand.%SPEECH_ON%And this is for you, mercenary.%SPEECH_OFF%You take it. A few of the daytalers watch the exchange of monies like cats would a dangling mouse. | You've made it, having delivered the caravan just as you'd promised %employer% you would. The caravan leader thanks you with a payment of crowns. He seems rather thankful for the fact that he's alive, briefly regaling you with a tale of when he barely escaped an ambush by brigands. You nod as if you give two shits about what's happened to this man. | The wagontrain drives into %objective%, each cart bumbling and tumbling their tall wheels over mounds of dried mud. The caravan hands work to unload the cargo, a few of them fighting off a beggar or two. The leader of the train hands you a satchel and that's about all he does. He's too busy with his work to say much more to you. The silence is appreciated. | Reaching %objective%, the caravan leader strikes up a conversation as if you two might have something in common. He talks of his younger days, when he was a spry young man who could have done this or that. He, apparently, missed out on a lot of fighting. What a shame. Bored with his talk, you ask the man to pay you so you can get on out of this wretched place.}",
-    "translation": "[img]gfx/ui/events/event_04.png[/img]{抵达了 %objective%，商队头领转身找到你，一大袋子钱拿在手里。%SPEECH_ON%谢谢护送我们到这里，佣兵。%SPEECH_OFF%你接下它并把它交给 %randombrother% 数一数。 他做完后点了点头。 商队头领笑道。%SPEECH_ON%还有谢谢你没有背叛我们并，你懂的，杀光我们之类的。%SPEECH_OFF%雇佣兵总被奇怪的方式道谢。 | 到了 %objective%，商队的载重货车立刻开始装卸他们的货物并运到附近的一座仓库。 当一切都搬完了后，领头的交给你一袋克朗并谢谢你保护他们一路上的安全。 | %objective% 迎接你的是一大片正在找工作的临时工。 商队头领拿出小份克朗交给几个人，他们邋遢的手很快开始着手装卸货物。 当他处理完人群后，头领转向了你。 他手里拿着个袋子。%SPEECH_ON%然后这是给你的，雇佣兵。%SPEECH_OFF%你拿上它。几个临时工看到了交换过程，目光如同猫在看晃荡着的老鼠似的。 | 你到地方了，如你承诺 %employer% 的一样，你护送商队到了目的地。 商队头领拿出来克朗交给你以示感谢。 他看起来对于他还活着这件事感到感激，简短地跟你分享了他在一次强盗伏击中侥幸逃离的故事。 你点头，假装你对这个人的遭遇感同身受。 | 车队驶入了 %objective%，每一辆的轮子蹦蹦踏踏地驶过干泥堆。 商队成员开始卸载货物，其中几个人赶跑了一两个乞丐。 领头的交给你一个袋子，也只做了这么多。 他的工作过于繁忙，没有时间跟你说什么。 感谢这份安静。 | 到了 %objective%，商队头领突然开始跟你说话，好像你们两个有什么共同点似的。 他谈论起他年轻的时候，那时候他还是个活跃的小年轻，本能够干点这个那个的。 他，很显然，错过了很多的战斗。真遗憾。 对他的故事感到无聊，你要求他付你钱，你好离开这脏地方。}",
+    "translation": "[img]gfx/ui/events/event_04.png[/img]{抵达%objective%后，商队队长转向你，手里拿着一个大包。%SPEECH_ON%谢谢护送我们到这里，佣兵。%SPEECH_OFF%你接下它并把它交给%randombrother%来数。他数完后点了点头。商队头领露出了微笑。%SPEECH_ON%也谢谢你没有背叛我们并，你懂的，杀光我们所有人之类的。%SPEECH_OFF%佣兵总会以最奇怪的方式得到感谢。 | 到了 %objective%，商队的载重货车立刻开始装卸他们的货物并运到附近的一座仓库。 当一切都搬完了后，领头的交给你一袋克朗并谢谢你保护他们一路上的安全。 | %objective% 迎接你的是一大片正在找工作的临时工。 商队头领拿出小份克朗交给几个人，他们邋遢的手很快开始着手装卸货物。 当他处理完人群后，头领转向了你。 他手里拿着个袋子。%SPEECH_ON%然后这是给你的，雇佣兵。%SPEECH_OFF%你拿上它。几个临时工看到了交换过程，目光如同猫在看晃荡着的老鼠似的。 | 你到地方了，如你承诺 %employer% 的一样，你护送商队到了目的地。 商队头领拿出来克朗交给你以示感谢。 他看起来对于他还活着这件事感到感激，简短地跟你分享了他在一次强盗伏击中侥幸逃离的故事。 你点头，假装你对这个人的遭遇感同身受。 | 车队驶入了 %objective%，每一辆的轮子蹦蹦踏踏地驶过干泥堆。 商队成员开始卸载货物，其中几个人赶跑了一两个乞丐。 领头的交给你一个袋子，也只做了这么多。 他的工作过于繁忙，没有时间跟你说什么。 感谢这份安静。 | 到了 %objective%，商队头领突然开始跟你说话，好像你们两个有什么共同点似的。 他谈论起他年轻的时候，那时候他还是个活跃的小年轻，本能够干点这个那个的。 他，很显然，错过了很多的战斗。真遗憾。 对他的故事感到无聊，你要求他付你钱，你好离开这脏地方。}",
     "stage": 1
   },
   {
@@ -74,8 +74,8 @@
     "ID": 293408755,
     "key": "A trading caravan from ",
     "original": "A trading caravan from ",
-    "translation": "来自一个贸易队伍的",
-    "stage": 1,
+    "translation": "一支来自",
+    "stage": 5,
     "context": "'A trading caravan from ' + this.m.Home.getName() + ' that is transporting all manner of goods between settlements.'"
   },
   {
@@ -110,7 +110,7 @@
     "ID": 293408760,
     "key": "Escort caravan to %objective% about %days% to the %direction%",
     "original": "Escort caravan to %objective% about %days% to the %direction%",
-    "translation": "护送商队去%direction%边约%days%路程的%objective%",
+    "translation": "护送商队去%direction%方向约%days%路程的%objective%",
     "stage": 5
   },
   {
@@ -204,8 +204,8 @@
     "ID": 293408773,
     "key": "Nomads",
     "original": "Nomads",
-    "translation": "游牧民族",
-    "stage": 1
+    "translation": "游牧民(Nomads)",
+    "stage": 5
   },
   {
     "ID": 293408774,
@@ -355,7 +355,7 @@
     "key": "Provisions for the way are provided to your men",
     "original": "Provisions for the way are provided to your men",
     "translation": "为你的人准备了路上的食物",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408795,
@@ -368,8 +368,8 @@
     "ID": 293408796,
     "key": " that is transporting all manner of goods between settlements.",
     "original": " that is transporting all manner of goods between settlements.",
-    "translation": "这是在各个定居点之间运送各种货物的。",
-    "stage": 1,
+    "translation": "的贸易商队，在定居点之间运输各种各样的货物。",
+    "stage": 5,
     "context": "'A trading caravan from ' + this.m.Home.getName() + ' that is transporting all manner of goods between settlements.'"
   },
   {
@@ -491,8 +491,8 @@
     "ID": 293408813,
     "key": "Orc Marauders",
     "original": "Orc Marauders",
-    "translation": "兽人收割者",
-    "stage": 1
+    "translation": "兽人掳掠者",
+    "stage": 5
   },
   {
     "ID": 293408814,
@@ -505,8 +505,8 @@
     "ID": 293408815,
     "key": "Trading Caravan",
     "original": "Trading Caravan",
-    "translation": "贸易商队",
-    "stage": 1
+    "translation": "贸易商队(Trading Caravan)",
+    "stage": 5
   },
   {
     "ID": 293408816,
@@ -519,8 +519,8 @@
     "ID": 293408817,
     "key": "A band of desert raiders preying on anyone trying to cross the seas of sand.",
     "original": "A band of desert raiders preying on anyone trying to cross the seas of sand.",
-    "translation": "一群沙漠掠夺者捕食任何试图穿越沙海的人。",
-    "stage": 1
+    "translation": "一群沙漠掠夺者，狩猎任何试图穿越沙海的人。",
+    "stage": 5
   },
   {
     "ID": 293408818,

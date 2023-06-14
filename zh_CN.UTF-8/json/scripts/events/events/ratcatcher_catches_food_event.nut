@@ -18,8 +18,8 @@
     "ID": 293416621,
     "key": "Lost confidence in your leadership",
     "original": "Lost confidence in your leadership",
-    "translation": "对你的领导失去信心",
-    "stage": 1
+    "translation": "对你的领导能力失去了信心",
+    "stage": 5
   },
   {
     "ID": 293416622,

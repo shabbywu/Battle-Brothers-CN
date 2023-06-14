@@ -2426,7 +2426,7 @@
     "key": "Skullcrusher",
     "original": "Skullcrusher",
     "translation": "碎颅者",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405216,
@@ -2824,8 +2824,8 @@
     "ID": 293405272,
     "key": "Skullsplitter",
     "original": "Skullsplitter",
-    "translation": "碎颅者",
-    "stage": 1
+    "translation": "裂颅者",
+    "stage": 5
   },
   {
     "ID": 293405273,

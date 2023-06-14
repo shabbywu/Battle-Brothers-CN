@@ -11,7 +11,7 @@
     "key": " suffers ",
     "original": " suffers ",
     "translation": " 遭受 ",
-    "stage": 1,
+    "stage": 5,
     "context": "_event.m.Other.getName() + ' suffers ' + injury.getNameOnly()"
   },
   {

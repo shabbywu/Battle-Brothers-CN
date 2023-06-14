@@ -18,8 +18,8 @@
     "ID": 293414180,
     "key": "Was denied the chance to appease Davkul",
     "original": "Was denied the chance to appease Davkul",
-    "translation": "被剥夺了抚慰达库尔的机会",
-    "stage": 1
+    "translation": "被剥夺了安抚达库尔的机会",
+    "stage": 5
   },
   {
     "ID": 293414181,
@@ -41,8 +41,8 @@
     "ID": 293414183,
     "key": "Appeased Davkul",
     "original": "Appeased Davkul",
-    "translation": "抚慰达库尔",
-    "stage": 1
+    "translation": "安抚了达库尔",
+    "stage": 5
   },
   {
     "ID": 293414184,

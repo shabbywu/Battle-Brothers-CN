@@ -105,8 +105,8 @@
     "ID": 293409713,
     "key": "Raze ",
     "original": "Raze ",
-    "translation": "摧毁了",
-    "stage": 1,
+    "translation": "夷平",
+    "stage": 5,
     "context": "'Raze ' + this.Flags.get('DestinationName') + ' near ' + this.Flags.get('SettlementName')"
   },
   {

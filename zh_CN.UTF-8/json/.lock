@@ -1178,14 +1178,14 @@
         "total": 967,
         "translated": 967,
         "disputed": 0,
-        "checked": 46,
-        "reviewed": 46,
+        "checked": 60,
+        "reviewed": 60,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.288Z",
         "updatedAt": "2023-05-17T14:20:14.948Z",
-        "modifiedAt": "2023-06-11T13:57:18Z",
-        "sha256": "0ef29fa1f72f15f1ee34b9099a5f5886d88ce5dd1f9a9f09eb0ba01dc35c7882"
+        "modifiedAt": "2023-06-13T07:56:34Z",
+        "sha256": "7bf6a29fc780fafe980d5f345e9397dbf649445166f9bbe8f3683037a01be9cc"
     },
     "scripts/config/credits.json": {
         "id": 918414,
@@ -1232,14 +1232,14 @@
         "total": 559,
         "translated": 559,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:42.523Z",
         "updatedAt": "2023-05-17T14:20:19.061Z",
-        "modifiedAt": "2023-06-09T09:09:02Z",
-        "sha256": "db8303033c2e38bddc8db728edc310a20362261a7439fc4dda3bb82d179ff366"
+        "modifiedAt": "2023-06-12T13:29:01Z",
+        "sha256": "c353423bf218bd749286dcabdc83a3c0cc6d125cbbbc9beb58af24ce7a9f54a4"
     },
     "scripts/config/items.json": {
         "id": 918417,
@@ -1304,14 +1304,14 @@
         "total": 1216,
         "translated": 1216,
         "disputed": 0,
-        "checked": 110,
-        "reviewed": 110,
+        "checked": 181,
+        "reviewed": 181,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-05-17T14:20:25.132Z",
-        "modifiedAt": "2023-06-11T15:04:16Z",
-        "sha256": "0e9f80d5d0fcac5a4c2d4dea5d586bc90c032eddc5f77b5db4372dbc7d80708d"
+        "modifiedAt": "2023-06-13T16:47:04Z",
+        "sha256": "4ea1492eefcff01e56bf9e20991ec0b7c32ca86ccb86af345256d336b45f31c7"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -1376,14 +1376,14 @@
         "total": 752,
         "translated": 752,
         "disputed": 0,
-        "checked": 7,
-        "reviewed": 7,
+        "checked": 68,
+        "reviewed": 68,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:46.237Z",
         "updatedAt": "2023-05-17T14:20:32.723Z",
-        "modifiedAt": "2023-06-11T15:59:42Z",
-        "sha256": "d8dbf76e823760a42caf7817b2e5eac412321f4bf778629db1780505a79b8ae1"
+        "modifiedAt": "2023-06-12T14:18:17Z",
+        "sha256": "ab11814f7025ae6e40a7c4bfe75b9102ca113934d6dcf095b35f07f3393dd242"
     },
     "scripts/contracts/contract.json": {
         "id": 918425,
@@ -1394,14 +1394,14 @@
         "total": 20,
         "translated": 20,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:46.677Z",
         "updatedAt": "2023-05-17T14:20:34.777Z",
-        "modifiedAt": "2023-05-23T01:02:13Z",
-        "sha256": "aa1d240bb055bb665fac024eb9de2ed5b4a5e78942b1784e86dd51407ec8053e"
+        "modifiedAt": "2023-06-12T13:57:26Z",
+        "sha256": "24bab4cbc4e640c2322c3e4f882eeb192507f0311aef23833082a04cb8f98185"
     },
     "scripts/contracts/contract_manager.json": {
         "id": 918426,
@@ -1538,14 +1538,14 @@
         "total": 48,
         "translated": 48,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:50.886Z",
         "updatedAt": "2023-05-17T14:20:40.211Z",
-        "modifiedAt": "2023-06-10T05:36:35Z",
-        "sha256": "b1492b065cde67385fc1c6ecfcabf99bcf695fc403b1bc19b1b10bba741a0105"
+        "modifiedAt": "2023-06-13T07:52:16Z",
+        "sha256": "033c6a947930dc1dfda0ed33ac0c5e0c0b47d08433d72924fbc33d93e480131d"
     },
     "scripts/contracts/contracts/conquer_holy_site_southern_contract.json": {
         "id": 918434,
@@ -1556,14 +1556,14 @@
         "total": 48,
         "translated": 48,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:51.274Z",
         "updatedAt": "2023-05-17T14:20:40.783Z",
-        "modifiedAt": "2023-06-10T05:36:35Z",
-        "sha256": "387db3547c448a15e6aeecdae8d339ff217997f58f7ba078a17d6557d3d1e45f"
+        "modifiedAt": "2023-06-13T07:52:16Z",
+        "sha256": "9d04844d9b121fc600c394d037637c94dcdec58f2025c19dbda78558465aa09f"
     },
     "scripts/contracts/contracts/decisive_battle_contract.json": {
         "id": 918435,
@@ -1592,14 +1592,14 @@
         "total": 71,
         "translated": 71,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:53.112Z",
         "updatedAt": "2023-05-17T14:20:41.856Z",
-        "modifiedAt": "2023-06-10T05:36:35Z",
-        "sha256": "50947ae1b1d3c3078737a0003d9995968cd278d2028352ea7a9b9765141780db"
+        "modifiedAt": "2023-06-13T07:52:16Z",
+        "sha256": "de34acfddf246c34138e58358e9283b708c60c0f29163d28851bb346db47e2a4"
     },
     "scripts/contracts/contracts/defend_holy_site_southern_contract.json": {
         "id": 918437,
@@ -1610,14 +1610,14 @@
         "total": 72,
         "translated": 72,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:53.999Z",
         "updatedAt": "2023-05-17T14:20:42.371Z",
-        "modifiedAt": "2023-06-10T05:36:35Z",
-        "sha256": "e400d4649a43b2065181574a0bb5d84cacda58edbabfa056ca0273addd308e1e"
+        "modifiedAt": "2023-06-13T07:52:16Z",
+        "sha256": "af9c6341c4a6e44ce9983f91fa022e1e2308395c8da56ae8959ba9894f764afd"
     },
     "scripts/contracts/contracts/defend_settlement_bandits_contract.json": {
         "id": 918438,
@@ -1790,14 +1790,14 @@
         "total": 83,
         "translated": 83,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 12,
+        "reviewed": 12,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:58.212Z",
         "updatedAt": "2023-05-17T14:20:50.035Z",
-        "modifiedAt": "2023-06-11T14:34:46Z",
-        "sha256": "e27ca176098e47169ea2bde5a277032d8b9bf63f1cd135df1b29f7accc3f13d3"
+        "modifiedAt": "2023-06-13T11:29:46Z",
+        "sha256": "2ecedb99155737685683f1f1e72926b1d18246db395c3f306290c718ea4d5ab0"
     },
     "scripts/contracts/contracts/escort_envoy_contract.json": {
         "id": 918448,
@@ -1826,14 +1826,14 @@
         "total": 66,
         "translated": 66,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:59.034Z",
         "updatedAt": "2023-05-17T14:20:51.41Z",
-        "modifiedAt": "2023-06-10T05:36:35Z",
-        "sha256": "71fb2d3ac3906b7b68b1512a7a720658ef04ddf6a5cd52bbd6badc8be58bff70"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "147005cf219e9d6fc8e2e26b41bb5e590644a90f7c7c7ec40c5a8e562d4a314a"
     },
     "scripts/contracts/contracts/free_greenskin_prisoners_contract.json": {
         "id": 918450,
@@ -1844,14 +1844,14 @@
         "total": 42,
         "translated": 42,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:59.489Z",
         "updatedAt": "2023-05-17T14:20:51.99Z",
-        "modifiedAt": "2023-06-10T05:36:35Z",
-        "sha256": "c198dea25dd4cc38a6e9bb904c627c4af311aa462e2339e1ae9af0e997f6a829"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "97b19b9327e2314f849a8394c9de4c1b93914af894cb620b545bbf89065639cd"
     },
     "scripts/contracts/contracts/hold_chokepoint_contract.json": {
         "id": 918451,
@@ -1862,14 +1862,14 @@
         "total": 51,
         "translated": 51,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:59.932Z",
         "updatedAt": "2023-05-17T14:20:52.464Z",
-        "modifiedAt": "2023-06-10T05:36:35Z",
-        "sha256": "70c15dce7f53cd927d6bf687c593c58787ff9930ffc27927eca8395dd3309062"
+        "modifiedAt": "2023-06-13T07:52:16Z",
+        "sha256": "0207710ebff015aef7a0c8f024650ebdfbad25fd4ab733b2f0e47e2592b8722b"
     },
     "scripts/contracts/contracts/hunting_alps_contract.json": {
         "id": 918452,
@@ -1988,14 +1988,14 @@
         "total": 36,
         "translated": 36,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:02.65Z",
         "updatedAt": "2023-05-17T14:20:56.359Z",
-        "modifiedAt": "2023-06-10T05:36:35Z",
-        "sha256": "f98d62be8fdd3b275f28508239fb5cf2c5db3838b7491ee0997217717312d33e"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "6b6de7ccf5e6fd5c8be712cb00bf8f1c667bfb13323c5c939b017536076e199f"
     },
     "scripts/contracts/contracts/hunting_webknechts_contract.json": {
         "id": 918459,
@@ -2024,14 +2024,14 @@
         "total": 38,
         "translated": 38,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:03.44Z",
         "updatedAt": "2023-05-17T14:20:57.513Z",
-        "modifiedAt": "2023-06-10T05:36:35Z",
-        "sha256": "f48fc8f0f930550f1c8bcec23e72f96d41774a6153eca00f452e24c8dd032134"
+        "modifiedAt": "2023-06-13T07:52:16Z",
+        "sha256": "fe2615cbc636ea0c0efa8021eab3730b2393e6336abd032c208646fc9dbb5cd6"
     },
     "scripts/contracts/contracts/investigate_cemetery_contract.json": {
         "id": 918461,
@@ -2078,14 +2078,14 @@
         "total": 45,
         "translated": 45,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:05.239Z",
         "updatedAt": "2023-05-17T14:21:01.113Z",
-        "modifiedAt": "2023-06-10T05:30:25Z",
-        "sha256": "98739a90c617faa2d8350098b5f6e2ee3cb67a4723f0e6a049774f3f61c0f950"
+        "modifiedAt": "2023-06-12T13:57:28Z",
+        "sha256": "2031ff61a26b593e54643a96028f6fb61c08acf976ea2cf361cac8a856c01acf"
     },
     "scripts/contracts/contracts/obtain_item_contract.json": {
         "id": 918464,
@@ -2114,14 +2114,14 @@
         "total": 60,
         "translated": 60,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:06.641Z",
         "updatedAt": "2023-05-17T14:21:02.52Z",
-        "modifiedAt": "2023-06-09T14:55:56Z",
-        "sha256": "0f1a0ca1059ea3b65e257a6de4c1afcc0c44ba28ed1ed65d20cd61dc31e580b9"
+        "modifiedAt": "2023-06-13T07:31:53Z",
+        "sha256": "effc8b9d98450566034b19a2ecf5a92716ddbe926722376c8252ebaf750edc37"
     },
     "scripts/contracts/contracts/privateering_contract.json": {
         "id": 918466,
@@ -2168,14 +2168,14 @@
         "total": 31,
         "translated": 31,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:08.943Z",
         "updatedAt": "2023-05-17T14:21:07.736Z",
-        "modifiedAt": "2023-06-10T05:36:35Z",
-        "sha256": "c1b73c27c0ad2bc15cd66ef0c2733778205b470823c94e7e0a2a35f5c459da1f"
+        "modifiedAt": "2023-06-12T05:00:15Z",
+        "sha256": "dd0bd3bd78d727b0480491b23b317275d43d7cc441c74c4d91b257ad2d2cab4d"
     },
     "scripts/contracts/contracts/restore_location_contract.json": {
         "id": 918469,
@@ -2312,14 +2312,14 @@
         "total": 51,
         "translated": 51,
         "disputed": 0,
-        "checked": 8,
-        "reviewed": 8,
+        "checked": 9,
+        "reviewed": 9,
         "hidden": 0,
         "locked": 1,
         "createdAt": "2023-05-13T14:18:12.283Z",
         "updatedAt": "2023-05-26T04:50:17.715Z",
-        "modifiedAt": "2023-06-11T14:36:02Z",
-        "sha256": "f2ba4697ed39e5525aed5160dd3e0d348bac80e5e2a0a3a6b2804f517d110e91"
+        "modifiedAt": "2023-06-12T13:18:35Z",
+        "sha256": "411c3275e4663b2eb86bb80535e32963d534c8f49fedb385d80714d0de19dba8"
     },
     "scripts/contracts/templates/intro_templates.json": {
         "id": 918477,
@@ -2372,8 +2372,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:13.399Z",
         "updatedAt": "2023-05-17T14:21:17.367Z",
-        "modifiedAt": "2023-06-09T09:09:15Z",
-        "sha256": "67905e1f7091d7f4b83a9d79ee4ae4cd73e69c89356e88c2c4badc6483a18a38"
+        "modifiedAt": "2023-06-13T16:45:55Z",
+        "sha256": "265f47ab97070535492ec6e759118586c0e732165f9b5227faf90fb272c3b59c"
     },
     "scripts/dlc/dlc_paladins.json": {
         "id": 918480,
@@ -3068,14 +3068,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:28.056Z",
         "updatedAt": "2023-05-17T14:21:37.396Z",
-        "modifiedAt": "2023-05-17T14:21:37Z",
-        "sha256": "2a9fbc92a06aa1a317ce5a82c67a8d3cd89c1dfb266e20fe2ece4c222478d905"
+        "modifiedAt": "2023-06-13T14:33:58Z",
+        "sha256": "d9e2b861be62783c1e01e5cc8069ffc123a345c2e4ec700b6b755ec85e680be9"
     },
     "scripts/entity/tactical/objects/arena_spectator.json": {
         "id": 918519,
@@ -4202,14 +4202,14 @@
         "total": 38,
         "translated": 38,
         "disputed": 0,
-        "checked": 33,
-        "reviewed": 33,
+        "checked": 34,
+        "reviewed": 34,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:51.707Z",
         "updatedAt": "2023-05-17T14:22:10.43Z",
-        "modifiedAt": "2023-05-31T07:35:33Z",
-        "sha256": "00dcfb3e01a1ceeb1325c6d5f672726e7ba06a65a6cccf486cde24003e9dcb64"
+        "modifiedAt": "2023-06-12T11:32:14Z",
+        "sha256": "43d92ee66a29d8596d335b67854dd358116a58d232cba635daf662a1611f1b1f"
     },
     "scripts/entity/tactical/player_corpse_stub.json": {
         "id": 918582,
@@ -5102,14 +5102,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:13.508Z",
         "updatedAt": "2023-05-17T14:22:35.206Z",
-        "modifiedAt": "2023-05-17T14:22:35Z",
-        "sha256": "bede98d27fd2aa5b0089ef75eace5efa3d8e6e661f75de255f671de4317aea1d"
+        "modifiedAt": "2023-06-12T12:46:10Z",
+        "sha256": "fbdff222d602f9bc0575f6ad305391c987af3f70b05ba42bb98938feec9f2151"
     },
     "scripts/entity/world/locations/bandit_hideout_location.json": {
         "id": 918632,
@@ -5138,14 +5138,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:14.179Z",
         "updatedAt": "2023-05-17T14:22:35.904Z",
-        "modifiedAt": "2023-05-17T14:22:36Z",
-        "sha256": "b05266b7bbcbe629d7cad5744106c0570accf88711bc12d996c75afe3e432049"
+        "modifiedAt": "2023-06-12T13:17:02Z",
+        "sha256": "05940063cbf2842fdad0f00ee9d4e71dbd624427027ec10e008826f10c6c6d54"
     },
     "scripts/entity/world/locations/barbarian_camp_location.json": {
         "id": 918634,
@@ -5174,14 +5174,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:14.863Z",
         "updatedAt": "2023-05-17T14:22:36.594Z",
-        "modifiedAt": "2023-05-17T14:22:37Z",
-        "sha256": "930d2ef63643ac23ff4a4588e00124c1fa35419786fc9e283d0b2f66fbbe47da"
+        "modifiedAt": "2023-06-12T13:14:06Z",
+        "sha256": "85a7e9297c42a6eb332e77f626da7f861aafd8f41fc9004cd0d8fb4c07cc955b"
     },
     "scripts/entity/world/locations/barbarian_shelter_location.json": {
         "id": 918636,
@@ -5228,14 +5228,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:16.986Z",
         "updatedAt": "2023-05-17T14:22:37.623Z",
-        "modifiedAt": "2023-05-23T01:02:28Z",
-        "sha256": "16b0d4fa10ab72171b1f32544abd2c1846b52d4c90040e9eb0bb3bfa97766856"
+        "modifiedAt": "2023-06-12T13:42:16Z",
+        "sha256": "348173b1423ea3a216f0a128e8584a62532ff81a4f75adde70cdb3ae0ca941d9"
     },
     "scripts/entity/world/locations/goblin_city_location.json": {
         "id": 918639,
@@ -5282,14 +5282,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:18.025Z",
         "updatedAt": "2023-05-17T14:22:38.665Z",
-        "modifiedAt": "2023-05-23T01:02:29Z",
-        "sha256": "d82eece460fb05b99bfea1b5a394feae67ddcfe8b30a9306dbe50e1acad3d1bb"
+        "modifiedAt": "2023-06-12T14:12:39Z",
+        "sha256": "7c50a1e57abf1f1ff3fb2e03d35efaf768502b583c9d0d3e3675cd823d768b2f"
     },
     "scripts/entity/world/locations/goblin_ruins_location.json": {
         "id": 918642,
@@ -5300,14 +5300,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:18.352Z",
         "updatedAt": "2023-05-17T14:22:39.013Z",
-        "modifiedAt": "2023-05-17T14:22:39Z",
-        "sha256": "6693ca4d9ffc0825b7dfeb66ca98823b752cc2e8ae1f056069a609024af6f148"
+        "modifiedAt": "2023-06-12T13:17:02Z",
+        "sha256": "e777828c7c84a358adadece37e61499c3f10038497d0282c75a8e40ada910065"
     },
     "scripts/entity/world/locations/goblin_settlement_location.json": {
         "id": 918643,
@@ -5318,14 +5318,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:18.69Z",
         "updatedAt": "2023-05-17T14:22:39.366Z",
-        "modifiedAt": "2023-05-23T01:02:30Z",
-        "sha256": "6cab45c48022eb148647a07c9a8152017082d27955ea20ca9422355cdeaef5e8"
+        "modifiedAt": "2023-06-12T13:41:11Z",
+        "sha256": "9148b772dba60e0b5e411bba938b4ebcfd3337b954a55f0b90760f2d4166f70d"
     },
     "scripts/entity/world/locations/legendary/ancient_statue_location.json": {
         "id": 918644,
@@ -5354,14 +5354,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:19.364Z",
         "updatedAt": "2023-05-17T14:22:40.066Z",
-        "modifiedAt": "2023-05-17T14:22:40Z",
-        "sha256": "82ef67e26ae1c43a2e6a8267fba428e2d9037b4b78e648fdd7c0db3228c345e5"
+        "modifiedAt": "2023-06-12T14:03:53Z",
+        "sha256": "74a1bdbeba13970d0ebca72d8598072d16a30c53631bee223f4e293bd27cbe1c"
     },
     "scripts/entity/world/locations/legendary/ancient_watchtower_location.json": {
         "id": 918646,
@@ -5372,14 +5372,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:19.693Z",
         "updatedAt": "2023-05-17T14:22:40.418Z",
-        "modifiedAt": "2023-05-17T14:22:40Z",
-        "sha256": "d9772eea166f482979ae6f4d705fcf7e8475c79b55bc72799c375562a2fdf739"
+        "modifiedAt": "2023-06-12T14:14:21Z",
+        "sha256": "02fe3cdc87bb6e3ed4d4d6730c20982d162e16dbdf4ac87f04f0473dbd12745b"
     },
     "scripts/entity/world/locations/legendary/black_monolith_location.json": {
         "id": 918647,
@@ -5390,14 +5390,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:20.033Z",
         "updatedAt": "2023-05-17T14:22:40.762Z",
-        "modifiedAt": "2023-05-17T14:22:41Z",
-        "sha256": "0d64ab468389d6ca0a01c5a603225bbe87db75cd2bbf83f9af4ca90a659a72d4"
+        "modifiedAt": "2023-06-12T11:04:40Z",
+        "sha256": "f736b6fd53729a3cf553343189098082363808db168195fd4bf67972031d6fb3"
     },
     "scripts/entity/world/locations/legendary/fountain_of_youth_location.json": {
         "id": 918648,
@@ -5444,14 +5444,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:21.063Z",
         "updatedAt": "2023-05-17T14:22:41.83Z",
-        "modifiedAt": "2023-05-17T14:22:42Z",
-        "sha256": "62d3acb0bf660bd8fe58e06a9515fe81cd4f7bdd8f2cf41ce209818d8bb06a8e"
+        "modifiedAt": "2023-06-12T14:10:39Z",
+        "sha256": "b0e03e84f157ff6e3bde92472d4be79d958b28d886b92c4f46ca86563be31bf4"
     },
     "scripts/entity/world/locations/legendary/land_ship_location.json": {
         "id": 918651,
@@ -5462,14 +5462,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:21.393Z",
         "updatedAt": "2023-05-17T14:22:42.175Z",
-        "modifiedAt": "2023-05-17T14:22:42Z",
-        "sha256": "00f23026ccf1264a2bbe3860b2095c8aa5ba3b4963de6f938fc6790a8a0d72ba"
+        "modifiedAt": "2023-06-12T13:37:20Z",
+        "sha256": "db6f6e7fcd010f3b63ed4a7a0c7da4d5a2d4870c03e852d0669857f43096a931"
     },
     "scripts/entity/world/locations/legendary/meteorite_location.json": {
         "id": 918652,
@@ -5480,14 +5480,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:21.735Z",
         "updatedAt": "2023-05-17T14:22:42.565Z",
-        "modifiedAt": "2023-05-17T14:22:43Z",
-        "sha256": "2c4c46e317af4a0eced86051860848aaf15a61d48eb0552d67da779d0a826f3f"
+        "modifiedAt": "2023-06-12T14:20:58Z",
+        "sha256": "37a0c5c56420ee3f6ae0b264150fc6dedfea44112e91ad0971e9cb230ea4262a"
     },
     "scripts/entity/world/locations/legendary/oracle_location.json": {
         "id": 918653,
@@ -5498,14 +5498,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:22.067Z",
         "updatedAt": "2023-05-17T14:22:42.916Z",
-        "modifiedAt": "2023-05-17T14:22:43Z",
-        "sha256": "160824dde5254f37263bb3f45c09e45e52726d6173d75fc725933cbd9ea54129"
+        "modifiedAt": "2023-06-12T12:58:24Z",
+        "sha256": "c93d35316e030eef8101bca0a90859aeb4096942d64a2ec33dfebdf6ff1ee2f8"
     },
     "scripts/entity/world/locations/legendary/sunken_library_location.json": {
         "id": 918654,
@@ -5516,14 +5516,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:22.412Z",
         "updatedAt": "2023-05-17T14:22:43.273Z",
-        "modifiedAt": "2023-05-17T14:22:43Z",
-        "sha256": "50c07e0f716e8e911a9d9a00712af3e116ddc757790bf4c48fcfe4ecb45b92c6"
+        "modifiedAt": "2023-06-12T13:53:02Z",
+        "sha256": "ddcbf3dff4a10b03dec99ec848152b7abb6b9b0e25f49ead254489d64bae3611"
     },
     "scripts/entity/world/locations/legendary/tundra_elk_location.json": {
         "id": 918655,
@@ -5552,14 +5552,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:23.079Z",
         "updatedAt": "2023-05-17T14:22:43.973Z",
-        "modifiedAt": "2023-05-17T14:22:44Z",
-        "sha256": "9ec9564d2f13ef984d8ed0e79a3a8eff7a4c7cced9c9ef75fe74d5d837aee9eb"
+        "modifiedAt": "2023-06-12T13:09:34Z",
+        "sha256": "1f876e0d63b41c99953b44b271e0caf2b991a97557c06407098bb7fb43590e77"
     },
     "scripts/entity/world/locations/legendary/unique_goblin_city_location.json": {
         "id": 918657,
@@ -5588,14 +5588,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:23.745Z",
         "updatedAt": "2023-05-17T14:22:44.774Z",
-        "modifiedAt": "2023-05-17T14:22:45Z",
-        "sha256": "fa4abc8c6bc708168372ac263b63ecebe54d8d6d94fe5e36a136bf86ce26700c"
+        "modifiedAt": "2023-06-12T14:15:53Z",
+        "sha256": "26a2eb81fe6a6dfdd2ad0b0ed0031ccf140eeff2242f99f47a7e29fee136d406"
     },
     "scripts/entity/world/locations/legendary/waterwheel_location.json": {
         "id": 918659,
@@ -5624,14 +5624,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:24.414Z",
         "updatedAt": "2023-05-17T14:22:45.463Z",
-        "modifiedAt": "2023-05-17T14:22:45Z",
-        "sha256": "2660759adacccd8d80f7c9a54f0297821fbc5bab6a47a97b92ebc28c39e3586c"
+        "modifiedAt": "2023-06-12T11:34:36Z",
+        "sha256": "0b31ac581ab970dcd4e5ec1a1c06128fca2bb48094d6741d0696826f52d40948"
     },
     "scripts/entity/world/locations/noble_camp_location.json": {
         "id": 918661,
@@ -5660,14 +5660,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:25.083Z",
         "updatedAt": "2023-05-17T14:22:46.164Z",
-        "modifiedAt": "2023-05-17T14:22:46Z",
-        "sha256": "e07c1319ee4c2be34dfe67a284fbb60111264980993f0d1a28aaf0dee4d56e97"
+        "modifiedAt": "2023-06-12T14:00:39Z",
+        "sha256": "5dd60a6b48b85aa16062a33bca112c5e4fb747aefe72f045ab276ccc045e950a"
     },
     "scripts/entity/world/locations/nomad_ruins_location.json": {
         "id": 918663,
@@ -5732,14 +5732,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:26.876Z",
         "updatedAt": "2023-05-17T14:22:47.581Z",
-        "modifiedAt": "2023-05-17T14:22:48Z",
-        "sha256": "2e3a38dd4b94da860e849ac1c69d24e2e8492f5137b6002a162af1a3c662a11b"
+        "modifiedAt": "2023-06-12T14:06:05Z",
+        "sha256": "9f8c1632f51a1395d8cd5a95ae07a68b21dbb85617b86f3f45ac1a39fe600dbe"
     },
     "scripts/entity/world/locations/orc_cave_location.json": {
         "id": 918667,
@@ -5750,14 +5750,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:27.242Z",
         "updatedAt": "2023-05-17T14:22:47.926Z",
-        "modifiedAt": "2023-05-17T14:22:48Z",
-        "sha256": "66d1c56e99f5e283659ba32340c204845275c70137ab9728a2c89d4854cb87aa"
+        "modifiedAt": "2023-06-12T13:23:18Z",
+        "sha256": "683c0b72fcb3c9cf435e17c502eb9e1610022a0343ab8a727c8ec372f8da5218"
     },
     "scripts/entity/world/locations/orc_fortress_location.json": {
         "id": 918668,
@@ -5804,14 +5804,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:28.236Z",
         "updatedAt": "2023-05-17T14:22:49.025Z",
-        "modifiedAt": "2023-05-17T14:22:49Z",
-        "sha256": "276786a62e657072aa44d80ae8eb5b9f77801651ebd952b23920200b1d5bc5ee"
+        "modifiedAt": "2023-06-12T13:17:03Z",
+        "sha256": "76dcd72e47656c8f8aa11e6bf7ac957918379ce1b4eaace8139db0cd74fc67c9"
     },
     "scripts/entity/world/locations/orc_settlement_location.json": {
         "id": 918671,
@@ -5822,14 +5822,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:28.574Z",
         "updatedAt": "2023-05-17T14:22:49.425Z",
-        "modifiedAt": "2023-05-17T14:22:49Z",
-        "sha256": "eeff89cf49ff3d99a8130d3dcfb5ac70595512ed114e0128d0d3fedfb6d3a75c"
+        "modifiedAt": "2023-06-12T13:53:42Z",
+        "sha256": "b2b6ec60757a782d3c1023d1329aa3388a38ca93f4a3834de4d15cc268333382"
     },
     "scripts/entity/world/locations/undead_buried_castle_location.json": {
         "id": 918672,
@@ -5912,14 +5912,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:33.033Z",
         "updatedAt": "2023-05-17T14:22:51.251Z",
-        "modifiedAt": "2023-05-17T14:22:51Z",
-        "sha256": "d1dd771c5f990d18f86d74c6cbb9d929d4d4f4d36766f78b65f9626bcd571df8"
+        "modifiedAt": "2023-06-12T13:11:18Z",
+        "sha256": "9d74248c4e336fabc73cb389c0e143b3385748d02671864117de7cef77f1df49"
     },
     "scripts/entity/world/locations/undead_monolith_location.json": {
         "id": 918677,
@@ -5930,14 +5930,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:34.514Z",
         "updatedAt": "2023-05-17T14:22:51.597Z",
-        "modifiedAt": "2023-05-17T14:22:52Z",
-        "sha256": "ab17125afb00e8354dde14787bb7adbc5adc6be3a446882ddb8080394478b71d"
+        "modifiedAt": "2023-06-12T11:04:41Z",
+        "sha256": "cd095aa3990552b5b0d53007363d5056aadd954905b5e3108ca8f779c2c42205"
     },
     "scripts/entity/world/locations/undead_necromancers_lair_location.json": {
         "id": 918678,
@@ -5984,14 +5984,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:35.521Z",
         "updatedAt": "2023-05-17T14:22:53.18Z",
-        "modifiedAt": "2023-05-17T14:22:53Z",
-        "sha256": "022e0251027840de7041070f919ab6d9b04816ca50216d3985a09828b4366934"
+        "modifiedAt": "2023-06-12T13:17:03Z",
+        "sha256": "ff0240d4d09250ac63d781bb1b6590ff696708e216fb667eb217cb2aa0b44163"
     },
     "scripts/entity/world/locations/undead_vampire_coven_location.json": {
         "id": 918681,
@@ -6002,14 +6002,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:35.959Z",
         "updatedAt": "2023-05-17T14:22:53.516Z",
-        "modifiedAt": "2023-05-17T14:22:54Z",
-        "sha256": "f7ec744073b22b6c9a75e7f8886c62eb8768bdebc7f3c23c2a5026cf21e215c0"
+        "modifiedAt": "2023-06-12T13:39:34Z",
+        "sha256": "1b60cffdf9ee73511e776c4e20a4761e2ef30722daa53789ab2c15598eb40ed8"
     },
     "scripts/entity/world/party.json": {
         "id": 918682,
@@ -6362,14 +6362,14 @@
         "total": 33,
         "translated": 33,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:42.766Z",
         "updatedAt": "2023-05-17T14:23:03.514Z",
-        "modifiedAt": "2023-05-17T14:23:04Z",
-        "sha256": "e71868fb75681636e086a475619f210f143882b0568d19cf71fd80955db85f22"
+        "modifiedAt": "2023-06-12T13:22:26Z",
+        "sha256": "84efd9cb52a70fcd17b4dbcf42826daf13dc2b3fee2fca21482f1bb766e2443d"
     },
     "scripts/entity/world/settlements/large_fishing_village.json": {
         "id": 918702,
@@ -6668,14 +6668,14 @@
         "total": 34,
         "translated": 34,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:48.712Z",
         "updatedAt": "2023-05-17T14:23:16.863Z",
-        "modifiedAt": "2023-05-17T14:23:17Z",
-        "sha256": "1530e36bdb24f5317c8026b760e448d98e4e3b5a81209799e98ab8a6ee6dbc16"
+        "modifiedAt": "2023-06-12T13:31:37Z",
+        "sha256": "b90e0785460d6ef0e628f53bc317459c06fc6826ed5f75187c917717846e4846"
     },
     "scripts/entity/world/settlements/medium_mining_village.json": {
         "id": 918719,
@@ -8018,14 +8018,14 @@
         "total": 20,
         "translated": 20,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:15.601Z",
         "updatedAt": "2023-05-26T04:50:18.209Z",
-        "modifiedAt": "2023-05-26T04:54:05Z",
-        "sha256": "623c96ec6a6313527355c1d199ce9f8a634e0c56a3c5fbb72d5ae03fb0ddd719"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "97ecba5f839d07151e0d63736ad9759dd982b7422cd05d314edb298e6741514e"
     },
     "scripts/events/events/aging_swordmaster_event.json": {
         "id": 918794,
@@ -8126,14 +8126,14 @@
         "total": 24,
         "translated": 24,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:20.086Z",
         "updatedAt": "2023-05-17T14:23:54.281Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "5c719691c310beb647d69f3c1018a70c6ff5502b8f3b7bcd3e314f0efe79f89d"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "48587dab2af9352a21c69ff563f06eb24c93b6282afffba536f5a18fe507beb0"
     },
     "scripts/events/events/bad_curse_event.json": {
         "id": 918800,
@@ -8198,14 +8198,14 @@
         "total": 33,
         "translated": 33,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:21.509Z",
         "updatedAt": "2023-05-26T04:50:18.829Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "16e260346988f7a1a86bfea4c366627bb57fa174d04870d8e84ae6d9748ea9ce"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "8837bec6ddeed664f087199ec8e17d41df64ef8ccba11d107a2fa6581834fe81"
     },
     "scripts/events/events/beat_up_old_man_event.json": {
         "id": 918804,
@@ -8288,14 +8288,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:23.251Z",
         "updatedAt": "2023-05-17T14:23:59.041Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "7af9442419170edb6a8d6afccb91b75c6bda4dc41955d76e14fe8c61f324c4ea"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "a1e956e38fda8a9bab015f400f3d93e96391e07fbf367cff6eee12c1752273e8"
     },
     "scripts/events/events/bright_vs_dumb_event.json": {
         "id": 918809,
@@ -8324,14 +8324,14 @@
         "total": 15,
         "translated": 15,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:23.932Z",
         "updatedAt": "2023-05-17T14:23:59.83Z",
-        "modifiedAt": "2023-05-17T14:24:00Z",
-        "sha256": "5a7ff3e813d7057f8a145868558c1be8498f50a37d23f78caae9f98bb59eba8a"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "90eb4eefe16fb654dafe2c0927910ddd799fc2533b9d41881abf7235b7d2fb0f"
     },
     "scripts/events/events/broken_wagon_event.json": {
         "id": 918811,
@@ -8378,14 +8378,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:25.448Z",
         "updatedAt": "2023-05-17T14:24:01.028Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "d183ec9b232c43d42717e89bd731c6b7bde970eb2b510da182b86e5eb85027e5"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "2ac824c9c57ee1162ad20b45b3efaea31307b2805b98881e19a299aab37196dd"
     },
     "scripts/events/events/butcher_vs_wardog_event.json": {
         "id": 918814,
@@ -8432,14 +8432,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:26.984Z",
         "updatedAt": "2023-05-17T14:24:02.156Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "e87ebf30b65c961dfcdeed990dba4dca42871f12b47da161e70de14c962c8115"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "c411abd74ce449af934affe319dc09333f6c2751adb9bf7b87b15a9dbc368072"
     },
     "scripts/events/events/caravan_hand_cart_event.json": {
         "id": 918817,
@@ -8504,14 +8504,14 @@
         "total": 14,
         "translated": 14,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:28.442Z",
         "updatedAt": "2023-05-26T04:50:19.636Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "cbd20cbf1c9130c48aa8845ca095ab260f32cbdef107a41f7e21b9daee283458"
+        "modifiedAt": "2023-06-12T13:18:36Z",
+        "sha256": "f0e89df0fcaf460764981687d036de91e4435e5ad80e7d874d1c788b45e70846"
     },
     "scripts/events/events/cocky_vs_iron_lungs_event.json": {
         "id": 918821,
@@ -8540,14 +8540,14 @@
         "total": 26,
         "translated": 26,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:29.154Z",
         "updatedAt": "2023-05-17T14:24:04.941Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "1e3fdf70d89610289fd744d14ba8803e51734dae049084db9abeeeba3eacad35"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "b3caef31cc3ae3c39b982e24bb3b5f8a9e49564e026d298d8e013c2bf65edf44"
     },
     "scripts/events/events/come_across_burial_event.json": {
         "id": 918823,
@@ -8594,14 +8594,14 @@
         "total": 25,
         "translated": 25,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:30.23Z",
         "updatedAt": "2023-05-26T04:50:19.954Z",
-        "modifiedAt": "2023-05-26T15:12:38Z",
-        "sha256": "e270f1642ed718c49ae0f7692422822da17140b8423646bb623196edac27c5b9"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "1480a22c5001bd9e4157e12aa9595b3f9cb2e66678ea5850cfb00e33dabb28b3"
     },
     "scripts/events/events/creepy_guy_event.json": {
         "id": 918826,
@@ -8612,14 +8612,14 @@
         "total": 28,
         "translated": 28,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:30.959Z",
         "updatedAt": "2023-05-17T14:24:07.241Z",
-        "modifiedAt": "2023-05-17T14:24:07Z",
-        "sha256": "8827c8a716cc09767203ff72a80d150da2fd6c95bdd8e18ddd56b36f6a581555"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "02366b96bd1b999e3a0bcbded7c0426b0504eef23965ebd4618ec2b50a0c09af"
     },
     "scripts/events/events/cripple_pep_talk_event.json": {
         "id": 918827,
@@ -8684,14 +8684,14 @@
         "total": 29,
         "translated": 29,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:32.359Z",
         "updatedAt": "2023-05-17T14:24:09.79Z",
-        "modifiedAt": "2023-05-17T14:24:10Z",
-        "sha256": "e1206143336386a8fa7387f81277ead44325d5af7494527deca7aab3b5e37975"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "16cfbf0c71d3a820b2951abb219a0a0a20a529e834be575ad7e828b3f1667004"
     },
     "scripts/events/events/crisis/civilwar_dead_knight_event.json": {
         "id": 918831,
@@ -8756,14 +8756,14 @@
         "total": 22,
         "translated": 22,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:33.8Z",
         "updatedAt": "2023-05-26T04:50:20.102Z",
-        "modifiedAt": "2023-05-26T04:50:20Z",
-        "sha256": "45ea318eba6a84cea852bc477c220abfe53cf13b0a5bbff890bbdce7ff8e1709"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "66bfcd4907b123cb5eb24724040dddb1bce3fe54df28c7b984bbc9d23ddf514c"
     },
     "scripts/events/events/crisis/civilwar_intro_event.json": {
         "id": 918835,
@@ -8810,14 +8810,14 @@
         "total": 17,
         "translated": 17,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:35.185Z",
         "updatedAt": "2023-05-17T14:24:13.02Z",
-        "modifiedAt": "2023-05-18T07:46:38Z",
-        "sha256": "ed57baf5cd4196a479ebe0bcdbc7be7b6eb6369c3ed2470f93f92ad0020c071f"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "d379e570c3ec7dbae0b023a121688bb028c4c85145f4951128e3ae60b1327772"
     },
     "scripts/events/events/crisis/civilwar_savagery_event.json": {
         "id": 918838,
@@ -8864,14 +8864,14 @@
         "total": 16,
         "translated": 16,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:36.246Z",
         "updatedAt": "2023-05-17T14:24:14.208Z",
-        "modifiedAt": "2023-05-17T14:24:14Z",
-        "sha256": "3161bccab0ea416983b06f7b176c28fd53ffe126c23c68a931e71193a3b6ebc8"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "4846dbae36d6ac349ea4b34f3b136500b4948cdea1bf36e97c17e6dd8f9ec578"
     },
     "scripts/events/events/crisis/civilwar_treasurer_event.json": {
         "id": 918841,
@@ -9008,14 +9008,14 @@
         "total": 25,
         "translated": 25,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:39.173Z",
         "updatedAt": "2023-05-26T04:50:20.678Z",
-        "modifiedAt": "2023-05-26T04:54:32Z",
-        "sha256": "c2b6721a51484d7bc8fd316cd3d1b7ca2ce7caffddbd582199e2dc21b4292cf8"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "10994361bdeed8512d56bd7c58ec260e887e76b14b20036f481800e33872e406"
     },
     "scripts/events/events/crisis/greenskins_slayer_event.json": {
         "id": 918849,
@@ -9152,14 +9152,14 @@
         "total": 13,
         "translated": 13,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:42.976Z",
         "updatedAt": "2023-05-17T14:24:23.024Z",
-        "modifiedAt": "2023-05-18T07:46:38Z",
-        "sha256": "d72632e78e01ba95073c2669221de659250ea902fbf72aec790a1a67e45c64c7"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "448d6e464f8598aa64bd2e46fea681088f84d82302561927ae82f9b52e125bfe"
     },
     "scripts/events/events/crisis/undead_hoggart_event.json": {
         "id": 918857,
@@ -9314,14 +9314,14 @@
         "total": 18,
         "translated": 18,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:46.653Z",
         "updatedAt": "2023-05-26T04:50:21.528Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "8ea6293c807d2593b2cc5da6833c9ddd6eee49f587929c8c176812755873ef00"
+        "modifiedAt": "2023-06-12T13:19:35Z",
+        "sha256": "3ad1cfd436bc4080b677f95330a2586511d30352b32ef43b0122a96279c1f3a3"
     },
     "scripts/events/events/cultist_vs_old_gods_event.json": {
         "id": 918866,
@@ -9332,14 +9332,14 @@
         "total": 16,
         "translated": 16,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:47.003Z",
         "updatedAt": "2023-05-17T14:24:28.366Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "41b7870c22d631e67ad3b7f7d639de863ac7542f63bc85075054ad6a37253037"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "e085350e358697479b54c025d73ecfe33ac4ef343afdd1c46313b1e927eb0a4c"
     },
     "scripts/events/events/cultist_vs_uneducated_event.json": {
         "id": 918867,
@@ -9890,14 +9890,14 @@
         "total": 32,
         "translated": 32,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:59.159Z",
         "updatedAt": "2023-05-17T14:24:51.448Z",
-        "modifiedAt": "2023-06-10T05:36:35Z",
-        "sha256": "03897c58b9fd74c444272ec02abb0a15b826bfe547de10d4d661826ee05ddf48"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "b343284351af4d5cb33d06bbe03e5e65689120d3d03e14384c120270a4c3f42d"
     },
     "scripts/events/events/dlc2/location/ancient_watchtower_event.json": {
         "id": 918898,
@@ -10070,14 +10070,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:03.306Z",
         "updatedAt": "2023-05-17T14:24:59.033Z",
-        "modifiedAt": "2023-06-10T05:36:35Z",
-        "sha256": "d5cb69b4888bc3996d4ddacbdaced3ad27f76c8fdff9fa1aac8a5c0170e24e36"
+        "modifiedAt": "2023-06-12T11:26:34Z",
+        "sha256": "a48c5b2b60a1aada6e14a15d81b424361fbf82e1f4f7cb2ec2c8ec6af27de219"
     },
     "scripts/events/events/dlc2/location/unhold_graveyard_event.json": {
         "id": 918908,
@@ -10304,14 +10304,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:07.812Z",
         "updatedAt": "2023-05-17T14:25:04.076Z",
-        "modifiedAt": "2023-05-17T14:25:04Z",
-        "sha256": "d2909b749c5d3c9436662cd5e386d25ff73068d8075d580e884bb2a98de5aba4"
+        "modifiedAt": "2023-06-12T14:02:34Z",
+        "sha256": "8cb7ca25a5668678d2fd611310e4b25f4f4a6e74ff8a7e51672373747edc7336"
     },
     "scripts/events/events/dlc2/oracle_event.json": {
         "id": 918921,
@@ -10448,14 +10448,14 @@
         "total": 19,
         "translated": 19,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:10.623Z",
         "updatedAt": "2023-05-26T04:50:22.371Z",
-        "modifiedAt": "2023-05-26T04:50:22Z",
-        "sha256": "cb66788d412168f06f47039552db5e109e5786330c2b1646f0bc7d84a490389e"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "36f926927c39635b02d8c9fa8688a6ea990038c6a957c5d09948c237d6a2c5ff"
     },
     "scripts/events/events/dlc2/unhold_exposition_event.json": {
         "id": 918929,
@@ -10502,14 +10502,14 @@
         "total": 22,
         "translated": 22,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:11.649Z",
         "updatedAt": "2023-05-17T14:25:08.562Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "2ddfbfdbf76b5705d052c6bc2071228ee1757807ffe16e7471350f2335819e52"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "838a2e50d7ebe2563a3f0e10b8d1c37a222c64142decbcaffbcc740910af33b1"
     },
     "scripts/events/events/dlc4/adopt_warhound_event.json": {
         "id": 918932,
@@ -10610,14 +10610,14 @@
         "total": 18,
         "translated": 18,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:13.773Z",
         "updatedAt": "2023-05-17T14:25:14.044Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "37ac215123615ef877cfbcfaec3333bf73396c7a85b946127b9eb7c2de89a7dc"
+        "modifiedAt": "2023-06-12T13:19:33Z",
+        "sha256": "4fa852c135e42a63690c64d47ae8f1af17c03157f589459273f09ec4e98535c4"
     },
     "scripts/events/events/dlc4/cultist_origin_flock_event.json": {
         "id": 918938,
@@ -10664,14 +10664,14 @@
         "total": 11,
         "translated": 11,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:15.055Z",
         "updatedAt": "2023-05-17T14:25:15.459Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "59473e2ae8df9d89f38140b92082652a53a1211eac56a2133143cec2bd25864d"
+        "modifiedAt": "2023-06-12T13:19:26Z",
+        "sha256": "821e173d603961f019276a122551d1b69e61385d85be9a8775d73c970567705a"
     },
     "scripts/events/events/dlc4/cultist_origin_vs_old_gods_event.json": {
         "id": 918941,
@@ -10682,14 +10682,14 @@
         "total": 16,
         "translated": 16,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:15.455Z",
         "updatedAt": "2023-05-17T14:25:16.067Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "0fcd9728129be96f9d29d742b46465aa6fafde77171d48eecf08027490eb4bc2"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "8b6f8363ddb29e8fc0fbd039ece72dd5a48a1c95779ebbc51d32e63b45afdb06"
     },
     "scripts/events/events/dlc4/cultist_origin_vs_uneducated_event.json": {
         "id": 918942,
@@ -10718,14 +10718,14 @@
         "total": 17,
         "translated": 17,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:16.141Z",
         "updatedAt": "2023-05-26T04:50:22.756Z",
-        "modifiedAt": "2023-05-30T01:36:57Z",
-        "sha256": "3384f79fc8934f62165cf3cc3c73645ade19667496fd453ea2844a9a882284dc"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "23e0c1f5009ce9eb76ae9609966125a48a893c38dd64a70e005f97f54679a10c"
     },
     "scripts/events/events/dlc4/drunk_nobleman_event.json": {
         "id": 918944,
@@ -10736,14 +10736,14 @@
         "total": 28,
         "translated": 28,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:16.487Z",
         "updatedAt": "2023-05-26T04:50:22.912Z",
-        "modifiedAt": "2023-05-26T04:50:23Z",
-        "sha256": "e621b4e4fc5f854b19266b35e3eba544868da3759f829a086f3f86cec6ac8c65"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "cae26c1334ad9f894fa270d8cda891a6c5d79b6fab8d0a8587eba5056fbb2a9e"
     },
     "scripts/events/events/dlc4/horse_race_event.json": {
         "id": 918945,
@@ -10754,14 +10754,14 @@
         "total": 24,
         "translated": 24,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:16.888Z",
         "updatedAt": "2023-05-26T04:50:23.031Z",
-        "modifiedAt": "2023-05-26T15:12:39Z",
-        "sha256": "492afe94daf456b0f6bbb64de2918acc145367889ceac01fbf56f5ddf6cf5586"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "0a74c518d2e314d744f43ccce41e367a82ce87326f7fc3e555baaf337fe15869"
     },
     "scripts/events/events/dlc4/ijirok_1_event.json": {
         "id": 918946,
@@ -10988,14 +10988,14 @@
         "total": 13,
         "translated": 13,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:21.384Z",
         "updatedAt": "2023-05-26T04:50:23.954Z",
-        "modifiedAt": "2023-05-26T04:50:24Z",
-        "sha256": "958e22ec07d0e6090449e72f177a98fc3af69bd0e4e5dc1386acf4f4e0459378"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "23b4149c5acca97538d818cb1c43c951d3f0d7a313373b7431f62f14269bf82f"
     },
     "scripts/events/events/dlc4/sled_race_event.json": {
         "id": 918959,
@@ -11006,14 +11006,14 @@
         "total": 17,
         "translated": 17,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:21.729Z",
         "updatedAt": "2023-05-26T04:50:24.035Z",
-        "modifiedAt": "2023-05-26T04:50:24Z",
-        "sha256": "b4287b54ec4c2a566e8214992fcd161720503031e650d7eeb40c2ce99fb96a24"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "9884ec30f4d8b9dcc8e8645a066c23f5f6a254a80e39205112a3343b861fc301"
     },
     "scripts/events/events/dlc4/traveler_north_event.json": {
         "id": 918960,
@@ -11042,14 +11042,14 @@
         "total": 29,
         "translated": 29,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:22.428Z",
         "updatedAt": "2023-05-26T04:50:24.237Z",
-        "modifiedAt": "2023-05-26T04:50:24Z",
-        "sha256": "0f2ef8bc42223d4d5f22ecebbef4bcf77c0bc57900ef9c3c3fd158278c8cbce4"
+        "modifiedAt": "2023-06-12T14:02:35Z",
+        "sha256": "01ad2fd7c0758c25e8da83ead21bb8e7b42957f26b1f9dffa1bedcfaad7cb80e"
     },
     "scripts/events/events/dlc6/arena_tournament_event.json": {
         "id": 918962,
@@ -11102,8 +11102,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:23.472Z",
         "updatedAt": "2023-05-26T04:50:24.533Z",
-        "modifiedAt": "2023-05-26T04:50:25Z",
-        "sha256": "6284abae7a0fbeb45718d3f596736e599082fe7ce2a074c27eac241b328d80a3"
+        "modifiedAt": "2023-06-13T15:45:15Z",
+        "sha256": "15be4761e4ee1362a519f5532f2c5a2a5a1fec082f544104599a3ff57ab612d6"
     },
     "scripts/events/events/dlc6/crisis/holywar_crucified_1_event.json": {
         "id": 918965,
@@ -11114,14 +11114,14 @@
         "total": 15,
         "translated": 15,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:23.819Z",
         "updatedAt": "2023-05-26T04:50:24.933Z",
-        "modifiedAt": "2023-05-26T04:50:25Z",
-        "sha256": "7e29fe094303ed15d31860a793a88b924a06f177394a38752ae82ee9156b3d75"
+        "modifiedAt": "2023-06-12T13:18:36Z",
+        "sha256": "1675b11b0e038f48b9d67b3ebeb0f67c7b56323e2a56e92d2f0e10a5cc606f8c"
     },
     "scripts/events/events/dlc6/crisis/holywar_flavor_north_outside_event.json": {
         "id": 918966,
@@ -11300,8 +11300,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:28.507Z",
         "updatedAt": "2023-05-17T14:25:34.479Z",
-        "modifiedAt": "2023-05-17T14:25:34Z",
-        "sha256": "fdaea4ec4609a6ab95788a051b54ecb240f4273908da3120f2b7b8d4070ff72e"
+        "modifiedAt": "2023-06-12T17:01:18Z",
+        "sha256": "e27310d0dcd5c8b7462a8689120d9bfd16c0d4fd912f3c447cc386c799eaa4b9"
     },
     "scripts/events/events/dlc6/crisis/holywar_outro_north_event.json": {
         "id": 918976,
@@ -11420,14 +11420,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:30.989Z",
         "updatedAt": "2023-05-17T14:25:37.026Z",
-        "modifiedAt": "2023-05-18T07:46:38Z",
-        "sha256": "65a7817a00c6e7c2c1aadc92d605b69758737e0bfcc01cb195ce41edd1adb9eb"
+        "modifiedAt": "2023-06-12T14:02:35Z",
+        "sha256": "a9053b5a763ee129d45a404d9186c96de7452156250b58217b47228be68615fe"
     },
     "scripts/events/events/dlc6/desert_fall_event.json": {
         "id": 918983,
@@ -11438,14 +11438,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:31.325Z",
         "updatedAt": "2023-05-17T14:25:37.377Z",
-        "modifiedAt": "2023-05-18T07:46:38Z",
-        "sha256": "4e82aae5017f307155c0a90889b52982a605651adb980b65840056c4f77a96f3"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "69e2d68f2c804ec0de9c0615384ac9d10f53ce73d91b6e0d3f64364f9947c1fa"
     },
     "scripts/events/events/dlc6/desert_feet_event.json": {
         "id": 918984,
@@ -11474,14 +11474,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:32.001Z",
         "updatedAt": "2023-05-26T04:50:26.396Z",
-        "modifiedAt": "2023-05-26T04:50:26Z",
-        "sha256": "dd337fa08a80ad0a1d9b949da1ba02102cc4a01e09475539a5757d04ebb3af63"
+        "modifiedAt": "2023-06-12T14:02:36Z",
+        "sha256": "8b5fa526145e736ee74392c863b86a17dd0712f243bbcdb32b72732c8b493219"
     },
     "scripts/events/events/dlc6/desert_sand_event.json": {
         "id": 918986,
@@ -11528,14 +11528,14 @@
         "total": 20,
         "translated": 20,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:33.03Z",
         "updatedAt": "2023-05-26T04:50:26.966Z",
-        "modifiedAt": "2023-05-26T04:50:27Z",
-        "sha256": "9cbd996ccf9bd28024e71390f14c582f39f3f2d5aa31bfe3febad18e283d5c23"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "a5e9dad8af2014f8f8a373f912b5d79bb8a768913cda2a02a0816dcd76602249"
     },
     "scripts/events/events/dlc6/fire_juggler_event.json": {
         "id": 918989,
@@ -11696,8 +11696,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:36.165Z",
         "updatedAt": "2023-05-26T04:50:27.424Z",
-        "modifiedAt": "2023-06-09T14:55:56Z",
-        "sha256": "6b92c8590f78c78e1b20990ecf7a546ed474458f17c1abc48b204483fb26f4d0"
+        "modifiedAt": "2023-06-13T00:39:56Z",
+        "sha256": "c6a44f351d100da33adb4b196c871aefe2add0942c201810166b3650fe22ac14"
     },
     "scripts/events/events/dlc6/merchant_of_jugs_event.json": {
         "id": 918998,
@@ -11942,14 +11942,14 @@
         "total": 19,
         "translated": 19,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:41.16Z",
         "updatedAt": "2023-05-17T14:25:54.464Z",
-        "modifiedAt": "2023-05-17T14:25:55Z",
-        "sha256": "76a04826630f1eb1f1a75a9cfe5ef785d6c28a94e9e249f55c44ca282fb408bb"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "7f1b67f2bb2124e3fe7066318803ea148f4de9b409f71a094dc77b0404860729"
     },
     "scripts/events/events/dlc8/anatomist_demonology_book_event.json": {
         "id": 919012,
@@ -12158,14 +12158,14 @@
         "total": 20,
         "translated": 20,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:45.634Z",
         "updatedAt": "2023-05-17T14:25:58.964Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "228eea66be9d5b68da773d560fdc97406c164e02427cd9c63e473fc21e6e217c"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "77e9dc8fe9a5756ca3e5586c3f5826f60069122ad8280f248ce8a7e1b8908b6b"
     },
     "scripts/events/events/dlc8/anatomist_vs_clubfooted_event.json": {
         "id": 919024,
@@ -12176,14 +12176,14 @@
         "total": 14,
         "translated": 14,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:46.007Z",
         "updatedAt": "2023-05-17T14:25:59.354Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "944b2b932413030be1817557f7bb796bc1cf7ddcda518ebaf2f4774ba13e35f2"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "95350caa4a2ece49329e1c8e954168c830751d8d9235fac5afccdbc217eb7f6c"
     },
     "scripts/events/events/dlc8/anatomist_vs_dog_event.json": {
         "id": 919025,
@@ -12194,14 +12194,14 @@
         "total": 16,
         "translated": 16,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:46.362Z",
         "updatedAt": "2023-05-17T14:25:59.748Z",
-        "modifiedAt": "2023-05-25T06:19:12Z",
-        "sha256": "a6d1b2f2ecebcd8e4268d3a68024b28c9fb4690cedeac806b902e6a456e116ea"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "fd15c92b81327a3ebd40320713965972b3828b2077aabf3ae617091ceecd85f2"
     },
     "scripts/events/events/dlc8/anatomist_vs_historian_event.json": {
         "id": 919026,
@@ -12230,14 +12230,14 @@
         "total": 14,
         "translated": 14,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:47.085Z",
         "updatedAt": "2023-05-17T14:26:00.626Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "fee41f8733a447a2c22df41eb986acfc5d0dbd823c6d200cd44dd3071bd754fd"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "b75e3867f9dc4267716953e5c9d8263d82c059b21a4bb464fa7b5a6b67dd1088"
     },
     "scripts/events/events/dlc8/anatomist_vs_splinter_event.json": {
         "id": 919028,
@@ -12374,14 +12374,14 @@
         "total": 29,
         "translated": 29,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:50.11Z",
         "updatedAt": "2023-05-17T14:26:05Z",
-        "modifiedAt": "2023-05-17T14:26:05Z",
-        "sha256": "6131d2ec7c50eebf2fe940c3d66395fc18cf7fe63ef3eb793e3f886747fa395f"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "bfc1c6aab3b60571b8bd514e5199193df4921e9d8456bcfa763c972b61a4f533"
     },
     "scripts/events/events/dlc8/captured_oathbringer_event.json": {
         "id": 919036,
@@ -12392,14 +12392,14 @@
         "total": 22,
         "translated": 22,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:50.474Z",
         "updatedAt": "2023-05-17T14:26:05.442Z",
-        "modifiedAt": "2023-05-18T07:46:38Z",
-        "sha256": "e37c52ac39aee92cd040cc3be1d6776590b95bac1978185cb7e2eadf569e2201"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "66e6acc30d1b66546a6eb53bfc4e48814fd0a129a3dba0f352b664047bce290e"
     },
     "scripts/events/events/dlc8/disowned_noble_vs_deserter_event.json": {
         "id": 919037,
@@ -12572,14 +12572,14 @@
         "total": 25,
         "translated": 25,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:54.669Z",
         "updatedAt": "2023-05-17T14:26:12.136Z",
-        "modifiedAt": "2023-05-25T14:41:10Z",
-        "sha256": "796fc1c06b41ebcc4732edff9af207e6ea5c49fff9fd89a0c5772c83e0c8421a"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "6ce4671727edd1135e9e010ad58409ba96134bb1678c06d3483de370ee47e1a2"
     },
     "scripts/events/events/dlc8/mutated_gladiator_annoys_others_event.json": {
         "id": 919047,
@@ -12824,14 +12824,14 @@
         "total": 14,
         "translated": 14,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:01.146Z",
         "updatedAt": "2023-05-17T14:26:24.844Z",
-        "modifiedAt": "2023-05-18T07:46:38Z",
-        "sha256": "627150b4f146f449edfc056064f1395a8aba25e4a55b28475c26c95069d22472"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "58823e819cb9bcef647a43d574fff508dde7d041a43c84e882409bb54c8f627c"
     },
     "scripts/events/events/dlc8/volunteers_event.json": {
         "id": 919061,
@@ -13022,14 +13022,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:05.316Z",
         "updatedAt": "2023-05-17T14:26:29.976Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "c19a952646107c70e46121cfd244e2be3630d7f5ccb0468a686aeb6594512b36"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "2df006283eb8ea5832f679f38a422f44a2c2a66d661f09d0fce5bc563d6a7b24"
     },
     "scripts/events/events/fat_guy_gets_fit_event.json": {
         "id": 919072,
@@ -13166,14 +13166,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:08.88Z",
         "updatedAt": "2023-05-26T04:50:29.416Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "c88f12f0d9bcce52e7c329294b5735e7c62047d1ccbce319908cbe83fd5b524e"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "ae1920b646451fb7e767f0c054aa1a44a5b6fcb4f6b3f41da21e0398cd780b50"
     },
     "scripts/events/events/flagellation_horrifies_other_event.json": {
         "id": 919080,
@@ -13184,14 +13184,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:09.265Z",
         "updatedAt": "2023-05-17T14:26:34.303Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "5ac3379c202ad708f8f4af28705f842c50c822402a29e3a8879cb25240dcffee"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "8b449b6ce5279584c5be4a9a26b80d54fef1c18728e034c023164ef82b914358"
     },
     "scripts/events/events/food_goes_bad_event.json": {
         "id": 919081,
@@ -13238,14 +13238,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:10.495Z",
         "updatedAt": "2023-05-26T04:50:29.516Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "fe791e74d0f69d5105cae323d3efb9c07dd0971161635e3de0b3b8698e59df2c"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "ac24aa5c263d5524568c8b8879fff2ba417ef4b072dd2ce347cf6254b8d48ad4"
     },
     "scripts/events/events/giant_tree_in_forest_event.json": {
         "id": 919084,
@@ -13346,14 +13346,14 @@
         "total": 30,
         "translated": 30,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:12.777Z",
         "updatedAt": "2023-05-17T14:26:37.527Z",
-        "modifiedAt": "2023-05-17T14:26:38Z",
-        "sha256": "b239740b2f0fa5816cd19f8eb43a66e66efa33c30bff9bd1a2082d83c41e7e3b"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "eae00eabbc23aac8cb18e89727492bcf8b3ea93e35a09919b96a9d08df0304fc"
     },
     "scripts/events/events/graverobber_vs_gravedigger_event.json": {
         "id": 919090,
@@ -13418,14 +13418,14 @@
         "total": 35,
         "translated": 35,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:14.227Z",
         "updatedAt": "2023-05-17T14:26:39.053Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "e6d58d87d2f560f474737c1902a5f1a5dff514c9537f445cd14112cc8052f224"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "4ee46942fbd73e4b28a87bf9805c1140f71dbdb6d14a3e0b8e067eeaf5f89ffb"
     },
     "scripts/events/events/herbs_along_the_way_event.json": {
         "id": 919094,
@@ -13562,14 +13562,14 @@
         "total": 44,
         "translated": 44,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:22.399Z",
         "updatedAt": "2023-05-26T04:50:31.199Z",
-        "modifiedAt": "2023-05-26T04:50:31Z",
-        "sha256": "7fbc1e0b71270ebd5457c36883b73b4141239bb8bb6aac0db00c4e1cfb0bcd77"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "bea26934851caabd3d3ca193d70279ed1c6cd07f0de9a8cc208e61f4b8a6c503"
     },
     "scripts/events/events/inadvertently_save_merchant_event.json": {
         "id": 919102,
@@ -13598,14 +13598,14 @@
         "total": 30,
         "translated": 30,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:23.111Z",
         "updatedAt": "2023-05-26T04:50:31.386Z",
-        "modifiedAt": "2023-05-26T04:50:31Z",
-        "sha256": "db15149e4047b03c297f4d604038f6898ad14a59a3f6b51bd450148ab0d539eb"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "869b6a3cfe622b3d26bf2b29cb32a96093ff76cbc75fbfe1cb657a16e5dff158"
     },
     "scripts/events/events/juggler_entertains_townsfolk_event.json": {
         "id": 919104,
@@ -13634,14 +13634,14 @@
         "total": 26,
         "translated": 26,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:23.805Z",
         "updatedAt": "2023-05-17T14:26:44.82Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "786eebd888f19f857a0bbeb6a53182dcf428bb740fdcf9c3f5d0e4350f1a33f0"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "a0ee0b8d85e973b059b69703087a761f9810c21d7f58d28965c585632281bd87"
     },
     "scripts/events/events/kids_and_dead_merchant_event.json": {
         "id": 919106,
@@ -13652,14 +13652,14 @@
         "total": 14,
         "translated": 14,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:24.153Z",
         "updatedAt": "2023-05-17T14:26:45.224Z",
-        "modifiedAt": "2023-05-17T14:26:45Z",
-        "sha256": "07b99e2a1ab8006c07aa14b68a9e9e4c0b1c9ad85cb4005dcec338fbb8f1b0d1"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "3035b51c869256420db3a1b65b9ad633c9c4bcf8306ea1bf452df114c11f889b"
     },
     "scripts/events/events/killer_vs_others_event.json": {
         "id": 919107,
@@ -13670,14 +13670,14 @@
         "total": 23,
         "translated": 23,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:24.504Z",
         "updatedAt": "2023-05-26T04:50:31.521Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "8d3ddce28e74d0c85ac3703d8d1617309155fc52b4d4abe19dcf68e1141172fd"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "4a88f745ce0575f25fffd6db6ba6e6a9c3d616d2740a00351d19f097adc92d67"
     },
     "scripts/events/events/lawmen_after_criminal_event.json": {
         "id": 919108,
@@ -13706,14 +13706,14 @@
         "total": 20,
         "translated": 20,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:25.201Z",
         "updatedAt": "2023-05-26T04:50:31.809Z",
-        "modifiedAt": "2023-05-26T04:50:32Z",
-        "sha256": "eb962a4066e060e3858a5e7c2a5f588c85539ab129f235aec1d6627a019ee6a3"
+        "modifiedAt": "2023-06-12T14:02:36Z",
+        "sha256": "46ba7b9b9819c0d32feed38d8a0e7c073e35264bb703b5b2922e9a5a02651a97"
     },
     "scripts/events/events/man_in_forest_event.json": {
         "id": 919110,
@@ -13904,14 +13904,14 @@
         "total": 14,
         "translated": 14,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:29.507Z",
         "updatedAt": "2023-05-26T04:50:32.168Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "34578bd4d23b67c7bed73130a24b33aa5f6ae59288978c27fd903558e7ed4292"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "e4129cd38278b4aa7096f3faad100a32b41c5f1418bb7c8010b9132d2445ac95"
     },
     "scripts/events/events/more_action_event.json": {
         "id": 919121,
@@ -13922,14 +13922,14 @@
         "total": 10,
         "translated": 10,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:29.857Z",
         "updatedAt": "2023-05-17T14:27:03.441Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "92df22f1b9524fc8daf022e6470038ca3e0206129925a53da44f5b84e11f178b"
+        "modifiedAt": "2023-06-12T13:18:36Z",
+        "sha256": "1bf3f6e1a9c4a09fab1842b464ba535f145b7135e550ce8119a944dba51126b4"
     },
     "scripts/events/events/more_men_event.json": {
         "id": 919122,
@@ -13940,14 +13940,14 @@
         "total": 26,
         "translated": 26,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:30.239Z",
         "updatedAt": "2023-05-26T04:50:32.342Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "40ed63f06caff446f11c9b93b4200ced4648501970b38603bfa4a5d6710735f4"
+        "modifiedAt": "2023-06-12T13:18:36Z",
+        "sha256": "e964e51a8eef2569ae7008bc2ad0000787f4889a154073bcced9df789b4bd68a"
     },
     "scripts/events/events/mountain_running_event.json": {
         "id": 919123,
@@ -13976,14 +13976,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:30.95Z",
         "updatedAt": "2023-05-17T14:27:06.337Z",
-        "modifiedAt": "2023-05-17T14:27:06Z",
-        "sha256": "b50a2b3089f151ed4f046441f71cfbe7db1d55b6f14f969f61712998c8b5a78e"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "26fbccd0fae9f61af2a161bb6bd9c9f46d89117e8678407059a4a7f1fcc96b44"
     },
     "scripts/events/events/no_food_event.json": {
         "id": 919125,
@@ -14048,14 +14048,14 @@
         "total": 12,
         "translated": 12,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:32.344Z",
         "updatedAt": "2023-05-26T04:50:32.456Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "9452f90032f0bfb88dea40eb1eb3e6cc40112ac22ee72f3219c4798dc55e5c4b"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "96d73415124b1ca152056de1e92d2b648f4f4fdc927416c0539a42654d9c3935"
     },
     "scripts/events/events/oldguard_becomes_drunkard_event.json": {
         "id": 919129,
@@ -14192,14 +14192,14 @@
         "total": 32,
         "translated": 32,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:35.461Z",
         "updatedAt": "2023-05-17T14:27:11.667Z",
-        "modifiedAt": "2023-05-17T14:27:12Z",
-        "sha256": "76394527794874bd360958a6e2e5df612413fcf8e341ef285333732aaa0b5e85"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "9d52783cd7304191831f22d242ed49842e5e7b39931ad3045d5f9e595cd6243e"
     },
     "scripts/events/events/pimp_vs_harlot_event.json": {
         "id": 919137,
@@ -14318,14 +14318,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:37.914Z",
         "updatedAt": "2023-05-26T04:50:33.473Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "554cf59faedd94845c94dd14ae65c44ce2e0420d3e0e6d83898013fe806459c3"
+        "modifiedAt": "2023-06-12T13:18:36Z",
+        "sha256": "1cf977dd39e4e175a1f985d7a63520666c7bd920ebcf35f61996ab89f4eea88a"
     },
     "scripts/events/events/ratcatcher_crafts_net_event.json": {
         "id": 919144,
@@ -14372,14 +14372,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:39.108Z",
         "updatedAt": "2023-05-17T14:27:16.233Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "eef3dec4cf1cac414b2e9a604a2211f94b328cb9e03feb4fef2c464cdc4bbb74"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "3f8e6e4d81615dac65a3940663f2fd14371d31a2c712b5fcdae8de549a7609ce"
     },
     "scripts/events/events/religious_peasants_event.json": {
         "id": 919147,
@@ -14750,14 +14750,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:46.445Z",
         "updatedAt": "2023-05-26T04:50:34.731Z",
-        "modifiedAt": "2023-05-26T04:50:35Z",
-        "sha256": "353f57342600a0e037658a60ed1b8a8ff69f63b2a341916788606104ca6b7bcd"
+        "modifiedAt": "2023-06-13T11:22:30Z",
+        "sha256": "94e81860c90fa32cac3c6b862bf486b86c35269fd92b00d36f196c5a19dacfbb"
     },
     "scripts/events/events/scientist_in_the_mountains_event.json": {
         "id": 919168,
@@ -14804,14 +14804,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:48.835Z",
         "updatedAt": "2023-05-26T04:50:35.299Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "2344dde688635b7e56d8bcdb0afd4feb923329271e27280f3e959700ddc7b7eb"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "02f0bfc93c2e03357f806ea16bb74cebb68fa6918234e03dc48b812d3869ce60"
     },
     "scripts/events/events/shady_character_offers_map_event.json": {
         "id": 919171,
@@ -14876,14 +14876,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:50.276Z",
         "updatedAt": "2023-05-17T14:27:33.953Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "9b70e51f5ad849f44c2e3e3f3c218050425b8202ae22edeccd3482feee2b0c3d"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "30cc5424d78ff27cb1f22c1960ae8f088e2a157da31f7a72eab8424b1b2e91f8"
     },
     "scripts/events/events/sickness_event.json": {
         "id": 919175,
@@ -14912,14 +14912,14 @@
         "total": 15,
         "translated": 15,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:50.952Z",
         "updatedAt": "2023-05-17T14:27:35.081Z",
-        "modifiedAt": "2023-06-11T14:00:39Z",
-        "sha256": "e67a5b89fee04e8dda4c4c93d78d56162e240db5c165754decfcd5c7191c2886"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "dca42fa53b0af9c91665da515432deadeee7666e49cfb8554075a5695c699f9c"
     },
     "scripts/events/events/special/ambition_failed_event.json": {
         "id": 919177,
@@ -14930,14 +14930,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:51.335Z",
         "updatedAt": "2023-05-26T04:50:35.774Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "d3273b64312f785bf8c76caa426de5c383b4b6657596945c74f4b60251886397"
+        "modifiedAt": "2023-06-12T13:18:36Z",
+        "sha256": "8734d8476d9daf672403cb0209e3838b9d04b4b831f06d6dd46730e48f273b98"
     },
     "scripts/events/events/special/ambition_fulfilled_event.json": {
         "id": 919178,
@@ -14948,14 +14948,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:51.687Z",
         "updatedAt": "2023-05-26T04:50:36Z",
-        "modifiedAt": "2023-05-26T04:50:36Z",
-        "sha256": "6fc3619ff9b4ed1e22e2aee0dde8c48bd87bca36e8398d8e5914ece98d3faae5"
+        "modifiedAt": "2023-06-12T13:18:36Z",
+        "sha256": "b04e02d1baa00a7424d8aa6792073c27ca414b15e24b4cfc072b2a963a28d453"
     },
     "scripts/events/events/special/choose_ambition_event.json": {
         "id": 919179,
@@ -15164,14 +15164,14 @@
         "total": 29,
         "translated": 29,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:55.937Z",
         "updatedAt": "2023-05-26T04:50:36.691Z",
-        "modifiedAt": "2023-05-26T04:50:37Z",
-        "sha256": "b9f26155365c2dc571011a43eabebf8ec2cd8bf94c59bb06b3d156638d9bf9e9"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "5fa58caad6562925cee6952ee3ae3d7674df042871cce6306d835f59cab87d1e"
     },
     "scripts/events/events/surefooted_saves_damsel_event.json": {
         "id": 919191,
@@ -15272,14 +15272,14 @@
         "total": 10,
         "translated": 10,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:57.993Z",
         "updatedAt": "2023-05-17T14:27:45.456Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "9e705784f0eecc9721ef3d5061fdb7bfbde533da2122957a668738822f7676d6"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "f5108e2846e0d7aa55bde60be910b66c38c104808e81d4af621791be988f4de4"
     },
     "scripts/events/events/traveler_event.json": {
         "id": 919197,
@@ -15344,14 +15344,14 @@
         "total": 25,
         "translated": 25,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:59.426Z",
         "updatedAt": "2023-05-26T04:50:37.934Z",
-        "modifiedAt": "2023-05-26T04:50:38Z",
-        "sha256": "fc1f25b60af43cd73b004573d38ef61a67f3d2a9a9b851ae6da8254acbf9ee8a"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "8e5765b52663872cb3b2ab9f946c0b25cebdb7e878a6b6b27b1a007d338ac554"
     },
     "scripts/events/events/uber_courageous_event.json": {
         "id": 919201,
@@ -15398,14 +15398,14 @@
         "total": 20,
         "translated": 20,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:00.94Z",
         "updatedAt": "2023-05-17T14:27:48.964Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "3a12cf449304b646330919c9a4766c2a17118b523eca2d26d11a70eeb79f6ffd"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "521fde233605d511a7f79cc853ceaa4c0ee88013b5a6ab58d7e5541e4e8edc81"
     },
     "scripts/events/events/warriors_death_event.json": {
         "id": 919204,
@@ -15488,14 +15488,14 @@
         "total": 13,
         "translated": 13,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:02.801Z",
         "updatedAt": "2023-05-17T14:27:52.192Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "ee9844e9a2883e45394464a7f02082131930805626682e17f4f184afe100a0b8"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "be441b5e233b028b9a258c010a42dc43eaa4c5a2e21fb8177ad143e24595db8a"
     },
     "scripts/events/events/witch_being_burned_event.json": {
         "id": 919209,
@@ -15542,14 +15542,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:03.896Z",
         "updatedAt": "2023-05-17T14:27:53.312Z",
-        "modifiedAt": "2023-05-31T14:28:05Z",
-        "sha256": "16daab28d32afdf31b0ef9e836de0bd65583c4cf759e44d33ef70512f74ef4d3"
+        "modifiedAt": "2023-06-12T14:20:10Z",
+        "sha256": "ee76758a1199f53e9d7f98635fe99b44c84f1f9bdcc89960f9d24e3010b8c2d3"
     },
     "scripts/events/events/wound_heals_event.json": {
         "id": 919212,
@@ -15632,14 +15632,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:07.284Z",
         "updatedAt": "2023-05-17T14:27:55.938Z",
-        "modifiedAt": "2023-05-17T14:27:56Z",
-        "sha256": "60aa016be4dd0d4ebf8afae35a88d2a5701987355845a10861a78572360dfb5d"
+        "modifiedAt": "2023-06-13T07:52:16Z",
+        "sha256": "fcbc4537b5342ec2d30f6c83f23089e2f75d9dc1673dbcb3cf4acc31616927aa"
     },
     "scripts/factions/actions/defend_goblins_action.json": {
         "id": 919217,
@@ -15704,14 +15704,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:08.648Z",
         "updatedAt": "2023-05-17T14:27:57.371Z",
-        "modifiedAt": "2023-05-17T14:27:57Z",
-        "sha256": "7b0b524e7abaff7bd1bdb11ae0777e71072abd084b7c86a5947f667d5cf99870"
+        "modifiedAt": "2023-06-13T07:31:53Z",
+        "sha256": "b00402607bf32699acc3dae5f74b6ab270d40763e83b1ea6d9db2bf82b9ab8c0"
     },
     "scripts/factions/actions/defend_orcs_action.json": {
         "id": 919221,
@@ -15830,14 +15830,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:11.488Z",
         "updatedAt": "2023-05-17T14:28:00.086Z",
-        "modifiedAt": "2023-05-17T14:28:00Z",
-        "sha256": "3a4660288e44f76748833e351ffe7e87667db15f1a2fc57cefdcb98beb49e53f"
+        "modifiedAt": "2023-06-13T07:52:16Z",
+        "sha256": "44139bb1e73b837fd47f22d93ef265d7244c168e2412cd6faa7c81c2dec6d621"
     },
     "scripts/factions/actions/patrol_roads_action.json": {
         "id": 919228,
@@ -15974,14 +15974,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:14.222Z",
         "updatedAt": "2023-05-17T14:28:13.076Z",
-        "modifiedAt": "2023-05-17T14:28:13Z",
-        "sha256": "902a85d5c5c08de2710b6bc555f5a9bf1f7041cd4d9e96c55645f4e327b42f9c"
+        "modifiedAt": "2023-06-13T11:25:21Z",
+        "sha256": "157a1eb66db7f41cc931171001c3604c286a5fcec0d1c482805ad7fd947f804a"
     },
     "scripts/factions/actions/send_citystate_army_action.json": {
         "id": 919236,
@@ -15992,14 +15992,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:14.586Z",
         "updatedAt": "2023-05-17T14:28:13.43Z",
-        "modifiedAt": "2023-05-17T14:28:13Z",
-        "sha256": "fbf6640d8d802e1bd20ccc387635ec3b2785ba3dd1389f8651febb606d987bbf"
+        "modifiedAt": "2023-06-13T07:52:16Z",
+        "sha256": "0cbdaba6278dddebf9652f4774239fd18c81fa87764da05db30347fb5b5701ed"
     },
     "scripts/factions/actions/send_citystate_holysite_action.json": {
         "id": 919237,
@@ -16010,14 +16010,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:14.914Z",
         "updatedAt": "2023-05-17T14:28:13.779Z",
-        "modifiedAt": "2023-05-17T14:28:14Z",
-        "sha256": "26ff4fbdb9eaa3ae1592e35ee7de25277f10936173802c0b026f78f20693290d"
+        "modifiedAt": "2023-06-13T07:52:16Z",
+        "sha256": "b294e425de38bf6f5832f7dffaa5485e02e499261c6165c0767a353110fe92b8"
     },
     "scripts/factions/actions/send_goblin_ambushers_action.json": {
         "id": 919238,
@@ -16118,14 +16118,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:16.929Z",
         "updatedAt": "2023-05-17T14:28:16.461Z",
-        "modifiedAt": "2023-05-17T14:28:16Z",
-        "sha256": "4a232704ac164e101874070010de9e98f6f6879d930fb082e944132ef872fefd"
+        "modifiedAt": "2023-06-13T07:31:54Z",
+        "sha256": "f41cb8be47345f7cfacb25521c342664c77051218c46551dc409cf95b9eb4654"
     },
     "scripts/factions/actions/send_nomad_roamers_action.json": {
         "id": 919244,
@@ -16136,14 +16136,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:17.267Z",
         "updatedAt": "2023-05-17T14:28:16.809Z",
-        "modifiedAt": "2023-05-17T14:28:17Z",
-        "sha256": "257168cc3a680704b37af55196bb28ad234820e7e61c8ba05af6b14218eb02ac"
+        "modifiedAt": "2023-06-13T07:28:08Z",
+        "sha256": "995081e2d99e46da06003db23ded2f7de5b5ad7df19d44fe368324005f313204"
     },
     "scripts/factions/actions/send_orc_marauders_action.json": {
         "id": 919245,
@@ -16154,14 +16154,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:17.604Z",
         "updatedAt": "2023-05-17T14:28:17.152Z",
-        "modifiedAt": "2023-05-17T14:28:17Z",
-        "sha256": "91b3f3794c85d02f1bc53b373b3c495b96648f3bb04f148a79ff79a5a880967f"
+        "modifiedAt": "2023-06-12T13:57:29Z",
+        "sha256": "2d3efdef42a87573014c56d0a75233edfaa5cb3db3a7090f2f7dca69a2a91ddd"
     },
     "scripts/factions/actions/send_orc_roamers_action.json": {
         "id": 919246,
@@ -21554,14 +21554,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:25:28.659Z",
         "updatedAt": "2023-05-17T14:31:04.62Z",
-        "modifiedAt": "2023-05-17T14:31:05Z",
-        "sha256": "a4acedb882cf42b3cb5940baec78b269386bebfe5d622db3e933a5bdbe25d142"
+        "modifiedAt": "2023-06-13T21:28:07Z",
+        "sha256": "a57748c9258126af2ed568b2b07fafc6a725ffddaa4d030eb88aebb19097d78e"
     },
     "scripts/items/helmets/oriental/gladiator_helmet.json": {
         "id": 919546,
@@ -23030,14 +23030,14 @@
         "total": 17,
         "translated": 17,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:26:07.756Z",
         "updatedAt": "2023-05-17T14:31:40.965Z",
-        "modifiedAt": "2023-05-23T01:03:06Z",
-        "sha256": "72707e5989fe1db13f9f7d4bc710d5109e7d5cc66b904028977bba9c7455a671"
+        "modifiedAt": "2023-06-12T13:58:51Z",
+        "sha256": "38b9fa1b1a13619f3e97dc74dbbf427271c2b930038f51870622c22f96d610c0"
     },
     "scripts/items/misc/anatomist/research_notes_legendary_item.json": {
         "id": 919628,
@@ -29366,14 +29366,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:28:54.563Z",
         "updatedAt": "2023-05-17T15:33:45.792Z",
-        "modifiedAt": "2023-06-01T07:06:00Z",
-        "sha256": "20b5cecd58c3987c3e3b9de236c45ee6ea116094e382648a0ad43f318238478e"
+        "modifiedAt": "2023-06-13T11:21:29Z",
+        "sha256": "013ff981ae30ad9cdf75bdff66e131be7e4d980bcd8b3c47d3625c70c8897459"
     },
     "scripts/scenarios/world/tutorial_scenario.json": {
         "id": 919980,
@@ -29984,8 +29984,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:11.135Z",
         "updatedAt": "2023-05-13T14:29:11.135Z",
-        "modifiedAt": "2023-05-13T14:29:11.147Z",
-        "sha256": "85e1bf8b4732a70bde60e5bb70bbcccd1ee4dd52e2365c826bb2935dc743053e"
+        "modifiedAt": "2023-06-13T15:45:23Z",
+        "sha256": "775d082bc10f66b690fcdaa47590140fb8d572cf118c680f1c6a6e228da1bd91"
     },
     "scripts/skills/actives/first_aid_skill.json": {
         "id": 920014,
@@ -30536,14 +30536,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:29:22.873Z",
         "updatedAt": "2023-05-13T14:29:22.873Z",
-        "modifiedAt": "2023-05-13T14:29:22.886Z",
-        "sha256": "f343cf5ccd014e81bde8aa8b625923a872412a54730524e74b8aad78a8a98bb8"
+        "modifiedAt": "2023-06-12T04:56:40Z",
+        "sha256": "500bbaf627609508ed451bdd220c91d8220f8472d29351fddf42b9062e6e7fae"
     },
     "scripts/skills/actives/insects_skill.json": {
         "id": 920045,
@@ -30776,8 +30776,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:27.763Z",
         "updatedAt": "2023-05-13T14:29:27.763Z",
-        "modifiedAt": "2023-05-13T14:29:27.78Z",
-        "sha256": "e258dfe5bdc3cd6507c0de4610d2aaf5d0f56757f382790402d8e5015849a959"
+        "modifiedAt": "2023-06-13T15:45:30Z",
+        "sha256": "c0641b39625cbc0908376e1fd3ddb1a826e3c72c124958346fcb2c8d283e4c29"
     },
     "scripts/skills/actives/lunge_skill.json": {
         "id": 920058,
@@ -32684,8 +32684,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:21.909Z",
         "updatedAt": "2023-05-13T14:30:21.909Z",
-        "modifiedAt": "2023-06-06T01:52:35Z",
-        "sha256": "3ff6ae4a844d49de735d3b5dc29492c26e4467efa1d6ce551f2074726326f0be"
+        "modifiedAt": "2023-06-12T10:28:26Z",
+        "sha256": "52b7a48dcce2b4a03aa063f0b075146f05da1f8c05bb692e84486dd2e0898397"
     },
     "scripts/skills/backgrounds/butcher_background.json": {
         "id": 920164,
@@ -33134,8 +33134,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:36.558Z",
         "updatedAt": "2023-05-13T14:30:36.558Z",
-        "modifiedAt": "2023-05-30T09:20:29Z",
-        "sha256": "90f052a6bdf2c0c9ae84be893bb1cc96bdaea458d4c77605a3f738fb5ebf59af"
+        "modifiedAt": "2023-06-13T07:54:13Z",
+        "sha256": "164a32bd173504994aeb7643a1b89322cab506b93e52133bde6028f963bb89a3"
     },
     "scripts/skills/backgrounds/gambler_southern_background.json": {
         "id": 920189,
@@ -33152,8 +33152,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:36.898Z",
         "updatedAt": "2023-05-13T14:30:36.898Z",
-        "modifiedAt": "2023-06-07T07:21:12Z",
-        "sha256": "0c71ba4d796b797279bd8340d6e503c4acf834c17be67bac1d93490f1ece52ae"
+        "modifiedAt": "2023-06-13T07:54:13Z",
+        "sha256": "c9da28a0c78e4efed26f2a9178673f6dfaea79915bef95da417f086145adb1e1"
     },
     "scripts/skills/backgrounds/gladiator_background.json": {
         "id": 920190,
@@ -33182,14 +33182,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:37.741Z",
         "updatedAt": "2023-05-13T14:30:37.741Z",
-        "modifiedAt": "2023-05-13T14:30:37.756Z",
-        "sha256": "499c7b40be464f59f305d2779a3f2421f36e49ee5e69dbaadb0761985bda57cc"
+        "modifiedAt": "2023-06-13T07:12:00Z",
+        "sha256": "1e3a011d68bd9463930b7916c52e5fcfb62e8e86502483f73d8fd94193820117"
     },
     "scripts/skills/backgrounds/graverobber_background.json": {
         "id": 920192,
@@ -33200,14 +33200,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:38.106Z",
         "updatedAt": "2023-05-13T14:30:38.106Z",
-        "modifiedAt": "2023-05-13T14:30:38.122Z",
-        "sha256": "f7e00a2c06a64b4a5bb1d99fb78604f4d554ebe0fb73f1d1bbab28a1faef22b9"
+        "modifiedAt": "2023-06-14T00:49:59Z",
+        "sha256": "5d01ef7b9fc81d3ae747b40205684ff19faa91ee1afb31a766ccc9f460f274a7"
     },
     "scripts/skills/backgrounds/hedge_knight_background.json": {
         "id": 920193,
@@ -33236,14 +33236,14 @@
         "total": 9,
         "translated": 9,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 9,
+        "reviewed": 9,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:38.802Z",
         "updatedAt": "2023-05-13T14:30:38.802Z",
-        "modifiedAt": "2023-05-13T14:30:38.818Z",
-        "sha256": "7d4c258223de712bcdbd56b6bdfb8233194a9ee8ee262a160bc3ec6d5979b7e4"
+        "modifiedAt": "2023-06-13T09:03:36Z",
+        "sha256": "7c864215919c8cd195fb0298db052c69e0182ebe9ce943f0c9354221cd3aa5a3"
     },
     "scripts/skills/backgrounds/historian_southern_background.json": {
         "id": 920195,
@@ -33254,14 +33254,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:39.151Z",
         "updatedAt": "2023-05-13T14:30:39.151Z",
-        "modifiedAt": "2023-05-13T14:30:39.163Z",
-        "sha256": "d904ec402462ac67ffcaee2f47ad3905d2e6f8cead2a678ce311974e8bbf191f"
+        "modifiedAt": "2023-06-13T08:57:57Z",
+        "sha256": "2df8124011ea58f4bffeb28c12683285c0c50a195a0866599faabe2caab11909"
     },
     "scripts/skills/backgrounds/houndmaster_background.json": {
         "id": 920196,
@@ -33704,14 +33704,14 @@
         "total": 15,
         "translated": 15,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:49.436Z",
         "updatedAt": "2023-05-13T14:30:49.436Z",
-        "modifiedAt": "2023-06-02T06:11:11Z",
-        "sha256": "65f463c46d7579c0f1e5cd535774db9786cab4dd31dac29a73229203c462a636"
+        "modifiedAt": "2023-06-12T13:57:34Z",
+        "sha256": "daecc99aa9cc907bccaad6b0dbfba4887965ea9b57b9c16296345ef3fbbc707e"
     },
     "scripts/skills/backgrounds/ratcatcher_background.json": {
         "id": 920221,
@@ -33812,14 +33812,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:51.575Z",
         "updatedAt": "2023-05-13T14:30:51.575Z",
-        "modifiedAt": "2023-05-13T14:30:51.589Z",
-        "sha256": "245d2375b4af48b990dd923a5b4b6b1fba3f91a6df1834bfffe72584311b76f6"
+        "modifiedAt": "2023-06-13T06:24:27Z",
+        "sha256": "55b9cf5434ece8db4a17260e6410feafe5fb18e02e924514d6a4de0222531f48"
     },
     "scripts/skills/backgrounds/servant_southern_background.json": {
         "id": 920227,
@@ -33830,14 +33830,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:51.925Z",
         "updatedAt": "2023-05-13T14:30:51.925Z",
-        "modifiedAt": "2023-05-13T14:30:51.939Z",
-        "sha256": "a12289effdda9a6af145190e668da966d916ae3182b6f1a4153a7de1dd49a778"
+        "modifiedAt": "2023-06-13T06:26:16Z",
+        "sha256": "04fa0b595cf53a595c6df3b1a0efbddc0d55edc66803abcde369f86a0fe59d3b"
     },
     "scripts/skills/backgrounds/shepherd_background.json": {
         "id": 920228,
@@ -33866,14 +33866,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:52.637Z",
         "updatedAt": "2023-05-13T14:30:52.637Z",
-        "modifiedAt": "2023-05-13T14:30:52.651Z",
-        "sha256": "bca777044fbf8c5ce95aae7d12c0034d368d7776e31f29d2c8869ddd42767669"
+        "modifiedAt": "2023-06-13T01:22:23Z",
+        "sha256": "f4852a82fecd535ca62aebc36b219d9a3d93e1b96cf67166f3f10fb0fe45ad4e"
     },
     "scripts/skills/backgrounds/slave_background.json": {
         "id": 920230,
@@ -33920,14 +33920,14 @@
         "total": 12,
         "translated": 12,
         "disputed": 0,
-        "checked": 7,
-        "reviewed": 7,
+        "checked": 12,
+        "reviewed": 12,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:53.673Z",
         "updatedAt": "2023-05-13T14:30:53.673Z",
-        "modifiedAt": "2023-06-09T08:42:07Z",
-        "sha256": "b6f87ec9b8718967ba16691fdec5827315f8d7ba54b743573ad16abc06c826ca"
+        "modifiedAt": "2023-06-13T02:50:40Z",
+        "sha256": "43a045e189101876c29ec60b0caeaf6b8d5136aa95c70f7af4928e065505cfbc"
     },
     "scripts/skills/backgrounds/squire_background.json": {
         "id": 920233,
@@ -33980,8 +33980,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:54.781Z",
         "updatedAt": "2023-05-13T14:30:54.781Z",
-        "modifiedAt": "2023-06-07T07:34:25Z",
-        "sha256": "34e04203ebd0cc2d7a1b68174e3c566e7b2b1936e59a75800558f13b765f16b5"
+        "modifiedAt": "2023-06-13T07:57:33Z",
+        "sha256": "f5035d0a7cd83f0c2a5936a4b61457881473d76251b745fa7e145e436326d98a"
     },
     "scripts/skills/backgrounds/tailor_southern_background.json": {
         "id": 920236,
@@ -33992,14 +33992,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:55.16Z",
         "updatedAt": "2023-05-13T14:30:55.16Z",
-        "modifiedAt": "2023-05-13T14:30:55.174Z",
-        "sha256": "89d7fdf394006df37623c72982452dcd9845269440f487fdf97030d2e50f2d35"
+        "modifiedAt": "2023-06-13T08:01:59Z",
+        "sha256": "2bd2260a6638c513b1d3080f27130612271e3468b0c9a6f0284c10986daa086d"
     },
     "scripts/skills/backgrounds/thief_background.json": {
         "id": 920237,
@@ -34010,14 +34010,14 @@
         "total": 15,
         "translated": 15,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:55.513Z",
         "updatedAt": "2023-05-13T14:30:55.513Z",
-        "modifiedAt": "2023-06-08T09:01:08Z",
-        "sha256": "54235b4e3654bbc39125fb0e834ad5ebf60600fc37aed5c7bcb43c7bc1d270b9"
+        "modifiedAt": "2023-06-12T08:54:20Z",
+        "sha256": "2ca5ada522e1e8d166cddde536125d3b7c8b41cb7a39cf23769f79efd4762c51"
     },
     "scripts/skills/backgrounds/thief_southern_background.json": {
         "id": 920238,
@@ -34046,14 +34046,14 @@
         "total": 14,
         "translated": 14,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 14,
+        "reviewed": 14,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:56.256Z",
         "updatedAt": "2023-05-13T14:30:56.256Z",
-        "modifiedAt": "2023-06-08T09:14:10Z",
-        "sha256": "8a50baf614032202d84da6732976b8e8c87b4b7647bd495b8f21c8f864f4a504"
+        "modifiedAt": "2023-06-12T10:31:14Z",
+        "sha256": "28ce83c25bd01df05275762560f9773a47802558bef1a5690aedb8ff376d8234"
     },
     "scripts/skills/backgrounds/wildman_background.json": {
         "id": 920240,
@@ -34802,14 +34802,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:12.158Z",
         "updatedAt": "2023-05-13T14:31:12.158Z",
-        "modifiedAt": "2023-05-13T14:31:12.923Z",
-        "sha256": "585bf614c94bb20c0a79785c0773dbdd5b35e69d54f0db104cfd469348365253"
+        "modifiedAt": "2023-06-12T04:56:47Z",
+        "sha256": "2b2a89bbd07a488ed8b89f8567a174b323d84870321ccc837e6cc35678bbf6fc"
     },
     "scripts/skills/effects/insect_swarm_effect.json": {
         "id": 920282,
@@ -35780,8 +35780,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:41.429Z",
         "updatedAt": "2023-05-13T14:31:41.429Z",
-        "modifiedAt": "2023-06-11T13:58:35Z",
-        "sha256": "defdd817d259ff1a000faef405181b8a8071107f6b8c638d685366d58c525db4"
+        "modifiedAt": "2023-06-12T10:28:31Z",
+        "sha256": "fa34d0c74defe0f6c175e2b6ee82dd423cb6bba31a73a489b16c8ec21764b954"
     },
     "scripts/skills/effects/withered_effect.json": {
         "id": 920336,
@@ -35882,14 +35882,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:43.957Z",
         "updatedAt": "2023-05-13T14:31:43.957Z",
-        "modifiedAt": "2023-05-13T14:31:43.971Z",
-        "sha256": "cc8b0a20dcdb2acbf85ced6fec468860ca596482ab8a9c2344d251f221a65687"
+        "modifiedAt": "2023-06-13T08:58:16Z",
+        "sha256": "3c3c8a8ff5bc6469d5d25e48f56fc3af01dd300fe1fb93dabbc7bd5aa90454c9"
     },
     "scripts/skills/effects_world/new_knowledge_potion_effect.json": {
         "id": 920342,
@@ -37682,14 +37682,14 @@
         "total": 9,
         "translated": 9,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:31.04Z",
         "updatedAt": "2023-05-13T14:32:31.04Z",
-        "modifiedAt": "2023-05-26T15:02:36Z",
-        "sha256": "89417fdd6372a5b1db7dceff52f67fa806188f3bf473997466fe0771c1b2566c"
+        "modifiedAt": "2023-06-12T10:49:07Z",
+        "sha256": "e78b4347b8ca5fe9998aec9c1ec5a1ca55a8ab672570a55bcadca78c9c7bdbbb"
     },
     "scripts/skills/traits/asthmatic_trait.json": {
         "id": 920442,
@@ -37844,14 +37844,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:34.777Z",
         "updatedAt": "2023-05-13T14:32:34.777Z",
-        "modifiedAt": "2023-05-27T14:18:12Z",
-        "sha256": "1610c96c9a82ffb4880b7521c8201f2f27bc5fe28e9ff655794ccabb96b200b2"
+        "modifiedAt": "2023-06-13T01:05:40Z",
+        "sha256": "02a3411daa04c1b4dab1f5b8dce0a5fbf54b8ce8fc68ace829c68c1350984b9e"
     },
     "scripts/skills/traits/cocky_trait.json": {
         "id": 920451,
@@ -38258,14 +38258,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:43.934Z",
         "updatedAt": "2023-05-13T14:32:43.934Z",
-        "modifiedAt": "2023-05-13T14:32:43.947Z",
-        "sha256": "e754cf2f0b2213cc0944f1e0f7a1937fb64188e5673c110e1d3c93dd91050499"
+        "modifiedAt": "2023-06-13T01:06:40Z",
+        "sha256": "656ed103346261776b94da23d4deca506ac5feeb0f432e74f9b8526f9453238a"
     },
     "scripts/skills/traits/glorious_endurance_trait.json": {
         "id": 920474,
@@ -38498,8 +38498,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:49.171Z",
         "updatedAt": "2023-05-13T14:32:49.171Z",
-        "modifiedAt": "2023-06-11T13:58:32Z",
-        "sha256": "abe355b7f3ec7bad46edcd63e523120cfea15e8fa5b9f88448cc2cd1013d6e19"
+        "modifiedAt": "2023-06-12T10:28:32Z",
+        "sha256": "f6f992206ad1af77048a0317fdf4c2f3dd22a0d227f146d68e5043e1d49e27d9"
     },
     "scripts/skills/traits/iron_lungs_trait.json": {
         "id": 920487,
@@ -38528,14 +38528,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:49.833Z",
         "updatedAt": "2023-05-13T14:32:49.833Z",
-        "modifiedAt": "2023-06-02T01:15:24Z",
-        "sha256": "ef39bef61f07459fe2d0e8b1d97d9292f60b670bd6c6c8863315efc2a8755999"
+        "modifiedAt": "2023-06-13T01:03:37Z",
+        "sha256": "658f96a7299a022019602e60723f3e861349e198ea5444a4402f813a8b6a5c4e"
     },
     "scripts/skills/traits/loyal_trait.json": {
         "id": 920489,
@@ -38960,14 +38960,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:58.722Z",
         "updatedAt": "2023-05-13T14:32:58.722Z",
-        "modifiedAt": "2023-05-13T14:32:58.736Z",
-        "sha256": "6fd67299305ea28e6048e72747c6c03cee6f8e9e590bd3418f5ebbc271c52b6d"
+        "modifiedAt": "2023-06-13T01:04:40Z",
+        "sha256": "c4919f9737adcc456cbffe890f43b8ba6536df204d4fb154bccc3183d9e58c5b"
     },
     "scripts/skills/traits/spartan_trait.json": {
         "id": 920513,
@@ -39050,14 +39050,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 7,
+        "reviewed": 7,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:00.336Z",
         "updatedAt": "2023-05-13T14:33:00.336Z",
-        "modifiedAt": "2023-06-08T02:57:59Z",
-        "sha256": "4aed798520fb09c12717ccf5a0903cafbb7bde67370f0595be8902aff6401f79"
+        "modifiedAt": "2023-06-12T10:48:55Z",
+        "sha256": "c3c089b3de1471cfd262f7a1b73a7b0884e951c631187ae461f43622a9e55e66"
     },
     "scripts/skills/traits/swift_trait.json": {
         "id": 920518,
@@ -39104,14 +39104,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 8,
+        "reviewed": 8,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:01.313Z",
         "updatedAt": "2023-05-13T14:33:01.313Z",
-        "modifiedAt": "2023-05-26T15:23:59Z",
-        "sha256": "3249d1c89ecce54bb95d5b85a86884624e08ddb5e381db710c55a1479bd0bbeb"
+        "modifiedAt": "2023-06-13T01:10:45Z",
+        "sha256": "6c3cc69bbc1795de6b547a4e840a3d685af7c1c332c5b452ce376c65f83c37af"
     },
     "scripts/skills/traits/tough_trait.json": {
         "id": 920521,
@@ -39140,14 +39140,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 7,
+        "reviewed": 7,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:01.974Z",
         "updatedAt": "2023-05-13T14:33:01.974Z",
-        "modifiedAt": "2023-06-11T14:08:39Z",
-        "sha256": "214f4d3716d1857119703eebae9e5335b499fef4369b8cb9f9114d10fc470374"
+        "modifiedAt": "2023-06-12T10:42:44Z",
+        "sha256": "aa4ad99f50445a5cacf580de14585fd69e2dba00ae871a31541942ed9b2c79e7"
     },
     "scripts/states/main_menu_state.json": {
         "id": 920523,
@@ -39194,14 +39194,14 @@
         "total": 29,
         "translated": 29,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:03.221Z",
         "updatedAt": "2023-05-17T15:33:51.944Z",
-        "modifiedAt": "2023-05-17T15:33:52Z",
-        "sha256": "1aba234936db251e9160803b101dafce80e11a79a142f9bf258e92e52c019147"
+        "modifiedAt": "2023-06-12T11:02:20Z",
+        "sha256": "3398951f58b51923357946f0a2913bb495aa9075a6ae0d60c6cc8f1758100071"
     },
     "scripts/states/world_state.json": {
         "id": 920526,
@@ -39212,14 +39212,14 @@
         "total": 38,
         "translated": 38,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:03.571Z",
         "updatedAt": "2023-05-13T14:33:03.571Z",
-        "modifiedAt": "2023-05-13T14:33:03.59Z",
-        "sha256": "48eec5e2b89254a6a5493627427ab2e77da67813200e272ac2d842f86ecf0bd1"
+        "modifiedAt": "2023-06-12T13:57:34Z",
+        "sha256": "76824c971fc8cced484b080e85125eb51a5ae181b97392f0bd952698b385616d"
     },
     "scripts/ui/global/menu_stack.json": {
         "id": 920527,
@@ -39320,14 +39320,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:07.383Z",
         "updatedAt": "2023-05-17T15:33:54.536Z",
-        "modifiedAt": "2023-05-17T15:33:55Z",
-        "sha256": "cc1edf9d03f715a0d62d350b14f014e5bf7f77a02f73d1772fa2111b1424ebaa"
+        "modifiedAt": "2023-06-12T13:19:05Z",
+        "sha256": "5756f13c49683e948ed240ad9b86e5eccf43e81c0fb4bd67771897b2fcc76bbc"
     },
     "scripts/ui/screens/world/modules/world_campfire_screen/campfire_main_dialog_module.json": {
         "id": 920533,

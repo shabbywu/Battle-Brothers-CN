@@ -179,8 +179,8 @@
     "ID": 293405661,
     "key": "Black Mole Woods",
     "original": "Black Mole Woods",
-    "translation": "黑鼹鼠伍兹(Black Mole Woods)",
-    "stage": 1
+    "translation": "黑鼹鼠森林(Black Mole Woods)",
+    "stage": 5
   },
   {
     "ID": 293405662,
@@ -214,8 +214,8 @@
     "ID": 293405666,
     "key": "Wall of the Gods",
     "original": "Wall of the Gods",
-    "translation": "墙 诸神(Wall of the Gods)",
-    "stage": 1
+    "translation": "诸神之墙(Wall of the Gods)",
+    "stage": 5
   },
   {
     "ID": 293405667,
@@ -243,7 +243,7 @@
     "key": "Dawnland",
     "original": "Dawnland",
     "translation": "黎明之地(Dawnland)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405671,
@@ -433,15 +433,15 @@
     "ID": 293405697,
     "key": "Sylvan Woods",
     "original": "Sylvan Woods",
-    "translation": "西尔万伍兹(Sylvan Woods)",
-    "stage": 1
+    "translation": "繁茂树林(Sylvan Woods)",
+    "stage": 5
   },
   {
     "ID": 293405698,
     "key": "Mortars",
     "original": "Mortars",
-    "translation": "迫击炮",
-    "stage": 1
+    "translation": "臼炮",
+    "stage": 5
   },
   {
     "ID": 293405699,
@@ -531,8 +531,8 @@
     "ID": 293405711,
     "key": "Bloodcut Growth",
     "original": "Bloodcut Growth",
-    "translation": "断血增长(Bloodcut Growth)",
-    "stage": 1
+    "translation": "血痕生长地(Bloodcut Growth)",
+    "stage": 5
   },
   {
     "ID": 293405712,
@@ -567,7 +567,7 @@
     "key": "Nachzehrers",
     "original": "Nachzehrers",
     "translation": "食尸鬼",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405717,
@@ -588,7 +588,7 @@
     "key": "Goblin Overseers",
     "original": "Goblin Overseers",
     "translation": "地精监督者",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405720,
@@ -615,8 +615,8 @@
     "ID": 293405723,
     "key": "The Pale Expanse",
     "original": "The Pale Expanse",
-    "translation": "苍白的广阔(The Pale Expanse)",
-    "stage": 1
+    "translation": "苍白大平原(The Pale Expanse)",
+    "stage": 5
   },
   {
     "ID": 293405724,
@@ -694,7 +694,7 @@
     "key": "Hexen",
     "original": "Hexen",
     "translation": "女巫",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405735,
@@ -764,8 +764,8 @@
     "ID": 293405744,
     "key": "Ancient Cairns",
     "original": "Ancient Cairns",
-    "translation": "古凯恩斯(Ancient Cairns)",
-    "stage": 1
+    "translation": "远古石堆群(Ancient Cairns)",
+    "stage": 5
   },
   {
     "ID": 293405745,
@@ -793,21 +793,21 @@
     "key": "Angbride",
     "original": "Angbride",
     "translation": "安布里德(Angbride)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405749,
     "key": "Refugees",
     "original": "Refugees",
     "translation": "难民",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405750,
     "key": "Schrat",
     "original": "Schrat",
     "translation": "树人",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405751,
@@ -821,14 +821,14 @@
     "key": "Dogs of War",
     "original": "Dogs of War",
     "translation": "战犬(Dogs of War)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405753,
     "key": "Barbarian Beastmasters",
     "original": "Barbarian Beastmasters",
     "translation": "野蛮人兽王",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405754,
@@ -856,14 +856,14 @@
     "key": "Gladiator",
     "original": "Gladiator",
     "translation": "角斗士",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405758,
     "key": "]15%[/color] bonus to Melee Skill, Ranged Skill, Melee Defense, Ranged Defense, and Resolve.",
     "original": "]15%[/color] bonus to Melee Skill, Ranged Skill, Melee Defense, Ranged Defense, and Resolve.",
     "translation": "]15%[/color]的近战技能、远程技能、近战防御、远程防御和决心的加成。",
-    "stage": 1,
+    "stage": 5,
     "context": "'I work best alone. With no ally within 3 tiles of distance, gain a [color=' + this.Const.UI.Color.PositiveValue + ']15%[/color] bonus to Melee Skill, Ranged Skill, Melee Defense, Ranged Defense, and Resolve.'"
   },
   {
@@ -886,7 +886,7 @@
     "ID": 293405761,
     "key": "Mortar",
     "original": "Mortar",
-    "translation": "炮手",
+    "translation": "臼炮",
     "stage": 1
   },
   {
@@ -908,7 +908,7 @@
     "key": "Brawny",
     "original": "Brawny",
     "translation": "强壮",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405765,
@@ -922,7 +922,7 @@
     "key": "Goblin Shaman",
     "original": "Goblin Shaman",
     "translation": "地精萨满",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405767,
@@ -1048,7 +1048,7 @@
     "key": "Orc Young",
     "original": "Orc Young",
     "translation": "兽人青年",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405785,
@@ -1154,8 +1154,8 @@
     "ID": 293405799,
     "key": "Wretched Woods",
     "original": "Wretched Woods",
-    "translation": "可怜的树林(Wretched Woods)",
-    "stage": 1
+    "translation": "悲惨林地(Wretched Woods)",
+    "stage": 5
   },
   {
     "ID": 293405800,
@@ -1184,8 +1184,8 @@
     "ID": 293405803,
     "key": "Swellpike Heights",
     "original": "Swellpike Heights",
-    "translation": "斯威派克高地(Swellpike Heights)",
-    "stage": 1
+    "translation": "胀矛高地(Swellpike Heights)",
+    "stage": 5
   },
   {
     "ID": 293405804,
@@ -1304,8 +1304,8 @@
     "ID": 293405820,
     "key": "Howling Wastes",
     "original": "Howling Wastes",
-    "translation": "嚎叫的废物(Howling Wastes)",
-    "stage": 1
+    "translation": "嚎叫废土(Howling Wastes)",
+    "stage": 5
   },
   {
     "ID": 293405821,
@@ -1691,7 +1691,7 @@
     "key": "Red Lowlands",
     "original": "Red Lowlands",
     "translation": "红色低地(Red Lowlands)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405875,
@@ -1810,7 +1810,7 @@
     "key": "Gunner",
     "original": "Gunner",
     "translation": "炮手",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405892,
@@ -2022,8 +2022,8 @@
     "ID": 293405921,
     "key": "Misty Barrows",
     "original": "Misty Barrows",
-    "translation": "迷雾手推车(Misty Barrows)",
-    "stage": 1
+    "translation": "迷雾墓丘(Misty Barrows)",
+    "stage": 5
   },
   {
     "ID": 293405922,
@@ -2064,8 +2064,8 @@
     "ID": 293405927,
     "key": "Scree Barrows",
     "original": "Scree Barrows",
-    "translation": "碎石手推车(Scree Barrows)",
-    "stage": 1
+    "translation": "石砾墓丘(Scree Barrows)",
+    "stage": 5
   },
   {
     "ID": 293405928,
@@ -2128,8 +2128,8 @@
     "ID": 293405936,
     "key": "Norenford",
     "original": "Norenford",
-    "translation": "诺伦福德(Norenford)",
-    "stage": 1
+    "translation": "北境河流之地(Norenford)",
+    "stage": 5
   },
   {
     "ID": 293405937,
@@ -2149,8 +2149,8 @@
     "ID": 293405939,
     "key": "Unlocks the 'Indomitable' skill which grants a [color=",
     "original": "Unlocks the 'Indomitable' skill which grants a [color=",
-    "translation": "解锁 '不屈不挠' 技能，该技能给予[color=",
-    "stage": 1,
+    "translation": "解锁 '不屈' 技能，该技能给予[color=",
+    "stage": 5,
     "context": "\"Unlocks the 'Indomitable' skill which grants a [color=\" + this.Const.UI.Color.PositiveValue + ']50%[/color] damage reduction and immunity to being stunned, knocked back or grabbed for one turn.'"
   },
   {
@@ -2178,8 +2178,8 @@
     "ID": 293405943,
     "key": "Highrise",
     "original": "Highrise",
-    "translation": "高楼(Highrise)",
-    "stage": 1
+    "translation": "高耸之地(Highrise)",
+    "stage": 5
   },
   {
     "ID": 293405944,
@@ -2256,8 +2256,8 @@
     "ID": 293405954,
     "key": "Southbloom",
     "original": "Southbloom",
-    "translation": "绍斯布鲁姆(Southbloom)",
-    "stage": 1
+    "translation": "南方之芳草(Southbloom)",
+    "stage": 5
   },
   {
     "ID": 293405955,
@@ -2491,15 +2491,15 @@
     "ID": 293405987,
     "key": "Bleakwolds",
     "original": "Bleakwolds",
-    "translation": "荒凉世界(Bleakwolds)",
-    "stage": 1
+    "translation": "荒凉丘陵(Bleakwolds)",
+    "stage": 5
   },
   {
     "ID": 293405988,
     "key": "Jagged Summit",
     "original": "Jagged Summit",
-    "translation": "锯齿峰(Jagged Summit)",
-    "stage": 1
+    "translation": "锯齿山顶(Jagged Summit)",
+    "stage": 5
   },
   {
     "ID": 293405989,
@@ -2568,8 +2568,8 @@
     "ID": 293405998,
     "key": "Juniper Hills",
     "original": "Juniper Hills",
-    "translation": "杜松山(Juniper Hills)",
-    "stage": 1
+    "translation": "杜松山丘(Juniper Hills)",
+    "stage": 5
   },
   {
     "ID": 293405999,
@@ -2674,8 +2674,8 @@
     "ID": 293406013,
     "key": "Prowlers Woods",
     "original": "Prowlers Woods",
-    "translation": "徘徊者伍兹(Prowlers Woods)",
-    "stage": 1
+    "translation": "小偷森林(Prowlers Woods)",
+    "stage": 5
   },
   {
     "ID": 293406014,
@@ -2717,8 +2717,8 @@
     "ID": 293406019,
     "key": "Jagged Spires",
     "original": "Jagged Spires",
-    "translation": "锯齿状尖顶(Jagged Spires)",
-    "stage": 1
+    "translation": "锯齿峰群(Jagged Spires)",
+    "stage": 5
   },
   {
     "ID": 293406020,
@@ -2795,8 +2795,8 @@
     "ID": 293406030,
     "key": "Brittle Branch Woods",
     "original": "Brittle Branch Woods",
-    "translation": "脆枝伍兹(Brittle Branch Woods)",
-    "stage": 1
+    "translation": "脆枝森林(Brittle Branch Woods)",
+    "stage": 5
   },
   {
     "ID": 293406031,
@@ -2902,7 +2902,7 @@
     "key": "Golden Valley",
     "original": "Golden Valley",
     "translation": "金谷(Golden Valley)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406046,
@@ -3670,8 +3670,8 @@
     "ID": 293406154,
     "key": "Rustdroop",
     "original": "Rustdroop",
-    "translation": "锈迹斑斑(Rustdroop)",
-    "stage": 1
+    "translation": "锈滴林(Rustdroop)",
+    "stage": 5
   },
   {
     "ID": 293406155,
@@ -3700,8 +3700,8 @@
     "ID": 293406158,
     "key": "Black Woods",
     "original": "Black Woods",
-    "translation": "黑森林(Black Woods)",
-    "stage": 1
+    "translation": "黑树林(Black Woods)",
+    "stage": 5
   },
   {
     "ID": 293406159,
@@ -3749,8 +3749,8 @@
     "ID": 293406165,
     "key": "Dry Wastes",
     "original": "Dry Wastes",
-    "translation": "干废物(Dry Wastes)",
-    "stage": 1
+    "translation": "干燥废土(Dry Wastes)",
+    "stage": 5
   },
   {
     "ID": 293406166,
@@ -3778,7 +3778,7 @@
     "key": "Steel Brow",
     "original": "Steel Brow",
     "translation": "钢头",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406170,
@@ -3813,7 +3813,7 @@
     "key": "Nachzehrer",
     "original": "Nachzehrer",
     "translation": "食尸鬼",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406175,
@@ -3942,7 +3942,7 @@
     "key": "Black Forest",
     "original": "Black Forest",
     "translation": "黑森林(Black Forest)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406193,
@@ -4147,8 +4147,8 @@
     "ID": 293406221,
     "key": "Engineers",
     "original": "Engineers",
-    "translation": "工程师",
-    "stage": 1
+    "translation": "火炮技师",
+    "stage": 5
   },
   {
     "ID": 293406222,
@@ -4239,7 +4239,7 @@
     "key": "Neumark",
     "original": "Neumark",
     "translation": "纽马克(Neumark)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406235,
@@ -4262,14 +4262,14 @@
     "key": "Great Sea",
     "original": "Great Sea",
     "translation": "大海(Great Sea)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406238,
     "key": "The Hummocks",
     "original": "The Hummocks",
-    "translation": "小丘(The Hummocks)",
-    "stage": 1
+    "translation": "小丘群(The Hummocks)",
+    "stage": 5
   },
   {
     "ID": 293406239,
@@ -4410,8 +4410,8 @@
     "ID": 293406258,
     "key": "Minceacre",
     "original": "Minceacre",
-    "translation": "肉糜(Minceacre)",
-    "stage": 1
+    "translation": "碎肉耕地(Minceacre)",
+    "stage": 5
   },
   {
     "ID": 293406259,
@@ -4687,8 +4687,8 @@
     "ID": 293406297,
     "key": "Spear Mastery",
     "original": "Spear Mastery",
-    "translation": "长矛精通",
-    "stage": 1
+    "translation": "矛精通",
+    "stage": 5
   },
   {
     "ID": 293406298,
@@ -4723,8 +4723,8 @@
     "ID": 293406302,
     "key": "Engineer",
     "original": "Engineer",
-    "translation": "工程师",
-    "stage": 1
+    "translation": "火炮技师",
+    "stage": 5
   },
   {
     "ID": 293406303,
@@ -4796,7 +4796,7 @@
     "key": "Lowlands",
     "original": "Lowlands",
     "translation": "低地(Lowlands)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406313,
@@ -5168,8 +5168,8 @@
     "ID": 293406365,
     "key": "Elder Woods",
     "original": "Elder Woods",
-    "translation": "长老伍兹(Elder Woods)",
-    "stage": 1
+    "translation": "长老森林(Elder Woods)",
+    "stage": 5
   },
   {
     "ID": 293406366,
@@ -5324,8 +5324,8 @@
     "ID": 293406387,
     "key": "Nomads",
     "original": "Nomads",
-    "translation": "游牧民族",
-    "stage": 1
+    "translation": "游牧民(Nomads)",
+    "stage": 5
   },
   {
     "ID": 293406388,
@@ -5444,8 +5444,8 @@
     "ID": 293406404,
     "key": "Glenmore Barrows",
     "original": "Glenmore Barrows",
-    "translation": "格伦莫尔手推车(Glenmore Barrows)",
-    "stage": 1
+    "translation": "格伦莫尔墓丘(Glenmore Barrows)",
+    "stage": 5
   },
   {
     "ID": 293406405,
@@ -5960,14 +5960,14 @@
     "key": "Blackwood Forest",
     "original": "Blackwood Forest",
     "translation": "黑木森林(Blackwood Forest)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406478,
     "key": "Brimstone Shoulders",
     "original": "Brimstone Shoulders",
-    "translation": "硫磺护肩(Brimstone Shoulders)",
-    "stage": 1
+    "translation": "硫磺山肩(Brimstone Shoulders)",
+    "stage": 5
   },
   {
     "ID": 293406479,
@@ -6454,7 +6454,7 @@
     "key": "Holmburn",
     "original": "Holmburn",
     "translation": "霍姆本(Holmburn)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406547,
@@ -6588,15 +6588,15 @@
     "ID": 293406565,
     "key": "Ancient Knolls",
     "original": "Ancient Knolls",
-    "translation": "古代小丘(Ancient Knolls)",
-    "stage": 1
+    "translation": "远古小丘(Ancient Knolls)",
+    "stage": 5
   },
   {
     "ID": 293406566,
     "key": "Eagleflight",
     "original": "Eagleflight",
-    "translation": "鹰飞(Eagleflight)",
-    "stage": 1
+    "translation": "鹰翔岭(Eagleflight)",
+    "stage": 5
   },
   {
     "ID": 293406567,
@@ -6939,7 +6939,7 @@
     "key": "Ravensbeak",
     "original": "Ravensbeak",
     "translation": "鸦喙(Ravensbeak)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406615,
@@ -7001,8 +7001,8 @@
     "ID": 293406623,
     "key": "Southwind Acres",
     "original": "Southwind Acres",
-    "translation": "南风英亩(Southwind Acres)",
-    "stage": 1
+    "translation": "南风耕地(Southwind Acres)",
+    "stage": 5
   },
   {
     "ID": 293406624,
@@ -7229,7 +7229,7 @@
     "key": "Barum",
     "original": "Barum",
     "translation": "巴鲁姆(Barum)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406656,
@@ -7273,8 +7273,8 @@
     "ID": 293406661,
     "key": "Coldend",
     "original": "Coldend",
-    "translation": "冷端(Coldend)",
-    "stage": 1
+    "translation": "冰冷尽头(Coldend)",
+    "stage": 5
   },
   {
     "ID": 293406662,
@@ -7461,7 +7461,7 @@
     "key": "Suderland",
     "original": "Suderland",
     "translation": "苏德兰(Suderland)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406688,
@@ -7525,8 +7525,8 @@
     "ID": 293406696,
     "key": "Sandshear",
     "original": "Sandshear",
-    "translation": "沙剪(Sandshear)",
-    "stage": 1
+    "translation": "沙削地(Sandshear)",
+    "stage": 5
   },
   {
     "ID": 293406697,
@@ -7857,7 +7857,7 @@
     "key": "The Ghostly Plains",
     "original": "The Ghostly Plains",
     "translation": "幽灵平原(The Ghostly Plains)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406744,
@@ -8310,7 +8310,7 @@
     "key": "Kingmill",
     "original": "Kingmill",
     "translation": "金米尔(Kingmill)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406808,
@@ -8337,8 +8337,8 @@
     "ID": 293406811,
     "key": "Timeless Sands",
     "original": "Timeless Sands",
-    "translation": "永恒之沙(Timeless Sands)",
-    "stage": 1
+    "translation": "永恒沙地(Timeless Sands)",
+    "stage": 5
   },
   {
     "ID": 293406812,
@@ -8467,8 +8467,8 @@
     "ID": 293406829,
     "key": "Rocky Ridge",
     "original": "Rocky Ridge",
-    "translation": "落基岭(Rocky Ridge)",
-    "stage": 1
+    "translation": "岩石山脊(Rocky Ridge)",
+    "stage": 5
   },
   {
     "ID": 293406830,

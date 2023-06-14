@@ -217,8 +217,8 @@
     "ID": 293408109,
     "key": "Conscripted soldiers loyal to their city state.",
     "original": "Conscripted soldiers loyal to their city state.",
-    "translation": "忠于城邦的应征士兵。",
-    "stage": 1
+    "translation": "忠于城邦的应征士兵们。",
+    "stage": 5
   },
   {
     "ID": 293408110,
@@ -317,8 +317,8 @@
     "ID": 293408123,
     "key": "Regiment of ",
     "original": "Regiment of ",
-    "translation": "一队",
-    "stage": 1,
+    "translation": "团",
+    "stage": 5,
     "context": "'Regiment of ' + candidates.this.Math.rand(0, candidates.len() - 1).getNameOnly()"
   },
   {

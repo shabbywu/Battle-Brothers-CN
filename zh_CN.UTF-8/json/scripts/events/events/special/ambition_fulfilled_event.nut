@@ -33,7 +33,7 @@
     "ID": 293416884,
     "key": "Gained confidence in your leadership",
     "original": "Gained confidence in your leadership",
-    "translation": "对你的领导有信心",
-    "stage": 1
+    "translation": "对你的领导能力有了信心",
+    "stage": 5
   }
 ]

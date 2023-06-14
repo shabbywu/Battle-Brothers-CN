@@ -11,7 +11,7 @@
     "key": " suffers ",
     "original": " suffers ",
     "translation": " 遭受 ",
-    "stage": 1,
+    "stage": 5,
     "context": "bro.getName() + ' suffers ' + injury.getNameOnly()"
   },
   {
@@ -64,8 +64,8 @@
     "ID": 293412889,
     "key": " is exhausted",
     "original": " is exhausted",
-    "translation": "是筋疲力尽的",
-    "stage": 1,
+    "translation": "筋疲力尽了",
+    "stage": 5,
     "context": "bro.getName() + ' is exhausted'"
   },
   {

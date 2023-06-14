@@ -26,7 +26,7 @@
     "key": " suffers ",
     "original": " suffers ",
     "translation": " 遭受 ",
-    "stage": 1,
+    "stage": 5,
     "context": "_event.m.Gambler.getName() + ' suffers ' + injury.getNameOnly()"
   },
   {

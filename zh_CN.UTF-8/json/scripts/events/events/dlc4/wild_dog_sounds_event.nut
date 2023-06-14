@@ -55,8 +55,8 @@
     "ID": 293414464,
     "key": " is exhausted",
     "original": " is exhausted",
-    "translation": "是筋疲力尽的",
-    "stage": 1,
+    "translation": "筋疲力尽了",
+    "stage": 5,
     "context": "bro.getName() + ' is exhausted'"
   },
   {

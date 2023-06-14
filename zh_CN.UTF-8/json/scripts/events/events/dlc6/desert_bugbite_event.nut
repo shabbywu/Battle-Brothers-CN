@@ -32,8 +32,8 @@
     "ID": 293414645,
     "key": " is exhausted",
     "original": " is exhausted",
-    "translation": "是筋疲力尽的",
-    "stage": 1,
+    "translation": "筋疲力尽了",
+    "stage": 5,
     "context": "_event.m.SomeGuy.getName() + ' is exhausted'"
   }
 ]

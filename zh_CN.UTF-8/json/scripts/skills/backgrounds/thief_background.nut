@@ -32,8 +32,8 @@
     "ID": 293421348,
     "key": "the Raven",
     "original": "the Raven",
-    "translation": "乌鸦",
-    "stage": 1
+    "translation": "乌鸦(the Raven)",
+    "stage": 5
   },
   {
     "ID": 293421349,

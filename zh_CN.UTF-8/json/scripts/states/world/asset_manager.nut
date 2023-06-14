@@ -50,14 +50,14 @@
     "key": "Did not get paid",
     "original": "Did not get paid",
     "translation": "没有得到工资",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422852,
     "key": "Did go hungry",
     "original": "Did go hungry",
     "translation": "总挨饿",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422853,

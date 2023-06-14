@@ -224,8 +224,8 @@
     "ID": 293409563,
     "key": "Orc Marauders",
     "original": "Orc Marauders",
-    "translation": "兽人收割者",
-    "stage": 1
+    "translation": "兽人掳掠者",
+    "stage": 5
   },
   {
     "ID": 293409564,
@@ -302,8 +302,8 @@
     "ID": 293409574,
     "key": "A band of desert raiders preying on anyone trying to cross the seas of sand.",
     "original": "A band of desert raiders preying on anyone trying to cross the seas of sand.",
-    "translation": "一群沙漠掠夺者捕食任何试图穿越沙海的人。",
-    "stage": 1
+    "translation": "一群沙漠掠夺者，狩猎任何试图穿越沙海的人。",
+    "stage": 5
   },
   {
     "ID": 293409575,
@@ -359,8 +359,8 @@
     "ID": 293409582,
     "key": "Nomads",
     "original": "Nomads",
-    "translation": "游牧民族",
-    "stage": 1
+    "translation": "游牧民(Nomads)",
+    "stage": 5
   },
   {
     "ID": 293409583,
