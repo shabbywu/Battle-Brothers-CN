@@ -70,8 +70,8 @@
     "ID": 293415345,
     "key": " is now a Regent in Absentia",
     "original": " is now a Regent in Absentia",
-    "translation": "现在成为了一名缺席的摄政者。",
-    "stage": 1,
+    "translation": "现在是一名缺席的统治者",
+    "stage": 5,
     "context": "_event.m.Disowned.getName() + ' is now a Regent in Absentia'"
   },
   {

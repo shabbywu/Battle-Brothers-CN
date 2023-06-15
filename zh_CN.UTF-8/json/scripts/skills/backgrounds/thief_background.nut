@@ -18,15 +18,15 @@
     "ID": 293421346,
     "key": "the Burglar",
     "original": "the Burglar",
-    "translation": "小偷(the Burglar)",
-    "stage": 1
+    "translation": "恶贼(the Burglar)",
+    "stage": 5
   },
   {
     "ID": 293421347,
     "key": "the Snatcher",
     "original": "the Snatcher",
-    "translation": "抓子(the Snatcher)",
-    "stage": 1
+    "translation": "抢掠者(the Snatcher)",
+    "stage": 5
   },
   {
     "ID": 293421348,
@@ -39,22 +39,22 @@
     "ID": 293421349,
     "key": "the Thief",
     "original": "the Thief",
-    "translation": "小偷(the Thief)",
-    "stage": 1
+    "translation": "盗贼(the Thief)",
+    "stage": 5
   },
   {
     "ID": 293421350,
     "key": "the Black Cat",
     "original": "the Black Cat",
     "translation": "黑猫(the Black Cat)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293421351,
     "key": "Quickfingers",
     "original": "Quickfingers",
-    "translation": "灵手(Quickfingers)",
-    "stage": 1
+    "translation": "快指(Quickfingers)",
+    "stage": 5
   },
   {
     "ID": 293421352,
@@ -76,7 +76,7 @@
     "key": "the Prince",
     "original": "the Prince",
     "translation": "王子(the Prince)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293421355,
@@ -90,23 +90,23 @@
     "ID": 293421356,
     "key": "the Cutpurse",
     "original": "the Cutpurse",
-    "translation": "小偷(the Cutpurse)",
-    "stage": 1
+    "translation": "掏包儿(the Cutpurse)",
+    "stage": 5
   },
   {
     "ID": 293421357,
     "key": "A good thief will have quick reflexes and the ability to evade any captors.",
     "original": "A good thief will have quick reflexes and the ability to evade any captors.",
-    "translation": "一个好的小偷会有很快的反应能力和躲避任何抓捕者的能力。",
-    "stage": 1,
+    "translation": "一个厉害的盗贼会有快速的反应力和躲避任何抓捕者的能力。",
+    "stage": 5,
     "context": "this.m.BackgroundDescription = 'A good thief will have quick reflexes and the ability to evade any captors.'"
   },
   {
     "ID": 293421358,
     "key": "Thief",
     "original": "Thief",
-    "translation": "小偷(Thief)",
-    "stage": 1,
+    "translation": "盗贼",
+    "stage": 5,
     "context": "this.m.Name = 'Thief'"
   }
 ]
