@@ -12428,14 +12428,14 @@
         "total": 22,
         "translated": 22,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:51.167Z",
         "updatedAt": "2023-05-26T04:50:28.254Z",
-        "modifiedAt": "2023-05-26T04:50:28Z",
-        "sha256": "18fe839e54d258e8e02e3d6eea3d5ea7a08aeb8678373e1efc489a5a9c0fb4be"
+        "modifiedAt": "2023-06-14T09:18:36Z",
+        "sha256": "6a1aa3f7d29157dccb25b511abbe82c1a165355ddd377ecfb5fb8690defe7065"
     },
     "scripts/events/events/dlc8/eunuch_vs_insecure_event.json": {
         "id": 919039,
@@ -33200,14 +33200,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:38.106Z",
         "updatedAt": "2023-05-13T14:30:38.106Z",
-        "modifiedAt": "2023-06-14T00:49:59Z",
-        "sha256": "5d01ef7b9fc81d3ae747b40205684ff19faa91ee1afb31a766ccc9f460f274a7"
+        "modifiedAt": "2023-06-14T01:58:31Z",
+        "sha256": "478e9334bcc42f35b069e18fa1dca6d4de6fa1b86420a25ac69ee5f91ec25df4"
     },
     "scripts/skills/backgrounds/hedge_knight_background.json": {
         "id": 920193,
@@ -33380,14 +33380,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 8,
+        "reviewed": 8,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:43.062Z",
         "updatedAt": "2023-05-26T04:50:40.865Z",
-        "modifiedAt": "2023-05-31T01:39:01Z",
-        "sha256": "f16a9ff897ac8356e25e80cf5fd2dc47f4137166304155983d5b8adc75f1d5db"
+        "modifiedAt": "2023-06-14T09:10:14Z",
+        "sha256": "505b6b233f729600443b60978db80d29e98c619fa8e85e3b59d6f858d3ea0364"
     },
     "scripts/skills/backgrounds/manhunter_background.json": {
         "id": 920203,
@@ -33668,14 +33668,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:48.744Z",
         "updatedAt": "2023-05-13T14:30:48.744Z",
-        "modifiedAt": "2023-05-13T14:30:48.757Z",
-        "sha256": "f0731b7b9d5caab2d156e44a6ada2a743dd9a4cca4683b51d46c617b47efd6a1"
+        "modifiedAt": "2023-06-14T09:12:32Z",
+        "sha256": "54b62a020d7a6ea2b0a64b74ed7efd9a8e6fed5d84200546ee0ebf30e59ace46"
     },
     "scripts/skills/backgrounds/poacher_background.json": {
         "id": 920219,
@@ -33758,14 +33758,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:50.469Z",
         "updatedAt": "2023-05-13T14:30:50.469Z",
-        "modifiedAt": "2023-05-27T05:35:37Z",
-        "sha256": "05dc3f1472fa3001535a2b7f9df0c2e73d34eeb0b50fdd2e2349df58c8d82aa8"
+        "modifiedAt": "2023-06-14T09:19:59Z",
+        "sha256": "2eae6b8a951e195f249f4112e8ec61330648ac34ac7144f3a39bc9de4922785c"
     },
     "scripts/skills/backgrounds/retired_soldier_background.json": {
         "id": 920224,
@@ -34010,14 +34010,14 @@
         "total": 15,
         "translated": 15,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 12,
+        "reviewed": 12,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:55.513Z",
         "updatedAt": "2023-05-13T14:30:55.513Z",
-        "modifiedAt": "2023-06-12T08:54:20Z",
-        "sha256": "2ca5ada522e1e8d166cddde536125d3b7c8b41cb7a39cf23769f79efd4762c51"
+        "modifiedAt": "2023-06-14T11:16:21Z",
+        "sha256": "26b538cb882fe5fdfef3dc20f54af69c6fa510d879e984d499867b3b0251ea09"
     },
     "scripts/skills/backgrounds/thief_southern_background.json": {
         "id": 920238,
