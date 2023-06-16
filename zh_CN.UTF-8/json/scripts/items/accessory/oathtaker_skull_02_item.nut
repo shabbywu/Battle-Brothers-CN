@@ -28,6 +28,6 @@
     "key": "Will start combat at confident morale if permitted by mood",
     "original": "Will start combat at confident morale if permitted by mood",
     "translation": "如果心情允许，将以自信的士气开始战斗",
-    "stage": 1
+    "stage": 5
   }
 ]

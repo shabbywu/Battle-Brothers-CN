@@ -3321,8 +3321,8 @@
     "ID": 293404252,
     "key": "Rasil",
     "original": "Rasil",
-    "translation": "树莓",
-    "stage": 1
+    "translation": "拉希尔",
+    "stage": 5
   },
   {
     "ID": 293404253,
