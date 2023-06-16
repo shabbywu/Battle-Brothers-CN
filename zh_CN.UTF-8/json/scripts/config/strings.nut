@@ -1396,8 +1396,8 @@
     "ID": 293405833,
     "key": "Al-Anwar",
     "original": "Al-Anwar",
-    "translation": "安瓦尔(Al-Anwar)",
-    "stage": 1
+    "translation": "阿尔-安瓦尔(Al-Anwar)",
+    "stage": 5
   },
   {
     "ID": 293405834,
@@ -3028,8 +3028,8 @@
     "ID": 293406063,
     "key": "Al-Hazred",
     "original": "Al-Hazred",
-    "translation": "阿尔哈兹雷德(Al-Hazred)",
-    "stage": 1
+    "translation": "阿尔-哈兹雷德(Al-Hazred)",
+    "stage": 5
   },
   {
     "ID": 293406064,
@@ -8203,7 +8203,7 @@
     "ID": 293406792,
     "key": "Stormy Sea",
     "original": "Stormy Sea",
-    "translation": "暴风海(Stormy Sea)",
+    "translation": "暴风海",
     "stage": 1
   },
   {
@@ -8387,8 +8387,8 @@
     "ID": 293406818,
     "key": "Kraken's Refuge",
     "original": "Kraken's Refuge",
-    "translation": "克拉肯的避难所(Kraken's Refuge)",
-    "stage": 5
+    "translation": "克拉肯的避难所",
+    "stage": 1
   },
   {
     "ID": 293406819,

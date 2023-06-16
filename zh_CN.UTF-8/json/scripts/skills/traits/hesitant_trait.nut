@@ -19,7 +19,7 @@
     "ID": 293422553,
     "key": "Umm... well... maybe. This character is hesitant to act.",
     "original": "Umm... well... maybe. This character is hesitant to act.",
-    "translation": "嗯…好…也许吧。这个角色对行动很犹豫。",
+    "translation": "嗯……好……也许吧。这个角色对行动很犹豫。",
     "stage": 5,
     "context": "this.m.Description = 'Umm... well... maybe. This character is hesitant to act.'"
   },

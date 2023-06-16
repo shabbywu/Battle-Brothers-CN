@@ -43,7 +43,7 @@
     "key": "Always acts first in the very first round of combat",
     "original": "Always acts first in the very first round of combat",
     "translation": "在战斗的第一轮中总是先行动",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293419666,
