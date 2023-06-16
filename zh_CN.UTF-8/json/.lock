@@ -34010,14 +34010,14 @@
         "total": 15,
         "translated": 15,
         "disputed": 0,
-        "checked": 12,
-        "reviewed": 12,
+        "checked": 15,
+        "reviewed": 15,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:55.513Z",
         "updatedAt": "2023-05-13T14:30:55.513Z",
-        "modifiedAt": "2023-06-14T11:16:21Z",
-        "sha256": "26b538cb882fe5fdfef3dc20f54af69c6fa510d879e984d499867b3b0251ea09"
+        "modifiedAt": "2023-06-15T14:33:07Z",
+        "sha256": "d076ea83876a720ff32c89023e33540fff0f2faa9c25a9fc2370797e604895b9"
     },
     "scripts/skills/backgrounds/thief_southern_background.json": {
         "id": 920238,
