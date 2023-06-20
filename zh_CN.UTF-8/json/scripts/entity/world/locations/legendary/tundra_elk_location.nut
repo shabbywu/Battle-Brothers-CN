@@ -11,7 +11,7 @@
     "ID": 293410640,
     "key": "Hunting Ground",
     "original": "Hunting Ground",
-    "translation": "狩猎场(Hunting Ground)",
+    "translation": "狩猎场",
     "stage": 1,
     "context": "this.m.Name = 'Hunting Ground'"
   }

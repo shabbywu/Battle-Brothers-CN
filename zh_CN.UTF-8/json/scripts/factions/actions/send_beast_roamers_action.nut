@@ -3,7 +3,7 @@
     "ID": 293417336,
     "key": "Nachzehrers",
     "original": "Nachzehrers",
-    "translation": "食尸鬼(Nachzehrers)",
+    "translation": "食尸鬼",
     "stage": 1
   },
   {
@@ -17,14 +17,14 @@
     "ID": 293417338,
     "key": "Kraken",
     "original": "Kraken",
-    "translation": "克拉肯(Kraken)",
+    "translation": "克拉肯",
     "stage": 1
   },
   {
     "ID": 293417339,
     "key": "Schrats",
     "original": "Schrats",
-    "translation": "树人(Schrats)",
+    "translation": "树人",
     "stage": 1
   },
   {
@@ -38,7 +38,7 @@
     "ID": 293417341,
     "key": "Hexen",
     "original": "Hexen",
-    "translation": "女巫(Hexen)",
+    "translation": "女巫",
     "stage": 1
   },
   {
@@ -73,7 +73,7 @@
     "ID": 293417346,
     "key": "Alps",
     "original": "Alps",
-    "translation": "梦魇(Alps)",
+    "translation": "梦魇",
     "stage": 1
   },
   {
@@ -94,7 +94,7 @@
     "ID": 293417349,
     "key": "Serpents",
     "original": "Serpents",
-    "translation": "大蛇(Serpents)",
+    "translation": "大蛇",
     "stage": 1
   },
   {
@@ -115,7 +115,7 @@
     "ID": 293417352,
     "key": "Direwolves",
     "original": "Direwolves",
-    "translation": "冰原狼(Direwolves)",
+    "translation": "冰原狼",
     "stage": 1
   },
   {
@@ -129,21 +129,21 @@
     "ID": 293417354,
     "key": "Ifrits",
     "original": "Ifrits",
-    "translation": "伊夫利特(Ifrits)",
+    "translation": "伊夫利特",
     "stage": 1
   },
   {
     "ID": 293417355,
     "key": "Webknechts",
     "original": "Webknechts",
-    "translation": "蛛魔(Webknechts)",
+    "translation": "蛛魔",
     "stage": 1
   },
   {
     "ID": 293417356,
     "key": "Hyenas",
     "original": "Hyenas",
-    "translation": "鬣狗(Hyenas)",
+    "translation": "鬣狗",
     "stage": 1
   },
   {

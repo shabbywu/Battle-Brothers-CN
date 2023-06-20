@@ -3,7 +3,7 @@
     "ID": 293417334,
     "key": "Barbarians",
     "original": "Barbarians",
-    "translation": "野蛮人(Barbarians)",
+    "translation": "野蛮人",
     "stage": 1
   },
   {

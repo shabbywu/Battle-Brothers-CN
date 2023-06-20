@@ -10,7 +10,7 @@
     "ID": 293410679,
     "key": "Fighting",
     "original": "Fighting",
-    "translation": "战斗(Fighting)",
+    "translation": "对战中",
     "stage": 1
   },
   {

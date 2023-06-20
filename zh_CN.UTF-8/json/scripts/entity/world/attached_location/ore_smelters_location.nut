@@ -3,16 +3,16 @@
     "ID": 293410554,
     "key": "Ore Smelters",
     "original": "Ore Smelters",
-    "translation": "矿石冶炼厂(Ore Smelters)",
-    "stage": 1,
+    "translation": "矿石冶炼厂",
+    "stage": 5,
     "context": "this.m.Name = 'Ore Smelters'"
   },
   {
     "ID": 293410555,
     "key": "The burning hot ore smelters produce high quality metal ingots used by able weapon smiths to create the most sophisticated of arms.",
     "original": "The burning hot ore smelters produce high quality metal ingots used by able weapon smiths to create the most sophisticated of arms.",
-    "translation": "灼热的矿石冶炼厂生产高质量的金属锭，由能干的武器匠用来制造最精密的武器。",
-    "stage": 1,
+    "translation": "高温矿石冶炼厂能够制造出高质量的金属锭，供有能力的武器匠铸造最复杂精致的武器。",
+    "stage": 5,
     "context": "this.m.Description = 'The burning hot ore smelters produce high quality metal ingots used by able weapon smiths to create the most sophisticated of arms.'"
   }
 ]

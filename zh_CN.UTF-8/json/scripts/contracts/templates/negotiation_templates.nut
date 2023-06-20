@@ -43,8 +43,8 @@
     "ID": 293410115,
     "key": "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you bring back, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%",
     "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you bring back, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%",
-    "translation": "每带回一个人头 {你会得到 | 你会收到 | 我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。%SPEECH_OFF%",
-    "stage": 1,
+    "translation": "每带回一个人头{你会得到 | 你会收到 | 我会给你} %reward_count% 克朗，{我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。%SPEECH_OFF%",
+    "stage": 5,
     "context": "this[1] += \"{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you bring back, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%\""
   },
   {
@@ -66,8 +66,8 @@
     "ID": 293410118,
     "key": "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you return with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is do",
     "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you return with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%",
-    "translation": "每带回一个人头 {你会得到 | 你会收到 | 我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。合同完成后{你会再得到 | 你会再收到 | 我会再给你} %reward_completion% 克朗。%SPEECH_OFF%",
-    "stage": 1,
+    "translation": "每带回一个人头{你会得到 | 你会收到 | 我会给你} %reward_count% 克朗，{我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。合同完成后{你会再得到 | 你会再收到 | 我会再给你} %reward_completion% 克朗。%SPEECH_OFF%",
+    "stage": 5,
     "context": "this[1] += \"{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you return with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%\""
   },
   {
@@ -120,8 +120,8 @@
     "ID": 293410125,
     "key": "{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, and another %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SP",
     "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, and another %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%",
-    "translation": "{你会得到 | 你会收到 | 我会给你}共 %reward_advance% 克朗的预付款, 每带回一个人头 {你会再得到 | 你会再收到 | 我会再给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。%SPEECH_OFF%",
-    "stage": 1,
+    "translation": "{你会得到 | 你会收到 | 我会给你}共 %reward_advance% 克朗的预付款，每带回一个人头{你会再得到 | 你会再收到 | 我会再给你} %reward_count% 克朗，{我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。%SPEECH_OFF%",
+    "stage": 5,
     "context": "this[1] += \"{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, and another %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%\""
   },
   {
@@ -143,24 +143,24 @@
     "ID": 293410128,
     "key": "{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, and another %reward_count% crowns per head you bring back, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPE",
     "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, and another %reward_count% crowns per head you bring back, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%",
-    "translation": "{你会得到 | 你会收到 | 我会给你}共%reward_advance% 克朗的预付款, 并且每带回一个人头 {你会再得到 | 你会再收到 | 我会再给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。%SPEECH_OFF%",
-    "stage": 1,
+    "translation": "{你会得到 | 你会收到 | 我会给你}共 %reward_advance% 克朗的预付款，并且每带回一个人头{你会再得到 | 你会再收到 | 我会再给你} %reward_count% 克朗，{我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。%SPEECH_OFF%",
+    "stage": 5,
     "context": "this[1] += \"{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, and another %reward_count% crowns per head you bring back, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%\""
   },
   {
     "ID": 293410129,
     "key": " crowns per head you arrive with, up to ",
     "original": " crowns per head you arrive with, up to ",
-    "translation": "克朗（每带回一个人头），人数最多为",
-    "stage": 1,
+    "translation": " 克朗（到达时每取得一个人头），人数最多为 ",
+    "stage": 5,
     "context": "'Get ' + this.Contract.m.Payment.getPerCount() + ' crowns per head you arrive with, up to ' + this.Contract.m.Payment.MaxCount + ' total'"
   },
   {
     "ID": 293410130,
     "key": "{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %r",
     "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%",
-    "translation": "{你会得到 | 你会收到 | 我会给你}共 %reward_advance% 克朗的预付款, 每带来一个人头 {你会再得到 | 你会再收到 | 我会再给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }, 合同完成后{你会再得到 | 你会再收到 | 我会再给你} %reward_completion% 克朗。%SPEECH_OFF%",
-    "stage": 1,
+    "translation": "{你会得到 | 你会收到 | 我会给你}共 %reward_advance% 克朗的预付款，每带来一个人头{你会再得到 | 你会再收到 | 我会再给你} %reward_count% 克朗，{我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }，合同完成后{你会再得到 | 你会再收到 | 我会再给你} %reward_completion% 克朗。%SPEECH_OFF%",
+    "stage": 5,
     "context": "this[1] += \"{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%\""
   },
   {
@@ -182,8 +182,8 @@
     "ID": 293410133,
     "key": "{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, %reward_count% crowns per head you bring, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_",
     "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, %reward_count% crowns per head you bring, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%",
-    "translation": "{你会得到 | 你会收到 | 我会给你} %reward_advance% 克朗的预付款, 并且每带回一个人头 {你会得到 | 你会收到 | 我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。合同完成后{你会再得到 | 你会再收到 | 我会再给你} %reward_completion% 克朗。%SPEECH_OFF%",
-    "stage": 1,
+    "translation": "{你会得到 | 你会收到 | 我会给你} %reward_advance% 克朗的预付款，并且每带回一个人头{你会得到 | 你会收到 | 我会给你} %reward_count% 克朗，{我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。合同完成后{你会再得到 | 你会再收到 | 我会再给你} %reward_completion% 克朗。%SPEECH_OFF%",
+    "stage": 5,
     "context": "this[1] += \"{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, %reward_count% crowns per head you bring, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%\""
   },
   {
@@ -197,16 +197,16 @@
     "ID": 293410135,
     "key": "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is do",
     "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%",
-    "translation": "每带来一个人头 {你会得到 | 你会收到 | 我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。合同完成后{你会再得到 | 你会再收到 | 我会再给你} %reward_completion% 克朗。%SPEECH_OFF%",
-    "stage": 1,
+    "translation": "每带来一个人头{你会得到 | 你会收到 | 我会给你} %reward_count% 克朗，{我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。合同完成后{你会再得到 | 你会再收到 | 我会再给你} %reward_completion% 克朗。%SPEECH_OFF%",
+    "stage": 5,
     "context": "this[1] += \"{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%\""
   },
   {
     "ID": 293410136,
     "key": " crowns per head you bring back, up to ",
     "original": " crowns per head you bring back, up to ",
-    "translation": " 克朗，为你带回的每个人头，人数最多为",
-    "stage": 1,
+    "translation": " 克朗（每带回一个人头），人数最多为 ",
+    "stage": 5,
     "context": "'Get ' + this.Contract.m.Payment.getPerCount() + ' crowns per head you bring back, up to ' + this.Contract.m.Payment.MaxCount + ' total'"
   },
   {
@@ -297,8 +297,8 @@
     "ID": 293410148,
     "key": "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%",
     "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%",
-    "translation": "每带来一个人头 {你会得到 | 你会收到 | 我会给你} %reward_count% 克朗, {我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。%SPEECH_OFF%",
-    "stage": 1,
+    "translation": "每带来一个人头{你会得到 | 你会收到 | 我会给你} %reward_count% 克朗，{我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。%SPEECH_OFF%",
+    "stage": 5,
     "context": "this[1] += \"{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%\""
   },
   {

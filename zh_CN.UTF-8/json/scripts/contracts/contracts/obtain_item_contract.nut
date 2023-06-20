@@ -246,7 +246,7 @@
     "ID": 293409517,
     "key": "Obtain Artifact",
     "original": "Obtain Artifact",
-    "translation": "获得神器",
+    "translation": "取得神器",
     "stage": 1,
     "context": "this.m.Name = 'Obtain Artifact'"
   },
@@ -290,7 +290,7 @@
     "ID": 293409523,
     "key": "The townsfolk seem to be in a good spirit now.",
     "original": "The townsfolk seem to be in a good spirit now.",
-    "translation": "镇民;现在看来精神很好。",
+    "translation": "镇民现在看来精神很好。",
     "stage": 1
   },
   {

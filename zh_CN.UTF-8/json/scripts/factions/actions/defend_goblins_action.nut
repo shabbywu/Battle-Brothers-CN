@@ -3,7 +3,7 @@
     "ID": 293417302,
     "key": "Goblins",
     "original": "Goblins",
-    "translation": "地精(Goblins)",
+    "translation": "地精",
     "stage": 1
   },
   {

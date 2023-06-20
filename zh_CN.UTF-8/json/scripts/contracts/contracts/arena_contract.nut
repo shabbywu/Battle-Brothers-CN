@@ -151,7 +151,7 @@
     "ID": 293407786,
     "key": "%SPEECH_ON%Hyenas. Heeheehee. Hyenas. %numberC% of the giggling mutts, to be exact. Good luck, and may the Gilder watch over you.%SPEECH_OFF%",
     "original": "%SPEECH_ON%Hyenas. Heeheehee. Hyenas. %numberC% of the giggling mutts, to be exact. Good luck, and may the Gilder watch over you.%SPEECH_OFF%",
-    "translation": "%SPEECH_ON%土狼。嘿嘿嘿。土狼。Exactly %numberC%只傻笑的狗，好运，追随吉尔德之眼。%SPEECH_OFF%",
+    "translation": "%SPEECH_ON%鬣狗。嘿嘿嘿。鬣狗。确实地说是 %numberC%只傻笑的狗，好运，追随镀金者之眼。%SPEECH_OFF%",
     "stage": 1,
     "context": "this[2] += '%SPEECH_ON%Hyenas. Heeheehee. Hyenas. %numberC% of the giggling mutts, to be exact. Good luck, and may the Gilder watch over you.%SPEECH_OFF%'"
   },
@@ -379,8 +379,8 @@
     "ID": 293407816,
     "key": "Enter the arena again to start the fight against %amount% hyenas",
     "original": "Enter the arena again to start the fight against %amount% hyenas",
-    "translation": "再次进入竞技场，与%amount%只土狼战斗。",
-    "stage": 1,
+    "translation": "再次进入竞技场，与%amount%只鬣狗战斗。",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against %amount% hyenas'"
   },
   {

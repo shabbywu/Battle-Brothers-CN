@@ -3,16 +3,16 @@
     "ID": 293410512,
     "key": "Blast Furnace",
     "original": "Blast Furnace",
-    "translation": "鼓风炉(Blast Furnace)",
-    "stage": 1,
+    "translation": "鼓风炉",
+    "stage": 5,
     "context": "this.m.Name = 'Blast Furnace'"
   },
   {
     "ID": 293410513,
     "key": "The blast furnace produces the blazing temperatures needed to make the most durable of metal alloys. Handy armorsmiths will use these alloys to create sturdy armor in the nearest settlement.",
     "original": "The blast furnace produces the blazing temperatures needed to make the most durable of metal alloys. Handy armorsmiths will use these alloys to create sturdy armor in the nearest settlement.",
-    "translation": "高炉产生使金属合金最耐用所需的炽热温度。 手巧的盔甲师将使用这些合金在最近的定居点制造坚固的盔甲。",
-    "stage": 1,
+    "translation": "鼓风炉能产生制造最耐用的合金所需的高温。手巧的盔甲匠会在最近的定居点使用这些合金制造坚固的盔甲。",
+    "stage": 5,
     "context": "this.m.Description = 'The blast furnace produces the blazing temperatures needed to make the most durable of metal alloys. Handy armorsmiths will use these alloys to create sturdy armor in the nearest settlement.'"
   }
 ]

@@ -3,77 +3,77 @@
     "ID": 293410956,
     "key": "Bolasted",
     "original": "Bolasted",
-    "translation": "博拉斯特德(Bolasted)",
+    "translation": "博拉斯特德",
     "stage": 1
   },
   {
     "ID": 293410957,
     "key": "Skagensted",
     "original": "Skagensted",
-    "translation": "斯卡根斯泰德(Skagensted)",
+    "translation": "斯卡根斯泰德",
     "stage": 1
   },
   {
     "ID": 293410958,
     "key": "Hammarsted",
     "original": "Hammarsted",
-    "translation": "哈玛斯特德(Hammarsted)",
+    "translation": "哈玛斯特德",
     "stage": 1
   },
   {
     "ID": 293410959,
     "key": "Brammingsted",
     "original": "Brammingsted",
-    "translation": "布拉明斯泰德(Brammingsted)",
+    "translation": "布拉明斯泰德",
     "stage": 1
   },
   {
     "ID": 293410960,
     "key": "Jarlsted",
     "original": "Jarlsted",
-    "translation": "雅尔斯泰德(Jarlsted)",
+    "translation": "雅尔斯泰德",
     "stage": 1
   },
   {
     "ID": 293410961,
     "key": "Ravested",
     "original": "Ravested",
-    "translation": "拉韦斯泰德(Ravested)",
+    "translation": "拉韦斯泰德",
     "stage": 1
   },
   {
     "ID": 293410962,
     "key": "Vardested",
     "original": "Vardested",
-    "translation": "瓦德斯泰德(Vardested)",
+    "translation": "瓦德斯泰德",
     "stage": 1
   },
   {
     "ID": 293410963,
     "key": "Eidsted",
     "original": "Eidsted",
-    "translation": "艾德斯特德(Eidsted)",
+    "translation": "艾德斯特德",
     "stage": 1
   },
   {
     "ID": 293410964,
     "key": "Arsasted",
     "original": "Arsasted",
-    "translation": "阿萨斯特德(Arsasted)",
+    "translation": "阿萨斯特德",
     "stage": 1
   },
   {
     "ID": 293410965,
     "key": "Hornsted",
     "original": "Hornsted",
-    "translation": "霍恩斯泰德(Hornsted)",
+    "translation": "霍恩斯泰德",
     "stage": 1
   },
   {
     "ID": 293410966,
     "key": "Sommersted",
     "original": "Sommersted",
-    "translation": "桑默斯泰德(Sommersted)",
+    "translation": "桑默斯泰德",
     "stage": 1
   },
   {
@@ -96,105 +96,105 @@
     "ID": 293410969,
     "key": "Rollarsted",
     "original": "Rollarsted",
-    "translation": "罗拉斯特德(Rollarsted)",
+    "translation": "罗拉斯特德",
     "stage": 1
   },
   {
     "ID": 293410970,
     "key": "Grimsted",
     "original": "Grimsted",
-    "translation": "格里姆斯特(Grimsted)",
+    "translation": "格里姆斯特",
     "stage": 1
   },
   {
     "ID": 293410971,
     "key": "Lydersted",
     "original": "Lydersted",
-    "translation": "吕德斯特德(Lydersted)",
+    "translation": "吕德斯特德",
     "stage": 1
   },
   {
     "ID": 293410972,
     "key": "Hellested",
     "original": "Hellested",
-    "translation": "海勒斯泰德(Hellested)",
+    "translation": "海勒斯泰德",
     "stage": 1
   },
   {
     "ID": 293410973,
     "key": "Norrested",
     "original": "Norrested",
-    "translation": "诺雷斯特德(Norrested)",
+    "translation": "诺雷斯特德",
     "stage": 1
   },
   {
     "ID": 293410974,
     "key": "Ognasted",
     "original": "Ognasted",
-    "translation": "奥格纳斯特(Ognasted)",
+    "translation": "奥格纳斯特",
     "stage": 1
   },
   {
     "ID": 293410975,
     "key": "Gersted",
     "original": "Gersted",
-    "translation": "格斯特德(Gersted)",
+    "translation": "格斯特德",
     "stage": 1
   },
   {
     "ID": 293410976,
     "key": "Harkensted",
     "original": "Harkensted",
-    "translation": "哈肯斯泰德(Harkensted)",
+    "translation": "哈肯斯泰德",
     "stage": 1
   },
   {
     "ID": 293410977,
     "key": "Ovarsted",
     "original": "Ovarsted",
-    "translation": "奥瓦斯泰德(Ovarsted)",
+    "translation": "奥瓦斯泰德",
     "stage": 1
   },
   {
     "ID": 293410978,
     "key": "Svarrested",
     "original": "Svarrested",
-    "translation": "斯瓦莱斯泰德(Svarrested)",
+    "translation": "斯瓦莱斯泰德",
     "stage": 1
   },
   {
     "ID": 293410979,
     "key": "Agersted",
     "original": "Agersted",
-    "translation": "阿格斯泰德(Agersted)",
+    "translation": "阿格斯泰德",
     "stage": 1
   },
   {
     "ID": 293410980,
     "key": "Hejsted",
     "original": "Hejsted",
-    "translation": "海斯泰德(Hejsted)",
+    "translation": "海斯泰德",
     "stage": 1
   },
   {
     "ID": 293410981,
     "key": "Tondersted",
     "original": "Tondersted",
-    "translation": "桐德斯泰德(Tondersted)",
+    "translation": "桐德斯泰德",
     "stage": 1
   },
   {
     "ID": 293410982,
     "key": "Asested",
     "original": "Asested",
-    "translation": "阿塞斯特德(Asested)",
+    "translation": "阿塞斯特德",
     "stage": 1
   },
   {
     "ID": 293410983,
     "key": "Gunnsted",
     "original": "Gunnsted",
-    "translation": "冈斯泰德(Gunnsted)",
+    "translation": "冈斯泰德",
     "stage": 1
   }
 ]

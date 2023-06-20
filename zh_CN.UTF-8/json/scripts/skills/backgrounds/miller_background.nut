@@ -42,7 +42,7 @@
     "ID": 293421125,
     "key": "Miller",
     "original": "Miller",
-    "translation": "米勒(Miller)",
+    "translation": "磨坊主",
     "stage": 1,
     "context": "this.m.Name = 'Miller'"
   }

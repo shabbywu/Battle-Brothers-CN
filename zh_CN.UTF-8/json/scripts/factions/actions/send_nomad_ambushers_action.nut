@@ -10,7 +10,7 @@
     "ID": 293417376,
     "key": "Nomads",
     "original": "Nomads",
-    "translation": "游牧民(Nomads)",
+    "translation": "游牧民",
     "stage": 5
   }
 ]

@@ -18,7 +18,7 @@
     "ID": 293421182,
     "key": "Orc Slayer",
     "original": "Orc Slayer",
-    "translation": "兽人杀手(Orc Slayer)",
+    "translation": "兽人杀手",
     "stage": 1,
     "context": "this.m.Name = 'Orc Slayer'"
   }

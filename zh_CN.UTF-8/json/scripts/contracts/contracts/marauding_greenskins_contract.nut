@@ -119,8 +119,8 @@
     "ID": 293409451,
     "key": "Get ",
     "original": "Get ",
-    "translation": "给",
-    "stage": 1,
+    "translation": "得到",
+    "stage": 5,
     "context": "'Get ' + this.Contract.m.Payment.getOnCompletion() + ' crowns on completion'"
   },
   {
@@ -248,7 +248,7 @@
     "ID": 293409469,
     "key": "Goblin Raiders",
     "original": "Goblin Raiders",
-    "translation": "地精突袭者(Goblin Raiders)",
+    "translation": "地精突袭者",
     "stage": 1
   },
   {
@@ -284,7 +284,7 @@
     "key": "instance",
     "original": "instance",
     "translation": "instance",
-    "stage": 1,
+    "stage": 9,
     "context": "typeof _h == 'instance'"
   },
   {

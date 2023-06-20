@@ -11,7 +11,7 @@
     "ID": 293422668,
     "key": "Will not flee in battle",
     "original": "Will not flee in battle",
-    "translation": "不会逃离战斗。",
+    "translation": "不会逃离战斗",
     "stage": 1
   },
   {
@@ -26,7 +26,7 @@
     "ID": 293422670,
     "key": "This character has taken an Oath of Valor, and is sworn to hold fast in battle at any cost.",
     "original": "This character has taken an Oath of Valor, and is sworn to hold fast in battle at any cost.",
-    "translation": "该角色已发誓守护荣耀，誓言在战斗中不惜一切代价坚守阵地。",
+    "translation": "这个角色已经立下英勇誓言，发誓在战斗中不惜一切代价坚持到底。",
     "stage": 1,
     "context": "this.m.Description = 'This character has taken an Oath of Valor, and is sworn to hold fast in battle at any cost.'"
   }

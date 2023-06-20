@@ -197,7 +197,7 @@
     "key": "Crowns well deserved.",
     "original": "Crowns well deserved.",
     "translation": "当之无愧的克朗。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293409913,

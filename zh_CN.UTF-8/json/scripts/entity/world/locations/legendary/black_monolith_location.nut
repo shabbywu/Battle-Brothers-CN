@@ -11,7 +11,7 @@
     "ID": 293410624,
     "key": "Black Monolith",
     "original": "Black Monolith",
-    "translation": "黑色巨石(Black Monolith)",
+    "translation": "黑色巨石",
     "stage": 5,
     "context": "this.m.Name = 'Black Monolith'"
   }

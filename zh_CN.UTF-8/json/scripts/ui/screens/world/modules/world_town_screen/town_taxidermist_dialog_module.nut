@@ -11,6 +11,6 @@
     "key": "Taxidermist",
     "original": "Taxidermist",
     "translation": "剥制屋",
-    "stage": 1
+    "stage": 5
   }
 ]

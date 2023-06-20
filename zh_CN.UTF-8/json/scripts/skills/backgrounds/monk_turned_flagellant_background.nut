@@ -11,7 +11,7 @@
     "ID": 293421161,
     "key": "Monk turned Flagellant",
     "original": "Monk turned Flagellant",
-    "translation": "和尚转变成了鞭笞者(Monk turned Flagellant)",
+    "translation": "僧侣转化的苦修者",
     "stage": 1,
     "context": "this.m.Name = 'Monk turned Flagellant'"
   }

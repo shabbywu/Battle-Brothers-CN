@@ -10,7 +10,7 @@
     "ID": 293417331,
     "key": "Brigand Hunters",
     "original": "Brigand Hunters",
-    "translation": "匪徒猎人(Brigand Hunters)",
+    "translation": "匪徒猎人",
     "stage": 1
   }
 ]

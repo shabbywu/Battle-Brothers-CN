@@ -11,8 +11,8 @@
     "ID": 293410587,
     "key": "Ruins",
     "original": "Ruins",
-    "translation": "废墟(Ruins)",
-    "stage": 1,
+    "translation": "废墟",
+    "stage": 5,
     "context": "return this.m.IsActive ? this.world_entity.getName() : 'Ruins';"
   }
 ]

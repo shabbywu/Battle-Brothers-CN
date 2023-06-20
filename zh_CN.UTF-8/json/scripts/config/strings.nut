@@ -32,7 +32,7 @@
     "ID": 293405640,
     "key": "Harkon",
     "original": "Harkon",
-    "translation": "哈康(Harkon)",
+    "translation": "哈康",
     "stage": 1
   },
   {
@@ -46,21 +46,21 @@
     "ID": 293405642,
     "key": "Sleeping Giants Back",
     "original": "Sleeping Giants Back",
-    "translation": "眠巨人之背(Sleeping Giants Back)",
+    "translation": "眠巨人之背",
     "stage": 5
   },
   {
     "ID": 293405643,
     "key": "Poundmaker",
     "original": "Poundmaker",
-    "translation": "庞德梅克(Poundmaker)",
+    "translation": "庞德梅克",
     "stage": 1
   },
   {
     "ID": 293405644,
     "key": "Chillwind Flatlands",
     "original": "Chillwind Flatlands",
-    "translation": "寒风平原(Chillwind Flatlands)",
+    "translation": "寒风平原",
     "stage": 1
   },
   {
@@ -74,7 +74,7 @@
     "ID": 293405646,
     "key": "Vanity",
     "original": "Vanity",
-    "translation": "虚荣(Vanity)",
+    "translation": "虚荣",
     "stage": 1
   },
   {
@@ -102,28 +102,28 @@
     "ID": 293405650,
     "key": "Karrakan",
     "original": "Karrakan",
-    "translation": "卡拉坎(Karrakan)",
+    "translation": "卡拉坎",
     "stage": 1
   },
   {
     "ID": 293405651,
     "key": "Sharp Rocks",
     "original": "Sharp Rocks",
-    "translation": "锋利的岩石(Sharp Rocks)",
+    "translation": "锋利的岩石",
     "stage": 1
   },
   {
     "ID": 293405652,
     "key": "Silver Sands",
     "original": "Silver Sands",
-    "translation": "银沙(Silver Sands)",
+    "translation": "银沙",
     "stage": 1
   },
   {
     "ID": 293405653,
     "key": "Shields of the Night",
     "original": "Shields of the Night",
-    "translation": "夜之盾(Shields of the Night)",
+    "translation": "夜之盾",
     "stage": 1
   },
   {
@@ -144,7 +144,7 @@
     "ID": 293405656,
     "key": "Windlands",
     "original": "Windlands",
-    "translation": "风地(Windlands)",
+    "translation": "风地",
     "stage": 5
   },
   {
@@ -158,7 +158,7 @@
     "ID": 293405658,
     "key": "Tempest Ocean",
     "original": "Tempest Ocean",
-    "translation": "风暴之海(Tempest Ocean)",
+    "translation": "风暴之海",
     "stage": 1
   },
   {
@@ -179,14 +179,14 @@
     "ID": 293405661,
     "key": "Black Mole Woods",
     "original": "Black Mole Woods",
-    "translation": "黑鼹鼠森林(Black Mole Woods)",
+    "translation": "黑鼹鼠森林",
     "stage": 5
   },
   {
     "ID": 293405662,
     "key": "Black Company",
     "original": "Black Company",
-    "translation": "黑公司(Black Company)",
+    "translation": "黑公司",
     "stage": 1
   },
   {
@@ -200,7 +200,7 @@
     "ID": 293405664,
     "key": "Eiglof",
     "original": "Eiglof",
-    "translation": "伊格洛夫(Eiglof)",
+    "translation": "伊格洛夫",
     "stage": 1
   },
   {
@@ -214,7 +214,7 @@
     "ID": 293405666,
     "key": "Wall of the Gods",
     "original": "Wall of the Gods",
-    "translation": "诸神之墙(Wall of the Gods)",
+    "translation": "诸神之墙",
     "stage": 5
   },
   {
@@ -228,42 +228,42 @@
     "ID": 293405668,
     "key": "Merry Mist",
     "original": "Merry Mist",
-    "translation": "快乐的雾(Merry Mist)",
+    "translation": "快乐的雾",
     "stage": 1
   },
   {
     "ID": 293405669,
     "key": "Burning Sun Company",
     "original": "Burning Sun Company",
-    "translation": "燃烧的太阳公司(Burning Sun Company)",
+    "translation": "燃烧的太阳公司",
     "stage": 1
   },
   {
     "ID": 293405670,
     "key": "Dawnland",
     "original": "Dawnland",
-    "translation": "黎明之地(Dawnland)",
+    "translation": "黎明之地",
     "stage": 5
   },
   {
     "ID": 293405671,
     "key": "Albatros",
     "original": "Albatros",
-    "translation": "信天翁(Albatros)",
+    "translation": "信天翁",
     "stage": 1
   },
   {
     "ID": 293405672,
     "key": "Baleford",
     "original": "Baleford",
-    "translation": "贝尔福德(Baleford)",
+    "translation": "贝尔福德",
     "stage": 1
   },
   {
     "ID": 293405673,
     "key": "Frozen Plains",
     "original": "Frozen Plains",
-    "translation": "冰冻平原(Frozen Plains)",
+    "translation": "冰冻平原",
     "stage": 1
   },
   {
@@ -277,7 +277,7 @@
     "ID": 293405675,
     "key": "Middlemark",
     "original": "Middlemark",
-    "translation": "中标(Middlemark)",
+    "translation": "中标",
     "stage": 1
   },
   {
@@ -291,7 +291,7 @@
     "ID": 293405677,
     "key": "Golden Flats",
     "original": "Golden Flats",
-    "translation": "金色平底鞋(Golden Flats)",
+    "translation": "金色平底鞋",
     "stage": 1
   },
   {
@@ -313,7 +313,7 @@
     "ID": 293405680,
     "key": "Gnarlheim",
     "original": "Gnarlheim",
-    "translation": "纳尔海姆(Gnarlheim)",
+    "translation": "纳尔海姆",
     "stage": 1
   },
   {
@@ -334,21 +334,21 @@
     "ID": 293405683,
     "key": "Desert of Mirrors",
     "original": "Desert of Mirrors",
-    "translation": "镜之荒漠(Desert of Mirrors)",
+    "translation": "镜之荒漠",
     "stage": 5
   },
   {
     "ID": 293405684,
     "key": "Dark Thorn Wilds",
     "original": "Dark Thorn Wilds",
-    "translation": "黑暗荆棘荒野(Dark Thorn Wilds)",
+    "translation": "黑暗荆棘荒野",
     "stage": 1
   },
   {
     "ID": 293405685,
     "key": "Cloudcrest",
     "original": "Cloudcrest",
-    "translation": "云峰(Cloudcrest)",
+    "translation": "云峰",
     "stage": 1
   },
   {
@@ -363,21 +363,21 @@
     "ID": 293405687,
     "key": "Clan's Claim",
     "original": "Clan's Claim",
-    "translation": "氏族的主张(Clan's Claim)",
+    "translation": "氏族的主张",
     "stage": 5
   },
   {
     "ID": 293405688,
     "key": "The Bronze Hills",
     "original": "The Bronze Hills",
-    "translation": "青铜山(The Bronze Hills)",
+    "translation": "青铜山",
     "stage": 1
   },
   {
     "ID": 293405689,
     "key": "Green Sea",
     "original": "Green Sea",
-    "translation": "绿海(Green Sea)",
+    "translation": "绿海",
     "stage": 1
   },
   {
@@ -391,7 +391,7 @@
     "ID": 293405691,
     "key": "Wanderer's Boon",
     "original": "Wanderer's Boon",
-    "translation": "流浪者的恩赐(Wanderer's Boon)",
+    "translation": "流浪者的恩赐",
     "stage": 1
   },
   {
@@ -419,21 +419,21 @@
     "ID": 293405695,
     "key": "Cruel Sea",
     "original": "Cruel Sea",
-    "translation": "残酷的大海(Cruel Sea)",
+    "translation": "残酷的大海",
     "stage": 1
   },
   {
     "ID": 293405696,
     "key": "Grand View Pastures",
     "original": "Grand View Pastures",
-    "translation": "大观牧场(Grand View Pastures)",
+    "translation": "大观牧场",
     "stage": 1
   },
   {
     "ID": 293405697,
     "key": "Sylvan Woods",
     "original": "Sylvan Woods",
-    "translation": "繁茂树林(Sylvan Woods)",
+    "translation": "繁茂树林",
     "stage": 5
   },
   {
@@ -454,14 +454,14 @@
     "ID": 293405700,
     "key": "Howling Sea",
     "original": "Howling Sea",
-    "translation": "啸海(Howling Sea)",
+    "translation": "啸海",
     "stage": 1
   },
   {
     "ID": 293405701,
     "key": "Cursed Lands",
     "original": "Cursed Lands",
-    "translation": "诅咒之地(Cursed Lands)",
+    "translation": "诅咒之地",
     "stage": 1
   },
   {
@@ -482,21 +482,21 @@
     "ID": 293405704,
     "key": "Wailing Ocean",
     "original": "Wailing Ocean",
-    "translation": "哭泣的海洋(Wailing Ocean)",
+    "translation": "哭泣的海洋",
     "stage": 1
   },
   {
     "ID": 293405705,
     "key": "Belzebub",
     "original": "Belzebub",
-    "translation": "别西卜(Belzebub)",
+    "translation": "别西卜",
     "stage": 1
   },
   {
     "ID": 293405706,
     "key": "Bronzeheads",
     "original": "Bronzeheads",
-    "translation": "铜头(Bronzeheads)",
+    "translation": "铜头",
     "stage": 1
   },
   {
@@ -510,14 +510,14 @@
     "ID": 293405708,
     "key": "Northurst",
     "original": "Northurst",
-    "translation": "诺瑟斯特(Northurst)",
+    "translation": "诺瑟斯特",
     "stage": 1
   },
   {
     "ID": 293405709,
     "key": "Tickbrake",
     "original": "Tickbrake",
-    "translation": "滴答声(Tickbrake)",
+    "translation": "滴答声",
     "stage": 1
   },
   {
@@ -531,7 +531,7 @@
     "ID": 293405711,
     "key": "Bloodcut Growth",
     "original": "Bloodcut Growth",
-    "translation": "血痕生长地(Bloodcut Growth)",
+    "translation": "血痕生长地",
     "stage": 5
   },
   {
@@ -545,7 +545,7 @@
     "ID": 293405713,
     "key": "Nightingale Valley",
     "original": "Nightingale Valley",
-    "translation": "夜莺谷(Nightingale Valley)",
+    "translation": "夜莺谷",
     "stage": 1
   },
   {
@@ -573,14 +573,14 @@
     "ID": 293405717,
     "key": "The Emptiness",
     "original": "The Emptiness",
-    "translation": "虚无之地(The Emptiness)",
+    "translation": "虚无之地",
     "stage": 1
   },
   {
     "ID": 293405718,
     "key": "Knight's Axe Hills",
     "original": "Knight's Axe Hills",
-    "translation": "骑士斧山(Knight's Axe Hills)",
+    "translation": "骑士斧山",
     "stage": 1
   },
   {
@@ -601,28 +601,28 @@
     "ID": 293405721,
     "key": "Dusky Forest",
     "original": "Dusky Forest",
-    "translation": "昏暗的森林(Dusky Forest)",
+    "translation": "昏暗的森林",
     "stage": 1
   },
   {
     "ID": 293405722,
     "key": "Misty Covert",
     "original": "Misty Covert",
-    "translation": "迷雾隐蔽(Misty Covert)",
+    "translation": "迷雾隐蔽",
     "stage": 1
   },
   {
     "ID": 293405723,
     "key": "The Pale Expanse",
     "original": "The Pale Expanse",
-    "translation": "苍白大平原(The Pale Expanse)",
+    "translation": "苍白大平原",
     "stage": 5
   },
   {
     "ID": 293405724,
     "key": "The Powder Plains",
     "original": "The Powder Plains",
-    "translation": "粉末平原(The Powder Plains)",
+    "translation": "粉末平原",
     "stage": 1
   },
   {
@@ -636,7 +636,7 @@
     "ID": 293405726,
     "key": "Steinwall",
     "original": "Steinwall",
-    "translation": "斯坦沃尔(Steinwall)",
+    "translation": "斯坦沃尔",
     "stage": 1
   },
   {
@@ -714,7 +714,7 @@
     "ID": 293405737,
     "key": "Spiderwood",
     "original": "Spiderwood",
-    "translation": "蜘蛛木(Spiderwood)",
+    "translation": "蜘蛛木",
     "stage": 1
   },
   {
@@ -764,14 +764,14 @@
     "ID": 293405744,
     "key": "Ancient Cairns",
     "original": "Ancient Cairns",
-    "translation": "远古石堆群(Ancient Cairns)",
+    "translation": "远古石堆群",
     "stage": 5
   },
   {
     "ID": 293405745,
     "key": "Black Fumes Polder",
     "original": "Black Fumes Polder",
-    "translation": "黑烟圩田(Black Fumes Polder)",
+    "translation": "黑烟圩田",
     "stage": 1
   },
   {
@@ -785,14 +785,14 @@
     "ID": 293405747,
     "key": "Vibrant Grove",
     "original": "Vibrant Grove",
-    "translation": "充满生机的树林(Vibrant Grove)",
+    "translation": "充满生机的树林",
     "stage": 5
   },
   {
     "ID": 293405748,
     "key": "Angbride",
     "original": "Angbride",
-    "translation": "安布里德(Angbride)",
+    "translation": "安布里德",
     "stage": 5
   },
   {
@@ -820,8 +820,8 @@
     "ID": 293405752,
     "key": "Dogs of War",
     "original": "Dogs of War",
-    "translation": "战犬(Dogs of War)",
-    "stage": 5
+    "translation": "战犬",
+    "stage": 1
   },
   {
     "ID": 293405753,
@@ -841,7 +841,7 @@
     "ID": 293405755,
     "key": "Ashen Wetlands",
     "original": "Ashen Wetlands",
-    "translation": "灰烬湿地(Ashen Wetlands)",
+    "translation": "灰烬湿地",
     "stage": 1
   },
   {
@@ -893,14 +893,14 @@
     "ID": 293405762,
     "key": "Summer Daze",
     "original": "Summer Daze",
-    "translation": "夏日阳光(Summer Daze)",
+    "translation": "夏日阳光",
     "stage": 1
   },
   {
     "ID": 293405763,
     "key": "Green Shallows",
     "original": "Green Shallows",
-    "translation": "绿色浅滩(Green Shallows)",
+    "translation": "绿色浅滩",
     "stage": 1
   },
   {
@@ -914,7 +914,7 @@
     "ID": 293405765,
     "key": "Iron Brotherhood",
     "original": "Iron Brotherhood",
-    "translation": "钢铁兄弟会(Iron Brotherhood)",
+    "translation": "钢铁兄弟会",
     "stage": 1
   },
   {
@@ -928,7 +928,7 @@
     "ID": 293405767,
     "key": "Dire Woods",
     "original": "Dire Woods",
-    "translation": "可怕的树林(Dire Woods)",
+    "translation": "可怕的树林",
     "stage": 1
   },
   {
@@ -949,14 +949,14 @@
     "ID": 293405770,
     "key": "Ravenhold",
     "original": "Ravenhold",
-    "translation": "鸦堡(Ravenhold)",
+    "translation": "鸦堡",
     "stage": 1
   },
   {
     "ID": 293405771,
     "key": "Grand Company",
     "original": "Grand Company",
-    "translation": "大公司(Grand Company)",
+    "translation": "大公司",
     "stage": 1
   },
   {
@@ -970,7 +970,7 @@
     "ID": 293405773,
     "key": "Mammothshoulders",
     "original": "Mammothshoulders",
-    "translation": "猛犸象肩(Mammothshoulders)",
+    "translation": "猛犸象肩",
     "stage": 1
   },
   {
@@ -991,14 +991,14 @@
     "ID": 293405776,
     "key": "Iron Ravens",
     "original": "Iron Ravens",
-    "translation": "铁鸦(Iron Ravens)",
+    "translation": "铁鸦",
     "stage": 1
   },
   {
     "ID": 293405777,
     "key": "Mount Bulkhead",
     "original": "Mount Bulkhead",
-    "translation": "堤防山(Mount Bulkhead)",
+    "translation": "堤防山",
     "stage": 5
   },
   {
@@ -1012,14 +1012,14 @@
     "ID": 293405779,
     "key": "Rabenholt",
     "original": "Rabenholt",
-    "translation": "拉本霍尔特(Rabenholt)",
+    "translation": "拉本霍尔特",
     "stage": 1
   },
   {
     "ID": 293405780,
     "key": "Sunreach",
     "original": "Sunreach",
-    "translation": "日照(Sunreach)",
+    "translation": "日照",
     "stage": 1
   },
   {
@@ -1062,7 +1062,7 @@
     "ID": 293405786,
     "key": "Ras Sanan",
     "original": "Ras Sanan",
-    "translation": "拉斯 萨南(Ras Sanan)",
+    "translation": "拉斯 萨南",
     "stage": 5
   },
   {
@@ -1076,7 +1076,7 @@
     "ID": 293405788,
     "key": "Eerie Marshes",
     "original": "Eerie Marshes",
-    "translation": "诡异沼泽(Eerie Marshes)",
+    "translation": "诡异沼泽",
     "stage": 1
   },
   {
@@ -1112,21 +1112,21 @@
     "ID": 293405793,
     "key": "Silver Ridge",
     "original": "Silver Ridge",
-    "translation": "银岭(Silver Ridge)",
+    "translation": "银岭",
     "stage": 1
   },
   {
     "ID": 293405794,
     "key": "Markland",
     "original": "Markland",
-    "translation": "马克兰(Markland)",
+    "translation": "马克兰",
     "stage": 1
   },
   {
     "ID": 293405795,
     "key": "Old Forest",
     "original": "Old Forest",
-    "translation": "老森林(Old Forest)",
+    "translation": "老森林",
     "stage": 1
   },
   {
@@ -1147,14 +1147,14 @@
     "ID": 293405798,
     "key": "Free Men",
     "original": "Free Men",
-    "translation": "自由人(Free Men)",
+    "translation": "自由人",
     "stage": 1
   },
   {
     "ID": 293405799,
     "key": "Wretched Woods",
     "original": "Wretched Woods",
-    "translation": "悲惨林地(Wretched Woods)",
+    "translation": "悲惨林地",
     "stage": 5
   },
   {
@@ -1177,14 +1177,14 @@
     "ID": 293405802,
     "key": "Stag's Grounds",
     "original": "Stag's Grounds",
-    "translation": "雄鹿的理由(Stag's Grounds)",
+    "translation": "雄鹿的理由",
     "stage": 1
   },
   {
     "ID": 293405803,
     "key": "Swellpike Heights",
     "original": "Swellpike Heights",
-    "translation": "胀矛高地(Swellpike Heights)",
+    "translation": "胀矛高地",
     "stage": 5
   },
   {
@@ -1198,7 +1198,7 @@
     "ID": 293405805,
     "key": "Bleak Forest",
     "original": "Bleak Forest",
-    "translation": "荒凉的森林(Bleak Forest)",
+    "translation": "荒凉的森林",
     "stage": 1
   },
   {
@@ -1213,7 +1213,7 @@
     "ID": 293405807,
     "key": "Hogfolk",
     "original": "Hogfolk",
-    "translation": "猪人村(Hogfolk)",
+    "translation": "猪人村",
     "stage": 5
   },
   {
@@ -1227,28 +1227,28 @@
     "ID": 293405809,
     "key": "Silverreach Spears",
     "original": "Silverreach Spears",
-    "translation": "银色长矛(Silverreach Spears)",
+    "translation": "银色长矛",
     "stage": 1
   },
   {
     "ID": 293405810,
     "key": "Bloodbloom Woods",
     "original": "Bloodbloom Woods",
-    "translation": "血花森林(Bloodbloom Woods)",
+    "translation": "血花森林",
     "stage": 1
   },
   {
     "ID": 293405811,
     "key": "Redbark Forest",
     "original": "Redbark Forest",
-    "translation": "红皮森林(Redbark Forest)",
+    "translation": "红皮森林",
     "stage": 1
   },
   {
     "ID": 293405812,
     "key": "Southern Steppe",
     "original": "Southern Steppe",
-    "translation": "南部草原(Southern Steppe)",
+    "translation": "南部草原",
     "stage": 1
   },
   {
@@ -1262,7 +1262,7 @@
     "ID": 293405814,
     "key": "Bleak Moon",
     "original": "Bleak Moon",
-    "translation": "黯淡的月亮(Bleak Moon)",
+    "translation": "黯淡的月亮",
     "stage": 1
   },
   {
@@ -1290,21 +1290,21 @@
     "ID": 293405818,
     "key": "Foamy Shallows",
     "original": "Foamy Shallows",
-    "translation": "泡沫浅滩(Foamy Shallows)",
+    "translation": "泡沫浅滩",
     "stage": 1
   },
   {
     "ID": 293405819,
     "key": "Mooseridge",
     "original": "Mooseridge",
-    "translation": "穆斯里奇(Mooseridge)",
+    "translation": "穆斯里奇",
     "stage": 1
   },
   {
     "ID": 293405820,
     "key": "Howling Wastes",
     "original": "Howling Wastes",
-    "translation": "嚎叫废土(Howling Wastes)",
+    "translation": "嚎叫废土",
     "stage": 5
   },
   {
@@ -1325,7 +1325,7 @@
     "ID": 293405823,
     "key": "Antlerfold",
     "original": "Antlerfold",
-    "translation": "鹿角圈(Antlerfold)",
+    "translation": "鹿角圈",
     "stage": 1
   },
   {
@@ -1347,35 +1347,35 @@
     "ID": 293405826,
     "key": "White Horses Sea",
     "original": "White Horses Sea",
-    "translation": "白马海(White Horses Sea)",
+    "translation": "白马海",
     "stage": 1
   },
   {
     "ID": 293405827,
     "key": "Sea of Turning Tides",
     "original": "Sea of Turning Tides",
-    "translation": "转潮之海(Sea of Turning Tides)",
+    "translation": "转潮之海",
     "stage": 1
   },
   {
     "ID": 293405828,
     "key": "Pearl Sea",
     "original": "Pearl Sea",
-    "translation": "珍珠海(Pearl Sea)",
+    "translation": "珍珠海",
     "stage": 1
   },
   {
     "ID": 293405829,
     "key": "Knowesfold",
     "original": "Knowesfold",
-    "translation": "山丘草地(Knowesfold)",
+    "translation": "山丘草地",
     "stage": 5
   },
   {
     "ID": 293405830,
     "key": "Sycamore",
     "original": "Sycamore",
-    "translation": "梧桐(Sycamore)",
+    "translation": "梧桐",
     "stage": 1
   },
   {
@@ -1396,7 +1396,7 @@
     "ID": 293405833,
     "key": "Al-Anwar",
     "original": "Al-Anwar",
-    "translation": "阿尔-安瓦尔(Al-Anwar)",
+    "translation": "阿尔-安瓦尔",
     "stage": 5
   },
   {
@@ -1410,7 +1410,7 @@
     "ID": 293405835,
     "key": "Parcheim",
     "original": "Parcheim",
-    "translation": "帕尔海姆(Parcheim)",
+    "translation": "帕尔海姆",
     "stage": 1
   },
   {
@@ -1432,21 +1432,21 @@
     "ID": 293405838,
     "key": "Grimestone Peaks",
     "original": "Grimestone Peaks",
-    "translation": "磨石峰(Grimestone Peaks)",
+    "translation": "磨石峰",
     "stage": 1
   },
   {
     "ID": 293405839,
     "key": "Smallriver Hold",
     "original": "Smallriver Hold",
-    "translation": "小河堡(Smallriver Hold)",
+    "translation": "小河堡",
     "stage": 1
   },
   {
     "ID": 293405840,
     "key": "Solsweald",
     "original": "Solsweald",
-    "translation": "索尔斯韦尔德(Solsweald)",
+    "translation": "索尔斯韦尔德",
     "stage": 1
   },
   {
@@ -1460,14 +1460,14 @@
     "ID": 293405842,
     "key": "Weilburg",
     "original": "Weilburg",
-    "translation": "威尔堡(Weilburg)",
+    "translation": "威尔堡",
     "stage": 1
   },
   {
     "ID": 293405843,
     "key": "The Gloomy Hills",
     "original": "The Gloomy Hills",
-    "translation": "阴暗的山丘(The Gloomy Hills)",
+    "translation": "阴暗的山丘",
     "stage": 1
   },
   {
@@ -1482,21 +1482,21 @@
     "ID": 293405845,
     "key": "Grimroof",
     "original": "Grimroof",
-    "translation": "严酷的屋顶(Grimroof)",
+    "translation": "严酷的屋顶",
     "stage": 1
   },
   {
     "ID": 293405846,
     "key": "Rosenving",
     "original": "Rosenving",
-    "translation": "罗森文(Rosenving)",
+    "translation": "罗森文",
     "stage": 1
   },
   {
     "ID": 293405847,
     "key": "Pagan Heathland",
     "original": "Pagan Heathland",
-    "translation": "异教徒荒地(Pagan Heathland)",
+    "translation": "异教徒荒地",
     "stage": 1
   },
   {
@@ -1524,14 +1524,14 @@
     "ID": 293405851,
     "key": "Gunbald",
     "original": "Gunbald",
-    "translation": "冈巴尔德(Gunbald)",
+    "translation": "冈巴尔德",
     "stage": 1
   },
   {
     "ID": 293405852,
     "key": "Oldlock Hills",
     "original": "Oldlock Hills",
-    "translation": "奥尔德洛克山(Oldlock Hills)",
+    "translation": "奥尔德洛克山",
     "stage": 1
   },
   {
@@ -1546,7 +1546,7 @@
     "ID": 293405854,
     "key": "Grand Hare Woods",
     "original": "Grand Hare Woods",
-    "translation": "大野兔森林(Grand Hare Woods)",
+    "translation": "大野兔森林",
     "stage": 1
   },
   {
@@ -1561,21 +1561,21 @@
     "ID": 293405856,
     "key": "Dahab",
     "original": "Dahab",
-    "translation": "达哈卜(Dahab)",
+    "translation": "达哈卜",
     "stage": 1
   },
   {
     "ID": 293405857,
     "key": "Golden Order",
     "original": "Golden Order",
-    "translation": "黄金秩序(Golden Order)",
+    "translation": "黄金秩序",
     "stage": 1
   },
   {
     "ID": 293405858,
     "key": "Mortun",
     "original": "Mortun",
-    "translation": "莫顿(Mortun)",
+    "translation": "莫顿",
     "stage": 1
   },
   {
@@ -1611,7 +1611,7 @@
     "ID": 293405863,
     "key": "Brunhild",
     "original": "Brunhild",
-    "translation": "布伦希尔德(Brunhild)",
+    "translation": "布伦希尔德",
     "stage": 1
   },
   {
@@ -1626,7 +1626,7 @@
     "ID": 293405865,
     "key": "Firerock Grove",
     "original": "Firerock Grove",
-    "translation": "火石林(Firerock Grove)",
+    "translation": "火石林",
     "stage": 5
   },
   {
@@ -1690,7 +1690,7 @@
     "ID": 293405874,
     "key": "Red Lowlands",
     "original": "Red Lowlands",
-    "translation": "红色低地(Red Lowlands)",
+    "translation": "红色低地",
     "stage": 5
   },
   {
@@ -1739,14 +1739,14 @@
     "ID": 293405881,
     "key": "Thornvale",
     "original": "Thornvale",
-    "translation": "荆棘谷(Thornvale)",
+    "translation": "荆棘谷",
     "stage": 1
   },
   {
     "ID": 293405882,
     "key": "Gritstone",
     "original": "Gritstone",
-    "translation": "砂砾石(Gritstone)",
+    "translation": "砂砾石",
     "stage": 1
   },
   {
@@ -1774,14 +1774,14 @@
     "ID": 293405886,
     "key": "Hexenwald",
     "original": "Hexenwald",
-    "translation": "女巫之森(Hexenwald)",
+    "translation": "女巫之森",
     "stage": 1
   },
   {
     "ID": 293405887,
     "key": "Springs of Life",
     "original": "Springs of Life",
-    "translation": "生命之泉(Springs of Life)",
+    "translation": "生命之泉",
     "stage": 1
   },
   {
@@ -1795,7 +1795,7 @@
     "ID": 293405889,
     "key": "Vermillion Woods",
     "original": "Vermillion Woods",
-    "translation": "朱红树林(Vermillion Woods)",
+    "translation": "朱红树林",
     "stage": 1
   },
   {
@@ -1823,7 +1823,7 @@
     "ID": 293405893,
     "key": "The Glazed Valley",
     "original": "The Glazed Valley",
-    "translation": "琉璃谷(The Glazed Valley)",
+    "translation": "琉璃谷",
     "stage": 1
   },
   {
@@ -1837,7 +1837,7 @@
     "ID": 293405895,
     "key": "Brakel",
     "original": "Brakel",
-    "translation": "刹车(Brakel)",
+    "translation": "刹车",
     "stage": 1
   },
   {
@@ -1851,14 +1851,14 @@
     "ID": 293405897,
     "key": "Quickmatch",
     "original": "Quickmatch",
-    "translation": "快速匹配(Quickmatch)",
+    "translation": "快速匹配",
     "stage": 1
   },
   {
     "ID": 293405898,
     "key": "Dismal Woods",
     "original": "Dismal Woods",
-    "translation": "惨淡的树林(Dismal Woods)",
+    "translation": "惨淡的树林",
     "stage": 1
   },
   {
@@ -1886,7 +1886,7 @@
     "ID": 293405902,
     "key": "Hunter's Bosk",
     "original": "Hunter's Bosk",
-    "translation": "猎人的博斯克(Hunter's Bosk)",
+    "translation": "猎人的博斯克",
     "stage": 1
   },
   {
@@ -1943,7 +1943,7 @@
     "ID": 293405910,
     "key": "Gloomy Woods",
     "original": "Gloomy Woods",
-    "translation": "阴郁的树林(Gloomy Woods)",
+    "translation": "阴郁的树林",
     "stage": 1
   },
   {
@@ -1966,14 +1966,14 @@
     "ID": 293405913,
     "key": "Autumn Wind",
     "original": "Autumn Wind",
-    "translation": "秋风(Autumn Wind)",
+    "translation": "秋风",
     "stage": 1
   },
   {
     "ID": 293405914,
     "key": "Whale's Voyage",
     "original": "Whale's Voyage",
-    "translation": "鲸鱼之旅(Whale's Voyage)",
+    "translation": "鲸鱼之旅",
     "stage": 1
   },
   {
@@ -1987,14 +1987,14 @@
     "ID": 293405916,
     "key": "King's Bounty",
     "original": "King's Bounty",
-    "translation": "国王的赏金(King's Bounty)",
+    "translation": "国王的赏金",
     "stage": 1
   },
   {
     "ID": 293405917,
     "key": "Willowshire Hillside",
     "original": "Willowshire Hillside",
-    "translation": "柳郡山坡(Willowshire Hillside)",
+    "translation": "柳郡山坡",
     "stage": 5
   },
   {
@@ -2008,7 +2008,7 @@
     "ID": 293405919,
     "key": "Azure Marsh",
     "original": "Azure Marsh",
-    "translation": "蔚蓝沼泽(Azure Marsh)",
+    "translation": "蔚蓝沼泽",
     "stage": 1
   },
   {
@@ -2022,14 +2022,14 @@
     "ID": 293405921,
     "key": "Misty Barrows",
     "original": "Misty Barrows",
-    "translation": "迷雾墓丘(Misty Barrows)",
+    "translation": "迷雾墓丘",
     "stage": 5
   },
   {
     "ID": 293405922,
     "key": "Royal Grounds",
     "original": "Royal Grounds",
-    "translation": "皇家场地(Royal Grounds)",
+    "translation": "皇家场地",
     "stage": 1
   },
   {
@@ -2043,7 +2043,7 @@
     "ID": 293405924,
     "key": "Skauna",
     "original": "Skauna",
-    "translation": "斯考纳(Skauna)",
+    "translation": "斯考纳",
     "stage": 1
   },
   {
@@ -2064,28 +2064,28 @@
     "ID": 293405927,
     "key": "Scree Barrows",
     "original": "Scree Barrows",
-    "translation": "石砾墓丘(Scree Barrows)",
+    "translation": "石砾墓丘",
     "stage": 5
   },
   {
     "ID": 293405928,
     "key": "Glistening Flats",
     "original": "Glistening Flats",
-    "translation": "闪亮平底鞋(Glistening Flats)",
+    "translation": "闪亮平底鞋",
     "stage": 1
   },
   {
     "ID": 293405929,
     "key": "Horn",
     "original": "Horn",
-    "translation": "霍恩(Horn)",
+    "translation": "霍恩",
     "stage": 1
   },
   {
     "ID": 293405930,
     "key": "Orcbane Company",
     "original": "Orcbane Company",
-    "translation": "奥克班战团(Orcbane Company)",
+    "translation": "奥克班战团",
     "stage": 1
   },
   {
@@ -2114,21 +2114,21 @@
     "ID": 293405934,
     "key": "The Narrow Quag",
     "original": "The Narrow Quag",
-    "translation": "狭窄的鹌鹑(The Narrow Quag)",
+    "translation": "狭窄的鹌鹑",
     "stage": 1
   },
   {
     "ID": 293405935,
     "key": "Froglickers Grove",
     "original": "Froglickers Grove",
-    "translation": "舔吮青蛙林(Froglickers Grove)",
+    "translation": "舔吮青蛙林",
     "stage": 5
   },
   {
     "ID": 293405936,
     "key": "Norenford",
     "original": "Norenford",
-    "translation": "北境河流之地(Norenford)",
+    "translation": "北境河流之地",
     "stage": 5
   },
   {
@@ -2157,7 +2157,7 @@
     "ID": 293405940,
     "key": "Fleetfeet's Range",
     "original": "Fleetfeet's Range",
-    "translation": "舰队的范围(Fleetfeet's Range)",
+    "translation": "舰队的范围",
     "stage": 1
   },
   {
@@ -2171,14 +2171,14 @@
     "ID": 293405942,
     "key": "Grasslands",
     "original": "Grasslands",
-    "translation": "草原(Grasslands)",
+    "translation": "草原",
     "stage": 1
   },
   {
     "ID": 293405943,
     "key": "Highrise",
     "original": "Highrise",
-    "translation": "高耸之地(Highrise)",
+    "translation": "高耸之地",
     "stage": 5
   },
   {
@@ -2214,8 +2214,8 @@
     "ID": 293405948,
     "key": "Springwood",
     "original": "Springwood",
-    "translation": "斯普林伍德(Springwood)",
-    "stage": 1
+    "translation": "泉水之森",
+    "stage": 5
   },
   {
     "ID": 293405949,
@@ -2228,7 +2228,7 @@
     "ID": 293405950,
     "key": "The Burning Barrens",
     "original": "The Burning Barrens",
-    "translation": "燃烧的贫瘠之地(The Burning Barrens)",
+    "translation": "燃烧的贫瘠之地",
     "stage": 1
   },
   {
@@ -2256,21 +2256,21 @@
     "ID": 293405954,
     "key": "Southbloom",
     "original": "Southbloom",
-    "translation": "南方之芳草(Southbloom)",
+    "translation": "南方之芳草",
     "stage": 5
   },
   {
     "ID": 293405955,
     "key": "Fireander",
     "original": "Fireander",
-    "translation": "弗兰德(Fireander)",
+    "translation": "弗兰德",
     "stage": 1
   },
   {
     "ID": 293405956,
     "key": "The Dryweeds",
     "original": "The Dryweeds",
-    "translation": "干草(The Dryweeds)",
+    "translation": "干草",
     "stage": 1
   },
   {
@@ -2291,7 +2291,7 @@
     "ID": 293405959,
     "key": "Grimdowns",
     "original": "Grimdowns",
-    "translation": "冷酷无情(Grimdowns)",
+    "translation": "冷酷无情",
     "stage": 1
   },
   {
@@ -2305,7 +2305,7 @@
     "ID": 293405961,
     "key": "Griffon",
     "original": "Griffon",
-    "translation": "格里芬(Griffon)",
+    "translation": "格里芬",
     "stage": 1
   },
   {
@@ -2333,15 +2333,15 @@
     "ID": 293405965,
     "key": "Blood Bound",
     "original": "Blood Bound",
-    "translation": "血缚(Blood Bound)",
+    "translation": "血缚",
     "stage": 1
   },
   {
     "ID": 293405966,
     "key": "Brookwood",
     "original": "Brookwood",
-    "translation": "布鲁克伍德(Brookwood)",
-    "stage": 1
+    "translation": "溪木林",
+    "stage": 5
   },
   {
     "ID": 293405967,
@@ -2355,7 +2355,7 @@
     "ID": 293405968,
     "key": "Shinglehumps",
     "original": "Shinglehumps",
-    "translation": "带状疱疹(Shinglehumps)",
+    "translation": "带状疱疹",
     "stage": 1
   },
   {
@@ -2369,7 +2369,7 @@
     "ID": 293405970,
     "key": "Whistling Arrows",
     "original": "Whistling Arrows",
-    "translation": "呼啸的箭矢(Whistling Arrows)",
+    "translation": "呼啸的箭矢",
     "stage": 1
   },
   {
@@ -2433,14 +2433,14 @@
     "ID": 293405979,
     "key": "Al-Hazif",
     "original": "Al-Hazif",
-    "translation": "哈齐夫(Al-Hazif)",
+    "translation": "哈齐夫",
     "stage": 1
   },
   {
     "ID": 293405980,
     "key": "Skyreach",
     "original": "Skyreach",
-    "translation": "通天(Skyreach)",
+    "translation": "通天",
     "stage": 1
   },
   {
@@ -2455,7 +2455,7 @@
     "ID": 293405982,
     "key": "Glades of Decay",
     "original": "Glades of Decay",
-    "translation": "腐烂林地(Glades of Decay)",
+    "translation": "腐烂林地",
     "stage": 1
   },
   {
@@ -2484,21 +2484,21 @@
     "ID": 293405986,
     "key": "Kindon",
     "original": "Kindon",
-    "translation": "金东(Kindon)",
+    "translation": "金东",
     "stage": 1
   },
   {
     "ID": 293405987,
     "key": "Bleakwolds",
     "original": "Bleakwolds",
-    "translation": "荒凉丘陵(Bleakwolds)",
+    "translation": "荒凉丘陵",
     "stage": 5
   },
   {
     "ID": 293405988,
     "key": "Jagged Summit",
     "original": "Jagged Summit",
-    "translation": "锯齿山顶(Jagged Summit)",
+    "translation": "锯齿山顶",
     "stage": 5
   },
   {
@@ -2512,7 +2512,7 @@
     "ID": 293405990,
     "key": "Bartholin",
     "original": "Bartholin",
-    "translation": "巴托林(Bartholin)",
+    "translation": "巴托林",
     "stage": 1
   },
   {
@@ -2533,7 +2533,7 @@
     "ID": 293405993,
     "key": "Bertha",
     "original": "Bertha",
-    "translation": "伯莎(Bertha)",
+    "translation": "伯莎",
     "stage": 1
   },
   {
@@ -2554,28 +2554,28 @@
     "ID": 293405996,
     "key": "Arching Tides Ocean",
     "original": "Arching Tides Ocean",
-    "translation": "拱潮海洋(Arching Tides Ocean)",
+    "translation": "拱潮海洋",
     "stage": 1
   },
   {
     "ID": 293405997,
     "key": "The Shimmering Depths",
     "original": "The Shimmering Depths",
-    "translation": "波光粼粼的深渊(The Shimmering Depths)",
+    "translation": "波光粼粼的深渊",
     "stage": 1
   },
   {
     "ID": 293405998,
     "key": "Juniper Hills",
     "original": "Juniper Hills",
-    "translation": "杜松山丘(Juniper Hills)",
+    "translation": "杜松山丘",
     "stage": 5
   },
   {
     "ID": 293405999,
     "key": "Red Legion",
     "original": "Red Legion",
-    "translation": "红军团(Red Legion)",
+    "translation": "红军团",
     "stage": 1
   },
   {
@@ -2611,7 +2611,7 @@
     "ID": 293406004,
     "key": "Adelheim",
     "original": "Adelheim",
-    "translation": "阿德尔海姆(Adelheim)",
+    "translation": "阿德尔海姆",
     "stage": 1
   },
   {
@@ -2625,28 +2625,28 @@
     "ID": 293406006,
     "key": "Unbroken Third",
     "original": "Unbroken Third",
-    "translation": "不灭三人众(Unbroken Third)",
+    "translation": "不灭三人众",
     "stage": 1
   },
   {
     "ID": 293406007,
     "key": "Oak Wood Meadows",
     "original": "Oak Wood Meadows",
-    "translation": "橡木草地(Oak Wood Meadows)",
+    "translation": "橡木草地",
     "stage": 5
   },
   {
     "ID": 293406008,
     "key": "Niedergard",
     "original": "Niedergard",
-    "translation": "尼德加德(Niedergard)",
+    "translation": "尼德加德",
     "stage": 1
   },
   {
     "ID": 293406009,
     "key": "Icemark",
     "original": "Icemark",
-    "translation": "冰印(Icemark)",
+    "translation": "冰印",
     "stage": 1
   },
   {
@@ -2660,21 +2660,21 @@
     "ID": 293406011,
     "key": "Black Mud",
     "original": "Black Mud",
-    "translation": "黑泥(Black Mud)",
+    "translation": "黑泥",
     "stage": 1
   },
   {
     "ID": 293406012,
     "key": "Heartsong's Range",
     "original": "Heartsong's Range",
-    "translation": "心歌的范围(Heartsong's Range)",
+    "translation": "心歌的范围",
     "stage": 1
   },
   {
     "ID": 293406013,
     "key": "Prowlers Woods",
     "original": "Prowlers Woods",
-    "translation": "小偷森林(Prowlers Woods)",
+    "translation": "小偷森林",
     "stage": 5
   },
   {
@@ -2688,7 +2688,7 @@
     "ID": 293406015,
     "key": "Iron Peaks",
     "original": "Iron Peaks",
-    "translation": "铁峰(Iron Peaks)",
+    "translation": "铁峰",
     "stage": 1
   },
   {
@@ -2717,7 +2717,7 @@
     "ID": 293406019,
     "key": "Jagged Spires",
     "original": "Jagged Spires",
-    "translation": "锯齿峰群(Jagged Spires)",
+    "translation": "锯齿峰群",
     "stage": 5
   },
   {
@@ -2731,14 +2731,14 @@
     "ID": 293406021,
     "key": "Tanwir",
     "original": "Tanwir",
-    "translation": "坦维尔(Tanwir)",
+    "translation": "坦维尔",
     "stage": 1
   },
   {
     "ID": 293406022,
     "key": "Winterhall",
     "original": "Winterhall",
-    "translation": "温特霍尔(Winterhall)",
+    "translation": "温特霍尔",
     "stage": 1
   },
   {
@@ -2752,7 +2752,7 @@
     "ID": 293406024,
     "key": "Peatfold",
     "original": "Peatfold",
-    "translation": "泥炭地(Peatfold)",
+    "translation": "泥炭地",
     "stage": 1
   },
   {
@@ -2766,7 +2766,7 @@
     "ID": 293406026,
     "key": "Golden Horse",
     "original": "Golden Horse",
-    "translation": "金马(Golden Horse)",
+    "translation": "金马",
     "stage": 1
   },
   {
@@ -2795,7 +2795,7 @@
     "ID": 293406030,
     "key": "Brittle Branch Woods",
     "original": "Brittle Branch Woods",
-    "translation": "脆枝森林(Brittle Branch Woods)",
+    "translation": "脆枝森林",
     "stage": 5
   },
   {
@@ -2823,7 +2823,7 @@
     "ID": 293406034,
     "key": "White Wolf's Home",
     "original": "White Wolf's Home",
-    "translation": "白狼之家(White Wolf's Home)",
+    "translation": "白狼之家",
     "stage": 1
   },
   {
@@ -2837,8 +2837,8 @@
     "ID": 293406036,
     "key": "Greenwood Forest",
     "original": "Greenwood Forest",
-    "translation": "格林伍德森林(Greenwood Forest)",
-    "stage": 1
+    "translation": "绿木之森",
+    "stage": 5
   },
   {
     "ID": 293406037,
@@ -2858,7 +2858,7 @@
     "ID": 293406039,
     "key": "Bringers of Peace",
     "original": "Bringers of Peace",
-    "translation": "和平使者(Bringers of Peace)",
+    "translation": "和平使者",
     "stage": 1
   },
   {
@@ -2887,21 +2887,21 @@
     "ID": 293406043,
     "key": "Rainy Ocean",
     "original": "Rainy Ocean",
-    "translation": "多雨的海洋(Rainy Ocean)",
+    "translation": "多雨的海洋",
     "stage": 1
   },
   {
     "ID": 293406044,
     "key": "Whispering Sands",
     "original": "Whispering Sands",
-    "translation": "细语沙(Whispering Sands)",
+    "translation": "细语沙",
     "stage": 1
   },
   {
     "ID": 293406045,
     "key": "Golden Valley",
     "original": "Golden Valley",
-    "translation": "金谷(Golden Valley)",
+    "translation": "金谷",
     "stage": 5
   },
   {
@@ -2930,21 +2930,21 @@
     "ID": 293406049,
     "key": "Falkenberg's Legion",
     "original": "Falkenberg's Legion",
-    "translation": "鹰丘军团(Falkenberg's Legion)",
+    "translation": "鹰丘军团",
     "stage": 5
   },
   {
     "ID": 293406050,
     "key": "Dreaded Mire",
     "original": "Dreaded Mire",
-    "translation": "可怕的泥潭(Dreaded Mire)",
+    "translation": "可怕的泥潭",
     "stage": 1
   },
   {
     "ID": 293406051,
     "key": "Red Worm Woods",
     "original": "Red Worm Woods",
-    "translation": "红虫树林(Red Worm Woods)",
+    "translation": "红虫树林",
     "stage": 1
   },
   {
@@ -2958,14 +2958,14 @@
     "ID": 293406053,
     "key": "Deadbottom",
     "original": "Deadbottom",
-    "translation": "死底(Deadbottom)",
+    "translation": "死底",
     "stage": 1
   },
   {
     "ID": 293406054,
     "key": "The Howling Desert",
     "original": "The Howling Desert",
-    "translation": "嚎叫的沙漠(The Howling Desert)",
+    "translation": "嚎叫的沙漠",
     "stage": 1
   },
   {
@@ -2986,35 +2986,35 @@
     "ID": 293406057,
     "key": "Sparkling Sands",
     "original": "Sparkling Sands",
-    "translation": "波光粼粼的沙滩(Sparkling Sands)",
+    "translation": "波光粼粼的沙滩",
     "stage": 1
   },
   {
     "ID": 293406058,
     "key": "Bandit's Rest",
     "original": "Bandit's Rest",
-    "translation": "强盗的休息(Bandit's Rest)",
+    "translation": "强盗的休息",
     "stage": 1
   },
   {
     "ID": 293406059,
     "key": "Yellowleaf's Range",
     "original": "Yellowleaf's Range",
-    "translation": "黄叶的范围(Yellowleaf's Range)",
+    "translation": "黄叶的范围",
     "stage": 1
   },
   {
     "ID": 293406060,
     "key": "Blackfly",
     "original": "Blackfly",
-    "translation": "蚋(Blackfly)",
+    "translation": "蚋",
     "stage": 1
   },
   {
     "ID": 293406061,
     "key": "Frozen North",
     "original": "Frozen North",
-    "translation": "冰冻的北方(Frozen North)",
+    "translation": "冰冻的北方",
     "stage": 1
   },
   {
@@ -3028,14 +3028,14 @@
     "ID": 293406063,
     "key": "Al-Hazred",
     "original": "Al-Hazred",
-    "translation": "阿尔-哈兹雷德(Al-Hazred)",
+    "translation": "阿尔-哈兹雷德",
     "stage": 5
   },
   {
     "ID": 293406064,
     "key": "Thousand Gulls Sea",
     "original": "Thousand Gulls Sea",
-    "translation": "千鸥海(Thousand Gulls Sea)",
+    "translation": "千鸥海",
     "stage": 1
   },
   {
@@ -3049,7 +3049,7 @@
     "ID": 293406066,
     "key": "Dunspike",
     "original": "Dunspike",
-    "translation": "邓斯派克(Dunspike)",
+    "translation": "邓斯派克",
     "stage": 1
   },
   {
@@ -3063,7 +3063,7 @@
     "ID": 293406068,
     "key": "Concord",
     "original": "Concord",
-    "translation": "和睦(Concord)",
+    "translation": "和睦",
     "stage": 1
   },
   {
@@ -3099,7 +3099,7 @@
     "ID": 293406073,
     "key": "Crimson Daggers",
     "original": "Crimson Daggers",
-    "translation": "深红匕首(Crimson Daggers)",
+    "translation": "深红匕首",
     "stage": 1
   },
   {
@@ -3134,7 +3134,7 @@
     "ID": 293406078,
     "key": "Comet",
     "original": "Comet",
-    "translation": "灾星(Comet)",
+    "translation": "灾星",
     "stage": 1
   },
   {
@@ -3177,7 +3177,7 @@
     "ID": 293406084,
     "key": "Bald Crown",
     "original": "Bald Crown",
-    "translation": "秃头冠(Bald Crown)",
+    "translation": "秃头冠",
     "stage": 1
   },
   {
@@ -3205,14 +3205,14 @@
     "ID": 293406088,
     "key": "Bone Wardens",
     "original": "Bone Wardens",
-    "translation": "白骨守卫(Bone Wardens)",
+    "translation": "白骨守卫",
     "stage": 1
   },
   {
     "ID": 293406089,
     "key": "The Vast Rise",
     "original": "The Vast Rise",
-    "translation": "巨大的崛起(The Vast Rise)",
+    "translation": "巨大的崛起",
     "stage": 1
   },
   {
@@ -3226,14 +3226,14 @@
     "ID": 293406091,
     "key": "Dreaded Rocks",
     "original": "Dreaded Rocks",
-    "translation": "可怕的岩石(Dreaded Rocks)",
+    "translation": "可怕的岩石",
     "stage": 1
   },
   {
     "ID": 293406092,
     "key": "Ancient Forest",
     "original": "Ancient Forest",
-    "translation": "古森林(Ancient Forest)",
+    "translation": "古森林",
     "stage": 1
   },
   {
@@ -3254,7 +3254,7 @@
     "ID": 293406095,
     "key": "Yawning Gaps",
     "original": "Yawning Gaps",
-    "translation": "打哈欠的差距(Yawning Gaps)",
+    "translation": "打哈欠的差距",
     "stage": 1
   },
   {
@@ -3275,7 +3275,7 @@
     "ID": 293406098,
     "key": "Tetrarch",
     "original": "Tetrarch",
-    "translation": "领主(Tetrarch)",
+    "translation": "领主",
     "stage": 1
   },
   {
@@ -3289,14 +3289,14 @@
     "ID": 293406100,
     "key": "Dead Ponds",
     "original": "Dead Ponds",
-    "translation": "死池塘(Dead Ponds)",
+    "translation": "死池塘",
     "stage": 1
   },
   {
     "ID": 293406101,
     "key": "Company of the River House",
     "original": "Company of the River House",
-    "translation": "河屋公司(Company of the River House)",
+    "translation": "河屋公司",
     "stage": 1
   },
   {
@@ -3317,28 +3317,28 @@
     "ID": 293406104,
     "key": "Tarwa",
     "original": "Tarwa",
-    "translation": "塔尔瓦(Tarwa)",
+    "translation": "塔尔瓦",
     "stage": 1
   },
   {
     "ID": 293406105,
     "key": "Hammerguard",
     "original": "Hammerguard",
-    "translation": "铁锤卫士(Hammerguard)",
+    "translation": "铁锤卫士",
     "stage": 1
   },
   {
     "ID": 293406106,
     "key": "Sticky Wallow",
     "original": "Sticky Wallow",
-    "translation": "黏糊糊的(Sticky Wallow)",
+    "translation": "黏糊糊的",
     "stage": 1
   },
   {
     "ID": 293406107,
     "key": "Froghold",
     "original": "Froghold",
-    "translation": "蛤蟆城(Froghold)",
+    "translation": "蛤蟆城",
     "stage": 1
   },
   {
@@ -3359,7 +3359,7 @@
     "ID": 293406110,
     "key": "Clansman",
     "original": "Clansman",
-    "translation": "族人(Clansman)",
+    "translation": "族人",
     "stage": 1
   },
   {
@@ -3373,7 +3373,7 @@
     "ID": 293406112,
     "key": "Flaming Comet Company",
     "original": "Flaming Comet Company",
-    "translation": "火焰彗星公司(Flaming Comet Company)",
+    "translation": "火焰彗星公司",
     "stage": 1
   },
   {
@@ -3394,7 +3394,7 @@
     "ID": 293406115,
     "key": "The Scarlet Hills",
     "original": "The Scarlet Hills",
-    "translation": "猩红山丘(The Scarlet Hills)",
+    "translation": "猩红山丘",
     "stage": 1
   },
   {
@@ -3415,7 +3415,7 @@
     "ID": 293406118,
     "key": "Iron Crown Company",
     "original": "Iron Crown Company",
-    "translation": "铁冠公司(Iron Crown Company)",
+    "translation": "铁冠公司",
     "stage": 1
   },
   {
@@ -3459,7 +3459,7 @@
     "ID": 293406124,
     "key": "Drylands",
     "original": "Drylands",
-    "translation": "旱地(Drylands)",
+    "translation": "旱地",
     "stage": 1
   },
   {
@@ -3494,14 +3494,14 @@
     "ID": 293406129,
     "key": "Tar Fields",
     "original": "Tar Fields",
-    "translation": "焦油田(Tar Fields)",
+    "translation": "焦油田",
     "stage": 1
   },
   {
     "ID": 293406130,
     "key": "Wintermore",
     "original": "Wintermore",
-    "translation": "温特莫尔(Wintermore)",
+    "translation": "温特莫尔",
     "stage": 1
   },
   {
@@ -3515,14 +3515,14 @@
     "ID": 293406132,
     "key": "Eisenstein",
     "original": "Eisenstein",
-    "translation": "铁石(Eisenstein)",
+    "translation": "铁石",
     "stage": 5
   },
   {
     "ID": 293406133,
     "key": "Iceblade Dale",
     "original": "Iceblade Dale",
-    "translation": "冰刃谷(Iceblade Dale)",
+    "translation": "冰刃谷",
     "stage": 1
   },
   {
@@ -3550,7 +3550,7 @@
     "ID": 293406137,
     "key": "Nordlands",
     "original": "Nordlands",
-    "translation": "诺德兰兹(Nordlands)",
+    "translation": "诺德兰兹",
     "stage": 1
   },
   {
@@ -3564,7 +3564,7 @@
     "ID": 293406139,
     "key": "Giant's Pebbles",
     "original": "Giant's Pebbles",
-    "translation": "巨人的鹅卵石(Giant's Pebbles)",
+    "translation": "巨人的鹅卵石",
     "stage": 1
   },
   {
@@ -3578,14 +3578,14 @@
     "ID": 293406141,
     "key": "White Goat Mounds",
     "original": "White Goat Mounds",
-    "translation": "白山羊丘(White Goat Mounds)",
+    "translation": "白山羊丘",
     "stage": 1
   },
   {
     "ID": 293406142,
     "key": "Somerhurst",
     "original": "Somerhurst",
-    "translation": "萨默赫斯特(Somerhurst)",
+    "translation": "萨默赫斯特",
     "stage": 1
   },
   {
@@ -3599,14 +3599,14 @@
     "ID": 293406144,
     "key": "The Borderlands",
     "original": "The Borderlands",
-    "translation": "无主之地(The Borderlands)",
+    "translation": "无主之地",
     "stage": 5
   },
   {
     "ID": 293406145,
     "key": "Stormy Woods",
     "original": "Stormy Woods",
-    "translation": "风雨如磐的树林(Stormy Woods)",
+    "translation": "风雨如磐的树林",
     "stage": 1
   },
   {
@@ -3627,7 +3627,7 @@
     "ID": 293406148,
     "key": "Golden Sun",
     "original": "Golden Sun",
-    "translation": "金太阳(Golden Sun)",
+    "translation": "金太阳",
     "stage": 1
   },
   {
@@ -3641,7 +3641,7 @@
     "ID": 293406150,
     "key": "Northmark",
     "original": "Northmark",
-    "translation": "诺斯马克(Northmark)",
+    "translation": "诺斯马克",
     "stage": 1
   },
   {
@@ -3670,14 +3670,14 @@
     "ID": 293406154,
     "key": "Rustdroop",
     "original": "Rustdroop",
-    "translation": "锈滴林(Rustdroop)",
+    "translation": "锈滴林",
     "stage": 5
   },
   {
     "ID": 293406155,
     "key": "Vendland",
     "original": "Vendland",
-    "translation": "文德兰(Vendland)",
+    "translation": "文德兰",
     "stage": 1
   },
   {
@@ -3700,7 +3700,7 @@
     "ID": 293406158,
     "key": "Black Woods",
     "original": "Black Woods",
-    "translation": "黑树林(Black Woods)",
+    "translation": "黑树林",
     "stage": 5
   },
   {
@@ -3721,35 +3721,35 @@
     "ID": 293406161,
     "key": "Razorshrub",
     "original": "Razorshrub",
-    "translation": "剃刀灌木(Razorshrub)",
+    "translation": "剃刀灌木",
     "stage": 1
   },
   {
     "ID": 293406162,
     "key": "Solitaire",
     "original": "Solitaire",
-    "translation": "接龙(Solitaire)",
+    "translation": "接龙",
     "stage": 1
   },
   {
     "ID": 293406163,
     "key": "Gota",
     "original": "Gota",
-    "translation": "哥达(Gota)",
+    "translation": "哥达",
     "stage": 1
   },
   {
     "ID": 293406164,
     "key": "Auburn Woods",
     "original": "Auburn Woods",
-    "translation": "奥本森林(Auburn Woods)",
+    "translation": "奥本森林",
     "stage": 1
   },
   {
     "ID": 293406165,
     "key": "Dry Wastes",
     "original": "Dry Wastes",
-    "translation": "干燥废土(Dry Wastes)",
+    "translation": "干燥废土",
     "stage": 5
   },
   {
@@ -3763,7 +3763,7 @@
     "ID": 293406167,
     "key": "Crowntakers",
     "original": "Crowntakers",
-    "translation": "夺冠者(Crowntakers)",
+    "translation": "夺冠者",
     "stage": 1
   },
   {
@@ -3784,28 +3784,28 @@
     "ID": 293406170,
     "key": "Pearl of the South",
     "original": "Pearl of the South",
-    "translation": "南方明珠(Pearl of the South)",
+    "translation": "南方明珠",
     "stage": 1
   },
   {
     "ID": 293406171,
     "key": "Giant's Slopes",
     "original": "Giant's Slopes",
-    "translation": "巨人的斜坡(Giant's Slopes)",
+    "translation": "巨人的斜坡",
     "stage": 1
   },
   {
     "ID": 293406172,
     "key": "Northern Clanlands",
     "original": "Northern Clanlands",
-    "translation": "北方氏族(Northern Clanlands)",
+    "translation": "北方氏族",
     "stage": 1
   },
   {
     "ID": 293406173,
     "key": "Lofjord",
     "original": "Lofjord",
-    "translation": "洛峡湾(Lofjord)",
+    "translation": "洛峡湾",
     "stage": 1
   },
   {
@@ -3833,21 +3833,21 @@
     "ID": 293406177,
     "key": "Iron Covenant",
     "original": "Iron Covenant",
-    "translation": "铁盟(Iron Covenant)",
+    "translation": "铁盟",
     "stage": 1
   },
   {
     "ID": 293406178,
     "key": "Murky Tide Ocean",
     "original": "Murky Tide Ocean",
-    "translation": "暗潮海(Murky Tide Ocean)",
+    "translation": "暗潮海",
     "stage": 1
   },
   {
     "ID": 293406179,
     "key": "Muskena",
     "original": "Muskena",
-    "translation": "马斯基纳(Muskena)",
+    "translation": "马斯基纳",
     "stage": 1
   },
   {
@@ -3862,14 +3862,14 @@
     "ID": 293406181,
     "key": "Sea of Snow",
     "original": "Sea of Snow",
-    "translation": "雪海(Sea of Snow)",
+    "translation": "雪海",
     "stage": 1
   },
   {
     "ID": 293406182,
     "key": "Spine of the World",
     "original": "Spine of the World",
-    "translation": "世界之脊(Spine of the World)",
+    "translation": "世界之脊",
     "stage": 1
   },
   {
@@ -3883,7 +3883,7 @@
     "ID": 293406184,
     "key": "Meadowcove",
     "original": "Meadowcove",
-    "translation": "草甸湾(Meadowcove)",
+    "translation": "草甸湾",
     "stage": 1
   },
   {
@@ -3904,7 +3904,7 @@
     "ID": 293406187,
     "key": "Goathorns",
     "original": "Goathorns",
-    "translation": "山羊刺(Goathorns)",
+    "translation": "山羊刺",
     "stage": 1
   },
   {
@@ -3941,7 +3941,7 @@
     "ID": 293406192,
     "key": "Black Forest",
     "original": "Black Forest",
-    "translation": "黑森林(Black Forest)",
+    "translation": "黑森林",
     "stage": 5
   },
   {
@@ -3990,7 +3990,7 @@
     "ID": 293406199,
     "key": "Bogwood Grove",
     "original": "Bogwood Grove",
-    "translation": "地下木材林(Bogwood Grove)",
+    "translation": "地下木材林",
     "stage": 5
   },
   {
@@ -4040,7 +4040,7 @@
     "ID": 293406206,
     "key": "Dead Men",
     "original": "Dead Men",
-    "translation": "死人(Dead Men)",
+    "translation": "死人",
     "stage": 1
   },
   {
@@ -4054,14 +4054,14 @@
     "ID": 293406208,
     "key": "Riverland Glades",
     "original": "Riverland Glades",
-    "translation": "里弗兰格莱兹(Riverland Glades)",
+    "translation": "里弗兰格莱兹",
     "stage": 1
   },
   {
     "ID": 293406209,
     "key": "Willow's Fields",
     "original": "Willow's Fields",
-    "translation": "柳树原野(Willow's Fields)",
+    "translation": "柳树原野",
     "stage": 5
   },
   {
@@ -4091,7 +4091,7 @@
     "ID": 293406213,
     "key": "Spikewind",
     "original": "Spikewind",
-    "translation": "尖风(Spikewind)",
+    "translation": "尖风",
     "stage": 1
   },
   {
@@ -4112,14 +4112,14 @@
     "ID": 293406216,
     "key": "Snake's Covert",
     "original": "Snake's Covert",
-    "translation": "蛇的隐秘(Snake's Covert)",
+    "translation": "蛇的隐秘",
     "stage": 1
   },
   {
     "ID": 293406217,
     "key": "Seagull",
     "original": "Seagull",
-    "translation": "海鸥(Seagull)",
+    "translation": "海鸥",
     "stage": 1
   },
   {
@@ -4154,7 +4154,7 @@
     "ID": 293406222,
     "key": "Earthwatch Hills",
     "original": "Earthwatch Hills",
-    "translation": "地球观察山(Earthwatch Hills)",
+    "translation": "地球观察山",
     "stage": 1
   },
   {
@@ -4168,7 +4168,7 @@
     "ID": 293406224,
     "key": "Elm Grove",
     "original": "Elm Grove",
-    "translation": "榆树林(Elm Grove)",
+    "translation": "榆树林",
     "stage": 5
   },
   {
@@ -4196,14 +4196,14 @@
     "ID": 293406228,
     "key": "Shallowford",
     "original": "Shallowford",
-    "translation": "浅石滩(Shallowford)",
+    "translation": "浅石滩",
     "stage": 5
   },
   {
     "ID": 293406229,
     "key": "The Reach",
     "original": "The Reach",
-    "translation": "到达(The Reach)",
+    "translation": "到达",
     "stage": 1
   },
   {
@@ -4238,7 +4238,7 @@
     "ID": 293406234,
     "key": "Neumark",
     "original": "Neumark",
-    "translation": "纽马克(Neumark)",
+    "translation": "纽马克",
     "stage": 5
   },
   {
@@ -4261,21 +4261,21 @@
     "ID": 293406237,
     "key": "Great Sea",
     "original": "Great Sea",
-    "translation": "大海(Great Sea)",
+    "translation": "大海",
     "stage": 5
   },
   {
     "ID": 293406238,
     "key": "The Hummocks",
     "original": "The Hummocks",
-    "translation": "小丘群(The Hummocks)",
+    "translation": "小丘群",
     "stage": 5
   },
   {
     "ID": 293406239,
     "key": "Ragwilds",
     "original": "Ragwilds",
-    "translation": "拉格威尔兹(Ragwilds)",
+    "translation": "拉格威尔兹",
     "stage": 1
   },
   {
@@ -4303,7 +4303,7 @@
     "ID": 293406243,
     "key": "Plainshire",
     "original": "Plainshire",
-    "translation": "平原郡(Plainshire)",
+    "translation": "平原郡",
     "stage": 1
   },
   {
@@ -4317,7 +4317,7 @@
     "ID": 293406245,
     "key": "Decayed Heights",
     "original": "Decayed Heights",
-    "translation": "腐朽的高地(Decayed Heights)",
+    "translation": "腐朽的高地",
     "stage": 1
   },
   {
@@ -4331,15 +4331,15 @@
     "ID": 293406247,
     "key": "Bulwark",
     "original": "Bulwark",
-    "translation": "堡垒(Bulwark)",
+    "translation": "堡垒",
     "stage": 1
   },
   {
     "ID": 293406248,
     "key": "Hakim Al Ramal",
     "original": "Hakim Al Ramal",
-    "translation": "哈基姆·拉马尔(Hakim Al Ramal)",
-    "stage": 1
+    "translation": "哈基姆 阿尔 拉马尔",
+    "stage": 5
   },
   {
     "ID": 293406249,
@@ -4352,14 +4352,14 @@
     "ID": 293406250,
     "key": "Hero's Fall",
     "original": "Hero's Fall",
-    "translation": "英雄陨落之处(Hero's Fall)",
+    "translation": "英雄陨落之处",
     "stage": 5
   },
   {
     "ID": 293406251,
     "key": "Land of the Sun",
     "original": "Land of the Sun",
-    "translation": "太阳之国(Land of the Sun)",
+    "translation": "太阳之国",
     "stage": 1
   },
   {
@@ -4374,7 +4374,7 @@
     "ID": 293406253,
     "key": "Fair Range",
     "original": "Fair Range",
-    "translation": "公平范围(Fair Range)",
+    "translation": "公平范围",
     "stage": 1
   },
   {
@@ -4396,21 +4396,21 @@
     "ID": 293406256,
     "key": "The Scald",
     "original": "The Scald",
-    "translation": "烫伤(The Scald)",
+    "translation": "烫伤",
     "stage": 1
   },
   {
     "ID": 293406257,
     "key": "Grauwall",
     "original": "Grauwall",
-    "translation": "格劳沃尔(Grauwall)",
+    "translation": "格劳沃尔",
     "stage": 1
   },
   {
     "ID": 293406258,
     "key": "Minceacre",
     "original": "Minceacre",
-    "translation": "碎肉耕地(Minceacre)",
+    "translation": "碎肉耕地",
     "stage": 5
   },
   {
@@ -4453,21 +4453,21 @@
     "ID": 293406264,
     "key": "The Ashen Pinnacle",
     "original": "The Ashen Pinnacle",
-    "translation": "灰烬之巅(The Ashen Pinnacle)",
+    "translation": "灰烬之巅",
     "stage": 1
   },
   {
     "ID": 293406265,
     "key": "Scrublands",
     "original": "Scrublands",
-    "translation": "灌木丛(Scrublands)",
+    "translation": "灌木丛",
     "stage": 1
   },
   {
     "ID": 293406266,
     "key": "Rightful Ravagers",
     "original": "Rightful Ravagers",
-    "translation": "正当的掠夺者(Rightful Ravagers)",
+    "translation": "正当的掠夺者",
     "stage": 1
   },
   {
@@ -4489,14 +4489,14 @@
     "ID": 293406269,
     "key": "Kabira",
     "original": "Kabira",
-    "translation": "卡比拉(Kabira)",
+    "translation": "卡比拉",
     "stage": 5
   },
   {
     "ID": 293406270,
     "key": "The Reeds",
     "original": "The Reeds",
-    "translation": "芦苇(The Reeds)",
+    "translation": "芦苇",
     "stage": 1
   },
   {
@@ -4519,14 +4519,14 @@
     "ID": 293406273,
     "key": "The Dreary Barrens",
     "original": "The Dreary Barrens",
-    "translation": "凄凉的贫瘠之地(The Dreary Barrens)",
+    "translation": "凄凉的贫瘠之地",
     "stage": 1
   },
   {
     "ID": 293406274,
     "key": "Silver Claw",
     "original": "Silver Claw",
-    "translation": "银灰 爪爪(Silver Claw)",
+    "translation": "银灰 爪爪",
     "stage": 1
   },
   {
@@ -4554,14 +4554,14 @@
     "ID": 293406278,
     "key": "Deep Depths",
     "original": "Deep Depths",
-    "translation": "深处(Deep Depths)",
+    "translation": "深处",
     "stage": 1
   },
   {
     "ID": 293406279,
     "key": "Peat Basin",
     "original": "Peat Basin",
-    "translation": "泥炭盆地(Peat Basin)",
+    "translation": "泥炭盆地",
     "stage": 1
   },
   {
@@ -4582,14 +4582,14 @@
     "ID": 293406282,
     "key": "Coral Secret",
     "original": "Coral Secret",
-    "translation": "珊瑚秘密(Coral Secret)",
+    "translation": "珊瑚秘密",
     "stage": 1
   },
   {
     "ID": 293406283,
     "key": "Fiery Woods",
     "original": "Fiery Woods",
-    "translation": "火热的树林(Fiery Woods)",
+    "translation": "火热的树林",
     "stage": 1
   },
   {
@@ -4631,14 +4631,14 @@
     "ID": 293406289,
     "key": "Seven Stars",
     "original": "Seven Stars",
-    "translation": "七颗星(Seven Stars)",
+    "translation": "七颗星",
     "stage": 1
   },
   {
     "ID": 293406290,
     "key": "Glendale",
     "original": "Glendale",
-    "translation": "格伦代尔(Glendale)",
+    "translation": "格伦代尔",
     "stage": 1
   },
   {
@@ -4652,7 +4652,7 @@
     "ID": 293406292,
     "key": "Noble Runner",
     "original": "Noble Runner",
-    "translation": "贵族赛跑者(Noble Runner)",
+    "translation": "贵族赛跑者",
     "stage": 1
   },
   {
@@ -4694,7 +4694,7 @@
     "ID": 293406298,
     "key": "Snapping Twig Forest",
     "original": "Snapping Twig Forest",
-    "translation": "折枝森林(Snapping Twig Forest)",
+    "translation": "折枝森林",
     "stage": 1
   },
   {
@@ -4737,35 +4737,35 @@
     "ID": 293406304,
     "key": "Moss Valley",
     "original": "Moss Valley",
-    "translation": "苔藓谷(Moss Valley)",
+    "translation": "苔藓谷",
     "stage": 5
   },
   {
     "ID": 293406305,
     "key": "Browslopes",
     "original": "Browslopes",
-    "translation": "浏览斜坡(Browslopes)",
+    "translation": "浏览斜坡",
     "stage": 1
   },
   {
     "ID": 293406306,
     "key": "Silver Plains",
     "original": "Silver Plains",
-    "translation": "银平原(Silver Plains)",
+    "translation": "银平原",
     "stage": 1
   },
   {
     "ID": 293406307,
     "key": "Slaughtermount",
     "original": "Slaughtermount",
-    "translation": "屠宰山(Slaughtermount)",
+    "translation": "屠宰山",
     "stage": 1
   },
   {
     "ID": 293406308,
     "key": "The Lost Oasis",
     "original": "The Lost Oasis",
-    "translation": "失落的绿洲(The Lost Oasis)",
+    "translation": "失落的绿洲",
     "stage": 1
   },
   {
@@ -4780,7 +4780,7 @@
     "ID": 293406310,
     "key": "Thousand Mirrors Bog",
     "original": "Thousand Mirrors Bog",
-    "translation": "千镜沼泽(Thousand Mirrors Bog)",
+    "translation": "千镜沼泽",
     "stage": 1
   },
   {
@@ -4795,14 +4795,14 @@
     "ID": 293406312,
     "key": "Lowlands",
     "original": "Lowlands",
-    "translation": "低地(Lowlands)",
+    "translation": "低地",
     "stage": 5
   },
   {
     "ID": 293406313,
     "key": "Swords of the South",
     "original": "Swords of the South",
-    "translation": "南方之剑(Swords of the South)",
+    "translation": "南方之剑",
     "stage": 1
   },
   {
@@ -4830,14 +4830,14 @@
     "ID": 293406317,
     "key": "Forefathers' Highlands",
     "original": "Forefathers' Highlands",
-    "translation": "祖先高地(Forefathers' Highlands)",
+    "translation": "祖先高地",
     "stage": 1
   },
   {
     "ID": 293406318,
     "key": "Battle's Chosen",
     "original": "Battle's Chosen",
-    "translation": "战斗的选择(Battle's Chosen)",
+    "translation": "战斗的选择",
     "stage": 1
   },
   {
@@ -4858,7 +4858,7 @@
     "ID": 293406321,
     "key": "White Wilderness",
     "original": "White Wilderness",
-    "translation": "白色荒野(White Wilderness)",
+    "translation": "白色荒野",
     "stage": 1
   },
   {
@@ -4879,7 +4879,7 @@
     "ID": 293406324,
     "key": "Azure Expanse",
     "original": "Azure Expanse",
-    "translation": "蔚蓝的广阔(Azure Expanse)",
+    "translation": "蔚蓝的广阔",
     "stage": 1
   },
   {
@@ -4922,7 +4922,7 @@
     "ID": 293406330,
     "key": "Fast Clouds County",
     "original": "Fast Clouds County",
-    "translation": "快云县(Fast Clouds County)",
+    "translation": "快云县",
     "stage": 1
   },
   {
@@ -4936,7 +4936,7 @@
     "ID": 293406332,
     "key": "Southern Sands",
     "original": "Southern Sands",
-    "translation": "南沙(Southern Sands)",
+    "translation": "南沙",
     "stage": 1
   },
   {
@@ -4985,14 +4985,14 @@
     "ID": 293406339,
     "key": "Needlegrove",
     "original": "Needlegrove",
-    "translation": "针林(Needlegrove)",
+    "translation": "针林",
     "stage": 5
   },
   {
     "ID": 293406340,
     "key": "The Glistening Heights",
     "original": "The Glistening Heights",
-    "translation": "闪闪发光的高地(The Glistening Heights)",
+    "translation": "闪闪发光的高地",
     "stage": 1
   },
   {
@@ -5006,7 +5006,7 @@
     "ID": 293406342,
     "key": "Durum",
     "original": "Durum",
-    "translation": "硬粒小麦(Durum)",
+    "translation": "硬粒小麦",
     "stage": 1
   },
   {
@@ -5041,7 +5041,7 @@
     "ID": 293406347,
     "key": "Whispering Waves Sea",
     "original": "Whispering Waves Sea",
-    "translation": "波涛汹涌的大海(Whispering Waves Sea)",
+    "translation": "波涛汹涌的大海",
     "stage": 1
   },
   {
@@ -5083,7 +5083,7 @@
     "ID": 293406353,
     "key": "Southwatch",
     "original": "Southwatch",
-    "translation": "南方卫队(Southwatch)",
+    "translation": "南方卫队",
     "stage": 1
   },
   {
@@ -5105,21 +5105,21 @@
     "ID": 293406356,
     "key": "Azure Boars",
     "original": "Azure Boars",
-    "translation": "蔚蓝公猪(Azure Boars)",
+    "translation": "蔚蓝公猪",
     "stage": 1
   },
   {
     "ID": 293406357,
     "key": "The Bare Peaks",
     "original": "The Bare Peaks",
-    "translation": "光秃秃的山峰(The Bare Peaks)",
+    "translation": "光秃秃的山峰",
     "stage": 1
   },
   {
     "ID": 293406358,
     "key": "Brillfold",
     "original": "Brillfold",
-    "translation": "折叠式(Brillfold)",
+    "translation": "折叠式",
     "stage": 1
   },
   {
@@ -5147,14 +5147,14 @@
     "ID": 293406362,
     "key": "Whispering Groves",
     "original": "Whispering Groves",
-    "translation": "耳语林(Whispering Groves)",
+    "translation": "耳语林",
     "stage": 5
   },
   {
     "ID": 293406363,
     "key": "Mossy Woods",
     "original": "Mossy Woods",
-    "translation": "苔藓森林(Mossy Woods)",
+    "translation": "苔藓森林",
     "stage": 1
   },
   {
@@ -5168,7 +5168,7 @@
     "ID": 293406365,
     "key": "Elder Woods",
     "original": "Elder Woods",
-    "translation": "长老森林(Elder Woods)",
+    "translation": "长老森林",
     "stage": 5
   },
   {
@@ -5197,7 +5197,7 @@
     "ID": 293406369,
     "key": "Ghost Hills",
     "original": "Ghost Hills",
-    "translation": "鬼山(Ghost Hills)",
+    "translation": "鬼山",
     "stage": 1
   },
   {
@@ -5218,7 +5218,7 @@
     "ID": 293406372,
     "key": "Krieger",
     "original": "Krieger",
-    "translation": "克里格(Krieger)",
+    "translation": "克里格",
     "stage": 1
   },
   {
@@ -5239,35 +5239,35 @@
     "ID": 293406375,
     "key": "Droughtshire",
     "original": "Droughtshire",
-    "translation": "干旱郡(Droughtshire)",
+    "translation": "干旱郡",
     "stage": 1
   },
   {
     "ID": 293406376,
     "key": "Bottomless Pits",
     "original": "Bottomless Pits",
-    "translation": "无底坑(Bottomless Pits)",
+    "translation": "无底坑",
     "stage": 1
   },
   {
     "ID": 293406377,
     "key": "Ridland",
     "original": "Ridland",
-    "translation": "里德兰(Ridland)",
+    "translation": "里德兰",
     "stage": 1
   },
   {
     "ID": 293406378,
     "key": "Rustling Thicket",
     "original": "Rustling Thicket",
-    "translation": "沙沙的丛林(Rustling Thicket)",
+    "translation": "沙沙的丛林",
     "stage": 1
   },
   {
     "ID": 293406379,
     "key": "Markland Pikes",
     "original": "Markland Pikes",
-    "translation": "马克兰派克(Markland Pikes)",
+    "translation": "马克兰派克",
     "stage": 1
   },
   {
@@ -5289,7 +5289,7 @@
     "ID": 293406382,
     "key": "Deserted Rise",
     "original": "Deserted Rise",
-    "translation": "荒芜的崛起(Deserted Rise)",
+    "translation": "荒芜的崛起",
     "stage": 1
   },
   {
@@ -5324,7 +5324,7 @@
     "ID": 293406387,
     "key": "Nomads",
     "original": "Nomads",
-    "translation": "游牧民(Nomads)",
+    "translation": "游牧民",
     "stage": 5
   },
   {
@@ -5359,14 +5359,14 @@
     "ID": 293406392,
     "key": "Macaw Woods",
     "original": "Macaw Woods",
-    "translation": "金刚鹦鹉树林(Macaw Woods)",
+    "translation": "金刚鹦鹉树林",
     "stage": 1
   },
   {
     "ID": 293406393,
     "key": "Ammondt",
     "original": "Ammondt",
-    "translation": "阿蒙德(Ammondt)",
+    "translation": "阿蒙德",
     "stage": 1
   },
   {
@@ -5395,14 +5395,14 @@
     "ID": 293406397,
     "key": "The Great Desert",
     "original": "The Great Desert",
-    "translation": "大沙漠(The Great Desert)",
+    "translation": "大沙漠",
     "stage": 1
   },
   {
     "ID": 293406398,
     "key": "Shifting Sands",
     "original": "Shifting Sands",
-    "translation": "流沙(Shifting Sands)",
+    "translation": "流沙",
     "stage": 1
   },
   {
@@ -5416,8 +5416,8 @@
     "ID": 293406400,
     "key": "Wolfwood",
     "original": "Wolfwood",
-    "translation": "沃尔夫伍德(Wolfwood)",
-    "stage": 1
+    "translation": "野狼之森",
+    "stage": 5
   },
   {
     "ID": 293406401,
@@ -5444,7 +5444,7 @@
     "ID": 293406404,
     "key": "Glenmore Barrows",
     "original": "Glenmore Barrows",
-    "translation": "格伦莫尔墓丘(Glenmore Barrows)",
+    "translation": "格伦莫尔墓丘",
     "stage": 5
   },
   {
@@ -5459,7 +5459,7 @@
     "ID": 293406406,
     "key": "Iron Mountains",
     "original": "Iron Mountains",
-    "translation": "铁山(Iron Mountains)",
+    "translation": "铁山",
     "stage": 1
   },
   {
@@ -5480,42 +5480,42 @@
     "ID": 293406409,
     "key": "Sommerwein",
     "original": "Sommerwein",
-    "translation": "萨默温(Sommerwein)",
+    "translation": "萨默温",
     "stage": 1
   },
   {
     "ID": 293406410,
     "key": "Skullsbreath Mound",
     "original": "Skullsbreath Mound",
-    "translation": "颅息之丘(Skullsbreath Mound)",
+    "translation": "颅息之丘",
     "stage": 5
   },
   {
     "ID": 293406411,
     "key": "Hedin",
     "original": "Hedin",
-    "translation": "赫定(Hedin)",
+    "translation": "赫定",
     "stage": 1
   },
   {
     "ID": 293406412,
     "key": "Ranger's Rest",
     "original": "Ranger's Rest",
-    "translation": "游侠的休息(Ranger's Rest)",
+    "translation": "游侠的休息",
     "stage": 1
   },
   {
     "ID": 293406413,
     "key": "Moonlit Peaks",
     "original": "Moonlit Peaks",
-    "translation": "月光峰(Moonlit Peaks)",
+    "translation": "月光峰",
     "stage": 1
   },
   {
     "ID": 293406414,
     "key": "Norshire",
     "original": "Norshire",
-    "translation": "诺郡(Norshire)",
+    "translation": "诺郡",
     "stage": 1
   },
   {
@@ -5565,14 +5565,14 @@
     "ID": 293406421,
     "key": "Silversage Fields",
     "original": "Silversage Fields",
-    "translation": "银鼠尾草原野(Silversage Fields)",
+    "translation": "银鼠尾草原野",
     "stage": 5
   },
   {
     "ID": 293406422,
     "key": "Emerald Bassin",
     "original": "Emerald Bassin",
-    "translation": "翡翠盆地(Emerald Bassin)",
+    "translation": "翡翠盆地",
     "stage": 1
   },
   {
@@ -5586,14 +5586,14 @@
     "ID": 293406424,
     "key": "Glittering Sands",
     "original": "Glittering Sands",
-    "translation": "闪闪发光的沙滩(Glittering Sands)",
+    "translation": "闪闪发光的沙滩",
     "stage": 1
   },
   {
     "ID": 293406425,
     "key": "Blazing Forest",
     "original": "Blazing Forest",
-    "translation": "炽热的森林(Blazing Forest)",
+    "translation": "炽热的森林",
     "stage": 1
   },
   {
@@ -5621,14 +5621,14 @@
     "ID": 293406429,
     "key": "Berengar",
     "original": "Berengar",
-    "translation": "贝伦加尔(Berengar)",
+    "translation": "贝伦加尔",
     "stage": 1
   },
   {
     "ID": 293406430,
     "key": "Dawn's March",
     "original": "Dawn's March",
-    "translation": "黎明三月(Dawn's March)",
+    "translation": "黎明三月",
     "stage": 1
   },
   {
@@ -5649,14 +5649,14 @@
     "ID": 293406433,
     "key": "Smoldering Woods",
     "original": "Smoldering Woods",
-    "translation": "阴燃森林(Smoldering Woods)",
+    "translation": "阴燃森林",
     "stage": 1
   },
   {
     "ID": 293406434,
     "key": "Redwood",
     "original": "Redwood",
-    "translation": "红木(Redwood)",
+    "translation": "红木",
     "stage": 1
   },
   {
@@ -5684,42 +5684,42 @@
     "ID": 293406438,
     "key": "Adelreich",
     "original": "Adelreich",
-    "translation": "阿德尔赖希(Adelreich)",
+    "translation": "阿德尔赖希",
     "stage": 1
   },
   {
     "ID": 293406439,
     "key": "Savage Bog",
     "original": "Savage Bog",
-    "translation": "野蛮沼泽(Savage Bog)",
+    "translation": "野蛮沼泽",
     "stage": 1
   },
   {
     "ID": 293406440,
     "key": "Scoundrels' Forest",
     "original": "Scoundrels' Forest",
-    "translation": "恶棍的森林(Scoundrels' Forest)",
+    "translation": "恶棍的森林",
     "stage": 1
   },
   {
     "ID": 293406441,
     "key": "Foxfold Forest",
     "original": "Foxfold Forest",
-    "translation": "狐狸森林(Foxfold Forest)",
+    "translation": "狐狸森林",
     "stage": 1
   },
   {
     "ID": 293406442,
     "key": "White Company",
     "original": "White Company",
-    "translation": "白色公司(White Company)",
+    "translation": "白色公司",
     "stage": 1
   },
   {
     "ID": 293406443,
     "key": "Tablelands",
     "original": "Tablelands",
-    "translation": "高原(Tablelands)",
+    "translation": "高原",
     "stage": 1
   },
   {
@@ -5755,21 +5755,21 @@
     "ID": 293406448,
     "key": "Banshee Mounds",
     "original": "Banshee Mounds",
-    "translation": "女妖丘(Banshee Mounds)",
+    "translation": "女妖丘",
     "stage": 5
   },
   {
     "ID": 293406449,
     "key": "Witchmount Hills",
     "original": "Witchmount Hills",
-    "translation": "女巫山(Witchmount Hills)",
+    "translation": "女巫山",
     "stage": 1
   },
   {
     "ID": 293406450,
     "key": "Suderos",
     "original": "Suderos",
-    "translation": "苏德罗斯(Suderos)",
+    "translation": "苏德罗斯",
     "stage": 1
   },
   {
@@ -5783,7 +5783,7 @@
     "ID": 293406452,
     "key": "Borderdale",
     "original": "Borderdale",
-    "translation": "伯德代尔(Borderdale)",
+    "translation": "伯德代尔",
     "stage": 1
   },
   {
@@ -5819,21 +5819,21 @@
     "ID": 293406457,
     "key": "Widowmakers",
     "original": "Widowmakers",
-    "translation": "寡妇制造者(Widowmakers)",
+    "translation": "寡妇制造者",
     "stage": 1
   },
   {
     "ID": 293406458,
     "key": "Frozen Burrows",
     "original": "Frozen Burrows",
-    "translation": "冰冻洞穴(Frozen Burrows)",
+    "translation": "冰冻洞穴",
     "stage": 1
   },
   {
     "ID": 293406459,
     "key": "Rustyblade Mesa",
     "original": "Rustyblade Mesa",
-    "translation": "锈刃台地(Rustyblade Mesa)",
+    "translation": "锈刃台地",
     "stage": 1
   },
   {
@@ -5847,14 +5847,14 @@
     "ID": 293406461,
     "key": "Caskain",
     "original": "Caskain",
-    "translation": "卡斯凯恩(Caskain)",
+    "translation": "卡斯凯恩",
     "stage": 1
   },
   {
     "ID": 293406462,
     "key": "Ragnar's Range",
     "original": "Ragnar's Range",
-    "translation": "拉格纳的范围(Ragnar's Range)",
+    "translation": "拉格纳的范围",
     "stage": 1
   },
   {
@@ -5868,21 +5868,21 @@
     "ID": 293406464,
     "key": "Everwoods",
     "original": "Everwoods",
-    "translation": "埃弗伍德(Everwoods)",
-    "stage": 1
+    "translation": "永恒之林",
+    "stage": 5
   },
   {
     "ID": 293406465,
     "key": "Black Shields",
     "original": "Black Shields",
-    "translation": "黑盾(Black Shields)",
+    "translation": "黑盾",
     "stage": 1
   },
   {
     "ID": 293406466,
     "key": "Mathilda",
     "original": "Mathilda",
-    "translation": "玛蒂尔达(Mathilda)",
+    "translation": "玛蒂尔达",
     "stage": 1
   },
   {
@@ -5896,7 +5896,7 @@
     "ID": 293406468,
     "key": "Crows Nest",
     "original": "Crows Nest",
-    "translation": "乌鸦之巢(Crows Nest)",
+    "translation": "乌鸦之巢",
     "stage": 5
   },
   {
@@ -5910,7 +5910,7 @@
     "ID": 293406470,
     "key": "Second Sons",
     "original": "Second Sons",
-    "translation": "第二个儿子(Second Sons)",
+    "translation": "第二个儿子",
     "stage": 1
   },
   {
@@ -5931,21 +5931,21 @@
     "ID": 293406473,
     "key": "Crowned Oak Forest",
     "original": "Crowned Oak Forest",
-    "translation": "加冕橡树林(Crowned Oak Forest)",
+    "translation": "加冕橡树林",
     "stage": 1
   },
   {
     "ID": 293406474,
     "key": "Black Morass",
     "original": "Black Morass",
-    "translation": "黑色沼泽(Black Morass)",
+    "translation": "黑色沼泽",
     "stage": 1
   },
   {
     "ID": 293406475,
     "key": "Murmuring Woods",
     "original": "Murmuring Woods",
-    "translation": "喃喃的树林(Murmuring Woods)",
+    "translation": "喃喃的树林",
     "stage": 1
   },
   {
@@ -5959,21 +5959,21 @@
     "ID": 293406477,
     "key": "Blackwood Forest",
     "original": "Blackwood Forest",
-    "translation": "黑木森林(Blackwood Forest)",
+    "translation": "黑木森林",
     "stage": 5
   },
   {
     "ID": 293406478,
     "key": "Brimstone Shoulders",
     "original": "Brimstone Shoulders",
-    "translation": "硫磺山肩(Brimstone Shoulders)",
+    "translation": "硫磺山肩",
     "stage": 5
   },
   {
     "ID": 293406479,
     "key": "Dire Hold",
     "original": "Dire Hold",
-    "translation": "可怕的要塞(Dire Hold)",
+    "translation": "可怕的要塞",
     "stage": 1
   },
   {
@@ -5994,7 +5994,7 @@
     "ID": 293406482,
     "key": "Cloddheads",
     "original": "Cloddheads",
-    "translation": "笨蛋(Cloddheads)",
+    "translation": "笨蛋",
     "stage": 1
   },
   {
@@ -6008,7 +6008,7 @@
     "ID": 293406484,
     "key": "Misty Summit",
     "original": "Misty Summit",
-    "translation": "迷雾峰会(Misty Summit)",
+    "translation": "迷雾峰会",
     "stage": 1
   },
   {
@@ -6061,14 +6061,14 @@
     "ID": 293406491,
     "key": "Wolves of Bleak Forest",
     "original": "Wolves of Bleak Forest",
-    "translation": "荒凉森林的狼群(Wolves of Bleak Forest)",
+    "translation": "荒凉森林的狼群",
     "stage": 1
   },
   {
     "ID": 293406492,
     "key": "Silver Flats",
     "original": "Silver Flats",
-    "translation": "银色平底鞋(Silver Flats)",
+    "translation": "银色平底鞋",
     "stage": 1
   },
   {
@@ -6097,21 +6097,21 @@
     "ID": 293406496,
     "key": "Quadim",
     "original": "Quadim",
-    "translation": "夸丁(Quadim)",
+    "translation": "夸丁",
     "stage": 1
   },
   {
     "ID": 293406497,
     "key": "Pyrewood",
     "original": "Pyrewood",
-    "translation": "柴火(Pyrewood)",
+    "translation": "柴火",
     "stage": 1
   },
   {
     "ID": 293406498,
     "key": "Whispering Hills",
     "original": "Whispering Hills",
-    "translation": "耳语山(Whispering Hills)",
+    "translation": "耳语山",
     "stage": 1
   },
   {
@@ -6132,28 +6132,28 @@
     "ID": 293406501,
     "key": "Elderberry Woods",
     "original": "Elderberry Woods",
-    "translation": "接骨木林(Elderberry Woods)",
+    "translation": "接骨木林",
     "stage": 1
   },
   {
     "ID": 293406502,
     "key": "Boulderhills",
     "original": "Boulderhills",
-    "translation": "博尔德希尔斯(Boulderhills)",
+    "translation": "博尔德希尔斯",
     "stage": 1
   },
   {
     "ID": 293406503,
     "key": "Scorching Desert",
     "original": "Scorching Desert",
-    "translation": "灼热的沙漠(Scorching Desert)",
+    "translation": "灼热的沙漠",
     "stage": 1
   },
   {
     "ID": 293406504,
     "key": "Gift of God",
     "original": "Gift of God",
-    "translation": "上帝的礼物(Gift of God)",
+    "translation": "上帝的礼物",
     "stage": 1
   },
   {
@@ -6197,21 +6197,21 @@
     "ID": 293406510,
     "key": "Grimmund",
     "original": "Grimmund",
-    "translation": "格林蒙德(Grimmund)",
+    "translation": "格林蒙德",
     "stage": 1
   },
   {
     "ID": 293406511,
     "key": "Houndsmarsh",
     "original": "Houndsmarsh",
-    "translation": "猎犬沼泽(Houndsmarsh)",
+    "translation": "猎犬沼泽",
     "stage": 1
   },
   {
     "ID": 293406512,
     "key": "Neverending Sands",
     "original": "Neverending Sands",
-    "translation": "永无止境的金沙(Neverending Sands)",
+    "translation": "永无止境的金沙",
     "stage": 1
   },
   {
@@ -6247,14 +6247,14 @@
     "ID": 293406517,
     "key": "Howl of the Sea",
     "original": "Howl of the Sea",
-    "translation": "海啸(Howl of the Sea)",
+    "translation": "海啸",
     "stage": 1
   },
   {
     "ID": 293406518,
     "key": "Splinterdale",
     "original": "Splinterdale",
-    "translation": "斯普林特代尔(Splinterdale)",
+    "translation": "斯普林特代尔",
     "stage": 1
   },
   {
@@ -6283,28 +6283,28 @@
     "ID": 293406522,
     "key": "Suffocating Bog",
     "original": "Suffocating Bog",
-    "translation": "令人窒息的沼泽(Suffocating Bog)",
+    "translation": "令人窒息的沼泽",
     "stage": 1
   },
   {
     "ID": 293406523,
     "key": "Druid's Grove",
     "original": "Druid's Grove",
-    "translation": "德鲁伊的树林(Druid's Grove)",
+    "translation": "德鲁伊的树林",
     "stage": 5
   },
   {
     "ID": 293406524,
     "key": "Fang and Coin",
     "original": "Fang and Coin",
-    "translation": "方和硬币(Fang and Coin)",
+    "translation": "方和硬币",
     "stage": 1
   },
   {
     "ID": 293406525,
     "key": "Kaltenborn",
     "original": "Kaltenborn",
-    "translation": "卡尔滕伯恩(Kaltenborn)",
+    "translation": "卡尔滕伯恩",
     "stage": 1
   },
   {
@@ -6340,7 +6340,7 @@
     "ID": 293406530,
     "key": "Desolate Moor",
     "original": "Desolate Moor",
-    "translation": "荒凉的荒原(Desolate Moor)",
+    "translation": "荒凉的荒原",
     "stage": 1
   },
   {
@@ -6354,7 +6354,7 @@
     "ID": 293406532,
     "key": "Bernhard's Bears",
     "original": "Bernhard's Bears",
-    "translation": "伯恩哈德的熊(Bernhard's Bears)",
+    "translation": "伯恩哈德的熊",
     "stage": 1
   },
   {
@@ -6383,7 +6383,7 @@
     "ID": 293406536,
     "key": "Shimmering Expanse",
     "original": "Shimmering Expanse",
-    "translation": "波光粼粼的广阔(Shimmering Expanse)",
+    "translation": "波光粼粼的广阔",
     "stage": 1
   },
   {
@@ -6404,35 +6404,35 @@
     "ID": 293406539,
     "key": "Mossy Pine Woods",
     "original": "Mossy Pine Woods",
-    "translation": "苔藓松树林(Mossy Pine Woods)",
+    "translation": "苔藓松树林",
     "stage": 1
   },
   {
     "ID": 293406540,
     "key": "Sea Nymph",
     "original": "Sea Nymph",
-    "translation": "海若虫(Sea Nymph)",
+    "translation": "海若虫",
     "stage": 1
   },
   {
     "ID": 293406541,
     "key": "Buried Snake Hills",
     "original": "Buried Snake Hills",
-    "translation": "埋蛇山(Buried Snake Hills)",
+    "translation": "埋蛇山",
     "stage": 1
   },
   {
     "ID": 293406542,
     "key": "Sea of Sand",
     "original": "Sea of Sand",
-    "translation": "沙海(Sea of Sand)",
+    "translation": "沙海",
     "stage": 1
   },
   {
     "ID": 293406543,
     "key": "Forsaken Brigade",
     "original": "Forsaken Brigade",
-    "translation": "被遗忘者旅(Forsaken Brigade)",
+    "translation": "被遗忘者旅",
     "stage": 1
   },
   {
@@ -6446,14 +6446,14 @@
     "ID": 293406545,
     "key": "Beatroot Wilds",
     "original": "Beatroot Wilds",
-    "translation": "甜菜根荒野(Beatroot Wilds)",
+    "translation": "甜菜根荒野",
     "stage": 1
   },
   {
     "ID": 293406546,
     "key": "Holmburn",
     "original": "Holmburn",
-    "translation": "霍姆本(Holmburn)",
+    "translation": "霍姆本",
     "stage": 5
   },
   {
@@ -6467,28 +6467,28 @@
     "ID": 293406548,
     "key": "The Rift",
     "original": "The Rift",
-    "translation": "裂谷(The Rift)",
+    "translation": "裂谷",
     "stage": 5
   },
   {
     "ID": 293406549,
     "key": "Torched Plains",
     "original": "Torched Plains",
-    "translation": "火炬平原(Torched Plains)",
+    "translation": "火炬平原",
     "stage": 1
   },
   {
     "ID": 293406550,
     "key": "Kraken",
     "original": "Kraken",
-    "translation": "克拉肯(Kraken)",
-    "stage": 5
+    "translation": "克拉肯",
+    "stage": 1
   },
   {
     "ID": 293406551,
     "key": "Shipreath Marsh",
     "original": "Shipreath Marsh",
-    "translation": "希普雷斯沼泽(Shipreath Marsh)",
+    "translation": "希普雷斯沼泽",
     "stage": 1
   },
   {
@@ -6510,7 +6510,7 @@
     "ID": 293406554,
     "key": "Sandy Bay",
     "original": "Sandy Bay",
-    "translation": "桑迪湾(Sandy Bay)",
+    "translation": "桑迪湾",
     "stage": 1
   },
   {
@@ -6545,14 +6545,14 @@
     "ID": 293406559,
     "key": "Bleached Bone Dale",
     "original": "Bleached Bone Dale",
-    "translation": "漂白的骨头谷(Bleached Bone Dale)",
+    "translation": "漂白的骨头谷",
     "stage": 1
   },
   {
     "ID": 293406560,
     "key": "Forbidden Waters",
     "original": "Forbidden Waters",
-    "translation": "禁水区(Forbidden Waters)",
+    "translation": "禁水区",
     "stage": 1
   },
   {
@@ -6581,21 +6581,21 @@
     "ID": 293406564,
     "key": "Snowbank",
     "original": "Snowbank",
-    "translation": "雪洲(Snowbank)",
+    "translation": "雪洲",
     "stage": 1
   },
   {
     "ID": 293406565,
     "key": "Ancient Knolls",
     "original": "Ancient Knolls",
-    "translation": "远古小丘(Ancient Knolls)",
+    "translation": "远古小丘",
     "stage": 5
   },
   {
     "ID": 293406566,
     "key": "Eagleflight",
     "original": "Eagleflight",
-    "translation": "鹰翔岭(Eagleflight)",
+    "translation": "鹰翔岭",
     "stage": 5
   },
   {
@@ -6616,7 +6616,7 @@
     "ID": 293406569,
     "key": "The Sea of Trees",
     "original": "The Sea of Trees",
-    "translation": "树海(The Sea of Trees)",
+    "translation": "树海",
     "stage": 1
   },
   {
@@ -6652,7 +6652,7 @@
     "ID": 293406574,
     "key": "Ejnar Erikson",
     "original": "Ejnar Erikson",
-    "translation": "埃纳尔·埃里克森(Ejnar Erikson)",
+    "translation": "埃纳尔·埃里克森",
     "stage": 1
   },
   {
@@ -6666,7 +6666,7 @@
     "ID": 293406576,
     "key": "Lady of the Sea",
     "original": "Lady of the Sea",
-    "translation": "海之夫人(Lady of the Sea)",
+    "translation": "海之夫人",
     "stage": 1
   },
   {
@@ -6687,7 +6687,7 @@
     "ID": 293406579,
     "key": "King's End Company",
     "original": "King's End Company",
-    "translation": "国王大道公司(King's End Company)",
+    "translation": "国王大道公司",
     "stage": 1
   },
   {
@@ -6715,7 +6715,7 @@
     "ID": 293406583,
     "key": "Spidergrove",
     "original": "Spidergrove",
-    "translation": "蜘蛛林(Spidergrove)",
+    "translation": "蜘蛛林",
     "stage": 5
   },
   {
@@ -6751,14 +6751,14 @@
     "ID": 293406588,
     "key": "Wicked Woods",
     "original": "Wicked Woods",
-    "translation": "邪恶的树林(Wicked Woods)",
+    "translation": "邪恶的树林",
     "stage": 1
   },
   {
     "ID": 293406589,
     "key": "Greenfold",
     "original": "Greenfold",
-    "translation": "格林福德(Greenfold)",
+    "translation": "格林福德",
     "stage": 1
   },
   {
@@ -6808,7 +6808,7 @@
     "ID": 293406596,
     "key": "Altmark",
     "original": "Altmark",
-    "translation": "阿尔特马克(Altmark)",
+    "translation": "阿尔特马克",
     "stage": 1
   },
   {
@@ -6823,7 +6823,7 @@
     "ID": 293406598,
     "key": "Dusty Desert",
     "original": "Dusty Desert",
-    "translation": "尘土飞扬的沙漠(Dusty Desert)",
+    "translation": "尘土飞扬的沙漠",
     "stage": 1
   },
   {
@@ -6837,28 +6837,28 @@
     "ID": 293406600,
     "key": "Twisted Fate",
     "original": "Twisted Fate",
-    "translation": "曲折的命运(Twisted Fate)",
+    "translation": "曲折的命运",
     "stage": 1
   },
   {
     "ID": 293406601,
     "key": "Rich Meadows",
     "original": "Rich Meadows",
-    "translation": "肥沃的草地(Rich Meadows)",
+    "translation": "肥沃的草地",
     "stage": 5
   },
   {
     "ID": 293406602,
     "key": "Deep Covert",
     "original": "Deep Covert",
-    "translation": "深藏不露(Deep Covert)",
+    "translation": "深藏不露",
     "stage": 1
   },
   {
     "ID": 293406603,
     "key": "Grudgebringers",
     "original": "Grudgebringers",
-    "translation": "怨恨使者(Grudgebringers)",
+    "translation": "怨恨使者",
     "stage": 1
   },
   {
@@ -6872,7 +6872,7 @@
     "ID": 293406605,
     "key": "Valeshire",
     "original": "Valeshire",
-    "translation": "山谷郡(Valeshire)",
+    "translation": "山谷郡",
     "stage": 1
   },
   {
@@ -6887,7 +6887,7 @@
     "ID": 293406607,
     "key": "Ruhmolt",
     "original": "Ruhmolt",
-    "translation": "鲁姆特(Ruhmolt)",
+    "translation": "鲁姆特",
     "stage": 1
   },
   {
@@ -6902,7 +6902,7 @@
     "ID": 293406609,
     "key": "Barescrub",
     "original": "Barescrub",
-    "translation": "磨砂膏(Barescrub)",
+    "translation": "磨砂膏",
     "stage": 1
   },
   {
@@ -6923,7 +6923,7 @@
     "ID": 293406612,
     "key": "Kinmere",
     "original": "Kinmere",
-    "translation": "金米尔(Kinmere)",
+    "translation": "金米尔",
     "stage": 1
   },
   {
@@ -6938,7 +6938,7 @@
     "ID": 293406614,
     "key": "Ravensbeak",
     "original": "Ravensbeak",
-    "translation": "鸦喙(Ravensbeak)",
+    "translation": "鸦喙",
     "stage": 5
   },
   {
@@ -6959,21 +6959,21 @@
     "ID": 293406617,
     "key": "Two Fields",
     "original": "Two Fields",
-    "translation": "两个领域(Two Fields)",
+    "translation": "两个领域",
     "stage": 1
   },
   {
     "ID": 293406618,
     "key": "Misty Woods",
     "original": "Misty Woods",
-    "translation": "迷雾森林(Misty Woods)",
+    "translation": "迷雾森林",
     "stage": 1
   },
   {
     "ID": 293406619,
     "key": "Jundland",
     "original": "Jundland",
-    "translation": "君德兰(Jundland)",
+    "translation": "君德兰",
     "stage": 1
   },
   {
@@ -7001,21 +7001,21 @@
     "ID": 293406623,
     "key": "Southwind Acres",
     "original": "Southwind Acres",
-    "translation": "南风耕地(Southwind Acres)",
+    "translation": "南风耕地",
     "stage": 5
   },
   {
     "ID": 293406624,
     "key": "Birch Timberland",
     "original": "Birch Timberland",
-    "translation": "桦木天伯伦(Birch Timberland)",
+    "translation": "桦木天伯伦",
     "stage": 1
   },
   {
     "ID": 293406625,
     "key": "Eberlin",
     "original": "Eberlin",
-    "translation": "埃伯林(Eberlin)",
+    "translation": "埃伯林",
     "stage": 1
   },
   {
@@ -7029,7 +7029,7 @@
     "ID": 293406627,
     "key": "Poisonbreath Marshes",
     "original": "Poisonbreath Marshes",
-    "translation": "毒息沼泽(Poisonbreath Marshes)",
+    "translation": "毒息沼泽",
     "stage": 1
   },
   {
@@ -7065,7 +7065,7 @@
     "ID": 293406632,
     "key": "Gray Toad Woodlands",
     "original": "Gray Toad Woodlands",
-    "translation": "灰蟾蜍林地(Gray Toad Woodlands)",
+    "translation": "灰蟾蜍林地",
     "stage": 1
   },
   {
@@ -7093,21 +7093,21 @@
     "ID": 293406636,
     "key": "Hungry Hounds",
     "original": "Hungry Hounds",
-    "translation": "饥饿的猎犬(Hungry Hounds)",
+    "translation": "饥饿的猎犬",
     "stage": 1
   },
   {
     "ID": 293406637,
     "key": "Hikma",
     "original": "Hikma",
-    "translation": "希克玛(Hikma)",
+    "translation": "希克玛",
     "stage": 1
   },
   {
     "ID": 293406638,
     "key": "Fruitful Shallows",
     "original": "Fruitful Shallows",
-    "translation": "硕果累累的浅滩(Fruitful Shallows)",
+    "translation": "硕果累累的浅滩",
     "stage": 1
   },
   {
@@ -7129,22 +7129,22 @@
     "ID": 293406641,
     "key": "Axford",
     "original": "Axford",
-    "translation": "阿克斯福德(Axford)",
+    "translation": "阿克斯福德",
     "stage": 1
   },
   {
     "ID": 293406642,
     "key": "Cold Hearts Company",
     "original": "Cold Hearts Company",
-    "translation": "冷心公司(Cold Hearts Company)",
+    "translation": "冷心公司",
     "stage": 1
   },
   {
     "ID": 293406643,
     "key": "Goswin",
     "original": "Goswin",
-    "translation": "高斯(Goswin)",
-    "stage": 1
+    "translation": "高斯温",
+    "stage": 5
   },
   {
     "ID": 293406644,
@@ -7157,7 +7157,7 @@
     "ID": 293406645,
     "key": "Osten",
     "original": "Osten",
-    "translation": "奥斯滕(Osten)",
+    "translation": "奥斯滕",
     "stage": 1
   },
   {
@@ -7178,28 +7178,28 @@
     "ID": 293406648,
     "key": "Fairdale",
     "original": "Fairdale",
-    "translation": "费尔代尔(Fairdale)",
+    "translation": "费尔代尔",
     "stage": 1
   },
   {
     "ID": 293406649,
     "key": "Wideacre",
     "original": "Wideacre",
-    "translation": "宽阔的耕地(Wideacre)",
+    "translation": "宽阔的耕地",
     "stage": 5
   },
   {
     "ID": 293406650,
     "key": "Ruffmuir",
     "original": "Ruffmuir",
-    "translation": "鲁夫缪尔(Ruffmuir)",
+    "translation": "鲁夫缪尔",
     "stage": 1
   },
   {
     "ID": 293406651,
     "key": "Mire of the Whisp",
     "original": "Mire of the Whisp",
-    "translation": "耳语的泥潭(Mire of the Whisp)",
+    "translation": "耳语的泥潭",
     "stage": 1
   },
   {
@@ -7214,21 +7214,21 @@
     "ID": 293406653,
     "key": "Unbound Ocean",
     "original": "Unbound Ocean",
-    "translation": "无界的海洋(Unbound Ocean)",
+    "translation": "无界的海洋",
     "stage": 1
   },
   {
     "ID": 293406654,
     "key": "Dead Sands",
     "original": "Dead Sands",
-    "translation": "死亡沙地(Dead Sands)",
+    "translation": "死亡沙地",
     "stage": 5
   },
   {
     "ID": 293406655,
     "key": "Barum",
     "original": "Barum",
-    "translation": "巴鲁姆(Barum)",
+    "translation": "巴鲁姆",
     "stage": 5
   },
   {
@@ -7273,7 +7273,7 @@
     "ID": 293406661,
     "key": "Coldend",
     "original": "Coldend",
-    "translation": "冰冷尽头(Coldend)",
+    "translation": "冰冷尽头",
     "stage": 5
   },
   {
@@ -7302,21 +7302,21 @@
     "ID": 293406665,
     "key": "Treewalker Woodlands",
     "original": "Treewalker Woodlands",
-    "translation": "树行者林地(Treewalker Woodlands)",
+    "translation": "树行者林地",
     "stage": 1
   },
   {
     "ID": 293406666,
     "key": "Aurora Flats",
     "original": "Aurora Flats",
-    "translation": "极光平底鞋(Aurora Flats)",
+    "translation": "极光平底鞋",
     "stage": 1
   },
   {
     "ID": 293406667,
     "key": "El-Hadet",
     "original": "El-Hadet",
-    "translation": "埃尔哈代(El-Hadet)",
+    "translation": "埃尔哈代",
     "stage": 1
   },
   {
@@ -7337,14 +7337,14 @@
     "ID": 293406670,
     "key": "Azim Shab",
     "original": "Azim Shab",
-    "translation": "阿兹姆 沙布(Azim Shab)",
+    "translation": "阿兹姆 沙布",
     "stage": 5
   },
   {
     "ID": 293406671,
     "key": "Evermist Mountains",
     "original": "Evermist Mountains",
-    "translation": "永雾山脉(Evermist Mountains)",
+    "translation": "永雾山脉",
     "stage": 1
   },
   {
@@ -7359,21 +7359,21 @@
     "ID": 293406673,
     "key": "Southland Bowels",
     "original": "Southland Bowels",
-    "translation": "南国肠(Southland Bowels)",
+    "translation": "南国肠",
     "stage": 1
   },
   {
     "ID": 293406674,
     "key": "Rustcave Hills",
     "original": "Rustcave Hills",
-    "translation": "锈洞山(Rustcave Hills)",
+    "translation": "锈洞山",
     "stage": 1
   },
   {
     "ID": 293406675,
     "key": "Duke's Demise",
     "original": "Duke's Demise",
-    "translation": "杜克之死(Duke's Demise)",
+    "translation": "杜克之死",
     "stage": 1
   },
   {
@@ -7396,21 +7396,21 @@
     "ID": 293406678,
     "key": "Hedgehog Thicket",
     "original": "Hedgehog Thicket",
-    "translation": "刺猬丛林(Hedgehog Thicket)",
+    "translation": "刺猬丛林",
     "stage": 1
   },
   {
     "ID": 293406679,
     "key": "Thunder Sea",
     "original": "Thunder Sea",
-    "translation": "雷海(Thunder Sea)",
+    "translation": "雷海",
     "stage": 1
   },
   {
     "ID": 293406680,
     "key": "Badger's Covert",
     "original": "Badger's Covert",
-    "translation": "獾的秘密(Badger's Covert)",
+    "translation": "獾的秘密",
     "stage": 1
   },
   {
@@ -7431,7 +7431,7 @@
     "ID": 293406683,
     "key": "The Thundering Peaks",
     "original": "The Thundering Peaks",
-    "translation": "雷鸣山峰(The Thundering Peaks)",
+    "translation": "雷鸣山峰",
     "stage": 1
   },
   {
@@ -7460,7 +7460,7 @@
     "ID": 293406687,
     "key": "Suderland",
     "original": "Suderland",
-    "translation": "苏德兰(Suderland)",
+    "translation": "苏德兰",
     "stage": 5
   },
   {
@@ -7490,7 +7490,7 @@
     "ID": 293406691,
     "key": "Temple Grove",
     "original": "Temple Grove",
-    "translation": "神庙林(Temple Grove)",
+    "translation": "神庙林",
     "stage": 5
   },
   {
@@ -7504,14 +7504,14 @@
     "ID": 293406693,
     "key": "Sons of Winter",
     "original": "Sons of Winter",
-    "translation": "冬之子(Sons of Winter)",
+    "translation": "冬之子",
     "stage": 1
   },
   {
     "ID": 293406694,
     "key": "Armsberg",
     "original": "Armsberg",
-    "translation": "阿姆斯丘(Armsberg)",
+    "translation": "阿姆斯丘",
     "stage": 5
   },
   {
@@ -7525,7 +7525,7 @@
     "ID": 293406696,
     "key": "Sandshear",
     "original": "Sandshear",
-    "translation": "沙削地(Sandshear)",
+    "translation": "沙削地",
     "stage": 5
   },
   {
@@ -7539,7 +7539,7 @@
     "ID": 293406698,
     "key": "Black Marshes",
     "original": "Black Marshes",
-    "translation": "黑沼泽(Black Marshes)",
+    "translation": "黑沼泽",
     "stage": 1
   },
   {
@@ -7560,7 +7560,7 @@
     "ID": 293406701,
     "key": "Walther's Fellowship",
     "original": "Walther's Fellowship",
-    "translation": "瓦尔特的奖学金(Walther's Fellowship)",
+    "translation": "瓦尔特的奖学金",
     "stage": 1
   },
   {
@@ -7574,7 +7574,7 @@
     "ID": 293406703,
     "key": "Dragonteeth",
     "original": "Dragonteeth",
-    "translation": "龙牙(Dragonteeth)",
+    "translation": "龙牙",
     "stage": 1
   },
   {
@@ -7609,21 +7609,21 @@
     "ID": 293406708,
     "key": "Radobrecht's Swords",
     "original": "Radobrecht's Swords",
-    "translation": "拉多布雷希特的剑(Radobrecht's Swords)",
+    "translation": "拉多布雷希特的剑",
     "stage": 1
   },
   {
     "ID": 293406709,
     "key": "Dreadmoor",
     "original": "Dreadmoor",
-    "translation": "恐惧荒原(Dreadmoor)",
+    "translation": "恐惧荒原",
     "stage": 1
   },
   {
     "ID": 293406710,
     "key": "Vinland",
     "original": "Vinland",
-    "translation": "文兰(Vinland)",
+    "translation": "文兰",
     "stage": 1
   },
   {
@@ -7644,14 +7644,14 @@
     "ID": 293406713,
     "key": "Blackfan",
     "original": "Blackfan",
-    "translation": "黑扇(Blackfan)",
+    "translation": "黑扇",
     "stage": 1
   },
   {
     "ID": 293406714,
     "key": "Crimson Forest",
     "original": "Crimson Forest",
-    "translation": "深红森林(Crimson Forest)",
+    "translation": "深红森林",
     "stage": 1
   },
   {
@@ -7673,14 +7673,14 @@
     "ID": 293406717,
     "key": "Scorching Shire",
     "original": "Scorching Shire",
-    "translation": "灼热郡(Scorching Shire)",
+    "translation": "灼热郡",
     "stage": 1
   },
   {
     "ID": 293406718,
     "key": "Chosen Few",
     "original": "Chosen Few",
-    "translation": "被选中的少数(Chosen Few)",
+    "translation": "被选中的少数",
     "stage": 1
   },
   {
@@ -7701,7 +7701,7 @@
     "ID": 293406721,
     "key": "Everwinter",
     "original": "Everwinter",
-    "translation": "永冬(Everwinter)",
+    "translation": "永冬",
     "stage": 1
   },
   {
@@ -7723,14 +7723,14 @@
     "ID": 293406724,
     "key": "Iron Pact",
     "original": "Iron Pact",
-    "translation": "铁契约(Iron Pact)",
+    "translation": "铁契约",
     "stage": 1
   },
   {
     "ID": 293406725,
     "key": "Humming Hills",
     "original": "Humming Hills",
-    "translation": "嗡嗡山(Humming Hills)",
+    "translation": "嗡嗡山",
     "stage": 1
   },
   {
@@ -7751,28 +7751,28 @@
     "ID": 293406728,
     "key": "Glaucious Domain",
     "original": "Glaucious Domain",
-    "translation": "碧蓝域(Glaucious Domain)",
+    "translation": "碧蓝域",
     "stage": 1
   },
   {
     "ID": 293406729,
     "key": "Timberland",
     "original": "Timberland",
-    "translation": "天伯伦(Timberland)",
+    "translation": "天伯伦",
     "stage": 1
   },
   {
     "ID": 293406730,
     "key": "Speedwell Fields",
     "original": "Speedwell Fields",
-    "translation": "斯皮德韦尔领域(Speedwell Fields)",
+    "translation": "斯皮德韦尔领域",
     "stage": 1
   },
   {
     "ID": 293406731,
     "key": "Scragglands",
     "original": "Scragglands",
-    "translation": "荒地(Scragglands)",
+    "translation": "荒地",
     "stage": 1
   },
   {
@@ -7786,7 +7786,7 @@
     "ID": 293406733,
     "key": "Sunpan",
     "original": "Sunpan",
-    "translation": "孙盘(Sunpan)",
+    "translation": "孙盘",
     "stage": 1
   },
   {
@@ -7800,7 +7800,7 @@
     "ID": 293406735,
     "key": "Prophet's Salvation",
     "original": "Prophet's Salvation",
-    "translation": "先知的救赎(Prophet's Salvation)",
+    "translation": "先知的救赎",
     "stage": 1
   },
   {
@@ -7814,7 +7814,7 @@
     "ID": 293406737,
     "key": "Solstein",
     "original": "Solstein",
-    "translation": "索尔斯坦(Solstein)",
+    "translation": "索尔斯坦",
     "stage": 1
   },
   {
@@ -7842,35 +7842,35 @@
     "ID": 293406741,
     "key": "Supreme",
     "original": "Supreme",
-    "translation": "最高(Supreme)",
+    "translation": "最高",
     "stage": 1
   },
   {
     "ID": 293406742,
     "key": "Greenmere",
     "original": "Greenmere",
-    "translation": "格林米尔(Greenmere)",
+    "translation": "格林米尔",
     "stage": 1
   },
   {
     "ID": 293406743,
     "key": "The Ghostly Plains",
     "original": "The Ghostly Plains",
-    "translation": "幽灵平原(The Ghostly Plains)",
+    "translation": "幽灵平原",
     "stage": 5
   },
   {
     "ID": 293406744,
     "key": "The Marshlands",
     "original": "The Marshlands",
-    "translation": "沼泽地(The Marshlands)",
+    "translation": "沼泽地",
     "stage": 1
   },
   {
     "ID": 293406745,
     "key": "Surging Sea",
     "original": "Surging Sea",
-    "translation": "汹涌的大海(Surging Sea)",
+    "translation": "汹涌的大海",
     "stage": 1
   },
   {
@@ -7884,7 +7884,7 @@
     "ID": 293406747,
     "key": "Forsaken Returned",
     "original": "Forsaken Returned",
-    "translation": "被遗忘者归来(Forsaken Returned)",
+    "translation": "被遗忘者归来",
     "stage": 1
   },
   {
@@ -7905,14 +7905,14 @@
     "ID": 293406750,
     "key": "Murky Swamplands",
     "original": "Murky Swamplands",
-    "translation": "阴暗沼泽地(Murky Swamplands)",
+    "translation": "阴暗沼泽地",
     "stage": 1
   },
   {
     "ID": 293406751,
     "key": "Bronze Flats",
     "original": "Bronze Flats",
-    "translation": "青铜平底鞋(Bronze Flats)",
+    "translation": "青铜平底鞋",
     "stage": 1
   },
   {
@@ -7926,21 +7926,21 @@
     "ID": 293406753,
     "key": "Rampants",
     "original": "Rampants",
-    "translation": "猖獗(Rampants)",
+    "translation": "猖獗",
     "stage": 1
   },
   {
     "ID": 293406754,
     "key": "Bonefold Barrow",
     "original": "Bonefold Barrow",
-    "translation": "骨褶手推车(Bonefold Barrow)",
+    "translation": "骨褶手推车",
     "stage": 1
   },
   {
     "ID": 293406755,
     "key": "Waterwood Forest",
     "original": "Waterwood Forest",
-    "translation": "水木森林(Waterwood Forest)",
+    "translation": "水木森林",
     "stage": 1
   },
   {
@@ -7989,28 +7989,28 @@
     "ID": 293406762,
     "key": "Dreadhorn",
     "original": "Dreadhorn",
-    "translation": "恐惧号角(Dreadhorn)",
+    "translation": "恐惧号角",
     "stage": 1
   },
   {
     "ID": 293406763,
     "key": "White Waste",
     "original": "White Waste",
-    "translation": "白色废物(White Waste)",
+    "translation": "白色废物",
     "stage": 1
   },
   {
     "ID": 293406764,
     "key": "Nevermelting Hold",
     "original": "Nevermelting Hold",
-    "translation": "永不融化的保持(Nevermelting Hold)",
+    "translation": "永不融化的保持",
     "stage": 1
   },
   {
     "ID": 293406765,
     "key": "Mumbling Sands",
     "original": "Mumbling Sands",
-    "translation": "呢喃沙地(Mumbling Sands)",
+    "translation": "呢喃沙地",
     "stage": 5
   },
   {
@@ -8025,35 +8025,35 @@
     "ID": 293406767,
     "key": "Dark Omen",
     "original": "Dark Omen",
-    "translation": "黑暗预兆(Dark Omen)",
-    "stage": 5
+    "translation": "黑暗预兆",
+    "stage": 1
   },
   {
     "ID": 293406768,
     "key": "The Wetlands",
     "original": "The Wetlands",
-    "translation": "湿地(The Wetlands)",
+    "translation": "湿地",
     "stage": 1
   },
   {
     "ID": 293406769,
     "key": "The Collapsing Hills",
     "original": "The Collapsing Hills",
-    "translation": "崩塌的山丘(The Collapsing Hills)",
+    "translation": "崩塌的山丘",
     "stage": 1
   },
   {
     "ID": 293406770,
     "key": "Blood Woods",
     "original": "Blood Woods",
-    "translation": "血树林(Blood Woods)",
+    "translation": "血树林",
     "stage": 1
   },
   {
     "ID": 293406771,
     "key": "Lords of War",
     "original": "Lords of War",
-    "translation": "战争之王(Lords of War)",
+    "translation": "战争之王",
     "stage": 1
   },
   {
@@ -8067,7 +8067,7 @@
     "ID": 293406773,
     "key": "Oldgrowth",
     "original": "Oldgrowth",
-    "translation": "旧树丛(Oldgrowth)",
+    "translation": "旧树丛",
     "stage": 1
   },
   {
@@ -8081,14 +8081,14 @@
     "ID": 293406775,
     "key": "Ember Forest",
     "original": "Ember Forest",
-    "translation": "余烬森林(Ember Forest)",
+    "translation": "余烬森林",
     "stage": 1
   },
   {
     "ID": 293406776,
     "key": "Frostfinger's Realm",
     "original": "Frostfinger's Realm",
-    "translation": "霜指的领域(Frostfinger's Realm)",
+    "translation": "霜指的领域",
     "stage": 1
   },
   {
@@ -8111,7 +8111,7 @@
     "ID": 293406779,
     "key": "Ironoak Grove",
     "original": "Ironoak Grove",
-    "translation": "铁橡林(Ironoak Grove)",
+    "translation": "铁橡林",
     "stage": 5
   },
   {
@@ -8126,7 +8126,7 @@
     "ID": 293406781,
     "key": "Bald Monk",
     "original": "Bald Monk",
-    "translation": "秃僧(Bald Monk)",
+    "translation": "秃僧",
     "stage": 1
   },
   {
@@ -8147,28 +8147,28 @@
     "ID": 293406784,
     "key": "Southern Reach",
     "original": "Southern Reach",
-    "translation": "南部地区(Southern Reach)",
+    "translation": "南部地区",
     "stage": 1
   },
   {
     "ID": 293406785,
     "key": "Mongrels",
     "original": "Mongrels",
-    "translation": "杂种(Mongrels)",
+    "translation": "杂种",
     "stage": 1
   },
   {
     "ID": 293406786,
     "key": "Folsach",
     "original": "Folsach",
-    "translation": "福尔萨赫(Folsach)",
+    "translation": "福尔萨赫",
     "stage": 1
   },
   {
     "ID": 293406787,
     "key": "Barrens",
     "original": "Barrens",
-    "translation": "贫瘠之地(Barrens)",
+    "translation": "贫瘠之地",
     "stage": 1
   },
   {
@@ -8182,14 +8182,14 @@
     "ID": 293406789,
     "key": "Southmark",
     "original": "Southmark",
-    "translation": "绍斯马克(Southmark)",
+    "translation": "绍斯马克",
     "stage": 1
   },
   {
     "ID": 293406790,
     "key": "Frostfold",
     "original": "Frostfold",
-    "translation": "霜褶(Frostfold)",
+    "translation": "霜褶",
     "stage": 1
   },
   {
@@ -8217,21 +8217,21 @@
     "ID": 293406794,
     "key": "Endless Polder",
     "original": "Endless Polder",
-    "translation": "无尽圩田(Endless Polder)",
+    "translation": "无尽圩田",
     "stage": 1
   },
   {
     "ID": 293406795,
     "key": "Dungslump",
     "original": "Dungslump",
-    "translation": "大粪(Dungslump)",
+    "translation": "大粪",
     "stage": 1
   },
   {
     "ID": 293406796,
     "key": "Woldwich",
     "original": "Woldwich",
-    "translation": "沃尔德威奇(Woldwich)",
+    "translation": "沃尔德威奇",
     "stage": 1
   },
   {
@@ -8253,14 +8253,14 @@
     "ID": 293406799,
     "key": "Maraman",
     "original": "Maraman",
-    "translation": "马拉曼(Maraman)",
+    "translation": "马拉曼",
     "stage": 1
   },
   {
     "ID": 293406800,
     "key": "Burnend",
     "original": "Burnend",
-    "translation": "伯恩德(Burnend)",
+    "translation": "伯恩德",
     "stage": 1
   },
   {
@@ -8288,28 +8288,28 @@
     "ID": 293406804,
     "key": "Northern Company",
     "original": "Northern Company",
-    "translation": "北方公司(Northern Company)",
+    "translation": "北方公司",
     "stage": 1
   },
   {
     "ID": 293406805,
     "key": "Lost Legion",
     "original": "Lost Legion",
-    "translation": "失落军团(Lost Legion)",
+    "translation": "失落军团",
     "stage": 1
   },
   {
     "ID": 293406806,
     "key": "Bed Load Knolls",
     "original": "Bed Load Knolls",
-    "translation": "床负载小丘(Bed Load Knolls)",
+    "translation": "床负载小丘",
     "stage": 1
   },
   {
     "ID": 293406807,
     "key": "Kingmill",
     "original": "Kingmill",
-    "translation": "金米尔(Kingmill)",
+    "translation": "金米尔",
     "stage": 5
   },
   {
@@ -8330,14 +8330,14 @@
     "ID": 293406810,
     "key": "Perowinger",
     "original": "Perowinger",
-    "translation": "佩罗温格(Perowinger)",
+    "translation": "佩罗温格",
     "stage": 1
   },
   {
     "ID": 293406811,
     "key": "Timeless Sands",
     "original": "Timeless Sands",
-    "translation": "永恒沙地(Timeless Sands)",
+    "translation": "永恒沙地",
     "stage": 5
   },
   {
@@ -8351,21 +8351,21 @@
     "ID": 293406813,
     "key": "Tiger's Claw",
     "original": "Tiger's Claw",
-    "translation": "虎爪(Tiger's Claw)",
+    "translation": "虎爪",
     "stage": 1
   },
   {
     "ID": 293406814,
     "key": "Icehenge",
     "original": "Icehenge",
-    "translation": "冰山(Icehenge)",
+    "translation": "冰山",
     "stage": 1
   },
   {
     "ID": 293406815,
     "key": "Thurah",
     "original": "Thurah",
-    "translation": "图拉(Thurah)",
+    "translation": "图拉",
     "stage": 1
   },
   {
@@ -8380,7 +8380,7 @@
     "ID": 293406817,
     "key": "Moaning Sands",
     "original": "Moaning Sands",
-    "translation": "呻吟之沙(Moaning Sands)",
+    "translation": "呻吟之沙",
     "stage": 1
   },
   {
@@ -8417,7 +8417,7 @@
     "ID": 293406822,
     "key": "Rugged Flats",
     "original": "Rugged Flats",
-    "translation": "坚固的平底鞋(Rugged Flats)",
+    "translation": "坚固的平底鞋",
     "stage": 1
   },
   {
@@ -8439,21 +8439,21 @@
     "ID": 293406825,
     "key": "World's Rim",
     "original": "World's Rim",
-    "translation": "世界之环(World's Rim)",
+    "translation": "世界之环",
     "stage": 1
   },
   {
     "ID": 293406826,
     "key": "Valley of the Deer",
     "original": "Valley of the Deer",
-    "translation": "鹿谷(Valley of the Deer)",
+    "translation": "鹿谷",
     "stage": 1
   },
   {
     "ID": 293406827,
     "key": "Chestnut Grove",
     "original": "Chestnut Grove",
-    "translation": "栗树林(Chestnut Grove)",
+    "translation": "栗树林",
     "stage": 5
   },
   {
@@ -8467,7 +8467,7 @@
     "ID": 293406829,
     "key": "Rocky Ridge",
     "original": "Rocky Ridge",
-    "translation": "岩石山脊(Rocky Ridge)",
+    "translation": "岩石山脊",
     "stage": 5
   },
   {
@@ -8496,21 +8496,21 @@
     "ID": 293406833,
     "key": "Soft Ripple Sea",
     "original": "Soft Ripple Sea",
-    "translation": "软波纹海(Soft Ripple Sea)",
+    "translation": "软波纹海",
     "stage": 1
   },
   {
     "ID": 293406834,
     "key": "Boar Woods",
     "original": "Boar Woods",
-    "translation": "野猪树林(Boar Woods)",
+    "translation": "野猪树林",
     "stage": 1
   },
   {
     "ID": 293406835,
     "key": "Fox and Hare Woods",
     "original": "Fox and Hare Woods",
-    "translation": "狐狸和野兔森林(Fox and Hare Woods)",
+    "translation": "狐狸和野兔森林",
     "stage": 1
   },
   {
@@ -8524,21 +8524,21 @@
     "ID": 293406837,
     "key": "Brazen",
     "original": "Brazen",
-    "translation": "布拉森(Brazen)",
+    "translation": "布拉森",
     "stage": 1
   },
   {
     "ID": 293406838,
     "key": "The Shadow Mountains",
     "original": "The Shadow Mountains",
-    "translation": "影子山脉(The Shadow Mountains)",
+    "translation": "影子山脉",
     "stage": 1
   },
   {
     "ID": 293406839,
     "key": "The Raging Gulf",
     "original": "The Raging Gulf",
-    "translation": "汹涌的海湾(The Raging Gulf)",
+    "translation": "汹涌的海湾",
     "stage": 1
   },
   {
@@ -8559,7 +8559,7 @@
     "ID": 293406842,
     "key": "Skullslide Hills",
     "original": "Skullslide Hills",
-    "translation": "骷髅山(Skullslide Hills)",
+    "translation": "骷髅山",
     "stage": 1
   },
   {
@@ -8580,21 +8580,21 @@
     "ID": 293406845,
     "key": "Jagged Woods",
     "original": "Jagged Woods",
-    "translation": "锯齿状森林(Jagged Woods)",
+    "translation": "锯齿状森林",
     "stage": 1
   },
   {
     "ID": 293406846,
     "key": "Northern Reaches",
     "original": "Northern Reaches",
-    "translation": "北部地区(Northern Reaches)",
+    "translation": "北部地区",
     "stage": 1
   },
   {
     "ID": 293406847,
     "key": "Silversand Hold",
     "original": "Silversand Hold",
-    "translation": "银沙堡(Silversand Hold)",
+    "translation": "银沙堡",
     "stage": 1
   },
   {
@@ -8615,14 +8615,14 @@
     "ID": 293406850,
     "key": "Wide Watch",
     "original": "Wide Watch",
-    "translation": "宽手表(Wide Watch)",
+    "translation": "宽手表",
     "stage": 1
   },
   {
     "ID": 293406851,
     "key": "Gallowsbog",
     "original": "Gallowsbog",
-    "translation": "绞刑沼泽(Gallowsbog)",
+    "translation": "绞刑沼泽",
     "stage": 1
   }
 ]

@@ -93,7 +93,7 @@
     "ID": 293407747,
     "key": "A rough and tough band of brigands out to hunt for food.",
     "original": "A rough and tough band of brigands out to hunt for food.",
-    "translation": "一伙强盗为了食物而突然走出去。",
+    "translation": "一伙为了食物外出狩猎的强壮强盗。",
     "stage": 1
   },
   {
@@ -107,7 +107,7 @@
     "ID": 293407749,
     "key": "Goblin Raiders",
     "original": "Goblin Raiders",
-    "translation": "地精袭击者 (Goblin Raiders)",
+    "translation": "地精袭击者 ",
     "stage": 1
   },
   {

@@ -10,7 +10,7 @@
     "ID": 293417297,
     "key": "Brigands",
     "original": "Brigands",
-    "translation": "强盗(Brigands)",
+    "translation": "强盗",
     "stage": 1
   }
 ]

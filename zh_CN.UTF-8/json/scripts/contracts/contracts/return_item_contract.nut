@@ -67,7 +67,7 @@
     "ID": 293409782,
     "key": "Thieves",
     "original": "Thieves",
-    "translation": "盗贼(Thieves)",
+    "translation": "盗贼",
     "stage": 5
   },
   {
@@ -182,7 +182,7 @@
     "key": "Crowns well deserved.",
     "original": "Crowns well deserved.",
     "translation": "当之无愧的克朗。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293409799,

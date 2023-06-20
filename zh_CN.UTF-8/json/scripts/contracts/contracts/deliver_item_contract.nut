@@ -224,7 +224,7 @@
     "key": "Crowns well deserved.",
     "original": "Crowns well deserved.",
     "translation": "当之无愧的克朗。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408512,
@@ -287,7 +287,7 @@
     "ID": 293408520,
     "key": "Armed Courier",
     "original": "Armed Courier",
-    "translation": "武装信使(Armed Courier)",
+    "translation": "武装信使",
     "stage": 1,
     "context": "this.m.Name = 'Armed Courier'"
   },

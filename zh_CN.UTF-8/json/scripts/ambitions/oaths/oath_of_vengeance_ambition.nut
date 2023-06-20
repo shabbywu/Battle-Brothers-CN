@@ -27,7 +27,7 @@
     "ID": 293403716,
     "key": "]-5[/color] Melee and Ranged Skill, and [color=",
     "original": "]-5[/color] Melee and Ranged Skill, and [color=",
-    "translation": "]-5[/color] 近战和远程防御, 以及 [color=",
+    "translation": "]-5[/color]近战和远程技能, 以及[color=",
     "stage": 1,
     "context": "this.m.OathBurdenText = 'Your men have [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve, [color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee and Ranged Skill, and [color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee and Ranged Defense when fighting any other foe.'"
   },
@@ -67,7 +67,7 @@
     "ID": 293403721,
     "key": "]+10[/color] Melee and Ranged Skill, and [color=",
     "original": "]+10[/color] Melee and Ranged Skill, and [color=",
-    "translation": "]+10[/color] 近战和远程防御, 以及 [color=",
+    "translation": "]+10[/color]近战和远程技能, 以及[color=",
     "stage": 1,
     "context": "this.m.OathBoonText = 'Your men have [color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Resolve, [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Melee and Ranged Skill, and [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee and Ranged Defense when fighting orcs or goblins.'"
   },

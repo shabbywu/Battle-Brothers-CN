@@ -11,7 +11,7 @@
     "ID": 293410648,
     "key": "Watermill",
     "original": "Watermill",
-    "translation": "水磨(Watermill)",
+    "translation": "水磨",
     "stage": 1,
     "context": "this.m.Name = 'Watermill'"
   }

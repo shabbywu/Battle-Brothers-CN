@@ -33,7 +33,7 @@
     "ID": 293420818,
     "key": "the Ragged",
     "original": "the Ragged",
-    "translation": "衣衫褴褛的(the Ragged)",
+    "translation": "衣衫褴褛者(the Ragged)",
     "stage": 5
   },
   {

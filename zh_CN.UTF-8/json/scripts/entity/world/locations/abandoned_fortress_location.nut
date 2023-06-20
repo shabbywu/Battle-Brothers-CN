@@ -3,7 +3,7 @@
     "ID": 293410598,
     "key": "Abandoned Fortress",
     "original": "Abandoned Fortress",
-    "translation": "废弃的要塞(Abandoned Fortress)",
+    "translation": "废弃的要塞",
     "stage": 1,
     "context": "this.m.Name = 'Abandoned Fortress'"
   },

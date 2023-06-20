@@ -20,7 +20,7 @@
     "key": "]-5[/color] Melee Defense",
     "original": "]-5[/color] Melee Defense",
     "translation": "]-5[/color] 近战防御",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Defense'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "]-10[/color] Ranged Defense",
     "original": "]-10[/color] Ranged Defense",
     "translation": "]-10[/color] 远程防御",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Ranged Defense'"
   },
   {
@@ -43,7 +43,7 @@
     "ID": 293422688,
     "key": "All kills are fatalities (if the weapon allows).",
     "original": "All kills are fatalities (if the weapon allows).",
-    "translation": "所有的杀戮都是残暴（如果武器允许的话）。",
+    "translation": "所有的击杀都是必死击杀(如果武器允许)。",
     "stage": 1
   }
 ]

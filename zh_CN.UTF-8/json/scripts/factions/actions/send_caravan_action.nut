@@ -11,7 +11,7 @@
     "ID": 293417359,
     "key": "Trading Caravan",
     "original": "Trading Caravan",
-    "translation": "贸易商队(Trading Caravan)",
+    "translation": "贸易商队",
     "stage": 5
   },
   {

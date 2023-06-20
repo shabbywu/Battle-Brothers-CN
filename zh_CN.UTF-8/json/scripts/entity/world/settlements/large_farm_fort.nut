@@ -3,98 +3,98 @@
     "ID": 293410755,
     "key": "Reiherfeste",
     "original": "Reiherfeste",
-    "translation": "雷尔费斯特(Reiherfeste)",
+    "translation": "雷尔费斯特",
     "stage": 1
   },
   {
     "ID": 293410756,
     "key": "Konigsfeste",
     "original": "Konigsfeste",
-    "translation": "国王要塞(Konigsfeste)",
+    "translation": "国王要塞",
     "stage": 1
   },
   {
     "ID": 293410757,
     "key": "Tauschanze",
     "original": "Tauschanze",
-    "translation": "陶斯沙茨(Tauschanze)",
+    "translation": "陶斯沙茨",
     "stage": 1
   },
   {
     "ID": 293410758,
     "key": "Gardefeste",
     "original": "Gardefeste",
-    "translation": "加尔德菲斯特(Gardefeste)",
+    "translation": "加尔德菲斯特",
     "stage": 1
   },
   {
     "ID": 293410759,
     "key": "Auenfeste",
     "original": "Auenfeste",
-    "translation": "奥因费斯特(Auenfeste)",
+    "translation": "奥因费斯特",
     "stage": 1
   },
   {
     "ID": 293410760,
     "key": "Gerstenfeste",
     "original": "Gerstenfeste",
-    "translation": "格斯滕费斯特(Gerstenfeste)",
+    "translation": "格斯滕费斯特",
     "stage": 1
   },
   {
     "ID": 293410761,
     "key": "Freilandfeste",
     "original": "Freilandfeste",
-    "translation": "自由要塞(Freilandfeste)",
+    "translation": "自由要塞",
     "stage": 1
   },
   {
     "ID": 293410762,
     "key": "Grafenschanze",
     "original": "Grafenschanze",
-    "translation": "格拉芬斯罕策(Grafenschanze)",
+    "translation": "格拉芬斯罕策",
     "stage": 1
   },
   {
     "ID": 293410763,
     "key": "Weidenfeste",
     "original": "Weidenfeste",
-    "translation": "韦登费斯特(Weidenfeste)",
+    "translation": "韦登费斯特",
     "stage": 1
   },
   {
     "ID": 293410764,
     "key": "Grunfeste",
     "original": "Grunfeste",
-    "translation": "格伦费斯特(Grunfeste)",
+    "translation": "格伦费斯特",
     "stage": 1
   },
   {
     "ID": 293410765,
     "key": "Grunlandfeste",
     "original": "Grunlandfeste",
-    "translation": "格伦兰德费斯特(Grunlandfeste)",
+    "translation": "格伦兰德费斯特",
     "stage": 1
   },
   {
     "ID": 293410766,
     "key": "Kroonsfeste",
     "original": "Kroonsfeste",
-    "translation": "克鲁恩斯费斯特(Kroonsfeste)",
+    "translation": "克鲁恩斯费斯特",
     "stage": 1
   },
   {
     "ID": 293410767,
     "key": "Haselfeste",
     "original": "Haselfeste",
-    "translation": "哈瑟尔堡(Haselfeste)",
+    "translation": "哈瑟尔堡",
     "stage": 1
   },
   {
     "ID": 293410768,
     "key": "Weissenfeste",
     "original": "Weissenfeste",
-    "translation": "魏森费斯特(Weissenfeste)",
+    "translation": "魏森费斯特",
     "stage": 1
   },
   {
@@ -109,42 +109,42 @@
     "ID": 293410770,
     "key": "Hoberfeste",
     "original": "Hoberfeste",
-    "translation": "霍伯菲斯特(Hoberfeste)",
+    "translation": "霍伯菲斯特",
     "stage": 1
   },
   {
     "ID": 293410771,
     "key": "Weidefeste",
     "original": "Weidefeste",
-    "translation": "维德费斯特(Weidefeste)",
+    "translation": "维德费斯特",
     "stage": 1
   },
   {
     "ID": 293410772,
     "key": "Aulenfeste",
     "original": "Aulenfeste",
-    "translation": "奥伦菲斯特(Aulenfeste)",
+    "translation": "奥伦菲斯特",
     "stage": 1
   },
   {
     "ID": 293410773,
     "key": "Lowenschanze",
     "original": "Lowenschanze",
-    "translation": "洛文山茨(Lowenschanze)",
+    "translation": "洛文山茨",
     "stage": 1
   },
   {
     "ID": 293410774,
     "key": "Feldfeste",
     "original": "Feldfeste",
-    "translation": "菲尔德费斯特(Feldfeste)",
+    "translation": "菲尔德费斯特",
     "stage": 1
   },
   {
     "ID": 293410775,
     "key": "Brunnenfeste",
     "original": "Brunnenfeste",
-    "translation": "布伦嫩菲斯特(Brunnenfeste)",
+    "translation": "布伦嫩菲斯特",
     "stage": 1
   },
   {
@@ -159,14 +159,14 @@
     "ID": 293410777,
     "key": "Koppelfeste",
     "original": "Koppelfeste",
-    "translation": "钩状夹持装置(Koppelfeste)",
+    "translation": "钩状夹持装置",
     "stage": 1
   },
   {
     "ID": 293410778,
     "key": "Wehrfeste",
     "original": "Wehrfeste",
-    "translation": "韦尔费斯特(Wehrfeste)",
+    "translation": "韦尔费斯特",
     "stage": 1
   }
 ]

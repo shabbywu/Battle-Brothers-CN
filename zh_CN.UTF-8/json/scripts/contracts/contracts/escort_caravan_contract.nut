@@ -110,7 +110,7 @@
     "ID": 293408760,
     "key": "Escort caravan to %objective% about %days% to the %direction%",
     "original": "Escort caravan to %objective% about %days% to the %direction%",
-    "translation": "护送商队去%direction%方向约%days%路程的%objective%",
+    "translation": "护送商队去%direction%方约%days%路程的%objective%",
     "stage": 5
   },
   {
@@ -153,7 +153,7 @@
     "key": "Get paid for every head of an attacker you slay (%killcount%/%maxcount%)",
     "original": "Get paid for every head of an attacker you slay (%killcount%/%maxcount%)",
     "translation": "每杀死一个攻击者就可以得到一笔报酬(%killcount%/%maxcount%)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408767,
@@ -204,7 +204,7 @@
     "ID": 293408773,
     "key": "Nomads",
     "original": "Nomads",
-    "translation": "游牧民(Nomads)",
+    "translation": "游牧民",
     "stage": 5
   },
   {
@@ -233,7 +233,7 @@
     "ID": 293408777,
     "key": "[img]gfx/ui/events/event_98.png[/img]{%employer%'s study is lit by a warm fire. He offers you a seat and a goblet of wine, both of which you take.%SPEECH_ON%Sellsword, you're familiar with how dangerous the roads are these days?%SPEECH_OFF%By the gods, th",
     "original": "[img]gfx/ui/events/event_98.png[/img]{%employer%'s study is lit by a warm fire. He offers you a seat and a goblet of wine, both of which you take.%SPEECH_ON%Sellsword, you're familiar with how dangerous the roads are these days?%SPEECH_OFF%By the gods, that is some good wine. You nod and try to hide your astonishment. %employer% smiles tersely and continues.%SPEECH_ON%Good, then you'll understand this task I have for you. I need a caravan escorted along the roads to %objective% about %days% from here. Pretty simple, right? Do you have the time for it? Let's talk if you do.%SPEECH_OFF% | You find %employer% studying a few maps on his desk. He trails a finger to the edge of one map and continues it onto another.%SPEECH_ON%I need an escort for a caravan to %objective%, %days% %direction% of here. Will it be dangerous? Of course. That's why I go to you, sellsword. Are you interested?%SPEECH_OFF% | %employer%'s crosses his arms and purses his lips.%SPEECH_ON%Ordinarily I wouldn't ask some sellswords to guard a caravan, but my usual crew is a little out of it - sickness, drunkenness, licentiousness... I think you get it. What's important is that I have important cargo going to %objective% about %days% to the %direction% and I need someone watching it. Are you interested?%SPEECH_OFF% | %employer% stares out his window, watching a group of men loading cargo into a number of wagons. He talks without looking your way.%SPEECH_ON%I have an important delivery heading out to %objective% roughly %days% %direction% of here. Unfortunately, a competitor outbid me in acquiring a local band of caravan guards. Now I need your services. Let's talk numbers if you're interested.%SPEECH_OFF% | %employer% grabs a chest off his shelf and puts it on his desk. When he opens it, a bevy of papers pop out, almost scurrying to get free. He grabs one and lays it out. On one side, there's a contract, and the other a small drawing of a map.%SPEECH_ON%It's real simple, sellsword. I have been contracted to deliver some... particular cargo to %objective%. I have the goods, but I don't have the guards. If you're interested in being caravan guards for a time, maybe %days% or so, let me know and we can hash out some numbers.%SPEECH_OFF% | You look out %employer%'s window and watch men load a few wagons with goods. %employer% joins you, two goblets of wine in hand. You take one and drink it all in one swig. The man stares at you.%SPEECH_ON%That wasn't cheap. You're supposed to enjoy it.%SPEECH_OFF%You shrug.%SPEECH_ON%Sorry. Can I have another to get it right?%SPEECH_OFF%%employer% turns around and goes to his desk.%SPEECH_ON%So, I need a caravan guarded to %objective%. It's %days% to the %direction% of here. Pretty simple, right? There's plenty of crowns in it for you if you're interested.%SPEECH_OFF% | %employer% looks at some of his books, perusing what appear to be a good deal of numbers.%SPEECH_ON%I got a shipment of particular goods going to %objective% and they're leaving soon. I need a bunch of sturdy swordsmen to help make sure it gets there safely. Should take you about %days% of travelling. Are you up for it?%SPEECH_OFF% | %employer% cuts right to the point.%SPEECH_ON%I've got a shipment of... well, what it is doesn't concern you. It's going to %objective% and, like many folks, I'm worried about brigands on the road. I need you to watch the caravan to make sure it arrives safe and sound in about %days%. Does that sound something you'd be interested in?%SPEECH_OFF% | %employer% looks out his window.%SPEECH_ON%We both know that brigands and the gods know what else are terrorizing these parts, and they all are quite fond of the roads. After a particularly bad run, my old caravan guards lost the heart for the job. Now I need someone else to watch my shipment. Next one out is going to %objective% to the %direction%, maybe %days% or so from here. Does that sound like a place you'd like to be paid to go to?%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_98.png[/img]{%employer%的书房被温暖的炉火照亮。他请你坐下，并递给你一杯酒，两个你都接受了。%SPEECH_ON%佣兵，你知道现在的道路有多危险吧？%SPEECH_OFF%天哪，这酒真不错。你点点头，试图掩饰你的惊讶。%employer%简单地笑了一下继续道。%SPEECH_ON%很好，那你就会明白我交给你的任务了。我需要让一个商队被沿路护送至%objective%，大概离这%days%的路程。很简单，对吧？你有时间吗？有就让我们谈谈。%SPEECH_OFF% | 你发现%employer%正研读着几张他办公桌上的地图。他的手指滑到其中一张的边缘并继续行进到另一张上。%SPEECH_ON%我需要给商队找些护卫去%objective%，从这往%direction%大概%days%的路程。危险吗？当然。因此我才找你，佣兵。有兴趣吗？%SPEECH_OFF% | %employer%噘着嘴叉起手。%SPEECH_ON%通常来说我不会找佣兵来护送商队，但我的老伙计们有点不在状态——病了、醉了、嫖了……我想你懂的。重要的是我有重要货物要去%objective%，大概从这往%direction%走%days%，而且我需要些人照看它。你有兴趣吗？%SPEECH_OFF% | %employer%凝视着窗外，看到一群人把货物装进几辆马车。他开口时没有看你。%SPEECH_ON%我有一份重要货物要去%objective%，从这往%direction%大概%days%的路程。不幸的是，一个竞争者在招募本地商队护卫出价更高。现在我需要你的服务。如果你感兴趣我们就谈谈价钱。%SPEECH_OFF% | %employer%从架子上拿起一个箱子放在桌子上。当他打开它时，一堆文件蹦了出来，几乎是急着要挣脱出来。他抓住一张并把它摊开。一面是一份合同，另一面是一张小地图。%SPEECH_ON%活很简单，佣兵。我承包了些……特别的货物要去%objective%。我有货，但我没有卫兵。如果你有兴趣当会儿商队护卫，可能%days%左右，请告诉我，我们好谈谈价钱。%SPEECH_OFF% | 你从%employer%的窗户向外望，看着人们把货物装上几辆马车。%employer%端着两杯酒走了过来。你拿上一杯并一口饮尽。那男人盯着你。%SPEECH_ON%那可不便宜。你本应该好好享受它的。%SPEECH_OFF%你耸耸肩。%SPEECH_ON%抱歉。能再给我一杯让我再好好地喝一次吗？%SPEECH_OFF%%employer%转身走向他的书桌。%SPEECH_ON%好了，我需要一个商队被护送到%objective%。离这往%direction%大概%days%的路程。很简单，对吧？如果你有兴趣，给你的克朗可不少。%SPEECH_OFF% | %employer%看着他的几本书，细阅着上面的大量数字。%SPEECH_ON%我有一批特殊的货物要运往%objective%，他们很快就要出发了。我需要一群强壮的剑士来确保它安全到达那里。应该要花你大约%days%的时间。你有兴趣干吗？%SPEECH_OFF% | %employer%开门见山。%SPEECH_ON%我有一批……额，那是什么跟你没关系。它要被送到%objective%。并且，像许多人一样，我担心路上的强盗。我需要你照看着商队并确保它在大约%days%内安全到达。你听着有兴趣吗？%SPEECH_OFF% | %employer%向窗外望去。%SPEECH_ON%我们都知道强盗和各种神才知道的玩意在威胁着这片地方，而且他们都很喜欢在大路上搞事情。在经历了一次非常糟糕的运输后，我的老商队护卫们失去了继续工作的勇气。现在我需要其他人来看管我的货物。下一趟是往%direction%去%objective%，从这里出发大概要走%days%。那听起来像是个你愿意被雇去的地方吗？%SPEECH_OFF%}",
+    "translation": "[img]gfx/ui/events/event_98.png[/img]{%employer%的书房被温暖的炉火照亮。他请你坐下，并递给你一杯酒，两个你都接受了。%SPEECH_ON%佣兵，你知道现在的道路有多危险吧？%SPEECH_OFF%天哪，这酒真不错。你点点头，试图掩饰你的惊讶。%employer%简单地笑了一下继续道。%SPEECH_ON%很好，那你就会明白我交给你的任务了。我需要让一个商队被沿路护送至%objective%，大概离这%days%的路程。很简单，对吧？你有时间吗？有就让我们谈谈。%SPEECH_OFF% | 你发现%employer%正研读着几张他办公桌上的地图。他的手指滑到其中一张的边缘并继续行进到另一张上。%SPEECH_ON%我需要给商队找些护卫去%objective%，从这往%direction%大概%days%的路程。危险吗？当然。因此我才找你，佣兵。有兴趣吗？%SPEECH_OFF% | %employer%噘着嘴叉起手。%SPEECH_ON%通常来说我不会找佣兵来护送商队，但我的老伙计们有点不在状态——病了、醉了、嫖了……我想你懂的。重要的是我有重要货物要去%objective%，大概从这往%direction%走上%days%，而且我需要些人照看它。你有兴趣吗？%SPEECH_OFF% | %employer%凝视着窗外，看到一群人把货物装进几辆马车。他开口时没有看你。%SPEECH_ON%我有一份重要货物要去%objective%，从这往%direction%大概%days%的路程。不幸的是，一个竞争者在招募本地商队护卫出价更高。现在我需要你的服务。如果你感兴趣我们就谈谈价钱。%SPEECH_OFF% | %employer%从架子上拿起一个箱子放在桌子上。当他打开它时，一堆文件蹦了出来，几乎是急着要挣脱出来。他抓住一张并把它摊开。一面是一份合同，另一面是一张小地图。%SPEECH_ON%活很简单，佣兵。我承包了些……特别的货物要去%objective%。我有货，但我没有卫兵。如果你有兴趣当会儿商队护卫，可能%days%左右，请告诉我，我们好谈谈价钱。%SPEECH_OFF% | 你从%employer%的窗户向外望，看着人们把货物装上几辆马车。%employer%端着两杯酒走了过来。你拿上一杯并一口饮尽。那男人盯着你。%SPEECH_ON%那可不便宜。你本应该好好享受它的。%SPEECH_OFF%你耸耸肩。%SPEECH_ON%抱歉。能再给我一杯让我再好好地喝一次吗？%SPEECH_OFF%%employer%转身走向他的书桌。%SPEECH_ON%好了，我需要一个商队被护送到%objective%。离这往%direction%大概%days%的路程。很简单，对吧？如果你有兴趣，给你的克朗可不少。%SPEECH_OFF% | %employer%看着他的几本书，细阅着上面的大量数字。%SPEECH_ON%我有一批特殊的货物要运往%objective%，他们很快就要出发了。我需要一群强壮的剑士来确保它安全到达那里。应该要花你大约%days%的时间。你有兴趣干吗？%SPEECH_OFF% | %employer%开门见山。%SPEECH_ON%我有一批……额，那是什么跟你没关系。它要被送到%objective%。并且，像许多人一样，我担心路上的强盗。我需要你照看着商队并确保它在大约%days%内安全到达。你听着有兴趣吗？%SPEECH_OFF% | %employer%向窗外望去。%SPEECH_ON%我们都知道强盗和各种神才知道的玩意在威胁着这片地方，而且他们都很喜欢在大路上搞事情。在经历了一次非常糟糕的运输后，我的老商队护卫们失去了继续工作的勇气。现在我需要其他人来看管我的货物。下一趟是往%direction%去%objective%，从这里出发大概要走%days%。那听起来像是个你愿意被雇去的地方吗？%SPEECH_OFF%}",
     "stage": 5
   },
   {
@@ -311,7 +311,7 @@
     "key": "Crowns well deserved.",
     "original": "Crowns well deserved.",
     "translation": "当之无愧的克朗。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408789,
@@ -362,7 +362,7 @@
     "key": "Barbarians",
     "original": "Barbarians",
     "translation": "野蛮人",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408796,
@@ -419,8 +419,8 @@
     "ID": 293408803,
     "key": "A warband of barbarian tribals.",
     "original": "A warband of barbarian tribals.",
-    "translation": "一支野蛮部落的战斗队。",
-    "stage": 1
+    "translation": "一支野蛮部落的战团。",
+    "stage": 5
   },
   {
     "ID": 293408804,
@@ -433,8 +433,8 @@
     "ID": 293408805,
     "key": "At %objective%",
     "original": "At %objective%",
-    "translation": "在 %objective%",
-    "stage": 1
+    "translation": "在%objective%",
+    "stage": 5
   },
   {
     "ID": 293408806,
@@ -505,7 +505,7 @@
     "ID": 293408815,
     "key": "Trading Caravan",
     "original": "Trading Caravan",
-    "translation": "贸易商队(Trading Caravan)",
+    "translation": "贸易商队",
     "stage": 5
   },
   {
@@ -541,7 +541,7 @@
     "ID": 293408820,
     "key": "Goblin Raiders",
     "original": "Goblin Raiders",
-    "translation": "地精突袭者(Goblin Raiders)",
+    "translation": "地精突袭者",
     "stage": 1
   },
   {
@@ -591,6 +591,6 @@
     "key": "{Let's talk money. | How many crowns are we talking about? | What does it pay?}",
     "original": "{Let's talk money. | How many crowns are we talking about? | What does it pay?}",
     "translation": "{我们来谈谈价钱。 | 你愿意为此出多少克朗？ | 报酬是多少？}",
-    "stage": 1
+    "stage": 5
   }
 ]

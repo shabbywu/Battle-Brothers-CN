@@ -3,7 +3,7 @@
     "ID": 293410617,
     "key": "Ancient Statue",
     "original": "Ancient Statue",
-    "translation": "古代雕像(Ancient Statue)",
+    "translation": "古代雕像",
     "stage": 1,
     "context": "this.m.Name = 'Ancient Statue'"
   },

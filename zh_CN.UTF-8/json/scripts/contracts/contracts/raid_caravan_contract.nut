@@ -216,7 +216,7 @@
     "ID": 293409668,
     "key": "Caravan",
     "original": "Caravan",
-    "translation": "商队(Caravan)",
+    "translation": "商队",
     "stage": 1
   },
   {
@@ -266,7 +266,7 @@
     "key": "Crowns well deserved.",
     "original": "Crowns well deserved.",
     "translation": "当之无愧的克朗。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293409676,

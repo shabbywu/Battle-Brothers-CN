@@ -3,7 +3,7 @@
     "ID": 293410649,
     "key": "Witch Hut",
     "original": "Witch Hut",
-    "translation": "女巫的小屋(Witch Hut)",
+    "translation": "女巫的小屋",
     "stage": 5,
     "context": "this.m.Name = 'Witch Hut'"
   },

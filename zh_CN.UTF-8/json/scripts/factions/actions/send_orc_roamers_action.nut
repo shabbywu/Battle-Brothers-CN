@@ -10,7 +10,7 @@
     "ID": 293417382,
     "key": "Orc Hunters",
     "original": "Orc Hunters",
-    "translation": "兽人猎人(Orc Hunters)",
+    "translation": "兽人猎人",
     "stage": 1
   }
 ]

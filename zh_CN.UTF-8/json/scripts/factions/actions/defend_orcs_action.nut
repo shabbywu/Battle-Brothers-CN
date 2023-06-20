@@ -10,7 +10,7 @@
     "ID": 293417311,
     "key": "Orcs",
     "original": "Orcs",
-    "translation": "兽人(Orcs)",
+    "translation": "兽人",
     "stage": 1
   }
 ]
