@@ -24,7 +24,7 @@
     "ID": 293408871,
     "key": "Rook",
     "original": "Rook",
-    "translation": "磨具(Rook)",
+    "translation": "磨具",
     "stage": 1
   },
   {
@@ -45,7 +45,7 @@
     "ID": 293408874,
     "key": "Raven",
     "original": "Raven",
-    "translation": "雷文(Raven)",
+    "translation": "雷文",
     "stage": 1
   },
   {
@@ -67,7 +67,7 @@
     "ID": 293408877,
     "key": "The Fox",
     "original": "The Fox",
-    "translation": "狐狸(The Fox)",
+    "translation": "狐狸",
     "stage": 1
   },
   {
@@ -102,7 +102,7 @@
     "ID": 293408882,
     "key": "the General",
     "original": "the General",
-    "translation": "将军(the General)",
+    "translation": "将军",
     "stage": 1
   },
   {
@@ -124,14 +124,14 @@
     "ID": 293408885,
     "key": "Fox",
     "original": "Fox",
-    "translation": "狐狸(Fox)",
+    "translation": "狐狸",
     "stage": 1
   },
   {
     "ID": 293408886,
     "key": "The Bastard",
     "original": "The Bastard",
-    "translation": "混血儿(The Bastard)",
+    "translation": "混血儿",
     "stage": 1
   },
   {
@@ -160,7 +160,7 @@
     "ID": 293408890,
     "key": "the Fox",
     "original": "the Fox",
-    "translation": "狐狸(the Fox)",
+    "translation": "狐狸",
     "stage": 1
   },
   {
@@ -224,7 +224,7 @@
     "ID": 293408899,
     "key": "Robber Baron",
     "original": "Robber Baron",
-    "translation": "强盗男爵(Robber Baron)",
+    "translation": "强盗男爵",
     "stage": 1
   },
   {
@@ -259,7 +259,7 @@
     "ID": 293408904,
     "key": "Cat",
     "original": "Cat",
-    "translation": "猫(Cat)",
+    "translation": "猫",
     "stage": 1
   },
   {
@@ -287,7 +287,7 @@
     "ID": 293408908,
     "key": "The Lion",
     "original": "The Lion",
-    "translation": "狮子(The Lion)",
+    "translation": "狮子",
     "stage": 1
   },
   {
@@ -338,7 +338,7 @@
     "key": "Crowns well deserved.",
     "original": "Crowns well deserved.",
     "translation": "当之无愧的克朗。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408916,
@@ -351,7 +351,7 @@
     "ID": 293408917,
     "key": "Bastard",
     "original": "Bastard",
-    "translation": "私生子(Bastard)",
+    "translation": "私生子",
     "stage": 1
   },
   {
@@ -379,7 +379,7 @@
     "ID": 293408921,
     "key": "the Cat",
     "original": "the Cat",
-    "translation": "猫(the Cat)",
+    "translation": "猫",
     "stage": 1
   },
   {
@@ -393,7 +393,7 @@
     "ID": 293408923,
     "key": "Expedition",
     "original": "Expedition",
-    "translation": "战役(Expedition)",
+    "translation": "战役",
     "stage": 1,
     "context": "this.m.Name = 'Expedition'"
   },
@@ -401,7 +401,7 @@
     "ID": 293408924,
     "key": "the Robber Baron",
     "original": "the Robber Baron",
-    "translation": "土匪男爵(the Robber Baron)",
+    "translation": "土匪男爵",
     "stage": 1
   },
   {
@@ -422,7 +422,7 @@
     "ID": 293408927,
     "key": "The General",
     "original": "The General",
-    "translation": "将军 (The General)",
+    "translation": "将军 ",
     "stage": 1
   },
   {
@@ -450,7 +450,7 @@
     "ID": 293408931,
     "key": "The Cat",
     "original": "The Cat",
-    "translation": "猫(The Cat)",
+    "translation": "猫",
     "stage": 1
   },
   {
@@ -464,7 +464,7 @@
     "ID": 293408933,
     "key": "Lion",
     "original": "Lion",
-    "translation": "狮子(Lion)",
+    "translation": "狮子",
     "stage": 1
   }
 ]

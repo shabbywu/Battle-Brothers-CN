@@ -3,56 +3,56 @@
     "ID": 293411503,
     "key": "Kolkburg",
     "original": "Kolkburg",
-    "translation": "科尔克堡(Kolkburg)",
+    "translation": "科尔克堡",
     "stage": 1
   },
   {
     "ID": 293411504,
     "key": "Teichburg",
     "original": "Teichburg",
-    "translation": "泰克堡(Teichburg)",
+    "translation": "泰克堡",
     "stage": 1
   },
   {
     "ID": 293411505,
     "key": "Marschburg",
     "original": "Marschburg",
-    "translation": "马尔斯堡(Marschburg)",
+    "translation": "马尔斯堡",
     "stage": 1
   },
   {
     "ID": 293411506,
     "key": "Schwarzburg",
     "original": "Schwarzburg",
-    "translation": "施瓦兹堡(Schwarzburg)",
+    "translation": "施瓦兹堡",
     "stage": 1
   },
   {
     "ID": 293411507,
     "key": "Muckenburg",
     "original": "Muckenburg",
-    "translation": "墨肯堡(Muckenburg)",
+    "translation": "墨肯堡",
     "stage": 1
   },
   {
     "ID": 293411508,
     "key": "Nebelburg",
     "original": "Nebelburg",
-    "translation": "尼拜尔堡(Nebelburg)",
+    "translation": "尼拜尔堡",
     "stage": 1
   },
   {
     "ID": 293411509,
     "key": "Furthburg",
     "original": "Furthburg",
-    "translation": "弗思伯格(Furthburg)",
+    "translation": "弗思伯格",
     "stage": 1
   },
   {
     "ID": 293411510,
     "key": "Pfuhlburg",
     "original": "Pfuhlburg",
-    "translation": "普弗尔堡(Pfuhlburg)",
+    "translation": "普弗尔堡",
     "stage": 1
   },
   {
@@ -67,42 +67,42 @@
     "ID": 293411512,
     "key": "Krautburg",
     "original": "Krautburg",
-    "translation": "克劳特堡(Krautburg)",
+    "translation": "克劳特堡",
     "stage": 1
   },
   {
     "ID": 293411513,
     "key": "Egelburg",
     "original": "Egelburg",
-    "translation": "艾格尔堡(Egelburg)",
+    "translation": "艾格尔堡",
     "stage": 1
   },
   {
     "ID": 293411514,
     "key": "Schlammburg",
     "original": "Schlammburg",
-    "translation": "施拉姆堡(Schlammburg)",
+    "translation": "施拉姆堡",
     "stage": 1
   },
   {
     "ID": 293411515,
     "key": "Froschburg",
     "original": "Froschburg",
-    "translation": "弗罗施堡(Froschburg)",
+    "translation": "弗罗施堡",
     "stage": 1
   },
   {
     "ID": 293411516,
     "key": "Fennburg",
     "original": "Fennburg",
-    "translation": "芬堡(Fennburg)",
+    "translation": "芬堡",
     "stage": 1
   },
   {
     "ID": 293411517,
     "key": "Moosburg",
     "original": "Moosburg",
-    "translation": "莫斯堡(Moosburg)",
+    "translation": "莫斯堡",
     "stage": 1
   },
   {
@@ -117,133 +117,133 @@
     "ID": 293411519,
     "key": "Molchburg",
     "original": "Molchburg",
-    "translation": "莫尔克堡(Molchburg)",
+    "translation": "莫尔克堡",
     "stage": 1
   },
   {
     "ID": 293411520,
     "key": "Schilfburg",
     "original": "Schilfburg",
-    "translation": "芦苇堡(Schilfburg)",
+    "translation": "芦苇堡",
     "stage": 1
   },
   {
     "ID": 293411521,
     "key": "Grunburg",
     "original": "Grunburg",
-    "translation": "格伦堡(Grunburg)",
+    "translation": "格伦堡",
     "stage": 1
   },
   {
     "ID": 293411522,
     "key": "Bruchburg",
     "original": "Bruchburg",
-    "translation": "布鲁赫堡(Bruchburg)",
+    "translation": "布鲁赫堡",
     "stage": 1
   },
   {
     "ID": 293411523,
     "key": "Schlickburg",
     "original": "Schlickburg",
-    "translation": "施利克堡(Schlickburg)",
+    "translation": "施利克堡",
     "stage": 1
   },
   {
     "ID": 293411524,
     "key": "Kaltenburg",
     "original": "Kaltenburg",
-    "translation": "卡尔滕堡(Kaltenburg)",
+    "translation": "卡尔滕堡",
     "stage": 1
   },
   {
     "ID": 293411525,
     "key": "Moorburg",
     "original": "Moorburg",
-    "translation": "墨尔堡(Moorburg)",
+    "translation": "墨尔堡",
     "stage": 1
   },
   {
     "ID": 293411526,
     "key": "Torfburg",
     "original": "Torfburg",
-    "translation": "托尔夫堡(Torfburg)",
+    "translation": "托尔夫堡",
     "stage": 1
   },
   {
     "ID": 293411527,
     "key": "Birkenburg",
     "original": "Birkenburg",
-    "translation": "伯肯堡(Birkenburg)",
+    "translation": "伯肯堡",
     "stage": 1
   },
   {
     "ID": 293411528,
     "key": "Brookburg",
     "original": "Brookburg",
-    "translation": "布鲁克堡(Brookburg)",
+    "translation": "布鲁克堡",
     "stage": 1
   },
   {
     "ID": 293411529,
     "key": "Riedburg",
     "original": "Riedburg",
-    "translation": "里德堡(Riedburg)",
+    "translation": "里德堡",
     "stage": 1
   },
   {
     "ID": 293411530,
     "key": "Dunkelburg",
     "original": "Dunkelburg",
-    "translation": "邓凯尔堡(Dunkelburg)",
+    "translation": "邓凯尔堡",
     "stage": 1
   },
   {
     "ID": 293411531,
     "key": "Senkburg",
     "original": "Senkburg",
-    "translation": "森克堡(Senkburg)",
+    "translation": "森克堡",
     "stage": 1
   },
   {
     "ID": 293411532,
     "key": "Morastburg",
     "original": "Morastburg",
-    "translation": "莫拉斯特堡(Morastburg)",
+    "translation": "莫拉斯特堡",
     "stage": 1
   },
   {
     "ID": 293411533,
     "key": "Suhlburg",
     "original": "Suhlburg",
-    "translation": "苏尔堡(Suhlburg)",
+    "translation": "苏尔堡",
     "stage": 1
   },
   {
     "ID": 293411534,
     "key": "Rohrburg",
     "original": "Rohrburg",
-    "translation": "罗尔堡(Rohrburg)",
+    "translation": "罗尔堡",
     "stage": 1
   },
   {
     "ID": 293411535,
     "key": "Brackenburg",
     "original": "Brackenburg",
-    "translation": "布拉肯堡(Brackenburg)",
+    "translation": "布拉肯堡",
     "stage": 1
   },
   {
     "ID": 293411536,
     "key": "Stakenburg",
     "original": "Stakenburg",
-    "translation": "斯塔肯堡(Stakenburg)",
+    "translation": "斯塔肯堡",
     "stage": 1
   },
   {
     "ID": 293411537,
     "key": "Brunnburg",
     "original": "Brunnburg",
-    "translation": "布伦堡(Brunnburg)",
+    "translation": "布伦堡",
     "stage": 1
   }
 ]

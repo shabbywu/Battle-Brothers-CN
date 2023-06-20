@@ -3,21 +3,21 @@
     "ID": 293412292,
     "key": "Wurmwacht",
     "original": "Wurmwacht",
-    "translation": "蠕虫哨兵(Wurmwacht)",
+    "translation": "蠕虫哨兵",
     "stage": 1
   },
   {
     "ID": 293412293,
     "key": "Goldwall",
     "original": "Goldwall",
-    "translation": "黄金之墙(Goldwall)",
+    "translation": "黄金之墙",
     "stage": 1
   },
   {
     "ID": 293412294,
     "key": "Siegwacht",
     "original": "Siegwacht",
-    "translation": "西格沃特(Siegwacht)",
+    "translation": "西格沃特",
     "stage": 1
   },
   {
@@ -32,42 +32,42 @@
     "ID": 293412296,
     "key": "Dornwall",
     "original": "Dornwall",
-    "translation": "多恩沃尔(Dornwall)",
+    "translation": "多恩沃尔",
     "stage": 1
   },
   {
     "ID": 293412297,
     "key": "Dornwacht",
     "original": "Dornwacht",
-    "translation": "多恩瓦赫特(Dornwacht)",
+    "translation": "多恩瓦赫特",
     "stage": 1
   },
   {
     "ID": 293412298,
     "key": "Strauchwacht",
     "original": "Strauchwacht",
-    "translation": "斯特劳希瓦赫特(Strauchwacht)",
+    "translation": "斯特劳希瓦赫特",
     "stage": 1
   },
   {
     "ID": 293412299,
     "key": "Unterwall",
     "original": "Unterwall",
-    "translation": "安特沃尔(Unterwall)",
+    "translation": "安特沃尔",
     "stage": 1
   },
   {
     "ID": 293412300,
     "key": "Thurnwall",
     "original": "Thurnwall",
-    "translation": "瑟恩沃尔(Thurnwall)",
+    "translation": "瑟恩沃尔",
     "stage": 1
   },
   {
     "ID": 293412301,
     "key": "Treitenwacht",
     "original": "Treitenwacht",
-    "translation": "特莱滕卫所(Treitenwacht)",
+    "translation": "特莱滕卫所",
     "stage": 5
   },
   {
@@ -82,119 +82,119 @@
     "ID": 293412303,
     "key": "Brunnwall",
     "original": "Brunnwall",
-    "translation": "布伦沃尔(Brunnwall)",
+    "translation": "布伦沃尔",
     "stage": 1
   },
   {
     "ID": 293412304,
     "key": "Rothenwall",
     "original": "Rothenwall",
-    "translation": "罗森沃尔(Rothenwall)",
+    "translation": "罗森沃尔",
     "stage": 1
   },
   {
     "ID": 293412305,
     "key": "Sudschanze",
     "original": "Sudschanze",
-    "translation": "苏德尚策堡(Sudschanze)",
+    "translation": "苏德尚策堡",
     "stage": 1
   },
   {
     "ID": 293412306,
     "key": "Dorngard",
     "original": "Dorngard",
-    "translation": "多恩加德(Dorngard)",
+    "translation": "多恩加德",
     "stage": 1
   },
   {
     "ID": 293412307,
     "key": "Schanzthal",
     "original": "Schanzthal",
-    "translation": "尚茨塔尔(Schanzthal)",
+    "translation": "尚茨塔尔",
     "stage": 1
   },
   {
     "ID": 293412308,
     "key": "Kargwall",
     "original": "Kargwall",
-    "translation": "卡格沃尔(Kargwall)",
+    "translation": "卡格沃尔",
     "stage": 1
   },
   {
     "ID": 293412309,
     "key": "Krauchwall",
     "original": "Krauchwall",
-    "translation": "克劳奇瓦尔(Krauchwall)",
+    "translation": "克劳奇瓦尔",
     "stage": 1
   },
   {
     "ID": 293412310,
     "key": "Sandwacht",
     "original": "Sandwacht",
-    "translation": "沙兵(Sandwacht)",
+    "translation": "沙兵",
     "stage": 1
   },
   {
     "ID": 293412311,
     "key": "Gelbwall",
     "original": "Gelbwall",
-    "translation": "格尔布瓦尔(Gelbwall)",
+    "translation": "格尔布瓦尔",
     "stage": 1
   },
   {
     "ID": 293412312,
     "key": "Suderwacht",
     "original": "Suderwacht",
-    "translation": "苏德瓦赫特(Suderwacht)",
+    "translation": "苏德瓦赫特",
     "stage": 1
   },
   {
     "ID": 293412313,
     "key": "Wohlenwacht",
     "original": "Wohlenwacht",
-    "translation": "沃伦瓦赫特(Wohlenwacht)",
+    "translation": "沃伦瓦赫特",
     "stage": 1
   },
   {
     "ID": 293412314,
     "key": "Weissenwacht",
     "original": "Weissenwacht",
-    "translation": "怀森瓦赫特(Weissenwacht)",
+    "translation": "怀森瓦赫特",
     "stage": 1
   },
   {
     "ID": 293412315,
     "key": "Sonnwehr",
     "original": "Sonnwehr",
-    "translation": "松韵威尔(Sonnwehr)",
+    "translation": "松韵威尔",
     "stage": 1
   },
   {
     "ID": 293412316,
     "key": "Steppwall",
     "original": "Steppwall",
-    "translation": "斯特普沃尔(Steppwall)",
+    "translation": "斯特普沃尔",
     "stage": 1
   },
   {
     "ID": 293412317,
     "key": "Dornturm",
     "original": "Dornturm",
-    "translation": "多恩图姆(Dornturm)",
+    "translation": "多恩图姆",
     "stage": 1
   },
   {
     "ID": 293412318,
     "key": "Erlachwall",
     "original": "Erlachwall",
-    "translation": "埃拉赫沃尔(Erlachwall)",
+    "translation": "埃拉赫沃尔",
     "stage": 1
   },
   {
     "ID": 293412319,
     "key": "Brackenwacht",
     "original": "Brackenwacht",
-    "translation": "布拉肯沃赫特(Brackenwacht)",
+    "translation": "布拉肯沃赫特",
     "stage": 1
   }
 ]

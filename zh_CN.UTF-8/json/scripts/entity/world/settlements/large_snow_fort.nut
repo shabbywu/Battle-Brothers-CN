@@ -3,147 +3,147 @@
     "ID": 293410923,
     "key": "Lydersborg",
     "original": "Lydersborg",
-    "translation": "吕德斯堡(Lydersborg)",
+    "translation": "吕德斯堡",
     "stage": 1
   },
   {
     "ID": 293410924,
     "key": "Sommersborg",
     "original": "Sommersborg",
-    "translation": "松马斯堡(Sommersborg)",
+    "translation": "松马斯堡",
     "stage": 1
   },
   {
     "ID": 293410925,
     "key": "Donnersborg",
     "original": "Donnersborg",
-    "translation": "雷神堡(Donnersborg)",
+    "translation": "雷神堡",
     "stage": 5
   },
   {
     "ID": 293410926,
     "key": "Helvikborg",
     "original": "Helvikborg",
-    "translation": "海尔维克堡垒(Helvikborg)",
+    "translation": "海尔维克堡垒",
     "stage": 1
   },
   {
     "ID": 293410927,
     "key": "Kungsborg",
     "original": "Kungsborg",
-    "translation": "昆斯堡(Kungsborg)",
+    "translation": "昆斯堡",
     "stage": 1
   },
   {
     "ID": 293410928,
     "key": "Helleborg",
     "original": "Helleborg",
-    "translation": "赫勒堡(Helleborg)",
+    "translation": "赫勒堡",
     "stage": 1
   },
   {
     "ID": 293410929,
     "key": "Vardeborg",
     "original": "Vardeborg",
-    "translation": "瓦尔德堡(Vardeborg)",
+    "translation": "瓦尔德堡",
     "stage": 1
   },
   {
     "ID": 293410930,
     "key": "Skjoldborg",
     "original": "Skjoldborg",
-    "translation": "斯科尔博格(Skjoldborg)",
+    "translation": "斯科尔博格",
     "stage": 1
   },
   {
     "ID": 293410931,
     "key": "Ramborg",
     "original": "Ramborg",
-    "translation": "兰博尔格(Ramborg)",
+    "translation": "兰博尔格",
     "stage": 1
   },
   {
     "ID": 293410932,
     "key": "Brammingborg",
     "original": "Brammingborg",
-    "translation": "布拉明堡(Brammingborg)",
+    "translation": "布拉明堡",
     "stage": 1
   },
   {
     "ID": 293410933,
     "key": "Tangborg",
     "original": "Tangborg",
-    "translation": "唐堡(Tangborg)",
+    "translation": "唐堡",
     "stage": 1
   },
   {
     "ID": 293410934,
     "key": "Gunnborg",
     "original": "Gunnborg",
-    "translation": "冈伯格(Gunnborg)",
+    "translation": "冈伯格",
     "stage": 1
   },
   {
     "ID": 293410935,
     "key": "Asenborg",
     "original": "Asenborg",
-    "translation": "阿森堡(Asenborg)",
+    "translation": "阿森堡",
     "stage": 1
   },
   {
     "ID": 293410936,
     "key": "Snekkborg",
     "original": "Snekkborg",
-    "translation": "斯内克堡(Snekkborg)",
+    "translation": "斯内克堡",
     "stage": 1
   },
   {
     "ID": 293410937,
     "key": "Varborg",
     "original": "Varborg",
-    "translation": "瓦尔堡(Varborg)",
+    "translation": "瓦尔堡",
     "stage": 1
   },
   {
     "ID": 293410938,
     "key": "Homsborg",
     "original": "Homsborg",
-    "translation": "洪斯堡(Homsborg)",
+    "translation": "洪斯堡",
     "stage": 1
   },
   {
     "ID": 293410939,
     "key": "Hornborg",
     "original": "Hornborg",
-    "translation": "洪堡(Hornborg)",
+    "translation": "洪堡",
     "stage": 1
   },
   {
     "ID": 293410940,
     "key": "Vineborg",
     "original": "Vineborg",
-    "translation": "维内堡(Vineborg)",
+    "translation": "维内堡",
     "stage": 1
   },
   {
     "ID": 293410941,
     "key": "Grimborg",
     "original": "Grimborg",
-    "translation": "格林博格(Grimborg)",
+    "translation": "格林博格",
     "stage": 1
   },
   {
     "ID": 293410942,
     "key": "Gerborg",
     "original": "Gerborg",
-    "translation": "格尔堡(Gerborg)",
+    "translation": "格尔堡",
     "stage": 1
   },
   {
     "ID": 293410943,
     "key": "Groneborg",
     "original": "Groneborg",
-    "translation": "格罗讷堡(Groneborg)",
+    "translation": "格罗讷堡",
     "stage": 1
   },
   {
@@ -158,7 +158,7 @@
     "ID": 293410945,
     "key": "Torvaborg",
     "original": "Torvaborg",
-    "translation": "托尔瓦堡(Torvaborg)",
+    "translation": "托尔瓦堡",
     "stage": 1
   },
   {
@@ -173,63 +173,63 @@
     "ID": 293410947,
     "key": "Hammarborg",
     "original": "Hammarborg",
-    "translation": "哈马堡(Hammarborg)",
+    "translation": "哈马堡",
     "stage": 1
   },
   {
     "ID": 293410948,
     "key": "Tonderborg",
     "original": "Tonderborg",
-    "translation": "桐德堡(Tonderborg)",
+    "translation": "桐德堡",
     "stage": 1
   },
   {
     "ID": 293410949,
     "key": "Norreborg",
     "original": "Norreborg",
-    "translation": "诺尔堡(Norreborg)",
+    "translation": "诺尔堡",
     "stage": 1
   },
   {
     "ID": 293410950,
     "key": "Kalkborg",
     "original": "Kalkborg",
-    "translation": "卡尔克堡(Kalkborg)",
+    "translation": "卡尔克堡",
     "stage": 1
   },
   {
     "ID": 293410951,
     "key": "Jarlsborg",
     "original": "Jarlsborg",
-    "translation": "扎尔斯堡(Jarlsborg)",
+    "translation": "扎尔斯堡",
     "stage": 1
   },
   {
     "ID": 293410952,
     "key": "Halsborg",
     "original": "Halsborg",
-    "translation": "哈尔斯堡(Halsborg)",
+    "translation": "哈尔斯堡",
     "stage": 1
   },
   {
     "ID": 293410953,
     "key": "Eidsvikborg",
     "original": "Eidsvikborg",
-    "translation": "艾兹维克堡(Eidsvikborg)",
+    "translation": "艾兹维克堡",
     "stage": 1
   },
   {
     "ID": 293410954,
     "key": "Birkeborg",
     "original": "Birkeborg",
-    "translation": "伯克堡(Birkeborg)",
+    "translation": "伯克堡",
     "stage": 1
   },
   {
     "ID": 293410955,
     "key": "Hunneborg",
     "original": "Hunneborg",
-    "translation": "洪堡(Hunneborg)",
+    "translation": "洪堡",
     "stage": 1
   }
 ]

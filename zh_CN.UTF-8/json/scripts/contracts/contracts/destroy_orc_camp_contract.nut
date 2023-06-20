@@ -83,7 +83,7 @@
     "ID": 293408561,
     "key": "the Survivor",
     "original": "the Survivor",
-    "translation": "幸存者(the Survivor)",
+    "translation": "幸存者",
     "stage": 5
   },
   {
@@ -114,7 +114,7 @@
     "key": "Crowns well deserved.",
     "original": "Crowns well deserved.",
     "translation": "当之无愧的克朗。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408566,

@@ -17,7 +17,7 @@
     "ID": 293409534,
     "key": "Return within %days% days",
     "original": "Return within %days% days",
-    "translation": "在 %days% 天内返回",
+    "translation": "在%days%天内返回",
     "stage": 1
   },
   {
@@ -165,8 +165,8 @@
     "ID": 293409555,
     "key": "A warband of barbarian tribals.",
     "original": "A warband of barbarian tribals.",
-    "translation": "一支野蛮部落的战斗队。",
-    "stage": 1
+    "translation": "一支野蛮部落的战团。",
+    "stage": 5
   },
   {
     "ID": 293409556,
@@ -196,7 +196,7 @@
     "ID": 293409559,
     "key": "Brigand Hunters",
     "original": "Brigand Hunters",
-    "translation": "盗匪猎人(Brigand Hunters)",
+    "translation": "盗匪猎人",
     "stage": 1
   },
   {
@@ -245,7 +245,7 @@
     "ID": 293409566,
     "key": "Event",
     "original": "Event",
-    "translation": "事件(Event)",
+    "translation": "事件",
     "stage": 1,
     "context": "properties.CombatID = 'Event'"
   },
@@ -274,7 +274,7 @@
     "ID": 293409570,
     "key": "Get paid for every head you collect on the road (%killcount%/%maxcount%)",
     "original": "Get paid for every head you collect on the road (%killcount%/%maxcount%)",
-    "translation": "每一个你在路上收集的人头都会得到报酬 (%killcount%/%maxcount%)",
+    "translation": "每一个你在路上收集的头颅都会得到报酬 (%killcount%/%maxcount%)",
     "stage": 1
   },
   {
@@ -330,7 +330,7 @@
     "ID": 293409578,
     "key": "Goblin Raiders",
     "original": "Goblin Raiders",
-    "translation": "地精突袭者(Goblin Raiders)",
+    "translation": "地精突袭者",
     "stage": 1
   },
   {
@@ -352,14 +352,14 @@
     "ID": 293409581,
     "key": "Goblin Scouts",
     "original": "Goblin Scouts",
-    "translation": "地精侦察兵(Goblin Scouts)",
+    "translation": "地精侦察兵",
     "stage": 1
   },
   {
     "ID": 293409582,
     "key": "Nomads",
     "original": "Nomads",
-    "translation": "游牧民(Nomads)",
+    "translation": "游牧民",
     "stage": 5
   },
   {

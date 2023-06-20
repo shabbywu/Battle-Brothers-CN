@@ -10,7 +10,7 @@
     "ID": 293409029,
     "key": "soulstealers",
     "original": "soulstealers",
-    "translation": "灵魂窃贼(soulstealers)",
+    "translation": "灵魂窃贼",
     "stage": 1
   },
   {
@@ -24,7 +24,7 @@
     "ID": 293409031,
     "key": "nightcreepers",
     "original": "nightcreepers",
-    "translation": "夜行者(nightcreepers)",
+    "translation": "夜行者",
     "stage": 1
   },
   {
@@ -46,7 +46,7 @@
     "ID": 293409034,
     "key": "aufhockers",
     "original": "aufhockers",
-    "translation": "寄生虫(aufhockers)",
+    "translation": "寄生虫",
     "stage": 1
   },
   {
@@ -90,7 +90,7 @@
     "ID": 293409040,
     "key": "dreamstealers",
     "original": "dreamstealers",
-    "translation": "噩梦窃贼(dreamstealers)",
+    "translation": "噩梦窃贼",
     "stage": 1
   },
   {
@@ -112,7 +112,7 @@
     "ID": 293409043,
     "key": "alps",
     "original": "alps",
-    "translation": "梦魇(alps)",
+    "translation": "梦魇",
     "stage": 1
   },
   {
@@ -155,7 +155,7 @@
     "ID": 293409049,
     "key": "nightterrors",
     "original": "nightterrors",
-    "translation": "夜惊症(nightterrors)",
+    "translation": "夜惊症",
     "stage": 1
   },
   {
@@ -183,7 +183,7 @@
     "ID": 293409053,
     "key": "nightstalkers",
     "original": "nightstalkers",
-    "translation": "夜行者 (nightstalkers)",
+    "translation": "夜行者 ",
     "stage": 1
   },
   {

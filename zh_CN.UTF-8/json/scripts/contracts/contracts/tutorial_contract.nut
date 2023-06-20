@@ -60,7 +60,7 @@
     "ID": 293410055,
     "key": "Hoggart's Refuge",
     "original": "Hoggart's Refuge",
-    "translation": "霍加特避难所 (Hoggart's Refuge)",
+    "translation": "霍加特避难所 ",
     "stage": 1
   },
   {
@@ -74,7 +74,7 @@
     "ID": 293410057,
     "key": "Captain Bernhard",
     "original": "Captain Bernhard",
-    "translation": "伯恩哈德队长(Captain Bernhard)",
+    "translation": "伯恩哈德队长",
     "stage": 5
   },
   {

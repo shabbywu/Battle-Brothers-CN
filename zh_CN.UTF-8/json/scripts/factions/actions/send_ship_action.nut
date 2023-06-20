@@ -10,7 +10,7 @@
     "ID": 293417390,
     "key": "Ship",
     "original": "Ship",
-    "translation": "船(Ship)",
+    "translation": "船",
     "stage": 1
   }
 ]

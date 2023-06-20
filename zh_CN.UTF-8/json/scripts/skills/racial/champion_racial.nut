@@ -3,8 +3,8 @@
     "ID": 293422152,
     "key": "Champion",
     "original": "Champion",
-    "translation": "队长(Champion)",
-    "stage": 1,
+    "translation": "冠军",
+    "stage": 5,
     "context": "this.m.Name = 'Champion'"
   }
 ]

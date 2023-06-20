@@ -5722,8 +5722,8 @@
     "ID": 293404595,
     "key": "Goswin",
     "original": "Goswin",
-    "translation": "高斯(Goswin)",
-    "stage": 1
+    "translation": "高斯温",
+    "stage": 5
   },
   {
     "ID": 293404596,
@@ -6422,8 +6422,8 @@
     "ID": 293404695,
     "key": "Al-Mundir",
     "original": "Al-Mundir",
-    "translation": "阿尔穆迪尔",
-    "stage": 1
+    "translation": "阿尔-穆迪尔",
+    "stage": 5
   },
   {
     "ID": 293404696,

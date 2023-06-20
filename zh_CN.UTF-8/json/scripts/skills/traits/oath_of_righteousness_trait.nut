@@ -43,7 +43,7 @@
     "ID": 293422656,
     "key": "This character has taken an Oath of Righteousness, and is sworn to put the living dead to their final rest.",
     "original": "This character has taken an Oath of Righteousness, and is sworn to put the living dead to their final rest.",
-    "translation": "该角色已经宣誓正义誓言，发誓要将亡灵赶尽杀绝。",
+    "translation": "该角色已经立下正义誓言，发誓要将亡灵赶尽杀绝。",
     "stage": 1,
     "context": "this.m.Description = 'This character has taken an Oath of Righteousness, and is sworn to put the living dead to their final rest.'"
   },

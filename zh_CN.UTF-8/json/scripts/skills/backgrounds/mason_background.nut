@@ -35,8 +35,8 @@
     "ID": 293421105,
     "key": "Mason",
     "original": "Mason",
-    "translation": "梅森(Mason)",
-    "stage": 1,
+    "translation": "石匠",
+    "stage": 5,
     "context": "this.m.Name = 'Mason'"
   },
   {

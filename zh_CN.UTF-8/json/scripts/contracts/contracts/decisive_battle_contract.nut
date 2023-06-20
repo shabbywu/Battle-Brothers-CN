@@ -102,7 +102,7 @@
     "ID": 293408142,
     "key": "The Battle",
     "original": "The Battle",
-    "translation": "战斗(The Battle)",
+    "translation": "战斗",
     "stage": 1,
     "context": "this.m.Name = 'The Battle'"
   },
@@ -472,7 +472,7 @@
     "key": "Crowns well deserved.",
     "original": "Crowns well deserved.",
     "translation": "当之无愧的克朗。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408195,

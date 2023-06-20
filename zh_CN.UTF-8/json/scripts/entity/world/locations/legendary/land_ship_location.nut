@@ -3,7 +3,7 @@
     "ID": 293410631,
     "key": "Curious Ship Wreck",
     "original": "Curious Ship Wreck",
-    "translation": "奇怪的船骸(Curious Ship Wreck)",
+    "translation": "奇怪的船骸",
     "stage": 5,
     "context": "this.m.Name = 'Curious Ship Wreck'"
   },

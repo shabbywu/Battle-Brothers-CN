@@ -43,7 +43,7 @@
     "ID": 293422639,
     "key": "Is focused on defense, and cannot move in the first round of combat",
     "original": "Is focused on defense, and cannot move in the first round of combat",
-    "translation": "专注于防御，在战斗的第一回合无法移动。",
+    "translation": "专注于防御，在战斗的第一回合无法移动",
     "stage": 1
   },
   {
@@ -74,7 +74,7 @@
     "ID": 293422643,
     "key": "This character has taken an Oath of Fortification, and is sworn to trust in his shield above all else.",
     "original": "This character has taken an Oath of Fortification, and is sworn to trust in his shield above all else.",
-    "translation": "该角色立下了壁垒誓言，发誓将信任放在他的盾牌之上。",
+    "translation": "该角色立下了壁垒誓言，发誓对他的盾牌寄予无上的信任。",
     "stage": 1,
     "context": "this.m.Description = 'This character has taken an Oath of Fortification, and is sworn to trust in his shield above all else.'"
   }

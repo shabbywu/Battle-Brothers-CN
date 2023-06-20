@@ -27,8 +27,8 @@
     "ID": 293403663,
     "key": "As warriors, we must never lose sight of true honor.\nLet us take an Oath of Honor and meet our opponents in melee!",
     "original": "As warriors, we must never lose sight of true honor.\nLet us take an Oath of Honor and meet our opponents in melee!",
-    "translation": "作为战士，我们决不能忽视真正的荣誉。\n让我们立下荣耀誓言，与我们的对手短兵相接！",
-    "stage": 1,
+    "translation": "作为战士，我们决不能忽视真正的荣誉。\n让我们立下荣誉誓言，与我们的对手短兵相接！",
+    "stage": 5,
     "context": "this.m.ButtonText = 'As warriors, we must never lose sight of true honor.\nLet us take an Oath of Honor and meet our opponents in melee!'"
   },
   {
@@ -43,8 +43,8 @@
     "ID": 293403665,
     "key": "Oath of Honor",
     "original": "Oath of Honor",
-    "translation": "荣耀誓言",
-    "stage": 1,
+    "translation": "荣誉誓言",
+    "stage": 5,
     "context": "this.m.OathName = 'Oath of Honor'"
   },
   {

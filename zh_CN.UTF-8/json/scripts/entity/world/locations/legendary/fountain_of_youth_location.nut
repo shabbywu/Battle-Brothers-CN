@@ -3,7 +3,7 @@
     "ID": 293410625,
     "key": "Grotesque Tree",
     "original": "Grotesque Tree",
-    "translation": "怪诞树(Grotesque Tree)",
+    "translation": "怪诞树",
     "stage": 1,
     "context": "this.m.Name = 'Grotesque Tree'"
   },

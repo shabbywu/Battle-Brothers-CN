@@ -165,7 +165,7 @@
     "ID": 293408690,
     "key": "Drive Off Barbarians",
     "original": "Drive Off Barbarians",
-    "translation": "驱赶野蛮人(Drive Off Barbarians)",
+    "translation": "驱赶野蛮人",
     "stage": 1,
     "context": "this.m.Name = 'Drive Off Barbarians'"
   },
@@ -281,7 +281,7 @@
     "key": "Crowns well deserved.",
     "original": "Crowns well deserved.",
     "translation": "当之无愧的克朗。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408707,

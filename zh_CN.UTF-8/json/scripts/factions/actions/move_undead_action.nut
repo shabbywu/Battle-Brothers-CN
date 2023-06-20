@@ -3,7 +3,7 @@
     "ID": 293417320,
     "key": "Undead",
     "original": "Undead",
-    "translation": "亡灵(Undead)",
+    "translation": "亡灵",
     "stage": 1
   },
   {

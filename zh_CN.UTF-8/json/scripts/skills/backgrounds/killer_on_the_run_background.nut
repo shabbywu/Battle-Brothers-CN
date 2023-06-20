@@ -84,7 +84,7 @@
     "ID": 293421068,
     "key": "Killer on the Run",
     "original": "Killer on the Run",
-    "translation": "在逃杀手(Killer on the Run)",
+    "translation": "在逃杀人犯",
     "stage": 1,
     "context": "this.m.Name = 'Killer on the Run'"
   }

@@ -4,7 +4,7 @@
     "key": "instance",
     "original": "instance",
     "translation": "instance",
-    "stage": 1,
+    "stage": -1,
     "context": "typeof _p2 == 'instance'"
   },
   {

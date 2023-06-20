@@ -3,7 +3,7 @@
     "ID": 293422671,
     "key": "]+10[/color] Melee Skill when fighting greenskins",
     "original": "]+10[/color] Melee Skill when fighting greenskins",
-    "translation": "]+10[/color] 近战技能（对抗兽人）",
+    "translation": "]+10[/color] 近战技能（对抗绿皮族）",
     "stage": 1,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Melee Skill when fighting greenskins'"
   },
@@ -52,14 +52,14 @@
     "key": "Oath of Vengeance",
     "original": "Oath of Vengeance",
     "translation": "复仇誓言",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Oath of Vengeance'"
   },
   {
     "ID": 293422678,
     "key": "]+10[/color] Ranged Skill when fighting greenskins",
     "original": "]+10[/color] Ranged Skill when fighting greenskins",
-    "translation": "]+10[/color] 远程技能（对抗兽人）",
+    "translation": "]+10[/color] 远程技能（对抗绿皮族）",
     "stage": 1,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Ranged Skill when fighting greenskins'"
   },

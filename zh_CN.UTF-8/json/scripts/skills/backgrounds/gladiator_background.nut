@@ -28,7 +28,7 @@
     "key": "Gladiator",
     "original": "Gladiator",
     "translation": "角斗士",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Gladiator'"
   },
   {

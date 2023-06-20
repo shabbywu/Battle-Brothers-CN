@@ -3,7 +3,7 @@
     "ID": 293410607,
     "key": "Battle Site",
     "original": "Battle Site",
-    "translation": "战场(Battle Site)",
+    "translation": "战场",
     "stage": 1,
     "context": "this.m.Name = 'Battle Site'"
   },

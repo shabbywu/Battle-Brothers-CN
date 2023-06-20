@@ -3,7 +3,7 @@
     "ID": 293417365,
     "key": "Goblin Raiders",
     "original": "Goblin Raiders",
-    "translation": "地精袭击者(Goblin Raiders)",
+    "translation": "地精袭击者",
     "stage": 1
   },
   {

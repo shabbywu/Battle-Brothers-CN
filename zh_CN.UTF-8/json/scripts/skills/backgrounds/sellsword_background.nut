@@ -19,7 +19,7 @@
     "ID": 293421255,
     "key": "Sellsword",
     "original": "Sellsword",
-    "translation": "佣兵(Sellsword)",
+    "translation": "佣兵",
     "stage": 1,
     "context": "this.m.Name = 'Sellsword'"
   },

@@ -26,7 +26,7 @@
     "ID": 293415830,
     "key": " is now a Monk turned Flagellant",
     "original": " is now a Monk turned Flagellant",
-    "translation": "现在是僧侣转变成的苦修者",
+    "translation": "现在是僧侣转化的苦修者",
     "stage": 1,
     "context": "_event.m.Monk.getName() + ' is now a Monk turned Flagellant'"
   },

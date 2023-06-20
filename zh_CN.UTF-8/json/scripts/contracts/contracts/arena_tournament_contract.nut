@@ -117,8 +117,8 @@
     "ID": 293407850,
     "key": "armor",
     "original": "armor",
-    "translation": "盔甲",
-    "stage": 1
+    "translation": "armor",
+    "stage": 9
   },
   {
     "ID": 293407851,
@@ -189,7 +189,7 @@
     "ID": 293407860,
     "key": "Won",
     "original": "Won",
-    "translation": "胜利(Won)",
+    "translation": "胜利",
     "stage": 1,
     "context": "'Won' + this.Flags.get('Round')"
   },
@@ -248,7 +248,7 @@
     "ID": 293407868,
     "key": "The Arena Tournament",
     "original": "The Arena Tournament",
-    "translation": "竞技场锦标赛(The Arena Tournament)",
+    "translation": "竞技场锦标赛",
     "stage": 1,
     "context": "this.m.Name = 'The Arena Tournament'"
   },

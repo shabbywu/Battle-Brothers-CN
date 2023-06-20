@@ -10,7 +10,7 @@
     "ID": 293417388,
     "key": "Refugees",
     "original": "Refugees",
-    "translation": "难民(Refugees)",
+    "translation": "难民",
     "stage": 1
   }
 ]

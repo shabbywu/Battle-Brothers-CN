@@ -40,7 +40,7 @@
     "ID": 293422369,
     "key": "All kills are fatalities (if the weapon allows).",
     "original": "All kills are fatalities (if the weapon allows).",
-    "translation": "所有的杀戮都是残暴（如果武器允许的话）。",
+    "translation": "所有的击杀都是必死击杀(如果武器允许)。",
     "stage": 1
   }
 ]

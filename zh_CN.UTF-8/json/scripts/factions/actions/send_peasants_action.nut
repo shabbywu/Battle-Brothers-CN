@@ -3,7 +3,7 @@
     "ID": 293417383,
     "key": "Peasants",
     "original": "Peasants",
-    "translation": "农民(Peasants)",
+    "translation": "农民",
     "stage": 1
   },
   {
@@ -17,7 +17,7 @@
     "ID": 293417385,
     "key": "Citizens",
     "original": "Citizens",
-    "translation": "公民(Citizens)",
+    "translation": "公民",
     "stage": 1
   },
   {

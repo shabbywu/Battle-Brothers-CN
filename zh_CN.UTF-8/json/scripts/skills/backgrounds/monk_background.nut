@@ -3,7 +3,7 @@
     "ID": 293421147,
     "key": "the Monk",
     "original": "the Monk",
-    "translation": "武僧(the Monk)",
+    "translation": "僧侣(the Monk)",
     "stage": 1
   },
   {
@@ -38,7 +38,7 @@
     "ID": 293421152,
     "key": "Monk",
     "original": "Monk",
-    "translation": "武僧(Monk)",
+    "translation": "僧侣",
     "stage": 1,
     "context": "this.m.Name = 'Monk'"
   },

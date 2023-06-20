@@ -3,14 +3,14 @@
     "ID": 293421069,
     "key": "the Kingsguard",
     "original": "the Kingsguard",
-    "translation": "王卫军(the Kingsguard)",
+    "translation": "国王护卫(the Kingsguard)",
     "stage": 1
   },
   {
     "ID": 293421070,
     "key": "King's Guard",
     "original": "King's Guard",
-    "translation": "王卫军(King's Guard)",
+    "translation": "国王护卫",
     "stage": 1,
     "context": "this.m.Name = \"King's Guard\""
   },

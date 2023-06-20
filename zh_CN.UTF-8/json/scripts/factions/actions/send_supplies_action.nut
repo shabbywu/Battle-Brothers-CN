@@ -3,7 +3,7 @@
     "ID": 293417391,
     "key": "Supply Caravan",
     "original": "Supply Caravan",
-    "translation": "供应商队(Supply Caravan)",
+    "translation": "供应商队",
     "stage": 1
   },
   {

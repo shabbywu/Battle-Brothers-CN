@@ -4,7 +4,7 @@
     "key": "Cleaved",
     "original": "Cleaved",
     "translation": "劈开",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.KilledString = 'Cleaved'"
   },
   {

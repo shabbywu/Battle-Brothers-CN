@@ -11,7 +11,7 @@
     "ID": 293422161,
     "key": "Poison",
     "original": "Poison",
-    "translation": "毒药(Poison)",
+    "translation": "毒药",
     "stage": 1,
     "context": "this.m.Name = 'Poison'"
   }

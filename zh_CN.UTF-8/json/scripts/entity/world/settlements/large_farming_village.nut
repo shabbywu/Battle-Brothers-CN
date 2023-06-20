@@ -3,91 +3,91 @@
     "ID": 293410779,
     "key": "Grunmark",
     "original": "Grunmark",
-    "translation": "格伦马克(Grunmark)",
+    "translation": "格伦马克",
     "stage": 1
   },
   {
     "ID": 293410780,
     "key": "Schwanstadt",
     "original": "Schwanstadt",
-    "translation": "施万斯塔特(Schwanstadt)",
+    "translation": "施万斯塔特",
     "stage": 1
   },
   {
     "ID": 293410781,
     "key": "Varelmark",
     "original": "Varelmark",
-    "translation": "瓦雷尔马克(Varelmark)",
+    "translation": "瓦雷尔马克",
     "stage": 1
   },
   {
     "ID": 293410782,
     "key": "Wedelmark",
     "original": "Wedelmark",
-    "translation": "威德尔马克(Wedelmark)",
+    "translation": "威德尔马克",
     "stage": 1
   },
   {
     "ID": 293410783,
     "key": "Dinkelsmark",
     "original": "Dinkelsmark",
-    "translation": "丁克尔斯马克(Dinkelsmark)",
+    "translation": "丁克尔斯马克",
     "stage": 1
   },
   {
     "ID": 293410784,
     "key": "Konigsheim",
     "original": "Konigsheim",
-    "translation": "孔英斯海姆(Konigsheim)",
+    "translation": "孔英斯海姆",
     "stage": 1
   },
   {
     "ID": 293410785,
     "key": "Adelsland",
     "original": "Adelsland",
-    "translation": "贵族之地(Adelsland)",
+    "translation": "贵族之地",
     "stage": 1
   },
   {
     "ID": 293410786,
     "key": "Grafenstadt",
     "original": "Grafenstadt",
-    "translation": "格拉芬斯塔特(Grafenstadt)",
+    "translation": "格拉芬斯塔特",
     "stage": 1
   },
   {
     "ID": 293410787,
     "key": "Heuland",
     "original": "Heuland",
-    "translation": "霍兰德(Heuland)",
+    "translation": "霍兰德",
     "stage": 1
   },
   {
     "ID": 293410788,
     "key": "Koppelstadt",
     "original": "Koppelstadt",
-    "translation": "科佩尔斯塔特(Koppelstadt)",
+    "translation": "科佩尔斯塔特",
     "stage": 1
   },
   {
     "ID": 293410789,
     "key": "Weissenstadt",
     "original": "Weissenstadt",
-    "translation": "魏森施塔特(Weissenstadt)",
+    "translation": "魏森施塔特",
     "stage": 1
   },
   {
     "ID": 293410790,
     "key": "Altenstadt",
     "original": "Altenstadt",
-    "translation": "奥尔滕斯塔特(Altenstadt)",
+    "translation": "奥尔滕斯塔特",
     "stage": 1
   },
   {
     "ID": 293410791,
     "key": "Wiesenmark",
     "original": "Wiesenmark",
-    "translation": "维森马克(Wiesenmark)",
+    "translation": "维森马克",
     "stage": 1
   },
   {
@@ -102,119 +102,119 @@
     "ID": 293410793,
     "key": "Hemmelmark",
     "original": "Hemmelmark",
-    "translation": "海默马克(Hemmelmark)",
+    "translation": "海默马克",
     "stage": 1
   },
   {
     "ID": 293410794,
     "key": "Muhlstadt",
     "original": "Muhlstadt",
-    "translation": "慕尔斯塔特(Muhlstadt)",
+    "translation": "慕尔斯塔特",
     "stage": 1
   },
   {
     "ID": 293410795,
     "key": "Auenmark",
     "original": "Auenmark",
-    "translation": "奥恩马克(Auenmark)",
+    "translation": "奥恩马克",
     "stage": 1
   },
   {
     "ID": 293410796,
     "key": "Weidemark",
     "original": "Weidemark",
-    "translation": "韦德马克(Weidemark)",
+    "translation": "韦德马克",
     "stage": 1
   },
   {
     "ID": 293410797,
     "key": "Neumark",
     "original": "Neumark",
-    "translation": "纽马克(Neumark)",
+    "translation": "纽马克",
     "stage": 5
   },
   {
     "ID": 293410798,
     "key": "Kochenland",
     "original": "Kochenland",
-    "translation": "科亨兰德(Kochenland)",
+    "translation": "科亨兰德",
     "stage": 1
   },
   {
     "ID": 293410799,
     "key": "Dreigrafen",
     "original": "Dreigrafen",
-    "translation": "德赖格拉芬(Dreigrafen)",
+    "translation": "德赖格拉芬",
     "stage": 1
   },
   {
     "ID": 293410800,
     "key": "Hageland",
     "original": "Hageland",
-    "translation": "黑格兰德(Hageland)",
+    "translation": "黑格兰德",
     "stage": 1
   },
   {
     "ID": 293410801,
     "key": "Albstadt",
     "original": "Albstadt",
-    "translation": "奥尔施塔特(Albstadt)",
+    "translation": "奥尔施塔特",
     "stage": 1
   },
   {
     "ID": 293410802,
     "key": "Dulmen",
     "original": "Dulmen",
-    "translation": "迪尔门(Dulmen)",
+    "translation": "迪尔门",
     "stage": 1
   },
   {
     "ID": 293410803,
     "key": "Kammersmark",
     "original": "Kammersmark",
-    "translation": "坎默斯马克(Kammersmark)",
+    "translation": "坎默斯马克",
     "stage": 1
   },
   {
     "ID": 293410804,
     "key": "Konigsland",
     "original": "Konigsland",
-    "translation": "昆岛(Konigsland)",
+    "translation": "昆岛",
     "stage": 1
   },
   {
     "ID": 293410805,
     "key": "Grunhain",
     "original": "Grunhain",
-    "translation": "格伦海因(Grunhain)",
+    "translation": "格伦海因",
     "stage": 1
   },
   {
     "ID": 293410806,
     "key": "Kornstadt",
     "original": "Kornstadt",
-    "translation": "科恩斯塔特(Kornstadt)",
+    "translation": "科恩斯塔特",
     "stage": 1
   },
   {
     "ID": 293410807,
     "key": "Ivenstadt",
     "original": "Ivenstadt",
-    "translation": "伊文斯塔特(Ivenstadt)",
+    "translation": "伊文斯塔特",
     "stage": 1
   },
   {
     "ID": 293410808,
     "key": "Heldenland",
     "original": "Heldenland",
-    "translation": "英雄之地(Heldenland)",
+    "translation": "英雄之地",
     "stage": 1
   },
   {
     "ID": 293410809,
     "key": "Schnellmark",
     "original": "Schnellmark",
-    "translation": "斯奈尔马克(Schnellmark)",
+    "translation": "斯奈尔马克",
     "stage": 1
   },
   {
@@ -229,7 +229,7 @@
     "ID": 293410811,
     "key": "Freistadt",
     "original": "Freistadt",
-    "translation": "弗赖斯塔特(Freistadt)",
+    "translation": "弗赖斯塔特",
     "stage": 1
   }
 ]

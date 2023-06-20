@@ -11,7 +11,7 @@
     "ID": 293421184,
     "key": "Pacified Flagellant",
     "original": "Pacified Flagellant",
-    "translation": "被平息的苦修者(Pacified Flagellant)",
+    "translation": "被平息的苦修者",
     "stage": 1,
     "context": "this.m.Name = 'Pacified Flagellant'"
   }

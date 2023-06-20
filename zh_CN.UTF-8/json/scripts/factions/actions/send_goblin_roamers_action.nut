@@ -3,7 +3,7 @@
     "ID": 293417367,
     "key": "Goblin Hunters",
     "original": "Goblin Hunters",
-    "translation": "地精猎人(Goblin Hunters)",
+    "translation": "地精猎人",
     "stage": 1
   },
   {

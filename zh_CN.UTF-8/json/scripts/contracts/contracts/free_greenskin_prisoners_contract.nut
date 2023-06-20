@@ -161,7 +161,7 @@
     "ID": 293408957,
     "key": "the Survivor",
     "original": "the Survivor",
-    "translation": "幸存者(the Survivor)",
+    "translation": "幸存者",
     "stage": 5
   },
   {
@@ -225,7 +225,7 @@
     "key": "Crowns well deserved.",
     "original": "Crowns well deserved.",
     "translation": "当之无愧的克朗。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408967,
@@ -267,7 +267,7 @@
     "ID": 293408972,
     "key": "Free Prisoners",
     "original": "Free Prisoners",
-    "translation": "释放囚犯(Free Prisoners)",
+    "translation": "释放囚犯",
     "stage": 1,
     "context": "this.m.Name = 'Free Prisoners'"
   },

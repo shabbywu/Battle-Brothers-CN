@@ -293,7 +293,7 @@
     "ID": 293409101,
     "key": "Spider Queen",
     "original": "Spider Queen",
-    "translation": "蜘蛛女王(Spider Queen)",
+    "translation": "蜘蛛女王",
     "stage": 1,
     "context": "_e.m.Name = 'Spider Queen'"
   },

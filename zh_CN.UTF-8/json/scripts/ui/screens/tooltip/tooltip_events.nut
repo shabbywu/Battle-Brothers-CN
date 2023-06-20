@@ -306,8 +306,8 @@
     "ID": 293422995,
     "key": "Costs [b][color=",
     "original": "Costs [b][color=",
-    "translation": "成本 [b][color=",
-    "stage": 1,
+    "translation": "消耗[b][color=",
+    "stage": 5,
     "context": "'Costs [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getActionPointCosts().lastTileHovered.Type + '+' + actor.getLevelActionPointCost() + '[/color][/b] AP and [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getFatigueCosts().lastTileHovered.Type + '+' + actor.getLevelFatigueCost() + '[/color][/b] Fatigue to traverse because it is at a different height level'"
   },
   {
@@ -315,7 +315,7 @@
     "key": "Resolve",
     "original": "Resolve",
     "translation": "决心",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422997,
@@ -351,14 +351,14 @@
     "key": "Ranged Defense",
     "original": "Ranged Defense",
     "translation": "远程防御",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423002,
     "key": "Crowns",
     "original": "Crowns",
     "translation": "克朗",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423003,
@@ -407,8 +407,8 @@
     "ID": 293423009,
     "key": "For the right price, a taxidermist can create useful items from all kinds of trophies you bring him.",
     "original": "For the right price, a taxidermist can create useful items from all kinds of trophies you bring him.",
-    "translation": "如果价格合适，一个剥制师可以从你带给他的各种战利品中创造出有用的物品。",
-    "stage": 1
+    "translation": "只要价格合适，一个剥制师可以从你带给他的各种战利品中创造出有用的物品。",
+    "stage": 5
   },
   {
     "ID": 293423010,
@@ -751,8 +751,8 @@
     "ID": 293423057,
     "key": "Weaponsmith",
     "original": "Weaponsmith",
-    "translation": "武器店",
-    "stage": 1
+    "translation": "武器匠",
+    "stage": 5
   },
   {
     "ID": 293423058,

@@ -83,7 +83,7 @@
     "ID": 293421196,
     "key": "Oathtaker",
     "original": "Oathtaker",
-    "translation": "守誓者(Oathtaker)",
+    "translation": "宣誓者",
     "stage": 1,
     "context": "this.m.Name = 'Oathtaker'"
   },

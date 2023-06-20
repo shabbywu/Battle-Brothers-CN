@@ -33,7 +33,7 @@
     "ID": 293411700,
     "key": "Collectors",
     "original": "Collectors",
-    "translation": "收藏家(Collectors)",
+    "translation": "收藏家",
     "stage": 1,
     "context": "this.m.Name = 'Collectors'"
   },

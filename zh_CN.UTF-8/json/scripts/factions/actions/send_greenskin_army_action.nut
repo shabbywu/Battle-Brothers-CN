@@ -10,7 +10,7 @@
     "ID": 293417370,
     "key": "Greenskin Horde",
     "original": "Greenskin Horde",
-    "translation": "大群绿皮(Greenskin Horde)",
+    "translation": "大群绿皮",
     "stage": 1
   }
 ]

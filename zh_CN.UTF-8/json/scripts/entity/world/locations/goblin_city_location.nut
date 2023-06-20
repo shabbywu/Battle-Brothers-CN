@@ -3,7 +3,7 @@
     "ID": 293410610,
     "key": "Rul'gazhix",
     "original": "Rul'gazhix",
-    "translation": "统治者加齐克斯(Rul'gazhix)",
+    "translation": "统治者加齐克斯",
     "stage": 1,
     "context": "this.m.Name = \"Rul'gazhix\""
   },

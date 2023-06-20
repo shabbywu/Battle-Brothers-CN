@@ -91,7 +91,7 @@
     "ID": 293403689,
     "key": "]+10[/color] Melee and Ranged Skill, and [color=",
     "original": "]+10[/color] Melee and Ranged Skill, and [color=",
-    "translation": "]+10[/color] 近战和远程防御, 以及 [color=",
+    "translation": "]+10[/color]近战和远程技能, 以及[color=",
     "stage": 1,
     "context": "this.m.OathBoonText = 'Your men have [color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Resolve and [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Melee and Ranged Skill, and [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee and Ranged Defense when fighting the undead.'"
   },

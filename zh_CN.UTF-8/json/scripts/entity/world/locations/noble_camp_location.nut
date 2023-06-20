@@ -3,7 +3,7 @@
     "ID": 293410651,
     "key": "Army Camp",
     "original": "Army Camp",
-    "translation": "军营(Army Camp)",
+    "translation": "军营",
     "stage": 1,
     "context": "this.m.Name = 'Army Camp'"
   },

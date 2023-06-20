@@ -11,7 +11,7 @@
     "ID": 293410660,
     "key": "Fortress of the Warlord",
     "original": "Fortress of the Warlord",
-    "translation": "军阀要塞(Fortress of the Warlord)",
+    "translation": "军阀要塞",
     "stage": 1,
     "context": "this.m.Name = 'Fortress of the Warlord'"
   }

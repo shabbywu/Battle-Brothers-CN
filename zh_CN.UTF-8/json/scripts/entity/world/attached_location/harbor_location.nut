@@ -3,8 +3,8 @@
     "ID": 293410534,
     "key": "Harbor",
     "original": "Harbor",
-    "translation": "港口(Harbor)",
-    "stage": 1,
+    "translation": "港口",
+    "stage": 5,
     "context": "this.m.Name = 'Harbor'"
   },
   {

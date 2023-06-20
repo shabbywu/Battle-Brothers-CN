@@ -68,7 +68,7 @@
     "key": "The ",
     "original": "The ",
     "translation": "这个",
-    "stage": -1
+    "stage": 1
   },
   {
     "ID": 293412500,
@@ -90,7 +90,7 @@
     "ID": 293412502,
     "key": "Even",
     "original": "Even",
-    "translation": "伊文(Even)",
+    "translation": "伊文",
     "stage": 1,
     "context": "return 'Even';"
   },

@@ -10,7 +10,7 @@
     "ID": 293422615,
     "key": "Oath of Camaderie",
     "original": "Oath of Camaderie",
-    "translation": "战友之誓(Oath of Camaderie)",
+    "translation": "友谊誓言",
     "stage": 1,
     "context": "this.m.Name = 'Oath of Camaderie'"
   },

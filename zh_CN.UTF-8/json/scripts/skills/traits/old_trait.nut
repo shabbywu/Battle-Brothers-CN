@@ -10,7 +10,7 @@
     "ID": 293422690,
     "key": "Old",
     "original": "Old",
-    "translation": "陈旧的",
+    "translation": "年迈",
     "stage": 1,
     "context": "this.m.Name = 'Old'"
   },
@@ -27,7 +27,7 @@
     "key": "]-10[/color] Max Fatigue",
     "original": "]-10[/color] Max Fatigue",
     "translation": "]-10[/color] 最大疲劳值",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Max Fatigue'"
   },
   {
@@ -43,7 +43,7 @@
     "key": "]-1[/color] Vision",
     "original": "]-1[/color] Vision",
     "translation": "]-1[/color] 视野",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-1[/color] Vision'"
   },
   {
@@ -51,7 +51,7 @@
     "key": "]-10[/color] Hitpoints",
     "original": "]-10[/color] Hitpoints",
     "translation": "]-10[/color] 生命值",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Hitpoints'"
   },
   {

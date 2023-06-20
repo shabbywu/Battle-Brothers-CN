@@ -3,7 +3,7 @@
     "ID": 293410627,
     "key": "Icy Cave",
     "original": "Icy Cave",
-    "translation": "冰洞(Icy Cave)",
+    "translation": "冰洞",
     "stage": 1,
     "context": "this.m.Name = 'Icy Cave'"
   },
