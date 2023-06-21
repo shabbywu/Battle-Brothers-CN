@@ -41,7 +41,7 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + crowns + '[/color] Crowns'"
   },
   {
@@ -55,8 +55,8 @@
     "ID": 293415416,
     "key": "You lose ",
     "original": "You lose ",
-    "translation": "你失去了 ",
-    "stage": 1,
+    "translation": "你失去了",
+    "stage": 5,
     "context": "'You lose ' + item.getName()"
   },
   {
@@ -78,7 +78,7 @@
     "key": "]15[/color] Crowns",
     "original": "]15[/color] Crowns",
     "translation": "]15[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']15[/color] Crowns'"
   },
   {

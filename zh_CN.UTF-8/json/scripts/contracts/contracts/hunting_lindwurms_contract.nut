@@ -69,7 +69,7 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + bribe + '[/color] Crowns'"
   },
   {
@@ -105,7 +105,7 @@
     "key": "You gain [color=",
     "original": "You gain [color=",
     "translation": "你获得了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {

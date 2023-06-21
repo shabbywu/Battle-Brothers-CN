@@ -11,8 +11,8 @@
     "ID": 293421108,
     "key": "Messengers are used to long and tiring travels.",
     "original": "Messengers are used to long and tiring travels.",
-    "translation": "信使习惯长途奔波。",
-    "stage": 1,
+    "translation": "信使习惯习惯于漫长而劳累的旅行。",
+    "stage": 5,
     "context": "this.m.BackgroundDescription = 'Messengers are used to long and tiring travels.'"
   },
   {
@@ -27,14 +27,14 @@
     "key": "the Courier",
     "original": "the Courier",
     "translation": "邮差(the Courier)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293421111,
     "key": "Messenger",
     "original": "Messenger",
     "translation": "信使",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Messenger'"
   },
   {
@@ -58,6 +58,6 @@
     "key": "the Messenger",
     "original": "the Messenger",
     "translation": "信使(the Messenger)",
-    "stage": 1
+    "stage": 5
   }
 ]

@@ -215,7 +215,7 @@
     "ID": 293408455,
     "key": " Militia",
     "original": " Militia",
-    "translation": "民兵(Militia)",
+    "translation": "的民兵",
     "stage": 1,
     "context": "home.getName() + ' Militia'"
   },
@@ -238,7 +238,7 @@
     "key": "You gain [color=",
     "original": "You gain [color=",
     "translation": "你获得了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Reward + '[/color] Crowns'"
   },
   {
@@ -316,14 +316,14 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Reward + '[/color] Crowns'"
   },
   {
     "ID": 293408470,
     "key": "Rescue prisoners being hauled away",
     "original": "Rescue prisoners being hauled away",
-    "translation": "营救被俘虏的囚犯",
+    "translation": "营救俘虏",
     "stage": 1
   },
   {

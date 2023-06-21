@@ -10,7 +10,7 @@
     "ID": 293407991,
     "key": "Confront Orc Warlord",
     "original": "Confront Orc Warlord",
-    "translation": "对抗兽人军阀",
+    "translation": "挑战兽人军阀",
     "stage": 1,
     "context": "this.m.Name = 'Confront Orc Warlord'"
   },
@@ -47,14 +47,14 @@
     "key": "Negotiations",
     "original": "Negotiations",
     "translation": "谈判",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407997,
     "key": "You gain [color=",
     "original": "You gain [color=",
     "translation": "你获得了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
@@ -125,14 +125,14 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
     "ID": 293408008,
     "key": "Destroy any greenskin parties and camps to lure out their warlord",
     "original": "Destroy any greenskin parties and camps to lure out their warlord",
-    "translation": "摧毁任何绿皮队伍和营地来引诱他们的军阀",
+    "translation": "摧毁任何绿皮队伍和营地来诱出他们的军阀",
     "stage": 1
   },
   {
@@ -147,7 +147,7 @@
     "key": "Return to ",
     "original": "Return to ",
     "translation": "返回",
-    "stage": 1,
+    "stage": 5,
     "context": "'Return to ' + this.Contract.m.Home.getName()"
   },
   {
@@ -232,14 +232,14 @@
     "key": "Kill the orc warlord",
     "original": "Kill the orc warlord",
     "translation": "杀死兽人军阀",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408023,
     "key": "{The %companyname% prevailed! | Victory!}",
     "original": "{The %companyname% prevailed! | Victory!}",
     "translation": "{%companyname% 获胜了！ | 胜利！}",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408024,
@@ -253,7 +253,7 @@
     "key": "You gain ",
     "original": "You gain ",
     "translation": "你获得了",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain ' + item.getName()"
   },
   {
@@ -274,7 +274,7 @@
     "ID": 293408028,
     "key": "You didn't help wardogs being eaten by orcs",
     "original": "You didn't help wardogs being eaten by orcs",
-    "translation": "你没有帮助战犬被兽人吃掉",
+    "translation": "你没有阻止战犬被兽人吃掉",
     "stage": 1
   },
   {

@@ -17,8 +17,8 @@
     "ID": 293412698,
     "key": "You lose ",
     "original": "You lose ",
-    "translation": "你失去了 ",
-    "stage": 1,
+    "translation": "你失去了",
+    "stage": 5,
     "context": "'You lose ' + item.getName()"
   },
   {
@@ -120,7 +120,7 @@
     "key": "]500[/color] Crowns",
     "original": "]500[/color] Crowns",
     "translation": "]500[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']500[/color] Crowns'"
   },
   {
@@ -128,7 +128,7 @@
     "key": "You spend [color=",
     "original": "You spend [color=",
     "translation": "你花费了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']500[/color] Crowns'"
   }
 ]

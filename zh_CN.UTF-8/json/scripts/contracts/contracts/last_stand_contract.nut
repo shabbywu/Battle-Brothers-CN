@@ -148,7 +148,7 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
@@ -207,7 +207,7 @@
     "ID": 293409418,
     "key": "Defend ",
     "original": "Defend ",
-    "translation": "防御 (Defend)",
+    "translation": "防御",
     "stage": 1,
     "context": "this.m.Name = 'Defend ' + this.m.Origin.getName()"
   },

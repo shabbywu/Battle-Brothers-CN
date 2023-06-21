@@ -32,7 +32,7 @@
     "key": "You lose a ",
     "original": "You lose a ",
     "translation": "你失去了一个 ",
-    "stage": 1,
+    "stage": 5,
     "context": "'You lose a ' + item.getName()"
   },
   {

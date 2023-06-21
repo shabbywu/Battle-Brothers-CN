@@ -47,7 +47,7 @@
     "key": "You lose [color=",
     "original": "You lose [color=",
     "translation": "你失去了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']-' + amount + '[/color] Tools and Supplies'"
   },
   {
@@ -68,8 +68,8 @@
     "ID": 293417045,
     "key": "You lose ",
     "original": "You lose ",
-    "translation": "你失去了 ",
-    "stage": 1,
+    "translation": "你失去了",
+    "stage": 5,
     "context": "'You lose ' + food.getName()"
   },
   {
@@ -128,7 +128,7 @@
     "key": "You lose some ",
     "original": "You lose some ",
     "translation": "你失去了一些",
-    "stage": 1,
+    "stage": 5,
     "context": "'You lose some ' + food.getName()"
   },
   {

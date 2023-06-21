@@ -40,7 +40,7 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + money + '[/color] Crowns'"
   },
   {
@@ -76,8 +76,8 @@
     "ID": 293417276,
     "key": "You lose ",
     "original": "You lose ",
-    "translation": "你失去了 ",
-    "stage": 1,
+    "translation": "你失去了",
+    "stage": 5,
     "context": "'You lose ' + this.Const.Strings.getArticle(_event.m.Item.getName()) + _event.m.Item.getName()"
   },
   {

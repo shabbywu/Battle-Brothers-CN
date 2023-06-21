@@ -32,7 +32,7 @@
     "key": "You lose [color=",
     "original": "You lose [color=",
     "translation": "你失去了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']9,000[/color] Crowns'"
   },
   {
@@ -40,7 +40,7 @@
     "key": "]9,000[/color] Crowns",
     "original": "]9,000[/color] Crowns",
     "translation": "]9,000[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']9,000[/color] Crowns'"
   },
   {

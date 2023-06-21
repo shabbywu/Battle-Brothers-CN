@@ -66,8 +66,8 @@
     "ID": 293417204,
     "key": "You lose ",
     "original": "You lose ",
-    "translation": "你失去了 ",
-    "stage": 1,
+    "translation": "你失去了",
+    "stage": 5,
     "context": "'You lose ' + _event.m.Wardog1.getName()"
   },
   {

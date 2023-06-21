@@ -95,7 +95,7 @@
     "key": "You gain [color=",
     "original": "You gain [color=",
     "translation": "你获得了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
@@ -123,7 +123,7 @@
     "ID": 293408497,
     "key": "Follow the thieves' tracks and return your cargo",
     "original": "Follow the thieves' tracks and return your cargo",
-    "translation": "跟踪盗贼的踪迹并归还你的货物",
+    "translation": "跟踪盗贼的踪迹并找回你的货物",
     "stage": 1
   },
   {
@@ -145,7 +145,7 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {

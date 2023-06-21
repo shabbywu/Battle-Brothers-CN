@@ -187,7 +187,7 @@
     "key": "]250[/color] Crowns",
     "original": "]250[/color] Crowns",
     "translation": "]250[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']250[/color] Crowns'"
   },
   {
@@ -316,7 +316,7 @@
     "ID": 293409968,
     "key": "Took sides in the war",
     "original": "Took sides in the war",
-    "translation": "在战争中偏袒一方",
+    "translation": "在战争选择了阵营",
     "stage": 1
   },
   {
@@ -538,7 +538,7 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {

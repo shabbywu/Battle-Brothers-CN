@@ -106,8 +106,8 @@
     "ID": 293407780,
     "key": " crowns for your victory",
     "original": " crowns for your victory",
-    "translation": "克朗当你胜利时。",
-    "stage": 1,
+    "translation": " 克朗于胜利时",
+    "stage": 5,
     "context": "'Get ' + this.Contract.m.Payment.getOnCompletion() + ' crowns for your victory'"
   },
   {
@@ -205,7 +205,7 @@
     "ID": 293407793,
     "key": "A grizzled man, the master of the arena, holds up a scroll and taps it with a hook for a hand.",
     "original": "A grizzled man, the master of the arena, holds up a scroll and taps it with a hook for a hand.",
-    "translation": "一个盔甲上满是斗兽场勋章的男人挺着一根鱼钩手中的卷轴。",
+    "translation": "一个头发花白的竞技场的管理者，举起一卷卷轴，用钩子做成的手敲击着它。",
     "stage": 1,
     "context": "this[1] += 'A grizzled man, the master of the arena, holds up a scroll and taps it with a hook for a hand.'"
   },
@@ -214,14 +214,14 @@
     "key": "I accept.",
     "original": "I accept.",
     "translation": "我接受。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407795,
     "key": "{Victory! | Are you not entertained?! | Killed it. | A bloody spectacle.}",
     "original": "{Victory! | Are you not entertained?! | Killed it. | A bloody spectacle.}",
     "translation": "{胜利！ | 你们不觉得很搞笑吗？！ | 杀了他！ | 一幅血腥的画面。}",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407796,
@@ -303,7 +303,7 @@
     "key": "At the Arena",
     "original": "At the Arena",
     "translation": "在竞技场",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407807,
@@ -318,7 +318,7 @@
     "key": "{This isn't what I had in mind. | I'll sit this one out. | I'll wait for the next fight.}",
     "original": "{This isn't what I had in mind. | I'll sit this one out. | I'll wait for the next fight.}",
     "translation": "{这不是我想要的。 | 我会退出这个。 | 我会等待下一场战斗。}",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407809,
@@ -395,7 +395,7 @@
     "key": "You gain a ",
     "original": "You gain a ",
     "translation": "你获得了一个 ",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain a ' + a.getName()"
   },
   {
@@ -403,7 +403,7 @@
     "key": "The Arena",
     "original": "The Arena",
     "translation": "竞技场",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'The Arena'"
   },
   {
@@ -501,8 +501,8 @@
     "ID": 293407832,
     "key": "Get ",
     "original": "Get ",
-    "translation": "给",
-    "stage": 1,
+    "translation": "获得 ",
+    "stage": 5,
     "context": "'Get ' + this.Contract.m.Payment.getOnCompletion() + ' crowns for your victory'"
   },
   {
