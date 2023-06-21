@@ -39,8 +39,8 @@
     "ID": 293414923,
     "key": "You lose ",
     "original": "You lose ",
-    "translation": "你失去了 ",
-    "stage": 1,
+    "translation": "你失去了",
+    "stage": 5,
     "context": "'You lose ' + book.getName()"
   },
   {
@@ -106,7 +106,7 @@
     "key": "]50,000[/color] Crowns",
     "original": "]50,000[/color] Crowns",
     "translation": "]50,000[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']50,000[/color] Crowns'"
   },
   {

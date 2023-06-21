@@ -4,7 +4,7 @@
     "key": "You spend [color=",
     "original": "You spend [color=",
     "translation": "你花费了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']10,000[/color] Crowns'"
   },
   {
@@ -27,7 +27,7 @@
     "key": "]10,000[/color] Crowns",
     "original": "]10,000[/color] Crowns",
     "translation": "]10,000[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']10,000[/color] Crowns'"
   },
   {

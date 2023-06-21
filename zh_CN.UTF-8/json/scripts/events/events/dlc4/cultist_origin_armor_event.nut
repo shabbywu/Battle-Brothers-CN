@@ -3,8 +3,8 @@
     "ID": 293414173,
     "key": "You lose ",
     "original": "You lose ",
-    "translation": "你失去了 ",
-    "stage": 1,
+    "translation": "你失去了",
+    "stage": 5,
     "context": "'You lose ' + item.getName()"
   },
   {

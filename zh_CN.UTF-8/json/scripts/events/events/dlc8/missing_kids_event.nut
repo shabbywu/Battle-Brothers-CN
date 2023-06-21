@@ -4,7 +4,7 @@
     "key": "]150[/color] Crowns",
     "original": "]150[/color] Crowns",
     "translation": "]150[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']150[/color] Crowns'"
   },
   {
@@ -47,7 +47,7 @@
     "key": "You lose [color=",
     "original": "You lose [color=",
     "translation": "你失去了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']750[/color] Crowns'"
   },
   {
@@ -55,7 +55,7 @@
     "key": "]750[/color] Crowns",
     "original": "]750[/color] Crowns",
     "translation": "]750[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']750[/color] Crowns'"
   },
   {
@@ -115,7 +115,7 @@
     "key": "]75[/color] Crowns",
     "original": "]75[/color] Crowns",
     "translation": "]75[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']75[/color] Crowns'"
   },
   {

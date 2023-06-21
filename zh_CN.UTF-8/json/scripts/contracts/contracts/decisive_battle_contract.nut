@@ -88,7 +88,7 @@
     "ID": 293408140,
     "key": "The company will move out within the hour.",
     "original": "The company will move out within the hour.",
-    "translation": "战团将在一小时内迁走。",
+    "translation": "战团将在一小时内出动。",
     "stage": 1
   },
   {
@@ -152,7 +152,7 @@
     "ID": 293408149,
     "key": "Let's get what we're here for.",
     "original": "Let's get what we're here for.",
-    "translation": "让我们来这里是为了什么。",
+    "translation": "请告诉我们来这里的目的。",
     "stage": 1
   },
   {
@@ -202,7 +202,7 @@
     "key": "You gain [color=",
     "original": "You gain [color=",
     "translation": "你获得了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
@@ -223,7 +223,7 @@
     "ID": 293408159,
     "key": "Follow the footprints and approach the deserters",
     "original": "Follow the footprints and approach the deserters",
-    "translation": "沿着脚印走，接近逃兵",
+    "translation": "沿着脚印追寻逃兵",
     "stage": 1
   },
   {
@@ -238,7 +238,7 @@
     "key": "Victory!",
     "original": "Victory!",
     "translation": "胜利！",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408162,
@@ -258,7 +258,7 @@
     "ID": 293408164,
     "key": " to claim your payment",
     "original": " to claim your payment",
-    "translation": "要求您的付款。",
+    "translation": "索取你的报酬。",
     "stage": 1,
     "context": "'Return to ' + this.Contract.m.Home.getName() + ' to claim your payment'"
   },
@@ -287,7 +287,7 @@
     "ID": 293408168,
     "key": "Took sides in the war",
     "original": "Took sides in the war",
-    "translation": "在战争中偏袒一方",
+    "translation": "在战争选择了阵营",
     "stage": 1
   },
   {
@@ -365,13 +365,13 @@
     "key": "Return to the war camp",
     "original": "Return to the war camp",
     "translation": "回到军营",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408180,
     "key": "Let no one escape alive",
     "original": "Let no one escape alive",
-    "translation": "不让任何人活着逃脱",
+    "translation": "不要让任何人活着逃脱",
     "stage": 1
   },
   {
@@ -435,7 +435,7 @@
     "key": "You spend [color=",
     "original": "You spend [color=",
     "translation": "你花费了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']' + this.Flags.get('RequisitionCost') + '[/color] Crowns'"
   },
   {
@@ -449,7 +449,7 @@
     "ID": 293408191,
     "key": "Rest well this night, for tomorrow battle awaits!",
     "original": "Rest well this night, for tomorrow battle awaits!",
-    "translation": "今晚好好休息，明天的战斗就要开始了！",
+    "translation": "今晚好好休息，明天战斗就要开始了！",
     "stage": 1
   },
   {
@@ -457,7 +457,7 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']' + this.Flags.get('RequisitionCost') + '[/color] Crowns'"
   },
   {
@@ -549,7 +549,7 @@
     "key": "Negotiations",
     "original": "Negotiations",
     "translation": "谈判",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408206,

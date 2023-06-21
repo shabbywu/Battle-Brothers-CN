@@ -81,7 +81,7 @@
     "key": "You gain [color=",
     "original": "You gain [color=",
     "translation": "你获得了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
@@ -96,7 +96,7 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
@@ -139,8 +139,8 @@
     "ID": 293409194,
     "key": "You gain a ",
     "original": "You gain a ",
-    "translation": "你获得了一个 ",
-    "stage": 1,
+    "translation": "你获得了一个",
+    "stage": 5,
     "context": "'You gain a ' + item.getName()"
   },
   {

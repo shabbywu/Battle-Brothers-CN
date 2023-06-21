@@ -90,7 +90,7 @@
     "key": "]100[/color] Crowns",
     "original": "]100[/color] Crowns",
     "translation": "]100[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You earn [color=' + this.Const.UI.Color.PositiveEventValue + ']100[/color] Crowns'"
   },
   {
@@ -192,7 +192,7 @@
     "key": "]200[/color] Crowns",
     "original": "]200[/color] Crowns",
     "translation": "]200[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You earn [color=' + this.Const.UI.Color.PositiveEventValue + ']200[/color] Crowns'"
   },
   {

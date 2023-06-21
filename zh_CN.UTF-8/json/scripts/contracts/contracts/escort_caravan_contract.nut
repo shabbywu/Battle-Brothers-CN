@@ -174,7 +174,7 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + money + '[/color] Crowns'"
   },
   {
@@ -197,7 +197,7 @@
     "key": "You gain ",
     "original": "You gain ",
     "translation": "你获得了",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain ' + gems.getName()"
   },
   {
@@ -212,7 +212,7 @@
     "key": "]3000[/color] Crowns",
     "original": "]3000[/color] Crowns",
     "translation": "]3000[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You are rewarded with [color=' + this.Const.UI.Color.PositiveValue + ']3000[/color] Crowns'"
   },
   {
@@ -476,7 +476,7 @@
     "key": "You gain [color=",
     "original": "You gain [color=",
     "translation": "你获得了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + money + '[/color] Crowns'"
   },
   {

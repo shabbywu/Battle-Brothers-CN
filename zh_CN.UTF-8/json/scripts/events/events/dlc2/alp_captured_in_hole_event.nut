@@ -4,7 +4,7 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']' + money + '[/color] Crowns'"
   },
   {
@@ -105,7 +105,7 @@
     "key": "You lose [color=",
     "original": "You lose [color=",
     "translation": "你失去了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']' + money + '[/color] Crowns'"
   },
   {

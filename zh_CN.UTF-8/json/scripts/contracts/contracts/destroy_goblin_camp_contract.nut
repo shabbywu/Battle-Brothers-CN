@@ -25,22 +25,22 @@
     "key": "You gain [color=",
     "original": "You gain [color=",
     "translation": "你获得了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
     "ID": 293408530,
     "key": "Destroy Goblin Camp",
     "original": "Destroy Goblin Camp",
-    "translation": "摧毁地精营地。",
-    "stage": 1,
+    "translation": "摧毁地精营地",
+    "stage": 5,
     "context": "this.m.Name = 'Destroy Goblin Camp'"
   },
   {
     "ID": 293408531,
     "key": " %direction% of %origin%",
     "original": " %direction% of %origin%",
-    "translation": "(%origin% %direction%)",
+    "translation": " ",
     "stage": 1,
     "context": "'Destroy ' + this.Flags.get('DestinationName') + ' %direction% of %origin%'"
   },
@@ -62,7 +62,7 @@
     "ID": 293408534,
     "key": "Destroy ",
     "original": "Destroy ",
-    "translation": "摧毁 ",
+    "translation": "摧毁%origin%%direction%边的",
     "stage": 1,
     "context": "'Destroy ' + this.Flags.get('DestinationName') + ' %direction% of %origin%'"
   },
@@ -78,7 +78,7 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
@@ -86,7 +86,7 @@
     "key": "Return to ",
     "original": "Return to ",
     "translation": "返回",
-    "stage": 1,
+    "stage": 5,
     "context": "'Return to ' + this.Contract.m.Home.getName()"
   },
   {
@@ -136,7 +136,7 @@
     "key": "Destroyed a goblin encampment",
     "original": "Destroyed a goblin encampment",
     "translation": "摧毁了地精营地",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408545,

@@ -11,7 +11,7 @@
     "key": "]2500[/color] Crowns",
     "original": "]2500[/color] Crowns",
     "translation": "]2500[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']2500[/color] Crowns'"
   },
   {
@@ -57,7 +57,7 @@
     "key": "You lose [color=",
     "original": "You lose [color=",
     "translation": "你失去了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']40[/color] Tools and Supplies'"
   },
   {

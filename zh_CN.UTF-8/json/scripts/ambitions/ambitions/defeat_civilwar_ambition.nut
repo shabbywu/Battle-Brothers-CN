@@ -27,7 +27,7 @@
     "ID": 293403337,
     "key": "Whether they love or hate us, everyone knows the %companyname% now!",
     "original": "Whether they love or hate us, everyone knows the %companyname% now!",
-    "translation": "不管他们是喜欢我们还是憎恨我们，但现在每个人都知道 %companyname%！",
+    "translation": "不管他们是喜欢我们还是憎恨我们，但现在每个人都知道%companyname%！",
     "stage": 5,
     "context": "this.m.SuccessButtonText = 'Whether they love or hate us, everyone knows the %companyname% now!'"
   },

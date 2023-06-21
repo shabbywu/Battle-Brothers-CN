@@ -181,7 +181,7 @@
     "key": "You gain [color=",
     "original": "You gain [color=",
     "translation": "你获得了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + money + '[/color] Crowns'"
   },
   {
@@ -217,7 +217,7 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + money + '[/color] Crowns'"
   },
   {
@@ -260,7 +260,7 @@
     "key": "On your return...",
     "original": "On your return...",
     "translation": "你回来后…",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407911,
@@ -274,7 +274,7 @@
     "key": "You gain ",
     "original": "You gain ",
     "translation": "你获得了",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain ' + this.Const.Strings.getArticle(item.getName()) + item.getName()"
   },
   {
@@ -288,7 +288,7 @@
     "ID": 293407914,
     "key": "He was last reported to be in the region of %region%, %direction% from you",
     "original": "He was last reported to be in the region of %region%, %direction% from you",
-    "translation": "据报道，他最后一次是在 %region%，%direction% 离你",
+    "translation": "据最新报告，他最后一次出没在%region%地区，在你的%direction%边",
     "stage": 1
   },
   {

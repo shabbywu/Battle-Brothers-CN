@@ -32,7 +32,7 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']' + this.Flags.get('HintBribe') + '[/color] Crowns'"
   },
   {
@@ -46,7 +46,7 @@
     "ID": 293408584,
     "key": " to another party",
     "original": " to another party",
-    "translation": "转交给另外一方",
+    "translation": "的位置卖给另一方",
     "stage": 1,
     "context": "'Sold the location of ' + this.Flags.get('Location') + ' to another party'"
   },
@@ -75,7 +75,7 @@
     "ID": 293408588,
     "key": "Hired to find the ",
     "original": "Hired to find the ",
-    "translation": "被雇来寻找 ",
+    "translation": "被雇来寻找",
     "stage": 1,
     "context": "'Hired to find the ' + this.Flags.get('Location')"
   },
@@ -106,7 +106,7 @@
     "key": "You gain [color=",
     "original": "You gain [color=",
     "translation": "你获得了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
@@ -170,7 +170,7 @@
     "ID": 293408601,
     "key": "Sold the location of ",
     "original": "Sold the location of ",
-    "translation": "出卖了位置。",
+    "translation": "将",
     "stage": 1,
     "context": "'Sold the location of ' + this.Flags.get('Location') + ' to another party'"
   },
@@ -207,7 +207,7 @@
     "key": "You lose [color=",
     "original": "You lose [color=",
     "translation": "你失去了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']' + this.Flags.get('HintBribe') + '[/color] Crowns'"
   },
   {

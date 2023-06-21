@@ -11,7 +11,7 @@
     "key": "You spend [color=",
     "original": "You spend [color=",
     "translation": "你花费了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']' + this.Flags.get('MercenaryPay') + '[/color] Crowns'"
   },
   {
@@ -61,7 +61,7 @@
     "key": "You gain [color=",
     "original": "You gain [color=",
     "translation": "你获得了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
@@ -76,7 +76,7 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']' + this.Flags.get('MercenaryPay') + '[/color] Crowns'"
   },
   {
@@ -289,7 +289,7 @@
     "ID": 293408119,
     "key": "Took sides in the war",
     "original": "Took sides in the war",
-    "translation": "在战争中偏袒一方",
+    "translation": "在战争选择了阵营",
     "stage": 1
   },
   {

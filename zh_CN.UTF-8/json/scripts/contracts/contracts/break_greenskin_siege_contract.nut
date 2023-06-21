@@ -82,7 +82,7 @@
     "key": "You gain [color=",
     "original": "You gain [color=",
     "translation": "你获得了 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
@@ -140,7 +140,7 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
@@ -204,7 +204,7 @@
     "ID": 293407973,
     "key": "Destroy any greenskins around %objective%",
     "original": "Destroy any greenskins around %objective%",
-    "translation": "摧毁任何绿皮，大约在 %objective%",
+    "translation": "消灭在 %objective% 附近的所有绿皮",
     "stage": 1
   },
   {
@@ -255,7 +255,7 @@
     "key": "Failed to break the siege of ",
     "original": "Failed to break the siege of ",
     "translation": "未能突围攻城：",
-    "stage": 1,
+    "stage": 2,
     "context": "'Failed to break the siege of ' + this.Flags.get('ObjectiveName')"
   },
   {
@@ -284,7 +284,7 @@
     "key": "%objective% has fallen.",
     "original": "%objective% has fallen.",
     "translation": "%objective% 陷落了。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293407985,

@@ -116,7 +116,7 @@
     "key": "]300[/color] Crowns",
     "original": "]300[/color] Crowns",
     "translation": "]300[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']300[/color] Crowns'"
   },
   {

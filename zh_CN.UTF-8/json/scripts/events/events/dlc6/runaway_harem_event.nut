@@ -4,7 +4,7 @@
     "key": "]150[/color] Crowns",
     "original": "]150[/color] Crowns",
     "translation": "]150[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']150[/color] Crowns'"
   },
   {
@@ -105,7 +105,7 @@
     "key": "]100[/color] Crowns",
     "original": "]100[/color] Crowns",
     "translation": "]100[/color] 克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']100[/color] Crowns'"
   },
   {
