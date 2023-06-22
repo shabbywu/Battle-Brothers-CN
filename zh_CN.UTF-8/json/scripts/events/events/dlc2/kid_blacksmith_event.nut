@@ -38,7 +38,7 @@
     "ID": 293413730,
     "key": "[img]gfx/ui/events/event_97.png[/img]{Your suspicions about the juggler volunteering to be sent to help are confirmed true as you soon see him throwing daggers and axes into the air and wowing the public at large. Seeing the crowds gather, he places a hat",
     "original": "[img]gfx/ui/events/event_97.png[/img]{Your suspicions about the juggler volunteering to be sent to help are confirmed true as you soon see him throwing daggers and axes into the air and wowing the public at large. Seeing the crowds gather, he places a hat upon the cobblestones and continues the act. They throw plenty of coin in, and the applause is deafening as he plays out his final act of five maces at the same time. Bowing, he picks up the hat and rushes back over.%SPEECH_ON%A fine day's work, aye sir?%SPEECH_OFF%Nodding, you ask about the boy's broken sword. He clears the sweat from his brow.%SPEECH_ON%What you say, sir? Get back with the company? Aye sir, I'll get back with the company now.%SPEECH_OFF%Pursing your lips, you look back toward the smithery to see the boy bent over an anvil and taking a sound leather hiding from the returned blacksmith.}",
-    "translation": "[img]gfx/ui/events/event_97.png[/img]{你的怀疑关于杂耍演员自愿前来帮助很快得到了证实，因为你很快就看到他将匕首和斧头扔向空中，惊艳了大众。看到人群聚集，他把帽子放在鹅卵石上，继续表演节目。他们投了很多硬币，掌声震耳欲聋，当他演出了同时持有五个狼牙棒的终极演出时，掌声更是雷鸣。他鞠躬之后拿起了帽子，匆匆忙忙地走回来。%SPEECH_ON% 很棒的一天工作，没错吧，先生？%SPEECH_OFF% 你点点头，问起那个男孩断掉的剑。他擦了擦额头上的汗水。%SPEECH_ON% 什么，先生？回到队里吗？是的，先生，我现在就回到队里去。%SPEECH_OFF% 你嘴唇抿紧，向铁匠铺看去，看到男孩俯在一个铁砧上，接受着被回来的铁匠用皮鞭抽打的惩罚。}",
+    "translation": "[img]gfx/ui/events/event_97.png[/img]{你的对于杂耍演员志愿提供帮助的怀疑得到了证实，因为你很快就看到他将匕首和斧头扔向空中，惊艳了大众。看到人群聚集，他把帽子放在鹅卵石上，继续表演节目。他们投了很多硬币，而当他演出了同时抛接五个钉棒的终极演出时，掌声更是雷鸣。他鞠躬之后拿起了帽子，匆匆忙忙地走回来。%SPEECH_ON% 很充实的一天，没错吧，先生？%SPEECH_OFF% 你点点头，问起那个男孩断掉的剑。他擦了擦额头上的汗水。%SPEECH_ON% 什么，先生？回到队里吗？是的，先生，我现在就归队。%SPEECH_OFF% 你嘴唇抿紧，向铁匠铺看去，看到男孩俯在一个铁砧上，接受着被回来的铁匠用皮鞭抽打的惩罚。}",
     "stage": 1
   },
   {
@@ -176,7 +176,7 @@
     "ID": 293413749,
     "key": "Your ",
     "original": "Your ",
-    "translation": "你的(Your)",
+    "translation": "你的",
     "stage": 1,
     "context": "'Your ' + item.getName() + ' is repaired'"
   },

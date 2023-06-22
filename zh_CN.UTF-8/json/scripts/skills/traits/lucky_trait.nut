@@ -34,7 +34,7 @@
     "key": "Has a [color=",
     "original": "Has a [color=",
     "translation": "有 [color=",
-    "stage": 5,
+    "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']10%[/color] chance to have any attacker require two successful attack rolls in order to hit'"
   },
   {

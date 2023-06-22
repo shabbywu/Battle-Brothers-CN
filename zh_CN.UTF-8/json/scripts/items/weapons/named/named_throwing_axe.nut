@@ -3,7 +3,7 @@
     "ID": 293419332,
     "key": "Small axes to be thrown in an overhand motion towards a target. These ones are especially well-balanced and hardy enough to inflict serious damage to armor and shields from range.",
     "original": "Small axes to be thrown in an overhand motion towards a target. These ones are especially well-balanced and hardy enough to inflict serious damage to armor and shields from range.",
-    "translation": "可以向目标投掷的小斧。 这些武器特别平衡，足够坚固，可以对远处的盔甲和盾牌造成严重伤害。",
+    "translation": "需要用过肩姿势投掷的小斧。这些斧头特别平衡且足够坚硬，足以对远距离的盔甲和盾牌造成严重伤害。",
     "stage": 1,
     "context": "this.m.Description = 'Small axes to be thrown in an overhand motion towards a target. These ones are especially well-balanced and hardy enough to inflict serious damage to armor and shields from range.'"
   },

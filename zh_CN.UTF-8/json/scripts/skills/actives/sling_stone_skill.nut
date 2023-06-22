@@ -91,7 +91,7 @@
     "ID": 293420420,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有[color=",
+    "translation": "有 [color=",
     "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.NegativeValue + ']100%[/color] chance to daze a target on a hit to the head'"
   },

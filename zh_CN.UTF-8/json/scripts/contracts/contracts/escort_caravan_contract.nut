@@ -83,7 +83,7 @@
     "key": "Brigands",
     "original": "Brigands",
     "translation": "强盗",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408757,

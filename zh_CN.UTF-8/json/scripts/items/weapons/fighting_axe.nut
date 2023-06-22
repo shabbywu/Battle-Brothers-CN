@@ -12,7 +12,7 @@
     "key": "An axe explicitly designed for fighting armored opponents. Quite sturdy.",
     "original": "An axe explicitly designed for fighting armored opponents. Quite sturdy.",
     "translation": "为对抗重装敌人而设计的斧子，相当坚固。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'An axe explicitly designed for fighting armored opponents. Quite sturdy.'"
   },
   {

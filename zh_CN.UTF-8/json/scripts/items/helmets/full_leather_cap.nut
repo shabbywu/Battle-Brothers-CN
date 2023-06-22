@@ -11,7 +11,7 @@
     "ID": 293418074,
     "key": "Full Leather Cap",
     "original": "Full Leather Cap",
-    "translation": "全皮帽",
+    "translation": "全包裹皮帽",
     "stage": 1,
     "context": "this.m.Name = 'Full Leather Cap'"
   }

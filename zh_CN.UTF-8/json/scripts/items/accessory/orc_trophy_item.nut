@@ -3,7 +3,7 @@
     "ID": 293417484,
     "key": "Grants immunity to being stunned",
     "original": "Grants immunity to being stunned",
-    "translation": "授予免疫昏迷",
+    "translation": "授予击晕免疫",
     "stage": 1
   },
   {

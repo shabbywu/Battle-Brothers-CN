@@ -35,7 +35,7 @@
     "ID": 293420058,
     "key": "A strike that can be felt through the thickest of armor and will leave a lasting mark.",
     "original": "A strike that can be felt through the thickest of armor and will leave a lasting mark.",
-    "translation": "一种可以让厚重的盔甲感受到并留下持久印记的打击。",
+    "translation": "一种即使穿着最厚的盔甲也能被感受到并留下长久痕迹的打击。",
     "stage": 1,
     "context": "this.m.Description = 'A strike that can be felt through the thickest of armor and will leave a lasting mark.'"
   }

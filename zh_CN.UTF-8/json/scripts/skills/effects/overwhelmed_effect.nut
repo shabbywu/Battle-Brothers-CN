@@ -35,7 +35,7 @@
     "ID": 293421670,
     "key": " resists being overwhelmed thanks to his unnatural physiology",
     "original": " resists being overwhelmed thanks to his unnatural physiology",
-    "translation": "由于他的非自然生理，他可以抵抗超负荷。",
+    "translation": "非自然的生理功能帮助他抵抗了压制",
     "stage": 1,
     "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' resists being overwhelmed thanks to his unnatural physiology'"
   },
@@ -44,7 +44,7 @@
     "key": "Overwhelmed",
     "original": "Overwhelmed",
     "translation": "被压制",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Overwhelmed'"
   }
 ]

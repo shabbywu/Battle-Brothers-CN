@@ -11,8 +11,8 @@
     "ID": 293419146,
     "key": "A light, yet powerful bow made from various woods.",
     "original": "A light, yet powerful bow made from various woods.",
-    "translation": "一种由各种木材制成的轻而有力的弓。",
-    "stage": 1,
+    "translation": "一张由多种木材制成的轻而有力的弓。",
+    "stage": 5,
     "context": "this.m.Description = 'A light, yet powerful bow made from various woods.'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "Reinforced Boondock Bow",
     "original": "Reinforced Boondock Bow",
     "translation": "强化荒野弓",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Reinforced Boondock Bow'"
   }
 ]

@@ -3,7 +3,7 @@
     "ID": 293410890,
     "key": "Donnerfeste",
     "original": "Donnerfeste",
-    "translation": "雷鸣堡",
+    "translation": "雷鸣要塞",
     "stage": 5
   },
   {
@@ -94,7 +94,7 @@
     "ID": 293410903,
     "key": "Turmfeste",
     "original": "Turmfeste",
-    "translation": "塔堡",
+    "translation": "高塔要塞",
     "stage": 5
   },
   {
@@ -130,7 +130,7 @@
     "ID": 293410908,
     "key": "Himmelsfeste",
     "original": "Himmelsfeste",
-    "translation": "天空堡",
+    "translation": "天空要塞",
     "stage": 5
   },
   {

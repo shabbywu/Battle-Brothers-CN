@@ -20,7 +20,7 @@
     "key": "Wooden Flail",
     "original": "Wooden Flail",
     "translation": "木制链枷",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Wooden Flail'"
   }
 ]

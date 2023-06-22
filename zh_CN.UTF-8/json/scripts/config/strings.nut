@@ -2015,7 +2015,7 @@
     "ID": 293405920,
     "key": "Serpent",
     "original": "Serpent",
-    "translation": "蛇",
+    "translation": "大蛇",
     "stage": 1
   },
   {
@@ -2619,7 +2619,7 @@
     "key": "Alp",
     "original": "Alp",
     "translation": "梦魇",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406006,
@@ -5126,7 +5126,7 @@
     "ID": 293406359,
     "key": "Flail Mastery",
     "original": "Flail Mastery",
-    "translation": "连枷掌握",
+    "translation": "链枷掌握",
     "stage": 1
   },
   {
@@ -6780,7 +6780,7 @@
     "key": "Alps",
     "original": "Alps",
     "translation": "梦魇",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293406593,

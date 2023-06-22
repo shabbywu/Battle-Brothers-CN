@@ -20,7 +20,7 @@
     "key": "Flail",
     "original": "Flail",
     "translation": "链枷",
-    "stage": 5,
+    "stage": 1,
     "context": "this.m.Name = 'Flail'"
   }
 ]

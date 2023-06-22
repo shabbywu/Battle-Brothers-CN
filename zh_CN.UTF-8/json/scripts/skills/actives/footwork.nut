@@ -3,7 +3,7 @@
     "ID": 293419994,
     "key": "Use skillful footwork to leave a Zone of Control without triggering free attacks.",
     "original": "Use skillful footwork to leave a Zone of Control without triggering free attacks.",
-    "translation": "使用熟练的步法离开控制区而不触发借机攻击。",
+    "translation": "使用熟练的步法离开敌对控制区域且不触发借机攻击。",
     "stage": 1,
     "context": "this.m.Description = 'Use skillful footwork to leave a Zone of Control without triggering free attacks.'"
   },
@@ -28,7 +28,7 @@
     "key": "Footwork",
     "original": "Footwork",
     "translation": "步法",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Footwork'"
   }
 ]

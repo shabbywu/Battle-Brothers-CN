@@ -12,7 +12,7 @@
     "key": "Numerous overlapping leather plates provide decent protection for most of the upper body.",
     "original": "Numerous overlapping leather plates provide decent protection for most of the upper body.",
     "translation": "许多重叠的皮革板为大部分上半身提供了体面的保护。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'Numerous overlapping leather plates provide decent protection for most of the upper body.'"
   }
 ]

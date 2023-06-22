@@ -4,7 +4,7 @@
     "key": "Nomad Mace",
     "original": "Nomad Mace",
     "translation": "游牧狼牙棒",
-    "stage": 5,
+    "stage": 1,
     "context": "this.m.Name = 'Nomad Mace'"
   },
   {

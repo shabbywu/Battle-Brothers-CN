@@ -4,7 +4,7 @@
     "key": "Bundle of Javelins (Empty)",
     "original": "Bundle of Javelins (Empty)",
     "translation": "一捆标枪（空）",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Bundle of Javelins (Empty)'"
   },
   {

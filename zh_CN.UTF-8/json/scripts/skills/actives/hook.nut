@@ -83,7 +83,7 @@
     "ID": 293420080,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有[color=",
+    "translation": "有 [color=",
     "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stagger on a hit'"
   }

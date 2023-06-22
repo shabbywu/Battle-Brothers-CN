@@ -26,8 +26,8 @@
     "ID": 293419991,
     "key": "Flail",
     "original": "Flail",
-    "translation": "雹击",
-    "stage": 2,
+    "translation": "链枷",
+    "stage": 1,
     "context": "this.m.Name = 'Flail'"
   }
 ]

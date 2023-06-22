@@ -20,7 +20,7 @@
     "key": "Crossbow",
     "original": "Crossbow",
     "translation": "弩",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Crossbow'"
   },
   {
