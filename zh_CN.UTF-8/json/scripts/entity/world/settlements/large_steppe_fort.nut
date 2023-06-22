@@ -123,7 +123,7 @@
     "ID": 293411001,
     "key": "Sandsturmfeste",
     "original": "Sandsturmfeste",
-    "translation": "沙暴堡",
+    "translation": "沙暴要塞",
     "stage": 5
   },
   {

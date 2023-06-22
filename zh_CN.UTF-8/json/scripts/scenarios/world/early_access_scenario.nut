@@ -3,7 +3,7 @@
     "ID": 293419669,
     "key": "{You saved %name%'s life in a battle against brigands, and he returned the favor in an alley ambush by thieves. Given that common criminals are a few levels beneath brigands, you often joke with him that he is still a little behind on the 'saving each oth",
     "original": "{You saved %name%'s life in a battle against brigands, and he returned the favor in an alley ambush by thieves. Given that common criminals are a few levels beneath brigands, you often joke with him that he is still a little behind on the 'saving each other's asses' debt.}",
-    "translation": "{你在与强盗的战斗中救了 %name%的命，而他在巷子里被小偷埋伏时报了恩。 考虑到普通罪犯比土匪低几级，你经常和他开玩笑说，他在“互相救屁股”的债务上还有些落后。}",
+    "translation": "{你在与强盗的战斗中救了 %name%的命，而他之后在一场盗贼的埋伏中时报了恩。 考虑到普通罪犯比土匪低几级，你经常和他开玩笑说，他在“互相救屁股”的债务上还有些落后。}",
     "stage": 1,
     "context": "bros.0.getBackground().m.RawDescription = \"{You saved %name%'s life in a battle against brigands, and he returned the favor in an alley ambush by thieves. Given that common criminals are a few levels beneath brigands, you often joke with him that he is still a little behind on the 'saving each other's asses' debt.}\""
   },

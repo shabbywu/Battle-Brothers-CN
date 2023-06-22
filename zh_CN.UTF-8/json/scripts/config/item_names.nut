@@ -3811,7 +3811,7 @@
     "ID": 293405413,
     "key": "Flail",
     "original": "Flail",
-    "translation": "连枷",
+    "translation": "链枷",
     "stage": 1
   },
   {

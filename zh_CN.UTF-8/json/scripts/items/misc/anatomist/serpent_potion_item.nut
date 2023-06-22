@@ -3,7 +3,7 @@
     "ID": 293418611,
     "key": "With this potion, the feared guile and precision of the hateful desert serpent is within any warrior's grasp!",
     "original": "With this potion, the feared guile and precision of the hateful desert serpent is within any warrior's grasp!",
-    "translation": "有了这种药剂，沙漠巨蛇那令人生畏的狡诈和精准就将尽在每一位战士的掌握之中！",
+    "translation": "有了这种药剂，沙漠大蛇那令人生畏的狡诈和精准就将尽在每一位战士的掌握之中！",
     "stage": 1,
     "context": "this.m.Description = \"With this potion, the feared guile and precision of the hateful desert serpent is within any warrior's grasp!\""
   },
@@ -18,7 +18,7 @@
     "ID": 293418613,
     "key": "Gain an additional [color=",
     "original": "Gain an additional [color=",
-    "translation": "获得额外[color=",
+    "translation": "每有一个邻近目标的盟友，将获得额外[color=",
     "stage": 1,
     "context": "'Gain an additional [color=' + this.Const.UI.Color.PositiveValue + ']+3%[/color] chance to hit in melee for every ally adjacent to your target'"
   },
@@ -26,7 +26,7 @@
     "ID": 293418614,
     "key": "]+3%[/color] chance to hit in melee for every ally adjacent to your target",
     "original": "]+3%[/color] chance to hit in melee for every ally adjacent to your target",
-    "translation": "]+3%[/color]（每有一个邻近目标的盟友）近战命中率",
+    "translation": "]+3%[/color]近战命中率",
     "stage": 1,
     "context": "'Gain an additional [color=' + this.Const.UI.Color.PositiveValue + ']+3%[/color] chance to hit in melee for every ally adjacent to your target'"
   },

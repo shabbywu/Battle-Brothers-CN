@@ -11,7 +11,7 @@
     "ID": 293417668,
     "key": " points",
     "original": " points",
-    "translation": "点数",
+    "translation": " 点生命值",
     "stage": 1,
     "context": "this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + healthAdded + ' points'"
   },
@@ -19,7 +19,7 @@
     "ID": 293417669,
     "key": "Heals [color=",
     "original": "Heals [color=",
-    "translation": "治疗 [color=",
+    "translation": "穿戴者每回合恢复[color=",
     "stage": 1,
     "context": "'Heals [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints of the wearer each turn'"
   },
@@ -27,7 +27,7 @@
     "ID": 293417670,
     "key": " heals for ",
     "original": " heals for ",
-    "translation": "治疗量为",
+    "translation": "恢复了 ",
     "stage": 1,
     "context": "this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + healthAdded + ' points'"
   },
@@ -43,8 +43,8 @@
     "ID": 293417672,
     "key": "]10[/color] hitpoints of the wearer each turn",
     "original": "]10[/color] hitpoints of the wearer each turn",
-    "translation": "]10[/color] 生命值(每回合)",
-    "stage": 5,
+    "translation": "]10[/color] 点生命值",
+    "stage": 1,
     "context": "'Heals [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints of the wearer each turn'"
   }
 ]

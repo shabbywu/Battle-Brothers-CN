@@ -11,7 +11,7 @@
     "ID": 293420491,
     "key": "A quick and fast stab.",
     "original": "A quick and fast stab.",
-    "translation": "快且迅速的刺。",
+    "translation": "一次迅速的刺击。",
     "stage": 1,
     "context": "this.m.Description = 'A quick and fast stab.'"
   },

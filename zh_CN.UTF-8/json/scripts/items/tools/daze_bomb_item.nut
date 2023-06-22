@@ -3,21 +3,21 @@
     "ID": 293418929,
     "key": "Is destroyed on use",
     "original": "Is destroyed on use",
-    "translation": "使用时摧毁",
+    "translation": "使用后摧毁",
     "stage": 1
   },
   {
     "ID": 293418930,
     "key": "Worn in Offhand",
     "original": "Worn in Offhand",
-    "translation": "放在副手",
+    "translation": "副手持用",
     "stage": 1
   },
   {
     "ID": 293418931,
     "key": "Range of [color=",
     "original": "Range of [color=",
-    "translation": "射程 [color=",
+    "translation": "使用范围为[color=",
     "stage": 1,
     "context": "'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
   },
@@ -26,14 +26,14 @@
     "key": "Flash Pot",
     "original": "Flash Pot",
     "translation": "闪光罐",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Flash Pot'"
   },
   {
     "ID": 293418933,
     "key": "Will give up to [color=",
     "original": "Will give up to [color=",
-    "translation": "会给最多[color=",
+    "translation": "可使最多[color=",
     "stage": 1,
     "context": "'Will give up to [color=' + this.Const.UI.Color.DamageValue + ']7[/color] targets the Dazed status effect for 2 turns'"
   },
@@ -41,7 +41,7 @@
     "ID": 293418934,
     "key": "]7[/color] targets the Dazed status effect for 2 turns",
     "original": "]7[/color] targets the Dazed status effect for 2 turns",
-    "translation": "]7[/color]目标晕眩状态影响, 持续 2 回合",
+    "translation": "]7[/color]个目标茫然2回合。",
     "stage": 1,
     "context": "'Will give up to [color=' + this.Const.UI.Color.DamageValue + ']7[/color] targets the Dazed status effect for 2 turns'"
   },
@@ -49,7 +49,7 @@
     "ID": 293418935,
     "key": "A throwable pot filled with mysterious powders that react violently on impact to create a bright flash and loud bang. Will daze anyone close by.",
     "original": "A throwable pot filled with mysterious powders that react violently on impact to create a bright flash and loud bang. Will daze anyone close by.",
-    "translation": "一个装满神秘火药的一次性罐子，在撞击时会发生剧烈反应，产生明亮的闪光和巨响。 会让附近的人茫然。",
+    "translation": "一个可用于投掷的装满神秘粉末的罐子。这些粉末在遭受冲击后会剧烈反应并产生强烈的闪光和声响。会使周围的人茫然。",
     "stage": 1,
     "context": "this.m.Description = 'A throwable pot filled with mysterious powders that react violently on impact to create a bright flash and loud bang. Will daze anyone close by.'"
   },

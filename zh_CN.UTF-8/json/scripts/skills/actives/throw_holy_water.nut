@@ -27,8 +27,8 @@
     "ID": 293420626,
     "key": "]33%[/color] chance to hit bystanders at the same or lower height level as well.",
     "original": "]33%[/color] chance to hit bystanders at the same or lower height level as well.",
-    "translation": "]33%[/color] 几率击中相同或更低高度的旁观者。",
-    "stage": 2,
+    "translation": "]33%[/color]几率波及四周相同或更低高度的单位。",
+    "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] chance to hit bystanders at the same or lower height level as well.'"
   },
   {
@@ -51,7 +51,7 @@
     "key": "Has a [color=",
     "original": "Has a [color=",
     "translation": "有 [color=",
-    "stage": 5,
+    "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] chance to hit bystanders at the same or lower height level as well.'"
   },
   {

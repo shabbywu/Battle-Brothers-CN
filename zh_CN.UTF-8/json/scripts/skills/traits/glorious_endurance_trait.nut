@@ -11,14 +11,14 @@
     "ID": 293422525,
     "key": "Gains 5% damage reduction with every hit taken, up to a limit of 25%",
     "original": "Gains 5% damage reduction with every hit taken, up to a limit of 25%",
-    "translation": "每命中一次，获得5%的伤害减免，上限为25%",
-    "stage": 1
+    "translation": "每次被击中获得5%的伤害减免，上限为25%",
+    "stage": 5
   },
   {
     "ID": 293422526,
     "key": "%[/color] of any damage",
     "original": "%[/color] of any damage",
-    "translation": "%[/color] 所有伤害",
+    "translation": "%[/color]",
     "stage": 1,
     "context": "'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']' + 1.0 - this.m.DamageReduction * 100 + '%[/color] of any damage'"
   },
@@ -26,7 +26,7 @@
     "ID": 293422527,
     "key": "Glorious Endurance",
     "original": "Glorious Endurance",
-    "translation": "荣耀耐力(Glorious Endurance)",
+    "translation": "荣耀耐力",
     "stage": 1,
     "context": "this.m.Name = 'Glorious Endurance'"
   },
@@ -34,7 +34,7 @@
     "ID": 293422528,
     "key": "Receives only [color=",
     "original": "Receives only [color=",
-    "translation": "仅接受[color=",
+    "translation": "仅受到所有伤害的 [color=",
     "stage": 1,
     "context": "'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']' + 1.0 - this.m.DamageReduction * 100 + '%[/color] of any damage'"
   }

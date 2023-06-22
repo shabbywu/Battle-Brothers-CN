@@ -19,7 +19,7 @@
     "ID": 293417665,
     "key": "Reflects [color=",
     "original": "Reflects [color=",
-    "translation": "反射[color=",
+    "translation": "反弹 [color=",
     "stage": 1,
     "context": "'Reflects [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] of damage taken in melee back to the attacker'"
   },
@@ -27,7 +27,7 @@
     "ID": 293417666,
     "key": "]25%[/color] of damage taken in melee back to the attacker",
     "original": "]25%[/color] of damage taken in melee back to the attacker",
-    "translation": "]25%[/color] 的肉搏伤害将反弹给攻击者",
+    "translation": "]25%[/color] 的肉搏伤害给攻击者",
     "stage": 1,
     "context": "'Reflects [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] of damage taken in melee back to the attacker'"
   }

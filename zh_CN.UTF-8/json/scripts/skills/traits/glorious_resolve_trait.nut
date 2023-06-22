@@ -3,7 +3,7 @@
     "ID": 293422533,
     "key": "Glorious Resolve",
     "original": "Glorious Resolve",
-    "translation": "光荣决心(Glorious Resolve)",
+    "translation": "荣耀决心",
     "stage": 1,
     "context": "this.m.Name = 'Glorious Resolve'"
   },
@@ -19,7 +19,7 @@
     "ID": 293422535,
     "key": "Re-roll every failed morale check for a second chance",
     "original": "Re-roll every failed morale check for a second chance",
-    "translation": "每一次失败的士气检查都重新掷骰，获得第二次机会",
+    "translation": "每个失败的士气检定都有第二次机会重新掷骰",
     "stage": 1
   }
 ]

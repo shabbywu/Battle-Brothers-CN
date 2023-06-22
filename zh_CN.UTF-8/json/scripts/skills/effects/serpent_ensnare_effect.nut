@@ -4,7 +4,7 @@
     "key": "]Unable to use skills[/color]",
     "original": "]Unable to use skills[/color]",
     "translation": "]不能使用技能[/color]",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Unable to use skills[/color]'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "Entangled",
     "original": "Entangled",
     "translation": "被缠住",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Entangled'"
   }
 ]

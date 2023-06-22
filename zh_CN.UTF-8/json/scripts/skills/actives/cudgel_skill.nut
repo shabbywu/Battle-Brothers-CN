@@ -19,8 +19,8 @@
     "ID": 293419897,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有[color=",
-    "stage": 5,
+    "translation": "有 [color=",
+    "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to daze on a hit'"
   },
   {

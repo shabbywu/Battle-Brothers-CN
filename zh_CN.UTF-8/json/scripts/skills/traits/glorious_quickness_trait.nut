@@ -4,15 +4,15 @@
     "key": "]1[/color] Action Point",
     "original": "]1[/color] Action Point",
     "translation": "]1[/color] 行动点数",
-    "stage": 1,
+    "stage": 5,
     "context": "'Upon killing an enemy on their turn, this character immediately regains [color=' + this.Const.UI.Color.PositiveValue + ']1[/color] Action Point'"
   },
   {
     "ID": 293422530,
     "key": "Upon killing an enemy on their turn, this character immediately regains [color=",
     "original": "Upon killing an enemy on their turn, this character immediately regains [color=",
-    "translation": "当这个角色在他们的回合杀死一个敌人时，他们立即恢复[color=",
-    "stage": 1,
+    "translation": "每当在他的轮次杀死一个敌人时，这个角色立刻恢复 [color=",
+    "stage": 5,
     "context": "'Upon killing an enemy on their turn, this character immediately regains [color=' + this.Const.UI.Color.PositiveValue + ']1[/color] Action Point'"
   },
   {
@@ -27,7 +27,7 @@
     "ID": 293422532,
     "key": "Glorious Quickness",
     "original": "Glorious Quickness",
-    "translation": "荣耀迅捷(Glorious Quickness)",
+    "translation": "荣耀迅捷",
     "stage": 1,
     "context": "this.m.Name = 'Glorious Quickness'"
   }

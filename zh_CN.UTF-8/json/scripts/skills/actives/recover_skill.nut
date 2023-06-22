@@ -11,7 +11,7 @@
     "ID": 293420273,
     "key": "Recover",
     "original": "Recover",
-    "translation": "恢复",
+    "translation": "深呼吸",
     "stage": 1,
     "context": "this.m.Name = 'Recover'"
   },
@@ -19,7 +19,7 @@
     "ID": 293420274,
     "key": "Current Fatigue is reduced by half",
     "original": "Current Fatigue is reduced by half",
-    "translation": "当前疲劳值减少一半",
+    "translation": "当前累积的疲劳值减半",
     "stage": 1
   }
 ]

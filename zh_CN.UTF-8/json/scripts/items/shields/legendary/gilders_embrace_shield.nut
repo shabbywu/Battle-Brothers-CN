@@ -3,7 +3,7 @@
     "ID": 293418774,
     "key": " is dazed by the Gilder's Embrace",
     "original": " is dazed by the Gilder's Embrace",
-    "translation": " 被镀金者的拥抱茫然了",
+    "translation": "被镀金者的拥抱茫然了",
     "stage": 1,
     "context": "this.Const.UI.getColorizedEntityName(_attacker) + \" is dazed by the Gilder's Embrace\""
   },
@@ -19,7 +19,7 @@
     "key": "Gilder's Embrace",
     "original": "Gilder's Embrace",
     "translation": "镀金者的拥抱",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = \"Gilder's Embrace\""
   },
   {
@@ -49,8 +49,8 @@
     "ID": 293418780,
     "key": "Ranged Defense [color=",
     "original": "Ranged Defense [color=",
-    "translation": "远程防御[color=",
-    "stage": 1,
+    "translation": "远程防御 [color=",
+    "stage": 5,
     "context": "'Ranged Defense [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.m.RangedDefense + '[/color]'"
   },
   {
@@ -58,7 +58,7 @@
     "key": "Melee Defense [color=",
     "original": "Melee Defense [color=",
     "translation": "近战防御[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'Melee Defense [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.m.MeleeDefense + '[/color]'"
   }
 ]

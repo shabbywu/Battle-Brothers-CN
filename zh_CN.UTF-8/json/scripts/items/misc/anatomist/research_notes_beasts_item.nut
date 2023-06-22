@@ -137,7 +137,7 @@
     "ID": 293418555,
     "key": "Serpent",
     "original": "Serpent",
-    "translation": "蛇",
+    "translation": "大蛇",
     "stage": 1
   },
   {

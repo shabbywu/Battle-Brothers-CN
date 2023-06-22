@@ -40,7 +40,7 @@
     "ID": 293422251,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有一个[color=",
+    "translation": "有 [color=",
     "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] chance to start battle at confident morale'"
   },

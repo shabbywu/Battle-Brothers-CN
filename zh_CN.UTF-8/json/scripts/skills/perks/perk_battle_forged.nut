@@ -27,7 +27,7 @@
     "ID": 293422139,
     "key": "Only receive [color=",
     "original": "Only receive [color=",
-    "translation": "只接受 [color=",
+    "translation": "只受到 [color=",
     "stage": 1,
     "context": "'Only receive [color=' + this.Const.UI.Color.PositiveValue + ']' + fm + '%[/color] of any damage to armor from attacks'"
   },

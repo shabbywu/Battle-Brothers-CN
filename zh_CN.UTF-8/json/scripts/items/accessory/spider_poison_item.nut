@@ -3,7 +3,7 @@
     "ID": 293417501,
     "key": "Is destroyed on use",
     "original": "Is destroyed on use",
-    "translation": "使用时摧毁",
+    "translation": "使用后摧毁",
     "stage": 1
   },
   {

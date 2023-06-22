@@ -10,7 +10,7 @@
     "ID": 293419694,
     "key": "[p=c][img]gfx/ui/events/event_172.png[/img][/p][p]Constant conflict between city states and nomads makes for good business. The bulk of your outfit are captives, forced to fight to earn their freedom, and their ranks grow after each battle.\n\n[color=#bcad8",
     "original": "[p=c][img]gfx/ui/events/event_172.png[/img][/p][p]Constant conflict between city states and nomads makes for good business. The bulk of your outfit are captives, forced to fight to earn their freedom, and their ranks grow after each battle.\n\n[color=#bcad8c]Army of Captives:[/color] Start with two manhunters and four indebted. Take up to 16 men into battle at once. Having equal or fewer indebted than non-indebted will make your men dissatisfied.\n[color=#bcad8c]Overseers:[/color] All non-indebted can whip indebted in combat to reset their morale and buff their stats.\n[color=#bcad8c]Captives:[/color] Indebted earn 10% more experience, are capped at level 7, and will die if struck down.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_172.png[/img][/p][p]城邦和游牧民族之间不断的冲突有利于生意的发展。 你的大部分构成都是俘虏，为了获得自由被迫战斗，他们的队伍在每次战斗后都会增加。\n\n[color=#bcad8c]俘虏大军：[/color] 从两个猎奴者和四个负债者开始。 一次最多可携带16人参战。 负债者与非负债者相等或更少会使你的人不满意。\n[color=#bcad8c]监工：[/color] 所有非负债者都可以在战斗中鞭打负债者的来重置他们的士气和增加他们的属性。\n[color=#bcad8c]俘虏：[/color] 负债者获得的经验增加10%，上限为7级，如果被击倒将死亡。[/p]",
+    "translation": "[p=c][img]gfx/ui/events/event_172.png[/img][/p][p]城邦和游牧民族之间不断的冲突有利于生意的发展。 你队伍大部分都是俘虏构成，为了获得自由被迫战斗，他们的队伍在每次战斗后都会增加。\n\n[color=#bcad8c]俘虏大军：[/color] 从两个搜捕者和四个负债者开始。 一次最多可携带16人参战。 负债者与非负债者相等或更少会使你的人不满意。\n[color=#bcad8c]监工：[/color] 所有非负债者都可以在战斗中鞭打负债者的来重置他们的士气和增加他们的属性。\n[color=#bcad8c]俘虏：[/color] 负债者获得的经验增加10%，上限为7级，如果被击倒将直接死亡。[/p]",
     "stage": 1,
     "context": "this.m.Description = '[p=c][img]gfx/ui/events/event_172.png[/img][/p][p]Constant conflict between city states and nomads makes for good business. The bulk of your outfit are captives, forced to fight to earn their freedom, and their ranks grow after each battle.\n\n[color=#bcad8c]Army of Captives:[/color] Start with two manhunters and four indebted. Take up to 16 men into battle at once. Having equal or fewer indebted than non-indebted will make your men dissatisfied.\n[color=#bcad8c]Overseers:[/color] All non-indebted can whip indebted in combat to reset their morale and buff their stats.\n[color=#bcad8c]Captives:[/color] Indebted earn 10% more experience, are capped at level 7, and will die if struck down.[/p]'"
   },
@@ -99,7 +99,7 @@
     "ID": 293419706,
     "key": "{You found %name% being lawed by city guards. It looked like they were gonna play a game of 'catch the scimitar' with his wrists until you intervened, opining that he owed the Gilder far before he owed any man. You hoped to offload him to high-paying Vizi",
     "original": "{You found %name% being lawed by city guards. It looked like they were gonna play a game of 'catch the scimitar' with his wrists until you intervened, opining that he owed the Gilder far before he owed any man. You hoped to offload him to high-paying Viziers, but none would take him as he was too 'learned' and seemed the exact sort of threat to spur an uprising. Unusual to a man of his standing, he does harbor a fair bit of respect for you.}",
-    "translation": "{你发现 %name% 正受到城市警卫的法律制裁。 看起来他们要用他的手腕玩一个“接住弯刀”的游戏，直到你介入，他认为他欠镀金者的钱远比欠任何人的钱还多。 你希望把他卖给高薪的维齐尔，但没有人会接受他，因为他太“博学”了，而且似乎正是那种会引发起义的威胁。 对一个地位如此之高的人来说，他确实对你怀有一点尊敬。}",
+    "translation": "{你发现 %name% 正受到城市警卫的法律制裁。 看起来他们要用他的手腕玩一个“接住弯刀”的游戏，直到你介入，他认为他欠镀金者的钱远比欠任何人的钱还多。 你希望把他高价卖给的维齐尔，但没有人会接受他，因为他太“博学”了，而且似乎正是那种会引发起义的威胁。 对一个地位如此之高的人来说，他确实对你怀有一点尊敬。}",
     "stage": 1,
     "context": "bros.2.getBackground().m.RawDescription = \"{You found %name% being lawed by city guards. It looked like they were gonna play a game of 'catch the scimitar' with his wrists until you intervened, opining that he owed the Gilder far before he owed any man. You hoped to offload him to high-paying Viziers, but none would take him as he was too 'learned' and seemed the exact sort of threat to spur an uprising. Unusual to a man of his standing, he does harbor a fair bit of respect for you.}\""
   },
@@ -145,7 +145,7 @@
     "ID": 293419712,
     "key": "Feels cursed to have deserted one army only to end up an indebted in another",
     "original": "Feels cursed to have deserted one army only to end up an indebted in another",
-    "translation": "觉得自己被诅咒了，离开了一支军队，却在另一支军队中负债累累",
+    "translation": "觉得自己被诅咒了，逃离了一支军队，却在另一支军队中当负债者",
     "stage": 1
   },
   {

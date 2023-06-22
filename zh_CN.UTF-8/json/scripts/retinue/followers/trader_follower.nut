@@ -3,7 +3,7 @@
     "ID": 293419636,
     "key": "/25 trade goods",
     "original": "/25 trade goods",
-    "translation": "/25 贸易物资",
+    "translation": "/25 贸易商品",
     "stage": 1,
     "context": "this.m.Requirements.0.Text = 'Sold ' + this.Math.min(25, this.World.Statistics.getFlags().getAsInt('TradeGoodsSold')) + '/25 trade goods'"
   },
@@ -26,7 +26,7 @@
     "ID": 293419639,
     "key": "Sold ",
     "original": "Sold ",
-    "translation": "已售出(Sold)",
+    "translation": "售出",
     "stage": 1,
     "context": "this.m.Requirements.0.Text = 'Sold ' + this.Math.min(25, this.World.Statistics.getFlags().getAsInt('TradeGoodsSold')) + '/25 trade goods'"
   },

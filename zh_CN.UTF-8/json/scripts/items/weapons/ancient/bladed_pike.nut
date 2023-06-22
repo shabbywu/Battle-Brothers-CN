@@ -11,7 +11,7 @@
     "ID": 293419021,
     "key": "A long, ancient pike used to attack over some distance and keeping the enemy at bay.",
     "original": "A long, ancient pike used to attack over some distance and keeping the enemy at bay.",
-    "translation": "一根长而古老的长矛，用于远距离攻击并与敌人保持距离。",
+    "translation": "一杆长而古老的长枪，用于在一定距离外攻击并且与敌人保持距离。",
     "stage": 1,
     "context": "this.m.Description = 'A long, ancient pike used to attack over some distance and keeping the enemy at bay.'"
   },

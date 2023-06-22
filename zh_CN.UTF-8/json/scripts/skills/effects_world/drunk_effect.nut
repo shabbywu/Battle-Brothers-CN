@@ -75,7 +75,7 @@
     "ID": 293421830,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有一个[color=",
+    "translation": "有 [color=",
     "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] chance to be followed by a hangover'"
   }

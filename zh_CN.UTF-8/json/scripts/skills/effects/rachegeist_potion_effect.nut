@@ -11,8 +11,8 @@
     "ID": 293421682,
     "key": "Receives only [color=",
     "original": "Receives only [color=",
-    "translation": "只接受[color=",
-    "stage": 1,
+    "translation": "只受到[color=",
+    "stage": 2,
     "context": "'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']75%[/color] of any damage if hitpoints are below [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color]'"
   },
   {
@@ -26,16 +26,16 @@
     "ID": 293421684,
     "key": "]+25%[/color] Damage if hitpoints are below [color=",
     "original": "]+25%[/color] Damage if hitpoints are below [color=",
-    "translation": "]+25%[/color]当生命值低于[color=",
-    "stage": 1,
+    "translation": "]+25%[/color]伤害当生命值低于[color=",
+    "stage": 2,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] Damage if hitpoints are below [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color]'"
   },
   {
     "ID": 293421685,
     "key": "]75%[/color] of any damage if hitpoints are below [color=",
     "original": "]75%[/color] of any damage if hitpoints are below [color=",
-    "translation": "]75%[/color]任何伤害, 当当生命值低于[color=",
-    "stage": 1,
+    "translation": "]75%[/color]任何伤害, 当生命值低于[color=",
+    "stage": 2,
     "context": "'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']75%[/color] of any damage if hitpoints are below [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color]'"
   },
   {

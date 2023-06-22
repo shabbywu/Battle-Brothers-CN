@@ -11,7 +11,7 @@
     "ID": 293419027,
     "key": "A bladed pike with a broken tip. Not all weapons stand the test of time. Once used to attack over some distance and keeping the enemy at bay.",
     "original": "A bladed pike with a broken tip. Not all weapons stand the test of time. Once used to attack over some distance and keeping the enemy at bay.",
-    "translation": "一把尖头折断的古代长矛。 并非所有的武器都能经受住时间的考验。 可以用来远距离攻击并阻止敌人。",
+    "translation": "一把尖头折断的古代长矛。 并非所有的武器都能经受住时间的考验。曾用于在一定距离外攻击并且与敌人保持距离。",
     "stage": 1,
     "context": "this.m.Description = 'A bladed pike with a broken tip. Not all weapons stand the test of time. Once used to attack over some distance and keeping the enemy at bay.'"
   },

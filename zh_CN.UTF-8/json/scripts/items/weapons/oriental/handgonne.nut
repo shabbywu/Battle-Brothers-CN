@@ -4,7 +4,7 @@
     "key": "Firearm, Two-Handed",
     "original": "Firearm, Two-Handed",
     "translation": "火器, 双手持",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Categories = 'Firearm, Two-Handed'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "Handgonne",
     "original": "Handgonne",
     "translation": "火铳",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Handgonne'"
   }
 ]

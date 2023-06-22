@@ -12,7 +12,7 @@
     "key": "Heavy Rusty Axe",
     "original": "Heavy Rusty Axe",
     "translation": "生锈重斧",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Heavy Rusty Axe'"
   },
   {

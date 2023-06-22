@@ -4,7 +4,7 @@
     "key": "[/color] less fatigue",
     "original": "[/color] less fatigue",
     "translation": "[/color] 更少疲劳值",
-    "stage": 5,
+    "stage": 1,
     "context": "'Weapon skills build up [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.FatigueOnSkillUse + '[/color] less fatigue'"
   },
   {
@@ -59,7 +59,7 @@
     "ID": 293419490,
     "key": "Weapon skills build up [color=",
     "original": "Weapon skills build up [color=",
-    "translation": "武器技能消耗[color=",
+    "translation": "武器技能积累 [color=",
     "stage": 1,
     "context": "'Weapon skills build up [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.FatigueOnSkillUse + '[/color] less fatigue'"
   },
@@ -84,7 +84,7 @@
     "key": "]Is empty and useless[/color]",
     "original": "]Is empty and useless[/color]",
     "translation": "]已用尽，无用的[/color]",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Is empty and useless[/color]'"
   },
   {
@@ -123,7 +123,7 @@
     "ID": 293419498,
     "key": "Range of [color=",
     "original": "Range of [color=",
-    "translation": "射程 [color=",
+    "translation": "使用范围为[color=",
     "stage": 5,
     "context": "'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getRangeMax() + '[/color] tiles'"
   },

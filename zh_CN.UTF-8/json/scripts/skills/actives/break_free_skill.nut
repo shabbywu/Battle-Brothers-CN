@@ -3,8 +3,8 @@
     "ID": 293419836,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有[color=",
-    "stage": 5,
+    "translation": "有 [color=",
+    "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + chance + '%[/color] chance to succeed, based on Melee Skill. Each failed attempt will increase the chance to succeed for subsequent attempts.'"
   },
   {
