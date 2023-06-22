@@ -67,7 +67,8 @@ graph
   - [x] [modding script hooks](https://www.nexusmods.com/battlebrothers/mods/42)
   - [x] [招募显星(Smart Recruiter)](https://www.nexusmods.com/battlebrothers/mods/172)
   - ...
-- [ ] 优化大地图的中文名称替换回英文的策略
+- [x] 大地图支持中文字符
+- [ ] 文本精翻
 
 使用说明
 ==========================================
@@ -84,6 +85,8 @@ bb-translator 是 Battle Brothers(战场兄弟)中文翻译器, 会自动使用�
 - 使用 physfs 读取文件, 实现了与游戏同样的加载方式和顺序
 - 同时支持翻译 .nut/.cnut, 理论上支持翻译 Mod(只要 po 中有对应的汉化文本)
 - 可汉化历史版本的游戏脚本(只要 po 中有对应的汉化文本)
+- GUI 界面
+- 使用内置“启动游戏”功能运行游戏时支持大地图中文字符
 
 ## 使用说明
 1. 从 [Release](https://github.com/BattleBrothersGameCN/Release/releases) 下载最新版本的 bb-translator
