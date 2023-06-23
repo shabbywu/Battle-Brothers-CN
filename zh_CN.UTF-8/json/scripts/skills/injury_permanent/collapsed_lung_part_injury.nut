@@ -19,7 +19,7 @@
     "ID": 293422103,
     "key": "Is always content with being in reserve",
     "original": "Is always content with being in reserve",
-    "translation": "长期处于后备队不会不满意",
+    "translation": "总是满足于充当后备",
     "stage": 5
   },
   {
@@ -27,7 +27,7 @@
     "key": "]-40%[/color] Fatigue",
     "original": "]-40%[/color] Fatigue",
     "translation": "]-40%[/color] 疲劳值",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Fatigue'"
   }
 ]

@@ -6261,7 +6261,7 @@
     "ID": 293406519,
     "key": "]25%[/color] less Fatigue.\n\nSplit Shield damage to shields is increased by [color=",
     "original": "]25%[/color] less Fatigue.\n\nSplit Shield damage to shields is increased by [color=",
-    "translation": "]25%[/color] 疲劳值积累。\n\n斧头对盾牌的分裂伤害会增加[color=",
+    "translation": "]25%[/color] 疲劳值积累。\n\n“裂盾”对盾牌造成的伤害会增加[color=",
     "stage": 1,
     "context": "'Master combat with axes and destroying shields. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nSplit Shield damage to shields is increased by [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] when used with axes.\n\nRound Swing gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.\n\nThe Longaxe no longer has a penalty for attacking targets directly adjacent.'"
   },

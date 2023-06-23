@@ -27,16 +27,16 @@
     "ID": 293420022,
     "key": "A wide swinging overhead attack performed for maximum reach rather than force that can hit two tiles in a straight line.",
     "original": "A wide swinging overhead attack performed for maximum reach rather than force that can hit two tiles in a straight line.",
-    "translation": "一种大幅度挥动的头顶攻击，打击力量可以在一条直线上最大达到两格距离。",
-    "stage": 1,
+    "translation": "一种侧重打击范围而不是力量的过顶击，可以攻击直线上的两个格子。",
+    "stage": 5,
     "context": "this.m.Description = 'A wide swinging overhead attack performed for maximum reach rather than force that can hit two tiles in a straight line.'"
   },
   {
     "ID": 293420023,
     "key": "Split",
     "original": "Split",
-    "translation": "劈击",
-    "stage": 1,
+    "translation": "竖劈",
+    "stage": 5,
     "context": "this.m.Name = 'Split'"
   },
   {
@@ -44,6 +44,6 @@
     "key": "Can hit up to 2 targets",
     "original": "Can hit up to 2 targets",
     "translation": "最多可以击中 2 个目标",
-    "stage": 1
+    "stage": 5
   }
 ]

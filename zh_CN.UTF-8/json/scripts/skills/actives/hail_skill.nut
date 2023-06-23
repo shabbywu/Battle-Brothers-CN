@@ -3,7 +3,7 @@
     "ID": 293420048,
     "key": "Aim for an opponent's head. Each striking head can hit or miss on its own for one third of the weapon's damage, and will strike over or around shield cover.",
     "original": "Aim for an opponent's head. Each striking head can hit or miss on its own for one third of the weapon's damage, and will strike over or around shield cover.",
-    "translation": "瞄准对手的头。 每一下攻击都以武器的三分之一的伤害命中或未命中，并能绕过盾牌的覆盖。",
+    "translation": "瞄准对手的头。三个头的每一个都可以单独命中并造成武器伤害的三分之一，并能绕过盾牌的掩护。",
     "stage": 1,
     "context": "this.m.Description = \"Aim for an opponent's head. Each striking head can hit or miss on its own for one third of the weapon's damage, and will strike over or around shield cover.\""
   },
@@ -11,15 +11,15 @@
     "ID": 293420049,
     "key": "Hail",
     "original": "Hail",
-    "translation": "冰雹",
-    "stage": 1,
+    "translation": "冰雹击",
+    "stage": 5,
     "context": "this.m.Name = 'Hail'"
   },
   {
     "ID": 293420050,
     "key": "]100%[/color] chance to hit the head",
     "original": "]100%[/color] chance to hit the head",
-    "translation": "]100%[/color] 命中几率 the head",
+    "translation": "]100%[/color] 几率命中头部'",
     "stage": 1,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to hit the head'"
   },
@@ -27,8 +27,8 @@
     "ID": 293420051,
     "key": "Will make three separate strikes for one third of the weapon's damage each.",
     "original": "Will make three separate strikes for one third of the weapon's damage each.",
-    "translation": "使用武器的三分之一伤害分别进行三下打击.",
-    "stage": 1
+    "translation": "使用武器伤害的三分之一分别进行三下打击",
+    "stage": 5
   },
   {
     "ID": 293420052,

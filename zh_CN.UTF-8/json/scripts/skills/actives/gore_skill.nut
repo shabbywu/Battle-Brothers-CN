@@ -35,8 +35,8 @@
     "ID": 293420041,
     "key": " has knocked back ",
     "original": " has knocked back ",
-    "translation": " 撞退了 ",
-    "stage": 1,
+    "translation": "撞退了",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' has knocked back ' + this.Const.UI.getColorizedEntityName(_target)"
   }
 ]

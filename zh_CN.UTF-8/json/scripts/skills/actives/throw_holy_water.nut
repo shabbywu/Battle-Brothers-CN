@@ -51,7 +51,7 @@
     "key": "Has a [color=",
     "original": "Has a [color=",
     "translation": "有 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has a [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] chance to hit bystanders at the same or lower height level as well.'"
   },
   {

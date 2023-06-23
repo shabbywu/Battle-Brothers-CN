@@ -26,7 +26,7 @@
     "key": "Has a [color=",
     "original": "Has a [color=",
     "translation": "有 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']90%[/color] chance to survive if struck down and not killed by a fatality'"
   },
   {

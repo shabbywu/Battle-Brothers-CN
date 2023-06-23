@@ -11,7 +11,7 @@
     "ID": 293422071,
     "key": "A close swing split this character's nose in two and made any attempt to breathe an exercise in swallowing copious amounts of blood.",
     "original": "A close swing split this character's nose in two and made any attempt to breathe an exercise in swallowing copious amounts of blood.",
-    "translation": "一个近距离的打击把这个角色的鼻子一分为二，并试图通过呼吸运动吞下大量的血液。",
+    "translation": "一次差点命中的挥砍将这个角色的鼻子一分为二，使得任何呼吸的尝试都像是在练习吞咽大量血液",
     "stage": 1,
     "context": "this.m.Description = \"A close swing split this character's nose in two and made any attempt to breathe an exercise in swallowing copious amounts of blood.\""
   },
@@ -19,7 +19,7 @@
     "ID": 293422072,
     "key": "Split Nose",
     "original": "Split Nose",
-    "translation": "鼻裂",
+    "translation": "鼻子劈裂",
     "stage": 1,
     "context": "this.m.Name = 'Split Nose'"
   }

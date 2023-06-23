@@ -18,7 +18,7 @@
     "key": "]+10[/color] Hitpoints",
     "original": "]+10[/color] Hitpoints",
     "translation": "]+10[/color] 生命值",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Hitpoints'"
   },
   {
@@ -26,7 +26,7 @@
     "key": "]-10[/color] Max Fatigue",
     "original": "]-10[/color] Max Fatigue",
     "translation": "]-10[/color] 最大疲劳值",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Max Fatigue'"
   },
   {
@@ -55,8 +55,8 @@
     "ID": 293422506,
     "key": "This character is more interested in pork chops than exercising, and will run out of breath more easily.",
     "original": "This character is more interested in pork chops than exercising, and will run out of breath more easily.",
-    "translation": "这个角色对猪排比对运动更感兴趣，而且更容易喘不过气来。",
-    "stage": 1,
+    "translation": "这个角色比起运动更喜欢猪排，很容易就会喘不上气。",
+    "stage": 5,
     "context": "this.m.Description = 'This character is more interested in pork chops than exercising, and will run out of breath more easily.'"
   },
   {

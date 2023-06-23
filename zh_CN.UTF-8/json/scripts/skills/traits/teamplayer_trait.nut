@@ -3,7 +3,7 @@
     "ID": 293422753,
     "key": "]50%[/color] lower chance to inflict friendly fire",
     "original": "]50%[/color] lower chance to inflict friendly fire",
-    "translation": "]50%[/color] 友军误伤率降低",
+    "translation": "]50%[/color] 几率不会造成友方伤害",
     "stage": 5,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] lower chance to inflict friendly fire'"
   },
@@ -12,7 +12,7 @@
     "key": "Has a [color=",
     "original": "Has a [color=",
     "translation": "有 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] lower chance to inflict friendly fire'"
   },
   {

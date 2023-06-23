@@ -48,7 +48,7 @@
     "key": "This character is tough as nails, shrugging off hits and blows.",
     "original": "This character is tough as nails, shrugging off hits and blows.",
     "translation": "这个角色像钉子一样坚硬，被击中就像挠痒痒。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'This character is tough as nails, shrugging off hits and blows.'"
   }
 ]

@@ -19,8 +19,8 @@
     "ID": 293419881,
     "key": "A heavy strike to make the enemy formation crumble. It can cover the distance of 2 tiles and can be used from behind the frontline, outside the range of most other melee weapons.",
     "original": "A heavy strike to make the enemy formation crumble. It can cover the distance of 2 tiles and can be used from behind the frontline, outside the range of most other melee weapons.",
-    "translation": "使敌人阵形瓦解的猛烈打击。它可以覆盖2格的距离，可以从前线后方使用，超出大多数其他近战武器的范围。",
-    "stage": 1,
+    "translation": "使敌人阵形崩裂的猛烈打击。它可以覆盖2格的距离，可以从前线后方使用，超出大多数其他近战武器的范围。",
+    "stage": 5,
     "context": "this.m.Description = 'A heavy strike to make the enemy formation crumble. It can cover the distance of 2 tiles and can be used from behind the frontline, outside the range of most other melee weapons.'"
   },
   {
@@ -60,7 +60,7 @@
     "key": "Crumble",
     "original": "Crumble",
     "translation": "崩裂",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Crumble'"
   },
   {

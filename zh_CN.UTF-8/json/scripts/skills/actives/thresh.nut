@@ -19,7 +19,7 @@
     "ID": 293420570,
     "key": "%[/color] chance to hit",
     "original": "%[/color] chance to hit",
-    "translation": "%[/color] 命中几率",
+    "translation": "%[/color] 命中惩罚",
     "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + hitchanceBonus + '%[/color] chance to hit'"
   },
@@ -50,7 +50,7 @@
     "ID": 293420574,
     "key": " for one turn",
     "original": " for one turn",
-    "translation": "持续 1 回合",
+    "translation": "，持续 1 回合",
     "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(tile.getEntity()) + ' for one turn'"
   },
@@ -59,14 +59,14 @@
     "key": "Has a [color=",
     "original": "Has a [color=",
     "translation": "有 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun on a hit'"
   },
   {
     "ID": 293420576,
     "key": " has stunned ",
     "original": " has stunned ",
-    "translation": "被击晕",
+    "translation": "击晕了",
     "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(tile.getEntity()) + ' for one turn'"
   },
@@ -74,7 +74,7 @@
     "ID": 293420577,
     "key": "Smashed",
     "original": "Smashed",
-    "translation": "被砸碎",
+    "translation": "砸碎",
     "stage": 5,
     "context": "this.m.KilledString = 'Smashed'"
   }

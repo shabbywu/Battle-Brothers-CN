@@ -11,7 +11,7 @@
     "ID": 293420891,
     "key": "Is always content with being in reserve",
     "original": "Is always content with being in reserve",
-    "translation": "长期处于后备队不会不满意",
+    "translation": "总是满足于充当后备",
     "stage": 5
   },
   {

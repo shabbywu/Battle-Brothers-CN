@@ -3,8 +3,8 @@
     "ID": 293420598,
     "key": "]-10%[/color] per tile of distance",
     "original": "]-10%[/color] per tile of distance",
-    "translation": "]-10%[/color] 每格距离",
-    "stage": 1,
+    "translation": "]-10%[/color] 命中惩罚",
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+30%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] per tile of distance'"
   },
   {
@@ -12,7 +12,7 @@
     "key": "[/color] tiles on even ground, more if throwing downhill",
     "original": "[/color] tiles on even ground, more if throwing downhill",
     "translation": "[/color] 格(在平坦地面上), 如果向低处投掷会更远。",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if throwing downhill'"
   },
   {
@@ -20,15 +20,15 @@
     "key": "]No spiked balls left[/color]",
     "original": "]No spiked balls left[/color]",
     "translation": "]没有流星锤剩余[/color]",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']No spiked balls left[/color]'"
   },
   {
     "ID": 293420601,
     "key": "Hurl spiked bolas towards your target. Can not be used while engaged in melee.",
     "original": "Hurl spiked bolas towards your target. Can not be used while engaged in melee.",
-    "translation": "向目标投掷流星锤。 不能在近战中使用。",
-    "stage": 1,
+    "translation": "向目标投掷流星锤。无法在卷入近战时使用。",
+    "stage": 5,
     "context": "this.m.Description = 'Hurl spiked bolas towards your target. Can not be used while engaged in melee.'"
   },
   {
@@ -44,7 +44,7 @@
     "key": "Throw Bola",
     "original": "Throw Bola",
     "translation": "掷流星锤",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Throw Bola'"
   },
   {
@@ -52,7 +52,7 @@
     "key": "[/color] spiked balls left",
     "original": "[/color] spiked balls left",
     "translation": "[/color] 流星锤剩余",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] spiked balls left'"
   },
   {
@@ -67,8 +67,8 @@
     "ID": 293420606,
     "key": "]+30%[/color] chance to hit, and [color=",
     "original": "]+30%[/color] chance to hit, and [color=",
-    "translation": "]+30%[/color] 命中几率, and [color=",
-    "stage": 1,
+    "translation": "]+30%[/color] 额外命中，同时每格距离有 [color=",
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+30%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] per tile of distance'"
   },
   {

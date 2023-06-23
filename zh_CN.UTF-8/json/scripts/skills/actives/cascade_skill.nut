@@ -4,14 +4,14 @@
     "key": "Will make three separate strikes for one third of the weapon's damage each",
     "original": "Will make three separate strikes for one third of the weapon's damage each",
     "translation": "将进行三次独立的攻击，每次造成武器伤害的三分之一。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293419845,
     "key": "Let loose a cascade of three striking heads on your opponent. Will strike over or around shield cover.",
     "original": "Let loose a cascade of three striking heads on your opponent. Will strike over or around shield cover.",
-    "translation": "向你的对手发起3次攻击。会绕过盾牌的覆盖。",
-    "stage": 1,
+    "translation": "向你的对手发起3次攻击。会绕过盾牌的掩护。",
+    "stage": 5,
     "context": "this.m.Description = 'Let loose a cascade of three striking heads on your opponent. Will strike over or around shield cover.'"
   },
   {
@@ -19,7 +19,7 @@
     "key": "Cascade",
     "original": "Cascade",
     "translation": "连环击",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Cascade'"
   },
   {
@@ -33,7 +33,7 @@
     "ID": 293419848,
     "key": "Smashed",
     "original": "Smashed",
-    "translation": "被砸碎",
+    "translation": "砸碎",
     "stage": 5,
     "context": "this.m.KilledString = 'Smashed'"
   }

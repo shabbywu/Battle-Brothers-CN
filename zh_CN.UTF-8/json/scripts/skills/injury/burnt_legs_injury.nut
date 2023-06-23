@@ -4,7 +4,7 @@
     "key": "Burn wounds on the legs limit mobility and make it painful to move quickly.",
     "original": "Burn wounds on the legs limit mobility and make it painful to move quickly.",
     "translation": "腿部的烧伤限制了行动能力，也使得快速移动很疼。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'Burn wounds on the legs limit mobility and make it painful to move quickly.'"
   },
   {

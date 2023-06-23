@@ -12,7 +12,7 @@
     "key": "Bite",
     "original": "Bite",
     "translation": "啃咬",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Bite'"
   }
 ]

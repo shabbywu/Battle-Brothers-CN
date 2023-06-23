@@ -3,8 +3,8 @@
     "ID": 293422683,
     "key": "]+15%[/color] chance to hit when wielding a two-handed or double-gripped melee weapon",
     "original": "]+15%[/color] chance to hit when wielding a two-handed or double-gripped melee weapon",
-    "translation": "]+15%[/color] 持有双手或双握近战武器攻击的命中率",
-    "stage": 1,
+    "translation": "]+15%[/color] 持有双手或双手握持近战武器攻击的命中率",
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+15%[/color] chance to hit when wielding a two-handed or double-gripped melee weapon'"
   },
   {
@@ -12,7 +12,7 @@
     "key": "Oath of Wrath",
     "original": "Oath of Wrath",
     "translation": "愤怒誓言",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Oath of Wrath'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "This character has taken an Oath of Wrath, and is sworn to smite even the greatest foe.",
     "original": "This character has taken an Oath of Wrath, and is sworn to smite even the greatest foe.",
     "translation": "该角色立下了愤怒誓言，发誓要斩杀任何敌人，即使他的敌人实力强大。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'This character has taken an Oath of Wrath, and is sworn to smite even the greatest foe.'"
   },
   {
@@ -44,6 +44,6 @@
     "key": "All kills are fatalities (if the weapon allows).",
     "original": "All kills are fatalities (if the weapon allows).",
     "translation": "所有的击杀都是必死击杀(如果武器允许)。",
-    "stage": 1
+    "stage": 5
   }
 ]

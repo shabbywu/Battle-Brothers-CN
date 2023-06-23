@@ -19,8 +19,8 @@
     "ID": 293420323,
     "key": "Impaled",
     "original": "Impaled",
-    "translation": "被刺穿",
-    "stage": 1,
+    "translation": "刺穿",
+    "stage": 5,
     "context": "this.m.KilledString = 'Impaled'"
   },
   {
@@ -43,7 +43,7 @@
     "ID": 293420326,
     "key": "Inflicts additional [color=",
     "original": "Inflicts additional [color=",
-    "translation": "造成额外的[color=",
+    "translation": "如果没有盔甲吸收，则造成额外的 [color=",
     "stage": 1,
     "context": "'Inflicts additional [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] bleeding damage over time if not stopped by armor'"
   },
@@ -52,14 +52,14 @@
     "key": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
     "original": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
     "translation": "]-15%[/color]攻击近身敌人的命中惩罚，因为武器过于笨重",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
     "ID": 293420328,
     "key": "[/color] bleeding damage over time if not stopped by armor",
     "original": "[/color] bleeding damage over time if not stopped by armor",
-    "translation": "[/color] 流血伤害，若未能被护甲阻止，则会持续造成伤害。",
+    "translation": "[/color] 点持续的流血伤害",
     "stage": 1,
     "context": "'Inflicts additional [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] bleeding damage over time if not stopped by armor'"
   },
@@ -75,7 +75,7 @@
     "ID": 293420330,
     "key": "A thrusting attack that can cover the distance of 2 tiles and can be used from behind the frontline, outside the range of most melee weapons, and can tear bleeding wounds if not stopped by armor.",
     "original": "A thrusting attack that can cover the distance of 2 tiles and can be used from behind the frontline, outside the range of most melee weapons, and can tear bleeding wounds if not stopped by armor.",
-    "translation": "一种插入式攻击，可以覆盖2格的距离，可以从前线后方使用，超出大多数近战武器的范围，如果不止步于盔甲的阻挡，可以造成撕裂流血的伤口。",
+    "translation": "一种穿透攻击，可以覆盖2格的距离，可以从前线后方使用，超出大多数近战武器的范围。并且如果没有盔甲吸收打击则可以造成流血的伤口。",
     "stage": 1,
     "context": "this.m.Description = 'A thrusting attack that can cover the distance of 2 tiles and can be used from behind the frontline, outside the range of most melee weapons, and can tear bleeding wounds if not stopped by armor.'"
   }

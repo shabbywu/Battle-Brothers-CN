@@ -3,8 +3,8 @@
     "ID": 293419895,
     "key": " dazed",
     "original": " dazed",
-    "translation": "茫然",
-    "stage": 1,
+    "translation": "茫然了",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' struck a blow that leaves ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + ' dazed'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "Has a [color=",
     "original": "Has a [color=",
     "translation": "有 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to daze on a hit'"
   },
   {
@@ -28,15 +28,15 @@
     "key": " struck a blow that leaves ",
     "original": " struck a blow that leaves ",
     "translation": "一记重击使",
-    "stage": 1,
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' struck a blow that leaves ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + ' dazed'"
   },
   {
     "ID": 293419899,
     "key": "A slow overhead strike performed with full force to cudgel a target to pulp. Anyone hit with a blow like this will be dazed and gasping for air, unable to put full force behind their blows for two turns.",
     "original": "A slow overhead strike performed with full force to cudgel a target to pulp. Anyone hit with a blow like this will be dazed and gasping for air, unable to put full force behind their blows for two turns.",
-    "translation": "一种缓慢的头顶打击，用全部力量把目标打成肉泥。任何人被这样的一击击中，都会感到茫然和神志不清，之后的2回合无法使出全力。",
-    "stage": 1,
+    "translation": "一种缓慢的过顶击，用全部力量把目标打成肉泥。任何人被这样的一击击中，都会感到茫然和神志不清，之后的2回合无法使出全力。",
+    "stage": 5,
     "context": "this.m.Description = 'A slow overhead strike performed with full force to cudgel a target to pulp. Anyone hit with a blow like this will be dazed and gasping for air, unable to put full force behind their blows for two turns.'"
   },
   {

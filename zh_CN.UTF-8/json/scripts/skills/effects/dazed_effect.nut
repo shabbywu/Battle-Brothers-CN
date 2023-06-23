@@ -28,7 +28,7 @@
     "key": " shook off being dazed thanks to his unnatural physiology",
     "original": " shook off being dazed thanks to his unnatural physiology",
     "translation": "非自然的生理功能帮助他摆脱茫然",
-    "stage": 1,
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(actor) + ' shook off being dazed thanks to his unnatural physiology'"
   },
   {
@@ -44,7 +44,7 @@
     "key": "This character has received so heavy a blow that they are dazed, confused and gasping for air. Will wear off in [color=",
     "original": "This character has received so heavy a blow that they are dazed, confused and gasping for air. Will wear off in [color=",
     "translation": "这个角色受到了如此沉重的打击，感到茫然、困惑和神志不清。剩余[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "return 'This character has received so heavy a blow that they are dazed, confused and gasping for air. Will wear off in [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] turn(s).';"
   },
   {

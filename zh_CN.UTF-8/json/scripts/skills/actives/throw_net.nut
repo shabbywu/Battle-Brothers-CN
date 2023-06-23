@@ -11,8 +11,8 @@
     "ID": 293420647,
     "key": "Throw a net on your target in order to prevent them from moving or defending themself effectively. Will always hit if the enemy isn't immune.",
     "original": "Throw a net on your target in order to prevent them from moving or defending themself effectively. Will always hit if the enemy isn't immune.",
-    "translation": "在你的目标上投掷一个网，以防止他们移动或有效地保护他们。如果敌人不能免疫，他就会被击中。",
-    "stage": 1,
+    "translation": "在你的目标上投掷一个网，以阻止他们移动或有效的保护自己。只要敌人不免疫就一定会命中。",
+    "stage": 5,
     "context": "this.m.Description = \"Throw a net on your target in order to prevent them from moving or defending themself effectively. Will always hit if the enemy isn't immune.\""
   },
   {
@@ -20,7 +20,7 @@
     "key": "Throw Net",
     "original": "Throw Net",
     "translation": "抛网",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Throw Net'"
   },
   {

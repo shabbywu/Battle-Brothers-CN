@@ -12,14 +12,14 @@
     "key": "the Fearless",
     "original": "the Fearless",
     "translation": "无畏者(the Fearless)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422519,
     "key": "There are a lot of old friends to meet in the afterlife. This character is not afraid of death.",
     "original": "There are a lot of old friends to meet in the afterlife. This character is not afraid of death.",
-    "translation": "来世有很多老朋友要认识。 这个人不怕死。",
-    "stage": 1,
+    "translation": "有许多老朋友还在死后世界等着我呢。这个人并不害怕死亡。",
+    "stage": 5,
     "context": "this.m.Description = 'There are a lot of old friends to meet in the afterlife. This character is not afraid of death.'"
   },
   {
@@ -27,7 +27,7 @@
     "key": "Fearless",
     "original": "Fearless",
     "translation": "无畏",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Fearless'"
   }
 ]

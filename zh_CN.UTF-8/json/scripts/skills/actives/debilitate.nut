@@ -20,7 +20,7 @@
     "key": "]-50%[/color]. Missing the target will waste the effect.",
     "original": "]-50%[/color]. Missing the target will waste the effect.",
     "translation": "]-50%[/color]。未命中目标将会浪费效果。",
-    "stage": 1,
+    "stage": 5,
     "context": "return 'Prepare your next attack to debilitate a target for one turn, reducing their ability to inflict damage by [color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color]. Missing the target will waste the effect.';"
   }
 ]

@@ -125,7 +125,7 @@
     "key": "Attribute Points",
     "original": "Attribute Points",
     "translation": "属性点",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422971,
@@ -139,28 +139,28 @@
     "key": "Cancel Ambition",
     "original": "Cancel Ambition",
     "translation": "取消野心",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422973,
     "key": "Center Camera (Shift)",
     "original": "Center Camera (Shift)",
     "translation": "相机居中 (Shift)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422974,
     "key": "Scene Scale",
     "original": "Scene Scale",
     "translation": "场景比例",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422975,
     "key": "[/color] crowns per day.\n\n[color=",
     "original": "[/color] crowns per day.\n\n[color=",
     "translation": "[/color] 克朗每天。\n\n[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'The amount of coin your mercenary company has. Used to pay every man daily, as well as to hire new men and purchase equipment.\n\nYou pay out [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyMoney + '[/color] crowns per day.\n\n[color=' + this.Const.UI.Color.NegativeValue + ']You have no more crowns to pay your men with! Earn some crowns fast or let some people go before they desert you one by one.[/color]'"
   },
   {
@@ -241,7 +241,7 @@
     "key": "No Crisis",
     "original": "No Crisis",
     "translation": "没有危机",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422987,
@@ -263,7 +263,7 @@
     "key": "Auto-End Turns",
     "original": "Auto-End Turns",
     "translation": "自动结束回合",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293422990,
@@ -818,7 +818,7 @@
     "key": "Barber",
     "original": "Barber",
     "translation": "理发店",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423067,
@@ -832,7 +832,7 @@
     "key": "Retinue (P)",
     "original": "Retinue (P)",
     "translation": "随从(P)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423069,
@@ -873,8 +873,8 @@
     "ID": 293423074,
     "key": "Open Inventory (I, C)",
     "original": "Open Inventory (I, C)",
-    "translation": "打开仓库 (R)",
-    "stage": 1
+    "translation": "打开仓库 (I, C)",
+    "stage": 5
   },
   {
     "ID": 293423075,
@@ -889,14 +889,14 @@
     "key": "Normal Speed (1)",
     "original": "Normal Speed (1)",
     "translation": "正常速度 (1)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423077,
     "key": "Set item to be repaired",
     "original": "Set item to be repaired",
     "translation": "设置物品为修理状态",
-    "stage": 1,
+    "stage": 5,
     "context": "_item.isToBeRepaired() ? 'Set item not to be repaired' : 'Set item to be repaired'"
   },
   {
@@ -904,7 +904,7 @@
     "key": "Leave Shop",
     "original": "Leave Shop",
     "translation": "离开商店",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423079,
@@ -918,21 +918,21 @@
     "key": "Daily Wage",
     "original": "Daily Wage",
     "translation": "日工资",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423081,
     "key": "Reset Equipment After Battle",
     "original": "Reset Equipment After Battle",
     "translation": "战斗后重置装备",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423082,
     "key": "[/color] days",
     "original": "[/color] days",
     "translation": "[/color] 天",
-    "stage": 1,
+    "stage": 5,
     "context": "'Will heal in [color=' + this.Const.UI.Color.NegativeValue + ']' + entity.getDaysWounded() + '[/color] days'"
   },
   {
@@ -962,7 +962,7 @@
     "key": "craft",
     "original": "craft",
     "translation": "craft",
-    "stage": 1,
+    "stage": -1,
     "context": "_itemOwner == 'craft'"
   },
   {
@@ -978,42 +978,42 @@
     "key": "Load the selected campaign.",
     "original": "Load the selected campaign.",
     "translation": "加载所选的战役。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423089,
     "key": "Arena",
     "original": "Arena",
     "translation": "竞技场",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423090,
     "key": "Toggle between showing and hiding red overlays that indicate tiles blocked with environmental objects (such as trees) that characters can not move onto.",
     "original": "Toggle between showing and hiding red overlays that indicate tiles blocked with environmental objects (such as trees) that characters can not move onto.",
     "translation": "在显示和隐藏红色覆盖层之间切换，红色覆盖层表示角色无法移动到的被环境物体（比如树）阻挡的格子。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423091,
     "key": "Show/Hide Trees (T)",
     "original": "Show/Hide Trees (T)",
     "translation": "显示/隐藏树 (T)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423092,
     "key": "Ranged Skill",
     "original": "Ranged Skill",
     "translation": "远程技能",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423093,
     "key": "Loot all Items",
     "original": "Loot all Items",
     "translation": "掠夺所有物品",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423094,
@@ -1048,7 +1048,7 @@
     "key": "The amount of coin your mercenary company has. Used to pay every man daily, as well as to hire new men and purchase equipment.\n\nYou pay out [color=",
     "original": "The amount of coin your mercenary company has. Used to pay every man daily, as well as to hire new men and purchase equipment.\n\nYou pay out [color=",
     "translation": "你的雇佣兵战团拥有的硬币数量。 用于每天支付每个人的工资，还可以雇新人和购买装备。\n\n你支付 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'The amount of coin your mercenary company has. Used to pay every man daily, as well as to hire new men and purchase equipment.\n\nYou pay out [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyMoney + '[/color] crowns per day.\n\n[color=' + this.Const.UI.Color.NegativeValue + ']You have no more crowns to pay your men with! Earn some crowns fast or let some people go before they desert you one by one.[/color]'"
   },
   {
@@ -1056,7 +1056,7 @@
     "key": "Damage",
     "original": "Damage",
     "translation": "伤害",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423100,
@@ -1099,7 +1099,7 @@
     "key": "Start Battle",
     "original": "Start Battle",
     "translation": "开始战斗",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423106,
@@ -1113,7 +1113,7 @@
     "key": "Unexplored Map",
     "original": "Unexplored Map",
     "translation": "未探索地图",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423108,
@@ -1135,7 +1135,7 @@
     "key": "]This DLC is missing. It's available for purchase on Steam and GOG![/color]",
     "original": "]This DLC is missing. It's available for purchase on Steam and GOG![/color]",
     "translation": "]此DLC缺失。 可以在Steam和GOG上购买！[/color]",
-    "stage": 1,
+    "stage": 5,
     "context": "ret.1[7] += '\n\n[color=' + this.Const.UI.Color.NegativeValue + \"]This DLC is missing. It's available for purchase on Steam and GOG![/color]\""
   },
   {
@@ -1150,7 +1150,7 @@
     "key": "Toggle Lock Camera (X)",
     "original": "Toggle Lock Camera (X)",
     "translation": "切换锁定相机 (X)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423113,
@@ -1165,7 +1165,7 @@
     "key": "Toggle Tracking Footprints (F)",
     "original": "Toggle Tracking Footprints (F)",
     "translation": "切换跟踪足迹 (F)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423115,
@@ -1179,14 +1179,14 @@
     "key": "Fletcher",
     "original": "Fletcher",
     "translation": "弓弩店",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423117,
     "key": "[/color] crowns per day. Your [color=",
     "original": "[/color] crowns per day. Your [color=",
     "translation": "[/color] 克朗每天。你的 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou pay out [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyMoney + '[/color] crowns per day. Your [color=' + this.Const.UI.Color.PositiveValue + ']' + money + '[/color] crowns will last you for [color=' + this.Const.UI.Color.PositiveValue + ']' + time + '[/color] more days.'"
   },
   {
@@ -1201,14 +1201,14 @@
     "key": "Show all items.",
     "original": "Show all items.",
     "translation": "显示所有物品。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423120,
     "key": "Pause the game.",
     "original": "Pause the game.",
     "translation": "暂停游戏。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423121,
@@ -1280,14 +1280,14 @@
     "key": "Quit this game and return to the main menu. Your progress here will not be saved.",
     "original": "Quit this game and return to the main menu. Your progress here will not be saved.",
     "translation": "退出游戏并返回主菜单。 你在这里的进度将不会被保存。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423131,
     "key": "Leave",
     "original": "Leave",
     "translation": "离开",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423132,
@@ -1309,7 +1309,7 @@
     "key": "Delete Campaign",
     "original": "Delete Campaign",
     "translation": "删除战役",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423135,
@@ -1323,14 +1323,14 @@
     "key": "Open Hiring Screen",
     "original": "Open Hiring Screen",
     "translation": "打开雇佣界面",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423137,
     "key": "Close this screen.",
     "original": "Close this screen.",
     "translation": "关闭此屏幕。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423138,
@@ -1351,7 +1351,7 @@
     "key": "Action Points",
     "original": "Action Points",
     "translation": "行动点",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423141,
@@ -1365,7 +1365,7 @@
     "key": "Lord of ",
     "original": "Lord of ",
     "translation": "领主",
-    "stage": 1,
+    "stage": 2,
     "context": "'Lord of ' + s.getName()"
   },
   {
@@ -1380,7 +1380,7 @@
     "key": "Change Name & Title",
     "original": "Change Name & Title",
     "translation": "更改名称和头衔",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423145,
@@ -1395,14 +1395,14 @@
     "key": "Dismiss",
     "original": "Dismiss",
     "translation": "解雇",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423147,
     "key": "Edge of Screen",
     "original": "Edge of Screen",
     "translation": "屏幕边缘",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423148,
@@ -1468,7 +1468,7 @@
     "key": "Quit Game",
     "original": "Quit Game",
     "translation": "退出游戏",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423157,
@@ -1505,7 +1505,7 @@
     "key": "Tryout Fee",
     "original": "Tryout Fee",
     "translation": "测验费",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423162,
@@ -1519,7 +1519,7 @@
     "key": "Leave tactical combat and return to the world map.",
     "original": "Leave tactical combat and return to the world map.",
     "translation": "离开战斗，返回世界地图。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423164,
@@ -1534,15 +1534,15 @@
     "key": "[/color] armor damage",
     "original": "[/color] armor damage",
     "translation": "[/color] 盔甲伤害",
-    "stage": 1,
+    "stage": 5,
     "context": "'Received [color=' + this.Const.UI.Color.NegativeValue + ']' + combatStats.DamageReceivedArmor + '[/color] armor damage'"
   },
   {
     "ID": 293423166,
     "key": "[/color] more days.",
     "original": "[/color] more days.",
-    "translation": "[/color] 多几天。",
-    "stage": 1,
+    "translation": "[/color] 天。",
+    "stage": 5,
     "context": "'The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou pay out [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyMoney + '[/color] crowns per day. Your [color=' + this.Const.UI.Color.PositiveValue + ']' + money + '[/color] crowns will last you for [color=' + this.Const.UI.Color.PositiveValue + ']' + time + '[/color] more days.'"
   },
   {
@@ -1550,7 +1550,7 @@
     "key": "Show/hide Mood",
     "original": "Show/hide Mood",
     "translation": "显示/隐藏情绪",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423168,
@@ -1564,7 +1564,7 @@
     "key": "Round",
     "original": "Round",
     "translation": "回合",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423170,
@@ -1578,7 +1578,7 @@
     "key": "Vision",
     "original": "Vision",
     "translation": "视野",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423172,
@@ -1592,7 +1592,7 @@
     "key": "Always Show Hitpoint Bars",
     "original": "Always Show Hitpoint Bars",
     "translation": "始终显示生命条",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423174,
@@ -1606,28 +1606,28 @@
     "key": "UI Scale",
     "original": "UI Scale",
     "translation": "用户界面规模",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423176,
     "key": "Travel",
     "original": "Travel",
     "translation": "旅行",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423177,
     "key": "Raise Camera Level (+)",
     "original": "Raise Camera Level (+)",
     "translation": "提高相机高度 (+)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423178,
     "key": "Obituary (O)",
     "original": "Obituary (O)",
     "translation": "讣告 (O)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423179,
@@ -1642,7 +1642,7 @@
     "key": "[/color] Medical Supplies.",
     "original": "[/color] Medical Supplies.",
     "translation": "[/color] 医疗用品",
-    "stage": 1,
+    "stage": 5,
     "context": "desc = desc + heal.MedicineMax + '[/color] Medical Supplies.'"
   },
   {
@@ -1650,7 +1650,7 @@
     "key": "Armorer",
     "original": "Armorer",
     "translation": "盔甲店",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423182,
@@ -1693,7 +1693,7 @@
     "key": "Undead Scourge",
     "original": "Undead Scourge",
     "translation": "亡灵天灾",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423188,
@@ -1721,7 +1721,7 @@
     "key": "blueprint",
     "original": "blueprint",
     "translation": "blueprint",
-    "stage": 1,
+    "stage": -1,
     "context": "_itemOwner == 'blueprint'"
   },
   {
@@ -1729,7 +1729,7 @@
     "key": "Always Hide Trees",
     "original": "Always Hide Trees",
     "translation": "总是隐藏树木",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423193,
@@ -1772,28 +1772,28 @@
     "key": "Will heal by tomorrow",
     "original": "Will heal by tomorrow",
     "translation": "明天就会痊愈",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423199,
     "key": "Show details of your active contract.",
     "original": "Show details of your active contract.",
     "translation": "显示当前合同的详细信息。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423200,
     "key": "Determines the base probability of hitting a target with a ranged attack, such as with bows and crossbows. Can be increased as the character gains experience.",
     "original": "Determines the base probability of hitting a target with a ranged attack, such as with bows and crossbows. Can be increased as the character gains experience.",
-    "translation": "确定使用远程攻击击中目标的基本概率，比如使用弓和弩。 可以随着角色获得经验而增加。",
-    "stage": 1
+    "translation": "决定使用远程攻击击中目标的基本概率，比如使用弓和弩。可以随着角色获得经验而增加。",
+    "stage": 5
   },
   {
     "ID": 293423201,
     "key": "[/color] crowns will last you for [color=",
     "original": "[/color] crowns will last you for [color=",
     "translation": "[/color] 克朗能让你支撑 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou pay out [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyMoney + '[/color] crowns per day. Your [color=' + this.Const.UI.Color.PositiveValue + ']' + money + '[/color] crowns will last you for [color=' + this.Const.UI.Color.PositiveValue + ']' + time + '[/color] more days.'"
   },
   {
@@ -1993,7 +1993,7 @@
     "key": "]This DLC is missing. It's available for free on Steam and GOG![/color]",
     "original": "]This DLC is missing. It's available for free on Steam and GOG![/color]",
     "translation": "]此DLC缺失。 在Steam和GOG上免费提供！[/color]",
-    "stage": 1,
+    "stage": 5,
     "context": "ret.1[7] += '\n\n[color=' + this.Const.UI.Color.NegativeValue + \"]This DLC is missing. It's available for free on Steam and GOG![/color]\""
   },
   {
@@ -2001,7 +2001,7 @@
     "key": "End Turn (Enter, F)",
     "original": "End Turn (Enter, F)",
     "translation": "结束回合 (回车键，F)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423231,
@@ -2373,7 +2373,7 @@
     "key": "The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou pay out [color=",
     "original": "The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou pay out [color=",
     "translation": "你的雇佣兵战团拥有的硬币数量。 用于每天中午给每个人发工资，还可以雇新人和购买装备。\n\n你支付 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou pay out [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyMoney + '[/color] crowns per day. Your [color=' + this.Const.UI.Color.PositiveValue + ']' + money + '[/color] crowns will last you for [color=' + this.Const.UI.Color.PositiveValue + ']' + time + '[/color] more days.'"
   },
   {
@@ -2502,7 +2502,7 @@
     "key": "Roster (I, C)",
     "original": "Roster (I, C)",
     "translation": "名册 (I, C)",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293423301,
@@ -2522,8 +2522,8 @@
     "ID": 293423303,
     "key": "Veteran's Lessons",
     "original": "Veteran's Lessons",
-    "translation": "老兵的功课",
-    "stage": 1
+    "translation": "老兵的课程",
+    "stage": 5
   },
   {
     "ID": 293423304,
@@ -2545,7 +2545,7 @@
     "key": "integer",
     "original": "integer",
     "translation": "integer",
-    "stage": 1,
+    "stage": -1,
     "context": "typeof _followerID == 'integer'"
   },
   {
