@@ -3,8 +3,8 @@
     "ID": 293420155,
     "key": "]100%[/color] chance to hit the head",
     "original": "]100%[/color] chance to hit the head",
-    "translation": "]100%[/color] 命中几率 the head",
-    "stage": 1,
+    "translation": "]100%[/color] 几率命中头部",
+    "stage": 5,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to hit the head'"
   },
   {
@@ -19,15 +19,15 @@
     "key": "Has a [color=",
     "original": "Has a [color=",
     "translation": "有 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to hit the head'"
   },
   {
     "ID": 293420158,
     "key": "Aim for an opponent's head. Somewhat unpredictable in damage, but able to strike over or around shield cover with a bit of luck.",
     "original": "Aim for an opponent's head. Somewhat unpredictable in damage, but able to strike over or around shield cover with a bit of luck.",
-    "translation": "瞄准对手的头。 伤害有点难以估计，但有一点运气能够绕过盾牌的覆盖。",
-    "stage": 1,
+    "translation": "瞄准对手的头。 伤害有点难以估计，但有一点运气能够绕过盾牌的掩护。",
+    "stage": 5,
     "context": "this.m.Description = \"Aim for an opponent's head. Somewhat unpredictable in damage, but able to strike over or around shield cover with a bit of luck.\""
   },
   {
@@ -35,7 +35,7 @@
     "key": "Lash",
     "original": "Lash",
     "translation": "抽打",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Lash'"
   }
 ]

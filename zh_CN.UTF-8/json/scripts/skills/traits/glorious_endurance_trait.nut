@@ -19,7 +19,7 @@
     "key": "%[/color] of any damage",
     "original": "%[/color] of any damage",
     "translation": "%[/color]",
-    "stage": 1,
+    "stage": 5,
     "context": "'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']' + 1.0 - this.m.DamageReduction * 100 + '%[/color] of any damage'"
   },
   {
@@ -27,7 +27,7 @@
     "key": "Glorious Endurance",
     "original": "Glorious Endurance",
     "translation": "荣耀耐力",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Glorious Endurance'"
   },
   {
@@ -35,7 +35,7 @@
     "key": "Receives only [color=",
     "original": "Receives only [color=",
     "translation": "仅受到所有伤害的 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']' + 1.0 - this.m.DamageReduction * 100 + '%[/color] of any damage'"
   }
 ]

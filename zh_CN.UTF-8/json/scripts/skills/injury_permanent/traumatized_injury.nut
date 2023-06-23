@@ -4,7 +4,7 @@
     "key": "]-30%[/color] Initiative",
     "original": "]-30%[/color] Initiative",
     "translation": "]-30%[/color] 主动性",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-30%[/color] Initiative'"
   },
   {
@@ -12,14 +12,14 @@
     "key": "]-40%[/color] Resolve",
     "original": "]-40%[/color] Resolve",
     "translation": "]-40%[/color] 决心",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Resolve'"
   },
   {
     "ID": 293422129,
     "key": "Is always content with being in reserve",
     "original": "Is always content with being in reserve",
-    "translation": "长期处于后备队不会不满意",
+    "translation": "总是满足于充当后备",
     "stage": 5
   },
   {
@@ -35,7 +35,7 @@
     "key": "Traumatized",
     "original": "Traumatized",
     "translation": "精神创伤",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Traumatized'"
   }
 ]

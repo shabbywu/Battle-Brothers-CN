@@ -27,16 +27,16 @@
     "ID": 293420533,
     "key": "Swinging the weapon in a wide arc that hits three adjacent tiles in counter-clockwise order. Be careful around your own men unless you want to relieve your payroll!",
     "original": "Swinging the weapon in a wide arc that hits three adjacent tiles in counter-clockwise order. Be careful around your own men unless you want to relieve your payroll!",
-    "translation": "以大弧度挥动武器，以逆时针顺序攻击三个相邻的格子。 除非你想减薪，否则要小心身边的人！",
-    "stage": 1,
+    "translation": "大弧度挥动武器，以逆时针顺序攻击三个相邻的格子。除非你想减少薪酬支出，否则注意周围的自己人！",
+    "stage": 5,
     "context": "this.m.Description = 'Swinging the weapon in a wide arc that hits three adjacent tiles in counter-clockwise order. Be careful around your own men unless you want to relieve your payroll!'"
   },
   {
     "ID": 293420534,
     "key": "Swing",
     "original": "Swing",
-    "translation": "挥击",
-    "stage": 1,
+    "translation": "挥斩",
+    "stage": 5,
     "context": "this.m.Name = 'Swing'"
   },
   {
@@ -44,6 +44,6 @@
     "key": "Can hit up to 3 targets",
     "original": "Can hit up to 3 targets",
     "translation": "最多可以击中 3 个目标",
-    "stage": 1
+    "stage": 5
   }
 ]

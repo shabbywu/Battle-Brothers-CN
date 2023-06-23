@@ -11,8 +11,8 @@
     "ID": 293420096,
     "key": "Impaled",
     "original": "Impaled",
-    "translation": "被刺穿",
-    "stage": 1,
+    "translation": "刺穿",
+    "stage": 5,
     "context": "this.m.KilledString = 'Impaled'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "A thrusting attack that can cover the distance of 2 tiles and can be used from behind the frontline, outside the range of most melee weapons.",
     "original": "A thrusting attack that can cover the distance of 2 tiles and can be used from behind the frontline, outside the range of most melee weapons.",
     "translation": "一种穿透攻击，可以覆盖2格的距离，可以从前线后方使用，超出大多数近战武器的范围。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'A thrusting attack that can cover the distance of 2 tiles and can be used from behind the frontline, outside the range of most melee weapons.'"
   },
   {
@@ -44,7 +44,7 @@
     "key": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
     "original": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
     "translation": "]-15%[/color]攻击近身敌人的命中惩罚，因为武器过于笨重",
-    "stage": 1,
+    "stage": 5,
     "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
@@ -59,8 +59,8 @@
     "ID": 293420102,
     "key": "Impale",
     "original": "Impale",
-    "translation": "刺穿",
-    "stage": 1,
+    "translation": "刺击",
+    "stage": 5,
     "context": "this.m.Name = 'Impale'"
   }
 ]

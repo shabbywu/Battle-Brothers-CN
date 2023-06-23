@@ -3,8 +3,8 @@
     "ID": 293419904,
     "key": " uses Darkflight",
     "original": " uses Darkflight",
-    "translation": "使用黑暗奔跑。",
-    "stage": 1,
+    "translation": "使用了黑暗飞行",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses Darkflight'"
   },
   {

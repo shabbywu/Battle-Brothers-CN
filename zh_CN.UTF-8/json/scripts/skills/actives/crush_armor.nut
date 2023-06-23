@@ -3,7 +3,7 @@
     "ID": 293419888,
     "key": "Using the weapon to batter, deform, rip and otherwise render the target's armor unusable with great effect. Although the impact will be felt through the thickest of armor, it won't inflict the most injury to the wearer.",
     "original": "Using the weapon to batter, deform, rip and otherwise render the target's armor unusable with great effect. Although the impact will be felt through the thickest of armor, it won't inflict the most injury to the wearer.",
-    "translation": "使用武器打击、变形、撕开或以其他方式使目标的盔甲失去作用，效果非常好。 尽管最厚的盔甲也能感受到冲击力，但它不会对穿戴者造成太大的伤害。",
+    "translation": "使用武器以极高的效率的方式捶打、弯折、撕裂等方式使目标的盔甲失去作用。 尽管最厚的盔甲也能感受到冲击力，但这并不会对穿戴者造成太大伤害。",
     "stage": 5,
     "context": "this.m.Description = \"Using the weapon to batter, deform, rip and otherwise render the target's armor unusable with great effect. Although the impact will be felt through the thickest of armor, it won't inflict the most injury to the wearer.\""
   },
@@ -36,7 +36,7 @@
     "key": "Destroy Armor",
     "original": "Destroy Armor",
     "translation": "摧毁盔甲",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Destroy Armor'"
   },
   {

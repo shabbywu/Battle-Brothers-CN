@@ -4,7 +4,7 @@
     "key": "Load Mortar",
     "original": "Load Mortar",
     "translation": "装填臼炮",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Load Mortar'"
   }
 ]

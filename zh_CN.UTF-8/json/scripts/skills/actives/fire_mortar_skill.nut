@@ -19,7 +19,7 @@
     "key": "Fire Mortar",
     "original": "Fire Mortar",
     "translation": "发射臼炮",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Fire Mortar'"
   },
   {

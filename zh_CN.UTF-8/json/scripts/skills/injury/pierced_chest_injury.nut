@@ -20,7 +20,7 @@
     "key": "A piercing attack has punctured the chest, injured muscle tissue and grazed the ribs. Although no vital organs have been hit, it's still painful to just breathe.",
     "original": "A piercing attack has punctured the chest, injured muscle tissue and grazed the ribs. Although no vital organs have been hit, it's still painful to just breathe.",
     "translation": "一次刺击刺穿了胸部，损伤了肌肉组织并划伤了肋骨。尽管重要器官没有被击中，但呼吸起来依旧十分痛苦。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = \"A piercing attack has punctured the chest, injured muscle tissue and grazed the ribs. Although no vital organs have been hit, it's still painful to just breathe.\""
   }
 ]

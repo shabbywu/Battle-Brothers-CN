@@ -4,7 +4,7 @@
     "key": "]-50%[/color] Melee Defense",
     "original": "]-50%[/color] Melee Defense",
     "translation": "]-50%[/color] 近战防御",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Melee Defense'"
   },
   {
@@ -12,7 +12,7 @@
     "key": "]-50%[/color] Melee Skill",
     "original": "]-50%[/color] Melee Skill",
     "translation": "]-50%[/color] 近战技能",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Melee Skill'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "]-50%[/color] Ranged Defense",
     "original": "]-50%[/color] Ranged Defense",
     "translation": "]-50%[/color] 远程防御",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Ranged Defense'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "]-50%[/color] Initiative",
     "original": "]-50%[/color] Initiative",
     "translation": "]-50%[/color] 主动性",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Initiative'"
   },
   {
@@ -52,14 +52,14 @@
     "key": "]-50%[/color] Ranged Skill",
     "original": "]-50%[/color] Ranged Skill",
     "translation": "]-50%[/color] 远程技能",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Ranged Skill'"
   },
   {
     "ID": 293422048,
     "key": "A severe concussion makes it hard to focus, see or even walk straight. Not to mention the nausea and in some cases also amnesia.",
     "original": "A severe concussion makes it hard to focus, see or even walk straight. Not to mention the nausea and in some cases also amnesia.",
-    "translation": "严重的脑震荡使人很难集中注意力，看不见东西，甚至走直线。更不用说恶心，在某些情况下还有健忘症。",
+    "translation": "严重的脑震荡使人很难集中注意力和看东西，甚至走直线。更不用说恶心，在某些情况下还有失忆。",
     "stage": 1,
     "context": "this.m.Description = 'A severe concussion makes it hard to focus, see or even walk straight. Not to mention the nausea and in some cases also amnesia.'"
   }

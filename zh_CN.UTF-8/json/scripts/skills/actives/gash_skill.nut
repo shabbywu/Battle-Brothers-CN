@@ -3,8 +3,8 @@
     "ID": 293419998,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有 [color=",
-    "stage": 1,
+    "translation": "造成伤势的阈值判断降低 [color=",
+    "stage": 5,
     "context": "'Has a [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] lower threshold to inflict injuries'"
   },
   {
@@ -12,7 +12,7 @@
     "key": "Gash",
     "original": "Gash",
     "translation": "划砍",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Gash'"
   },
   {
@@ -27,16 +27,16 @@
     "ID": 293420001,
     "key": "]50%[/color] lower threshold to inflict injuries",
     "original": "]50%[/color] lower threshold to inflict injuries",
-    "translation": "]50%[/color] 降低造成伤害的门槛",
-    "stage": 1,
+    "translation": "]50%[/color]",
+    "stage": 5,
     "context": "'Has a [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] lower threshold to inflict injuries'"
   },
   {
     "ID": 293420002,
     "key": "A well-placed slashing attack that is likely to inflict debilitating injuries.",
     "original": "A well-placed slashing attack that is likely to inflict debilitating injuries.",
-    "translation": "一个很有可能造成部位削弱损伤的割伤攻击。",
-    "stage": 1,
+    "translation": "一种瞄准要害划砍攻击，更可能造成严重的伤势。",
+    "stage": 5,
     "context": "this.m.Description = 'A well-placed slashing attack that is likely to inflict debilitating injuries.'"
   },
   {
@@ -51,8 +51,8 @@
     "ID": 293420004,
     "key": "]33%[/color] lower threshold to inflict injuries",
     "original": "]33%[/color] lower threshold to inflict injuries",
-    "translation": "]降低33%[/color] 造成伤害的下限",
-    "stage": 1,
+    "translation": "]33%[/color]",
+    "stage": 5,
     "context": "'Has a [color=' + this.Const.UI.Color.NegativeValue + ']33%[/color] lower threshold to inflict injuries'"
   },
   {
@@ -60,7 +60,7 @@
     "key": "Cut down",
     "original": "Cut down",
     "translation": "砍倒",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.KilledString = 'Cut down'"
   }
 ]

@@ -11,16 +11,16 @@
     "ID": 293422168,
     "key": " points",
     "original": " points",
-    "translation": "点数",
-    "stage": 1,
+    "translation": "点生命",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + this.Math.min(actor.getHitpointsMax() - actor.getHitpoints(), this.Math.round(_damageInflictedHitpoints * 1.0)) + ' points'"
   },
   {
     "ID": 293422169,
     "key": " heals for ",
     "original": " heals for ",
-    "translation": "治疗量为",
-    "stage": 1,
+    "translation": "恢复了",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + this.Math.min(actor.getHitpointsMax() - actor.getHitpoints(), this.Math.round(_damageInflictedHitpoints * 1.0)) + ' points'"
   }
 ]

@@ -39,8 +39,8 @@
     "ID": 293422466,
     "key": "I'm not dead yet! This character doesn't care about receiving injuries and will fight on regardless.",
     "original": "I'm not dead yet! This character doesn't care about receiving injuries and will fight on regardless.",
-    "translation": "我还没死！ 这个角色不在乎受伤，无论如何都会继续战斗。",
-    "stage": 1,
+    "translation": "我还没死呢！这个角色不在乎受伤，无论如何都会继续战斗。",
+    "stage": 5,
     "context": "this.m.Description = \"I'm not dead yet! This character doesn't care about receiving injuries and will fight on regardless.\""
   }
 ]

@@ -59,7 +59,7 @@
     "ID": 293403734,
     "key": "]+15%[/color] chance to hit when using two-handed or double-gripped melee weapons, and their attacks will always cause fatalities if able.",
     "original": "]+15%[/color] chance to hit when using two-handed or double-gripped melee weapons, and their attacks will always cause fatalities if able.",
-    "translation": "]+15%[/color] 使用双手或双手握持的近战武器的命中率加成。并且只要武器允许，他们的所有杀敌都将是必死击杀（如斩首，碎颅等",
+    "translation": "]+15%[/color] 使用双手或双手握持的近战武器的命中率。并且只要武器允许，他们的所有击杀都将是必死击杀。",
     "stage": 1,
     "context": "this.m.OathBoonText = 'Your men have [color=' + this.Const.UI.Color.PositiveValue + ']+15%[/color] chance to hit when using two-handed or double-gripped melee weapons, and their attacks will always cause fatalities if able.'"
   },

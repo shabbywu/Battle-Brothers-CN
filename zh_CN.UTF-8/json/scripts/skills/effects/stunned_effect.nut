@@ -4,7 +4,7 @@
     "key": "Stunned",
     "original": "Stunned",
     "translation": "昏迷",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Stunned'"
   },
   {
@@ -12,7 +12,7 @@
     "key": " shook off being stunned thanks to his unnatural physiology",
     "original": " shook off being stunned thanks to his unnatural physiology",
     "translation": "非自然的生理功能帮助他免受击晕",
-    "stage": 1,
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' shook off being stunned thanks to his unnatural physiology'"
   },
   {
