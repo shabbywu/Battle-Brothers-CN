@@ -10,7 +10,7 @@
     "ID": 293417473,
     "key": "This elixir, when consumed, brightens up the night as if it were the mid of day. Drink responsibly. Lasts for the next battle.",
     "original": "This elixir, when consumed, brightens up the night as if it were the mid of day. Drink responsibly. Lasts for the next battle.",
-    "translation": "喝了这瓶炼金药后，夜晚也似中午一样明亮。 可信赖的饮品。 持续到下一场战斗。",
+    "translation": "饮用这瓶药剂之后，夜晚也似中午一样明亮。理性饮用，后果自负。持续到下一场战斗。",
     "stage": 1,
     "context": "this.m.Description = 'This elixir, when consumed, brightens up the night as if it were the mid of day. Drink responsibly. Lasts for the next battle.'"
   },
@@ -32,7 +32,7 @@
     "ID": 293417476,
     "key": "Night Owl Elixir",
     "original": "Night Owl Elixir",
-    "translation": "夜莺炼金药",
+    "translation": "夜枭药剂",
     "stage": 1,
     "context": "this.m.Name = 'Night Owl Elixir'"
   }

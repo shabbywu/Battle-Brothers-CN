@@ -3,7 +3,7 @@
     "ID": 293419749,
     "key": "Fenrir the Warhound",
     "original": "Fenrir the Warhound",
-    "translation": "芬里尔战犬 (Fenrir the Warhound)",
+    "translation": "芬里尔战獒",
     "stage": 1,
     "context": "warhound.m.Name = 'Fenrir the Warhound'"
   },

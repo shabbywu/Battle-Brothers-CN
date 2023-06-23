@@ -12,7 +12,7 @@
     "key": "A large padded cloth cap also covering the neck.",
     "original": "A large padded cloth cap also covering the neck.",
     "translation": "带有内衬且可以覆盖住脖子的皮帽。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'A large padded cloth cap also covering the neck.'"
   }
 ]

@@ -3,8 +3,8 @@
     "ID": 293422080,
     "key": "Stabbed Guts",
     "original": "Stabbed Guts",
-    "translation": "肠刺伤",
-    "stage": 1,
+    "translation": "肠胃捅伤",
+    "stage": 5,
     "context": "this.m.Name = 'Stabbed Guts'"
   },
   {
@@ -12,7 +12,7 @@
     "key": "]-40%[/color] Max Fatigue",
     "original": "]-40%[/color] Max Fatigue",
     "translation": "]-40%[/color] 最大疲劳值",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Max Fatigue'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "]-40%[/color] Hitpoints",
     "original": "]-40%[/color] Hitpoints",
     "translation": "]-40%[/color] 生命值",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Hitpoints'"
   }
 ]

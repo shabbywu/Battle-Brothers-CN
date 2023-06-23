@@ -18,7 +18,7 @@
     "ID": 293411801,
     "key": "You afraid of snakes? A lot have been seen near %settlement% lately, some as long as my arm, some as long as a whole trader's wagon!",
     "original": "You afraid of snakes? A lot have been seen near %settlement% lately, some as long as my arm, some as long as a whole trader's wagon!",
-    "translation": "你怕蛇吗？最近在 %settlement% 附近看到了很多东西，有的像我的胳膊那么长，有的像整个商人的载重货车那么长！",
+    "translation": "你怕蛇吗？最近在 %settlement% 附近发现了不少，有的像我的胳膊那么长，有的像整个商人的货车那么长！",
     "stage": 1
   },
   {
@@ -26,7 +26,7 @@
     "key": "Moving Sands",
     "original": "Moving Sands",
     "translation": "流沙",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Moving Sands'"
   },
   {
@@ -41,7 +41,7 @@
     "ID": 293411804,
     "key": "The area around the city has been infested with swarming serpents, some especially large. Trade has suffered and goods have become more rare and expensive.",
     "original": "The area around the city has been infested with swarming serpents, some especially large. Trade has suffered and goods have become more rare and expensive.",
-    "translation": "城市周围地区到处都是成群的大蛇，有些蛇特别大。贸易受到影响，商品变得稀缺和昂贵。",
+    "translation": "城市周围地区到处都是成群的大蛇，有些特别巨大。贸易受到影响，商品变得稀缺和昂贵。",
     "stage": 1,
     "context": "this.m.Description = 'The area around the city has been infested with swarming serpents, some especially large. Trade has suffered and goods have become more rare and expensive.'"
   }

@@ -19,8 +19,8 @@
     "ID": 293421584,
     "key": " is unaffected by acid thanks to his unnatural physiology",
     "original": " is unaffected by acid thanks to his unnatural physiology",
-    "translation": "由于他的不自然生理特征，他对酸不受影响。",
-    "stage": 1,
+    "translation": "非自然的生理功能帮助他免受酸液影响",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' is unaffected by acid thanks to his unnatural physiology'"
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293421586,
     "key": "'s body has been sprayed with acid",
     "original": "'s body has been sprayed with acid",
-    "translation": "的身体上喷了酸。",
-    "stage": 1,
+    "translation": "的身体被喷溅了酸液",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + \"'s body has been sprayed with acid\""
   },
   {
@@ -44,15 +44,15 @@
     "key": "[/color] turn(s).",
     "original": "[/color] turn(s).",
     "translation": "[/color] 回合。",
-    "stage": 1,
+    "stage": 5,
     "context": "return \"This character's armor has been sprayed with a Lindwurm's acidic blood, which is now slowly eating away at it for another [color=\" + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] turn(s).';"
   },
   {
     "ID": 293421588,
     "key": "Sprayed with Acid",
     "original": "Sprayed with Acid",
-    "translation": "喷酸",
-    "stage": 1,
+    "translation": "沾上酸液",
+    "stage": 5,
     "context": "this.m.Name = 'Sprayed with Acid'"
   }
 ]

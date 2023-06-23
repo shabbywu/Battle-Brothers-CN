@@ -4,7 +4,7 @@
     "key": "]-25%[/color] Ranged Defense",
     "original": "]-25%[/color] Ranged Defense",
     "translation": "]-25%[/color] 远程防御",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Ranged Defense'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "]-25%[/color] Initiative",
     "original": "]-25%[/color] Initiative",
     "translation": "]-25%[/color] 主动性",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Initiative'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "]-25%[/color] Melee Defense",
     "original": "]-25%[/color] Melee Defense",
     "translation": "]-25%[/color] 近战防御",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Melee Defense'"
   },
   {
@@ -52,7 +52,7 @@
     "key": "]+25%[/color] Resolve",
     "original": "]+25%[/color] Resolve",
     "translation": "]+25%[/color] 决心",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] Resolve'"
   },
   {
@@ -60,7 +60,7 @@
     "key": "]-25%[/color] Ranged Skill",
     "original": "]-25%[/color] Ranged Skill",
     "translation": "]-25%[/color] 远程技能",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Ranged Skill'"
   },
   {
@@ -68,7 +68,7 @@
     "key": "]-25%[/color] Melee Skill",
     "original": "]-25%[/color] Melee Skill",
     "translation": "]-25%[/color] 近战技能",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Melee Skill'"
   },
   {

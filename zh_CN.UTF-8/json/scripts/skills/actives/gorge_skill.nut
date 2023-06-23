@@ -3,8 +3,8 @@
     "ID": 293420042,
     "key": "Gorge",
     "original": "Gorge",
-    "translation": "暴食",
-    "stage": 1,
+    "translation": "吞咬",
+    "stage": 5,
     "context": "this.m.Name = 'Gorge'"
   }
 ]
