@@ -11,16 +11,16 @@
     "ID": 293421864,
     "key": "A broken leg severely limits mobility and can take a long time to heal.",
     "original": "A broken leg severely limits mobility and can take a long time to heal.",
-    "translation": "断腿严重限制了活动性，需要很长时间才能痊愈。",
-    "stage": 1,
+    "translation": "腿骨断裂极大的限制了活动性，并且需要很长时间才能痊愈。",
+    "stage": 5,
     "context": "this.m.Description = 'A broken leg severely limits mobility and can take a long time to heal.'"
   },
   {
     "ID": 293421865,
     "key": "Broken Leg",
     "original": "Broken Leg",
-    "translation": "腿折断",
-    "stage": 1,
+    "translation": "腿骨断裂",
+    "stage": 5,
     "context": "this.m.Name = 'Broken Leg'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "]-40%[/color] Initiative",
     "original": "]-40%[/color] Initiative",
     "translation": "]-40%[/color] 主动性",
-    "stage": 1,
+    "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Initiative'"
   }
 ]

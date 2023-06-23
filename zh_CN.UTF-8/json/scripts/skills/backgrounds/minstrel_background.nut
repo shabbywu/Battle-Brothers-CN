@@ -78,7 +78,7 @@
     "key": "Minstrel",
     "original": "Minstrel",
     "translation": "吟游诗人",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Minstrel'"
   },
   {

@@ -36,7 +36,7 @@
     "key": "Bled to death",
     "original": "Bled to death",
     "translation": "流血至死",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.KilledString = 'Bled to death'"
   },
   {

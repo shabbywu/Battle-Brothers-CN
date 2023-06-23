@@ -31,7 +31,7 @@
     "ID": 293417340,
     "key": "Giant serpents slithering about.",
     "original": "Giant serpents slithering about.",
-    "translation": "巨大的大蛇在游荡。",
+    "translation": "巨大的蛇在游荡。",
     "stage": 1
   },
   {
@@ -39,7 +39,7 @@
     "key": "Hexen",
     "original": "Hexen",
     "translation": "女巫",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293417342,

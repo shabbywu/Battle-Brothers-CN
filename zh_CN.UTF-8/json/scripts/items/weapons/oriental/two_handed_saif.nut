@@ -4,7 +4,7 @@
     "key": "Two-Handed Saif",
     "original": "Two-Handed Saif",
     "translation": "双手赛义夫弯刀",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Two-Handed Saif'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "A long version of the Saif wielded with both hands. The curved blade can cleave gruesome wounds.",
     "original": "A long version of the Saif wielded with both hands. The curved blade can cleave gruesome wounds.",
     "translation": "赛义夫弯刀的双手长版，弯曲的刀锋能够劈出可怕的伤口。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'A long version of the Saif wielded with both hands. The curved blade can cleave gruesome wounds.'"
   }
 ]

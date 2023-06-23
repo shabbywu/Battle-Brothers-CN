@@ -20,7 +20,7 @@
     "key": "[/color] more turn(s), and unable to act.",
     "original": "[/color] more turn(s), and unable to act.",
     "translation": "[/color] 回合, 期间无法行动。",
-    "stage": 1,
+    "stage": 5,
     "context": "return 'This character is stunned or otherwise incapacitated for [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] more turn(s), and unable to act.';"
   },
   {
@@ -28,7 +28,7 @@
     "key": "This character is stunned or otherwise incapacitated for [color=",
     "original": "This character is stunned or otherwise incapacitated for [color=",
     "translation": "这个角色被击晕或丧失行动能力 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "return 'This character is stunned or otherwise incapacitated for [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] more turn(s), and unable to act.';"
   }
 ]

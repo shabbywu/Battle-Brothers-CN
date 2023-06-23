@@ -4,15 +4,15 @@
     "key": "Devour",
     "original": "Devour",
     "translation": "吞噬",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Devour'"
   },
   {
     "ID": 293420149,
     "key": " devours ",
     "original": " devours ",
-    "translation": "吞噬",
-    "stage": 1,
+    "translation": "吞噬了",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' devours ' + this.Const.UI.getColorizedEntityName(tile.getEntity())"
   }
 ]
