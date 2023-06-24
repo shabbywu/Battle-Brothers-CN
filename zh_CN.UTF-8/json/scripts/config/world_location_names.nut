@@ -45,8 +45,8 @@
     "ID": 293406989,
     "key": "Pillagers' Jurts",
     "original": "Pillagers' Jurts",
-    "translation": "掠夺者的朱雀",
-    "stage": 1
+    "translation": "劫掠者的圆顶帐篷群",
+    "stage": 5
   },
   {
     "ID": 293406990,
@@ -276,8 +276,8 @@
     "ID": 293407022,
     "key": "Tribal Jurts",
     "original": "Tribal Jurts",
-    "translation": "部落居所",
-    "stage": 1
+    "translation": "部落圆顶帐篷群",
+    "stage": 5
   },
   {
     "ID": 293407023,
@@ -479,8 +479,8 @@
     "ID": 293407051,
     "key": "Jurts of the Free Folk",
     "original": "Jurts of the Free Folk",
-    "translation": "自由民居所",
-    "stage": 1
+    "translation": "自由民的圆顶帐篷群",
+    "stage": 5
   },
   {
     "ID": 293407052,
@@ -1361,8 +1361,8 @@
     "ID": 293407177,
     "key": "Northern Jurts",
     "original": "Northern Jurts",
-    "translation": "北境聚落",
-    "stage": 1
+    "translation": "北境圆顶帐篷聚落",
+    "stage": 5
   },
   {
     "ID": 293407178,
@@ -2005,8 +2005,8 @@
     "ID": 293407269,
     "key": "Jurts of the Ancestors",
     "original": "Jurts of the Ancestors",
-    "translation": "先祖居所",
-    "stage": 1
+    "translation": "先祖圆顶帐篷群",
+    "stage": 5
   },
   {
     "ID": 293407270,
@@ -3321,8 +3321,8 @@
     "ID": 293407457,
     "key": "Ancestors' Jurt City",
     "original": "Ancestors' Jurt City",
-    "translation": "先祖之城",
-    "stage": 1
+    "translation": "先祖的圆顶帐篷之城",
+    "stage": 5
   },
   {
     "ID": 293407458,
@@ -4861,8 +4861,8 @@
     "ID": 293407677,
     "key": "Reavers' Jurts",
     "original": "Reavers' Jurts",
-    "translation": "掠夺者的陪审团",
-    "stage": 1
+    "translation": "掠夺者的圆顶帐篷群",
+    "stage": 5
   },
   {
     "ID": 293407678,

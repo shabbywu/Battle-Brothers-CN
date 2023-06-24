@@ -96,8 +96,8 @@
     "ID": 293408238,
     "key": "Professional soldiers in service to local lords.",
     "original": "Professional soldiers in service to local lords.",
-    "translation": "为地方领主服务的专业士兵。",
-    "stage": 1
+    "translation": "为地方领主服务的职业军人。",
+    "stage": 5
   },
   {
     "ID": 293408239,
@@ -211,7 +211,7 @@
     "key": "Return to ",
     "original": "Return to ",
     "translation": "返回",
-    "stage": 1,
+    "stage": 5,
     "context": "'Return to ' + this.Contract.m.Home.getName()"
   },
   {

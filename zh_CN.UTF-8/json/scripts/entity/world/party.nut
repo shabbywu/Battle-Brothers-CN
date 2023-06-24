@@ -33,7 +33,7 @@
     "key": "From ",
     "original": "From ",
     "translation": "来自",
-    "stage": 1,
+    "stage": 5,
     "context": "'From ' + f.getName()"
   },
   {

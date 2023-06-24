@@ -10,7 +10,7 @@
     "ID": 293421997,
     "key": " days",
     "original": " days",
-    "translation": "天",
+    "translation": "天内",
     "stage": 5,
     "context": "d = 'Will be gone in ' + ht.Min + ' days'"
   },

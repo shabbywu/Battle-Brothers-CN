@@ -3,16 +3,16 @@
     "ID": 293422101,
     "key": "Partly Collapsed Lung",
     "original": "Partly Collapsed Lung",
-    "translation": "部分肺萎缩",
-    "stage": 1,
+    "translation": "部分肺萎陷",
+    "stage": 5,
     "context": "this.m.Name = 'Partly Collapsed Lung'"
   },
   {
     "ID": 293422102,
     "key": "A part of the lung has died, making it very hard for this character to catch breath.",
     "original": "A part of the lung has died, making it very hard for this character to catch breath.",
-    "translation": "一部分肺已经死亡，这使得这个角色很难呼吸。",
-    "stage": 1,
+    "translation": "肺的一部分已经死亡，这使得这个角色很难呼吸。",
+    "stage": 5,
     "context": "this.m.Description = 'A part of the lung has died, making it very hard for this character to catch breath.'"
   },
   {
@@ -26,7 +26,7 @@
     "ID": 293422104,
     "key": "]-40%[/color] Fatigue",
     "original": "]-40%[/color] Fatigue",
-    "translation": "]-40%[/color] 疲劳值",
+    "translation": "]-40%[/color] 最大疲劳值",
     "stage": 5,
     "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Fatigue'"
   }

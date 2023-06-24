@@ -197,7 +197,7 @@
     "key": "Return to ",
     "original": "Return to ",
     "translation": "返回",
-    "stage": 1,
+    "stage": 5,
     "context": "'Return to ' + this.Contract.m.Home.getName() + ' to get paid'"
   },
   {
@@ -295,8 +295,8 @@
     "ID": 293410088,
     "key": " to get paid",
     "original": " to get paid",
-    "translation": "获得报酬",
-    "stage": 1,
+    "translation": "以获得报酬",
+    "stage": 5,
     "context": "'Return to ' + this.Contract.m.Home.getName() + ' to get paid'"
   },
   {

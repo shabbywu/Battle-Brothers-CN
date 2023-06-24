@@ -261,8 +261,8 @@
     "ID": 293422909,
     "key": "You can't make out who you'll be facing. Attack at your own peril and be prepared to retreat if need be!",
     "original": "You can't make out who you'll be facing. Attack at your own peril and be prepared to retreat if need be!",
-    "translation": "你不知道你将面对谁。 自担风险地攻击，必要时随时准备撤退！",
-    "stage": 1,
+    "translation": "你不知道你将面对谁。自担风险地攻击，必要时随时准备撤退！",
+    "stage": 5,
     "context": "text = \"You can't make out who you'll be facing. Attack at your own peril and be prepared to retreat if need be!\""
   },
   {

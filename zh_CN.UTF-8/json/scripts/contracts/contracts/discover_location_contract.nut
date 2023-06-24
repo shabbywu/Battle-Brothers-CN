@@ -149,7 +149,7 @@
     "key": "Return to ",
     "original": "Return to ",
     "translation": "返回",
-    "stage": 1,
+    "stage": 5,
     "context": "'Return to ' + this.Contract.m.Home.getName()"
   },
   {
@@ -199,8 +199,8 @@
     "ID": 293408605,
     "key": "[img]gfx/ui/events/event_57.png[/img]{You sight %location% in the glass of your scope and mark it on your maps. Easy enough. Time to return to %employer%. | Well, it's already time to return to %employer% as %location% was easier to find than you figured.",
     "original": "[img]gfx/ui/events/event_57.png[/img]{You sight %location% in the glass of your scope and mark it on your maps. Easy enough. Time to return to %employer%. | Well, it's already time to return to %employer% as %location% was easier to find than you figured. Marking it on your map, you pause and chuckle and shake your head. What luck. | %location% comes into view and it's immediately reborn upon your map to the best of your illustrative capabilities. %randombrother% asks if that's all there is to do. You nod. A rough go or an easy one, %employer% will be waiting to pay you all the same.}",
-    "translation": "[img]gfx/ui/events/event_57.png[/img]{你用瞄准镜观察到了%location%，并将其标记在你的地图上。好简单。是时候回到%employer%那了。 | 好了，现在已经是时候回到%employer%那里了，因为寻找%location%比你想象的更容易。标记在你的地图上，你停下来笑了笑并摇了摇头。真是运气。 | %location%出现在视野中，你立即用你的插图能力将其标注在地图上。%randombrother%问是否只是这些就完成了任务，你点了点头。难还是容易，%employer%都会等着给你付钱。}",
-    "stage": 1
+    "translation": "[img]gfx/ui/events/event_57.png[/img]{你用瞄准镜观察到了%location%，并将其标记在你的地图上。很容易。是时候回到%employer%那了。 | 好了，现在已经是时候回到%employer%那里了，因为寻找%location%比你想象的更容易。你在地图上做了标记，停下来笑了笑，摇了摇头。真是幸运。 | %location%出现在视野中，你立即发挥你的注解能力将其标注在地图上。%randombrother%问是否就这样任务就完成了，你点了点头。不管是难是易，%employer%都会等着付钱给你。}",
+    "stage": 5
   },
   {
     "ID": 293408606,
@@ -214,8 +214,8 @@
     "ID": 293408607,
     "key": "At %townname%",
     "original": "At %townname%",
-    "translation": "在 %townname%",
-    "stage": 1
+    "translation": "在%townname%",
+    "stage": 5
   },
   {
     "ID": 293408608,
@@ -264,7 +264,7 @@
     "key": "Time to head back.",
     "original": "Time to head back.",
     "translation": "是时候回去了。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408615,
@@ -277,22 +277,22 @@
     "ID": 293408616,
     "key": "[img]gfx/ui/events/event_51.png[/img]{As you and the %companyname% prepare their journey, %randombrother% states that there is a man who wishes to speak to you directly. You nod and have him led to you. He's a glum, small man who states that the 'rulers' ",
     "original": "[img]gfx/ui/events/event_51.png[/img]{As you and the %companyname% prepare their journey, %randombrother% states that there is a man who wishes to speak to you directly. You nod and have him led to you. He's a glum, small man who states that the 'rulers' of %townname% have no interest in the %location% other than ones of greed. Of course that's the case, so what's the problem? The man nods.%SPEECH_ON%Look, I've some folks who are interested in keeping the %location% hidden away for good. If you find it, well, talk to me first. We'll make you a pretty penny.%SPEECH_OFF% | While the %companyname% readies its trip to find the %location%, a man sidles up next to you. He hands you a note and departs without saying a word. The scroll reads: LEAVE THE %locationC% WHERE IT BE. IF YOU FIND IT, TALK TO US. OUR CROWNS FOR YOUR SILENCE. THE RULERS OF %townnameC% NEED NOT KNOW NOTHIN'! | A man approaches the company. Behind him you spy a couple of poor families staring on. You're not sure if he's their ambassador or not, but either way he comes right for you with a proposition spoken low and quiet.%SPEECH_ON%Listen here, sellsword. If you go out and find the %location%, come to us first. The rulers of %townname% need not bring their greed and lust for power to that place. Leave it to us, alright? We'll pay you well.%SPEECH_OFF%Before you can say a word, he straightens up and continues on. When you look back down the road those families are no longer around.}",
-    "translation": "[img]gfx/ui/events/event_51.png[/img]{当你和%companyname%准备旅途时，%randombrother%说有位男子想直接和你谈话。你点点头，让他来见你。他是个忧郁的矮个子，说%townname%的“统治者”除了贪婪什么都不关心%location%。当然是这样，那有什么问题吗？那人点点头。%SPEECH_ON%看，我有些人对于一直将%location%保密很感兴趣。如果你找到了它，嗯，先找我谈谈。我们会让你赚大钱的。%SPEECH_OFF% | %companyname%开始准备寻找%location%之际，一名男子靠近你，将一张纸条递给你，然后无言离开。纸条上写道：把%locationC%留在原地。如果你找到它，找我们谈。我们用克朗换你的保密。%townnameC%的统治者不需要知道任何事情！ | 一名男子走近战团，你发现几个贫穷家庭的眼光盯着他们。你不确定他是否是他们的代表，但不管怎样，他向你提议，声音低沉。%SPEECH_ON%听着，佣兵。如果你去找%location%，先来找我们。%townname%的统治者不需要将他们的贪婪和渴望权力带到那个地方。交给我们，好吗？我们会好好报酬你。%SPEECH_OFF%在你还没有开口说话之前，他就直起身继续走了。当你回头看路时，那些家庭已经不在了。}",
-    "stage": 1
+    "translation": "[img]gfx/ui/events/event_51.png[/img]{当你和%companyname%准备启程时，%randombrother%说有个人想和你直接说上话。你点点头，让他来见你。他是个阴郁的矮个子，他说，%townname%的“统治者”单纯只因贪婪而对%location%感兴趣。当然，这是预料之中的，所以问题是什么呢？那人点了点头。%SPEECH_ON%听着，我认识一些人对让%location%保持隐秘很感兴趣。如果你找到地方了，那么，请先跟我说。我们会让你大赚一笔的。%SPEECH_OFF% | 当%companyname%准备启程去找%location%之际，一名男子悄悄靠近你，将一张纸条递给你，然后无言离开。纸条上用大字写道：*把%locationC%留在原处。如果你找到了它，与我们谈。我们用克朗换取你的沉默。%townnameC%的统治者不需要知道任何事情！* | 一名男子走近战团，在他身后，你可以看到一对贫穷的家庭在盯着他看。你不确定他是否是他们的代表，但无论如何，他直奔你而来，用低声轻语提出了一个提议。%SPEECH_ON%听着，佣兵。如果你去找到了%location%，先来找我们。%townname%的统治者不需要把他们对权力的贪婪和欲望带到那个地方。交给我们，好吗？我们会会好好报偿你。%SPEECH_OFF%你还没来得及说一句话，他就挺直身子继续前行。当你再次朝路边看去时，那些家庭已经不见了。}",
+    "stage": 5
   },
   {
     "ID": 293408617,
     "key": "At %location%",
     "original": "At %location%",
-    "translation": "在%location%。",
-    "stage": 1
+    "translation": "在%location%",
+    "stage": 5
   },
   {
     "ID": 293408618,
     "key": "I'll think about it.",
     "original": "I'll think about it.",
     "translation": "我会考虑的。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408619,

@@ -172,8 +172,8 @@
     "ID": 293422867,
     "key": "Has enjoyed the visit to ",
     "original": "Has enjoyed the visit to ",
-    "translation": "喜欢访问 ",
-    "stage": 1,
+    "translation": "喜欢访问",
+    "stage": 5,
     "context": "'Has enjoyed the visit to ' + town.getName()"
   },
   {

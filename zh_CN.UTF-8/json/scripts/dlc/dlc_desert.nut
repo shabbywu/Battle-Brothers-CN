@@ -122,7 +122,7 @@
     "ID": 293410173,
     "key": "The Handgonne takes a whole turn to reload - unless your character has the 'Crossbows & Firearms Mastery' perk.",
     "original": "The Handgonne takes a whole turn to reload - unless your character has the 'Crossbows & Firearms Mastery' perk.",
-    "translation": "手持火枪需要一整个回合才能重新装填 - 除非你的角色拥有“弩和火器掌握”专长。",
+    "translation": "火铳需要一整个回合才能重新装填 - 除非你的角色拥有“弩和火器掌握”专长。",
     "stage": 1
   },
   {
@@ -199,7 +199,7 @@
     "ID": 293410184,
     "key": "The Handgonne is a ranged weapon that can hit up to 6 targets with a single attack, but has less range than either bows or crossbows.",
     "original": "The Handgonne is a ranged weapon that can hit up to 6 targets with a single attack, but has less range than either bows or crossbows.",
-    "translation": "手枪是一种远程武器，能够一次攻击最多击中6个目标，但是射程比弓箭或十字弓都要短。",
+    "translation": "火铳是一种远程武器，能够一次攻击最多击中6个目标，但是射程比弓箭或十字弓都要短。",
     "stage": 1
   },
   {

@@ -4,7 +4,7 @@
     "key": "Suffered an injury",
     "original": "Suffered an injury",
     "translation": "受伤了",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293410233,
@@ -26,8 +26,8 @@
     "ID": 293410235,
     "key": " died in battle",
     "original": " died in battle",
-    "translation": " 在战斗中死亡",
-    "stage": 1,
+    "translation": "在战斗中死亡",
+    "stage": 5,
     "context": "this.getName() + ' died in battle'"
   },
   {

@@ -18,7 +18,7 @@
     "ID": 293419980,
     "key": "Fire Mortar",
     "original": "Fire Mortar",
-    "translation": "发射臼炮",
+    "translation": "臼炮开火",
     "stage": 5,
     "context": "this.m.Name = 'Fire Mortar'"
   },
