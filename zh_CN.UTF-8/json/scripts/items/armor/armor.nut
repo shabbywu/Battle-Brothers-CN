@@ -3,8 +3,8 @@
     "ID": 293417578,
     "key": " is hit for [b]",
     "original": " is hit for [b]",
-    "translation": "被击中 [b]",
-    "stage": 1,
+    "translation": "被击中，受到 [b]",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + \"'s \" + this.getName() + ' is hit for [b]' + this.Math.floor(_damage) + '[/b] damage'"
   },
   {
@@ -12,7 +12,7 @@
     "key": "'s ",
     "original": "'s ",
     "translation": "的",
-    "stage": 1,
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + \"'s \" + this.getName() + ' is hit for [b]' + this.Math.floor(_damage) + '[/b] damage and has been destroyed!'"
   },
   {
@@ -20,15 +20,15 @@
     "key": "[/b] damage",
     "original": "[/b] damage",
     "translation": "[/b] 伤害",
-    "stage": 1,
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + \"'s \" + this.getName() + ' is hit for [b]' + this.Math.floor(_damage) + '[/b] damage'"
   },
   {
     "ID": 293417581,
     "key": "[/b] damage and has been destroyed!",
     "original": "[/b] damage and has been destroyed!",
-    "translation": "[/b] 损坏并被摧毁了！",
-    "stage": 1,
+    "translation": "[/b] 伤害并被摧毁了！",
+    "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + \"'s \" + this.getName() + ' is hit for [b]' + this.Math.floor(_damage) + '[/b] damage and has been destroyed!'"
   },
   {

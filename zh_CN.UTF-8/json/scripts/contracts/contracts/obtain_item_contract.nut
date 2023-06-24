@@ -74,8 +74,8 @@
     "ID": 293409493,
     "key": "Obtain %item% at %location% %direction% of %origin%",
     "original": "Obtain %item% at %location% %direction% of %origin%",
-    "translation": "在 %origin% 的 %direction% %location% 获取 %item%。",
-    "stage": 1
+    "translation": "在%origin%%direction%面的%location%获取%item%",
+    "stage": 5
   },
   {
     "ID": 293409494,
@@ -145,15 +145,15 @@
     "ID": 293409503,
     "key": "Obtain %item% at %location%",
     "original": "Obtain %item% at %location%",
-    "translation": "在%location%获得%item%",
-    "stage": 1
+    "translation": "在%location%取得%item%",
+    "stage": 5
   },
   {
     "ID": 293409504,
     "key": "Return to ",
     "original": "Return to ",
     "translation": "返回",
-    "stage": 1,
+    "stage": 5,
     "context": "'Return to ' + this.Contract.m.Home.getName()"
   },
   {
@@ -332,8 +332,8 @@
     "ID": 293409529,
     "key": "At %location%",
     "original": "At %location%",
-    "translation": "在%location%。",
-    "stage": 1
+    "translation": "在%location%",
+    "stage": 5
   },
   {
     "ID": 293409530,

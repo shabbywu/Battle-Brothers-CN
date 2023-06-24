@@ -11,7 +11,7 @@
     "ID": 293403679,
     "key": "Your men have [color=",
     "original": "Your men have [color=",
-    "translation": "你的所有战团成员获得[color=",
+    "translation": "你的所有战团成员获得 [color=",
     "stage": 1,
     "context": "this.m.OathBurdenText = 'Your men have [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve and [color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee and Ranged Skill, and [color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee and Ranged Defense when fighting any other foe.'"
   },
@@ -83,7 +83,7 @@
     "ID": 293403688,
     "key": "]-5[/color] Melee and Ranged Skill, and [color=",
     "original": "]-5[/color] Melee and Ranged Skill, and [color=",
-    "translation": "]-5[/color] 近战和远程防御, 以及 [color=",
+    "translation": "]-5[/color] 近战和远程技能, 以及 [color=",
     "stage": 1,
     "context": "this.m.OathBurdenText = 'Your men have [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve and [color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee and Ranged Skill, and [color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee and Ranged Defense when fighting any other foe.'"
   },
@@ -91,7 +91,7 @@
     "ID": 293403689,
     "key": "]+10[/color] Melee and Ranged Skill, and [color=",
     "original": "]+10[/color] Melee and Ranged Skill, and [color=",
-    "translation": "]+10[/color]近战和远程技能, 以及[color=",
+    "translation": "]+10[/color] 近战和远程技能, 以及 [color=",
     "stage": 1,
     "context": "this.m.OathBoonText = 'Your men have [color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Resolve and [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Melee and Ranged Skill, and [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee and Ranged Defense when fighting the undead.'"
   },

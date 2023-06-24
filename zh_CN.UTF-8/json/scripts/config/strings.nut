@@ -1474,7 +1474,7 @@
     "ID": 293405844,
     "key": "]20%[/color] of damage inflicted with crossbows ignores armor.\n\nHandgonnes now require [color=",
     "original": "]20%[/color] of damage inflicted with crossbows ignores armor.\n\nHandgonnes now require [color=",
-    "translation": "]20%[/color] 伤害。\n\n手炮现在仅需要 [color=",
+    "translation": "]20%[/color] 伤害。\n\n火铳现在仅需要 [color=",
     "stage": 1,
     "context": "'Master crossbows and firearms, and learn where to aim best. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nAn additional [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] of damage inflicted with crossbows ignores armor.\n\nHandgonnes now require [color=' + this.Const.UI.Color.NegativeValue + ']6[/color] Action Points to reload and can be fired every turn instead of every other turn.'"
   },
@@ -1930,7 +1930,7 @@
     "key": "Open",
     "original": "Open",
     "translation": "开放",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405909,
@@ -3254,7 +3254,7 @@
     "ID": 293406095,
     "key": "Yawning Gaps",
     "original": "Yawning Gaps",
-    "translation": "打哈欠的差距",
+    "translation": "垭口",
     "stage": 1
   },
   {
@@ -5423,8 +5423,8 @@
     "ID": 293406401,
     "key": "Short grass on flat and solid ground.",
     "original": "Short grass on flat and solid ground.",
-    "translation": "平坦坚实的地面上的短草。",
-    "stage": 1
+    "translation": "平坦坚实的地面上长着短草。",
+    "stage": 5
   },
   {
     "ID": 293406402,

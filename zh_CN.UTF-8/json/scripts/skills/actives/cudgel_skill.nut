@@ -60,15 +60,15 @@
     "key": "Cudgel",
     "original": "Cudgel",
     "translation": "重棒击",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Cudgel'"
   },
   {
     "ID": 293419903,
     "key": "]100%[/color] chance to daze on a hit",
     "original": "]100%[/color] chance to daze on a hit",
-    "translation": "]100%[/color]几率在命中时造成眩晕",
-    "stage": 1,
+    "translation": "]100%[/color] 几率在命中时造成眩晕",
+    "stage": 5,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to daze on a hit'"
   }
 ]

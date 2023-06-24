@@ -11,6 +11,6 @@
     "key": "Cancel Ambition",
     "original": "Cancel Ambition",
     "translation": "取消野心",
-    "stage": 1
+    "stage": 5
   }
 ]

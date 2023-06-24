@@ -309,8 +309,8 @@
     "ID": 293408523,
     "key": "{The cemetery is layered in fog - that or a thick miasma given off by the dead. Wait... that IS the dead! To arms! | You eye a tombstone with a mound of soil unearthed at its base. Blots of mud lead away like a crumb trail. There are no shovels... no men.",
     "original": "{The cemetery is layered in fog - that or a thick miasma given off by the dead. Wait... that IS the dead! To arms! | You eye a tombstone with a mound of soil unearthed at its base. Blots of mud lead away like a crumb trail. There are no shovels... no men... As you follow the lead, you come across a band of undead moaning and groaning... now staring at you with insatiable hunger... | A man lingers deep in the rows of tombstones. He seems to be wavering, as though ready to pass out. %randombrother% comes to your side and shakes his head.%SPEECH_ON%That's no man, sir. There's undead afoot.%SPEECH_OFF%Just as he finishes talking, the stranger in the distance slowly turns and there in the light reveals he's missing half his face. | You come to find many of the graves are emptied. Not just emptied, but unearthed from below. This is not the work of graverobbers...}",
-    "translation": "{墓地被笼罩在雾中－亦或者是亡者散发的瘴气中。 等等…那是亡者！拿起武器！ | 你看到一个墓碑底下被挖出来的一个土坑。 泥污如碎屑般引向远处。 没有铲子…没有人… 随着你顺着线索，你遇到了一群呻咛低吼着的亡灵…正以一种饥饿的目光看着你… | 一个男人在一排排墓碑间徘徊。 他看起来在晃，好像随时都要昏过去。%randombrother% 到你身边摇了摇头。%SPEECH_ON%那不是人，先生。那是出没的亡灵。%SPEECH_OFF%他刚说完，远处的陌生人缓慢的转过来，光线下露出了他只剩一半的脸。 | 你到此地发现许多的坟墓都是空的。 不只是空，而是从地下挖出的。 这可不是盗墓贼干的…}",
-    "stage": 1
+    "translation": "{墓地被层层笼罩在雾中 —— 亦或者是亡者散发的厚厚瘴气中。等等……那*就是*亡者！拿起武器！ | 你看到一块底下带着泥土的墓碑。泥点像面包屑一样引向远方。这里没有铲子……也没有人……当你跟着线索前行时，你突然遭遇了一群僵尸，它们呻吟着，嘶哑着……现在它们带着无法满足的饥渴盯着你... | 一个男人在一排排墓碑深处徘徊。他看起来在晃，好像随时都要昏过去。%randombrother%到你身边摇了摇头。%SPEECH_ON%那不是人，先生。那是亡灵在出没。%SPEECH_OFF%他刚说完，远处的陌生人缓慢的转过来，光线下能看出他少了半张脸。 | 你到此地发现许多的坟墓都是空的。不只是空，而且是自里向外挖开的。这可不是盗墓贼的手笔……}",
+    "stage": 5
   },
   {
     "ID": 293408524,

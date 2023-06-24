@@ -3,7 +3,7 @@
     "ID": 293419857,
     "key": "]50%[/color] damage on a hit to the head",
     "original": "]50%[/color] damage on a hit to the head",
-    "translation": "]50%[/color]头部伤害",
+    "translation": "]50%[/color] 伤害",
     "stage": 5,
     "context": "'Inflicts additional [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] damage on a hit to the head'"
   },
@@ -11,7 +11,7 @@
     "ID": 293419858,
     "key": "Inflicts additional [color=",
     "original": "Inflicts additional [color=",
-    "translation": "造成额外的[color=",
+    "translation": "对头部造成额外 [color=",
     "stage": 5,
     "context": "'Inflicts additional [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] damage on a hit to the head'"
   },

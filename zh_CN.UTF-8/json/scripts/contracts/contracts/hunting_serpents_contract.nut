@@ -91,7 +91,7 @@
     "key": "Return to ",
     "original": "Return to ",
     "translation": "返回",
-    "stage": 1,
+    "stage": 5,
     "context": "'Return to ' + this.Contract.m.Home.getName()"
   },
   {
