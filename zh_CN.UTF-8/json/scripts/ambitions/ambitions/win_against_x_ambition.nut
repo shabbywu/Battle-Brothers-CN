@@ -19,8 +19,8 @@
     "ID": 293403582,
     "key": "Gain an additional 150 renown for your victory.",
     "original": "Gain an additional 150 renown for your victory.",
-    "translation": "为你的胜利获得额外的150声望。",
-    "stage": 1,
+    "translation": "为你的胜利获得额外的150名望。",
+    "stage": 5,
     "context": "this.m.RewardTooltip = 'Gain an additional 150 renown for your victory.'"
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293403584,
     "key": "You gain additional renown for your victory",
     "original": "You gain additional renown for your victory",
-    "translation": "你因你的胜利而获得额外的声望",
-    "stage": 1
+    "translation": "你因你的胜利而获得额外的名望",
+    "stage": 5
   },
   {
     "ID": 293403585,

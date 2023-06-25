@@ -3,8 +3,8 @@
     "ID": 293419588,
     "key": "Makes you earn 15% more renown with every action",
     "original": "Makes you earn 15% more renown with every action",
-    "translation": "所有行动都会获得15%更多的声望",
-    "stage": 1
+    "translation": "所有行动都会获得额外 15% 的名望",
+    "stage": 5
   },
   {
     "ID": 293419589,

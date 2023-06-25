@@ -218,8 +218,8 @@
     "ID": 293408060,
     "key": "On your return...",
     "original": "On your return...",
-    "translation": "你回来后…",
-    "stage": 1
+    "translation": "你回来后……",
+    "stage": 5
   },
   {
     "ID": 293408061,

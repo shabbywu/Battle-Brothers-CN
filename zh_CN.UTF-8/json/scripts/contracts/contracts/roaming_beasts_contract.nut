@@ -39,7 +39,7 @@
     "key": "Nachzehrers",
     "original": "Nachzehrers",
     "translation": "食尸鬼",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293409821,
@@ -59,7 +59,7 @@
     "ID": 293409823,
     "key": "A flock of scavenging nachzehrers.",
     "original": "A flock of scavenging nachzehrers.",
-    "translation": "一群寻觅的食尸鬼",
+    "translation": "一群正在寻觅的食尸鬼",
     "stage": 1
   },
   {
@@ -67,7 +67,7 @@
     "key": "Negotiations",
     "original": "Negotiations",
     "translation": "谈判",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293409825,
@@ -196,8 +196,8 @@
     "ID": 293409842,
     "key": "On your return...",
     "original": "On your return...",
-    "translation": "你回来后…",
-    "stage": 1
+    "translation": "你回来后……",
+    "stage": 5
   },
   {
     "ID": 293409843,
@@ -217,8 +217,8 @@
     "ID": 293409845,
     "key": "A swarm of webknechts skittering about.",
     "original": "A swarm of webknechts skittering about.",
-    "translation": "一群蜘蛛在游荡。",
-    "stage": 1
+    "translation": "一群蛛魔正在游荡。",
+    "stage": 5
   },
   {
     "ID": 293409846,
@@ -239,7 +239,7 @@
     "key": "Webknechts",
     "original": "Webknechts",
     "translation": "蛛魔",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293409849,

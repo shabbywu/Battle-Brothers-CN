@@ -112,8 +112,8 @@
     "ID": 293414757,
     "key": "Along the road...",
     "original": "Along the road...",
-    "translation": "在路上…",
-    "stage": 1,
+    "translation": "在路上……",
+    "stage": 5,
     "context": "this.m.Title = 'Along the road...'"
   },
   {

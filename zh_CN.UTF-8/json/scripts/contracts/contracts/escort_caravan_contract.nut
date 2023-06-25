@@ -53,8 +53,8 @@
     "ID": 293408752,
     "key": "Along the road...",
     "original": "Along the road...",
-    "translation": "在路上…",
-    "stage": 1
+    "translation": "在路上……",
+    "stage": 5
   },
   {
     "ID": 293408753,
@@ -145,8 +145,8 @@
     "ID": 293408765,
     "key": "A band of menacing orcs, greenskinned and towering any man.",
     "original": "A band of menacing orcs, greenskinned and towering any man.",
-    "translation": "一群凶残的兽人，绿皮肤，高耸于任何人之上。",
-    "stage": 1
+    "translation": "一群凶残的兽人，绿皮肤，比任何人都高。",
+    "stage": 5
   },
   {
     "ID": 293408766,
@@ -233,7 +233,7 @@
     "ID": 293408777,
     "key": "[img]gfx/ui/events/event_98.png[/img]{%employer%'s study is lit by a warm fire. He offers you a seat and a goblet of wine, both of which you take.%SPEECH_ON%Sellsword, you're familiar with how dangerous the roads are these days?%SPEECH_OFF%By the gods, th",
     "original": "[img]gfx/ui/events/event_98.png[/img]{%employer%'s study is lit by a warm fire. He offers you a seat and a goblet of wine, both of which you take.%SPEECH_ON%Sellsword, you're familiar with how dangerous the roads are these days?%SPEECH_OFF%By the gods, that is some good wine. You nod and try to hide your astonishment. %employer% smiles tersely and continues.%SPEECH_ON%Good, then you'll understand this task I have for you. I need a caravan escorted along the roads to %objective% about %days% from here. Pretty simple, right? Do you have the time for it? Let's talk if you do.%SPEECH_OFF% | You find %employer% studying a few maps on his desk. He trails a finger to the edge of one map and continues it onto another.%SPEECH_ON%I need an escort for a caravan to %objective%, %days% %direction% of here. Will it be dangerous? Of course. That's why I go to you, sellsword. Are you interested?%SPEECH_OFF% | %employer%'s crosses his arms and purses his lips.%SPEECH_ON%Ordinarily I wouldn't ask some sellswords to guard a caravan, but my usual crew is a little out of it - sickness, drunkenness, licentiousness... I think you get it. What's important is that I have important cargo going to %objective% about %days% to the %direction% and I need someone watching it. Are you interested?%SPEECH_OFF% | %employer% stares out his window, watching a group of men loading cargo into a number of wagons. He talks without looking your way.%SPEECH_ON%I have an important delivery heading out to %objective% roughly %days% %direction% of here. Unfortunately, a competitor outbid me in acquiring a local band of caravan guards. Now I need your services. Let's talk numbers if you're interested.%SPEECH_OFF% | %employer% grabs a chest off his shelf and puts it on his desk. When he opens it, a bevy of papers pop out, almost scurrying to get free. He grabs one and lays it out. On one side, there's a contract, and the other a small drawing of a map.%SPEECH_ON%It's real simple, sellsword. I have been contracted to deliver some... particular cargo to %objective%. I have the goods, but I don't have the guards. If you're interested in being caravan guards for a time, maybe %days% or so, let me know and we can hash out some numbers.%SPEECH_OFF% | You look out %employer%'s window and watch men load a few wagons with goods. %employer% joins you, two goblets of wine in hand. You take one and drink it all in one swig. The man stares at you.%SPEECH_ON%That wasn't cheap. You're supposed to enjoy it.%SPEECH_OFF%You shrug.%SPEECH_ON%Sorry. Can I have another to get it right?%SPEECH_OFF%%employer% turns around and goes to his desk.%SPEECH_ON%So, I need a caravan guarded to %objective%. It's %days% to the %direction% of here. Pretty simple, right? There's plenty of crowns in it for you if you're interested.%SPEECH_OFF% | %employer% looks at some of his books, perusing what appear to be a good deal of numbers.%SPEECH_ON%I got a shipment of particular goods going to %objective% and they're leaving soon. I need a bunch of sturdy swordsmen to help make sure it gets there safely. Should take you about %days% of travelling. Are you up for it?%SPEECH_OFF% | %employer% cuts right to the point.%SPEECH_ON%I've got a shipment of... well, what it is doesn't concern you. It's going to %objective% and, like many folks, I'm worried about brigands on the road. I need you to watch the caravan to make sure it arrives safe and sound in about %days%. Does that sound something you'd be interested in?%SPEECH_OFF% | %employer% looks out his window.%SPEECH_ON%We both know that brigands and the gods know what else are terrorizing these parts, and they all are quite fond of the roads. After a particularly bad run, my old caravan guards lost the heart for the job. Now I need someone else to watch my shipment. Next one out is going to %objective% to the %direction%, maybe %days% or so from here. Does that sound like a place you'd like to be paid to go to?%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_98.png[/img]{%employer%的书房被温暖的炉火照亮。他请你坐下，并递给你一杯酒，两个你都接受了。%SPEECH_ON%佣兵，你知道现在的道路有多危险吧？%SPEECH_OFF%天哪，这酒真不错。你点点头，试图掩饰你的惊讶。%employer%简单地笑了一下继续道。%SPEECH_ON%很好，那你就会明白我交给你的任务了。我需要让一个商队被沿路护送至%objective%，大概离这%days%的路程。很简单，对吧？你有时间吗？有就让我们谈谈。%SPEECH_OFF% | 你发现%employer%正研读着几张他办公桌上的地图。他的手指滑到其中一张的边缘并继续行进到另一张上。%SPEECH_ON%我需要给商队找些护卫去%objective%，从这往%direction%大概%days%的路程。危险吗？当然。因此我才找你，佣兵。有兴趣吗？%SPEECH_OFF% | %employer%噘着嘴叉起手。%SPEECH_ON%通常来说我不会找佣兵来护送商队，但我的老伙计们有点不在状态——病了、醉了、嫖了……我想你懂的。重要的是我有重要货物要去%objective%，大概从这往%direction%走上%days%，而且我需要些人照看它。你有兴趣吗？%SPEECH_OFF% | %employer%凝视着窗外，看到一群人把货物装进几辆马车。他开口时没有看你。%SPEECH_ON%我有一份重要货物要去%objective%，从这往%direction%大概%days%的路程。不幸的是，一个竞争者在招募本地商队护卫出价更高。现在我需要你的服务。如果你感兴趣我们就谈谈价钱。%SPEECH_OFF% | %employer%从架子上拿起一个箱子放在桌子上。当他打开它时，一堆文件蹦了出来，几乎是急着要挣脱出来。他抓住一张并把它摊开。一面是一份合同，另一面是一张小地图。%SPEECH_ON%活很简单，佣兵。我承包了些……特别的货物要去%objective%。我有货，但我没有卫兵。如果你有兴趣当会儿商队护卫，可能%days%左右，请告诉我，我们好谈谈价钱。%SPEECH_OFF% | 你从%employer%的窗户向外望，看着人们把货物装上几辆马车。%employer%端着两杯酒走了过来。你拿上一杯并一口饮尽。那男人盯着你。%SPEECH_ON%那可不便宜。你本应该好好享受它的。%SPEECH_OFF%你耸耸肩。%SPEECH_ON%抱歉。能再给我一杯让我再好好地喝一次吗？%SPEECH_OFF%%employer%转身走向他的书桌。%SPEECH_ON%好了，我需要一个商队被护送到%objective%。离这往%direction%大概%days%的路程。很简单，对吧？如果你有兴趣，给你的克朗可不少。%SPEECH_OFF% | %employer%看着他的几本书，细阅着上面的大量数字。%SPEECH_ON%我有一批特殊的货物要运往%objective%，他们很快就要出发了。我需要一群强壮的剑士来确保它安全到达那里。应该要花你大约%days%的时间。你有兴趣干吗？%SPEECH_OFF% | %employer%开门见山。%SPEECH_ON%我有一批……额，那是什么跟你没关系。它要被送到%objective%。并且，像许多人一样，我担心路上的强盗。我需要你照看着商队并确保它在大约%days%内安全到达。你听着有兴趣吗？%SPEECH_OFF% | %employer%向窗外望去。%SPEECH_ON%我们都知道强盗和各种神才知道的玩意在威胁着这片地方，而且他们都很喜欢在大路上搞事情。在经历了一次非常糟糕的运输后，我的老商队护卫们失去了继续工作的勇气。现在我需要其他人来看管我的货物。下一趟是往%direction%去%objective%，从这里出发大概要走%days%。那听起来像是个你愿意被雇去的地方吗？%SPEECH_OFF%}",
+    "translation": "[img]gfx/ui/events/event_98.png[/img]{%employer%的书房被温暖的炉火照亮。他请你坐下，并递给你一杯酒，两个你都接受了。%SPEECH_ON%佣兵，你知道现在的道路有多危险吧？%SPEECH_OFF%天哪，这酒真不错。你点点头，试图掩饰你的惊讶。%employer%简单地笑了一下继续道。%SPEECH_ON%很好，那你就会明白我交给你的任务了。我需要让一个商队被沿路护送至%objective%，大概离这%days%的路程。很简单，对吧？你有时间吗？有就让我们谈谈。%SPEECH_OFF% | 你发现%employer%正研读着几张他办公桌上的地图。他的手指滑到其中一张的边缘并继续行进到另一张上。%SPEECH_ON%我需要给商队找些护卫去%objective%，从这往%direction%大概%days%的路程。危险吗？当然。因此我才找你，佣兵。有兴趣吗？%SPEECH_OFF% | %employer%噘着嘴叉起手。%SPEECH_ON%通常来说我不会找佣兵来护送商队，但我的老伙计们有点不在状态——病了、醉了、嫖了……我想你懂的。重要的是我有重要货物要去%objective%，大概从这往%direction%走上%days%，而且我需要些人照看它。你有兴趣吗？%SPEECH_OFF% | %employer%凝视着窗外，看到一群人把货物装进几辆马车。他开口时没有看你。%SPEECH_ON%我有一份重要货物要去%objective%，从这往%direction%大概%days%的路程。不幸的是，一个竞争者在招募本地商队护卫出价更高。现在我需要你的服务。如果你感兴趣我们就谈谈价钱。%SPEECH_OFF% | %employer%从架子上拿起一个箱子放在桌子上。当他打开它时，一堆文件蹦了出来，几乎是急着要挣脱出来。他抓住一张并把它摊开。一面是一份合同，另一面是一张小地图。%SPEECH_ON%活很简单，佣兵。我承包了些……特别的货物要去%objective%。我有货，但我没有卫兵。如果你有兴趣当会儿商队护卫，可能%days%左右，请告诉我，我们好谈谈价钱。%SPEECH_OFF% | 你从%employer%的窗户向外望，看着人们把货物装上几辆马车。%employer%端着两杯酒走了过来。你拿上一杯并一口饮尽。那男人盯着你。%SPEECH_ON%那可不便宜。你本应该好好享受它的。%SPEECH_OFF%你耸耸肩。%SPEECH_ON%抱歉。能再给我一杯让我再好好地喝一次吗？%SPEECH_OFF%%employer%转身走向他的书桌。%SPEECH_ON%好了，我有一支商队需要被护送到%objective%。离这往%direction%大概%days%的路程。很简单，对吧？如果你有兴趣，给你的克朗可不少。%SPEECH_OFF% | %employer%看着他的几本书，细阅着上面的大量数字。%SPEECH_ON%我有一批特殊的货物要运往%objective%，他们很快就要出发了。我需要一群强壮的剑士来确保它安全到达那里。应该要花你大约%days%的时间。你有兴趣干吗？%SPEECH_OFF% | %employer%开门见山。%SPEECH_ON%我有一批……额，那是什么跟你没关系。它要被送到%objective%。并且，像许多人一样，我担心路上的强盗。我需要你照看着商队并确保它在大约%days%内安全到达。你听着有兴趣吗？%SPEECH_OFF% | %employer%向窗外望去。%SPEECH_ON%我们都知道强盗和各种神才知道的玩意在威胁着这片地方，而且他们都很喜欢在大路上搞事情。在经历了一次非常糟糕的运输后，我的老商队护卫们失去了继续工作的勇气。现在我需要其他人来看管我的货物。下一趟是往%direction%去%objective%，从这里出发大概要走%days%。那听起来像是个你愿意被雇去的地方吗？%SPEECH_OFF%}",
     "stage": 5
   },
   {
@@ -241,7 +241,7 @@
     "key": "After the battle",
     "original": "After the battle",
     "translation": "战斗之后",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408779,
@@ -254,8 +254,8 @@
     "ID": 293408780,
     "key": "[img]gfx/ui/events/event_60.png[/img]{You started the journey in the company of caravan hands and a few merchants all of whom trusted you. Now, their bodies are strewn across the land, arms outstretched, fingers danced upon by flies. The sun will make a r",
     "original": "[img]gfx/ui/events/event_60.png[/img]{You started the journey in the company of caravan hands and a few merchants all of whom trusted you. Now, their bodies are strewn across the land, arms outstretched, fingers danced upon by flies. The sun will make a ruinous smell out of your failure. Time to move on. | Wagons lay on their sides. Men and limbs are scattered. A moan rises from the ruin, but it is a dying one as you never hear it again. Dark shadows ripple over the grass, above you a growing flock of buzzards. Best to let them feast for there is nothing else you can do here. | The merchant who hired you lies dead at your feet. He is not exactly face down, for that part of him no longer exists. Blood flows across the ground in spurts as you can't help but stare at the summation of your failure. One of your men spots a twitch, but you know better. Nothing can be done. The rest of the caravan is in even worse shape. There is no point in staying here. | The battle subsides, but you find the merchant leaning against a tipped-over wagon. Wide-eyed he desperately clutches a slashed neck. Ropes of blood squirt between his fingers and before anything can be done the man collapses. You try to revive him, but it is too late. Glassy eyes look up at you. %randombrother%, one of your men, closes them before getting up to pick through the remains of the caravan. | You stumble around the remains of the wagons. It isn't hard to see: the merchant's head had been stoved in by some kind of chest, perhaps the very thing behind which he sought protection during the heat of battle. Alas, none of the caravan is in better shape. The battle had proved vicious, even by your standards, and the resulting carnage has a few of your brothers heaving. If the nightmares come then let them come. You deserve little else for your failure.}",
-    "translation": "[img]gfx/ui/events/event_60.png[/img]{你的战团是跟着商队成员和几个商人一起开始的旅程，他们都很相信你。 现在，他们的尸体散布在地上，手臂张开，手指上飞着苍蝇。 太阳将会让你的失败产生毁灭性的味道。 是时候赶路了。 | 载重货车倾倒在一边。 人与肢体散布着。 一声悲叹从废墟中传出，但那也是死亡的叹息，因为你没能再一次听到它。 黑暗的阴影在草地上涟漪，在你上方，一群秃鹰正在聚集。 最好放任它们，因为这里没有什么你还能做的了。 | 雇你的商人死在了你的脚边。 他的脸并不完全栽在地上，因为他的那部分不复存在了。 血涌流淌在地上，你什么都做不了只能看着你失败的总结。 你的一个伙计发现了点动弹，但你更明白。 没什么能做的了。 剩下的商队状况更糟。 继续留在这里已经没什么用了。 | 战斗了却，但你看到商人倚在一辆翻覆的载重货车上。 他睁大眼睛，绝望地抓着被割破的脖子。 血从他的指间喷出，在你可以做任何事之前，他倒下了。 你试着帮助他，但已经太迟了。 无光的双眼向上看着你。%randombrother%，你的一个手下，关上了它们，然后起身开始搜刮商队的遗骸。 | 你跌跌撞撞地在载重货车的残骸边搜索。 这一切并不难看到：商人的头被某种箱子砸了，或许正是他在激烈的战斗中用以寻求庇护的东西。 到头来，其余的整个商队状态都比这好不了多少。 就算以你的标准来看，这场战斗都是异常惨烈的，战后的惨状令你的几个兄弟呕吐不止。 如果要做噩梦那就做吧。 你的失败不该得到什么。}",
-    "stage": 1
+    "translation": "[img]gfx/ui/events/event_60.png[/img]{你在一些商队队员和几个商人的陪伴下开始了旅程，他们都信任你。现在，他们的尸体散布在地上，手臂张开，苍蝇在手指上飞舞。太阳将令你的失败弥漫出毁灭的气味。是时候继续前行了。 | 载重货车倾倒在一边。人与肢体四散着。废墟中传来一声呻吟，但那是垂死的呻吟，因为你再也没有听到过。黑影在草地上荡漾，头顶上是一群越来越多的秃鹰。最好让它们尽情享受，因为在这里你没有什么可做的了。 | 雇你的商人死在了你脚下。他不完全是面朝下，因为他的那部分已经不存在了。血液喷洒在地面上，你不禁盯着自己失败的总结。你的一个手下发现了他身体有些抽搐，但你很清楚，已经无法挽救。商队里其他人的状况更糟糕。留在这里毫无意义。 | 战斗了却，但你看到商人倚在一辆翻覆的载重货车上。他睁大眼睛，绝望地抓着被割开的脖子。血从他的指间喷涌而出，你还没来得及做任何事情，他就倒下了。你试图救活他，但为时已晚。无光的双眼向上看着你。%randombrother%，你的一个手下，在收拾商队的残骸之前关合上了他的双眼。 | 你在残留的货车残骸中踉跄着。很容易看出：商人的头被某种箱子砸坏了，可能正是他在激战中寻求保护的东西。可惜，商队的其他人也没有好受多少。即使以你的标准来看，这场战斗也是残酷的，而随之而来的大屠杀也让你的一些兄弟难以接受。如果噩梦来临，就让它们来吧。对于你的失败而言，那是自找的。}",
+    "stage": 5
   },
   {
     "ID": 293408781,
@@ -282,8 +282,8 @@
     "ID": 293408784,
     "key": "Failed to protect a caravan",
     "original": "Failed to protect a caravan",
-    "translation": "没能保护商队",
-    "stage": 1
+    "translation": "没能保护好商队",
+    "stage": 5
   },
   {
     "ID": 293408785,
@@ -333,8 +333,8 @@
     "ID": 293408791,
     "key": "Damnit!",
     "original": "Damnit!",
-    "translation": "该死的！",
-    "stage": 1
+    "translation": "该死！",
+    "stage": 5
   },
   {
     "ID": 293408792,
@@ -535,7 +535,7 @@
     "key": "Darn it!",
     "original": "Darn it!",
     "translation": "该死！",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408820,

@@ -238,8 +238,8 @@
     "ID": 293409565,
     "key": "A band of menacing orcs, greenskinned and towering any man.",
     "original": "A band of menacing orcs, greenskinned and towering any man.",
-    "translation": "一群凶残的兽人，绿皮肤，高耸于任何人之上。",
-    "stage": 1
+    "translation": "一群凶残的兽人，绿皮肤，比任何人都高。",
+    "stage": 5
   },
   {
     "ID": 293409566,
@@ -295,8 +295,8 @@
     "ID": 293409573,
     "key": "On your return...",
     "original": "On your return...",
-    "translation": "你回来后…",
-    "stage": 1
+    "translation": "你回来后……",
+    "stage": 5
   },
   {
     "ID": 293409574,
@@ -337,8 +337,8 @@
     "ID": 293409579,
     "key": "Along the road...",
     "original": "Along the road...",
-    "translation": "在路上…",
-    "stage": 1
+    "translation": "在路上……",
+    "stage": 5
   },
   {
     "ID": 293409580,

@@ -3,16 +3,16 @@
     "ID": 293403471,
     "key": "Reach 'Glorious' renown",
     "original": "Reach 'Glorious' renown",
-    "translation": "达到“荣耀”声望",
-    "stage": 1,
+    "translation": "名望达到“声誉辉煌”",
+    "stage": 5,
     "context": "this.m.UIText = \"Reach 'Glorious' renown\""
   },
   {
     "ID": 293403472,
     "key": "Become known as 'Glorious' (2,750 renown) throughout the land. You can increase your renown by completing contracts and winning battles.",
     "original": "Become known as 'Glorious' (2,750 renown) throughout the land. You can increase your renown by completing contracts and winning battles.",
-    "translation": "以“荣耀”（2750声望）闻名于大陆。 你可以通过完成合同和赢得战斗来提高自己的声望。",
-    "stage": 1,
+    "translation": "以“声誉辉煌”（2750名望）闻名于各地。你可以通过完成合同和赢得战斗来提高自己的名望。",
+    "stage": 5,
     "context": "this.m.TooltipText = \"Become known as 'Glorious' (2,750 renown) throughout the land. You can increase your renown by completing contracts and winning battles.\""
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293403474,
     "key": "Already we are known in some parts of the land, yet we are still far from being\na legendary company. We shall increase our renown further!",
     "original": "Already we are known in some parts of the land, yet we are still far from being\na legendary company. We shall increase our renown further!",
-    "translation": "我们已经在这片大陆的一些地方为人所知，但我们还远远不是\n一个传奇战团。 我们将进一步提高我们的声望！",
-    "stage": 1,
+    "translation": "我们已经在这片土地的一些地方为人所知，但距离成为一个传奇战团还很远。 \n我们将进一步提高我们的名望！",
+    "stage": 5,
     "context": "this.m.ButtonText = 'Already we are known in some parts of the land, yet we are still far from being\na legendary company. We shall increase our renown further!'"
   },
   {

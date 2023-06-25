@@ -2202,7 +2202,7 @@
     "key": "Lienhard",
     "original": "Lienhard",
     "translation": "莱恩哈德",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404093,
@@ -2867,7 +2867,7 @@
     "key": "Svein",
     "original": "Svein",
     "translation": "斯韦恩",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293404188,
@@ -4637,8 +4637,8 @@
     "ID": 293404440,
     "key": "Gunnar",
     "original": "Gunnar",
-    "translation": "贡纳",
-    "stage": 1
+    "translation": "冈纳",
+    "stage": 5
   },
   {
     "ID": 293404441,

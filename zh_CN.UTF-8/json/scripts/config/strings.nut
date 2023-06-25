@@ -3,8 +3,8 @@
     "ID": 293405636,
     "key": "Recognized",
     "original": "Recognized",
-    "translation": "认可的",
-    "stage": 1
+    "translation": "受人认可",
+    "stage": 5
   },
   {
     "ID": 293405637,
@@ -193,8 +193,8 @@
     "ID": 293405663,
     "key": "Legendary",
     "original": "Legendary",
-    "translation": "传奇的",
-    "stage": 1
+    "translation": "大名鼎鼎",
+    "stage": 5
   },
   {
     "ID": 293405664,
@@ -405,8 +405,8 @@
     "ID": 293405693,
     "key": "Kind",
     "original": "Kind",
-    "translation": "种类",
-    "stage": 1
+    "translation": "亲切友好",
+    "stage": 5
   },
   {
     "ID": 293405694,
@@ -468,15 +468,15 @@
     "ID": 293405702,
     "key": "Reliable",
     "original": "Reliable",
-    "translation": "可靠的",
-    "stage": 1
+    "translation": "坚实可靠",
+    "stage": 5
   },
   {
     "ID": 293405703,
     "key": "Great",
     "original": "Great",
-    "translation": "伟大的",
-    "stage": 1
+    "translation": "声誉优良",
+    "stage": 5
   },
   {
     "ID": 293405704,
@@ -1033,8 +1033,8 @@
     "ID": 293405782,
     "key": "Good",
     "original": "Good",
-    "translation": "好的",
-    "stage": 1
+    "translation": "救困扶危",
+    "stage": 5
   },
   {
     "ID": 293405783,
@@ -1753,8 +1753,8 @@
     "ID": 293405883,
     "key": "Incompetent",
     "original": "Incompetent",
-    "translation": "无能的",
-    "stage": 1
+    "translation": "无能为役",
+    "stage": 5
   },
   {
     "ID": 293405884,
@@ -1844,8 +1844,8 @@
     "ID": 293405896,
     "key": "Dreaded",
     "original": "Dreaded",
-    "translation": "害怕",
-    "stage": 1
+    "translation": "令人畏惧",
+    "stage": 5
   },
   {
     "ID": 293405897,
@@ -2391,7 +2391,7 @@
     "key": "Neutral",
     "original": "Neutral",
     "translation": "中立",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293405974,
@@ -2916,8 +2916,8 @@
     "ID": 293406047,
     "key": "Famed",
     "original": "Famed",
-    "translation": "著名的",
-    "stage": 1
+    "translation": "有口皆碑",
+    "stage": 5
   },
   {
     "ID": 293406048,
@@ -3466,8 +3466,8 @@
     "ID": 293406125,
     "key": "Unknown",
     "original": "Unknown",
-    "translation": "未知的",
-    "stage": 1
+    "translation": "默默无名",
+    "stage": 5
   },
   {
     "ID": 293406126,
@@ -4098,8 +4098,8 @@
     "ID": 293406214,
     "key": "Saintly",
     "original": "Saintly",
-    "translation": "圣地",
-    "stage": 1
+    "translation": "在世圣人",
+    "stage": 5
   },
   {
     "ID": 293406215,
@@ -4282,8 +4282,8 @@
     "ID": 293406240,
     "key": "Reputable",
     "original": "Reputable",
-    "translation": "信誉良好的",
-    "stage": 1
+    "translation": "名声在外",
+    "stage": 5
   },
   {
     "ID": 293406241,
@@ -4533,8 +4533,8 @@
     "ID": 293406275,
     "key": "Immortal",
     "original": "Immortal",
-    "translation": "不朽的",
-    "stage": 1
+    "translation": "不朽传奇",
+    "stage": 5
   },
   {
     "ID": 293406276,
@@ -4730,8 +4730,8 @@
     "ID": 293406303,
     "key": "Merciless",
     "original": "Merciless",
-    "translation": "无情",
-    "stage": 1
+    "translation": "冷酷无情",
+    "stage": 5
   },
   {
     "ID": 293406304,
@@ -5776,8 +5776,8 @@
     "ID": 293406451,
     "key": "Fabled",
     "original": "Fabled",
-    "translation": "传说中的",
-    "stage": 1
+    "translation": "受人传颂",
+    "stage": 5
   },
   {
     "ID": 293406452,
@@ -6765,8 +6765,8 @@
     "ID": 293406590,
     "key": "Professional",
     "original": "Professional",
-    "translation": "专业的",
-    "stage": 1
+    "translation": "素养专业",
+    "stage": 5
   },
   {
     "ID": 293406591,
@@ -6786,8 +6786,8 @@
     "ID": 293406593,
     "key": "Treacherous",
     "original": "Treacherous",
-    "translation": "奸诈的",
-    "stage": 1
+    "translation": "背信弃义",
+    "stage": 5
   },
   {
     "ID": 293406594,
@@ -6994,8 +6994,8 @@
     "ID": 293406622,
     "key": "Invincible",
     "original": "Invincible",
-    "translation": "无敌",
-    "stage": 1
+    "translation": "震古铄今",
+    "stage": 5
   },
   {
     "ID": 293406623,
@@ -7164,8 +7164,8 @@
     "ID": 293406646,
     "key": "Unreliable",
     "original": "Unreliable",
-    "translation": "不可靠的",
-    "stage": 1
+    "translation": "毫不可靠",
+    "stage": 5
   },
   {
     "ID": 293406647,
@@ -7467,8 +7467,8 @@
     "ID": 293406688,
     "key": "Notorious",
     "original": "Notorious",
-    "translation": "臭名昭著",
-    "stage": 1
+    "translation": "声名狼藉",
+    "stage": 5
   },
   {
     "ID": 293406689,
@@ -7518,8 +7518,8 @@
     "ID": 293406695,
     "key": "Glorious",
     "original": "Glorious",
-    "translation": "辉煌的",
-    "stage": 1
+    "translation": "声誉辉煌",
+    "stage": 5
   },
   {
     "ID": 293406696,
@@ -8274,8 +8274,8 @@
     "ID": 293406802,
     "key": "Cruel",
     "original": "Cruel",
-    "translation": "残忍的",
-    "stage": 1
+    "translation": "狠心辣手",
+    "stage": 5
   },
   {
     "ID": 293406803,
@@ -8489,8 +8489,8 @@
     "ID": 293406832,
     "key": "Chivalrous",
     "original": "Chivalrous",
-    "translation": "侠义",
-    "stage": 1
+    "translation": "骑士精神",
+    "stage": 5
   },
   {
     "ID": 293406833,
