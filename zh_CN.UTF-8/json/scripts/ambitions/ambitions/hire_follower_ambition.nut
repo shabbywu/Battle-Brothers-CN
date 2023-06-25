@@ -27,8 +27,8 @@
     "ID": 293403489,
     "key": "Gain a renown of at least 'Recognized' (250) to unlock the first slot for a non-combat follower in your retinue. You can increase your renown by completing contracts and winning battles. Then, hire a non-combat follower in the retinue screen. Some followe",
     "original": "Gain a renown of at least 'Recognized' (250) to unlock the first slot for a non-combat follower in your retinue. You can increase your renown by completing contracts and winning battles. Then, hire a non-combat follower in the retinue screen. Some followers require you to fulfill specific prerequisites to unlock their services.",
-    "translation": "获得至少“赏识”（250）的声望，解锁你的随从中非战斗追随者的第一个位置。 你可以通过完成合同和赢得战斗来提高自己的声望。 然后，在随从界面中雇佣一个非战斗追随者。 一些追随者要求你满足特定的先决条件来解锁他们的服务。",
-    "stage": 1,
+    "translation": "获得至少为“受人认可”（250）的名望，解锁第一个非战斗随从位置。你可以通过完成合同和赢得战斗来提高自己的名望。然后，在随从界面中雇佣一个非战斗随从。 一些随从要求你满足特定的先决条件来解锁他们的服务。",
+    "stage": 5,
     "context": "this.m.TooltipText = \"Gain a renown of at least 'Recognized' (250) to unlock the first slot for a non-combat follower in your retinue. You can increase your renown by completing contracts and winning battles. Then, hire a non-combat follower in the retinue screen. Some followers require you to fulfill specific prerequisites to unlock their services.\""
   },
   {

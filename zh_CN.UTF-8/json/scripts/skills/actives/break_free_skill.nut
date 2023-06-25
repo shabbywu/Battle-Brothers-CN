@@ -11,7 +11,7 @@
     "ID": 293419837,
     "key": "Use everything at your disposal to free yourself from what is holding you in place. Hack, slash, cut or gnaw at it if need be!",
     "original": "Use everything at your disposal to free yourself from what is holding you in place. Hack, slash, cut or gnaw at it if need be!",
-    "translation": "利用你所能支配的一切，把你自己从束缚你的东西中解放出来。如果需要，可以砍、劈、割或啃！",
+    "translation": "利用你所能用上的一切，把你自己从束缚你的东西中解放出来。如果需要，可以砍、劈、割或啃！",
     "stage": 5,
     "context": "this.m.Description = 'Use everything at your disposal to free yourself from what is holding you in place. Hack, slash, cut or gnaw at it if need be!'"
   },
@@ -19,7 +19,7 @@
     "ID": 293419838,
     "key": " fails to break free (Chance: ",
     "original": " fails to break free (Chance: ",
-    "translation": "无法挣脱（几率：",
+    "translation": "没能挣脱（几率：",
     "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' fails to break free (Chance: ' + toHit + ', Rolled: ' + rolled + ')'"
   },
@@ -43,7 +43,7 @@
     "ID": 293419841,
     "key": " breaks free (Chance: ",
     "original": " breaks free (Chance: ",
-    "translation": "挣脱束缚（几率",
+    "translation": "挣脱束缚（几率：",
     "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_user) + ' breaks free (Chance: ' + toHit + ', Rolled: ' + rolled + ')'"
   },
@@ -51,7 +51,7 @@
     "ID": 293419842,
     "key": "%[/color] chance to succeed, based on Melee Skill. Each failed attempt will increase the chance to succeed for subsequent attempts.",
     "original": "%[/color] chance to succeed, based on Melee Skill. Each failed attempt will increase the chance to succeed for subsequent attempts.",
-    "translation": "%[/color]成功率，基于近战技能。每次失败的尝试会增加之后尝试的成功几率。",
+    "translation": "%[/color] 几率成功，基于近战技能。每次失败的尝试都将增加后续尝试成功的几率。",
     "stage": 5,
     "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + chance + '%[/color] chance to succeed, based on Melee Skill. Each failed attempt will increase the chance to succeed for subsequent attempts.'"
   }

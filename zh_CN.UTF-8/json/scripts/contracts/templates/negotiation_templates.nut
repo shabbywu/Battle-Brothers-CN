@@ -81,8 +81,8 @@
     "ID": 293410120,
     "key": " total",
     "original": " total",
-    "translation": "。",
-    "stage": 1,
+    "translation": "",
+    "stage": 5,
     "context": "'Get ' + this.Contract.m.Payment.getPerCount() + ' crowns per head you arrive with, up to ' + this.Contract.m.Payment.MaxCount + ' total'"
   },
   {
@@ -104,8 +104,8 @@
     "ID": 293410123,
     "key": "You'll be paid nothing. Is that what you want?%SPEECH_OFF%",
     "original": "You'll be paid nothing. Is that what you want?%SPEECH_OFF%",
-    "translation": "你什么也得不到。 你希望这样吗？%SPEECH_OFF%",
-    "stage": 1,
+    "translation": "你什么也得不到。你希望这样吗？%SPEECH_OFF%",
+    "stage": 5,
     "context": "this[1] += \"You'll be paid nothing. Is that what you want?%SPEECH_OFF%\""
   },
   {
@@ -113,7 +113,7 @@
     "key": "{You'll get | You are to receive | You'll be paid | It's} %reward_completion% crowns when the contract is done.%SPEECH_OFF%",
     "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_completion% crowns when the contract is done.%SPEECH_OFF%",
     "translation": "合同完成后{你会得到 | 你会收到 | 我会给你} %reward_completion% 克朗。%SPEECH_OFF%",
-    "stage": 1,
+    "stage": 5,
     "context": "this[1] += \"{You'll get | You are to receive | You'll be paid | It's} %reward_completion% crowns when the contract is done.%SPEECH_OFF%\""
   },
   {
@@ -305,8 +305,8 @@
     "ID": 293410149,
     "key": "{You'll get | You are to receive | You'll be paid} all %reward_advance% crowns in advance.%SPEECH_OFF%",
     "original": "{You'll get | You are to receive | You'll be paid} all %reward_advance% crowns in advance.%SPEECH_OFF%",
-    "translation": "{你会得到 | 你会收到 | 我会给你}共%reward_advance% 克朗的预付款。%SPEECH_OFF%",
-    "stage": 1,
+    "translation": "{你会得到 | 你会收到 | 我会给你}共 %reward_advance% 克朗的预付款。%SPEECH_OFF%",
+    "stage": 5,
     "context": "this[1] += \"{You'll get | You are to receive | You'll be paid} all %reward_advance% crowns in advance.%SPEECH_OFF%\""
   },
   {

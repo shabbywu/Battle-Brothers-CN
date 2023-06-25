@@ -41,16 +41,16 @@
     "ID": 293403496,
     "key": "Become known as 'Professional' (1,050 renown) in order to catch the attention of the noble houses. You can increase your renown by completing contracts and winning battles.",
     "original": "Become known as 'Professional' (1,050 renown) in order to catch the attention of the noble houses. You can increase your renown by completing contracts and winning battles.",
-    "translation": "以“专业”（1050声望）闻名，以吸引贵族家族的注意。 你可以通过完成合同和赢得战斗来提高自己的声望。",
-    "stage": 1,
+    "translation": "以“素养专业”（1050名望）闻名以吸引贵族家族的注意。你可以通过完成合同和赢得战斗来提高自己的名望。",
+    "stage": 5,
     "context": "this.m.TooltipText = \"Become known as 'Professional' (1,050 renown) in order to catch the attention of the noble houses. You can increase your renown by completing contracts and winning battles.\""
   },
   {
     "ID": 293403497,
     "key": "Reach 'Professional' renown",
     "original": "Reach 'Professional' renown",
-    "translation": "达到“专业”声望",
-    "stage": 1,
+    "translation": "名望达到“素养专业”",
+    "stage": 5,
     "context": "this.m.UIText = \"Reach 'Professional' renown\""
   },
   {

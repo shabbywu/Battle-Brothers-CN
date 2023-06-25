@@ -143,8 +143,8 @@
     "ID": 293406877,
     "key": "Nobles give contracts only to mercenary companies with professional renown.",
     "original": "Nobles give contracts only to mercenary companies with professional renown.",
-    "translation": "贵族只向有专业声望的雇佣兵队伍提供合同。",
-    "stage": 1
+    "translation": "贵族只向达到“素养专业”名望的雇佣兵战团提供合同。",
+    "stage": 5
   },
   {
     "ID": 293406878,
@@ -276,8 +276,8 @@
     "ID": 293406896,
     "key": "Fulfilling ambitions will raise everyone's mood and grant you renown, as well as some unique rewards.",
     "original": "Fulfilling ambitions will raise everyone's mood and grant you renown, as well as some unique rewards.",
-    "translation": "完成野心会提高每个人的情绪，并给予你声望，以及一些独特的奖励。",
-    "stage": 1
+    "translation": "实现野心会提高每个人的情绪，并给予你名望以及一些独特的奖励。",
+    "stage": 5
   },
   {
     "ID": 293406897,
@@ -549,8 +549,8 @@
     "ID": 293406935,
     "key": "Higher renown will unlock more difficult contracts and better pay.",
     "original": "Higher renown will unlock more difficult contracts and better pay.",
-    "translation": "更高的声望将解锁更困难的合同和更好的报酬。",
-    "stage": 1
+    "translation": "更高的名望将解锁更困难的合同和更好的报酬。",
+    "stage": 5
   },
   {
     "ID": 293406936,

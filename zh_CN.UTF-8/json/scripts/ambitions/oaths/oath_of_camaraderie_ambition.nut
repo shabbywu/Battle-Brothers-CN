@@ -59,8 +59,8 @@
     "ID": 293403612,
     "key": "You gain extra Renown if your men become confident in battle enough times (",
     "original": "You gain extra Renown if your men become confident in battle enough times (",
-    "translation": "誓言目标: 让你的战团成员变得自信(",
-    "stage": 1,
+    "translation": "如果你的队员在战斗中达到自信的次数足够，你将获得额外的名望(",
+    "stage": 5,
     "context": "return 'You gain extra Renown if your men become confident in battle enough times (' + this.getBonusObjectiveProgress() + '/' + this.getBonusObjectiveGoal() + ').';"
   },
   {

@@ -96,7 +96,7 @@
     "ID": 293409743,
     "key": "Failed to secure a ruined ",
     "original": "Failed to secure a ruined ",
-    "translation": "没能保护一个破败的 ",
+    "translation": "没能保护好一个破败的 ",
     "stage": 1,
     "context": "'Failed to secure a ruined ' + this.Contract.m.Location.getRealName()"
   },
@@ -204,8 +204,8 @@
     "ID": 293409758,
     "key": "On your return...",
     "original": "On your return...",
-    "translation": "你回来后…",
-    "stage": 1
+    "translation": "你回来后……",
+    "stage": 5
   },
   {
     "ID": 293409759,

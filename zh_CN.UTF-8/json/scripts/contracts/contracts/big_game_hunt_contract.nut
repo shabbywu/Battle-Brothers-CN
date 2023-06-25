@@ -126,7 +126,7 @@
     "ID": 293407936,
     "key": "On your return...",
     "original": "On your return...",
-    "translation": "你回来后…",
+    "translation": "你回来后……",
     "stage": 5
   },
   {

@@ -210,7 +210,7 @@
     "key": "Delivered some cargo",
     "original": "Delivered some cargo",
     "translation": "运送了一些货物",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408510,
@@ -273,8 +273,8 @@
     "ID": 293408518,
     "key": "Along the road...",
     "original": "Along the road...",
-    "translation": "在路上…",
-    "stage": 1
+    "translation": "在路上……",
+    "stage": 5
   },
   {
     "ID": 293408519,

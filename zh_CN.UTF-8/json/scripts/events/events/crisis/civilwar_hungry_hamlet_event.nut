@@ -11,8 +11,8 @@
     "ID": 293413096,
     "key": "The company gained renown",
     "original": "The company gained renown",
-    "translation": "战团获得了声望",
-    "stage": 1
+    "translation": "战团获得了名望",
+    "stage": 5
   },
   {
     "ID": 293413097,
@@ -54,8 +54,8 @@
     "ID": 293413102,
     "key": "The company loses renown",
     "original": "The company loses renown",
-    "translation": "战团失去了声望",
-    "stage": 1
+    "translation": "战团失去了名望",
+    "stage": 5
   },
   {
     "ID": 293413103,
@@ -145,8 +145,8 @@
     "ID": 293413115,
     "key": "Along the road...",
     "original": "Along the road...",
-    "translation": "在路上…",
-    "stage": 1,
+    "translation": "在路上……",
+    "stage": 5,
     "context": "this.m.Title = 'Along the road...'"
   },
   {

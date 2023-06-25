@@ -115,8 +115,8 @@
     "ID": 293410172,
     "key": "You unlock slots for your retinue of non-combat followers by gaining Renown.",
     "original": "You unlock slots for your retinue of non-combat followers by gaining Renown.",
-    "translation": "你可以通过获得声望来解锁随从非战斗跟随者的位置。",
-    "stage": 1
+    "translation": "你可以通过获得名望来解锁非战斗随从的位置。",
+    "stage": 5
   },
   {
     "ID": 293410173,

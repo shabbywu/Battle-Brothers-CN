@@ -3,8 +3,8 @@
     "ID": 293403499,
     "key": "A respectable company is recognized by their equipment. We should head out\nand claim either a famed weapon, shield, armor or helmet to increase our renown.",
     "original": "A respectable company is recognized by their equipment. We should head out\nand claim either a famed weapon, shield, armor or helmet to increase our renown.",
-    "translation": "一家受人尊敬的战团因其装备而得到认可。 我们应该出发去\n索取一件著名的武器、盾牌、盔甲或头盔，以提高我们的声望。",
-    "stage": 1,
+    "translation": "一家受人尊敬的战团会因其装备而得到认可。 我们应该出发去\n获取一件著名的武器、盾牌、盔甲或头盔，以提高我们的名望。",
+    "stage": 5,
     "context": "this.m.ButtonText = 'A respectable company is recognized by their equipment. We should head out\nand claim either a famed weapon, shield, armor or helmet to increase our renown.'"
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293403502,
     "key": "You gain additional renown for having a famed item",
     "original": "You gain additional renown for having a famed item",
-    "translation": "你因拥有一件著名的物品而获得额外的声望",
-    "stage": 1
+    "translation": "你因拥有一件著名的物品而获得额外的名望",
+    "stage": 5
   },
   {
     "ID": 293403503,
@@ -42,8 +42,8 @@
     "ID": 293403504,
     "key": "Gain an additional 150 renown for your victory.",
     "original": "Gain an additional 150 renown for your victory.",
-    "translation": "为你的胜利获得额外的150声望。",
-    "stage": 1,
+    "translation": "为你的胜利获得额外的150名望。",
+    "stage": 5,
     "context": "this.m.RewardTooltip = 'Gain an additional 150 renown for your victory.'"
   },
   {

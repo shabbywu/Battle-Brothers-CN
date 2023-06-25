@@ -3,7 +3,7 @@
     "ID": 293403597,
     "key": "1 more day",
     "original": "1 more day",
-    "translation": " 1 天",
+    "translation": " 1天",
     "stage": 1,
     "context": "return 'Uphold an ' + this.m.OathName + ' for ' + timeRemaining > 1 ? 'another ' + timeRemaining + ' days' : '1 more day';"
   },
@@ -11,8 +11,8 @@
     "ID": 293403598,
     "key": "Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts.",
     "original": "Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts.",
-    "translation": "你的声望会提高，这意味着合同的报酬会更高，并有可能解锁新类型的合同。",
-    "stage": 1,
+    "translation": "你的名望会提高，这意味着合同的报酬会更高，并有可能解锁新类型的合同。",
+    "stage": 5,
     "context": "'Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts.' + reward_tooltip == '' ? '\n\n' : ''"
   },
   {

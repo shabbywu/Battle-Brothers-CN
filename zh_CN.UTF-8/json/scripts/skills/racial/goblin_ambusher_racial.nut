@@ -3,7 +3,7 @@
     "ID": 293422154,
     "key": " is poisoned",
     "original": " is poisoned",
-    "translation": " 中毒了",
+    "translation": "中毒了",
     "stage": 5,
     "context": "this.Const.UI.getColorizedEntityName(_targetEntity) + ' is poisoned'"
   },

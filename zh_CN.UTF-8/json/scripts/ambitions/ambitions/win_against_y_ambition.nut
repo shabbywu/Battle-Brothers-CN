@@ -19,8 +19,8 @@
     "ID": 293403589,
     "key": "We achieved some renown, but now you can see real fame on the horizon.\nLet us defeat a formidable force of two dozen opponents in battle!",
     "original": "We achieved some renown, but now you can see real fame on the horizon.\nLet us defeat a formidable force of two dozen opponents in battle!",
-    "translation": "我们获得了一些声望，但现在你可以追求真正的名望。\n让我们在战斗中击败两打强大的对手！",
-    "stage": 1,
+    "translation": "我们获得了一些名望，但现在你可以看到真正的名声即将到来。\n让我们在战斗中击败两打强大的对手！",
+    "stage": 5,
     "context": "this.m.ButtonText = 'We achieved some renown, but now you can see real fame on the horizon.\nLet us defeat a formidable force of two dozen opponents in battle!'"
   },
   {

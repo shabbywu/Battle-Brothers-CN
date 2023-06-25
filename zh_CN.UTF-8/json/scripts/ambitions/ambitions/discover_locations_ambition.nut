@@ -27,8 +27,8 @@
     "ID": 293403410,
     "key": "Great explorers become men of legend. Going into the wild lands is a dangerous\nbusiness, but the tales we'll tell afterward will surely increase our renown.",
     "original": "Great explorers become men of legend. Going into the wild lands is a dangerous\nbusiness, but the tales we'll tell afterward will surely increase our renown.",
-    "translation": "伟大的探险家成为传奇人物。 进入荒野是一项危险的事业，但我们随后将讲述的故事肯定会增加我们的知名度。",
-    "stage": 1,
+    "translation": "伟大的探险家会成为传奇人物。进入荒野是一项危险的事业，\n但我们随后将讲述的故事肯定会增加我们的名望。",
+    "stage": 5,
     "context": "this.m.ButtonText = \"Great explorers become men of legend. Going into the wild lands is a dangerous\nbusiness, but the tales we'll tell afterward will surely increase our renown.\""
   },
   {

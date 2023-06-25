@@ -67,8 +67,8 @@
     "ID": 293413213,
     "key": "The company gained renown",
     "original": "The company gained renown",
-    "translation": "战团获得了声望",
-    "stage": 1
+    "translation": "战团获得了名望",
+    "stage": 5
   },
   {
     "ID": 293413214,
@@ -96,8 +96,8 @@
     "ID": 293413217,
     "key": "Along the road...",
     "original": "Along the road...",
-    "translation": "在路上…",
-    "stage": 1,
+    "translation": "在路上……",
+    "stage": 5,
     "context": "this.m.Title = 'Along the road...'"
   },
   {

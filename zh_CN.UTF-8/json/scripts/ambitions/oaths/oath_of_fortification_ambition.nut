@@ -35,8 +35,8 @@
     "ID": 293403652,
     "key": "You gain extra Renown if none of your men die during the Oath (",
     "original": "You gain extra Renown if none of your men die during the Oath (",
-    "translation": "如果你在誓言期间从未损失过战团成员，你会获得额外的声望。 (",
-    "stage": 1,
+    "translation": "如果你在誓言期间从未损失过战团成员，你将获得额外的名望 (",
+    "stage": 5,
     "context": "return 'You gain extra Renown if none of your men die during the Oath (' + this.getBonusObjectiveProgress() + ' dead so far).';"
   },
   {

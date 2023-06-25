@@ -3,8 +3,8 @@
     "ID": 293408578,
     "key": "[img]gfx/ui/events/event_76.png[/img]{The stranger is a lone man who keeps his distance, one foot on the path, the other inching toward escape.%SPEECH_ON%Hey there.%SPEECH_OFF%He glances across your men, slowly smiling as though he can sense our being los",
     "original": "[img]gfx/ui/events/event_76.png[/img]{The stranger is a lone man who keeps his distance, one foot on the path, the other inching toward escape.%SPEECH_ON%Hey there.%SPEECH_OFF%He glances across your men, slowly smiling as though he can sense our being lost.%SPEECH_ON%Searching for the %location% are ya? Hmm, yeah. Well I'll tell you what, hand me %hint_bribe% crowns and I'll tell you exactly where it is! Come after me with yer swords and I'll be gone quicker than you can blink!%SPEECH_OFF% | You watch as the stranger comes into the light of the path, shielding his eyes so as to keep much of his face hidden.%SPEECH_ON%You look like the sort to be in search of something, but you know not where it be! The %location% is tricky like that. Good thing I know where it is. Good thing you, too, can know where it is by sliding %hint_bribe% crowns my way. I'm the fastest sprinter you ever did see, so don't try and wring it out of me with one of them shiny swords you got.%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_76.png[/img]{陌生人是一个独自行动的人，保持着距离，一只脚站在路上，另一只脚向着逃脱的方向挪动。%SPEECH_ON%嗨！%SPEECH_OFF%他环视着你的人，慢慢地露出了微笑，仿佛能感觉到我们的无助。%SPEECH_ON%你们在寻找%location%吗？ 嗯，好吧，我告诉你们，把%hint_bribe%克朗交给我，我会告诉你具体在哪里！如果你带着剑追杀我，我会比你眨眼间都不见了！%SPEECH_OFF% | 你看着陌生人走到路灯下，遮住眼睛以保持脸部的神秘感。%SPEECH_ON%你看起来像那种在寻找某物但不知道在哪里的人！ %location%就是那样棘手。我知道它在哪里，而你也可以通过支付%hint_bribe%克朗得知其所在。我是你们见过的最快的短跑运动员，所以最好不要拿出闪闪发光的剑来吓唬我。%SPEECH_OFF%}",
-    "stage": 1
+    "translation": "[img]gfx/ui/events/event_76.png[/img]{陌生人是一个独自行动的人，保持着距离，一只脚站在路上，另一只脚向着逃脱的方向挪动。%SPEECH_ON%嗨，你们好！%SPEECH_OFF%他瞥了一眼你的人，慢慢地露出了微笑，好似能感觉到我们对前路的迷茫。%SPEECH_ON%你们在寻找%location%吗？嗯，好吧，我告诉你们，给我%hint_bribe%克朗，我会告诉你具体在哪里！如果你们拿着剑追我，我会消失得比你们眨眼还快！%SPEECH_OFF% | 你看着陌生人走到路灯下，他遮着眼睛以保持脸部的神秘感。%SPEECH_ON%你看起来像那种在寻找某物但不知道在哪里的人！%location%就是那样棘手。还好我知道它在哪儿。而且还好你可以通过给我%hint_bribe%克朗以得知其所在。我是你们见过的最快的短跑运动员，所以别想用你们那些闪闪发亮的剑逼问我。%SPEECH_OFF%}",
+    "stage": 5
   },
   {
     "ID": 293408579,
@@ -18,14 +18,14 @@
     "key": "Much appreciated.",
     "original": "Much appreciated.",
     "translation": "非常感谢。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408581,
     "key": "{Not interested. | Our travels will not take us there for a while. | This is not the kind of work we're looking for.}",
     "original": "{Not interested. | Our travels will not take us there for a while. | This is not the kind of work we're looking for.}",
-    "translation": "{不感兴趣。 | 这和我们的旅行计划不顺路。 | 这不是我们要找的工作。}",
-    "stage": 1
+    "translation": "{不感兴趣。 | 这和我们的旅行计划不顺路。 | 这不是我们要找的那种工作。}",
+    "stage": 5
   },
   {
     "ID": 293408582,
@@ -39,30 +39,30 @@
     "ID": 293408583,
     "key": "Out of the way.",
     "original": "Out of the way.",
-    "translation": "让路。",
-    "stage": 1
+    "translation": "让开。",
+    "stage": 5
   },
   {
     "ID": 293408584,
     "key": " to another party",
     "original": " to another party",
-    "translation": "的位置卖给另一方",
-    "stage": 1,
+    "translation": "的位置卖给了另一方",
+    "stage": 5,
     "context": "'Sold the location of ' + this.Flags.get('Location') + ' to another party'"
   },
   {
     "ID": 293408585,
     "key": "[img]gfx/ui/events/event_76.png[/img]{Waving his hand rather friendly-like, a man approaches. You respond by unsheathing your sword halfway. He laughs.%SPEECH_ON%So many are interested in the %location%, so I can't fault you for being so defensive. Look, ",
     "original": "[img]gfx/ui/events/event_76.png[/img]{Waving his hand rather friendly-like, a man approaches. You respond by unsheathing your sword halfway. He laughs.%SPEECH_ON%So many are interested in the %location%, so I can't fault you for being so defensive. Look, I'll tell you exactly where it's at. Just %distance% to the %direction% of here, %terrain%.%SPEECH_OFF%He heads off, cackling with laughter.%SPEECH_ON%I dunno if I've done good or ill, and that's just the sort of fun I like!%SPEECH_OFF% | A group of world-weary explorers! They seize up in the middle of the road, half covered in mud and half in leaves and all in unintentional camouflage. One rubs his forehead, eyeing you carefully before a smile widens.%SPEECH_ON%Eh, I know a searcher when I see one. You're looking for the %location%, aintcha? Well yer in luck, we was just coming from there! Here, give me your map and I'll show you just where it is. You see, %terrain% %distance% to the %direction% of where we are now.%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_76.png[/img]{一个人友好地挥手走了过来。你拔出了一半的剑作为回应，他笑了。%SPEECH_ON%很多人对%location%很感兴趣，所以我不能责怪你如此戒备。看，我告诉你确切的位置，就在这里的%direction%方向，%terrain%，%distance%的距离。%SPEECH_OFF%他开心地走开了。%SPEECH_ON%我不知道我做的是好事还是坏事，但这就是我喜欢的乐趣！%SPEECH_OFF% | 一群世故的探险者！他们在路中间停了下来，半身陷在泥中，半身被树叶覆盖，全部不经意的伪装。其中一个人揉了揉额头，仔细地打量着你，然后笑容扩大了。%SPEECH_ON%嗯，我知道一个搜索者当我看到时。你在找%location%，对吧？好吧，你运气真好，我们刚从那里回来！把你的地图给我，我会告诉你确切位置的。你看，%terrain% %distance%的%direction%方向离我们不远。%SPEECH_OFF%}",
-    "stage": 1
+    "translation": "[img]gfx/ui/events/event_76.png[/img]{一个人友好地挥着手走了过来。你拔出了一半的剑作为回应，他笑了。%SPEECH_ON%很多人对%location%很感兴趣，所以我不能责怪你如此戒备。听着，我会告诉你它在哪里。就在这里%direction%边%distance%的%terrain%。%SPEECH_OFF%他咯咯地笑着走开了。%SPEECH_ON%我不知道我是做了好事还是坏事，而这正是我喜欢的那种有趣的情况！%SPEECH_OFF% | 一群世故的探险者！他们停在路中间，一半被泥巴包裹着，一半被树叶覆盖着，仿佛不经意间与环境融为一体。其中一位揉着额头，仔细地打量着你，然后微笑着开口。%SPEECH_ON%嘿，我一眼就能看出你是个探索者。你是在寻找%location%，对吧？那你真是走运，我们正好刚从那边过来！把你的地图给我，我会指给你它的准确位置。你看，就在%direction%边%distance%处的%terrain%。%SPEECH_OFF%}",
+    "stage": 5
   },
   {
     "ID": 293408586,
     "key": "Those people will never learn.",
     "original": "Those people will never learn.",
-    "translation": "那些人永远不会学习。",
-    "stage": 1
+    "translation": "那些人永远学不到什么。",
+    "stage": 5
   },
   {
     "ID": 293408587,
@@ -75,8 +75,8 @@
     "ID": 293408588,
     "key": "Hired to find the ",
     "original": "Hired to find the ",
-    "translation": "被雇来寻找",
-    "stage": 1,
+    "translation": "受雇找到了",
+    "stage": 5,
     "context": "'Hired to find the ' + this.Flags.get('Location')"
   },
   {
@@ -90,16 +90,16 @@
     "ID": 293408590,
     "key": "Find Location",
     "original": "Find Location",
-    "translation": "寻找位置。",
-    "stage": 1,
+    "translation": "寻找位置",
+    "stage": 9,
     "context": "this.m.Name = 'Find Location'"
   },
   {
     "ID": 293408591,
     "key": "Why get paid only once if we can get paid twice?",
     "original": "Why get paid only once if we can get paid twice?",
-    "translation": "如果可以两次获得报酬，为什么只收一次呢？",
-    "stage": 1
+    "translation": "如果我们能拿两次报酬，何必只拿一次呢？",
+    "stage": 5
   },
   {
     "ID": 293408592,
@@ -113,36 +113,36 @@
     "ID": 293408593,
     "key": "[img]gfx/ui/events/event_04.png[/img]You tell the man that you'll keep the location of his familial home a secret. While he celebrates, you go and tell %employer% where the %location% is. Getting paid by both sides makes for a pretty sweet gig. Catching h",
     "original": "[img]gfx/ui/events/event_04.png[/img]You tell the man that you'll keep the location of his familial home a secret. While he celebrates, you go and tell %employer% where the %location% is. Getting paid by both sides makes for a pretty sweet gig. Catching hate from both not so much, but what did they expect in dealing with a sellsword?",
-    "translation": "[img]gfx/ui/events/event_04.png[/img]你告诉那个人，你会保密他家的位置。当他庆祝的时候，你去告诉%employer%他们的%location%在哪里。从两方面得到报酬确实很赚，但受到双方的仇恨就不一样了。但做雇佣兵他们还能期望什么呢？",
-    "stage": 1
+    "translation": "[img]gfx/ui/events/event_04.png[/img]你告诉那人你会对他家的位置保密。在他庆祝的时候，你又去向%employer%告知了%location%的位置。同时从两方获得报酬确实很甜蜜。不过，同时遭受双方的仇恨就不那么美妙了，但他们能对与佣兵打交道抱多少期望呢？",
+    "stage": 5
   },
   {
     "ID": 293408594,
     "key": "Well, %employer% should have just payed us more.",
     "original": "Well, %employer% should have just payed us more.",
-    "translation": "嗯，%employer%应该给我们更多的薪水。",
-    "stage": 1
+    "translation": "嗯，%employer%本该多付我们些钱。",
+    "stage": 5
   },
   {
     "ID": 293408595,
     "key": "[img]gfx/ui/events/event_07.png[/img]The %location% has been spotted - and so has the %companyname%. The supposed 'altruist' who had given you the directions is standing there, except now he has a band of hardy and unfriendly men with him.%SPEECH_ON%{Well",
     "original": "[img]gfx/ui/events/event_07.png[/img]The %location% has been spotted - and so has the %companyname%. The supposed 'altruist' who had given you the directions is standing there, except now he has a band of hardy and unfriendly men with him.%SPEECH_ON%{Well, looks like you can follow directions after all. Setting an ambush is pretty easy when you tell the idiot where to meet ya. Anyway, kill them all! | Hey there, sellsword. Strange seeing you here. Oh wait, no it isn't. Kill them all! | Damn, took you long enough! What, you can't follow simple instructions on how to walk into your own graves? Foolish, sellsword, and annoyingly dumb. Well, let's get this over with. Kill them all.}%SPEECH_OFF%",
-    "translation": "[img]gfx/ui/events/event_07.png[/img]%location%已经被发现——战团%companyname%也被发现了。“利他主义者”（之前指引你的人）正在那里，现在他身边有一群强壮而不友好的人。%SPEECH_ON%{哦，看上去你终于能够遵循指示。当这个白痴告诉你在哪里见面时，伏击就很容易了。无论如何，杀了他们！ | 嘿，雇佣兵，见到你身在此地有点奇怪吧。哦等等，不是啊。杀了他们！ | 该死，你们花的时间太长了！什么，你们连走到自己坟墓的简单指示都不能遵循？愚蠢的雇佣军，真没脑子。好，让我们结束这一切，杀了他们！}%SPEECH_OFF%",
-    "stage": 1
+    "translation": "[img]gfx/ui/events/event_07.png[/img]%location%已经被发现 —— 而%companyname%也被发现了。给你指路的那个所谓的“利他主义者”就站在那里，现在他身边有一群强壮而不友好的人。%SPEECH_ON%{好吧。看来你还是可以听从指示的。设埋伏在告诉了某个白痴在哪见面时很容易的。不管怎样，把他们都杀了！ | 嘿，雇佣兵，在这里见到你真奇怪。哦等等，不是。杀了他们！ | 该死，你们花的时间太长了！什么，你就不能按照简单的指示走进自己的坟墓吗？愚蠢的佣兵，蠢得让人讨厌。好吧，让我们结束这一切，杀了他们！}%SPEECH_OFF%",
+    "stage": 5
   },
   {
     "ID": 293408596,
     "key": "Got it.",
     "original": "Got it.",
-    "translation": "知道了。",
-    "stage": 1
+    "translation": "搞定。",
+    "stage": 5
   },
   {
     "ID": 293408597,
     "key": "[img]gfx/ui/events/event_51.png[/img]{You agree to sell the man the details of your expedition. He's overly joyous about the whole affair, but %employer% is not. Apparently, a little child saw this exchange and reported your betrayal to the head of %townn",
     "original": "[img]gfx/ui/events/event_51.png[/img]{You agree to sell the man the details of your expedition. He's overly joyous about the whole affair, but %employer% is not. Apparently, a little child saw this exchange and reported your betrayal to the head of %townname%. Your reputation here has, no doubt, been a little hurt. | Well, on one hand you spared this man's supposed familial home from destruction at the hands of those who run %townname%. On the other, those who run %townname% quickly heard of what you'd done. You should have paid more mind to a small town's population to double as rumormills extraordinaire.}",
-    "translation": "[img]gfx/ui/events/event_51.png[/img]{你同意向那个男人出售你的远征计划细节。他为此感到过度高兴，但是%employer%并不是这样想的。显然，一个小孩子看到了这个交易，并向%townname%的首领报告了你的背叛。你在这里的声誉无疑受到了一些伤害。 | 一方面，你拯救了这个男人所谓的家园，使其免遭那些掌管%townname%的人的破坏。另一方面，那些掌管%townname%的人很快就听到了你的所作所为。你应该更加注意一个小镇的人口的谣言传播能力。}",
-    "stage": 1
+    "translation": "[img]gfx/ui/events/event_51.png[/img]{你同意向那个男人出售你的远征计划细节。他为此非常高兴，但是%employer%却不是。显然，有个小孩看到了这场交易，并向%townname%的当权者报告了你的背叛。你在这里的声誉无疑受到了一些伤害。 | 好吧，一方面你保护了这个男人所谓的家乡免受那些%townname%的当权者破坏。另一方面，%townname%的当权者很快就听说了你的所作所为。你应该更加关注这个小镇的人口在传播谣言上的强大之处。}",
+    "stage": 5
   },
   {
     "ID": 293408598,
@@ -156,22 +156,22 @@
     "ID": 293408599,
     "key": "{What does it pay? | For the right price we'll find it.}",
     "original": "{What does it pay? | For the right price we'll find it.}",
-    "translation": "{报酬是多少？ | 我们会以合适的价格找到它。}",
-    "stage": 1
+    "translation": "{报酬是多少？ | 出价合适我们就会去找到它。}",
+    "stage": 5
   },
   {
     "ID": 293408600,
     "key": "No need, we'll find it on our own.",
     "original": "No need, we'll find it on our own.",
-    "translation": "不需要，我们自己会找到它的。",
-    "stage": 1
+    "translation": "不需要，我们自己会找到的。",
+    "stage": 5
   },
   {
     "ID": 293408601,
     "key": "Sold the location of ",
     "original": "Sold the location of ",
     "translation": "将",
-    "stage": 1,
+    "stage": 5,
     "context": "'Sold the location of ' + this.Flags.get('Location') + ' to another party'"
   },
   {
@@ -192,8 +192,8 @@
     "ID": 293408604,
     "key": "On your return...",
     "original": "On your return...",
-    "translation": "你回来后…",
-    "stage": 1
+    "translation": "你回来后……",
+    "stage": 5
   },
   {
     "ID": 293408605,
@@ -228,29 +228,29 @@
     "ID": 293408609,
     "key": "[img]gfx/ui/events/event_51.png[/img]{After telling the man no, he falls to his knees and cries out, much to the amusement of the %companyname%. He wails on about how you've left the historic past of his family in the hands of lechers and usurers. You tel",
     "original": "[img]gfx/ui/events/event_51.png[/img]{After telling the man no, he falls to his knees and cries out, much to the amusement of the %companyname%. He wails on about how you've left the historic past of his family in the hands of lechers and usurers. You tell him that you don't care. | Telling the man that you've no interest in betraying your original employer sets him off. He tries to attack you, launching forward to glom onto you with angry hands. %randombrother% pushes him away and threatens to kill him with a blade. The man backs off. He sits beside the path, head between his knees, sobbing. One of the men gives him a handkerchief as they pass by. | You tell the man no. He begs. You tell him no again. He begs some more. You suddenly realize you've done with this with a woman or two. It really isn't a good look. You tell him as much, but the emotion of the moment is too much for him. He starts to wail, going on about how his family name will be ruined by the greedy bastards that run %townname%. You tell him that his supposed family name would be spared if, perhaps, he was the one running this town. This does not clear his tears.}",
-    "translation": "[img]gfx/ui/events/event_51.png[/img]{你拒绝了他的请求，他跪在地上大声哭泣，让%companyname%乐此不疲。他哭着说他把他家族的历史托付给了好色之徒和高利贷者。你告诉他你不在乎。 | 当你告诉他你没有背叛原雇主的意向时，他很生气，企图攻击你，愤怒地伸手来扑你。%randombrother%把他推开，并拔出刀威胁要杀了他。那人退后了，在路边坐下，抽泣着。其中一人递给他手帕以示同情。 | 你再次拒绝了这个人的请求，他苦苦哀求。你又再次拒绝了他。你忽然发现你以前曾和一两个女人做出过这样的事情。这样做并不好看。你对他说了这些话，但是情感太过强烈，他再次开始哭泣，唉声叹气地说他家族的名声将因经营%townname%的贪婪混蛋而被毁掉。你告诉他，如果他自己经营这座城市，他所谓的家族名声不会受到损害。但是这并没有止住他的眼泪。}",
-    "stage": 1
+    "translation": "[img]gfx/ui/events/event_51.png[/img]{在你拒绝他后，他跪在地上大声哭泣，这让%companyname%感到很好笑。他哭诉说你把他家的历史留给了好色之徒和高利贷者。你告诉他你不在乎。 | 告诉他你无意背叛你的原雇主激怒了他。他企图攻击你，伸出愤怒的双手向你扑来。%randombrother%把他推开，并拔出刀威胁要杀了他。那人退后了，在路边坐下，头埋在双膝之间，抽泣着。其中一个人经过时给了他一块手帕。 | 你告诉他不行，他苦苦哀求。你又再次拒绝了他。他祈求得更厉害了。突然，你意识到你曾经对一两个女人做过类似的事情，这作态真的不好看。你对他解释了一大堆，但这一刻的情感对他来说太过强烈。他开始嚎啕大哭，不停地诉说其家族名声将会如何被那些掌控%townname%的贪婪混蛋们毁掉。你告诉他，如果、可能，他是这个小镇的主人，他所谓的家族名声就将得到保护。这并不能止住他的眼泪。}",
+    "stage": 5
   },
   {
     "ID": 293408610,
     "key": "[img]gfx/ui/events/event_76.png[/img]You accept the man's offer and he dishes out the details as promised.%SPEECH_ON%You see, it's there, of course, %terrain% %distance% to the %direction% of where we are now. Easy.%SPEECH_OFF%He whistles as he walks off,",
     "original": "[img]gfx/ui/events/event_76.png[/img]You accept the man's offer and he dishes out the details as promised.%SPEECH_ON%You see, it's there, of course, %terrain% %distance% to the %direction% of where we are now. Easy.%SPEECH_OFF%He whistles as he walks off, no doubt a very easy payday for him.",
-    "translation": "[img]gfx/ui/events/event_76.png[/img]你接受了这个人的提议，他果然兑现了他的承诺并讲解了细节。%SPEECH_ON%你看，它就在那儿，离我们现在的位置%distance%%direction%%terrain%。非常容易。%SPEECH_OFF%他边走边吹着口哨，毫无疑问这对他来说是一次十分容易的赚钱机会。",
-    "stage": 1
+    "translation": "[img]gfx/ui/events/event_76.png[/img]你接受了这个人的提议，他就像承诺的那样给出了细节。%SPEECH_ON%你看，它就在那儿，在离我们现在的位置往%direction%%distance%处的%terrain%。简单。%SPEECH_OFF%他在走开时吹起了口哨，毫无疑问，这对他来说是个非常容易的赚钱机会。",
+    "stage": 5
   },
   {
     "ID": 293408611,
     "key": "Fine, here's the crowns. Now speak.",
     "original": "Fine, here's the crowns. Now speak.",
-    "translation": "好的，这是克朗。现在讲吧。",
-    "stage": 1
+    "translation": "好吧，这是克朗。现在讲吧。",
+    "stage": 5
   },
   {
     "ID": 293408612,
     "key": "Gave information to a competitor",
     "original": "Gave information to a competitor",
-    "translation": "向竞争对手泄露信息",
-    "stage": 1
+    "translation": "向竞争对手提供了信息",
+    "stage": 5
   },
   {
     "ID": 293408613,
@@ -270,8 +270,8 @@
     "ID": 293408615,
     "key": "[img]gfx/ui/events/event_20.png[/img]{%employer% welcomes you back. You hand over your recently illustrated map and he pores over it, swatting the spotted mark with the back of his hand.%SPEECH_ON%Of course that's where it is!%SPEECH_OFF%He smirks and pay",
     "original": "[img]gfx/ui/events/event_20.png[/img]{%employer% welcomes you back. You hand over your recently illustrated map and he pores over it, swatting the spotted mark with the back of his hand.%SPEECH_ON%Of course that's where it is!%SPEECH_OFF%He smirks and pays you what you're owed. | You come to %employer%'s room, a fresh map in hand. He takes it from you and looks it over.%SPEECH_ON%Well then. I'd mind to think this was a spot too easy, but an agreement is an agreement.%SPEECH_OFF%He hands you a satchel weighed with precisely what is owed. | You report to %employer%, telling him of %location%'s location. He nods and scribbles, copying the notes from your map. Curious, you ask how he knows you're not lying. The man sets down in a chair and leans back, clasping his hands over his belly.%SPEECH_ON%I invested in a tracker who kept close to your company. He made it here before you did and you've but confirmed what I already know. Hope you don't mind the measures taken.%SPEECH_OFF%Nodding, you think it a wise move and take your pay and go.}",
-    "translation": "[img]gfx/ui/events/event_20.png[/img]{%employer%欢迎你回来。你递给他最近绘制的地图，他看了看，用手背拍打着上面的标记。%SPEECH_ON%当然就在这里了！%SPEECH_OFF%他咧嘴笑了笑，付了你应得的报酬。 | 你手里拿着新地图，走进了%employer%的房间。他接过地图看了看。%SPEECH_ON%好吧，我会想这也太容易了，但协议就是协议。%SPEECH_OFF%他递给你一个袋子，里面装着应得的报酬。 | 你向%employer%汇报了%location%的位置。他点了点头，拿出纸笔把你地图上的笔记抄了下来。你好奇地问他怎么知道你没有撒谎。这个人坐在椅子上向后靠着，双手合十放在肚子上。%SPEECH_ON%我雇了一位跟随你们战团的追踪者。他比你来得早，你只是确认了我已经知道的事情。希望你不介意我们采取的措施。%SPEECH_OFF%你点了点头，认为这是明智的做法，收取报酬离开了。}",
-    "stage": 1
+    "translation": "[img]gfx/ui/events/event_20.png[/img]{%employer%对你的归来表示欢迎。你把新近绘制的地图递给他，他仔细看了看，用手背拍打着上面的标记。%SPEECH_ON%当然是在那里了！%SPEECH_OFF%他咧嘴笑了笑，付了你应得的报酬。 | 你手里拿着新地图走进了%employer%的房间。他接过地图仔细看了一遍。%SPEECH_ON%好吧，我会想这也太容易了，但协议就是协议。%SPEECH_OFF%他递给你一个小背包，里面装着你应得的报酬。 | 你向%employer%汇报了%location%的位置。他点了点头，拿出纸笔把你地图上的笔记抄了下来。出于好奇，你问他怎么知道你没有说谎。那人坐下靠好，双手合十放在肚子上。%SPEECH_ON%我雇了一位跟随你们战团的追踪者。他比你来得早，你只是确认了我已经知道的事情。希望你不介意我们采取的措施。%SPEECH_OFF%你点了点头，认为这是明智的做法，拿了钱就走了。}",
+    "stage": 5
   },
   {
     "ID": 293408616,
@@ -299,20 +299,20 @@
     "key": "I don't think so. Only our employer will learn where it is.",
     "original": "I don't think so. Only our employer will learn where it is.",
     "translation": "我不这么认为。只有我们的雇主会知道它在哪里。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293408620,
     "key": "We have a deal. You and no one else will learn where it is.",
     "original": "We have a deal. You and no one else will learn where it is.",
-    "translation": "我们成交。 你和其他人都不会知道它在哪里。",
-    "stage": 1
+    "translation": "我们成交。只有你会知道它在哪。",
+    "stage": 5
   },
   {
     "ID": 293408621,
     "key": "[img]gfx/ui/events/event_51.png[/img]{As you head toward %townname%, a stranger comes out to the path. He's the man you talked to before, but this time he has a satchel in hand.%SPEECH_ON%{You've no reason to tell the rulers of this town where the %locati",
     "original": "[img]gfx/ui/events/event_51.png[/img]{As you head toward %townname%, a stranger comes out to the path. He's the man you talked to before, but this time he has a satchel in hand.%SPEECH_ON%{You've no reason to tell the rulers of this town where the %location% is. Leave its secrets to us, you've no idea what heirlooms and history we have there. For your silence, we're willing to give you this as payment, %bribe% crowns. Please, sir, accept. | Look, sellsword, I know you speak one language and that is the language of money. Take this satchel as a token of our appreciation - if you stay silent. You needn't tell the rulers of %townname% where the %location% is. That place belongs to our families. Those petty rulers will only ruin it with their greed and power-seeking. So, what say you, will you take this? There are %bribe% crowns in there. All you gotta do is take it and not talk.}%SPEECH_OFF% | Entering %townname%, you're headed off by a familiar face: the man who had greeted you just before you had departed in the first place. But this time he has a satchel with him.%SPEECH_ON%{%bribe% crowns for your silence. Tell the rulers of this town absolutely nothing and it's yours. They need not know about our deal, they just need not know where this place is. It's important to us, with history beyond measure, and all they'll do is raid and pillage it. Please, accept. | Take this, it's %bribe% crowns. That's how much we're prepared to give you for your silence. The rulers of %townname% will take your information and use it to pillage the %location%, because they know of our own familial relations to it and, well, we've long since fallen out of favor around here. We've little left so, please, let us keep our heirlooms and old home.}%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_51.png[/img]{当你前往%townname%时，一个陌生人出现在路上。他是你之前跟他交谈过的那个人，但这次他手里拿着一个手提包。%SPEECH_ON%{你没有理由告诉这个城镇的统治者%location%的位置。把它的秘密留给我们，你不知道我们拥有什么传家宝和历史。为了你的沉默，我们愿意支付%bribe%克朗作为报酬。先生，请收下。 | 听着，雇佣兵，我知道你只讲一个语言，那就是钱的语言。如果你保持沉默，就把这个手提包当做我们的感激之情。你不必告诉%townname%的统治者%location%在哪里。那个地方属于我们的家族。那些小小的统治者只会因为贪婪和追求权力而破坏它。那么，你愿意接受吗？里面有%bribe%克朗。你只需要拿走它而不说话。}%SPEECH_OFF% | 进入%townname%，你被一个熟悉的面孔拦住了：就是你在第一次离开之前所见到的那个人。但这次他带着一个手提包。%SPEECH_ON%{%bribe%克朗作为你的沉默费。不要告诉这个城镇的统治者任何事情，它就是你的。他们不需要知道我们的交易，他们只需要不知道这个地方在哪里。它对我们来说很重要，有着无法估量的历史，而他们所做的只是洗劫和掠夺。请接受。 | 拿着这个，里面有%bribe%克朗。那是我们为了你的沉默而准备的报酬。%townname%的统治者将利用你的信息来掠夺%location%，因为他们知道我们与之有亲戚关系，而且，呃，我们在这里早已失宠。我们几乎没有什么剩下的，所以，请让我们保留我们的传家宝和老房子。}%SPEECH_OFF%}",
-    "stage": 1
+    "translation": "[img]gfx/ui/events/event_51.png[/img]{当你前往%townname%时，一个陌生人出现在路上。他是你之前跟他交谈过的那个人，但这次他手里拿着一个小背包。%SPEECH_ON%{你没有理由告诉这个城镇的统治者%location%的位置。把它的秘密留给我们，你不知道我们在那里拥有什么传家宝和历史。为了你的沉默，我们愿意支付%bribe%克朗作为报酬。先生，请收下吧。 | 听着，雇佣兵，我知道你只懂一门语言，那就是金钱的语言。如果你保持沉默，那就接受这个小背包作为我们感激的象征。你不必告诉%townname%的统治者%location%在哪里。那个地方属于我们的家族。那些小当权者只会用他们的贪婪和对权力的追逐毁坏它。那么，你怎么说，你愿意接受吗？里面有%bribe%克朗。你需要做的就是拿走，啥都别说。}%SPEECH_OFF% | 进入%townname%，你被一张熟悉的面孔拦住了：就是你在第一次离开之前所碰面的那个人。但这次他带着一个小背包。%SPEECH_ON%{%bribe%克朗以换取你的沉默。什么都不要告诉这个镇的统治者，它就是你的了。他们不需要知道我们的交易，他们只需要不知道这个地方在哪里。它对我们来说很重要，有着无法估量的历史，而他们所会做的只是洗劫和掠夺。请接受吧。 | 拿着这个，这是%bribe%克朗。那就是我们准备给你的封口费。%townname%的统治者将利用你的信息来对%location%进行劫掠，因为他们知道我们与之有家族关系，而且，呃，我们在这里早已失势。我们几乎没有什么剩下的，所以，请让我们保留我们的传家宝和老房子吧。}%SPEECH_OFF%}",
+    "stage": 5
   }
 ]

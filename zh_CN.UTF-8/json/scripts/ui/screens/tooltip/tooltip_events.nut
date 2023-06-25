@@ -1271,8 +1271,8 @@
     "ID": 293423129,
     "key": "Renown: ",
     "original": "Renown: ",
-    "translation": "声望：",
-    "stage": 1,
+    "translation": "名望：",
+    "stage": 5,
     "context": "'Renown: ' + this.World.Assets.getBusinessReputationAsText() + ' (' + this.World.Assets.getBusinessReputation() + ')'"
   },
   {
@@ -1293,8 +1293,8 @@
     "ID": 293423132,
     "key": " renown in order to unlock this seat. Gain renown by completing ambitions and contracts, as well as by winning battles.",
     "original": " renown in order to unlock this seat. Gain renown by completing ambitions and contracts, as well as by winning battles.",
-    "translation": "声望以解锁此席位。通过完成野心和合同以及赢得战斗而获得声望。",
-    "stage": 1,
+    "translation": "名望以解锁此席位。通过完成野心和合同以及赢得战斗而获得名望。",
+    "stage": 5,
     "context": "'Your company lacks the renown necessary to hire more non-combat followers. Attain at least ' + renown + ' renown in order to unlock this seat. Gain renown by completing ambitions and contracts, as well as by winning battles.'"
   },
   {
@@ -2258,8 +2258,8 @@
     "ID": 293423266,
     "key": "Your renown is your repute as a professional mercenary company and reflects how reliable and competent people judge you to be. The higher your renown, the higher-paid and more difficult contracts people will entrust you with. Renown increases on successfu",
     "original": "Your renown is your repute as a professional mercenary company and reflects how reliable and competent people judge you to be. The higher your renown, the higher-paid and more difficult contracts people will entrust you with. Renown increases on successfully completing ambitions and contracts, and winning battles, and decreases on failing to do so.",
-    "translation": "你的声望是你作为一个专业的雇佣兵战团的名气，反映了人们对你的评价是多么的可靠和有能力。 你的声望越高，报酬越高，人们委托你的合同就越困难。 成功完成野心和合同，打赢仗，声望会增加，失败会减少。",
-    "stage": 1
+    "translation": "你的名望是你作为一个专业的雇佣兵战团的名气，反映了人们对你的可靠性和能力的评价。你的名望越高，报酬越高，人们委托你的合同就越困难。名望在成功完成野心和合同以及赢得战斗时增加，在失败时减少。",
+    "stage": 5
   },
   {
     "ID": 293423267,
@@ -2401,7 +2401,7 @@
     "ID": 293423286,
     "key": "Only contracts by the noble house owning this fortification are available here, but they don't recognize you as worthy of their attention. Increase your renown and fulfill the ambition of noble houses to take notice of the company in order to unlock new c",
     "original": "Only contracts by the noble house owning this fortification are available here, but they don't recognize you as worthy of their attention. Increase your renown and fulfill the ambition of noble houses to take notice of the company in order to unlock new contracts!",
-    "translation": "这里只有拥有这座防御工事的贵族家族的合同，但他们不承认你值得他们关注。 增加你的声望，完成让贵族家族注意到你的战团的野心，以解锁新合同！",
+    "translation": "这里只有拥有这座防御工事的贵族家族的合同，但他们不承认你值得他们关注。 增加你的名望，完成让贵族家族注意到你的战团的野心，以解锁新合同！",
     "stage": 1
   },
   {
@@ -2430,8 +2430,8 @@
     "ID": 293423290,
     "key": "Reputation: ",
     "original": "Reputation: ",
-    "translation": "声望：",
-    "stage": 1,
+    "translation": "声誉：",
+    "stage": 5,
     "context": "'Reputation: ' + this.World.Assets.getMoralReputationAsText()"
   },
   {
@@ -2529,8 +2529,8 @@
     "ID": 293423304,
     "key": "Your company lacks the renown necessary to hire more non-combat followers. Attain at least ",
     "original": "Your company lacks the renown necessary to hire more non-combat followers. Attain at least ",
-    "translation": "你的战团名声不够，无法雇佣更多的非战斗跟随者。至少需要获得",
-    "stage": 1,
+    "translation": "你战团的名望不够，无法雇佣更多的非战斗随从。至少需要获得 ",
+    "stage": 5,
     "context": "'Your company lacks the renown necessary to hire more non-combat followers. Attain at least ' + renown + ' renown in order to unlock this seat. Gain renown by completing ambitions and contracts, as well as by winning battles.'"
   },
   {
@@ -2980,8 +2980,8 @@
     "ID": 293423367,
     "key": "Your reputation reflects how people in the world judge your mercenary company to conduct itself based on past actions. Do you show mercy to your enemies? Do you burn down farmsteads and massacre the peasantry? Based on your reputation, people may offer yo",
     "original": "Your reputation reflects how people in the world judge your mercenary company to conduct itself based on past actions. Do you show mercy to your enemies? Do you burn down farmsteads and massacre the peasantry? Based on your reputation, people may offer you different kinds of contracts, and both contracts and events may play out differently.",
-    "translation": "你的声誉反映了世界上的人们如何根据过去的行为判断你的雇佣兵战团的行为。 你对敌人仁慈吗？ 你烧了农庄，屠杀了农民吗？ 根据你的声誉，人们可能会给你提供不同种类的合同，合同和事件的执行方式也可能不同。",
-    "stage": 1
+    "translation": "你的声誉反映了世界上的人们如何根据过去的行为评判你的雇佣兵战团。你对敌人是否仁慈？你是否烧毁农舍、屠杀农民？根据你的声誉，人们可能会向你提供不同种类的合同，合同和事件的发展也可能会有所不同。",
+    "stage": 5
   },
   {
     "ID": 293423368,

@@ -4,7 +4,7 @@
     "key": "Tell me my fortune, old woman.",
     "original": "Tell me my fortune, old woman.",
     "translation": "告诉我我的命运，老太婆。",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293414008,
@@ -18,8 +18,8 @@
     "ID": 293414009,
     "key": "No, we're good.",
     "original": "No, we're good.",
-    "translation": "不，我们没事。",
-    "stage": 1
+    "translation": "不，我们很好。",
+    "stage": 5
   },
   {
     "ID": 293414010,
@@ -63,21 +63,21 @@
     "key": "Burn the witch!",
     "original": "Burn the witch!",
     "translation": "烧死这个女巫！",
-    "stage": 1
+    "stage": 5
   },
   {
     "ID": 293414016,
     "key": "I'll tell you yours instead: You're about to give us all your valuables.",
     "original": "I'll tell you yours instead: You're about to give us all your valuables.",
-    "translation": "我会告诉你的：你要把你所有的贵重物品都给我们。",
-    "stage": 1
+    "translation": "换我来告诉你：你要把你所有的贵重物品都交给我们。",
+    "stage": 5
   },
   {
     "ID": 293414017,
     "key": "[img]gfx/ui/events/event_11.png[/img]{You come across a goatskin tent beside the road. The hide tarps have been dipped in purple dyes and there are fresh daisies twisted into the knots of matted goat hair. An old woman with a hunchback stands outside with",
     "original": "[img]gfx/ui/events/event_11.png[/img]{You come across a goatskin tent beside the road. The hide tarps have been dipped in purple dyes and there are fresh daisies twisted into the knots of matted goat hair. An old woman with a hunchback stands outside with her hands clasped and hanging. She sizes you up and down with withered eyes.%SPEECH_ON%Ah, a sellsword. No, a captain of sellswords. Or perhaps something more. You smell of a strange odor, and not just that of a man. Do you wish to have your fortune told?%SPEECH_OFF%She gestures to inside the tent. You see a number of long, cards laid facedown across the table.}",
-    "translation": "[img]gfx/ui/events/event_11.png[/img]{在路边你看到一顶山羊皮帐篷。兽皮帐篷已经被浸泡在紫色染料中，并且新鲜的雏菊扭在交织的山羊毛结上。一位驼背老妇人站在帐篷外，双手交叉垂在身旁，用枯萎的眼睛打量着你。%SPEECH_ON%啊，一个雇佣兵。不，是一个雇佣兵的队长。或者更高等的角色。你身上有异样的气味，不仅仅是男人的气味。你想算一下你的命运吗？%SPEECH_OFF% 她朝帐篷里面比划。你看到一排长长的牌面朝下横放在桌子上。}",
-    "stage": 1
+    "translation": "[img]gfx/ui/events/event_11.png[/img]{在路边你看到一顶山羊皮帐篷。皮油布被在紫色染料中泡过，新鲜的雏菊被缠在盘结的山羊毛结上。一位驼背老妇人站在帐篷外，双手交叉垂在身旁，她用干瘪的眼睛打量着你。%SPEECH_ON%啊，一个佣兵。不，是一队佣兵的队长。或者可能更多。你身上有异样的气味，不仅仅是男人的气味。你想算一下你的命运吗？%SPEECH_OFF%她朝帐篷里面比划。你看到一排长牌面朝下放在桌子上。}",
+    "stage": 5
   },
   {
     "ID": 293414018,
@@ -90,16 +90,16 @@
     "ID": 293414019,
     "key": "Along the road...",
     "original": "Along the road...",
-    "translation": "在路上…",
-    "stage": 1,
+    "translation": "在路上……",
+    "stage": 5,
     "context": "this.m.Title = 'Along the road...'"
   },
   {
     "ID": 293414020,
     "key": "[img]gfx/ui/events/event_11.png[/img]{You step into the tent and its folds close and you're in nothing but darkness. You stand there for a time and ask the woman where she went. Pursing your lips, you open the tent flap to bring in some light. The slip of",
     "original": "[img]gfx/ui/events/event_11.png[/img]{You step into the tent and its folds close and you're in nothing but darkness. You stand there for a time and ask the woman where she went. Pursing your lips, you open the tent flap to bring in some light. The slip of light strikes a sheen from the darkness and you turn around to see the dagger soaring forward. You block it away with your gauntlet and draw your sword and plunge it into the hag's chest. She drops the knife and clutches your shoulder.%SPEECH_ON%Such a monster you are, sellsword, killing a kind old woman such as I. You'll die for this. You and your men will all die.%SPEECH_OFF%You bring the witch in close and get a look at suddenly bright, wicked cat eyes. You spit and nod.%SPEECH_ON%Foretelling doom in a world where everything dies? Not a hard job. Do you know what my job is, you witch?%SPEECH_OFF%She grins a black rind of a gummy smile. Black blood spurts over her lips as she laughs.%SPEECH_ON%Oh, sellsword! We shall see what you are when Davkul has you in his hands.%SPEECH_OFF%The witch's body goes limp and your sword suddenly cuts straight through her flesh, leaving sliced flesh folding at your feet. You quickly exit the tent and have the whole thing burned. Some of the men swear they can see the woman's face grinning in the palls of smoke.}",
-    "translation": "[img]gfx/ui/events/event_11.png[/img]{你迈进帐篷，布料合拢，一片黑暗。你站了一会儿，询问女巫去了哪里。你撅起嘴，掀起帐帘，想要点亮些许光明。一缕光线从黑暗中射出，你回身看见匕首正向你飞来。你戴着的护手护住自己，并拔出剑刺向女巫的胸膛。她扔掉了刀子，抓住了你的肩膀。%SPEECH_ON%像你这样残忍的佣兵，竟杀了一个单纯的老太婆。你们都会死的，你和你的手下。%SPEECH_OFF%你让女巫靠近，突然看见了她邪恶的猫眼。你吐了口唾沫并点了点头。%SPEECH_ON%在世间万物都会死去的前景下预言恶兆？这份工作可不难。你知道我的工作是什么吗，女巫？%SPEECH_OFF%女巫露出了满嘴的黑汁般的笑容。黑血从她的嘴角喷溅出来。%SPEECH_ON%哦，佣兵！等达库尔拿到你的时候，我们就会看你是什么德行了！%SPEECH_OFF%女巫的身子变得松弛，你的剑直接从她胸口穿过，留下了你脚旁的切割的肌肉。你迅速退出帐篷，将整个帐篷烧毁。一些人发誓他们在烟雾中看到了女巫的面容在咧嘴。}",
-    "stage": 1
+    "translation": "[img]gfx/ui/events/event_11.png[/img]{你迈进帐篷，布料合拢，你站在了一片黑暗之中。你在那里站了一会儿，问那个女人去哪儿了。你撅起嘴，掀起帐帘，想要找点光亮。光线在黑暗中闪烁，你转身看见匕首朝你飞来。你用你的护手将它挡开，抽出剑，刺进那母夜叉的胸膛。她扔掉了刀子，抓住了你的肩膀。%SPEECH_ON%你真是个怪物，佣兵，杀死像我这样善良的老妇人。你会为此送命的。你和你的人都会死。%SPEECH_OFF%你拉近这个女巫，看着她突然发亮的邪恶猫眼。你吐了口唾沫并点了点头。%SPEECH_ON%在世间万物都会死去的前景下预言恶兆？这份工作可不难。你知道我的工作是什么吗，女巫？%SPEECH_OFF%她露出一抹黏糊糊的黑色笑容。黑血从她的嘴角喷溅出来。%SPEECH_ON%哦，佣兵！等达库尔拿到你的时候，我们就会看你是什么德行了！%SPEECH_OFF%女巫的身体变得松软，你的剑突然切穿她的肉体，切开的肉体扔在你的脚下。你迅速离开帐篷，将整个帐篷点燃。一些人宣称他们能在浓烟中看见了那女人的脸庞在咧着嘴。}",
+    "stage": 5
   },
   {
     "ID": 293414021,
