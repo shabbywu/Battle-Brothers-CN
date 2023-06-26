@@ -13,7 +13,7 @@
     "original": "[img]gfx/ui/events/event_161.png[/img]{Marching through sand dunes for days has built up a lot of grit in the boots of the men. A few take pause, emptying out their shoes, while others reveal that their feet have been ground raw. This is a hellish landscape, it seems, no matter if it's the sun above or the sands below, it's all out to get you.}",
     "translation": "[img]gfx/ui/events/event_161.png[/img]{在沙丘间行军数日让手下们的靴子里钻进了不少砂砾。 几个人停下，清理他们的靴子，其他人显示出他们已经被磨得像地面一样粗糙的脚。 这看来可真是个地狱般的地形，不论是上面的太阳还是下面的沙地，都在给你带来麻烦。}",
     "stage": 1,
-    "context": "'Text' = \"[img]gfx/ui/events/event_161.png[/img]{Marching through sand dunes for days has built up a lot of grit in the boots of the men. A few take pause, emptying out their shoes, while others reveal that their feet have been ground raw. This is a hellish landscape, it seems, no matter if it's the sun above or the sands below, it's all out to get you.}\""
+    "context": "Text = \"[img]gfx/ui/events/event_161.png[/img]{Marching through sand dunes for days has built up a lot of grit in the boots of the men. A few take pause, emptying out their shoes, while others reveal that their feet have been ground raw. This is a hellish landscape, it seems, no matter if it's the sun above or the sands below, it's all out to get you.}\""
   },
   {
     "ID": 293414653,
@@ -29,6 +29,6 @@
     "original": "Are those vultures circling above?",
     "translation": "那些盘旋在上面的是秃鹫吗？",
     "stage": 1,
-    "context": "'Text' = 'Are those vultures circling above?'"
+    "context": "Text = 'Are those vultures circling above?'"
   }
 ]

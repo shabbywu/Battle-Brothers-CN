@@ -13,7 +13,7 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + chance + \"%[/color] chance to succeed, based on Melee Skill, or higher if there's been attempts to free the ally before.\""
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + chance + \"%[/color] chance to succeed, based on Melee Skill, or higher if there's been attempts to free the ally before.\""
   },
   {
     "ID": 293419834,
@@ -29,6 +29,6 @@
     "original": "%[/color] chance to succeed, based on Melee Skill, or higher if there's been attempts to free the ally before.",
     "translation": "%[/color] 几率成功，基于近战技能。如果之前已经有救援队友的尝试则更高。",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + chance + \"%[/color] chance to succeed, based on Melee Skill, or higher if there's been attempts to free the ally before.\""
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + chance + \"%[/color] chance to succeed, based on Melee Skill, or higher if there's been attempts to free the ally before.\""
   }
 ]

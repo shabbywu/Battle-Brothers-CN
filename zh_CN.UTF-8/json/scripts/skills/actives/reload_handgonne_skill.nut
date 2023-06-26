@@ -5,7 +5,7 @@
     "original": "[/color] shots left",
     "translation": "[/color] 弹药剩余",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] shots left'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] shots left'"
   },
   {
     "ID": 293420284,
@@ -21,7 +21,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] shots left'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] shots left'"
   },
   {
     "ID": 293420286,
@@ -29,7 +29,7 @@
     "original": "]Can not be used because this character is engaged in melee[/color]",
     "translation": "]无法使用，因为此角色已卷入近战[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   },
   {
     "ID": 293420287,
@@ -37,7 +37,7 @@
     "original": "]Needs a non-empty powder bag equipped[/color]",
     "translation": "]需要装备非空火药包[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Needs a non-empty powder bag equipped[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Needs a non-empty powder bag equipped[/color]'"
   },
   {
     "ID": 293420288,

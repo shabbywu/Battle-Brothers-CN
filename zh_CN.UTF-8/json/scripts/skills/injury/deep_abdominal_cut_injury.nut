@@ -5,7 +5,7 @@
     "original": "]-25%[/color] Hitpoints",
     "translation": "]-25%[/color] 生命值",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Hitpoints'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Hitpoints'"
   },
   {
     "ID": 293421928,
@@ -21,7 +21,7 @@
     "original": "]-25%[/color] Max Fatigue",
     "translation": "]-25%[/color] 最大疲劳值",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Max Fatigue'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Max Fatigue'"
   },
   {
     "ID": 293421930,

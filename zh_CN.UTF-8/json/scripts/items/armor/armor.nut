@@ -37,6 +37,6 @@
     "original": "Maximum Fatigue [color=",
     "translation": "最大疲劳值 [color=",
     "stage": 5,
-    "context": "'text' = 'Maximum Fatigue [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.StaminaModifier + '[/color]'"
+    "context": "text = 'Maximum Fatigue [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.StaminaModifier + '[/color]'"
   }
 ]

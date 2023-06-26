@@ -21,7 +21,7 @@
     "original": "[/color] Melee Defense",
     "translation": "[/color] 近战防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + initiative + '[/color] Melee Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + initiative + '[/color] Melee Defense'"
   },
   {
     "ID": 293421478,
@@ -29,6 +29,6 @@
     "original": "[/color] Ranged Defense",
     "translation": "[/color] 远程防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + initiative + '[/color] Ranged Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + initiative + '[/color] Ranged Defense'"
   }
 ]

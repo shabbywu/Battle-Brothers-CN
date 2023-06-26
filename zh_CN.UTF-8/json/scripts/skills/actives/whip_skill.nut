@@ -5,7 +5,7 @@
     "original": "[/color] tiles",
     "translation": "[/color] 格",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']3' + '[/color] tiles'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']3' + '[/color] tiles'"
   },
   {
     "ID": 293420723,
@@ -13,7 +13,7 @@
     "original": "Inflicts additional stacking [color=",
     "translation": "造成额外的 [color=",
     "stage": 5,
-    "context": "'text' = 'Inflicts additional stacking [color=' + this.Const.UI.Color.DamageValue + ']' + dmg + '[/color] bleeding damage per turn, for 2 turns'"
+    "context": "text = 'Inflicts additional stacking [color=' + this.Const.UI.Color.DamageValue + ']' + dmg + '[/color] bleeding damage per turn, for 2 turns'"
   },
   {
     "ID": 293420724,
@@ -21,7 +21,7 @@
     "original": "[/color] bleeding damage per turn, for 2 turns",
     "translation": "[/color] 每回合流血伤害，持续 2 回合",
     "stage": 5,
-    "context": "'text' = 'Inflicts additional stacking [color=' + this.Const.UI.Color.DamageValue + ']' + dmg + '[/color] bleeding damage per turn, for 2 turns'"
+    "context": "text = 'Inflicts additional stacking [color=' + this.Const.UI.Color.DamageValue + ']' + dmg + '[/color] bleeding damage per turn, for 2 turns'"
   },
   {
     "ID": 293420725,
@@ -37,7 +37,7 @@
     "original": "Has a range of [color=",
     "translation": "攻击范围为 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']3' + '[/color] tiles'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']3' + '[/color] tiles'"
   },
   {
     "ID": 293420727,

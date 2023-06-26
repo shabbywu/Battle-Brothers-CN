@@ -5,7 +5,7 @@
     "original": "]-25%[/color] Ranged Defense",
     "translation": "]-25%[/color] 远程防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Ranged Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Ranged Defense'"
   },
   {
     "ID": 293421822,
@@ -29,7 +29,7 @@
     "original": "]-25%[/color] Initiative",
     "translation": "]-25%[/color] 主动性",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Initiative'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Initiative'"
   },
   {
     "ID": 293421825,
@@ -37,7 +37,7 @@
     "original": "]-25%[/color] Melee Defense",
     "translation": "]-25%[/color] 近战防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Melee Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Melee Defense'"
   },
   {
     "ID": 293421826,
@@ -45,7 +45,7 @@
     "original": "]50%[/color] chance to be followed by a hangover",
     "translation": "]50%[/color] 的几率会有宿醉的症状",
     "stage": 1,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] chance to be followed by a hangover'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] chance to be followed by a hangover'"
   },
   {
     "ID": 293421827,
@@ -53,7 +53,7 @@
     "original": "]+25%[/color] Resolve",
     "translation": "]+25%[/color] 决心",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] Resolve'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] Resolve'"
   },
   {
     "ID": 293421828,
@@ -61,7 +61,7 @@
     "original": "]-25%[/color] Ranged Skill",
     "translation": "]-25%[/color] 远程技能",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Ranged Skill'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Ranged Skill'"
   },
   {
     "ID": 293421829,
@@ -69,7 +69,7 @@
     "original": "]-25%[/color] Melee Skill",
     "translation": "]-25%[/color] 近战技能",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Melee Skill'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Melee Skill'"
   },
   {
     "ID": 293421830,
@@ -77,6 +77,6 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 1,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] chance to be followed by a hangover'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] chance to be followed by a hangover'"
   }
 ]

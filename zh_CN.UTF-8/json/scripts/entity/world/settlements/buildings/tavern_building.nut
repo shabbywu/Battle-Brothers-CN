@@ -13,7 +13,7 @@
     "original": " is now drunk.",
     "translation": " 喝醉了。",
     "stage": 1,
-    "context": "'Text' = b.getName() + ' is now drunk.'"
+    "context": "Text = b.getName() + ' is now drunk.'"
   },
   {
     "ID": 293410713,

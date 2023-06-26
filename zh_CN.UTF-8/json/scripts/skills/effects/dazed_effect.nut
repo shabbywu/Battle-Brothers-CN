@@ -21,7 +21,7 @@
     "original": "]-25%[/color] Initiative",
     "translation": "]-25%[/color] 主动性",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Initiative'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Initiative'"
   },
   {
     "ID": 293421452,
@@ -37,7 +37,7 @@
     "original": "]-25%[/color] Max Fatigue",
     "translation": "]-25%[/color] 最大疲劳值",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Max Fatigue'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Max Fatigue'"
   },
   {
     "ID": 293421454,
@@ -53,6 +53,6 @@
     "original": "]-25%[/color] Damage",
     "translation": "]-25%[/color] 伤害",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Damage'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Damage'"
   }
 ]

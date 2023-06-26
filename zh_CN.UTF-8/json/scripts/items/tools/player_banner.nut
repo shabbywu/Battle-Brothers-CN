@@ -21,7 +21,7 @@
     "original": "]10%[/color] of the Resolve of the character holding this standard as a bonus, up to a maximum of the standard bearer's Resolve.",
     "translation": "]10%[/color]作为加成，但最高不能超过掌旗者的决心。",
     "stage": 5,
-    "context": "'text' = 'Allies at a range of 4 tiles or less receive [color=' + this.Const.UI.Color.PositiveValue + \"]10%[/color] of the Resolve of the character holding this standard as a bonus, up to a maximum of the standard bearer's Resolve.\""
+    "context": "text = 'Allies at a range of 4 tiles or less receive [color=' + this.Const.UI.Color.PositiveValue + \"]10%[/color] of the Resolve of the character holding this standard as a bonus, up to a maximum of the standard bearer's Resolve.\""
   },
   {
     "ID": 293418962,
@@ -29,7 +29,7 @@
     "original": "Allies at a range of 4 tiles or less receive [color=",
     "translation": "距离4格及以内的盟友得到持举旗帜角色决心的[color=",
     "stage": 5,
-    "context": "'text' = 'Allies at a range of 4 tiles or less receive [color=' + this.Const.UI.Color.PositiveValue + \"]10%[/color] of the Resolve of the character holding this standard as a bonus, up to a maximum of the standard bearer's Resolve.\""
+    "context": "text = 'Allies at a range of 4 tiles or less receive [color=' + this.Const.UI.Color.PositiveValue + \"]10%[/color] of the Resolve of the character holding this standard as a bonus, up to a maximum of the standard bearer's Resolve.\""
   },
   {
     "ID": 293418963,

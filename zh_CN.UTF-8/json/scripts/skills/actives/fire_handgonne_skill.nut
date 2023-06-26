@@ -5,7 +5,7 @@
     "original": "%[/color] per tile of distance. This chance is unaffected by objects or characters in the line of fire.",
     "translation": "%[/color] 命中惩罚，障碍物或角色的阻挡不会影响这个几率。",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + 10 + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -10 + this.m.AdditionalHitChance + '%[/color] per tile of distance. This chance is unaffected by objects or characters in the line of fire.'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + 10 + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -10 + this.m.AdditionalHitChance + '%[/color] per tile of distance. This chance is unaffected by objects or characters in the line of fire.'"
   },
   {
     "ID": 293419962,
@@ -13,7 +13,7 @@
     "original": "%[/color] chance to hit, and [color=",
     "translation": "%[/color] 额外命中率，同时每格距离有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + 10 + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -10 + this.m.AdditionalHitChance + '%[/color] per tile of distance. This chance is unaffected by objects or characters in the line of fire.'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+' + 10 + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -10 + this.m.AdditionalHitChance + '%[/color] per tile of distance. This chance is unaffected by objects or characters in the line of fire.'"
   },
   {
     "ID": 293419963,
@@ -29,7 +29,7 @@
     "original": "[/color] shots left",
     "translation": "[/color] 弹药剩余",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] shots left'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] shots left'"
   },
   {
     "ID": 293419965,
@@ -37,7 +37,7 @@
     "original": "Can hit up to 6 targets",
     "translation": "最多可以击中 6 个目标",
     "stage": 5,
-    "context": "'text' = 'Can hit up to 6 targets'"
+    "context": "text = 'Can hit up to 6 targets'"
   },
   {
     "ID": 293419966,
@@ -45,7 +45,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + 10 + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -10 + this.m.AdditionalHitChance + '%[/color] per tile of distance. This chance is unaffected by objects or characters in the line of fire.'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + 10 + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -10 + this.m.AdditionalHitChance + '%[/color] per tile of distance. This chance is unaffected by objects or characters in the line of fire.'"
   },
   {
     "ID": 293419967,
@@ -53,7 +53,7 @@
     "original": "Has a range of [color=",
     "translation": "攻击范围为 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on flat ground and [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + this.m.MaxRangeBonus + '[/color] tiles if shooting downhill'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on flat ground and [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + this.m.MaxRangeBonus + '[/color] tiles if shooting downhill'"
   },
   {
     "ID": 293419968,
@@ -61,7 +61,7 @@
     "original": "[/color] tiles if shooting downhill",
     "translation": "[/color] 格",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on flat ground and [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + this.m.MaxRangeBonus + '[/color] tiles if shooting downhill'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on flat ground and [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + this.m.MaxRangeBonus + '[/color] tiles if shooting downhill'"
   },
   {
     "ID": 293419969,
@@ -77,7 +77,7 @@
     "original": "]Can not be used because this character is engaged in melee[/color]",
     "translation": "]无法使用，因为此角色已卷入近战[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   },
   {
     "ID": 293419971,
@@ -85,7 +85,7 @@
     "original": "]Needs a non-empty powder bag equipped[/color]",
     "translation": "]需要装备非空火药包[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Needs a non-empty powder bag equipped[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Needs a non-empty powder bag equipped[/color]'"
   },
   {
     "ID": 293419972,
@@ -93,7 +93,7 @@
     "original": "]Must be reloaded before firing again[/color]",
     "translation": "]必须重新装填才能再次发射[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Must be reloaded before firing again[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Must be reloaded before firing again[/color]'"
   },
   {
     "ID": 293419973,
@@ -101,6 +101,6 @@
     "original": "[/color] tiles on flat ground and [color=",
     "translation": "[/color] 格，向低处射击时为 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on flat ground and [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + this.m.MaxRangeBonus + '[/color] tiles if shooting downhill'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on flat ground and [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + this.m.MaxRangeBonus + '[/color] tiles if shooting downhill'"
   }
 ]

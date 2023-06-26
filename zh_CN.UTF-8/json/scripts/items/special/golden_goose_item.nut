@@ -13,7 +13,7 @@
     "original": "Generates [color=",
     "translation": "生成[color=",
     "stage": 1,
-    "context": "'text' = 'Generates [color=' + this.Const.UI.Color.PositiveValue + ']15[/color] crowns daily.'"
+    "context": "text = 'Generates [color=' + this.Const.UI.Color.PositiveValue + ']15[/color] crowns daily.'"
   },
   {
     "ID": 293418849,
@@ -29,6 +29,6 @@
     "original": "]15[/color] crowns daily.",
     "translation": "]15[/color] 克朗每天",
     "stage": 1,
-    "context": "'text' = 'Generates [color=' + this.Const.UI.Color.PositiveValue + ']15[/color] crowns daily.'"
+    "context": "text = 'Generates [color=' + this.Const.UI.Color.PositiveValue + ']15[/color] crowns daily.'"
   }
 ]

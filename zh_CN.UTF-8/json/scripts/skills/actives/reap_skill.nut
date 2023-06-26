@@ -5,7 +5,7 @@
     "original": "Can hit up to 3 targets",
     "translation": "最多可以击中 3 个目标",
     "stage": 1,
-    "context": "'text' = 'Can hit up to 3 targets'"
+    "context": "text = 'Can hit up to 3 targets'"
   },
   {
     "ID": 293420266,
@@ -13,7 +13,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
     "ID": 293420267,
@@ -29,7 +29,7 @@
     "original": "Has a range of [color=",
     "translation": "攻击范围为 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
   },
   {
     "ID": 293420269,
@@ -45,7 +45,7 @@
     "original": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
     "translation": "]-15%[/color]攻击近身敌人的命中惩罚，因为武器过于笨重",
     "stage": 1,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
     "ID": 293420271,
@@ -53,6 +53,6 @@
     "original": "[/color] tiles",
     "translation": "[/color] 格",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
   }
 ]

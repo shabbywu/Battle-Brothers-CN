@@ -5,7 +5,7 @@
     "original": "Is always content with being in reserve",
     "translation": "总是满足于充当后备",
     "stage": 5,
-    "context": "'text' = 'Is always content with being in reserve'"
+    "context": "text = 'Is always content with being in reserve'"
   },
   {
     "ID": 293422106,
@@ -29,7 +29,7 @@
     "original": "]1[/color] Additional Action Point per tile moved",
     "translation": "]1[/color] 额外的行动点，在每移动一格时消耗增加",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']1[/color] Additional Action Point per tile moved'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']1[/color] Additional Action Point per tile moved'"
   },
   {
     "ID": 293422109,
@@ -37,6 +37,6 @@
     "original": "]-20%[/color] Initiative",
     "translation": "]-20%[/color] 主动性",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-20%[/color] Initiative'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-20%[/color] Initiative'"
   }
 ]

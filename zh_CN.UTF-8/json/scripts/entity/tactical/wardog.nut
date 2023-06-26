@@ -13,6 +13,6 @@
     "original": "Wardog",
     "translation": "战犬",
     "stage": 1,
-    "context": "'Name' = 'Wardog'"
+    "context": "Name = 'Wardog'"
   }
 ]

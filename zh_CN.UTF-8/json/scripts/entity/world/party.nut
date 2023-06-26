@@ -21,7 +21,7 @@
     "original": "Hired by ",
     "translation": "受雇于",
     "stage": 1,
-    "context": "'text' = 'Hired by ' + f.getName()"
+    "context": "text = 'Hired by ' + f.getName()"
   },
   {
     "ID": 293410681,
@@ -37,7 +37,7 @@
     "original": "From ",
     "translation": "来自",
     "stage": 5,
-    "context": "'text' = 'From ' + f.getName()"
+    "context": "text = 'From ' + f.getName()"
   },
   {
     "ID": 293410683,
@@ -45,7 +45,7 @@
     "original": "Unknown troops",
     "translation": "未知部队",
     "stage": 1,
-    "context": "'text' = 'Unknown troops'"
+    "context": "text = 'Unknown troops'"
   },
   {
     "ID": 293410684,
@@ -53,6 +53,6 @@
     "original": "combat",
     "translation": "combat",
     "stage": 1,
-    "context": "this.getSprite('combat')"
+    "context": "this.addSprite('combat')"
   }
 ]

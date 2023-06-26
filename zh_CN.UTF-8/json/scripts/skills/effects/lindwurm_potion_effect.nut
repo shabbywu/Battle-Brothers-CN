@@ -5,7 +5,7 @@
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
     "stage": 1,
-    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
+    "context": "text = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421590,
@@ -29,6 +29,6 @@
     "original": "This character's blood burns with acid, damaging adjacent attackers whenever they deal hitpoint damage",
     "translation": "该角色的血液充满酸性，在相邻攻击者造成打击伤害时会对其造成伤害。",
     "stage": 1,
-    "context": "'text' = \"This character's blood burns with acid, damaging adjacent attackers whenever they deal hitpoint damage\""
+    "context": "text = \"This character's blood burns with acid, damaging adjacent attackers whenever they deal hitpoint damage\""
   }
 ]

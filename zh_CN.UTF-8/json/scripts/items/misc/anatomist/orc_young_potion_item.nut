@@ -5,7 +5,7 @@
     "original": "Attacks have [color=",
     "translation": "攻击有[color=",
     "stage": 1,
-    "context": "'text' = 'Attacks have [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] effectiveness against armor'"
+    "context": "text = 'Attacks have [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] effectiveness against armor'"
   },
   {
     "ID": 293418524,
@@ -13,7 +13,7 @@
     "original": "Mutates the body, causing sickness",
     "translation": "会让使用者的身体发生突变并导致疾病",
     "stage": 1,
-    "context": "'text' = 'Mutates the body, causing sickness'"
+    "context": "text = 'Mutates the body, causing sickness'"
   },
   {
     "ID": 293418525,
@@ -21,7 +21,7 @@
     "original": "]+10%[/color] effectiveness against armor",
     "translation": "]+10%[/color] 抗甲效果",
     "stage": 1,
-    "context": "'text' = 'Attacks have [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] effectiveness against armor'"
+    "context": "text = 'Attacks have [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] effectiveness against armor'"
   },
   {
     "ID": 293418526,
@@ -29,7 +29,7 @@
     "original": "Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.",
     "translation": "右键单击或拖动到当前选定的角色上进行饮用。 此物品会在使用过程中消耗掉。",
     "stage": 1,
-    "context": "'text' = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
+    "context": "text = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
   },
   {
     "ID": 293418527,

@@ -5,7 +5,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + hitchanceBonus + '%[/color] chance to hit'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + hitchanceBonus + '%[/color] chance to hit'"
   },
   {
     "ID": 293420569,
@@ -21,7 +21,7 @@
     "original": "%[/color] chance to hit",
     "translation": "%[/color] 命中惩罚",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + hitchanceBonus + '%[/color] chance to hit'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + hitchanceBonus + '%[/color] chance to hit'"
   },
   {
     "ID": 293420571,
@@ -37,7 +37,7 @@
     "original": "%[/color] chance to stun on a hit",
     "translation": "%[/color] 几率在击中时造成击昏",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun on a hit'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun on a hit'"
   },
   {
     "ID": 293420573,
@@ -45,7 +45,7 @@
     "original": "Can hit up to 6 targets",
     "translation": "最多可以击中 6 个目标",
     "stage": 5,
-    "context": "'text' = 'Can hit up to 6 targets'"
+    "context": "text = 'Can hit up to 6 targets'"
   },
   {
     "ID": 293420574,
@@ -61,7 +61,7 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun on a hit'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun on a hit'"
   },
   {
     "ID": 293420576,

@@ -21,7 +21,7 @@
     "original": "]+10[/color] or [color=",
     "translation": "]+10[/color] 或 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] or [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve randomly at every morale check'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] or [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve randomly at every morale check'"
   },
   {
     "ID": 293422587,
@@ -29,7 +29,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] or [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve randomly at every morale check'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] or [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve randomly at every morale check'"
   },
   {
     "ID": 293422588,
@@ -37,6 +37,6 @@
     "original": "]-10[/color] Resolve randomly at every morale check",
     "translation": "]-10[/color] 决心（每次士气检查时随机触发）",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] or [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve randomly at every morale check'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] or [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve randomly at every morale check'"
   }
 ]

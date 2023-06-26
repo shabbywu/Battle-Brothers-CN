@@ -13,7 +13,7 @@
     "original": "]1[/color] hitpoint each turn in combat",
     "translation": "]1[/color] 生命值",
     "stage": 5,
-    "context": "'text' = 'This character will continue to lose [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] hitpoint each turn in combat'"
+    "context": "text = 'This character will continue to lose [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] hitpoint each turn in combat'"
   },
   {
     "ID": 293421977,
@@ -21,7 +21,7 @@
     "original": "]-15%[/color] Hitpoints",
     "translation": "]-15%[/color] 生命值",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] Hitpoints'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] Hitpoints'"
   },
   {
     "ID": 293421978,
@@ -37,7 +37,7 @@
     "original": "This character will continue to lose [color=",
     "translation": "这个角色将持续每回合失去 [color=",
     "stage": 5,
-    "context": "'text' = 'This character will continue to lose [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] hitpoint each turn in combat'"
+    "context": "text = 'This character will continue to lose [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] hitpoint each turn in combat'"
   },
   {
     "ID": 293421980,

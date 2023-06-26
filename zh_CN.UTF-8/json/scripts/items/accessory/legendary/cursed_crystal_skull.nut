@@ -5,7 +5,7 @@
     "original": "]confident[/color] morale",
     "translation": "]自信[/color]士气",
     "stage": 1,
-    "context": "'text' = 'User can never have [color=' + this.Const.UI.Color.NegativeValue + ']confident[/color] morale'"
+    "context": "text = 'User can never have [color=' + this.Const.UI.Color.NegativeValue + ']confident[/color] morale'"
   },
   {
     "ID": 293417463,
@@ -13,7 +13,7 @@
     "original": "User can never have [color=",
     "translation": "佩戴者永远不会有[color=",
     "stage": 1,
-    "context": "'text' = 'User can never have [color=' + this.Const.UI.Color.NegativeValue + ']confident[/color] morale'"
+    "context": "text = 'User can never have [color=' + this.Const.UI.Color.NegativeValue + ']confident[/color] morale'"
   },
   {
     "ID": 293417464,
@@ -29,7 +29,7 @@
     "original": "Reduces the Resolve of any opponent engaged in melee by [color=",
     "translation": "减少任何近战对手的决心 [color=",
     "stage": 1,
-    "context": "'text' = 'Reduces the Resolve of any opponent engaged in melee by [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color]'"
+    "context": "text = 'Reduces the Resolve of any opponent engaged in melee by [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color]'"
   },
   {
     "ID": 293417466,

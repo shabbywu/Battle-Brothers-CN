@@ -5,7 +5,7 @@
     "original": "A harbor that allows you to book passage by ship to other parts of the continent",
     "translation": "一个港口，允许你乘船前往该大陆的其他地区",
     "stage": 5,
-    "context": "'SubTitle' = 'A harbor that allows you to book passage by ship to other parts of the continent'"
+    "context": "SubTitle = 'A harbor that allows you to book passage by ship to other parts of the continent'"
   },
   {
     "ID": 293410706,
@@ -29,7 +29,7 @@
     "original": "Sail to ",
     "translation": "航行至",
     "stage": 5,
-    "context": "'ListName' = 'Sail to ' + s.getName()"
+    "context": "ListName = 'Sail to ' + s.getName()"
   },
   {
     "ID": 293410709,

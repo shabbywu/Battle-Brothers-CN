@@ -13,6 +13,6 @@
     "original": "Miasma lingers here, harmful to any living being",
     "translation": "瘴气在此处弥漫，对任何活着的东西都有害",
     "stage": 5,
-    "context": "'Tooltip' = 'Miasma lingers here, harmful to any living being'"
+    "context": "Tooltip = 'Miasma lingers here, harmful to any living being'"
   }
 ]

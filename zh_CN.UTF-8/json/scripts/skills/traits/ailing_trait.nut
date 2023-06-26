@@ -21,7 +21,7 @@
     "original": "Poison effects last [color=",
     "translation": "中毒效果持续时间延长 [color=",
     "stage": 5,
-    "context": "'text' = 'Poison effects last [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] additional turn'"
+    "context": "text = 'Poison effects last [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] additional turn'"
   },
   {
     "ID": 293422324,
@@ -45,7 +45,7 @@
     "original": "]1[/color] additional turn",
     "translation": "]1[/color] 额外回合",
     "stage": 5,
-    "context": "'text' = 'Poison effects last [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] additional turn'"
+    "context": "text = 'Poison effects last [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] additional turn'"
   },
   {
     "ID": 293422327,

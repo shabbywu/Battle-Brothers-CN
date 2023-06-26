@@ -5,7 +5,7 @@
     "original": "]+50[/color] Hitpoints",
     "translation": "]+50[/color] 生命值",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+50[/color] Hitpoints'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+50[/color] Hitpoints'"
   },
   {
     "ID": 293421579,
@@ -13,7 +13,7 @@
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
     "stage": 1,
-    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
+    "context": "text = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421580,

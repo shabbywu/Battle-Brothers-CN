@@ -5,7 +5,7 @@
     "original": "[/color] extra fatigue",
     "translation": "[/color] 额外疲劳值",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
   },
   {
     "ID": 293420133,
@@ -13,7 +13,7 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun on a hit'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun on a hit'"
   },
   {
     "ID": 293420134,
@@ -21,7 +21,7 @@
     "original": "Has [color=",
     "translation": "因为武器过于笨重，有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
     "ID": 293420135,
@@ -37,7 +37,7 @@
     "original": "%[/color] chance to stun on a hit",
     "translation": "%[/color] 几率在命中时击晕",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun on a hit'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun on a hit'"
   },
   {
     "ID": 293420137,
@@ -53,7 +53,7 @@
     "original": "Inflicts [color=",
     "translation": "造成 [color=",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
   },
   {
     "ID": 293420139,
@@ -61,7 +61,7 @@
     "original": "Has a range of [color=",
     "translation": "攻击范围为 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
   },
   {
     "ID": 293420140,
@@ -77,7 +77,7 @@
     "original": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
     "translation": "]-15%[/color] 攻击近身敌人的命中惩罚'",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
     "ID": 293420142,
@@ -93,7 +93,7 @@
     "original": "]100%[/color] chance to stun on a hit",
     "translation": "]100%[/color] %[/color] 几率在击中时造成击昏",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stun on a hit'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stun on a hit'"
   },
   {
     "ID": 293420144,
@@ -101,6 +101,6 @@
     "original": "[/color] tiles",
     "translation": "[/color] 格",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
   }
 ]

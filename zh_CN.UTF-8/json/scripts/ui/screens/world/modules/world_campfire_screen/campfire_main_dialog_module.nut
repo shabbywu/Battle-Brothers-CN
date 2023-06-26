@@ -13,7 +13,7 @@
     "original": "Manage your retinue of non-combat followers",
     "translation": "管理你的非战斗追随者随从",
     "stage": 1,
-    "context": "'SubTitle' = 'Manage your retinue of non-combat followers'"
+    "context": "SubTitle = 'Manage your retinue of non-combat followers'"
   },
   {
     "ID": 293423395,
@@ -21,7 +21,7 @@
     "original": "Retinue",
     "translation": "随从",
     "stage": 1,
-    "context": "'Title' = 'Retinue'"
+    "context": "Title = 'Retinue'"
   },
   {
     "ID": 293423396,

@@ -5,7 +5,7 @@
     "original": "]-40%[/color] Damage inflicted",
     "translation": "]-40%[/color] 造成的伤害",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Damage inflicted'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Damage inflicted'"
   },
   {
     "ID": 293421909,

@@ -13,7 +13,7 @@
     "original": "Customize the appearance of your men at the barber",
     "translation": "在理发店定制你的人的外观",
     "stage": 5,
-    "context": "'SubTitle' = 'Customize the appearance of your men at the barber'"
+    "context": "SubTitle = 'Customize the appearance of your men at the barber'"
   },
   {
     "ID": 293423405,

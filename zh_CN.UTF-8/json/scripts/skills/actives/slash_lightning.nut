@@ -5,7 +5,7 @@
     "original": "]20[/color] damage that ignores armor to up to three targets",
     "translation": "]20[/color] 无视护甲的伤害",
     "stage": 5,
-    "context": "'text' = 'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
+    "context": "text = 'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
   },
   {
     "ID": 293420399,
@@ -13,7 +13,7 @@
     "original": "]10[/color] - [color=",
     "translation": "]10[/color] - [color=",
     "stage": 5,
-    "context": "'text' = 'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
+    "context": "text = 'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
   },
   {
     "ID": 293420400,
@@ -21,7 +21,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit'"
   },
   {
     "ID": 293420401,
@@ -37,7 +37,7 @@
     "original": "]+10%[/color] chance to hit",
     "translation": "]+10%[/color] 命中几率",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit'"
   },
   {
     "ID": 293420403,
@@ -61,6 +61,6 @@
     "original": "Inflicts an additional [color=",
     "translation": "对最多三个目标造成额外 [color=",
     "stage": 5,
-    "context": "'text' = 'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
+    "context": "text = 'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
   }
 ]

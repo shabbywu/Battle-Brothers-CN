@@ -5,7 +5,7 @@
     "original": "]+15[/color] Initiative",
     "translation": "]+15[/color] 主动性",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Initiative'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Initiative'"
   },
   {
     "ID": 293421639,
@@ -21,7 +21,7 @@
     "original": "]+15[/color] Melee Defense",
     "translation": "]+15[/color] 近战防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Melee Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Melee Defense'"
   },
   {
     "ID": 293421641,
@@ -29,7 +29,7 @@
     "original": "]+15[/color] Ranged Defense",
     "translation": "]+15[/color] 远程防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Ranged Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Ranged Defense'"
   },
   {
     "ID": 293421642,
@@ -37,7 +37,7 @@
     "original": "]+15[/color] Resolve",
     "translation": "]+15[/color] 决心",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Resolve'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Resolve'"
   },
   {
     "ID": 293421643,

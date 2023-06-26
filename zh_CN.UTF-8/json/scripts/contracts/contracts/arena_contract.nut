@@ -85,7 +85,7 @@
     "original": "{We shall turn the sand red with blood! | I want to hear the crowd chant our names! | We'll slaughter them like lambs!}",
     "translation": "{我们要用鲜血染红这片沙漠! | 我想听到人群高呼我们的名字! | 我们会像屠宰羔羊一样屠杀他们!}",
     "stage": 1,
-    "context": "'Text' = \"{We shall turn the sand red with blood! | I want to hear the crowd chant our names! | We'll slaughter them like lambs!}\""
+    "context": "Text = \"{We shall turn the sand red with blood! | I want to hear the crowd chant our names! | We'll slaughter them like lambs!}\""
   },
   {
     "ID": 293407778,
@@ -117,7 +117,7 @@
     "original": "{[img]gfx/ui/events/event_155.png[/img]The time for your arena match has come and passed, but you didn't show up there. Perhaps something more important came up, or perhaps you've just been hiding like cowards. Either way, your reputation will suffer because of this.",
     "translation": "{[img]gfx/ui/events/event_155.png[/img]你的角斗比赛的时间已经到了，但你没有出现在那里。也许出现了更重要的事情，或者你只是像懦夫一样躲起来了。无论哪种情况，你的声誉都会因此受损。",
     "stage": 1,
-    "context": "'Text' = \"{[img]gfx/ui/events/event_155.png[/img]The time for your arena match has come and passed, but you didn't show up there. Perhaps something more important came up, or perhaps you've just been hiding like cowards. Either way, your reputation will suffer because of this.\""
+    "context": "Text = \"{[img]gfx/ui/events/event_155.png[/img]The time for your arena match has come and passed, but you didn't show up there. Perhaps something more important came up, or perhaps you've just been hiding like cowards. Either way, your reputation will suffer because of this.\""
   },
   {
     "ID": 293407782,
@@ -125,7 +125,7 @@
     "original": "Let's give the crowd something to cheer for!",
     "translation": "让我们给观众们呐喊的理由！",
     "stage": 1,
-    "context": "'Text' = \"Let's give the crowd something to cheer for!\""
+    "context": "Text = \"Let's give the crowd something to cheer for!\""
   },
   {
     "ID": 293407783,
@@ -133,7 +133,7 @@
     "original": "[img]gfx/ui/events/event_155.png[/img]{As you wait your turn, the crowd's bloodlust crawls through the dark, sheets of dust falling from above, the stomps of feet thunderous. They murmur in anticipation, and roar at killings. The quiet between battles is mere moments, and this silence is snatched away as the rusted gate lurches upward, chains rankling, the crowd abuzz once more. You step out into the light and so thunderous is the noise against your heart it could surely yet spur a dead man forth... | The arena's crowd is shoulder to shoulder, most blathering drunk. They scream and shout, their languages a mix of local and foreign, though the appeal to their bloodlust needs little articulation beyond their maddened faces and pumping fists. Now, the %companyname%'s men will satiate these mad fools... | Cleaners hurry about the arena. They drag away the bodies, collect what's worth collecting, and occasionally throw a trophy into the crowds, eliciting a moblike rendition of the arena's battles in the stands themselves. The %companyname% is now a part of this affair. | The arena awaits, the crowd alight, and the %companyname%'s turn to gain glory is at hand! | The crowd booms as the %companyname%'s men stride into its bloody pit. Despite the mindless bloodlust of the peoples, you can't help but feel a beat of pride in your chest, knowing that it is your company ready to put on a show. | The gate rises. Nothing is heard save the rattle of chains, the creak of pulleys, the grunts of slaves at work. When the men of the %companyname% step out of the arena's bowels they can hear the crunch of sand underfoot until they come to stand in the center of the pit. A strange voice screams from the tops of the stadium, some lost language beyond your knowing, but the words echo just once before the crowd erupts with cheers and roaring. Now is the time your men shall prove themselves before the watchful eye of the commoner. | The %companyname%'s business is rarely done before the eyes of those who would prefer themselves distantly separated from such violence. But in the arena, the commoner greedily awaits death and suffering, and it growls with bloodlust as your men enter the pits, and roars as the sellswords draw their weapons and ready for battle. | The arena is shaped like the pit of some sore, its ceiling torn away by the gods, revealing the vanity, bloodlust, and savagery of man. And it is man there, yelling and screaming, and if the blood sprays hit them, they wash their faces in the gore and grin at one another as though it were a joke. They fight one another for trophies and relish in the pain of others. And it is before these peoples that the %companyname% will fight, and for them they shall entertain and entertain well. | The arena's crowd is a mash of classes, rich and poor, for only the Viziers separate themselves out into stations above all. Briefly unified, the peoples of %townname% have graciously come together to watch men and monsters murder one another. With pleasure, the %companyname% seeks to do its part. | Boys sitting on the shoulders of fathers, young girls throwing flowers to the gladiators, women fanning themselves, men wondering if they could do it. These are the peoples of the arena - and the rest are all drunk out of their gourd and screaming nonsense. You hope the %companyname% can contribute to at least an hour or two to entertaining this mad lot. | The crowd roars as the %companyname%'s men step into the pit. One would be dumb to confuse excitement for desire, for as soon as the applause ends there is a smattering of empty beer mugs and rotten tomatoes and the general giggling delight of those watching the matter. You wonder if the %companyname%'s men are really best spent here, but then think hard on the gold and glory to be won, and that at the end of the day these mongrels in the stands will go home to their shit lives, and you'll go home to your shit life as well, but at least your pockets will be a bit deeper.}",
     "translation": "[img]gfx/ui/events/event_155.png[/img]{等待轮到你的时候，人群的嗜血之情在黑暗中传播，灰尘从头顶落下，脚步声如雷鸣。他们期待着，杀戮声中狂欢。战斗之间的静谧只有短暂的片刻，这份寂静随着生锈的大门上升而消失，铁链摩擦发出响声，人群再次嗡嗡作响。你走出光线，如此雷鸣般的声音撞击着你的心脏，即使是一具僵尸也会动荡不安。 | 竞技场的观众肩并肩，大部分都喝醉了。他们尖叫着吼叫着，语言上既有本地的，也有外来的，但他们的血腥欲望不需要过多的口胡，只要看着他们狂热的脸庞和挥舞的拳头。现在，%companyname%的士兵们将满足这些疯狂的笨蛋。 | 清洁工人在竞技场中匆忙前行。他们拖走尸体，收集值得收集的东西，偶尔会把奖杯扔到人群中，引发一个模仿竞技场战斗的暴民骚动。%companyname%现在也是这场盛宴的一部分。 | 竞技场在等待，人群熊熊燃烧，%companyname%的胜利之际已经到来！ | 当%companyname%的士兵走进这个充满鲜血的坑时，人群轰鸣。尽管人民的快感来自于无意识的嗜血之情，但你无法控制自己内心的一丝自豪感，因为你知道这是你的战团准备上演一场盛大的表演。 | 大门升起，除了锁链的响声、滑轮的吱嘎声和奴隶劳作的呻吟外，什么声音也听不见。当%companyname%的人们走出竞技场的深处时，他们能听到脚底下沙子的声响，直到他们站在沙坑中央。一个陌生的声音从体育场的顶部尖叫着，是一种你无法理解的语言，但这些话语在人群中回响了一次，然后观众们就爆发出欢呼和咆哮声。现在，你的人将在平民的警觉眼神下证明自己。 | %companyname%的事务很少在那些希望与这样的暴力事件保持距离的人眼前完成。但在角斗场，平民们渴望死亡和痛苦，当你的人进入沙坑时，他们发出咆哮声，并准备好战斗时，则发出动物般的怒吼。 | 角斗场的形状像一个伤口的坑，其天花板被神撕裂开来，揭示了人类的虚荣、嗜血和野蛮。在那里，人们尖叫着，如果鲜血四溅到他们身上，他们会用那污物洗脸并互相冲着笑，好像那是一场玩笑。他们为了奖杯而互相搏斗，并为他人的疼痛而狂欢。%companyname%将在这些人的面前战斗，他们将为他们提供娱乐，并提供精彩的表演。 | 竞技场的观众群是阶级的混合物，有富人和穷人，只有高级官员才会把自己分离成站台。在%townname%的人民暂时团结起来，慷慨地聚在一起观看男人和怪物相互屠杀。%companyname%很高兴能够尽自己的一份力。 | 小男孩坐在父亲的肩膀上，年轻的女孩向角斗士扔花，妇女扇着自己，男人们在想着是否也能够这样做。这就是竞技场的人民——其他人都喝醉了大醉，乱喊乱叫的。希望%companyname%能够为这个疯狂的群体贡献至少一两个小时的娱乐。 | 当%companyname%的人走上沙坑时，观众群发出震耳欲聋的欢呼声。一个傻瓜会把兴奋和渴望混淆在一起，因为一旦掌声结束，就会有一些空啤酒杯和臭烂的番茄，还有那些观看这件事情的人的大笑。你在想%companyname%的人是否真的最好在这里度过，但随后认真考虑了一下可以获得的金钱和荣耀，而且在这一天结束时，看台上的那些杂碎们会回家过他们一样的狗日子，而你也会回家过你的狗日子，但至少你的口袋会更加充实。}",
     "stage": 1,
-    "context": "'Text' = \"[img]gfx/ui/events/event_155.png[/img]{As you wait your turn, the crowd's bloodlust crawls through the dark, sheets of dust falling from above, the stomps of feet thunderous. They murmur in anticipation, and roar at killings. The quiet between battles is mere moments, and this silence is snatched away as the rusted gate lurches upward, chains rankling, the crowd abuzz once more. You step out into the light and so thunderous is the noise against your heart it could surely yet spur a dead man forth... | The arena's crowd is shoulder to shoulder, most blathering drunk. They scream and shout, their languages a mix of local and foreign, though the appeal to their bloodlust needs little articulation beyond their maddened faces and pumping fists. Now, the %companyname%'s men will satiate these mad fools... | Cleaners hurry about the arena. They drag away the bodies, collect what's worth collecting, and occasionally throw a trophy into the crowds, eliciting a moblike rendition of the arena's battles in the stands themselves. The %companyname% is now a part of this affair. | The arena awaits, the crowd alight, and the %companyname%'s turn to gain glory is at hand! | The crowd booms as the %companyname%'s men stride into its bloody pit. Despite the mindless bloodlust of the peoples, you can't help but feel a beat of pride in your chest, knowing that it is your company ready to put on a show. | The gate rises. Nothing is heard save the rattle of chains, the creak of pulleys, the grunts of slaves at work. When the men of the %companyname% step out of the arena's bowels they can hear the crunch of sand underfoot until they come to stand in the center of the pit. A strange voice screams from the tops of the stadium, some lost language beyond your knowing, but the words echo just once before the crowd erupts with cheers and roaring. Now is the time your men shall prove themselves before the watchful eye of the commoner. | The %companyname%'s business is rarely done before the eyes of those who would prefer themselves distantly separated from such violence. But in the arena, the commoner greedily awaits death and suffering, and it growls with bloodlust as your men enter the pits, and roars as the sellswords draw their weapons and ready for battle. | The arena is shaped like the pit of some sore, its ceiling torn away by the gods, revealing the vanity, bloodlust, and savagery of man. And it is man there, yelling and screaming, and if the blood sprays hit them, they wash their faces in the gore and grin at one another as though it were a joke. They fight one another for trophies and relish in the pain of others. And it is before these peoples that the %companyname% will fight, and for them they shall entertain and entertain well. | The arena's crowd is a mash of classes, rich and poor, for only the Viziers separate themselves out into stations above all. Briefly unified, the peoples of %townname% have graciously come together to watch men and monsters murder one another. With pleasure, the %companyname% seeks to do its part. | Boys sitting on the shoulders of fathers, young girls throwing flowers to the gladiators, women fanning themselves, men wondering if they could do it. These are the peoples of the arena - and the rest are all drunk out of their gourd and screaming nonsense. You hope the %companyname% can contribute to at least an hour or two to entertaining this mad lot. | The crowd roars as the %companyname%'s men step into the pit. One would be dumb to confuse excitement for desire, for as soon as the applause ends there is a smattering of empty beer mugs and rotten tomatoes and the general giggling delight of those watching the matter. You wonder if the %companyname%'s men are really best spent here, but then think hard on the gold and glory to be won, and that at the end of the day these mongrels in the stands will go home to their shit lives, and you'll go home to your shit life as well, but at least your pockets will be a bit deeper.}\""
+    "context": "Text = \"[img]gfx/ui/events/event_155.png[/img]{As you wait your turn, the crowd's bloodlust crawls through the dark, sheets of dust falling from above, the stomps of feet thunderous. They murmur in anticipation, and roar at killings. The quiet between battles is mere moments, and this silence is snatched away as the rusted gate lurches upward, chains rankling, the crowd abuzz once more. You step out into the light and so thunderous is the noise against your heart it could surely yet spur a dead man forth... | The arena's crowd is shoulder to shoulder, most blathering drunk. They scream and shout, their languages a mix of local and foreign, though the appeal to their bloodlust needs little articulation beyond their maddened faces and pumping fists. Now, the %companyname%'s men will satiate these mad fools... | Cleaners hurry about the arena. They drag away the bodies, collect what's worth collecting, and occasionally throw a trophy into the crowds, eliciting a moblike rendition of the arena's battles in the stands themselves. The %companyname% is now a part of this affair. | The arena awaits, the crowd alight, and the %companyname%'s turn to gain glory is at hand! | The crowd booms as the %companyname%'s men stride into its bloody pit. Despite the mindless bloodlust of the peoples, you can't help but feel a beat of pride in your chest, knowing that it is your company ready to put on a show. | The gate rises. Nothing is heard save the rattle of chains, the creak of pulleys, the grunts of slaves at work. When the men of the %companyname% step out of the arena's bowels they can hear the crunch of sand underfoot until they come to stand in the center of the pit. A strange voice screams from the tops of the stadium, some lost language beyond your knowing, but the words echo just once before the crowd erupts with cheers and roaring. Now is the time your men shall prove themselves before the watchful eye of the commoner. | The %companyname%'s business is rarely done before the eyes of those who would prefer themselves distantly separated from such violence. But in the arena, the commoner greedily awaits death and suffering, and it growls with bloodlust as your men enter the pits, and roars as the sellswords draw their weapons and ready for battle. | The arena is shaped like the pit of some sore, its ceiling torn away by the gods, revealing the vanity, bloodlust, and savagery of man. And it is man there, yelling and screaming, and if the blood sprays hit them, they wash their faces in the gore and grin at one another as though it were a joke. They fight one another for trophies and relish in the pain of others. And it is before these peoples that the %companyname% will fight, and for them they shall entertain and entertain well. | The arena's crowd is a mash of classes, rich and poor, for only the Viziers separate themselves out into stations above all. Briefly unified, the peoples of %townname% have graciously come together to watch men and monsters murder one another. With pleasure, the %companyname% seeks to do its part. | Boys sitting on the shoulders of fathers, young girls throwing flowers to the gladiators, women fanning themselves, men wondering if they could do it. These are the peoples of the arena - and the rest are all drunk out of their gourd and screaming nonsense. You hope the %companyname% can contribute to at least an hour or two to entertaining this mad lot. | The crowd roars as the %companyname%'s men step into the pit. One would be dumb to confuse excitement for desire, for as soon as the applause ends there is a smattering of empty beer mugs and rotten tomatoes and the general giggling delight of those watching the matter. You wonder if the %companyname%'s men are really best spent here, but then think hard on the gold and glory to be won, and that at the end of the day these mongrels in the stands will go home to their shit lives, and you'll go home to your shit life as well, but at least your pockets will be a bit deeper.}\""
   },
   {
     "ID": 293407784,
@@ -181,7 +181,7 @@
     "original": " is now ",
     "translation": "现在是",
     "stage": 1,
-    "context": "'text' = bro.getName() + ' is now ' + this.Const.Strings.getArticle(skill.getName()) + skill.getName()"
+    "context": "text = bro.getName() + ' is now ' + this.Const.Strings.getArticle(skill.getName()) + skill.getName()"
   },
   {
     "ID": 293407790,
@@ -189,7 +189,7 @@
     "original": "We're not doing this. I don't want to die!",
     "translation": "我们不会接受的，我不想死！",
     "stage": 1,
-    "context": "'Text' = \"We're not doing this. I don't want to die!\""
+    "context": "Text = \"We're not doing this. I don't want to die!\""
   },
   {
     "ID": 293407791,
@@ -197,7 +197,7 @@
     "original": "[img]gfx/ui/events/event_147.png[/img]{The %companyname%'s men have been defeated, either dead or, perhaps worse, badly mangled. At least the crowds are happy. In the pits, any showing, even that which ends in demise, is a good showing.}",
     "translation": "[img]gfx/ui/events/event_147.png[/img]{ %companyname% 的士兵被打败了，他们要么是痛快的死去, 或者更惨的是受到重伤而伤痕累累。但至少观众们很高兴。在竞技场下面，任何的表现，即使以死亡告终，都是好的表现。}",
     "stage": 1,
-    "context": "'Text' = \"[img]gfx/ui/events/event_147.png[/img]{The %companyname%'s men have been defeated, either dead or, perhaps worse, badly mangled. At least the crowds are happy. In the pits, any showing, even that which ends in demise, is a good showing.}\""
+    "context": "Text = \"[img]gfx/ui/events/event_147.png[/img]{The %companyname%'s men have been defeated, either dead or, perhaps worse, badly mangled. At least the crowds are happy. In the pits, any showing, even that which ends in demise, is a good showing.}\""
   },
   {
     "ID": 293407792,
@@ -221,7 +221,7 @@
     "original": "I accept.",
     "translation": "我接受。",
     "stage": 5,
-    "context": "'Text' = 'I accept.'"
+    "context": "Text = 'I accept.'"
   },
   {
     "ID": 293407795,
@@ -229,7 +229,7 @@
     "original": "{Victory! | Are you not entertained?! | Killed it. | A bloody spectacle.}",
     "translation": "{胜利！ | 你们不觉得很搞笑吗？！ | 杀了他！ | 一幅血腥的画面。}",
     "stage": 5,
-    "context": "'Text' = '{Victory! | Are you not entertained?! | Killed it. | A bloody spectacle.}'"
+    "context": "Text = '{Victory! | Are you not entertained?! | Killed it. | A bloody spectacle.}'"
   },
   {
     "ID": 293407796,
@@ -253,7 +253,7 @@
     "original": "{[img]gfx/ui/events/event_155.png[/img]The time for your arena match has come, but none of your men bear the arena collars, and so they aren't let in.\n\nYou should decide on who is to fight by equipping them with the arena collars that you've been given, and the match will start once you enter the arena again.",
     "translation": "{[img]gfx/ui/events/event_155.png[/img] 竞技场比赛的时间到了，但是你的士兵们没有佩戴竞技场项圈，所以他们被禁止进入。\n\n你应该决定谁去参加比赛，通过给他们佩戴竞技场项圈，一旦你再次进入竞技场比赛就会开始。",
     "stage": 1,
-    "context": "'Text' = \"{[img]gfx/ui/events/event_155.png[/img]The time for your arena match has come, but none of your men bear the arena collars, and so they aren't let in.\n\nYou should decide on who is to fight by equipping them with the arena collars that you've been given, and the match will start once you enter the arena again.\""
+    "context": "Text = \"{[img]gfx/ui/events/event_155.png[/img]The time for your arena match has come, but none of your men bear the arena collars, and so they aren't let in.\n\nYou should decide on who is to fight by equipping them with the arena collars that you've been given, and the match will start once you enter the arena again.\""
   },
   {
     "ID": 293407799,
@@ -269,7 +269,7 @@
     "original": "[img]gfx/ui/events/event_147.png[/img]{The arena master talks as if he doesn't even remember your face, then again he probably doesn't.%SPEECH_ON%Here's your pay, please come again.%SPEECH_OFF%The arena will be closed for the day, but you could return as early as tomorrow. | Without even raising his head from a rag of papyrus, the arena master throws you a purse of coin.%SPEECH_ON%I heard the crowds, and so here are your crowns. May you come visit the pits again.%SPEECH_OFF%The arena will be closed for the day, but you could return as early as tomorrow. | The arena master is waiting for you.%SPEECH_ON%That was a mighty fine show, Crownling. Would not mind it in the slightest if you come back again.%SPEECH_OFF%The arena will be closed for the day, but you could return as early as tomorrow.}",
     "translation": "[img]gfx/ui/events/event_147.png[/img]{竞技场主说话时好像连你的面孔都不记得，不过他可能确实不记得了。%SPEECH_ON%给你拿工钱来了，请下次再来。%SPEECH_OFF%今天的比赛结束了，不过你明天就可以再来。 | 竞技场主连头都没抬从一张纸草纸里取出一袋硬币给了你。%SPEECH_ON%听到观众的喝彩声，这是你应得的克朗，希望你能够再来角斗场。%SPEECH_OFF%今天的比赛已经结束，不过你明天就可以再来。 | 竞技场主正等着你呢。%SPEECH_ON%那可真是场不错的表演，队长。如果你下次再来我也毫不介意。%SPEECH_OFF%今天的比赛已经结束，不过你明天就可以再来。}",
     "stage": 1,
-    "context": "'Text' = \"[img]gfx/ui/events/event_147.png[/img]{The arena master talks as if he doesn't even remember your face, then again he probably doesn't.%SPEECH_ON%Here's your pay, please come again.%SPEECH_OFF%The arena will be closed for the day, but you could return as early as tomorrow. | Without even raising his head from a rag of papyrus, the arena master throws you a purse of coin.%SPEECH_ON%I heard the crowds, and so here are your crowns. May you come visit the pits again.%SPEECH_OFF%The arena will be closed for the day, but you could return as early as tomorrow. | The arena master is waiting for you.%SPEECH_ON%That was a mighty fine show, Crownling. Would not mind it in the slightest if you come back again.%SPEECH_OFF%The arena will be closed for the day, but you could return as early as tomorrow.}\""
+    "context": "Text = \"[img]gfx/ui/events/event_147.png[/img]{The arena master talks as if he doesn't even remember your face, then again he probably doesn't.%SPEECH_ON%Here's your pay, please come again.%SPEECH_OFF%The arena will be closed for the day, but you could return as early as tomorrow. | Without even raising his head from a rag of papyrus, the arena master throws you a purse of coin.%SPEECH_ON%I heard the crowds, and so here are your crowns. May you come visit the pits again.%SPEECH_OFF%The arena will be closed for the day, but you could return as early as tomorrow. | The arena master is waiting for you.%SPEECH_ON%That was a mighty fine show, Crownling. Would not mind it in the slightest if you come back again.%SPEECH_OFF%The arena will be closed for the day, but you could return as early as tomorrow.}\""
   },
   {
     "ID": 293407801,
@@ -285,7 +285,7 @@
     "original": "{[img]gfx/ui/events/event_85.png[/img]The fight over, you find a few women sauntering upon you and the gladiators. They are practically swooning, faces blushed, and the men take special care of them. A little tired yourself, you have one of the fans help you count inventory. | [img]gfx/ui/events/event_147.png[/img]The battle's over, but a shadow suddenly crosses the ground. In a flash, you unsheathe and slash the sky. Flower petals shower your glistening body and you catch the rest of the bouquet in your teeth. A woman stands there fanning herself.%SPEECH_ON%I wondered why you didn't fight.%SPEECH_OFF%She says. You sheathe your blade and tie the bouquet to your belt. You tell her that if you fought, it wouldn't be a 'fight' at all. The fan goes weak at the knees and finds comfort on the ground. Before leaving, you tell her to drink plenty of water and make sure she stretches in the mornings. | [img]gfx/ui/events/event_97.png[/img]%SPEECH_START%Can I learn to fight like you men?%SPEECH_OFF%The voices catches you off guard and before you know it you have your blade an inch from a little boy's face. His eyes are shut, and he slowly opens one. You sheathe the sword and laugh.%SPEECH_ON%No. What I am cannot be learned.%SPEECH_OFF%You use a bit of ash and blood from the field to sign the kid's shirt and then make your leave. | [img]gfx/ui/events/event_97.png[/img]%SPEECH_START%Are you... are you gladiators?%SPEECH_OFF%You look to see a boy standing there with awe on his face. He almost cries he's so giddy.%SPEECH_ON%You're amazing!%SPEECH_OFF%Tussling the boy's hair, you tell him thanks, and make your leave. | [img]gfx/ui/events/event_97.png[/img]%SPEECH_START%H-how did you get so good?%SPEECH_OFF%You turn to see a boy nervously staring at you. Smiling, you give him the truth.%SPEECH_ON%When I was your age, I was killing men my age.%SPEECH_OFF%Grinning back, he asks if he works on it, can he be like you. Nodding, you answer.%SPEECH_ON%You can't know until you try, kid. Now go on home.%SPEECH_OFF%The boy brandishes a butter knife and fiendishly turns and sprints away. He's a good lad.}",
     "translation": "{[img]gfx/ui/events/event_85.png[/img]战斗结束，你发现有几个女子在你和角斗士周围晃荡。她们几乎就要晕倒，脸上泛红，有男子特别关心她们。你自己也有点累了，让一名粉丝帮你清点库存。 | [img]gfx/ui/events/event_147.png[/img]战斗结束，但是忽然一道阴影出现在地面上。你一晃就拔出剑来，向天空挥去。鲜花瓣飘洒在你闪闪发光的身体上，你用牙齿接住剩下的花束。一名女子站在那里扇着扇子。%SPEECH_ON%我本来就在想你为什么不战斗。%SPEECH_OFF%她说。你将剑插回剑鞘，将花束系在腰带上。你告诉她，如果你战斗的话，根本不能叫做“战斗”。那名粉丝膝盖软了，找到地面上的安慰。在离开之前，你告诉她多喝水，确保早上拉伸身体。 | [img]gfx/ui/events/event_97.png[/img]%SPEECH_START%我能像你们男人一样学习战斗吗？%SPEECH_OFF%这声音吓了你一跳，你不知不觉地将剑架在了一个小男孩的脸前一寸。他闭上了眼睛，慢慢地睁开了一个。你将剑插回剑鞘，并笑了起来。%SPEECH_ON%不，我是什么样的人是无法学到的。%SPEECH_OFF%你用一点野战场上的灰烬和血液签署在男孩的衬衫上，然后离开了。 | [img]gfx/ui/events/event_97.png[/img]%SPEECH_START%你们是角斗士吗？%SPEECH_OFF%你看到一个男孩惊奇地站在那里。他几乎哭了，因为他太兴奋了。%SPEECH_ON%你真了不起！%SPEECH_OFF%你揉了揉男孩的头发，感谢他，然后离开了。 | [img]gfx/ui/events/event_97.png[/img]%SPEECH_START%你怎么这么厉害？%SPEECH_OFF%你转过身来看到一个男孩紧张地盯着你。微笑着，你给他一个真相。%SPEECH_ON%我和你一样大的时候，我就在杀同龄人了。%SPEECH_OFF%你回头冲他笑了笑，他问你如果他努力，他能成为像你一样的人吗？你点点头回答。%SPEECH_ON%你不试试怎么知道呢，孩子。现在回家吧。%SPEECH_OFF%男孩挥舞着一把黄油刀，狂奔着跑开了。他是个好孩子。}",
     "stage": 1,
-    "context": "'Text' = \"{[img]gfx/ui/events/event_85.png[/img]The fight over, you find a few women sauntering upon you and the gladiators. They are practically swooning, faces blushed, and the men take special care of them. A little tired yourself, you have one of the fans help you count inventory. | [img]gfx/ui/events/event_147.png[/img]The battle's over, but a shadow suddenly crosses the ground. In a flash, you unsheathe and slash the sky. Flower petals shower your glistening body and you catch the rest of the bouquet in your teeth. A woman stands there fanning herself.%SPEECH_ON%I wondered why you didn't fight.%SPEECH_OFF%She says. You sheathe your blade and tie the bouquet to your belt. You tell her that if you fought, it wouldn't be a 'fight' at all. The fan goes weak at the knees and finds comfort on the ground. Before leaving, you tell her to drink plenty of water and make sure she stretches in the mornings. | [img]gfx/ui/events/event_97.png[/img]%SPEECH_START%Can I learn to fight like you men?%SPEECH_OFF%The voices catches you off guard and before you know it you have your blade an inch from a little boy's face. His eyes are shut, and he slowly opens one. You sheathe the sword and laugh.%SPEECH_ON%No. What I am cannot be learned.%SPEECH_OFF%You use a bit of ash and blood from the field to sign the kid's shirt and then make your leave. | [img]gfx/ui/events/event_97.png[/img]%SPEECH_START%Are you... are you gladiators?%SPEECH_OFF%You look to see a boy standing there with awe on his face. He almost cries he's so giddy.%SPEECH_ON%You're amazing!%SPEECH_OFF%Tussling the boy's hair, you tell him thanks, and make your leave. | [img]gfx/ui/events/event_97.png[/img]%SPEECH_START%H-how did you get so good?%SPEECH_OFF%You turn to see a boy nervously staring at you. Smiling, you give him the truth.%SPEECH_ON%When I was your age, I was killing men my age.%SPEECH_OFF%Grinning back, he asks if he works on it, can he be like you. Nodding, you answer.%SPEECH_ON%You can't know until you try, kid. Now go on home.%SPEECH_OFF%The boy brandishes a butter knife and fiendishly turns and sprints away. He's a good lad.}\""
+    "context": "Text = \"{[img]gfx/ui/events/event_85.png[/img]The fight over, you find a few women sauntering upon you and the gladiators. They are practically swooning, faces blushed, and the men take special care of them. A little tired yourself, you have one of the fans help you count inventory. | [img]gfx/ui/events/event_147.png[/img]The battle's over, but a shadow suddenly crosses the ground. In a flash, you unsheathe and slash the sky. Flower petals shower your glistening body and you catch the rest of the bouquet in your teeth. A woman stands there fanning herself.%SPEECH_ON%I wondered why you didn't fight.%SPEECH_OFF%She says. You sheathe your blade and tie the bouquet to your belt. You tell her that if you fought, it wouldn't be a 'fight' at all. The fan goes weak at the knees and finds comfort on the ground. Before leaving, you tell her to drink plenty of water and make sure she stretches in the mornings. | [img]gfx/ui/events/event_97.png[/img]%SPEECH_START%Can I learn to fight like you men?%SPEECH_OFF%The voices catches you off guard and before you know it you have your blade an inch from a little boy's face. His eyes are shut, and he slowly opens one. You sheathe the sword and laugh.%SPEECH_ON%No. What I am cannot be learned.%SPEECH_OFF%You use a bit of ash and blood from the field to sign the kid's shirt and then make your leave. | [img]gfx/ui/events/event_97.png[/img]%SPEECH_START%Are you... are you gladiators?%SPEECH_OFF%You look to see a boy standing there with awe on his face. He almost cries he's so giddy.%SPEECH_ON%You're amazing!%SPEECH_OFF%Tussling the boy's hair, you tell him thanks, and make your leave. | [img]gfx/ui/events/event_97.png[/img]%SPEECH_START%H-how did you get so good?%SPEECH_OFF%You turn to see a boy nervously staring at you. Smiling, you give him the truth.%SPEECH_ON%When I was your age, I was killing men my age.%SPEECH_OFF%Grinning back, he asks if he works on it, can he be like you. Nodding, you answer.%SPEECH_ON%You can't know until you try, kid. Now go on home.%SPEECH_OFF%The boy brandishes a butter knife and fiendishly turns and sprints away. He's a good lad.}\""
   },
   {
     "ID": 293407803,
@@ -317,7 +317,7 @@
     "original": "At the Arena",
     "translation": "在竞技场",
     "stage": 5,
-    "context": "'Title' = 'At the Arena'"
+    "context": "Title = 'At the Arena'"
   },
   {
     "ID": 293407807,
@@ -333,7 +333,7 @@
     "original": "{This isn't what I had in mind. | I'll sit this one out. | I'll wait for the next fight.}",
     "translation": "{这不是我想要的。 | 我会退出这个。 | 我会等待下一场战斗。}",
     "stage": 5,
-    "context": "'Text' = \"{This isn't what I had in mind. | I'll sit this one out. | I'll wait for the next fight.}\""
+    "context": "Text = \"{This isn't what I had in mind. | I'll sit this one out. | I'll wait for the next fight.}\""
   },
   {
     "ID": 293407809,
@@ -349,7 +349,7 @@
     "original": "Oh, right!",
     "translation": "好, 就这样！",
     "stage": 1,
-    "context": "'Text' = 'Oh, right!'"
+    "context": "Text = 'Oh, right!'"
   },
   {
     "ID": 293407811,
@@ -405,7 +405,7 @@
     "original": "This arena fight works as follows. Do you agree to the terms?",
     "translation": "这场竞技场战斗的工作原理如下。 你同意这些条款吗？",
     "stage": 1,
-    "context": "'Text' = 'This arena fight works as follows. Do you agree to the terms?'"
+    "context": "Text = 'This arena fight works as follows. Do you agree to the terms?'"
   },
   {
     "ID": 293407818,
@@ -413,7 +413,7 @@
     "original": "You gain a ",
     "translation": "你获得了一个 ",
     "stage": 5,
-    "context": "'text' = 'You gain a ' + a.getName()"
+    "context": "text = 'You gain a ' + a.getName()"
   },
   {
     "ID": 293407819,
@@ -453,7 +453,7 @@
     "original": "I'll have to think it over.",
     "translation": "我得考虑一下。",
     "stage": 1,
-    "context": "'Text' = \"I'll have to think it over.\""
+    "context": "Text = \"I'll have to think it over.\""
   },
   {
     "ID": 293407824,
@@ -461,7 +461,7 @@
     "original": "Disaster!",
     "translation": "灾难！",
     "stage": 1,
-    "context": "'Text' = 'Disaster!'"
+    "context": "Text = 'Disaster!'"
   },
   {
     "ID": 293407825,
@@ -477,7 +477,7 @@
     "original": "{Damn, we're good. | We're the best.}",
     "translation": "{妙极了，我们太棒了。 | 我们是最好的。}",
     "stage": 1,
-    "context": "'Text' = \"{Damn, we're good. | We're the best.}\""
+    "context": "Text = \"{Damn, we're good. | We're the best.}\""
   },
   {
     "ID": 293407827,

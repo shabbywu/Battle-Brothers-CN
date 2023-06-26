@@ -13,7 +13,7 @@
     "original": "Starts combat at Confident morale if permitted by mood",
     "translation": "如果心情允许，以自信的士气开始战斗",
     "stage": 5,
-    "context": "'text' = 'Starts combat at Confident morale if permitted by mood'"
+    "context": "text = 'Starts combat at Confident morale if permitted by mood'"
   },
   {
     "ID": 293422646,
@@ -21,7 +21,7 @@
     "original": "Cannot use ranged attacks or tools",
     "translation": "不能使用远程攻击或工具",
     "stage": 5,
-    "context": "'text' = 'Cannot use ranged attacks or tools'"
+    "context": "text = 'Cannot use ranged attacks or tools'"
   },
   {
     "ID": 293422647,

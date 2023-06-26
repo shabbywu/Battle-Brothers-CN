@@ -5,7 +5,7 @@
     "original": "]10[/color] hitpoints each turn",
     "translation": "]10[/color] 生命值每回合",
     "stage": 1,
-    "context": "'text' = 'Heals [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints each turn'"
+    "context": "text = 'Heals [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints each turn'"
   },
   {
     "ID": 293421776,
@@ -13,7 +13,7 @@
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
     "stage": 1,
-    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
+    "context": "text = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421777,
@@ -45,7 +45,7 @@
     "original": "Heals [color=",
     "translation": "治疗 [color=",
     "stage": 1,
-    "context": "'text' = 'Heals [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints each turn'"
+    "context": "text = 'Heals [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints each turn'"
   },
   {
     "ID": 293421781,

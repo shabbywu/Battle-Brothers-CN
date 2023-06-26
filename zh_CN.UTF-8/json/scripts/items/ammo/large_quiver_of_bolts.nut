@@ -5,7 +5,7 @@
     "original": "]Is empty and useless[/color]",
     "translation": "]已用尽，无用的[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Is empty and useless[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Is empty and useless[/color]'"
   },
   {
     "ID": 293417532,
@@ -29,7 +29,7 @@
     "original": "Contains [color=",
     "translation": "含有 [color=",
     "stage": 5,
-    "context": "'text' = 'Contains [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] bolts'"
+    "context": "text = 'Contains [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] bolts'"
   },
   {
     "ID": 293417535,
@@ -37,6 +37,6 @@
     "original": "[/color] bolts",
     "translation": "[/color] 支弩矢",
     "stage": 5,
-    "context": "'text' = 'Contains [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] bolts'"
+    "context": "text = 'Contains [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] bolts'"
   }
 ]

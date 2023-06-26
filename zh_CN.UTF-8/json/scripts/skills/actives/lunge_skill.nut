@@ -13,7 +13,7 @@
     "original": "]Can not be used while rooted[/color]",
     "translation": "]定身时不能使用[/color]",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used while rooted[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used while rooted[/color]'"
   },
   {
     "ID": 293420169,
@@ -21,7 +21,7 @@
     "original": "Moves the user next to the target, ignoring Zone of Control",
     "translation": "将使用者移动到目标旁边，忽视控制区域",
     "stage": 1,
-    "context": "'text' = 'Moves the user next to the target, ignoring Zone of Control'"
+    "context": "text = 'Moves the user next to the target, ignoring Zone of Control'"
   },
   {
     "ID": 293420170,
@@ -45,7 +45,7 @@
     "original": "Inflicts additional damage, the higher the user's current Initiative",
     "translation": "使用者当前的主动值越高，造成额外的伤害越高",
     "stage": 1,
-    "context": "'text' = \"Inflicts additional damage, the higher the user's current Initiative\""
+    "context": "text = \"Inflicts additional damage, the higher the user's current Initiative\""
   },
   {
     "ID": 293420173,

@@ -5,7 +5,7 @@
     "original": "Read and learn",
     "translation": "阅读和学习",
     "stage": 5,
-    "context": "'Read and learn'"
+    "context": "Mottos = ['Dare to be wise','Wisdom the conqueror of fortune','Read and learn','The castle of wisdom','Knowledge at last']"
   },
   {
     "ID": 293404747,
@@ -13,7 +13,7 @@
     "original": "Not without booty",
     "translation": "留下买路财",
     "stage": 5,
-    "context": "'Not without booty'"
+    "context": "Mottos = ['Whatever grows perishes in ashes','We trample it under our feet','For me and for mine','The eagle catches not flies','Deeds not words','The gods feed the ravens','Always thirsty','Sons of hounds come here and get flesh','Not without booty']"
   },
   {
     "ID": 293404748,
@@ -21,7 +21,7 @@
     "original": "Nothing in life is permanent",
     "translation": "生命中没有什么是永恒的",
     "stage": 5,
-    "context": "'Nothing in life is permanent'"
+    "context": "Mottos = ['Nothing in life is permanent','Consider the end','We neither despise nor fear','Judge not','All things change','Every man for himself','All things are thus unstable','Beware the wolf']"
   },
   {
     "ID": 293404749,
@@ -29,7 +29,7 @@
     "original": "Judge not",
     "translation": "不轻易评判",
     "stage": 5,
-    "context": "'Judge not'"
+    "context": "Mottos = ['Nothing in life is permanent','Consider the end','We neither despise nor fear','Judge not','All things change','Every man for himself','All things are thus unstable','Beware the wolf']"
   },
   {
     "ID": 293404750,
@@ -37,7 +37,7 @@
     "original": "A city state ruled by a ruthless council that is out to achieve power by all means. Many an untimely death is rumored to have been an assassination ordered by the viziers of %citystatename%.",
     "translation": "一个由无情的议会统治的城邦，他们会不择手段地获取权力。据传许多突然死亡事件都是由%citystatename%的维齐尔下令实施的暗杀。",
     "stage": 5,
-    "context": "'Description' = 'A city state ruled by a ruthless council that is out to achieve power by all means. Many an untimely death is rumored to have been an assassination ordered by the viziers of %citystatename%.'"
+    "context": "Description = 'A city state ruled by a ruthless council that is out to achieve power by all means. Many an untimely death is rumored to have been an assassination ordered by the viziers of %citystatename%.'"
   },
   {
     "ID": 293404751,
@@ -45,7 +45,7 @@
     "original": "Cruel rumor, be still",
     "translation": "流言蜚语止步",
     "stage": 5,
-    "context": "'Cruel rumor, be still'"
+    "context": "Mottos = ['Unconquered','Cruel rumor, be still','I soar','With good right','I despise','Sheep, ye bear the wool','Spare not','Profit is gained by danger','Remember that thou must die']"
   },
   {
     "ID": 293404752,
@@ -53,7 +53,7 @@
     "original": "Always watchful",
     "translation": "时刻警惕",
     "stage": 5,
-    "context": "'Always watchful'"
+    "context": "Mottos = ['Live that you may live','Friendship without deceit','Dare to be wise','The brave always show mercy','A friend to a friend','This hand is hostile to tyrants','Irritate not the lion','An oak in aged strength','With heart and hand','Always watchful','Glory to the father','Virtue under strength','Prepared in either case','Not for ourselves alone']"
   },
   {
     "ID": 293404753,
@@ -61,7 +61,7 @@
     "original": "A wealthy and independent city state focused mostly on trade and acquiring further wealth.",
     "translation": "一个富裕而独立的城邦，主要专注于贸易和获取更多财富。",
     "stage": 5,
-    "context": "'Description' = 'A wealthy and independent city state focused mostly on trade and acquiring further wealth.'"
+    "context": "Description = 'A wealthy and independent city state focused mostly on trade and acquiring further wealth.'"
   },
   {
     "ID": 293404754,
@@ -69,7 +69,7 @@
     "original": "Dare to be wise",
     "translation": "敢为智者",
     "stage": 5,
-    "context": "'Dare to be wise'"
+    "context": "Mottos = ['Dare to be wise','Wisdom the conqueror of fortune','Read and learn','The castle of wisdom','Knowledge at last']"
   },
   {
     "ID": 293404755,
@@ -77,7 +77,7 @@
     "original": "Sons of hounds come here and get flesh",
     "translation": "猎犬之子嗣于此猎食",
     "stage": 5,
-    "context": "'Sons of hounds come here and get flesh'"
+    "context": "Mottos = ['Whatever grows perishes in ashes','We trample it under our feet','For me and for mine','The eagle catches not flies','Deeds not words','The gods feed the ravens','Always thirsty','Sons of hounds come here and get flesh','Not without booty']"
   },
   {
     "ID": 293404756,
@@ -85,7 +85,7 @@
     "original": "Friendship without deceit",
     "translation": "友谊不容虚伪",
     "stage": 5,
-    "context": "'Friendship without deceit'"
+    "context": "Mottos = ['Live that you may live','Friendship without deceit','Dare to be wise','The brave always show mercy','A friend to a friend','This hand is hostile to tyrants','Irritate not the lion','An oak in aged strength','With heart and hand','Always watchful','Glory to the father','Virtue under strength','Prepared in either case','Not for ourselves alone']"
   },
   {
     "ID": 293404757,
@@ -93,7 +93,7 @@
     "original": "An oak in aged strength",
     "translation": "经年古树",
     "stage": 5,
-    "context": "'An oak in aged strength'"
+    "context": "Mottos = ['Live that you may live','Friendship without deceit','Dare to be wise','The brave always show mercy','A friend to a friend','This hand is hostile to tyrants','Irritate not the lion','An oak in aged strength','With heart and hand','Always watchful','Glory to the father','Virtue under strength','Prepared in either case','Not for ourselves alone']"
   },
   {
     "ID": 293404758,
@@ -101,7 +101,7 @@
     "original": "Strive without reproach",
     "translation": "奋斗不受批评阻",
     "stage": 5,
-    "context": "'Strive without reproach'"
+    "context": "Mottos = ['Reason is the guide of life','Firmly in act and gently in manner','Let us be viewed by our actions','Strive without reproach','The sun rises after clouds','Courage in difficulties','Plenty is caused by dilligence']"
   },
   {
     "ID": 293404759,
@@ -109,7 +109,7 @@
     "original": "Learn to endure what must be borne",
     "translation": "学会忍受必须承受的",
     "stage": 5,
-    "context": "'Learn to endure what must be borne'"
+    "context": "Mottos = ['A knife in the dark','Cutting causes growth','Always ready','The sentinel sleeps not','Arms maintain peace','Innocent as doves','Firm of purpose','Obey','By laws and arms','Learn to endure what must be borne','The wrath of the lion is noble']"
   },
   {
     "ID": 293404760,
@@ -117,7 +117,7 @@
     "original": "And we also have hurled our javelins",
     "translation": "我们厉兵秣马",
     "stage": 5,
-    "context": "'And we also have hurled our javelins'"
+    "context": "Mottos = ['He stands by his own powers','He conquers who endures','Boldly and rightly','Under this sign thou shalt conquer','He dies not whose fame survives','No steps backwards','Through arrows and enemies','Nothing resists valour and arms','Such is the way to immortality','And we also have hurled our javelins','The heron seeks high places']"
   },
   {
     "ID": 293404761,
@@ -125,7 +125,7 @@
     "original": "The wrath of the lion is noble",
     "translation": "雄狮之怒，依然高贵",
     "stage": 5,
-    "context": "'The wrath of the lion is noble'"
+    "context": "Mottos = ['A knife in the dark','Cutting causes growth','Always ready','The sentinel sleeps not','Arms maintain peace','Innocent as doves','Firm of purpose','Obey','By laws and arms','Learn to endure what must be borne','The wrath of the lion is noble']"
   },
   {
     "ID": 293404762,
@@ -133,7 +133,7 @@
     "original": "Peace is obtained by war",
     "translation": "战火铸就和平",
     "stage": 5,
-    "context": "'Peace is obtained by war'"
+    "context": "Mottos = ['Virtue is the only nobility','In defence of the distressed','Zeal and honour','Noble in anger','Cleansed by the flame','Peace is obtained by war','While we have breath we hope','Boldly and honourably','We scorn to change or to fear','Victory is in truth','Light in Darkness','One heart, one way']"
   },
   {
     "ID": 293404763,
@@ -141,7 +141,7 @@
     "original": "Most members of the house of %noblehousename% live secluded behind thick doors and barred windows and some of them have not been seen for years. Rumor has it that their noble blood is plagued with madness and insanity but no ordinary man dares to utter such claims in fear of their vengeance. Other noble houses mainly avoid contact to house %noblehousename% as guests may be greeted with open arms as well as crossbow bolts.",
     "translation": "绝大多数%noblehousename%家族的成员都隐居在厚厚的门和闩着的窗户后面，其中一些人多年来一直没有露面。有传言说他们高贵的血脉中流淌着疯狂与错乱的诅咒，但因为害怕他们的报复，平民中从来没有敢当众说出这样的话的。其他的贵族多数情况下都会避免与%noblehousename%家族进行接触，因为去他们那拜访的客人有可能会同时收到敞开的双臂与弩矢作为欢迎。",
     "stage": 5,
-    "context": "'Description' = 'Most members of the house of %noblehousename% live secluded behind thick doors and barred windows and some of them have not been seen for years. Rumor has it that their noble blood is plagued with madness and insanity but no ordinary man dares to utter such claims in fear of their vengeance. Other noble houses mainly avoid contact to house %noblehousename% as guests may be greeted with open arms as well as crossbow bolts.'"
+    "context": "Description = 'Most members of the house of %noblehousename% live secluded behind thick doors and barred windows and some of them have not been seen for years. Rumor has it that their noble blood is plagued with madness and insanity but no ordinary man dares to utter such claims in fear of their vengeance. Other noble houses mainly avoid contact to house %noblehousename% as guests may be greeted with open arms as well as crossbow bolts.'"
   },
   {
     "ID": 293404764,
@@ -149,7 +149,7 @@
     "original": "He stands by his own powers",
     "translation": "恃强自立",
     "stage": 5,
-    "context": "'He stands by his own powers'"
+    "context": "Mottos = ['He stands by his own powers','He conquers who endures','Boldly and rightly','Under this sign thou shalt conquer','He dies not whose fame survives','No steps backwards','Through arrows and enemies','Nothing resists valour and arms','Such is the way to immortality','And we also have hurled our javelins','The heron seeks high places']"
   },
   {
     "ID": 293404765,
@@ -157,7 +157,7 @@
     "original": "Wealth is sought by many, but the highly reputable traders of house %noblehousename% are the best when it comes to striking profitable bargains. Bound by ancestral ties to the renown of their forefathers they uphold honesty and integrity as their family values.",
     "translation": "许多人都追求财富，但%noblehousename%家族的诚信商人们尤其懂得生财之道。与祖辈的名望深深绑定，他们坚持将诚实和正直作为他们的家庭价值观。",
     "stage": 5,
-    "context": "'Description' = 'Wealth is sought by many, but the highly reputable traders of house %noblehousename% are the best when it comes to striking profitable bargains. Bound by ancestral ties to the renown of their forefathers they uphold honesty and integrity as their family values.'"
+    "context": "Description = 'Wealth is sought by many, but the highly reputable traders of house %noblehousename% are the best when it comes to striking profitable bargains. Bound by ancestral ties to the renown of their forefathers they uphold honesty and integrity as their family values.'"
   },
   {
     "ID": 293404766,
@@ -165,7 +165,7 @@
     "original": "Under this sign thou shalt conquer",
     "translation": "以家徽之名征服",
     "stage": 5,
-    "context": "'Under this sign thou shalt conquer'"
+    "context": "Mottos = ['He stands by his own powers','He conquers who endures','Boldly and rightly','Under this sign thou shalt conquer','He dies not whose fame survives','No steps backwards','Through arrows and enemies','Nothing resists valour and arms','Such is the way to immortality','And we also have hurled our javelins','The heron seeks high places']"
   },
   {
     "ID": 293404767,
@@ -173,7 +173,7 @@
     "original": "No steps backwards",
     "translation": "绝不后退",
     "stage": 5,
-    "context": "'No steps backwards'"
+    "context": "Mottos = ['He stands by his own powers','He conquers who endures','Boldly and rightly','Under this sign thou shalt conquer','He dies not whose fame survives','No steps backwards','Through arrows and enemies','Nothing resists valour and arms','Such is the way to immortality','And we also have hurled our javelins','The heron seeks high places']"
   },
   {
     "ID": 293404768,
@@ -181,7 +181,7 @@
     "original": "Among the first",
     "translation": "敢为天下先",
     "stage": 5,
-    "context": "'Among the first'"
+    "context": "Mottos = ['He lives twice who lives well','Wealth to him who knows how to use it','Things locked up are safe','Once and always','Gauge and measure','Safe on the waves','Each his share','With sail and oars','Among the first']"
   },
   {
     "ID": 293404769,
@@ -189,7 +189,7 @@
     "original": "Irritate not the lion",
     "translation": "不要惹怒雄狮",
     "stage": 5,
-    "context": "'Irritate not the lion'"
+    "context": "Mottos = ['Live that you may live','Friendship without deceit','Dare to be wise','The brave always show mercy','A friend to a friend','This hand is hostile to tyrants','Irritate not the lion','An oak in aged strength','With heart and hand','Always watchful','Glory to the father','Virtue under strength','Prepared in either case','Not for ourselves alone']"
   },
   {
     "ID": 293404770,
@@ -197,7 +197,7 @@
     "original": "Courage in difficulties",
     "translation": "勇于面对困难",
     "stage": 5,
-    "context": "'Courage in difficulties'"
+    "context": "Mottos = ['Reason is the guide of life','Firmly in act and gently in manner','Let us be viewed by our actions','Strive without reproach','The sun rises after clouds','Courage in difficulties','Plenty is caused by dilligence']"
   },
   {
     "ID": 293404771,
@@ -205,7 +205,7 @@
     "original": "Nothing resists valour and arms",
     "translation": "勇猛与利刃无物可挡",
     "stage": 5,
-    "context": "'Nothing resists valour and arms'"
+    "context": "Mottos = ['He stands by his own powers','He conquers who endures','Boldly and rightly','Under this sign thou shalt conquer','He dies not whose fame survives','No steps backwards','Through arrows and enemies','Nothing resists valour and arms','Such is the way to immortality','And we also have hurled our javelins','The heron seeks high places']"
   },
   {
     "ID": 293404772,
@@ -213,7 +213,7 @@
     "original": "Wealth is my arrow",
     "translation": "财富是我们的箭",
     "stage": 5,
-    "context": "'Wealth is my arrow'"
+    "context": "Mottos = ['He lives well who lives peacefully','Wealth is my arrow','Wealth is our sword','Golden towers in the distance','A gift returned','One giveth, one taketh']"
   },
   {
     "ID": 293404773,
@@ -221,7 +221,7 @@
     "original": "Virtue is the only nobility",
     "translation": "唯有美德堪称高贵",
     "stage": 5,
-    "context": "'Virtue is the only nobility'"
+    "context": "Mottos = ['Virtue is the only nobility','In defence of the distressed','Zeal and honour','Noble in anger','Cleansed by the flame','Peace is obtained by war','While we have breath we hope','Boldly and honourably','We scorn to change or to fear','Victory is in truth','Light in Darkness','One heart, one way']"
   },
   {
     "ID": 293404774,
@@ -229,7 +229,7 @@
     "original": "Victory is in truth",
     "translation": "胜利在于真理",
     "stage": 5,
-    "context": "'Victory is in truth'"
+    "context": "Mottos = ['Virtue is the only nobility','In defence of the distressed','Zeal and honour','Noble in anger','Cleansed by the flame','Peace is obtained by war','While we have breath we hope','Boldly and honourably','We scorn to change or to fear','Victory is in truth','Light in Darkness','One heart, one way']"
   },
   {
     "ID": 293404775,
@@ -237,7 +237,7 @@
     "original": "Cleansed by the flame",
     "translation": "让火焰净化一切",
     "stage": 5,
-    "context": "'Cleansed by the flame'"
+    "context": "Mottos = ['Virtue is the only nobility','In defence of the distressed','Zeal and honour','Noble in anger','Cleansed by the flame','Peace is obtained by war','While we have breath we hope','Boldly and honourably','We scorn to change or to fear','Victory is in truth','Light in Darkness','One heart, one way']"
   },
   {
     "ID": 293404776,
@@ -245,7 +245,7 @@
     "original": "Things locked up are safe",
     "translation": "锁起来的东西是安全的",
     "stage": 5,
-    "context": "'Things locked up are safe'"
+    "context": "Mottos = ['He lives twice who lives well','Wealth to him who knows how to use it','Things locked up are safe','Once and always','Gauge and measure','Safe on the waves','Each his share','With sail and oars','Among the first']"
   },
   {
     "ID": 293404777,
@@ -253,7 +253,7 @@
     "original": "By all means",
     "translation": "不择手段",
     "stage": 5,
-    "context": "'By all means'"
+    "context": "Mottos = ['A snake in the grass','From the shadows','By all means','The hawk catcheth not flies']"
   },
   {
     "ID": 293404778,
@@ -261,7 +261,7 @@
     "original": "One heart, one way",
     "translation": "齐心协力，众志成城",
     "stage": 5,
-    "context": "'One heart, one way'"
+    "context": "Mottos = ['Virtue is the only nobility','In defence of the distressed','Zeal and honour','Noble in anger','Cleansed by the flame','Peace is obtained by war','While we have breath we hope','Boldly and honourably','We scorn to change or to fear','Victory is in truth','Light in Darkness','One heart, one way']"
   },
   {
     "ID": 293404779,
@@ -269,7 +269,7 @@
     "original": "Disdained for their ruthlessness, brutality and greed, house %noblehousename% has little interaction with other noble families. Their captains and soldiers are known for raiding trade caravans, outlying farms and small settlements from their fortress of %factionfortressname%. A life is not worth much in the realm of house %noblehousename% and many a mercenary on the look for a quick coin only found a quick end here.",
     "translation": "因其残忍、暴虐和贪婪而备受鄙视，%noblehousename%家族很少与其他贵族家族交往。他们的将领和士兵以在他们的堡垒%factionfortressname%邻近袭击贸易商队、边远农场和小定居点而闻名。在%noblehousename%家族的领地上人命一文不值，许多为了赚快钱的雇佣兵在这里只能获得快速的死亡。",
     "stage": 5,
-    "context": "'Description' = 'Disdained for their ruthlessness, brutality and greed, house %noblehousename% has little interaction with other noble families. Their captains and soldiers are known for raiding trade caravans, outlying farms and small settlements from their fortress of %factionfortressname%. A life is not worth much in the realm of house %noblehousename% and many a mercenary on the look for a quick coin only found a quick end here.'"
+    "context": "Description = 'Disdained for their ruthlessness, brutality and greed, house %noblehousename% has little interaction with other noble families. Their captains and soldiers are known for raiding trade caravans, outlying farms and small settlements from their fortress of %factionfortressname%. A life is not worth much in the realm of house %noblehousename% and many a mercenary on the look for a quick coin only found a quick end here.'"
   },
   {
     "ID": 293404780,
@@ -277,7 +277,7 @@
     "original": "He dies not whose fame survives",
     "translation": "人死声名留",
     "stage": 5,
-    "context": "'He dies not whose fame survives'"
+    "context": "Mottos = ['He stands by his own powers','He conquers who endures','Boldly and rightly','Under this sign thou shalt conquer','He dies not whose fame survives','No steps backwards','Through arrows and enemies','Nothing resists valour and arms','Such is the way to immortality','And we also have hurled our javelins','The heron seeks high places']"
   },
   {
     "ID": 293404781,
@@ -285,7 +285,7 @@
     "original": "The eagle catches not flies",
     "translation": "鹰不捉蝇",
     "stage": 5,
-    "context": "'The eagle catches not flies'"
+    "context": "Mottos = ['Whatever grows perishes in ashes','We trample it under our feet','For me and for mine','The eagle catches not flies','Deeds not words','The gods feed the ravens','Always thirsty','Sons of hounds come here and get flesh','Not without booty']"
   },
   {
     "ID": 293404782,
@@ -293,7 +293,7 @@
     "original": "Firmly in act and gently in manner",
     "translation": "行动坚决，举止文雅",
     "stage": 5,
-    "context": "'Firmly in act and gently in manner'"
+    "context": "Mottos = ['Reason is the guide of life','Firmly in act and gently in manner','Let us be viewed by our actions','Strive without reproach','The sun rises after clouds','Courage in difficulties','Plenty is caused by dilligence']"
   },
   {
     "ID": 293404783,
@@ -301,7 +301,7 @@
     "original": "The house of %noblehousename% is well known for its lavish lifestyle and bacchanal festivities. The price has to be paid by someone, so half-starved cattle, empty granaries and desperate townsfolk are a common sight where house %noblehousename% rules. Although other noble houses may look down on such brutality and depletion they are at the same time desperately awaiting their invitation to the next feast.",
     "translation": "%noblehousename%以其奢华的生活方式和纵情享乐的派对而闻名。如此盛宴总得有人来为其买单，所以饿到半死不活的耕牛、空空荡荡的粮仓和绝望的镇民在%noblehousename%的治下是再正常不过的现象。尽管其他贵族都看不起这种残暴和奢侈无度，但他们同时也在渴望着被邀请参加下一次盛宴。",
     "stage": 5,
-    "context": "'Description' = 'The house of %noblehousename% is well known for its lavish lifestyle and bacchanal festivities. The price has to be paid by someone, so half-starved cattle, empty granaries and desperate townsfolk are a common sight where house %noblehousename% rules. Although other noble houses may look down on such brutality and depletion they are at the same time desperately awaiting their invitation to the next feast.'"
+    "context": "Description = 'The house of %noblehousename% is well known for its lavish lifestyle and bacchanal festivities. The price has to be paid by someone, so half-starved cattle, empty granaries and desperate townsfolk are a common sight where house %noblehousename% rules. Although other noble houses may look down on such brutality and depletion they are at the same time desperately awaiting their invitation to the next feast.'"
   },
   {
     "ID": 293404784,
@@ -309,7 +309,7 @@
     "original": "Each his share",
     "translation": "各占其份",
     "stage": 5,
-    "context": "'Each his share'"
+    "context": "Mottos = ['He lives twice who lives well','Wealth to him who knows how to use it','Things locked up are safe','Once and always','Gauge and measure','Safe on the waves','Each his share','With sail and oars','Among the first']"
   },
   {
     "ID": 293404785,
@@ -317,7 +317,7 @@
     "original": "While we have breath we hope",
     "translation": "希望永存",
     "stage": 5,
-    "context": "'While we have breath we hope'"
+    "context": "Mottos = ['Virtue is the only nobility','In defence of the distressed','Zeal and honour','Noble in anger','Cleansed by the flame','Peace is obtained by war','While we have breath we hope','Boldly and honourably','We scorn to change or to fear','Victory is in truth','Light in Darkness','One heart, one way']"
   },
   {
     "ID": 293404786,
@@ -325,7 +325,7 @@
     "original": "A snake in the grass",
     "translation": "草丛中的蛇",
     "stage": 5,
-    "context": "'A snake in the grass'"
+    "context": "Mottos = ['A snake in the grass','From the shadows','By all means','The hawk catcheth not flies']"
   },
   {
     "ID": 293404787,
@@ -333,7 +333,7 @@
     "original": "From the shadows",
     "translation": "来自阴影",
     "stage": 5,
-    "context": "'From the shadows'"
+    "context": "Mottos = ['A snake in the grass','From the shadows','By all means','The hawk catcheth not flies']"
   },
   {
     "ID": 293404788,
@@ -341,7 +341,7 @@
     "original": "A gift returned",
     "translation": "礼物须有回赠",
     "stage": 5,
-    "context": "'A gift returned'"
+    "context": "Mottos = ['He lives well who lives peacefully','Wealth is my arrow','Wealth is our sword','Golden towers in the distance','A gift returned','One giveth, one taketh']"
   },
   {
     "ID": 293404789,
@@ -349,7 +349,7 @@
     "original": "Boldly and rightly",
     "translation": "凶暴勇猛，理直气壮",
     "stage": 5,
-    "context": "'Boldly and rightly'"
+    "context": "Mottos = ['He stands by his own powers','He conquers who endures','Boldly and rightly','Under this sign thou shalt conquer','He dies not whose fame survives','No steps backwards','Through arrows and enemies','Nothing resists valour and arms','Such is the way to immortality','And we also have hurled our javelins','The heron seeks high places']"
   },
   {
     "ID": 293404790,
@@ -357,7 +357,7 @@
     "original": "A friend to a friend",
     "translation": "予我以爱，必还之以花",
     "stage": 5,
-    "context": "'A friend to a friend'"
+    "context": "Mottos = ['Live that you may live','Friendship without deceit','Dare to be wise','The brave always show mercy','A friend to a friend','This hand is hostile to tyrants','Irritate not the lion','An oak in aged strength','With heart and hand','Always watchful','Glory to the father','Virtue under strength','Prepared in either case','Not for ourselves alone']"
   },
   {
     "ID": 293404791,
@@ -365,7 +365,7 @@
     "original": "We trample it under our feet",
     "translation": "我们把它践踏在脚下",
     "stage": 5,
-    "context": "'We trample it under our feet'"
+    "context": "Mottos = ['Whatever grows perishes in ashes','We trample it under our feet','For me and for mine','The eagle catches not flies','Deeds not words','The gods feed the ravens','Always thirsty','Sons of hounds come here and get flesh','Not without booty']"
   },
   {
     "ID": 293404792,
@@ -373,7 +373,7 @@
     "original": "We neither despise nor fear",
     "translation": "我们不蔑视他人，我们亦无所畏惧",
     "stage": 5,
-    "context": "'We neither despise nor fear'"
+    "context": "Mottos = ['Nothing in life is permanent','Consider the end','We neither despise nor fear','Judge not','All things change','Every man for himself','All things are thus unstable','Beware the wolf']"
   },
   {
     "ID": 293404793,
@@ -381,7 +381,7 @@
     "original": "Fortune favours the bold",
     "translation": "天佑勇者",
     "stage": 5,
-    "context": "'Fortune favours the bold'"
+    "context": "Mottos = ['To live without a wish concealed','Fortune favours the bold','The world does not suffice','Separate the honest from the useful','Our harvest will also arrive','I gain by hazard']"
   },
   {
     "ID": 293404794,
@@ -389,7 +389,7 @@
     "original": "Our harvest will also arrive",
     "translation": "我们的收获也会到来",
     "stage": 5,
-    "context": "'Our harvest will also arrive'"
+    "context": "Mottos = ['To live without a wish concealed','Fortune favours the bold','The world does not suffice','Separate the honest from the useful','Our harvest will also arrive','I gain by hazard']"
   },
   {
     "ID": 293404795,
@@ -397,7 +397,7 @@
     "original": "Always ready",
     "translation": "整装待发",
     "stage": 5,
-    "context": "'Always ready'"
+    "context": "Mottos = ['A knife in the dark','Cutting causes growth','Always ready','The sentinel sleeps not','Arms maintain peace','Innocent as doves','Firm of purpose','Obey','By laws and arms','Learn to endure what must be borne','The wrath of the lion is noble']"
   },
   {
     "ID": 293404796,
@@ -405,7 +405,7 @@
     "original": "Firm of purpose",
     "translation": "目标坚定",
     "stage": 5,
-    "context": "'Firm of purpose'"
+    "context": "Mottos = ['A knife in the dark','Cutting causes growth','Always ready','The sentinel sleeps not','Arms maintain peace','Innocent as doves','Firm of purpose','Obey','By laws and arms','Learn to endure what must be borne','The wrath of the lion is noble']"
   },
   {
     "ID": 293404797,
@@ -413,7 +413,7 @@
     "original": "Let us be viewed by our actions",
     "translation": "让我们用行动说话",
     "stage": 5,
-    "context": "'Let us be viewed by our actions'"
+    "context": "Mottos = ['Reason is the guide of life','Firmly in act and gently in manner','Let us be viewed by our actions','Strive without reproach','The sun rises after clouds','Courage in difficulties','Plenty is caused by dilligence']"
   },
   {
     "ID": 293404798,
@@ -421,7 +421,7 @@
     "original": "He conquers who endures",
     "translation": "征服忍耐者",
     "stage": 5,
-    "context": "'He conquers who endures'"
+    "context": "Mottos = ['He stands by his own powers','He conquers who endures','Boldly and rightly','Under this sign thou shalt conquer','He dies not whose fame survives','No steps backwards','Through arrows and enemies','Nothing resists valour and arms','Such is the way to immortality','And we also have hurled our javelins','The heron seeks high places']"
   },
   {
     "ID": 293404799,
@@ -429,7 +429,7 @@
     "original": "Cutting causes growth",
     "translation": "旧的不去，新的不来",
     "stage": 5,
-    "context": "'Cutting causes growth'"
+    "context": "Mottos = ['A knife in the dark','Cutting causes growth','Always ready','The sentinel sleeps not','Arms maintain peace','Innocent as doves','Firm of purpose','Obey','By laws and arms','Learn to endure what must be borne','The wrath of the lion is noble']"
   },
   {
     "ID": 293404800,
@@ -437,7 +437,7 @@
     "original": "I gain by hazard",
     "translation": "危难为我带来财富",
     "stage": 5,
-    "context": "'I gain by hazard'"
+    "context": "Mottos = ['To live without a wish concealed','Fortune favours the bold','The world does not suffice','Separate the honest from the useful','Our harvest will also arrive','I gain by hazard']"
   },
   {
     "ID": 293404801,
@@ -445,7 +445,7 @@
     "original": "House %noblehousename% claims to have roots in the time when man first claimed this land, and the first king ruled all men. They are but one of many noble houses now, but proud of their long history and with ambitions to continue writing history. As their renown and their resources dwindle in the now, they are said to finance expeditions in an attempt to unearth long lost treasures from the past, in sunken cities and places long forgotten.",
     "translation": "%noblehousename%家族宣称他们的渊源可以追溯到当人类首次宣称这片土地，以及第一位国王统治所有人的时代。尽管他们现在只是众多贵族家族之一，但他们引以为傲的悠久历史和不断书写历史的雄心壮志在如今仍旧存在。随着其声名和资源的日渐衰弱，据说他们正在资助各种探险活动，试图在沉没的城市和早已被遗忘的地方发掘失落已久的宝藏。",
     "stage": 5,
-    "context": "'Description' = 'House %noblehousename% claims to have roots in the time when man first claimed this land, and the first king ruled all men. They are but one of many noble houses now, but proud of their long history and with ambitions to continue writing history. As their renown and their resources dwindle in the now, they are said to finance expeditions in an attempt to unearth long lost treasures from the past, in sunken cities and places long forgotten.'"
+    "context": "Description = 'House %noblehousename% claims to have roots in the time when man first claimed this land, and the first king ruled all men. They are but one of many noble houses now, but proud of their long history and with ambitions to continue writing history. As their renown and their resources dwindle in the now, they are said to finance expeditions in an attempt to unearth long lost treasures from the past, in sunken cities and places long forgotten.'"
   },
   {
     "ID": 293404802,
@@ -453,7 +453,7 @@
     "original": "Live that you may live",
     "translation": "为了更好地活着而活着",
     "stage": 5,
-    "context": "'Live that you may live'"
+    "context": "Mottos = ['Live that you may live','Friendship without deceit','Dare to be wise','The brave always show mercy','A friend to a friend','This hand is hostile to tyrants','Irritate not the lion','An oak in aged strength','With heart and hand','Always watchful','Glory to the father','Virtue under strength','Prepared in either case','Not for ourselves alone']"
   },
   {
     "ID": 293404803,
@@ -461,7 +461,7 @@
     "original": "For me and for mine",
     "translation": "为了我和我的人",
     "stage": 5,
-    "context": "'For me and for mine'"
+    "context": "Mottos = ['Whatever grows perishes in ashes','We trample it under our feet','For me and for mine','The eagle catches not flies','Deeds not words','The gods feed the ravens','Always thirsty','Sons of hounds come here and get flesh','Not without booty']"
   },
   {
     "ID": 293404804,
@@ -469,7 +469,7 @@
     "original": "Whatever grows perishes in ashes",
     "translation": "万物终归于灰烬",
     "stage": 5,
-    "context": "'Whatever grows perishes in ashes'"
+    "context": "Mottos = ['Whatever grows perishes in ashes','We trample it under our feet','For me and for mine','The eagle catches not flies','Deeds not words','The gods feed the ravens','Always thirsty','Sons of hounds come here and get flesh','Not without booty']"
   },
   {
     "ID": 293404805,
@@ -477,7 +477,7 @@
     "original": "The house of %noblehousename% holds high the principles of justice and honor, and without irrational rulings their region has prospered. Their reputation may be peaceful, but %noblehousename% knights are battle-hardened and their troops will ferociously fight anyone threatening their realm, subordinates or principles. Many nobles envy their wealth and ridicule their principles; house %othernoblehouse% especially holds a more or less overt grudge against those of %noblehousename%.",
     "translation": "%noblehousename%家族秉持着公正和荣誉的高尚原则，毫无不合理的统治，他们的领地繁荣昌盛。虽然他们的声誉是温和的，但%noblehousename%的骑士久经沙场，他们的军队会凶猛打击任何威胁他们领土、手下和原则的人。许多贵族羡慕他们的财富、嘲笑他们的原则；%othernoblehouse%家族尤其对%noblehousename%家族持着或多或少的公开怨恨。",
     "stage": 5,
-    "context": "'Description' = 'The house of %noblehousename% holds high the principles of justice and honor, and without irrational rulings their region has prospered. Their reputation may be peaceful, but %noblehousename% knights are battle-hardened and their troops will ferociously fight anyone threatening their realm, subordinates or principles. Many nobles envy their wealth and ridicule their principles; house %othernoblehouse% especially holds a more or less overt grudge against those of %noblehousename%.'"
+    "context": "Description = 'The house of %noblehousename% holds high the principles of justice and honor, and without irrational rulings their region has prospered. Their reputation may be peaceful, but %noblehousename% knights are battle-hardened and their troops will ferociously fight anyone threatening their realm, subordinates or principles. Many nobles envy their wealth and ridicule their principles; house %othernoblehouse% especially holds a more or less overt grudge against those of %noblehousename%.'"
   },
   {
     "ID": 293404806,
@@ -485,7 +485,7 @@
     "original": "A city state dedicated to acquiring knowledge above all - even if it comes at the cost of doing autopsies, reading forbidden tomes or engaging with sinister powers not of this world.",
     "translation": "一个首要致力于获取知识的城邦 —— 即使这意味着要进行尸检、阅读禁书，或者与不属于这个世界的邪恶势力接触。",
     "stage": 5,
-    "context": "'Description' = 'A city state dedicated to acquiring knowledge above all - even if it comes at the cost of doing autopsies, reading forbidden tomes or engaging with sinister powers not of this world.'"
+    "context": "Description = 'A city state dedicated to acquiring knowledge above all - even if it comes at the cost of doing autopsies, reading forbidden tomes or engaging with sinister powers not of this world.'"
   },
   {
     "ID": 293404807,
@@ -493,7 +493,7 @@
     "original": "The noble house of %noblehousename% is a proud and unrelenting family with a long and bloodstained history of conquest. Seated in their fortress of %factionfortressname%, they take with arms what they consider theirs by right. An ancestral feud with house %othernoblehouse% provides never ending reasons to keep both hate in the hearts and ore smelters burning.",
     "translation": "%noblehousename%家族是一支自豪而不屈的家族，有着悠久而血腥的征服家史。他们坐镇在自己%factionfortressname%的城堡中，用武力夺取自认为拥有的东西。他们与%othernoblehouse%家族之间的世仇使得两家人心头的怒火与冶炼的炉火从未熄灭。",
     "stage": 5,
-    "context": "'Description' = 'The noble house of %noblehousename% is a proud and unrelenting family with a long and bloodstained history of conquest. Seated in their fortress of %factionfortressname%, they take with arms what they consider theirs by right. An ancestral feud with house %othernoblehouse% provides never ending reasons to keep both hate in the hearts and ore smelters burning.'"
+    "context": "Description = 'The noble house of %noblehousename% is a proud and unrelenting family with a long and bloodstained history of conquest. Seated in their fortress of %factionfortressname%, they take with arms what they consider theirs by right. An ancestral feud with house %othernoblehouse% provides never ending reasons to keep both hate in the hearts and ore smelters burning.'"
   },
   {
     "ID": 293404808,
@@ -501,7 +501,7 @@
     "original": "The brave always show mercy",
     "translation": "勇者仁心",
     "stage": 5,
-    "context": "'The brave always show mercy'"
+    "context": "Mottos = ['Live that you may live','Friendship without deceit','Dare to be wise','The brave always show mercy','A friend to a friend','This hand is hostile to tyrants','Irritate not the lion','An oak in aged strength','With heart and hand','Always watchful','Glory to the father','Virtue under strength','Prepared in either case','Not for ourselves alone']"
   },
   {
     "ID": 293404809,
@@ -509,7 +509,7 @@
     "original": "The sun rises after clouds",
     "translation": "乌云之后有晴天",
     "stage": 5,
-    "context": "'The sun rises after clouds'"
+    "context": "Mottos = ['Reason is the guide of life','Firmly in act and gently in manner','Let us be viewed by our actions','Strive without reproach','The sun rises after clouds','Courage in difficulties','Plenty is caused by dilligence']"
   },
   {
     "ID": 293404810,
@@ -517,7 +517,7 @@
     "original": "Arms maintain peace",
     "translation": "武力维系和平",
     "stage": 5,
-    "context": "'Arms maintain peace'"
+    "context": "Mottos = ['A knife in the dark','Cutting causes growth','Always ready','The sentinel sleeps not','Arms maintain peace','Innocent as doves','Firm of purpose','Obey','By laws and arms','Learn to endure what must be borne','The wrath of the lion is noble']"
   },
   {
     "ID": 293404811,
@@ -525,7 +525,7 @@
     "original": "Prepared in either case",
     "translation": "时刻做好准备",
     "stage": 5,
-    "context": "'Prepared in either case'"
+    "context": "Mottos = ['Live that you may live','Friendship without deceit','Dare to be wise','The brave always show mercy','A friend to a friend','This hand is hostile to tyrants','Irritate not the lion','An oak in aged strength','With heart and hand','Always watchful','Glory to the father','Virtue under strength','Prepared in either case','Not for ourselves alone']"
   },
   {
     "ID": 293404812,
@@ -533,7 +533,7 @@
     "original": "Once and always",
     "translation": "一次即永恒",
     "stage": 5,
-    "context": "'Once and always'"
+    "context": "Mottos = ['He lives twice who lives well','Wealth to him who knows how to use it','Things locked up are safe','Once and always','Gauge and measure','Safe on the waves','Each his share','With sail and oars','Among the first']"
   },
   {
     "ID": 293404813,
@@ -541,7 +541,7 @@
     "original": "Such is the way to immortality",
     "translation": "这是通往不朽的道路",
     "stage": 5,
-    "context": "'Such is the way to immortality'"
+    "context": "Mottos = ['He stands by his own powers','He conquers who endures','Boldly and rightly','Under this sign thou shalt conquer','He dies not whose fame survives','No steps backwards','Through arrows and enemies','Nothing resists valour and arms','Such is the way to immortality','And we also have hurled our javelins','The heron seeks high places']"
   },
   {
     "ID": 293404814,
@@ -549,7 +549,7 @@
     "original": "Noble in anger",
     "translation": "愤怒中心存高贵",
     "stage": 5,
-    "context": "'Noble in anger'"
+    "context": "Mottos = ['Virtue is the only nobility','In defence of the distressed','Zeal and honour','Noble in anger','Cleansed by the flame','Peace is obtained by war','While we have breath we hope','Boldly and honourably','We scorn to change or to fear','Victory is in truth','Light in Darkness','One heart, one way']"
   },
   {
     "ID": 293404815,
@@ -557,7 +557,7 @@
     "original": "Trading and haggling can be just as fierce as fighting a war, and the house of %noblehousename% is a true master of cunning bargains. Rumor has it that many a profitable deal made by house %noblehousename% is not only based on honest trading but also bribery, extortion and deception. The family resides in the pompous region capitol of %factionfortressname%, but despite their unmeasurable riches they are known to be notoriously close-fisted.",
     "translation": "俗话说商场如战场，而%noblehousename% 家族正是对讨价还价、锱铢必较的狡诈商法登峰造极的大师。据传言称，%noblehousename%所进行的许多利润丰厚的交易都不仅基于诚实的贸易，还包括贿赂、敲诈和欺骗。这个家族居住在%factionfortressname%华丽的地区首府中，尽管他们的财富不可估量，但他们的小气抠门也同样是出了名的。",
     "stage": 5,
-    "context": "'Description' = 'Trading and haggling can be just as fierce as fighting a war, and the house of %noblehousename% is a true master of cunning bargains. Rumor has it that many a profitable deal made by house %noblehousename% is not only based on honest trading but also bribery, extortion and deception. The family resides in the pompous region capitol of %factionfortressname%, but despite their unmeasurable riches they are known to be notoriously close-fisted.'"
+    "context": "Description = 'Trading and haggling can be just as fierce as fighting a war, and the house of %noblehousename% is a true master of cunning bargains. Rumor has it that many a profitable deal made by house %noblehousename% is not only based on honest trading but also bribery, extortion and deception. The family resides in the pompous region capitol of %factionfortressname%, but despite their unmeasurable riches they are known to be notoriously close-fisted.'"
   },
   {
     "ID": 293404816,
@@ -565,7 +565,7 @@
     "original": "Deeds not words",
     "translation": "行动胜于空谈",
     "stage": 5,
-    "context": "'Deeds not words'"
+    "context": "Mottos = ['Whatever grows perishes in ashes','We trample it under our feet','For me and for mine','The eagle catches not flies','Deeds not words','The gods feed the ravens','Always thirsty','Sons of hounds come here and get flesh','Not without booty']"
   },
   {
     "ID": 293404817,
@@ -573,7 +573,7 @@
     "original": "With good right",
     "translation": "凭良心而行",
     "stage": 5,
-    "context": "'With good right'"
+    "context": "Mottos = ['Unconquered','Cruel rumor, be still','I soar','With good right','I despise','Sheep, ye bear the wool','Spare not','Profit is gained by danger','Remember that thou must die']"
   },
   {
     "ID": 293404818,
@@ -581,7 +581,7 @@
     "original": "The world does not suffice",
     "translation": "世界难以满足",
     "stage": 5,
-    "context": "'The world does not suffice'"
+    "context": "Mottos = ['To live without a wish concealed','Fortune favours the bold','The world does not suffice','Separate the honest from the useful','Our harvest will also arrive','I gain by hazard']"
   },
   {
     "ID": 293404819,
@@ -589,7 +589,7 @@
     "original": "The heron seeks high places",
     "translation": "苍鹭生而只为身居高位",
     "stage": 5,
-    "context": "'The heron seeks high places'"
+    "context": "Mottos = ['He stands by his own powers','He conquers who endures','Boldly and rightly','Under this sign thou shalt conquer','He dies not whose fame survives','No steps backwards','Through arrows and enemies','Nothing resists valour and arms','Such is the way to immortality','And we also have hurled our javelins','The heron seeks high places']"
   },
   {
     "ID": 293404820,
@@ -597,7 +597,7 @@
     "original": "Innocent as doves",
     "translation": "清白如鸽",
     "stage": 5,
-    "context": "'Innocent as doves'"
+    "context": "Mottos = ['A knife in the dark','Cutting causes growth','Always ready','The sentinel sleeps not','Arms maintain peace','Innocent as doves','Firm of purpose','Obey','By laws and arms','Learn to endure what must be borne','The wrath of the lion is noble']"
   },
   {
     "ID": 293404821,
@@ -605,7 +605,7 @@
     "original": "Every man for himself",
     "translation": "各为其自",
     "stage": 5,
-    "context": "'Every man for himself'"
+    "context": "Mottos = ['Nothing in life is permanent','Consider the end','We neither despise nor fear','Judge not','All things change','Every man for himself','All things are thus unstable','Beware the wolf']"
   },
   {
     "ID": 293404822,
@@ -613,7 +613,7 @@
     "original": "The castle of wisdom",
     "translation": "智慧城堡",
     "stage": 5,
-    "context": "'The castle of wisdom'"
+    "context": "Mottos = ['Dare to be wise','Wisdom the conqueror of fortune','Read and learn','The castle of wisdom','Knowledge at last']"
   },
   {
     "ID": 293404823,
@@ -621,7 +621,7 @@
     "original": "Spare not",
     "translation": "毫不手软",
     "stage": 5,
-    "context": "'Spare not'"
+    "context": "Mottos = ['Unconquered','Cruel rumor, be still','I soar','With good right','I despise','Sheep, ye bear the wool','Spare not','Profit is gained by danger','Remember that thou must die']"
   },
   {
     "ID": 293404824,
@@ -629,7 +629,7 @@
     "original": "The gods feed the ravens",
     "translation": "诸神喂食乌鸦",
     "stage": 5,
-    "context": "'The gods feed the ravens'"
+    "context": "Mottos = ['Whatever grows perishes in ashes','We trample it under our feet','For me and for mine','The eagle catches not flies','Deeds not words','The gods feed the ravens','Always thirsty','Sons of hounds come here and get flesh','Not without booty']"
   },
   {
     "ID": 293404825,
@@ -637,7 +637,7 @@
     "original": "Separate the honest from the useful",
     "translation": "分辨诚实与有用",
     "stage": 5,
-    "context": "'Separate the honest from the useful'"
+    "context": "Mottos = ['To live without a wish concealed','Fortune favours the bold','The world does not suffice','Separate the honest from the useful','Our harvest will also arrive','I gain by hazard']"
   },
   {
     "ID": 293404826,
@@ -645,7 +645,7 @@
     "original": "Safe on the waves",
     "translation": "狂涛巨浪，能奈我何",
     "stage": 5,
-    "context": "'Safe on the waves'"
+    "context": "Mottos = ['He lives twice who lives well','Wealth to him who knows how to use it','Things locked up are safe','Once and always','Gauge and measure','Safe on the waves','Each his share','With sail and oars','Among the first']"
   },
   {
     "ID": 293404827,
@@ -653,7 +653,7 @@
     "original": "Obey",
     "translation": "服从",
     "stage": 5,
-    "context": "'Obey'"
+    "context": "Mottos = ['A knife in the dark','Cutting causes growth','Always ready','The sentinel sleeps not','Arms maintain peace','Innocent as doves','Firm of purpose','Obey','By laws and arms','Learn to endure what must be borne','The wrath of the lion is noble']"
   },
   {
     "ID": 293404828,
@@ -661,7 +661,7 @@
     "original": "Beware the wolf",
     "translation": "保持警觉",
     "stage": 5,
-    "context": "'Beware the wolf'"
+    "context": "Mottos = ['Nothing in life is permanent','Consider the end','We neither despise nor fear','Judge not','All things change','Every man for himself','All things are thus unstable','Beware the wolf']"
   },
   {
     "ID": 293404829,
@@ -669,7 +669,7 @@
     "original": "Gauge and measure",
     "translation": "审慎与衡量",
     "stage": 5,
-    "context": "'Gauge and measure'"
+    "context": "Mottos = ['He lives twice who lives well','Wealth to him who knows how to use it','Things locked up are safe','Once and always','Gauge and measure','Safe on the waves','Each his share','With sail and oars','Among the first']"
   },
   {
     "ID": 293404830,
@@ -677,7 +677,7 @@
     "original": "A knife in the dark",
     "translation": "暗中之刃",
     "stage": 5,
-    "context": "'A knife in the dark'"
+    "context": "Mottos = ['A knife in the dark','Cutting causes growth','Always ready','The sentinel sleeps not','Arms maintain peace','Innocent as doves','Firm of purpose','Obey','By laws and arms','Learn to endure what must be borne','The wrath of the lion is noble']"
   },
   {
     "ID": 293404831,
@@ -685,7 +685,7 @@
     "original": "Unconquered",
     "translation": "不可征服",
     "stage": 5,
-    "context": "'Unconquered'"
+    "context": "Mottos = ['Unconquered','Cruel rumor, be still','I soar','With good right','I despise','Sheep, ye bear the wool','Spare not','Profit is gained by danger','Remember that thou must die']"
   },
   {
     "ID": 293404832,
@@ -693,7 +693,7 @@
     "original": "To live without a wish concealed",
     "translation": "不留私心",
     "stage": 5,
-    "context": "'To live without a wish concealed'"
+    "context": "Mottos = ['To live without a wish concealed','Fortune favours the bold','The world does not suffice','Separate the honest from the useful','Our harvest will also arrive','I gain by hazard']"
   },
   {
     "ID": 293404833,
@@ -701,7 +701,7 @@
     "original": "With sail and oars",
     "translation": "风帆与船桨",
     "stage": 5,
-    "context": "'With sail and oars'"
+    "context": "Mottos = ['He lives twice who lives well','Wealth to him who knows how to use it','Things locked up are safe','Once and always','Gauge and measure','Safe on the waves','Each his share','With sail and oars','Among the first']"
   },
   {
     "ID": 293404834,
@@ -709,7 +709,7 @@
     "original": "Profit is gained by danger",
     "translation": "富贵险中求",
     "stage": 5,
-    "context": "'Profit is gained by danger'"
+    "context": "Mottos = ['Unconquered','Cruel rumor, be still','I soar','With good right','I despise','Sheep, ye bear the wool','Spare not','Profit is gained by danger','Remember that thou must die']"
   },
   {
     "ID": 293404835,
@@ -717,7 +717,7 @@
     "original": "The house of %noblehousename% revolves around a religious cult that teaches compassion towards their own but turned them zealous and unforgiving towards their foes. Generations ago, a large orc invasion pillaged and destroyed most of what belonged to the family, and it never fully recovered. Since then, the house started many a crusade and punitive expedition deep into orc lands but never managed to drive the greenskins off for good.",
     "translation": "%noblehousename%家族以一个宗教团体为中心成立，教导他们对自己的同胞施以同情和关怀、面对敌人时狂热且无情。几代人以前，一次大规模的兽人入侵摧毁了家族的大部分家业，造成了直至今日仍未恢复的损失。从那时起，%noblehousename%家族开始了许多次圣战和惩罚性的远征，深入兽人的领土，但从未成功将这些绿皮真正一劳永逸地抹除。",
     "stage": 5,
-    "context": "'Description' = 'The house of %noblehousename% revolves around a religious cult that teaches compassion towards their own but turned them zealous and unforgiving towards their foes. Generations ago, a large orc invasion pillaged and destroyed most of what belonged to the family, and it never fully recovered. Since then, the house started many a crusade and punitive expedition deep into orc lands but never managed to drive the greenskins off for good.'"
+    "context": "Description = 'The house of %noblehousename% revolves around a religious cult that teaches compassion towards their own but turned them zealous and unforgiving towards their foes. Generations ago, a large orc invasion pillaged and destroyed most of what belonged to the family, and it never fully recovered. Since then, the house started many a crusade and punitive expedition deep into orc lands but never managed to drive the greenskins off for good.'"
   },
   {
     "ID": 293404836,
@@ -725,7 +725,7 @@
     "original": "Through arrows and enemies",
     "translation": "穿破箭雨，突破敌军",
     "stage": 5,
-    "context": "'Through arrows and enemies'"
+    "context": "Mottos = ['He stands by his own powers','He conquers who endures','Boldly and rightly','Under this sign thou shalt conquer','He dies not whose fame survives','No steps backwards','Through arrows and enemies','Nothing resists valour and arms','Such is the way to immortality','And we also have hurled our javelins','The heron seeks high places']"
   },
   {
     "ID": 293404837,
@@ -733,7 +733,7 @@
     "original": "Wealth to him who knows how to use it",
     "translation": "财富属于懂得利用它的人",
     "stage": 5,
-    "context": "'Wealth to him who knows how to use it'"
+    "context": "Mottos = ['He lives twice who lives well','Wealth to him who knows how to use it','Things locked up are safe','Once and always','Gauge and measure','Safe on the waves','Each his share','With sail and oars','Among the first']"
   },
   {
     "ID": 293404838,
@@ -741,7 +741,7 @@
     "original": "The hawk catcheth not flies",
     "translation": "鹰不捉蝇",
     "stage": 5,
-    "context": "'The hawk catcheth not flies'"
+    "context": "Mottos = ['A snake in the grass','From the shadows','By all means','The hawk catcheth not flies']"
   },
   {
     "ID": 293404839,
@@ -749,7 +749,7 @@
     "original": "Plenty is caused by dilligence",
     "translation": "勤奋乃富足之本",
     "stage": 5,
-    "context": "'Plenty is caused by dilligence'"
+    "context": "Mottos = ['Reason is the guide of life','Firmly in act and gently in manner','Let us be viewed by our actions','Strive without reproach','The sun rises after clouds','Courage in difficulties','Plenty is caused by dilligence']"
   },
   {
     "ID": 293404840,
@@ -757,7 +757,7 @@
     "original": "Wisdom the conqueror of fortune",
     "translation": "智慧征服命运",
     "stage": 5,
-    "context": "'Wisdom the conqueror of fortune'"
+    "context": "Mottos = ['Dare to be wise','Wisdom the conqueror of fortune','Read and learn','The castle of wisdom','Knowledge at last']"
   },
   {
     "ID": 293404841,
@@ -765,7 +765,7 @@
     "original": "Sheep, ye bear the wool",
     "translation": "羊啊，你们只会长毛",
     "stage": 5,
-    "context": "'Sheep, ye bear the wool'"
+    "context": "Mottos = ['Unconquered','Cruel rumor, be still','I soar','With good right','I despise','Sheep, ye bear the wool','Spare not','Profit is gained by danger','Remember that thou must die']"
   },
   {
     "ID": 293404842,
@@ -773,7 +773,7 @@
     "original": "I soar",
     "translation": "一飞冲天",
     "stage": 5,
-    "context": "'I soar'"
+    "context": "Mottos = ['Unconquered','Cruel rumor, be still','I soar','With good right','I despise','Sheep, ye bear the wool','Spare not','Profit is gained by danger','Remember that thou must die']"
   },
   {
     "ID": 293404843,
@@ -781,7 +781,7 @@
     "original": "Glory to the father",
     "translation": "荣耀归于父辈",
     "stage": 5,
-    "context": "'Glory to the father'"
+    "context": "Mottos = ['Live that you may live','Friendship without deceit','Dare to be wise','The brave always show mercy','A friend to a friend','This hand is hostile to tyrants','Irritate not the lion','An oak in aged strength','With heart and hand','Always watchful','Glory to the father','Virtue under strength','Prepared in either case','Not for ourselves alone']"
   },
   {
     "ID": 293404844,
@@ -789,7 +789,7 @@
     "original": "Not for ourselves alone",
     "translation": "兼济天下",
     "stage": 5,
-    "context": "'Not for ourselves alone'"
+    "context": "Mottos = ['Live that you may live','Friendship without deceit','Dare to be wise','The brave always show mercy','A friend to a friend','This hand is hostile to tyrants','Irritate not the lion','An oak in aged strength','With heart and hand','Always watchful','Glory to the father','Virtue under strength','Prepared in either case','Not for ourselves alone']"
   },
   {
     "ID": 293404845,
@@ -797,7 +797,7 @@
     "original": "This hand is hostile to tyrants",
     "translation": "此掌为暴君之敌",
     "stage": 5,
-    "context": "'This hand is hostile to tyrants'"
+    "context": "Mottos = ['Live that you may live','Friendship without deceit','Dare to be wise','The brave always show mercy','A friend to a friend','This hand is hostile to tyrants','Irritate not the lion','An oak in aged strength','With heart and hand','Always watchful','Glory to the father','Virtue under strength','Prepared in either case','Not for ourselves alone']"
   },
   {
     "ID": 293404846,
@@ -805,7 +805,7 @@
     "original": "Virtue under strength",
     "translation": "美德源于力量",
     "stage": 5,
-    "context": "'Virtue under strength'"
+    "context": "Mottos = ['Live that you may live','Friendship without deceit','Dare to be wise','The brave always show mercy','A friend to a friend','This hand is hostile to tyrants','Irritate not the lion','An oak in aged strength','With heart and hand','Always watchful','Glory to the father','Virtue under strength','Prepared in either case','Not for ourselves alone']"
   },
   {
     "ID": 293404847,
@@ -813,7 +813,7 @@
     "original": "All things change",
     "translation": "万物皆变",
     "stage": 5,
-    "context": "'All things change'"
+    "context": "Mottos = ['Nothing in life is permanent','Consider the end','We neither despise nor fear','Judge not','All things change','Every man for himself','All things are thus unstable','Beware the wolf']"
   },
   {
     "ID": 293404848,
@@ -821,7 +821,7 @@
     "original": "He lives twice who lives well",
     "translation": "活得好等于活了两次",
     "stage": 5,
-    "context": "'He lives twice who lives well'"
+    "context": "Mottos = ['He lives twice who lives well','Wealth to him who knows how to use it','Things locked up are safe','Once and always','Gauge and measure','Safe on the waves','Each his share','With sail and oars','Among the first']"
   },
   {
     "ID": 293404849,
@@ -829,7 +829,7 @@
     "original": "One giveth, one taketh",
     "translation": "有得必有失",
     "stage": 5,
-    "context": "'One giveth, one taketh'"
+    "context": "Mottos = ['He lives well who lives peacefully','Wealth is my arrow','Wealth is our sword','Golden towers in the distance','A gift returned','One giveth, one taketh']"
   },
   {
     "ID": 293404850,
@@ -837,7 +837,7 @@
     "original": "All things are thus unstable",
     "translation": "万物皆无常",
     "stage": 5,
-    "context": "'All things are thus unstable'"
+    "context": "Mottos = ['Nothing in life is permanent','Consider the end','We neither despise nor fear','Judge not','All things change','Every man for himself','All things are thus unstable','Beware the wolf']"
   },
   {
     "ID": 293404851,
@@ -845,7 +845,7 @@
     "original": "Always thirsty",
     "translation": "永远饥渴",
     "stage": 5,
-    "context": "'Always thirsty'"
+    "context": "Mottos = ['Whatever grows perishes in ashes','We trample it under our feet','For me and for mine','The eagle catches not flies','Deeds not words','The gods feed the ravens','Always thirsty','Sons of hounds come here and get flesh','Not without booty']"
   },
   {
     "ID": 293404852,
@@ -853,7 +853,7 @@
     "original": "House %noblehousename% is hated by many but feared by even more. A number of small and big uprisings have been put down with fire and sword and the %noblehousename% henchmen are known to have eyes in every shady corner and ears in every wall. The family's ancestral home of %factionfortressname% is swarming with armed guards, sniffing wardogs and bulky mercenaries to protect their paranoid leaders.",
     "translation": "%noblehousename%家族广受憎恶，但更多的人畏惧他们。无数次大大小小的起义被烈火与长剑所镇压，%noblehousename%家族的爪牙据说充斥在每一个阴暗的角落与每一面墙背后。在他们祖传的%factionfortressname%要塞中到处都是武装警卫、警惕的战犬和规模庞大的雇佣兵团，以保护他们疑心病重的领导人。",
     "stage": 5,
-    "context": "'Description' = \"House %noblehousename% is hated by many but feared by even more. A number of small and big uprisings have been put down with fire and sword and the %noblehousename% henchmen are known to have eyes in every shady corner and ears in every wall. The family's ancestral home of %factionfortressname% is swarming with armed guards, sniffing wardogs and bulky mercenaries to protect their paranoid leaders.\""
+    "context": "Description = \"House %noblehousename% is hated by many but feared by even more. A number of small and big uprisings have been put down with fire and sword and the %noblehousename% henchmen are known to have eyes in every shady corner and ears in every wall. The family's ancestral home of %factionfortressname% is swarming with armed guards, sniffing wardogs and bulky mercenaries to protect their paranoid leaders.\""
   },
   {
     "ID": 293404853,
@@ -861,7 +861,7 @@
     "original": "Boldly and honourably",
     "translation": "勇猛而光荣",
     "stage": 5,
-    "context": "'Boldly and honourably'"
+    "context": "Mottos = ['Virtue is the only nobility','In defence of the distressed','Zeal and honour','Noble in anger','Cleansed by the flame','Peace is obtained by war','While we have breath we hope','Boldly and honourably','We scorn to change or to fear','Victory is in truth','Light in Darkness','One heart, one way']"
   },
   {
     "ID": 293404854,
@@ -869,7 +869,7 @@
     "original": "I despise",
     "translation": "我施以轻蔑",
     "stage": 5,
-    "context": "'I despise'"
+    "context": "Mottos = ['Unconquered','Cruel rumor, be still','I soar','With good right','I despise','Sheep, ye bear the wool','Spare not','Profit is gained by danger','Remember that thou must die']"
   },
   {
     "ID": 293404855,
@@ -877,7 +877,7 @@
     "original": "Wealth is our sword",
     "translation": "财富是我们的剑",
     "stage": 5,
-    "context": "'Wealth is our sword'"
+    "context": "Mottos = ['He lives well who lives peacefully','Wealth is my arrow','Wealth is our sword','Golden towers in the distance','A gift returned','One giveth, one taketh']"
   },
   {
     "ID": 293404856,
@@ -885,7 +885,7 @@
     "original": "Golden towers in the distance",
     "translation": "金塔立于远方",
     "stage": 5,
-    "context": "'Golden towers in the distance'"
+    "context": "Mottos = ['He lives well who lives peacefully','Wealth is my arrow','Wealth is our sword','Golden towers in the distance','A gift returned','One giveth, one taketh']"
   },
   {
     "ID": 293404857,
@@ -893,7 +893,7 @@
     "original": "With heart and hand",
     "translation": "全心全意",
     "stage": 5,
-    "context": "'With heart and hand'"
+    "context": "Mottos = ['Live that you may live','Friendship without deceit','Dare to be wise','The brave always show mercy','A friend to a friend','This hand is hostile to tyrants','Irritate not the lion','An oak in aged strength','With heart and hand','Always watchful','Glory to the father','Virtue under strength','Prepared in either case','Not for ourselves alone']"
   },
   {
     "ID": 293404858,
@@ -901,7 +901,7 @@
     "original": "He lives well who lives peacefully",
     "translation": "生活平和，生活幸福",
     "stage": 5,
-    "context": "'He lives well who lives peacefully'"
+    "context": "Mottos = ['He lives well who lives peacefully','Wealth is my arrow','Wealth is our sword','Golden towers in the distance','A gift returned','One giveth, one taketh']"
   },
   {
     "ID": 293404859,
@@ -909,7 +909,7 @@
     "original": "Consider the end",
     "translation": "预想终末",
     "stage": 5,
-    "context": "'Consider the end'"
+    "context": "Mottos = ['Nothing in life is permanent','Consider the end','We neither despise nor fear','Judge not','All things change','Every man for himself','All things are thus unstable','Beware the wolf']"
   },
   {
     "ID": 293404860,
@@ -917,7 +917,7 @@
     "original": "Reason is the guide of life",
     "translation": "理性乃人生的指南",
     "stage": 5,
-    "context": "'Reason is the guide of life'"
+    "context": "Mottos = ['Reason is the guide of life','Firmly in act and gently in manner','Let us be viewed by our actions','Strive without reproach','The sun rises after clouds','Courage in difficulties','Plenty is caused by dilligence']"
   },
   {
     "ID": 293404861,
@@ -925,7 +925,7 @@
     "original": "By laws and arms",
     "translation": "以法律与武力之名",
     "stage": 5,
-    "context": "'By laws and arms'"
+    "context": "Mottos = ['A knife in the dark','Cutting causes growth','Always ready','The sentinel sleeps not','Arms maintain peace','Innocent as doves','Firm of purpose','Obey','By laws and arms','Learn to endure what must be borne','The wrath of the lion is noble']"
   },
   {
     "ID": 293404862,
@@ -933,7 +933,7 @@
     "original": "Knowledge at last",
     "translation": "终有所知",
     "stage": 5,
-    "context": "'Knowledge at last'"
+    "context": "Mottos = ['Dare to be wise','Wisdom the conqueror of fortune','Read and learn','The castle of wisdom','Knowledge at last']"
   },
   {
     "ID": 293404863,
@@ -941,7 +941,7 @@
     "original": "Light in Darkness",
     "translation": "黑暗中的光明",
     "stage": 5,
-    "context": "'Light in Darkness'"
+    "context": "Mottos = ['Virtue is the only nobility','In defence of the distressed','Zeal and honour','Noble in anger','Cleansed by the flame','Peace is obtained by war','While we have breath we hope','Boldly and honourably','We scorn to change or to fear','Victory is in truth','Light in Darkness','One heart, one way']"
   },
   {
     "ID": 293404864,
@@ -949,7 +949,7 @@
     "original": "We scorn to change or to fear",
     "translation": "我们蔑视变卦和恐惧",
     "stage": 5,
-    "context": "'We scorn to change or to fear'"
+    "context": "Mottos = ['Virtue is the only nobility','In defence of the distressed','Zeal and honour','Noble in anger','Cleansed by the flame','Peace is obtained by war','While we have breath we hope','Boldly and honourably','We scorn to change or to fear','Victory is in truth','Light in Darkness','One heart, one way']"
   },
   {
     "ID": 293404865,
@@ -957,7 +957,7 @@
     "original": "Zeal and honour",
     "translation": "热忱与荣耀",
     "stage": 5,
-    "context": "'Zeal and honour'"
+    "context": "Mottos = ['Virtue is the only nobility','In defence of the distressed','Zeal and honour','Noble in anger','Cleansed by the flame','Peace is obtained by war','While we have breath we hope','Boldly and honourably','We scorn to change or to fear','Victory is in truth','Light in Darkness','One heart, one way']"
   },
   {
     "ID": 293404866,
@@ -965,7 +965,7 @@
     "original": "Remember that thou must die",
     "translation": "谨记人固有一死",
     "stage": 5,
-    "context": "'Remember that thou must die'"
+    "context": "Mottos = ['Unconquered','Cruel rumor, be still','I soar','With good right','I despise','Sheep, ye bear the wool','Spare not','Profit is gained by danger','Remember that thou must die']"
   },
   {
     "ID": 293404867,
@@ -973,7 +973,7 @@
     "original": "The sentinel sleeps not",
     "translation": "哨兵不眠",
     "stage": 5,
-    "context": "'The sentinel sleeps not'"
+    "context": "Mottos = ['A knife in the dark','Cutting causes growth','Always ready','The sentinel sleeps not','Arms maintain peace','Innocent as doves','Firm of purpose','Obey','By laws and arms','Learn to endure what must be borne','The wrath of the lion is noble']"
   },
   {
     "ID": 293404868,
@@ -981,6 +981,6 @@
     "original": "In defence of the distressed",
     "translation": "捍卫受难之人",
     "stage": 5,
-    "context": "'In defence of the distressed'"
+    "context": "Mottos = ['Virtue is the only nobility','In defence of the distressed','Zeal and honour','Noble in anger','Cleansed by the flame','Peace is obtained by war','While we have breath we hope','Boldly and honourably','We scorn to change or to fear','Victory is in truth','Light in Darkness','One heart, one way']"
   }
 ]

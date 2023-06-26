@@ -5,7 +5,7 @@
     "original": "Have a heart",
     "translation": "有一颗心",
     "stage": 1,
-    "context": "'Text' = 'Have a heart'"
+    "context": "Text = 'Have a heart'"
   },
   {
     "ID": 293419620,

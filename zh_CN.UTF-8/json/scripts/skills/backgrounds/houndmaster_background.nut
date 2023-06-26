@@ -5,7 +5,7 @@
     "original": "Wardogs unleashed by this character will start at confident morale.",
     "translation": "这个角色释放的战犬将以自信的士气开始。",
     "stage": 5,
-    "context": "'text' = 'Wardogs unleashed by this character will start at confident morale.'"
+    "context": "text = 'Wardogs unleashed by this character will start at confident morale.'"
   },
   {
     "ID": 293421028,

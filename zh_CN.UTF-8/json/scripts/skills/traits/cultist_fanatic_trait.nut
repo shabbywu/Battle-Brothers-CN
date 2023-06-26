@@ -5,7 +5,7 @@
     "original": "]+5[/color] Resolve",
     "translation": "]+5[/color] 决心",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Resolve'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Resolve'"
   },
   {
     "ID": 293422436,
@@ -13,7 +13,7 @@
     "original": "No morale check triggered upon allies dying",
     "translation": "友军死亡时不会触发士气检查",
     "stage": 5,
-    "context": "'text' = 'No morale check triggered upon allies dying'"
+    "context": "text = 'No morale check triggered upon allies dying'"
   },
   {
     "ID": 293422437,

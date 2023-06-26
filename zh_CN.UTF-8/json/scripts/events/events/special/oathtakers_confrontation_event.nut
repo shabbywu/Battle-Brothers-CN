@@ -29,7 +29,7 @@
     "original": "It had to be this way.",
     "translation": "这就是必然。",
     "stage": 1,
-    "context": "'Text' = 'It had to be this way.'"
+    "context": "Text = 'It had to be this way.'"
   },
   {
     "ID": 293416915,
@@ -45,7 +45,7 @@
     "original": "{Represent us in this fight | Be our champion | Reclaim Anselm's jawbone | Kill these Oathbringers}, ",
     "translation": "{代表我们参与这场战斗 | 成为我们的冠军 | 夺回安瑟姆的颚骨 | 杀死这些誓言守护者}，",
     "stage": 1,
-    "context": "'Text' = \"{Represent us in this fight | Be our champion | Reclaim Anselm's jawbone | Kill these Oathbringers}, \" + bro.getName() + '.'"
+    "context": "Text = \"{Represent us in this fight | Be our champion | Reclaim Anselm's jawbone | Kill these Oathbringers}, \" + bro.getName() + '.'"
   },
   {
     "ID": 293416917,
@@ -53,7 +53,7 @@
     "original": "You lose ",
     "translation": "你失去了",
     "stage": 5,
-    "context": "'text' = 'You lose ' + item.getName()"
+    "context": "text = 'You lose ' + item.getName()"
   },
   {
     "ID": 293416918,
@@ -61,7 +61,7 @@
     "original": "[img]gfx/ui/events/event_180.png[/img]{The company is still not ready. You are worried that they will leave you entirely, infuriated as they are, but you'd rather they be pissed than flat dead in the ground. With the decision weighing on your heart, and the Oathbringers screaming insults into your ear, you have the company once again march from the fight.}",
     "translation": "[img]gfx/ui/events/event_180.png[/img]{战团还没有准备好。你担心他们会全部离开你，愤怒地离去，但你宁愿他们生气，也不愿看到他们躺在地下。心里沉重，听着队长的训话，你命令战团再次撤出战斗。}",
     "stage": 1,
-    "context": "'Text' = \"[img]gfx/ui/events/event_180.png[/img]{The company is still not ready. You are worried that they will leave you entirely, infuriated as they are, but you'd rather they be pissed than flat dead in the ground. With the decision weighing on your heart, and the Oathbringers screaming insults into your ear, you have the company once again march from the fight.}\""
+    "context": "Text = \"[img]gfx/ui/events/event_180.png[/img]{The company is still not ready. You are worried that they will leave you entirely, infuriated as they are, but you'd rather they be pissed than flat dead in the ground. With the decision weighing on your heart, and the Oathbringers screaming insults into your ear, you have the company once again march from the fight.}\""
   },
   {
     "ID": 293416919,
@@ -77,7 +77,7 @@
     "original": "We can't win this. No fight.",
     "translation": "我们无法赢得这场战斗。放弃吧。",
     "stage": 1,
-    "context": "'Text' = \"We can't win this. No fight.\""
+    "context": "Text = \"We can't win this. No fight.\""
   },
   {
     "ID": 293416921,
@@ -93,7 +93,7 @@
     "original": "[img]gfx/ui/events/event_87.png[/img]{You stare in disbelief as your chosen fighters go down. A thought crosses your mind to kill the Oathbringers, but rules are rules and you wouldn't dare infringe on Young Anselm's oath of proper combat. You watch as an Oathbringer takes up Young Anselm's jawbone, presses thumb to mandible, and promptly snaps the relic in half.%SPEECH_ON%Despite our victory, even we Oathbringers can see that we've both our errors. So let schism grace schism! Through us we all take on the Oath of Failure, and see unto this world that we find true followers of the Oaths...%SPEECH_OFF%The Oathbringer stares at you through the broken bones, himself shielded by a dead man's decree.%SPEECH_ON%When Young Anselm's guidance finds fulfillment, only then shall he be made whole again.%SPEECH_OFF%The Oathbringer turns and leaves. Your heart races with ideas of stabbing him in the back, cobbling Anselm's remains back together, and completing your ultimate task. But the notion passes. To do such a thing would curse you forever with having ruined your firmest beliefs. You simply watch the Oathbringer go, knowing that the Oaths and all its believers may one day come back together, but it will not be in your lifetime.}",
     "translation": "[img]gfx/ui/events/event_87.png[/img]{你难以置信地看着你选择的战士被打倒在地。 你的大脑里飞快闪过一个念头想要干掉这个誓言使者，但是规矩就是规矩你不敢在一场公平决斗中违背小安瑟姆的誓言。 你看着一个誓言使者捡起小安瑟姆的下颌骨，把拇指插进下颚处，然后迅速地把这件圣物掰成两段。%SPEECH_ON%尽管我们赢了，甚至我们誓言使者都能看出来我们都有错误。 所以让分歧来解决分歧吧！ 我们立下的誓言失败了，并且环顾世界让我们在这个世界上找到真正的追随者…%SPEECH_OFF%那个誓言使者的目光从破碎的骨头间穿过盯着你，而他本人却因为已逝者的法令保护而使你徒呼奈何。%SPEECH_ON%只有小安瑟姆的指引得到了满足，他才能够被拼接成一个整体。%SPEECH_OFF%那个誓言使者转身离开。 你的心在不断闪过一个个念头想要在背后给他一刀，把小安瑟姆的遗体拼接完整，并且完成你的终极任务。 但这些念头最终还是全部烟消云散。 这么做会让你永受诅咒毁掉你最坚定的信念。 你只是看着那个誓言使者离开，你知道那个誓言和它所有的信徒也许终有一天能重现，但对于你来说已经是此生无望。}",
     "stage": 1,
-    "context": "'Text' = \"[img]gfx/ui/events/event_87.png[/img]{You stare in disbelief as your chosen fighters go down. A thought crosses your mind to kill the Oathbringers, but rules are rules and you wouldn't dare infringe on Young Anselm's oath of proper combat. You watch as an Oathbringer takes up Young Anselm's jawbone, presses thumb to mandible, and promptly snaps the relic in half.%SPEECH_ON%Despite our victory, even we Oathbringers can see that we've both our errors. So let schism grace schism! Through us we all take on the Oath of Failure, and see unto this world that we find true followers of the Oaths...%SPEECH_OFF%The Oathbringer stares at you through the broken bones, himself shielded by a dead man's decree.%SPEECH_ON%When Young Anselm's guidance finds fulfillment, only then shall he be made whole again.%SPEECH_OFF%The Oathbringer turns and leaves. Your heart races with ideas of stabbing him in the back, cobbling Anselm's remains back together, and completing your ultimate task. But the notion passes. To do such a thing would curse you forever with having ruined your firmest beliefs. You simply watch the Oathbringer go, knowing that the Oaths and all its believers may one day come back together, but it will not be in your lifetime.}\""
+    "context": "Text = \"[img]gfx/ui/events/event_87.png[/img]{You stare in disbelief as your chosen fighters go down. A thought crosses your mind to kill the Oathbringers, but rules are rules and you wouldn't dare infringe on Young Anselm's oath of proper combat. You watch as an Oathbringer takes up Young Anselm's jawbone, presses thumb to mandible, and promptly snaps the relic in half.%SPEECH_ON%Despite our victory, even we Oathbringers can see that we've both our errors. So let schism grace schism! Through us we all take on the Oath of Failure, and see unto this world that we find true followers of the Oaths...%SPEECH_OFF%The Oathbringer stares at you through the broken bones, himself shielded by a dead man's decree.%SPEECH_ON%When Young Anselm's guidance finds fulfillment, only then shall he be made whole again.%SPEECH_OFF%The Oathbringer turns and leaves. Your heart races with ideas of stabbing him in the back, cobbling Anselm's remains back together, and completing your ultimate task. But the notion passes. To do such a thing would curse you forever with having ruined your firmest beliefs. You simply watch the Oathbringer go, knowing that the Oaths and all its believers may one day come back together, but it will not be in your lifetime.}\""
   },
   {
     "ID": 293416923,
@@ -101,7 +101,7 @@
     "original": "You're still not ready!",
     "translation": "你还没准备好！",
     "stage": 1,
-    "context": "'Text' = \"You're still not ready!\""
+    "context": "Text = \"You're still not ready!\""
   },
   {
     "ID": 293416924,
@@ -117,7 +117,7 @@
     "original": "And death to the Oathbringers...",
     "translation": "致誓言使者之死…",
     "stage": 1,
-    "context": "'Text' = 'And death to the Oathbringers...'"
+    "context": "Text = 'And death to the Oathbringers...'"
   },
   {
     "ID": 293416926,
@@ -149,7 +149,7 @@
     "original": "[img]gfx/ui/events/event_180.png[/img]{Against every fiber of your being, you turn the fight down. The reality is simple: the %companyname% is not ready for this battle. Unsurprisingly, the Oathtakers are not especially happy about this, and in fact show considerable concern that you would take a rare opportunity at slaying Oathbringers and piss all over it. As for the Oathbringers themselves, they laugh and crow at you as you leave.%SPEECH_ON%Young Anselm saw nothing good in you, Oathtakers! Your visions of him are a lie! Your whole existence is a lie! I'd say join us while you can, but we want nothing to do with you worms!%SPEECH_OFF%You pray that in the coming days you will be able to prove to your men that you made the right decision here.}",
     "translation": "[img]gfx/ui/events/event_180.png[/img]{你的每一根神经都在反抗，但你还是拒绝了这场战斗。现实很简单： %companyname% 没有为这场战斗做好准备。毫不出奇地，誓言捍卫者并不特别高兴，事实上他们非常关心你会错过一次猎杀誓言布道者的机会。至于誓言布道者本身，在你离开时嘲笑着你。%SPEECH_ON%年轻的安塞姆(Anselm)看不到你的任何好处，誓言捍卫者们！你对他的幻象都是谎言！你们的整个存在都是谎言！我会说，在你们还能加入我们之前，加入我们吧，但我们不想和你们这些蠕虫有任何关系！%SPEECH_OFF%你祈祷在接下来的日子里，你能够向你的士兵证明你在这里做出了正确的决定。}",
     "stage": 1,
-    "context": "'Text' = \"[img]gfx/ui/events/event_180.png[/img]{Against every fiber of your being, you turn the fight down. The reality is simple: the %companyname% is not ready for this battle. Unsurprisingly, the Oathtakers are not especially happy about this, and in fact show considerable concern that you would take a rare opportunity at slaying Oathbringers and piss all over it. As for the Oathbringers themselves, they laugh and crow at you as you leave.%SPEECH_ON%Young Anselm saw nothing good in you, Oathtakers! Your visions of him are a lie! Your whole existence is a lie! I'd say join us while you can, but we want nothing to do with you worms!%SPEECH_OFF%You pray that in the coming days you will be able to prove to your men that you made the right decision here.}\""
+    "context": "Text = \"[img]gfx/ui/events/event_180.png[/img]{Against every fiber of your being, you turn the fight down. The reality is simple: the %companyname% is not ready for this battle. Unsurprisingly, the Oathtakers are not especially happy about this, and in fact show considerable concern that you would take a rare opportunity at slaying Oathbringers and piss all over it. As for the Oathbringers themselves, they laugh and crow at you as you leave.%SPEECH_ON%Young Anselm saw nothing good in you, Oathtakers! Your visions of him are a lie! Your whole existence is a lie! I'd say join us while you can, but we want nothing to do with you worms!%SPEECH_OFF%You pray that in the coming days you will be able to prove to your men that you made the right decision here.}\""
   },
   {
     "ID": 293416930,
@@ -157,7 +157,7 @@
     "original": "[img]gfx/ui/events/event_87.png[/img]{Two bodies on the ground, and a weight off your shoulders. But...you thought it would be different. Not that you are displeased with the results, such that the Oathbringers are no more, but there's something amiss. It is almost as if you put out a fire that threatened your home, only to realize those flames were the only warmth you had in a world of cold.%SPEECH_ON%Good riddance.%SPEECH_OFF%One of your men says and spits on the corpses. Staring at the dead, you realize you had become addicted to the hunt, addicted to the challenge, addicted to being strong. You weren't encumbered by a threat. You were weighted with purpose, and now it is gone. %randombrother% leans down and picks up Young Anselm's jawbone and hands it over. You take it and piece it to Young Anselm's skull. It fits with ease, almost as if even in its decay it had no reason to separate. The men cheer. They cheer the Oathtakers. They cheer your name. And they cheer for Young Anselm who in death has finally been made whole again. You take one last look at the Oathbringers and nod. They had a purpose, sure, but now it is fulfilled. May the old gods have mercy on their heathen souls.}",
     "translation": "[img]gfx/ui/events/event_87.png[/img]{两具躯体倒在地上，你总算卸下了心头的大石头。 不过…你觉得一切都会有所不同。 你并非对结果不满意，毕竟誓言使者已经不再对你构成威胁，但是你还是怅然若失。 这就好像你扑灭了一场即将烧毁你房子的大火，结果却发现你亲手扑灭的大火竟然是你在这个冰冷世界上唯一的温暖和慰藉。%SPEECH_ON%很好的解脱。%SPEECH_OFF%你的一个手下这样说道并朝尸体吐了一口唾沫。 盯着尸体，你意识到你开始沉迷于狩猎，沉迷于挑战，沉迷于不断变强。 你不会被一个威胁所拖累。 你曾经为了目标而战，而现在你已经迷失了。%randombrother% 弯腰捡起了小安瑟姆的下颌骨并且递给你。 你拿着它，把这部分拼接到小安瑟姆的颅骨上。 很轻松就拼接上去了，就好像长年的腐蚀磨损都没能使它们分开过。 大家欢呼起来。他们欢呼着宣誓者。 他们欢呼着你的名字。 他们为小安瑟姆欢呼在死后终于能被合为一体。 你最后一次看向誓言使者们并且点了点头。 他们也有目标，显然如此，但现在他们的目标已经完成了。 愿古神怜悯他们这些异教者的灵魂。}",
     "stage": 1,
-    "context": "'Text' = \"[img]gfx/ui/events/event_87.png[/img]{Two bodies on the ground, and a weight off your shoulders. But...you thought it would be different. Not that you are displeased with the results, such that the Oathbringers are no more, but there's something amiss. It is almost as if you put out a fire that threatened your home, only to realize those flames were the only warmth you had in a world of cold.%SPEECH_ON%Good riddance.%SPEECH_OFF%One of your men says and spits on the corpses. Staring at the dead, you realize you had become addicted to the hunt, addicted to the challenge, addicted to being strong. You weren't encumbered by a threat. You were weighted with purpose, and now it is gone. %randombrother% leans down and picks up Young Anselm's jawbone and hands it over. You take it and piece it to Young Anselm's skull. It fits with ease, almost as if even in its decay it had no reason to separate. The men cheer. They cheer the Oathtakers. They cheer your name. And they cheer for Young Anselm who in death has finally been made whole again. You take one last look at the Oathbringers and nod. They had a purpose, sure, but now it is fulfilled. May the old gods have mercy on their heathen souls.}\""
+    "context": "Text = \"[img]gfx/ui/events/event_87.png[/img]{Two bodies on the ground, and a weight off your shoulders. But...you thought it would be different. Not that you are displeased with the results, such that the Oathbringers are no more, but there's something amiss. It is almost as if you put out a fire that threatened your home, only to realize those flames were the only warmth you had in a world of cold.%SPEECH_ON%Good riddance.%SPEECH_OFF%One of your men says and spits on the corpses. Staring at the dead, you realize you had become addicted to the hunt, addicted to the challenge, addicted to being strong. You weren't encumbered by a threat. You were weighted with purpose, and now it is gone. %randombrother% leans down and picks up Young Anselm's jawbone and hands it over. You take it and piece it to Young Anselm's skull. It fits with ease, almost as if even in its decay it had no reason to separate. The men cheer. They cheer the Oathtakers. They cheer your name. And they cheer for Young Anselm who in death has finally been made whole again. You take one last look at the Oathbringers and nod. They had a purpose, sure, but now it is fulfilled. May the old gods have mercy on their heathen souls.}\""
   },
   {
     "ID": 293416931,
@@ -165,7 +165,7 @@
     "original": "Damnit!",
     "translation": "该死的！",
     "stage": 1,
-    "context": "'Text' = 'Damnit!'"
+    "context": "Text = 'Damnit!'"
   },
   {
     "ID": 293416932,
@@ -173,7 +173,7 @@
     "original": "You gain ",
     "translation": "你获得了",
     "stage": 1,
-    "context": "'text' = 'You gain ' + item.getName()"
+    "context": "text = 'You gain ' + item.getName()"
   },
   {
     "ID": 293416933,
@@ -181,7 +181,7 @@
     "original": "I've selected everyone I wish to. Now defeat those Oathbringers!",
     "translation": "我已经选好了所有我想选的人。 现在打败那些誓言使者！",
     "stage": 1,
-    "context": "'Text' = \"I've selected everyone I wish to. Now defeat those Oathbringers!\""
+    "context": "Text = \"I've selected everyone I wish to. Now defeat those Oathbringers!\""
   },
   {
     "ID": 293416934,

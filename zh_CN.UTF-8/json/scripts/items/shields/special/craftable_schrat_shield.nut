@@ -5,7 +5,7 @@
     "original": "Regenerates itself by [color=",
     "translation": "回复自身 [color=",
     "stage": 1,
-    "context": "'text' = 'Regenerates itself by [color=' + this.Const.UI.Color.PositiveValue + ']20[/color] points of durability each turn.'"
+    "context": "text = 'Regenerates itself by [color=' + this.Const.UI.Color.PositiveValue + ']20[/color] points of durability each turn.'"
   },
   {
     "ID": 293418823,
@@ -13,7 +13,7 @@
     "original": "]20[/color] points of durability each turn.",
     "translation": "]20[/color] 点耐久(每回合)。",
     "stage": 5,
-    "context": "'text' = 'Regenerates itself by [color=' + this.Const.UI.Color.PositiveValue + ']20[/color] points of durability each turn.'"
+    "context": "text = 'Regenerates itself by [color=' + this.Const.UI.Color.PositiveValue + ']20[/color] points of durability each turn.'"
   },
   {
     "ID": 293418824,

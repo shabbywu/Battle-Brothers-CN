@@ -21,6 +21,6 @@
     "original": "[/color] Resolve",
     "translation": "[/color] 决心",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + bonus + '[/color] Resolve'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + bonus + '[/color] Resolve'"
   }
 ]

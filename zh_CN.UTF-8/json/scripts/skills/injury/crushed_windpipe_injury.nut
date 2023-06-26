@@ -5,7 +5,7 @@
     "original": "]-50%[/color] Max Fatigue",
     "translation": "]-50%[/color] 最大疲劳值",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Max Fatigue'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Max Fatigue'"
   },
   {
     "ID": 293421897,
@@ -21,7 +21,7 @@
     "original": "]-10[/color] Fatigue Recovery per turn",
     "translation": "]-10[/color] 每回合疲劳值恢复量",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Fatigue Recovery per turn'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Fatigue Recovery per turn'"
   },
   {
     "ID": 293421899,

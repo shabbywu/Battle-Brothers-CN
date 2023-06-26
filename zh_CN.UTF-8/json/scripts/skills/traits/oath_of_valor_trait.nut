@@ -5,7 +5,7 @@
     "original": "]-15%[/color] Experience Gain",
     "translation": "]-15%[/color] 经验获取",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] Experience Gain'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] Experience Gain'"
   },
   {
     "ID": 293422668,
@@ -13,7 +13,7 @@
     "original": "Will not flee in battle",
     "translation": "不会逃离战斗",
     "stage": 1,
-    "context": "'text' = 'Will not flee in battle'"
+    "context": "text = 'Will not flee in battle'"
   },
   {
     "ID": 293422669,

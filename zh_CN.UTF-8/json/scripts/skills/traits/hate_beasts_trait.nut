@@ -21,6 +21,6 @@
     "original": "]+10[/color] Resolve when in battle with beasts",
     "translation": "]+10[/color] 决心，与野兽战斗时",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve when in battle with beasts'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve when in battle with beasts'"
   }
 ]

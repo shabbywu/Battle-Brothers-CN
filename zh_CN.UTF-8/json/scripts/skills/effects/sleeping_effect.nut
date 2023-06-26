@@ -29,7 +29,7 @@
     "original": "]-100[/color] Initiative",
     "translation": "]-100[/color] 主动性",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-100[/color] Initiative'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-100[/color] Initiative'"
   },
   {
     "ID": 293421742,
@@ -37,6 +37,6 @@
     "original": "Can take damage from Alps",
     "translation": "可以受到梦魔的伤害",
     "stage": 5,
-    "context": "'text' = 'Can take damage from Alps'"
+    "context": "text = 'Can take damage from Alps'"
   }
 ]

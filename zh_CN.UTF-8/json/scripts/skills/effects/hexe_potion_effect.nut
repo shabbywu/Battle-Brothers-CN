@@ -5,7 +5,7 @@
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
     "stage": 1,
-    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
+    "context": "text = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421521,
@@ -13,7 +13,7 @@
     "original": "]100%[/color] of hitpoint damage received back at the attacker",
     "translation": "]100%[/color] 生命值伤害到攻击者",
     "stage": 1,
-    "context": "'text' = 'Reflect [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] of hitpoint damage received back at the attacker'"
+    "context": "text = 'Reflect [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] of hitpoint damage received back at the attacker'"
   },
   {
     "ID": 293421522,
@@ -21,7 +21,7 @@
     "original": "Reflect [color=",
     "translation": "反射 [color=",
     "stage": 1,
-    "context": "'text' = 'Reflect [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] of hitpoint damage received back at the attacker'"
+    "context": "text = 'Reflect [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] of hitpoint damage received back at the attacker'"
   },
   {
     "ID": 293421523,

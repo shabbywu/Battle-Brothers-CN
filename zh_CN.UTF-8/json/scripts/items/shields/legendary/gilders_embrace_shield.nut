@@ -13,7 +13,7 @@
     "original": "Is indestructible",
     "translation": "是坚不可摧的",
     "stage": 1,
-    "context": "'text' = 'Is indestructible'"
+    "context": "text = 'Is indestructible'"
   },
   {
     "ID": 293418776,
@@ -37,7 +37,7 @@
     "original": "Everyone striking this shield receives the 'Dazed' effect",
     "translation": "每个击打此盾牌的人都会受到“茫然”效果",
     "stage": 1,
-    "context": "'text' = \"Everyone striking this shield receives the 'Dazed' effect\""
+    "context": "text = \"Everyone striking this shield receives the 'Dazed' effect\""
   },
   {
     "ID": 293418779,
@@ -45,7 +45,7 @@
     "original": "Maximum Fatigue [color=",
     "translation": "最大疲劳值 [color=",
     "stage": 5,
-    "context": "'text' = 'Maximum Fatigue [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.StaminaModifier + '[/color]'"
+    "context": "text = 'Maximum Fatigue [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.StaminaModifier + '[/color]'"
   },
   {
     "ID": 293418780,
@@ -53,7 +53,7 @@
     "original": "Ranged Defense [color=",
     "translation": "远程防御 [color=",
     "stage": 5,
-    "context": "'text' = 'Ranged Defense [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.m.RangedDefense + '[/color]'"
+    "context": "text = 'Ranged Defense [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.m.RangedDefense + '[/color]'"
   },
   {
     "ID": 293418781,
@@ -61,6 +61,6 @@
     "original": "Melee Defense [color=",
     "translation": "近战防御[color=",
     "stage": 5,
-    "context": "'text' = 'Melee Defense [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.m.MeleeDefense + '[/color]'"
+    "context": "text = 'Melee Defense [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.m.MeleeDefense + '[/color]'"
   }
 ]

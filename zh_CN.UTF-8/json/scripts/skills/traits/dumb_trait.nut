@@ -21,7 +21,7 @@
     "original": "]-15%[/color] Experience Gain",
     "translation": "]-15%[/color] 经验获取",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] Experience Gain'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] Experience Gain'"
   },
   {
     "ID": 293422488,

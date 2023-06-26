@@ -21,7 +21,7 @@
     "original": "No morale check triggered for non-indebted allies upon dying",
     "translation": "非负债者盟友死亡时不会触发士气检查",
     "stage": 5,
-    "context": "'text' = 'No morale check triggered for non-indebted allies upon dying'"
+    "context": "text = 'No morale check triggered for non-indebted allies upon dying'"
   },
   {
     "ID": 293421279,
@@ -37,7 +37,7 @@
     "original": "Is always content with being in reserve",
     "translation": "总是满足于充当后备",
     "stage": 5,
-    "context": "'text' = 'Is always content with being in reserve'"
+    "context": "text = 'Is always content with being in reserve'"
   },
   {
     "ID": 293421281,

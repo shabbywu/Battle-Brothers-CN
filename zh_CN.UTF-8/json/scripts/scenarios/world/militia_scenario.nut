@@ -53,7 +53,7 @@
     "original": "Was involved in a brawl",
     "translation": "卷入了一场斗殴",
     "stage": 5,
-    "context": "bros[2].worsenMood(0.5, 'Was involved in a brawl')"
+    "context": "bros[4].worsenMood(0.5, 'Was involved in a brawl')"
   },
   {
     "ID": 293419726,

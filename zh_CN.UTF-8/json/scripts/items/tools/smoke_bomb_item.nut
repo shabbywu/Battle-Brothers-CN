@@ -5,7 +5,7 @@
     "original": "Is destroyed on use",
     "translation": "使用后摧毁",
     "stage": 1,
-    "context": "'text' = 'Is destroyed on use'"
+    "context": "text = 'Is destroyed on use'"
   },
   {
     "ID": 293418974,
@@ -13,7 +13,7 @@
     "original": "Worn in Offhand",
     "translation": "副手持用",
     "stage": 1,
-    "context": "'text' = 'Worn in Offhand'"
+    "context": "text = 'Worn in Offhand'"
   },
   {
     "ID": 293418975,
@@ -21,7 +21,7 @@
     "original": "]7[/color] tiles in smoke for one round, allowing anyone inside to move freely and ignore zones of control",
     "translation": "]7[/color]个格子的区域，持续1回合，其中的人可以无视控制区域自由移动",
     "stage": 5,
-    "context": "'text' = 'Covers [color=' + this.Const.UI.Color.DamageValue + ']7[/color] tiles in smoke for one round, allowing anyone inside to move freely and ignore zones of control'"
+    "context": "text = 'Covers [color=' + this.Const.UI.Color.DamageValue + ']7[/color] tiles in smoke for one round, allowing anyone inside to move freely and ignore zones of control'"
   },
   {
     "ID": 293418976,
@@ -37,7 +37,7 @@
     "original": "Range of [color=",
     "translation": "使用范围为[color=",
     "stage": 5,
-    "context": "'text' = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
+    "context": "text = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
   },
   {
     "ID": 293418978,
@@ -53,7 +53,7 @@
     "original": "Covers [color=",
     "translation": "用烟雾覆盖[color=",
     "stage": 5,
-    "context": "'text' = 'Covers [color=' + this.Const.UI.Color.DamageValue + ']7[/color] tiles in smoke for one round, allowing anyone inside to move freely and ignore zones of control'"
+    "context": "text = 'Covers [color=' + this.Const.UI.Color.DamageValue + ']7[/color] tiles in smoke for one round, allowing anyone inside to move freely and ignore zones of control'"
   },
   {
     "ID": 293418980,
@@ -61,6 +61,6 @@
     "original": "[/color] tiles",
     "translation": "[/color] 格",
     "stage": 5,
-    "context": "'text' = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
+    "context": "text = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
   }
 ]

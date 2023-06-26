@@ -5,7 +5,7 @@
     "original": "]-45%[/color] Initiative",
     "translation": "]-45%[/color] 主动性",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-45%[/color] Initiative'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-45%[/color] Initiative'"
   },
   {
     "ID": 293421624,
@@ -29,7 +29,7 @@
     "original": "]Unable to move[/color]",
     "translation": "]不能移动[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Unable to move[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Unable to move[/color]'"
   },
   {
     "ID": 293421627,
@@ -37,7 +37,7 @@
     "original": "]-45%[/color] Ranged Defense",
     "translation": "]-45%[/color] 远程防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-45%[/color] Ranged Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-45%[/color] Ranged Defense'"
   },
   {
     "ID": 293421628,
@@ -45,6 +45,6 @@
     "original": "]-45%[/color] Melee Defense",
     "translation": "]-45%[/color] 近战防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-45%[/color] Melee Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-45%[/color] Melee Defense'"
   }
 ]

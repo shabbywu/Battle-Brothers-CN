@@ -5,7 +5,7 @@
     "original": "Grants [color=",
     "translation": "获得 [color=",
     "stage": 5,
-    "context": "'text' = 'Grants [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.Math.floor(item.getMeleeDefense() * mult + proficiencyBonus) + '[/color] Melee Defense for one turn'"
+    "context": "text = 'Grants [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.Math.floor(item.getRangedDefense() * mult + proficiencyBonus) + '[/color] Ranged Defense for one turn'"
   },
   {
     "ID": 293420354,
@@ -13,7 +13,7 @@
     "original": "[/color] Ranged Defense for one turn",
     "translation": "[/color] 远程防御(持续1回合)",
     "stage": 5,
-    "context": "'text' = 'Grants [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.Math.floor(item.getRangedDefense() * mult + proficiencyBonus) + '[/color] Ranged Defense for one turn'"
+    "context": "text = 'Grants [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.Math.floor(item.getRangedDefense() * mult + proficiencyBonus) + '[/color] Ranged Defense for one turn'"
   },
   {
     "ID": 293420355,
@@ -21,7 +21,7 @@
     "original": "Grants an additional [color=",
     "translation": "每有一名同样使用盾墙的相邻盟友，获得额外 [color=",
     "stage": 5,
-    "context": "'text' = 'Grants an additional [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Defense against all attacks for each ally adjacent also using Shieldwall'"
+    "context": "text = 'Grants an additional [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Defense against all attacks for each ally adjacent also using Shieldwall'"
   },
   {
     "ID": 293420356,
@@ -29,7 +29,7 @@
     "original": "[/color] Melee Defense for one turn",
     "translation": "[/color] 近战防御(持续1回合)",
     "stage": 5,
-    "context": "'text' = 'Grants [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.Math.floor(item.getMeleeDefense() * mult + proficiencyBonus) + '[/color] Melee Defense for one turn'"
+    "context": "text = 'Grants [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.Math.floor(item.getMeleeDefense() * mult + proficiencyBonus) + '[/color] Melee Defense for one turn'"
   },
   {
     "ID": 293420357,
@@ -61,6 +61,6 @@
     "original": "]+5[/color] Defense against all attacks for each ally adjacent also using Shieldwall",
     "translation": "]+5[/color] 对抗任意攻击的防御",
     "stage": 5,
-    "context": "'text' = 'Grants an additional [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Defense against all attacks for each ally adjacent also using Shieldwall'"
+    "context": "text = 'Grants an additional [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Defense against all attacks for each ally adjacent also using Shieldwall'"
   }
 ]

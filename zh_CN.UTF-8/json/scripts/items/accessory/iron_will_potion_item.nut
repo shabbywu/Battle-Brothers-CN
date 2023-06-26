@@ -5,7 +5,7 @@
     "original": "Overindulgence may lead to sickness",
     "translation": "过度使用可能导致疾病",
     "stage": 1,
-    "context": "'text' = 'Overindulgence may lead to sickness'"
+    "context": "text = 'Overindulgence may lead to sickness'"
   },
   {
     "ID": 293417458,
@@ -21,7 +21,7 @@
     "original": "Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.",
     "translation": "右键单击或拖动到当前选定的角色上进行饮用。 此物品会在使用过程中消耗掉。",
     "stage": 1,
-    "context": "'text' = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
+    "context": "text = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
   },
   {
     "ID": 293417460,
@@ -29,7 +29,7 @@
     "original": "Not affected by non-permanent injuries, new or old",
     "translation": "不受非永久性损伤的影响，无论是新的还是旧的",
     "stage": 1,
-    "context": "'text' = 'Not affected by non-permanent injuries, new or old'"
+    "context": "text = 'Not affected by non-permanent injuries, new or old'"
   },
   {
     "ID": 293417461,

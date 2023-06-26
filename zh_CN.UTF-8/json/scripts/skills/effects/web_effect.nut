@@ -5,7 +5,7 @@
     "original": "]-50%[/color] Melee Defense",
     "translation": "]-50%[/color] 近战防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Melee Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Melee Defense'"
   },
   {
     "ID": 293421785,
@@ -13,7 +13,7 @@
     "original": "]-50%[/color] Ranged Defense",
     "translation": "]-50%[/color] 远程防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Ranged Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Ranged Defense'"
   },
   {
     "ID": 293421786,
@@ -21,7 +21,7 @@
     "original": "]-50%[/color] Damage",
     "translation": "]-50%[/color] 伤害",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Damage'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Damage'"
   },
   {
     "ID": 293421787,
@@ -29,7 +29,7 @@
     "original": "]-50%[/color] Initiative",
     "translation": "]-50%[/color] 主动性",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Initiative'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Initiative'"
   },
   {
     "ID": 293421788,
@@ -37,7 +37,7 @@
     "original": "]Unable to move[/color]",
     "translation": "]无法移动[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Unable to move[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Unable to move[/color]'"
   },
   {
     "ID": 293421789,
@@ -53,7 +53,7 @@
     "original": "]Twice as much damage received by a Webknecht's attack will ignore armor[/color]",
     "translation": "]所受来自蛛魔的攻击将所造成两倍伤害，且忽视护甲[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + \"]Twice as much damage received by a Webknecht's attack will ignore armor[/color]\""
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + \"]Twice as much damage received by a Webknecht's attack will ignore armor[/color]\""
   },
   {
     "ID": 293421791,

@@ -5,7 +5,7 @@
     "original": "[/color] extra fatigue",
     "translation": "[/color] 额外疲劳值",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
   },
   {
     "ID": 293419880,
@@ -13,7 +13,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
     "ID": 293419881,
@@ -37,7 +37,7 @@
     "original": "Inflicts [color=",
     "translation": "造成 [color=",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
   },
   {
     "ID": 293419884,
@@ -45,7 +45,7 @@
     "original": "Has a range of [color=",
     "translation": "攻击范围为 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
   },
   {
     "ID": 293419885,
@@ -53,7 +53,7 @@
     "original": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
     "translation": "]-15%[/color]攻击近身敌人的命中惩罚，因为武器过于笨重",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
     "ID": 293419886,
@@ -69,6 +69,6 @@
     "original": "[/color] tiles",
     "translation": "[/color] 格",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
   }
 ]

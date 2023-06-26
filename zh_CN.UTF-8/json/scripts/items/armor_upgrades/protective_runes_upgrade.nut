@@ -29,6 +29,6 @@
     "original": "]+20[/color] Resolve at morale checks against fear, panic or mind control effects",
     "translation": "]+20[/color] 决心，面对恐惧、恐慌或精神控制的士气检查时",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+20[/color] Resolve at morale checks against fear, panic or mind control effects'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+20[/color] Resolve at morale checks against fear, panic or mind control effects'"
   }
 ]

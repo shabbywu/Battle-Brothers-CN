@@ -13,7 +13,7 @@
     "original": "the Assassin",
     "translation": "刺客(the Assassin)",
     "stage": 5,
-    "context": "'the Assassin'"
+    "context": "actor.setTitle('the Assassin')"
   },
   {
     "ID": 293420779,

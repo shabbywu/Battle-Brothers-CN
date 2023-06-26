@@ -13,7 +13,7 @@
     "original": "Once per battle, upon receiving a killing blow, survive instead and regain full health",
     "translation": "每场战斗一次，在遭受致命伤害时抵抗该次伤害并恢复所有生命值",
     "stage": 1,
-    "context": "'text' = 'Once per battle, upon receiving a killing blow, survive instead and regain full health'"
+    "context": "text = 'Once per battle, upon receiving a killing blow, survive instead and regain full health'"
   },
   {
     "ID": 293421606,
@@ -21,7 +21,7 @@
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
     "stage": 1,
-    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
+    "context": "text = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421607,

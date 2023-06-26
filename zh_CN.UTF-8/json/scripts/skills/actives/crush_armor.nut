@@ -13,7 +13,7 @@
     "original": "[/color] damage to hitpoints that ignores armor",
     "translation": "[/color]无视护甲的生命值伤害",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] damage to hitpoints that ignores armor'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] damage to hitpoints that ignores armor'"
   },
   {
     "ID": 293419890,
@@ -21,7 +21,7 @@
     "original": "Inflicts [color=",
     "translation": "造成 [color=",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] damage to hitpoints that ignores armor'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] damage to hitpoints that ignores armor'"
   },
   {
     "ID": 293419891,
@@ -29,7 +29,7 @@
     "original": "[/color] damage to armor",
     "translation": "[/color] 护甲伤害",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_armor_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_armor_max + '[/color] damage to armor'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_armor_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_armor_max + '[/color] damage to armor'"
   },
   {
     "ID": 293419892,
@@ -45,6 +45,6 @@
     "original": "[/color] - [color=",
     "translation": "[/color] - [color=",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_armor_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_armor_max + '[/color] damage to armor'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_armor_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_armor_max + '[/color] damage to armor'"
   }
 ]

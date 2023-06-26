@@ -5,7 +5,7 @@
     "original": "This location has fortifications",
     "translation": "这个地方有防御工事",
     "stage": 5,
-    "context": "'text' = 'This location has fortifications'"
+    "context": "text = 'This location has fortifications'"
   },
   {
     "ID": 293410595,
@@ -13,7 +13,7 @@
     "original": "Unknown garrison",
     "translation": "驻军未知",
     "stage": 5,
-    "context": "'text' = 'Unknown garrison'"
+    "context": "text = 'Unknown garrison'"
   },
   {
     "ID": 293410596,
@@ -29,6 +29,6 @@
     "original": "This location is ",
     "translation": "这个地方在",
     "stage": 5,
-    "context": "'text' = 'This location is ' + this.Const.Strings.TerrainAlternative[this.getTile().Type]"
+    "context": "text = 'This location is ' + this.Const.Strings.TerrainAlternative[this.getTile().Type]"
   }
 ]

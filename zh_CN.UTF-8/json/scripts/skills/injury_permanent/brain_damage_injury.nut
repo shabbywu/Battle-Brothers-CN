@@ -5,7 +5,7 @@
     "original": "]+15%[/color] Resolve",
     "translation": "]+15%[/color] 决心",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+15%[/color] Resolve'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+15%[/color] Resolve'"
   },
   {
     "ID": 293422085,
@@ -13,7 +13,7 @@
     "original": "]-25%[/color] Experience Gain",
     "translation": "]-25%[/color] 经验获取",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Experience Gain'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Experience Gain'"
   },
   {
     "ID": 293422086,
@@ -21,7 +21,7 @@
     "original": "]-25%[/color] Initiative",
     "translation": "]-25%[/color] 主动性",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Initiative'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Initiative'"
   },
   {
     "ID": 293422087,

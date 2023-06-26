@@ -5,7 +5,7 @@
     "original": "Is destroyed on use",
     "translation": "使用后摧毁",
     "stage": 1,
-    "context": "'text' = 'Is destroyed on use'"
+    "context": "text = 'Is destroyed on use'"
   },
   {
     "ID": 293418939,
@@ -13,7 +13,7 @@
     "original": "]7[/color] tiles ablaze with burning fire for 2 rounds",
     "translation": "]7[/color]个格子的区域，持续2回合。",
     "stage": 1,
-    "context": "'text' = 'Will set [color=' + this.Const.UI.Color.DamageValue + ']7[/color] tiles ablaze with burning fire for 2 rounds'"
+    "context": "text = 'Will set [color=' + this.Const.UI.Color.DamageValue + ']7[/color] tiles ablaze with burning fire for 2 rounds'"
   },
   {
     "ID": 293418940,
@@ -29,7 +29,7 @@
     "original": "Worn in Offhand",
     "translation": "副手持用",
     "stage": 1,
-    "context": "'text' = 'Worn in Offhand'"
+    "context": "text = 'Worn in Offhand'"
   },
   {
     "ID": 293418942,
@@ -37,7 +37,7 @@
     "original": "Range of [color=",
     "translation": "使用范围为[color=",
     "stage": 1,
-    "context": "'text' = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
+    "context": "text = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
   },
   {
     "ID": 293418943,
@@ -53,7 +53,7 @@
     "original": "Will set [color=",
     "translation": "可点燃[color=",
     "stage": 1,
-    "context": "'text' = 'Will set [color=' + this.Const.UI.Color.DamageValue + ']7[/color] tiles ablaze with burning fire for 2 rounds'"
+    "context": "text = 'Will set [color=' + this.Const.UI.Color.DamageValue + ']7[/color] tiles ablaze with burning fire for 2 rounds'"
   },
   {
     "ID": 293418945,
@@ -61,6 +61,6 @@
     "original": "[/color] tiles",
     "translation": "[/color] 格",
     "stage": 5,
-    "context": "'text' = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
+    "context": "text = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
   }
 ]

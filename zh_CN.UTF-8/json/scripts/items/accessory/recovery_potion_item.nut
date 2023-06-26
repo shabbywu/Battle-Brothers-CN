@@ -13,7 +13,7 @@
     "original": "Overindulgence may lead to sickness",
     "translation": "过度使用可能导致疾病",
     "stage": 1,
-    "context": "'text' = 'Overindulgence may lead to sickness'"
+    "context": "text = 'Overindulgence may lead to sickness'"
   },
   {
     "ID": 293417492,
@@ -21,7 +21,7 @@
     "original": "]+4[/color] Fatigue Recovery per turn",
     "translation": "]+4[/color] 每回合疲劳值恢复量",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+4[/color] Fatigue Recovery per turn'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+4[/color] Fatigue Recovery per turn'"
   },
   {
     "ID": 293417493,
@@ -29,7 +29,7 @@
     "original": "Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.",
     "translation": "右键单击或拖动到当前选定的角色上进行饮用。 此物品会在使用过程中消耗掉。",
     "stage": 1,
-    "context": "'text' = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
+    "context": "text = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
   },
   {
     "ID": 293417494,

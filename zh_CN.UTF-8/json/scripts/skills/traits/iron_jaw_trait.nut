@@ -37,7 +37,7 @@
     "original": "The threshold to sustain injuries on getting hit is increased by [color=",
     "translation": "被命中时遭受伤残的伤害阈值提高 [color=",
     "stage": 5,
-    "context": "'text' = 'The threshold to sustain injuries on getting hit is increased by [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color]'"
+    "context": "text = 'The threshold to sustain injuries on getting hit is increased by [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color]'"
   },
   {
     "ID": 293422580,

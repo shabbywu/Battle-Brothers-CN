@@ -13,7 +13,7 @@
     "original": "Will start combat at confident morale if permitted by mood",
     "translation": "如果心情允许，将以自信的士气开始战斗",
     "stage": 5,
-    "context": "'text' = 'Will start combat at confident morale if permitted by mood'"
+    "context": "text = 'Will start combat at confident morale if permitted by mood'"
   },
   {
     "ID": 293422469,

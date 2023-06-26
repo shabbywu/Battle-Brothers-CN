@@ -21,7 +21,7 @@
     "original": "The company gained renown",
     "translation": "战团获得了名望",
     "stage": 5,
-    "context": "'text' = 'The company gained renown'"
+    "context": "text = 'The company gained renown'"
   },
   {
     "ID": 293416883,
@@ -29,7 +29,7 @@
     "original": "You went above and beyond in fulfilling the Oath",
     "translation": "你在履行誓言方面做得非常出色。",
     "stage": 1,
-    "context": "'text' = 'You went above and beyond in fulfilling the Oath'"
+    "context": "text = 'You went above and beyond in fulfilling the Oath'"
   },
   {
     "ID": 293416884,

@@ -5,7 +5,7 @@
     "original": "]2[/color] tiles",
     "translation": "]2[/color] 格",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2[/color] tiles'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2[/color] tiles'"
   },
   {
     "ID": 293420322,
@@ -13,7 +13,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit'"
   },
   {
     "ID": 293420323,
@@ -29,7 +29,7 @@
     "original": "]+5%[/color] chance to hit",
     "translation": "]+5%[/color] 命中几率",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit'"
   },
   {
     "ID": 293420325,
@@ -37,7 +37,7 @@
     "original": "Has a range of [color=",
     "translation": "攻击范围为 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2[/color] tiles'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2[/color] tiles'"
   },
   {
     "ID": 293420326,
@@ -45,7 +45,7 @@
     "original": "Inflicts additional [color=",
     "translation": "如果没有盔甲吸收，则造成额外的 [color=",
     "stage": 1,
-    "context": "'text' = 'Inflicts additional [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] bleeding damage over time if not stopped by armor'"
+    "context": "text = 'Inflicts additional [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] bleeding damage over time if not stopped by armor'"
   },
   {
     "ID": 293420327,
@@ -53,7 +53,7 @@
     "original": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
     "translation": "]-15%[/color]攻击近身敌人的命中惩罚，因为武器过于笨重",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
     "ID": 293420328,
@@ -61,7 +61,7 @@
     "original": "[/color] bleeding damage over time if not stopped by armor",
     "translation": "[/color] 点持续的流血伤害",
     "stage": 1,
-    "context": "'text' = 'Inflicts additional [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] bleeding damage over time if not stopped by armor'"
+    "context": "text = 'Inflicts additional [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] bleeding damage over time if not stopped by armor'"
   },
   {
     "ID": 293420329,

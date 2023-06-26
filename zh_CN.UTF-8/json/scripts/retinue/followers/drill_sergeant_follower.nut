@@ -37,6 +37,6 @@
     "original": "Retired a man with a permanent injury that isn't indebted",
     "translation": "让一个受了永久性损伤不是负债者的人退休",
     "stage": 1,
-    "context": "'Text' = \"Retired a man with a permanent injury that isn't indebted\""
+    "context": "Text = \"Retired a man with a permanent injury that isn't indebted\""
   }
 ]

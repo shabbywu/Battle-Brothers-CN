@@ -5,7 +5,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-5%[/color] chance to hit'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-5%[/color] chance to hit'"
   },
   {
     "ID": 293420026,
@@ -13,7 +13,7 @@
     "original": "]-5%[/color] chance to hit",
     "translation": "]-5%[/color] 命中惩罚",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-5%[/color] chance to hit'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-5%[/color] chance to hit'"
   },
   {
     "ID": 293420027,
@@ -37,6 +37,6 @@
     "original": "Can hit up to 3 targets",
     "translation": "最多可以击中 3 个目标",
     "stage": 5,
-    "context": "'text' = 'Can hit up to 3 targets'"
+    "context": "text = 'Can hit up to 3 targets'"
   }
 ]

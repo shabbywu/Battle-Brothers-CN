@@ -5,7 +5,7 @@
     "original": "Is destroyed on use",
     "translation": "使用后摧毁",
     "stage": 1,
-    "context": "'text' = 'Is destroyed on use'"
+    "context": "text = 'Is destroyed on use'"
   },
   {
     "ID": 293418930,
@@ -13,7 +13,7 @@
     "original": "Worn in Offhand",
     "translation": "副手持用",
     "stage": 1,
-    "context": "'text' = 'Worn in Offhand'"
+    "context": "text = 'Worn in Offhand'"
   },
   {
     "ID": 293418931,
@@ -21,7 +21,7 @@
     "original": "Range of [color=",
     "translation": "使用范围为[color=",
     "stage": 1,
-    "context": "'text' = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
+    "context": "text = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
   },
   {
     "ID": 293418932,
@@ -37,7 +37,7 @@
     "original": "Will give up to [color=",
     "translation": "可使最多[color=",
     "stage": 1,
-    "context": "'text' = 'Will give up to [color=' + this.Const.UI.Color.DamageValue + ']7[/color] targets the Dazed status effect for 2 turns'"
+    "context": "text = 'Will give up to [color=' + this.Const.UI.Color.DamageValue + ']7[/color] targets the Dazed status effect for 2 turns'"
   },
   {
     "ID": 293418934,
@@ -45,7 +45,7 @@
     "original": "]7[/color] targets the Dazed status effect for 2 turns",
     "translation": "]7[/color]个目标茫然2回合。",
     "stage": 1,
-    "context": "'text' = 'Will give up to [color=' + this.Const.UI.Color.DamageValue + ']7[/color] targets the Dazed status effect for 2 turns'"
+    "context": "text = 'Will give up to [color=' + this.Const.UI.Color.DamageValue + ']7[/color] targets the Dazed status effect for 2 turns'"
   },
   {
     "ID": 293418935,
@@ -61,6 +61,6 @@
     "original": "[/color] tiles",
     "translation": "[/color] 格",
     "stage": 5,
-    "context": "'text' = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
+    "context": "text = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
   }
 ]

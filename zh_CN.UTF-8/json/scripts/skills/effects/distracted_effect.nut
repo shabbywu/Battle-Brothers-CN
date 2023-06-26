@@ -5,7 +5,7 @@
     "original": "]-35%[/color] Initiative",
     "translation": "]-35%[/color] 主动性",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-35%[/color] Initiative'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-35%[/color] Initiative'"
   },
   {
     "ID": 293421470,
@@ -21,7 +21,7 @@
     "original": "]-35%[/color] Damage",
     "translation": "]-35%[/color] 伤害",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-35%[/color] Damage'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-35%[/color] Damage'"
   },
   {
     "ID": 293421472,

@@ -21,7 +21,7 @@
     "original": "We need to be paid more per head we return with.",
     "translation": "我们需要你为每个带回的人头付更多的钱。",
     "stage": 5,
-    "context": "'Text' = this.Contract.m.Payment.Count == 0 ? 'We need to be paid per head we return with.' : 'We need to be paid more per head we return with.'"
+    "context": "Text = this.Contract.m.Payment.Count == 0 ? 'We need to be paid per head we return with.' : 'We need to be paid more per head we return with.'"
   },
   {
     "ID": 293410113,
@@ -37,7 +37,7 @@
     "original": "Get ",
     "translation": "获得 ",
     "stage": 5,
-    "context": "this.Contract.m.BulletpointsPayment.push('Get ' + this.Contract.m.Payment.getPerCount() + ' crowns per head you bring back, up to ' + this.Contract.m.Payment.MaxCount + ' total')"
+    "context": "this.Contract.m.BulletpointsPayment.push('Get ' + this.Contract.m.Payment.getInAdvance() + ' crowns in advance')"
   },
   {
     "ID": 293410115,
@@ -61,7 +61,7 @@
     "original": "Negotiations",
     "translation": "谈判",
     "stage": 5,
-    "context": "'Title' = 'Negotiations'"
+    "context": "Title = 'Negotiations'"
   },
   {
     "ID": 293410118,
@@ -85,7 +85,7 @@
     "original": " total",
     "translation": "",
     "stage": 5,
-    "context": "this.Contract.m.BulletpointsPayment.push('Get ' + this.Contract.m.Payment.getPerCount() + ' crowns per head you arrive with, up to ' + this.Contract.m.Payment.MaxCount + ' total')"
+    "context": "this.Contract.m.BulletpointsPayment.push('Get ' + this.Contract.m.Payment.getPerCount() + ' crowns per head you bring back, up to ' + this.Contract.m.Payment.MaxCount + ' total')"
   },
   {
     "ID": 293410121,
@@ -101,7 +101,7 @@
     "original": "I accept this contract.",
     "translation": "我接受这份合同。",
     "stage": 5,
-    "context": "'Text' = 'I accept this contract.'"
+    "context": "Text = 'I accept this contract.'"
   },
   {
     "ID": 293410123,
@@ -133,7 +133,7 @@
     "original": "We need to be paid per head we arrive with.",
     "translation": "我们需要按照我们带回来的人头数支付报酬。",
     "stage": 5,
-    "context": "'Text' = this.Contract.m.Payment.Count == 0 ? 'We need to be paid per head we arrive with.' : 'We need to be paid more per head we arrive with.'"
+    "context": "Text = this.Contract.m.Payment.Count == 0 ? 'We need to be paid per head we arrive with.' : 'We need to be paid more per head we arrive with.'"
   },
   {
     "ID": 293410127,
@@ -141,7 +141,7 @@
     "original": "Forget it, this isn't worth it.",
     "translation": "算了吧，这不值得。",
     "stage": 5,
-    "context": "'Text' = \"Forget it, this isn't worth it.\""
+    "context": "Text = \"Forget it, this isn't worth it.\""
   },
   {
     "ID": 293410128,
@@ -173,7 +173,7 @@
     "original": "We need more payment in advance.",
     "translation": "我们需要更多的预付款。",
     "stage": 5,
-    "context": "'Text' = this.Contract.m.Payment.Advance == 0 ? 'We need payment in advance.' : 'We need more payment in advance.'"
+    "context": "Text = this.Contract.m.Payment.Advance == 0 ? 'We need payment in advance.' : 'We need more payment in advance.'"
   },
   {
     "ID": 293410132,
@@ -181,7 +181,7 @@
     "original": "I accept your offer.",
     "translation": "我接受你的提议。",
     "stage": 5,
-    "context": "'Text' = 'I accept your offer.'"
+    "context": "Text = 'I accept your offer.'"
   },
   {
     "ID": 293410133,
@@ -197,7 +197,7 @@
     "original": "On second thought, I decline this contract.",
     "translation": "经过再三考虑，我拒绝这份合同。",
     "stage": 5,
-    "context": "'Text' = 'On second thought, I decline this contract.'"
+    "context": "Text = 'On second thought, I decline this contract.'"
   },
   {
     "ID": 293410135,
@@ -221,7 +221,7 @@
     "original": "We need to be paid per head we return with.",
     "translation": "我们需要按拿回的人头支付报酬。",
     "stage": 5,
-    "context": "'Text' = this.Contract.m.Payment.Count == 0 ? 'We need to be paid per head we return with.' : 'We need to be paid more per head we return with.'"
+    "context": "Text = this.Contract.m.Payment.Count == 0 ? 'We need to be paid per head we return with.' : 'We need to be paid more per head we return with.'"
   },
   {
     "ID": 293410138,
@@ -229,7 +229,7 @@
     "original": "We need to be paid more for this.",
     "translation": "我们需要更多的报酬。",
     "stage": 5,
-    "context": "'Text' = 'We need to be paid more for this.'"
+    "context": "Text = 'We need to be paid more for this.'"
   },
   {
     "ID": 293410139,
@@ -237,7 +237,7 @@
     "original": "We won't risk our lives for such meager pay...",
     "translation": "我们不会为了这么微薄的报酬而冒生命危险……",
     "stage": 5,
-    "context": "'Text' = \"We won't risk our lives for such meager pay...\""
+    "context": "Text = \"We won't risk our lives for such meager pay...\""
   },
   {
     "ID": 293410140,
@@ -245,7 +245,7 @@
     "original": "We need payment once the work is done.",
     "translation": "我们需要在工作完成后马上拿到报酬。",
     "stage": 5,
-    "context": "'Text' = this.Contract.m.Payment.Completion == 0 ? 'We need payment once the work is done.' : 'We need more payment once the work is done.'"
+    "context": "Text = this.Contract.m.Payment.Completion == 0 ? 'We need payment once the work is done.' : 'We need more payment once the work is done.'"
   },
   {
     "ID": 293410141,
@@ -261,7 +261,7 @@
     "original": "We need more payment once the work is done.",
     "translation": "我们需要在工作完成后拿到更多的报酬。",
     "stage": 5,
-    "context": "'Text' = this.Contract.m.Payment.Completion == 0 ? 'We need payment once the work is done.' : 'We need more payment once the work is done.'"
+    "context": "Text = this.Contract.m.Payment.Completion == 0 ? 'We need payment once the work is done.' : 'We need more payment once the work is done.'"
   },
   {
     "ID": 293410143,
@@ -269,7 +269,7 @@
     "original": "We need payment in advance.",
     "translation": "我们需要预付款。",
     "stage": 5,
-    "context": "'Text' = this.Contract.m.Payment.Advance == 0 ? 'We need payment in advance.' : 'We need more payment in advance.'"
+    "context": "Text = this.Contract.m.Payment.Advance == 0 ? 'We need payment in advance.' : 'We need more payment in advance.'"
   },
   {
     "ID": 293410144,
@@ -277,7 +277,7 @@
     "original": "I'll need some time to think about this.",
     "translation": "我需要一些时间来考虑考虑。",
     "stage": 5,
-    "context": "'Text' = \"I'll need some time to think about this.\""
+    "context": "Text = \"I'll need some time to think about this.\""
   },
   {
     "ID": 293410145,
@@ -293,7 +293,7 @@
     "original": "[img]gfx/ui/events/event_74.png[/img]{%SPEECH_START%You act as if you were the only ones to hold a sword for coin. I think I'll look elsewhere for the men I need. Good day.%SPEECH_OFF% | %SPEECH_START%My patience has limits, too, and I think I'm wasting my time here.%SPEECH_OFF% | %SPEECH_START%I've had enough of this! I'm sure I'll find someone else to do the job!%SPEECH_OFF% | %SPEECH_START%Do not insult my intelligence! Forget about this contract. We're done.%SPEECH_OFF% | He's face turns red with anger.%SPEECH_ON%Get out of here, I'm not in the habit of making deals with greedy devils!%SPEECH_OFF% | He sighs. %SPEECH_ON%Just... forget it. I shouldn't have trusted you in the first place. Leave me so I can look for other, more sensible men.%SPEECH_OFF% | %SPEECH_START%I really thought we had a good relationship here. But know that I can only be pushed so far. I don't think this is working out. I'll take my leave.%SPEECH_OFF% | %SPEECH_ON%This has been an utter waste of time for me. Don't bother coming back until you learned some reason.%SPEECH_OFF%}",
     "translation": "[img]gfx/ui/events/event_74.png[/img]{%SPEECH_START%你表现得好像你们是世上唯一能用剑换钱的人。我想我会去找其他需要的人。祝你好运。%SPEECH_OFF% | %SPEECH_START%我的耐心也是有限的，我想我在这里是在浪费时间。%SPEECH_OFF% | %SPEECH_START%我受够了！我肯定我会找到其他人来做这项工作！%SPEECH_OFF% | %SPEECH_START%别侮辱我的智商！忘了这份合同吧。咱们到此为止。%SPEECH_OFF% | 他的脸气得通红。%SPEECH_ON%滚出去，我没有和贪婪的魔鬼做交易的习惯！%SPEECH_OFF% | 他叹了口气。%SPEECH_ON%就……算了吧。我一开始就不该相信你。你走吧，这样我就可以去找其他更明事理的人了。%SPEECH_OFF% | %SPEECH_START%我当真还以为咱俩关系还不错。但这已经超出我的极限了。我觉得这不行，告辞。%SPEECH_OFF% | %SPEECH_ON%这对我来说完全是浪费时间。要是没想明白就别再来找我了。%SPEECH_OFF%}",
     "stage": 5,
-    "context": "'Text' = \"[img]gfx/ui/events/event_74.png[/img]{%SPEECH_START%You act as if you were the only ones to hold a sword for coin. I think I'll look elsewhere for the men I need. Good day.%SPEECH_OFF% | %SPEECH_START%My patience has limits, too, and I think I'm wasting my time here.%SPEECH_OFF% | %SPEECH_START%I've had enough of this! I'm sure I'll find someone else to do the job!%SPEECH_OFF% | %SPEECH_START%Do not insult my intelligence! Forget about this contract. We're done.%SPEECH_OFF% | He's face turns red with anger.%SPEECH_ON%Get out of here, I'm not in the habit of making deals with greedy devils!%SPEECH_OFF% | He sighs. %SPEECH_ON%Just... forget it. I shouldn't have trusted you in the first place. Leave me so I can look for other, more sensible men.%SPEECH_OFF% | %SPEECH_START%I really thought we had a good relationship here. But know that I can only be pushed so far. I don't think this is working out. I'll take my leave.%SPEECH_OFF% | %SPEECH_ON%This has been an utter waste of time for me. Don't bother coming back until you learned some reason.%SPEECH_OFF%}\""
+    "context": "Text = \"[img]gfx/ui/events/event_74.png[/img]{%SPEECH_START%You act as if you were the only ones to hold a sword for coin. I think I'll look elsewhere for the men I need. Good day.%SPEECH_OFF% | %SPEECH_START%My patience has limits, too, and I think I'm wasting my time here.%SPEECH_OFF% | %SPEECH_START%I've had enough of this! I'm sure I'll find someone else to do the job!%SPEECH_OFF% | %SPEECH_START%Do not insult my intelligence! Forget about this contract. We're done.%SPEECH_OFF% | He's face turns red with anger.%SPEECH_ON%Get out of here, I'm not in the habit of making deals with greedy devils!%SPEECH_OFF% | He sighs. %SPEECH_ON%Just... forget it. I shouldn't have trusted you in the first place. Leave me so I can look for other, more sensible men.%SPEECH_OFF% | %SPEECH_START%I really thought we had a good relationship here. But know that I can only be pushed so far. I don't think this is working out. I'll take my leave.%SPEECH_OFF% | %SPEECH_ON%This has been an utter waste of time for me. Don't bother coming back until you learned some reason.%SPEECH_OFF%}\""
   },
   {
     "ID": 293410147,
@@ -301,7 +301,7 @@
     "original": "We need to be paid more per head we arrive with.",
     "translation": "我们需要你为我们带来的每个人头支付更多的报酬。",
     "stage": 5,
-    "context": "'Text' = this.Contract.m.Payment.Count == 0 ? 'We need to be paid per head we arrive with.' : 'We need to be paid more per head we arrive with.'"
+    "context": "Text = this.Contract.m.Payment.Count == 0 ? 'We need to be paid per head we arrive with.' : 'We need to be paid more per head we arrive with.'"
   },
   {
     "ID": 293410148,
@@ -325,6 +325,6 @@
     "original": "The contract you negotiated is as follows. Do you agree to the terms?",
     "translation": "你们协商的合同如下。你同意这些条款吗？",
     "stage": 5,
-    "context": "'Text' = 'The contract you negotiated is as follows. Do you agree to the terms?'"
+    "context": "Text = 'The contract you negotiated is as follows. Do you agree to the terms?'"
   }
 ]

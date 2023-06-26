@@ -5,7 +5,7 @@
     "original": "%[/color] Damage",
     "translation": "%[/color] 伤害",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 5 * this.m.TurnsLeft + '%[/color] Damage'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 5 * this.m.TurnsLeft + '%[/color] Damage'"
   },
   {
     "ID": 293421719,
@@ -13,7 +13,7 @@
     "original": "%[/color] Melee Skill",
     "translation": "%[/color] 近战技能",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 5 * this.m.TurnsLeft + '%[/color] Melee Skill'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 5 * this.m.TurnsLeft + '%[/color] Melee Skill'"
   },
   {
     "ID": 293421720,
@@ -21,7 +21,7 @@
     "original": "%[/color] Ranged Defense",
     "translation": "%[/color] 远程防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 5 * this.m.TurnsLeft + '%[/color] Ranged Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 5 * this.m.TurnsLeft + '%[/color] Ranged Defense'"
   },
   {
     "ID": 293421721,
@@ -37,7 +37,7 @@
     "original": "%[/color] Ranged Skill",
     "translation": "%[/color] 远程技能",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 5 * this.m.TurnsLeft + '%[/color] Ranged Skill'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 5 * this.m.TurnsLeft + '%[/color] Ranged Skill'"
   },
   {
     "ID": 293421723,
@@ -53,7 +53,7 @@
     "original": "%[/color] Initiative",
     "translation": "%[/color] 主动性",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 5 * this.m.TurnsLeft + '%[/color] Initiative'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 5 * this.m.TurnsLeft + '%[/color] Initiative'"
   },
   {
     "ID": 293421725,
@@ -61,7 +61,7 @@
     "original": "%[/color] Melee Defense",
     "translation": "%[/color] 近战防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 5 * this.m.TurnsLeft + '%[/color] Melee Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 5 * this.m.TurnsLeft + '%[/color] Melee Defense'"
   },
   {
     "ID": 293421726,
@@ -77,7 +77,7 @@
     "original": "%[/color] Resolve",
     "translation": "%[/color] 决心",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 5 * this.m.TurnsLeft + '%[/color] Resolve'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 5 * this.m.TurnsLeft + '%[/color] Resolve'"
   },
   {
     "ID": 293421728,

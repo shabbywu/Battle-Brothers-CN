@@ -5,7 +5,7 @@
     "original": "Reduces the time it takes to heal from any injury by one day, down to a mininum of one day",
     "translation": "所有伤残的恢复时长减少一天，最短一天",
     "stage": 1,
-    "context": "'text' = 'Reduces the time it takes to heal from any injury by one day, down to a mininum of one day'"
+    "context": "text = 'Reduces the time it takes to heal from any injury by one day, down to a mininum of one day'"
   },
   {
     "ID": 293421609,
@@ -13,7 +13,7 @@
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
     "stage": 1,
-    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
+    "context": "text = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421610,

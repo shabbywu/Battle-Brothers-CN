@@ -13,7 +13,7 @@
     "original": "Acts in ",
     "translation": "行动于",
     "stage": 5,
-    "context": "'text' = 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
+    "context": "text = 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
   },
   {
     "ID": 293410234,
@@ -21,7 +21,7 @@
     "original": "'s ",
     "translation": "的",
     "stage": 5,
-    "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(this) + \"'s \" + this.Const.Strings.BodyPartName[_hitInfo.BodyPart] + ' is hit for [b]' + this.Math.floor(damage) + '[/b] damage and suffers ' + injury.getNameOnly() + '!')"
+    "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(this) + \"'s \" + this.Const.Strings.BodyPartName[_hitInfo.BodyPart] + ' is hit for [b]' + this.Math.floor(damage) + '[/b] damage')"
   },
   {
     "ID": 293410235,
@@ -53,7 +53,7 @@
     "original": " has rallied",
     "translation": " 振作起来",
     "stage": 1,
-    "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(this) + ' has rallied')"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this) + ' has rallied')"
   },
   {
     "ID": 293410239,
@@ -77,7 +77,7 @@
     "original": " turns",
     "translation": "回合后",
     "stage": 5,
-    "context": "'text' = 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
+    "context": "text = 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
   },
   {
     "ID": 293410242,
@@ -93,7 +93,7 @@
     "original": "]Not currently in sight[/color]",
     "translation": "]目前不在视野范围内[/color]",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Not currently in sight[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Not currently in sight[/color]'"
   },
   {
     "ID": 293410244,
@@ -141,7 +141,7 @@
     "original": "%[/color] chance to hit",
     "translation": "%[/color] 命中几率",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']' + hitchance + '%[/color] chance to hit'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']' + hitchance + '%[/color] chance to hit'"
   },
   {
     "ID": 293410250,
@@ -149,7 +149,7 @@
     "original": "Hidden Opponent",
     "translation": "隐藏对手",
     "stage": 1,
-    "context": "'text' = 'Hidden Opponent'"
+    "context": "text = 'Hidden Opponent'"
   },
   {
     "ID": 293410251,
@@ -157,7 +157,7 @@
     "original": "Acting right now!",
     "translation": "现在行动！",
     "stage": 5,
-    "context": "'text' = 'Acting right now!'"
+    "context": "text = 'Acting right now!'"
   },
   {
     "ID": 293410252,
@@ -165,7 +165,7 @@
     "original": "Turn done",
     "translation": "回合结束",
     "stage": 5,
-    "context": "'text' = 'Turn done'"
+    "context": "text = 'Turn done'"
   },
   {
     "ID": 293410253,
@@ -181,7 +181,7 @@
     "original": "instance",
     "translation": "instance",
     "stage": 9,
-    "context": "typeof _actor == 'instance' || typeof _actor == 'table'"
+    "context": "typeof _attacker == 'instance'"
   },
   {
     "ID": 293410255,
@@ -245,6 +245,6 @@
     "original": " turn",
     "translation": "回合后",
     "stage": 5,
-    "context": "'text' = 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
+    "context": "text = 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
   }
 ]

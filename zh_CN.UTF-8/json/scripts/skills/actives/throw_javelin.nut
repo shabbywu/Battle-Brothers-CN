@@ -5,7 +5,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+' + 30 + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -10 + this.m.AdditionalHitChance + '%[/color] per tile of distance'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] javelins left'"
   },
   {
     "ID": 293420632,
@@ -21,7 +21,7 @@
     "original": "[/color] tiles on even ground, more if throwing downhill",
     "translation": "[/color] 格(在平坦地面上), 如果向低处投掷会更远。",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if throwing downhill'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if throwing downhill'"
   },
   {
     "ID": 293420634,
@@ -29,7 +29,7 @@
     "original": "%[/color] per tile of distance",
     "translation": "%[/color] 命中惩罚",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + 30 + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -10 + this.m.AdditionalHitChance + '%[/color] per tile of distance'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+' + 30 + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -10 + this.m.AdditionalHitChance + '%[/color] per tile of distance'"
   },
   {
     "ID": 293420635,
@@ -37,7 +37,7 @@
     "original": "%[/color] chance to hit, and [color=",
     "translation": "%[/color] 额外命中，同时每格距离有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + 30 + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -10 + this.m.AdditionalHitChance + '%[/color] per tile of distance'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + 30 + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -10 + this.m.AdditionalHitChance + '%[/color] per tile of distance'"
   },
   {
     "ID": 293420636,
@@ -53,7 +53,7 @@
     "original": "Has a range of [color=",
     "translation": "攻击范围为 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if throwing downhill'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if throwing downhill'"
   },
   {
     "ID": 293420638,
@@ -69,7 +69,7 @@
     "original": "]No javelins left[/color]",
     "translation": "]没有标枪剩余[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']No javelins left[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']No javelins left[/color]'"
   },
   {
     "ID": 293420640,
@@ -77,7 +77,7 @@
     "original": "[/color] javelins left",
     "translation": "[/color] 标枪剩余",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] javelins left'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] javelins left'"
   },
   {
     "ID": 293420641,
@@ -85,6 +85,6 @@
     "original": "]Can not be used because this character is engaged in melee[/color]",
     "translation": "]无法使用，因为此角色已卷入近战[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   }
 ]

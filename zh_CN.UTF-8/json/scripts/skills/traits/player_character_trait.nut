@@ -5,7 +5,7 @@
     "original": "]+10[/color] Resolve",
     "translation": "]+10[/color] 决心",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve'"
   },
   {
     "ID": 293422716,

@@ -5,7 +5,7 @@
     "original": "Venomblood Potion",
     "translation": "毒血药剂",
     "stage": 1,
-    "context": "'potionName' = 'Venomblood Potion'"
+    "context": "potionName = 'Venomblood Potion'"
   },
   {
     "ID": 293418537,
@@ -13,7 +13,7 @@
     "original": "Potion of Blade Dancing",
     "translation": "刀锋舞者药剂",
     "stage": 1,
-    "context": "'potionName' = 'Potion of Blade Dancing'"
+    "context": "potionName = 'Potion of Blade Dancing'"
   },
   {
     "ID": 293418538,
@@ -21,7 +21,7 @@
     "original": "Potion of Malevolence",
     "translation": "怨毒药剂",
     "stage": 1,
-    "context": "'potionName' = 'Potion of Malevolence'"
+    "context": "potionName = 'Potion of Malevolence'"
   },
   {
     "ID": 293418539,
@@ -29,7 +29,7 @@
     "original": "Bloodgate Brew",
     "translation": "血门关药剂",
     "stage": 1,
-    "context": "'potionName' = 'Bloodgate Brew'"
+    "context": "potionName = 'Bloodgate Brew'"
   },
   {
     "ID": 293418540,
@@ -37,7 +37,7 @@
     "original": "Potion of Stoneskin",
     "translation": "石肤药剂",
     "stage": 1,
-    "context": "'potionName' = 'Potion of Stoneskin'"
+    "context": "potionName = 'Potion of Stoneskin'"
   },
   {
     "ID": 293418541,
@@ -45,7 +45,7 @@
     "original": "Quickfang Potion",
     "translation": "迅牙药剂",
     "stage": 1,
-    "context": "'potionName' = 'Quickfang Potion'"
+    "context": "potionName = 'Quickfang Potion'"
   },
   {
     "ID": 293418542,
@@ -53,7 +53,7 @@
     "original": "Webknecht",
     "translation": "蛛魔",
     "stage": 1,
-    "context": "'creatureName' = 'Webknecht'"
+    "context": "creatureName = 'Webknecht'"
   },
   {
     "ID": 293418543,
@@ -61,7 +61,7 @@
     "original": "Ifrit",
     "translation": "伊夫利特",
     "stage": 1,
-    "context": "'creatureName' = 'Ifrit'"
+    "context": "creatureName = 'Ifrit'"
   },
   {
     "ID": 293418544,
@@ -69,7 +69,7 @@
     "original": "Tincture of Emberblood",
     "translation": "灰烬之血药剂",
     "stage": 1,
-    "context": "'potionName' = 'Tincture of Emberblood'"
+    "context": "potionName = 'Tincture of Emberblood'"
   },
   {
     "ID": 293418545,
@@ -77,7 +77,7 @@
     "original": "Draught of Godtree Roots",
     "translation": "神树根须药剂",
     "stage": 1,
-    "context": "'potionName' = 'Draught of Godtree Roots'"
+    "context": "potionName = 'Draught of Godtree Roots'"
   },
   {
     "ID": 293418546,
@@ -85,7 +85,7 @@
     "original": "Hyena",
     "translation": "鬣狗",
     "stage": 1,
-    "context": "'creatureName' = 'Hyena'"
+    "context": "creatureName = 'Hyena'"
   },
   {
     "ID": 293418547,
@@ -93,7 +93,7 @@
     "original": "Tracks your research on the beasts of the world",
     "translation": "记录着战团对各种奇禽异兽的研究成果",
     "stage": 1,
-    "context": "'text' = 'Tracks your research on the beasts of the world'"
+    "context": "text = 'Tracks your research on the beasts of the world'"
   },
   {
     "ID": 293418548,
@@ -101,7 +101,7 @@
     "original": "Hexe",
     "translation": "女巫",
     "stage": 1,
-    "context": "'creatureName' = 'Hexe'"
+    "context": "creatureName = 'Hexe'"
   },
   {
     "ID": 293418549,
@@ -117,7 +117,7 @@
     "original": "Schrat",
     "translation": "树人",
     "stage": 1,
-    "context": "'creatureName' = 'Schrat'"
+    "context": "creatureName = 'Schrat'"
   },
   {
     "ID": 293418551,
@@ -125,7 +125,7 @@
     "original": "Direwolf",
     "translation": "冰原狼",
     "stage": 1,
-    "context": "'creatureName' = 'Direwolf'"
+    "context": "creatureName = 'Direwolf'"
   },
   {
     "ID": 293418552,
@@ -133,7 +133,7 @@
     "original": "Nightking's Draft",
     "translation": "午夜君王药剂",
     "stage": 1,
-    "context": "'potionName' = \"Nightking's Draft\""
+    "context": "potionName = \"Nightking's Draft\""
   },
   {
     "ID": 293418553,
@@ -141,7 +141,7 @@
     "original": "Fool's Treasure Potion",
     "translation": "愚者宝藏药剂",
     "stage": 1,
-    "context": "'potionName' = \"Fool's Treasure Potion\""
+    "context": "potionName = \"Fool's Treasure Potion\""
   },
   {
     "ID": 293418554,
@@ -149,7 +149,7 @@
     "original": "Alp",
     "translation": "梦魇",
     "stage": 1,
-    "context": "'creatureName' = 'Alp'"
+    "context": "creatureName = 'Alp'"
   },
   {
     "ID": 293418555,
@@ -157,7 +157,7 @@
     "original": "Serpent",
     "translation": "大蛇",
     "stage": 1,
-    "context": "'creatureName' = 'Serpent'"
+    "context": "creatureName = 'Serpent'"
   },
   {
     "ID": 293418556,
@@ -165,7 +165,7 @@
     "original": "Nachzehrer",
     "translation": "食尸鬼",
     "stage": 1,
-    "context": "'creatureName' = 'Nachzehrer'"
+    "context": "creatureName = 'Nachzehrer'"
   },
   {
     "ID": 293418557,
@@ -173,7 +173,7 @@
     "original": "Potion of Flesh Knitting",
     "translation": "血肉编织药剂",
     "stage": 1,
-    "context": "'potionName' = 'Potion of Flesh Knitting'"
+    "context": "potionName = 'Potion of Flesh Knitting'"
   },
   {
     "ID": 293418558,

@@ -5,7 +5,7 @@
     "original": "Battle Brothers",
     "translation": "战斗兄弟(Battle Brothers)",
     "stage": 1,
-    "context": "'Name' = 'Battle Brothers'"
+    "context": "Name = 'Battle Brothers'"
   },
   {
     "ID": 293422846,
@@ -61,7 +61,7 @@
     "original": "Did go hungry",
     "translation": "总挨饿",
     "stage": 5,
-    "context": "bro.worsenMood(this.Const.MoodChange.NotEaten, 'Did go hungry')"
+    "context": "bro.worsenMood(this.Const.MoodChange.NotEatenGluttonous, 'Did go hungry')"
   },
   {
     "ID": 293422853,
@@ -125,7 +125,7 @@
     "original": " Points",
     "translation": "积分 (Points)",
     "stage": 1,
-    "context": "'Score' = '' + this.getScore() + ' Points'"
+    "context": "Score = '' + this.getScore() + ' Points'"
   },
   {
     "ID": 293422861,

@@ -5,7 +5,7 @@
     "original": "]-10%[/color] per tile of distance",
     "translation": "]-10%[/color] 命中惩罚",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+30%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] per tile of distance'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+30%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] per tile of distance'"
   },
   {
     "ID": 293420660,
@@ -13,7 +13,7 @@
     "original": "Inflicts [color=",
     "translation": "造成 [color=",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage + '[/color] damage to shields'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage + '[/color] damage to shields'"
   },
   {
     "ID": 293420661,
@@ -29,7 +29,7 @@
     "original": "[/color] damage to shields",
     "translation": "[/color] 盾牌伤害",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage + '[/color] damage to shields'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage + '[/color] damage to shields'"
   },
   {
     "ID": 293420663,
@@ -45,7 +45,7 @@
     "original": "[/color] tiles on even ground, more if throwing downhill",
     "translation": "[/color] 格(在平坦地面上), 如果向低处投掷会更远。",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if throwing downhill'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if throwing downhill'"
   },
   {
     "ID": 293420665,
@@ -85,7 +85,7 @@
     "original": "Has a range of [color=",
     "translation": "攻击范围为 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if throwing downhill'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if throwing downhill'"
   },
   {
     "ID": 293420670,
@@ -93,7 +93,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+30%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] per tile of distance'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+30%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] per tile of distance'"
   },
   {
     "ID": 293420671,
@@ -101,7 +101,7 @@
     "original": "]+30%[/color] chance to hit, and [color=",
     "translation": "]+30%[/color] 额外命中，同时每格距离有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+30%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] per tile of distance'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+30%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] per tile of distance'"
   },
   {
     "ID": 293420672,
@@ -109,7 +109,7 @@
     "original": "]Can not be used because this character is engaged in melee[/color]",
     "translation": "]无法使用，因为此角色已卷入近战[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   },
   {
     "ID": 293420673,

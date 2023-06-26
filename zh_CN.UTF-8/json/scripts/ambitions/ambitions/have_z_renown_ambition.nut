@@ -5,7 +5,7 @@
     "original": "Your look on the worldmap has been updated",
     "translation": "你在世界地图上的形象已经更新了",
     "stage": 1,
-    "context": "'text' = 'Your look on the worldmap has been updated'"
+    "context": "text = 'Your look on the worldmap has been updated'"
   },
   {
     "ID": 293403481,

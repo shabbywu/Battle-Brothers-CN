@@ -13,6 +13,6 @@
     "original": "Can not be used if currently visible to an opponent",
     "translation": "无法在可被敌方看到时使用",
     "stage": 5,
-    "context": "'text' = 'Can not be used if currently visible to an opponent'"
+    "context": "text = 'Can not be used if currently visible to an opponent'"
   }
 ]

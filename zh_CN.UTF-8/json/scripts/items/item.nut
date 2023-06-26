@@ -29,6 +29,6 @@
     "original": "Can be used to craft items",
     "translation": "可用于制作物品",
     "stage": 5,
-    "context": "'text' = 'Can be used to craft items'"
+    "context": "text = 'Can be used to craft items'"
   }
 ]

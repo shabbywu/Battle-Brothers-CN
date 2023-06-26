@@ -13,7 +13,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit'"
   },
   {
     "ID": 293420395,
@@ -21,7 +21,7 @@
     "original": "]+10%[/color] chance to hit",
     "translation": "]+10%[/color] 命中增益",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit'"
   },
   {
     "ID": 293420396,

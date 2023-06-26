@@ -13,7 +13,7 @@
     "original": " day)",
     "translation": "天)",
     "stage": 5,
-    "context": "'text' = 'Light Wounds (' + ht + ' day)'"
+    "context": "text = 'Light Wounds (' + ht + ' day)'"
   },
   {
     "ID": 293410446,
@@ -21,7 +21,7 @@
     "original": "Level ",
     "translation": "等级",
     "stage": 5,
-    "context": "'text' = 'Level ' + this.m.Level"
+    "context": "text = 'Level ' + this.m.Level"
   },
   {
     "ID": 293410447,
@@ -29,7 +29,7 @@
     "original": " daily",
     "translation": " /日",
     "stage": 5,
-    "context": "'text' = 'Paid [img]gfx/ui/tooltips/money.png[/img]' + this.getDailyCost() + ' daily'"
+    "context": "text = 'Paid [img]gfx/ui/tooltips/money.png[/img]' + this.getDailyCost() + ' daily'"
   },
   {
     "ID": 293410448,
@@ -53,7 +53,7 @@
     "original": "%[/color] chance to hit",
     "translation": "%[/color] 命中几率",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']' + _targetedWithSkill.getHitchance(this) + '%[/color] chance to hit'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']' + _targetedWithSkill.getHitchance(this) + '%[/color] chance to hit'"
   },
   {
     "ID": 293410451,
@@ -93,7 +93,7 @@
     "original": "Acting right now!",
     "translation": "现在行动！",
     "stage": 5,
-    "context": "'text' = this.Tactical.TurnSequenceBar.getActiveEntity() == this ? 'Acting right now!' : this.m.IsTurnDone || turnsToGo == null ? 'Turn done' : 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
+    "context": "text = this.Tactical.TurnSequenceBar.getActiveEntity() == this ? 'Acting right now!' : this.m.IsTurnDone || turnsToGo == null ? 'Turn done' : 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
   },
   {
     "ID": 293410456,
@@ -109,7 +109,7 @@
     "original": "Light Wounds (",
     "translation": "轻伤 (",
     "stage": 5,
-    "context": "'text' = 'Light Wounds (' + ht + ' days)'"
+    "context": "text = 'Light Wounds (' + ht + ' days)'"
   },
   {
     "ID": 293410458,
@@ -117,7 +117,7 @@
     "original": " days)",
     "translation": "天)",
     "stage": 5,
-    "context": "'text' = injury.getName() + ' (' + ht.Min + ' days)'"
+    "context": "text = injury.getName() + ' (' + ht.Min + ' days)'"
   },
   {
     "ID": 293410459,
@@ -173,7 +173,7 @@
     "original": "In reserve",
     "translation": "处于后备队",
     "stage": 5,
-    "context": "'text' = 'In reserve'"
+    "context": "text = 'In reserve'"
   },
   {
     "ID": 293410466,
@@ -189,7 +189,7 @@
     "original": " turn",
     "translation": "回合后",
     "stage": 5,
-    "context": "'text' = this.Tactical.TurnSequenceBar.getActiveEntity() == this ? 'Acting right now!' : this.m.IsTurnDone || turnsToGo == null ? 'Turn done' : 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
+    "context": "text = this.Tactical.TurnSequenceBar.getActiveEntity() == this ? 'Acting right now!' : this.m.IsTurnDone || turnsToGo == null ? 'Turn done' : 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
   },
   {
     "ID": 293410468,
@@ -205,7 +205,7 @@
     "original": "In the fighting line",
     "translation": "出战中",
     "stage": 5,
-    "context": "'text' = 'In the fighting line'"
+    "context": "text = 'In the fighting line'"
   },
   {
     "ID": 293410470,
@@ -221,7 +221,7 @@
     "original": "Acts in ",
     "translation": "行动于",
     "stage": 5,
-    "context": "'text' = this.Tactical.TurnSequenceBar.getActiveEntity() == this ? 'Acting right now!' : this.m.IsTurnDone || turnsToGo == null ? 'Turn done' : 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
+    "context": "text = this.Tactical.TurnSequenceBar.getActiveEntity() == this ? 'Acting right now!' : this.m.IsTurnDone || turnsToGo == null ? 'Turn done' : 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
   },
   {
     "ID": 293410472,
@@ -229,7 +229,7 @@
     "original": "Turn done",
     "translation": "回合结束",
     "stage": 5,
-    "context": "'text' = this.Tactical.TurnSequenceBar.getActiveEntity() == this ? 'Acting right now!' : this.m.IsTurnDone || turnsToGo == null ? 'Turn done' : 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
+    "context": "text = this.Tactical.TurnSequenceBar.getActiveEntity() == this ? 'Acting right now!' : this.m.IsTurnDone || turnsToGo == null ? 'Turn done' : 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
   },
   {
     "ID": 293410473,
@@ -285,7 +285,7 @@
     "original": "Paid [img]gfx/ui/tooltips/money.png[/img]",
     "translation": "薪资: [img]gfx/ui/tooltips/money.png[/img]",
     "stage": 5,
-    "context": "'text' = 'Paid [img]gfx/ui/tooltips/money.png[/img]' + this.getDailyCost() + ' daily'"
+    "context": "text = 'Paid [img]gfx/ui/tooltips/money.png[/img]' + this.getDailyCost() + ' daily'"
   },
   {
     "ID": 293410480,
@@ -301,6 +301,6 @@
     "original": " turns",
     "translation": "回合后",
     "stage": 5,
-    "context": "'text' = this.Tactical.TurnSequenceBar.getActiveEntity() == this ? 'Acting right now!' : this.m.IsTurnDone || turnsToGo == null ? 'Turn done' : 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
+    "context": "text = this.Tactical.TurnSequenceBar.getActiveEntity() == this ? 'Acting right now!' : this.m.IsTurnDone || turnsToGo == null ? 'Turn done' : 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
   }
 ]

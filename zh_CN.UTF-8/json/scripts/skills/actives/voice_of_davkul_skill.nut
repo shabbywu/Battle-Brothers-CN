@@ -5,7 +5,7 @@
     "original": "]-10[/color] instantly. Anyone not a cultist is not affected.",
     "translation": "]10[/color]。任何非邪教徒都不会受到影响。",
     "stage": 5,
-    "context": "'text' = 'Lowers the fatigue of every cultist, friend or foe, by [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] instantly. Anyone not a cultist is not affected.'"
+    "context": "text = 'Lowers the fatigue of every cultist, friend or foe, by [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] instantly. Anyone not a cultist is not affected.'"
   },
   {
     "ID": 293420707,
@@ -29,6 +29,6 @@
     "original": "Lowers the fatigue of every cultist, friend or foe, by [color=",
     "translation": "立即将每个邪教徒的疲劳值降低 [color=",
     "stage": 5,
-    "context": "'text' = 'Lowers the fatigue of every cultist, friend or foe, by [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] instantly. Anyone not a cultist is not affected.'"
+    "context": "text = 'Lowers the fatigue of every cultist, friend or foe, by [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] instantly. Anyone not a cultist is not affected.'"
   }
 ]

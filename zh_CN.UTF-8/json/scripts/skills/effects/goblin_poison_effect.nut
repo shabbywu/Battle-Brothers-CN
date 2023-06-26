@@ -21,7 +21,7 @@
     "original": "[/color] Action Points",
     "translation": "[/color] 行动点",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 1 * this.m.TurnsLeft + '[/color] Action Points'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 1 * this.m.TurnsLeft + '[/color] Action Points'"
   },
   {
     "ID": 293421505,
@@ -29,7 +29,7 @@
     "original": "[/color] Vision",
     "translation": "[/color] 视野",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 1 * this.m.TurnsLeft + '[/color] Vision'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 1 * this.m.TurnsLeft + '[/color] Vision'"
   },
   {
     "ID": 293421506,
@@ -37,7 +37,7 @@
     "original": "[/color] Initiative",
     "translation": "[/color] 主动性",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 10 * this.m.TurnsLeft + '[/color] Initiative'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 10 * this.m.TurnsLeft + '[/color] Initiative'"
   },
   {
     "ID": 293421507,
