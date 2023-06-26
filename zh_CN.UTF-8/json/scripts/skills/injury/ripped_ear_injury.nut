@@ -21,6 +21,6 @@
     "original": "]-15%[/color] Initiative",
     "translation": "]-15%[/color] 主动性",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] Initiative'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] Initiative'"
   }
 ]

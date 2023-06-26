@@ -77,7 +77,7 @@
     "original": "Higher Chance To Hit Head",
     "translation": "更高几率击中头部",
     "stage": 5,
-    "context": "'text' = 'Higher Chance To Hit Head'"
+    "context": "text = 'Higher Chance To Hit Head'"
   },
   {
     "ID": 293421067,

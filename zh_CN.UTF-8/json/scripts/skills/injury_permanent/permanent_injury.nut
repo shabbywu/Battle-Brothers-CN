@@ -5,6 +5,6 @@
     "original": "Permanent",
     "translation": "永久的",
     "stage": 5,
-    "context": "'text' = 'Permanent'"
+    "context": "text = 'Permanent'"
   }
 ]

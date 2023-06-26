@@ -13,7 +13,7 @@
     "original": "]-5[/color] Melee Skill",
     "translation": "]-5[/color] 近战技能",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Skill'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Skill'"
   },
   {
     "ID": 293422385,
@@ -21,7 +21,7 @@
     "original": "]+15%[/color] Damage on a hit to the head",
     "translation": "]+15%[/color] 伤害于击中头部时",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+15%[/color] Damage on a hit to the head'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+15%[/color] Damage on a hit to the head'"
   },
   {
     "ID": 293422386,

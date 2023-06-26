@@ -5,7 +5,7 @@
     "original": "]+2[/color] Fatigue Recovery per turn",
     "translation": "]+2[/color] 每回合疲劳值恢复量",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+2[/color] Fatigue Recovery per turn'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+2[/color] Fatigue Recovery per turn'"
   },
   {
     "ID": 293422413,
@@ -13,7 +13,7 @@
     "original": "]+10[/color] Resolve",
     "translation": "]+10[/color] 决心",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve'"
   },
   {
     "ID": 293422414,
@@ -29,7 +29,7 @@
     "original": "No morale check triggered upon allies dying",
     "translation": "友军死亡时不会触发士气检查",
     "stage": 5,
-    "context": "'text' = 'No morale check triggered upon allies dying'"
+    "context": "text = 'No morale check triggered upon allies dying'"
   },
   {
     "ID": 293422416,
@@ -37,7 +37,7 @@
     "original": "No morale check triggered upon losing hitpoints",
     "translation": "失去生命值时不会触发士气检查",
     "stage": 5,
-    "context": "'text' = 'No morale check triggered upon losing hitpoints'"
+    "context": "text = 'No morale check triggered upon losing hitpoints'"
   },
   {
     "ID": 293422417,

@@ -61,7 +61,7 @@
     "original": "Had a successful raid",
     "translation": "一次成功的掠夺",
     "stage": 1,
-    "context": "bros[2].improveMood(1.0, 'Had a successful raid')"
+    "context": "bros[0].improveMood(1.0, 'Had a successful raid')"
   },
   {
     "ID": 293419757,

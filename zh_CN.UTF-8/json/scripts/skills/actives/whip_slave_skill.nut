@@ -5,7 +5,7 @@
     "original": "]1[/color] - [color=",
     "translation": "]1[/color] - [color=",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']1[/color] - [color=' + this.Const.UI.Color.DamageValue + ']3[/color] damage that ignores armor to the target'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']1[/color] - [color=' + this.Const.UI.Color.DamageValue + ']3[/color] damage that ignores armor to the target'"
   },
   {
     "ID": 293420730,
@@ -13,7 +13,7 @@
     "original": "Inflicts [color=",
     "translation": "造成 [color=",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']1[/color] - [color=' + this.Const.UI.Color.DamageValue + ']3[/color] damage that ignores armor to the target'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']1[/color] - [color=' + this.Const.UI.Color.DamageValue + ']3[/color] damage that ignores armor to the target'"
   },
   {
     "ID": 293420731,
@@ -21,7 +21,7 @@
     "original": "Gives the targeted indebted the 'Whipped' status effect, increasing many of their stats for 2 rounds. The higher the level of the character using this skill, the higher the increase.",
     "translation": "给予目标负债者‘被鞭策’状态效果，使他们多项属性提升2回合。使用此技能的角色等级越高，增益也就越高。",
     "stage": 5,
-    "context": "'text' = \"Gives the targeted indebted the 'Whipped' status effect, increasing many of their stats for 2 rounds. The higher the level of the character using this skill, the higher the increase.\""
+    "context": "text = \"Gives the targeted indebted the 'Whipped' status effect, increasing many of their stats for 2 rounds. The higher the level of the character using this skill, the higher the increase.\""
   },
   {
     "ID": 293420732,
@@ -29,7 +29,7 @@
     "original": "]3[/color] damage that ignores armor to the target",
     "translation": "]3[/color] 伤害，无视目标的护甲",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']1[/color] - [color=' + this.Const.UI.Color.DamageValue + ']3[/color] damage that ignores armor to the target'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']1[/color] - [color=' + this.Const.UI.Color.DamageValue + ']3[/color] damage that ignores armor to the target'"
   },
   {
     "ID": 293420733,
@@ -45,7 +45,7 @@
     "original": "Resets the morale of the targeted indebted to 'Steady' if currently below",
     "translation": "如果目标负债者的当前士气低于“稳定”，则将他的士气重置为此",
     "stage": 5,
-    "context": "'text' = \"Resets the morale of the targeted indebted to 'Steady' if currently below\""
+    "context": "text = \"Resets the morale of the targeted indebted to 'Steady' if currently below\""
   },
   {
     "ID": 293420735,

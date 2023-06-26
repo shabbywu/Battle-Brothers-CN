@@ -5,7 +5,7 @@
     "original": "[/color] extra fatigue",
     "translation": "[/color] 额外疲劳值",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 4 + '[/color] extra fatigue'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 4 + '[/color] extra fatigue'"
   },
   {
     "ID": 293420496,
@@ -13,7 +13,7 @@
     "original": "]100%[/color] chance to severely stun on a hit",
     "translation": "]100%[/color] 几率在命中时严重击晕目标",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to severely stun on a hit'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to severely stun on a hit'"
   },
   {
     "ID": 293420497,
@@ -37,7 +37,7 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun for two turns on a hit'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun for two turns on a hit'"
   },
   {
     "ID": 293420500,
@@ -61,7 +61,7 @@
     "original": "Inflicts [color=",
     "translation": "造成 [color=",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 4 + '[/color] extra fatigue'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 4 + '[/color] extra fatigue'"
   },
   {
     "ID": 293420503,
@@ -69,7 +69,7 @@
     "original": "%[/color] chance to stun for two turns on a hit",
     "translation": "%\"[/color] 几率击晕目标 2 回合",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun for two turns on a hit'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun for two turns on a hit'"
   },
   {
     "ID": 293420504,

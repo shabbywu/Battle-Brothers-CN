@@ -5,7 +5,7 @@
     "original": "Is content with being in reserve",
     "translation": "满足于充当后备",
     "stage": 1,
-    "context": "'text' = 'Is content with being in reserve'"
+    "context": "text = 'Is content with being in reserve'"
   },
   {
     "ID": 293421818,
@@ -21,7 +21,7 @@
     "original": "]-50%[/color] Resolve",
     "translation": "]-50%[/color] 决心",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Resolve'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Resolve'"
   },
   {
     "ID": 293421820,

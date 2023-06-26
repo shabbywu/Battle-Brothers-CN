@@ -45,7 +45,7 @@
     "original": "Always acts first in the very first round of combat",
     "translation": "在战斗的第一轮中总是先行动",
     "stage": 5,
-    "context": "'text' = 'Always acts first in the very first round of combat'"
+    "context": "text = 'Always acts first in the very first round of combat'"
   },
   {
     "ID": 293419666,

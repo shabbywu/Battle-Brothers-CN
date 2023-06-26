@@ -5,7 +5,7 @@
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
     "stage": 1,
-    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
+    "context": "text = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421461,
@@ -13,7 +13,7 @@
     "original": "Attacks that miss have [color=",
     "translation": "攻击未命中会[color=",
     "stage": 1,
-    "context": "'text' = 'Attacks that miss have [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of their Fatigue cost refunded'"
+    "context": "text = 'Attacks that miss have [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of their Fatigue cost refunded'"
   },
   {
     "ID": 293421462,
@@ -29,7 +29,7 @@
     "original": "]50%[/color] of their Fatigue cost refunded",
     "translation": "]50%[/color] 疲劳值消耗返还",
     "stage": 1,
-    "context": "'text' = 'Attacks that miss have [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of their Fatigue cost refunded'"
+    "context": "text = 'Attacks that miss have [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of their Fatigue cost refunded'"
   },
   {
     "ID": 293421464,

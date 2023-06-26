@@ -5,7 +5,7 @@
     "original": "No Ambition",
     "translation": "没有野心",
     "stage": 1,
-    "context": "'text' = 'No Ambition'"
+    "context": "text = 'No Ambition'"
   },
   {
     "ID": 293403513,
@@ -13,7 +13,7 @@
     "original": "Don't choose an ambition right now. You'll be asked to choose again after three days.",
     "translation": "现在不选择野心。 三天后你会被要求再次选择。",
     "stage": 1,
-    "context": "'text' = \"Don't choose an ambition right now. You'll be asked to choose again after three days.\""
+    "context": "text = \"Don't choose an ambition right now. You'll be asked to choose again after three days.\""
   },
   {
     "ID": 293403514,

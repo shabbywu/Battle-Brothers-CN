@@ -5,7 +5,7 @@
     "original": "Kampfeste",
     "translation": "战争要塞",
     "stage": 5,
-    "context": "'Kampfeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410733,
@@ -13,7 +13,7 @@
     "original": "Aalfeste",
     "translation": "鳗鱼要塞",
     "stage": 5,
-    "context": "'Aalfeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410734,
@@ -29,7 +29,7 @@
     "original": "Blankenfeste",
     "translation": "茫然要塞",
     "stage": 5,
-    "context": "'Blankenfeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410736,
@@ -37,7 +37,7 @@
     "original": "Wesefeste",
     "translation": "韦塞要塞",
     "stage": 5,
-    "context": "'Wesefeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410737,
@@ -53,7 +53,7 @@
     "original": "Kranichfeste",
     "translation": "鹤之要塞",
     "stage": 5,
-    "context": "'Kranichfeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410739,
@@ -61,7 +61,7 @@
     "original": "Kleifeste",
     "translation": "黏土要塞",
     "stage": 5,
-    "context": "'Kleifeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410740,
@@ -69,7 +69,7 @@
     "original": "Segelfeste",
     "translation": "帆之要塞",
     "stage": 5,
-    "context": "'Segelfeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410741,
@@ -77,7 +77,7 @@
     "original": "Schwalbenfeste",
     "translation": "燕之要塞",
     "stage": 5,
-    "context": "'Schwalbenfeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410742,
@@ -85,7 +85,7 @@
     "original": "Otterfeste",
     "translation": "水獭要塞",
     "stage": 5,
-    "context": "'Otterfeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410743,
@@ -93,7 +93,7 @@
     "original": "Stohlfeste",
     "translation": "斯托尔要塞",
     "stage": 5,
-    "context": "'Stohlfeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410744,
@@ -101,7 +101,7 @@
     "original": "Seelandfeste",
     "translation": "湖陆要塞",
     "stage": 5,
-    "context": "'Seelandfeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410745,
@@ -109,7 +109,7 @@
     "original": "Seemarkfeste",
     "translation": "希玛克要塞",
     "stage": 5,
-    "context": "'Seemarkfeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410746,
@@ -117,7 +117,7 @@
     "original": "Sandfeste",
     "translation": "沙之要塞",
     "stage": 5,
-    "context": "'Sandfeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410747,
@@ -125,7 +125,7 @@
     "original": "Krakenfeste",
     "translation": "克拉肯要塞",
     "stage": 5,
-    "context": "'Krakenfeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410748,
@@ -133,7 +133,7 @@
     "original": "Seefeste",
     "translation": "海之要塞",
     "stage": 5,
-    "context": "'Seefeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410749,
@@ -141,7 +141,7 @@
     "original": "Reedfeste",
     "translation": "芦苇要塞",
     "stage": 5,
-    "context": "'Reedfeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410750,
@@ -149,7 +149,7 @@
     "original": "Dunstfeste",
     "translation": "薄雾要塞",
     "stage": 5,
-    "context": "'Dunstfeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410751,
@@ -157,7 +157,7 @@
     "original": "Regenfeste",
     "translation": "雨之要塞",
     "stage": 5,
-    "context": "'Regenfeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410752,
@@ -165,7 +165,7 @@
     "original": "Windfeste",
     "translation": "大风要塞",
     "stage": 5,
-    "context": "'Windfeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410753,
@@ -173,7 +173,7 @@
     "original": "Dunenfeste",
     "translation": "丘陵要塞",
     "stage": 5,
-    "context": "'Dunenfeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410754,
@@ -181,6 +181,6 @@
     "original": "Sturmfeste",
     "translation": "风暴要塞",
     "stage": 5,
-    "context": "'Sturmfeste'"
+    "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   }
 ]

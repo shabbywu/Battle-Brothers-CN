@@ -29,7 +29,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+40%[/color] chance to hit'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+40%[/color] chance to hit'"
   },
   {
     "ID": 293420115,
@@ -45,7 +45,7 @@
     "original": "]+25%[/color] chance to hit",
     "translation": "]+25%[/color] 命中增益",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] chance to hit'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] chance to hit'"
   },
   {
     "ID": 293420117,
@@ -53,7 +53,7 @@
     "original": "]100%[/color] chance to stagger on a hit",
     "translation": "]100%[/color] 几率在命中时造成趔趄",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stagger on a hit'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stagger on a hit'"
   },
   {
     "ID": 293420118,
@@ -69,7 +69,7 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stagger on a hit'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stagger on a hit'"
   },
   {
     "ID": 293420120,
@@ -77,6 +77,6 @@
     "original": "]+40%[/color] chance to hit",
     "translation": "]+40%[/color] 命中增益",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+40%[/color] chance to hit'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+40%[/color] chance to hit'"
   }
 ]

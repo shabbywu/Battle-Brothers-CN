@@ -53,7 +53,7 @@
     "original": "Unaffected by acidic Lindwurm blood",
     "translation": "不受林德沃姆的酸血影响",
     "stage": 1,
-    "context": "'text' = 'Unaffected by acidic Lindwurm blood'"
+    "context": "text = 'Unaffected by acidic Lindwurm blood'"
   },
   {
     "ID": 293418171,

@@ -5,7 +5,7 @@
     "original": "Mutates the body, causing sickness",
     "translation": "会让使用者的身体发生突变并导致疾病",
     "stage": 1,
-    "context": "'text' = 'Mutates the body, causing sickness'"
+    "context": "text = 'Mutates the body, causing sickness'"
   },
   {
     "ID": 293418509,
@@ -21,7 +21,7 @@
     "original": "Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.",
     "translation": "右键单击或拖动到当前选定的角色上进行饮用。 此物品会在使用过程中消耗掉。",
     "stage": 1,
-    "context": "'text' = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
+    "context": "text = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
   },
   {
     "ID": 293418511,
@@ -37,6 +37,6 @@
     "original": "Gain stacks of Rage upon taking hitpoint damage, which increases Resolve, Initiative and damage dealt, and reduces damage taken",
     "translation": "每当承受生命值伤害时获得可堆叠的“愤怒”效果，增加决心值、主动值、伤害输出并减少所受的伤害",
     "stage": 1,
-    "context": "'text' = 'Gain stacks of Rage upon taking hitpoint damage, which increases Resolve, Initiative and damage dealt, and reduces damage taken'"
+    "context": "text = 'Gain stacks of Rage upon taking hitpoint damage, which increases Resolve, Initiative and damage dealt, and reduces damage taken'"
   }
 ]

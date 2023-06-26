@@ -5,7 +5,7 @@
     "original": "Doubles your Resolve if defending against fear and mind control abilities",
     "translation": "使你在抵御恐惧和精神控制时得到决心翻倍的能力",
     "stage": 1,
-    "context": "'text' = 'Doubles your Resolve if defending against fear and mind control abilities'"
+    "context": "text = 'Doubles your Resolve if defending against fear and mind control abilities'"
   },
   {
     "ID": 293417505,

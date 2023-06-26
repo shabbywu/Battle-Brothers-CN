@@ -21,7 +21,7 @@
     "original": "Vision [color=",
     "translation": "视野 [color=",
     "stage": 5,
-    "context": "'text' = 'Vision [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Vision + '[/color]'"
+    "context": "text = 'Vision [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Vision + '[/color]'"
   },
   {
     "ID": 293418099,
@@ -37,7 +37,7 @@
     "original": "Maximum Fatigue [color=",
     "translation": "最大疲劳值 [color=",
     "stage": 5,
-    "context": "'text' = 'Maximum Fatigue [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.StaminaModifier + '[/color]'"
+    "context": "text = 'Maximum Fatigue [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.StaminaModifier + '[/color]'"
   },
   {
     "ID": 293418101,

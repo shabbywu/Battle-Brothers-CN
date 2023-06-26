@@ -37,7 +37,7 @@
     "original": "Removes the Poisoned status effect",
     "translation": "移除中毒状态效果",
     "stage": 5,
-    "context": "'text' = 'Removes the Poisoned status effect'"
+    "context": "text = 'Removes the Poisoned status effect'"
   },
   {
     "ID": 293419951,
@@ -45,7 +45,7 @@
     "original": "Grants immunity to Poison for 3 turns",
     "translation": "获得毒素免疫能力，持续3回合。",
     "stage": 5,
-    "context": "'text' = 'Grants immunity to Poison for 3 turns'"
+    "context": "text = 'Grants immunity to Poison for 3 turns'"
   },
   {
     "ID": 293419952,
@@ -53,6 +53,6 @@
     "original": "]Can not be used because this character is engaged in melee[/color]",
     "translation": "]无法使用，因为此角色已卷入近战[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   }
 ]

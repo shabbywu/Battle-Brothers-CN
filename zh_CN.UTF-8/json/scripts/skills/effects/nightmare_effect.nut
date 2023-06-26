@@ -13,7 +13,7 @@
     "original": "]-300[/color] Initiative",
     "translation": "]-300[/color] 主动性",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-300[/color] Initiative'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-300[/color] Initiative'"
   },
   {
     "ID": 293421635,

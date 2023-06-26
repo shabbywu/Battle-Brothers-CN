@@ -21,7 +21,7 @@
     "original": "ORIENTAL CITY #3",
     "translation": "ORIENTAL CITY #3",
     "stage": 9,
-    "context": "'ORIENTAL CITY #3'"
+    "context": "this.getRandomName(['ORIENTAL CITY #1','ORIENTAL CITY #2','ORIENTAL CITY #3'])"
   },
   {
     "ID": 293410730,
@@ -29,7 +29,7 @@
     "original": "ORIENTAL CITY #2",
     "translation": "ORIENTAL CITY #2",
     "stage": 9,
-    "context": "'ORIENTAL CITY #2'"
+    "context": "this.getRandomName(['ORIENTAL CITY #1','ORIENTAL CITY #2','ORIENTAL CITY #3'])"
   },
   {
     "ID": 293410731,
@@ -37,6 +37,6 @@
     "original": "ORIENTAL CITY #1",
     "translation": "ORIENTAL CITY #1",
     "stage": 9,
-    "context": "'ORIENTAL CITY #1'"
+    "context": "this.getRandomName(['ORIENTAL CITY #1','ORIENTAL CITY #2','ORIENTAL CITY #3'])"
   }
 ]

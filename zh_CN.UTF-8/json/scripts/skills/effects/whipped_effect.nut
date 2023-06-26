@@ -21,7 +21,7 @@
     "original": "[/color] Ranged Defense",
     "translation": "[/color] 远程防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + 0 + this.m.Level + '[/color] Ranged Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + 0 + this.m.Level + '[/color] Ranged Defense'"
   },
   {
     "ID": 293421799,
@@ -29,7 +29,7 @@
     "original": "[/color] Initiative",
     "translation": "[/color] 主动性",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + 9 + this.m.Level + '[/color] Initiative'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + 9 + this.m.Level + '[/color] Initiative'"
   },
   {
     "ID": 293421800,
@@ -37,7 +37,7 @@
     "original": "[/color] Resolve",
     "translation": "[/color] 决心",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + 9 + this.m.Level + '[/color] Resolve'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + 9 + this.m.Level + '[/color] Resolve'"
   },
   {
     "ID": 293421801,
@@ -45,7 +45,7 @@
     "original": "[/color] Melee Defense",
     "translation": "[/color] 近战防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + 0 + this.m.Level + '[/color] Melee Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + 0 + this.m.Level + '[/color] Melee Defense'"
   },
   {
     "ID": 293421802,
@@ -61,7 +61,7 @@
     "original": "[/color] Melee Skill",
     "translation": "[/color] 近战技能",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + 9 + this.m.Level + '[/color] Melee Skill'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + 9 + this.m.Level + '[/color] Melee Skill'"
   },
   {
     "ID": 293421804,
@@ -69,6 +69,6 @@
     "original": "[/color] Ranged Skill",
     "translation": "[/color] 远程技能",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + 9 + this.m.Level + '[/color] Ranged Skill'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + 9 + this.m.Level + '[/color] Ranged Skill'"
   }
 ]

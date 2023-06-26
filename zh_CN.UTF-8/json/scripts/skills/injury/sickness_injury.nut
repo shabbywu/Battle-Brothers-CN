@@ -5,7 +5,7 @@
     "original": "]-25%[/color] Ranged Defense",
     "translation": "]-25%[/color] 远程防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Ranged Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Ranged Defense'"
   },
   {
     "ID": 293422050,
@@ -13,7 +13,7 @@
     "original": "]-25%[/color] Initiative",
     "translation": "]-25%[/color] 主动性",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Initiative'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Initiative'"
   },
   {
     "ID": 293422051,
@@ -21,7 +21,7 @@
     "original": "]-25%[/color] Melee Defense",
     "translation": "]-25%[/color] 近战防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Melee Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Melee Defense'"
   },
   {
     "ID": 293422052,
@@ -45,7 +45,7 @@
     "original": "]-25%[/color] Hitpoints",
     "translation": "]-25%[/color] 生命值",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Hitpoints'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Hitpoints'"
   },
   {
     "ID": 293422055,
@@ -61,7 +61,7 @@
     "original": "]-2[/color] Vision",
     "translation": "]-2[/color] 视野",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-2[/color] Vision'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-2[/color] Vision'"
   },
   {
     "ID": 293422057,
@@ -69,7 +69,7 @@
     "original": "]-25%[/color] Max Fatigue",
     "translation": "]-25%[/color] 最大疲劳值",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Max Fatigue'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Max Fatigue'"
   },
   {
     "ID": 293422058,
@@ -77,7 +77,7 @@
     "original": "]-25%[/color] Ranged Skill",
     "translation": "]-25%[/color] 远程技能",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Ranged Skill'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Ranged Skill'"
   },
   {
     "ID": 293422059,
@@ -85,7 +85,7 @@
     "original": "]-25%[/color] Melee Skill",
     "translation": "]-25%[/color] 近战技能",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Melee Skill'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Melee Skill'"
   },
   {
     "ID": 293422060,
@@ -101,6 +101,6 @@
     "original": "]-25%[/color] Resolve",
     "translation": "]-25%[/color] 决心",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Resolve'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Resolve'"
   }
 ]

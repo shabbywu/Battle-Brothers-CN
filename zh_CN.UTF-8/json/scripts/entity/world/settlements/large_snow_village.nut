@@ -5,7 +5,7 @@
     "original": "Bolasted",
     "translation": "博拉城",
     "stage": 5,
-    "context": "'Bolasted'"
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410957,
@@ -13,7 +13,7 @@
     "original": "Skagensted",
     "translation": "斯卡根城",
     "stage": 5,
-    "context": "'Skagensted'"
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410958,
@@ -21,7 +21,7 @@
     "original": "Hammarsted",
     "translation": "哈玛城",
     "stage": 5,
-    "context": "'Hammarsted'"
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410959,
@@ -29,7 +29,7 @@
     "original": "Brammingsted",
     "translation": "布拉明城",
     "stage": 5,
-    "context": "'Brammingsted'"
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410960,
@@ -37,7 +37,7 @@
     "original": "Jarlsted",
     "translation": "名爵城",
     "stage": 5,
-    "context": "'Jarlsted'"
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410961,
@@ -45,31 +45,31 @@
     "original": "Ravested",
     "translation": "狂澜城",
     "stage": 5,
-    "context": "'Ravested'"
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410962,
     "key": "Vardested",
     "original": "Vardested",
-    "translation": "瓦德斯泰德",
-    "stage": 1,
-    "context": "'Vardested'"
+    "translation": "绿地城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410963,
     "key": "Eidsted",
     "original": "Eidsted",
-    "translation": "艾德斯特德",
-    "stage": 1,
-    "context": "'Eidsted'"
+    "translation": "艾德城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410964,
     "key": "Arsasted",
     "original": "Arsasted",
-    "translation": "阿萨斯特德",
-    "stage": 1,
-    "context": "'Arsasted'"
+    "translation": "阿尔萨城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410965,
@@ -77,150 +77,150 @@
     "original": "Hornsted",
     "translation": "角鸣城",
     "stage": 5,
-    "context": "'Hornsted'"
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410966,
     "key": "Sommersted",
     "original": "Sommersted",
-    "translation": "桑默斯泰德",
-    "stage": 1,
-    "context": "'Sommersted'"
+    "translation": "夏日城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410967,
     "key": "A large city sheltering travelers and traders from snow and cold",
     "original": "A large city sheltering travelers and traders from snow and cold",
-    "translation": "避雪避寒的大城市",
-    "stage": 1,
+    "translation": "一个大城市，为商人、旅行者提供冰雪和风暴的庇护。",
+    "stage": 5,
     "context": "this.m.UIDescription = 'A large city sheltering travelers and traders from snow and cold'"
   },
   {
     "ID": 293410968,
     "key": "A large city far up north. Traders, travelers and adventurers come here for shelter from snow and storms.",
     "original": "A large city far up north. Traders, travelers and adventurers come here for shelter from snow and storms.",
-    "translation": "北方很远的一个大城市。商人、旅行者和冒险者来到这里躲避冰雪和风暴。",
-    "stage": 1,
+    "translation": "一个位于北方的大城市。商人、旅行者和冒险者来到这里躲避冰雪和风暴。",
+    "stage": 5,
     "context": "this.m.Description = 'A large city far up north. Traders, travelers and adventurers come here for shelter from snow and storms.'"
   },
   {
     "ID": 293410969,
     "key": "Rollarsted",
     "original": "Rollarsted",
-    "translation": "罗拉斯特德",
-    "stage": 1,
-    "context": "'Rollarsted'"
+    "translation": "若劳城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410970,
     "key": "Grimsted",
     "original": "Grimsted",
-    "translation": "格里姆斯特",
-    "stage": 1,
-    "context": "'Grimsted'"
+    "translation": "阴云城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410971,
     "key": "Lydersted",
     "original": "Lydersted",
-    "translation": "吕德斯特德",
-    "stage": 1,
-    "context": "'Lydersted'"
+    "translation": "吕德城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410972,
     "key": "Hellested",
     "original": "Hellested",
-    "translation": "海勒斯泰德",
-    "stage": 1,
-    "context": "'Hellested'"
+    "translation": "海勒城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410973,
     "key": "Norrested",
     "original": "Norrested",
-    "translation": "诺雷斯特德",
-    "stage": 1,
-    "context": "'Norrested'"
+    "translation": "北地城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410974,
     "key": "Ognasted",
     "original": "Ognasted",
-    "translation": "奥格纳斯特",
-    "stage": 1,
-    "context": "'Ognasted'"
+    "translation": "奥格纳城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410975,
     "key": "Gersted",
     "original": "Gersted",
-    "translation": "格斯特德",
-    "stage": 1,
-    "context": "'Gersted'"
+    "translation": "吉尔城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410976,
     "key": "Harkensted",
     "original": "Harkensted",
-    "translation": "哈肯斯泰德",
-    "stage": 1,
-    "context": "'Harkensted'"
+    "translation": "哈肯城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410977,
     "key": "Ovarsted",
     "original": "Ovarsted",
-    "translation": "奥瓦斯泰德",
-    "stage": 1,
-    "context": "'Ovarsted'"
+    "translation": "奥瓦城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410978,
     "key": "Svarrested",
     "original": "Svarrested",
-    "translation": "斯瓦莱斯泰德",
-    "stage": 1,
-    "context": "'Svarrested'"
+    "translation": "斯瓦莱城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410979,
     "key": "Agersted",
     "original": "Agersted",
-    "translation": "阿格斯泰德",
-    "stage": 1,
-    "context": "'Agersted'"
+    "translation": "艾格城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410980,
     "key": "Hejsted",
     "original": "Hejsted",
-    "translation": "海斯泰德",
-    "stage": 1,
-    "context": "'Hejsted'"
+    "translation": "赫城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410981,
     "key": "Tondersted",
     "original": "Tondersted",
-    "translation": "桐德斯泰德",
-    "stage": 1,
-    "context": "'Tondersted'"
+    "translation": "桐德城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410982,
     "key": "Asested",
     "original": "Asested",
-    "translation": "阿塞斯特德",
-    "stage": 1,
-    "context": "'Asested'"
+    "translation": "阿瑟城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },
   {
     "ID": 293410983,
     "key": "Gunnsted",
     "original": "Gunnsted",
-    "translation": "冈斯泰德",
-    "stage": 1,
-    "context": "'Gunnsted'"
+    "translation": "战士城",
+    "stage": 5,
+    "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   }
 ]

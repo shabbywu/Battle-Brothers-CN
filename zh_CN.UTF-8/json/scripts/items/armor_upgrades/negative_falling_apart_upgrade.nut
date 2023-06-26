@@ -21,6 +21,6 @@
     "original": "No armor attachment slot",
     "translation": "无盔甲附件位置",
     "stage": 1,
-    "context": "'text' = 'No armor attachment slot'"
+    "context": "text = 'No armor attachment slot'"
   }
 ]

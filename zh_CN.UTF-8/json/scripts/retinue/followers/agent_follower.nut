@@ -5,7 +5,7 @@
     "original": "Have allied relations with a noble house or city state",
     "translation": "与贵族家族或城邦达到同盟关系",
     "stage": 1,
-    "context": "'Text' = 'Have allied relations with a noble house or city state'"
+    "context": "Text = 'Have allied relations with a noble house or city state'"
   },
   {
     "ID": 293419541,

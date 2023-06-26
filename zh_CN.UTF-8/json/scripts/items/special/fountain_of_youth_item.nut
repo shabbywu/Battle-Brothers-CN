@@ -5,7 +5,7 @@
     "original": "Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.",
     "translation": "右键单击或拖动到当前选定的角色上进行饮用。 此物品会在使用过程中消耗掉。",
     "stage": 1,
-    "context": "'text' = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
+    "context": "text = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
   },
   {
     "ID": 293418844,
@@ -13,7 +13,7 @@
     "original": "Will remove all temporary or permanent injuries, as well as the Old, Addicted, Exhausted and Hangover traits and status effects",
     "translation": "将消除所有临时或永久性伤害，以及老的、上瘾、精疲力竭和宿醉的特性和状态影响。",
     "stage": 1,
-    "context": "'text' = 'Will remove all temporary or permanent injuries, as well as the Old, Addicted, Exhausted and Hangover traits and status effects'"
+    "context": "text = 'Will remove all temporary or permanent injuries, as well as the Old, Addicted, Exhausted and Hangover traits and status effects'"
   },
   {
     "ID": 293418845,

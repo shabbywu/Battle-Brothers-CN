@@ -21,6 +21,6 @@
     "original": "The Action Point cost for using skills is reduced by half for the remainder of this round, but Fatigue costs are doubled.",
     "translation": "在这一轮的剩余时间里，使用技能消耗的行动点减半，但是疲劳值积累翻倍。",
     "stage": 5,
-    "context": "'text' = 'The Action Point cost for using skills is reduced by half for the remainder of this round, but Fatigue costs are doubled.'"
+    "context": "text = 'The Action Point cost for using skills is reduced by half for the remainder of this round, but Fatigue costs are doubled.'"
   }
 ]

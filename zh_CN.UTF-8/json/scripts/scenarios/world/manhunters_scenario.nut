@@ -21,7 +21,7 @@
     "original": "Limited to character level 7",
     "translation": "角色只能到7级",
     "stage": 1,
-    "context": "'text' = 'Limited to character level 7'"
+    "context": "text = 'Limited to character level 7'"
   },
   {
     "ID": 293419696,
@@ -45,7 +45,7 @@
     "original": "]-10%[/color] Experience Gain",
     "translation": "]-10%[/color] 经验获取",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] Experience Gain'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] Experience Gain'"
   },
   {
     "ID": 293419699,
@@ -69,7 +69,7 @@
     "original": "]+10%[/color] Experience Gain",
     "translation": "]+10%[/color] 经验获取",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] Experience Gain'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] Experience Gain'"
   },
   {
     "ID": 293419702,
@@ -141,7 +141,7 @@
     "original": "]-25%[/color] Experience Gain",
     "translation": "]-25%[/color] 经验获取",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Experience Gain'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Experience Gain'"
   },
   {
     "ID": 293419711,
@@ -149,7 +149,7 @@
     "original": "]+5%[/color] Experience Gain",
     "translation": "]+5%[/color] 经验获取",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] Experience Gain'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] Experience Gain'"
   },
   {
     "ID": 293419712,
@@ -181,7 +181,7 @@
     "original": "Is permanently dead if struck down and will not survive with a permanent injury",
     "translation": "如果被击倒会永久性死亡，并且会因永久性损伤而无法存活",
     "stage": 1,
-    "context": "'text' = 'Is permanently dead if struck down and will not survive with a permanent injury'"
+    "context": "text = 'Is permanently dead if struck down and will not survive with a permanent injury'"
   },
   {
     "ID": 293419716,

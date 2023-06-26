@@ -5,7 +5,7 @@
     "original": "]50%[/color] lower chance to inflict friendly fire",
     "translation": "]50%[/color] 几率不会造成友方伤害",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] lower chance to inflict friendly fire'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] lower chance to inflict friendly fire'"
   },
   {
     "ID": 293422754,
@@ -13,7 +13,7 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] lower chance to inflict friendly fire'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] lower chance to inflict friendly fire'"
   },
   {
     "ID": 293422755,

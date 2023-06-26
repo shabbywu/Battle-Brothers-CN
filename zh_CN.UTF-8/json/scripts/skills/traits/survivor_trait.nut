@@ -29,7 +29,7 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']90%[/color] chance to survive if struck down and not killed by a fatality'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']90%[/color] chance to survive if struck down and not killed by a fatality'"
   },
   {
     "ID": 293422745,
@@ -45,7 +45,7 @@
     "original": "]90%[/color] chance to survive if struck down and not killed by a fatality",
     "translation": "]90%[/color] 几率在受非必死击杀且生命值归零时幸存",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']90%[/color] chance to survive if struck down and not killed by a fatality'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']90%[/color] chance to survive if struck down and not killed by a fatality'"
   },
   {
     "ID": 293422747,

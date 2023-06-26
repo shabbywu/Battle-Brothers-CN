@@ -5,7 +5,7 @@
     "original": "]+30[/color] Durability",
     "translation": "]+30[/color] 耐久度",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+30[/color] Durability'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+30[/color] Durability'"
   },
   {
     "ID": 293417963,
@@ -13,7 +13,7 @@
     "original": "]-3[/color] Maximum Fatigue",
     "translation": "]-3[/color] 最大疲劳值",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-3[/color] Maximum Fatigue'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-3[/color] Maximum Fatigue'"
   },
   {
     "ID": 293417964,

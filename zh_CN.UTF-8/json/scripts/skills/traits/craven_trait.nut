@@ -13,7 +13,7 @@
     "original": "Is always content with being in reserve",
     "translation": "总是满足于充当后备",
     "stage": 5,
-    "context": "'text' = 'Is always content with being in reserve'"
+    "context": "text = 'Is always content with being in reserve'"
   },
   {
     "ID": 293422406,
@@ -45,7 +45,7 @@
     "original": "]-10[/color] Resolve",
     "translation": "]-10[/color] 决心",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve'"
   },
   {
     "ID": 293422410,

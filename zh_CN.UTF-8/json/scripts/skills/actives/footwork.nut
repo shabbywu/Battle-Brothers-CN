@@ -13,7 +13,7 @@
     "original": "]Can only be used when in an opponent's Zone of Control[/color]",
     "translation": "]只能在对手的控制区内使用[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + \"]Can only be used when in an opponent's Zone of Control[/color]\""
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + \"]Can only be used when in an opponent's Zone of Control[/color]\""
   },
   {
     "ID": 293419996,
@@ -21,7 +21,7 @@
     "original": "]Can not be used while rooted[/color]",
     "translation": "]定身时不能使用[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used while rooted[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used while rooted[/color]'"
   },
   {
     "ID": 293419997,

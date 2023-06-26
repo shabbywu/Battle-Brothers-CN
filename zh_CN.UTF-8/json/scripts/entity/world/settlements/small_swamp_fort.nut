@@ -5,7 +5,7 @@
     "original": "Pfuhlwacht",
     "translation": "普夫瓦赫特",
     "stage": 1,
-    "context": "'Pfuhlwacht'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412349,
@@ -13,7 +13,7 @@
     "original": "Birkturm",
     "translation": "伯克图姆",
     "stage": 1,
-    "context": "'Birkturm'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412350,
@@ -21,7 +21,7 @@
     "original": "Moorgard",
     "translation": "穆加德",
     "stage": 1,
-    "context": "'Moorgard'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412351,
@@ -29,7 +29,7 @@
     "original": "Schanzmoor",
     "translation": "尚茨穆尔",
     "stage": 1,
-    "context": "'Schanzmoor'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412352,
@@ -37,7 +37,7 @@
     "original": "Wehrturm",
     "translation": "防御塔",
     "stage": 1,
-    "context": "'Wehrturm'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412353,
@@ -45,7 +45,7 @@
     "original": "Schwarzwacht",
     "translation": "施瓦茨瓦赫特",
     "stage": 1,
-    "context": "'Schwarzwacht'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412354,
@@ -53,7 +53,7 @@
     "original": "Birkwall",
     "translation": "伯克沃尔",
     "stage": 1,
-    "context": "'Birkwall'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412355,
@@ -61,7 +61,7 @@
     "original": "Furthwehr",
     "translation": "富尔特韦尔",
     "stage": 1,
-    "context": "'Furthwehr'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412356,
@@ -69,7 +69,7 @@
     "original": "Dusterwall",
     "translation": "达斯特沃尔",
     "stage": 1,
-    "context": "'Dusterwall'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412357,
@@ -77,7 +77,7 @@
     "original": "Furthwacht",
     "translation": "弗伍沃赫特",
     "stage": 1,
-    "context": "'Furthwacht'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412358,
@@ -85,7 +85,7 @@
     "original": "Brunnwall",
     "translation": "布伦沃尔",
     "stage": 1,
-    "context": "'Brunnwall'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412359,
@@ -93,7 +93,7 @@
     "original": "Rohrwall",
     "translation": "罗尔沃尔",
     "stage": 1,
-    "context": "'Rohrwall'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412360,
@@ -101,7 +101,7 @@
     "original": "Suhlwacht",
     "translation": "苏尔瓦赫特",
     "stage": 1,
-    "context": "'Suhlwacht'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412361,
@@ -109,7 +109,7 @@
     "original": "Schwarzgard",
     "translation": "施瓦兹加德",
     "stage": 1,
-    "context": "'Schwarzgard'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412362,
@@ -117,7 +117,7 @@
     "original": "Mooswall",
     "translation": "穆斯沃尔",
     "stage": 1,
-    "context": "'Mooswall'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412363,
@@ -125,7 +125,7 @@
     "original": "Auenturm",
     "translation": "奥因塔姆",
     "stage": 1,
-    "context": "'Auenturm'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412364,
@@ -133,7 +133,7 @@
     "original": "Fennwacht",
     "translation": "芬瓦赫特",
     "stage": 1,
-    "context": "'Fennwacht'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412365,
@@ -141,7 +141,7 @@
     "original": "Pfuhlwall",
     "translation": "普弗沃尔",
     "stage": 1,
-    "context": "'Pfuhlwall'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412366,
@@ -149,7 +149,7 @@
     "original": "Riedwehr",
     "translation": "里德韦尔",
     "stage": 1,
-    "context": "'Riedwehr'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412367,
@@ -157,7 +157,7 @@
     "original": "Wallfurt",
     "translation": "沃尔夫特",
     "stage": 5,
-    "context": "'Wallfurt'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412368,
@@ -165,7 +165,7 @@
     "original": "Grunenturm",
     "translation": "格吕恩塔姆",
     "stage": 1,
-    "context": "'Grunenturm'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412369,
@@ -173,7 +173,7 @@
     "original": "Wallpfuhl",
     "translation": "沃尔普富尔",
     "stage": 1,
-    "context": "'Wallpfuhl'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412370,
@@ -181,7 +181,7 @@
     "original": "Moorwacht",
     "translation": "摩尔瓦赫特",
     "stage": 1,
-    "context": "'Moorwacht'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412371,
@@ -189,7 +189,7 @@
     "original": "Bruchwacht",
     "translation": "布鲁赫瓦赫特",
     "stage": 1,
-    "context": "'Bruchwacht'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412372,
@@ -197,7 +197,7 @@
     "original": "Stakenwall",
     "translation": "斯泰肯沃尔",
     "stage": 1,
-    "context": "'Stakenwall'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412373,
@@ -205,7 +205,7 @@
     "original": "Auenwacht",
     "translation": "欧文瓦赫特",
     "stage": 1,
-    "context": "'Auenwacht'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412374,
@@ -221,7 +221,7 @@
     "original": "Kaltenwacht",
     "translation": "卡尔滕瓦赫特",
     "stage": 1,
-    "context": "'Kaltenwacht'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412376,
@@ -229,7 +229,7 @@
     "original": "Brookwall",
     "translation": "布鲁克沃尔",
     "stage": 1,
-    "context": "'Brookwall'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412377,
@@ -237,7 +237,7 @@
     "original": "Torfwall",
     "translation": "托尔夫瓦尔",
     "stage": 1,
-    "context": "'Torfwall'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412378,
@@ -245,7 +245,7 @@
     "original": "Krautwacht",
     "translation": "克劳特瓦赫特",
     "stage": 1,
-    "context": "'Krautwacht'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412379,
@@ -253,7 +253,7 @@
     "original": "Kolkwacht",
     "translation": "科尔克瓦赫特",
     "stage": 1,
-    "context": "'Kolkwacht'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412380,
@@ -261,7 +261,7 @@
     "original": "Fackelwacht",
     "translation": "火炬哨兵",
     "stage": 1,
-    "context": "'Fackelwacht'"
+    "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
   {
     "ID": 293412381,

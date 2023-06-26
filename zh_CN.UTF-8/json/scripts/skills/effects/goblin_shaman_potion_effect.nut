@@ -13,7 +13,7 @@
     "original": "Always able to successfully escape from ensnaring effects, such as from nets or roots",
     "translation": "始终能够成功摆脱困住效果，例如来自网或根的效果。",
     "stage": 1,
-    "context": "'text' = 'Always able to successfully escape from ensnaring effects, such as from nets or roots'"
+    "context": "text = 'Always able to successfully escape from ensnaring effects, such as from nets or roots'"
   },
   {
     "ID": 293421510,
@@ -21,7 +21,7 @@
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
     "stage": 1,
-    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
+    "context": "text = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421511,

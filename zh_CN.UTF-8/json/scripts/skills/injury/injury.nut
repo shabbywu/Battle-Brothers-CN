@@ -5,7 +5,7 @@
     "original": "Will not heal because you have no medical supplies",
     "translation": "不会痊愈，因为你没有医疗用品",
     "stage": 5,
-    "context": "'text' = 'Will not heal because you have no medical supplies'"
+    "context": "text = 'Will not heal because you have no medical supplies'"
   },
   {
     "ID": 293421997,
@@ -21,7 +21,7 @@
     "original": "Will take effect again only after the next battle due to the Iron Will effect",
     "translation": "由于钢铁意志效果，战斗结束后才会生效",
     "stage": 5,
-    "context": "'text' = 'Will take effect again only after the next battle due to the Iron Will effect'"
+    "context": "text = 'Will take effect again only after the next battle due to the Iron Will effect'"
   },
   {
     "ID": 293421999,
@@ -37,7 +37,7 @@
     "original": "Will not heal because this character has taken an oath of sacrifice",
     "translation": "不会痊愈，因为这个角色立下了牺牲誓言",
     "stage": 5,
-    "context": "'text' = 'Will not heal because this character has taken an oath of sacrifice'"
+    "context": "text = 'Will not heal because this character has taken an oath of sacrifice'"
   },
   {
     "ID": 293422001,
@@ -61,7 +61,7 @@
     "original": "Will take effect only after combat ends due to the Iron Will effect",
     "translation": "由于钢铁意志效果，战斗结束后才会生效",
     "stage": 5,
-    "context": "'text' = 'Will take effect only after combat ends due to the Iron Will effect'"
+    "context": "text = 'Will take effect only after combat ends due to the Iron Will effect'"
   },
   {
     "ID": 293422004,
@@ -93,6 +93,6 @@
     "original": "Is content for now with being in reserve",
     "translation": "暂时满足于充当后备",
     "stage": 5,
-    "context": "'text' = 'Is content for now with being in reserve'"
+    "context": "text = 'Is content for now with being in reserve'"
   }
 ]

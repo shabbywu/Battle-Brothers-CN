@@ -29,7 +29,7 @@
     "original": "]10%[/color] chance to have any attacker require two successful attack rolls in order to hit",
     "translation": "]10%[/color] 几率使任何攻击者需要进行两次成功的攻击检定才能命中",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']10%[/color] chance to have any attacker require two successful attack rolls in order to hit'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']10%[/color] chance to have any attacker require two successful attack rolls in order to hit'"
   },
   {
     "ID": 293422598,
@@ -37,7 +37,7 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']10%[/color] chance to have any attacker require two successful attack rolls in order to hit'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']10%[/color] chance to have any attacker require two successful attack rolls in order to hit'"
   },
   {
     "ID": 293422599,

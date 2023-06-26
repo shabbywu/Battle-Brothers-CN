@@ -5,7 +5,7 @@
     "original": "]-10%[/color] per tile of distance",
     "translation": "]-10%[/color] 命中惩罚",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+30%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] per tile of distance'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+30%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] per tile of distance'"
   },
   {
     "ID": 293420599,
@@ -13,7 +13,7 @@
     "original": "[/color] tiles on even ground, more if throwing downhill",
     "translation": "[/color] 格(在平坦地面上), 如果向低处投掷会更远。",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if throwing downhill'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if throwing downhill'"
   },
   {
     "ID": 293420600,
@@ -21,7 +21,7 @@
     "original": "]No spiked balls left[/color]",
     "translation": "]没有流星锤剩余[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']No spiked balls left[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']No spiked balls left[/color]'"
   },
   {
     "ID": 293420601,
@@ -37,7 +37,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] spiked balls left'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] spiked balls left'"
   },
   {
     "ID": 293420603,
@@ -53,7 +53,7 @@
     "original": "[/color] spiked balls left",
     "translation": "[/color] 流星锤剩余",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] spiked balls left'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] spiked balls left'"
   },
   {
     "ID": 293420605,
@@ -61,7 +61,7 @@
     "original": "Has a range of [color=",
     "translation": "攻击范围为 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if throwing downhill'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if throwing downhill'"
   },
   {
     "ID": 293420606,
@@ -69,7 +69,7 @@
     "original": "]+30%[/color] chance to hit, and [color=",
     "translation": "]+30%[/color] 额外命中，同时每格距离有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+30%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] per tile of distance'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+30%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] per tile of distance'"
   },
   {
     "ID": 293420607,
@@ -77,6 +77,6 @@
     "original": "]Can not be used because this character is engaged in melee[/color]",
     "translation": "]无法使用，因为此角色已卷入近战[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   }
 ]

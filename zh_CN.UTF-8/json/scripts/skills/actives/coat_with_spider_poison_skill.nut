@@ -5,7 +5,7 @@
     "original": "]10[/color] damage per turn.",
     "translation": "]10[/color]伤害每回合",
     "stage": 5,
-    "context": "'text' = 'The next [color=' + this.Const.UI.Color.PositiveValue + ']4[/color] attacks will apply the Poisoned status effect for [color=' + this.Const.UI.Color.NegativeValue + ']10[/color] damage per turn.'"
+    "context": "text = 'The next [color=' + this.Const.UI.Color.PositiveValue + ']4[/color] attacks will apply the Poisoned status effect for [color=' + this.Const.UI.Color.NegativeValue + ']10[/color] damage per turn.'"
   },
   {
     "ID": 293419873,
@@ -21,7 +21,7 @@
     "original": "The next [color=",
     "translation": "下[color=",
     "stage": 5,
-    "context": "'text' = 'The next [color=' + this.Const.UI.Color.PositiveValue + ']4[/color] attacks will apply the Poisoned status effect for [color=' + this.Const.UI.Color.NegativeValue + ']10[/color] damage per turn.'"
+    "context": "text = 'The next [color=' + this.Const.UI.Color.PositiveValue + ']4[/color] attacks will apply the Poisoned status effect for [color=' + this.Const.UI.Color.NegativeValue + ']10[/color] damage per turn.'"
   },
   {
     "ID": 293419875,
@@ -29,7 +29,7 @@
     "original": "]4[/color] attacks will apply the Poisoned status effect for [color=",
     "translation": "]4[/color] 次攻击将施加中毒状态效果，造成[color=",
     "stage": 5,
-    "context": "'text' = 'The next [color=' + this.Const.UI.Color.PositiveValue + ']4[/color] attacks will apply the Poisoned status effect for [color=' + this.Const.UI.Color.NegativeValue + ']10[/color] damage per turn.'"
+    "context": "text = 'The next [color=' + this.Const.UI.Color.PositiveValue + ']4[/color] attacks will apply the Poisoned status effect for [color=' + this.Const.UI.Color.NegativeValue + ']10[/color] damage per turn.'"
   },
   {
     "ID": 293419876,
@@ -45,6 +45,6 @@
     "original": "]Can not be used because this character is engaged in melee[/color]",
     "translation": "]无法使用，因为此角色已卷入近战[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   }
 ]

@@ -13,7 +13,7 @@
     "original": "]-25%[/color] Melee Defense",
     "translation": "]-25%[/color] 近战防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Melee Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Melee Defense'"
   },
   {
     "ID": 293421952,

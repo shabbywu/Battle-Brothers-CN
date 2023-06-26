@@ -5,7 +5,7 @@
     "original": "]+5[/color] Ranged Defense",
     "translation": "]+5[/color] 远程防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense'"
   },
   {
     "ID": 293422419,
@@ -21,7 +21,7 @@
     "original": "No morale check triggered upon losing hitpoints",
     "translation": "失去生命值时不会触发士气检查",
     "stage": 5,
-    "context": "'text' = 'No morale check triggered upon losing hitpoints'"
+    "context": "text = 'No morale check triggered upon losing hitpoints'"
   },
   {
     "ID": 293422421,
@@ -29,7 +29,7 @@
     "original": "]+20[/color] Hitpoints",
     "translation": "]+20[/color] 生命值",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+20[/color] Hitpoints'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+20[/color] Hitpoints'"
   },
   {
     "ID": 293422422,
@@ -37,7 +37,7 @@
     "original": "]+2[/color] Fatigue Recovery per turn",
     "translation": "]+2[/color] 每回合疲劳值恢复量",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+2[/color] Fatigue Recovery per turn'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+2[/color] Fatigue Recovery per turn'"
   },
   {
     "ID": 293422423,
@@ -45,7 +45,7 @@
     "original": "]+10[/color] Resolve",
     "translation": "]+10[/color] 决心",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve'"
   },
   {
     "ID": 293422424,
@@ -53,7 +53,7 @@
     "original": "Is not affected by fresh injuries sustained during the current battle",
     "translation": "不会受到当前战斗中新产生的损伤的影响",
     "stage": 5,
-    "context": "'text' = 'Is not affected by fresh injuries sustained during the current battle'"
+    "context": "text = 'Is not affected by fresh injuries sustained during the current battle'"
   },
   {
     "ID": 293422425,
@@ -61,7 +61,7 @@
     "original": "No morale check triggered upon allies dying",
     "translation": "友军死亡时不会触发士气检查",
     "stage": 5,
-    "context": "'text' = 'No morale check triggered upon allies dying'"
+    "context": "text = 'No morale check triggered upon allies dying'"
   },
   {
     "ID": 293422426,
@@ -69,7 +69,7 @@
     "original": "]+5[/color] Melee Defense",
     "translation": "]+5[/color] 近战防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense'"
   },
   {
     "ID": 293422427,

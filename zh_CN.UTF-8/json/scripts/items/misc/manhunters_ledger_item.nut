@@ -5,7 +5,7 @@
     "original": "]-10%[/color] Experience Gain for Manhunters",
     "translation": "]-10%[/color] 猎奴者经验获取",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] Experience Gain for Manhunters'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] Experience Gain for Manhunters'"
   },
   {
     "ID": 293418672,
@@ -13,7 +13,7 @@
     "original": " Manhunters in the company",
     "translation": "战团里的猎奴者",
     "stage": 5,
-    "context": "'text' = nonIndebted + ' Manhunters in the company'"
+    "context": "text = nonIndebted + ' Manhunters in the company'"
   },
   {
     "ID": 293418673,
@@ -21,7 +21,7 @@
     "original": "There are too few Indebted in the company! The Manhunters will become dissatisfied if this continues!",
     "translation": "战团里的负债者太少了！ 如果这种情况继续下去，猎奴者会感到不满意！",
     "stage": 1,
-    "context": "'text' = 'There are too few Indebted in the company! The Manhunters will become dissatisfied if this continues!'"
+    "context": "text = 'There are too few Indebted in the company! The Manhunters will become dissatisfied if this continues!'"
   },
   {
     "ID": 293418674,
@@ -29,7 +29,7 @@
     "original": "]+10%[/color] Experience Gain for Indebted",
     "translation": "]+10%[/color] 负债者经验获取",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] Experience Gain for Indebted'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] Experience Gain for Indebted'"
   },
   {
     "ID": 293418675,
@@ -45,7 +45,7 @@
     "original": " Indebted in the company",
     "translation": "战团负债者",
     "stage": 1,
-    "context": "'text' = indebted + ' Indebted in the company'"
+    "context": "text = indebted + ' Indebted in the company'"
   },
   {
     "ID": 293418677,

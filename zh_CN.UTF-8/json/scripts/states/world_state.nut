@@ -165,7 +165,7 @@
     "original": "Old Campaign Loaded",
     "translation": "老战役已加载",
     "stage": 1,
-    "context": "this.showDialogPopup('Old Campaign Loaded', \"This campaign was created before you activated the 'Warriors of the North' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.\", null, null, True)"
+    "context": "this.showDialogPopup('Old Campaign Loaded', \"This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.\", null, null, True)"
   },
   {
     "ID": 293422895,
@@ -173,7 +173,7 @@
     "original": "Fortifications",
     "translation": "防御工事",
     "stage": 1,
-    "context": "'Name' = 'Fortifications'"
+    "context": "Name = 'Fortifications'"
   },
   {
     "ID": 293422896,

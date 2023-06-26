@@ -13,7 +13,7 @@
     "original": "]+3[/color] Fatigue Recovery per turn",
     "translation": "]+3[/color] 每回合疲劳值恢复量",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+3[/color] Fatigue Recovery per turn'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+3[/color] Fatigue Recovery per turn'"
   },
   {
     "ID": 293422583,

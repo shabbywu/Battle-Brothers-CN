@@ -5,7 +5,7 @@
     "original": "]-30%[/color] Ranged Skill",
     "translation": "]-30%[/color] 远程技能",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-30%[/color] Ranged Skill'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-30%[/color] Ranged Skill'"
   },
   {
     "ID": 293422292,
@@ -29,7 +29,7 @@
     "original": "]-30%[/color] Ranged Defense",
     "translation": "]-30%[/color] 远程防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-30%[/color] Ranged Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-30%[/color] Ranged Defense'"
   },
   {
     "ID": 293422295,
@@ -37,6 +37,6 @@
     "original": "]-2[/color] Vision",
     "translation": "]-2[/color] 视野",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-2[/color] Vision'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-2[/color] Vision'"
   }
 ]

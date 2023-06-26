@@ -5,7 +5,7 @@
     "original": "]+30[/color] Durability",
     "translation": "]+30[/color] 耐久度",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+30[/color] Durability'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+30[/color] Durability'"
   },
   {
     "ID": 293417984,
@@ -13,7 +13,7 @@
     "original": "]-2[/color] Maximum Fatigue",
     "translation": "]-2[/color] 最大疲劳值",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-2[/color] Maximum Fatigue'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-2[/color] Maximum Fatigue'"
   },
   {
     "ID": 293417985,
@@ -21,7 +21,7 @@
     "original": "Reduces damage from fire and firearms by [color=",
     "translation": "减少来自火和火器的伤害 [color=",
     "stage": 1,
-    "context": "'text' = 'Reduces damage from fire and firearms by [color=' + this.Const.UI.Color.NegativeValue + ']33%[/color]'"
+    "context": "text = 'Reduces damage from fire and firearms by [color=' + this.Const.UI.Color.NegativeValue + ']33%[/color]'"
   },
   {
     "ID": 293417986,

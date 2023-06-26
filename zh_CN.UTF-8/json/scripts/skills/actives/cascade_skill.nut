@@ -5,7 +5,7 @@
     "original": "Will make three separate strikes for one third of the weapon's damage each",
     "translation": "将进行三次独立的攻击，每次造成武器伤害的三分之一。",
     "stage": 5,
-    "context": "'text' = \"Will make three separate strikes for one third of the weapon's damage each\""
+    "context": "text = \"Will make three separate strikes for one third of the weapon's damage each\""
   },
   {
     "ID": 293419845,
@@ -29,7 +29,7 @@
     "original": "Ignores the bonus to Melee Defense granted by shields",
     "translation": "忽视盾牌提供的近战防御加成",
     "stage": 5,
-    "context": "'text' = 'Ignores the bonus to Melee Defense granted by shields'"
+    "context": "text = 'Ignores the bonus to Melee Defense granted by shields'"
   },
   {
     "ID": 293419848,

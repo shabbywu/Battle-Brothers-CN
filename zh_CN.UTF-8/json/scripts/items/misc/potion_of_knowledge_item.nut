@@ -5,7 +5,7 @@
     "original": "]+100%[/color] Experience Gain",
     "translation": "]+100%[/color] 经验获取",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+100%[/color] Experience Gain'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+100%[/color] Experience Gain'"
   },
   {
     "ID": 293418713,
@@ -13,7 +13,7 @@
     "original": "Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.",
     "translation": "右键单击或拖动到当前选定的角色上进行饮用。 此物品会在使用过程中消耗掉。",
     "stage": 1,
-    "context": "'text' = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
+    "context": "text = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
   },
   {
     "ID": 293418714,

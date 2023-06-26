@@ -5,7 +5,7 @@
     "original": "Fallen Hero",
     "translation": "堕落的英雄",
     "stage": 1,
-    "context": "'creatureName' = 'Fallen Hero'"
+    "context": "creatureName = 'Fallen Hero'"
   },
   {
     "ID": 293418588,
@@ -13,7 +13,7 @@
     "original": "Potion of the Sleepless",
     "translation": "不眠药剂",
     "stage": 1,
-    "context": "'potionName' = 'Potion of the Sleepless'"
+    "context": "potionName = 'Potion of the Sleepless'"
   },
   {
     "ID": 293418589,
@@ -21,7 +21,7 @@
     "original": "Ancient Honor Guard",
     "translation": "古代仪仗队",
     "stage": 1,
-    "context": "'creatureName' = 'Ancient Honor Guard'"
+    "context": "creatureName = 'Ancient Honor Guard'"
   },
   {
     "ID": 293418590,
@@ -37,7 +37,7 @@
     "original": "The King in Chains",
     "translation": "咒缚之王药剂",
     "stage": 1,
-    "context": "'potionName' = 'The King in Chains'"
+    "context": "potionName = 'The King in Chains'"
   },
   {
     "ID": 293418592,
@@ -45,7 +45,7 @@
     "original": "Necrosavant",
     "translation": "死灵学者",
     "stage": 5,
-    "context": "'creatureName' = 'Necrosavant'"
+    "context": "creatureName = 'Necrosavant'"
   },
   {
     "ID": 293418593,
@@ -53,7 +53,7 @@
     "original": "Tracks your findings on the undead",
     "translation": "记录着战团对不死亡灵的研究成果",
     "stage": 1,
-    "context": "'text' = 'Tracks your findings on the undead'"
+    "context": "text = 'Tracks your findings on the undead'"
   },
   {
     "ID": 293418594,
@@ -61,7 +61,7 @@
     "original": "Necromancer",
     "translation": "死灵法师",
     "stage": 1,
-    "context": "'creatureName' = 'Necromancer'"
+    "context": "creatureName = 'Necromancer'"
   },
   {
     "ID": 293418595,
@@ -77,7 +77,7 @@
     "original": "Wiederganger",
     "translation": "僵尸",
     "stage": 5,
-    "context": "'creatureName' = 'Wiederganger'"
+    "context": "creatureName = 'Wiederganger'"
   },
   {
     "ID": 293418597,
@@ -85,7 +85,7 @@
     "original": "Geist",
     "translation": "幽灵",
     "stage": 5,
-    "context": "'creatureName' = 'Geist'"
+    "context": "creatureName = 'Geist'"
   },
   {
     "ID": 293418598,
@@ -93,7 +93,7 @@
     "original": "Deadman's Drink",
     "translation": "不死人药剂",
     "stage": 1,
-    "context": "'potionName' = \"Deadman's Drink\""
+    "context": "potionName = \"Deadman's Drink\""
   },
   {
     "ID": 293418599,
@@ -101,7 +101,7 @@
     "original": "Elixir of Boneflesh",
     "translation": "血肉化骨药剂",
     "stage": 1,
-    "context": "'potionName' = 'Elixir of Boneflesh'"
+    "context": "potionName = 'Elixir of Boneflesh'"
   },
   {
     "ID": 293418600,
@@ -109,7 +109,7 @@
     "original": "Potion of Leather Skin",
     "translation": "厚皮药剂",
     "stage": 1,
-    "context": "'potionName' = 'Potion of Leather Skin'"
+    "context": "potionName = 'Potion of Leather Skin'"
   },
   {
     "ID": 293418601,
@@ -117,7 +117,7 @@
     "original": "Ancient Priest",
     "translation": "古代祭司",
     "stage": 5,
-    "context": "'creatureName' = 'Ancient Priest'"
+    "context": "creatureName = 'Ancient Priest'"
   },
   {
     "ID": 293418602,
@@ -125,7 +125,7 @@
     "original": "Ancient Skeleton",
     "translation": "远古骷髅(Ancient Skeleton)",
     "stage": 1,
-    "context": "'creatureName' = 'Ancient Skeleton'"
+    "context": "creatureName = 'Ancient Skeleton'"
   },
   {
     "ID": 293418603,
@@ -133,7 +133,7 @@
     "original": "Dastard's Valor",
     "translation": "懦夫之勇药剂",
     "stage": 1,
-    "context": "'potionName' = \"Dastard's Valor\""
+    "context": "potionName = \"Dastard's Valor\""
   },
   {
     "ID": 293418604,
@@ -141,7 +141,7 @@
     "original": "Elixir of Perseverance",
     "translation": "稳固药剂",
     "stage": 1,
-    "context": "'potionName' = 'Elixir of Perseverance'"
+    "context": "potionName = 'Elixir of Perseverance'"
   },
   {
     "ID": 293418605,
@@ -149,6 +149,6 @@
     "original": "Potion of the Nightstalker",
     "translation": "暗夜行者药剂",
     "stage": 1,
-    "context": "'potionName' = 'Potion of the Nightstalker'"
+    "context": "potionName = 'Potion of the Nightstalker'"
   }
 ]

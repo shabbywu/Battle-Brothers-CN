@@ -5,7 +5,7 @@
     "original": "]33%[/color] to resist the Dazed, Staggered, Stunned, Distracted, and Withered status effects",
     "translation": "有 ]33%[/color] 的几率抵抗茫然、踉跄、眩晕、分神和凋零效果",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] to resist the Dazed, Staggered, Stunned, Distracted, and Withered status effects'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] to resist the Dazed, Staggered, Stunned, Distracted, and Withered status effects'"
   },
   {
     "ID": 293418519,
@@ -13,7 +13,7 @@
     "original": "Mutates the body, causing sickness",
     "translation": "会让使用者的身体发生突变并导致疾病",
     "stage": 1,
-    "context": "'text' = 'Mutates the body, causing sickness'"
+    "context": "text = 'Mutates the body, causing sickness'"
   },
   {
     "ID": 293418520,
@@ -29,7 +29,7 @@
     "original": "Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.",
     "translation": "右键单击或拖动到当前选定的角色上进行饮用。 此物品会在使用过程中消耗掉。",
     "stage": 1,
-    "context": "'text' = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
+    "context": "text = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
   },
   {
     "ID": 293418522,

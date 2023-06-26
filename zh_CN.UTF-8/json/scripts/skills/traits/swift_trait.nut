@@ -5,7 +5,7 @@
     "original": "]+5[/color] Ranged Defense",
     "translation": "]+5[/color] 远程防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense'"
   },
   {
     "ID": 293422749,

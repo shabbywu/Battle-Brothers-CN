@@ -5,7 +5,7 @@
     "original": "Objectives",
     "translation": "目标",
     "stage": 1,
-    "context": "'title' = 'Objectives'"
+    "context": "title = 'Objectives'"
   },
   {
     "ID": 293407736,
@@ -13,7 +13,7 @@
     "original": "\" not found for contract \"",
     "translation": "合同没有找到",
     "stage": 1,
-    "context": "this.logError('Screen \"' + _id + '\" not found for contract \"' + this.m.Type + '\".')"
+    "context": "this.logError('State \"' + _id + '\" not found for contract \"' + this.m.Type + '\".')"
   },
   {
     "ID": 293407737,
@@ -149,7 +149,7 @@
     "original": "Payment",
     "translation": "报酬",
     "stage": 1,
-    "context": "'title' = 'Payment'"
+    "context": "title = 'Payment'"
   },
   {
     "ID": 293407754,

@@ -5,7 +5,7 @@
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
     "stage": 1,
-    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
+    "context": "text = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421401,
@@ -13,7 +13,7 @@
     "original": "Not affected by nighttime penalties",
     "translation": "不受夜间惩罚影响。",
     "stage": 1,
-    "context": "'text' = 'Not affected by nighttime penalties'"
+    "context": "text = 'Not affected by nighttime penalties'"
   },
   {
     "ID": 293421402,

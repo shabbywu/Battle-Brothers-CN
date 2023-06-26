@@ -5,7 +5,7 @@
     "original": "Set an area of [color=",
     "translation": "设定一个区域[color=",
     "stage": 1,
-    "context": "'text' = 'Set an area of [color=' + this.Const.UI.Color.DamageValue + ']7[/color] tiles ablaze with fire for 2 rounds. Water and snow can not burn.'"
+    "context": "text = 'Set an area of [color=' + this.Const.UI.Color.DamageValue + ']7[/color] tiles ablaze with fire for 2 rounds. Water and snow can not burn.'"
   },
   {
     "ID": 293420617,
@@ -13,7 +13,7 @@
     "original": "Burns away existing tile effects like Smoke or Miasma",
     "translation": "烧掉现有的格子效果，如烟雾或瘴气",
     "stage": 1,
-    "context": "'text' = 'Burns away existing tile effects like Smoke or Miasma'"
+    "context": "text = 'Burns away existing tile effects like Smoke or Miasma'"
   },
   {
     "ID": 293420618,
@@ -29,7 +29,7 @@
     "original": "Fire rages here, melting armor and flesh alike",
     "translation": "火焰在这里肆虐，熔化了盔甲和血肉",
     "stage": 1,
-    "context": "'Tooltip' = 'Fire rages here, melting armor and flesh alike'"
+    "context": "Tooltip = 'Fire rages here, melting armor and flesh alike'"
   },
   {
     "ID": 293420620,
@@ -37,7 +37,7 @@
     "original": "]7[/color] tiles ablaze with fire for 2 rounds. Water and snow can not burn.",
     "translation": "]7[/color] 个方块着火，持续两回合。水和雪不能燃烧。",
     "stage": 1,
-    "context": "'text' = 'Set an area of [color=' + this.Const.UI.Color.DamageValue + ']7[/color] tiles ablaze with fire for 2 rounds. Water and snow can not burn.'"
+    "context": "text = 'Set an area of [color=' + this.Const.UI.Color.DamageValue + ']7[/color] tiles ablaze with fire for 2 rounds. Water and snow can not burn.'"
   },
   {
     "ID": 293420621,

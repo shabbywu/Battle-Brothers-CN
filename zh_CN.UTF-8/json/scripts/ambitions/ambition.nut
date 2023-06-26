@@ -5,7 +5,7 @@
     "original": "Your Reward",
     "translation": "报酬",
     "stage": 5,
-    "context": "'text' = 'Your Reward'"
+    "context": "text = 'Your Reward'"
   },
   {
     "ID": 293403287,
@@ -13,7 +13,7 @@
     "original": "Your Task",
     "translation": "任务",
     "stage": 5,
-    "context": "'text' = 'Your Task'"
+    "context": "text = 'Your Task'"
   },
   {
     "ID": 293403288,
@@ -21,6 +21,6 @@
     "original": "Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts.",
     "translation": "你的名望会提高，这意味着合同的报酬会更高，并有可能解锁新类型的合同。",
     "stage": 5,
-    "context": "'text' = 'Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts.'"
+    "context": "text = 'Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts.'"
   }
 ]

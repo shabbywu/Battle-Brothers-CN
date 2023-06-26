@@ -5,7 +5,7 @@
     "original": "Orc Berserker",
     "translation": "兽人狂战士",
     "stage": 1,
-    "context": "'creatureName' = 'Orc Berserker'"
+    "context": "creatureName = 'Orc Berserker'"
   },
   {
     "ID": 293418560,
@@ -13,7 +13,7 @@
     "original": "Deadeye's Draught",
     "translation": "死神之眼药剂",
     "stage": 1,
-    "context": "'potionName' = \"Deadeye's Draught\""
+    "context": "potionName = \"Deadeye's Draught\""
   },
   {
     "ID": 293418561,
@@ -21,7 +21,7 @@
     "original": "Rose Philter",
     "translation": "血腥玫瑰药剂",
     "stage": 1,
-    "context": "'potionName' = 'Rose Philter'"
+    "context": "potionName = 'Rose Philter'"
   },
   {
     "ID": 293418562,
@@ -29,7 +29,7 @@
     "original": "Orc Warrior",
     "translation": "兽人战士",
     "stage": 1,
-    "context": "'creatureName' = 'Orc Warrior'"
+    "context": "creatureName = 'Orc Warrior'"
   },
   {
     "ID": 293418563,
@@ -37,7 +37,7 @@
     "original": "Tracks your study of orc and goblin anatomy",
     "translation": "记录着战团对兽人与地精的研究成果",
     "stage": 1,
-    "context": "'text' = 'Tracks your study of orc and goblin anatomy'"
+    "context": "text = 'Tracks your study of orc and goblin anatomy'"
   },
   {
     "ID": 293418564,
@@ -45,7 +45,7 @@
     "original": "Orc Warlord",
     "translation": "兽人军阀",
     "stage": 1,
-    "context": "'creatureName' = 'Orc Warlord'"
+    "context": "creatureName = 'Orc Warlord'"
   },
   {
     "ID": 293418565,
@@ -53,7 +53,7 @@
     "original": "Greasejar Potion",
     "translation": "十指抹油药剂",
     "stage": 1,
-    "context": "'potionName' = 'Greasejar Potion'"
+    "context": "potionName = 'Greasejar Potion'"
   },
   {
     "ID": 293418566,
@@ -61,7 +61,7 @@
     "original": "Font of Strength",
     "translation": "力量真言药剂",
     "stage": 1,
-    "context": "'potionName' = 'Font of Strength'"
+    "context": "potionName = 'Font of Strength'"
   },
   {
     "ID": 293418567,
@@ -69,7 +69,7 @@
     "original": "Ironhead Potion",
     "translation": "铁头药剂",
     "stage": 1,
-    "context": "'potionName' = 'Ironhead Potion'"
+    "context": "potionName = 'Ironhead Potion'"
   },
   {
     "ID": 293418568,
@@ -85,7 +85,7 @@
     "original": "Orc Young",
     "translation": "兽人幼崽",
     "stage": 5,
-    "context": "'creatureName' = 'Orc Young'"
+    "context": "creatureName = 'Orc Young'"
   },
   {
     "ID": 293418570,
@@ -93,7 +93,7 @@
     "original": "Goblin Shaman",
     "translation": "地精萨满",
     "stage": 1,
-    "context": "'creatureName' = 'Goblin Shaman'"
+    "context": "creatureName = 'Goblin Shaman'"
   },
   {
     "ID": 293418571,
@@ -109,7 +109,7 @@
     "original": "Goblin Overseer",
     "translation": "地精监督者",
     "stage": 1,
-    "context": "'creatureName' = 'Goblin Overseer'"
+    "context": "creatureName = 'Goblin Overseer'"
   },
   {
     "ID": 293418573,
@@ -117,7 +117,7 @@
     "original": "Potion of Fleetfoot",
     "translation": "扁平足药剂",
     "stage": 1,
-    "context": "'potionName' = 'Potion of Fleetfoot'"
+    "context": "potionName = 'Potion of Fleetfoot'"
   },
   {
     "ID": 293418574,
@@ -125,7 +125,7 @@
     "original": "Goblin",
     "translation": "地精",
     "stage": 1,
-    "context": "'creatureName' = 'Goblin'"
+    "context": "creatureName = 'Goblin'"
   },
   {
     "ID": 293418575,
@@ -133,6 +133,6 @@
     "original": "Kineticist's Draft",
     "translation": "动力学家药剂",
     "stage": 1,
-    "context": "'potionName' = \"Kineticist's Draft\""
+    "context": "potionName = \"Kineticist's Draft\""
   }
 ]

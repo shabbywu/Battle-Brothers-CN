@@ -5,7 +5,7 @@
     "original": " of them.",
     "translation": " 场。",
     "stage": 5,
-    "context": "'text' = this.getDescription() + ' So far, this character has fought in ' + matches + ' matches and won ' + won + ' of them.'"
+    "context": "text = this.getDescription() + ' So far, this character has fought in ' + matches + ' matches and won ' + won + ' of them.'"
   },
   {
     "ID": 293422329,
@@ -37,7 +37,7 @@
     "original": "]+5[/color] Resolve",
     "translation": "]+5[/color] 决心",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Resolve'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Resolve'"
   },
   {
     "ID": 293422333,
@@ -45,7 +45,7 @@
     "original": " So far, this character has fought in ",
     "translation": "到目前为止，这个角色参与了 ",
     "stage": 5,
-    "context": "'text' = this.getDescription() + ' So far, this character has fought in ' + matches + ' matches and won ' + won + ' of them.'"
+    "context": "text = this.getDescription() + ' So far, this character has fought in ' + matches + ' matches and won ' + won + ' of them.'"
   },
   {
     "ID": 293422334,
@@ -53,6 +53,6 @@
     "original": " matches and won ",
     "translation": " 场比赛并赢了 ",
     "stage": 5,
-    "context": "'text' = this.getDescription() + ' So far, this character has fought in ' + matches + ' matches and won ' + won + ' of them.'"
+    "context": "text = this.getDescription() + ' So far, this character has fought in ' + matches + ' matches and won ' + won + ' of them.'"
   }
 ]

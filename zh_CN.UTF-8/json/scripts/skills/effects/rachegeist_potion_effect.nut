@@ -13,7 +13,7 @@
     "original": "Receives only [color=",
     "translation": "只受到[color=",
     "stage": 2,
-    "context": "'text' = 'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']75%[/color] of any damage if hitpoints are below [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color]'"
+    "context": "text = 'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']75%[/color] of any damage if hitpoints are below [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color]'"
   },
   {
     "ID": 293421683,
@@ -21,7 +21,7 @@
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
     "stage": 1,
-    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
+    "context": "text = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421684,
@@ -29,7 +29,7 @@
     "original": "]+25%[/color] Damage if hitpoints are below [color=",
     "translation": "]+25%[/color]伤害当生命值低于[color=",
     "stage": 2,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] Damage if hitpoints are below [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] Damage if hitpoints are below [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color]'"
   },
   {
     "ID": 293421685,
@@ -37,7 +37,7 @@
     "original": "]75%[/color] of any damage if hitpoints are below [color=",
     "translation": "]75%[/color]任何伤害, 当生命值低于[color=",
     "stage": 2,
-    "context": "'text' = 'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']75%[/color] of any damage if hitpoints are below [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color]'"
+    "context": "text = 'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']75%[/color] of any damage if hitpoints are below [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color]'"
   },
   {
     "ID": 293421686,

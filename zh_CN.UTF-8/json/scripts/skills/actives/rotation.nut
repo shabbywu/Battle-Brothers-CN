@@ -21,6 +21,6 @@
     "original": "]Can not be used while rooted[/color]",
     "translation": "]定身时不能使用[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used while rooted[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used while rooted[/color]'"
   }
 ]

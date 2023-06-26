@@ -29,7 +29,7 @@
     "original": "[/color] damage",
     "translation": "[/color] 伤害",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + p.DamageRegularMin + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + p.DamageRegularMax + '[/color] damage'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + p.DamageRegularMin + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + p.DamageRegularMax + '[/color] damage'"
   },
   {
     "ID": 293420034,
@@ -37,7 +37,7 @@
     "original": "[/color] - [color=",
     "translation": "[/color] - [color=",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + p.DamageRegularMin + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + p.DamageRegularMax + '[/color] damage'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + p.DamageRegularMin + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + p.DamageRegularMax + '[/color] damage'"
   },
   {
     "ID": 293420035,
@@ -45,6 +45,6 @@
     "original": "Inflicts [color=",
     "translation": "造成 [color=",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + p.DamageRegularMin + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + p.DamageRegularMax + '[/color] damage'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + p.DamageRegularMin + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + p.DamageRegularMax + '[/color] damage'"
   }
 ]

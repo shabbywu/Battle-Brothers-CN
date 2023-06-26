@@ -13,7 +13,7 @@
     "original": "]20%[/color] each turn for 3 turns.",
     "translation": "]20%[/color] 护甲，持续3回合",
     "stage": 5,
-    "context": "'text' = \"Reduces the target's armor by [color=\" + this.Const.UI.Color.DamageValue + ']20%[/color] each turn for 3 turns.'"
+    "context": "text = \"Reduces the target's armor by [color=\" + this.Const.UI.Color.DamageValue + ']20%[/color] each turn for 3 turns.'"
   },
   {
     "ID": 293420580,
@@ -21,7 +21,7 @@
     "original": "Reduces the target's armor by [color=",
     "translation": "每回合减少目标 [color=",
     "stage": 5,
-    "context": "'text' = \"Reduces the target's armor by [color=\" + this.Const.UI.Color.DamageValue + ']20%[/color] each turn for 3 turns.'"
+    "context": "text = \"Reduces the target's armor by [color=\" + this.Const.UI.Color.DamageValue + ']20%[/color] each turn for 3 turns.'"
   },
   {
     "ID": 293420581,
@@ -37,7 +37,7 @@
     "original": "]33%[/color] chance to hit bystanders at the same or lower height level as well.",
     "translation": "]33%[/color] 几率波及四周相同或更低高度的单位。",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] chance to hit bystanders at the same or lower height level as well.'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] chance to hit bystanders at the same or lower height level as well.'"
   },
   {
     "ID": 293420583,
@@ -45,6 +45,6 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] chance to hit bystanders at the same or lower height level as well.'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] chance to hit bystanders at the same or lower height level as well.'"
   }
 ]

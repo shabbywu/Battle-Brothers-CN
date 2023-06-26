@@ -13,7 +13,7 @@
     "original": "]10%[/color] of head armor is lost each turn",
     "translation": "]10%[/color] 头部盔甲每回合都会损失",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']10%[/color] of head armor is lost each turn'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']10%[/color] of head armor is lost each turn'"
   },
   {
     "ID": 293421584,
@@ -29,7 +29,7 @@
     "original": "]10%[/color] of body armor is lost each turn",
     "translation": "]10%[/color] 身体护甲每回合都会损失",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']10%[/color] of body armor is lost each turn'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']10%[/color] of body armor is lost each turn'"
   },
   {
     "ID": 293421586,

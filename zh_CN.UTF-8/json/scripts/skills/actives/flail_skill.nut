@@ -13,7 +13,7 @@
     "original": "Ignores the bonus to Melee Defense granted by shields",
     "translation": "忽视盾牌提供的近战防御加成",
     "stage": 5,
-    "context": "'text' = 'Ignores the bonus to Melee Defense granted by shields'"
+    "context": "text = 'Ignores the bonus to Melee Defense granted by shields'"
   },
   {
     "ID": 293419990,

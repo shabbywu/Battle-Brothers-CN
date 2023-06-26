@@ -5,7 +5,7 @@
     "original": "Allows the wearer to see at night and negates any penalties due to nighttime.",
     "translation": "允许佩戴者在夜间观看，并抵消任何因夜间造成的惩罚。",
     "stage": 5,
-    "context": "'text' = 'Allows the wearer to see at night and negates any penalties due to nighttime.'"
+    "context": "text = 'Allows the wearer to see at night and negates any penalties due to nighttime.'"
   },
   {
     "ID": 293418122,

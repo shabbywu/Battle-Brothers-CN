@@ -5,7 +5,7 @@
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
     "stage": 1,
-    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
+    "context": "text = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421658,
@@ -21,7 +21,7 @@
     "original": "]33%[/color] chance to resist the Dazed, Staggered, Stunned, Distracted, and Withered status effects",
     "translation": "有 ]33%[/color] chance 的几率抵抗茫然、踉跄、眩晕、分神和凋零效果",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] chance to resist the Dazed, Staggered, Stunned, Distracted, and Withered status effects'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] chance to resist the Dazed, Staggered, Stunned, Distracted, and Withered status effects'"
   },
   {
     "ID": 293421660,

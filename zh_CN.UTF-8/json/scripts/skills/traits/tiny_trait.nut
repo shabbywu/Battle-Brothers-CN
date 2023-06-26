@@ -5,7 +5,7 @@
     "original": "]+5[/color] Ranged Defense",
     "translation": "]+5[/color] 远程防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense'"
   },
   {
     "ID": 293422758,
@@ -37,7 +37,7 @@
     "original": "]+5[/color] Melee Defense",
     "translation": "]+5[/color] 近战防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense'"
   },
   {
     "ID": 293422762,
@@ -53,7 +53,7 @@
     "original": "]-15%[/color] Melee Damage",
     "translation": "]-15%[/color] 近战伤害",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] Melee Damage'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] Melee Damage'"
   },
   {
     "ID": 293422764,

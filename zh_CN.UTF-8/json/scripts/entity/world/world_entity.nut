@@ -29,7 +29,7 @@
     "original": "instance",
     "translation": "instance",
     "stage": 1,
-    "context": "typeof _entity == 'instance'"
+    "context": "typeof _p == 'instance' || typeof _p == 'table'"
   },
   {
     "ID": 293412495,

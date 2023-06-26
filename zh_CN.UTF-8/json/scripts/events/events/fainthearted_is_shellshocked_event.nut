@@ -13,7 +13,7 @@
     "original": "[img]gfx/ui/events/event_12.png[/img]You find %fainthearted% leaning back and forth before the campfire. His face is speckled with dried blood and his hands are shaking. A few brothers try and talk to him, but none manage to get through. It appears the fainthearted man has been rattled by the horrors of a recent and brutal battle.",
     "translation": "[img]gfx/ui/events/event_12.png[/img]你发现 %fainthearted% 在营火前踟躇。 他的脸上有几点已经干了的血迹，他的手在颤抖。 有几个队员试着和他说话，但没有一个人能奏效。 最近一场残酷战斗让这个懦弱的人感到恐慌。",
     "stage": 1,
-    "context": "'Text' = '[img]gfx/ui/events/event_12.png[/img]You find %fainthearted% leaning back and forth before the campfire. His face is speckled with dried blood and his hands are shaking. A few brothers try and talk to him, but none manage to get through. It appears the fainthearted man has been rattled by the horrors of a recent and brutal battle.'"
+    "context": "Text = '[img]gfx/ui/events/event_12.png[/img]You find %fainthearted% leaning back and forth before the campfire. His face is speckled with dried blood and his hands are shaking. A few brothers try and talk to him, but none manage to get through. It appears the fainthearted man has been rattled by the horrors of a recent and brutal battle.'"
   },
   {
     "ID": 293415769,
@@ -29,6 +29,6 @@
     "original": "Leave him be.",
     "translation": "让他自己待会儿。",
     "stage": 1,
-    "context": "'Text' = 'Leave him be.'"
+    "context": "Text = 'Leave him be.'"
   }
 ]

@@ -5,7 +5,7 @@
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
     "stage": 1,
-    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
+    "context": "text = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421541,
@@ -13,7 +13,7 @@
     "original": "This character's skin is hard and stone-like, granting [color=",
     "translation": "这个角色的皮肤坚硬如石头，赋予[color=",
     "stage": 1,
-    "context": "'text' = \"This character's skin is hard and stone-like, granting [color=\" + this.Const.UI.Color.PositiveValue + ']25[/color] points of natural armor'"
+    "context": "text = \"This character's skin is hard and stone-like, granting [color=\" + this.Const.UI.Color.PositiveValue + ']25[/color] points of natural armor'"
   },
   {
     "ID": 293421542,
@@ -29,7 +29,7 @@
     "original": "]25[/color] points of natural armor",
     "translation": "]25[/color] 天生护甲点数",
     "stage": 1,
-    "context": "'text' = \"This character's skin is hard and stone-like, granting [color=\" + this.Const.UI.Color.PositiveValue + ']25[/color] points of natural armor'"
+    "context": "text = \"This character's skin is hard and stone-like, granting [color=\" + this.Const.UI.Color.PositiveValue + ']25[/color] points of natural armor'"
   },
   {
     "ID": 293421544,

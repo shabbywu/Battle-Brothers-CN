@@ -13,7 +13,7 @@
     "original": "%[/color] of any damage to hitpoints from attacks",
     "translation": "%[/color]生命值伤害(对所有类型的攻击均生效)",
     "stage": 5,
-    "context": "'text' = 'Only receive [color=' + this.Const.UI.Color.PositiveValue + ']' + fm + '%[/color] of any damage to hitpoints from attacks'"
+    "context": "text = 'Only receive [color=' + this.Const.UI.Color.PositiveValue + ']' + fm + '%[/color] of any damage to hitpoints from attacks'"
   },
   {
     "ID": 293422147,
@@ -21,7 +21,7 @@
     "original": "Only receive [color=",
     "translation": "只受到 [color=",
     "stage": 5,
-    "context": "'text' = 'Only receive [color=' + this.Const.UI.Color.PositiveValue + ']' + fm + '%[/color] of any damage to hitpoints from attacks'"
+    "context": "text = 'Only receive [color=' + this.Const.UI.Color.PositiveValue + ']' + fm + '%[/color] of any damage to hitpoints from attacks'"
   },
   {
     "ID": 293422148,
@@ -29,6 +29,6 @@
     "original": "]This character's body and head armor are too heavy as to gain any benefit from being nimble[/color]",
     "translation": "]这个角色的身体和头部盔甲太重，无法从轻灵中获得任何好处[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + \"]This character's body and head armor are too heavy as to gain any benefit from being nimble[/color]\""
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + \"]This character's body and head armor are too heavy as to gain any benefit from being nimble[/color]\""
   }
 ]

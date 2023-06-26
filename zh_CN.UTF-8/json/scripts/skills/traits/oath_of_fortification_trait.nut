@@ -13,7 +13,7 @@
     "original": "]25%[/color] less Fatigue.",
     "translation": "]25%[/color] 疲劳值积累",
     "stage": 5,
-    "context": "'text' = 'Shield skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.'"
+    "context": "text = 'Shield skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.'"
   },
   {
     "ID": 293422636,
@@ -21,7 +21,7 @@
     "original": "]+5[/color] Melee Defense and [color=",
     "translation": "]+5[/color] 近战防御和 [color=",
     "stage": 5,
-    "context": "'text' = \"The 'Shield Wall' shield skill has grants an additional [color=\" + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense and [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense.'"
+    "context": "text = \"The 'Shield Wall' shield skill has grants an additional [color=\" + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense and [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense.'"
   },
   {
     "ID": 293422637,
@@ -29,7 +29,7 @@
     "original": "The 'Shield Wall' shield skill has grants an additional [color=",
     "translation": "‘盾墙’技能将会额外赋予 [color=",
     "stage": 5,
-    "context": "'text' = \"The 'Shield Wall' shield skill has grants an additional [color=\" + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense and [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense.'"
+    "context": "text = \"The 'Shield Wall' shield skill has grants an additional [color=\" + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense and [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense.'"
   },
   {
     "ID": 293422638,
@@ -37,7 +37,7 @@
     "original": "Shield skills build up [color=",
     "translation": "盾牌技能减少 [color=",
     "stage": 5,
-    "context": "'text' = 'Shield skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.'"
+    "context": "text = 'Shield skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.'"
   },
   {
     "ID": 293422639,
@@ -45,7 +45,7 @@
     "original": "Is focused on defense, and cannot move in the first round of combat",
     "translation": "专注于防御，在战斗的第一回合无法移动",
     "stage": 5,
-    "context": "'text' = 'Is focused on defense, and cannot move in the first round of combat'"
+    "context": "text = 'Is focused on defense, and cannot move in the first round of combat'"
   },
   {
     "ID": 293422640,
@@ -53,7 +53,7 @@
     "original": "]+5[/color] Ranged Defense.",
     "translation": "]+5[/color] 远程防御",
     "stage": 5,
-    "context": "'text' = \"The 'Shield Wall' shield skill has grants an additional [color=\" + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense and [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense.'"
+    "context": "text = \"The 'Shield Wall' shield skill has grants an additional [color=\" + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense and [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense.'"
   },
   {
     "ID": 293422641,
@@ -61,7 +61,7 @@
     "original": "The 'Knock Back' shield skill has a [color=",
     "translation": "“击退”盾牌技能具有 [color=",
     "stage": 5,
-    "context": "'text' = \"The 'Knock Back' shield skill has a [color=\" + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to Stagger on hits.'"
+    "context": "text = \"The 'Knock Back' shield skill has a [color=\" + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to Stagger on hits.'"
   },
   {
     "ID": 293422642,
@@ -69,7 +69,7 @@
     "original": "]100%[/color] chance to Stagger on hits.",
     "translation": "]100%[/color] 几率在命中时造成趔趄。",
     "stage": 5,
-    "context": "'text' = \"The 'Knock Back' shield skill has a [color=\" + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to Stagger on hits.'"
+    "context": "text = \"The 'Knock Back' shield skill has a [color=\" + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to Stagger on hits.'"
   },
   {
     "ID": 293422643,

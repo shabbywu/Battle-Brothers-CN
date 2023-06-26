@@ -13,7 +13,7 @@
     "original": "]Must be reloaded before firing again[/color]",
     "translation": "]必须重新装填才能再次发射[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Must be reloaded before firing again[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Must be reloaded before firing again[/color]'"
   },
   {
     "ID": 293419371,

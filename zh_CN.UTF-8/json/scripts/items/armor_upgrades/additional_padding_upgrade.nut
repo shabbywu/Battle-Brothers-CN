@@ -5,7 +5,7 @@
     "original": "]-2[/color] Maximum Fatigue",
     "translation": "]-2[/color] 最大疲劳值",
     "stage": 1,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-2[/color] Maximum Fatigue'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-2[/color] Maximum Fatigue'"
   },
   {
     "ID": 293417876,
@@ -13,7 +13,7 @@
     "original": "]66%[/color] of any damage that ignores armor",
     "translation": "]66%[/color] 伤害(无视护甲)",
     "stage": 1,
-    "context": "'text' = 'Only take [color=' + this.Const.UI.Color.NegativeValue + ']66%[/color] of any damage that ignores armor'"
+    "context": "text = 'Only take [color=' + this.Const.UI.Color.NegativeValue + ']66%[/color] of any damage that ignores armor'"
   },
   {
     "ID": 293417877,
@@ -29,7 +29,7 @@
     "original": "Reduces damage ignoring armor by [color=",
     "translation": "使忽视盔甲的伤害减少 [color=",
     "stage": 1,
-    "context": "'text' = 'Reduces damage ignoring armor by [color=' + this.Const.UI.Color.NegativeValue + ']33%[/color]'"
+    "context": "text = 'Reduces damage ignoring armor by [color=' + this.Const.UI.Color.NegativeValue + ']33%[/color]'"
   },
   {
     "ID": 293417879,
@@ -37,7 +37,7 @@
     "original": "Only take [color=",
     "translation": "只保留 [color=",
     "stage": 1,
-    "context": "'text' = 'Only take [color=' + this.Const.UI.Color.NegativeValue + ']66%[/color] of any damage that ignores armor'"
+    "context": "text = 'Only take [color=' + this.Const.UI.Color.NegativeValue + ']66%[/color] of any damage that ignores armor'"
   },
   {
     "ID": 293417880,

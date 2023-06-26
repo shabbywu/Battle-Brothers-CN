@@ -5,7 +5,7 @@
     "original": "]-50%[/color] Melee Skill",
     "translation": "]-50%[/color] 近战技能",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Melee Skill'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Melee Skill'"
   },
   {
     "ID": 293422067,
@@ -13,7 +13,7 @@
     "original": "]-50%[/color] Ranged Skill",
     "translation": "]-50%[/color] 远程技能",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Ranged Skill'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Ranged Skill'"
   },
   {
     "ID": 293422068,

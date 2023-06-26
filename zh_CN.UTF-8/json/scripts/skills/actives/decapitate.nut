@@ -13,7 +13,7 @@
     "original": "[/color] damage to armor",
     "translation": "[/color] 护甲伤害",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_Armor_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_Armor_max + '[/color] damage to armor'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_Armor_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_Armor_max + '[/color] damage to armor'"
   },
   {
     "ID": 293419917,
@@ -21,7 +21,7 @@
     "original": "Inflicts [color=",
     "translation": "造成 [color=",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_Armor_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_Armor_max + '[/color] damage to armor'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max * 2 + '[/color] damage depending on how wounded the target already is, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
   },
   {
     "ID": 293419918,
@@ -29,7 +29,7 @@
     "original": "[/color] - [color=",
     "translation": "[/color] - [color=",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_Armor_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_Armor_max + '[/color] damage to armor'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_Armor_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_Armor_max + '[/color] damage to armor'"
   },
   {
     "ID": 293419919,
@@ -37,7 +37,7 @@
     "original": "]0[/color] - [color=",
     "translation": "]0[/color] - [color=",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max * 2 + '[/color] damage depending on how wounded the target already is, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max * 2 + '[/color] damage depending on how wounded the target already is, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
   },
   {
     "ID": 293419920,
@@ -45,7 +45,7 @@
     "original": "[/color] damage depending on how wounded the target already is, of which [color=",
     "translation": "[/color] 伤害（取决于目标已受伤的程度），其中[color=",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max * 2 + '[/color] damage depending on how wounded the target already is, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max * 2 + '[/color] damage depending on how wounded the target already is, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
   },
   {
     "ID": 293419921,
@@ -53,7 +53,7 @@
     "original": "[/color] can ignore armor",
     "translation": "[/color] 伤害可无视护甲",
     "stage": 5,
-    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max * 2 + '[/color] damage depending on how wounded the target already is, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
+    "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max * 2 + '[/color] damage depending on how wounded the target already is, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
   },
   {
     "ID": 293419922,

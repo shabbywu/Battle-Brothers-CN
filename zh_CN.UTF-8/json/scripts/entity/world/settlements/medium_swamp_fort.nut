@@ -5,7 +5,7 @@
     "original": "Kolkburg",
     "translation": "科尔克堡",
     "stage": 1,
-    "context": "'Kolkburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411504,
@@ -13,7 +13,7 @@
     "original": "Teichburg",
     "translation": "泰克堡",
     "stage": 1,
-    "context": "'Teichburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411505,
@@ -21,7 +21,7 @@
     "original": "Marschburg",
     "translation": "马尔斯堡",
     "stage": 1,
-    "context": "'Marschburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411506,
@@ -29,7 +29,7 @@
     "original": "Schwarzburg",
     "translation": "施瓦兹堡",
     "stage": 1,
-    "context": "'Schwarzburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411507,
@@ -37,7 +37,7 @@
     "original": "Muckenburg",
     "translation": "墨肯堡",
     "stage": 1,
-    "context": "'Muckenburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411508,
@@ -45,7 +45,7 @@
     "original": "Nebelburg",
     "translation": "尼拜尔堡",
     "stage": 1,
-    "context": "'Nebelburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411509,
@@ -53,7 +53,7 @@
     "original": "Furthburg",
     "translation": "弗思伯格",
     "stage": 1,
-    "context": "'Furthburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411510,
@@ -61,7 +61,7 @@
     "original": "Pfuhlburg",
     "translation": "普弗尔堡",
     "stage": 1,
-    "context": "'Pfuhlburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411511,
@@ -77,7 +77,7 @@
     "original": "Krautburg",
     "translation": "克劳特堡",
     "stage": 1,
-    "context": "'Krautburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411513,
@@ -85,7 +85,7 @@
     "original": "Egelburg",
     "translation": "艾格尔堡",
     "stage": 1,
-    "context": "'Egelburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411514,
@@ -93,7 +93,7 @@
     "original": "Schlammburg",
     "translation": "施拉姆堡",
     "stage": 1,
-    "context": "'Schlammburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411515,
@@ -101,7 +101,7 @@
     "original": "Froschburg",
     "translation": "弗罗施堡",
     "stage": 1,
-    "context": "'Froschburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411516,
@@ -109,7 +109,7 @@
     "original": "Fennburg",
     "translation": "芬堡",
     "stage": 1,
-    "context": "'Fennburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411517,
@@ -117,7 +117,7 @@
     "original": "Moosburg",
     "translation": "莫斯堡",
     "stage": 1,
-    "context": "'Moosburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411518,
@@ -133,7 +133,7 @@
     "original": "Molchburg",
     "translation": "莫尔克堡",
     "stage": 1,
-    "context": "'Molchburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411520,
@@ -141,7 +141,7 @@
     "original": "Schilfburg",
     "translation": "芦苇堡",
     "stage": 1,
-    "context": "'Schilfburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411521,
@@ -149,7 +149,7 @@
     "original": "Grunburg",
     "translation": "格伦堡",
     "stage": 1,
-    "context": "'Grunburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411522,
@@ -157,7 +157,7 @@
     "original": "Bruchburg",
     "translation": "布鲁赫堡",
     "stage": 1,
-    "context": "'Bruchburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411523,
@@ -165,7 +165,7 @@
     "original": "Schlickburg",
     "translation": "施利克堡",
     "stage": 1,
-    "context": "'Schlickburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411524,
@@ -173,7 +173,7 @@
     "original": "Kaltenburg",
     "translation": "卡尔滕堡",
     "stage": 1,
-    "context": "'Kaltenburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411525,
@@ -181,7 +181,7 @@
     "original": "Moorburg",
     "translation": "墨尔堡",
     "stage": 1,
-    "context": "'Moorburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411526,
@@ -189,7 +189,7 @@
     "original": "Torfburg",
     "translation": "托尔夫堡",
     "stage": 1,
-    "context": "'Torfburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411527,
@@ -197,7 +197,7 @@
     "original": "Birkenburg",
     "translation": "伯肯堡",
     "stage": 1,
-    "context": "'Birkenburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411528,
@@ -205,7 +205,7 @@
     "original": "Brookburg",
     "translation": "布鲁克堡",
     "stage": 1,
-    "context": "'Brookburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411529,
@@ -213,7 +213,7 @@
     "original": "Riedburg",
     "translation": "里德堡",
     "stage": 1,
-    "context": "'Riedburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411530,
@@ -221,7 +221,7 @@
     "original": "Dunkelburg",
     "translation": "邓凯尔堡",
     "stage": 1,
-    "context": "'Dunkelburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411531,
@@ -229,7 +229,7 @@
     "original": "Senkburg",
     "translation": "森克堡",
     "stage": 1,
-    "context": "'Senkburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411532,
@@ -237,7 +237,7 @@
     "original": "Morastburg",
     "translation": "莫拉斯特堡",
     "stage": 1,
-    "context": "'Morastburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411533,
@@ -245,7 +245,7 @@
     "original": "Suhlburg",
     "translation": "苏尔堡",
     "stage": 1,
-    "context": "'Suhlburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411534,
@@ -253,7 +253,7 @@
     "original": "Rohrburg",
     "translation": "罗尔堡",
     "stage": 1,
-    "context": "'Rohrburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411535,
@@ -261,7 +261,7 @@
     "original": "Brackenburg",
     "translation": "布拉肯堡",
     "stage": 1,
-    "context": "'Brackenburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411536,
@@ -269,7 +269,7 @@
     "original": "Stakenburg",
     "translation": "斯塔肯堡",
     "stage": 1,
-    "context": "'Stakenburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   },
   {
     "ID": 293411537,
@@ -277,6 +277,6 @@
     "original": "Brunnburg",
     "translation": "布伦堡",
     "stage": 1,
-    "context": "'Brunnburg'"
+    "context": "this.getRandomName(['Schwarzburg','Moosburg','Pfuhlburg','Moorburg','Furthburg','Stakenburg','Kolkburg','Torfburg','Krautburg','Birkenburg','Brunnburg','Kaltenburg','Grunburg','Suhlburg','Brookburg','Muckenburg','Egelburg','Dunkelburg','Nebelburg','Bruchburg','Morastburg','Froschburg','Schlammburg','Brackenburg','Molchburg','Teichburg','Fennburg','Riedburg','Schlickburg','Senkburg','Rohrburg','Marschburg','Schilfburg'])"
   }
 ]

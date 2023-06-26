@@ -5,7 +5,7 @@
     "original": " of them.",
     "translation": " 场。",
     "stage": 5,
-    "context": "'text' = this.getDescription() + ' So far, this character has fought in ' + matches + ' matches and won ' + won + ' of them.'"
+    "context": "text = this.getDescription() + ' So far, this character has fought in ' + matches + ' matches and won ' + won + ' of them.'"
   },
   {
     "ID": 293422345,
@@ -29,7 +29,7 @@
     "original": " So far, this character has fought in ",
     "translation": "到目前为止，这个角色参与了 ",
     "stage": 5,
-    "context": "'text' = this.getDescription() + ' So far, this character has fought in ' + matches + ' matches and won ' + won + ' of them.'"
+    "context": "text = this.getDescription() + ' So far, this character has fought in ' + matches + ' matches and won ' + won + ' of them.'"
   },
   {
     "ID": 293422348,
@@ -45,7 +45,7 @@
     "original": "]+10[/color] Resolve",
     "translation": "]+10[/color] 决心",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve'"
   },
   {
     "ID": 293422350,
@@ -53,7 +53,7 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] chance to survive if struck down and not killed by a fatality'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] chance to survive if struck down and not killed by a fatality'"
   },
   {
     "ID": 293422351,
@@ -61,7 +61,7 @@
     "original": "]50%[/color] chance to survive if struck down and not killed by a fatality",
     "translation": "]50%[/color] 几率在受非必死击杀且生命值归零时幸存",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] chance to survive if struck down and not killed by a fatality'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] chance to survive if struck down and not killed by a fatality'"
   },
   {
     "ID": 293422352,
@@ -69,6 +69,6 @@
     "original": " matches and won ",
     "translation": " 场比赛并赢了 ",
     "stage": 5,
-    "context": "'text' = this.getDescription() + ' So far, this character has fought in ' + matches + ' matches and won ' + won + ' of them.'"
+    "context": "text = this.getDescription() + ' So far, this character has fought in ' + matches + ' matches and won ' + won + ' of them.'"
   }
 ]

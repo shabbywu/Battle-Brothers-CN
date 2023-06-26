@@ -5,7 +5,7 @@
     "original": "Sandkai",
     "translation": "桑凯",
     "stage": 1,
-    "context": "'Sandkai'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411220,
@@ -13,7 +13,7 @@
     "original": "Niewekai",
     "translation": "涅瓦卡伊",
     "stage": 1,
-    "context": "'Niewekai'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411221,
@@ -21,7 +21,7 @@
     "original": "Holmwader",
     "translation": "霍尔姆沃德",
     "stage": 1,
-    "context": "'Holmwader'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411222,
@@ -29,7 +29,7 @@
     "original": "Neudeich",
     "translation": "诺伊德奇",
     "stage": 1,
-    "context": "'Neudeich'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411223,
@@ -45,7 +45,7 @@
     "original": "Seedock",
     "translation": "西德克",
     "stage": 1,
-    "context": "'Seedock'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411225,
@@ -53,7 +53,7 @@
     "original": "Seehoben",
     "translation": "西霍本",
     "stage": 1,
-    "context": "'Seehoben'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411226,
@@ -61,7 +61,7 @@
     "original": "Sundkajung",
     "translation": "桑德卡荣",
     "stage": 1,
-    "context": "'Sundkajung'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411227,
@@ -69,7 +69,7 @@
     "original": "Strandekai",
     "translation": "海滨渡口",
     "stage": 5,
-    "context": "'Strandekai'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411228,
@@ -77,7 +77,7 @@
     "original": "Sandehaven",
     "translation": "桑德港",
     "stage": 1,
-    "context": "'Sandehaven'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411229,
@@ -85,7 +85,7 @@
     "original": "Blankhoom",
     "translation": "布兰库姆",
     "stage": 1,
-    "context": "'Blankhoom'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411230,
@@ -93,7 +93,7 @@
     "original": "Stohlhoven",
     "translation": "斯托尔霍芬",
     "stage": 1,
-    "context": "'Stohlhoven'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411231,
@@ -101,7 +101,7 @@
     "original": "Kaiwader",
     "translation": "凯瓦德",
     "stage": 1,
-    "context": "'Kaiwader'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411232,
@@ -109,7 +109,7 @@
     "original": "Lutendock",
     "translation": "鲁滕多克",
     "stage": 1,
-    "context": "'Lutendock'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411233,
@@ -117,7 +117,7 @@
     "original": "Steinhaven",
     "translation": "斯坦黑文",
     "stage": 1,
-    "context": "'Steinhaven'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411234,
@@ -125,7 +125,7 @@
     "original": "Wasserkoog",
     "translation": "水围",
     "stage": 5,
-    "context": "'Wasserkoog'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411235,
@@ -133,7 +133,7 @@
     "original": "Singhoben",
     "translation": "桑霍本",
     "stage": 1,
-    "context": "'Singhoben'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411236,
@@ -141,7 +141,7 @@
     "original": "Saltkai",
     "translation": "萨尔特凯",
     "stage": 1,
-    "context": "'Saltkai'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411237,
@@ -149,7 +149,7 @@
     "original": "Holnishovn",
     "translation": "霍尔尼肖夫恩",
     "stage": 1,
-    "context": "'Holnishovn'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411238,
@@ -157,7 +157,7 @@
     "original": "Sandhoom",
     "translation": "桑杭姆",
     "stage": 1,
-    "context": "'Sandhoom'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411239,
@@ -165,7 +165,7 @@
     "original": "Harkendock",
     "translation": "哈肯多克",
     "stage": 1,
-    "context": "'Harkendock'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411240,
@@ -173,7 +173,7 @@
     "original": "Kampwader",
     "translation": "坎普瓦德",
     "stage": 1,
-    "context": "'Kampwader'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411241,
@@ -181,7 +181,7 @@
     "original": "Wikhavn",
     "translation": "维克港",
     "stage": 1,
-    "context": "'Wikhavn'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411242,
@@ -189,7 +189,7 @@
     "original": "Weissenhaven",
     "translation": "怀森威恩",
     "stage": 1,
-    "context": "'Weissenhaven'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411243,
@@ -197,7 +197,7 @@
     "original": "Tiefenhaven",
     "translation": "蒂芬哈芬",
     "stage": 1,
-    "context": "'Tiefenhaven'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411244,
@@ -205,7 +205,7 @@
     "original": "Osterstrande",
     "translation": "厄斯特斯特兰德",
     "stage": 1,
-    "context": "'Osterstrande'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411245,
@@ -229,7 +229,7 @@
     "original": "Krumwader",
     "translation": "克鲁姆瓦德",
     "stage": 1,
-    "context": "'Krumwader'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411248,
@@ -237,7 +237,7 @@
     "original": "Salthaven",
     "translation": "盐港城",
     "stage": 1,
-    "context": "'Salthaven'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411249,
@@ -245,7 +245,7 @@
     "original": "Krakenwader",
     "translation": "克拉肯漫步者",
     "stage": 1,
-    "context": "'Krakenwader'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411250,
@@ -253,7 +253,7 @@
     "original": "Duhnenhaven",
     "translation": "杜恩港",
     "stage": 1,
-    "context": "'Duhnenhaven'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411251,
@@ -261,7 +261,7 @@
     "original": "Grotenhoom",
     "translation": "格罗滕霍姆",
     "stage": 1,
-    "context": "'Grotenhoom'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },
   {
     "ID": 293411252,
@@ -269,6 +269,6 @@
     "original": "Birkhaven",
     "translation": "比尔克黑文",
     "stage": 1,
-    "context": "'Birkhaven'"
+    "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   }
 ]

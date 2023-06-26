@@ -5,7 +5,7 @@
     "original": " For forming a sturdy shieldwall with allies nearby, the defense is increased further.",
     "translation": "因与附近的盟友一同组成坚固的盾墙，防御得到进一步提升。",
     "stage": 5,
-    "context": "'text' = this.getDescription() + bonus > 0 ? ' For forming a sturdy shieldwall with allies nearby, the defense is increased further.' : ''"
+    "context": "text = this.getDescription() + bonus > 0 ? ' For forming a sturdy shieldwall with allies nearby, the defense is increased further.' : ''"
   },
   {
     "ID": 293421730,
@@ -29,7 +29,7 @@
     "original": "[/color] Melee Defense",
     "translation": "[/color] 近战防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + this.Math.floor(item.getMeleeDefense() * mult + bonus + proficiencyBonus) + '[/color] Melee Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + this.Math.floor(item.getMeleeDefense() * mult + bonus + proficiencyBonus) + '[/color] Melee Defense'"
   },
   {
     "ID": 293421733,
@@ -37,6 +37,6 @@
     "original": "[/color] Ranged Defense",
     "translation": "[/color] 远程防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + this.Math.floor(item.getRangedDefense() * mult + bonus + proficiencyBonus) + '[/color] Ranged Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + this.Math.floor(item.getRangedDefense() * mult + bonus + proficiencyBonus) + '[/color] Ranged Defense'"
   }
 ]

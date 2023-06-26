@@ -13,7 +13,7 @@
     "original": "Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.",
     "translation": "右键单击或拖动到当前选定的角色上进行饮用。 此物品会在使用过程中消耗掉。",
     "stage": 1,
-    "context": "'text' = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
+    "context": "text = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
   },
   {
     "ID": 293418857,
@@ -29,6 +29,6 @@
     "original": "Grants a veteran level up",
     "translation": "授予老兵训练",
     "stage": 1,
-    "context": "'text' = 'Grants a veteran level up'"
+    "context": "text = 'Grants a veteran level up'"
   }
 ]

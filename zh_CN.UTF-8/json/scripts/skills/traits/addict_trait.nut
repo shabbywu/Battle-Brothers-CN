@@ -13,7 +13,7 @@
     "original": "]-10%[/color] Melee Skill",
     "translation": "]-10%[/color] 近战技能",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] Melee Skill'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] Melee Skill'"
   },
   {
     "ID": 293422315,
@@ -29,7 +29,7 @@
     "original": "]-10%[/color] Ranged Skill",
     "translation": "]-10%[/color] 远程技能",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] Ranged Skill'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] Ranged Skill'"
   },
   {
     "ID": 293422317,
@@ -37,7 +37,7 @@
     "original": "]-10%[/color] Resolve",
     "translation": "]-10%[/color] 决心",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] Resolve'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] Resolve'"
   },
   {
     "ID": 293422318,
@@ -45,7 +45,7 @@
     "original": "]-10%[/color] Melee Defense",
     "translation": "]-10%[/color] 近战防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] Melee Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] Melee Defense'"
   },
   {
     "ID": 293422319,
@@ -53,7 +53,7 @@
     "original": "Currently no effect because drugs were consumed within the last 5 days",
     "translation": "目前没有效果，因为在过去5天内服用了药物",
     "stage": 5,
-    "context": "'text' = 'Currently no effect because drugs were consumed within the last 5 days'"
+    "context": "text = 'Currently no effect because drugs were consumed within the last 5 days'"
   },
   {
     "ID": 293422320,
@@ -61,6 +61,6 @@
     "original": "]-10%[/color] Ranged Defense",
     "translation": "]-10%[/color] 远程防御",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] Ranged Defense'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] Ranged Defense'"
   }
 ]

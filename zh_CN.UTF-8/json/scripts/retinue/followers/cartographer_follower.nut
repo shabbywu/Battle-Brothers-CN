@@ -5,7 +5,7 @@
     "original": "Discovered a legendary location",
     "translation": "发现一个传奇地点",
     "stage": 1,
-    "context": "'Text' = 'Discovered a legendary location'"
+    "context": "Text = 'Discovered a legendary location'"
   },
   {
     "ID": 293419568,

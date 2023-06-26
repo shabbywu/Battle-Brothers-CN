@@ -13,7 +13,7 @@
     "original": "{Good to have you back. | Good as new.}",
     "translation": "{欢迎回来。 | 看起来不错。}",
     "stage": 1,
-    "context": "'Text' = '{Good to have you back. | Good as new.}'"
+    "context": "Text = '{Good to have you back. | Good as new.}'"
   },
   {
     "ID": 293417292,
@@ -21,7 +21,7 @@
     "original": " no longer suffers from ",
     "translation": "不再遭受",
     "stage": 1,
-    "context": "'text' = _event.m.Injured.getName() + ' no longer suffers from ' + injury.getNameOnly()"
+    "context": "text = _event.m.Injured.getName() + ' no longer suffers from ' + injury.getNameOnly()"
   },
   {
     "ID": 293417293,

@@ -5,7 +5,7 @@
     "original": "Dusterburg",
     "translation": "达斯特堡",
     "stage": 1,
-    "context": "'Dusterburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411254,
@@ -13,7 +13,7 @@
     "original": "Forstburg",
     "translation": "福斯特堡",
     "stage": 1,
-    "context": "'Forstburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411255,
@@ -29,7 +29,7 @@
     "original": "Finsterburg",
     "translation": "芬斯特堡",
     "stage": 1,
-    "context": "'Finsterburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411257,
@@ -37,7 +37,7 @@
     "original": "Natternburg",
     "translation": "纳特堡",
     "stage": 1,
-    "context": "'Natternburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411258,
@@ -53,7 +53,7 @@
     "original": "Wolfsburg",
     "translation": "沃尔夫斯堡",
     "stage": 1,
-    "context": "'Wolfsburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411260,
@@ -61,7 +61,7 @@
     "original": "Holzburg",
     "translation": "霍尔茨堡",
     "stage": 1,
-    "context": "'Holzburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411261,
@@ -69,7 +69,7 @@
     "original": "Breitenburg",
     "translation": "布赖滕堡",
     "stage": 1,
-    "context": "'Breitenburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411262,
@@ -77,7 +77,7 @@
     "original": "Fuchsburg",
     "translation": "福克斯堡",
     "stage": 1,
-    "context": "'Fuchsburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411263,
@@ -85,7 +85,7 @@
     "original": "Waldburg",
     "translation": "瓦尔德堡",
     "stage": 1,
-    "context": "'Waldburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411264,
@@ -93,7 +93,7 @@
     "original": "Moosburg",
     "translation": "莫斯堡",
     "stage": 1,
-    "context": "'Moosburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411265,
@@ -101,7 +101,7 @@
     "original": "Nesselburg",
     "translation": "内瑟尔堡",
     "stage": 1,
-    "context": "'Nesselburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411266,
@@ -109,7 +109,7 @@
     "original": "Grunburg",
     "translation": "格伦堡",
     "stage": 1,
-    "context": "'Grunburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411267,
@@ -117,7 +117,7 @@
     "original": "Haselburg",
     "translation": "哈塞尔堡",
     "stage": 1,
-    "context": "'Haselburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411268,
@@ -125,7 +125,7 @@
     "original": "Katzenburg",
     "translation": "卡岑堡",
     "stage": 1,
-    "context": "'Katzenburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411269,
@@ -133,7 +133,7 @@
     "original": "Dunkelburg",
     "translation": "邓凯尔堡",
     "stage": 1,
-    "context": "'Dunkelburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411270,
@@ -141,7 +141,7 @@
     "original": "Tannburg",
     "translation": "坦堡",
     "stage": 1,
-    "context": "'Tannburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411271,
@@ -149,7 +149,7 @@
     "original": "Bieberburg",
     "translation": "比伯堡",
     "stage": 1,
-    "context": "'Bieberburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411272,
@@ -157,7 +157,7 @@
     "original": "Eichburg",
     "translation": "艾克堡",
     "stage": 1,
-    "context": "'Eichburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411273,
@@ -165,7 +165,7 @@
     "original": "Fahrnburg",
     "translation": "法恩堡",
     "stage": 1,
-    "context": "'Fahrnburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411274,
@@ -173,7 +173,7 @@
     "original": "Dornburg",
     "translation": "多恩堡",
     "stage": 1,
-    "context": "'Dornburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411275,
@@ -181,7 +181,7 @@
     "original": "Eulenburg",
     "translation": "欧伦堡",
     "stage": 1,
-    "context": "'Eulenburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411276,
@@ -189,7 +189,7 @@
     "original": "Waidburg",
     "translation": "怀德堡",
     "stage": 1,
-    "context": "'Waidburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411277,
@@ -197,7 +197,7 @@
     "original": "Hainburg",
     "translation": "海因堡",
     "stage": 1,
-    "context": "'Hainburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411278,
@@ -205,7 +205,7 @@
     "original": "Buchenburg",
     "translation": "布肯堡",
     "stage": 1,
-    "context": "'Buchenburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411279,
@@ -213,7 +213,7 @@
     "original": "Wurzelburg",
     "translation": "沃兹尔堡",
     "stage": 1,
-    "context": "'Wurzelburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },
   {
     "ID": 293411280,
@@ -221,6 +221,6 @@
     "original": "Findelsburg",
     "translation": "芬德尔斯堡",
     "stage": 1,
-    "context": "'Findelsburg'"
+    "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   }
 ]

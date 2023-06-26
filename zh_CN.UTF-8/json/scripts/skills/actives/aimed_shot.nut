@@ -13,7 +13,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] arrows left'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + 10 + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -2 + this.m.AdditionalHitChance + '%[/color] per tile of distance'"
   },
   {
     "ID": 293419786,
@@ -21,7 +21,7 @@
     "original": "]Needs a non-empty quiver of arrows equipped[/color]",
     "translation": "]需要装备非空箭袋[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Needs a non-empty quiver of arrows equipped[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Needs a non-empty quiver of arrows equipped[/color]'"
   },
   {
     "ID": 293419787,
@@ -29,7 +29,7 @@
     "original": "%[/color] chance to hit, and [color=",
     "translation": "%[/color]额外命中，同时每格距离有[color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+' + 10 + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -2 + this.m.AdditionalHitChance + '%[/color] per tile of distance'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+' + 10 + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -2 + this.m.AdditionalHitChance + '%[/color] per tile of distance'"
   },
   {
     "ID": 293419788,
@@ -37,7 +37,7 @@
     "original": "[/color] tiles on even ground, more if shooting downhill",
     "translation": "[/color] 格(在平坦地面上), 如果向低处射击会更远。",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if shooting downhill'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if shooting downhill'"
   },
   {
     "ID": 293419789,
@@ -53,7 +53,7 @@
     "original": "%[/color] per tile of distance",
     "translation": "%[/color]命中惩罚",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+' + 10 + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -2 + this.m.AdditionalHitChance + '%[/color] per tile of distance'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+' + 10 + this.m.AdditionalAccuracy + '%[/color] chance to hit, and [color=' + this.Const.UI.Color.NegativeValue + ']' + -2 + this.m.AdditionalHitChance + '%[/color] per tile of distance'"
   },
   {
     "ID": 293419791,
@@ -61,7 +61,7 @@
     "original": "]Can not be used because this character is engaged in melee[/color]",
     "translation": "]无法使用，因为此角色已卷入近战[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   },
   {
     "ID": 293419792,
@@ -77,7 +77,7 @@
     "original": "[/color] arrows left",
     "translation": "[/color]箭矢剩余",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] arrows left'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] arrows left'"
   },
   {
     "ID": 293419794,
@@ -85,6 +85,6 @@
     "original": "Has a range of [color=",
     "translation": "攻击范围为 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if shooting downhill'"
+    "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on even ground, more if shooting downhill'"
   }
 ]

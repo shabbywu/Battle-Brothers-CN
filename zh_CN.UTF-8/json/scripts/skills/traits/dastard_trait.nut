@@ -5,7 +5,7 @@
     "original": "Is always content with being in reserve",
     "translation": "总是满足于充当后备",
     "stage": 5,
-    "context": "'text' = 'Is always content with being in reserve'"
+    "context": "text = 'Is always content with being in reserve'"
   },
   {
     "ID": 293422455,
@@ -53,6 +53,6 @@
     "original": "Will start combat at wavering morale",
     "translation": "将以动摇的士气开始战斗",
     "stage": 5,
-    "context": "'text' = 'Will start combat at wavering morale'"
+    "context": "text = 'Will start combat at wavering morale'"
   }
 ]

@@ -5,7 +5,7 @@
     "original": "Grants immunity to being stunned",
     "translation": "授予击晕免疫",
     "stage": 1,
-    "context": "'text' = 'Grants immunity to being stunned'"
+    "context": "text = 'Grants immunity to being stunned'"
   },
   {
     "ID": 293417485,

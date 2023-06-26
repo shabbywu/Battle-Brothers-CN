@@ -5,7 +5,7 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + chance + '%[/color] chance to succeed, based on Melee Skill. Each failed attempt will increase the chance to succeed for subsequent attempts.'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + chance + '%[/color] chance to succeed, based on Melee Skill. Each failed attempt will increase the chance to succeed for subsequent attempts.'"
   },
   {
     "ID": 293419837,
@@ -37,7 +37,7 @@
     "original": ", Rolled: ",
     "translation": "，掷出：",
     "stage": 5,
-    "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(_user) + ' fails to break free (Chance: ' + toHit + ', Rolled: ' + rolled + ')')"
+    "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(_user) + ' breaks free (Chance: ' + toHit + ', Rolled: ' + rolled + ')')"
   },
   {
     "ID": 293419841,
@@ -53,6 +53,6 @@
     "original": "%[/color] chance to succeed, based on Melee Skill. Each failed attempt will increase the chance to succeed for subsequent attempts.",
     "translation": "%[/color] 几率成功，基于近战技能。每次失败的尝试都将增加后续尝试成功的几率。",
     "stage": 5,
-    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + chance + '%[/color] chance to succeed, based on Melee Skill. Each failed attempt will increase the chance to succeed for subsequent attempts.'"
+    "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + chance + '%[/color] chance to succeed, based on Melee Skill. Each failed attempt will increase the chance to succeed for subsequent attempts.'"
   }
 ]

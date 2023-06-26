@@ -5,7 +5,7 @@
     "original": "Can hit up to 2 targets",
     "translation": "最多可以击中 2 个目标",
     "stage": 5,
-    "context": "'text' = 'Can hit up to 2 targets'"
+    "context": "text = 'Can hit up to 2 targets'"
   },
   {
     "ID": 293420088,
@@ -29,7 +29,7 @@
     "original": "]No charges left[/color]",
     "translation": "]没有装弹剩余[/color]",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']No charges left[/color]'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']No charges left[/color]'"
   },
   {
     "ID": 293420091,
@@ -37,7 +37,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+40%[/color] chance to hit'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+40%[/color] chance to hit'"
   },
   {
     "ID": 293420092,
@@ -45,7 +45,7 @@
     "original": "]+40%[/color] chance to hit",
     "translation": "]+40%[/color] 命中几率",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+40%[/color] chance to hit'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+40%[/color] chance to hit'"
   },
   {
     "ID": 293420093,
@@ -53,6 +53,6 @@
     "original": "[/color] charge left",
     "translation": "[/color] 装弹剩余",
     "stage": 5,
-    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] charge left'"
+    "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] charge left'"
   }
 ]

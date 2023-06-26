@@ -5,7 +5,7 @@
     "original": "You lose ",
     "translation": "你失去了",
     "stage": 5,
-    "context": "'text' = 'You lose ' + food.getName()"
+    "context": "text = 'You lose ' + food.getName()"
   },
   {
     "ID": 293415862,
@@ -53,7 +53,7 @@
     "original": "We could have used this...",
     "translation": "我们本该用掉这些的…",
     "stage": 1,
-    "context": "'Text' = 'We could have used this...'"
+    "context": "Text = 'We could have used this...'"
   },
   {
     "ID": 293415868,

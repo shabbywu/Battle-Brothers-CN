@@ -37,7 +37,7 @@
     "original": "You gain additional renown for your victory",
     "translation": "你因你的胜利而获得额外的名望",
     "stage": 5,
-    "context": "'text' = 'You gain additional renown for your victory'"
+    "context": "text = 'You gain additional renown for your victory'"
   },
   {
     "ID": 293403585,

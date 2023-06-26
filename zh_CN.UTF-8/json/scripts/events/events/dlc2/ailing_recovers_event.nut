@@ -13,7 +13,7 @@
     "original": " is no longer ailing",
     "translation": "不再生病了",
     "stage": 1,
-    "context": "'text' = _event.m.Ailing.getName() + ' is no longer ailing'"
+    "context": "text = _event.m.Ailing.getName() + ' is no longer ailing'"
   },
   {
     "ID": 293413554,
@@ -21,7 +21,7 @@
     "original": "Glad to hear.",
     "translation": "很高兴听到。",
     "stage": 1,
-    "context": "'Text' = 'Glad to hear.'"
+    "context": "Text = 'Glad to hear.'"
   },
   {
     "ID": 293413555,
@@ -37,6 +37,6 @@
     "original": "[img]gfx/ui/events/event_05.png[/img]{%ailing% is walking around camp with his hands out and his fingers stretched as though he were balancing across a rope. He nods to himself as he turns around, foot placed before foot, marching his way back across.%SPEECH_ON%For the first time in a long time I actually feel quite alright. Thanks, %healer%!%SPEECH_OFF%It seems %healer% knew of a couple means to rid what ailed %ailing%.}",
     "translation": "[img]gfx/ui/events/event_05.png[/img]{%ailing%双手张开，像在绷紧的绳索上保持平衡一样在营地周围走着。他转身时点头，一步步地走回来。%SPEECH_ON%这是很长时间以来我第一次感觉好起来。谢谢你，%healer%！%SPEECH_OFF%看来%healer%知道几种方法来治好%ailing%的问题。}",
     "stage": 1,
-    "context": "'Text' = '[img]gfx/ui/events/event_05.png[/img]{%ailing% is walking around camp with his hands out and his fingers stretched as though he were balancing across a rope. He nods to himself as he turns around, foot placed before foot, marching his way back across.%SPEECH_ON%For the first time in a long time I actually feel quite alright. Thanks, %healer%!%SPEECH_OFF%It seems %healer% knew of a couple means to rid what ailed %ailing%.}'"
+    "context": "Text = '[img]gfx/ui/events/event_05.png[/img]{%ailing% is walking around camp with his hands out and his fingers stretched as though he were balancing across a rope. He nods to himself as he turns around, foot placed before foot, marching his way back across.%SPEECH_ON%For the first time in a long time I actually feel quite alright. Thanks, %healer%!%SPEECH_OFF%It seems %healer% knew of a couple means to rid what ailed %ailing%.}'"
   }
 ]

@@ -13,7 +13,7 @@
     "original": "You gain ",
     "translation": "你获得了",
     "stage": 5,
-    "context": "'text' = 'You gain ' + this.Const.Strings.getArticle(item.getName()) + item.getName()"
+    "context": "text = 'You gain ' + this.Const.Strings.getArticle(item.getName()) + item.getName()"
   },
   {
     "ID": 293403345,

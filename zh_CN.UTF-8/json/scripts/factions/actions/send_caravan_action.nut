@@ -13,7 +13,7 @@
     "original": "Trading Caravan",
     "translation": "贸易商队",
     "stage": 5,
-    "context": "_faction.spawnEntity(this.m.Start.getTile(), 'Trading Caravan', False, this.Const.World.Spawn.CaravanSouthern, this.m.Start.getResources() * 0.6000000238418579)"
+    "context": "_faction.spawnEntity(this.m.Start.getTile(), 'Trading Caravan', False, this.Const.World.Spawn.Caravan, this.m.Start.getResources() * 0.5)"
   },
   {
     "ID": 293417360,

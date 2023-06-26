@@ -13,7 +13,7 @@
     "original": "]+10[/color] Resolve when in battle with greenskins",
     "translation": "]+10[/color] 决心，与绿皮战斗时",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve when in battle with greenskins'"
+    "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve when in battle with greenskins'"
   },
   {
     "ID": 293422546,

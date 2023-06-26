@@ -13,6 +13,6 @@
     "original": "Wolf",
     "translation": "狼",
     "stage": 1,
-    "context": "'Name' = 'Wolf'"
+    "context": "Name = 'Wolf'"
   }
 ]

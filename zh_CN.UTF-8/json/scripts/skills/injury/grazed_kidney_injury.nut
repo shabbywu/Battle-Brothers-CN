@@ -21,6 +21,6 @@
     "original": "]-60%[/color] Hitpoints",
     "translation": "]-60%[/color] 生命值",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-60%[/color] Hitpoints'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-60%[/color] Hitpoints'"
   }
 ]

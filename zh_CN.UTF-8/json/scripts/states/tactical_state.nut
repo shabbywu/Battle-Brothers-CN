@@ -277,7 +277,7 @@
     "original": "Left to die",
     "translation": "任其死去",
     "stage": 5,
-    "context": "'KilledBy' = 'Left to die'"
+    "context": "KilledBy = 'Left to die'"
   },
   {
     "ID": 293422836,

@@ -5,6 +5,6 @@
     "original": "Generic Item",
     "translation": "通用物品",
     "stage": 1,
-    "context": "'GenericItemName' = 'Generic Item'"
+    "context": "GenericItemName = 'Generic Item'"
   }
 ]

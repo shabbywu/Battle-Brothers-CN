@@ -5,7 +5,7 @@
     "original": "Eager to prove himself outside the arena",
     "translation": "渴望在竞技场外证明自己",
     "stage": 1,
-    "context": "bros[2].improveMood(0.75, 'Eager to prove himself outside the arena')"
+    "context": "bros[0].improveMood(0.75, 'Eager to prove himself outside the arena')"
   },
   {
     "ID": 293419676,

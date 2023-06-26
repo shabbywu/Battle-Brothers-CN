@@ -13,7 +13,7 @@
     "original": "%[/color] Damage",
     "translation": "%[/color] 伤害",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + this.m.TurnsLeft * 25 + '%[/color] Damage'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + this.m.TurnsLeft * 25 + '%[/color] Damage'"
   },
   {
     "ID": 293421811,
@@ -29,7 +29,7 @@
     "original": "[/color] Fatigue Recovery per turn",
     "translation": "[/color] 每回合疲劳值恢复量",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + this.m.TurnsLeft * 5 + '[/color] Fatigue Recovery per turn'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + this.m.TurnsLeft * 5 + '[/color] Fatigue Recovery per turn'"
   },
   {
     "ID": 293421813,
@@ -45,7 +45,7 @@
     "original": "%[/color] Initiative",
     "translation": "%[/color] 主动性",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + this.m.TurnsLeft * 25 + '%[/color] Initiative'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + this.m.TurnsLeft * 25 + '%[/color] Initiative'"
   },
   {
     "ID": 293421815,
@@ -61,6 +61,6 @@
     "original": "%[/color] Max Fatigue",
     "translation": "%[/color] 最大疲劳值",
     "stage": 5,
-    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + this.m.TurnsLeft * 25 + '%[/color] Max Fatigue'"
+    "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + this.m.TurnsLeft * 25 + '%[/color] Max Fatigue'"
   }
 ]
