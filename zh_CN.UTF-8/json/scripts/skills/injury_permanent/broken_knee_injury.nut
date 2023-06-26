@@ -4,7 +4,8 @@
     "key": "Is always content with being in reserve",
     "original": "Is always content with being in reserve",
     "translation": "总是满足于充当后备",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Is always content with being in reserve'"
   },
   {
     "ID": 293422096,
@@ -12,7 +13,7 @@
     "original": "]-40%[/color] Ranged Defense",
     "translation": "]-40%[/color] 远程防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Ranged Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Ranged Defense'"
   },
   {
     "ID": 293422097,
@@ -20,7 +21,7 @@
     "original": "]-40%[/color] Melee Defense",
     "translation": "]-40%[/color] 近战防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Melee Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Melee Defense'"
   },
   {
     "ID": 293422098,
@@ -36,7 +37,7 @@
     "original": "]-40%[/color] Initiative",
     "translation": "]-40%[/color] 主动性",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Initiative'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Initiative'"
   },
   {
     "ID": 293422100,

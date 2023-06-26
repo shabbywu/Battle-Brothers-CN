@@ -4,14 +4,16 @@
     "key": "Prevents sickness and accidents due to terrain",
     "original": "Prevents sickness and accidents due to terrain",
     "translation": "阻止因地形引起的疾病和意外遭遇",
-    "stage": 1
+    "stage": 1,
+    "context": "'Prevents sickness and accidents due to terrain'"
   },
   {
     "ID": 293419625,
     "key": "Makes the company travel 15% faster on any terrain",
     "original": "Makes the company travel 15% faster on any terrain",
     "translation": "使战团在任何地形上的旅行速度提高15%",
-    "stage": 1
+    "stage": 1,
+    "context": "'Makes the company travel 15% faster on any terrain'"
   },
   {
     "ID": 293419626,
@@ -19,7 +21,7 @@
     "original": "Won ",
     "translation": "赢得了(Won)",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Won ' + this.Math.min(5, this.World.Statistics.getFlags().getAsInt('BeastsDefeated')) + '/5 battles against beasts'"
+    "context": "this.m.Requirements[0].Text = 'Won ' + this.Math.min(5, this.World.Statistics.getFlags().getAsInt('BeastsDefeated')) + '/5 battles against beasts'"
   },
   {
     "ID": 293419627,
@@ -27,7 +29,7 @@
     "original": "/5 battles against beasts",
     "translation": "/5场野兽战斗",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Won ' + this.Math.min(5, this.World.Statistics.getFlags().getAsInt('BeastsDefeated')) + '/5 battles against beasts'"
+    "context": "this.m.Requirements[0].Text = 'Won ' + this.Math.min(5, this.World.Statistics.getFlags().getAsInt('BeastsDefeated')) + '/5 battles against beasts'"
   },
   {
     "ID": 293419628,

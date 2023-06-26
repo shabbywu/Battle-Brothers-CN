@@ -4,7 +4,8 @@
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421714,
@@ -12,7 +13,7 @@
     "original": "Gain an additional [color=",
     "translation": "获得额外的[color=",
     "stage": 1,
-    "context": "'Gain an additional [color=' + this.Const.UI.Color.PositiveValue + ']+3%[/color] chance to hit in melee for every ally adjacent to your target'"
+    "context": "'text' = 'Gain an additional [color=' + this.Const.UI.Color.PositiveValue + ']+3%[/color] chance to hit in melee for every ally adjacent to your target'"
   },
   {
     "ID": 293421715,
@@ -20,7 +21,7 @@
     "original": "]+3%[/color] chance to hit in melee for every ally adjacent to your target",
     "translation": "]+3%[/color]（每有一个友军位于目标周围）近战命中率",
     "stage": 1,
-    "context": "'Gain an additional [color=' + this.Const.UI.Color.PositiveValue + ']+3%[/color] chance to hit in melee for every ally adjacent to your target'"
+    "context": "'text' = 'Gain an additional [color=' + this.Const.UI.Color.PositiveValue + ']+3%[/color] chance to hit in melee for every ally adjacent to your target'"
   },
   {
     "ID": 293421716,

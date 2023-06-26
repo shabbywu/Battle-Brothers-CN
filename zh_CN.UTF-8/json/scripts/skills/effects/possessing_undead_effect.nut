@@ -13,7 +13,7 @@
     "original": " lost concentration",
     "translation": " 神情恍惚",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' lost concentration'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' lost concentration')"
   },
   {
     "ID": 293421680,

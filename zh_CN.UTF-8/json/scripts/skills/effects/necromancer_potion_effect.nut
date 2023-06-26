@@ -20,7 +20,8 @@
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421615,
@@ -28,6 +29,6 @@
     "original": "]+20%[/color] Experience Gain",
     "translation": "]+20%[/color] 经验获取",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+20%[/color] Experience Gain'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+20%[/color] Experience Gain'"
   }
 ]

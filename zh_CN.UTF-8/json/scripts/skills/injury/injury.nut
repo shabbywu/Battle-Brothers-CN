@@ -4,7 +4,8 @@
     "key": "Will not heal because you have no medical supplies",
     "original": "Will not heal because you have no medical supplies",
     "translation": "不会痊愈，因为你没有医疗用品",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Will not heal because you have no medical supplies'"
   },
   {
     "ID": 293421997,
@@ -12,14 +13,15 @@
     "original": " days",
     "translation": "天内",
     "stage": 5,
-    "context": "d = 'Will be gone in ' + ht.Min + ' days'"
+    "context": "d = 'Will heal in ' + ht.Min + ' days'"
   },
   {
     "ID": 293421998,
     "key": "Will take effect again only after the next battle due to the Iron Will effect",
     "original": "Will take effect again only after the next battle due to the Iron Will effect",
     "translation": "由于钢铁意志效果，战斗结束后才会生效",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Will take effect again only after the next battle due to the Iron Will effect'"
   },
   {
     "ID": 293421999,
@@ -34,7 +36,8 @@
     "key": "Will not heal because this character has taken an oath of sacrifice",
     "original": "Will not heal because this character has taken an oath of sacrifice",
     "translation": "不会痊愈，因为这个角色立下了牺牲誓言",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Will not heal because this character has taken an oath of sacrifice'"
   },
   {
     "ID": 293422001,
@@ -42,7 +45,7 @@
     "original": "Will heal in ",
     "translation": "将痊愈于",
     "stage": 5,
-    "context": "d = 'Will heal in ' + ht.Min + ' days'"
+    "context": "d = 'Will heal in ' + ht.Min + ' to ' + ht.Max + ' days'"
   },
   {
     "ID": 293422002,
@@ -57,7 +60,8 @@
     "key": "Will take effect only after combat ends due to the Iron Will effect",
     "original": "Will take effect only after combat ends due to the Iron Will effect",
     "translation": "由于钢铁意志效果，战斗结束后才会生效",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Will take effect only after combat ends due to the Iron Will effect'"
   },
   {
     "ID": 293422004,
@@ -65,7 +69,7 @@
     "original": " to ",
     "translation": "到",
     "stage": 5,
-    "context": "d = 'Will be gone in ' + ht.Min + ' to ' + ht.Max + ' days'"
+    "context": "d = 'Will heal in ' + ht.Min + ' to ' + ht.Max + ' days'"
   },
   {
     "ID": 293422005,
@@ -88,6 +92,7 @@
     "key": "Is content for now with being in reserve",
     "original": "Is content for now with being in reserve",
     "translation": "暂时满足于充当后备",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Is content for now with being in reserve'"
   }
 ]

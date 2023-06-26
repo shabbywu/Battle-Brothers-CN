@@ -5,7 +5,7 @@
     "original": " resists being frozen with fear thanks to his unnatural physiology",
     "translation": "因为他不自然的生理机能抵抗了恐惧",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(this.actor) + ' resists being frozen with fear thanks to his unnatural physiology'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.actor) + ' resists being frozen with fear thanks to his unnatural physiology')"
   },
   {
     "ID": 293421534,

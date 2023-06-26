@@ -13,7 +13,7 @@
     "original": " wakes up thanks to his unnatural physiology",
     "translation": "非自然的生理功能帮助他醒来",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' wakes up thanks to his unnatural physiology'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' wakes up thanks to his unnatural physiology')"
   },
   {
     "ID": 293421740,
@@ -29,13 +29,14 @@
     "original": "]-100[/color] Initiative",
     "translation": "]-100[/color] 主动性",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-100[/color] Initiative'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-100[/color] Initiative'"
   },
   {
     "ID": 293421742,
     "key": "Can take damage from Alps",
     "original": "Can take damage from Alps",
     "translation": "可以受到梦魔的伤害",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Can take damage from Alps'"
   }
 ]

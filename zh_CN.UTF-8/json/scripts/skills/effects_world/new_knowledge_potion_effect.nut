@@ -21,7 +21,7 @@
     "original": " more battles",
     "translation": "更多战斗",
     "stage": 1,
-    "context": "'Will be gone after ' + 3 - this.m.Battles + ' more battles'"
+    "context": "'text' = 'Will be gone after ' + 3 - this.m.Battles + ' more battles'"
   },
   {
     "ID": 293421848,
@@ -29,7 +29,7 @@
     "original": "]+100%[/color] Experience Gain",
     "translation": "]+100%[/color] 经验获取",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+100%[/color] Experience Gain'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+100%[/color] Experience Gain'"
   },
   {
     "ID": 293421849,
@@ -37,6 +37,6 @@
     "original": "Will be gone after ",
     "translation": "将在之后消失",
     "stage": 1,
-    "context": "'Will be gone after ' + 3 - this.m.Battles + ' more battles'"
+    "context": "'text' = 'Will be gone after ' + 3 - this.m.Battles + ' more battles'"
   }
 ]

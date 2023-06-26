@@ -13,6 +13,6 @@
     "original": " moves",
     "translation": "移动",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' moves'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' moves')"
   }
 ]

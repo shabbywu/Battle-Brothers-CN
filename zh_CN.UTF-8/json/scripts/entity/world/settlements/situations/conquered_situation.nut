@@ -12,7 +12,8 @@
     "key": "%settlement% was recently captured, or so I have heard. 'New Lords - same shit' is what I always say...",
     "original": "%settlement% was recently captured, or so I have heard. 'New Lords - same shit' is what I always say...",
     "translation": "%settlement% 最近被占领了，我听说。“新领主－同样操蛋”是我常说的…",
-    "stage": 1
+    "stage": 1,
+    "context": "\"%settlement% was recently captured, or so I have heard. 'New Lords - same shit' is what I always say...\""
   },
   {
     "ID": 293411705,
@@ -27,13 +28,15 @@
     "key": "Conquering new lands is the game of nobles. I heard they just sacked %settlement%.",
     "original": "Conquering new lands is the game of nobles. I heard they just sacked %settlement%.",
     "translation": "征服新大陆是贵族的游戏。我听说他们刚刚洗劫了 %settlement%。",
-    "stage": 1
+    "stage": 1,
+    "context": "'Conquering new lands is the game of nobles. I heard they just sacked %settlement%.'"
   },
   {
     "ID": 293411707,
     "key": "Oh, hey sellsword! Were you at the siege of %settlement%? Well, fucking congratulations. How many did you kill? How many did you rape? ",
     "original": "Oh, hey sellsword! Were you at the siege of %settlement%? Well, fucking congratulations. How many did you kill? How many did you rape? ",
     "translation": "好的。哦，嘿，佣兵！你在围攻 %settlement% 吗？他妈的恭喜你。你杀了多少人？你强奸了多少人？ ",
-    "stage": 1
+    "stage": 1,
+    "context": "'Oh, hey sellsword! Were you at the siege of %settlement%? Well, fucking congratulations. How many did you kill? How many did you rape? '"
   }
 ]

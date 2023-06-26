@@ -13,6 +13,6 @@
     "original": " withers",
     "translation": "凋零了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(target) + ' withers'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(target) + ' withers')"
   }
 ]

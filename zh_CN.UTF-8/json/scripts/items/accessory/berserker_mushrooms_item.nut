@@ -5,7 +5,7 @@
     "original": "]-15[/color] Melee Defense",
     "translation": "]-15[/color] 近战防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-15[/color] Melee Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-15[/color] Melee Defense'"
   },
   {
     "ID": 293417431,
@@ -20,14 +20,16 @@
     "key": "Overindulgence may lead to sickness",
     "original": "Overindulgence may lead to sickness",
     "translation": "过度使用可能导致疾病",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Overindulgence may lead to sickness'"
   },
   {
     "ID": 293417433,
     "key": "Right-click or drag onto the currently selected character in order to eat. This item will be consumed in the process.",
     "original": "Right-click or drag onto the currently selected character in order to eat. This item will be consumed in the process.",
     "translation": "右键单击或拖动到当前选定的角色上进行食用。 此物品会在使用过程中消耗掉。",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Right-click or drag onto the currently selected character in order to eat. This item will be consumed in the process.'"
   },
   {
     "ID": 293417434,
@@ -35,7 +37,7 @@
     "original": "]-15[/color] Ranged Defense",
     "translation": "]-15[/color] 远程防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-15[/color] Ranged Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-15[/color] Ranged Defense'"
   },
   {
     "ID": 293417435,
@@ -43,14 +45,15 @@
     "original": "]+25%[/color] Damage in Melee",
     "translation": "]+25%[/color] 近战伤害",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] Damage in Melee'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] Damage in Melee'"
   },
   {
     "ID": 293417436,
     "key": "No morale check triggered upon losing hitpoints",
     "original": "No morale check triggered upon losing hitpoints",
     "translation": "失去生命值时不会触发士气检查",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'No morale check triggered upon losing hitpoints'"
   },
   {
     "ID": 293417437,

@@ -4,7 +4,8 @@
     "key": "The men and women in %settlement% are starving, I heard, with nothing but dirt to eat. I don't think I'll ever complain about my mouldy grain soup again!",
     "original": "The men and women in %settlement% are starving, I heard, with nothing but dirt to eat. I don't think I'll ever complain about my mouldy grain soup again!",
     "translation": "我听说 %settlement% 的男男女女都在挨饿，除了土什么都没得吃。我想我再也不会抱怨我的霉粮汤了！",
-    "stage": 1
+    "stage": 1,
+    "context": "\"The men and women in %settlement% are starving, I heard, with nothing but dirt to eat. I don't think I'll ever complain about my mouldy grain soup again!\""
   },
   {
     "ID": 293411875,
@@ -27,7 +28,8 @@
     "key": "Some farmer just arrived today from %settlement%. Told stories of slain cattle, burned fields and empty larders. Looked like a damn walking skeleton himself!",
     "original": "Some farmer just arrived today from %settlement%. Told stories of slain cattle, burned fields and empty larders. Looked like a damn walking skeleton himself!",
     "translation": "有个农夫今天刚从 %settlement% 来。讲述了被杀的牛，被烧毁的田地和空荡荡的储藏室的故事。他自己看起来就像个活骷髅！",
-    "stage": 1
+    "stage": 1,
+    "context": "'Some farmer just arrived today from %settlement%. Told stories of slain cattle, burned fields and empty larders. Looked like a damn walking skeleton himself!'"
   },
   {
     "ID": 293411878,

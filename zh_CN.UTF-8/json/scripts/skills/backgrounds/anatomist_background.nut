@@ -12,14 +12,16 @@
     "key": "the Grim",
     "original": "the Grim",
     "translation": "阴郁者(the Grim)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Grim'"
   },
   {
     "ID": 293420750,
     "key": "the Undertaker",
     "original": "the Undertaker",
     "translation": "葬礼承办人(the Undertaker)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Undertaker'"
   },
   {
     "ID": 293420751,
@@ -34,28 +36,32 @@
     "key": "the Crow",
     "original": "the Crow",
     "translation": "乌鸦(The Crow)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Crow'"
   },
   {
     "ID": 293420753,
     "key": "the Magistrate",
     "original": "the Magistrate",
     "translation": "治安官(the Magistrate)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Magistrate'"
   },
   {
     "ID": 293420754,
     "key": "the Anatomist",
     "original": "the Anatomist",
     "translation": "解剖学家(the Anatomist)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Anatomist'"
   },
   {
     "ID": 293420755,
     "key": "the Mortician",
     "original": "the Mortician",
     "translation": "殡葬业者(the Mortician)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Mortician'"
   },
   {
     "ID": 293420756,
@@ -70,7 +76,8 @@
     "key": "the Curious",
     "original": "the Curious",
     "translation": "好奇者(the Curious)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Curious'"
   },
   {
     "ID": 293420758,
@@ -85,14 +92,16 @@
     "key": "the Tainted",
     "original": "the Tainted",
     "translation": "被污染者(the Tainted)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Tainted'"
   },
   {
     "ID": 293420760,
     "key": "the Vulture",
     "original": "the Vulture",
     "translation": "秃鹫(the Curious)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Vulture'"
   },
   {
     "ID": 293420761,

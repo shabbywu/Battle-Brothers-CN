@@ -4,14 +4,16 @@
     "key": "the Prisoner",
     "original": "the Prisoner",
     "translation": "囚犯(the Prisoner)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Prisoner'"
   },
   {
     "ID": 293421309,
     "key": "the Unfree",
     "original": "the Unfree",
     "translation": "不自由者(the Unfree)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Unfree'"
   },
   {
     "ID": 293421310,
@@ -26,21 +28,24 @@
     "key": "the Unlucky",
     "original": "the Unlucky",
     "translation": "坏运气(the Unlucky)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Unlucky'"
   },
   {
     "ID": 293421312,
     "key": "the Shackled",
     "original": "the Shackled",
     "translation": "被束缚者(the Shackled)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Shackled'"
   },
   {
     "ID": 293421313,
     "key": "the Indebted",
     "original": "the Indebted",
     "translation": "负债者(the Indebted)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Indebted'"
   },
   {
     "ID": 293421314,
@@ -55,28 +60,32 @@
     "key": "the Criminal",
     "original": "the Criminal",
     "translation": "罪犯(the Criminal)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Criminal'"
   },
   {
     "ID": 293421316,
     "key": "the Obedient",
     "original": "the Obedient",
     "translation": "顺从者(the Obedient)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Obedient'"
   },
   {
     "ID": 293421317,
     "key": "the Enslaved",
     "original": "the Enslaved",
     "translation": "受奴役者(the Enslaved)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Enslaved'"
   },
   {
     "ID": 293421318,
     "key": "the Bound",
     "original": "the Bound",
     "translation": "被束缚者(the Bound)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Bound'"
   },
   {
     "ID": 293421319,

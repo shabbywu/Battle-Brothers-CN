@@ -5,7 +5,7 @@
     "original": "Have ",
     "translation": "有",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Have ' + this.Math.min(3, namedItems) + '/3 named or legendary items in your possession'"
+    "context": "this.m.Requirements[0].Text = 'Have ' + this.Math.min(3, namedItems) + '/3 named or legendary items in your possession'"
   },
   {
     "ID": 293419557,
@@ -13,7 +13,7 @@
     "original": "/3 named or legendary items in your possession",
     "translation": "/3个你拥有的命名或传说物品",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Have ' + this.Math.min(3, namedItems) + '/3 named or legendary items in your possession'"
+    "context": "this.m.Requirements[0].Text = 'Have ' + this.Math.min(3, namedItems) + '/3 named or legendary items in your possession'"
   },
   {
     "ID": 293419558,
@@ -28,7 +28,8 @@
     "key": "Significantly increases the chance of encountering champions",
     "original": "Significantly increases the chance of encountering champions",
     "translation": "显著增加了遇到冠军的机会",
-    "stage": 1
+    "stage": 1,
+    "context": "'Significantly increases the chance of encountering champions'"
   },
   {
     "ID": 293419560,
@@ -43,6 +44,7 @@
     "key": "Pays between 300 and 750 crowns for every champion slain",
     "original": "Pays between 300 and 750 crowns for every champion slain",
     "translation": "为每一个被杀的冠军支付300到750克朗",
-    "stage": 1
+    "stage": 1,
+    "context": "'Pays between 300 and 750 crowns for every champion slain'"
   }
 ]

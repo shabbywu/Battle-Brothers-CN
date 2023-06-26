@@ -4,7 +4,8 @@
     "key": "Is always content with being in reserve",
     "original": "Is always content with being in reserve",
     "translation": "总是满足于充当后备",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Is always content with being in reserve'"
   },
   {
     "ID": 293422690,
@@ -20,7 +21,7 @@
     "original": "]+10[/color] Resolve",
     "translation": "]+10[/color] 决心",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve'"
   },
   {
     "ID": 293422692,
@@ -28,7 +29,7 @@
     "original": "]-10[/color] Max Fatigue",
     "translation": "]-10[/color] 最大疲劳值",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Max Fatigue'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Max Fatigue'"
   },
   {
     "ID": 293422693,
@@ -36,7 +37,7 @@
     "original": "]-10[/color] Initiative",
     "translation": "]-10[/color] 主动性",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Initiative'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Initiative'"
   },
   {
     "ID": 293422694,
@@ -44,7 +45,7 @@
     "original": "]-1[/color] Vision",
     "translation": "]-1[/color] 视野",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-1[/color] Vision'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-1[/color] Vision'"
   },
   {
     "ID": 293422695,
@@ -52,7 +53,7 @@
     "original": "]-10[/color] Hitpoints",
     "translation": "]-10[/color] 生命值",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Hitpoints'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Hitpoints'"
   },
   {
     "ID": 293422696,

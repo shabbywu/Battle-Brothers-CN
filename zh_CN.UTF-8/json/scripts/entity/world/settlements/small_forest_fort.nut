@@ -12,140 +12,160 @@
     "key": "Finsterwall",
     "original": "Finsterwall",
     "translation": "芬斯特沃尔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Finsterwall'"
   },
   {
     "ID": 293412080,
     "key": "Dornwall",
     "original": "Dornwall",
     "translation": "多恩沃尔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Dornwall'"
   },
   {
     "ID": 293412081,
     "key": "Schwarzwacht",
     "original": "Schwarzwacht",
     "translation": "施瓦茨瓦赫特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Schwarzwacht'"
   },
   {
     "ID": 293412082,
     "key": "Eulenwacht",
     "original": "Eulenwacht",
     "translation": "猫头鹰哨站",
-    "stage": 1
+    "stage": 1,
+    "context": "'Eulenwacht'"
   },
   {
     "ID": 293412083,
     "key": "Waidschanze",
     "original": "Waidschanze",
     "translation": "怀德尚策",
-    "stage": 1
+    "stage": 1,
+    "context": "'Waidschanze'"
   },
   {
     "ID": 293412084,
     "key": "Hirschturm",
     "original": "Hirschturm",
     "translation": "鹿塔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Hirschturm'"
   },
   {
     "ID": 293412085,
     "key": "Waldwacht",
     "original": "Waldwacht",
     "translation": "森林守卫",
-    "stage": 1
+    "stage": 1,
+    "context": "'Waldwacht'"
   },
   {
     "ID": 293412086,
     "key": "Dunkelwacht",
     "original": "Dunkelwacht",
     "translation": "邓凯尔瓦赫特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Dunkelwacht'"
   },
   {
     "ID": 293412087,
     "key": "Holzwacht",
     "original": "Holzwacht",
     "translation": "霍尔茨瓦赫特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Holzwacht'"
   },
   {
     "ID": 293412088,
     "key": "Tannwall",
     "original": "Tannwall",
     "translation": "坦沃尔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Tannwall'"
   },
   {
     "ID": 293412089,
     "key": "Mooswehr",
     "original": "Mooswehr",
     "translation": "墨斯韦尔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Mooswehr'"
   },
   {
     "ID": 293412090,
     "key": "Steinforst",
     "original": "Steinforst",
     "translation": "斯坦福斯特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Steinforst'"
   },
   {
     "ID": 293412091,
     "key": "Grunwall",
     "original": "Grunwall",
     "translation": "格朗沃尔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Grunwall'"
   },
   {
     "ID": 293412092,
     "key": "Eichwacht",
     "original": "Eichwacht",
     "translation": "艾希瓦赫特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Eichwacht'"
   },
   {
     "ID": 293412093,
     "key": "Fahrnwacht",
     "original": "Fahrnwacht",
     "translation": "法翰瓦赫特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Fahrnwacht'"
   },
   {
     "ID": 293412094,
     "key": "Nebelwacht",
     "original": "Nebelwacht",
     "translation": "雾岗堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Nebelwacht'"
   },
   {
     "ID": 293412095,
     "key": "Eibenwacht",
     "original": "Eibenwacht",
     "translation": "依本瓦赫特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Eibenwacht'"
   },
   {
     "ID": 293412096,
     "key": "Haselwehr",
     "original": "Haselwehr",
     "translation": "Hasselwehr",
-    "stage": 1
+    "stage": 1,
+    "context": "'Haselwehr'"
   },
   {
     "ID": 293412097,
     "key": "Forstwehr",
     "original": "Forstwehr",
     "translation": "森林守卫",
-    "stage": 1
+    "stage": 1,
+    "context": "'Forstwehr'"
   },
   {
     "ID": 293412098,
     "key": "Waldenwehr",
     "original": "Waldenwehr",
     "translation": "瓦尔登韦尔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Waldenwehr'"
   },
   {
     "ID": 293412099,
@@ -160,69 +180,79 @@
     "key": "Wildwacht",
     "original": "Wildwacht",
     "translation": "蛮荒哨兵",
-    "stage": 1
+    "stage": 1,
+    "context": "'Wildwacht'"
   },
   {
     "ID": 293412101,
     "key": "Dusterschanze",
     "original": "Dusterschanze",
     "translation": "杜斯特山茨",
-    "stage": 1
+    "stage": 1,
+    "context": "'Dusterschanze'"
   },
   {
     "ID": 293412102,
     "key": "Hainturm",
     "original": "Hainturm",
     "translation": "海特姆",
-    "stage": 1
+    "stage": 1,
+    "context": "'Hainturm'"
   },
   {
     "ID": 293412103,
     "key": "Steinweiler",
     "original": "Steinweiler",
     "translation": "斯泰因韦勒",
-    "stage": 1
+    "stage": 1,
+    "context": "'Steinweiler'"
   },
   {
     "ID": 293412104,
     "key": "Finsterwehr",
     "original": "Finsterwehr",
     "translation": "芬斯特韦尔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Finsterwehr'"
   },
   {
     "ID": 293412105,
     "key": "Haselwacht",
     "original": "Haselwacht",
     "translation": "哈塞尔瓦赫特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Haselwacht'"
   },
   {
     "ID": 293412106,
     "key": "Fuchsturm",
     "original": "Fuchsturm",
     "translation": "福斯图姆",
-    "stage": 1
+    "stage": 1,
+    "context": "'Fuchsturm'"
   },
   {
     "ID": 293412107,
     "key": "Erlenwall",
     "original": "Erlenwall",
     "translation": "艾伦沃尔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Erlenwall'"
   },
   {
     "ID": 293412108,
     "key": "Farnwacht",
     "original": "Farnwacht",
     "translation": "法恩瓦赫特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Farnwacht'"
   },
   {
     "ID": 293412109,
     "key": "Eulenturm",
     "original": "Eulenturm",
     "translation": "猫头鹰塔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Eulenturm'"
   }
 ]

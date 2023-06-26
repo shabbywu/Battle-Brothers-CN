@@ -4,14 +4,16 @@
     "key": "the Savage",
     "original": "the Savage",
     "translation": "野蛮人",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Savage'"
   },
   {
     "ID": 293421375,
     "key": "the Outcast",
     "original": "the Outcast",
     "translation": "被流放者(the Outcast)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Outcast'"
   },
   {
     "ID": 293421376,
@@ -26,7 +28,8 @@
     "key": "the Wildman",
     "original": "the Wildman",
     "translation": "荒野人(the Wildman)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Wildman'"
   },
   {
     "ID": 293421378,
@@ -34,28 +37,31 @@
     "original": "]-15%[/color] Experience Gain",
     "translation": "]-15%[/color] 经验获取",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] Experience Gain'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] Experience Gain'"
   },
   {
     "ID": 293421379,
     "key": "the Feral",
     "original": "the Feral",
     "translation": "蛮族(the Feral)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Feral'"
   },
   {
     "ID": 293421380,
     "key": "the Barbarian",
     "original": "the Barbarian",
     "translation": "野蛮人(the Barbarian)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Barbarian'"
   },
   {
     "ID": 293421381,
     "key": "the Wild",
     "original": "the Wild",
     "translation": "荒野(the Wild)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Wild'"
   },
   {
     "ID": 293421382,

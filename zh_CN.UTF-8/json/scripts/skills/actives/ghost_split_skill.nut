@@ -13,7 +13,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-5%[/color] chance to hit'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-5%[/color] chance to hit'"
   },
   {
     "ID": 293420021,
@@ -21,7 +21,7 @@
     "original": "]-5%[/color] chance to hit",
     "translation": "]-5%[/color] 命中几率",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-5%[/color] chance to hit'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-5%[/color] chance to hit'"
   },
   {
     "ID": 293420022,
@@ -44,6 +44,7 @@
     "key": "Can hit up to 2 targets",
     "original": "Can hit up to 2 targets",
     "translation": "最多可以击中 2 个目标",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Can hit up to 2 targets'"
   }
 ]

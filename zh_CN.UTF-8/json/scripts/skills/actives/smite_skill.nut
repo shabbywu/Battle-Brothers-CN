@@ -5,7 +5,7 @@
     "original": "[/color] damage to armor",
     "translation": "[/color] 护甲伤害",
     "stage": 5,
-    "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_Armor_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_Armor_max + '[/color] damage to armor'"
+    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_Armor_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_Armor_max + '[/color] damage to armor'"
   },
   {
     "ID": 293420428,
@@ -13,7 +13,7 @@
     "original": "[/color] - [color=",
     "translation": "[/color] - [color=",
     "stage": 5,
-    "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max + '[/color] damage to hitpoints, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
+    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max + '[/color] damage to hitpoints, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
   },
   {
     "ID": 293420429,
@@ -21,7 +21,7 @@
     "original": " for one turn",
     "translation": "，持续 1 回合",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + ' for one turn')"
   },
   {
     "ID": 293420430,
@@ -29,7 +29,7 @@
     "original": "[/color] can ignore armor",
     "translation": "[/color] 可无视盔甲",
     "stage": 5,
-    "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max + '[/color] damage to hitpoints, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
+    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max + '[/color] damage to hitpoints, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
   },
   {
     "ID": 293420431,
@@ -37,7 +37,7 @@
     "original": "[/color] damage to hitpoints, of which [color=",
     "translation": "[/color] 生命值伤害，其中[color=",
     "stage": 5,
-    "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max + '[/color] damage to hitpoints, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
+    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max + '[/color] damage to hitpoints, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
   },
   {
     "ID": 293420432,
@@ -45,7 +45,7 @@
     "original": "]0[/color] - [color=",
     "translation": "]0[/color] - [color=",
     "stage": 5,
-    "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max + '[/color] damage to hitpoints, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
+    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max + '[/color] damage to hitpoints, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
   },
   {
     "ID": 293420433,
@@ -61,7 +61,7 @@
     "original": "Inflicts [color=",
     "translation": "造成 [color=",
     "stage": 5,
-    "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max + '[/color] damage to hitpoints, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
+    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_Armor_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_Armor_max + '[/color] damage to armor'"
   },
   {
     "ID": 293420435,
@@ -77,7 +77,7 @@
     "original": "]100%[/color] chance to stagger on a hit",
     "translation": "]100%[/color] 几率在命中时造成趔趄",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stagger on a hit'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stagger on a hit'"
   },
   {
     "ID": 293420437,
@@ -85,7 +85,7 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stagger on a hit'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stagger on a hit'"
   },
   {
     "ID": 293420438,
@@ -101,6 +101,6 @@
     "original": " has staggered ",
     "translation": "趔趄了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + ' for one turn')"
   }
 ]

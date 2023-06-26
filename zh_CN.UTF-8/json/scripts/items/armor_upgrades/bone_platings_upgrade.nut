@@ -21,7 +21,7 @@
     "original": "]-2[/color] Maximum Fatigue",
     "translation": "]-2[/color] 最大疲劳值",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-2[/color] Maximum Fatigue'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-2[/color] Maximum Fatigue'"
   },
   {
     "ID": 293417892,
@@ -36,6 +36,7 @@
     "key": "Completely absorbs the first hit of every combat encounter which doesn't ignore armor",
     "original": "Completely absorbs the first hit of every combat encounter which doesn't ignore armor",
     "translation": "完全吸收每一次战斗中不忽视盔甲的第一次命中",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = \"Completely absorbs the first hit of every combat encounter which doesn't ignore armor\""
   }
 ]

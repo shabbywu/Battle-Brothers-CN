@@ -20,42 +20,48 @@
     "key": "Hoofmind",
     "original": "Hoofmind",
     "translation": "蹄心(Hoofmind)",
-    "stage": 5
+    "stage": 5,
+    "context": "'Hoofmind'"
   },
   {
     "ID": 293421267,
     "key": "the Goatman",
     "original": "the Goatman",
     "translation": "山羊人(the Goatman)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Goatman'"
   },
   {
     "ID": 293421268,
     "key": "the Shepherd",
     "original": "the Shepherd",
     "translation": "牧羊人(the Shepherd)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Shepherd'"
   },
   {
     "ID": 293421269,
     "key": "the Humble",
     "original": "the Humble",
     "translation": "谦卑者(the Humble)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Humble'"
   },
   {
     "ID": 293421270,
     "key": "the Peaceful",
     "original": "the Peaceful",
     "translation": "平和者(the Peaceful)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Peaceful'"
   },
   {
     "ID": 293421271,
     "key": "the Sheep",
     "original": "the Sheep",
     "translation": "羊(the Sheep)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Sheep'"
   },
   {
     "ID": 293421272,

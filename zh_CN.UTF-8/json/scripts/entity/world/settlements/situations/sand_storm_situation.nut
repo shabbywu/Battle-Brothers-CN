@@ -20,7 +20,8 @@
     "key": "It happened again, %settlement% has been engulfed in the most terrible of sandstorms.",
     "original": "It happened again, %settlement% has been engulfed in the most terrible of sandstorms.",
     "translation": "事情再次发生，%settlement% 已经被最可怕的沙尘暴吞噬了。",
-    "stage": 1
+    "stage": 1,
+    "context": "'It happened again, %settlement% has been engulfed in the most terrible of sandstorms.'"
   },
   {
     "ID": 293411867,
@@ -43,6 +44,7 @@
     "key": "I just came back from %settlement%, barely made it out! A sandstorm has engulfed the whole city!",
     "original": "I just came back from %settlement%, barely made it out! A sandstorm has engulfed the whole city!",
     "translation": "我刚从 %settlement% 回来，差点就没出来！一场沙尘暴席卷了整个城市！",
-    "stage": 1
+    "stage": 1,
+    "context": "'I just came back from %settlement%, barely made it out! A sandstorm has engulfed the whole city!'"
   }
 ]

@@ -5,7 +5,7 @@
     "original": "]+5[/color] Resolve at positive morale checks",
     "translation": "]+5[/color] 决心，在积极士气检查时",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Resolve at positive morale checks'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Resolve at positive morale checks'"
   },
   {
     "ID": 293422698,
@@ -28,6 +28,7 @@
     "key": "Bad mood fades away faster",
     "original": "Bad mood fades away faster",
     "translation": "坏心情消失得更快",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Bad mood fades away faster'"
   }
 ]

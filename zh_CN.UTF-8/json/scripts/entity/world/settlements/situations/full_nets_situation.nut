@@ -12,7 +12,8 @@
     "key": "You in the trading business? I hear they have their nets filled to the brim with fish over at %settlement%.",
     "original": "You in the trading business? I hear they have their nets filled to the brim with fish over at %settlement%.",
     "translation": "你是做贸易的吗？我听说他们那里的渔网里装满了鱼，那里是 %settlement%。",
-    "stage": 1
+    "stage": 1,
+    "context": "'You in the trading business? I hear they have their nets filled to the brim with fish over at %settlement%.'"
   },
   {
     "ID": 293411738,
@@ -35,7 +36,8 @@
     "key": "This time o' year large schools of fish always come by %settlement%. All they need do is throw some nets into the water and then pull out more fish than they could ever eat! Lucky bastards!",
     "original": "This time o' year large schools of fish always come by %settlement%. All they need do is throw some nets into the water and then pull out more fish than they could ever eat! Lucky bastards!",
     "translation": "每年这个时候，%settlement% 总会有大批的鱼来。他们所需要做的就是把一些网扔进水里，然后拉出比他们能吃掉的更多的鱼！幸运的混蛋！",
-    "stage": 1
+    "stage": 1,
+    "context": "\"This time o' year large schools of fish always come by %settlement%. All they need do is throw some nets into the water and then pull out more fish than they could ever eat! Lucky bastards!\""
   },
   {
     "ID": 293411741,
@@ -50,6 +52,7 @@
     "key": "Tomorrow I'll head out to %settlement% and fill my carts with fish. Rumor has it the fishermen over there hit a lucky streak!",
     "original": "Tomorrow I'll head out to %settlement% and fill my carts with fish. Rumor has it the fishermen over there hit a lucky streak!",
     "translation": "明天我要去 %settlement%，把鱼装满我的货车。谣传那边的渔民们走运了！",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Tomorrow I'll head out to %settlement% and fill my carts with fish. Rumor has it the fishermen over there hit a lucky streak!\""
   }
 ]

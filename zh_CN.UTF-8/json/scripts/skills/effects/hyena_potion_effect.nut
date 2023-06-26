@@ -12,7 +12,8 @@
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421538,
@@ -20,7 +21,7 @@
     "original": "Damage received from the Bleeding status effect is reduced by [color=",
     "translation": "受到的流血伤害减少  [color=",
     "stage": 1,
-    "context": "'Damage received from the Bleeding status effect is reduced by [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color]'"
+    "context": "'text' = 'Damage received from the Bleeding status effect is reduced by [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color]'"
   },
   {
     "ID": 293421539,

@@ -13,7 +13,7 @@
     "original": "]+1[/color] Vision",
     "translation": "]+1[/color] 视野",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+1[/color] Vision'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+1[/color] Vision'"
   },
   {
     "ID": 293422493,

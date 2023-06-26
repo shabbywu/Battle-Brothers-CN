@@ -4,35 +4,40 @@
     "key": "the Monk",
     "original": "the Monk",
     "translation": "僧侣(the Monk)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Monk'"
   },
   {
     "ID": 293421148,
     "key": "the Faithful",
     "original": "the Faithful",
     "translation": "忠诚者(the Faithful)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Faithful'"
   },
   {
     "ID": 293421149,
     "key": "the Calm",
     "original": "the Calm",
     "translation": "宁静之地 (the Calm)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Calm'"
   },
   {
     "ID": 293421150,
     "key": "the Quiet",
     "original": "the Quiet",
     "translation": "寂静(the Quiet)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Quiet'"
   },
   {
     "ID": 293421151,
     "key": "the Devoted",
     "original": "the Devoted",
     "translation": "虔诚者(the Devoted)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Devoted'"
   },
   {
     "ID": 293421152,
@@ -63,7 +68,8 @@
     "key": "the Preacher",
     "original": "the Preacher",
     "translation": "传教士(the Preacher)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Preacher'"
   },
   {
     "ID": 293421156,
@@ -78,14 +84,16 @@
     "key": "the Scholar",
     "original": "the Scholar",
     "translation": "学者(the Scholar)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Scholar'"
   },
   {
     "ID": 293421158,
     "key": "the Pious",
     "original": "the Pious",
     "translation": "虔诚者 (the Pious)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Pious'"
   },
   {
     "ID": 293421159,

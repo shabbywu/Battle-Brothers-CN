@@ -12,7 +12,8 @@
     "key": "Removes the Sleeping status effect",
     "original": "Removes the Sleeping status effect",
     "translation": "移除睡眠状态效果",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Removes the Sleeping status effect'"
   },
   {
     "ID": 293420712,

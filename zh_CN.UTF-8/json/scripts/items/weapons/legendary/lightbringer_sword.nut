@@ -5,7 +5,7 @@
     "original": "]20[/color] damage that ignores armor to up to three targets",
     "translation": "]20[/color] 无视护甲的伤害",
     "stage": 1,
-    "context": "'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
+    "context": "'text' = 'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
   },
   {
     "ID": 293419209,
@@ -13,7 +13,7 @@
     "original": "]10[/color] - [color=",
     "translation": "]10[/color] - [color=",
     "stage": 5,
-    "context": "'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
+    "context": "'text' = 'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
   },
   {
     "ID": 293419210,
@@ -45,6 +45,6 @@
     "original": "Inflicts an additional [color=",
     "translation": "对最多三个目标造成额外[color=",
     "stage": 5,
-    "context": "'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
+    "context": "'text' = 'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
   }
 ]

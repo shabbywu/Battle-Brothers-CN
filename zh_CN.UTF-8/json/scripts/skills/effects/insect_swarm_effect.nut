@@ -13,7 +13,7 @@
     "original": "]-50%[/color] Melee Defense",
     "translation": "]-50%[/color] 近战防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Melee Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Melee Defense'"
   },
   {
     "ID": 293421557,
@@ -21,7 +21,7 @@
     "original": "]-50%[/color] Melee Skill",
     "translation": "]-50%[/color] 近战技能",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Melee Skill'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Melee Skill'"
   },
   {
     "ID": 293421558,
@@ -37,7 +37,7 @@
     "original": "]-50%[/color] Ranged Defense",
     "translation": "]-50%[/color] 远程防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Ranged Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Ranged Defense'"
   },
   {
     "ID": 293421560,
@@ -45,7 +45,7 @@
     "original": "]-50%[/color] Initiative",
     "translation": "]-50%[/color] 主动性",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Initiative'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Initiative'"
   },
   {
     "ID": 293421561,
@@ -53,7 +53,7 @@
     "original": "]-50%[/color] Ranged Skill",
     "translation": "]-50%[/color] 远程技能",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Ranged Skill'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Ranged Skill'"
   },
   {
     "ID": 293421562,
@@ -69,6 +69,6 @@
     "original": " repels insects with his unnatural physiology",
     "translation": "非自然的生理功能使他逼退了虫群",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' repels insects with his unnatural physiology'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' repels insects with his unnatural physiology')"
   }
 ]

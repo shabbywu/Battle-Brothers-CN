@@ -4,7 +4,8 @@
     "key": "the Braggart",
     "original": "the Braggart",
     "translation": "吹牛者(the Braggart)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Braggart'"
   },
   {
     "ID": 293422398,
@@ -12,7 +13,7 @@
     "original": "]-5[/color] Ranged Defense",
     "translation": "]-5[/color] 远程防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Ranged Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Ranged Defense'"
   },
   {
     "ID": 293422399,
@@ -20,7 +21,7 @@
     "original": "]+5[/color] Resolve",
     "translation": "]+5[/color] 决心",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Resolve'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Resolve'"
   },
   {
     "ID": 293422400,
@@ -44,13 +45,14 @@
     "original": "]-5[/color] Melee Defense",
     "translation": "]-5[/color] 近战防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Defense'"
   },
   {
     "ID": 293422403,
     "key": "the Brave",
     "original": "the Brave",
     "translation": "勇士(the Brave)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Brave'"
   }
 ]

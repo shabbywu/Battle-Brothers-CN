@@ -20,6 +20,7 @@
     "key": "Force the target to engage and attack this character, if possible, on their next turn. Note that targets will still adhere to their group strategy, and may not blindly charge forward.",
     "original": "Force the target to engage and attack this character, if possible, on their next turn. Note that targets will still adhere to their group strategy, and may not blindly charge forward.",
     "translation": "如果可能的话，迫使目标在其下回合接近并攻击此角色。请注意，目标依旧会遵循他们的群体战略，并不一定会盲目的冲过来。",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Force the target to engage and attack this character, if possible, on their next turn. Note that targets will still adhere to their group strategy, and may not blindly charge forward.'"
   }
 ]

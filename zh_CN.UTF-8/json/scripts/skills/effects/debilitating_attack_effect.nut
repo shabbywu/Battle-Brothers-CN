@@ -5,7 +5,7 @@
     "original": "]-50%[/color] Damage inflicted by target hit for one turn",
     "translation": "]-50%[/color] 伤害，使命中的目标",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Damage inflicted by target hit for one turn'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Damage inflicted by target hit for one turn'"
   },
   {
     "ID": 293421458,

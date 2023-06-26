@@ -13,14 +13,15 @@
     "original": "]+20[/color] Resolve",
     "translation": "]+20[/color] 决心",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+20[/color] Resolve'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+20[/color] Resolve'"
   },
   {
     "ID": 293421595,
     "key": "Will be gone after 1 more battle",
     "original": "Will be gone after 1 more battle",
     "translation": "会在1场战斗之后消失",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Will be gone after 1 more battle'"
   },
   {
     "ID": 293421596,

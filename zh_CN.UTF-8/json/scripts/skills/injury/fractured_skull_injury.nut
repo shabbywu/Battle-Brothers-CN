@@ -5,7 +5,7 @@
     "original": "]-50%[/color] Melee Defense",
     "translation": "]-50%[/color] 近战防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Melee Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Melee Defense'"
   },
   {
     "ID": 293421961,
@@ -13,7 +13,7 @@
     "original": "]-50%[/color] Melee Skill",
     "translation": "]-50%[/color] 近战技能",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Melee Skill'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Melee Skill'"
   },
   {
     "ID": 293421962,
@@ -21,7 +21,7 @@
     "original": "]-50%[/color] Ranged Defense",
     "translation": "]-50%[/color] 远程防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Ranged Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Ranged Defense'"
   },
   {
     "ID": 293421963,
@@ -29,7 +29,7 @@
     "original": "]-50%[/color] Initiative",
     "translation": "]-50%[/color] 主动性",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Initiative'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Initiative'"
   },
   {
     "ID": 293421964,
@@ -45,7 +45,7 @@
     "original": "]-2[/color] Vision",
     "translation": "]-2[/color] 视野",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-2[/color] Vision'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-2[/color] Vision'"
   },
   {
     "ID": 293421966,
@@ -53,7 +53,7 @@
     "original": "]-50%[/color] Ranged Skill",
     "translation": "]-50%[/color] 远程技能",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Ranged Skill'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Ranged Skill'"
   },
   {
     "ID": 293421967,

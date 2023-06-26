@@ -13,6 +13,6 @@
     "original": " transcends time and place!",
     "translation": "超越时间和空间！",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' transcends time and place!'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' transcends time and place!')"
   }
 ]

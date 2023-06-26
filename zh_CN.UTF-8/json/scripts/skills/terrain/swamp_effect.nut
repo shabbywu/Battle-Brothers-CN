@@ -13,7 +13,7 @@
     "original": "]-25%[/color] Ranged Defense",
     "translation": "]-25%[/color] 远程防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Ranged Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Ranged Defense'"
   },
   {
     "ID": 293422310,
@@ -29,7 +29,7 @@
     "original": "]-25%[/color] Melee Defense",
     "translation": "]-25%[/color] 近战防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Melee Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Melee Defense'"
   },
   {
     "ID": 293422312,
@@ -37,6 +37,6 @@
     "original": "]-25%[/color] Melee Skill",
     "translation": "]-25%[/color] 近战技能",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Melee Skill'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Melee Skill'"
   }
 ]

@@ -12,14 +12,16 @@
     "key": "the Liar",
     "original": "the Liar",
     "translation": "骗子(the Liar)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Liar'"
   },
   {
     "ID": 293420816,
     "key": "the Homeless",
     "original": "the Homeless",
     "translation": "无家可归者(the Homeless)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Homeless'"
   },
   {
     "ID": 293420817,
@@ -34,7 +36,8 @@
     "key": "the Ragged",
     "original": "the Ragged",
     "translation": "衣衫褴褛者(the Ragged)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Ragged'"
   },
   {
     "ID": 293420819,
@@ -49,7 +52,8 @@
     "key": "the Weasel",
     "original": "the Weasel",
     "translation": "黄鼠狼",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Weasel'"
   },
   {
     "ID": 293420821,
@@ -64,63 +68,72 @@
     "key": "the Sloth",
     "original": "the Sloth",
     "translation": "懒汉(the Sloth)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Sloth'"
   },
   {
     "ID": 293420823,
     "key": "the Beggar",
     "original": "the Beggar",
     "translation": "乞丐(the Beggar)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Beggar'"
   },
   {
     "ID": 293420824,
     "key": "the Skunk",
     "original": "the Skunk",
     "translation": "臭鼬(the Skunk)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Skunk'"
   },
   {
     "ID": 293420825,
     "key": "the Sluggard",
     "original": "the Sluggard",
     "translation": "懒汉(the Sluggard)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Sluggard'"
   },
   {
     "ID": 293420826,
     "key": "the Dirty",
     "original": "the Dirty",
     "translation": "肮脏之人(the Dirty)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Dirty'"
   },
   {
     "ID": 293420827,
     "key": "the Poor",
     "original": "the Poor",
     "translation": "穷鬼(the Poor)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Poor'"
   },
   {
     "ID": 293420828,
     "key": "the Idle",
     "original": "the Idle",
     "translation": "懒鬼(the Idle)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Idle'"
   },
   {
     "ID": 293420829,
     "key": "the Useless",
     "original": "the Useless",
     "translation": "无用之人(the Useless)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Useless'"
   },
   {
     "ID": 293420830,
     "key": "the Sick",
     "original": "the Sick",
     "translation": "病人(the Sick)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Sick'"
   },
   {
     "ID": 293420831,

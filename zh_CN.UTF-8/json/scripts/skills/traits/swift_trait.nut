@@ -5,21 +5,23 @@
     "original": "]+5[/color] Ranged Defense",
     "translation": "]+5[/color] 远程防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense'"
   },
   {
     "ID": 293422749,
     "key": "the Swift",
     "original": "the Swift",
     "translation": "迅捷者(the Swift)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Swift'"
   },
   {
     "ID": 293422750,
     "key": "Quickfeet",
     "original": "Quickfeet",
     "translation": "敏足 (Quickfeet)",
-    "stage": 5
+    "stage": 5,
+    "context": "'Quickfeet'"
   },
   {
     "ID": 293422751,

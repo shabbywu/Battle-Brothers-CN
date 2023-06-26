@@ -4,7 +4,8 @@
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421528,
@@ -12,7 +13,7 @@
     "original": "]25%[/color] and [color=",
     "translation": "]25%[/color] 到 [color=",
     "stage": 1,
-    "context": "'This character takes between [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] less damage from piercing attacks, such as those from bows or spears'"
+    "context": "'text' = 'This character takes between [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] less damage from piercing attacks, such as those from bows or spears'"
   },
   {
     "ID": 293421529,
@@ -20,7 +21,7 @@
     "original": "]50%[/color] less damage from piercing attacks, such as those from bows or spears",
     "translation": "]50%[/color] 的伤害减免。",
     "stage": 1,
-    "context": "'This character takes between [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] less damage from piercing attacks, such as those from bows or spears'"
+    "context": "'text' = 'This character takes between [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] less damage from piercing attacks, such as those from bows or spears'"
   },
   {
     "ID": 293421530,
@@ -28,7 +29,7 @@
     "original": "This character takes between [color=",
     "translation": "每次遭受穿刺攻击（例如弓和矛）伤害时随机获得 [color=",
     "stage": 1,
-    "context": "'This character takes between [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] less damage from piercing attacks, such as those from bows or spears'"
+    "context": "'text' = 'This character takes between [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] less damage from piercing attacks, such as those from bows or spears'"
   },
   {
     "ID": 293421531,

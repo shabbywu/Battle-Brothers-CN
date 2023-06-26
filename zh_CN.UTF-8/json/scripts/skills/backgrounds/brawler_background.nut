@@ -37,7 +37,7 @@
     "original": "]+100%[/color] Damage when unarmed",
     "translation": "]+100%[/color] 徒手时的伤害",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+100%[/color] Damage when unarmed'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+100%[/color] Damage when unarmed'"
   },
   {
     "ID": 293420851,

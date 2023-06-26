@@ -13,7 +13,7 @@
     "original": " gores",
     "translation": "刺破(gores)",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(_entity) + ' gores'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_entity) + ' gores')"
   },
   {
     "ID": 293420039,
@@ -21,7 +21,7 @@
     "original": " for one turn",
     "translation": "持续 1 回合",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn')"
   },
   {
     "ID": 293420040,
@@ -29,7 +29,7 @@
     "original": " has staggered ",
     "translation": "趔趄",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn')"
   },
   {
     "ID": 293420041,
@@ -37,6 +37,6 @@
     "original": " has knocked back ",
     "translation": "撞退了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has knocked back ' + this.Const.UI.getColorizedEntityName(_target)"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has knocked back ' + this.Const.UI.getColorizedEntityName(_target))"
   }
 ]

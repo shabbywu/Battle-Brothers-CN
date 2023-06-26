@@ -5,7 +5,7 @@
     "original": "]3[/color] turns, all of which ignores armor",
     "translation": "]3[/color] 回合，所有伤害无视护甲",
     "stage": 5,
-    "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage to hitpoints for [color=' + this.Const.UI.Color.DamageValue + ']3[/color] turns, all of which ignores armor'"
+    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage to hitpoints for [color=' + this.Const.UI.Color.DamageValue + ']3[/color] turns, all of which ignores armor'"
   },
   {
     "ID": 293420624,
@@ -21,7 +21,7 @@
     "original": "]20[/color] damage to hitpoints for [color=",
     "translation": "]20[/color] 每回合生命值伤害，持续 [color=",
     "stage": 5,
-    "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage to hitpoints for [color=' + this.Const.UI.Color.DamageValue + ']3[/color] turns, all of which ignores armor'"
+    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage to hitpoints for [color=' + this.Const.UI.Color.DamageValue + ']3[/color] turns, all of which ignores armor'"
   },
   {
     "ID": 293420626,
@@ -29,14 +29,15 @@
     "original": "]33%[/color] chance to hit bystanders at the same or lower height level as well.",
     "translation": "]33%[/color] 几率波及四周相同或更低高度的单位。",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] chance to hit bystanders at the same or lower height level as well.'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] chance to hit bystanders at the same or lower height level as well.'"
   },
   {
     "ID": 293420627,
     "key": "Only affects undead targets",
     "original": "Only affects undead targets",
     "translation": "只影响亡灵目标",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Only affects undead targets'"
   },
   {
     "ID": 293420628,
@@ -52,7 +53,7 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] chance to hit bystanders at the same or lower height level as well.'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] chance to hit bystanders at the same or lower height level as well.'"
   },
   {
     "ID": 293420630,
@@ -60,6 +61,6 @@
     "original": "Inflicts [color=",
     "translation": "造成 [color=",
     "stage": 5,
-    "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage to hitpoints for [color=' + this.Const.UI.Color.DamageValue + ']3[/color] turns, all of which ignores armor'"
+    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage to hitpoints for [color=' + this.Const.UI.Color.DamageValue + ']3[/color] turns, all of which ignores armor'"
   }
 ]

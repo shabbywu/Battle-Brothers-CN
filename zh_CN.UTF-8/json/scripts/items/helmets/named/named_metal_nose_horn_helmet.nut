@@ -4,7 +4,8 @@
     "key": "Bulky Faceguard",
     "original": "Bulky Faceguard",
     "translation": "笨重的护面",
-    "stage": 1
+    "stage": 1,
+    "context": "'Bulky Faceguard'"
   },
   {
     "ID": 293418188,
@@ -19,27 +20,31 @@
     "key": "Bladed Headguard",
     "original": "Bladed Headguard",
     "translation": "刃头护板",
-    "stage": 1
+    "stage": 1,
+    "context": "'Bladed Headguard'"
   },
   {
     "ID": 293418190,
     "key": "Closed Helmet",
     "original": "Closed Helmet",
     "translation": "封闭式头盔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Closed Helmet'"
   },
   {
     "ID": 293418191,
     "key": "Spiked Headpiece",
     "original": "Spiked Headpiece",
     "translation": "钉头",
-    "stage": 1
+    "stage": 1,
+    "context": "'Spiked Headpiece'"
   },
   {
     "ID": 293418192,
     "key": "Pit Fighter Helmet",
     "original": "Pit Fighter Helmet",
     "translation": "战壕战士头盔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Pit Fighter Helmet'"
   }
 ]

@@ -5,7 +5,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] chance to hit'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] chance to hit'"
   },
   {
     "ID": 293420307,
@@ -21,7 +21,7 @@
     "original": "]-10%[/color] chance to hit",
     "translation": "]-10%[/color]命中几率",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] chance to hit'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] chance to hit'"
   },
   {
     "ID": 293420309,
@@ -29,7 +29,7 @@
     "original": " uses Riposte",
     "translation": "使用还击",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses Riposte'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' uses Riposte')"
   },
   {
     "ID": 293420310,

@@ -4,7 +4,8 @@
     "key": "Discovered a legendary location",
     "original": "Discovered a legendary location",
     "translation": "发现一个传奇地点",
-    "stage": 1
+    "stage": 1,
+    "context": "'Text' = 'Discovered a legendary location'"
   },
   {
     "ID": 293419568,
@@ -19,7 +20,8 @@
     "key": "Pays you between 100 and 400 crowns for every location you discover on your own. The further away from civilization, the more you're paid. Legendary locations pay double.",
     "original": "Pays you between 100 and 400 crowns for every location you discover on your own. The further away from civilization, the more you're paid. Legendary locations pay double.",
     "translation": "为你独自发现的每个地点支付100到400克朗。 离文明越远，你得到的报酬就越多。 传奇地点双倍报酬。",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Pays you between 100 and 400 crowns for every location you discover on your own. The further away from civilization, the more you're paid. Legendary locations pay double.\""
   },
   {
     "ID": 293419570,

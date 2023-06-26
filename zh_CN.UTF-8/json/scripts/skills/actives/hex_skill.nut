@@ -13,7 +13,7 @@
     "original": " resists being hexed thanks to his unnatural physiology",
     "translation": "非自然的生理功能帮助他抵抗了诅咒",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(target) + ' resists being hexed thanks to his unnatural physiology'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(target) + ' resists being hexed thanks to his unnatural physiology')"
   },
   {
     "ID": 293420069,
@@ -21,6 +21,6 @@
     "original": " hexes ",
     "translation": "诅咒了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' hexes ' + this.Const.UI.getColorizedEntityName(target)"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' hexes ' + this.Const.UI.getColorizedEntityName(target))"
   }
 ]

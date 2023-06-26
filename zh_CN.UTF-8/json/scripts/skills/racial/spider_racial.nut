@@ -5,7 +5,7 @@
     "original": " is poisoned",
     "translation": "中毒了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_targetEntity) + ' is poisoned'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_targetEntity) + ' is poisoned')"
   },
   {
     "ID": 293422161,

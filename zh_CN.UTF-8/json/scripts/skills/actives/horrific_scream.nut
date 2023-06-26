@@ -5,7 +5,7 @@
     "original": " uses Horrific Scream",
     "translation": "使用了惊恐尖叫",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses Horrific Scream'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' uses Horrific Scream')"
   },
   {
     "ID": 293420082,

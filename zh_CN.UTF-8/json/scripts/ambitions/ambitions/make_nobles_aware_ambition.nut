@@ -4,7 +4,8 @@
     "key": "Your look on the worldmap has been updated",
     "original": "Your look on the worldmap has been updated",
     "translation": "你在世界地图上的形象已经更新了",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Your look on the worldmap has been updated'"
   },
   {
     "ID": 293403492,
@@ -35,7 +36,8 @@
     "key": "Nobles will now give you contracts",
     "original": "Nobles will now give you contracts",
     "translation": "贵族现在会给你合同",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Nobles will now give you contracts'"
   },
   {
     "ID": 293403496,

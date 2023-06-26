@@ -13,7 +13,7 @@
     "original": "]-3[/color] Action Points",
     "translation": "]-3[/color] 行动点",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-3[/color] Action Points'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-3[/color] Action Points'"
   },
   {
     "ID": 293421946,

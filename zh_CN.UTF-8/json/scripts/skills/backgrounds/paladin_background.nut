@@ -4,7 +4,8 @@
     "key": "the Oathsworn",
     "original": "the Oathsworn",
     "translation": "誓言守护者(the Oathsworn)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Oathsworn'"
   },
   {
     "ID": 293421186,
@@ -35,49 +36,56 @@
     "key": "the Righteous",
     "original": "the Righteous",
     "translation": "正义者(the Righteous)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Righteous'"
   },
   {
     "ID": 293421190,
     "key": "the Crusader",
     "original": "the Crusader",
     "translation": "十字军战士(the Crusader)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Crusader'"
   },
   {
     "ID": 293421191,
     "key": "the Devoted",
     "original": "the Devoted",
     "translation": "虔诚者(the Devoted)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Devoted'"
   },
   {
     "ID": 293421192,
     "key": "the Oathbound",
     "original": "the Oathbound",
     "translation": "誓约教团(the Oathbound)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Oathbound'"
   },
   {
     "ID": 293421193,
     "key": "the Zealot",
     "original": "the Zealot",
     "translation": "狂信者(the Zealot)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Zealot'"
   },
   {
     "ID": 293421194,
     "key": "the Paladin",
     "original": "the Paladin",
     "translation": "圣骑士(the Paladin)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Paladin'"
   },
   {
     "ID": 293421195,
     "key": "the Pious",
     "original": "the Pious",
     "translation": "虔诚者 (the Pious)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Pious'"
   },
   {
     "ID": 293421196,
@@ -100,6 +108,7 @@
     "key": "the Virtuous",
     "original": "the Virtuous",
     "translation": "高尚的人 (the Virtuous)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Virtuous'"
   }
 ]

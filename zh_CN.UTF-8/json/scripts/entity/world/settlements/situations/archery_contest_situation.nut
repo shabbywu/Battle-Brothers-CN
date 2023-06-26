@@ -12,7 +12,8 @@
     "key": "Anyone skilled with a bow is making their way to %settlement% these days for some contest. Most of them poachers and other lowlifes, I imagine.",
     "original": "Anyone skilled with a bow is making their way to %settlement% these days for some contest. Most of them poachers and other lowlifes, I imagine.",
     "translation": "这些天，任何熟练的弓箭手都要去 %settlement% 参加比赛。我想，他们中的大多数是偷猎者和其他贱民。",
-    "stage": 1
+    "stage": 1,
+    "context": "'Anyone skilled with a bow is making their way to %settlement% these days for some contest. Most of them poachers and other lowlifes, I imagine.'"
   },
   {
     "ID": 293411664,
@@ -27,7 +28,8 @@
     "key": "If you're a skilled archer, you might want to head to that big contest over in %settlement% and let fly some arrows!",
     "original": "If you're a skilled archer, you might want to head to that big contest over in %settlement% and let fly some arrows!",
     "translation": "如果你是一个熟练的弓箭手，你可能会想去 %settlement% 的那场大型比赛，让他们射箭！",
-    "stage": 1
+    "stage": 1,
+    "context": "\"If you're a skilled archer, you might want to head to that big contest over in %settlement% and let fly some arrows!\""
   },
   {
     "ID": 293411666,
@@ -42,7 +44,8 @@
     "key": "You know, I myself was once the best archer near and far, I swear! Until a damned donkey stepped on my hand, that is. Otherwise, I'd be in %settlement% for the archery contest right now...",
     "original": "You know, I myself was once the best archer near and far, I swear! Until a damned donkey stepped on my hand, that is. Otherwise, I'd be in %settlement% for the archery contest right now...",
     "translation": "你知道，我发誓，我自己曾经是远近最好的弓箭手！直到一头该死的驴子踩到我的手。否则，我现在就在 %settlement% 参加射箭比赛了…",
-    "stage": 1
+    "stage": 1,
+    "context": "\"You know, I myself was once the best archer near and far, I swear! Until a damned donkey stepped on my hand, that is. Otherwise, I'd be in %settlement% for the archery contest right now...\""
   },
   {
     "ID": 293411668,

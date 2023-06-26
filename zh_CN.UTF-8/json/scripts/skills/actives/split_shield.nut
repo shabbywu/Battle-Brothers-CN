@@ -5,7 +5,7 @@
     "original": "Inflicts [color=",
     "translation": "造成 [color=",
     "stage": 5,
-    "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage + '[/color] damage to shields'"
+    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage + '[/color] damage to shields'"
   },
   {
     "ID": 293420478,
@@ -13,7 +13,7 @@
     "original": "[/color] damage to shields",
     "translation": "[/color] 盾牌伤害",
     "stage": 5,
-    "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage + '[/color] damage to shields'"
+    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage + '[/color] damage to shields'"
   },
   {
     "ID": 293420479,
@@ -21,7 +21,7 @@
     "original": "Has [color=",
     "translation": "因为武器过于笨重，有 [color=",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
     "ID": 293420480,
@@ -29,7 +29,7 @@
     "original": "Has a range of [color=",
     "translation": "攻击范围为 [color=",
     "stage": 5,
-    "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + '] ' + this.m.MaxRange + '[/color] tiles'"
+    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + '] ' + this.m.MaxRange + '[/color] tiles'"
   },
   {
     "ID": 293420481,
@@ -37,7 +37,7 @@
     "original": "[/b] damage",
     "translation": "[/b] 伤害",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses Split Shield and hits ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + \"'s shield for [b]\" + conditionBefore - shield.getCondition() + '[/b] damage'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' uses Split Shield and hits ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + \"'s shield for [b]\" + conditionBefore - shield.getCondition() + '[/b] damage')"
   },
   {
     "ID": 293420482,
@@ -45,7 +45,7 @@
     "original": " uses Split Shield and hits ",
     "translation": "使用“裂盾”并命中了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses Split Shield and hits ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + \"'s shield for [b]\" + conditionBefore - shield.getCondition() + '[/b] damage'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' uses Split Shield and hits ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + \"'s shield for [b]\" + conditionBefore - shield.getCondition() + '[/b] damage')"
   },
   {
     "ID": 293420483,
@@ -53,7 +53,7 @@
     "original": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
     "translation": "]-15%[/color] 攻击近身敌人的命中惩罚",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
     "ID": 293420484,
@@ -61,7 +61,7 @@
     "original": "'s shield for [b]",
     "translation": "的盾牌[b]，造成",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses Split Shield and hits ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + \"'s shield for [b]\" + conditionBefore - shield.getCondition() + '[/b] damage'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' uses Split Shield and hits ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + \"'s shield for [b]\" + conditionBefore - shield.getCondition() + '[/b] damage')"
   },
   {
     "ID": 293420485,
@@ -77,7 +77,7 @@
     "original": "[/color] tiles",
     "translation": "[/color] 格",
     "stage": 5,
-    "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + '] ' + this.m.MaxRange + '[/color] tiles'"
+    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + '] ' + this.m.MaxRange + '[/color] tiles'"
   },
   {
     "ID": 293420487,
@@ -85,7 +85,7 @@
     "original": " uses Split Shield and destroys ",
     "translation": "使用“裂盾”并摧毁了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses Split Shield and destroys ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + \"'s shield\""
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' uses Split Shield and destroys ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + \"'s shield\")"
   },
   {
     "ID": 293420488,
@@ -101,6 +101,6 @@
     "original": "'s shield",
     "translation": "的盾牌",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses Split Shield and destroys ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + \"'s shield\""
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' uses Split Shield and destroys ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + \"'s shield\")"
   }
 ]

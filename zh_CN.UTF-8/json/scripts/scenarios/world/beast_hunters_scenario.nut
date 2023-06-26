@@ -5,14 +5,15 @@
     "original": "%name% saved you in the brigand's ambush that destroyed your band of slayers. He does not hang this fact over you, for you have saved him many a times yourself. The man suffers no emotion that does not bid him well in this world, and that alone makes him a sound slayer.",
     "translation": "%name% 在强盗的伏击中救了你，那次伏击摧毁了你的杀手团队。 他没有把这件事记挂在你身上，因为你自己救过他很多次。 在这个世界上，一个人没有一种情感不能使他活得很好，只有这种情感才能使他成为一个真正的杀手。",
     "stage": 1,
-    "context": "bros.0.getBackground().m.RawDescription = \"%name% saved you in the brigand's ambush that destroyed your band of slayers. He does not hang this fact over you, for you have saved him many a times yourself. The man suffers no emotion that does not bid him well in this world, and that alone makes him a sound slayer.\""
+    "context": "bros[0].getBackground().m.RawDescription = \"%name% saved you in the brigand's ambush that destroyed your band of slayers. He does not hang this fact over you, for you have saved him many a times yourself. The man suffers no emotion that does not bid him well in this world, and that alone makes him a sound slayer.\""
   },
   {
     "ID": 293419648,
     "key": "Lost most of the company in a betrayal",
     "original": "Lost most of the company in a betrayal",
     "translation": "在一次背叛中失去了大部分的战团同伴",
-    "stage": 1
+    "stage": 1,
+    "context": "bro.worsenMood(2.5, 'Lost most of the company in a betrayal')"
   },
   {
     "ID": 293419649,
@@ -20,7 +21,7 @@
     "original": "A young lad from the city, %name% got his start in beast slaying by rooting out the warrens of 'vicious rabbits', as he puts it. You're not sure how true that is, but regardless he has proven himself on the field of battle more times than you can count.",
     "translation": "%name% 是一个来自城市的年轻小伙子，用他自己的话说，他是通过铲除“恶兔”的巢穴来开始猎杀野兽的。 你不确定这是真的，但不管怎样，他在战场上证明自己的次数多得你都数不清了。",
     "stage": 1,
-    "context": "bros.1.getBackground().m.RawDescription = \"A young lad from the city, %name% got his start in beast slaying by rooting out the warrens of 'vicious rabbits', as he puts it. You're not sure how true that is, but regardless he has proven himself on the field of battle more times than you can count.\""
+    "context": "bros[1].getBackground().m.RawDescription = \"A young lad from the city, %name% got his start in beast slaying by rooting out the warrens of 'vicious rabbits', as he puts it. You're not sure how true that is, but regardless he has proven himself on the field of battle more times than you can count.\""
   },
   {
     "ID": 293419650,
@@ -35,7 +36,8 @@
     "key": "Has slain a dangerous witch",
     "original": "Has slain a dangerous witch",
     "translation": "杀死了一个危险的女巫",
-    "stage": 1
+    "stage": 1,
+    "context": "bro.improveMood(1.0, 'Has slain a dangerous witch')"
   },
   {
     "ID": 293419652,
@@ -51,6 +53,6 @@
     "original": "Grizzled vets are a rarity in beast slaying, and %name% sure ain't one. Instead, he's an intelligent man who started his foray into monster hunting by reading books instead of training the sword. Still a good enough warrior at heart, it is his study and preparation that gives him the edge in battle.",
     "translation": "在野兽杀手里，头发花白的兽医很少见，%name% 当然不是。 相反，他是一个聪明的人，他通过阅读书籍而不是训练剑开始了对怪物狩猎的探索。 他的内心仍然是一个优秀的战士，正是他的学习和准备给了他战斗的优势。",
     "stage": 1,
-    "context": "bros.2.getBackground().m.RawDescription = \"Grizzled vets are a rarity in beast slaying, and %name% sure ain't one. Instead, he's an intelligent man who started his foray into monster hunting by reading books instead of training the sword. Still a good enough warrior at heart, it is his study and preparation that gives him the edge in battle.\""
+    "context": "bros[2].getBackground().m.RawDescription = \"Grizzled vets are a rarity in beast slaying, and %name% sure ain't one. Instead, he's an intelligent man who started his foray into monster hunting by reading books instead of training the sword. Still a good enough warrior at heart, it is his study and preparation that gives him the edge in battle.\""
   }
 ]

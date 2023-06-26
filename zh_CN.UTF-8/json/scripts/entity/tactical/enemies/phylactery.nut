@@ -4,6 +4,7 @@
     "key": "phylactery",
     "original": "phylactery",
     "translation": "phylactery",
-    "stage": -1
+    "stage": -1,
+    "context": "body.setBrush('phylactery')"
   }
 ]

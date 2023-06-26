@@ -4,14 +4,16 @@
     "key": "Gilder's Embrace",
     "original": "Gilder's Embrace",
     "translation": "镀金者的拥抱",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Gilder's Embrace\""
   },
   {
     "ID": 293417749,
     "key": "Carapace of the Desert",
     "original": "Carapace of the Desert",
     "translation": "沙漠的甲壳",
-    "stage": 1
+    "stage": 1,
+    "context": "'Carapace of the Desert'"
   },
   {
     "ID": 293417750,
@@ -26,27 +28,31 @@
     "key": "Master Hunter's Armor",
     "original": "Master Hunter's Armor",
     "translation": "猎人大师的盔甲",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Master Hunter's Armor\""
   },
   {
     "ID": 293417752,
     "key": "Glistening Lamellar",
     "original": "Glistening Lamellar",
     "translation": "闪光札甲",
-    "stage": 5
+    "stage": 5,
+    "context": "'Glistening Lamellar'"
   },
   {
     "ID": 293417753,
     "key": "Vizier's Harness",
     "original": "Vizier's Harness",
     "translation": "维齐尔的甲胄",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Vizier's Harness\""
   },
   {
     "ID": 293417754,
     "key": "Gilder's Guard",
     "original": "Gilder's Guard",
     "translation": "镀金者的守卫",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Gilder's Guard\""
   }
 ]

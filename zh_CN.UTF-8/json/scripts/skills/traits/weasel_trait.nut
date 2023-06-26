@@ -4,28 +4,32 @@
     "key": "the Eel",
     "original": "the Eel",
     "translation": "鳗鱼 (the Eel)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Eel'"
   },
   {
     "ID": 293422773,
     "key": "the Coward",
     "original": "the Coward",
     "translation": "胆小鬼(the Coward)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Coward'"
   },
   {
     "ID": 293422774,
     "key": "the Chicken",
     "original": "the Chicken",
     "translation": "鸡仔(the Chicken)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Chicken'"
   },
   {
     "ID": 293422775,
     "key": "the Weasel",
     "original": "the Weasel",
     "translation": "黄鼠狼",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Weasel'"
   },
   {
     "ID": 293422776,
@@ -33,7 +37,7 @@
     "original": "]+25[/color] Melee Defense while retreating",
     "translation": "]+25[/color] 近战防御，在撤退时",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+25[/color] Melee Defense while retreating'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+25[/color] Melee Defense while retreating'"
   },
   {
     "ID": 293422777,

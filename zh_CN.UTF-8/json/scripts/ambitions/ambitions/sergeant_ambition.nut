@@ -5,7 +5,7 @@
     "original": "You gain ",
     "translation": "你获得了",
     "stage": 5,
-    "context": "'You gain ' + this.Const.Strings.getArticle(item.getName()) + item.getName()"
+    "context": "'text' = 'You gain ' + this.Const.Strings.getArticle(item.getName()) + item.getName()"
   },
   {
     "ID": 293403541,
@@ -44,7 +44,8 @@
     "key": "the Sergeant",
     "original": "the Sergeant",
     "translation": "军士(the Sergeant)",
-    "stage": 5
+    "stage": 5,
+    "context": "bestSergeant.setTitle('the Sergeant')"
   },
   {
     "ID": 293403546,
@@ -68,6 +69,6 @@
     "original": " is now known as ",
     "translation": " 现在被称为 ",
     "stage": 1,
-    "context": "bestSergeant.getNameOnly() + ' is now known as ' + bestSergeant.getName()"
+    "context": "'text' = bestSergeant.getNameOnly() + ' is now known as ' + bestSergeant.getName()"
   }
 ]

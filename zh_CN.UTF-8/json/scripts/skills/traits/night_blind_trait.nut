@@ -13,7 +13,7 @@
     "original": "]-1[/color] Vision during Nighttime",
     "translation": "]-1[/color] 夜间视野",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-1[/color] Vision during Nighttime'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-1[/color] Vision during Nighttime'"
   },
   {
     "ID": 293422608,

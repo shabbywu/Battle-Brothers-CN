@@ -21,6 +21,6 @@
     "original": "Reduces the Resolve of any opponent engaged in melee by [color=",
     "translation": "减少任何近战对手的决心 [color=",
     "stage": 1,
-    "context": "'Reduces the Resolve of any opponent engaged in melee by [color=' + this.Const.UI.Color.NegativeValue + ']-5[/color]'"
+    "context": "'text' = 'Reduces the Resolve of any opponent engaged in melee by [color=' + this.Const.UI.Color.NegativeValue + ']-5[/color]'"
   }
 ]

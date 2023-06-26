@@ -5,7 +5,7 @@
     "original": "]+10[/color] Melee Skill when fighting beasts",
     "translation": "]+10[/color] 近战技能（对抗野兽）",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Melee Skill when fighting beasts'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Melee Skill when fighting beasts'"
   },
   {
     "ID": 293422624,
@@ -13,7 +13,7 @@
     "original": "]+20[/color] Resolve when fighting beasts",
     "translation": "]+20[/color] 决心（对抗野兽）",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+20[/color] Resolve when fighting beasts'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+20[/color] Resolve when fighting beasts'"
   },
   {
     "ID": 293422625,
@@ -21,7 +21,7 @@
     "original": "]-5[/color] Ranged Skill when not fighting beasts",
     "translation": "]-5[/color] 远程技能（对抗非野兽）",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Ranged Skill when not fighting beasts'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Ranged Skill when not fighting beasts'"
   },
   {
     "ID": 293422626,
@@ -29,7 +29,7 @@
     "original": "]-10[/color] Resolve when not fighting beasts",
     "translation": "]-10[/color] 决心（对抗非野兽时）",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve when not fighting beasts'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve when not fighting beasts'"
   },
   {
     "ID": 293422627,
@@ -45,7 +45,7 @@
     "original": "]+10[/color] Ranged Skill when fighting beasts",
     "translation": "]+10[/color] 远程技能（对抗野兽）",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Ranged Skill when fighting beasts'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Ranged Skill when fighting beasts'"
   },
   {
     "ID": 293422629,
@@ -53,7 +53,7 @@
     "original": "]-5[/color] Melee Skill when not fighting beasts",
     "translation": "]-5[/color] 近战技能（对抗非野兽）",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Skill when not fighting beasts'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Skill when not fighting beasts'"
   },
   {
     "ID": 293422630,

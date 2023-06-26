@@ -5,7 +5,7 @@
     "original": "]-35%[/color] Initiative",
     "translation": "]-35%[/color] 主动性",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-35%[/color] Initiative'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-35%[/color] Initiative'"
   },
   {
     "ID": 293421470,
@@ -21,7 +21,7 @@
     "original": "]-35%[/color] Damage",
     "translation": "]-35%[/color] 伤害",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-35%[/color] Damage'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-35%[/color] Damage'"
   },
   {
     "ID": 293421472,
@@ -37,7 +37,7 @@
     "original": " regained his focus thanks to his unnatural physiology",
     "translation": "非自然的生理功能帮助他恢复集中",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(actor) + ' regained his focus thanks to his unnatural physiology'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' regained his focus thanks to his unnatural physiology')"
   },
   {
     "ID": 293421474,

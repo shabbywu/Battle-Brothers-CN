@@ -20,6 +20,7 @@
     "key": "Re-roll every failed morale check for a second chance",
     "original": "Re-roll every failed morale check for a second chance",
     "translation": "每个失败的士气检定都有第二次机会重新掷骰",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Re-roll every failed morale check for a second chance'"
   }
 ]

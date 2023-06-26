@@ -29,7 +29,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] chance to hit'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] chance to hit'"
   },
   {
     "ID": 293420063,
@@ -37,6 +37,6 @@
     "original": "]-10%[/color] chance to hit",
     "translation": "]-10%[/color]命中几率",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] chance to hit'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] chance to hit'"
   }
 ]

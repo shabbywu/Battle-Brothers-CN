@@ -5,7 +5,7 @@
     "original": " uses Raise Undead",
     "translation": "使用了复活亡灵",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses Raise Undead'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' uses Raise Undead')"
   },
   {
     "ID": 293420255,

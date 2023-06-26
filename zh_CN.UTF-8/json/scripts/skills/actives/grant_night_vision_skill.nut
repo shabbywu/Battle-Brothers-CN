@@ -5,7 +5,7 @@
     "original": " casts Grant Night Vision",
     "translation": " 使授予夜间视野",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' casts Grant Night Vision'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' casts Grant Night Vision')"
   },
   {
     "ID": 293420044,

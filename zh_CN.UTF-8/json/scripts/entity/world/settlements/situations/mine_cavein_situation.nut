@@ -4,7 +4,8 @@
     "key": "I'd never work underground, I am no stinkin' mole! It's a damn deathtrap! Not long ago a mine gave in by %settlement%, don't even want to know how many died that day...",
     "original": "I'd never work underground, I am no stinkin' mole! It's a damn deathtrap! Not long ago a mine gave in by %settlement%, don't even want to know how many died that day...",
     "translation": "我从不在地下工作，我不是臭鼹鼠！这是个该死的死亡陷阱！不久前，%settlement% 的一个矿井被毁了，我甚至不想知道那天死了多少人…",
-    "stage": 1
+    "stage": 1,
+    "context": "\"I'd never work underground, I am no stinkin' mole! It's a damn deathtrap! Not long ago a mine gave in by %settlement%, don't even want to know how many died that day...\""
   },
   {
     "ID": 293411786,
@@ -35,7 +36,8 @@
     "key": "Heard there was a cave-in on one of the mines at %settlement%. Just imagine being buried alive deep under rock and earth...",
     "original": "Heard there was a cave-in on one of the mines at %settlement%. Just imagine being buried alive deep under rock and earth...",
     "translation": "听说 %settlement% 的一个矿井发生了塌方。想象一下被活埋在岩石和泥土的深处…",
-    "stage": 1
+    "stage": 1,
+    "context": "'Heard there was a cave-in on one of the mines at %settlement%. Just imagine being buried alive deep under rock and earth...'"
   },
   {
     "ID": 293411790,
@@ -50,6 +52,7 @@
     "key": "A delivery of ores and minerals from the mines of %settlement% was due today, but alas it did not arrive yet. Something must have happened over there.",
     "original": "A delivery of ores and minerals from the mines of %settlement% was due today, but alas it did not arrive yet. Something must have happened over there.",
     "translation": "从 %settlement% 的矿场运来的矿石和矿物预计今天就到了，可惜还没到。那边一定发生了什么事。",
-    "stage": 1
+    "stage": 1,
+    "context": "'A delivery of ores and minerals from the mines of %settlement% was due today, but alas it did not arrive yet. Something must have happened over there.'"
   }
 ]

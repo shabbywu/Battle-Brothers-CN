@@ -20,7 +20,8 @@
     "key": "If you are a godly person you might want to head to %settlement% to burn some incense and say some prayers.",
     "original": "If you are a godly person you might want to head to %settlement% to burn some incense and say some prayers.",
     "translation": "如果你是一个虔诚的人，你可能会想去%settlement%烧香和祈祷。",
-    "stage": 5
+    "stage": 5,
+    "context": "'If you are a godly person you might want to head to %settlement% to burn some incense and say some prayers.'"
   },
   {
     "ID": 293411693,
@@ -35,7 +36,8 @@
     "key": "During this time of the year, the temples in %settlement% smoke like a hovel that's on fire! I wonder where they get all that incense from...",
     "original": "During this time of the year, the temples in %settlement% smoke like a hovel that's on fire! I wonder where they get all that incense from...",
     "translation": "每年的这个时候，%settlement%的神殿就像着火的窝棚一样冒烟！我想知道他们是从哪里弄来的香……",
-    "stage": 5
+    "stage": 5,
+    "context": "\"During this time of the year, the temples in %settlement% smoke like a hovel that's on fire! I wonder where they get all that incense from...\""
   },
   {
     "ID": 293411695,

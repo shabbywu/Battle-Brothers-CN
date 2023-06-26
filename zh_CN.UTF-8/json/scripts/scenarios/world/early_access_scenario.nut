@@ -5,7 +5,7 @@
     "original": "{You saved %name%'s life in a battle against brigands, and he returned the favor in an alley ambush by thieves. Given that common criminals are a few levels beneath brigands, you often joke with him that he is still a little behind on the 'saving each other's asses' debt.}",
     "translation": "{你在与强盗的战斗中救了 %name%的命，而他之后在一场盗贼的埋伏中时报了恩。 考虑到普通罪犯比土匪低几级，你经常和他开玩笑说，他在“互相救屁股”的债务上还有些落后。}",
     "stage": 1,
-    "context": "bros.0.getBackground().m.RawDescription = \"{You saved %name%'s life in a battle against brigands, and he returned the favor in an alley ambush by thieves. Given that common criminals are a few levels beneath brigands, you often joke with him that he is still a little behind on the 'saving each other's asses' debt.}\""
+    "context": "bros[0].getBackground().m.RawDescription = \"{You saved %name%'s life in a battle against brigands, and he returned the favor in an alley ambush by thieves. Given that common criminals are a few levels beneath brigands, you often joke with him that he is still a little behind on the 'saving each other's asses' debt.}\""
   },
   {
     "ID": 293419670,
@@ -13,7 +13,7 @@
     "original": "You crossed paths with %name% a number of times prior to his joining the company. First time you were both simple laborers. The second time you were sellswords. And now is the third go of it with him joining your company. If all goes well, he'll finally stick around this time and you'll both find the riches you seek.",
     "translation": "在他加入战团之前，你曾多次与 %name% 有过交集。 第一次你们都是普通工人。 第二次你们是佣兵。 现在是第三次了，他加入了你的战团。 如果一切顺利的话，他这次会留下来，你们两个都会找到你们想要的财富。",
     "stage": 1,
-    "context": "bros.2.getBackground().m.RawDescription = \"You crossed paths with %name% a number of times prior to his joining the company. First time you were both simple laborers. The second time you were sellswords. And now is the third go of it with him joining your company. If all goes well, he'll finally stick around this time and you'll both find the riches you seek.\""
+    "context": "bros[2].getBackground().m.RawDescription = \"You crossed paths with %name% a number of times prior to his joining the company. First time you were both simple laborers. The second time you were sellswords. And now is the third go of it with him joining your company. If all goes well, he'll finally stick around this time and you'll both find the riches you seek.\""
   },
   {
     "ID": 293419671,
@@ -29,14 +29,15 @@
     "original": "{Whatever is wrong with %name% you hope he never fixes it. A character with a particular taste for battling, whoring, gambling, singing, dogfighting, skirt chasing, weirdly dish washing, vomiting and, of course, drinking, he has always been a gift to have around. He also just happens to be an excellent fighter in his own right.}",
     "translation": "{不管 %name% 出了什么问题，你希望他永远不会解决。 一个特别喜欢打架、嫖娼、赌博、唱歌、斗狗、追裙子、古怪地洗盘子、呕吐，当然还有喝酒的角色，他一直是身边的礼物。 他本身也是一个优秀的战士。}",
     "stage": 1,
-    "context": "bros.1.getBackground().m.RawDescription = '{Whatever is wrong with %name% you hope he never fixes it. A character with a particular taste for battling, whoring, gambling, singing, dogfighting, skirt chasing, weirdly dish washing, vomiting and, of course, drinking, he has always been a gift to have around. He also just happens to be an excellent fighter in his own right.}'"
+    "context": "bros[1].getBackground().m.RawDescription = '{Whatever is wrong with %name% you hope he never fixes it. A character with a particular taste for battling, whoring, gambling, singing, dogfighting, skirt chasing, weirdly dish washing, vomiting and, of course, drinking, he has always been a gift to have around. He also just happens to be an excellent fighter in his own right.}'"
   },
   {
     "ID": 293419673,
     "key": "Joined a mercenary company",
     "original": "Joined a mercenary company",
     "translation": "加入了一个雇佣兵战团",
-    "stage": 5
+    "stage": 5,
+    "context": "bro.improveMood(1.5, 'Joined a mercenary company')"
   },
   {
     "ID": 293419674,

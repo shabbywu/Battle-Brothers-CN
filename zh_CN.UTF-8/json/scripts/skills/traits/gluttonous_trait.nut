@@ -20,6 +20,7 @@
     "key": "the Swine",
     "original": "the Swine",
     "translation": "猪人(the Swine)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Swine'"
   }
 ]

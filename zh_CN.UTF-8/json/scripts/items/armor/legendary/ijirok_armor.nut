@@ -13,7 +13,7 @@
     "original": " points",
     "translation": " 点生命值",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + healthAdded + ' points'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + healthAdded + ' points')"
   },
   {
     "ID": 293417669,
@@ -21,7 +21,7 @@
     "original": "Heals [color=",
     "translation": "穿戴者每回合恢复[color=",
     "stage": 1,
-    "context": "'Heals [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints of the wearer each turn'"
+    "context": "'text' = 'Heals [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints of the wearer each turn'"
   },
   {
     "ID": 293417670,
@@ -29,7 +29,7 @@
     "original": " heals for ",
     "translation": "恢复了 ",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + healthAdded + ' points'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + healthAdded + ' points')"
   },
   {
     "ID": 293417671,
@@ -45,6 +45,6 @@
     "original": "]10[/color] hitpoints of the wearer each turn",
     "translation": "]10[/color] 点生命值",
     "stage": 1,
-    "context": "'Heals [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints of the wearer each turn'"
+    "context": "'text' = 'Heals [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints of the wearer each turn'"
   }
 ]

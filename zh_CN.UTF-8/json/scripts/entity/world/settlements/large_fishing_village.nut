@@ -4,42 +4,48 @@
     "key": "Konigswasser",
     "original": "Konigswasser",
     "translation": "国王之水",
-    "stage": 5
+    "stage": 5,
+    "context": "'Konigswasser'"
   },
   {
     "ID": 293410813,
     "key": "Krakenland",
     "original": "Krakenland",
     "translation": "克拉肯之地",
-    "stage": 1
+    "stage": 1,
+    "context": "'Krakenland'"
   },
   {
     "ID": 293410814,
     "key": "Deichstadt",
     "original": "Deichstadt",
     "translation": "迪克斯塔特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Deichstadt'"
   },
   {
     "ID": 293410815,
     "key": "Nieweland",
     "original": "Nieweland",
     "translation": "尼伟兰德",
-    "stage": 1
+    "stage": 1,
+    "context": "'Nieweland'"
   },
   {
     "ID": 293410816,
     "key": "Konigshaven",
     "original": "Konigshaven",
     "translation": "孔尼克斯哈芬",
-    "stage": 1
+    "stage": 1,
+    "context": "'Konigshaven'"
   },
   {
     "ID": 293410817,
     "key": "Blankenstadt",
     "original": "Blankenstadt",
     "translation": "布兰肯斯塔特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Blankenstadt'"
   },
   {
     "ID": 293410818,
@@ -54,63 +60,72 @@
     "key": "Steinkai",
     "original": "Steinkai",
     "translation": "斯坦凯",
-    "stage": 1
+    "stage": 1,
+    "context": "'Steinkai'"
   },
   {
     "ID": 293410820,
     "key": "Konigsmunde",
     "original": "Konigsmunde",
     "translation": "昆恩斯蒙德",
-    "stage": 1
+    "stage": 1,
+    "context": "'Konigsmunde'"
   },
   {
     "ID": 293410821,
     "key": "Kobmanhaven",
     "original": "Kobmanhaven",
     "translation": "科布曼港",
-    "stage": 5
+    "stage": 5,
+    "context": "'Kobmanhaven'"
   },
   {
     "ID": 293410822,
     "key": "Wikstadt",
     "original": "Wikstadt",
     "translation": "维克斯塔特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Wikstadt'"
   },
   {
     "ID": 293410823,
     "key": "Weissenstadt",
     "original": "Weissenstadt",
     "translation": "魏森施塔特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Weissenstadt'"
   },
   {
     "ID": 293410824,
     "key": "Kronenkoog",
     "original": "Kronenkoog",
     "translation": "克罗能科格",
-    "stage": 1
+    "stage": 1,
+    "context": "'Kronenkoog'"
   },
   {
     "ID": 293410825,
     "key": "Harkenstadt",
     "original": "Harkenstadt",
     "translation": "哈肯斯塔特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Harkenstadt'"
   },
   {
     "ID": 293410826,
     "key": "Seestadt",
     "original": "Seestadt",
     "translation": "海城市",
-    "stage": 1
+    "stage": 1,
+    "context": "'Seestadt'"
   },
   {
     "ID": 293410827,
     "key": "Grotenhaven",
     "original": "Grotenhaven",
     "translation": "格罗滕黑文",
-    "stage": 1
+    "stage": 1,
+    "context": "'Grotenhaven'"
   },
   {
     "ID": 293410828,
@@ -125,28 +140,32 @@
     "key": "Tiefenstadt",
     "original": "Tiefenstadt",
     "translation": "蒂芬斯塔特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Tiefenstadt'"
   },
   {
     "ID": 293410830,
     "key": "Grafenhaven",
     "original": "Grafenhaven",
     "translation": "格拉芬黑文",
-    "stage": 1
+    "stage": 1,
+    "context": "'Grafenhaven'"
   },
   {
     "ID": 293410831,
     "key": "Kampstadt",
     "original": "Kampstadt",
     "translation": "坎普斯塔特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Kampstadt'"
   },
   {
     "ID": 293410832,
     "key": "Holnisland",
     "original": "Holnisland",
     "translation": "霍尔尼斯城",
-    "stage": 5
+    "stage": 5,
+    "context": "'Holnisland'"
   },
   {
     "ID": 293410833,

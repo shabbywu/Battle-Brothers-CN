@@ -5,7 +5,7 @@
     "original": " is unaffected by the cold thanks to his unnatural physiology",
     "translation": "拥有非自然的生理结构，因此不受寒冷影响。",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' is unaffected by the cold thanks to his unnatural physiology'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' is unaffected by the cold thanks to his unnatural physiology')"
   },
   {
     "ID": 293421444,
@@ -13,7 +13,7 @@
     "original": "[/color] Initiative",
     "translation": "[/color] 主动性",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-' + 10 + 20 * this.m.TurnsLeft + '[/color] Initiative'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 10 + 20 * this.m.TurnsLeft + '[/color] Initiative'"
   },
   {
     "ID": 293421445,
@@ -37,7 +37,7 @@
     "original": "[/color] Action Points",
     "translation": "[/color] 行动点",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-' + 1 + this.m.TurnsLeft + '[/color] Action Points'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + 1 + this.m.TurnsLeft + '[/color] Action Points'"
   },
   {
     "ID": 293421448,

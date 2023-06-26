@@ -5,7 +5,7 @@
     "original": " has disarmed ",
     "translation": "缴械了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has disarmed ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has disarmed ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn')"
   },
   {
     "ID": 293419937,
@@ -13,7 +13,7 @@
     "original": "[/color] tiles",
     "translation": "[/color] 格",
     "stage": 5,
-    "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']3' + '[/color] tiles'"
+    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']3' + '[/color] tiles'"
   },
   {
     "ID": 293419938,
@@ -21,7 +21,7 @@
     "original": "%[/color] chance to hit",
     "translation": "%[/color] 命中几率",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.HitChanceBonus + '%[/color] chance to hit'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.HitChanceBonus + '%[/color] chance to hit'"
   },
   {
     "ID": 293419939,
@@ -29,7 +29,7 @@
     "original": "]100%[/color] chance to disarm on a hit",
     "translation": "]100%[/color] 几率在击中时造成缴械",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to disarm on a hit'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to disarm on a hit'"
   },
   {
     "ID": 293419940,
@@ -45,7 +45,7 @@
     "original": " for one turn",
     "translation": "持续 1 回合",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has disarmed ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has disarmed ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn')"
   },
   {
     "ID": 293419942,
@@ -61,7 +61,7 @@
     "original": "Has a range of [color=",
     "translation": "攻击范围为 [color=",
     "stage": 5,
-    "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']3' + '[/color] tiles'"
+    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']3' + '[/color] tiles'"
   },
   {
     "ID": 293419944,
@@ -69,7 +69,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.HitChanceBonus + '%[/color] chance to hit'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.HitChanceBonus + '%[/color] chance to hit'"
   },
   {
     "ID": 293419945,
@@ -77,6 +77,6 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to disarm on a hit'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to disarm on a hit'"
   }
 ]

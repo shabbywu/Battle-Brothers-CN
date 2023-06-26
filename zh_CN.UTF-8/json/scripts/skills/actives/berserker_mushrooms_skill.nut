@@ -5,7 +5,7 @@
     "original": "Grants [color=",
     "translation": "赋予[color=",
     "stage": 5,
-    "context": "'Grants [color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Melee Defense'"
+    "context": "'text' = 'Grants [color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Ranged Defense'"
   },
   {
     "ID": 293419821,
@@ -13,7 +13,7 @@
     "original": "]-40%[/color] Ranged Defense",
     "translation": "]-40%[/color]远程防御",
     "stage": 5,
-    "context": "'Grants [color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Ranged Defense'"
+    "context": "'text' = 'Grants [color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Ranged Defense'"
   },
   {
     "ID": 293419822,
@@ -21,7 +21,7 @@
     "original": "]+40%[/color] Damage in Melee",
     "translation": "]+40%[/color]近战伤害",
     "stage": 5,
-    "context": "'Grants [color=' + this.Const.UI.Color.PositiveValue + ']+40%[/color] Damage in Melee'"
+    "context": "'text' = 'Grants [color=' + this.Const.UI.Color.PositiveValue + ']+40%[/color] Damage in Melee'"
   },
   {
     "ID": 293419823,
@@ -29,7 +29,7 @@
     "original": "]-40%[/color] Melee Defense",
     "translation": "]-40%[/color]近战防御",
     "stage": 5,
-    "context": "'Grants [color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Melee Defense'"
+    "context": "'text' = 'Grants [color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Melee Defense'"
   },
   {
     "ID": 293419824,
@@ -45,14 +45,15 @@
     "original": "]Can not be used because this character is engaged in melee[/color]",
     "translation": "]无法使用，因为此角色已卷入近战[/color]",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   },
   {
     "ID": 293419826,
     "key": "No morale check triggered upon losing hitpoints",
     "original": "No morale check triggered upon losing hitpoints",
     "translation": "失去生命值时不会触发士气检查",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'No morale check triggered upon losing hitpoints'"
   },
   {
     "ID": 293419827,
@@ -60,7 +61,7 @@
     "original": " gives Strange Mushrooms to ",
     "translation": " 把奇怪的蘑菇给",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' gives Strange Mushrooms to ' + this.Const.UI.getColorizedEntityName(user)"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' gives Strange Mushrooms to ' + this.Const.UI.getColorizedEntityName(user))"
   },
   {
     "ID": 293419828,
@@ -68,7 +69,7 @@
     "original": " eats  Strange Mushrooms",
     "translation": " 吃了奇怪的蘑菇",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(user) + ' eats  Strange Mushrooms'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(user) + ' eats  Strange Mushrooms')"
   },
   {
     "ID": 293419829,

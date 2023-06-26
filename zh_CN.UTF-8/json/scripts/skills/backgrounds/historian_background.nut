@@ -36,21 +36,24 @@
     "key": "the Studious",
     "original": "the Studious",
     "translation": "好学者(the Studious)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Studious'"
   },
   {
     "ID": 293421022,
     "key": "the Owl",
     "original": "the Owl",
     "translation": "猫头鹰(the Owl)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Owl'"
   },
   {
     "ID": 293421023,
     "key": "the Historian",
     "original": "the Historian",
     "translation": "历史学家(the Historian)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Historian'"
   },
   {
     "ID": 293421024,
@@ -66,6 +69,6 @@
     "original": "]+15%[/color] Experience Gain",
     "translation": "]+15%[/color] 经验获取",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+15%[/color] Experience Gain'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+15%[/color] Experience Gain'"
   }
 ]

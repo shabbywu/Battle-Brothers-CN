@@ -12,7 +12,8 @@
     "key": "Grants immunity to being rooted by nets or grasping vines",
     "original": "Grants immunity to being rooted by nets or grasping vines",
     "translation": "授予免疫定身或蔓藤",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Grants immunity to being rooted by nets or grasping vines'"
   },
   {
     "ID": 293417451,

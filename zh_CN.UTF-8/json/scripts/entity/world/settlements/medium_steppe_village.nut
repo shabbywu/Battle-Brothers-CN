@@ -4,91 +4,104 @@
     "key": "Sudheim",
     "original": "Sudheim",
     "translation": "苏德海姆",
-    "stage": 1
+    "stage": 1,
+    "context": "'Sudheim'"
   },
   {
     "ID": 293411476,
     "key": "Sandfels",
     "original": "Sandfels",
     "translation": "桑德菲尔兹",
-    "stage": 1
+    "stage": 1,
+    "context": "'Sandfels'"
   },
   {
     "ID": 293411477,
     "key": "Thurn",
     "original": "Thurn",
     "translation": "瑟恩",
-    "stage": 1
+    "stage": 1,
+    "context": "'Thurn'"
   },
   {
     "ID": 293411478,
     "key": "Tentlingen",
     "original": "Tentlingen",
     "translation": "坦特林根",
-    "stage": 1
+    "stage": 1,
+    "context": "'Tentlingen'"
   },
   {
     "ID": 293411479,
     "key": "Attendorn",
     "original": "Attendorn",
     "translation": "阿滕多恩",
-    "stage": 1
+    "stage": 1,
+    "context": "'Attendorn'"
   },
   {
     "ID": 293411480,
     "key": "Sonnheim",
     "original": "Sonnheim",
     "translation": "松海姆",
-    "stage": 1
+    "stage": 1,
+    "context": "'Sonnheim'"
   },
   {
     "ID": 293411481,
     "key": "Wohlen",
     "original": "Wohlen",
     "translation": "沃伦",
-    "stage": 1
+    "stage": 1,
+    "context": "'Wohlen'"
   },
   {
     "ID": 293411482,
     "key": "Dornheim",
     "original": "Dornheim",
     "translation": "多恩海姆",
-    "stage": 1
+    "stage": 1,
+    "context": "'Dornheim'"
   },
   {
     "ID": 293411483,
     "key": "Thunstetten",
     "original": "Thunstetten",
     "translation": "图恩斯泰滕",
-    "stage": 1
+    "stage": 1,
+    "context": "'Thunstetten'"
   },
   {
     "ID": 293411484,
     "key": "Treiten",
     "original": "Treiten",
     "translation": "特莱滕",
-    "stage": 5
+    "stage": 5,
+    "context": "'Treiten'"
   },
   {
     "ID": 293411485,
     "key": "Kargau",
     "original": "Kargau",
     "translation": "卡高",
-    "stage": 1
+    "stage": 1,
+    "context": "'Kargau'"
   },
   {
     "ID": 293411486,
     "key": "Himmelsdorf",
     "original": "Himmelsdorf",
     "translation": "天空村",
-    "stage": 5
+    "stage": 5,
+    "context": "'Himmelsdorf'"
   },
   {
     "ID": 293411487,
     "key": "Dornthal",
     "original": "Dornthal",
     "translation": "多恩塞尔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Dornthal'"
   },
   {
     "ID": 293411488,
@@ -103,56 +116,64 @@
     "key": "Rothenbach",
     "original": "Rothenbach",
     "translation": "罗森巴赫",
-    "stage": 1
+    "stage": 1,
+    "context": "'Rothenbach'"
   },
   {
     "ID": 293411490,
     "key": "Dornen",
     "original": "Dornen",
     "translation": "多尔宁",
-    "stage": 1
+    "stage": 1,
+    "context": "'Dornen'"
   },
   {
     "ID": 293411491,
     "key": "Siegau",
     "original": "Siegau",
     "translation": "锡高",
-    "stage": 1
+    "stage": 1,
+    "context": "'Siegau'"
   },
   {
     "ID": 293411492,
     "key": "Brunnenthal",
     "original": "Brunnenthal",
     "translation": "布伦内塔尔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Brunnenthal'"
   },
   {
     "ID": 293411493,
     "key": "Erlach",
     "original": "Erlach",
     "translation": "尔拉赫",
-    "stage": 1
+    "stage": 1,
+    "context": "'Erlach'"
   },
   {
     "ID": 293411494,
     "key": "Krauchdorf",
     "original": "Krauchdorf",
     "translation": "克劳希多夫",
-    "stage": 1
+    "stage": 1,
+    "context": "'Krauchdorf'"
   },
   {
     "ID": 293411495,
     "key": "Subingen",
     "original": "Subingen",
     "translation": "苏宾根",
-    "stage": 1
+    "stage": 1,
+    "context": "'Subingen'"
   },
   {
     "ID": 293411496,
     "key": "Krauchthal",
     "original": "Krauchthal",
     "translation": "克劳赫塔尔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Krauchthal'"
   },
   {
     "ID": 293411497,
@@ -167,34 +188,39 @@
     "key": "Strauchdorf",
     "original": "Strauchdorf",
     "translation": "斯特劳赫多夫",
-    "stage": 1
+    "stage": 1,
+    "context": "'Strauchdorf'"
   },
   {
     "ID": 293411499,
     "key": "Sonstedt",
     "original": "Sonstedt",
     "translation": "松斯特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Sonstedt'"
   },
   {
     "ID": 293411500,
     "key": "Sonnfels",
     "original": "Sonnfels",
     "translation": "松费尔斯",
-    "stage": 1
+    "stage": 1,
+    "context": "'Sonnfels'"
   },
   {
     "ID": 293411501,
     "key": "Sandheim",
     "original": "Sandheim",
     "translation": "桑德海姆",
-    "stage": 1
+    "stage": 1,
+    "context": "'Sandheim'"
   },
   {
     "ID": 293411502,
     "key": "Strohdorf",
     "original": "Strohdorf",
     "translation": "斯特罗多夫",
-    "stage": 1
+    "stage": 1,
+    "context": "'Strohdorf'"
   }
 ]

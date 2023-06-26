@@ -5,7 +5,7 @@
     "original": "'s ",
     "translation": "的",
     "stage": 5,
-    "context": "return this.getRandomCharacterName(this.Const.Strings.NomadChampionStandalone) + \"'s \" + this.m.NameList.this.Math.rand(0, this.m.NameList.len() - 1);"
+    "context": "return this.getRandomCharacterName(this.Const.Strings.NomadChampionStandalone) + \"'s \" + this.m.NameList[this.Math.rand(0, this.m.NameList.len() - 1)];"
   },
   {
     "ID": 293419282,
@@ -29,6 +29,6 @@
     "original": "]Must be reloaded before firing again[/color]",
     "translation": "]必须重新装填才能再次发射[/color]",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Must be reloaded before firing again[/color]'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Must be reloaded before firing again[/color]'"
   }
 ]

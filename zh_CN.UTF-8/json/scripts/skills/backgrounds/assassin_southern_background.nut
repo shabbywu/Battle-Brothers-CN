@@ -4,14 +4,16 @@
     "key": "the Backstabber",
     "original": "the Backstabber",
     "translation": "背刺者(the Backstabber)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Backstabber'"
   },
   {
     "ID": 293420782,
     "key": "the Elusive",
     "original": "the Elusive",
     "translation": "难以捉摸者(the Elusive)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Elusive'"
   },
   {
     "ID": 293420783,
@@ -34,21 +36,24 @@
     "key": "the Murderer",
     "original": "the Murderer",
     "translation": "凶手(the Murderer)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Murderer'"
   },
   {
     "ID": 293420786,
     "key": "the Shadow",
     "original": "the Shadow",
     "translation": "影子(the Shadow)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Shadow'"
   },
   {
     "ID": 293420787,
     "key": "the Assassin",
     "original": "the Assassin",
     "translation": "刺客(the Assassin)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Assassin'"
   },
   {
     "ID": 293420788,
@@ -63,21 +68,24 @@
     "key": "the Unseen",
     "original": "the Unseen",
     "translation": "无形者(the Unseen)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Unseen'"
   },
   {
     "ID": 293420790,
     "key": "the Insidious",
     "original": "the Insidious",
     "translation": "潜伏者(the Insidious)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Insidious'"
   },
   {
     "ID": 293420791,
     "key": "the Dagger",
     "original": "the Dagger",
     "translation": "匕首(the Dagger)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Dagger'"
   },
   {
     "ID": 293420792,

@@ -12,7 +12,8 @@
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421807,
@@ -28,6 +29,6 @@
     "original": "The threshold to sustain injuries on getting hit is increased by [color=",
     "translation": "被命中时遭受伤残的伤害阈值提高 [color=",
     "stage": 5,
-    "context": "'The threshold to sustain injuries on getting hit is increased by [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color]'"
+    "context": "'text' = 'The threshold to sustain injuries on getting hit is increased by [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color]'"
   }
 ]

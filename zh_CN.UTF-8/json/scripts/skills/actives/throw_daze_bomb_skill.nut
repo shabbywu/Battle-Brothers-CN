@@ -5,7 +5,7 @@
     "original": "]7[/color] targets the Dazed status effect for 2 turns",
     "translation": "]7[/color] 目标：晕眩状态2回合",
     "stage": 1,
-    "context": "'Give up to [color=' + this.Const.UI.Color.DamageValue + ']7[/color] targets the Dazed status effect for 2 turns'"
+    "context": "'text' = 'Give up to [color=' + this.Const.UI.Color.DamageValue + ']7[/color] targets the Dazed status effect for 2 turns'"
   },
   {
     "ID": 293420610,
@@ -21,7 +21,7 @@
     "original": "Give up to [color=",
     "translation": "放弃至[color=",
     "stage": 1,
-    "context": "'Give up to [color=' + this.Const.UI.Color.DamageValue + ']7[/color] targets the Dazed status effect for 2 turns'"
+    "context": "'text' = 'Give up to [color=' + this.Const.UI.Color.DamageValue + ']7[/color] targets the Dazed status effect for 2 turns'"
   },
   {
     "ID": 293420612,

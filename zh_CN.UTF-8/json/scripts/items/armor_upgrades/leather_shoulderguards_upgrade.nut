@@ -29,6 +29,6 @@
     "original": "]+10[/color] Durability",
     "translation": "]+10[/color] 耐久度",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Durability'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Durability'"
   }
 ]

@@ -4,7 +4,8 @@
     "key": "the Sturdy",
     "original": "the Sturdy",
     "translation": "结实者(the Sturdy)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Sturdy'"
   },
   {
     "ID": 293421075,
@@ -35,14 +36,16 @@
     "key": "the Woodsman",
     "original": "the Woodsman",
     "translation": "伐木工(the Woodsman)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Woodsman'"
   },
   {
     "ID": 293421079,
     "key": "the Axe",
     "original": "the Axe",
     "translation": "砍斧(the Axe)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Axe'"
   },
   {
     "ID": 293421080,

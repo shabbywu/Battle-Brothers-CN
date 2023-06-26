@@ -5,7 +5,7 @@
     "original": " is horrified",
     "translation": " 惊骇",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(target) + ' is horrified'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(target) + ' is horrified')"
   },
   {
     "ID": 293420084,

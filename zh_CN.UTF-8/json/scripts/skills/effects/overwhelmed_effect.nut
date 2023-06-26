@@ -13,7 +13,7 @@
     "original": "%[/color] Ranged Skill",
     "translation": "%[/color] 远程技能",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-' + this.m.Count * 10 + '%[/color] Ranged Skill'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + this.m.Count * 10 + '%[/color] Ranged Skill'"
   },
   {
     "ID": 293421668,
@@ -29,7 +29,7 @@
     "original": "%[/color] Melee Skill",
     "translation": "%[/color] 近战技能",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-' + this.m.Count * 10 + '%[/color] Melee Skill'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-' + this.m.Count * 10 + '%[/color] Melee Skill'"
   },
   {
     "ID": 293421670,
@@ -37,7 +37,7 @@
     "original": " resists being overwhelmed thanks to his unnatural physiology",
     "translation": "非自然的生理功能帮助他抵抗了压制",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' resists being overwhelmed thanks to his unnatural physiology'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' resists being overwhelmed thanks to his unnatural physiology')"
   },
   {
     "ID": 293421671,

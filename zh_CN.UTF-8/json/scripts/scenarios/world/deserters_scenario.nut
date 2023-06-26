@@ -4,7 +4,8 @@
     "key": "Deserted from the army",
     "original": "Deserted from the army",
     "translation": "被军队遗弃",
-    "stage": 1
+    "stage": 1,
+    "context": "_bro.improveMood(1.5, 'Deserted from the army')"
   },
   {
     "ID": 293419661,
@@ -28,7 +29,7 @@
     "original": "{Prior to his conscription into the army, %name% was a failed, illiterate baker. His poor work and frequent dessert errors made him prone to being pulled into military ranks. Having always hated the life, the deserter was quick to join your cause and company.}",
     "translation": "{在被征召入伍之前，%name% 是一个失败的、不识字的面包师。 他糟糕的工作和经常在甜点上犯的错误使他很容易被拉进军队。 这个逃兵一向讨厌这种生活，所以很快就加入了你的事业和战团。}",
     "stage": 1,
-    "context": "bros.0.getBackground().m.RawDescription = '{Prior to his conscription into the army, %name% was a failed, illiterate baker. His poor work and frequent dessert errors made him prone to being pulled into military ranks. Having always hated the life, the deserter was quick to join your cause and company.}'"
+    "context": "bros[0].getBackground().m.RawDescription = '{Prior to his conscription into the army, %name% was a failed, illiterate baker. His poor work and frequent dessert errors made him prone to being pulled into military ranks. Having always hated the life, the deserter was quick to join your cause and company.}'"
   },
   {
     "ID": 293419664,
@@ -36,21 +37,23 @@
     "original": "{%name% is like many deserters. You can see the spirit of a fighter in him, but the heart for it is withering. It doesn't make him a coward, as many assume deserters to be, but instead simply a man who may need change. Hopefully the coin of mercenary work can provide it.}",
     "translation": "{%name% 就像很多逃兵一样。 你可以在他身上看到斗士的精神，但他的内心却在萎缩。 这并没有使他成为一个懦夫，就像许多人认为的逃兵那样，而只是一个可能需要改变的人。 希望佣兵工作的硬币能提供它。}",
     "stage": 1,
-    "context": "bros.2.getBackground().m.RawDescription = \"{%name% is like many deserters. You can see the spirit of a fighter in him, but the heart for it is withering. It doesn't make him a coward, as many assume deserters to be, but instead simply a man who may need change. Hopefully the coin of mercenary work can provide it.}\""
+    "context": "bros[2].getBackground().m.RawDescription = \"{%name% is like many deserters. You can see the spirit of a fighter in him, but the heart for it is withering. It doesn't make him a coward, as many assume deserters to be, but instead simply a man who may need change. Hopefully the coin of mercenary work can provide it.}\""
   },
   {
     "ID": 293419665,
     "key": "Always acts first in the very first round of combat",
     "original": "Always acts first in the very first round of combat",
     "translation": "在战斗的第一轮中总是先行动",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Always acts first in the very first round of combat'"
   },
   {
     "ID": 293419666,
     "key": "Was dragged from one bloody battle to the next",
     "original": "Was dragged from one bloody battle to the next",
     "translation": "从一场血战拖到下一场",
-    "stage": 1
+    "stage": 1,
+    "context": "_bro.worsenMood(1.0, 'Was dragged from one bloody battle to the next')"
   },
   {
     "ID": 293419667,
@@ -58,13 +61,14 @@
     "original": "{A fine fighter by any judgment, %name% simply hated the low pay of being a soldier in the army. His pursuit of the sellsword's life makes sense. Though he is quite flighty, you believe his transient sense of allegiance will be buffered by a steady flow of good coin.}",
     "translation": "{从任何角度看，%name% 都是一个优秀的战士，但他只是讨厌在军队里当兵的薪水太低。 他对佣兵生命的追求是有道理的。 虽然他很轻浮，但你相信他短暂的忠诚感会被源源不断的好硬币所缓冲。}",
     "stage": 1,
-    "context": "bros.1.getBackground().m.RawDescription = \"{A fine fighter by any judgment, %name% simply hated the low pay of being a soldier in the army. His pursuit of the sellsword's life makes sense. Though he is quite flighty, you believe his transient sense of allegiance will be buffered by a steady flow of good coin.}\""
+    "context": "bros[1].getBackground().m.RawDescription = \"{A fine fighter by any judgment, %name% simply hated the low pay of being a soldier in the army. His pursuit of the sellsword's life makes sense. Though he is quite flighty, you believe his transient sense of allegiance will be buffered by a steady flow of good coin.}\""
   },
   {
     "ID": 293419668,
     "key": "You and your men deserted",
     "original": "You and your men deserted",
     "translation": "你和你的人都被遗弃了",
-    "stage": 1
+    "stage": 1,
+    "context": "f.addPlayerRelation(-100.0, 'You and your men deserted')"
   }
 ]

@@ -12,6 +12,7 @@
     "key": "Warhound",
     "original": "Warhound",
     "translation": "战犬",
-    "stage": 1
+    "stage": 1,
+    "context": "'Name' = 'Warhound'"
   }
 ]

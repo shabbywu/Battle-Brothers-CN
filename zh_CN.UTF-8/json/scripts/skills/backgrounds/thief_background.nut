@@ -12,49 +12,56 @@
     "key": "the Snake",
     "original": "the Snake",
     "translation": "蛇(the Snake)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Snake'"
   },
   {
     "ID": 293421346,
     "key": "the Burglar",
     "original": "the Burglar",
     "translation": "恶贼(the Burglar)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Burglar'"
   },
   {
     "ID": 293421347,
     "key": "the Snatcher",
     "original": "the Snatcher",
     "translation": "抢掠者(the Snatcher)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Snatcher'"
   },
   {
     "ID": 293421348,
     "key": "the Raven",
     "original": "the Raven",
     "translation": "乌鸦(the Raven)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Raven'"
   },
   {
     "ID": 293421349,
     "key": "the Thief",
     "original": "the Thief",
     "translation": "盗贼(the Thief)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Thief'"
   },
   {
     "ID": 293421350,
     "key": "the Black Cat",
     "original": "the Black Cat",
     "translation": "黑猫(the Black Cat)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Black Cat'"
   },
   {
     "ID": 293421351,
     "key": "Quickfingers",
     "original": "Quickfingers",
     "translation": "快指(Quickfingers)",
-    "stage": 5
+    "stage": 5,
+    "context": "'Quickfingers'"
   },
   {
     "ID": 293421352,
@@ -69,14 +76,16 @@
     "key": "the Shadow",
     "original": "the Shadow",
     "translation": "影子(the Shadow)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Shadow'"
   },
   {
     "ID": 293421354,
     "key": "the Prince",
     "original": "the Prince",
     "translation": "王子(the Prince)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Prince'"
   },
   {
     "ID": 293421355,
@@ -91,7 +100,8 @@
     "key": "the Cutpurse",
     "original": "the Cutpurse",
     "translation": "掏包儿(the Cutpurse)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Cutpurse'"
   },
   {
     "ID": 293421357,

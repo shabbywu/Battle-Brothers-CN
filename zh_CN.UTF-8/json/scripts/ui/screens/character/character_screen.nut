@@ -21,7 +21,7 @@
     "original": " get reparations for his time",
     "translation": "得到了为他花费时间的赔偿",
     "stage": 1,
-    "context": "'Glad to see ' + bro.getName() + ' get reparations for his time'"
+    "context": "other.improveMood(this.Const.MoodChange.SlaveCompensated, 'Glad to see ' + bro.getName() + ' get reparations for his time')"
   },
   {
     "ID": 293422917,
@@ -53,7 +53,7 @@
     "original": "Glad to see ",
     "translation": "高兴见到你",
     "stage": 1,
-    "context": "'Glad to see ' + bro.getName() + ' get reparations for his time'"
+    "context": "other.improveMood(this.Const.MoodChange.SlaveCompensated, 'Glad to see ' + bro.getName() + ' get reparations for his time')"
   },
   {
     "ID": 293422921,
@@ -220,7 +220,8 @@
     "key": "battle-preparation",
     "original": "battle-preparation",
     "translation": "战斗准备",
-    "stage": 1
+    "stage": 1,
+    "context": "this.m.JSDataSourceHandle.asyncCall('setInventoryMode', 'battle-preparation')"
   },
   {
     "ID": 293422942,
@@ -228,6 +229,6 @@
     "original": "Dismissed ",
     "translation": "解雇",
     "stage": 1,
-    "context": "'Dismissed ' + bro.getName()"
+    "context": "other.worsenMood(this.Const.MoodChange.BrotherDismissed, 'Dismissed ' + bro.getName())"
   }
 ]

@@ -20,7 +20,8 @@
     "key": "the Veteran",
     "original": "the Veteran",
     "translation": "老兵(the Veteran)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Veteran'"
   },
   {
     "ID": 293421246,
@@ -35,7 +36,8 @@
     "key": "the Old",
     "original": "the Old",
     "translation": "老人(the Old)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Old'"
   },
   {
     "ID": 293421248,
@@ -50,14 +52,16 @@
     "key": "the Sergeant",
     "original": "the Sergeant",
     "translation": "军士(the Sergeant)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Sergeant'"
   },
   {
     "ID": 293421250,
     "key": "the Oldguard",
     "original": "the Oldguard",
     "translation": "老卫兵(the Oldguard)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Oldguard'"
   },
   {
     "ID": 293421251,
@@ -72,6 +76,7 @@
     "key": "the Soldier",
     "original": "the Soldier",
     "translation": "士兵(the Soldier)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Soldier'"
   }
 ]

@@ -12,7 +12,8 @@
     "key": "Makes you see the position of some caravans at all times and even if outside your sight radius",
     "original": "Makes you see the position of some caravans at all times and even if outside your sight radius",
     "translation": "使你能随时看到一些商队的位置，即使在你的视野之外",
-    "stage": 1
+    "stage": 1,
+    "context": "'Makes you see the position of some caravans at all times and even if outside your sight radius'"
   },
   {
     "ID": 293419564,
@@ -28,7 +29,7 @@
     "original": "/4 caravans",
     "translation": "/4 贸易队",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Raided ' + this.Math.min(4, this.World.Statistics.getFlags().getAsInt('CaravansRaided')) + '/4 caravans'"
+    "context": "this.m.Requirements[0].Text = 'Raided ' + this.Math.min(4, this.World.Statistics.getFlags().getAsInt('CaravansRaided')) + '/4 caravans'"
   },
   {
     "ID": 293419566,
@@ -36,6 +37,6 @@
     "original": "Raided ",
     "translation": "袭击 (Raided)",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Raided ' + this.Math.min(4, this.World.Statistics.getFlags().getAsInt('CaravansRaided')) + '/4 caravans'"
+    "context": "this.m.Requirements[0].Text = 'Raided ' + this.Math.min(4, this.World.Statistics.getFlags().getAsInt('CaravansRaided')) + '/4 caravans'"
   }
 ]

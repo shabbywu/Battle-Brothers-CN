@@ -28,7 +28,8 @@
     "key": "You gain additional renown for having a famed item",
     "original": "You gain additional renown for having a famed item",
     "translation": "你因拥有一件著名的物品而获得额外的名望",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'You gain additional renown for having a famed item'"
   },
   {
     "ID": 293403503,

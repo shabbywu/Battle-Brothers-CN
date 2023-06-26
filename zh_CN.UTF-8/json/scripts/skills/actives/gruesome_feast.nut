@@ -5,7 +5,7 @@
     "original": " feasts on a corpse",
     "translation": "享用了尸体",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' feasts on a corpse'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' feasts on a corpse')"
   },
   {
     "ID": 293420047,

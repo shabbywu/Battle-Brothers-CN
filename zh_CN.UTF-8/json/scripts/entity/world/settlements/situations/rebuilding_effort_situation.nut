@@ -12,7 +12,8 @@
     "key": "Finally they're starting to rebuild around %settlement%. That place was in ruins for long enough.",
     "original": "Finally they're starting to rebuild around %settlement%. That place was in ruins for long enough.",
     "translation": "他们终于开始在 %settlement% 周围重建了。那地方早就成了废墟。",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Finally they're starting to rebuild around %settlement%. That place was in ruins for long enough.\""
   },
   {
     "ID": 293411841,
@@ -27,7 +28,8 @@
     "key": "I heard they're bringing in wood to %settlement% with wagons now. The new Burgomeister is surely trying to fix things up over there.",
     "original": "I heard they're bringing in wood to %settlement% with wagons now. The new Burgomeister is surely trying to fix things up over there.",
     "translation": "我听说他们正在用载重货车把木头运到 %settlement%。新来的市长肯定是想把那边的事情搞定。",
-    "stage": 1
+    "stage": 1,
+    "context": "\"I heard they're bringing in wood to %settlement% with wagons now. The new Burgomeister is surely trying to fix things up over there.\""
   },
   {
     "ID": 293411843,

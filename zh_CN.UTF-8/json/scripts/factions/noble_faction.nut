@@ -4,7 +4,8 @@
     "key": "Changed sides in the war",
     "original": "Changed sides in the war",
     "translation": "在战争中改变了立场",
-    "stage": 1
+    "stage": 1,
+    "context": "civilian.addPlayerRelationEx(30.0 - civilian.getPlayerRelation(), 'Changed sides in the war')"
   },
   {
     "ID": 293417414,
@@ -12,7 +13,7 @@
     "original": "von ",
     "translation": "冯·",
     "stage": 5,
-    "context": "'von ' + this.m.Name"
+    "context": "character.setTitle('von ' + this.m.Name)"
   },
   {
     "ID": 293417415,

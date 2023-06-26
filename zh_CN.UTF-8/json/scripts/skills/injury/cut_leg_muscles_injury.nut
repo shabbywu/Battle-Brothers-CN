@@ -21,7 +21,7 @@
     "original": "]-40%[/color] Initiative",
     "translation": "]-40%[/color] 主动性",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Initiative'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Initiative'"
   },
   {
     "ID": 293421920,
@@ -29,6 +29,6 @@
     "original": "]-40%[/color] Melee Defense",
     "translation": "]-40%[/color] 近战防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Melee Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Melee Defense'"
   }
 ]

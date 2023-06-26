@@ -5,7 +5,7 @@
     "original": "]2[/color] Additional Action Point per tile moved",
     "translation": "]2[/color] 额外的行动点，在每移动一格时消耗增加",
     "stage": 2,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']2[/color] Additional Action Point per tile moved'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']2[/color] Additional Action Point per tile moved'"
   },
   {
     "ID": 293421901,
@@ -13,7 +13,7 @@
     "original": "]-30%[/color] Initiative",
     "translation": "]-30%[/color] 主动性",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-30%[/color] Initiative'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-30%[/color] Initiative'"
   },
   {
     "ID": 293421902,

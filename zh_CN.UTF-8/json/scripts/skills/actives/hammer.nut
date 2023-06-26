@@ -13,7 +13,7 @@
     "original": "[/color] damage to hitpoints, regardless of armor",
     "translation": "[/color]无视护甲的生命值伤害",
     "stage": 1,
-    "context": "'Always inflicts at least [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] damage to hitpoints, regardless of armor'"
+    "context": "'text' = 'Always inflicts at least [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] damage to hitpoints, regardless of armor'"
   },
   {
     "ID": 293420056,
@@ -29,7 +29,7 @@
     "original": "Always inflicts at least [color=",
     "translation": "总是至少造成[color=",
     "stage": 1,
-    "context": "'Always inflicts at least [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] damage to hitpoints, regardless of armor'"
+    "context": "'text' = 'Always inflicts at least [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] damage to hitpoints, regardless of armor'"
   },
   {
     "ID": 293420058,

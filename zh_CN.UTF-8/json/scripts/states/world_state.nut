@@ -4,14 +4,16 @@
     "key": "This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
     "original": "This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
     "translation": "此战役是在激活“野兽与探险”DLC之前创建的。 请注意，即使你可以继续玩此战役，除非你开始新的战役，否则你将无法访问所有新内容。",
-    "stage": 1
+    "stage": 1,
+    "context": "this.showDialogPopup('Old Campaign Loaded', \"This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.\", null, null, True)"
   },
   {
     "ID": 293422875,
     "key": "(Press Spacebar)",
     "original": "(Press Spacebar)",
     "translation": "（按空格键）",
-    "stage": 1
+    "stage": 1,
+    "context": "this.World.TopbarDayTimeModule.showMessage('PAUSED', '(Press Spacebar)')"
   },
   {
     "ID": 293422876,
@@ -19,21 +21,23 @@
     "original": "Save campaign: ",
     "translation": "保存战役：",
     "stage": 1,
-    "context": "'Save campaign: ' + _campaignLabel"
+    "context": "this.logDebug('Save campaign: ' + _campaignLabel)"
   },
   {
     "ID": 293422877,
     "key": "World Speed set to x5.0",
     "original": "World Speed set to x5.0",
     "translation": "世界速度设置为x5.0。",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logDebug('World Speed set to x5.0')"
   },
   {
     "ID": 293422878,
     "key": "The ",
     "original": "The ",
     "translation": "这个。",
-    "stage": 1
+    "stage": 1,
+    "context": "this.removeFromBeginningOfText('The ', this.Const.Strings.EntityName[i])"
   },
   {
     "ID": 293422879,
@@ -41,35 +45,39 @@
     "original": "A ",
     "translation": "一个",
     "stage": 1,
-    "context": "local start = this.isFirstCharacter(this.Const.Strings.EntityName.i, ['A','E','I','O','U']) ? 'An ' : 'A '"
+    "context": "local start = this.isFirstCharacter(this.Const.Strings.EntityName[i], ['A','E','I','O','U']) ? 'An ' : 'A '"
   },
   {
     "ID": 293422880,
     "key": "This campaign was created before you activated the 'Blazing Deserts' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
     "original": "This campaign was created before you activated the 'Blazing Deserts' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
     "translation": "此战役是在激活“炽热沙漠”DLC之前创建的。 请注意，即使你可以继续玩此战役，除非你开始新的战役，否则你将无法访问所有新内容。",
-    "stage": 1
+    "stage": 1,
+    "context": "this.showDialogPopup('Old Campaign Loaded', \"This campaign was created before you activated the 'Blazing Deserts' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.\", null, null, True)"
   },
   {
     "ID": 293422881,
     "key": "World Speed set to x9.0",
     "original": "World Speed set to x9.0",
     "translation": "世界速度设置为x9.0。",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logDebug('World Speed set to x9.0')"
   },
   {
     "ID": 293422882,
     "key": "Player can NOT be attacked.",
     "original": "Player can NOT be attacked.",
     "translation": "玩家不可被攻击。",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logDebug('Player can NOT be attacked.')"
   },
   {
     "ID": 293422883,
     "key": "World Speed set to x6.0",
     "original": "World Speed set to x6.0",
     "translation": "世界速度设置为x6.0。",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logDebug('World Speed set to x6.0')"
   },
   {
     "ID": 293422884,
@@ -77,21 +85,23 @@
     "original": "An ",
     "translation": "一个",
     "stage": 1,
-    "context": "local start = this.isFirstCharacter(this.Const.Strings.EntityName.i, ['A','E','I','O','U']) ? 'An ' : 'A '"
+    "context": "local start = this.isFirstCharacter(this.Const.Strings.EntityName[i], ['A','E','I','O','U']) ? 'An ' : 'A '"
   },
   {
     "ID": 293422885,
     "key": "World Speed set to x3.0",
     "original": "World Speed set to x3.0",
     "translation": "世界速度设置为x3.0。",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logDebug('World Speed set to x3.0')"
   },
   {
     "ID": 293422886,
     "key": "World Speed set to x7.0",
     "original": "World Speed set to x7.0",
     "translation": "世界速度设置为x7.0。",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logDebug('World Speed set to x7.0')"
   },
   {
     "ID": 293422887,
@@ -99,7 +109,7 @@
     "original": "Load campaign: ",
     "translation": "读取战役：",
     "stage": 1,
-    "context": "'Load campaign: ' + _campaignFileName"
+    "context": "this.logDebug('Load campaign: ' + _campaignFileName)"
   },
   {
     "ID": 293422888,
@@ -107,35 +117,39 @@
     "original": "Location entered: ",
     "translation": "位置已输入：",
     "stage": 1,
-    "context": "'Location entered: ' + _location.getName()"
+    "context": "this.logDebug('Location entered: ' + _location.getName())"
   },
   {
     "ID": 293422889,
     "key": "Orc Marauders",
     "original": "Orc Marauders",
     "translation": "兽人掳掠者",
-    "stage": 5
+    "stage": 5,
+    "context": "faction.spawnEntity(this.m.LastTileHovered, 'Orc Marauders', False, this.Const.World.Spawn.OrcRaiders, 200)"
   },
   {
     "ID": 293422890,
     "key": "A band of menacing orcs, greenskinned and towering any man.",
     "original": "A band of menacing orcs, greenskinned and towering any man.",
     "translation": "一群凶残的兽人，绿皮肤，比任何人都高。",
-    "stage": 5
+    "stage": 5,
+    "context": "party.setDescription('A band of menacing orcs, greenskinned and towering any man.')"
   },
   {
     "ID": 293422891,
     "key": "This campaign was created before you activated the 'Warriors of the North' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
     "original": "This campaign was created before you activated the 'Warriors of the North' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
     "translation": "此战役是在激活“北方的勇士”DLC之前创建的。 请注意，即使你可以继续玩此战役，除非你开始新的战役，否则你将无法访问所有新内容。",
-    "stage": 1
+    "stage": 1,
+    "context": "this.showDialogPopup('Old Campaign Loaded', \"This campaign was created before you activated the 'Warriors of the North' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.\", null, null, True)"
   },
   {
     "ID": 293422892,
     "key": "Fog Of War activated.",
     "original": "Fog Of War activated.",
     "translation": "战争迷雾已激活。",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logDebug('Fog Of War activated.')"
   },
   {
     "ID": 293422893,
@@ -150,14 +164,16 @@
     "key": "Old Campaign Loaded",
     "original": "Old Campaign Loaded",
     "translation": "老战役已加载",
-    "stage": 1
+    "stage": 1,
+    "context": "this.showDialogPopup('Old Campaign Loaded', \"This campaign was created before you activated the 'Warriors of the North' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.\", null, null, True)"
   },
   {
     "ID": 293422895,
     "key": "Fortifications",
     "original": "Fortifications",
     "translation": "防御工事",
-    "stage": 1
+    "stage": 1,
+    "context": "'Name' = 'Fortifications'"
   },
   {
     "ID": 293422896,
@@ -165,14 +181,15 @@
     "original": "Fall back!",
     "translation": "撤退！",
     "stage": 1,
-    "context": "this.m.EscortedEntity != null ? 'Flee!' : 'Fall back!'"
+    "context": "this.m.CombatDialog.show(entities, allyBanners, enemyBanners, _isPlayerInitiated || this.m.EscortedEntity != null, _allowFormationPicking, text, image, this.m.EscortedEntity != null ? 'Flee!' : 'Fall back!')"
   },
   {
     "ID": 293422897,
     "key": "Attacked them",
     "original": "Attacked them",
     "translation": "攻击他们",
-    "stage": 1
+    "stage": 1,
+    "context": "f.addPlayerRelation(~f.getPlayerRelation(), 'Attacked them')"
   },
   {
     "ID": 293422898,
@@ -180,7 +197,7 @@
     "original": "y: ",
     "translation": "y: ",
     "stage": 1,
-    "context": "'y: ' + this.m.LastTileHovered.SquareCoords.Y"
+    "context": "this.logInfo('y: ' + this.m.LastTileHovered.SquareCoords.Y)"
   },
   {
     "ID": 293422899,
@@ -188,21 +205,23 @@
     "original": "type: ",
     "translation": "类型：",
     "stage": 1,
-    "context": "'type: ' + this.m.LastTileHovered.Type"
+    "context": "this.logInfo('type: ' + this.m.LastTileHovered.Type)"
   },
   {
     "ID": 293422900,
     "key": "Player is NOT consuming assets.",
     "original": "Player is NOT consuming assets.",
     "translation": "玩家没有消耗资产。",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logDebug('Player is NOT consuming assets.')"
   },
   {
     "ID": 293422901,
     "key": "Fog Of War deactivated.",
     "original": "Fog Of War deactivated.",
     "translation": "战争迷雾已解除。",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logDebug('Fog Of War deactivated.')"
   },
   {
     "ID": 293422902,
@@ -210,21 +229,23 @@
     "original": "distance: ",
     "translation": "距离：",
     "stage": 1,
-    "context": "'distance: ' + this.m.LastTileHovered.getDistanceTo(this.getPlayer().getTile())"
+    "context": "this.logInfo('distance: ' + this.m.LastTileHovered.getDistanceTo(this.getPlayer().getTile()))"
   },
   {
     "ID": 293422903,
     "key": "Player is consuming assets.",
     "original": "Player is consuming assets.",
     "translation": "玩家正在消耗资产。",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logDebug('Player is consuming assets.')"
   },
   {
     "ID": 293422904,
     "key": "World Speed set to x8.0",
     "original": "World Speed set to x8.0",
     "translation": "世界速度设置为x8.0。",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logDebug('World Speed set to x8.0')"
   },
   {
     "ID": 293422905,
@@ -232,7 +253,7 @@
     "original": "Flee!",
     "translation": "逃走！",
     "stage": 1,
-    "context": "this.m.EscortedEntity != null ? 'Flee!' : 'Fall back!'"
+    "context": "this.m.CombatDialog.show(entities, allyBanners, enemyBanners, _isPlayerInitiated || this.m.EscortedEntity != null, _allowFormationPicking, text, image, this.m.EscortedEntity != null ? 'Flee!' : 'Fall back!')"
   },
   {
     "ID": 293422906,
@@ -248,14 +269,15 @@
     "original": "Save version: ",
     "translation": "保存版本：",
     "stage": 1,
-    "context": "'Save version: ' + _in.getMetaData().getVersion()"
+    "context": "this.logInfo('Save version: ' + _in.getMetaData().getVersion())"
   },
   {
     "ID": 293422908,
     "key": "World Speed set to x4.0",
     "original": "World Speed set to x4.0",
     "translation": "世界速度设置为x4.0。",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logDebug('World Speed set to x4.0')"
   },
   {
     "ID": 293422909,
@@ -270,13 +292,15 @@
     "key": "Clearing World Scene",
     "original": "Clearing World Scene",
     "translation": "清理世界场景",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logDebug('Clearing World Scene')"
   },
   {
     "ID": 293422911,
     "key": "Player can now be attacked.",
     "original": "Player can now be attacked.",
     "translation": "现在可以攻击玩家。",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logDebug('Player can now be attacked.')"
   }
 ]

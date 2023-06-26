@@ -5,14 +5,15 @@
     "original": "]+15[/color] or [color=",
     "translation": "]+15[/color] 或 [color=",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] or [color=' + this.Const.UI.Color.NegativeValue + ']-15[/color] Resolve randomly at every morale check'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] or [color=' + this.Const.UI.Color.NegativeValue + ']-15[/color] Resolve randomly at every morale check'"
   },
   {
     "ID": 293422601,
     "key": "Immune against fear and mind control abilities",
     "original": "Immune against fear and mind control abilities",
     "translation": "免疫恐惧和精神控制",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Immune against fear and mind control abilities'"
   },
   {
     "ID": 293422602,
@@ -20,7 +21,7 @@
     "original": "Has [color=",
     "translation": "每次士气检定随机 [color=",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] or [color=' + this.Const.UI.Color.NegativeValue + ']-15[/color] Resolve randomly at every morale check'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] or [color=' + this.Const.UI.Color.NegativeValue + ']-15[/color] Resolve randomly at every morale check'"
   },
   {
     "ID": 293422603,
@@ -28,7 +29,7 @@
     "original": "]-15[/color] Resolve randomly at every morale check",
     "translation": "]-15[/color] 决心",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] or [color=' + this.Const.UI.Color.NegativeValue + ']-15[/color] Resolve randomly at every morale check'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] or [color=' + this.Const.UI.Color.NegativeValue + ']-15[/color] Resolve randomly at every morale check'"
   },
   {
     "ID": 293422604,

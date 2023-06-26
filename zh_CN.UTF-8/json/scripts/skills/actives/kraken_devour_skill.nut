@@ -13,6 +13,6 @@
     "original": " devours ",
     "translation": "吞噬了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' devours ' + this.Const.UI.getColorizedEntityName(tile.getEntity())"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' devours ' + this.Const.UI.getColorizedEntityName(tile.getEntity()))"
   }
 ]

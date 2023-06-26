@@ -4,7 +4,8 @@
     "key": "the Butcher",
     "original": "the Butcher",
     "translation": "屠夫",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Butcher'"
   },
   {
     "ID": 293422365,
@@ -27,20 +28,23 @@
     "key": "the Mad",
     "original": "the Mad",
     "translation": "疯子(the Mad)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Mad'"
   },
   {
     "ID": 293422368,
     "key": "the Cruel",
     "original": "the Cruel",
     "translation": "残酷的",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Cruel'"
   },
   {
     "ID": 293422369,
     "key": "All kills are fatalities (if the weapon allows).",
     "original": "All kills are fatalities (if the weapon allows).",
     "translation": "所有的击杀都是必死击杀(如果武器允许)。",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'All kills are fatalities (if the weapon allows).'"
   }
 ]

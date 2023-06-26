@@ -5,7 +5,7 @@
     "original": "]50%[/color] chance to resist any status effect, like Dazed or Stunned",
     "translation": "有 ]50%[/color] 几率抵抗任何不良状态，例如茫然或眩晕",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] chance to resist any status effect, like Dazed or Stunned'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] chance to resist any status effect, like Dazed or Stunned'"
   },
   {
     "ID": 293421546,
@@ -20,7 +20,8 @@
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421548,

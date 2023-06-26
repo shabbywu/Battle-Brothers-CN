@@ -13,7 +13,7 @@
     "original": " had his bleeding wound quickly close thanks to his unnatural physiology",
     "translation": "由于他的非自然生理，他的流血伤口很快愈合。",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' had his bleeding wound quickly close thanks to his unnatural physiology'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' had his bleeding wound quickly close thanks to his unnatural physiology')"
   },
   {
     "ID": 293421430,

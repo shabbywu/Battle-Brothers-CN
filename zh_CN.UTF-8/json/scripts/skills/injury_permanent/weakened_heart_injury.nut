@@ -20,7 +20,8 @@
     "key": "Is always content with being in reserve",
     "original": "Is always content with being in reserve",
     "translation": "总是满足于充当后备",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Is always content with being in reserve'"
   },
   {
     "ID": 293422135,
@@ -28,6 +29,6 @@
     "original": "]-30%[/color] Hitpoints",
     "translation": "]-30%[/color] 生命值",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-30%[/color] Hitpoints'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-30%[/color] Hitpoints'"
   }
 ]

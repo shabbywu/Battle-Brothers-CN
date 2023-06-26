@@ -21,7 +21,7 @@
     "original": "Completed ",
     "translation": "完成了。",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Completed ' + this.Math.min(5, this.World.Statistics.getFlags().getAsInt('EscortCaravanContractsDone')) + '/5 caravan escort contracts'"
+    "context": "this.m.Requirements[0].Text = 'Completed ' + this.Math.min(5, this.World.Statistics.getFlags().getAsInt('EscortCaravanContractsDone')) + '/5 caravan escort contracts'"
   },
   {
     "ID": 293419610,
@@ -29,20 +29,22 @@
     "original": "/5 caravan escort contracts",
     "translation": "/5 护送商队合同",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Completed ' + this.Math.min(5, this.World.Statistics.getFlags().getAsInt('EscortCaravanContractsDone')) + '/5 caravan escort contracts'"
+    "context": "this.m.Requirements[0].Text = 'Completed ' + this.Math.min(5, this.World.Statistics.getFlags().getAsInt('EscortCaravanContractsDone')) + '/5 caravan escort contracts'"
   },
   {
     "ID": 293419611,
     "key": "Increases the amount of medical supplies and tools you can carry by 50 each",
     "original": "Increases the amount of medical supplies and tools you can carry by 50 each",
     "translation": "增加你可以携带的医疗用品和工具数量各50个",
-    "stage": 1
+    "stage": 1,
+    "context": "'Increases the amount of medical supplies and tools you can carry by 50 each'"
   },
   {
     "ID": 293419612,
     "key": "Increases the amount of ammunition you can carry by 100",
     "original": "Increases the amount of ammunition you can carry by 100",
     "translation": "增加你可以携带的弹药量100",
-    "stage": 1
+    "stage": 1,
+    "context": "'Increases the amount of ammunition you can carry by 100'"
   }
 ]

@@ -45,7 +45,7 @@
     "original": "An ",
     "translation": "一个",
     "stage": 1,
-    "context": "local start = this.isFirstCharacter(this.Const.Strings.EntityName.i, ['A','E','I','O','U']) ? 'An ' : 'A '"
+    "context": "local start = this.isFirstCharacter(this.Const.Strings.EntityName[i], ['A','E','I','O','U']) ? 'An ' : 'A '"
   },
   {
     "ID": 293412497,
@@ -68,7 +68,8 @@
     "key": "The ",
     "original": "The ",
     "translation": "这个",
-    "stage": 1
+    "stage": 1,
+    "context": "this.removeFromBeginningOfText('The ', this.Const.Strings.EntityName[i])"
   },
   {
     "ID": 293412500,
@@ -100,6 +101,6 @@
     "original": "A ",
     "translation": "一个",
     "stage": 1,
-    "context": "local start = this.isFirstCharacter(this.Const.Strings.EntityName.i, ['A','E','I','O','U']) ? 'An ' : 'A '"
+    "context": "local start = this.isFirstCharacter(this.Const.Strings.EntityName[i], ['A','E','I','O','U']) ? 'An ' : 'A '"
   }
 ]

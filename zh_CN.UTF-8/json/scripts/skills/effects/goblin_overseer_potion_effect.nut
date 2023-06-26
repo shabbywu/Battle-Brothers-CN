@@ -5,14 +5,15 @@
     "original": "An additional [color=",
     "translation": "额外的[color=",
     "stage": 1,
-    "context": "'An additional [color=' + this.Const.UI.Color.PositiveValue + ']5%[/color] of damage ignores armor when using bows or crossbows'"
+    "context": "'text' = 'An additional [color=' + this.Const.UI.Color.PositiveValue + ']5%[/color] of damage ignores armor when using bows or crossbows'"
   },
   {
     "ID": 293421498,
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421499,
@@ -28,7 +29,7 @@
     "original": "]5%[/color] of damage ignores armor when using bows or crossbows",
     "translation": "]5%[/color]的伤害无视护甲（使用弓或弩）",
     "stage": 1,
-    "context": "'An additional [color=' + this.Const.UI.Color.PositiveValue + ']5%[/color] of damage ignores armor when using bows or crossbows'"
+    "context": "'text' = 'An additional [color=' + this.Const.UI.Color.PositiveValue + ']5%[/color] of damage ignores armor when using bows or crossbows'"
   },
   {
     "ID": 293421501,

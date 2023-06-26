@@ -4,7 +4,8 @@
     "key": "Is not paid any wage",
     "original": "Is not paid any wage",
     "translation": "无需支付任何工资",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Is not paid any wage'"
   },
   {
     "ID": 293422664,
@@ -19,7 +20,8 @@
     "key": "Injuries do not heal",
     "original": "Injuries do not heal",
     "translation": "伤势不会愈合",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Injuries do not heal'"
   },
   {
     "ID": 293422666,

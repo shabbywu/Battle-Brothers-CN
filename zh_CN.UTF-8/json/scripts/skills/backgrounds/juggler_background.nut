@@ -20,7 +20,8 @@
     "key": "Higher Chance To Hit Head",
     "original": "Higher Chance To Hit Head",
     "translation": "更高几率击中头部",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Higher Chance To Hit Head'"
   },
   {
     "ID": 293421051,
@@ -43,21 +44,24 @@
     "key": "the Juggler",
     "original": "the Juggler",
     "translation": "杂耍者(the Juggler)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Juggler'"
   },
   {
     "ID": 293421054,
     "key": "the Jester",
     "original": "the Jester",
     "translation": "小丑(the Jester)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Jester'"
   },
   {
     "ID": 293421055,
     "key": "the Fool",
     "original": "the Fool",
     "translation": "愚者(the Fool)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Fool'"
   },
   {
     "ID": 293421056,

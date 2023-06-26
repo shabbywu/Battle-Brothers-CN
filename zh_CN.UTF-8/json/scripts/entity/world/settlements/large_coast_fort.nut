@@ -4,14 +4,16 @@
     "key": "Kampfeste",
     "original": "Kampfeste",
     "translation": "战争要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Kampfeste'"
   },
   {
     "ID": 293410733,
     "key": "Aalfeste",
     "original": "Aalfeste",
     "translation": "鳗鱼要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Aalfeste'"
   },
   {
     "ID": 293410734,
@@ -26,14 +28,16 @@
     "key": "Blankenfeste",
     "original": "Blankenfeste",
     "translation": "茫然要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Blankenfeste'"
   },
   {
     "ID": 293410736,
     "key": "Wesefeste",
     "original": "Wesefeste",
     "translation": "韦塞要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Wesefeste'"
   },
   {
     "ID": 293410737,
@@ -48,118 +52,135 @@
     "key": "Kranichfeste",
     "original": "Kranichfeste",
     "translation": "鹤之要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Kranichfeste'"
   },
   {
     "ID": 293410739,
     "key": "Kleifeste",
     "original": "Kleifeste",
     "translation": "黏土要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Kleifeste'"
   },
   {
     "ID": 293410740,
     "key": "Segelfeste",
     "original": "Segelfeste",
     "translation": "帆之要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Segelfeste'"
   },
   {
     "ID": 293410741,
     "key": "Schwalbenfeste",
     "original": "Schwalbenfeste",
     "translation": "燕之要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Schwalbenfeste'"
   },
   {
     "ID": 293410742,
     "key": "Otterfeste",
     "original": "Otterfeste",
     "translation": "水獭要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Otterfeste'"
   },
   {
     "ID": 293410743,
     "key": "Stohlfeste",
     "original": "Stohlfeste",
     "translation": "斯托尔要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Stohlfeste'"
   },
   {
     "ID": 293410744,
     "key": "Seelandfeste",
     "original": "Seelandfeste",
     "translation": "湖陆要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Seelandfeste'"
   },
   {
     "ID": 293410745,
     "key": "Seemarkfeste",
     "original": "Seemarkfeste",
     "translation": "希玛克要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Seemarkfeste'"
   },
   {
     "ID": 293410746,
     "key": "Sandfeste",
     "original": "Sandfeste",
     "translation": "沙之要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Sandfeste'"
   },
   {
     "ID": 293410747,
     "key": "Krakenfeste",
     "original": "Krakenfeste",
     "translation": "克拉肯要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Krakenfeste'"
   },
   {
     "ID": 293410748,
     "key": "Seefeste",
     "original": "Seefeste",
     "translation": "海之要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Seefeste'"
   },
   {
     "ID": 293410749,
     "key": "Reedfeste",
     "original": "Reedfeste",
     "translation": "芦苇要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Reedfeste'"
   },
   {
     "ID": 293410750,
     "key": "Dunstfeste",
     "original": "Dunstfeste",
     "translation": "薄雾要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Dunstfeste'"
   },
   {
     "ID": 293410751,
     "key": "Regenfeste",
     "original": "Regenfeste",
     "translation": "雨之要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Regenfeste'"
   },
   {
     "ID": 293410752,
     "key": "Windfeste",
     "original": "Windfeste",
     "translation": "大风要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Windfeste'"
   },
   {
     "ID": 293410753,
     "key": "Dunenfeste",
     "original": "Dunenfeste",
     "translation": "丘陵要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Dunenfeste'"
   },
   {
     "ID": 293410754,
     "key": "Sturmfeste",
     "original": "Sturmfeste",
     "translation": "风暴要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Sturmfeste'"
   }
 ]

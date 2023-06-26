@@ -13,14 +13,15 @@
     "original": "]-15[/color] Melee Defense",
     "translation": "]-15[/color] 近战防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-15[/color] Melee Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-15[/color] Melee Defense'"
   },
   {
     "ID": 293421421,
     "key": "Will be gone after 1 more battles",
     "original": "Will be gone after 1 more battles",
     "translation": "会在1场战斗之后消失",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Will be gone after 1 more battles'"
   },
   {
     "ID": 293421422,
@@ -28,7 +29,7 @@
     "original": "]-15[/color] Ranged Defense",
     "translation": "]-15[/color] 远程防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-15[/color] Ranged Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-15[/color] Ranged Defense'"
   },
   {
     "ID": 293421423,
@@ -36,14 +37,15 @@
     "original": "]+25%[/color] Damage in Melee",
     "translation": "]+25%[/color] 近战伤害",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] Damage in Melee'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] Damage in Melee'"
   },
   {
     "ID": 293421424,
     "key": "No morale check triggered upon losing hitpoints",
     "original": "No morale check triggered upon losing hitpoints",
     "translation": "失去生命值时不会触发士气检查",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'No morale check triggered upon losing hitpoints'"
   },
   {
     "ID": 293421425,

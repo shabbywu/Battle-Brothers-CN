@@ -13,6 +13,6 @@
     "original": " uses Warcry",
     "translation": "使用了战吼",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses Warcry'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' uses Warcry')"
   }
 ]

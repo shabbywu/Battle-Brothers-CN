@@ -20,7 +20,8 @@
     "key": "It has awakened! The sleeping beast is about to rise from its century long slumber! Go to %settlement% and my brothers in faith will tell you the same! Davkul will come!",
     "original": "It has awakened! The sleeping beast is about to rise from its century long slumber! Go to %settlement% and my brothers in faith will tell you the same! Davkul will come!",
     "translation": "它醒了！沉睡的野兽即将从长达一个世纪的沉睡中醒来！去 %settlement%，我的宗教兄弟们也会告诉你的！达库尔会来的！",
-    "stage": 1
+    "stage": 1,
+    "context": "'It has awakened! The sleeping beast is about to rise from its century long slumber! Go to %settlement% and my brothers in faith will tell you the same! Davkul will come!'"
   },
   {
     "ID": 293411711,
@@ -35,7 +36,8 @@
     "key": "%settlement% is swarming with strange cultists, they are surely up to no good! Somebody should send the witch hunters their way, I'd say!",
     "original": "%settlement% is swarming with strange cultists, they are surely up to no good! Somebody should send the witch hunters their way, I'd say!",
     "translation": "%settlement% 到处都是奇怪的邪教徒，他们肯定在干坏事！我得说，应该有人把女巫猎人送过去！",
-    "stage": 1
+    "stage": 1,
+    "context": "\"%settlement% is swarming with strange cultists, they are surely up to no good! Somebody should send the witch hunters their way, I'd say!\""
   },
   {
     "ID": 293411713,
@@ -50,6 +52,7 @@
     "key": "I just saw the most bone chilling procession coming through %settlement%! Masked figures, whipping themselves on the backs until they were all bloodied up...",
     "original": "I just saw the most bone chilling procession coming through %settlement%! Masked figures, whipping themselves on the backs until they were all bloodied up...",
     "translation": "我刚看到最令人毛骨悚然的游行队伍经过 %settlement%！蒙面的人影，鞭打着自己的后背，直到他们都血淋淋的…",
-    "stage": 1
+    "stage": 1,
+    "context": "'I just saw the most bone chilling procession coming through %settlement%! Masked figures, whipping themselves on the backs until they were all bloodied up...'"
   }
 ]

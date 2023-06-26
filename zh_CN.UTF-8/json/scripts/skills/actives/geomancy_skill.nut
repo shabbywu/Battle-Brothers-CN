@@ -4,7 +4,8 @@
     "key": "The earth lowers again",
     "original": "The earth lowers again",
     "translation": "大地又降低了",
-    "stage": 1
+    "stage": 1,
+    "context": "this.Tactical.EventLog.log('The earth lowers again')"
   },
   {
     "ID": 293420011,
@@ -12,7 +13,7 @@
     "original": " commands the earth!",
     "translation": "指挥大地！",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' commands the earth!'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' commands the earth!')"
   },
   {
     "ID": 293420012,

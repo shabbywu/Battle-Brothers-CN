@@ -5,14 +5,15 @@
     "original": "]10[/color] hitpoints each turn",
     "translation": "]10[/color] 生命值每回合",
     "stage": 1,
-    "context": "'Heals [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints each turn'"
+    "context": "'text' = 'Heals [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints each turn'"
   },
   {
     "ID": 293421776,
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421777,
@@ -36,7 +37,7 @@
     "original": " points",
     "translation": " 点",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + healthAdded + ' points'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + healthAdded + ' points')"
   },
   {
     "ID": 293421780,
@@ -44,7 +45,7 @@
     "original": "Heals [color=",
     "translation": "治疗 [color=",
     "stage": 1,
-    "context": "'Heals [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints each turn'"
+    "context": "'text' = 'Heals [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints each turn'"
   },
   {
     "ID": 293421781,
@@ -52,6 +53,6 @@
     "original": " heals for ",
     "translation": " 治疗生命值 ",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + healthAdded + ' points'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + healthAdded + ' points')"
   }
 ]

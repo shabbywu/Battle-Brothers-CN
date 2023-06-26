@@ -5,7 +5,7 @@
     "original": "\n\n[color=#bcad8c]\"",
     "translation": "\n\n[color=#bcad8c]\"",
     "stage": 1,
-    "context": "rumor = rumor + '\n\n[color=#bcad8c]\"'"
+    "context": "'\n\n[color=#bcad8c]\"'"
   },
   {
     "ID": 293410712,
@@ -13,7 +13,7 @@
     "original": " is now drunk.",
     "translation": " 喝醉了。",
     "stage": 1,
-    "context": "b.getName() + ' is now drunk.'"
+    "context": "'Text' = b.getName() + ' is now drunk.'"
   },
   {
     "ID": 293410713,
@@ -44,6 +44,7 @@
     "key": "Got drunk with the company",
     "original": "Got drunk with the company",
     "translation": "在战团中喝醉了",
-    "stage": 1
+    "stage": 1,
+    "context": "b.improveMood(this.Const.MoodChange.DrunkAtTavern, 'Got drunk with the company')"
   }
 ]

@@ -4,7 +4,8 @@
     "key": "Immune to being knocked back or grabbed",
     "original": "Immune to being knocked back or grabbed",
     "translation": "免疫击退和勾拽技能",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Immune to being knocked back or grabbed'"
   },
   {
     "ID": 293421705,
@@ -19,7 +20,8 @@
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421707,

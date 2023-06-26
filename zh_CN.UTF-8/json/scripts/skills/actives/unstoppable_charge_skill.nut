@@ -13,7 +13,7 @@
     "original": " for one turn",
     "translation": "，持续 1 回合",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn')"
   },
   {
     "ID": 293420685,
@@ -21,7 +21,7 @@
     "original": " has staggered ",
     "translation": "趔趄了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn')"
   },
   {
     "ID": 293420686,
@@ -29,7 +29,7 @@
     "original": " has knocked back ",
     "translation": "击退了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has knocked back ' + this.Const.UI.getColorizedEntityName(_target)"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has knocked back ' + this.Const.UI.getColorizedEntityName(_target))"
   },
   {
     "ID": 293420687,
@@ -37,7 +37,7 @@
     "original": " has stunned ",
     "translation": "击晕了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn')"
   },
   {
     "ID": 293420688,
@@ -45,6 +45,6 @@
     "original": " charges",
     "translation": "发起冲锋",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_entity) + ' charges'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_entity) + ' charges')"
   }
 ]

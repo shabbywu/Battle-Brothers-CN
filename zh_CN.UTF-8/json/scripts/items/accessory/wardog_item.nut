@@ -13,7 +13,7 @@
     "original": " the Wardog",
     "translation": "战争犬",
     "stage": 5,
-    "context": "this.m.Name = this.Const.Strings.WardogNames.this.Math.rand(0, this.Const.Strings.WardogNames.len() - 1) + ' the Wardog'"
+    "context": "this.m.Name = this.Const.Strings.WardogNames[this.Math.rand(0, this.Const.Strings.WardogNames.len() - 1)] + ' the Wardog'"
   },
   {
     "ID": 293417509,

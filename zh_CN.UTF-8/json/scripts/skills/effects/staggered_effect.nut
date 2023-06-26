@@ -29,7 +29,7 @@
     "original": "]-50%[/color] Initiative",
     "translation": "]-50%[/color] 主动性",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Initiative'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Initiative'"
   },
   {
     "ID": 293421764,
@@ -37,6 +37,6 @@
     "original": " shook off being staggered thanks to his unnatural physiology",
     "translation": "非自然的生理功能帮助他免受趔趄",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(actor) + ' shook off being staggered thanks to his unnatural physiology'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' shook off being staggered thanks to his unnatural physiology')"
   }
 ]

@@ -4,14 +4,16 @@
     "key": "Bridge Brush undefined!",
     "original": "Bridge Brush undefined!",
     "translation": "桥刷未定义！",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logWarning('Bridge Brush undefined!')"
   },
   {
     "ID": 293406974,
     "key": "Crossing Brush undefined!",
     "original": "Crossing Brush undefined!",
     "translation": "穿过刷未定义！",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logWarning('Crossing Brush undefined!')"
   },
   {
     "ID": 293406975,
@@ -34,14 +36,16 @@
     "key": "River Brush undefined!",
     "original": "River Brush undefined!",
     "translation": "河流画笔未定义！",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logWarning('River Brush undefined!')"
   },
   {
     "ID": 293406978,
     "key": "Shore Brush undefined!",
     "original": "Shore Brush undefined!",
     "translation": "海岸刷未定义！",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logWarning('Shore Brush undefined!')"
   },
   {
     "ID": 293406979,
@@ -57,7 +61,7 @@
     "original": "Road Brush undefined (",
     "translation": "路面刷未定义（",
     "stage": 1,
-    "context": "'Road Brush undefined (' + _d + ')!'"
+    "context": "this.logWarning('Road Brush undefined (' + _d + ')!')"
   },
   {
     "ID": 293406981,

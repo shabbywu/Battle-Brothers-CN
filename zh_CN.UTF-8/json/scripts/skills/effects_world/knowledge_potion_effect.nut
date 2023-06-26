@@ -5,7 +5,7 @@
     "original": "%[/color] Experience Gain",
     "translation": "%[/color] 经验获取",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+' + this.m.XPGainMult * 100 - 100 + '%[/color] Experience Gain'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + this.m.XPGainMult * 100 - 100 + '%[/color] Experience Gain'"
   },
   {
     "ID": 293421843,

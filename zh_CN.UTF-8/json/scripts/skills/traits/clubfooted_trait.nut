@@ -5,7 +5,7 @@
     "original": "]2[/color] more Fatigue for each tile travelled",
     "translation": "]+2[/color] 疲劳值增量（每行走一格）",
     "stage": 5,
-    "context": "'Builds up [color=' + this.Const.UI.Color.NegativeValue + ']2[/color] more Fatigue for each tile travelled'"
+    "context": "'text' = 'Builds up [color=' + this.Const.UI.Color.NegativeValue + ']2[/color] more Fatigue for each tile travelled'"
   },
   {
     "ID": 293422391,
@@ -21,7 +21,7 @@
     "original": "Builds up [color=",
     "translation": "[color=",
     "stage": 5,
-    "context": "'Builds up [color=' + this.Const.UI.Color.NegativeValue + ']2[/color] more Fatigue for each tile travelled'"
+    "context": "'text' = 'Builds up [color=' + this.Const.UI.Color.NegativeValue + ']2[/color] more Fatigue for each tile travelled'"
   },
   {
     "ID": 293422393,

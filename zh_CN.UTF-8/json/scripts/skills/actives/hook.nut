@@ -5,7 +5,7 @@
     "original": "]2[/color] tiles",
     "translation": "]2[/color] 格",
     "stage": 5,
-    "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2[/color] tiles'"
+    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2[/color] tiles'"
   },
   {
     "ID": 293420071,
@@ -13,7 +13,7 @@
     "original": " has staggered ",
     "translation": "趔趄了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn')"
   },
   {
     "ID": 293420072,
@@ -21,7 +21,7 @@
     "original": " for one turn",
     "translation": "，持续 1 回合",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn')"
   },
   {
     "ID": 293420073,
@@ -29,7 +29,7 @@
     "original": " hooks in ",
     "translation": "钩拽了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' hooks in ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity())"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' hooks in ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()))"
   },
   {
     "ID": 293420074,
@@ -37,7 +37,7 @@
     "original": "Has a range of [color=",
     "translation": "攻击范围为 [color=",
     "stage": 5,
-    "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2[/color] tiles'"
+    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2[/color] tiles'"
   },
   {
     "ID": 293420075,
@@ -45,7 +45,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit'"
   },
   {
     "ID": 293420076,
@@ -53,7 +53,7 @@
     "original": "]100%[/color] chance to stagger on a hit",
     "translation": "]100%[/color] 几率在命中时造成趔趄",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stagger on a hit'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stagger on a hit'"
   },
   {
     "ID": 293420077,
@@ -69,7 +69,7 @@
     "original": "]+10%[/color] chance to hit",
     "translation": "]+10%[/color] 命中几率",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit'"
   },
   {
     "ID": 293420079,
@@ -85,6 +85,6 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stagger on a hit'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stagger on a hit'"
   }
 ]

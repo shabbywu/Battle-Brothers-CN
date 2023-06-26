@@ -4,7 +4,8 @@
     "key": "They struck a mother lode over in %settlement%. I myself worked the mines for decades, too, and all I got to show for it is a bad cough.",
     "original": "They struck a mother lode over in %settlement%. I myself worked the mines for decades, too, and all I got to show for it is a bad cough.",
     "translation": "他们在 %settlement% 的一个母矿脉里打起来了。我自己也在矿井里工作了几十年，我所能表现出来的只是一次严重的咳嗽。",
-    "stage": 1
+    "stage": 1,
+    "context": "'They struck a mother lode over in %settlement%. I myself worked the mines for decades, too, and all I got to show for it is a bad cough.'"
   },
   {
     "ID": 293411853,
@@ -27,14 +28,16 @@
     "key": "Those lucky bastards in %settlement% have found a new vein in the mine. Caravans can't come fast enough now with what they're shoveling up.",
     "original": "Those lucky bastards in %settlement% have found a new vein in the mine. Caravans can't come fast enough now with what they're shoveling up.",
     "translation": "%settlement% 那些幸运的混蛋在矿井里发现了新矿脉。商队现在铲起的东西还不够快。",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Those lucky bastards in %settlement% have found a new vein in the mine. Caravans can't come fast enough now with what they're shoveling up.\""
   },
   {
     "ID": 293411856,
     "key": "I hear that the mines in %settlement% are awfully productive these days. Not a bad way to make some coin if you're in the trading business.",
     "original": "I hear that the mines in %settlement% are awfully productive these days. Not a bad way to make some coin if you're in the trading business.",
     "translation": "我听说 %settlement% 的矿山最近生产效率很高。如果你在做生意的话，这是个不错的赚硬币方法。",
-    "stage": 1
+    "stage": 1,
+    "context": "\"I hear that the mines in %settlement% are awfully productive these days. Not a bad way to make some coin if you're in the trading business.\""
   },
   {
     "ID": 293411857,

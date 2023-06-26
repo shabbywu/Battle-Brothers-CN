@@ -4,14 +4,16 @@
     "key": "Have a heart",
     "original": "Have a heart",
     "translation": "有一颗心",
-    "stage": 1
+    "stage": 1,
+    "context": "'Text' = 'Have a heart'"
   },
   {
     "ID": 293419620,
     "key": "Recovers tools and supplies from every armor destroyed by you during battle",
     "original": "Recovers tools and supplies from every armor destroyed by you during battle",
     "translation": "从战斗中被你摧毁的每一件盔甲中回收工具和补给",
-    "stage": 1
+    "stage": 1,
+    "context": "'Recovers tools and supplies from every armor destroyed by you during battle'"
   },
   {
     "ID": 293419621,
@@ -34,6 +36,7 @@
     "key": "Recovers a part of all ammo you use during battle",
     "original": "Recovers a part of all ammo you use during battle",
     "translation": "回收一部分你在战斗中使用的弹药",
-    "stage": 1
+    "stage": 1,
+    "context": "'Recovers a part of all ammo you use during battle'"
   }
 ]

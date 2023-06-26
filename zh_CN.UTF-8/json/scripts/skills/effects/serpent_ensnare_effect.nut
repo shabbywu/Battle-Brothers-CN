@@ -5,7 +5,7 @@
     "original": "]Unable to use skills[/color]",
     "translation": "]不能使用技能[/color]",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Unable to use skills[/color]'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Unable to use skills[/color]'"
   },
   {
     "ID": 293421709,
@@ -29,7 +29,7 @@
     "original": "]Unable to move[/color]",
     "translation": "]不能移动[/color]",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Unable to move[/color]'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Unable to move[/color]'"
   },
   {
     "ID": 293421712,

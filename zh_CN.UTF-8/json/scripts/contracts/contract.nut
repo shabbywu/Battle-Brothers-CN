@@ -4,7 +4,8 @@
     "key": "Objectives",
     "original": "Objectives",
     "translation": "目标",
-    "stage": 1
+    "stage": 1,
+    "context": "'title' = 'Objectives'"
   },
   {
     "ID": 293407736,
@@ -12,14 +13,15 @@
     "original": "\" not found for contract \"",
     "translation": "合同没有找到",
     "stage": 1,
-    "context": "'State \"' + _id + '\" not found for contract \"' + this.m.Type + '\".'"
+    "context": "this.logError('Screen \"' + _id + '\" not found for contract \"' + this.m.Type + '\".')"
   },
   {
     "ID": 293407737,
     "key": "A legion of walking dead, back to claim from the living what was once theirs.",
     "original": "A legion of walking dead, back to claim from the living what was once theirs.",
     "translation": "一大群行尸，向活着的人索取曾经属于他们的东西。",
-    "stage": 1
+    "stage": 1,
+    "context": "party.setDescription('A legion of walking dead, back to claim from the living what was once theirs.')"
   },
   {
     "ID": 293407738,
@@ -35,7 +37,7 @@
     "original": "Screen \"",
     "translation": "屏幕 \"\"",
     "stage": 1,
-    "context": "'Screen \"' + _id + '\" not found for contract \"' + this.m.Type + '\".'"
+    "context": "this.logError('Screen \"' + _id + '\" not found for contract \"' + this.m.Type + '\".')"
   },
   {
     "ID": 293407740,
@@ -43,14 +45,15 @@
     "original": "instance",
     "translation": "instance",
     "stage": 1,
-    "context": "_situationInstance == 0 || _settlement == null || typeof _settlement == 'instance' && _settlement.isNull()"
+    "context": "typeof _id == 'table' || typeof _id == 'instance'"
   },
   {
     "ID": 293407741,
     "key": "Undead",
     "original": "Undead",
     "translation": "亡灵",
-    "stage": 1
+    "stage": 1,
+    "context": "this.World.FactionManager.getFactionOfType(this.Const.FactionType.Undead).spawnEntity(enemyBase.getTile(), 'Undead', False, this.Const.World.Spawn.UndeadArmy, _resources)"
   },
   {
     "ID": 293407742,
@@ -58,21 +61,23 @@
     "original": "State \"",
     "translation": "国家\"",
     "stage": 1,
-    "context": "'State \"' + _id + '\" not found for contract \"' + this.m.Type + '\".'"
+    "context": "this.logError('State \"' + _id + '\" not found for contract \"' + this.m.Type + '\".')"
   },
   {
     "ID": 293407743,
     "key": "Orc Marauders",
     "original": "Orc Marauders",
     "translation": "兽人掳掠者",
-    "stage": 5
+    "stage": 5,
+    "context": "this.World.FactionManager.getFactionOfType(this.Const.FactionType.Orcs).spawnEntity(enemyBase.getTile(), 'Orc Marauders', False, this.Const.World.Spawn.OrcRaiders, _resources)"
   },
   {
     "ID": 293407744,
     "key": "A band of menacing orcs, greenskinned and towering any man.",
     "original": "A band of menacing orcs, greenskinned and towering any man.",
     "translation": "一群凶残的兽人，绿皮肤，比任何人都高。",
-    "stage": 5
+    "stage": 5,
+    "context": "party.setDescription('A band of menacing orcs, greenskinned and towering any man.')"
   },
   {
     "ID": 293407745,
@@ -87,28 +92,32 @@
     "key": "Something seems wrong.",
     "original": "Something seems wrong.",
     "translation": "好像有点不对劲。",
-    "stage": 1
+    "stage": 1,
+    "context": "party.setDescription('Something seems wrong.')"
   },
   {
     "ID": 293407747,
     "key": "A rough and tough band of brigands out to hunt for food.",
     "original": "A rough and tough band of brigands out to hunt for food.",
     "translation": "一伙为了食物外出狩猎的强壮强盗。",
-    "stage": 1
+    "stage": 1,
+    "context": "party.setDescription('A rough and tough band of brigands out to hunt for food.')"
   },
   {
     "ID": 293407748,
     "key": "Broke a contract",
     "original": "Broke a contract",
     "translation": "撕毁了合同",
-    "stage": 1
+    "stage": 1,
+    "context": "this.World.FactionManager.getFaction(this.m.Faction).addPlayerRelation(this.Const.World.Assets.RelationContractCancel, 'Broke a contract')"
   },
   {
     "ID": 293407749,
     "key": "Goblin Raiders",
     "original": "Goblin Raiders",
     "translation": "地精袭击者 ",
-    "stage": 1
+    "stage": 1,
+    "context": "this.World.FactionManager.getFactionOfType(this.Const.FactionType.Goblins).spawnEntity(enemyBase.getTile(), 'Goblin Raiders', False, this.Const.World.Spawn.GoblinRaiders, _resources)"
   },
   {
     "ID": 293407750,
@@ -123,27 +132,31 @@
     "key": "A band of mischievous goblins, small but cunning and not to be underestimated.",
     "original": "A band of mischievous goblins, small but cunning and not to be underestimated.",
     "translation": "一群淘气的地精，小而狡猾，不可低估。",
-    "stage": 1
+    "stage": 1,
+    "context": "party.setDescription('A band of mischievous goblins, small but cunning and not to be underestimated.')"
   },
   {
     "ID": 293407752,
     "key": "Brigands",
     "original": "Brigands",
     "translation": "强盗",
-    "stage": 1
+    "stage": 1,
+    "context": "this.World.FactionManager.getFactionOfType(this.Const.FactionType.Bandits).spawnEntity(enemyBase.getTile(), 'Brigands', False, this.Const.World.Spawn.BanditRaiders, _resources)"
   },
   {
     "ID": 293407753,
     "key": "Payment",
     "original": "Payment",
     "translation": "报酬",
-    "stage": 1
+    "stage": 1,
+    "context": "'title' = 'Payment'"
   },
   {
     "ID": 293407754,
     "key": "\n\n[color=#bcad8c]\"",
     "original": "\n\n[color=#bcad8c]\"",
     "translation": "\n\n[color=#bcad8c]\"",
-    "stage": 1
+    "stage": 1,
+    "context": "'\n\n[color=#bcad8c]\"'"
   }
 ]

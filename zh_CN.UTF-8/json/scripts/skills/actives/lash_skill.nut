@@ -5,14 +5,15 @@
     "original": "]100%[/color] chance to hit the head",
     "translation": "]100%[/color] 几率命中头部",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to hit the head'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to hit the head'"
   },
   {
     "ID": 293420156,
     "key": "Ignores the bonus to Melee Defense granted by shields",
     "original": "Ignores the bonus to Melee Defense granted by shields",
     "translation": "忽视盾牌提供的近战防御加成",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Ignores the bonus to Melee Defense granted by shields'"
   },
   {
     "ID": 293420157,
@@ -20,7 +21,7 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to hit the head'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to hit the head'"
   },
   {
     "ID": 293420158,

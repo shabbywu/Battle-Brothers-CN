@@ -53,7 +53,7 @@
     "original": "Your men have [color=",
     "translation": "你的所有战团成员获得[color=",
     "stage": 1,
-    "context": "this.m.OathBurdenText = 'Your men have [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve, [color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee and Ranged Skill, and [color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee and Ranged Defense when fighting any other foe.'"
+    "context": "this.m.OathBoonText = 'Your men have [color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Resolve, [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Melee and Ranged Skill, and [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee and Ranged Defense when fighting orcs or goblins.'"
   },
   {
     "ID": 293403720,

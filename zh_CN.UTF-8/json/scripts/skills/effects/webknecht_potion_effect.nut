@@ -12,7 +12,8 @@
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421794,
@@ -27,6 +28,7 @@
     "key": "Immune to poison effects, including those of Webknechts and Goblins",
     "original": "Immune to poison effects, including those of Webknechts and Goblins",
     "translation": "免疫中毒效果，包括蛛魔与地精的毒药",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Immune to poison effects, including those of Webknechts and Goblins'"
   }
 ]

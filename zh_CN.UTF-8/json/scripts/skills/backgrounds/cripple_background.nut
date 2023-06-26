@@ -12,7 +12,8 @@
     "key": "Is always content with being in reserve",
     "original": "Is always content with being in reserve",
     "translation": "总是满足于充当后备",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Is always content with being in reserve'"
   },
   {
     "ID": 293420892,
@@ -27,14 +28,16 @@
     "key": "the Broken",
     "original": "the Broken",
     "translation": "废人(the Broken)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Broken'"
   },
   {
     "ID": 293420894,
     "key": "the Cripple",
     "original": "the Cripple",
     "translation": "残废(the Cripple)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Cripple'"
   },
   {
     "ID": 293420895,
@@ -57,7 +60,8 @@
     "key": "the Maimed",
     "original": "the Maimed",
     "translation": "残废者(the Maimed)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Maimed'"
   },
   {
     "ID": 293420898,
@@ -72,6 +76,7 @@
     "key": "the Grotesque",
     "original": "the Grotesque",
     "translation": "奇形怪状者(the Grotesque)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Grotesque'"
   }
 ]

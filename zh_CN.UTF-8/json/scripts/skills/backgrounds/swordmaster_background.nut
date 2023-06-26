@@ -36,14 +36,16 @@
     "key": "the Legend",
     "original": "the Legend",
     "translation": "传奇",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Legend'"
   },
   {
     "ID": 293421330,
     "key": "the Master",
     "original": "the Master",
     "translation": "大师",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Master'"
   },
   {
     "ID": 293421331,
@@ -58,6 +60,7 @@
     "key": "the Old Guard",
     "original": "the Old Guard",
     "translation": "老卫士(the Old Guard)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Old Guard'"
   }
 ]

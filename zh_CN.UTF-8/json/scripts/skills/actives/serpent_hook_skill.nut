@@ -13,7 +13,7 @@
     "original": " has staggered ",
     "translation": "趔趄了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn')"
   },
   {
     "ID": 293420336,
@@ -21,7 +21,7 @@
     "original": " for one turn",
     "translation": "，持续 1 回合",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn')"
   },
   {
     "ID": 293420337,
@@ -29,6 +29,6 @@
     "original": " drags in ",
     "translation": "拖近了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' drags in ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity())"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' drags in ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()))"
   }
 ]

@@ -13,7 +13,7 @@
     "original": "]+10[/color] Resolve",
     "translation": "]+10[/color] 决心",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve'"
   },
   {
     "ID": 293417482,
@@ -28,6 +28,7 @@
     "key": "Will start combat at confident morale if permitted by mood",
     "original": "Will start combat at confident morale if permitted by mood",
     "translation": "如果心情允许，将以自信的士气开始战斗",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Will start combat at confident morale if permitted by mood'"
   }
 ]

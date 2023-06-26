@@ -5,7 +5,7 @@
     "original": " for two turns",
     "translation": "，持续 2 回合",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has dazed ' + this.Const.UI.getColorizedEntityName(_target) + ' for two turns'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has dazed ' + this.Const.UI.getColorizedEntityName(_target) + ' for two turns')"
   },
   {
     "ID": 293420538,
@@ -13,7 +13,7 @@
     "original": " has dazed ",
     "translation": "茫然了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has dazed ' + this.Const.UI.getColorizedEntityName(_target) + ' for two turns'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has dazed ' + this.Const.UI.getColorizedEntityName(_target) + ' for two turns')"
   },
   {
     "ID": 293420539,
@@ -21,7 +21,7 @@
     "original": " for one turn",
     "translation": "，持续 1 回合",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn')"
   },
   {
     "ID": 293420540,
@@ -45,7 +45,7 @@
     "original": " has knocked back ",
     "translation": "击退了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has knocked back ' + this.Const.UI.getColorizedEntityName(_target)"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has knocked back ' + this.Const.UI.getColorizedEntityName(_target))"
   },
   {
     "ID": 293420543,
@@ -53,6 +53,6 @@
     "original": " has stunned ",
     "translation": "击晕了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn')"
   }
 ]

@@ -13,7 +13,7 @@
     "original": "Screen '",
     "translation": "屏幕 '",
     "stage": 1,
-    "context": "\"Screen '\" + _id + \"' not found for event '\" + this.m.ID + \"'.\""
+    "context": "this.logError(\"Screen '\" + _id + \"' not found for event '\" + this.m.ID + \"'.\")"
   },
   {
     "ID": 293412507,
@@ -28,7 +28,8 @@
     "key": "\n\n[color=#bcad8c]\"",
     "original": "\n\n[color=#bcad8c]\"",
     "translation": "\n\n[color=#bcad8c]\"",
-    "stage": 1
+    "stage": 1,
+    "context": "'\n\n[color=#bcad8c]\"'"
   },
   {
     "ID": 293412509,
@@ -44,6 +45,6 @@
     "original": "' not found for event '",
     "translation": "事件“'”未找到",
     "stage": 1,
-    "context": "\"Screen '\" + _id + \"' not found for event '\" + this.m.ID + \"'.\""
+    "context": "this.logError(\"Screen '\" + _id + \"' not found for event '\" + this.m.ID + \"'.\")"
   }
 ]

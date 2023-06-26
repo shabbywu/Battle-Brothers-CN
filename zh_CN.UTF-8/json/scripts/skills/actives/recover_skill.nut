@@ -20,6 +20,7 @@
     "key": "Current Fatigue is reduced by half",
     "original": "Current Fatigue is reduced by half",
     "translation": "当前累积的疲劳值减半",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Current Fatigue is reduced by half'"
   }
 ]

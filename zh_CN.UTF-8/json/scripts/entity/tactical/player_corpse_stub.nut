@@ -5,7 +5,7 @@
     "original": " daily",
     "translation": " /日",
     "stage": 5,
-    "context": "'Paid [img]gfx/ui/tooltips/money.png[/img]' + this.m.DailyCost + ' daily'"
+    "context": "'text' = 'Paid [img]gfx/ui/tooltips/money.png[/img]' + this.m.DailyCost + ' daily'"
   },
   {
     "ID": 293410489,
@@ -21,7 +21,7 @@
     "original": "Level ",
     "translation": "等级",
     "stage": 5,
-    "context": "'Level ' + this.m.Level"
+    "context": "'text' = 'Level ' + this.m.Level"
   },
   {
     "ID": 293410491,
@@ -53,7 +53,7 @@
     "original": "Paid [img]gfx/ui/tooltips/money.png[/img]",
     "translation": "薪资: [img]gfx/ui/tooltips/money.png[/img]",
     "stage": 5,
-    "context": "'Paid [img]gfx/ui/tooltips/money.png[/img]' + this.m.DailyCost + ' daily'"
+    "context": "'text' = 'Paid [img]gfx/ui/tooltips/money.png[/img]' + this.m.DailyCost + ' daily'"
   },
   {
     "ID": 293410495,

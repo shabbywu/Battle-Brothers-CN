@@ -4,7 +4,8 @@
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421662,
@@ -28,7 +29,7 @@
     "original": "Attacks have an additional [color=",
     "translation": "攻击增加[color=",
     "stage": 1,
-    "context": "'Attacks have an additional [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] effectiveness against armor'"
+    "context": "'text' = 'Attacks have an additional [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] effectiveness against armor'"
   },
   {
     "ID": 293421665,
@@ -36,6 +37,6 @@
     "original": "]+10%[/color] effectiveness against armor",
     "translation": "]+10%[/color]护甲有效性",
     "stage": 1,
-    "context": "'Attacks have an additional [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] effectiveness against armor'"
+    "context": "'text' = 'Attacks have an additional [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] effectiveness against armor'"
   }
 ]

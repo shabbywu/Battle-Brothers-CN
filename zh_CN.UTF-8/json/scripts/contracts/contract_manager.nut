@@ -5,7 +5,7 @@
     "original": "contract activated: ",
     "translation": "合同已激活：",
     "stage": 1,
-    "context": "'contract activated: ' + _contract.getName() + ' (id: ' + _contract.getID() + ')'"
+    "context": "this.logInfo('contract activated: ' + _contract.getName() + ' (id: ' + _contract.getID() + ')')"
   },
   {
     "ID": 293407762,
@@ -13,7 +13,7 @@
     "original": " (id: ",
     "translation": " (id: ",
     "stage": 1,
-    "context": "'contract activated: ' + _contract.getName() + ' (id: ' + _contract.getID() + ')'"
+    "context": "this.logInfo('showing contract: ' + _c.getName() + ' (id: ' + _c.getID() + ')')"
   },
   {
     "ID": 293407763,
@@ -21,7 +21,7 @@
     "original": "contract removed: ",
     "translation": "合同已解除：",
     "stage": 1,
-    "context": "'contract removed: ' + this.m.Open.i.getID()"
+    "context": "this.logInfo('contract removed: ' + this.m.Open[i].getID())"
   },
   {
     "ID": 293407764,
@@ -29,7 +29,7 @@
     "original": "showing contract: ",
     "translation": "展示合约：",
     "stage": 1,
-    "context": "'showing contract: ' + _c.getName() + ' (id: ' + _c.getID() + ')'"
+    "context": "this.logInfo('showing contract: ' + _c.getName() + ' (id: ' + _c.getID() + ')')"
   },
   {
     "ID": 293407765,
@@ -37,6 +37,6 @@
     "original": "contract added: ",
     "translation": "添加合同：",
     "stage": 1,
-    "context": "'contract added: ' + _contract.getName()"
+    "context": "this.logDebug('contract added: ' + _contract.getName())"
   }
 ]

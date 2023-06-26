@@ -5,7 +5,7 @@
     "original": " points",
     "translation": " 点",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + this.Math.min(actor.getHitpointsMax() - actor.getHitpoints(), hitpointsHealed) + ' points'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + this.Math.min(actor.getHitpointsMax() - actor.getHitpoints(), hitpointsHealed) + ' points')"
   },
   {
     "ID": 293421617,
@@ -20,7 +20,8 @@
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421619,
@@ -36,7 +37,7 @@
     "original": "Heal [color=",
     "translation": "治疗 [color=",
     "stage": 1,
-    "context": "'Heal [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] of hitpoint damage inflicted on adjacent enemies that have blood'"
+    "context": "'text' = 'Heal [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] of hitpoint damage inflicted on adjacent enemies that have blood'"
   },
   {
     "ID": 293421621,
@@ -44,7 +45,7 @@
     "original": " heals for ",
     "translation": " 治疗生命值 ",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + this.Math.min(actor.getHitpointsMax() - actor.getHitpoints(), hitpointsHealed) + ' points'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + this.Math.min(actor.getHitpointsMax() - actor.getHitpoints(), hitpointsHealed) + ' points')"
   },
   {
     "ID": 293421622,
@@ -52,6 +53,6 @@
     "original": "]25%[/color] of hitpoint damage inflicted on adjacent enemies that have blood",
     "translation": "]25%[/color]对于有血液的邻近敌人造成的生命值伤害",
     "stage": 1,
-    "context": "'Heal [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] of hitpoint damage inflicted on adjacent enemies that have blood'"
+    "context": "'text' = 'Heal [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] of hitpoint damage inflicted on adjacent enemies that have blood'"
   }
 ]

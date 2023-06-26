@@ -5,7 +5,7 @@
     "original": " charges and is repelled",
     "translation": "发起冲锋但被逼退了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_entity) + ' charges and is repelled'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_entity) + ' charges and is repelled')"
   },
   {
     "ID": 293419850,
@@ -13,7 +13,7 @@
     "original": " charges and stuns ",
     "translation": "发起冲锋并击晕了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_entity) + ' charges and stuns ' + this.Const.UI.getColorizedEntityName(victim)"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_entity) + ' charges and stuns ' + this.Const.UI.getColorizedEntityName(victim))"
   },
   {
     "ID": 293419851,
@@ -29,6 +29,6 @@
     "original": " charges",
     "translation": "发起冲锋",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_entity) + ' charges'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_entity) + ' charges')"
   }
 ]

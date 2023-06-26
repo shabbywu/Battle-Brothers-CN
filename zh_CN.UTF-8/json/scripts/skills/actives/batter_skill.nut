@@ -13,7 +13,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
     "ID": 293419813,
@@ -21,7 +21,7 @@
     "original": "[/color] damage to hitpoints, regardless of armor",
     "translation": "[/color]无视护甲的生命值伤害",
     "stage": 5,
-    "context": "'Always inflicts at least [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] damage to hitpoints, regardless of armor'"
+    "context": "'text' = 'Always inflicts at least [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] damage to hitpoints, regardless of armor'"
   },
   {
     "ID": 293419814,
@@ -29,7 +29,7 @@
     "original": "Has a range of [color=",
     "translation": "攻击范围为 [color=",
     "stage": 5,
-    "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
+    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
   },
   {
     "ID": 293419815,
@@ -37,7 +37,7 @@
     "original": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
     "translation": "]-15%[/color]攻击近身敌人的命中惩罚，因为武器过于笨重",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
     "ID": 293419816,
@@ -61,7 +61,7 @@
     "original": "Always inflicts at least [color=",
     "translation": "总是至少造成[color=",
     "stage": 5,
-    "context": "'Always inflicts at least [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] damage to hitpoints, regardless of armor'"
+    "context": "'text' = 'Always inflicts at least [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] damage to hitpoints, regardless of armor'"
   },
   {
     "ID": 293419819,
@@ -69,6 +69,6 @@
     "original": "[/color] tiles",
     "translation": "[/color] 格",
     "stage": 5,
-    "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
+    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
   }
 ]

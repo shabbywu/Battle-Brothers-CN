@@ -4,42 +4,48 @@
     "key": "the Prisoner",
     "original": "the Prisoner",
     "translation": "囚犯(the Prisoner)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Prisoner'"
   },
   {
     "ID": 293421277,
     "key": "the Kidnapped",
     "original": "the Kidnapped",
     "translation": "被劫持者(the Kidnapped)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Kidnapped'"
   },
   {
     "ID": 293421278,
     "key": "No morale check triggered for non-indebted allies upon dying",
     "original": "No morale check triggered for non-indebted allies upon dying",
     "translation": "非负债者盟友死亡时不会触发士气检查",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'No morale check triggered for non-indebted allies upon dying'"
   },
   {
     "ID": 293421279,
     "key": "the Unfree",
     "original": "the Unfree",
     "translation": "不自由者(the Unfree)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Unfree'"
   },
   {
     "ID": 293421280,
     "key": "Is always content with being in reserve",
     "original": "Is always content with being in reserve",
     "translation": "总是满足于充当后备",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Is always content with being in reserve'"
   },
   {
     "ID": 293421281,
     "key": "the Pale",
     "original": "the Pale",
     "translation": "苍白者(the Pale)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Pale'"
   },
   {
     "ID": 293421282,
@@ -62,14 +68,16 @@
     "key": "the Captive",
     "original": "the Captive",
     "translation": "俘虏(the Captive)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Captive'"
   },
   {
     "ID": 293421285,
     "key": "the Northerner",
     "original": "the Northerner",
     "translation": "北方人(the Northerner)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Northerner'"
   },
   {
     "ID": 293421286,
@@ -92,7 +100,8 @@
     "key": "the Indebted",
     "original": "the Indebted",
     "translation": "负债者(the Indebted)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Indebted'"
   },
   {
     "ID": 293421289,
@@ -107,34 +116,39 @@
     "key": "the Restrained",
     "original": "the Restrained",
     "translation": "被压制者(The Restrained)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Restrained'"
   },
   {
     "ID": 293421291,
     "key": "the Unlucky",
     "original": "the Unlucky",
     "translation": "坏运气(the Unlucky)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Unlucky'"
   },
   {
     "ID": 293421292,
     "key": "the Shackled",
     "original": "the Shackled",
     "translation": "被束缚者(the Shackled)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Shackled'"
   },
   {
     "ID": 293421293,
     "key": "the Enslaved",
     "original": "the Enslaved",
     "translation": "受奴役者(the Enslaved)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Enslaved'"
   },
   {
     "ID": 293421294,
     "key": "the Bound",
     "original": "the Bound",
     "translation": "被束缚者(the Bound)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Bound'"
   }
 ]

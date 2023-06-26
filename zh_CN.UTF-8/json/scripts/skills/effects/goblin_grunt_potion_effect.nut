@@ -12,7 +12,8 @@
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421494,
@@ -20,7 +21,7 @@
     "original": "The Action Point costs of the Rotation and Footwork skills are reduced to [color=",
     "translation": "换位和步法技能的行动点消耗降低至  [color=",
     "stage": 1,
-    "context": "'The Action Point costs of the Rotation and Footwork skills are reduced to [color=' + this.Const.UI.Color.PositiveValue + ']2[/color]'"
+    "context": "'text' = 'The Action Point costs of the Rotation and Footwork skills are reduced to [color=' + this.Const.UI.Color.PositiveValue + ']2[/color]'"
   },
   {
     "ID": 293421495,
@@ -28,7 +29,7 @@
     "original": "The Fatigue costs of the Rotation and Footwork skills are reduced by [color=",
     "translation": "换位和步法技能的疲劳值产生量降低  [color=",
     "stage": 1,
-    "context": "'The Fatigue costs of the Rotation and Footwork skills are reduced by [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color]'"
+    "context": "'text' = 'The Fatigue costs of the Rotation and Footwork skills are reduced by [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color]'"
   },
   {
     "ID": 293421496,

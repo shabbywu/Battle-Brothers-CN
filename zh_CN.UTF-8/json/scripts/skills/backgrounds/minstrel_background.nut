@@ -4,7 +4,8 @@
     "key": "the Skjald",
     "original": "the Skjald",
     "translation": "诗人(the Skjald)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Skjald'"
   },
   {
     "ID": 293421135,
@@ -19,14 +20,16 @@
     "key": "Songbird",
     "original": "Songbird",
     "translation": "松鸟(Songbird)",
-    "stage": 1
+    "stage": 1,
+    "context": "'Songbird'"
   },
   {
     "ID": 293421137,
     "key": "the Troubadour",
     "original": "the Troubadour",
     "translation": "游吟诗人(the Troubadour)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Troubadour'"
   },
   {
     "ID": 293421138,
@@ -41,14 +44,16 @@
     "key": "the Chorine",
     "original": "the Chorine",
     "translation": "歌女(the Chorine)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Chorine'"
   },
   {
     "ID": 293421140,
     "key": "the Bard",
     "original": "the Bard",
     "translation": "吟游诗人",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Bard'"
   },
   {
     "ID": 293421141,
@@ -71,7 +76,8 @@
     "key": "the Poet",
     "original": "the Poet",
     "translation": "诗人",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Poet'"
   },
   {
     "ID": 293421144,
@@ -86,13 +92,15 @@
     "key": "the Minstrel",
     "original": "the Minstrel",
     "translation": "吟游诗人(the Minstrel)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Minstrel'"
   },
   {
     "ID": 293421146,
     "key": "the Lover",
     "original": "the Lover",
     "translation": "情人(the Lover)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Lover'"
   }
 ]

@@ -5,7 +5,7 @@
     "original": "%name% found you upon the road. He stated that he knew you were a mercenary captain. You wore but ordinary cloth at that moment, but he said by Davkul's darkness you had an aura of wanted black about you.",
     "translation": "%name%在路上发现了你。他说他知道你是个雇佣兵队长。那时候你穿的是普通的衣服，但他说，借着达库尔的黑暗，你身上有一种被通缉的黑色气息。",
     "stage": 5,
-    "context": "bros.1.getBackground().m.RawDescription = \"%name% found you upon the road. He stated that he knew you were a mercenary captain. You wore but ordinary cloth at that moment, but he said by Davkul's darkness you had an aura of wanted black about you.\""
+    "context": "bros[1].getBackground().m.RawDescription = \"%name% found you upon the road. He stated that he knew you were a mercenary captain. You wore but ordinary cloth at that moment, but he said by Davkul's darkness you had an aura of wanted black about you.\""
   },
   {
     "ID": 293419655,
@@ -29,7 +29,7 @@
     "original": "A quiet man, %name% has shadows beneath his fingerprints, running like the brine beneath a pallid shore. When he shook your hand, it was as though you could hear the hissing of your sanity.",
     "translation": "一个安静的人，%name%的指印下有阴影，像苍白海岸下的咸水一样流动。当他和你握手时，你仿佛能听到你的理智在嘶嘶作响。",
     "stage": 5,
-    "context": "bros.2.getBackground().m.RawDescription = 'A quiet man, %name% has shadows beneath his fingerprints, running like the brine beneath a pallid shore. When he shook your hand, it was as though you could hear the hissing of your sanity.'"
+    "context": "bros[2].getBackground().m.RawDescription = 'A quiet man, %name% has shadows beneath his fingerprints, running like the brine beneath a pallid shore. When he shook your hand, it was as though you could hear the hissing of your sanity.'"
   },
   {
     "ID": 293419658,
@@ -37,7 +37,7 @@
     "original": "When %name% joined, he warmly called you captain, saying \"tis a proper manner to pursue the path into the black from whence we came\".",
     "translation": "当%name%加入时，他热情地称你为队长，说：“这是一种从黑暗中追求我们来时道路的正确方式。”",
     "stage": 5,
-    "context": "bros.0.getBackground().m.RawDescription = 'When %name% joined, he warmly called you captain, saying \"tis a proper manner to pursue the path into the black from whence we came\".'"
+    "context": "bros[0].getBackground().m.RawDescription = 'When %name% joined, he warmly called you captain, saying \"tis a proper manner to pursue the path into the black from whence we came\".'"
   },
   {
     "ID": 293419659,
@@ -45,6 +45,6 @@
     "original": "%name% banded with you outside a tavern. The first time you saw him he had scars running up his arms and across veins that would imply he should not still be living. But each morning it appears as though his scars move, slowly creeping in one direction: toward his forehead.",
     "translation": "%name%在一家酒馆外与你结上了伴。你第一次见到他的时候，他手臂上有一条跨越静脉的伤疤，这意味着他不应该还活着。但每天早晨那伤疤似乎都有移动过，蠕向一个方向：他的额头。",
     "stage": 5,
-    "context": "bros.3.getBackground().m.RawDescription = '%name% banded with you outside a tavern. The first time you saw him he had scars running up his arms and across veins that would imply he should not still be living. But each morning it appears as though his scars move, slowly creeping in one direction: toward his forehead.'"
+    "context": "bros[3].getBackground().m.RawDescription = '%name% banded with you outside a tavern. The first time you saw him he had scars running up his arms and across veins that would imply he should not still be living. But each morning it appears as though his scars move, slowly creeping in one direction: toward his forehead.'"
   }
 ]

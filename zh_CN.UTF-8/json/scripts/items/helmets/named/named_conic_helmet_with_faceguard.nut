@@ -4,14 +4,16 @@
     "key": "Conic Feathered Helmet",
     "original": "Conic Feathered Helmet",
     "translation": "圆锥形羽毛头盔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Conic Feathered Helmet'"
   },
   {
     "ID": 293418173,
     "key": "Iron Visage",
     "original": "Iron Visage",
     "translation": "铁面",
-    "stage": 1
+    "stage": 1,
+    "context": "'Iron Visage'"
   },
   {
     "ID": 293418174,
@@ -26,20 +28,23 @@
     "key": "Steel Countenance",
     "original": "Steel Countenance",
     "translation": "钢制面",
-    "stage": 1
+    "stage": 1,
+    "context": "'Steel Countenance'"
   },
   {
     "ID": 293418176,
     "key": "Iron Mask",
     "original": "Iron Mask",
     "translation": "铁面具",
-    "stage": 1
+    "stage": 1,
+    "context": "'Iron Mask'"
   },
   {
     "ID": 293418177,
     "key": "Warlord's Helm",
     "original": "Warlord's Helm",
     "translation": "军阀的头盔",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Warlord's Helm\""
   }
 ]

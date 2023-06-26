@@ -21,13 +21,14 @@
     "original": "]+4[/color] Fatigue Recovery per turn",
     "translation": "]+4[/color] 每回合疲劳值恢复量",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+4[/color] Fatigue Recovery per turn'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+4[/color] Fatigue Recovery per turn'"
   },
   {
     "ID": 293421692,
     "key": "Will be gone after 1 more battle",
     "original": "Will be gone after 1 more battle",
     "translation": "会在1场战斗之后消失",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Will be gone after 1 more battle'"
   }
 ]

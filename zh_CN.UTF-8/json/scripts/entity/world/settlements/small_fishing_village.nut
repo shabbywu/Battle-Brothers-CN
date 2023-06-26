@@ -4,14 +4,16 @@
     "key": "Egernsande",
     "original": "Egernsande",
     "translation": "埃格恩桑德",
-    "stage": 1
+    "stage": 1,
+    "context": "'Egernsande'"
   },
   {
     "ID": 293412043,
     "key": "Otterndorf",
     "original": "Otterndorf",
     "translation": "奥特恩多夫",
-    "stage": 1
+    "stage": 1,
+    "context": "'Otterndorf'"
   },
   {
     "ID": 293412044,
@@ -26,119 +28,136 @@
     "key": "Sanddorf",
     "original": "Sanddorf",
     "translation": "桑德多夫",
-    "stage": 1
+    "stage": 1,
+    "context": "'Sanddorf'"
   },
   {
     "ID": 293412046,
     "key": "Sandwik",
     "original": "Sandwik",
     "translation": "桑维克",
-    "stage": 5
+    "stage": 5,
+    "context": "'Sandwik'"
   },
   {
     "ID": 293412047,
     "key": "Seekamp",
     "original": "Seekamp",
     "translation": "塞坎普",
-    "stage": 1
+    "stage": 1,
+    "context": "'Seekamp'"
   },
   {
     "ID": 293412048,
     "key": "Niewik",
     "original": "Niewik",
     "translation": "尼维克",
-    "stage": 5
+    "stage": 5,
+    "context": "'Niewik'"
   },
   {
     "ID": 293412049,
     "key": "Angeln",
     "original": "Angeln",
     "translation": "安格尔恩",
-    "stage": 1
+    "stage": 1,
+    "context": "'Angeln'"
   },
   {
     "ID": 293412050,
     "key": "Seedeich",
     "original": "Seedeich",
     "translation": "堤防",
-    "stage": 1
+    "stage": 1,
+    "context": "'Seedeich'"
   },
   {
     "ID": 293412051,
     "key": "Birkenstrand",
     "original": "Birkenstrand",
     "translation": "伯肯斯特兰德",
-    "stage": 1
+    "stage": 1,
+    "context": "'Birkenstrand'"
   },
   {
     "ID": 293412052,
     "key": "Harkensee",
     "original": "Harkensee",
     "translation": "哈肯西",
-    "stage": 1
+    "stage": 1,
+    "context": "'Harkensee'"
   },
   {
     "ID": 293412053,
     "key": "Gothmund",
     "original": "Gothmund",
     "translation": "哥特蒙德",
-    "stage": 1
+    "stage": 1,
+    "context": "'Gothmund'"
   },
   {
     "ID": 293412054,
     "key": "Jadensee",
     "original": "Jadensee",
     "translation": "贾登湖",
-    "stage": 1
+    "stage": 1,
+    "context": "'Jadensee'"
   },
   {
     "ID": 293412055,
     "key": "Hattlund",
     "original": "Hattlund",
     "translation": "哈特伦德",
-    "stage": 1
+    "stage": 1,
+    "context": "'Hattlund'"
   },
   {
     "ID": 293412056,
     "key": "Krakendorf",
     "original": "Krakendorf",
     "translation": "克拉肯多夫",
-    "stage": 1
+    "stage": 1,
+    "context": "'Krakendorf'"
   },
   {
     "ID": 293412057,
     "key": "Nebelheim",
     "original": "Nebelheim",
     "translation": "尼贝尔海姆",
-    "stage": 1
+    "stage": 1,
+    "context": "'Nebelheim'"
   },
   {
     "ID": 293412058,
     "key": "Sandberg",
     "original": "Sandberg",
     "translation": "沙丘",
-    "stage": 5
+    "stage": 5,
+    "context": "'Sandberg'"
   },
   {
     "ID": 293412059,
     "key": "Holmwik",
     "original": "Holmwik",
     "translation": "霍尔姆维克",
-    "stage": 5
+    "stage": 5,
+    "context": "'Holmwik'"
   },
   {
     "ID": 293412060,
     "key": "Sandholm",
     "original": "Sandholm",
     "translation": "桑德霍尔姆",
-    "stage": 1
+    "stage": 1,
+    "context": "'Sandholm'"
   },
   {
     "ID": 293412061,
     "key": "Seefeld",
     "original": "Seefeld",
     "translation": "塞费尔德",
-    "stage": 1
+    "stage": 1,
+    "context": "'Seefeld'"
   },
   {
     "ID": 293412062,
@@ -153,70 +172,80 @@
     "key": "Aalbek",
     "original": "Aalbek",
     "translation": "阿尔贝克",
-    "stage": 1
+    "stage": 1,
+    "context": "'Aalbek'"
   },
   {
     "ID": 293412064,
     "key": "Blankwasser",
     "original": "Blankwasser",
     "translation": "白水村",
-    "stage": 5
+    "stage": 5,
+    "context": "'Blankwasser'"
   },
   {
     "ID": 293412065,
     "key": "Holnis",
     "original": "Holnis",
     "translation": "霍尔尼斯",
-    "stage": 1
+    "stage": 1,
+    "context": "'Holnis'"
   },
   {
     "ID": 293412066,
     "key": "Seedorf",
     "original": "Seedorf",
     "translation": "塞多夫",
-    "stage": 1
+    "stage": 1,
+    "context": "'Seedorf'"
   },
   {
     "ID": 293412067,
     "key": "Sandkamp",
     "original": "Sandkamp",
     "translation": "桑德坎普",
-    "stage": 1
+    "stage": 1,
+    "context": "'Sandkamp'"
   },
   {
     "ID": 293412068,
     "key": "Kielseng",
     "original": "Kielseng",
     "translation": "基尔森",
-    "stage": 1
+    "stage": 1,
+    "context": "'Kielseng'"
   },
   {
     "ID": 293412069,
     "key": "Stohl",
     "original": "Stohl",
     "translation": "斯托尔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Stohl'"
   },
   {
     "ID": 293412070,
     "key": "Strande",
     "original": "Strande",
     "translation": "海滨村",
-    "stage": 5
+    "stage": 5,
+    "context": "'Strande'"
   },
   {
     "ID": 293412071,
     "key": "Horum",
     "original": "Horum",
     "translation": "霍拉姆",
-    "stage": 1
+    "stage": 1,
+    "context": "'Horum'"
   },
   {
     "ID": 293412072,
     "key": "Sudersande",
     "original": "Sudersande",
     "translation": "苏德桑德",
-    "stage": 1
+    "stage": 1,
+    "context": "'Sudersande'"
   },
   {
     "ID": 293412073,
@@ -231,27 +260,31 @@
     "key": "Grossenkoog",
     "original": "Grossenkoog",
     "translation": "格罗森科格",
-    "stage": 1
+    "stage": 1,
+    "context": "'Grossenkoog'"
   },
   {
     "ID": 293412075,
     "key": "Meierwik",
     "original": "Meierwik",
     "translation": "迈尔维克",
-    "stage": 5
+    "stage": 5,
+    "context": "'Meierwik'"
   },
   {
     "ID": 293412076,
     "key": "Krumhorn",
     "original": "Krumhorn",
     "translation": "克鲁姆角",
-    "stage": 1
+    "stage": 1,
+    "context": "'Krumhorn'"
   },
   {
     "ID": 293412077,
     "key": "Sundheim",
     "original": "Sundheim",
     "translation": "桑德海姆",
-    "stage": 1
+    "stage": 1,
+    "context": "'Sundheim'"
   }
 ]

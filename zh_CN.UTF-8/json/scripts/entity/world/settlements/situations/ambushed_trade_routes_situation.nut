@@ -12,7 +12,8 @@
     "key": "If you have any valuables on you, stay away from %settlement%. The place is scourged by cutthroats, bandits and highwaymen!",
     "original": "If you have any valuables on you, stay away from %settlement%. The place is scourged by cutthroats, bandits and highwaymen!",
     "translation": "如果你身上有贵重物品，请远离%settlement%。那个地方到处都是割喉着、土匪和路霸！",
-    "stage": 5
+    "stage": 5,
+    "context": "'If you have any valuables on you, stay away from %settlement%. The place is scourged by cutthroats, bandits and highwaymen!'"
   },
   {
     "ID": 293411657,
@@ -35,14 +36,16 @@
     "key": "Brigands and raiders are the bane of us traveling merchants! An old friend of mine got ambushed, robbed and beaten just outside of %settlement%!",
     "original": "Brigands and raiders are the bane of us traveling merchants! An old friend of mine got ambushed, robbed and beaten just outside of %settlement%!",
     "translation": "强盗和掠夺者是我们旅行商人的祸根！我的一个老朋友就在%settlement%外遭到伏击、抢劫和殴打！",
-    "stage": 5
+    "stage": 5,
+    "context": "'Brigands and raiders are the bane of us traveling merchants! An old friend of mine got ambushed, robbed and beaten just outside of %settlement%!'"
   },
   {
     "ID": 293411660,
     "key": "The guardsmen are doing what they can, but these brigands just move on to the next town and waylay traders on the road. They're said to lurk around %settlement% now!",
     "original": "The guardsmen are doing what they can, but these brigands just move on to the next town and waylay traders on the road. They're said to lurk around %settlement% now!",
     "translation": "守卫们正在尽他们所能，但这些强盗只是转移到下一个城镇，在路上拦截商人。据说他们现在就潜伏在%settlement%附近！",
-    "stage": 5
+    "stage": 5,
+    "context": "\"The guardsmen are doing what they can, but these brigands just move on to the next town and waylay traders on the road. They're said to lurk around %settlement% now!\""
   },
   {
     "ID": 293411661,

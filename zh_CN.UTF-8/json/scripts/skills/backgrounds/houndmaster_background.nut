@@ -4,7 +4,8 @@
     "key": "Wardogs unleashed by this character will start at confident morale.",
     "original": "Wardogs unleashed by this character will start at confident morale.",
     "translation": "这个角色释放的战犬将以自信的士气开始。",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Wardogs unleashed by this character will start at confident morale.'"
   },
   {
     "ID": 293421028,
@@ -19,7 +20,8 @@
     "key": "the Dogkeeper",
     "original": "the Dogkeeper",
     "translation": "看狗人(the Dogkeeper)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Dogkeeper'"
   },
   {
     "ID": 293421030,
@@ -34,7 +36,8 @@
     "key": "the Houndmaster",
     "original": "the Houndmaster",
     "translation": "训犬师(the Houndmaster)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Houndmaster'"
   },
   {
     "ID": 293421032,
@@ -57,7 +60,8 @@
     "key": "the Kennelmaster",
     "original": "the Kennelmaster",
     "translation": "养犬师(the Kennelmaster)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Kennelmaster'"
   },
   {
     "ID": 293421035,

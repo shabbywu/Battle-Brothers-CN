@@ -4,7 +4,8 @@
     "key": "the Kingsguard",
     "original": "the Kingsguard",
     "translation": "国王护卫(the Kingsguard)",
-    "stage": 1
+    "stage": 1,
+    "context": "actor.setTitle('the Kingsguard')"
   },
   {
     "ID": 293421070,
