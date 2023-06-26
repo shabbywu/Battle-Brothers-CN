@@ -4,7 +4,8 @@
     "key": "Have allied relations with a noble house or city state",
     "original": "Have allied relations with a noble house or city state",
     "translation": "与贵族家族或城邦达到同盟关系",
-    "stage": 1
+    "stage": 1,
+    "context": "'Text' = 'Have allied relations with a noble house or city state'"
   },
   {
     "ID": 293419541,
@@ -19,7 +20,8 @@
     "key": "Reveals available contracts and active situations in the tooltip of settlements no matter where you are",
     "original": "Reveals available contracts and active situations in the tooltip of settlements no matter where you are",
     "translation": "在定居点提示栏中显示可用的合同和活动情况，无论你在哪里",
-    "stage": 1
+    "stage": 1,
+    "context": "'Reveals available contracts and active situations in the tooltip of settlements no matter where you are'"
   },
   {
     "ID": 293419543,

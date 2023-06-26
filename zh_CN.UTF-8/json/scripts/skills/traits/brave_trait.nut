@@ -4,7 +4,8 @@
     "key": "the Hero",
     "original": "the Hero",
     "translation": "英雄(the Hero)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Hero'"
   },
   {
     "ID": 293422371,
@@ -12,14 +13,15 @@
     "original": "]+5[/color] Resolve",
     "translation": "]+5[/color] 决心",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Resolve'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Resolve'"
   },
   {
     "ID": 293422372,
     "key": "the Brave",
     "original": "the Brave",
     "translation": "勇士(the Brave)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Brave'"
   },
   {
     "ID": 293422373,

@@ -4,21 +4,24 @@
     "key": "the Spineless",
     "original": "the Spineless",
     "translation": "没骨气(the Spineless)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Spineless'"
   },
   {
     "ID": 293422405,
     "key": "Is always content with being in reserve",
     "original": "Is always content with being in reserve",
     "translation": "总是满足于充当后备",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Is always content with being in reserve'"
   },
   {
     "ID": 293422406,
     "key": "the Coward",
     "original": "the Coward",
     "translation": "胆小鬼(the Coward)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Coward'"
   },
   {
     "ID": 293422407,
@@ -42,20 +45,22 @@
     "original": "]-10[/color] Resolve",
     "translation": "]-10[/color] 决心",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve'"
   },
   {
     "ID": 293422410,
     "key": "the Craven",
     "original": "the Craven",
     "translation": "懦夫(the Craven)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Craven'"
   },
   {
     "ID": 293422411,
     "key": "Turncoat",
     "original": "Turncoat",
     "translation": "变节者(Turncoat)",
-    "stage": 5
+    "stage": 5,
+    "context": "'Turncoat'"
   }
 ]

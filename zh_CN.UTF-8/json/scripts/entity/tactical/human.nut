@@ -13,6 +13,6 @@
     "original": "grey",
     "translation": "grey",
     "stage": 1,
-    "context": "this.m.Ethnicity == 1 && hairColor != 'grey'"
+    "context": "hairColor != 'grey'"
   }
 ]

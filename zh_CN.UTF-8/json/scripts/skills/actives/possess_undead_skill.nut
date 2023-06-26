@@ -13,6 +13,6 @@
     "original": " possesses ",
     "translation": "支配了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' possesses ' + this.Const.UI.getColorizedEntityName(target)"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' possesses ' + this.Const.UI.getColorizedEntityName(target))"
   }
 ]

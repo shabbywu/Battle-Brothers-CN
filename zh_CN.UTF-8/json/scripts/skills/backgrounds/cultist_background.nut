@@ -4,28 +4,32 @@
     "key": "the Odd",
     "original": "the Odd",
     "translation": "怪人(the Odd)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Odd'"
   },
   {
     "ID": 293420906,
     "key": "the Lost",
     "original": "the Lost",
     "translation": "迷失者(the Lost)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Lost'"
   },
   {
     "ID": 293420907,
     "key": "the Misguided",
     "original": "the Misguided",
     "translation": "歧途者(the Misguided)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Misguided'"
   },
   {
     "ID": 293420908,
     "key": "the Fanatic",
     "original": "the Fanatic",
     "translation": "狂热者(the Fanatic)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Fanatic'"
   },
   {
     "ID": 293420909,
@@ -48,14 +52,16 @@
     "key": "the Believer",
     "original": "the Believer",
     "translation": "信徒(the Believer)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Believer'"
   },
   {
     "ID": 293420912,
     "key": "the Occultist",
     "original": "the Occultist",
     "translation": "神秘学者(the Occultist)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Occultist'"
   },
   {
     "ID": 293420913,
@@ -78,28 +84,32 @@
     "key": "the Insane",
     "original": "the Insane",
     "translation": "疯狂者(the Insane)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Insane'"
   },
   {
     "ID": 293420916,
     "key": "the Cultist",
     "original": "the Cultist",
     "translation": "邪教徒(the Cultist)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Cultist'"
   },
   {
     "ID": 293420917,
     "key": "the Zealot",
     "original": "the Zealot",
     "translation": "狂信者(the Zealot)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Zealot'"
   },
   {
     "ID": 293420918,
     "key": "the Mad",
     "original": "the Mad",
     "translation": "疯子(the Mad)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Mad'"
   },
   {
     "ID": 293420919,
@@ -114,6 +124,7 @@
     "key": "the Follower",
     "original": "the Follower",
     "translation": "追随者(The Follower)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Follower'"
   }
 ]

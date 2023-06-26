@@ -12,6 +12,7 @@
     "key": "Entity cannot be attacked!",
     "original": "Entity cannot be attacked!",
     "translation": "对象不能被攻击！",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logError('Entity cannot be attacked!')"
   }
 ]

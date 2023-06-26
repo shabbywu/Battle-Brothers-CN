@@ -12,7 +12,8 @@
     "key": "Gains 5% damage reduction with every hit taken, up to a limit of 25%",
     "original": "Gains 5% damage reduction with every hit taken, up to a limit of 25%",
     "translation": "每次被击中获得5%的伤害减免，上限为25%",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Gains 5% damage reduction with every hit taken, up to a limit of 25%'"
   },
   {
     "ID": 293422526,
@@ -20,7 +21,7 @@
     "original": "%[/color] of any damage",
     "translation": "%[/color]",
     "stage": 5,
-    "context": "'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']' + 1.0 - this.m.DamageReduction * 100 + '%[/color] of any damage'"
+    "context": "'text' = 'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']' + 1.0 - this.m.DamageReduction * 100 + '%[/color] of any damage'"
   },
   {
     "ID": 293422527,
@@ -36,6 +37,6 @@
     "original": "Receives only [color=",
     "translation": "仅受到所有伤害的 [color=",
     "stage": 5,
-    "context": "'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']' + 1.0 - this.m.DamageReduction * 100 + '%[/color] of any damage'"
+    "context": "'text' = 'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']' + 1.0 - this.m.DamageReduction * 100 + '%[/color] of any damage'"
   }
 ]

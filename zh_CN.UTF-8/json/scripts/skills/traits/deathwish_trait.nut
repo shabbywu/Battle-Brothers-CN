@@ -4,7 +4,8 @@
     "key": "the Odd",
     "original": "the Odd",
     "translation": "怪人(the Odd)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Odd'"
   },
   {
     "ID": 293422462,
@@ -19,21 +20,24 @@
     "key": "the Fearless",
     "original": "the Fearless",
     "translation": "无畏者(the Fearless)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Fearless'"
   },
   {
     "ID": 293422464,
     "key": "the Mad",
     "original": "the Mad",
     "translation": "疯子(the Mad)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Mad'"
   },
   {
     "ID": 293422465,
     "key": "No morale check triggered upon losing hitpoints",
     "original": "No morale check triggered upon losing hitpoints",
     "translation": "失去生命值时不会触发士气检查",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'No morale check triggered upon losing hitpoints'"
   },
   {
     "ID": 293422466,

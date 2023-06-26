@@ -5,14 +5,15 @@
     "original": "]+10[/color] Resolve",
     "translation": "]+10[/color] 决心",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve'"
   },
   {
     "ID": 293422518,
     "key": "the Fearless",
     "original": "the Fearless",
     "translation": "无畏者(the Fearless)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Fearless'"
   },
   {
     "ID": 293422519,

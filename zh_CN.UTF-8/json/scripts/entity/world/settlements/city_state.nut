@@ -20,20 +20,23 @@
     "key": "ORIENTAL CITY #3",
     "original": "ORIENTAL CITY #3",
     "translation": "ORIENTAL CITY #3",
-    "stage": 9
+    "stage": 9,
+    "context": "'ORIENTAL CITY #3'"
   },
   {
     "ID": 293410730,
     "key": "ORIENTAL CITY #2",
     "original": "ORIENTAL CITY #2",
     "translation": "ORIENTAL CITY #2",
-    "stage": 9
+    "stage": 9,
+    "context": "'ORIENTAL CITY #2'"
   },
   {
     "ID": 293410731,
     "key": "ORIENTAL CITY #1",
     "original": "ORIENTAL CITY #1",
     "translation": "ORIENTAL CITY #1",
-    "stage": 9
+    "stage": 9,
+    "context": "'ORIENTAL CITY #1'"
   }
 ]

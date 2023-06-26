@@ -4,14 +4,16 @@
     "key": "Tribal Plate",
     "original": "Tribal Plate",
     "translation": "部落板甲",
-    "stage": 1
+    "stage": 1,
+    "context": "'Tribal Plate'"
   },
   {
     "ID": 293417768,
     "key": "Tainted Bulwark",
     "original": "Tainted Bulwark",
     "translation": "受污染的保障",
-    "stage": 1
+    "stage": 1,
+    "context": "'Tainted Bulwark'"
   },
   {
     "ID": 293417769,
@@ -26,13 +28,15 @@
     "key": "Alloy Plate Armor",
     "original": "Alloy Plate Armor",
     "translation": "合金板装甲",
-    "stage": 1
+    "stage": 1,
+    "context": "'Alloy Plate Armor'"
   },
   {
     "ID": 293417771,
     "key": "Tarnished Harness",
     "original": "Tarnished Harness",
     "translation": "失去光泽的甲胄",
-    "stage": 1
+    "stage": 1,
+    "context": "'Tarnished Harness'"
   }
 ]

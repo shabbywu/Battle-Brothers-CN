@@ -13,6 +13,6 @@
     "original": "Ruins of ",
     "translation": "废墟的",
     "stage": 1,
-    "context": "'Ruins of ' + _n"
+    "context": "this.world_entity.setName('Ruins of ' + _n)"
   }
 ]

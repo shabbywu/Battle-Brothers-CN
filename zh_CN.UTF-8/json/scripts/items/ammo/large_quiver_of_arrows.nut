@@ -5,7 +5,7 @@
     "original": "]Is empty and useless[/color]",
     "translation": "]已用尽，无用的[/color]",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Is empty and useless[/color]'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Is empty and useless[/color]'"
   },
   {
     "ID": 293417527,
@@ -21,7 +21,7 @@
     "original": "[/color] arrows",
     "translation": "[/color] 支箭",
     "stage": 5,
-    "context": "'Contains [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] arrows'"
+    "context": "'text' = 'Contains [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] arrows'"
   },
   {
     "ID": 293417529,
@@ -29,7 +29,7 @@
     "original": "Contains [color=",
     "translation": "含有 [color=",
     "stage": 5,
-    "context": "'Contains [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] arrows'"
+    "context": "'text' = 'Contains [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] arrows'"
   },
   {
     "ID": 293417530,

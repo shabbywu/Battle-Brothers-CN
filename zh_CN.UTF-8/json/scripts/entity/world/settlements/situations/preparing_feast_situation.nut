@@ -28,7 +28,8 @@
     "key": "The oh-so-noble highborns are preparing a feast at %settlement% while us peasants have but old grain to choke on...",
     "original": "The oh-so-noble highborns are preparing a feast at %settlement% while us peasants have but old grain to choke on...",
     "translation": "高贵的贵族们正在 %settlement% 准备一场盛宴，而我们农民却只有老粮可吃…",
-    "stage": 1
+    "stage": 1,
+    "context": "'The oh-so-noble highborns are preparing a feast at %settlement% while us peasants have but old grain to choke on...'"
   },
   {
     "ID": 293411816,
@@ -43,6 +44,7 @@
     "key": "My uncle is a servant at %settlement%, and he tells me that they're preparing a big feast. No point in going there unless you're invited, though.",
     "original": "My uncle is a servant at %settlement%, and he tells me that they're preparing a big feast. No point in going there unless you're invited, though.",
     "translation": "我叔叔是 %settlement% 的仆人，他告诉我他们正在准备一场盛大的宴会。不过，除非你被邀请，否则去那里没有意义。",
-    "stage": 1
+    "stage": 1,
+    "context": "\"My uncle is a servant at %settlement%, and he tells me that they're preparing a big feast. No point in going there unless you're invited, though.\""
   }
 ]

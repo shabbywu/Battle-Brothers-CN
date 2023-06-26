@@ -13,7 +13,7 @@
     "original": "/12 men",
     "translation": "/12名",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Recruited ' + this.Math.min(12, this.World.Statistics.getFlags().getAsInt('BrosHired')) + '/12 men'"
+    "context": "this.m.Requirements[0].Text = 'Recruited ' + this.Math.min(12, this.World.Statistics.getFlags().getAsInt('BrosHired')) + '/12 men'"
   },
   {
     "ID": 293419615,
@@ -28,7 +28,8 @@
     "key": "Makes you pay 10% less up front for hiring new men, and 50% less for tryouts",
     "original": "Makes you pay 10% less up front for hiring new men, and 50% less for tryouts",
     "translation": "让你在雇佣新人时少支付10%，测验费少50%",
-    "stage": 1
+    "stage": 1,
+    "context": "'Makes you pay 10% less up front for hiring new men, and 50% less for tryouts'"
   },
   {
     "ID": 293419617,
@@ -36,13 +37,14 @@
     "original": "Recruited ",
     "translation": "已招募",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Recruited ' + this.Math.min(12, this.World.Statistics.getFlags().getAsInt('BrosHired')) + '/12 men'"
+    "context": "this.m.Requirements[0].Text = 'Recruited ' + this.Math.min(12, this.World.Statistics.getFlags().getAsInt('BrosHired')) + '/12 men'"
   },
   {
     "ID": 293419618,
     "key": "Makes between 2 and 4 additional men available to recruit in every settlement",
     "original": "Makes between 2 and 4 additional men available to recruit in every settlement",
     "translation": "让每个定居点可以招募的新兵额外增加2到4人",
-    "stage": 1
+    "stage": 1,
+    "context": "'Makes between 2 and 4 additional men available to recruit in every settlement'"
   }
 ]

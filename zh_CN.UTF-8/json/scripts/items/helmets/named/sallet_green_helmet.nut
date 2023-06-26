@@ -4,21 +4,24 @@
     "key": "Open Sallet",
     "original": "Open Sallet",
     "translation": "开敞式轻盔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Open Sallet'"
   },
   {
     "ID": 293418235,
     "key": "Ribboned Sallet",
     "original": "Ribboned Sallet",
     "translation": "缎带轻盔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Ribboned Sallet'"
   },
   {
     "ID": 293418236,
     "key": "Decorated Sallet",
     "original": "Decorated Sallet",
     "translation": "装饰的轻盔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Decorated Sallet'"
   },
   {
     "ID": 293418237,
@@ -33,6 +36,7 @@
     "key": "Sallet with Mail",
     "original": "Sallet with Mail",
     "translation": "轻质链盔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Sallet with Mail'"
   }
 ]

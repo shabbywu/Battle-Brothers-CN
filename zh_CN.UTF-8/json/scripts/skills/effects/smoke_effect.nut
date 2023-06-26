@@ -5,14 +5,15 @@
     "original": "]+100%[/color] Ranged Defense",
     "translation": "]+100%[/color] 远程防御",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+100%[/color] Ranged Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+100%[/color] Ranged Defense'"
   },
   {
     "ID": 293421744,
     "key": "Not affected by Zones of Control",
     "original": "Not affected by Zones of Control",
     "translation": "不受控制区影响。",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Not affected by Zones of Control'"
   },
   {
     "ID": 293421745,
@@ -36,6 +37,6 @@
     "original": "]-50%[/color] Ranged Skill",
     "translation": "]-50%[/color] 远程技能",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Ranged Skill'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Ranged Skill'"
   }
 ]

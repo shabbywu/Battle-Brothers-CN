@@ -20,21 +20,24 @@
     "key": "the Disowned",
     "original": "the Disowned",
     "translation": "被断绝关系者(the Disowned)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Disowned'"
   },
   {
     "ID": 293420942,
     "key": "the Exiled",
     "original": "the Exiled",
     "translation": "流放者(the Exiled)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Exiled'"
   },
   {
     "ID": 293420943,
     "key": "the Disgraced",
     "original": "the Disgraced",
     "translation": "遭贬谪者(the Disgraced)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Disgraced'"
   },
   {
     "ID": 293420944,

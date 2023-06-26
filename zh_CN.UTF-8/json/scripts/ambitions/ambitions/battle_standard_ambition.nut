@@ -29,7 +29,7 @@
     "original": "]1,000[/color] Crowns",
     "translation": "]1,000[/color] 克朗",
     "stage": 5,
-    "context": "'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']1,000[/color] Crowns'"
+    "context": "'text' = 'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']1,000[/color] Crowns'"
   },
   {
     "ID": 293403310,
@@ -45,7 +45,7 @@
     "original": "You spend [color=",
     "translation": "你花费了 [color=",
     "stage": 5,
-    "context": "'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']1,000[/color] Crowns'"
+    "context": "'text' = 'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']1,000[/color] Crowns'"
   },
   {
     "ID": 293403312,
@@ -61,7 +61,7 @@
     "original": "You gain ",
     "translation": "你获得了",
     "stage": 5,
-    "context": "'You gain ' + this.Const.Strings.getArticle(item.getName()) + item.getName()"
+    "context": "'text' = 'You gain ' + this.Const.Strings.getArticle(item.getName()) + item.getName()"
   },
   {
     "ID": 293403314,

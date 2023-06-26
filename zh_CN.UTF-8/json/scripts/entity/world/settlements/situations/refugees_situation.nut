@@ -12,7 +12,8 @@
     "key": "The beggars, the downtrodden, the fugitives, they all have to go somewhere. A large group of them just arrived at %settlement% from what I heard.",
     "original": "The beggars, the downtrodden, the fugitives, they all have to go somewhere. A large group of them just arrived at %settlement% from what I heard.",
     "translation": "乞丐，被压迫者，逃犯，他们都得去某个地方。据我所知，他们一大群人刚到 %settlement%。",
-    "stage": 1
+    "stage": 1,
+    "context": "'The beggars, the downtrodden, the fugitives, they all have to go somewhere. A large group of them just arrived at %settlement% from what I heard.'"
   },
   {
     "ID": 293411847,
@@ -43,13 +44,15 @@
     "key": "From what I've heard, %settlement% is flooded with refugees nowadays. Those cowards should have stayed and fought for their home, I'd say!",
     "original": "From what I've heard, %settlement% is flooded with refugees nowadays. Those cowards should have stayed and fought for their home, I'd say!",
     "translation": "据我所知，%settlement% 现在到处都是难民。要我说，那些懦夫应该留下来为他们的家而战！",
-    "stage": 1
+    "stage": 1,
+    "context": "\"From what I've heard, %settlement% is flooded with refugees nowadays. Those cowards should have stayed and fought for their home, I'd say!\""
   },
   {
     "ID": 293411851,
     "key": "Come morning I'll head out to %settlement%. Word is a large group of refugees just arrived and I need more hands for my farm.",
     "original": "Come morning I'll head out to %settlement%. Word is a large group of refugees just arrived and I need more hands for my farm.",
     "translation": "早上好，我要去 %settlement%。听说有一大群难民刚到，我的农场需要更多的人手。",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Come morning I'll head out to %settlement%. Word is a large group of refugees just arrived and I need more hands for my farm.\""
   }
 ]

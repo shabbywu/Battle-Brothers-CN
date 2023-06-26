@@ -13,6 +13,6 @@
     "original": " uses Spirit Walk",
     "translation": "使用了灵魂漫步",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses Spirit Walk'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' uses Spirit Walk')"
   }
 ]

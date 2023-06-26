@@ -4,7 +4,8 @@
     "key": "the Quick",
     "original": "the Quick",
     "translation": "快人(the Quick)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Quick'"
   },
   {
     "ID": 293422719,
@@ -28,6 +29,6 @@
     "original": "]+10[/color] Initiative",
     "translation": "]+10[/color] 主动性",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Initiative'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Initiative'"
   }
 ]

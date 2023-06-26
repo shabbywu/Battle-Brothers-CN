@@ -5,7 +5,7 @@
     "original": "]Is empty and useless[/color]",
     "translation": "]已用尽，无用的[/color]",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Is empty and useless[/color]'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Is empty and useless[/color]'"
   },
   {
     "ID": 293417537,
@@ -29,7 +29,7 @@
     "original": "Contains powder for [color=",
     "translation": "含有火药 [color=",
     "stage": 5,
-    "context": "'Contains powder for [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] uses'"
+    "context": "'text' = 'Contains powder for [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] uses'"
   },
   {
     "ID": 293417540,
@@ -37,6 +37,6 @@
     "original": "[/color] uses",
     "translation": "[/color] 发",
     "stage": 5,
-    "context": "'Contains powder for [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] uses'"
+    "context": "'text' = 'Contains powder for [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] uses'"
   }
 ]

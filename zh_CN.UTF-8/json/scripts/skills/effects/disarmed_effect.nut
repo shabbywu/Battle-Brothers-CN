@@ -29,6 +29,6 @@
     "original": " quickly recovers from being disarmed thanks to his unnatural physiology",
     "translation": "非自然的生理功能帮助他快速从被缴械中恢复",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' quickly recovers from being disarmed thanks to his unnatural physiology'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' quickly recovers from being disarmed thanks to his unnatural physiology')"
   }
 ]

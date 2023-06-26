@@ -5,7 +5,7 @@
     "original": "Shield skills build up [color=",
     "translation": "盾牌技能消耗 [color=",
     "stage": 5,
-    "context": "'Shield skills build up [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.FatigueOnSkillUse + '[/color] more fatigue'"
+    "context": "'text' = 'Shield skills build up [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.FatigueOnSkillUse + '[/color] more fatigue'"
   },
   {
     "ID": 293418811,
@@ -13,7 +13,7 @@
     "original": "[/color] more fatigue",
     "translation": "[/color] 更多疲劳值",
     "stage": 5,
-    "context": "'Shield skills build up [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.FatigueOnSkillUse + '[/color] more fatigue'"
+    "context": "'text' = 'Shield skills build up [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.FatigueOnSkillUse + '[/color] more fatigue'"
   },
   {
     "ID": 293418812,
@@ -21,7 +21,7 @@
     "original": "[/color] less fatigue",
     "translation": "[/color] 更少疲劳值",
     "stage": 5,
-    "context": "'Shield skills build up [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.FatigueOnSkillUse + '[/color] less fatigue'"
+    "context": "'text' = 'Shield skills build up [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.FatigueOnSkillUse + '[/color] less fatigue'"
   },
   {
     "ID": 293418813,
@@ -29,7 +29,7 @@
     "original": "Maximum Fatigue [color=",
     "translation": "最大疲劳值 [color=",
     "stage": 5,
-    "context": "'Maximum Fatigue [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.StaminaModifier + '[/color]'"
+    "context": "'text' = 'Maximum Fatigue [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.StaminaModifier + '[/color]'"
   },
   {
     "ID": 293418814,
@@ -37,7 +37,7 @@
     "original": "]Broken and unusable[/color]",
     "translation": "]破损不能使用[/color]",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Broken and unusable[/color]'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Broken and unusable[/color]'"
   },
   {
     "ID": 293418815,
@@ -45,7 +45,7 @@
     "original": "Ranged Defense [color=",
     "translation": "远程防御 [color=",
     "stage": 5,
-    "context": "'Ranged Defense [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.m.RangedDefense + '[/color]'"
+    "context": "'text' = 'Ranged Defense [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.m.RangedDefense + '[/color]'"
   },
   {
     "ID": 293418816,
@@ -53,6 +53,6 @@
     "original": "Melee Defense [color=",
     "translation": "近战防御 [color=",
     "stage": 5,
-    "context": "'Melee Defense [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.m.MeleeDefense + '[/color]'"
+    "context": "'text' = 'Melee Defense [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.m.MeleeDefense + '[/color]'"
   }
 ]

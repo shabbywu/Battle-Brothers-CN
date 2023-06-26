@@ -13,7 +13,7 @@
     "original": " points",
     "translation": "点生命",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + this.Math.min(actor.getHitpointsMax() - actor.getHitpoints(), this.Math.round(_damageInflictedHitpoints * 1.0)) + ' points'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + this.Math.min(actor.getHitpointsMax() - actor.getHitpoints(), this.Math.round(_damageInflictedHitpoints * 1.0)) + ' points')"
   },
   {
     "ID": 293422169,
@@ -21,6 +21,6 @@
     "original": " heals for ",
     "translation": "恢复了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + this.Math.min(actor.getHitpointsMax() - actor.getHitpoints(), this.Math.round(_damageInflictedHitpoints * 1.0)) + ' points'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + this.Math.min(actor.getHitpointsMax() - actor.getHitpoints(), this.Math.round(_damageInflictedHitpoints * 1.0)) + ' points')"
   }
 ]

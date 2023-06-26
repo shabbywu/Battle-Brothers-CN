@@ -4,7 +4,8 @@
     "key": "the Ailing",
     "original": "the Ailing",
     "translation": "衰弱者(the Ailing)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Ailing'"
   },
   {
     "ID": 293422322,
@@ -20,21 +21,23 @@
     "original": "Poison effects last [color=",
     "translation": "中毒效果持续时间延长 [color=",
     "stage": 5,
-    "context": "'Poison effects last [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] additional turn'"
+    "context": "'text' = 'Poison effects last [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] additional turn'"
   },
   {
     "ID": 293422324,
     "key": "the Pale",
     "original": "the Pale",
     "translation": "苍白者(the Pale)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Pale'"
   },
   {
     "ID": 293422325,
     "key": "the Sickly",
     "original": "the Sickly",
     "translation": "病弱者(the Sickly)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Sickly'"
   },
   {
     "ID": 293422326,
@@ -42,7 +45,7 @@
     "original": "]1[/color] additional turn",
     "translation": "]1[/color] 额外回合",
     "stage": 5,
-    "context": "'Poison effects last [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] additional turn'"
+    "context": "'text' = 'Poison effects last [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] additional turn'"
   },
   {
     "ID": 293422327,

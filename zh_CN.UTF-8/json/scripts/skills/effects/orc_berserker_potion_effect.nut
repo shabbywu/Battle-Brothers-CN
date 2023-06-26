@@ -4,7 +4,8 @@
     "key": "This character gains two stacks of Rage each time they take hitpoint damage, and loses one stack at the end of each turn.",
     "original": "This character gains two stacks of Rage each time they take hitpoint damage, and loses one stack at the end of each turn.",
     "translation": "该角色每次受到生命值伤害时获得两层狂暴，并在每回合结束时失去一层。",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'This character gains two stacks of Rage each time they take hitpoint damage, and loses one stack at the end of each turn.'"
   },
   {
     "ID": 293421645,
@@ -12,7 +13,7 @@
     "original": "[/color] Initiative",
     "translation": "[/color] 主动性",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+' + 1 * this.m.RageStacks + '[/color] Initiative'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + 1 * this.m.RageStacks + '[/color] Initiative'"
   },
   {
     "ID": 293421646,
@@ -20,14 +21,15 @@
     "original": " gains rage!",
     "translation": " 获得愤怒！",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(actor) + ' gains rage!'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' gains rage!')"
   },
   {
     "ID": 293421647,
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421648,
@@ -35,7 +37,7 @@
     "original": "[/color] damage dealt",
     "translation": "[/color] 伤害",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+' + 1 * this.m.RageStacks + '[/color] damage dealt'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + 1 * this.m.RageStacks + '[/color] damage dealt'"
   },
   {
     "ID": 293421649,
@@ -43,7 +45,7 @@
     "original": "[/color] Resolve",
     "translation": "[/color] 决心",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+' + 1 * this.m.RageStacks + '[/color] Resolve'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + 1 * this.m.RageStacks + '[/color] Resolve'"
   },
   {
     "ID": 293421650,
@@ -51,7 +53,7 @@
     "original": "%[/color] damage reduction",
     "translation": "%[/color] 伤害减免",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+' + 100 - this.Math.maxf(0.30000001192092896, 1.0 - 0.019999999552965164 * this.m.RageStacks) * 100 + '%[/color] damage reduction'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + 100 - this.Math.maxf(0.30000001192092896, 1.0 - 0.019999999552965164 * this.m.RageStacks) * 100 + '%[/color] damage reduction'"
   },
   {
     "ID": 293421651,

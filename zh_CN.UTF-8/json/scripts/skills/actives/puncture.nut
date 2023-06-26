@@ -28,7 +28,8 @@
     "key": "Completely ignores armor",
     "original": "Completely ignores armor",
     "translation": "完全忽视盔甲",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Completely ignores armor'"
   },
   {
     "ID": 293420235,
@@ -36,7 +37,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit'"
   },
   {
     "ID": 293420236,
@@ -44,6 +45,6 @@
     "original": "]-15%[/color] chance to hit",
     "translation": "]-15%[/color] 命中惩罚",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit'"
   }
 ]

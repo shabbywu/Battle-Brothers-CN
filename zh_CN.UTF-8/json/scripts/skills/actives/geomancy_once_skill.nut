@@ -5,14 +5,15 @@
     "original": " raises the earth!",
     "translation": " 升起大地！",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' raises the earth!'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' raises the earth!')"
   },
   {
     "ID": 293420008,
     "key": "The earth lowers again",
     "original": "The earth lowers again",
     "translation": "大地又降下来了",
-    "stage": 5
+    "stage": 5,
+    "context": "this.Tactical.EventLog.log('The earth lowers again')"
   },
   {
     "ID": 293420009,

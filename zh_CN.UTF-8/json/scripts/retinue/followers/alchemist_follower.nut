@@ -13,21 +13,23 @@
     "original": "/15 items at the taxidermist",
     "translation": "/15 件物品在剥制屋",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Crafted ' + this.Math.min(15, this.World.Statistics.getFlags().getAsInt('ItemsCrafted')) + '/15 items at the taxidermist'"
+    "context": "this.m.Requirements[0].Text = 'Crafted ' + this.Math.min(15, this.World.Statistics.getFlags().getAsInt('ItemsCrafted')) + '/15 items at the taxidermist'"
   },
   {
     "ID": 293419546,
     "key": "Has a 25% chance of not consuming any crafting component used by you",
     "original": "Has a 25% chance of not consuming any crafting component used by you",
     "translation": "有25%的几率不消耗你使用的任何工艺组件",
-    "stage": 1
+    "stage": 1,
+    "context": "'Has a 25% chance of not consuming any crafting component used by you'"
   },
   {
     "ID": 293419547,
     "key": "Unlocks 'Snake Oil' recipe to earn money by crafting from various low tier components",
     "original": "Unlocks 'Snake Oil' recipe to earn money by crafting from various low tier components",
     "translation": "解锁“蛇油”配方，通过制作各种低层组件来赚钱",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Unlocks 'Snake Oil' recipe to earn money by crafting from various low tier components\""
   },
   {
     "ID": 293419548,
@@ -43,6 +45,6 @@
     "original": "Crafted ",
     "translation": "在剥制屋里制造 ",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Crafted ' + this.Math.min(15, this.World.Statistics.getFlags().getAsInt('ItemsCrafted')) + '/15 items at the taxidermist'"
+    "context": "this.m.Requirements[0].Text = 'Crafted ' + this.Math.min(15, this.World.Statistics.getFlags().getAsInt('ItemsCrafted')) + '/15 items at the taxidermist'"
   }
 ]

@@ -12,21 +12,24 @@
     "key": "Tiefenmark",
     "original": "Tiefenmark",
     "translation": "蒂芬马尔克",
-    "stage": 1
+    "stage": 1,
+    "context": "'Tiefenmark'"
   },
   {
     "ID": 293410866,
     "key": "Forstland",
     "original": "Forstland",
     "translation": "福斯特兰德",
-    "stage": 1
+    "stage": 1,
+    "context": "'Forstland'"
   },
   {
     "ID": 293410867,
     "key": "Finsterstadt",
     "original": "Finsterstadt",
     "translation": "芬斯特城",
-    "stage": 1
+    "stage": 1,
+    "context": "'Finsterstadt'"
   },
   {
     "ID": 293410868,
@@ -41,63 +44,72 @@
     "key": "Thalstadt",
     "original": "Thalstadt",
     "translation": "塔尔施塔特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Thalstadt'"
   },
   {
     "ID": 293410870,
     "key": "Weilerstadt",
     "original": "Weilerstadt",
     "translation": "威勒斯塔特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Weilerstadt'"
   },
   {
     "ID": 293410871,
     "key": "Holzmark",
     "original": "Holzmark",
     "translation": "霍尔兹马克",
-    "stage": 1
+    "stage": 1,
+    "context": "'Holzmark'"
   },
   {
     "ID": 293410872,
     "key": "Waldmark",
     "original": "Waldmark",
     "translation": "瓦尔德马克",
-    "stage": 1
+    "stage": 1,
+    "context": "'Waldmark'"
   },
   {
     "ID": 293410873,
     "key": "Finstermark",
     "original": "Finstermark",
     "translation": "芬斯特马克",
-    "stage": 1
+    "stage": 1,
+    "context": "'Finstermark'"
   },
   {
     "ID": 293410874,
     "key": "Waidstadt",
     "original": "Waidstadt",
     "translation": "怀德斯塔特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Waidstadt'"
   },
   {
     "ID": 293410875,
     "key": "Tannstadt",
     "original": "Tannstadt",
     "translation": "坦斯塔特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Tannstadt'"
   },
   {
     "ID": 293410876,
     "key": "Hirschmark",
     "original": "Hirschmark",
     "translation": "赫斯马克",
-    "stage": 1
+    "stage": 1,
+    "context": "'Hirschmark'"
   },
   {
     "ID": 293410877,
     "key": "Eichstadt",
     "original": "Eichstadt",
     "translation": "艾希斯塔特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Eichstadt'"
   },
   {
     "ID": 293410878,
@@ -112,76 +124,87 @@
     "key": "Dustermark",
     "original": "Dustermark",
     "translation": "尘埃之地",
-    "stage": 1
+    "stage": 1,
+    "context": "'Dustermark'"
   },
   {
     "ID": 293410880,
     "key": "Dunkelmark",
     "original": "Dunkelmark",
     "translation": "邓克尔马克",
-    "stage": 1
+    "stage": 1,
+    "context": "'Dunkelmark'"
   },
   {
     "ID": 293410881,
     "key": "Waldland",
     "original": "Waldland",
     "translation": "瓦尔德兰",
-    "stage": 1
+    "stage": 1,
+    "context": "'Waldland'"
   },
   {
     "ID": 293410882,
     "key": "Eulenmark",
     "original": "Eulenmark",
     "translation": "欧伦马克",
-    "stage": 1
+    "stage": 1,
+    "context": "'Eulenmark'"
   },
   {
     "ID": 293410883,
     "key": "Hageland",
     "original": "Hageland",
     "translation": "黑格兰德",
-    "stage": 1
+    "stage": 1,
+    "context": "'Hageland'"
   },
   {
     "ID": 293410884,
     "key": "Fahrnstadt",
     "original": "Fahrnstadt",
     "translation": "法恩斯塔特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Fahrnstadt'"
   },
   {
     "ID": 293410885,
     "key": "Grafenhain",
     "original": "Grafenhain",
     "translation": "格拉芬海因",
-    "stage": 1
+    "stage": 1,
+    "context": "'Grafenhain'"
   },
   {
     "ID": 293410886,
     "key": "Grunland",
     "original": "Grunland",
     "translation": "格伦兰德",
-    "stage": 1
+    "stage": 1,
+    "context": "'Grunland'"
   },
   {
     "ID": 293410887,
     "key": "Grunstadt",
     "original": "Grunstadt",
     "translation": "格伦施塔特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Grunstadt'"
   },
   {
     "ID": 293410888,
     "key": "Konigshain",
     "original": "Konigshain",
     "translation": "孔英山",
-    "stage": 1
+    "stage": 1,
+    "context": "'Konigshain'"
   },
   {
     "ID": 293410889,
     "key": "Konigswald",
     "original": "Konigswald",
     "translation": "昆茨瓦尔德",
-    "stage": 1
+    "stage": 1,
+    "context": "'Konigswald'"
   }
 ]

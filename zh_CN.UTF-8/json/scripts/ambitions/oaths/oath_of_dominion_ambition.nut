@@ -29,7 +29,7 @@
     "original": "Your men have [color=",
     "translation": "你的所有战团成员获得[color=",
     "stage": 1,
-    "context": "this.m.OathBurdenText = 'Your men have [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve and [color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee and Ranged Skill when fighting any other foe.'"
+    "context": "this.m.OathBoonText = 'Your men have [color=' + this.Const.UI.Color.PositiveValue + ']+20[/color] Resolve and [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Melee and Ranged Skill when fighting beasts.'"
   },
   {
     "ID": 293403630,

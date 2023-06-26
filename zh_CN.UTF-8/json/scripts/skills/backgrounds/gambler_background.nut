@@ -12,35 +12,40 @@
     "key": "the Gambler",
     "original": "the Gambler",
     "translation": "赌徒(the Gambler)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Gambler'"
   },
   {
     "ID": 293420975,
     "key": "the Lucky",
     "original": "the Lucky",
     "translation": "幸运星(the Lucky)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Lucky'"
   },
   {
     "ID": 293420976,
     "key": "the Luck Maker",
     "original": "the Luck Maker",
     "translation": "幸运制造者(the Luck Maker)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Luck Maker'"
   },
   {
     "ID": 293420977,
     "key": "Deuces",
     "original": "Deuces",
     "translation": "二点牌(Deuces)",
-    "stage": 5
+    "stage": 5,
+    "context": "'Deuces'"
   },
   {
     "ID": 293420978,
     "key": "the Cardsharper",
     "original": "the Cardsharper",
     "translation": "牌术大师(the Cardsharper)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Cardsharper'"
   },
   {
     "ID": 293420979,
@@ -55,7 +60,8 @@
     "key": "the Wild Card",
     "original": "the Wild Card",
     "translation": "百搭牌(the Wild Card)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Wild Card'"
   },
   {
     "ID": 293420981,

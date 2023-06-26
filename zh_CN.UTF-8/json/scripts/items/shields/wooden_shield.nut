@@ -5,7 +5,7 @@
     "original": "banner id: ",
     "translation": "旗帜ID:",
     "stage": 5,
-    "context": "'banner id: ' + this.World.Assets.getBanner().slice(this.World.Assets.getBanner().find('_') + 1).tointeger()"
+    "context": "this.logInfo('banner id: ' + this.World.Assets.getBanner().slice(this.World.Assets.getBanner().find('_') + 1).tointeger())"
   },
   {
     "ID": 293418827,

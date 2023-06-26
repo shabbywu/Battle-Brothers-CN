@@ -20,14 +20,16 @@
     "key": "I heard they grabbed some brigands near %settlement% and are putting them to the chopping block. Serves them just right, waylaying poor folk on the roads...",
     "original": "I heard they grabbed some brigands near %settlement% and are putting them to the chopping block. Serves them just right, waylaying poor folk on the roads...",
     "translation": "我听说他们在 %settlement% 附近抓了几个强盗，把他们送进了砧板。他们活该，在路上伏击穷人…",
-    "stage": 1
+    "stage": 1,
+    "context": "'I heard they grabbed some brigands near %settlement% and are putting them to the chopping block. Serves them just right, waylaying poor folk on the roads...'"
   },
   {
     "ID": 293411821,
     "key": "A whole bunch of folks is headin' over to %settlement% for the big spectacle! Men, womenfolk, young ones, all on the road to see the upcoming executions!",
     "original": "A whole bunch of folks is headin' over to %settlement% for the big spectacle! Men, womenfolk, young ones, all on the road to see the upcoming executions!",
     "translation": "一大群人正赶往 %settlement% 观看盛大的盛会！男人，女人，年轻人，都在路上要赶去看即将到来的处决！",
-    "stage": 1
+    "stage": 1,
+    "context": "\"A whole bunch of folks is headin' over to %settlement% for the big spectacle! Men, womenfolk, young ones, all on the road to see the upcoming executions!\""
   },
   {
     "ID": 293411822,
@@ -50,6 +52,7 @@
     "key": "Us poor folks don't have much to enjoy these days, but a good hanging is always welcome. Hasn't been one here since autumn, but they is hanging folk over at %settlement% is what %randomname% tells me.",
     "original": "Us poor folks don't have much to enjoy these days, but a good hanging is always welcome. Hasn't been one here since autumn, but they is hanging folk over at %settlement% is what %randomname% tells me.",
     "translation": "现在，我们穷人没有什么好享受的，但是，一个好的绞刑总是受欢迎的。秋天以后这里就没人来过了，但他们在 %settlement% 有一些人，这是 %randomname% 告诉我的。",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Us poor folks don't have much to enjoy these days, but a good hanging is always welcome. Hasn't been one here since autumn, but they is hanging folk over at %settlement% is what %randomname% tells me.\""
   }
 ]

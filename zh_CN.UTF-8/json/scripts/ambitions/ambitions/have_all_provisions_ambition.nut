@@ -4,7 +4,8 @@
     "key": "Feasted with the company",
     "original": "Feasted with the company",
     "translation": "与战团共度盛宴",
-    "stage": 1
+    "stage": 1,
+    "context": "bro.improveMood(1.0, 'Feasted with the company')"
   },
   {
     "ID": 293403433,

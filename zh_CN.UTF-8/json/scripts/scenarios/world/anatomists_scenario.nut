@@ -13,7 +13,7 @@
     "original": "{Though our quotidian dialogues are no doubt drollery, beneath the banausic surface I must admit I feel a touch of serotinous savagery lurking within you, coming to the fore as if my words be fire. Even our most desultory talks has me on edge, the way you stare at me with such hateful eyes. Well, know this, bounty hunter, I am no casuist, I speak in earnest. You are too fine a specimen-I mean captain to be lofting some sapskull's brickbats at. Understand?}",
     "translation": "{虽然我们的日常对话无疑是平淡无奇的，但在这看似千篇一律的表面下，我不得不承认，我感觉到你内心里隐藏着一丝迟暮的野性，当我的话仿佛是火一般涌现时，就会显露出来。即使是我们最敷衍的谈话也让我有些紧张，因为你用那样憎恶的眼神盯着我。好吧，赏金猎人，要知道，我不是个双重标准者，我说话是认真的。你是个太出色的样本——我的意思是队长，不应该被一些阿底峰的砖头击中。明白了吗?}",
     "stage": 1,
-    "context": "bros.2.getBackground().m.RawDescription = \"{Though our quotidian dialogues are no doubt drollery, beneath the banausic surface I must admit I feel a touch of serotinous savagery lurking within you, coming to the fore as if my words be fire. Even our most desultory talks has me on edge, the way you stare at me with such hateful eyes. Well, know this, bounty hunter, I am no casuist, I speak in earnest. You are too fine a specimen-I mean captain to be lofting some sapskull's brickbats at. Understand?}\""
+    "context": "bros[2].getBackground().m.RawDescription = \"{Though our quotidian dialogues are no doubt drollery, beneath the banausic surface I must admit I feel a touch of serotinous savagery lurking within you, coming to the fore as if my words be fire. Even our most desultory talks has me on edge, the way you stare at me with such hateful eyes. Well, know this, bounty hunter, I am no casuist, I speak in earnest. You are too fine a specimen-I mean captain to be lofting some sapskull's brickbats at. Understand?}\""
   },
   {
     "ID": 293419643,
@@ -21,14 +21,15 @@
     "original": "{Captain? Is it alright if I call you captain? Ah, of course it is. What? No, we were not calling you by another name. Yers is a smooth costard, good sir, and we would not be of such derring-do to refer to you as a sellsword who is as ordinary as any of our coetaneous clodpolls, or state that we were in some sense importuning commerce by conducting business with a man of your particular skills. No sir, we would not. We are not children of perdition, sir.}",
     "translation": "{队长？我称呼你队长可以吗？啊，当然可以。什么？不，我们没有用另外一个名字称呼你。您是一位出色的领袖，先生，我们不会冒险称呼您为一位跟我们同辈愚蠢的佣兵，或是说我们与拥有您这般技能的人做生意是在寻求什么样式的贸易。不，先生，我们不会。我们不是来自地狱的孩子，先生。}",
     "stage": 1,
-    "context": "bros.0.getBackground().m.RawDescription = '{Captain? Is it alright if I call you captain? Ah, of course it is. What? No, we were not calling you by another name. Yers is a smooth costard, good sir, and we would not be of such derring-do to refer to you as a sellsword who is as ordinary as any of our coetaneous clodpolls, or state that we were in some sense importuning commerce by conducting business with a man of your particular skills. No sir, we would not. We are not children of perdition, sir.}'"
+    "context": "bros[0].getBackground().m.RawDescription = '{Captain? Is it alright if I call you captain? Ah, of course it is. What? No, we were not calling you by another name. Yers is a smooth costard, good sir, and we would not be of such derring-do to refer to you as a sellsword who is as ordinary as any of our coetaneous clodpolls, or state that we were in some sense importuning commerce by conducting business with a man of your particular skills. No sir, we would not. We are not children of perdition, sir.}'"
   },
   {
     "ID": 293419644,
     "key": "Will never be of confident morale",
     "original": "Will never be of confident morale",
     "translation": "永远不会达到自信士气",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Will never be of confident morale'"
   },
   {
     "ID": 293419645,
@@ -36,7 +37,7 @@
     "original": "{Despite others' hesitancies, I've no qualms calling you a javel, sir. You are, after all, a javel. A scapegrace. Some sellsword or another, yes? I think only a man who trucks cowardice would avoid calling you what you are. That someone disrespects your intelligence, thinking you yourself know not yourself. Even I see that in you accepting who you are, you are quite a good specimen. I mean, sellsword.}",
     "translation": "{尽管别人犹豫不决，但我毫不犹豫地称呼您为队长。毕竟，您就是队长。一个无赖。一个雇佣兵之类的人，是吗？我认为，只有那些畏惧懦弱的人才会避免称呼你的真实身份。这种人不尊重你的智商，认为你自己不知道自己是谁。但是，您接受自己的身份，对于成为一个雇佣兵，您是一个很好的标本。我是说，一个雇佣兵。}",
     "stage": 1,
-    "context": "bros.1.getBackground().m.RawDescription = \"{Despite others' hesitancies, I've no qualms calling you a javel, sir. You are, after all, a javel. A scapegrace. Some sellsword or another, yes? I think only a man who trucks cowardice would avoid calling you what you are. That someone disrespects your intelligence, thinking you yourself know not yourself. Even I see that in you accepting who you are, you are quite a good specimen. I mean, sellsword.}\""
+    "context": "bros[1].getBackground().m.RawDescription = \"{Despite others' hesitancies, I've no qualms calling you a javel, sir. You are, after all, a javel. A scapegrace. Some sellsword or another, yes? I think only a man who trucks cowardice would avoid calling you what you are. That someone disrespects your intelligence, thinking you yourself know not yourself. Even I see that in you accepting who you are, you are quite a good specimen. I mean, sellsword.}\""
   },
   {
     "ID": 293419646,

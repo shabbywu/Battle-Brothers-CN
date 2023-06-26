@@ -12,7 +12,8 @@
     "key": "the Assassin",
     "original": "the Assassin",
     "translation": "刺客(the Assassin)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Assassin'"
   },
   {
     "ID": 293420779,

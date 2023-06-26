@@ -4,7 +4,8 @@
     "key": "the Odd",
     "original": "the Odd",
     "translation": "怪人(the Odd)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Odd'"
   },
   {
     "ID": 293422486,
@@ -20,14 +21,15 @@
     "original": "]-15%[/color] Experience Gain",
     "translation": "]-15%[/color] 经验获取",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] Experience Gain'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] Experience Gain'"
   },
   {
     "ID": 293422488,
     "key": "the Idiot",
     "original": "the Idiot",
     "translation": "白痴",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Idiot'"
   },
   {
     "ID": 293422489,
@@ -42,6 +44,7 @@
     "key": "the Slow",
     "original": "the Slow",
     "translation": "缓慢者(the Slow)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Slow'"
   }
 ]

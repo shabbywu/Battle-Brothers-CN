@@ -13,6 +13,6 @@
     "original": " explodes into shrapnel of bone!",
     "translation": " 爆炸成骨头碎片！",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' explodes into shrapnel of bone!'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' explodes into shrapnel of bone!')"
   }
 ]

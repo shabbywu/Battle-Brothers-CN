@@ -4,84 +4,96 @@
     "key": "Krumburg",
     "original": "Krumburg",
     "translation": "克伦堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Krumburg'"
   },
   {
     "ID": 293411133,
     "key": "Kielburg",
     "original": "Kielburg",
     "translation": "基尔伯格",
-    "stage": 1
+    "stage": 1,
+    "context": "'Kielburg'"
   },
   {
     "ID": 293411134,
     "key": "Weseburg",
     "original": "Weseburg",
     "translation": "韦瑟堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Weseburg'"
   },
   {
     "ID": 293411135,
     "key": "Sichelburg",
     "original": "Sichelburg",
     "translation": "锯齿城",
-    "stage": 1
+    "stage": 1,
+    "context": "'Sichelburg'"
   },
   {
     "ID": 293411136,
     "key": "Salzburg",
     "original": "Salzburg",
     "translation": "萨尔茨堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Salzburg'"
   },
   {
     "ID": 293411137,
     "key": "Stohlburg",
     "original": "Stohlburg",
     "translation": "斯托尔堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Stohlburg'"
   },
   {
     "ID": 293411138,
     "key": "Dunenburg",
     "original": "Dunenburg",
     "translation": "丘陵堡",
-    "stage": 5
+    "stage": 5,
+    "context": "'Dunenburg'"
   },
   {
     "ID": 293411139,
     "key": "Blauburg",
     "original": "Blauburg",
     "translation": "布劳堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Blauburg'"
   },
   {
     "ID": 293411140,
     "key": "Sandeburg",
     "original": "Sandeburg",
     "translation": "桑德堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Sandeburg'"
   },
   {
     "ID": 293411141,
     "key": "Beltburg",
     "original": "Beltburg",
     "translation": "贝尔特堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Beltburg'"
   },
   {
     "ID": 293411142,
     "key": "Wikburg",
     "original": "Wikburg",
     "translation": "维克堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Wikburg'"
   },
   {
     "ID": 293411143,
     "key": "Krakenburg",
     "original": "Krakenburg",
     "translation": "克拉肯堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Krakenburg'"
   },
   {
     "ID": 293411144,
@@ -96,56 +108,64 @@
     "key": "Seeburg",
     "original": "Seeburg",
     "translation": "西堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Seeburg'"
   },
   {
     "ID": 293411146,
     "key": "Meerburg",
     "original": "Meerburg",
     "translation": "米尔堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Meerburg'"
   },
   {
     "ID": 293411147,
     "key": "Gischtburg",
     "original": "Gischtburg",
     "translation": "吉斯特堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Gischtburg'"
   },
   {
     "ID": 293411148,
     "key": "Otternburg",
     "original": "Otternburg",
     "translation": "奥特恩堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Otternburg'"
   },
   {
     "ID": 293411149,
     "key": "Sundburg",
     "original": "Sundburg",
     "translation": "桑德堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Sundburg'"
   },
   {
     "ID": 293411150,
     "key": "Blankenburg",
     "original": "Blankenburg",
     "translation": "布兰肯堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Blankenburg'"
   },
   {
     "ID": 293411151,
     "key": "Heringsburg",
     "original": "Heringsburg",
     "translation": "海灵斯堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Heringsburg'"
   },
   {
     "ID": 293411152,
     "key": "Aalburg",
     "original": "Aalburg",
     "translation": "奥尔堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Aalburg'"
   },
   {
     "ID": 293411153,
@@ -160,27 +180,31 @@
     "key": "Mowenburg",
     "original": "Mowenburg",
     "translation": "莫文堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Mowenburg'"
   },
   {
     "ID": 293411155,
     "key": "Schollburg",
     "original": "Schollburg",
     "translation": "肖尔堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Schollburg'"
   },
   {
     "ID": 293411156,
     "key": "Kampburg",
     "original": "Kampburg",
     "translation": "坎普堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Kampburg'"
   },
   {
     "ID": 293411157,
     "key": "Sturmburg",
     "original": "Sturmburg",
     "translation": "斯图姆堡",
-    "stage": 1
+    "stage": 1,
+    "context": "'Sturmburg'"
   }
 ]

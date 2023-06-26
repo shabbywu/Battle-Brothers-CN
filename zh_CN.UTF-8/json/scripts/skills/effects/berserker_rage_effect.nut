@@ -13,6 +13,6 @@
     "original": " gains rage!",
     "translation": " 获得愤怒！",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(actor) + ' gains rage!'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' gains rage!')"
   }
 ]

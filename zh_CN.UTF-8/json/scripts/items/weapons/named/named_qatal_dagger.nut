@@ -5,7 +5,7 @@
     "original": "'s ",
     "translation": "的",
     "stage": 5,
-    "context": "return this.getRandomCharacterName(this.Const.Strings.NomadChampionStandalone) + \"'s \" + this.m.NameList.this.Math.rand(0, this.m.NameList.len() - 1);"
+    "context": "return this.getRandomCharacterName(this.Const.Strings.SouthernNamesLast) + \"'s \" + this.m.NameList[this.Math.rand(0, this.m.NameList.len() - 1)];"
   },
   {
     "ID": 293419309,

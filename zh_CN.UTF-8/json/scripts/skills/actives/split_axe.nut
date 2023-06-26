@@ -20,7 +20,8 @@
     "key": "Can hit up to 2 targets",
     "original": "Can hit up to 2 targets",
     "translation": "最多可以击中 2 个目标",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Can hit up to 2 targets'"
   },
   {
     "ID": 293420461,

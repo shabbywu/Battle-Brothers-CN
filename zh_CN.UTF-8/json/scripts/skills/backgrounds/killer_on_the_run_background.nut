@@ -12,14 +12,16 @@
     "key": "Backblade",
     "original": "Backblade",
     "translation": "背刃(Backblade)",
-    "stage": 5
+    "stage": 5,
+    "context": "'Backblade'"
   },
   {
     "ID": 293421059,
     "key": "on the Run",
     "original": "on the Run",
     "translation": "在逃者(on the Run)",
-    "stage": 5
+    "stage": 5,
+    "context": "'on the Run'"
   },
   {
     "ID": 293421060,
@@ -34,28 +36,32 @@
     "key": "Throatslash",
     "original": "Throatslash",
     "translation": "割喉(Throatslash)",
-    "stage": 5
+    "stage": 5,
+    "context": "'Throatslash'"
   },
   {
     "ID": 293421062,
     "key": "Darkhearted",
     "original": "Darkhearted",
     "translation": "黑心者(Darkhearted)",
-    "stage": 5
+    "stage": 5,
+    "context": "'Darkhearted'"
   },
   {
     "ID": 293421063,
     "key": "the Wanted",
     "original": "the Wanted",
     "translation": "通缉犯(the Wanted)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Wanted'"
   },
   {
     "ID": 293421064,
     "key": "the Murderer",
     "original": "the Murderer",
     "translation": "凶手(the Murderer)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Murderer'"
   },
   {
     "ID": 293421065,
@@ -70,7 +76,8 @@
     "key": "Higher Chance To Hit Head",
     "original": "Higher Chance To Hit Head",
     "translation": "更高几率击中头部",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Higher Chance To Hit Head'"
   },
   {
     "ID": 293421067,

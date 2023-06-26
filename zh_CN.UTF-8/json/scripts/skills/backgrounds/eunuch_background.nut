@@ -4,7 +4,8 @@
     "key": "the Eunuch",
     "original": "the Eunuch",
     "translation": "阉人(the Eunuch)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Eunuch'"
   },
   {
     "ID": 293420948,
@@ -19,7 +20,8 @@
     "key": "the Gelding",
     "original": "the Gelding",
     "translation": "去势者(the Gelding)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Gelding'"
   },
   {
     "ID": 293420950,

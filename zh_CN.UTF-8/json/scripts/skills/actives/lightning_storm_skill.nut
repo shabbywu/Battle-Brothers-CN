@@ -13,7 +13,7 @@
     "original": " summons lightning",
     "translation": "召唤闪电",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' summons lightning'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' summons lightning')"
   },
   {
     "ID": 293420162,
@@ -28,6 +28,7 @@
     "key": "Lightning strikes the battlefield",
     "original": "Lightning strikes the battlefield",
     "translation": "闪电击中战场",
-    "stage": 5
+    "stage": 5,
+    "context": "this.Tactical.EventLog.log('Lightning strikes the battlefield')"
   }
 ]

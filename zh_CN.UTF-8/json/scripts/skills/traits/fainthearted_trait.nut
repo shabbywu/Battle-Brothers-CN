@@ -13,14 +13,15 @@
     "original": "]-5[/color] Resolve",
     "translation": "]-5[/color] 决心",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Resolve'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Resolve'"
   },
   {
     "ID": 293422496,
     "key": "the Chicken",
     "original": "the Chicken",
     "translation": "鸡仔(the Chicken)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Chicken'"
   },
   {
     "ID": 293422497,
@@ -35,6 +36,7 @@
     "key": "the Meek",
     "original": "the Meek",
     "translation": "温顺者(the Meek)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Meek'"
   }
 ]

@@ -13,7 +13,7 @@
     "original": "Gain a [color=",
     "translation": "获得 [color=",
     "stage": 5,
-    "context": "'Gain a [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] chance to stun any opponent missing this character with a melee attack (resistances and immunities still apply).'"
+    "context": "'text' = 'Gain a [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] chance to stun any opponent missing this character with a melee attack (resistances and immunities still apply).'"
   },
   {
     "ID": 293420304,
@@ -21,7 +21,7 @@
     "original": "]50%[/color] chance to stun any opponent missing this character with a melee attack (resistances and immunities still apply).",
     "translation": "]50%[/color] 的概率使任何在近战攻击时没有击中此角色的对手晕眩（仍然存在抗性和免疫能力）。",
     "stage": 5,
-    "context": "'Gain a [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] chance to stun any opponent missing this character with a melee attack (resistances and immunities still apply).'"
+    "context": "'text' = 'Gain a [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] chance to stun any opponent missing this character with a melee attack (resistances and immunities still apply).'"
   },
   {
     "ID": 293420305,

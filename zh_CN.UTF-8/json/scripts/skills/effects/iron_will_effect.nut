@@ -12,7 +12,8 @@
     "key": "Not affected by non-permanent injuries",
     "original": "Not affected by non-permanent injuries",
     "translation": "不受非永久性损伤的影响",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Not affected by non-permanent injuries'"
   },
   {
     "ID": 293421566,
@@ -27,6 +28,7 @@
     "key": "Will be gone after 1 more battle",
     "original": "Will be gone after 1 more battle",
     "translation": "会在1场战斗之后消失",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Will be gone after 1 more battle'"
   }
 ]

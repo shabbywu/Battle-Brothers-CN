@@ -4,98 +4,112 @@
     "key": "Reiherfeste",
     "original": "Reiherfeste",
     "translation": "苍鹭要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Reiherfeste'"
   },
   {
     "ID": 293410756,
     "key": "Konigsfeste",
     "original": "Konigsfeste",
     "translation": "国王要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Konigsfeste'"
   },
   {
     "ID": 293410757,
     "key": "Tauschanze",
     "original": "Tauschanze",
     "translation": "露水要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Tauschanze'"
   },
   {
     "ID": 293410758,
     "key": "Gardefeste",
     "original": "Gardefeste",
     "translation": "卫士要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Gardefeste'"
   },
   {
     "ID": 293410759,
     "key": "Auenfeste",
     "original": "Auenfeste",
     "translation": "洪原要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Auenfeste'"
   },
   {
     "ID": 293410760,
     "key": "Gerstenfeste",
     "original": "Gerstenfeste",
     "translation": "大麦要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Gerstenfeste'"
   },
   {
     "ID": 293410761,
     "key": "Freilandfeste",
     "original": "Freilandfeste",
     "translation": "敞口要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Freilandfeste'"
   },
   {
     "ID": 293410762,
     "key": "Grafenschanze",
     "original": "Grafenschanze",
     "translation": "伯爵要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Grafenschanze'"
   },
   {
     "ID": 293410763,
     "key": "Weidenfeste",
     "original": "Weidenfeste",
     "translation": "柳树要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Weidenfeste'"
   },
   {
     "ID": 293410764,
     "key": "Grunfeste",
     "original": "Grunfeste",
     "translation": "绿之要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Grunfeste'"
   },
   {
     "ID": 293410765,
     "key": "Grunlandfeste",
     "original": "Grunlandfeste",
     "translation": "绿地要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Grunlandfeste'"
   },
   {
     "ID": 293410766,
     "key": "Kroonsfeste",
     "original": "Kroonsfeste",
     "translation": "克鲁恩斯要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Kroonsfeste'"
   },
   {
     "ID": 293410767,
     "key": "Haselfeste",
     "original": "Haselfeste",
     "translation": "榛子要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Haselfeste'"
   },
   {
     "ID": 293410768,
     "key": "Weissenfeste",
     "original": "Weissenfeste",
     "translation": "白之要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Weissenfeste'"
   },
   {
     "ID": 293410769,
@@ -110,42 +124,48 @@
     "key": "Hoberfeste",
     "original": "Hoberfeste",
     "translation": "霍尔贝要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Hoberfeste'"
   },
   {
     "ID": 293410771,
     "key": "Weidefeste",
     "original": "Weidefeste",
     "translation": "草地要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Weidefeste'"
   },
   {
     "ID": 293410772,
     "key": "Aulenfeste",
     "original": "Aulenfeste",
     "translation": "奥伦要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Aulenfeste'"
   },
   {
     "ID": 293410773,
     "key": "Lowenschanze",
     "original": "Lowenschanze",
     "translation": "雄狮要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Lowenschanze'"
   },
   {
     "ID": 293410774,
     "key": "Feldfeste",
     "original": "Feldfeste",
     "translation": "旷野要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Feldfeste'"
   },
   {
     "ID": 293410775,
     "key": "Brunnenfeste",
     "original": "Brunnenfeste",
     "translation": "井之要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Brunnenfeste'"
   },
   {
     "ID": 293410776,
@@ -160,13 +180,15 @@
     "key": "Koppelfeste",
     "original": "Koppelfeste",
     "translation": "结之要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Koppelfeste'"
   },
   {
     "ID": 293410778,
     "key": "Wehrfeste",
     "original": "Wehrfeste",
     "translation": "国防要塞",
-    "stage": 5
+    "stage": 5,
+    "context": "'Wehrfeste'"
   }
 ]

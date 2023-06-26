@@ -4,7 +4,8 @@
     "key": "Makes men in reserve never lose mood from not taking part in battles",
     "original": "Makes men in reserve never lose mood from not taking part in battles",
     "translation": "使处于后备队的人不会因不参加战斗而降低心情",
-    "stage": 1
+    "stage": 1,
+    "context": "'Makes men in reserve never lose mood from not taking part in battles'"
   },
   {
     "ID": 293419578,
@@ -19,7 +20,8 @@
     "key": "Makes your men gain 20% more experience at level 1, with 2% less at each further level",
     "original": "Makes your men gain 20% more experience at level 1, with 2% less at each further level",
     "translation": "使你的人在1级时获得20%更多的经验，每提高一级就减少2%",
-    "stage": 1
+    "stage": 1,
+    "context": "'Makes your men gain 20% more experience at level 1, with 2% less at each further level'"
   },
   {
     "ID": 293419580,
@@ -34,6 +36,7 @@
     "key": "Retired a man with a permanent injury that isn't indebted",
     "original": "Retired a man with a permanent injury that isn't indebted",
     "translation": "让一个受了永久性损伤不是负债者的人退休",
-    "stage": 1
+    "stage": 1,
+    "context": "'Text' = \"Retired a man with a permanent injury that isn't indebted\""
   }
 ]

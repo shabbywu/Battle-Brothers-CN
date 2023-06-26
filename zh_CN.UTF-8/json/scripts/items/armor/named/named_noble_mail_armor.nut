@@ -4,21 +4,24 @@
     "key": "Fencing Mail",
     "original": "Fencing Mail",
     "translation": "刺剑链甲",
-    "stage": 1
+    "stage": 1,
+    "context": "'Fencing Mail'"
   },
   {
     "ID": 293417779,
     "key": "Noble Mail",
     "original": "Noble Mail",
     "translation": "贵族链甲",
-    "stage": 1
+    "stage": 1,
+    "context": "'Noble Mail'"
   },
   {
     "ID": 293417780,
     "key": "Nightcloak",
     "original": "Nightcloak",
     "translation": "夜斗篷",
-    "stage": 1
+    "stage": 1,
+    "context": "'Nightcloak'"
   },
   {
     "ID": 293417781,
@@ -33,6 +36,7 @@
     "key": "Reinforced Mail",
     "original": "Reinforced Mail",
     "translation": "强化甲",
-    "stage": 1
+    "stage": 1,
+    "context": "'Reinforced Mail'"
   }
 ]

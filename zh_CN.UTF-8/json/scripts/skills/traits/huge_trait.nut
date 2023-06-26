@@ -4,14 +4,16 @@
     "key": "the Ox",
     "original": "the Ox",
     "translation": "壮牛(the Ox)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Ox'"
   },
   {
     "ID": 293422556,
     "key": "the Tower",
     "original": "the Tower",
     "translation": "高塔(the Tower)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Tower'"
   },
   {
     "ID": 293422557,
@@ -27,7 +29,7 @@
     "original": "]-5[/color] Ranged Defense",
     "translation": "]-5[/color] 远程防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Ranged Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Ranged Defense'"
   },
   {
     "ID": 293422559,
@@ -43,14 +45,15 @@
     "original": "]+10%[/color] Melee Damage",
     "translation": "]+10%[/color] 近战伤害",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] Melee Damage'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] Melee Damage'"
   },
   {
     "ID": 293422561,
     "key": "the Bull",
     "original": "the Bull",
     "translation": "公牛(the Bull)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Bull'"
   },
   {
     "ID": 293422562,
@@ -58,27 +61,30 @@
     "original": "]-5[/color] Melee Defense",
     "translation": "]-5[/color] 近战防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Defense'"
   },
   {
     "ID": 293422563,
     "key": "the Giant",
     "original": "the Giant",
     "translation": "巨人(the Giant)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Giant'"
   },
   {
     "ID": 293422564,
     "key": "the Mountain",
     "original": "the Mountain",
     "translation": "大山(The Mountain)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Mountain'"
   },
   {
     "ID": 293422565,
     "key": "the Bear",
     "original": "the Bear",
     "translation": "大熊(the Bear)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Bear'"
   }
 ]

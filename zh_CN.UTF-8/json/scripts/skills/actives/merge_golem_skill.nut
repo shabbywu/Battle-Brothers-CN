@@ -13,6 +13,6 @@
     "original": " merges into something bigger",
     "translation": "融合成了更大的东西",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' merges into something bigger'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' merges into something bigger')"
   }
 ]

@@ -12,7 +12,8 @@
     "key": "Right-click or drag onto a helmet carried by the currently selected character in order to paint it. This item will be consumed in the process.",
     "original": "Right-click or drag onto a helmet carried by the currently selected character in order to paint it. This item will be consumed in the process.",
     "translation": "右键单击或拖动到当前所选角色携带的头盔上，对其进行喷涂。 此物品会在使用过程中消耗掉。",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Right-click or drag onto a helmet carried by the currently selected character in order to paint it. This item will be consumed in the process.'"
   },
   {
     "ID": 293418685,

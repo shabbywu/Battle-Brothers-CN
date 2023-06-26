@@ -4,14 +4,16 @@
     "key": "Primitive Harness",
     "original": "Primitive Harness",
     "translation": "原始马具(Primitive Harness)",
-    "stage": 1
+    "stage": 1,
+    "context": "'Primitive Harness'"
   },
   {
     "ID": 293417794,
     "key": "Barbarian Pelt",
     "original": "Barbarian Pelt",
     "translation": "蛮族皮毛(Barbarian Pelt)",
-    "stage": 1
+    "stage": 1,
+    "context": "'Barbarian Pelt'"
   },
   {
     "ID": 293417795,
@@ -26,20 +28,23 @@
     "key": "Scavenged Armor",
     "original": "Scavenged Armor",
     "translation": "扫气装甲",
-    "stage": 1
+    "stage": 1,
+    "context": "'Scavenged Armor'"
   },
   {
     "ID": 293417797,
     "key": "Barbarian Coat",
     "original": "Barbarian Coat",
     "translation": "蛮族外套 (Barbarian Coat)",
-    "stage": 1
+    "stage": 1,
+    "context": "'Barbarian Coat'"
   },
   {
     "ID": 293417798,
     "key": "Tribal Hide",
     "original": "Tribal Hide",
     "translation": "部落兽皮(Tribal Hide)",
-    "stage": 1
+    "stage": 1,
+    "context": "'Tribal Hide'"
   }
 ]

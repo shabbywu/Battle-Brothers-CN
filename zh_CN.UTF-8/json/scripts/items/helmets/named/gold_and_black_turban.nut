@@ -4,14 +4,16 @@
     "key": "Gilder's Visage",
     "original": "Gilder's Visage",
     "translation": "镀金者的面容",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Gilder's Visage\""
   },
   {
     "ID": 293418141,
     "key": "Scorpion's Helm",
     "original": "Scorpion's Helm",
     "translation": "太阳面纱",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Scorpion's Helm\""
   },
   {
     "ID": 293418142,
@@ -26,55 +28,63 @@
     "key": "Helm of the Sand King",
     "original": "Helm of the Sand King",
     "translation": "沙王之舵",
-    "stage": 1
+    "stage": 1,
+    "context": "'Helm of the Sand King'"
   },
   {
     "ID": 293418144,
     "key": "Golden Crest",
     "original": "Golden Crest",
     "translation": "金冠",
-    "stage": 1
+    "stage": 1,
+    "context": "'Golden Crest'"
   },
   {
     "ID": 293418145,
     "key": "Crown of the South",
     "original": "Crown of the South",
     "translation": "南方王冠",
-    "stage": 1
+    "stage": 1,
+    "context": "'Crown of the South'"
   },
   {
     "ID": 293418146,
     "key": "Turban of the Sun",
     "original": "Turban of the Sun",
     "translation": "太阳头巾",
-    "stage": 1
+    "stage": 1,
+    "context": "'Turban of the Sun'"
   },
   {
     "ID": 293418147,
     "key": "Desert Crest",
     "original": "Desert Crest",
     "translation": "沙漠冠",
-    "stage": 1
+    "stage": 1,
+    "context": "'Desert Crest'"
   },
   {
     "ID": 293418148,
     "key": "Vizier's Pride",
     "original": "Vizier's Pride",
     "translation": "维齐尔的骄傲",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Vizier's Pride\""
   },
   {
     "ID": 293418149,
     "key": "Gilder's Pride",
     "original": "Gilder's Pride",
     "translation": "镀金者的骄傲",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Gilder's Pride\""
   },
   {
     "ID": 293418150,
     "key": "Sun Veil",
     "original": "Sun Veil",
     "translation": "太阳斗篷",
-    "stage": 1
+    "stage": 1,
+    "context": "'Sun Veil'"
   }
 ]

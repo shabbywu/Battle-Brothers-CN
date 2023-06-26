@@ -12,7 +12,8 @@
     "key": "Removes the Nighttime effect",
     "original": "Removes the Nighttime effect",
     "translation": "移除夜间效果",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Removes the Nighttime effect'"
   },
   {
     "ID": 293419958,
@@ -28,7 +29,7 @@
     "original": "]Can not be used because this character is engaged in melee[/color]",
     "translation": "]无法使用，因为此角色已卷入近战[/color]",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   },
   {
     "ID": 293419960,
@@ -36,6 +37,6 @@
     "original": " drinks Night Owl Elixir",
     "translation": " 饮用了夜枭药剂",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' drinks Night Owl Elixir'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' drinks Night Owl Elixir')"
   }
 ]

@@ -13,7 +13,7 @@
     "original": "'s face to distract them",
     "translation": "的脸以分散他的注意力",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' throws dirt in ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + \"'s face to distract them\""
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' throws dirt in ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + \"'s face to distract them\")"
   },
   {
     "ID": 293420615,
@@ -21,6 +21,6 @@
     "original": " throws dirt in ",
     "translation": "将尘土撒向",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' throws dirt in ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + \"'s face to distract them\""
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' throws dirt in ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + \"'s face to distract them\")"
   }
 ]

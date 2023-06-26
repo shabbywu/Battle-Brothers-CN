@@ -5,14 +5,15 @@
     "original": "Only receive [color=",
     "translation": "只受到任意伤害的  [color=",
     "stage": 5,
-    "context": "'Only receive [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of any damage'"
+    "context": "'text' = 'Only receive [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of any damage'"
   },
   {
     "ID": 293420105,
     "key": "Become immune to being knocked back or grabbed",
     "original": "Become immune to being knocked back or grabbed",
     "translation": "变得免疫击退和抓取",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Become immune to being knocked back or grabbed'"
   },
   {
     "ID": 293420106,
@@ -35,7 +36,8 @@
     "key": "Become immune to being stunned",
     "original": "Become immune to being stunned",
     "translation": "变得免疫击晕",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Become immune to being stunned'"
   },
   {
     "ID": 293420109,
@@ -43,6 +45,6 @@
     "original": "]50%[/color] of any damage",
     "translation": "]50%[/color]",
     "stage": 5,
-    "context": "'Only receive [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of any damage'"
+    "context": "'text' = 'Only receive [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of any damage'"
   }
 ]

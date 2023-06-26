@@ -4,7 +4,8 @@
     "key": "A mortar shell impacts on the battlefield",
     "original": "A mortar shell impacts on the battlefield",
     "translation": "一发迫击炮弹砸入战场",
-    "stage": 5
+    "stage": 5,
+    "context": "this.Tactical.EventLog.log('A mortar shell impacts on the battlefield')"
   },
   {
     "ID": 293419979,
@@ -28,6 +29,6 @@
     "original": " fires a shell high in the air",
     "translation": "将炮弹发射到空中",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' fires a shell high in the air'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' fires a shell high in the air')"
   }
 ]

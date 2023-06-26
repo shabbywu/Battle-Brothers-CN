@@ -5,7 +5,7 @@
     "original": "]-60%[/color] Max Fatigue",
     "translation": "]-60%[/color] 最大疲劳值",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-60%[/color] Max Fatigue'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-60%[/color] Max Fatigue'"
   },
   {
     "ID": 293422033,

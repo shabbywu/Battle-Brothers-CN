@@ -5,7 +5,7 @@
     "original": "]1[/color] Action Point",
     "translation": "]1[/color] 行动点数",
     "stage": 5,
-    "context": "'Upon killing an enemy on their turn, this character immediately regains [color=' + this.Const.UI.Color.PositiveValue + ']1[/color] Action Point'"
+    "context": "'text' = 'Upon killing an enemy on their turn, this character immediately regains [color=' + this.Const.UI.Color.PositiveValue + ']1[/color] Action Point'"
   },
   {
     "ID": 293422530,
@@ -13,7 +13,7 @@
     "original": "Upon killing an enemy on their turn, this character immediately regains [color=",
     "translation": "每当在他的轮次杀死一个敌人时，这个角色立刻恢复 [color=",
     "stage": 5,
-    "context": "'Upon killing an enemy on their turn, this character immediately regains [color=' + this.Const.UI.Color.PositiveValue + ']1[/color] Action Point'"
+    "context": "'text' = 'Upon killing an enemy on their turn, this character immediately regains [color=' + this.Const.UI.Color.PositiveValue + ']1[/color] Action Point'"
   },
   {
     "ID": 293422531,

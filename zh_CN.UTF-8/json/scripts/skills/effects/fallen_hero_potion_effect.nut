@@ -12,14 +12,16 @@
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421485,
     "key": "This character accumulates no Fatigue from enemy attacks, whether they hit or miss",
     "original": "This character accumulates no Fatigue from enemy attacks, whether they hit or miss",
     "translation": "该角色不会因敌人的攻击（无论是否命中）而积累疲劳值。",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'This character accumulates no Fatigue from enemy attacks, whether they hit or miss'"
   },
   {
     "ID": 293421486,

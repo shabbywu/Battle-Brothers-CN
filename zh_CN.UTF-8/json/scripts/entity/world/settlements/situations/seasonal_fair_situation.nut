@@ -12,7 +12,8 @@
     "key": "What's going on around here you're asking? Well, there's a fair over in %settlement%. Merchants from far and wide gather to offer their wares.",
     "original": "What's going on around here you're asking? Well, there's a fair over in %settlement%. Merchants from far and wide gather to offer their wares.",
     "translation": "你在问这附近发生了什么事？嗯，%settlement% 有个集市。来自四面八方的商人聚集在一起献上他们的货物。",
-    "stage": 1
+    "stage": 1,
+    "context": "\"What's going on around here you're asking? Well, there's a fair over in %settlement%. Merchants from far and wide gather to offer their wares.\""
   },
   {
     "ID": 293411872,
@@ -27,6 +28,7 @@
     "key": "Me, I am more of the solitary type. Big fairs like the one over in %settlement% just don't appeal to me at all....",
     "original": "Me, I am more of the solitary type. Big fairs like the one over in %settlement% just don't appeal to me at all....",
     "translation": "我，我更喜欢孤独型。像 %settlement% 那样的大型集市对我一点吸引力都没有…。",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Me, I am more of the solitary type. Big fairs like the one over in %settlement% just don't appeal to me at all....\""
   }
 ]

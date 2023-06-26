@@ -13,14 +13,15 @@
     "original": "You spend [color=",
     "translation": "你花费了 [color=",
     "stage": 5,
-    "context": "'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']5,000[/color] Crowns'"
+    "context": "'text' = 'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']5,000[/color] Crowns'"
   },
   {
     "ID": 293403317,
     "key": "You gain 27 additional inventory slots",
     "original": "You gain 27 additional inventory slots",
     "translation": "你获得了27个额外的仓库空位",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'You gain 27 additional inventory slots'"
   },
   {
     "ID": 293403318,
@@ -28,7 +29,7 @@
     "original": "]5,000[/color] Crowns",
     "translation": "]5,000[/color] 克朗",
     "stage": 5,
-    "context": "'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']5,000[/color] Crowns'"
+    "context": "'text' = 'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']5,000[/color] Crowns'"
   },
   {
     "ID": 293403319,

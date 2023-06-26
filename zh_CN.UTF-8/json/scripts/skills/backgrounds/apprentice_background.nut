@@ -4,7 +4,8 @@
     "key": "Goodhand",
     "original": "Goodhand",
     "translation": "能手(Goodhand)",
-    "stage": 5
+    "stage": 5,
+    "context": "'Goodhand'"
   },
   {
     "ID": 293420763,
@@ -19,7 +20,8 @@
     "key": "the Apprentice",
     "original": "the Apprentice",
     "translation": "学徒(the Apprentice)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Apprentice'"
   },
   {
     "ID": 293420765,
@@ -51,35 +53,39 @@
     "original": "]+10%[/color] Experience Gain",
     "translation": "]+10%[/color] 经验获取",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] Experience Gain'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] Experience Gain'"
   },
   {
     "ID": 293420769,
     "key": "the Understudy",
     "original": "the Understudy",
     "translation": "替补(the Understudy)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Understudy'"
   },
   {
     "ID": 293420770,
     "key": "the Student",
     "original": "the Student",
     "translation": "学生(the Student)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Student'"
   },
   {
     "ID": 293420771,
     "key": "the Learner",
     "original": "the Learner",
     "translation": "学徒(the Learner)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Learner'"
   },
   {
     "ID": 293420772,
     "key": "the Young",
     "original": "the Young",
     "translation": "年轻人(the Young)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Young'"
   },
   {
     "ID": 293420773,
@@ -94,20 +100,23 @@
     "key": "the Kid",
     "original": "the Kid",
     "translation": "孩子(the Kid)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Kid'"
   },
   {
     "ID": 293420775,
     "key": "the Bright",
     "original": "the Bright",
     "translation": "明日之星(the Bright)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Bright'"
   },
   {
     "ID": 293420776,
     "key": "Quickmind",
     "original": "Quickmind",
     "translation": "捷思(Quickmind)",
-    "stage": 5
+    "stage": 5,
+    "context": "'Quickmind'"
   }
 ]

@@ -4,7 +4,8 @@
     "key": "Battle Brothers",
     "original": "Battle Brothers",
     "translation": "战斗兄弟(Battle Brothers)",
-    "stage": 1
+    "stage": 1,
+    "context": "'Name' = 'Battle Brothers'"
   },
   {
     "ID": 293422846,
@@ -19,7 +20,8 @@
     "key": "the ",
     "original": "the ",
     "translation": "这个",
-    "stage": 1
+    "stage": 1,
+    "context": "this.removeFromBeginningOfText('the ', _settings.Name)"
   },
   {
     "ID": 293422848,
@@ -50,21 +52,24 @@
     "key": "Did not get paid",
     "original": "Did not get paid",
     "translation": "没有得到工资",
-    "stage": 5
+    "stage": 5,
+    "context": "bro.worsenMood(this.Const.MoodChange.NotPaid, 'Did not get paid')"
   },
   {
     "ID": 293422852,
     "key": "Did go hungry",
     "original": "Did go hungry",
     "translation": "总挨饿",
-    "stage": 5
+    "stage": 5,
+    "context": "bro.worsenMood(this.Const.MoodChange.NotEaten, 'Did go hungry')"
   },
   {
     "ID": 293422853,
     "key": "The ",
     "original": "The ",
     "translation": "这个(The)",
-    "stage": 1
+    "stage": 1,
+    "context": "this.removeFromBeginningOfText('The ', this.removeFromBeginningOfText('the ', _settings.Name))"
   },
   {
     "ID": 293422854,
@@ -103,7 +108,8 @@
     "key": "The company standard was lost",
     "original": "The company standard was lost",
     "translation": "战旗丢了",
-    "stage": 1
+    "stage": 1,
+    "context": "bro.worsenMood(this.Const.MoodChange.StandardLost, 'The company standard was lost')"
   },
   {
     "ID": 293422859,
@@ -119,7 +125,7 @@
     "original": " Points",
     "translation": "积分 (Points)",
     "stage": 1,
-    "context": "'' + this.getScore() + ' Points'"
+    "context": "'Score' = '' + this.getScore() + ' Points'"
   },
   {
     "ID": 293422861,
@@ -134,7 +140,8 @@
     "key": "Too few indebted in the company",
     "original": "Too few indebted in the company",
     "translation": "战团中欠债者太少。",
-    "stage": 1
+    "stage": 1,
+    "context": "bro.worsenMood(this.Const.MoodChange.TooFewSlaves, 'Too few indebted in the company')"
   },
   {
     "ID": 293422863,
@@ -174,7 +181,7 @@
     "original": "Has enjoyed the visit to ",
     "translation": "喜欢访问",
     "stage": 5,
-    "context": "'Has enjoyed the visit to ' + town.getName()"
+    "context": "bro.improveMood(this.Const.MoodChange.NearCity, 'Has enjoyed the visit to ' + town.getName())"
   },
   {
     "ID": 293422868,
@@ -205,7 +212,8 @@
     "key": "\n\n[color=#bcad8c]\"",
     "original": "\n\n[color=#bcad8c]\"",
     "translation": "\n\n[color=#bcad8c]\"",
-    "stage": 1
+    "stage": 1,
+    "context": "'\n\n[color=#bcad8c]\"'"
   },
   {
     "ID": 293422872,

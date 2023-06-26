@@ -21,7 +21,7 @@
     "original": "]-3[/color] Maximum Fatigue",
     "translation": "]-3[/color] 最大疲劳值",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-3[/color] Maximum Fatigue'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-3[/color] Maximum Fatigue'"
   },
   {
     "ID": 293417949,
@@ -29,14 +29,15 @@
     "original": "]+60[/color] Durability",
     "translation": "]+60[/color] 耐久度",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+60[/color] Durability'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+60[/color] Durability'"
   },
   {
     "ID": 293417950,
     "key": "Unaffected by acidic Lindwurm blood",
     "original": "Unaffected by acidic Lindwurm blood",
     "translation": "不受林德沃姆的酸血影响",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Unaffected by acidic Lindwurm blood'"
   },
   {
     "ID": 293417951,

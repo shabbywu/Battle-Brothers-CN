@@ -5,7 +5,7 @@
     "original": "Reduces any melee damage to the body by [color=",
     "translation": "减少对身体的任何近战伤害 [color=",
     "stage": 1,
-    "context": "'Reduces any melee damage to the body by [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color]'"
+    "context": "'text' = 'Reduces any melee damage to the body by [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color]'"
   },
   {
     "ID": 293417915,
@@ -13,7 +13,7 @@
     "original": "]+30[/color] Durability",
     "translation": "]+30[/color] 耐久度",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+30[/color] Durability'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+30[/color] Durability'"
   },
   {
     "ID": 293417916,

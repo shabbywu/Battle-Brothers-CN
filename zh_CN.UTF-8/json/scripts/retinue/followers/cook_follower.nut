@@ -4,14 +4,16 @@
     "key": "Makes all provisions last 3 extra days",
     "original": "Makes all provisions last 3 extra days",
     "translation": "使所有的食物能多维持3天",
-    "stage": 1
+    "stage": 1,
+    "context": "'Makes all provisions last 3 extra days'"
   },
   {
     "ID": 293419572,
     "key": "Increases hitpoint healing rate by 33%",
     "original": "Increases hitpoint healing rate by 33%",
     "translation": "增加33%的生命值治愈速度",
-    "stage": 1
+    "stage": 1,
+    "context": "'Increases hitpoint healing rate by 33%'"
   },
   {
     "ID": 293419573,
@@ -35,7 +37,7 @@
     "original": "Have ",
     "translation": "有",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Have ' + this.Math.min(8, uniqueProvisions) + '/8 different types of provisions'"
+    "context": "this.m.Requirements[0].Text = 'Have ' + this.Math.min(8, uniqueProvisions) + '/8 different types of provisions'"
   },
   {
     "ID": 293419576,
@@ -43,6 +45,6 @@
     "original": "/8 different types of provisions",
     "translation": "/8 种不同类型的口粮",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Have ' + this.Math.min(8, uniqueProvisions) + '/8 different types of provisions'"
+    "context": "this.m.Requirements[0].Text = 'Have ' + this.Math.min(8, uniqueProvisions) + '/8 different types of provisions'"
   }
 ]

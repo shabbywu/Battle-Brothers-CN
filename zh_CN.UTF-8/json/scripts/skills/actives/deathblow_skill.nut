@@ -5,7 +5,7 @@
     "original": "Inflicts [color=",
     "translation": "当目标带有茫然、击晕或被困在网中的状态效果时，造成 [color=",
     "stage": 5,
-    "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] more damage against and ignores additional [color=' + this.Const.UI.Color.DamageValue + ']20%[/color] armor of targets that have the Dazed, Stunned or Trapped in Net status effects'"
+    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] more damage against and ignores additional [color=' + this.Const.UI.Color.DamageValue + ']20%[/color] armor of targets that have the Dazed, Stunned or Trapped in Net status effects'"
   },
   {
     "ID": 293419907,
@@ -21,7 +21,7 @@
     "original": "]20%[/color] armor of targets that have the Dazed, Stunned or Trapped in Net status effects",
     "translation": "]20%[/color] 护甲",
     "stage": 5,
-    "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] more damage against and ignores additional [color=' + this.Const.UI.Color.DamageValue + ']20%[/color] armor of targets that have the Dazed, Stunned or Trapped in Net status effects'"
+    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] more damage against and ignores additional [color=' + this.Const.UI.Color.DamageValue + ']20%[/color] armor of targets that have the Dazed, Stunned or Trapped in Net status effects'"
   },
   {
     "ID": 293419909,
@@ -45,6 +45,6 @@
     "original": "]33%[/color] more damage against and ignores additional [color=",
     "translation": "]33%[/color] 额外伤害，并额外穿透 [color=",
     "stage": 5,
-    "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] more damage against and ignores additional [color=' + this.Const.UI.Color.DamageValue + ']20%[/color] armor of targets that have the Dazed, Stunned or Trapped in Net status effects'"
+    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] more damage against and ignores additional [color=' + this.Const.UI.Color.DamageValue + ']20%[/color] armor of targets that have the Dazed, Stunned or Trapped in Net status effects'"
   }
 ]

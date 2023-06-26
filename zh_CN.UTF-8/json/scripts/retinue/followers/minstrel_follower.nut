@@ -4,7 +4,8 @@
     "key": "Makes you earn 15% more renown with every action",
     "original": "Makes you earn 15% more renown with every action",
     "translation": "所有行动都会获得额外 15% 的名望",
-    "stage": 5
+    "stage": 5,
+    "context": "'Makes you earn 15% more renown with every action'"
   },
   {
     "ID": 293419589,
@@ -12,7 +13,7 @@
     "original": "Visited ",
     "translation": "访问了",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Visited ' + settlementsVisited + '/' + maxSettlements + ' settlements'"
+    "context": "this.m.Requirements[0].Text = 'Visited ' + settlementsVisited + '/' + maxSettlements + ' settlements'"
   },
   {
     "ID": 293419590,
@@ -20,7 +21,7 @@
     "original": " settlements",
     "translation": "定居点",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Visited ' + settlementsVisited + '/' + maxSettlements + ' settlements'"
+    "context": "this.m.Requirements[0].Text = 'Visited ' + settlementsVisited + '/' + maxSettlements + ' settlements'"
   },
   {
     "ID": 293419591,
@@ -35,7 +36,8 @@
     "key": "Makes tavern rumors more likely to contain useful information",
     "original": "Makes tavern rumors more likely to contain useful information",
     "translation": "使酒馆谣言更有可能包含有用的信息",
-    "stage": 1
+    "stage": 1,
+    "context": "'Makes tavern rumors more likely to contain useful information'"
   },
   {
     "ID": 293419593,

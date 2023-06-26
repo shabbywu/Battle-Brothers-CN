@@ -12,28 +12,32 @@
     "key": "the Believer",
     "original": "the Believer",
     "translation": "信徒(the Believer)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Believer'"
   },
   {
     "ID": 293420886,
     "key": "the Insane",
     "original": "the Insane",
     "translation": "疯狂者(the Insane)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Insane'"
   },
   {
     "ID": 293420887,
     "key": "the Cultist",
     "original": "the Cultist",
     "translation": "邪教徒(the Cultist)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Cultist'"
   },
   {
     "ID": 293420888,
     "key": "the Mad",
     "original": "the Mad",
     "translation": "疯子(the Mad)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Mad'"
   },
   {
     "ID": 293420889,

@@ -12,7 +12,8 @@
     "key": "See this here dog tooth? I plan on selling it over in %settlement%, I heard they pay good coin for animal parts there.",
     "original": "See this here dog tooth? I plan on selling it over in %settlement%, I heard they pay good coin for animal parts there.",
     "translation": "你看这个犬齿？我打算把它卖到%settlement%，我听说那里对动物部位付的钱很多。",
-    "stage": 1
+    "stage": 1,
+    "context": "'See this here dog tooth? I plan on selling it over in %settlement%, I heard they pay good coin for animal parts there.'"
   },
   {
     "ID": 293411698,
@@ -27,7 +28,8 @@
     "key": "Are you lot beast hunters? I've heard that some strange characters have shown up in %settlement% and are buying every exotic monster trophy they can find.",
     "original": "Are you lot beast hunters? I've heard that some strange characters have shown up in %settlement% and are buying every exotic monster trophy they can find.",
     "translation": "你们是猎兽人吗？我听说在%settlement%出现了一些奇怪的人，他们正在购买他们能找到的每一个奇异的怪物战利品。",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Are you lot beast hunters? I've heard that some strange characters have shown up in %settlement% and are buying every exotic monster trophy they can find.\""
   },
   {
     "ID": 293411700,
@@ -50,6 +52,7 @@
     "key": "It seems all sorts of beast slayers and corpse-pickers are gathering in %settlement%. Something about selling beast trophies, I heard. Sounds like witchcraft to me.",
     "original": "It seems all sorts of beast slayers and corpse-pickers are gathering in %settlement%. Something about selling beast trophies, I heard. Sounds like witchcraft to me.",
     "translation": "似乎各种讨伐野兽的人和捡尸者都聚集在%settlement%。我听说是为了出售野兽战利品。听起来有点像巫术。",
-    "stage": 1
+    "stage": 1,
+    "context": "'It seems all sorts of beast slayers and corpse-pickers are gathering in %settlement%. Something about selling beast trophies, I heard. Sounds like witchcraft to me.'"
   }
 ]

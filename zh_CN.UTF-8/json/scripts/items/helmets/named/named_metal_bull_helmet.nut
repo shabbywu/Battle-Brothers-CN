@@ -4,7 +4,8 @@
     "key": "Alloy Headpiece",
     "original": "Alloy Headpiece",
     "translation": "合金机头",
-    "stage": 1
+    "stage": 1,
+    "context": "'Alloy Headpiece'"
   },
   {
     "ID": 293418182,
@@ -19,27 +20,31 @@
     "key": "Horned Crest",
     "original": "Horned Crest",
     "translation": "有角的冠",
-    "stage": 1
+    "stage": 1,
+    "context": "'Horned Crest'"
   },
   {
     "ID": 293418184,
     "key": "Protector",
     "original": "Protector",
     "translation": "保护者",
-    "stage": 1
+    "stage": 1,
+    "context": "'Protector'"
   },
   {
     "ID": 293418185,
     "key": "Horned Helmet",
     "original": "Horned Helmet",
     "translation": "带角头盔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Horned Helmet'"
   },
   {
     "ID": 293418186,
     "key": "Ancient Sallet",
     "original": "Ancient Sallet",
     "translation": "古老的萨莱特",
-    "stage": 1
+    "stage": 1,
+    "context": "'Ancient Sallet'"
   }
 ]

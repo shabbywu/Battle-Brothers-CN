@@ -13,6 +13,6 @@
     "original": " pushes through ",
     "translation": "强行挤开",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' pushes through ' + this.Const.UI.getColorizedEntityName(target)"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' pushes through ' + this.Const.UI.getColorizedEntityName(target))"
   }
 ]

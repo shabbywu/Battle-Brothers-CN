@@ -13,7 +13,7 @@
     "original": "]10%[/color] of head armor is lost each turn",
     "translation": "]10%[/color] 头部盔甲每回合都会损失",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']10%[/color] of head armor is lost each turn'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']10%[/color] of head armor is lost each turn'"
   },
   {
     "ID": 293421584,
@@ -21,7 +21,7 @@
     "original": " is unaffected by acid thanks to his unnatural physiology",
     "translation": "非自然的生理功能帮助他免受酸液影响",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' is unaffected by acid thanks to his unnatural physiology'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' is unaffected by acid thanks to his unnatural physiology')"
   },
   {
     "ID": 293421585,
@@ -29,7 +29,7 @@
     "original": "]10%[/color] of body armor is lost each turn",
     "translation": "]10%[/color] 身体护甲每回合都会损失",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']10%[/color] of body armor is lost each turn'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']10%[/color] of body armor is lost each turn'"
   },
   {
     "ID": 293421586,
@@ -37,7 +37,7 @@
     "original": "'s body has been sprayed with acid",
     "translation": "的身体被喷溅了酸液",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + \"'s body has been sprayed with acid\""
+    "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + \"'s body has been sprayed with acid\")"
   },
   {
     "ID": 293421587,

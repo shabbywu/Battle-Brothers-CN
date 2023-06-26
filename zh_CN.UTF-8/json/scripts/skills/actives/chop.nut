@@ -5,7 +5,7 @@
     "original": "]50%[/color] damage on a hit to the head",
     "translation": "]50%[/color] 伤害",
     "stage": 5,
-    "context": "'Inflicts additional [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] damage on a hit to the head'"
+    "context": "'text' = 'Inflicts additional [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] damage on a hit to the head'"
   },
   {
     "ID": 293419858,
@@ -13,7 +13,7 @@
     "original": "Inflicts additional [color=",
     "translation": "对头部造成额外 [color=",
     "stage": 5,
-    "context": "'Inflicts additional [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] damage on a hit to the head'"
+    "context": "'text' = 'Inflicts additional [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] damage on a hit to the head'"
   },
   {
     "ID": 293419859,

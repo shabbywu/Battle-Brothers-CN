@@ -5,7 +5,7 @@
     "original": " points",
     "translation": "点生命值",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + healthAdded + ' points'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + healthAdded + ' points')"
   },
   {
     "ID": 293422163,
@@ -13,6 +13,6 @@
     "original": " heals for ",
     "translation": "恢复了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + healthAdded + ' points'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + healthAdded + ' points')"
   }
 ]

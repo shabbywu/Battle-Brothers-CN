@@ -5,7 +5,7 @@
     "original": "]-5[/color] Fatigue Recovery per turn",
     "translation": "]-5[/color] 每回合疲劳值恢复量",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Fatigue Recovery per turn'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Fatigue Recovery per turn'"
   },
   {
     "ID": 293421868,

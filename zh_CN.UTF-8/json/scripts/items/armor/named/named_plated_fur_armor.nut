@@ -12,27 +12,31 @@
     "key": "Plate Harness",
     "original": "Plate Harness",
     "translation": "钢板甲胄",
-    "stage": 1
+    "stage": 1,
+    "context": "'Plate Harness'"
   },
   {
     "ID": 293417785,
     "key": "Plate-covered Hide",
     "original": "Plate-covered Hide",
     "translation": "板盖皮",
-    "stage": 1
+    "stage": 1,
+    "context": "'Plate-covered Hide'"
   },
   {
     "ID": 293417786,
     "key": "Plated Fur Armor",
     "original": "Plated Fur Armor",
     "translation": "镀毛皮铠甲",
-    "stage": 1
+    "stage": 1,
+    "context": "'Plated Fur Armor'"
   },
   {
     "ID": 293417787,
     "key": "Rivetted Fur",
     "original": "Rivetted Fur",
     "translation": "铆接毛皮",
-    "stage": 1
+    "stage": 1,
+    "context": "'Rivetted Fur'"
   }
 ]

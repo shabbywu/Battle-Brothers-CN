@@ -5,7 +5,7 @@
     "original": " uses Darkflight",
     "translation": "使用了黑暗飞行",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' uses Darkflight'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' uses Darkflight')"
   },
   {
     "ID": 293419905,

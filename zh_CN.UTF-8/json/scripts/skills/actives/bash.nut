@@ -5,7 +5,7 @@
     "original": "[/color] extra fatigue",
     "translation": "[/color] 额外疲劳值",
     "stage": 5,
-    "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
+    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
   },
   {
     "ID": 293419807,
@@ -21,7 +21,7 @@
     "original": "Inflicts [color=",
     "translation": "造成 [color=",
     "stage": 5,
-    "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
+    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
   },
   {
     "ID": 293419809,

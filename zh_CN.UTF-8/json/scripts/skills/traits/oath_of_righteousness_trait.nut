@@ -5,7 +5,7 @@
     "original": "]+15[/color] Resolve when fighting undead",
     "translation": "]+15[/color] 决心（对抗亡灵）",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Resolve when fighting undead'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Resolve when fighting undead'"
   },
   {
     "ID": 293422652,
@@ -13,7 +13,7 @@
     "original": "]-5[/color] Ranged Defense when not fighting undead",
     "translation": "]-5[/color] 远程防御（对抗非亡灵）",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Ranged Defense when not fighting undead'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Ranged Defense when not fighting undead'"
   },
   {
     "ID": 293422653,
@@ -21,7 +21,7 @@
     "original": "]+10[/color] Melee Skill when fighting undead",
     "translation": "]+10[/color] 近战技能（对抗亡灵）",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Melee Skill when fighting undead'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Melee Skill when fighting undead'"
   },
   {
     "ID": 293422654,
@@ -29,7 +29,7 @@
     "original": "]-5[/color] Melee Defense when not fighting undead",
     "translation": "]-5[/color] 近战防御（对抗非亡灵）",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Defense when not fighting undead'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Defense when not fighting undead'"
   },
   {
     "ID": 293422655,
@@ -37,7 +37,7 @@
     "original": "]+5[/color] Melee Defense when fighting undead",
     "translation": "]+5[/color] 近战防御（对抗亡灵）",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense when fighting undead'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense when fighting undead'"
   },
   {
     "ID": 293422656,
@@ -61,7 +61,7 @@
     "original": "]-5[/color] Melee Skill when not fighting undead",
     "translation": "]-5[/color] 近战技能（对抗非亡灵）",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Skill when not fighting undead'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Skill when not fighting undead'"
   },
   {
     "ID": 293422659,
@@ -69,7 +69,7 @@
     "original": "]-10[/color] Resolve when not fighting undead",
     "translation": "]-10[/color] 决心（对抗非亡灵）",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve when not fighting undead'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve when not fighting undead'"
   },
   {
     "ID": 293422660,
@@ -77,7 +77,7 @@
     "original": "]+10[/color] Ranged Skill when fighting undead",
     "translation": "]+10[/color] 远程技能（对抗亡灵）",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Ranged Skill when fighting undead'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Ranged Skill when fighting undead'"
   },
   {
     "ID": 293422661,
@@ -85,7 +85,7 @@
     "original": "]+5[/color] Ranged Defense when fighting undead",
     "translation": "]+5[/color] 远程防御（对抗亡灵）",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense when fighting undead'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense when fighting undead'"
   },
   {
     "ID": 293422662,
@@ -93,6 +93,6 @@
     "original": "]-5[/color] Ranged Skill when not fighting undead",
     "translation": "]-5[/color] 远程技能（对抗非亡灵）",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Ranged Skill when not fighting undead'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Ranged Skill when not fighting undead'"
   }
 ]

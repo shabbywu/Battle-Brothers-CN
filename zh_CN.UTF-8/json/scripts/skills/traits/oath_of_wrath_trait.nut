@@ -5,7 +5,7 @@
     "original": "]+15%[/color] chance to hit when wielding a two-handed or double-gripped melee weapon",
     "translation": "]+15%[/color] 持有双手或双手握持近战武器攻击的命中率",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+15%[/color] chance to hit when wielding a two-handed or double-gripped melee weapon'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+15%[/color] chance to hit when wielding a two-handed or double-gripped melee weapon'"
   },
   {
     "ID": 293422684,
@@ -21,7 +21,7 @@
     "original": "]-5[/color] Melee Defense",
     "translation": "]-5[/color] 近战防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Melee Defense'"
   },
   {
     "ID": 293422686,
@@ -29,7 +29,7 @@
     "original": "]-10[/color] Ranged Defense",
     "translation": "]-10[/color] 远程防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Ranged Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Ranged Defense'"
   },
   {
     "ID": 293422687,
@@ -44,6 +44,7 @@
     "key": "All kills are fatalities (if the weapon allows).",
     "original": "All kills are fatalities (if the weapon allows).",
     "translation": "所有的击杀都是必死击杀(如果武器允许)。",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'All kills are fatalities (if the weapon allows).'"
   }
 ]

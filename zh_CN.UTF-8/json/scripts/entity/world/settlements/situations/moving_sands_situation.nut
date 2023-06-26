@@ -4,7 +4,8 @@
     "key": "Word is that traders on the road to %settlement% have been swallowed whole by shifting sands. But who believes nonsense like that?",
     "original": "Word is that traders on the road to %settlement% have been swallowed whole by shifting sands. But who believes nonsense like that?",
     "translation": "有消息说，在去 %settlement% 的路上，商人们被流沙吞没了。但谁会相信这种胡话？",
-    "stage": 1
+    "stage": 1,
+    "context": "'Word is that traders on the road to %settlement% have been swallowed whole by shifting sands. But who believes nonsense like that?'"
   },
   {
     "ID": 293411800,
@@ -19,7 +20,8 @@
     "key": "You afraid of snakes? A lot have been seen near %settlement% lately, some as long as my arm, some as long as a whole trader's wagon!",
     "original": "You afraid of snakes? A lot have been seen near %settlement% lately, some as long as my arm, some as long as a whole trader's wagon!",
     "translation": "你怕蛇吗？最近在 %settlement% 附近发现了不少，有的像我的胳膊那么长，有的像整个商人的货车那么长！",
-    "stage": 1
+    "stage": 1,
+    "context": "\"You afraid of snakes? A lot have been seen near %settlement% lately, some as long as my arm, some as long as a whole trader's wagon!\""
   },
   {
     "ID": 293411802,

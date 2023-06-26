@@ -21,14 +21,15 @@
     "original": "]3[/color] turns to any undead target hit",
     "translation": "]3[/color]回合",
     "stage": 5,
-    "context": "'Damage of [color=' + this.Const.UI.Color.DamageValue + ']20[/color] for [color=' + this.Const.UI.Color.DamageValue + ']3[/color] turns to any undead target hit'"
+    "context": "'text' = 'Damage of [color=' + this.Const.UI.Color.DamageValue + ']20[/color] for [color=' + this.Const.UI.Color.DamageValue + ']3[/color] turns to any undead target hit'"
   },
   {
     "ID": 293418949,
     "key": "Is destroyed on use",
     "original": "Is destroyed on use",
     "translation": "使用后摧毁",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Is destroyed on use'"
   },
   {
     "ID": 293418950,
@@ -44,7 +45,7 @@
     "original": "Damage of [color=",
     "translation": "每回合对击中的亡灵目标造成 [color=",
     "stage": 1,
-    "context": "'Damage of [color=' + this.Const.UI.Color.DamageValue + ']20[/color] for [color=' + this.Const.UI.Color.DamageValue + ']3[/color] turns to any undead target hit'"
+    "context": "'text' = 'Damage of [color=' + this.Const.UI.Color.DamageValue + ']20[/color] for [color=' + this.Const.UI.Color.DamageValue + ']3[/color] turns to any undead target hit'"
   },
   {
     "ID": 293418952,
@@ -52,14 +53,15 @@
     "original": "]33%[/color] chance to hit bystanders at the same or lower height level as well.",
     "translation": "]33%[/color] 几率波及四周相同或更低高度的单位。",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] chance to hit bystanders at the same or lower height level as well.'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] chance to hit bystanders at the same or lower height level as well.'"
   },
   {
     "ID": 293418953,
     "key": "Worn in Offhand",
     "original": "Worn in Offhand",
     "translation": "副手持用",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Worn in Offhand'"
   },
   {
     "ID": 293418954,
@@ -67,7 +69,7 @@
     "original": "Range of [color=",
     "translation": "使用范围为[color=",
     "stage": 1,
-    "context": "'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
+    "context": "'text' = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
   },
   {
     "ID": 293418955,
@@ -75,7 +77,7 @@
     "original": "]20[/color] for [color=",
     "translation": "]20[/color] 生命值伤害，持续 [color=",
     "stage": 1,
-    "context": "'Damage of [color=' + this.Const.UI.Color.DamageValue + ']20[/color] for [color=' + this.Const.UI.Color.DamageValue + ']3[/color] turns to any undead target hit'"
+    "context": "'text' = 'Damage of [color=' + this.Const.UI.Color.DamageValue + ']20[/color] for [color=' + this.Const.UI.Color.DamageValue + ']3[/color] turns to any undead target hit'"
   },
   {
     "ID": 293418956,
@@ -83,7 +85,7 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] chance to hit bystanders at the same or lower height level as well.'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] chance to hit bystanders at the same or lower height level as well.'"
   },
   {
     "ID": 293418957,
@@ -91,7 +93,7 @@
     "original": "]100%[/color] of damage ignores armor",
     "translation": "]100%[/color] 伤害忽略护甲",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.DamageValue + ']100%[/color] of damage ignores armor'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.DamageValue + ']100%[/color] of damage ignores armor'"
   },
   {
     "ID": 293418958,
@@ -99,6 +101,6 @@
     "original": "[/color] tiles",
     "translation": "[/color] 格",
     "stage": 5,
-    "context": "'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
+    "context": "'text' = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
   }
 ]

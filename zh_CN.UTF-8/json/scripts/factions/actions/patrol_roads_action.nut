@@ -4,7 +4,8 @@
     "key": "Professional soldiers in service to local lords.",
     "original": "Professional soldiers in service to local lords.",
     "translation": "为地方领主服务的职业军人。",
-    "stage": 5
+    "stage": 5,
+    "context": "party.setDescription('Professional soldiers in service to local lords.')"
   },
   {
     "ID": 293417325,
@@ -12,6 +13,6 @@
     "original": " Company",
     "translation": " 战团",
     "stage": 1,
-    "context": "waypoints.0.getName() + ' Company'"
+    "context": "this.getFaction().spawnEntity(waypoints[0].getTile(), waypoints[0].getName() + ' Company', True, this.Const.World.Spawn.Noble, this.Math.rand(120, 250) * this.getReputationToDifficultyLightMult())"
   }
 ]

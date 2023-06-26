@@ -5,7 +5,7 @@
     "original": "]+5[/color] Melee Skill",
     "translation": "]+5[/color] 近战技能",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Skill'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Skill'"
   },
   {
     "ID": 293422471,

@@ -4,7 +4,8 @@
     "key": "Removes fresh Cut Artery, Cut Neck Vein and Grazed Neck injuries",
     "original": "Removes fresh Cut Artery, Cut Neck Vein and Grazed Neck injuries",
     "translation": "移除动脉断裂、颈静脉断裂和颈部擦破",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Removes fresh Cut Artery, Cut Neck Vein and Grazed Neck injuries'"
   },
   {
     "ID": 293419801,
@@ -12,14 +13,15 @@
     "original": "]Can not be used because this character is engaged in melee[/color]",
     "translation": "]无法使用，因为此角色已卷入近战[/color]",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   },
   {
     "ID": 293419802,
     "key": "Removes the Bleeding status effect",
     "original": "Removes the Bleeding status effect",
     "translation": "移除流血状态效果",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Removes the Bleeding status effect'"
   },
   {
     "ID": 293419803,

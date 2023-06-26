@@ -13,7 +13,7 @@
     "original": "]+10[/color] Durability",
     "translation": "]+10[/color] 耐久度",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Durability'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Durability'"
   },
   {
     "ID": 293417991,
@@ -29,7 +29,7 @@
     "original": "Reduces any ranged damage to the body by [color=",
     "translation": "减少对身体的远程伤害 [color=",
     "stage": 1,
-    "context": "'Reduces any ranged damage to the body by [color=' + this.Const.UI.Color.NegativeValue + ']-20%[/color]'"
+    "context": "'text' = 'Reduces any ranged damage to the body by [color=' + this.Const.UI.Color.NegativeValue + ']-20%[/color]'"
   },
   {
     "ID": 293417993,

@@ -12,7 +12,8 @@
     "key": "the Lone Wolf",
     "original": "the Lone Wolf",
     "translation": "独狼(the Lone Wolf)",
-    "stage": 5
+    "stage": 5,
+    "context": "bro.setTitle('the Lone Wolf')"
   },
   {
     "ID": 293419691,

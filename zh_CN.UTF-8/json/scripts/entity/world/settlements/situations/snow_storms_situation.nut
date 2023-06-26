@@ -28,7 +28,8 @@
     "key": "Bad weather out there towards %settlement%, looks like a full-blown blizzard.",
     "original": "Bad weather out there towards %settlement%, looks like a full-blown blizzard.",
     "translation": "%settlement% 那边的坏天气，看起来像是一场暴风雪。",
-    "stage": 1
+    "stage": 1,
+    "context": "'Bad weather out there towards %settlement%, looks like a full-blown blizzard.'"
   },
   {
     "ID": 293411899,

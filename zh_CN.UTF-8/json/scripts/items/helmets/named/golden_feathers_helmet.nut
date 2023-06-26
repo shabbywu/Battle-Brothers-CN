@@ -4,14 +4,16 @@
     "key": "Feathered Helm",
     "original": "Feathered Helm",
     "translation": "羽毛头盔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Feathered Helm'"
   },
   {
     "ID": 293418152,
     "key": "Helm with Coif",
     "original": "Helm with Coif",
     "translation": "带头巾的头盔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Helm with Coif'"
   },
   {
     "ID": 293418153,
@@ -26,20 +28,23 @@
     "key": "Headpiece",
     "original": "Headpiece",
     "translation": "头饰",
-    "stage": 1
+    "stage": 1,
+    "context": "'Headpiece'"
   },
   {
     "ID": 293418155,
     "key": "Shimmering Helmet",
     "original": "Shimmering Helmet",
     "translation": "闪闪发光的头盔",
-    "stage": 1
+    "stage": 1,
+    "context": "'Shimmering Helmet'"
   },
   {
     "ID": 293418156,
     "key": "Golden Skullcap",
     "original": "Golden Skullcap",
     "translation": "金头盖",
-    "stage": 1
+    "stage": 1,
+    "context": "'Golden Skullcap'"
   }
 ]

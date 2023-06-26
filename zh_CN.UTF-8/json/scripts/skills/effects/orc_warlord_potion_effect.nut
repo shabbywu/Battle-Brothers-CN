@@ -4,14 +4,16 @@
     "key": "Using orc weapons no longer imposes additional fatigue costs",
     "original": "Using orc weapons no longer imposes additional fatigue costs",
     "translation": "使用兽人武器不再产生疲劳值代价。",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Using orc weapons no longer imposes additional fatigue costs'"
   },
   {
     "ID": 293421654,
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
     "translation": "下次喝下突变药剂时会导致更长时间的疾病",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Further mutations will cause a longer period of sickness'"
   },
   {
     "ID": 293421655,

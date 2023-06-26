@@ -13,6 +13,6 @@
     "original": "'s body has been sprayed with holy water",
     "translation": "的身体被溅洒了圣水",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + \"'s body has been sprayed with holy water\""
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + \"'s body has been sprayed with holy water\")"
   }
 ]

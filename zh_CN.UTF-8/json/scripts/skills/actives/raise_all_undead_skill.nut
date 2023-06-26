@@ -5,7 +5,7 @@
     "original": " has mastered death!",
     "translation": "掌控了死亡！",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has mastered death!'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has mastered death!')"
   },
   {
     "ID": 293420253,

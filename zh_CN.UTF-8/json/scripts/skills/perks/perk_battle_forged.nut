@@ -21,7 +21,7 @@
     "original": "%[/color] of any damage to armor from attacks",
     "translation": "%[/color] 护甲伤害(对所有类型的攻击均生效)",
     "stage": 5,
-    "context": "'Only receive [color=' + this.Const.UI.Color.PositiveValue + ']' + fm + '%[/color] of any damage to armor from attacks'"
+    "context": "'text' = 'Only receive [color=' + this.Const.UI.Color.PositiveValue + ']' + fm + '%[/color] of any damage to armor from attacks'"
   },
   {
     "ID": 293422139,
@@ -29,7 +29,7 @@
     "original": "Only receive [color=",
     "translation": "只受到 [color=",
     "stage": 5,
-    "context": "'Only receive [color=' + this.Const.UI.Color.PositiveValue + ']' + fm + '%[/color] of any damage to armor from attacks'"
+    "context": "'text' = 'Only receive [color=' + this.Const.UI.Color.PositiveValue + ']' + fm + '%[/color] of any damage to armor from attacks'"
   },
   {
     "ID": 293422140,
@@ -37,6 +37,6 @@
     "original": "]This character's armor isn't protective enough to grant any benefit from having the Battleforged perk[/color]",
     "translation": "]这个角色的盔甲没有足够的保护，无法从战斗锻造特技中获得任何好处[/color]",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + \"]This character's armor isn't protective enough to grant any benefit from having the Battleforged perk[/color]\""
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + \"]This character's armor isn't protective enough to grant any benefit from having the Battleforged perk[/color]\""
   }
 ]

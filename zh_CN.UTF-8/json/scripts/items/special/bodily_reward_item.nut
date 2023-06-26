@@ -4,7 +4,8 @@
     "key": "Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.",
     "original": "Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.",
     "translation": "右键单击或拖动到当前选定的角色上进行饮用。 此物品会在使用过程中消耗掉。",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
   },
   {
     "ID": 293418838,
@@ -27,6 +28,7 @@
     "key": "Instantly heals all temporary injuries, as well as the Hangover and Exhausted status effects",
     "original": "Instantly heals all temporary injuries, as well as the Hangover and Exhausted status effects",
     "translation": "立即治愈所有临时伤害，以及宿醉和精疲力竭状态的影响",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Instantly heals all temporary injuries, as well as the Hangover and Exhausted status effects'"
   }
 ]

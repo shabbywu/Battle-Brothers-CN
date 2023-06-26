@@ -13,6 +13,6 @@
     "original": " moves its tail",
     "translation": "移动了它的尾巴",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' moves its tail'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' moves its tail')"
   }
 ]

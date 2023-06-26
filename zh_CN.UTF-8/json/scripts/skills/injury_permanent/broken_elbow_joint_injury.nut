@@ -5,14 +5,15 @@
     "original": "]-30%[/color] Melee Defense",
     "translation": "]-30%[/color] 近战防御",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-30%[/color] Melee Defense'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-30%[/color] Melee Defense'"
   },
   {
     "ID": 293422090,
     "key": "Is always content with being in reserve",
     "original": "Is always content with being in reserve",
     "translation": "总是满足于充当后备",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Is always content with being in reserve'"
   },
   {
     "ID": 293422091,
@@ -28,7 +29,7 @@
     "original": "]-20%[/color] Ranged Skill",
     "translation": "]-20%[/color] 远程技能",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-20%[/color] Ranged Skill'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-20%[/color] Ranged Skill'"
   },
   {
     "ID": 293422093,
@@ -44,6 +45,6 @@
     "original": "]-20%[/color] Melee Skill",
     "translation": "]-20%[/color] 近战技能",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-20%[/color] Melee Skill'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-20%[/color] Melee Skill'"
   }
 ]

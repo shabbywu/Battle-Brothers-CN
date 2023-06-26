@@ -5,7 +5,7 @@
     "original": " flings back ",
     "translation": "向后抛掷了",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' flings back ' + this.Const.UI.getColorizedEntityName(target)"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' flings back ' + this.Const.UI.getColorizedEntityName(target))"
   },
   {
     "ID": 293419993,

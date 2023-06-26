@@ -13,7 +13,7 @@
     "original": "Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts.",
     "translation": "你的名望会提高，这意味着合同的报酬会更高，并有可能解锁新类型的合同。",
     "stage": 5,
-    "context": "'Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts.' + reward_tooltip == '' ? '\n\n' : ''"
+    "context": "'text' = 'Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts.' + reward_tooltip == '' ? '\n\n' : ''"
   },
   {
     "ID": 293403599,
@@ -28,14 +28,16 @@
     "key": "Oath Boon",
     "original": "Oath Boon",
     "translation": "誓言恩赐",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Oath Boon'"
   },
   {
     "ID": 293403601,
     "key": "Oath Burden",
     "original": "Oath Burden",
     "translation": "誓言之担",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Oath Burden'"
   },
   {
     "ID": 293403602,

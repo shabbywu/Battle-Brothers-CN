@@ -4,7 +4,8 @@
     "key": "End Round",
     "original": "End Round",
     "translation": "结束回合",
-    "stage": 1
+    "stage": 1,
+    "context": "this.Tactical.State.showDialogPopup('End Round', 'Have all your characters skip their turn until the next round starts?', function None(){\n    this.m.IsSkippingRound = True;\n    this.m.JSHandle.call('setEndTurnAllButtonVisible', False);\n    foreach( e in this.m.CurrentEntities){\n        if (e.isPlayerControlled()) {\n            e.setSkipTurn(True)\n        }\n    };\n    this.initNextTurn();\n    return;\n}.bindenv(this), null)"
   },
   {
     "ID": 293422945,
@@ -12,14 +13,15 @@
     "original": " Round(s).",
     "translation": "回合。",
     "stage": 1,
-    "context": "'Info: Battle ended after ' + this.m.CurrentRound + ' Round(s).'"
+    "context": "this.logDebug('Info: Battle ended after ' + this.m.CurrentRound + ' Round(s).')"
   },
   {
     "ID": 293422946,
     "key": "ERROR: Skill was clicked for an unknown entity!",
     "original": "ERROR: Skill was clicked for an unknown entity!",
     "translation": "错误：对于未知的实体点击了技能！",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logDebug('ERROR: Skill was clicked for an unknown entity!')"
   },
   {
     "ID": 293422947,
@@ -27,7 +29,7 @@
     "original": "Info: Battle ended after ",
     "translation": "信息: 战斗结束时间为：",
     "stage": 1,
-    "context": "'Info: Battle ended after ' + this.m.CurrentRound + ' Round(s).'"
+    "context": "this.logDebug('Info: Battle ended after ' + this.m.CurrentRound + ' Round(s).')"
   },
   {
     "ID": 293422948,
@@ -35,21 +37,23 @@
     "original": "]Not enough Action Points![/color]",
     "translation": "]行动点不足！[/color]",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Not enough Action Points![/color]'"
+    "context": "this.Tactical.EventLog.log('[color=' + this.Const.UI.Color.NegativeValue + ']Not enough Action Points![/color]')"
   },
   {
     "ID": 293422949,
     "key": "Have all your characters skip their turn until the next round starts?",
     "original": "Have all your characters skip their turn until the next round starts?",
     "translation": "你所有的角色都跳过他们的回合直到下一轮开始？",
-    "stage": 1
+    "stage": 1,
+    "context": "this.Tactical.State.showDialogPopup('End Round', 'Have all your characters skip their turn until the next round starts?', function None(){\n    this.m.IsSkippingRound = True;\n    this.m.JSHandle.call('setEndTurnAllButtonVisible', False);\n    foreach( e in this.m.CurrentEntities){\n        if (e.isPlayerControlled()) {\n            e.setSkipTurn(True)\n        }\n    };\n    this.initNextTurn();\n    return;\n}.bindenv(this), null)"
   },
   {
     "ID": 293422950,
     "key": "ERROR: Skill cancel was clicked for an unknown entity!",
     "original": "ERROR: Skill cancel was clicked for an unknown entity!",
     "translation": "错误：未知实体点击了技能取消！",
-    "stage": 1
+    "stage": 1,
+    "context": "this.logDebug('ERROR: Skill cancel was clicked for an unknown entity!')"
   },
   {
     "ID": 293422951,
@@ -57,7 +61,7 @@
     "original": " already exists.)",
     "translation": "已存在。)",
     "stage": 1,
-    "context": "'TurnSequenceBar::addEntity(' + _entity.getName() + ' already exists.)'"
+    "context": "this.logDebug('TurnSequenceBar::addEntity(' + _entity.getName() + ' already exists.)')"
   },
   {
     "ID": 293422952,
@@ -65,6 +69,6 @@
     "original": "]Too much fatigue![/color]",
     "translation": "]太疲劳了！[/color]",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Too much fatigue![/color]'"
+    "context": "this.Tactical.EventLog.log('[color=' + this.Const.UI.Color.NegativeValue + ']Too much fatigue![/color]')"
   }
 ]

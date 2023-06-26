@@ -5,7 +5,7 @@
     "original": "]33%[/color] chance to knock back on a hit",
     "translation": "]33%[/color] 几率在命中时击退目标",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] chance to knock back on a hit'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] chance to knock back on a hit'"
   },
   {
     "ID": 293420339,
@@ -13,7 +13,7 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] chance to stagger on a hit'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] chance to knock back on a hit'"
   },
   {
     "ID": 293420340,
@@ -29,7 +29,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-5%[/color] chance to hit'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] chance to hit'"
   },
   {
     "ID": 293420342,
@@ -45,7 +45,7 @@
     "original": " has staggered ",
     "translation": "趔趄了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn')"
   },
   {
     "ID": 293420344,
@@ -53,7 +53,7 @@
     "original": "]-5%[/color] chance to hit",
     "translation": "]-5%[/color] 命中惩罚",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-5%[/color] chance to hit'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-5%[/color] chance to hit'"
   },
   {
     "ID": 293420345,
@@ -69,7 +69,7 @@
     "original": " for one turn",
     "translation": "，持续 1 回合",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn')"
   },
   {
     "ID": 293420347,
@@ -77,7 +77,7 @@
     "original": "]-10%[/color] chance to hit",
     "translation": "]-10%[/color] 命中惩罚",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] chance to hit'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] chance to hit'"
   },
   {
     "ID": 293420348,
@@ -85,14 +85,15 @@
     "original": " has knocked back ",
     "translation": "击退了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has knocked back ' + this.Const.UI.getColorizedEntityName(_target)"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has knocked back ' + this.Const.UI.getColorizedEntityName(_target))"
   },
   {
     "ID": 293420349,
     "key": "Can hit up to 3 targets",
     "original": "Can hit up to 3 targets",
     "translation": "最多可以击中 3 个目标",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Can hit up to 3 targets'"
   },
   {
     "ID": 293420350,
@@ -100,6 +101,6 @@
     "original": "]33%[/color] chance to stagger on a hit",
     "translation": "]33%[/color] 几率在命中时造成趔趄",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] chance to stagger on a hit'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] chance to stagger on a hit'"
   }
 ]

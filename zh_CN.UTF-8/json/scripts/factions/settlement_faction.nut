@@ -5,6 +5,6 @@
     "original": "of ",
     "translation": " ·",
     "stage": 1,
-    "context": "'of ' + this.m.Name"
+    "context": "character.setTitle('of ' + this.m.Name)"
   }
 ]

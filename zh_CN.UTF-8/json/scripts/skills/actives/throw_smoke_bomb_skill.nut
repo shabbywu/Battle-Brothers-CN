@@ -13,7 +13,7 @@
     "original": "Increases Ranged Defense by [color=",
     "translation": "为烟雾中的角色增加 [color=",
     "stage": 1,
-    "context": "'Increases Ranged Defense by [color=' + this.Const.UI.Color.PositiveValue + ']+100%[/color], but lowers Ranged Skill by [color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] for anyone inside'"
+    "context": "'text' = 'Increases Ranged Defense by [color=' + this.Const.UI.Color.PositiveValue + ']+100%[/color], but lowers Ranged Skill by [color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] for anyone inside'"
   },
   {
     "ID": 293420652,
@@ -21,7 +21,7 @@
     "original": "]+100%[/color], but lowers Ranged Skill by [color=",
     "translation": "]+100%[/color] 远程防御, 但降低 [color=",
     "stage": 1,
-    "context": "'Increases Ranged Defense by [color=' + this.Const.UI.Color.PositiveValue + ']+100%[/color], but lowers Ranged Skill by [color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] for anyone inside'"
+    "context": "'text' = 'Increases Ranged Defense by [color=' + this.Const.UI.Color.PositiveValue + ']+100%[/color], but lowers Ranged Skill by [color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] for anyone inside'"
   },
   {
     "ID": 293420653,
@@ -29,7 +29,7 @@
     "original": "]7[/color] tiles in smoke for one round, allowing anyone inside to move freely and ignore zones of control",
     "translation": "]7[/color]个地块的浓烟覆盖，持续一回合，允许内部任何人自由移动且忽略控制区",
     "stage": 1,
-    "context": "'Covers [color=' + this.Const.UI.Color.DamageValue + ']7[/color] tiles in smoke for one round, allowing anyone inside to move freely and ignore zones of control'"
+    "context": "'text' = 'Covers [color=' + this.Const.UI.Color.DamageValue + ']7[/color] tiles in smoke for one round, allowing anyone inside to move freely and ignore zones of control'"
   },
   {
     "ID": 293420654,
@@ -37,21 +37,23 @@
     "original": "]-50%[/color] for anyone inside",
     "translation": "]-50%[/color] 远程技能。",
     "stage": 1,
-    "context": "'Increases Ranged Defense by [color=' + this.Const.UI.Color.PositiveValue + ']+100%[/color], but lowers Ranged Skill by [color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] for anyone inside'"
+    "context": "'text' = 'Increases Ranged Defense by [color=' + this.Const.UI.Color.PositiveValue + ']+100%[/color], but lowers Ranged Skill by [color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] for anyone inside'"
   },
   {
     "ID": 293420655,
     "key": "Extinguishes existing tile effects like Fire or Miasma",
     "original": "Extinguishes existing tile effects like Fire or Miasma",
     "translation": "熄灭现有的格子效果，如火焰或瘴气",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Extinguishes existing tile effects like Fire or Miasma'"
   },
   {
     "ID": 293420656,
     "key": "Dense smoke covers the area, allowing anyone inside to move freely and ignore zones of control, and granting protection from ranged attacks",
     "original": "Dense smoke covers the area, allowing anyone inside to move freely and ignore zones of control, and granting protection from ranged attacks",
     "translation": "浓烟笼罩着这片区域，允许里面的任何人自由移动，忽视控制区，并给予保护免受远程攻击",
-    "stage": 1
+    "stage": 1,
+    "context": "'Tooltip' = 'Dense smoke covers the area, allowing anyone inside to move freely and ignore zones of control, and granting protection from ranged attacks'"
   },
   {
     "ID": 293420657,
@@ -67,6 +69,6 @@
     "original": "Covers [color=",
     "translation": "覆盖[color=",
     "stage": 1,
-    "context": "'Covers [color=' + this.Const.UI.Color.DamageValue + ']7[/color] tiles in smoke for one round, allowing anyone inside to move freely and ignore zones of control'"
+    "context": "'text' = 'Covers [color=' + this.Const.UI.Color.DamageValue + ']7[/color] tiles in smoke for one round, allowing anyone inside to move freely and ignore zones of control'"
   }
 ]

@@ -20,7 +20,8 @@
     "key": "Resurrects any human killed with it as a Wiederganger fighting for you",
     "original": "Resurrects any human killed with it as a Wiederganger fighting for you",
     "translation": "杀死的任何人类单位都将复活为丧尸为你而战",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Resurrects any human killed with it as a Wiederganger fighting for you'"
   },
   {
     "ID": 293419217,

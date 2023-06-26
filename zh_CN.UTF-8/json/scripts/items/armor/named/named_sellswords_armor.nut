@@ -4,14 +4,16 @@
     "key": "Mercenary Coat",
     "original": "Mercenary Coat",
     "translation": "雇佣兵外套",
-    "stage": 1
+    "stage": 1,
+    "context": "'Mercenary Coat'"
   },
   {
     "ID": 293417789,
     "key": "Layered Armor",
     "original": "Layered Armor",
     "translation": "复层装甲",
-    "stage": 1
+    "stage": 1,
+    "context": "'Layered Armor'"
   },
   {
     "ID": 293417790,
@@ -26,13 +28,15 @@
     "key": "Sellsword's Hide",
     "original": "Sellsword's Hide",
     "translation": "佣兵的遮挡",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Sellsword's Hide\""
   },
   {
     "ID": 293417792,
     "key": "Plated Coat",
     "original": "Plated Coat",
     "translation": "护板外套",
-    "stage": 1
+    "stage": 1,
+    "context": "'Plated Coat'"
   }
 ]

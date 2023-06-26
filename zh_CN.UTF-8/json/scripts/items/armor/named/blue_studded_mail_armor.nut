@@ -4,21 +4,24 @@
     "key": "Toadskin",
     "original": "Toadskin",
     "translation": "蟾蜍皮",
-    "stage": 1
+    "stage": 1,
+    "context": "'Toadskin'"
   },
   {
     "ID": 293417703,
     "key": "Ogreskin",
     "original": "Ogreskin",
     "translation": "食人魔皮",
-    "stage": 1
+    "stage": 1,
+    "context": "'Ogreskin'"
   },
   {
     "ID": 293417704,
     "key": "Layered Armor",
     "original": "Layered Armor",
     "translation": "复层装甲",
-    "stage": 1
+    "stage": 1,
+    "context": "'Layered Armor'"
   },
   {
     "ID": 293417705,
@@ -33,13 +36,15 @@
     "key": "Padded Mail",
     "original": "Padded Mail",
     "translation": "镶甲",
-    "stage": 1
+    "stage": 1,
+    "context": "'Padded Mail'"
   },
   {
     "ID": 293417707,
     "key": "Reinforced Mail",
     "original": "Reinforced Mail",
     "translation": "强化甲",
-    "stage": 1
+    "stage": 1,
+    "context": "'Reinforced Mail'"
   }
 ]

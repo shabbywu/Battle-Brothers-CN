@@ -5,7 +5,7 @@
     "original": "]-30%[/color] Initiative",
     "translation": "]-30%[/color] 主动性",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-30%[/color] Initiative'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-30%[/color] Initiative'"
   },
   {
     "ID": 293422128,
@@ -13,14 +13,15 @@
     "original": "]-40%[/color] Resolve",
     "translation": "]-40%[/color] 决心",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Resolve'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']-40%[/color] Resolve'"
   },
   {
     "ID": 293422129,
     "key": "Is always content with being in reserve",
     "original": "Is always content with being in reserve",
     "translation": "总是满足于充当后备",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Is always content with being in reserve'"
   },
   {
     "ID": 293422130,

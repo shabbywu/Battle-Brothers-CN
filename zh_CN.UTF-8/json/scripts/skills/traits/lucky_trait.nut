@@ -12,14 +12,16 @@
     "key": "the Lucky",
     "original": "the Lucky",
     "translation": "幸运星(the Lucky)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Lucky'"
   },
   {
     "ID": 293422596,
     "key": "the Blessed",
     "original": "the Blessed",
     "translation": "蒙福者(the Blessed)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Blessed'"
   },
   {
     "ID": 293422597,
@@ -27,7 +29,7 @@
     "original": "]10%[/color] chance to have any attacker require two successful attack rolls in order to hit",
     "translation": "]10%[/color] 几率使任何攻击者需要进行两次成功的攻击检定才能命中",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']10%[/color] chance to have any attacker require two successful attack rolls in order to hit'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']10%[/color] chance to have any attacker require two successful attack rolls in order to hit'"
   },
   {
     "ID": 293422598,
@@ -35,7 +37,7 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']10%[/color] chance to have any attacker require two successful attack rolls in order to hit'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']10%[/color] chance to have any attacker require two successful attack rolls in order to hit'"
   },
   {
     "ID": 293422599,

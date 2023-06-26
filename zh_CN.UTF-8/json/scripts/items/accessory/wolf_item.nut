@@ -13,7 +13,7 @@
     "original": " the Wolf",
     "translation": "狼",
     "stage": 5,
-    "context": "this.m.Name = this.Const.Strings.WardogNames.this.Math.rand(0, this.Const.Strings.WardogNames.len() - 1) + ' the Wolf'"
+    "context": "this.m.Name = this.Const.Strings.WardogNames[this.Math.rand(0, this.Const.Strings.WardogNames.len() - 1)] + ' the Wolf'"
   },
   {
     "ID": 293417519,

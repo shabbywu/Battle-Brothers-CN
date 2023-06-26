@@ -4,56 +4,64 @@
     "key": "Scales",
     "original": "Scales",
     "translation": "鳞皮甲",
-    "stage": 1
+    "stage": 1,
+    "context": "'Scales'"
   },
   {
     "ID": 293417717,
     "key": "Scale Armor",
     "original": "Scale Armor",
     "translation": "鳞甲",
-    "stage": 1
+    "stage": 1,
+    "context": "'Scale Armor'"
   },
   {
     "ID": 293417718,
     "key": "Scale Tunic",
     "original": "Scale Tunic",
     "translation": "鳞片外衣",
-    "stage": 1
+    "stage": 1,
+    "context": "'Scale Tunic'"
   },
   {
     "ID": 293417719,
     "key": "Dragonskin",
     "original": "Dragonskin",
     "translation": "龙鳞甲",
-    "stage": 1
+    "stage": 1,
+    "context": "'Dragonskin'"
   },
   {
     "ID": 293417720,
     "key": "Scale Shirt",
     "original": "Scale Shirt",
     "translation": "鳞片衬衫",
-    "stage": 1
+    "stage": 1,
+    "context": "'Scale Shirt'"
   },
   {
     "ID": 293417721,
     "key": "Snakeskin",
     "original": "Snakeskin",
     "translation": "蛇皮甲",
-    "stage": 1
+    "stage": 1,
+    "context": "'Snakeskin'"
   },
   {
     "ID": 293417722,
     "key": "Goldskin",
     "original": "Goldskin",
     "translation": "黄金之皮",
-    "stage": 1
+    "stage": 1,
+    "context": "'Goldskin'"
   },
   {
     "ID": 293417723,
     "key": "Golden Armor",
     "original": "Golden Armor",
     "translation": "黄金甲",
-    "stage": 1
+    "stage": 1,
+    "context": "'Golden Armor'"
   },
   {
     "ID": 293417724,
@@ -68,13 +76,15 @@
     "key": "Wyrmskin",
     "original": "Wyrmskin",
     "translation": "古龙皮",
-    "stage": 1
+    "stage": 1,
+    "context": "'Wyrmskin'"
   },
   {
     "ID": 293417726,
     "key": "Golden Reminder",
     "original": "Golden Reminder",
     "translation": "黄金提示",
-    "stage": 1
+    "stage": 1,
+    "context": "'Golden Reminder'"
   }
 ]

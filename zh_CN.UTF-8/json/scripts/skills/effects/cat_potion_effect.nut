@@ -5,14 +5,15 @@
     "original": "]+20[/color] Initiative",
     "translation": "]+20[/color] 主动性",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+20[/color] Initiative'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+20[/color] Initiative'"
   },
   {
     "ID": 293421438,
     "key": "Will be gone after 1 more battle",
     "original": "Will be gone after 1 more battle",
     "translation": "会在1场战斗之后消失",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Will be gone after 1 more battle'"
   },
   {
     "ID": 293421439,

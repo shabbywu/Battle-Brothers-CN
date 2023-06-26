@@ -5,7 +5,7 @@
     "original": "]25%[/color] of damage taken in melee back to the attacker",
     "translation": "]25%[/color] 近战伤害反弹给攻击者",
     "stage": 1,
-    "context": "'Reflects [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] of damage taken in melee back to the attacker'"
+    "context": "'text' = 'Reflects [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] of damage taken in melee back to the attacker'"
   },
   {
     "ID": 293418118,
@@ -13,7 +13,7 @@
     "original": "Reflects [color=",
     "translation": "反弹[color=",
     "stage": 1,
-    "context": "'Reflects [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] of damage taken in melee back to the attacker'"
+    "context": "'text' = 'Reflects [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] of damage taken in melee back to the attacker'"
   },
   {
     "ID": 293418119,

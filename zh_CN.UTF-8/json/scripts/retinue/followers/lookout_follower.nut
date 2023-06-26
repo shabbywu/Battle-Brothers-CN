@@ -5,21 +5,23 @@
     "original": "/10 locations on your own",
     "translation": "/10个地点（独自完成）",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Discovered ' + this.Math.min(10, this.World.Statistics.getFlags().getAsInt('LocationsDiscovered')) + '/10 locations on your own'"
+    "context": "this.m.Requirements[0].Text = 'Discovered ' + this.Math.min(10, this.World.Statistics.getFlags().getAsInt('LocationsDiscovered')) + '/10 locations on your own'"
   },
   {
     "ID": 293419583,
     "key": "Increases your sight radius by 25%",
     "original": "Increases your sight radius by 25%",
     "translation": "增加你的视野25%",
-    "stage": 1
+    "stage": 1,
+    "context": "'Increases your sight radius by 25%'"
   },
   {
     "ID": 293419584,
     "key": "Reveals extended information about footprints",
     "original": "Reveals extended information about footprints",
     "translation": "显示有关足迹的扩展信息",
-    "stage": 1
+    "stage": 1,
+    "context": "'Reveals extended information about footprints'"
   },
   {
     "ID": 293419585,
@@ -35,7 +37,7 @@
     "original": "Discovered ",
     "translation": "发现",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Discovered ' + this.Math.min(10, this.World.Statistics.getFlags().getAsInt('LocationsDiscovered')) + '/10 locations on your own'"
+    "context": "this.m.Requirements[0].Text = 'Discovered ' + this.Math.min(10, this.World.Statistics.getFlags().getAsInt('LocationsDiscovered')) + '/10 locations on your own'"
   },
   {
     "ID": 293419587,

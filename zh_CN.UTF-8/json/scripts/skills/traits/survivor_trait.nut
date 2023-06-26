@@ -12,14 +12,16 @@
     "key": "the Lucky",
     "original": "the Lucky",
     "translation": "幸运星(the Lucky)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Lucky'"
   },
   {
     "ID": 293422743,
     "key": "the Blessed",
     "original": "the Blessed",
     "translation": "蒙福者(the Blessed)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Blessed'"
   },
   {
     "ID": 293422744,
@@ -27,14 +29,15 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']90%[/color] chance to survive if struck down and not killed by a fatality'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']90%[/color] chance to survive if struck down and not killed by a fatality'"
   },
   {
     "ID": 293422745,
     "key": "the Survivor",
     "original": "the Survivor",
     "translation": "幸存者(the Survivor)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Survivor'"
   },
   {
     "ID": 293422746,
@@ -42,7 +45,7 @@
     "original": "]90%[/color] chance to survive if struck down and not killed by a fatality",
     "translation": "]90%[/color] 几率在受非必死击杀且生命值归零时幸存",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']90%[/color] chance to survive if struck down and not killed by a fatality'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']90%[/color] chance to survive if struck down and not killed by a fatality'"
   },
   {
     "ID": 293422747,

@@ -4,7 +4,8 @@
     "key": "Praise the wise council of %settlement%! A time of food, drink and games is upon us!",
     "original": "Praise the wise council of %settlement%! A time of food, drink and games is upon us!",
     "translation": "赞美英明的 %settlement% 议会！吃的，喝的，玩的应有尽有！",
-    "stage": 1
+    "stage": 1,
+    "context": "'Praise the wise council of %settlement%! A time of food, drink and games is upon us!'"
   },
   {
     "ID": 293411684,
@@ -27,14 +28,16 @@
     "key": "Ever been to the famed games of the south? Head to %settlement% and see for yourself the glory of the festivities!",
     "original": "Ever been to the famed games of the south? Head to %settlement% and see for yourself the glory of the festivities!",
     "translation": "去过著名的南方比赛吗？去 %settlement%，亲眼看看庆典的辉煌！",
-    "stage": 1
+    "stage": 1,
+    "context": "'Ever been to the famed games of the south? Head to %settlement% and see for yourself the glory of the festivities!'"
   },
   {
     "ID": 293411687,
     "key": "All the hard work through the year and for what? I will tell you: Food, drink and games! I will head out to %settlement% to join in, and so should you.",
     "original": "All the hard work through the year and for what? I will tell you: Food, drink and games! I will head out to %settlement% to join in, and so should you.",
     "translation": "一年来所有的辛苦工作都是为了什么？我告诉你：吃的，喝的，玩的！我要去 %settlement% 参加，你也应该去。",
-    "stage": 1
+    "stage": 1,
+    "context": "'All the hard work through the year and for what? I will tell you: Food, drink and games! I will head out to %settlement% to join in, and so should you.'"
   },
   {
     "ID": 293411688,

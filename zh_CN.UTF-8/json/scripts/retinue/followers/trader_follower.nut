@@ -5,14 +5,15 @@
     "original": "/25 trade goods",
     "translation": "/25 贸易商品",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Sold ' + this.Math.min(25, this.World.Statistics.getFlags().getAsInt('TradeGoodsSold')) + '/25 trade goods'"
+    "context": "this.m.Requirements[0].Text = 'Sold ' + this.Math.min(25, this.World.Statistics.getFlags().getAsInt('TradeGoodsSold')) + '/25 trade goods'"
   },
   {
     "ID": 293419637,
     "key": "Increases the amount of trade goods for sale by 1 for each location that produces them, like salt near salt mines, allowing you to trade at higher volumes",
     "original": "Increases the amount of trade goods for sale by 1 for each location that produces them, like salt near salt mines, allowing you to trade at higher volumes",
     "translation": "对于每个生产贸易商品的地点，将贸易商品的销售数量增加1，比如盐矿附近的盐，允许你以更高的交易量进行交易",
-    "stage": 1
+    "stage": 1,
+    "context": "'Increases the amount of trade goods for sale by 1 for each location that produces them, like salt near salt mines, allowing you to trade at higher volumes'"
   },
   {
     "ID": 293419638,
@@ -28,7 +29,7 @@
     "original": "Sold ",
     "translation": "售出",
     "stage": 1,
-    "context": "this.m.Requirements.0.Text = 'Sold ' + this.Math.min(25, this.World.Statistics.getFlags().getAsInt('TradeGoodsSold')) + '/25 trade goods'"
+    "context": "this.m.Requirements[0].Text = 'Sold ' + this.Math.min(25, this.World.Statistics.getFlags().getAsInt('TradeGoodsSold')) + '/25 trade goods'"
   },
   {
     "ID": 293419640,

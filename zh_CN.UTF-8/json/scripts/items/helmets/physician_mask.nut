@@ -5,7 +5,7 @@
     "original": "Only take [color=",
     "translation": "仅承受 [color=",
     "stage": 5,
-    "context": "'Only take [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of damage inflicted by harmful miasmas'"
+    "context": "'text' = 'Only take [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of damage inflicted by harmful miasmas'"
   },
   {
     "ID": 293418303,
@@ -13,7 +13,7 @@
     "original": "]50%[/color] of damage inflicted by harmful miasmas",
     "translation": "]50%[/color] 瘴气伤害",
     "stage": 5,
-    "context": "'Only take [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of damage inflicted by harmful miasmas'"
+    "context": "'text' = 'Only take [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of damage inflicted by harmful miasmas'"
   },
   {
     "ID": 293418304,

@@ -5,7 +5,7 @@
     "original": " drinks Antidote",
     "translation": " 喝下解毒剂",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(user) + ' drinks Antidote'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(user) + ' drinks Antidote')"
   },
   {
     "ID": 293419947,
@@ -21,7 +21,7 @@
     "original": " gives Antidote to ",
     "translation": " 把解毒剂给了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' gives Antidote to ' + this.Const.UI.getColorizedEntityName(user)"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' gives Antidote to ' + this.Const.UI.getColorizedEntityName(user))"
   },
   {
     "ID": 293419949,
@@ -36,14 +36,16 @@
     "key": "Removes the Poisoned status effect",
     "original": "Removes the Poisoned status effect",
     "translation": "移除中毒状态效果",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Removes the Poisoned status effect'"
   },
   {
     "ID": 293419951,
     "key": "Grants immunity to Poison for 3 turns",
     "original": "Grants immunity to Poison for 3 turns",
     "translation": "获得毒素免疫能力，持续3回合。",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Grants immunity to Poison for 3 turns'"
   },
   {
     "ID": 293419952,
@@ -51,6 +53,6 @@
     "original": "]Can not be used because this character is engaged in melee[/color]",
     "translation": "]无法使用，因为此角色已卷入近战[/color]",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   }
 ]

@@ -21,7 +21,7 @@
     "original": " suffers ",
     "translation": " 遭受 ",
     "stage": 5,
-    "context": "_event.m.ClumsyGuy.getName() + ' suffers ' + injury.getNameOnly()"
+    "context": "'text' = _event.m.ClumsyGuy.getName() + ' suffers ' + injury.getNameOnly()"
   },
   {
     "ID": 293417069,
@@ -36,7 +36,8 @@
     "key": "At least he didn't kill himself.",
     "original": "At least he didn't kill himself.",
     "translation": "至少他没有杀死自己。",
-    "stage": 1
+    "stage": 1,
+    "context": "'Text' = \"At least he didn't kill himself.\""
   },
   {
     "ID": 293417071,
@@ -76,6 +77,6 @@
     "original": " suffers light wounds",
     "translation": "遭受轻伤",
     "stage": 1,
-    "context": "_event.m.ClumsyGuy.getName() + ' suffers light wounds'"
+    "context": "'text' = _event.m.ClumsyGuy.getName() + ' suffers light wounds'"
   }
 ]

@@ -4,7 +4,8 @@
     "key": "Is destroyed on use",
     "original": "Is destroyed on use",
     "translation": "使用后摧毁",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Is destroyed on use'"
   },
   {
     "ID": 293417502,

@@ -5,6 +5,6 @@
     "original": " transcends death!",
     "translation": "超越死亡！",
     "stage": 1,
-    "context": "this.Const.UI.getColorizedEntityName(this) + ' transcends death!'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this) + ' transcends death!')"
   }
 ]

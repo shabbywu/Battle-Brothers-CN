@@ -5,7 +5,7 @@
     "original": "]+15[/color] Initiative",
     "translation": "]+15[/color] 主动性",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Initiative'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Initiative'"
   },
   {
     "ID": 293417920,
@@ -29,7 +29,7 @@
     "original": "]+15[/color] Durability",
     "translation": "]+15[/color] 耐久度",
     "stage": 1,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Durability'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Durability'"
   },
   {
     "ID": 293417923,

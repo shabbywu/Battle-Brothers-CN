@@ -13,21 +13,23 @@
     "original": "]+10%[/color] Experience Gain",
     "translation": "]+10%[/color] 经验获取",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] Experience Gain'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] Experience Gain'"
   },
   {
     "ID": 293422377,
     "key": "the Fox",
     "original": "the Fox",
     "translation": "狐狸(the Fox)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Fox'"
   },
   {
     "ID": 293422378,
     "key": "the Quick",
     "original": "the Quick",
     "translation": "快人(the Quick)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Quick'"
   },
   {
     "ID": 293422379,
@@ -42,20 +44,23 @@
     "key": "the Wise",
     "original": "the Wise",
     "translation": "智者",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Wise'"
   },
   {
     "ID": 293422381,
     "key": "the Bright",
     "original": "the Bright",
     "translation": "明日之星(the Bright)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Bright'"
   },
   {
     "ID": 293422382,
     "key": "Quickmind",
     "original": "Quickmind",
     "translation": "捷思(the Bright)",
-    "stage": 5
+    "stage": 5,
+    "context": "'Quickmind'"
   }
 ]

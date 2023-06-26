@@ -13,7 +13,7 @@
     "original": "Inflicts additional stacking [color=",
     "translation": "造成额外的 [color=",
     "stage": 5,
-    "context": "'Inflicts additional stacking [color=' + this.Const.UI.Color.DamageValue + ']' + dmg + '[/color] bleeding damage per turn, for 2 turns'"
+    "context": "'text' = 'Inflicts additional stacking [color=' + this.Const.UI.Color.DamageValue + ']' + dmg + '[/color] bleeding damage per turn, for 2 turns'"
   },
   {
     "ID": 293419864,
@@ -21,7 +21,7 @@
     "original": "[/color] bleeding damage per turn, for 2 turns",
     "translation": "[/color] 每回合流血伤害，持续 2 回合",
     "stage": 5,
-    "context": "'Inflicts additional stacking [color=' + this.Const.UI.Color.DamageValue + ']' + dmg + '[/color] bleeding damage per turn, for 2 turns'"
+    "context": "'text' = 'Inflicts additional stacking [color=' + this.Const.UI.Color.DamageValue + ']' + dmg + '[/color] bleeding damage per turn, for 2 turns'"
   },
   {
     "ID": 293419865,

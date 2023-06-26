@@ -4,21 +4,24 @@
     "key": "Ravensblack",
     "original": "Ravensblack",
     "translation": "乌鸦黑(Ravensblack)",
-    "stage": 5
+    "stage": 5,
+    "context": "'Ravensblack'"
   },
   {
     "ID": 293421212,
     "key": "the Defiant",
     "original": "the Defiant",
     "translation": "反抗者(the Defiant)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Defiant'"
   },
   {
     "ID": 293421213,
     "key": "the Terrible",
     "original": "the Terrible",
     "translation": "可怖者(the Terrible)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Terrible'"
   },
   {
     "ID": 293421214,
@@ -41,14 +44,16 @@
     "key": "the Raider",
     "original": "the Raider",
     "translation": "掠夺者(the Raider)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Raider'"
   },
   {
     "ID": 293421217,
     "key": "the Pillager",
     "original": "the Pillager",
     "translation": "掠夺者",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Pillager'"
   },
   {
     "ID": 293421218,
@@ -71,28 +76,32 @@
     "key": "the Crow",
     "original": "the Crow",
     "translation": "乌鸦(The Crow)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Crow'"
   },
   {
     "ID": 293421221,
     "key": "the Menace",
     "original": "the Menace",
     "translation": "威胁者",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Menace'"
   },
   {
     "ID": 293421222,
     "key": "the Marauder",
     "original": "the Marauder",
     "translation": "掳掠者(the Marauder)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Marauder'"
   },
   {
     "ID": 293421223,
     "key": "Fourfingers",
     "original": "Fourfingers",
     "translation": "四指(Fourfingers)",
-    "stage": 1
+    "stage": 1,
+    "context": "'Fourfingers'"
   },
   {
     "ID": 293421224,
@@ -107,6 +116,7 @@
     "key": "the Bandit",
     "original": "the Bandit",
     "translation": "强盗(the Bandit)",
-    "stage": 1
+    "stage": 1,
+    "context": "'the Bandit'"
   }
 ]

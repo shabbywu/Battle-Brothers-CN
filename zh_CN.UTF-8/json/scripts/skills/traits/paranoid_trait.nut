@@ -5,7 +5,7 @@
     "original": "]-30[/color] Initiative",
     "translation": "]-30[/color] 主动性",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-30[/color] Initiative'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-30[/color] Initiative'"
   },
   {
     "ID": 293422702,
@@ -21,7 +21,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-30[/color] Initiative'"
   },
   {
     "ID": 293422704,
@@ -29,7 +29,7 @@
     "original": "]+5[/color] Ranged Defense",
     "translation": "]+5[/color] 远程防御",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Ranged Defense'"
   },
   {
     "ID": 293422705,
@@ -44,14 +44,16 @@
     "key": "the Crazy",
     "original": "the Crazy",
     "translation": "狂人(the Crazy)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Crazy'"
   },
   {
     "ID": 293422707,
     "key": "the Paranoid",
     "original": "the Paranoid",
     "translation": "偏执狂(the Paranoid)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Paranoid'"
   },
   {
     "ID": 293422708,
@@ -59,6 +61,6 @@
     "original": "]+5[/color] Melee Defense",
     "translation": "]+5[/color] 近战防御",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense'"
   }
 ]

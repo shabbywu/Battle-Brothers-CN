@@ -13,7 +13,7 @@
     "original": "Triggers a morale check to rally fleeing allies within 4 tiles distance, with a bonus to Resolve of [color=",
     "translation": "进行一次士气检定来集结4格距离内的溃逃队友，附带 [color=",
     "stage": 1,
-    "context": "'Triggers a morale check to rally fleeing allies within 4 tiles distance, with a bonus to Resolve of [color=' + this.Const.UI.Color.PositiveValue + ']+' + bravery + \"[/color] based on this character's Resolve\""
+    "context": "'text' = 'Triggers a morale check to rally fleeing allies within 4 tiles distance, with a bonus to Resolve of [color=' + this.Const.UI.Color.PositiveValue + ']+' + bravery + \"[/color] based on this character's Resolve\""
   },
   {
     "ID": 293420258,
@@ -21,7 +21,7 @@
     "original": "[/color] based on this character's Resolve",
     "translation": "[/color] 来自此角色的决心奖励",
     "stage": 1,
-    "context": "'Triggers a morale check to rally fleeing allies within 4 tiles distance, with a bonus to Resolve of [color=' + this.Const.UI.Color.PositiveValue + ']+' + bravery + \"[/color] based on this character's Resolve\""
+    "context": "'text' = 'Triggers a morale check to rally fleeing allies within 4 tiles distance, with a bonus to Resolve of [color=' + this.Const.UI.Color.PositiveValue + ']+' + bravery + \"[/color] based on this character's Resolve\""
   },
   {
     "ID": 293420259,
@@ -29,7 +29,7 @@
     "original": "[/color] based on this character's Resolve, but lowered by [color=",
     "translation": "[/color] 来自此角色的决心奖励，但每格距离会降低 [color=",
     "stage": 1,
-    "context": "'Triggers a morale check to raise the morale of anyone wavering or worse within 4 tiles distance, with a bonus to Resolve of [color=' + this.Const.UI.Color.PositiveValue + ']+' + bravery + \"[/color] based on this character's Resolve, but lowered by [color=\" + this.Const.UI.Color.NegativeValue + ']-10[/color] per tile distance'"
+    "context": "'text' = 'Triggers a morale check to raise the morale of anyone wavering or worse within 4 tiles distance, with a bonus to Resolve of [color=' + this.Const.UI.Color.PositiveValue + ']+' + bravery + \"[/color] based on this character's Resolve, but lowered by [color=\" + this.Const.UI.Color.NegativeValue + ']-10[/color] per tile distance'"
   },
   {
     "ID": 293420260,
@@ -37,7 +37,7 @@
     "original": "]-10[/color] per tile distance",
     "translation": "]-10[/color]",
     "stage": 1,
-    "context": "'Triggers a morale check to raise the morale of anyone wavering or worse within 4 tiles distance, with a bonus to Resolve of [color=' + this.Const.UI.Color.PositiveValue + ']+' + bravery + \"[/color] based on this character's Resolve, but lowered by [color=\" + this.Const.UI.Color.NegativeValue + ']-10[/color] per tile distance'"
+    "context": "'text' = 'Triggers a morale check to raise the morale of anyone wavering or worse within 4 tiles distance, with a bonus to Resolve of [color=' + this.Const.UI.Color.PositiveValue + ']+' + bravery + \"[/color] based on this character's Resolve, but lowered by [color=\" + this.Const.UI.Color.NegativeValue + ']-10[/color] per tile distance'"
   },
   {
     "ID": 293420261,
@@ -53,14 +53,15 @@
     "original": "Triggers a morale check to raise the morale of anyone wavering or worse within 4 tiles distance, with a bonus to Resolve of [color=",
     "translation": "进行一次士气检定来振奋4格内士气低于镇定状态的队友，附带 [color=",
     "stage": 1,
-    "context": "'Triggers a morale check to raise the morale of anyone wavering or worse within 4 tiles distance, with a bonus to Resolve of [color=' + this.Const.UI.Color.PositiveValue + ']+' + bravery + \"[/color] based on this character's Resolve, but lowered by [color=\" + this.Const.UI.Color.NegativeValue + ']-10[/color] per tile distance'"
+    "context": "'text' = 'Triggers a morale check to raise the morale of anyone wavering or worse within 4 tiles distance, with a bonus to Resolve of [color=' + this.Const.UI.Color.PositiveValue + ']+' + bravery + \"[/color] based on this character's Resolve, but lowered by [color=\" + this.Const.UI.Color.NegativeValue + ']-10[/color] per tile distance'"
   },
   {
     "ID": 293420263,
     "key": "Removes the Sleeping status effect of allies within 4 tiles distance",
     "original": "Removes the Sleeping status effect of allies within 4 tiles distance",
     "translation": "移除 4 格距离内盟友的睡眠状态效果",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Removes the Sleeping status effect of allies within 4 tiles distance'"
   },
   {
     "ID": 293420264,
@@ -68,6 +69,6 @@
     "original": "]Can not rally others the same turn as being rallied himself[/color]",
     "translation": "]在自己被集结的同一轮不能再集结其他人。[/color]",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Can not rally others the same turn as being rallied himself[/color]'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not rally others the same turn as being rallied himself[/color]'"
   }
 ]

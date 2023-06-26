@@ -12,6 +12,7 @@
     "key": "stunned",
     "original": "stunned",
     "translation": "stunned",
-    "stage": 9
+    "stage": 9,
+    "context": "this.setSpriteOffset('stunned', this.createVec(0, 10))"
   }
 ]

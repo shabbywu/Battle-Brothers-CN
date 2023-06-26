@@ -4,7 +4,8 @@
     "key": "the Fisherman",
     "original": "the Fisherman",
     "translation": "渔民(the Fisherman)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Fisherman'"
   },
   {
     "ID": 293420961,
@@ -43,7 +44,8 @@
     "key": "the Fisher",
     "original": "the Fisher",
     "translation": "渔夫(the Fisher)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Fisher'"
   },
   {
     "ID": 293420966,

@@ -12,7 +12,8 @@
     "key": "Puts this character first in next round's turn order",
     "original": "Puts this character first in next round's turn order",
     "translation": "将此角色置于下一轮的第一行动位置",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = \"Puts this character first in next round's turn order\""
   },
   {
     "ID": 293419783,

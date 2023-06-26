@@ -5,7 +5,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + hitchanceBonus + '%[/color] chance to hit'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + hitchanceBonus + '%[/color] chance to hit'"
   },
   {
     "ID": 293420316,
@@ -29,14 +29,15 @@
     "original": "%[/color] chance to hit",
     "translation": "%[/color] 命中惩罚",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + hitchanceBonus + '%[/color] chance to hit'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']' + hitchanceBonus + '%[/color] chance to hit'"
   },
   {
     "ID": 293420319,
     "key": "Can hit up to 6 targets",
     "original": "Can hit up to 6 targets",
     "translation": "最多可以击中 6 个目标",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Can hit up to 6 targets'"
   },
   {
     "ID": 293420320,

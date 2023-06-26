@@ -5,7 +5,7 @@
     "original": "[/color] extra fatigue",
     "translation": "[/color] 额外疲劳值",
     "stage": 5,
-    "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
+    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
   },
   {
     "ID": 293420123,
@@ -13,7 +13,7 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stun on a hit'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun on a hit'"
   },
   {
     "ID": 293420124,
@@ -37,7 +37,7 @@
     "original": "%[/color] chance to stun on a hit",
     "translation": "%[/color] 几率在命中时击昏",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun on a hit'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun on a hit'"
   },
   {
     "ID": 293420127,
@@ -45,7 +45,7 @@
     "original": " for one turn",
     "translation": "，持续 1 回合",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn')"
   },
   {
     "ID": 293420128,
@@ -53,7 +53,7 @@
     "original": "Inflicts [color=",
     "translation": "造成 [color=",
     "stage": 5,
-    "context": "'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
+    "context": "'text' = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
   },
   {
     "ID": 293420129,
@@ -61,7 +61,7 @@
     "original": " has stunned ",
     "translation": "被击晕",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn')"
   },
   {
     "ID": 293420130,
@@ -69,6 +69,6 @@
     "original": "]100%[/color] chance to stun on a hit",
     "translation": "]100%[/color] %[/color] 几率在击中时造成击昏",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stun on a hit'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stun on a hit'"
   }
 ]

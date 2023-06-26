@@ -5,7 +5,7 @@
     "original": "Receives only [color=",
     "translation": "只受到 [color=",
     "stage": 5,
-    "context": "'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of any damage'"
+    "context": "'text' = 'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of any damage'"
   },
   {
     "ID": 293421550,
@@ -20,7 +20,8 @@
     "key": "Immune to being knocked back or grabbed",
     "original": "Immune to being knocked back or grabbed",
     "translation": "免疫击退和勾拽技能",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Immune to being knocked back or grabbed'"
   },
   {
     "ID": 293421552,
@@ -35,7 +36,8 @@
     "key": "Immune to being stunned",
     "original": "Immune to being stunned",
     "translation": "免疫昏迷",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Immune to being stunned'"
   },
   {
     "ID": 293421554,
@@ -43,6 +45,6 @@
     "original": "]50%[/color] of any damage",
     "translation": "]50%[/color] 所有伤害",
     "stage": 5,
-    "context": "'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of any damage'"
+    "context": "'text' = 'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of any damage'"
   }
 ]

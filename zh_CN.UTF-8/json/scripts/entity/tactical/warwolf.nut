@@ -12,6 +12,7 @@
     "key": "Wolf",
     "original": "Wolf",
     "translation": "狼",
-    "stage": 1
+    "stage": 1,
+    "context": "'Name' = 'Wolf'"
   }
 ]

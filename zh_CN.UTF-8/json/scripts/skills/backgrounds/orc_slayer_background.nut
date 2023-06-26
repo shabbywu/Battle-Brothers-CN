@@ -12,7 +12,8 @@
     "key": "the Orc Slayer",
     "original": "the Orc Slayer",
     "translation": "兽人屠夫(the Orc Slayer)",
-    "stage": 1
+    "stage": 1,
+    "context": "actor.setTitle('the Orc Slayer')"
   },
   {
     "ID": 293421182,

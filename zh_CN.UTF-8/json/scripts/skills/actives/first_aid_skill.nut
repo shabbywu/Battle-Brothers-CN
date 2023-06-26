@@ -4,7 +4,8 @@
     "key": "Removes fresh Cut Artery, Cut Neck Vein and Grazed Neck injuries",
     "original": "Removes fresh Cut Artery, Cut Neck Vein and Grazed Neck injuries",
     "translation": "移除动脉割伤裂、颈静脉割伤和颈部划伤造成的流血效果",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Removes fresh Cut Artery, Cut Neck Vein and Grazed Neck injuries'"
   },
   {
     "ID": 293419983,
@@ -28,7 +29,7 @@
     "original": "]Can only be used when bleeding[/color]",
     "translation": "]只能在出血时使用[/color]",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Can only be used when bleeding[/color]'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Can only be used when bleeding[/color]'"
   },
   {
     "ID": 293419986,
@@ -36,13 +37,14 @@
     "original": "]Can not be used because this character is engaged in melee[/color]",
     "translation": "]无法使用，因为此角色已卷入近战[/color]",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   },
   {
     "ID": 293419987,
     "key": "Removes the Bleeding status effect",
     "original": "Removes the Bleeding status effect",
     "translation": "移除流血状态效果",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Removes the Bleeding status effect'"
   }
 ]

@@ -4,7 +4,8 @@
     "key": "Eager to prove himself outside the arena",
     "original": "Eager to prove himself outside the arena",
     "translation": "渴望在竞技场外证明自己",
-    "stage": 1
+    "stage": 1,
+    "context": "bros[2].improveMood(0.75, 'Eager to prove himself outside the arena')"
   },
   {
     "ID": 293419676,
@@ -20,7 +21,7 @@
     "original": ", who commands the ladies of this realm. Need not ask me how. Behold! Look at it! Look at the size of it! Yeah. That's what I thought. Fools, train all you want, you can't have this!}",
     "translation": ", 谁命令这个领域的女士们。不用问我怎么做。看啊！看看！看看它的大小！是啊。我就是这么想的。 傻瓜，训练你想要的，你不能这样！}",
     "stage": 1,
-    "context": "bros.0.getBackground().m.RawDescription = '{%fullname% thinks muscles make for glory. Wrong. Captain, it is I, ' + bros.2.getName() + \", who commands the ladies of this realm. Need not ask me how. Behold! Look at it! Look at the size of it! Yeah. That's what I thought. Fools, train all you want, you can't have this!}\""
+    "context": "bros[0].getBackground().m.RawDescription = '{%fullname% thinks muscles make for glory. Wrong. Captain, it is I, ' + bros[2].getName() + \", who commands the ladies of this realm. Need not ask me how. Behold! Look at it! Look at the size of it! Yeah. That's what I thought. Fools, train all you want, you can't have this!}\""
   },
   {
     "ID": 293419678,
@@ -35,7 +36,8 @@
     "key": "the Viper",
     "original": "the Viper",
     "translation": "毒蛇",
-    "stage": 1
+    "stage": 1,
+    "context": "bros[2].setTitle('the Viper')"
   },
   {
     "ID": 293419680,
@@ -51,7 +53,7 @@
     "original": "{%fullname% thinks muscles make for glory. Wrong. Captain, it is I, ",
     "translation": "{%fullname% 认为肌肉是荣耀。错了，队长，应该是我！ ",
     "stage": 1,
-    "context": "bros.0.getBackground().m.RawDescription = '{%fullname% thinks muscles make for glory. Wrong. Captain, it is I, ' + bros.2.getName() + \", who commands the ladies of this realm. Need not ask me how. Behold! Look at it! Look at the size of it! Yeah. That's what I thought. Fools, train all you want, you can't have this!}\""
+    "context": "bros[0].getBackground().m.RawDescription = '{%fullname% thinks muscles make for glory. Wrong. Captain, it is I, ' + bros[2].getName() + \", who commands the ladies of this realm. Need not ask me how. Behold! Look at it! Look at the size of it! Yeah. That's what I thought. Fools, train all you want, you can't have this!}\""
   },
   {
     "ID": 293419682,
@@ -59,7 +61,7 @@
     "original": ", who is your greatest gladiator. I am the one who swept the legs of a lindwurm and choked it out with its own tail! What you bastards say? You call that a tall tale? Pah! 'Tis a horizontal lizard at best.}",
     "translation": ", 谁是你最伟大的角斗士. 我就是那个扫过林德沃姆腿，用它自己的尾巴把它勒死的人！ 你们这些混蛋怎么说？ 你说这是个大故事？ 呸！充其量只是一只横着的蜥蜴。}",
     "stage": 1,
-    "context": "bros.2.getBackground().m.RawDescription = '{Why are you looking at %fullname%? Captain, it is I, ' + bros.1.getName() + \", who is your greatest gladiator. I am the one who swept the legs of a lindwurm and choked it out with its own tail! What you bastards say? You call that a tall tale? Pah! 'Tis a horizontal lizard at best.}\""
+    "context": "bros[2].getBackground().m.RawDescription = '{Why are you looking at %fullname%? Captain, it is I, ' + bros[1].getName() + \", who is your greatest gladiator. I am the one who swept the legs of a lindwurm and choked it out with its own tail! What you bastards say? You call that a tall tale? Pah! 'Tis a horizontal lizard at best.}\""
   },
   {
     "ID": 293419683,
@@ -67,7 +69,7 @@
     "original": "{%fullname% is not the best warrior here, let's be clear. Captain, look at my muscles, is it not I, ",
     "translation": "{%fullname% 不是这里最好的战士，让我们说清楚。队长, 看我的肌肉, 不是我， ",
     "stage": 1,
-    "context": "bros.1.getBackground().m.RawDescription = \"{%fullname% is not the best warrior here, let's be clear. Captain, look at my muscles, is it not I, \" + bros.0.getName() + \", who commands the greatest reward of life: the fear of one's own enemies! Look, if I lather a little and catch the light, the muscles gleam. Would it not be that the heavens were mistakened for above, when all the women say they find them right here, particularly here, upon my glorious pecs?}\""
+    "context": "bros[1].getBackground().m.RawDescription = \"{%fullname% is not the best warrior here, let's be clear. Captain, look at my muscles, is it not I, \" + bros[0].getName() + \", who commands the greatest reward of life: the fear of one's own enemies! Look, if I lather a little and catch the light, the muscles gleam. Would it not be that the heavens were mistakened for above, when all the women say they find them right here, particularly here, upon my glorious pecs?}\""
   },
   {
     "ID": 293419684,
@@ -75,7 +77,7 @@
     "original": "{Why are you looking at %fullname%? Captain, it is I, ",
     "translation": "{你为什么看着%fullname%？队长，应该是我！",
     "stage": 1,
-    "context": "bros.2.getBackground().m.RawDescription = '{Why are you looking at %fullname%? Captain, it is I, ' + bros.1.getName() + \", who is your greatest gladiator. I am the one who swept the legs of a lindwurm and choked it out with its own tail! What you bastards say? You call that a tall tale? Pah! 'Tis a horizontal lizard at best.}\""
+    "context": "bros[2].getBackground().m.RawDescription = '{Why are you looking at %fullname%? Captain, it is I, ' + bros[1].getName() + \", who is your greatest gladiator. I am the one who swept the legs of a lindwurm and choked it out with its own tail! What you bastards say? You call that a tall tale? Pah! 'Tis a horizontal lizard at best.}\""
   },
   {
     "ID": 293419685,
@@ -83,14 +85,15 @@
     "original": ", who commands the greatest reward of life: the fear of one's own enemies! Look, if I lather a little and catch the light, the muscles gleam. Would it not be that the heavens were mistakened for above, when all the women say they find them right here, particularly here, upon my glorious pecs?}",
     "translation": ", 谁能获得人生最大的回报：对自己敌人的恐惧！听着，如果我擦一点泡沫，然后抓住阳光，肌肉就会发光。 当所有的女人都说她们就在这里，尤其是在这里，在我美丽的胸脯上找到了天堂，难道不是把我的胸肌错当成了天堂吗？}",
     "stage": 1,
-    "context": "bros.1.getBackground().m.RawDescription = \"{%fullname% is not the best warrior here, let's be clear. Captain, look at my muscles, is it not I, \" + bros.0.getName() + \", who commands the greatest reward of life: the fear of one's own enemies! Look, if I lather a little and catch the light, the muscles gleam. Would it not be that the heavens were mistakened for above, when all the women say they find them right here, particularly here, upon my glorious pecs?}\""
+    "context": "bros[1].getBackground().m.RawDescription = \"{%fullname% is not the best warrior here, let's be clear. Captain, look at my muscles, is it not I, \" + bros[0].getName() + \", who commands the greatest reward of life: the fear of one's own enemies! Look, if I lather a little and catch the light, the muscles gleam. Would it not be that the heavens were mistakened for above, when all the women say they find them right here, particularly here, upon my glorious pecs?}\""
   },
   {
     "ID": 293419686,
     "key": "the Lion",
     "original": "the Lion",
     "translation": "狮子",
-    "stage": 1
+    "stage": 1,
+    "context": "bros[0].setTitle('the Lion')"
   },
   {
     "ID": 293419687,
@@ -105,6 +108,7 @@
     "key": "the Bear",
     "original": "the Bear",
     "translation": "大熊(the Bear)",
-    "stage": 5
+    "stage": 5,
+    "context": "bros[1].setTitle('the Bear')"
   }
 ]

@@ -4,7 +4,8 @@
     "key": "the Beasthunter",
     "original": "the Beasthunter",
     "translation": "兽猎者(the Beasthunter)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Beasthunter'"
   },
   {
     "ID": 293420804,
@@ -19,7 +20,8 @@
     "key": "the Trophyhunter",
     "original": "the Trophyhunter",
     "translation": "战利品猎人(the Trophyhunter)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Trophyhunter'"
   },
   {
     "ID": 293420806,
@@ -34,7 +36,8 @@
     "key": "the Hunter",
     "original": "the Hunter",
     "translation": "猎人(the Hunter)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Hunter'"
   },
   {
     "ID": 293420808,
@@ -49,7 +52,8 @@
     "key": "the Tracker",
     "original": "the Tracker",
     "translation": "追踪者(the Tracker)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Tracker'"
   },
   {
     "ID": 293420810,
@@ -72,13 +76,15 @@
     "key": "Woodstalker",
     "original": "Woodstalker",
     "translation": "森林潜行者(Woodstalker)",
-    "stage": 5
+    "stage": 5,
+    "context": "'Woodstalker'"
   },
   {
     "ID": 293420813,
     "key": "the Beastslayer",
     "original": "the Beastslayer",
     "translation": "野兽杀手(the Beastslayer)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Beastslayer'"
   }
 ]

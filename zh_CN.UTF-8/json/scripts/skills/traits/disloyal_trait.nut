@@ -20,13 +20,15 @@
     "key": "the Liar",
     "original": "the Liar",
     "translation": "骗子(the Liar)",
-    "stage": 5
+    "stage": 5,
+    "context": "'the Liar'"
   },
   {
     "ID": 293422476,
     "key": "Is always content with being in reserve",
     "original": "Is always content with being in reserve",
     "translation": "总是满足于充当后备",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Is always content with being in reserve'"
   }
 ]

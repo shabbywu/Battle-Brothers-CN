@@ -4,14 +4,16 @@
     "key": "Is destroyed on use",
     "original": "Is destroyed on use",
     "translation": "使用后摧毁",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Is destroyed on use'"
   },
   {
     "ID": 293418982,
     "key": "Will root a target in place and reduce their defenses",
     "original": "Will root a target in place and reduce their defenses",
     "translation": "会使目标定身并减少他们的防御",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Will root a target in place and reduce their defenses'"
   },
   {
     "ID": 293418983,
@@ -26,7 +28,8 @@
     "key": "Worn in Offhand",
     "original": "Worn in Offhand",
     "translation": "副手持用",
-    "stage": 1
+    "stage": 1,
+    "context": "'text' = 'Worn in Offhand'"
   },
   {
     "ID": 293418985,
@@ -34,7 +37,7 @@
     "original": "Range of [color=",
     "translation": "使用范围为[color=",
     "stage": 1,
-    "context": "'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
+    "context": "'text' = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
   },
   {
     "ID": 293418986,
@@ -42,7 +45,7 @@
     "original": "Maximum Fatigue [color=",
     "translation": "最大疲劳值 [color=",
     "stage": 5,
-    "context": "'Maximum Fatigue [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.StaminaModifier + '[/color]'"
+    "context": "'text' = 'Maximum Fatigue [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.StaminaModifier + '[/color]'"
   },
   {
     "ID": 293418987,
@@ -58,6 +61,6 @@
     "original": "[/color] tiles",
     "translation": "[/color] 格",
     "stage": 5,
-    "context": "'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
+    "context": "'text' = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
   }
 ]

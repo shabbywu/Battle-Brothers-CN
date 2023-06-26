@@ -20,6 +20,7 @@
     "key": "the Crusader",
     "original": "the Crusader",
     "translation": "十字军(the Crusader)",
-    "stage": 5
+    "stage": 5,
+    "context": "actor.setTitle('the Crusader')"
   }
 ]

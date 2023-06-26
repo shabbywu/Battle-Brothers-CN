@@ -4,7 +4,8 @@
     "key": "Will never be of confident morale",
     "original": "Will never be of confident morale",
     "translation": "永远不会达到自信士气",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'Will never be of confident morale'"
   },
   {
     "ID": 293422573,

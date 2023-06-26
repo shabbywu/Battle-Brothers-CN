@@ -5,7 +5,7 @@
     "original": "]2[/color] tiles",
     "translation": "]2[/color] 格",
     "stage": 5,
-    "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2[/color] tiles'"
+    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2[/color] tiles'"
   },
   {
     "ID": 293420290,
@@ -13,7 +13,7 @@
     "original": " has staggered ",
     "translation": "趔趄了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn')"
   },
   {
     "ID": 293420291,
@@ -21,7 +21,7 @@
     "original": " for one turn",
     "translation": "，持续 1 回合",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn'"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has staggered ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn')"
   },
   {
     "ID": 293420292,
@@ -37,7 +37,7 @@
     "original": "Has [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
     "ID": 293420294,
@@ -45,7 +45,7 @@
     "original": "Has a range of [color=",
     "translation": "攻击范围为 [color=",
     "stage": 5,
-    "context": "'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2[/color] tiles'"
+    "context": "'text' = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2[/color] tiles'"
   },
   {
     "ID": 293420295,
@@ -53,7 +53,7 @@
     "original": "]100%[/color] chance to stagger on a hit",
     "translation": "]100%[/color] 几率在命中时造成趔趄",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stagger on a hit'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stagger on a hit'"
   },
   {
     "ID": 293420296,
@@ -61,7 +61,7 @@
     "original": " has knocked back ",
     "translation": "击退了",
     "stage": 5,
-    "context": "this.Const.UI.getColorizedEntityName(_user) + ' has knocked back ' + this.Const.UI.getColorizedEntityName(target)"
+    "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has knocked back ' + this.Const.UI.getColorizedEntityName(target))"
   },
   {
     "ID": 293420297,
@@ -69,7 +69,7 @@
     "original": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
     "translation": "]-15%[/color] 攻击近身敌人的命中惩罚，因为武器过于笨重",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
     "ID": 293420298,
@@ -77,7 +77,7 @@
     "original": "]+10%[/color] chance to hit",
     "translation": "]+10%[/color] 命中增益",
     "stage": 5,
-    "context": "'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit'"
+    "context": "'text' = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit'"
   },
   {
     "ID": 293420299,
@@ -85,7 +85,7 @@
     "original": "Has a [color=",
     "translation": "有 [color=",
     "stage": 5,
-    "context": "'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stagger on a hit'"
+    "context": "'text' = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stagger on a hit'"
   },
   {
     "ID": 293420300,

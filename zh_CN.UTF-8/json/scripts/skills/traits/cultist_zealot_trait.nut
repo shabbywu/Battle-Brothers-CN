@@ -13,14 +13,15 @@
     "original": "]+10[/color] Resolve",
     "translation": "]+10[/color] 决心",
     "stage": 5,
-    "context": "'[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve'"
+    "context": "'text' = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve'"
   },
   {
     "ID": 293422451,
     "key": "No morale check triggered upon allies dying",
     "original": "No morale check triggered upon allies dying",
     "translation": "友军死亡时不会触发士气检查",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'No morale check triggered upon allies dying'"
   },
   {
     "ID": 293422452,
@@ -35,6 +36,7 @@
     "key": "No morale check triggered upon losing hitpoints",
     "original": "No morale check triggered upon losing hitpoints",
     "translation": "失去生命值时不会触发士气检查",
-    "stage": 5
+    "stage": 5,
+    "context": "'text' = 'No morale check triggered upon losing hitpoints'"
   }
 ]

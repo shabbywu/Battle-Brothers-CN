@@ -12,6 +12,7 @@
     "key": "Wardog",
     "original": "Wardog",
     "translation": "战犬",
-    "stage": 1
+    "stage": 1,
+    "context": "'Name' = 'Wardog'"
   }
 ]

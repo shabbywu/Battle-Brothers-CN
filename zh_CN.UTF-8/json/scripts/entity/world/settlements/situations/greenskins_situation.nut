@@ -4,7 +4,8 @@
     "key": "Here, take a look at what's left of my hand! Can hardly use it anymore on account of it having no fingers since that run-in with greenskins a while ago. Now I hear they are back, marauding around %settlement% right as we speak.",
     "original": "Here, take a look at what's left of my hand! Can hardly use it anymore on account of it having no fingers since that run-in with greenskins a while ago. Now I hear they are back, marauding around %settlement% right as we speak.",
     "translation": "来，看看我手上还剩下什么！我几乎不能再使用它了，因为它已经没有手指了，因为不久前和绿皮发生了冲突。现在我听说他们回来了，就在我们说话的时候在 %settlement% 四处劫掠。",
-    "stage": 1
+    "stage": 1,
+    "context": "\"Here, take a look at what's left of my hand! Can hardly use it anymore on account of it having no fingers since that run-in with greenskins a while ago. Now I hear they are back, marauding around %settlement% right as we speak.\""
   },
   {
     "ID": 293411751,
@@ -27,7 +28,8 @@
     "key": "I heard rumors that vile greenskins are marauding around %settlement%! Is it true? I hope they don't make their way over here...",
     "original": "I heard rumors that vile greenskins are marauding around %settlement%! Is it true? I hope they don't make their way over here...",
     "translation": "我听说有谣言说卑鄙的绿皮在 %settlement% 到处劫掠！是真的吗？我希望他们不要过来…",
-    "stage": 1
+    "stage": 1,
+    "context": "\"I heard rumors that vile greenskins are marauding around %settlement%! Is it true? I hope they don't make their way over here...\""
   },
   {
     "ID": 293411754,
@@ -42,7 +44,8 @@
     "key": "Did you see the columns of smoke in the evening sky? They are rising over from %settlement% where greenskins are burning and pillaging the countryside.",
     "original": "Did you see the columns of smoke in the evening sky? They are rising over from %settlement% where greenskins are burning and pillaging the countryside.",
     "translation": "你看见夜空中的烟柱了吗？它们从 %settlement% 升起，绿皮在那里焚烧和掠夺乡村。",
-    "stage": 1
+    "stage": 1,
+    "context": "'Did you see the columns of smoke in the evening sky? They are rising over from %settlement% where greenskins are burning and pillaging the countryside.'"
   },
   {
     "ID": 293411756,
