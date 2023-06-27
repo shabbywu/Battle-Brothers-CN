@@ -4539,8 +4539,8 @@
     "ID": 293406203,
     "key": "Dirt",
     "original": "Dirt",
-    "translation": "污垢",
-    "stage": 1,
+    "translation": "泥地",
+    "stage": 5,
     "context": "'Dirt'"
   },
   {
@@ -9260,7 +9260,7 @@
     "key": "Bare and flat earth with barely any vegetation.",
     "original": "Bare and flat earth with barely any vegetation.",
     "translation": "裸露而平坦的土地，几乎没有任何植被。",
-    "stage": 1,
+    "stage": 5,
     "context": "'Bare and flat earth with barely any vegetation.'"
   },
   {

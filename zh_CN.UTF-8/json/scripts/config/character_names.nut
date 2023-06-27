@@ -140,7 +140,7 @@
     "key": "Otto",
     "original": "Otto",
     "translation": "奥托",
-    "stage": 1,
+    "stage": 5,
     "context": "'Otto'"
   },
   {
@@ -3307,8 +3307,8 @@
     "ID": 293404191,
     "key": "Adelmar",
     "original": "Adelmar",
-    "translation": "阿德马尔",
-    "stage": 1,
+    "translation": "阿德尔马",
+    "stage": 5,
     "context": "'Adelmar'"
   },
   {
@@ -4100,7 +4100,7 @@
     "key": "Leif",
     "original": "Leif",
     "translation": "莱夫",
-    "stage": 1,
+    "stage": 5,
     "context": "'Leif'"
   },
   {
@@ -4235,8 +4235,8 @@
     "ID": 293404307,
     "key": "Alfgeir",
     "original": "Alfgeir",
-    "translation": "阿尔法盖尔",
-    "stage": 1,
+    "translation": "阿尔弗盖尔",
+    "stage": 5,
     "context": "'Alfgeir'"
   },
   {
@@ -4395,8 +4395,8 @@
     "ID": 293404327,
     "key": "Theudobald",
     "original": "Theudobald",
-    "translation": "乌多巴德",
-    "stage": 1,
+    "translation": "提乌德鲍德",
+    "stage": 5,
     "context": "'Theudobald'"
   },
   {
@@ -4427,8 +4427,8 @@
     "ID": 293404331,
     "key": "Longnose",
     "original": "Longnose",
-    "translation": "长鼻子",
-    "stage": 1,
+    "translation": "长鼻(Longnose)",
+    "stage": 5,
     "context": "'Longnose'"
   },
   {
@@ -4563,8 +4563,8 @@
     "ID": 293404348,
     "key": "Bricklayer",
     "original": "Bricklayer",
-    "translation": "泥瓦匠",
-    "stage": 1,
+    "translation": "砌砖匠(Bricklayer)",
+    "stage": 5,
     "context": "'Bricklayer'"
   },
   {
@@ -4603,8 +4603,8 @@
     "ID": 293404353,
     "key": "Fritz",
     "original": "Fritz",
-    "translation": "福瑞提兹",
-    "stage": 1,
+    "translation": "弗里茨",
+    "stage": 5,
     "context": "'Fritz'"
   },
   {
@@ -5763,8 +5763,8 @@
     "ID": 293404498,
     "key": "Tobjoern",
     "original": "Tobjoern",
-    "translation": "托乔恩",
-    "stage": 1,
+    "translation": "托比昂",
+    "stage": 5,
     "context": "'Tobjoern'"
   },
   {
@@ -7203,8 +7203,8 @@
     "ID": 293404678,
     "key": "Diethelm",
     "original": "Diethelm",
-    "translation": "迪特黑姆",
-    "stage": 1,
+    "translation": "迪特黑尔姆",
+    "stage": 5,
     "context": "'Diethelm'"
   },
   {

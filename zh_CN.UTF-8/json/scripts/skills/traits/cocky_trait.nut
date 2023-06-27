@@ -4,7 +4,7 @@
     "key": "the Braggart",
     "original": "the Braggart",
     "translation": "吹牛者(the Braggart)",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Braggart'"
   },
   {
@@ -35,7 +35,7 @@
     "ID": 293422401,
     "key": "All too easy! This character can be a bit too cocky for his own good. ",
     "original": "All too easy! This character can be a bit too cocky for his own good. ",
-    "translation": "全都太容易了！ 这个角色可能有点自大，不利于他的身心健康。",
+    "translation": "全都太容易了！这个角色有点自大，不太利于它自身。",
     "stage": 5,
     "context": "this.m.Description = 'All too easy! This character can be a bit too cocky for his own good. '"
   },

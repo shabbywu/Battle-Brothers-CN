@@ -220,7 +220,7 @@
     "key": "Helvik",
     "original": "Helvik",
     "translation": "海尔维克",
-    "stage": 1,
+    "stage": 5,
     "context": "this.getRandomName(['Tonder','Lydersholm','Kravlund','Bola','Ravestad','Alsliv','Hellevad','Heimstad','Hornheim','Jerstal','Hejsager','Kalk','Sommerstad','Horn','Bramming','Varde','Norre','Vistadt','Olbing','Grimstad','Birkeland','Donnerstad','Tangvall','Helvik','Ogna','Norheim','Undheim','Torvastad','Skjold','Eidsvik','Halheim','Gerheim','Asenstad','Gunnheim','Hammar','Bullarsby','Lonneberg'])"
   },
   {
