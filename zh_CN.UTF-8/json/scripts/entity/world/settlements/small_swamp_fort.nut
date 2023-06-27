@@ -155,7 +155,7 @@
     "ID": 293412367,
     "key": "Wallfurt",
     "original": "Wallfurt",
-    "translation": "沃尔夫特",
+    "translation": "高墙寨",
     "stage": 5,
     "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },

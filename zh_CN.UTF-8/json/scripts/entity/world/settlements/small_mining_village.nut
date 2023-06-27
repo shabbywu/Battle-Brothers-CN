@@ -123,7 +123,7 @@
     "ID": 293412166,
     "key": "Eisenstein",
     "original": "Eisenstein",
-    "translation": "铁石",
+    "translation": "铁石村",
     "stage": 5,
     "context": "this.getRandomName(['Goldhoft','Ellenberg','Kahlenberg','Bokenberg','Gronenberg','Eisenstein','Fuchsberg','Reinberg','Kaltenhof','Jaderberg','Steinhausen','Eichenberg','Thal','Wolfhaiden','Trogen','Sattel','Koppingen','Schweikhof','Hochdorf','Bergau','Nasenfels','Adlerstein','Felsheim','Mitterfels','Hohenau','Pfeilstein','Schneeberg','Weissenfels','Senftenberg','Eisengrab','Weitblick','Erdfall','Helfenstein','Hammererden'])"
   },

@@ -667,8 +667,8 @@
     "ID": 293408211,
     "key": "A caravan with armed escorts transporting provisions, supplies and equipment between settlements.",
     "original": "A caravan with armed escorts transporting provisions, supplies and equipment between settlements.",
-    "translation": "一个带有武装护卫的商队，在定居点之间运输着值得保护的东西。",
-    "stage": 1,
+    "translation": "一支在定居点之间运送给养、补给和装备的有武装护卫的商队。",
+    "stage": 5,
     "context": "party.setDescription('A caravan with armed escorts transporting provisions, supplies and equipment between settlements.')"
   },
   {
