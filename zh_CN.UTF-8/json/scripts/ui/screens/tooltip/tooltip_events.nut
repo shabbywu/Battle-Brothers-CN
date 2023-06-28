@@ -339,7 +339,7 @@
     "ID": 293422995,
     "key": "Costs [b][color=",
     "original": "Costs [b][color=",
-    "translation": "消耗[b][color=",
+    "translation": "消耗 [b][color=",
     "stage": 5,
     "context": "text = 'Costs [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getActionPointCosts()[lastTileHovered.Type] + '+' + actor.getLevelActionPointCost() + '[/color][/b] AP and [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getFatigueCosts()[lastTileHovered.Type] + '+' + actor.getLevelFatigueCost() + '[/color][/b] Fatigue to traverse because it is at a different height level'"
   },
@@ -3163,8 +3163,8 @@
     "ID": 293423348,
     "key": "[/color][/b] Fatigue to traverse",
     "original": "[/color][/b] Fatigue to traverse",
-    "translation": "[/color][/b]疲劳去移动",
-    "stage": 1,
+    "translation": "[/color][/b] 疲劳值以移动",
+    "stage": 5,
     "context": "text = 'Costs [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getActionPointCosts()[lastTileHovered.Type] + '[/color][/b] AP and [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getFatigueCosts()[lastTileHovered.Type] + '[/color][/b] Fatigue to traverse'"
   },
   {
@@ -3203,8 +3203,8 @@
     "ID": 293423353,
     "key": "[/color][/b] Fatigue to traverse because it is at a different height level",
     "original": "[/color][/b] Fatigue to traverse because it is at a different height level",
-    "translation": "[/color][/b]疲劳去移动(因为处于不同的高度)",
-    "stage": 1,
+    "translation": "[/color][/b] 疲劳值以移动(由于处于不同的高度)",
+    "stage": 5,
     "context": "text = 'Costs [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getActionPointCosts()[lastTileHovered.Type] + '+' + actor.getLevelActionPointCost() + '[/color][/b] AP and [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getFatigueCosts()[lastTileHovered.Type] + '+' + actor.getLevelFatigueCost() + '[/color][/b] Fatigue to traverse because it is at a different height level'"
   },
   {

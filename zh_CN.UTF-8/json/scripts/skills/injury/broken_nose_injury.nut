@@ -11,7 +11,7 @@
     "ID": 293421868,
     "key": "Blunt force broke this character's nose, making it hard for them to catch breath properly.",
     "original": "Blunt force broke this character's nose, making it hard for them to catch breath properly.",
-    "translation": "钝力打断了这个角色的鼻子，使他很难正常的呼吸。",
+    "translation": "钝力打断了这个角色的鼻子，使他难以正常呼吸。",
     "stage": 5,
     "context": "this.m.Description = \"Blunt force broke this character's nose, making it hard for them to catch breath properly.\""
   },
