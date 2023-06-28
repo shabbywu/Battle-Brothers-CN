@@ -19,7 +19,7 @@
     "ID": 293419813,
     "key": "[/color] damage to hitpoints, regardless of armor",
     "original": "[/color] damage to hitpoints, regardless of armor",
-    "translation": "[/color]无视护甲的生命值伤害",
+    "translation": "[/color] 无视护甲的生命值伤害",
     "stage": 5,
     "context": "text = 'Always inflicts at least [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] damage to hitpoints, regardless of armor'"
   },
@@ -35,7 +35,7 @@
     "ID": 293419815,
     "key": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
     "original": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
-    "translation": "]-15%[/color]攻击近身敌人的命中惩罚，因为武器过于笨重",
+    "translation": "]-15%[/color] 攻击近身敌人的命中惩罚，因为武器过于笨重",
     "stage": 5,
     "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
@@ -59,7 +59,7 @@
     "ID": 293419818,
     "key": "Always inflicts at least [color=",
     "original": "Always inflicts at least [color=",
-    "translation": "总是至少造成[color=",
+    "translation": "总是至少造成 [color=",
     "stage": 5,
     "context": "text = 'Always inflicts at least [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] damage to hitpoints, regardless of armor'"
   },

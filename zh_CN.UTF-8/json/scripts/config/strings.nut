@@ -1235,8 +1235,8 @@
     "ID": 293405790,
     "key": "Flat and arid ground covered in rough grasses and weeds.",
     "original": "Flat and arid ground covered in rough grasses and weeds.",
-    "translation": "平坦而干旱的地面覆盖着粗糙的草和杂草。",
-    "stage": 1,
+    "translation": "平坦而干旱的地面覆盖着粗糙的各色野草。",
+    "stage": 5,
     "context": "'Flat and arid ground covered in rough grasses and weeds.'"
   },
   {
@@ -2324,7 +2324,7 @@
     "key": "tundra",
     "original": "tundra",
     "translation": "[color=#ff0000]苔原[/color]",
-    "stage": 1,
+    "stage": 5,
     "context": "'tundra'"
   },
   {
@@ -4124,7 +4124,7 @@
     "key": "Tundra",
     "original": "Tundra",
     "translation": "苔原",
-    "stage": 1,
+    "stage": 5,
     "context": "'Tundra'"
   },
   {
@@ -5036,7 +5036,7 @@
     "key": "Scrublands",
     "original": "Scrublands",
     "translation": "灌木丛",
-    "stage": 1,
+    "stage": 5,
     "context": "'Scrublands'"
   },
   {
@@ -5979,8 +5979,8 @@
     "ID": 293406383,
     "key": "Boulder",
     "original": "Boulder",
-    "translation": "博尔德",
-    "stage": 1,
+    "translation": "巨石",
+    "stage": 5,
     "context": "Boulder = 'Boulder'"
   },
   {
@@ -6251,8 +6251,8 @@
     "ID": 293406417,
     "key": "A large tree with a massive trunk.",
     "original": "A large tree with a massive trunk.",
-    "translation": "一棵有大树干的大树。",
-    "stage": 1,
+    "translation": "一棵树干粗壮的大树。",
+    "stage": 5,
     "context": "Tree = 'A large tree with a massive trunk.'"
   },
   {
@@ -6323,8 +6323,8 @@
     "ID": 293406426,
     "key": "Very dense shrubbery that blocks movement and line of sight.",
     "original": "Very dense shrubbery that blocks movement and line of sight.",
-    "translation": "非常茂密的灌木丛，阻挡了运动和视线。",
-    "stage": 1,
+    "translation": "非常茂密的灌木丛，阻挡移动和视线。",
+    "stage": 5,
     "context": "Shrubbery = 'Very dense shrubbery that blocks movement and line of sight.'"
   },
   {
@@ -7164,7 +7164,7 @@
     "key": "A large stone boulder. Blocks movement and line of sight.",
     "original": "A large stone boulder. Blocks movement and line of sight.",
     "translation": "一块大石头。阻挡移动和视线。",
-    "stage": 1,
+    "stage": 5,
     "context": "Boulder = 'A large stone boulder. Blocks movement and line of sight.'"
   },
   {
@@ -9636,7 +9636,7 @@
     "key": "Tree",
     "original": "Tree",
     "translation": "树",
-    "stage": 1,
+    "stage": 5,
     "context": "Tree = 'Tree'"
   },
   {
@@ -9699,8 +9699,8 @@
     "ID": 293406848,
     "key": "in the tundra",
     "original": "in the tundra",
-    "translation": "[color=#ff0000]苔原里[/color]",
-    "stage": 1,
+    "translation": "[color=#ff0000]苔原上[/color]",
+    "stage": 5,
     "context": "'in the tundra'"
   },
   {
