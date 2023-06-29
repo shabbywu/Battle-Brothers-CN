@@ -20,7 +20,7 @@
     "key": "the Unruly",
     "original": "the Unruly",
     "translation": "桀骜不驯者(the Unruly)",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Unruly'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "the Northman",
     "original": "the Northman",
     "translation": "北人(the Northman)",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Northman'"
   },
   {
@@ -44,7 +44,7 @@
     "key": "the Raider",
     "original": "the Raider",
     "translation": "掠夺者(the Raider)",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Raider'"
   },
   {
@@ -84,7 +84,7 @@
     "key": "the Barbarian",
     "original": "the Barbarian",
     "translation": "野蛮人(the Barbarian)",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Barbarian'"
   },
   {

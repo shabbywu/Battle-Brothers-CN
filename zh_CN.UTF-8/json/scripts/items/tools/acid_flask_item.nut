@@ -3,7 +3,7 @@
     "ID": 293418919,
     "key": "A flask filled with the concentrate of a Lindwurm's acidic blood. It is highly corrosive to many materials and burns through armor quickly. Can be thrown at short ranges.",
     "original": "A flask filled with the concentrate of a Lindwurm's acidic blood. It is highly corrosive to many materials and burns through armor quickly. Can be thrown at short ranges.",
-    "translation": "一瓶装满林德沃姆血液的酸性液体。它对很多材质都有极高的腐蚀性，能够很快烧穿盔甲。可在短距离内投掷。",
+    "translation": "一瓶装满林德蠕龙血液的酸性液体。它对很多材质都有极高的腐蚀性，能够很快烧穿盔甲。可在短距离内投掷。",
     "stage": 1,
     "context": "this.m.Description = \"A flask filled with the concentrate of a Lindwurm's acidic blood. It is highly corrosive to many materials and burns through armor quickly. Can be thrown at short ranges.\""
   },

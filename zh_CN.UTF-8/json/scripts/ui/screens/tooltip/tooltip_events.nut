@@ -2459,8 +2459,8 @@
     "ID": 293423260,
     "key": "The free Lindwurm DLC adds a challenging new beast, a new player banner, as well as a new famed armor, helmet and shield.",
     "original": "The free Lindwurm DLC adds a challenging new beast, a new player banner, as well as a new famed armor, helmet and shield.",
-    "translation": "免费的林德沃姆DLC增加了一个具有挑战性的新野兽，一些新的玩家旗帜，以及一些新的著名的盔甲、头盔和盾牌。",
-    "stage": 1,
+    "translation": "免费的林德蠕龙（林德虫）DLC增加了一只具有挑战性的新野兽，一些新的玩家旗帜，以及一组新的著名盔甲、头盔和盾牌。",
+    "stage": 5,
     "context": "text = 'The free Lindwurm DLC adds a challenging new beast, a new player banner, as well as a new famed armor, helmet and shield.'"
   },
   {

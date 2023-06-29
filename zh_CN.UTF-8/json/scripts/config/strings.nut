@@ -7083,8 +7083,8 @@
     "ID": 293406521,
     "key": "Lindwurms",
     "original": "Lindwurms",
-    "translation": "林德沃姆",
-    "stage": 1,
+    "translation": "林德蠕龙",
+    "stage": 5,
     "context": "'Lindwurms'"
   },
   {
@@ -9363,7 +9363,7 @@
     "ID": 293406806,
     "key": "Bed Load Knolls",
     "original": "Bed Load Knolls",
-    "translation": "床负载小丘",
+    "translation": "底沙丘",
     "stage": 1,
     "context": "'Bed Load Knolls'"
   },

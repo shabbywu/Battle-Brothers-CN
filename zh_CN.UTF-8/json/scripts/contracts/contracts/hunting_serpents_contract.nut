@@ -131,8 +131,8 @@
     "ID": 293409221,
     "key": "A Lindwurm!",
     "original": "A Lindwurm!",
-    "translation": "一条林德沃姆！",
-    "stage": 1,
+    "translation": "一条林德蠕龙！",
+    "stage": 5,
     "context": "Text = 'A Lindwurm!'"
   },
   {
@@ -195,7 +195,7 @@
     "ID": 293409229,
     "key": "[img]gfx/ui/events/event_129.png[/img]You see the first serpent writhing about what looks like a fallen wetland tree. As you gain on the snake, you realize there are a few more sneaking about. And then you realize the tree they've taken to is no tree at a",
     "original": "[img]gfx/ui/events/event_129.png[/img]You see the first serpent writhing about what looks like a fallen wetland tree. As you gain on the snake, you realize there are a few more sneaking about. And then you realize the tree they've taken to is no tree at all: its girth shifts and rolls over, and you see the scales, fat as your own hand, glisten in the light, and the lindwurm rears its head and turns it round, its sharp eyes focusing with slimming blackness, and then it opens its maw and roars, the wetland water rippling as its growl sears across the surface.",
-    "translation": "[img]gfx/ui/events/event_129.png[/img]你最先看到的一条大蛇看起来围着一颗湿地里的倒树。 当你接近那条蛇时，你意识到有几条别的蛇在附近。 然后你意识到它们围绕的不是树：它的腰晃动翻转过来，你看到了鳞片，如同你手一样大，在光中闪耀，而林德沃姆仰起头转过来，它尖锐的浑黑眼睛眯起聚焦，然后它张开下颚嘶吼一声，湿地的水面随着它的低吼激起阵阵波浪。",
+    "translation": "[img]gfx/ui/events/event_129.png[/img]你最先看到的一条大蛇看起来围着一颗湿地里的倒树。 当你接近那条蛇时，你意识到有几条别的蛇在附近。 然后你意识到它们围绕的不是树：它的腰晃动翻转过来，你看到了鳞片，如同你手一样大，在光中闪耀，而林德蠕龙仰起头转过来，它尖锐的浑黑眼睛眯起聚焦，然后它张开下颚嘶吼一声，湿地的水面随着它的低吼激起阵阵波浪。",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_129.png[/img]You see the first serpent writhing about what looks like a fallen wetland tree. As you gain on the snake, you realize there are a few more sneaking about. And then you realize the tree they've taken to is no tree at all: its girth shifts and rolls over, and you see the scales, fat as your own hand, glisten in the light, and the lindwurm rears its head and turns it round, its sharp eyes focusing with slimming blackness, and then it opens its maw and roars, the wetland water rippling as its growl sears across the surface.\""
   },

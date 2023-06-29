@@ -3,8 +3,8 @@
     "ID": 293410188,
     "key": "A Lindwurm is a wingless bipedal dragon resembling a large snake.",
     "original": "A Lindwurm is a wingless bipedal dragon resembling a large snake.",
-    "translation": "林德瓦姆(Lindwurm)是一种无翼的双足龙，类似于一条巨大的蛇。",
-    "stage": 1,
+    "translation": "林德蠕龙（林德虫）是一种无翼的双足龙，类似于一条巨大的蛇。",
+    "stage": 5,
     "context": "'A Lindwurm is a wingless bipedal dragon resembling a large snake.'"
   },
   {

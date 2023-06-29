@@ -27,7 +27,7 @@
     "ID": 293407922,
     "key": "Hunt for Schrats and Lindwurms around the %regiontype% region of %worldmapregion% (%killcount%/%maxcount%)",
     "original": "Hunt for Schrats and Lindwurms around the %regiontype% region of %worldmapregion% (%killcount%/%maxcount%)",
-    "translation": "在 %worldmapregion% 的 %regiontype% 区域猎杀树人和林德沃姆  (%killcount%/%maxcount%)",
+    "translation": "在 %worldmapregion% 的 %regiontype% 区域猎杀树人和林德蠕龙  (%killcount%/%maxcount%)",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.push('Hunt for Schrats and Lindwurms around the %regiontype% region of %worldmapregion% (%killcount%/%maxcount%)')"
   },
@@ -115,7 +115,7 @@
     "ID": 293407933,
     "key": "Hunt for Schrats and Lindwurms",
     "original": "Hunt for Schrats and Lindwurms",
-    "translation": "猎杀树人和林德沃姆",
+    "translation": "猎杀树人和林德蠕龙",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.push('Hunt for Schrats and Lindwurms')"
   },
