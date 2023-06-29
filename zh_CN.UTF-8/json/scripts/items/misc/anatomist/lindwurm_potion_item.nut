@@ -19,7 +19,7 @@
     "ID": 293418484,
     "key": "Feel your blood boil! Or, more to the point, don't! With this tincture, the burning blood of a lindwurm will flow through decidedly human veins, with the lucky subject none the wiser. Until they start bleeding, of course.",
     "original": "Feel your blood boil! Or, more to the point, don't! With this tincture, the burning blood of a lindwurm will flow through decidedly human veins, with the lucky subject none the wiser. Until they start bleeding, of course.",
-    "translation": "让你的血液沸腾起来吧！或者，更准确的形容是……算了不重要！有了这种药剂，林德沃姆那滚烫的鲜血将流过人类的血管，幸运的受试者对此却毫不知情。当然，直到他们开始流血为止。",
+    "translation": "让你的血液沸腾起来吧！或者，更准确的形容是……算了不重要！有了这种药剂，林德蠕龙那滚烫的鲜血将流过人类的血管，幸运的受试者对此却毫不知情。当然，直到他们开始流血为止。",
     "stage": 1,
     "context": "this.m.Description = \"Feel your blood boil! Or, more to the point, don't! With this tincture, the burning blood of a lindwurm will flow through decidedly human veins, with the lucky subject none the wiser. Until they start bleeding, of course.\""
   },

@@ -35,8 +35,8 @@
     "ID": 293421324,
     "key": "Squire",
     "original": "Squire",
-    "translation": "侍从",
-    "stage": 1,
+    "translation": "扈从",
+    "stage": 5,
     "context": "this.m.Name = 'Squire'"
   }
 ]

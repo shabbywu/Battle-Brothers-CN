@@ -51,7 +51,7 @@
     "ID": 293407773,
     "key": "Enter the arena again to start the fight against two lindwurms",
     "original": "Enter the arena again to start the fight against two lindwurms",
-    "translation": "再次进入竞技场，开始对抗两只琳德虫。",
+    "translation": "再次进入竞技场，开始对抗两只林德蠕龙。",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against two lindwurms'"
   },
@@ -171,7 +171,7 @@
     "ID": 293407788,
     "key": "Enter the arena again to start the fight against one lindwurm",
     "original": "Enter the arena again to start the fight against one lindwurm",
-    "translation": "再次进入竞技场，开始对抗一头林德瓦姆。",
+    "translation": "再次进入竞技场，开始对抗一头林德蠕龙。",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against one lindwurm'"
   },
@@ -259,7 +259,7 @@
     "ID": 293407799,
     "key": "%SPEECH_ON%Your opponent is a... a... what is this? A worm? It's green. Never seen a worm that col- oh! A wyrm! No wait, 'wurm.' Wurm? A lindwurm! I gots'ta be honest with ya, I don't know what the hell this is, but I imagine our dear matchmakers won't be",
     "original": "%SPEECH_ON%Your opponent is a... a... what is this? A worm? It's green. Never seen a worm that col- oh! A wyrm! No wait, 'wurm.' Wurm? A lindwurm! I gots'ta be honest with ya, I don't know what the hell this is, but I imagine our dear matchmakers won't be having you fightin' a worm of the regular sort. Or maybe they is. Maybe they'll just have ye eat it for our entertainment. Maybe they ain't matchmakers, but tastemakers! Herghgheeagghheeehoogh. Ha.%SPEECH_OFF%",
-    "translation": "%SPEECH_ON%你的对手是一只……一只……这是什么？一条蠕虫？它是绿色的。从未见过这么彩的蠕虫——哦！一条巨龙！不对，“wurm”。wurm? 一条林德巴姆！老实说，我不知道这是什么，但我想我们亲爱的媒人不会让你打一只普通的蠕虫。或许他们会让你为了我们的娱乐而吃掉它。或许他们不是媒人，而是品鉴家！Herghgheeagghheeehoogh. 哈。%SPEECH_OFF%",
+    "translation": "%SPEECH_ON%你的对手是一只……一只……这是什么？一条蠕虫？它是绿色的。从未见过这么彩的蠕虫——哦！一条飞龙！不对，“wurm”。wurm? 一条林德蠕龙！老实说，我不知道这是什么，但我想我们亲爱的媒人不会让你打一只普通的蠕虫。或许他们会让你为了我们的娱乐而吃掉它。或许他们不是媒人，而是品鉴家！Herghgheeagghheeehoogh. 哈。%SPEECH_OFF%",
     "stage": 1,
     "context": "this[2] += \"%SPEECH_ON%Your opponent is a... a... what is this? A worm? It's green. Never seen a worm that col- oh! A wyrm! No wait, 'wurm.' Wurm? A lindwurm! I gots'ta be honest with ya, I don't know what the hell this is, but I imagine our dear matchmakers won't be having you fightin' a worm of the regular sort. Or maybe they is. Maybe they'll just have ye eat it for our entertainment. Maybe they ain't matchmakers, but tastemakers! Herghgheeagghheeehoogh. Ha.%SPEECH_OFF%\""
   },

@@ -59,8 +59,8 @@
     "ID": 293421154,
     "key": "%name% the monk retired back into calmer spiritual duties. He is currently out in a mountain monastery, enjoying the quiet while reflecting on his time in the mercenary company. The other monks hate him for fighting and killing, but he's penning a world-c",
     "original": "%name% the monk retired back into calmer spiritual duties. He is currently out in a mountain monastery, enjoying the quiet while reflecting on his time in the mercenary company. The other monks hate him for fighting and killing, but he's penning a world-changing tome on the balance between peace and violence.",
-    "translation": "%name%这位僧侣已经退役回归平静的精神职责。他目前身在山中寺院，享受着宁静并反思着自己在雇佣军战团的时光。其他僧侣因他曾经的战斗和杀戮而憎恶他，但他正在撰写一本影响世界的书，讲述和平与暴力之间的平衡。",
-    "stage": 1,
+    "translation": "%name%这位僧侣已经退役回归平静的精神生活中。他目前身处一所山中修道院，一边享受宁静，一边回想他在佣兵战团的时光。其他僧侣都因他战斗与杀戮的过往对其表示憎恶，而他正在写一本改变世界的书，讲述和平与暴力之间的平衡。",
+    "stage": 5,
     "context": "this.m.GoodEnding = \"%name% the monk retired back into calmer spiritual duties. He is currently out in a mountain monastery, enjoying the quiet while reflecting on his time in the mercenary company. The other monks hate him for fighting and killing, but he's penning a world-changing tome on the balance between peace and violence.\""
   },
   {
@@ -99,8 +99,8 @@
     "ID": 293421159,
     "key": "After having a spiritual breakdown, %name% retired from fighting and found home in a monastery. All his fellow brothers and abbots ostracized him for taking part in such a violent venture. Word has it he was eventually exiled when a sexton caught him stea",
     "original": "After having a spiritual breakdown, %name% retired from fighting and found home in a monastery. All his fellow brothers and abbots ostracized him for taking part in such a violent venture. Word has it he was eventually exiled when a sexton caught him stealing an offertory.",
-    "translation": "在经历了一次精神崩溃后，%name% 退役了并在一座修道院中找到了归所。他的所有兄弟和修道院长都因为他参与了这样的暴力冒险而排斥他。据说，在一个圣职人员抓到他偷一个捐赠箱时，他最终被流放了。",
-    "stage": 1,
+    "translation": "在经历了一次精神崩溃后，%name%退役并在一座修道院中找到了归所。他的所有兄弟和修道院长都因为他参与了这样的暴力冒险而排斥他。有传言说他在偷祭品时被教堂司事抓到，最终被流放。",
+    "stage": 5,
     "context": "this.m.BadEnding = 'After having a spiritual breakdown, %name% retired from fighting and found home in a monastery. All his fellow brothers and abbots ostracized him for taking part in such a violent venture. Word has it he was eventually exiled when a sexton caught him stealing an offertory.'"
   }
 ]

@@ -59,7 +59,7 @@
     "ID": 293419682,
     "key": ", who is your greatest gladiator. I am the one who swept the legs of a lindwurm and choked it out with its own tail! What you bastards say? You call that a tall tale? Pah! 'Tis a horizontal lizard at best.}",
     "original": ", who is your greatest gladiator. I am the one who swept the legs of a lindwurm and choked it out with its own tail! What you bastards say? You call that a tall tale? Pah! 'Tis a horizontal lizard at best.}",
-    "translation": ", 谁是你最伟大的角斗士. 我就是那个扫过林德沃姆腿，用它自己的尾巴把它勒死的人！ 你们这些混蛋怎么说？ 你说这是个大故事？ 呸！充其量只是一只横着的蜥蜴。}",
+    "translation": ", 谁是你最伟大的角斗士. 我就是那个扫过林德蠕龙腿，用它自己的尾巴把它勒死的人！ 你们这些混蛋怎么说？ 你说这是个大故事？ 呸！充其量只是一只横着的蜥蜴。}",
     "stage": 1,
     "context": "bros[2].getBackground().m.RawDescription = '{Why are you looking at %fullname%? Captain, it is I, ' + bros[1].getName() + \", who is your greatest gladiator. I am the one who swept the legs of a lindwurm and choked it out with its own tail! What you bastards say? You call that a tall tale? Pah! 'Tis a horizontal lizard at best.}\""
   },
