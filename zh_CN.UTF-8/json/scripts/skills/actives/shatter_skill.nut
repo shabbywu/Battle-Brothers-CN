@@ -36,7 +36,7 @@
     "key": "Shatter",
     "original": "Shatter",
     "translation": "震碎",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Shatter'"
   },
   {
@@ -60,7 +60,7 @@
     "key": "Crushed",
     "original": "Crushed",
     "translation": "粉碎",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.KilledString = 'Crushed'"
   },
   {

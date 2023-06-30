@@ -44,7 +44,7 @@
     "key": "Inflicts additional [color=",
     "original": "Inflicts additional [color=",
     "translation": "如果没有盔甲吸收，则造成额外的 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Inflicts additional [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] bleeding damage over time if not stopped by armor'"
   },
   {
@@ -60,15 +60,15 @@
     "key": "[/color] bleeding damage over time if not stopped by armor",
     "original": "[/color] bleeding damage over time if not stopped by armor",
     "translation": "[/color] 点持续的流血伤害",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Inflicts additional [color=' + this.Const.UI.Color.DamageValue + ']' + 10 + '[/color] bleeding damage over time if not stopped by armor'"
   },
   {
     "ID": 293420329,
     "key": "Rupture",
     "original": "Rupture",
-    "translation": "破裂",
-    "stage": 1,
+    "translation": "撕裂",
+    "stage": 5,
     "context": "this.m.Name = 'Rupture'"
   },
   {
@@ -76,7 +76,7 @@
     "key": "A thrusting attack that can cover the distance of 2 tiles and can be used from behind the frontline, outside the range of most melee weapons, and can tear bleeding wounds if not stopped by armor.",
     "original": "A thrusting attack that can cover the distance of 2 tiles and can be used from behind the frontline, outside the range of most melee weapons, and can tear bleeding wounds if not stopped by armor.",
     "translation": "一种穿透攻击，可以覆盖2格的距离，可以从前线后方使用，超出大多数近战武器的范围。并且如果没有盔甲吸收打击则可以造成流血的伤口。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'A thrusting attack that can cover the distance of 2 tiles and can be used from behind the frontline, outside the range of most melee weapons, and can tear bleeding wounds if not stopped by armor.'"
   }
 ]

@@ -3012,7 +3012,7 @@
     "key": "Woodcutter's Cabin",
     "original": "Woodcutter's Cabin",
     "translation": "伐木工的小棚屋",
-    "stage": 1,
+    "stage": 5,
     "context": "\"Woodcutter's Cabin\""
   },
   {

@@ -76,7 +76,7 @@
     "key": "Hunted beasts around ",
     "original": "Hunted beasts around ",
     "translation": "狩猎野兽于",
-    "stage": 1,
+    "stage": 2,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationNobleContractSuccess, 'Hunted beasts around ' + this.World.State.getRegion(this.Flags.get('Region')).Name)"
   },
   {

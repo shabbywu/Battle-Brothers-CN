@@ -36,7 +36,7 @@
     "key": "Suffered an injury",
     "original": "Suffered an injury",
     "translation": "受伤了",
-    "stage": 1,
+    "stage": 5,
     "context": "this.worsenMood(this.Const.MoodChange.Injury, 'Suffered an injury')"
   },
   {

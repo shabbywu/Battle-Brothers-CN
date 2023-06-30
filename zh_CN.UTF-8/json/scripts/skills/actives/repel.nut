@@ -28,7 +28,7 @@
     "key": "Poke and shove at a target in order to force it away from the user by one tile. Targets hit will be staggered and lose initiative, and may take damage if they are pushed down several levels of height. Shieldwall, Spearwall and Riposte will be canceled for",
     "original": "Poke and shove at a target in order to force it away from the user by one tile. Targets hit will be staggered and lose initiative, and may take damage if they are pushed down several levels of height. Shieldwall, Spearwall and Riposte will be canceled for a target that is successfully repelled. A rooted target can not be repelled.",
     "translation": "戳推一个目标，以迫使它后退一格。被击中的目标会趔趄并降低主动性，如果被从多层高度推下还会受到伤害。成功的逼退将取消目标的盾墙，矛墙，还击技能，定身的目标不能被逼退。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'Poke and shove at a target in order to force it away from the user by one tile. Targets hit will be staggered and lose initiative, and may take damage if they are pushed down several levels of height. Shieldwall, Spearwall and Riposte will be canceled for a target that is successfully repelled. A rooted target can not be repelled.'"
   },
   {

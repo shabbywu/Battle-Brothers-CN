@@ -211,8 +211,8 @@
     "ID": 293405662,
     "key": "Black Company",
     "original": "Black Company",
-    "translation": "黑公司",
-    "stage": 1,
+    "translation": "黑色战团",
+    "stage": 5,
     "context": "'Black Company'"
   },
   {
@@ -1124,7 +1124,7 @@
     "key": "Iron Ravens",
     "original": "Iron Ravens",
     "translation": "铁鸦",
-    "stage": 1,
+    "stage": 5,
     "context": "'Iron Ravens'"
   },
   {
@@ -1772,7 +1772,7 @@
     "key": "Golden Order",
     "original": "Golden Order",
     "translation": "黄金秩序",
-    "stage": 1,
+    "stage": 5,
     "context": "'Golden Order'"
   },
   {
@@ -2675,8 +2675,8 @@
     "ID": 293405970,
     "key": "Whistling Arrows",
     "original": "Whistling Arrows",
-    "translation": "呼啸的箭矢",
-    "stage": 1,
+    "translation": "呼啸之矢",
+    "stage": 5,
     "context": "'Whistling Arrows'"
   },
   {
@@ -2907,8 +2907,8 @@
     "ID": 293405999,
     "key": "Red Legion",
     "original": "Red Legion",
-    "translation": "红军团",
-    "stage": 1,
+    "translation": "红色军团",
+    "stage": 5,
     "context": "'Red Legion'"
   },
   {
@@ -3499,8 +3499,8 @@
     "ID": 293406073,
     "key": "Crimson Daggers",
     "original": "Crimson Daggers",
-    "translation": "深红匕首",
-    "stage": 1,
+    "translation": "猩红匕首",
+    "stage": 5,
     "context": "'Crimson Daggers'"
   },
   {
@@ -3859,8 +3859,8 @@
     "ID": 293406118,
     "key": "Iron Crown Company",
     "original": "Iron Crown Company",
-    "translation": "铁冠公司",
-    "stage": 1,
+    "translation": "铁币战团",
+    "stage": 5,
     "context": "'Iron Crown Company'"
   },
   {
@@ -5420,7 +5420,7 @@
     "key": "Swords of the South",
     "original": "Swords of the South",
     "translation": "南方之剑",
-    "stage": 1,
+    "stage": 5,
     "context": "'Swords of the South'"
   },
   {
@@ -5763,8 +5763,8 @@
     "ID": 293406356,
     "key": "Azure Boars",
     "original": "Azure Boars",
-    "translation": "蔚蓝公猪",
-    "stage": 1,
+    "translation": "蔚蓝野猪",
+    "stage": 5,
     "context": "'Azure Boars'"
   },
   {
@@ -6411,8 +6411,8 @@
     "ID": 293406437,
     "key": "Screaming Skulls",
     "original": "Screaming Skulls",
-    "translation": "尖叫的骷髅",
-    "stage": 1,
+    "translation": "尖啸颅骨",
+    "stage": 5,
     "context": "'Screaming Skulls'"
   },
   {
@@ -6636,7 +6636,7 @@
     "key": "Black Shields",
     "original": "Black Shields",
     "translation": "黑盾",
-    "stage": 1,
+    "stage": 5,
     "context": "'Black Shields'"
   },
   {
@@ -6675,8 +6675,8 @@
     "ID": 293406470,
     "key": "Second Sons",
     "original": "Second Sons",
-    "translation": "第二个儿子",
-    "stage": 1,
+    "translation": "次子团",
+    "stage": 5,
     "context": "'Second Sons'"
   },
   {
@@ -6843,8 +6843,8 @@
     "ID": 293406491,
     "key": "Wolves of Bleak Forest",
     "original": "Wolves of Bleak Forest",
-    "translation": "荒凉森林的狼群",
-    "stage": 1,
+    "translation": "荒林狼群",
+    "stage": 5,
     "context": "'Wolves of Bleak Forest'"
   },
   {
@@ -7107,8 +7107,8 @@
     "ID": 293406524,
     "key": "Fang and Coin",
     "original": "Fang and Coin",
-    "translation": "方和硬币",
-    "stage": 1,
+    "translation": "獠牙与钱币",
+    "stage": 5,
     "context": "'Fang and Coin'"
   },
   {
@@ -7547,8 +7547,8 @@
     "ID": 293406579,
     "key": "King's End Company",
     "original": "King's End Company",
-    "translation": "国王大道公司",
-    "stage": 1,
+    "translation": "君王之末战团",
+    "stage": 5,
     "context": "\"King's End Company\""
   },
   {
@@ -7740,7 +7740,7 @@
     "key": "Grudgebringers",
     "original": "Grudgebringers",
     "translation": "怨恨使者",
-    "stage": 1,
+    "stage": 5,
     "context": "'Grudgebringers'"
   },
   {
@@ -8003,8 +8003,8 @@
     "ID": 293406636,
     "key": "Hungry Hounds",
     "original": "Hungry Hounds",
-    "translation": "饥饿的猎犬",
-    "stage": 1,
+    "translation": "饥饿之猎犬",
+    "stage": 5,
     "context": "'Hungry Hounds'"
   },
   {
@@ -8523,8 +8523,8 @@
     "ID": 293406701,
     "key": "Walther's Fellowship",
     "original": "Walther's Fellowship",
-    "translation": "瓦尔特的奖学金",
-    "stage": 1,
+    "translation": "瓦尔特的同仁团",
+    "stage": 5,
     "context": "\"Walther's Fellowship\""
   },
   {
@@ -8579,8 +8579,8 @@
     "ID": 293406708,
     "key": "Radobrecht's Swords",
     "original": "Radobrecht's Swords",
-    "translation": "拉多布雷希特的剑",
-    "stage": 1,
+    "translation": "拉多布雷希特之剑",
+    "stage": 5,
     "context": "\"Radobrecht's Swords\""
   },
   {
