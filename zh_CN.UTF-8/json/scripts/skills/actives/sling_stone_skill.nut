@@ -59,8 +59,8 @@
     "ID": 293420416,
     "key": "Propel a stone towards a target with your sling. Accuracy drops sharply with distance. Can not be used while engaged in melee.",
     "original": "Propel a stone towards a target with your sling. Accuracy drops sharply with distance. Can not be used while engaged in melee.",
-    "translation": "用你的吊带把石头扔向目标。 精度随着距离的增加而急剧下降。 不能在近战中使用。",
-    "stage": 1,
+    "translation": "用你投石杖向目标抛射石块。准确度随着距离急剧下降。无法在卷入近战时使用。",
+    "stage": 5,
     "context": "this.m.Description = 'Propel a stone towards a target with your sling. Accuracy drops sharply with distance. Can not be used while engaged in melee.'"
   },
   {

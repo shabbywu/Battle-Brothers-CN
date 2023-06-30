@@ -19,8 +19,8 @@
     "ID": 293421327,
     "key": "Swordmaster",
     "original": "Swordmaster",
-    "translation": "剑圣",
-    "stage": 1,
+    "translation": "剑术大师",
+    "stage": 5,
     "context": "this.m.Name = 'Swordmaster'"
   },
   {
@@ -35,16 +35,16 @@
     "ID": 293421329,
     "key": "the Legend",
     "original": "the Legend",
-    "translation": "传奇",
-    "stage": 1,
+    "translation": "传奇(the Legend)",
+    "stage": 5,
     "context": "'the Legend'"
   },
   {
     "ID": 293421330,
     "key": "the Master",
     "original": "the Master",
-    "translation": "大师",
-    "stage": 1,
+    "translation": "大师(the Legend)",
+    "stage": 5,
     "context": "'the Master'"
   },
   {
@@ -60,7 +60,7 @@
     "key": "the Old Guard",
     "original": "the Old Guard",
     "translation": "老卫士(the Old Guard)",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Old Guard'"
   }
 ]

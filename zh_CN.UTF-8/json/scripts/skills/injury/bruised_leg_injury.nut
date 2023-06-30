@@ -20,7 +20,7 @@
     "key": "]1[/color] Additional Action Point per tile moved",
     "original": "]1[/color] Additional Action Point per tile moved",
     "translation": "]1[/color] 额外的行动点，在每移动一格时消耗增加",
-    "stage": 1,
+    "stage": 2,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']1[/color] Additional Action Point per tile moved'"
   },
   {
