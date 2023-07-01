@@ -76,7 +76,7 @@
     "key": "Drive off brigands at ",
     "original": "Drive off brigands at ",
     "translation": "击退强盗于",
-    "stage": 5,
+    "stage": 2,
     "context": "'Drive off brigands at ' + this.Flags.get('DestinationName') + ' %direction% of %origin%'"
   },
   {

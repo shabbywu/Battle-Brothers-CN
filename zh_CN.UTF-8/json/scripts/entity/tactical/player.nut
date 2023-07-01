@@ -147,7 +147,7 @@
     "ID": 293410462,
     "key": "Gutted",
     "original": "Gutted",
-    "translation": "被破腹",
+    "translation": "破腹",
     "stage": 5,
     "context": "killedBy = 'Gutted'"
   },
@@ -164,7 +164,7 @@
     "key": "Committed Suicide",
     "original": "Committed Suicide",
     "translation": "自杀",
-    "stage": 1,
+    "stage": 5,
     "context": "killedBy = 'Committed Suicide'"
   },
   {

@@ -12,7 +12,7 @@
     "key": "Dumb",
     "original": "Dumb",
     "translation": "愚笨",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Dumb'"
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293422488,
     "key": "the Idiot",
     "original": "the Idiot",
-    "translation": "白痴",
-    "stage": 1,
+    "translation": "白痴(the Idiot)",
+    "stage": 5,
     "context": "'the Idiot'"
   },
   {

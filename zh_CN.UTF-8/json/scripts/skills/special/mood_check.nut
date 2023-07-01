@@ -83,7 +83,7 @@
     "ID": 293422256,
     "key": "Recent events have left this character in good spirit. It will probably pass as reality takes a grip again, but for now, things are looking well.",
     "original": "Recent events have left this character in good spirit. It will probably pass as reality takes a grip again, but for now, things are looking well.",
-    "translation": "最近的事件使这个角色精神饱满。 它可能会随着现实有所改变，但现在看来，一切都很顺利。",
+    "translation": "最近的事件使这个角色心情愉快。随着现实再次掌控局面，这种局面可能会过去，但就目前而言，情况看起来不错。",
     "stage": 5,
     "context": "text = 'Recent events have left this character in good spirit. It will probably pass as reality takes a grip again, but for now, things are looking well.'"
   },

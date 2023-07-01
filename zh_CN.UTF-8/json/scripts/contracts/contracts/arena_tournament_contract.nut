@@ -203,8 +203,8 @@
     "ID": 293407859,
     "key": "Enter the arena again to start the first round",
     "original": "Enter the arena again to start the first round",
-    "translation": "再次进入竞技场，开始第一轮。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始第一轮",
+    "stage": 5,
     "context": "'Enter the arena again to start the first round'"
   },
   {
