@@ -534,5 +534,13 @@
     "translation": "再次进入竞技场，开始对抗 %amount% 只巨魔。",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against %amount% unholds'"
+  },
+  {
+    "ID": 315253923,
+    "key": "sha256:3916f238051e7e2ff31986d79497a33f32db0968f7c504ba091a5115bb97d2ac",
+    "original": "But...",
+    "translation": "但是……",
+    "stage": 5,
+    "context": "Text = 'But...'"
   }
 ]

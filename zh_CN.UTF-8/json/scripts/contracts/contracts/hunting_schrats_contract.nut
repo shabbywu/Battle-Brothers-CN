@@ -238,5 +238,12 @@
     "translation": "[img]gfx/ui/events/event_121.png[/img]{离开时一个亮光吸引了你的注意。 你转身来到一只树人的树干边。 一把斧头深埋在木头里。 苔藓看来很久前便侵蚀了握柄，但是这工具的金属部分毫无问题，一点锈都没有。 刮掉苔藓，下面露出了紧握着的木手指。 顺着手指看过去，手腕在树干处化入了树纹。 你跟着那条纹路继续找到一张木脸，还有一个变形的深洞，像一张褐蜡制成的脸就这么被漫长的时间融化了一般。 头盔的轮廓在脸周围扭曲，下面还有块胸甲板凸起，就像一个猎杀者的蓄水池。\n\n你摇摇头取出了斧子，摆脱同时把木头手指掰下它的握柄。 变形的脸平淡的观察着你的窃行，它的目光从它失去光泽的毁灭一刻保存至今。 你没有逗留在这番景象前并带着斧头回到了战团中。}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_121.png[/img]{Just as you're departing a glint catches your eye. You turn around and come to one of the schrats' trunk. An axe is embedded in the wood. Moss has long since overgrown the handle, and yet the metal of the tool is without error, not a smidge of rust upon it. Scraping the moss away, you uncover wooden fingertips still at full grip. Tracing the fingers ends at the tree trunk where the wrist becomes a vein of wood. You follow that along to a wooden face with a twisted maw, like a face of brown wax melted by time alone. The frame of a helmet twists around the face and there's a chest plate cresting below like the reservoir of a deerchaser.\n\nYou shake your head and retrieve the axe, breaking it free and throwing the wooden fingers off its handle. The misshapen face blankly observes your theft, its stare preserved in the very annihilation from which it is eons removed. You don't dwell on the sight and return to the company with the axe.}\""
+  },
+  {
+    "ID": 315253929,
+    "key": "sha256:3f93d97103334836e7ba848c66dd97889977ce68a7efc5081a185088ede14063",
+    "original": "Direwolves",
+    "translation": "",
+    "stage": -1
   }
 ]

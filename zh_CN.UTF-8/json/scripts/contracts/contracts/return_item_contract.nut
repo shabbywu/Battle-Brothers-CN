@@ -59,8 +59,8 @@
     "ID": 293409780,
     "key": "I know a good deal when I see one. Hand over the crowns.",
     "original": "I know a good deal when I see one. Hand over the crowns.",
-    "translation": "我一眼就能认出好生意。 把克朗拿过来。",
-    "stage": 1,
+    "translation": "我一看就知道是好买卖。把克朗拿来。",
+    "stage": 5,
     "context": "Text = 'I know a good deal when I see one. Hand over the crowns.'"
   },
   {
@@ -83,7 +83,7 @@
     "ID": 293409783,
     "key": "[img]gfx/ui/events/event_76.png[/img]{You clean the blood off your sword and then go to retrieve the item. As you bend over to pick it up, you spot a man watching you in the distance. He comes forth, his two hands totemed together with long sleeves.%SPEEC",
     "original": "[img]gfx/ui/events/event_76.png[/img]{You clean the blood off your sword and then go to retrieve the item. As you bend over to pick it up, you spot a man watching you in the distance. He comes forth, his two hands totemed together with long sleeves.%SPEECH_ON%I see you've killed my benefactor's men.%SPEECH_OFF%Sheathing your sword, you nod at the man. He continues.%SPEECH_ON%My benefactor paid good money for that artifact. It appears those he paid are no longer owed, so maybe I can speak to you directly. I will give you %bribe% crowns for the item.%SPEECH_OFF%That... is a good amount of money. %employer%, however, will not be happy if you decide to accept... | After the battle, a man emerges from a tree line, clapping his hands together.%SPEECH_ON%I paid those men a great deal of crowns, but it appears I should have paid you. And now that all these skeevy brigands are dead, I can!%SPEECH_OFF%You tell the man to get to the point before you run him through with a sword. He gestures toward the artifact.%SPEECH_ON%I'll pay you %bribe% crowns for the item. It was what was originally owed to these thieves, plus a little more. What do you say?%SPEECH_OFF%%employer% won't take kindly to your betrayal, but that is a good bit of money... | The battle over, you pick up the %itemLower% and look it over. Was this really worth the lives of so many people?%SPEECH_ON%I know what you're thinking, sellsword.%SPEECH_OFF%The voice breaks in. You draw your sword and aim it at a stranger who has seemingly appeared from nowhere.%SPEECH_ON%You're thinking, what if someone paid good money to steal that there artifact? What if that someone would pay me a good deal of money? Perhaps... more than the man who paid you to retrieve it in the first place.%SPEECH_OFF%You lower your weapon and nod.%SPEECH_ON%An interesting thought.%SPEECH_OFF%The man smiles.%SPEECH_ON%%bribe% crowns. That's how much I'll give you for it. That was the thieves' share plus extra. A more than fair deal. Of course, your employer will be most unhappy, but... well, that's not my choice to make.%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_76.png[/img]{你从剑上擦下血然后前去取回物品。 随着你弯腰捡它，你看到一个人在远处看你。 他走过来，他的双手被长袖盖住握在一起。%SPEECH_ON%看来你杀了我的主人的手下。%SPEECH_OFF%收起剑，你点头。他继续道。%SPEECH_ON%我的主人花了笔大价钱来获得那个宝物。 看起来他雇的人不再能够收钱了，或许我可以直接跟你谈。 我会给你 %bribe% 克朗买下它。%SPEECH_OFF%这…是不少钱。%employer%，或许对于你接受不会很高兴… | 战斗后，一个人从林线出现，拍手。%SPEECH_ON%我给了这些人不少钱，但是看起来我应该付给你。 现在这些强盗都死了，我可以这么做！%SPEECH_OFF%在你用剑刺穿他之前，你告诉他快点说到点上。 他向宝物示意。%SPEECH_ON%我会付你 %bribe% 克朗买下它。 这些钱本来是要给盗贼的，还有再加上一点。怎么样？%SPEECH_OFF%%employer% 不会默默接受你的背叛，但是钱不少… | 战斗结束了，你捡起 %itemLower% 检查它。 这真的值得这么多人命吗？%SPEECH_ON%我知道你在想什么，佣兵。%SPEECH_OFF%声音传来。 你拔剑指向不知从哪里冒出来的陌生人。%SPEECH_ON%你在想，会不会有什么人付你一大笔钱去偷那个宝物？ 如果那个人给我非常大一笔钱会怎么样？ 或许...比雇你来取回它的人更多的钱。%SPEECH_OFF%你放下武器并点头。%SPEECH_ON%有趣的想法。%SPEECH_OFF%他微笑着。%SPEECH_ON%%bribe% 克朗。这是我愿意付你的钱。 那是盗贼的部分还有额外加的。 不错的交易。 当然，你的雇主会非常不开心，但是…好吧，这里不是我在做决定。%SPEECH_OFF%}",
+    "translation": "[img]gfx/ui/events/event_76.png[/img]{你把剑上的血擦干净，然后去拿那东西。当你弯腰捡起它时，你发现一个男人在远处看着你。他走了出来，两只手搭在一起，袖子很长。%SPEECH_ON%看来你杀了我赞助人的手下。%SPEECH_OFF%收起剑，你向那人点点头。他继续道。%SPEECH_ON%我的赞助人花了大价钱来获得那个宝物。看起来他的报酬没法被接受了，所以也许我可以直接和你谈谈。我出价%bribe%克朗买下它。%SPEECH_OFF%那……是不少钱。然而，如果你决定接受……%employer%不会高兴。 | 战斗后，一个人从林线出现，拍手。%SPEECH_ON%我给了这些人不少钱，但是看起来我应该付给你。 现在这些强盗都死了，我可以这么做！%SPEECH_OFF%在你用剑刺穿他之前，你告诉他快点说到点上。 他向宝物示意。%SPEECH_ON%我会付你 %bribe% 克朗买下它。 这些钱本来是要给盗贼的，还有再加上一点。怎么样？%SPEECH_OFF%%employer% 不会默默接受你的背叛，但是钱不少… | 战斗结束了，你捡起 %itemLower% 检查它。 这真的值得这么多人命吗？%SPEECH_ON%我知道你在想什么，佣兵。%SPEECH_OFF%声音传来。 你拔剑指向不知从哪里冒出来的陌生人。%SPEECH_ON%你在想，会不会有什么人付你一大笔钱去偷那个宝物？ 如果那个人给我非常大一笔钱会怎么样？ 或许...比雇你来取回它的人更多的钱。%SPEECH_OFF%你放下武器并点头。%SPEECH_ON%有趣的想法。%SPEECH_OFF%他微笑着。%SPEECH_ON%%bribe% 克朗。这是我愿意付你的钱。 那是盗贼的部分还有额外加的。 不错的交易。 当然，你的雇主会非常不开心，但是…好吧，这里不是我在做决定。%SPEECH_OFF%}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_76.png[/img]{You clean the blood off your sword and then go to retrieve the item. As you bend over to pick it up, you spot a man watching you in the distance. He comes forth, his two hands totemed together with long sleeves.%SPEECH_ON%I see you've killed my benefactor's men.%SPEECH_OFF%Sheathing your sword, you nod at the man. He continues.%SPEECH_ON%My benefactor paid good money for that artifact. It appears those he paid are no longer owed, so maybe I can speak to you directly. I will give you %bribe% crowns for the item.%SPEECH_OFF%That... is a good amount of money. %employer%, however, will not be happy if you decide to accept... | After the battle, a man emerges from a tree line, clapping his hands together.%SPEECH_ON%I paid those men a great deal of crowns, but it appears I should have paid you. And now that all these skeevy brigands are dead, I can!%SPEECH_OFF%You tell the man to get to the point before you run him through with a sword. He gestures toward the artifact.%SPEECH_ON%I'll pay you %bribe% crowns for the item. It was what was originally owed to these thieves, plus a little more. What do you say?%SPEECH_OFF%%employer% won't take kindly to your betrayal, but that is a good bit of money... | The battle over, you pick up the %itemLower% and look it over. Was this really worth the lives of so many people?%SPEECH_ON%I know what you're thinking, sellsword.%SPEECH_OFF%The voice breaks in. You draw your sword and aim it at a stranger who has seemingly appeared from nowhere.%SPEECH_ON%You're thinking, what if someone paid good money to steal that there artifact? What if that someone would pay me a good deal of money? Perhaps... more than the man who paid you to retrieve it in the first place.%SPEECH_OFF%You lower your weapon and nod.%SPEECH_ON%An interesting thought.%SPEECH_OFF%The man smiles.%SPEECH_ON%%bribe% crowns. That's how much I'll give you for it. That was the thieves' share plus extra. A more than fair deal. Of course, your employer will be most unhappy, but... well, that's not my choice to make.%SPEECH_OFF%}\""
   },
@@ -99,8 +99,8 @@
     "ID": 293409785,
     "key": "We're paid to return it, and that's what we'll do.",
     "original": "We're paid to return it, and that's what we'll do.",
-    "translation": "我们被雇来夺回它，而且我们正要这么做。",
-    "stage": 1,
+    "translation": "我们被雇来夺回它，而那就是我们要做的事。",
+    "stage": 5,
     "context": "Text = \"We're paid to return it, and that's what we'll do.\""
   },
   {
@@ -148,7 +148,7 @@
     "key": "Good pay.",
     "original": "Good pay.",
     "translation": "好酬劳。",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = 'Good pay.'"
   },
   {
@@ -171,8 +171,8 @@
     "ID": 293409794,
     "key": "[img]gfx/ui/events/event_76.png[/img]You hand over the %itemLower% and the stranger slips you a very heavy, very drooping satchel. The deal is done. It's safe to assume that %employer%, your employer, won't be happy about this.",
     "original": "[img]gfx/ui/events/event_76.png[/img]You hand over the %itemLower% and the stranger slips you a very heavy, very drooping satchel. The deal is done. It's safe to assume that %employer%, your employer, won't be happy about this.",
-    "translation": "[img]gfx/ui/events/event_76.png[/img]你把 %itemLower% 交出去然后陌生人递给你一个非常沉重的袋子。 交易完成了。 可以确信 %employer%，你的雇主对你不会有什么好脸色。",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_76.png[/img]你将%itemLower%交出，陌生人递给你一个沉甸甸的背包。交易完成了。可以肯定的是，%employer%，也就是你的雇主，不会对此感到高兴。",
+    "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/event_76.png[/img]You hand over the %itemLower% and the stranger slips you a very heavy, very drooping satchel. The deal is done. It's safe to assume that %employer%, your employer, won't be happy about this.\""
   },
   {
@@ -252,7 +252,7 @@
     "key": "Return Item",
     "original": "Return Item",
     "translation": "带回物品",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Return Item'"
   },
   {

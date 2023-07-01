@@ -11,7 +11,7 @@
     "ID": 293410509,
     "key": "Amber Collector",
     "original": "Amber Collector",
-    "translation": "琥珀收集者",
+    "translation": "琥珀收集处",
     "stage": 5,
     "context": "this.m.Name = 'Amber Collector'"
   }

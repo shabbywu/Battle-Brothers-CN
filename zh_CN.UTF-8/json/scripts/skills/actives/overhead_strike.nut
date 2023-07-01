@@ -19,7 +19,7 @@
     "ID": 293420183,
     "key": "[/color] can ignore armor",
     "original": "[/color] can ignore armor",
-    "translation": "[/color] 可无视盔甲",
+    "translation": "[/color] 可无视护甲",
     "stage": 5,
     "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_regular_max + '[/color] damage to hitpoints, of which [color=' + this.Const.UI.Color.DamageValue + ']0[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_direct_max + '[/color] can ignore armor'"
   },

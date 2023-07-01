@@ -182,5 +182,21 @@
     "translation": "一篇关于世界上所存在的各种怪兽的论文。书中关于那些最有趣——而且确实存在的生物的段落附近所有的空白都被笔记和注释填满了。",
     "stage": 1,
     "context": "this.m.Description = 'A treatise on the beasts of the world. Coded notes fill the margins in sections on the most interesting - and real - creatures.'"
+  },
+  {
+    "ID": 315253945,
+    "key": "sha256:4f3da7cb3e843fa850356b70208a3b4334790788eac01486d493a13d9d7365a2",
+    "original": "Lindwurm",
+    "translation": "林德蠕龙",
+    "stage": 5,
+    "context": "creatureName = 'Lindwurm'"
+  },
+  {
+    "ID": 315253946,
+    "key": "sha256:8cf16e6782a7fb31b4658cec13c9179c480cbb29a167efe2cfa9e8d150eda1f0",
+    "original": "Unhold",
+    "translation": "巨魔",
+    "stage": 5,
+    "context": "creatureName = 'Unhold'"
   }
 ]

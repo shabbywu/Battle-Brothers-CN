@@ -198,5 +198,13 @@
     "translation": " 遭受 ",
     "stage": 5,
     "context": "text = _event.m.Anatomist.getName() + ' suffers ' + injury.getNameOnly()"
+  },
+  {
+    "ID": 315253937,
+    "key": "sha256:1ba3ef51dc98bea7e87d2daa73283c55dd005c8c9ec414162e921bac9b9ad0dd",
+    "original": "Ahh...",
+    "translation": "啊……",
+    "stage": 5,
+    "context": "Text = 'Ahh...'"
   }
 ]

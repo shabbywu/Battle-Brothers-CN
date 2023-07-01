@@ -43,7 +43,7 @@
     "ID": 293409350,
     "key": "Secured the cemetery",
     "original": "Secured the cemetery",
-    "translation": "保护了墓地",
+    "translation": "确保了墓地的安全",
     "stage": 5,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationCivilianContractSuccess, 'Secured the cemetery')"
   },
@@ -107,7 +107,7 @@
     "ID": 293409358,
     "key": "Secure Cemetery",
     "original": "Secure Cemetery",
-    "translation": "保护墓地",
+    "translation": "确保墓地的安全",
     "stage": 5,
     "context": "this.m.Name = 'Secure Cemetery'"
   },
@@ -259,7 +259,7 @@
     "ID": 293409377,
     "key": "Secure ",
     "original": "Secure ",
-    "translation": "保护",
+    "translation": "确保安全于",
     "stage": 5,
     "context": "'Secure ' + this.Flags.get('DestinationName')"
   },
@@ -342,5 +342,13 @@
     "translation": "[img]gfx/ui/events/event_56.png[/img]{%necromancer_location% 被净化了。你几乎对这感到神圣，但回想起来你是为报酬来的，而不是什么正直的原因。 倒也不是说你更想要后者。 | 亡灵巫师死了，他的头就在你手上。 现在是时候去告诉那个傻子，%employer%，好让他给你报酬。 | 战斗并不轻松，但 %necromancer_location% 被摧毁了。 亡灵巫师死了并且，就像所有人一样，倒在他拥有的血肉和骨头里。 他的巫术可以操纵死者，但死了却使不出来令你感到好奇。 好奇，但也不令你感到遗憾。 你取下了这个异教者的头，以保万无一失。 | 你解决了亡灵巫师但，担心他的诡计在死后继续，你切下了他的头颅装到袋子里。%employer%，你的雇主，应该很高兴看到它。 | 战斗结束了，你执剑向亡灵巫师的脖子并取下了他的头颅。 它下来的几乎太轻松了，好似它想要落到你手里。 好吧，不论如何，%employer%，你的雇主，会想看看你成果的证据的。}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_56.png[/img]{%necromancer_location%'s been cleansed. You almost feel holy about it, but then remember you did this for pay, not some righteous cause. Not that you'd ever prefer the latter, anyway. | The necromancer is dead and you've got his head in hand. Now it's time to go tell that sap, %employer%, about it so he can pay you what you've earned. | It wasn't an easy fight, but %necromancer_location% is destroyed. The necromancer died and, like any man, fell into a pile of his own flesh and bones. Curious that his wizard tricks could raise the dead, but not be cast while being dead. Curious, but not unfortunate, either. You take the heathen's head, just in case. | You've slain the necromancer but, worried that his tricks might go beyond the grave, cut his head off his shoulders and stick it in a sack. %employer%, your employer, should be most happy to see it. | The battle over, you take a sword to the necromancer's neck and remove his head from his shoulders. It comes almost too freely, as though it wanted to be in your holding. Well, whatever the case, %employer%, your employer, will want to see it as proof of your doings here.}\""
+  },
+  {
+    "ID": 315253930,
+    "key": "sha256:1af34e0664b6886a0deba590dbb685a8145b8e20a9102aac585bee8df669c9dd",
+    "original": "Approaching...",
+    "translation": "在靠近时……",
+    "stage": 5,
+    "context": "Title = 'Approaching...'"
   }
 ]

@@ -227,8 +227,8 @@
     "ID": 293422981,
     "key": "You can only have one contract active at a time. Contract offers will remain while you fulfill your current contract, as long as the problem doesn't go away in the meantime.",
     "original": "You can only have one contract active at a time. Contract offers will remain while you fulfill your current contract, as long as the problem doesn't go away in the meantime.",
-    "translation": "一次只能开启一个合同。 合同报价将在你履行当前合同时保留，只是别在引起麻烦时消失了。",
-    "stage": 1,
+    "translation": "你一次只能激活一个合同。在你履行当前合同期间，只要问题没有在此期间消失，合同要约将保持不变。",
+    "stage": 5,
     "context": "text = \"You can only have one contract active at a time. Contract offers will remain while you fulfill your current contract, as long as the problem doesn't go away in the meantime.\""
   },
   {
@@ -795,8 +795,8 @@
     "ID": 293423052,
     "key": "You already have a contract!",
     "original": "You already have a contract!",
-    "translation": "你已经有合同了！",
-    "stage": 1,
+    "translation": "你已经签下一个合同了！",
+    "stage": 5,
     "context": "text = 'You already have a contract!'"
   },
   {
@@ -875,8 +875,8 @@
     "ID": 293423062,
     "key": "Not enough Action Points to change items ([b][color=",
     "original": "Not enough Action Points to change items ([b][color=",
-    "translation": "没有足够的行动点来更换物品（[b][color=",
-    "stage": 1,
+    "translation": "没有足够的行动点来更换物品（需要至少 [b][color=",
+    "stage": 5,
     "context": "text = 'Not enough Action Points to change items ([b][color=' + this.Const.UI.Color.NegativeValue + ']' + _activeEntity.getItems().getActionCost([_item]) + '[/color][/b] required)'"
   },
   {
@@ -2323,8 +2323,8 @@
     "ID": 293423243,
     "key": "[/color][/b] required)",
     "original": "[/color][/b] required)",
-    "translation": "[/color][/b] 至少)",
-    "stage": 1,
+    "translation": "[/color][/b] 点)",
+    "stage": 5,
     "context": "text = 'Not enough Action Points to change items ([b][color=' + this.Const.UI.Color.NegativeValue + ']' + _activeEntity.getItems().getActionCost([_item]) + '[/color][/b] required)'"
   },
   {
@@ -3390,5 +3390,21 @@
     "translation": "单击此处更改角色的名称和头衔。",
     "stage": 1,
     "context": "text = \"Click here to change the character's name and title.\""
+  },
+  {
+    "ID": 315253947,
+    "key": "sha256:4f3da7cb3e843fa850356b70208a3b4334790788eac01486d493a13d9d7365a2",
+    "original": "Lindwurm",
+    "translation": "林德蠕龙",
+    "stage": 5,
+    "context": "text = 'Lindwurm'"
+  },
+  {
+    "ID": 315253948,
+    "key": "sha256:c339bf736e4a210b1c5f923eacf99969dcda80adcf4753fce1902f7f4cfa4945",
+    "original": "Perks",
+    "translation": "特技",
+    "stage": 1,
+    "context": "text = 'Perks'"
   }
 ]

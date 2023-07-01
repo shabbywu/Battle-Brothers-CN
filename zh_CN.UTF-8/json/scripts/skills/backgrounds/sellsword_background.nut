@@ -20,15 +20,15 @@
     "key": "Sellsword",
     "original": "Sellsword",
     "translation": "佣兵",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Sellsword'"
   },
   {
     "ID": 293421256,
     "key": "Sellswords are expensive, but a life of warfare has forged them into skilled fighters.",
     "original": "Sellswords are expensive, but a life of warfare has forged them into skilled fighters.",
-    "translation": "佣兵很昂贵，但是战斗的一生将他们铸就成娴熟的斗士。",
-    "stage": 1,
+    "translation": "佣兵价格不菲，但战争生涯将他们铸就为了技艺精湛的战士。",
+    "stage": 5,
     "context": "this.m.BackgroundDescription = 'Sellswords are expensive, but a life of warfare has forged them into skilled fighters.'"
   },
   {

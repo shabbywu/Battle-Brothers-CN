@@ -3003,8 +3003,8 @@
     "ID": 293405244,
     "key": "Widowmakers",
     "original": "Widowmakers",
-    "translation": "寡妇制造者(Widowmakers)",
-    "stage": 1,
+    "translation": "寡妇制造者",
+    "stage": 5,
     "context": "'Widowmakers'"
   },
   {

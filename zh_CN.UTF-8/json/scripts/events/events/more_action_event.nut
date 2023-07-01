@@ -78,5 +78,13 @@
     "translation": "[img]gfx/ui/events/event_64.png[/img]你坐在帐篷里面享受着片刻的宁静，成就和收获每天都在不断的增加，以某种方式不断的累积起来，让今天比昨天更令人愉快。 突然，%combatbro1% 和 %combatbro2% 进来。 他们要求和你谈一谈。 你同意了，你拍了拍桌子邀请他们坐下来。 他们这样做了并很快表示他们已经有很长时间没有战斗了。 你感觉十分莫名其妙，你靠在椅背。%SPEECH_ON%这不是件好事吗？%SPEECH_OFF%%combatbro1% 摇了摇头并且举起自己的手在空气不断比划着。%SPEECH_ON%不，我们是被雇来战斗的，并且我们也想要战斗。 我们想要战斗，我想要屠戮，更重要的是在完成这两者后所获得金钱和荣耀。%SPEECH_OFF%",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_64.png[/img]You're sitting in your tent enjoying the peace and quiet which, like some increasable quantity, seemingly has accrued in such a way that each day is more enjoyable than the last. Suddenly, %combatbro1% and %combatbro2% enter. They demand you have a talk. You oblige, fanning your hands across your table and inviting them to sit. They do and quickly state that it has been a long while since they last saw combat. Taken aback, you quite literally lean back in your chair.%SPEECH_ON%Isn't that a good thing?%SPEECH_OFF%%combatbro1% shakes his head and cuts a determined hand through the air.%SPEECH_ON%No. We were hired to fight, and fighting is what we want. We want battles, we want carnage, and we want the glory that comes with both.%SPEECH_OFF%\""
+  },
+  {
+    "ID": 315253940,
+    "key": "sha256:3916f238051e7e2ff31986d79497a33f32db0968f7c504ba091a5115bb97d2ac",
+    "original": "But...",
+    "translation": "但是……",
+    "stage": 5,
+    "context": "Text = 'But...'"
   }
 ]

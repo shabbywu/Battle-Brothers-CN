@@ -3,8 +3,8 @@
     "ID": 293408745,
     "key": "[img]gfx/ui/events/event_04.png[/img]{Reaching %objective%, the caravan leader turns to you, a large satchel in hand.%SPEECH_ON%Thanks for getting us here, sellsword.%SPEECH_OFF%You take it and hand it over to %randombrother% for counting. He nods when he",
     "original": "[img]gfx/ui/events/event_04.png[/img]{Reaching %objective%, the caravan leader turns to you, a large satchel in hand.%SPEECH_ON%Thanks for getting us here, sellsword.%SPEECH_OFF%You take it and hand it over to %randombrother% for counting. He nods when he's finished. The caravan leader smiles.%SPEECH_ON%Also thanks for not betraying us and, you know, slaughtering us to a man and all that.%SPEECH_OFF%Mercenaries get thanked in the strangest ways. | Having reached %objective%, the caravan's wagons are immediately unloaded and their goods taken to a nearby warehouse. Once it's all cleared out, the leader of the group hands you a satchel of crowns and thanks you for making sure their passage was a safe one. | %objective% greets you with a swarm of daytalers looking for work. The caravan leader doles out crowns to men here and there, their grubby hands going to the carts to unload the cargo. When he's finished with the throngs of men, the leader turns to you. He's got a satchel in hand.%SPEECH_ON%And this is for you, mercenary.%SPEECH_OFF%You take it. A few of the daytalers watch the exchange of monies like cats would a dangling mouse. | You've made it, having delivered the caravan just as you'd promised %employer% you would. The caravan leader thanks you with a payment of crowns. He seems rather thankful for the fact that he's alive, briefly regaling you with a tale of when he barely escaped an ambush by brigands. You nod as if you give two shits about what's happened to this man. | The wagontrain drives into %objective%, each cart bumbling and tumbling their tall wheels over mounds of dried mud. The caravan hands work to unload the cargo, a few of them fighting off a beggar or two. The leader of the train hands you a satchel and that's about all he does. He's too busy with his work to say much more to you. The silence is appreciated. | Reaching %objective%, the caravan leader strikes up a conversation as if you two might have something in common. He talks of his younger days, when he was a spry young man who could have done this or that. He, apparently, missed out on a lot of fighting. What a shame. Bored with his talk, you ask the man to pay you so you can get on out of this wretched place.}",
-    "translation": "[img]gfx/ui/events/event_04.png[/img]{抵达%objective%后，商队队长转向你，手里拿着一个大包。%SPEECH_ON%谢谢护送我们到这里，佣兵。%SPEECH_OFF%你接下它并把它交给%randombrother%来数。他数完后点了点头。商队头领露出了微笑。%SPEECH_ON%也谢谢你没有背叛我们并，你懂的，杀光我们所有人之类的。%SPEECH_OFF%佣兵总会以最奇怪的方式得到感谢。 | 到了 %objective%，商队的载重货车立刻开始装卸他们的货物并运到附近的一座仓库。 当一切都搬完了后，领头的交给你一袋克朗并谢谢你保护他们一路上的安全。 | %objective% 迎接你的是一大片正在找工作的临时工。 商队头领拿出小份克朗交给几个人，他们邋遢的手很快开始着手装卸货物。 当他处理完人群后，头领转向了你。 他手里拿着个袋子。%SPEECH_ON%然后这是给你的，雇佣兵。%SPEECH_OFF%你拿上它。几个临时工看到了交换过程，目光如同猫在看晃荡着的老鼠似的。 | 你到地方了，如你承诺 %employer% 的一样，你护送商队到了目的地。 商队头领拿出来克朗交给你以示感谢。 他看起来对于他还活着这件事感到感激，简短地跟你分享了他在一次强盗伏击中侥幸逃离的故事。 你点头，假装你对这个人的遭遇感同身受。 | 车队驶入了 %objective%，每一辆的轮子蹦蹦踏踏地驶过干泥堆。 商队成员开始卸载货物，其中几个人赶跑了一两个乞丐。 领头的交给你一个袋子，也只做了这么多。 他的工作过于繁忙，没有时间跟你说什么。 感谢这份安静。 | 到了 %objective%，商队头领突然开始跟你说话，好像你们两个有什么共同点似的。 他谈论起他年轻的时候，那时候他还是个活跃的小年轻，本能够干点这个那个的。 他，很显然，错过了很多的战斗。真遗憾。 对他的故事感到无聊，你要求他付你钱，你好离开这脏地方。}",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_04.png[/img]{抵达%objective%后，商队队长转向你，手里拿着一个大包。%SPEECH_ON%谢谢护送我们到这里，佣兵。%SPEECH_OFF%你接下它并把它交给%randombrother%来数。他数完后点了点头。商队头领露出了微笑。%SPEECH_ON%也谢谢你没有背叛我们并，你懂的，杀光我们所有人之类的。%SPEECH_OFF%佣兵总会以最奇怪的方式得到感谢。 | 到达%objective%后，商队的载重货车立刻开始卸下他们的货物并运到附近的一座仓库。当一切都搬完了后，商队的领头人交给你一背包克朗并谢谢你保护他们一路上的安全。 | 在%objective%迎接你的是一大群正在找工作的日结工。商队头领到处给人发克朗，人们脏兮兮的手很快开始着手装卸货物。在处理完人群后，头领转向了你。他手里拿着个小包。%SPEECH_ON%而这是给你的，佣兵。%SPEECH_OFF%你拿上它。几个日结工像猫盯着晃来晃去的老鼠一样，观看着金钱的交换。 | 你做到了，你像答应%employer%的一样，护送商队到了目的地。商队头领拿出克朗交给你以示感谢。他似乎非常感激自己还活着，并简要地向你讲述了他惊险逃过强盗伏击的经历。你点点头表示你对这个人身上发生的事情毫不在乎。 | 马车队驶入%objective%，每一辆的轮子都颠簸驶过干燥的泥堆。商队成员们开始卸载货物，其中几个人还得应付几个乞丐的纠缠。领头的交给你一个背包，这就是他所做的一切。他工作太忙了，不能和你多说。这份沉默是受欢迎的。 | 到了%objective%，商队头领突然开始跟你说话，仿佛你们之间可能有共同之处。他谈论起他年轻的时候，那时候他还是个活跃的小年轻，本能够干点这个那个的。他，很显然，错过了很多的战斗。真遗憾。厌倦了他的谈话，你要求他支付你的报酬，这样你就可以离开这个讨厌的地方了。}",
+    "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/event_04.png[/img]{Reaching %objective%, the caravan leader turns to you, a large satchel in hand.%SPEECH_ON%Thanks for getting us here, sellsword.%SPEECH_OFF%You take it and hand it over to %randombrother% for counting. He nods when he's finished. The caravan leader smiles.%SPEECH_ON%Also thanks for not betraying us and, you know, slaughtering us to a man and all that.%SPEECH_OFF%Mercenaries get thanked in the strangest ways. | Having reached %objective%, the caravan's wagons are immediately unloaded and their goods taken to a nearby warehouse. Once it's all cleared out, the leader of the group hands you a satchel of crowns and thanks you for making sure their passage was a safe one. | %objective% greets you with a swarm of daytalers looking for work. The caravan leader doles out crowns to men here and there, their grubby hands going to the carts to unload the cargo. When he's finished with the throngs of men, the leader turns to you. He's got a satchel in hand.%SPEECH_ON%And this is for you, mercenary.%SPEECH_OFF%You take it. A few of the daytalers watch the exchange of monies like cats would a dangling mouse. | You've made it, having delivered the caravan just as you'd promised %employer% you would. The caravan leader thanks you with a payment of crowns. He seems rather thankful for the fact that he's alive, briefly regaling you with a tale of when he barely escaped an ambush by brigands. You nod as if you give two shits about what's happened to this man. | The wagontrain drives into %objective%, each cart bumbling and tumbling their tall wheels over mounds of dried mud. The caravan hands work to unload the cargo, a few of them fighting off a beggar or two. The leader of the train hands you a satchel and that's about all he does. He's too busy with his work to say much more to you. The silence is appreciated. | Reaching %objective%, the caravan leader strikes up a conversation as if you two might have something in common. He talks of his younger days, when he was a spry young man who could have done this or that. He, apparently, missed out on a lot of fighting. What a shame. Bored with his talk, you ask the man to pay you so you can get on out of this wretched place.}\""
   },
   {
@@ -52,7 +52,7 @@
     "key": " von ",
     "original": " von ",
     "translation": "冯·",
-    "stage": 1,
+    "stage": 5,
     "context": "local name = this.Const.Strings.CharacterNames[this.Math.rand(0, this.Const.Strings.CharacterNames.len() - 1)] + ' von ' + this.World.FactionManager.getFaction(this.m.NobleHouseID).getNameOnly()"
   },
   {
@@ -76,7 +76,7 @@
     "key": "A rough and tough band of brigands preying on the weak.",
     "original": "A rough and tough band of brigands preying on the weak.",
     "translation": "一支粗暴而强悍的强盗队伍在捕食弱者。",
-    "stage": 1,
+    "stage": 5,
     "context": "party.setDescription('A rough and tough band of brigands preying on the weak.')"
   },
   {
@@ -131,16 +131,16 @@
     "ID": 293408761,
     "key": "Protected a caravan as promised",
     "original": "Protected a caravan as promised",
-    "translation": "按承诺保护了商队",
-    "stage": 1,
+    "translation": "按照承诺保护了一支商队",
+    "stage": 5,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationCivilianContractSuccess, 'Protected a caravan as promised')"
   },
   {
     "ID": 293408762,
     "key": "Don't waste your breath. I don't give a shite who you are.",
     "original": "Don't waste your breath. I don't give a shite who you are.",
-    "translation": "别白费口舌了。 我可不在乎你是谁。",
-    "stage": 1,
+    "translation": "别白费口舌了。我才不管你是谁。",
+    "stage": 5,
     "context": "Text = \"Don't waste your breath. I don't give a shite who you are.\""
   },
   {
@@ -188,7 +188,7 @@
     "key": "{Not interested. | This is not the kind of work we're looking for.}",
     "original": "{Not interested. | This is not the kind of work we're looking for.}",
     "translation": "{不感兴趣。 | 这不是我们要找的工作。}",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = \"{Not interested. | This is not the kind of work we're looking for.}\""
   },
   {
@@ -388,7 +388,7 @@
     "key": "no enemy base found",
     "original": "no enemy base found",
     "translation": "没有找到敌人的基地",
-    "stage": 1,
+    "stage": 9,
     "context": "this.logInfo('no enemy base found')"
   },
   {
@@ -436,7 +436,7 @@
     "key": "Negotiations",
     "original": "Negotiations",
     "translation": "谈判",
-    "stage": 1,
+    "stage": 5,
     "context": "Title = 'Negotiations'"
   },
   {
@@ -460,7 +460,7 @@
     "key": "Defend the caravan!",
     "original": "Defend the caravan!",
     "translation": "保护商队！",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = 'Defend the caravan!'"
   },
   {
@@ -540,7 +540,7 @@
     "key": " days",
     "original": " days",
     "translation": "天",
-    "stage": 1,
+    "stage": 5,
     "context": "_vars.push(['days',days <= 1 ? 'a day' : days + ' days'])"
   },
   {
@@ -603,8 +603,8 @@
     "ID": 293408820,
     "key": "Goblin Raiders",
     "original": "Goblin Raiders",
-    "translation": "地精突袭者",
-    "stage": 1,
+    "translation": "地精掠夺者",
+    "stage": 5,
     "context": "this.World.FactionManager.getFactionOfType(this.Const.FactionType.Goblins).spawnEntity(tile, 'Goblin Raiders', False, this.Const.World.Spawn.GoblinRaiders, this.Math.rand(80, 100) * this.getDifficultyMult() * this.getScaledDifficultyMult())"
   },
   {
@@ -619,24 +619,24 @@
     "ID": 293408822,
     "key": "A band of mischievous goblins, small but cunning and not to be underestimated.",
     "original": "A band of mischievous goblins, small but cunning and not to be underestimated.",
-    "translation": "一群淘气的地精，小而狡猾，不可低估。",
-    "stage": 1,
+    "translation": "一群淘气的地精，小但狡猾，不可低估。",
+    "stage": 5,
     "context": "party.setDescription('A band of mischievous goblins, small but cunning and not to be underestimated.')"
   },
   {
     "ID": 293408823,
     "key": "I see my pocket filled with crowns already!",
     "original": "I see my pocket filled with crowns already!",
-    "translation": "我已经可以我的口袋装满克朗了！",
-    "stage": 1,
+    "translation": "我已经可以看到我的口袋装满克朗了！",
+    "stage": 5,
     "context": "Text = 'I see my pocket filled with crowns already!'"
   },
   {
     "ID": 293408824,
     "key": "Run for your lives! Run! Run!",
     "original": "Run for your lives! Run! Run!",
-    "translation": "各自逃命！快！快！",
-    "stage": 1,
+    "translation": "快逃命吧！快跑！快跑！",
+    "stage": 5,
     "context": "Text = 'Run for your lives! Run! Run!'"
   },
   {

@@ -83,7 +83,7 @@
     "ID": 293410120,
     "key": " total",
     "original": " total",
-    "translation": "",
+    "translation": " ",
     "stage": 5,
     "context": "this.Contract.m.BulletpointsPayment.push('Get ' + this.Contract.m.Payment.getPerCount() + ' crowns per head you bring back, up to ' + this.Contract.m.Payment.MaxCount + ' total')"
   },
@@ -326,5 +326,13 @@
     "translation": "你们协商的合同如下。你同意这些条款吗？",
     "stage": 5,
     "context": "Text = 'The contract you negotiated is as follows. Do you agree to the terms?'"
+  },
+  {
+    "ID": 315253932,
+    "key": "sha256:c85b2e32a7e3db04a5b91867bed4672ba13b6395988ea646382ef7f6b3a7c9f6",
+    "original": "[img]gfx/ui/events/event_74.png[/img]{%SPEECH_START%You act as if you were the only ones to hold a sword for coin. I think I'll look elsewhere for the men I need. Good day.%SPEECH_OFF% | %SPEECH_START%My patience has limits, too, and I think I'm wasting my time here.%SPEECH_OFF% | %SPEECH_START%I've had enough of this! I'm sure I'll find someone else to do the job!%SPEECH_OFF% | %SPEECH_START%Do not insult my intelligence! Forget about this contract. We're done.%SPEECH_OFF% | He's face turns red with anger.%SPEECH_ON%Get out of here, I'm not in the habit of making deals with greedy devils!%SPEECH_OFF% | He sighs. %SPEECH_ON%Just... forget it. I shouldn't have trusted you in the first place. Leave me so I can look for other, more sensible men.%SPEECH_OFF% | %SPEECH_START%I really thought we had a good relationship here. But know that I can only be pushed so far. I don't think this is working out. I'll take my leave.%SPEECH_OFF% | %SPEECH_START%This has been an utter waste of time for me. Don't bother coming back until you learned some reason.%SPEECH_OFF%}",
+    "translation": "[img]gfx/ui/events/event_74.png[/img]{%SPEECH_START%你表现得好像你们是世上唯一能用剑换钱的人。我想我会去找其他需要的人。祝你好运。%SPEECH_OFF% | %SPEECH_START%我的耐心也是有限的，我想我在这里是在浪费时间。%SPEECH_OFF% | %SPEECH_START%我受够了！我肯定我会找到其他人来做这项工作！%SPEECH_OFF% | %SPEECH_START%别侮辱我的智商！忘了这份合同吧。咱们到此为止。%SPEECH_OFF% | 他的脸气得通红。%SPEECH_ON%滚出去，我没有和贪婪的魔鬼做交易的习惯！%SPEECH_OFF% | 他叹了口气。%SPEECH_ON%就……算了吧。我一开始就不该相信你。你走吧，这样我就可以去找其他更明事理的人了。%SPEECH_OFF% | %SPEECH_START%我当真还以为咱俩关系还不错。但这已经超出我的极限了。我觉得这不行，告辞。%SPEECH_OFF% | %SPEECH_START%这对我来说完全是浪费时间。要是没想明白就别再来找我了。%SPEECH_OFF%}",
+    "stage": 5,
+    "context": "Text = \"[img]gfx/ui/events/event_74.png[/img]{%SPEECH_START%You act as if you were the only ones to hold a sword for coin. I think I'll look elsewhere for the men I need. Good day.%SPEECH_OFF% | %SPEECH_START%My patience has limits, too, and I think I'm wasting my time here.%SPEECH_OFF% | %SPEECH_START%I've had enough of this! I'm sure I'll find someone else to do the job!%SPEECH_OFF% | %SPEECH_START%Do not insult my intelligence! Forget about this contract. We're done.%SPEECH_OFF% | He's face turns red with anger.%SPEECH_ON%Get out of here, I'm not in the habit of making deals with greedy devils!%SPEECH_OFF% | He sighs. %SPEECH_ON%Just... forget it. I shouldn't have trusted you in the first place. Leave me so I can look for other, more sensible men.%SPEECH_OFF% | %SPEECH_START%I really thought we had a good relationship here. But know that I can only be pushed so far. I don't think this is working out. I'll take my leave.%SPEECH_OFF% | %SPEECH_START%This has been an utter waste of time for me. Don't bother coming back until you learned some reason.%SPEECH_OFF%}\""
   }
 ]

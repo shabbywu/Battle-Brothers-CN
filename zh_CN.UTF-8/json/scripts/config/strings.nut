@@ -139,8 +139,8 @@
     "ID": 293405653,
     "key": "Shields of the Night",
     "original": "Shields of the Night",
-    "translation": "夜之盾",
-    "stage": 1,
+    "translation": "黑夜之盾",
+    "stage": 5,
     "context": "'Shields of the Night'"
   },
   {
@@ -267,8 +267,8 @@
     "ID": 293405669,
     "key": "Burning Sun Company",
     "original": "Burning Sun Company",
-    "translation": "燃烧的太阳公司",
-    "stage": 1,
+    "translation": "燃日战团",
+    "stage": 5,
     "context": "'Burning Sun Company'"
   },
   {
@@ -563,8 +563,8 @@
     "ID": 293405706,
     "key": "Bronzeheads",
     "original": "Bronzeheads",
-    "translation": "铜头",
-    "stage": 1,
+    "translation": "铜头团",
+    "stage": 5,
     "context": "'Bronzeheads'"
   },
   {
@@ -931,8 +931,8 @@
     "ID": 293405752,
     "key": "Dogs of War",
     "original": "Dogs of War",
-    "translation": "战犬",
-    "stage": 1,
+    "translation": "战争之犬",
+    "stage": 5,
     "context": "'Dogs of War'"
   },
   {
@@ -1036,7 +1036,7 @@
     "key": "Iron Brotherhood",
     "original": "Iron Brotherhood",
     "translation": "钢铁兄弟会",
-    "stage": 1,
+    "stage": 5,
     "context": "'Iron Brotherhood'"
   },
   {
@@ -1083,8 +1083,8 @@
     "ID": 293405771,
     "key": "Grand Company",
     "original": "Grand Company",
-    "translation": "大公司",
-    "stage": 1,
+    "translation": "大战团",
+    "stage": 5,
     "context": "'Grand Company'"
   },
   {
@@ -1300,7 +1300,7 @@
     "key": "Free Men",
     "original": "Free Men",
     "translation": "自由人",
-    "stage": 1,
+    "stage": 5,
     "context": "'Free Men'"
   },
   {
@@ -1387,8 +1387,8 @@
     "ID": 293405809,
     "key": "Silverreach Spears",
     "original": "Silverreach Spears",
-    "translation": "银色长矛",
-    "stage": 1,
+    "translation": "银域战矛",
+    "stage": 5,
     "context": "'Silverreach Spears'"
   },
   {
@@ -2355,8 +2355,8 @@
     "ID": 293405930,
     "key": "Orcbane Company",
     "original": "Orcbane Company",
-    "translation": "奥克班战团",
-    "stage": 1,
+    "translation": "兽人之灾战团",
+    "stage": 5,
     "context": "'Orcbane Company'"
   },
   {
@@ -2635,8 +2635,8 @@
     "ID": 293405965,
     "key": "Blood Bound",
     "original": "Blood Bound",
-    "translation": "血缚",
-    "stage": 1,
+    "translation": "鲜血之缚",
+    "stage": 5,
     "context": "'Blood Bound'"
   },
   {
@@ -2963,8 +2963,8 @@
     "ID": 293406006,
     "key": "Unbroken Third",
     "original": "Unbroken Third",
-    "translation": "不灭三人众",
-    "stage": 1,
+    "translation": "坚毅之三",
+    "stage": 5,
     "context": "'Unbroken Third'"
   },
   {
@@ -3228,7 +3228,7 @@
     "key": "Bringers of Peace",
     "original": "Bringers of Peace",
     "translation": "和平使者",
-    "stage": 1,
+    "stage": 5,
     "context": "'Bringers of Peace'"
   },
   {
@@ -3620,7 +3620,7 @@
     "key": "Bone Wardens",
     "original": "Bone Wardens",
     "translation": "白骨守卫",
-    "stage": 1,
+    "stage": 5,
     "context": "'Bone Wardens'"
   },
   {
@@ -3723,8 +3723,8 @@
     "ID": 293406101,
     "key": "Company of the River House",
     "original": "Company of the River House",
-    "translation": "河屋公司",
-    "stage": 1,
+    "translation": "溪流家族战团",
+    "stage": 5,
     "context": "'Company of the River House'"
   },
   {
@@ -3755,8 +3755,8 @@
     "ID": 293406105,
     "key": "Hammerguard",
     "original": "Hammerguard",
-    "translation": "铁锤卫士",
-    "stage": 1,
+    "translation": "锤之卫士",
+    "stage": 5,
     "context": "'Hammerguard'"
   },
   {
@@ -3811,8 +3811,8 @@
     "ID": 293406112,
     "key": "Flaming Comet Company",
     "original": "Flaming Comet Company",
-    "translation": "火焰彗星公司",
-    "stage": 1,
+    "translation": "燃燃彗星战团",
+    "stage": 5,
     "context": "'Flaming Comet Company'"
   },
   {
@@ -4251,8 +4251,8 @@
     "ID": 293406167,
     "key": "Crowntakers",
     "original": "Crowntakers",
-    "translation": "夺冠者",
-    "stage": 1,
+    "translation": "夺币者",
+    "stage": 5,
     "context": "'Crowntakers'"
   },
   {
@@ -4332,7 +4332,7 @@
     "key": "Iron Covenant",
     "original": "Iron Covenant",
     "translation": "铁盟",
-    "stage": 1,
+    "stage": 5,
     "context": "'Iron Covenant'"
   },
   {
@@ -4563,8 +4563,8 @@
     "ID": 293406206,
     "key": "Dead Men",
     "original": "Dead Men",
-    "translation": "死人",
-    "stage": 1,
+    "translation": "死人团",
+    "stage": 5,
     "context": "'Dead Men'"
   },
   {
@@ -4892,7 +4892,7 @@
     "key": "Bulwark",
     "original": "Bulwark",
     "translation": "堡垒",
-    "stage": 1,
+    "stage": 5,
     "context": "'Bulwark'"
   },
   {
@@ -5043,8 +5043,8 @@
     "ID": 293406266,
     "key": "Rightful Ravagers",
     "original": "Rightful Ravagers",
-    "translation": "正当的掠夺者",
-    "stage": 1,
+    "translation": "正义掠夺者",
+    "stage": 5,
     "context": "'Rightful Ravagers'"
   },
   {
@@ -5107,8 +5107,8 @@
     "ID": 293406274,
     "key": "Silver Claw",
     "original": "Silver Claw",
-    "translation": "银灰 爪爪",
-    "stage": 1,
+    "translation": "银爪",
+    "stage": 5,
     "context": "'Silver Claw'"
   },
   {
@@ -5459,8 +5459,8 @@
     "ID": 293406318,
     "key": "Battle's Chosen",
     "original": "Battle's Chosen",
-    "translation": "战斗的选择",
-    "stage": 1,
+    "translation": "战斗之选",
+    "stage": 5,
     "context": "\"Battle's Chosen\""
   },
   {
@@ -5947,8 +5947,8 @@
     "ID": 293406379,
     "key": "Markland Pikes",
     "original": "Markland Pikes",
-    "translation": "马克兰派克",
-    "stage": 1,
+    "translation": "马克兰德之矛",
+    "stage": 5,
     "context": "'Markland Pikes'"
   },
   {
@@ -6355,8 +6355,8 @@
     "ID": 293406430,
     "key": "Dawn's March",
     "original": "Dawn's March",
-    "translation": "黎明三月",
-    "stage": 1,
+    "translation": "黎明行军",
+    "stage": 5,
     "context": "\"Dawn's March\""
   },
   {
@@ -6451,8 +6451,8 @@
     "ID": 293406442,
     "key": "White Company",
     "original": "White Company",
-    "translation": "白色公司",
-    "stage": 1,
+    "translation": "白色战团",
+    "stage": 5,
     "context": "'White Company'"
   },
   {
@@ -6572,7 +6572,7 @@
     "key": "Widowmakers",
     "original": "Widowmakers",
     "translation": "寡妇制造者",
-    "stage": 1,
+    "stage": 5,
     "context": "'Widowmakers'"
   },
   {
@@ -7171,8 +7171,8 @@
     "ID": 293406532,
     "key": "Bernhard's Bears",
     "original": "Bernhard's Bears",
-    "translation": "伯恩哈德的熊",
-    "stage": 1,
+    "translation": "伯恩哈德之熊",
+    "stage": 5,
     "context": "\"Bernhard's Bears\""
   },
   {
@@ -7260,7 +7260,7 @@
     "key": "Forsaken Brigade",
     "original": "Forsaken Brigade",
     "translation": "被遗忘者旅",
-    "stage": 1,
+    "stage": 5,
     "context": "'Forsaken Brigade'"
   },
   {
@@ -7708,7 +7708,7 @@
     "key": "Direwolves",
     "original": "Direwolves",
     "translation": "冰原狼",
-    "stage": 1,
+    "stage": 5,
     "context": "'Direwolves'"
   },
   {
@@ -8051,8 +8051,8 @@
     "ID": 293406642,
     "key": "Cold Hearts Company",
     "original": "Cold Hearts Company",
-    "translation": "冷心公司",
-    "stage": 1,
+    "translation": "冷心战团",
+    "stage": 5,
     "context": "'Cold Hearts Company'"
   },
   {
@@ -8460,7 +8460,7 @@
     "key": "Sons of Winter",
     "original": "Sons of Winter",
     "translation": "冬之子",
-    "stage": 1,
+    "stage": 5,
     "context": "'Sons of Winter'"
   },
   {
@@ -8660,7 +8660,7 @@
     "key": "Chosen Few",
     "original": "Chosen Few",
     "translation": "被选中的少数",
-    "stage": 1,
+    "stage": 5,
     "context": "'Chosen Few'"
   },
   {
@@ -8707,8 +8707,8 @@
     "ID": 293406724,
     "key": "Iron Pact",
     "original": "Iron Pact",
-    "translation": "铁契约",
-    "stage": 1,
+    "translation": "钢铁之约",
+    "stage": 5,
     "context": "'Iron Pact'"
   },
   {
@@ -8891,8 +8891,8 @@
     "ID": 293406747,
     "key": "Forsaken Returned",
     "original": "Forsaken Returned",
-    "translation": "被遗忘者归来",
-    "stage": 1,
+    "translation": "归还背离者",
+    "stage": 5,
     "context": "'Forsaken Returned'"
   },
   {
@@ -9084,7 +9084,7 @@
     "key": "Lords of War",
     "original": "Lords of War",
     "translation": "战争之王",
-    "stage": 1,
+    "stage": 5,
     "context": "'Lords of War'"
   },
   {
@@ -9195,8 +9195,8 @@
     "ID": 293406785,
     "key": "Mongrels",
     "original": "Mongrels",
-    "translation": "杂种",
-    "stage": 1,
+    "translation": "杂种团",
+    "stage": 5,
     "context": "'Mongrels'"
   },
   {
@@ -9347,8 +9347,8 @@
     "ID": 293406804,
     "key": "Northern Company",
     "original": "Northern Company",
-    "translation": "北方公司",
-    "stage": 1,
+    "translation": "北境战团",
+    "stage": 5,
     "context": "'Northern Company'"
   },
   {
@@ -9356,7 +9356,7 @@
     "key": "Lost Legion",
     "original": "Lost Legion",
     "translation": "失落军团",
-    "stage": 1,
+    "stage": 5,
     "context": "'Lost Legion'"
   },
   {
@@ -9726,5 +9726,17 @@
     "translation": "绞刑沼泽",
     "stage": 1,
     "context": "'Gallowsbog'"
+  },
+  {
+    "ID": 315253921,
+    "key": "sha256:4f3da7cb3e843fa850356b70208a3b4334790788eac01486d493a13d9d7365a2",
+    "original": "Lindwurm",
+    "translation": ""
+  },
+  {
+    "ID": 315253922,
+    "key": "sha256:8cf16e6782a7fb31b4658cec13c9179c480cbb29a167efe2cfa9e8d150eda1f0",
+    "original": "Unhold",
+    "translation": ""
   }
 ]

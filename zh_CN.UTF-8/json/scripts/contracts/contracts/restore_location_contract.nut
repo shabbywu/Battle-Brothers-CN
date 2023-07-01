@@ -11,8 +11,8 @@
     "ID": 293409731,
     "key": "Failed to secure the ",
     "original": "Failed to secure the ",
-    "translation": "无法保护此区域。",
-    "stage": 1,
+    "translation": "没能保护好",
+    "stage": 2,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationCivilianContractFail, 'Failed to secure the ' + this.Contract.m.Location.getName())"
   },
   {
@@ -44,7 +44,7 @@
     "key": "Negotiations",
     "original": "Negotiations",
     "translation": "谈判",
-    "stage": 1,
+    "stage": 5,
     "context": "Title = 'Negotiations'"
   },
   {
@@ -132,15 +132,15 @@
     "key": "{Sounds easy enough. | Let's talk crowns.}",
     "original": "{Sounds easy enough. | Let's talk crowns.}",
     "translation": "{听起来挺简单。 | 我们来谈谈克朗。}",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = \"{Sounds easy enough. | Let's talk crowns.}\""
   },
   {
     "ID": 293409747,
     "key": "Return to %townname%",
     "original": "Return to %townname%",
-    "translation": "返回 %townname%",
-    "stage": 1,
+    "translation": "返回%townname%",
+    "stage": 5,
     "context": "'Return to %townname%'"
   },
   {
@@ -212,7 +212,7 @@
     "key": "Escort workers to the %location% near %townname%",
     "original": "Escort workers to the %location% near %townname%",
     "translation": "护送工人前往%townname%附近的%location%",
-    "stage": 1,
+    "stage": 5,
     "context": "'Escort workers to the %location% near %townname%'"
   },
   {
@@ -252,7 +252,7 @@
     "key": "Darn it!",
     "original": "Darn it!",
     "translation": "该死！",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = 'Darn it!'"
   },
   {
