@@ -11,8 +11,8 @@
     "ID": 293413694,
     "key": " is sick",
     "original": " is sick",
-    "translation": "是生病了",
-    "stage": 1,
+    "translation": "生病了",
+    "stage": 5,
     "context": "text = _event.m.Glutton.getName() + ' is sick'"
   },
   {
@@ -30,5 +30,13 @@
     "translation": "露营时……",
     "stage": 5,
     "context": "this.m.Title = 'During camp...'"
+  },
+  {
+    "ID": 315253934,
+    "key": "sha256:41573511eea4a80396edea006b0a404c9578c304851ebc16fc83889068d8811c",
+    "original": "Why...?",
+    "translation": "为啥……？",
+    "stage": 5,
+    "context": "Text = 'Why...?'"
   }
 ]

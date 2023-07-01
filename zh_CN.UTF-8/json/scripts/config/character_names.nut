@@ -6483,8 +6483,8 @@
     "ID": 293404588,
     "key": "Kunold",
     "original": "Kunold",
-    "translation": "昆诺尔德",
-    "stage": 1,
+    "translation": "孔诺尔德",
+    "stage": 5,
     "context": "'Kunold'"
   },
   {

@@ -238,5 +238,13 @@
     "translation": "[img]gfx/ui/events/event_96.png[/img]你同意 %jouster% 去参加，同时自己也想亲眼看看，也就跟着去了。\n\n你刚走近赛场，比赛就发出剧烈的噼啪响声。 扈从们抱着满怀的盔甲和武器，来回奔忙着，其中一些步伐缓慢，肩上扛着巨大的长矛。 另一些人则骑着看起来非常高贵的马，不少都穿着饰有纹章的胸甲。 远处，你可以听到疾驰的风声，沉重的马蹄声，接着传来金属撞击木头的噼啪声，最后爆发出欢呼。\n\n当你环顾庆祝活动的时候，一个贵族走过来拦住了你。 他一只手掂量着钱包的重量，另一只手拿着扫帚抽在嘴角上搅动，问你愿不愿意打个赌。 你问我为什么。 他点了点头，指着在集合点对面的 %jouster%，签了名正要参加比赛。 显然他要面对的是这个贵族的骑士本人，他的名字是 %opponent%。%SPEECH_ON%小赌怡情，不是吗？ 就赌 %bet% 怎样？ 胜者全拿，当然了。%SPEECH_OFF%",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_96.png[/img]You agree to let %jouster% go to the tournament and, wanting to see it for yourself, you go along, too.\n\nThe jousting tourney crackles with energy as you near it. Squires hurry to and fro, carrying great armfulls of armor and weapons, and some step slowly about with enormous lances hefted over their shoulders. Other men brush very regal looking horses, many of which wear breastplates decorated with sigils. In the distance, you listen to brief gallops, heavy hooves stamping roughshod and lumbering and then there's a snapping twang of wood on metal and cheers erupt.\n\nAs you look about the festivities, a nobleman walks up and stops you. Weighing a purse in one hand and twisting a piece of broomstraw about the corner of his mouth with the other, he asks if you'd like to make a wager. You ask what for. He nods, pointing toward %jouster% who is across the mustering point signing himself into the tourney. Apparently he is to face this nobleman's own rider, a man by the name of %opponent%.%SPEECH_ON%A little bit of gamesmanship never hurt, no? How does %bet% crowns sound to you? Winner take all, of course.%SPEECH_OFF%\""
+  },
+  {
+    "ID": 315253939,
+    "key": "sha256:c83af6d7da2214656e4ad3db221c47ed51ca3a255450873725bdc0efe8bb2d33",
+    "original": "Ohh...",
+    "translation": "哦……",
+    "stage": 5,
+    "context": "Text = 'Ohh...'"
   }
 ]

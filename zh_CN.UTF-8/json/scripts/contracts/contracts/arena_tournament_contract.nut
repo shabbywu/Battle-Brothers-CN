@@ -318,5 +318,13 @@
     "translation": "每轮结束后，您可以选择退出或立即开始下一轮。",
     "stage": 1,
     "context": "'After each round you can elect to drop out or start the next round right away'"
+  },
+  {
+    "ID": 315253924,
+    "key": "sha256:3916f238051e7e2ff31986d79497a33f32db0968f7c504ba091a5115bb97d2ac",
+    "original": "But...",
+    "translation": "但是……",
+    "stage": 5,
+    "context": "Text = 'But...'"
   }
 ]

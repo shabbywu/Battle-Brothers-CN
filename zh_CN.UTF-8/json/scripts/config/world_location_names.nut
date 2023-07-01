@@ -5579,8 +5579,8 @@
     "ID": 293407680,
     "key": "Hill People Tomb",
     "original": "Hill People Tomb",
-    "translation": "高地人之墓",
-    "stage": 1,
+    "translation": "山民之墓",
+    "stage": 5,
     "context": "'Hill People Tomb'"
   },
   {

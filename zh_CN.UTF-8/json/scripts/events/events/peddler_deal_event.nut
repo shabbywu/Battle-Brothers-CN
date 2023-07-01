@@ -126,5 +126,13 @@
     "translation": "他的计划失败了，损失了一大笔钱",
     "stage": 1,
     "context": "_event.m.Peddler.worsenMood(2, 'Failed in his plan and lost a large amount of money')"
+  },
+  {
+    "ID": 315253941,
+    "key": "sha256:3916f238051e7e2ff31986d79497a33f32db0968f7c504ba091a5115bb97d2ac",
+    "original": "But...",
+    "translation": "但是……",
+    "stage": 5,
+    "context": "Text = 'But...'"
   }
 ]

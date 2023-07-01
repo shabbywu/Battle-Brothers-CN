@@ -164,7 +164,7 @@
     "key": "Hyenas",
     "original": "Hyenas",
     "translation": "鬣狗",
-    "stage": 1,
+    "stage": 5,
     "context": "_action.getFaction().spawnEntity(tile, 'Hyenas', False, this.Const.World.Spawn.Hyenas, this.Math.rand(80, 120) * _action.getScaledDifficultyMult() * this.Math.maxf(0.699999988079071, this.Math.minf(1.5, distanceToNextSettlement \\ 14.0)))"
   },
   {
@@ -174,5 +174,19 @@
     "translation": "一个或多个笨拙的巨人。",
     "stage": 1,
     "context": "party.setDescription('One or more lumbering giants.')"
+  },
+  {
+    "ID": 315253943,
+    "key": "sha256:4f3da7cb3e843fa850356b70208a3b4334790788eac01486d493a13d9d7365a2",
+    "original": "Lindwurm",
+    "translation": "林德蠕龙",
+    "stage": 5
+  },
+  {
+    "ID": 315253944,
+    "key": "sha256:8cf16e6782a7fb31b4658cec13c9179c480cbb29a167efe2cfa9e8d150eda1f0",
+    "original": "Unhold",
+    "translation": "巨魔",
+    "stage": 5
   }
 ]

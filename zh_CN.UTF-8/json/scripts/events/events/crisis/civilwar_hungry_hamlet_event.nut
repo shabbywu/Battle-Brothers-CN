@@ -174,5 +174,13 @@
     "translation": "有时候犯傻感觉很好。",
     "stage": 1,
     "context": "Text = 'Sometimes being stupid feels good.'"
+  },
+  {
+    "ID": 315253933,
+    "key": "sha256:51335374627e92a3c63bfd618de206d729ba2adbb17242d405fb77b1227d2a99",
+    "original": "Sorry...",
+    "translation": "抱歉……",
+    "stage": 5,
+    "context": "Text = 'Sorry...'"
   }
 ]

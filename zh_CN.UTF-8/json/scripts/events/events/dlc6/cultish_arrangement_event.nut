@@ -110,5 +110,13 @@
     "translation": "也许不是我们应该知道的。",
     "stage": 1,
     "context": "Text = 'Not for us to know, maybe.'"
+  },
+  {
+    "ID": 315253935,
+    "key": "sha256:570ab9e171dc9445413b4d5a3ebd3ff853bf8560a8121051decf291b1c3026c9",
+    "original": "Alright...",
+    "translation": "行……",
+    "stage": 5,
+    "context": "Text = 'Alright...'"
   }
 ]
