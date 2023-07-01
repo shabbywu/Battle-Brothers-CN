@@ -20,7 +20,7 @@
     "key": "Pierced Cheek",
     "original": "Pierced Cheek",
     "translation": "面颊穿孔",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Pierced Cheek'"
   }
 ]

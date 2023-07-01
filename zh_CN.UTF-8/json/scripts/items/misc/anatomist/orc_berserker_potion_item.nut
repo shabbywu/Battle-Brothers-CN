@@ -35,7 +35,7 @@
     "ID": 293418512,
     "key": "Gain stacks of Rage upon taking hitpoint damage, which increases Resolve, Initiative and damage dealt, and reduces damage taken",
     "original": "Gain stacks of Rage upon taking hitpoint damage, which increases Resolve, Initiative and damage dealt, and reduces damage taken",
-    "translation": "每当承受生命值伤害时获得可堆叠的“愤怒”效果，增加决心值、主动值、伤害输出并减少所受的伤害",
+    "translation": "每当承受生命值伤害时获得可堆叠的“愤怒”效果，增加决心、主动性、伤害输出并减少所受的伤害",
     "stage": 1,
     "context": "text = 'Gain stacks of Rage upon taking hitpoint damage, which increases Resolve, Initiative and damage dealt, and reduces damage taken'"
   }

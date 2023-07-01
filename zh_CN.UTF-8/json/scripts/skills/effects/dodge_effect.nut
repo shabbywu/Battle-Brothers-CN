@@ -4,7 +4,7 @@
     "key": "Dodge",
     "original": "Dodge",
     "translation": "闪避",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Dodge'"
   },
   {
@@ -12,7 +12,7 @@
     "key": "Quick reflexes allow this character to add part of their current initiative to melee and ranged defense.",
     "original": "Quick reflexes allow this character to add part of their current initiative to melee and ranged defense.",
     "translation": "快速的反应使得这个角色可以将其当前主动性的一部分作为近战和远程防御加成。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'Quick reflexes allow this character to add part of their current initiative to melee and ranged defense.'"
   },
   {

@@ -659,8 +659,8 @@
     "ID": 293423035,
     "key": "Initiative",
     "original": "Initiative",
-    "translation": "主动值",
-    "stage": 1,
+    "translation": "主动性",
+    "stage": 5,
     "context": "text = 'Initiative'"
   },
   {
@@ -916,7 +916,7 @@
     "key": "No more matches take place here today. Come back tomorrow!",
     "original": "No more matches take place here today. Come back tomorrow!",
     "translation": "今天这里没有比赛了。明天再来！",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'No more matches take place here today. Come back tomorrow!'"
   },
   {
@@ -2963,7 +2963,7 @@
     "ID": 293423323,
     "key": "The higher this value, the earlier the position in the turn order. Initiative is reduced by the current fatigue, as well as any penalty to maximum fatigue (such as from heavy armor). In general, someone in light armor will act before someone in heavy armo",
     "original": "The higher this value, the earlier the position in the turn order. Initiative is reduced by the current fatigue, as well as any penalty to maximum fatigue (such as from heavy armor). In general, someone in light armor will act before someone in heavy armor, and someone fresh will act before someone fatigued.",
-    "translation": "该值越高，回合顺序中的位置越靠前。 主动值会因当前的疲劳值以及对最大疲劳值的惩罚（如重型盔甲）而降低。 一般来说，穿轻甲的人会在穿重甲的人前面行动，一个新来的人会在疲惫的人前面行动。",
+    "translation": "该值越高，回合顺序中的位置越靠前。主动性会因当前的疲劳值以及对最大疲劳值的惩罚（如重型盔甲）而降低。 一般来说，穿轻甲的人会在穿重甲的人前面行动，一个新来的人会在疲惫的人前面行动。",
     "stage": 1,
     "context": "text = 'The higher this value, the earlier the position in the turn order. Initiative is reduced by the current fatigue, as well as any penalty to maximum fatigue (such as from heavy armor). In general, someone in light armor will act before someone in heavy armor, and someone fresh will act before someone fatigued.'"
   },

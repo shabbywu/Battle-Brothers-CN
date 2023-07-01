@@ -1948,7 +1948,7 @@
     "key": "Barbarian Thralls",
     "original": "Barbarian Thralls",
     "translation": "野蛮人奴仆",
-    "stage": 1,
+    "stage": 5,
     "context": "'Barbarian Thralls'"
   },
   {
@@ -7643,8 +7643,8 @@
     "ID": 293406591,
     "key": "Barbarian Thrall",
     "original": "Barbarian Thrall",
-    "translation": "野蛮人奴隶",
-    "stage": 1,
+    "translation": "野蛮人奴仆",
+    "stage": 5,
     "context": "'Barbarian Thrall'"
   },
   {
@@ -9731,12 +9731,14 @@
     "ID": 315253921,
     "key": "sha256:4f3da7cb3e843fa850356b70208a3b4334790788eac01486d493a13d9d7365a2",
     "original": "Lindwurm",
-    "translation": ""
+    "translation": "林德蠕龙",
+    "stage": 5
   },
   {
     "ID": 315253922,
     "key": "sha256:8cf16e6782a7fb31b4658cec13c9179c480cbb29a167efe2cfa9e8d150eda1f0",
     "original": "Unhold",
-    "translation": ""
+    "translation": "巨魔",
+    "stage": 5
   }
 ]

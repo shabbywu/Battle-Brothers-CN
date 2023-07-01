@@ -3,8 +3,8 @@
     "ID": 293407767,
     "key": "Enter the arena again to start the fight against %amount% ifrits",
     "original": "Enter the arena again to start the fight against %amount% ifrits",
-    "translation": "再次进入竞技场，开始对抗%amount%个伊弗利特。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗%amount%只伊弗利特",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against %amount% ifrits'"
   },
   {
@@ -51,32 +51,32 @@
     "ID": 293407773,
     "key": "Enter the arena again to start the fight against two lindwurms",
     "original": "Enter the arena again to start the fight against two lindwurms",
-    "translation": "再次进入竞技场，开始对抗两只林德蠕龙。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗两只林德蠕龙",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against two lindwurms'"
   },
   {
     "ID": 293407774,
     "key": "Enter the arena again to start the fight against %champion1% and %amount% gladiators",
     "original": "Enter the arena again to start the fight against %champion1% and %amount% gladiators",
-    "translation": "再次进入竞技场，与冠军 %champion1% 和 %amount% 名角斗士开始战斗。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗%champion1%和%amount%名角斗士",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against %champion1% and %amount% gladiators'"
   },
   {
     "ID": 293407775,
     "key": "Enter the arena again to start the fight against one Swordmaster and %amount% raiders",
     "original": "Enter the arena again to start the fight against one Swordmaster and %amount% raiders",
-    "translation": "再次进入竞技场，开始与一名剑术大师和%amount%名袭击者的战斗。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗一名剑术大师和%amount%名掠夺者",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against one Swordmaster and %amount% raiders'"
   },
   {
     "ID": 293407776,
     "key": "Enter the arena again to start the fight against one Blade Dancer",
     "original": "Enter the arena again to start the fight against one Blade Dancer",
-    "translation": "再次进入竞技场开始对抗一名剑舞者。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗一名剑舞者",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against one Blade Dancer'"
   },
   {
@@ -139,16 +139,16 @@
     "ID": 293407784,
     "key": "Enter the arena again to start the fight against %amount% gladiators",
     "original": "Enter the arena again to start the fight against %amount% gladiators",
-    "translation": "再次进入竞技场，与%amount%名角斗士开始战斗。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗%amount%名角斗士",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against %amount% gladiators'"
   },
   {
     "ID": 293407785,
     "key": "Enter the arena again to start the fight against one Blade Dancer and %amount% nomads",
     "original": "Enter the arena again to start the fight against one Blade Dancer and %amount% nomads",
-    "translation": "再次进入竞技场，开始对抗一名剑舞者和%amount%名游牧民。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗一名剑舞者和%amount%名游牧民",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against one Blade Dancer and %amount% nomads'"
   },
   {
@@ -163,16 +163,16 @@
     "ID": 293407787,
     "key": "Enter the arena again to start the fight against one Hedge Knight",
     "original": "Enter the arena again to start the fight against one Hedge Knight",
-    "translation": "再次进入竞技场，开始与一个雇佣骑士的战斗。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗一名雇佣骑士",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against one Hedge Knight'"
   },
   {
     "ID": 293407788,
     "key": "Enter the arena again to start the fight against one lindwurm",
     "original": "Enter the arena again to start the fight against one lindwurm",
-    "translation": "再次进入竞技场，开始对抗一头林德蠕龙。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗一头林德蠕龙",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against one lindwurm'"
   },
   {
@@ -180,7 +180,7 @@
     "key": " is now ",
     "original": " is now ",
     "translation": "现在是",
-    "stage": 1,
+    "stage": 5,
     "context": "text = bro.getName() + ' is now ' + this.Const.Strings.getArticle(skill.getName()) + skill.getName()"
   },
   {
@@ -227,7 +227,7 @@
     "ID": 293407795,
     "key": "{Victory! | Are you not entertained?! | Killed it. | A bloody spectacle.}",
     "original": "{Victory! | Are you not entertained?! | Killed it. | A bloody spectacle.}",
-    "translation": "{胜利！ | 你们不觉得很搞笑吗？！ | 杀了他！ | 一幅血腥的画面。}",
+    "translation": "{胜利！ | 你们不觉得很好看吗？！ | 杀掉了！ | 一幅血腥的画面。}",
     "stage": 5,
     "context": "Text = '{Victory! | Are you not entertained?! | Killed it. | A bloody spectacle.}'"
   },
@@ -235,16 +235,16 @@
     "ID": 293407796,
     "key": "Equip up to three of your men with arena collars",
     "original": "Equip up to three of your men with arena collars",
-    "translation": "给最多三个你的士兵装备角斗场项圈。",
-    "stage": 1,
+    "translation": "给最多三个你的士兵装备竞技场项圈",
+    "stage": 5,
     "context": "'Equip up to three of your men with arena collars'"
   },
   {
     "ID": 293407797,
     "key": "Enter the arena again to start the fight against %amount% serpents",
     "original": "Enter the arena again to start the fight against %amount% serpents",
-    "translation": "再次进入竞技场与%amount%条蛇开始战斗",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗%amount%条巨蛇",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against %amount% serpents'"
   },
   {
@@ -267,16 +267,16 @@
     "ID": 293407800,
     "key": "[img]gfx/ui/events/event_147.png[/img]{The arena master talks as if he doesn't even remember your face, then again he probably doesn't.%SPEECH_ON%Here's your pay, please come again.%SPEECH_OFF%The arena will be closed for the day, but you could return as ",
     "original": "[img]gfx/ui/events/event_147.png[/img]{The arena master talks as if he doesn't even remember your face, then again he probably doesn't.%SPEECH_ON%Here's your pay, please come again.%SPEECH_OFF%The arena will be closed for the day, but you could return as early as tomorrow. | Without even raising his head from a rag of papyrus, the arena master throws you a purse of coin.%SPEECH_ON%I heard the crowds, and so here are your crowns. May you come visit the pits again.%SPEECH_OFF%The arena will be closed for the day, but you could return as early as tomorrow. | The arena master is waiting for you.%SPEECH_ON%That was a mighty fine show, Crownling. Would not mind it in the slightest if you come back again.%SPEECH_OFF%The arena will be closed for the day, but you could return as early as tomorrow.}",
-    "translation": "[img]gfx/ui/events/event_147.png[/img]{竞技场主说话时好像连你的面孔都不记得，不过他可能确实不记得了。%SPEECH_ON%给你拿工钱来了，请下次再来。%SPEECH_OFF%今天的比赛结束了，不过你明天就可以再来。 | 竞技场主连头都没抬从一张纸草纸里取出一袋硬币给了你。%SPEECH_ON%听到观众的喝彩声，这是你应得的克朗，希望你能够再来角斗场。%SPEECH_OFF%今天的比赛已经结束，不过你明天就可以再来。 | 竞技场主正等着你呢。%SPEECH_ON%那可真是场不错的表演，队长。如果你下次再来我也毫不介意。%SPEECH_OFF%今天的比赛已经结束，不过你明天就可以再来。}",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_147.png[/img]{竞技场主说话的样子好像他甚至不记得你的脸，那么他可能也不记得了。%SPEECH_ON%这是你的工资，请再来。%SPEECH_OFF%竞技场之后将关闭，但是你最早明天就可以回来。 | 竞技场主连头都没从纸莎草的破布上抬起就扔给你一袋钱币。%SPEECH_ON%我听到了人群的声音，所以这是你们的克朗，希望你们能够再来。%SPEECH_OFF%竞技场之后将关闭，但是你最早明天就可以回来。 | 竞技场主正等着你。%SPEECH_ON%那是一场非常精彩的表演，逐币者。如果你下次再来我也毫不介意。%SPEECH_OFF%竞技场之后将关闭，但是你最早明天就可以回来。}",
+    "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/event_147.png[/img]{The arena master talks as if he doesn't even remember your face, then again he probably doesn't.%SPEECH_ON%Here's your pay, please come again.%SPEECH_OFF%The arena will be closed for the day, but you could return as early as tomorrow. | Without even raising his head from a rag of papyrus, the arena master throws you a purse of coin.%SPEECH_ON%I heard the crowds, and so here are your crowns. May you come visit the pits again.%SPEECH_OFF%The arena will be closed for the day, but you could return as early as tomorrow. | The arena master is waiting for you.%SPEECH_ON%That was a mighty fine show, Crownling. Would not mind it in the slightest if you come back again.%SPEECH_OFF%The arena will be closed for the day, but you could return as early as tomorrow.}\""
   },
   {
     "ID": 293407801,
     "key": "Enter the arena again to start the fight against %champion1% and %amount% mercenaries",
     "original": "Enter the arena again to start the fight against %champion1% and %amount% mercenaries",
-    "translation": "再次进入竞技场，与%champion1%和%amount%名雇佣兵战斗。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗%champion1%和%amount%名佣兵",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against %champion1% and %amount% mercenaries'"
   },
   {
@@ -291,8 +291,8 @@
     "ID": 293407803,
     "key": "The fight will be to the death and you won't be able to retreat or loot afterwards",
     "original": "The fight will be to the death and you won't be able to retreat or loot afterwards",
-    "translation": "这场战斗将会是生死之战，之后你将无法撤退或者调整装备。",
-    "stage": 1,
+    "translation": "这场战斗将会是生死之战，你将无法撤退或获得战利品",
+    "stage": 5,
     "context": "\"The fight will be to the death and you won't be able to retreat or loot afterwards\""
   },
   {
@@ -323,8 +323,8 @@
     "ID": 293407807,
     "key": "Enter the arena again to start the fight against %amount% frenzied hyenas",
     "original": "Enter the arena again to start the fight against %amount% frenzied hyenas",
-    "translation": "再次进入竞技场开始对抗 %amount% 只狂暴的土狼",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗%amount%只狂暴的鬣狗",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against %amount% frenzied hyenas'"
   },
   {
@@ -355,16 +355,16 @@
     "ID": 293407811,
     "key": "Enter the arena again to start the fight against %champion1% and %amount% nomads",
     "original": "Enter the arena again to start the fight against %champion1% and %amount% nomads",
-    "translation": "再次进入竞技场，开始对抗冠军 %champion1% 和 %amount% 名游牧民。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗%champion1%和%amount%名游牧民",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against %champion1% and %amount% nomads'"
   },
   {
     "ID": 293407812,
     "key": "Enter the arena again to start the fight against one Hedge Knight and %amount% raiders",
     "original": "Enter the arena again to start the fight against one Hedge Knight and %amount% raiders",
-    "translation": "再次进入竞技场，将要对抗一位雇佣骑士和%amount%名袭击者。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗一位雇佣骑士和%amount%名掠夺者",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against one Hedge Knight and %amount% raiders'"
   },
   {
@@ -387,15 +387,15 @@
     "ID": 293407815,
     "key": "Enter the arena again to start the fight against %amount% nomads",
     "original": "Enter the arena again to start the fight against %amount% nomads",
-    "translation": "再次进入竞技场，开始对抗 %amount% 游牧民族。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗%amount%名游牧民",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against %amount% nomads'"
   },
   {
     "ID": 293407816,
     "key": "Enter the arena again to start the fight against %amount% hyenas",
     "original": "Enter the arena again to start the fight against %amount% hyenas",
-    "translation": "再次进入竞技场，与%amount%只鬣狗战斗。",
+    "translation": "再次进入竞技场以开始对抗%amount%只鬣狗",
     "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against %amount% hyenas'"
   },
@@ -403,8 +403,8 @@
     "ID": 293407817,
     "key": "This arena fight works as follows. Do you agree to the terms?",
     "original": "This arena fight works as follows. Do you agree to the terms?",
-    "translation": "这场竞技场战斗的工作原理如下。 你同意这些条款吗？",
-    "stage": 1,
+    "translation": "竞技场战斗是这样进行的。你同意这些条款吗？",
+    "stage": 5,
     "context": "Text = 'This arena fight works as follows. Do you agree to the terms?'"
   },
   {
@@ -427,24 +427,24 @@
     "ID": 293407820,
     "key": "Enter the arena again to start the fight",
     "original": "Enter the arena again to start the fight",
-    "translation": "再次进入竞技场开始战斗。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始战斗",
+    "stage": 5,
     "context": "'Enter the arena again to start the fight'"
   },
   {
     "ID": 293407821,
     "key": "Enter the arena again to start the fight against one Swordmaster",
     "original": "Enter the arena again to start the fight against one Swordmaster",
-    "translation": "再次进入竞技场，开始与一名剑术大师的战斗。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗一名剑术大师",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against one Swordmaster'"
   },
   {
     "ID": 293407822,
     "key": "Enter the arena again to start the fight against one unhold",
     "original": "Enter the arena again to start the fight against one unhold",
-    "translation": "重新进入竞技场与一只巨魔战斗。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗一只巨魔",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against one unhold'"
   },
   {
@@ -452,7 +452,7 @@
     "key": "I'll have to think it over.",
     "original": "I'll have to think it over.",
     "translation": "我得考虑一下。",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = \"I'll have to think it over.\""
   },
   {
@@ -499,7 +499,7 @@
     "ID": 293407829,
     "key": "Enter the arena again to start the fight against %amount% webknechts",
     "original": "Enter the arena again to start the fight against %amount% webknechts",
-    "translation": "再次进入竞技场，开始对抗 %amount% 只蛛魔。",
+    "translation": "再次进入竞技场以开始对抗%amount%只蛛魔",
     "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against %amount% webknechts'"
   },
@@ -507,7 +507,7 @@
     "ID": 293407830,
     "key": "Enter the arena again to start the fight against %amount% nachzehrers",
     "original": "Enter the arena again to start the fight against %amount% nachzehrers",
-    "translation": "再次进入竞技场，开始对抗%amount%名食尸鬼。",
+    "translation": "再次进入竞技场以开始对抗%amount%名食尸鬼",
     "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against %amount% nachzehrers'"
   },
@@ -515,8 +515,8 @@
     "ID": 293407831,
     "key": "Enter the arena again to start the fight against %amount% mercenaries",
     "original": "Enter the arena again to start the fight against %amount% mercenaries",
-    "translation": "再次进入竞技场，开始对抗 %amount% 名雇佣兵。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗%amount%名佣兵",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against %amount% mercenaries'"
   },
   {
@@ -531,8 +531,8 @@
     "ID": 293407833,
     "key": "Enter the arena again to start the fight against %amount% unholds",
     "original": "Enter the arena again to start the fight against %amount% unholds",
-    "translation": "再次进入竞技场，开始对抗 %amount% 只巨魔。",
-    "stage": 1,
+    "translation": "再次进入竞技场以开始对抗%amount%只巨魔",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against %amount% unholds'"
   },
   {

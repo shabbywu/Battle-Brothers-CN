@@ -243,8 +243,8 @@
     "ID": 293408775,
     "key": "Get back to work before I beat you there. We have a contract to fulfill.",
     "original": "Get back to work before I beat you there. We have a contract to fulfill.",
-    "translation": "在我开始打你之前回到你的岗位上。 我们要遵守合同。",
-    "stage": 1,
+    "translation": "在我打你之前回去工作。我们有一份合同要履行。",
+    "stage": 5,
     "context": "Text = 'Get back to work before I beat you there. We have a contract to fulfill.'"
   },
   {
@@ -275,8 +275,8 @@
     "ID": 293408779,
     "key": "Finally, luck smiles upon us. We take the gems for ourselves!",
     "original": "Finally, luck smiles upon us. We take the gems for ourselves!",
-    "translation": "终于，幸运之神向我们微笑了。 宝石是我们的了！",
-    "stage": 1,
+    "translation": "终于，幸运向我们微笑了。我们把这些宝石据为己有！",
+    "stage": 5,
     "context": "Text = 'Finally, luck smiles upon us. We take the gems for ourselves!'"
   },
   {
@@ -491,8 +491,8 @@
     "ID": 293408806,
     "key": "[img]gfx/ui/events/event_55.png[/img]{As the caravan rests, %randombrother% takes you by the arm and secretly leads you to the back of one of the wagons. Peeking around to make sure no one is looking, he lifts the lid on a crate. Gems shuck about inside, ",
     "original": "[img]gfx/ui/events/event_55.png[/img]{As the caravan rests, %randombrother% takes you by the arm and secretly leads you to the back of one of the wagons. Peeking around to make sure no one is looking, he lifts the lid on a crate. Gems shuck about inside, shimmering sharply in what little light there is. He closes the lid.%SPEECH_ON%What do you wanna do? That's a lot of dosh, sir.%SPEECH_OFF% | While the caravan stops to fix a wagon wheel, an axle snaps and slams the wagon onto its side. A crate clatters out onto the ground, the lid jarring open. You grab a hammer and go to nail it back shut when you notice that a number of gems had spilled out of the box. %randombrother% sees it, too, and puts a hand on his weapon.%SPEECH_ON%That's, uh, a particularly loud cargo, sir. Should we keep things quiet or...?%SPEECH_OFF% | The caravan leader begins screaming. You watch as he chases and quickly tackles a man trying to run off. The two spin and spiral into the ground, a tornado of limbs from which flies a brown bag. It lands at your feet and gems shoot from its uncinched opening. %randombrother% leans down and picks a few up. He stands straight, his other hand now on his weapon. He stares at you.%SPEECH_ON%There's plenty here to, you know, make it worth it...%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_55.png[/img]{商队休息时，%randombrother%用手臂搭到你肩上并偷偷地把你带到其中一辆载重货车后。 来回张望以确保没人在看，他打开一个箱子的盖子。 宝石在里面晃荡，尖锐地折射着仅有的光线。 他关上盖子。%SPEECH_ON%有什么想法吗？ 那可是好大一笔，先生。%SPEECH_OFF% | 趁着商队停下来修轮子，因为一个车轴崩掉使载重货车侧倾。 一个箱子从中哐当掉到地上，盖子被撞开。 你拿上一把锤子并走过去把它关上敲好，这时你注意到一些宝石从盒子里撒了出来。%randombrother% 也看到了它，并一只手放到他的武器上。%SPEECH_ON%那是，额，挺响的货物，先生。 我们应该闷不吭声还是…？%SPEECH_OFF% | 商队头领突然开始大叫。 你看着他追上并快速擒住了一个试图逃跑的人。 两个人缠着摔到地上，一阵肢体间的龙卷，从中飞出来一个褐色的包。 它掉在你的脚边，宝石从松开的口袋中掉出。%randombrother% 蹲下身捡起来几个。 他站直身板，他的另只手现在扶在武器上。 他凝视着你。%SPEECH_ON%这里有很多可以，你懂得，产生价值的东西…%SPEECH_OFF%}",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_55.png[/img]{商队休息时，%randombrother%拉着你的手臂，偷偷地把你带到其中一辆马车的后面。他四处张望，确保没人看见，然后打开箱子的盖子。宝石在里面晃动，在微弱的光线下闪闪发光。他关上了盖子。%SPEECH_ON%有什么想法吗？那可是好大一笔，先生。%SPEECH_OFF% | 当商队停下来修轮子时，一个车轴崩掉使得载重货车侧倾。一只板条箱哗啦一声落在地上，盖子震开了。你拿上一把锤子准备去把它钉上，这时你注意到一些宝石从盒子里溢了出来。%randombrother%也看到了，并把手放在他的武器上。%SPEECH_ON%那是，额，东西声音还挺大，先生。我们应该闷不吭声还是……？%SPEECH_OFF% | 商队头领突开始尖叫。你看着他追赶并迅速抓住一个试图逃跑的人。两个人扭打着摔到地上，一阵肢体的龙卷风，从中飞出来一个褐色的包。它掉在你的脚边，宝石从它打开的开口射出。%randombrother%蹲下身捡起来几个。他站直身板，另一只手放在武器上。他凝视着你。%SPEECH_ON%这里有很多可以，你知道的，所以值得……%SPEECH_OFF%}",
+    "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/event_55.png[/img]{As the caravan rests, %randombrother% takes you by the arm and secretly leads you to the back of one of the wagons. Peeking around to make sure no one is looking, he lifts the lid on a crate. Gems shuck about inside, shimmering sharply in what little light there is. He closes the lid.%SPEECH_ON%What do you wanna do? That's a lot of dosh, sir.%SPEECH_OFF% | While the caravan stops to fix a wagon wheel, an axle snaps and slams the wagon onto its side. A crate clatters out onto the ground, the lid jarring open. You grab a hammer and go to nail it back shut when you notice that a number of gems had spilled out of the box. %randombrother% sees it, too, and puts a hand on his weapon.%SPEECH_ON%That's, uh, a particularly loud cargo, sir. Should we keep things quiet or...?%SPEECH_OFF% | The caravan leader begins screaming. You watch as he chases and quickly tackles a man trying to run off. The two spin and spiral into the ground, a tornado of limbs from which flies a brown bag. It lands at your feet and gems shoot from its uncinched opening. %randombrother% leans down and picks a few up. He stands straight, his other hand now on his weapon. He stares at you.%SPEECH_ON%There's plenty here to, you know, make it worth it...%SPEECH_OFF%}\""
   },
   {

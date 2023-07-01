@@ -323,8 +323,8 @@
     "ID": 293409523,
     "key": "The townsfolk seem to be in a good spirit now.",
     "original": "The townsfolk seem to be in a good spirit now.",
-    "translation": "镇民现在看来精神很好。",
-    "stage": 1,
+    "translation": "镇民现在看来心情愉快。",
+    "stage": 5,
     "context": "Text = 'The townsfolk seem to be in a good spirit now.'"
   },
   {

@@ -371,8 +371,8 @@
     "ID": 293403824,
     "key": "Sir Emmerich",
     "original": "Sir Emmerich",
-    "translation": "艾默里克爵士",
-    "stage": 1,
+    "translation": "埃梅里希爵士",
+    "stage": 5,
     "context": "'Sir Emmerich'"
   },
   {
@@ -523,8 +523,8 @@
     "ID": 293403843,
     "key": "Gisbert",
     "original": "Gisbert",
-    "translation": "吉斯伯特",
-    "stage": 1,
+    "translation": "吉斯贝特",
+    "stage": 5,
     "context": "'Gisbert'"
   },
   {
@@ -603,8 +603,8 @@
     "ID": 293403853,
     "key": "Emmerich",
     "original": "Emmerich",
-    "translation": "艾默里奇",
-    "stage": 1,
+    "translation": "埃梅里希",
+    "stage": 5,
     "context": "'Emmerich'"
   },
   {
@@ -1419,8 +1419,8 @@
     "ID": 293403955,
     "key": "Yazid",
     "original": "Yazid",
-    "translation": "雅兹德",
-    "stage": 1,
+    "translation": "亚兹德",
+    "stage": 5,
     "context": "'Yazid'"
   },
   {
@@ -1892,7 +1892,7 @@
     "key": "Galib",
     "original": "Galib",
     "translation": "加利布",
-    "stage": 1,
+    "stage": 5,
     "context": "'Galib'"
   },
   {
@@ -1979,8 +1979,8 @@
     "ID": 293404025,
     "key": "Wahib",
     "original": "Wahib",
-    "translation": "瓦希布",
-    "stage": 1,
+    "translation": "瓦希卜",
+    "stage": 5,
     "context": "'Wahib'"
   },
   {
@@ -2259,8 +2259,8 @@
     "ID": 293404060,
     "key": "Al-Abbas",
     "original": "Al-Abbas",
-    "translation": "阿尔阿巴斯",
-    "stage": 1,
+    "translation": "阿尔-阿巴斯",
+    "stage": 5,
     "context": "'Al-Abbas'"
   },
   {
@@ -2620,7 +2620,7 @@
     "key": "Sawar",
     "original": "Sawar",
     "translation": "萨瓦尔",
-    "stage": 1,
+    "stage": 5,
     "context": "'Sawar'"
   },
   {
@@ -3427,8 +3427,8 @@
     "ID": 293404206,
     "key": "Ibn Sabti",
     "original": "Ibn Sabti",
-    "translation": "伊本·萨蒂",
-    "stage": 1,
+    "translation": "伊本·萨卜提",
+    "stage": 5,
     "context": "'Ibn Sabti'"
   },
   {
@@ -3772,7 +3772,7 @@
     "key": "Firi",
     "original": "Firi",
     "translation": "菲里",
-    "stage": 1,
+    "stage": 5,
     "context": "'Firi'"
   },
   {
@@ -3899,8 +3899,8 @@
     "ID": 293404265,
     "key": "Witold",
     "original": "Witold",
-    "translation": "威特尔",
-    "stage": 1,
+    "translation": "维托尔德",
+    "stage": 5,
     "context": "'Witold'"
   },
   {
@@ -3939,8 +3939,8 @@
     "ID": 293404270,
     "key": "Malte",
     "original": "Malte",
-    "translation": "马尔他",
-    "stage": 1,
+    "translation": "马尔特",
+    "stage": 5,
     "context": "'Malte'"
   },
   {
@@ -3948,7 +3948,7 @@
     "key": "Tawid",
     "original": "Tawid",
     "translation": "塔维德",
-    "stage": 1,
+    "stage": 5,
     "context": "'Tawid'"
   },
   {
@@ -4156,7 +4156,7 @@
     "key": "Jahaf",
     "original": "Jahaf",
     "translation": "贾哈夫",
-    "stage": 1,
+    "stage": 5,
     "context": "'Jahaf'"
   },
   {
@@ -4588,7 +4588,7 @@
     "key": "Sadan",
     "original": "Sadan",
     "translation": "萨丹",
-    "stage": 1,
+    "stage": 5,
     "context": "'Sadan'"
   },
   {
@@ -4795,8 +4795,8 @@
     "ID": 293404377,
     "key": "Atiq",
     "original": "Atiq",
-    "translation": "阿蒂克",
-    "stage": 1,
+    "translation": "阿提克",
+    "stage": 5,
     "context": "'Atiq'"
   },
   {
@@ -5140,15 +5140,15 @@
     "key": "Zuhri",
     "original": "Zuhri",
     "translation": "祖赫里",
-    "stage": 1,
+    "stage": 5,
     "context": "'Zuhri'"
   },
   {
     "ID": 293404421,
     "key": "Al-Tahir",
     "original": "Al-Tahir",
-    "translation": "阿尔塔希尔",
-    "stage": 1,
+    "translation": "阿尔-塔希尔",
+    "stage": 5,
     "context": "'Al-Tahir'"
   },
   {
@@ -5436,7 +5436,7 @@
     "key": "Husni",
     "original": "Husni",
     "translation": "胡斯尼",
-    "stage": 1,
+    "stage": 5,
     "context": "'Husni'"
   },
   {
@@ -6115,8 +6115,8 @@
     "ID": 293404542,
     "key": "Al-Faradi",
     "original": "Al-Faradi",
-    "translation": "阿尔法拉第",
-    "stage": 1,
+    "translation": "阿尔-法拉第",
+    "stage": 5,
     "context": "'Al-Faradi'"
   },
   {
@@ -6395,8 +6395,8 @@
     "ID": 293404577,
     "key": "Ibn Tayib",
     "original": "Ibn Tayib",
-    "translation": "伊本塔伊布",
-    "stage": 1,
+    "translation": "伊本·塔伊卜",
+    "stage": 5,
     "context": "'Ibn Tayib'"
   },
   {
@@ -7011,8 +7011,8 @@
     "ID": 293404654,
     "key": "Casimir",
     "original": "Casimir",
-    "translation": "查斯马尔",
-    "stage": 1,
+    "translation": "卡齐米尔",
+    "stage": 5,
     "context": "'Casimir'"
   },
   {
@@ -7676,7 +7676,7 @@
     "key": "Shuyab",
     "original": "Shuyab",
     "translation": "舒亚布",
-    "stage": 1,
+    "stage": 5,
     "context": "'Shuyab'"
   },
   {

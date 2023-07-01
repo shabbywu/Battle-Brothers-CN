@@ -260,7 +260,7 @@
     "key": "Secure ",
     "original": "Secure ",
     "translation": "确保安全于",
-    "stage": 5,
+    "stage": 2,
     "context": "'Secure ' + this.Flags.get('DestinationName')"
   },
   {

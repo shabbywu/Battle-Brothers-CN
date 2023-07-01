@@ -43,7 +43,7 @@
     "ID": 293420819,
     "key": "Having enough of all the fighting, %name% the once-beggar retired from the %companyname%. You know the man made a pretty crown in his time with the mercenary company, yet the other day you saw him out begging again. You asked if he'd wasted all his money ",
     "original": "Having enough of all the fighting, %name% the once-beggar retired from the %companyname%. You know the man made a pretty crown in his time with the mercenary company, yet the other day you saw him out begging again. You asked if he'd wasted all his money and he laughed. He said he'd purchased land and was doing just fine. Then he held out his little tin and asked for a crown. You gave him two.",
-    "translation": "厌倦了所有的战斗后，%name%这个曾经的乞丐从%companyname%退休了。你知道这个人在佣兵战团时赚到过相当可观的收入，然而前几天你又看到他在乞讨。你问他是否把钱全浪费光了，他大笑了起来说他买了土地并且过得很好。。然后他拿出他的小罐子，请求给他一枚克朗。你给了他俩。",
+    "translation": "厌倦了所有的战斗后，%name%这个曾经的乞丐从%companyname%退休了。你知道这个人在佣兵战团时赚到过相当可观的收入，然而前几天你又看到他在乞讨。你问他是否把钱全浪费光了，他大笑了起来说他买了土地并且过得很好。然后他拿出他的小罐子，请求给他一枚克朗。你给了他俩。",
     "stage": 5,
     "context": "this.m.GoodEnding = \"Having enough of all the fighting, %name% the once-beggar retired from the %companyname%. You know the man made a pretty crown in his time with the mercenary company, yet the other day you saw him out begging again. You asked if he'd wasted all his money and he laughed. He said he'd purchased land and was doing just fine. Then he held out his little tin and asked for a crown. You gave him two.\""
   },

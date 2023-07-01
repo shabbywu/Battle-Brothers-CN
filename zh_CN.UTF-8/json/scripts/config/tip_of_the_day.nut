@@ -355,7 +355,7 @@
     "ID": 293406901,
     "key": "Objects blocking tiles can be highlighted using the 'B' key.",
     "original": "Objects blocking tiles can be highlighted using the 'B' key.",
-    "translation": "可以使用“B”键突出显示阻挡格子的物体。。",
+    "translation": "可以使用“B”键突出显示阻挡格子的物体。",
     "stage": 1,
     "context": "\"Objects blocking tiles can be highlighted using the 'B' key.\""
   },

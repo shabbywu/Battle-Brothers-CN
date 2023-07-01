@@ -3,8 +3,8 @@
     "ID": 293403738,
     "key": " is content",
     "original": " is content",
-    "translation": "是满意的",
-    "stage": 1,
+    "translation": "很满意",
+    "stage": 5,
     "context": "' is content'"
   },
   {
@@ -12,7 +12,7 @@
     "key": "Gravely Wounded",
     "original": "Gravely Wounded",
     "translation": "严重受伤",
-    "stage": 1,
+    "stage": 5,
     "context": "'Gravely Wounded'"
   },
   {
@@ -28,15 +28,15 @@
     "key": "Fatigued",
     "original": "Fatigued",
     "translation": "疲劳",
-    "stage": 1,
+    "stage": 5,
     "context": "'Fatigued'"
   },
   {
     "ID": 293403742,
     "key": " gets angry",
     "original": " gets angry",
-    "translation": "生气了",
-    "stage": 1,
+    "translation": "愤怒了",
+    "stage": 5,
     "context": "' gets angry'"
   },
   {
@@ -44,7 +44,7 @@
     "key": "Catching Breath",
     "original": "Catching Breath",
     "translation": "喘息",
-    "stage": 1,
+    "stage": 5,
     "context": "'Catching Breath'"
   },
   {
@@ -52,7 +52,7 @@
     "key": "Dissatisfied",
     "original": "Dissatisfied",
     "translation": "不满意",
-    "stage": 1,
+    "stage": 5,
     "context": "'Dissatisfied'"
   },
   {
@@ -60,39 +60,39 @@
     "key": "Wounded",
     "original": "Wounded",
     "translation": "受伤",
-    "stage": 1,
+    "stage": 5,
     "context": "'Wounded'"
   },
   {
     "ID": 293403746,
     "key": "Disgruntled",
     "original": "Disgruntled",
-    "translation": "不高兴",
-    "stage": 1,
+    "translation": "不快",
+    "stage": 5,
     "context": "'Disgruntled'"
   },
   {
     "ID": 293403747,
     "key": " gets disgruntled",
     "original": " gets disgruntled",
-    "translation": "不高兴了",
-    "stage": 1,
+    "translation": "不快乐了",
+    "stage": 5,
     "context": "' gets disgruntled'"
   },
   {
     "ID": 293403748,
     "key": "Scratched",
     "original": "Scratched",
-    "translation": "划伤",
-    "stage": 1,
+    "translation": "刮痕累累",
+    "stage": 5,
     "context": "'Scratched'"
   },
   {
     "ID": 293403749,
     "key": "Euphoric",
     "original": "Euphoric",
-    "translation": "精神愉快",
-    "stage": 1,
+    "translation": "极度兴奋",
+    "stage": 5,
     "context": "'Euphoric'"
   },
   {
@@ -115,24 +115,24 @@
     "ID": 293403752,
     "key": "Angry",
     "original": "Angry",
-    "translation": "生气",
-    "stage": 1,
+    "translation": "愤怒",
+    "stage": 5,
     "context": "'Angry'"
   },
   {
     "ID": 293403753,
     "key": "Vision",
     "original": "Vision",
-    "translation": "视野",
-    "stage": 1,
+    "translation": "Vision",
+    "stage": 9,
     "context": "_t.rawin('Vision')"
   },
   {
     "ID": 293403754,
     "key": " is in good spirit",
     "original": " is in good spirit",
-    "translation": "是精神很好",
-    "stage": 1,
+    "translation": "心情愉快",
+    "stage": 5,
     "context": "' is in good spirit'"
   },
   {
@@ -147,8 +147,8 @@
     "ID": 293403756,
     "key": "Fresh",
     "original": "Fresh",
-    "translation": "新鲜",
-    "stage": 1,
+    "translation": "精神饱满",
+    "stage": 5,
     "context": "'Fresh'"
   },
   {
@@ -163,8 +163,8 @@
     "ID": 293403758,
     "key": "Untouched",
     "original": "Untouched",
-    "translation": "未受影响",
-    "stage": 1,
+    "translation": "完好无损",
+    "stage": 5,
     "context": "'Untouched'"
   },
   {
@@ -179,16 +179,16 @@
     "ID": 293403760,
     "key": "Bruised",
     "original": "Bruised",
-    "translation": "擦伤",
-    "stage": 1,
+    "translation": "受擦伤",
+    "stage": 5,
     "context": "'Bruised'"
   },
   {
     "ID": 293403761,
     "key": " gets eager",
     "original": " gets eager",
-    "translation": "热情洋溢",
-    "stage": 1,
+    "translation": "情绪高涨",
+    "stage": 5,
     "context": "' gets eager'"
   },
   {
@@ -196,7 +196,7 @@
     "key": "Unharmed",
     "original": "Unharmed",
     "translation": "无恙",
-    "stage": 1,
+    "stage": 5,
     "context": "'Unharmed'"
   },
   {
@@ -211,24 +211,24 @@
     "ID": 293403764,
     "key": "Dented",
     "original": "Dented",
-    "translation": "挫伤",
-    "stage": 1,
+    "translation": "存在凹陷",
+    "stage": 5,
     "context": "'Dented'"
   },
   {
     "ID": 293403765,
     "key": "Eager",
     "original": "Eager",
-    "translation": "热情洋溢",
-    "stage": 1,
+    "translation": "情绪高涨",
+    "stage": 5,
     "context": "'Eager'"
   },
   {
     "ID": 293403766,
     "key": "Warmed Up",
     "original": "Warmed Up",
-    "translation": "预热",
-    "stage": 1,
+    "translation": "热身完成",
+    "stage": 5,
     "context": "'Warmed Up'"
   },
   {
@@ -244,7 +244,7 @@
     "key": "Near Death",
     "original": "Near Death",
     "translation": "濒死",
-    "stage": 1,
+    "stage": 5,
     "context": "'Near Death'"
   },
   {
@@ -268,7 +268,7 @@
     "key": "Falling Apart",
     "original": "Falling Apart",
     "translation": "四分五裂",
-    "stage": 1,
+    "stage": 5,
     "context": "'Falling Apart'"
   },
   {
@@ -284,15 +284,15 @@
     "key": " gets dissatisfied",
     "original": " gets dissatisfied",
     "translation": "不满意了",
-    "stage": 1,
+    "stage": 5,
     "context": "' gets dissatisfied'"
   },
   {
     "ID": 293403774,
     "key": " gets euphoric",
     "original": " gets euphoric",
-    "translation": "精神愉快",
-    "stage": 1,
+    "translation": "极度兴奋",
+    "stage": 5,
     "context": "' gets euphoric'"
   },
   {
@@ -308,15 +308,15 @@
     "key": "Exhausted",
     "original": "Exhausted",
     "translation": "精疲力竭",
-    "stage": 1,
+    "stage": 5,
     "context": "'Exhausted'"
   },
   {
     "ID": 293403777,
     "key": "In good spirit",
     "original": "In good spirit",
-    "translation": "精神很好",
-    "stage": 1,
+    "translation": "心情愉快",
+    "stage": 5,
     "context": "'In good spirit'"
   }
 ]
