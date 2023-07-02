@@ -19,7 +19,7 @@
     "ID": 293414175,
     "key": "Davkul awaits.",
     "original": "Davkul awaits.",
-    "translation": "达库尔即将降临。",
+    "translation": "达库尔在等待。",
     "stage": 5,
     "context": "Text = 'Davkul awaits.'"
   },

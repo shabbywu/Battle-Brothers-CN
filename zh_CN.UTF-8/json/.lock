@@ -26,14 +26,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-07-02T03:52:37.18Z",
         "updatedAt": "2023-07-02T03:54:09.129Z",
-        "modifiedAt": "2023-07-02T03:54:09Z",
-        "sha256": "2e09cce7df457610a5b0d4378f024b062f7bf69a01b3ccdf6f4f82cd7255114f"
+        "modifiedAt": "2023-07-02T03:57:30Z",
+        "sha256": "2019d5dafae61a4ea31162f7eda61a4d3d8a4513d9e16b1264b648e5a54fdd64"
     },
     "scripts/ai/tactical/behaviors/ai_retreat_always.json": {
         "id": 940735,
@@ -152,14 +152,14 @@
         "total": 9,
         "translated": 9,
         "disputed": 0,
-        "checked": 7,
-        "reviewed": 7,
+        "checked": 9,
+        "reviewed": 9,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:15:13.329Z",
         "updatedAt": "2023-06-26T05:46:20.756Z",
-        "modifiedAt": "2023-06-26T05:46:21Z",
-        "sha256": "1684f5a53982833649496493896ed298818d9c4f8288386cd94c801f87b76bbc"
+        "modifiedAt": "2023-07-02T11:18:36Z",
+        "sha256": "826e2d864d2d1cddf0cb2522d97dc003fd4956c8da26691c69c15dde56534f91"
     },
     "scripts/ambitions/ambitions/cart_ambition.json": {
         "id": 918355,
@@ -10634,8 +10634,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:13.408Z",
         "updatedAt": "2023-06-26T05:47:45.313Z",
-        "modifiedAt": "2023-06-26T05:47:45Z",
-        "sha256": "b0ba8c853a91a1c6dc7e2f39f27cfbafcb653c6256a8f181c1dbab1d87af7f3f"
+        "modifiedAt": "2023-07-02T10:53:50Z",
+        "sha256": "d7cfb7ca37d7150c06018bf13fed1758aba396a298a2cb9ccc29fd7f53011da5"
     },
     "scripts/events/events/dlc4/cultist_origin_finale_event.json": {
         "id": 918937,
@@ -10688,8 +10688,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:14.624Z",
         "updatedAt": "2023-06-26T05:47:45.554Z",
-        "modifiedAt": "2023-06-26T05:47:46Z",
-        "sha256": "f36093b11cc5c95d2e1a9abab787aafdf1347bef39ef4b996f2171a1d78bae9a"
+        "modifiedAt": "2023-07-02T10:53:50Z",
+        "sha256": "c069db2d44963eb7319120e5aecc6bc7a23d8fa104254bef65059a5709e6d0b4"
     },
     "scripts/events/events/dlc4/cultist_origin_sacrifice_event.json": {
         "id": 918940,
@@ -10735,15 +10735,15 @@
         "format": "json",
         "total": 12,
         "translated": 12,
-        "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "disputed": 1,
+        "checked": 11,
+        "reviewed": 11,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:15.795Z",
         "updatedAt": "2023-06-26T05:47:45.798Z",
-        "modifiedAt": "2023-06-26T05:47:46Z",
-        "sha256": "1602aea499c108ae7e0d574086fcc29224c9ee227150a7c76a20fe2461384f11"
+        "modifiedAt": "2023-07-02T11:07:43Z",
+        "sha256": "b6a69b3d68d2fef3ba7d5979028039c24595628c44bcb13da02486c17eba2f07"
     },
     "scripts/events/events/dlc4/deserter_origin_volunteer_event.json": {
         "id": 918943,
@@ -14594,8 +14594,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:42.547Z",
         "updatedAt": "2023-06-26T05:48:13.461Z",
-        "modifiedAt": "2023-06-26T05:48:13Z",
-        "sha256": "8fef1c62f0a9f1d3fd2cd28b21220612c9692c3bea8f293ac8e8a049c3562f56"
+        "modifiedAt": "2023-07-02T10:54:13Z",
+        "sha256": "a272ed5aa9617e2994962cafffefa535f3aef3b3643c8a9df7457d33de560819"
     },
     "scripts/events/events/scenario/deserters_intro_event.json": {
         "id": 919157,
@@ -29192,8 +29192,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:45.71Z",
         "updatedAt": "2023-06-26T05:49:11.669Z",
-        "modifiedAt": "2023-06-26T05:49:12Z",
-        "sha256": "ce09b15f4d1b4327ca403e17bcdada6f4033d604660448a7e83cf111164bc706"
+        "modifiedAt": "2023-07-02T10:54:33Z",
+        "sha256": "a789d075e5e6a5a39ee5d5e529136e25b2aea0b98a64c20e2736b7a64b5bbf39"
     },
     "scripts/scenarios/world/deserters_scenario.json": {
         "id": 919968,
