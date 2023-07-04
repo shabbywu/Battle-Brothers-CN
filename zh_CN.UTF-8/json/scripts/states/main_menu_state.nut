@@ -3,7 +3,7 @@
     "ID": 293422779,
     "key": "Swipe",
     "original": "Swipe",
-    "translation": "横扫",
+    "translation": "扫荡",
     "stage": 5,
     "context": "name = 'Swipe'"
   },

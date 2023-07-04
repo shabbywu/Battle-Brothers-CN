@@ -155,8 +155,8 @@
     "ID": 293422820,
     "key": "Kill entity: ",
     "original": "Kill entity: ",
-    "translation": "消灭目标:",
-    "stage": 1,
+    "translation": "消灭目标：",
+    "stage": 5,
     "context": "this.logDebug('Kill entity: ' + entity.getName())"
   },
   {
@@ -203,8 +203,8 @@
     "ID": 293422826,
     "key": "Retreated from battle",
     "original": "Retreated from battle",
-    "translation": "从战斗中撤退",
-    "stage": 1,
+    "translation": "从战斗中撤退了",
+    "stage": 5,
     "context": "bro.worsenMood(this.Const.MoodChange.BattleRetreat, 'Retreated from battle')"
   },
   {
@@ -212,7 +212,7 @@
     "key": "TurnSequenceBar::setActionStateBySkillId(No Active Entity | Enemy)",
     "original": "TurnSequenceBar::setActionStateBySkillId(No Active Entity | Enemy)",
     "translation": "TurnSequenceBar::setActionStateBySkillId(无活动单位 | 敌人)",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logDebug('TurnSequenceBar::setActionStateBySkillId(No Active Entity | Enemy)')"
   },
   {
@@ -236,7 +236,7 @@
     "key": "You retreated after ",
     "original": "You retreated after ",
     "translation": "你撤退了, 在",
-    "stage": 1,
+    "stage": 2,
     "context": "result.subTitle = 'You retreated after ' + rounds + ' round' + rounds > 1 ? 's' : ''"
   },
   {
@@ -252,7 +252,7 @@
     "key": "The enemy was destroyed in ",
     "original": "The enemy was destroyed in ",
     "translation": "敌人被消灭了, 在",
-    "stage": 1,
+    "stage": 2,
     "context": "result.subTitle = 'The enemy was destroyed in ' + rounds + ' round' + rounds > 1 ? 's' : ''"
   },
   {
@@ -260,7 +260,7 @@
     "key": "The enemy retreated after ",
     "original": "The enemy retreated after ",
     "translation": "敌人撤退了, 在",
-    "stage": 1,
+    "stage": 2,
     "context": "result.subTitle = 'The enemy retreated after ' + rounds + ' round' + rounds > 1 ? 's' : ''"
   },
   {

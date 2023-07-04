@@ -4,7 +4,7 @@
     "key": "Oath of Humility",
     "original": "Oath of Humility",
     "translation": "谦逊誓言",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.OathName = 'Oath of Humility'"
   },
   {

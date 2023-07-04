@@ -84,7 +84,7 @@
     "key": "]+2[/color] Initiative",
     "original": "]+2[/color] Initiative",
     "translation": "]+2[/color] 主动性",
-    "stage": 1,
+    "stage": 5,
     "context": "text = _event.m.Ratcatcher.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+2[/color] Initiative'"
   },
   {

@@ -219,8 +219,8 @@
     "ID": 293422941,
     "key": "battle-preparation",
     "original": "battle-preparation",
-    "translation": "战斗准备",
-    "stage": 1,
+    "translation": "battle-preparation",
+    "stage": -1,
     "context": "this.m.JSDataSourceHandle.asyncCall('setInventoryMode', 'battle-preparation')"
   },
   {

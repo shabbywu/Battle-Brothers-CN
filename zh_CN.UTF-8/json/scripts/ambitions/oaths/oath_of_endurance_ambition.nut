@@ -60,7 +60,7 @@
     "key": "Oath of Endurance",
     "original": "Oath of Endurance",
     "translation": "忍耐誓言",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.OathName = 'Oath of Endurance'"
   },
   {

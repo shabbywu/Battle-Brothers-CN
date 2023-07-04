@@ -11,7 +11,7 @@
     "ID": 293422478,
     "key": "There's no question what this character spends his crowns on. Expect him to drink heavily before any battle, in secret if need be. ",
     "original": "There's no question what this character spends his crowns on. Expect him to drink heavily before any battle, in secret if need be. ",
-    "translation": "这个角色把自己的克朗花在什么上面毫无疑问。预计他会在战斗前喝得酩酊大醉，必要的话还会秘密地喝。",
+    "translation": "根本不需要猜这个角色都把他的克朗花在什么上了。可以预料到他每场战斗前都会使劲喝酒，必要情况下会悄悄喝。",
     "stage": 5,
     "context": "this.m.Description = \"There's no question what this character spends his crowns on. Expect him to drink heavily before any battle, in secret if need be. \""
   },

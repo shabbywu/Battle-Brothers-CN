@@ -35,7 +35,7 @@
     "ID": 293422776,
     "key": "]+25[/color] Melee Defense while retreating",
     "original": "]+25[/color] Melee Defense while retreating",
-    "translation": "]+25[/color] 近战防御，在撤退时",
+    "translation": "]+25[/color] 在撤退时的近战防御",
     "stage": 5,
     "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+25[/color] Melee Defense while retreating'"
   },

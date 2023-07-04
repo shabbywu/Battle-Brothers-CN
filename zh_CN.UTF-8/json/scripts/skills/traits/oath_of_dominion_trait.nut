@@ -35,7 +35,7 @@
     "ID": 293422627,
     "key": "This character has taken an Oath of Dominion, and is sworn to protect mankind from the savagery of wild beasts.",
     "original": "This character has taken an Oath of Dominion, and is sworn to protect mankind from the savagery of wild beasts.",
-    "translation": "该角色立下了统御誓言, 发誓将保卫人类免受野兽的残忍侵袭。",
+    "translation": "该角色已经立下了统御誓言, 发誓将保卫人类免受野兽的残忍侵袭。",
     "stage": 5,
     "context": "this.m.Description = 'This character has taken an Oath of Dominion, and is sworn to protect mankind from the savagery of wild beasts.'"
   },

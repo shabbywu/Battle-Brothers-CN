@@ -20,7 +20,7 @@
     "key": "]-10%[/color] Initiative",
     "original": "]-10%[/color] Initiative",
     "translation": "]-10%[/color] 主动性",
-    "stage": 1,
+    "stage": 5,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-10%[/color] Initiative'"
   }
 ]

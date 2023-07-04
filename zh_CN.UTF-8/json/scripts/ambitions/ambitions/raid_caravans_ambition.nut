@@ -3,7 +3,7 @@
     "ID": 293403515,
     "key": "Raid 4 trade or supply caravans along the road. If you're not already hostile to their faction, you can force an attack by holding the CTRL key while left-clicking on them - but only if you're not currently hired for a contract.",
     "original": "Raid 4 trade or supply caravans along the road. If you're not already hostile to their faction, you can force an attack by holding the CTRL key while left-clicking on them - but only if you're not currently hired for a contract.",
-    "translation": "突袭4次沿途交易或供应商队。如果你和他们的派别不是敌对关系，你可以通过按住Ctrl键的同时左键点击他们来强制攻击--前提是你目前没有雇佣合同。",
+    "translation": "突袭 4 次沿途的贸易或补给商队。如果你和他们的派别不是敌对关系，你可以通过按住Ctrl键的同时左键点击他们来强制攻击--前提是你目前没有雇佣合同。",
     "stage": 1,
     "context": "this.m.TooltipText = \"Raid 4 trade or supply caravans along the road. If you're not already hostile to their faction, you can force an attack by holding the CTRL key while left-clicking on them - but only if you're not currently hired for a contract.\""
   },
@@ -36,7 +36,7 @@
     "key": "Raid trade or supply caravans",
     "original": "Raid trade or supply caravans",
     "translation": "突袭贸易或补给商队",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.UIText = 'Raid trade or supply caravans'"
   }
 ]

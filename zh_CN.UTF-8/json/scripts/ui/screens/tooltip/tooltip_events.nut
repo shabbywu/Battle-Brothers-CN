@@ -116,7 +116,7 @@
     "key": "Fatigue is gained for every action, like moving or using skills, and when being hit in combat or dodging in melee. It is reduced at a fixed rate of 15 each turn or as much as necessary for a character to start every turn with 15 less than his maximum fati",
     "original": "Fatigue is gained for every action, like moving or using skills, and when being hit in combat or dodging in melee. It is reduced at a fixed rate of 15 each turn or as much as necessary for a character to start every turn with 15 less than his maximum fatigue. If a character accumulates too much fatigue they may need to rest a turn (i.e. do nothing) before being able to use more specialized skills again.",
     "translation": "每一个动作，如移动或使用技能，以及在战斗中被击中或在近战中躲闪，都会导致疲劳值。 每回合固定减少15疲劳值或角色在低于最大疲劳值15的情况下开始每个回合。 如果一个角色积累了太多的疲劳值，他们可能需要休息一段时间（即什么都不做），然后才能再次使用更专业的技能。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Fatigue is gained for every action, like moving or using skills, and when being hit in combat or dodging in melee. It is reduced at a fixed rate of 15 each turn or as much as necessary for a character to start every turn with 15 less than his maximum fatigue. If a character accumulates too much fatigue they may need to rest a turn (i.e. do nothing) before being able to use more specialized skills again.'"
   },
   {
@@ -203,8 +203,8 @@
     "ID": 293422978,
     "key": "Assorted arrows, bolts and throwing weapons used to automatically refill quivers after battle. Replacing one arrow or bolt will take up one point of ammunition, replacing one shot of a Handgonne will take up two points, and replacing one throwing weapon o",
     "original": "Assorted arrows, bolts and throwing weapons used to automatically refill quivers after battle. Replacing one arrow or bolt will take up one point of ammunition, replacing one shot of a Handgonne will take up two points, and replacing one throwing weapon or charge of a Fire Lance will take up three. Running out of ammunition will leave your quivers empty and your people with nothing to shoot with. You can carry no more than ",
-    "translation": "各种各样的箭矢、弩矢和投掷武器，用于战斗后自动补充箭袋。 更换一支箭矢或箭矢将会占用一个点的弹药，更换一支手炮的一发将占用两个点，更换一支投掷武器或一支火矛将占用三个点。 弹药耗尽会使你的箭袋空空荡荡，你的人将无法射击。 你可以总共携带不超过  ",
-    "stage": 1,
+    "translation": "整理好的各种箭矢、弩矢、投掷武器，用来在战斗后自动重新装填弹药袋。补充一支箭矢或弩矢消耗一点弹药，补充一发火铳弹消耗两点弹药，补充一个投掷武器或重装填火矛消耗三点弹药。弹药耗尽会使你的箭袋空空荡荡，你的人将无法射击。你可以总共携带不超过",
+    "stage": 5,
     "context": "text = 'Assorted arrows, bolts and throwing weapons used to automatically refill quivers after battle. Replacing one arrow or bolt will take up one point of ammunition, replacing one shot of a Handgonne will take up two points, and replacing one throwing weapon or charge of a Fire Lance will take up three. Running out of ammunition will leave your quivers empty and your people with nothing to shoot with. You can carry no more than ' + this.Const.Difficulty.MaxResources[this.World.Assets.getEconomicDifficulty()].Ammo + this.World.Assets.m.AmmoMaxAdditional + ' units at a time.'"
   },
   {
@@ -275,8 +275,8 @@
     "ID": 293422987,
     "key": "Pay [img]gfx/ui/tooltips/money.png[/img]",
     "original": "Pay [img]gfx/ui/tooltips/money.png[/img]",
-    "translation": "支付[img]gfx/ui/tooltips/money.png[/img]。",
-    "stage": 1,
+    "translation": "支付[img]gfx/ui/tooltips/money.png[/img]",
+    "stage": 5,
     "context": "text = 'Pay [img]gfx/ui/tooltips/money.png[/img]' + price + ' to have it repaired'"
   },
   {
@@ -523,8 +523,8 @@
     "ID": 293423018,
     "key": "Switch to viewing the perks of the currently selected character.\n\nThe number in braces, if any, is the number of available perk points.",
     "original": "Switch to viewing the perks of the currently selected character.\n\nThe number in braces, if any, is the number of available perk points.",
-    "translation": "切换到查看当前选定角色的特技。\n\n括号中的数字（如果有）是可用的特技点数。",
-    "stage": 1,
+    "translation": "切换到查看选定角色的特技。\n\n括号中的数字（如果有）是可用的特技点数。",
+    "stage": 5,
     "context": "text = 'Switch to viewing the perks of the currently selected character.\n\nThe number in braces, if any, is the number of available perk points.'"
   },
   {
@@ -627,8 +627,8 @@
     "ID": 293423031,
     "key": "Camp (T)",
     "original": "Camp (T)",
-    "translation": "营地 (T)",
-    "stage": 1,
+    "translation": "扎营 (T)",
+    "stage": 5,
     "context": "text = 'Camp (T)'"
   },
   {
@@ -891,8 +891,8 @@
     "ID": 293423064,
     "key": "Determines the base probability of hitting a target with a melee attack, such as with swords and spears. Can be increased as the character gains experience.",
     "original": "Determines the base probability of hitting a target with a melee attack, such as with swords and spears. Can be increased as the character gains experience.",
-    "translation": "确定使用近战攻击击中目标的基本概率，比如使用剑和矛。 可以随着角色获得经验而增加。",
-    "stage": 1,
+    "translation": "决定使用近战攻击击中目标的基本概率，比如使用剑和矛。可以随着角色获得经验而增加。",
+    "stage": 5,
     "context": "text = 'Determines the base probability of hitting a target with a melee attack, such as with swords and spears. Can be increased as the character gains experience.'"
   },
   {
@@ -923,7 +923,7 @@
     "ID": 293423068,
     "key": "Retinue (P)",
     "original": "Retinue (P)",
-    "translation": "随从(P)",
+    "translation": "随从 (P)",
     "stage": 5,
     "context": "text = 'Retinue (P)'"
   },
@@ -1051,8 +1051,8 @@
     "ID": 293423084,
     "key": "Talent",
     "original": "Talent",
-    "translation": "才能",
-    "stage": 1,
+    "translation": "天赋",
+    "stage": 5,
     "context": "text = 'Talent'"
   },
   {
@@ -1211,7 +1211,7 @@
     "ID": 293423104,
     "key": "Contract available",
     "original": "Contract available",
-    "translation": "可获得的合同",
+    "translation": "可接受的合同",
     "stage": 5,
     "context": "text = 'Contract available'"
   },
@@ -1299,7 +1299,7 @@
     "ID": 293423115,
     "key": "A higher melee defense reduces the probability of being hit with a melee attack, such as the thrust of a spear. It can be increased as the character gains experience and by equipping a good shield.",
     "original": "A higher melee defense reduces the probability of being hit with a melee attack, such as the thrust of a spear. It can be increased as the character gains experience and by equipping a good shield.",
-    "translation": "一个更高的近战防御降低了被近战攻击击中的概率，比如矛的刺击。 它可以随着角色获得经验和装备好盾牌而增加。",
+    "translation": "更高的近战防御降低了被近战攻击击中的概率，比如矛的刺击。它可以随着角色获得经验和装备好盾牌而增加。",
     "stage": 1,
     "context": "text = 'A higher melee defense reduces the probability of being hit with a melee attack, such as the thrust of a spear. It can be increased as the character gains experience and by equipping a good shield.'"
   },
@@ -1699,8 +1699,8 @@
     "ID": 293423165,
     "key": "[/color] armor damage",
     "original": "[/color] armor damage",
-    "translation": "[/color] 盔甲伤害",
-    "stage": 5,
+    "translation": "[/color] 护甲伤害",
+    "stage": 2,
     "context": "text = 'Received [color=' + this.Const.UI.Color.NegativeValue + ']' + combatStats.DamageReceivedArmor + '[/color] armor damage'"
   },
   {
@@ -2252,7 +2252,7 @@
     "key": " to have it repaired",
     "original": " to have it repaired",
     "translation": "进行修理",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Pay [img]gfx/ui/tooltips/money.png[/img]' + price + ' to have it repaired'"
   },
   {
@@ -2483,8 +2483,8 @@
     "ID": 293423263,
     "key": "End Round (R)",
     "original": "End Round (R)",
-    "translation": "结束全部回合 (R)",
-    "stage": 1,
+    "translation": "结束回合 (R)",
+    "stage": 5,
     "context": "text = 'End Round (R)'"
   },
   {
@@ -2524,7 +2524,7 @@
     "key": "Show the roster of the fighting force of your mercenary company.",
     "original": "Show the roster of the fighting force of your mercenary company.",
     "translation": "显示你的雇佣兵战团的战斗部队花名册。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Show the roster of the fighting force of your mercenary company.'"
   },
   {
@@ -2747,7 +2747,7 @@
     "ID": 293423296,
     "key": "Automatically place equipment back into the inventory slot it was in before battle, if possible. For example, if a character starts battle with a crossbow, but changes to a pike during battle, they'll automatically have the crossbow in hand again when the",
     "original": "Automatically place equipment back into the inventory slot it was in before battle, if possible. For example, if a character starts battle with a crossbow, but changes to a pike during battle, they'll automatically have the crossbow in hand again when the battle is concluded.",
-    "translation": "如果可能的话，自动将装备放回战斗前的摆放位置中。 例如，如果一个角色开始使用弩作战，但在战斗中变为长矛，则在战斗结束时，他们将自动再次手握弩。",
+    "translation": "如果可能的话，自动将装备放回战斗前的摆放位置中。例如，如果一个角色开始使用弩作战，但在战斗中变为长矛，则在战斗结束时，他们将自动再次手握弩。",
     "stage": 1,
     "context": "text = \"Automatically place equipment back into the inventory slot it was in before battle, if possible. For example, if a character starts battle with a crossbow, but changes to a pike during battle, they'll automatically have the crossbow in hand again when the battle is concluded.\""
   },
@@ -2820,7 +2820,7 @@
     "key": "Stash is full",
     "original": "Stash is full",
     "translation": "仓库满了",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Stash is full'"
   },
   {
@@ -2835,7 +2835,7 @@
     "ID": 293423307,
     "key": "Switch to viewing the global stash of your mercenary company, or the ground beneath the currently selected character while in combat.",
     "original": "Switch to viewing the global stash of your mercenary company, or the ground beneath the currently selected character while in combat.",
-    "translation": "切换到查看你的雇佣兵战团的仓库，或在战斗中当前选定角色下方的地面。",
+    "translation": "切换到查看雇佣兵战团的仓库，或战斗中选定角色下方的地面。",
     "stage": 1,
     "context": "text = 'Switch to viewing the global stash of your mercenary company, or the ground beneath the currently selected character while in combat.'"
   },
@@ -2924,7 +2924,7 @@
     "key": "Maximum Fatigue is the amount of fatigue a character can accumulate before being unable to take any more actions and having to recuperate. It is reduced by wearing heavy equipment, especially armor.",
     "original": "Maximum Fatigue is the amount of fatigue a character can accumulate before being unable to take any more actions and having to recuperate. It is reduced by wearing heavy equipment, especially armor.",
     "translation": "最大疲劳值是一个角色在无法采取任何行动和必须恢复之前可能积累的疲劳值量。 它是通过穿戴重型装备，特别是盔甲来减少的。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Maximum Fatigue is the amount of fatigue a character can accumulate before being unable to take any more actions and having to recuperate. It is reduced by wearing heavy equipment, especially armor.'"
   },
   {
@@ -3323,8 +3323,8 @@
     "ID": 293423368,
     "key": "Craft",
     "original": "Craft",
-    "translation": "手工制作",
-    "stage": 1,
+    "translation": "制作",
+    "stage": 5,
     "context": "text = 'Craft'"
   },
   {

@@ -12,7 +12,7 @@
     "key": "This will aid us greatly in the days to come.",
     "original": "This will aid us greatly in the days to come.",
     "translation": "这将在今后的日子里对我们大有裨益。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.SuccessButtonText = 'This will aid us greatly in the days to come.'"
   },
   {
@@ -35,7 +35,7 @@
     "ID": 293403490,
     "key": "Hire someone for your retinue of non-combat followers",
     "original": "Hire someone for your retinue of non-combat followers",
-    "translation": "雇佣一个人作为你的非战斗追随者随从",
+    "translation": "为你的随行队伍雇佣一位非战斗的追随者",
     "stage": 1,
     "context": "this.m.UIText = 'Hire someone for your retinue of non-combat followers'"
   }
