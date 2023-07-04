@@ -3,7 +3,7 @@
     "ID": 293403507,
     "key": "Have at least one famed weapon, shield, armor and helmet each in your possession. Follow rumors in taverns to learn where famed items can be found, purchase them at specialized shops in large cities and castles, or go out on your own to explore and raid r",
     "original": "Have at least one famed weapon, shield, armor and helmet each in your possession. Follow rumors in taverns to learn where famed items can be found, purchase them at specialized shops in large cities and castles, or go out on your own to explore and raid ruins and camps. The further away from civilization, the higher the chance of finding rare items.",
-    "translation": "拥有至少一件著名的武器、盾牌、盔甲和头盔。 在酒馆里听从谣言，了解在哪里可以找到著名的物品，在大城市和城堡的专门商店购买，或者自己出去探索掠夺废墟和营地。 离文明越远，发现稀有物品的几率越高。",
+    "translation": "拥有至少 1 件著名的武器、盾牌、盔甲和头盔。在酒馆里打听谣言，了解在哪里可以找到著名的物品，在大城市和城堡的专门商店购买它们，或者亲自去探索掠夺废墟和营地。距离文明越远，发现稀有物品的几率越高。",
     "stage": 1,
     "context": "this.m.TooltipText = 'Have at least one famed weapon, shield, armor and helmet each in your possession. Follow rumors in taverns to learn where famed items can be found, purchase them at specialized shops in large cities and castles, or go out on your own to explore and raid ruins and camps. The further away from civilization, the higher the chance of finding rare items.'"
   },
@@ -12,7 +12,7 @@
     "key": "Have a famed weapon, shield, armor and helmet",
     "original": "Have a famed weapon, shield, armor and helmet",
     "translation": "拥有一件著名的武器、盾牌、盔甲和头盔",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.UIText = 'Have a famed weapon, shield, armor and helmet'"
   },
   {

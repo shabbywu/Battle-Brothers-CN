@@ -3,7 +3,7 @@
     "ID": 293422644,
     "key": "This character has taken an Oath of Honor, and is sworn to seize victory up close.",
     "original": "This character has taken an Oath of Honor, and is sworn to seize victory up close.",
-    "translation": "该角色已经宣誓荣誉誓言，发誓将用近身战斗夺取胜利。",
+    "translation": "该角色已经立下了荣誉誓言，发誓将用近身战斗夺取胜利。",
     "stage": 5,
     "context": "this.m.Description = 'This character has taken an Oath of Honor, and is sworn to seize victory up close.'"
   },

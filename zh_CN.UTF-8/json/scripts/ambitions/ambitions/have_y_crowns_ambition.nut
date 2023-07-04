@@ -3,15 +3,15 @@
     "ID": 293403466,
     "key": "Have at least 10,000 crowns as a reserve, in order to persevere when things may turn bad in the future. You can make money by completing contracts, looting camps and ruins, or trading.",
     "original": "Have at least 10,000 crowns as a reserve, in order to persevere when things may turn bad in the future. You can make money by completing contracts, looting camps and ruins, or trading.",
-    "translation": "拥有至少10000克朗作为储备，以便在未来情况可能恶化时坚持下去。 你可以通过完成合同、掠夺营地和废墟或贸易来赚钱。",
-    "stage": 1,
+    "translation": "拥有至少10,000克朗作为储备，以便在未来情况可能恶化时坚持下去。 你可以通过完成合同、掠夺营地和废墟或贸易来赚钱。",
+    "stage": 2,
     "context": "this.m.TooltipText = 'Have at least 10,000 crowns as a reserve, in order to persevere when things may turn bad in the future. You can make money by completing contracts, looting camps and ruins, or trading.'"
   },
   {
     "ID": 293403467,
     "key": "Should a battle or two go against us we may find ourselves out of pocket and\nshort of equipment. The company will therefore build a reserve of 10,000 crowns.",
     "original": "Should a battle or two go against us we may find ourselves out of pocket and\nshort of equipment. The company will therefore build a reserve of 10,000 crowns.",
-    "translation": "如果一两场战斗对我们不利，我们就会发现自己口袋空空，装备短缺。\n因此，战团将建立10000克朗的储备。",
+    "translation": "如果一两场战斗对我们不利，我们就会发现自己口袋空空，装备短缺。\n因此，战团将建立10,000克朗的储备。",
     "stage": 1,
     "context": "this.m.ButtonText = 'Should a battle or two go against us we may find ourselves out of pocket and\nshort of equipment. The company will therefore build a reserve of 10,000 crowns.'"
   },
@@ -27,8 +27,8 @@
     "ID": 293403469,
     "key": "Have at least 10,000 crowns",
     "original": "Have at least 10,000 crowns",
-    "translation": "拥有至少10000克朗",
-    "stage": 1,
+    "translation": "拥有至少10,000克朗",
+    "stage": 5,
     "context": "this.m.UIText = 'Have at least 10,000 crowns'"
   },
   {

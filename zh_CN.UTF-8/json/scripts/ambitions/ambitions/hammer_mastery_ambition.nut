@@ -4,15 +4,15 @@
     "key": "Our company is ill-prepared to fight armored opponents. We shall train two men\nto master the hammer in combat, and no knight will be safe from us.",
     "original": "Our company is ill-prepared to fight armored opponents. We shall train two men\nto master the hammer in combat, and no knight will be safe from us.",
     "translation": "我们战团没有做好与装甲对手作战的准备。\n我们得训练俩人精通战锤来战斗，没有骑士能逃出我们的魔掌。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.ButtonText = 'Our company is ill-prepared to fight armored opponents. We shall train two men\nto master the hammer in combat, and no knight will be safe from us.'"
   },
   {
     "ID": 293403428,
     "key": "Have 2 men with the hammer mastery perk.",
     "original": "Have 2 men with the hammer mastery perk.",
-    "translation": "有2人掌握锤精通特技。",
-    "stage": 1,
+    "translation": "拥有 2 个掌握锤精通特技的人。",
+    "stage": 5,
     "context": "this.m.TooltipText = 'Have 2 men with the hammer mastery perk.'"
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293403430,
     "key": "Have men with the hammer mastery perk",
     "original": "Have men with the hammer mastery perk",
-    "translation": "有人掌握锤精通特技",
-    "stage": 1,
+    "translation": "培训掌握锤精通特技的成员",
+    "stage": 2,
     "context": "this.m.UIText = 'Have men with the hammer mastery perk'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "Armor, what armor?",
     "original": "Armor, what armor?",
     "translation": "盔甲，什么盔甲？",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.SuccessButtonText = 'Armor, what armor?'"
   }
 ]

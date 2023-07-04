@@ -52,7 +52,7 @@
     "key": "Oath of Dominion",
     "original": "Oath of Dominion",
     "translation": "统御誓言",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.OathName = 'Oath of Dominion'"
   },
   {

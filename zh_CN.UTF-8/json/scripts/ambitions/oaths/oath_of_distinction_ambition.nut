@@ -92,7 +92,7 @@
     "key": "Oath of Distinction",
     "original": "Oath of Distinction",
     "translation": "超群誓言",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.OathName = 'Oath of Distinction'"
   }
 ]

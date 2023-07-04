@@ -3,7 +3,7 @@
     "ID": 293403525,
     "key": "Hire enough men to have a full roster of at least 12 men. Visit settlements across the lands to find recruits that suit your needs. Having a full roster will allow you to take on more dangerous and better paying contracts.",
     "original": "Hire enough men to have a full roster of at least 12 men. Visit settlements across the lands to find recruits that suit your needs. Having a full roster will allow you to take on more dangerous and better paying contracts.",
-    "translation": "雇佣足够多的人来拥有至少12人的花名册。 访问各地的定居点，寻找适合你需要的新兵。 充足的人员能使你接受更危险更高报酬的合同。",
+    "translation": "雇佣足够多的人来拥有至少12人的花名册。访问各地的定居点，寻找适合你需要的新兵。充足的人员能使你接受更危险更高报酬的合同。",
     "stage": 1,
     "context": "this.m.TooltipText = 'Hire enough men to have a full roster of at least 12 men. Visit settlements across the lands to find recruits that suit your needs. Having a full roster will allow you to take on more dangerous and better paying contracts.'"
   },
@@ -20,7 +20,7 @@
     "key": "Have a roster of at least 12 men",
     "original": "Have a roster of at least 12 men",
     "translation": "花名册人数至少达到12人",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.UIText = 'Have a roster of at least 12 men'"
   },
   {
@@ -28,14 +28,14 @@
     "key": "We're getting there.",
     "original": "We're getting there.",
     "translation": "我们做到了。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.SuccessButtonText = \"We're getting there.\""
   },
   {
     "ID": 293403529,
     "key": "We shall get the company strength to a dozen men! It will make us\na formidable force and will allow us to take on more profitable work.",
     "original": "We shall get the company strength to a dozen men! It will make us\na formidable force and will allow us to take on more profitable work.",
-    "translation": "我们应该让战团增加到十几个人的实力！这会让我们变得强大，可以承担更有利可图的工作。",
+    "translation": "让我们把战团人数提升到 12 人！ 它将使我们成为\n一支强大的力量，使我们能够从事更有利可图的工作。",
     "stage": 1,
     "context": "this.m.ButtonText = 'We shall get the company strength to a dozen men! It will make us\na formidable force and will allow us to take on more profitable work.'"
   }
