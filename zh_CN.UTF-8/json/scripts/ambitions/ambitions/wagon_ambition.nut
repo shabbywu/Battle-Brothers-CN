@@ -67,7 +67,7 @@
     "ID": 317090600,
     "key": "sha256:891e59124b3a33d20c8b7e935b90d32f03ebab6d9f248e0946a43863c59a4196",
     "original": "Finally.",
-    "translation": "最后。",
+    "translation": "终于完成了。",
     "stage": 1,
     "context": "this.m.SuccessButtonText = \"Finally.\""
   }
