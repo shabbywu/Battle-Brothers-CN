@@ -1382,8 +1382,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:45.456Z",
         "updatedAt": "2023-06-26T05:46:36.003Z",
-        "modifiedAt": "2023-07-04T17:53:26Z",
-        "sha256": "b4bd45c13f8aa23cf978152f99d0070a69efb85d60291fd441015ff0b364866b"
+        "modifiedAt": "2023-07-05T01:31:20Z",
+        "sha256": "f3670e95f233634f6f2ce71023c04bf883dac59c3a2bfff2d7b5aebb20c1c109"
     },
     "scripts/config/world.json": {
         "id": 918423,
@@ -2696,8 +2696,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:18.95Z",
         "updatedAt": "2023-06-26T05:46:55.76Z",
-        "modifiedAt": "2023-07-04T16:23:48Z",
-        "sha256": "eb39adcb0dc612a8884fa3d02f929f38fed14cbb65a0402301567759832c961b"
+        "modifiedAt": "2023-07-05T01:28:49Z",
+        "sha256": "0dc0ee7b52c47237fa6c88a7d4c0a8eec8eb7a56157897f9a235dab1a33eadd3"
     },
     "scripts/entity/tactical/enemies/orc_berserker.json": {
         "id": 918496,
@@ -33434,14 +33434,14 @@
         "total": 19,
         "translated": 19,
         "disputed": 0,
-        "checked": 16,
-        "reviewed": 16,
+        "checked": 19,
+        "reviewed": 19,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:43.45Z",
         "updatedAt": "2023-06-26T05:49:27.867Z",
-        "modifiedAt": "2023-07-04T09:38:15Z",
-        "sha256": "7d0814edd84f61fad770d495565261cf2b06b1a2eb957d10bcb9dcbcc9503c0e"
+        "modifiedAt": "2023-07-05T02:15:00Z",
+        "sha256": "9d40d725b4d4dfcacfbeee30a446f9bd9b57305328cd5f3a62063695e10af2ea"
     },
     "scripts/skills/backgrounds/mason_background.json": {
         "id": 920204,
