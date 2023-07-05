@@ -51,7 +51,7 @@
     "ID": 293410284,
     "key": "'s natural armor is hit for [b]",
     "original": "'s natural armor is hit for [b]",
-    "translation": "的天然护甲被击中[b]",
+    "translation": "的天然护甲被击中，造成了 [b]",
     "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(this) + \"'s natural armor is hit for [b]\" + this.Math.floor(_hitInfo.DamageArmor) + '[/b] damage')"
   }
