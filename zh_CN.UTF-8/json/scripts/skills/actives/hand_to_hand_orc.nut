@@ -11,7 +11,7 @@
     "ID": 293420065,
     "key": "Pummeled to death",
     "original": "Pummeled to death",
-    "translation": "被殴打致死",
+    "translation": "殴打致死",
     "stage": 5,
     "context": "this.m.KilledString = 'Pummeled to death'"
   }

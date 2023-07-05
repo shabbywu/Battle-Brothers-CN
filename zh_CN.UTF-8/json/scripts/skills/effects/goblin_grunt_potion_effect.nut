@@ -3,7 +3,7 @@
     "ID": 293421492,
     "key": "This character's legs have been mutated, allowing them to make swift, complex movements more smoothly and with greater rapidity. When at rest, the muscles can still occasionally be seen twitching underneath the skin.",
     "original": "This character's legs have been mutated, allowing them to make swift, complex movements more smoothly and with greater rapidity. When at rest, the muscles can still occasionally be seen twitching underneath the skin.",
-    "translation": "这个角色的腿部基因发生了突变，允许他们进行更为流畅和快速的迅猛动作。在休息时，肌肉可以偶尔在皮肤下看到微微的抽动。",
+    "translation": "这个角色的腿部基因发生了突变，允许他们进行更为流畅和快速的迅猛动作。在休息时，偶尔能看到肌肉还在皮肤下面抽动。",
     "stage": 1,
     "context": "return \"This character's legs have been mutated, allowing them to make swift, complex movements more smoothly and with greater rapidity. When at rest, the muscles can still occasionally be seen twitching underneath the skin.\";"
   },
@@ -35,7 +35,7 @@
     "ID": 293421496,
     "key": "Reactive Leg Muscles",
     "original": "Reactive Leg Muscles",
-    "translation": "反应性腿部肌肉(Reactive Leg Muscles)",
+    "translation": "反应性腿部肌肉",
     "stage": 1,
     "context": "this.m.Name = 'Reactive Leg Muscles'"
   }

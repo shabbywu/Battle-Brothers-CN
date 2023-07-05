@@ -203,8 +203,8 @@
     "ID": 293403803,
     "key": "The Swine",
     "original": "The Swine",
-    "translation": "猪",
-    "stage": 1,
+    "translation": "猪人(the Swine)",
+    "stage": 5,
     "context": "'The Swine'"
   },
   {
@@ -1563,7 +1563,7 @@
     "ID": 293403973,
     "key": "Brunhild",
     "original": "Brunhild",
-    "translation": "布伦希尔德(Brunhild)",
+    "translation": "布伦希尔德",
     "stage": 1,
     "context": "'Brunhild'"
   },
@@ -2195,7 +2195,7 @@
     "ID": 293404052,
     "key": "Bertha",
     "original": "Bertha",
-    "translation": "伯莎(Bertha)",
+    "translation": "伯莎",
     "stage": 1,
     "context": "'Bertha'"
   },
@@ -5395,7 +5395,7 @@
     "ID": 293404452,
     "key": "Mathilda",
     "original": "Mathilda",
-    "translation": "玛蒂尔达(Mathilda)",
+    "translation": "玛蒂尔达",
     "stage": 1,
     "context": "'Mathilda'"
   },

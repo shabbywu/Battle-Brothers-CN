@@ -19,7 +19,7 @@
     "ID": 293421610,
     "key": "This character's body has mutated to regrow skin and muscle tissue much more quickly than normal. Deep injuries heal much faster than normal as a result. They also seem to have developed a strong taste for red meat, but that's probably unrelated.",
     "original": "This character's body has mutated to regrow skin and muscle tissue much more quickly than normal. Deep injuries heal much faster than normal as a result. They also seem to have developed a strong taste for red meat, but that's probably unrelated.",
-    "translation": "该角色的身体变异，使得皮肤和肌肉组织再生速度比正常情况下快得多。由此，深层伤口的愈合速度比正常情况下更快。此外，他们似乎对红肉有很强的口感，但这可能是不相关的。",
+    "translation": "该角色的身体变异，使得皮肤和肌肉组织再生速度比正常情况下快得多。由此，深层伤口的愈合速度比正常情况下更快。另外他也开始变得特别喜欢带血肉，但那应该是无关的。",
     "stage": 1,
     "context": "return \"This character's body has mutated to regrow skin and muscle tissue much more quickly than normal. Deep injuries heal much faster than normal as a result. They also seem to have developed a strong taste for red meat, but that's probably unrelated.\";"
   },

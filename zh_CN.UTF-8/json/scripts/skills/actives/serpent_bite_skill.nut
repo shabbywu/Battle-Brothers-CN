@@ -12,7 +12,7 @@
     "key": "Bitten to bits",
     "original": "Bitten to bits",
     "translation": "咬成碎片",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.KilledString = 'Bitten to bits'"
   }
 ]

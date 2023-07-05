@@ -555,8 +555,8 @@
     "ID": 293406926,
     "key": "A missed ranged attack can hit nearby characters, especially if they are in the direct line of fire.",
     "original": "A missed ranged attack can hit nearby characters, especially if they are in the direct line of fire.",
-    "translation": "偏斜的远程攻击可以击中附近的角色，特别是当他们在射击线中时。",
-    "stage": 1,
+    "translation": "一次未命中的远程攻击有可能会击中附近的其他角色，尤其是当这些角色正好阻挡了射击线路的时候。",
+    "stage": 5,
     "context": "'A missed ranged attack can hit nearby characters, especially if they are in the direct line of fire.'"
   },
   {

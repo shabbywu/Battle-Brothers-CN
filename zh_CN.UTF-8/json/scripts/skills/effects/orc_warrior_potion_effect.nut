@@ -27,7 +27,7 @@
     "ID": 293421660,
     "key": "This character's body has mutated to develop a number of redundant synapses, allowing them to maintain a degree of control over sight, hearing, and muscle control even when struck with debilitating blows.",
     "original": "This character's body has mutated to develop a number of redundant synapses, allowing them to maintain a degree of control over sight, hearing, and muscle control even when struck with debilitating blows.",
-    "translation": "这个角色的身体突变发展出了许多冗余的突触，使其即使受到致命打击也能够维持对视觉、听觉和肌肉控制的一定程度的掌控。",
+    "translation": "这个角色的身体突变并长出了许多冗余的突触，使其即使受到致命打击也能够维持对视觉、听觉和肌肉控制的一定程度的掌控。",
     "stage": 1,
     "context": "return \"This character's body has mutated to develop a number of redundant synapses, allowing them to maintain a degree of control over sight, hearing, and muscle control even when struck with debilitating blows.\";"
   }

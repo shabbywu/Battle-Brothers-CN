@@ -3,7 +3,7 @@
     "ID": 293421487,
     "key": "An additional [color=",
     "original": "An additional [color=",
-    "translation": "额外的[color=",
+    "translation": "使用近战武器时有额外 [color=",
     "stage": 1,
     "context": "text = 'An additional [color=' + this.Const.UI.Color.PositiveValue + ']5%[/color] of damage ignores armor when using melee weapons'"
   },
@@ -27,7 +27,7 @@
     "ID": 293421490,
     "key": "]5%[/color] of damage ignores armor when using melee weapons",
     "original": "]5%[/color] of damage ignores armor when using melee weapons",
-    "translation": "]5%[/color] 的伤害在使用近战武器时无视护甲",
+    "translation": "]5%[/color] 无视护甲的伤害",
     "stage": 1,
     "context": "text = 'An additional [color=' + this.Const.UI.Color.PositiveValue + ']5%[/color] of damage ignores armor when using melee weapons'"
   },

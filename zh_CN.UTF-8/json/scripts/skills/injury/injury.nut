@@ -44,7 +44,7 @@
     "key": "Will heal in ",
     "original": "Will heal in ",
     "translation": "将痊愈于",
-    "stage": 5,
+    "stage": 2,
     "context": "d = 'Will heal in ' + ht.Min + ' to ' + ht.Max + ' days'"
   },
   {

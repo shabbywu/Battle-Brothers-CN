@@ -11,7 +11,7 @@
     "ID": 293421401,
     "key": "Not affected by nighttime penalties",
     "original": "Not affected by nighttime penalties",
-    "translation": "不受夜间惩罚影响。",
+    "translation": "不受夜间惩罚影响",
     "stage": 1,
     "context": "text = 'Not affected by nighttime penalties'"
   },
@@ -27,7 +27,7 @@
     "ID": 293421403,
     "key": "Enhanced Eye Rods",
     "original": "Enhanced Eye Rods",
-    "translation": "强化眼棒(Enhanced Eye Rods)",
+    "translation": "强化眼杆细胞",
     "stage": 1,
     "context": "this.m.Name = 'Enhanced Eye Rods'"
   }

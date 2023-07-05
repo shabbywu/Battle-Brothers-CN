@@ -11,7 +11,7 @@
     "ID": 293419845,
     "key": "Let loose a cascade of three striking heads on your opponent. Will strike over or around shield cover.",
     "original": "Let loose a cascade of three striking heads on your opponent. Will strike over or around shield cover.",
-    "translation": "向你的对手发起3次攻击。会绕过盾牌的掩护。",
+    "translation": "向你的对手倾泻你链枷的三个头。会绕过盾牌的掩护。",
     "stage": 5,
     "context": "this.m.Description = 'Let loose a cascade of three striking heads on your opponent. Will strike over or around shield cover.'"
   },

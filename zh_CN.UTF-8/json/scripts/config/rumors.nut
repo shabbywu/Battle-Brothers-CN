@@ -243,8 +243,8 @@
     "ID": 293405459,
     "key": "Damn nigh impossible to find a reliable shield 'round here, bloody things keep breaking in two. Been keeping a spare on me back now just incase. I should charge more for fighting men with axes, ha!",
     "original": "Damn nigh impossible to find a reliable shield 'round here, bloody things keep breaking in two. Been keeping a spare on me back now just incase. I should charge more for fighting men with axes, ha!",
-    "translation": "在这附近几乎不可能找到可靠的盾牌，总是被残忍的一分为二。我身上一直带着备用的，以防万一。我应该向斧兵多要点钱，哈哈！",
-    "stage": 1,
+    "translation": "在这附近他娘的几乎不可能找到可靠的盾牌，这些破玩意总是碎成两块。为了以防万一，现在我总是在背上背块备用的。以后再让我跟拿斧子的人战斗可必须多付点钱，哈哈！",
+    "stage": 5,
     "context": "\"Damn nigh impossible to find a reliable shield 'round here, bloody things keep breaking in two. Been keeping a spare on me back now just incase. I should charge more for fighting men with axes, ha!\""
   },
   {
@@ -467,7 +467,7 @@
     "ID": 293405487,
     "key": "You know of... gosh, what was it called again? To the %direction% %distance% from here, %terrain%. Can't for the life of me remember what we used to call it...",
     "original": "You know of... gosh, what was it called again? To the %direction% %distance% from here, %terrain%. Can't for the life of me remember what we used to call it...",
-    "translation": "你知道...天哪，它又叫什么？从这里到 %direction% %distance%，%terrain%。我这辈子都不记得我们以前叫什么了...",
+    "translation": "你知道...天哪，它又叫什么？从这里到 %direction% %distance%，%terrain%。我这辈子都不记得我们以前叫它什么了......",
     "stage": 1,
     "context": "\"You know of... gosh, what was it called again? To the %direction% %distance% from here, %terrain%. Can't for the life of me remember what we used to call it...\""
   },

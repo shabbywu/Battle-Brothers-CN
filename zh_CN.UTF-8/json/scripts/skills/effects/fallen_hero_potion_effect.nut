@@ -3,7 +3,7 @@
     "ID": 293421483,
     "key": "Reactive Muscle Tissue",
     "original": "Reactive Muscle Tissue",
-    "translation": "反应性肌肉组织(Reactive Muscle Tissue)",
+    "translation": "反应性肌肉组织",
     "stage": 1,
     "context": "this.m.Name = 'Reactive Muscle Tissue'"
   },
@@ -27,7 +27,7 @@
     "ID": 293421486,
     "key": "This character's body reacts to physical trauma, secreting a calciferous substance that causes their muscles to reflexively sieze and contract at points of impact to minimize muscle damage.",
     "original": "This character's body reacts to physical trauma, secreting a calciferous substance that causes their muscles to reflexively sieze and contract at points of impact to minimize muscle damage.",
-    "translation": "这个角色的身体对于物理创伤有反应，分泌一种含钙物质，会在撞击点处导致肌肉反射性收缩以最小化肌肉损伤。",
+    "translation": "这个角色的身体面对物理创伤会反应式的分泌一种含钙物质，会使被冲击处的肌肉反射式的收缩以最小化肌肉损伤。",
     "stage": 1,
     "context": "return \"This character's body reacts to physical trauma, secreting a calciferous substance that causes their muscles to reflexively sieze and contract at points of impact to minimize muscle damage.\";"
   }

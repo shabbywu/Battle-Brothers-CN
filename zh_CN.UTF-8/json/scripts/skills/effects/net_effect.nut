@@ -19,7 +19,7 @@
     "ID": 293421625,
     "key": "Trapped in Net",
     "original": "Trapped in Net",
-    "translation": "陷网",
+    "translation": "陷在网中",
     "stage": 5,
     "context": "this.m.Name = 'Trapped in Net'"
   },

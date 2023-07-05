@@ -20,7 +20,7 @@
     "key": " resists being charmed thanks to his unnatural physiology",
     "original": " resists being charmed thanks to his unnatural physiology",
     "translation": "因为他不自然的生理机能抵抗了魅惑",
-    "stage": 5,
+    "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(target) + ' resists being charmed thanks to his unnatural physiology')"
   },
   {

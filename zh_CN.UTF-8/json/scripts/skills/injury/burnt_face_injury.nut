@@ -19,7 +19,7 @@
     "ID": 293421879,
     "key": "Burnt Face",
     "original": "Burnt Face",
-    "translation": "烧伤的脸",
+    "translation": "脸部烧伤",
     "stage": 5,
     "context": "this.m.Name = 'Burnt Face'"
   },

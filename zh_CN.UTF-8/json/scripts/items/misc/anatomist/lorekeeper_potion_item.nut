@@ -35,7 +35,7 @@
     "ID": 293418491,
     "key": "Once per battle, upon receiving a killing blow, survive instead and regain full health",
     "original": "Once per battle, upon receiving a killing blow, survive instead and regain full health",
-    "translation": "每场战斗一次，在遭受致命伤害时抵抗该次伤害并恢复所有生命值",
+    "translation": "每场战斗只能触发一次，在遭受致命伤害时抵抗该次伤害并恢复所有生命值",
     "stage": 1,
     "context": "text = 'Once per battle, upon receiving a killing blow, survive instead and regain full health'"
   }

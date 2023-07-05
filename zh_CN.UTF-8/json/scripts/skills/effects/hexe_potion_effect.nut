@@ -35,7 +35,7 @@
     "ID": 293421524,
     "key": "There's something different about this character. Physically they seem unchanged, yet somehow a sense of dread precedes them. Any harm that they endure, on or off the battlefield, seems to affect another nearby. Useful in a fight, annoying in camp, and su",
     "original": "There's something different about this character. Physically they seem unchanged, yet somehow a sense of dread precedes them. Any harm that they endure, on or off the battlefield, seems to affect another nearby. Useful in a fight, annoying in camp, and surely isolating in every day society.",
-    "translation": "这个角色有些异于常人。从外观上看他们似乎没有不同，但不知何故，他们会给人一种莫名的恐惧感。他们承受的任何伤害，无论是在战场上还是在战场外，似乎都会影响到附近的另一个人。这个特性在战斗中很有用，但在营地里会令人讨厌，在日常生活中中肯定会被孤立的。",
+    "translation": "这个角色有些异于常人。从外观上看他们似乎没有不同，但不知何故，他们会给人一种莫名的恐惧感。他在战场上或战场外承受的任何伤害似乎都会影响到周围的另一个人。这个特性在战斗中很有用，但在营地里会令人讨厌，在日常生活中中肯定会被孤立的。",
     "stage": 1,
     "context": "return \"There's something different about this character. Physically they seem unchanged, yet somehow a sense of dread precedes them. Any harm that they endure, on or off the battlefield, seems to affect another nearby. Useful in a fight, annoying in camp, and surely isolating in every day society.\";"
   }

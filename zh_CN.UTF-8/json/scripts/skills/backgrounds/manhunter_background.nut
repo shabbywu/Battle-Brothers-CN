@@ -12,7 +12,7 @@
     "key": "the Catcher",
     "original": "the Catcher",
     "translation": "捕手(the Catcher)",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Catcher'"
   },
   {
@@ -27,16 +27,16 @@
     "ID": 293421085,
     "key": "the Swine",
     "original": "the Swine",
-    "translation": "猪人族(the Swine)",
-    "stage": 1,
+    "translation": "猪人(the Swine)",
+    "stage": 5,
     "context": "'the Swine'"
   },
   {
     "ID": 293421086,
     "key": "the Merciless",
     "original": "the Merciless",
-    "translation": "无情的",
-    "stage": 1,
+    "translation": "无情者(the Merciless)",
+    "stage": 5,
     "context": "'the Merciless'"
   },
   {
@@ -44,7 +44,7 @@
     "key": "the Slaver",
     "original": "the Slaver",
     "translation": "奴隶贩子(the Slaver)",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Slaver'"
   },
   {
@@ -52,7 +52,7 @@
     "key": "the Bounty Hunter",
     "original": "the Bounty Hunter",
     "translation": "赏金猎人(the Bounty Hunter)",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Bounty Hunter'"
   },
   {
@@ -92,15 +92,15 @@
     "key": "the Ruthless",
     "original": "the Ruthless",
     "translation": "无情者(the Ruthless)",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Ruthless'"
   },
   {
     "ID": 293421094,
     "key": "the Cruel",
     "original": "the Cruel",
-    "translation": "残酷的",
-    "stage": 1,
+    "translation": "残酷者(the Cruel)",
+    "stage": 5,
     "context": "'the Cruel'"
   },
   {
@@ -108,7 +108,7 @@
     "key": "the Heartless",
     "original": "the Heartless",
     "translation": "无心者(the Heartless)",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Heartless'"
   },
   {
@@ -123,8 +123,8 @@
     "ID": 293421097,
     "key": "the Brutal",
     "original": "the Brutal",
-    "translation": "无情者(the Brutal)",
-    "stage": 1,
+    "translation": "凶残者(the Brutal)",
+    "stage": 5,
     "context": "'the Brutal'"
   },
   {
@@ -139,16 +139,16 @@
     "ID": 293421099,
     "key": "the Unforgiving",
     "original": "the Unforgiving",
-    "translation": "无情者(the Unforgiving)",
-    "stage": 1,
+    "translation": "无慈悲者(the Unforgiving)",
+    "stage": 5,
     "context": "'the Unforgiving'"
   },
   {
     "ID": 293421100,
     "key": "the Mancatcher",
     "original": "the Mancatcher",
-    "translation": "猎人捕捉者(the Mancatcher)",
-    "stage": 1,
+    "translation": "猎人者(the Mancatcher)",
+    "stage": 5,
     "context": "'the Mancatcher'"
   }
 ]

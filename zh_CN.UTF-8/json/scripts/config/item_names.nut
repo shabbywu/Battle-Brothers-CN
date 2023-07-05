@@ -1163,7 +1163,7 @@
     "ID": 293405014,
     "key": "of the Desert",
     "original": "of the Desert",
-    "translation": "·沙漠(of the Desert)",
+    "translation": "·沙漠",
     "stage": 5,
     "context": "'of the Desert'"
   },
@@ -2083,7 +2083,7 @@
     "ID": 293405129,
     "key": "Bulwark",
     "original": "Bulwark",
-    "translation": "堡垒(Bulwark)",
+    "translation": "堡垒",
     "stage": 1,
     "context": "'Bulwark'"
   },
@@ -4403,7 +4403,7 @@
     "ID": 293405419,
     "key": "Brazen",
     "original": "Brazen",
-    "translation": "布拉森(Brazen)",
+    "translation": "布拉森",
     "stage": 1,
     "context": "'Brazen'"
   },

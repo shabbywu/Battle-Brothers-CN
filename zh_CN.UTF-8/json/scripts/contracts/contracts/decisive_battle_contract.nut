@@ -19,7 +19,7 @@
     "ID": 293408130,
     "key": "Intercept supplies enroute from %supply_start% to %supply_dest%",
     "original": "Intercept supplies enroute from %supply_start% to %supply_dest%",
-    "translation": "拦截从%supply_start%到%supply_dest%的补给。",
+    "translation": "拦截从%supply_start%到%supply_dest%的补给队。",
     "stage": 1,
     "context": "'Intercept supplies enroute from %supply_start% to %supply_dest%'"
   },
@@ -443,7 +443,7 @@
     "ID": 293408183,
     "key": "Requisition supplies at %objective% to the %direction% of the warcamp",
     "original": "Requisition supplies at %objective% to the %direction% of the warcamp",
-    "translation": "在%objective%向战争营地的%direction%处获取补给。",
+    "translation": "在军营%direction%方的%objective%处获取补给。",
     "stage": 1,
     "context": "'Requisition supplies at %objective% to the %direction% of the warcamp'"
   },
@@ -555,7 +555,7 @@
     "ID": 293408197,
     "key": "Win the battle for %noblehouse%",
     "original": "Win the battle for %noblehouse%",
-    "translation": "在 %noblehouse% 赢得战斗",
+    "translation": "为 %noblehouse% 赢得战斗",
     "stage": 1,
     "context": "'Win the battle for %noblehouse%'"
   },
@@ -595,7 +595,7 @@
     "ID": 293408202,
     "key": "Move to the war camp and report to %commander%",
     "original": "Move to the war camp and report to %commander%",
-    "translation": "移动到军营并报告给 %commander%",
+    "translation": "移动到军营并向%commander%报告",
     "stage": 1,
     "context": "'Move to the war camp and report to %commander%'"
   },
@@ -627,7 +627,7 @@
     "ID": 293408206,
     "key": "Let's get this over with...",
     "original": "Let's get this over with...",
-    "translation": "让我们用…",
+    "translation": "让我们结束这一切…",
     "stage": 1,
     "context": "Text = \"Let's get this over with...\""
   },
@@ -734,5 +734,13 @@
     "translation": "你做了正确的决定。",
     "stage": 1,
     "context": "Text = 'You made the right decision.'"
+  },
+  {
+    "ID": 315253925,
+    "key": "sha256:e152d5b89d3894ac8cf56a71d567411679ae924f2607c88f146e9143b2a4f584",
+    "original": "[img]gfx/ui/events/event_88.png[/img]{%bigdog% steps forward, wheeling a weapon around over his shoulder with ease. He nods.%SPEECH_ON%You're afraid of %commander%. I get that. You know him, you know his temperament, and what he's capable of. Question is...%SPEECH_OFF%The sellsword grins, the wily smile reflected in the sheen of his blade.%SPEECH_ON%Do you know me?%SPEECH_OFF% | The deserters look about ready to leave when %bigdog% whistles loudly.%SPEECH_ON%Hey you shits, my commander gave you an order.%SPEECH_OFF%One of the deserter scoffs.%SPEECH_ON%Yeah? He ain't our farkin' commander so you can take that order and cram it.%SPEECH_OFF%%bigdog% draws out a huge blade and plants it in the ground. He tents his hands atop the pommel.%SPEECH_ON%You're afraid of %commander% and that's alright. But you keep on being a little shit, my friend, and we'll see just which commander you should have really been afraid of.%SPEECH_OFF% | The deserters turn to leave. %bigdog% takes out a huge blade and clangs it against his armor. Slowly, the deserters turn around. %bigdog% smiles.%SPEECH_ON%Any one of you ever pissed your pants?%SPEECH_OFF%One of the deserters shakes his head.%SPEECH_ON%H-hey man, get the fark out of here with that talk.%SPEECH_OFF%%bigdog% snatches up his blade and points the tip of it at the deserter.%SPEECH_ON%Oh, you want me shut up? Keep speaking to me like that and there won't be anybody talking here real soon.%SPEECH_OFF%}{The deserters cannot decide amongst themselves and put it to a vote. The choice to keep running carries the majority. Their leader informs you of this democratic result and bids you farewell. %commander% won't be happy, but you draw out your sword and tell the men there's only one other path for them to go. The leader turns around, unsheathing his blade and nodding.%SPEECH_ON%Alright, I figured you didn't come all this way just to hear us say goodbye. At arms, men.%SPEECH_OFF% | %commander% will hate it, but the deserters refuse to come back. They see no reason to jump back into the fray. You tell their leader good luck. He thanks you, but quickly falls silent as you draw out your weapon, the rest of the %companyname% following suit. The leader sighs.%SPEECH_ON%Yeah, I thought this is how it'd go.%SPEECH_OFF%You nod.%SPEECH_ON%Nothing personal. I don't care what you do, but this here is a matter of business and we have to see it to its conclusion.%SPEECH_OFF% | The deserters are unable to come to a decision so they turn to chance: their leader takes out a coin and flips it through the air. Heads they go back to camp, tails they keep on leaving. It lands tails. The deserters collectively breathe a sigh of relief. Their leader claps you on the shoulder.%SPEECH_ON%Fortune has decided our fates.%SPEECH_OFF%You nod and draw out your sword, the rest of the company following suit.%SPEECH_ON%You keep that in mind when we're killing the lot of you.%SPEECH_OFF%The leader smiles weakly as he draws his blade.%SPEECH_ON%It's quite alright. We'd rather die on freedom's doorstep than go back to that grind.%SPEECH_OFF% | The leader politely refuses to come back.%SPEECH_ON%We didn't choose this path lightly, sellsword. We're not coming back.%SPEECH_OFF%You order the %companyname% to draw out their weapons. The deserter's leader sighs, but nods understandingly.%SPEECH_ON%I suppose it is what it is. We talked of this, and we are prepared to die here, walking where we wish, than die out there on some dog's orders. This is all the world to us now.%SPEECH_OFF%Shrugging, you respond.%SPEECH_ON%Tis only business for us.%SPEECH_OFF%}",
+    "translation": "[img]gfx/ui/events/event_88.png[/img]{当逃兵们转身离开时，%motivator%走上前去，清了清嗓子。%SPEECH_ON%你们准备这就这样溜之大吉吗？像一群没有骨气的软蛋？我知道你们的感受。我知道你们认为没有参加这场战争或为了某个自以为是的贵族而冒险并不值得。那没错。但几年后当你在膝上轻轻摇晃着玩耍的孙子，他会问你关于你参加战争的问题。但你必须对那个小男孩撒谎。%SPEECH_OFF% | %motivator%将手指放在嘴唇上，发出一声尖叫。逃兵们朝他走过来，他开始讲话。%SPEECH_ON%你们准备好要故意让自己承担这个责任吗？等到那时，你将会告诉你的孩子们什么呢？你是一个不称职的逃兵，把同志留在了战场上送死？无疑，你的离开会导致许多人失去生命，你的缺席将产生你无法想象的后果！%SPEECH_OFF% | %motivator% 喊着叛军们。%SPEECH_ON%好吧，你们现在走。放下你们的旗帜，别再称之为战役了。那么当 %feudfamily% 赢得了这场战争，你们会怎么样呢？%SPEECH_OFF%其中一个叛军耸耸肩。%SPEECH_ON%他们不认识我，我要回去找我的家人和农场。%SPEECH_OFF%%motivator% 笑着摇头。%SPEECH_ON%这就是你的想法？当这些外国打手拜访你家、看见你的妻子、看见你的孩子时，你打算怎么办？你知道吗，这场战争到底是为了什么？你就这么傻吗？到时候你会变成无家可归的流浪汉！%SPEECH_OFF%}{叛军们思索一番，并最终同意跟你回到战营。 | 叛军们聚在一起商量了一下，达成了某种共识。他们的领袖迈步向前。%SPEECH_ON%虽然有人反对，但我们同意与你一同回到战营。我希望我不会后悔。%SPEECH_OFF% | 经过一段时间的讨论，叛军们进行了投票。虽然意见不是一致的，但他们达成了一致意见：他们将跟你一起回到%commander%。 | 逃兵们在讨论下一步应该怎么做。最终，他们开了一个投票。不出所料，投票结果是平局。接着，他们决定抛克朗：正面则返回营地，反面则离开。指挥官掷了硬币，所有人都看着硬币翻转、闪烁。硬币最终是正面朝上。所有人都松了一口气，仿佛是凭借运气和命运解除了一项极为沉重的责任，而那与他们的选择并无多大关系。}",
+    "stage": 1,
+    "context": "Text = \"[img]gfx/ui/events/event_88.png[/img]{%bigdog% steps forward, wheeling a weapon around over his shoulder with ease. He nods.%SPEECH_ON%You're afraid of %commander%. I get that. You know him, you know his temperament, and what he's capable of. Question is...%SPEECH_OFF%The sellsword grins, the wily smile reflected in the sheen of his blade.%SPEECH_ON%Do you know me?%SPEECH_OFF% | The deserters look about ready to leave when %bigdog% whistles loudly.%SPEECH_ON%Hey you shits, my commander gave you an order.%SPEECH_OFF%One of the deserter scoffs.%SPEECH_ON%Yeah? He ain't our farkin' commander so you can take that order and cram it.%SPEECH_OFF%%bigdog% draws out a huge blade and plants it in the ground. He tents his hands atop the pommel.%SPEECH_ON%You're afraid of %commander% and that's alright. But you keep on being a little shit, my friend, and we'll see just which commander you should have really been afraid of.%SPEECH_OFF% | The deserters turn to leave. %bigdog% takes out a huge blade and clangs it against his armor. Slowly, the deserters turn around. %bigdog% smiles.%SPEECH_ON%Any one of you ever pissed your pants?%SPEECH_OFF%One of the deserters shakes his head.%SPEECH_ON%H-hey man, get the fark out of here with that talk.%SPEECH_OFF%%bigdog% snatches up his blade and points the tip of it at the deserter.%SPEECH_ON%Oh, you want me shut up? Keep speaking to me like that and there won't be anybody talking here real soon.%SPEECH_OFF%}{The deserters cannot decide amongst themselves and put it to a vote. The choice to keep running carries the majority. Their leader informs you of this democratic result and bids you farewell. %commander% won't be happy, but you draw out your sword and tell the men there's only one other path for them to go. The leader turns around, unsheathing his blade and nodding.%SPEECH_ON%Alright, I figured you didn't come all this way just to hear us say goodbye. At arms, men.%SPEECH_OFF% | %commander% will hate it, but the deserters refuse to come back. They see no reason to jump back into the fray. You tell their leader good luck. He thanks you, but quickly falls silent as you draw out your weapon, the rest of the %companyname% following suit. The leader sighs.%SPEECH_ON%Yeah, I thought this is how it'd go.%SPEECH_OFF%You nod.%SPEECH_ON%Nothing personal. I don't care what you do, but this here is a matter of business and we have to see it to its conclusion.%SPEECH_OFF% | The deserters are unable to come to a decision so they turn to chance: their leader takes out a coin and flips it through the air. Heads they go back to camp, tails they keep on leaving. It lands tails. The deserters collectively breathe a sigh of relief. Their leader claps you on the shoulder.%SPEECH_ON%Fortune has decided our fates.%SPEECH_OFF%You nod and draw out your sword, the rest of the company following suit.%SPEECH_ON%You keep that in mind when we're killing the lot of you.%SPEECH_OFF%The leader smiles weakly as he draws his blade.%SPEECH_ON%It's quite alright. We'd rather die on freedom's doorstep than go back to that grind.%SPEECH_OFF% | The leader politely refuses to come back.%SPEECH_ON%We didn't choose this path lightly, sellsword. We're not coming back.%SPEECH_OFF%You order the %companyname% to draw out their weapons. The deserter's leader sighs, but nods understandingly.%SPEECH_ON%I suppose it is what it is. We talked of this, and we are prepared to die here, walking where we wish, than die out there on some dog's orders. This is all the world to us now.%SPEECH_OFF%Shrugging, you respond.%SPEECH_ON%Tis only business for us.%SPEECH_OFF%}\""
   }
 ]

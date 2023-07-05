@@ -3,7 +3,7 @@
     "ID": 293421497,
     "key": "An additional [color=",
     "original": "An additional [color=",
-    "translation": "额外的[color=",
+    "translation": "使用弓或弩时可造成额外的 [color=",
     "stage": 1,
     "context": "text = 'An additional [color=' + this.Const.UI.Color.PositiveValue + ']5%[/color] of damage ignores armor when using bows or crossbows'"
   },
@@ -27,7 +27,7 @@
     "ID": 293421500,
     "key": "]5%[/color] of damage ignores armor when using bows or crossbows",
     "original": "]5%[/color] of damage ignores armor when using bows or crossbows",
-    "translation": "]5%[/color]的伤害无视护甲（使用弓或弩）",
+    "translation": "]5%[/color] 无视护甲的伤害",
     "stage": 1,
     "context": "text = 'An additional [color=' + this.Const.UI.Color.PositiveValue + ']5%[/color] of damage ignores armor when using bows or crossbows'"
   },

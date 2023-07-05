@@ -11,7 +11,7 @@
     "ID": 293421541,
     "key": "This character's skin is hard and stone-like, granting [color=",
     "original": "This character's skin is hard and stone-like, granting [color=",
-    "translation": "这个角色的皮肤坚硬如石头，赋予[color=",
+    "translation": "这个角色的皮肤坚硬如石头，增加 [color=",
     "stage": 1,
     "context": "text = \"This character's skin is hard and stone-like, granting [color=\" + this.Const.UI.Color.PositiveValue + ']25[/color] points of natural armor'"
   },
@@ -19,7 +19,7 @@
     "ID": 293421542,
     "key": "This character's skin has mutated and now forms hard, rock-like patches that are much hardier and difficult to puncture. When broken, these patches will gradually reform in what is apparently a rather painful, uncomfortable process. You should tell them t",
     "original": "This character's skin has mutated and now forms hard, rock-like patches that are much hardier and difficult to puncture. When broken, these patches will gradually reform in what is apparently a rather painful, uncomfortable process. You should tell them to stop picking at that scab.",
-    "translation": "这个角色的皮肤发生了变异，现在形成了坚硬的、岩石般的斑块，更加坚韧难刺破。当这些斑块破裂时，它们会逐渐重新形成，这显然是一个相当痛苦、不舒服的过程。你应该告诉他们停止抠那个痂。",
+    "translation": "这个角色的皮肤发生了变异，现在形成了坚硬的、如岩石般的难以刺穿的斑块。当这些斑块破损时，它们会通过一个明显又疼又不舒服的过程逐渐重新形成。你应该告诉他不要再扣那个痂了。",
     "stage": 1,
     "context": "return \"This character's skin has mutated and now forms hard, rock-like patches that are much hardier and difficult to puncture. When broken, these patches will gradually reform in what is apparently a rather painful, uncomfortable process. You should tell them to stop picking at that scab.\";"
   },
@@ -27,7 +27,7 @@
     "ID": 293421543,
     "key": "]25[/color] points of natural armor",
     "original": "]25[/color] points of natural armor",
-    "translation": "]25[/color] 天生护甲点数",
+    "translation": "]25[/color] 天然护甲点数",
     "stage": 1,
     "context": "text = \"This character's skin is hard and stone-like, granting [color=\" + this.Const.UI.Color.PositiveValue + ']25[/color] points of natural armor'"
   },
@@ -35,7 +35,7 @@
     "ID": 293421544,
     "key": "Stone Skin",
     "original": "Stone Skin",
-    "translation": "石头皮肤",
+    "translation": "护体石肤",
     "stage": 1,
     "context": "this.m.Name = 'Stone Skin'"
   }
