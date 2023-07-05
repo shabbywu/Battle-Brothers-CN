@@ -102,5 +102,13 @@
     "translation": "[img]gfx/ui/events/event_143.png[/img]%chosenbrother% 测试冰面，把一只脚踩在池塘边的上。 一种柔和的颤音回荡在冰冷的池水深处，仿佛有人跳过了鼓鼓作响的岩石，穿过了这木桶形状的水面。 他回头看了看众人，耸耸肩。%SPEECH_ON%看起来还行。%SPEECH_OFF%他的下一步动作使他撞破了冰面。 当他伸手去抓取时一点东西的时候，碎片划破了他的手。 那些人迅速地扔给他一根绳子，把他拖了出来。\n\n 他浑身是血，瑟瑟发抖，%chosenbrother% 裹着毯子摇摇头。%SPEECH_ON%我－我－我－我相信这很－很－很－糟糕。 糟－糟－糟糕的主意，先生。%SPEECH_OFF%",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_143.png[/img]%chosenbrother% tries the ice, putting a foot right on the edge of the pond. A soft warble echoes across the pondwater's cold underbelly, as though someone had skipped a drumming rock across a barreled surface. He looks back at the party and shrugs.%SPEECH_ON%Seem's aight.%SPEECH_OFF%His next step sends him crashing through the ice. Shards break into a sort of chevron entrapment and when he reaches out to grab one it slices his hands. The men quickly throw him a rope and drag him out.\n\n Bloodied and shivering, %chosenbrother% shakes his head as he's wrapped in blankets.%SPEECH_ON%I-I-I-I believe that was aw-aw-aw-awful. Aw-aw-awful idea, sir.%SPEECH_OFF%\""
+  },
+  {
+    "ID": 317090615,
+    "key": "sha256:42088bb0bc0961cb29f41c4f4e3bf25ffcfd0a7f1413eeaab6d630e28000a113",
+    "original": "Impressive.",
+    "translation": "令人印象深刻。",
+    "stage": 1,
+    "context": "Text = \"Impressive.\""
   }
 ]

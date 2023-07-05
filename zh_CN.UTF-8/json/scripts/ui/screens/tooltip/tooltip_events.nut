@@ -3406,5 +3406,21 @@
     "translation": "特技",
     "stage": 1,
     "context": "text = 'Perks'"
+  },
+  {
+    "ID": 317090682,
+    "key": "sha256:c83bec1f02849a09edc642f2d4226774435f1233abc8b85f7d559ba9d022f570",
+    "original": "Fatigue",
+    "translation": "疲劳值",
+    "stage": 1,
+    "context": "text = \"Fatigue\""
+  },
+  {
+    "ID": 317090683,
+    "key": "sha256:91470cd754d5f19c71059cc2d78b2ce70f484ec1d702bd8cdcd11b4407615180",
+    "original": "Stash/Ground",
+    "translation": "仓库/地面",
+    "stage": 1,
+    "context": "text = \"Stash/Ground\""
   }
 ]

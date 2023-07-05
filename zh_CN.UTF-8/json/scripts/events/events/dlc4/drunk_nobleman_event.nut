@@ -11,8 +11,8 @@
     "ID": 293414263,
     "key": " has suffered",
     "original": " has suffered",
-    "translation": "遭受了",
-    "stage": 1,
+    "translation": "的关系受到了影响",
+    "stage": 5,
     "context": "text = 'Your relation to ' + f.getName() + ' has suffered'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "]+2[/color] Resolve",
     "original": "]+2[/color] Resolve",
     "translation": "]+2[/color] 决心",
-    "stage": 1,
+    "stage": 5,
     "context": "text = _event.m.Servant.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+2[/color] Resolve'"
   },
   {
@@ -180,7 +180,7 @@
     "key": "Your relation to ",
     "original": "Your relation to ",
     "translation": "你与",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Your relation to ' + f.getName() + ' has suffered'"
   },
   {
@@ -222,5 +222,21 @@
     "translation": "让我们看看他有什么。",
     "stage": 1,
     "context": "Text = \"Let's see what he had.\""
+  },
+  {
+    "ID": 317090629,
+    "key": "sha256:9630ad6ed27dd8a88308bf8756e9beaa72c798f2e2350ef507d1bc2b16325108",
+    "original": "%terrainImage%{You look back at the company, then unsheathe your sword as you turn around. You swing it up and clip the crossbow and the man shoots it just over your shoulder. You drive the blade down the slat of wood and cut the cords of the weapon and stab the steel into the man's chest. He goes down easy and you hear men shout in the distance, but they're scared and scampering away. Thieves like this know not to fight with sellswords. You collect whatever goods the man had already stolen up to this point.}",
+    "translation": "%terrainImage%{你回头看了看战团，然后在你转回来的时候一并拔出了剑。你把它举了起来，然后砍在了弩上，那人射击了，弩箭擦着你的肩膀飞了过去。 你把锋刃压了下来，绕过了板条直接砍断了弩弦，然后直接把剑刺入了男人的胸膛。 他顺理成章地倒下了，而你听见了不远处有一帮人在叫喊，但是他们是在尖叫，逃走。 像这样子的盗贼不知道该怎么和佣兵战斗。你拿走了那个人到目前为止偷走的所有的东西。}",
+    "stage": 1,
+    "context": "Text = \"%terrainImage%{You look back at the company, then unsheathe your sword as you turn around. You swing it up and clip the crossbow and the man shoots it just over your shoulder. You drive the blade down the slat of wood and cut the cords of the weapon and stab the steel into the man's chest. He goes down easy and you hear men shout in the distance, but they're scared and scampering away. Thieves like this know not to fight with sellswords. You collect whatever goods the man had already stolen up to this point.}\""
+  },
+  {
+    "ID": 317090630,
+    "key": "sha256:3210bf7b4663611c240a73ed564ad71d900e940d6e0a4ce5255eeb8e0dd07441",
+    "original": "Deal.",
+    "translation": "成交。",
+    "stage": 1,
+    "context": "Text = \"Deal.\""
   }
 ]

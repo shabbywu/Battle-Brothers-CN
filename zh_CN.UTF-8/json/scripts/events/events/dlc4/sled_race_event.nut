@@ -134,5 +134,21 @@
     "translation": "看起来 %shortsighted% 想来试试。",
     "stage": 1,
     "context": "Text = 'Looks like %shortsighted% is volunteering.'"
+  },
+  {
+    "ID": 317090632,
+    "key": "sha256:c2efaca40e325fd3d883bba3e8cbdaad6bcdc844f8ca8c536b9e4f8b8abe5540",
+    "original": "Ouch.",
+    "translation": "嗷。",
+    "stage": 1,
+    "context": "Text = \"Ouch.\""
+  },
+  {
+    "ID": 317090633,
+    "key": "sha256:6b4bac3a35d0ca02586255c2d1b90459a43d66d605602ebf175a8955ec6e4d5a",
+    "original": "[img]gfx/ui/events/event_143.png[/img]{%sledder% takes the sled from the mountain man.%SPEECH_ON%I'll beat ya to them rock dicks in proper time.%SPEECH_OFF%Everyone raises an eyebrow as he sets the sled down. He jacks his boots against its front and tips it toward the edge of the hillside.%SPEECH_ON%Ready when you are.%SPEECH_OFF%The mountain man gives a signal to start the race and the two zip down the snow in an instant. You're not sure if your sellsword played cheap, but the mountain man suddenly turns sideways and flips his sled and he goes rolling through the powder in a flail of beard and limbs. %sledder% meanwhile coasts to an easy victory. The company roars to the victory and carry him up the mountain on their shoulders. If the mercenary did cheat it doesn't show on the mountain man's face, he is just happy to have had raced at all.}",
+    "translation": "[img]gfx/ui/events/event_143.png[/img]{%sledder% 从山地人那拿过雪橇。%SPEECH_ON%我会在适当的时候把你打败。%SPEECH_OFF%当他固定好雪橇时，大家都纷纷挑了挑眉毛。 他把雪橇前头翘起来身子向着坡道倾斜。%SPEECH_ON%准备好了。%SPEECH_OFF%山地人发出信号，两人立即开始了比赛。你不确定你的人是否做了手脚，但是山地人突然偏离了赛道人仰马翻地摔了出去，雪沾了一身。与此同时 %sledder% 轻松取得了胜利。你的人欢呼着胜利并把他高举过头顶。 但如果你的人真作弊了，那在山地人的脸上是看不出来的，他只是很高兴他参加了比赛。}",
+    "stage": 1,
+    "context": "Text = \"[img]gfx/ui/events/event_143.png[/img]{%sledder% takes the sled from the mountain man.%SPEECH_ON%I'll beat ya to them rock dicks in proper time.%SPEECH_OFF%Everyone raises an eyebrow as he sets the sled down. He jacks his boots against its front and tips it toward the edge of the hillside.%SPEECH_ON%Ready when you are.%SPEECH_OFF%The mountain man gives a signal to start the race and the two zip down the snow in an instant. You're not sure if your sellsword played cheap, but the mountain man suddenly turns sideways and flips his sled and he goes rolling through the powder in a flail of beard and limbs. %sledder% meanwhile coasts to an easy victory. The company roars to the victory and carry him up the mountain on their shoulders. If the mercenary did cheat it doesn't show on the mountain man's face, he is just happy to have had raced at all.}\""
   }
 ]

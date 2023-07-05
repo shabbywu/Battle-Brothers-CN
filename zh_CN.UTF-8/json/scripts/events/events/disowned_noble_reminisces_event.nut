@@ -78,5 +78,13 @@
     "translation": "偶尔想家也没啥大不了的。",
     "stage": 1,
     "context": "Text = \"It's alright to think of home now and again.\""
+  },
+  {
+    "ID": 317090617,
+    "key": "sha256:cfb34cd37ffae3d674cdb2dd5d82faabbf48dc5cd4bb5f2581cdd1660da573ff",
+    "original": "Anytime.",
+    "translation": "随时可以。",
+    "stage": 1,
+    "context": "Text = \"Anytime.\""
   }
 ]

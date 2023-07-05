@@ -302,5 +302,19 @@
     "translation": "现在可以攻击玩家。",
     "stage": 1,
     "context": "this.logDebug('Player can now be attacked.')"
+  },
+  {
+    "ID": 317090680,
+    "key": "sha256:e52558f624f4bf6bea9384f2a04672b324b09644cfedeac8a057d0d4a017291a",
+    "original": "ENCAMPED",
+    "translation": "扎营中",
+    "stage": 5
+  },
+  {
+    "ID": 317090681,
+    "key": "sha256:5b5f8d4f6743c1f4215bcd899b25dae31631fb4d68e0d78043f8aa84902546b5",
+    "original": "PAUSED",
+    "translation": "已暂停",
+    "stage": 5
   }
 ]

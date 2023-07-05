@@ -70,5 +70,13 @@
     "translation": "[img]gfx/ui/events/event_33.png[/img]%graverobber% 把你带到一个大坑边上。 坑底露出半具骨架，手臂撑在地上，就好像是在打瞌睡。 空洞的眼眶却直勾勾地盯着你。 盗墓贼弯腰捡起什么东西。 甩掉上面的泥土又用衣服擦干净递给你。%SPEECH_ON%这东西我们能用得上。%SPEECH_OFF%你点头，叫他在被人发现之前快把墓填了。",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_33.png[/img]%graverobber% brings you to a big hole in the ground. The top half of a skeleton is at the bottom, its arms loose over the earth as though it had bedded there for a night's rest. Empty eye sockets look up at you. The graverobber crouches and grabs something. He wipes the mud and worms off it and hands it over.%SPEECH_ON%I think we can use that.%SPEECH_OFF%You nod, but tell the man to quickly fill the grave before anyone sees what he's done.\""
+  },
+  {
+    "ID": 317090656,
+    "key": "sha256:8c0fe2615e44db7e0f9708047193f6eea5e90331873812d64a08baec7fd89757",
+    "original": "Fascinating.",
+    "translation": "真不错。",
+    "stage": 1,
+    "context": "Text = \"Fascinating.\""
   }
 ]

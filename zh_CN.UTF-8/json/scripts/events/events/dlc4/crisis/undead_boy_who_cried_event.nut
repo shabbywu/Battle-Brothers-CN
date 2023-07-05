@@ -230,5 +230,13 @@
     "translation": "[img]gfx/ui/events/event_97.png[/img]{小心翼翼地，你回到男孩的家。 当你打开门看到一家人正在玩纸牌的时候，你转身抓住孩子的喉咙把他往墙上猛撞。 你把门踢上，这样没人能看见。 他父亲起身告诉你说，这是他儿子，你在粗暴对待他。 你告诉父亲把打他儿子的鞭子给你。 小心翼翼地，他照做了。 这一次，你自己惩罚这个孩子，当你完成的时候，他浑身是伤，哭得一塌糊涂。\n\n你把鞭子扔向那个蜷缩的孩子，告诉他的父母为你的时间付钱，告诉他们“佣兵从来都不是免费的。”}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_97.png[/img]{Warily, you return to the boy's home. The second you open the door to see the family enjoying a game of cards you to turn around and grab the kid by his throat and slam him against the wall. You kick the door closed so no one can see. The father gets up and tells you that's his son you're manhandling. You tell the father to give you the switch used to beat his boy. Cautiously, he does as told. This time, you punish the kid yourself and when you're finished he's a welted, weeping mess.\n\nYou throw the switch at the crumpled child and tell the parents to pay you for your time, informing them that a 'sellsword never works for free.'}\""
+  },
+  {
+    "ID": 317090628,
+    "key": "sha256:b356a126e4318643dbf54db33635cfdeb6f432960fe14752ab6caeec04b5dbfe",
+    "original": "Oh.",
+    "translation": "唉。",
+    "stage": 1,
+    "context": "Text = \"Oh.\""
   }
 ]

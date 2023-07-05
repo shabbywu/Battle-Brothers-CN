@@ -350,5 +350,13 @@
     "translation": "在靠近时……",
     "stage": 5,
     "context": "Title = 'Approaching...'"
+  },
+  {
+    "ID": 317090605,
+    "key": "sha256:3bb5ec4247872202890cefacb9b997503396ddd1bd02537b6bdb62ead448f06b",
+    "original": "Hrm.",
+    "translation": "嗯。",
+    "stage": 1,
+    "context": "Text = \"Hrm.\""
   }
 ]

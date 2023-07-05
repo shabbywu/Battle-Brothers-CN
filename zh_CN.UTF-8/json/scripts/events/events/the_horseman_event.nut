@@ -198,5 +198,13 @@
     "translation": "充分利用他的独特技能",
     "stage": 1,
     "context": "_event.m.Flagellant.improveMood(1.0, 'Put his unique skills to good use')"
+  },
+  {
+    "ID": 317090670,
+    "key": "sha256:b8ceaffb706c7ad0aabddd4a260fb57ce3a9089bf1f22976400c1dd1b505b3c0",
+    "original": "Whoops.",
+    "translation": "哎哟。",
+    "stage": 1,
+    "context": "Text = \"Whoops.\""
   }
 ]

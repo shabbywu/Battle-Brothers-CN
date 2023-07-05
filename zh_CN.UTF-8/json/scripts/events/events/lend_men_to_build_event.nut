@@ -158,5 +158,13 @@
     "translation": "你极力要求一个有影响的居民为你帮助建造的一座磨坊支付报酬",
     "stage": 1,
     "context": "this.World.FactionManager.getFaction(_event.m.Town.getFactions()[0]).addPlayerRelation(~this.Const.World.Assets.RelationFavor, 'You pressed hard an important citizen to get paid for helping build a mill')"
+  },
+  {
+    "ID": 317090665,
+    "key": "sha256:3cff56ee83df2dc0ccb9543782a2f13d90a23526920396dfd06ee9dc4d289f19",
+    "original": "Godspeed.",
+    "translation": "祝一路平安。",
+    "stage": 5,
+    "context": "Text = \"Godspeed.\""
   }
 ]

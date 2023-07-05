@@ -134,5 +134,13 @@
     "translation": "你让一个男孩被意外的烧死了",
     "stage": 1,
     "context": "bro.worsenMood(0.5, 'You had a boy burned by accident')"
+  },
+  {
+    "ID": 317090616,
+    "key": "sha256:3a88d09491d095899d0529c4f5a15b8c15cd815e671cf9ceb4f19a60f3190a89",
+    "original": "Gross.",
+    "translation": "恶心。",
+    "stage": 1,
+    "context": "Text = \"Gross.\""
   }
 ]

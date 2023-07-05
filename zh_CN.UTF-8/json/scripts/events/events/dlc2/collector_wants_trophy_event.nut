@@ -30,5 +30,13 @@
     "translation": "在 %townname%",
     "stage": 1,
     "context": "this.m.Title = 'At %townname%'"
+  },
+  {
+    "ID": 317090620,
+    "key": "sha256:3210bf7b4663611c240a73ed564ad71d900e940d6e0a4ce5255eeb8e0dd07441",
+    "original": "Deal.",
+    "translation": "成交。",
+    "stage": 1,
+    "context": "Text = \"Deal.\""
   }
 ]

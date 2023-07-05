@@ -38,5 +38,37 @@
     "translation": "未能突破针对%s的围攻",
     "stage": 5,
     "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/break_greenskin_siege_contract.nut\",\n    \"location\": \"createScreens::getResult[11]\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
+  },
+  {
+    "ID": 317090594,
+    "key": "\"Will heal in \" + ht.Min + \" days\"",
+    "original": "\"Will heal in \" + ht.Min + \" days\"",
+    "translation": "会在 %s 天后痊愈",
+    "stage": 1,
+    "context": "{\n    \"sourcename\": \"scripts/skills/injury/injury.nut\",\n    \"location\": \"addTooltipHint\",\n    \"type\": \"AddExprReplaceImpl\",\n    \"local_variables\": [\n        \"ht\"\n    ]\n}"
+  },
+  {
+    "ID": 317090595,
+    "key": "\"Will heal in \" + ht.Min + \" to \" + ht.Max + \" days\"",
+    "original": "\"Will heal in \" + ht.Min + \" to \" + ht.Max + \" days\"",
+    "translation": "会在 %s 到 %s 天内痊愈",
+    "stage": 1,
+    "context": "{\n    \"sourcename\": \"scripts/skills/injury/injury.nut\",\n    \"location\": \"addTooltipHint\",\n    \"type\": \"AddExprReplaceImpl\",\n    \"local_variables\": [\n        \"ht\"\n    ]\n}"
+  },
+  {
+    "ID": 317090596,
+    "key": "\"Will be gone in \" + ht.Min + \" days\"",
+    "original": "\"Will be gone in \" + ht.Min + \" days\"",
+    "translation": "会在 %s 天后消失",
+    "stage": 1,
+    "context": "{\n    \"sourcename\": \"scripts/skills/injury/injury.nut\",\n    \"location\": \"addTooltipHint\",\n    \"type\": \"AddExprReplaceImpl\",\n    \"local_variables\": [\n        \"ht\"\n    ]\n}"
+  },
+  {
+    "ID": 317090597,
+    "key": "\"Will be gone in \" + ht.Min + \" to \" + ht.Max + \" days\"",
+    "original": "\"Will be gone in \" + ht.Min + \" to \" + ht.Max + \" days\"",
+    "translation": "会在 %s 到 %s 天内消失",
+    "stage": 1,
+    "context": "{\n    \"sourcename\": \"scripts/skills/injury/injury.nut\",\n    \"location\": \"addTooltipHint\",\n    \"type\": \"AddExprReplaceImpl\",\n    \"local_variables\": [\n        \"ht\"\n    ]\n}"
   }
 ]

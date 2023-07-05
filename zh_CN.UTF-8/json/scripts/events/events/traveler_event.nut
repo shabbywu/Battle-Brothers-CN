@@ -390,5 +390,29 @@
     "translation": "我不知道。",
     "stage": 1,
     "context": "Text = \"I don't know.\""
+  },
+  {
+    "ID": 317090671,
+    "key": "sha256:f4c4d8762552842b974d910b43e47c21cc5fffee74e3ef569bda8d697a86e8d4",
+    "original": "Aye.",
+    "translation": "嗯。",
+    "stage": 1,
+    "context": "Text = \"Aye.\""
+  },
+  {
+    "ID": 317090672,
+    "key": "sha256:f3c093c166d451bbdbe09c96841e9991d4e39241aa4f8c0b33551c37b0dbf6b7",
+    "original": "Indeed.",
+    "translation": "的确。",
+    "stage": 1,
+    "context": "Text = \"Indeed.\""
+  },
+  {
+    "ID": 317090673,
+    "key": "sha256:3ccdaf3cabf0fa269c174f983909bfa45074f91d76e11a5072a2c3a2ffb6ad42",
+    "original": "Interesting.",
+    "translation": "有趣。",
+    "stage": 1,
+    "context": "Text = \"Interesting.\""
   }
 ]

@@ -198,5 +198,13 @@
     "translation": "工作而已。",
     "stage": 1,
     "context": "Text = \"All in a day's work.\""
+  },
+  {
+    "ID": 317090651,
+    "key": "sha256:92a4d807a675d81f9df436217666c98a4e02b6401cd963f0f944c8f8a71de30a",
+    "original": "Fark.",
+    "translation": "操蛋。",
+    "stage": 1,
+    "context": "Text = \"Fark.\""
   }
 ]

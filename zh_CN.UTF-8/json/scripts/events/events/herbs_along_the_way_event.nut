@@ -78,5 +78,13 @@
     "translation": "[/color] 医疗用品",
     "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + amount + '[/color] Medical Supplies'"
+  },
+  {
+    "ID": 317090658,
+    "key": "sha256:786f5db6b7ac7bd8bbc2dbe70468be0c0a7bd6c5397859da5fca86ae0e92c530",
+    "original": "Ewww.",
+    "translation": "额。",
+    "stage": 1,
+    "context": "Text = \"Ewww.\""
   }
 ]

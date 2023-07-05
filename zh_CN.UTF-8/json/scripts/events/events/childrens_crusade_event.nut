@@ -166,5 +166,13 @@
     "translation": "在路上……",
     "stage": 5,
     "context": "this.m.Title = 'Along the road...'"
+  },
+  {
+    "ID": 317090609,
+    "key": "sha256:3cff56ee83df2dc0ccb9543782a2f13d90a23526920396dfd06ee9dc4d289f19",
+    "original": "Godspeed.",
+    "translation": "祝一路平安。",
+    "stage": 5,
+    "context": "Text = \"Godspeed.\""
   }
 ]

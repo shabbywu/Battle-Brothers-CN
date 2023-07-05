@@ -118,5 +118,13 @@
     "translation": "当你接近时……",
     "stage": 5,
     "context": "this.m.Title = 'As you approach...'"
+  },
+  {
+    "ID": 317090625,
+    "key": "sha256:312077aeee21970ce5a358aed9ca2136aec1547be5c1fb501b0b03b7f6c6b936",
+    "original": "[img]gfx/ui/events/event_109.png[/img]{The waterwheel totters at the hinges as its buckets dip and draw water. Attached to its side is a stonewalled abode with a chimney piping bulbs of black. There are pelts and traps hanging outside on the walls, and an oaken chair sets on the porch. Its windows are too blurry to look through, but you can hear the mill inside rising and churning with wooden groans. Drawing your sword, you step up to the porch and open the door.\n\n A man welcomes you in the first and only room there is. He's standing beside the mill well, running his hand through the grains. He is an elderly fellow yet of modest stature, as though time had no warrant for his posture or abilities. There is a sword hilt hanging above the fireplace, and its glint is unmistakably rich and the old man regards your stare with a warm smile.%SPEECH_ON%Only those who are worthy may have the hilt of the %weapon%. Only those who avenge my son and bring me his blade will be worthy. To do that, you would need to find the beast.%SPEECH_OFF%}",
+    "translation": "[img]gfx/ui/events/event_109.png[/img]{水车架在铰链上摇摆，水桶起伏摆水。水车一侧连接着一个石墙住所，一根黑烟直冒的烟囱上面。墙外挂着皮毛和捕兽器，门廊上放着一把橡木椅。窗户模糊不清，只能听到木头发出的嘎吱声。抽出剑，走到门廊前打开了门。\n\n只有一间屋子，门口迎接你的是一个老人。他站在水磨旁边，手指间碾着麦粒。他年事已高，个头不高，好像时间对其不起作用。壁炉上方吊着一把剑柄，其光泽毫无疑问非常富饶，老人用温暖的微笑看着你的目光。%SPEECH_ON%只有那些值得的人才能拥有%weapon%的剑柄。只有那些为我的儿子报仇，并将他的剑带给我，才是有价值的人。为此，你需要找到那个野兽。%SPEECH_OFF%}",
+    "stage": 1,
+    "context": "Text = \"[img]gfx/ui/events/event_109.png[/img]{The waterwheel totters at the hinges as its buckets dip and draw water. Attached to its side is a stonewalled abode with a chimney piping bulbs of black. There are pelts and traps hanging outside on the walls, and an oaken chair sets on the porch. Its windows are too blurry to look through, but you can hear the mill inside rising and churning with wooden groans. Drawing your sword, you step up to the porch and open the door.\n\n A man welcomes you in the first and only room there is. He's standing beside the mill well, running his hand through the grains. He is an elderly fellow yet of modest stature, as though time had no warrant for his posture or abilities. There is a sword hilt hanging above the fireplace, and its glint is unmistakably rich and the old man regards your stare with a warm smile.%SPEECH_ON%Only those who are worthy may have the hilt of the %weapon%. Only those who avenge my son and bring me his blade will be worthy. To do that, you would need to find the beast.%SPEECH_OFF%}\""
   }
 ]

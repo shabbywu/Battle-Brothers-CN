@@ -94,5 +94,13 @@
     "translation": "未能教导。",
     "stage": 1,
     "context": "_event.m.Scholar.worsenMood(2.0, 'Failed to teach ' + _event.m.DumbGuy.getName() + ' anything')"
+  },
+  {
+    "ID": 317090653,
+    "key": "sha256:8c0fe2615e44db7e0f9708047193f6eea5e90331873812d64a08baec7fd89757",
+    "original": "Fascinating.",
+    "translation": "真不错。",
+    "stage": 1,
+    "context": "Text = \"Fascinating.\""
   }
 ]

@@ -174,5 +174,13 @@
     "translation": "你获得了",
     "stage": 1,
     "context": "text = 'You gain ' + item.getName()"
+  },
+  {
+    "ID": 317090652,
+    "key": "sha256:d84ecce8ee736e86c957c10d5ea883595e547b05f2ab505e1e7d8aaa657e54dd",
+    "original": "Oof.",
+    "translation": "唉。",
+    "stage": 1,
+    "context": "Text = \"Oof.\""
   }
 ]

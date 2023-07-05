@@ -158,5 +158,13 @@
     "translation": "那么我们要帮他。",
     "stage": 1,
     "context": "Text = \"In that case we're going to help him.\""
+  },
+  {
+    "ID": 317090643,
+    "key": "sha256:fa6bb507275539764d28626ec38495b292f2c405017ac0dc77e3a1336c41355a",
+    "original": "Alright.",
+    "translation": "行吧。",
+    "stage": 1,
+    "context": "Text = \"Alright.\""
   }
 ]

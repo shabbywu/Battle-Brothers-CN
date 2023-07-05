@@ -230,5 +230,13 @@
     "translation": "[/color] 主动性",
     "stage": 1,
     "context": "text = _event.m.Witchhunter.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + initiative + '[/color] Initiative'"
+  },
+  {
+    "ID": 317090669,
+    "key": "sha256:bc20304b7817290a41ff998d2981181ed35cd240fca096533dd6a15b37192c88",
+    "original": "Disturbing.",
+    "translation": "让人不安。",
+    "stage": 1,
+    "context": "Text = \"Disturbing.\""
   }
 ]

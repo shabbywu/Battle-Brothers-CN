@@ -246,5 +246,13 @@
     "translation": "[img]gfx/ui/events/event_33.png[/img]你说服自己不要参加这场挖掘计划，接着做手上的活计。 时间悄悄走过，飞蛾绕着烛火飞舞，透明的火焰不时灼烧着这小东西的翅膀。 终于，%graverobber% 回来了，怀里抱着一个箱子走进帐篷。 他满身都是泥。%SPEECH_ON%我弄到了，先生！%SPEECH_OFF%盗墓贼神经兮兮地回头看了一眼，又开口了，这次他的声音低了一点。%SPEECH_ON%我弄到了…我把东西全弄来了。 这样，我会分你一点。 我是说，虽然你没有帮我躲过巡逻队，没有帮我挖土，也没帮我把尸体拽出来，帮我抬出箱子，帮我把棺材放回去，帮我填土，帮我再一次躲过巡逻队，再把这箱子一路拖回营地…不过你好歹让我去了！%SPEECH_OFF%",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_33.png[/img]Having excused yourself from the excavating expedition, you get back to work. Time flies, millmoths arcing in rote loops about a candle that droops lower and lower, its glassy flame so easily flicked to the wingbeats of the creatures about it. Finally, %graverobber% returns, heaving a bit of a chest into the tent. He looks more mud than man.%SPEECH_ON%I got it, sir!%SPEECH_OFF%The graverobber quickly looks behind himself, then says again, his voice a bit quieter this time.%SPEECH_ON%I got it... I got all of it. Look, I'll split it with you. I mean, you didn't help me avoid the watchman, or shovel up the earth, or drag the body out, or drag the chest out, or put the coffin back in its place, or put the dirt back on the coffin, or avoid the watchman a second time, or drag the chest all the way into camp... but you did let me do it!%SPEECH_OFF%\""
+  },
+  {
+    "ID": 317090657,
+    "key": "sha256:8544eef9f48cb7bb4caa97958b094969c6b660c513927c56a906080a513f6881",
+    "original": "Embarrassing.",
+    "translation": "丢人了。",
+    "stage": 1,
+    "context": "Text = \"Embarrassing.\""
   }
 ]

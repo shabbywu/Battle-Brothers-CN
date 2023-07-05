@@ -46,5 +46,13 @@
     "translation": "你获得了",
     "stage": 5,
     "context": "text = 'You gain ' + this.Const.Strings.getArticle(item.getName()) + item.getName()"
+  },
+  {
+    "ID": 317090598,
+    "key": "sha256:cccd2e909950ad5905d7c68ed4c241b48c54593d2fbcc63a9ec4e5d16cf0a780",
+    "original": "Excellent.",
+    "translation": "极好的。",
+    "stage": 1,
+    "context": "this.m.SuccessButtonText = \"Excellent.\""
   }
 ]

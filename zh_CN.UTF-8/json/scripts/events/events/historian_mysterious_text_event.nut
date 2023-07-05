@@ -110,5 +110,13 @@
     "translation": "有一次愉快的超自然体验",
     "stage": 1,
     "context": "bro.improveMood(1.0, 'Had a pleasurable supernatural experience')"
+  },
+  {
+    "ID": 317090659,
+    "key": "sha256:784e478d5f769e491aa63b4f344409bea8570cb991dd9ee3f8300851664dd864",
+    "original": "Incredible.",
+    "translation": "难以置信。",
+    "stage": 1,
+    "context": "Text = \"Incredible.\""
   }
 ]

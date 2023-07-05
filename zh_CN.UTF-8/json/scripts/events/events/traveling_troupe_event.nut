@@ -142,5 +142,29 @@
     "translation": "喜欢打巡回演出团",
     "stage": 1,
     "context": "bro.improveMood(1.0, 'Enjoyed beating up a traveling troupe')"
+  },
+  {
+    "ID": 317090674,
+    "key": "sha256:31b9ac0e573ad3eed0447cc58d4258e80a7be1b5fdb30323bbeb3fdfeb618ff4",
+    "original": "Beautiful.",
+    "translation": "漂亮。",
+    "stage": 1,
+    "context": "Text = \"Beautiful.\""
+  },
+  {
+    "ID": 317090675,
+    "key": "sha256:d34d6c96699842747ef3031a69bbfb7c92cdabf8e91170b1864d692582347498",
+    "original": "Bye.",
+    "translation": "再见。",
+    "stage": 1,
+    "context": "Text = \"Bye.\""
+  },
+  {
+    "ID": 317090676,
+    "key": "sha256:f51bead488e14b656af3a13e33eb1d6fa9580832cbb9d7a20061f84c4b1c160f",
+    "original": "Thanks.",
+    "translation": "谢谢。",
+    "stage": 1,
+    "context": "Text = \"Thanks.\""
   }
 ]
