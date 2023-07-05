@@ -118,5 +118,13 @@
     "translation": "[/color] 克朗",
     "stage": 5,
     "context": "text = 'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']' + 10 * this.World.getPlayerRoster().getSize() + '[/color] Crowns'"
+  },
+  {
+    "ID": 317090677,
+    "key": "sha256:ab292295f98a5a22671cead00b0ed0010064386e1f78d6d68a78d035f18ef324",
+    "original": "[img]gfx/ui/events/event_40.png[/img]You hold your hand up, stopping the monk before he can get going again. He sighs, slowly lowering the reins out of his hand. Feeling as though he may be getting the wrong impression, you quickly ask if maybe he has beer to spare for your men. You are more than willing to pay. The monk looks back at his stock for a moment, then turns around.%SPEECH_ON%Aye. Damn it to hells if the gods wouldn't be happy with yer money crossin' m'palms. If ye fight the good fight, then I bid you to take some for free, but not all of it of course.%SPEECH_OFF%You thank the monk for his generosity and order you men to be modest with their drinking. As a few brothers circle around to the cask, the monk throws his hands up.%SPEECH_ON%Don't mind the bees 'round the top, they'll scurry when you come, but if you scurry when they scurry, they'll scurry after ya. Strange little gits.%SPEECH_OFF%",
+    "translation": "[img]gfx/ui/events/event_40.png[/img]你举起了你的手，在僧侣再次上路之前拦下了他。 他叹了口气，慢慢地放下了手中的缰绳。 你感觉到他好像会错了你的意，因此你马上问他有没有些啤酒能够分给你的人。 你很乐意付钱。 僧侣回头看了看他的存货，然后转了过来。%SPEECH_ON%是啊。如果上帝不高兴我拿你的钱，那就去他的吧。 如果你打了一场好仗，那么我请你免费喝一些，但肯定不是全部。%SPEECH_OFF%你谢过了僧侣的慷慨，并且命令你的人喝的时候都诚实一点。 当几个兄弟围在桶边的时候，僧侣举起了他的手。%SPEECH_ON%别在意绕着顶上转悠的蜜蜂，你来的时候它们很快就会跑了，但是如果当它们跑了的时候你跑了，它们就会快速地追着你跑。奇怪的小家伙。%SPEECH_OFF%",
+    "stage": 1,
+    "context": "Text = \"[img]gfx/ui/events/event_40.png[/img]You hold your hand up, stopping the monk before he can get going again. He sighs, slowly lowering the reins out of his hand. Feeling as though he may be getting the wrong impression, you quickly ask if maybe he has beer to spare for your men. You are more than willing to pay. The monk looks back at his stock for a moment, then turns around.%SPEECH_ON%Aye. Damn it to hells if the gods wouldn't be happy with yer money crossin' m'palms. If ye fight the good fight, then I bid you to take some for free, but not all of it of course.%SPEECH_OFF%You thank the monk for his generosity and order you men to be modest with their drinking. As a few brothers circle around to the cask, the monk throws his hands up.%SPEECH_ON%Don't mind the bees 'round the top, they'll scurry when you come, but if you scurry when they scurry, they'll scurry after ya. Strange little gits.%SPEECH_OFF%\""
   }
 ]

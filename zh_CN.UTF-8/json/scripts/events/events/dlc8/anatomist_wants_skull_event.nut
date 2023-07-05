@@ -222,5 +222,13 @@
     "translation": "成功从农民那里盗取了物品。",
     "stage": 1,
     "context": "_event.m.Thief.improveMood(1.0, 'Successfully stole from the peasantry')"
+  },
+  {
+    "ID": 317090646,
+    "key": "sha256:7f2302c86d005fed4397eef4134c2c03eb6324268449f5cf97595e6307942c31",
+    "original": "Hmm.",
+    "translation": "嗯。",
+    "stage": 1,
+    "context": "Text = \"Hmm.\""
   }
 ]

@@ -270,5 +270,29 @@
     "translation": "[img]gfx/ui/events/event_31.png[/img]如果你是城堡里被追杀的地精，你会去哪里？ 把你自己想象成一个小不点，你会得出结论，武器库将是你开始搜寻的最佳地点。 当你到了那里，你发现一个学徒站在门外，试图把门关上。 他大叫地说地精在里面，并且已经杀死了铁匠。 拔出你的利刃，你让学徒站到一边。\n\n 又一次的，门就被撞开了，一个像破桶做的稻草人模样的地精跌跌撞撞地走了出来，从头到脚全副武装，前面笨拙地拿着盾牌和长矛。 无视所见的荒谬，你趁乱而上，刺穿这个畜生的头颅，立刻杀死它。 当你拔出剑的时候，所有的盔甲和武器都掉了下来，就好像你杀死了一个举着它们的幽灵。\n\n 学徒很快握了握你的手，然后跪倒在地，为失去铁匠而哭泣。 没时间流眼泪了，你拿着地精的头，回到 %nobleman% 那里领取奖赏。",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_31.png[/img]If you were a goblin in a castle of people wanting to kill you, where would you go? Putting yourself in the mind of the runt, you come to the conclusion that the armory would be as good a place as any to start your search. When you get there, you do find an apprentice standing outside and trying to hold the door shut. He yells that the goblin is inside and has already killed the blacksmith. Drawing your blade, you tell the apprentice to stand aside.\n\n The second he does, the door bursts open and a goblin, shaped like a scarecrow built out of broken buckets, shambles out, armored head-to-toe, a shield and spear clumsily stationed at its front. Ignoring the absurdity of what is being seen, you strike through the clutter and pierce the beast's skull, instantly killing it. When you withdraw your sword, all the armor and weapons fall away as though you'd just slain an apparition holding them up.\n\n The apprentice quickly shakes your hand before falling to his knees, weeping over the loss of the blacksmith. With no time for tears, you take the goblin's head and return to %nobleman% for your pay.\""
+  },
+  {
+    "ID": 317090611,
+    "key": "sha256:b356a126e4318643dbf54db33635cfdeb6f432960fe14752ab6caeec04b5dbfe",
+    "original": "Oh.",
+    "translation": "噢。",
+    "stage": 1,
+    "context": "Text = \"Oh.\""
+  },
+  {
+    "ID": 317090612,
+    "key": "sha256:65127a27c9ca99d3ff86ddae402a307f128302dd11abeab7ebfedeaa00f6f23f",
+    "original": "That was easy.",
+    "translation": "这很简单。",
+    "stage": 1,
+    "context": "Text = \"That was easy.\""
+  },
+  {
+    "ID": 317090613,
+    "key": "sha256:3cbd8e84ba0409075f67a498e7a5e16f7039c8340e0e5a56502056daf4a67263",
+    "original": "Your secret is safe with me. ",
+    "translation": "我会为你保密的。",
+    "stage": 1,
+    "context": "Text = \"Your secret is safe with me. \""
   }
 ]

@@ -198,5 +198,13 @@
     "translation": "让我们走近点看看。",
     "stage": 1,
     "context": "Text = \"Let's take a closer look.\""
+  },
+  {
+    "ID": 317090614,
+    "key": "sha256:2b42eb2d1982ee5b3aa7aae6234890879a0ea65904d00a99fe8d29ef2e5ec018",
+    "original": "Goddammit.",
+    "translation": "该死。",
+    "stage": 1,
+    "context": "Text = \"Goddammit.\""
   }
 ]

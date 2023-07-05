@@ -118,5 +118,13 @@
     "translation": "[img]gfx/ui/events/event_55.png[/img]商人在你面前很害怕，但你很快消除了他的恐惧。 几个队员奉命把货车拉回到小路上。 这些吃苦耐劳的人尽可能快的去完成，但是当快要完事的时候，他们中的一个人大声惨叫而且声音越来越大。\n\n商人瞪大了眼睛，眼中充满了新的恐惧，他迅速地给你提供了一些补给品，以表示他的感激之情。 也许他认为你会因为队员受伤而惩罚他？ 无论如何，在未来的日子里，这些补给品将是一个很好的补充。",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_55.png[/img]The merchant is scared in your presence, but you quickly disarm him of his fears. A few brothers are ordered to get the cart back onto the path. They do it as fast as hardy men can, but when it's over one of them cries out and doubles over.\n\nThe trader, eyes wide with renewed horror, quickly offers you some provisions as a token of his gratitude. Maybe he thinks you'll punish him for the injuries? Regardless, the supplies will be a welcome addition for the days to come.\""
+  },
+  {
+    "ID": 317090608,
+    "key": "sha256:52ea67359dfa70ce35169fd2493590d8371919161a7fb2e28e322863448b9a87",
+    "original": "Farewell.",
+    "translation": "再会。",
+    "stage": 1,
+    "context": "Text = \"Farewell.\""
   }
 ]

@@ -158,5 +158,13 @@
     "translation": " 遭受 ",
     "stage": 5,
     "context": "text = _event.m.Asthmatic.getName() + ' suffers ' + injury.getNameOnly()"
+  },
+  {
+    "ID": 315253936,
+    "key": "sha256:eecbc19e63c403787c13938f4b6047713d2ab2ee2cee6bf14980ba9c22a02efc",
+    "original": "Surely...",
+    "translation": "对吧......",
+    "stage": 1,
+    "context": "Text = \"Surely...\""
   }
 ]

@@ -110,5 +110,13 @@
     "translation": " 遭受 ",
     "stage": 5,
     "context": "text = _event.m.Clubfooted.getName() + ' suffers ' + injury.getNameOnly()"
+  },
+  {
+    "ID": 317090644,
+    "key": "sha256:aec09adb3f53c27d041653e917dd22d8e95fc3a5395ba5e5fa7c39a9eb9d7af8",
+    "original": "Aaaaahh.",
+    "translation": "哎呀呀。",
+    "stage": 1,
+    "context": "Text = \"Aaaaahh.\""
   }
 ]

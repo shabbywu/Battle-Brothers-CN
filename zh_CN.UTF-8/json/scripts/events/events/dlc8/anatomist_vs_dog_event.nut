@@ -126,5 +126,13 @@
     "translation": "[img]gfx/ui/events/event_27.png[/img]{%anatomist% 解剖学家过来找你，提出了一个可怕的想法：他想取一只战团的狗来进行解剖。你问他是否是打算杀死这只狗。他摇头示意在两个选择之间权衡。%SPEECH_ON%我认为在我们开始解剖之前，最好让这只狗已经去世了。%SPEECH_OFF%解剖学家解释说，狗用于研究并不罕见，并且这种要求将有助于更好地理解不怕狼，而不怕狼显然和狗有着某种关系。你无法想象屠杀战团的狗会和其他士兵相处的好，于是让他去找几百只懒散四处游荡的狗之一。他摇着头。%SPEECH_ON%所有的狗几乎可以肯定都是不怕狼的同类，但是一只战斗狗却是不同种，而且几乎可以确定是最接近这个问题的犬种。%SPEECH_OFF%}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_27.png[/img]{%anatomist% the anatomist comes up to you with a horrific idea: he wants to take one of the company's dogs and open it up. Just to be sure, you ask him if he means to kill the dog. He throws his head side to side as though to weigh the options.%SPEECH_ON%I believe from the canine's perspective it would be best if it had expired before we go dissecting it.%SPEECH_OFF%The anatomist explains that the use of dogs for studies isn't unusual, and that this requirement will be for the betterment of understanding direwolves which, by some long stretch, a dog is no doubt related. You can't imagine the slaughtering of a company dog will go well with the rest of the men and tell him to find one of the hundreds of mangy mutts moping around. He shakes his head.%SPEECH_ON%All dogs are almost assuredly cousin to the direwolf, but a fighting dog is of a different breed, and most assuredly the closest to the matter at heart.%SPEECH_OFF%}\""
+  },
+  {
+    "ID": 317090645,
+    "key": "sha256:712f8db5082e713d3db71cf5207c34625f66f3d769b7f86882c127f2947f9afd",
+    "original": "Oops.",
+    "translation": "哎哟。",
+    "stage": 1,
+    "context": "Text = \"Oops.\""
   }
 ]

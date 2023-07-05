@@ -254,5 +254,21 @@
     "translation": "[img]gfx/ui/events/event_111.png[/img]{最后一个瓶子在另一个门后面，从建筑角度看，这个门令人不安。这里不仅有石头条，还有扭曲的铁钩及受过伤的火山渣和矿渣，门不在胸部高度，而是在你的脚踝处。瓶子本身在进一步的高处，这意味着你必须把手伸到墙下，再次抬起来才能得到它。声音回来了。%SPEECH_ON%一切都从我而来，一切最终都将是我。当人类走过这片大地时，我会跟随他的脚步。%SPEECH_OFF%你站在沉默中，看着%volunteer%。他耸了耸肩。}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_111.png[/img]{The last vial is behind another gate, an unsettling one to look at just by an architectural standpoint. There are not mere stone bars here, but twisted iron spires scarred with scoria and slag, and the gate is not at chest level, but at your shins. The vial itself is on a further rise, meaning you'd have to reach under the wall and then up again to get it. The voice returns.%SPEECH_ON%From me all comes to being, from me all shall be in the end. When man crosses the earth, I follow in his footsteps.%SPEECH_OFF%You stand in the silence and look over at %volunteer%. He shrugs.}\""
+  },
+  {
+    "ID": 317090622,
+    "key": "sha256:20614add2cfbb47b361d489f26189a2d42868e43fc676a1a748f05f43165c273",
+    "original": "Dust.",
+    "translation": "有灰尘。",
+    "stage": 1,
+    "context": "Text = \"Dust.\""
+  },
+  {
+    "ID": 317090623,
+    "key": "sha256:fbd7e2ca843788ab781a7bc4500231379b92183a2f2549608d2b1b0739784ed9",
+    "original": "[img]gfx/ui/events/event_111.png[/img]{As soon as the word leaves your lips the gate jolts up. You pensively stare at the remaining gap. %volunteer% crouches down and slings his arm under the gateway's top and gets up at the vial. His fingers scrape its glass while the gate's spires rattle in their catches like a bear reluctantly letting someone brush its teeth. The man finally pinches the vial between two fingers and scissor-flips it into the safe embrace of his palm. He stands up and hands it over.%SPEECH_ON%Simple enough, eh?%SPEECH_OFF%You nod but then turn around with your torch and yell out, demanding to know who was talking. There is no answer. A brief search in the darkness turns up no hidey-holes or dugouts, but you do find scraps and notes with drawings on them. The pages seem to indicate the vials are capable of killing wiedergangers with but a single touch of the liquid within each flask. There is also a sticky paper with a crudely drawn woman on it. Whoever was here, you don't care. You take the vials back out and return to the %companyname%. They draw swords at the sound of you, then sheepishly sheathe them once they see your face.%SPEECH_ON%Sorry captain, thought ya a mite dead. And walking. A walking dead man.%SPEECH_OFF%}",
+    "translation": "[img]gfx/ui/events/event_111.png[/img]{你刚说完，大门便砰然上升。你默默地看着剩下的缝隙。%volunteer%蹲下来，把手伸到门顶下面，试图拿到瓶子。他用手指刮着它的玻璃，而大门的尖顶则像一只熊在不情愿地让人刷牙时开始零散颤抖。男人终于用两根手指掐住了瓶子，并反手接住了它。他站起来，把瓶子递给你。%SPEECH_ON%很简单，对吧？%SPEECH_OFF%你点了点头，然后转身用火炬喊道，大声要求知道谁在说话。没有回答。在黑暗中进行了简短的搜索，没有发现藏身之处，但找到了一些零碎的纸条和画有图案的笔记。这些页面似乎表明这些瓶子只需注入液体即可杀死亡灵。还有一张有一个丑陋的女人画上去的黏纸。你并不在乎谁在这里，你把瓶子拿出来回到了%companyname%。他们一听到你的声音就拔出剑，但看到你的脸后就羞怯地把剑又插回了鞘中。%SPEECH_ON%对不起，船长，以为你已经死了。还好你只是一个行走的死尸。%SPEECH_OFF%}",
+    "stage": 1,
+    "context": "Text = \"[img]gfx/ui/events/event_111.png[/img]{As soon as the word leaves your lips the gate jolts up. You pensively stare at the remaining gap. %volunteer% crouches down and slings his arm under the gateway's top and gets up at the vial. His fingers scrape its glass while the gate's spires rattle in their catches like a bear reluctantly letting someone brush its teeth. The man finally pinches the vial between two fingers and scissor-flips it into the safe embrace of his palm. He stands up and hands it over.%SPEECH_ON%Simple enough, eh?%SPEECH_OFF%You nod but then turn around with your torch and yell out, demanding to know who was talking. There is no answer. A brief search in the darkness turns up no hidey-holes or dugouts, but you do find scraps and notes with drawings on them. The pages seem to indicate the vials are capable of killing wiedergangers with but a single touch of the liquid within each flask. There is also a sticky paper with a crudely drawn woman on it. Whoever was here, you don't care. You take the vials back out and return to the %companyname%. They draw swords at the sound of you, then sheepishly sheathe them once they see your face.%SPEECH_ON%Sorry captain, thought ya a mite dead. And walking. A walking dead man.%SPEECH_OFF%}\""
   }
 ]

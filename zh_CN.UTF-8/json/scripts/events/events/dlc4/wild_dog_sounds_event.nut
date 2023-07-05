@@ -230,5 +230,13 @@
     "translation": "我觉得这是一趟地狱之旅。",
     "stage": 1,
     "context": "Text = 'Hell of a haul, I suppose.'"
+  },
+  {
+    "ID": 317090634,
+    "key": "sha256:aaa9abc4222e14c25e7496accd38b3735a472a94b4be85f5378193cbae0a392e",
+    "original": "[img]gfx/ui/events/event_33.png[/img]{You look about the company. A young %recruit% looks back. He looks down, as though to look within himself, and then hurriedly gets to his feet.%SPEECH_ON%Say no more, captain. I will find out what this disturbance is.%SPEECH_OFF%The fresh recruit gathers his things and then stands at the edge of the camp's light, a very dark forest looking back at him. The man stares down again and clenches and unclenches his hands. He huffs and then steps forth, immediately slipping into the shadows. Hours pass. Finally, he returns. His clothes are in tatters. His weapons are gone. He spits forth story after story. Magic rings, volcanoes, giant eagles, absolute nonsense. Whatever he saw, it's clear the blubbering sellsword needs to clear his head with some well earned beauty sleep. Which he'll get since all that awful noise has ceased.}",
+    "translation": "[img]gfx/ui/events/event_33.png[/img]{你环顾了一下战团。 一个年轻的 %recruit% 向后看。 他低下头避开你的眼神，好像他和自己内心争斗了一番，然后赶紧站起来。%SPEECH_ON%不用说了，队长。 我会找出这骚乱是什么的。%SPEECH_OFF%他收拾好，站在营火的光亮边缘，漆黑的森林在那头正望着他。 他再次低下头，拳头握了又松。 他愤愤地迈步向前随即消失在阴影里。 过了段时间。他最终回来了。 他的衣服破烂不堪。 武器也不见了。 他唾沫横飞的讲了一个又一个故事。 什么魔戒，火山，巨鹰，满嘴疯言疯语。 不管他看到了什么，这家伙需要好好睡一觉了。 自从可怕的声音停下来后，他真得睡个好觉。}",
+    "stage": 1,
+    "context": "Text = \"[img]gfx/ui/events/event_33.png[/img]{You look about the company. A young %recruit% looks back. He looks down, as though to look within himself, and then hurriedly gets to his feet.%SPEECH_ON%Say no more, captain. I will find out what this disturbance is.%SPEECH_OFF%The fresh recruit gathers his things and then stands at the edge of the camp's light, a very dark forest looking back at him. The man stares down again and clenches and unclenches his hands. He huffs and then steps forth, immediately slipping into the shadows. Hours pass. Finally, he returns. His clothes are in tatters. His weapons are gone. He spits forth story after story. Magic rings, volcanoes, giant eagles, absolute nonsense. Whatever he saw, it's clear the blubbering sellsword needs to clear his head with some well earned beauty sleep. Which he'll get since all that awful noise has ceased.}\""
   }
 ]

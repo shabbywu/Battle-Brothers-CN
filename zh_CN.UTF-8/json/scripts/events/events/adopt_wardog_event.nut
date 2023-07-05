@@ -158,5 +158,13 @@
     "translation": "战斗兄弟(Battle Brother)",
     "stage": 1,
     "context": "item.m.Name = 'Battle Brother'"
+  },
+  {
+    "ID": 317090606,
+    "key": "sha256:b4791ba04377a68f74584b96595ca1a904790bd2eb67e0337fadbec0d35a4f76",
+    "original": "Nice.",
+    "translation": "很好。",
+    "stage": 1,
+    "context": "Text = \"Nice.\""
   }
 ]

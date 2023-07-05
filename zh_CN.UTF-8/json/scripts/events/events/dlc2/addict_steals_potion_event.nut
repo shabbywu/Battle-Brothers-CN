@@ -118,5 +118,21 @@
     "translation": "[img]gfx/ui/events/event_38.png[/img]{你们把%addict%带到了一个临时的鞭刑柱前。他瘫软地躺在木头上，手指张开，不停地拧动着。他的眼神像在追逐蝴蝶，当%otherbrother%用鞭子抽打他时，他带着茫然的表情。\n\n起初，鞭打似乎无济于事，即使鞭子呼啸着抽在他的背上，也只残留了一道道红斑。但几次抽打之后，他渐渐清醒，开始尖叫。你扭过头问他是否愿意戒毒，他急忙点头。你让他再次挨鞭子，然后问他同样的问题，他再次点头。又来一轮的鞭打、问题和回答，这样不断重复着，直到他崩溃，不管以前的烦恼如何，都已经不复存在。}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_38.png[/img]{You have %addict% taken to an ad-hoc whipping post. He lays limply against the wood, his fingers splayed out and pinching and clenching. He looks like he's chasing butterflies, and he carries that absent look when %otherbrother% hides him fierce with the whip.\n\n At first, the whipping does nothing, not even as it snaps across the man's back, leaving crescents of crimson. But after a few strikes, he wakes to reality and begins to scream. You come around to face him and ask if he'll swallow his addiction. He nods hurriedly. You let him get whipped again, and ask again, and again he nods. Another whipping, another question, another answer. So this goes, until he is broken and whatever ailed him is gone.}\""
+  },
+  {
+    "ID": 317090618,
+    "key": "sha256:2b42eb2d1982ee5b3aa7aae6234890879a0ea65904d00a99fe8d29ef2e5ec018",
+    "original": "Goddammit.",
+    "translation": "该死。",
+    "stage": 1,
+    "context": "Text = \"Goddammit.\""
+  },
+  {
+    "ID": 317090619,
+    "key": "sha256:876cf592ffca227a70d4ba5f376f84372345484c4729c9f6537ade7124e84ea5",
+    "original": "[img]gfx/ui/events/event_05.png[/img]{You pull %addict% out of the barrel and throw him to the ground. He wobbles there as though the earth was a staircase and he was looking down the top step's precipice.%SPEECH_ON%Oy, sir, careful, it's just down and down!%SPEECH_OFF%At first you think to kick his arse, but relent. You crouch and set down next to the man as he rolls over to stare at the clouds. After a while he looks over.%SPEECH_ON%You trying to help me?%SPEECH_OFF%You nod and say you are, but %addict% simply smiles and shakes his head.%SPEECH_ON%Ain't talking to you, I'm talking to you!%SPEECH_OFF%He points behind you at the barrel, and by the time you look back the man is up to his feet and charging forward.%SPEECH_ON%Fat sumbitch gon' be smart with me huh!%SPEECH_OFF%The sellsword tackles the barrel and it splinters from top to bottom and a number of items within spill out and shatter. A few mercenaries rush over and get the man and take him away while you count what's been lost.}",
+    "translation": "[img]gfx/ui/events/event_05.png[/img]{你将%addict%从桶里拖了出来，把他摔到了地上。他在那里摇摇晃晃，仿佛地球是一架楼梯，他正在看着上面的悬崖。%SPEECH_ON%喂，先生，小心点，这只是往下，一直往下！%SPEECH_OFF%一开始你想踢他的屁股，但还是放弃了。你蹲下身子，坐在那个人旁边，他翻了个身，看着云彩。过了一会儿，他转过头来。%SPEECH_ON%你要帮我？%SPEECH_OFF%你点了点头，说你是的，但%addict%只是微笑着摇了摇头。%SPEECH_ON%我不是在和你说话，我是在和你说话！%SPEECH_OFF%他指着你身后的桶，当你回头看的时候，那个人已经站起来向前冲了过去。%SPEECH_ON%这个胖老头想跟我搞聪明啊！%SPEECH_OFF%佣兵扑向桶，它从上到下裂开了，里面的一些物品散落开来并碎了。几个佣兵跑过来把这个人带走，与此同时，你正在数着失去了什么。}",
+    "stage": 1,
+    "context": "Text = \"[img]gfx/ui/events/event_05.png[/img]{You pull %addict% out of the barrel and throw him to the ground. He wobbles there as though the earth was a staircase and he was looking down the top step's precipice.%SPEECH_ON%Oy, sir, careful, it's just down and down!%SPEECH_OFF%At first you think to kick his arse, but relent. You crouch and set down next to the man as he rolls over to stare at the clouds. After a while he looks over.%SPEECH_ON%You trying to help me?%SPEECH_OFF%You nod and say you are, but %addict% simply smiles and shakes his head.%SPEECH_ON%Ain't talking to you, I'm talking to you!%SPEECH_OFF%He points behind you at the barrel, and by the time you look back the man is up to his feet and charging forward.%SPEECH_ON%Fat sumbitch gon' be smart with me huh!%SPEECH_OFF%The sellsword tackles the barrel and it splinters from top to bottom and a number of items within spill out and shatter. A few mercenaries rush over and get the man and take him away while you count what's been lost.}\""
   }
 ]

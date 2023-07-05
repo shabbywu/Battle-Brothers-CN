@@ -190,5 +190,13 @@
     "translation": "[img]gfx/ui/events/event_78.png[/img]这个队长用手指了其中一个士兵封臣。 他递给你一卷通缉令队长把它展开递给你。 这个人看起来的确和 %criminal% 很像，但是自从他和你上路成为雇佣兵之后脸上已经多了好几道疤通过现在的通缉令根本认不出他。 但是他们不会就这样买账的。 所以你决定撒谎。%SPEECH_ON%你们要找的人已经死了。 就像你说的，他是一名罪犯，我们看见他的时候他在偷我们的食物。在我们发现他时 %other_bro% 用剑刺穿了他的喉咙。%SPEECH_OFF%这个兄弟看着你，然后看了看这群执法者。他点头。%SPEECH_ON%的确是我做的。他就像一头猪一样吃我的面包我实在忍受不了就结果了他！ 我把幸免于难的面包保存起来给自己吃，谢天谢地。%SPEECH_OFF%执法者们互相窃笑。 他们的队长回头望着他们，他的目光使他们安静下来。 他回头看看你。 你现在明白为什么他们为什么闭上了嘴：他的眼睛是严厉的，死板的，凶狠的，深不见底的。 男人就这样盯着你看了将近半分钟然后点了点头拉了拉缰绳。%SPEECH_ON%很好，雇佣兵。谢谢你让我们了解了这个。%SPEECH_OFF%执法者们打点行装从他们来时的方向回去。 整个队伍都松了一口气你命令藏在灌木丛里的人出来。 前面还有很长的路要走希望不会再有这样的问题了。",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_78.png[/img]The captain of the lawmen snaps his fingers at one of the bannermen. He hands over a scroll which the captain unfurls before handing it to you. The man you see looks remarkably like %criminal%, but since you've been on the road the mercenary has gained a few scars that separate his visage from the one on the paper. But they won't buy that. So you lie instead.%SPEECH_ON%The man you're looking for is dead. He was a criminal, just as you said, and we found him thieving from our foods. %other_bro% ran a sword through him when we'd found out.%SPEECH_OFF%The brother looks at you, and then the lawmen. He nods.%SPEECH_ON%That I did. He had a mouthful of my bread when I stuck him like a pig! I saved the rest of the loaf for m'self, thank goodness.%SPEECH_OFF%The lawmen chuckle amongst themselves. Their captain looks back on them, his gaze a quieting one. He looks back to you. You can see why they shut up: his eyes are stern, unmoving, fierce, black. The man holds you in this stare for nearly half a minute before he nods and gathers his reins.%SPEECH_ON%Alright, mercenary. Thank you for letting us know.%SPEECH_OFF%The lawmen pack up and head back from whence they came. A sigh of relief passes over the company as a whole and you order the men hiding in the bushes to come out. It's a long road ahead and hopefully there won't be more problems like this one.\""
+  },
+  {
+    "ID": 317090664,
+    "key": "sha256:285d6cc2afa8db542721945d5c3b4609f308b762fdbdc09887f5234de0adc2fd",
+    "original": "Phew.",
+    "translation": "万幸。",
+    "stage": 1,
+    "context": "Text = \"Phew.\""
   }
 ]

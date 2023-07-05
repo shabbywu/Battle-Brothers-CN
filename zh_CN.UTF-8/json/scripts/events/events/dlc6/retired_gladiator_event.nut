@@ -174,5 +174,13 @@
     "translation": "在 %townname%…",
     "stage": 1,
     "context": "this.m.Title = 'At %townname%...'"
+  },
+  {
+    "ID": 317090640,
+    "key": "sha256:9f7d79d9b6a23846d45c57a0e6f66e3bc2721ff5656d9a00f8c1ba8e9dc1b114",
+    "original": "Sorry.",
+    "translation": "对不起。",
+    "stage": 1,
+    "context": "Text = \"Sorry.\""
   }
 ]

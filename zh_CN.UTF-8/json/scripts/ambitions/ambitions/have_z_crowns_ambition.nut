@@ -30,5 +30,13 @@
     "translation": "克朗意味着权力和影响力，这两者我们永远都不会满足。\n让我们收集50000克朗，赢得我们在贵族和国王中的席位！",
     "stage": 1,
     "context": "this.m.ButtonText = 'Crowns mean power and influence, and we can never have enough of either.\nLet us gather 50,000 crowns and earn our seat amongst noblemen and kings!'"
+  },
+  {
+    "ID": 317090599,
+    "key": "sha256:cccd2e909950ad5905d7c68ed4c241b48c54593d2fbcc63a9ec4e5d16cf0a780",
+    "original": "Excellent.",
+    "translation": "极好的。",
+    "stage": 1,
+    "context": "this.m.SuccessButtonText = \"Excellent.\""
   }
 ]

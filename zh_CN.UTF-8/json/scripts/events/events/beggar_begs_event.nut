@@ -70,5 +70,13 @@
     "translation": "你花费了 [color=",
     "stage": 5,
     "context": "text = 'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']10[/color] Crowns'"
+  },
+  {
+    "ID": 317090607,
+    "key": "sha256:d87d3680146bd7ab0891a57de9e96fe87e53d32b5970b14519138ae3e8e24840",
+    "original": "Ok.",
+    "translation": "这就对了。",
+    "stage": 1,
+    "context": "Text = \"Ok.\""
   }
 ]

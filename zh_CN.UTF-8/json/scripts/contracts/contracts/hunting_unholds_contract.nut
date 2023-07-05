@@ -286,5 +286,13 @@
     "translation": "到此为止吧。",
     "stage": 1,
     "context": "Text = 'So much for that.'"
+  },
+  {
+    "ID": 317090604,
+    "key": "sha256:7e4cdfffb344d4580f049a23af96b852659b32d1f7e5cb29038306a77b4c5c79",
+    "original": "[img]gfx/ui/events/event_104.png[/img]{Against better judgment, you let %shouter% go. He doesn't stop for nothing, like he was chasing down a throng of beautiful women undressing just for him. Shockingly, the unholds take a step back. They start to retreat one by one until only a lone giant remains.\n\n%shouter% runs up to its feet like a yapping dog and lets forth some atavistic scream so hoarsely made that you wonder if every ancestor of the earth buried or otherwise had heard it. The unhold slings an arm before its face as though to shield it, then starts stepping back, further and further until it's gone! They're all gone!}",
+    "translation": "[img]gfx/ui/events/event_104.png[/img]{比起更好的判断，你放手让 %shouter% 去做。 他完全没停下来，像他在追一群正为他脱衣的漂亮女人一样。 震惊的是，巨魔们后退了一步。 它们一个个开始撤退直到只剩一个巨人。\n\n%shouter% 跑到他的脚边像只狂吠的狗一样发出些返祖的尖叫，如此刺耳以致你寻思是否每个埋在地里的祖先都听到了它。 巨魔摆手遮面好像要保护自己一样，然后开始后退，越来越远直到它离开！它们都跑了！}",
+    "stage": 1,
+    "context": "Text = \"[img]gfx/ui/events/event_104.png[/img]{Against better judgment, you let %shouter% go. He doesn't stop for nothing, like he was chasing down a throng of beautiful women undressing just for him. Shockingly, the unholds take a step back. They start to retreat one by one until only a lone giant remains.\n\n%shouter% runs up to its feet like a yapping dog and lets forth some atavistic scream so hoarsely made that you wonder if every ancestor of the earth buried or otherwise had heard it. The unhold slings an arm before its face as though to shield it, then starts stepping back, further and further until it's gone! They're all gone!}\""
   }
 ]

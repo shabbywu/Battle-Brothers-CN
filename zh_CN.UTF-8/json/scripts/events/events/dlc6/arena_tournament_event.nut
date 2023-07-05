@@ -14,5 +14,13 @@
     "translation": "在路上……",
     "stage": 5,
     "context": "this.m.Title = 'Along the road...'"
+  },
+  {
+    "ID": 317090635,
+    "key": "sha256:3ccdaf3cabf0fa269c174f983909bfa45074f91d76e11a5072a2c3a2ffb6ad42",
+    "original": "Interesting.",
+    "translation": "有趣。",
+    "stage": 1,
+    "context": "Text = \"Interesting.\""
   }
 ]

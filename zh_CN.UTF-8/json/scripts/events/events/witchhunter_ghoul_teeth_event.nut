@@ -30,5 +30,13 @@
     "translation": "露营时……",
     "stage": 5,
     "context": "this.m.Title = 'During camp...'"
+  },
+  {
+    "ID": 317090678,
+    "key": "sha256:1700d710df68d45a2b4379b90193e12cfe79bfbedfa10eb2807cbe96509142d7",
+    "original": "Useful.",
+    "translation": "真有用。",
+    "stage": 1,
+    "context": "Text = \"Useful.\""
   }
 ]

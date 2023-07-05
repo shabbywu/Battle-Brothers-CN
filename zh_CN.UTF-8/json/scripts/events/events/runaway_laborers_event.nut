@@ -102,5 +102,21 @@
     "translation": "你获得了 [color=",
     "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']50[/color] Crowns'"
+  },
+  {
+    "ID": 317090667,
+    "key": "sha256:52ea67359dfa70ce35169fd2493590d8371919161a7fb2e28e322863448b9a87",
+    "original": "Farewell.",
+    "translation": "再会。",
+    "stage": 1,
+    "context": "Text = \"Farewell.\""
+  },
+  {
+    "ID": 317090668,
+    "key": "sha256:3dbba05f8abbd2bf938b409efb08ac30eb1cb1efa7901ad3b163903a99eed0f7",
+    "original": "[img]gfx/ui/events/event_59.png[/img]With your finger still pointing the wrong way, the overseers take off. Their angry barking fades into the distance. When they are gone, the laborers slowly emerge. They appear rather surprised that a sellsword didn't sell word of them in the bushes. One by one they take off their hats and bless you for your mercy. One even calls it 'justice', a strange word in a mercenary's ear.\n\nWhile most of them make off, one man stands idly behind. He asks if maybe he can join your company if, you know, you got room for him.",
+    "translation": "[img]gfx/ui/events/event_59.png[/img]你的手指坚定地指向错误的方向，监工们离开了。 他们愤怒的喊声消失在远处。 他们走后，工人们慢慢地现身了。 他们似乎很惊讶，一群佣兵竟然没有出卖他们。 他们一个接一个对你们脱帽致敬，为你的仁慈祈福。 甚至有人称你们的行为是“正义”，一个在雇佣兵耳朵里是个很奇怪的词。\n\n当他们中的大多数人都离开时，有一个人茫然地留在后面。 他问他是否能加入你们的战团，如果，你懂的，你还有能留给他的位置的话。",
+    "stage": 1,
+    "context": "Text = \"[img]gfx/ui/events/event_59.png[/img]With your finger still pointing the wrong way, the overseers take off. Their angry barking fades into the distance. When they are gone, the laborers slowly emerge. They appear rather surprised that a sellsword didn't sell word of them in the bushes. One by one they take off their hats and bless you for your mercy. One even calls it 'justice', a strange word in a mercenary's ear.\n\nWhile most of them make off, one man stands idly behind. He asks if maybe he can join your company if, you know, you got room for him.\""
   }
 ]

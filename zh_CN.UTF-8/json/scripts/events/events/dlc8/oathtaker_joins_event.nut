@@ -54,5 +54,13 @@
     "translation": "祝你好运。",
     "stage": 1,
     "context": "Text = 'Good luck out there.'"
+  },
+  {
+    "ID": 317090650,
+    "key": "sha256:b19d62a916990f0a674a7cdce13ebcc6da43ffc05d6979f7ba23b3eab71857c6",
+    "original": "Hugo.",
+    "translation": "天呀。",
+    "stage": 1,
+    "context": "Text = \"Hugo.\""
   }
 ]
