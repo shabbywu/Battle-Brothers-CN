@@ -878,8 +878,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:34.155Z",
         "updatedAt": "2023-07-05T12:35:51.81Z",
-        "modifiedAt": "2023-07-05T12:46:46Z",
-        "sha256": "89b12fdb52926d89b8c430dfa9183b1472d1c3b99583b5fd34788c6f20b54669"
+        "modifiedAt": "2023-07-05T14:46:53Z",
+        "sha256": "e55d4e2ff0a776d057ea228dee6597507c94f538a5e70da9198d6dc832249b26"
     },
     "scripts/ambitions/ambitions/weapon_mastery_ambition.json": {
         "id": 918395,
@@ -1482,16 +1482,16 @@
         "filename": "",
         "format": "json",
         "total": 41,
-        "translated": 41,
+        "translated": 40,
         "disputed": 0,
         "checked": 6,
         "reviewed": 6,
-        "hidden": 0,
+        "hidden": 1,
         "locked": 1,
         "createdAt": "2023-05-13T14:17:48.847Z",
         "updatedAt": "2023-06-30T08:56:14.659Z",
-        "modifiedAt": "2023-07-01T08:49:23Z",
-        "sha256": "39b6ea53cd19f7132a8582d842bd2213561a536c99f7096ee162cbd8bd35ed7c"
+        "modifiedAt": "2023-07-05T15:43:13Z",
+        "sha256": "fd7926da02ed69a12f5c456abe7094956eace3d7fd48da29d57c44344f4ecdc3"
     },
     "scripts/contracts/contracts/barbarian_king_contract.json": {
         "id": 918429,
@@ -1706,8 +1706,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:55.4Z",
         "updatedAt": "2023-07-05T12:35:54.777Z",
-        "modifiedAt": "2023-07-05T12:48:17Z",
-        "sha256": "831cac53ebcd5503a05d07193e87a14570c0380c6efd58ffeff62d64c442b47a"
+        "modifiedAt": "2023-07-05T14:52:09Z",
+        "sha256": "e6b9e5c0d6afdc6eae9d660bb8024b8120da0c3d605281cbfbe8b1041da8d624"
     },
     "scripts/contracts/contracts/destroy_goblin_camp_contract.json": {
         "id": 918441,
@@ -2030,8 +2030,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:02.65Z",
         "updatedAt": "2023-07-05T12:35:55.171Z",
-        "modifiedAt": "2023-07-05T13:56:17Z",
-        "sha256": "74c7345a257c39f0e2e46376a7f3298460021ba7d302a1d68b4ebdd44d48e8a4"
+        "modifiedAt": "2023-07-05T15:11:06Z",
+        "sha256": "d6cc4ea1c4e5e1e466b74dfe9fd5588986bc9e2c257e0d011a3760c73c14df0b"
     },
     "scripts/contracts/contracts/hunting_webknechts_contract.json": {
         "id": 918459,

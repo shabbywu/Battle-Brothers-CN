@@ -211,8 +211,8 @@
     "ID": 293407860,
     "key": "Won",
     "original": "Won",
-    "translation": "胜利",
-    "stage": 1,
+    "translation": "Won",
+    "stage": -1,
     "context": "this.Contract.setScreen('Won' + this.Flags.get('Round'))"
   },
   {

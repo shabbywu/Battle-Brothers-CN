@@ -371,7 +371,7 @@
     "ID": 315253928,
     "key": "sha256:49284f131ad376b62f82ecc4b5c0d82876bdf5c957872b995cbdeccd79aa46c8",
     "original": "Hrm...",
-    "translation": "嗯......",
+    "translation": "嗯...",
     "stage": 1,
     "context": "Text = \"Hrm...\""
   }
