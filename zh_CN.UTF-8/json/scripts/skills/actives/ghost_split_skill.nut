@@ -4,7 +4,7 @@
     "key": "Split in two",
     "original": "Split in two",
     "translation": "劈成两半",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.KilledString = 'Split in two'"
   },
   {

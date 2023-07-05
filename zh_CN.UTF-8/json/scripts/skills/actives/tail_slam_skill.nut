@@ -35,7 +35,7 @@
     "ID": 293420548,
     "key": "Crushed",
     "original": "Crushed",
-    "translation": "粉碎",
+    "translation": "压碎",
     "stage": 5,
     "context": "this.m.KilledString = 'Crushed'"
   },

@@ -11,8 +11,8 @@
     "ID": 293421679,
     "key": " lost concentration",
     "original": " lost concentration",
-    "translation": " 神情恍惚",
-    "stage": 5,
+    "translation": "失去了专注",
+    "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' lost concentration')"
   },
   {

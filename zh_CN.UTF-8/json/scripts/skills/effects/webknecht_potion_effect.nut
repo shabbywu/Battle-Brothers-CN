@@ -3,7 +3,7 @@
     "ID": 293421792,
     "key": "Mutated Circulatory System",
     "original": "Mutated Circulatory System",
-    "translation": "变异循环系统",
+    "translation": "变异的循环系统",
     "stage": 1,
     "context": "this.m.Name = 'Mutated Circulatory System'"
   },
@@ -19,7 +19,7 @@
     "ID": 293421794,
     "key": "This character's body has mutated and propagates poisons and other hazardous substances through the bloodstream much more slowly, allowing them to be disposed of without serious health effects. Curiously, this doesn't seem to affect their ability to get d",
     "original": "This character's body has mutated and propagates poisons and other hazardous substances through the bloodstream much more slowly, allowing them to be disposed of without serious health effects. Curiously, this doesn't seem to affect their ability to get drunk.",
-    "translation": "该角色的身体发生了变异，毒素和其他危险物质通过血液传播的速度要慢得多，这使得它们可以被处理掉而没有严重的健康影响。有意思的是，这似乎并不影响他们喝醉的能力。",
+    "translation": "该角色的身体发生了变异，毒素和其他危险物质通过血液传播的速度要慢得多，这使得它们可以在不产生严重健康影响的情况下被代谢。有意思的是，这似乎并不影响他把自己灌醉的能力。",
     "stage": 1,
     "context": "return \"This character's body has mutated and propagates poisons and other hazardous substances through the bloodstream much more slowly, allowing them to be disposed of without serious health effects. Curiously, this doesn't seem to affect their ability to get drunk.\";"
   },

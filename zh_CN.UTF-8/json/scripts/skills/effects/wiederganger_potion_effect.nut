@@ -3,8 +3,8 @@
     "ID": 293421805,
     "key": "Subdermal Reactivity",
     "original": "Subdermal Reactivity",
-    "translation": "皮下反应(Subdermal Reactivity)",
-    "stage": 1,
+    "translation": "皮下反应",
+    "stage": 5,
     "context": "this.m.Name = 'Subdermal Reactivity'"
   },
   {
@@ -19,8 +19,8 @@
     "ID": 293421807,
     "key": "It's just a flesh wound! This character's subdermal flesh has mutated and automatically reacts to sudden trauma, lessening the chance to suffer injuries in battle.",
     "original": "It's just a flesh wound! This character's subdermal flesh has mutated and automatically reacts to sudden trauma, lessening the chance to suffer injuries in battle.",
-    "translation": "只是肉伤而已！该角色的皮下肌肉已经发生了变异，自动应对突然的外伤，从而减少在战斗中受伤的机会。",
-    "stage": 1,
+    "translation": "只是点皮肉伤而已！这个角色的皮下肌肉已经变异并自动对外力创伤做出反应，从而减少在战斗中遭受伤势的概率。",
+    "stage": 5,
     "context": "return \"It's just a flesh wound! This character's subdermal flesh has mutated and automatically reacts to sudden trauma, lessening the chance to suffer injuries in battle.\";"
   },
   {

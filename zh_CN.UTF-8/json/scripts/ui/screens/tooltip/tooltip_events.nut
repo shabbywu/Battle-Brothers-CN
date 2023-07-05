@@ -1700,7 +1700,7 @@
     "key": "[/color] armor damage",
     "original": "[/color] armor damage",
     "translation": "[/color] 护甲伤害",
-    "stage": 2,
+    "stage": 5,
     "context": "text = 'Received [color=' + this.Const.UI.Color.NegativeValue + ']' + combatStats.DamageReceivedArmor + '[/color] armor damage'"
   },
   {

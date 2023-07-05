@@ -35,7 +35,7 @@
     "ID": 293418470,
     "key": "]25[/color] points of natural armor",
     "original": "]25[/color] points of natural armor",
-    "translation": "]25[/color] 天生护甲点数",
+    "translation": "]25[/color] 天然护甲点数",
     "stage": 1,
     "context": "text = 'Turns skin hard and stone-like, granting [color=' + this.Const.UI.Color.PositiveValue + ']25[/color] points of natural armor'"
   },

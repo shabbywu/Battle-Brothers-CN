@@ -3,8 +3,8 @@
     "ID": 293421616,
     "key": " points",
     "original": " points",
-    "translation": " 点",
-    "stage": 1,
+    "translation": "点生命值",
+    "stage": 5,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + this.Math.min(actor.getHitpointsMax() - actor.getHitpoints(), hitpointsHealed) + ' points')"
   },
   {
@@ -27,7 +27,7 @@
     "ID": 293421619,
     "key": "This character's body has the incredible ability to incorporate different blood types - or indeed, blood from entirely different creatures - into itself. This grants them remarkable healing via absorption of blood through skin pores (or more dramatically ",
     "original": "This character's body has the incredible ability to incorporate different blood types - or indeed, blood from entirely different creatures - into itself. This grants them remarkable healing via absorption of blood through skin pores (or more dramatically by drinking it directly).",
-    "translation": "这个角色的身体拥有惊人的能力，可以将不同血型的血液或者来自完全不同生物的血液融入自己的身体。这使他们能够通过皮肤毛孔吸收血液（或者更加剧烈地直接饮用）来获得显著的治愈能力。",
+    "translation": "这个角色的身体有着惊人的能力，可以将不同血型的血液乃至不同生物的血液整合进自己。这让他可以通过毛孔吸收血液进行治疗(或者直接饮血以得到更剧烈的效果)。",
     "stage": 1,
     "context": "return \"This character's body has the incredible ability to incorporate different blood types - or indeed, blood from entirely different creatures - into itself. This grants them remarkable healing via absorption of blood through skin pores (or more dramatically by drinking it directly).\";"
   },
@@ -43,8 +43,8 @@
     "ID": 293421621,
     "key": " heals for ",
     "original": " heals for ",
-    "translation": " 治疗生命值 ",
-    "stage": 1,
+    "translation": "恢复了",
+    "stage": 5,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + this.Math.min(actor.getHitpointsMax() - actor.getHitpoints(), hitpointsHealed) + ' points')"
   },
   {

@@ -1875,7 +1875,7 @@
     "ID": 293405870,
     "key": "Bullseye",
     "original": "Bullseye",
-    "translation": "靶心",
+    "translation": "神射",
     "stage": 1,
     "context": "Bullseye = 'Bullseye'"
   },
@@ -2235,8 +2235,8 @@
     "ID": 293405915,
     "key": "Wagon",
     "original": "Wagon",
-    "translation": "车皮",
-    "stage": 1,
+    "translation": "货车",
+    "stage": 5,
     "context": "'Wagon'"
   },
   {
@@ -3611,8 +3611,8 @@
     "ID": 293406087,
     "key": "Brigand Poachers",
     "original": "Brigand Poachers",
-    "translation": "盗猎者",
-    "stage": 1,
+    "translation": "强盗偷猎者",
+    "stage": 5,
     "context": "'Brigand Poachers'"
   },
   {
@@ -4019,7 +4019,7 @@
     "ID": 293406138,
     "key": "Stalwart",
     "original": "Stalwart",
-    "translation": "坚定的",
+    "translation": "坚实",
     "stage": 1,
     "context": "Stalwart = 'Stalwart'"
   },
@@ -5859,7 +5859,7 @@
     "ID": 293406368,
     "key": "]1[/color] turn. Status effects that have their effects grow weaker over several turns (e.g. Goblin Poison) are at their weakest state from the start.",
     "original": "]1[/color] turn. Status effects that have their effects grow weaker over several turns (e.g. Goblin Poison) are at their weakest state from the start.",
-    "translation": "]1[/color]回合。那些效果在几个回合内逐渐减弱的状态效果（例如妖精之毒）从一开始就处于最弱的状态。",
+    "translation": "]1[/color]回合。那些效果在几个回合内逐渐减弱的状态效果（例如地精毒药）从一开始就处于最弱的状态。",
     "stage": 1,
     "context": "HoldOut = 'Keep it together! Any negative status effect with a finite duration (e.g. Bleeding, Charmed) has its duration reduced to [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] turn. Status effects that have their effects grow weaker over several turns (e.g. Goblin Poison) are at their weakest state from the start.'"
   },
@@ -5883,8 +5883,8 @@
     "ID": 293406371,
     "key": "Cart",
     "original": "Cart",
-    "translation": "大车",
-    "stage": 1,
+    "translation": "马车",
+    "stage": 5,
     "context": "'Cart'"
   },
   {
@@ -6723,7 +6723,7 @@
     "ID": 293406476,
     "key": "Recover",
     "original": "Recover",
-    "translation": "恢复",
+    "translation": "深呼吸",
     "stage": 1,
     "context": "Recover = 'Recover'"
   },
@@ -8035,8 +8035,8 @@
     "ID": 293406640,
     "key": "Brigand Poacher",
     "original": "Brigand Poacher",
-    "translation": "盗猎者",
-    "stage": 1,
+    "translation": "强盗偷猎者",
+    "stage": 5,
     "context": "'Brigand Poacher'"
   },
   {
@@ -8931,8 +8931,8 @@
     "ID": 293406752,
     "key": "Click to focus party",
     "original": "Click to focus party",
-    "translation": "点击聚焦派对",
-    "stage": 1,
+    "translation": "点击聚焦队伍",
+    "stage": 5,
     "context": "Hint_FocusParty = 'Click to focus party'"
   },
   {
@@ -9499,7 +9499,7 @@
     "ID": 293406823,
     "key": "Sundering Strikes",
     "original": "Sundering Strikes",
-    "translation": "天崩地裂的罢工",
+    "translation": "崩裂打击",
     "stage": 1,
     "context": "SunderingStrikes = 'Sundering Strikes'"
   },

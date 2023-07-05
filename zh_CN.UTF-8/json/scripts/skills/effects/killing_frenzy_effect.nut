@@ -19,8 +19,8 @@
     "ID": 293421570,
     "key": "RAAAARGH! This character is on a killing frenzy for [color=",
     "original": "RAAAARGH! This character is on a killing frenzy for [color=",
-    "translation": "这个角色正处于杀戮狂暴之中，还会持续 [color=",
-    "stage": 5,
+    "translation": "哇！ 这个角色正处于杀戮狂暴之中，还会持续 [color=",
+    "stage": 1,
     "context": "return 'RAAAARGH! This character is on a killing frenzy for [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.TurnsLeft + '[/color] more turn(s). Killing another opponent will refresh the killing frenzy for a 2 turn duration.';"
   },
   {

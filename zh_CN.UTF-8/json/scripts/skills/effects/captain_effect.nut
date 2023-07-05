@@ -11,7 +11,7 @@
     "ID": 293421435,
     "key": "Inspired by nearby Leader",
     "original": "Inspired by nearby Leader",
-    "translation": "受附近队长的鼓舞。",
+    "translation": "受附近队长的鼓舞",
     "stage": 5,
     "context": "this.m.Name = 'Inspired by nearby Leader'"
   },

@@ -27,7 +27,7 @@
     "ID": 293421737,
     "key": "Locking Joints",
     "original": "Locking Joints",
-    "translation": "四肢硬化",
+    "translation": "关节锁定",
     "stage": 1,
     "context": "this.m.Name = 'Locking Joints'"
   }
