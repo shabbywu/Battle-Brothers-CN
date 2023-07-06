@@ -19,7 +19,7 @@
     "ID": 293419626,
     "key": "Won ",
     "original": "Won ",
-    "translation": "赢得了(Won)",
+    "translation": "赢得了",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Won ' + this.Math.min(5, this.World.Statistics.getFlags().getAsInt('BeastsDefeated')) + '/5 battles against beasts'"
   },

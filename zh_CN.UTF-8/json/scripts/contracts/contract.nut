@@ -35,8 +35,8 @@
     "ID": 293407739,
     "key": "Screen \"",
     "original": "Screen \"",
-    "translation": "屏幕 \"\"",
-    "stage": 1,
+    "translation": "Screen \"",
+    "stage": 9,
     "context": "this.logError('Screen \"' + _id + '\" not found for contract \"' + this.m.Type + '\".')"
   },
   {
