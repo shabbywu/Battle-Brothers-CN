@@ -771,7 +771,7 @@
     "ID": 293403874,
     "key": "the Ravager",
     "original": "the Ravager",
-    "translation": "劫掠者",
+    "translation": "掠袭者",
     "stage": 1,
     "context": "'the Ravager'"
   },
@@ -1179,7 +1179,7 @@
     "ID": 293403925,
     "key": "The Desert Raider",
     "original": "The Desert Raider",
-    "translation": "沙漠掠夺者(The Desert Raider)",
+    "translation": "沙漠掠袭者(The Desert Raider)",
     "stage": 5,
     "context": "'The Desert Raider'"
   },
@@ -7459,7 +7459,7 @@
     "ID": 293404710,
     "key": "the Desert Raider",
     "original": "the Desert Raider",
-    "translation": "沙漠掠夺者(the Desert Raider)",
+    "translation": "沙漠掠袭者(the Desert Raider)",
     "stage": 5,
     "context": "'the Desert Raider'"
   },

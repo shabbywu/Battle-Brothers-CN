@@ -91,8 +91,8 @@
     "ID": 293417411,
     "key": "Desert Raiders",
     "original": "Desert Raiders",
-    "translation": "沙漠袭击者(Desert Raiders)",
-    "stage": 1,
+    "translation": "沙漠掠袭者",
+    "stage": 5,
     "context": "f.setName('Desert Raiders')"
   },
   {

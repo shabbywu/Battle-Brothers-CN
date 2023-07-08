@@ -11,7 +11,7 @@
     "ID": 293421259,
     "key": "%name% the servant grew tired of the sellsword life and left the company. He returned to serving nobility. When raiders attacked his liege's castle, the nobleman pushed the servant out the door with only a kitchen knife to defend himself with. He was foun",
     "original": "%name% the servant grew tired of the sellsword life and left the company. He returned to serving nobility. When raiders attacked his liege's castle, the nobleman pushed the servant out the door with only a kitchen knife to defend himself with. He was found headless in a pile of broken chairs, a few dead raiders littered around him.",
-    "translation": "%name%这个仆人已经厌倦了雇佣兵的生活并离开了战团。他回去为贵族服务。当掠夺者攻击他的领主城堡时，仆人被贵族推出门外，只有一把厨房刀来自保。他被发现躺在一堆破椅子中，没有脑袋，周围散落着几具袭击者的尸体。",
+    "translation": "%name%这个仆人已经厌倦了雇佣兵的生活并离开了战团。他回去为贵族服务。当掠袭者攻击他的领主城堡时，仆人被贵族推出门外，只有一把厨房刀来自保。他被发现躺在一堆破椅子中，没有脑袋，周围散落着几具袭击者的尸体。",
     "stage": 5,
     "context": "this.m.BadEnding = \"%name% the servant grew tired of the sellsword life and left the company. He returned to serving nobility. When raiders attacked his liege's castle, the nobleman pushed the servant out the door with only a kitchen knife to defend himself with. He was found headless in a pile of broken chairs, a few dead raiders littered around him.\""
   },

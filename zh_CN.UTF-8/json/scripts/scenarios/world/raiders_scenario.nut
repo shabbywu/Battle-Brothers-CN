@@ -27,7 +27,7 @@
     "ID": 293419752,
     "key": "Barbarian raiders often take from lands foreign to them. Most see their raids as a matter of material and women, but occasionally they will enslave formidable boys with great potential. %name%, a northerner, was such a child and he was raised to be a raid",
     "original": "Barbarian raiders often take from lands foreign to them. Most see their raids as a matter of material and women, but occasionally they will enslave formidable boys with great potential. %name%, a northerner, was such a child and he was raised to be a raider himself. Half his life was with his primitive clan, and the other half with those who took him. This has made him as hardy and brutish a warrior as one can get.",
-    "translation": "野蛮人的掠夺者经常从他们陌生的土地上掠夺。 大多数人把他们的掠夺看作是物质和女人的问题，但有时他们会奴役有巨大潜力的难对付的男孩。%name%，一个北方人，就是这样一个孩子，他被培养成一个他们自己的掠夺者。 他的一半生活在原始氏族里，另一半生活在带走他的人那里。 这使他成为一个勇猛而野蛮的战士。",
+    "translation": "野蛮人的掠袭者经常从他们陌生的土地上掠夺。 大多数人把他们的掠袭看作是物质和女人的问题，但有时他们会奴役有巨大潜力的难对付的男孩。%name%，一个北方人，就是这样一个孩子，他被培养成一个他们自己的掠袭者。 他的一半生活在原始氏族里，另一半生活在带走他的人那里。 这使他成为一个勇猛而野蛮的战士。",
     "stage": 1,
     "context": "bros[2].getBackground().m.RawDescription = 'Barbarian raiders often take from lands foreign to them. Most see their raids as a matter of material and women, but occasionally they will enslave formidable boys with great potential. %name%, a northerner, was such a child and he was raised to be a raider himself. Half his life was with his primitive clan, and the other half with those who took him. This has made him as hardy and brutish a warrior as one can get.'"
   },
@@ -36,7 +36,7 @@
     "key": "Northern Raiders",
     "original": "Northern Raiders",
     "translation": "北方掠夺者",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Northern Raiders'"
   },
   {

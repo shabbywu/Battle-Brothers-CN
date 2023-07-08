@@ -11,7 +11,7 @@
     "ID": 293421116,
     "key": "%name% left the collapsing company and returned to his village. Back in the militia, it wasn't long until {greenskins | raiders} attacked and he was called to action. It's said that he stood tall, rallying the defense as he slew through countless enemies ",
     "original": "%name% left the collapsing company and returned to his village. Back in the militia, it wasn't long until {greenskins | raiders} attacked and he was called to action. It's said that he stood tall, rallying the defense as he slew through countless enemies before succumbing to mortal wounds. When you visited the village, you found children playfighting beneath a statue made in the militiaman's image.",
-    "translation": "%name%离开了崩溃中的战团并回到了他的村庄。回到民兵队伍后，不久就开始遭受{绿皮 | 掠夺者}的攻击，他被召唤出战。据说他挺身而出，在击杀无数敌人后鼓舞了防线，直到伤重不支。当你访问那个村庄时，你发现孩子们在一个以民兵形象为样本的雕像下打闹。",
+    "translation": "%name%离开了崩溃中的战团并回到了他的村庄。回到民兵队伍后，不久就开始遭受{绿皮 | 掠袭者}的攻击，他被召唤出战。据说他挺身而出，在击杀无数敌人后鼓舞了防线，直到伤重不支。当你访问那个村庄时，你发现孩子们在一个以民兵形象为样本的雕像下打闹。",
     "stage": 5,
     "context": "this.m.BadEnding = \"%name% left the collapsing company and returned to his village. Back in the militia, it wasn't long until {greenskins | raiders} attacked and he was called to action. It's said that he stood tall, rallying the defense as he slew through countless enemies before succumbing to mortal wounds. When you visited the village, you found children playfighting beneath a statue made in the militiaman's image.\""
   },

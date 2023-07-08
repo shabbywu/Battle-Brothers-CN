@@ -51,7 +51,7 @@
     "ID": 293406989,
     "key": "Pillagers' Jurts",
     "original": "Pillagers' Jurts",
-    "translation": "劫掠者的圆顶帐篷群",
+    "translation": "掠袭者的圆顶帐篷群",
     "stage": 5,
     "context": "\"Pillagers' Jurts\""
   },
@@ -1315,8 +1315,8 @@
     "ID": 293407147,
     "key": "Raiders' Encampment",
     "original": "Raiders' Encampment",
-    "translation": "掠夺者营地",
-    "stage": 1,
+    "translation": "掠袭者营地",
+    "stage": 5,
     "context": "\"Raiders' Encampment\""
   },
   {
@@ -1659,8 +1659,8 @@
     "ID": 293407190,
     "key": "Desert Raiders Outpost",
     "original": "Desert Raiders Outpost",
-    "translation": "沙漠掠夺者前哨站",
-    "stage": 1,
+    "translation": "沙漠掠袭者前哨站",
+    "stage": 5,
     "context": "'Desert Raiders Outpost'"
   },
   {
@@ -1691,8 +1691,8 @@
     "ID": 293407194,
     "key": "Raiders Basecamp",
     "original": "Raiders Basecamp",
-    "translation": "掠夺者大本营",
-    "stage": 1,
+    "translation": "掠袭者大本营",
+    "stage": 5,
     "context": "'Raiders Basecamp'"
   },
   {
@@ -3667,8 +3667,8 @@
     "ID": 293407441,
     "key": "Desert Raiders Encampment",
     "original": "Desert Raiders Encampment",
-    "translation": "沙漠掠夺者营地",
-    "stage": 1,
+    "translation": "沙漠掠袭者营地",
+    "stage": 5,
     "context": "'Desert Raiders Encampment'"
   },
   {
@@ -4139,8 +4139,8 @@
     "ID": 293407500,
     "key": "Raider's Tents",
     "original": "Raider's Tents",
-    "translation": "掠夺者营帐",
-    "stage": 1,
+    "translation": "掠袭者营帐",
+    "stage": 5,
     "context": "\"Raider's Tents\""
   },
   {
@@ -5155,8 +5155,8 @@
     "ID": 293407627,
     "key": "Greenskin Raiders Camp",
     "original": "Greenskin Raiders Camp",
-    "translation": "绿皮掠夺者营地",
-    "stage": 1,
+    "translation": "绿皮掠袭者营地",
+    "stage": 5,
     "context": "'Greenskin Raiders Camp'"
   },
   {
@@ -5587,7 +5587,7 @@
     "ID": 293407681,
     "key": "Raiders Retreat",
     "original": "Raiders Retreat",
-    "translation": "掠夺者避难所",
+    "translation": "掠袭者避难所",
     "stage": 5,
     "context": "'Raiders Retreat'"
   },

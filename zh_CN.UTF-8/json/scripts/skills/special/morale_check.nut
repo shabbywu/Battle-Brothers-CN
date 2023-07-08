@@ -163,7 +163,7 @@
     "ID": 293422286,
     "key": "We can't win this! This character's morale is breaking and he is close to fleeing the battlefield.",
     "original": "We can't win this! This character's morale is breaking and he is close to fleeing the battlefield.",
-    "translation": "我们赢不了！这个角色的士气正在瓦解，他很快就要逃离战场了。",
+    "translation": "我们赢不了！这个角色的士气降至了瓦解，他很快就要逃离战场了。",
     "stage": 5,
     "context": "text = \"We can't win this! This character's morale is breaking and he is close to fleeing the battlefield.\""
   },

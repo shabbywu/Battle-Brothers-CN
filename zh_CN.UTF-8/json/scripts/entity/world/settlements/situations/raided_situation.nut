@@ -27,7 +27,7 @@
     "ID": 293411828,
     "key": "You one of them raiders? Sure look and smell like one! Your men pillage %settlement%? Get out of here, I says, we don't want your kind around!",
     "original": "You one of them raiders? Sure look and smell like one! Your men pillage %settlement%? Get out of here, I says, we don't want your kind around!",
-    "translation": "你是掠夺者吗？当然，看起来和闻起来都像！你的人抢劫 %settlement%？离开这里，我说，我们不想你们这种人在身边！",
+    "translation": "你是掠袭者吗？当然，看起来和闻起来都像！你的人抢劫 %settlement%？离开这里，我说，我们不想你们这种人在身边！",
     "stage": 1,
     "context": "\"You one of them raiders? Sure look and smell like one! Your men pillage %settlement%? Get out of here, I says, we don't want your kind around!\""
   },
