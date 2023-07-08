@@ -11,8 +11,8 @@
     "ID": 293418203,
     "key": "Sea Raider Helmet",
     "original": "Sea Raider Helmet",
-    "translation": "海上掠夺者头盔",
-    "stage": 1,
+    "translation": "海上掠袭者头盔",
+    "stage": 5,
     "context": "'Sea Raider Helmet'"
   },
   {

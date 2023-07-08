@@ -12,7 +12,7 @@
     "key": "grey",
     "original": "grey",
     "translation": "grey",
-    "stage": 1,
+    "stage": -1,
     "context": "hairColor != 'grey'"
   }
 ]

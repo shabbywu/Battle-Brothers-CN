@@ -35,7 +35,7 @@
     "ID": 293411659,
     "key": "Brigands and raiders are the bane of us traveling merchants! An old friend of mine got ambushed, robbed and beaten just outside of %settlement%!",
     "original": "Brigands and raiders are the bane of us traveling merchants! An old friend of mine got ambushed, robbed and beaten just outside of %settlement%!",
-    "translation": "强盗和掠夺者是我们旅行商人的祸根！我的一个老朋友就在%settlement%外遭到伏击、抢劫和殴打！",
+    "translation": "强盗和掠袭者是我们旅行商人的祸根！我的一个老朋友就在%settlement%外遭到伏击、抢劫和殴打！",
     "stage": 5,
     "context": "'Brigands and raiders are the bane of us traveling merchants! An old friend of mine got ambushed, robbed and beaten just outside of %settlement%!'"
   },

@@ -123,7 +123,7 @@
     "ID": 293421177,
     "key": "the Desert Raider",
     "original": "the Desert Raider",
-    "translation": "沙漠掠夺者(the Desert Raider)",
+    "translation": "沙漠掠袭者(the Desert Raider)",
     "stage": 5,
     "context": "'the Desert Raider'"
   },

@@ -779,8 +779,8 @@
     "ID": 293405733,
     "key": "Brigand Raiders",
     "original": "Brigand Raiders",
-    "translation": "强盗掠夺者",
-    "stage": 1,
+    "translation": "强盗掠袭者",
+    "stage": 5,
     "context": "'Brigand Raiders'"
   },
   {
@@ -2787,8 +2787,8 @@
     "ID": 293405984,
     "key": "Brigand Raider",
     "original": "Brigand Raider",
-    "translation": "强盗掠夺者",
-    "stage": 1,
+    "translation": "强盗掠袭者",
+    "stage": 5,
     "context": "'Brigand Raider'"
   },
   {

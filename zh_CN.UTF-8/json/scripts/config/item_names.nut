@@ -2139,7 +2139,7 @@
     "ID": 293405136,
     "key": "Ravager",
     "original": "Ravager",
-    "translation": "劫掠者",
+    "translation": "掠袭者",
     "stage": 1,
     "context": "'Ravager'"
   },
@@ -2403,8 +2403,8 @@
     "ID": 293405169,
     "key": "Raider's",
     "original": "Raider's",
-    "translation": "掠夺者的",
-    "stage": 1,
+    "translation": "掠袭者的",
+    "stage": 5,
     "context": "\"Raider's\""
   },
   {
@@ -3483,7 +3483,7 @@
     "ID": 293405304,
     "key": "Ravagers",
     "original": "Ravagers",
-    "translation": "劫掠者",
+    "translation": "掠袭者",
     "stage": 1,
     "context": "'Ravagers'"
   },

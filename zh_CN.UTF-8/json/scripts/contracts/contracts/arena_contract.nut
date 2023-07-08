@@ -67,7 +67,7 @@
     "ID": 293407775,
     "key": "Enter the arena again to start the fight against one Swordmaster and %amount% raiders",
     "original": "Enter the arena again to start the fight against one Swordmaster and %amount% raiders",
-    "translation": "再次进入竞技场以开始对抗一名剑术大师和%amount%名掠夺者",
+    "translation": "再次进入竞技场以开始对抗一名剑术大师和%amount%名掠袭者",
     "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against one Swordmaster and %amount% raiders'"
   },
@@ -363,7 +363,7 @@
     "ID": 293407812,
     "key": "Enter the arena again to start the fight against one Hedge Knight and %amount% raiders",
     "original": "Enter the arena again to start the fight against one Hedge Knight and %amount% raiders",
-    "translation": "再次进入竞技场以开始对抗一位雇佣骑士和%amount%名掠夺者",
+    "translation": "再次进入竞技场以开始对抗一位雇佣骑士和%amount%名掠袭者",
     "stage": 5,
     "context": "this.Contract.m.BulletpointsObjectives.1 = 'Enter the arena again to start the fight against one Hedge Knight and %amount% raiders'"
   },

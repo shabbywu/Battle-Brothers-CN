@@ -1035,7 +1035,7 @@
     "ID": 293405558,
     "key": "All anyone talks 'bout 'round these parts are damned raiders. 'Suppose they're the toast of Rumorville 'cause they gots their hands on the %item% or some such thing now. Where at? Oh, somewhere %terrain%.",
     "original": "All anyone talks 'bout 'round these parts are damned raiders. 'Suppose they're the toast of Rumorville 'cause they gots their hands on the %item% or some such thing now. Where at? Oh, somewhere %terrain%.",
-    "translation": "所有人都在“抱怨”这一带都是强盗。“猜想他们是谣言制造者”是因为他们得到了一些类似 %item%  的珍宝才那么猖獗吧。你问我在哪？噢，或许是在 %terrain%。",
+    "translation": "所有人都在“抱怨”这一带都是该死的掠袭者。“猜想他们是谣言制造者”是因为他们得到了一些类似 %item%  的珍宝才那么猖獗吧。你问我在哪？噢，或许是在 %terrain%。",
     "stage": 1,
     "context": "\"All anyone talks 'bout 'round these parts are damned raiders. 'Suppose they're the toast of Rumorville 'cause they gots their hands on the %item% or some such thing now. Where at? Oh, somewhere %terrain%.\""
   },

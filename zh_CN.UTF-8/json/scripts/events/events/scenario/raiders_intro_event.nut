@@ -19,8 +19,8 @@
     "ID": 293416753,
     "key": "The Northern Raiders",
     "original": "The Northern Raiders",
-    "translation": "北方掠夺者",
-    "stage": 1,
+    "translation": "北方掠袭者们",
+    "stage": 5,
     "context": "this.m.Title = 'The Northern Raiders'"
   }
 ]

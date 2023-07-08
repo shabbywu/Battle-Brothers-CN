@@ -275,8 +275,8 @@
     "ID": 293409469,
     "key": "Goblin Raiders",
     "original": "Goblin Raiders",
-    "translation": "地精突袭者",
-    "stage": 1,
+    "translation": "地精掠袭者",
+    "stage": 5,
     "context": "this.World.FactionManager.getFactionOfType(this.Const.FactionType.Goblins).spawnEntity(tile, 'Goblin Raiders', False, this.Const.World.Spawn.GoblinRaiders, 110 * this.Contract.getDifficultyMult() * this.Contract.getScaledDifficultyMult())"
   },
   {

@@ -123,7 +123,7 @@
     "ID": 293422261,
     "key": "]breaking[/color] morale or worse",
     "original": "]breaking[/color] morale or worse",
-    "translation": "]溃散[/color]或更糟士气",
+    "translation": "]瓦解[/color]或更糟士气",
     "stage": 5,
     "context": "text = 'Can only have [color=' + this.Const.UI.Color.NegativeValue + ']breaking[/color] morale or worse'"
   }

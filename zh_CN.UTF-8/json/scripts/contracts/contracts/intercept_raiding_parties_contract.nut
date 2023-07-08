@@ -99,8 +99,8 @@
     "ID": 293409318,
     "key": " from southern raiders",
     "original": " from southern raiders",
-    "translation": "来自南方掠夺者。",
-    "stage": 1,
+    "translation": "来自南方劫掠者",
+    "stage": 2,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationNobleContractFail, 'Failed to defend ' + this.Contract.m.Destination.getName() + ' from southern raiders')"
   },
   {

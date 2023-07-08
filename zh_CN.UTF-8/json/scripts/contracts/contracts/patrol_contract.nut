@@ -339,7 +339,7 @@
     "ID": 293409574,
     "key": "A band of desert raiders preying on anyone trying to cross the seas of sand.",
     "original": "A band of desert raiders preying on anyone trying to cross the seas of sand.",
-    "translation": "一群沙漠掠夺者，狩猎任何试图穿越沙海的人。",
+    "translation": "一群沙漠掠袭者，狩猎任何试图穿越沙海的人。",
     "stage": 5,
     "context": "party.setDescription('A band of desert raiders preying on anyone trying to cross the seas of sand.')"
   },
@@ -371,8 +371,8 @@
     "ID": 293409578,
     "key": "Goblin Raiders",
     "original": "Goblin Raiders",
-    "translation": "地精突袭者",
-    "stage": 1,
+    "translation": "地精掠袭者",
+    "stage": 5,
     "context": "this.World.FactionManager.getFactionOfType(this.Const.FactionType.Goblins).spawnEntity(tile, 'Goblin Raiders', False, this.Const.World.Spawn.GoblinRaiders, 110 * this.getDifficultyMult() * this.getScaledDifficultyMult())"
   },
   {

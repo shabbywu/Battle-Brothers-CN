@@ -43,7 +43,7 @@
     "ID": 293421300,
     "key": "the Raider",
     "original": "the Raider",
-    "translation": "掠夺者(the Raider)",
+    "translation": "掠袭者(the Raider)",
     "stage": 5,
     "context": "'the Raider'"
   },

@@ -3,8 +3,8 @@
     "ID": 293417365,
     "key": "Goblin Raiders",
     "original": "Goblin Raiders",
-    "translation": "地精袭击者",
-    "stage": 1,
+    "translation": "地精掠袭者",
+    "stage": 5,
     "context": "this.getFaction().spawnEntity(settlement.getTile(), 'Goblin Raiders', False, this.Const.World.Spawn.GoblinRaiders, this.Math.rand(75, 120) * this.getReputationToDifficultyLightMult() * mult)"
   },
   {

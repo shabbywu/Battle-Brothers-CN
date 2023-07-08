@@ -180,7 +180,7 @@
     "key": ",socket,miniboss,arrow",
     "original": ",socket,miniboss,arrow",
     "translation": ",socket,miniboss,arrow",
-    "stage": 1,
+    "stage": -1,
     "context": "local result = 'tacticalentity(' + this.m.ContentID + ',' + this.getID() + ',socket,miniboss,arrow'"
   },
   {
