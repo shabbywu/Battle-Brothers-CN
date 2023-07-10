@@ -1214,14 +1214,14 @@
         "total": 967,
         "translated": 967,
         "disputed": 0,
-        "checked": 101,
-        "reviewed": 101,
+        "checked": 104,
+        "reviewed": 104,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.288Z",
         "updatedAt": "2023-06-26T05:46:29.6Z",
-        "modifiedAt": "2023-07-07T02:53:52Z",
-        "sha256": "8f8f31c33a5f6bd69f57305fab57770ca7b83db48853c8a60218dfc2690bb0a4"
+        "modifiedAt": "2023-07-09T10:28:12Z",
+        "sha256": "c8b665d885f30d6e39fe041091807474e8ad31a77737d0080ec81c3652a863a1"
     },
     "scripts/config/credits.json": {
         "id": 918414,
@@ -1826,14 +1826,14 @@
         "total": 83,
         "translated": 83,
         "disputed": 0,
-        "checked": 47,
-        "reviewed": 47,
+        "checked": 48,
+        "reviewed": 48,
         "hidden": 0,
         "locked": 1,
         "createdAt": "2023-05-13T14:17:58.212Z",
         "updatedAt": "2023-06-26T05:46:44.164Z",
-        "modifiedAt": "2023-07-07T02:53:41Z",
-        "sha256": "3babb42716cea7c4eb2658efe417c1bd75a964098110cdd97a4702440a069ad9"
+        "modifiedAt": "2023-07-09T14:48:17Z",
+        "sha256": "705ff2e1c3315115e06e4a9a881844b0bbbcae381c0bf1efe26377b9aa7747ca"
     },
     "scripts/contracts/contracts/escort_envoy_contract.json": {
         "id": 918448,
@@ -33836,8 +33836,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:51.184Z",
         "updatedAt": "2023-06-26T05:49:29.993Z",
-        "modifiedAt": "2023-07-04T09:34:41Z",
-        "sha256": "a60db142613a74defec4d11f2a935a9c4ddc97624fdcd6e0f934d7bafa622b5d"
+        "modifiedAt": "2023-07-09T10:29:31Z",
+        "sha256": "b7c21812a53ffb7f7dbbc7e989bc15d260d1299c5ff019874e42c8abf3d0b004"
     },
     "scripts/skills/backgrounds/servant_background.json": {
         "id": 920226,

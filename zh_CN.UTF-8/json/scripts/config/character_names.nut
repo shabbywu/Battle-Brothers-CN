@@ -379,8 +379,8 @@
     "ID": 293403825,
     "key": "Al-Fad",
     "original": "Al-Fad",
-    "translation": "阿尔阿尔法德",
-    "stage": 1,
+    "translation": "阿尔-法德",
+    "stage": 5,
     "context": "'Al-Fad'"
   },
   {
@@ -5819,8 +5819,8 @@
     "ID": 293404505,
     "key": "Al-Fath",
     "original": "Al-Fath",
-    "translation": "阿尔法特",
-    "stage": 1,
+    "translation": "阿尔-法斯",
+    "stage": 5,
     "context": "'Al-Fath'"
   },
   {
@@ -6107,8 +6107,8 @@
     "ID": 293404541,
     "key": "Al-Faris",
     "original": "Al-Faris",
-    "translation": "阿尔法里斯",
-    "stage": 1,
+    "translation": "阿尔-法瑞斯",
+    "stage": 5,
     "context": "'Al-Faris'"
   },
   {
