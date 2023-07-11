@@ -1214,14 +1214,14 @@
         "total": 967,
         "translated": 967,
         "disputed": 0,
-        "checked": 104,
-        "reviewed": 104,
+        "checked": 107,
+        "reviewed": 107,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.288Z",
         "updatedAt": "2023-06-26T05:46:29.6Z",
-        "modifiedAt": "2023-07-09T10:28:12Z",
-        "sha256": "c8b665d885f30d6e39fe041091807474e8ad31a77737d0080ec81c3652a863a1"
+        "modifiedAt": "2023-07-10T05:05:18Z",
+        "sha256": "29c25cb9609c2359aa4d2b3c1e7914cca77b5bb2d0473e533569456dbc52f246"
     },
     "scripts/config/credits.json": {
         "id": 918414,
@@ -1340,14 +1340,14 @@
         "total": 1218,
         "translated": 1218,
         "disputed": 0,
-        "checked": 296,
-        "reviewed": 296,
+        "checked": 300,
+        "reviewed": 300,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2023-07-07T02:53:41Z",
-        "sha256": "edee5cfb54f11631f4b82db992ac1920efce57fa35112f00721668d99fe2dae3"
+        "modifiedAt": "2023-07-10T04:55:06Z",
+        "sha256": "670f5636b0c2114f411dbd322ce7f4c420c111840e03c45e765d1f75169a7336"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -1832,8 +1832,8 @@
         "locked": 1,
         "createdAt": "2023-05-13T14:17:58.212Z",
         "updatedAt": "2023-06-26T05:46:44.164Z",
-        "modifiedAt": "2023-07-09T14:48:17Z",
-        "sha256": "705ff2e1c3315115e06e4a9a881844b0bbbcae381c0bf1efe26377b9aa7747ca"
+        "modifiedAt": "2023-07-10T02:27:21Z",
+        "sha256": "8efbea7b0927fd354d92d09000c769ce1c6ffc66f72b34e9a303fb38ae99cf7d"
     },
     "scripts/contracts/contracts/escort_envoy_contract.json": {
         "id": 918448,
@@ -3140,14 +3140,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:28.739Z",
         "updatedAt": "2023-06-26T05:46:58.128Z",
-        "modifiedAt": "2023-06-26T05:46:58Z",
-        "sha256": "2a7fffaa25d09c92d28190c5810668bafc9de081d55ac4bc099529f85bd95cc9"
+        "modifiedAt": "2023-07-10T04:50:14Z",
+        "sha256": "db84cf3478e8ad3bae57d1ab2b4180a233c58bc4fb3988a362da04821d1e7a03"
     },
     "scripts/entity/tactical/objects/autumn_tree1.json": {
         "id": 918521,
@@ -3986,14 +3986,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:46.669Z",
         "updatedAt": "2023-06-26T05:47:03.997Z",
-        "modifiedAt": "2023-06-26T05:47:04Z",
-        "sha256": "f0c11d94056cdf1d394dc997046e8e5aefe03fae3fee0ea8d3f3cfc241b6bc81"
+        "modifiedAt": "2023-07-10T04:50:14Z",
+        "sha256": "8c77fa9c08dacc15eca6c43719783a8ae14bde1d4ca860f56c644fa103c54fae"
     },
     "scripts/entity/tactical/objects/tree_cypress.json": {
         "id": 918568,
@@ -4004,14 +4004,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:47.008Z",
         "updatedAt": "2023-06-26T05:47:04.053Z",
-        "modifiedAt": "2023-06-26T05:47:04Z",
-        "sha256": "59434ee306ee46183558748ab4910af473279d3c09c2470679ae217004494f94"
+        "modifiedAt": "2023-07-10T04:50:36Z",
+        "sha256": "b50fc3549075cd61fbd135301fbca1bbf35bc1f4dff3224619f2ca7c4c4e1343"
     },
     "scripts/entity/tactical/objects/tree_dead_steppe.json": {
         "id": 918569,
@@ -4022,14 +4022,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:47.344Z",
         "updatedAt": "2023-06-26T05:47:04.119Z",
-        "modifiedAt": "2023-06-26T05:47:04Z",
-        "sha256": "11e2cab44e6c56b1b4a65b8627ce7d79fd805b02680f9d0f45e777bdd073889a"
+        "modifiedAt": "2023-07-10T04:54:07Z",
+        "sha256": "fd62786c579279394fcd57cf7ff5f8701fee6e9e1601b7a9842e602eaf9df960"
     },
     "scripts/entity/tactical/objects/tree_lush_small.json": {
         "id": 918570,
@@ -4094,14 +4094,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:48.869Z",
         "updatedAt": "2023-06-26T05:47:04.353Z",
-        "modifiedAt": "2023-06-26T05:47:04Z",
-        "sha256": "edfb129eb92ed96f1b796d26174961497ff70e10692e491b8c97d2df89441e05"
+        "modifiedAt": "2023-07-10T04:54:14Z",
+        "sha256": "c696a1340597e631f4d4ec7874c5e41e89ba2f9599e8ad0299d9aa1062c0fac6"
     },
     "scripts/entity/tactical/objects/tree_olive_dry.json": {
         "id": 918574,
@@ -4112,14 +4112,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:49.206Z",
         "updatedAt": "2023-06-26T05:47:04.547Z",
-        "modifiedAt": "2023-06-26T05:47:05Z",
-        "sha256": "a34c05ec445b394c83fc1a0f9f11e12d9eb0e430b56b34b9cb56574445c2c79b"
+        "modifiedAt": "2023-07-10T04:54:15Z",
+        "sha256": "8baacd219a1d8f41e95fd0b0e252356c61adf6a7499a4e92fb7ec59fb44b1f3b"
     },
     "scripts/entity/tactical/objects/tree_stump1.json": {
         "id": 918575,
@@ -4220,14 +4220,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:51.37Z",
         "updatedAt": "2023-06-26T05:47:05.05Z",
-        "modifiedAt": "2023-06-26T05:47:05Z",
-        "sha256": "eda573508a64d83a3f992244438528254bbba30c40f9339d9f87f72f24588276"
+        "modifiedAt": "2023-07-10T04:50:16Z",
+        "sha256": "e9cb2d908f56b452001d9ad11052b1928c52d4c40e77ed0c23a68c9b65b1138e"
     },
     "scripts/entity/tactical/player.json": {
         "id": 918581,
@@ -29336,8 +29336,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:52.605Z",
         "updatedAt": "2023-06-26T05:49:12.657Z",
-        "modifiedAt": "2023-07-07T02:53:53Z",
-        "sha256": "9627ee46dc474663317ed997d2f0c06ea29097b909c29cb877d1a8f0589555d2"
+        "modifiedAt": "2023-07-10T03:20:30Z",
+        "sha256": "8b91e0678483568d68a051dca9b892417fc098064f2d80d74b1022fe8e35b005"
     },
     "scripts/scenarios/world/random_scenario.json": {
         "id": 919976,
@@ -29912,8 +29912,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:08.77Z",
         "updatedAt": "2023-06-26T05:49:14.706Z",
-        "modifiedAt": "2023-06-26T05:49:15Z",
-        "sha256": "8cd7a7b49f77a7a1e0588d2df781c0d1bd8f14449bbeb977a0bc4e953069ca1f"
+        "modifiedAt": "2023-07-10T04:56:18Z",
+        "sha256": "6eab4c39c661c897a3ac22a142b60ac6281b00430bb81c341264f325e9e8c370"
     },
     "scripts/skills/actives/drink_antidote_skill.json": {
         "id": 920008,
@@ -33200,14 +33200,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:37.265Z",
         "updatedAt": "2023-06-26T05:49:26.905Z",
-        "modifiedAt": "2023-07-01T13:27:31Z",
-        "sha256": "3b484454fa81a315b0058cbab34a86a0189e6c8ac840721081613af19accb9a1"
+        "modifiedAt": "2023-07-10T08:03:05Z",
+        "sha256": "c0788c75696fee98c3e3f7c3c8024c31a3d3c77fa18f067083099766aebec841"
     },
     "scripts/skills/backgrounds/gravedigger_background.json": {
         "id": 920191,
@@ -33254,14 +33254,14 @@
         "total": 17,
         "translated": 17,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 13,
+        "reviewed": 13,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:38.451Z",
         "updatedAt": "2023-06-26T05:49:27.137Z",
-        "modifiedAt": "2023-06-26T05:49:27Z",
-        "sha256": "4bea54fba63c1db13429bab7f1f9c4c85fe341a9f2c860146e2c22a139e9dcd3"
+        "modifiedAt": "2023-07-10T12:32:56Z",
+        "sha256": "39ceca7f4ae9e4a98db705099c3e2c28566ec8f6a3fe1be0760e99711e717112"
     },
     "scripts/skills/backgrounds/historian_background.json": {
         "id": 920194,
@@ -33740,14 +33740,14 @@
         "total": 15,
         "translated": 15,
         "disputed": 0,
-        "checked": 12,
-        "reviewed": 12,
+        "checked": 15,
+        "reviewed": 15,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:49.436Z",
         "updatedAt": "2023-06-26T05:49:29.589Z",
-        "modifiedAt": "2023-07-07T09:54:47Z",
-        "sha256": "0b8845b44e9d4681c0608a8400f045d8fd7ce9ac7d1a2265bc56a1cb760695e5"
+        "modifiedAt": "2023-07-10T03:20:09Z",
+        "sha256": "cf9b302d2ef251e7ade1473ecf51ccee43bd8b3bbc9f5de8223c8786e2d8c2a7"
     },
     "scripts/skills/backgrounds/ratcatcher_background.json": {
         "id": 920221,
@@ -34484,8 +34484,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:04.997Z",
         "updatedAt": "2023-06-26T05:49:32.622Z",
-        "modifiedAt": "2023-06-26T05:49:33Z",
-        "sha256": "49ec7ceeffc1089915a6006ed4b5ae5af72c5699c95a46ef9673e5ea107317b9"
+        "modifiedAt": "2023-07-10T04:58:17Z",
+        "sha256": "e8178f71c916c75dc6c739a651c0f3983e2692aad61b4ad65661bb181e8c9e8b"
     },
     "scripts/skills/effects/dodge_effect.json": {
         "id": 920262,

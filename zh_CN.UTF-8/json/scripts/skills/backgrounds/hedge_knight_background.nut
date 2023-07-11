@@ -3,7 +3,7 @@
     "ID": 293421000,
     "key": "the Lone Wolf",
     "original": "the Lone Wolf",
-    "translation": "独狼",
+    "translation": "独狼(the Lone Wolf)",
     "stage": 5,
     "context": "'the Lone Wolf'"
   },
@@ -27,8 +27,8 @@
     "ID": 293421003,
     "key": "the Wolf",
     "original": "the Wolf",
-    "translation": "狼",
-    "stage": 1,
+    "translation": "狼(the Wolf)",
+    "stage": 5,
     "context": "'the Wolf'"
   },
   {
@@ -36,23 +36,23 @@
     "key": "Strongface",
     "original": "Strongface",
     "translation": "强面(Strongface)",
-    "stage": 1,
+    "stage": 5,
     "context": "'Strongface'"
   },
   {
     "ID": 293421005,
     "key": "the Defiler",
     "original": "the Defiler",
-    "translation": "污染者",
-    "stage": 1,
+    "translation": "亵渎者(the Defiler)",
+    "stage": 5,
     "context": "'the Defiler'"
   },
   {
     "ID": 293421006,
     "key": "Steelwielder",
     "original": "Steelwielder",
-    "translation": "钢铁侠",
-    "stage": 1,
+    "translation": "钢铁挥舞者(Steelwielder)",
+    "stage": 5,
     "context": "'Steelwielder'"
   },
   {
@@ -67,24 +67,24 @@
     "ID": 293421008,
     "key": "the Slayer",
     "original": "the Slayer",
-    "translation": "杀手",
-    "stage": 1,
+    "translation": "杀手(the Slayer)",
+    "stage": 5,
     "context": "'the Slayer'"
   },
   {
     "ID": 293421009,
     "key": "the Hound",
     "original": "the Hound",
-    "translation": "猎犬",
-    "stage": 1,
+    "translation": "猎犬(the Hound)",
+    "stage": 5,
     "context": "'the Hound'"
   },
   {
     "ID": 293421010,
     "key": "the Knightslayer",
     "original": "the Knightslayer",
-    "translation": "骑士杀手",
-    "stage": 1,
+    "translation": "骑士杀手(the Knightslayer)",
+    "stage": 5,
     "context": "'the Knightslayer'"
   },
   {
@@ -116,7 +116,7 @@
     "key": "the Jouster",
     "original": "the Jouster",
     "translation": "比武骑士(the Jouster)",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Jouster'"
   },
   {
@@ -131,7 +131,7 @@
     "ID": 293421016,
     "key": "the Hedge Knight",
     "original": "the Hedge Knight",
-    "translation": "雇佣骑士 (the Hedge Knight)",
+    "translation": "雇佣骑士(the Hedge Knight)",
     "stage": 5,
     "context": "'the Hedge Knight'"
   }
