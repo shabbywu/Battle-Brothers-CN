@@ -11,8 +11,8 @@
     "ID": 293410443,
     "key": "Dense shrubbery that blocks movement and line of sight.",
     "original": "Dense shrubbery that blocks movement and line of sight.",
-    "translation": "茂密的灌木阻挡了移动和视线。",
-    "stage": 1,
+    "translation": "茂密的灌木丛，阻挡移动和视线。",
+    "stage": 5,
     "context": "return 'Dense shrubbery that blocks movement and line of sight.';"
   }
 ]

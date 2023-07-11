@@ -4428,7 +4428,7 @@
     "key": "Plant",
     "original": "Plant",
     "translation": "植物",
-    "stage": 1,
+    "stage": 5,
     "context": "Plant = 'Plant'"
   },
   {
@@ -5708,7 +5708,7 @@
     "key": "Sand",
     "original": "Sand",
     "translation": "沙",
-    "stage": 1,
+    "stage": 5,
     "context": "'Sand'"
   },
   {
@@ -7027,8 +7027,8 @@
     "ID": 293406514,
     "key": "Burning hot desert sand.",
     "original": "Burning hot desert sand.",
-    "translation": "灼热的沙漠沙子。",
-    "stage": 1,
+    "translation": "炙热的沙漠沙子。",
+    "stage": 5,
     "context": "'Burning hot desert sand.'"
   },
   {
@@ -7747,8 +7747,8 @@
     "ID": 293406604,
     "key": "An exotic plant that blocks movement and line of sight.",
     "original": "An exotic plant that blocks movement and line of sight.",
-    "translation": "一种能阻挡移动和视线的外来植物。",
-    "stage": 1,
+    "translation": "异域植物，阻挡移动和视线。",
+    "stage": 5,
     "context": "Plant = 'An exotic plant that blocks movement and line of sight.'"
   },
   {

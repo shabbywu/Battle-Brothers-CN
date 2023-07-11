@@ -43,7 +43,7 @@
     "ID": 293419941,
     "key": " for one turn",
     "original": " for one turn",
-    "translation": "持续 1 回合",
+    "translation": "，持续 1 回合",
     "stage": 5,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has disarmed ' + this.Const.UI.getColorizedEntityName(target) + ' for one turn')"
   },

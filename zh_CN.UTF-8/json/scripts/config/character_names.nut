@@ -932,7 +932,7 @@
     "key": "Tamim",
     "original": "Tamim",
     "translation": "塔米姆",
-    "stage": 1,
+    "stage": 5,
     "context": "'Tamim'"
   },
   {
@@ -3803,8 +3803,8 @@
     "ID": 293404253,
     "key": "Al-Aban",
     "original": "Al-Aban",
-    "translation": "阿尔阿班",
-    "stage": 1,
+    "translation": "阿尔-阿班",
+    "stage": 5,
     "context": "'Al-Aban'"
   },
   {
@@ -5371,8 +5371,8 @@
     "ID": 293404449,
     "key": "Al-Jatami",
     "original": "Al-Jatami",
-    "translation": "阿尔贾塔米",
-    "stage": 1,
+    "translation": "阿尔-贾塔米",
+    "stage": 5,
     "context": "'Al-Jatami'"
   },
   {
