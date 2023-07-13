@@ -33254,14 +33254,14 @@
         "total": 17,
         "translated": 17,
         "disputed": 0,
-        "checked": 13,
-        "reviewed": 13,
+        "checked": 17,
+        "reviewed": 17,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:38.451Z",
         "updatedAt": "2023-06-26T05:49:27.137Z",
-        "modifiedAt": "2023-07-10T12:32:56Z",
-        "sha256": "39ceca7f4ae9e4a98db705099c3e2c28566ec8f6a3fe1be0760e99711e717112"
+        "modifiedAt": "2023-07-12T01:18:06Z",
+        "sha256": "dbcc9caa5d7cd517bab32a7a147fc5705411763c4de2ea7ad0c72b30c1f2fe94"
     },
     "scripts/skills/backgrounds/historian_background.json": {
         "id": 920194,
@@ -33650,14 +33650,14 @@
         "total": 14,
         "translated": 14,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 11,
+        "reviewed": 11,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:47.72Z",
         "updatedAt": "2023-06-26T05:49:28.978Z",
-        "modifiedAt": "2023-06-26T05:49:29Z",
-        "sha256": "284cf8f6967c79fa307ecdb184f15cd994e9fad5a3a43b76f2bf28e476f70312"
+        "modifiedAt": "2023-07-12T09:56:47Z",
+        "sha256": "eb144c30face283751494a4091787320802f3df4b30701bc556db8a29d2cc6c6"
     },
     "scripts/skills/backgrounds/peddler_background.json": {
         "id": 920216,
