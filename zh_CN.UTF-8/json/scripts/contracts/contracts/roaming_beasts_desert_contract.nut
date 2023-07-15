@@ -52,7 +52,7 @@
     "key": "Negotiations",
     "original": "Negotiations",
     "translation": "谈判",
-    "stage": 1,
+    "stage": 5,
     "context": "Title = 'Negotiations'"
   },
   {
@@ -84,7 +84,7 @@
     "key": "Hunt down what terrorizes ",
     "original": "Hunt down what terrorizes ",
     "translation": "追捕威胁",
-    "stage": 1,
+    "stage": 5,
     "context": "'Hunt down what terrorizes ' + this.Contract.m.Home.getName()"
   },
   {

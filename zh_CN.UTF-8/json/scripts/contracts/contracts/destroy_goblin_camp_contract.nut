@@ -147,7 +147,7 @@
     "ID": 293408544,
     "key": "Destroyed a goblin encampment",
     "original": "Destroyed a goblin encampment",
-    "translation": "摧毁了地精营地",
+    "translation": "摧毁了一处地精营地",
     "stage": 5,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationNobleContractSuccess, 'Destroyed a goblin encampment')"
   },
