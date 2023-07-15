@@ -23,17 +23,17 @@
         "name": "patch/patch_snippet_with_func.json",
         "filename": "",
         "format": "json",
-        "total": 9,
-        "translated": 9,
+        "total": 11,
+        "translated": 11,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 7,
+        "reviewed": 7,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-07-02T03:52:37.18Z",
         "updatedAt": "2023-07-05T12:35:50.999Z",
-        "modifiedAt": "2023-07-05T12:47:21Z",
-        "sha256": "c15da0a5a9d1db62713edb4282b28e29fb32539e5ae1c9ce1c6a7beecf49ca50"
+        "modifiedAt": "2023-07-14T10:51:03Z",
+        "sha256": "6c95ed17774237901e1163694903259073c5b6bc96553b55289a038a82ec54a8"
     },
     "scripts/ai/tactical/behaviors/ai_retreat_always.json": {
         "id": 940735,
@@ -1724,8 +1724,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:55.848Z",
         "updatedAt": "2023-06-26T05:46:42.233Z",
-        "modifiedAt": "2023-06-26T05:46:42Z",
-        "sha256": "03d6f867f5c0fcb5d889049848037f35bddff67c82d02edace6d59a5259e17e2"
+        "modifiedAt": "2023-07-14T02:25:28Z",
+        "sha256": "14634c45585d6b011b807214159a32ea6ffed427fafdbc30273ebd8849ee5e09"
     },
     "scripts/contracts/contracts/destroy_orc_camp_contract.json": {
         "id": 918442,
@@ -1789,15 +1789,15 @@
         "format": "json",
         "total": 48,
         "translated": 48,
-        "disputed": 0,
-        "checked": 9,
-        "reviewed": 9,
+        "disputed": 2,
+        "checked": 16,
+        "reviewed": 16,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:57.391Z",
         "updatedAt": "2023-06-26T05:46:43.53Z",
-        "modifiedAt": "2023-06-26T05:46:44Z",
-        "sha256": "854ddae180c2ace1246eda4207ea2b94b9aa006e8e32322a4f588f8637e9db11"
+        "modifiedAt": "2023-07-14T10:57:05Z",
+        "sha256": "38917d920cb3b1ce9627f7fec487daeeb0a1225b9837baf519e7d346a66f9484"
     },
     "scripts/contracts/contracts/drive_away_nomads_contract.json": {
         "id": 918446,
@@ -2257,15 +2257,15 @@
         "format": "json",
         "total": 39,
         "translated": 39,
-        "disputed": 1,
-        "checked": 10,
-        "reviewed": 10,
+        "disputed": 0,
+        "checked": 11,
+        "reviewed": 11,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:10.097Z",
         "updatedAt": "2023-06-30T08:56:16.257Z",
-        "modifiedAt": "2023-06-30T10:40:32Z",
-        "sha256": "e3875e1c8703700e31fe3ab727356db47005c97ef5c5c17f135cefc42d78088f"
+        "modifiedAt": "2023-07-14T09:40:14Z",
+        "sha256": "75da18bb3510ef637bec5bfc9dc96097940eb2fceb81c5138d560aa5e7158c7c"
     },
     "scripts/contracts/contracts/roaming_beasts_desert_contract.json": {
         "id": 918472,
@@ -2276,14 +2276,14 @@
         "total": 32,
         "translated": 32,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 7,
+        "reviewed": 7,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:10.468Z",
         "updatedAt": "2023-06-26T05:46:52.257Z",
-        "modifiedAt": "2023-06-26T05:46:52Z",
-        "sha256": "e5008c684d6c24f0290bfae1cc87e97cca3d6c9c0511a32ed0d23ada6c144320"
+        "modifiedAt": "2023-07-14T07:09:50Z",
+        "sha256": "a526583f8c43bb1cb815f8456f21c884c5265934adda644c7e8af12b0eb87da8"
     },
     "scripts/contracts/contracts/root_out_undead_contract.json": {
         "id": 918473,
@@ -33650,14 +33650,14 @@
         "total": 14,
         "translated": 14,
         "disputed": 0,
-        "checked": 11,
-        "reviewed": 11,
+        "checked": 14,
+        "reviewed": 14,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:47.72Z",
         "updatedAt": "2023-06-26T05:49:28.978Z",
-        "modifiedAt": "2023-07-12T09:56:47Z",
-        "sha256": "eb144c30face283751494a4091787320802f3df4b30701bc556db8a29d2cc6c6"
+        "modifiedAt": "2023-07-14T02:20:41Z",
+        "sha256": "d4538a3e2b7c9f0dfea6bd2c79ce2ad7155b3156886b4df4c58375f21c5f7f1c"
     },
     "scripts/skills/backgrounds/peddler_background.json": {
         "id": 920216,
