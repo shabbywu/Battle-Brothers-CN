@@ -86,5 +86,13 @@
     "translation": "追捕威胁%s的事物",
     "stage": 5,
     "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/roaming_beasts_desert_contract.nut\",\n    \"location\": \"createStates::start\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
+  },
+  {
+    "ID": 319280855,
+    "key": "\"You failed to save \" + this.Contract.m.Home.getName() + \" from barbarians out for revenge\"",
+    "original": "\"You failed to save \" + this.Contract.m.Home.getName() + \" from barbarians out for revenge\"",
+    "translation": "你没能从野蛮人的复仇中保护%s",
+    "stage": 5,
+    "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/drive_away_barbarians_contract.nut\",\n    \"location\": \"createScreens::getResult[14]\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
   }
 ]
