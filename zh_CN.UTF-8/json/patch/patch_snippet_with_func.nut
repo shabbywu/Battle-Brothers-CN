@@ -44,7 +44,7 @@
     "key": "\"Will heal in \" + ht.Min + \" days\"",
     "original": "\"Will heal in \" + ht.Min + \" days\"",
     "translation": "会在 %s 天后痊愈",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n    \"sourcename\": \"scripts/skills/injury/injury.nut\",\n    \"location\": \"addTooltipHint\",\n    \"type\": \"AddExprReplaceImpl\",\n    \"local_variables\": [\n        \"ht\"\n    ]\n}"
   },
   {
@@ -52,7 +52,7 @@
     "key": "\"Will heal in \" + ht.Min + \" to \" + ht.Max + \" days\"",
     "original": "\"Will heal in \" + ht.Min + \" to \" + ht.Max + \" days\"",
     "translation": "会在 %s 到 %s 天内痊愈",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n    \"sourcename\": \"scripts/skills/injury/injury.nut\",\n    \"location\": \"addTooltipHint\",\n    \"type\": \"AddExprReplaceImpl\",\n    \"local_variables\": [\n        \"ht\"\n    ]\n}"
   },
   {
@@ -60,7 +60,7 @@
     "key": "\"Will be gone in \" + ht.Min + \" days\"",
     "original": "\"Will be gone in \" + ht.Min + \" days\"",
     "translation": "会在 %s 天后消失",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n    \"sourcename\": \"scripts/skills/injury/injury.nut\",\n    \"location\": \"addTooltipHint\",\n    \"type\": \"AddExprReplaceImpl\",\n    \"local_variables\": [\n        \"ht\"\n    ]\n}"
   },
   {
@@ -68,7 +68,7 @@
     "key": "\"Will be gone in \" + ht.Min + \" to \" + ht.Max + \" days\"",
     "original": "\"Will be gone in \" + ht.Min + \" to \" + ht.Max + \" days\"",
     "translation": "会在 %s 到 %s 天内消失",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n    \"sourcename\": \"scripts/skills/injury/injury.nut\",\n    \"location\": \"addTooltipHint\",\n    \"type\": \"AddExprReplaceImpl\",\n    \"local_variables\": [\n        \"ht\"\n    ]\n}"
   },
   {
@@ -91,8 +91,40 @@
     "ID": 319280855,
     "key": "\"You failed to save \" + this.Contract.m.Home.getName() + \" from barbarians out for revenge\"",
     "original": "\"You failed to save \" + this.Contract.m.Home.getName() + \" from barbarians out for revenge\"",
-    "translation": "你没能从野蛮人的复仇中保护%s",
+    "translation": "你没能从野蛮人的复仇中救下%s",
     "stage": 5,
     "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/drive_away_barbarians_contract.nut\",\n    \"location\": \"createScreens::getResult[14]\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
+  },
+  {
+    "ID": 319807299,
+    "key": "\"Failed to destroy a barbarian encampment threatening \" + this.Contract.m.Home.getName()",
+    "original": "\"Failed to destroy a barbarian encampment threatening \" + this.Contract.m.Home.getName()",
+    "translation": "没能摧毁威胁%s的野蛮人营地",
+    "stage": 5,
+    "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/drive_away_barbarians_contract.nut\",\n    \"location\": \"createScreens::getResult[5]\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
+  },
+  {
+    "ID": 319807300,
+    "key": "\"You destroyed a barbarian encampment that threatened \" + this.Contract.m.Home.getName()",
+    "original": "\"You destroyed a barbarian encampment that threatened \" + this.Contract.m.Home.getName()",
+    "translation": "你摧毁了威胁%s的野蛮人营地",
+    "stage": 5,
+    "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/drive_away_barbarians_contract.nut\",\n    \"location\": \"createScreens::getResult[13]\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
+  },
+  {
+    "ID": 319807301,
+    "key": "\"You saved \" + this.Contract.m.Home.getName() + \" from barbarian revenge\"",
+    "original": "\"You saved \" + this.Contract.m.Home.getName() + \" from barbarian revenge\"",
+    "translation": "你从野蛮人的复仇中救下了%s",
+    "stage": 5,
+    "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/drive_away_barbarians_contract.nut\",\n    \"location\": \"createScreens::getResult[13]\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
+  },
+  {
+    "ID": 319807303,
+    "key": "[1]\"You destroyed a barbarian encampment that threatened \" + this.Contract.m.Home.getName()",
+    "original": "\"You destroyed a barbarian encampment that threatened \" + this.Contract.m.Home.getName()",
+    "translation": "你摧毁了威胁%s的野蛮人营地",
+    "stage": 1,
+    "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/drive_away_barbarians_contract.nut\",\n    \"location\": \"createScreens::getResult[15]\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
   }
 ]

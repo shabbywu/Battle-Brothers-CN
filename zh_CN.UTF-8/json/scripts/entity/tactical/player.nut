@@ -3,7 +3,7 @@
     "ID": 293410444,
     "key": "Beheaded",
     "original": "Beheaded",
-    "translation": "被斩首",
+    "translation": "斩首",
     "stage": 5,
     "context": "killedBy = 'Beheaded'"
   },
@@ -123,7 +123,7 @@
     "ID": 293410459,
     "key": "Devoured by a Kraken",
     "original": "Devoured by a Kraken",
-    "translation": "被克拉肯吞噬了。",
+    "translation": "被克拉肯吞噬了",
     "stage": 5,
     "context": "killedBy = 'Devoured by a Kraken'"
   },
@@ -131,7 +131,7 @@
     "ID": 293410460,
     "key": "Disemboweled",
     "original": "Disemboweled",
-    "translation": "被开膛",
+    "translation": "开膛",
     "stage": 5,
     "context": "killedBy = 'Disemboweled'"
   },
