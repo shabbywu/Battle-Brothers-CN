@@ -23,17 +23,17 @@
         "name": "patch/patch_snippet_with_func.json",
         "filename": "",
         "format": "json",
-        "total": 12,
-        "translated": 12,
+        "total": 16,
+        "translated": 16,
         "disputed": 0,
-        "checked": 8,
-        "reviewed": 8,
+        "checked": 15,
+        "reviewed": 15,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-07-02T03:52:37.18Z",
         "updatedAt": "2023-07-05T12:35:50.999Z",
-        "modifiedAt": "2023-07-16T14:18:58Z",
-        "sha256": "526b402aa3db3de6060fd7d99c6c8a69f4a88c2207d25d2965f715d761b03855"
+        "modifiedAt": "2023-07-19T02:01:19Z",
+        "sha256": "4c6e13300c83807918dca092b86f237d1ce951ce07b5d46664c7b29eb25087a9"
     },
     "scripts/ai/tactical/behaviors/ai_retreat_always.json": {
         "id": 940735,
@@ -1796,8 +1796,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:57.391Z",
         "updatedAt": "2023-06-26T05:46:43.53Z",
-        "modifiedAt": "2023-07-16T14:21:53Z",
-        "sha256": "38917d920cb3b1ce9627f7fec487daeeb0a1225b9837baf519e7d346a66f9484"
+        "modifiedAt": "2023-07-19T01:17:51Z",
+        "sha256": "db6cdd4bf835e53da68d577cbe9e353cbf8a57b9c5037ec590768cb276daf311"
     },
     "scripts/contracts/contracts/drive_away_nomads_contract.json": {
         "id": 918446,
@@ -4244,8 +4244,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:51.707Z",
         "updatedAt": "2023-06-26T05:47:05.121Z",
-        "modifiedAt": "2023-07-06T23:37:04Z",
-        "sha256": "a0336ddd13d00db7833b323b27a7eb3d0eef7333387a9a46df9196608b1b0ec7"
+        "modifiedAt": "2023-07-17T11:05:21Z",
+        "sha256": "d9f00588cdb91b4520cd1db41f7896dd93a9ae524a7a2a8cec3c9f1f80822581"
     },
     "scripts/entity/tactical/player_corpse_stub.json": {
         "id": 918582,
