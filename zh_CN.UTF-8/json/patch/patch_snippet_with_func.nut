@@ -107,7 +107,7 @@
     "ID": 319807300,
     "key": "\"You destroyed a barbarian encampment that threatened \" + this.Contract.m.Home.getName()",
     "original": "\"You destroyed a barbarian encampment that threatened \" + this.Contract.m.Home.getName()",
-    "translation": "你摧毁了威胁%s的野蛮人营地",
+    "translation": "你摧毁了一处威胁%s的野蛮人营地",
     "stage": 5,
     "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/drive_away_barbarians_contract.nut\",\n    \"location\": \"createScreens::getResult[13]\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
   },
@@ -123,8 +123,8 @@
     "ID": 319807303,
     "key": "[1]\"You destroyed a barbarian encampment that threatened \" + this.Contract.m.Home.getName()",
     "original": "\"You destroyed a barbarian encampment that threatened \" + this.Contract.m.Home.getName()",
-    "translation": "你摧毁了威胁%s的野蛮人营地",
-    "stage": 1,
+    "translation": "你摧毁了一处威胁%s的野蛮人营地",
+    "stage": 5,
     "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/drive_away_barbarians_contract.nut\",\n    \"location\": \"createScreens::getResult[15]\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
   }
 ]

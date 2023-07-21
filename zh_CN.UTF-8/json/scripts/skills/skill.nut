@@ -187,7 +187,7 @@
     "ID": 293422193,
     "key": "[i]Costs ",
     "original": "[i]Costs ",
-    "translation": "[i]消耗",
+    "translation": "[i]消耗 ",
     "stage": 5,
     "context": "return '[i]Costs ' + this.isAffordableBasedOnAPPreview() ? '[b][color=' + this.Const.UI.Color.PositiveValue + ']' + this.getActionPointCost() : '[b][color=' + this.Const.UI.Color.NegativeValue + ']' + this.getActionPointCost() + ' AP[/color][/b] to use and builds up ' + this.isAffordableBasedOnFatiguePreview() ? '[b][color=' + this.Const.UI.Color.PositiveValue + ']' + this.getFatigueCost() : '[b][color=' + this.Const.UI.Color.NegativeValue + ']' + this.getFatigueCost() + ' Fatigue[/color][/b][/i]\n';"
   },

@@ -8,14 +8,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-07-05T12:35:50.764Z",
         "updatedAt": "2023-07-05T12:35:50.764Z",
-        "modifiedAt": "0001-01-01T00:00:00Z",
-        "sha256": "f77f55442dc917cfb0b6f8c5d409b7244e8100c59ee8ade88a874c79239447ad"
+        "modifiedAt": "2023-07-19T06:00:01Z",
+        "sha256": "ad84bf2585963778de8716915ed79b43b49f6142bf489bd245a874a98d3fbcd8"
     },
     "patch/patch_snippet_with_func.json": {
         "id": 986968,
@@ -26,14 +26,14 @@
         "total": 16,
         "translated": 16,
         "disputed": 0,
-        "checked": 15,
-        "reviewed": 15,
+        "checked": 16,
+        "reviewed": 16,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-07-02T03:52:37.18Z",
         "updatedAt": "2023-07-05T12:35:50.999Z",
-        "modifiedAt": "2023-07-19T02:01:19Z",
-        "sha256": "4c6e13300c83807918dca092b86f237d1ce951ce07b5d46664c7b29eb25087a9"
+        "modifiedAt": "2023-07-19T12:58:54Z",
+        "sha256": "9b5b44a918961124337357ffe8e89955b0d3b04b887f8cb65b96f85eb0eb92d0"
     },
     "scripts/ai/tactical/behaviors/ai_retreat_always.json": {
         "id": 940735,
@@ -1790,14 +1790,14 @@
         "total": 48,
         "translated": 48,
         "disputed": 2,
-        "checked": 16,
-        "reviewed": 16,
+        "checked": 17,
+        "reviewed": 17,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:57.391Z",
         "updatedAt": "2023-06-26T05:46:43.53Z",
-        "modifiedAt": "2023-07-19T01:17:51Z",
-        "sha256": "db6cdd4bf835e53da68d577cbe9e353cbf8a57b9c5037ec590768cb276daf311"
+        "modifiedAt": "2023-07-19T08:15:32Z",
+        "sha256": "9c1fc6ac312577bd1389e56576f69c63cb0ef11584f2e7e310db14f52aa98fa8"
     },
     "scripts/contracts/contracts/drive_away_nomads_contract.json": {
         "id": 918446,
@@ -2366,14 +2366,14 @@
         "total": 11,
         "translated": 11,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 7,
+        "reviewed": 7,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:12.684Z",
         "updatedAt": "2023-06-26T05:46:53.494Z",
-        "modifiedAt": "2023-06-26T05:46:54Z",
-        "sha256": "f35d7eaa7c840d6c994718080d386dc4913e61d3b75598fd304849bb96f7f2f4"
+        "modifiedAt": "2023-07-21T00:57:02Z",
+        "sha256": "404bce9c5d84eb6bbbba1b78095852eb45da94970966c5981b5a8a87fcac7df1"
     },
     "scripts/contracts/templates/negotiation_templates.json": {
         "id": 918478,
@@ -36008,14 +36008,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:45.664Z",
         "updatedAt": "2023-06-26T05:49:40.286Z",
-        "modifiedAt": "2023-06-26T05:49:40Z",
-        "sha256": "98d35deaca00c90eaeb109b67ee39fe1adae63250d2d14559474ac46e520e740"
+        "modifiedAt": "2023-07-19T13:08:52Z",
+        "sha256": "20300b2db1d819420fd4a776e343ad6afd73b295b97537f208fd6b647b37532a"
     },
     "scripts/skills/injury/broken_nose_injury.json": {
         "id": 920347,
@@ -36061,15 +36061,15 @@
         "format": "json",
         "total": 4,
         "translated": 4,
-        "disputed": 1,
-        "checked": 3,
-        "reviewed": 3,
+        "disputed": 0,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:46.684Z",
         "updatedAt": "2023-06-26T05:49:40.616Z",
-        "modifiedAt": "2023-06-29T07:30:13Z",
-        "sha256": "c16df0cff40427ef069aabc005363d6dd3056a3c1285700c100221fe5cebd751"
+        "modifiedAt": "2023-07-19T13:08:53Z",
+        "sha256": "89013bd5cb96399cc04802021c413630537a0788307b0ce3d770019b91c92942"
     },
     "scripts/skills/injury/burnt_face_injury.json": {
         "id": 920350,
@@ -36115,15 +36115,15 @@
         "format": "json",
         "total": 4,
         "translated": 4,
-        "disputed": 1,
-        "checked": 3,
-        "reviewed": 3,
+        "disputed": 0,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:49.182Z",
         "updatedAt": "2023-06-26T05:49:40.807Z",
-        "modifiedAt": "2023-06-29T07:29:43Z",
-        "sha256": "cb2ff09d14e0bc97eb64acaa0f0263eee3207023eac862fedaadc5d19a3ecb4a"
+        "modifiedAt": "2023-07-20T00:32:39Z",
+        "sha256": "78840cad6226096a8213c99b32bcec2a1a2f001951190a414faac25b64c97e79"
     },
     "scripts/skills/injury/crushed_finger_injury.json": {
         "id": 920353,
@@ -36169,15 +36169,15 @@
         "format": "json",
         "total": 4,
         "translated": 4,
-        "disputed": 1,
-        "checked": 3,
-        "reviewed": 3,
+        "disputed": 0,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:52.24Z",
         "updatedAt": "2023-06-26T05:49:40.982Z",
-        "modifiedAt": "2023-06-26T05:49:41Z",
-        "sha256": "ec3ddbeed355e5281864d10495d64f524e540e4ae2efc0746f23d1d17371bef6"
+        "modifiedAt": "2023-07-20T00:32:46Z",
+        "sha256": "506550280b4f1ff5cab374f0796ccd01c1fb04bb340cca9bcd973fb07c8e9445"
     },
     "scripts/skills/injury/cut_arm_injury.json": {
         "id": 920356,
@@ -36529,15 +36529,15 @@
         "format": "json",
         "total": 4,
         "translated": 4,
-        "disputed": 1,
-        "checked": 3,
-        "reviewed": 3,
+        "disputed": 0,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:02.338Z",
         "updatedAt": "2023-06-26T05:49:42.222Z",
-        "modifiedAt": "2023-06-26T05:49:42Z",
-        "sha256": "bda67f455b11f26681d8b95a161c04992ff50a815a0d82d0f921a31f805d5d6a"
+        "modifiedAt": "2023-07-19T13:08:55Z",
+        "sha256": "4d0eb862b8ffb088156fb60de334497c559ef16d883dc732fe3c3088d9d4939b"
     },
     "scripts/skills/injury/injured_shoulder_injury.json": {
         "id": 920376,
@@ -36835,15 +36835,15 @@
         "format": "json",
         "total": 4,
         "translated": 4,
-        "disputed": 1,
-        "checked": 3,
-        "reviewed": 3,
+        "disputed": 0,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:09.407Z",
         "updatedAt": "2023-06-26T05:49:43.28Z",
-        "modifiedAt": "2023-06-26T05:49:43Z",
-        "sha256": "dccd5f191cfe87e87ea6596dcf39f7b7ef5221d4d79aab1411a0c2ab851dbfe0"
+        "modifiedAt": "2023-07-20T00:32:45Z",
+        "sha256": "69bead32a8431b792bd243f9731836c5d410b76af64291a0acf753909197b703"
     },
     "scripts/skills/injury/stabbed_guts_injury.json": {
         "id": 920393,
@@ -36944,14 +36944,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:11.39Z",
         "updatedAt": "2023-06-26T05:49:43.652Z",
-        "modifiedAt": "2023-07-03T16:35:11Z",
-        "sha256": "f3006f08b7585fae4a48b2084cb0b4866e27be9f6ad499ed5936ddbaeeaff5d4"
+        "modifiedAt": "2023-07-19T13:08:56Z",
+        "sha256": "9207282e336f155951a0c511ab61d70932d919ad20a18e42f411b938358b3b49"
     },
     "scripts/skills/injury_permanent/missing_ear_injury.json": {
         "id": 920399,
@@ -37436,8 +37436,8 @@
         "locked": 1,
         "createdAt": "2023-05-13T14:32:22.701Z",
         "updatedAt": "2023-06-26T05:49:45.192Z",
-        "modifiedAt": "2023-06-26T05:49:45Z",
-        "sha256": "426bc6c1d61fb028f5bd677f4acf41dc1997e77674f23ed3769381ce5e4a7a71"
+        "modifiedAt": "2023-07-19T13:06:17Z",
+        "sha256": "25d7c3cf492973d91bf307c0c9d3e7092aa609fc117a2c5b7acdf0356aa08bb8"
     },
     "scripts/skills/skill_container.json": {
         "id": 920426,
