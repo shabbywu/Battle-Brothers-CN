@@ -1229,8 +1229,8 @@
         "name": "scripts/config/credits.json",
         "filename": "",
         "format": "json",
-        "total": 1,
-        "translated": 1,
+        "total": 2,
+        "translated": 2,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -1238,8 +1238,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.738Z",
         "updatedAt": "2023-06-26T05:46:30.313Z",
-        "modifiedAt": "2023-06-26T05:46:30Z",
-        "sha256": "bca2aaa25110c04bba63e3304d46092c32e74a2398a02918df4dc928b1edb738"
+        "modifiedAt": "2023-07-23T07:49:18Z",
+        "sha256": "53c8b99717bcd4d31247f1412f0c79fb90d538fd77feda26cb07b3903526c954"
     },
     "scripts/config/faction_traits_archetypes.json": {
         "id": 918415,
