@@ -2372,8 +2372,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:12.684Z",
         "updatedAt": "2023-06-26T05:46:53.494Z",
-        "modifiedAt": "2023-08-02T09:19:46Z",
-        "sha256": "339cc75fb6bbc282ac95d653e50d6baf78068053f0aa523577117a3721e56b45"
+        "modifiedAt": "2023-08-03T09:30:41Z",
+        "sha256": "833032ced2c1e16a22373c89a646e4cc6bb832a655fba82c60d78fc0822dcff0"
     },
     "scripts/contracts/templates/negotiation_templates.json": {
         "id": 918478,
