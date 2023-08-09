@@ -2366,14 +2366,14 @@
         "total": 11,
         "translated": 11,
         "disputed": 0,
-        "checked": 9,
-        "reviewed": 9,
+        "checked": 10,
+        "reviewed": 10,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:12.684Z",
         "updatedAt": "2023-06-26T05:46:53.494Z",
-        "modifiedAt": "2023-08-07T02:03:15Z",
-        "sha256": "f2a19f363f705dba9208a6a154b313b1d4c7661ae672aa9310d4d5b898883679"
+        "modifiedAt": "2023-08-09T00:31:47Z",
+        "sha256": "9a96a4f0ec0bc594de9515542140fcc99d7f3c7eb24f12d455718597d2a137c8"
     },
     "scripts/contracts/templates/negotiation_templates.json": {
         "id": 918478,
