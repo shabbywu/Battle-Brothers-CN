@@ -11,8 +11,8 @@
     "ID": 293407835,
     "key": "[img]gfx/ui/events/event_155.png[/img]Dozens of men mingle about the arena's entrance. Some stand stoically, not wishing to give any hint of their capabilities. Others, however, boast and brag with aplomb, either sincerely confident in their martial skill",
     "original": "[img]gfx/ui/events/event_155.png[/img]Dozens of men mingle about the arena's entrance. Some stand stoically, not wishing to give any hint of their capabilities. Others, however, boast and brag with aplomb, either sincerely confident in their martial skills or hoping their bravado masks any holes in their game.\n\n",
-    "translation": "[img]gfx/ui/events/event_155.png[/img]数十名男子在竞技场入口处闲逛。有些人沉默不语，不想暴露出他们的能力。然而，其他人则毫不掩饰地吹嘘自己的功夫，或是希望自己的虚张声势掩盖他们的短板。",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_155.png[/img]数十名男子聚集在竞技场的入口处。有些人沉默不语，不愿透露自己的能力。然而，另一些人则泰然自若地吹嘘和夸耀着，要么是发自内心地信任自己的武艺，要么是希望他们的虚张声势能掩盖他们技艺上的漏洞。\n\n",
+    "stage": 5,
     "context": "this.Text = \"[img]gfx/ui/events/event_155.png[/img]Dozens of men mingle about the arena's entrance. Some stand stoically, not wishing to give any hint of their capabilities. Others, however, boast and brag with aplomb, either sincerely confident in their martial skills or hoping their bravado masks any holes in their game.\n\n\""
   },
   {
