@@ -1466,14 +1466,14 @@
         "total": 68,
         "translated": 68,
         "disputed": 0,
-        "checked": 38,
-        "reviewed": 38,
+        "checked": 43,
+        "reviewed": 43,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:48.463Z",
         "updatedAt": "2023-06-30T08:56:14.464Z",
-        "modifiedAt": "2023-07-07T02:53:41Z",
-        "sha256": "3f79ee209d02c1359fb1488a194b69b60e76b507fef2c3dae9b715e4042324dc"
+        "modifiedAt": "2023-08-10T06:36:54Z",
+        "sha256": "1750d3c3f89b429afb28d4d2db5efb1ef97b0be4092970ed1fab158259758a35"
     },
     "scripts/contracts/contracts/arena_tournament_contract.json": {
         "id": 918428,
@@ -1484,14 +1484,14 @@
         "total": 41,
         "translated": 40,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 7,
+        "reviewed": 7,
         "hidden": 1,
         "locked": 1,
         "createdAt": "2023-05-13T14:17:48.847Z",
         "updatedAt": "2023-06-30T08:56:14.659Z",
-        "modifiedAt": "2023-07-05T15:43:13Z",
-        "sha256": "fd7926da02ed69a12f5c456abe7094956eace3d7fd48da29d57c44344f4ecdc3"
+        "modifiedAt": "2023-08-10T03:20:57Z",
+        "sha256": "33ed23422d838438329d25aaaab1a128e5df6ada98c36a050b80a76b32a6cfbf"
     },
     "scripts/contracts/contracts/barbarian_king_contract.json": {
         "id": 918429,

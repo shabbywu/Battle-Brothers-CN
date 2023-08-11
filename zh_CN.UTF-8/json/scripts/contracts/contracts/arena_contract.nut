@@ -27,8 +27,8 @@
     "ID": 293407770,
     "key": "[img]gfx/ui/events/event_155.png[/img]Dozens of men mingle about the arena's entrance. Some stand stoically, not wishing to give any hint of their capabilities. Others, however, boast and brag with aplomb, either sincerely confident in their martial skill",
     "original": "[img]gfx/ui/events/event_155.png[/img]Dozens of men mingle about the arena's entrance. Some stand stoically, not wishing to give any hint of their capabilities. Others, however, boast and brag with aplomb, either sincerely confident in their martial skills or hoping their bravado masks any holes in their game.\n\n",
-    "translation": "[img]gfx/ui/events/event_155.png[/img]数十名男子在竞技场入口处闲逛。有些人沉默不语，不想暴露出他们的能力。然而，其他人则毫不掩饰地吹嘘自己的功夫，或是希望自己的虚张声势掩盖他们的短板。",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_155.png[/img]数十名男子聚集在竞技场的入口处。有些人沉默不语，不愿透露自己的能力。然而，另一些人则泰然自若地吹嘘和夸耀着，要么是发自内心地信任自己的武艺，要么是希望他们的虚张声势能掩盖他们技艺上的漏洞。\n\n",
+    "stage": 5,
     "context": "this.Text = \"[img]gfx/ui/events/event_155.png[/img]Dozens of men mingle about the arena's entrance. Some stand stoically, not wishing to give any hint of their capabilities. Others, however, boast and brag with aplomb, either sincerely confident in their martial skills or hoping their bravado masks any holes in their game.\n\n\""
   },
   {
@@ -115,16 +115,16 @@
     "ID": 293407781,
     "key": "{[img]gfx/ui/events/event_155.png[/img]The time for your arena match has come and passed, but you didn't show up there. Perhaps something more important came up, or perhaps you've just been hiding like cowards. Either way, your reputation will suffer beca",
     "original": "{[img]gfx/ui/events/event_155.png[/img]The time for your arena match has come and passed, but you didn't show up there. Perhaps something more important came up, or perhaps you've just been hiding like cowards. Either way, your reputation will suffer because of this.",
-    "translation": "{[img]gfx/ui/events/event_155.png[/img]你的角斗比赛的时间已经到了，但你没有出现在那里。也许出现了更重要的事情，或者你只是像懦夫一样躲起来了。无论哪种情况，你的声誉都会因此受损。",
-    "stage": 1,
+    "translation": "{[img]gfx/ui/events/event_155.png[/img]你的角斗比赛的时间已经到了，但你没有出现在那里。也许出现了更重要的事情，或者你只是像懦夫一样躲起来了。不管怎样，你的声誉都会因此受损。",
+    "stage": 5,
     "context": "Text = \"{[img]gfx/ui/events/event_155.png[/img]The time for your arena match has come and passed, but you didn't show up there. Perhaps something more important came up, or perhaps you've just been hiding like cowards. Either way, your reputation will suffer because of this.\""
   },
   {
     "ID": 293407782,
     "key": "Let's give the crowd something to cheer for!",
     "original": "Let's give the crowd something to cheer for!",
-    "translation": "让我们给观众们呐喊的理由！",
-    "stage": 1,
+    "translation": "让我们给观众们来点欢呼的理由！",
+    "stage": 5,
     "context": "Text = \"Let's give the crowd something to cheer for!\""
   },
   {
@@ -211,8 +211,8 @@
     "ID": 293407793,
     "key": "A grizzled man, the master of the arena, holds up a scroll and taps it with a hook for a hand.",
     "original": "A grizzled man, the master of the arena, holds up a scroll and taps it with a hook for a hand.",
-    "translation": "一个头发花白的竞技场的管理者，举起一卷卷轴，用钩子做成的手敲击着它。",
-    "stage": 1,
+    "translation": "一个头发花白的男子，竞技场的主人，举起一卷卷轴，并用替下了手掌的钩子轻轻敲击它。",
+    "stage": 5,
     "context": "this[1] += 'A grizzled man, the master of the arena, holds up a scroll and taps it with a hook for a hand.'"
   },
   {
@@ -379,8 +379,8 @@
     "ID": 293407814,
     "key": "%SPEECH_ON%They put a star beside his name, the mark of the Gilder. That means his path is a gilded one. What you need to know is that he is a swordmaster. You may find some comfort in that he is an elder man, but you'd not be the first I have said that t",
     "original": "%SPEECH_ON%They put a star beside his name, the mark of the Gilder. That means his path is a gilded one. What you need to know is that he is a swordmaster. You may find some comfort in that he is an elder man, but you'd not be the first I have said that to, understand? May your path be as Gilded, because this swordmaster's certainly was.%SPEECH_OFF%",
-    "translation": "%SPEECH_ON%他们在他的名字旁边标上了一颗星，这是盖尔德的标志。这意味着他的道路是镀金的。你需要知道的是，他是一个剑术大师。你可能会觉得他是一位年长者，但你不会是第一个我这样告诉的人，明白吗？愿你的道路像镀金一样，因为这位剑术大师的道路肯定是如此。%SPEECH_OFF%",
-    "stage": 1,
+    "translation": "%SPEECH_ON%他们在他的名字旁边标上了一颗星，镀金者的标志。这意味着他的道路是镀金的。你需要知道的是，他是一位剑术大师。你可能会对他是一位年长者感到心宽，但你不是我第一个这样告知的人，明白吗？愿你的道路像镀金一样，因为这位剑术大师的道路肯定是如此。%SPEECH_OFF%",
+    "stage": 5,
     "context": "this[2] += \"%SPEECH_ON%They put a star beside his name, the mark of the Gilder. That means his path is a gilded one. What you need to know is that he is a swordmaster. You may find some comfort in that he is an elder man, but you'd not be the first I have said that to, understand? May your path be as Gilded, because this swordmaster's certainly was.%SPEECH_OFF%\""
   },
   {
