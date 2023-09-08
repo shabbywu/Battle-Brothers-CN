@@ -2264,8 +2264,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:10.097Z",
         "updatedAt": "2023-06-30T08:56:16.257Z",
-        "modifiedAt": "2023-08-11T07:45:45Z",
-        "sha256": "b3b5802b8c3dc0b0acd3037e59230aad6711ce725648316b48a0e5fdbfdb4e47"
+        "modifiedAt": "2023-09-07T09:55:49Z",
+        "sha256": "6f379017130f87b17e1acd94a5e3dc8d8a9d1d7a257105c881df75e9b7abac94"
     },
     "scripts/contracts/contracts/roaming_beasts_desert_contract.json": {
         "id": 918472,
