@@ -35,7 +35,7 @@
     "ID": 293417466,
     "key": "An eerie skull carved from a single large crystal. No scratch or other mark can be seen on its surface. Just being near it kills the fire of determination in almost any man, breaks hope and lets sprout doubts.",
     "original": "An eerie skull carved from a single large crystal. No scratch or other mark can be seen on its surface. Just being near it kills the fire of determination in almost any man, breaks hope and lets sprout doubts.",
-    "translation": "一个可怕的用大型水晶雕刻的头骨。它的表面没有划伤或其他标志。当它靠近人时，冥火会摧毁希望和勇气。",
+    "translation": "用一整块大型水晶雕刻出的可怖头骨。它的表面没有哪怕一丝划痕。仅仅是靠近它，决心就会被熄灭，而犹疑则会涌现，冲散一切希望。",
     "stage": 1,
     "context": "this.m.Description = 'An eerie skull carved from a single large crystal. No scratch or other mark can be seen on its surface. Just being near it kills the fire of determination in almost any man, breaks hope and lets sprout doubts.'"
   }
