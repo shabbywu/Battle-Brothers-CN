@@ -19,7 +19,7 @@
     "ID": 293407769,
     "key": "%SPEECH_ON%Well, heh, the Gilder must have a sense of humor. You'll be facing %number% gladiators. May your path be ever Gilded, but to be honest, I said that to the gladiators. And I've been saying it to them every day. Understand? You should prepare to ",
     "original": "%SPEECH_ON%Well, heh, the Gilder must have a sense of humor. You'll be facing %number% gladiators. May your path be ever Gilded, but to be honest, I said that to the gladiators. And I've been saying it to them every day. Understand? You should prepare to the best of your abilities.%SPEECH_OFF%",
-    "translation": "%SPEECH_ON%嗯，呵呵，吉尔德肯定有幽默感。你将面对%number%名角斗士。但坦白说，我是这么对他们说的。而且我每天都这么说。明白了吗？你应该尽你的能力做好准备。%SPEECH_OFF%",
+    "translation": "%SPEECH_ON%哦，呵呵，镀金者肯定有幽默感。你将面对%number%名角斗士。愿你走在金光大道上，但坦白说，我对他们也是这么说的。而且我每天都这么说。明白了吗？你应该尽你的能力做好准备。%SPEECH_OFF%",
     "stage": 1,
     "context": "this[2] += \"%SPEECH_ON%Well, heh, the Gilder must have a sense of humor. You'll be facing %number% gladiators. May your path be ever Gilded, but to be honest, I said that to the gladiators. And I've been saying it to them every day. Understand? You should prepare to the best of your abilities.%SPEECH_OFF%\""
   },
@@ -43,7 +43,7 @@
     "ID": 293407772,
     "key": "The arena master holds up a scroll and taps it with a hook for a hand.%SPEECH_ON%A blade dancer of the nomad tribes is on the docket. Now, he might look a bit foppish, but to get the title of 'blade dancer' you must be as articulate with the blade as a bi",
     "original": "The arena master holds up a scroll and taps it with a hook for a hand.%SPEECH_ON%A blade dancer of the nomad tribes is on the docket. Now, he might look a bit foppish, but to get the title of 'blade dancer' you must be as articulate with the blade as a bird is with the wind. Dancing expertise is optional, but they're all pretty good at that, too.%SPEECH_OFF%",
-    "translation": "竞技场队长举起一张卷轴，用钩手轻轻叩了叩。%SPEECH_ON%大名鼎鼎的刀蝶族正式登场。也许长得有点娘，但能获得“刀蝶”称号的人必须像风一样娴熟地舞动刀剑。当然，舞蹈技巧只是额外加分，但他们在这方面也毫不逊色。%SPEECH_OFF%",
+    "translation": "竞技场主管举起一张卷轴，用钩手叩了叩。%SPEECH_ON%这一轮登场的将是来自游牧部族的刀锋舞者。你也许觉得他这副模样是言过其实，但只有挥舞起刀剑来都像鸟儿乘风一样自然的人，才能获得“刀锋舞者”的头衔。当然，舞蹈技巧只是额外加分，可他们在这方面都毫不逊色。%SPEECH_OFF%",
     "stage": 1,
     "context": "this[2] += \"The arena master holds up a scroll and taps it with a hook for a hand.%SPEECH_ON%A blade dancer of the nomad tribes is on the docket. Now, he might look a bit foppish, but to get the title of 'blade dancer' you must be as articulate with the blade as a bird is with the wind. Dancing expertise is optional, but they're all pretty good at that, too.%SPEECH_OFF%\""
   },
