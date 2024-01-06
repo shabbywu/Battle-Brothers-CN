@@ -27,8 +27,8 @@
     "ID": 293411903,
     "key": "The villagers here are terrified of unknown horrors. Fewer potential recruits are to be found on the streets, and people deal less favourably with strangers.",
     "original": "The villagers here are terrified of unknown horrors. Fewer potential recruits are to be found on the streets, and people deal less favourably with strangers.",
-    "translation": "这里的村民对未知的恐怖感到恐惧。街上潜在的新兵越来越少，人们对陌生人的态度也越来越差。",
-    "stage": 5,
+    "translation": "这里的村民对未知的恐怖感到恐惧。有意被收编的人少之又少，讨价还价更是不受欢迎。",
+    "stage": 1,
     "context": "this.m.Description = 'The villagers here are terrified of unknown horrors. Fewer potential recruits are to be found on the streets, and people deal less favourably with strangers.'"
   }
 ]

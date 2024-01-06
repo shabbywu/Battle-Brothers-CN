@@ -3,7 +3,7 @@
     "ID": 293403301,
     "key": "[img]gfx/ui/events/event_35.png[/img]Spirits rise with the acquisition of more heavy armor and helmets for the %companyname%.%SPEECH_ON%Feel that? That is craftsmanship.%SPEECH_OFF%%randombrother% says, rapping a hardwood pommel against his fellow brother",
     "original": "[img]gfx/ui/events/event_35.png[/img]Spirits rise with the acquisition of more heavy armor and helmets for the %companyname%.%SPEECH_ON%Feel that? That is craftsmanship.%SPEECH_OFF%%randombrother% says, rapping a hardwood pommel against his fellow brother's newly armored head.%SPEECH_ON%Think of all the well-paid contracts we missed out on because of our crummy armor and pathetic equipment before.%SPEECH_OFF%From now on, the backline can breathe easier going into battle, knowing that their heavily armored brothers will be there to take the brunt of the assault. Should they fall, their unwieldy bulk will at least delay the enemy, giving their lightly armored companions a chance to swiftly retreat.",
-    "translation": "[img]gfx/ui/events/event_35.png[/img]精神振奋，获得更多的重型盔甲和头盔是我们 %companyname%。%SPEECH_ON%感觉到了吗？这就是手艺。%SPEECH_OFF%%randombrother% 说着，用一个硬木鞍子敲打着他兄弟的新盔甲头。%SPEECH_ON%想想我们以前因为破烂的盔甲和可怜的装备而错过的那些高薪合同吧。%SPEECH_OFF%从现在起，后防线可以在战斗中轻松呼吸，因为他们知道他们的重装甲兄弟将在那里承受攻击的冲击。 一旦他们倒下，他们笨重的身躯至少会耽误敌人，给他们的轻甲同伴一个迅速撤退的机会。",
+    "translation": "[img]gfx/ui/events/event_35.png[/img]获得更多的重型铠甲和头盔令 %companyname%精神振奋。%SPEECH_ON%感觉到了吗？这就是手艺。%SPEECH_OFF%%randombrother% 一边说着，一边用木柄敲打他兄弟刚套上头盔的头。%SPEECH_ON%想想我们之前因为烂盔甲和破装备而错过的那些高薪合同吧。%SPEECH_OFF%从现在起，后防线可以在战斗中放松呼吸，因为他们知道他们的重装甲兄弟将在战斗中首当其冲。 万一他们倒下，他们笨重的身躯至少还能迟滞敌人，给他们的轻甲同伴一个迅速撤退的机会。",
     "stage": 1,
     "context": "this.m.SuccessText = \"[img]gfx/ui/events/event_35.png[/img]Spirits rise with the acquisition of more heavy armor and helmets for the %companyname%.%SPEECH_ON%Feel that? That is craftsmanship.%SPEECH_OFF%%randombrother% says, rapping a hardwood pommel against his fellow brother's newly armored head.%SPEECH_ON%Think of all the well-paid contracts we missed out on because of our crummy armor and pathetic equipment before.%SPEECH_OFF%From now on, the backline can breathe easier going into battle, knowing that their heavily armored brothers will be there to take the brunt of the assault. Should they fall, their unwieldy bulk will at least delay the enemy, giving their lightly armored companions a chance to swiftly retreat.\""
   },
@@ -11,7 +11,7 @@
     "ID": 293403302,
     "key": "Have 3 pieces of armor and helmets with 230+ durability",
     "original": "Have 3 pieces of armor and helmets with 230+ durability",
-    "translation": "拥有3件230+耐久的盔甲和头盔",
+    "translation": "拥有230耐久以上的铠甲头盔各3件",
     "stage": 1,
     "context": "this.m.UIText = 'Have 3 pieces of armor and helmets with 230+ durability'"
   },
@@ -27,7 +27,7 @@
     "ID": 293403304,
     "key": "Have 3 pieces of body armor, and 3 helmets, each with 230 durability or more. Whether you buy them or loot them off of the battlefield, they will protect your men equally well.",
     "original": "Have 3 pieces of body armor, and 3 helmets, each with 230 durability or more. Whether you buy them or loot them off of the battlefield, they will protect your men equally well.",
-    "translation": "拥有3件盔甲和3个头盔，每件装备都有230或以上的耐久。 不管你是买它们还是从战场上掠夺它们，它们都会相当好地保护你的人。",
+    "translation": "拥有230耐久以上的铠甲3件，头盔3顶。无论是市场来的还是战场来的，带来的防护都是实实在在的。",
     "stage": 1,
     "context": "this.m.TooltipText = 'Have 3 pieces of body armor, and 3 helmets, each with 230 durability or more. Whether you buy them or loot them off of the battlefield, they will protect your men equally well.'"
   },

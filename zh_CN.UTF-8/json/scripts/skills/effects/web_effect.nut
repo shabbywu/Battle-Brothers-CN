@@ -51,8 +51,8 @@
     "ID": 293421790,
     "key": "]Twice as much damage received by a Webknecht's attack will ignore armor[/color]",
     "original": "]Twice as much damage received by a Webknecht's attack will ignore armor[/color]",
-    "translation": "]所受来自蛛魔的攻击将所造成两倍伤害，且忽视护甲[/color]",
-    "stage": 5,
+    "translation": "]蛛魔对此角色造成的忽略护甲伤害翻倍[/color]",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + \"]Twice as much damage received by a Webknecht's attack will ignore armor[/color]\""
   },
   {

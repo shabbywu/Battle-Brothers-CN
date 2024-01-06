@@ -11,7 +11,7 @@
     "ID": 293411697,
     "key": "See this here dog tooth? I plan on selling it over in %settlement%, I heard they pay good coin for animal parts there.",
     "original": "See this here dog tooth? I plan on selling it over in %settlement%, I heard they pay good coin for animal parts there.",
-    "translation": "你看这个犬齿？我打算把它卖到%settlement%，我听说那里对动物部位付的钱很多。",
+    "translation": "看到这个狗牙了吗？我打算把它卖到%settlement%，我听说那儿有人愿意为对动物身上的一些东西付的很多钱。",
     "stage": 1,
     "context": "'See this here dog tooth? I plan on selling it over in %settlement%, I heard they pay good coin for animal parts there.'"
   },
@@ -51,7 +51,7 @@
     "ID": 293411702,
     "key": "It seems all sorts of beast slayers and corpse-pickers are gathering in %settlement%. Something about selling beast trophies, I heard. Sounds like witchcraft to me.",
     "original": "It seems all sorts of beast slayers and corpse-pickers are gathering in %settlement%. Something about selling beast trophies, I heard. Sounds like witchcraft to me.",
-    "translation": "似乎各种讨伐野兽的人和捡尸者都聚集在%settlement%。我听说是为了出售野兽战利品。听起来有点像巫术。",
+    "translation": "似乎各路野兽猎人和捡尸者都聚集在%settlement%。我听说是为了出售野兽战利品。听起来有点像巫术。",
     "stage": 1,
     "context": "'It seems all sorts of beast slayers and corpse-pickers are gathering in %settlement%. Something about selling beast trophies, I heard. Sounds like witchcraft to me.'"
   }

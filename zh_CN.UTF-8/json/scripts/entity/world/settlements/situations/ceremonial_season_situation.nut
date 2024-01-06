@@ -27,8 +27,8 @@
     "ID": 293411693,
     "key": "Ceremonial Season",
     "original": "Ceremonial Season",
-    "translation": "仪式季节",
-    "stage": 5,
+    "translation": "仪祭时节",
+    "stage": 1,
     "context": "this.m.Name = 'Ceremonial Season'"
   },
   {

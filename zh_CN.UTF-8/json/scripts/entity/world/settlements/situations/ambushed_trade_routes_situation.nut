@@ -11,8 +11,8 @@
     "ID": 293411656,
     "key": "If you have any valuables on you, stay away from %settlement%. The place is scourged by cutthroats, bandits and highwaymen!",
     "original": "If you have any valuables on you, stay away from %settlement%. The place is scourged by cutthroats, bandits and highwaymen!",
-    "translation": "如果你身上有贵重物品，请远离%settlement%。那个地方到处都是割喉着、土匪和路霸！",
-    "stage": 5,
+    "translation": "如果你身上有贵重物品，请远离%settlement%。那个地方到处都是割喉者、土匪和路霸！",
+    "stage": 1,
     "context": "'If you have any valuables on you, stay away from %settlement%. The place is scourged by cutthroats, bandits and highwaymen!'"
   },
   {

@@ -283,8 +283,8 @@
     "ID": 293407980,
     "key": "Failed to break the siege of ",
     "original": "Failed to break the siege of ",
-    "translation": "未能突围攻城：",
-    "stage": 2,
+    "translation": "没能阻止绿皮围攻",
+    "stage": 1,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationNobleContractFail, 'Failed to break the siege of ' + this.Flags.get('ObjectiveName'))"
   },
   {
