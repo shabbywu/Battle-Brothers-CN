@@ -3,7 +3,7 @@
     "ID": 293414090,
     "key": "Someone ought to pay us for taking care of them.",
     "original": "Someone ought to pay us for taking care of them.",
-    "translation": "有人应该付钱让我们照顾他们。",
+    "translation": "看来会有人掏钱请我们对付这些东西。",
     "stage": 1,
     "context": "Text = 'Someone ought to pay us for taking care of them.'"
   },

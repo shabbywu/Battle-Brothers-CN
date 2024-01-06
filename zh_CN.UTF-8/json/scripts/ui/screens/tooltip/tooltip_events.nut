@@ -3,7 +3,7 @@
     "ID": 293422953,
     "key": "A higher ranged defense reduces the probability of being hit with a ranged attack, such as an arrow shot from afar. It can be increased as the character gains experience and by equipping a good shield.",
     "original": "A higher ranged defense reduces the probability of being hit with a ranged attack, such as an arrow shot from afar. It can be increased as the character gains experience and by equipping a good shield.",
-    "translation": "更高的远程防御降低了被远程攻击击中的概率，例如从远处射箭。 它可以随着角色获得经验和装备好盾牌而增加。",
+    "translation": "更高的远程防御降低了被远程攻击击中的概率，例如躲开从远处飞来的一支箭。 它可以随着角色获得经验和装备好盾牌而增加。",
     "stage": 1,
     "context": "text = 'A higher ranged defense reduces the probability of being hit with a ranged attack, such as an arrow shot from afar. It can be increased as the character gains experience and by equipping a good shield.'"
   },
@@ -27,7 +27,7 @@
     "ID": 293422956,
     "key": "The arena offers an opportunity to earn gold and fame in fights that are to the death, and in front of crowds that cheer for the most gruesome manner in which lives are dispatched.",
     "original": "The arena offers an opportunity to earn gold and fame in fights that are to the death, and in front of crowds that cheer for the most gruesome manner in which lives are dispatched.",
-    "translation": "这个竞技场提供了一个机会，以殊死搏斗的形式，在为最可怕的杀人方式欢呼的人群面前，赢得金钱和名声。",
+    "translation": "竞技场提供了一个在那些热爱凶残杀戮的嗜血观众面前，通过殊死搏斗赢得金钱和名声的机会。",
     "stage": 1,
     "context": "text = 'The arena offers an opportunity to earn gold and fame in fights that are to the death, and in front of crowds that cheer for the most gruesome manner in which lives are dispatched.'"
   },
@@ -35,7 +35,7 @@
     "ID": 293422957,
     "key": "There's space here to add another non-combat follower to your company.",
     "original": "There's space here to add another non-combat follower to your company.",
-    "translation": "这里有空间添加另一个非战斗追随者到你的战团。",
+    "translation": "你的战团在这儿有空闲的席位，可以提供给其他的非战斗追随者。",
     "stage": 1,
     "context": "text = \"There's space here to add another non-combat follower to your company.\""
   },
@@ -43,7 +43,7 @@
     "ID": 293422958,
     "key": "The number of kills this character had during the battle.",
     "original": "The number of kills this character had during the battle.",
-    "translation": "这个角色在战斗中的杀戮次数。",
+    "translation": "该角色在战斗中取得的击杀数。",
     "stage": 1,
     "context": "text = 'The number of kills this character had during the battle.'"
   },
@@ -67,7 +67,7 @@
     "ID": 293422961,
     "key": "See your retinue of non-combat followers that grant various advantages outside combat, and upgrade your cart for more inventory space.",
     "original": "See your retinue of non-combat followers that grant various advantages outside combat, and upgrade your cart for more inventory space.",
-    "translation": "看看你的非战斗追随者随从在战斗之外给予的各种优势，并升级你的货车以获得更多的库存空间。",
+    "translation": "在这里你能查看能在战斗之外带来各种好处的非战斗追随者，也可以升级你的货车以获得更多的库存空间。",
     "stage": 1,
     "context": "text = 'See your retinue of non-combat followers that grant various advantages outside combat, and upgrade your cart for more inventory space.'"
   },
@@ -75,7 +75,7 @@
     "ID": 293422962,
     "key": "Open the character screen and inventory for the active Battle Brother.",
     "original": "Open the character screen and inventory for the active Battle Brother.",
-    "translation": "打开角色屏幕和查看战场兄弟的仓库。",
+    "translation": "查看当前角色的状态和物品。",
     "stage": 1,
     "context": "text = 'Open the character screen and inventory for the active Battle Brother.'"
   },
@@ -83,7 +83,7 @@
     "ID": 293422963,
     "key": "Center the camera on the currently acting character.",
     "original": "Center the camera on the currently acting character.",
-    "translation": "将相机置于当前角色的中心。",
+    "translation": "以当前角色为中心重置相机。",
     "stage": 1,
     "context": "text = 'Center the camera on the currently acting character.'"
   },
@@ -91,7 +91,7 @@
     "ID": 293422964,
     "key": "See the obituary which lists those who have fallen in service to the company since you took command.",
     "original": "See the obituary which lists those who have fallen in service to the company since you took command.",
-    "translation": "看看这篇讣告，上面列出了自你上任以来为战团服务的人。",
+    "translation": "查看讣告，上面列出了自你上任以来为战团献身的人。",
     "stage": 1,
     "context": "text = 'See the obituary which lists those who have fallen in service to the company since you took command.'"
   },
@@ -107,7 +107,7 @@
     "ID": 293422966,
     "key": "Give the selected recruit a proper tryout to reveal his hidden character traits, if any.",
     "original": "Give the selected recruit a proper tryout to reveal his hidden character traits, if any.",
-    "translation": "给被选中的新兵一个适当的测试，以揭示他隐藏的特性，如果有的话。",
+    "translation": "测试这名战团潜在的新成员，以揭示他隐藏的特性，如果有的话。",
     "stage": 1,
     "context": "text = 'Give the selected recruit a proper tryout to reveal his hidden character traits, if any.'"
   },
@@ -115,8 +115,8 @@
     "ID": 293422967,
     "key": "Fatigue is gained for every action, like moving or using skills, and when being hit in combat or dodging in melee. It is reduced at a fixed rate of 15 each turn or as much as necessary for a character to start every turn with 15 less than his maximum fati",
     "original": "Fatigue is gained for every action, like moving or using skills, and when being hit in combat or dodging in melee. It is reduced at a fixed rate of 15 each turn or as much as necessary for a character to start every turn with 15 less than his maximum fatigue. If a character accumulates too much fatigue they may need to rest a turn (i.e. do nothing) before being able to use more specialized skills again.",
-    "translation": "每一个动作，如移动或使用技能，以及在战斗中被击中或在近战中躲闪，都会导致疲劳值。 每回合固定减少15疲劳值或角色在低于最大疲劳值15的情况下开始每个回合。 如果一个角色积累了太多的疲劳值，他们可能需要休息一段时间（即什么都不做），然后才能再次使用更专业的技能。",
-    "stage": 5,
+    "translation": "角色每做出一个动作，如移动或使用技能，就会累积疲劳值。此外，被击中或躲避近战攻击时也会累积。 回合开始时，疲劳值会固定减少15，最多减少到0。 如果一个角色积累了太多的疲劳值，他可能需要休息一段时间（即什么都不做），然后才能再次使用专业技能。",
+    "stage": 1,
     "context": "text = 'Fatigue is gained for every action, like moving or using skills, and when being hit in combat or dodging in melee. It is reduced at a fixed rate of 15 each turn or as much as necessary for a character to start every turn with 15 less than his maximum fatigue. If a character accumulates too much fatigue they may need to rest a turn (i.e. do nothing) before being able to use more specialized skills again.'"
   },
   {
@@ -131,7 +131,7 @@
     "ID": 293422969,
     "key": "Medical supplies consist of bandages, herbs, salves and the like, and are used to heal the more severe injuries sustained by your men in battle. One point of medical supplies is required each day for every injury to improve and ultimately heal. Lost hitpo",
     "original": "Medical supplies consist of bandages, herbs, salves and the like, and are used to heal the more severe injuries sustained by your men in battle. One point of medical supplies is required each day for every injury to improve and ultimately heal. Lost hitpoints heal on their own.\n\nRunning out of medical supplies will leave your men unable to recover from severe injuries.",
-    "translation": "医疗用品由绷带、草药、药膏等组成，用于治疗战斗中士兵遭受的更严重的伤害。 每天需要一点医疗用品来改善和最终治愈每一个损伤。 失去的生命值会自行恢复。\n\n医疗用品用完会使你的人无法从重伤中恢复过来。",
+    "translation": "医疗用品由绷带、草药、药膏等组成，用于治疗你的人在战斗中遭受的较严重的伤害。 每个损伤每天需要1点医疗用品来改善和治愈。 失去的生命值会自行恢复。\n\n医疗用品用完会使你的人无法从重伤中恢复过来。",
     "stage": 1,
     "context": "local desc = 'Medical supplies consist of bandages, herbs, salves and the like, and are used to heal the more severe injuries sustained by your men in battle. One point of medical supplies is required each day for every injury to improve and ultimately heal. Lost hitpoints heal on their own.\n\nRunning out of medical supplies will leave your men unable to recover from severe injuries.'"
   },
@@ -643,7 +643,7 @@
     "ID": 293423033,
     "key": "Speed up the movement of any characters controlled by you in combat significantly. Does not affect movement-related skills.",
     "original": "Speed up the movement of any characters controlled by you in combat significantly. Does not affect movement-related skills.",
-    "translation": "在战斗中显著加快由你控制的任何角色的移动速度。 不会影响动作相关技能。",
+    "translation": "在战斗中加快所有你控制的角色的移动速度。 不会影响移动相关的技能。",
     "stage": 1,
     "context": "text = 'Speed up the movement of any characters controlled by you in combat significantly. Does not affect movement-related skills.'"
   },
@@ -667,7 +667,7 @@
     "ID": 293423036,
     "key": "The free Of Flesh and Faith DLC adds two new and very unique origins for you to play as: The Anatomists and the Oathtakers. In addition, there's two new banners, new equipment, new backgrounds to hire and lots of new events.",
     "original": "The free Of Flesh and Faith DLC adds two new and very unique origins for you to play as: The Anatomists and the Oathtakers. In addition, there's two new banners, new equipment, new backgrounds to hire and lots of new events.",
-    "translation": "自由的血肉与信仰DLC为你添加了两个新的、非常独特的起源：解剖学家和宣誓者。 此外，还有两个新的旗帜、新装备、新的雇佣背景和许多新事件。",
+    "translation": "免费的血肉与信仰DLC为你添加了两个新的、非常独特的起源：解剖学家和宣誓者。 此外，还有两个新的旗帜、新装备、新的雇佣背景和许多新事件。",
     "stage": 1,
     "context": "text = \"The free Of Flesh and Faith DLC adds two new and very unique origins for you to play as: The Anatomists and the Oathtakers. In addition, there's two new banners, new equipment, new backgrounds to hire and lots of new events.\""
   },
@@ -763,7 +763,7 @@
     "ID": 293423048,
     "key": "]Unable to camp while travelling with other parties[/color]",
     "original": "]Unable to camp while travelling with other parties[/color]",
-    "translation": "]与其他方旅行时无法露营[/color]",
+    "translation": "]与其他队伍一同旅行时无法扎营[/color]",
     "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Unable to camp while travelling with other parties[/color]'"
   },
@@ -771,7 +771,7 @@
     "ID": 293423049,
     "key": "Show only weapons, offensive tools and accessories.",
     "original": "Show only weapons, offensive tools and accessories.",
-    "translation": "只显示武器、攻击性工具和附件。",
+    "translation": "只显示武器、进攻性的工具和附件。",
     "stage": 1,
     "context": "text = 'Show only weapons, offensive tools and accessories.'"
   },
@@ -779,7 +779,7 @@
     "ID": 293423050,
     "key": " more perk point is spent",
     "original": " more perk point is spent",
-    "translation": "更多的特技点被使用了",
+    "translation": "花费更多的特技点",
     "stage": 1,
     "context": "text = 'Locked until ' + perk.Unlocks - player.getPerkPointsSpent() + ' more perk point is spent'"
   },
@@ -787,7 +787,7 @@
     "ID": 293423051,
     "key": "Available, but this character has no perk point to spend",
     "original": "Available, but this character has no perk point to spend",
-    "translation": "可以获得，但这个角色没有额外的特技点",
+    "translation": "可以获得，但这个角色没有额外的特技点了",
     "stage": 1,
     "context": "text = 'Available, but this character has no perk point to spend'"
   },
@@ -843,7 +843,7 @@
     "ID": 293423058,
     "key": "Always and automatically loot everything found after combat once you close the loot screen - as long as you have the space to carry it.",
     "original": "Always and automatically loot everything found after combat once you close the loot screen - as long as you have the space to carry it.",
-    "translation": "一旦你关闭战利品屏幕，只要你有足够的空间携带它，在战斗结束后，你就会自动地掠夺所有发现的东西。",
+    "translation": "在你关闭战利品页面后自动掠夺所有战利品，前提是你有足够的仓库空间。",
     "stage": 1,
     "context": "text = 'Always and automatically loot everything found after combat once you close the loot screen - as long as you have the space to carry it.'"
   },
@@ -1203,7 +1203,7 @@
     "ID": 293423103,
     "key": "  You can carry ",
     "original": "  You can carry ",
-    "translation": "你可以携带最多",
+    "translation": "你至多能携带",
     "stage": 1,
     "context": "desc = desc + '  You can carry ' + this.Const.Difficulty.MaxResources[this.World.Assets.getEconomicDifficulty()].Medicine + this.World.Assets.m.MedicineMaxAdditional + ' units at most.'"
   },
@@ -1227,7 +1227,7 @@
     "ID": 293423106,
     "key": "Locked Seat",
     "original": "Locked Seat",
-    "translation": "锁定座位",
+    "translation": "锁定的席位",
     "stage": 1,
     "context": "text = 'Locked Seat'"
   },
@@ -1267,7 +1267,7 @@
     "ID": 293423111,
     "key": "Scroll the screen by moving the mouse cursor to the edge of the screen.",
     "original": "Scroll the screen by moving the mouse cursor to the edge of the screen.",
-    "translation": "将鼠标光标移到屏幕边缘，滚动屏幕。",
+    "translation": "通过将鼠标光标移到屏幕边缘来滚动屏幕。",
     "stage": 1,
     "context": "text = 'Scroll the screen by moving the mouse cursor to the edge of the screen.'"
   },
@@ -1283,7 +1283,7 @@
     "ID": 293423113,
     "key": "]Any character on this tile may retreat safely and immediately from battle.[/color]",
     "original": "]Any character on this tile may retreat safely and immediately from battle.[/color]",
-    "translation": "]此方格上的任何角色都可以安全、立即地撤退。[/color]",
+    "translation": "]此地格上的任何角色都可以安全而即时撤退。[/color]",
     "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Any character on this tile may retreat safely and immediately from battle.[/color]'"
   },
@@ -1363,7 +1363,7 @@
     "ID": 293423123,
     "key": "Ironman mode disables manual saving. Only a single save will exist for the company, and the game is automatically saved during the game and on exiting it. Losing the whole company means losing the save. Recommended for the best experience once you've lear",
     "original": "Ironman mode disables manual saving. Only a single save will exist for the company, and the game is automatically saved during the game and on exiting it. Losing the whole company means losing the save. Recommended for the best experience once you've learned the game.\n\nNote that on weaker computers autosaves may result in the game pausing for a few seconds.",
-    "translation": "铁人模式禁用手动保存。 战团只有一个保存，游戏在游戏期间和退出时自动保存。 失去战团意味着失去存档。 一旦你学会了游戏，就推荐给你最好的体验。\n\n请注意，在较差的计算机上，自动保存可能会导致游戏暂停几秒钟。",
+    "translation": "铁人模式禁用手动保存。 该战团将只有一个存档，游戏在游戏期间和退出时自动保存。 失去战团意味着失去存档。 推荐给任何了解了游戏机制的人，打开此选项会带给你最好的体验。\n\n请注意，在较差的计算机上，自动保存可能会导致游戏暂停几秒钟。",
     "stage": 1,
     "context": "text = \"Ironman mode disables manual saving. Only a single save will exist for the company, and the game is automatically saved during the game and on exiting it. Losing the whole company means losing the save. Recommended for the best experience once you've learned the game.\n\nNote that on weaker computers autosaves may result in the game pausing for a few seconds.\""
   },
@@ -1371,7 +1371,7 @@
     "ID": 293423124,
     "key": "The first late game crisis will be the ancient dead arising again to take back what was once theirs. If you survive for long enough, the following ones will be chosen at random.",
     "original": "The first late game crisis will be the ancient dead arising again to take back what was once theirs. If you survive for long enough, the following ones will be chosen at random.",
-    "translation": "游戏后期的第一次危机将是古代死难者再次出现，夺回曾经属于他们的东西。 如果你活得够久，以下的将随机选择。",
+    "translation": "游戏后期的第一次危机将是古代死难者再次出现，夺回曾经属于他们的东西。 如果你活得够久，接下来的将随机选择。",
     "stage": 1,
     "context": "text = 'The first late game crisis will be the ancient dead arising again to take back what was once theirs. If you survive for long enough, the following ones will be chosen at random.'"
   },
@@ -1379,7 +1379,7 @@
     "ID": 293423125,
     "key": "[/color] hours and requires ",
     "original": "[/color] hours and requires ",
-    "translation": "[/color] 小时和需要 ",
+    "translation": "[/color] 小时并消耗",
     "stage": 1,
     "context": "desc = desc + '\n\nRepairing all your equipment will take [color=' + this.Const.UI.Color.PositiveValue + ']' + repair.Hours + '[/color] hours and requires '"
   },
@@ -1403,7 +1403,7 @@
     "ID": 293423128,
     "key": "Spend these points to increase any 3 out of 8 attributes per levelup by a random amount. A single attribute can only be increased once per levelup.\n\nStars mean that a character is especially talented with a specific attribute, resulting in consistently be",
     "original": "Spend these points to increase any 3 out of 8 attributes per levelup by a random amount. A single attribute can only be increased once per levelup.\n\nStars mean that a character is especially talented with a specific attribute, resulting in consistently better dice rolls.",
-    "translation": "花费这些点以随机增加每个级别8个属性中的任意3个。 每个级别只能增加一次单个属性。\n\n星星意味着一个角色具有特殊的天赋，并具有特定的属性，从而持续地产生更好的随机值。",
+    "translation": "花费这些点数以增加8项人物属性中的3项，具体数值随机而定，每个属性在一次升级中只能提高一次。\n\n星星意味着一个角色具有对特定属性有独特天赋，总能在该属性中获得更好的随机值。",
     "stage": 1,
     "context": "text = 'Spend these points to increase any 3 out of 8 attributes per levelup by a random amount. A single attribute can only be increased once per levelup.\n\nStars mean that a character is especially talented with a specific attribute, resulting in consistently better dice rolls.'"
   },
@@ -1483,7 +1483,7 @@
     "ID": 293423138,
     "key": "The number of kills that the character scored in battle until their demise.",
     "original": "The number of kills that the character scored in battle until their demise.",
-    "translation": "角色在战斗中获得的杀戮数量，直到他们死亡。",
+    "translation": "该角色死前在战斗中取得的击杀数。",
     "stage": 1,
     "context": "text = 'The number of kills that the character scored in battle until their demise.'"
   },
@@ -1507,7 +1507,7 @@
     "ID": 293423141,
     "key": "Save campaign at the selected slot.",
     "original": "Save campaign at the selected slot.",
-    "translation": "在所选位置中保存战役。",
+    "translation": "在所选栏位保存战役。",
     "stage": 1,
     "context": "text = 'Save campaign at the selected slot.'"
   },
@@ -1619,7 +1619,7 @@
     "ID": 293423155,
     "key": "Locked until ",
     "original": "Locked until ",
-    "translation": "锁定直到 ",
+    "translation": "特技被锁定，直到 ",
     "stage": 1,
     "context": "text = 'Locked until ' + perk.Unlocks - player.getPerkPointsSpent() + ' more perk points are spent'"
   },
@@ -1635,7 +1635,7 @@
     "ID": 293423157,
     "key": "There will be no late game crisis, and you can keep on playing the sandbox experience forever. Note that with this option selected, a significant part of the game's content and late game challenge won't be accessible. Not recommended for the best experien",
     "original": "There will be no late game crisis, and you can keep on playing the sandbox experience forever. Note that with this option selected, a significant part of the game's content and late game challenge won't be accessible. Not recommended for the best experience.",
-    "translation": "不会有后期游戏危机，你可以永远继续玩沙盒体验。 请注意，选择此选项后，将无法访问游戏内容和后期游戏挑战的重要部分。 不推荐获得最佳体验。",
+    "translation": "不会有后期游戏危机，你可以永远继续玩沙盒体验。 请注意，选择此选项后，将无法体验相当一部分游戏内容和后期游戏挑战。 如果你想获得游玩最佳体验，不推荐选择此选项。",
     "stage": 1,
     "context": "text = \"There will be no late game crisis, and you can keep on playing the sandbox experience forever. Note that with this option selected, a significant part of the game's content and late game challenge won't be accessible. Not recommended for the best experience.\""
   },
@@ -1659,7 +1659,7 @@
     "ID": 293423160,
     "key": "The first late game crisis will be a holy war between northern and southern cultures. If you survive for long enough, the following ones will be chosen at random.",
     "original": "The first late game crisis will be a holy war between northern and southern cultures. If you survive for long enough, the following ones will be chosen at random.",
-    "translation": "游戏后期的第一场危机将是南北文化之间的圣战。 如果你活得够久，以下的将随机选择。",
+    "translation": "游戏后期的第一场危机将是南北文化之间的圣战。 如果你活得够久，接下来的将随机选择。",
     "stage": 1,
     "context": "text = 'The first late game crisis will be a holy war between northern and southern cultures. If you survive for long enough, the following ones will be chosen at random.'"
   },
@@ -1675,7 +1675,7 @@
     "ID": 293423162,
     "key": "The first late game crisis will be a ruthless war for power between noble houses. If you survive for long enough, the following ones will be chosen at random.",
     "original": "The first late game crisis will be a ruthless war for power between noble houses. If you survive for long enough, the following ones will be chosen at random.",
-    "translation": "游戏后期的第一场危机将是贵族家族之间的一场残酷的权力战争。 如果你活得够久，以下的将随机选择。",
+    "translation": "游戏后期的第一场危机将是贵族家族之间的一场残酷的权力战争。 如果你活得够久，接下来的将随机选择。",
     "stage": 1,
     "context": "text = 'The first late game crisis will be a ruthless war for power between noble houses. If you survive for long enough, the following ones will be chosen at random.'"
   },
@@ -1755,7 +1755,7 @@
     "ID": 293423172,
     "key": "Starting Scenario",
     "original": "Starting Scenario",
-    "translation": "开始剧情",
+    "translation": "开始战斗场景",
     "stage": 1,
     "context": "text = 'Starting Scenario'"
   },
@@ -1835,7 +1835,7 @@
     "ID": 293423182,
     "key": "Paying a compensation, gratuity or pension for the time spent with the company will allow the dismissed to leave with dignity and something to start a new life with, and it will prevent others in the company from reacting with anger over the dismissal.\n\nI",
     "original": "Paying a compensation, gratuity or pension for the time spent with the company will allow the dismissed to leave with dignity and something to start a new life with, and it will prevent others in the company from reacting with anger over the dismissal.\n\nIndebted characters are paid reparations instead for their time with the company. Other indebted will appreciate it if you pay these, but no one will react with anger if you don't.",
-    "translation": "给被解雇者支付一笔赔偿金、酬金或是养老金，这有助于使他们离开公司时能够保有尊严并能够开启新的生活，同时也避免其他公司员工因解雇而产生的愤怒情绪。\n为负债的人支付赔偿金以弥补他们在公司工作的时间。其他负债者会感激你支付赔偿金，但如果你不支付，谁也不会因此而生气。",
+    "translation": "给被解雇者支付一笔赔偿金、酬金或是养老金，这有助于使他们离开公司时能够保有尊严并能够开启新的生活，同时也避免其他公司员工因解雇而产生的愤怒情绪。\n为负债奴隶支付赔偿金以弥补他们在公司工作的时间。其他负债奴隶会感激你支付赔偿金，但如果你不支付，也不会有谁因此而生气。",
     "stage": 1,
     "context": "text = \"Paying a compensation, gratuity or pension for the time spent with the company will allow the dismissed to leave with dignity and something to start a new life with, and it will prevent others in the company from reacting with anger over the dismissal.\n\nIndebted characters are paid reparations instead for their time with the company. Other indebted will appreciate it if you pay these, but no one will react with anger if you don't.\""
   },
@@ -1843,7 +1843,7 @@
     "ID": 293423183,
     "key": "This character may have unknown traits. You can pay for a tryout to reveal these.",
     "original": "This character may have unknown traits. You can pay for a tryout to reveal these.",
-    "translation": "这个角色可能有未知的特性。 你可以支付费用尝试展示这些。",
+    "translation": "这个角色可能有未知的特性。 你可以支付费用测试以发现这些特性。",
     "stage": 1,
     "context": "text = 'This character may have unknown traits. You can pay for a tryout to reveal these.'"
   },
@@ -1859,7 +1859,7 @@
     "ID": 293423185,
     "key": "You need at least 5 empty inventory slots to fight in the ongoing tournament",
     "original": "You need at least 5 empty inventory slots to fight in the ongoing tournament",
-    "translation": "你需要至少5个空的仓库空间才能在持续的比赛中战斗",
+    "translation": "你需要至少5个空的仓库空间才能参与这场竞技大赛",
     "stage": 1,
     "context": "text = 'You need at least 5 empty inventory slots to fight in the ongoing tournament'"
   },
@@ -1923,7 +1923,7 @@
     "ID": 293423193,
     "key": "Morale is one of five states and represents the mental condition of combatants and their effectiveness in battle. At the lowest state, fleeing, a character will be outside your control - although they may eventually rally again. Morale changes as the batt",
     "original": "Morale is one of five states and represents the mental condition of combatants and their effectiveness in battle. At the lowest state, fleeing, a character will be outside your control - although they may eventually rally again. Morale changes as the battle unfolds, with characters that have high resolve less likely to fall to low morale states. Many of your opponents are affected by morale as well.\n\nMorale checks trigger on these occasions:\n- Killing an enemy\n- Seeing an enemy be killed\n- Seeing an ally be killed\n- Seeing an ally flee\n- Being hit for 15 or more damage to hitpoints\n- Being engaged by more than one opponent\n- Using certain skills, like 'Rally'",
-    "translation": "士气会是五种状态之一，代表着战斗人员的心理状态和战斗力。 在最低状态下，逃跑，角色将超出你的控制，尽管他们最终可能会再次聚集。 随着战斗的展开，士气会发生变化，具有高决心的角色不太可能落入士气低落的状态。 你的许多对手也受到士气的影响。\n\n士气检查在这些情况下触发：\n- 杀敌\n- 看到敌人被杀\n- 看到盟友被杀\n- 看到盟友逃跑\n- 生命值受到15点或更多的伤害\n- 面对一个以上的对手\n- 使用某些技能，比如“集结”",
+    "translation": "士气会是这五种代表着战斗人员的心理状态和战斗力的状态之一。 在最低状态下，逃跑，角色将超出你的控制，尽管他们最终可能会再次集结。 随着战斗的展开，士气会发生变化，具有高决心的角色不太可能落入士气低落的状态。 你的许多对手也受到士气的影响。\n\n士气检查在这些情况下触发：\n- 杀敌\n- 看到敌人被杀\n- 看到盟友被杀\n- 看到盟友逃跑\n- 生命值受到15点或以上的伤害\n- 面对一个以上的对手\n- 使用某些技能，比如“集结”",
     "stage": 1,
     "context": "text = \"Morale is one of five states and represents the mental condition of combatants and their effectiveness in battle. At the lowest state, fleeing, a character will be outside your control - although they may eventually rally again. Morale changes as the battle unfolds, with characters that have high resolve less likely to fall to low morale states. Many of your opponents are affected by morale as well.\n\nMorale checks trigger on these occasions:\n- Killing an enemy\n- Seeing an enemy be killed\n- Seeing an ally be killed\n- Seeing an ally flee\n- Being hit for 15 or more damage to hitpoints\n- Being engaged by more than one opponent\n- Using certain skills, like 'Rally'\""
   },
@@ -2003,7 +2003,7 @@
     "ID": 293423203,
     "key": "The first late game crisis will be an invasion of greenskin hordes threatening to sweep away the world of man. If you survive for long enough, the following ones will be chosen at random.",
     "original": "The first late game crisis will be an invasion of greenskin hordes threatening to sweep away the world of man. If you survive for long enough, the following ones will be chosen at random.",
-    "translation": "游戏后期的第一场危机将是大群绿皮的入侵，他们威胁要席卷人类世界。 如果你活得够久，以下的将随机选择。",
+    "translation": "游戏后期的第一场危机将是大群绿皮的入侵，他们威胁要席卷人类世界。 如果你活得够久，接下来的将随机选择。",
     "stage": 1,
     "context": "text = 'The first late game crisis will be an invasion of greenskin hordes threatening to sweep away the world of man. If you survive for long enough, the following ones will be chosen at random.'"
   },
@@ -2083,7 +2083,7 @@
     "ID": 293423213,
     "key": "A kennel where strong and fast dogs are bred for war.",
     "original": "A kennel where strong and fast dogs are bred for war.",
-    "translation": "为战争而饲养强壮而快速的狗的狗舍。",
+    "translation": "一间训犬屋，为战争繁殖和训练强壮而敏捷的战犬。",
     "stage": 1,
     "context": "text = 'A kennel where strong and fast dogs are bred for war.'"
   },
@@ -2091,7 +2091,7 @@
     "ID": 293423214,
     "key": "The damage received by this character, split into damage to hitpoints and damage to armor. The value is after any possible damage reduction.",
     "original": "The damage received by this character, split into damage to hitpoints and damage to armor. The value is after any possible damage reduction.",
-    "translation": "这个角色受到的伤害，分为对生命值的伤害和对盔甲的伤害。 该值是在任何可能的伤害减少之后。",
+    "translation": "这个角色受到的伤害，分为对生命值的伤害和对盔甲的伤害。 该值是在计算了所有减伤之后的值。",
     "stage": 1,
     "context": "text = 'The damage received by this character, split into damage to hitpoints and damage to armor. The value is after any possible damage reduction.'"
   },
@@ -2099,7 +2099,7 @@
     "ID": 293423215,
     "key": "Speed up the movement of any characters controlled by the AI in combat significantly.  Does not affect movement-related skills.",
     "original": "Speed up the movement of any characters controlled by the AI in combat significantly.  Does not affect movement-related skills.",
-    "translation": "在战斗中显著加速由AI控制的任何角色的移动。  不会影响动作相关技能。",
+    "translation": "在战斗中显著加速由AI控制的任何角色的移动。  不会影响移动相关技能。",
     "stage": 1,
     "context": "text = 'Speed up the movement of any characters controlled by the AI in combat significantly.  Does not affect movement-related skills.'"
   },
@@ -2123,7 +2123,7 @@
     "ID": 293423218,
     "key": "Have your man learn valuable lessons and insights from a true veteran of the trade. The knowledge imparted will result in [color=",
     "original": "Have your man learn valuable lessons and insights from a true veteran of the trade. The knowledge imparted will result in [color=",
-    "translation": "让您的人从一位真正的行业老手那里学习有价值的课程和经验。所传授的知识将导致[color=",
+    "translation": "让您的人从一位真正的行家里手那里学习有价值的课程和经验。所传授的知识将带来[color=",
     "stage": 1,
     "context": "text = 'Have your man learn valuable lessons and insights from a true veteran of the trade. The knowledge imparted will result in [color=' + this.Const.UI.Color.PositiveValue + ']+35%[/color] Experience Gain for the duration of three battles.'"
   },
@@ -2139,7 +2139,7 @@
     "ID": 293423220,
     "key": "How the character ultimately died.",
     "original": "How the character ultimately died.",
-    "translation": "角色最终如何死亡。",
+    "translation": "角色的死因。",
     "stage": 1,
     "context": "text = 'How the character ultimately died.'"
   },
@@ -2147,7 +2147,7 @@
     "ID": 293423221,
     "key": "A mercenary company has to carry a lot of equipment and supplies. By using carts and wagons, you can expand your available inventory space and carry even more.",
     "original": "A mercenary company has to carry a lot of equipment and supplies. By using carts and wagons, you can expand your available inventory space and carry even more.",
-    "translation": "雇佣兵战团必须携带大量的装备和物资。 通过使用货车和载重货车，你可以扩大你的可用库存空间，并携带更多。",
+    "translation": "雇佣兵战团必须携带大量的装备和物资。 通过使用货车和载重货车，你可以扩大你的可用库存空间，进一步加大携带量。",
     "stage": 1,
     "context": "text = 'A mercenary company has to carry a lot of equipment and supplies. By using carts and wagons, you can expand your available inventory space and carry even more.'"
   },
@@ -2171,7 +2171,7 @@
     "ID": 293423224,
     "key": "Pay the indicated fee, and hand over the necessary components, to receive the crafted item in return.",
     "original": "Pay the indicated fee, and hand over the necessary components, to receive the crafted item in return.",
-    "translation": "支付指定的费用，并移交必要的组件，以接收精心制作的物品作为回报。",
+    "translation": "花一笔钱，提供一些原料，得到相应的成品。",
     "stage": 1,
     "context": "text = 'Pay the indicated fee, and hand over the necessary components, to receive the crafted item in return.'"
   },
@@ -2195,7 +2195,7 @@
     "ID": 293423227,
     "key": "Provides for a balanced playing experience that can be quite challenging.\n\nRecommended for veterans of the game or the genre.",
     "original": "Provides for a balanced playing experience that can be quite challenging.\n\nRecommended for veterans of the game or the genre.",
-    "translation": "提供一个平衡的游戏体验，这是非常具有挑战性的。\n\n推荐给这类游戏的老兵。",
+    "translation": "提供一个具有挑战性的平衡游戏体验。\n\n推荐给这类游戏的老兵。",
     "stage": 1,
     "context": "text = 'Provides for a balanced playing experience that can be quite challenging.\n\nRecommended for veterans of the game or the genre.'"
   },
@@ -2267,7 +2267,7 @@
     "ID": 293423236,
     "key": "End the active character's turn and have the next character in line act.",
     "original": "End the active character's turn and have the next character in line act.",
-    "translation": "结束当前角色的回合，并让下一个角色按顺序行动。",
+    "translation": "结束当前角色的回合，并让下一个顺位的角色行动。",
     "stage": 1,
     "context": "text = \"End the active character's turn and have the next character in line act.\""
   },
@@ -2291,7 +2291,7 @@
     "ID": 293423239,
     "key": "Sell item for [img]gfx/ui/tooltips/money.png[/img]",
     "original": "Sell item for [img]gfx/ui/tooltips/money.png[/img]",
-    "translation": "出售物品 [img]gfx/ui/tooltips/money.png[/img]",
+    "translation": "售出这件物品将获得 [img]gfx/ui/tooltips/money.png[/img]",
     "stage": 1,
     "context": "text = 'Sell item for [img]gfx/ui/tooltips/money.png[/img]' + _item.getSellPrice()"
   },
@@ -2307,7 +2307,7 @@
     "ID": 293423241,
     "key": "Set time to pass faster than normal.",
     "original": "Set time to pass faster than normal.",
-    "translation": "设置通过的时间快于正常速度。",
+    "translation": "使时间流动速度比平常更快。",
     "stage": 1,
     "context": "text = 'Set time to pass faster than normal.'"
   },

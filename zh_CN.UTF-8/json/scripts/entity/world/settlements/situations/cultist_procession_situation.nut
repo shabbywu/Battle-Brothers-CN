@@ -19,7 +19,7 @@
     "ID": 293411710,
     "key": "It has awakened! The sleeping beast is about to rise from its century long slumber! Go to %settlement% and my brothers in faith will tell you the same! Davkul will come!",
     "original": "It has awakened! The sleeping beast is about to rise from its century long slumber! Go to %settlement% and my brothers in faith will tell you the same! Davkul will come!",
-    "translation": "它醒了！沉睡的野兽即将从长达一个世纪的沉睡中醒来！去 %settlement%，我的宗教兄弟们也会告诉你的！达库尔会来的！",
+    "translation": "它醒了！沉睡的野兽即将从长达几个世纪的沉睡中醒来！去 %settlement%，我虔诚的兄弟们也会这么说的！达库尔就要来了！",
     "stage": 1,
     "context": "'It has awakened! The sleeping beast is about to rise from its century long slumber! Go to %settlement% and my brothers in faith will tell you the same! Davkul will come!'"
   },
@@ -35,7 +35,7 @@
     "ID": 293411712,
     "key": "%settlement% is swarming with strange cultists, they are surely up to no good! Somebody should send the witch hunters their way, I'd say!",
     "original": "%settlement% is swarming with strange cultists, they are surely up to no good! Somebody should send the witch hunters their way, I'd say!",
-    "translation": "%settlement% 到处都是奇怪的邪教徒，他们肯定在干坏事！我得说，应该有人把女巫猎人送过去！",
+    "translation": "奇怪的邪教徒蜂拥到 %settlement% 去了，肯定不是为了干什么好事！要我说，应该有人把女巫猎人派过去！",
     "stage": 1,
     "context": "\"%settlement% is swarming with strange cultists, they are surely up to no good! Somebody should send the witch hunters their way, I'd say!\""
   },

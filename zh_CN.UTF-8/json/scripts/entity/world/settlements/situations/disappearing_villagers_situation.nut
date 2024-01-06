@@ -27,8 +27,8 @@
     "ID": 293411718,
     "key": "Villagers have been disappearing from this town, putting everyone on edge. Fewer potential recruits are to be found on the streets, and people deal less favourably with strangers.",
     "original": "Villagers have been disappearing from this town, putting everyone on edge. Fewer potential recruits are to be found on the streets, and people deal less favourably with strangers.",
-    "translation": "村民们陆续从这个小镇消失，让每个人都感到不安。在街上发现的潜在新兵越来越少，人们对陌生人的态度也越来越不友好。",
-    "stage": 5,
+    "translation": "随着村民的陆续消失，这个小镇人人自危。有意被收编的人少之又少，讨价还价更是不受欢迎。",
+    "stage": 1,
     "context": "this.m.Description = 'Villagers have been disappearing from this town, putting everyone on edge. Fewer potential recruits are to be found on the streets, and people deal less favourably with strangers.'"
   },
   {
@@ -51,8 +51,8 @@
     "ID": 293411721,
     "key": "The forces of evil are strong in this world. They hide in the woods, and in the mountains, and in the shadows, and sometimes folk just disappear without a trace. It's happening again right now over in %settlement%.",
     "original": "The forces of evil are strong in this world. They hide in the woods, and in the mountains, and in the shadows, and sometimes folk just disappear without a trace. It's happening again right now over in %settlement%.",
-    "translation": "邪恶势力在这个世界上很强大。他们躲在树林里，山里，阴影里，有时消失得无影无踪。现在又出现了，就在%settlement%。",
-    "stage": 5,
+    "translation": "邪恶势力在这个世界上很强大。他们躲在树林里，山里，阴影里，时不时的带走一些人，却不留下任何痕迹。%settlement%才发生了这种事。",
+    "stage": 1,
     "context": "\"The forces of evil are strong in this world. They hide in the woods, and in the mountains, and in the shadows, and sometimes folk just disappear without a trace. It's happening again right now over in %settlement%.\""
   }
 ]
