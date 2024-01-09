@@ -219,7 +219,7 @@
     "ID": 293410259,
     "key": " is reborn by the power of the Lorekeeper!",
     "original": " is reborn by the power of the Lorekeeper!",
-    "translation": "由贤者之力重生!",
+    "translation": "被博学者的力量复活!",
     "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(this) + ' is reborn by the power of the Lorekeeper!')"
   },

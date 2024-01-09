@@ -3,7 +3,7 @@
     "ID": 293406857,
     "key": "You can zoom in and out using the mouse wheel or Page Up and Page Down keys.",
     "original": "You can zoom in and out using the mouse wheel or Page Up and Page Down keys.",
-    "translation": "你可以使用鼠标滚轮或上下翻页键进行放大和缩小。",
+    "translation": "你可以使用鼠标滚轮或Page Up、Page Down按键放大和缩小游戏画面。",
     "stage": 1,
     "context": "'You can zoom in and out using the mouse wheel or Page Up and Page Down keys.'"
   },
@@ -43,7 +43,7 @@
     "ID": 293406862,
     "key": "Having men of different backgrounds in your company may enable you to perform different actions in events.",
     "original": "Having men of different backgrounds in your company may enable you to perform different actions in events.",
-    "translation": "在你的队伍里有不同背景的人可能会让你在事件中采取不同的行动。",
+    "translation": "为战团雇佣不同背景的人能让你在事件中有更多选择。",
     "stage": 1,
     "context": "'Having men of different backgrounds in your company may enable you to perform different actions in events.'"
   },
@@ -75,7 +75,7 @@
     "ID": 293406866,
     "key": "Different types of shields are better suited against melee or ranged attacks.",
     "original": "Different types of shields are better suited against melee or ranged attacks.",
-    "translation": "不同类型的盾牌更适合对抗近战或远程攻击。",
+    "translation": "面对近战或远程攻击，各类盾牌各有所长。",
     "stage": 1,
     "context": "'Different types of shields are better suited against melee or ranged attacks.'"
   },
@@ -115,7 +115,7 @@
     "ID": 293406871,
     "key": "Use terrain and chokepoints to your advantage.",
     "original": "Use terrain and chokepoints to your advantage.",
-    "translation": "使用地形和阻塞点对您有利。",
+    "translation": "利用地势和咽喉要道来取得优势。",
     "stage": 1,
     "context": "'Use terrain and chokepoints to your advantage.'"
   },
@@ -123,15 +123,15 @@
     "ID": 293406872,
     "key": "Bows can not be fired and crossbows not be reloaded while engaged in melee.",
     "original": "Bows can not be fired and crossbows not be reloaded while engaged in melee.",
-    "translation": "在近战中不能射击，也不能重新装载弩矢。",
-    "stage": 5,
+    "translation": "在近战中不能搭弓射箭，也不能装载弩矢。",
+    "stage": 1,
     "context": "'Bows can not be fired and crossbows not be reloaded while engaged in melee.'"
   },
   {
     "ID": 293406873,
     "key": "Shields take minor damage each time they are used to deflect an attack.",
     "original": "Shields take minor damage each time they are used to deflect an attack.",
-    "translation": "盾牌每次用于抵挡攻击时都会受到轻微的损伤。",
+    "translation": "盾牌在格挡攻击时会受到轻微损伤。",
     "stage": 1,
     "context": "'Shields take minor damage each time they are used to deflect an attack.'"
   },
@@ -139,7 +139,7 @@
     "ID": 293406874,
     "key": "You can find contract offers in the top left of settlement screens.",
     "original": "You can find contract offers in the top left of settlement screens.",
-    "translation": "你可以在结算屏幕的左上角找到合同报价。",
+    "translation": "你可以在定居点界面的左上找到合同提议。",
     "stage": 1,
     "context": "'You can find contract offers in the top left of settlement screens.'"
   },
@@ -155,7 +155,7 @@
     "ID": 293406876,
     "key": "Orcs rely on raw power and physical prowess.",
     "original": "Orcs rely on raw power and physical prowess.",
-    "translation": "兽人依靠蛮力和体力。",
+    "translation": "兽人依靠纯粹的力量和天生的体格。",
     "stage": 1,
     "context": "'Orcs rely on raw power and physical prowess.'"
   },
@@ -171,7 +171,7 @@
     "ID": 293406878,
     "key": "Difficult terrain, such as mountains and swamp, has your men use more supplies on the worldmap.",
     "original": "Difficult terrain, such as mountains and swamp, has your men use more supplies on the worldmap.",
-    "translation": "困难的地形，如高山和沼泽，会让你的人在世界地图上使用更多的补给。",
+    "translation": "恶劣地形，如高山和沼泽，会让你的人在世界地图上使用更多的补给。",
     "stage": 1,
     "context": "'Difficult terrain, such as mountains and swamp, has your men use more supplies on the worldmap.'"
   },
@@ -235,7 +235,7 @@
     "ID": 293406886,
     "key": "Stunned characters get no attack of opportunity when someone moves inside their zone of control.",
     "original": "Stunned characters get no attack of opportunity when someone moves inside their zone of control.",
-    "translation": "昏迷的角色不会借机攻击进入其控制区域的目标。",
+    "translation": "昏迷的角色不会借机攻击在其控制区域移动的目标。",
     "stage": 1,
     "context": "'Stunned characters get no attack of opportunity when someone moves inside their zone of control.'"
   },
@@ -243,7 +243,7 @@
     "ID": 293406887,
     "key": "Breaking a contract will anger your employer - especially if you've received advance payment.",
     "original": "Breaking a contract will anger your employer - especially if you've received advance payment.",
-    "translation": "违反合同会激怒你的雇主，尤其是如果你收到了预付款。",
+    "translation": "撕毁合同会激怒你的雇主——尤其是付了预付款的。",
     "stage": 1,
     "context": "\"Breaking a contract will anger your employer - especially if you've received advance payment.\""
   },
@@ -307,7 +307,7 @@
     "ID": 293406895,
     "key": "Some difficult terrain, like swamp, gives combat penalties.",
     "original": "Some difficult terrain, like swamp, gives combat penalties.",
-    "translation": "一些困难的地形，如沼泽地，会给战斗带来惩罚。",
+    "translation": "一些恶劣地形，如沼泽地，会带来战斗减益。",
     "stage": 1,
     "context": "'Some difficult terrain, like swamp, gives combat penalties.'"
   },
@@ -315,8 +315,8 @@
     "ID": 293406896,
     "key": "Fulfilling ambitions will raise everyone's mood and grant you renown, as well as some unique rewards.",
     "original": "Fulfilling ambitions will raise everyone's mood and grant you renown, as well as some unique rewards.",
-    "translation": "实现野心会提高每个人的情绪，并给予你名望以及一些独特的奖励。",
-    "stage": 5,
+    "translation": "实现野心会激励每个战团成员并提高战团名望，并提供一些独特的奖励。",
+    "stage": 1,
     "context": "\"Fulfilling ambitions will raise everyone's mood and grant you renown, as well as some unique rewards.\""
   },
   {
@@ -347,7 +347,7 @@
     "ID": 293406900,
     "key": "Forests can hide many dangers within.",
     "original": "Forests can hide many dangers within.",
-    "translation": "在森林里可能隐藏着许多危险。",
+    "translation": "森林里危机四伏。",
     "stage": 1,
     "context": "'Forests can hide many dangers within.'"
   },
@@ -355,7 +355,7 @@
     "ID": 293406901,
     "key": "Objects blocking tiles can be highlighted using the 'B' key.",
     "original": "Objects blocking tiles can be highlighted using the 'B' key.",
-    "translation": "可以使用“B”键突出显示阻挡格子的物体。",
+    "translation": "使用“B”键突出显示被阻挡的地格。",
     "stage": 1,
     "context": "\"Objects blocking tiles can be highlighted using the 'B' key.\""
   },
@@ -363,7 +363,7 @@
     "ID": 293406902,
     "key": "Use CTRL + Left Click to attack allied parties on the worldmap. This only works if you are currently unemployed.",
     "original": "Use CTRL + Left Click to attack allied parties on the worldmap. This only works if you are currently unemployed.",
-    "translation": "使用 CTRL + 左键单击来攻击世界地图上的盟友。这仅适用于您目前失业的情况。",
+    "translation": "使用 CTRL + 左键单击来攻击世界地图上的盟友。仅适用于未受雇佣的时候。",
     "stage": 1,
     "context": "'Use CTRL + Left Click to attack allied parties on the worldmap. This only works if you are currently unemployed.'"
   },
@@ -379,7 +379,7 @@
     "ID": 293406904,
     "key": "Try to save some crowns for when things turn sour.",
     "original": "Try to save some crowns for when things turn sour.",
-    "translation": "当事情变糟时，试着存留一些克朗。",
+    "translation": "存一些克朗，以防不测。",
     "stage": 1,
     "context": "'Try to save some crowns for when things turn sour.'"
   },
@@ -387,7 +387,7 @@
     "ID": 293406905,
     "key": "Some people will use you and throw you away.",
     "original": "Some people will use you and throw you away.",
-    "translation": "有些人会在利用你之后把你抛弃掉。",
+    "translation": "有些人会卸磨杀驴、兔死狗烹。",
     "stage": 1,
     "context": "'Some people will use you and throw you away.'"
   },
@@ -395,7 +395,7 @@
     "ID": 293406906,
     "key": "You may find powerful named items far away from civilization by exploring or following tavern rumors.",
     "original": "You may find powerful named items far away from civilization by exploring or following tavern rumors.",
-    "translation": "你可能会发现强大的命名物品通过远离文明探索或跟踪酒馆的谣言。",
+    "translation": "你可以通过亲身探索或是酒馆流言，找到那些远离文明世界的强大闻名物品。",
     "stage": 1,
     "context": "'You may find powerful named items far away from civilization by exploring or following tavern rumors.'"
   },
@@ -403,7 +403,7 @@
     "ID": 293406907,
     "key": "Clubs and maces can stun or incapacitate targets.",
     "original": "Clubs and maces can stun or incapacitate targets.",
-    "translation": "棍和棒可以击昏或使目标丧失能力。",
+    "translation": "棍和棒可以使目标昏迷或失能。",
     "stage": 1,
     "context": "'Clubs and maces can stun or incapacitate targets.'"
   },
@@ -419,7 +419,7 @@
     "ID": 293406909,
     "key": "Throwing weapons can be deadly on short distances, but their accuracy drops sharply the farther away the target.",
     "original": "Throwing weapons can be deadly on short distances, but their accuracy drops sharply the farther away the target.",
-    "translation": "投掷武器在短距离内是致命的，但其精度在离目标越远的地方会急剧下降。",
+    "translation": "投掷武器在近距离是致命的，但精度随距离快速下降。",
     "stage": 1,
     "context": "'Throwing weapons can be deadly on short distances, but their accuracy drops sharply the farther away the target.'"
   },
@@ -427,7 +427,7 @@
     "ID": 293406910,
     "key": "Consider forming a shieldwall when surrounded.",
     "original": "Consider forming a shieldwall when surrounded.",
-    "translation": "当被包围时，考虑形成盾墙。",
+    "translation": "当被包围时，考虑组成盾墙。",
     "stage": 1,
     "context": "'Consider forming a shieldwall when surrounded.'"
   },
@@ -435,7 +435,7 @@
     "ID": 293406911,
     "key": "Ranged weapons work best when firing into groups of enemies - they are bound to hit someone.",
     "original": "Ranged weapons work best when firing into groups of enemies - they are bound to hit someone.",
-    "translation": "远程武器在向敌群开火时效果最好，他们一定会击中某人。",
+    "translation": "远程武器最适合向成群的敌人射击，总会打到谁的。",
     "stage": 1,
     "context": "'Ranged weapons work best when firing into groups of enemies - they are bound to hit someone.'"
   },
@@ -451,7 +451,7 @@
     "ID": 293406913,
     "key": "Expect to lose some men.",
     "original": "Expect to lose some men.",
-    "translation": "准备好失去队员。",
+    "translation": "把人员折损放在预期之内。",
     "stage": 1,
     "context": "'Expect to lose some men.'"
   },
@@ -467,7 +467,7 @@
     "ID": 293406915,
     "key": "Two-handed axes can hit both head and body with a single hit.",
     "original": "Two-handed axes can hit both head and body with a single hit.",
-    "translation": "双手斧可以一次同时击中头部和身体。",
+    "translation": "双手斧的一次攻击可以击中头部和身体。",
     "stage": 1,
     "context": "'Two-handed axes can hit both head and body with a single hit.'"
   },
@@ -475,7 +475,7 @@
     "ID": 293406916,
     "key": "Learn the 'Rotation' or 'Footwork' perks for additional mobility in battle.",
     "original": "Learn the 'Rotation' or 'Footwork' perks for additional mobility in battle.",
-    "translation": "学习“换位”或“步法”在战斗中增加额外的机动性。",
+    "translation": "学习“换位”或“步法”以在战斗中获得额外的机动性。",
     "stage": 1,
     "context": "\"Learn the 'Rotation' or 'Footwork' perks for additional mobility in battle.\""
   },
@@ -483,7 +483,7 @@
     "ID": 293406917,
     "key": "If a character waits their turn, their position in the turn order of the next round is determined with a penalty of 25% to Initiative.",
     "original": "If a character waits their turn, their position in the turn order of the next round is determined with a penalty of 25% to Initiative.",
-    "translation": "如果一个角色等待他们的回合，他们在下一轮的回合顺序中的位置将被确定，并受到 25% 的先攻惩罚。",
+    "translation": "如果一个角色在回合中选择等待，下一轮的回合排序中将受25%的主动性惩罚。",
     "stage": 1,
     "context": "'If a character waits their turn, their position in the turn order of the next round is determined with a penalty of 25% to Initiative.'"
   },
@@ -499,7 +499,7 @@
     "ID": 293406919,
     "key": "A character with a height level advantage over their opponent is harder to hit.",
     "original": "A character with a height level advantage over their opponent is harder to hit.",
-    "translation": "一个比对手高的角色更难被击中。",
+    "translation": "拥有高度优势使角色更难被对手命中。",
     "stage": 1,
     "context": "'A character with a height level advantage over their opponent is harder to hit.'"
   },
@@ -515,7 +515,7 @@
     "ID": 293406921,
     "key": "Characters may sometimes be struck down during combat, but not outright killed, and will survive with a permanent injury.",
     "original": "Characters may sometimes be struck down during combat, but not outright killed, and will survive with a permanent injury.",
-    "translation": "角色有时会在战斗中被击倒，但不会被彻底击毙，并且会在受到永久损伤的情况下存活下来。",
+    "translation": "在战斗中被击倒的角色有时不会彻底死亡，而是带着永久损伤幸存下来。",
     "stage": 1,
     "context": "'Characters may sometimes be struck down during combat, but not outright killed, and will survive with a permanent injury.'"
   },
@@ -587,7 +587,7 @@
     "ID": 293406930,
     "key": "Different types of enemies require different tactics to beat reliably.",
     "original": "Different types of enemies require different tactics to beat reliably.",
-    "translation": "不同类型的敌人需要不同的战术来可靠的击败。",
+    "translation": "面对不同敌人，最适合的战术不尽相同。",
     "stage": 1,
     "context": "'Different types of enemies require different tactics to beat reliably.'"
   },
@@ -611,7 +611,7 @@
     "ID": 293406933,
     "key": "Dying is part of a mercenary's job description.",
     "original": "Dying is part of a mercenary's job description.",
-    "translation": "死亡是雇佣兵工作描述的一部分。",
+    "translation": "死亡是雇佣兵工作的一部分。",
     "stage": 1,
     "context": "\"Dying is part of a mercenary's job description.\""
   },
@@ -619,7 +619,7 @@
     "ID": 293406934,
     "key": "Consider that enemy encampments on hills are harder to assault, especially if they are fortified.",
     "original": "Consider that enemy encampments on hills are harder to assault, especially if they are fortified.",
-    "translation": "考虑到敌人在山上设立的营地更难攻打，尤其是他们筑有工事时。",
+    "translation": "要想到，敌人在山上设立的营地更难攻打，筑有工事时尤其如此。",
     "stage": 1,
     "context": "'Consider that enemy encampments on hills are harder to assault, especially if they are fortified.'"
   },
@@ -739,7 +739,7 @@
     "ID": 293406949,
     "key": "As brothers we fight, as brothers we die!",
     "original": "As brothers we fight, as brothers we die!",
-    "translation": "我们像兄弟一样战斗，同生共死！",
+    "translation": "浴血同袍，同生共死！",
     "stage": 1,
     "context": "'As brothers we fight, as brothers we die!'"
   },
@@ -795,7 +795,7 @@
     "ID": 293406956,
     "key": "Learn from your mistakes. Don't just repeat them and hope you'll get lucky this time.",
     "original": "Learn from your mistakes. Don't just repeat them and hope you'll get lucky this time.",
-    "translation": "从你的错误中学习。不要只是重复它们，希望这次你会幸运。",
+    "translation": "吸取教训，不要重蹈覆辙，祝你好运。",
     "stage": 1,
     "context": "\"Learn from your mistakes. Don't just repeat them and hope you'll get lucky this time.\""
   },
@@ -835,7 +835,7 @@
     "ID": 293406961,
     "key": "A human is no match for an adult orc physically.",
     "original": "A human is no match for an adult orc physically.",
-    "translation": "人类在身体上无法与成年兽人匹敌。",
+    "translation": "人类在体格上无法与成年兽人匹敌。",
     "stage": 1,
     "context": "'A human is no match for an adult orc physically.'"
   },
@@ -915,7 +915,7 @@
     "ID": 293406971,
     "key": "Use a trained falcon to discover hidden enemies on difficult terrain.",
     "original": "Use a trained falcon to discover hidden enemies on difficult terrain.",
-    "translation": "使用训练有素的猎鹰在困难的地形上发现隐藏的敌人。",
+    "translation": "使用训练有素的猎鹰在复杂地形上发现隐藏的敌人。",
     "stage": 1,
     "context": "'Use a trained falcon to discover hidden enemies on difficult terrain.'"
   },

@@ -1376,14 +1376,14 @@
         "total": 116,
         "translated": 116,
         "disputed": 0,
-        "checked": 9,
-        "reviewed": 9,
+        "checked": 7,
+        "reviewed": 7,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:45.456Z",
         "updatedAt": "2023-06-26T05:46:36.003Z",
-        "modifiedAt": "2023-07-05T01:31:20Z",
-        "sha256": "f3670e95f233634f6f2ce71023c04bf883dac59c3a2bfff2d7b5aebb20c1c109"
+        "modifiedAt": "2024-01-08T02:31:07Z",
+        "sha256": "30ddf39c17f201e47cef3d45ec1762c81e8635ac25e2eed32ceee619e48a6191"
     },
     "scripts/config/world.json": {
         "id": 918423,
@@ -2408,8 +2408,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:13.399Z",
         "updatedAt": "2023-06-26T05:46:53.899Z",
-        "modifiedAt": "2023-06-26T05:46:54Z",
-        "sha256": "ed2994579704f42d422eb0d6743fdafcc76df5c3fe5eeb97cff1e80d7202ca1a"
+        "modifiedAt": "2024-01-08T02:42:30Z",
+        "sha256": "cc123f9836d38858445ed751b27865ca79127bea88cd76ddcc53928f788f3bae"
     },
     "scripts/dlc/dlc_paladins.json": {
         "id": 918480,
@@ -2444,8 +2444,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:14.082Z",
         "updatedAt": "2023-06-26T05:46:54.11Z",
-        "modifiedAt": "2023-06-29T00:52:40Z",
-        "sha256": "5037d8f5a729d9126bd894ff4051fc6cbb6d38959eb3122fb8aee7be55f3c98a"
+        "modifiedAt": "2024-01-08T02:57:20Z",
+        "sha256": "fa20f6a4811208cee4764867cf8b84f2057691b65bfae6ae72a949a7a18662d7"
     },
     "scripts/dlc/dlc_wildmen.json": {
         "id": 918482,
@@ -2462,8 +2462,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:14.425Z",
         "updatedAt": "2023-06-26T05:46:54.184Z",
-        "modifiedAt": "2023-06-26T05:46:54Z",
-        "sha256": "e0cc34e4a992134e0275ce6100dd44c4f7077b68c0af56d85bde7429374a14c0"
+        "modifiedAt": "2024-01-08T03:01:46Z",
+        "sha256": "a0e5fdf9ffdce1032f4ef3f06bb4d53d5c1396a05b7464b652ca4c49f178a0be"
     },
     "scripts/entity/tactical/actor.json": {
         "id": 918483,
@@ -2480,8 +2480,8 @@
         "locked": 1,
         "createdAt": "2023-05-13T14:18:14.765Z",
         "updatedAt": "2023-06-26T05:46:54.258Z",
-        "modifiedAt": "2023-06-26T05:46:54Z",
-        "sha256": "452d81d78d6a523057bc021a11eb2f43fce7c26d7a5e0d9c8bd6fab851da4606"
+        "modifiedAt": "2024-01-08T03:06:55Z",
+        "sha256": "c781c42fab00f0de087cd619386d4ac93a542ecfcd44681c8a268a99308ee8e6"
     },
     "scripts/entity/tactical/enemies/alp.json": {
         "id": 918484,
@@ -28886,8 +28886,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:36.431Z",
         "updatedAt": "2023-06-26T05:49:10.37Z",
-        "modifiedAt": "2023-06-26T05:49:10Z",
-        "sha256": "f9348b96d70cf81ad177ce6b9fb535078fd458c6577cf8636713eba80fdea881"
+        "modifiedAt": "2024-01-08T01:01:48Z",
+        "sha256": "4dc44f25a4833ca325e3f1b1872f9ef010c8be747a3321e3eee0344a33eb135b"
     },
     "scripts/retinue/followers/brigand_follower.json": {
         "id": 919951,
@@ -39338,14 +39338,14 @@
         "total": 428,
         "translated": 425,
         "disputed": 1,
-        "checked": 127,
-        "reviewed": 127,
+        "checked": 126,
+        "reviewed": 126,
         "hidden": 3,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:05.329Z",
         "updatedAt": "2023-07-05T12:36:11.027Z",
-        "modifiedAt": "2024-01-05T08:29:47Z",
-        "sha256": "2453e35fa5f70389bbd7d8a80513404a01edd0763c9bcf6f8ea4a5e030e4e6d0"
+        "modifiedAt": "2024-01-09T00:49:50Z",
+        "sha256": "f66e9adb9b5aca626b2ed480fc62ab3864ceff0fe9ae632dd901562947b5215e"
     },
     "scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.json": {
         "id": 920532,

@@ -1035,8 +1035,8 @@
     "ID": 293423082,
     "key": "[/color] days",
     "original": "[/color] days",
-    "translation": "[/color] 天",
-    "stage": 5,
+    "translation": "[/color] 天内治愈",
+    "stage": 1,
     "context": "text = 'Will heal in [color=' + this.Const.UI.Color.NegativeValue + ']' + entity.getDaysWounded() + '[/color] days'"
   },
   {
@@ -3235,7 +3235,7 @@
     "ID": 293423357,
     "key": "Show or hide the footprints left by other parties roaming the world so you can follow or avoid them more easily.",
     "original": "Show or hide the footprints left by other parties roaming the world so you can follow or avoid them more easily.",
-    "translation": "显示或隐藏游戏世界的其他方留下的足迹，以便你可以更容易地跟踪或避免它们。",
+    "translation": "显示或隐藏其他队伍在世界上留下的足迹，以便你追踪或躲避他们。",
     "stage": 1,
     "context": "text = 'Show or hide the footprints left by other parties roaming the world so you can follow or avoid them more easily.'"
   },
@@ -3259,7 +3259,7 @@
     "ID": 293423360,
     "key": "Kennel",
     "original": "Kennel",
-    "translation": "狗舍",
+    "translation": "训犬屋",
     "stage": 1,
     "context": "text = 'Kennel'"
   },
@@ -3267,7 +3267,7 @@
     "ID": 293423361,
     "key": "Always render the top of trees and other large map objects semi-transparent, as opposed to only when they're actually occluding something.",
     "original": "Always render the top of trees and other large map objects semi-transparent, as opposed to only when they're actually occluding something.",
-    "translation": "始终将树和其他大型地图对象的顶部渲染为半透明，而不是仅当它们实际阻塞某些对象时。",
+    "translation": "始终以半透明显示树木和其他大型地图对象的顶部，反选此选项将仅在它们遮挡对象时启用此效果。",
     "stage": 1,
     "context": "text = \"Always render the top of trees and other large map objects semi-transparent, as opposed to only when they're actually occluding something.\""
   },
@@ -3299,7 +3299,7 @@
     "ID": 293423365,
     "key": "Will heal in [color=",
     "original": "Will heal in [color=",
-    "translation": "将会痊愈在[color=",
+    "translation": "将在[color=",
     "stage": 1,
     "context": "text = 'Will heal in [color=' + this.Const.UI.Color.NegativeValue + ']' + entity.getDaysWounded() + '[/color] days'"
   },
