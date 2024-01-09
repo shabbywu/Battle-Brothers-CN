@@ -3,7 +3,7 @@
     "ID": 293410215,
     "key": "With the 'Cultists' origin your god will demand sacrifices from you, but also bestow boons upon those loyal to him.",
     "original": "With the 'Cultists' origin your god will demand sacrifices from you, but also bestow boons upon those loyal to him.",
-    "translation": "选择“邪教徒”出身，你的神将要求你献祭，但也会赐予那些忠诚于祂的人好处。",
+    "translation": "选择“邪教徒”起源，你的神将要求你献祭，但也会赐予那些忠诚于祂的人好处。",
     "stage": 1,
     "context": "\"With the 'Cultists' origin your god will demand sacrifices from you, but also bestow boons upon those loyal to him.\""
   },
@@ -27,7 +27,7 @@
     "ID": 293410218,
     "key": "With the 'Band of Poachers' origin you'll move faster on the worldmap.",
     "original": "With the 'Band of Poachers' origin you'll move faster on the worldmap.",
-    "translation": "选择'盗猎团'种族后，队伍在世界地图上移动速度更快。",
+    "translation": "选择'盗猎团'起源，队伍在世界地图上移动速度更快。",
     "stage": 1,
     "context": "\"With the 'Band of Poachers' origin you'll move faster on the worldmap.\""
   },
@@ -91,7 +91,7 @@
     "ID": 293410226,
     "key": "Northern warhounds are sturdier than southern wardogs, but not as quick and agile.",
     "original": "Northern warhounds are sturdier than southern wardogs, but not as quick and agile.",
-    "translation": "北方的战犬比南方的守卫犬更加结实，但不如敏捷。",
+    "translation": "比起南方战犬，北方的战猎犬强壮更甚但敏捷不足。",
     "stage": 1,
     "context": "'Northern warhounds are sturdier than southern wardogs, but not as quick and agile.'"
   },
@@ -123,7 +123,7 @@
     "ID": 293410230,
     "key": "With the 'Peasant Militia' origin you can take up to 16 men into battle at once.",
     "original": "With the 'Peasant Militia' origin you can take up to 16 men into battle at once.",
-    "translation": "选择“起义农民”这一背景，则你可以一次带领最多16名士兵参加战斗。",
+    "translation": "选择“农民民兵”这一背景，则你可以一次带领最多16名士兵参加战斗。",
     "stage": 1,
     "context": "\"With the 'Peasant Militia' origin you can take up to 16 men into battle at once.\""
   },

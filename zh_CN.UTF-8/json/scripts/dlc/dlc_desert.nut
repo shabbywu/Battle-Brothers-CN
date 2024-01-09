@@ -27,7 +27,7 @@
     "ID": 293410159,
     "key": "Losing named shields to orcs? Hire a blacksmith for your retinue and repair any item, even if its durability reaches zero.",
     "original": "Losing named shields to orcs? Hire a blacksmith for your retinue and repair any item, even if its durability reaches zero.",
-    "translation": "被兽人击败拥有名字的盾牌？为你的战团雇一个铁匠，可以修复任何物品，即使它的耐久度降至零。",
+    "translation": "知名盾牌被兽人砸碎了？为你的战团雇一个铁匠，耐久度归零的物品他也能修好。",
     "stage": 1,
     "context": "'Losing named shields to orcs? Hire a blacksmith for your retinue and repair any item, even if its durability reaches zero.'"
   },
@@ -35,7 +35,7 @@
     "ID": 293410160,
     "key": "Wondering who went there? Hire a Lookout and get more information on any footprints on the world map.",
     "original": "Wondering who went there? Hire a Lookout and get more information on any footprints on the world map.",
-    "translation": "想知道谁去过那里？雇佣一个侦察兵，获取地图上任何足迹的更多信息。",
+    "translation": "想知道谁去过那里？雇佣一个观察员，他能从足迹中提取更多信息。",
     "stage": 1,
     "context": "'Wondering who went there? Hire a Lookout and get more information on any footprints on the world map.'"
   },
@@ -171,7 +171,7 @@
     "ID": 293410177,
     "key": "The Fire Lance is reloaded after every battle just like throwing weapons are.",
     "original": "The Fire Lance is reloaded after every battle just like throwing weapons are.",
-    "translation": "火枪和投掷武器一样，每场战斗后都需要重新装填。",
+    "translation": "火矛和投掷武器一样，每场战斗后都需要重新装填。",
     "stage": 1,
     "context": "'The Fire Lance is reloaded after every battle just like throwing weapons are.'"
   },
@@ -203,7 +203,7 @@
     "ID": 293410181,
     "key": "Facing too few enemy champions? Hire a bounty hunter to find more and even earn a bounty for every one you kill.",
     "original": "Facing too few enemy champions? Hire a bounty hunter to find more and even earn a bounty for every one you kill.",
-    "translation": "面对的敌方队长太少了吗？雇佣赏金猎人来寻找更多的目标，甚至可以为每个你杀死的敌方队长得到一份赏金。",
+    "translation": "冠军敌人太少了？雇佣赏金猎人能帮你寻获他们，完成击杀还能获得赏金。",
     "stage": 1,
     "context": "'Facing too few enemy champions? Hire a bounty hunter to find more and even earn a bounty for every one you kill.'"
   },
