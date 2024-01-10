@@ -35,7 +35,7 @@
     "ID": 293410160,
     "key": "Wondering who went there? Hire a Lookout and get more information on any footprints on the world map.",
     "original": "Wondering who went there? Hire a Lookout and get more information on any footprints on the world map.",
-    "translation": "想知道谁去过那里？雇佣一个观察员，他能从足迹中提取更多信息。",
+    "translation": "想知道谁去过那里？雇佣一个哨兵，他能从足迹中提取更多信息。",
     "stage": 1,
     "context": "'Wondering who went there? Hire a Lookout and get more information on any footprints on the world map.'"
   },

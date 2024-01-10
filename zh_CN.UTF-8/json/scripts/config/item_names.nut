@@ -3203,7 +3203,7 @@
     "ID": 293405269,
     "key": "Club",
     "original": "Club",
-    "translation": "俱乐部",
+    "translation": "棒",
     "stage": 1,
     "context": "'Club'"
   },

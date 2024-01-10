@@ -11,8 +11,8 @@
     "ID": 293419305,
     "key": "Mace, Two-Handed",
     "original": "Mace, Two-Handed",
-    "translation": "狼牙棒, 双手持",
-    "stage": 5,
+    "translation": "骨朵, 双手持",
+    "stage": 1,
     "context": "this.m.Categories = 'Mace, Two-Handed'"
   },
   {

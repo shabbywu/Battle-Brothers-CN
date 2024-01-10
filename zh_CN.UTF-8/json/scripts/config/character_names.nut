@@ -2475,7 +2475,7 @@
     "ID": 293404087,
     "key": "Anselm's Hammer",
     "original": "Anselm's Hammer",
-    "translation": "安瑟姆的锤子",
+    "translation": "安瑟姆之锤",
     "stage": 1,
     "context": "\"Anselm's Hammer\""
   },

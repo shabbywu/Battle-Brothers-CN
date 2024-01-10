@@ -3,8 +3,8 @@
     "ID": 293419166,
     "key": "Axe, Two-Handed",
     "original": "Axe, Two-Handed",
-    "translation": "长柄斧，双手持",
-    "stage": 5,
+    "translation": "斧，双手持",
+    "stage": 1,
     "context": "this.m.Categories = 'Axe, Two-Handed'"
   },
   {

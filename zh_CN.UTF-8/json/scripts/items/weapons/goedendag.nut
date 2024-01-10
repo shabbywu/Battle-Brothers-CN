@@ -11,8 +11,8 @@
     "ID": 293419127,
     "key": "Spear/Mace, Two-Handed",
     "original": "Spear/Mace, Two-Handed",
-    "translation": "长矛/狼牙棒，双手持",
-    "stage": 5,
+    "translation": "矛/骨朵，双手持",
+    "stage": 1,
     "context": "this.m.Categories = 'Spear/Mace, Two-Handed'"
   },
   {

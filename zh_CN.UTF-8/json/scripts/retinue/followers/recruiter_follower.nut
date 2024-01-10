@@ -3,7 +3,7 @@
     "ID": 293419613,
     "key": "The Recruiter is a sleazy jawsmith that tricks desperate people into joining a mercenary company to escape their poor lives, only to find their demise. Quite useful for anyone running a mercenary company.",
     "original": "The Recruiter is a sleazy jawsmith that tricks desperate people into joining a mercenary company to escape their poor lives, only to find their demise. Quite useful for anyone running a mercenary company.",
-    "translation": "招募者是个令人讨厌的口吃之人，他会欺骗那些绝望的人们加入佣兵公司来脱离贫困的生活，结果只能步入死亡。对于任何经营佣兵团的人来说都是非常有用的。",
+    "translation": "招募者是个花言巧语的大忽悠，他会欺骗那些绝望的人加入佣兵公司来脱离贫困的生活，结果只能步入死亡。对于任何经营佣兵团的人来说都是非常有用的。",
     "stage": 1,
     "context": "this.m.Description = 'The Recruiter is a sleazy jawsmith that tricks desperate people into joining a mercenary company to escape their poor lives, only to find their demise. Quite useful for anyone running a mercenary company.'"
   },
@@ -11,7 +11,7 @@
     "ID": 293419614,
     "key": "/12 men",
     "original": "/12 men",
-    "translation": "/12名",
+    "translation": "/12人",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Recruited ' + this.Math.min(12, this.World.Statistics.getFlags().getAsInt('BrosHired')) + '/12 men'"
   },
@@ -35,7 +35,7 @@
     "ID": 293419617,
     "key": "Recruited ",
     "original": "Recruited ",
-    "translation": "已招募",
+    "translation": "招募",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Recruited ' + this.Math.min(12, this.World.Statistics.getFlags().getAsInt('BrosHired')) + '/12 men'"
   },

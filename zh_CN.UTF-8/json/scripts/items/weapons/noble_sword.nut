@@ -11,8 +11,8 @@
     "ID": 293419360,
     "key": "Sword, One-Handed",
     "original": "Sword, One-Handed",
-    "translation": "短剑，单手持",
-    "stage": 5,
+    "translation": "剑，单手持",
+    "stage": 1,
     "context": "this.m.Categories = 'Sword, One-Handed'"
   },
   {

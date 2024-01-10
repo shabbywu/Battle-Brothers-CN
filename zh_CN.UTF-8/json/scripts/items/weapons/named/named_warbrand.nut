@@ -3,8 +3,8 @@
     "ID": 293419348,
     "key": "Sword, Two-Handed",
     "original": "Sword, Two-Handed",
-    "translation": "长剑，双手持",
-    "stage": 5,
+    "translation": "剑，双手持",
+    "stage": 1,
     "context": "this.m.Categories = 'Sword, Two-Handed'"
   },
   {

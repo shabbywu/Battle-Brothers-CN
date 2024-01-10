@@ -11,7 +11,7 @@
     "ID": 293419545,
     "key": "/15 items at the taxidermist",
     "original": "/15 items at the taxidermist",
-    "translation": "/15 件物品在剥制屋",
+    "translation": "/15 件物品",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Crafted ' + this.Math.min(15, this.World.Statistics.getFlags().getAsInt('ItemsCrafted')) + '/15 items at the taxidermist'"
   },
@@ -19,7 +19,7 @@
     "ID": 293419546,
     "key": "Has a 25% chance of not consuming any crafting component used by you",
     "original": "Has a 25% chance of not consuming any crafting component used by you",
-    "translation": "有25%的几率不消耗你使用的任何工艺组件",
+    "translation": "有25%的几率不消耗你使用的原料",
     "stage": 1,
     "context": "'Has a 25% chance of not consuming any crafting component used by you'"
   },

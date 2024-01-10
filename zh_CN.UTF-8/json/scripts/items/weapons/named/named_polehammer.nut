@@ -3,8 +3,8 @@
     "ID": 293419302,
     "key": "Hammer, Two-Handed",
     "original": "Hammer, Two-Handed",
-    "translation": "长柄锤，双手持",
-    "stage": 5,
+    "translation": "锤，双手持",
+    "stage": 1,
     "context": "this.m.Categories = 'Hammer, Two-Handed'"
   },
   {

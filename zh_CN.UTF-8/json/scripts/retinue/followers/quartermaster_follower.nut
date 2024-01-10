@@ -19,7 +19,7 @@
     "ID": 293419609,
     "key": "Completed ",
     "original": "Completed ",
-    "translation": "完成了。",
+    "translation": "完成",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Completed ' + this.Math.min(5, this.World.Statistics.getFlags().getAsInt('EscortCaravanContractsDone')) + '/5 caravan escort contracts'"
   },
@@ -27,7 +27,7 @@
     "ID": 293419610,
     "key": "/5 caravan escort contracts",
     "original": "/5 caravan escort contracts",
-    "translation": "/5 护送商队合同",
+    "translation": "/5 次护送商队合同",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Completed ' + this.Math.min(5, this.World.Statistics.getFlags().getAsInt('EscortCaravanContractsDone')) + '/5 caravan escort contracts'"
   },

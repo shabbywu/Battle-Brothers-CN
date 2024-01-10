@@ -3,8 +3,8 @@
     "ID": 293419256,
     "key": "Cleaver, One-Handed",
     "original": "Cleaver, One-Handed",
-    "translation": "刀，单手持",
-    "stage": 5,
+    "translation": "砍刀，单手持",
+    "stage": 1,
     "context": "this.m.Categories = 'Cleaver, One-Handed'"
   },
   {

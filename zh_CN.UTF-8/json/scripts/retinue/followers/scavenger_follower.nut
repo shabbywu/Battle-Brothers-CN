@@ -11,7 +11,7 @@
     "ID": 293419620,
     "key": "Recovers tools and supplies from every armor destroyed by you during battle",
     "original": "Recovers tools and supplies from every armor destroyed by you during battle",
-    "translation": "从战斗中被你摧毁的每一件盔甲中回收工具和补给",
+    "translation": "从战斗中你摧毁的每一件盔甲中回收工具和补给",
     "stage": 1,
     "context": "'Recovers tools and supplies from every armor destroyed by you during battle'"
   },
@@ -27,7 +27,7 @@
     "ID": 293419622,
     "key": "Whether the son of one of your men or an urchin you took pity on, the Scavenger pulls his weight by collecting bits and pieces from every battlefield.",
     "original": "Whether the son of one of your men or an urchin you took pity on, the Scavenger pulls his weight by collecting bits and pieces from every battlefield.",
-    "translation": "无论是你某个伙计的儿子，还是你拽进来的流浪儿，拾荒者都会从每一个战场上收集零碎的东西。",
+    "translation": "无论是你某个伙计的儿子，还是你拽进来的野孩子，拾荒者通过从战场上收集零零碎碎拥有了一席之地。",
     "stage": 1,
     "context": "this.m.Description = 'Whether the son of one of your men or an urchin you took pity on, the Scavenger pulls his weight by collecting bits and pieces from every battlefield.'"
   },
