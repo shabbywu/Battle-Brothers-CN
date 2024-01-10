@@ -19,7 +19,7 @@
     "ID": 293419590,
     "key": " settlements",
     "original": " settlements",
-    "translation": "定居点",
+    "translation": "处定居点",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Visited ' + settlementsVisited + '/' + maxSettlements + ' settlements'"
   },

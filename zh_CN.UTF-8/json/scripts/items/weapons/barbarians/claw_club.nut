@@ -19,7 +19,7 @@
     "ID": 293419058,
     "key": "Mace, One-Handed",
     "original": "Mace, One-Handed",
-    "translation": "狼牙棒, 单手持",
+    "translation": "骨朵, 单手持",
     "stage": 1,
     "context": "this.m.Categories = 'Mace, One-Handed'"
   }

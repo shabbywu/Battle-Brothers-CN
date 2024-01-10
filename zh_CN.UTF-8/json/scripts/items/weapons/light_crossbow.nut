@@ -27,8 +27,8 @@
     "ID": 293419221,
     "key": "Crossbow, Two-Handed",
     "original": "Crossbow, Two-Handed",
-    "translation": "十字弩, 双手持",
-    "stage": 5,
+    "translation": "弩, 双手持",
+    "stage": 1,
     "context": "this.m.Categories = 'Crossbow, Two-Handed'"
   }
 ]

@@ -11,7 +11,7 @@
     "ID": 293419557,
     "key": "/3 named or legendary items in your possession",
     "original": "/3 named or legendary items in your possession",
-    "translation": "/3件命名或传说物品",
+    "translation": "/3件著名或传说物品",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Have ' + this.Math.min(3, namedItems) + '/3 named or legendary items in your possession'"
   },

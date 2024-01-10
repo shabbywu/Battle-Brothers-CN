@@ -2451,7 +2451,7 @@
     "ID": 293423259,
     "key": "The base percentage of damage that will be applied when hitting a target protected by armor. Once the armor is destroyed, the weapon damage applies at 100% to hitpoints. The actual damage done is modified by the skill used and the target hit.",
     "original": "The base percentage of damage that will be applied when hitting a target protected by armor. Once the armor is destroyed, the weapon damage applies at 100% to hitpoints. The actual damage done is modified by the skill used and the target hit.",
-    "translation": "击中受盔甲保护的目标时所受到的伤害的基本百分比。 一旦盔甲被摧毁，武器伤害将100%的作用于生命值。 实际造成的伤害会因使用的技能和击中的目标来改变。",
+    "translation": "击中受盔甲保护的目标时造成伤害的基本倍率。 一旦盔甲被摧毁，武器伤害将100%的作用于生命值。 实际造成的伤害会因使用的技能和击中的目标来改变。",
     "stage": 1,
     "context": "text = 'The base percentage of damage that will be applied when hitting a target protected by armor. Once the armor is destroyed, the weapon damage applies at 100% to hitpoints. The actual damage done is modified by the skill used and the target hit.'"
   },
@@ -2523,8 +2523,8 @@
     "ID": 293423268,
     "key": "Show the roster of the fighting force of your mercenary company.",
     "original": "Show the roster of the fighting force of your mercenary company.",
-    "translation": "显示你的雇佣兵战团的战斗部队花名册。",
-    "stage": 5,
+    "translation": "显示你雇佣兵战团的战斗部队花名册。",
+    "stage": 1,
     "context": "text = 'Show the roster of the fighting force of your mercenary company.'"
   },
   {
@@ -2571,7 +2571,7 @@
     "ID": 293423274,
     "key": "Scroll the screen by pressing the left mouse button and dragging it (default).",
     "original": "Scroll the screen by pressing the left mouse button and dragging it (default).",
-    "translation": "通过按鼠标左键并拖动（默认）滚动屏幕。",
+    "translation": "通过按鼠标左键（默认）并拖动滚动屏幕。",
     "stage": 1,
     "context": "text = 'Scroll the screen by pressing the left mouse button and dragging it (default).'"
   },
@@ -2651,7 +2651,7 @@
     "ID": 293423284,
     "key": "You'll start with more crowns and resources.\n\nRecommended for new players.",
     "original": "You'll start with more crowns and resources.\n\nRecommended for new players.",
-    "translation": "你将从更多的克朗和资源开始。\n\n推荐给新玩家。",
+    "translation": "你将带着更多的克朗和资源开始。\n\n推荐给新玩家。",
     "stage": 1,
     "context": "text = \"You'll start with more crowns and resources.\n\nRecommended for new players.\""
   },
@@ -2771,7 +2771,7 @@
     "ID": 293423299,
     "key": "Retreat from combat and run for your lives. Better to fight another day than to die here pointlessly.",
     "original": "Retreat from combat and run for your lives. Better to fight another day than to die here pointlessly.",
-    "translation": "从战斗中撤退，为你的生命而逃。与其在这里毫无意义地死去，不如改日再战。",
+    "translation": "撤退吧，逃命吧。与其在这里毫无意义地死去，不如改日再战。",
     "stage": 1,
     "context": "text = 'Retreat from combat and run for your lives. Better to fight another day than to die here pointlessly.'"
   },
@@ -2875,7 +2875,7 @@
     "ID": 293423312,
     "key": "Set time to pass normally.",
     "original": "Set time to pass normally.",
-    "translation": "设置通过的时间为正常。",
+    "translation": "将时间流动速度设为正常。",
     "stage": 1,
     "context": "text = 'Set time to pass normally.'"
   },
@@ -2923,8 +2923,8 @@
     "ID": 293423318,
     "key": "Maximum Fatigue is the amount of fatigue a character can accumulate before being unable to take any more actions and having to recuperate. It is reduced by wearing heavy equipment, especially armor.",
     "original": "Maximum Fatigue is the amount of fatigue a character can accumulate before being unable to take any more actions and having to recuperate. It is reduced by wearing heavy equipment, especially armor.",
-    "translation": "最大疲劳值是一个角色在无法采取任何行动和必须恢复之前可能积累的疲劳值量。 它是通过穿戴重型装备，特别是盔甲来减少的。",
-    "stage": 5,
+    "translation": "最大疲劳值是一个角色在无法采取任何行动、被迫休息之前允许积累的疲劳值量。 穿戴重型装备，尤其是盔甲，会使其减少。",
+    "stage": 1,
     "context": "text = 'Maximum Fatigue is the amount of fatigue a character can accumulate before being unable to take any more actions and having to recuperate. It is reduced by wearing heavy equipment, especially armor.'"
   },
   {
@@ -2955,7 +2955,7 @@
     "ID": 293423322,
     "key": "Warriors of the North",
     "original": "Warriors of the North",
-    "translation": "北方的勇士",
+    "translation": "北方勇士",
     "stage": 1,
     "context": "text = 'Warriors of the North'"
   },
@@ -2963,7 +2963,7 @@
     "ID": 293423323,
     "key": "The higher this value, the earlier the position in the turn order. Initiative is reduced by the current fatigue, as well as any penalty to maximum fatigue (such as from heavy armor). In general, someone in light armor will act before someone in heavy armo",
     "original": "The higher this value, the earlier the position in the turn order. Initiative is reduced by the current fatigue, as well as any penalty to maximum fatigue (such as from heavy armor). In general, someone in light armor will act before someone in heavy armor, and someone fresh will act before someone fatigued.",
-    "translation": "该值越高，回合顺序中的位置越靠前。主动性会因当前的疲劳值以及对最大疲劳值的惩罚（如重型盔甲）而降低。 一般来说，穿轻甲的人会在穿重甲的人前面行动，一个新来的人会在疲惫的人前面行动。",
+    "translation": "该值越高，回合顺序中的位置越靠前。主动性会因当前的疲劳值以及对最大疲劳值的惩罚（如重型盔甲）而降低。 一般来说，穿轻甲的人会在穿重甲的人前面行动，一个精力充沛的人会在疲惫的人前面行动。",
     "stage": 1,
     "context": "text = 'The higher this value, the earlier the position in the turn order. Initiative is reduced by the current fatigue, as well as any penalty to maximum fatigue (such as from heavy armor). In general, someone in light armor will act before someone in heavy armor, and someone fresh will act before someone fatigued.'"
   },
@@ -2979,7 +2979,7 @@
     "ID": 293423325,
     "key": "Vision, or view range, determines how far a character can see to uncover the fog of war, discover threats and hit with ranged attacks. Heavier helmets and night time can reduce vision.",
     "original": "Vision, or view range, determines how far a character can see to uncover the fog of war, discover threats and hit with ranged attacks. Heavier helmets and night time can reduce vision.",
-    "translation": "视野，或视距，决定角色能看到多远，以发现战争的迷雾，发现威胁和远程攻击。 重型头盔和夜间时会降低视野。",
+    "translation": "视野，或视距，决定角色能看到多远，以揭开战争迷雾，发现威胁和发起远程攻击。 重型头盔和夜幕会降低视野。",
     "stage": 1,
     "context": "text = 'Vision, or view range, determines how far a character can see to uncover the fog of war, discover threats and hit with ranged attacks. Heavier helmets and night time can reduce vision.'"
   },
@@ -3003,7 +3003,7 @@
     "ID": 293423328,
     "key": "This character just leveled up! Find him in your roster, accessible on the worldmap, to raise his attributes and select a perk.",
     "original": "This character just leveled up! Find him in your roster, accessible on the worldmap, to raise his attributes and select a perk.",
-    "translation": "这个角色刚刚升级！ 在你的花名册中找到他，可以在世界地图上访问，以提高他的属性并选择一个特技。",
+    "translation": "这个角色刚刚升级！ 在世界地图上时，你可以在花名册中找到他，以提高他的属性并选择一个特技。",
     "stage": 1,
     "context": "text = 'This character just leveled up! Find him in your roster, accessible on the worldmap, to raise his attributes and select a perk.'"
   },
@@ -3019,7 +3019,7 @@
     "ID": 293423330,
     "key": "The Beasts & Exploration DLC adds a variety of new beasts roaming the wilds, a new crafting system to create items from trophies, legendary locations with unique rewards to discover, many new contracts and events, a new system of armor attachments, new we",
     "original": "The Beasts & Exploration DLC adds a variety of new beasts roaming the wilds, a new crafting system to create items from trophies, legendary locations with unique rewards to discover, many new contracts and events, a new system of armor attachments, new weapons, armor and usable items, and more.",
-    "translation": "野兽与探索DLC增加了各种新的野兽在野外游荡，一个新的工艺系统从战利品创建物品，具有独特奖励发现的传奇地点，许多新的合同和事件，一个新的盔甲附件系统，新的武器，盔甲和可用物品，等等。",
+    "translation": "野兽与探索DLC添加了游荡在野外的多种野兽，一个用战利品制作物品的制造系统，多个具有独特奖励发现的传奇地点，许多新的合同和事件，一个新的盔甲附件系统，多种新的武器，盔甲和可用物品，等等。",
     "stage": 1,
     "context": "text = 'The Beasts & Exploration DLC adds a variety of new beasts roaming the wilds, a new crafting system to create items from trophies, legendary locations with unique rewards to discover, many new contracts and events, a new system of armor attachments, new weapons, armor and usable items, and more.'"
   },
@@ -3027,7 +3027,7 @@
     "ID": 293423331,
     "key": "The base percentage chance to hit a target's head for increased damage. The final chance can be modified by the skill used.",
     "original": "The base percentage chance to hit a target's head for increased damage. The final chance can be modified by the skill used.",
-    "translation": "击中目标头部可以增加伤害的基础几率。 最后的几率可以通过使用的技能来改变。",
+    "translation": "击中目标头部可以增加伤害的基础倍率。 而击中头部的概率受使用的技能影响。",
     "stage": 1,
     "context": "text = \"The base percentage chance to hit a target's head for increased damage. The final chance can be modified by the skill used.\""
   },
@@ -3035,7 +3035,7 @@
     "ID": 293423332,
     "key": "Assorted tools and supplies to keep your weapons, armor, helmets and shields in good condition. One point is required to repair 15 points of item condition. Running out of supplies may result in weapons breaking in combat and will leave your armor damaged",
     "original": "Assorted tools and supplies to keep your weapons, armor, helmets and shields in good condition. One point is required to repair 15 points of item condition. Running out of supplies may result in weapons breaking in combat and will leave your armor damaged and useless.",
-    "translation": "各种工具和补给，以保持你的武器，盔甲，头盔和盾牌在良好的状态。 修理15点耐久需要一点。 补给不足可能导致武器在战斗中断裂，使你的盔甲受损和无用。",
+    "translation": "各种工具和补给，以维护你的武器，盔甲，头盔和盾牌。 每修理15点耐久需要一点工具补给。 补给不足可能导致武器在战斗中断裂，使你的盔甲因无法修复而不能提供保护。",
     "stage": 1,
     "context": "local desc = 'Assorted tools and supplies to keep your weapons, armor, helmets and shields in good condition. One point is required to repair 15 points of item condition. Running out of supplies may result in weapons breaking in combat and will leave your armor damaged and useless.'"
   },
@@ -3059,7 +3059,7 @@
     "ID": 293423335,
     "key": "Buy item for [img]gfx/ui/tooltips/money.png[/img]",
     "original": "Buy item for [img]gfx/ui/tooltips/money.png[/img]",
-    "translation": "购买物品 [img]gfx/ui/tooltips/money.png[/img]",
+    "translation": "购买物品花费 [img]gfx/ui/tooltips/money.png[/img]",
     "stage": 1,
     "context": "text = 'Buy item for [img]gfx/ui/tooltips/money.png[/img]' + _item.getBuyPrice()"
   },
@@ -3139,7 +3139,7 @@
     "ID": 293423345,
     "key": "Free Seat",
     "original": "Free Seat",
-    "translation": "自由座位",
+    "translation": "空余座位",
     "stage": 1,
     "context": "text = 'Free Seat'"
   },
@@ -3211,7 +3211,7 @@
     "ID": 293423354,
     "key": "This fee will be paid immediately on giving this recruit a proper inspection to reveal his character traits, if any.",
     "original": "This fee will be paid immediately on giving this recruit a proper inspection to reveal his character traits, if any.",
-    "translation": "这项费用将立即支付给这个新兵用于适当的检查，以揭示他的特性，如果有的话。",
+    "translation": "这项费用将立即支出，用于对这个新兵进行适当的检查，以揭示他的特性，如果有的话。",
     "stage": 1,
     "context": "text = 'This fee will be paid immediately on giving this recruit a proper inspection to reveal his character traits, if any.'"
   },
@@ -3371,7 +3371,7 @@
     "ID": 293423374,
     "key": "The Warriors of the North DLC adds a new human faction of northern barbarians with their own fighting style and equipment, different starting scenarios for your company, new nordic and rus inspired equipment, as well as new contracts and events.",
     "original": "The Warriors of the North DLC adds a new human faction of northern barbarians with their own fighting style and equipment, different starting scenarios for your company, new nordic and rus inspired equipment, as well as new contracts and events.",
-    "translation": "北方的勇士DLC添加了一个新的北方野蛮人派系，他们有自己的战斗风格和装备，你的战团有不同的开始剧情，新的北欧和罗斯优秀的装备，以及新的合同和事件。",
+    "translation": "北方勇士DLC添加了一个新的人类派系——北方野蛮人，他们有自己的战斗风格和装备，新的战团起源，基于北欧和罗斯风格设计的新装备，以及新的合同和事件。",
     "stage": 1,
     "context": "text = 'The Warriors of the North DLC adds a new human faction of northern barbarians with their own fighting style and equipment, different starting scenarios for your company, new nordic and rus inspired equipment, as well as new contracts and events.'"
   },

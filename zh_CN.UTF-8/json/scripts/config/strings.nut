@@ -3451,7 +3451,7 @@
     "ID": 293406067,
     "key": "Hammer Mastery",
     "original": "Hammer Mastery",
-    "translation": "锤子掌握",
+    "translation": "锤精通",
     "stage": 1,
     "context": "SpecHammer = 'Hammer Mastery'"
   },
@@ -3923,7 +3923,7 @@
     "ID": 293406126,
     "key": "Mace Mastery",
     "original": "Mace Mastery",
-    "translation": "权杖精通",
+    "translation": "骨朵精通",
     "stage": 1,
     "context": "SpecMace = 'Mace Mastery'"
   },
@@ -4091,7 +4091,7 @@
     "ID": 293406147,
     "key": "Axe Mastery",
     "original": "Axe Mastery",
-    "translation": "斧头精通",
+    "translation": "斧精通",
     "stage": 1,
     "context": "SpecAxe = 'Axe Mastery'"
   },
@@ -4107,7 +4107,7 @@
     "ID": 293406149,
     "key": "Polearm Mastery",
     "original": "Polearm Mastery",
-    "translation": "掌握长柄武器",
+    "translation": "长柄精通",
     "stage": 1,
     "context": "SpecPolearm = 'Polearm Mastery'"
   },
@@ -7411,7 +7411,7 @@
     "ID": 293406562,
     "key": "Sword Mastery",
     "original": "Sword Mastery",
-    "translation": "剑术精通",
+    "translation": "剑精通",
     "stage": 1,
     "context": "SpecSword = 'Sword Mastery'"
   },

@@ -19,7 +19,7 @@
     "ID": 293419626,
     "key": "Won ",
     "original": "Won ",
-    "translation": "赢得了",
+    "translation": "赢得",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Won ' + this.Math.min(5, this.World.Statistics.getFlags().getAsInt('BeastsDefeated')) + '/5 battles against beasts'"
   },
@@ -27,7 +27,7 @@
     "ID": 293419627,
     "key": "/5 battles against beasts",
     "original": "/5 battles against beasts",
-    "translation": "/5场野兽战斗",
+    "translation": "/5场对抗野兽的战斗",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Won ' + this.Math.min(5, this.World.Statistics.getFlags().getAsInt('BeastsDefeated')) + '/5 battles against beasts'"
   },

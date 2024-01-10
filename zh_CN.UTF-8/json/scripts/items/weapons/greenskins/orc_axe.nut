@@ -3,8 +3,8 @@
     "ID": 293419163,
     "key": "Axe, One-Handed",
     "original": "Axe, One-Handed",
-    "translation": "短斧，单手持",
-    "stage": 5,
+    "translation": "斧，单手持",
+    "stage": 1,
     "context": "this.m.Categories = 'Axe, One-Handed'"
   },
   {
