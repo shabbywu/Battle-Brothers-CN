@@ -35,8 +35,8 @@
     "ID": 293422374,
     "key": "Just keep on going. This character will bravely venture into the unknown.",
     "original": "Just keep on going. This character will bravely venture into the unknown.",
-    "translation": "继续前进。这个角色将勇敢地冒险进入未知领域。",
-    "stage": 5,
+    "translation": "前进就是了。这个角色将勇敢地冒险进入未知领域。",
+    "stage": 1,
     "context": "this.m.Description = 'Just keep on going. This character will bravely venture into the unknown.'"
   }
 ]

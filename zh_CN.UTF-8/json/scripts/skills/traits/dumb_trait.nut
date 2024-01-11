@@ -35,8 +35,8 @@
     "ID": 293422489,
     "key": "Umm, what? This character isn't the brightest, and new concepts take a while to really stick with him.",
     "original": "Umm, what? This character isn't the brightest, and new concepts take a while to really stick with him.",
-    "translation": "嗯，什么？ 这个角色不是很聪明，新概念需要一段时间才能被他掌握。",
-    "stage": 5,
+    "translation": "呃，什么？ 这个角色不是很聪明，新概念需要一段时间才能被他掌握。",
+    "stage": 1,
     "context": "this.m.Description = \"Umm, what? This character isn't the brightest, and new concepts take a while to really stick with him.\""
   },
   {

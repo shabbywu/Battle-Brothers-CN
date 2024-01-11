@@ -3,8 +3,8 @@
     "ID": 293422473,
     "key": "Disloyal",
     "original": "Disloyal",
-    "translation": "不忠诚",
-    "stage": 5,
+    "translation": "不忠",
+    "stage": 1,
     "context": "this.m.Name = 'Disloyal'"
   },
   {

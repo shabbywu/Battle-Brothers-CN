@@ -1220,8 +1220,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.288Z",
         "updatedAt": "2023-06-26T05:46:29.6Z",
-        "modifiedAt": "2024-01-09T07:16:11Z",
-        "sha256": "1ddc44e029d903aadd4bf606c93cc68328eb19a78db8c4a4ed60db55f1798144"
+        "modifiedAt": "2024-01-10T08:44:57Z",
+        "sha256": "66f7d3f85dfec7d7d9ba44c6edab84b0bb988ae8c8051d94e710d7ae8a5c6e5f"
     },
     "scripts/config/credits.json": {
         "id": 918414,
@@ -9356,8 +9356,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:46.653Z",
         "updatedAt": "2023-06-26T05:47:38.015Z",
-        "modifiedAt": "2023-06-26T05:47:38Z",
-        "sha256": "c6476261725eee97f6b5149cae1a129ac9eeb30eae097e628fba9162468d58c9"
+        "modifiedAt": "2024-01-10T08:02:10Z",
+        "sha256": "8298092065143d82efbbfb828cdd098efeacbfe75711bcd737f06e1248abe735"
     },
     "scripts/events/events/cultist_vs_old_gods_event.json": {
         "id": 918866,
@@ -10652,8 +10652,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:13.773Z",
         "updatedAt": "2023-06-26T05:47:45.39Z",
-        "modifiedAt": "2023-06-26T05:47:45Z",
-        "sha256": "6082063a9362a9e27906a9ba34d72d36c96dd81c0507f4e38750dcdccc131650"
+        "modifiedAt": "2024-01-10T08:01:29Z",
+        "sha256": "3ae094e2fe94096d3dcb0112b92ff0a5bd371bb0f5f0d74a4a4e0d3eebe51747"
     },
     "scripts/events/events/dlc4/cultist_origin_flock_event.json": {
         "id": 918938,
@@ -18170,14 +18170,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:24:03.202Z",
         "updatedAt": "2023-06-26T05:48:26.556Z",
-        "modifiedAt": "2023-06-26T05:48:27Z",
-        "sha256": "b8ee109038fb1f4c350301eeb94fbfbbfee327ca10f4ad0f41670ba3176f74fb"
+        "modifiedAt": "2024-01-10T08:03:57Z",
+        "sha256": "b0ef97983f5472a965efd21f13c726a54f653989c6b038635531a85f75c0c978"
     },
     "scripts/items/armor/legendary/emperors_armor.json": {
         "id": 919356,
@@ -21032,14 +21032,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:25:16.208Z",
         "updatedAt": "2023-06-26T05:48:41.859Z",
-        "modifiedAt": "2023-06-26T05:48:42Z",
-        "sha256": "876db3ee244ea92a8ed691791e2b0bcda54ee4ef37acc9e13f994ccc2ab2f338"
+        "modifiedAt": "2024-01-10T08:09:09Z",
+        "sha256": "389dc7fd5abd3bf955c64451a4e768d3a8bda74d36435d3810d5106635524fb6"
     },
     "scripts/items/helmets/mail_coif.json": {
         "id": 919515,
@@ -37646,14 +37646,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 8,
-        "reviewed": 8,
+        "checked": 7,
+        "reviewed": 7,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:29.712Z",
         "updatedAt": "2023-06-26T05:49:45.94Z",
-        "modifiedAt": "2023-06-26T05:49:46Z",
-        "sha256": "670b51222829fe24dfcd0a99f29f0329285001632d73f40d4bd78e24a7e537f1"
+        "modifiedAt": "2024-01-10T03:02:21Z",
+        "sha256": "e679817e7c68a2d619327c8c627be7671265ea8f3e50dcf7f7e908421b471c6c"
     },
     "scripts/skills/traits/ailing_trait.json": {
         "id": 920438,
@@ -37664,14 +37664,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 7,
-        "reviewed": 7,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:30.045Z",
         "updatedAt": "2023-06-26T05:49:46.007Z",
-        "modifiedAt": "2023-06-26T05:49:46Z",
-        "sha256": "615863ef4a2df2c3c6b31f8e526f69303565ae8c9d60970a6daa7aaef947b8ed"
+        "modifiedAt": "2024-01-10T03:03:36Z",
+        "sha256": "fc8818e8fba791e66730b69b00e936216b9a244512f757938f0aef987415935b"
     },
     "scripts/skills/traits/arena_fighter_trait.json": {
         "id": 920439,
@@ -37718,14 +37718,14 @@
         "total": 9,
         "translated": 9,
         "disputed": 0,
-        "checked": 9,
-        "reviewed": 9,
+        "checked": 7,
+        "reviewed": 7,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:31.04Z",
         "updatedAt": "2023-06-26T05:49:46.201Z",
-        "modifiedAt": "2023-06-26T05:49:46Z",
-        "sha256": "b8ed3b166e00000a94cb0207f2f7309df689dfa5d43eaa732546d0b1b9837904"
+        "modifiedAt": "2024-01-10T03:09:17Z",
+        "sha256": "6550fd98a72d6bf8ade13a49a94725f540a35570b129436aa98c54b30a4c8ee3"
     },
     "scripts/skills/traits/asthmatic_trait.json": {
         "id": 920442,
@@ -37754,14 +37754,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:32.458Z",
         "updatedAt": "2023-06-26T05:49:46.314Z",
-        "modifiedAt": "2023-06-26T05:49:46Z",
-        "sha256": "a0c0aeff80c2178260b1bbb53762ada628859b9b101d72b638f898eba3719cb5"
+        "modifiedAt": "2024-01-10T03:12:35Z",
+        "sha256": "d99484d3933a03b3f20498ef365d69a8915add0504321c38ebf0fb408e29cbcd"
     },
     "scripts/skills/traits/bleeder_trait.json": {
         "id": 920444,
@@ -37772,14 +37772,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:32.79Z",
         "updatedAt": "2023-06-26T05:49:46.371Z",
-        "modifiedAt": "2023-06-26T05:49:46Z",
-        "sha256": "fbbab17b27b5f002dfef31780028b049bbb6837089308e881ea82d5db8ff8f5c"
+        "modifiedAt": "2024-01-10T03:13:36Z",
+        "sha256": "b9a8000afa152e54fb1a3c13330f769e6e4af7a427648989b8d68dd8b60dd5ab"
     },
     "scripts/skills/traits/bloodthirsty_trait.json": {
         "id": 920445,
@@ -37796,8 +37796,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:33.119Z",
         "updatedAt": "2023-06-26T05:49:46.432Z",
-        "modifiedAt": "2023-06-26T05:49:46Z",
-        "sha256": "26fdac8d8812d76ad64c212c54ad3d1c16a99a3a3f4031577f23b5626219a01d"
+        "modifiedAt": "2024-01-10T03:16:08Z",
+        "sha256": "c6565dfefe0d8aacc41590ff7d32ce06828f1193e5f6ab41665c0b7bd403d2aa"
     },
     "scripts/skills/traits/brave_trait.json": {
         "id": 920446,
@@ -37808,14 +37808,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:33.447Z",
         "updatedAt": "2023-06-26T05:49:46.496Z",
-        "modifiedAt": "2023-06-26T05:49:47Z",
-        "sha256": "f3ad98ff72a3ce5626a7857bd69d5db3ec49a5a5560b4f4ba2806a224f81b9ca"
+        "modifiedAt": "2024-01-10T03:16:30Z",
+        "sha256": "0a094bdabb2fa3b3048dfd3ae098c3914c3792bd0ad04c89e1f01ab90ea67273"
     },
     "scripts/skills/traits/bright_trait.json": {
         "id": 920447,
@@ -37826,14 +37826,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:33.774Z",
         "updatedAt": "2023-06-26T05:49:46.599Z",
-        "modifiedAt": "2023-06-26T05:49:47Z",
-        "sha256": "3c380544cfc3f928d1de3a15aacf37df1ef9a6f0ba574bc6357585029c84d945"
+        "modifiedAt": "2024-01-10T03:17:49Z",
+        "sha256": "724ef8d9998e22534062aaef8c076101a83d8807cb17621422f4ef76d18a53e6"
     },
     "scripts/skills/traits/brute_trait.json": {
         "id": 920448,
@@ -37862,14 +37862,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:34.448Z",
         "updatedAt": "2023-06-26T05:49:46.734Z",
-        "modifiedAt": "2023-06-26T05:49:47Z",
-        "sha256": "c6d2c8b99d5cd8cd477f3baf49c82502da84315b4e1305a7b49582cfa0659934"
+        "modifiedAt": "2024-01-10T03:14:33Z",
+        "sha256": "ce509538e8c63a234e28baa06925bfdbf4890207613fc2e4d441c0dfefa406f8"
     },
     "scripts/skills/traits/clumsy_trait.json": {
         "id": 920450,
@@ -37898,14 +37898,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 7,
-        "reviewed": 7,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:35.099Z",
         "updatedAt": "2023-06-26T05:49:46.854Z",
-        "modifiedAt": "2023-06-26T12:49:54Z",
-        "sha256": "ef1b00a2c20cbc396b394a8bb0b642cf7042275583a515a39de80bfef4da361c"
+        "modifiedAt": "2024-01-10T03:20:39Z",
+        "sha256": "c5a0b121f63df1b51dbf20ee7d93d3ee9ed6d1bde785aa2041f7625eeb07a8c9"
     },
     "scripts/skills/traits/craven_trait.json": {
         "id": 920452,
@@ -37934,14 +37934,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:35.791Z",
         "updatedAt": "2023-06-26T05:49:46.973Z",
-        "modifiedAt": "2023-06-26T05:49:47Z",
-        "sha256": "21310b616d4b91bdb357ca278632fc07b79948b125cdb5799cb17c2d382defdc"
+        "modifiedAt": "2024-01-10T08:42:51Z",
+        "sha256": "1c89a224219640cd76ba4f640af232a6067ddf97850acca85a07ed849309b8b6"
     },
     "scripts/skills/traits/cultist_chosen_trait.json": {
         "id": 920454,
@@ -37952,14 +37952,14 @@
         "total": 10,
         "translated": 10,
         "disputed": 0,
-        "checked": 10,
-        "reviewed": 10,
+        "checked": 9,
+        "reviewed": 9,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:36.129Z",
         "updatedAt": "2023-06-26T05:49:47.032Z",
-        "modifiedAt": "2023-06-26T05:49:47Z",
-        "sha256": "c8db958a124b1076aeb455895cff68c73f98322f9adb55c9d73da2bd61c4f76d"
+        "modifiedAt": "2024-01-10T07:56:05Z",
+        "sha256": "1e542f0bff45f547b9f83fcbaae6770bc8ec1dc09eac38b828f37d1cb5009893"
     },
     "scripts/skills/traits/cultist_disciple_trait.json": {
         "id": 920455,
@@ -37970,14 +37970,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 7,
-        "reviewed": 7,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:36.47Z",
         "updatedAt": "2023-06-26T05:49:47.138Z",
-        "modifiedAt": "2023-06-26T05:49:47Z",
-        "sha256": "7d83f0f60ef4a542a317ff3ae55783a1115057415beb00c28f2fb25b40f6eaba"
+        "modifiedAt": "2024-01-10T08:42:37Z",
+        "sha256": "4ee8bc83488ce4ace314655f702799d39c1e224c4aa07499551fd429cb8a7083"
     },
     "scripts/skills/traits/cultist_fanatic_trait.json": {
         "id": 920456,
@@ -37988,14 +37988,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:36.81Z",
         "updatedAt": "2023-06-26T05:49:47.22Z",
-        "modifiedAt": "2023-06-26T05:49:47Z",
-        "sha256": "cc79708dacf4ee553abc5147bd84c8ca2c86f91e8648b59b54606f16c035b2aa"
+        "modifiedAt": "2024-01-10T08:42:30Z",
+        "sha256": "2fd95d8e3c1d6337c83b370f67f1edfa933b6452b63a437c7e77d178e7e95221"
     },
     "scripts/skills/traits/cultist_prophet_trait.json": {
         "id": 920457,
@@ -38006,14 +38006,14 @@
         "total": 10,
         "translated": 10,
         "disputed": 0,
-        "checked": 10,
-        "reviewed": 10,
+        "checked": 9,
+        "reviewed": 9,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:37.139Z",
         "updatedAt": "2023-06-26T05:49:47.292Z",
-        "modifiedAt": "2023-06-26T05:49:47Z",
-        "sha256": "19e335e365e2c849059d6e82d11aa80c7c167241a449aef62cb1509a37f7310c"
+        "modifiedAt": "2024-01-10T08:42:03Z",
+        "sha256": "709f94a12bf13ba13fb7492f42de597b38ebf2d770e3c63af8fe9861998020c1"
     },
     "scripts/skills/traits/cultist_zealot_trait.json": {
         "id": 920458,
@@ -38024,14 +38024,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:37.522Z",
         "updatedAt": "2023-06-26T05:49:47.356Z",
-        "modifiedAt": "2023-06-26T05:49:47Z",
-        "sha256": "ba24161dbe1e6fcce3e9e6f31f410be51dd4501fb044e64f932eb124f92ff2d0"
+        "modifiedAt": "2024-01-10T08:37:43Z",
+        "sha256": "06824ca02c0bcae3cf0dd0d33c1619234f890c49ab959877471744b4897a94d3"
     },
     "scripts/skills/traits/dastard_trait.json": {
         "id": 920459,
@@ -38114,14 +38114,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:39.214Z",
         "updatedAt": "2023-06-26T05:49:47.678Z",
-        "modifiedAt": "2023-06-26T05:49:48Z",
-        "sha256": "521d05bacc6dec12e01e2bebc7b1a7fb82f291a042ccdd549ffae0b5a9823c71"
+        "modifiedAt": "2024-01-10T08:49:19Z",
+        "sha256": "d239b3e41ff6ebabc36e905a698bfd4c3d7d14bdb767b99bce6e8b909a917e84"
     },
     "scripts/skills/traits/drunkard_trait.json": {
         "id": 920464,
@@ -38150,14 +38150,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:39.867Z",
         "updatedAt": "2023-06-26T05:49:47.804Z",
-        "modifiedAt": "2023-07-01T06:10:07Z",
-        "sha256": "f523b3823d0c1b2306081e7b3b838c2173fe3e1dde511634123b02c9dbe706ad"
+        "modifiedAt": "2024-01-10T08:49:58Z",
+        "sha256": "bd338641f7c312cf89d780f8ec62a9e953857f9f85ddd3fe9b8df24d5cd70c35"
     },
     "scripts/skills/traits/eagle_eyes_trait.json": {
         "id": 920466,
@@ -38210,8 +38210,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:40.844Z",
         "updatedAt": "2023-06-26T05:49:47.986Z",
-        "modifiedAt": "2023-07-04T09:36:38Z",
-        "sha256": "b843dcf0c78a780149a00f836a3e5e538b6b457bb5587155a6618b2a9424d5d4"
+        "modifiedAt": "2024-01-10T08:50:51Z",
+        "sha256": "dc436cf13d9b4ed6d2574d3c02778c16f93c164dfa2a0695d544ce5c6d780261"
     },
     "scripts/skills/traits/fear_beasts_trait.json": {
         "id": 920469,
@@ -38222,14 +38222,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:41.168Z",
         "updatedAt": "2023-06-26T05:49:48.045Z",
-        "modifiedAt": "2023-06-26T05:49:48Z",
-        "sha256": "f118c36ea90215dc0d3f4cc9d7520959b748ec992af46f9f7617d71a94601988"
+        "modifiedAt": "2024-01-10T09:08:40Z",
+        "sha256": "12a224c4f2bc43602c4cbf53f64ac52f016dbefd456fa8d8cb39d93151a76552"
     },
     "scripts/skills/traits/fear_greenskins_trait.json": {
         "id": 920470,
@@ -38240,14 +38240,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:41.488Z",
         "updatedAt": "2023-06-26T05:49:48.108Z",
-        "modifiedAt": "2023-06-26T05:49:48Z",
-        "sha256": "122fdf8c5dbcf89ef3619b80831cc310e0ee5f0a2c37459637c20a76d4fb553f"
+        "modifiedAt": "2024-01-10T09:08:50Z",
+        "sha256": "ea227bde37edc0f45d9de8b992a50ff1a9fa59fe1a2d77259a687177dc8f63b4"
     },
     "scripts/skills/traits/fear_undead_trait.json": {
         "id": 920471,
@@ -38258,14 +38258,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:41.85Z",
         "updatedAt": "2023-06-26T05:49:48.176Z",
-        "modifiedAt": "2023-06-26T05:49:48Z",
-        "sha256": "c7965ba8ed5da3fb9b94ebc73b1792fe4c08b5ac998b2e77b4ea0a7e06337685"
+        "modifiedAt": "2024-01-10T09:09:01Z",
+        "sha256": "87c3c563d367cc33a705faa1cee35c956d84327e6b546ca377e86e7a3581346d"
     },
     "scripts/skills/traits/fearless_trait.json": {
         "id": 920472,
@@ -39086,14 +39086,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 7,
-        "reviewed": 7,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:00.336Z",
         "updatedAt": "2023-06-26T05:49:51.876Z",
-        "modifiedAt": "2023-06-26T05:49:52Z",
-        "sha256": "f0a07c085acd1abfa1a3e77aa1139d195b5122e32b14fd907258771685ea73f3"
+        "modifiedAt": "2024-01-10T03:09:30Z",
+        "sha256": "f0dcdb5f51a4ffd20e71a4caa761862ebcfa0a04ae0705148f966a3aa7637dba"
     },
     "scripts/skills/traits/swift_trait.json": {
         "id": 920518,
@@ -39211,15 +39211,15 @@
         "format": "json",
         "total": 40,
         "translated": 40,
-        "disputed": 3,
+        "disputed": 0,
         "checked": 6,
         "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:02.634Z",
         "updatedAt": "2023-06-26T05:49:52.342Z",
-        "modifiedAt": "2023-07-03T16:50:46Z",
-        "sha256": "ab8c9e9bec98912f4fdefd6176459a0c22a8094f159461ddc40c1ea3ea0ca4d2"
+        "modifiedAt": "2024-01-10T02:57:33Z",
+        "sha256": "273e16ef23be34aeba88cbe3a8a725cc3a79d68cab7b8301c893a2a438ecdd48"
     },
     "scripts/states/world/asset_manager.json": {
         "id": 920525,
@@ -39236,8 +39236,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:03.221Z",
         "updatedAt": "2023-06-26T05:49:52.495Z",
-        "modifiedAt": "2023-06-26T05:49:53Z",
-        "sha256": "69b6171a5fc9b36509dad74be74365eac4ab79a4202dcab474d3f9eb6b831e0c"
+        "modifiedAt": "2024-01-10T02:51:11Z",
+        "sha256": "a209d442456a39ded2318d430d0118404c468b269c08a8798257457e09de9f56"
     },
     "scripts/states/world_state.json": {
         "id": 920526,

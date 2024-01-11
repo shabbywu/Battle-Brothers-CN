@@ -11,7 +11,7 @@
     "ID": 293422500,
     "key": "the Fat",
     "original": "the Fat",
-    "translation": "肥人 (the Fat)",
+    "translation": "胖子 (the Fat)",
     "stage": 1,
     "context": "'the Fat'"
   },

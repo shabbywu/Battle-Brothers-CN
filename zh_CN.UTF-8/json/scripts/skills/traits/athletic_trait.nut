@@ -11,24 +11,24 @@
     "ID": 293422357,
     "key": "Athletic",
     "original": "Athletic",
-    "translation": "身强体壮",
-    "stage": 5,
+    "translation": "健壮",
+    "stage": 1,
     "context": "this.m.Name = 'Athletic'"
   },
   {
     "ID": 293422358,
     "key": "Builds up [color=",
     "original": "Builds up [color=",
-    "translation": "[color=",
-    "stage": 5,
+    "translation": "走过一格的疲劳值积累减少[color=",
+    "stage": 1,
     "context": "text = 'Builds up [color=' + this.Const.UI.Color.PositiveValue + ']2[/color] less Fatigue for each tile travelled'"
   },
   {
     "ID": 293422359,
     "key": "]2[/color] less Fatigue for each tile travelled",
     "original": "]2[/color] less Fatigue for each tile travelled",
-    "translation": "]-2[/color] 疲劳值增量（每行走一格）",
-    "stage": 5,
+    "translation": "]2[/color]",
+    "stage": 1,
     "context": "text = 'Builds up [color=' + this.Const.UI.Color.PositiveValue + ']2[/color] less Fatigue for each tile travelled'"
   }
 ]

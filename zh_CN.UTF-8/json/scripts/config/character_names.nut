@@ -5211,7 +5211,7 @@
     "ID": 293404429,
     "key": "The Gilder's Chosen",
     "original": "The Gilder's Chosen",
-    "translation": "镀金者被选中了",
+    "translation": "镀金者之选",
     "stage": 1,
     "context": "\"The Gilder's Chosen\""
   },

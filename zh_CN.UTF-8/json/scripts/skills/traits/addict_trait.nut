@@ -51,8 +51,8 @@
     "ID": 293422319,
     "key": "Currently no effect because drugs were consumed within the last 5 days",
     "original": "Currently no effect because drugs were consumed within the last 5 days",
-    "translation": "目前没有效果，因为在过去5天内服用了药物",
-    "stage": 5,
+    "translation": "暂不生效，过去5天内服用了药物",
+    "stage": 1,
     "context": "text = 'Currently no effect because drugs were consumed within the last 5 days'"
   },
   {
