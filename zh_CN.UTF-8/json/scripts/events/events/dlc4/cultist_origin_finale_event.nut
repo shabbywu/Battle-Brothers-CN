@@ -27,7 +27,7 @@
     "ID": 293414181,
     "key": "A grisly aspect of Davkul, an ancient power not from this world, and the last remnants of ",
     "original": "A grisly aspect of Davkul, an ancient power not from this world, and the last remnants of ",
-    "translation": "达库尔(Davkul)的一个可怕方面，这是来自异世界的古老力量，以及最后的遗迹。",
+    "translation": "达库尔(Davkul)骇人的一面，这是来自异界的古老力量，以及",
     "stage": 1,
     "context": "item.m.Description = 'A grisly aspect of Davkul, an ancient power not from this world, and the last remnants of ' + _event.m.Sacrifice.getName() + ' from whose body it has been fashioned. It shall never break, but instead keep regrowing its scarred skin on the spot.'"
   },
@@ -35,7 +35,7 @@
     "ID": 293414182,
     "key": " from whose body it has been fashioned. It shall never break, but instead keep regrowing its scarred skin on the spot.",
     "original": " from whose body it has been fashioned. It shall never break, but instead keep regrowing its scarred skin on the spot.",
-    "translation": " 是由身体制成的。它永远不会破裂，而是在原地不断地再生它那伤痕累累的皮肤。",
+    "translation": "身体最后的遗留和重塑。它永远不会破裂，而是在原地不断地再生它那伤痕累累的皮肤。",
     "stage": 1,
     "context": "item.m.Description = 'A grisly aspect of Davkul, an ancient power not from this world, and the last remnants of ' + _event.m.Sacrifice.getName() + ' from whose body it has been fashioned. It shall never break, but instead keep regrowing its scarred skin on the spot.'"
   },

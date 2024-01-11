@@ -59,8 +59,8 @@
     "ID": 293422382,
     "key": "Quickmind",
     "original": "Quickmind",
-    "translation": "捷思(the Bright)",
-    "stage": 5,
+    "translation": "捷思(Quickmind)",
+    "stage": 1,
     "context": "'Quickmind'"
   }
 ]

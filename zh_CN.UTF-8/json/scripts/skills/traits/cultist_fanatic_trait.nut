@@ -27,8 +27,8 @@
     "ID": 293422438,
     "key": "This character is a fanatic follower of Davkul, believing that Davkul embraces man in death.",
     "original": "This character is a fanatic follower of Davkul, believing that Davkul embraces man in death.",
-    "translation": "这个角色是一个达库尔的狂热追随者，相信达库尔会在人死时将其接纳。",
-    "stage": 5,
+    "translation": "这个角色是一名达库尔的狂热追随者，相信达库尔会通过死亡将人迎接到自己的神域。",
+    "stage": 1,
     "context": "this.m.Description = 'This character is a fanatic follower of Davkul, believing that Davkul embraces man in death.'"
   }
 ]
