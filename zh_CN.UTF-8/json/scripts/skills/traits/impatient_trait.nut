@@ -35,8 +35,8 @@
     "ID": 293422570,
     "key": "Impatient",
     "original": "Impatient",
-    "translation": "没耐心",
-    "stage": 5,
+    "translation": "急躁",
+    "stage": 1,
     "context": "this.m.Name = 'Impatient'"
   },
   {

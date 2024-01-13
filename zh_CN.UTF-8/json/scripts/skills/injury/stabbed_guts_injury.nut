@@ -19,8 +19,8 @@
     "ID": 293422082,
     "key": "A wound at the intestines drains constitution, and the high chance of infection and the prospect of a slow and painful death don't help either.",
     "original": "A wound at the intestines drains constitution, and the high chance of infection and the prospect of a slow and painful death don't help either.",
-    "translation": "肠子上的伤口会流失体质，感染的可能性很高，并且可能会缓慢而痛苦的死亡却没有办法。",
-    "stage": 2,
+    "translation": "肠道损伤会带来体质的损耗、极高的感染率和缓慢而痛苦的死亡。",
+    "stage": 1,
     "context": "this.m.Description = \"A wound at the intestines drains constitution, and the high chance of infection and the prospect of a slow and painful death don't help either.\""
   },
   {

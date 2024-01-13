@@ -3,8 +3,8 @@
     "ID": 293421416,
     "key": "With the company's glorious battle standard nearby, this character feels compelled to push onward and spit danger in the face.",
     "original": "With the company's glorious battle standard nearby, this character feels compelled to push onward and spit danger in the face.",
-    "translation": "由于战团光荣的战旗就在附近，这个角色感到不得不向前推进并蔑视危险。",
-    "stage": 5,
+    "translation": "与战团光荣的战旗同在，这个角色蔑视危险向前推进的使命感溢于言表。",
+    "stage": 1,
     "context": "this.m.Description = \"With the company's glorious battle standard nearby, this character feels compelled to push onward and spit danger in the face.\""
   },
   {

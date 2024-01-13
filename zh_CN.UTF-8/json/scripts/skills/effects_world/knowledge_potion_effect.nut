@@ -11,7 +11,7 @@
     "ID": 293421843,
     "key": "Thanks to a cocktail of nootropics euphemistically called 'Potion of Knowledge', this character's cognitive functions, and particularly his memory and ability to learn, are enhanced along with his propensity for displaying nervous ticks.",
     "original": "Thanks to a cocktail of nootropics euphemistically called 'Potion of Knowledge', this character's cognitive functions, and particularly his memory and ability to learn, are enhanced along with his propensity for displaying nervous ticks.",
-    "translation": "由于一种被委婉地称为“知识药水”的热带混合体，这个角色的认知功能，特别是他的记忆和学习能力，随着他表现出紧张的滴答声的倾向而得到增强。",
+    "translation": "多亏了一种被委婉地称为“知识药水”的混合物，这个角色的认知功能，特别是他的记忆和学习能力，和他表现出的紧张多动倾向一同得到了增强。",
     "stage": 1,
     "context": "this.m.Description = \"Thanks to a cocktail of nootropics euphemistically called 'Potion of Knowledge', this character's cognitive functions, and particularly his memory and ability to learn, are enhanced along with his propensity for displaying nervous ticks.\""
   },

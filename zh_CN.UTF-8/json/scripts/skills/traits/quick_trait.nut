@@ -20,7 +20,7 @@
     "key": "Quick",
     "original": "Quick",
     "translation": "快速",
-    "stage": 5,
+    "stage": 1,
     "context": "this.m.Name = 'Quick'"
   },
   {

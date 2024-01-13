@@ -11,8 +11,8 @@
     "ID": 293422146,
     "key": "%[/color] of any damage to hitpoints from attacks",
     "original": "%[/color] of any damage to hitpoints from attacks",
-    "translation": "%[/color]生命值伤害(对所有类型的攻击均生效)",
-    "stage": 5,
+    "translation": "%[/color]的生命值伤害(对且仅对所有攻击生效)",
+    "stage": 1,
     "context": "text = 'Only receive [color=' + this.Const.UI.Color.PositiveValue + ']' + fm + '%[/color] of any damage to hitpoints from attacks'"
   },
   {

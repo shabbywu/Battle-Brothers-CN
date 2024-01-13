@@ -11,8 +11,8 @@
     "ID": 293421976,
     "key": "]1[/color] hitpoint each turn in combat",
     "original": "]1[/color] hitpoint each turn in combat",
-    "translation": "]1[/color] 生命值",
-    "stage": 5,
+    "translation": "]1[/color] 点生命值，直到战斗结束",
+    "stage": 1,
     "context": "text = 'This character will continue to lose [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] hitpoint each turn in combat'"
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293421979,
     "key": "This character will continue to lose [color=",
     "original": "This character will continue to lose [color=",
-    "translation": "这个角色将持续每回合失去 [color=",
-    "stage": 5,
+    "translation": "每个回合，这个角色将失去 [color=",
+    "stage": 1,
     "context": "text = 'This character will continue to lose [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] hitpoint each turn in combat'"
   },
   {

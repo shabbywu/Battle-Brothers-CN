@@ -3,8 +3,8 @@
     "ID": 293421877,
     "key": "Burned patches over the face and eyes make it harder to see and focus on a target.",
     "original": "Burned patches over the face and eyes make it harder to see and focus on a target.",
-    "translation": "脸部和眼睛上的烧伤痂导致难以看清并聚焦于目标。",
-    "stage": 5,
+    "translation": "脸部和眼睛上的烧伤结痂导致难以看到和聚焦目标。",
+    "stage": 1,
     "context": "this.m.Description = 'Burned patches over the face and eyes make it harder to see and focus on a target.'"
   },
   {
@@ -19,8 +19,8 @@
     "ID": 293421879,
     "key": "Burnt Face",
     "original": "Burnt Face",
-    "translation": "脸部烧伤",
-    "stage": 5,
+    "translation": "面部烧伤",
+    "stage": 1,
     "context": "this.m.Name = 'Burnt Face'"
   },
   {

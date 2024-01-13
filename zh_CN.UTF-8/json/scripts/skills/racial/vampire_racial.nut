@@ -11,7 +11,7 @@
     "ID": 293422168,
     "key": " points",
     "original": " points",
-    "translation": "点生命",
+    "translation": "点生命值",
     "stage": 5,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + this.Math.min(actor.getHitpointsMax() - actor.getHitpoints(), this.Math.round(_damageInflictedHitpoints * 1.0)) + ' points')"
   },

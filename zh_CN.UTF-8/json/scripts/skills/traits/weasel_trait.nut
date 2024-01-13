@@ -27,24 +27,24 @@
     "ID": 293422775,
     "key": "the Weasel",
     "original": "the Weasel",
-    "translation": "黄鼠狼",
-    "stage": 5,
+    "translation": "鼬鼠",
+    "stage": 1,
     "context": "'the Weasel'"
   },
   {
     "ID": 293422776,
     "key": "]+25[/color] Melee Defense while retreating",
     "original": "]+25[/color] Melee Defense while retreating",
-    "translation": "]+25[/color] 在撤退时的近战防御",
-    "stage": 5,
+    "translation": "]+25[/color] 撤退时的近战防御",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+25[/color] Melee Defense while retreating'"
   },
   {
     "ID": 293422777,
     "key": "Weasel",
     "original": "Weasel",
-    "translation": "黄鼠狼",
-    "stage": 5,
+    "translation": "鼬鼠",
+    "stage": 1,
     "context": "this.m.Name = 'Weasel'"
   },
   {

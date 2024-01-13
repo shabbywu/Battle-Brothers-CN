@@ -67,7 +67,7 @@
     "ID": 293403712,
     "key": "You gain extra Renown for winning battles where you are outnumbered (",
     "original": "You gain extra Renown for winning battles where you are outnumbered (",
-    "translation": "誓言目标: 以寡敌众赢得目标的战斗次数",
+    "translation": "誓言目标: 以寡敌众赢得目标的战斗次数(",
     "stage": 1,
     "context": "return 'You gain extra Renown for winning battles where you are outnumbered (' + this.getBonusObjectiveProgress() + '/' + this.getBonusObjectiveGoal() + ').';"
   }

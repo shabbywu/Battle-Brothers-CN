@@ -59,7 +59,7 @@
     "ID": 293422696,
     "key": "Old age has finally caught up with this character.",
     "original": "Old age has finally caught up with this character.",
-    "translation": "这个角色最终还是老了。",
+    "translation": "这个角色终究还是老了。",
     "stage": 1,
     "context": "this.m.Description = 'Old age has finally caught up with this character.'"
   }

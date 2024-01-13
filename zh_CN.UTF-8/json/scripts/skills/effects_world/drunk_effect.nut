@@ -19,7 +19,7 @@
     "ID": 293421823,
     "key": "Hicks. This character is intoxicated with alcoholic liquor to the point of impairment of physical and mental faculties.",
     "original": "Hicks. This character is intoxicated with alcoholic liquor to the point of impairment of physical and mental faculties.",
-    "translation": "反应迟钝的人。这个人喝醉了，会损害身心的能力。",
+    "translation": "嗝。这个人喝醉了，身心能力受损。",
     "stage": 1,
     "context": "this.m.Description = 'Hicks. This character is intoxicated with alcoholic liquor to the point of impairment of physical and mental faculties.'"
   },

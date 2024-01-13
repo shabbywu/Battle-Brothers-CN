@@ -19,8 +19,8 @@
     "ID": 293422034,
     "key": "Pierced Lung",
     "original": "Pierced Lung",
-    "translation": "肺部刺伤",
-    "stage": 5,
+    "translation": "肺穿孔",
+    "stage": 1,
     "context": "this.m.Name = 'Pierced Lung'"
   }
 ]

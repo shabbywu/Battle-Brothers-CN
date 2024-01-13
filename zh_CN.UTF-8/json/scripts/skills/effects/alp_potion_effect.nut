@@ -27,7 +27,7 @@
     "ID": 293421403,
     "key": "Enhanced Eye Rods",
     "original": "Enhanced Eye Rods",
-    "translation": "强化眼杆细胞",
+    "translation": "强化视杆细胞",
     "stage": 1,
     "context": "this.m.Name = 'Enhanced Eye Rods'"
   }

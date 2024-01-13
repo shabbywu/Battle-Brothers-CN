@@ -27,7 +27,7 @@
     "ID": 293421837,
     "key": "Not so loud! This character suffers the consequences from recent excessive alcohol consumption.",
     "original": "Not so loud! This character suffers the consequences from recent excessive alcohol consumption.",
-    "translation": "不要那么大声！这一特点受到了近来过度饮酒的影响。",
+    "translation": "不要那么大声！这个角色受到了近来过度饮酒的影响。",
     "stage": 1,
     "context": "this.m.Description = 'Not so loud! This character suffers the consequences from recent excessive alcohol consumption.'"
   },

@@ -11,7 +11,7 @@
     "ID": 293421818,
     "key": "Recent events have left this character afraid for his life. Either he's right and will meet his end soon, or it'll  pass in time.",
     "original": "Recent events have left this character afraid for his life. Either he's right and will meet his end soon, or it'll  pass in time.",
-    "translation": "最近的事件使这个角色害怕。 要么他能在恰当的时刻会晤，要么就随时间过去。",
+    "translation": "最近的事件使这个角色担心自己会有性命之忧。他的担忧要么是对的，他真的就要死了，要么就会被时间冲淡。",
     "stage": 1,
     "context": "this.m.Description = \"Recent events have left this character afraid for his life. Either he's right and will meet his end soon, or it'll  pass in time.\""
   },

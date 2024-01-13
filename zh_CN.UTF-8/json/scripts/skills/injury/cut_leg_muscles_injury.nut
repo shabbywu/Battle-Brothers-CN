@@ -11,8 +11,8 @@
     "ID": 293421918,
     "key": "A cut into the muscles of the leg makes any quick and sudden movements impossible.",
     "original": "A cut into the muscles of the leg makes any quick and sudden movements impossible.",
-    "translation": "腿部肌肉上的一处割伤使得任何快速且突然的行动不再可能。",
-    "stage": 5,
+    "translation": "腿部肌肉上的一处割伤剥夺了突然快速行动的可能。",
+    "stage": 1,
     "context": "this.m.Description = 'A cut into the muscles of the leg makes any quick and sudden movements impossible.'"
   },
   {

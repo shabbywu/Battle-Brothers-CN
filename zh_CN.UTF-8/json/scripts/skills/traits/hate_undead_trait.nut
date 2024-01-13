@@ -3,8 +3,8 @@
     "ID": 293422548,
     "key": "Some past event in this character's life has fueled a burning hatred for all things that refuse to stay six feet underground.",
     "original": "Some past event in this character's life has fueled a burning hatred for all things that refuse to stay six feet underground.",
-    "translation": "在这个角色的生活中，一些过去的事件已经激起了他对所有拒绝留在六英尺地下的东西的强烈仇恨。",
-    "stage": 5,
+    "translation": "这个角色过去生活中的一些事情激起了他对所有拒绝留在地下两米的东西的强烈仇恨。",
+    "stage": 1,
     "context": "this.m.Description = \"Some past event in this character's life has fueled a burning hatred for all things that refuse to stay six feet underground.\""
   },
   {

@@ -3,7 +3,7 @@
     "ID": 293403692,
     "key": " combat injuries (",
     "original": " combat injuries (",
-    "translation": "的伤残次数(",
+    "translation": "的伤残次数(已承受",
     "stage": 1,
     "context": "return 'You gain extra Renown for suffering no more than ' + this.getBonusObjectiveGoal() + ' combat injuries (' + this.getBonusObjectiveProgress() + this.getBonusObjectiveProgress() == 1 ? ' injury' : ' injuries' + ' taken so far).';"
   },
@@ -67,7 +67,7 @@
     "ID": 293403700,
     "key": "\"If all is within the realm of the old gods' gifts, then pain itself shall be their bitterest fruit. But an offering it is, nonetheless, and so our battle against pain is one of great selfishness. Abscise from the healer's mend, and equally so from the me",
     "original": "\"If all is within the realm of the old gods' gifts, then pain itself shall be their bitterest fruit. But an offering it is, nonetheless, and so our battle against pain is one of great selfishness. Abscise from the healer's mend, and equally so from the merchant's lend.\" - Young Anselm",
-    "translation": "“如果一切都在老神的馈赠之内，那么痛苦本身将是他们最苦涩的果实。尽管如此，这仍然是一种贡献，因此我们与痛苦的斗争是极其自私的。脱离治疗师的疗愈，同样也要脱离商人的借贷。”——年轻的安瑟姆",
+    "translation": "“如果一切都在古老神明的馈赠之内，那么痛苦本身将是他们最苦涩的果实。尽管如此，这仍然是一种贡献，因此我们与痛苦的斗争是极其自私的。脱离治疗师的疗愈，同样也要脱离商人的借贷。”——年轻的安瑟姆",
     "stage": 1,
     "context": "this.m.TooltipText = '\"If all is within the realm of the old gods\\' gifts, then pain itself shall be their bitterest fruit. But an offering it is, nonetheless, and so our battle against pain is one of great selfishness. Abscise from the healer\\'s mend, and equally so from the merchant\\'s lend.\" - Young Anselm'"
   },
@@ -91,7 +91,7 @@
     "ID": 293403703,
     "key": " taken so far).",
     "original": " taken so far).",
-    "translation": "已承受",
+    "translation": ")。",
     "stage": 1,
     "context": "return 'You gain extra Renown for suffering no more than ' + this.getBonusObjectiveGoal() + ' combat injuries (' + this.getBonusObjectiveProgress() + this.getBonusObjectiveProgress() == 1 ? ' injury' : ' injuries' + ' taken so far).';"
   }

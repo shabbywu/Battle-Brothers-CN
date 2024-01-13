@@ -3,8 +3,8 @@
     "ID": 293421993,
     "key": "Injured Shoulder",
     "original": "Injured Shoulder",
-    "translation": "肩膀受伤",
-    "stage": 5,
+    "translation": "肩部受伤",
+    "stage": 1,
     "context": "this.m.Name = 'Injured Shoulder'"
   },
   {

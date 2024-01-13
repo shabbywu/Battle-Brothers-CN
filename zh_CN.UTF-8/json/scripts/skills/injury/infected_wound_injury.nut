@@ -19,7 +19,7 @@
     "ID": 293421983,
     "key": "An unclean wound has painfully festered, draining this character's constitution.",
     "original": "An unclean wound has painfully festered, draining this character's constitution.",
-    "translation": "一个未能保持清洁的伤口已经溃烂，非常痛苦并且损耗了这个角色的体质。",
+    "translation": "不干净的伤口带来了溃烂的痛苦，也损耗了这个角色的体质。",
     "stage": 1,
     "context": "this.m.Description = \"An unclean wound has painfully festered, draining this character's constitution.\""
   },

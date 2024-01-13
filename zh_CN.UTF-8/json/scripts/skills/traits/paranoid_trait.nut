@@ -35,8 +35,8 @@
     "ID": 293422705,
     "key": "Paranoid",
     "original": "Paranoid",
-    "translation": "偏执狂",
-    "stage": 5,
+    "translation": "被害妄想",
+    "stage": 1,
     "context": "this.m.Name = 'Paranoid'"
   },
   {
@@ -51,8 +51,8 @@
     "ID": 293422707,
     "key": "the Paranoid",
     "original": "the Paranoid",
-    "translation": "偏执狂(the Paranoid)",
-    "stage": 5,
+    "translation": "多疑者(the Paranoid)",
+    "stage": 1,
     "context": "'the Paranoid'"
   },
   {

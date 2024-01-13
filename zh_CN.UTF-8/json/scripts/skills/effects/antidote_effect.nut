@@ -11,7 +11,7 @@
     "ID": 293421409,
     "key": "Immune to Poison",
     "original": "Immune to Poison",
-    "translation": "对毒免疫",
+    "translation": "毒素免疫",
     "stage": 1,
     "context": "this.m.Name = 'Immune to Poison'"
   },

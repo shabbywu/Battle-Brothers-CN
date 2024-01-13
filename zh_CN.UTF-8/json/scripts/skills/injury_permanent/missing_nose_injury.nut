@@ -3,7 +3,7 @@
     "ID": 293422123,
     "key": "Missing Nose",
     "original": "Missing Nose",
-    "translation": "鼻缺失",
+    "translation": "鼻缺损",
     "stage": 1,
     "context": "this.m.Name = 'Missing Nose'"
   },

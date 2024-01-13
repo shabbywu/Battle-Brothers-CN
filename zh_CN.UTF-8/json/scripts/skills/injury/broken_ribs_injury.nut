@@ -11,8 +11,8 @@
     "ID": 293421871,
     "key": "Broken Ribs",
     "original": "Broken Ribs",
-    "translation": "肋骨断裂",
-    "stage": 5,
+    "translation": "肋骨骨折",
+    "stage": 1,
     "context": "this.m.Name = 'Broken Ribs'"
   },
   {

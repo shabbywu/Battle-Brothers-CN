@@ -67,8 +67,8 @@
     "ID": 293403622,
     "key": "]+10%[/color] damage if there are no allies on adjacent tiles.",
     "original": "]+10%[/color] damage if there are no allies on adjacent tiles.",
-    "translation": "]+10%[/color] 伤害（如果相邻格没有盟友）",
-    "stage": 5,
+    "translation": "]+10%[/color] 伤害（相邻格没有盟友时）",
+    "stage": 1,
     "context": "this.m.OathBoonText = 'Your men get [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve, [color=' + this.Const.UI.Color.PositiveValue + ']+3[/color] Fatigue Recovery per turn, and deal [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] damage if there are no allies on adjacent tiles.'"
   },
   {

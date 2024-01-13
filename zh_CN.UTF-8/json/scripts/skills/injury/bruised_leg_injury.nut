@@ -11,8 +11,8 @@
     "ID": 293421874,
     "key": "A heavily bruised leg severely limits mobility, but won't take long to recover from.",
     "original": "A heavily bruised leg severely limits mobility, but won't take long to recover from.",
-    "translation": "腿部严重擦伤极大地限制了活动性，但很快就会恢复。",
-    "stage": 5,
+    "translation": "腿部严重瘀伤极大地限制了活动性，好在不久就能痊愈。",
+    "stage": 1,
     "context": "this.m.Description = \"A heavily bruised leg severely limits mobility, but won't take long to recover from.\""
   },
   {

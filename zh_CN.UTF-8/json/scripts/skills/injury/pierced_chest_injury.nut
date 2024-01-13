@@ -11,7 +11,7 @@
     "ID": 293422022,
     "key": "Pierced Chest",
     "original": "Pierced Chest",
-    "translation": "胸部刺伤",
+    "translation": "胸部穿孔",
     "stage": 1,
     "context": "this.m.Name = 'Pierced Chest'"
   },

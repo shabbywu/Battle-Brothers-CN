@@ -19,7 +19,7 @@
     "ID": 293403599,
     "key": " for ",
     "original": " for ",
-    "translation": "为了",
+    "translation": "为期尚余",
     "stage": 1,
     "context": "return 'Uphold an ' + this.m.OathName + ' for ' + timeRemaining > 1 ? 'another ' + timeRemaining + ' days' : '1 more day';"
   },
@@ -43,7 +43,7 @@
     "ID": 293403602,
     "key": "Uphold an ",
     "original": "Uphold an ",
-    "translation": "正在宣下 ",
+    "translation": "当前立下 ",
     "stage": 1,
     "context": "return 'Uphold an ' + this.m.OathName + ' for ' + timeRemaining > 1 ? 'another ' + timeRemaining + ' days' : '1 more day';"
   },
@@ -51,7 +51,7 @@
     "ID": 293403603,
     "key": "another ",
     "original": "another ",
-    "translation": "另一个",
+    "translation": "共",
     "stage": 1,
     "context": "return 'Uphold an ' + this.m.OathName + ' for ' + timeRemaining > 1 ? 'another ' + timeRemaining + ' days' : '1 more day';"
   },

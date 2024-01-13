@@ -3,8 +3,8 @@
     "ID": 293421428,
     "key": "This character is bleeding profusely from a recently received wound and will lose [color=",
     "original": "This character is bleeding profusely from a recently received wound and will lose [color=",
-    "translation": "这个角色一个最近遭受的伤口正在大量流血，每回合将会失去 [color=",
-    "stage": 5,
+    "translation": "这个角色最近遭受的一个伤口正在大量流血，每回合将会失去 [color=",
+    "stage": 1,
     "context": "return 'This character is bleeding profusely from a recently received wound and will lose [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.Damage + '[/color] hitpoints each turn for [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] more turn(s).';"
   },
   {

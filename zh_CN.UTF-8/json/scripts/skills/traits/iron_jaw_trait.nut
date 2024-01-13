@@ -43,8 +43,8 @@
     "ID": 293422580,
     "key": "This character shakes off hits that would cripple a lesser man.",
     "original": "This character shakes off hits that would cripple a lesser man.",
-    "translation": "这个角色能够摆脱那些会让一个弱者瘫痪的打击。",
-    "stage": 5,
+    "translation": "这个角色能轻易摆脱那些能瘫痪脆弱者的打击。",
+    "stage": 1,
     "context": "this.m.Description = 'This character shakes off hits that would cripple a lesser man.'"
   }
 ]

@@ -27,7 +27,7 @@
     "ID": 293421407,
     "key": "This character's body has mutated in such a way that their fight-or-flight response is altered. In high stress situations, their limbic system is simply refused resources for flight, making them effectively unbreakable in the battle line.",
     "original": "This character's body has mutated in such a way that their fight-or-flight response is altered. In high stress situations, their limbic system is simply refused resources for flight, making them effectively unbreakable in the battle line.",
-    "translation": "这个角色的身体发生了变异，使得他们的应战反应发生了改变。在高压情况下，他们的边缘系统被拒绝了逃跑所需的资源，使得他们在战线上几乎无法被瓦解。",
+    "translation": "这个角色的身体发生了变异，使得他们的战逃反应发生了改变。在高压情况下，他们的边缘系统遮断了逃跑的策略，使得他们在战线中是事实上的牢不可破。",
     "stage": 1,
     "context": "return \"This character's body has mutated in such a way that their fight-or-flight response is altered. In high stress situations, their limbic system is simply refused resources for flight, making them effectively unbreakable in the battle line.\";"
   }

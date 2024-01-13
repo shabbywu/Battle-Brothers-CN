@@ -11,8 +11,8 @@
     "ID": 293422542,
     "key": "Some past event in this character's life has fueled a burning hatred for all things wild and monstrous.",
     "original": "Some past event in this character's life has fueled a burning hatred for all things wild and monstrous.",
-    "translation": "这个角色生活中过去发生的一些事情激起了他对所有野兽和怪物的强烈仇恨。",
-    "stage": 5,
+    "translation": "这个角色过去生活中的一些事情激起了他对所有野兽和怪物的强烈仇恨。",
+    "stage": 1,
     "context": "this.m.Description = \"Some past event in this character's life has fueled a burning hatred for all things wild and monstrous.\""
   },
   {

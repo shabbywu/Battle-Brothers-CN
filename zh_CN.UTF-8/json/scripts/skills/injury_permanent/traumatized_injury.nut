@@ -27,7 +27,7 @@
     "ID": 293422130,
     "key": "This character has been to the other side. Faced with his own mortality, the experience of dying and coming back has left him a broken man.",
     "original": "This character has been to the other side. Faced with his own mortality, the experience of dying and coming back has left him a broken man.",
-    "translation": "这个角色已经到了另一边。面对自己的死亡，他经历了垂死和回归，留下了一个破碎的人。",
+    "translation": "这个角色已经死过一次了。死亡曾经就摆在他的面前，死去活来的经历留下了一个垮了的人。",
     "stage": 1,
     "context": "this.m.Description = 'This character has been to the other side. Faced with his own mortality, the experience of dying and coming back has left him a broken man.'"
   },

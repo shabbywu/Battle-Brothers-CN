@@ -19,8 +19,8 @@
     "ID": 293422557,
     "key": "Being particularly huge and burly, this character's strikes hurt plenty, but he's also a bigger target than most.",
     "original": "Being particularly huge and burly, this character's strikes hurt plenty, but he's also a bigger target than most.",
-    "translation": "由于这个角色特别庞大且魁梧，他的攻击造成的伤害相当大，但他也是一个比大多数人更大的目标。",
-    "stage": 5,
+    "translation": "这个角色出奇地又高又壮，造成的伤害相当可观，但他也是一个比大多数人更大的目标。",
+    "stage": 1,
     "context": "this.m.Description = \"Being particularly huge and burly, this character's strikes hurt plenty, but he's also a bigger target than most.\""
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293422559,
     "key": "Huge",
     "original": "Huge",
-    "translation": "庞大",
-    "stage": 5,
+    "translation": "魁梧",
+    "stage": 1,
     "context": "this.m.Name = 'Huge'"
   },
   {

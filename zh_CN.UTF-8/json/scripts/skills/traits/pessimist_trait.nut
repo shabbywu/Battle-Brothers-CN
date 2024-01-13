@@ -3,8 +3,8 @@
     "ID": 293422711,
     "key": "]-5[/color] Resolve at negative morale checks",
     "original": "]-5[/color] Resolve at negative morale checks",
-    "translation": "]-5[/color] 决心，在消极士气检查时",
-    "stage": 5,
+    "translation": "]-5[/color] 决心，在负面士气检查时",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-5[/color] Resolve at negative morale checks'"
   },
   {

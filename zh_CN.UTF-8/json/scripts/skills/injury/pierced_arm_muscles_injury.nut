@@ -11,8 +11,8 @@
     "ID": 293422015,
     "key": "Pierced Arm Muscles",
     "original": "Pierced Arm Muscles",
-    "translation": "手臂肌肉刺伤",
-    "stage": 5,
+    "translation": "手臂肌肉穿孔",
+    "stage": 1,
     "context": "this.m.Name = 'Pierced Arm Muscles'"
   },
   {

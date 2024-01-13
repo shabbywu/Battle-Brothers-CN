@@ -3,8 +3,8 @@
     "ID": 293421996,
     "key": "Will not heal because you have no medical supplies",
     "original": "Will not heal because you have no medical supplies",
-    "translation": "不会痊愈，因为你没有医疗用品",
-    "stage": 5,
+    "translation": "因缺乏医疗用品而不能痊愈",
+    "stage": 1,
     "context": "text = 'Will not heal because you have no medical supplies'"
   },
   {
@@ -19,8 +19,8 @@
     "ID": 293421998,
     "key": "Will take effect again only after the next battle due to the Iron Will effect",
     "original": "Will take effect again only after the next battle due to the Iron Will effect",
-    "translation": "由于钢铁意志效果，战斗结束后才会生效",
-    "stage": 5,
+    "translation": "由于钢铁意志效果，下一场战斗结束后才会生效",
+    "stage": 1,
     "context": "text = 'Will take effect again only after the next battle due to the Iron Will effect'"
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293422000,
     "key": "Will not heal because this character has taken an oath of sacrifice",
     "original": "Will not heal because this character has taken an oath of sacrifice",
-    "translation": "不会痊愈，因为这个角色立下了牺牲誓言",
-    "stage": 5,
+    "translation": "因立下牺牲誓言而不会痊愈",
+    "stage": 1,
     "context": "text = 'Will not heal because this character has taken an oath of sacrifice'"
   },
   {

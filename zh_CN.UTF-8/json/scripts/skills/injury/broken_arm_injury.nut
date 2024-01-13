@@ -3,8 +3,8 @@
     "ID": 293421858,
     "key": "Broken Arm",
     "original": "Broken Arm",
-    "translation": "手臂折断",
-    "stage": 5,
+    "translation": "手臂骨折",
+    "stage": 1,
     "context": "this.m.Name = 'Broken Arm'"
   },
   {
