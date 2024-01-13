@@ -19,8 +19,8 @@
     "ID": 293421865,
     "key": "Broken Leg",
     "original": "Broken Leg",
-    "translation": "腿骨断裂",
-    "stage": 5,
+    "translation": "腿部骨折",
+    "stage": 1,
     "context": "this.m.Name = 'Broken Leg'"
   },
   {

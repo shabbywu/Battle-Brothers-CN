@@ -3,7 +3,7 @@
     "ID": 293422524,
     "key": "Forged in the arenas of the south, this character has fought many a battle, and every blow will only strengthen his indomitable will and endurance. His fabulous lifestyle demands high pay, but he'll never desert you and can't be dismissed. If all three or",
     "original": "Forged in the arenas of the south, this character has fought many a battle, and every blow will only strengthen his indomitable will and endurance. His fabulous lifestyle demands high pay, but he'll never desert you and can't be dismissed. If all three original members should die, your campaign ends.",
-    "translation": "在南方的竞技场上锻造的这个角色已经打了很多仗，每一次打击只会增强他不屈不挠的意志和耐力。 他美妙的生活方式要求很高的薪水，但他永远不会抛弃你，也不能被解雇。 如果三个初始成员都死了，你的战役就结束了。",
+    "translation": "这个角色在南方的竞技场上经历过许多战斗的锻炼，每一次打击只会增强他不屈不挠的意志和耐力。 他奢华的生活方式需要高薪来维持，但他永远不会抛弃你，也不能被解雇。 如果三个初始成员都死了，你的战役就结束了。",
     "stage": 1,
     "context": "return \"Forged in the arenas of the south, this character has fought many a battle, and every blow will only strengthen his indomitable will and endurance. His fabulous lifestyle demands high pay, but he'll never desert you and can't be dismissed. If all three original members should die, your campaign ends.\";"
   },

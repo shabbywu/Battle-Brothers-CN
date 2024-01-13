@@ -3,8 +3,8 @@
     "ID": 293422298,
     "key": "Fortifying!",
     "original": "Fortifying!",
-    "translation": "壁垒！",
-    "stage": 5,
+    "translation": "筑垒！",
+    "stage": 1,
     "context": "this.m.Name = 'Fortifying!'"
   },
   {

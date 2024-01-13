@@ -3,8 +3,8 @@
     "ID": 293421775,
     "key": "]10[/color] hitpoints each turn",
     "original": "]10[/color] hitpoints each turn",
-    "translation": "]10[/color] 生命值",
-    "stage": 5,
+    "translation": "]10[/color] 点生命值",
+    "stage": 1,
     "context": "text = 'Heals [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints each turn'"
   },
   {

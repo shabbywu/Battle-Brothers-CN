@@ -3,7 +3,7 @@
     "ID": 293422136,
     "key": "]5%[/color] of the current total armor value of both body and head armor. The heavier your armor and helmet, the more you benefit.",
     "original": "]5%[/color] of the current total armor value of both body and head armor. The heavier your armor and helmet, the more you benefit.",
-    "translation": "]5%[/color]。你的盔甲和头盔越重，受益越高。",
+    "translation": "]5%[/color]。你的盔甲和头盔越厚重，受益越高。",
     "stage": 5,
     "context": "return 'Specialize in heavy armor! Armor damage taken is reduced by a percentage equal to [color=' + this.Const.UI.Color.PositiveValue + ']5%[/color] of the current total armor value of both body and head armor. The heavier your armor and helmet, the more you benefit.';"
   },
@@ -19,8 +19,8 @@
     "ID": 293422138,
     "key": "%[/color] of any damage to armor from attacks",
     "original": "%[/color] of any damage to armor from attacks",
-    "translation": "%[/color] 护甲伤害(对所有类型的攻击均生效)",
-    "stage": 5,
+    "translation": "%[/color] 的护甲伤害(对且仅对所有攻击生效)",
+    "stage": 1,
     "context": "text = 'Only receive [color=' + this.Const.UI.Color.PositiveValue + ']' + fm + '%[/color] of any damage to armor from attacks'"
   },
   {

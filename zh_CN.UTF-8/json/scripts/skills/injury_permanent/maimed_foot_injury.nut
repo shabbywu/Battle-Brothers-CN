@@ -11,7 +11,7 @@
     "ID": 293422106,
     "key": "An injury to the foot has never fully healed, making it hard to win any dancing competitions or otherwise move around quickly.",
     "original": "An injury to the foot has never fully healed, making it hard to win any dancing competitions or otherwise move around quickly.",
-    "translation": "脚上的伤从来没有完全愈合，这使得很难赢得任何舞蹈比赛或其他快速移动。",
+    "translation": "脚上从未痊愈的伤口，使得诸如舞蹈比赛之类的快速移动难以完成。",
     "stage": 1,
     "context": "this.m.Description = 'An injury to the foot has never fully healed, making it hard to win any dancing competitions or otherwise move around quickly.'"
   },
@@ -19,7 +19,7 @@
     "ID": 293422107,
     "key": "Maimed Foot",
     "original": "Maimed Foot",
-    "translation": "残废足",
+    "translation": "足部伤残",
     "stage": 1,
     "context": "this.m.Name = 'Maimed Foot'"
   },

@@ -35,7 +35,7 @@
     "ID": 293421496,
     "key": "Reactive Leg Muscles",
     "original": "Reactive Leg Muscles",
-    "translation": "反应性腿部肌肉",
+    "translation": "活化腿部肌肉",
     "stage": 1,
     "context": "this.m.Name = 'Reactive Leg Muscles'"
   }

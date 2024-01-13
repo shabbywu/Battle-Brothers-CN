@@ -3,8 +3,8 @@
     "ID": 293422024,
     "key": "Pierced Hand",
     "original": "Pierced Hand",
-    "translation": "手部刺伤",
-    "stage": 5,
+    "translation": "手部穿孔",
+    "stage": 1,
     "context": "this.m.Name = 'Pierced Hand'"
   },
   {

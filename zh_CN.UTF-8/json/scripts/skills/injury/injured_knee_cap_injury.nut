@@ -11,8 +11,8 @@
     "ID": 293421990,
     "key": "The sensitive knee cap has been injured, resulting in pain with every movement and severely limiting the mobility of this character.",
     "original": "The sensitive knee cap has been injured, resulting in pain with every movement and severely limiting the mobility of this character.",
-    "translation": "敏感的膝盖受伤了，使得每次行动都十分疼，极大的限制了这个角色的活动性。",
-    "stage": 5,
+    "translation": "敏感的膝盖受伤了，使得每次行动都十分痛苦，极大的限制了这个角色的活动能力。",
+    "stage": 1,
     "context": "this.m.Description = 'The sensitive knee cap has been injured, resulting in pain with every movement and severely limiting the mobility of this character.'"
   },
   {

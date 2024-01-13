@@ -3,8 +3,8 @@
     "ID": 293422738,
     "key": "Sure Footing",
     "original": "Sure Footing",
-    "translation": "下盘稳定",
-    "stage": 5,
+    "translation": "下盘稳固",
+    "stage": 1,
     "context": "this.m.Name = 'Sure Footing'"
   },
   {

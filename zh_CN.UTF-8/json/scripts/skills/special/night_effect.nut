@@ -11,8 +11,8 @@
     "ID": 293422292,
     "key": "Did that shadow just move? The dim moon light makes it hard to see more than a few feet in front, reducing the view range and making the use of ranged weapons a bad proposition for anyone not able to see in the dark.",
     "original": "Did that shadow just move? The dim moon light makes it hard to see more than a few feet in front, reducing the view range and making the use of ranged weapons a bad proposition for anyone not able to see in the dark.",
-    "translation": "那个影子刚刚动了吗？昏暗的月光让人很难看清前方几英尺以外的地方，缩小了视野范围，对于那些在黑暗中看不见东西的人来说，使用远程武器是一个糟糕的提议。",
-    "stage": 5,
+    "translation": "刚刚那影子是不是动了？昏暗的月光让人很难看清前方几英尺以外的地方，缩小了视野范围，对于那些在黑暗中看不见东西的人来说，使用远程武器是一个糟糕的提议。",
+    "stage": 1,
     "context": "this.m.Description = 'Did that shadow just move? The dim moon light makes it hard to see more than a few feet in front, reducing the view range and making the use of ranged weapons a bad proposition for anyone not able to see in the dark.'"
   },
   {

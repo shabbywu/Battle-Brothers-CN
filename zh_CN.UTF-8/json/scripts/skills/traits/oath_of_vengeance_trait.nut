@@ -43,8 +43,8 @@
     "ID": 293422676,
     "key": "This character has taken an Oath of Vengeance, and is sworn to battle the greenskin menace that plagues mankind.",
     "original": "This character has taken an Oath of Vengeance, and is sworn to battle the greenskin menace that plagues mankind.",
-    "translation": "该角色已经立下复仇誓言，发誓要与困扰人类的绿皮族作战。",
-    "stage": 5,
+    "translation": "该角色已经立下复仇誓言，发誓要与为害人类的绿皮族作战。",
+    "stage": 1,
     "context": "this.m.Description = 'This character has taken an Oath of Vengeance, and is sworn to battle the greenskin menace that plagues mankind.'"
   },
   {

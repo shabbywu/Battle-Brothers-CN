@@ -35,8 +35,8 @@
     "ID": 293421964,
     "key": "This character's skull has sustained multiple fractures, and the brain has sustained blunt trauma leading to swelling and a build-up of pressure inside the skull.",
     "original": "This character's skull has sustained multiple fractures, and the brain has sustained blunt trauma leading to swelling and a build-up of pressure inside the skull.",
-    "translation": "这个角色的头骨遭受了多处骨折，大脑遭受了钝力冲击，导致肿胀和颅内压力的升高。",
-    "stage": 5,
+    "translation": "这个角色的头骨遭受了多处骨折，大脑遭受了钝力冲击，导致水肿和颅压升高。",
+    "stage": 1,
     "context": "this.m.Description = \"This character's skull has sustained multiple fractures, and the brain has sustained blunt trauma leading to swelling and a build-up of pressure inside the skull.\""
   },
   {

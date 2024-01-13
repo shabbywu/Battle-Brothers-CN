@@ -35,7 +35,7 @@
     "ID": 293403672,
     "key": "\"As you are indeed men in pursuit of power, always listen to the weak...for the weak know the strong better than you do, and in turn they shall know you better than you know yourself.\" - Young Anselm",
     "original": "\"As you are indeed men in pursuit of power, always listen to the weak...for the weak know the strong better than you do, and in turn they shall know you better than you know yourself.\" - Young Anselm",
-    "translation": "“既然你们是追求权力的人，就要时刻倾听弱者的声音……因为弱者比你更了解强者，而他们也会比你更了解你自己。”——年轻的安瑟姆",
+    "translation": "“既然你们是追求力量的人，就要时刻倾听弱者的声音……因为弱者比你更了解强者，而他们也会比你更了解你自己。”——年轻的安瑟姆",
     "stage": 1,
     "context": "this.m.TooltipText = '\"As you are indeed men in pursuit of power, always listen to the weak...for the weak know the strong better than you do, and in turn they shall know you better than you know yourself.\" - Young Anselm'"
   },
@@ -51,7 +51,7 @@
     "ID": 293403674,
     "key": "You earn [color=",
     "original": "You earn [color=",
-    "translation": "你赚了[color=",
+    "translation": "完成合同获取的赏金减少[color=",
     "stage": 1,
     "context": "this.m.OathBurdenText = 'You earn [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] fewer crowns from contracts.'"
   },
@@ -59,7 +59,7 @@
     "ID": 293403675,
     "key": "]25%[/color] fewer crowns from contracts.",
     "original": "]25%[/color] fewer crowns from contracts.",
-    "translation": "]-25%[/color] 任务收益。",
+    "translation": "]25%[/color] 。",
     "stage": 1,
     "context": "this.m.OathBurdenText = 'You earn [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] fewer crowns from contracts.'"
   },

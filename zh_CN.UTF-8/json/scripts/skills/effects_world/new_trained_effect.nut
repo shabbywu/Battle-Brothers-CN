@@ -3,7 +3,7 @@
     "ID": 293421850,
     "key": " more battles",
     "original": " more battles",
-    "translation": "更多战斗",
+    "translation": "场战斗之后消失",
     "stage": 1,
     "context": "text = 'Will be gone after ' + this.m.Duration - this.m.Battles + ' more battles'"
   },
@@ -11,7 +11,7 @@
     "ID": 293421851,
     "key": "Will be gone after ",
     "original": "Will be gone after ",
-    "translation": "将在之后消失",
+    "translation": "将在",
     "stage": 1,
     "context": "text = 'Will be gone after ' + this.m.Duration - this.m.Battles + ' more battles'"
   },

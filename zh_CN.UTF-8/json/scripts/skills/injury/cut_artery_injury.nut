@@ -3,8 +3,8 @@
     "ID": 293421911,
     "key": "This character will continue to lose [color=",
     "original": "This character will continue to lose [color=",
-    "translation": "这个角色将持续每回合失去 [color=",
-    "stage": 5,
+    "translation": "每个回合，这个角色将失去 [color=",
+    "stage": 1,
     "context": "text = 'This character will continue to lose [color=' + this.Const.UI.Color.NegativeValue + ']3[/color] hitpoints each turn in combat'"
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293421915,
     "key": "]3[/color] hitpoints each turn in combat",
     "original": "]3[/color] hitpoints each turn in combat",
-    "translation": "]3[/color]生命值",
-    "stage": 5,
+    "translation": "]3[/color]点生命值，直到战斗结束",
+    "stage": 1,
     "context": "text = 'This character will continue to lose [color=' + this.Const.UI.Color.NegativeValue + ']3[/color] hitpoints each turn in combat'"
   },
   {

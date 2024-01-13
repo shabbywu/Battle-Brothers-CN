@@ -11,8 +11,8 @@
     "ID": 293421438,
     "key": "Will be gone after 1 more battle",
     "original": "Will be gone after 1 more battle",
-    "translation": "会在 1 场战斗之后消失",
-    "stage": 5,
+    "translation": "会在 1 场战斗之后消退",
+    "stage": 1,
     "context": "text = 'Will be gone after 1 more battle'"
   },
   {

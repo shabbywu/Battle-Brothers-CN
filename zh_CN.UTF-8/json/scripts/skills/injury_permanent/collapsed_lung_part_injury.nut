@@ -3,7 +3,7 @@
     "ID": 293422101,
     "key": "Partly Collapsed Lung",
     "original": "Partly Collapsed Lung",
-    "translation": "部分肺萎陷",
+    "translation": "局部肺萎陷",
     "stage": 5,
     "context": "this.m.Name = 'Partly Collapsed Lung'"
   },
@@ -11,7 +11,7 @@
     "ID": 293422102,
     "key": "A part of the lung has died, making it very hard for this character to catch breath.",
     "original": "A part of the lung has died, making it very hard for this character to catch breath.",
-    "translation": "肺的一部分已经死亡，这使得这个角色很难呼吸。",
+    "translation": "肺的一部分已经坏死，使得这个角色呼吸困难。",
     "stage": 5,
     "context": "this.m.Description = 'A part of the lung has died, making it very hard for this character to catch breath.'"
   },

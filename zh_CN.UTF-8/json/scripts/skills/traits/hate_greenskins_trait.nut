@@ -19,8 +19,8 @@
     "ID": 293422546,
     "key": "Some past event in this character's life has fueled a burning hatred for all things green and mean.",
     "original": "Some past event in this character's life has fueled a burning hatred for all things green and mean.",
-    "translation": "在这个角色的生活中，一些过去的事件激起了对所有绿色和卑鄙事物的强烈仇恨。",
-    "stage": 5,
+    "translation": "这个角色过去生活中的一些事情激起了他对所有绿色和卑鄙事物的强烈仇恨。",
+    "stage": 1,
     "context": "this.m.Description = \"Some past event in this character's life has fueled a burning hatred for all things green and mean.\""
   },
   {

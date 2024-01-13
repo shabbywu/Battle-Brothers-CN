@@ -27,16 +27,16 @@
     "ID": 293422587,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "有 [color=",
-    "stage": 5,
+    "translation": "每当士气检查时，随机 [color=",
+    "stage": 1,
     "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] or [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve randomly at every morale check'"
   },
   {
     "ID": 293422588,
     "key": "]-10[/color] Resolve randomly at every morale check",
     "original": "]-10[/color] Resolve randomly at every morale check",
-    "translation": "]-10[/color] 决心（每次士气检查时随机触发）",
-    "stage": 5,
+    "translation": "]-10[/color] 决心",
+    "stage": 1,
     "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] or [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve randomly at every morale check'"
   }
 ]

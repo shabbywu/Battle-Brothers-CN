@@ -3,8 +3,8 @@
     "ID": 293422594,
     "key": "This character has a natural talent for getting out of harm's way in the last second.",
     "original": "This character has a natural talent for getting out of harm's way in the last second.",
-    "translation": "这个角色天生有在最后一秒摆脱伤害的天赋。",
-    "stage": 5,
+    "translation": "这个角色有在最后关头摆脱伤害的天赋。",
+    "stage": 1,
     "context": "this.m.Description = \"This character has a natural talent for getting out of harm's way in the last second.\""
   },
   {

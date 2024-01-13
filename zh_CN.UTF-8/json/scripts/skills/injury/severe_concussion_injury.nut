@@ -43,7 +43,7 @@
     "ID": 293422046,
     "key": "Severe Concussion",
     "original": "Severe Concussion",
-    "translation": "严重脑震荡",
+    "translation": "重度脑震荡",
     "stage": 1,
     "context": "this.m.Name = 'Severe Concussion'"
   },

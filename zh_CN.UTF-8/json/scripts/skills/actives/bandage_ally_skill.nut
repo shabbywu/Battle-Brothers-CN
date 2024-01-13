@@ -3,8 +3,8 @@
     "ID": 293419800,
     "key": "Removes fresh Cut Artery, Cut Neck Vein and Grazed Neck injuries",
     "original": "Removes fresh Cut Artery, Cut Neck Vein and Grazed Neck injuries",
-    "translation": "移除动脉断裂、颈静脉断裂和颈部擦破",
-    "stage": 5,
+    "translation": "移除动脉断裂、颈静脉断裂和颈部划伤",
+    "stage": 1,
     "context": "text = 'Removes fresh Cut Artery, Cut Neck Vein and Grazed Neck injuries'"
   },
   {

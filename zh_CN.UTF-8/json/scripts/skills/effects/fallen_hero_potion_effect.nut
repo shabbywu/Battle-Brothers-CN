@@ -3,7 +3,7 @@
     "ID": 293421483,
     "key": "Reactive Muscle Tissue",
     "original": "Reactive Muscle Tissue",
-    "translation": "反应性肌肉组织",
+    "translation": "活化肌肉组织",
     "stage": 1,
     "context": "this.m.Name = 'Reactive Muscle Tissue'"
   },

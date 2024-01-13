@@ -11,8 +11,8 @@
     "ID": 293422063,
     "key": "Smashed Hand",
     "original": "Smashed Hand",
-    "translation": "手部砸碎",
-    "stage": 5,
+    "translation": "手粉碎性骨折",
+    "stage": 1,
     "context": "this.m.Name = 'Smashed Hand'"
   },
   {
