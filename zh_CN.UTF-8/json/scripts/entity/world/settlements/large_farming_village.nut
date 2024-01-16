@@ -3,7 +3,7 @@
     "ID": 293410779,
     "key": "Grunmark",
     "original": "Grunmark",
-    "translation": "格伦马克",
+    "translation": "绿色边城",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -11,7 +11,7 @@
     "ID": 293410780,
     "key": "Schwanstadt",
     "original": "Schwanstadt",
-    "translation": "施万斯塔特",
+    "translation": "天鹅镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -19,7 +19,7 @@
     "ID": 293410781,
     "key": "Varelmark",
     "original": "Varelmark",
-    "translation": "瓦雷尔马克",
+    "translation": "飞鸟边城",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -27,7 +27,7 @@
     "ID": 293410782,
     "key": "Wedelmark",
     "original": "Wedelmark",
-    "translation": "威德尔马克",
+    "translation": "掸子边城",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -35,7 +35,7 @@
     "ID": 293410783,
     "key": "Dinkelsmark",
     "original": "Dinkelsmark",
-    "translation": "丁克尔斯马克",
+    "translation": "斯佩尔特麦边城",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -43,7 +43,7 @@
     "ID": 293410784,
     "key": "Konigsheim",
     "original": "Konigsheim",
-    "translation": "孔英斯海姆",
+    "translation": "国王之地",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -59,7 +59,7 @@
     "ID": 293410786,
     "key": "Grafenstadt",
     "original": "Grafenstadt",
-    "translation": "格拉芬斯塔特",
+    "translation": "擢爵镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -67,7 +67,7 @@
     "ID": 293410787,
     "key": "Heuland",
     "original": "Heuland",
-    "translation": "霍兰德",
+    "translation": "干草之地",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -75,7 +75,7 @@
     "ID": 293410788,
     "key": "Koppelstadt",
     "original": "Koppelstadt",
-    "translation": "科佩尔斯塔特",
+    "translation": "围场镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -83,7 +83,7 @@
     "ID": 293410789,
     "key": "Weissenstadt",
     "original": "Weissenstadt",
-    "translation": "魏森施塔特",
+    "translation": "白镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -91,7 +91,7 @@
     "ID": 293410790,
     "key": "Altenstadt",
     "original": "Altenstadt",
-    "translation": "奥尔滕斯塔特",
+    "translation": "老镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -99,7 +99,7 @@
     "ID": 293410791,
     "key": "Wiesenmark",
     "original": "Wiesenmark",
-    "translation": "维森马克",
+    "translation": "草地边城",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -115,7 +115,7 @@
     "ID": 293410793,
     "key": "Hemmelmark",
     "original": "Hemmelmark",
-    "translation": "海默马克",
+    "translation": "天空边城",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -123,7 +123,7 @@
     "ID": 293410794,
     "key": "Muhlstadt",
     "original": "Muhlstadt",
-    "translation": "慕尔斯塔特",
+    "translation": "磨盘镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -131,7 +131,7 @@
     "ID": 293410795,
     "key": "Auenmark",
     "original": "Auenmark",
-    "translation": "奥恩马克",
+    "translation": "洪原边城",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -139,7 +139,7 @@
     "ID": 293410796,
     "key": "Weidemark",
     "original": "Weidemark",
-    "translation": "韦德马克",
+    "translation": "柳树边城",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -147,15 +147,15 @@
     "ID": 293410797,
     "key": "Neumark",
     "original": "Neumark",
-    "translation": "纽马克",
-    "stage": 5,
+    "translation": "新边疆",
+    "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
   {
     "ID": 293410798,
     "key": "Kochenland",
     "original": "Kochenland",
-    "translation": "科亨兰德",
+    "translation": "烧水之地",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -163,7 +163,7 @@
     "ID": 293410799,
     "key": "Dreigrafen",
     "original": "Dreigrafen",
-    "translation": "德赖格拉芬",
+    "translation": "三爵镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -171,7 +171,7 @@
     "ID": 293410800,
     "key": "Hageland",
     "original": "Hageland",
-    "translation": "黑格兰德",
+    "translation": "冰雹之地",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -179,7 +179,7 @@
     "ID": 293410801,
     "key": "Albstadt",
     "original": "Albstadt",
-    "translation": "奥尔施塔特",
+    "translation": "夜魔镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -187,7 +187,7 @@
     "ID": 293410802,
     "key": "Dulmen",
     "original": "Dulmen",
-    "translation": "迪尔门",
+    "translation": "叠石镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -195,7 +195,7 @@
     "ID": 293410803,
     "key": "Kammersmark",
     "original": "Kammersmark",
-    "translation": "坎默斯马克",
+    "translation": "侧室边城",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -203,7 +203,7 @@
     "ID": 293410804,
     "key": "Konigsland",
     "original": "Konigsland",
-    "translation": "昆岛",
+    "translation": "国王之地",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -211,7 +211,7 @@
     "ID": 293410805,
     "key": "Grunhain",
     "original": "Grunhain",
-    "translation": "格伦海因",
+    "translation": "绿色森林",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -219,7 +219,7 @@
     "ID": 293410806,
     "key": "Kornstadt",
     "original": "Kornstadt",
-    "translation": "科恩斯塔特",
+    "translation": "谷物镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -227,7 +227,7 @@
     "ID": 293410807,
     "key": "Ivenstadt",
     "original": "Ivenstadt",
-    "translation": "伊文斯塔特",
+    "translation": "神恩镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -235,7 +235,7 @@
     "ID": 293410808,
     "key": "Heldenland",
     "original": "Heldenland",
-    "translation": "英雄之地",
+    "translation": "杰出之地",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -243,7 +243,7 @@
     "ID": 293410809,
     "key": "Schnellmark",
     "original": "Schnellmark",
-    "translation": "斯奈尔马克",
+    "translation": "仓促边城",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
@@ -259,7 +259,7 @@
     "ID": 293410811,
     "key": "Freistadt",
     "original": "Freistadt",
-    "translation": "弗赖斯塔特",
+    "translation": "开阔地镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   }

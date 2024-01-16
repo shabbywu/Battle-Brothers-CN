@@ -11,8 +11,8 @@
     "ID": 293410549,
     "key": "Militia Barracks",
     "original": "Militia Barracks",
-    "translation": "民兵营",
-    "stage": 5,
+    "translation": "民兵兵营",
+    "stage": 1,
     "context": "this.m.Name = 'Militia Barracks'"
   }
 ]

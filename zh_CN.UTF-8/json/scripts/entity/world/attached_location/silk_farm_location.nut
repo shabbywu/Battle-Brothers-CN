@@ -3,8 +3,8 @@
     "ID": 293410564,
     "key": "Silk Farm",
     "original": "Silk Farm",
-    "translation": "丝绸厂",
-    "stage": 5,
+    "translation": "蚕丝作坊",
+    "stage": 1,
     "context": "this.m.Name = 'Silk Farm'"
   },
   {

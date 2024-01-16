@@ -251,8 +251,8 @@
     "ID": 293412073,
     "key": "fish",
     "original": "fish",
-    "translation": "鱼村",
-    "stage": 5,
+    "translation": "鱼",
+    "stage": 1,
     "context": "this.m.ProduceString = 'fish'"
   },
   {

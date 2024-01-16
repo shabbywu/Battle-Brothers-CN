@@ -11,8 +11,8 @@
     "ID": 293410571,
     "key": "A mining camp has been set up to mine a surfaced copper vein and smelt the ore into ingots on the spot.",
     "original": "A mining camp has been set up to mine a surfaced copper vein and smelt the ore into ingots on the spot.",
-    "translation": "一个采矿营地已经建立了起来，旨在从露出地表的铜矿脉中开采铜矿石，并在现场将其熔炼成铜锭。",
-    "stage": 5,
+    "translation": "一个采矿营地已经建立了起来，旨在从露出地表的铜矿脉中开采矿石，并就地将其熔炼成铜锭。",
+    "stage": 1,
     "context": "this.m.Description = 'A mining camp has been set up to mine a surfaced copper vein and smelt the ore into ingots on the spot.'"
   }
 ]

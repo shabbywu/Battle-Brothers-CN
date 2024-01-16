@@ -147,7 +147,7 @@
     "ID": 293411150,
     "key": "Blankenburg",
     "original": "Blankenburg",
-    "translation": "布兰肯堡",
+    "translation": "苍茫堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },

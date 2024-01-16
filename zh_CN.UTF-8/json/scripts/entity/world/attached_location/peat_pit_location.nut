@@ -3,8 +3,8 @@
     "ID": 293410556,
     "key": "These peat pits produce a valuable fuel source once the peat has been dug up and dried.",
     "original": "These peat pits produce a valuable fuel source once the peat has been dug up and dried.",
-    "translation": "这些泥炭坑在把泥炭挖起并晒干后可以生产出有价值的燃料。",
-    "stage": 5,
+    "translation": "这些泥炭坑产出的泥炭在挖起并晒干后可以变成有价值的燃料。",
+    "stage": 1,
     "context": "this.m.Description = 'These peat pits produce a valuable fuel source once the peat has been dug up and dried.'"
   },
   {

@@ -35,8 +35,8 @@
     "ID": 293421754,
     "key": "Weapon coated with poison",
     "original": "Weapon coated with poison",
-    "translation": "带毒武器",
-    "stage": 5,
+    "translation": "浸毒武器",
+    "stage": 1,
     "context": "this.m.Name = 'Weapon coated with poison'"
   }
 ]

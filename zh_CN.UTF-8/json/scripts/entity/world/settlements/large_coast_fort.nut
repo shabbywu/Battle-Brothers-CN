@@ -27,16 +27,16 @@
     "ID": 293410735,
     "key": "Blankenfeste",
     "original": "Blankenfeste",
-    "translation": "茫然要塞",
-    "stage": 5,
+    "translation": "苍茫要塞",
+    "stage": 1,
     "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410736,
     "key": "Wesefeste",
     "original": "Wesefeste",
-    "translation": "韦塞要塞",
-    "stage": 5,
+    "translation": "存在要塞",
+    "stage": 1,
     "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
@@ -91,24 +91,24 @@
     "ID": 293410743,
     "key": "Stohlfeste",
     "original": "Stohlfeste",
-    "translation": "斯托尔要塞",
-    "stage": 5,
+    "translation": "板凳要塞",
+    "stage": 1,
     "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410744,
     "key": "Seelandfeste",
     "original": "Seelandfeste",
-    "translation": "湖陆要塞",
-    "stage": 5,
+    "translation": "海岸要塞",
+    "stage": 1,
     "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
     "ID": 293410745,
     "key": "Seemarkfeste",
     "original": "Seemarkfeste",
-    "translation": "希玛克要塞",
-    "stage": 5,
+    "translation": "海之边境要塞",
+    "stage": 1,
     "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {
