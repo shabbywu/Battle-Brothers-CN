@@ -3,8 +3,8 @@
     "ID": 293421572,
     "key": "This character is entangled in a giant tentacle, drawing them ever closer to a gaping maw that threatens to devour them whole.",
     "original": "This character is entangled in a giant tentacle, drawing them ever closer to a gaping maw that threatens to devour them whole.",
-    "translation": "这个角色被一只巨大的触手缠住了，正被不断拉近一个准备将其整个吞下的血盆大口。",
-    "stage": 5,
+    "translation": "这个角色被一条巨大的触手缠住了，正被不断拉近一个准备将其整个吞下的血盆大口。",
+    "stage": 1,
     "context": "this.m.Description = 'This character is entangled in a giant tentacle, drawing them ever closer to a gaping maw that threatens to devour them whole.'"
   },
   {
@@ -27,7 +27,7 @@
     "ID": 293421575,
     "key": "This character is entangled in a giant tentacle, drawing them ever closer to a gaping maw that threatens to devour them whole. Each turn, the tentacle threatens to crush them by gripping ever tighter, resulting in the loss of [color=",
     "original": "This character is entangled in a giant tentacle, drawing them ever closer to a gaping maw that threatens to devour them whole. Each turn, the tentacle threatens to crush them by gripping ever tighter, resulting in the loss of [color=",
-    "translation": "这个角色被一只巨大的触手缠住了，正被不断拉近一个准备将其整个吞下的血盆大口。这个触手仿佛要将人勒断一样缠绕的越来越紧，导致每回合失去[color=",
+    "translation": "这个角色被一条巨大的触手缠住了，正被不断拉近一个准备将其整个吞下的血盆大口。这个触手仿佛要将人勒断一样缠绕的越来越紧，导致每回合失去[color=",
     "stage": 1,
     "context": "text = this.m.Mode == 0 ? this.getDescription() : 'This character is entangled in a giant tentacle, drawing them ever closer to a gaping maw that threatens to devour them whole. Each turn, the tentacle threatens to crush them by gripping ever tighter, resulting in the loss of [color=' + this.Const.UI.Color.NegativeValue + ']10[/color] hitpoints.'"
   },
@@ -43,8 +43,8 @@
     "ID": 293421577,
     "key": "]10[/color] hitpoints.",
     "original": "]10[/color] hitpoints.",
-    "translation": "]10[/color] 生命值",
-    "stage": 5,
+    "translation": "]10[/color] 点生命值",
+    "stage": 1,
     "context": "text = this.m.Mode == 0 ? this.getDescription() : 'This character is entangled in a giant tentacle, drawing them ever closer to a gaping maw that threatens to devour them whole. Each turn, the tentacle threatens to crush them by gripping ever tighter, resulting in the loss of [color=' + this.Const.UI.Color.NegativeValue + ']10[/color] hitpoints.'"
   }
 ]

@@ -3,8 +3,8 @@
     "ID": 293410562,
     "key": "A mine in which precious rock salt is extracted and shipped off to only the most trustworthy traders.",
     "original": "A mine in which precious rock salt is extracted and shipped off to only the most trustworthy traders.",
-    "translation": "一座矿山，珍贵的岩盐在这里被提取出来，然后运到最值得信赖的商人那里。",
-    "stage": 5,
+    "translation": "一座开采和输送岩盐的矿山，开采出的盐会被运到最负盛名的商人那里。",
+    "stage": 1,
     "context": "this.m.Description = 'A mine in which precious rock salt is extracted and shipped off to only the most trustworthy traders.'"
   },
   {

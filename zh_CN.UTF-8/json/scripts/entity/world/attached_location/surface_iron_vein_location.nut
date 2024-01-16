@@ -11,8 +11,8 @@
     "ID": 293410573,
     "key": "This surfaced iron vein attracted a small mining camp that is gathering the precious metal. Access to this resource increases the selection of weapons available in the next settlement.",
     "original": "This surfaced iron vein attracted a small mining camp that is gathering the precious metal. Access to this resource increases the selection of weapons available in the next settlement.",
-    "translation": "这条露天的铁矿脉吸引来了一个收集贵金属的小型采矿营地。拥有此资源可以增加定居点中可用武器的选择。",
-    "stage": 5,
+    "translation": "这条露天的铁矿脉聚集起了一个收集贵重金属的小型采矿营地。近在咫尺的资源使附近的定居点能提供各种各样的武器。",
+    "stage": 1,
     "context": "this.m.Description = 'This surfaced iron vein attracted a small mining camp that is gathering the precious metal. Access to this resource increases the selection of weapons available in the next settlement.'"
   }
 ]

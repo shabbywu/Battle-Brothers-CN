@@ -3,7 +3,7 @@
     "ID": 293421604,
     "key": "This character has had part of the Lorekeeper's skeleton fused into their body, and as a result possesses the ability to rapidly recover when delivered seemingly fatal wounds. Now if they could just make it through the night without screaming in their sle",
     "original": "This character has had part of the Lorekeeper's skeleton fused into their body, and as a result possesses the ability to rapidly recover when delivered seemingly fatal wounds. Now if they could just make it through the night without screaming in their sleep...",
-    "translation": "这个角色的身体里整合进了博学者的部分骨骼，结果是具备了在遭受似乎致命的伤口时快速恢复的能力。但如果他们能在夜里不尖叫就好了……",
+    "translation": "这个角色的身体里整合进了博学者的部分骨骼，结果是具备了在遭受看似致命的伤口时快速恢复的能力。如果他们能别在夜里尖叫就更好了……",
     "stage": 1,
     "context": "return \"This character has had part of the Lorekeeper's skeleton fused into their body, and as a result possesses the ability to rapidly recover when delivered seemingly fatal wounds. Now if they could just make it through the night without screaming in their sleep...\";"
   },

@@ -4364,14 +4364,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:53.766Z",
         "updatedAt": "2023-06-26T05:47:05.694Z",
-        "modifiedAt": "2023-06-30T10:50:37Z",
-        "sha256": "2239646d60fc202de0fc285499a8137e8c8510c99f7709e222bff1f83cbdf59d"
+        "modifiedAt": "2024-01-15T05:42:10Z",
+        "sha256": "2433d1953f7074cbbddbaf493922f10463d056878058054fd1df01644f2c5933"
     },
     "scripts/entity/world/attached_location/beekeeper_location.json": {
         "id": 918588,
@@ -4382,14 +4382,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:54.091Z",
         "updatedAt": "2023-06-26T05:47:05.752Z",
-        "modifiedAt": "2023-06-26T05:47:06Z",
-        "sha256": "2ca4e4afee7dce356c7a7a2f8615a6db425e4298344a8d9a2858a90df29e1f73"
+        "modifiedAt": "2024-01-15T05:51:27Z",
+        "sha256": "0f443b72530a3b178f596c26babed0ef084f822072e61e85cf4a32f8b28adc00"
     },
     "scripts/entity/world/attached_location/blast_furnace_location.json": {
         "id": 918589,
@@ -4400,14 +4400,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:54.895Z",
         "updatedAt": "2023-06-26T05:47:05.815Z",
-        "modifiedAt": "2023-06-26T05:47:06Z",
-        "sha256": "7dba68b2f11bade25b45023c5249b2b0e71e7ad1d2e40b7e42d1ffac524c9044"
+        "modifiedAt": "2024-01-15T05:53:41Z",
+        "sha256": "e26a8fb45de2bba84fbd3898859dcb1dc0576303419d2d08ec6ee085d842a78c"
     },
     "scripts/entity/world/attached_location/brewery_location.json": {
         "id": 918590,
@@ -4454,14 +4454,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:56.982Z",
         "updatedAt": "2023-06-26T05:47:06.156Z",
-        "modifiedAt": "2023-06-26T05:47:06Z",
-        "sha256": "35f8fe3e7af0b2da80f3cf7eb29470687af1e1805aad13c306e29fa213938f67"
+        "modifiedAt": "2024-01-15T06:01:02Z",
+        "sha256": "e85316b441e61256aa8a33f74e2d5630a52b60d2ff19caa5d87569c51395ce61"
     },
     "scripts/entity/world/attached_location/fletchers_hut_location.json": {
         "id": 918593,
@@ -4508,14 +4508,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:57.995Z",
         "updatedAt": "2023-06-26T05:47:06.378Z",
-        "modifiedAt": "2023-06-26T05:47:06Z",
-        "sha256": "780e8a5150e071b674536433627c07ae1e1d2d84a9b30ac222928ff37c845ba9"
+        "modifiedAt": "2024-01-15T06:11:59Z",
+        "sha256": "f840ff16e13292851616d3bca2f9fe44531d8d7a6debc3e1e7a744113d2f450d"
     },
     "scripts/entity/world/attached_location/gem_mine_location.json": {
         "id": 918596,
@@ -4526,14 +4526,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:58.429Z",
         "updatedAt": "2023-06-26T05:47:06.434Z",
-        "modifiedAt": "2023-06-26T05:47:06Z",
-        "sha256": "6acbc2866b9c82416238e8e3e483243beb5fbc98b9b737ebad40fc2135c3cad3"
+        "modifiedAt": "2024-01-15T06:13:45Z",
+        "sha256": "bc7ad11c9e95c568cfb156539397477e69d25086627e4917032e925d1d41a940"
     },
     "scripts/entity/world/attached_location/goat_herd_location.json": {
         "id": 918597,
@@ -4544,14 +4544,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:59.317Z",
         "updatedAt": "2023-06-26T05:47:06.617Z",
-        "modifiedAt": "2023-06-26T05:47:07Z",
-        "sha256": "03902c8648863b4af53e9084c4d5235b1d4be992955f46d3281db2135fefbaa9"
+        "modifiedAt": "2024-01-15T06:15:49Z",
+        "sha256": "9b609cb936553d467f0397f4565cd58049a43120cadb2fe6a3401c32b035da3c"
     },
     "scripts/entity/world/attached_location/gold_mine_location.json": {
         "id": 918598,
@@ -4580,14 +4580,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:59.993Z",
         "updatedAt": "2023-06-26T05:47:06.767Z",
-        "modifiedAt": "2023-06-26T05:47:07Z",
-        "sha256": "c36e6f84df0eabdd17ac117b1c374566f69f70e66089e4cf7f537eec027ff2cf"
+        "modifiedAt": "2024-01-15T06:20:17Z",
+        "sha256": "d60403e68b142140641887b09f206b11db31933cef546dc8b2f5ef9c17ab7e43"
     },
     "scripts/entity/world/attached_location/harbor_location.json": {
         "id": 918600,
@@ -4652,14 +4652,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:01.557Z",
         "updatedAt": "2023-06-26T05:47:07.147Z",
-        "modifiedAt": "2023-06-26T05:47:07Z",
-        "sha256": "a33c1d49bdf785a4ea6880c79db5c09cc6cd19772312654885e95959d56253d5"
+        "modifiedAt": "2024-01-15T06:25:01Z",
+        "sha256": "1e5b392477a6c2444565893a5ff2326852ee1a4666b1b639f2ce59a1d28680db"
     },
     "scripts/entity/world/attached_location/leather_tanner_location.json": {
         "id": 918604,
@@ -4670,14 +4670,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:01.948Z",
         "updatedAt": "2023-06-26T05:47:07.203Z",
-        "modifiedAt": "2023-06-26T05:47:07Z",
-        "sha256": "a6c9e263bc6d90bccfe9bc74f734da5fc23a003b527af4eb6da3f429d22ce4d9"
+        "modifiedAt": "2024-01-15T06:27:33Z",
+        "sha256": "68f17677ef268c84c0f1385e38fffd5ca96d6ff7ff00697a43b4e15473442409"
     },
     "scripts/entity/world/attached_location/lumber_camp_location.json": {
         "id": 918605,
@@ -4706,14 +4706,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:02.629Z",
         "updatedAt": "2023-06-26T05:47:07.32Z",
-        "modifiedAt": "2023-06-26T05:47:07Z",
-        "sha256": "69a4aa308185387cfe32d0a8c8ba3e53305c46548467e3e83ac6f7b4ff026019"
+        "modifiedAt": "2024-01-15T06:28:09Z",
+        "sha256": "8133af255b26c3e5cd0b7f5a14f01b147f1c9d4fcd734d727b8e8c650dfcd765"
     },
     "scripts/entity/world/attached_location/militia_trainingcamp_oriental_location.json": {
         "id": 918607,
@@ -4724,14 +4724,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:02.967Z",
         "updatedAt": "2023-06-26T05:47:07.464Z",
-        "modifiedAt": "2023-06-26T05:47:07Z",
-        "sha256": "ce6b358ac792939beb09344b213e30ae4835d1bf593746c808fd3e1210d312ab"
+        "modifiedAt": "2024-01-15T06:28:45Z",
+        "sha256": "ccf333704aa412e2ed6e96d7eb6930e137d557dc0d08618466b0f5124063dfab"
     },
     "scripts/entity/world/attached_location/mushroom_grove_location.json": {
         "id": 918608,
@@ -4760,14 +4760,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:03.661Z",
         "updatedAt": "2023-06-26T05:47:07.739Z",
-        "modifiedAt": "2023-06-26T05:47:08Z",
-        "sha256": "5ec7a1d174418b5c8de354f157f08108ae19d8496568b11d2f43704a235da6c6"
+        "modifiedAt": "2024-01-15T06:38:54Z",
+        "sha256": "73269d923df7b67f35a60b94c4c8c45d00aa2a8690e1851727dbe761c8f90f46"
     },
     "scripts/entity/world/attached_location/ore_smelters_location.json": {
         "id": 918610,
@@ -4796,14 +4796,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:04.914Z",
         "updatedAt": "2023-06-26T05:47:07.859Z",
-        "modifiedAt": "2023-06-26T05:47:08Z",
-        "sha256": "cae75c80e50a522d64dfb5f0b8ad541e87fa03eab63df072ae4ab6eccdd467ba"
+        "modifiedAt": "2024-01-15T06:52:37Z",
+        "sha256": "019e8070444da7d60df64175d2fa1521e503951a2974b186099a65be6a8d3877"
     },
     "scripts/entity/world/attached_location/pig_farm_location.json": {
         "id": 918612,
@@ -4814,14 +4814,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:05.246Z",
         "updatedAt": "2023-06-26T05:47:07.915Z",
-        "modifiedAt": "2023-06-26T05:47:08Z",
-        "sha256": "8f2ebc12310ab32814687788994538610370dc7ad9589afbb77cc65a6fb54082"
+        "modifiedAt": "2024-01-15T06:55:05Z",
+        "sha256": "19a23280d0d2b608f7846aaa09f2ab317c4064ed5b504d69a4bde58433e1a360"
     },
     "scripts/entity/world/attached_location/plantation_location.json": {
         "id": 918613,
@@ -4850,14 +4850,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:05.972Z",
         "updatedAt": "2023-06-26T05:47:08.199Z",
-        "modifiedAt": "2023-06-26T05:47:08Z",
-        "sha256": "9af45f55c07c5a1104eb5ba8a03ce552246fb3bf2b07e4e1be45757cb81940e4"
+        "modifiedAt": "2024-01-15T07:02:17Z",
+        "sha256": "0b1d686e150281417bff5a9e3fedfd71f0a5f951ca2d42ff288239e243918b3d"
     },
     "scripts/entity/world/attached_location/silk_farm_location.json": {
         "id": 918615,
@@ -4868,14 +4868,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:06.301Z",
         "updatedAt": "2023-06-26T05:47:08.457Z",
-        "modifiedAt": "2023-06-26T05:47:08Z",
-        "sha256": "9dbc95c51ce332938c37a2191f2d3428f50d302d5449ccd74115d225ac41bfd3"
+        "modifiedAt": "2024-01-15T07:07:45Z",
+        "sha256": "6536cdc987726cd89d0507c3c2179e2dae331d7d010165f025fe295349abad4e"
     },
     "scripts/entity/world/attached_location/stone_watchtower_location.json": {
         "id": 918616,
@@ -4886,14 +4886,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:06.652Z",
         "updatedAt": "2023-06-26T05:47:08.531Z",
-        "modifiedAt": "2023-06-26T05:47:09Z",
-        "sha256": "d8d185ccfab69e012993cd7e3a2288e3161a42ede86f73b225eb6b9e6f531e54"
+        "modifiedAt": "2024-01-15T07:09:05Z",
+        "sha256": "f0b440f55acd4c8a23cc070f8d797d8aa04ee31eb5a3ec23bbcf820218411b35"
     },
     "scripts/entity/world/attached_location/stone_watchtower_oriental_location.json": {
         "id": 918617,
@@ -4904,14 +4904,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:06.994Z",
         "updatedAt": "2023-06-26T05:47:08.719Z",
-        "modifiedAt": "2023-06-26T05:47:09Z",
-        "sha256": "4dbc68862d3ee194625a36f99c8f2114cd248b2a7146b1a60e4a53ba7575ccde"
+        "modifiedAt": "2024-01-15T07:09:35Z",
+        "sha256": "8c3253eb81605aa7e3dab0643fd66ace5ee21dda909dff4fec32b3d17c086b4b"
     },
     "scripts/entity/world/attached_location/surface_copper_vein_location.json": {
         "id": 918618,
@@ -4922,14 +4922,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:07.327Z",
         "updatedAt": "2023-06-26T05:47:08.784Z",
-        "modifiedAt": "2023-06-26T05:47:09Z",
-        "sha256": "0073c731460d58470f0c6859fa069b616dedfb3a4dcc1202ec758e6b03a5f611"
+        "modifiedAt": "2024-01-15T07:13:16Z",
+        "sha256": "b76fcad4e8de7d1947bfc469e4d6bc860bafac9651c9e89fb55f75ec25a9290d"
     },
     "scripts/entity/world/attached_location/surface_iron_vein_location.json": {
         "id": 918619,
@@ -4940,14 +4940,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:07.652Z",
         "updatedAt": "2023-06-26T05:47:08.962Z",
-        "modifiedAt": "2023-06-26T05:47:09Z",
-        "sha256": "0f4b3b03a7d74576e4ead4a7da0123ef79cfcb5068d4ff04b95eee9a5c2dd567"
+        "modifiedAt": "2024-01-15T07:15:59Z",
+        "sha256": "f72bf0dc4062602b1ce0872959055bb9cf7a01c4781185ed87998b6539d414ca"
     },
     "scripts/entity/world/attached_location/trapper_location.json": {
         "id": 918620,
@@ -4976,14 +4976,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:08.799Z",
         "updatedAt": "2023-06-26T05:47:09.436Z",
-        "modifiedAt": "2023-06-26T05:47:09Z",
-        "sha256": "7d4665f2fa33a416467c50c357d404969c931daf2a54644ebc582b5228f7bd4e"
+        "modifiedAt": "2024-01-15T07:29:06Z",
+        "sha256": "538ef90ca83ccaf0a1f27fe159838f50382da95580ed5b8c719c16ce89a50c56"
     },
     "scripts/entity/world/attached_location/winery_location.json": {
         "id": 918622,
@@ -5012,14 +5012,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:09.76Z",
         "updatedAt": "2023-06-26T05:47:09.55Z",
-        "modifiedAt": "2023-06-26T05:47:10Z",
-        "sha256": "137ff1c3b396a28a65d7c9efa56a80a78eaf18b0bff0fa9b37e216707a73b8e6"
+        "modifiedAt": "2024-01-15T07:24:53Z",
+        "sha256": "c174aaf08fd4edc282ee280148d0d54e76db734ff62143d019cf2f0d3d966bf7"
     },
     "scripts/entity/world/attached_location/wool_spinner_location.json": {
         "id": 918624,
@@ -5030,14 +5030,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:10.142Z",
         "updatedAt": "2023-06-26T05:47:10.005Z",
-        "modifiedAt": "2023-06-26T05:47:10Z",
-        "sha256": "454a04d23c51a398a8a5e33cef77877a70628fe31ff14e86c4f702d2fc4ee594"
+        "modifiedAt": "2024-01-15T07:31:00Z",
+        "sha256": "16757985be51f4e029b4c36e8400fc2a2dae2bf1101db95fe9ec63251df22822"
     },
     "scripts/entity/world/attached_location/workshop_location.json": {
         "id": 918625,
@@ -5048,14 +5048,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:10.48Z",
         "updatedAt": "2023-06-26T05:47:10.277Z",
-        "modifiedAt": "2023-06-26T05:47:10Z",
-        "sha256": "0b09689baf4e1f7cb4492c0aebb5952782e3b2ba83847dbf2f6f5f934f0d36de"
+        "modifiedAt": "2024-01-15T07:33:32Z",
+        "sha256": "8398612684b4be3d03a11a83d7c835e45151c2c21adc78ac22699faa0be7eea4"
     },
     "scripts/entity/world/combat_manager.json": {
         "id": 918627,
@@ -6362,14 +6362,14 @@
         "total": 23,
         "translated": 23,
         "disputed": 0,
-        "checked": 23,
-        "reviewed": 23,
+        "checked": 18,
+        "reviewed": 18,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:42.091Z",
         "updatedAt": "2023-06-26T05:47:17.307Z",
-        "modifiedAt": "2023-06-26T05:47:17Z",
-        "sha256": "352ac465b38af792ff3a7b3525135dcd3cd64d363fb0caf3b2b860f359e9ba05"
+        "modifiedAt": "2024-01-15T08:40:18Z",
+        "sha256": "5e8e0dde89363bcb678d2e4b60c538cc1eb6bb64916e5df092043fd67d2d770b"
     },
     "scripts/entity/world/settlements/large_farm_fort.json": {
         "id": 918700,
@@ -6380,14 +6380,14 @@
         "total": 24,
         "translated": 24,
         "disputed": 0,
-        "checked": 24,
-        "reviewed": 24,
+        "checked": 15,
+        "reviewed": 15,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:42.428Z",
         "updatedAt": "2023-06-26T05:47:17.509Z",
-        "modifiedAt": "2023-06-26T05:47:18Z",
-        "sha256": "6176bc9affb8f28497c4ce845bd1e038e98b15e0f5946a0d3e8b9f2e712a0908"
+        "modifiedAt": "2024-01-15T08:37:04Z",
+        "sha256": "f03a1da5d2e4cae6178f54aa634a7d31e70fa888a4b361a22431378f031c1547"
     },
     "scripts/entity/world/settlements/large_farming_village.json": {
         "id": 918701,
@@ -6398,14 +6398,14 @@
         "total": 33,
         "translated": 33,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:42.766Z",
         "updatedAt": "2023-06-26T05:47:17.671Z",
-        "modifiedAt": "2023-06-26T05:47:18Z",
-        "sha256": "1e70c0d41776896b7771587d7c61e0784f2bdd307f58614e0f553ffa6c6d02ff"
+        "modifiedAt": "2024-01-16T00:35:23Z",
+        "sha256": "54f7f705fc0d38aefafe6449f2619f952e9a3ed3699aeaa83af92322d8a14fe5"
     },
     "scripts/entity/world/settlements/large_fishing_village.json": {
         "id": 918702,
@@ -6416,14 +6416,14 @@
         "total": 22,
         "translated": 22,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:43.108Z",
         "updatedAt": "2023-06-26T05:47:17.787Z",
-        "modifiedAt": "2023-06-26T05:47:18Z",
-        "sha256": "5a93d27878ebc005b7d36625af75c034784d3deda8d75ed80bef9072770bebae"
+        "modifiedAt": "2024-01-16T02:00:55Z",
+        "sha256": "43c9026de10452f785f608a1107b89886d6c15adb994e9e08122b66c0b2ef32a"
     },
     "scripts/entity/world/settlements/large_forest_fort.json": {
         "id": 918703,
@@ -6440,8 +6440,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:43.443Z",
         "updatedAt": "2023-06-26T05:47:17.883Z",
-        "modifiedAt": "2023-06-26T05:47:18Z",
-        "sha256": "8ff97b84474b3540f5fe454ac19fe7642a216a354d8bdb8a939f6e17c2514992"
+        "modifiedAt": "2024-01-16T02:02:58Z",
+        "sha256": "6df55408ea1e526312d4b1346e2e2e6ad8d078a3d4fbd4ba228a87d419a96b72"
     },
     "scripts/entity/world/settlements/large_lumber_village.json": {
         "id": 918704,
@@ -6620,8 +6620,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:46.907Z",
         "updatedAt": "2023-06-26T05:47:19.938Z",
-        "modifiedAt": "2023-06-26T05:47:20Z",
-        "sha256": "bafb0d36a5eb7cfa533391305e8c3049f451a021e587b3ddbf8f8c7606b77c2a"
+        "modifiedAt": "2024-01-16T00:42:47Z",
+        "sha256": "a49b1df99ce4057d9c1279970e0c7678ef388ace509652f3900fb7f8be58acbe"
     },
     "scripts/entity/world/settlements/medium_farm_fort.json": {
         "id": 918714,
@@ -7766,14 +7766,14 @@
         "total": 36,
         "translated": 36,
         "disputed": 0,
-        "checked": 10,
-        "reviewed": 10,
+        "checked": 9,
+        "reviewed": 9,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:20:09.484Z",
         "updatedAt": "2023-06-26T05:47:27.621Z",
-        "modifiedAt": "2023-06-26T05:47:28Z",
-        "sha256": "9905bd5e82b0665c40630b7224152def9c74abc6f9a83793cca35c8257edf65e"
+        "modifiedAt": "2024-01-16T01:13:28Z",
+        "sha256": "cdb56f779ae5f63597950b69ef5bbf142d3568dca372580cc8964afe8e757708"
     },
     "scripts/entity/world/settlements/small_forest_fort.json": {
         "id": 918778,
@@ -34370,14 +34370,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:02.425Z",
         "updatedAt": "2023-06-26T05:49:32.209Z",
-        "modifiedAt": "2023-07-04T16:54:03Z",
-        "sha256": "ac99cab12c81b87f4de3862d23c1e55a398909bd9fc64f0aa68dae11cee8d889"
+        "modifiedAt": "2024-01-15T02:38:47Z",
+        "sha256": "ce92803d992f382131f3b4c40d4c8db16f909cd3104075819580d4e2507fb2b1"
     },
     "scripts/skills/effects/dazed_effect.json": {
         "id": 920256,
@@ -34388,14 +34388,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 7,
-        "reviewed": 7,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:02.924Z",
         "updatedAt": "2023-06-26T05:49:32.29Z",
-        "modifiedAt": "2023-06-26T05:49:32Z",
-        "sha256": "2fbb0bccf1e427efc18e575b9650c4cbc543f09db86f9060e690d9bd76890043"
+        "modifiedAt": "2024-01-15T02:39:53Z",
+        "sha256": "f4634450a6ee919067f340535d64ec27e416eec18f9743f95a64a2ce52896e6c"
     },
     "scripts/skills/effects/debilitated_effect.json": {
         "id": 920257,
@@ -34430,8 +34430,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:03.647Z",
         "updatedAt": "2023-06-26T05:49:32.416Z",
-        "modifiedAt": "2023-07-04T16:51:51Z",
-        "sha256": "a350286076834f218c69b394ac7c727f1ccba378b93dec6fe22955bec8a869d5"
+        "modifiedAt": "2024-01-15T02:41:22Z",
+        "sha256": "13358e38d783f6ca52bdb6b77619fe88ae82e2643b23523329516f4c981ea599"
     },
     "scripts/skills/effects/direwolf_potion_effect.json": {
         "id": 920259,
@@ -34514,14 +34514,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:05.741Z",
         "updatedAt": "2023-06-26T05:49:32.751Z",
-        "modifiedAt": "2023-07-04T16:47:52Z",
-        "sha256": "bccc23b8e52c3af668658a88e7231813659c656e701631dcca063a9db2123b55"
+        "modifiedAt": "2024-01-15T02:44:12Z",
+        "sha256": "49c11efac135d9a90606a7921be1b0fe4aa8aac924a088d3f5526c6a6d0ba680"
     },
     "scripts/skills/effects/drums_of_war_effect.json": {
         "id": 920264,
@@ -34538,8 +34538,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:06.07Z",
         "updatedAt": "2023-06-26T05:49:32.815Z",
-        "modifiedAt": "2023-06-26T05:49:33Z",
-        "sha256": "b620192a1e70f026695fdbd18f0b2072c64195aefb71ee4bc226f10859bc2109"
+        "modifiedAt": "2024-01-15T02:44:49Z",
+        "sha256": "2f8d99282c81111e0a280841cf99d80956d62f95079df41bc91823c07cb762f0"
     },
     "scripts/skills/effects/fallen_hero_potion_effect.json": {
         "id": 920265,
@@ -34898,8 +34898,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:14.724Z",
         "updatedAt": "2023-06-26T05:49:35.926Z",
-        "modifiedAt": "2023-07-04T17:52:02Z",
-        "sha256": "c865af34549258e2f7fecb8828709a3178594533361da02cbd181849aac9d332"
+        "modifiedAt": "2024-01-15T02:56:43Z",
+        "sha256": "374a11184bde9500ee30cac06ce3ec4a3f94fae87d22e74f9c186cbb1896f80c"
     },
     "scripts/skills/effects/kraken_ensnare_effect.json": {
         "id": 920285,
@@ -34910,14 +34910,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:15.072Z",
         "updatedAt": "2023-06-26T05:49:35.997Z",
-        "modifiedAt": "2023-06-26T05:49:36Z",
-        "sha256": "f57d201afc91b264abc08c03fdd59b39c9c42f588bb02166f626b305577c18eb"
+        "modifiedAt": "2024-01-15T02:59:42Z",
+        "sha256": "bd761d685bbb7f4ad2381d6a8450e87a414ab83caf15c1b5f7e14a2ecf31496e"
     },
     "scripts/skills/effects/kraken_potion_effect.json": {
         "id": 920286,
@@ -34952,8 +34952,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:16.258Z",
         "updatedAt": "2023-06-26T05:49:36.122Z",
-        "modifiedAt": "2023-06-29T00:57:19Z",
-        "sha256": "4f598ab5dd9e12334375fe603496be957c6f662777eeacc874c99be323d1f8ee"
+        "modifiedAt": "2024-01-15T03:00:29Z",
+        "sha256": "838756edeb231fc978eb95e0dff74c83379ddb44dec5989e82f562568ef9ade0"
     },
     "scripts/skills/effects/lindwurm_potion_effect.json": {
         "id": 920288,
@@ -35024,8 +35024,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:20.572Z",
         "updatedAt": "2023-06-26T05:49:36.383Z",
-        "modifiedAt": "2023-07-04T15:59:12Z",
-        "sha256": "3f91d6988fe9712b4b0e689b0075355774aa65ae06991e24883c3bd801931c92"
+        "modifiedAt": "2024-01-15T03:03:36Z",
+        "sha256": "e942998c63ac1befee1aea2682047c4cad241befc1d3a7f82d5c5c5ecf21c153"
     },
     "scripts/skills/effects/nachzehrer_potion_effect.json": {
         "id": 920292,
@@ -35252,14 +35252,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:26.886Z",
         "updatedAt": "2023-06-26T05:49:37.269Z",
-        "modifiedAt": "2023-06-26T05:49:37Z",
-        "sha256": "9016463460a47c4ffd3cd42ecd3f1b6b4b2cfaac4f040ac55a4e2a782eb4ff07"
+        "modifiedAt": "2024-01-15T03:09:19Z",
+        "sha256": "7ab7375aacbf143a2c75a5d86a004536dec01ac3d3170b49fdff583af86ab02c"
     },
     "scripts/skills/effects/possessed_undead_effect.json": {
         "id": 920305,
@@ -35576,14 +35576,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:35.329Z",
         "updatedAt": "2023-06-26T05:49:38.7Z",
-        "modifiedAt": "2023-06-26T05:49:39Z",
-        "sha256": "132dc21a10427e8ce1079ae00a84de5310bfc93f4f15dfc32856e1cc1f1cf738"
+        "modifiedAt": "2024-01-15T03:14:31Z",
+        "sha256": "a390cee6855d651da61ccc226748f7736003526d3682dfbfddd5a2344d5f7438"
     },
     "scripts/skills/effects/spider_poison_effect.json": {
         "id": 920323,
@@ -35612,14 +35612,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:36.514Z",
         "updatedAt": "2023-06-26T05:49:38.821Z",
-        "modifiedAt": "2023-06-26T05:49:39Z",
-        "sha256": "f29af3786ac998223700a8969ec3dc1f0ca88dc2d79ab82090884de8d5243472"
+        "modifiedAt": "2024-01-15T03:15:22Z",
+        "sha256": "d16b179d48b5e930fff039f3aff03ed163c2b43bfa4906d08768ba41b5a140c0"
     },
     "scripts/skills/effects/stealth_effect.json": {
         "id": 920325,
@@ -35636,8 +35636,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:36.861Z",
         "updatedAt": "2023-06-26T05:49:38.875Z",
-        "modifiedAt": "2023-06-26T05:49:39Z",
-        "sha256": "bd9d572f05d9452050d26d4d73489c9cf287cdbe6aa7baa15685c8166989a538"
+        "modifiedAt": "2024-01-15T03:15:45Z",
+        "sha256": "dc7c356c68f5ab5326d31550d8d63e523fd722d0bec4ecc43fdb2dfa9e03b089"
     },
     "scripts/skills/effects/stunned_effect.json": {
         "id": 920326,
@@ -35756,14 +35756,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 7,
-        "reviewed": 7,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:39.838Z",
         "updatedAt": "2023-06-26T05:49:39.39Z",
-        "modifiedAt": "2024-01-02T01:23:41Z",
-        "sha256": "1ef95c1f2b1c0065c7fc1e86bf6bd2f19b5eeac8d9c4730d5482c01e54244f48"
+        "modifiedAt": "2024-01-15T03:18:05Z",
+        "sha256": "d187b616d658d4c42ca891edee89318792b2a9ebe5888d73bb63bc9d81b21a03"
     },
     "scripts/skills/effects/webknecht_potion_effect.json": {
         "id": 920333,

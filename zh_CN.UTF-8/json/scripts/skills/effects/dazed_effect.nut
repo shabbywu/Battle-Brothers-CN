@@ -43,8 +43,8 @@
     "ID": 293421454,
     "key": "This character has received so heavy a blow that they are dazed, confused and gasping for air. Will wear off in [color=",
     "original": "This character has received so heavy a blow that they are dazed, confused and gasping for air. Will wear off in [color=",
-    "translation": "这个角色受到了如此沉重的打击，感到茫然、困惑和神志不清。剩余[color=",
-    "stage": 5,
+    "translation": "这个角色受到了相当沉重的打击，感到茫然、困惑和神志不清。剩余[color=",
+    "stage": 1,
     "context": "return 'This character has received so heavy a blow that they are dazed, confused and gasping for air. Will wear off in [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] turn(s).';"
   },
   {
