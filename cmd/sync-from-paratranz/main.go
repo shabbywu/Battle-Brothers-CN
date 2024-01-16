@@ -124,6 +124,7 @@ func core() {
 	}()
 
 	go func() {
+		time.Sleep(time.Second * 1)
 		for filename, remoteInfo := range fileNamesToInfo {
 			select {
 			case <-interrupt:
