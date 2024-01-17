@@ -19,7 +19,7 @@
     "ID": 293403482,
     "key": "Become known as 'Invincible' (8,000 renown) and leave your mark in history. You can increase your renown by completing contracts and winning battles.",
     "original": "Become known as 'Invincible' (8,000 renown) and leave your mark in history. You can increase your renown by completing contracts and winning battles.",
-    "translation": "以“震古铄今”（8000名望）闻名并在历史上留下你的印记。你可以通过完成合同和赢得战斗来提高自己的名望。",
+    "translation": "以“彪炳千秋”（8000名望）闻名并在历史上留下你的印记。你可以通过完成合同和赢得战斗来提高自己的名望。",
     "stage": 5,
     "context": "this.m.TooltipText = \"Become known as 'Invincible' (8,000 renown) and leave your mark in history. You can increase your renown by completing contracts and winning battles.\""
   },
@@ -43,7 +43,7 @@
     "ID": 293403485,
     "key": "Reach 'Invincible' renown",
     "original": "Reach 'Invincible' renown",
-    "translation": "名望达到“震古铄今”",
+    "translation": "名望达到“彪炳千秋”",
     "stage": 5,
     "context": "this.m.UIText = \"Reach 'Invincible' renown\""
   }

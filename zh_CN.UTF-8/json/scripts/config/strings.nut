@@ -3,8 +3,8 @@
     "ID": 293405636,
     "key": "Recognized",
     "original": "Recognized",
-    "translation": "受人认可",
-    "stage": 5,
+    "translation": "初露锋芒",
+    "stage": 1,
     "context": "'Recognized'"
   },
   {
@@ -219,7 +219,7 @@
     "ID": 293405663,
     "key": "Legendary",
     "original": "Legendary",
-    "translation": "大名鼎鼎",
+    "translation": "功高盖世",
     "stage": 5,
     "context": "'Legendary'"
   },
@@ -531,15 +531,15 @@
     "ID": 293405702,
     "key": "Reliable",
     "original": "Reliable",
-    "translation": "坚实可靠",
-    "stage": 5,
+    "translation": "言而有信",
+    "stage": 1,
     "context": "'Reliable'"
   },
   {
     "ID": 293405703,
     "key": "Great",
     "original": "Great",
-    "translation": "声誉优良",
+    "translation": "久负盛名",
     "stage": 5,
     "context": "'Great'"
   },
@@ -1507,7 +1507,7 @@
     "ID": 293405824,
     "key": "Master cleavers to inflict gruesome wounds. Skills build up [color=",
     "original": "Master cleavers to inflict gruesome wounds. Skills build up [color=",
-    "translation": "精通如何使用劈刀造成可怕的伤口。武器技能减少 [color=",
+    "translation": "精通砍刀，造成可怕的伤口。砍刀技能积累的疲劳值减少 [color=",
     "stage": 1,
     "context": "SpecCleaver = 'Master cleavers to inflict gruesome wounds. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nBleeding damage inflicted by cleavers and whips is doubled to [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']20[/color] per turn, respectively.\n\nDisarm only has half the penalty to hit.'"
   },
@@ -1803,7 +1803,7 @@
     "ID": 293405861,
     "key": "Master flails and circumvent your opponent's shield. Skills build up [color=",
     "original": "Master flails and circumvent your opponent's shield. Skills build up [color=",
-    "translation": "精通连枷, 绕过盾牌攻击敌人。武器技能减少 [color=",
+    "translation": "精通链枷，绕过对手的盾牌。链枷技能积累的疲劳值减少 [color=",
     "stage": 1,
     "context": "SpecFlail = \"Master flails and circumvent your opponent's shield. Skills build up [color=\" + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nLash and Hail ignore the defense bonus of shields.\n\nPound ignores an additional [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] of armor on head hits.\n\nThresh gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.'"
   },
@@ -1899,7 +1899,7 @@
     "ID": 293405873,
     "key": "Master fighting with spears and keeping the enemy at bay. Skills build up [color=",
     "original": "Master fighting with spears and keeping the enemy at bay. Skills build up [color=",
-    "translation": "精通长矛, 让敌人进退两难。武器技能减少 [color=",
+    "translation": "精通长矛，御敌于外。矛技能积累的疲劳值减少 [color=",
     "stage": 1,
     "context": "SpecSpear = 'Master fighting with spears and keeping the enemy at bay. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nSpearwall is no longer disabled once an opponent manages to overcome it. Instead, Spearwall can still be used and continues to give free attacks on any further opponent attempting to enter the Zone of Control.\n\nThe Spetum and Warfork no longer have a penalty for attacking targets directly adjacent.'"
   },
@@ -1979,8 +1979,8 @@
     "ID": 293405883,
     "key": "Incompetent",
     "original": "Incompetent",
-    "translation": "无能为役",
-    "stage": 5,
+    "translation": "难担重任",
+    "stage": 1,
     "context": "'Incompetent'"
   },
   {
@@ -2939,7 +2939,7 @@
     "ID": 293406003,
     "key": "Master combat with axes and destroying shields. Skills build up [color=",
     "original": "Master combat with axes and destroying shields. Skills build up [color=",
-    "translation": "精通用斧头和破坏盾牌的战斗。武器技能减少 [color=",
+    "translation": "精通斧头，摧毁盾牌。斧技能积累的疲劳值减少 [color=",
     "stage": 1,
     "context": "SpecAxe = 'Master combat with axes and destroying shields. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nSplit Shield damage to shields is increased by [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] when used with axes.\n\nRound Swing gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.\n\nThe Longaxe no longer has a penalty for attacking targets directly adjacent.'"
   },
@@ -3283,7 +3283,7 @@
     "ID": 293406046,
     "key": "]25%[/color] less Fatigue.\n\nLash and Hail ignore the defense bonus of shields.\n\nPound ignores an additional [color=",
     "original": "]25%[/color] less Fatigue.\n\nLash and Hail ignore the defense bonus of shields.\n\nPound ignores an additional [color=",
-    "translation": "]25%[/color] 疲劳值积累。\n\n'抽打(Lash)'和'雹击(Hail)'无视盾牌加成。\n\n'砸击(Pound)'在击中头部时忽略[color=",
+    "translation": "]25%[/color]\n\n'抽打(Lash)'和'雹击(Hail)'无视盾牌加成。\n\n'砸击(Pound)'在击中头部时忽略[color=",
     "stage": 1,
     "context": "SpecFlail = \"Master flails and circumvent your opponent's shield. Skills build up [color=\" + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nLash and Hail ignore the defense bonus of shields.\n\nPound ignores an additional [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] of armor on head hits.\n\nThresh gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.'"
   },
@@ -3291,7 +3291,7 @@
     "ID": 293406047,
     "key": "Famed",
     "original": "Famed",
-    "translation": "有口皆碑",
+    "translation": "家喻户晓",
     "stage": 5,
     "context": "'Famed'"
   },
@@ -3915,8 +3915,8 @@
     "ID": 293406125,
     "key": "Unknown",
     "original": "Unknown",
-    "translation": "默默无名",
-    "stage": 5,
+    "translation": "籍籍无名",
+    "stage": 1,
     "context": "'Unknown'"
   },
   {
@@ -4515,7 +4515,7 @@
     "ID": 293406200,
     "key": "]+5%[/color] chance to hit.\n\nThe Longaxe no longer has a penalty for attacking targets directly adjacent.",
     "original": "]+5%[/color] chance to hit.\n\nThe Longaxe no longer has a penalty for attacking targets directly adjacent.",
-    "translation": "]+5%[/color] 命中率加成。\n\n长斧对近身敌人不再有攻击惩罚。",
+    "translation": "]5%[/color]\n\n使用长斧攻击近身敌人不再有命中率惩罚。",
     "stage": 1,
     "context": "SpecAxe = 'Master combat with axes and destroying shields. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nSplit Shield damage to shields is increased by [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] when used with axes.\n\nRound Swing gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.\n\nThe Longaxe no longer has a penalty for attacking targets directly adjacent.'"
   },
@@ -4835,8 +4835,8 @@
     "ID": 293406240,
     "key": "Reputable",
     "original": "Reputable",
-    "translation": "名声在外",
-    "stage": 5,
+    "translation": "声名斐然",
+    "stage": 1,
     "context": "'Reputable'"
   },
   {
@@ -5083,7 +5083,7 @@
     "ID": 293406271,
     "key": "]50%[/color] when used with axes.\n\nRound Swing gains [color=",
     "original": "]50%[/color] when used with axes.\n\nRound Swing gains [color=",
-    "translation": "]50%[/color]。\n\n'环劈'获得 [color=",
+    "translation": "]50%[/color]\n\n“环劈”的命中率提高 [color=",
     "stage": 1,
     "context": "SpecAxe = 'Master combat with axes and destroying shields. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nSplit Shield damage to shields is increased by [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] when used with axes.\n\nRound Swing gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.\n\nThe Longaxe no longer has a penalty for attacking targets directly adjacent.'"
   },
@@ -5115,7 +5115,7 @@
     "ID": 293406275,
     "key": "Immortal",
     "original": "Immortal",
-    "translation": "不朽传奇",
+    "translation": "万古流芳",
     "stage": 5,
     "context": "'Immortal'"
   },
@@ -5787,7 +5787,7 @@
     "ID": 293406359,
     "key": "Flail Mastery",
     "original": "Flail Mastery",
-    "translation": "链枷掌握",
+    "translation": "链枷精通",
     "stage": 1,
     "context": "SpecFlail = 'Flail Mastery'"
   },
@@ -6523,8 +6523,8 @@
     "ID": 293406451,
     "key": "Fabled",
     "original": "Fabled",
-    "translation": "受人传颂",
-    "stage": 5,
+    "translation": "留名青史",
+    "stage": 1,
     "context": "'Fabled'"
   },
   {
@@ -6819,7 +6819,7 @@
     "ID": 293406488,
     "key": "]20[/color] per turn, respectively.\n\nDisarm only has half the penalty to hit.",
     "original": "]20[/color] per turn, respectively.\n\nDisarm only has half the penalty to hit.",
-    "translation": "]20[/color]\n\n '缴械(Disarm)' 的命中率惩罚减半。",
+    "translation": "]20[/color]\n\n“缴械”的命中率惩罚减半。",
     "stage": 1,
     "context": "SpecCleaver = 'Master cleavers to inflict gruesome wounds. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nBleeding damage inflicted by cleavers and whips is doubled to [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']20[/color] per turn, respectively.\n\nDisarm only has half the penalty to hit.'"
   },
@@ -7067,7 +7067,7 @@
     "ID": 293406519,
     "key": "]25%[/color] less Fatigue.\n\nSplit Shield damage to shields is increased by [color=",
     "original": "]25%[/color] less Fatigue.\n\nSplit Shield damage to shields is increased by [color=",
-    "translation": "]25%[/color] 疲劳值积累。\n\n“裂盾”对盾牌造成的伤害会增加[color=",
+    "translation": "]25%[/color]\n\n斧技能“裂盾”造成的盾牌伤害增加 [color=",
     "stage": 1,
     "context": "SpecAxe = 'Master combat with axes and destroying shields. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nSplit Shield damage to shields is increased by [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] when used with axes.\n\nRound Swing gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.\n\nThe Longaxe no longer has a penalty for attacking targets directly adjacent.'"
   },
@@ -7339,7 +7339,7 @@
     "ID": 293406553,
     "key": "]25%[/color] less Fatigue.\n\nSpearwall is no longer disabled once an opponent manages to overcome it. Instead, Spearwall can still be used and continues to give free attacks on any further opponent attempting to enter the Zone of Control.\n\nThe Spetum and W",
     "original": "]25%[/color] less Fatigue.\n\nSpearwall is no longer disabled once an opponent manages to overcome it. Instead, Spearwall can still be used and continues to give free attacks on any further opponent attempting to enter the Zone of Control.\n\nThe Spetum and Warfork no longer have a penalty for attacking targets directly adjacent.",
-    "translation": "]25%[/color] 疲劳值积累。\n\n即使控制区内有敌人, '矛墙'技能仍可对任何试图进入控制区的敌人进行攻击。\n\n'长戟类(Spetum)'和'战叉类(Warfork)'武器攻击直接相邻的目标不再有惩罚。",
+    "translation": "]25%[/color]\n\n一旦敌人攻入了控制区域，“矛墙”不再失效。相反，“矛墙”仍可使用，并继续对其他试图进入控制区域的敌人进行免费攻击。\n\n使用长戟和战叉攻击近身敌人不再有命中率惩罚。",
     "stage": 1,
     "context": "SpecSpear = 'Master fighting with spears and keeping the enemy at bay. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nSpearwall is no longer disabled once an opponent manages to overcome it. Instead, Spearwall can still be used and continues to give free attacks on any further opponent attempting to enter the Zone of Control.\n\nThe Spetum and Warfork no longer have a penalty for attacking targets directly adjacent.'"
   },
@@ -7515,7 +7515,7 @@
     "ID": 293406575,
     "key": "Competent",
     "original": "Competent",
-    "translation": "胜任的",
+    "translation": "能担其任",
     "stage": 1,
     "context": "'Competent'"
   },
@@ -7635,8 +7635,8 @@
     "ID": 293406590,
     "key": "Professional",
     "original": "Professional",
-    "translation": "素养专业",
-    "stage": 5,
+    "translation": "得心应手",
+    "stage": 1,
     "context": "'Professional'"
   },
   {
@@ -7891,7 +7891,7 @@
     "ID": 293406622,
     "key": "Invincible",
     "original": "Invincible",
-    "translation": "震古铄今",
+    "translation": "彪炳千秋",
     "stage": 5,
     "context": "'Invincible'"
   },
@@ -8083,8 +8083,8 @@
     "ID": 293406646,
     "key": "Unreliable",
     "original": "Unreliable",
-    "translation": "毫不可靠",
-    "stage": 5,
+    "translation": "庸庸碌碌",
+    "stage": 1,
     "context": "'Unreliable'"
   },
   {
@@ -8227,7 +8227,7 @@
     "ID": 293406664,
     "key": "]25%[/color] less Fatigue.\n\nBleeding damage inflicted by cleavers and whips is doubled to [color=",
     "original": "]25%[/color] less Fatigue.\n\nBleeding damage inflicted by cleavers and whips is doubled to [color=",
-    "translation": "]25%[/color] 疲劳值积累。\n\n劈刀和鞭子造成的流血伤害(每回合)分别增加到[color=",
+    "translation": "]25%[/color]\n\n砍刀和鞭子造成的每回合流血伤害分别加倍至 [color=",
     "stage": 1,
     "context": "SpecCleaver = 'Master cleavers to inflict gruesome wounds. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nBleeding damage inflicted by cleavers and whips is doubled to [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']20[/color] per turn, respectively.\n\nDisarm only has half the penalty to hit.'"
   },
@@ -8475,7 +8475,7 @@
     "ID": 293406695,
     "key": "Glorious",
     "original": "Glorious",
-    "translation": "声誉辉煌",
+    "translation": "丰功伟绩",
     "stage": 5,
     "context": "'Glorious'"
   },

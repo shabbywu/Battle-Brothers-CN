@@ -3,7 +3,7 @@
     "ID": 293403471,
     "key": "Reach 'Glorious' renown",
     "original": "Reach 'Glorious' renown",
-    "translation": "名望达到“声誉辉煌”",
+    "translation": "名望达到“丰功伟绩”",
     "stage": 5,
     "context": "this.m.UIText = \"Reach 'Glorious' renown\""
   },
@@ -11,7 +11,7 @@
     "ID": 293403472,
     "key": "Become known as 'Glorious' (2,750 renown) throughout the land. You can increase your renown by completing contracts and winning battles.",
     "original": "Become known as 'Glorious' (2,750 renown) throughout the land. You can increase your renown by completing contracts and winning battles.",
-    "translation": "以“声誉辉煌”（2750名望）闻名于各地。你可以通过完成合同和赢得战斗来提高自己的名望。",
+    "translation": "以“丰功伟绩”（2750名望）闻名于各地。你可以通过完成合同和赢得战斗来提高自己的名望。",
     "stage": 5,
     "context": "this.m.TooltipText = \"Become known as 'Glorious' (2,750 renown) throughout the land. You can increase your renown by completing contracts and winning battles.\""
   },

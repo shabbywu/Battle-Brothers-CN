@@ -572,8 +572,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:27.699Z",
         "updatedAt": "2023-06-26T05:46:25.869Z",
-        "modifiedAt": "2023-06-26T05:46:26Z",
-        "sha256": "5a6c3253c8c63bb4e4c5d333dcfb2341d574c1cea7d197d9dcc3f5310c0bf851"
+        "modifiedAt": "2024-01-16T07:26:46Z",
+        "sha256": "25da568686baccb645f3cea19997425ac4b07f1a56ee1548c74889d9c627e849"
     },
     "scripts/ambitions/ambitions/have_z_crowns_ambition.json": {
         "id": 918378,
@@ -608,8 +608,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:28.403Z",
         "updatedAt": "2023-06-26T05:46:25.996Z",
-        "modifiedAt": "2023-06-26T05:46:26Z",
-        "sha256": "2af25bcd15afb66a2ac251bc702c30f6f887da4be446618842329e278cc663e8"
+        "modifiedAt": "2024-01-16T07:35:20Z",
+        "sha256": "95ba484d4603dadf5df2b0124dcff555575d08b21a52ed156d97e47d0d8d6679"
     },
     "scripts/ambitions/ambitions/hire_follower_ambition.json": {
         "id": 918380,
@@ -620,14 +620,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:28.745Z",
         "updatedAt": "2023-06-26T05:46:26.14Z",
-        "modifiedAt": "2023-07-03T16:01:43Z",
-        "sha256": "ccb181b8b6f2bf60015c2ec6d8ff6a3c87904d577d2567a7ae453b9d6e360484"
+        "modifiedAt": "2024-01-16T07:17:05Z",
+        "sha256": "96eb4403acd1fd8faf0d48e52be6a155f21c0f8b19b4b2c77b2ec2d017d12e6f"
     },
     "scripts/ambitions/ambitions/make_nobles_aware_ambition.json": {
         "id": 918381,
@@ -638,14 +638,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:29.086Z",
         "updatedAt": "2023-06-26T05:46:26.279Z",
-        "modifiedAt": "2023-06-26T05:46:26Z",
-        "sha256": "58a88f12b5a2301a6bdee141a6176e24ba9d6a25658bc408fb73a3b271626caf"
+        "modifiedAt": "2024-01-16T07:16:48Z",
+        "sha256": "9d130dc4b1e87761a5309204ebc4c1ffbd10fc79f3ab6f2de1831facbf9ec560"
     },
     "scripts/ambitions/ambitions/named_item_ambition.json": {
         "id": 918382,
@@ -1340,14 +1340,14 @@
         "total": 1218,
         "translated": 1218,
         "disputed": 0,
-        "checked": 300,
-        "reviewed": 300,
+        "checked": 292,
+        "reviewed": 292,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-01-09T07:14:07Z",
-        "sha256": "5a45b1d8d2b2d26dbcb317ce706d4a9af485e3612558ec7a35d9630ba2268e24"
+        "modifiedAt": "2024-01-16T23:16:08Z",
+        "sha256": "8e9747a543823bb1420c9d5f6bad34694ddc2133e9f331b9ae14a0be69ce4cea"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -6404,8 +6404,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:42.766Z",
         "updatedAt": "2023-06-26T05:47:17.671Z",
-        "modifiedAt": "2024-01-16T00:35:23Z",
-        "sha256": "54f7f705fc0d38aefafe6449f2619f952e9a3ed3699aeaa83af92322d8a14fe5"
+        "modifiedAt": "2024-01-16T02:37:38Z",
+        "sha256": "4960c4e4a095cf79c9a9f29e2ad16b09abc5646b5dc5f0770f75950a6ae91dba"
     },
     "scripts/entity/world/settlements/large_fishing_village.json": {
         "id": 918702,
@@ -6440,8 +6440,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:43.443Z",
         "updatedAt": "2023-06-26T05:47:17.883Z",
-        "modifiedAt": "2024-01-16T02:02:58Z",
-        "sha256": "6df55408ea1e526312d4b1346e2e2e6ad8d078a3d4fbd4ba228a87d419a96b72"
+        "modifiedAt": "2024-01-16T02:18:48Z",
+        "sha256": "cd38d5411255281b6121e4ebb606ce39d30da472d8ab75808cab9bfdc8e184d7"
     },
     "scripts/entity/world/settlements/large_lumber_village.json": {
         "id": 918704,
@@ -6458,8 +6458,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:43.785Z",
         "updatedAt": "2023-06-26T05:47:18.157Z",
-        "modifiedAt": "2023-06-26T05:47:18Z",
-        "sha256": "9e32ff8282d4dac6cd87ed4308b0f2b8176172ece05126a600f030692fa2e90c"
+        "modifiedAt": "2024-01-16T02:35:36Z",
+        "sha256": "df0c7499e03e166aec52f6e2310dbbb68b200a931e5d735253d71c5291109d9b"
     },
     "scripts/entity/world/settlements/large_mountains_fort.json": {
         "id": 918705,
@@ -6476,8 +6476,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:44.135Z",
         "updatedAt": "2023-06-26T05:47:18.26Z",
-        "modifiedAt": "2023-06-26T05:47:18Z",
-        "sha256": "0755e1b28b1cc46ec5d864aea4aa3f4e90b81faaea62dac00ffe3abae27099a7"
+        "modifiedAt": "2024-01-16T03:09:01Z",
+        "sha256": "d00f59590f9253b1f4087ade19229575ec49670deb03ca0e0e305f9afa156a9a"
     },
     "scripts/entity/world/settlements/large_snow_fort.json": {
         "id": 918706,
@@ -6746,8 +6746,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:49.414Z",
         "updatedAt": "2023-06-26T05:47:20.988Z",
-        "modifiedAt": "2023-06-26T05:47:21Z",
-        "sha256": "5e796425bca587d20175b6df2d8b5a71d7b42b62129b92780417615232a4d9a4"
+        "modifiedAt": "2024-01-16T02:38:22Z",
+        "sha256": "ca3e67c5aab316e79aa9845a7f0e7fe8157579222c2318723d438ea32bf1a29b"
     },
     "scripts/entity/world/settlements/medium_snow_fort.json": {
         "id": 918721,
