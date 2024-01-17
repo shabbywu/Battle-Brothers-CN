@@ -147,7 +147,7 @@
     "ID": 293411366,
     "key": "Heldenburg",
     "original": "Heldenburg",
-    "translation": "赫尔登堡",
+    "translation": "英杰堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },

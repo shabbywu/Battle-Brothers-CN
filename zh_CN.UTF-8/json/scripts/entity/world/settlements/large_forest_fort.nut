@@ -171,7 +171,7 @@
     "ID": 293410855,
     "key": "Fahrnfeste",
     "original": "Fahrnfeste",
-    "translation": "法恩费斯特",
+    "translation": "车运要塞",
     "stage": 1,
     "context": "this.getRandomName(['Waldfeste','Tannenfeste','Schlangenfeste','Hainfeste','Dunkelfeste','Finsterfeste','Eichfeste','Eibenfeste','Waidfeste','Eulenfeste','Eberfeste','Fahrnfeste','Moosfeste','Forstfeste','Dusterfeste','Dornfeste','Grunfeste','Falkenfeste','Salamanderfeste','Lerchenfeste','Laubfeste','Erlenfeste','Nadelfeste','Waldachfeste','Hornfeste','Klarbachfeste','Eisbachfeste','Fichtenwall'])"
   },
@@ -179,7 +179,7 @@
     "ID": 293410856,
     "key": "Waidfeste",
     "original": "Waidfeste",
-    "translation": "怀德费斯特",
+    "translation": "菘蓝要塞",
     "stage": 1,
     "context": "this.getRandomName(['Waldfeste','Tannenfeste','Schlangenfeste','Hainfeste','Dunkelfeste','Finsterfeste','Eichfeste','Eibenfeste','Waidfeste','Eulenfeste','Eberfeste','Fahrnfeste','Moosfeste','Forstfeste','Dusterfeste','Dornfeste','Grunfeste','Falkenfeste','Salamanderfeste','Lerchenfeste','Laubfeste','Erlenfeste','Nadelfeste','Waldachfeste','Hornfeste','Klarbachfeste','Eisbachfeste','Fichtenwall'])"
   },
@@ -187,7 +187,7 @@
     "ID": 293410857,
     "key": "Forstfeste",
     "original": "Forstfeste",
-    "translation": "福斯特费斯特",
+    "translation": "林区要塞",
     "stage": 1,
     "context": "this.getRandomName(['Waldfeste','Tannenfeste','Schlangenfeste','Hainfeste','Dunkelfeste','Finsterfeste','Eichfeste','Eibenfeste','Waidfeste','Eulenfeste','Eberfeste','Fahrnfeste','Moosfeste','Forstfeste','Dusterfeste','Dornfeste','Grunfeste','Falkenfeste','Salamanderfeste','Lerchenfeste','Laubfeste','Erlenfeste','Nadelfeste','Waldachfeste','Hornfeste','Klarbachfeste','Eisbachfeste','Fichtenwall'])"
   },
@@ -195,7 +195,7 @@
     "ID": 293410858,
     "key": "Eibenfeste",
     "original": "Eibenfeste",
-    "translation": "埃本费斯特",
+    "translation": "紫衫要塞",
     "stage": 1,
     "context": "this.getRandomName(['Waldfeste','Tannenfeste','Schlangenfeste','Hainfeste','Dunkelfeste','Finsterfeste','Eichfeste','Eibenfeste','Waidfeste','Eulenfeste','Eberfeste','Fahrnfeste','Moosfeste','Forstfeste','Dusterfeste','Dornfeste','Grunfeste','Falkenfeste','Salamanderfeste','Lerchenfeste','Laubfeste','Erlenfeste','Nadelfeste','Waldachfeste','Hornfeste','Klarbachfeste','Eisbachfeste','Fichtenwall'])"
   },
@@ -203,7 +203,7 @@
     "ID": 293410859,
     "key": "Eichfeste",
     "original": "Eichfeste",
-    "translation": "艾希费斯特",
+    "translation": "橡树要塞",
     "stage": 1,
     "context": "this.getRandomName(['Waldfeste','Tannenfeste','Schlangenfeste','Hainfeste','Dunkelfeste','Finsterfeste','Eichfeste','Eibenfeste','Waidfeste','Eulenfeste','Eberfeste','Fahrnfeste','Moosfeste','Forstfeste','Dusterfeste','Dornfeste','Grunfeste','Falkenfeste','Salamanderfeste','Lerchenfeste','Laubfeste','Erlenfeste','Nadelfeste','Waldachfeste','Hornfeste','Klarbachfeste','Eisbachfeste','Fichtenwall'])"
   },
@@ -211,7 +211,7 @@
     "ID": 293410860,
     "key": "Waldfeste",
     "original": "Waldfeste",
-    "translation": "瓦尔德费斯特",
+    "translation": "密林要塞",
     "stage": 1,
     "context": "this.getRandomName(['Waldfeste','Tannenfeste','Schlangenfeste','Hainfeste','Dunkelfeste','Finsterfeste','Eichfeste','Eibenfeste','Waidfeste','Eulenfeste','Eberfeste','Fahrnfeste','Moosfeste','Forstfeste','Dusterfeste','Dornfeste','Grunfeste','Falkenfeste','Salamanderfeste','Lerchenfeste','Laubfeste','Erlenfeste','Nadelfeste','Waldachfeste','Hornfeste','Klarbachfeste','Eisbachfeste','Fichtenwall'])"
   },
@@ -219,7 +219,7 @@
     "ID": 293410861,
     "key": "Hornfeste",
     "original": "Hornfeste",
-    "translation": "霍恩费斯特",
+    "translation": "兽角要塞",
     "stage": 1,
     "context": "this.getRandomName(['Waldfeste','Tannenfeste','Schlangenfeste','Hainfeste','Dunkelfeste','Finsterfeste','Eichfeste','Eibenfeste','Waidfeste','Eulenfeste','Eberfeste','Fahrnfeste','Moosfeste','Forstfeste','Dusterfeste','Dornfeste','Grunfeste','Falkenfeste','Salamanderfeste','Lerchenfeste','Laubfeste','Erlenfeste','Nadelfeste','Waldachfeste','Hornfeste','Klarbachfeste','Eisbachfeste','Fichtenwall'])"
   },
@@ -235,7 +235,7 @@
     "ID": 293410863,
     "key": "Laubfeste",
     "original": "Laubfeste",
-    "translation": "洛伊布菲斯特",
+    "translation": "树叶要塞",
     "stage": 1,
     "context": "this.getRandomName(['Waldfeste','Tannenfeste','Schlangenfeste','Hainfeste','Dunkelfeste','Finsterfeste','Eichfeste','Eibenfeste','Waidfeste','Eulenfeste','Eberfeste','Fahrnfeste','Moosfeste','Forstfeste','Dusterfeste','Dornfeste','Grunfeste','Falkenfeste','Salamanderfeste','Lerchenfeste','Laubfeste','Erlenfeste','Nadelfeste','Waldachfeste','Hornfeste','Klarbachfeste','Eisbachfeste','Fichtenwall'])"
   }

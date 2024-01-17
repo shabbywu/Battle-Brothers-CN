@@ -235,7 +235,7 @@
     "ID": 293410808,
     "key": "Heldenland",
     "original": "Heldenland",
-    "translation": "杰出之地",
+    "translation": "英杰之地",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
