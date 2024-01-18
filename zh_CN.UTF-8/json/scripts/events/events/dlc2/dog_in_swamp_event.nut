@@ -43,7 +43,7 @@
     "ID": 293413660,
     "key": "I think I'll name you... Swimmer.",
     "original": "I think I'll name you... Swimmer.",
-    "translation": "我想我会给你起名的…游泳者。",
+    "translation": "以后你的名字就叫…泳者。",
     "stage": 1,
     "context": "Text = \"I think I'll name you... Swimmer.\""
   },
@@ -131,7 +131,7 @@
     "ID": 293413671,
     "key": "Swimmer",
     "original": "Swimmer",
-    "translation": "游泳者(Swimmer)",
+    "translation": "\"泳者\"",
     "stage": 1,
     "context": "item.m.Name = 'Swimmer'"
   },
