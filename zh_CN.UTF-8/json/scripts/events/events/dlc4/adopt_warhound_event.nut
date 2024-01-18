@@ -59,7 +59,7 @@
     "ID": 293414128,
     "key": "Warrior the Warhound",
     "original": "Warrior the Warhound",
-    "translation": "勇士战猎犬",
+    "translation": "战獒“勇士”",
     "stage": 1,
     "context": "item.m.Name = 'Warrior the Warhound'"
   },

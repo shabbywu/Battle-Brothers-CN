@@ -307,7 +307,7 @@
     "ID": 293407805,
     "key": "%SPEECH_ON%Recognize this face? There's a reason the artists spent time on this here pamphlet and then handed them out to every set of eyes settin' in those seats upstairs. It's %champion1%, one of the greatest fighters in this land. Maybe some day they'l",
     "original": "%SPEECH_ON%Recognize this face? There's a reason the artists spent time on this here pamphlet and then handed them out to every set of eyes settin' in those seats upstairs. It's %champion1%, one of the greatest fighters in this land. Maybe some day they'll make yer face look so pretty, if the Vizier could ever find someone so talented to salvage, well, whatever ye got there between the ears, hegheghegh.%SPEECH_OFF%",
-    "translation": "%SPEECH_ON%认识这张脸吗？艺术家们在这本小册子上花费了时间，并将其分发给楼上的所有人。这是队长1号(%champion1%)，是这片土地上最伟大的斗士之一。也许有一天，如果大臣能找到一个如此有才华的人来挽救你那被毁掉的脑子，他们也会让你的脸看起来那么漂亮，hegheghegh。%SPEECH_OFF%",
+    "translation": "%SPEECH_ON%认识这张脸吗？艺术家们可不会白白花那么多时间又是画册子又发给你们看的。这是%champion1%，是这片土地上最伟大的斗士之一。也许有一天他们会把你的脸蛋也整的这么漂亮，前提是维齐尔能找到那么本事的人，来挽救你，呃，耳朵中间夹着的那些东西，嘿嘿呵。%SPEECH_OFF%",
     "stage": 1,
     "context": "this[2] += \"%SPEECH_ON%Recognize this face? There's a reason the artists spent time on this here pamphlet and then handed them out to every set of eyes settin' in those seats upstairs. It's %champion1%, one of the greatest fighters in this land. Maybe some day they'll make yer face look so pretty, if the Vizier could ever find someone so talented to salvage, well, whatever ye got there between the ears, hegheghegh.%SPEECH_OFF%\""
   },

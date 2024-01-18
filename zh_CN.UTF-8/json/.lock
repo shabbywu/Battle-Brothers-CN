@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-01-16T23:16:08Z",
-        "sha256": "8e9747a543823bb1420c9d5f6bad34694ddc2133e9f331b9ae14a0be69ce4cea"
+        "modifiedAt": "2024-01-17T04:19:52Z",
+        "sha256": "6dd0e5e4517be32edaea228e84c79e2f2fa54715f5d0e44ab977be5d936a17fe"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -1472,8 +1472,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:48.463Z",
         "updatedAt": "2023-06-30T08:56:14.464Z",
-        "modifiedAt": "2023-12-29T03:14:07Z",
-        "sha256": "964620cd0b512955fabbbce37a8d463015d266fa987088048035ed3ec85a2094"
+        "modifiedAt": "2024-01-17T07:55:49Z",
+        "sha256": "a38fbcffd2b9a33885e582b5db4c5ed991bd60a8f7d51713f91dc4789a508869"
     },
     "scripts/contracts/contracts/arena_tournament_contract.json": {
         "id": 918428,
@@ -1598,8 +1598,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:51.274Z",
         "updatedAt": "2023-06-26T05:46:39.218Z",
-        "modifiedAt": "2023-06-26T05:46:39Z",
-        "sha256": "ea862fb79d60d41b8eff1bcd031b23080513ed80d1781918ce9d3a9702983c5c"
+        "modifiedAt": "2024-01-17T08:01:22Z",
+        "sha256": "f6fa72260a9a63600dd73a3358f4a6ad46259cb3d7fe3958bb4f2e0866332b9f"
     },
     "scripts/contracts/contracts/decisive_battle_contract.json": {
         "id": 918435,
@@ -1652,8 +1652,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:53.999Z",
         "updatedAt": "2023-06-26T05:46:40.14Z",
-        "modifiedAt": "2023-06-26T05:46:40Z",
-        "sha256": "05b5c06250acbf971057c56da35685116bd503d3add6e584ef24558381d34f91"
+        "modifiedAt": "2024-01-17T08:30:17Z",
+        "sha256": "147b515b4caf7dbfe9285934b2fe7075b723aa64c5d568a0cfc431cdf92fdce4"
     },
     "scripts/contracts/contracts/defend_settlement_bandits_contract.json": {
         "id": 918438,
@@ -1706,8 +1706,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:55.4Z",
         "updatedAt": "2023-07-05T12:35:54.777Z",
-        "modifiedAt": "2023-07-05T14:52:09Z",
-        "sha256": "e6b9e5c0d6afdc6eae9d660bb8024b8120da0c3d605281cbfbe8b1041da8d624"
+        "modifiedAt": "2024-01-17T09:03:46Z",
+        "sha256": "9bf953c17330a2c8bf8784f1051b1c1c97cbda3bf5a51c5d257ad170f58fb5c4"
     },
     "scripts/contracts/contracts/destroy_goblin_camp_contract.json": {
         "id": 918441,
@@ -1814,8 +1814,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:57.758Z",
         "updatedAt": "2023-06-26T05:46:43.689Z",
-        "modifiedAt": "2023-06-26T05:46:44Z",
-        "sha256": "3fa234d1d1350989cd77f959e1a8862bafff9e42b96fee7c9270d06adce69a13"
+        "modifiedAt": "2024-01-17T07:39:46Z",
+        "sha256": "c13047dcb497ee1f0cba17347aadb3c083bb1c25c40fe63ba323dc377448188c"
     },
     "scripts/contracts/contracts/escort_caravan_contract.json": {
         "id": 918447,
@@ -4316,8 +4316,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:53.074Z",
         "updatedAt": "2023-06-26T05:47:05.573Z",
-        "modifiedAt": "2023-06-26T05:47:06Z",
-        "sha256": "086bd88979cf136911dc5a55181e94de298bd9cd0295920e3c9e2bb21ac7c18c"
+        "modifiedAt": "2024-01-17T04:19:49Z",
+        "sha256": "393d24910e7c253c87e2be21517026560224093571c140070ec3e7e7bb1eb134"
     },
     "scripts/entity/tactical/warwolf.json": {
         "id": 918586,
@@ -9716,8 +9716,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:54.067Z",
         "updatedAt": "2023-06-26T05:47:39.594Z",
-        "modifiedAt": "2023-06-26T05:47:40Z",
-        "sha256": "561297a71510749b9ca5f0f6e798e050a2d5210140fb8ee29e82af4d3bd7899f"
+        "modifiedAt": "2024-01-17T04:21:16Z",
+        "sha256": "419f4e5083260f951eaa5baca1ce4365743e5759b189cd8026c0fdafb050e35b"
     },
     "scripts/events/events/dlc2/encounter_gnomes_event.json": {
         "id": 918886,
@@ -10562,8 +10562,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:11.99Z",
         "updatedAt": "2023-06-26T05:47:44.998Z",
-        "modifiedAt": "2023-06-26T05:47:45Z",
-        "sha256": "64d5851df5c6f4754a125df1f9e6a7c0cf6fdc627493a6c172f561458a220da9"
+        "modifiedAt": "2024-01-17T04:20:08Z",
+        "sha256": "299c677747dadb8dd9f25ed36dedef0576ec184132b5e7ba65107b76967e07db"
     },
     "scripts/events/events/dlc4/barbarian_tells_story_event.json": {
         "id": 918933,
@@ -27680,8 +27680,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:06.559Z",
         "updatedAt": "2023-06-26T05:49:06.335Z",
-        "modifiedAt": "2023-06-26T05:49:06Z",
-        "sha256": "22a1671118c21d9e087e6597a86586b1aa4e3bc65dbcbe6b0e6cda7f276be8db"
+        "modifiedAt": "2024-01-17T01:22:51Z",
+        "sha256": "a494d9682c45e2abd8478d25660372c532b006f9319d85b46a00141899520f96"
     },
     "scripts/items/weapons/named/named_sword.json": {
         "id": 919884,
@@ -28400,8 +28400,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:22.726Z",
         "updatedAt": "2023-06-26T05:49:08.765Z",
-        "modifiedAt": "2023-06-26T05:49:09Z",
-        "sha256": "fd026a576a595a2828e8aae080cf6bee38b27ee839fd66225f08afb12bf35b38"
+        "modifiedAt": "2024-01-17T01:22:53Z",
+        "sha256": "aa7cd9112ef6895ed8ce4dff1937b6b55ff409446adc3960e57cea7a1ae6a350"
     },
     "scripts/items/weapons/staff_sling.json": {
         "id": 919924,

@@ -3547,7 +3547,7 @@
     "ID": 293406079,
     "key": "Too fast for you! Gain [color=",
     "original": "Too fast for you! Gain [color=",
-    "translation": "你真的太快了! 获得[color=",
+    "translation": "你可跟不上我! 获得[color=",
     "stage": 1,
     "context": "Dodge = 'Too fast for you! Gain [color=' + this.Const.UI.Color.PositiveValue + \"]15%[/color] of the character's current Initiative as a bonus to Melee and Ranged Defense.\""
   },
@@ -3995,7 +3995,7 @@
     "ID": 293406135,
     "key": "Warhound",
     "original": "Warhound",
-    "translation": "战犬",
+    "translation": "战獒",
     "stage": 1,
     "context": "'Warhound'"
   },
@@ -5731,7 +5731,7 @@
     "ID": 293406352,
     "key": "Warhounds",
     "original": "Warhounds",
-    "translation": "战犬",
+    "translation": "战獒",
     "stage": 1,
     "context": "'Warhounds'"
   },
@@ -6267,7 +6267,7 @@
     "ID": 293406419,
     "key": "Keep it together! Any negative status effect with a finite duration (e.g. Bleeding, Charmed) has its duration reduced to [color=",
     "original": "Keep it together! Any negative status effect with a finite duration (e.g. Bleeding, Charmed) has its duration reduced to [color=",
-    "translation": "保持在一起! 任何具有有限持续时间的负面状态效果（例如流血、魅惑）的持续时间都会减少到[color=",
+    "translation": "挺住! 任何具有有限持续时间的负面状态效果（例如流血、魅惑）的持续时间都会减少到[color=",
     "stage": 1,
     "context": "HoldOut = 'Keep it together! Any negative status effect with a finite duration (e.g. Bleeding, Charmed) has its duration reduced to [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] turn. Status effects that have their effects grow weaker over several turns (e.g. Goblin Poison) are at their weakest state from the start.'"
   },
@@ -7339,7 +7339,7 @@
     "ID": 293406553,
     "key": "]25%[/color] less Fatigue.\n\nSpearwall is no longer disabled once an opponent manages to overcome it. Instead, Spearwall can still be used and continues to give free attacks on any further opponent attempting to enter the Zone of Control.\n\nThe Spetum and W",
     "original": "]25%[/color] less Fatigue.\n\nSpearwall is no longer disabled once an opponent manages to overcome it. Instead, Spearwall can still be used and continues to give free attacks on any further opponent attempting to enter the Zone of Control.\n\nThe Spetum and Warfork no longer have a penalty for attacking targets directly adjacent.",
-    "translation": "]25%[/color]\n\n一旦敌人攻入了控制区域，“矛墙”不再失效。相反，“矛墙”仍可使用，并继续对其他试图进入控制区域的敌人进行免费攻击。\n\n使用长戟和战叉攻击近身敌人不再有命中率惩罚。",
+    "translation": "]25%[/color]\n\n“矛墙”不再因敌人成功进入控制区域而立即失效。此外，“矛墙”仍可主动启用，并继续对其他试图进入控制区域的敌人进行免费攻击。\n\n使用三叉戟和战叉攻击近身敌人不再有命中率惩罚。",
     "stage": 1,
     "context": "SpecSpear = 'Master fighting with spears and keeping the enemy at bay. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nSpearwall is no longer disabled once an opponent manages to overcome it. Instead, Spearwall can still be used and continues to give free attacks on any further opponent attempting to enter the Zone of Control.\n\nThe Spetum and Warfork no longer have a penalty for attacking targets directly adjacent.'"
   },
