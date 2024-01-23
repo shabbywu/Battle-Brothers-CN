@@ -67,7 +67,7 @@
     "ID": 293419933,
     "key": "Demolish Armor",
     "original": "Demolish Armor",
-    "translation": "摧毁盔甲",
+    "translation": "摧毁护甲",
     "stage": 1,
     "context": "this.m.Name = 'Demolish Armor'"
   },

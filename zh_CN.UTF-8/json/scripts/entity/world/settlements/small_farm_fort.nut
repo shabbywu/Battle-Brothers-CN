@@ -171,7 +171,7 @@
     "ID": 293411991,
     "key": "Grafenburg",
     "original": "Grafenburg",
-    "translation": "格拉芬堡",
+    "translation": "擢爵堡",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },

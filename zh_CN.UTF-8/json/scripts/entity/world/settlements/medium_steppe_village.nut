@@ -75,8 +75,8 @@
     "ID": 293411484,
     "key": "Treiten",
     "original": "Treiten",
-    "translation": "特莱滕",
-    "stage": 5,
+    "translation": "猎场镇",
+    "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Strauchdorf','Kargau','Attendorn','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
   {

@@ -107,8 +107,8 @@
     "ID": 293409786,
     "key": "[img]gfx/ui/events/event_80.png[/img]{Brigands! Just as your employer had thought. They look scared, presumably understanding that %employer%'s well-paid wrath is about to descend upon them. | Ah, the thieves are quite human - a simple crew of vagabonds a",
     "original": "[img]gfx/ui/events/event_80.png[/img]{Brigands! Just as your employer had thought. They look scared, presumably understanding that %employer%'s well-paid wrath is about to descend upon them. | Ah, the thieves are quite human - a simple crew of vagabonds and brigands. They arm themselves as you order your men to attack. | You catch a group of brigands lugging your employer's property around. They seem shocked that you have found them here and no time is wasted trying to parlay - they arm themselves and you order the %companyname% to charge.}",
-    "translation": "[img]gfx/ui/events/event_80.png[/img]{是强盗们！跟你的雇主猜的一样。他们看起来很害怕，或许知道%employer%花了大价钱雇来的怒火要降临在他们身上。 | 哦，这些小偷很普通 —— 只不过是一群流浪汉和强盗。当你命令你的手下攻击时，他们拿起了武器。 | 你抓到了一伙强盗正在拖着你雇主的财物四处游荡。他们似乎对你在这里找到了他们很震惊，没有浪费任何时间进行交涉，他们拿起了武器，而你命令%companyname%发起冲锋。}",
-    "stage": 5,
+    "translation": "[img]gfx/ui/events/event_80.png[/img]{是强盗们！跟你的雇主猜的一样。他们看起来很害怕，或许知道%employer%花了大价钱雇来的怒火要降临在他们身上。 | 啊，这些小偷再普通不过 —— 只不过是一群流浪汉和强盗。当你命令你的手下攻击时，他们也拿起了武器。 | 一伙强盗拖着你雇主的财物游荡是被你撞了个正着。他们似乎对你能找到这里有些意外，不打算浪费口舌，他们拿起了武器，而你命令%companyname%发起冲锋。}",
+    "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_80.png[/img]{Brigands! Just as your employer had thought. They look scared, presumably understanding that %employer%'s well-paid wrath is about to descend upon them. | Ah, the thieves are quite human - a simple crew of vagabonds and brigands. They arm themselves as you order your men to attack. | You catch a group of brigands lugging your employer's property around. They seem shocked that you have found them here and no time is wasted trying to parlay - they arm themselves and you order the %companyname% to charge.}\""
   },
   {

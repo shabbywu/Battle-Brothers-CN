@@ -3,7 +3,7 @@
     "ID": 293403466,
     "key": "Have at least 10,000 crowns as a reserve, in order to persevere when things may turn bad in the future. You can make money by completing contracts, looting camps and ruins, or trading.",
     "original": "Have at least 10,000 crowns as a reserve, in order to persevere when things may turn bad in the future. You can make money by completing contracts, looting camps and ruins, or trading.",
-    "translation": "拥有至少10,000克朗作为储备，以便在未来情况可能恶化时坚持下去。 你可以通过完成合同、掠夺营地和废墟或贸易来赚钱。",
+    "translation": "储备至少10,000克朗，以防节外生枝。 你可以通过完成合同、掠夺废墟或营地、进行贸易等方式赚钱。",
     "stage": 2,
     "context": "this.m.TooltipText = 'Have at least 10,000 crowns as a reserve, in order to persevere when things may turn bad in the future. You can make money by completing contracts, looting camps and ruins, or trading.'"
   },

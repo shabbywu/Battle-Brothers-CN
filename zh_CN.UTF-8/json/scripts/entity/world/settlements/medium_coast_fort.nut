@@ -3,7 +3,7 @@
     "ID": 293411132,
     "key": "Krumburg",
     "original": "Krumburg",
-    "translation": "克伦堡",
+    "translation": "表土堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -11,7 +11,7 @@
     "ID": 293411133,
     "key": "Kielburg",
     "original": "Kielburg",
-    "translation": "基尔伯格",
+    "translation": "船骨堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -19,7 +19,7 @@
     "ID": 293411134,
     "key": "Weseburg",
     "original": "Weseburg",
-    "translation": "韦瑟堡",
+    "translation": "存在堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -27,7 +27,7 @@
     "ID": 293411135,
     "key": "Sichelburg",
     "original": "Sichelburg",
-    "translation": "锯齿城",
+    "translation": "镰刀城",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -35,7 +35,7 @@
     "ID": 293411136,
     "key": "Salzburg",
     "original": "Salzburg",
-    "translation": "萨尔茨堡",
+    "translation": "盐堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -43,7 +43,7 @@
     "ID": 293411137,
     "key": "Stohlburg",
     "original": "Stohlburg",
-    "translation": "斯托尔堡",
+    "translation": "板凳堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -51,15 +51,15 @@
     "ID": 293411138,
     "key": "Dunenburg",
     "original": "Dunenburg",
-    "translation": "丘陵堡",
-    "stage": 5,
+    "translation": "沙丘堡",
+    "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
   {
     "ID": 293411139,
     "key": "Blauburg",
     "original": "Blauburg",
-    "translation": "布劳堡",
+    "translation": "蓝堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -67,7 +67,7 @@
     "ID": 293411140,
     "key": "Sandeburg",
     "original": "Sandeburg",
-    "translation": "桑德堡",
+    "translation": "沙堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -75,7 +75,7 @@
     "ID": 293411141,
     "key": "Beltburg",
     "original": "Beltburg",
-    "translation": "贝尔特堡",
+    "translation": "丘堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -83,7 +83,7 @@
     "ID": 293411142,
     "key": "Wikburg",
     "original": "Wikburg",
-    "translation": "维克堡",
+    "translation": "聚落堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -107,7 +107,7 @@
     "ID": 293411145,
     "key": "Seeburg",
     "original": "Seeburg",
-    "translation": "西堡",
+    "translation": "海堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -115,7 +115,7 @@
     "ID": 293411146,
     "key": "Meerburg",
     "original": "Meerburg",
-    "translation": "米尔堡",
+    "translation": "洋堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -123,7 +123,7 @@
     "ID": 293411147,
     "key": "Gischtburg",
     "original": "Gischtburg",
-    "translation": "吉斯特堡",
+    "translation": "涛堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -131,7 +131,7 @@
     "ID": 293411148,
     "key": "Otternburg",
     "original": "Otternburg",
-    "translation": "奥特恩堡",
+    "translation": "獭堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -139,7 +139,7 @@
     "ID": 293411149,
     "key": "Sundburg",
     "original": "Sundburg",
-    "translation": "桑德堡",
+    "translation": "航峡堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -155,7 +155,7 @@
     "ID": 293411151,
     "key": "Heringsburg",
     "original": "Heringsburg",
-    "translation": "海灵斯堡",
+    "translation": "鲱堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -163,7 +163,7 @@
     "ID": 293411152,
     "key": "Aalburg",
     "original": "Aalburg",
-    "translation": "奥尔堡",
+    "translation": "鳗鱼堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -179,7 +179,7 @@
     "ID": 293411154,
     "key": "Mowenburg",
     "original": "Mowenburg",
-    "translation": "莫文堡",
+    "translation": "鸥堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -187,7 +187,7 @@
     "ID": 293411155,
     "key": "Schollburg",
     "original": "Schollburg",
-    "translation": "肖尔堡",
+    "translation": "浮冰堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -195,7 +195,7 @@
     "ID": 293411156,
     "key": "Kampburg",
     "original": "Kampburg",
-    "translation": "坎普堡",
+    "translation": "战争堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -203,7 +203,7 @@
     "ID": 293411157,
     "key": "Sturmburg",
     "original": "Sturmburg",
-    "translation": "斯图姆堡",
+    "translation": "风暴堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   }

@@ -171,8 +171,8 @@
     "ID": 293410753,
     "key": "Dunenfeste",
     "original": "Dunenfeste",
-    "translation": "丘陵要塞",
-    "stage": 5,
+    "translation": "沙丘要塞",
+    "stage": 1,
     "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
   {

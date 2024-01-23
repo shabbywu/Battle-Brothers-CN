@@ -19,16 +19,16 @@
     "ID": 293420745,
     "key": "{A minor noble | As the third in the line of succession | A young and brash noble | A skilled swordsman}, %name%'s life at court {had grown stale for him | was not exciting enough for him with endless studying of court etiquette and family lineage | felt ",
     "original": "{A minor noble | As the third in the line of succession | A young and brash noble | A skilled swordsman}, %name%'s life at court {had grown stale for him | was not exciting enough for him with endless studying of court etiquette and family lineage | felt like wasting the best time of his life | was not half as exciting to him as the tales of adventures, battles, fearsome beasts to vanquish and fair maidens to conquer}. {Wearing the family crest proudly | At the encouragement of his brother | To the frustration of his mother | Finally making a decision to change things}, %name% rode out to {prove himself | make a name for himself | earn glory on the battlefield | test his skills in battle} and {live life to its fullest as he imagined it from behind the castle walls | see all the wonders and exotic places of the world | earn his place in the world | be knighted for his valor | become famous and loved in all the known world | become infamous and feared in all the known world}.",
-    "translation": "{一个小贵族 | 作为第三顺位继承人 | 一位年轻而傲慢的贵族 | 一位熟练的剑客}，%name%的宫廷生活{对他来说已经不新鲜了 | 对他来说，没完没了地学习宫廷礼仪和他家族的血统令他倍感无聊 | 感觉像是在浪费他生命中最美好的时光 | 并没有他想象中的那么激动人心，相比那些冒险、战役、强大的野兽和需要征服的美丽少女的故事，他更为向往后者}。{骄傲地戴着家族徽章 | 在他哥哥的鼓励下 | 令他母亲沮丧的是 | 终于做出了改变的决定}，%name%骑马出发{去证明自己 | 去打出一片名声 | 去在战场上赢得荣耀 | 去在战斗中测试他的技能}和{像他在城堡墙后想象的那样，尽情享受生活 | 看遍世界上所有的奇观和异域 | 赢得他在世界上的地位 | 因英勇而被封为爵士 | 在所有已知的世界中成名并受到喜爱 | 在所有已知的世界中变得臭名昭著和令人畏惧}。",
-    "stage": 5,
+    "translation": "{作为一个小贵族 | 作为第三顺位继承人 | 作为一位年轻而傲慢的贵族 | 作为一位熟练的剑客}，%name%的宫廷生活{对他来说已经不新鲜了 | 充斥着宫廷礼仪和家族血统课程，这令他倍感无聊 | 感觉像是在浪费他生命中最美好的时光 | 远没有那些故事中的冒险、战役、等待征服的野兽和少女那样激动人心}。{骄傲地戴着家族徽章 | 在他哥哥的鼓励下 | 令他母亲沮丧的是 | 终于做出了改变的决定}，%name%踏上旅途，打算{去证明自己 | 去打出一片名声 | 去在战场上赢得荣耀 | 去在战斗中测试他的技能}，期待能{像他在城堡墙后想象的那样，尽情享受生活 | 看遍世界上所有的奇观和异域 | 赢得他在世界上的地位 | 因英勇而被封为爵士 | 受到全世界人的了解和喜爱 | 在全世界树立威名}。",
+    "stage": 1,
     "context": "return \"{A minor noble | As the third in the line of succession | A young and brash noble | A skilled swordsman}, %name%'s life at court {had grown stale for him | was not exciting enough for him with endless studying of court etiquette and family lineage | felt like wasting the best time of his life | was not half as exciting to him as the tales of adventures, battles, fearsome beasts to vanquish and fair maidens to conquer}. {Wearing the family crest proudly | At the encouragement of his brother | To the frustration of his mother | Finally making a decision to change things}, %name% rode out to {prove himself | make a name for himself | earn glory on the battlefield | test his skills in battle} and {live life to its fullest as he imagined it from behind the castle walls | see all the wonders and exotic places of the world | earn his place in the world | be knighted for his valor | become famous and loved in all the known world | become infamous and feared in all the known world}.\";"
   },
   {
     "ID": 293420746,
     "key": "Adventurous Nobles tend to have high resolve and melee skills, but often neglect ranged defense.",
     "original": "Adventurous Nobles tend to have high resolve and melee skills, but often neglect ranged defense.",
-    "translation": "爱冒险的贵族往往有很高的决心和近战技能，但总是不重视远程防御。",
-    "stage": 5,
+    "translation": "爱冒险的贵族往往有很高的决心和近战技能，但往往不重视远程防御。",
+    "stage": 1,
     "context": "this.m.BackgroundDescription = 'Adventurous Nobles tend to have high resolve and melee skills, but often neglect ranged defense.'"
   },
   {

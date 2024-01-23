@@ -75,8 +75,8 @@
     "ID": 293412301,
     "key": "Treitenwacht",
     "original": "Treitenwacht",
-    "translation": "特莱滕卫所",
-    "stage": 5,
+    "translation": "猎场卫所",
+    "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
   {

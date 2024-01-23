@@ -171,7 +171,7 @@
     "ID": 293410885,
     "key": "Grafenhain",
     "original": "Grafenhain",
-    "translation": "伯爵林地",
+    "translation": "擢爵林地",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },

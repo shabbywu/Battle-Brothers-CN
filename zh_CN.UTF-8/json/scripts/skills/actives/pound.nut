@@ -59,8 +59,8 @@
     "ID": 293420209,
     "key": "%[/color] chance to stun on a hit",
     "original": "%[/color] chance to stun on a hit",
-    "translation": "%[/color] 几率在击中时造成击昏",
-    "stage": 5,
+    "translation": "%[/color] 几率造成击晕",
+    "stage": 1,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun on a hit'"
   },
   {
@@ -115,8 +115,8 @@
     "ID": 293420216,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有 [color=",
-    "stage": 5,
+    "translation": "命中时有 [color=",
+    "stage": 1,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun on a hit'"
   },
   {
