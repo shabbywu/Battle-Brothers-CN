@@ -3,7 +3,7 @@
     "ID": 293411158,
     "key": "Hageburg",
     "original": "Hageburg",
-    "translation": "哈格堡",
+    "translation": "园堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -11,7 +11,7 @@
     "ID": 293411159,
     "key": "Weissenburg",
     "original": "Weissenburg",
-    "translation": "怀森堡",
+    "translation": "白堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -19,7 +19,7 @@
     "ID": 293411160,
     "key": "Weinburg",
     "original": "Weinburg",
-    "translation": "魏茵堡",
+    "translation": "葡堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -27,7 +27,7 @@
     "ID": 293411161,
     "key": "Feldburg",
     "original": "Feldburg",
-    "translation": "费尔德堡",
+    "translation": "旷野堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -35,7 +35,7 @@
     "ID": 293411162,
     "key": "Grasburg",
     "original": "Grasburg",
-    "translation": "格拉斯堡",
+    "translation": "草堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -43,7 +43,7 @@
     "ID": 293411163,
     "key": "Wallburg",
     "original": "Wallburg",
-    "translation": "瓦尔堡",
+    "translation": "墙堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -51,7 +51,7 @@
     "ID": 293411164,
     "key": "Grunburg",
     "original": "Grunburg",
-    "translation": "格伦堡",
+    "translation": "绿堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -59,7 +59,7 @@
     "ID": 293411165,
     "key": "Kroonsburg",
     "original": "Kroonsburg",
-    "translation": "克伦斯堡",
+    "translation": "皇冠堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -67,7 +67,7 @@
     "ID": 293411166,
     "key": "Tiefenburg",
     "original": "Tiefenburg",
-    "translation": "蒂芬堡",
+    "translation": "洼堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -75,7 +75,7 @@
     "ID": 293411167,
     "key": "Muhlburg",
     "original": "Muhlburg",
-    "translation": "木尔堡",
+    "translation": "磨盘堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -83,7 +83,7 @@
     "ID": 293411168,
     "key": "Friedland",
     "original": "Friedland",
-    "translation": "弗里德兰德",
+    "translation": "平和之地",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -91,7 +91,7 @@
     "ID": 293411169,
     "key": "Haselburg",
     "original": "Haselburg",
-    "translation": "哈塞尔堡",
+    "translation": "榛子堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -99,7 +99,7 @@
     "ID": 293411170,
     "key": "Wehrburg",
     "original": "Wehrburg",
-    "translation": "韦尔堡",
+    "translation": "戍卫堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -107,7 +107,7 @@
     "ID": 293411171,
     "key": "Koppelburg",
     "original": "Koppelburg",
-    "translation": "科佩尔堡",
+    "translation": "围场堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -123,7 +123,7 @@
     "ID": 293411173,
     "key": "Gardeburg",
     "original": "Gardeburg",
-    "translation": "嘉德堡",
+    "translation": "亲卫堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -131,7 +131,7 @@
     "ID": 293411174,
     "key": "Freudburg",
     "original": "Freudburg",
-    "translation": "弗洛伊德堡",
+    "translation": "悦堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -139,7 +139,7 @@
     "ID": 293411175,
     "key": "Grafenburg",
     "original": "Grafenburg",
-    "translation": "格拉芬堡",
+    "translation": "擢爵堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -155,7 +155,7 @@
     "ID": 293411177,
     "key": "Auenburg",
     "original": "Auenburg",
-    "translation": "奥恩堡",
+    "translation": "洪原堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -163,7 +163,7 @@
     "ID": 293411178,
     "key": "Heuburg",
     "original": "Heuburg",
-    "translation": "霍伯格",
+    "translation": "干草堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -171,7 +171,7 @@
     "ID": 293411179,
     "key": "Langenburg",
     "original": "Langenburg",
-    "translation": "兰根堡",
+    "translation": "长伸堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -179,7 +179,7 @@
     "ID": 293411180,
     "key": "Weisenburg",
     "original": "Weisenburg",
-    "translation": "魏森堡",
+    "translation": "展堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -187,7 +187,7 @@
     "ID": 293411181,
     "key": "Sommerburg",
     "original": "Sommerburg",
-    "translation": "索默堡",
+    "translation": "夏堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -195,7 +195,7 @@
     "ID": 293411182,
     "key": "Weideburg",
     "original": "Weideburg",
-    "translation": "魏德堡",
+    "translation": "草场堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -203,7 +203,7 @@
     "ID": 293411183,
     "key": "Thalburg",
     "original": "Thalburg",
-    "translation": "萨尔堡",
+    "translation": "树海堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -211,7 +211,7 @@
     "ID": 293411184,
     "key": "Weihersburg",
     "original": "Weihersburg",
-    "translation": "魏赫斯堡",
+    "translation": "塘堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -219,7 +219,7 @@
     "ID": 293411185,
     "key": "Marksburg",
     "original": "Marksburg",
-    "translation": "马克斯堡",
+    "translation": "疆堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
@@ -227,7 +227,7 @@
     "ID": 293411186,
     "key": "Hemmelsburg",
     "original": "Hemmelsburg",
-    "translation": "亨梅尔斯堡",
+    "translation": "空堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   }

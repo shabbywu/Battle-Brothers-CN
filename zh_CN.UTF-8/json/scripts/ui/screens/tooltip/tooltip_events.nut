@@ -2603,7 +2603,7 @@
     "ID": 293423278,
     "key": " more perk points are spent",
     "original": " more perk points are spent",
-    "translation": "更多的技能点已经使用。",
+    "translation": "更多的特技点已经使用。",
     "stage": 1,
     "context": "text = 'Locked until ' + perk.Unlocks - player.getPerkPointsSpent() + ' more perk points are spent'"
   },
@@ -2763,7 +2763,7 @@
     "ID": 293423298,
     "key": "This character has leveled up. Increase his attributes and select a perk!",
     "original": "This character has leveled up. Increase his attributes and select a perk!",
-    "translation": "这个角色已经升级了。 增加他的属性并选择一个特技！",
+    "translation": "这个角色升级了。增加他的属性值并选择一个特技！",
     "stage": 1,
     "context": "text = 'This character has leveled up. Increase his attributes and select a perk!'"
   },

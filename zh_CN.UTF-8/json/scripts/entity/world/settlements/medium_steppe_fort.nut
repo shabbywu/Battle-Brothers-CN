@@ -123,8 +123,8 @@
     "ID": 293411462,
     "key": "Treitenburg",
     "original": "Treitenburg",
-    "translation": "特莱滕堡",
-    "stage": 5,
+    "translation": "猎场堡",
+    "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
   {

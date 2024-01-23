@@ -3,7 +3,7 @@
     "ID": 293411040,
     "key": "Ehelerstadt",
     "original": "Ehelerstadt",
-    "translation": "艾勒斯塔特",
+    "translation": "渔人城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -11,7 +11,7 @@
     "ID": 293411041,
     "key": "Ahlenstadt",
     "original": "Ahlenstadt",
-    "translation": "阿伦斯塔特",
+    "translation": "锥刺城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -19,7 +19,7 @@
     "ID": 293411042,
     "key": "Stakenland",
     "original": "Stakenland",
-    "translation": "斯泰肯兰德",
+    "translation": "撑船之地",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -27,7 +27,7 @@
     "ID": 293411043,
     "key": "Pfuhlstadt",
     "original": "Pfuhlstadt",
-    "translation": "普弗尔斯塔特",
+    "translation": "浊池城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -35,7 +35,7 @@
     "ID": 293411044,
     "key": "Tiefenmark",
     "original": "Tiefenmark",
-    "translation": "蒂芬马尔克",
+    "translation": "洼之边城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -43,7 +43,7 @@
     "ID": 293411045,
     "key": "Lauenstadt",
     "original": "Lauenstadt",
-    "translation": "劳恩斯塔特",
+    "translation": "洪城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -51,7 +51,7 @@
     "ID": 293411046,
     "key": "Fletland",
     "original": "Fletland",
-    "translation": "弗莱特兰德",
+    "translation": "水路之地",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -59,7 +59,7 @@
     "ID": 293411047,
     "key": "Moorland",
     "original": "Moorland",
-    "translation": "摩尔兰德",
+    "translation": "沼地",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -75,7 +75,7 @@
     "ID": 293411049,
     "key": "Austadt",
     "original": "Austadt",
-    "translation": "奥斯塔特",
+    "translation": "水边之城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -83,7 +83,7 @@
     "ID": 293411050,
     "key": "Muckenmark",
     "original": "Muckenmark",
-    "translation": "木肯马克",
+    "translation": "蚊虫边城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -99,7 +99,7 @@
     "ID": 293411052,
     "key": "Riedland",
     "original": "Riedland",
-    "translation": "瑞德兰",
+    "translation": "芦苇之地",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -107,7 +107,7 @@
     "ID": 293411053,
     "key": "Brookstadt",
     "original": "Brookstadt",
-    "translation": "布鲁克斯塔特",
+    "translation": "细流之城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -123,7 +123,7 @@
     "ID": 293411055,
     "key": "Schwarmstadt",
     "original": "Schwarmstadt",
-    "translation": "斯瓦姆斯塔特",
+    "translation": "虫群之城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -131,7 +131,7 @@
     "ID": 293411056,
     "key": "Fuhrtmark",
     "original": "Fuhrtmark",
-    "translation": "弗特马克",
+    "translation": "引水边城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -139,7 +139,7 @@
     "ID": 293411057,
     "key": "Auenhausen",
     "original": "Auenhausen",
-    "translation": "奥恩豪森",
+    "translation": "滨闾",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -147,7 +147,7 @@
     "ID": 293411058,
     "key": "Drakenstadt",
     "original": "Drakenstadt",
-    "translation": "德拉肯斯塔特",
+    "translation": "公鸭城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -155,7 +155,7 @@
     "ID": 293411059,
     "key": "Schwarzland",
     "original": "Schwarzland",
-    "translation": "施瓦兹兰",
+    "translation": "漆黑之地",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -163,7 +163,7 @@
     "ID": 293411060,
     "key": "Torfmark",
     "original": "Torfmark",
-    "translation": "托尔夫马克",
+    "translation": "泥炭边城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -171,7 +171,7 @@
     "ID": 293411061,
     "key": "Muckenland",
     "original": "Muckenland",
-    "translation": "姆肯兰德",
+    "translation": "蚊虫之地",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -179,7 +179,7 @@
     "ID": 293411062,
     "key": "Fennstedt",
     "original": "Fennstedt",
-    "translation": "芬斯特",
+    "translation": "淤地之城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -187,7 +187,7 @@
     "ID": 293411063,
     "key": "Streekland",
     "original": "Streekland",
-    "translation": "斯特里克兰德",
+    "translation": "划桨之地",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -195,7 +195,7 @@
     "ID": 293411064,
     "key": "Grunstadt",
     "original": "Grunstadt",
-    "translation": "格伦施塔特",
+    "translation": "绿水城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -203,15 +203,15 @@
     "ID": 293411065,
     "key": "Grafenwasser",
     "original": "Grafenwasser",
-    "translation": "伯爵之水",
-    "stage": 5,
+    "translation": "擢爵之水",
+    "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
   {
     "ID": 293411066,
     "key": "Sehlenstadt",
     "original": "Sehlenstadt",
-    "translation": "塞伦斯塔特",
+    "translation": "贵胄之城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -219,7 +219,7 @@
     "ID": 293411067,
     "key": "Schwarzmark",
     "original": "Schwarzmark",
-    "translation": "施瓦茨马克",
+    "translation": "黑色边城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -235,7 +235,7 @@
     "ID": 293411069,
     "key": "Schwartmark",
     "original": "Schwartmark",
-    "translation": "施瓦特马克",
+    "translation": "烂地边城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },
@@ -243,7 +243,7 @@
     "ID": 293411070,
     "key": "Niedermark",
     "original": "Niedermark",
-    "translation": "尼德马克",
+    "translation": "低地边城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   }

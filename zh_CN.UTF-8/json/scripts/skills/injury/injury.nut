@@ -11,8 +11,8 @@
     "ID": 293421997,
     "key": " days",
     "original": " days",
-    "translation": "天内",
-    "stage": 5,
+    "translation": "天",
+    "stage": 1,
     "context": "d = 'Will heal in ' + ht.Min + ' days'"
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293421999,
     "key": "Will be gone in ",
     "original": "Will be gone in ",
-    "translation": "将消失于",
-    "stage": 5,
+    "translation": "消退需要",
+    "stage": 1,
     "context": "d = 'Will be gone in ' + ht.Min + ' days'"
   },
   {
@@ -43,8 +43,8 @@
     "ID": 293422001,
     "key": "Will heal in ",
     "original": "Will heal in ",
-    "translation": "将痊愈于",
-    "stage": 2,
+    "translation": "痊愈需要",
+    "stage": 1,
     "context": "d = 'Will heal in ' + ht.Min + ' to ' + ht.Max + ' days'"
   },
   {

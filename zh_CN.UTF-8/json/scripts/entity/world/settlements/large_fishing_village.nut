@@ -147,7 +147,7 @@
     "ID": 293410830,
     "key": "Grafenhaven",
     "original": "Grafenhaven",
-    "translation": "伯爵港",
+    "translation": "擢爵港",
     "stage": 1,
     "context": "this.getRandomName(['Seestadt','Wikstadt','Konigshaven','Grafenhaven','Holnisland','Nieweland','Kampstadt','Krakenland','Blankenstadt','Harkenstadt','Tiefenstadt','Weissenstadt','Kobmanhaven','Grotenhaven','Konigswasser','Konigsmunde','Kronenkoog','Steinkai','Deichstadt'])"
   },

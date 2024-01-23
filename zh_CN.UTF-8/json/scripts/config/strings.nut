@@ -123,7 +123,7 @@
     "ID": 293405651,
     "key": "Sharp Rocks",
     "original": "Sharp Rocks",
-    "translation": "锋利的岩石",
+    "translation": "锐岩山",
     "stage": 1,
     "context": "'Sharp Rocks'"
   },
@@ -163,8 +163,8 @@
     "ID": 293405656,
     "key": "Windlands",
     "original": "Windlands",
-    "translation": "风地",
-    "stage": 5,
+    "translation": "风袭之地",
+    "stage": 1,
     "context": "'Windlands'"
   },
   {
@@ -203,8 +203,8 @@
     "ID": 293405661,
     "key": "Black Mole Woods",
     "original": "Black Mole Woods",
-    "translation": "黑鼹鼠森林",
-    "stage": 5,
+    "translation": "黑鼹丛林",
+    "stage": 1,
     "context": "'Black Mole Woods'"
   },
   {
@@ -259,7 +259,7 @@
     "ID": 293405668,
     "key": "Merry Mist",
     "original": "Merry Mist",
-    "translation": "快乐的雾",
+    "translation": "醉人薄雾",
     "stage": 1,
     "context": "'Merry Mist'"
   },
@@ -315,7 +315,7 @@
     "ID": 293405675,
     "key": "Middlemark",
     "original": "Middlemark",
-    "translation": "中标",
+    "translation": "中央标地",
     "stage": 1,
     "context": "'Middlemark'"
   },
@@ -331,7 +331,7 @@
     "ID": 293405677,
     "key": "Golden Flats",
     "original": "Golden Flats",
-    "translation": "金色平底鞋",
+    "translation": "金色平原",
     "stage": 1,
     "context": "'Golden Flats'"
   },
@@ -355,7 +355,7 @@
     "ID": 293405680,
     "key": "Gnarlheim",
     "original": "Gnarlheim",
-    "translation": "纳尔海姆",
+    "translation": "树瘿地",
     "stage": 1,
     "context": "'Gnarlheim'"
   },
@@ -387,7 +387,7 @@
     "ID": 293405684,
     "key": "Dark Thorn Wilds",
     "original": "Dark Thorn Wilds",
-    "translation": "黑暗荆棘荒野",
+    "translation": "荆棘暗野",
     "stage": 1,
     "context": "'Dark Thorn Wilds'"
   },
@@ -532,7 +532,7 @@
     "key": "Reliable",
     "original": "Reliable",
     "translation": "言而有信",
-    "stage": 1,
+    "stage": 5,
     "context": "'Reliable'"
   },
   {
@@ -579,7 +579,7 @@
     "ID": 293405708,
     "key": "Northurst",
     "original": "Northurst",
-    "translation": "诺瑟斯特",
+    "translation": "北地之刺",
     "stage": 1,
     "context": "'Northurst'"
   },
@@ -587,7 +587,7 @@
     "ID": 293405709,
     "key": "Tickbrake",
     "original": "Tickbrake",
-    "translation": "滴答声",
+    "translation": "扁虱灌木",
     "stage": 1,
     "context": "'Tickbrake'"
   },
@@ -651,7 +651,7 @@
     "ID": 293405717,
     "key": "The Emptiness",
     "original": "The Emptiness",
-    "translation": "虚无之地",
+    "translation": "空无之地",
     "stage": 1,
     "context": "'The Emptiness'"
   },
@@ -683,7 +683,7 @@
     "ID": 293405721,
     "key": "Dusky Forest",
     "original": "Dusky Forest",
-    "translation": "昏暗的森林",
+    "translation": "暮色昏林",
     "stage": 1,
     "context": "'Dusky Forest'"
   },
@@ -691,7 +691,7 @@
     "ID": 293405722,
     "key": "Misty Covert",
     "original": "Misty Covert",
-    "translation": "迷雾隐蔽",
+    "translation": "雾隐迷地",
     "stage": 1,
     "context": "'Misty Covert'"
   },
@@ -699,15 +699,15 @@
     "ID": 293405723,
     "key": "The Pale Expanse",
     "original": "The Pale Expanse",
-    "translation": "苍白大平原",
-    "stage": 5,
+    "translation": "苍白漫原",
+    "stage": 1,
     "context": "'The Pale Expanse'"
   },
   {
     "ID": 293405724,
     "key": "The Powder Plains",
     "original": "The Powder Plains",
-    "translation": "粉末平原",
+    "translation": "麦原",
     "stage": 1,
     "context": "'The Powder Plains'"
   },
@@ -723,7 +723,7 @@
     "ID": 293405726,
     "key": "Steinwall",
     "original": "Steinwall",
-    "translation": "斯坦沃尔",
+    "translation": "石壁山",
     "stage": 1,
     "context": "'Steinwall'"
   },
@@ -771,7 +771,7 @@
     "ID": 293405732,
     "key": "Getting hit by regular attacks does not cause a loss of fatigue anymore. Attacks that specifically target fatigue are unaffected.",
     "original": "Getting hit by regular attacks does not cause a loss of fatigue anymore. Attacks that specifically target fatigue are unaffected.",
-    "translation": "被常规攻击击中不会再导致疲劳值。专门针对疲劳值的攻击不受影响。",
+    "translation": "被常规攻击击中不会再导致疲劳值积累。专门针对疲劳值的攻击不受影响。",
     "stage": 1,
     "context": "Steadfast = 'Getting hit by regular attacks does not cause a loss of fatigue anymore. Attacks that specifically target fatigue are unaffected.'"
   },
@@ -811,7 +811,7 @@
     "ID": 293405737,
     "key": "Spiderwood",
     "original": "Spiderwood",
-    "translation": "蜘蛛木",
+    "translation": "蜘蛛丛林",
     "stage": 1,
     "context": "'Spiderwood'"
   },
@@ -819,7 +819,7 @@
     "ID": 293405738,
     "key": "Militia Veterans",
     "original": "Militia Veterans",
-    "translation": "民兵退伍军人",
+    "translation": "民兵精锐",
     "stage": 1,
     "context": "'Militia Veterans'"
   },
@@ -843,7 +843,7 @@
     "ID": 293405741,
     "key": "]100%[/color] chance to stun the target if not immune.\n\nThe Polemace no longer has a penalty for attacking targets directly adjacent.",
     "original": "]100%[/color] chance to stun the target if not immune.\n\nThe Polemace no longer has a penalty for attacking targets directly adjacent.",
-    "translation": "]100%[/color]。\n\n'长棍'(Polemace)攻击直接相邻的目标不再有惩罚。",
+    "translation": "]100%[/color] 的几率使其眩晕。\n\n使用长棍攻击近身敌人不再有命中率惩罚。",
     "stage": 1,
     "context": "SpecMace = 'Master maces to beat your opponents into submission, armored or not. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nKnock Out, Knock Over and Strike Down have a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stun the target if not immune.\n\nThe Polemace no longer has a penalty for attacking targets directly adjacent.'"
   },
@@ -851,7 +851,7 @@
     "ID": 293405742,
     "key": "Dry Steppe",
     "original": "Dry Steppe",
-    "translation": "干草原",
+    "translation": "燥干草原",
     "stage": 1,
     "context": "'Dry Steppe'"
   },
@@ -891,8 +891,8 @@
     "ID": 293405747,
     "key": "Vibrant Grove",
     "original": "Vibrant Grove",
-    "translation": "充满生机的树林",
-    "stage": 5,
+    "translation": "生境之林",
+    "stage": 1,
     "context": "'Vibrant Grove'"
   },
   {
@@ -995,7 +995,7 @@
     "ID": 293405760,
     "key": "]30%[/color] when attacking at 2 tiles of distance.\n\nDamage is increased by [color=",
     "original": "]30%[/color] when attacking at 2 tiles of distance.\n\nDamage is increased by [color=",
-    "translation": "]30%[/color](当攻击距离为2格时)\n\n伤害增加 [color=",
+    "translation": "]30%[/color]\n\n攻击3格距离的目标时，伤害增加 [color=",
     "stage": 1,
     "context": "SpecThrowing = 'Master throwing weapons to wound or kill the enemy before they even get close. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nDamage is increased by [color=' + this.Const.UI.Color.PositiveValue + ']30%[/color] when attacking at 2 tiles of distance.\n\nDamage is increased by [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] when attacking at 3 tiles of distance.'"
   },
@@ -1011,7 +1011,7 @@
     "ID": 293405762,
     "key": "Summer Daze",
     "original": "Summer Daze",
-    "translation": "夏日阳光",
+    "translation": "暑夏之地",
     "stage": 1,
     "context": "'Summer Daze'"
   },
@@ -1051,7 +1051,7 @@
     "ID": 293405767,
     "key": "Dire Woods",
     "original": "Dire Woods",
-    "translation": "可怕的树林",
+    "translation": "骇然丛林",
     "stage": 1,
     "context": "'Dire Woods'"
   },
@@ -1243,7 +1243,7 @@
     "ID": 293405791,
     "key": "Greenskin Catapults",
     "original": "Greenskin Catapults",
-    "translation": "绿皮弹射器",
+    "translation": "绿皮投石机",
     "stage": 1,
     "context": "'Greenskin Catapults'"
   },
@@ -1315,7 +1315,7 @@
     "ID": 293405800,
     "key": "]25%[/color] less Fatigue.\n\nRiposte no longer has a penalty to hitchance.\n\nGash has a [color=",
     "original": "]25%[/color] less Fatigue.\n\nRiposte no longer has a penalty to hitchance.\n\nGash has a [color=",
-    "translation": "]25%[/color] 疲劳值积累。\n\n'还击'不再有命中几率的惩罚。\n\n'冲撞'造成伤害的门槛减低[color=",
+    "translation": "]25%[/color]\n\n“还击”不再有命中率惩罚。\n\n“划砍”造成伤残的阈值降低 [color=",
     "stage": 1,
     "context": "SpecSword = \"Master the art of swordfighting and using your opponent's mistakes to your advantage. Skills build up [color=\" + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nRiposte no longer has a penalty to hitchance.\n\nGash has a [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] lower threshold to inflict injuries.\n\nSplit and Swing no longer have a penalty to hitchance and gain [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.'"
   },
@@ -1611,7 +1611,7 @@
     "ID": 293405837,
     "key": "]+5%[/color] chance to hit.",
     "original": "]+5%[/color] chance to hit.",
-    "translation": "]+5%[/color]",
+    "translation": "]5%[/color]",
     "stage": 1,
     "context": "SpecSword = \"Master the art of swordfighting and using your opponent's mistakes to your advantage. Skills build up [color=\" + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nRiposte no longer has a penalty to hitchance.\n\nGash has a [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] lower threshold to inflict injuries.\n\nSplit and Swing no longer have a penalty to hitchance and gain [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.'"
   },
@@ -1667,7 +1667,7 @@
     "ID": 293405844,
     "key": "]20%[/color] of damage inflicted with crossbows ignores armor.\n\nHandgonnes now require [color=",
     "original": "]20%[/color] of damage inflicted with crossbows ignores armor.\n\nHandgonnes now require [color=",
-    "translation": "]20%[/color] 伤害。\n\n火铳现在仅需要 [color=",
+    "translation": "]20%[/color] 的忽略护甲伤害。\n\n使用火铳的“重新装填”现在只消耗 [color=",
     "stage": 1,
     "context": "SpecCrossbow = 'Master crossbows and firearms, and learn where to aim best. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nAn additional [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] of damage inflicted with crossbows ignores armor.\n\nHandgonnes now require [color=' + this.Const.UI.Color.NegativeValue + ']6[/color] Action Points to reload and can be fired every turn instead of every other turn.'"
   },
@@ -1811,7 +1811,7 @@
     "ID": 293405862,
     "key": "Greenskin Catapult",
     "original": "Greenskin Catapult",
-    "translation": "绿皮弹射器",
+    "translation": "绿皮投石机",
     "stage": 1,
     "context": "'Greenskin Catapult'"
   },
@@ -1843,7 +1843,7 @@
     "ID": 293405866,
     "key": "Fallen Hero",
     "original": "Fallen Hero",
-    "translation": "堕落的英雄",
+    "translation": "堕落英雄",
     "stage": 1,
     "context": "'Fallen Hero'"
   },
@@ -2259,7 +2259,7 @@
     "ID": 293405918,
     "key": "Gilded soldiers",
     "original": "Gilded soldiers",
-    "translation": "镀金士兵",
+    "translation": "镀金者的士兵",
     "stage": 1,
     "context": "'Gilded soldiers'"
   },
@@ -2779,7 +2779,7 @@
     "ID": 293405983,
     "key": "]25%[/color] less Fatigue.\n\nDamage is increased by [color=",
     "original": "]25%[/color] less Fatigue.\n\nDamage is increased by [color=",
-    "translation": "]25%[/color] 疲劳值积累。\n\n当攻击距离为2格时，伤害会增加[color=",
+    "translation": "]25%[/color]\n\n攻击2格距离的目标时，伤害增加 [color=",
     "stage": 1,
     "context": "SpecThrowing = 'Master throwing weapons to wound or kill the enemy before they even get close. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nDamage is increased by [color=' + this.Const.UI.Color.PositiveValue + ']30%[/color] when attacking at 2 tiles of distance.\n\nDamage is increased by [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] when attacking at 3 tiles of distance.'"
   },
@@ -3139,7 +3139,7 @@
     "ID": 293406028,
     "key": "]33%[/color] more damage against armor.\n\nShatter gains [color=",
     "original": "]33%[/color] more damage against armor.\n\nShatter gains [color=",
-    "translation": "]33%[/color]\n\n'震碎'的命中率提高[color=",
+    "translation": "]33%[/color]\n\n“震碎”的命中率提高 [color=",
     "stage": 1,
     "context": "SpecHammer = 'Master hammers and fighting against heavily armored opponents. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] more damage against armor.\n\nShatter gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.\n\nThe Polehammer no longer has a penalty for attacking targets directly adjacent.'"
   },
@@ -3235,7 +3235,7 @@
     "ID": 293406040,
     "key": "]25%[/color] less Fatigue.\n\nAn additional [color=",
     "original": "]25%[/color] less Fatigue.\n\nAn additional [color=",
-    "translation": "]25%[/color] 疲劳值积累。\n\n弩箭额外造成的无视护甲的 [color=",
+    "translation": "]25%[/color]\n\n弩额外造成 [color=",
     "stage": 1,
     "context": "SpecCrossbow = 'Master crossbows and firearms, and learn where to aim best. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nAn additional [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] of damage inflicted with crossbows ignores armor.\n\nHandgonnes now require [color=' + this.Const.UI.Color.NegativeValue + ']6[/color] Action Points to reload and can be fired every turn instead of every other turn.'"
   },
@@ -3867,7 +3867,7 @@
     "ID": 293406119,
     "key": "]+5%[/color] chance to hit.\n\nThe Polehammer no longer has a penalty for attacking targets directly adjacent.",
     "original": "]+5%[/color] chance to hit.\n\nThe Polehammer no longer has a penalty for attacking targets directly adjacent.",
-    "translation": "]+5%[/color] 命中率。\n\n长柄锤(Polehammer)攻击直接相邻的目标不再有惩罚。",
+    "translation": "]5%[/color]\n\n使用长锤攻击近身敌人不再有命中率惩罚。",
     "stage": 1,
     "context": "SpecHammer = 'Master hammers and fighting against heavily armored opponents. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] more damage against armor.\n\nShatter gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.\n\nThe Polehammer no longer has a penalty for attacking targets directly adjacent.'"
   },
@@ -3875,7 +3875,7 @@
     "ID": 293406120,
     "key": "Master crossbows and firearms, and learn where to aim best. Skills build up [color=",
     "original": "Master crossbows and firearms, and learn where to aim best. Skills build up [color=",
-    "translation": "精通弓箭和火器，并学习最佳瞄准位置。武器技能减少 [color=",
+    "translation": "精通弩和火器，一发破的。弩和火器技能积累的疲劳值减少 [color=",
     "stage": 1,
     "context": "SpecCrossbow = 'Master crossbows and firearms, and learn where to aim best. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nAn additional [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] of damage inflicted with crossbows ignores armor.\n\nHandgonnes now require [color=' + this.Const.UI.Color.NegativeValue + ']6[/color] Action Points to reload and can be fired every turn instead of every other turn.'"
   },
@@ -4171,7 +4171,7 @@
     "ID": 293406157,
     "key": "]25%[/color] less Fatigue.\n\nPolearm skills have their Action Point cost reduced to [color=",
     "original": "]25%[/color] less Fatigue.\n\nPolearm skills have their Action Point cost reduced to [color=",
-    "translation": "]25%[/color] 疲劳值积累。\n\n长柄武器技能的行动点消耗减少到[color=",
+    "translation": "]25%[/color]\n\n长柄武器技能消耗的AP降低至 [color=",
     "stage": 1,
     "context": "SpecPolearm = 'Master polearms and keeping the enemy at bay. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nPolearm skills have their Action Point cost reduced to [color=' + this.Const.UI.Color.NegativeValue + ']5[/color], and no longer have a penalty for attacking targets directly adjacent.'"
   },
@@ -4795,7 +4795,7 @@
     "ID": 293406235,
     "key": "Master the art of swordfighting and using your opponent's mistakes to your advantage. Skills build up [color=",
     "original": "Master the art of swordfighting and using your opponent's mistakes to your advantage. Skills build up [color=",
-    "translation": "精通剑术, 利用对手的失误逆风翻盘。武器技能减少 [color=",
+    "translation": "精通剑术，利用对手的失误把握优势。剑技能积累的疲劳值减少 [color=",
     "stage": 1,
     "context": "SpecSword = \"Master the art of swordfighting and using your opponent's mistakes to your advantage. Skills build up [color=\" + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nRiposte no longer has a penalty to hitchance.\n\nGash has a [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] lower threshold to inflict injuries.\n\nSplit and Swing no longer have a penalty to hitchance and gain [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.'"
   },
@@ -4931,7 +4931,7 @@
     "ID": 293406252,
     "key": "Master polearms and keeping the enemy at bay. Skills build up [color=",
     "original": "Master polearms and keeping the enemy at bay. Skills build up [color=",
-    "translation": "精通长柄武器, 将敌人拒之门外。武器技能减少 [color=",
+    "translation": "精通长柄，御敌于外。长柄技能积累的疲劳值减少 [color=",
     "stage": 1,
     "context": "SpecPolearm = 'Master polearms and keeping the enemy at bay. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nPolearm skills have their Action Point cost reduced to [color=' + this.Const.UI.Color.NegativeValue + ']5[/color], and no longer have a penalty for attacking targets directly adjacent.'"
   },
@@ -4955,7 +4955,7 @@
     "ID": 293406255,
     "key": "]5[/color], and no longer have a penalty for attacking targets directly adjacent.",
     "original": "]5[/color], and no longer have a penalty for attacking targets directly adjacent.",
-    "translation": "]5[/color], 并且攻击直接相邻的目标不再有惩罚。",
+    "translation": "]5[/color]，并且使用长柄武器攻击近身敌人不再有命中率惩罚。",
     "stage": 1,
     "context": "SpecPolearm = 'Master polearms and keeping the enemy at bay. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nPolearm skills have their Action Point cost reduced to [color=' + this.Const.UI.Color.NegativeValue + ']5[/color], and no longer have a penalty for attacking targets directly adjacent.'"
   },
@@ -5947,8 +5947,8 @@
     "ID": 293406379,
     "key": "Markland Pikes",
     "original": "Markland Pikes",
-    "translation": "马克兰德之矛",
-    "stage": 5,
+    "translation": "略地之矛",
+    "stage": 1,
     "context": "'Markland Pikes'"
   },
   {
@@ -6955,7 +6955,7 @@
     "ID": 293406505,
     "key": "Master the art of archery and pelting your opponents with arrows from afar. Skills build up [color=",
     "original": "Master the art of archery and pelting your opponents with arrows from afar. Skills build up [color=",
-    "translation": "精通射箭，从远处用箭射向你的对手。武器技能减少 [color=",
+    "translation": "精通射箭，百步穿杨。弓技能积累的疲劳值减少 [color=",
     "stage": 1,
     "context": "SpecBow = 'Master the art of archery and pelting your opponents with arrows from afar. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nView range and maximum firing range with bows is increased by [color=' + this.Const.UI.Color.PositiveValue + ']+1[/color].'"
   },
@@ -6963,7 +6963,7 @@
     "ID": 293406506,
     "key": "]25%[/color] less Fatigue.\n\nStab, Puncture and Deathblow have a reduced Action Point cost to allow for an additional attack each turn.",
     "original": "]25%[/color] less Fatigue.\n\nStab, Puncture and Deathblow have a reduced Action Point cost to allow for an additional attack each turn.",
-    "translation": "]25%[/color] 疲劳值积累。\n\n'刺杀'、'穿刺'和'致命一击'的行动点成本降低，以允许每回合进行额外的攻击。",
+    "translation": "]25%[/color]\n\n“刺击”、“穿刺”和“致命攻击”消耗的AP降低，使每回合可以额外攻击一次。",
     "stage": 1,
     "context": "SpecDagger = 'Master swift and deadly daggers. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nStab, Puncture and Deathblow have a reduced Action Point cost to allow for an additional attack each turn.'"
   },
@@ -7499,7 +7499,7 @@
     "ID": 293406573,
     "key": "]6[/color] Action Points to reload and can be fired every turn instead of every other turn.",
     "original": "]6[/color] Action Points to reload and can be fired every turn instead of every other turn.",
-    "translation": "]6[/color] 个行动点数来重新装填，并且可以每回合发射，而不是每隔一回合。",
+    "translation": "]6[/color] AP，并且可以每回合而不是隔一回合开火。",
     "stage": 1,
     "context": "SpecCrossbow = 'Master crossbows and firearms, and learn where to aim best. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nAn additional [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] of damage inflicted with crossbows ignores armor.\n\nHandgonnes now require [color=' + this.Const.UI.Color.NegativeValue + ']6[/color] Action Points to reload and can be fired every turn instead of every other turn.'"
   },
@@ -7675,7 +7675,7 @@
     "ID": 293406595,
     "key": "]50%[/color] lower threshold to inflict injuries.\n\nSplit and Swing no longer have a penalty to hitchance and gain [color=",
     "original": "]50%[/color] lower threshold to inflict injuries.\n\nSplit and Swing no longer have a penalty to hitchance and gain [color=",
-    "translation": "]50%[/color]伤害门槛\n\n'裂盾(split)'和'挥击(Swing)'不再受到命中率惩罚, 反而提高[color=",
+    "translation": "]50%[/color]\n\n剑技能“裂盾”和“挥斩”不再有命中率惩罚，并且命中率提高 [color=",
     "stage": 1,
     "context": "SpecSword = \"Master the art of swordfighting and using your opponent's mistakes to your advantage. Skills build up [color=\" + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nRiposte no longer has a penalty to hitchance.\n\nGash has a [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] lower threshold to inflict injuries.\n\nSplit and Swing no longer have a penalty to hitchance and gain [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.'"
   },
@@ -7819,7 +7819,7 @@
     "ID": 293406613,
     "key": "]25%[/color] less Fatigue.\n\nView range and maximum firing range with bows is increased by [color=",
     "original": "]25%[/color] less Fatigue.\n\nView range and maximum firing range with bows is increased by [color=",
-    "translation": "]25%[/color] 疲劳值积累。/n\n使用弓箭时的视野范围和最大射程增加[color=",
+    "translation": "]25%[/color]\n\n视野和使用弓的最大射程增加 [color=",
     "stage": 1,
     "context": "SpecBow = 'Master the art of archery and pelting your opponents with arrows from afar. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nView range and maximum firing range with bows is increased by [color=' + this.Const.UI.Color.PositiveValue + ']+1[/color].'"
   },
@@ -8227,7 +8227,7 @@
     "ID": 293406664,
     "key": "]25%[/color] less Fatigue.\n\nBleeding damage inflicted by cleavers and whips is doubled to [color=",
     "original": "]25%[/color] less Fatigue.\n\nBleeding damage inflicted by cleavers and whips is doubled to [color=",
-    "translation": "]25%[/color]\n\n砍刀和鞭子造成的每回合流血伤害分别加倍至 [color=",
+    "translation": "]25%[/color]\n\n使用砍刀和鞭子造成的每回合流血伤害分别加倍至 [color=",
     "stage": 1,
     "context": "SpecCleaver = 'Master cleavers to inflict gruesome wounds. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nBleeding damage inflicted by cleavers and whips is doubled to [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']20[/color] per turn, respectively.\n\nDisarm only has half the penalty to hit.'"
   },
@@ -8291,7 +8291,7 @@
     "ID": 293406672,
     "key": "Master hammers and fighting against heavily armored opponents. Skills build up [color=",
     "original": "Master hammers and fighting against heavily armored opponents. Skills build up [color=",
-    "translation": "精通铁锤, 擅长与重装敌人对战。武器技能减少 [color=",
+    "translation": "精通锤子，对抗重甲对手。锤技能积累的疲劳值减少 [color=",
     "stage": 1,
     "context": "SpecHammer = 'Master hammers and fighting against heavily armored opponents. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] more damage against armor.\n\nShatter gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.\n\nThe Polehammer no longer has a penalty for attacking targets directly adjacent.'"
   },
@@ -8435,7 +8435,7 @@
     "ID": 293406690,
     "key": "]25%[/color] less Fatigue.\n\nKnock Out, Knock Over and Strike Down have a [color=",
     "original": "]25%[/color] less Fatigue.\n\nKnock Out, Knock Over and Strike Down have a [color=",
-    "translation": "]25%[/color] 疲劳值积累。\n\n只要免疫豁免未通过, '锤倒'，'撞倒'和'击倒'的击昏概率提升至[color=",
+    "translation": "]25%[/color]\n\n如果目标不免疫，“锤倒”、“撞倒”和“击倒”有 [color=",
     "stage": 1,
     "context": "SpecMace = 'Master maces to beat your opponents into submission, armored or not. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nKnock Out, Knock Over and Strike Down have a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stun the target if not immune.\n\nThe Polemace no longer has a penalty for attacking targets directly adjacent.'"
   },
@@ -8635,7 +8635,7 @@
     "ID": 293406715,
     "key": "Master maces to beat your opponents into submission, armored or not. Skills build up [color=",
     "original": "Master maces to beat your opponents into submission, armored or not. Skills build up [color=",
-    "translation": "精通钉头锤, 不管穿没穿装甲，锤就完事。武器技能减少 [color=",
+    "translation": "精通骨朵，不论护甲一通暴打。骨朵技能积累的疲劳值减少 [color=",
     "stage": 1,
     "context": "SpecMace = 'Master maces to beat your opponents into submission, armored or not. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nKnock Out, Knock Over and Strike Down have a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stun the target if not immune.\n\nThe Polemace no longer has a penalty for attacking targets directly adjacent.'"
   },
@@ -8699,7 +8699,7 @@
     "ID": 293406723,
     "key": "]25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=",
     "original": "]25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=",
-    "translation": "]25%[/color] 疲劳值积累。\n\n'摧毁盔甲'会护甲造成的伤害提高 [color=",
+    "translation": "]25%[/color]\n\n“破坏护甲”和“摧毁护甲”造成的护甲伤害增加 [color=",
     "stage": 1,
     "context": "SpecHammer = 'Master hammers and fighting against heavily armored opponents. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] more damage against armor.\n\nShatter gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.\n\nThe Polehammer no longer has a penalty for attacking targets directly adjacent.'"
   },
@@ -9443,7 +9443,7 @@
     "ID": 293406816,
     "key": "Master swift and deadly daggers. Skills build up [color=",
     "original": "Master swift and deadly daggers. Skills build up [color=",
-    "translation": "精通迅捷而致命的匕首。武器技能减少 [color=",
+    "translation": "精通匕首，迅捷而致命。匕首技能积累的疲劳值减少 [color=",
     "stage": 1,
     "context": "SpecDagger = 'Master swift and deadly daggers. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nStab, Puncture and Deathblow have a reduced Action Point cost to allow for an additional attack each turn.'"
   },
@@ -9507,7 +9507,7 @@
     "ID": 293406824,
     "key": "Master throwing weapons to wound or kill the enemy before they even get close. Skills build up [color=",
     "original": "Master throwing weapons to wound or kill the enemy before they even get close. Skills build up [color=",
-    "translation": "精通投掷武器，在敌人靠近之前就将其击伤或杀死。武器技能减少 [color=",
+    "translation": "精通投掷，先下手为强。投掷技能积累的疲劳值减少 [color=",
     "stage": 1,
     "context": "SpecThrowing = 'Master throwing weapons to wound or kill the enemy before they even get close. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nDamage is increased by [color=' + this.Const.UI.Color.PositiveValue + ']30%[/color] when attacking at 2 tiles of distance.\n\nDamage is increased by [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] when attacking at 3 tiles of distance.'"
   },

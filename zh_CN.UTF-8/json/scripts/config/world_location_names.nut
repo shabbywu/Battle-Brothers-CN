@@ -307,7 +307,7 @@
     "ID": 293407021,
     "key": "Weidenau",
     "original": "Weidenau",
-    "translation": "韦德诺",
+    "translation": "河草滩",
     "stage": 1,
     "context": "'Weidenau'"
   },

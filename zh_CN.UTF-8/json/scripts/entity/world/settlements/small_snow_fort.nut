@@ -299,7 +299,7 @@
     "ID": 293412252,
     "key": "Vardegard",
     "original": "Vardegard",
-    "translation": "瓦尔德加德",
+    "translation": "岩山卫",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmgard','Vallgard','Falkenholm','Glommenwold','Gunnweir','Asatorn','Kungswold','Hagenswold','Lindweir','Hindaswolt','Lokewold','Ringwold','Hakonswold'])"
   }

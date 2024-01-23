@@ -283,7 +283,7 @@
     "ID": 293411609,
     "key": "Vardegard",
     "original": "Vardegard",
-    "translation": "瓦尔德加德",
+    "translation": "岩山卫",
     "stage": 1,
     "context": "this.getRandomName(['Tonderhovel','Horngard','Grimhaug','Hellehovel','Kalkhovel','Lydersgard','Homsgard','Sommersholm','Brammingholm','Vardegard','Norreholm','Birkehovel','Donnersgard','Tanghaug','Helvikholm','Torvaholm','Skjoldgard','Eidsvikholm','Halshovel','Gerholm','Gunnholm','Asengard','Hammargard','Vikeholm','Skandergard','Skallegard','Varehaug','Gufirsgard','Hafnarsholm','Ragnhaug','Torgeirsholm','Heersgard','Holmhaug','Lundirsholm'])"
   }

@@ -28,7 +28,7 @@
     "key": "Have men with the hammer mastery perk",
     "original": "Have men with the hammer mastery perk",
     "translation": "培训掌握锤精通特技的成员",
-    "stage": 2,
+    "stage": 1,
     "context": "this.m.UIText = 'Have men with the hammer mastery perk'"
   },
   {

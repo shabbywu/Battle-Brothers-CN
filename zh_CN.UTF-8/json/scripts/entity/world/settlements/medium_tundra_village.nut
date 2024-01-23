@@ -35,7 +35,7 @@
     "ID": 293411614,
     "key": "Varde",
     "original": "Varde",
-    "translation": "瓦尔德",
+    "translation": "岩镇",
     "stage": 1,
     "context": "this.getRandomName(['Tonder','Lydersholm','Kravlund','Bola','Ravestad','Alsliv','Hellevad','Heimstad','Hornheim','Jerstal','Hejsager','Kalk','Sommerstad','Horn','Bramming','Varde','Norre','Vistadt','Olbing','Grimstad','Birkeland','Donnerstad','Tangvall','Helvik','Ogna','Norheim','Undheim','Torvastad','Skjold','Eidsvik','Halheim','Gerheim','Asenstad','Gunnheim','Hammar'])"
   },
