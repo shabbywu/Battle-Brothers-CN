@@ -43,7 +43,7 @@
     "ID": 293411137,
     "key": "Stohlburg",
     "original": "Stohlburg",
-    "translation": "板凳堡",
+    "translation": "树桩堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -83,7 +83,7 @@
     "ID": 293411142,
     "key": "Wikburg",
     "original": "Wikburg",
-    "translation": "聚落堡",
+    "translation": "维京堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -147,7 +147,7 @@
     "ID": 293411150,
     "key": "Blankenburg",
     "original": "Blankenburg",
-    "translation": "苍茫堡",
+    "translation": "沧海堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },

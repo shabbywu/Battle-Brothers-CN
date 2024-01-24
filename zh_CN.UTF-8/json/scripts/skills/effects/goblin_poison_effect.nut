@@ -11,7 +11,7 @@
     "ID": 293421503,
     "key": "[/color] more turn(s).",
     "original": "[/color] more turn(s).",
-    "translation": "[/color] 回合中慢慢消失。",
+    "translation": "[/color] 回合中慢慢消退。",
     "stage": 1,
     "context": "return 'This character has poison running through his veins. His vision is blurred, his speech slurred and it takes a great deal of effort for him to move in a coordinated fashion. The effect will slowly wear off over [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] more turn(s).';"
   },

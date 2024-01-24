@@ -43,8 +43,8 @@
     "ID": 293421397,
     "key": "Sprayed with Acid",
     "original": "Sprayed with Acid",
-    "translation": "被喷酸",
-    "stage": 5,
+    "translation": "酸液溅浸",
+    "stage": 1,
     "context": "this.m.Name = 'Sprayed with Acid'"
   }
 ]

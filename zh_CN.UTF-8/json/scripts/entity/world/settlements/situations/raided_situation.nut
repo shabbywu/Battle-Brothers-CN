@@ -3,7 +3,7 @@
     "ID": 293411825,
     "key": "Raided",
     "original": "Raided",
-    "translation": "掠夺",
+    "translation": "被掠夺",
     "stage": 1,
     "context": "this.m.Name = 'Raided'"
   },
@@ -11,7 +11,7 @@
     "ID": 293411826,
     "key": "This place has been recently raided! It's suffered damage, has lost valuable goods and supplies, and lives were lost.",
     "original": "This place has been recently raided! It's suffered damage, has lost valuable goods and supplies, and lives were lost.",
-    "translation": "这地方最近被掠夺了！它遭受了破坏，失去了宝贵的货物和补给，生命也因此丧失了。",
+    "translation": "这地方最近被掠夺了！它遭受了破坏，失去了宝贵的货物和补给，许多人因此丧命。",
     "stage": 1,
     "context": "this.m.Description = \"This place has been recently raided! It's suffered damage, has lost valuable goods and supplies, and lives were lost.\""
   },

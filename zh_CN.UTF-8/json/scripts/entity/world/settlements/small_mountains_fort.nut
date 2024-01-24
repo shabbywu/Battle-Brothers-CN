@@ -155,7 +155,7 @@
     "ID": 293412207,
     "key": "Hohenschanze",
     "original": "Hohenschanze",
-    "translation": "霍恩山策",
+    "translation": "高山砦",
     "stage": 1,
     "context": "this.getRandomName(['Wallstein','Hohenwacht','Steinberg','Wolfswall','Felswall','Steinwacht','Eisenwall','Jaderwall','Hohenschanze','Wallheim','Gronenwall','Thalwacht','Schanzberg','Windwacht','Turmwacht','Felswacht','Hohenturm','Adlerwacht','Scharfenstein','Oberwallheim','Hochwall','Bergwall','Finkenwacht','Greifenwall','Himmelswacht'])"
   },

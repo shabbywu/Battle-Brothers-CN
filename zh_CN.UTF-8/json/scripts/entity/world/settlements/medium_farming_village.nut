@@ -19,7 +19,7 @@
     "ID": 293411189,
     "key": "Schnellen",
     "original": "Schnellen",
-    "translation": "斯涅伦",
+    "translation": "雪镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -35,7 +35,7 @@
     "ID": 293411191,
     "key": "Altenhof",
     "original": "Altenhof",
-    "translation": "奥尔腾霍夫",
+    "translation": "老院镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -43,7 +43,7 @@
     "ID": 293411192,
     "key": "Durbach",
     "original": "Durbach",
-    "translation": "德巴赫",
+    "translation": "硬河湾",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -51,7 +51,7 @@
     "ID": 293411193,
     "key": "Wagenheim",
     "original": "Wagenheim",
-    "translation": "瓦根海姆",
+    "translation": "车乡",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -59,7 +59,7 @@
     "ID": 293411194,
     "key": "Markdorf",
     "original": "Markdorf",
-    "translation": "马尔克多夫",
+    "translation": "疆镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -67,7 +67,7 @@
     "ID": 293411195,
     "key": "Ivendorf",
     "original": "Ivendorf",
-    "translation": "因文道夫",
+    "translation": "神恩镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -75,7 +75,7 @@
     "ID": 293411196,
     "key": "Muhlenheim",
     "original": "Muhlenheim",
-    "translation": "姆伦海姆",
+    "translation": "碾磨乡",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -83,7 +83,7 @@
     "ID": 293411197,
     "key": "Koppeldorf",
     "original": "Koppeldorf",
-    "translation": "科珀道夫",
+    "translation": "围场镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -91,7 +91,7 @@
     "ID": 293411198,
     "key": "Hage",
     "original": "Hage",
-    "translation": "哈格",
+    "translation": "冰雹地",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -99,7 +99,7 @@
     "ID": 293411199,
     "key": "Freidorf",
     "original": "Freidorf",
-    "translation": "弗赖多夫",
+    "translation": "阔地镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -107,7 +107,7 @@
     "ID": 293411200,
     "key": "Saxdorf",
     "original": "Saxdorf",
-    "translation": "萨克斯多夫",
+    "translation": "宝剑镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -115,7 +115,7 @@
     "ID": 293411201,
     "key": "Grafenheide",
     "original": "Grafenheide",
-    "translation": "格拉芬海德",
+    "translation": "擢爵原",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -123,7 +123,7 @@
     "ID": 293411202,
     "key": "Varel",
     "original": "Varel",
-    "translation": "瓦雷尔",
+    "translation": "蕨镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -131,7 +131,7 @@
     "ID": 293411203,
     "key": "Wiesendorf",
     "original": "Wiesendorf",
-    "translation": "维森多夫",
+    "translation": "草地镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -139,7 +139,7 @@
     "ID": 293411204,
     "key": "Hermannshof",
     "original": "Hermannshof",
-    "translation": "赫尔曼霍夫",
+    "translation": "战士镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -147,7 +147,7 @@
     "ID": 293411205,
     "key": "Dreifelden",
     "original": "Dreifelden",
-    "translation": "德雷菲登",
+    "translation": "三地镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -155,7 +155,7 @@
     "ID": 293411206,
     "key": "Neudorf",
     "original": "Neudorf",
-    "translation": "诺多夫",
+    "translation": "新镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -163,7 +163,7 @@
     "ID": 293411207,
     "key": "Meiding",
     "original": "Meiding",
-    "translation": "梅丁",
+    "translation": "女工镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -179,7 +179,7 @@
     "ID": 293411209,
     "key": "Bitterfeld",
     "original": "Bitterfeld",
-    "translation": "毕特费尔德",
+    "translation": "苦酒地",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -187,7 +187,7 @@
     "ID": 293411210,
     "key": "Hemmeln",
     "original": "Hemmeln",
-    "translation": "海梅尔恩",
+    "translation": "空镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -195,7 +195,7 @@
     "ID": 293411211,
     "key": "Grunfelde",
     "original": "Grunfelde",
-    "translation": "格伦费尔德",
+    "translation": "绿地镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -203,7 +203,7 @@
     "ID": 293411212,
     "key": "Kochendorf",
     "original": "Kochendorf",
-    "translation": "科肯多夫",
+    "translation": "沸水镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -219,7 +219,7 @@
     "ID": 293411214,
     "key": "Bockhorn",
     "original": "Bockhorn",
-    "translation": "博克霍恩",
+    "translation": "角岬",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -227,7 +227,7 @@
     "ID": 293411215,
     "key": "Wiese",
     "original": "Wiese",
-    "translation": "维瑟",
+    "translation": "草地镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -235,7 +235,7 @@
     "ID": 293411216,
     "key": "Harlingen",
     "original": "Harlingen",
-    "translation": "哈灵根",
+    "translation": "毛絮镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -243,7 +243,7 @@
     "ID": 293411217,
     "key": "Weissenhaus",
     "original": "Weissenhaus",
-    "translation": "魏森豪斯",
+    "translation": "白乡",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -251,7 +251,7 @@
     "ID": 293411218,
     "key": "Heuweiler",
     "original": "Heuweiler",
-    "translation": "赫维勒尔",
+    "translation": "干草乡",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   }

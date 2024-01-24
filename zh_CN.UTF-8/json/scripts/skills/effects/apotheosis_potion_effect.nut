@@ -3,7 +3,7 @@
     "ID": 293421411,
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
-    "translation": "下次喝下突变药剂时会导致更长时间的疾病",
+    "translation": "下次喝下突变药剂会导致更长时间的疾病",
     "stage": 1,
     "context": "text = 'Further mutations will cause a longer period of sickness'"
   },
@@ -11,7 +11,7 @@
     "ID": 293421412,
     "key": "This character has consumed a particularly powerful stimulant. While the delivery mechanism itself is revolutionary, the drug itself is not as powerful as the grandeur of its name suggests.",
     "original": "This character has consumed a particularly powerful stimulant. While the delivery mechanism itself is revolutionary, the drug itself is not as powerful as the grandeur of its name suggests.",
-    "translation": "该角色摄入了一种特别强效的兴奋剂。虽然其给药机制本身具有革命性，但这种药物本身并不像其华丽的名称所暗示的那样强大。",
+    "translation": "该角色摄入了一种特别强效的兴奋剂。虽然其给药机制具有革命性，但这种药物并不像其华丽的名称所暗示的那样强大。",
     "stage": 1,
     "context": "return 'This character has consumed a particularly powerful stimulant. While the delivery mechanism itself is revolutionary, the drug itself is not as powerful as the grandeur of its name suggests.';"
   },

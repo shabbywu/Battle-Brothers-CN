@@ -3,8 +3,8 @@
     "ID": 293421809,
     "key": "[/color] more turn(s).",
     "original": "[/color] more turn(s).",
-    "translation": "[/color] 回合中慢慢消失。",
-    "stage": 5,
+    "translation": "[/color] 回合中慢慢消退。",
+    "stage": 1,
     "context": "return 'By means of dark magic, this character has withered to have the physique of an old man. Will slowly wear off over [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] more turn(s).';"
   },
   {

@@ -67,7 +67,7 @@
     "ID": 293412356,
     "key": "Dusterwall",
     "original": "Dusterwall",
-    "translation": "达斯特沃尔",
+    "translation": "暗林寨",
     "stage": 1,
     "context": "this.getRandomName(['Schwarzwacht','Mooswall','Pfuhlwall','Moorwacht','Furthwacht','Stakenwall','Kolkwacht','Auenturm','Torfwall','Pfuhlwacht','Krautwacht','Moorwacht','Birkwall','Birkturm','Brunnwall','Kaltenwacht','Furthwacht','Grunenturm','Suhlwacht','Schwarzgard','Moorgard','Wehrturm','Furthwehr','Schanzmoor','Wallpfuhl','Wallfurt','Auenwacht','Brookwall','Fennwacht','Fackelwacht','Bruchwacht','Riedwehr','Rohrwall','Dusterwall'])"
   },
