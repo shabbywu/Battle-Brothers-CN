@@ -19,8 +19,8 @@
     "ID": 293410781,
     "key": "Varelmark",
     "original": "Varelmark",
-    "translation": "飞鸟边城",
-    "stage": 2,
+    "translation": "蕨之边城",
+    "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },
   {
@@ -155,7 +155,7 @@
     "ID": 293410798,
     "key": "Kochenland",
     "original": "Kochenland",
-    "translation": "烧水之地",
+    "translation": "沸水地",
     "stage": 1,
     "context": "this.getRandomName(['Weidemark','Hemmelmark','Kochenland','Altenstadt','Schnellmark','Neumark','Freistadt','Weissenstadt','Muhlstadt','Grunmark','Ivenstadt','Grafenstadt','Konigsland','Dreigrafen','Koppelstadt','Varelmark','Hageland','Dulmen','Wiesenmark','Heuland','Auenmark','Kornstadt','Konigsheim','Wedelmark','Albstadt','Kammersmark','Adelsland','Heldenland','Dinkelsmark','Schwanstadt','Grunhain'])"
   },

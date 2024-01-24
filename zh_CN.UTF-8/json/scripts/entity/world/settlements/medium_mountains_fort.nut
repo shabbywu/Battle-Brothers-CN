@@ -91,7 +91,7 @@
     "ID": 293411359,
     "key": "Granitschanze",
     "original": "Granitschanze",
-    "translation": "格拉尼切恩茨",
+    "translation": "花岗岩砦",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },

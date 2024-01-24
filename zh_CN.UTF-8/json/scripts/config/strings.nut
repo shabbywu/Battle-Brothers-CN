@@ -11,7 +11,7 @@
     "ID": 293405637,
     "key": "]15%[/color] of the character's current Initiative as a bonus to Melee and Ranged Defense.",
     "original": "]15%[/color] of the character's current Initiative as a bonus to Melee and Ranged Defense.",
-    "translation": "]角色当前主动性的15%[/color]作为近战和远程防御的加成。",
+    "translation": "]15%[/color]作为近战和远程防御的加成。",
     "stage": 1,
     "context": "Dodge = 'Too fast for you! Gain [color=' + this.Const.UI.Color.PositiveValue + \"]15%[/color] of the character's current Initiative as a bonus to Melee and Ranged Defense.\""
   },
@@ -355,7 +355,7 @@
     "ID": 293405680,
     "key": "Gnarlheim",
     "original": "Gnarlheim",
-    "translation": "树瘿地",
+    "translation": "树瘿乡",
     "stage": 1,
     "context": "'Gnarlheim'"
   },
@@ -3547,7 +3547,7 @@
     "ID": 293406079,
     "key": "Too fast for you! Gain [color=",
     "original": "Too fast for you! Gain [color=",
-    "translation": "你可跟不上我! 获得[color=",
+    "translation": "你可跟不上我! 获得角色当前主动性的[color=",
     "stage": 1,
     "context": "Dodge = 'Too fast for you! Gain [color=' + this.Const.UI.Color.PositiveValue + \"]15%[/color] of the character's current Initiative as a bonus to Melee and Ranged Defense.\""
   },

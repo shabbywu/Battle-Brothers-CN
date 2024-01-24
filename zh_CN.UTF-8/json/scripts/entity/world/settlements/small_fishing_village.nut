@@ -67,7 +67,7 @@
     "ID": 293412050,
     "key": "Seedeich",
     "original": "Seedeich",
-    "translation": "堤防",
+    "translation": "海堤镇",
     "stage": 1,
     "context": "this.getRandomName(['Seedorf','Kielseng','Meierwik','Sanddorf','Sandwik','Holnis','Holmwik','Niewik','Hattlund','Stohl','Strande','Sandkamp','Sandberg','Birkenstrand','Sundheim','Seekamp','Krakendorf','Blankwasser','Harkensee','Otterndorf','Seefeld','Horum','Krumhorn','Gothmund','Angeln','Sandholm','Jadensee','Egernsande','Nebelheim','Sudersande','Grossenkoog','Aalbek','Seedeich'])"
   },
@@ -179,15 +179,15 @@
     "ID": 293412064,
     "key": "Blankwasser",
     "original": "Blankwasser",
-    "translation": "白水村",
-    "stage": 5,
+    "translation": "苍水村",
+    "stage": 1,
     "context": "this.getRandomName(['Seedorf','Kielseng','Meierwik','Sanddorf','Sandwik','Holnis','Holmwik','Niewik','Hattlund','Stohl','Strande','Sandkamp','Sandberg','Birkenstrand','Sundheim','Seekamp','Krakendorf','Blankwasser','Harkensee','Otterndorf','Seefeld','Horum','Krumhorn','Gothmund','Angeln','Sandholm','Jadensee','Egernsande','Nebelheim','Sudersande','Grossenkoog','Aalbek','Seedeich'])"
   },
   {
     "ID": 293412065,
     "key": "Holnis",
     "original": "Holnis",
-    "translation": "霍尔尼斯",
+    "translation": "冻鱼镇",
     "stage": 1,
     "context": "this.getRandomName(['Seedorf','Kielseng','Meierwik','Sanddorf','Sandwik','Holnis','Holmwik','Niewik','Hattlund','Stohl','Strande','Sandkamp','Sandberg','Birkenstrand','Sundheim','Seekamp','Krakendorf','Blankwasser','Harkensee','Otterndorf','Seefeld','Horum','Krumhorn','Gothmund','Angeln','Sandholm','Jadensee','Egernsande','Nebelheim','Sudersande','Grossenkoog','Aalbek','Seedeich'])"
   },
@@ -219,7 +219,7 @@
     "ID": 293412069,
     "key": "Stohl",
     "original": "Stohl",
-    "translation": "斯托尔",
+    "translation": "树桩乡",
     "stage": 1,
     "context": "this.getRandomName(['Seedorf','Kielseng','Meierwik','Sanddorf','Sandwik','Holnis','Holmwik','Niewik','Hattlund','Stohl','Strande','Sandkamp','Sandberg','Birkenstrand','Sundheim','Seekamp','Krakendorf','Blankwasser','Harkensee','Otterndorf','Seefeld','Horum','Krumhorn','Gothmund','Angeln','Sandholm','Jadensee','Egernsande','Nebelheim','Sudersande','Grossenkoog','Aalbek','Seedeich'])"
   },
@@ -275,7 +275,7 @@
     "ID": 293412076,
     "key": "Krumhorn",
     "original": "Krumhorn",
-    "translation": "克鲁姆角",
+    "translation": "表土岬",
     "stage": 1,
     "context": "this.getRandomName(['Seedorf','Kielseng','Meierwik','Sanddorf','Sandwik','Holnis','Holmwik','Niewik','Hattlund','Stohl','Strande','Sandkamp','Sandberg','Birkenstrand','Sundheim','Seekamp','Krakendorf','Blankwasser','Harkensee','Otterndorf','Seefeld','Horum','Krumhorn','Gothmund','Angeln','Sandholm','Jadensee','Egernsande','Nebelheim','Sudersande','Grossenkoog','Aalbek','Seedeich'])"
   },

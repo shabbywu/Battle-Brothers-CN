@@ -3,15 +3,15 @@
     "ID": 293421404,
     "key": "Can not be reduced to Fleeing morale, only Breaking",
     "original": "Can not be reduced to Fleeing morale, only Breaking",
-    "translation": "士气无法降低至溃逃，只能达到瓦解",
-    "stage": 5,
+    "translation": "士气最低降至瓦解，不会溃逃",
+    "stage": 1,
     "context": "text = 'Can not be reduced to Fleeing morale, only Breaking'"
   },
   {
     "ID": 293421405,
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
-    "translation": "下次喝下突变药剂时会导致更长时间的疾病",
+    "translation": "下次喝下突变药剂会导致更长时间的疾病",
     "stage": 1,
     "context": "text = 'Further mutations will cause a longer period of sickness'"
   },

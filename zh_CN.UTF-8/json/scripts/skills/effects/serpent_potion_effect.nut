@@ -3,7 +3,7 @@
     "ID": 293421713,
     "key": "Further mutations will cause a longer period of sickness",
     "original": "Further mutations will cause a longer period of sickness",
-    "translation": "下次喝下突变药剂时会导致更长时间的疾病",
+    "translation": "下次喝下突变药剂会导致更长时间的疾病",
     "stage": 1,
     "context": "text = 'Further mutations will cause a longer period of sickness'"
   },

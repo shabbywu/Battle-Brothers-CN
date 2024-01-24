@@ -123,7 +123,7 @@
     "ID": 293412015,
     "key": "Freidorf",
     "original": "Freidorf",
-    "translation": "弗赖多夫",
+    "translation": "阔地镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Weidenau','Schnellen','Neudorf','Freidorf','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Durbach','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld','Neuenried','Auenbach','Adelshofen','Allersdorf','Brunnendorf','Ochsenhausen','Weingarten','Konigsfeld','Rosenhof','Weidenbach'])"
   },
@@ -147,7 +147,7 @@
     "ID": 293412018,
     "key": "Varel",
     "original": "Varel",
-    "translation": "瓦雷尔",
+    "translation": "蕨镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Weidenau','Schnellen','Neudorf','Freidorf','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Durbach','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld','Neuenried','Auenbach','Adelshofen','Allersdorf','Brunnendorf','Ochsenhausen','Weingarten','Konigsfeld','Rosenhof','Weidenbach'])"
   },
@@ -179,7 +179,7 @@
     "ID": 293412022,
     "key": "Hermannshof",
     "original": "Hermannshof",
-    "translation": "赫尔曼霍夫",
+    "translation": "战士镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Weidenau','Schnellen','Neudorf','Freidorf','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Durbach','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld','Neuenried','Auenbach','Adelshofen','Allersdorf','Brunnendorf','Ochsenhausen','Weingarten','Konigsfeld','Rosenhof','Weidenbach'])"
   },
@@ -187,7 +187,7 @@
     "ID": 293412023,
     "key": "Dreifelden",
     "original": "Dreifelden",
-    "translation": "德雷菲登",
+    "translation": "三地镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Weidenau','Schnellen','Neudorf','Freidorf','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Durbach','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld','Neuenried','Auenbach','Adelshofen','Allersdorf','Brunnendorf','Ochsenhausen','Weingarten','Konigsfeld','Rosenhof','Weidenbach'])"
   },
@@ -243,7 +243,7 @@
     "ID": 293412030,
     "key": "Hemmeln",
     "original": "Hemmeln",
-    "translation": "海梅尔恩",
+    "translation": "空镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Weidenau','Schnellen','Neudorf','Freidorf','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Durbach','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld','Neuenried','Auenbach','Adelshofen','Allersdorf','Brunnendorf','Ochsenhausen','Weingarten','Konigsfeld','Rosenhof','Weidenbach'])"
   },
@@ -251,7 +251,7 @@
     "ID": 293412031,
     "key": "Grunfelde",
     "original": "Grunfelde",
-    "translation": "格伦费尔德",
+    "translation": "绿地镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Weidenau','Schnellen','Neudorf','Freidorf','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Durbach','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld','Neuenried','Auenbach','Adelshofen','Allersdorf','Brunnendorf','Ochsenhausen','Weingarten','Konigsfeld','Rosenhof','Weidenbach'])"
   },
@@ -259,7 +259,7 @@
     "ID": 293412032,
     "key": "Kochendorf",
     "original": "Kochendorf",
-    "translation": "科肯多夫",
+    "translation": "沸水镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Weidenau','Schnellen','Neudorf','Freidorf','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Durbach','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld','Neuenried','Auenbach','Adelshofen','Allersdorf','Brunnendorf','Ochsenhausen','Weingarten','Konigsfeld','Rosenhof','Weidenbach'])"
   },
@@ -267,7 +267,7 @@
     "ID": 293412033,
     "key": "Bockhorn",
     "original": "Bockhorn",
-    "translation": "博克霍恩",
+    "translation": "角岬",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Weidenau','Schnellen','Neudorf','Freidorf','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Durbach','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld','Neuenried','Auenbach','Adelshofen','Allersdorf','Brunnendorf','Ochsenhausen','Weingarten','Konigsfeld','Rosenhof','Weidenbach'])"
   },
@@ -291,7 +291,7 @@
     "ID": 293412036,
     "key": "Harlingen",
     "original": "Harlingen",
-    "translation": "哈灵根",
+    "translation": "毛絮镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Weidenau','Schnellen','Neudorf','Freidorf','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Durbach','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld','Neuenried','Auenbach','Adelshofen','Allersdorf','Brunnendorf','Ochsenhausen','Weingarten','Konigsfeld','Rosenhof','Weidenbach'])"
   },

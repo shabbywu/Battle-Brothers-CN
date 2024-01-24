@@ -123,7 +123,7 @@
     "ID": 293411553,
     "key": "Breitenbrunn",
     "original": "Breitenbrunn",
-    "translation": "布赖滕布伦",
+    "translation": "阔泽",
     "stage": 1,
     "context": "this.getRandomName(['Stakendorf','Schwartbuck','Monkamp','Sehlendorf','Schwarzpfuhl','Ehlerstorf','Torfbruck','Mohrdorf','Streekmoor','Kolkdorf','Schwarzwasser','Lauenbruck','Farnheim','Birkhain','Ahlen','Suderbusch','Altenfurth','Breitenbrunn','Grunbach','Grunwasser','Schmalfurth','Grossfurth','Grunkraut','Schattenfluth','Weissenbach','Kaltenbach','Tarsdorf','Tiefenbach','Julbach','Auengrund','Schwarzbrook','Brookdorf','Brookheim'])"
   },

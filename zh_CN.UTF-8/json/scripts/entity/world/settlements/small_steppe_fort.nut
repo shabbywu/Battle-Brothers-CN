@@ -107,7 +107,7 @@
     "ID": 293412305,
     "key": "Sudschanze",
     "original": "Sudschanze",
-    "translation": "苏德尚策堡",
+    "translation": "南风砦",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },

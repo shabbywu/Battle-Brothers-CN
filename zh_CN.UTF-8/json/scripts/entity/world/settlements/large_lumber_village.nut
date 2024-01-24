@@ -83,7 +83,7 @@
     "ID": 293410874,
     "key": "Waidstadt",
     "original": "Waidstadt",
-    "translation": "Waid镇",
+    "translation": "菘蓝镇",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },

@@ -43,7 +43,7 @@
     "ID": 293410817,
     "key": "Blankenstadt",
     "original": "Blankenstadt",
-    "translation": "苍茫镇",
+    "translation": "沧海镇",
     "stage": 1,
     "context": "this.getRandomName(['Seestadt','Wikstadt','Konigshaven','Grafenhaven','Holnisland','Nieweland','Kampstadt','Krakenland','Blankenstadt','Harkenstadt','Tiefenstadt','Weissenstadt','Kobmanhaven','Grotenhaven','Konigswasser','Konigsmunde','Kronenkoog','Steinkai','Deichstadt'])"
   },
@@ -123,7 +123,7 @@
     "ID": 293410827,
     "key": "Grotenhaven",
     "original": "Grotenhaven",
-    "translation": "谷粒港",
+    "translation": "大港",
     "stage": 1,
     "context": "this.getRandomName(['Seestadt','Wikstadt','Konigshaven','Grafenhaven','Holnisland','Nieweland','Kampstadt','Krakenland','Blankenstadt','Harkenstadt','Tiefenstadt','Weissenstadt','Kobmanhaven','Grotenhaven','Konigswasser','Konigsmunde','Kronenkoog','Steinkai','Deichstadt'])"
   },

@@ -27,7 +27,7 @@
     "ID": 293410735,
     "key": "Blankenfeste",
     "original": "Blankenfeste",
-    "translation": "苍茫要塞",
+    "translation": "沧海要塞",
     "stage": 1,
     "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },
@@ -91,7 +91,7 @@
     "ID": 293410743,
     "key": "Stohlfeste",
     "original": "Stohlfeste",
-    "translation": "板凳要塞",
+    "translation": "树桩要塞",
     "stage": 1,
     "context": "this.getRandomName(['Seefeste','Kleifeste','Otterfeste','Blankenfeste','Kampfeste','Stohlfeste','Krakenfeste','Sandfeste','Aalfeste','Sturmfeste','Wesefeste','Dunenfeste','Seemarkfeste','Seelandfeste','Regenfeste','Segelfeste','Kranichfeste','Schwalbenfeste','Dunstfeste','Windfeste','Reedfeste'])"
   },

@@ -4675,7 +4675,7 @@
     "ID": 293407567,
     "key": "Elkshorn",
     "original": "Elkshorn",
-    "translation": "艾克索恩",
+    "translation": "麋鹿岬",
     "stage": 1,
     "context": "'Elkshorn'"
   },

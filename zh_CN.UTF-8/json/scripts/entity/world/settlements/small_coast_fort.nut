@@ -187,7 +187,7 @@
     "ID": 293411959,
     "key": "Stohlwall",
     "original": "Stohlwall",
-    "translation": "斯托尔沃尔",
+    "translation": "树桩垣",
     "stage": 1,
     "context": "this.getRandomName(['Seeturm','Sandwacht','Seewall','Kielwall','Strandwall','Otternwacht','Kampwacht','Stohlwall','Seeschanz','Wikwall','Sandturm','Krakenwacht','Strandwehr','Seewehr','Blankwehr','Krumwehr','Wallsande','Salzwacht','Sturmwall','Seewacht','Fernwall','Wesselburg','Dagewall','Windwacht','Weissenwacht','Fishburg','Stindwall','Tidenwall','Ebbenwacht','Prielburg','Sundwall','Sielburg'])"
   },
@@ -243,7 +243,7 @@
     "ID": 293411966,
     "key": "Blankwehr",
     "original": "Blankwehr",
-    "translation": "布兰克韦尔",
+    "translation": "沧海卫",
     "stage": 1,
     "context": "this.getRandomName(['Seeturm','Sandwacht','Seewall','Kielwall','Strandwall','Otternwacht','Kampwacht','Stohlwall','Seeschanz','Wikwall','Sandturm','Krakenwacht','Strandwehr','Seewehr','Blankwehr','Krumwehr','Wallsande','Salzwacht','Sturmwall','Seewacht','Fernwall','Wesselburg','Dagewall','Windwacht','Weissenwacht','Fishburg','Stindwall','Tidenwall','Ebbenwacht','Prielburg','Sundwall','Sielburg'])"
   },
@@ -251,7 +251,7 @@
     "ID": 293411967,
     "key": "Wikwall",
     "original": "Wikwall",
-    "translation": "维克沃尔",
+    "translation": "维京寨",
     "stage": 1,
     "context": "this.getRandomName(['Seeturm','Sandwacht','Seewall','Kielwall','Strandwall','Otternwacht','Kampwacht','Stohlwall','Seeschanz','Wikwall','Sandturm','Krakenwacht','Strandwehr','Seewehr','Blankwehr','Krumwehr','Wallsande','Salzwacht','Sturmwall','Seewacht','Fernwall','Wesselburg','Dagewall','Windwacht','Weissenwacht','Fishburg','Stindwall','Tidenwall','Ebbenwacht','Prielburg','Sundwall','Sielburg'])"
   },
