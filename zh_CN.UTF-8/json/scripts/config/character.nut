@@ -83,8 +83,8 @@
     "ID": 293403748,
     "key": "Scratched",
     "original": "Scratched",
-    "translation": "刮痕累累",
-    "stage": 5,
+    "translation": "刮痕寥寥",
+    "stage": 1,
     "context": "'Scratched'"
   },
   {
@@ -211,8 +211,8 @@
     "ID": 293403764,
     "key": "Dented",
     "original": "Dented",
-    "translation": "存在凹陷",
-    "stage": 5,
+    "translation": "坑坑洼洼",
+    "stage": 1,
     "context": "'Dented'"
   },
   {

@@ -19,7 +19,7 @@
     "ID": 293421489,
     "key": "This character is able to secrete a substance that vibrates rapidly when stimulated. When applied to weapons, this creates a strong kinetic force that aids in armor penetration.",
     "original": "This character is able to secrete a substance that vibrates rapidly when stimulated. When applied to weapons, this creates a strong kinetic force that aids in armor penetration.",
-    "translation": "这个角色能够分泌一种在刺激时能够快速振动的物质。当应用于武器时，这会产生强大的动能力量，有助于穿透护甲。",
+    "translation": "这个角色能够分泌一种在受刺激时快速振动的物质。当应用于武器时，这会产生强大的动能力量，有助于穿透护甲。",
     "stage": 1,
     "context": "return 'This character is able to secrete a substance that vibrates rapidly when stimulated. When applied to weapons, this creates a strong kinetic force that aids in armor penetration.';"
   },

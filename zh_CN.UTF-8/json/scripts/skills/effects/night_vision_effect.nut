@@ -19,7 +19,7 @@
     "ID": 293421631,
     "key": "Thanks to an alchemical marvel, the night is as bright as day for this character.",
     "original": "Thanks to an alchemical marvel, the night is as bright as day for this character.",
-    "translation": "多亏了一瓶炼金术的精华，对这个角色而言夜晚就和白天一样明亮。",
+    "translation": "多亏了一瓶炼金术的精华，这个角色眼中的夜晚亮如白昼。",
     "stage": 1,
     "context": "return 'Thanks to an alchemical marvel, the night is as bright as day for this character.';"
   },

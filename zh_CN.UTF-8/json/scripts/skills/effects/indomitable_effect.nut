@@ -3,8 +3,8 @@
     "ID": 293421549,
     "key": "Receives only [color=",
     "original": "Receives only [color=",
-    "translation": "只受到 [color=",
-    "stage": 5,
+    "translation": "受到的所有伤害降至 [color=",
+    "stage": 1,
     "context": "text = 'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of any damage'"
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293421552,
     "key": "This character has gathered all their physical strength and willpower to become indomitable until their next turn.",
     "original": "This character has gathered all their physical strength and willpower to become indomitable until their next turn.",
-    "translation": "这个角色已经聚集了他们所有的体力和意志力，变得不屈不挠，直到下一个回合。",
-    "stage": 5,
+    "translation": "这个角色已经聚集了他所有的体力和意志力，变得不屈不挠，直到下一个回合。",
+    "stage": 1,
     "context": "return 'This character has gathered all their physical strength and willpower to become indomitable until their next turn.';"
   },
   {
@@ -43,8 +43,8 @@
     "ID": 293421554,
     "key": "]50%[/color] of any damage",
     "original": "]50%[/color] of any damage",
-    "translation": "]50%[/color] 所有伤害",
-    "stage": 5,
+    "translation": "]50%[/color]",
+    "stage": 1,
     "context": "text = 'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] of any damage'"
   }
 ]

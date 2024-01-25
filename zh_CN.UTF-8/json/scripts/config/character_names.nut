@@ -5635,7 +5635,7 @@
     "ID": 293404482,
     "key": "Gu-Shogg the Thousand-Armed Thresher",
     "original": "Gu-Shogg the Thousand-Armed Thresher",
-    "translation": "古沼洛克·千臂打谷者(Gu-Shogg the Thousand-Armed Thresherg)",
+    "translation": "古沼洛克·千臂乱舞者(Gu-Shogg the Thousand-Armed Thresherg)",
     "stage": 1,
     "context": "'Gu-Shogg the Thousand-Armed Thresher'"
   },

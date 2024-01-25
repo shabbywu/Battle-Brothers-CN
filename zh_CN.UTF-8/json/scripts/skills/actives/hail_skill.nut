@@ -11,8 +11,8 @@
     "ID": 293420049,
     "key": "Hail",
     "original": "Hail",
-    "translation": "冰雹击",
-    "stage": 5,
+    "translation": "劈头盖脸",
+    "stage": 1,
     "context": "this.m.Name = 'Hail'"
   },
   {

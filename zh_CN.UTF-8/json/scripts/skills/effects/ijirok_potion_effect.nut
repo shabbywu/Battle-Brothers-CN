@@ -27,7 +27,7 @@
     "ID": 293421548,
     "key": "There's something wrong with this character. Fits of crazed laughter and muttered tirades aside, their body seems to, at random, reject changes visited upon it. In battle, this has the fortunate effect of letting them sometimes shrug off debilitating effe",
     "original": "There's something wrong with this character. Fits of crazed laughter and muttered tirades aside, their body seems to, at random, reject changes visited upon it. In battle, this has the fortunate effect of letting them sometimes shrug off debilitating effects.",
-    "translation": "这个角色有些问题。除了一阵阵疯狂的笑声和咕哝的责骂声之外，他们的身体似乎常常会随意反抗施加在它身上的变化。在战斗中，这倒是有幸让他有时可以避免遭受削弱效果。",
+    "translation": "这个角色有些问题。除了一阵阵疯狂的笑声和长篇大论的抱怨之外，他的身体似乎会不规律地反抗外部带来的变化。所幸这偶尔能帮他摆脱战斗中削弱效果的影响。",
     "stage": 1,
     "context": "return \"There's something wrong with this character. Fits of crazed laughter and muttered tirades aside, their body seems to, at random, reject changes visited upon it. In battle, this has the fortunate effect of letting them sometimes shrug off debilitating effects.\";"
   }

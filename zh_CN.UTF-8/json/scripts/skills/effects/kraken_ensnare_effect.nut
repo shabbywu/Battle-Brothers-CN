@@ -27,7 +27,7 @@
     "ID": 293421575,
     "key": "This character is entangled in a giant tentacle, drawing them ever closer to a gaping maw that threatens to devour them whole. Each turn, the tentacle threatens to crush them by gripping ever tighter, resulting in the loss of [color=",
     "original": "This character is entangled in a giant tentacle, drawing them ever closer to a gaping maw that threatens to devour them whole. Each turn, the tentacle threatens to crush them by gripping ever tighter, resulting in the loss of [color=",
-    "translation": "这个角色被一条巨大的触手缠住了，正被不断拉近一个准备将其整个吞下的血盆大口。这个触手仿佛要将人勒断一样缠绕的越来越紧，导致每回合失去[color=",
+    "translation": "这个角色被一条巨大的触须缠住，拖近一张足以将其生吞的血盆大口。这条触须缠绕地越来越紧，仿佛要将人勒断。受害者每回合失去[color=",
     "stage": 1,
     "context": "text = this.m.Mode == 0 ? this.getDescription() : 'This character is entangled in a giant tentacle, drawing them ever closer to a gaping maw that threatens to devour them whole. Each turn, the tentacle threatens to crush them by gripping ever tighter, resulting in the loss of [color=' + this.Const.UI.Color.NegativeValue + ']10[/color] hitpoints.'"
   },

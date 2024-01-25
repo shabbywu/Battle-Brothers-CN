@@ -19,7 +19,7 @@
     "ID": 293421580,
     "key": "The character draws strength from some limitless source, with the health and durability of two men. You pretend to not notice the eviscerated corpses you sometimes find in their wake.",
     "original": "The character draws strength from some limitless source, with the health and durability of two men. You pretend to not notice the eviscerated corpses you sometimes find in their wake.",
-    "translation": "该角色从某种无限的力量源中汲取力量，其健康和耐力相当于两个人。你假装没有注意到他留下的被掏空内脏的尸体。",
+    "translation": "该角色从某种无限的源泉中汲取力量，其健康和耐力倍于常人。你假装没有注意到他身后留下的掏空内脏的尸体。",
     "stage": 1,
     "context": "return 'The character draws strength from some limitless source, with the health and durability of two men. You pretend to not notice the eviscerated corpses you sometimes find in their wake.';"
   },

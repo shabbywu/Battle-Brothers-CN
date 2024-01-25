@@ -3,8 +3,8 @@
     "ID": 293421512,
     "key": "Feasted",
     "original": "Feasted",
-    "translation": "享用了盛宴",
-    "stage": 5,
+    "translation": "大快朵颐",
+    "stage": 1,
     "context": "this.m.Name = 'Feasted'"
   }
 ]

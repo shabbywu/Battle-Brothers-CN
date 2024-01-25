@@ -35,8 +35,8 @@
     "ID": 293420159,
     "key": "Lash",
     "original": "Lash",
-    "translation": "抽打",
-    "stage": 5,
+    "translation": "当头一击",
+    "stage": 1,
     "context": "this.m.Name = 'Lash'"
   }
 ]

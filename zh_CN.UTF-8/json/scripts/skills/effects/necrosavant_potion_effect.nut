@@ -27,7 +27,7 @@
     "ID": 293421619,
     "key": "This character's body has the incredible ability to incorporate different blood types - or indeed, blood from entirely different creatures - into itself. This grants them remarkable healing via absorption of blood through skin pores (or more dramatically ",
     "original": "This character's body has the incredible ability to incorporate different blood types - or indeed, blood from entirely different creatures - into itself. This grants them remarkable healing via absorption of blood through skin pores (or more dramatically by drinking it directly).",
-    "translation": "这个角色的身体有着惊人的能力，可以将不同血型的血液乃至不同生物的血液整合进自己。这让他可以通过毛孔吸收血液进行治疗(或者直接饮血以得到更剧烈的效果)。",
+    "translation": "这个角色有着将不同血型乃至不同生物的血液整合进自己身体的惊人能力。这让他可以通过从毛孔吸收血液来获得显著的治疗(或者直接饮血以得到更剧烈的效果)。",
     "stage": 1,
     "context": "return \"This character's body has the incredible ability to incorporate different blood types - or indeed, blood from entirely different creatures - into itself. This grants them remarkable healing via absorption of blood through skin pores (or more dramatically by drinking it directly).\";"
   },

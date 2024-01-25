@@ -115,7 +115,7 @@
     "ID": 293409449,
     "key": "We must be close.",
     "original": "We must be close.",
-    "translation": "我们必须接近。",
+    "translation": "他们就在附近。",
     "stage": 1,
     "context": "Text = 'We must be close.'"
   },

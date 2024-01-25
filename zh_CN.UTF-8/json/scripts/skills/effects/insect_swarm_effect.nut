@@ -27,8 +27,8 @@
     "ID": 293421558,
     "key": "Swarm of Insects",
     "original": "Swarm of Insects",
-    "translation": "虫群",
-    "stage": 5,
+    "translation": "虫群笼罩",
+    "stage": 1,
     "context": "this.m.Name = 'Swarm of Insects'"
   },
   {
