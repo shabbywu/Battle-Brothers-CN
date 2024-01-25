@@ -27,8 +27,8 @@
     "ID": 293421472,
     "key": "[/color] more turn(s), they are slower to react and have a harder time landing clean strikes.",
     "original": "[/color] more turn(s), they are slower to react and have a harder time landing clean strikes.",
-    "translation": "[/color] 回合，他的反应会变慢并且更难准确地进行打击。",
-    "stage": 5,
+    "translation": "[/color] 回合，他的反应会变慢，打击会失准。",
+    "stage": 1,
     "context": "return 'This character was on the receiving end of a dirty trick. Distracted for [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] more turn(s), they are slower to react and have a harder time landing clean strikes.';"
   },
   {

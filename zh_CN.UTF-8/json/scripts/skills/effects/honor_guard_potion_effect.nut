@@ -43,7 +43,7 @@
     "ID": 293421532,
     "key": "This character's skin and subdermal tissue has mutated and will rapidly stitch itself back together. The effect is most pronounced on small puncture wounds, where the flesh can seal the wound from all directions evenly.",
     "original": "This character's skin and subdermal tissue has mutated and will rapidly stitch itself back together. The effect is most pronounced on small puncture wounds, where the flesh can seal the wound from all directions evenly.",
-    "translation": "这个角色的皮肤和皮下组织已经突变，能够迅速缝合在一起。这种效果在小的穿刺伤口上最为明显，因为那里的肉可以从各个方向均匀地封闭伤口。",
+    "translation": "这个角色的皮肤和皮下组织已经突变，能够迅速自发地缝合在一起。这种效果在小的穿刺伤口上最为明显，因为那里的肉可以从各个方向均匀地封闭伤口。",
     "stage": 1,
     "context": "return \"This character's skin and subdermal tissue has mutated and will rapidly stitch itself back together. The effect is most pronounced on small puncture wounds, where the flesh can seal the wound from all directions evenly.\";"
   }

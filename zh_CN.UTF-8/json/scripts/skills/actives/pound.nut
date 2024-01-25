@@ -83,8 +83,8 @@
     "ID": 293420212,
     "key": "Pound",
     "original": "Pound",
-    "translation": "砸击",
-    "stage": 5,
+    "translation": "重磅打击",
+    "stage": 1,
     "context": "this.m.Name = 'Pound'"
   },
   {

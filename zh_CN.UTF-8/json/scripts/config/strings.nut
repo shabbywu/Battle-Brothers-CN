@@ -3283,7 +3283,7 @@
     "ID": 293406046,
     "key": "]25%[/color] less Fatigue.\n\nLash and Hail ignore the defense bonus of shields.\n\nPound ignores an additional [color=",
     "original": "]25%[/color] less Fatigue.\n\nLash and Hail ignore the defense bonus of shields.\n\nPound ignores an additional [color=",
-    "translation": "]25%[/color]\n\n'抽打(Lash)'和'雹击(Hail)'无视盾牌加成。\n\n'砸击(Pound)'在击中头部时忽略[color=",
+    "translation": "]25%[/color]\n\n'当头一击'和'劈头盖脸'无视盾牌加成。\n\n'重磅打击'在击中头部时忽略[color=",
     "stage": 1,
     "context": "SpecFlail = \"Master flails and circumvent your opponent's shield. Skills build up [color=\" + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nLash and Hail ignore the defense bonus of shields.\n\nPound ignores an additional [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] of armor on head hits.\n\nThresh gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.'"
   },
@@ -7779,7 +7779,7 @@
     "ID": 293406608,
     "key": "]+10%[/color] of armor on head hits.\n\nThresh gains [color=",
     "original": "]+10%[/color] of armor on head hits.\n\nThresh gains [color=",
-    "translation": "]+10%[/color] 护甲。\n\n'打谷(Thresh)'的命中率提高[color=",
+    "translation": "]+10%[/color] 护甲。\n\n'狂舞挥打'的命中率提高[color=",
     "stage": 1,
     "context": "SpecFlail = \"Master flails and circumvent your opponent's shield. Skills build up [color=\" + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nLash and Hail ignore the defense bonus of shields.\n\nPound ignores an additional [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] of armor on head hits.\n\nThresh gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.'"
   },

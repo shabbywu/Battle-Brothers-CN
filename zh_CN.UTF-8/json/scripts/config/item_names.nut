@@ -1675,7 +1675,7 @@
     "ID": 293405078,
     "key": "Thresher",
     "original": "Thresher",
-    "translation": "打谷者",
+    "translation": "狂舞者",
     "stage": 1,
     "context": "'Thresher'"
   },
@@ -4267,7 +4267,7 @@
     "ID": 293405402,
     "key": "Lasher",
     "original": "Lasher",
-    "translation": "拉什",
+    "translation": "抽打者",
     "stage": 1,
     "context": "'Lasher'"
   },

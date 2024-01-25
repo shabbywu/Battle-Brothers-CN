@@ -3,8 +3,8 @@
     "ID": 293421525,
     "key": "Sprayed with Blessed Water",
     "original": "Sprayed with Blessed Water",
-    "translation": "沾上圣水",
-    "stage": 5,
+    "translation": "圣水溅浸",
+    "stage": 1,
     "context": "this.m.Name = 'Sprayed with Blessed Water'"
   },
   {

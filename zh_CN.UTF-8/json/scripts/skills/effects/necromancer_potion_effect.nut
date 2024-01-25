@@ -3,7 +3,7 @@
     "ID": 293421612,
     "key": "This character has strange visions of things that have been and things to come. While less than cheery around the campfire, it does seem to give them a certain ability to connect and internalize new experiences faster.",
     "original": "This character has strange visions of things that have been and things to come. While less than cheery around the campfire, it does seem to give them a certain ability to connect and internalize new experiences faster.",
-    "translation": "这个角色有着关于事物过去怎样及未来如何的奇怪幻视。虽然没法用来在营火边活跃气氛，但似乎确实能使他可以快速关联并吸收新的经验。",
+    "translation": "这个角色有着关于事物过去和未来的奇怪幻视。虽然没法用来在营火边活跃气氛，但似乎确实能使他可以更快的将事物联系起来并吸收新的经验。",
     "stage": 1,
     "context": "return 'This character has strange visions of things that have been and things to come. While less than cheery around the campfire, it does seem to give them a certain ability to connect and internalize new experiences faster.';"
   },

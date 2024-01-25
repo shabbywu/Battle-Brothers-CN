@@ -3,7 +3,7 @@
     "ID": 293421508,
     "key": "When in high stress situations, this character's mutated body produces a slimy, viscous substance and begins sweating it excessively. They'll have a much easier time escaping from any nets or traps in such a state. Just bring a towel.",
     "original": "When in high stress situations, this character's mutated body produces a slimy, viscous substance and begins sweating it excessively. They'll have a much easier time escaping from any nets or traps in such a state. Just bring a towel.",
-    "translation": "当处于高压情境时，该角色的变异身体会产生一种黏滑、粘稠的物质，并开始过度出汗。在这种状态下，他们逃脱任何网或陷阱都会更加容易。只是记得别忘了带毛巾。",
+    "translation": "当处于高压情境时，该角色的变异身体会从汗腺过量分泌出一种黏滑、稠密的物质。在这种状态下，各式网或陷阱都很难困住他。别忘了带条毛巾。",
     "stage": 1,
     "context": "return \"When in high stress situations, this character's mutated body produces a slimy, viscous substance and begins sweating it excessively. They'll have a much easier time escaping from any nets or traps in such a state. Just bring a towel.\";"
   },

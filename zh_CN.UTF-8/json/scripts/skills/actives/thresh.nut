@@ -11,8 +11,8 @@
     "ID": 293420569,
     "key": "Thresh",
     "original": "Thresh",
-    "translation": "打谷",
-    "stage": 5,
+    "translation": "狂舞挥打",
+    "stage": 1,
     "context": "this.m.Name = 'Thresh'"
   },
   {

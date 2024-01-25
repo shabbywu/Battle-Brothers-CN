@@ -19,8 +19,8 @@
     "ID": 293419846,
     "key": "Cascade",
     "original": "Cascade",
-    "translation": "连环击",
-    "stage": 5,
+    "translation": "连环打击",
+    "stage": 1,
     "context": "this.m.Name = 'Cascade'"
   },
   {

@@ -3,7 +3,7 @@
     "ID": 293421492,
     "key": "This character's legs have been mutated, allowing them to make swift, complex movements more smoothly and with greater rapidity. When at rest, the muscles can still occasionally be seen twitching underneath the skin.",
     "original": "This character's legs have been mutated, allowing them to make swift, complex movements more smoothly and with greater rapidity. When at rest, the muscles can still occasionally be seen twitching underneath the skin.",
-    "translation": "这个角色的腿部基因发生了突变，允许他们进行更为流畅和快速的迅猛动作。在休息时，偶尔能看到肌肉还在皮肤下面抽动。",
+    "translation": "这个角色的腿部发生了变异，使他能流畅和迅速的做出突然且复杂的动作。在休息时，偶尔能看到肌肉还在皮肤下面抽动。",
     "stage": 1,
     "context": "return \"This character's legs have been mutated, allowing them to make swift, complex movements more smoothly and with greater rapidity. When at rest, the muscles can still occasionally be seen twitching underneath the skin.\";"
   },

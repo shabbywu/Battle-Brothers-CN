@@ -43,7 +43,7 @@
     "ID": 293421507,
     "key": "This character has poison running through his veins. His vision is blurred, his speech slurred and it takes a great deal of effort for him to move in a coordinated fashion. The effect will slowly wear off over [color=",
     "original": "This character has poison running through his veins. His vision is blurred, his speech slurred and it takes a great deal of effort for him to move in a coordinated fashion. The effect will slowly wear off over [color=",
-    "translation": "这个角色血管中正流淌着毒素。他视野模糊，口齿不清，需要大量的努力才能协调的移动。效果会在 [color=",
+    "translation": "这个角色血管中流淌着毒素。他视野模糊，口齿不清，需要大量的努力才能协调的移动。效果会在 [color=",
     "stage": 1,
     "context": "return 'This character has poison running through his veins. His vision is blurred, his speech slurred and it takes a great deal of effort for him to move in a coordinated fashion. The effect will slowly wear off over [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] more turn(s).';"
   }

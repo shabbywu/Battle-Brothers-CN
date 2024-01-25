@@ -27,7 +27,7 @@
     "ID": 293414944,
     "key": "Upset at how his mutations have changed him",
     "original": "Upset at how his mutations have changed him",
-    "translation": "因突变而变化的事情令他感到不安。",
+    "translation": "变异对他的改变令他感到不安。",
     "stage": 1,
     "context": "_event.m.Anatomist.worsenMood(1.25, 'Upset at how his mutations have changed him')"
   }
