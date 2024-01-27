@@ -35,7 +35,7 @@
     "ID": 293420572,
     "key": "%[/color] chance to stun on a hit",
     "original": "%[/color] chance to stun on a hit",
-    "translation": "%[/color] 几率造成击晕",
+    "translation": "%[/color] 几率造成昏迷",
     "stage": 1,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun on a hit'"
   },

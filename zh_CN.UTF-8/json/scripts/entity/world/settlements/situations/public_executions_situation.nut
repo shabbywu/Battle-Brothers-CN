@@ -19,7 +19,7 @@
     "ID": 293411820,
     "key": "I heard they grabbed some brigands near %settlement% and are putting them to the chopping block. Serves them just right, waylaying poor folk on the roads...",
     "original": "I heard they grabbed some brigands near %settlement% and are putting them to the chopping block. Serves them just right, waylaying poor folk on the roads...",
-    "translation": "我听说他们在 %settlement% 附近抓了几个强盗，把他们送进了砧板。他们活该，在路上伏击穷人…",
+    "translation": "我听说他们在 %settlement% 附近抓了几个强盗，把他们送上了断头台。他们活该，在路上伏击穷人…",
     "stage": 1,
     "context": "'I heard they grabbed some brigands near %settlement% and are putting them to the chopping block. Serves them just right, waylaying poor folk on the roads...'"
   },

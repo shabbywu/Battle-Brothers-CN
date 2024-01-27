@@ -27,8 +27,8 @@
     "ID": 293421721,
     "key": "This character is shellshocked from being near a mortar explosion. Their ears are ringing, their vision is blurred and they're slightly disoriented. The effect will slowly wear off over [color=",
     "original": "This character is shellshocked from being near a mortar explosion. Their ears are ringing, their vision is blurred and they're slightly disoriented. The effect will slowly wear off over [color=",
-    "translation": "这个角色在臼炮爆炸附近受到炮弹冲击。他们的耳朵在响，他们的视力模糊，他们有点迷失方向。(剩余 [color=",
-    "stage": 5,
+    "translation": "这个角色在附近的臼炮炮火中受到冲击。他们头晕耳鸣，他们视力模糊，他们有点找不着北。效果会在 [color=",
+    "stage": 1,
     "context": "return \"This character is shellshocked from being near a mortar explosion. Their ears are ringing, their vision is blurred and they're slightly disoriented. The effect will slowly wear off over [color=\" + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] more turn(s).';"
   },
   {
@@ -43,8 +43,8 @@
     "ID": 293421723,
     "key": "[/color] more turn(s).",
     "original": "[/color] more turn(s).",
-    "translation": "[/color] 回合。",
-    "stage": 5,
+    "translation": "[/color] 回合中慢慢消退。",
+    "stage": 1,
     "context": "return \"This character is shellshocked from being near a mortar explosion. Their ears are ringing, their vision is blurred and they're slightly disoriented. The effect will slowly wear off over [color=\" + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] more turn(s).';"
   },
   {
@@ -67,7 +67,7 @@
     "ID": 293421726,
     "key": "Shellshocked",
     "original": "Shellshocked",
-    "translation": "被炮弹震伤",
+    "translation": "炮火震撼",
     "stage": 1,
     "context": "this.m.Name = 'Shellshocked'"
   },
@@ -83,7 +83,7 @@
     "ID": 293421728,
     "key": " resists being shellshocked thanks to his unnatural physiology",
     "original": " resists being shellshocked thanks to his unnatural physiology",
-    "translation": "因为他不自然的生理机能抵抗了炮弹震伤",
+    "translation": "因为他不自然的生理机能抵抗了炮火震撼",
     "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' resists being shellshocked thanks to his unnatural physiology')"
   }

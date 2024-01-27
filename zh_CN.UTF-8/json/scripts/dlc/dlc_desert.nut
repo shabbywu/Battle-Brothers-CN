@@ -219,7 +219,7 @@
     "ID": 293410183,
     "key": "A Qatal Dagger is best used in combination with other weapons that can stun or daze opponents.",
     "original": "A Qatal Dagger is best used in combination with other weapons that can stun or daze opponents.",
-    "translation": "一把卡塔尔匕首最好与其他能够使敌人晕眩或眩晕的武器结合使用。",
+    "translation": "一把卡塔尔匕首最好与其他能够使敌人昏迷或眩晕茫然的武器结合使用。",
     "stage": 1,
     "context": "'A Qatal Dagger is best used in combination with other weapons that can stun or daze opponents.'"
   },

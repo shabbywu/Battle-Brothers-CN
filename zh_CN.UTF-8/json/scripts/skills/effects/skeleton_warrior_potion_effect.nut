@@ -11,7 +11,7 @@
     "ID": 293421735,
     "key": "This character's body has mutated such that they can lock their limbs into certain positions almost indefinitely, allowing them to brace against blows while barely breaking a sweat.",
     "original": "This character's body has mutated such that they can lock their limbs into certain positions almost indefinitely, allowing them to brace against blows while barely breaking a sweat.",
-    "translation": "这个角色的身体经过基因突变，使他们能够将肢体锁定在某些位置上，几乎可以无限期地保持，这使他们能够轻松抵御攻击。",
+    "translation": "这个角色的身体发生变异，使他们能够将肢体无限期固定在某些位置上，这使他们能够轻松抵御攻击。",
     "stage": 1,
     "context": "return \"This character's body has mutated such that they can lock their limbs into certain positions almost indefinitely, allowing them to brace against blows while barely breaking a sweat.\";"
   },

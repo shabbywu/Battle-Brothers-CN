@@ -3,7 +3,7 @@
     "ID": 293421644,
     "key": "This character gains two stacks of Rage each time they take hitpoint damage, and loses one stack at the end of each turn.",
     "original": "This character gains two stacks of Rage each time they take hitpoint damage, and loses one stack at the end of each turn.",
-    "translation": "该角色每次受到生命值伤害时获得两层狂暴，并在每回合结束时失去一层。",
+    "translation": "该角色每次受到生命值伤害时获得两层狂暴，每回合结束时失去一层。",
     "stage": 1,
     "context": "text = 'This character gains two stacks of Rage each time they take hitpoint damage, and loses one stack at the end of each turn.'"
   },
@@ -19,7 +19,7 @@
     "ID": 293421646,
     "key": " gains rage!",
     "original": " gains rage!",
-    "translation": " 获得愤怒！",
+    "translation": " 获得狂暴！",
     "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' gains rage!')"
   },
@@ -35,7 +35,7 @@
     "ID": 293421648,
     "key": "[/color] damage dealt",
     "original": "[/color] damage dealt",
-    "translation": "[/color] 伤害",
+    "translation": "[/color] 伤害输出",
     "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + 1 * this.m.RageStacks + '[/color] damage dealt'"
   },

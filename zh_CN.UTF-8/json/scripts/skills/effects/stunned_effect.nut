@@ -11,8 +11,8 @@
     "ID": 293421767,
     "key": " shook off being stunned thanks to his unnatural physiology",
     "original": " shook off being stunned thanks to his unnatural physiology",
-    "translation": "非自然的生理功能帮助他免受击晕",
-    "stage": 5,
+    "translation": "非自然的生理功能帮助他免于昏迷",
+    "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' shook off being stunned thanks to his unnatural physiology')"
   },
   {

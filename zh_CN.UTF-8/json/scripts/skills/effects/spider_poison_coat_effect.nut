@@ -11,8 +11,8 @@
     "ID": 293421751,
     "key": "[/color] damage to hitpoints will apply it. Targets affected will lose [color=",
     "original": "[/color] damage to hitpoints will apply it. Targets affected will lose [color=",
-    "translation": "[/color]生命值伤害则使目标中毒。受影响的目标在效果消失之前每回合失去[color=",
-    "stage": 5,
+    "translation": "[/color] 点生命值伤害则使目标中毒。受影响的目标在效果消失之前每回合失去[color=",
+    "stage": 1,
     "context": "return 'This character is using a weapon coated with concentrated webknecht poison. The next few hits doing at least [color=' + this.Const.UI.Color.NegativeValue + ']' + this.Const.Combat.PoisonEffectMinDamage + '[/color] damage to hitpoints will apply it. Targets affected will lose [color=' + this.Const.UI.Color.NegativeValue + ']10[/color] hitpoints per turn until the effect has faded.';"
   },
   {

@@ -19,8 +19,8 @@
     "ID": 293421674,
     "key": "[/color] damage to hitpoints will apply it. Targets affected will have blurred vision and a hard time moving in a coordinated fashion until the effect has faded.",
     "original": "[/color] damage to hitpoints will apply it. Targets affected will have blurred vision and a hard time moving in a coordinated fashion until the effect has faded.",
-    "translation": "[/color]生命值伤害则使目标中毒。受影响的目标在效果消失之前会视野模糊且行动失衡。",
-    "stage": 5,
+    "translation": "[/color]点生命值伤害则使目标中毒。受影响的目标在效果消失之前会视野模糊且行动失调。",
+    "stage": 1,
     "context": "return 'This character is using a weapon coated with poison. The next few hits doing at least [color=' + this.Const.UI.Color.NegativeValue + ']' + this.Const.Combat.PoisonEffectMinDamage + '[/color] damage to hitpoints will apply it. Targets affected will have blurred vision and a hard time moving in a coordinated fashion until the effect has faded.';"
   },
   {

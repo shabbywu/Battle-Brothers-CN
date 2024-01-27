@@ -27,7 +27,7 @@
     "ID": 293421707,
     "key": "This character's legs have mutated to respond much more rapidly and powerfully to external force. As a practical matter, they can maintain their center of balance and respond to nearly any attempt to push them back or uproot them.",
     "original": "This character's legs have mutated to respond much more rapidly and powerfully to external force. As a practical matter, they can maintain their center of balance and respond to nearly any attempt to push them back or uproot them.",
-    "translation": "该角色的腿已经突变，可以更快、更强力地响应外部力量。实用点说，他们可以保持重心和平衡稳定，并对几乎任何试图把他们推回或连根拔起的尝试做出反应。",
+    "translation": "该角色的腿已经突变，可以更快、更强力地响应外部力量。实用点说，他们可以保持平衡，并对任何试图把他们推来勾去的尝试做出反应。",
     "stage": 1,
     "context": "return \"This character's legs have mutated to respond much more rapidly and powerfully to external force. As a practical matter, they can maintain their center of balance and respond to nearly any attempt to push them back or uproot them.\";"
   }

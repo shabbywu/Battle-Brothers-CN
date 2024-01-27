@@ -1274,8 +1274,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:42.523Z",
         "updatedAt": "2023-06-26T05:46:30.811Z",
-        "modifiedAt": "2024-01-24T07:30:45Z",
-        "sha256": "ced808bb6681d98a13af441d65b7d6193c4077d9c6661450bdb35596d3be8878"
+        "modifiedAt": "2024-01-25T08:04:09Z",
+        "sha256": "2996e70b3a911e06a24f7752c97c1fc06f50c7190bfb1b4dd78d04adee5aca63"
     },
     "scripts/config/items.json": {
         "id": 918417,
@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-01-24T07:31:03Z",
-        "sha256": "01a17066aca043f7e4084dfa191bb96562e3de0275fb8c3e19936312104acfd2"
+        "modifiedAt": "2024-01-25T02:21:32Z",
+        "sha256": "f61661225a6ee92a4854b3a1b4d064dba31263c406abf2c019e760f46b15a0f6"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -2138,8 +2138,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:05.723Z",
         "updatedAt": "2023-06-26T05:46:49.42Z",
-        "modifiedAt": "2023-07-01T09:39:58Z",
-        "sha256": "74d7d6ea6a9a97a582a0aafa3939e760506d61faa095c46052f04b2f022e9548"
+        "modifiedAt": "2024-01-26T08:57:42Z",
+        "sha256": "c98e24d10d0446006bf66e7785c55b0cae23833903a19c4dc85282bfb40d8c8e"
     },
     "scripts/contracts/contracts/patrol_contract.json": {
         "id": 918465,
@@ -2408,8 +2408,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:13.399Z",
         "updatedAt": "2023-06-26T05:46:53.899Z",
-        "modifiedAt": "2024-01-09T08:55:02Z",
-        "sha256": "33c7973f69be9ce5b1e215179187fa2f81c146d4d845a6388e4d931d432065fa"
+        "modifiedAt": "2024-01-25T02:22:12Z",
+        "sha256": "2eae2fe8a14aa54d83aefc0bd312fd307d69d7b3d344ce3e070a35ed782ef21f"
     },
     "scripts/dlc/dlc_paladins.json": {
         "id": 918480,
@@ -7358,8 +7358,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:01.174Z",
         "updatedAt": "2023-06-26T05:47:24.704Z",
-        "modifiedAt": "2023-06-26T05:47:25Z",
-        "sha256": "c6d1b46a47f948abb7650c43aa4f6f1eeb4c67f105e6c168795a45f57c0ce678"
+        "modifiedAt": "2024-01-25T02:20:12Z",
+        "sha256": "83bb617ed7da0fe068f688e5401db894476c4b01ed97c9c9451b5e18512841fe"
     },
     "scripts/entity/world/settlements/situations/raided_situation.json": {
         "id": 918755,
@@ -7502,8 +7502,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:04.058Z",
         "updatedAt": "2023-06-26T05:47:25.639Z",
-        "modifiedAt": "2023-06-26T05:47:26Z",
-        "sha256": "009429e9973f62bd2abf3ebfc9aecb27e5fccd1c7e8c19a954e96705b897d85a"
+        "modifiedAt": "2024-01-25T08:00:06Z",
+        "sha256": "c81fd1b600db2d6b61e7db82692db9f2e3427ad1c5c7b25ca03807af38074e90"
     },
     "scripts/entity/world/settlements/situations/short_on_food_situation.json": {
         "id": 918763,
@@ -16790,8 +16790,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:30.592Z",
         "updatedAt": "2023-06-26T05:48:21.819Z",
-        "modifiedAt": "2023-06-26T05:48:22Z",
-        "sha256": "70aa41c36e2ec3a17afb6d9ad43d5e874f6f718caa60a0dad679084d1a4ad700"
+        "modifiedAt": "2024-01-25T02:22:27Z",
+        "sha256": "4eccf2a8f42f01ab1c82c13291449dd4108c7ac04b915e6d00d46e54c2f2825c"
     },
     "scripts/items/accessory/poison_item.json": {
         "id": 919279,
@@ -22838,8 +22838,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:59.024Z",
         "updatedAt": "2023-06-26T05:48:48.483Z",
-        "modifiedAt": "2023-06-26T05:48:48Z",
-        "sha256": "23f2863f6c8aaa32cdbb2e4fed880bf1fb7d569984852c1f4d174343d7de33cf"
+        "modifiedAt": "2024-01-25T02:28:28Z",
+        "sha256": "26f9dee15e5c4447933fa5a3a56d1288fc730d4ca1bdccb39650faa2f72dbee7"
     },
     "scripts/items/misc/anatomist/kraken_potion_item.json": {
         "id": 919615,
@@ -23000,8 +23000,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:05.16Z",
         "updatedAt": "2023-06-26T05:48:49.034Z",
-        "modifiedAt": "2023-06-26T05:48:49Z",
-        "sha256": "10ab189dcffd42492ba025d60920bab2727bd9157c461a992f8c65c6cdd225d0"
+        "modifiedAt": "2024-01-25T02:28:48Z",
+        "sha256": "849e024be3d3083ed2312cfa9210321d48dbddc767c6852f95af25bb79550ae9"
     },
     "scripts/items/misc/anatomist/orc_young_potion_item.json": {
         "id": 919624,
@@ -29834,14 +29834,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:29:07.338Z",
         "updatedAt": "2023-06-26T05:49:14.424Z",
-        "modifiedAt": "2023-06-26T05:49:14Z",
-        "sha256": "e737cdecd3f3a90cb198741d7b10664d289c5417270c79e58d7ed9b8c5cb32ec"
+        "modifiedAt": "2024-01-25T02:29:45Z",
+        "sha256": "ef43adf2b5a94628a68aa75f6f41f39ab17b92cdf21ac046557adaab0284c156"
     },
     "scripts/skills/actives/debilitate.json": {
         "id": 920004,
@@ -30572,14 +30572,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:29:22.873Z",
         "updatedAt": "2023-06-26T05:49:16.884Z",
-        "modifiedAt": "2023-06-26T05:49:17Z",
-        "sha256": "bd7df8eb21132b0c92504c987f58609fed9db1b229df867bc7acab29a01bbeff"
+        "modifiedAt": "2024-01-25T02:15:42Z",
+        "sha256": "70c62b8365925a480fc64255f1fc57f5ca744eb4a44eda0947550a3d018b7ca4"
     },
     "scripts/skills/actives/insects_skill.json": {
         "id": 920045,
@@ -30632,8 +30632,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:23.97Z",
         "updatedAt": "2023-06-26T05:49:17.056Z",
-        "modifiedAt": "2024-01-18T14:25:06Z",
-        "sha256": "d97db8ae0b1a97f2389c70653558d27657f16dc239f67292cfcaa74c4e8f526b"
+        "modifiedAt": "2024-01-25T02:23:10Z",
+        "sha256": "e6a8dbe2f879595c7a4e0417475a17c967b47ed09bbd63fa4326d8e40533e591"
     },
     "scripts/skills/actives/knock_over_skill.json": {
         "id": 920048,
@@ -30650,8 +30650,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:24.33Z",
         "updatedAt": "2023-06-26T05:49:17.116Z",
-        "modifiedAt": "2024-01-18T14:24:32Z",
-        "sha256": "519131b7224edcd327ed193f41abb27c95f2c46c9739abb512869317c0afc084"
+        "modifiedAt": "2024-01-25T02:23:46Z",
+        "sha256": "2fbe5e6725041fad2834e12c56bdf67ff8fa2aba3548c2ceb0f25023481467a6"
     },
     "scripts/skills/actives/kraken_bite_skill.json": {
         "id": 920049,
@@ -30920,8 +30920,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:30.265Z",
         "updatedAt": "2023-06-26T05:49:18.017Z",
-        "modifiedAt": "2024-01-18T14:28:29Z",
-        "sha256": "6025782a0ee56e5f4c1f6f4a8f77017049de7767b1b2a4030766278862548df8"
+        "modifiedAt": "2024-01-25T02:23:50Z",
+        "sha256": "6ac5095c4d1fc7d5faa216eb97fd792da27419d6b229f3ab53c86aff1f03abd3"
     },
     "scripts/skills/actives/perfect_focus.json": {
         "id": 920064,
@@ -30974,8 +30974,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:31.953Z",
         "updatedAt": "2023-06-26T05:49:18.215Z",
-        "modifiedAt": "2024-01-24T07:29:27Z",
-        "sha256": "1a65e37c213d734cab842ff0734c73cb36a9e2a33bf59f354c21ee011ca048cf"
+        "modifiedAt": "2024-01-25T02:23:55Z",
+        "sha256": "c2a69023b21fefc1880e1db7cf3b3ef67002f6ddba78394f7bd4ca8a80ceb756"
     },
     "scripts/skills/actives/prong_skill.json": {
         "id": 920067,
@@ -31202,14 +31202,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:29:37.41Z",
         "updatedAt": "2023-06-26T05:49:19.047Z",
-        "modifiedAt": "2023-06-26T05:49:19Z",
-        "sha256": "3d995ed177d511ea5e23791486f32e607d6a5d184bc9148aed4fbb7fc6f3a977"
+        "modifiedAt": "2024-01-25T02:24:05Z",
+        "sha256": "20a1048a00cda01872c74d32eeb465274e03d165afaacad46ea556d706c9f166"
     },
     "scripts/skills/actives/riposte.json": {
         "id": 920080,
@@ -31256,14 +31256,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:29:38.467Z",
         "updatedAt": "2023-06-26T05:49:19.217Z",
-        "modifiedAt": "2023-06-26T05:49:19Z",
-        "sha256": "fc7f038d2f3f2a0c20cf33dee4721a18f7e0ef7941ddc041a7ed42c22c73c6c5"
+        "modifiedAt": "2024-01-25T02:26:33Z",
+        "sha256": "1db5d503f41fd791e3573d854b7cea1954acd8c749f0835141f5adbb9c152ad0"
     },
     "scripts/skills/actives/round_swing.json": {
         "id": 920083,
@@ -31910,8 +31910,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:53.383Z",
         "updatedAt": "2023-06-26T05:49:21.434Z",
-        "modifiedAt": "2024-01-24T07:29:57Z",
-        "sha256": "d38aa8804eae203e4f50558b9919e417a08bb95541795b80806ba40e85907a9c"
+        "modifiedAt": "2024-01-25T02:27:08Z",
+        "sha256": "bfa35b943efba0472b50fd504eccc1f6aed89c3f9c6ad9a0ff5e77c9757e5160"
     },
     "scripts/skills/actives/throw_acid_flask.json": {
         "id": 920119,
@@ -32516,14 +32516,14 @@
         "total": 14,
         "translated": 14,
         "disputed": 0,
-        "checked": 14,
-        "reviewed": 14,
+        "checked": 12,
+        "reviewed": 12,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:12.177Z",
         "updatedAt": "2023-06-26T05:49:23.749Z",
-        "modifiedAt": "2023-06-26T05:49:24Z",
-        "sha256": "833c602e15394723f4dd2014e7005c7b68df3578d06b8d1baebbcab67f2485a8"
+        "modifiedAt": "2024-01-25T06:39:47Z",
+        "sha256": "5c6587db3ae391ff4e5fc16c50b7e0e5864d94d6adb0330130fa2e248e0be082"
     },
     "scripts/skills/backgrounds/apprentice_background.json": {
         "id": 920153,
@@ -32534,14 +32534,14 @@
         "total": 15,
         "translated": 15,
         "disputed": 0,
-        "checked": 15,
-        "reviewed": 15,
+        "checked": 14,
+        "reviewed": 14,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:12.525Z",
         "updatedAt": "2023-06-26T05:49:23.827Z",
-        "modifiedAt": "2023-06-26T05:49:24Z",
-        "sha256": "249ea27b1c5ec2c9d4cd3bf2748e64b8e88b29f2c42b20f66b64ad364b6f7006"
+        "modifiedAt": "2024-01-26T00:29:15Z",
+        "sha256": "769d4de46f755dc4604d5d3226e4b037fac1c2c486a1e3f7f9d0b20b09f98aa4"
     },
     "scripts/skills/backgrounds/assassin_background.json": {
         "id": 920154,
@@ -32606,14 +32606,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:14.647Z",
         "updatedAt": "2023-06-26T05:49:24.107Z",
-        "modifiedAt": "2023-07-07T02:53:41Z",
-        "sha256": "5c061723a18d698b2153081928b76bf8ad253b7d8e871a5da62ba8d656870328"
+        "modifiedAt": "2024-01-26T01:02:03Z",
+        "sha256": "9661892e80bb7fd010d7bb37cb03bbc9ec7c7c32704bce0e54d9e98ad04c8508"
     },
     "scripts/skills/backgrounds/beast_hunter_background.json": {
         "id": 920158,
@@ -32624,14 +32624,14 @@
         "total": 11,
         "translated": 11,
         "disputed": 0,
-        "checked": 11,
-        "reviewed": 11,
+        "checked": 9,
+        "reviewed": 9,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:15.328Z",
         "updatedAt": "2023-06-26T05:49:24.177Z",
-        "modifiedAt": "2023-06-26T05:49:24Z",
-        "sha256": "9bbcb0e5ee3e591a6c592f926b9f65d4a2aced341794e9811b93c2bb6115927c"
+        "modifiedAt": "2024-01-26T06:04:18Z",
+        "sha256": "6b308e2baeb545aead7384f55672c3e085a62182c2b1e5fafe31fa07fc076181"
     },
     "scripts/skills/backgrounds/beggar_background.json": {
         "id": 920159,
@@ -32696,14 +32696,14 @@
         "total": 9,
         "translated": 9,
         "disputed": 0,
-        "checked": 9,
-        "reviewed": 9,
+        "checked": 8,
+        "reviewed": 8,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:19.428Z",
         "updatedAt": "2023-06-26T05:49:24.699Z",
-        "modifiedAt": "2023-06-26T05:49:25Z",
-        "sha256": "0b011b1bd986aaea80e4cd5926c4b7a6e0b272ac394c29483947192b4f351836"
+        "modifiedAt": "2024-01-26T06:33:29Z",
+        "sha256": "595ed86e205d40bf628d6228e85a224e4e8372c06be3212447a0caa1bfa502f1"
     },
     "scripts/skills/backgrounds/brawler_background.json": {
         "id": 920163,
@@ -34826,8 +34826,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:11.765Z",
         "updatedAt": "2023-06-26T05:49:35.652Z",
-        "modifiedAt": "2024-01-24T01:57:22Z",
-        "sha256": "65b8fd00a4eb47a34cae848a1a00ececf3c77a41a66cd9646651ff92fc36638c"
+        "modifiedAt": "2024-01-25T02:30:04Z",
+        "sha256": "f6402a065f03000b40ea0de7ae7f130ffa2512900584ebfb12c4df33d8c1b77f"
     },
     "scripts/skills/effects/indomitable_effect.json": {
         "id": 920281,
@@ -34844,7 +34844,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:12.158Z",
         "updatedAt": "2023-06-26T05:49:35.731Z",
-        "modifiedAt": "2024-01-24T01:58:48Z",
+        "modifiedAt": "2024-01-25T02:15:45Z",
         "sha256": "a9fb5687e350608b27c6181ec65591379b54d61344566d0ef464e41aa5d0879f"
     },
     "scripts/skills/effects/insect_swarm_effect.json": {
@@ -35144,14 +35144,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:23.459Z",
         "updatedAt": "2023-06-26T05:49:36.887Z",
-        "modifiedAt": "2023-06-26T05:49:37Z",
-        "sha256": "b3662ef9bbf5334b82aa0fe218eeca218fcadff82a36635cdd7e23d2dc933b36"
+        "modifiedAt": "2024-01-25T00:55:13Z",
+        "sha256": "94b46baeb06d0e32a69526cf71541d54171a181eae0b61970cba7032c9d4dc6a"
     },
     "scripts/skills/effects/orc_berserker_potion_effect.json": {
         "id": 920299,
@@ -35168,8 +35168,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:24.564Z",
         "updatedAt": "2023-06-26T05:49:36.951Z",
-        "modifiedAt": "2024-01-23T08:45:35Z",
-        "sha256": "25c86baa491fe5c042401a1e61894f0d62b3d4e774bf117101574a79f14ec22e"
+        "modifiedAt": "2024-01-25T00:58:53Z",
+        "sha256": "167718372306f0e8babd339dc2070b92aeaf5586acbedfe4f5e418ed4656cabe"
     },
     "scripts/skills/effects/orc_warlord_potion_effect.json": {
         "id": 920300,
@@ -35186,8 +35186,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:24.908Z",
         "updatedAt": "2023-06-26T05:49:37.011Z",
-        "modifiedAt": "2024-01-23T08:45:35Z",
-        "sha256": "0a9e21239e78aa0038ef699932b5e63115fd391c4ed98921e6803152b11e9212"
+        "modifiedAt": "2024-01-25T01:05:50Z",
+        "sha256": "5c6303fe77be4246e71ea7c4001c8d3f50b03b8de0c9b72faeadaa4e094307bc"
     },
     "scripts/skills/effects/orc_warrior_potion_effect.json": {
         "id": 920301,
@@ -35204,8 +35204,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:25.245Z",
         "updatedAt": "2023-06-26T05:49:37.077Z",
-        "modifiedAt": "2024-01-23T08:45:35Z",
-        "sha256": "7eb24d7297d53b48df37898894540662d5cfabf9751f52e312a7c890809e5fe5"
+        "modifiedAt": "2024-01-25T02:30:10Z",
+        "sha256": "407b15481b675fe3e2cfac6b5af45d801eb79addc3c535ce391e07434df2e7ea"
     },
     "scripts/skills/effects/orc_young_potion_effect.json": {
         "id": 920302,
@@ -35252,14 +35252,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:26.886Z",
         "updatedAt": "2023-06-26T05:49:37.269Z",
-        "modifiedAt": "2024-01-15T03:09:19Z",
-        "sha256": "7ab7375aacbf143a2c75a5d86a004536dec01ac3d3170b49fdff583af86ab02c"
+        "modifiedAt": "2024-01-25T01:20:16Z",
+        "sha256": "931b075152d5bc9397c6c274592bbed407e74de3e2e39fe365ad5fb452510318"
     },
     "scripts/skills/effects/possessed_undead_effect.json": {
         "id": 920305,
@@ -35312,8 +35312,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:29.326Z",
         "updatedAt": "2023-06-26T05:49:37.447Z",
-        "modifiedAt": "2024-01-23T08:45:35Z",
-        "sha256": "5c5eae1a05cd97625595c5e07080ec3dd207ad4060ead1e0be1bff760dfb6258"
+        "modifiedAt": "2024-01-25T01:27:26Z",
+        "sha256": "f8e3c5a37335e80789d3a7aba8ba2f9b2a34353033fc2e7cd65439f42d56e63b"
     },
     "scripts/skills/effects/rallied_effect.json": {
         "id": 920308,
@@ -35396,14 +35396,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:31.137Z",
         "updatedAt": "2023-06-26T05:49:37.753Z",
-        "modifiedAt": "2023-06-26T05:49:38Z",
-        "sha256": "6abf42eb44f70ec0c07c01b57e0befe48fb173b63863b05ffd677514530fdf92"
+        "modifiedAt": "2024-01-25T01:32:43Z",
+        "sha256": "ba62c848c0e7c846e23c5bfa20bf81608831e27bc83a591c9953e86fd4877733"
     },
     "scripts/skills/effects/schrat_potion_effect.json": {
         "id": 920313,
@@ -35420,8 +35420,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:31.473Z",
         "updatedAt": "2023-06-26T05:49:37.864Z",
-        "modifiedAt": "2024-01-23T08:45:35Z",
-        "sha256": "d1c4b83f892b61565cfa10d3edf94d9d1f8daf76e712178ead939876381b295e"
+        "modifiedAt": "2024-01-25T01:36:18Z",
+        "sha256": "ab5d074ddc966bdb2d7a61b82f8ab182364c4d165e013dc4564d4af42177c036"
     },
     "scripts/skills/effects/serpent_ensnare_effect.json": {
         "id": 920314,
@@ -35432,14 +35432,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:31.81Z",
         "updatedAt": "2023-06-26T05:49:38.08Z",
-        "modifiedAt": "2023-06-26T05:49:38Z",
-        "sha256": "c84bcadd5bd11c3c81376f0117c6cb0e405b54ad96683e96c1d931bb2bd0ff33"
+        "modifiedAt": "2024-01-25T01:38:24Z",
+        "sha256": "b991e483d14553cd5cb29359e76262aca6f56ec0f825a8873b73c7825f970f58"
     },
     "scripts/skills/effects/serpent_potion_effect.json": {
         "id": 920315,
@@ -35456,8 +35456,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:32.148Z",
         "updatedAt": "2023-06-26T05:49:38.139Z",
-        "modifiedAt": "2024-01-23T08:45:35Z",
-        "sha256": "8e9f74d757c1641feb52a3cb3612a5178ea031974eabfd337bc939977025131e"
+        "modifiedAt": "2024-01-25T01:44:30Z",
+        "sha256": "fe966fff96a9860500a5927b7ecee1ffac1c669ab87a39234b79a2d67150355c"
     },
     "scripts/skills/effects/shellshocked_effect.json": {
         "id": 920316,
@@ -35468,14 +35468,14 @@
         "total": 11,
         "translated": 11,
         "disputed": 0,
-        "checked": 9,
-        "reviewed": 9,
+        "checked": 7,
+        "reviewed": 7,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:32.482Z",
         "updatedAt": "2023-06-26T05:49:38.226Z",
-        "modifiedAt": "2023-06-26T05:49:38Z",
-        "sha256": "71cbe084c3e2176ccbb11e7b7a83e12a85081ca8c18dfc0da8dfda996ab238ae"
+        "modifiedAt": "2024-01-25T02:12:52Z",
+        "sha256": "bfee068ef44e05bb60cfd513568051844d750a827c225a959416609e98424733"
     },
     "scripts/skills/effects/shieldwall_effect.json": {
         "id": 920317,
@@ -35510,8 +35510,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:33.182Z",
         "updatedAt": "2023-06-26T05:49:38.42Z",
-        "modifiedAt": "2024-01-23T08:45:35Z",
-        "sha256": "5abe06eb7c8561bc38409a123bfee35d2c19b83f27daeb1e36c06a54eecc2f7d"
+        "modifiedAt": "2024-01-25T01:56:36Z",
+        "sha256": "07d020844bc61c6496c126588d0869efc0b066e7e8ed683e07240eb4582e12a4"
     },
     "scripts/skills/effects/sleeping_effect.json": {
         "id": 920319,
@@ -35522,14 +35522,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:33.59Z",
         "updatedAt": "2023-06-26T05:49:38.488Z",
-        "modifiedAt": "2023-06-26T05:49:38Z",
-        "sha256": "c415891783da1517e3ce0fc396568992378c2822c6098441867fd661094bb70b"
+        "modifiedAt": "2024-01-25T02:00:30Z",
+        "sha256": "1d4f15b353ab01bc8143bc340af2fda0fd831f77d4f338a2aa113f9288f18463"
     },
     "scripts/skills/effects/smoke_effect.json": {
         "id": 920320,
@@ -35540,14 +35540,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:33.965Z",
         "updatedAt": "2023-06-26T05:49:38.569Z",
-        "modifiedAt": "2023-07-04T15:40:54Z",
-        "sha256": "dd211275115a99a02867072c1c2ceda45057cc85a992ed0910812bc70442ad64"
+        "modifiedAt": "2024-01-25T02:08:04Z",
+        "sha256": "ca69e977d9f09d2dc1603827a34b90df90bf62bde50dd54d636d984f9d644c30"
     },
     "scripts/skills/effects/spearwall_effect.json": {
         "id": 920321,
@@ -35558,14 +35558,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:34.754Z",
         "updatedAt": "2023-06-26T05:49:38.631Z",
-        "modifiedAt": "2023-06-26T05:49:39Z",
-        "sha256": "ff81858b2e1c34a132a3c0e82796a7b46c46985a9b65978b4a71254a2b0eb108"
+        "modifiedAt": "2024-01-25T02:10:23Z",
+        "sha256": "1a9ec547f9275233a96cb829f9bc2db8dea90a81b5e4f7fa6b5c5896d602ddd9"
     },
     "scripts/skills/effects/spider_poison_coat_effect.json": {
         "id": 920322,
@@ -35576,14 +35576,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:35.329Z",
         "updatedAt": "2023-06-26T05:49:38.7Z",
-        "modifiedAt": "2024-01-15T03:14:31Z",
-        "sha256": "a390cee6855d651da61ccc226748f7736003526d3682dfbfddd5a2344d5f7438"
+        "modifiedAt": "2024-01-25T02:11:36Z",
+        "sha256": "5292ac957f934819ea92a458835c8e3897576d9bb71635162e5caef633c84a64"
     },
     "scripts/skills/effects/spider_poison_effect.json": {
         "id": 920323,
@@ -35648,14 +35648,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:37.204Z",
         "updatedAt": "2023-06-26T05:49:38.933Z",
-        "modifiedAt": "2023-06-26T05:49:39Z",
-        "sha256": "b516bfab634aa2973ac8c5ff07d964d6a76116614cb26cf5f2403ecb1dcdfeb0"
+        "modifiedAt": "2024-01-25T02:27:31Z",
+        "sha256": "dffd79b1bc291f6f462a6fa9f9771889b52e8839d04c399b5d867e7c04d99afc"
     },
     "scripts/skills/effects/swallowed_whole_effect.json": {
         "id": 920327,
@@ -35690,8 +35690,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:38.029Z",
         "updatedAt": "2023-06-26T05:49:39.105Z",
-        "modifiedAt": "2023-06-26T05:49:39Z",
-        "sha256": "a97e3b1b2af875d3e7b6540e41684ad1b23ebe197df017a2dacabaadb3e85adf"
+        "modifiedAt": "2024-01-25T02:31:09Z",
+        "sha256": "b27438bc9741b7cdefa83b701f094344e523ee71f9d2b660271c61c6b77e1233"
     },
     "scripts/skills/effects/taunted_effect.json": {
         "id": 920329,
@@ -35744,8 +35744,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:39.161Z",
         "updatedAt": "2023-06-26T05:49:39.329Z",
-        "modifiedAt": "2023-06-26T05:49:39Z",
-        "sha256": "05b5acc3855ff3c5812da3a25e61a60f53d77bcf942348430363452528b14e17"
+        "modifiedAt": "2024-01-25T02:32:47Z",
+        "sha256": "2e77901416c8fa734a56b56e7556ea0438aec9c44835e0ea458eeee44ba45fd7"
     },
     "scripts/skills/effects/web_effect.json": {
         "id": 920332,
@@ -35762,8 +35762,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:39.838Z",
         "updatedAt": "2023-06-26T05:49:39.39Z",
-        "modifiedAt": "2024-01-15T03:18:05Z",
-        "sha256": "d187b616d658d4c42ca891edee89318792b2a9ebe5888d73bb63bc9d81b21a03"
+        "modifiedAt": "2024-01-25T02:33:44Z",
+        "sha256": "db2a0162c0c6df478d3b60933dad1215bb3cdf430019d6deaadee97788065a59"
     },
     "scripts/skills/effects/webknecht_potion_effect.json": {
         "id": 920333,
@@ -35828,14 +35828,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 7,
-        "reviewed": 7,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:41.928Z",
         "updatedAt": "2023-06-26T05:49:39.642Z",
-        "modifiedAt": "2024-01-23T08:44:00Z",
-        "sha256": "0eff743817a6e7345af4542aeae73daf6ceb212803ee4c4f177218b025f2525e"
+        "modifiedAt": "2024-01-25T02:29:02Z",
+        "sha256": "f543f64ccf15347ce7e87502db974ea6df62c378f17de2237d86ca0f848d4fa0"
     },
     "scripts/skills/effects_world/afraid_effect.json": {
         "id": 920337,
@@ -37430,14 +37430,14 @@
         "total": 47,
         "translated": 47,
         "disputed": 0,
-        "checked": 46,
-        "reviewed": 46,
+        "checked": 45,
+        "reviewed": 45,
         "hidden": 0,
         "locked": 1,
         "createdAt": "2023-05-13T14:32:22.701Z",
         "updatedAt": "2023-06-26T05:49:45.192Z",
-        "modifiedAt": "2023-07-19T13:06:17Z",
-        "sha256": "25d7c3cf492973d91bf307c0c9d3e7092aa609fc117a2c5b7acdf0356aa08bb8"
+        "modifiedAt": "2024-01-25T02:19:05Z",
+        "sha256": "82dfa6c20faaa1cd635c943b19622f1e29ba0c39a7b3dc5d533adaa7fc52a634"
     },
     "scripts/skills/skill_container.json": {
         "id": 920426,

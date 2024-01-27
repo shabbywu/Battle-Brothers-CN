@@ -43,7 +43,7 @@
     "ID": 293421789,
     "key": "A large and sticky web holds this character in place and hampers their ability to defend themself and to put real force behind any blows. To break free, the web will have to be cut.",
     "original": "A large and sticky web holds this character in place and hampers their ability to defend themself and to put real force behind any blows. To break free, the web will have to be cut.",
-    "translation": "一张又大又粘的蛛网将这个角色固定在了原地并阻碍了他自我保护的能力，也阻碍他在打击中使出全力。要挣脱束缚就必须把网割开。",
+    "translation": "一张又大又粘的蛛网将这个角色固定在了原地，阻碍了他自我保护或全力攻击的能力，力。只有割开蛛网才能挣脱。",
     "stage": 1,
     "context": "this.m.Description = 'A large and sticky web holds this character in place and hampers their ability to defend themself and to put real force behind any blows. To break free, the web will have to be cut.'"
   },
