@@ -11,8 +11,8 @@
     "ID": 293420313,
     "key": "Switch places with another character directly adjacent, provided neither the target is stunned or rooted, nor the character using the skill is. Rotate the battle line to keep fresh troops in front!",
     "original": "Switch places with another character directly adjacent, provided neither the target is stunned or rooted, nor the character using the skill is. Rotate the battle line to keep fresh troops in front!",
-    "translation": "与另一个相邻的角色交换位置，前提是使用技能的角色和交换位置的目标均未被击晕或定身。轮换战线来确保生力军位于前列！",
-    "stage": 5,
+    "translation": "与一个直接相邻的角色交换位置，只要两个角色都没有被击晕、定身。轮换战线来确保生力军位于前列！",
+    "stage": 1,
     "context": "this.m.Description = 'Switch places with another character directly adjacent, provided neither the target is stunned or rooted, nor the character using the skill is. Rotate the battle line to keep fresh troops in front!'"
   },
   {

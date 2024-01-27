@@ -843,7 +843,7 @@
     "ID": 293405741,
     "key": "]100%[/color] chance to stun the target if not immune.\n\nThe Polemace no longer has a penalty for attacking targets directly adjacent.",
     "original": "]100%[/color] chance to stun the target if not immune.\n\nThe Polemace no longer has a penalty for attacking targets directly adjacent.",
-    "translation": "]100%[/color] 的几率使其眩晕。\n\n使用长棍攻击近身敌人不再有命中率惩罚。",
+    "translation": "]100%[/color] 的几率使其昏迷。\n\n使用长棍攻击近身敌人不再有命中率惩罚。",
     "stage": 1,
     "context": "SpecMace = 'Master maces to beat your opponents into submission, armored or not. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nKnock Out, Knock Over and Strike Down have a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stun the target if not immune.\n\nThe Polemace no longer has a penalty for attacking targets directly adjacent.'"
   },
@@ -1363,7 +1363,7 @@
     "ID": 293405806,
     "key": "]50%[/color] damage reduction and immunity to being stunned, knocked back or grabbed for one turn.",
     "original": "]50%[/color] damage reduction and immunity to being stunned, knocked back or grabbed for one turn.",
-    "translation": "]50%[/color]的伤害减免，以及对被击晕、撞退或抓住的免疫，持续一回合。",
+    "translation": "]50%[/color]的伤害减免，以及对昏迷、击退或勾拽的免疫，持续一回合。",
     "stage": 1,
     "context": "Indomitable = \"Unlocks the 'Indomitable' skill which grants a [color=\" + this.Const.UI.Color.PositiveValue + ']50%[/color] damage reduction and immunity to being stunned, knocked back or grabbed for one turn.'"
   },
@@ -3851,7 +3851,7 @@
     "ID": 293406117,
     "key": "Immunity against being knocked back or pulled up close. Applies to skills such as Knock Back, Hook and others that change a character's position.",
     "original": "Immunity against being knocked back or pulled up close. Applies to skills such as Knock Back, Hook and others that change a character's position.",
-    "translation": "免疫位移技能。适用于诸如撞退、钩子和其他改变角色位置的技能。",
+    "translation": "免疫位移技能。适用于诸如击退、勾拽和其他改变角色位置的技能。",
     "stage": 1,
     "context": "Stalwart = \"Immunity against being knocked back or pulled up close. Applies to skills such as Knock Back, Hook and others that change a character's position.\""
   },
@@ -4851,7 +4851,7 @@
     "ID": 293406242,
     "key": "Immunity against being stunned.",
     "original": "Immunity against being stunned.",
-    "translation": "免疫眩晕。",
+    "translation": "免疫昏迷。",
     "stage": 1,
     "context": "BatteringRam = 'Immunity against being stunned.'"
   },
@@ -9659,7 +9659,7 @@
     "ID": 293406843,
     "key": "Unlocks the 'Rotation' skill which allows two characters to switch places while ignoring Zone of Control as long as neither character is stunned, rooted or otherwise disabled.",
     "original": "Unlocks the 'Rotation' skill which allows two characters to switch places while ignoring Zone of Control as long as neither character is stunned, rooted or otherwise disabled.",
-    "translation": "解锁“旋转”技能，该技能允许两个角色在无视控制区域的情况下切换位置，只要两个角色都没有被击晕、定身或以其他方式禁用。",
+    "translation": "解锁“换位”技能，该技能允许两个角色在无视控制区域的情况下切换位置，只要两个角色都没有被击晕、定身或因其他方式失能。",
     "stage": 1,
     "context": "Rotation = \"Unlocks the 'Rotation' skill which allows two characters to switch places while ignoring Zone of Control as long as neither character is stunned, rooted or otherwise disabled.\""
   },

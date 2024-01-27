@@ -35,8 +35,8 @@
     "ID": 293420841,
     "key": "After you left the %companyname%, you sent a letter inquiring about the status of %name% the bowyer. You got word that he had discovered a way to craft the finest bow possible and, instead of giving this secret to the company, he departed to start his own",
     "original": "After you left the %companyname%, you sent a letter inquiring about the status of %name% the bowyer. You got word that he had discovered a way to craft the finest bow possible and, instead of giving this secret to the company, he departed to start his own business. He did not get far: whatever he had learned about his trade died with him on a muddy road out {north | south | west | east} of here, his body ironically skewered with what is said to have been a dozen arrows.",
-    "translation": "你离开%companyname%后，曾寄信询问弓匠%name%的近况。你得到消息称，他发现了一种制作最好弓的方法，并没有将这个秘密告诉战团，而是离开去开创自己的事业。他没走多远：他所学到的一切都随着他一起死在了{北 | 南 | 西 | 东}边的一条泥泞的路上，讽刺的是，他的身体上被刺了据说一打的箭。",
-    "stage": 5,
+    "translation": "你离开%companyname%后，曾寄信询问弓匠%name%的近况。你得到消息称，他发现了一种制作最好弓的方法，并没有将这个秘密告诉战团，而是离开去开创自己的事业。他没走多远：他所学到的一切都随着他一起死在了{北 | 南 | 西 | 东}边的一条泥泞的路上，讽刺的是，他的身体上扎着据说一打的箭。",
+    "stage": 1,
     "context": "this.m.BadEnding = 'After you left the %companyname%, you sent a letter inquiring about the status of %name% the bowyer. You got word that he had discovered a way to craft the finest bow possible and, instead of giving this secret to the company, he departed to start his own business. He did not get far: whatever he had learned about his trade died with him on a muddy road out {north | south | west | east} of here, his body ironically skewered with what is said to have been a dozen arrows.'"
   },
   {

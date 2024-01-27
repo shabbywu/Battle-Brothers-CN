@@ -11,7 +11,7 @@
     "ID": 293421682,
     "key": "Receives only [color=",
     "original": "Receives only [color=",
-    "translation": "只受到[color=",
+    "translation": "受到的伤害降低到[color=",
     "stage": 2,
     "context": "text = 'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']75%[/color] of any damage if hitpoints are below [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color]'"
   },
@@ -27,7 +27,7 @@
     "ID": 293421684,
     "key": "]+25%[/color] Damage if hitpoints are below [color=",
     "original": "]+25%[/color] Damage if hitpoints are below [color=",
-    "translation": "]+25%[/color]伤害当生命值低于[color=",
+    "translation": "]+25%[/color]伤害，前提是生命值低于[color=",
     "stage": 2,
     "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] Damage if hitpoints are below [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color]'"
   },
@@ -35,7 +35,7 @@
     "ID": 293421685,
     "key": "]75%[/color] of any damage if hitpoints are below [color=",
     "original": "]75%[/color] of any damage if hitpoints are below [color=",
-    "translation": "]75%[/color]任何伤害, 当生命值低于[color=",
+    "translation": "]75%[/color], 前提是生命值低于[color=",
     "stage": 2,
     "context": "text = 'Receives only [color=' + this.Const.UI.Color.PositiveValue + ']75%[/color] of any damage if hitpoints are below [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color]'"
   },

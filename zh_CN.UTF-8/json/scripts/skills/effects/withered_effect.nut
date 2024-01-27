@@ -51,8 +51,8 @@
     "ID": 293421815,
     "key": "Withered",
     "original": "Withered",
-    "translation": "老化",
-    "stage": 5,
+    "translation": "凋零",
+    "stage": 1,
     "context": "this.m.Name = 'Withered'"
   },
   {

@@ -1875,7 +1875,7 @@
     "ID": 293405103,
     "key": "Needle",
     "original": "Needle",
-    "translation": "线针",
+    "translation": "刺针",
     "stage": 1,
     "context": "'Needle'"
   },

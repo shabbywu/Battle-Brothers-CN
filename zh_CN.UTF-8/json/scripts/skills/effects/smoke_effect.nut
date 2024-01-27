@@ -27,8 +27,8 @@
     "ID": 293421746,
     "key": "This character is covered by dense layers of smoke. Slipping in and out of visibility, they can move freely and ignore any zones of control.",
     "original": "This character is covered by dense layers of smoke. Slipping in and out of visibility, they can move freely and ignore any zones of control.",
-    "translation": "这个角色被层层浓烟所笼罩。在不停的时隐时现中，他们可以自由移动并忽略任何控制区域。",
-    "stage": 5,
+    "translation": "这个角色被层层浓烟所笼罩。烟雾中的景象忽隐忽现，让他们有机会无视控制区域自由移动。",
+    "stage": 1,
     "context": "return 'This character is covered by dense layers of smoke. Slipping in and out of visibility, they can move freely and ignore any zones of control.';"
   },
   {

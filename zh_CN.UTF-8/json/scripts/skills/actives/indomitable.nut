@@ -35,8 +35,8 @@
     "ID": 293420108,
     "key": "Become immune to being stunned",
     "original": "Become immune to being stunned",
-    "translation": "变得免疫击晕",
-    "stage": 5,
+    "translation": "变得免疫昏迷",
+    "stage": 1,
     "context": "text = 'Become immune to being stunned'"
   },
   {

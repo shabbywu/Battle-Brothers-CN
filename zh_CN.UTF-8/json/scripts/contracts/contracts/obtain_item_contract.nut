@@ -11,7 +11,7 @@
     "ID": 293409484,
     "key": "Starmap Disc",
     "original": "Starmap Disc",
-    "translation": "星图光盘",
+    "translation": "星图石碟",
     "stage": 1,
     "context": "'Starmap Disc'"
   },
@@ -123,7 +123,7 @@
     "ID": 293409498,
     "key": "Forefathers' Scroll",
     "original": "Forefathers' Scroll",
-    "translation": "祖先的卷轴",
+    "translation": "先祖卷轴",
     "stage": 1,
     "context": "\"Forefathers' Scroll\""
   },
@@ -147,7 +147,7 @@
     "ID": 293409501,
     "key": "Shroud of the Founder",
     "original": "Shroud of the Founder",
-    "translation": "创始人裹尸布",
+    "translation": "奠基者的裹尸布",
     "stage": 1,
     "context": "'Shroud of the Founder'"
   },
@@ -211,7 +211,7 @@
     "ID": 293409509,
     "key": "Seal of the False King",
     "original": "Seal of the False King",
-    "translation": "海豹王",
+    "translation": "伪王的图章",
     "stage": 1,
     "context": "'Seal of the False King'"
   },
@@ -227,7 +227,7 @@
     "ID": 293409511,
     "key": "Forefathers' Standard",
     "original": "Forefathers' Standard",
-    "translation": "祖先的规则",
+    "translation": "先祖战旗",
     "stage": 1,
     "context": "\"Forefathers' Standard\""
   },
@@ -243,7 +243,7 @@
     "ID": 293409513,
     "key": "Staff of Golden Harvests",
     "original": "Staff of Golden Harvests",
-    "translation": "丰收的人",
+    "translation": "丰收金杖",
     "stage": 1,
     "context": "'Staff of Golden Harvests'"
   },
@@ -291,7 +291,7 @@
     "ID": 293409519,
     "key": "Dice of Destiny",
     "original": "Dice of Destiny",
-    "translation": "命运之骰子",
+    "translation": "命运之骰",
     "stage": 1,
     "context": "'Dice of Destiny'"
   },
@@ -315,7 +315,7 @@
     "ID": 293409522,
     "key": "Elderstone",
     "original": "Elderstone",
-    "translation": "长者石",
+    "translation": "长者之石",
     "stage": 1,
     "context": "'Elderstone'"
   },
@@ -331,7 +331,7 @@
     "ID": 293409524,
     "key": "Seal of the Sun",
     "original": "Seal of the Sun",
-    "translation": "太阳的印记",
+    "translation": "太阳图章",
     "stage": 1,
     "context": "'Seal of the Sun'"
   },
@@ -339,7 +339,7 @@
     "ID": 293409525,
     "key": "Prophet's Pamphlets",
     "original": "Prophet's Pamphlets",
-    "translation": "先知的小册子",
+    "translation": "先知笔记",
     "stage": 1,
     "context": "\"Prophet's Pamphlets\""
   },
@@ -379,7 +379,7 @@
     "ID": 293409530,
     "key": "Staff of Foresight",
     "original": "Staff of Foresight",
-    "translation": "有远见的人",
+    "translation": "远见之杖",
     "stage": 1,
     "context": "'Staff of Foresight'"
   },

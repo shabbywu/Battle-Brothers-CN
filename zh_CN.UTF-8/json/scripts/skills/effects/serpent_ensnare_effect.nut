@@ -11,16 +11,16 @@
     "ID": 293421709,
     "key": "This character is entangled in a giant serpent. Each turn, the serpent threatens to crush them by gripping ever tighter, resulting in the loss of [color=",
     "original": "This character is entangled in a giant serpent. Each turn, the serpent threatens to crush them by gripping ever tighter, resulting in the loss of [color=",
-    "translation": "这个角色被一条巨大的蛇缠住了。每回合，这条蛇都会威胁着越来越紧地抓紧他们，导致失去[color=",
-    "stage": 5,
+    "translation": "这个角色被一条巨大的蛇缠住了。这条蛇缠绕地越来越紧，仿佛要将人勒断。受害者每回合失去[color=",
+    "stage": 1,
     "context": "this.m.Description = 'This character is entangled in a giant serpent. Each turn, the serpent threatens to crush them by gripping ever tighter, resulting in the loss of [color=' + this.Const.UI.Color.NegativeValue + ']10[/color] hitpoints.'"
   },
   {
     "ID": 293421710,
     "key": "]10[/color] hitpoints.",
     "original": "]10[/color] hitpoints.",
-    "translation": "]10[/color] 生命值",
-    "stage": 5,
+    "translation": "]10[/color] 点生命值",
+    "stage": 1,
     "context": "this.m.Description = 'This character is entangled in a giant serpent. Each turn, the serpent threatens to crush them by gripping ever tighter, resulting in the loss of [color=' + this.Const.UI.Color.NegativeValue + ']10[/color] hitpoints.'"
   },
   {

@@ -3,8 +3,8 @@
     "ID": 293419906,
     "key": "Inflicts [color=",
     "original": "Inflicts [color=",
-    "translation": "当目标带有茫然、击晕或被困在网中的状态效果时，造成 [color=",
-    "stage": 5,
+    "translation": "当目标带有茫然、昏迷或被困在网中的状态效果时，造成 [color=",
+    "stage": 1,
     "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] more damage against and ignores additional [color=' + this.Const.UI.Color.DamageValue + ']20%[/color] armor of targets that have the Dazed, Stunned or Trapped in Net status effects'"
   },
   {

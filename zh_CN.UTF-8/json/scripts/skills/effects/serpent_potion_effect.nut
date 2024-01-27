@@ -11,7 +11,7 @@
     "ID": 293421714,
     "key": "Gain an additional [color=",
     "original": "Gain an additional [color=",
-    "translation": "每有一个盟友包围攻击目标获得额外 [color=",
+    "translation": "攻击目标周围每有一名盟友，近战命中率提升 [color=",
     "stage": 1,
     "context": "text = 'Gain an additional [color=' + this.Const.UI.Color.PositiveValue + ']+3%[/color] chance to hit in melee for every ally adjacent to your target'"
   },
@@ -19,7 +19,7 @@
     "ID": 293421715,
     "key": "]+3%[/color] chance to hit in melee for every ally adjacent to your target",
     "original": "]+3%[/color] chance to hit in melee for every ally adjacent to your target",
-    "translation": "]+3%[/color] 近战命中率",
+    "translation": "]+3%[/color]",
     "stage": 1,
     "context": "text = 'Gain an additional [color=' + this.Const.UI.Color.PositiveValue + ']+3%[/color] chance to hit in melee for every ally adjacent to your target'"
   },
@@ -27,7 +27,7 @@
     "ID": 293421716,
     "key": "Enhanced Opportunism",
     "original": "Enhanced Opportunism",
-    "translation": "强化投机",
+    "translation": "趁火打劫",
     "stage": 1,
     "context": "this.m.Name = 'Enhanced Opportunism'"
   },

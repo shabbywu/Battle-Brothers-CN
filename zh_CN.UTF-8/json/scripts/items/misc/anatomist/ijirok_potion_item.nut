@@ -19,7 +19,7 @@
     "ID": 293418474,
     "key": "]50%[/color] chance to resist any status effect, like Dazed or Stunned",
     "original": "]50%[/color] chance to resist any status effect, like Dazed or Stunned",
-    "translation": "有 ]50%[/color] 几率抵抗任何不良状态，例如茫然或眩晕",
+    "translation": "有 ]50%[/color] 几率抵抗任何不良状态，例如茫然或昏迷",
     "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] chance to resist any status effect, like Dazed or Stunned'"
   },

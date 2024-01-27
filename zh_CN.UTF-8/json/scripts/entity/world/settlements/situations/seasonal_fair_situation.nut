@@ -3,7 +3,7 @@
     "ID": 293411870,
     "key": "Traders from far and wide gather here for the seasonal fair. Lots of people flock here from the surrounding countryside, and it's a great time to sell goods or rummage through plentiful offers.",
     "original": "Traders from far and wide gather here for the seasonal fair. Lots of people flock here from the surrounding countryside, and it's a great time to sell goods or rummage through plentiful offers.",
-    "translation": "来自四面八方的商人聚集在这里参加季节性交易会。很多人从周围的乡村聚集在这里，现在是出售商品或通过大量的报价进行翻箱倒柜的好时机。",
+    "translation": "时令大集吸引了来自天南海北的商人。周围乡村的人们大量涌向这里，出售商品或寻珍探宝也正是时候。",
     "stage": 1,
     "context": "this.m.Description = \"Traders from far and wide gather here for the seasonal fair. Lots of people flock here from the surrounding countryside, and it's a great time to sell goods or rummage through plentiful offers.\""
   },
@@ -19,7 +19,7 @@
     "ID": 293411872,
     "key": "Seasonal Fair",
     "original": "Seasonal Fair",
-    "translation": "季节性交易会",
+    "translation": "时令大集",
     "stage": 1,
     "context": "this.m.Name = 'Seasonal Fair'"
   },

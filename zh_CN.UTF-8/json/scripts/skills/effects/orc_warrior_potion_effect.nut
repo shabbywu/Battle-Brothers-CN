@@ -19,7 +19,7 @@
     "ID": 293421659,
     "key": "]33%[/color] chance to resist the Dazed, Staggered, Stunned, Distracted, and Withered status effects",
     "original": "]33%[/color] chance to resist the Dazed, Staggered, Stunned, Distracted, and Withered status effects",
-    "translation": "有 ]33%[/color] chance 的几率抵抗茫然、踉跄、眩晕、分神和凋零效果",
+    "translation": "]33%[/color] 的几率抵抗茫然、踉跄、昏迷、分神和凋零效果",
     "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] chance to resist the Dazed, Staggered, Stunned, Distracted, and Withered status effects'"
   },

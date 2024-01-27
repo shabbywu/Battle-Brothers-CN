@@ -51,8 +51,8 @@
     "ID": 293422176,
     "key": "Immune to stun",
     "original": "Immune to stun",
-    "translation": "免疫击晕",
-    "stage": 5,
+    "translation": "免疫昏迷",
+    "stage": 1,
     "context": "text = 'Immune to stun'"
   },
   {
@@ -155,7 +155,7 @@
     "ID": 293422189,
     "key": "Immune to being knocked back or hooked",
     "original": "Immune to being knocked back or hooked",
-    "translation": "免疫撞退或钩拉",
+    "translation": "免疫击退和钩拽技能",
     "stage": 1,
     "context": "text = 'Immune to being knocked back or hooked'"
   },
