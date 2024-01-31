@@ -3,8 +3,8 @@
     "ID": 293421344,
     "key": "%name% the thief read the lines being drawn in the sands and retired from the %companyname% while he still could. He took what money he had made and threw together a crew of thieves and brigands. Last you heard, he pulled off a perfect heist only for one ",
     "original": "%name% the thief read the lines being drawn in the sands and retired from the %companyname% while he still could. He took what money he had made and threw together a crew of thieves and brigands. Last you heard, he pulled off a perfect heist only for one of his partners to stab him in the back and take off with all the goods.",
-    "translation": "盗贼%name%嗅出了征兆，在趁还来得及的时候退出了%companyname%。他带着积攒的钱财招募了一支盗贼团队。最后你听说他们完成了一场完美的大劫案，只可惜其中一位同伴却对他背地里捅刀子，拿走了所有赃物。",
-    "stage": 5,
+    "translation": "盗贼%name%嗅出了征兆，趁还来得及的时候退出了%companyname%。他带着积攒的钱财招募了一支盗贼团队。最后你听说他们完成了一场完美的大劫案，只可惜其中一位同伴却对他背地里捅刀子，拿走了所有赃物。",
+    "stage": 1,
     "context": "this.m.BadEnding = '%name% the thief read the lines being drawn in the sands and retired from the %companyname% while he still could. He took what money he had made and threw together a crew of thieves and brigands. Last you heard, he pulled off a perfect heist only for one of his partners to stab him in the back and take off with all the goods.'"
   },
   {
@@ -67,8 +67,8 @@
     "ID": 293421352,
     "key": "%name% the thief retired from fighting and disappeared off the map. You haven't heard word of the man since, but there are rumors that a certain nobleman had one of his vaults completely drained in a perfectly executed heist.",
     "original": "%name% the thief retired from fighting and disappeared off the map. You haven't heard word of the man since, but there are rumors that a certain nobleman had one of his vaults completely drained in a perfectly executed heist.",
-    "translation": "盗贼%name%退出了打斗，并从地图上消失了。你们自那以后再也没有听说过这个人，但有传言说，一位贵族的金库在一次完美的劫盗中被完全掏空了。",
-    "stage": 5,
+    "translation": "盗贼%name%退出了战斗这行，并从地图上消失了。你们自那以后再也没有听说过这个人，但有传言说，一位贵族的金库在一次完美的劫盗中被完全掏空了。",
+    "stage": 1,
     "context": "this.m.GoodEnding = \"%name% the thief retired from fighting and disappeared off the map. You haven't heard word of the man since, but there are rumors that a certain nobleman had one of his vaults completely drained in a perfectly executed heist.\""
   },
   {

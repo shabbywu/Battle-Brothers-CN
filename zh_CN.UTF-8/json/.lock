@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-01-25T02:21:32Z",
-        "sha256": "f61661225a6ee92a4854b3a1b4d064dba31263c406abf2c019e760f46b15a0f6"
+        "modifiedAt": "2024-01-29T03:09:47Z",
+        "sha256": "6a44b953b600ec793d5819845a8edb5ab3051c40954a82800f624e0f2d5aeb5b"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -1616,8 +1616,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:52.703Z",
         "updatedAt": "2023-07-05T12:35:53.163Z",
-        "modifiedAt": "2023-07-05T13:55:34Z",
-        "sha256": "9f7f526033506631c4503e45356b69e208e0280e82d7da3d74ec27ea0176a6a5"
+        "modifiedAt": "2024-01-30T09:13:15Z",
+        "sha256": "be051316076b9e9f02f5cb2e84cbb35cf2af091a208bf33b15fb17b215edd46c"
     },
     "scripts/contracts/contracts/defend_holy_site_contract.json": {
         "id": 918436,
@@ -13046,8 +13046,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:04.973Z",
         "updatedAt": "2023-06-26T05:48:05.482Z",
-        "modifiedAt": "2023-06-26T05:48:05Z",
-        "sha256": "81967309967ac952161fd4a83cc0d2b4365cc8f361eea8e19dc6ff328e993c11"
+        "modifiedAt": "2024-01-29T10:11:55Z",
+        "sha256": "a48adb394ad298a4b28ff128f5022dd3a546f24850c3fdac598a3c8263714750"
     },
     "scripts/events/events/farmer_vs_butcher_event.json": {
         "id": 919071,
@@ -19717,15 +19717,15 @@
         "format": "json",
         "total": 4,
         "translated": 4,
-        "disputed": 0,
+        "disputed": 1,
         "checked": 0,
         "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:24:43.493Z",
         "updatedAt": "2023-06-26T05:48:33.773Z",
-        "modifiedAt": "2023-06-26T05:48:34Z",
-        "sha256": "52feb7bcc2ad3289ec1a2a4b982ae76db1ebbf6120afb03394595949ccd8c07e"
+        "modifiedAt": "2024-01-29T01:07:00Z",
+        "sha256": "19f902a71a4d44a9865a743f3b6521751d966e696e9fea528536481e665629a2"
     },
     "scripts/items/armor_upgrades/serpent_skin_upgrade.json": {
         "id": 919442,
@@ -34046,14 +34046,14 @@
         "total": 15,
         "translated": 15,
         "disputed": 0,
-        "checked": 15,
-        "reviewed": 15,
+        "checked": 13,
+        "reviewed": 13,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:55.513Z",
         "updatedAt": "2023-06-26T05:49:30.943Z",
-        "modifiedAt": "2023-06-26T05:49:31Z",
-        "sha256": "826e474088ee7a3f363493c21aebd446869ff4907a5cf24289aa78505d01c9f6"
+        "modifiedAt": "2024-01-29T02:32:13Z",
+        "sha256": "88f3f79ea5a33e5be8301c90581f44004a44a78d2c5d4c9676c6c311db98de10"
     },
     "scripts/skills/backgrounds/thief_southern_background.json": {
         "id": 920238,
@@ -34082,14 +34082,14 @@
         "total": 14,
         "translated": 14,
         "disputed": 0,
-        "checked": 14,
-        "reviewed": 14,
+        "checked": 11,
+        "reviewed": 11,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:56.256Z",
         "updatedAt": "2023-06-26T05:49:31.1Z",
-        "modifiedAt": "2023-06-26T05:49:31Z",
-        "sha256": "1d004f6ec35b72271452fc35b167e8db438d2791c86b958c556b7dd1ab2408c7"
+        "modifiedAt": "2024-01-29T02:28:22Z",
+        "sha256": "c7bb21eccec8a744c1a81f80620569ccd8a629ea1696455b03f0a8eb7398e116"
     },
     "scripts/skills/backgrounds/wildman_background.json": {
         "id": 920240,
@@ -34100,14 +34100,14 @@
         "total": 12,
         "translated": 12,
         "disputed": 0,
-        "checked": 12,
-        "reviewed": 12,
+        "checked": 7,
+        "reviewed": 7,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:56.6Z",
         "updatedAt": "2023-06-26T05:49:31.177Z",
-        "modifiedAt": "2023-06-28T09:15:09Z",
-        "sha256": "cd15cc1ace1b14b3c0ae476a7517964d95aa177656dc4d68fda8360b5933275b"
+        "modifiedAt": "2024-01-29T02:10:05Z",
+        "sha256": "20a8601652a04bd293d596461b39d9a0da355ed55ded8336b0c8471f81f459c4"
     },
     "scripts/skills/backgrounds/witchhunter_background.json": {
         "id": 920241,
@@ -34118,14 +34118,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 1,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:56.952Z",
         "updatedAt": "2023-06-26T05:49:31.271Z",
-        "modifiedAt": "2023-06-26T05:49:31Z",
-        "sha256": "8197d40e0865a4244ad0b98a85ff3d51c79a6aed1943d672de690bc7f241ec99"
+        "modifiedAt": "2024-01-29T01:40:48Z",
+        "sha256": "b3685a8681ad978ca8731c9e2585f6306ef031bfde7d30cb5289195f495148e6"
     },
     "scripts/skills/effects/acid_effect.json": {
         "id": 920242,
@@ -38696,8 +38696,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:52.347Z",
         "updatedAt": "2023-06-26T05:49:50.477Z",
-        "modifiedAt": "2024-01-11T03:05:36Z",
-        "sha256": "b87e8682048dfa63b2c0052d874ed58429baa67483d8d19104b5795cf3a4d0d4"
+        "modifiedAt": "2024-01-30T11:04:50Z",
+        "sha256": "966d87e1bcb3b442662b2833c88627e504907b5217c0503b3bb18fda4a172efd"
     },
     "scripts/skills/traits/oath_of_dominion_trait.json": {
         "id": 920496,
@@ -39056,8 +39056,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:59.698Z",
         "updatedAt": "2023-06-26T05:49:51.754Z",
-        "modifiedAt": "2023-06-26T05:49:52Z",
-        "sha256": "1c72dd52ea0e5b3f0f35e2d73a8f58d6b9e2cd31e10aa009d1bbad2ebf81c20e"
+        "modifiedAt": "2024-01-29T01:03:07Z",
+        "sha256": "7985a2a126514b056b0505afa163363e749914cee9bf9e3a1f4f98636691b1ed"
     },
     "scripts/skills/traits/sure_footing_trait.json": {
         "id": 920516,
@@ -39236,8 +39236,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:03.221Z",
         "updatedAt": "2023-06-26T05:49:52.495Z",
-        "modifiedAt": "2024-01-18T03:57:58Z",
-        "sha256": "2d588be8aa4fadbac21987fc84631cca117299a77f911d2f2ed90835d9bc9805"
+        "modifiedAt": "2024-01-29T01:27:56Z",
+        "sha256": "f9f41c0f71a28d2a2fb347d7ae2b836b19f65f39bbcc93a70afdb164b1dfd670"
     },
     "scripts/states/world_state.json": {
         "id": 920526,

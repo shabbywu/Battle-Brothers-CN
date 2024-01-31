@@ -35,7 +35,7 @@
     "ID": 293422621,
     "key": "]+3[/color] Fatigue Regeneration per turn if there are no allies in adjacent tiles",
     "original": "]+3[/color] Fatigue Regeneration per turn if there are no allies in adjacent tiles",
-    "translation": "+3[/color]每回合疲劳值回复量（相邻格没有盟友时）",
+    "translation": "]+3[/color]每回合疲劳值回复量（相邻格没有盟友时）",
     "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+3[/color] Fatigue Regeneration per turn if there are no allies in adjacent tiles'"
   },
