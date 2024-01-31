@@ -3523,7 +3523,7 @@
     "ID": 293406076,
     "key": "buy a wagon",
     "original": "buy a wagon",
-    "translation": "买一辆马车",
+    "translation": "买一辆货车",
     "stage": 1,
     "context": "'buy a wagon'"
   },

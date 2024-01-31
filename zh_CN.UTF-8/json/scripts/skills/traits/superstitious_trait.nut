@@ -19,7 +19,7 @@
     "ID": 293422737,
     "key": "]-10[/color] Resolve at morale checks against fear, panic or mind control effects",
     "original": "]-10[/color] Resolve at morale checks against fear, panic or mind control effects",
-    "translation": "]-10[/color] 决心，面对恐惧、恐慌或精神控制的士气检查时",
+    "translation": "]-10[/color] 决心（仅在恐惧、恐慌或精神控制士气检查中生效）",
     "stage": 2,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve at morale checks against fear, panic or mind control effects'"
   }
