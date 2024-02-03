@@ -1859,7 +1859,7 @@
     "ID": 293423185,
     "key": "You need at least 5 empty inventory slots to fight in the ongoing tournament",
     "original": "You need at least 5 empty inventory slots to fight in the ongoing tournament",
-    "translation": "你需要至少5个空的仓库空间才能参与这场竞技大赛",
+    "translation": "你需要至少5个空的仓库栏位才能参与这场竞技大赛",
     "stage": 1,
     "context": "text = 'You need at least 5 empty inventory slots to fight in the ongoing tournament'"
   },

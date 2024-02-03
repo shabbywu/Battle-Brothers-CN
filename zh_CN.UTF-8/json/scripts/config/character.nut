@@ -267,8 +267,8 @@
     "ID": 293403771,
     "key": "Falling Apart",
     "original": "Falling Apart",
-    "translation": "四分五裂",
-    "stage": 5,
+    "translation": "支离破碎",
+    "stage": 1,
     "context": "'Falling Apart'"
   },
   {

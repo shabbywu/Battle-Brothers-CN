@@ -35,7 +35,7 @@
     "ID": 317090599,
     "key": "sha256:cccd2e909950ad5905d7c68ed4c241b48c54593d2fbcc63a9ec4e5d16cf0a780",
     "original": "Excellent.",
-    "translation": "极好的。",
+    "translation": "好极了。",
     "stage": 1,
     "context": "this.m.SuccessButtonText = \"Excellent.\""
   }
