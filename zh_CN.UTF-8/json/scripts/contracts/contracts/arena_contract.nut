@@ -467,7 +467,7 @@
     "ID": 293407825,
     "key": "%SPEECH_ON%Crownlings like you have ventured down from the north. Up there, they call them 'sellswords.' Hagh! What sort of attempt at poetry is that? Don't they know not every man even uses a sword? They ain't the brightest up there. That's why I like it",
     "original": "%SPEECH_ON%Crownlings like you have ventured down from the north. Up there, they call them 'sellswords.' Hagh! What sort of attempt at poetry is that? Don't they know not every man even uses a sword? They ain't the brightest up there. That's why I like it in the south. The sun is bright, and thus so are we.%SPEECH_OFF%",
-    "translation": "%SPEECH_ON%像你这样的克朗族人从北方冒险而来。在那里，他们被称为“雇佣兵”。嗬！这算是怎样的诗歌？他们不知道并非每个男人都使用剑吗？他们那里的人可不太聪明。这就是为什么我喜欢南方。阳光明媚，人们也因此而聪明。%SPEECH_OFF%",
+    "translation": "%SPEECH_ON%像你这样的逐币者从北方冒险而来。在那里，他们被称为“雇佣兵”。嗬！这算是怎样的诗歌？他们不知道并非每个男人都使用剑吗？他们那里的人可不太聪明。这就是为什么我喜欢南方。阳光明媚，人们也因此而聪明。%SPEECH_OFF%",
     "stage": 1,
     "context": "this[2] += \"%SPEECH_ON%Crownlings like you have ventured down from the north. Up there, they call them 'sellswords.' Hagh! What sort of attempt at poetry is that? Don't they know not every man even uses a sword? They ain't the brightest up there. That's why I like it in the south. The sun is bright, and thus so are we.%SPEECH_OFF%\""
   },

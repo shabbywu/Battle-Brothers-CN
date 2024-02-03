@@ -19,8 +19,8 @@
     "ID": 293403331,
     "key": "Wild beasts beset villages on the fringes of civilization.\nHunting them down for a profit is what we shall be doing!",
     "original": "Wild beasts beset villages on the fringes of civilization.\nHunting them down for a profit is what we shall be doing!",
-    "translation": "野兽困扰着处于文明边缘的村庄。\n我们要应该做的就是为了获取财富而猎杀这些野兽！",
-    "stage": 5,
+    "translation": "野兽困扰着处于文明边缘的村庄。\n猎杀这些野兽赚钱正是我们该做的！",
+    "stage": 1,
     "context": "this.m.ButtonText = 'Wild beasts beset villages on the fringes of civilization.\nHunting them down for a profit is what we shall be doing!'"
   },
   {

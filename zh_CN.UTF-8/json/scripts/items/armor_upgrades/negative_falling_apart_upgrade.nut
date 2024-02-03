@@ -3,7 +3,7 @@
     "ID": 293417967,
     "key": "Falling Apart",
     "original": "Falling Apart",
-    "translation": "四分五裂",
+    "translation": "支离破碎",
     "stage": 1,
     "context": "this.m.Name = 'Falling Apart'"
   },

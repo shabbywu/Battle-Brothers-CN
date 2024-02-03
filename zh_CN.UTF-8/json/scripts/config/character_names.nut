@@ -27,7 +27,7 @@
     "ID": 293403781,
     "key": "Ibn Nuh",
     "original": "Ibn Nuh",
-    "translation": "伊本努",
+    "translation": "伊本·努赫",
     "stage": 1,
     "context": "'Ibn Nuh'"
   },
@@ -667,7 +667,7 @@
     "ID": 293403861,
     "key": "Al-Tarabulusi Ibn-Asbat",
     "original": "Al-Tarabulusi Ibn-Asbat",
-    "translation": "阿尔塔拉布卢西伊本阿斯巴特",
+    "translation": "阿尔·塔拉布卢西·伊本·阿斯巴特",
     "stage": 1,
     "context": "'Al-Tarabulusi Ibn-Asbat'"
   },
@@ -1027,7 +1027,7 @@
     "ID": 293403906,
     "key": "Al-Tasufin Ibn Habib",
     "original": "Al-Tasufin Ibn Habib",
-    "translation": "阿尔塔苏芬伊本哈比卜",
+    "translation": "阿尔·塔苏芬·伊本·哈比卜",
     "stage": 1,
     "context": "'Al-Tasufin Ibn Habib'"
   },
@@ -1867,7 +1867,7 @@
     "ID": 293404011,
     "key": "Ibn Undi",
     "original": "Ibn Undi",
-    "translation": "伊本乌迪",
+    "translation": "伊本·乌迪",
     "stage": 1,
     "context": "'Ibn Undi'"
   },
@@ -1947,7 +1947,7 @@
     "ID": 293404021,
     "key": "Ibn Suhaliy",
     "original": "Ibn Suhaliy",
-    "translation": "伊本苏哈利",
+    "translation": "伊本·苏哈利",
     "stage": 1,
     "context": "'Ibn Suhaliy'"
   },
@@ -2827,7 +2827,7 @@
     "ID": 293404131,
     "key": "Ibn Jasib",
     "original": "Ibn Jasib",
-    "translation": "伊本贾西布",
+    "translation": "伊本·贾西布",
     "stage": 1,
     "context": "'Ibn Jasib'"
   },
@@ -3755,7 +3755,7 @@
     "ID": 293404247,
     "key": "Wolf",
     "original": "Wolf",
-    "translation": "狼",
+    "translation": "沃尔夫",
     "stage": 1,
     "context": "'Wolf'"
   },
@@ -4123,7 +4123,7 @@
     "ID": 293404293,
     "key": "Ibn Ibrahim",
     "original": "Ibn Ibrahim",
-    "translation": "伊本易卜拉欣",
+    "translation": "伊本·易卜拉欣",
     "stage": 1,
     "context": "'Ibn Ibrahim'"
   },
@@ -4731,7 +4731,7 @@
     "ID": 293404369,
     "key": "Ibn Asmali",
     "original": "Ibn Asmali",
-    "translation": "伊本阿斯马利",
+    "translation": "伊本·阿斯马利",
     "stage": 1,
     "context": "'Ibn Asmali'"
   },
@@ -5019,7 +5019,7 @@
     "ID": 293404405,
     "key": "Ibn Hazam",
     "original": "Ibn Hazam",
-    "translation": "伊本哈扎姆",
+    "translation": "伊本·哈扎姆",
     "stage": 1,
     "context": "'Ibn Hazam'"
   },
@@ -5123,7 +5123,7 @@
     "ID": 293404418,
     "key": "Ibn Asili",
     "original": "Ibn Asili",
-    "translation": "伊本阿西里",
+    "translation": "伊本·阿西里",
     "stage": 1,
     "context": "'Ibn Asili'"
   },
@@ -5171,7 +5171,7 @@
     "ID": 293404424,
     "key": "Ibn Hamdin",
     "original": "Ibn Hamdin",
-    "translation": "伊本哈姆丁",
+    "translation": "伊本·哈姆丁",
     "stage": 1,
     "context": "'Ibn Hamdin'"
   },
@@ -5203,7 +5203,7 @@
     "ID": 293404428,
     "key": "Al-Jasur Ibn Tawd",
     "original": "Al-Jasur Ibn Tawd",
-    "translation": "阿尔贾苏尔伊本塔瓦德",
+    "translation": "阿尔·贾苏尔·伊本·塔瓦德",
     "stage": 1,
     "context": "'Al-Jasur Ibn Tawd'"
   },
@@ -5291,7 +5291,7 @@
     "ID": 293404439,
     "key": "Ibn Zayid",
     "original": "Ibn Zayid",
-    "translation": "伊本扎伊德",
+    "translation": "伊本·扎义德",
     "stage": 1,
     "context": "'Ibn Zayid'"
   },
@@ -5555,7 +5555,7 @@
     "ID": 293404472,
     "key": "Ibn Nusa",
     "original": "Ibn Nusa",
-    "translation": "伊本努萨",
+    "translation": "伊本·努萨",
     "stage": 1,
     "context": "'Ibn Nusa'"
   },
@@ -5779,7 +5779,7 @@
     "ID": 293404500,
     "key": "Ibn Sahr",
     "original": "Ibn Sahr",
-    "translation": "伊本萨赫",
+    "translation": "伊本·塞赫尔",
     "stage": 1,
     "context": "'Ibn Sahr'"
   },
@@ -5843,7 +5843,7 @@
     "ID": 293404508,
     "key": "Ibn Jalaf",
     "original": "Ibn Jalaf",
-    "translation": "伊本贾拉夫",
+    "translation": "伊本·贾拉夫",
     "stage": 1,
     "context": "'Ibn Jalaf'"
   },
@@ -5859,7 +5859,7 @@
     "ID": 293404510,
     "key": "Ibn Kamal",
     "original": "Ibn Kamal",
-    "translation": "伊本卡迈勒",
+    "translation": "伊本·凯马勒",
     "stage": 1,
     "context": "'Ibn Kamal'"
   },
@@ -6499,7 +6499,7 @@
     "ID": 293404590,
     "key": "Ibn Husain",
     "original": "Ibn Husain",
-    "translation": "伊本侯赛因",
+    "translation": "伊本·侯赛因",
     "stage": 1,
     "context": "'Ibn Husain'"
   },
@@ -6603,7 +6603,7 @@
     "ID": 293404603,
     "key": "Ibn Abbad",
     "original": "Ibn Abbad",
-    "translation": "伊本阿巴德",
+    "translation": "伊本·阿巴德",
     "stage": 1,
     "context": "'Ibn Abbad'"
   },
@@ -6931,7 +6931,7 @@
     "ID": 293404644,
     "key": "Ibn Salar",
     "original": "Ibn Salar",
-    "translation": "伊本萨拉尔",
+    "translation": "伊本·萨拉尔",
     "stage": 1,
     "context": "'Ibn Salar'"
   },
@@ -6979,7 +6979,7 @@
     "ID": 293404650,
     "key": "Ibn Hamdi",
     "original": "Ibn Hamdi",
-    "translation": "伊本哈姆迪",
+    "translation": "伊本·哈姆迪",
     "stage": 1,
     "context": "'Ibn Hamdi'"
   },
@@ -7331,7 +7331,7 @@
     "ID": 293404694,
     "key": "Ibn Wasi",
     "original": "Ibn Wasi",
-    "translation": "伊本瓦西",
+    "translation": "伊本·瓦西阿",
     "stage": 1,
     "context": "'Ibn Wasi'"
   },
@@ -7507,7 +7507,7 @@
     "ID": 293404716,
     "key": "Ibn Mansur",
     "original": "Ibn Mansur",
-    "translation": "伊本曼苏尔",
+    "translation": "伊本·曼苏尔",
     "stage": 1,
     "context": "'Ibn Mansur'"
   },
@@ -7667,7 +7667,7 @@
     "ID": 293404736,
     "key": "Ibn Tasuf",
     "original": "Ibn Tasuf",
-    "translation": "伊本塔苏夫",
+    "translation": "伊本·塔素福",
     "stage": 1,
     "context": "'Ibn Tasuf'"
   },
@@ -7723,7 +7723,7 @@
     "ID": 293404743,
     "key": "Ibn Azid",
     "original": "Ibn Azid",
-    "translation": "伊本阿齐德",
+    "translation": "伊本·阿齐德",
     "stage": 1,
     "context": "'Ibn Azid'"
   },
