@@ -35,8 +35,8 @@
     "ID": 293421299,
     "key": "the Restrained",
     "original": "the Restrained",
-    "translation": "被压制者(The Restrained)",
-    "stage": 5,
+    "translation": "被监禁者(The Restrained)",
+    "stage": 1,
     "context": "'the Restrained'"
   },
   {
@@ -59,16 +59,16 @@
     "ID": 293421302,
     "key": "the Unlucky",
     "original": "the Unlucky",
-    "translation": "坏运气(the Unlucky)",
-    "stage": 5,
+    "translation": "倒霉蛋(the Unlucky)",
+    "stage": 1,
     "context": "'the Unlucky'"
   },
   {
     "ID": 293421303,
     "key": "the Shackled",
     "original": "the Shackled",
-    "translation": "被束缚者(the Shackled)",
-    "stage": 5,
+    "translation": "受铐者(the Shackled)",
+    "stage": 1,
     "context": "'the Shackled'"
   },
   {
@@ -99,8 +99,8 @@
     "ID": 293421307,
     "key": "the Bound",
     "original": "the Bound",
-    "translation": "被束缚者(the Bound)",
-    "stage": 5,
+    "translation": "被缚者(the Bound)",
+    "stage": 1,
     "context": "'the Bound'"
   }
 ]

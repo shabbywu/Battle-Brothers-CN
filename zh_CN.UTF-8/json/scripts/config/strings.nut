@@ -4139,7 +4139,7 @@
     "ID": 293406153,
     "key": "Evening",
     "original": "Evening",
-    "translation": "晚上",
+    "translation": "傍晚",
     "stage": 1,
     "context": "'Evening'"
   },
@@ -5443,7 +5443,7 @@
     "ID": 293406316,
     "key": "Midday",
     "original": "Midday",
-    "translation": "正午",
+    "translation": "中午",
     "stage": 1,
     "context": "'Midday'"
   },

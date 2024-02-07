@@ -11,7 +11,7 @@
     "ID": 293403555,
     "key": "Buy and sell trading goods",
     "original": "Buy and sell trading goods",
-    "translation": "购买和销售贸易商品。",
+    "translation": "购买和销售贸易商品",
     "stage": 1,
     "context": "this.m.UIText = 'Buy and sell trading goods'"
   },

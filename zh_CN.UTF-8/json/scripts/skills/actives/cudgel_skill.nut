@@ -19,8 +19,8 @@
     "ID": 293419897,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有 [color=",
-    "stage": 5,
+    "translation": "命中时有 [color=",
+    "stage": 1,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to daze on a hit'"
   },
   {
@@ -67,8 +67,8 @@
     "ID": 293419903,
     "key": "]100%[/color] chance to daze on a hit",
     "original": "]100%[/color] chance to daze on a hit",
-    "translation": "]100%[/color] 几率在命中时造成眩晕",
-    "stage": 5,
+    "translation": "]100%[/color] 几率造成茫然",
+    "stage": 1,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to daze on a hit'"
   }
 ]

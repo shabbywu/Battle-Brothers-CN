@@ -11,8 +11,8 @@
     "ID": 293420496,
     "key": "]100%[/color] chance to severely stun on a hit",
     "original": "]100%[/color] chance to severely stun on a hit",
-    "translation": "]100%[/color] 几率在命中时严重击晕目标",
-    "stage": 5,
+    "translation": "]100%[/color] 几率严重击晕目标",
+    "stage": 1,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to severely stun on a hit'"
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293420499,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "有 [color=",
-    "stage": 5,
+    "translation": "命中时有 [color=",
+    "stage": 1,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun for two turns on a hit'"
   },
   {
@@ -67,8 +67,8 @@
     "ID": 293420503,
     "key": "%[/color] chance to stun for two turns on a hit",
     "original": "%[/color] chance to stun for two turns on a hit",
-    "translation": "%\"[/color] 几率击晕目标 2 回合",
-    "stage": 5,
+    "translation": "%[/color] 几率击晕目标 2 回合",
+    "stage": 1,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.StunChance + '%[/color] chance to stun for two turns on a hit'"
   },
   {
