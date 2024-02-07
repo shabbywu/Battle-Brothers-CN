@@ -35,7 +35,7 @@
     "ID": 293421364,
     "key": "the Restless",
     "original": "the Restless",
-    "translation": "不息者(the Restless)",
+    "translation": "不得安歇者(the Restless)",
     "stage": 1,
     "context": "'the Restless'"
   },

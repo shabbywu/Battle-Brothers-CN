@@ -11,8 +11,8 @@
     "ID": 293421265,
     "key": "You'd think a shepherd would have no place in the company of sellsword and, eventually, %name% agreed. He left the %companyname% not long after you and last you heard he was back to tending his sheep. While most men left the company in poor spirits, %name",
     "original": "You'd think a shepherd would have no place in the company of sellsword and, eventually, %name% agreed. He left the %companyname% not long after you and last you heard he was back to tending his sheep. While most men left the company in poor spirits, %name%'s injuries did not bring down his docile lifestyle of staring at fluffy white critters about as dangerous as a bad dream.",
-    "translation": "你认为一个牧羊人在雇佣军的队伍中会格格不入，而最终%name%也认同了这一点。他在你离开%companyname%不久后也离开了，据你最后听到的消息，他又回到了放羊的生活中。虽然大多数人在离开战团时情绪低落，但%name%受到的伤害并没有使他放弃安逸的生活方式 —— 盯着那吓人程度仅仅等同于坏梦的白绒绒可爱小动物。",
-    "stage": 5,
+    "translation": "你认为一个牧羊人在雇佣军的队伍中会格格不入，而最终%name%也认同了这一点。他在你离开%companyname%不久后也离开了，据你最后听到的消息，他又回到了放羊的生活中。虽然大多数人在离开战团时情绪低落，但%name%受到的伤害并没有使他放弃安逸的生活方式 —— 盯着那群吓人程度仅等于噩梦的白绒绒可爱小动物。",
+    "stage": 1,
     "context": "this.m.BadEnding = \"You'd think a shepherd would have no place in the company of sellsword and, eventually, %name% agreed. He left the %companyname% not long after you and last you heard he was back to tending his sheep. While most men left the company in poor spirits, %name%'s injuries did not bring down his docile lifestyle of staring at fluffy white critters about as dangerous as a bad dream.\""
   },
   {
@@ -75,7 +75,7 @@
     "ID": 293421273,
     "key": "Shepherds are used to physical labor and known to keep the occasional wolf at bay with a sling.",
     "original": "Shepherds are used to physical labor and known to keep the occasional wolf at bay with a sling.",
-    "translation": "牧羊人习惯于体力劳动，而且以用投石索击退偶尔出现的狼出名。",
+    "translation": "牧羊人习惯于体力劳动，并以用投石索击退偶尔出现的狼出名。",
     "stage": 5,
     "context": "this.m.BackgroundDescription = 'Shepherds are used to physical labor and known to keep the occasional wolf at bay with a sling.'"
   },
@@ -83,8 +83,8 @@
     "ID": 293421274,
     "key": "It was unusual that a shepherd such as %name% ever found his way into a company of sellswords, but he did prove himself an able warrior. With injuries mounting, he eventually retired, returning to a meadow, staff in hand, and herding sheep until his final",
     "original": "It was unusual that a shepherd such as %name% ever found his way into a company of sellswords, but he did prove himself an able warrior. With injuries mounting, he eventually retired, returning to a meadow, staff in hand, and herding sheep until his final, peaceful days.",
-    "translation": "像%name%这样的牧羊人能够加入佣兵战团是十分不寻常的，但他证明了自己是一个出色的战士。随着伤病不断增多，他最终选择退役，拄着手杖回到牧场放羊，直到最后的平静日子。",
-    "stage": 5,
+    "translation": "像%name%这样加入佣兵战团的牧羊人是十分不寻常的，但他证明了自己是一个出色的战士。随着伤病不断增多，他最终选择退役，拄着手杖回到牧场放羊，直到最后的平静日子。",
+    "stage": 1,
     "context": "this.m.GoodEnding = 'It was unusual that a shepherd such as %name% ever found his way into a company of sellswords, but he did prove himself an able warrior. With injuries mounting, he eventually retired, returning to a meadow, staff in hand, and herding sheep until his final, peaceful days.'"
   }
 ]
