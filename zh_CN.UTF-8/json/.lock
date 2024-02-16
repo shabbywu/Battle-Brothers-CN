@@ -6296,8 +6296,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:40.751Z",
         "updatedAt": "2023-06-26T05:47:16.838Z",
-        "modifiedAt": "2023-06-26T05:47:17Z",
-        "sha256": "1304c62fed0e2419415f0ff0c7a62f2a1a802b9915d2ba292e5564624c944e91"
+        "modifiedAt": "2024-02-12T11:53:49Z",
+        "sha256": "c3b2122f530e03d948648683fdb0eb816647015311a39ec03ee02e57259b0fee"
     },
     "scripts/entity/world/settlements/buildings/training_hall_building.json": {
         "id": 918696,
@@ -10040,8 +10040,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:01.847Z",
         "updatedAt": "2023-06-26T05:47:41.3Z",
-        "modifiedAt": "2023-06-26T05:47:41Z",
-        "sha256": "47c092be224442e8a2307838dc572ac771805238e73f68d503d3701744215bb4"
+        "modifiedAt": "2024-02-15T02:07:19Z",
+        "sha256": "64c9fc1add2de56d09025b7f19d07548f55b33ec650ab92993fc0bdded445a3d"
     },
     "scripts/events/events/dlc2/location/kraken_cult_destroyed_event.json": {
         "id": 918904,
@@ -24800,8 +24800,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:48.334Z",
         "updatedAt": "2023-06-26T05:48:54.973Z",
-        "modifiedAt": "2023-06-26T05:48:55Z",
-        "sha256": "ed6c0f2ca3df9274d77e2c3e12756591d038ff8028f97e13f0e49945e87345af"
+        "modifiedAt": "2024-02-14T23:44:52Z",
+        "sha256": "7a5e784fe85348c06840e28c00f50833a12902549a27f18d2a3ac6032f25ecee"
     },
     "scripts/items/special/legendary_sword_blade_item.json": {
         "id": 919724,
@@ -29120,8 +29120,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:43.298Z",
         "updatedAt": "2023-06-26T05:49:11.217Z",
-        "modifiedAt": "2024-01-09T08:36:12Z",
-        "sha256": "f8a62f0c43acb248503d2a07b564b17fc6e11b55f22abefe67d510c8e95a7f3f"
+        "modifiedAt": "2024-02-12T12:47:09Z",
+        "sha256": "e0a390b7440981fdf28818efe913629b1f3a9e863815646c3ca90808946bb533"
     },
     "scripts/retinue/followers/trader_follower.json": {
         "id": 919964,
@@ -39344,8 +39344,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:05.329Z",
         "updatedAt": "2023-07-05T12:36:11.027Z",
-        "modifiedAt": "2024-01-31T07:19:19Z",
-        "sha256": "74bb138550497b6598703b5aae1844c0a2f65ac5ab4056e9bd90117dd25d5ec7"
+        "modifiedAt": "2024-02-12T11:37:20Z",
+        "sha256": "ec36108f47519730be7d08699818c58b91e801bbc264ea333fb192f5f45babb7"
     },
     "scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.json": {
         "id": 920532,
@@ -39470,8 +39470,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:09.97Z",
         "updatedAt": "2023-06-26T05:49:53.871Z",
-        "modifiedAt": "2023-06-26T05:49:54Z",
-        "sha256": "87880bf568818efbe6d28b9853a47c4adb15a53da2aa9664041885157a2189f3"
+        "modifiedAt": "2024-02-12T11:54:05Z",
+        "sha256": "7b4fc11072cf886b796cc6a0d6a8f9d20704ef5fb96bf7fc94db584a80771df8"
     },
     "scripts/ui/screens/world/modules/world_town_screen/town_training_dialog_module.json": {
         "id": 920539,

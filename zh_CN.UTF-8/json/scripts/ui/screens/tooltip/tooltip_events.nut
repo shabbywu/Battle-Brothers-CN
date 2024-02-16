@@ -363,7 +363,7 @@
     "ID": 293422998,
     "key": "A refuge from the harsh world outside. You can seek healing here for your wounded and pray for salvation of your eternal soul.",
     "original": "A refuge from the harsh world outside. You can seek healing here for your wounded and pray for salvation of your eternal soul.",
-    "translation": "远离外面严酷世界的避难所。 你可以在这里为你的伤者寻求治疗，并为你永恒灵魂的拯救祈祷。",
+    "translation": "外面严酷世界的避风港。你可以在这里为你的伤员寻求治疗，并为你永恒的灵魂祈求救赎。",
     "stage": 1,
     "context": "text = 'A refuge from the harsh world outside. You can seek healing here for your wounded and pray for salvation of your eternal soul.'"
   },

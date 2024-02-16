@@ -3,7 +3,7 @@
     "ID": 293418847,
     "key": "Golden Goose",
     "original": "Golden Goose",
-    "translation": "黄金鹅",
+    "translation": "金鹅",
     "stage": 1,
     "context": "this.m.Name = 'Golden Goose'"
   },
