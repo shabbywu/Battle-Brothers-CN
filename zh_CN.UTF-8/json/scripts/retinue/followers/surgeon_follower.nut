@@ -3,7 +3,7 @@
     "ID": 293419630,
     "key": "Treated ",
     "original": "Treated ",
-    "translation": "在神殿治疗受伤的队员",
+    "translation": "在神殿治疗伤员",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Treated ' + this.Math.min(5, this.World.Statistics.getFlags().getAsInt('InjuriesTreatedAtTemple')) + '/5 men with injuries at a temple'"
   },
@@ -19,7 +19,7 @@
     "ID": 293419632,
     "key": "The Surgeon is a walking tome of anatomical knowledge. A mercenary company seems the perfect place both to apply that knowledge in healing, but also to learn more about how the insides of men are made up.",
     "original": "The Surgeon is a walking tome of anatomical knowledge. A mercenary company seems the perfect place both to apply that knowledge in healing, but also to learn more about how the insides of men are made up.",
-    "translation": "这位外科医生是解剖学知识的行家。雇佣兵战团对这类人而言是完美的，既可以将这些知识应用于治疗，也可以更多地了解人类的内部构造。",
+    "translation": "外科医生是一位行走的解剖学百科全书。雇佣兵战团算是他的最佳去处，既能运用这些知识来治疗伤员，又能更深入地了解人体的构造。",
     "stage": 1,
     "context": "this.m.Description = 'The Surgeon is a walking tome of anatomical knowledge. A mercenary company seems the perfect place both to apply that knowledge in healing, but also to learn more about how the insides of men are made up.'"
   },
@@ -27,7 +27,7 @@
     "ID": 293419633,
     "key": "/5 men with injuries at a temple",
     "original": "/5 men with injuries at a temple",
-    "translation": "/5 次",
+    "translation": "/5次",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Treated ' + this.Math.min(5, this.World.Statistics.getFlags().getAsInt('InjuriesTreatedAtTemple')) + '/5 men with injuries at a temple'"
   },
