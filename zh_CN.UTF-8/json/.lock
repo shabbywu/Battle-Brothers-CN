@@ -1274,8 +1274,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:42.523Z",
         "updatedAt": "2023-06-26T05:46:30.811Z",
-        "modifiedAt": "2024-01-25T08:04:09Z",
-        "sha256": "2996e70b3a911e06a24f7752c97c1fc06f50c7190bfb1b4dd78d04adee5aca63"
+        "modifiedAt": "2024-02-18T10:15:30Z",
+        "sha256": "49f0a44dee65c6cea28d09ec917b9759615ce40146cfabe98dfb6090a35b0dfb"
     },
     "scripts/config/items.json": {
         "id": 918417,
@@ -28292,8 +28292,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:19.633Z",
         "updatedAt": "2023-06-26T05:49:08.424Z",
-        "modifiedAt": "2023-06-26T05:49:08Z",
-        "sha256": "6203f4b976a563848d91dece65b06df2b186001e2371ef7a0c5abfd0a6586321"
+        "modifiedAt": "2024-02-18T03:19:53Z",
+        "sha256": "40241bc57164b66d77896b644411ee895c7944dbbf4d11b7e9c91b45d0378172"
     },
     "scripts/items/weapons/scimitar.json": {
         "id": 919918,

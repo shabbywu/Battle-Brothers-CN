@@ -3131,7 +3131,7 @@
     "ID": 293405260,
     "key": "Voulge",
     "original": "Voulge",
-    "translation": "钩镰枪",
+    "translation": "斧枪",
     "stage": 1,
     "context": "'Voulge'"
   },
