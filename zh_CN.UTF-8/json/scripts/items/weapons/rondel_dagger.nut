@@ -11,7 +11,7 @@
     "ID": 293419419,
     "key": "Rondel Dagger",
     "original": "Rondel Dagger",
-    "translation": "龙德尔匕首",
+    "translation": "圆盘匕首",
     "stage": 1,
     "context": "this.m.Name = 'Rondel Dagger'"
   },
