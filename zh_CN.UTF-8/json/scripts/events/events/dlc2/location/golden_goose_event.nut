@@ -11,7 +11,7 @@
     "ID": 293413838,
     "key": "Let's get out of here.",
     "original": "Let's get out of here.",
-    "translation": "让我们离开这里。",
+    "translation": "我们走吧。",
     "stage": 1,
     "context": "Text = \"Let's get out of here.\""
   },
