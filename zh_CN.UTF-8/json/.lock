@@ -10040,8 +10040,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:01.847Z",
         "updatedAt": "2023-06-26T05:47:41.3Z",
-        "modifiedAt": "2024-02-15T02:07:19Z",
-        "sha256": "64c9fc1add2de56d09025b7f19d07548f55b33ec650ab92993fc0bdded445a3d"
+        "modifiedAt": "2024-02-20T00:55:31Z",
+        "sha256": "9771b69fa3a35e53345b3bd57637b5a4b6cfd1d46cb18bdb2640de4f99f4c74f"
     },
     "scripts/events/events/dlc2/location/kraken_cult_destroyed_event.json": {
         "id": 918904,
