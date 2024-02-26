@@ -11,7 +11,7 @@
     "ID": 293410628,
     "key": "A cave amidst a sea of snow and rock. A thick gate of icicles keeps your entrance well stayed.",
     "original": "A cave amidst a sea of snow and rock. A thick gate of icicles keeps your entrance well stayed.",
-    "translation": "冰雪海洋中的洞穴。 一扇厚厚的冰柱门能让你的入口保持良好的状态。",
+    "translation": "雪岩之海中的一座洞穴。由厚实冰柱构成的大门牢牢守护着你的入口。",
     "stage": 1,
     "context": "return 'A cave amidst a sea of snow and rock. A thick gate of icicles keeps your entrance well stayed.';"
   }

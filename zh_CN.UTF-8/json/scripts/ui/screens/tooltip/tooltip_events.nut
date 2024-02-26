@@ -1403,7 +1403,7 @@
     "ID": 293423128,
     "key": "Spend these points to increase any 3 out of 8 attributes per levelup by a random amount. A single attribute can only be increased once per levelup.\n\nStars mean that a character is especially talented with a specific attribute, resulting in consistently be",
     "original": "Spend these points to increase any 3 out of 8 attributes per levelup by a random amount. A single attribute can only be increased once per levelup.\n\nStars mean that a character is especially talented with a specific attribute, resulting in consistently better dice rolls.",
-    "translation": "花费这些点数以增加8项人物属性中的3项，具体数值随机而定，每个属性在一次升级中只能提高一次。\n\n星星意味着一个角色具有对特定属性有独特天赋，总能在该属性中获得更好的随机值。",
+    "translation": "在每次升级时，花费这些点数来提高8项属性中的任意3项，属性值随机掷骰。每项属性在单次升级中只能被提高一次。\n\n星标意味着角色在某项特定属性上天赋异禀，总能掷骰更好的属性值。",
     "stage": 1,
     "context": "text = 'Spend these points to increase any 3 out of 8 attributes per levelup by a random amount. A single attribute can only be increased once per levelup.\n\nStars mean that a character is especially talented with a specific attribute, resulting in consistently better dice rolls.'"
   },

@@ -3,16 +3,16 @@
     "ID": 293421253,
     "key": "%name% left the %companyname% and started his own competing company. The two companies clashed on opposite sides of a battle between nobles. The sellsword died when a mercenary from the %companyname% stove his head in with a hedge knight's helmet.",
     "original": "%name% left the %companyname% and started his own competing company. The two companies clashed on opposite sides of a battle between nobles. The sellsword died when a mercenary from the %companyname% stove his head in with a hedge knight's helmet.",
-    "translation": "%name%离开了%companyname%并创立了他自己的另一家竞争的战团。两个战团在一场贵族之间的战斗中处于对立的双方。这个佣兵在冲突中被另一名%companyname%佣兵用一顶雇佣骑士的头盔砸死了。",
-    "stage": 5,
+    "translation": "佣兵%name%离开了%companyname%，并创立了自己的竞争战团。在一场贵族间的战斗中，这两个战团站在了对立面。一名来自%companyname%的雇佣兵用一顶雇佣骑士头盔砸碎了%name%的头，致他死亡。",
+    "stage": 1,
     "context": "this.m.BadEnding = \"%name% left the %companyname% and started his own competing company. The two companies clashed on opposite sides of a battle between nobles. The sellsword died when a mercenary from the %companyname% stove his head in with a hedge knight's helmet.\""
   },
   {
     "ID": 293421254,
     "key": "%name% the sellsword left the %companyname% and started his own mercenary company. As far as you know, it's a very successful venture and he often buddies up with the men of the %companyname% to work together.",
     "original": "%name% the sellsword left the %companyname% and started his own mercenary company. As far as you know, it's a very successful venture and he often buddies up with the men of the %companyname% to work together.",
-    "translation": "佣兵%name%离开了%companyname%并创建了自己的佣兵战团。据你所知，这是一次非常成功的冒险，他经常和%companyname%合伙合作。",
-    "stage": 5,
+    "translation": "佣兵%name%离开了%companyname%，并创立了自己的雇佣兵战团。据你所知，这是一次非常成功的创业，他经常与%companyname%合作。",
+    "stage": 1,
     "context": "this.m.GoodEnding = \"%name% the sellsword left the %companyname% and started his own mercenary company. As far as you know, it's a very successful venture and he often buddies up with the men of the %companyname% to work together.\""
   },
   {
