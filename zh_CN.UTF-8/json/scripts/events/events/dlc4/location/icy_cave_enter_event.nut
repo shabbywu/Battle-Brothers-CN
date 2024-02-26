@@ -3,7 +3,7 @@
     "ID": 293414357,
     "key": "[img]gfx/ui/events/event_144.png[/img]{You discover a cave in the ice with its maw shielded by a gate of thick icicles. Looking through the icy bars, you find the cave quickly declines down a steep slope and toward what may be an underground riverbank tha",
     "original": "[img]gfx/ui/events/event_144.png[/img]{You discover a cave in the ice with its maw shielded by a gate of thick icicles. Looking through the icy bars, you find the cave quickly declines down a steep slope and toward what may be an underground riverbank that has long since frozen. Something is huddled beside it hitting the ice with a pickaxe over and over again. The wind whistles as it grates against the teeth of the cave. You call out to the huddled man, but there is no response.\n\nIt will take some time to chop through this thick ice and get in there. Fortunately, one of the sellswords reports that there may be a rear entrance. It is blocked just as well, but a strong enough man just might be able to squeeze through and face any dangers within.}",
-    "translation": "[img]gfx/ui/events/event_144.png[/img]{你在漫天飞雪里发现了一个洞穴，它的入口被密集的冰柱挡住了。 穿过冰柱向内看去，你发现洞穴里面有一个很陡峭的斜坡，这个斜坡通向一个可能被冻结了很久的地下河河岸。 好像有人在河道边缩成一团，用鹤嘴锄反复敲打着冰块。 风将冰柱吹得呼呼作响。 你对那个缩成一团的人喊叫，但没有得到任何响应。\n\n将冰柱打碎并且进入里面需要一段时间。 幸运的是，一个佣兵说有其他的入口。 虽然这个入口也被堵住了，但可以让一个足够强的人挤过去，他要面对的是里面的任何危险。}",
+    "translation": "[img]gfx/ui/events/event_144.png[/img]{你在冰层中发现了一座洞穴，其深邃的入口被厚实冰柱构成的大门所遮掩。透过冰柱间的缝隙窥视，你看到洞穴急剧向下倾斜，似乎通往一个早已冰封的地下河岸。有个人影蜷缩在旁，不断地用镐头敲击着冰面。风在洞穴的冰齿间呼啸，发出尖锐的摩擦声。你向那个蜷缩的人喊话，但没有任何回应。\n\n要砍穿这厚实冰柱进入洞穴，需要耗费不少时间。幸运的是，一名佣兵报告说可能存在一个后门。虽然同样被堵塞，但一个足够强壮的人或许能够挤过去，直面洞内的任何危险。}",
     "stage": 1,
     "context": "Text = '[img]gfx/ui/events/event_144.png[/img]{You discover a cave in the ice with its maw shielded by a gate of thick icicles. Looking through the icy bars, you find the cave quickly declines down a steep slope and toward what may be an underground riverbank that has long since frozen. Something is huddled beside it hitting the ice with a pickaxe over and over again. The wind whistles as it grates against the teeth of the cave. You call out to the huddled man, but there is no response.\n\nIt will take some time to chop through this thick ice and get in there. Fortunately, one of the sellswords reports that there may be a rear entrance. It is blocked just as well, but a strong enough man just might be able to squeeze through and face any dangers within.}'"
   },
@@ -11,7 +11,7 @@
     "ID": 293414358,
     "key": "You did well, %chosen%.",
     "original": "You did well, %chosen%.",
-    "translation": "做的很好，%chosen%。",
+    "translation": "%chosen%，干得好。",
     "stage": 1,
     "context": "Text = 'You did well, %chosen%.'"
   },
@@ -27,7 +27,7 @@
     "ID": 293414360,
     "key": "We should leave this place.",
     "original": "We should leave this place.",
-    "translation": "我们应该离开这儿。",
+    "translation": "我们应该离开这个地方。",
     "stage": 1,
     "context": "Text = 'We should leave this place.'"
   },
@@ -35,7 +35,7 @@
     "ID": 293414361,
     "key": "You can take him, %chosen%!",
     "original": "You can take him, %chosen%!",
-    "translation": "你可以把他打败，%chosen%！",
+    "translation": "%chosen%，拿下他！",
     "stage": 1,
     "context": "this.Options[0].Text = 'You can take him, %chosen%!'"
   },
@@ -115,7 +115,7 @@
     "ID": 293414371,
     "key": "[img]gfx/ui/events/event_144.png[/img]{You followed the mysterious messenger's footsteps to a cave in the ice. This time it has not been recently trespassed as a thick gate of icicles keep your entrance well stayed. To the side of the cavern's maw is the ",
     "original": "[img]gfx/ui/events/event_144.png[/img]{You followed the mysterious messenger's footsteps to a cave in the ice. This time it has not been recently trespassed as a thick gate of icicles keep your entrance well stayed. To the side of the cavern's maw is the old man face down in the snow, dead as can be, and with one arm stretched out pointing into the cave.\n\n Looking through the icy bars, you find the cave quickly declines down a steep slope and toward what may be an underground riverbank that has long since frozen. Something is huddled beside it hitting the ice with a pickaxe over and over again. The wind whistles as it grates against the teeth of the cave. You call out to the huddled man, but there is no response.\n\nIt will take some time to chop through this thick ice and get in there. Fortunately, one of the sellswords reports that there may be a rear entrance. It is blocked just as well, but a strong enough man just might be able to squeeze through and face any dangers within.}",
-    "translation": "[img]gfx/ui/events/event_144.png[/img]{你跟着一个神秘人的脚印找到了这个冰洞。 因为一扇厚厚的冰柱门恰如其分地阻挡你进入，所以这里最近应该没有人侵入。 洞穴的另一边，有个老人面朝下倒在雪地里，死气沉沉，一只胳膊伸向洞口。\n\n 穿过冰柱向内看去，你发现洞穴里面有一个很陡峭的斜坡，这个斜坡通向一个可能被冻结了很久的地下河河岸。 好像有人在河道边缩成一团，用鹤嘴锄反复敲打着冰块。 风将冰柱吹得呼呼作响。 你对那个缩成一团的人喊叫，但没有得到任何响应。\n\n将冰柱打碎并且进入里面需要一段时间。 幸运的是，一个佣兵说有其他的入口。 虽然这个入口也被堵住了，但可以让一个足够强的人挤过去，他要面对的是里面的任何危险。}",
+    "translation": "[img]gfx/ui/events/event_144.png[/img]{你追踪那位神秘信使的足迹来到了冰洞。由厚实冰柱构成的大门牢牢守护着你的入口，显然这里近期未曾有人踏足。在洞口的一侧，老人面朝下躺在雪地里，已然离世，他的一只手臂伸出，指向洞穴深处。\n\n透过冰柱间的缝隙窥视，你看到洞穴急剧向下倾斜，似乎通往一个早已冰封的地下河岸。有个人影蜷缩在旁，不断地用镐头敲击着冰面。风在洞穴的冰齿间呼啸，发出尖锐的摩擦声。你向那个蜷缩的人喊话，但没有任何回应。\n\n要砍穿这厚实冰柱进入洞穴，需要耗费不少时间。幸运的是，一名佣兵报告说可能存在一个后门。虽然同样被堵塞，但一个足够强壮的人或许能够挤过去，直面洞内的任何危险。}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_144.png[/img]{You followed the mysterious messenger's footsteps to a cave in the ice. This time it has not been recently trespassed as a thick gate of icicles keep your entrance well stayed. To the side of the cavern's maw is the old man face down in the snow, dead as can be, and with one arm stretched out pointing into the cave.\n\n Looking through the icy bars, you find the cave quickly declines down a steep slope and toward what may be an underground riverbank that has long since frozen. Something is huddled beside it hitting the ice with a pickaxe over and over again. The wind whistles as it grates against the teeth of the cave. You call out to the huddled man, but there is no response.\n\nIt will take some time to chop through this thick ice and get in there. Fortunately, one of the sellswords reports that there may be a rear entrance. It is blocked just as well, but a strong enough man just might be able to squeeze through and face any dangers within.}\""
   },
@@ -123,7 +123,7 @@
     "ID": 293414372,
     "key": "I need you to scout ahead, ",
     "original": "I need you to scout ahead, ",
-    "translation": "我需要你去侦察前方，",
+    "translation": "我需要你前去侦察，",
     "stage": 1,
     "context": "Text = 'I need you to scout ahead, ' + bro.getName() + '.'"
   }
