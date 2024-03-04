@@ -107,8 +107,8 @@
     "ID": 293419688,
     "key": "the Bear",
     "original": "the Bear",
-    "translation": "大熊(the Bear)",
-    "stage": 5,
+    "translation": "大熊",
+    "stage": 1,
     "context": "bros[1].setTitle('the Bear')"
   }
 ]

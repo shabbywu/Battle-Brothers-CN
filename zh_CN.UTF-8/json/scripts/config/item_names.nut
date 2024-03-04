@@ -3563,7 +3563,7 @@
     "ID": 293405314,
     "key": "Firespitter",
     "original": "Firespitter",
-    "translation": "喷火器",
+    "translation": "火舌喷吐者",
     "stage": 1,
     "context": "'Firespitter'"
   },
