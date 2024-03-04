@@ -99,8 +99,8 @@
     "ID": 293421174,
     "key": "You learned that %name% the nomad departed the company with the hope of finding new plains to roam. Apparently, he got the idea in his head that he would travel far to the north and land cozily with the barbarians there. To his credit, the barbarians and ",
     "original": "You learned that %name% the nomad departed the company with the hope of finding new plains to roam. Apparently, he got the idea in his head that he would travel far to the north and land cozily with the barbarians there. To his credit, the barbarians and nomads share a similar lifestyle, culture, language, religion, laws, struggles, conflicts, and general appearances aside. The nomad was butchered almost instantly upon entrance to a barbarian encampment and his remains eaten in a warrior ritual.",
-    "translation": "你获悉游牧民%name%离开了战团，希望能够找到新的平原漫游。显然，他萌生了远行至北方并与那里的野蛮人和平共处的念头。值得称赞的是，除了一些外在的相似之处，野蛮人和游牧民还分享着相似的生活方式、文化、语言、宗教、法律、斗争、冲突和一些其他方面。这位游牧民在进入野蛮人的营地后几乎立即被屠杀，他的遗体在一场战士仪式中被吃掉。",
-    "stage": 5,
+    "translation": "你获悉游牧民%name%离开了战团，希望能在新的土地上漫游。显然，他萌生了远行至北方并与那里的野蛮人和平共处的念头。诚如他所言，除了一些外在的不同之外，野蛮人和游牧民有着相似的生活方式、文化、语言、宗教、法律、斗争和冲突。这位游牧民在进入野蛮人的营地后几乎立即被屠杀，他的遗体在一场战士仪式中被吃掉。",
+    "stage": 1,
     "context": "this.m.BadEnding = 'You learned that %name% the nomad departed the company with the hope of finding new plains to roam. Apparently, he got the idea in his head that he would travel far to the north and land cozily with the barbarians there. To his credit, the barbarians and nomads share a similar lifestyle, culture, language, religion, laws, struggles, conflicts, and general appearances aside. The nomad was butchered almost instantly upon entrance to a barbarian encampment and his remains eaten in a warrior ritual.'"
   },
   {

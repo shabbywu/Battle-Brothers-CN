@@ -3,8 +3,8 @@
     "ID": 293420968,
     "key": "With the company rapidly declining, many mercenaries turned to desperate measures. %name% the flagellant was one such measure. Due to chaos and confusion, some men came to believe %name% could lead them to honor and salvation. A handful of survivors broke",
     "original": "With the company rapidly declining, many mercenaries turned to desperate measures. %name% the flagellant was one such measure. Due to chaos and confusion, some men came to believe %name% could lead them to honor and salvation. A handful of survivors broke off from the %companyname% and went mad, joining his cult of savage spirituality. A howling %name% at their helm, the converts wander aimlessly, sulking half-bent across the earth, rinds of raw hides for backs.",
-    "translation": "随着战团迅速衰落，许多佣兵采取了孤注一掷的措施。自笞者%name%就是其中之一。由于混乱和困惑，一些人开始相信%name%可以引导他们获得荣誉和救赎。少数幸存者脱离了%companyname%，疯狂地加入了他的野蛮精神崇拜之中。在其旗手%name%的怒吼声中，这些信徒无目的地漫步，半曲地躬身行走在大地上，背上覆盖着生皮。",
-    "stage": 5,
+    "translation": "随着战团迅速衰落，许多佣兵采取了孤注一掷的措施。自笞者%name%就是其中之一。由于混乱和困惑，一些人开始相信%name%可以引导他们获得荣誉和救赎。少数幸存者脱离了%companyname%，疯狂地加入了他的野蛮精神崇拜之中。在其旗手%name%的嚎叫声中，皈依者们无目的地漫步，半曲地躬身行走在大地上，背上覆盖着生皮。",
+    "stage": 1,
     "context": "this.m.BadEnding = 'With the company rapidly declining, many mercenaries turned to desperate measures. %name% the flagellant was one such measure. Due to chaos and confusion, some men came to believe %name% could lead them to honor and salvation. A handful of survivors broke off from the %companyname% and went mad, joining his cult of savage spirituality. A howling %name% at their helm, the converts wander aimlessly, sulking half-bent across the earth, rinds of raw hides for backs.'"
   },
   {

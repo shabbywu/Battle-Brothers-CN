@@ -35,8 +35,8 @@
     "ID": 293421215,
     "key": "Any raider that survived so far will have some expertise in fighting.",
     "original": "Any raider that survived so far will have some expertise in fighting.",
-    "translation": "任何一个存活至今的掠袭者都会有一些战斗方面的专长。",
-    "stage": 5,
+    "translation": "但凡活下来的掠袭者都会有一些战斗方面的专长。",
+    "stage": 1,
     "context": "this.m.BackgroundDescription = 'Any raider that survived so far will have some expertise in fighting.'"
   },
   {

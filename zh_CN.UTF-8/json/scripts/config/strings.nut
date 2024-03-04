@@ -2619,8 +2619,8 @@
     "ID": 293405963,
     "key": "The Ijirok",
     "original": "The Ijirok",
-    "translation": "伊吉洛克",
-    "stage": 5,
+    "translation": "伊吉罗克",
+    "stage": 1,
     "context": "'The Ijirok'"
   },
   {
@@ -8699,7 +8699,7 @@
     "ID": 293406723,
     "key": "]25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=",
     "original": "]25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=",
-    "translation": "]25%[/color]\n\n“破坏护甲”和“摧毁护甲”造成的护甲伤害增加 [color=",
+    "translation": "]25%[/color]\n\n“摧毁盔甲”和“粉碎盔甲”造成的护甲伤害增加 [color=",
     "stage": 1,
     "context": "SpecHammer = 'Master hammers and fighting against heavily armored opponents. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] more damage against armor.\n\nShatter gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.\n\nThe Polehammer no longer has a penalty for attacking targets directly adjacent.'"
   },

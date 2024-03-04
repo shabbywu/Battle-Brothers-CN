@@ -3,8 +3,8 @@
     "ID": 293421226,
     "key": "You didn't think %name% would fit in with sellswords, but he proved himself capable. Unfortunately, the %companyname% fell apart and he returned to ratcatching. You got word that his body was found in a sewer utterly covered in nibbling rats. It's said th",
     "original": "You didn't think %name% would fit in with sellswords, but he proved himself capable. Unfortunately, the %companyname% fell apart and he returned to ratcatching. You got word that his body was found in a sewer utterly covered in nibbling rats. It's said that he had a smile on his face.",
-    "translation": "你本以为%name%不适合当佣兵，但是他证明了自己的能力。不幸的是，%companyname%瓦解了，他又回去抓老鼠了。你听说他的尸体在下水道里被发现，浑身覆盖着啃咬中的老鼠，据说他脸上带着微笑。",
-    "stage": 5,
+    "translation": "你本以为%name%不适合当佣兵，但是他证明了自己的能力。不幸的是，%companyname%瓦解了，他又回去抓老鼠了。你听说他的尸体在下水道里被发现，老鼠爬满了全身，啃食着他的血肉，据说他脸上带着微笑。",
+    "stage": 1,
     "context": "this.m.BadEnding = \"You didn't think %name% would fit in with sellswords, but he proved himself capable. Unfortunately, the %companyname% fell apart and he returned to ratcatching. You got word that his body was found in a sewer utterly covered in nibbling rats. It's said that he had a smile on his face.\""
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293421230,
     "key": "%name% the ratcatcher came from stranger stocks, and to stranger stocks he returned. After retiring from the %companyname%, he started a ratcatching company. He was doing wonderful business until it came out that he hadn't been killing any of the rats, bu",
     "original": "%name% the ratcatcher came from stranger stocks, and to stranger stocks he returned. After retiring from the %companyname%, he started a ratcatching company. He was doing wonderful business until it came out that he hadn't been killing any of the rats, but instead stowing thousands of them in a storehouse just outside town. Last you heard, the man was quite content with his new and numerous friends.",
-    "translation": "%name%捉鼠人出身神秘，亦归于神秘。离开了%companyname%后，他开了一家捉鼠战团。他的生意非常好，直到有传言称他没有杀死任何老鼠，而是将成千上万的老鼠藏在城外的一个仓库里。据你最后所知，这个人对他新交的众多朋友非常满意。",
-    "stage": 5,
+    "translation": "捉鼠人%name%出身神秘，亦归于神秘。离开了%companyname%后，他开了一家捉鼠公司。他的生意非常好，直到有传言称他没有杀死任何老鼠，而是将成千上万的老鼠藏在城外的一个仓库里。据你最后所知，这个人对他新交的众多朋友非常满意。",
+    "stage": 1,
     "context": "this.m.GoodEnding = \"%name% the ratcatcher came from stranger stocks, and to stranger stocks he returned. After retiring from the %companyname%, he started a ratcatching company. He was doing wonderful business until it came out that he hadn't been killing any of the rats, but instead stowing thousands of them in a storehouse just outside town. Last you heard, the man was quite content with his new and numerous friends.\""
   }
 ]

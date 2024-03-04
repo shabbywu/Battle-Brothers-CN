@@ -43,7 +43,7 @@
     "ID": 293418581,
     "key": "Ijirok",
     "original": "Ijirok",
-    "translation": "伊杰洛克(Ijirok)",
+    "translation": "伊吉罗克",
     "stage": 1,
     "context": "creatureName = 'Ijirok'"
   },

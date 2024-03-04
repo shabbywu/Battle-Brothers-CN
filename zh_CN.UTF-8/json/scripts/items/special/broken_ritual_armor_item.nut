@@ -3,7 +3,7 @@
     "ID": 293418841,
     "key": "Broken Ritual Armor",
     "original": "Broken Ritual Armor",
-    "translation": "破损的仪式盔甲",
+    "translation": "破碎的仪式盔甲",
     "stage": 1,
     "context": "this.m.Name = 'Broken Ritual Armor'"
   },

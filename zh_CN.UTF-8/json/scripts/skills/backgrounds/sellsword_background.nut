@@ -11,8 +11,8 @@
     "ID": 293421254,
     "key": "%name% the sellsword left the %companyname% and started his own mercenary company. As far as you know, it's a very successful venture and he often buddies up with the men of the %companyname% to work together.",
     "original": "%name% the sellsword left the %companyname% and started his own mercenary company. As far as you know, it's a very successful venture and he often buddies up with the men of the %companyname% to work together.",
-    "translation": "佣兵%name%离开了%companyname%，并创立了自己的雇佣兵战团。据你所知，这是一次非常成功的创业，他经常与%companyname%合作。",
-    "stage": 1,
+    "translation": "佣兵%name%离开%companyname%后，成立了自己的雇佣兵战团。据你了解，这创业很成功，他经常与%companyname%搭档合作。",
+    "stage": 5,
     "context": "this.m.GoodEnding = \"%name% the sellsword left the %companyname% and started his own mercenary company. As far as you know, it's a very successful venture and he often buddies up with the men of the %companyname% to work together.\""
   },
   {
