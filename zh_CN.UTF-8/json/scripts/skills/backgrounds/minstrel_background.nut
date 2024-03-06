@@ -67,8 +67,8 @@
     "ID": 293421142,
     "key": "Ah, %name%. What an addition to the %companyname%! The minstrel not only became an excellent fighter, but was crucial in keeping the men's spirits high in the toughest of times. A poet and actor at heart, he eventually retired from the company and started",
     "original": "Ah, %name%. What an addition to the %companyname%! The minstrel not only became an excellent fighter, but was crucial in keeping the men's spirits high in the toughest of times. A poet and actor at heart, he eventually retired from the company and started up a theater company. He current performs plays for both the nobility and laymen. The minstrel does not yet realize it, but his playful wit and sharp commentary are slowly bringing the classes together.",
-    "translation": "啊，%name%。他对于%companyname%来说真是一次了不起的添砖加瓦！这个吟游诗人不仅成为了一个出色的战士，还在最艰难的时刻起到了保持士气的关键作用。作为一个有诗歌天赋和表演才能的人，他最终退出了战团，并创办了一个剧团。他目前为贵族和普通人表演戏剧。尽管他本人还未察觉，但这位吟游诗人的幽默机智和尖锐评论正在慢慢将不同阶层的人们联系在一起。",
-    "stage": 5,
+    "translation": "啊，%name%。%companyname%有他真好！这位吟游诗人不仅成为了一个出色的战士，还在最艰难的时刻起到了保持士气的关键作用。作为一个有诗歌天赋和表演才能的人，他最终退出了战团，并创办了一个剧团。他目前为贵族和普通人表演戏剧。尽管他本人还未察觉，但这位吟游诗人的幽默机智和尖锐评论正在慢慢将不同阶层的人们联系在一起。",
+    "stage": 1,
     "context": "this.m.GoodEnding = \"Ah, %name%. What an addition to the %companyname%! The minstrel not only became an excellent fighter, but was crucial in keeping the men's spirits high in the toughest of times. A poet and actor at heart, he eventually retired from the company and started up a theater company. He current performs plays for both the nobility and laymen. The minstrel does not yet realize it, but his playful wit and sharp commentary are slowly bringing the classes together.\""
   },
   {

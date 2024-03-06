@@ -387,8 +387,8 @@
     "ID": 293408273,
     "key": "Crowns well deserved.",
     "original": "Crowns well deserved.",
-    "translation": "当之无愧的克朗。",
-    "stage": 5,
+    "translation": "受之无愧。",
+    "stage": 1,
     "context": "Text = 'Crowns well deserved.'"
   },
   {

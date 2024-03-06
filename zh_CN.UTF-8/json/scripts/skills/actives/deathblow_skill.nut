@@ -27,16 +27,16 @@
     "ID": 293419909,
     "key": "Deathblow",
     "original": "Deathblow",
-    "translation": "致命攻击",
-    "stage": 5,
+    "translation": "致命一击",
+    "stage": 1,
     "context": "this.m.Name = 'Deathblow'"
   },
   {
     "ID": 293419910,
     "key": "Land a deadly hit on a debilitated target to finish it off.",
     "original": "Land a deadly hit on a debilitated target to finish it off.",
-    "translation": "对已经被削弱的目标进行致命打击以终结它。",
-    "stage": 5,
+    "translation": "对已遭削弱的目标致命一击，将其终结。",
+    "stage": 1,
     "context": "this.m.Description = 'Land a deadly hit on a debilitated target to finish it off.'"
   },
   {

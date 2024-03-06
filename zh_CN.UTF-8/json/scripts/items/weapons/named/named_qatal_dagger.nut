@@ -11,7 +11,7 @@
     "ID": 293419309,
     "key": "An exquisitely crafted curved blade, notoriously used by assassins of the southern deserts. Particularly effective against targets already debilitated.",
     "original": "An exquisitely crafted curved blade, notoriously used by assassins of the southern deserts. Particularly effective against targets already debilitated.",
-    "translation": "一种制作精巧的弯曲匕首，众所周知地被南方沙漠的刺客使用。对已经被削弱的目标特别有效。",
+    "translation": "一把精致打造的弯刃，在南方沙漠刺客手中臭名昭著。对已遭削弱的目标尤为致命。",
     "stage": 5,
     "context": "this.m.Description = 'An exquisitely crafted curved blade, notoriously used by assassins of the southern deserts. Particularly effective against targets already debilitated.'"
   },
