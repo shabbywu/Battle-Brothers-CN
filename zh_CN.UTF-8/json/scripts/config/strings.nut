@@ -6963,7 +6963,7 @@
     "ID": 293406506,
     "key": "]25%[/color] less Fatigue.\n\nStab, Puncture and Deathblow have a reduced Action Point cost to allow for an additional attack each turn.",
     "original": "]25%[/color] less Fatigue.\n\nStab, Puncture and Deathblow have a reduced Action Point cost to allow for an additional attack each turn.",
-    "translation": "]25%[/color]\n\n“刺击”、“穿刺”和“致命攻击”消耗的AP降低，使每回合可以额外攻击一次。",
+    "translation": "]25%[/color]\n\n“刺击”、“穿刺”和“致命一击”消耗的AP降低，使每回合可以额外攻击一次。",
     "stage": 1,
     "context": "SpecDagger = 'Master swift and deadly daggers. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nStab, Puncture and Deathblow have a reduced Action Point cost to allow for an additional attack each turn.'"
   },

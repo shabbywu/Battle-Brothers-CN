@@ -27,16 +27,16 @@
     "ID": 293421129,
     "key": "%name% the miner never did return to the mines, thankfully. If there's one life that could be worse than that of fighting for a living, it very well may be digging into mountains for a living! Apparently, the miner built a home by the sea, spending the re",
     "original": "%name% the miner never did return to the mines, thankfully. If there's one life that could be worse than that of fighting for a living, it very well may be digging into mountains for a living! Apparently, the miner built a home by the sea, spending the rest of his days peacefully fishing for dinner and enjoying sunrises or some such sappy shite.",
-    "translation": "矿工%name%从此再也没有回到矿井里，谢天谢地。如果有一种生活比为生存而战斗更糟糕，那很可能就是为生存而挖山！据说，这位矿工在海边盖起了一座房子，余生平静地从事捕鱼工作，享受着日出等这些伤感的破玩意。",
-    "stage": 5,
+    "translation": "谢天谢地，矿工%name%从此再也没有回到矿井里。如果有一种生活比为生存而战斗更糟糕，那很可能就是为生存而挖山！据说，这位矿工在海边盖起了一座房子，余生平静地从事捕鱼工作，享受着日出等这些伤感的破玩意。",
+    "stage": 1,
     "context": "this.m.GoodEnding = \"%name% the miner never did return to the mines, thankfully. If there's one life that could be worse than that of fighting for a living, it very well may be digging into mountains for a living! Apparently, the miner built a home by the sea, spending the rest of his days peacefully fishing for dinner and enjoying sunrises or some such sappy shite.\""
   },
   {
     "ID": 293421130,
     "key": "Earthside",
     "original": "Earthside",
-    "translation": "地面方(Earthside)",
-    "stage": 5,
+    "translation": "地底人(Earthside)",
+    "stage": 1,
     "context": "'Earthside'"
   },
   {

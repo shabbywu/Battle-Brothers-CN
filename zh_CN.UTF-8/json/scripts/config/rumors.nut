@@ -171,7 +171,7 @@
     "ID": 293405450,
     "key": "You heard that they're looking to hire fighting men at %settlement%?",
     "original": "You heard that they're looking to hire fighting men at %settlement%?",
-    "translation": "你听说他们想在 %settlement% 雇佣战士？",
+    "translation": "听说了吗？有人在%settlement%招募战士呢。",
     "stage": 1,
     "context": "\"You heard that they're looking to hire fighting men at %settlement%?\""
   },

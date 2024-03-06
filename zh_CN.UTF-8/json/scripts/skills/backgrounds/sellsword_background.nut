@@ -3,8 +3,8 @@
     "ID": 293421253,
     "key": "%name% left the %companyname% and started his own competing company. The two companies clashed on opposite sides of a battle between nobles. The sellsword died when a mercenary from the %companyname% stove his head in with a hedge knight's helmet.",
     "original": "%name% left the %companyname% and started his own competing company. The two companies clashed on opposite sides of a battle between nobles. The sellsword died when a mercenary from the %companyname% stove his head in with a hedge knight's helmet.",
-    "translation": "佣兵%name%离开了%companyname%，并创立了自己的竞争战团。在一场贵族间的战斗中，这两个战团站在了对立面。一名来自%companyname%的雇佣兵用一顶雇佣骑士头盔砸碎了%name%的头，致他死亡。",
-    "stage": 1,
+    "translation": "%name%离开%companyname%后，成立了自己的竞争战团。在贵族之间的一场战斗中，这两个战团站到了对立面。%companyname%的雇佣兵用雇佣骑士头盔砸烂了%name%的头，他命丧当场。",
+    "stage": 5,
     "context": "this.m.BadEnding = \"%name% left the %companyname% and started his own competing company. The two companies clashed on opposite sides of a battle between nobles. The sellsword died when a mercenary from the %companyname% stove his head in with a hedge knight's helmet.\""
   },
   {
