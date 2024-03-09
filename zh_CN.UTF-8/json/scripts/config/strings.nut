@@ -1315,7 +1315,7 @@
     "ID": 293405800,
     "key": "]25%[/color] less Fatigue.\n\nRiposte no longer has a penalty to hitchance.\n\nGash has a [color=",
     "original": "]25%[/color] less Fatigue.\n\nRiposte no longer has a penalty to hitchance.\n\nGash has a [color=",
-    "translation": "]25%[/color]\n\n“还击”不再有命中率惩罚。\n\n“划砍”造成伤残的阈值降低 [color=",
+    "translation": "]25%[/color]\n\n“还击”不再有命中率惩罚。\n\n“拖割”造成伤残的阈值降低 [color=",
     "stage": 1,
     "context": "SpecSword = \"Master the art of swordfighting and using your opponent's mistakes to your advantage. Skills build up [color=\" + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nRiposte no longer has a penalty to hitchance.\n\nGash has a [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] lower threshold to inflict injuries.\n\nSplit and Swing no longer have a penalty to hitchance and gain [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.'"
   },
