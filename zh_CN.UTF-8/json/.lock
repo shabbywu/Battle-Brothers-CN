@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-03-05T06:50:19Z",
-        "sha256": "37d6516a6ab190bd7f51d9976f1eca700e72ec08bd6c233cf2f7a7589ee78b4e"
+        "modifiedAt": "2024-03-08T14:11:19Z",
+        "sha256": "72cb4e10677139b64e42fbb544e4fa27d61bb53b3eda68cd331ee8872989331a"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -30104,14 +30104,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 8,
-        "reviewed": 8,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:29:13.024Z",
         "updatedAt": "2023-06-26T05:49:15.364Z",
-        "modifiedAt": "2023-06-26T05:49:15Z",
-        "sha256": "145d24b357cfbc25a7946d3485fd2573e6cf825fde0fd447d9732bdf76dcf11c"
+        "modifiedAt": "2024-03-08T15:18:44Z",
+        "sha256": "70e70642fcc7aff8ac72ac6e97ed00b5827683af0b2b026e28c18628be258987"
     },
     "scripts/skills/actives/geomancy_once_skill.json": {
         "id": 920019,
@@ -33362,14 +33362,14 @@
         "total": 12,
         "translated": 12,
         "disputed": 0,
-        "checked": 12,
-        "reviewed": 12,
+        "checked": 7,
+        "reviewed": 7,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:41.029Z",
         "updatedAt": "2023-06-26T05:49:27.595Z",
-        "modifiedAt": "2023-06-26T05:49:28Z",
-        "sha256": "da0fb1c951b27f42997ffe85c6175c978ec71692c71d4eeb39f28d508ada50cd"
+        "modifiedAt": "2024-03-08T02:15:55Z",
+        "sha256": "fdb1beb701ea2ae36482c658a0ecff392746f142e77c7ea199d3e7240c3e1a4e"
     },
     "scripts/skills/backgrounds/kings_guard_background.json": {
         "id": 920200,
@@ -33380,14 +33380,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:41.428Z",
         "updatedAt": "2023-06-26T05:49:27.666Z",
-        "modifiedAt": "2023-06-29T00:33:28Z",
-        "sha256": "7f4c08658ec175500527a6cf05025e026b9084b0aa80d19935eeb3f90ab8411b"
+        "modifiedAt": "2024-03-08T02:27:01Z",
+        "sha256": "adad38250fd50a9d59828ac05faf1473389537912aa425c17b61e1d1582d20a7"
     },
     "scripts/skills/backgrounds/lindwurm_slayer_background.json": {
         "id": 920201,
@@ -33416,14 +33416,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 8,
-        "reviewed": 8,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:43.062Z",
         "updatedAt": "2023-06-26T05:49:27.795Z",
-        "modifiedAt": "2023-06-26T05:49:28Z",
-        "sha256": "d00109257962867ec20b324ea14bdd058fd01f30d0b53eb069e1e9173b059bec"
+        "modifiedAt": "2024-03-07T03:28:36Z",
+        "sha256": "93237e0c939b302e9cf727d846a4df27bbed2e805da3f99dcd49c6d83ae08200"
     },
     "scripts/skills/backgrounds/manhunter_background.json": {
         "id": 920203,
@@ -33434,14 +33434,14 @@
         "total": 19,
         "translated": 19,
         "disputed": 0,
-        "checked": 19,
-        "reviewed": 19,
+        "checked": 16,
+        "reviewed": 16,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:43.45Z",
         "updatedAt": "2023-06-26T05:49:27.867Z",
-        "modifiedAt": "2023-07-05T02:15:00Z",
-        "sha256": "9d40d725b4d4dfcacfbeee30a446f9bd9b57305328cd5f3a62063695e10af2ea"
+        "modifiedAt": "2024-03-07T02:45:47Z",
+        "sha256": "30f21e6c428cb9cdb20439d9240fd01c25d475e9c52cbab702f454a20c8030f1"
     },
     "scripts/skills/backgrounds/mason_background.json": {
         "id": 920204,

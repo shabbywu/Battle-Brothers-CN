@@ -11,8 +11,8 @@
     "ID": 293419999,
     "key": "Gash",
     "original": "Gash",
-    "translation": "划砍",
-    "stage": 5,
+    "translation": "拖割",
+    "stage": 1,
     "context": "this.m.Name = 'Gash'"
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293420002,
     "key": "A well-placed slashing attack that is likely to inflict debilitating injuries.",
     "original": "A well-placed slashing attack that is likely to inflict debilitating injuries.",
-    "translation": "一种瞄准要害划砍攻击，更可能造成严重的伤势。",
-    "stage": 5,
+    "translation": "一种瞄准要害的划砍攻击，更容易使对手受伤。",
+    "stage": 1,
     "context": "this.m.Description = 'A well-placed slashing attack that is likely to inflict debilitating injuries.'"
   },
   {
