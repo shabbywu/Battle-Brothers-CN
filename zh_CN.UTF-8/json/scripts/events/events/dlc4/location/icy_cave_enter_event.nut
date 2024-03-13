@@ -123,7 +123,7 @@
     "ID": 293414372,
     "key": "I need you to scout ahead, ",
     "original": "I need you to scout ahead, ",
-    "translation": "我需要你前去侦察，",
+    "translation": "前头探路，",
     "stage": 1,
     "context": "Text = 'I need you to scout ahead, ' + bro.getName() + '.'"
   }

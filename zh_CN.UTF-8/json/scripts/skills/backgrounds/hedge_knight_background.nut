@@ -51,8 +51,8 @@
     "ID": 293421006,
     "key": "Steelwielder",
     "original": "Steelwielder",
-    "translation": "钢铁挥舞者(Steelwielder)",
-    "stage": 5,
+    "translation": "执钢者(Steelwielder)",
+    "stage": 1,
     "context": "'Steelwielder'"
   },
   {

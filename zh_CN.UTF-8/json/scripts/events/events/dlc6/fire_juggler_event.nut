@@ -155,7 +155,7 @@
     "ID": 293414720,
     "key": "the Fire Juggler",
     "original": "the Fire Juggler",
-    "translation": "火焰玩偶师(the Fire Juggler)",
+    "translation": "耍火者(the Fire Juggler)",
     "stage": 1,
     "context": "_event.m.Dude.setTitle('the Fire Juggler')"
   },
