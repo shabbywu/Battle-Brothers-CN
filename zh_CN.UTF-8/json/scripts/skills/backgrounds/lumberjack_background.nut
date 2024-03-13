@@ -35,8 +35,8 @@
     "ID": 293421078,
     "key": "the Woodsman",
     "original": "the Woodsman",
-    "translation": "伐木工(the Woodsman)",
-    "stage": 5,
+    "translation": "林中人(the Woodsman)",
+    "stage": 1,
     "context": "'the Woodsman'"
   },
   {

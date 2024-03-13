@@ -43,8 +43,8 @@
     "ID": 293421022,
     "key": "the Owl",
     "original": "the Owl",
-    "translation": "猫头鹰(the Owl)",
-    "stage": 5,
+    "translation": "夜猫子(the Owl)",
+    "stage": 1,
     "context": "'the Owl'"
   },
   {
