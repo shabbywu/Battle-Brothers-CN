@@ -27,7 +27,7 @@ jobs:
         ./bin/sync-from-paratranz --token ${PARATRANZ_API_TOKEN} --project 7032        
 
     - name: Create Pull Request
-      uses: peter-evans/create-pull-request@v3
+      uses: peter-evans/create-pull-request@v6
       with:
         token: ${{ github.token }}
         commit-message: 'Auto Sync From ParaTranz'
@@ -35,4 +35,4 @@ jobs:
         body: 'This is an automated PR'
         branch: 'auto-sync'
         base: 'main'
-        author: 'shabbywu <shabbywu@qq.com>'
+        assignees: 'shabbywu'
