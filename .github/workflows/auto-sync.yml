@@ -35,3 +35,4 @@ jobs:
         body: 'This is an automated PR'
         branch: 'auto-sync'
         base: 'main'
+        author: 'shabbywu <shabbywu@qq.com>'
