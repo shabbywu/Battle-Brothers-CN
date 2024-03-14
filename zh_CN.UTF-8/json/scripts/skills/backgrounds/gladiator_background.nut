@@ -3,16 +3,16 @@
     "ID": 293420985,
     "key": "The call of the crowd was too loud for the gladiator %name%. After your quick retirement from the unsuccessful %companyname%, the fighter returned to the southern kingdoms' fighting arenas. Unfortunately, the wear and tear of his time with mercenaries slo",
     "original": "The call of the crowd was too loud for the gladiator %name%. After your quick retirement from the unsuccessful %companyname%, the fighter returned to the southern kingdoms' fighting arenas. Unfortunately, the wear and tear of his time with mercenaries slowed him a step and he was mortally slain by a half-starved slave wielding a pitchfork and a net.",
-    "translation": "人群的呼声对角斗士%name%来说太过嘈杂。在你从不成功的%companyname%迅速退休后，这位战士回到了南方王国的竞技场。不幸的是，他在与佣兵一起度过的时光中所受到的疲损使他慢了一步，最终被一个半饿的奴隶用草叉和网致命地击杀。",
-    "stage": 5,
+    "translation": "人群的呼声对角斗士%name%来说太过嘈杂。在你从走向失败的%companyname%草草退休后，这位斗士回到了南方王国的竞技场。不幸的是，佣兵生活的疲损使他慢了一步，被一个半饿的奴隶用草叉和网杀死。",
+    "stage": 1,
     "context": "this.m.BadEnding = \"The call of the crowd was too loud for the gladiator %name%. After your quick retirement from the unsuccessful %companyname%, the fighter returned to the southern kingdoms' fighting arenas. Unfortunately, the wear and tear of his time with mercenaries slowed him a step and he was mortally slain by a half-starved slave wielding a pitchfork and a net.\""
   },
   {
     "ID": 293420986,
     "key": "Gladiators are expensive, but a life in the arena has forged them into skilled fighters.",
     "original": "Gladiators are expensive, but a life in the arena has forged them into skilled fighters.",
-    "translation": "角斗士身价不菲，但竞技场场的生活将他们塑造为了技艺精湛的斗士。",
-    "stage": 5,
+    "translation": "角斗士身价不菲，但竞技场的生活将他们塑造成了技艺精湛的斗士。",
+    "stage": 1,
     "context": "this.m.BackgroundDescription = 'Gladiators are expensive, but a life in the arena has forged them into skilled fighters.'"
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293420989,
     "key": "You thought that %name% the gladiator would return to the arenas as you thought he might. However, news from the south speaks of an uprising of indebted and gladiators alike. Unlike previous revolts, this one has viziers swinging from rooftops and slavers",
     "original": "You thought that %name% the gladiator would return to the arenas as you thought he might. However, news from the south speaks of an uprising of indebted and gladiators alike. Unlike previous revolts, this one has viziers swinging from rooftops and slavers being lynched in the streets. The general upheaval is apparently about to sit the once-ringfighter as a legitimate powerbroker in the region.",
-    "translation": "你以为角斗士%name%会像你想象的那样重返竞技场，然而，来自南方的消息说，负债者和角斗士们一同发动了起义。与以往的起义不同，这次维齐尔被吊在屋顶上、奴隶贩子在街上被私刑处决。这次的动乱似乎将使这位曾经的擂台战士成为该地区的合法权力经纪人。",
-    "stage": 5,
+    "translation": "你以为角斗士%name%会像你想象的那样重返竞技场，然而，来自南方的消息说，负债者和角斗士们一同发动了起义。与以往的起义不同，这次维齐尔被吊上屋顶、奴隶贩子不经审判当街处决。这场大规模动荡让这位曾经的斗士成了当地合法的权力代理人。",
+    "stage": 1,
     "context": "this.m.GoodEnding = 'You thought that %name% the gladiator would return to the arenas as you thought he might. However, news from the south speaks of an uprising of indebted and gladiators alike. Unlike previous revolts, this one has viziers swinging from rooftops and slavers being lynched in the streets. The general upheaval is apparently about to sit the once-ringfighter as a legitimate powerbroker in the region.'"
   }
 ]
