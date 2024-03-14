@@ -33200,14 +33200,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:37.265Z",
         "updatedAt": "2023-06-26T05:49:26.905Z",
-        "modifiedAt": "2023-07-10T08:03:05Z",
-        "sha256": "c0788c75696fee98c3e3f7c3c8024c31a3d3c77fa18f067083099766aebec841"
+        "modifiedAt": "2024-03-14T02:47:29Z",
+        "sha256": "dc1312e1733547c80388b7b31331ae2ea9826273517353aea59839c01b999551"
     },
     "scripts/skills/backgrounds/gravedigger_background.json": {
         "id": 920191,
@@ -33218,14 +33218,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:37.741Z",
         "updatedAt": "2023-06-26T05:49:26.989Z",
-        "modifiedAt": "2023-06-26T05:49:27Z",
-        "sha256": "1e3a011d68bd9463930b7916c52e5fcfb62e8e86502483f73d8fd94193820117"
+        "modifiedAt": "2024-03-14T02:43:45Z",
+        "sha256": "614a55a37c24f9acbbb7264fc2a21827583efd206e6c87cab0c1377d034f1c1c"
     },
     "scripts/skills/backgrounds/graverobber_background.json": {
         "id": 920192,
@@ -33236,14 +33236,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:38.106Z",
         "updatedAt": "2023-06-26T05:49:27.065Z",
-        "modifiedAt": "2023-06-26T05:49:27Z",
-        "sha256": "478e9334bcc42f35b069e18fa1dca6d4de6fa1b86420a25ac69ee5f91ec25df4"
+        "modifiedAt": "2024-03-14T01:30:18Z",
+        "sha256": "ee5b554e27c556c632e7b93516cdae6a07d60d1edc0cba707e9cf85e378950d7"
     },
     "scripts/skills/backgrounds/hedge_knight_background.json": {
         "id": 920193,
@@ -33254,14 +33254,14 @@
         "total": 17,
         "translated": 17,
         "disputed": 0,
-        "checked": 16,
-        "reviewed": 16,
+        "checked": 12,
+        "reviewed": 12,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:38.451Z",
         "updatedAt": "2023-06-26T05:49:27.137Z",
-        "modifiedAt": "2024-03-12T06:59:17Z",
-        "sha256": "50d4c1abbbabb3fdb53824c6d6ba027e52cf18e08d176740d97d7f8d3fc410f5"
+        "modifiedAt": "2024-03-14T00:48:27Z",
+        "sha256": "5b766c2b4283e7f3ae3242368cde5ac90595ba36b0e5d0394848e968726480f2"
     },
     "scripts/skills/backgrounds/historian_background.json": {
         "id": 920194,
@@ -33272,14 +33272,14 @@
         "total": 9,
         "translated": 9,
         "disputed": 0,
-        "checked": 8,
-        "reviewed": 8,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:38.802Z",
         "updatedAt": "2023-06-26T05:49:27.23Z",
-        "modifiedAt": "2024-03-12T02:59:37Z",
-        "sha256": "c025423c25b654047f98b6652e77f966b572c1cba6ca30bc7fb3ab7d4588f09d"
+        "modifiedAt": "2024-03-13T02:18:59Z",
+        "sha256": "9f3304bac073c58611f6103d008bfc1afdeb85f5b5adcde1a000fbd8410f075c"
     },
     "scripts/skills/backgrounds/historian_southern_background.json": {
         "id": 920195,
@@ -33290,14 +33290,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:39.151Z",
         "updatedAt": "2023-06-26T05:49:27.302Z",
-        "modifiedAt": "2023-07-07T02:53:41Z",
-        "sha256": "98ca588b87fe52263e4be5a88acb769bb52f6be96c45fcad5c555f241676a8b2"
+        "modifiedAt": "2024-03-13T02:23:01Z",
+        "sha256": "c7e80db8d0d4c3985b784ed0e2123efc565c7d2e6c54f73bd3d5f0cd4466ad99"
     },
     "scripts/skills/backgrounds/houndmaster_background.json": {
         "id": 920196,

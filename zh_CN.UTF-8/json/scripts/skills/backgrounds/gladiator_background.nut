@@ -3,16 +3,16 @@
     "ID": 293420985,
     "key": "The call of the crowd was too loud for the gladiator %name%. After your quick retirement from the unsuccessful %companyname%, the fighter returned to the southern kingdoms' fighting arenas. Unfortunately, the wear and tear of his time with mercenaries slo",
     "original": "The call of the crowd was too loud for the gladiator %name%. After your quick retirement from the unsuccessful %companyname%, the fighter returned to the southern kingdoms' fighting arenas. Unfortunately, the wear and tear of his time with mercenaries slowed him a step and he was mortally slain by a half-starved slave wielding a pitchfork and a net.",
-    "translation": "人群的呼声对角斗士%name%来说太过嘈杂。在你从不成功的%companyname%迅速退休后，这位战士回到了南方王国的竞技场。不幸的是，他在与佣兵一起度过的时光中所受到的疲损使他慢了一步，最终被一个半饿的奴隶用草叉和网致命地击杀。",
-    "stage": 5,
+    "translation": "人群的呼声对角斗士%name%来说太过嘈杂。在你从走向失败的%companyname%草草退休后，这位斗士回到了南方王国的竞技场。不幸的是，佣兵生活的疲损使他慢了一步，被一个半饿的奴隶用草叉和网杀死。",
+    "stage": 1,
     "context": "this.m.BadEnding = \"The call of the crowd was too loud for the gladiator %name%. After your quick retirement from the unsuccessful %companyname%, the fighter returned to the southern kingdoms' fighting arenas. Unfortunately, the wear and tear of his time with mercenaries slowed him a step and he was mortally slain by a half-starved slave wielding a pitchfork and a net.\""
   },
   {
     "ID": 293420986,
     "key": "Gladiators are expensive, but a life in the arena has forged them into skilled fighters.",
     "original": "Gladiators are expensive, but a life in the arena has forged them into skilled fighters.",
-    "translation": "角斗士身价不菲，但竞技场场的生活将他们塑造为了技艺精湛的斗士。",
-    "stage": 5,
+    "translation": "角斗士身价不菲，但竞技场的生活将他们塑造成了技艺精湛的斗士。",
+    "stage": 1,
     "context": "this.m.BackgroundDescription = 'Gladiators are expensive, but a life in the arena has forged them into skilled fighters.'"
   },
   {
