@@ -33200,14 +33200,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:37.265Z",
         "updatedAt": "2023-06-26T05:49:26.905Z",
-        "modifiedAt": "2024-03-14T02:57:13Z",
-        "sha256": "05b93c99bcb337927de29aad0b5fee9432440e3f3d0f58f679c37fc3785da2d9"
+        "modifiedAt": "2024-03-14T08:37:46Z",
+        "sha256": "a9a37c9e3d91c0ad05647355f2eb0dfc31206ecd2377d4cd8204b1404027d05f"
     },
     "scripts/skills/backgrounds/gravedigger_background.json": {
         "id": 920191,
