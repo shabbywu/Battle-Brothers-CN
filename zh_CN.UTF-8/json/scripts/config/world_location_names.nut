@@ -851,8 +851,8 @@
     "ID": 293407089,
     "key": "Crumbled Watchtower",
     "original": "Crumbled Watchtower",
-    "translation": "坍塌的瞭望塔",
-    "stage": 5,
+    "translation": "坍塌的了望塔",
+    "stage": 1,
     "context": "'Crumbled Watchtower'"
   },
   {
@@ -1987,8 +1987,8 @@
     "ID": 293407231,
     "key": "Toppled Watchtower",
     "original": "Toppled Watchtower",
-    "translation": "倒塌的瞭望塔",
-    "stage": 5,
+    "translation": "倒塌的了望塔",
+    "stage": 1,
     "context": "'Toppled Watchtower'"
   },
   {
@@ -3699,8 +3699,8 @@
     "ID": 293407445,
     "key": "%randomname%'s Watch",
     "original": "%randomname%'s Watch",
-    "translation": "%randomname%的瞭望塔",
-    "stage": 5,
+    "translation": "%randomname%的了望塔",
+    "stage": 1,
     "context": "\"%randomname%'s Watch\""
   },
   {

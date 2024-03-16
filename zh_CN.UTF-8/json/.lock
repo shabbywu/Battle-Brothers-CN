@@ -1412,14 +1412,14 @@
         "total": 752,
         "translated": 752,
         "disputed": 0,
-        "checked": 82,
-        "reviewed": 82,
+        "checked": 79,
+        "reviewed": 79,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:46.237Z",
         "updatedAt": "2023-06-26T05:46:36.564Z",
-        "modifiedAt": "2024-01-23T01:48:43Z",
-        "sha256": "988a1c576e7edd73030e278450cced5320a485193cd302e1d61d62f996ffb7b7"
+        "modifiedAt": "2024-03-15T04:04:28Z",
+        "sha256": "9cb10840e8e6d5c539f804a87020c1188cb480bd50aed712cdaa1d2ee2b56e8b"
     },
     "scripts/contracts/contract.json": {
         "id": 918425,
@@ -33092,14 +33092,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:35.185Z",
         "updatedAt": "2023-06-26T05:49:26.203Z",
-        "modifiedAt": "2023-07-07T02:53:41Z",
-        "sha256": "8b0b0c011810deaab31ee77a34a8892372dca7a5094897de92cd7f097327dad4"
+        "modifiedAt": "2024-03-15T08:39:03Z",
+        "sha256": "7a551773f2f2b71aa605b20839de768f2c9de41e1482eba0947d55e0e99648e3"
     },
     "scripts/skills/backgrounds/fisherman_background.json": {
         "id": 920185,
@@ -33110,14 +33110,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 7,
-        "reviewed": 7,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:35.523Z",
         "updatedAt": "2023-06-26T05:49:26.268Z",
-        "modifiedAt": "2023-06-26T05:49:26Z",
-        "sha256": "3dd947dcbb0597cc1d9e69a163f67224713ca3e2e09da9e9791375b1fa374ba3"
+        "modifiedAt": "2024-03-15T07:38:41Z",
+        "sha256": "a8c7f6cbf4c49c39679ea64c7f1c33f6a26ae0b8c2e72fd7eb1a163a317e6ffc"
     },
     "scripts/skills/backgrounds/fisherman_southern_background.json": {
         "id": 920186,
@@ -33128,14 +33128,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:35.872Z",
         "updatedAt": "2023-06-26T05:49:26.331Z",
-        "modifiedAt": "2023-06-26T05:49:26Z",
-        "sha256": "eb1bee364c2eb479ed4d410ecbf325857a56d9ec915f47ec9a966f71e3de4eb3"
+        "modifiedAt": "2024-03-15T07:39:20Z",
+        "sha256": "ba4613566bf7b8ea2eda9a3d4161df110713c01be94aef80ac79254b0ff87591"
     },
     "scripts/skills/backgrounds/flagellant_background.json": {
         "id": 920187,
@@ -33146,14 +33146,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:36.217Z",
         "updatedAt": "2023-06-26T05:49:26.695Z",
-        "modifiedAt": "2024-02-28T07:39:29Z",
-        "sha256": "049935d934b705196c4d1f74d397043ec9fbddab3488de72cc29e5ca29cb6aa8"
+        "modifiedAt": "2024-03-15T07:22:45Z",
+        "sha256": "c0fe6ffeafcfb9927f66abd4f31673bbb640fc2e249d774916a3063942e8824d"
     },
     "scripts/skills/backgrounds/gambler_background.json": {
         "id": 920188,
@@ -33164,14 +33164,14 @@
         "total": 11,
         "translated": 11,
         "disputed": 0,
-        "checked": 11,
-        "reviewed": 11,
+        "checked": 8,
+        "reviewed": 8,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:36.558Z",
         "updatedAt": "2023-06-26T05:49:26.769Z",
-        "modifiedAt": "2023-06-26T05:49:27Z",
-        "sha256": "0072a3fb8435e5befaa1b72951f715c68210475ee3f249d7de1d30ef21f5b7e4"
+        "modifiedAt": "2024-03-15T02:53:25Z",
+        "sha256": "f41dcf00de060bbdeb14f144114713efabb35d37bfc682cfb088d4638e565499"
     },
     "scripts/skills/backgrounds/gambler_southern_background.json": {
         "id": 920189,
@@ -33182,14 +33182,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:36.898Z",
         "updatedAt": "2023-06-26T05:49:26.833Z",
-        "modifiedAt": "2023-06-26T05:49:27Z",
-        "sha256": "c9da28a0c78e4efed26f2a9178673f6dfaea79915bef95da417f086145adb1e1"
+        "modifiedAt": "2024-03-15T02:53:20Z",
+        "sha256": "263b19f6fa5eee8c9ae64b5066aaad682e33f06c85160e99b007c9c6bb823a10"
     },
     "scripts/skills/backgrounds/gladiator_background.json": {
         "id": 920190,
