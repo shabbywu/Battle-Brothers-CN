@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-03-08T14:11:19Z",
-        "sha256": "72cb4e10677139b64e42fbb544e4fa27d61bb53b3eda68cd331ee8872989331a"
+        "modifiedAt": "2024-03-17T22:18:08Z",
+        "sha256": "413314c9d74f9b80d5852ab64d3f2bdc563fc4e9633988829ce92d291c45552d"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -37124,14 +37124,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:15.669Z",
         "updatedAt": "2023-06-26T05:49:44.25Z",
-        "modifiedAt": "2023-06-26T05:49:44Z",
-        "sha256": "6bcd014bef4d45b06c6df55bac52bdeb847b14b29fd0d091913d41f8bd1d1d2f"
+        "modifiedAt": "2024-03-17T20:44:22Z",
+        "sha256": "07fbdf87560c19fa985ab73166fc5ea982e3f20ed5cfd62b79e832af15c6a112"
     },
     "scripts/skills/perks/perk_head_hunter.json": {
         "id": 920409,

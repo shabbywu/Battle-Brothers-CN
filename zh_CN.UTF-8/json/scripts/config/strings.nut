@@ -1739,7 +1739,7 @@
     "ID": 293405853,
     "key": "Adapt to your opponent's moves! Gain an additional stacking [color=",
     "original": "Adapt to your opponent's moves! Gain an additional stacking [color=",
-    "translation": "适应你的对手的动作! 每次攻击未命中时均可获得[color=",
+    "translation": "适应对手的动作！每次攻击未命中对手时，额外提高[color=",
     "stage": 1,
     "context": "FastAdaption = \"Adapt to your opponent's moves! Gain an additional stacking [color=\" + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit with each attack that misses an opponent. Bonus is reset upon landing a hit.'"
   },
@@ -2651,7 +2651,7 @@
     "ID": 293405967,
     "key": "Cripple your enemies! Lowers the threshold to inflict injuries by [color=",
     "original": "Cripple your enemies! Lowers the threshold to inflict injuries by [color=",
-    "translation": "致残你的敌人! 将在攻击的同时造成伤残的伤害阈值降低[color=",
+    "translation": "致残敌人！你近战攻击和远程攻击的致残阈值降低[color=",
     "stage": 1,
     "context": "CripplingStrikes = 'Cripple your enemies! Lowers the threshold to inflict injuries by [color=' + this.Const.UI.Color.NegativeValue + ']33%[/color] for both melee and ranged attacks.'"
   },
@@ -9155,7 +9155,7 @@
     "ID": 293406780,
     "key": "]+10%[/color] chance to hit with each attack that misses an opponent. Bonus is reset upon landing a hit.",
     "original": "]+10%[/color] chance to hit with each attack that misses an opponent. Bonus is reset upon landing a hit.",
-    "translation": "]+10%[/color]命中率加成，可叠加但加成会在攻击命中后重置。",
+    "translation": "]10%[/color]的命中率。该增益可叠加，命中后重置。",
     "stage": 1,
     "context": "FastAdaption = \"Adapt to your opponent's moves! Gain an additional stacking [color=\" + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit with each attack that misses an opponent. Bonus is reset upon landing a hit.'"
   },
