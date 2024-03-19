@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-03-17T22:18:08Z",
-        "sha256": "413314c9d74f9b80d5852ab64d3f2bdc563fc4e9633988829ce92d291c45552d"
+        "modifiedAt": "2024-03-18T20:46:28Z",
+        "sha256": "4cb03606daba74bfe077e2f0c522971c096d1ce177c2fb522532bc962352310e"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -37052,14 +37052,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:14.079Z",
         "updatedAt": "2023-06-26T05:49:44.005Z",
-        "modifiedAt": "2023-06-26T05:49:44Z",
-        "sha256": "5eb0ac1c89f2e916d910624ff6938fe60d2346a624b270de71ff263ed58091b0"
+        "modifiedAt": "2024-03-18T23:11:15Z",
+        "sha256": "d2da0d6a6170b1ad330e90b8a37a238fefb722477f2be1b1d07078b6a555e861"
     },
     "scripts/skills/injury_permanent/traumatized_injury.json": {
         "id": 920405,
