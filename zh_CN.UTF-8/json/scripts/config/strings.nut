@@ -2651,7 +2651,7 @@
     "ID": 293405967,
     "key": "Cripple your enemies! Lowers the threshold to inflict injuries by [color=",
     "original": "Cripple your enemies! Lowers the threshold to inflict injuries by [color=",
-    "translation": "致残敌人！你近战攻击和远程攻击的致残阈值降低[color=",
+    "translation": "致残你的敌人！近战、远程攻击的致残阈值降低[color=",
     "stage": 1,
     "context": "CripplingStrikes = 'Cripple your enemies! Lowers the threshold to inflict injuries by [color=' + this.Const.UI.Color.NegativeValue + ']33%[/color] for both melee and ranged attacks.'"
   },
