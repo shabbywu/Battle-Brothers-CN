@@ -11,8 +11,8 @@
     "ID": 293420948,
     "key": "For %name%, some things would just always come up a little short. But that didn't stop the eunuch from enjoying himself. Retiring from the %companyname% with a large pile of crowns, and completely devoid of the allures of women, the man went on to live a ",
     "original": "For %name%, some things would just always come up a little short. But that didn't stop the eunuch from enjoying himself. Retiring from the %companyname% with a large pile of crowns, and completely devoid of the allures of women, the man went on to live a wonderful, extremely focused life.",
-    "translation": "对于%name%来说，有些事情总是有点短缺。但这并没有阻止这个阉人享受生活。他带着一大堆克朗从%companyname%退休，且完全没有被女性吸引，这个人过上了美好而极其专注的生活。",
-    "stage": 5,
+    "translation": "%name%总觉得短点儿什么。但这并不影响这个阉人享受生活。他带着一大堆克朗从%companyname%退休，不受女色吸引，过上了美好而极其专注的生活。",
+    "stage": 1,
     "context": "this.m.GoodEnding = \"For %name%, some things would just always come up a little short. But that didn't stop the eunuch from enjoying himself. Retiring from the %companyname% with a large pile of crowns, and completely devoid of the allures of women, the man went on to live a wonderful, extremely focused life.\""
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293420950,
     "key": "The fact that eunuchs can't sire children is probably a secondary concern for a mercenary company.",
     "original": "The fact that eunuchs can't sire children is probably a secondary concern for a mercenary company.",
-    "translation": "阉人不能有孩子这件事可能不是佣兵战团首要考虑的。",
-    "stage": 5,
+    "translation": "阉人能不能有孩子不在战团的优先考虑之列。",
+    "stage": 1,
     "context": "this.m.BackgroundDescription = \"The fact that eunuchs can't sire children is probably a secondary concern for a mercenary company.\""
   },
   {
@@ -51,8 +51,8 @@
     "ID": 293420953,
     "key": "It's said that %name% the eunuch departed from the company shortly after you did. He traveled the lands, broke and broken, wasting his scant crowns on ale and wenches. Insulted by a whore for his cockless nature, the drunken and enraged eunuch stabbed the",
     "original": "It's said that %name% the eunuch departed from the company shortly after you did. He traveled the lands, broke and broken, wasting his scant crowns on ale and wenches. Insulted by a whore for his cockless nature, the drunken and enraged eunuch stabbed the woman in the eye with a goat horn. Still inebriated when the constable found him, the confused and bewildered eunuch was stripped, hanged, and mutilated by the townspeople before having his body fed to pigs.",
-    "translation": "据说阉人%name%在你离开战团不久后也离开了，他流浪四方，一贫如洗，将仅剩的克朗用于酒和妓女。由于被妓女侮辱老二的缺失，这个醉酒又暴怒的太监用山羊角刺进那女人的眼睛。这个困惑和惊骇的太监在治安官发现他时仍然醉着，最终被当地人剥光、绞死并肢解喂猪。",
-    "stage": 5,
+    "translation": "据说，在你离开战团不久后，阉人%name%也离开了，他流浪四方，一贫如洗，将仅剩的钱花在酒和妓女身上。妓女笑他没有老二，被激怒的阉人借着酒劲，用一只山羊角刺穿了她的眼。治安官找到他时，他还没醒酒。最终，在惊骇和困惑当中，他被当地人扒光、绞死、肢解喂猪。",
+    "stage": 1,
     "context": "this.m.BadEnding = \"It's said that %name% the eunuch departed from the company shortly after you did. He traveled the lands, broke and broken, wasting his scant crowns on ale and wenches. Insulted by a whore for his cockless nature, the drunken and enraged eunuch stabbed the woman in the eye with a goat horn. Still inebriated when the constable found him, the confused and bewildered eunuch was stripped, hanged, and mutilated by the townspeople before having his body fed to pigs.\""
   }
 ]

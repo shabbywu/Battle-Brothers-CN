@@ -11,8 +11,8 @@
     "ID": 293422567,
     "key": "the Anxious",
     "original": "the Anxious",
-    "translation": "急迫者(the Anxious)",
-    "stage": 5,
+    "translation": "急性子",
+    "stage": 1,
     "context": "'the Anxious'"
   },
   {

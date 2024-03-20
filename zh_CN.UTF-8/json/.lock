@@ -1340,14 +1340,14 @@
         "total": 1218,
         "translated": 1218,
         "disputed": 0,
-        "checked": 287,
-        "reviewed": 287,
+        "checked": 286,
+        "reviewed": 286,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-03-18T20:46:28Z",
-        "sha256": "4cb03606daba74bfe077e2f0c522971c096d1ce177c2fb522532bc962352310e"
+        "modifiedAt": "2024-03-19T21:38:53Z",
+        "sha256": "b30c9bbedd4c3af98be2f6011a75a43700f5be8683ec13ac7a28e62a8456a08e"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -2480,8 +2480,8 @@
         "locked": 1,
         "createdAt": "2023-05-13T14:18:14.765Z",
         "updatedAt": "2023-06-26T05:46:54.258Z",
-        "modifiedAt": "2024-01-08T03:06:55Z",
-        "sha256": "c781c42fab00f0de087cd619386d4ac93a542ecfcd44681c8a268a99308ee8e6"
+        "modifiedAt": "2024-03-19T22:47:41Z",
+        "sha256": "06a5691d7fd28cd28c11855da28dc7117353f69ca9bbf7bc472f1970e4cf64de"
     },
     "scripts/entity/tactical/enemies/alp.json": {
         "id": 918484,
@@ -29066,8 +29066,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:41.671Z",
         "updatedAt": "2023-06-26T05:49:11.029Z",
-        "modifiedAt": "2024-01-09T08:49:11Z",
-        "sha256": "db0c58ae404508ee8c963d127fa2fc2a72347d1bd7218fb111a9d153035b7f10"
+        "modifiedAt": "2024-03-19T01:16:57Z",
+        "sha256": "4b2f2ecad5f8691546938fd905bdceba7b7f3952ca505bc98965eac852a59ba7"
     },
     "scripts/retinue/followers/scavenger_follower.json": {
         "id": 919961,
@@ -33056,14 +33056,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 7,
-        "reviewed": 7,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:34.323Z",
         "updatedAt": "2023-06-26T05:49:26.068Z",
-        "modifiedAt": "2023-07-07T02:53:41Z",
-        "sha256": "6e6fc592378013e6bc065bb94459d59cddff1e154feffa69dd3f11b22adb80c7"
+        "modifiedAt": "2024-03-19T01:27:43Z",
+        "sha256": "4e8e71193859a1001bd3b551bf46adad69e5879d87224e79baaaf24699929b08"
     },
     "scripts/skills/backgrounds/eunuch_southern_background.json": {
         "id": 920183,
@@ -35144,14 +35144,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:23.459Z",
         "updatedAt": "2023-06-26T05:49:36.887Z",
-        "modifiedAt": "2024-01-25T00:55:13Z",
-        "sha256": "94b46baeb06d0e32a69526cf71541d54171a181eae0b61970cba7032c9d4dc6a"
+        "modifiedAt": "2024-03-19T22:03:04Z",
+        "sha256": "7e3bd20e9a1f353f3a4fc1486de193ed74d677761c503e547383480d31fdd93c"
     },
     "scripts/skills/effects/orc_berserker_potion_effect.json": {
         "id": 920299,
@@ -38492,14 +38492,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:47.788Z",
         "updatedAt": "2023-06-26T05:49:49.406Z",
-        "modifiedAt": "2024-01-11T01:54:37Z",
-        "sha256": "5672f625628ca61963a0c15d03db1e7a05d5c8723967c790be0f6367af55775c"
+        "modifiedAt": "2024-03-19T03:47:58Z",
+        "sha256": "6426fa0b2f9c0b9c0c0a54ecbfbcf9be78f86aed56ef9735a001ec30e4676d82"
     },
     "scripts/skills/traits/insecure_trait.json": {
         "id": 920485,
