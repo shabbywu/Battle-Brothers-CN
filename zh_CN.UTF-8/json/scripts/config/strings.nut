@@ -1739,7 +1739,7 @@
     "ID": 293405853,
     "key": "Adapt to your opponent's moves! Gain an additional stacking [color=",
     "original": "Adapt to your opponent's moves! Gain an additional stacking [color=",
-    "translation": "适应对手的动作！每次攻击未命中对手时，额外提高[color=",
+    "translation": "适应对手的动作！每次攻击未命中对手后，额外提高[color=",
     "stage": 1,
     "context": "FastAdaption = \"Adapt to your opponent's moves! Gain an additional stacking [color=\" + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit with each attack that misses an opponent. Bonus is reset upon landing a hit.'"
   },
@@ -2651,7 +2651,7 @@
     "ID": 293405967,
     "key": "Cripple your enemies! Lowers the threshold to inflict injuries by [color=",
     "original": "Cripple your enemies! Lowers the threshold to inflict injuries by [color=",
-    "translation": "致残你的敌人！近战、远程攻击的致残阈值降低[color=",
+    "translation": "致残你的敌人！近战、远程攻击造成创伤的阈值降低[color=",
     "stage": 1,
     "context": "CripplingStrikes = 'Cripple your enemies! Lowers the threshold to inflict injuries by [color=' + this.Const.UI.Color.NegativeValue + ']33%[/color] for both melee and ranged attacks.'"
   },
@@ -5307,7 +5307,7 @@
     "ID": 293406299,
     "key": "]25%[/color], which also reduces the chance to sustain debilitating injuries when being hit.",
     "original": "]25%[/color], which also reduces the chance to sustain debilitating injuries when being hit.",
-    "translation": "]25%[/color]，同时也降低了遭受攻击时获得部位伤残的概率。",
+    "translation": "]25%[/color]，因此降低了被击中时遭受严重创伤的几率。",
     "stage": 1,
     "context": "Colossus = 'Bring it on! Hitpoints are increased by [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color], which also reduces the chance to sustain debilitating injuries when being hit.'"
   },
@@ -5531,8 +5531,8 @@
     "ID": 293406327,
     "key": "Nine Lives",
     "original": "Nine Lives",
-    "translation": "九命",
-    "stage": 5,
+    "translation": "九命猫",
+    "stage": 1,
     "context": "NineLives = 'Nine Lives'"
   },
   {
@@ -6555,7 +6555,7 @@
     "ID": 293406455,
     "key": "Bring it on! Hitpoints are increased by [color=",
     "original": "Bring it on! Hitpoints are increased by [color=",
-    "translation": "来吧！ 生命值上限增加 [color=",
+    "translation": "放马过来！生命值增加[color=",
     "stage": 1,
     "context": "Colossus = 'Bring it on! Hitpoints are increased by [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color], which also reduces the chance to sustain debilitating injuries when being hit.'"
   },

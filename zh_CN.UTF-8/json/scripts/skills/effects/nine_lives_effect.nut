@@ -3,8 +3,8 @@
     "ID": 293421638,
     "key": "]+15[/color] Initiative",
     "original": "]+15[/color] Initiative",
-    "translation": "]+15[/color] 主动性",
-    "stage": 5,
+    "translation": "]+15[/color]主动",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Initiative'"
   },
   {
@@ -19,32 +19,32 @@
     "ID": 293421640,
     "key": "]+15[/color] Melee Defense",
     "original": "]+15[/color] Melee Defense",
-    "translation": "]+15[/color] 近战防御",
-    "stage": 5,
+    "translation": "]+15[/color]近战防御",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Melee Defense'"
   },
   {
     "ID": 293421641,
     "key": "]+15[/color] Ranged Defense",
     "original": "]+15[/color] Ranged Defense",
-    "translation": "]+15[/color] 远程防御",
-    "stage": 5,
+    "translation": "]+15[/color]远程防御",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Ranged Defense'"
   },
   {
     "ID": 293421642,
     "key": "]+15[/color] Resolve",
     "original": "]+15[/color] Resolve",
-    "translation": "]+15[/color] 决心",
-    "stage": 5,
+    "translation": "]+15[/color]决心",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+15[/color] Resolve'"
   },
   {
     "ID": 293421643,
     "key": "Nine Lives",
     "original": "Nine Lives",
-    "translation": "猫有九命",
-    "stage": 5,
+    "translation": "九命猫",
+    "stage": 1,
     "context": "this.m.Name = 'Nine Lives'"
   }
 ]
