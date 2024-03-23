@@ -4779,7 +4779,7 @@
     "ID": 293406233,
     "key": "Once per battle, upon receiving a killing blow, survive instead with a few hitpoints left and have all damage over time effects (e.g. bleeding, poisoned) cured. The next hit is likely to kill you for good, of course, but improved defensive stats until you",
     "original": "Once per battle, upon receiving a killing blow, survive instead with a few hitpoints left and have all damage over time effects (e.g. bleeding, poisoned) cured. The next hit is likely to kill you for good, of course, but improved defensive stats until your next turn help you to survive until then.",
-    "translation": "每场战斗只能触发一次。在受到致命一击时，你在保留极少生命值的情况下存活，同时解除所有持续性伤害效果（如出血、中毒）。当然，下一次攻击很可能会将你击杀，但直到你的下一轮行动开始之前，你会拥有更高的防御力来帮助你幸存。",
+    "translation": "每场战斗限一次。受到致命攻击时，你会以少量生命值存活，并治愈所有的持续伤害效果（例如流血、中毒）。当然，下一击很可能置你于死地，但直到你的下个回合，提升的防御属性会助你撑过难关。",
     "stage": 1,
     "context": "NineLives = 'Once per battle, upon receiving a killing blow, survive instead with a few hitpoints left and have all damage over time effects (e.g. bleeding, poisoned) cured. The next hit is likely to kill you for good, of course, but improved defensive stats until your next turn help you to survive until then.'"
   },

@@ -195,8 +195,8 @@
     "ID": 293410256,
     "key": " discovered!",
     "original": " discovered!",
-    "translation": " 被发现！",
-    "stage": 5,
+    "translation": "出现了！",
+    "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this) + ' discovered!')"
   },
   {
