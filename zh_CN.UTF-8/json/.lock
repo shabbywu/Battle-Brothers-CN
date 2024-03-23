@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-03-19T21:38:53Z",
-        "sha256": "b30c9bbedd4c3af98be2f6011a75a43700f5be8683ec13ac7a28e62a8456a08e"
+        "modifiedAt": "2024-03-22T22:38:36Z",
+        "sha256": "65d90433babba87fee42db4035d73c05bf17206ab9949e45ebb249f6db4ea94d"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -2474,14 +2474,14 @@
         "total": 31,
         "translated": 31,
         "disputed": 0,
-        "checked": 16,
-        "reviewed": 16,
+        "checked": 15,
+        "reviewed": 15,
         "hidden": 0,
         "locked": 1,
         "createdAt": "2023-05-13T14:18:14.765Z",
         "updatedAt": "2023-06-26T05:46:54.258Z",
-        "modifiedAt": "2024-03-19T22:47:41Z",
-        "sha256": "06a5691d7fd28cd28c11855da28dc7117353f69ca9bbf7bc472f1970e4cf64de"
+        "modifiedAt": "2024-03-22T23:11:10Z",
+        "sha256": "057fe0475a88a88b56b0b8304d728224af753af6ed182926f981daabb5bb0d99"
     },
     "scripts/entity/tactical/enemies/alp.json": {
         "id": 918484,
@@ -35150,8 +35150,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:23.459Z",
         "updatedAt": "2023-06-26T05:49:36.887Z",
-        "modifiedAt": "2024-03-19T22:03:04Z",
-        "sha256": "7e3bd20e9a1f353f3a4fc1486de193ed74d677761c503e547383480d31fdd93c"
+        "modifiedAt": "2024-03-22T22:53:46Z",
+        "sha256": "1b68f801af7e8bf4e0de8aefe437b36c91e49fff21b9e7bedeaaa028b00fe58f"
     },
     "scripts/skills/effects/orc_berserker_potion_effect.json": {
         "id": 920299,
