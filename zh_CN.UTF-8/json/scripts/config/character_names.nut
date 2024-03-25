@@ -6867,7 +6867,7 @@
     "ID": 293404636,
     "key": "Whoreson",
     "original": "Whoreson",
-    "translation": "妓女",
+    "translation": "野种",
     "stage": 1,
     "context": "'Whoreson'"
   },
