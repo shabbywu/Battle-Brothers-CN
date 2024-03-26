@@ -32984,14 +32984,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:32.852Z",
         "updatedAt": "2023-06-26T05:49:25.781Z",
-        "modifiedAt": "2023-06-26T05:49:26Z",
-        "sha256": "500ca0b3a9906625606a96f2451ce6d62464754e81764b7d9fd0df15a9557ba3"
+        "modifiedAt": "2024-03-25T07:38:40Z",
+        "sha256": "938f57d477cf186edba69ea9d5f2914bb065c20ad3f20ae7f3df3f2fedaf1884"
     },
     "scripts/skills/backgrounds/daytaler_southern_background.json": {
         "id": 920179,
@@ -33002,14 +33002,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:33.224Z",
         "updatedAt": "2023-06-26T05:49:25.848Z",
-        "modifiedAt": "2023-06-26T05:49:26Z",
-        "sha256": "3a54f89ed8580c3947124385cbed8a3eda9aaa0938ac865cbecc215eabb69c5b"
+        "modifiedAt": "2024-03-25T07:38:13Z",
+        "sha256": "3d428e64baf04323c0be6eb3456570af4b33b10d35564d90e9490c61aed4ffbb"
     },
     "scripts/skills/backgrounds/deserter_background.json": {
         "id": 920180,
@@ -33020,14 +33020,14 @@
         "total": 12,
         "translated": 12,
         "disputed": 0,
-        "checked": 12,
-        "reviewed": 12,
+        "checked": 8,
+        "reviewed": 8,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:33.601Z",
         "updatedAt": "2023-06-26T05:49:25.913Z",
-        "modifiedAt": "2023-06-26T05:49:26Z",
-        "sha256": "caf33537e8e14d1f3e0fe0ba7e7f08662a2345805cdbb3a73aa6aee20f87530d"
+        "modifiedAt": "2024-03-26T00:41:29Z",
+        "sha256": "7e76809a96f04d4ab87b6b97794fdd86b70cf0af20aba3894f76cd0b9774c782"
     },
     "scripts/skills/backgrounds/disowned_noble_background.json": {
         "id": 920181,
@@ -33038,14 +33038,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 8,
-        "reviewed": 8,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:33.965Z",
         "updatedAt": "2023-06-26T05:49:25.985Z",
-        "modifiedAt": "2023-06-26T05:49:26Z",
-        "sha256": "4e537bdf3ffbcffd5e51f029dae2adedd2a6829b2cfdd58277fdc8a36298f04e"
+        "modifiedAt": "2024-03-25T02:47:34Z",
+        "sha256": "7aeda307655bbbdc3e2f48358ea8f7d6dd4d4da9d0181be49b7feabfb9bccdea"
     },
     "scripts/skills/backgrounds/eunuch_background.json": {
         "id": 920182,
