@@ -43,8 +43,8 @@
     "ID": 293420889,
     "key": "Who this man once was no longer matters. He now bears the mark of Davkul on his forehead and while his lips do not yet know the words of his newfound religion, they speak of the cult's fascination in a familiar tongue. Darkness, he says, is coming.",
     "original": "Who this man once was no longer matters. He now bears the mark of Davkul on his forehead and while his lips do not yet know the words of his newfound religion, they speak of the cult's fascination in a familiar tongue. Darkness, he says, is coming.",
-    "translation": "这个人曾经是谁已经不重要了。现在他的额头上有达库尔的印记，虽然他的嘴唇尚未掌握新发现宗教的言语，但是却用熟悉的语调谈论邪教的魅力。黑暗，他说，即将降临。",
-    "stage": 5,
+    "translation": "这个人的过去已经不重要了，他的额头已经刻上了达库尔的印记。他的喉舌尚未掌握新宗教的言语，却用熟悉的声音述说着邪教的魅力。黑暗，他说，即将降临。",
+    "stage": 1,
     "context": "return \"Who this man once was no longer matters. He now bears the mark of Davkul on his forehead and while his lips do not yet know the words of his newfound religion, they speak of the cult's fascination in a familiar tongue. Darkness, he says, is coming.\";"
   }
 ]

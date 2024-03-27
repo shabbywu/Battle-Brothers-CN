@@ -11,8 +11,8 @@
     "ID": 293420864,
     "key": "%name% the once-caravan hand retired from fighting. He used his mercenary money to start a trade-guarding business that specializes in transporting goods through dangerous lands.",
     "original": "%name% the once-caravan hand retired from fighting. He used his mercenary money to start a trade-guarding business that specializes in transporting goods through dangerous lands.",
-    "translation": "曾经是商队队员的%name%从战斗生涯中退役了。他用自己当佣兵赚来的钱做起了贸易护卫的业务，专门运送货物通过危险的地区。",
-    "stage": 5,
+    "translation": "曾经的商队队员，%name%，从战斗生涯中退役了。他用自己当佣兵赚来的钱做起了押镖的生意，专门运送货物通过危险的地区。",
+    "stage": 1,
     "context": "this.m.GoodEnding = '%name% the once-caravan hand retired from fighting. He used his mercenary money to start a trade-guarding business that specializes in transporting goods through dangerous lands.'"
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293420866,
     "key": "%name% the caravan hand retired back into guarding trade wagons. He died when defending against an ambush by brigands. They took his shirt and left his body in a ditch.",
     "original": "%name% the caravan hand retired back into guarding trade wagons. He died when defending against an ambush by brigands. They took his shirt and left his body in a ditch.",
-    "translation": "商队队员%name%退役后回去做起了商队的护卫。他在抵御强盗伏击时牺牲了。他们夺走了他的衣服并将他的尸体抛弃在沟渠中。",
-    "stage": 5,
+    "translation": "商队队员%name%退役后做回了护卫商队的工作。他在抵御强盗伏击时牺牲了。他们夺走了他的衣服，把他的尸体丢进了沟里。",
+    "stage": 1,
     "context": "this.m.BadEnding = '%name% the caravan hand retired back into guarding trade wagons. He died when defending against an ambush by brigands. They took his shirt and left his body in a ditch.'"
   },
   {
