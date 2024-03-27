@@ -1250,14 +1250,14 @@
         "total": 123,
         "translated": 123,
         "disputed": 0,
-        "checked": 123,
-        "reviewed": 123,
+        "checked": 116,
+        "reviewed": 116,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:42.111Z",
         "updatedAt": "2023-06-26T05:46:30.543Z",
-        "modifiedAt": "2023-06-26T05:46:31Z",
-        "sha256": "798014985bd11b3c937a577d9517e6186d52a745e325052cbbe26ca97d883eb8"
+        "modifiedAt": "2024-03-26T05:15:55Z",
+        "sha256": "0ce0a87288035e911b067b447d9a1acf233cfe096d4f7556ae5d93e115e40754"
     },
     "scripts/config/item_names.json": {
         "id": 918416,
@@ -32768,14 +32768,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:26.889Z",
         "updatedAt": "2023-06-26T05:49:24.987Z",
-        "modifiedAt": "2023-06-26T05:49:25Z",
-        "sha256": "0d42c0e334d37a9d1ad78ef414ca7c35f33e5c7f27433e3a3d2a4a24e0350c10"
+        "modifiedAt": "2024-03-26T08:38:03Z",
+        "sha256": "68145a1c19b941b28c7645433bff398fa47bf6489e67830d2dc0f8426b6b1a4b"
     },
     "scripts/skills/backgrounds/caravan_hand_southern_background.json": {
         "id": 920167,
@@ -32822,14 +32822,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:29.204Z",
         "updatedAt": "2023-06-26T05:49:25.176Z",
-        "modifiedAt": "2023-06-26T05:49:25Z",
-        "sha256": "a65c883d58eaa2b495ba07b9f42e1a9b0d18c141376562f8c3d4755607984029"
+        "modifiedAt": "2024-03-26T08:00:52Z",
+        "sha256": "9c98cdc835967152c21fa9afa4f7648c0b17ba44452fb950f85587ee85a8e652"
     },
     "scripts/skills/backgrounds/companion_2h_background.json": {
         "id": 920170,
@@ -32840,14 +32840,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:29.552Z",
         "updatedAt": "2023-06-26T05:49:25.241Z",
-        "modifiedAt": "2023-06-26T05:49:25Z",
-        "sha256": "ff313c0523f909faf4322c579aad13137712ed6a87b0484766c3b22f9bba01a3"
+        "modifiedAt": "2024-03-26T07:52:17Z",
+        "sha256": "9e3653fd61c3df88d488a16a256309a0e42e8eea03b98a9d0950d5ae2c414d6c"
     },
     "scripts/skills/backgrounds/companion_ranged_background.json": {
         "id": 920171,
@@ -32858,14 +32858,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:29.947Z",
         "updatedAt": "2023-06-26T05:49:25.304Z",
-        "modifiedAt": "2023-06-26T05:49:25Z",
-        "sha256": "f283b028ccddda4082849f002f9a13d9d2fe59b7636e8ad17fd8579239db577c"
+        "modifiedAt": "2024-03-26T07:52:17Z",
+        "sha256": "62ae51a2f87c3ad688d7336f5d075b0b9e072108897465c49a5b4cb037660a76"
     },
     "scripts/skills/backgrounds/converted_cultist_background.json": {
         "id": 920172,
@@ -32876,14 +32876,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:30.433Z",
         "updatedAt": "2023-06-26T05:49:25.371Z",
-        "modifiedAt": "2023-06-26T05:49:25Z",
-        "sha256": "5ec91cf659fd2e42e88fc9ffd1f92c5ad59eed2e928eda20c5fb8e6dc54d6971"
+        "modifiedAt": "2024-03-26T02:02:57Z",
+        "sha256": "bbc962edde3ebbbd72db5301f8c8bc2b74cc51380a3a3e9226023de5340a5b8b"
     },
     "scripts/skills/backgrounds/cripple_background.json": {
         "id": 920173,
@@ -32894,14 +32894,14 @@
         "total": 10,
         "translated": 10,
         "disputed": 0,
-        "checked": 10,
-        "reviewed": 10,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:30.83Z",
         "updatedAt": "2023-06-26T05:49:25.447Z",
-        "modifiedAt": "2023-06-26T05:49:25Z",
-        "sha256": "42a2f6190cf654683f0f5c55c4b5022d9141fcde850aff671e6c5302b042fcc3"
+        "modifiedAt": "2024-03-26T07:31:08Z",
+        "sha256": "d10acb129a7106f0eb1800b21a2bfd03645a55d24ad4154e5cd98ed9214a734a"
     },
     "scripts/skills/backgrounds/cripple_southern_background.json": {
         "id": 920174,
@@ -32912,14 +32912,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:31.228Z",
         "updatedAt": "2023-06-26T05:49:25.519Z",
-        "modifiedAt": "2023-06-26T05:49:26Z",
-        "sha256": "36893566ce73a57c4cacdeb18162ee3f6cb02a1fea8418a68ee0226b774d7bc6"
+        "modifiedAt": "2024-03-26T08:32:39Z",
+        "sha256": "5c8c10eb12065075fe2087b30def766a784ea1dc59598aa79dd3cf24923d5c95"
     },
     "scripts/skills/backgrounds/crucified_background.json": {
         "id": 920175,
@@ -32948,14 +32948,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:32.124Z",
         "updatedAt": "2023-06-26T05:49:25.633Z",
-        "modifiedAt": "2023-06-26T05:49:26Z",
-        "sha256": "0df1a8e9f241905ab2f1aee1582f8453ba40eee1693b8d8e6ba8e7e20a2b0968"
+        "modifiedAt": "2024-03-26T01:53:25Z",
+        "sha256": "474b9e4eb9a4556be3c3f5bdfcbfb9c2dbe8256cfbd28f0dee19aa98bc52503e"
     },
     "scripts/skills/backgrounds/cultist_background.json": {
         "id": 920177,
@@ -32966,14 +32966,14 @@
         "total": 16,
         "translated": 16,
         "disputed": 0,
-        "checked": 16,
-        "reviewed": 16,
+        "checked": 12,
+        "reviewed": 12,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:32.468Z",
         "updatedAt": "2023-06-26T05:49:25.702Z",
-        "modifiedAt": "2023-06-26T05:49:26Z",
-        "sha256": "6858474cded181d95ad11f189e0f69774a4b4f8a44a46d65087110b7509ad874"
+        "modifiedAt": "2024-03-26T01:51:13Z",
+        "sha256": "ae9ee842df6b3340fe7e072c1628d341d15cde65fcdfe56321e61b5222d5d8ee"
     },
     "scripts/skills/backgrounds/daytaler_background.json": {
         "id": 920178,

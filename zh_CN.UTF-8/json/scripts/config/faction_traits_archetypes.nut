@@ -803,48 +803,48 @@
     "ID": 293404846,
     "key": "Virtue under strength",
     "original": "Virtue under strength",
-    "translation": "美德源于力量",
-    "stage": 5,
+    "translation": "美德与力量同行",
+    "stage": 1,
     "context": "Mottos = ['Live that you may live','Friendship without deceit','Dare to be wise','The brave always show mercy','A friend to a friend','This hand is hostile to tyrants','Irritate not the lion','An oak in aged strength','With heart and hand','Always watchful','Glory to the father','Virtue under strength','Prepared in either case','Not for ourselves alone']"
   },
   {
     "ID": 293404847,
     "key": "All things change",
     "original": "All things change",
-    "translation": "万物皆变",
-    "stage": 5,
+    "translation": "世事无常",
+    "stage": 1,
     "context": "Mottos = ['Nothing in life is permanent','Consider the end','We neither despise nor fear','Judge not','All things change','Every man for himself','All things are thus unstable','Beware the wolf']"
   },
   {
     "ID": 293404848,
     "key": "He lives twice who lives well",
     "original": "He lives twice who lives well",
-    "translation": "活得好等于活了两次",
-    "stage": 5,
+    "translation": "精彩一生，胜似再世",
+    "stage": 1,
     "context": "Mottos = ['He lives twice who lives well','Wealth to him who knows how to use it','Things locked up are safe','Once and always','Gauge and measure','Safe on the waves','Each his share','With sail and oars','Among the first']"
   },
   {
     "ID": 293404849,
     "key": "One giveth, one taketh",
     "original": "One giveth, one taketh",
-    "translation": "有得必有失",
-    "stage": 5,
+    "translation": "有得有失",
+    "stage": 1,
     "context": "Mottos = ['He lives well who lives peacefully','Wealth is my arrow','Wealth is our sword','Golden towers in the distance','A gift returned','One giveth, one taketh']"
   },
   {
     "ID": 293404850,
     "key": "All things are thus unstable",
     "original": "All things are thus unstable",
-    "translation": "万物皆无常",
-    "stage": 5,
+    "translation": "变幻莫测",
+    "stage": 1,
     "context": "Mottos = ['Nothing in life is permanent','Consider the end','We neither despise nor fear','Judge not','All things change','Every man for himself','All things are thus unstable','Beware the wolf']"
   },
   {
     "ID": 293404851,
     "key": "Always thirsty",
     "original": "Always thirsty",
-    "translation": "永远饥渴",
-    "stage": 5,
+    "translation": "欲壑难填",
+    "stage": 1,
     "context": "Mottos = ['Whatever grows perishes in ashes','We trample it under our feet','For me and for mine','The eagle catches not flies','Deeds not words','The gods feed the ravens','Always thirsty','Sons of hounds come here and get flesh','Not without booty']"
   },
   {
@@ -867,8 +867,8 @@
     "ID": 293404854,
     "key": "I despise",
     "original": "I despise",
-    "translation": "我施以轻蔑",
-    "stage": 5,
+    "translation": "我不屑一顾",
+    "stage": 1,
     "context": "Mottos = ['Unconquered','Cruel rumor, be still','I soar','With good right','I despise','Sheep, ye bear the wool','Spare not','Profit is gained by danger','Remember that thou must die']"
   },
   {
