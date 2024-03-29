@@ -179,7 +179,7 @@
     "ID": 293415661,
     "key": "{%name% was found deploying his minstrel talents in street scamming. Vouched for by a fellow minstrel, he joined the %companyname% to seek out a life on the road. Hopefully the charlatan-turned-sellsword will be able to 'fake it til he makes it', as he li",
     "original": "{%name% was found deploying his minstrel talents in street scamming. Vouched for by a fellow minstrel, he joined the %companyname% to seek out a life on the road. Hopefully the charlatan-turned-sellsword will be able to 'fake it til he makes it', as he likes to say a little too often.}",
-    "translation": "{[队长]%name%[/队长]被发现以他的吟游诗人天赋在街头欺诈活动中进行部署。在另一位吟游诗人的担保下，他加入了%companyname%寻求在路上的生活。希望这个从骗子变成佣兵的人能够像他经常所说的那样“假装做到直到成功”。}",
+    "translation": "{%name%用他的吟游诗人天赋在街头行骗。在另一位吟游诗人的担保下，他加入了%companyname%，和战团一起游历谋生。希望这名骗子佣兵能像他常说的那样，“演着演着就入戏了”。}",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = \"{%name% was found deploying his minstrel talents in street scamming. Vouched for by a fellow minstrel, he joined the %companyname% to seek out a life on the road. Hopefully the charlatan-turned-sellsword will be able to 'fake it til he makes it', as he likes to say a little too often.}\""
   },

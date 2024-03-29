@@ -59,7 +59,7 @@
     "ID": 293415054,
     "key": "You found %name% being buried alive for carrying some unknown blight. The anatomists took interest in him and rescued him, nursing him back to health. Now, he fights for you, putting to use the skills that made him captain of the guard in a previous life.",
     "original": "You found %name% being buried alive for carrying some unknown blight. The anatomists took interest in him and rescued him, nursing him back to health. Now, he fights for you, putting to use the skills that made him captain of the guard in a previous life.",
-    "translation": "你发现%name%因携带某种未知疫病而被活埋。解剖学家对他产生兴趣并将其解救，将其护理至康复。现在，他为你而战，运用曾使他成为前世的队长所拥有的技能。",
+    "translation": "因为得了怪病，%name%被人活埋。解剖学家对他产生了兴趣，救了他，让他恢复了健康。他的本事不小，当上了卫兵队长，现在他用那些本领为你而战。",
     "stage": 1,
     "context": "_event.m.MilitiaCaptain.getBackground().m.RawDescription = 'You found %name% being buried alive for carrying some unknown blight. The anatomists took interest in him and rescued him, nursing him back to health. Now, he fights for you, putting to use the skills that made him captain of the guard in a previous life.'"
   },

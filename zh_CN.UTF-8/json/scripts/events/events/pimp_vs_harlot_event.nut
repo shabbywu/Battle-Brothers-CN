@@ -179,7 +179,7 @@
     "ID": 293416562,
     "key": ", you found %name% quarreling with his only harlot. ",
     "original": ", you found %name% quarreling with his only harlot. ",
-    "translation": "，你发现 %name% 正在和他唯一的妓女争吵。",
+    "translation": "期间，你发现 %name% 正在和他唯一的妓女争吵。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = 'While visiting ' + _event.m.Town.getName() + ', you found %name% quarreling with his only harlot. ' + _event.m.Monk.getName() + \" persuaded him to join the company and you agreed to take him along. Hopefully, he's better fighting in the shield wall than he is wrangling whores.\""
   },
@@ -195,7 +195,7 @@
     "ID": 293416564,
     "key": "While visiting ",
     "original": "While visiting ",
-    "translation": "访问期间 (While visiting)",
+    "translation": "在你访问",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = 'While visiting ' + _event.m.Town.getName() + ', you found %name% quarreling with his only harlot. ' + _event.m.Monk.getName() + \" persuaded him to join the company and you agreed to take him along. Hopefully, he's better fighting in the shield wall than he is wrangling whores.\""
   },

@@ -99,7 +99,7 @@
     "ID": 293408680,
     "key": " will fight your champion!",
     "original": " will fight your champion!",
-    "translation": "将派出我们的冠军与你战斗！",
+    "translation": "会打败你们的冠军！",
     "stage": 1,
     "context": "Text = roster[i].getName() + ' will fight your champion!'"
   },

@@ -27,7 +27,7 @@
     "ID": 293420806,
     "key": "%name% retired from the company and bought the deed to an abandoned castle. There he commands a troop of fellow beast slayers who journey the land protecting it from monsters. Last you spoke to him he had a raven-haired lady friend who did not take kindly",
     "original": "%name% retired from the company and bought the deed to an abandoned castle. There he commands a troop of fellow beast slayers who journey the land protecting it from monsters. Last you spoke to him he had a raven-haired lady friend who did not take kindly to your presence, nor the presence of anyone else for that matter. You're sure he's happy.",
-    "translation": "%name%从战团退休，买了一座废弃城堡的地契。在那里，他指挥着一群野兽杀手，他们在这片土地上旅行，保护它免受怪物的侵害。上次你跟他说话，他的一位黑发女性朋友对你以及其他同行的出现都不太友好。你确定他很幸福。",
+    "translation": "%name%从战团退休，买下了一座废弃城堡。在那里，他带领着一群野兽杀手，穿行于大地，保护它免受怪物的侵害。上次你上门找他时，见到了他的一位黑发女性朋友，她不太欢迎你和同行们。他一定过得很幸福。",
     "stage": 1,
     "context": "this.m.GoodEnding = \"%name% retired from the company and bought the deed to an abandoned castle. There he commands a troop of fellow beast slayers who journey the land protecting it from monsters. Last you spoke to him he had a raven-haired lady friend who did not take kindly to your presence, nor the presence of anyone else for that matter. You're sure he's happy.\""
   },
