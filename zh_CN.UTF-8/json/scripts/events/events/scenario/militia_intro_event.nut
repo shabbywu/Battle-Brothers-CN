@@ -3,7 +3,7 @@
     "ID": 293416745,
     "key": "We are our own lords.",
     "original": "We are our own lords.",
-    "translation": "我们会是自己的领主。",
+    "translation": "我们当家作主了。",
     "stage": 1,
     "context": "Text = 'We are our own lords.'"
   },

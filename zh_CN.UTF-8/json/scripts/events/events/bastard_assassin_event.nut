@@ -35,7 +35,7 @@
     "ID": 293412651,
     "key": "An assassin tired of the killing life, %name% offered to join your company at a large price which you were quick to match. He is extremely skilled with a short-blade, twirling daggers around with more dexterity and control than some men have over their ow",
     "original": "An assassin tired of the killing life, %name% offered to join your company at a large price which you were quick to match. He is extremely skilled with a short-blade, twirling daggers around with more dexterity and control than some men have over their own fingers.",
-    "translation": "一个厌倦了杀戮生活的刺客，%name% 以你很快就能接受的高价提出加入了你的战团。 他非常熟练地使用短刃，旋转匕首，比某些人对自己手指的控制更灵巧。",
+    "translation": "%name%厌倦了杀戮，提出只要你给他一大笔钱，他就加入你的战团，你很快就答应了。 他尤其擅使短兵器，对匕首的操控灵巧而准确，胜过某些人操控手指。",
     "stage": 1,
     "context": "_event.m.Assassin.getBackground().m.RawDescription = 'An assassin tired of the killing life, %name% offered to join your company at a large price which you were quick to match. He is extremely skilled with a short-blade, twirling daggers around with more dexterity and control than some men have over their own fingers.'"
   },
