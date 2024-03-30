@@ -11,7 +11,7 @@
     "ID": 293414392,
     "key": " where he volunteered to be your squire. He probably had no idea what he was getting into back then.",
     "original": " where he volunteered to be your squire. He probably had no idea what he was getting into back then.",
-    "translation": "，在那里他自愿成为你的侍从。那时候他可能根本没有想过接下来会发生的事情。",
+    "translation": "，在那里他自愿成为你的侍从。那时候他可能根本没有想过接下来的事情。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = 'You met %name% in ' + _event.m.Town.getName() + ' where he volunteered to be your squire. He probably had no idea what he was getting into back then.'"
   },

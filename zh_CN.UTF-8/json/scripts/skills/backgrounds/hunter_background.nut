@@ -19,7 +19,7 @@
     "ID": 293421038,
     "key": "Hunters are used to expertly hunt animals with bow and arrow, and traverse the woods on their own.",
     "original": "Hunters are used to expertly hunt animals with bow and arrow, and traverse the woods on their own.",
-    "translation": "猎人们惯于独自一人穿越树林，凭借高超的射箭技巧猎杀动物。",
+    "translation": "猎人们惯于独自一人穿越树林，凭借高超的箭术猎杀动物。",
     "stage": 1,
     "context": "this.m.BackgroundDescription = 'Hunters are used to expertly hunt animals with bow and arrow, and traverse the woods on their own.'"
   },

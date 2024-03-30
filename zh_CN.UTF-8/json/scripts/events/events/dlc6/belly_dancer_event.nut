@@ -115,7 +115,7 @@
     "ID": 293414504,
     "key": ", masked by green silk and drawing crowds with rhythmic movements and impressively precise fruit slicing. The latter skill is a boon to any mercenary company, and so you didn't hesitate to recruit him.",
     "original": ", masked by green silk and drawing crowds with rhythmic movements and impressively precise fruit slicing. The latter skill is a boon to any mercenary company, and so you didn't hesitate to recruit him.",
-    "translation": "，他以绿色丝绸遮面，以有节奏的舞蹈和惊人精准的水果切割技巧吸引了大批人群。后一项技能对于任何雇佣军公司都是一大福利，因此你毫不犹豫地招募了他。",
+    "translation": "，他以绿色丝绸遮面，凭借有节奏的舞姿和极其精准的切水果表演吸引了大量人来围观。后一项技能在佣兵团大有用处，你毫不犹豫地雇佣了他。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = 'You found %name% in ' + _event.m.Town.getName() + \", masked by green silk and drawing crowds with rhythmic movements and impressively precise fruit slicing. The latter skill is a boon to any mercenary company, and so you didn't hesitate to recruit him.\""
   },
@@ -131,7 +131,7 @@
     "ID": 293414506,
     "key": "You found %name% in ",
     "original": "You found %name% in ",
-    "translation": "你找到 %name% 在",
+    "translation": "你遇到%name%，是在",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = 'You found %name% in ' + _event.m.Town.getName() + \", masked by green silk and drawing crowds with rhythmic movements and impressively precise fruit slicing. The latter skill is a boon to any mercenary company, and so you didn't hesitate to recruit him.\""
   },
