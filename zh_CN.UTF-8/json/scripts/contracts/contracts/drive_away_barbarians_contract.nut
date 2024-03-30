@@ -123,7 +123,7 @@
     "ID": 293408683,
     "key": " from barbarians out for revenge",
     "original": " from barbarians out for revenge",
-    "translation": "来自为复仇而来的野蛮人。",
+    "translation": "，打败前来复仇的野蛮人。",
     "stage": 1,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationCivilianContractFail * 2, 'You failed to save ' + this.Contract.m.Home.getName() + ' from barbarians out for revenge')"
   },
@@ -171,8 +171,8 @@
     "ID": 293408689,
     "key": "Drive off barbarians at ",
     "original": "Drive off barbarians at ",
-    "translation": "击退野蛮人于",
-    "stage": 2,
+    "translation": "把野蛮人逐出",
+    "stage": 5,
     "context": "'Drive off barbarians at ' + this.Flags.get('DestinationName') + ' %direction% of %origin%'"
   },
   {
@@ -252,7 +252,7 @@
     "key": "You saved ",
     "original": "You saved ",
     "translation": "你拯救了",
-    "stage": 2,
+    "stage": 5,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationCivilianContractSuccess, 'You saved ' + this.Contract.m.Home.getName() + ' from barbarian revenge')"
   },
   {
@@ -355,7 +355,7 @@
     "ID": 293408712,
     "key": " from barbarian revenge",
     "original": " from barbarian revenge",
-    "translation": "来自野蛮人的复仇",
+    "translation": "，阻止了野蛮人的复仇",
     "stage": 1,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationCivilianContractSuccess, 'You saved ' + this.Contract.m.Home.getName() + ' from barbarian revenge')"
   },

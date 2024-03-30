@@ -227,8 +227,8 @@
     "ID": 293408744,
     "key": "Drive off nomads at ",
     "original": "Drive off nomads at ",
-    "translation": "驱逐游牧民族于",
-    "stage": 1,
+    "translation": "把游牧民逐出",
+    "stage": 5,
     "context": "'Drive off nomads at ' + this.Flags.get('DestinationName') + ' %direction% of %origin%'"
   }
 ]

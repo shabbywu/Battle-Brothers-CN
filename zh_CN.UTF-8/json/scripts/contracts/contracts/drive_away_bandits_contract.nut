@@ -75,8 +75,8 @@
     "ID": 293408634,
     "key": "Drive off brigands at ",
     "original": "Drive off brigands at ",
-    "translation": "击退强盗于",
-    "stage": 2,
+    "translation": "把强盗逐出",
+    "stage": 5,
     "context": "'Drive off brigands at ' + this.Flags.get('DestinationName') + ' %direction% of %origin%'"
   },
   {
