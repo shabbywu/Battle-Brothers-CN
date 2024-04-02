@@ -3,7 +3,7 @@
     "ID": 293416540,
     "key": " persuaded him to join the company and you agreed to take him along. Hopefully, he's better fighting in the shield wall than he is wrangling whores.",
     "original": " persuaded him to join the company and you agreed to take him along. Hopefully, he's better fighting in the shield wall than he is wrangling whores.",
-    "translation": "说服他加入了战团，你同意带他一起走。希望他在盾墙里战斗比和妓女吵架更好。",
+    "translation": "说服他加入了战团，你同意带他一起走。希望他在盾墙里战斗的本领高过和妓女吵架的。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = 'While visiting ' + _event.m.Town.getName() + ', you found %name% quarreling with his only harlot. ' + _event.m.Monk.getName() + \" persuaded him to join the company and you agreed to take him along. Hopefully, he's better fighting in the shield wall than he is wrangling whores.\""
   },

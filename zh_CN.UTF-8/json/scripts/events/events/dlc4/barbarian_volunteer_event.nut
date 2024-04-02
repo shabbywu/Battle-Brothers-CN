@@ -35,7 +35,7 @@
     "ID": 293414141,
     "key": "%name% joined you after being exiled from his tribe in the north for refusing to kill his brother. He'll fight for you as well as for anyone.",
     "original": "%name% joined you after being exiled from his tribe in the north for refusing to kill his brother. He'll fight for you as well as for anyone.",
-    "translation": "%name% 加入了你，他从北方的部落中被驱逐出来，因为拒绝杀死他的兄弟。 他会为你和任何人战斗。",
+    "translation": "%name%因为不愿杀死自己的兄弟而被逐出了北方的部落，在此之后他加入了你。他会为你，也会为任何人而战。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = \"%name% joined you after being exiled from his tribe in the north for refusing to kill his brother. He'll fight for you as well as for anyone.\""
   }

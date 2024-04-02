@@ -3,7 +3,7 @@
     "ID": 293414663,
     "key": "A string of bad fortune led the former arms-peddler %name% to attempt to end his life by blowing himself up, but ",
     "original": "A string of bad fortune led the former arms-peddler %name% to attempt to end his life by blowing himself up, but ",
-    "translation": "一连串的不幸事件导致前军火贩子%name%试图以炸毁自己的方式结束生命，但是",
+    "translation": "倒霉事接二连三，前军火贩子%name%试图炸死自己，一了百了，幸亏",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = 'A string of bad fortune led the former arms-peddler %name% to attempt to end his life by blowing himself up, but ' + _event.m.Monk.getName() + ' intervened and convinced him to join your company instead to make a new life for himself.'"
   },
@@ -123,7 +123,7 @@
     "ID": 293414678,
     "key": " intervened and convinced him to join your company instead to make a new life for himself.",
     "original": " intervened and convinced him to join your company instead to make a new life for himself.",
-    "translation": "干预并说服他加入你的战团，为自己开始新的生活。",
+    "translation": "上前干预，说服他放弃投胎，加入了你的战团。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = 'A string of bad fortune led the former arms-peddler %name% to attempt to end his life by blowing himself up, but ' + _event.m.Monk.getName() + ' intervened and convinced him to join your company instead to make a new life for himself.'"
   },

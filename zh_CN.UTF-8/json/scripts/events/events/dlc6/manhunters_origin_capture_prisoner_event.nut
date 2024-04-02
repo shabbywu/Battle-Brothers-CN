@@ -19,7 +19,7 @@
     "ID": 293414786,
     "key": "%name% was taken as an indebted after barely surviving a battle against your men. His spirit was broken and he was forced to fight for you, so that he may pay his debt to the Gilder.",
     "original": "%name% was taken as an indebted after barely surviving a battle against your men. His spirit was broken and he was forced to fight for you, so that he may pay his debt to the Gilder.",
-    "translation": "%name% 在和你的人的战斗中勉强幸存下来后成为了负债者。 他的精神崩溃了，他被迫为你而战，这样做他就可以偿还镀金者的债务了。",
+    "translation": "在和你的人的战斗中，%name%勉强幸存了下来，成为了负债者。他的精神崩溃，被迫为你而战，以此偿还欠镀金者的债务。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = '%name% was taken as an indebted after barely surviving a battle against your men. His spirit was broken and he was forced to fight for you, so that he may pay his debt to the Gilder.'"
   },
@@ -27,7 +27,7 @@
     "ID": 293414787,
     "key": "Formerly a soldier loyal to noble lords, his company was slaughtered by your men and %name% was taken as an indebted. It didn't take much to break his spirit and force him to fight for you.",
     "original": "Formerly a soldier loyal to noble lords, his company was slaughtered by your men and %name% was taken as an indebted. It didn't take much to break his spirit and force him to fight for you.",
-    "translation": "以前是一个忠于贵族的士兵，他的战团被你们的人屠杀了，而 %name% 成为了负债者。 没花多少时间他就精神崩溃了，强迫他为你而战。",
+    "translation": "随着他的战团被屠杀殆尽，忠于贵族的士兵%name%成为了负债者。不久他就精神崩溃，被迫为你而战。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = \"Formerly a soldier loyal to noble lords, his company was slaughtered by your men and %name% was taken as an indebted. It didn't take much to break his spirit and force him to fight for you.\""
   },

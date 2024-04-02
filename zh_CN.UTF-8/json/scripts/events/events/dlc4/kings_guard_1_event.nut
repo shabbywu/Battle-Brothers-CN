@@ -19,7 +19,7 @@
     "ID": 293414332,
     "key": "You found %name% frozen half to death in the north. He claims he was a King's Guard once, but looking at him now you see but a cripple.",
     "original": "You found %name% frozen half to death in the north. He claims he was a King's Guard once, but looking at him now you see but a cripple.",
-    "translation": "他发现 %name% 在北方冻得半死。 他声称他曾经是国王的护卫，但现在你看到他只是一个瘸子。",
+    "translation": "你在北方发现了冻得半死的%name%。 他声称他曾是国王的护卫，但现在看来，他只是个瘸子。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = \"You found %name% frozen half to death in the north. He claims he was a King's Guard once, but looking at him now you see but a cripple.\""
   },

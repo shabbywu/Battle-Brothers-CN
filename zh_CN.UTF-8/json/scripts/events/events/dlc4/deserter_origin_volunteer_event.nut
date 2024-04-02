@@ -19,7 +19,7 @@
     "ID": 293414245,
     "key": "%name% deserted an army regiment together with ",
     "original": "%name% deserted an army regiment together with ",
-    "translation": "%name% 和一个军团一起背叛了该团",
+    "translation": "%name%伙同",
     "stage": 1,
     "context": "_event.m.Dude2.getBackground().m.RawDescription = '%name% deserted an army regiment together with ' + _event.m.Dude1.getNameOnly() + ' before he volunteered to join your company.'"
   },
@@ -59,7 +59,7 @@
     "ID": 293414250,
     "key": " before he volunteered to join your company.",
     "original": " before he volunteered to join your company.",
-    "translation": "在他志愿加入你的战团之前。",
+    "translation": "一起，逃离了军团，自愿加入了你的战团。",
     "stage": 1,
     "context": "_event.m.Dude2.getBackground().m.RawDescription = '%name% deserted an army regiment together with ' + _event.m.Dude1.getNameOnly() + ' before he volunteered to join your company.'"
   },
@@ -99,7 +99,7 @@
     "ID": 293414255,
     "key": "Running from bounty hunters and executioners from some time, %name% bumped into your company on the road and promptly volunteered.",
     "original": "Running from bounty hunters and executioners from some time, %name% bumped into your company on the road and promptly volunteered.",
-    "translation": "一段时间以来，为了躲避赏金猎人和行刑者，%name% 在路上撞到了你的战团，并立即自愿加入。",
+    "translation": "在摆脱赏金猎人和刽子手的追捕的路上，%name%撞到了你的战团，他立刻就提出要加入。",
     "stage": 1,
     "context": "_event.m.Dude1.getBackground().m.RawDescription = 'Running from bounty hunters and executioners from some time, %name% bumped into your company on the road and promptly volunteered.'"
   },

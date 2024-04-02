@@ -43,7 +43,7 @@
     "ID": 293414529,
     "key": "You found %name%, a former crusader from the north, crucified in the middle of the desert after turning his back to the old gods. After cutting him down, he pledged his services to you. Despite his attempts to conceal it, he doesn't seem to be in the most",
     "original": "You found %name%, a former crusader from the north, crucified in the middle of the desert after turning his back to the old gods. After cutting him down, he pledged his services to you. Despite his attempts to conceal it, he doesn't seem to be in the most stable mental condition.",
-    "translation": "你发现 %name%，一个来自北方的前十字军战士，背弃旧神，在沙漠中被钉在十字架上。 放他下来之后，他保证会为你效劳。 尽管他试图隐瞒，但他的精神状态似乎并不稳定。",
+    "translation": "%name%来自北方，曾是一名的十字军战士，因背弃了旧神而被钉在了十字架上，就在这时你发现了他。放他下来之后，他保证会为你效劳。 尽管他试图隐瞒，你还是看得出，他的精神状态不太稳定。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = \"You found %name%, a former crusader from the north, crucified in the middle of the desert after turning his back to the old gods. After cutting him down, he pledged his services to you. Despite his attempts to conceal it, he doesn't seem to be in the most stable mental condition.\""
   },

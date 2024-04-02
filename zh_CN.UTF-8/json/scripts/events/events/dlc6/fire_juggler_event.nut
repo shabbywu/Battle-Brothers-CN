@@ -11,7 +11,7 @@
     "ID": 293414702,
     "key": "You found %name% on the streets of ",
     "original": "You found %name% on the streets of ",
-    "translation": "你在街头发现了%name%",
+    "translation": "你发现%name%时，他正在",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = 'You found %name% on the streets of ' + _event.m.Town.getName() + ', ready to put on fiery display of record-breaking fire juggling that could have well cost him his life. Luckily, ' + _event.m.Juggler.getName() + ' jumped in to perform the act with him, possibly saving his life. Afterwards, %name% finally had enough of his trade and volunteered to join your company.'"
   },
@@ -35,7 +35,7 @@
     "ID": 293414705,
     "key": ", ready to put on fiery display of record-breaking fire juggling that could have well cost him his life. Luckily, ",
     "original": ", ready to put on fiery display of record-breaking fire juggling that could have well cost him his life. Luckily, ",
-    "translation": "，准备进行一场激烈的火焰杂耍表演，打破纪录，甚至可能冒着失去生命的风险。幸运的是，",
+    "translation": "的街头，准备冒着生命危险，进行一场破纪录的火焰杂耍表演。幸运的是，",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = 'You found %name% on the streets of ' + _event.m.Town.getName() + ', ready to put on fiery display of record-breaking fire juggling that could have well cost him his life. Luckily, ' + _event.m.Juggler.getName() + ' jumped in to perform the act with him, possibly saving his life. Afterwards, %name% finally had enough of his trade and volunteered to join your company.'"
   },
@@ -147,7 +147,7 @@
     "ID": 293414719,
     "key": " jumped in to perform the act with him, possibly saving his life. Afterwards, %name% finally had enough of his trade and volunteered to join your company.",
     "original": " jumped in to perform the act with him, possibly saving his life. Afterwards, %name% finally had enough of his trade and volunteered to join your company.",
-    "translation": "之后，队长跳进去和他一起完成任务，可能救了他的命。后来，%name%终于厌倦了这种生活，主动加入了你的战团。",
+    "translation": "跳上了台，加入了表演，说不定救了他的命。事后，%name%受够了这种生活，主动加入了你的战团。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = 'You found %name% on the streets of ' + _event.m.Town.getName() + ', ready to put on fiery display of record-breaking fire juggling that could have well cost him his life. Luckily, ' + _event.m.Juggler.getName() + ' jumped in to perform the act with him, possibly saving his life. Afterwards, %name% finally had enough of his trade and volunteered to join your company.'"
   },

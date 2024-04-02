@@ -19,7 +19,7 @@
     "ID": 293416301,
     "key": "An impatient student of a fencing and swordmaster, %name% didn't have the mental aptitude to stick with the trials and tribulations of becoming a master of the blade himself. But what he lacks in mental fortitude he more than makes up for in effort. You '",
     "original": "An impatient student of a fencing and swordmaster, %name% didn't have the mental aptitude to stick with the trials and tribulations of becoming a master of the blade himself. But what he lacks in mental fortitude he more than makes up for in effort. You 'hired' him simply by taking him off the old man's hands.",
-    "translation": "作为一个剑术大师的不耐烦的学生，%name% 没有天赋坚持成为锋刃大师的磨难和痛苦。 但他在精神上缺乏的勇气在用努力来弥补。 你只是简单地把他从老人的手中夺走，就“雇佣”了他。",
+    "translation": "%name%师从一位剑术大师，是个不耐烦的学生，精神毅力不足以面对大师之路上的考验和磨练。但他付出的筋骨之劳远远足以补心志之苦。你和他的“雇佣关系”更像是你从那老人手上接过了他。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = \"An impatient student of a fencing and swordmaster, %name% didn't have the mental aptitude to stick with the trials and tribulations of becoming a master of the blade himself. But what he lacks in mental fortitude he more than makes up for in effort. You 'hired' him simply by taking him off the old man's hands.\""
   },

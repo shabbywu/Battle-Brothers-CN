@@ -2443,7 +2443,7 @@
     "ID": 293423258,
     "key": "]You have no more crowns to pay your men with! Earn some crowns fast or let some people go before they desert you one by one.[/color]",
     "original": "]You have no more crowns to pay your men with! Earn some crowns fast or let some people go before they desert you one by one.[/color]",
-    "translation": "]你没有更多的克朗来支付给你的人！ 快赚些克朗，或者让一些人在他们一个一个地抛弃你之前让他离开。[/color]",
+    "translation": "]你没有足够的克朗付给你的人了！ 要么赶快赚钱，要么在他们一个个抛弃你之前开掉一些。[/color]",
     "stage": 1,
     "context": "text = 'The amount of coin your mercenary company has. Used to pay every man daily, as well as to hire new men and purchase equipment.\n\nYou pay out [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyMoney + '[/color] crowns per day.\n\n[color=' + this.Const.UI.Color.NegativeValue + ']You have no more crowns to pay your men with! Earn some crowns fast or let some people go before they desert you one by one.[/color]'"
   },

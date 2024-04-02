@@ -67,7 +67,7 @@
     "ID": 293414348,
     "key": "You found %name% frozen half to death in the north. With your help, the former King's Guard regained his strength and now fights for you.",
     "original": "You found %name% frozen half to death in the north. With your help, the former King's Guard regained his strength and now fights for you.",
-    "translation": "他发现 %name% 在北方冻得半死。 在你的帮助下，前国王的护卫恢复了力量，现在为你而战。",
+    "translation": "你在北方发现了冻得半死的%name%。在你的帮助下，前国王护卫恢复了力量，为你而战。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = \"You found %name% frozen half to death in the north. With your help, the former King's Guard regained his strength and now fights for you.\""
   },
