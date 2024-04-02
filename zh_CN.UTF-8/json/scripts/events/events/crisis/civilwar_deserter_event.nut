@@ -19,7 +19,7 @@
     "ID": 293413080,
     "key": "Once a soldier of a noble army, %name% was almost hanged for refusing orders, until rescued by you and the %companyname%.",
     "original": "Once a soldier of a noble army, %name% was almost hanged for refusing orders, until rescued by you and the %companyname%.",
-    "translation": "曾经是一支贵族军队的士兵，%name% 的人几乎因为拒绝命令而被绞死，直到被营救到你的 %companyname%。",
+    "translation": "%name%曾是贵族军队里的一名士兵，他违抗了命令，险些被绞死，直到你和%companyname%救下了他。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = 'Once a soldier of a noble army, %name% was almost hanged for refusing orders, until rescued by you and the %companyname%.'"
   },

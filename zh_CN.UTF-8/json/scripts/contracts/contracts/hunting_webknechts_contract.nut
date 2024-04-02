@@ -147,7 +147,7 @@
     "ID": 293409290,
     "key": "You found %name% dangling from a tree, the sellsword the last survivor of a mercenary band sent to kill webknechts. He joined the company after you rescued him.",
     "original": "You found %name% dangling from a tree, the sellsword the last survivor of a mercenary band sent to kill webknechts. He joined the company after you rescued him.",
-    "translation": "你发现 %name% 挂在一棵树上，这个佣兵是一个被派去杀蜘蛛的雇佣兵团的最后幸存者。 你救了他之后，他加入了战团。",
+    "translation": "你在树上发现了挂着的%name%，他是一名佣兵，他所在的佣兵团被派去对付蛛魔，只有他活了下来。你救了他，他就加入了你的战团。",
     "stage": 1,
     "context": "this.Contract.m.Dude.getBackground().m.RawDescription = 'You found %name% dangling from a tree, the sellsword the last survivor of a mercenary band sent to kill webknechts. He joined the company after you rescued him.'"
   },

@@ -155,7 +155,7 @@
     "ID": 293417029,
     "key": "You found %name% being whipped for 'involving' himself with a dead horse. Hopefully that past is, er, behind him now.",
     "original": "You found %name% being whipped for 'involving' himself with a dead horse. Hopefully that past is, er, behind him now.",
-    "translation": "你发现 %name% 因为“涉及”一匹死马而被鞭打。 希望过去，呃，现在已经过去了。",
+    "translation": "你发现%name%时，他正因“投身”一匹死马而被鞭打。希望这件旧事，呃，已经过去了对吧。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = \"You found %name% being whipped for 'involving' himself with a dead horse. Hopefully that past is, er, behind him now.\""
   },

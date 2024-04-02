@@ -67,7 +67,7 @@
     "ID": 293415445,
     "key": "{%name% is a supposedly famous monster hunter with a particular talent for slaying lindwurms. He says he is the son of Dirk the Dragonslayer, the monster hunter who ostensibly slew the last living dragon.}",
     "original": "{%name% is a supposedly famous monster hunter with a particular talent for slaying lindwurms. He says he is the son of Dirk the Dragonslayer, the monster hunter who ostensibly slew the last living dragon.}",
-    "translation": "{据说%name%是一位有名的怪物猎人，擅长杀死林德蠕龙。他说，屠龙者迪尔克杀死了最后一条龙，而他是他的儿子。}",
+    "translation": "{据说%name%是一位有名的怪物猎人，擅长杀死林德蠕龙。他说，屠龙者长匕迪尔克杀死了最后一条龙，而他是他的儿子。}",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = '{%name% is a supposedly famous monster hunter with a particular talent for slaying lindwurms. He says he is the son of Dirk the Dragonslayer, the monster hunter who ostensibly slew the last living dragon.}'"
   },

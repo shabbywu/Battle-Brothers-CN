@@ -51,7 +51,7 @@
     "ID": 293416086,
     "key": "%name% was 'saved' by you during a confrontation with an animal tamer-turned-enslaver. A sense of gratitude and debt overcomes any language barriers: the once imprisoned wildman serves the company loyally for rescuing him.",
     "original": "%name% was 'saved' by you during a confrontation with an animal tamer-turned-enslaver. A sense of gratitude and debt overcomes any language barriers: the once imprisoned wildman serves the company loyally for rescuing him.",
-    "translation": "%name% 是在一次与驯兽者变成奴役者的对抗中被你“拯救”的。 一种感激和人情债的感觉克服了任何语言障碍：这个曾经被囚禁的野人为战团服务，忠诚于帮助他的人。",
+    "translation": "在你和驯兽师，或者说奴隶主的斗争中，%name%被你“救”了出来。知恩图报之情突破了语言的障碍：曾经被奴役的野人现在为战团服务，忠于解救了他的人。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = \"%name% was 'saved' by you during a confrontation with an animal tamer-turned-enslaver. A sense of gratitude and debt overcomes any language barriers: the once imprisoned wildman serves the company loyally for rescuing him.\""
   },

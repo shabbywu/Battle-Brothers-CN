@@ -83,7 +83,7 @@
     "ID": 293416314,
     "key": "%name% is just a regular melon thief - is what you tell people who ask.",
     "original": "%name% is just a regular melon thief - is what you tell people who ask.",
-    "translation": "%name% 只不过是一个普通的偷瓜贼－你就是这么告诉别人的。",
+    "translation": "%name%只不过是个普通的偷瓜贼 —— 别人问起来你总是这么说。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = '%name% is just a regular melon thief - is what you tell people who ask.'"
   },

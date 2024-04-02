@@ -59,7 +59,7 @@
     "ID": 293414816,
     "key": "%name% was working the seas as a sailor when pirates of the city states boarded his vessel and took him as captives along with his crew. By some happenstance, he made his way into your care to work off his debt to the Gilder.",
     "original": "%name% was working the seas as a sailor when pirates of the city states boarded his vessel and took him as captives along with his crew. By some happenstance, he made his way into your care to work off his debt to the Gilder.",
-    "translation": "%name% 在海上当水手时，城邦的海盗登上了他的船，把他和他的船员一起抓作俘虏。 由于一些偶然事件，他进入你的势力中来还清他欠镀金者的债。",
+    "translation": "%name%曾是海上的水手，城邦的海盗登上了他的船，把他和他的船员一起抓作俘虏。由于一些偶然事件，他进入了你的队伍，并在此偿还欠镀金者的债。",
     "stage": 1,
     "context": "_event.m.Fisherman.getBackground().m.RawDescription = '%name% was working the seas as a sailor when pirates of the city states boarded his vessel and took him as captives along with his crew. By some happenstance, he made his way into your care to work off his debt to the Gilder.'"
   },
@@ -75,7 +75,7 @@
     "ID": 293414818,
     "key": "Got saved from a life in slavery by ",
     "original": "Got saved from a life in slavery by ",
-    "translation": "从奴隶的生活中获救被 ",
+    "translation": "被救出了奴隶生活，多亏了",
     "stage": 1,
     "context": "_event.m.Dude.improveMood(0.5, 'Got saved from a life in slavery by ' + _event.m.Fisherman.getName())"
   },
@@ -123,7 +123,7 @@
     "ID": 293414824,
     "key": "You rescued %name% from a life in slavery after he was taken by pirates operating out of the city states.",
     "original": "You rescued %name% from a life in slavery after he was taken by pirates operating out of the city states.",
-    "translation": "在 %name% 被在城邦外活动的海盗劫持后，你把他从奴隶生活中解救了出来。",
+    "translation": "城邦周围活动的海盗劫持了%name%，你把他从奴隶生活中救了出来。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = 'You rescued %name% from a life in slavery after he was taken by pirates operating out of the city states.'"
   },

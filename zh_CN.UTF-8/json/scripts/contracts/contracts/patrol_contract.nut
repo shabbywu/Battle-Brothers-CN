@@ -211,7 +211,7 @@
     "ID": 293409558,
     "key": "You pulled the crucified %name% down off the means to his execution just in time. He has pledged allegiance to your side until the end of his days or the last of your victories.",
     "original": "You pulled the crucified %name% down off the means to his execution just in time. He has pledged allegiance to your side until the end of his days or the last of your victories.",
-    "translation": "你把被钉在十字架上的 %name% 从行刑中拉了下来 他发誓效忠你，直到他生命的终结或你最后的胜利。",
+    "translation": "你及时把十字架上的%name%拉了下来。他发誓效忠于你，直到他的生命到达尽头，或是你取得最终的胜利。",
     "stage": 1,
     "context": "this.Contract.m.Dude.getBackground().m.RawDescription = 'You pulled the crucified %name% down off the means to his execution just in time. He has pledged allegiance to your side until the end of his days or the last of your victories.'"
   },

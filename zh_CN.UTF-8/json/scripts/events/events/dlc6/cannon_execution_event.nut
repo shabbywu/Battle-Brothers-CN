@@ -3,7 +3,7 @@
     "ID": 293414510,
     "key": "Only by your timely intervention was %name% saved from execution by being shot at with a giant mortar. An eccentric thief, his latest failed attempt to burglarize a Vizier's palace was deemed a good reason to set a very clear deterrent for anyone else har",
     "original": "Only by your timely intervention was %name% saved from execution by being shot at with a giant mortar. An eccentric thief, his latest failed attempt to burglarize a Vizier's palace was deemed a good reason to set a very clear deterrent for anyone else harboring similar plans.",
-    "translation": "你恰到好处的干预，从 %name% 被巨大的臼炮射出去的命运中救下了他。 一个古怪的小偷，他最近一次在维齐尔宫殿里企图行窃的失败让他成了一个非常适合用来杀鸡儆猴的选项。",
+    "translation": "%name%险些被从巨大的巨炮中射出，你及时介入救下了他。 他是个胆敢在维齐尔的宫殿里行窃的古怪小偷，因此被用来杀鸡儆猴。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = \"Only by your timely intervention was %name% saved from execution by being shot at with a giant mortar. An eccentric thief, his latest failed attempt to burglarize a Vizier's palace was deemed a good reason to set a very clear deterrent for anyone else harboring similar plans.\""
   },

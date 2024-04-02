@@ -59,7 +59,7 @@
     "ID": 293416714,
     "key": "You found this man as a sacrifice, but he arose from his fate to be a servant of Davkul. He asked to fight for you, and you, for some reason, actually agreed.",
     "original": "You found this man as a sacrifice, but he arose from his fate to be a servant of Davkul. He asked to fight for you, and you, for some reason, actually agreed.",
-    "translation": "你发现这个作为祭品的人，但他却在命运的安排下复活了，成了达库尔的仆人。 他要求为你而战，而你，出于某种原因，实际上同意了。",
+    "translation": "这人被当作祭品献祭，却在命运的安排下复活了，成了达库尔的仆人。他提出为你而战，而你竟然真的同意了。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = 'You found this man as a sacrifice, but he arose from his fate to be a servant of Davkul. He asked to fight for you, and you, for some reason, actually agreed.'"
   },

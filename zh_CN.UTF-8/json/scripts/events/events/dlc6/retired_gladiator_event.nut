@@ -155,7 +155,7 @@
     "ID": 293414861,
     "key": "%name%, also known as Wolf of Arena Alley, is a retired gladiator, but an active sellsword. He's been earning crowns by killing for a long time, and it shows both in his experience and his age.",
     "original": "%name%, also known as Wolf of Arena Alley, is a retired gladiator, but an active sellsword. He's been earning crowns by killing for a long time, and it shows both in his experience and his age.",
-    "translation": "%name%，也被称为竞技场之狼，是个退休的角斗士，但一个积极的佣兵。 他靠杀人获得克朗已经有很长一段时间了，这在他的经验和年龄上都有所体现。",
+    "translation": "%name%，著名的竞技场之狼，退出了角斗士生涯，作为佣兵继续活跃着。 他靠杀人还钱很久了，这在他的经验和年龄上都有所体现。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = \"%name%, also known as Wolf of Arena Alley, is a retired gladiator, but an active sellsword. He's been earning crowns by killing for a long time, and it shows both in his experience and his age.\""
   },

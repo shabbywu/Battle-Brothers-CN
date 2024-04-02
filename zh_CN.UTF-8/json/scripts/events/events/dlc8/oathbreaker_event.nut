@@ -51,7 +51,7 @@
     "ID": 293415496,
     "key": "Like many men, %name% was found in squalor. Ale on his lips, grime in his ears, piss and shit at least somewhere on his person. But he was an Oathtaker at heart, and by the providence of Young Anselm it was certainly no ordinary circumstance which brought",
     "original": "Like many men, %name% was found in squalor. Ale on his lips, grime in his ears, piss and shit at least somewhere on his person. But he was an Oathtaker at heart, and by the providence of Young Anselm it was certainly no ordinary circumstance which brought him back into the faith. Of course, he'll still yet pair beer with belief, but now and again one must allow a man his vices, particularly if said man shares an interest in slaying Oathbringers.",
-    "translation": "像许多人一样，%name% 在肮脏的环境中被找到。他嘴里含着麦酒，耳朵里充满污垢，身上至少有一些尿和屎的痕迹。但他的内心是一个信誓旦旦的守誓者，而且在年轻的安瑟姆的恩典下，肯定是一个非同寻常的情况将他带回信仰中。当然，他仍然会将啤酒和信仰联系在一起，但偶尔必须允许一个人有他的恶习，尤其是如果这个人对杀死队长充满兴趣。",
+    "translation": "和大多数人类似，%name%所在的地方可谓一片狼藉。他嘴边挂着麦酒，耳里充满污垢，身上多少还有点屎尿。但他心里仍然是个守誓者，能在小安瑟姆的恩典下重回信仰，这绝非寻常。当然，他仍然会将啤酒和信仰联系在一起，但现在情况特殊，个人的恶习可以被原谅，特别是愿意杀死执誓者的人。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = \"Like many men, %name% was found in squalor. Ale on his lips, grime in his ears, piss and shit at least somewhere on his person. But he was an Oathtaker at heart, and by the providence of Young Anselm it was certainly no ordinary circumstance which brought him back into the faith. Of course, he'll still yet pair beer with belief, but now and again one must allow a man his vices, particularly if said man shares an interest in slaying Oathbringers.\""
   },
