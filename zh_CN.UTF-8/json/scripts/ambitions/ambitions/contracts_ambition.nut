@@ -27,8 +27,8 @@
     "ID": 293403327,
     "key": "Complete 8 more contracts of any kind to prove yourselves reliable beyond doubt.",
     "original": "Complete 8 more contracts of any kind to prove yourselves reliable beyond doubt.",
-    "translation": "再完成8份任何形式的合同，以证明自己毫无疑问是可靠的。",
-    "stage": 5,
+    "translation": "完成8份任何形式的合同，证明自己的可靠毋庸置疑。",
+    "stage": 1,
     "context": "this.m.TooltipText = 'Complete 8 more contracts of any kind to prove yourselves reliable beyond doubt.'"
   },
   {
