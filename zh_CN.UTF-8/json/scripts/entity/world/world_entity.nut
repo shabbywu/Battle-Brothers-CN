@@ -35,7 +35,7 @@
     "ID": 293412495,
     "key": "Slightly Weaker",
     "original": "Slightly Weaker",
-    "translation": "稍微弱一点",
+    "translation": "稍弱",
     "stage": 1,
     "context": "return 'Slightly Weaker';"
   },
@@ -91,7 +91,7 @@
     "ID": 293412502,
     "key": "Even",
     "original": "Even",
-    "translation": "伊文",
+    "translation": "势均力敌",
     "stage": 1,
     "context": "return 'Even';"
   },

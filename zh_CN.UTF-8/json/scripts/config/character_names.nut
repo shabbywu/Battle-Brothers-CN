@@ -67,7 +67,7 @@
     "ID": 293403786,
     "key": "Sigbaal",
     "original": "Sigbaal",
-    "translation": "西格巴勒",
+    "translation": "西格巴尔",
     "stage": 1,
     "context": "'Sigbaal'"
   },
@@ -115,7 +115,7 @@
     "ID": 293403792,
     "key": "Brokk Mad Eyes",
     "original": "Brokk Mad Eyes",
-    "translation": "疯狂的眼睛",
+    "translation": "布罗喀·疯眼",
     "stage": 1,
     "context": "'Brokk Mad Eyes'"
   },
@@ -179,7 +179,7 @@
     "ID": 293403800,
     "key": "Hadebrand",
     "original": "Hadebrand",
-    "translation": "哈代布兰",
+    "translation": "哈德布兰德",
     "stage": 1,
     "context": "'Hadebrand'"
   },
@@ -259,7 +259,7 @@
     "ID": 293403810,
     "key": "%randomname% the Pious",
     "original": "%randomname% the Pious",
-    "translation": "%randomname% 虔诚的",
+    "translation": "虔诚者%randomname%",
     "stage": 1,
     "context": "'%randomname% the Pious'"
   },
@@ -275,15 +275,15 @@
     "ID": 293403812,
     "key": "the Insidious",
     "original": "the Insidious",
-    "translation": "潜伏者(the Insidious)",
-    "stage": 5,
+    "translation": "·阴毒",
+    "stage": 1,
     "context": "'the Insidious'"
   },
   {
     "ID": 293403813,
     "key": "the Golden Vulture",
     "original": "the Golden Vulture",
-    "translation": "金秃鹫",
+    "translation": "·金秃鹫",
     "stage": 1,
     "context": "'the Golden Vulture'"
   },
@@ -291,8 +291,8 @@
     "ID": 293403814,
     "key": "the Odd",
     "original": "the Odd",
-    "translation": "怪人(the Odd)",
-    "stage": 5,
+    "translation": "·怪人",
+    "stage": 1,
     "context": "'the Odd'"
   },
   {
@@ -363,8 +363,8 @@
     "ID": 293403823,
     "key": "the Hyena",
     "original": "the Hyena",
-    "translation": "鬣狗(the Hyena)",
-    "stage": 5,
+    "translation": "·鬣狗",
+    "stage": 1,
     "context": "'the Hyena'"
   },
   {
@@ -403,7 +403,7 @@
     "ID": 293403828,
     "key": "the Cutter",
     "original": "the Cutter",
-    "translation": "切割器",
+    "translation": "·路匪",
     "stage": 1,
     "context": "'the Cutter'"
   },
@@ -443,7 +443,7 @@
     "ID": 293403833,
     "key": "Nomion",
     "original": "Nomion",
-    "translation": "提名",
+    "translation": "诺米恩",
     "stage": 1,
     "context": "'Nomion'"
   },
@@ -451,7 +451,7 @@
     "ID": 293403834,
     "key": "the Head-Taker",
     "original": "the Head-Taker",
-    "translation": "领头羊",
+    "translation": "·领头羊",
     "stage": 1,
     "context": "'the Head-Taker'"
   },
@@ -459,7 +459,7 @@
     "ID": 293403835,
     "key": "the Destroyer",
     "original": "the Destroyer",
-    "translation": "毁灭者",
+    "translation": "·毁灭者",
     "stage": 1,
     "context": "'the Destroyer'"
   },
@@ -475,7 +475,7 @@
     "ID": 293403837,
     "key": "%randomname% the Paladin",
     "original": "%randomname% the Paladin",
-    "translation": "%randomname% 圣骑士",
+    "translation": "圣骑士%randomname%",
     "stage": 1,
     "context": "'%randomname% the Paladin'"
   },
@@ -499,7 +499,7 @@
     "ID": 293403840,
     "key": "the Silver Mace",
     "original": "the Silver Mace",
-    "translation": "银棍",
+    "translation": "·银棍",
     "stage": 1,
     "context": "'the Silver Mace'"
   },
@@ -515,7 +515,7 @@
     "ID": 293403842,
     "key": "The Living Mirage",
     "original": "The Living Mirage",
-    "translation": "海市蜃楼生活者",
+    "translation": "活幻影",
     "stage": 1,
     "context": "'The Living Mirage'"
   },
@@ -531,7 +531,7 @@
     "ID": 293403844,
     "key": "the Tepid",
     "original": "the Tepid",
-    "translation": "温热",
+    "translation": "·温热",
     "stage": 1,
     "context": "'the Tepid'"
   },
@@ -547,7 +547,7 @@
     "ID": 293403846,
     "key": "the Ghost of the Sands",
     "original": "the Ghost of the Sands",
-    "translation": "沙之幽灵",
+    "translation": "·沙灵",
     "stage": 1,
     "context": "'the Ghost of the Sands'"
   },
@@ -587,8 +587,8 @@
     "ID": 293403851,
     "key": "The Raven",
     "original": "The Raven",
-    "translation": "乌鸦(The Raven)",
-    "stage": 5,
+    "translation": "乌鸦",
+    "stage": 1,
     "context": "'The Raven'"
   },
   {
@@ -611,7 +611,7 @@
     "ID": 293403854,
     "key": "%randomname% Bloodbeard",
     "original": "%randomname% Bloodbeard",
-    "translation": "%randomname%·血胡子",
+    "translation": "%randomname%·血髯",
     "stage": 1,
     "context": "'%randomname% Bloodbeard'"
   },
@@ -627,7 +627,7 @@
     "ID": 293403856,
     "key": "the Stabber",
     "original": "the Stabber",
-    "translation": "刺者",
+    "translation": "·戳刺者",
     "stage": 1,
     "context": "'the Stabber'"
   },
@@ -675,7 +675,7 @@
     "ID": 293403862,
     "key": "the Fast",
     "original": "the Fast",
-    "translation": "快速",
+    "translation": "·神速",
     "stage": 1,
     "context": "'the Fast'"
   },
@@ -747,7 +747,7 @@
     "ID": 293403871,
     "key": "The Scourge of %randomtown%",
     "original": "The Scourge of %randomtown%",
-    "translation": "%randomtown% 的天灾",
+    "translation": "%randomtown%的灾祸",
     "stage": 1,
     "context": "'The Scourge of %randomtown%'"
   },
@@ -755,7 +755,7 @@
     "ID": 293403872,
     "key": "the Elder",
     "original": "the Elder",
-    "translation": "长老",
+    "translation": "·长者",
     "stage": 1,
     "context": "'the Elder'"
   },
@@ -771,7 +771,7 @@
     "ID": 293403874,
     "key": "the Ravager",
     "original": "the Ravager",
-    "translation": "掠袭者",
+    "translation": "·掠袭者",
     "stage": 1,
     "context": "'the Ravager'"
   },
@@ -787,7 +787,7 @@
     "ID": 293403876,
     "key": "the Lion",
     "original": "the Lion",
-    "translation": "狮子",
+    "translation": "·雄狮",
     "stage": 1,
     "context": "'the Lion'"
   },
@@ -795,7 +795,7 @@
     "ID": 293403877,
     "key": "the Eagle",
     "original": "the Eagle",
-    "translation": "老鹰",
+    "translation": "·老鹰",
     "stage": 1,
     "context": "'the Eagle'"
   },
@@ -859,7 +859,7 @@
     "ID": 293403885,
     "key": "%randomname% the Obsessed",
     "original": "%randomname% the Obsessed",
-    "translation": "%randomname% 痴迷者",
+    "translation": "痴迷者%randomname%",
     "stage": 1,
     "context": "'%randomname% the Obsessed'"
   },
@@ -899,7 +899,7 @@
     "ID": 293403890,
     "key": "%randomname% the Righteous",
     "original": "%randomname% the Righteous",
-    "translation": "%randomname% 正义者",
+    "translation": "正义者%randomname%",
     "stage": 1,
     "context": "'%randomname% the Righteous'"
   },
@@ -939,7 +939,7 @@
     "ID": 293403895,
     "key": "the Everlasting",
     "original": "the Everlasting",
-    "translation": "永恒的",
+    "translation": "·永恒",
     "stage": 1,
     "context": "'the Everlasting'"
   },
@@ -1003,7 +1003,7 @@
     "ID": 293403903,
     "key": "Kha-Athlu the All-Ender",
     "original": "Kha-Athlu the All-Ender",
-    "translation": "卡阿斯鲁·毁灭者(Kha-Athlu the All-Ender)",
+    "translation": "卡阿斯鲁·毁灭者",
     "stage": 1,
     "context": "'Kha-Athlu the All-Ender'"
   },
@@ -1043,8 +1043,8 @@
     "ID": 293403908,
     "key": "the Hawk",
     "original": "the Hawk",
-    "translation": "鹰(the Hawk)",
-    "stage": 5,
+    "translation": "·鹰",
+    "stage": 1,
     "context": "'the Hawk'"
   },
   {
@@ -1115,7 +1115,7 @@
     "ID": 293403917,
     "key": "the Black",
     "original": "the Black",
-    "translation": "黑色的",
+    "translation": "·黑皮",
     "stage": 1,
     "context": "'the Black'"
   },
@@ -1179,8 +1179,8 @@
     "ID": 293403925,
     "key": "The Desert Raider",
     "original": "The Desert Raider",
-    "translation": "沙漠掠袭者(The Desert Raider)",
-    "stage": 5,
+    "translation": "沙漠掠袭者",
+    "stage": 1,
     "context": "'The Desert Raider'"
   },
   {
@@ -1243,7 +1243,7 @@
     "ID": 293403933,
     "key": "the Free Prince",
     "original": "the Free Prince",
-    "translation": "自由王子",
+    "translation": "·自由王子",
     "stage": 1,
     "context": "'the Free Prince'"
   },
@@ -1267,8 +1267,8 @@
     "ID": 293403936,
     "key": "the Dog",
     "original": "the Dog",
-    "translation": "狗(the Dog)",
-    "stage": 5,
+    "translation": "·狗",
+    "stage": 1,
     "context": "'the Dog'"
   },
   {
@@ -1323,7 +1323,7 @@
     "ID": 293403943,
     "key": "%randomsouthernname% the Blademaster",
     "original": "%randomsouthernname% the Blademaster",
-    "translation": "剑圣·%randomsouthernname%",
+    "translation": "剑圣%randomsouthernname%",
     "stage": 1,
     "context": "'%randomsouthernname% the Blademaster'"
   },
@@ -1339,7 +1339,7 @@
     "ID": 293403945,
     "key": "the Prince of Rot",
     "original": "the Prince of Rot",
-    "translation": "堕落王子",
+    "translation": "·堕落王子",
     "stage": 1,
     "context": "'the Prince of Rot'"
   },
@@ -1387,7 +1387,7 @@
     "ID": 293403951,
     "key": "%randomname% the Shooter",
     "original": "%randomname% the Shooter",
-    "translation": "%randomname% 射手",
+    "translation": "射手%randomname%",
     "stage": 1,
     "context": "'%randomname% the Shooter'"
   },
@@ -1403,7 +1403,7 @@
     "ID": 293403953,
     "key": "the Heartseeker",
     "original": "the Heartseeker",
-    "translation": "寻心者",
+    "translation": "·寻心者",
     "stage": 1,
     "context": "'the Heartseeker'"
   },
@@ -1427,7 +1427,7 @@
     "ID": 293403956,
     "key": "Naccorath the Eternal",
     "original": "Naccorath the Eternal",
-    "translation": "纳克拉斯·永恒者(Naccorath the Eternal)",
+    "translation": "纳克拉斯·永恒者",
     "stage": 1,
     "context": "'Naccorath the Eternal'"
   },
@@ -1459,7 +1459,7 @@
     "ID": 293403960,
     "key": "the Rotten",
     "original": "the Rotten",
-    "translation": "腐烂的人",
+    "translation": "·烂人",
     "stage": 1,
     "context": "'the Rotten'"
   },
@@ -1467,7 +1467,7 @@
     "ID": 293403961,
     "key": "the Unburied",
     "original": "the Unburied",
-    "translation": "尸魔",
+    "translation": "·槁葬",
     "stage": 1,
     "context": "'the Unburied'"
   },
@@ -1483,7 +1483,7 @@
     "ID": 293403963,
     "key": "the Stinger",
     "original": "the Stinger",
-    "translation": "毒刺",
+    "translation": "·毒刺",
     "stage": 1,
     "context": "'the Stinger'"
   },
@@ -1499,8 +1499,8 @@
     "ID": 293403965,
     "key": "the Raven",
     "original": "the Raven",
-    "translation": "乌鸦(the Raven)",
-    "stage": 5,
+    "translation": "·乌鸦",
+    "stage": 1,
     "context": "'the Raven'"
   },
   {
@@ -1571,7 +1571,7 @@
     "ID": 293403974,
     "key": "%randomname% the Poker",
     "original": "%randomname% the Poker",
-    "translation": "%randomname% 扑克",
+    "translation": "戳刺者%randomname%",
     "stage": 1,
     "context": "'%randomname% the Poker'"
   },
@@ -1603,7 +1603,7 @@
     "ID": 293403978,
     "key": "the Wolfclaw",
     "original": "the Wolfclaw",
-    "translation": "狼爪",
+    "translation": "·狼爪",
     "stage": 1,
     "context": "'the Wolfclaw'"
   },
@@ -1635,7 +1635,7 @@
     "ID": 293403982,
     "key": "the Soulless",
     "original": "the Soulless",
-    "translation": "没有灵魂的",
+    "translation": "·失魂",
     "stage": 1,
     "context": "'the Soulless'"
   },
@@ -1643,7 +1643,7 @@
     "ID": 293403983,
     "key": "%randomname% the Headhunter",
     "original": "%randomname% the Headhunter",
-    "translation": "%randomname% 猎头者",
+    "translation": "猎头者%randomname%",
     "stage": 1,
     "context": "'%randomname% the Headhunter'"
   },
@@ -1651,7 +1651,7 @@
     "ID": 293403984,
     "key": "%randomname% the Sniper",
     "original": "%randomname% the Sniper",
-    "translation": "%randomname% 狙击手",
+    "translation": "狙击手%randomname%",
     "stage": 1,
     "context": "'%randomname% the Sniper'"
   },
@@ -1691,7 +1691,7 @@
     "ID": 293403989,
     "key": "the Ancient",
     "original": "the Ancient",
-    "translation": "古代",
+    "translation": "·古人",
     "stage": 1,
     "context": "'the Ancient'"
   },
@@ -1699,7 +1699,7 @@
     "ID": 293403990,
     "key": "%randomname% the Bleak",
     "original": "%randomname% the Bleak",
-    "translation": "荒凉·%randomname%",
+    "translation": "%randomname%·凄荒",
     "stage": 1,
     "context": "'%randomname% the Bleak'"
   },
@@ -1755,7 +1755,7 @@
     "ID": 293403997,
     "key": "%randomname% the Whistling Death",
     "original": "%randomname% the Whistling Death",
-    "translation": "%randomname% 吹口哨的死神",
+    "translation": "%randomname%·破空之死",
     "stage": 1,
     "context": "'%randomname% the Whistling Death'"
   },
@@ -1771,7 +1771,7 @@
     "ID": 293403999,
     "key": "the Skinner",
     "original": "the Skinner",
-    "translation": "剥皮者",
+    "translation": "·剥皮者",
     "stage": 1,
     "context": "'the Skinner'"
   },
@@ -1779,7 +1779,7 @@
     "ID": 293404000,
     "key": "%randomname% the Sharpshooter",
     "original": "%randomname% the Sharpshooter",
-    "translation": "%randomname%神枪手",
+    "translation": "神射手%randomname%",
     "stage": 1,
     "context": "'%randomname% the Sharpshooter'"
   },
@@ -1787,7 +1787,7 @@
     "ID": 293404001,
     "key": "Barabas Brimstone",
     "original": "Barabas Brimstone",
-    "translation": "硫磺",
+    "translation": "巴拉巴斯·硫磺石",
     "stage": 1,
     "context": "'Barabas Brimstone'"
   },
@@ -1835,7 +1835,7 @@
     "ID": 293404007,
     "key": "August the Gravedigger",
     "original": "August the Gravedigger",
-    "translation": "八月掘墓人",
+    "translation": "掘墓人奥古斯都",
     "stage": 1,
     "context": "'August the Gravedigger'"
   },
@@ -1883,7 +1883,7 @@
     "ID": 293404013,
     "key": "the Glorious",
     "original": "the Glorious",
-    "translation": "荣耀",
+    "translation": "·荣耀",
     "stage": 1,
     "context": "'the Glorious'"
   },
@@ -1923,7 +1923,7 @@
     "ID": 293404018,
     "key": "the Desert Stalker",
     "original": "the Desert Stalker",
-    "translation": "沙漠跟踪者",
+    "translation": "沙漠追猎者",
     "stage": 1,
     "context": "'the Desert Stalker'"
   },
@@ -1955,7 +1955,7 @@
     "ID": 293404022,
     "key": "the Cursed",
     "original": "the Cursed",
-    "translation": "被诅咒的人",
+    "translation": "·诅咒",
     "stage": 1,
     "context": "'the Cursed'"
   },
@@ -1987,7 +1987,7 @@
     "ID": 293404026,
     "key": "%randomname% the Necromancer",
     "original": "%randomname% the Necromancer",
-    "translation": "%randomname% 死灵法师",
+    "translation": "死灵法师%randomname%",
     "stage": 1,
     "context": "'%randomname% the Necromancer'"
   },
@@ -1995,7 +1995,7 @@
     "ID": 293404027,
     "key": "the Despoiler",
     "original": "the Despoiler",
-    "translation": "剥皮者",
+    "translation": "·掠夺者",
     "stage": 1,
     "context": "'the Despoiler'"
   },
@@ -2011,7 +2011,7 @@
     "ID": 293404029,
     "key": "The Shadow",
     "original": "The Shadow",
-    "translation": "影子",
+    "translation": "暗影",
     "stage": 1,
     "context": "'The Shadow'"
   },
@@ -2067,7 +2067,7 @@
     "ID": 293404036,
     "key": "the Master Archer",
     "original": "the Master Archer",
-    "translation": "弓箭手大师",
+    "translation": "·射手大师",
     "stage": 1,
     "context": "'the Master Archer'"
   },
@@ -2075,7 +2075,7 @@
     "ID": 293404037,
     "key": "the Champion",
     "original": "the Champion",
-    "translation": "冠军",
+    "translation": "·冠军勇士",
     "stage": 1,
     "context": "'the Champion'"
   },
@@ -2107,7 +2107,7 @@
     "ID": 293404041,
     "key": "the Fencer",
     "original": "the Fencer",
-    "translation": "击剑手",
+    "translation": "·击剑手",
     "stage": 1,
     "context": "'the Fencer'"
   },
@@ -2147,7 +2147,7 @@
     "ID": 293404046,
     "key": "%randomname% the Oathbringer",
     "original": "%randomname% the Oathbringer",
-    "translation": "誓约使者·%randomname%",
+    "translation": "执誓者%randomname%",
     "stage": 1,
     "context": "'%randomname% the Oathbringer'"
   },
@@ -2163,7 +2163,7 @@
     "ID": 293404048,
     "key": "The Menace of %randomtown%",
     "original": "The Menace of %randomtown%",
-    "translation": "%randomtown% 的威胁",
+    "translation": "%randomtown%之害",
     "stage": 1,
     "context": "'The Menace of %randomtown%'"
   },
@@ -2203,7 +2203,7 @@
     "ID": 293404053,
     "key": "%randomsouthernname% the Blade Dancer",
     "original": "%randomsouthernname% the Blade Dancer",
-    "translation": "剑舞者·%randomsouthernname%",
+    "translation": "剑舞者%randomsouthernname%",
     "stage": 1,
     "context": "'%randomsouthernname% the Blade Dancer'"
   },
@@ -2219,7 +2219,7 @@
     "ID": 293404055,
     "key": "%randomname% the Savage",
     "original": "%randomname% the Savage",
-    "translation": "野蛮人·%randomname%",
+    "translation": "野蛮人%randomname%",
     "stage": 1,
     "context": "'%randomname% the Savage'"
   },
@@ -2283,8 +2283,8 @@
     "ID": 293404063,
     "key": "The Nomad",
     "original": "The Nomad",
-    "translation": "游牧民(The Nomad)",
-    "stage": 5,
+    "translation": "游牧民",
+    "stage": 1,
     "context": "'The Nomad'"
   },
   {
@@ -2307,8 +2307,8 @@
     "ID": 293404066,
     "key": "the Scorpion",
     "original": "the Scorpion",
-    "translation": "蝎子(the Scorpion)",
-    "stage": 5,
+    "translation": "·毒蝎",
+    "stage": 1,
     "context": "'the Scorpion'"
   },
   {
@@ -2355,7 +2355,7 @@
     "ID": 293404072,
     "key": "the Thaumaturge",
     "original": "the Thaumaturge",
-    "translation": "屠杀",
+    "translation": "·嗜血者",
     "stage": 1,
     "context": "'the Thaumaturge'"
   },
@@ -2411,7 +2411,7 @@
     "ID": 293404079,
     "key": "The Traders' Bane",
     "original": "The Traders' Bane",
-    "translation": "商人的祸根",
+    "translation": "商人之祸",
     "stage": 1,
     "context": "\"The Traders' Bane\""
   },
@@ -2451,7 +2451,7 @@
     "ID": 293404084,
     "key": "Thohochoth the All-Ender",
     "original": "Thohochoth the All-Ender",
-    "translation": "托霍乔斯·全能终结者(Thohochoth the All-Ender)",
+    "translation": "托霍乔斯·万物的终结",
     "stage": 1,
     "context": "'Thohochoth the All-Ender'"
   },
@@ -2467,7 +2467,7 @@
     "ID": 293404086,
     "key": "the Beast",
     "original": "the Beast",
-    "translation": "野兽",
+    "translation": "·猛兽",
     "stage": 1,
     "context": "'the Beast'"
   },
@@ -2499,7 +2499,7 @@
     "ID": 293404090,
     "key": "Infamous %randomname%",
     "original": "Infamous %randomname%",
-    "translation": "臭名昭著的%randomname%",
+    "translation": "%randomname%·恶名昭彰",
     "stage": 1,
     "context": "'Infamous %randomname%'"
   },
@@ -2507,7 +2507,7 @@
     "ID": 293404091,
     "key": "%randomname% the Free",
     "original": "%randomname% the Free",
-    "translation": "自由·%randomname%",
+    "translation": "%randomname%·自由",
     "stage": 1,
     "context": "'%randomname% the Free'"
   },
@@ -2523,7 +2523,7 @@
     "ID": 293404093,
     "key": "the Shadowwalker",
     "original": "the Shadowwalker",
-    "translation": "暗影行者",
+    "translation": "·暗影行者",
     "stage": 1,
     "context": "'the Shadowwalker'"
   },
@@ -2547,7 +2547,7 @@
     "ID": 293404096,
     "key": "Bloody %randomname%",
     "original": "Bloody %randomname%",
-    "translation": "血腥·%randomname%",
+    "translation": "%randomname%·淋血",
     "stage": 1,
     "context": "'Bloody %randomname%'"
   },
@@ -2579,7 +2579,7 @@
     "ID": 293404100,
     "key": "%randomname% Truestrike",
     "original": "%randomname% Truestrike",
-    "translation": "%randomname% 真击",
+    "translation": "%randomname%·结实一击",
     "stage": 1,
     "context": "'%randomname% Truestrike'"
   },
@@ -2587,7 +2587,7 @@
     "ID": 293404101,
     "key": "%randomsouthernname% the Lion",
     "original": "%randomsouthernname% the Lion",
-    "translation": "%randomsouthernname% 狮子",
+    "translation": "雄狮%randomsouthernname%",
     "stage": 1,
     "context": "'%randomsouthernname% the Lion'"
   },
@@ -2643,7 +2643,7 @@
     "ID": 293404108,
     "key": "the Swift",
     "original": "the Swift",
-    "translation": "斯威夫特",
+    "translation": "·迅捷",
     "stage": 1,
     "context": "'the Swift'"
   },
@@ -2651,7 +2651,7 @@
     "ID": 293404109,
     "key": "the Torturer",
     "original": "the Torturer",
-    "translation": "折磨者",
+    "translation": "·折磨者",
     "stage": 1,
     "context": "'the Torturer'"
   },
@@ -2739,7 +2739,7 @@
     "ID": 293404120,
     "key": "the Gladiator",
     "original": "the Gladiator",
-    "translation": "角斗士",
+    "translation": "·角斗士",
     "stage": 1,
     "context": "'the Gladiator'"
   },
@@ -2763,7 +2763,7 @@
     "ID": 293404123,
     "key": "the Thief of the Sands",
     "original": "the Thief of the Sands",
-    "translation": "沙贼",
+    "translation": "·沙贼",
     "stage": 1,
     "context": "'the Thief of the Sands'"
   },
@@ -2771,7 +2771,7 @@
     "ID": 293404124,
     "key": "the Plunderer",
     "original": "the Plunderer",
-    "translation": "抢掠者",
+    "translation": "·抢掠者",
     "stage": 1,
     "context": "'the Plunderer'"
   },
@@ -2811,15 +2811,15 @@
     "ID": 293404129,
     "key": "the Exiled",
     "original": "the Exiled",
-    "translation": "流放者(the Exiled)",
-    "stage": 5,
+    "translation": "流放者",
+    "stage": 1,
     "context": "'the Exiled'"
   },
   {
     "ID": 293404130,
     "key": "the Living Mirage",
     "original": "the Living Mirage",
-    "translation": "海市蜃楼生活者",
+    "translation": "·活幻影",
     "stage": 1,
     "context": "'the Living Mirage'"
   },
@@ -2835,7 +2835,7 @@
     "ID": 293404132,
     "key": "the Flagellant",
     "original": "the Flagellant",
-    "translation": "苦修者",
+    "translation": "·苦修者",
     "stage": 1,
     "context": "'the Flagellant'"
   },
@@ -2851,7 +2851,7 @@
     "ID": 293404134,
     "key": "the Mistake",
     "original": "the Mistake",
-    "translation": "错误",
+    "translation": "过错",
     "stage": 1,
     "context": "'the Mistake'"
   },
@@ -2875,7 +2875,7 @@
     "ID": 293404137,
     "key": "Throatcutter",
     "original": "Throatcutter",
-    "translation": "喉刀",
+    "translation": "割喉者",
     "stage": 1,
     "context": "'Throatcutter'"
   },
@@ -2923,8 +2923,8 @@
     "ID": 293404143,
     "key": "the Snake",
     "original": "the Snake",
-    "translation": "蛇(the Snake)",
-    "stage": 5,
+    "translation": "·蛇",
+    "stage": 1,
     "context": "'the Snake'"
   },
   {
@@ -2971,7 +2971,7 @@
     "ID": 293404149,
     "key": "Hamfisted",
     "original": "Hamfisted",
-    "translation": "汉堡",
+    "translation": "大拳头",
     "stage": 1,
     "context": "'Hamfisted'"
   },
@@ -3027,7 +3027,7 @@
     "ID": 293404156,
     "key": "%randomname% the Brigand",
     "original": "%randomname% the Brigand",
-    "translation": "强盗·%randomname%",
+    "translation": "强盗%randomname%",
     "stage": 1,
     "context": "'%randomname% the Brigand'"
   },
@@ -3083,7 +3083,7 @@
     "ID": 293404163,
     "key": "%randomsouthernname% the Viper",
     "original": "%randomsouthernname% the Viper",
-    "translation": "毒蛇·%randomsouthernname%",
+    "translation": "毒蛇%randomsouthernname%",
     "stage": 1,
     "context": "'%randomsouthernname% the Viper'"
   },
@@ -3115,7 +3115,7 @@
     "ID": 293404167,
     "key": "the Legend",
     "original": "the Legend",
-    "translation": "传奇",
+    "translation": "·传奇",
     "stage": 1,
     "context": "'the Legend'"
   },
@@ -3139,7 +3139,7 @@
     "ID": 293404170,
     "key": "The Mountain",
     "original": "The Mountain",
-    "translation": "山",
+    "translation": "大山",
     "stage": 1,
     "context": "'The Mountain'"
   },
@@ -3187,7 +3187,7 @@
     "ID": 293404176,
     "key": "the Sand Stalker",
     "original": "the Sand Stalker",
-    "translation": "沙潜者",
+    "translation": "·沙之追猎者",
     "stage": 1,
     "context": "'the Sand Stalker'"
   },
@@ -3195,7 +3195,7 @@
     "ID": 293404177,
     "key": "The Bull of %randomtown%",
     "original": "The Bull of %randomtown%",
-    "translation": "%randomtown% 的公牛",
+    "translation": "%randomtown%的公牛",
     "stage": 1,
     "context": "'The Bull of %randomtown%'"
   },
@@ -3203,7 +3203,7 @@
     "ID": 293404178,
     "key": "%randomsouthernname% the Snake",
     "original": "%randomsouthernname% the Snake",
-    "translation": "蛇·%randomsouthernname%",
+    "translation": "%randomsouthernname%·蛇",
     "stage": 1,
     "context": "'%randomsouthernname% the Snake'"
   },
@@ -3227,7 +3227,7 @@
     "ID": 293404181,
     "key": "the Unmatched",
     "original": "the Unmatched",
-    "translation": "无与伦比的",
+    "translation": "·无双",
     "stage": 1,
     "context": "'the Unmatched'"
   },
@@ -3259,7 +3259,7 @@
     "ID": 293404185,
     "key": "%randomsouthernname% the Gilded",
     "original": "%randomsouthernname% the Gilded",
-    "translation": "%randomsouthernname% 镀金者",
+    "translation": "镀金者%randomsouthernname%",
     "stage": 1,
     "context": "'%randomsouthernname% the Gilded'"
   },
@@ -3283,8 +3283,8 @@
     "ID": 293404188,
     "key": "the Nomad",
     "original": "the Nomad",
-    "translation": "游牧民(the Nomad)",
-    "stage": 5,
+    "translation": "游牧民",
+    "stage": 1,
     "context": "'the Nomad'"
   },
   {
@@ -3299,8 +3299,8 @@
     "ID": 293404190,
     "key": "the High Priest",
     "original": "the High Priest",
-    "translation": "大祭司",
-    "stage": 5,
+    "translation": "·大祭司",
+    "stage": 1,
     "context": "'the High Priest'"
   },
   {
@@ -3347,7 +3347,7 @@
     "ID": 293404196,
     "key": "%randomsouthernname% the Dust Devil",
     "original": "%randomsouthernname% the Dust Devil",
-    "translation": "尘魔·%randomsouthernname%",
+    "translation": "尘魔%randomsouthernname%",
     "stage": 1,
     "context": "'%randomsouthernname% the Dust Devil'"
   },
@@ -3363,7 +3363,7 @@
     "ID": 293404198,
     "key": "the Protector",
     "original": "the Protector",
-    "translation": "保护者",
+    "translation": "·捍卫者",
     "stage": 1,
     "context": "'the Protector'"
   },
@@ -3387,8 +3387,8 @@
     "ID": 293404201,
     "key": "Ironjaw",
     "original": "Ironjaw",
-    "translation": "铁颌(Ironjaw)",
-    "stage": 5,
+    "translation": "铁颌",
+    "stage": 1,
     "context": "'Ironjaw'"
   },
   {
@@ -3419,7 +3419,7 @@
     "ID": 293404205,
     "key": "the Wolf",
     "original": "the Wolf",
-    "translation": "狼",
+    "translation": "·狼",
     "stage": 1,
     "context": "'the Wolf'"
   },
@@ -3459,7 +3459,7 @@
     "ID": 293404210,
     "key": "the Sutler",
     "original": "the Sutler",
-    "translation": "小商贩",
+    "translation": "·随军小贩",
     "stage": 1,
     "context": "'the Sutler'"
   },
@@ -3507,15 +3507,15 @@
     "ID": 293404216,
     "key": "%randomsouthernname% the Elusive",
     "original": "%randomsouthernname% the Elusive",
-    "translation": "难以捉摸者%randomsouthernname%",
-    "stage": 5,
+    "translation": "善变者%randomsouthernname%",
+    "stage": 1,
     "context": "'%randomsouthernname% the Elusive'"
   },
   {
     "ID": 293404217,
     "key": "Xa-Shutar the Eater of Worlds",
     "original": "Xa-Shutar the Eater of Worlds",
-    "translation": "世界吞噬者夏舒塔尔(Xa-Shutar the Eater of Worlds)",
+    "translation": "世界吞噬者扎舒塔尔",
     "stage": 1,
     "context": "'Xa-Shutar the Eater of Worlds'"
   },
@@ -3603,7 +3603,7 @@
     "ID": 293404228,
     "key": "%randomname% the Marksman",
     "original": "%randomname% the Marksman",
-    "translation": "%randomname% 神射手",
+    "translation": "神射手%randomname%",
     "stage": 1,
     "context": "'%randomname% the Marksman'"
   },
@@ -3811,7 +3811,7 @@
     "ID": 293404254,
     "key": "%randomname% the Scourge",
     "original": "%randomname% the Scourge",
-    "translation": "天灾·%randomname%",
+    "translation": "天灾%randomname%",
     "stage": 1,
     "context": "'%randomname% the Scourge'"
   },
@@ -3851,7 +3851,7 @@
     "ID": 293404259,
     "key": "%randomname% the Devoted",
     "original": "%randomname% the Devoted",
-    "translation": "%randomname% 忠诚的",
+    "translation": "忠诚的%randomname%",
     "stage": 1,
     "context": "'%randomname% the Devoted'"
   },
@@ -3859,7 +3859,7 @@
     "ID": 293404260,
     "key": "%randomname% the Knife",
     "original": "%randomname% the Knife",
-    "translation": "尖刀·%randomname%",
+    "translation": "尖刀%randomname%",
     "stage": 1,
     "context": "'%randomname% the Knife'"
   },
@@ -3867,15 +3867,15 @@
     "ID": 293404261,
     "key": "The Serpent",
     "original": "The Serpent",
-    "translation": "大蛇(The Serpent)",
-    "stage": 5,
+    "translation": "大蛇",
+    "stage": 1,
     "context": "'The Serpent'"
   },
   {
     "ID": 293404262,
     "key": "the Guardian",
     "original": "the Guardian",
-    "translation": "监护人",
+    "translation": "·守护者",
     "stage": 1,
     "context": "'the Guardian'"
   },
@@ -3891,7 +3891,7 @@
     "ID": 293404264,
     "key": "the Honored",
     "original": "the Honored",
-    "translation": "光荣",
+    "translation": "·荣耀",
     "stage": 1,
     "context": "'the Honored'"
   },
@@ -4003,7 +4003,7 @@
     "ID": 293404278,
     "key": "the Forgotten",
     "original": "the Forgotten",
-    "translation": "被遗忘者",
+    "translation": "·被遗忘者",
     "stage": 1,
     "context": "'the Forgotten'"
   },
@@ -4035,7 +4035,7 @@
     "ID": 293404282,
     "key": "the Bloodletter",
     "original": "the Bloodletter",
-    "translation": "血书",
+    "translation": "·血书",
     "stage": 1,
     "context": "'the Bloodletter'"
   },
@@ -4051,7 +4051,7 @@
     "ID": 293404284,
     "key": "%randomname% the Wormbitten",
     "original": "%randomname% the Wormbitten",
-    "translation": "%randomname% 蠕虫",
+    "translation": "%randomname%·虫咬",
     "stage": 1,
     "context": "'%randomname% the Wormbitten'"
   },
@@ -4083,7 +4083,7 @@
     "ID": 293404288,
     "key": "The Raging Nomad",
     "original": "The Raging Nomad",
-    "translation": "狂暴的游牧者",
+    "translation": "狂暴游牧者",
     "stage": 1,
     "context": "'The Raging Nomad'"
   },
@@ -4179,7 +4179,7 @@
     "ID": 293404300,
     "key": "The Desert Rat",
     "original": "The Desert Rat",
-    "translation": "沙漠老鼠",
+    "translation": "沙漠之鼠",
     "stage": 1,
     "context": "'The Desert Rat'"
   },
@@ -4243,7 +4243,7 @@
     "ID": 293404308,
     "key": "the Prince of the Sands",
     "original": "the Prince of the Sands",
-    "translation": "沙滩王子",
+    "translation": "·沙之王子",
     "stage": 1,
     "context": "'the Prince of the Sands'"
   },
@@ -4251,7 +4251,7 @@
     "ID": 293404309,
     "key": "%randomname% the True Shot",
     "original": "%randomname% the True Shot",
-    "translation": "%randomname% 真枪实弹",
+    "translation": "%randomname%·结实一射",
     "stage": 1,
     "context": "'%randomname% the True Shot'"
   },
@@ -4259,7 +4259,7 @@
     "ID": 293404310,
     "key": "the Seeker",
     "original": "the Seeker",
-    "translation": "探索者",
+    "translation": "·探求者",
     "stage": 1,
     "context": "'the Seeker'"
   },
@@ -4275,7 +4275,7 @@
     "ID": 293404312,
     "key": "the Herald",
     "original": "the Herald",
-    "translation": "使者",
+    "translation": "·使者",
     "stage": 1,
     "context": "'the Herald'"
   },
@@ -4291,7 +4291,7 @@
     "ID": 293404314,
     "key": "the Butcher",
     "original": "the Butcher",
-    "translation": "屠夫",
+    "translation": "·屠夫",
     "stage": 1,
     "context": "'the Butcher'"
   },
@@ -4299,7 +4299,7 @@
     "ID": 293404315,
     "key": "%randomsouthernname% the Dust Dancer",
     "original": "%randomsouthernname% the Dust Dancer",
-    "translation": "尘舞者·%randomsouthernname%",
+    "translation": "尘舞者%randomsouthernname%",
     "stage": 1,
     "context": "'%randomsouthernname% the Dust Dancer'"
   },
@@ -4331,7 +4331,7 @@
     "ID": 293404319,
     "key": "the Dancing Blade",
     "original": "the Dancing Blade",
-    "translation": "舞刀",
+    "translation": "·翻飞刃",
     "stage": 1,
     "context": "'the Dancing Blade'"
   },
@@ -4355,7 +4355,7 @@
     "ID": 293404322,
     "key": "Gutstabber",
     "original": "Gutstabber",
-    "translation": "刺刀",
+    "translation": "腹刺",
     "stage": 1,
     "context": "'Gutstabber'"
   },
@@ -4379,7 +4379,7 @@
     "ID": 293404325,
     "key": "the Corrupted",
     "original": "the Corrupted",
-    "translation": "腐败的",
+    "translation": "·腐败者",
     "stage": 1,
     "context": "'the Corrupted'"
   },
@@ -4475,7 +4475,7 @@
     "ID": 293404337,
     "key": "%randomname% the Enlightened",
     "original": "%randomname% the Enlightened",
-    "translation": "%randomname% 先知",
+    "translation": "先知%randomname%",
     "stage": 1,
     "context": "'%randomname% the Enlightened'"
   },
@@ -4483,15 +4483,15 @@
     "ID": 293404338,
     "key": "the Lost",
     "original": "the Lost",
-    "translation": "迷失者(the Lost)",
-    "stage": 5,
+    "translation": "·迷失者",
+    "stage": 1,
     "context": "'the Lost'"
   },
   {
     "ID": 293404339,
     "key": "the Stalker",
     "original": "the Stalker",
-    "translation": "跟踪者",
+    "translation": "·追猎者",
     "stage": 1,
     "context": "'the Stalker'"
   },
@@ -4507,7 +4507,7 @@
     "ID": 293404341,
     "key": "the Underdog",
     "original": "the Underdog",
-    "translation": "弱者",
+    "translation": "·弱者",
     "stage": 1,
     "context": "'the Underdog'"
   },
@@ -4523,7 +4523,7 @@
     "ID": 293404343,
     "key": "King %randomname%",
     "original": "King %randomname%",
-    "translation": "国王·%randomname%",
+    "translation": "国王%randomname%",
     "stage": 1,
     "context": "'King %randomname%'"
   },
@@ -4539,7 +4539,7 @@
     "ID": 293404345,
     "key": "the Knifejuggler",
     "original": "the Knifejuggler",
-    "translation": "刀杂耍者",
+    "translation": "·耍刀者",
     "stage": 1,
     "context": "'the Knifejuggler'"
   },
@@ -4547,7 +4547,7 @@
     "ID": 293404346,
     "key": "the Gilder's Chosen",
     "original": "the Gilder's Chosen",
-    "translation": "镀金者之选",
+    "translation": "·镀金者之选",
     "stage": 1,
     "context": "\"the Gilder's Chosen\""
   },
@@ -4555,7 +4555,7 @@
     "ID": 293404347,
     "key": "the Brutalizer",
     "original": "the Brutalizer",
-    "translation": "残暴者",
+    "translation": "·残暴者",
     "stage": 1,
     "context": "'the Brutalizer'"
   },
@@ -4571,7 +4571,7 @@
     "ID": 293404349,
     "key": "the Returned",
     "original": "the Returned",
-    "translation": "归来",
+    "translation": "·死而复生",
     "stage": 1,
     "context": "'the Returned'"
   },
@@ -4611,7 +4611,7 @@
     "ID": 293404354,
     "key": "the Ray of Light",
     "original": "the Ray of Light",
-    "translation": "光线",
+    "translation": "·光线",
     "stage": 1,
     "context": "'the Ray of Light'"
   },
@@ -4619,7 +4619,7 @@
     "ID": 293404355,
     "key": "%randomname% the Pillager",
     "original": "%randomname% the Pillager",
-    "translation": "掠夺者·%randomname%",
+    "translation": "掠夺者%randomname%",
     "stage": 1,
     "context": "'%randomname% the Pillager'"
   },
@@ -4643,7 +4643,7 @@
     "ID": 293404358,
     "key": "%randomname% the Pickpocket",
     "original": "%randomname% the Pickpocket",
-    "translation": "扒手·%randomname%",
+    "translation": "扒手%randomname%",
     "stage": 1,
     "context": "'%randomname% the Pickpocket'"
   },
@@ -4659,7 +4659,7 @@
     "ID": 293404360,
     "key": "the Blade",
     "original": "the Blade",
-    "translation": "刀锋",
+    "translation": "·刀锋",
     "stage": 1,
     "context": "'the Blade'"
   },
@@ -4683,7 +4683,7 @@
     "ID": 293404363,
     "key": "Casper the Cutpurse",
     "original": "Casper the Cutpurse",
-    "translation": "卡斯珀钱包",
+    "translation": "卡斯珀·掏包儿",
     "stage": 1,
     "context": "'Casper the Cutpurse'"
   },
@@ -4707,7 +4707,7 @@
     "ID": 293404366,
     "key": "the Witchhunter",
     "original": "the Witchhunter",
-    "translation": "女巫猎人",
+    "translation": "·女巫猎人",
     "stage": 1,
     "context": "'the Witchhunter'"
   },
@@ -4723,7 +4723,7 @@
     "ID": 293404368,
     "key": "the Desert Prince",
     "original": "the Desert Prince",
-    "translation": "沙漠王子",
+    "translation": "·沙漠王子",
     "stage": 1,
     "context": "'the Desert Prince'"
   },
@@ -4747,7 +4747,7 @@
     "ID": 293404371,
     "key": "the Master",
     "original": "the Master",
-    "translation": "大师",
+    "translation": "·大师",
     "stage": 1,
     "context": "'the Master'"
   },
@@ -4763,7 +4763,7 @@
     "ID": 293404373,
     "key": "the Gilders' Hand",
     "original": "the Gilders' Hand",
-    "translation": "镀金者之手",
+    "translation": "·镀金者之手",
     "stage": 1,
     "context": "\"the Gilders' Hand\""
   },
@@ -4779,7 +4779,7 @@
     "ID": 293404375,
     "key": "the Flying Blade",
     "original": "the Flying Blade",
-    "translation": "飞刀",
+    "translation": "·飞刃",
     "stage": 1,
     "context": "'the Flying Blade'"
   },
@@ -4867,7 +4867,7 @@
     "ID": 293404386,
     "key": "the Merchant",
     "original": "the Merchant",
-    "translation": "商人",
+    "translation": "·商人",
     "stage": 1,
     "context": "'the Merchant'"
   },
@@ -4939,7 +4939,7 @@
     "ID": 293404395,
     "key": "the Builder",
     "original": "the Builder",
-    "translation": "建设者",
+    "translation": "·奠基者",
     "stage": 1,
     "context": "'the Builder'"
   },
@@ -4947,7 +4947,7 @@
     "ID": 293404396,
     "key": "%randomname% Quick Shot",
     "original": "%randomname% Quick Shot",
-    "translation": "%randomname% 快速射击",
+    "translation": "速射%randomname%",
     "stage": 1,
     "context": "'%randomname% Quick Shot'"
   },
@@ -4963,7 +4963,7 @@
     "ID": 293404398,
     "key": "Anselm's Stolen Valor",
     "original": "Anselm's Stolen Valor",
-    "translation": "安瑟姆的冒名顶替(Anselm's Stolen Valor)",
+    "translation": "假冒安瑟姆",
     "stage": 1,
     "context": "\"Anselm's Stolen Valor\""
   },
@@ -5027,7 +5027,7 @@
     "ID": 293404406,
     "key": "the Red",
     "original": "the Red",
-    "translation": "红十字",
+    "translation": "·猩红",
     "stage": 1,
     "context": "'the Red'"
   },
@@ -5043,7 +5043,7 @@
     "ID": 293404408,
     "key": "%randomname% the Brute",
     "original": "%randomname% the Brute",
-    "translation": "蛮族·%randomname%",
+    "translation": "残忍者%randomname%",
     "stage": 1,
     "context": "'%randomname% the Brute'"
   },
@@ -5051,7 +5051,7 @@
     "ID": 293404409,
     "key": "the Bloody",
     "original": "the Bloody",
-    "translation": "血腥",
+    "translation": "·血腥",
     "stage": 1,
     "context": "'the Bloody'"
   },
@@ -5091,7 +5091,7 @@
     "ID": 293404414,
     "key": "%randomname% the Hyena",
     "original": "%randomname% the Hyena",
-    "translation": "%randomname%鬣狗",
+    "translation": "鬣狗%randomname%",
     "stage": 1,
     "context": "'%randomname% the Hyena'"
   },
@@ -5107,7 +5107,7 @@
     "ID": 293404416,
     "key": "the Unearthed",
     "original": "the Unearthed",
-    "translation": "出土的",
+    "translation": "·破土",
     "stage": 1,
     "context": "'the Unearthed'"
   },
@@ -5227,7 +5227,7 @@
     "ID": 293404431,
     "key": "the Fallen Hero",
     "original": "the Fallen Hero",
-    "translation": "堕落的英雄",
+    "translation": "·堕落英雄",
     "stage": 1,
     "context": "'the Fallen Hero'"
   },
@@ -5267,7 +5267,7 @@
     "ID": 293404436,
     "key": "%randomname% the Unholy",
     "original": "%randomname% the Unholy",
-    "translation": "%randomname% 邪恶的",
+    "translation": "邪恶的%randomname%",
     "stage": 1,
     "context": "'%randomname% the Unholy'"
   },
@@ -5315,7 +5315,7 @@
     "ID": 293404442,
     "key": "the Favored",
     "original": "the Favored",
-    "translation": "受宠者",
+    "translation": "·受宠者",
     "stage": 1,
     "context": "'the Favored'"
   },
@@ -5323,15 +5323,15 @@
     "ID": 293404443,
     "key": "the Rock",
     "original": "the Rock",
-    "translation": "岩石(the Rock)",
-    "stage": 5,
+    "translation": "·岩石",
+    "stage": 1,
     "context": "'the Rock'"
   },
   {
     "ID": 293404444,
     "key": "Deadeye",
     "original": "Deadeye",
-    "translation": "死神眼",
+    "translation": "死神之眼",
     "stage": 1,
     "context": "'Deadeye'"
   },
@@ -5363,7 +5363,7 @@
     "ID": 293404448,
     "key": "%randomsouthernname% the Flying Blade",
     "original": "%randomsouthernname% the Flying Blade",
-    "translation": "飞刃·%randomsouthernname%",
+    "translation": "飞刃%randomsouthernname%",
     "stage": 1,
     "context": "'%randomsouthernname% the Flying Blade'"
   },
@@ -5403,7 +5403,7 @@
     "ID": 293404453,
     "key": "the Cunning",
     "original": "the Cunning",
-    "translation": "狡猾",
+    "translation": "·狡猾",
     "stage": 1,
     "context": "'the Cunning'"
   },
@@ -5443,7 +5443,7 @@
     "ID": 293404458,
     "key": "the Scourge",
     "original": "the Scourge",
-    "translation": "天灾",
+    "translation": "·天灾",
     "stage": 1,
     "context": "'the Scourge'"
   },
@@ -5467,7 +5467,7 @@
     "ID": 293404461,
     "key": "the Raging Bull",
     "original": "the Raging Bull",
-    "translation": "狂怒的公牛",
+    "translation": "·狂怒的公牛",
     "stage": 1,
     "context": "'the Raging Bull'"
   },
@@ -5475,7 +5475,7 @@
     "ID": 293404462,
     "key": "%randomname% the Crusader",
     "original": "%randomname% the Crusader",
-    "translation": "%randomname% 十字军",
+    "translation": "十字军%randomname%",
     "stage": 1,
     "context": "'%randomname% the Crusader'"
   },
@@ -5491,7 +5491,7 @@
     "ID": 293404464,
     "key": "%randomname% the Black",
     "original": "%randomname% the Black",
-    "translation": "%randomname% 黑色",
+    "translation": "%randomname%·黑皮",
     "stage": 1,
     "context": "'%randomname% the Black'"
   },
@@ -5563,7 +5563,7 @@
     "ID": 293404473,
     "key": "Black Eyes Einhart",
     "original": "Black Eyes Einhart",
-    "translation": "黑眼睛艾因哈特",
+    "translation": "黑眼艾因哈特",
     "stage": 1,
     "context": "'Black Eyes Einhart'"
   },
@@ -5571,7 +5571,7 @@
     "ID": 293404474,
     "key": "%randomname% Featherdraw",
     "original": "%randomname% Featherdraw",
-    "translation": "%randomname% 羽绘",
+    "translation": "%randomname%·羽绘",
     "stage": 1,
     "context": "'%randomname% Featherdraw'"
   },
@@ -5611,8 +5611,8 @@
     "ID": 293404479,
     "key": "The Scorpion",
     "original": "The Scorpion",
-    "translation": "蝎子(The Scorpion)",
-    "stage": 5,
+    "translation": "毒蝎",
+    "stage": 1,
     "context": "'The Scorpion'"
   },
   {
@@ -5635,7 +5635,7 @@
     "ID": 293404482,
     "key": "Gu-Shogg the Thousand-Armed Thresher",
     "original": "Gu-Shogg the Thousand-Armed Thresher",
-    "translation": "古沼洛克·千臂乱舞者(Gu-Shogg the Thousand-Armed Thresherg)",
+    "translation": "古沼洛克·千臂乱舞者",
     "stage": 1,
     "context": "'Gu-Shogg the Thousand-Armed Thresher'"
   },
@@ -5667,7 +5667,7 @@
     "ID": 293404486,
     "key": "the Thunder",
     "original": "the Thunder",
-    "translation": "雷鸣",
+    "translation": "·雷鸣",
     "stage": 1,
     "context": "'the Thunder'"
   },
@@ -5715,7 +5715,7 @@
     "ID": 293404492,
     "key": "%randomname% the Master Archer",
     "original": "%randomname% the Master Archer",
-    "translation": "%randomname% 射手大师",
+    "translation": "射手大师%randomname%",
     "stage": 1,
     "context": "'%randomname% the Master Archer'"
   },
@@ -5755,7 +5755,7 @@
     "ID": 293404497,
     "key": "the Desert Rat",
     "original": "the Desert Rat",
-    "translation": "沙漠老鼠",
+    "translation": "·沙漠之鼠",
     "stage": 1,
     "context": "'the Desert Rat'"
   },
@@ -5827,7 +5827,7 @@
     "ID": 293404506,
     "key": "Black Crow Balthasar",
     "original": "Black Crow Balthasar",
-    "translation": "黑乌鸦",
+    "translation": "黑乌鸦巴萨沙尔",
     "stage": 1,
     "context": "'Black Crow Balthasar'"
   },
@@ -5867,7 +5867,7 @@
     "ID": 293404511,
     "key": "the Rat",
     "original": "the Rat",
-    "translation": "老鼠",
+    "translation": "·老鼠",
     "stage": 1,
     "context": "'the Rat'"
   },
@@ -5907,7 +5907,7 @@
     "ID": 293404516,
     "key": "The Prince of the Sands",
     "original": "The Prince of the Sands",
-    "translation": "沙滩王子",
+    "translation": "沙之王子",
     "stage": 1,
     "context": "'The Prince of the Sands'"
   },
@@ -5947,7 +5947,7 @@
     "ID": 293404521,
     "key": "the Traders' Bane",
     "original": "the Traders' Bane",
-    "translation": "商人的祸根",
+    "translation": "·商人之祸",
     "stage": 1,
     "context": "\"the Traders' Bane\""
   },
@@ -5995,7 +5995,7 @@
     "ID": 293404527,
     "key": "the Mauler",
     "original": "the Mauler",
-    "translation": "搬运工",
+    "translation": "·搬运工",
     "stage": 1,
     "context": "'the Mauler'"
   },
@@ -6027,7 +6027,7 @@
     "ID": 293404531,
     "key": "the Knightslayer",
     "original": "the Knightslayer",
-    "translation": "骑士杀手",
+    "translation": "·骑士杀手",
     "stage": 1,
     "context": "'the Knightslayer'"
   },
@@ -6035,7 +6035,7 @@
     "ID": 293404532,
     "key": "%randomsouthernname% the Sandviper",
     "original": "%randomsouthernname% the Sandviper",
-    "translation": "蝮蛇·%randomsouthernname%",
+    "translation": "蝮蛇%randomsouthernname%",
     "stage": 1,
     "context": "'%randomsouthernname% the Sandviper'"
   },
@@ -6059,7 +6059,7 @@
     "ID": 293404535,
     "key": "the Artisan",
     "original": "the Artisan",
-    "translation": "匠人",
+    "translation": "·匠人",
     "stage": 1,
     "context": "'the Artisan'"
   },
@@ -6091,7 +6091,7 @@
     "ID": 293404539,
     "key": "the Second",
     "original": "the Second",
-    "translation": "第二个",
+    "translation": "二世",
     "stage": 1,
     "context": "'the Second'"
   },
@@ -6147,7 +6147,7 @@
     "ID": 293404546,
     "key": "the Undying",
     "original": "the Undying",
-    "translation": "不朽的人",
+    "translation": "·不死者",
     "stage": 1,
     "context": "'the Undying'"
   },
@@ -6195,7 +6195,7 @@
     "ID": 293404552,
     "key": "the Vessel",
     "original": "the Vessel",
-    "translation": "风缸",
+    "translation": "·酒桶",
     "stage": 1,
     "context": "'the Vessel'"
   },
@@ -6211,7 +6211,7 @@
     "ID": 293404554,
     "key": "%randomname% the Knowledgeable",
     "original": "%randomname% the Knowledgeable",
-    "translation": "%randomname% 知识渊博的人",
+    "translation": "博学者%randomname%",
     "stage": 1,
     "context": "'%randomname% the Knowledgeable'"
   },
@@ -6243,7 +6243,7 @@
     "ID": 293404558,
     "key": "the Pilgrim",
     "original": "the Pilgrim",
-    "translation": "朝圣者",
+    "translation": "·朝圣者",
     "stage": 1,
     "context": "'the Pilgrim'"
   },
@@ -6251,7 +6251,7 @@
     "ID": 293404559,
     "key": "%randomname% the Oathsworn",
     "original": "%randomname% the Oathsworn",
-    "translation": "%randomname%  宣誓效忠",
+    "translation": "缚誓者%randomname%",
     "stage": 1,
     "context": "'%randomname% the Oathsworn'"
   },
@@ -6291,7 +6291,7 @@
     "ID": 293404564,
     "key": "The Headcollector",
     "original": "The Headcollector",
-    "translation": "收头人",
+    "translation": "头骨收集者",
     "stage": 1,
     "context": "'The Headcollector'"
   },
@@ -6299,7 +6299,7 @@
     "ID": 293404565,
     "key": "Gla-Oth the Endless Maw",
     "original": "Gla-Oth the Endless Maw",
-    "translation": "无尽喉咙 (Gla-Oth the Endless Maw)",
+    "translation": "无尽之喉喀欧斯",
     "stage": 1,
     "context": "'Gla-Oth the Endless Maw'"
   },
@@ -6315,7 +6315,7 @@
     "ID": 293404567,
     "key": "the Decayed",
     "original": "the Decayed",
-    "translation": "腐朽",
+    "translation": "·腐朽",
     "stage": 1,
     "context": "'the Decayed'"
   },
@@ -6331,7 +6331,7 @@
     "ID": 293404569,
     "key": "the Older",
     "original": "the Older",
-    "translation": "年长者",
+    "translation": "·年长者",
     "stage": 1,
     "context": "'the Older'"
   },
@@ -6347,7 +6347,7 @@
     "ID": 293404571,
     "key": "the Cruel",
     "original": "the Cruel",
-    "translation": "残酷的",
+    "translation": "·残酷者",
     "stage": 1,
     "context": "'the Cruel'"
   },
@@ -6355,7 +6355,7 @@
     "ID": 293404572,
     "key": "the Brawler",
     "original": "the Brawler",
-    "translation": "打手",
+    "translation": "·打手",
     "stage": 1,
     "context": "'the Brawler'"
   },
@@ -6371,7 +6371,7 @@
     "ID": 293404574,
     "key": "the Sticker",
     "original": "the Sticker",
-    "translation": "贴纸",
+    "translation": "·顽固",
     "stage": 1,
     "context": "'the Sticker'"
   },
@@ -6387,7 +6387,7 @@
     "ID": 293404576,
     "key": "the Impaler",
     "original": "the Impaler",
-    "translation": "穿刺者",
+    "translation": "·穿刺者",
     "stage": 1,
     "context": "'the Impaler'"
   },
@@ -6419,7 +6419,7 @@
     "ID": 293404580,
     "key": "%randomname% the Outcast",
     "original": "%randomname% the Outcast",
-    "translation": "流放者·%randomname%",
+    "translation": "流放者%randomname%",
     "stage": 1,
     "context": "'%randomname% the Outcast'"
   },
@@ -6435,7 +6435,7 @@
     "ID": 293404582,
     "key": "the Shoveler",
     "original": "the Shoveler",
-    "translation": "铲子",
+    "translation": "·铲子",
     "stage": 1,
     "context": "'the Shoveler'"
   },
@@ -6451,8 +6451,8 @@
     "ID": 293404584,
     "key": "the Serpent",
     "original": "the Serpent",
-    "translation": "大蛇(the Serpent)",
-    "stage": 5,
+    "translation": "·大蛇",
+    "stage": 1,
     "context": "'the Serpent'"
   },
   {
@@ -6507,7 +6507,7 @@
     "ID": 293404591,
     "key": "the Savage",
     "original": "the Savage",
-    "translation": "野蛮人",
+    "translation": "·野蛮人",
     "stage": 1,
     "context": "'the Savage'"
   },
@@ -6563,7 +6563,7 @@
     "ID": 293404598,
     "key": "%randomsouthernname% the Undefeated",
     "original": "%randomsouthernname% the Undefeated",
-    "translation": "不败的%randomsouthernname%",
+    "translation": "不败者%randomsouthernname%",
     "stage": 1,
     "context": "'%randomsouthernname% the Undefeated'"
   },
@@ -6579,8 +6579,8 @@
     "ID": 293404600,
     "key": "the Ratcatcher",
     "original": "the Ratcatcher",
-    "translation": "捕鼠者(the Ratcatcher)",
-    "stage": 5,
+    "translation": "捕鼠者",
+    "stage": 1,
     "context": "'the Ratcatcher'"
   },
   {
@@ -6595,7 +6595,7 @@
     "ID": 293404602,
     "key": "%randomname% the Ashen Prince",
     "original": "%randomname% the Ashen Prince",
-    "translation": "灰烬王子·%randomname%",
+    "translation": "灰烬王子%randomname%",
     "stage": 1,
     "context": "'%randomname% the Ashen Prince'"
   },
@@ -6619,7 +6619,7 @@
     "ID": 293404605,
     "key": "%randomname% the Slaughterer",
     "original": "%randomname% the Slaughterer",
-    "translation": "屠夫·%randomname%",
+    "translation": "屠戮者%randomname%",
     "stage": 1,
     "context": "'%randomname% the Slaughterer'"
   },
@@ -6643,7 +6643,7 @@
     "ID": 293404608,
     "key": "the Berserker",
     "original": "the Berserker",
-    "translation": "狂战士",
+    "translation": "·狂战士",
     "stage": 1,
     "context": "'the Berserker'"
   },
@@ -6675,7 +6675,7 @@
     "ID": 293404612,
     "key": "the Defender",
     "original": "the Defender",
-    "translation": "防卫者",
+    "translation": "·护卫者",
     "stage": 1,
     "context": "'the Defender'"
   },
@@ -6691,8 +6691,8 @@
     "ID": 293404614,
     "key": "%randomname% the Marauder",
     "original": "%randomname% the Marauder",
-    "translation": "掳掠者·%randomname%",
-    "stage": 5,
+    "translation": "掳掠者%randomname%",
+    "stage": 1,
     "context": "'%randomname% the Marauder'"
   },
   {
@@ -6803,7 +6803,7 @@
     "ID": 293404628,
     "key": "Ogg-Sattoth the Grand Devourer",
     "original": "Ogg-Sattoth the Grand Devourer",
-    "translation": "奥格-萨托斯大噬者(Ogg-Sattoth the Grand Devourer)",
+    "translation": "大噬者奥格-萨托斯",
     "stage": 1,
     "context": "'Ogg-Sattoth the Grand Devourer'"
   },
@@ -6819,7 +6819,7 @@
     "ID": 293404630,
     "key": "%randomname% the Hawk",
     "original": "%randomname% the Hawk",
-    "translation": "%randomname% 鹰",
+    "translation": "%randomname%·鹰",
     "stage": 1,
     "context": "'%randomname% the Hawk'"
   },
@@ -6827,7 +6827,7 @@
     "ID": 293404631,
     "key": "Xapocathlu the All-Reaching",
     "original": "Xapocathlu the All-Reaching",
-    "translation": "太空浩克瑟鲁 (Xapocathlu the All-Reaching)",
+    "translation": "万物之触哈珀克瑟鲁",
     "stage": 1,
     "context": "'Xapocathlu the All-Reaching'"
   },
@@ -6835,7 +6835,7 @@
     "ID": 293404632,
     "key": "%randomsouthernname% the Crimson Edge",
     "original": "%randomsouthernname% the Crimson Edge",
-    "translation": "深红边缘·%randomsouthernname%",
+    "translation": "血刃%randomsouthernname%",
     "stage": 1,
     "context": "'%randomsouthernname% the Crimson Edge'"
   },
@@ -6859,7 +6859,7 @@
     "ID": 293404635,
     "key": "the Crusher",
     "original": "the Crusher",
-    "translation": "破碎机",
+    "translation": "·破碎机",
     "stage": 1,
     "context": "'the Crusher'"
   },
@@ -6883,7 +6883,7 @@
     "ID": 293404638,
     "key": "Steelwielder",
     "original": "Steelwielder",
-    "translation": "钢铁侠",
+    "translation": "执钢者",
     "stage": 1,
     "context": "'Steelwielder'"
   },
@@ -6891,7 +6891,7 @@
     "ID": 293404639,
     "key": "the Marvelous",
     "original": "the Marvelous",
-    "translation": "奇迹",
+    "translation": "·奇迹",
     "stage": 1,
     "context": "'the Marvelous'"
   },
@@ -6899,7 +6899,7 @@
     "ID": 293404640,
     "key": "%randomname% the Apostate",
     "original": "%randomname% the Apostate",
-    "translation": "%randomname% 叛教者",
+    "translation": "叛教者%randomname%",
     "stage": 1,
     "context": "'%randomname% the Apostate'"
   },
@@ -6939,7 +6939,7 @@
     "ID": 293404645,
     "key": "The Robber Baron",
     "original": "The Robber Baron",
-    "translation": "强盗 男爵",
+    "translation": "强盗男爵",
     "stage": 1,
     "context": "'The Robber Baron'"
   },
@@ -6963,7 +6963,7 @@
     "ID": 293404648,
     "key": "the Robber",
     "original": "the Robber",
-    "translation": "强盗",
+    "translation": "·强盗",
     "stage": 1,
     "context": "'the Robber'"
   },
@@ -6987,7 +6987,7 @@
     "ID": 293404651,
     "key": "the Arena King",
     "original": "the Arena King",
-    "translation": "竞技场之王",
+    "translation": "·竞技场之王",
     "stage": 1,
     "context": "'the Arena King'"
   },
@@ -7003,7 +7003,7 @@
     "ID": 293404653,
     "key": "the Sandviper",
     "original": "the Sandviper",
-    "translation": "沙蝰蛇",
+    "translation": "·沙蝰蛇",
     "stage": 1,
     "context": "'the Sandviper'"
   },
@@ -7019,7 +7019,7 @@
     "ID": 293404655,
     "key": "Mead Jar %randomname%",
     "original": "Mead Jar %randomname%",
-    "translation": "蜂蜜酒罐·%randomname%",
+    "translation": "蜜酒罐%randomname%",
     "stage": 1,
     "context": "'Mead Jar %randomname%'"
   },
@@ -7035,7 +7035,7 @@
     "ID": 293404657,
     "key": "Necksnapper",
     "original": "Necksnapper",
-    "translation": "颈鲷",
+    "translation": "扭颈者",
     "stage": 1,
     "context": "'Necksnapper'"
   },
@@ -7043,7 +7043,7 @@
     "ID": 293404658,
     "key": "%randomsouthernname% the Shadow",
     "original": "%randomsouthernname% the Shadow",
-    "translation": "影子·%randomsouthernname%",
+    "translation": "暗影%randomsouthernname%",
     "stage": 1,
     "context": "'%randomsouthernname% the Shadow'"
   },
@@ -7051,7 +7051,7 @@
     "ID": 293404659,
     "key": "the Slayer",
     "original": "the Slayer",
-    "translation": "杀手",
+    "translation": "·杀手",
     "stage": 1,
     "context": "'the Slayer'"
   },
@@ -7075,15 +7075,15 @@
     "ID": 293404662,
     "key": "The Exiled",
     "original": "The Exiled",
-    "translation": "流放者(the Exiled)",
-    "stage": 5,
+    "translation": "流放者",
+    "stage": 1,
     "context": "'The Exiled'"
   },
   {
     "ID": 293404663,
     "key": "the Unbeaten",
     "original": "the Unbeaten",
-    "translation": "不败",
+    "translation": "·不败",
     "stage": 1,
     "context": "'the Unbeaten'"
   },
@@ -7099,7 +7099,7 @@
     "ID": 293404665,
     "key": "Big %randomname%",
     "original": "Big %randomname%",
-    "translation": "大 %randomname%",
+    "translation": "大个儿%randomname%",
     "stage": 1,
     "context": "'Big %randomname%'"
   },
@@ -7147,7 +7147,7 @@
     "ID": 293404671,
     "key": "the Hollow",
     "original": "the Hollow",
-    "translation": "空谷幽魂",
+    "translation": "·空魂",
     "stage": 1,
     "context": "'the Hollow'"
   },
@@ -7195,7 +7195,7 @@
     "ID": 293404677,
     "key": "the Defiled",
     "original": "the Defiled",
-    "translation": "被污秽的人",
+    "translation": "·污秽者",
     "stage": 1,
     "context": "'the Defiled'"
   },
@@ -7251,8 +7251,8 @@
     "ID": 293404684,
     "key": "the Backstabber",
     "original": "the Backstabber",
-    "translation": "背刺者(the Backstabber)",
-    "stage": 5,
+    "translation": "·背刺者",
+    "stage": 1,
     "context": "'the Backstabber'"
   },
   {
@@ -7275,7 +7275,7 @@
     "ID": 293404687,
     "key": "the Restorator",
     "original": "the Restorator",
-    "translation": "恢复者",
+    "translation": "·中兴者",
     "stage": 1,
     "context": "'the Restorator'"
   },
@@ -7307,7 +7307,7 @@
     "ID": 293404691,
     "key": "the Master of the Realm",
     "original": "the Master of the Realm",
-    "translation": "领域之主",
+    "translation": "·王国之主",
     "stage": 1,
     "context": "'the Master of the Realm'"
   },
@@ -7379,7 +7379,7 @@
     "ID": 293404700,
     "key": "the Chosen",
     "original": "the Chosen",
-    "translation": "神选者",
+    "translation": "·神选者",
     "stage": 1,
     "context": "'the Chosen'"
   },
@@ -7435,7 +7435,7 @@
     "ID": 293404707,
     "key": "the Oathbreaker",
     "original": "the Oathbreaker",
-    "translation": "誓言破坏者",
+    "translation": "·破誓者",
     "stage": 1,
     "context": "'the Oathbreaker'"
   },
@@ -7451,24 +7451,24 @@
     "ID": 293404709,
     "key": "the Stallion",
     "original": "the Stallion",
-    "translation": "种马(the Stallion)",
-    "stage": 5,
+    "translation": "·种马",
+    "stage": 1,
     "context": "'the Stallion'"
   },
   {
     "ID": 293404710,
     "key": "the Desert Raider",
     "original": "the Desert Raider",
-    "translation": "沙漠掠袭者(the Desert Raider)",
-    "stage": 5,
+    "translation": "·沙漠掠袭者",
+    "stage": 1,
     "context": "'the Desert Raider'"
   },
   {
     "ID": 293404711,
     "key": "Shaggaruth the Unending",
     "original": "Shaggaruth the Unending",
-    "translation": "不朽者沙加鲁斯(Shaggaruth the Unending)",
-    "stage": 5,
+    "translation": "不朽者沙加鲁斯",
+    "stage": 1,
     "context": "'Shaggaruth the Unending'"
   },
   {
@@ -7499,8 +7499,8 @@
     "ID": 293404715,
     "key": "the Elusive",
     "original": "the Elusive",
-    "translation": "难以捉摸者(the Elusive)",
-    "stage": 5,
+    "translation": "·善变者",
+    "stage": 1,
     "context": "'the Elusive'"
   },
   {
@@ -7515,7 +7515,7 @@
     "ID": 293404717,
     "key": "the Victorious",
     "original": "the Victorious",
-    "translation": "胜利者",
+    "translation": "·胜利者",
     "stage": 1,
     "context": "'the Victorious'"
   },
@@ -7531,15 +7531,15 @@
     "ID": 293404719,
     "key": "the Hunter",
     "original": "the Hunter",
-    "translation": "猎人(the Hunter)",
-    "stage": 5,
+    "translation": "·猎人",
+    "stage": 1,
     "context": "'the Hunter'"
   },
   {
     "ID": 293404720,
     "key": "%randomname% Four Fingers",
     "original": "%randomname% Four Fingers",
-    "translation": "%randomname%·四指",
+    "translation": "四指%randomname%",
     "stage": 1,
     "context": "'%randomname% Four Fingers'"
   },
@@ -7579,7 +7579,7 @@
     "ID": 293404725,
     "key": "the Fogwalker",
     "original": "the Fogwalker",
-    "translation": "雾行者",
+    "translation": "·雾行者",
     "stage": 1,
     "context": "'the Fogwalker'"
   },
@@ -7643,7 +7643,7 @@
     "ID": 293404733,
     "key": "the Dust Dancer",
     "original": "the Dust Dancer",
-    "translation": "尘埃舞者",
+    "translation": "·尘埃舞者",
     "stage": 1,
     "context": "'the Dust Dancer'"
   },
@@ -7659,7 +7659,7 @@
     "ID": 293404735,
     "key": "%randomsouthernname% the Swift",
     "original": "%randomsouthernname% the Swift",
-    "translation": "斯威夫特·%randomsouthernname%",
+    "translation": "迅捷者%randomsouthernname%",
     "stage": 1,
     "context": "'%randomsouthernname% the Swift'"
   },
@@ -7683,7 +7683,7 @@
     "ID": 293404738,
     "key": "the Menace",
     "original": "the Menace",
-    "translation": "威胁者",
+    "translation": "·恫吓",
     "stage": 1,
     "context": "'the Menace'"
   },
@@ -7691,8 +7691,8 @@
     "ID": 293404739,
     "key": "the Shadow",
     "original": "the Shadow",
-    "translation": "影子(the Shadow)",
-    "stage": 5,
+    "translation": "·暗影",
+    "stage": 1,
     "context": "'the Shadow'"
   },
   {

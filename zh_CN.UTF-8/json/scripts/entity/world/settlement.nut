@@ -3,7 +3,7 @@
     "ID": 293410685,
     "key": "Ruins of ",
     "original": "Ruins of ",
-    "translation": "废墟的",
+    "translation": "毁坏的",
     "stage": 1,
     "context": "text = 'Ruins of ' + this.getName()"
   },
@@ -27,7 +27,7 @@
     "ID": 293410688,
     "key": "Only ruins are left of what was once a flourishing town.",
     "original": "Only ruins are left of what was once a flourishing town.",
-    "translation": "这个曾经繁荣的城市只剩下一片废墟。",
+    "translation": "曾经繁荣的城市只剩一片废墟。",
     "stage": 1,
     "context": "text = 'Only ruins are left of what was once a flourishing town.'"
   },
@@ -43,7 +43,7 @@
     "ID": 293410690,
     "key": "Only ruins are left of what was once a formidable castle.",
     "original": "Only ruins are left of what was once a formidable castle.",
-    "translation": "这座曾经令人生畏的城堡只剩下废墟。",
+    "translation": "曾经令人生畏的城堡只剩一片废墟。",
     "stage": 1,
     "context": "text = 'Only ruins are left of what was once a formidable castle.'"
   }

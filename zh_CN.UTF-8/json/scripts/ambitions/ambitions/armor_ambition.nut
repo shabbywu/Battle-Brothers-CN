@@ -19,7 +19,7 @@
     "ID": 293403303,
     "key": "This will serve us well in the battles to come.",
     "original": "This will serve us well in the battles to come.",
-    "translation": "这将在今后的战斗中对我们大有好处。",
+    "translation": "它们会在今后的战斗中派上用场。",
     "stage": 1,
     "context": "this.m.SuccessButtonText = 'This will serve us well in the battles to come.'"
   },

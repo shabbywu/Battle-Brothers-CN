@@ -3,7 +3,7 @@
     "ID": 293403315,
     "key": "Gather the amount of 7,500 crowns or more, so that you can afford to buy a cart for additional inventory space. You can make money by completing contracts, looting camps and ruins, or trading.",
     "original": "Gather the amount of 7,500 crowns or more, so that you can afford to buy a cart for additional inventory space. You can make money by completing contracts, looting camps and ruins, or trading.",
-    "translation": "收集7500以上的克朗，这样就能买得起一辆货车，获得额外的仓库空间。你可以通过完成合同、掠夺废墟或营地、进行贸易等方式赚钱。",
+    "translation": "收集7500以上的克朗，用于购买一辆货车，获得额外的仓库空间。你可以通过完成合同、掠夺废墟或营地、进行贸易等方式赚钱。",
     "stage": 1,
     "context": "this.m.TooltipText = 'Gather the amount of 7,500 crowns or more, so that you can afford to buy a cart for additional inventory space. You can make money by completing contracts, looting camps and ruins, or trading.'"
   },
@@ -19,8 +19,8 @@
     "ID": 293403317,
     "key": "You gain 27 additional inventory slots",
     "original": "You gain 27 additional inventory slots",
-    "translation": "你获得了27个额外的仓库空位",
-    "stage": 5,
+    "translation": "你获得了27个额外的仓库栏位",
+    "stage": 1,
     "context": "text = 'You gain 27 additional inventory slots'"
   },
   {
@@ -35,7 +35,7 @@
     "ID": 293403319,
     "key": "We can barely carry any more equipment or spoils of war.\nLet us save up 7,500 crowns to buy us a cart and relieve our backs!",
     "original": "We can barely carry any more equipment or spoils of war.\nLet us save up 7,500 crowns to buy us a cart and relieve our backs!",
-    "translation": "我们几乎带不了那么多的装备和战利品了。\n让我们存个7500克朗买辆货车来减轻负担吧！",
+    "translation": "我们快带不下更多的装备和战利品了。\n让我们存个7500克朗，买辆货车来减轻负担吧！",
     "stage": 1,
     "context": "this.m.ButtonText = 'We can barely carry any more equipment or spoils of war.\nLet us save up 7,500 crowns to buy us a cart and relieve our backs!'"
   },
@@ -43,8 +43,8 @@
     "ID": 293403320,
     "key": "You'll unlock an additional 27 slots in your inventory.",
     "original": "You'll unlock an additional 27 slots in your inventory.",
-    "translation": "你将解锁仓库中额外的27个空位。",
-    "stage": 5,
+    "translation": "你将解锁27个额外的仓库栏位。",
+    "stage": 1,
     "context": "this.m.RewardTooltip = \"You'll unlock an additional 27 slots in your inventory.\""
   },
   {

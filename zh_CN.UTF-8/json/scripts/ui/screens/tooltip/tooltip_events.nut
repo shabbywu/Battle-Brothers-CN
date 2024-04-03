@@ -779,7 +779,7 @@
     "ID": 293423050,
     "key": " more perk point is spent",
     "original": " more perk point is spent",
-    "translation": "花费更多的特技点",
+    "translation": "个特技点",
     "stage": 1,
     "context": "text = 'Locked until ' + perk.Unlocks - player.getPerkPointsSpent() + ' more perk point is spent'"
   },
@@ -1619,7 +1619,7 @@
     "ID": 293423155,
     "key": "Locked until ",
     "original": "Locked until ",
-    "translation": "特技被锁定，直到 ",
+    "translation": "特技被锁定，直到再花费",
     "stage": 1,
     "context": "text = 'Locked until ' + perk.Unlocks - player.getPerkPointsSpent() + ' more perk points are spent'"
   },

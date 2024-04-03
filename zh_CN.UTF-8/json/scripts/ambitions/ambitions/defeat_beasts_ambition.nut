@@ -3,7 +3,7 @@
     "ID": 293403329,
     "key": "[img]gfx/ui/events/event_56.png[/img]Having dispatched yet another band of beasts, you find yourself pondering the nature of your ancestors. Here you are, organized, armed and armored, world-traveled, experienced in matters of war and combat, and yet the ",
     "original": "[img]gfx/ui/events/event_56.png[/img]Having dispatched yet another band of beasts, you find yourself pondering the nature of your ancestors. Here you are, organized, armed and armored, world-traveled, experienced in matters of war and combat, and yet the monsters of this world still serve to be as dangerous as ever. Your ancestors, what did they have? No civilization to blanket themselves under, no cities to light the night and warm the courage, no maps to give a comforting border to the world. And yet... they survived. What was it? How? Perhaps, in those days, it was man who was the threat, and the beasts saw him the monster. Or perhaps there are times before the ancients, times of when they had their own cities, and all the world simply shifts in balance, beast and man, since time immemorial. And if that is the case, then it is not the past you should dwell on, but the days and years and millennia to come...",
-    "translation": "[img]gfx/ui/events/event_56.png[/img]在你处决另一批野兽后，你发现自己在思考祖先的本性。 你在这里准备就绪、全副武装，周游世界，在战争、战斗方面经验丰富，但这个世界上的野兽仍像以前一样危险。 你的祖先，他们拥有什么？ 没有一种文明可以装点自我，没有一座城市可以照亮黑夜、点燃勇气，没有一张地图可以给世界一个舒适的领地。 然而…他们活了下来。 是什么让他们做到的。怎么做到的？ 也许，在过去人类构成了威胁，野兽把人类作为怪物看待。 在我们的祖先之前也许有过这样的时代，人们拥有自己的城市，从远古时代起，全世界的动物和人类均处于单纯的轮回中。 如果是这样的话，那么你就不应该沉湎于过去，而是未来的日常、岁月和纪年…",
+    "translation": "[img]gfx/ui/events/event_56.png[/img]解决了又一群野兽后，你开始思考祖先的本性。 你打量着自己，准备充分、全副武装，周游世界，不乏战争、战斗的经验，但野兽在世界上的危险丝毫不减。 你的祖先，他们拥有什么？ 没有文明的庇护，没有城市照亮黑夜、点燃勇气，没有地图划出舒适的领地。 然而…他们活了下来。 是什么让他们做到的。怎么做到的？ 也许，在过去人类构成了威胁，野兽把人类作为怪物看待。 又或者在我们的祖先之前，人们拥有过自己的城市，从远古时代起，全世界的动物和人类都处在动态平衡当中。 如果是这样的话，那么你就不应该沉湎于过去，而是着眼于未来的岁月…",
     "stage": 1,
     "context": "this.m.SuccessText = '[img]gfx/ui/events/event_56.png[/img]Having dispatched yet another band of beasts, you find yourself pondering the nature of your ancestors. Here you are, organized, armed and armored, world-traveled, experienced in matters of war and combat, and yet the monsters of this world still serve to be as dangerous as ever. Your ancestors, what did they have? No civilization to blanket themselves under, no cities to light the night and warm the courage, no maps to give a comforting border to the world. And yet... they survived. What was it? How? Perhaps, in those days, it was man who was the threat, and the beasts saw him the monster. Or perhaps there are times before the ancients, times of when they had their own cities, and all the world simply shifts in balance, beast and man, since time immemorial. And if that is the case, then it is not the past you should dwell on, but the days and years and millennia to come...'"
   },
@@ -27,8 +27,8 @@
     "ID": 293403332,
     "key": "Defeat packs of roving beasts",
     "original": "Defeat packs of roving beasts",
-    "translation": "击败流浪野兽群",
-    "stage": 5,
+    "translation": "击败流浪兽群",
+    "stage": 1,
     "context": "this.m.UIText = 'Defeat packs of roving beasts'"
   },
   {
