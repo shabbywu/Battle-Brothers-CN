@@ -283,7 +283,7 @@
     "ID": 293403813,
     "key": "the Golden Vulture",
     "original": "the Golden Vulture",
-    "translation": "·金秃鹫",
+    "translation": "·金雕",
     "stage": 1,
     "context": "'the Golden Vulture'"
   },
@@ -331,7 +331,7 @@
     "ID": 293403819,
     "key": "The Golden Vulture",
     "original": "The Golden Vulture",
-    "translation": "金秃鹫",
+    "translation": "金雕",
     "stage": 1,
     "context": "'The Golden Vulture'"
   },
@@ -515,7 +515,7 @@
     "ID": 293403842,
     "key": "The Living Mirage",
     "original": "The Living Mirage",
-    "translation": "活幻影",
+    "translation": "活蜃景",
     "stage": 1,
     "context": "'The Living Mirage'"
   },
@@ -2819,7 +2819,7 @@
     "ID": 293404130,
     "key": "the Living Mirage",
     "original": "the Living Mirage",
-    "translation": "·活幻影",
+    "translation": "·活蜃景",
     "stage": 1,
     "context": "'the Living Mirage'"
   },
@@ -3691,8 +3691,8 @@
     "ID": 293404239,
     "key": "The Manhunter",
     "original": "The Manhunter",
-    "translation": "猎奴者(The Manhunter)",
-    "stage": 5,
+    "translation": "猎奴者",
+    "stage": 1,
     "context": "'The Manhunter'"
   },
   {
@@ -6491,8 +6491,8 @@
     "ID": 293404589,
     "key": "the Vulture",
     "original": "the Vulture",
-    "translation": "秃鹫(the Curious)",
-    "stage": 5,
+    "translation": "·秃鹫",
+    "stage": 1,
     "context": "'the Vulture'"
   },
   {

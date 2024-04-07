@@ -99,8 +99,8 @@
     "ID": 293420760,
     "key": "the Vulture",
     "original": "the Vulture",
-    "translation": "秃鹫(the Curious)",
-    "stage": 5,
+    "translation": "秃鹫",
+    "stage": 1,
     "context": "'the Vulture'"
   },
   {

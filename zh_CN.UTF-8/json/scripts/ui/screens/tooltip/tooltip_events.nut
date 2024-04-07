@@ -595,7 +595,7 @@
     "ID": 293423027,
     "key": "The total amount of provisions you carry. The average man requires 2 provisions per day and more on difficult terrain. Your men will eat the provisions closest to expiring first. Running out of provisions will lower morale and will eventually lead to your",
     "original": "The total amount of provisions you carry. The average man requires 2 provisions per day and more on difficult terrain. Your men will eat the provisions closest to expiring first. Running out of provisions will lower morale and will eventually lead to your people deserting you before dying of starvation.\n\nYou use [color=",
-    "translation": "你携带的食物总量。 一般人每天需要2份食物，在困难的地形上需要更多。 你的人会先食用最接近过期的食物。 食物短缺会降低士气，最终导致你的人民在你饿死之前抛弃你。\n\n你消耗 [color=",
+    "translation": "你携带的食物总量。 一般人每天需要2份食物，在困难的地形上需要更多。 你的人会先食用最接近过期的食物。 食物短缺会降低士气，最终导致你的人在饿死之前抛弃你。\n\n你消耗 [color=",
     "stage": 1,
     "context": "text = 'The total amount of provisions you carry. The average man requires 2 provisions per day and more on difficult terrain. Your men will eat the provisions closest to expiring first. Running out of provisions will lower morale and will eventually lead to your people deserting you before dying of starvation.\n\nYou use [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyFood + '[/color] provisions per day.\n\n[color=' + this.Const.UI.Color.NegativeValue + ']You have no more provisions to feed your men! Buy new provisions as fast as possible or your men will desert you one by one before they starve![/color]'"
   },

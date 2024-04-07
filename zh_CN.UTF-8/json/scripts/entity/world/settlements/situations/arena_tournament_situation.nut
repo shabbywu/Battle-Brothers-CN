@@ -51,7 +51,7 @@
     "ID": 293411675,
     "key": "Tournament",
     "original": "Tournament",
-    "translation": "骑士比武",
+    "translation": "锦标赛",
     "stage": 1,
     "context": "this.m.Name = 'Tournament'"
   }
