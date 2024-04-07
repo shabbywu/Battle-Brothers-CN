@@ -1214,14 +1214,14 @@
         "total": 967,
         "translated": 967,
         "disputed": 0,
-        "checked": 76,
-        "reviewed": 76,
+        "checked": 74,
+        "reviewed": 74,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.288Z",
         "updatedAt": "2023-06-26T05:46:29.6Z",
-        "modifiedAt": "2024-04-02T08:01:22Z",
-        "sha256": "26aaa462b394555b64191cdc892d14bb9b45f1d599bc42ece4c2f179bccf0e18"
+        "modifiedAt": "2024-04-06T15:33:18Z",
+        "sha256": "8c582965e4aa9acfdbfc680f30f5ecde02a369dd207bc5eb0d4ea0e605c6def9"
     },
     "scripts/config/credits.json": {
         "id": 918414,
@@ -1706,8 +1706,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:55.4Z",
         "updatedAt": "2023-07-05T12:35:54.777Z",
-        "modifiedAt": "2024-04-01T04:27:54Z",
-        "sha256": "4a3073ffda6e1170d79fe0c30c4eb0af87b0a016cb77791754457e49e64832dd"
+        "modifiedAt": "2024-04-06T05:57:23Z",
+        "sha256": "00881c51e3a70fd4fc2f53fa7e2ca57b9582fe010fac09e7cd651ec5856690cb"
     },
     "scripts/contracts/contracts/destroy_goblin_camp_contract.json": {
         "id": 918441,
@@ -6404,8 +6404,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:42.766Z",
         "updatedAt": "2023-06-26T05:47:17.671Z",
-        "modifiedAt": "2024-01-23T01:45:35Z",
-        "sha256": "2189b148cb8df9d7f32df4c6e78bb6101e535c3cefe2d5e098b53671db4129be"
+        "modifiedAt": "2024-04-07T00:49:59Z",
+        "sha256": "f115f85b30a01536f66939a29e0f6c04431d4145fa4ff451f9b12338b520c400"
     },
     "scripts/entity/world/settlements/large_fishing_village.json": {
         "id": 918702,
@@ -6656,8 +6656,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:47.624Z",
         "updatedAt": "2023-06-26T05:47:20.267Z",
-        "modifiedAt": "2024-01-23T01:59:33Z",
-        "sha256": "0c9cf1c1a8bb9467a75a95501c0502e6f7edd06e566359df7e7ee7ed0c62b2d2"
+        "modifiedAt": "2024-04-07T00:50:21Z",
+        "sha256": "6e0c050300fe7eca761ff3b0b82cdc025dc8ff06fbb07056b599ed5a781db977"
     },
     "scripts/entity/world/settlements/medium_fishing_village.json": {
         "id": 918716,
@@ -6962,8 +6962,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:53.619Z",
         "updatedAt": "2023-06-26T05:47:22.426Z",
-        "modifiedAt": "2023-06-26T05:47:22Z",
-        "sha256": "184d2e1f4ca2a49f79fe54d6a3b93bf198b767d0ef8438e1ebd0b7dc604f38a9"
+        "modifiedAt": "2024-04-06T02:50:46Z",
+        "sha256": "b66106eaf76a1e1394c772e0c9321d3445b375ed812eca59535fe1e463bd1472"
     },
     "scripts/entity/world/settlements/situations/besieged_situation.json": {
         "id": 918733,
@@ -7754,8 +7754,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:09.122Z",
         "updatedAt": "2023-06-26T05:47:27.387Z",
-        "modifiedAt": "2024-01-23T01:59:33Z",
-        "sha256": "5dd8105233bcd9b591bca8af28c28bddb259651450931ff1d223198006d64d25"
+        "modifiedAt": "2024-04-07T00:50:21Z",
+        "sha256": "1bd9cfc609ab86f6cddea1f0fdae18824c6d6964be2a18b5687b4e08d80c1992"
     },
     "scripts/entity/world/settlements/small_fishing_village.json": {
         "id": 918777,
@@ -32516,14 +32516,14 @@
         "total": 14,
         "translated": 14,
         "disputed": 0,
-        "checked": 10,
-        "reviewed": 10,
+        "checked": 9,
+        "reviewed": 9,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:12.177Z",
         "updatedAt": "2023-06-26T05:49:23.749Z",
-        "modifiedAt": "2024-03-28T02:57:55Z",
-        "sha256": "01f644f132b6116e675cf42a0bd2f8223affe25050d4a420d55b2cf07dc95c5f"
+        "modifiedAt": "2024-04-06T04:40:45Z",
+        "sha256": "b9c06b360bc4a7d8b8a805b5e0bb61e2337349049a09791d5e3ff25615f13595"
     },
     "scripts/skills/backgrounds/apprentice_background.json": {
         "id": 920153,
@@ -32540,8 +32540,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:12.525Z",
         "updatedAt": "2023-06-26T05:49:23.827Z",
-        "modifiedAt": "2024-03-28T07:08:00Z",
-        "sha256": "edce6b6df519618841de5f4c7cafebfdff32db039bae790b5a12f8f7f8788eef"
+        "modifiedAt": "2024-04-06T09:44:47Z",
+        "sha256": "88ab1a97bfa6b098aadfea023e25c9c16860b630b0f50ab06336e25efcd03a86"
     },
     "scripts/skills/backgrounds/assassin_background.json": {
         "id": 920154,
@@ -39344,8 +39344,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:05.329Z",
         "updatedAt": "2023-07-05T12:36:11.027Z",
-        "modifiedAt": "2024-04-03T00:52:20Z",
-        "sha256": "b310c8b2c2104d1c124dc86716dc22d157f4c66ae8c38313c298ba653cdbbe63"
+        "modifiedAt": "2024-04-06T02:51:18Z",
+        "sha256": "51e56d26678e9905ed65d35f1f3b960a6f2b04ec356a1a60d88b8062c40b51c6"
     },
     "scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.json": {
         "id": 920532,
