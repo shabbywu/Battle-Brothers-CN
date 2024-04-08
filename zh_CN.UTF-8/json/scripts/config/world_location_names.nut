@@ -5003,7 +5003,7 @@
     "ID": 293407608,
     "key": "Langenthal",
     "original": "Langenthal",
-    "translation": "兰根塔尔",
+    "translation": "长延原",
     "stage": 1,
     "context": "'Langenthal'"
   },

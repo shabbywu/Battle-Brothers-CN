@@ -35,7 +35,7 @@
     "ID": 293419566,
     "key": "Raided ",
     "original": "Raided ",
-    "translation": "袭击 (Raided)",
+    "translation": "袭击",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Raided ' + this.Math.min(4, this.World.Statistics.getFlags().getAsInt('CaravansRaided')) + '/4 caravans'"
   }

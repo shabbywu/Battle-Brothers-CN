@@ -35,7 +35,7 @@
     "ID": 293422805,
     "key": " round",
     "original": " round",
-    "translation": "回合后",
+    "translation": "回合",
     "stage": 1,
     "context": "result.subTitle = 'You retreated after ' + rounds + ' round' + rounds > 1 ? 's' : ''"
   },

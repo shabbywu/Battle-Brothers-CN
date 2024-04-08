@@ -171,7 +171,7 @@
     "ID": 293411179,
     "key": "Langenburg",
     "original": "Langenburg",
-    "translation": "长伸堡",
+    "translation": "长延堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },

@@ -635,7 +635,7 @@
     "ID": 293410003,
     "key": "Siege ",
     "original": "Siege ",
-    "translation": "攻城战(Siege)",
+    "translation": "围攻",
     "stage": 1,
     "context": "this.m.Name = 'Siege ' + this.m.Origin.getName()"
   },

@@ -11,7 +11,7 @@
     "ID": 293411282,
     "key": "Dunkeltal",
     "original": "Dunkeltal",
-    "translation": "邓克塔尔",
+    "translation": "林翳谷",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -27,7 +27,7 @@
     "ID": 293411284,
     "key": "Dunkelwald",
     "original": "Dunkelwald",
-    "translation": "登科瓦尔德",
+    "translation": "林翳之森",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -35,7 +35,7 @@
     "ID": 293411285,
     "key": "Tannheim",
     "original": "Tannheim",
-    "translation": "坦海姆",
+    "translation": "杉林乡",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -59,7 +59,7 @@
     "ID": 293411288,
     "key": "Weilersheim",
     "original": "Weilersheim",
-    "translation": "魏勒斯海姆",
+    "translation": "小村乡",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -67,7 +67,7 @@
     "ID": 293411289,
     "key": "Eichholz",
     "original": "Eichholz",
-    "translation": "艾希霍尔兹",
+    "translation": "橡树林",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -75,7 +75,7 @@
     "ID": 293411290,
     "key": "Taubenmoos",
     "original": "Taubenmoos",
-    "translation": "陶本穆斯",
+    "translation": "空苔镇",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -83,15 +83,15 @@
     "ID": 293411291,
     "key": "Schwarzforst",
     "original": "Schwarzforst",
-    "translation": "漆黑森林",
-    "stage": 5,
+    "translation": "漆黑林",
+    "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
   {
     "ID": 293411292,
     "key": "Hirschbach",
     "original": "Hirschbach",
-    "translation": "希尔斯巴赫",
+    "translation": "马鹿溪",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -99,7 +99,7 @@
     "ID": 293411293,
     "key": "Westerholz",
     "original": "Westerholz",
-    "translation": "韦斯特霍尔兹",
+    "translation": "西风林",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -107,7 +107,7 @@
     "ID": 293411294,
     "key": "Filzmoos",
     "original": "Filzmoos",
-    "translation": "菲尔茨穆斯",
+    "translation": "毛苔镇",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -123,7 +123,7 @@
     "ID": 293411296,
     "key": "Neufarn",
     "original": "Neufarn",
-    "translation": "诺伊法恩",
+    "translation": "新蕨镇",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -139,7 +139,7 @@
     "ID": 293411298,
     "key": "Damwald",
     "original": "Damwald",
-    "translation": "丹瓦尔德",
+    "translation": "林坝镇",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -147,7 +147,7 @@
     "ID": 293411299,
     "key": "Grunforst",
     "original": "Grunforst",
-    "translation": "格伦福斯特",
+    "translation": "绿林镇",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -155,7 +155,7 @@
     "ID": 293411300,
     "key": "Hagermoos",
     "original": "Hagermoos",
-    "translation": "哈格穆斯",
+    "translation": "沙洲苔",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -163,7 +163,7 @@
     "ID": 293411301,
     "key": "Langholz",
     "original": "Langholz",
-    "translation": "朗霍尔兹",
+    "translation": "长林镇",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -171,7 +171,7 @@
     "ID": 293411302,
     "key": "Finsterwalde",
     "original": "Finsterwalde",
-    "translation": "芬斯特瓦尔德",
+    "translation": "幽林森",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -179,7 +179,7 @@
     "ID": 293411303,
     "key": "Finsterweiler",
     "original": "Finsterweiler",
-    "translation": "芬斯特魏勒",
+    "translation": "幽林乡",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -187,7 +187,7 @@
     "ID": 293411304,
     "key": "Waldhain",
     "original": "Waldhain",
-    "translation": "瓦尔德海因",
+    "translation": "密林森",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -195,7 +195,7 @@
     "ID": 293411305,
     "key": "Tiefenforst",
     "original": "Tiefenforst",
-    "translation": "蒂芬福斯特",
+    "translation": "洼林镇",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -203,7 +203,7 @@
     "ID": 293411306,
     "key": "Grossholz",
     "original": "Grossholz",
-    "translation": "格罗斯霍尔茨",
+    "translation": "广林镇",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -211,7 +211,7 @@
     "ID": 293411307,
     "key": "Nordholz",
     "original": "Nordholz",
-    "translation": "诺德霍尔兹",
+    "translation": "北林镇",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -219,7 +219,7 @@
     "ID": 293411308,
     "key": "Friedewald",
     "original": "Friedewald",
-    "translation": "弗里德瓦尔德",
+    "translation": "平和林",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -227,7 +227,7 @@
     "ID": 293411309,
     "key": "Tannenweiler",
     "original": "Tannenweiler",
-    "translation": "坦嫩韦勒",
+    "translation": "杉林乡",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -243,7 +243,7 @@
     "ID": 293411311,
     "key": "Eichendorf",
     "original": "Eichendorf",
-    "translation": "艾森多夫",
+    "translation": "橡树镇",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -251,7 +251,7 @@
     "ID": 293411312,
     "key": "Tanndorf",
     "original": "Tanndorf",
-    "translation": "坦多夫",
+    "translation": "杉树乡",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -259,7 +259,7 @@
     "ID": 293411313,
     "key": "Talbach",
     "original": "Talbach",
-    "translation": "塔尔巴赫",
+    "translation": "溪谷镇",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },
@@ -267,7 +267,7 @@
     "ID": 293411314,
     "key": "Holzschlag",
     "original": "Holzschlag",
-    "translation": "材木耕地",
+    "translation": "林耕地",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   }
