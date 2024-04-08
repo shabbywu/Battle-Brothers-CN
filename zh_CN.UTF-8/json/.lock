@@ -1418,8 +1418,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:46.237Z",
         "updatedAt": "2023-06-26T05:46:36.564Z",
-        "modifiedAt": "2024-03-15T04:04:28Z",
-        "sha256": "9cb10840e8e6d5c539f804a87020c1188cb480bd50aed712cdaa1d2ee2b56e8b"
+        "modifiedAt": "2024-04-07T01:20:19Z",
+        "sha256": "59f0ab3044db675fd1ee76faeb5d3d3c4777a599e42ec3f6a32d15f6d0616831"
     },
     "scripts/contracts/contract.json": {
         "id": 918425,
@@ -2318,8 +2318,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:11.523Z",
         "updatedAt": "2023-06-26T05:46:52.95Z",
-        "modifiedAt": "2023-06-26T12:55:56Z",
-        "sha256": "a89acce595efbe1cc5e1d1ce7bf30dcc498aa847f911110dd84b87702fe26a38"
+        "modifiedAt": "2024-04-07T12:53:45Z",
+        "sha256": "ee5bdef32e7c09bcb4459401b04f84ce18aa229e4d106f51c077e0f1e8f9c998"
     },
     "scripts/contracts/contracts/slave_uprising_contract.json": {
         "id": 918475,
@@ -6458,8 +6458,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:43.785Z",
         "updatedAt": "2023-06-26T05:47:18.157Z",
-        "modifiedAt": "2024-01-23T02:59:17Z",
-        "sha256": "8d4d8b6d9d4f288b1d656e075fcb09a27eb7f3a1058cb2ddbec7e1e16cbef17f"
+        "modifiedAt": "2024-04-07T00:59:06Z",
+        "sha256": "9633d90478dd187cfe3c23bbdbfc456c5c5510edc92edc8ffbb2b220220d8a4d"
     },
     "scripts/entity/world/settlements/large_mountains_fort.json": {
         "id": 918705,
@@ -6638,8 +6638,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:47.243Z",
         "updatedAt": "2023-06-26T05:47:20.038Z",
-        "modifiedAt": "2024-01-23T00:44:15Z",
-        "sha256": "fc87085e2559055b380156e5791b5a047103711d00c55fd2c5388e254d3ab2a8"
+        "modifiedAt": "2024-04-07T01:20:21Z",
+        "sha256": "5daa1a89152c108c179054f87fe425f66aeee8097aeb838836019cc7b52a5241"
     },
     "scripts/entity/world/settlements/medium_farming_village.json": {
         "id": 918715,
@@ -6704,14 +6704,14 @@
         "total": 34,
         "translated": 34,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:48.712Z",
         "updatedAt": "2023-06-26T05:47:20.718Z",
-        "modifiedAt": "2024-01-23T03:00:14Z",
-        "sha256": "3a3b70f9c73624ba4c386f29bd7e1b1a5d90c263f7c5308cee2ed7462ec823fc"
+        "modifiedAt": "2024-04-07T01:30:54Z",
+        "sha256": "7b932a0662de45a1bdb30aa0c2e3256db13a621090eb4d382a5dc5b2a782f05e"
     },
     "scripts/entity/world/settlements/medium_mining_village.json": {
         "id": 918719,
@@ -7754,8 +7754,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:09.122Z",
         "updatedAt": "2023-06-26T05:47:27.387Z",
-        "modifiedAt": "2024-04-07T00:50:21Z",
-        "sha256": "1bd9cfc609ab86f6cddea1f0fdae18824c6d6964be2a18b5687b4e08d80c1992"
+        "modifiedAt": "2024-04-07T01:30:06Z",
+        "sha256": "a915515d2c166c919465c10a071be44f8b8d379b350c4f8ae43b293b5048cc6e"
     },
     "scripts/entity/world/settlements/small_fishing_village.json": {
         "id": 918777,
@@ -7802,14 +7802,14 @@
         "total": 41,
         "translated": 41,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 1,
         "createdAt": "2023-05-13T14:20:10.201Z",
         "updatedAt": "2023-06-26T05:47:28.492Z",
-        "modifiedAt": "2024-01-23T03:00:14Z",
-        "sha256": "a681a26c08b866dd4f5271b3c23a6e28974c16ca4645de5aea31052c771d3991"
+        "modifiedAt": "2024-04-07T01:30:54Z",
+        "sha256": "9c4bebdd6e64cfe8507e94b0abb452c214027c20537745a0865c071f4cceb434"
     },
     "scripts/entity/world/settlements/small_mining_village.json": {
         "id": 918780,
@@ -28904,8 +28904,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:37.052Z",
         "updatedAt": "2023-06-26T05:49:10.433Z",
-        "modifiedAt": "2023-06-26T05:49:10Z",
-        "sha256": "ae38261a2aefa493900203c682aec42edd5b875031394d6ae7a157d67319fac8"
+        "modifiedAt": "2024-04-07T15:47:00Z",
+        "sha256": "5f301b9277f057677c64b321d0685444c87aa597aa9fc94e12f95ab2e79e7f12"
     },
     "scripts/retinue/followers/cartographer_follower.json": {
         "id": 919952,
@@ -39218,8 +39218,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:02.634Z",
         "updatedAt": "2023-06-26T05:49:52.342Z",
-        "modifiedAt": "2024-01-10T02:57:33Z",
-        "sha256": "273e16ef23be34aeba88cbe3a8a725cc3a79d68cab7b8301c893a2a438ecdd48"
+        "modifiedAt": "2024-04-07T13:06:27Z",
+        "sha256": "d52e79356f68d7293b2306ceb395ce44c01ea6a4fa6ec1d673fbfc1563bab7d4"
     },
     "scripts/states/world/asset_manager.json": {
         "id": 920525,

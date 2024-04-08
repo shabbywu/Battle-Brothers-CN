@@ -11,7 +11,7 @@
     "ID": 293412001,
     "key": "Hufschlag",
     "original": "Hufschlag",
-    "translation": "胡夫斯拉格",
+    "translation": "蹄耕地",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Weidenau','Schnellen','Neudorf','Freidorf','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Durbach','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld','Neuenried','Auenbach','Adelshofen','Allersdorf','Brunnendorf','Ochsenhausen','Weingarten','Konigsfeld','Rosenhof','Weidenbach'])"
   },
