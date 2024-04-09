@@ -11,7 +11,7 @@
     "ID": 293413079,
     "key": "the Honorable",
     "original": "the Honorable",
-    "translation": "尊者(the Honorable)",
+    "translation": "高尚者",
     "stage": 1,
     "context": "_event.m.Dude.setTitle('the Honorable')"
   },
