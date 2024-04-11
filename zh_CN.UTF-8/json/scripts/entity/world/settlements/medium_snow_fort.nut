@@ -3,7 +3,7 @@
     "ID": 293411377,
     "key": "Gunnholm",
     "original": "Gunnholm",
-    "translation": "冈霍姆",
+    "translation": "战士乡",
     "stage": 1,
     "context": "this.getRandomName(['Tonderhovel','Horngard','Grimhaug','Hellehovel','Kalkhovel','Lydersgard','Homsgard','Sommersholm','Brammingholm','Vardegard','Norreholm','Birkehovel','Donnersgard','Tanghaug','Helvikholm','Torvaholm','Skjoldgard','Eidsvikholm','Halshovel','Gerholm','Gunnholm','Asengard','Hammargard','Vikeholm','Skandergard','Gunhall','Asaholm','Grimmarsholm','Hjalsgard','Kungenshovel','Wallhovel'])"
   },
@@ -19,7 +19,7 @@
     "ID": 293411379,
     "key": "Torvaholm",
     "original": "Torvaholm",
-    "translation": "托尔瓦霍尔姆",
+    "translation": "泥炭乡",
     "stage": 1,
     "context": "this.getRandomName(['Tonderhovel','Horngard','Grimhaug','Hellehovel','Kalkhovel','Lydersgard','Homsgard','Sommersholm','Brammingholm','Vardegard','Norreholm','Birkehovel','Donnersgard','Tanghaug','Helvikholm','Torvaholm','Skjoldgard','Eidsvikholm','Halshovel','Gerholm','Gunnholm','Asengard','Hammargard','Vikeholm','Skandergard','Gunhall','Asaholm','Grimmarsholm','Hjalsgard','Kungenshovel','Wallhovel'])"
   },
@@ -91,7 +91,7 @@
     "ID": 293411388,
     "key": "Norreholm",
     "original": "Norreholm",
-    "translation": "诺雷霍尔姆",
+    "translation": "硬地乡",
     "stage": 1,
     "context": "this.getRandomName(['Tonderhovel','Horngard','Grimhaug','Hellehovel','Kalkhovel','Lydersgard','Homsgard','Sommersholm','Brammingholm','Vardegard','Norreholm','Birkehovel','Donnersgard','Tanghaug','Helvikholm','Torvaholm','Skjoldgard','Eidsvikholm','Halshovel','Gerholm','Gunnholm','Asengard','Hammargard','Vikeholm','Skandergard','Gunhall','Asaholm','Grimmarsholm','Hjalsgard','Kungenshovel','Wallhovel'])"
   },
@@ -99,7 +99,7 @@
     "ID": 293411389,
     "key": "Asaholm",
     "original": "Asaholm",
-    "translation": "阿萨霍尔姆",
+    "translation": "诸神乡",
     "stage": 1,
     "context": "this.getRandomName(['Tonderhovel','Horngard','Grimhaug','Hellehovel','Kalkhovel','Lydersgard','Homsgard','Sommersholm','Brammingholm','Vardegard','Norreholm','Birkehovel','Donnersgard','Tanghaug','Helvikholm','Torvaholm','Skjoldgard','Eidsvikholm','Halshovel','Gerholm','Gunnholm','Asengard','Hammargard','Vikeholm','Skandergard','Gunhall','Asaholm','Grimmarsholm','Hjalsgard','Kungenshovel','Wallhovel'])"
   },

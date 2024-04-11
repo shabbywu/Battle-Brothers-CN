@@ -83,7 +83,7 @@
     "ID": 293411168,
     "key": "Friedland",
     "original": "Friedland",
-    "translation": "平和之地",
+    "translation": "宁安坪",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },

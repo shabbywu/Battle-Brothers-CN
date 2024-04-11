@@ -11,7 +11,7 @@
     "ID": 293411316,
     "key": "Hochgrube",
     "original": "Hochgrube",
-    "translation": "霍赫格鲁贝",
+    "translation": "矿顶镇",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -19,7 +19,7 @@
     "ID": 293411317,
     "key": "Kahlengrube",
     "original": "Kahlengrube",
-    "translation": "卡伦古尔贝",
+    "translation": "秃矿镇",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -27,7 +27,7 @@
     "ID": 293411318,
     "key": "Trogenschacht",
     "original": "Trogenschacht",
-    "translation": "特罗根沙赫特",
+    "translation": "长井镇",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -35,7 +35,7 @@
     "ID": 293411319,
     "key": "Schachtheim",
     "original": "Schachtheim",
-    "translation": "沙赫特海姆",
+    "translation": "井矿乡",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -43,7 +43,7 @@
     "ID": 293411320,
     "key": "Erzheim",
     "original": "Erzheim",
-    "translation": "艾尔茨海姆",
+    "translation": "铁矿乡",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -51,7 +51,7 @@
     "ID": 293411321,
     "key": "Erzgrube",
     "original": "Erzgrube",
-    "translation": "铁矿坑",
+    "translation": "铁矿镇",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -67,7 +67,7 @@
     "ID": 293411323,
     "key": "Gemmenschacht",
     "original": "Gemmenschacht",
-    "translation": "基因矿井",
+    "translation": "宝井镇",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -75,7 +75,7 @@
     "ID": 293411324,
     "key": "Hohenbruch",
     "original": "Hohenbruch",
-    "translation": "霍恩布鲁赫",
+    "translation": "裂山镇",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -83,7 +83,7 @@
     "ID": 293411325,
     "key": "Adlerstollen",
     "original": "Adlerstollen",
-    "translation": "鹰巢矿井",
+    "translation": "鹰巢井",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -91,7 +91,7 @@
     "ID": 293411326,
     "key": "Erzbruch",
     "original": "Erzbruch",
-    "translation": "埃尔兹布鲁赫",
+    "translation": "铁裂镇",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -99,7 +99,7 @@
     "ID": 293411327,
     "key": "Grafenschacht",
     "original": "Grafenschacht",
-    "translation": "格拉芬沙赫特",
+    "translation": "擢爵井",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -115,7 +115,7 @@
     "ID": 293411329,
     "key": "Goldbruch",
     "original": "Goldbruch",
-    "translation": "戈尔德布鲁赫",
+    "translation": "金裂镇",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -131,7 +131,7 @@
     "ID": 293411331,
     "key": "Erzfels",
     "original": "Erzfels",
-    "translation": "埃尔茨菲尔斯",
+    "translation": "铁矿岩",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -139,7 +139,7 @@
     "ID": 293411332,
     "key": "Schneefels",
     "original": "Schneefels",
-    "translation": "雪菲尔斯",
+    "translation": "雪岩镇",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -147,7 +147,7 @@
     "ID": 293411333,
     "key": "Weissenschacht",
     "original": "Weissenschacht",
-    "translation": "魏森沙赫特",
+    "translation": "白井镇",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -155,7 +155,7 @@
     "ID": 293411334,
     "key": "Salzfels",
     "original": "Salzfels",
-    "translation": "萨尔茨菲尔斯",
+    "translation": "盐石镇",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -163,7 +163,7 @@
     "ID": 293411335,
     "key": "Wolkenstein",
     "original": "Wolkenstein",
-    "translation": "沃尔肯斯坦",
+    "translation": "云岩镇",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -171,23 +171,23 @@
     "ID": 293411336,
     "key": "Eisenberg",
     "original": "Eisenberg",
-    "translation": "铁矿丘",
-    "stage": 5,
+    "translation": "铁石丘",
+    "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
   {
     "ID": 293411337,
     "key": "Havelberg",
     "original": "Havelberg",
-    "translation": "哈弗尔丘",
-    "stage": 5,
+    "translation": "哈弗陵",
+    "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
   {
     "ID": 293411338,
     "key": "Ellengrube",
     "original": "Ellengrube",
-    "translation": "艾伦格鲁贝",
+    "translation": "浅矿镇",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -211,7 +211,7 @@
     "ID": 293411341,
     "key": "Hammererden",
     "original": "Hammererden",
-    "translation": "海默尔顿",
+    "translation": "镐锤镇",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -219,7 +219,7 @@
     "ID": 293411342,
     "key": "Eisenheim",
     "original": "Eisenheim",
-    "translation": "艾森海姆",
+    "translation": "铁石乡",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -227,7 +227,7 @@
     "ID": 293411343,
     "key": "Schmelzheim",
     "original": "Schmelzheim",
-    "translation": "舒梅尔兹海姆",
+    "translation": "珐琅乡",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -235,7 +235,7 @@
     "ID": 293411344,
     "key": "Goldstein",
     "original": "Goldstein",
-    "translation": "戈尔德斯坦",
+    "translation": "金石镇",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -243,7 +243,7 @@
     "ID": 293411345,
     "key": "Grubenheim",
     "original": "Grubenheim",
-    "translation": "格鲁本海姆",
+    "translation": "矿山乡",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
@@ -251,16 +251,16 @@
     "ID": 293411346,
     "key": "Gemmenstein",
     "original": "Gemmenstein",
-    "translation": "宝石村",
-    "stage": 5,
+    "translation": "宝石镇",
+    "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
   {
     "ID": 293411347,
     "key": "Erzberg",
     "original": "Erzberg",
-    "translation": "矿丘",
-    "stage": 5,
+    "translation": "铁陵",
+    "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   }
 ]

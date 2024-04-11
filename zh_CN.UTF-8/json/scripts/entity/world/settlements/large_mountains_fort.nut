@@ -91,7 +91,7 @@
     "ID": 293410901,
     "key": "Brunwald",
     "original": "Brunwald",
-    "translation": "棕色林地",
+    "translation": "棕林堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenfeste','Wolfenfeste','Wolfenstein','Felsfeste','Eisenfeste','Grollfeste','Grubenfeste','Donnerfeste','Erzfeste','Gronenfeste','Sattelfeste','Kammfeste','Turmfeste','Windfeste','Adlerfeste','Brunwald','Heldenfeste','Wurmfeste','Schwertfeste','Lanzenfeste','Falkenstein','Flechtenstein','Himmelsfeste','Steinturm','Gipfelfeste','Zugfeste','Granitfeste','Zinnenfeste','Wackersfeste','Fernsichtfeste','Wildbergfeste'])"
   },
@@ -251,7 +251,7 @@
     "ID": 293410921,
     "key": "Sattelfeste",
     "original": "Sattelfeste",
-    "translation": "鞍座要塞",
+    "translation": "山鞍要塞",
     "stage": 1,
     "context": "this.getRandomName(['Hohenfeste','Wolfenfeste','Wolfenstein','Felsfeste','Eisenfeste','Grollfeste','Grubenfeste','Donnerfeste','Erzfeste','Gronenfeste','Sattelfeste','Kammfeste','Turmfeste','Windfeste','Adlerfeste','Brunwald','Heldenfeste','Wurmfeste','Schwertfeste','Lanzenfeste','Falkenstein','Flechtenstein','Himmelsfeste','Steinturm','Gipfelfeste','Zugfeste','Granitfeste','Zinnenfeste','Wackersfeste','Fernsichtfeste','Wildbergfeste'])"
   },
