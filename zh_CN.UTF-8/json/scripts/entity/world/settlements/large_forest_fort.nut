@@ -35,7 +35,7 @@
     "ID": 293410838,
     "key": "Fichtenwall",
     "original": "Fichtenwall",
-    "translation": "云杉墙垒",
+    "translation": "云杉垒",
     "stage": 1,
     "context": "this.getRandomName(['Waldfeste','Tannenfeste','Schlangenfeste','Hainfeste','Dunkelfeste','Finsterfeste','Eichfeste','Eibenfeste','Waidfeste','Eulenfeste','Eberfeste','Fahrnfeste','Moosfeste','Forstfeste','Dusterfeste','Dornfeste','Grunfeste','Falkenfeste','Salamanderfeste','Lerchenfeste','Laubfeste','Erlenfeste','Nadelfeste','Waldachfeste','Hornfeste','Klarbachfeste','Eisbachfeste','Fichtenwall'])"
   },

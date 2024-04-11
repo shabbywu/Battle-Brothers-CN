@@ -2619,7 +2619,7 @@
     "ID": 293407310,
     "key": "Hammererden",
     "original": "Hammererden",
-    "translation": "海默尔顿",
+    "translation": "矿锤坪",
     "stage": 1,
     "context": "'Hammererden'"
   },

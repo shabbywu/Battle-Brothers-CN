@@ -11,7 +11,7 @@
     "ID": 293412189,
     "key": "Hochwall",
     "original": "Hochwall",
-    "translation": "霍赫沃尔",
+    "translation": "峰顶垒",
     "stage": 1,
     "context": "this.getRandomName(['Wallstein','Hohenwacht','Steinberg','Wolfswall','Felswall','Steinwacht','Eisenwall','Jaderwall','Hohenschanze','Wallheim','Gronenwall','Thalwacht','Schanzberg','Windwacht','Turmwacht','Felswacht','Hohenturm','Adlerwacht','Scharfenstein','Oberwallheim','Hochwall','Bergwall','Finkenwacht','Greifenwall','Himmelswacht'])"
   },
@@ -59,7 +59,7 @@
     "ID": 293412195,
     "key": "Felswall",
     "original": "Felswall",
-    "translation": "费尔斯沃尔",
+    "translation": "坚岩垒",
     "stage": 1,
     "context": "this.getRandomName(['Wallstein','Hohenwacht','Steinberg','Wolfswall','Felswall','Steinwacht','Eisenwall','Jaderwall','Hohenschanze','Wallheim','Gronenwall','Thalwacht','Schanzberg','Windwacht','Turmwacht','Felswacht','Hohenturm','Adlerwacht','Scharfenstein','Oberwallheim','Hochwall','Bergwall','Finkenwacht','Greifenwall','Himmelswacht'])"
   },
@@ -99,7 +99,7 @@
     "ID": 293412200,
     "key": "Hohenturm",
     "original": "Hohenturm",
-    "translation": "霍亨图姆",
+    "translation": "峻山塔",
     "stage": 1,
     "context": "this.getRandomName(['Wallstein','Hohenwacht','Steinberg','Wolfswall','Felswall','Steinwacht','Eisenwall','Jaderwall','Hohenschanze','Wallheim','Gronenwall','Thalwacht','Schanzberg','Windwacht','Turmwacht','Felswacht','Hohenturm','Adlerwacht','Scharfenstein','Oberwallheim','Hochwall','Bergwall','Finkenwacht','Greifenwall','Himmelswacht'])"
   },
@@ -115,7 +115,7 @@
     "ID": 293412202,
     "key": "Felswacht",
     "original": "Felswacht",
-    "translation": "菲尔斯瓦赫特",
+    "translation": "坚岩岗",
     "stage": 1,
     "context": "this.getRandomName(['Wallstein','Hohenwacht','Steinberg','Wolfswall','Felswall','Steinwacht','Eisenwall','Jaderwall','Hohenschanze','Wallheim','Gronenwall','Thalwacht','Schanzberg','Windwacht','Turmwacht','Felswacht','Hohenturm','Adlerwacht','Scharfenstein','Oberwallheim','Hochwall','Bergwall','Finkenwacht','Greifenwall','Himmelswacht'])"
   },
@@ -123,7 +123,7 @@
     "ID": 293412203,
     "key": "Scharfenstein",
     "original": "Scharfenstein",
-    "translation": "沙芬斯坦",
+    "translation": "尖石卫",
     "stage": 1,
     "context": "this.getRandomName(['Wallstein','Hohenwacht','Steinberg','Wolfswall','Felswall','Steinwacht','Eisenwall','Jaderwall','Hohenschanze','Wallheim','Gronenwall','Thalwacht','Schanzberg','Windwacht','Turmwacht','Felswacht','Hohenturm','Adlerwacht','Scharfenstein','Oberwallheim','Hochwall','Bergwall','Finkenwacht','Greifenwall','Himmelswacht'])"
   },
@@ -139,7 +139,7 @@
     "ID": 293412205,
     "key": "Gronenwall",
     "original": "Gronenwall",
-    "translation": "格罗南沃尔",
+    "translation": "萌绿垒",
     "stage": 1,
     "context": "this.getRandomName(['Wallstein','Hohenwacht','Steinberg','Wolfswall','Felswall','Steinwacht','Eisenwall','Jaderwall','Hohenschanze','Wallheim','Gronenwall','Thalwacht','Schanzberg','Windwacht','Turmwacht','Felswacht','Hohenturm','Adlerwacht','Scharfenstein','Oberwallheim','Hochwall','Bergwall','Finkenwacht','Greifenwall','Himmelswacht'])"
   },
@@ -171,7 +171,7 @@
     "ID": 293412209,
     "key": "Thalwacht",
     "original": "Thalwacht",
-    "translation": "萨瓦赫特",
+    "translation": "树海岗",
     "stage": 1,
     "context": "this.getRandomName(['Wallstein','Hohenwacht','Steinberg','Wolfswall','Felswall','Steinwacht','Eisenwall','Jaderwall','Hohenschanze','Wallheim','Gronenwall','Thalwacht','Schanzberg','Windwacht','Turmwacht','Felswacht','Hohenturm','Adlerwacht','Scharfenstein','Oberwallheim','Hochwall','Bergwall','Finkenwacht','Greifenwall','Himmelswacht'])"
   },
@@ -179,7 +179,7 @@
     "ID": 293412210,
     "key": "Hohenwacht",
     "original": "Hohenwacht",
-    "translation": "霍恩瓦赫特",
+    "translation": "峻山岗",
     "stage": 1,
     "context": "this.getRandomName(['Wallstein','Hohenwacht','Steinberg','Wolfswall','Felswall','Steinwacht','Eisenwall','Jaderwall','Hohenschanze','Wallheim','Gronenwall','Thalwacht','Schanzberg','Windwacht','Turmwacht','Felswacht','Hohenturm','Adlerwacht','Scharfenstein','Oberwallheim','Hochwall','Bergwall','Finkenwacht','Greifenwall','Himmelswacht'])"
   },

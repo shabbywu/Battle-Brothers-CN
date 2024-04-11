@@ -11,7 +11,7 @@
     "ID": 293411476,
     "key": "Sandfels",
     "original": "Sandfels",
-    "translation": "桑德菲尔兹",
+    "translation": "沙岩乡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Strauchdorf','Kargau','Attendorn','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -203,7 +203,7 @@
     "ID": 293411500,
     "key": "Sonnfels",
     "original": "Sonnfels",
-    "translation": "松费尔斯",
+    "translation": "照日岩",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Strauchdorf','Kargau','Attendorn','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },

@@ -27,7 +27,7 @@
     "ID": 293410815,
     "key": "Nieweland",
     "original": "Nieweland",
-    "translation": "新地镇",
+    "translation": "新地坪",
     "stage": 1,
     "context": "this.getRandomName(['Seestadt','Wikstadt','Konigshaven','Grafenhaven','Holnisland','Nieweland','Kampstadt','Krakenland','Blankenstadt','Harkenstadt','Tiefenstadt','Weissenstadt','Kobmanhaven','Grotenhaven','Konigswasser','Konigsmunde','Kronenkoog','Steinkai','Deichstadt'])"
   },
@@ -163,7 +163,7 @@
     "ID": 293410832,
     "key": "Holnisland",
     "original": "Holnisland",
-    "translation": "冻鱼之地",
+    "translation": "冻鱼坪",
     "stage": 1,
     "context": "this.getRandomName(['Seestadt','Wikstadt','Konigshaven','Grafenhaven','Holnisland','Nieweland','Kampstadt','Krakenland','Blankenstadt','Harkenstadt','Tiefenstadt','Weissenstadt','Kobmanhaven','Grotenhaven','Konigswasser','Konigsmunde','Kronenkoog','Steinkai','Deichstadt'])"
   },

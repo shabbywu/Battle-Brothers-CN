@@ -3,7 +3,7 @@
     "ID": 293411348,
     "key": "Hohenburg",
     "original": "Hohenburg",
-    "translation": "霍恩堡",
+    "translation": "高山堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -11,7 +11,7 @@
     "ID": 293411349,
     "key": "Gemmenburg",
     "original": "Gemmenburg",
-    "translation": "格梅恩堡",
+    "translation": "原石堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -27,7 +27,7 @@
     "ID": 293411351,
     "key": "Wurmburg",
     "original": "Wurmburg",
-    "translation": "温堡",
+    "translation": "蠕龙堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -35,7 +35,7 @@
     "ID": 293411352,
     "key": "Scharfenburg",
     "original": "Scharfenburg",
-    "translation": "沙芬堡",
+    "translation": "尖石堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -59,7 +59,7 @@
     "ID": 293411355,
     "key": "Hochburg",
     "original": "Hochburg",
-    "translation": "霍赫堡",
+    "translation": "峰顶堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -67,7 +67,7 @@
     "ID": 293411356,
     "key": "Gronenburg",
     "original": "Gronenburg",
-    "translation": "格罗伦堡",
+    "translation": "萌绿堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -75,7 +75,7 @@
     "ID": 293411357,
     "key": "Sattelburg",
     "original": "Sattelburg",
-    "translation": "萨特尔堡",
+    "translation": "山鞍堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -83,7 +83,7 @@
     "ID": 293411358,
     "key": "Windburg",
     "original": "Windburg",
-    "translation": "温德堡",
+    "translation": "拂风堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -91,7 +91,7 @@
     "ID": 293411359,
     "key": "Granitschanze",
     "original": "Granitschanze",
-    "translation": "花岗岩砦",
+    "translation": "花岗砦",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -107,7 +107,7 @@
     "ID": 293411361,
     "key": "Wolkenburg",
     "original": "Wolkenburg",
-    "translation": "沃尔肯堡",
+    "translation": "云堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -115,7 +115,7 @@
     "ID": 293411362,
     "key": "Brunwald",
     "original": "Brunwald",
-    "translation": "布伦沃德",
+    "translation": "棕林堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -123,7 +123,7 @@
     "ID": 293411363,
     "key": "Erzburg",
     "original": "Erzburg",
-    "translation": "艾尔茨堡",
+    "translation": "铁石堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -155,7 +155,7 @@
     "ID": 293411367,
     "key": "Adlerburg",
     "original": "Adlerburg",
-    "translation": "阿德勒堡",
+    "translation": "老鹰堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -171,7 +171,7 @@
     "ID": 293411369,
     "key": "Lanzenburg",
     "original": "Lanzenburg",
-    "translation": "兰岑堡",
+    "translation": "枪刺堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -179,7 +179,7 @@
     "ID": 293411370,
     "key": "Eisenburg",
     "original": "Eisenburg",
-    "translation": "艾森堡",
+    "translation": "钢铁堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -187,7 +187,7 @@
     "ID": 293411371,
     "key": "Windfall",
     "original": "Windfall",
-    "translation": "意外之财",
+    "translation": "落风堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -195,7 +195,7 @@
     "ID": 293411372,
     "key": "Wolfenstein",
     "original": "Wolfenstein",
-    "translation": "沃尔芬斯坦",
+    "translation": "狼居石",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -203,7 +203,7 @@
     "ID": 293411373,
     "key": "Hohenstein",
     "original": "Hohenstein",
-    "translation": "霍恩斯泰因",
+    "translation": "石山卫",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -211,7 +211,7 @@
     "ID": 293411374,
     "key": "Wolfenburg",
     "original": "Wolfenburg",
-    "translation": "沃尔芬堡",
+    "translation": "狼居堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -219,7 +219,7 @@
     "ID": 293411375,
     "key": "Thalburg",
     "original": "Thalburg",
-    "translation": "萨尔堡",
+    "translation": "树海堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },
@@ -227,7 +227,7 @@
     "ID": 293411376,
     "key": "Felsburg",
     "original": "Felsburg",
-    "translation": "费尔斯堡",
+    "translation": "坚岩堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   }

@@ -99,7 +99,7 @@
     "ID": 293411029,
     "key": "Brunnenland",
     "original": "Brunnenland",
-    "translation": "打井之地",
+    "translation": "打井坪",
     "stage": 1,
     "context": "this.getRandomName(['Wunderstadt','Wohlstadt','Brunnstadt','Erlstadt','Himmelstadt','Sandstadt','Dornen','Rothstadt','Gelbstadt','Krautmark','Suderstadt','Sonstadt','Strohmark','Sandmark','Sonnmark','Grafenschein','Hellstadt','Lichtmark','Dornland','Rothenmark','Brunnenland'])"
   },
@@ -155,7 +155,7 @@
     "ID": 293411036,
     "key": "Dornland",
     "original": "Dornland",
-    "translation": "荆棘之地",
+    "translation": "荆棘坪",
     "stage": 1,
     "context": "this.getRandomName(['Wunderstadt','Wohlstadt','Brunnstadt','Erlstadt','Himmelstadt','Sandstadt','Dornen','Rothstadt','Gelbstadt','Krautmark','Suderstadt','Sonstadt','Strohmark','Sandmark','Sonnmark','Grafenschein','Hellstadt','Lichtmark','Dornland','Rothenmark','Brunnenland'])"
   },
