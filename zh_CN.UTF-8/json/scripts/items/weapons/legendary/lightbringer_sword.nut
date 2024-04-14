@@ -19,8 +19,8 @@
     "ID": 293419210,
     "key": "Reproach of the Old Gods",
     "original": "Reproach of the Old Gods",
-    "translation": "古神之耻",
-    "stage": 5,
+    "translation": "旧神之叱",
+    "stage": 1,
     "context": "this.m.Name = 'Reproach of the Old Gods'"
   },
   {

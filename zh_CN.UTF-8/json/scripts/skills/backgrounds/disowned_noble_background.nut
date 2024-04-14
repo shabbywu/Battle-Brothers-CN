@@ -35,8 +35,8 @@
     "ID": 293420943,
     "key": "the Disgraced",
     "original": "the Disgraced",
-    "translation": "遭贬谪者(the Disgraced)",
-    "stage": 5,
+    "translation": "受辱者",
+    "stage": 1,
     "context": "'the Disgraced'"
   },
   {
