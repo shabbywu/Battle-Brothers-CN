@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-03-29T15:10:49Z",
-        "sha256": "470126c62303e9abb89419170b174cc4f6db791a3953e42eb52c37a06345a337"
+        "modifiedAt": "2024-04-13T01:10:40Z",
+        "sha256": "489764dc539fa84a3521f42b313fb06432798493cd9a1428dba84126782ab820"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -10148,8 +10148,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:04Z",
         "updatedAt": "2023-07-05T12:36:00.241Z",
-        "modifiedAt": "2023-07-05T13:59:36Z",
-        "sha256": "b1f1f6f90140c437592b0d3ba76c0109aec48f2f258baf67371b498b0581530d"
+        "modifiedAt": "2024-04-13T16:43:05Z",
+        "sha256": "85022f1efb9ff2e1350ebdc530226223f9cdb8e8811b5192ee460199aa3ead4e"
     },
     "scripts/events/events/dlc2/location/witchhut_destroyed_event.json": {
         "id": 918910,
@@ -26882,14 +26882,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:42.878Z",
         "updatedAt": "2023-06-26T05:49:02.16Z",
-        "modifiedAt": "2024-01-09T07:16:36Z",
-        "sha256": "7fbb3c9f37762bc8704a88a7ed8fa536974702516d0071c152a450f1f36f5092"
+        "modifiedAt": "2024-04-13T16:43:05Z",
+        "sha256": "16e5290061136b9de3cdc3cedf3f25cbf7c47e060229d26b7d7fa8eea4163e78"
     },
     "scripts/items/weapons/legendary/obsidian_dagger.json": {
         "id": 919840,
@@ -33038,14 +33038,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:33.965Z",
         "updatedAt": "2023-06-26T05:49:25.985Z",
-        "modifiedAt": "2024-04-08T13:36:09Z",
-        "sha256": "4dd9f2d51729e1ccb3aee2de54dec2d72a9318950f980ad672c14914a2cc6b80"
+        "modifiedAt": "2024-04-13T16:25:41Z",
+        "sha256": "74d6c7d7702cf1a5428747f474531777fb0d171243e6fcbe3aa2d51d1dbfd2dd"
     },
     "scripts/skills/backgrounds/eunuch_background.json": {
         "id": 920182,

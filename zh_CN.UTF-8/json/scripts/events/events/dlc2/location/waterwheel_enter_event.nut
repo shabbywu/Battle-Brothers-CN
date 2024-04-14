@@ -27,7 +27,7 @@
     "ID": 293413899,
     "key": "Reproach of the Old Gods",
     "original": "Reproach of the Old Gods",
-    "translation": "古神之耻",
+    "translation": "旧神之叱",
     "stage": 1,
     "context": "_vars.push(['weapon','Reproach of the Old Gods'])"
   },

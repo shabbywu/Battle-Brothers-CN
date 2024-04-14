@@ -339,7 +339,7 @@
     "ID": 293405678,
     "key": "]20%[/color] damage against targets that have sustained any injury effects, like a broken arm.",
     "original": "]20%[/color] damage against targets that have sustained any injury effects, like a broken arm.",
-    "translation": "]20%[/color]伤害。",
+    "translation": "]20%[/color]的伤害。",
     "stage": 1,
     "context": "CoupDeGrace = 'Inflict additional [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] damage against targets that have sustained any injury effects, like a broken arm.'"
   },
@@ -8027,7 +8027,7 @@
     "ID": 293406639,
     "key": "Inflict additional [color=",
     "original": "Inflict additional [color=",
-    "translation": "对受到任何伤残目标(如断臂)造成额外的[color=",
+    "translation": "对已遭受创伤效果（例如手臂骨折）的目标额外造成[color=",
     "stage": 1,
     "context": "CoupDeGrace = 'Inflict additional [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] damage against targets that have sustained any injury effects, like a broken arm.'"
   },
