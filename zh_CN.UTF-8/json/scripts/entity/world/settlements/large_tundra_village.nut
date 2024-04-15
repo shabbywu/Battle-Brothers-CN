@@ -19,7 +19,7 @@
     "ID": 293411106,
     "key": "Hammarsted",
     "original": "Hammarsted",
-    "translation": "锤城",
+    "translation": "锤头城",
     "stage": 1,
     "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Einarsted','Skallested','Halfdansted','Ratarsted','Lugnisted','Leifsted','Lorrested'])"
   },

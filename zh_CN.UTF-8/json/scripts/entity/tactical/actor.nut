@@ -123,7 +123,7 @@
     "ID": 293410247,
     "key": " has nine lives!",
     "original": " has nine lives!",
-    "translation": "有九条命？",
+    "translation": "是九命猫！",
     "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(this) + ' has nine lives!')"
   },

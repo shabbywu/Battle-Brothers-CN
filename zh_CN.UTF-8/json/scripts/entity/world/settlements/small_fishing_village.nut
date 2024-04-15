@@ -147,7 +147,7 @@
     "ID": 293412060,
     "key": "Sandholm",
     "original": "Sandholm",
-    "translation": "桑德霍尔姆",
+    "translation": "沙漫",
     "stage": 1,
     "context": "this.getRandomName(['Seedorf','Kielseng','Meierwik','Sanddorf','Sandwik','Holnis','Holmwik','Niewik','Hattlund','Stohl','Strande','Sandkamp','Sandberg','Birkenstrand','Sundheim','Seekamp','Krakendorf','Blankwasser','Harkensee','Otterndorf','Seefeld','Horum','Krumhorn','Gothmund','Angeln','Sandholm','Jadensee','Egernsande','Nebelheim','Sudersande','Grossenkoog','Aalbek','Seedeich'])"
   },
