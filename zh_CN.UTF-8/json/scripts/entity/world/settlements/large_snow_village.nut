@@ -147,7 +147,7 @@
     "ID": 293410974,
     "key": "Ognasted",
     "original": "Ognasted",
-    "translation": "烤炉城",
+    "translation": "火炉城",
     "stage": 1,
     "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Arsasted','Rollarsted','Skagensted','Harkensted','Agersted','Svarrested','Ovarsted'])"
   },

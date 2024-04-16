@@ -3,7 +3,7 @@
     "ID": 293412320,
     "key": "Sudheim",
     "original": "Sudheim",
-    "translation": "苏德海姆",
+    "translation": "南风乡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -19,7 +19,7 @@
     "ID": 293412322,
     "key": "Thurn",
     "original": "Thurn",
-    "translation": "瑟恩",
+    "translation": "穿行乡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -27,7 +27,7 @@
     "ID": 293412323,
     "key": "Tentlingen",
     "original": "Tentlingen",
-    "translation": "坦特林根",
+    "translation": "亭立乡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -35,7 +35,7 @@
     "ID": 293412324,
     "key": "Attendorn",
     "original": "Attendorn",
-    "translation": "阿滕多恩",
+    "translation": "暗棘乡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -43,7 +43,7 @@
     "ID": 293412325,
     "key": "Sonnheim",
     "original": "Sonnheim",
-    "translation": "松海姆",
+    "translation": "照日乡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -51,7 +51,7 @@
     "ID": 293412326,
     "key": "Wohlen",
     "original": "Wohlen",
-    "translation": "沃伦",
+    "translation": "安乐乡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -59,7 +59,7 @@
     "ID": 293412327,
     "key": "Dornheim",
     "original": "Dornheim",
-    "translation": "多恩海姆",
+    "translation": "荆棘乡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -67,7 +67,7 @@
     "ID": 293412328,
     "key": "Thunstetten",
     "original": "Thunstetten",
-    "translation": "图恩斯泰滕",
+    "translation": "善行乡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -83,7 +83,7 @@
     "ID": 293412330,
     "key": "Kargau",
     "original": "Kargau",
-    "translation": "卡高",
+    "translation": "瘠贫滩",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -99,15 +99,15 @@
     "ID": 293412332,
     "key": "Himmelsdorf",
     "original": "Himmelsdorf",
-    "translation": "天空村",
-    "stage": 5,
+    "translation": "天空乡",
+    "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
   {
     "ID": 293412333,
     "key": "Dornthal",
     "original": "Dornthal",
-    "translation": "多恩塞尔",
+    "translation": "荆棘原",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -115,7 +115,7 @@
     "ID": 293412334,
     "key": "Rothenbach",
     "original": "Rothenbach",
-    "translation": "罗森巴赫",
+    "translation": "红溪乡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -123,7 +123,7 @@
     "ID": 293412335,
     "key": "Dornen",
     "original": "Dornen",
-    "translation": "多尔宁",
+    "translation": "荆棘地",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -139,7 +139,7 @@
     "ID": 293412337,
     "key": "Siegau",
     "original": "Siegau",
-    "translation": "锡高",
+    "translation": "胜利滩",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -147,7 +147,7 @@
     "ID": 293412338,
     "key": "Brunnenthal",
     "original": "Brunnenthal",
-    "translation": "布伦内塔尔",
+    "translation": "打井原",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -155,7 +155,7 @@
     "ID": 293412339,
     "key": "Erlach",
     "original": "Erlach",
-    "translation": "尔拉赫",
+    "translation": "傲鹰乡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -163,7 +163,7 @@
     "ID": 293412340,
     "key": "Krauchdorf",
     "original": "Krauchdorf",
-    "translation": "克劳希多夫",
+    "translation": "蜿蜒乡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -171,7 +171,7 @@
     "ID": 293412341,
     "key": "Subingen",
     "original": "Subingen",
-    "translation": "苏宾根",
+    "translation": "南望乡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -179,7 +179,7 @@
     "ID": 293412342,
     "key": "Krauchthal",
     "original": "Krauchthal",
-    "translation": "克劳赫塔尔",
+    "translation": "蜿蜒原",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -187,7 +187,7 @@
     "ID": 293412343,
     "key": "Strauchdorf",
     "original": "Strauchdorf",
-    "translation": "斯特劳赫多夫",
+    "translation": "灌木乡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -195,7 +195,7 @@
     "ID": 293412344,
     "key": "Sonstedt",
     "original": "Sonstedt",
-    "translation": "松斯特",
+    "translation": "此如乡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -211,7 +211,7 @@
     "ID": 293412346,
     "key": "Sandheim",
     "original": "Sandheim",
-    "translation": "桑德海姆",
+    "translation": "沙土乡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   },
@@ -219,7 +219,7 @@
     "ID": 293412347,
     "key": "Strohdorf",
     "original": "Strohdorf",
-    "translation": "斯特罗多夫",
+    "translation": "秸秆乡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlen','Krauchthal','Brunnenthal','Erlach','Treiten','Tentlingen','Himmelsdorf','Thurn','Subingen','Thunstetten','Rothenbach','Sandheim','Sonstedt','Siegau','Strohdorf','Sonnheim','Sandfels','Sonnfels','Attendorn','Strauchdorf','Kargau','Sudheim','Krauchdorf','Dornen','Dornthal','Dornheim'])"
   }

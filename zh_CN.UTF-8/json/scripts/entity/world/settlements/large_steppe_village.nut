@@ -67,7 +67,7 @@
     "ID": 293411025,
     "key": "Sonnmark",
     "original": "Sonnmark",
-    "translation": "阳光边城",
+    "translation": "照日边城",
     "stage": 1,
     "context": "this.getRandomName(['Wunderstadt','Wohlstadt','Brunnstadt','Erlstadt','Himmelstadt','Sandstadt','Dornen','Rothstadt','Gelbstadt','Krautmark','Suderstadt','Sonstadt','Strohmark','Sandmark','Sonnmark','Grafenschein','Hellstadt','Lichtmark','Dornland','Rothenmark','Brunnenland'])"
   },

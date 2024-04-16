@@ -11,7 +11,7 @@
     "ID": 293410985,
     "key": "Rothenfeste",
     "original": "Rothenfeste",
-    "translation": "红色要塞",
+    "translation": "红染要塞",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenfeste','Krauchfeste','Erlachfeste','Treitenfeste','Thunfeste','Rothenfeste','Sonnenfeste','Siegfeste','Sudfeste','Suderfeste','Strauchfeste','Maderfeste','Kargfeste','Dornenfeste','Gelbfeste','Lichtfeste','Hellenfeste','Glanzfeste','Strahlfeste','Konigsfeste','Knochenfeste','Durrfeste','Sandsturmfeste','Gelbfelsfeste','Rothsteinfeste','Goldfeste','Scharfzahnfeste','Brandfeste','Staubfeste','Odfeste','Habichtfeste'])"
   },
@@ -83,7 +83,7 @@
     "ID": 293410994,
     "key": "Glanzfeste",
     "original": "Glanzfeste",
-    "translation": "反光要塞",
+    "translation": "流光要塞",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenfeste','Krauchfeste','Erlachfeste','Treitenfeste','Thunfeste','Rothenfeste','Sonnenfeste','Siegfeste','Sudfeste','Suderfeste','Strauchfeste','Maderfeste','Kargfeste','Dornenfeste','Gelbfeste','Lichtfeste','Hellenfeste','Glanzfeste','Strahlfeste','Konigsfeste','Knochenfeste','Durrfeste','Sandsturmfeste','Gelbfelsfeste','Rothsteinfeste','Goldfeste','Scharfzahnfeste','Brandfeste','Staubfeste','Odfeste','Habichtfeste'])"
   },
@@ -115,7 +115,7 @@
     "ID": 293410998,
     "key": "Maderfeste",
     "original": "Maderfeste",
-    "translation": "割草者要塞",
+    "translation": "刈草要塞",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenfeste','Krauchfeste','Erlachfeste','Treitenfeste','Thunfeste','Rothenfeste','Sonnenfeste','Siegfeste','Sudfeste','Suderfeste','Strauchfeste','Maderfeste','Kargfeste','Dornenfeste','Gelbfeste','Lichtfeste','Hellenfeste','Glanzfeste','Strahlfeste','Konigsfeste','Knochenfeste','Durrfeste','Sandsturmfeste','Gelbfelsfeste','Rothsteinfeste','Goldfeste','Scharfzahnfeste','Brandfeste','Staubfeste','Odfeste','Habichtfeste'])"
   },
@@ -195,7 +195,7 @@
     "ID": 293411008,
     "key": "Sonnenfeste",
     "original": "Sonnenfeste",
-    "translation": "太阳堡垒",
+    "translation": "照日要塞",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenfeste','Krauchfeste','Erlachfeste','Treitenfeste','Thunfeste','Rothenfeste','Sonnenfeste','Siegfeste','Sudfeste','Suderfeste','Strauchfeste','Maderfeste','Kargfeste','Dornenfeste','Gelbfeste','Lichtfeste','Hellenfeste','Glanzfeste','Strahlfeste','Konigsfeste','Knochenfeste','Durrfeste','Sandsturmfeste','Gelbfelsfeste','Rothsteinfeste','Goldfeste','Scharfzahnfeste','Brandfeste','Staubfeste','Odfeste','Habichtfeste'])"
   },
@@ -219,7 +219,7 @@
     "ID": 293411011,
     "key": "Kargfeste",
     "original": "Kargfeste",
-    "translation": "贫瘠要塞",
+    "translation": "瘠贫要塞",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenfeste','Krauchfeste','Erlachfeste','Treitenfeste','Thunfeste','Rothenfeste','Sonnenfeste','Siegfeste','Sudfeste','Suderfeste','Strauchfeste','Maderfeste','Kargfeste','Dornenfeste','Gelbfeste','Lichtfeste','Hellenfeste','Glanzfeste','Strahlfeste','Konigsfeste','Knochenfeste','Durrfeste','Sandsturmfeste','Gelbfelsfeste','Rothsteinfeste','Goldfeste','Scharfzahnfeste','Brandfeste','Staubfeste','Odfeste','Habichtfeste'])"
   },
@@ -243,7 +243,7 @@
     "ID": 293411014,
     "key": "Strahlfeste",
     "original": "Strahlfeste",
-    "translation": "光束要塞",
+    "translation": "缕光要塞",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenfeste','Krauchfeste','Erlachfeste','Treitenfeste','Thunfeste','Rothenfeste','Sonnenfeste','Siegfeste','Sudfeste','Suderfeste','Strauchfeste','Maderfeste','Kargfeste','Dornenfeste','Gelbfeste','Lichtfeste','Hellenfeste','Glanzfeste','Strahlfeste','Konigsfeste','Knochenfeste','Durrfeste','Sandsturmfeste','Gelbfelsfeste','Rothsteinfeste','Goldfeste','Scharfzahnfeste','Brandfeste','Staubfeste','Odfeste','Habichtfeste'])"
   },

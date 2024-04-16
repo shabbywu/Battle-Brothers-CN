@@ -1467,7 +1467,7 @@
     "ID": 293405819,
     "key": "Mooseridge",
     "original": "Mooseridge",
-    "translation": "穆斯里奇",
+    "translation": "覆苔角",
     "stage": 1,
     "context": "'Mooseridge'"
   },
@@ -1651,7 +1651,7 @@
     "ID": 293405842,
     "key": "Weilburg",
     "original": "Weilburg",
-    "translation": "威尔堡",
+    "translation": "小村堡",
     "stage": 1,
     "context": "'Weilburg'"
   },
@@ -7115,7 +7115,7 @@
     "ID": 293406525,
     "key": "Kaltenborn",
     "original": "Kaltenborn",
-    "translation": "卡尔滕伯恩",
+    "translation": "冽水井",
     "stage": 1,
     "context": "'Kaltenborn'"
   },

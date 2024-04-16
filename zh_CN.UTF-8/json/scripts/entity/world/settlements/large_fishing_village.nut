@@ -91,7 +91,7 @@
     "ID": 293410823,
     "key": "Weissenstadt",
     "original": "Weissenstadt",
-    "translation": "白镇",
+    "translation": "白城",
     "stage": 1,
     "context": "this.getRandomName(['Seestadt','Wikstadt','Konigshaven','Grafenhaven','Holnisland','Nieweland','Kampstadt','Krakenland','Blankenstadt','Harkenstadt','Tiefenstadt','Weissenstadt','Kobmanhaven','Grotenhaven','Konigswasser','Konigsmunde','Kronenkoog','Steinkai','Deichstadt'])"
   },

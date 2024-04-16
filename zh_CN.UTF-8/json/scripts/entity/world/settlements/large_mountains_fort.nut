@@ -115,7 +115,7 @@
     "ID": 293410904,
     "key": "Flechtenstein",
     "original": "Flechtenstein",
-    "translation": "高架石寨",
+    "translation": "高石寨",
     "stage": 1,
     "context": "this.getRandomName(['Hohenfeste','Wolfenfeste','Wolfenstein','Felsfeste','Eisenfeste','Grollfeste','Grubenfeste','Donnerfeste','Erzfeste','Gronenfeste','Sattelfeste','Kammfeste','Turmfeste','Windfeste','Adlerfeste','Brunwald','Heldenfeste','Wurmfeste','Schwertfeste','Lanzenfeste','Falkenstein','Flechtenstein','Himmelsfeste','Steinturm','Gipfelfeste','Zugfeste','Granitfeste','Zinnenfeste','Wackersfeste','Fernsichtfeste','Wildbergfeste'])"
   },

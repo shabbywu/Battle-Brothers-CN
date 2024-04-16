@@ -187,7 +187,7 @@
     "ID": 293411400,
     "key": "Skjoldgard",
     "original": "Skjoldgard",
-    "translation": "盾之卫",
+    "translation": "盾橹卫",
     "stage": 1,
     "context": "this.getRandomName(['Tonderhovel','Horngard','Grimhaug','Hellehovel','Kalkhovel','Lydersgard','Homsgard','Sommersholm','Brammingholm','Vardegard','Norreholm','Birkehovel','Donnersgard','Tanghaug','Helvikholm','Torvaholm','Skjoldgard','Eidsvikholm','Halshovel','Gerholm','Gunnholm','Asengard','Hammargard','Vikeholm','Skandergard','Gunhall','Asaholm','Grimmarsholm','Hjalsgard','Kungenshovel','Wallhovel'])"
   },
@@ -227,7 +227,7 @@
     "ID": 293411405,
     "key": "Helvikholm",
     "original": "Helvikholm",
-    "translation": "全湾漫",
+    "translation": "湾没漫",
     "stage": 1,
     "context": "this.getRandomName(['Tonderhovel','Horngard','Grimhaug','Hellehovel','Kalkhovel','Lydersgard','Homsgard','Sommersholm','Brammingholm','Vardegard','Norreholm','Birkehovel','Donnersgard','Tanghaug','Helvikholm','Torvaholm','Skjoldgard','Eidsvikholm','Halshovel','Gerholm','Gunnholm','Asengard','Hammargard','Vikeholm','Skandergard','Gunhall','Asaholm','Grimmarsholm','Hjalsgard','Kungenshovel','Wallhovel'])"
   },

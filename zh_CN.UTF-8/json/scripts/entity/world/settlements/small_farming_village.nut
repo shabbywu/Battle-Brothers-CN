@@ -27,7 +27,7 @@
     "ID": 293412003,
     "key": "Altenhof",
     "original": "Altenhof",
-    "translation": "奥尔腾霍夫",
+    "translation": "老围子",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Weidenau','Schnellen','Neudorf','Freidorf','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Durbach','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld','Neuenried','Auenbach','Adelshofen','Allersdorf','Brunnendorf','Ochsenhausen','Weingarten','Konigsfeld','Rosenhof','Weidenbach'])"
   },
@@ -59,7 +59,7 @@
     "ID": 293412007,
     "key": "Auenbach",
     "original": "Auenbach",
-    "translation": "奥恩巴赫",
+    "translation": "洪原溪",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Weidenau','Schnellen','Neudorf','Freidorf','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Durbach','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld','Neuenried','Auenbach','Adelshofen','Allersdorf','Brunnendorf','Ochsenhausen','Weingarten','Konigsfeld','Rosenhof','Weidenbach'])"
   },
@@ -195,7 +195,7 @@
     "ID": 293412024,
     "key": "Brunnendorf",
     "original": "Brunnendorf",
-    "translation": "布伦多夫",
+    "translation": "打井乡",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Weidenau','Schnellen','Neudorf','Freidorf','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Durbach','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld','Neuenried','Auenbach','Adelshofen','Allersdorf','Brunnendorf','Ochsenhausen','Weingarten','Konigsfeld','Rosenhof','Weidenbach'])"
   },
@@ -299,7 +299,7 @@
     "ID": 293412037,
     "key": "Weissenhaus",
     "original": "Weissenhaus",
-    "translation": "魏森豪斯",
+    "translation": "白乡",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Weidenau','Schnellen','Neudorf','Freidorf','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Durbach','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld','Neuenried','Auenbach','Adelshofen','Allersdorf','Brunnendorf','Ochsenhausen','Weingarten','Konigsfeld','Rosenhof','Weidenbach'])"
   },

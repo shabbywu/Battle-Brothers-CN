@@ -107,8 +107,8 @@
     "ID": 293412201,
     "key": "Himmelswacht",
     "original": "Himmelswacht",
-    "translation": "天空卫所",
-    "stage": 5,
+    "translation": "天空岗",
+    "stage": 1,
     "context": "this.getRandomName(['Wallstein','Hohenwacht','Steinberg','Wolfswall','Felswall','Steinwacht','Eisenwall','Jaderwall','Hohenschanze','Wallheim','Gronenwall','Thalwacht','Schanzberg','Windwacht','Turmwacht','Felswacht','Hohenturm','Adlerwacht','Scharfenstein','Oberwallheim','Hochwall','Bergwall','Finkenwacht','Greifenwall','Himmelswacht'])"
   },
   {
@@ -131,8 +131,8 @@
     "ID": 293412204,
     "key": "Schanzberg",
     "original": "Schanzberg",
-    "translation": "尚茨丘",
-    "stage": 5,
+    "translation": "裂口丘",
+    "stage": 1,
     "context": "this.getRandomName(['Wallstein','Hohenwacht','Steinberg','Wolfswall','Felswall','Steinwacht','Eisenwall','Jaderwall','Hohenschanze','Wallheim','Gronenwall','Thalwacht','Schanzberg','Windwacht','Turmwacht','Felswacht','Hohenturm','Adlerwacht','Scharfenstein','Oberwallheim','Hochwall','Bergwall','Finkenwacht','Greifenwall','Himmelswacht'])"
   },
   {

@@ -67,7 +67,7 @@
     "ID": 293411227,
     "key": "Strandekai",
     "original": "Strandekai",
-    "translation": "滨渡",
+    "translation": "滨海渡",
     "stage": 1,
     "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },

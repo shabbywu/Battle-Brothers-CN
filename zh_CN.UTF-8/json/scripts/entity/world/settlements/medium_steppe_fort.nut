@@ -3,7 +3,7 @@
     "ID": 293411447,
     "key": "Staubburg",
     "original": "Staubburg",
-    "translation": "斯陶布尔格",
+    "translation": "尘埃堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -11,7 +11,7 @@
     "ID": 293411448,
     "key": "Wustenburg",
     "original": "Wustenburg",
-    "translation": "沃斯登堡",
+    "translation": "贫瘠堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -19,7 +19,7 @@
     "ID": 293411449,
     "key": "Erlachburg",
     "original": "Erlachburg",
-    "translation": "埃拉克堡",
+    "translation": "傲鹰堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -27,7 +27,7 @@
     "ID": 293411450,
     "key": "Sudburg",
     "original": "Sudburg",
-    "translation": "苏德堡",
+    "translation": "南风堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -35,7 +35,7 @@
     "ID": 293411451,
     "key": "Kargburg",
     "original": "Kargburg",
-    "translation": "卡格堡",
+    "translation": "瘠贫堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -43,7 +43,7 @@
     "ID": 293411452,
     "key": "Maderburg",
     "original": "Maderburg",
-    "translation": "马德堡",
+    "translation": "刈草堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -51,7 +51,7 @@
     "ID": 293411453,
     "key": "Splitterburg",
     "original": "Splitterburg",
-    "translation": "斯普利特堡",
+    "translation": "碎片堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -59,7 +59,7 @@
     "ID": 293411454,
     "key": "Strauchburg",
     "original": "Strauchburg",
-    "translation": "斯特劳赫堡",
+    "translation": "灌木堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -75,7 +75,7 @@
     "ID": 293411456,
     "key": "Rothburg",
     "original": "Rothburg",
-    "translation": "罗思堡",
+    "translation": "红堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -83,7 +83,7 @@
     "ID": 293411457,
     "key": "Lehmburg",
     "original": "Lehmburg",
-    "translation": "莱姆堡",
+    "translation": "粘土堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -91,7 +91,7 @@
     "ID": 293411458,
     "key": "Schattenburg",
     "original": "Schattenburg",
-    "translation": "沙滩堡",
+    "translation": "暗堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -99,7 +99,7 @@
     "ID": 293411459,
     "key": "Sonnenburg",
     "original": "Sonnenburg",
-    "translation": "桑能堡",
+    "translation": "照日堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -107,7 +107,7 @@
     "ID": 293411460,
     "key": "Thunburg",
     "original": "Thunburg",
-    "translation": "通堡",
+    "translation": "善行堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -115,7 +115,7 @@
     "ID": 293411461,
     "key": "Strahlenburg",
     "original": "Strahlenburg",
-    "translation": "施特拉伯格",
+    "translation": "缕光堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -131,7 +131,7 @@
     "ID": 293411463,
     "key": "Krauchburg",
     "original": "Krauchburg",
-    "translation": "克劳赫堡",
+    "translation": "蜿蜒堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -139,7 +139,7 @@
     "ID": 293411464,
     "key": "Trockenburg",
     "original": "Trockenburg",
-    "translation": "特罗肯堡",
+    "translation": "燥干堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -147,7 +147,7 @@
     "ID": 293411465,
     "key": "Glanzburg",
     "original": "Glanzburg",
-    "translation": "格兰茨堡",
+    "translation": "流光堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -155,7 +155,7 @@
     "ID": 293411466,
     "key": "Suderburg",
     "original": "Suderburg",
-    "translation": "苏德堡",
+    "translation": "丰裕堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -163,7 +163,7 @@
     "ID": 293411467,
     "key": "Hellenburg",
     "original": "Hellenburg",
-    "translation": "海伦堡",
+    "translation": "平岩堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -171,7 +171,7 @@
     "ID": 293411468,
     "key": "Wohlenburg",
     "original": "Wohlenburg",
-    "translation": "沃伦堡",
+    "translation": "安乐堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -187,7 +187,7 @@
     "ID": 293411470,
     "key": "Schimmerburg",
     "original": "Schimmerburg",
-    "translation": "希默堡",
+    "translation": "微光堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -195,7 +195,7 @@
     "ID": 293411471,
     "key": "Siegburg",
     "original": "Siegburg",
-    "translation": "锡格堡",
+    "translation": "胜利堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -203,7 +203,7 @@
     "ID": 293411472,
     "key": "Lichtburg",
     "original": "Lichtburg",
-    "translation": "利希特堡",
+    "translation": "光明堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -211,7 +211,7 @@
     "ID": 293411473,
     "key": "Dornburg",
     "original": "Dornburg",
-    "translation": "多恩堡",
+    "translation": "荆棘堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   },
@@ -219,7 +219,7 @@
     "ID": 293411474,
     "key": "Gelbburg",
     "original": "Gelbburg",
-    "translation": "格尔布尔格",
+    "translation": "黄堡",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenburg','Krauchburg','Erlachburg','Treitenburg','Thunburg','Rothburg','Sonnenburg','Siegburg','Sudburg','Strauchburg','Maderburg','Kargburg','Dornburg','Gelbburg','Suderburg','Lichtburg','Hellenburg','Glanzburg','Strahlenburg','Trockenburg','Schattenburg','Schimmerburg','Splitterburg','Staubburg','Lehmburg','Wustenburg'])"
   }

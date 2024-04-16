@@ -3,7 +3,7 @@
     "ID": 293411970,
     "key": "Grunwacht",
     "original": "Grunwacht",
-    "translation": "格伦瓦赫特",
+    "translation": "绿岗",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -91,7 +91,7 @@
     "ID": 293411981,
     "key": "Hainwall",
     "original": "Hainwall",
-    "translation": "树丛寨",
+    "translation": "树丛垒",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -155,7 +155,7 @@
     "ID": 293411989,
     "key": "Weissenwacht",
     "original": "Weissenwacht",
-    "translation": "怀森瓦赫特",
+    "translation": "白溪岗",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -163,7 +163,7 @@
     "ID": 293411990,
     "key": "Schanzdorf",
     "original": "Schanzdorf",
-    "translation": "山茨多夫",
+    "translation": "裂口寨",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },

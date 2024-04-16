@@ -27,7 +27,7 @@
     "ID": 293410926,
     "key": "Helvikborg",
     "original": "Helvikborg",
-    "translation": "全湾堡",
+    "translation": "湾没堡",
     "stage": 1,
     "context": "this.getRandomName(['Tonderborg','Hornborg','Grimborg','Helleborg','Kalkborg','Lydersborg','Homsborg','Sommersborg','Brammingborg','Vardeborg','Norreborg','Birkeborg','Donnersborg','Tangborg','Helvikborg','Torvaborg','Skjoldborg','Eidsvikborg','Halsborg','Gerborg','Gunnborg','Asenborg','Hammarborg','Snekkborg','Groneborg','Ramborg','Vineborg','Hunneborg','Varborg','Kungsborg','Jarlsborg'])"
   },
@@ -59,7 +59,7 @@
     "ID": 293410930,
     "key": "Skjoldborg",
     "original": "Skjoldborg",
-    "translation": "盾堡",
+    "translation": "盾橹堡",
     "stage": 1,
     "context": "this.getRandomName(['Tonderborg','Hornborg','Grimborg','Helleborg','Kalkborg','Lydersborg','Homsborg','Sommersborg','Brammingborg','Vardeborg','Norreborg','Birkeborg','Donnersborg','Tangborg','Helvikborg','Torvaborg','Skjoldborg','Eidsvikborg','Halsborg','Gerborg','Gunnborg','Asenborg','Hammarborg','Snekkborg','Groneborg','Ramborg','Vineborg','Hunneborg','Varborg','Kungsborg','Jarlsborg'])"
   },

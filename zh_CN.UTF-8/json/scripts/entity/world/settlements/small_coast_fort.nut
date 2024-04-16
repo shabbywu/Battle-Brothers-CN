@@ -131,7 +131,7 @@
     "ID": 293411952,
     "key": "Strandwall",
     "original": "Strandwall",
-    "translation": "斯特兰德沃尔",
+    "translation": "滨海垒",
     "stage": 1,
     "context": "this.getRandomName(['Seeturm','Sandwacht','Seewall','Kielwall','Strandwall','Otternwacht','Kampwacht','Stohlwall','Seeschanz','Wikwall','Sandturm','Krakenwacht','Strandwehr','Seewehr','Blankwehr','Krumwehr','Wallsande','Salzwacht','Sturmwall','Seewacht','Fernwall','Wesselburg','Dagewall','Windwacht','Weissenwacht','Fishburg','Stindwall','Tidenwall','Ebbenwacht','Prielburg','Sundwall','Sielburg'])"
   },
@@ -179,7 +179,7 @@
     "ID": 293411958,
     "key": "Weissenwacht",
     "original": "Weissenwacht",
-    "translation": "怀森瓦赫特",
+    "translation": "白溪岗",
     "stage": 1,
     "context": "this.getRandomName(['Seeturm','Sandwacht','Seewall','Kielwall','Strandwall','Otternwacht','Kampwacht','Stohlwall','Seeschanz','Wikwall','Sandturm','Krakenwacht','Strandwehr','Seewehr','Blankwehr','Krumwehr','Wallsande','Salzwacht','Sturmwall','Seewacht','Fernwall','Wesselburg','Dagewall','Windwacht','Weissenwacht','Fishburg','Stindwall','Tidenwall','Ebbenwacht','Prielburg','Sundwall','Sielburg'])"
   },
@@ -251,7 +251,7 @@
     "ID": 293411967,
     "key": "Wikwall",
     "original": "Wikwall",
-    "translation": "维京寨",
+    "translation": "维京垒",
     "stage": 1,
     "context": "this.getRandomName(['Seeturm','Sandwacht','Seewall','Kielwall','Strandwall','Otternwacht','Kampwacht','Stohlwall','Seeschanz','Wikwall','Sandturm','Krakenwacht','Strandwehr','Seewehr','Blankwehr','Krumwehr','Wallsande','Salzwacht','Sturmwall','Seewacht','Fernwall','Wesselburg','Dagewall','Windwacht','Weissenwacht','Fishburg','Stindwall','Tidenwall','Ebbenwacht','Prielburg','Sundwall','Sielburg'])"
   },
@@ -259,7 +259,7 @@
     "ID": 293411968,
     "key": "Strandwehr",
     "original": "Strandwehr",
-    "translation": "斯特兰德韦尔",
+    "translation": "滨海卫",
     "stage": 1,
     "context": "this.getRandomName(['Seeturm','Sandwacht','Seewall','Kielwall','Strandwall','Otternwacht','Kampwacht','Stohlwall','Seeschanz','Wikwall','Sandturm','Krakenwacht','Strandwehr','Seewehr','Blankwehr','Krumwehr','Wallsande','Salzwacht','Sturmwall','Seewacht','Fernwall','Wesselburg','Dagewall','Windwacht','Weissenwacht','Fishburg','Stindwall','Tidenwall','Ebbenwacht','Prielburg','Sundwall','Sielburg'])"
   },
