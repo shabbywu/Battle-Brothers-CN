@@ -35,7 +35,7 @@
     "ID": 293411191,
     "key": "Altenhof",
     "original": "Altenhof",
-    "translation": "老院镇",
+    "translation": "老围子",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },

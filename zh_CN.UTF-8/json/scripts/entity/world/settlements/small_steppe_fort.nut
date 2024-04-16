@@ -19,7 +19,7 @@
     "ID": 293412294,
     "key": "Siegwacht",
     "original": "Siegwacht",
-    "translation": "西格沃特",
+    "translation": "胜利岗",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -35,7 +35,7 @@
     "ID": 293412296,
     "key": "Dornwall",
     "original": "Dornwall",
-    "translation": "多恩沃尔",
+    "translation": "荆棘垒",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -43,7 +43,7 @@
     "ID": 293412297,
     "key": "Dornwacht",
     "original": "Dornwacht",
-    "translation": "多恩瓦赫特",
+    "translation": "荆棘岗",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -51,7 +51,7 @@
     "ID": 293412298,
     "key": "Strauchwacht",
     "original": "Strauchwacht",
-    "translation": "斯特劳希瓦赫特",
+    "translation": "灌木岗",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -67,7 +67,7 @@
     "ID": 293412300,
     "key": "Thurnwall",
     "original": "Thurnwall",
-    "translation": "瑟恩沃尔",
+    "translation": "穿行垒",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -75,7 +75,7 @@
     "ID": 293412301,
     "key": "Treitenwacht",
     "original": "Treitenwacht",
-    "translation": "猎场卫所",
+    "translation": "猎场岗",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -91,7 +91,7 @@
     "ID": 293412303,
     "key": "Brunnwall",
     "original": "Brunnwall",
-    "translation": "布伦沃尔",
+    "translation": "井垒",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -99,7 +99,7 @@
     "ID": 293412304,
     "key": "Rothenwall",
     "original": "Rothenwall",
-    "translation": "罗森沃尔",
+    "translation": "红染垒",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -115,7 +115,7 @@
     "ID": 293412306,
     "key": "Dorngard",
     "original": "Dorngard",
-    "translation": "多恩加德",
+    "translation": "荆棘卫",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -123,7 +123,7 @@
     "ID": 293412307,
     "key": "Schanzthal",
     "original": "Schanzthal",
-    "translation": "尚茨塔尔",
+    "translation": "裂口原",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -131,7 +131,7 @@
     "ID": 293412308,
     "key": "Kargwall",
     "original": "Kargwall",
-    "translation": "卡格沃尔",
+    "translation": "瘠贫垒",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -139,7 +139,7 @@
     "ID": 293412309,
     "key": "Krauchwall",
     "original": "Krauchwall",
-    "translation": "克劳奇瓦尔",
+    "translation": "蜿蜒垒",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -155,7 +155,7 @@
     "ID": 293412311,
     "key": "Gelbwall",
     "original": "Gelbwall",
-    "translation": "格尔布瓦尔",
+    "translation": "黄垒",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -163,7 +163,7 @@
     "ID": 293412312,
     "key": "Suderwacht",
     "original": "Suderwacht",
-    "translation": "苏德瓦赫特",
+    "translation": "丰裕岗",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -171,7 +171,7 @@
     "ID": 293412313,
     "key": "Wohlenwacht",
     "original": "Wohlenwacht",
-    "translation": "沃伦瓦赫特",
+    "translation": "安乐岗",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -179,7 +179,7 @@
     "ID": 293412314,
     "key": "Weissenwacht",
     "original": "Weissenwacht",
-    "translation": "怀森瓦赫特",
+    "translation": "白溪岗",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -187,7 +187,7 @@
     "ID": 293412315,
     "key": "Sonnwehr",
     "original": "Sonnwehr",
-    "translation": "松韵威尔",
+    "translation": "照日卫",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -203,7 +203,7 @@
     "ID": 293412317,
     "key": "Dornturm",
     "original": "Dornturm",
-    "translation": "多恩图姆",
+    "translation": "荆棘塔",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -211,7 +211,7 @@
     "ID": 293412318,
     "key": "Erlachwall",
     "original": "Erlachwall",
-    "translation": "埃拉赫沃尔",
+    "translation": "傲鹰垒",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
@@ -219,7 +219,7 @@
     "ID": 293412319,
     "key": "Brackenwacht",
     "original": "Brackenwacht",
-    "translation": "布拉肯沃赫特",
+    "translation": "犬吠岗",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   }

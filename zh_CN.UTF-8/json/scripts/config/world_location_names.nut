@@ -667,7 +667,7 @@
     "ID": 293407066,
     "key": "Weilau",
     "original": "Weilau",
-    "translation": "维洛",
+    "translation": "小村滩",
     "stage": 1,
     "context": "'Weilau'"
   },
@@ -763,7 +763,7 @@
     "ID": 293407078,
     "key": "Auen",
     "original": "Auen",
-    "translation": "奥恩",
+    "translation": "大洪原",
     "stage": 1,
     "context": "'Auen'"
   },
@@ -1011,7 +1011,7 @@
     "ID": 293407109,
     "key": "Dunkelwald",
     "original": "Dunkelwald",
-    "translation": "登科瓦尔德",
+    "translation": "阴翳林",
     "stage": 1,
     "context": "'Dunkelwald'"
   },
@@ -1451,7 +1451,7 @@
     "ID": 293407164,
     "key": "Dornheim",
     "original": "Dornheim",
-    "translation": "多恩海姆",
+    "translation": "荆棘地",
     "stage": 1,
     "context": "'Dornheim'"
   },
@@ -1915,8 +1915,8 @@
     "ID": 293407222,
     "key": "Sonneberg",
     "original": "Sonneberg",
-    "translation": "阳光丘",
-    "stage": 5,
+    "translation": "照日丘",
+    "stage": 1,
     "context": "'Sonneberg'"
   },
   {
@@ -2027,7 +2027,7 @@
     "ID": 293407236,
     "key": "Windau",
     "original": "Windau",
-    "translation": "温杜",
+    "translation": "过风滩",
     "stage": 1,
     "context": "'Windau'"
   },
@@ -2299,7 +2299,7 @@
     "ID": 293407270,
     "key": "Dornen",
     "original": "Dornen",
-    "translation": "多尔宁",
+    "translation": "荆生地",
     "stage": 1,
     "context": "'Dornen'"
   },
@@ -2651,7 +2651,7 @@
     "ID": 293407314,
     "key": "Dorngard Castle",
     "original": "Dorngard Castle",
-    "translation": "黎明守卫堡垒",
+    "translation": "荆棘守卫堡垒",
     "stage": 1,
     "context": "'Dorngard Castle'"
   },
@@ -3115,7 +3115,7 @@
     "ID": 293407372,
     "key": "Rauthal",
     "original": "Rauthal",
-    "translation": "劳瑟尔",
+    "translation": "参差原",
     "stage": 1,
     "context": "'Rauthal'"
   },

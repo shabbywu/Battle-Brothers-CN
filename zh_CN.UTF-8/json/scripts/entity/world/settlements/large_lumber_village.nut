@@ -51,7 +51,7 @@
     "ID": 293410870,
     "key": "Weilerstadt",
     "original": "Weilerstadt",
-    "translation": "小村镇",
+    "translation": "小村城",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },

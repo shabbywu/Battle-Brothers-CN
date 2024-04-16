@@ -75,7 +75,7 @@
     "ID": 293412262,
     "key": "Jerstal",
     "original": "Jerstal",
-    "translation": "杰斯塔尔",
+    "translation": "钢铁乡",
     "stage": 1,
     "context": "this.getRandomName(['Tonder','Lydersholm','Kravlund','Bola','Ravestad','Alsliv','Hellevad','Heimstad','Hornheim','Jerstal','Hejsager','Kalk','Sommerstad','Horn','Bramming','Varde','Norre','Vistadt','Olbing','Grimstad','Birkeland','Donnerstad','Tangvall','Helvik','Ogna','Norheim','Undheim','Torvastad','Skjold','Eidsvik','Halheim','Gerheim','Asenstad','Gunnheim','Hammar','Bullarsby','Lonneberg'])"
   },
@@ -131,7 +131,7 @@
     "ID": 293412269,
     "key": "Vistadt",
     "original": "Vistadt",
-    "translation": "维斯塔特",
+    "translation": "智识乡",
     "stage": 1,
     "context": "this.getRandomName(['Tonder','Lydersholm','Kravlund','Bola','Ravestad','Alsliv','Hellevad','Heimstad','Hornheim','Jerstal','Hejsager','Kalk','Sommerstad','Horn','Bramming','Varde','Norre','Vistadt','Olbing','Grimstad','Birkeland','Donnerstad','Tangvall','Helvik','Ogna','Norheim','Undheim','Torvastad','Skjold','Eidsvik','Halheim','Gerheim','Asenstad','Gunnheim','Hammar','Bullarsby','Lonneberg'])"
   },
@@ -147,7 +147,7 @@
     "ID": 293412271,
     "key": "Olbing",
     "original": "Olbing",
-    "translation": "奥尔宾",
+    "translation": "蜜酒乡",
     "stage": 1,
     "context": "this.getRandomName(['Tonder','Lydersholm','Kravlund','Bola','Ravestad','Alsliv','Hellevad','Heimstad','Hornheim','Jerstal','Hejsager','Kalk','Sommerstad','Horn','Bramming','Varde','Norre','Vistadt','Olbing','Grimstad','Birkeland','Donnerstad','Tangvall','Helvik','Ogna','Norheim','Undheim','Torvastad','Skjold','Eidsvik','Halheim','Gerheim','Asenstad','Gunnheim','Hammar','Bullarsby','Lonneberg'])"
   },
@@ -155,7 +155,7 @@
     "ID": 293412272,
     "key": "Bola",
     "original": "Bola",
-    "translation": "波拉",
+    "translation": "筑巢地",
     "stage": 1,
     "context": "this.getRandomName(['Tonder','Lydersholm','Kravlund','Bola','Ravestad','Alsliv','Hellevad','Heimstad','Hornheim','Jerstal','Hejsager','Kalk','Sommerstad','Horn','Bramming','Varde','Norre','Vistadt','Olbing','Grimstad','Birkeland','Donnerstad','Tangvall','Helvik','Ogna','Norheim','Undheim','Torvastad','Skjold','Eidsvik','Halheim','Gerheim','Asenstad','Gunnheim','Hammar','Bullarsby','Lonneberg'])"
   },
@@ -163,7 +163,7 @@
     "ID": 293412273,
     "key": "Skjold",
     "original": "Skjold",
-    "translation": "斯科尔德",
+    "translation": "盾橹地",
     "stage": 1,
     "context": "this.getRandomName(['Tonder','Lydersholm','Kravlund','Bola','Ravestad','Alsliv','Hellevad','Heimstad','Hornheim','Jerstal','Hejsager','Kalk','Sommerstad','Horn','Bramming','Varde','Norre','Vistadt','Olbing','Grimstad','Birkeland','Donnerstad','Tangvall','Helvik','Ogna','Norheim','Undheim','Torvastad','Skjold','Eidsvik','Halheim','Gerheim','Asenstad','Gunnheim','Hammar','Bullarsby','Lonneberg'])"
   },
@@ -171,7 +171,7 @@
     "ID": 293412274,
     "key": "Heimstad",
     "original": "Heimstad",
-    "translation": "海姆斯塔德",
+    "translation": "如家镇",
     "stage": 1,
     "context": "this.getRandomName(['Tonder','Lydersholm','Kravlund','Bola','Ravestad','Alsliv','Hellevad','Heimstad','Hornheim','Jerstal','Hejsager','Kalk','Sommerstad','Horn','Bramming','Varde','Norre','Vistadt','Olbing','Grimstad','Birkeland','Donnerstad','Tangvall','Helvik','Ogna','Norheim','Undheim','Torvastad','Skjold','Eidsvik','Halheim','Gerheim','Asenstad','Gunnheim','Hammar','Bullarsby','Lonneberg'])"
   },
@@ -195,7 +195,7 @@
     "ID": 293412277,
     "key": "Asenstad",
     "original": "Asenstad",
-    "translation": "阿森斯塔德",
+    "translation": "诸神镇",
     "stage": 1,
     "context": "this.getRandomName(['Tonder','Lydersholm','Kravlund','Bola','Ravestad','Alsliv','Hellevad','Heimstad','Hornheim','Jerstal','Hejsager','Kalk','Sommerstad','Horn','Bramming','Varde','Norre','Vistadt','Olbing','Grimstad','Birkeland','Donnerstad','Tangvall','Helvik','Ogna','Norheim','Undheim','Torvastad','Skjold','Eidsvik','Halheim','Gerheim','Asenstad','Gunnheim','Hammar','Bullarsby','Lonneberg'])"
   },
@@ -203,7 +203,7 @@
     "ID": 293412278,
     "key": "Gunnheim",
     "original": "Gunnheim",
-    "translation": "冈海姆",
+    "translation": "战士乡",
     "stage": 1,
     "context": "this.getRandomName(['Tonder','Lydersholm','Kravlund','Bola','Ravestad','Alsliv','Hellevad','Heimstad','Hornheim','Jerstal','Hejsager','Kalk','Sommerstad','Horn','Bramming','Varde','Norre','Vistadt','Olbing','Grimstad','Birkeland','Donnerstad','Tangvall','Helvik','Ogna','Norheim','Undheim','Torvastad','Skjold','Eidsvik','Halheim','Gerheim','Asenstad','Gunnheim','Hammar','Bullarsby','Lonneberg'])"
   },
@@ -211,7 +211,7 @@
     "ID": 293412279,
     "key": "Halheim",
     "original": "Halheim",
-    "translation": "哈尔海姆",
+    "translation": "战獒乡",
     "stage": 1,
     "context": "this.getRandomName(['Tonder','Lydersholm','Kravlund','Bola','Ravestad','Alsliv','Hellevad','Heimstad','Hornheim','Jerstal','Hejsager','Kalk','Sommerstad','Horn','Bramming','Varde','Norre','Vistadt','Olbing','Grimstad','Birkeland','Donnerstad','Tangvall','Helvik','Ogna','Norheim','Undheim','Torvastad','Skjold','Eidsvik','Halheim','Gerheim','Asenstad','Gunnheim','Hammar','Bullarsby','Lonneberg'])"
   },
@@ -219,8 +219,8 @@
     "ID": 293412280,
     "key": "Helvik",
     "original": "Helvik",
-    "translation": "海尔维克",
-    "stage": 5,
+    "translation": "湾没地",
+    "stage": 1,
     "context": "this.getRandomName(['Tonder','Lydersholm','Kravlund','Bola','Ravestad','Alsliv','Hellevad','Heimstad','Hornheim','Jerstal','Hejsager','Kalk','Sommerstad','Horn','Bramming','Varde','Norre','Vistadt','Olbing','Grimstad','Birkeland','Donnerstad','Tangvall','Helvik','Ogna','Norheim','Undheim','Torvastad','Skjold','Eidsvik','Halheim','Gerheim','Asenstad','Gunnheim','Hammar','Bullarsby','Lonneberg'])"
   },
   {
@@ -235,7 +235,7 @@
     "ID": 293412282,
     "key": "Undheim",
     "original": "Undheim",
-    "translation": "温德海姆",
+    "translation": "洼地乡",
     "stage": 1,
     "context": "this.getRandomName(['Tonder','Lydersholm','Kravlund','Bola','Ravestad','Alsliv','Hellevad','Heimstad','Hornheim','Jerstal','Hejsager','Kalk','Sommerstad','Horn','Bramming','Varde','Norre','Vistadt','Olbing','Grimstad','Birkeland','Donnerstad','Tangvall','Helvik','Ogna','Norheim','Undheim','Torvastad','Skjold','Eidsvik','Halheim','Gerheim','Asenstad','Gunnheim','Hammar','Bullarsby','Lonneberg'])"
   },
@@ -259,7 +259,7 @@
     "ID": 293412285,
     "key": "Eidsvik",
     "original": "Eidsvik",
-    "translation": "艾兹维克",
+    "translation": "峡湾乡",
     "stage": 1,
     "context": "this.getRandomName(['Tonder','Lydersholm','Kravlund','Bola','Ravestad','Alsliv','Hellevad','Heimstad','Hornheim','Jerstal','Hejsager','Kalk','Sommerstad','Horn','Bramming','Varde','Norre','Vistadt','Olbing','Grimstad','Birkeland','Donnerstad','Tangvall','Helvik','Ogna','Norheim','Undheim','Torvastad','Skjold','Eidsvik','Halheim','Gerheim','Asenstad','Gunnheim','Hammar','Bullarsby','Lonneberg'])"
   },
@@ -291,7 +291,7 @@
     "ID": 293412289,
     "key": "Gerheim",
     "original": "Gerheim",
-    "translation": "格海姆",
+    "translation": "战矛乡",
     "stage": 1,
     "context": "this.getRandomName(['Tonder','Lydersholm','Kravlund','Bola','Ravestad','Alsliv','Hellevad','Heimstad','Hornheim','Jerstal','Hejsager','Kalk','Sommerstad','Horn','Bramming','Varde','Norre','Vistadt','Olbing','Grimstad','Birkeland','Donnerstad','Tangvall','Helvik','Ogna','Norheim','Undheim','Torvastad','Skjold','Eidsvik','Halheim','Gerheim','Asenstad','Gunnheim','Hammar','Bullarsby','Lonneberg'])"
   },
@@ -299,7 +299,7 @@
     "ID": 293412290,
     "key": "Hejsager",
     "original": "Hejsager",
-    "translation": "海萨格",
+    "translation": "呼矛乡",
     "stage": 1,
     "context": "this.getRandomName(['Tonder','Lydersholm','Kravlund','Bola','Ravestad','Alsliv','Hellevad','Heimstad','Hornheim','Jerstal','Hejsager','Kalk','Sommerstad','Horn','Bramming','Varde','Norre','Vistadt','Olbing','Grimstad','Birkeland','Donnerstad','Tangvall','Helvik','Ogna','Norheim','Undheim','Torvastad','Skjold','Eidsvik','Halheim','Gerheim','Asenstad','Gunnheim','Hammar','Bullarsby','Lonneberg'])"
   },
@@ -307,7 +307,7 @@
     "ID": 293412291,
     "key": "Ogna",
     "original": "Ogna",
-    "translation": "欧格纳",
+    "translation": "火炉乡",
     "stage": 1,
     "context": "this.getRandomName(['Tonder','Lydersholm','Kravlund','Bola','Ravestad','Alsliv','Hellevad','Heimstad','Hornheim','Jerstal','Hejsager','Kalk','Sommerstad','Horn','Bramming','Varde','Norre','Vistadt','Olbing','Grimstad','Birkeland','Donnerstad','Tangvall','Helvik','Ogna','Norheim','Undheim','Torvastad','Skjold','Eidsvik','Halheim','Gerheim','Asenstad','Gunnheim','Hammar','Bullarsby','Lonneberg'])"
   }

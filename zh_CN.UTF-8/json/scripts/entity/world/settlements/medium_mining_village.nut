@@ -59,8 +59,8 @@
     "ID": 293411322,
     "key": "Eisenstein",
     "original": "Eisenstein",
-    "translation": "铁石村",
-    "stage": 5,
+    "translation": "铁石镇",
+    "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
   {
