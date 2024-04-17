@@ -155,7 +155,7 @@
     "ID": 293412401,
     "key": "Sehlendorf",
     "original": "Sehlendorf",
-    "translation": "塞伦多夫",
+    "translation": "泥涉乡",
     "stage": 1,
     "context": "this.getRandomName(['Stakendorf','Schwartbuck','Monkamp','Sehlendorf','Schwarzpfuhl','Ehlerstorf','Torfbruck','Mohrdorf','Streekmoor','Kolkdorf','Schwarzwasser','Lauenbruck','Farnheim','Birkhain','Ahlen','Suderbusch','Altenfurth','Breitenbrunn','Grunbach','Grunwasser','Schmalfurth','Grossfurth','Grunkraut','Schattenfluth','Weissenbach','Kaltenbach','Tarsdorf','Tiefenbach','Julbach','Auengrund','Schwarzbrook','Brookdorf','Brookheim'])"
   },
@@ -171,7 +171,7 @@
     "ID": 293412403,
     "key": "Mohrdorf",
     "original": "Mohrdorf",
-    "translation": "莫尔多夫",
+    "translation": "灰菇乡",
     "stage": 1,
     "context": "this.getRandomName(['Stakendorf','Schwartbuck','Monkamp','Sehlendorf','Schwarzpfuhl','Ehlerstorf','Torfbruck','Mohrdorf','Streekmoor','Kolkdorf','Schwarzwasser','Lauenbruck','Farnheim','Birkhain','Ahlen','Suderbusch','Altenfurth','Breitenbrunn','Grunbach','Grunwasser','Schmalfurth','Grossfurth','Grunkraut','Schattenfluth','Weissenbach','Kaltenbach','Tarsdorf','Tiefenbach','Julbach','Auengrund','Schwarzbrook','Brookdorf','Brookheim'])"
   },
@@ -187,7 +187,7 @@
     "ID": 293412405,
     "key": "Julbach",
     "original": "Julbach",
-    "translation": "朱尔巴赫",
+    "translation": "欢愉溪",
     "stage": 1,
     "context": "this.getRandomName(['Stakendorf','Schwartbuck','Monkamp','Sehlendorf','Schwarzpfuhl','Ehlerstorf','Torfbruck','Mohrdorf','Streekmoor','Kolkdorf','Schwarzwasser','Lauenbruck','Farnheim','Birkhain','Ahlen','Suderbusch','Altenfurth','Breitenbrunn','Grunbach','Grunwasser','Schmalfurth','Grossfurth','Grunkraut','Schattenfluth','Weissenbach','Kaltenbach','Tarsdorf','Tiefenbach','Julbach','Auengrund','Schwarzbrook','Brookdorf','Brookheim'])"
   },
@@ -195,7 +195,7 @@
     "ID": 293412406,
     "key": "Ahlen",
     "original": "Ahlen",
-    "translation": "阿伦",
+    "translation": "锥刺乡",
     "stage": 1,
     "context": "this.getRandomName(['Stakendorf','Schwartbuck','Monkamp','Sehlendorf','Schwarzpfuhl','Ehlerstorf','Torfbruck','Mohrdorf','Streekmoor','Kolkdorf','Schwarzwasser','Lauenbruck','Farnheim','Birkhain','Ahlen','Suderbusch','Altenfurth','Breitenbrunn','Grunbach','Grunwasser','Schmalfurth','Grossfurth','Grunkraut','Schattenfluth','Weissenbach','Kaltenbach','Tarsdorf','Tiefenbach','Julbach','Auengrund','Schwarzbrook','Brookdorf','Brookheim'])"
   },
@@ -203,7 +203,7 @@
     "ID": 293412407,
     "key": "Schwartbuck",
     "original": "Schwartbuck",
-    "translation": "施瓦特布克",
+    "translation": "烂地沟",
     "stage": 1,
     "context": "this.getRandomName(['Stakendorf','Schwartbuck','Monkamp','Sehlendorf','Schwarzpfuhl','Ehlerstorf','Torfbruck','Mohrdorf','Streekmoor','Kolkdorf','Schwarzwasser','Lauenbruck','Farnheim','Birkhain','Ahlen','Suderbusch','Altenfurth','Breitenbrunn','Grunbach','Grunwasser','Schmalfurth','Grossfurth','Grunkraut','Schattenfluth','Weissenbach','Kaltenbach','Tarsdorf','Tiefenbach','Julbach','Auengrund','Schwarzbrook','Brookdorf','Brookheim'])"
   },
@@ -211,7 +211,7 @@
     "ID": 293412408,
     "key": "Ehlerstorf",
     "original": "Ehlerstorf",
-    "translation": "埃勒斯托夫",
+    "translation": "淡水乡",
     "stage": 1,
     "context": "this.getRandomName(['Stakendorf','Schwartbuck','Monkamp','Sehlendorf','Schwarzpfuhl','Ehlerstorf','Torfbruck','Mohrdorf','Streekmoor','Kolkdorf','Schwarzwasser','Lauenbruck','Farnheim','Birkhain','Ahlen','Suderbusch','Altenfurth','Breitenbrunn','Grunbach','Grunwasser','Schmalfurth','Grossfurth','Grunkraut','Schattenfluth','Weissenbach','Kaltenbach','Tarsdorf','Tiefenbach','Julbach','Auengrund','Schwarzbrook','Brookdorf','Brookheim'])"
   },
@@ -243,7 +243,7 @@
     "ID": 293412412,
     "key": "Monkamp",
     "original": "Monkamp",
-    "translation": "莫冈普",
+    "translation": "沼地营",
     "stage": 1,
     "context": "this.getRandomName(['Stakendorf','Schwartbuck','Monkamp','Sehlendorf','Schwarzpfuhl','Ehlerstorf','Torfbruck','Mohrdorf','Streekmoor','Kolkdorf','Schwarzwasser','Lauenbruck','Farnheim','Birkhain','Ahlen','Suderbusch','Altenfurth','Breitenbrunn','Grunbach','Grunwasser','Schmalfurth','Grossfurth','Grunkraut','Schattenfluth','Weissenbach','Kaltenbach','Tarsdorf','Tiefenbach','Julbach','Auengrund','Schwarzbrook','Brookdorf','Brookheim'])"
   },

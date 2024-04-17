@@ -1099,7 +1099,7 @@
     "ID": 293407120,
     "key": "Wiesendorf",
     "original": "Wiesendorf",
-    "translation": "维森多夫",
+    "translation": "大草地",
     "stage": 1,
     "context": "'Wiesendorf'"
   },
@@ -1427,7 +1427,7 @@
     "ID": 293407161,
     "key": "Durbach",
     "original": "Durbach",
-    "translation": "德巴赫",
+    "translation": "硬河湾",
     "stage": 1,
     "context": "'Durbach'"
   },
@@ -1539,7 +1539,7 @@
     "ID": 293407175,
     "key": "Hagen",
     "original": "Hagen",
-    "translation": "哈根",
+    "translation": "大圃地",
     "stage": 1,
     "context": "'Hagen'"
   },
@@ -2923,7 +2923,7 @@
     "ID": 293407348,
     "key": "Thalheim",
     "original": "Thalheim",
-    "translation": "塞尔海姆",
+    "translation": "小树海",
     "stage": 1,
     "context": "'Thalheim'"
   },
@@ -3227,7 +3227,7 @@
     "ID": 293407386,
     "key": "Waldrode",
     "original": "Waldrode",
-    "translation": "瓦尔多德",
+    "translation": "垦耕林",
     "stage": 1,
     "context": "'Waldrode'"
   },

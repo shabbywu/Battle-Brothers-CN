@@ -83,7 +83,7 @@
     "ID": 293411263,
     "key": "Waldburg",
     "original": "Waldburg",
-    "translation": "林地堡",
+    "translation": "密林堡",
     "stage": 1,
     "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },

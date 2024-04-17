@@ -3,7 +3,7 @@
     "ID": 293412418,
     "key": "Torvastorn",
     "original": "Torvastorn",
-    "translation": "托瓦斯托恩",
+    "translation": "泥潭塔",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -11,7 +11,7 @@
     "ID": 293412419,
     "key": "Donnerswold",
     "original": "Donnerswold",
-    "translation": "雷鸣屯",
+    "translation": "雷鸣坞",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -19,7 +19,7 @@
     "ID": 293412420,
     "key": "Lyderswold",
     "original": "Lyderswold",
-    "translation": "庇雪屯",
+    "translation": "庇雪坞",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -27,7 +27,7 @@
     "ID": 293412421,
     "key": "Gerwold",
     "original": "Gerwold",
-    "translation": "霜降屯",
+    "translation": "霜降坞",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -35,7 +35,7 @@
     "ID": 293412422,
     "key": "Birketorn",
     "original": "Birketorn",
-    "translation": "碧克托恩",
+    "translation": "桦木塔",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -43,7 +43,7 @@
     "ID": 293412423,
     "key": "Bredaswold",
     "original": "Bredaswold",
-    "translation": "种播屯",
+    "translation": "种播坞",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -51,7 +51,7 @@
     "ID": 293412424,
     "key": "Brammingwold",
     "original": "Brammingwold",
-    "translation": "踏雪屯",
+    "translation": "踏雪坞",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -67,7 +67,7 @@
     "ID": 293412426,
     "key": "Norrewold",
     "original": "Norrewold",
-    "translation": "硬地屯",
+    "translation": "硬地坞",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -75,7 +75,7 @@
     "ID": 293412427,
     "key": "Hammarwold",
     "original": "Hammarwold",
-    "translation": "锤头屯",
+    "translation": "锤头坞",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -83,7 +83,7 @@
     "ID": 293412428,
     "key": "Holmwold",
     "original": "Holmwold",
-    "translation": "积原屯",
+    "translation": "积原坞",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -91,7 +91,7 @@
     "ID": 293412429,
     "key": "Gunnspira",
     "original": "Gunnspira",
-    "translation": "冈斯皮拉",
+    "translation": "战士塔",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -99,7 +99,7 @@
     "ID": 293412430,
     "key": "Grimtorn",
     "original": "Grimtorn",
-    "translation": "格林托恩",
+    "translation": "草芜塔",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -115,7 +115,7 @@
     "ID": 293412432,
     "key": "Hornwold",
     "original": "Hornwold",
-    "translation": "兽角屯",
+    "translation": "兽角坞",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -131,7 +131,7 @@
     "ID": 293412434,
     "key": "Neidspira",
     "original": "Neidspira",
-    "translation": "内德斯皮拉",
+    "translation": "妒慕塔",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -139,7 +139,7 @@
     "ID": 293412435,
     "key": "Sommerspira",
     "original": "Sommerspira",
-    "translation": "夏之芽",
+    "translation": "如夏塔",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -147,7 +147,7 @@
     "ID": 293412436,
     "key": "Asentorn",
     "original": "Asentorn",
-    "translation": "阿森托恩",
+    "translation": "诸神塔",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -155,7 +155,7 @@
     "ID": 293412437,
     "key": "Eidarswold",
     "original": "Eidarswold",
-    "translation": "地峡屯",
+    "translation": "地峡坞",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -163,7 +163,7 @@
     "ID": 293412438,
     "key": "Tangweir",
     "original": "Tangweir",
-    "translation": "唐威尔",
+    "translation": "雪藻卫",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -171,7 +171,7 @@
     "ID": 293412439,
     "key": "Helleweir",
     "original": "Helleweir",
-    "translation": "海尔维尔",
+    "translation": "平岩卫",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -203,7 +203,7 @@
     "ID": 293412443,
     "key": "Tonderwold",
     "original": "Tonderwold",
-    "translation": "火种屯",
+    "translation": "火种坞",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -211,7 +211,7 @@
     "ID": 293412444,
     "key": "Skjoldwold",
     "original": "Skjoldwold",
-    "translation": "盾牌屯",
+    "translation": "盾橹坞",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -219,7 +219,7 @@
     "ID": 293412445,
     "key": "Skallewold",
     "original": "Skallewold",
-    "translation": "颅骨屯",
+    "translation": "颅骨坞",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -227,7 +227,7 @@
     "ID": 293412446,
     "key": "Linderstorn",
     "original": "Linderstorn",
-    "translation": "林德斯托恩",
+    "translation": "蛇盘塔",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -235,7 +235,7 @@
     "ID": 293412447,
     "key": "Halspira",
     "original": "Halspira",
-    "translation": "哈尔斯皮拉",
+    "translation": "战獒塔",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   },
@@ -251,7 +251,7 @@
     "ID": 293412449,
     "key": "Knorrespira",
     "original": "Knorrespira",
-    "translation": "克诺雷斯皮拉",
+    "translation": "行船塔",
     "stage": 1,
     "context": "this.getRandomName(['Tonderwold','Hornwold','Grimtorn','Helleweir','Kalkweir','Lyderswold','Hornspira','Sommerspira','Brammingwold','Vardegard','Norrewold','Birketorn','Donnerswold','Tangweir','Helviktorn','Torvastorn','Skjoldwold','Eidsviktorn','Halspira','Gerwold','Gunnspira','Asentorn','Hammarwold','Holmwold','Eidarswold','Skallewold','Knorrespira','Linderstorn','Neidspira','Bredaswold'])"
   }

@@ -19,7 +19,7 @@
     "ID": 293411189,
     "key": "Schnellen",
     "original": "Schnellen",
-    "translation": "雪镇",
+    "translation": "猛进镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -51,7 +51,7 @@
     "ID": 293411193,
     "key": "Wagenheim",
     "original": "Wagenheim",
-    "translation": "车乡",
+    "translation": "车驰乡",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },
@@ -91,7 +91,7 @@
     "ID": 293411198,
     "key": "Hage",
     "original": "Hage",
-    "translation": "冰雹地",
+    "translation": "圃园镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Schnellen','Neudorf','Freidorf','Durbach','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Weidenau','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld'])"
   },

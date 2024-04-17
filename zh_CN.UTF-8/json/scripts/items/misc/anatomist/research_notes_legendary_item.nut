@@ -35,7 +35,7 @@
     "ID": 293418580,
     "key": "Kraken",
     "original": "Kraken",
-    "translation": "克拉肯(Kraken)",
+    "translation": "克拉肯",
     "stage": 1,
     "context": "creatureName = 'Kraken'"
   },

@@ -91,7 +91,7 @@
     "ID": 293411143,
     "key": "Krakenburg",
     "original": "Krakenburg",
-    "translation": "克拉肯堡",
+    "translation": "海妖堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -131,7 +131,7 @@
     "ID": 293411148,
     "key": "Otternburg",
     "original": "Otternburg",
-    "translation": "獭堡",
+    "translation": "水獭堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },
@@ -195,7 +195,7 @@
     "ID": 293411156,
     "key": "Kampburg",
     "original": "Kampburg",
-    "translation": "战争堡",
+    "translation": "营垒堡",
     "stage": 1,
     "context": "this.getRandomName(['Seeburg','Kielburg','Otternburg','Blankenburg','Kampburg','Stohlburg','Wikburg','Krakenburg','Krumburg','Sandeburg','Meerburg','Aalburg','Dunenburg','Sturmburg','Weseburg','Gischtburg','Mowenburg','Beltburg','Sundburg','Salzburg','Blauburg','Sichelburg','Heringsburg','Schollburg'])"
   },

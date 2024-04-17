@@ -155,7 +155,7 @@
     "ID": 293410883,
     "key": "Hageland",
     "original": "Hageland",
-    "translation": "雹降坪",
+    "translation": "圃园坪",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },

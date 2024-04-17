@@ -147,7 +147,7 @@
     "ID": 293411089,
     "key": "Grimborg",
     "original": "Grimborg",
-    "translation": "芜堡",
+    "translation": "草芜堡",
     "stage": 1,
     "context": "this.getRandomName(['Tonderborg','Hornborg','Grimborg','Helleborg','Kalkborg','Lydersborg','Homsborg','Sommersborg','Brammingborg','Vardeborg','Norreborg','Birkeborg','Donnersborg','Tangborg','Helvikborg','Torvaborg','Skjoldborg','Eidsvikborg','Halsborg','Gerborg','Gunnborg','Asenborg','Hammarborg','Skagaborg','Selasborg','Haellborg','Kampaborg','Gufarsborg','Husnarborg','Reistarborg','Geirborg'])"
   },

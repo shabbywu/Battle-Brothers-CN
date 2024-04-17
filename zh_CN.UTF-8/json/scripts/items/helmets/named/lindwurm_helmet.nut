@@ -35,7 +35,7 @@
     "ID": 293418168,
     "key": "Wurmscale Helmet",
     "original": "Wurmscale Helmet",
-    "translation": "沼泽头盔",
+    "translation": "蠕龙鳞盔",
     "stage": 1,
     "context": "'Wurmscale Helmet'"
   },
