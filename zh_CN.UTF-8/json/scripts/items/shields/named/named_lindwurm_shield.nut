@@ -27,7 +27,7 @@
     "ID": 293418790,
     "key": "Wurmhide",
     "original": "Wurmhide",
-    "translation": "糠皮",
+    "translation": "蠕龙皮",
     "stage": 1,
     "context": "'Wurmhide'"
   },
@@ -35,7 +35,7 @@
     "ID": 293418791,
     "key": "Wurmscale",
     "original": "Wurmscale",
-    "translation": "沼泽",
+    "translation": "蠕龙鳞",
     "stage": 1,
     "context": "'Wurmscale'"
   },

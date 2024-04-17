@@ -11,7 +11,7 @@
     "ID": 293412152,
     "key": "Steinhausen",
     "original": "Steinhausen",
-    "translation": "斯泰因豪森",
+    "translation": "石庄",
     "stage": 1,
     "context": "this.getRandomName(['Goldhoft','Ellenberg','Kahlenberg','Bokenberg','Gronenberg','Eisenstein','Fuchsberg','Reinberg','Kaltenhof','Jaderberg','Steinhausen','Eichenberg','Thal','Wolfhaiden','Trogen','Sattel','Koppingen','Schweikhof','Hochdorf','Bergau','Nasenfels','Adlerstein','Felsheim','Mitterfels','Hohenau','Pfeilstein','Schneeberg','Weissenfels','Senftenberg','Eisengrab','Weitblick','Erdfall','Helfenstein','Hammererden'])"
   },
@@ -19,7 +19,7 @@
     "ID": 293412153,
     "key": "Weitblick",
     "original": "Weitblick",
-    "translation": "远见",
+    "translation": "远望乡",
     "stage": 1,
     "context": "this.getRandomName(['Goldhoft','Ellenberg','Kahlenberg','Bokenberg','Gronenberg','Eisenstein','Fuchsberg','Reinberg','Kaltenhof','Jaderberg','Steinhausen','Eichenberg','Thal','Wolfhaiden','Trogen','Sattel','Koppingen','Schweikhof','Hochdorf','Bergau','Nasenfels','Adlerstein','Felsheim','Mitterfels','Hohenau','Pfeilstein','Schneeberg','Weissenfels','Senftenberg','Eisengrab','Weitblick','Erdfall','Helfenstein','Hammererden'])"
   },
@@ -43,7 +43,7 @@
     "ID": 293412156,
     "key": "Koppingen",
     "original": "Koppingen",
-    "translation": "科平根",
+    "translation": "矿帽乡",
     "stage": 1,
     "context": "this.getRandomName(['Goldhoft','Ellenberg','Kahlenberg','Bokenberg','Gronenberg','Eisenstein','Fuchsberg','Reinberg','Kaltenhof','Jaderberg','Steinhausen','Eichenberg','Thal','Wolfhaiden','Trogen','Sattel','Koppingen','Schweikhof','Hochdorf','Bergau','Nasenfels','Adlerstein','Felsheim','Mitterfels','Hohenau','Pfeilstein','Schneeberg','Weissenfels','Senftenberg','Eisengrab','Weitblick','Erdfall','Helfenstein','Hammererden'])"
   },
@@ -107,7 +107,7 @@
     "ID": 293412164,
     "key": "Trogen",
     "original": "Trogen",
-    "translation": "特罗根",
+    "translation": "井巷乡",
     "stage": 1,
     "context": "this.getRandomName(['Goldhoft','Ellenberg','Kahlenberg','Bokenberg','Gronenberg','Eisenstein','Fuchsberg','Reinberg','Kaltenhof','Jaderberg','Steinhausen','Eichenberg','Thal','Wolfhaiden','Trogen','Sattel','Koppingen','Schweikhof','Hochdorf','Bergau','Nasenfels','Adlerstein','Felsheim','Mitterfels','Hohenau','Pfeilstein','Schneeberg','Weissenfels','Senftenberg','Eisengrab','Weitblick','Erdfall','Helfenstein','Hammererden'])"
   },
@@ -171,7 +171,7 @@
     "ID": 293412172,
     "key": "Thal",
     "original": "Thal",
-    "translation": "萨尔",
+    "translation": "树海乡",
     "stage": 1,
     "context": "this.getRandomName(['Goldhoft','Ellenberg','Kahlenberg','Bokenberg','Gronenberg','Eisenstein','Fuchsberg','Reinberg','Kaltenhof','Jaderberg','Steinhausen','Eichenberg','Thal','Wolfhaiden','Trogen','Sattel','Koppingen','Schweikhof','Hochdorf','Bergau','Nasenfels','Adlerstein','Felsheim','Mitterfels','Hohenau','Pfeilstein','Schneeberg','Weissenfels','Senftenberg','Eisengrab','Weitblick','Erdfall','Helfenstein','Hammererden'])"
   },
@@ -179,7 +179,7 @@
     "ID": 293412173,
     "key": "Goldhoft",
     "original": "Goldhoft",
-    "translation": "戈德霍夫特",
+    "translation": "金石丘",
     "stage": 1,
     "context": "this.getRandomName(['Goldhoft','Ellenberg','Kahlenberg','Bokenberg','Gronenberg','Eisenstein','Fuchsberg','Reinberg','Kaltenhof','Jaderberg','Steinhausen','Eichenberg','Thal','Wolfhaiden','Trogen','Sattel','Koppingen','Schweikhof','Hochdorf','Bergau','Nasenfels','Adlerstein','Felsheim','Mitterfels','Hohenau','Pfeilstein','Schneeberg','Weissenfels','Senftenberg','Eisengrab','Weitblick','Erdfall','Helfenstein','Hammererden'])"
   },
@@ -195,23 +195,23 @@
     "ID": 293412175,
     "key": "Bokenberg",
     "original": "Bokenberg",
-    "translation": "博肯丘",
-    "stage": 5,
+    "translation": "榉木丘",
+    "stage": 1,
     "context": "this.getRandomName(['Goldhoft','Ellenberg','Kahlenberg','Bokenberg','Gronenberg','Eisenstein','Fuchsberg','Reinberg','Kaltenhof','Jaderberg','Steinhausen','Eichenberg','Thal','Wolfhaiden','Trogen','Sattel','Koppingen','Schweikhof','Hochdorf','Bergau','Nasenfels','Adlerstein','Felsheim','Mitterfels','Hohenau','Pfeilstein','Schneeberg','Weissenfels','Senftenberg','Eisengrab','Weitblick','Erdfall','Helfenstein','Hammererden'])"
   },
   {
     "ID": 293412176,
     "key": "Ellenberg",
     "original": "Ellenberg",
-    "translation": "艾伦丘",
-    "stage": 5,
+    "translation": "浅矿丘",
+    "stage": 1,
     "context": "this.getRandomName(['Goldhoft','Ellenberg','Kahlenberg','Bokenberg','Gronenberg','Eisenstein','Fuchsberg','Reinberg','Kaltenhof','Jaderberg','Steinhausen','Eichenberg','Thal','Wolfhaiden','Trogen','Sattel','Koppingen','Schweikhof','Hochdorf','Bergau','Nasenfels','Adlerstein','Felsheim','Mitterfels','Hohenau','Pfeilstein','Schneeberg','Weissenfels','Senftenberg','Eisengrab','Weitblick','Erdfall','Helfenstein','Hammererden'])"
   },
   {
     "ID": 293412177,
     "key": "Helfenstein",
     "original": "Helfenstein",
-    "translation": "黑尔芬斯坦",
+    "translation": "石助乡",
     "stage": 1,
     "context": "this.getRandomName(['Goldhoft','Ellenberg','Kahlenberg','Bokenberg','Gronenberg','Eisenstein','Fuchsberg','Reinberg','Kaltenhof','Jaderberg','Steinhausen','Eichenberg','Thal','Wolfhaiden','Trogen','Sattel','Koppingen','Schweikhof','Hochdorf','Bergau','Nasenfels','Adlerstein','Felsheim','Mitterfels','Hohenau','Pfeilstein','Schneeberg','Weissenfels','Senftenberg','Eisengrab','Weitblick','Erdfall','Helfenstein','Hammererden'])"
   },
@@ -235,7 +235,7 @@
     "ID": 293412180,
     "key": "Schweikhof",
     "original": "Schweikhof",
-    "translation": "施魏科夫",
+    "translation": "寂井乡",
     "stage": 1,
     "context": "this.getRandomName(['Goldhoft','Ellenberg','Kahlenberg','Bokenberg','Gronenberg','Eisenstein','Fuchsberg','Reinberg','Kaltenhof','Jaderberg','Steinhausen','Eichenberg','Thal','Wolfhaiden','Trogen','Sattel','Koppingen','Schweikhof','Hochdorf','Bergau','Nasenfels','Adlerstein','Felsheim','Mitterfels','Hohenau','Pfeilstein','Schneeberg','Weissenfels','Senftenberg','Eisengrab','Weitblick','Erdfall','Helfenstein','Hammererden'])"
   },
@@ -259,8 +259,8 @@
     "ID": 293412183,
     "key": "Senftenberg",
     "original": "Senftenberg",
-    "translation": "森芬特丘",
-    "stage": 5,
+    "translation": "芥子丘",
+    "stage": 1,
     "context": "this.getRandomName(['Goldhoft','Ellenberg','Kahlenberg','Bokenberg','Gronenberg','Eisenstein','Fuchsberg','Reinberg','Kaltenhof','Jaderberg','Steinhausen','Eichenberg','Thal','Wolfhaiden','Trogen','Sattel','Koppingen','Schweikhof','Hochdorf','Bergau','Nasenfels','Adlerstein','Felsheim','Mitterfels','Hohenau','Pfeilstein','Schneeberg','Weissenfels','Senftenberg','Eisengrab','Weitblick','Erdfall','Helfenstein','Hammererden'])"
   },
   {
@@ -275,7 +275,7 @@
     "ID": 293412185,
     "key": "Adlerstein",
     "original": "Adlerstein",
-    "translation": "阿德勒斯坦",
+    "translation": "老鹰石",
     "stage": 1,
     "context": "this.getRandomName(['Goldhoft','Ellenberg','Kahlenberg','Bokenberg','Gronenberg','Eisenstein','Fuchsberg','Reinberg','Kaltenhof','Jaderberg','Steinhausen','Eichenberg','Thal','Wolfhaiden','Trogen','Sattel','Koppingen','Schweikhof','Hochdorf','Bergau','Nasenfels','Adlerstein','Felsheim','Mitterfels','Hohenau','Pfeilstein','Schneeberg','Weissenfels','Senftenberg','Eisengrab','Weitblick','Erdfall','Helfenstein','Hammererden'])"
   },
@@ -283,16 +283,16 @@
     "ID": 293412186,
     "key": "Wolfhaiden",
     "original": "Wolfhaiden",
-    "translation": "沃尔夫海登",
-    "stage": 5,
+    "translation": "狼坳",
+    "stage": 1,
     "context": "this.getRandomName(['Goldhoft','Ellenberg','Kahlenberg','Bokenberg','Gronenberg','Eisenstein','Fuchsberg','Reinberg','Kaltenhof','Jaderberg','Steinhausen','Eichenberg','Thal','Wolfhaiden','Trogen','Sattel','Koppingen','Schweikhof','Hochdorf','Bergau','Nasenfels','Adlerstein','Felsheim','Mitterfels','Hohenau','Pfeilstein','Schneeberg','Weissenfels','Senftenberg','Eisengrab','Weitblick','Erdfall','Helfenstein','Hammererden'])"
   },
   {
     "ID": 293412187,
     "key": "Reinberg",
     "original": "Reinberg",
-    "translation": "莱因丘",
-    "stage": 5,
+    "translation": "净丘",
+    "stage": 1,
     "context": "this.getRandomName(['Goldhoft','Ellenberg','Kahlenberg','Bokenberg','Gronenberg','Eisenstein','Fuchsberg','Reinberg','Kaltenhof','Jaderberg','Steinhausen','Eichenberg','Thal','Wolfhaiden','Trogen','Sattel','Koppingen','Schweikhof','Hochdorf','Bergau','Nasenfels','Adlerstein','Felsheim','Mitterfels','Hohenau','Pfeilstein','Schneeberg','Weissenfels','Senftenberg','Eisengrab','Weitblick','Erdfall','Helfenstein','Hammererden'])"
   }
 ]

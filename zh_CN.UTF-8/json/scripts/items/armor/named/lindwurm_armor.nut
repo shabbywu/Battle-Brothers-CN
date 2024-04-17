@@ -11,7 +11,7 @@
     "ID": 293417756,
     "key": "Wurmscales",
     "original": "Wurmscales",
-    "translation": "沼泽",
+    "translation": "蠕龙鳞片",
     "stage": 1,
     "context": "'Wurmscales'"
   },

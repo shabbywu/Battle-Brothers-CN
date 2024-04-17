@@ -19,7 +19,7 @@
     "ID": 293411972,
     "key": "Herrmanswacht",
     "original": "Herrmanswacht",
-    "translation": "赫曼斯沃赫特",
+    "translation": "头人岗",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -27,7 +27,7 @@
     "ID": 293411973,
     "key": "Grafenturm",
     "original": "Grafenturm",
-    "translation": "格拉芬图姆",
+    "translation": "擢爵塔",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -43,7 +43,7 @@
     "ID": 293411975,
     "key": "Furstenwall",
     "original": "Furstenwall",
-    "translation": "弗斯滕沃尔",
+    "translation": "王子垒",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -59,7 +59,7 @@
     "ID": 293411977,
     "key": "Speerheim",
     "original": "Speerheim",
-    "translation": "斯皮尔海姆",
+    "translation": "短矛乡",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -67,7 +67,7 @@
     "ID": 293411978,
     "key": "Walldorf",
     "original": "Walldorf",
-    "translation": "沃尔多夫",
+    "translation": "墙垒乡",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -75,7 +75,7 @@
     "ID": 293411979,
     "key": "Grafenwacht",
     "original": "Grafenwacht",
-    "translation": "格拉芬瓦赫特",
+    "translation": "擢爵岗",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -83,7 +83,7 @@
     "ID": 293411980,
     "key": "Gardendorf",
     "original": "Gardendorf",
-    "translation": "加登多夫",
+    "translation": "菜园乡",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -107,7 +107,7 @@
     "ID": 293411983,
     "key": "Wagenwall",
     "original": "Wagenwall",
-    "translation": "瓦根沃尔",
+    "translation": "车驰垒",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -115,7 +115,7 @@
     "ID": 293411984,
     "key": "Wiesenwacht",
     "original": "Wiesenwacht",
-    "translation": "维森瓦赫特",
+    "translation": "草地岗",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -131,7 +131,7 @@
     "ID": 293411986,
     "key": "Graswacht",
     "original": "Graswacht",
-    "translation": "草地守卫",
+    "translation": "草地岗",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -139,7 +139,7 @@
     "ID": 293411987,
     "key": "Hemmelswacht",
     "original": "Hemmelswacht",
-    "translation": "亨梅尔斯瓦赫特",
+    "translation": "空岗",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -147,7 +147,7 @@
     "ID": 293411988,
     "key": "Krugwall",
     "original": "Krugwall",
-    "translation": "克鲁格沃尔",
+    "translation": "壶酒垒",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -179,7 +179,7 @@
     "ID": 293411992,
     "key": "Weiherwacht",
     "original": "Weiherwacht",
-    "translation": "魏赫瓦赫特",
+    "translation": "塘岗",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -195,7 +195,7 @@
     "ID": 293411994,
     "key": "Markwall",
     "original": "Markwall",
-    "translation": "马克沃尔",
+    "translation": "边垒",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -203,7 +203,7 @@
     "ID": 293411995,
     "key": "Wallheim",
     "original": "Wallheim",
-    "translation": "瓦尔海姆",
+    "translation": "墙垒庄",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -211,7 +211,7 @@
     "ID": 293411996,
     "key": "Koppelwacht",
     "original": "Koppelwacht",
-    "translation": "科佩尔瓦赫特",
+    "translation": "围场岗",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -219,7 +219,7 @@
     "ID": 293411997,
     "key": "Schonwall",
     "original": "Schonwall",
-    "translation": "肖恩沃尔",
+    "translation": "叹观垒",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -227,7 +227,7 @@
     "ID": 293411998,
     "key": "Auwall",
     "original": "Auwall",
-    "translation": "奥沃尔",
+    "translation": "河滩垒",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   },
@@ -235,7 +235,7 @@
     "ID": 293411999,
     "key": "Hageturm",
     "original": "Hageturm",
-    "translation": "哈格图姆",
+    "translation": "圃园塔",
     "stage": 1,
     "context": "this.getRandomName(['Gardendorf','Walldorf','Hageturm','Wiesenwacht','Markwall','Hornwall','Hemmelswacht','Weissenwacht','Grafenturm','Grafenwacht','Wagenwall','Herrmanswacht','Wallheim','Schanzdorf','Koppelwacht','Grafenschanze','Hammerturm','Speerheim','Grunwacht','Schonwall','Auwall','Graswacht','Hainwall','Krugwall','Grafenburg','Furstenwall','Thalwacht','Weiherwacht'])"
   }

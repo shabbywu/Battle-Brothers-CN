@@ -211,7 +211,7 @@
     "ID": 293411066,
     "key": "Sehlenstadt",
     "original": "Sehlenstadt",
-    "translation": "贵胄之城",
+    "translation": "泥涉城",
     "stage": 1,
     "context": "this.getRandomName(['Stakenland','Sehlenstadt','Schwarzland','Ehelerstadt','Streekland','Grafenwasser','Lauenstadt','Ahlenstadt','Grunstadt','Austadt','Muckenland','Brookstadt','Pfuhlstadt','Schwarzmark','Muckenmark','Torfmark','Fuhrtmark','Schwartmark','Tiefenmark','Schwanenwasser','Fletland','Fennstedt','Auenhausen','Moorland','Riedland','Drakenstadt','Schwarmstadt','Niedermark'])"
   },

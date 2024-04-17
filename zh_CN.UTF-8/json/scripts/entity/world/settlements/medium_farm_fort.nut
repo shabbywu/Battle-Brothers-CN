@@ -3,7 +3,7 @@
     "ID": 293411158,
     "key": "Hageburg",
     "original": "Hageburg",
-    "translation": "园堡",
+    "translation": "圃园堡",
     "stage": 1,
     "context": "this.getRandomName(['Haselburg','Hageburg','Marksburg','Wehrburg','Hemmelsburg','Weissenburg','Grafenburg','Tiefenburg','Grunburg','Wallburg','Koppelburg','Weideburg','Auenburg','Gardeburg','Friedland','Kroonsburg','Grasburg','Thalburg','Weihersburg','Sommerburg','Freudburg','Feldburg','Langenburg','Heuburg','Muhlburg','Weisenburg','Weinburg'])"
   },
