@@ -3,8 +3,8 @@
     "ID": 293422533,
     "key": "Glorious Resolve",
     "original": "Glorious Resolve",
-    "translation": "荣耀决心",
-    "stage": 5,
+    "translation": "决心之誉",
+    "stage": 1,
     "context": "this.m.Name = 'Glorious Resolve'"
   },
   {

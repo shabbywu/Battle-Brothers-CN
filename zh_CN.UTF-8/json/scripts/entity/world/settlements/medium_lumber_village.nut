@@ -131,7 +131,7 @@
     "ID": 293411297,
     "key": "Eulenkrug",
     "original": "Eulenkrug",
-    "translation": "鸮鹰驿",
+    "translation": "枭鹰驿",
     "stage": 1,
     "context": "this.getRandomName(['Westerholz','Langholz','Grossholz','Tanndorf','Waldhain','Elkshorn','Dunkeltal','Eichholz','Eulenkrug','Nordholz','Finsterwalde','Damwald','Tannheim','Filzmoos','Dunkelwald','Hagermoos','Neufarn','Taubenmoos','Waidhof','Waidtal','Eichendorf','Holzschlag','Hirschbach','Friedewald','Talbach','Finsterweiler','Tannenweiler','Weilersheim','Grunforst','Tiefenforst','Schwarzforst'])"
   },

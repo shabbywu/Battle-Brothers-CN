@@ -35,7 +35,7 @@
     "ID": 293412082,
     "key": "Eulenwacht",
     "original": "Eulenwacht",
-    "translation": "鸮鹰卫",
+    "translation": "枭鹰卫",
     "stage": 1,
     "context": "this.getRandomName(['Holzwacht','Tannwall','Waldwacht','Hainturm','Dunkelwacht','Eichwacht','Waidschanze','Fahrnwacht','Mooswehr','Forstwehr','Eulenwacht','Fuchsturm','Finsterwall','Dusterschanze','Finsterwehr','Dornwall','Farnwacht','Grunwall','Eulenturm','Wildwacht','Steinforst','Haselwacht','Nebelwacht','Hirschturm','Schwarzwacht','Steinweiler','Erlenwall','Eibenwacht','Haselwehr','Waldenwehr'])"
   },
@@ -251,7 +251,7 @@
     "ID": 293412109,
     "key": "Eulenturm",
     "original": "Eulenturm",
-    "translation": "鸮鹰塔",
+    "translation": "枭鹰塔",
     "stage": 1,
     "context": "this.getRandomName(['Holzwacht','Tannwall','Waldwacht','Hainturm','Dunkelwacht','Eichwacht','Waidschanze','Fahrnwacht','Mooswehr','Forstwehr','Eulenwacht','Fuchsturm','Finsterwall','Dusterschanze','Finsterwehr','Dornwall','Farnwacht','Grunwall','Eulenturm','Wildwacht','Steinforst','Haselwacht','Nebelwacht','Hirschturm','Schwarzwacht','Steinweiler','Erlenwall','Eibenwacht','Haselwehr','Waldenwehr'])"
   }

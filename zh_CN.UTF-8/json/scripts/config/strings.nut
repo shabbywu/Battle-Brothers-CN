@@ -7731,7 +7731,7 @@
     "ID": 293406602,
     "key": "Deep Covert",
     "original": "Deep Covert",
-    "translation": "深藏不露",
+    "translation": "蔽目深林",
     "stage": 1,
     "context": "'Deep Covert'"
   },
@@ -7787,7 +7787,7 @@
     "ID": 293406609,
     "key": "Barescrub",
     "original": "Barescrub",
-    "translation": "磨砂膏",
+    "translation": "稀树裸土",
     "stage": 1,
     "context": "'Barescrub'"
   },

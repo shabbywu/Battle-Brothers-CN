@@ -59,7 +59,7 @@
     "ID": 293422808,
     "key": "Won a fight in the arena",
     "original": "Won a fight in the arena",
-    "translation": "在竞技场赢了一场",
+    "translation": "赢了一场竞技场战斗",
     "stage": 1,
     "context": "bro.improveMood(this.Const.MoodChange.BattleWon, 'Won a fight in the arena')"
   },
@@ -219,7 +219,7 @@
     "ID": 293422828,
     "key": "Are you sure you want to quit this battle and thereby forfeit your ironman run and retire from your company?\n\nYour save will be deleted and you won't be able to continue.",
     "original": "Are you sure you want to quit this battle and thereby forfeit your ironman run and retire from your company?\n\nYour save will be deleted and you won't be able to continue.",
-    "translation": "你确定你想退出这场战斗，并因此失去你的铁人模式游戏并从战团退休吗？\n\n你的存档将被删除，你将无法继续。",
+    "translation": "你确定你想退出这场战斗，并因此输掉你的铁人模式游戏，从战团退休吗？\n\n你的存档将被删除，你将无法继续。",
     "stage": 1,
     "context": "this.showDialogPopup('Quit & Retire', \"Are you sure you want to quit this battle and thereby forfeit your ironman run and retire from your company?\n\nYour save will be deleted and you won't be able to continue.\", this.onQuitToMainMenu.bindenv(this), this.onCancelQuitToMainMenu.bindenv(this))"
   },
@@ -315,7 +315,7 @@
     "ID": 293422840,
     "key": "Felt useless in reserve",
     "original": "Felt useless in reserve",
-    "translation": "觉得是无用的后备",
+    "translation": "在后备中派不上用场",
     "stage": 1,
     "context": "bro.worsenMood(this.Const.MoodChange.BattleWithoutMe, 'Felt useless in reserve')"
   }

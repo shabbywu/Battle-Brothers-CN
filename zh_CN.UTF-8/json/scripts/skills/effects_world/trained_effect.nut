@@ -11,7 +11,7 @@
     "ID": 293421856,
     "key": "Training Experience",
     "original": "Training Experience",
-    "translation": "训练经验(Training Experience)",
+    "translation": "训练经历",
     "stage": 1,
     "context": "this.m.Name = 'Training Experience'"
   },

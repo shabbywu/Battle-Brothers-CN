@@ -3,8 +3,8 @@
     "ID": 293422536,
     "key": "Tasty, let's have another one! Better bring extra provisions when traveling with this character and expect them to leave fast if you ever run out of provisions entirely.",
     "original": "Tasty, let's have another one! Better bring extra provisions when traveling with this character and expect them to leave fast if you ever run out of provisions entirely.",
-    "translation": "好吃，再来一份！当你和这个角色一起旅行时，最好带上额外的食物，如果你的食物完全用光了，他们会很快离开。",
-    "stage": 5,
+    "translation": "好吃，再来一份！和这个角色一起旅行时，最好带上额外的食物，如果你的食物用光了，这种人会很快离开。",
+    "stage": 1,
     "context": "this.m.Description = \"Tasty, let's have another one! Better bring extra provisions when traveling with this character and expect them to leave fast if you ever run out of provisions entirely.\""
   },
   {

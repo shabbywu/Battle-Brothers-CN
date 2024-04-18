@@ -179,7 +179,7 @@
     "ID": 293411275,
     "key": "Eulenburg",
     "original": "Eulenburg",
-    "translation": "鸮鹰堡",
+    "translation": "枭鹰堡",
     "stage": 1,
     "context": "this.getRandomName(['Holzburg','Tannburg','Waldburg','Hainburg','Dunkelburg','Finsterburg','Eichburg','Waidburg','Fahrnburg','Moosburg','Forstburg','Eulenburg','Fuchsburg','Dusterburg','Dornburg','Grunburg','Buchenburg','Haselburg','Breitenburg','Nesselburg','Wurzelburg','Bieberburg','Katzenburg','Wolfsburg','Natternburg','Findelsburg'])"
   },

@@ -3,7 +3,7 @@
     "ID": 293422375,
     "key": "This character has an easier time than most with grasping new concepts and adapting to the situation.",
     "original": "This character has an easier time than most with grasping new concepts and adapting to the situation.",
-    "translation": "这个角色比大多数人更容易掌握新概念并适应形势。",
+    "translation": "这个角色比大多数人更善于掌握新概念和适应形势。",
     "stage": 1,
     "context": "this.m.Description = 'This character has an easier time than most with grasping new concepts and adapting to the situation.'"
   },

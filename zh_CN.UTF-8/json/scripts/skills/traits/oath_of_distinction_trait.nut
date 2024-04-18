@@ -3,8 +3,8 @@
     "ID": 293422617,
     "key": "This character has taken an Oath of Distinction, and is sworn to seek his own victories without the support of allies.",
     "original": "This character has taken an Oath of Distinction, and is sworn to seek his own victories without the support of allies.",
-    "translation": "该角色已经立下了超群誓言，发誓在寻求胜利时不得借助盟友的支持。",
-    "stage": 5,
+    "translation": "该角色立下了超群誓言，发誓在寻求胜利时不得借助盟友的支持。",
+    "stage": 1,
     "context": "this.m.Description = 'This character has taken an Oath of Distinction, and is sworn to seek his own victories without the support of allies.'"
   },
   {

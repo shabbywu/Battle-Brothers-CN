@@ -27,7 +27,7 @@
     "ID": 293410837,
     "key": "Eulenfeste",
     "original": "Eulenfeste",
-    "translation": "鸮鹰要塞",
+    "translation": "枭鹰要塞",
     "stage": 1,
     "context": "this.getRandomName(['Waldfeste','Tannenfeste','Schlangenfeste','Hainfeste','Dunkelfeste','Finsterfeste','Eichfeste','Eibenfeste','Waidfeste','Eulenfeste','Eberfeste','Fahrnfeste','Moosfeste','Forstfeste','Dusterfeste','Dornfeste','Grunfeste','Falkenfeste','Salamanderfeste','Lerchenfeste','Laubfeste','Erlenfeste','Nadelfeste','Waldachfeste','Hornfeste','Klarbachfeste','Eisbachfeste','Fichtenwall'])"
   },

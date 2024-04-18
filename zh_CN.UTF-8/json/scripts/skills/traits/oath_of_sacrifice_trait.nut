@@ -27,8 +27,8 @@
     "ID": 293422666,
     "key": "This character has taken an Oath of Sacrifice, and is sworn to forgo self-care to see the company succeed. Such drive takes a toll on physical well-being, however.",
     "original": "This character has taken an Oath of Sacrifice, and is sworn to forgo self-care to see the company succeed. Such drive takes a toll on physical well-being, however.",
-    "translation": "该角色已经立下牺牲誓言，发誓为战团的胜利放弃自我保护。然而很明显这样不怎么有利于身体健康。",
-    "stage": 5,
+    "translation": "该角色立下了牺牲誓言，发誓为战团的胜利放弃自我保护。然而很明显这样不怎么有利于身体健康。",
+    "stage": 1,
     "context": "this.m.Description = 'This character has taken an Oath of Sacrifice, and is sworn to forgo self-care to see the company succeed. Such drive takes a toll on physical well-being, however.'"
   }
 ]

@@ -27,7 +27,7 @@
     "ID": 293422532,
     "key": "Glorious Quickness",
     "original": "Glorious Quickness",
-    "translation": "荣耀迅捷",
+    "translation": "迅捷之誉",
     "stage": 1,
     "context": "this.m.Name = 'Glorious Quickness'"
   }

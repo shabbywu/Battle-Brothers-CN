@@ -11,15 +11,15 @@
     "ID": 293422322,
     "key": "Ailing",
     "original": "Ailing",
-    "translation": "体弱",
-    "stage": 5,
+    "translation": "虚弱",
+    "stage": 1,
     "context": "this.m.Name = 'Ailing'"
   },
   {
     "ID": 293422323,
     "key": "Poison effects last [color=",
     "original": "Poison effects last [color=",
-    "translation": "中毒效果持续时间额外延长 [color=",
+    "translation": "中毒效果额外持续 [color=",
     "stage": 1,
     "context": "text = 'Poison effects last [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] additional turn'"
   },

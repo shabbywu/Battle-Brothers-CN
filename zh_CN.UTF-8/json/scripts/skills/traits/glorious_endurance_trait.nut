@@ -27,8 +27,8 @@
     "ID": 293422527,
     "key": "Glorious Endurance",
     "original": "Glorious Endurance",
-    "translation": "荣耀耐力",
-    "stage": 5,
+    "translation": "忍耐之誉",
+    "stage": 1,
     "context": "this.m.Name = 'Glorious Endurance'"
   },
   {

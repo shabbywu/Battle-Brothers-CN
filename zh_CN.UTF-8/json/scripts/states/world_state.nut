@@ -3,7 +3,7 @@
     "ID": 293422874,
     "key": "This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
     "original": "This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
-    "translation": "此战役是在激活“野兽与探险”DLC之前创建的。 请注意，即使你可以继续玩此战役，除非你开始新的战役，否则你将无法访问所有新内容。",
+    "translation": "此战役是在激活“野兽与探险”DLC之前创建的。 请注意，你可以继续游玩此战役，但除非你开始新的战役，你将无法访问所有新内容。",
     "stage": 1,
     "context": "this.showDialogPopup('Old Campaign Loaded', \"This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.\", null, null, True)"
   },
@@ -51,7 +51,7 @@
     "ID": 293422880,
     "key": "This campaign was created before you activated the 'Blazing Deserts' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
     "original": "This campaign was created before you activated the 'Blazing Deserts' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
-    "translation": "此战役是在激活“炽热沙漠”DLC之前创建的。 请注意，即使你可以继续玩此战役，除非你开始新的战役，否则你将无法访问所有新内容。",
+    "translation": "此战役是在激活“炽热沙漠”DLC之前创建的。 请注意，你可以继续游玩此战役，但除非你开始新的战役，你将无法访问所有新内容。",
     "stage": 1,
     "context": "this.showDialogPopup('Old Campaign Loaded', \"This campaign was created before you activated the 'Blazing Deserts' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.\", null, null, True)"
   },
@@ -131,15 +131,15 @@
     "ID": 293422890,
     "key": "A band of menacing orcs, greenskinned and towering any man.",
     "original": "A band of menacing orcs, greenskinned and towering any man.",
-    "translation": "一群凶残的兽人，绿皮肤，比任何人都高。",
-    "stage": 5,
+    "translation": "一群凶狠的兽人，绿皮肤，远比人高。",
+    "stage": 1,
     "context": "party.setDescription('A band of menacing orcs, greenskinned and towering any man.')"
   },
   {
     "ID": 293422891,
     "key": "This campaign was created before you activated the 'Warriors of the North' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
     "original": "This campaign was created before you activated the 'Warriors of the North' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
-    "translation": "此战役是在激活“北方的勇士”DLC之前创建的。 请注意，即使你可以继续玩此战役，除非你开始新的战役，否则你将无法访问所有新内容。",
+    "translation": "此战役是在激活“北方勇士”DLC之前创建的。 请注意，你可以继续游玩此战役，但除非你开始新的战役，你将无法访问所有新内容。",
     "stage": 1,
     "context": "this.showDialogPopup('Old Campaign Loaded', \"This campaign was created before you activated the 'Warriors of the North' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.\", null, null, True)"
   },
@@ -163,7 +163,7 @@
     "ID": 293422894,
     "key": "Old Campaign Loaded",
     "original": "Old Campaign Loaded",
-    "translation": "老战役已加载",
+    "translation": "已加载旧版战役",
     "stage": 1,
     "context": "this.showDialogPopup('Old Campaign Loaded', \"This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.\", null, null, True)"
   },
@@ -251,7 +251,7 @@
     "ID": 293422905,
     "key": "Flee!",
     "original": "Flee!",
-    "translation": "逃走！",
+    "translation": "快逃！",
     "stage": 1,
     "context": "this.m.CombatDialog.show(entities, allyBanners, enemyBanners, _isPlayerInitiated || this.m.EscortedEntity != null, _allowFormationPicking, text, image, this.m.EscortedEntity != null ? 'Flee!' : 'Fall back!')"
   },
@@ -267,7 +267,7 @@
     "ID": 293422907,
     "key": "Save version: ",
     "original": "Save version: ",
-    "translation": "保存版本：",
+    "translation": "存档版本：",
     "stage": 1,
     "context": "this.logInfo('Save version: ' + _in.getMetaData().getVersion())"
   },
@@ -283,8 +283,8 @@
     "ID": 293422909,
     "key": "You can't make out who you'll be facing. Attack at your own peril and be prepared to retreat if need be!",
     "original": "You can't make out who you'll be facing. Attack at your own peril and be prepared to retreat if need be!",
-    "translation": "你不知道你将面对谁。攻击风险自担，必要时随时准备撤退！",
-    "stage": 5,
+    "translation": "敌人尚且未知，如要以身犯险，做好撤退准备！",
+    "stage": 1,
     "context": "text = \"You can't make out who you'll be facing. Attack at your own peril and be prepared to retreat if need be!\""
   },
   {
@@ -299,7 +299,7 @@
     "ID": 293422911,
     "key": "Player can now be attacked.",
     "original": "Player can now be attacked.",
-    "translation": "现在可以攻击玩家。",
+    "translation": "现在玩家可被攻击。",
     "stage": 1,
     "context": "this.logDebug('Player can now be attacked.')"
   },

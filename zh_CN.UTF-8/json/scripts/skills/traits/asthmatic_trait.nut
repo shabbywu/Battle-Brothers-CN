@@ -19,8 +19,8 @@
     "ID": 293422355,
     "key": "Being short of breath and prone to coughing, this character takes longer to recover from fatigue than others.",
     "original": "Being short of breath and prone to coughing, this character takes longer to recover from fatigue than others.",
-    "translation": "由于呼吸急促，容易咳嗽，这个角色需要比其他人更长的时间才能从疲劳中恢复过来。",
-    "stage": 5,
+    "translation": "呼吸急促，容易咳嗽，这个角色需要更长时间从疲劳中恢复。",
+    "stage": 1,
     "context": "this.m.Description = 'Being short of breath and prone to coughing, this character takes longer to recover from fatigue than others.'"
   }
 ]

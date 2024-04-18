@@ -3,7 +3,7 @@
     "ID": 293418312,
     "key": "Steppe Helmet with Mail",
     "original": "Steppe Helmet with Mail",
-    "translation": "盔甲蒙古头盔(Steppe Helmet with Mail)",
+    "translation": "衬链草原盔",
     "stage": 1,
     "context": "this.m.Name = 'Steppe Helmet with Mail'"
   },
