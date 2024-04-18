@@ -51,8 +51,8 @@
     "ID": 293422389,
     "key": "Not one for delicate attacks, this character will use full force for additional damage when striking an opponent's head in melee at the expense of some accuracy.",
     "original": "Not one for delicate attacks, this character will use full force for additional damage when striking an opponent's head in melee at the expense of some accuracy.",
-    "translation": "不太擅长精细攻击，这个角色在近战中击打对手的头部时会用出全力，造成额外的伤害，代价是一些准头。",
-    "stage": 5,
+    "translation": "不太擅长精准攻击，在近战中，这个角色会全力击打对手的头部，以准头为代价造成额外伤害。",
+    "stage": 1,
     "context": "this.m.Description = \"Not one for delicate attacks, this character will use full force for additional damage when striking an opponent's head in melee at the expense of some accuracy.\""
   }
 ]

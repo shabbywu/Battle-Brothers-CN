@@ -3,8 +3,8 @@
     "ID": 293422313,
     "key": "Addict",
     "original": "Addict",
-    "translation": "上瘾",
-    "stage": 5,
+    "translation": "药物成瘾",
+    "stage": 1,
     "context": "this.m.Name = 'Addict'"
   },
   {

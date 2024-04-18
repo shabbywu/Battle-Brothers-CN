@@ -19,8 +19,8 @@
     "ID": 293422519,
     "key": "There are a lot of old friends to meet in the afterlife. This character is not afraid of death.",
     "original": "There are a lot of old friends to meet in the afterlife. This character is not afraid of death.",
-    "translation": "有许多老朋友还在死后世界等着我呢。这个人并不害怕死亡。",
-    "stage": 5,
+    "translation": "有许多老朋友在死后世界等着我呢。这个人并不害怕死亡。",
+    "stage": 1,
     "context": "this.m.Description = 'There are a lot of old friends to meet in the afterlife. This character is not afraid of death.'"
   },
   {

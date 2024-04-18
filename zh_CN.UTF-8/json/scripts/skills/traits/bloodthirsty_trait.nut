@@ -11,8 +11,8 @@
     "ID": 293422365,
     "key": "This character is prone to excessive violence and cruelty towards his enemies. An opponent isn't good enough dead, his head needs to be on a spike!",
     "original": "This character is prone to excessive violence and cruelty towards his enemies. An opponent isn't good enough dead, his head needs to be on a spike!",
-    "translation": "这个角色容易对敌人过度暴力和残忍。一个对手死了还不够好，他的头需要被插在桩子上！",
-    "stage": 5,
+    "translation": "这个角色容易对敌人过度暴力和残忍。死了还不够，把他的头串起来！",
+    "stage": 1,
     "context": "this.m.Description = \"This character is prone to excessive violence and cruelty towards his enemies. An opponent isn't good enough dead, his head needs to be on a spike!\""
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293422367,
     "key": "the Mad",
     "original": "the Mad",
-    "translation": "疯子(the Mad)",
-    "stage": 5,
+    "translation": "疯子",
+    "stage": 1,
     "context": "'the Mad'"
   },
   {

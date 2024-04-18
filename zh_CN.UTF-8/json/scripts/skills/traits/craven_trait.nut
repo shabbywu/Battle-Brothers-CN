@@ -59,8 +59,8 @@
     "ID": 293422411,
     "key": "Turncoat",
     "original": "Turncoat",
-    "translation": "变节者(Turncoat)",
-    "stage": 5,
+    "translation": "墙头草",
+    "stage": 1,
     "context": "'Turncoat'"
   }
 ]

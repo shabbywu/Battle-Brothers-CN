@@ -19,7 +19,7 @@
     "ID": 293416709,
     "key": "the Sacrifice",
     "original": "the Sacrifice",
-    "translation": "献祭(the Sacrifice)",
+    "translation": "活祭品",
     "stage": 1,
     "context": "_event.m.Dude.setTitle('the Sacrifice')"
   },

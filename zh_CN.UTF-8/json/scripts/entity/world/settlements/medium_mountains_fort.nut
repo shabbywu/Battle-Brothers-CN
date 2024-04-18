@@ -99,7 +99,7 @@
     "ID": 293411360,
     "key": "Oberburg",
     "original": "Oberburg",
-    "translation": "奥伯堡",
+    "translation": "高堡",
     "stage": 1,
     "context": "this.getRandomName(['Hohenburg','Wolfenburg','Felsburg','Eisenburg','Jadeburg','Gronenburg','Thalburg','Sattelburg','Windburg','Turmburg','Adlerburg','Scharfenburg','Wolfenstein','Brunwald','Heldenburg','Wurmburg','Schwertburg','Lanzenburg','Himmelsburg','Granitschanze','Erzburg','Wolkenburg','Hochburg','Windfall','Gemmenburg','Hohenstein','Oberburg'])"
   },

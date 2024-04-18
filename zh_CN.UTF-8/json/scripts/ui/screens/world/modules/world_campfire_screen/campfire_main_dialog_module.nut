@@ -27,7 +27,7 @@
     "ID": 293423396,
     "key": " crowns. Is this what you want to do?",
     "original": " crowns. Is this what you want to do?",
-    "translation": "克朗，你想这样做吗？",
+    "translation": "克朗，你确定要这样做吗？",
     "stage": 1,
     "context": "this.showDialogPopup(this.Const.Strings.InventoryUpgradeHeader[this.World.Retinue.getInventoryUpgrades()], 'You can choose to ' + this.Const.Strings.InventoryUpgradeText[this.World.Retinue.getInventoryUpgrades()] + ' in order to gain 27 more inventory slots for the cost of ' + this.Const.Strings.InventoryUpgradeCosts[this.World.Retinue.getInventoryUpgrades()] + ' crowns. Is this what you want to do?', this.onUpgradeInventorySpace.bindenv(this), null)"
   },

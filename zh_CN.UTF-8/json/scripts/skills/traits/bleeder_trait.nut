@@ -3,7 +3,7 @@
     "ID": 293422360,
     "key": "Will receive bleeding damage for [color=",
     "original": "Will receive bleeding damage for [color=",
-    "translation": "将受到额外 [color=",
+    "translation": "额外受到 [color=",
     "stage": 1,
     "context": "text = 'Will receive bleeding damage for [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] additional turn'"
   },
@@ -11,7 +11,7 @@
     "ID": 293422361,
     "key": "]1[/color] additional turn",
     "original": "]1[/color] additional turn",
-    "translation": "]1[/color] 回合的流血伤害",
+    "translation": "]1[/color] 回合流血伤害",
     "stage": 1,
     "context": "text = 'Will receive bleeding damage for [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] additional turn'"
   },
@@ -27,8 +27,8 @@
     "ID": 293422363,
     "key": "Bleeder",
     "original": "Bleeder",
-    "translation": "出血者",
-    "stage": 5,
+    "translation": "出血体质",
+    "stage": 1,
     "context": "this.m.Name = 'Bleeder'"
   }
 ]

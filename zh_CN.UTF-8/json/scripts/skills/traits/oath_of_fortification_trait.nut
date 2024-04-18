@@ -75,8 +75,8 @@
     "ID": 293422643,
     "key": "This character has taken an Oath of Fortification, and is sworn to trust in his shield above all else.",
     "original": "This character has taken an Oath of Fortification, and is sworn to trust in his shield above all else.",
-    "translation": "该角色已经立下了壁垒誓言，发誓对他的盾牌寄予无上的信任。",
-    "stage": 5,
+    "translation": "该角色立下了壁垒誓言，发誓对他的盾牌寄予无上的信任。",
+    "stage": 1,
     "context": "this.m.Description = 'This character has taken an Oath of Fortification, and is sworn to trust in his shield above all else.'"
   }
 ]

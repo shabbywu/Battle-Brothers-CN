@@ -11,8 +11,8 @@
     "ID": 293422391,
     "key": "Afflicted with clubfoot as a child, this character still has a harder time walking than most.",
     "original": "Afflicted with clubfoot as a child, this character still has a harder time walking than most.",
-    "translation": "这个角色在童年时期就患有畸形足，现在依然走路比大多数人都要困难。",
-    "stage": 5,
+    "translation": "从小患有畸形足，这名角色走路难过他人。",
+    "stage": 1,
     "context": "this.m.Description = 'Afflicted with clubfoot as a child, this character still has a harder time walking than most.'"
   },
   {
