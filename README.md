@@ -15,11 +15,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://blog.shabbywu.cn/"><img src="https://avatars.githubusercontent.com/u/5237578?v=4?s=100" width="100px;" alt="shabbywu"/><br /><sub><b>shabbywu</b></sub></a><br /><a href="[💻]("程序开发")," title="程序开发">💻</a> <a href="[📚]("翻译")," title="翻译">📚</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Rayforward"><img src="https://static.paratranz.cn/media/f135ba60348cca24362c7a4a043d86fb!webp320?s=100" width="100px;" alt="Rayforward"/><br /><sub><b>Rayforward</b></sub></a><br /><a href="[📚]("翻译")," title="翻译">📚</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Rayforward"><img src="https://raw.githubusercontent.com/shabbywu/Battle-Brothers-CN/main/.github/avatas/Rayforward.webp?s=100" width="100px;" alt="Rayforward"/><br /><sub><b>Rayforward</b></sub></a><br /><a href="[📚]("翻译")," title="翻译">📚</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/FaelGnahz"><img src="https://avatars.githubusercontent.com/u/152762848?v=4?s=100" width="100px;" alt="FaelGnahz"/><br /><sub><b>FaelGnahz</b></sub></a><br /><a href="[📚]("翻译")," title="翻译">📚</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/DarkSjm"><img src="https://avatars.githubusercontent.com/u/132847706?v=4?s=100" width="100px;" alt="DarkSjm"/><br /><sub><b>DarkSjm</b></sub></a><br /><a href="[📚]("翻译")," title="翻译">📚</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/zzj680124"><img src="https://avatars.githubusercontent.com/u/22744064?v=4?s=100" width="100px;" alt="0v0"/><br /><sub><b>0v0</b></sub></a><br /><a href="[📚]("翻译")," title="翻译">📚</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BarbChosen"><img src="https://static.paratranz.cn/media/2a244d7977a097e16968b47803d896cb!webp320?s=100" width="100px;" alt="野蛮人神选者"/><br /><sub><b>野蛮人神选者</b></sub></a><br /><a href="[📚]("翻译")," title="翻译">📚</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BarbChosen"><img src="https://raw.githubusercontent.com/shabbywu/Battle-Brothers-CN/main/.github/avatas/BarbChosen.webp?s=100" width="100px;" alt="野蛮人神选者"/><br /><sub><b>野蛮人神选者</b></sub></a><br /><a href="[📚]("翻译")," title="翻译">📚</a></td>
     </tr>
   </tbody>
   <tfoot>
