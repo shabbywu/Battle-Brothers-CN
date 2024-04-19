@@ -72,12 +72,12 @@
     "程序": {
       "symbol": "💻",
       "description": "程序开发",
-      "link": "[<%= symbol %>](#),"
+      "link": "#"
     },
     "翻译": {
       "symbol": "📚",
       "description": "翻译",
-      "link": "[<%= symbol %>](https://paratranz.cn/projects/7032/),"
+      "link": "https://paratranz.cn/projects/7032"
     }
   }
 }
