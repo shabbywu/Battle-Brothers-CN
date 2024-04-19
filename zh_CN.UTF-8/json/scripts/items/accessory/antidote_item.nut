@@ -11,7 +11,7 @@
     "ID": 293417425,
     "key": "An antidote for various types of poisons. Tastes quite bitter.",
     "original": "An antidote for various types of poisons. Tastes quite bitter.",
-    "translation": "一瓶对多种毒素有效的解毒剂，尝起来很苦。",
+    "translation": "一瓶广谱解毒剂，味道很苦。",
     "stage": 1,
     "context": "this.m.Description = 'An antidote for various types of poisons. Tastes quite bitter.'"
   }

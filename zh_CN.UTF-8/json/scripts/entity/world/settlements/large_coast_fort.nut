@@ -19,8 +19,8 @@
     "ID": 293410734,
     "key": "This massive citadel guards a warport and the surrounding trade routes",
     "original": "This massive citadel guards a warport and the surrounding trade routes",
-    "translation": "这个巨大的城堡守卫着一个军港和周围的贸易路线",
-    "stage": 5,
+    "translation": "这座巨大的城堡守卫着一个军港和周围的贸易路线",
+    "stage": 1,
     "context": "this.m.UIDescription = 'This massive citadel guards a warport and the surrounding trade routes'"
   },
   {

@@ -35,7 +35,7 @@
     "ID": 293417461,
     "key": "Iron Will Potion",
     "original": "Iron Will Potion",
-    "translation": "钢铁意志药水",
+    "translation": "钢铁意志药剂",
     "stage": 1,
     "context": "this.m.Name = 'Iron Will Potion'"
   }

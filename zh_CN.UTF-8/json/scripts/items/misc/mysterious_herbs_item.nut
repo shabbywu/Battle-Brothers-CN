@@ -11,7 +11,7 @@
     "ID": 293418682,
     "key": "These herbs do not look or smell like any known to you. Their scent is intriguing and appalling at the same time.",
     "original": "These herbs do not look or smell like any known to you. Their scent is intriguing and appalling at the same time.",
-    "translation": "这些草药看起来或闻起来都不像你所知道的任何草药。它们的气味既迷人又可怕。",
+    "translation": "这些药草的形状和气味都与你认所知晓的不同。它们的气味迷人又骇人。",
     "stage": 1,
     "context": "this.m.Description = 'These herbs do not look or smell like any known to you. Their scent is intriguing and appalling at the same time.'"
   }

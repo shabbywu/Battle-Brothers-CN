@@ -3,7 +3,7 @@
     "ID": 293418342,
     "key": "Ancient Amber",
     "original": "Ancient Amber",
-    "translation": "古琥珀",
+    "translation": "陈年琥珀",
     "stage": 1,
     "context": "this.m.Name = 'Ancient Amber'"
   },

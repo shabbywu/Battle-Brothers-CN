@@ -3,7 +3,7 @@
     "ID": 293418669,
     "key": "The shimmering green scales of a Lindwurm are among the most reputable trophies a beast hunter can bring home from his adventures.",
     "original": "The shimmering green scales of a Lindwurm are among the most reputable trophies a beast hunter can bring home from his adventures.",
-    "translation": "林德蠕龙身上闪闪发光的绿色鳞片是猎人从历险中带回的最著名的战利品之一。",
+    "translation": "林德蠕龙的闪光绿鳞最能为野兽猎人打响名气。",
     "stage": 1,
     "context": "this.m.Description = 'The shimmering green scales of a Lindwurm are among the most reputable trophies a beast hunter can bring home from his adventures.'"
   },

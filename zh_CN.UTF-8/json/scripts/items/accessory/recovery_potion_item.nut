@@ -35,7 +35,7 @@
     "ID": 293417494,
     "key": "Second Wind Potion",
     "original": "Second Wind Potion",
-    "translation": "第二呼吸药水",
+    "translation": "第二呼吸药剂",
     "stage": 1,
     "context": "this.m.Name = 'Second Wind Potion'"
   }

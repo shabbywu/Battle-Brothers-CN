@@ -3,8 +3,8 @@
     "ID": 293418346,
     "key": "A necklace made from various beads typical of northern barbarian tribes.",
     "original": "A necklace made from various beads typical of northern barbarian tribes.",
-    "translation": "一条由北方野蛮部落特有的各种珠子制成的项链。",
-    "stage": 5,
+    "translation": "一条珠子项链，选用的珠子是典型的北方蛮族部落风格。",
+    "stage": 1,
     "context": "this.m.Description = 'A necklace made from various beads typical of northern barbarian tribes.'"
   },
   {
