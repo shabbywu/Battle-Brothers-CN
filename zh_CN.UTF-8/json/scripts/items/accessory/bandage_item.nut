@@ -3,8 +3,8 @@
     "ID": 293417428,
     "key": "Clean bandages that can be used in combat to apply pressure to bleeding wounds and stop any hemorrhaging.",
     "original": "Clean bandages that can be used in combat to apply pressure to bleeding wounds and stop any hemorrhaging.",
-    "translation": "干净的绷带，可在战斗中用于给出血伤口施加压力以止血。",
-    "stage": 5,
+    "translation": "干净的绷带，用于在战斗中压迫伤口，帮助止血。",
+    "stage": 1,
     "context": "this.m.Description = 'Clean bandages that can be used in combat to apply pressure to bleeding wounds and stop any hemorrhaging.'"
   },
   {

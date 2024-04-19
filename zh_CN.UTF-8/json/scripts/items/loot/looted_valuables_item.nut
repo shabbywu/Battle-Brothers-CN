@@ -3,7 +3,7 @@
     "ID": 293418372,
     "key": "A pillaged pile of valuables that have been looted by the Barbarians over the years. Many pieces are broken and bent but the materials are quite exquisite.",
     "original": "A pillaged pile of valuables that have been looted by the Barbarians over the years. Many pieces are broken and bent but the materials are quite exquisite.",
-    "translation": "多年来被野蛮人抢劫的一堆贵重物品。 许多部件都是破碎和弯曲的，但材料相当精致。",
+    "translation": "野蛮人数年间抢来的财宝被堆在一起。大多都损坏扭曲了，但用料相当精致。",
     "stage": 1,
     "context": "this.m.Description = 'A pillaged pile of valuables that have been looted by the Barbarians over the years. Many pieces are broken and bent but the materials are quite exquisite.'"
   },
@@ -11,7 +11,7 @@
     "ID": 293418373,
     "key": "Looted Valuables",
     "original": "Looted Valuables",
-    "translation": "贵重战利品",
+    "translation": "抢来的财宝",
     "stage": 1,
     "context": "this.m.Name = 'Looted Valuables'"
   }

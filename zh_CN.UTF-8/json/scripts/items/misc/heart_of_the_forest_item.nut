@@ -11,7 +11,7 @@
     "ID": 293418658,
     "key": "A thorny plant part, resembling in shape a human heart.",
     "original": "A thorny plant part, resembling in shape a human heart.",
-    "translation": "一种多刺植物的某部分，看起来像人类心脏的形状。",
+    "translation": "带刺的植物器官，形似人类心脏",
     "stage": 1,
     "context": "this.m.Description = 'A thorny plant part, resembling in shape a human heart.'"
   }

@@ -11,7 +11,7 @@
     "ID": 293418711,
     "key": "Looks delicious!",
     "original": "Looks delicious!",
-    "translation": "看起来很好吃！",
+    "translation": "看着就很好吃！",
     "stage": 1,
     "context": "this.m.Description = 'Looks delicious!'"
   }

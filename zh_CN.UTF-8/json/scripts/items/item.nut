@@ -11,7 +11,7 @@
     "ID": 293418323,
     "key": "Worth [img]gfx/ui/tooltips/money.png[/img][b]",
     "original": "Worth [img]gfx/ui/tooltips/money.png[/img][b]",
-    "translation": "价值 [img]gfx/ui/tooltips/money.png[/img][b]",
+    "translation": "价值[img]gfx/ui/tooltips/money.png[/img][b]",
     "stage": 1,
     "context": "return 'Worth [img]gfx/ui/tooltips/money.png[/img][b]' + this.getValue() + '[/b]';"
   },

@@ -11,7 +11,7 @@
     "ID": 293418645,
     "key": "Nachzehrers can grow impressive horns, and these in turn make for impressive trophies.",
     "original": "Nachzehrers can grow impressive horns, and these in turn make for impressive trophies.",
-    "translation": "食尸鬼会长出不同寻常的角，这些当然也就成了不同寻常的战利品。",
+    "translation": "食尸鬼会长出不同寻常的角 —— 不同寻常的战利品。",
     "stage": 1,
     "context": "this.m.Description = 'Nachzehrers can grow impressive horns, and these in turn make for impressive trophies.'"
   }

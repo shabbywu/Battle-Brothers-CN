@@ -11,7 +11,7 @@
     "ID": 293418741,
     "key": "A heavy hide coat that can be donned by any wardog to give it protection in combat.",
     "original": "A heavy hide coat that can be donned by any wardog to give it protection in combat.",
-    "translation": "重型的皮毛外套，可披在任何战犬身上，以在战斗时提供保护。",
+    "translation": "重型的皮毛外套，可披在战犬身上，在战斗时提供保护。",
     "stage": 1,
     "context": "this.m.Description = 'A heavy hide coat that can be donned by any wardog to give it protection in combat.'"
   },

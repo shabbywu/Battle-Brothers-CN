@@ -659,8 +659,8 @@
     "ID": 293423035,
     "key": "Initiative",
     "original": "Initiative",
-    "translation": "主动性",
-    "stage": 5,
+    "translation": "主动值",
+    "stage": 1,
     "context": "text = 'Initiative'"
   },
   {
@@ -2467,7 +2467,7 @@
     "ID": 293423261,
     "key": "Chance to hit head",
     "original": "Chance to hit head",
-    "translation": "击中头部的机率",
+    "translation": "爆头率",
     "stage": 1,
     "context": "text = 'Chance to hit head'"
   },

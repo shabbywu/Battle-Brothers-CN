@@ -19,7 +19,7 @@
     "ID": 293417469,
     "key": "Lionheart Potion",
     "original": "Lionheart Potion",
-    "translation": "狮心药水",
+    "translation": "狮心药剂",
     "stage": 1,
     "context": "this.m.Name = 'Lionheart Potion'"
   },

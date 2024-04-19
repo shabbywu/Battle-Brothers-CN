@@ -19,7 +19,7 @@
     "ID": 293418739,
     "key": "A simple leather coat that can be donned by any wardog to give it some protection in combat.",
     "original": "A simple leather coat that can be donned by any wardog to give it some protection in combat.",
-    "translation": "简单的皮革外套，可披在任何战犬身上，以在战斗时提供一些保护。",
+    "translation": "简单的皮革外套，可披在战犬身上，在战斗时提供保护。",
     "stage": 1,
     "context": "this.m.Description = 'A simple leather coat that can be donned by any wardog to give it some protection in combat.'"
   }

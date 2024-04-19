@@ -3,7 +3,7 @@
     "ID": 293418374,
     "key": "A well preserved tome with a massive golden book cover. Should fetch a good price from the kind of people that study dusty old tomes.",
     "original": "A well preserved tome with a massive golden book cover. Should fetch a good price from the kind of people that study dusty old tomes.",
-    "translation": "一本保存完好的书，有一个巨大的黄金封面。考古学者应该会为它付出一个好价钱。",
+    "translation": "有着巨大黄金封面，保存完好的巨著。能在专研尘封古书的人那儿卖个好价。",
     "stage": 1,
     "context": "this.m.Description = 'A well preserved tome with a massive golden book cover. Should fetch a good price from the kind of people that study dusty old tomes.'"
   },
@@ -11,7 +11,7 @@
     "ID": 293418375,
     "key": "Ornate Tome",
     "original": "Ornate Tome",
-    "translation": "华丽的书本",
+    "translation": "华丽巨著",
     "stage": 1,
     "context": "this.m.Name = 'Ornate Tome'"
   }

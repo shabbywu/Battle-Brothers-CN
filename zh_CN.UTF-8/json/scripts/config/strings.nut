@@ -11,7 +11,7 @@
     "ID": 293405637,
     "key": "]15%[/color] of the character's current Initiative as a bonus to Melee and Ranged Defense.",
     "original": "]15%[/color] of the character's current Initiative as a bonus to Melee and Ranged Defense.",
-    "translation": "]15%[/color]作为近战和远程防御的加成。",
+    "translation": "]15%[/color]。",
     "stage": 1,
     "context": "Dodge = 'Too fast for you! Gain [color=' + this.Const.UI.Color.PositiveValue + \"]15%[/color] of the character's current Initiative as a bonus to Melee and Ranged Defense.\""
   },
@@ -1179,7 +1179,7 @@
     "ID": 293405783,
     "key": "Armored Wardogs",
     "original": "Armored Wardogs",
-    "translation": "装甲战犬",
+    "translation": "盔甲战犬",
     "stage": 1,
     "context": "'Armored Wardogs'"
   },
@@ -1515,8 +1515,8 @@
     "ID": 293405825,
     "key": "Armored Wiedergangers",
     "original": "Armored Wiedergangers",
-    "translation": "装甲僵尸",
-    "stage": 5,
+    "translation": "盔甲僵尸",
+    "stage": 1,
     "context": "'Armored Wiedergangers'"
   },
   {
@@ -1787,7 +1787,7 @@
     "ID": 293405859,
     "key": "Hits to the head no longer cause critical damage to this character, which also lowers the risk of sustaining debilitating head injuries significantly.",
     "original": "Hits to the head no longer cause critical damage to this character, which also lowers the risk of sustaining debilitating head injuries significantly.",
-    "translation": "击中头部不再对该角色造成严重伤害，这也显着降低了头部遭受严重伤害的风险。",
+    "translation": "命中该角色头部不再造成暴击伤害，因此显著降低了遭受严重头部创伤的风险。",
     "stage": 1,
     "context": "SteelBrow = 'Hits to the head no longer cause critical damage to this character, which also lowers the risk of sustaining debilitating head injuries significantly.'"
   },
@@ -2467,7 +2467,7 @@
     "ID": 293405944,
     "key": "An iron will is not swayed from the true path easily. Resolve is increased by [color=",
     "original": "An iron will is not swayed from the true path easily. Resolve is increased by [color=",
-    "translation": "铁一般的意志不会轻易偏离正道。 决心增加 [color=",
+    "translation": "钢铁般的意志不会轻易偏离正道。决心增加[color=",
     "stage": 1,
     "context": "FortifiedMind = 'An iron will is not swayed from the true path easily. Resolve is increased by [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color].'"
   },
@@ -3547,7 +3547,7 @@
     "ID": 293406079,
     "key": "Too fast for you! Gain [color=",
     "original": "Too fast for you! Gain [color=",
-    "translation": "你可跟不上我! 获得角色当前主动性的[color=",
+    "translation": "快你一步！近战、远程防御增加角色当前主动值的[color=",
     "stage": 1,
     "context": "Dodge = 'Too fast for you! Gain [color=' + this.Const.UI.Color.PositiveValue + \"]15%[/color] of the character's current Initiative as a bonus to Melee and Ranged Defense.\""
   },
@@ -4635,7 +4635,7 @@
     "ID": 293406215,
     "key": "Armored Unhold",
     "original": "Armored Unhold",
-    "translation": "装甲巨魔",
+    "translation": "盔甲巨魔",
     "stage": 1,
     "context": "'Armored Unhold'"
   },
@@ -4667,8 +4667,8 @@
     "ID": 293406219,
     "key": "Armored Wiederganger",
     "original": "Armored Wiederganger",
-    "translation": "装甲僵尸",
-    "stage": 5,
+    "translation": "盔甲僵尸",
+    "stage": 1,
     "context": "'Armored Wiederganger'"
   },
   {
@@ -5659,7 +5659,7 @@
     "ID": 293406343,
     "key": "Armored Wardog",
     "original": "Armored Wardog",
-    "translation": "装甲战犬",
+    "translation": "盔甲战犬",
     "stage": 1,
     "context": "'Armored Wardog'"
   },
@@ -8643,8 +8643,8 @@
     "ID": 293406716,
     "key": "Fortified Mind",
     "original": "Fortified Mind",
-    "translation": "强化思想",
-    "stage": 5,
+    "translation": "坚定意志",
+    "stage": 1,
     "context": "FortifiedMind = 'Fortified Mind'"
   },
   {
@@ -8995,7 +8995,7 @@
     "ID": 293406760,
     "key": "Armored Unholds",
     "original": "Armored Unholds",
-    "translation": "装甲巨魔",
+    "translation": "盔甲巨魔",
     "stage": 1,
     "context": "'Armored Unholds'"
   },
@@ -9243,7 +9243,7 @@
     "ID": 293406791,
     "key": "Dodge",
     "original": "Dodge",
-    "translation": "躲闪",
+    "translation": "闪避",
     "stage": 1,
     "context": "Dodge = 'Dodge'"
   },

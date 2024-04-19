@@ -83,8 +83,8 @@
     "ID": 293419493,
     "key": "]Is empty and useless[/color]",
     "original": "]Is empty and useless[/color]",
-    "translation": "]已用尽，无用的[/color]",
-    "stage": 5,
+    "translation": "]空空如也，毫无用处[/color]",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Is empty and useless[/color]'"
   },
   {
