@@ -1,5 +1,43 @@
 Battle Brothers(战场兄弟)中文翻译项目
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 ==========================================
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://blog.shabbywu.cn/"><img src="https://avatars.githubusercontent.com/u/5237578?v=4?s=100" width="100px;" alt="shabbywu"/><br /><sub><b>shabbywu</b></sub></a><br /><a href="[💻]("程序开发")," title="程序开发">💻</a> <a href="[📚]("翻译")," title="翻译">📚</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Rayforward"><img src="https://static.paratranz.cn/media/f135ba60348cca24362c7a4a043d86fb!webp320?s=100" width="100px;" alt="Rayforward"/><br /><sub><b>Rayforward</b></sub></a><br /><a href="[📚]("翻译")," title="翻译">📚</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/FaelGnahz"><img src="https://avatars.githubusercontent.com/u/152762848?v=4?s=100" width="100px;" alt="FaelGnahz"/><br /><sub><b>FaelGnahz</b></sub></a><br /><a href="[📚]("翻译")," title="翻译">📚</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DarkSjm"><img src="https://avatars.githubusercontent.com/u/132847706?v=4?s=100" width="100px;" alt="DarkSjm"/><br /><sub><b>DarkSjm</b></sub></a><br /><a href="[📚]("翻译")," title="翻译">📚</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/zzj680124"><img src="https://avatars.githubusercontent.com/u/22744064?v=4?s=100" width="100px;" alt="0v0"/><br /><sub><b>0v0</b></sub></a><br /><a href="[📚]("翻译")," title="翻译">📚</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BarbChosen"><img src="https://static.paratranz.cn/media/2a244d7977a097e16968b47803d896cb!webp320?s=100" width="100px;" alt="野蛮人神选者"/><br /><sub><b>野蛮人神选者</b></sub></a><br /><a href="[📚]("翻译")," title="翻译">📚</a></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td align="center" size="13px" colspan="7">
+        <img src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg">
+          <a href="https://all-contributors.js.org/docs/en/bot/usage">Add your contributions</a>
+        </img>
+      </td>
+    </tr>
+  </tfoot>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 
 <a href="https://paratranz.cn/projects/7032">
 <img src="https://static.paratranz.cn/media/cd18e5c603bdaff23ad9a7e55935fc66" alt="翻译状态" />

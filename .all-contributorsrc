@@ -1,0 +1,83 @@
+{
+  "projectName": "Battle-Brothers-CN",
+  "projectOwner": "shabbywu",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "shabbywu",
+      "name": "shabbywu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5237578?v=4",
+      "profile": "https://blog.shabbywu.cn/",
+      "contributions": [
+        "程序",
+        "翻译"
+      ]
+    },
+    {
+      "login": "Rayforward",
+      "name": "Rayforward",
+      "avatar_url": "https://static.paratranz.cn/media/f135ba60348cca24362c7a4a043d86fb!webp320",
+      "profile": "https://github.com/Rayforward",
+      "contributions": [
+        "翻译"
+      ]
+    },
+    {
+      "login": "FaelGnahz",
+      "name": "FaelGnahz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152762848?v=4",
+      "profile": "https://github.com/FaelGnahz",
+      "contributions": [
+        "翻译"
+      ]
+    },
+    {
+      "login": "DarkSjm",
+      "name": "DarkSjm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132847706?v=4",
+      "profile": "https://github.com/DarkSjm",
+      "contributions": [
+        "翻译"
+      ]
+    },
+    {
+      "login": "zzj680124",
+      "name": "0v0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22744064?v=4",
+      "profile": "https://github.com/zzj680124",
+      "contributions": [
+        "翻译"
+      ]
+    },
+    {
+      "login": "BarbChosen",
+      "name": "野蛮人神选者",
+      "avatar_url": "https://static.paratranz.cn/media/2a244d7977a097e16968b47803d896cb!webp320",
+      "profile": "https://github.com/BarbChosen",
+      "contributions": [
+        "翻译"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": true,
+  "types": {
+    "程序": {
+      "symbol": "💻",
+      "description": "程序开发",
+      "link": "[<%= symbol %>](\"<%= description %>\"),"
+    },
+    "翻译": {
+      "symbol": "📚",
+      "description": "翻译",
+      "link": "[<%= symbol %>](\"<%= description %>\"),"
+    }
+  }
+}

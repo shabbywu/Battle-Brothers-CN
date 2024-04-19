@@ -1,3 +1,4 @@
 .idea
 bin/push-to-paratranz
 bin/sync-from-paratranz
+node_modules/
