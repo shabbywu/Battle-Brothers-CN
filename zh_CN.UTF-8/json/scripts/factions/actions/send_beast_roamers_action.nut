@@ -115,7 +115,7 @@
     "ID": 293417350,
     "key": "A pack of ferocious direwolves on the hunt for prey.",
     "original": "A pack of ferocious direwolves on the hunt for prey.",
-    "translation": "一群凶猛的冰原狼正在寻找猎物。",
+    "translation": "一群寻找猎物的凶猛恐狼。",
     "stage": 1,
     "context": "party.setDescription('A pack of ferocious direwolves on the hunt for prey.')"
   },
@@ -131,8 +131,8 @@
     "ID": 293417352,
     "key": "Direwolves",
     "original": "Direwolves",
-    "translation": "冰原狼",
-    "stage": 5,
+    "translation": "恐狼",
+    "stage": 1,
     "context": "_action.getFaction().spawnEntity(tile, 'Direwolves', False, this.Const.World.Spawn.Direwolves, this.Math.rand(80, 120) * _action.getScaledDifficultyMult() * this.Math.maxf(0.699999988079071, this.Math.minf(1.5, distanceToNextSettlement \\ 14.0)))"
   },
   {

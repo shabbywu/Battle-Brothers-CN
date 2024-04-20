@@ -27,7 +27,7 @@
     "ID": 293418417,
     "key": "This humoural concoction, borne from research into the dreaded direwolf, will turn even the clumsiest oaf into a lithe dancer of a warrior, able to gracefully move with the tides of battle long after lesser men succumb to fatigue! Mild akathisia after con",
     "original": "This humoural concoction, borne from research into the dreaded direwolf, will turn even the clumsiest oaf into a lithe dancer of a warrior, able to gracefully move with the tides of battle long after lesser men succumb to fatigue! Mild akathisia after consuming is normal and expected.",
-    "translation": "这种略显喜感的混合物来源于对可怕的冰原野狼的研究，即使是最笨拙的白痴在喝下它之后也会变成动作如舞蹈般轻盈的战士，就算在那些足以把弱者累趴下的持久战中，他们也能在战场中翩翩起舞！服用后出现轻度的多动症状属于正常现象。",
+    "translation": "这种略显喜感的混合物来源于对可怕的恐狼的研究，即使是最笨拙的白痴在喝下它之后也会变成动作如舞蹈般轻盈的战士，就算在那些足以把弱者累趴下的持久战中，他们也能在战场中翩翩起舞！服用后出现轻度的多动症状属于正常现象。",
     "stage": 1,
     "context": "this.m.Description = 'This humoural concoction, borne from research into the dreaded direwolf, will turn even the clumsiest oaf into a lithe dancer of a warrior, able to gracefully move with the tides of battle long after lesser men succumb to fatigue! Mild akathisia after consuming is normal and expected.'"
   },

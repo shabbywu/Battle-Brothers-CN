@@ -3,7 +3,7 @@
     "ID": 293417588,
     "key": "Heavy Iron Armor",
     "original": "Heavy Iron Armor",
-    "translation": "重型铁护甲",
+    "translation": "重型铁甲",
     "stage": 1,
     "context": "this.m.Name = 'Heavy Iron Armor'"
   },

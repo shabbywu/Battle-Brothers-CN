@@ -107,7 +107,7 @@
     "ID": 293415285,
     "key": "At %townname%",
     "original": "At %townname%",
-    "translation": "在 %townname%",
+    "translation": "在%townname%",
     "stage": 1,
     "context": "this.m.Title = 'At %townname%'"
   },
@@ -219,8 +219,8 @@
     "ID": 293415299,
     "key": "[/color] Initiative",
     "original": "[/color] Initiative",
-    "translation": "[/color] 主动性",
-    "stage": 5,
+    "translation": "[/color]主动值",
+    "stage": 1,
     "context": "text = _event.m.Brawler.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + initiative_boost + '[/color] Initiative'"
   },
   {

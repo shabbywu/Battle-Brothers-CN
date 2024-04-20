@@ -3,8 +3,8 @@
     "ID": 293417653,
     "key": "Leather Wraps",
     "original": "Leather Wraps",
-    "translation": "皮外衣",
-    "stage": 5,
+    "translation": "皮革外衣",
+    "stage": 1,
     "context": "this.m.Name = 'Leather Wraps'"
   },
   {

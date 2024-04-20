@@ -11,7 +11,7 @@
     "ID": 293417650,
     "key": "A mail shirt worn under a thick leather scale armor for added protection.",
     "original": "A mail shirt worn under a thick leather scale armor for added protection.",
-    "translation": "一件拥有厚实皮革鳞片提供额外防护的盔甲。",
+    "translation": "为了提升防护性能，厚重的皮制鳞甲下还套了一件链甲衫。",
     "stage": 1,
     "context": "this.m.Description = 'A mail shirt worn under a thick leather scale armor for added protection.'"
   }

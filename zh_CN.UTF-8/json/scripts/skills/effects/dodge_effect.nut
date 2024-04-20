@@ -11,8 +11,8 @@
     "ID": 293421476,
     "key": "Quick reflexes allow this character to add part of their current initiative to melee and ranged defense.",
     "original": "Quick reflexes allow this character to add part of their current initiative to melee and ranged defense.",
-    "translation": "快速的反应使得这个角色可以将其当前主动性的一部分作为近战和远程防御加成。",
-    "stage": 5,
+    "translation": "快速的反应使得这个角色可以将其当前主动值的一部分作为近战和远程防御加成。",
+    "stage": 1,
     "context": "this.m.Description = 'Quick reflexes allow this character to add part of their current initiative to melee and ranged defense.'"
   },
   {

@@ -51,7 +51,7 @@
     "ID": 293412820,
     "key": "At %townname%",
     "original": "At %townname%",
-    "translation": "在 %townname%",
+    "translation": "在%townname%",
     "stage": 1,
     "context": "this.m.Title = 'At %townname%'"
   },
@@ -83,8 +83,8 @@
     "ID": 293412824,
     "key": "]+2[/color] Initiative",
     "original": "]+2[/color] Initiative",
-    "translation": "]+2[/color] 主动性",
-    "stage": 5,
+    "translation": "]+2[/color]主动值",
+    "stage": 1,
     "context": "text = _event.m.Ratcatcher.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+2[/color] Initiative'"
   },
   {

@@ -123,7 +123,7 @@
     "ID": 293418551,
     "key": "Direwolf",
     "original": "Direwolf",
-    "translation": "冰原狼",
+    "translation": "恐狼",
     "stage": 1,
     "context": "creatureName = 'Direwolf'"
   },

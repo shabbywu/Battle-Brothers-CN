@@ -3,8 +3,8 @@
     "ID": 293417833,
     "key": "Padded Surcoat",
     "original": "Padded Surcoat",
-    "translation": "加厚外套",
-    "stage": 5,
+    "translation": "填充外套",
+    "stage": 1,
     "context": "this.m.Name = 'Padded Surcoat'"
   },
   {

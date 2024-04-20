@@ -35,7 +35,7 @@
     "ID": 293415387,
     "key": "]+1[/color] Initiative",
     "original": "]+1[/color] Initiative",
-    "translation": "]+1[/color] 主动性",
+    "translation": "]+1[/color]主动值",
     "stage": 1,
     "context": "text = _event.m.Gladiator.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+1[/color] Initiative'"
   },

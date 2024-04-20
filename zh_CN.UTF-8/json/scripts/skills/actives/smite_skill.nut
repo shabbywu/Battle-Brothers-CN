@@ -91,8 +91,8 @@
     "ID": 293420438,
     "key": "A slow overhead strike performed with full force to smash a target to bits. Anyone hit will be staggered and lose initiative.",
     "original": "A slow overhead strike performed with full force to smash a target to bits. Anyone hit will be staggered and lose initiative.",
-    "translation": "一种缓慢的过顶击，用全部力量把目标砸成碎片。任何被击中的目标都会趔趄并降低主动性。",
-    "stage": 5,
+    "translation": "一种缓慢的过顶击，用全部力量把目标砸成碎片。任何被击中的目标都会趔趄并降低主动值。",
+    "stage": 1,
     "context": "this.m.Description = 'A slow overhead strike performed with full force to smash a target to bits. Anyone hit will be staggered and lose initiative.'"
   },
   {

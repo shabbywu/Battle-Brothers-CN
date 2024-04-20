@@ -1755,7 +1755,7 @@
     "ID": 293405855,
     "key": "The fatigue and initiative penalty from wearing armor and helmet is reduced by [color=",
     "original": "The fatigue and initiative penalty from wearing armor and helmet is reduced by [color=",
-    "translation": "穿着盔甲和头盔的疲劳值和主动惩罚降低了 [color=",
+    "translation": "穿着盔甲和头盔的疲劳和主动值惩罚降低[color=",
     "stage": 1,
     "context": "Brawny = 'The fatigue and initiative penalty from wearing armor and helmet is reduced by [color=' + this.Const.UI.Color.NegativeValue + ']30%[/color].'"
   },
@@ -2379,7 +2379,7 @@
     "ID": 293405933,
     "key": "]50%[/color] of your accumulated Fatigue, instead of all of it. In addition, using the 'Wait' command will no longer give you a penalty to Initiative in the next round.",
     "original": "]50%[/color] of your accumulated Fatigue, instead of all of it. In addition, using the 'Wait' command will no longer give you a penalty to Initiative in the next round.",
-    "translation": "]50%[/color]，而不是全部的。此外，使用'等待'命令将不再使你在下一回合的主动性受到惩罚。",
+    "translation": "]50%[/color]，而不是全部的。此外，使用'等待'命令将不再使你在下一回合的主动值受到惩罚。",
     "stage": 1,
     "context": "Relentless = \"Don't slow down! At all times your Initiative is reduced only by [color=\" + this.Const.UI.Color.NegativeValue + \"]50%[/color] of your accumulated Fatigue, instead of all of it. In addition, using the 'Wait' command will no longer give you a penalty to Initiative in the next round.\""
   },
@@ -4595,7 +4595,7 @@
     "ID": 293406210,
     "key": "Learn to take advantage of your high Initiative and prevent the enemy from attacking effectively by overwhelming them with your attacks!\n\nWith every attack, hit or miss, against an opponent that acts after you in the current round, inflict the 'Overwhelme",
     "original": "Learn to take advantage of your high Initiative and prevent the enemy from attacking effectively by overwhelming them with your attacks!\n\nWith every attack, hit or miss, against an opponent that acts after you in the current round, inflict the 'Overwhelmed' status effect which lowers both Melee Skill and Ranged Skill by [color=",
-    "translation": "学会利用你的高主动性，通过用你的攻击压制敌人来阻止敌人有效的攻击！每一次攻击，不管是命中还是未命中，对当前回合中在你之后行动的对手，都会造成'压倒'的状态效果，使近战技能和远程技能都降低 [color=",
+    "translation": "学会利用你的高主动，通过用你的攻击压制敌人来阻止敌人有效的攻击！每一次攻击，不管是命中还是未命中，对当前回合中在你之后行动的对手，都会造成'压倒'的状态效果，使近战技能和远程技能都降低 [color=",
     "stage": 1,
     "context": "Overwhelm = \"Learn to take advantage of your high Initiative and prevent the enemy from attacking effectively by overwhelming them with your attacks!\n\nWith every attack, hit or miss, against an opponent that acts after you in the current round, inflict the 'Overwhelmed' status effect which lowers both Melee Skill and Ranged Skill by [color=\" + this.Const.UI.Color.NegativeValue + ']10%[/color] for one turn.\n\nThe effect stacks with each attack, and can be applied to multiple targets at once with a single attack.'"
   },
@@ -6403,7 +6403,7 @@
     "ID": 293406436,
     "key": "Direwolf",
     "original": "Direwolf",
-    "translation": "冰原狼",
+    "translation": "恐狼",
     "stage": 1,
     "context": "'Direwolf'"
   },
@@ -7707,8 +7707,8 @@
     "ID": 293406599,
     "key": "Direwolves",
     "original": "Direwolves",
-    "translation": "冰原狼",
-    "stage": 5,
+    "translation": "恐狼",
+    "stage": 1,
     "context": "'Direwolves'"
   },
   {
@@ -9555,7 +9555,7 @@
     "ID": 293406830,
     "key": "Don't slow down! At all times your Initiative is reduced only by [color=",
     "original": "Don't slow down! At all times your Initiative is reduced only by [color=",
-    "translation": "不要慢下来! 在任何时候，你的主动性都只减少累积疲劳值的[color=",
+    "translation": "不要慢下来! 在任何时候，你的主动值都只减少累积疲劳值的[color=",
     "stage": 1,
     "context": "Relentless = \"Don't slow down! At all times your Initiative is reduced only by [color=\" + this.Const.UI.Color.NegativeValue + \"]50%[/color] of your accumulated Fatigue, instead of all of it. In addition, using the 'Wait' command will no longer give you a penalty to Initiative in the next round.\""
   },

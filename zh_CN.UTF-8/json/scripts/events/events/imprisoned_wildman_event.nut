@@ -211,7 +211,7 @@
     "ID": 293416106,
     "key": "]+2[/color] Initiative",
     "original": "]+2[/color] Initiative",
-    "translation": "]+2[/color] 主动性",
+    "translation": "]+2[/color]主动值",
     "stage": 1,
     "context": "text = _event.m.Other.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+2[/color] Initiative'"
   },

@@ -83,7 +83,7 @@
     "ID": 293415057,
     "key": "]+6[/color] Initiative",
     "original": "]+6[/color] Initiative",
-    "translation": "]+6[/color] 主动性",
+    "translation": "]+6[/color]主动值",
     "stage": 1,
     "context": "text = _event.m.MilitiaCaptain.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+6[/color] Initiative'"
   },
