@@ -227,7 +227,7 @@
     "ID": 293416986,
     "key": "[/color] Initiative",
     "original": "[/color] Initiative",
-    "translation": "[/color] 主动性",
+    "translation": "[/color]主动值",
     "stage": 1,
     "context": "text = _event.m.Witchhunter.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + initiative + '[/color] Initiative'"
   },

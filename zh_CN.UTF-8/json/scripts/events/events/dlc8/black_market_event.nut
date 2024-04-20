@@ -43,7 +43,7 @@
     "ID": 293415255,
     "key": "At %townname%",
     "original": "At %townname%",
-    "translation": "在 %townname%",
+    "translation": "在%townname%",
     "stage": 1,
     "context": "this.m.Title = 'At %townname%'"
   },
@@ -155,7 +155,7 @@
     "ID": 293415269,
     "key": "[img]gfx/ui/events/event_14.png[/img]{To you, the purchase has all the appearance of ashen peapods twisted around one another. Grey lumps curve and flatten repeatedly across the organ as its muscles contour and twist like sailor's ropes. The ripples end i",
     "original": "[img]gfx/ui/events/event_14.png[/img]{To you, the purchase has all the appearance of ashen peapods twisted around one another. Grey lumps curve and flatten repeatedly across the organ as its muscles contour and twist like sailor's ropes. The ripples end in a fat bulb of tissue. %anatomist% explains.%SPEECH_ON%It is believed that this is the organ which gives the direwolf so much energy. Even its shape carries a sort of ferocious structure, as if the organ itself meant to replicate its very purpose.%SPEECH_OFF%He cuts into the tissue and pulls it back, revealing a web of fleshen tunnels and channels that end in a bizarre complex of chambers. There's no telling what use a human could make of this part, but as %anatomist% starts fingering around the holes you quickly leave, only warning him to not do that so publicly lest he arise within the peasantry a form of lynch-hungry disgust.}",
-    "translation": "[img]gfx/ui/events/event_14.png[/img]{在你看来，这个器官就像是灰色荚草翻腾交织而成。灰色的块状物一遍又一遍地穿梭过这个器官，并且在肌肉因运动而弯曲和扭动的同时也在持续地收缩和扩张。在这些波动的末端，是一个肥状的组织。%anatomist%解释道。%SPEECH_ON% 大家相信, 这是赐予魔狼如此多能量的器官。甚至它的形状都带有一种凶猛的结构，好像器官本身就意味着要复制它的作用一样。%SPEECH_OFF% 他切开组织并将其拉回，显露出一个肉质隧道和通道的网状结构，最终到达一个奇怪的多个空腔的组合体。无法确认一个人可以利用这个部分做什么，但当%anatomist%开始在洞口摸索，你很快离开了，只是警告他不要在公开场合这样做，以免引起平民们的愤怒。}",
+    "translation": "[img]gfx/ui/events/event_14.png[/img]{在你看来，这个器官就像是灰色荚草翻腾交织而成。灰色的块状物一遍又一遍地穿梭过这个器官，并且在肌肉因运动而弯曲和扭动的同时也在持续地收缩和扩张。在这些波动的末端，是一个肥状的组织。%anatomist%解释道。%SPEECH_ON% 大家相信, 这是赐予恐狼如此多能量的器官。甚至它的形状都带有一种凶猛的结构，好像器官本身就意味着要复制它的作用一样。%SPEECH_OFF% 他切开组织并将其拉回，显露出一个肉质隧道和通道的网状结构，最终到达一个奇怪的多个空腔的组合体。无法确认一个人可以利用这个部分做什么，但当%anatomist%开始在洞口摸索，你很快离开了，只是警告他不要在公开场合这样做，以免引起平民们的愤怒。}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_14.png[/img]{To you, the purchase has all the appearance of ashen peapods twisted around one another. Grey lumps curve and flatten repeatedly across the organ as its muscles contour and twist like sailor's ropes. The ripples end in a fat bulb of tissue. %anatomist% explains.%SPEECH_ON%It is believed that this is the organ which gives the direwolf so much energy. Even its shape carries a sort of ferocious structure, as if the organ itself meant to replicate its very purpose.%SPEECH_OFF%He cuts into the tissue and pulls it back, revealing a web of fleshen tunnels and channels that end in a bizarre complex of chambers. There's no telling what use a human could make of this part, but as %anatomist% starts fingering around the holes you quickly leave, only warning him to not do that so publicly lest he arise within the peasantry a form of lynch-hungry disgust.}\""
   },

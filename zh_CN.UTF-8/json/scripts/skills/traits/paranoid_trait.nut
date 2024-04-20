@@ -3,8 +3,8 @@
     "ID": 293422701,
     "key": "]-30[/color] Initiative",
     "original": "]-30[/color] Initiative",
-    "translation": "]-30[/color] 主动性",
-    "stage": 5,
+    "translation": "]-30[/color]主动值",
+    "stage": 1,
     "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-30[/color] Initiative'"
   },
   {

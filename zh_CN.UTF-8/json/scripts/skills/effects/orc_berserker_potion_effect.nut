@@ -11,7 +11,7 @@
     "ID": 293421645,
     "key": "[/color] Initiative",
     "original": "[/color] Initiative",
-    "translation": "[/color] 主动性",
+    "translation": "[/color]主动值",
     "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+' + 1 * this.m.RageStacks + '[/color] Initiative'"
   },

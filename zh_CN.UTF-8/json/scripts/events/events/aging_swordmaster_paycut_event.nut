@@ -35,7 +35,7 @@
     "ID": 293412552,
     "key": "An honorable man if there ever was one.",
     "original": "An honorable man if there ever was one.",
-    "translation": "他是一个值得尊敬的人，一如既往。",
+    "translation": "他是个值得尊敬的人，一如既往。",
     "stage": 1,
     "context": "Text = 'An honorable man if there ever was one.'"
   }

@@ -27,7 +27,7 @@
     "ID": 293409818,
     "key": "Rid the town of brigands masquerading as direwolves",
     "original": "Rid the town of brigands masquerading as direwolves",
-    "translation": "清除镇上伪装成冰原狼的强盗",
+    "translation": "清除镇上伪装成恐狼的强盗",
     "stage": 1,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationCivilianContractSuccess, 'Rid the town of brigands masquerading as direwolves')"
   },
@@ -179,7 +179,7 @@
     "ID": 293409837,
     "key": "Rid the town of direwolves",
     "original": "Rid the town of direwolves",
-    "translation": "清除镇上的冰原狼",
+    "translation": "清除镇上的恐狼",
     "stage": 1,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationCivilianContractSuccess, 'Rid the town of direwolves')"
   },
@@ -251,7 +251,7 @@
     "ID": 293409846,
     "key": "A pack of ferocious direwolves on the hunt for prey.",
     "original": "A pack of ferocious direwolves on the hunt for prey.",
-    "translation": "一群凶猛的冰原狼正在寻找猎物。",
+    "translation": "一群寻找猎物的凶猛恐狼。",
     "stage": 1,
     "context": "party.setDescription('A pack of ferocious direwolves on the hunt for prey.')"
   },
@@ -307,7 +307,7 @@
     "ID": 315253931,
     "key": "sha256:3f93d97103334836e7ba848c66dd97889977ce68a7efc5081a185088ede14063",
     "original": "Direwolves",
-    "translation": "冰原狼",
-    "stage": 5
+    "translation": "恐狼",
+    "stage": 1
   }
 ]

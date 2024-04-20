@@ -43,7 +43,7 @@
     "ID": 293415341,
     "key": "At %townname%",
     "original": "At %townname%",
-    "translation": "在 %townname%",
+    "translation": "在%townname%",
     "stage": 1,
     "context": "this.m.Title = 'At %townname%'"
   },
@@ -131,7 +131,7 @@
     "ID": 293415352,
     "key": "[/color] Initiative",
     "original": "[/color] Initiative",
-    "translation": "[/color] 主动性",
+    "translation": "[/color]主动值",
     "stage": 1,
     "context": "text = _event.m.Disowned.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + initiative_boost + '[/color] Initiative'"
   },

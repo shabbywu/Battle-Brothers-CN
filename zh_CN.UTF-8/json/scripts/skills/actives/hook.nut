@@ -75,8 +75,8 @@
     "ID": 293420079,
     "key": "A target 2 tiles away is hooked and pulled close if there is space. Anyone hit will be staggered and lose initiative. A target can not be pulled up a level of height, but may take damage if it is pulled down several levels of height at once. Shieldwall, S",
     "original": "A target 2 tiles away is hooked and pulled close if there is space. Anyone hit will be staggered and lose initiative. A target can not be pulled up a level of height, but may take damage if it is pulled down several levels of height at once. Shieldwall, Spearwall and Riposte will be canceled for a successfully hooked-in target. A rooted target can not be hooked.",
-    "translation": "如果有空间的话，距离2格的目标会被钩住并拉近。被击中的目标会趔趄并降低主动性，目标不能被拉高一个高度，但如果一次被拉低多个高度还会受到伤害。成功的钩拽将取消目标的盾墙，矛墙，还击技能，定身的目标不能被钩拽。",
-    "stage": 5,
+    "translation": "如果有空间的话，距离2格的目标会被钩住并拉近。被击中的目标会趔趄并降低主动值，目标不能被拉高一个高度，但如果一次被拉低多个高度还会受到伤害。成功的钩拽将取消目标的盾墙，矛墙，还击技能，定身的目标不能被钩拽。",
+    "stage": 1,
     "context": "this.m.Description = 'A target 2 tiles away is hooked and pulled close if there is space. Anyone hit will be staggered and lose initiative. A target can not be pulled up a level of height, but may take damage if it is pulled down several levels of height at once. Shieldwall, Spearwall and Riposte will be canceled for a successfully hooked-in target. A rooted target can not be hooked.'"
   },
   {

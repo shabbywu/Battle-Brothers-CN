@@ -75,7 +75,7 @@
     "ID": 293415459,
     "key": "[/color] Initiative",
     "original": "[/color] Initiative",
-    "translation": "[/color] 主动性",
+    "translation": "[/color]主动值",
     "stage": 1,
     "context": "text = _event.m.Cultist.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + initiativeBoost + '[/color] Initiative'"
   },
@@ -83,7 +83,7 @@
     "ID": 293415460,
     "key": "At %townname%",
     "original": "At %townname%",
-    "translation": "在 %townname%",
+    "translation": "在%townname%",
     "stage": 1,
     "context": "this.m.Title = 'At %townname%'"
   },

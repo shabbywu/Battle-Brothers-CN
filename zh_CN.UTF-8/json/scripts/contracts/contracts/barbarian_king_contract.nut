@@ -139,7 +139,7 @@
     "ID": 293407891,
     "key": "Well deserved.",
     "original": "Well deserved.",
-    "translation": "当之无愧。",
+    "translation": "受之无愧。",
     "stage": 1,
     "context": "Text = 'Well deserved.'"
   },

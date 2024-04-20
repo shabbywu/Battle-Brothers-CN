@@ -235,7 +235,7 @@
     "ID": 293408857,
     "key": "At %townname%",
     "original": "At %townname%",
-    "translation": "在 %townname%",
+    "translation": "在%townname%",
     "stage": 1,
     "context": "Title = 'At %townname%'"
   },

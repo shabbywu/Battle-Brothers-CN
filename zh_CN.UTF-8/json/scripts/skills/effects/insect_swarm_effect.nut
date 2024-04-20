@@ -43,8 +43,8 @@
     "ID": 293421560,
     "key": "]-50%[/color] Initiative",
     "original": "]-50%[/color] Initiative",
-    "translation": "]-50%[/color] 主动性",
-    "stage": 5,
+    "translation": "]-50%[/color]主动值",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Initiative'"
   },
   {

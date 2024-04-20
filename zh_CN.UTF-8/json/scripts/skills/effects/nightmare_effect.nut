@@ -11,7 +11,7 @@
     "ID": 293421634,
     "key": "]-300[/color] Initiative",
     "original": "]-300[/color] Initiative",
-    "translation": "]-300[/color] 主动性",
+    "translation": "]-300[/color]主动值",
     "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-300[/color] Initiative'"
   },

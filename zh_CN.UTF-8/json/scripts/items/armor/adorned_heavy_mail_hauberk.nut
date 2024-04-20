@@ -3,7 +3,7 @@
     "ID": 293417551,
     "key": "A heavy chainmail hauberk worn under a thick riveted jacket and reinforced with vambraces. Adorned with trophies and lovingly maintained despite its extensive use, this is the armor of a true questing knight.",
     "original": "A heavy chainmail hauberk worn under a thick riveted jacket and reinforced with vambraces. Adorned with trophies and lovingly maintained despite its extensive use, this is the armor of a true questing knight.",
-    "translation": "一种沉重的链锁甲，穿在厚的铆接外套内，用纱布加固。 这是一个真正的探险骑士的盔甲，装饰着战利品，尽管使用广泛，但仍得到了精心维护。",
+    "translation": "加强了手臂防护，穿在厚重铆接外套下的重型链甲。虽然用得很多，却受到了精心维护和装饰，它的主人是个真正的冒险骑士。",
     "stage": 1,
     "context": "this.m.Description = 'A heavy chainmail hauberk worn under a thick riveted jacket and reinforced with vambraces. Adorned with trophies and lovingly maintained despite its extensive use, this is the armor of a true questing knight.'"
   },
@@ -11,7 +11,7 @@
     "ID": 293417552,
     "key": "Adorned Heavy Mail Hauberk",
     "original": "Adorned Heavy Mail Hauberk",
-    "translation": "装饰重型链锁子甲",
+    "translation": "装饰重链铠",
     "stage": 1,
     "context": "this.m.Name = 'Adorned Heavy Mail Hauberk'"
   }

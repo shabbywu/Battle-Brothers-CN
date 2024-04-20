@@ -3,7 +3,7 @@
     "ID": 293407919,
     "key": "Hunt for Direwolves, Webknechts, Nachzehrers, Hyenas and Serpents around the %regiontype% region of %worldmapregion% (%killcount%/%maxcount%)",
     "original": "Hunt for Direwolves, Webknechts, Nachzehrers, Hyenas and Serpents around the %regiontype% region of %worldmapregion% (%killcount%/%maxcount%)",
-    "translation": "在%worldmapregion%的%regiontype% 区域猎杀冰原狼、蛛魔、食尸鬼、鬣狗和大蛇(%killcount%/%maxcount%)",
+    "translation": "在%worldmapregion%的%regiontype% 区域猎杀恐狼、蛛魔、食尸鬼、鬣狗和大蛇(%killcount%/%maxcount%)",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.push('Hunt for Direwolves, Webknechts, Nachzehrers, Hyenas and Serpents around the %regiontype% region of %worldmapregion% (%killcount%/%maxcount%)')"
   },
@@ -107,7 +107,7 @@
     "ID": 293407932,
     "key": "Hunt for Direwolves, Webknechts and Nachzehrers around the %regiontype% region of %worldmapregion% (%killcount%/%maxcount%)",
     "original": "Hunt for Direwolves, Webknechts and Nachzehrers around the %regiontype% region of %worldmapregion% (%killcount%/%maxcount%)",
-    "translation": "在%worldmapregion%的%regiontype% 区域猎杀冰原狼、蛛魔和食尸鬼(%killcount%/%maxcount%)",
+    "translation": "在%worldmapregion%的%regiontype% 区域猎杀恐狼、蛛魔和食尸鬼(%killcount%/%maxcount%)",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.push('Hunt for Direwolves, Webknechts and Nachzehrers around the %regiontype% region of %worldmapregion% (%killcount%/%maxcount%)')"
   },
@@ -123,7 +123,7 @@
     "ID": 293407934,
     "key": "Hunt for Direwolves, Webknechts and Nachzehrers",
     "original": "Hunt for Direwolves, Webknechts and Nachzehrers",
-    "translation": "猎杀冰原狼、蛛魔和食尸鬼",
+    "translation": "猎杀恐狼、蛛魔和食尸鬼",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.push('Hunt for Direwolves, Webknechts and Nachzehrers')"
   },
@@ -155,7 +155,7 @@
     "ID": 293407938,
     "key": "Hunt for Direwolves, Webknechts, Nachzehrers, Hyenas and Serpents",
     "original": "Hunt for Direwolves, Webknechts, Nachzehrers, Hyenas and Serpents",
-    "translation": "猎杀冰原狼、蛛魔、食尸鬼、鬣狗和大蛇",
+    "translation": "猎杀恐狼、蛛魔、食尸鬼、鬣狗和大蛇",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.push('Hunt for Direwolves, Webknechts, Nachzehrers, Hyenas and Serpents')"
   },

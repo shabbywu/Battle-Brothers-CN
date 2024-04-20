@@ -35,7 +35,7 @@
     "ID": 293403553,
     "key": "Have at least 12 items crafted from beast trophies at the taxidermist. A taxidermist can be found in settlements mostly near woods and swamp, and can craft useful items from trophies dropped by beasts, such as the unusually large wolf pelts dropped by dir",
     "original": "Have at least 12 items crafted from beast trophies at the taxidermist. A taxidermist can be found in settlements mostly near woods and swamp, and can craft useful items from trophies dropped by beasts, such as the unusually large wolf pelts dropped by direwolves.",
-    "translation": "拥有至少12件剥制成品。剥制师主要分布在被沼泽和森林覆盖的定居点，他们能把野兽掉落的东西制成有用的物品，比如罕见的大型冰原狼掉落的狼皮。",
+    "translation": "拥有至少12件剥制成品。剥制师主要分布在被沼泽和森林覆盖的定居点，他们能把野兽掉落的东西制成有用的物品，比如罕见的大型恐狼掉落的狼皮。",
     "stage": 1,
     "context": "this.m.TooltipText = 'Have at least 12 items crafted from beast trophies at the taxidermist. A taxidermist can be found in settlements mostly near woods and swamp, and can craft useful items from trophies dropped by beasts, such as the unusually large wolf pelts dropped by direwolves.'"
   }

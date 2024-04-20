@@ -483,7 +483,7 @@
     "ID": 293406917,
     "key": "If a character waits their turn, their position in the turn order of the next round is determined with a penalty of 25% to Initiative.",
     "original": "If a character waits their turn, their position in the turn order of the next round is determined with a penalty of 25% to Initiative.",
-    "translation": "如果一个角色在回合中选择等待，下一轮的回合排序中将受25%的主动性惩罚。",
+    "translation": "如果一个角色在回合中选择等待，下一轮的回合排序中将受25%的主动值惩罚。",
     "stage": 1,
     "context": "'If a character waits their turn, their position in the turn order of the next round is determined with a penalty of 25% to Initiative.'"
   },
@@ -651,7 +651,7 @@
     "ID": 293406938,
     "key": "The natural habitat of direwolves is the forest.",
     "original": "The natural habitat of direwolves is the forest.",
-    "translation": "冰原狼的自然栖息地是森林。",
+    "translation": "恐狼的自然栖息地是森林。",
     "stage": 1,
     "context": "'The natural habitat of direwolves is the forest.'"
   },
