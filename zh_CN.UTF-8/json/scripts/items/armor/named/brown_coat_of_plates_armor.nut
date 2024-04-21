@@ -11,7 +11,7 @@
     "ID": 293417709,
     "key": "Ward",
     "original": "Ward",
-    "translation": "监狱",
+    "translation": "守护",
     "stage": 1,
     "context": "'Ward'"
   },

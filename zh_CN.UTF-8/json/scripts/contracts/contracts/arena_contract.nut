@@ -347,7 +347,7 @@
     "ID": 293407810,
     "key": "Oh, right!",
     "original": "Oh, right!",
-    "translation": "好, 就这样！",
+    "translation": "哦，对哦！",
     "stage": 1,
     "context": "Text = 'Oh, right!'"
   },

@@ -1274,8 +1274,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:42.523Z",
         "updatedAt": "2023-06-26T05:46:30.811Z",
-        "modifiedAt": "2024-02-29T03:55:38Z",
-        "sha256": "b6b6ad664be4fb0b6d2cdc191a2acbbc19c591e8abc1fadb27f18a84068fc438"
+        "modifiedAt": "2024-04-20T05:10:40Z",
+        "sha256": "9a02e579cd094f3564004e4b2b164028441d14c46ec89c5e24b2d8ec7aa0e7ab"
     },
     "scripts/config/items.json": {
         "id": 918417,
@@ -1418,8 +1418,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:46.237Z",
         "updatedAt": "2023-06-26T05:46:36.564Z",
-        "modifiedAt": "2024-04-16T08:05:47Z",
-        "sha256": "0c8d2321dbc778a010ef708f5439eb0e8e484d9377b44299e4b549f5199dde2a"
+        "modifiedAt": "2024-04-20T03:10:20Z",
+        "sha256": "8c85f2aea21ca896f690e2e7fe49caa542da5310efcd4d2f425265eb5e64cffe"
     },
     "scripts/contracts/contract.json": {
         "id": 918425,
@@ -1472,8 +1472,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:48.463Z",
         "updatedAt": "2023-06-30T08:56:14.464Z",
-        "modifiedAt": "2024-01-31T07:24:19Z",
-        "sha256": "ae07c6f9deeab3d67b7442416ad8c101fb22a5778cc3f5f680bcfc81517d2b83"
+        "modifiedAt": "2024-04-20T12:37:15Z",
+        "sha256": "dcc95ab37622f224341d9139996cb85b0dd03830fd05af019a1e15b1620918e1"
     },
     "scripts/contracts/contracts/arena_tournament_contract.json": {
         "id": 918428,
@@ -1490,8 +1490,8 @@
         "locked": 1,
         "createdAt": "2023-05-13T14:17:48.847Z",
         "updatedAt": "2023-06-30T08:56:14.659Z",
-        "modifiedAt": "2023-08-10T03:20:57Z",
-        "sha256": "33ed23422d838438329d25aaaab1a128e5df6ada98c36a050b80a76b32a6cfbf"
+        "modifiedAt": "2024-04-20T12:37:15Z",
+        "sha256": "c34f20e4ee2f80a9e60272b7b0799feebf98df6dd5d27a52f70c41bf69bd6c5a"
     },
     "scripts/contracts/contracts/barbarian_king_contract.json": {
         "id": 918429,
@@ -7808,8 +7808,8 @@
         "locked": 1,
         "createdAt": "2023-05-13T14:20:10.201Z",
         "updatedAt": "2023-06-26T05:47:28.492Z",
-        "modifiedAt": "2024-04-17T08:53:15Z",
-        "sha256": "43676017996f51ebcc98cd89b98c4f94419122efe2a9c3841d30bda02bdc4d28"
+        "modifiedAt": "2024-04-20T12:46:37Z",
+        "sha256": "ce03e0d454f75a05ba755cc575d344042e318c819157e9a2c0769cea5793eb44"
     },
     "scripts/entity/world/settlements/small_mining_village.json": {
         "id": 918780,
@@ -18392,8 +18392,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:08.636Z",
         "updatedAt": "2023-06-26T05:48:27.347Z",
-        "modifiedAt": "2023-06-26T05:48:27Z",
-        "sha256": "1273ed7e09eb308ee5ed65ddf63877c4fc1b68d1dc543bed9251c7f8cd57c819"
+        "modifiedAt": "2024-04-20T05:10:40Z",
+        "sha256": "72d7f2856a7efb44d825c032e8536706bfa97bea54d2ed2365b2bd5dfb7a0067"
     },
     "scripts/items/armor/named/golden_scale_armor.json": {
         "id": 919368,
@@ -18428,8 +18428,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:09.297Z",
         "updatedAt": "2023-06-26T05:48:27.493Z",
-        "modifiedAt": "2023-06-26T05:48:28Z",
-        "sha256": "295e502e1fb4827fa9973809502e27e7e48aedbc39cc409544692a16026ed17c"
+        "modifiedAt": "2024-04-20T05:10:40Z",
+        "sha256": "f575c3e3dcbb6840a55371fc0e082e63fdc659999f3c610c19d2c473945d8789"
     },
     "scripts/items/armor/named/heraldic_mail_armor.json": {
         "id": 919370,
@@ -18536,8 +18536,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:11.394Z",
         "updatedAt": "2023-06-26T05:48:27.889Z",
-        "modifiedAt": "2023-06-26T05:48:28Z",
-        "sha256": "e3a6666b545617381f694feba02227d1653bb3884ebbd48b1f7e42f7fd3d7cb6"
+        "modifiedAt": "2024-04-20T05:10:40Z",
+        "sha256": "735f29978fecf2d85263d42fb961493d95a08fb79955bc1beba952af42ef7e25"
     },
     "scripts/items/armor/named/named_noble_mail_armor.json": {
         "id": 919376,
@@ -21308,8 +21308,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:22.25Z",
         "updatedAt": "2023-06-26T05:48:42.821Z",
-        "modifiedAt": "2023-06-26T05:48:43Z",
-        "sha256": "0b1422fe9762439ae7b13f0bfdf0b82608850c546cdc7e3a95d578f769ae2134"
+        "modifiedAt": "2024-04-20T05:10:40Z",
+        "sha256": "b4b9359c1f8b7d48b8c6c00ef9c9706f8fea1878b8890b7395e00821e914cd24"
     },
     "scripts/items/helmets/named/norse_helmet.json": {
         "id": 919530,

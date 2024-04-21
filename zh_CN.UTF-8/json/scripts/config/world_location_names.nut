@@ -715,7 +715,7 @@
     "ID": 293407072,
     "key": "Deserted Farmstead",
     "original": "Deserted Farmstead",
-    "translation": "被放弃的农场",
+    "translation": "弃用农舍",
     "stage": 1,
     "context": "'Deserted Farmstead'"
   },

@@ -451,7 +451,7 @@
     "ID": 293404925,
     "key": "Shank",
     "original": "Shank",
-    "translation": "胫刃",
+    "translation": "靴里藏",
     "stage": 1,
     "context": "'Shank'"
   },
@@ -2851,7 +2851,7 @@
     "ID": 293405225,
     "key": "Ward",
     "original": "Ward",
-    "translation": "监狱",
+    "translation": "守护",
     "stage": 1,
     "context": "'Ward'"
   },
