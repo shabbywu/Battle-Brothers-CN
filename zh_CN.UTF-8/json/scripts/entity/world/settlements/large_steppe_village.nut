@@ -3,7 +3,7 @@
     "ID": 293411017,
     "key": "Lichtmark",
     "original": "Lichtmark",
-    "translation": "光明边城",
+    "translation": "明光庭",
     "stage": 1,
     "context": "this.getRandomName(['Wunderstadt','Wohlstadt','Brunnstadt','Erlstadt','Himmelstadt','Sandstadt','Dornen','Rothstadt','Gelbstadt','Krautmark','Suderstadt','Sonstadt','Strohmark','Sandmark','Sonnmark','Grafenschein','Hellstadt','Lichtmark','Dornland','Rothenmark','Brunnenland'])"
   },
@@ -19,7 +19,7 @@
     "ID": 293411019,
     "key": "Grafenschein",
     "original": "Grafenschein",
-    "translation": "擢爵地",
+    "translation": "晋爵地",
     "stage": 1,
     "context": "this.getRandomName(['Wunderstadt','Wohlstadt','Brunnstadt','Erlstadt','Himmelstadt','Sandstadt','Dornen','Rothstadt','Gelbstadt','Krautmark','Suderstadt','Sonstadt','Strohmark','Sandmark','Sonnmark','Grafenschein','Hellstadt','Lichtmark','Dornland','Rothenmark','Brunnenland'])"
   },
@@ -51,7 +51,7 @@
     "ID": 293411023,
     "key": "Rothenmark",
     "original": "Rothenmark",
-    "translation": "红染边城",
+    "translation": "红染庭",
     "stage": 1,
     "context": "this.getRandomName(['Wunderstadt','Wohlstadt','Brunnstadt','Erlstadt','Himmelstadt','Sandstadt','Dornen','Rothstadt','Gelbstadt','Krautmark','Suderstadt','Sonstadt','Strohmark','Sandmark','Sonnmark','Grafenschein','Hellstadt','Lichtmark','Dornland','Rothenmark','Brunnenland'])"
   },
@@ -67,7 +67,7 @@
     "ID": 293411025,
     "key": "Sonnmark",
     "original": "Sonnmark",
-    "translation": "照日边城",
+    "translation": "照日庭",
     "stage": 1,
     "context": "this.getRandomName(['Wunderstadt','Wohlstadt','Brunnstadt','Erlstadt','Himmelstadt','Sandstadt','Dornen','Rothstadt','Gelbstadt','Krautmark','Suderstadt','Sonstadt','Strohmark','Sandmark','Sonnmark','Grafenschein','Hellstadt','Lichtmark','Dornland','Rothenmark','Brunnenland'])"
   },
@@ -115,7 +115,7 @@
     "ID": 293411031,
     "key": "Wunderstadt",
     "original": "Wunderstadt",
-    "translation": "惊艳之城",
+    "translation": "惊艳城",
     "stage": 1,
     "context": "this.getRandomName(['Wunderstadt','Wohlstadt','Brunnstadt','Erlstadt','Himmelstadt','Sandstadt','Dornen','Rothstadt','Gelbstadt','Krautmark','Suderstadt','Sonstadt','Strohmark','Sandmark','Sonnmark','Grafenschein','Hellstadt','Lichtmark','Dornland','Rothenmark','Brunnenland'])"
   },
@@ -123,7 +123,7 @@
     "ID": 293411032,
     "key": "Hellstadt",
     "original": "Hellstadt",
-    "translation": "光亮之城",
+    "translation": "光亮城",
     "stage": 1,
     "context": "this.getRandomName(['Wunderstadt','Wohlstadt','Brunnstadt','Erlstadt','Himmelstadt','Sandstadt','Dornen','Rothstadt','Gelbstadt','Krautmark','Suderstadt','Sonstadt','Strohmark','Sandmark','Sonnmark','Grafenschein','Hellstadt','Lichtmark','Dornland','Rothenmark','Brunnenland'])"
   },
@@ -131,7 +131,7 @@
     "ID": 293411033,
     "key": "Krautmark",
     "original": "Krautmark",
-    "translation": "甘蓝边城",
+    "translation": "甘蓝庭",
     "stage": 1,
     "context": "this.getRandomName(['Wunderstadt','Wohlstadt','Brunnstadt','Erlstadt','Himmelstadt','Sandstadt','Dornen','Rothstadt','Gelbstadt','Krautmark','Suderstadt','Sonstadt','Strohmark','Sandmark','Sonnmark','Grafenschein','Hellstadt','Lichtmark','Dornland','Rothenmark','Brunnenland'])"
   },
@@ -139,7 +139,7 @@
     "ID": 293411034,
     "key": "Gelbstadt",
     "original": "Gelbstadt",
-    "translation": "黄色之城",
+    "translation": "黄城",
     "stage": 1,
     "context": "this.getRandomName(['Wunderstadt','Wohlstadt','Brunnstadt','Erlstadt','Himmelstadt','Sandstadt','Dornen','Rothstadt','Gelbstadt','Krautmark','Suderstadt','Sonstadt','Strohmark','Sandmark','Sonnmark','Grafenschein','Hellstadt','Lichtmark','Dornland','Rothenmark','Brunnenland'])"
   },
@@ -163,7 +163,7 @@
     "ID": 293411037,
     "key": "Strohmark",
     "original": "Strohmark",
-    "translation": "秸秆边城",
+    "translation": "秸秆庭",
     "stage": 1,
     "context": "this.getRandomName(['Wunderstadt','Wohlstadt','Brunnstadt','Erlstadt','Himmelstadt','Sandstadt','Dornen','Rothstadt','Gelbstadt','Krautmark','Suderstadt','Sonstadt','Strohmark','Sandmark','Sonnmark','Grafenschein','Hellstadt','Lichtmark','Dornland','Rothenmark','Brunnenland'])"
   },
@@ -171,7 +171,7 @@
     "ID": 293411038,
     "key": "Sandmark",
     "original": "Sandmark",
-    "translation": "沙之边城",
+    "translation": "沙之庭",
     "stage": 1,
     "context": "this.getRandomName(['Wunderstadt','Wohlstadt','Brunnstadt','Erlstadt','Himmelstadt','Sandstadt','Dornen','Rothstadt','Gelbstadt','Krautmark','Suderstadt','Sonstadt','Strohmark','Sandmark','Sonnmark','Grafenschein','Hellstadt','Lichtmark','Dornland','Rothenmark','Brunnenland'])"
   },
@@ -179,7 +179,7 @@
     "ID": 293411039,
     "key": "Suderstadt",
     "original": "Suderstadt",
-    "translation": "丰裕之城",
+    "translation": "丰裕城",
     "stage": 1,
     "context": "this.getRandomName(['Wunderstadt','Wohlstadt','Brunnstadt','Erlstadt','Himmelstadt','Sandstadt','Dornen','Rothstadt','Gelbstadt','Krautmark','Suderstadt','Sonstadt','Strohmark','Sandmark','Sonnmark','Grafenschein','Hellstadt','Lichtmark','Dornland','Rothenmark','Brunnenland'])"
   }

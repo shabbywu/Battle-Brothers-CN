@@ -51,7 +51,7 @@
     "ID": 293412006,
     "key": "Markdorf",
     "original": "Markdorf",
-    "translation": "疆乡",
+    "translation": "陲边镇",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Weidenau','Schnellen','Neudorf','Freidorf','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Durbach','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld','Neuenried','Auenbach','Adelshofen','Allersdorf','Brunnendorf','Ochsenhausen','Weingarten','Konigsfeld','Rosenhof','Weidenbach'])"
   },
@@ -99,7 +99,7 @@
     "ID": 293412012,
     "key": "Konigsfeld",
     "original": "Konigsfeld",
-    "translation": "国王地",
+    "translation": "君王原",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Weidenau','Schnellen','Neudorf','Freidorf','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Durbach','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld','Neuenried','Auenbach','Adelshofen','Allersdorf','Brunnendorf','Ochsenhausen','Weingarten','Konigsfeld','Rosenhof','Weidenbach'])"
   },
@@ -139,7 +139,7 @@
     "ID": 293412017,
     "key": "Grafenheide",
     "original": "Grafenheide",
-    "translation": "擢爵原",
+    "translation": "晋爵原",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Weidenau','Schnellen','Neudorf','Freidorf','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Durbach','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld','Neuenried','Auenbach','Adelshofen','Allersdorf','Brunnendorf','Ochsenhausen','Weingarten','Konigsfeld','Rosenhof','Weidenbach'])"
   },

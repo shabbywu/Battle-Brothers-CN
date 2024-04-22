@@ -11,7 +11,7 @@
     "ID": 293410865,
     "key": "Tiefenmark",
     "original": "Tiefenmark",
-    "translation": "洼地边城",
+    "translation": "洼地庭",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },
@@ -27,7 +27,7 @@
     "ID": 293410867,
     "key": "Finsterstadt",
     "original": "Finsterstadt",
-    "translation": "幽林镇",
+    "translation": "幽林城",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },
@@ -43,7 +43,7 @@
     "ID": 293410869,
     "key": "Thalstadt",
     "original": "Thalstadt",
-    "translation": "树海镇",
+    "translation": "树海城",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },
@@ -59,7 +59,7 @@
     "ID": 293410871,
     "key": "Holzmark",
     "original": "Holzmark",
-    "translation": "材木边城",
+    "translation": "材木庭",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },
@@ -67,7 +67,7 @@
     "ID": 293410872,
     "key": "Waldmark",
     "original": "Waldmark",
-    "translation": "密林边城",
+    "translation": "密林庭",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },
@@ -75,7 +75,7 @@
     "ID": 293410873,
     "key": "Finstermark",
     "original": "Finstermark",
-    "translation": "幽林边城",
+    "translation": "幽林庭",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },
@@ -83,7 +83,7 @@
     "ID": 293410874,
     "key": "Waidstadt",
     "original": "Waidstadt",
-    "translation": "菘蓝镇",
+    "translation": "菘蓝城",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },
@@ -91,7 +91,7 @@
     "ID": 293410875,
     "key": "Tannstadt",
     "original": "Tannstadt",
-    "translation": "冷杉镇",
+    "translation": "冷杉城",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },
@@ -99,7 +99,7 @@
     "ID": 293410876,
     "key": "Hirschmark",
     "original": "Hirschmark",
-    "translation": "马鹿边城",
+    "translation": "马鹿庭",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },
@@ -107,7 +107,7 @@
     "ID": 293410877,
     "key": "Eichstadt",
     "original": "Eichstadt",
-    "translation": "橡树镇",
+    "translation": "橡树城",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },
@@ -123,7 +123,7 @@
     "ID": 293410879,
     "key": "Dustermark",
     "original": "Dustermark",
-    "translation": "暗林边城",
+    "translation": "暗林庭",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },
@@ -131,7 +131,7 @@
     "ID": 293410880,
     "key": "Dunkelmark",
     "original": "Dunkelmark",
-    "translation": "林翳边城",
+    "translation": "林翳庭",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },
@@ -147,7 +147,7 @@
     "ID": 293410882,
     "key": "Eulenmark",
     "original": "Eulenmark",
-    "translation": "枭鹰边城",
+    "translation": "枭鹰庭",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },
@@ -163,7 +163,7 @@
     "ID": 293410884,
     "key": "Fahrnstadt",
     "original": "Fahrnstadt",
-    "translation": "车运镇",
+    "translation": "车驿城",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },
@@ -171,7 +171,7 @@
     "ID": 293410885,
     "key": "Grafenhain",
     "original": "Grafenhain",
-    "translation": "擢爵林地",
+    "translation": "晋爵林",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },
@@ -187,7 +187,7 @@
     "ID": 293410887,
     "key": "Grunstadt",
     "original": "Grunstadt",
-    "translation": "林绿镇",
+    "translation": "林绿城",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },
@@ -195,7 +195,7 @@
     "ID": 293410888,
     "key": "Konigshain",
     "original": "Konigshain",
-    "translation": "国王林地",
+    "translation": "君王林",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   },
@@ -203,7 +203,7 @@
     "ID": 293410889,
     "key": "Konigswald",
     "original": "Konigswald",
-    "translation": "国王之森",
+    "translation": "君王森",
     "stage": 1,
     "context": "this.getRandomName(['Holzmark','Dustermark','Tannstadt','Waldland','Finsterstadt','Dunkelmark','Eichstadt','Eulenmark','Hageland','Waidstadt','Fahrnstadt','Hirschmark','Weilerstadt','Forstland','Tiefenmark','Grunstadt','Thalstadt','Grunland','Waldmark','Finstermark','Konigswald','Grafenhain','Konigshain'])"
   }

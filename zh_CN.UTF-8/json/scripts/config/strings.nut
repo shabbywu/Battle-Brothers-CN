@@ -331,7 +331,7 @@
     "ID": 293405677,
     "key": "Golden Flats",
     "original": "Golden Flats",
-    "translation": "金色平原",
+    "translation": "一片金",
     "stage": 1,
     "context": "'Golden Flats'"
   },
@@ -443,7 +443,7 @@
     "ID": 293405691,
     "key": "Wanderer's Boon",
     "original": "Wanderer's Boon",
-    "translation": "流浪者的恩赐",
+    "translation": "漂泊者之赐",
     "stage": 1,
     "context": "\"Wanderer's Boon\""
   },
@@ -483,7 +483,7 @@
     "ID": 293405696,
     "key": "Grand View Pastures",
     "original": "Grand View Pastures",
-    "translation": "大观牧场",
+    "translation": "广览甸",
     "stage": 1,
     "context": "'Grand View Pastures'"
   },
@@ -491,8 +491,8 @@
     "ID": 293405697,
     "key": "Sylvan Woods",
     "original": "Sylvan Woods",
-    "translation": "繁茂树林",
-    "stage": 5,
+    "translation": "葱郁林",
+    "stage": 1,
     "context": "'Sylvan Woods'"
   },
   {
@@ -659,7 +659,7 @@
     "ID": 293405718,
     "key": "Knight's Axe Hills",
     "original": "Knight's Axe Hills",
-    "translation": "骑士斧山",
+    "translation": "战斧山",
     "stage": 1,
     "context": "\"Knight's Axe Hills\""
   },
@@ -867,8 +867,8 @@
     "ID": 293405744,
     "key": "Ancient Cairns",
     "original": "Ancient Cairns",
-    "translation": "远古石堆群",
-    "stage": 5,
+    "translation": "古石冢",
+    "stage": 1,
     "context": "'Ancient Cairns'"
   },
   {
@@ -1051,7 +1051,7 @@
     "ID": 293405767,
     "key": "Dire Woods",
     "original": "Dire Woods",
-    "translation": "骇然丛林",
+    "translation": "骇然林",
     "stage": 1,
     "context": "'Dire Woods'"
   },
@@ -1259,7 +1259,7 @@
     "ID": 293405793,
     "key": "Silver Ridge",
     "original": "Silver Ridge",
-    "translation": "银岭",
+    "translation": "银脊岭",
     "stage": 1,
     "context": "'Silver Ridge'"
   },
@@ -1267,7 +1267,7 @@
     "ID": 293405794,
     "key": "Markland",
     "original": "Markland",
-    "translation": "马克兰",
+    "translation": "边境地",
     "stage": 1,
     "context": "'Markland'"
   },
@@ -1307,8 +1307,8 @@
     "ID": 293405799,
     "key": "Wretched Woods",
     "original": "Wretched Woods",
-    "translation": "悲惨林地",
-    "stage": 5,
+    "translation": "惨号林",
+    "stage": 1,
     "context": "'Wretched Woods'"
   },
   {
@@ -1395,7 +1395,7 @@
     "ID": 293405810,
     "key": "Bloodbloom Woods",
     "original": "Bloodbloom Woods",
-    "translation": "血花森林",
+    "translation": "溅血林",
     "stage": 1,
     "context": "'Bloodbloom Woods'"
   },
@@ -1731,7 +1731,7 @@
     "ID": 293405852,
     "key": "Oldlock Hills",
     "original": "Oldlock Hills",
-    "translation": "奥尔德洛克山",
+    "translation": "老关山",
     "stage": 1,
     "context": "'Oldlock Hills'"
   },
@@ -1747,7 +1747,7 @@
     "ID": 293405854,
     "key": "Grand Hare Woods",
     "original": "Grand Hare Woods",
-    "translation": "大野兔森林",
+    "translation": "野兔林",
     "stage": 1,
     "context": "'Grand Hare Woods'"
   },
@@ -2027,7 +2027,7 @@
     "ID": 293405889,
     "key": "Vermillion Woods",
     "original": "Vermillion Woods",
-    "translation": "朱红树林",
+    "translation": "朱红林",
     "stage": 1,
     "context": "'Vermillion Woods'"
   },
@@ -2099,7 +2099,7 @@
     "ID": 293405898,
     "key": "Dismal Woods",
     "original": "Dismal Woods",
-    "translation": "惨淡的树林",
+    "translation": "忧郁林",
     "stage": 1,
     "context": "'Dismal Woods'"
   },
@@ -2195,7 +2195,7 @@
     "ID": 293405910,
     "key": "Gloomy Woods",
     "original": "Gloomy Woods",
-    "translation": "阴郁的树林",
+    "translation": "阴郁森",
     "stage": 1,
     "context": "'Gloomy Woods'"
   },
@@ -2283,8 +2283,8 @@
     "ID": 293405921,
     "key": "Misty Barrows",
     "original": "Misty Barrows",
-    "translation": "迷雾墓丘",
-    "stage": 5,
+    "translation": "雾隐丘",
+    "stage": 1,
     "context": "'Misty Barrows'"
   },
   {
@@ -2435,7 +2435,7 @@
     "ID": 293405940,
     "key": "Fleetfeet's Range",
     "original": "Fleetfeet's Range",
-    "translation": "舰队的范围",
+    "translation": "快步长廊",
     "stage": 1,
     "context": "\"Fleetfeet's Range\""
   },
@@ -2547,8 +2547,8 @@
     "ID": 293405954,
     "key": "Southbloom",
     "original": "Southbloom",
-    "translation": "南方之芳草",
-    "stage": 5,
+    "translation": "南花绽",
+    "stage": 1,
     "context": "'Southbloom'"
   },
   {
@@ -2755,7 +2755,7 @@
     "ID": 293405980,
     "key": "Skyreach",
     "original": "Skyreach",
-    "translation": "通天",
+    "translation": "通天径",
     "stage": 1,
     "context": "'Skyreach'"
   },
@@ -2899,8 +2899,8 @@
     "ID": 293405998,
     "key": "Juniper Hills",
     "original": "Juniper Hills",
-    "translation": "杜松山丘",
-    "stage": 5,
+    "translation": "杜松丘",
+    "stage": 1,
     "context": "'Juniper Hills'"
   },
   {
@@ -3003,7 +3003,7 @@
     "ID": 293406011,
     "key": "Black Mud",
     "original": "Black Mud",
-    "translation": "黑泥",
+    "translation": "黑泥潭",
     "stage": 1,
     "context": "'Black Mud'"
   },
@@ -3011,7 +3011,7 @@
     "ID": 293406012,
     "key": "Heartsong's Range",
     "original": "Heartsong's Range",
-    "translation": "心歌的范围",
+    "translation": "心歌长廊",
     "stage": 1,
     "context": "\"Heartsong's Range\""
   },
@@ -3019,8 +3019,8 @@
     "ID": 293406013,
     "key": "Prowlers Woods",
     "original": "Prowlers Woods",
-    "translation": "小偷森林",
-    "stage": 5,
+    "translation": "绰影林",
+    "stage": 1,
     "context": "'Prowlers Woods'"
   },
   {
@@ -3155,8 +3155,8 @@
     "ID": 293406030,
     "key": "Brittle Branch Woods",
     "original": "Brittle Branch Woods",
-    "translation": "脆枝森林",
-    "stage": 5,
+    "translation": "脆枝林",
+    "stage": 1,
     "context": "'Brittle Branch Woods'"
   },
   {
@@ -3323,7 +3323,7 @@
     "ID": 293406051,
     "key": "Red Worm Woods",
     "original": "Red Worm Woods",
-    "translation": "红虫树林",
+    "translation": "蚯蚓林",
     "stage": 1,
     "context": "'Red Worm Woods'"
   },
@@ -3387,7 +3387,7 @@
     "ID": 293406059,
     "key": "Yellowleaf's Range",
     "original": "Yellowleaf's Range",
-    "translation": "黄叶的范围",
+    "translation": "黄叶长廊",
     "stage": 1,
     "context": "\"Yellowleaf's Range\""
   },
@@ -4027,7 +4027,7 @@
     "ID": 293406139,
     "key": "Giant's Pebbles",
     "original": "Giant's Pebbles",
-    "translation": "巨人的鹅卵石",
+    "translation": "巨石路",
     "stage": 1,
     "context": "\"Giant's Pebbles\""
   },
@@ -4075,7 +4075,7 @@
     "ID": 293406145,
     "key": "Stormy Woods",
     "original": "Stormy Woods",
-    "translation": "风雨如磐的树林",
+    "translation": "风暴林",
     "stage": 1,
     "context": "'Stormy Woods'"
   },
@@ -4115,7 +4115,7 @@
     "ID": 293406150,
     "key": "Northmark",
     "original": "Northmark",
-    "translation": "诺斯马克",
+    "translation": "北陲",
     "stage": 1,
     "context": "'Northmark'"
   },
@@ -4227,7 +4227,7 @@
     "ID": 293406164,
     "key": "Auburn Woods",
     "original": "Auburn Woods",
-    "translation": "奥本森林",
+    "translation": "溪水林",
     "stage": 1,
     "context": "'Auburn Woods'"
   },
@@ -4275,7 +4275,7 @@
     "ID": 293406170,
     "key": "Pearl of the South",
     "original": "Pearl of the South",
-    "translation": "南方明珠",
+    "translation": "南地明珠",
     "stage": 1,
     "context": "'Pearl of the South'"
   },
@@ -4283,7 +4283,7 @@
     "ID": 293406171,
     "key": "Giant's Slopes",
     "original": "Giant's Slopes",
-    "translation": "巨人的斜坡",
+    "translation": "巨人坡",
     "stage": 1,
     "context": "\"Giant's Slopes\""
   },
@@ -4787,8 +4787,8 @@
     "ID": 293406234,
     "key": "Neumark",
     "original": "Neumark",
-    "translation": "纽马克",
-    "stage": 5,
+    "translation": "新陲",
+    "stage": 1,
     "context": "'Neumark'"
   },
   {
@@ -4875,7 +4875,7 @@
     "ID": 293406245,
     "key": "Decayed Heights",
     "original": "Decayed Heights",
-    "translation": "腐朽的高地",
+    "translation": "败落高原",
     "stage": 1,
     "context": "'Decayed Heights'"
   },
@@ -4939,7 +4939,7 @@
     "ID": 293406253,
     "key": "Fair Range",
     "original": "Fair Range",
-    "translation": "公平范围",
+    "translation": "丽日长廊",
     "stage": 1,
     "context": "'Fair Range'"
   },
@@ -5179,7 +5179,7 @@
     "ID": 293406283,
     "key": "Fiery Woods",
     "original": "Fiery Woods",
-    "translation": "火热的树林",
+    "translation": "热火林",
     "stage": 1,
     "context": "'Fiery Woods'"
   },
@@ -5651,7 +5651,7 @@
     "ID": 293406342,
     "key": "Durum",
     "original": "Durum",
-    "translation": "硬粒小麦",
+    "translation": "锥麦野",
     "stage": 1,
     "context": "'Durum'"
   },
@@ -5739,7 +5739,7 @@
     "ID": 293406353,
     "key": "Southwatch",
     "original": "Southwatch",
-    "translation": "南方卫队",
+    "translation": "南望地",
     "stage": 1,
     "context": "'Southwatch'"
   },
@@ -5819,7 +5819,7 @@
     "ID": 293406363,
     "key": "Mossy Woods",
     "original": "Mossy Woods",
-    "translation": "苔藓森林",
+    "translation": "青苔林",
     "stage": 1,
     "context": "'Mossy Woods'"
   },
@@ -5835,8 +5835,8 @@
     "ID": 293406365,
     "key": "Elder Woods",
     "original": "Elder Woods",
-    "translation": "长老森林",
-    "stage": 5,
+    "translation": "长老森",
+    "stage": 1,
     "context": "'Elder Woods'"
   },
   {
@@ -5931,7 +5931,7 @@
     "ID": 293406377,
     "key": "Ridland",
     "original": "Ridland",
-    "translation": "里德兰",
+    "translation": "坎坷原",
     "stage": 1,
     "context": "'Ridland'"
   },
@@ -6051,7 +6051,7 @@
     "ID": 293406392,
     "key": "Macaw Woods",
     "original": "Macaw Woods",
-    "translation": "金刚鹦鹉树林",
+    "translation": "寒皋林",
     "stage": 1,
     "context": "'Macaw Woods'"
   },
@@ -6379,7 +6379,7 @@
     "ID": 293406433,
     "key": "Smoldering Woods",
     "original": "Smoldering Woods",
-    "translation": "阴燃森林",
+    "translation": "阴燃林",
     "stage": 1,
     "context": "'Smoldering Woods'"
   },
@@ -6459,7 +6459,7 @@
     "ID": 293406443,
     "key": "Tablelands",
     "original": "Tablelands",
-    "translation": "高原",
+    "translation": "秃桌原",
     "stage": 1,
     "context": "'Tablelands'"
   },
@@ -6611,7 +6611,7 @@
     "ID": 293406462,
     "key": "Ragnar's Range",
     "original": "Ragnar's Range",
-    "translation": "拉格纳的范围",
+    "translation": "拉格纳长廊",
     "stage": 1,
     "context": "\"Ragnar's Range\""
   },
@@ -6715,7 +6715,7 @@
     "ID": 293406475,
     "key": "Murmuring Woods",
     "original": "Murmuring Woods",
-    "translation": "喃喃的树林",
+    "translation": "低语丛林",
     "stage": 1,
     "context": "'Murmuring Woods'"
   },
@@ -6787,7 +6787,7 @@
     "ID": 293406484,
     "key": "Misty Summit",
     "original": "Misty Summit",
-    "translation": "迷雾峰会",
+    "translation": "雾隐峰",
     "stage": 1,
     "context": "'Misty Summit'"
   },
@@ -6923,7 +6923,7 @@
     "ID": 293406501,
     "key": "Elderberry Woods",
     "original": "Elderberry Woods",
-    "translation": "接骨木林",
+    "translation": "忍冬林",
     "stage": 1,
     "context": "'Elderberry Woods'"
   },
@@ -7059,7 +7059,7 @@
     "ID": 293406518,
     "key": "Splinterdale",
     "original": "Splinterdale",
-    "translation": "斯普林特代尔",
+    "translation": "枝条谷",
     "stage": 1,
     "context": "'Splinterdale'"
   },
@@ -7227,7 +7227,7 @@
     "ID": 293406539,
     "key": "Mossy Pine Woods",
     "original": "Mossy Pine Woods",
-    "translation": "苔藓松树林",
+    "translation": "松苔林",
     "stage": 1,
     "context": "'Mossy Pine Woods'"
   },
@@ -7283,8 +7283,8 @@
     "ID": 293406546,
     "key": "Holmburn",
     "original": "Holmburn",
-    "translation": "霍姆本",
-    "stage": 5,
+    "translation": "大河原",
+    "stage": 1,
     "context": "'Holmburn'"
   },
   {
@@ -7435,8 +7435,8 @@
     "ID": 293406565,
     "key": "Ancient Knolls",
     "original": "Ancient Knolls",
-    "translation": "远古小丘",
-    "stage": 5,
+    "translation": "古丘",
+    "stage": 1,
     "context": "'Ancient Knolls'"
   },
   {
@@ -7619,7 +7619,7 @@
     "ID": 293406588,
     "key": "Wicked Woods",
     "original": "Wicked Woods",
-    "translation": "邪恶的树林",
+    "translation": "邪气之林",
     "stage": 1,
     "context": "'Wicked Woods'"
   },
@@ -7683,7 +7683,7 @@
     "ID": 293406596,
     "key": "Altmark",
     "original": "Altmark",
-    "translation": "阿尔特马克",
+    "translation": "旧界",
     "stage": 1,
     "context": "'Altmark'"
   },
@@ -7723,8 +7723,8 @@
     "ID": 293406601,
     "key": "Rich Meadows",
     "original": "Rich Meadows",
-    "translation": "肥沃的草地",
-    "stage": 5,
+    "translation": "丰甸草",
+    "stage": 1,
     "context": "'Rich Meadows'"
   },
   {
@@ -7851,7 +7851,7 @@
     "ID": 293406617,
     "key": "Two Fields",
     "original": "Two Fields",
-    "translation": "两个领域",
+    "translation": "泾渭原",
     "stage": 1,
     "context": "'Two Fields'"
   },
@@ -7859,7 +7859,7 @@
     "ID": 293406618,
     "key": "Misty Woods",
     "original": "Misty Woods",
-    "translation": "迷雾森林",
+    "translation": "雾隐森",
     "stage": 1,
     "context": "'Misty Woods'"
   },
@@ -7899,8 +7899,8 @@
     "ID": 293406623,
     "key": "Southwind Acres",
     "original": "Southwind Acres",
-    "translation": "南风耕地",
-    "stage": 5,
+    "translation": "南风田",
+    "stage": 1,
     "context": "'Southwind Acres'"
   },
   {
@@ -8107,15 +8107,15 @@
     "ID": 293406649,
     "key": "Wideacre",
     "original": "Wideacre",
-    "translation": "宽阔的耕地",
-    "stage": 5,
+    "translation": "万亩田",
+    "stage": 1,
     "context": "'Wideacre'"
   },
   {
     "ID": 293406650,
     "key": "Ruffmuir",
     "original": "Ruffmuir",
-    "translation": "鲁夫缪尔",
+    "translation": "褶波原",
     "stage": 1,
     "context": "'Ruffmuir'"
   },
@@ -9075,7 +9075,7 @@
     "ID": 293406770,
     "key": "Blood Woods",
     "original": "Blood Woods",
-    "translation": "血树林",
+    "translation": "鲜血丛林",
     "stage": 1,
     "context": "'Blood Woods'"
   },
@@ -9227,7 +9227,7 @@
     "ID": 293406789,
     "key": "Southmark",
     "original": "Southmark",
-    "translation": "绍斯马克",
+    "translation": "南陲",
     "stage": 1,
     "context": "'Southmark'"
   },
@@ -9515,7 +9515,7 @@
     "ID": 293406825,
     "key": "World's Rim",
     "original": "World's Rim",
-    "translation": "世界之环",
+    "translation": "天涯海角",
     "stage": 1,
     "context": "\"World's Rim\""
   },
@@ -9587,7 +9587,7 @@
     "ID": 293406834,
     "key": "Boar Woods",
     "original": "Boar Woods",
-    "translation": "野猪树林",
+    "translation": "野猪林",
     "stage": 1,
     "context": "'Boar Woods'"
   },
@@ -9595,7 +9595,7 @@
     "ID": 293406835,
     "key": "Fox and Hare Woods",
     "original": "Fox and Hare Woods",
-    "translation": "狐狸和野兔森林",
+    "translation": "兔狐林",
     "stage": 1,
     "context": "'Fox and Hare Woods'"
   },
@@ -9675,7 +9675,7 @@
     "ID": 293406845,
     "key": "Jagged Woods",
     "original": "Jagged Woods",
-    "translation": "锯齿状森林",
+    "translation": "参差林",
     "stage": 1,
     "context": "'Jagged Woods'"
   },

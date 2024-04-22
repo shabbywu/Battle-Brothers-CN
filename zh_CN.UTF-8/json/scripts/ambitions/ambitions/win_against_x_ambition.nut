@@ -3,7 +3,7 @@
     "ID": 293403580,
     "key": "Win a battle against 12 or more enemies",
     "original": "Win a battle against 12 or more enemies",
-    "translation": "赢得一场12个或更多敌人的战斗",
+    "translation": "一战战胜至少12名敌人",
     "stage": 1,
     "context": "this.m.UIText = 'Win a battle against 12 or more enemies'"
   },
@@ -43,7 +43,7 @@
     "ID": 293403585,
     "key": "Win a battle against 12 or more enemies, whether by killing them or having them scatter and flee. You can do so as part of a contract or by fighting on your own terms.",
     "original": "Win a battle against 12 or more enemies, whether by killing them or having them scatter and flee. You can do so as part of a contract or by fighting on your own terms.",
-    "translation": "赢得一场12个或更多敌人的战斗，无论是杀死他们，还是让他们四散奔逃。 你可以把它作为合同的一部分，或者按照你自己的方式来完成。",
+    "translation": "一战战胜至少12名敌人，无论杀死打跑，也无论是否在合同之内。",
     "stage": 1,
     "context": "this.m.TooltipText = 'Win a battle against 12 or more enemies, whether by killing them or having them scatter and flee. You can do so as part of a contract or by fighting on your own terms.'"
   },

@@ -99,7 +99,7 @@
     "ID": 293411327,
     "key": "Grafenschacht",
     "original": "Grafenschacht",
-    "translation": "擢爵井",
+    "translation": "晋爵井",
     "stage": 1,
     "context": "this.getRandomName(['Hochgrube','Erzgrube','Schachtheim','Erzheim','Schmelzheim','Eisenstein','Erzfels','Gemmenschacht','Salzbruch','Salzfels','Erzbruch','Hohenbruch','Eisenheim','Grubenheim','Eisenberg','Erzberg','Havelberg','Goldbruch','Wolkenstein','Goldstein','Gemmenstein','Grafenschacht','Kahlengrube','Trogenschacht','Adlerstollen','Reinbruch','Hammererden','Schneefels','Weissenschacht','Ellengrube'])"
   },
