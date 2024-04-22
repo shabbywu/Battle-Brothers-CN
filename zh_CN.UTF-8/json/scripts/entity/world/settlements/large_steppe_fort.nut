@@ -3,7 +3,7 @@
     "ID": 293410984,
     "key": "Konigsfeste",
     "original": "Konigsfeste",
-    "translation": "国王要塞",
+    "translation": "君王塞",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenfeste','Krauchfeste','Erlachfeste','Treitenfeste','Thunfeste','Rothenfeste','Sonnenfeste','Siegfeste','Sudfeste','Suderfeste','Strauchfeste','Maderfeste','Kargfeste','Dornenfeste','Gelbfeste','Lichtfeste','Hellenfeste','Glanzfeste','Strahlfeste','Konigsfeste','Knochenfeste','Durrfeste','Sandsturmfeste','Gelbfelsfeste','Rothsteinfeste','Goldfeste','Scharfzahnfeste','Brandfeste','Staubfeste','Odfeste','Habichtfeste'])"
   },

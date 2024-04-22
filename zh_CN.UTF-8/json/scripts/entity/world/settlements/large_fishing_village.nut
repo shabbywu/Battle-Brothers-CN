@@ -3,8 +3,8 @@
     "ID": 293410812,
     "key": "Konigswasser",
     "original": "Konigswasser",
-    "translation": "国王之水",
-    "stage": 5,
+    "translation": "君王瀛",
+    "stage": 1,
     "context": "this.getRandomName(['Seestadt','Wikstadt','Konigshaven','Grafenhaven','Holnisland','Nieweland','Kampstadt','Krakenland','Blankenstadt','Harkenstadt','Tiefenstadt','Weissenstadt','Kobmanhaven','Grotenhaven','Konigswasser','Konigsmunde','Kronenkoog','Steinkai','Deichstadt'])"
   },
   {
@@ -19,7 +19,7 @@
     "ID": 293410814,
     "key": "Deichstadt",
     "original": "Deichstadt",
-    "translation": "堤坝镇",
+    "translation": "堤坝城",
     "stage": 1,
     "context": "this.getRandomName(['Seestadt','Wikstadt','Konigshaven','Grafenhaven','Holnisland','Nieweland','Kampstadt','Krakenland','Blankenstadt','Harkenstadt','Tiefenstadt','Weissenstadt','Kobmanhaven','Grotenhaven','Konigswasser','Konigsmunde','Kronenkoog','Steinkai','Deichstadt'])"
   },
@@ -35,7 +35,7 @@
     "ID": 293410816,
     "key": "Konigshaven",
     "original": "Konigshaven",
-    "translation": "国王之港",
+    "translation": "君王港",
     "stage": 1,
     "context": "this.getRandomName(['Seestadt','Wikstadt','Konigshaven','Grafenhaven','Holnisland','Nieweland','Kampstadt','Krakenland','Blankenstadt','Harkenstadt','Tiefenstadt','Weissenstadt','Kobmanhaven','Grotenhaven','Konigswasser','Konigsmunde','Kronenkoog','Steinkai','Deichstadt'])"
   },
@@ -43,7 +43,7 @@
     "ID": 293410817,
     "key": "Blankenstadt",
     "original": "Blankenstadt",
-    "translation": "沧海镇",
+    "translation": "沧海城",
     "stage": 1,
     "context": "this.getRandomName(['Seestadt','Wikstadt','Konigshaven','Grafenhaven','Holnisland','Nieweland','Kampstadt','Krakenland','Blankenstadt','Harkenstadt','Tiefenstadt','Weissenstadt','Kobmanhaven','Grotenhaven','Konigswasser','Konigsmunde','Kronenkoog','Steinkai','Deichstadt'])"
   },
@@ -67,7 +67,7 @@
     "ID": 293410820,
     "key": "Konigsmunde",
     "original": "Konigsmunde",
-    "translation": "国王之口",
+    "translation": "君王口",
     "stage": 1,
     "context": "this.getRandomName(['Seestadt','Wikstadt','Konigshaven','Grafenhaven','Holnisland','Nieweland','Kampstadt','Krakenland','Blankenstadt','Harkenstadt','Tiefenstadt','Weissenstadt','Kobmanhaven','Grotenhaven','Konigswasser','Konigsmunde','Kronenkoog','Steinkai','Deichstadt'])"
   },
@@ -83,7 +83,7 @@
     "ID": 293410822,
     "key": "Wikstadt",
     "original": "Wikstadt",
-    "translation": "维京镇",
+    "translation": "维京城",
     "stage": 1,
     "context": "this.getRandomName(['Seestadt','Wikstadt','Konigshaven','Grafenhaven','Holnisland','Nieweland','Kampstadt','Krakenland','Blankenstadt','Harkenstadt','Tiefenstadt','Weissenstadt','Kobmanhaven','Grotenhaven','Konigswasser','Konigsmunde','Kronenkoog','Steinkai','Deichstadt'])"
   },
@@ -107,7 +107,7 @@
     "ID": 293410825,
     "key": "Harkenstadt",
     "original": "Harkenstadt",
-    "translation": "耙犁镇",
+    "translation": "耙犁城",
     "stage": 1,
     "context": "this.getRandomName(['Seestadt','Wikstadt','Konigshaven','Grafenhaven','Holnisland','Nieweland','Kampstadt','Krakenland','Blankenstadt','Harkenstadt','Tiefenstadt','Weissenstadt','Kobmanhaven','Grotenhaven','Konigswasser','Konigsmunde','Kronenkoog','Steinkai','Deichstadt'])"
   },
@@ -115,7 +115,7 @@
     "ID": 293410826,
     "key": "Seestadt",
     "original": "Seestadt",
-    "translation": "海镇",
+    "translation": "海城",
     "stage": 1,
     "context": "this.getRandomName(['Seestadt','Wikstadt','Konigshaven','Grafenhaven','Holnisland','Nieweland','Kampstadt','Krakenland','Blankenstadt','Harkenstadt','Tiefenstadt','Weissenstadt','Kobmanhaven','Grotenhaven','Konigswasser','Konigsmunde','Kronenkoog','Steinkai','Deichstadt'])"
   },
@@ -139,7 +139,7 @@
     "ID": 293410829,
     "key": "Tiefenstadt",
     "original": "Tiefenstadt",
-    "translation": "洼镇",
+    "translation": "洼地城",
     "stage": 1,
     "context": "this.getRandomName(['Seestadt','Wikstadt','Konigshaven','Grafenhaven','Holnisland','Nieweland','Kampstadt','Krakenland','Blankenstadt','Harkenstadt','Tiefenstadt','Weissenstadt','Kobmanhaven','Grotenhaven','Konigswasser','Konigsmunde','Kronenkoog','Steinkai','Deichstadt'])"
   },
@@ -147,7 +147,7 @@
     "ID": 293410830,
     "key": "Grafenhaven",
     "original": "Grafenhaven",
-    "translation": "擢爵港",
+    "translation": "晋爵港",
     "stage": 1,
     "context": "this.getRandomName(['Seestadt','Wikstadt','Konigshaven','Grafenhaven','Holnisland','Nieweland','Kampstadt','Krakenland','Blankenstadt','Harkenstadt','Tiefenstadt','Weissenstadt','Kobmanhaven','Grotenhaven','Konigswasser','Konigsmunde','Kronenkoog','Steinkai','Deichstadt'])"
   },
@@ -155,7 +155,7 @@
     "ID": 293410831,
     "key": "Kampstadt",
     "original": "Kampstadt",
-    "translation": "营垒镇",
+    "translation": "营垒城",
     "stage": 1,
     "context": "this.getRandomName(['Seestadt','Wikstadt','Konigshaven','Grafenhaven','Holnisland','Nieweland','Kampstadt','Krakenland','Blankenstadt','Harkenstadt','Tiefenstadt','Weissenstadt','Kobmanhaven','Grotenhaven','Konigswasser','Konigsmunde','Kronenkoog','Steinkai','Deichstadt'])"
   },

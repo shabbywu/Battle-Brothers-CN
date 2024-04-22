@@ -11,8 +11,8 @@
     "ID": 293410756,
     "key": "Konigsfeste",
     "original": "Konigsfeste",
-    "translation": "国王要塞",
-    "stage": 5,
+    "translation": "君王塞",
+    "stage": 1,
     "context": "this.getRandomName(['Haselfeste','Reiherfeste','Wehrfeste','Konigsfeste','Grafenschanze','Weissenfeste','Koppelfeste','Weidefeste','Auenfeste','Gardefeste','Kroonsfeste','Grunfeste','Hoberfeste','Grunlandfeste','Freilandfeste','Lowenschanze','Weidenfeste','Feldfeste','Aulenfeste','Gerstenfeste','Brunnenfeste','Tauschanze'])"
   },
   {
@@ -59,7 +59,7 @@
     "ID": 293410762,
     "key": "Grafenschanze",
     "original": "Grafenschanze",
-    "translation": "擢爵砦",
+    "translation": "晋爵砦",
     "stage": 1,
     "context": "this.getRandomName(['Haselfeste','Reiherfeste','Wehrfeste','Konigsfeste','Grafenschanze','Weissenfeste','Koppelfeste','Weidefeste','Auenfeste','Gardefeste','Kroonsfeste','Grunfeste','Hoberfeste','Grunlandfeste','Freilandfeste','Lowenschanze','Weidenfeste','Feldfeste','Aulenfeste','Gerstenfeste','Brunnenfeste','Tauschanze'])"
   },

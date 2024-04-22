@@ -35,7 +35,7 @@
     "ID": 293411108,
     "key": "Jarlsted",
     "original": "Jarlsted",
-    "translation": "北地领主城",
+    "translation": "雅尔城",
     "stage": 1,
     "context": "this.getRandomName(['Tondersted','Jarlsted','Lydersted','Bolasted','Ravested','Hellested','Hornsted','Hejsted','Sommersted','Brammingsted','Vardested','Norrested','Grimsted','Ognasted','Eidsted','Gersted','Asested','Gunnsted','Hammarsted','Einarsted','Skallested','Halfdansted','Ratarsted','Lugnisted','Leifsted','Lorrested'])"
   },
