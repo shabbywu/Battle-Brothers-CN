@@ -3,7 +3,7 @@
     "ID": 293417691,
     "key": "Coat",
     "original": "Coat",
-    "translation": "外套",
+    "translation": "外衣",
     "stage": 1,
     "context": "'Coat'"
   },
@@ -59,7 +59,7 @@
     "ID": 293417698,
     "key": "Guard",
     "original": "Guard",
-    "translation": "警卫",
+    "translation": "守卫",
     "stage": 1,
     "context": "'Guard'"
   },

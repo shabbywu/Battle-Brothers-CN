@@ -11,7 +11,7 @@
     "ID": 293419545,
     "key": "/15 items at the taxidermist",
     "original": "/15 items at the taxidermist",
-    "translation": "/15 件物品",
+    "translation": "/15件物品",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Crafted ' + this.Math.min(15, this.World.Statistics.getFlags().getAsInt('ItemsCrafted')) + '/15 items at the taxidermist'"
   },
@@ -43,7 +43,7 @@
     "ID": 293419549,
     "key": "Crafted ",
     "original": "Crafted ",
-    "translation": "在剥制屋里制造 ",
+    "translation": "在剥制屋里制作",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Crafted ' + this.Math.min(15, this.World.Statistics.getFlags().getAsInt('ItemsCrafted')) + '/15 items at the taxidermist'"
   }

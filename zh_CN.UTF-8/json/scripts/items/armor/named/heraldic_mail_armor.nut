@@ -59,7 +59,7 @@
     "ID": 293417743,
     "key": "Mail Hauberk",
     "original": "Mail Hauberk",
-    "translation": "链锁子甲",
+    "translation": "全身链铠",
     "stage": 1,
     "context": "'Mail Hauberk'"
   },

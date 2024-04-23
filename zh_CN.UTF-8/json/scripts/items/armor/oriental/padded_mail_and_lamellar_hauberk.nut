@@ -3,7 +3,7 @@
     "ID": 293417817,
     "key": "Padded Mail and Lamellar Hauberk",
     "original": "Padded Mail and Lamellar Hauberk",
-    "translation": "内衬片状链甲",
+    "translation": "衬垫札链甲",
     "stage": 1,
     "context": "this.m.Name = 'Padded Mail and Lamellar Hauberk'"
   },

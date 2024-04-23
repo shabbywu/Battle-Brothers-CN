@@ -3,7 +3,7 @@
     "ID": 293417851,
     "key": "Heraldic Hauberk",
     "original": "Heraldic Hauberk",
-    "translation": "纹章锁子甲",
+    "translation": "纹章链铠",
     "stage": 1,
     "context": "this.m.Name = 'Heraldic Hauberk'"
   },

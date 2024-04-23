@@ -3,7 +3,7 @@
     "ID": 293419594,
     "key": "/15 contracts",
     "original": "/15 contracts",
-    "translation": "/15 个合同",
+    "translation": "/15份合同",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Completed ' + this.Math.min(15, this.World.Contracts.getContractsFinished()) + '/15 contracts'"
   },

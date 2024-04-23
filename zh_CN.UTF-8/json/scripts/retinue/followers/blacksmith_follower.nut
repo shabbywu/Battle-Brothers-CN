@@ -19,7 +19,7 @@
     "ID": 293419552,
     "key": "/5 items repaired at a town's smith",
     "original": "/5 items repaired at a town's smith",
-    "translation": "/5件物品 在城镇的铁匠处修复了。",
+    "translation": "/5件物品。",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Had ' + this.Math.min(5, this.World.Statistics.getFlags().getAsInt('ItemsRepaired')) + \"/5 items repaired at a town's smith\""
   },
@@ -43,7 +43,7 @@
     "ID": 293419555,
     "key": "Had ",
     "original": "Had ",
-    "translation": "有",
+    "translation": "在城镇的铁匠处修复",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Had ' + this.Math.min(5, this.World.Statistics.getFlags().getAsInt('ItemsRepaired')) + \"/5 items repaired at a town's smith\""
   }

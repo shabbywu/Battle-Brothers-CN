@@ -35,7 +35,7 @@
     "ID": 293419581,
     "key": "Retired a man with a permanent injury that isn't indebted",
     "original": "Retired a man with a permanent injury that isn't indebted",
-    "translation": "让一个受了永久性损伤不是负债者的人退休",
+    "translation": "退役一位带着永久损伤的非负债者队员",
     "stage": 1,
     "context": "Text = \"Retired a man with a permanent injury that isn't indebted\""
   }

@@ -26,14 +26,14 @@
         "total": 16,
         "translated": 16,
         "disputed": 0,
-        "checked": 16,
-        "reviewed": 16,
+        "checked": 13,
+        "reviewed": 13,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-07-02T03:52:37.18Z",
         "updatedAt": "2023-07-05T12:35:50.999Z",
-        "modifiedAt": "2023-07-19T12:58:54Z",
-        "sha256": "9b5b44a918961124337357ffe8e89955b0d3b04b887f8cb65b96f85eb0eb92d0"
+        "modifiedAt": "2024-04-22T03:02:42Z",
+        "sha256": "c1788d6b0306e91eb10a1ddfc9057a85aae3eff4c55b8acf6bb572be34c5b48f"
     },
     "scripts/ai/tactical/behaviors/ai_retreat_always.json": {
         "id": 940735,
@@ -1340,14 +1340,14 @@
         "total": 1218,
         "translated": 1218,
         "disputed": 0,
-        "checked": 267,
-        "reviewed": 267,
+        "checked": 266,
+        "reviewed": 266,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-04-21T13:14:19Z",
-        "sha256": "5769c8779ed790dae0c480abc9a5812a220afb01e5b58b5c1768168a29050caf"
+        "modifiedAt": "2024-04-22T03:19:23Z",
+        "sha256": "9fe9534ed3c15f440ff904f82a5128f47ca03301e8e9a2d4a75fbdccbdf44220"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -8150,8 +8150,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:19.736Z",
         "updatedAt": "2023-06-26T05:47:31.177Z",
-        "modifiedAt": "2024-04-19T08:22:04Z",
-        "sha256": "3619fc54152106f5a5b5fa0251e142008a498339b24103f3284f99986562baa7"
+        "modifiedAt": "2024-04-22T08:07:54Z",
+        "sha256": "f786efb3f3797ab2acd0a4efc9b9b17fac0734f0da5b7e35c3f40025199a6e9f"
     },
     "scripts/events/events/archery_stunt_event.json": {
         "id": 918799,
@@ -17420,8 +17420,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:44.852Z",
         "updatedAt": "2023-06-26T05:48:24.075Z",
-        "modifiedAt": "2024-04-19T06:57:02Z",
-        "sha256": "45ffe5e47859345ac263ab9d8e6739d37c8f31e6c513c5cbf2636919925ba20a"
+        "modifiedAt": "2024-04-22T01:02:29Z",
+        "sha256": "5f72c576bed7a07b2e652d2bfe212cb7b2f1dc6085bea872d1ca69677e3058ea"
     },
     "scripts/items/armor/barbarians/hide_and_bone_armor.json": {
         "id": 919314,
@@ -17438,8 +17438,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:45.202Z",
         "updatedAt": "2023-06-26T05:48:24.127Z",
-        "modifiedAt": "2023-06-26T05:48:24Z",
-        "sha256": "9b0d71986a24a2a74fbe87dfe457cffca83c756cb2296193a13b99615174cc1e"
+        "modifiedAt": "2024-04-22T01:01:12Z",
+        "sha256": "916a29c5da712307a6263b884ef9302723b4be7ec1827b44281252b980e3a243"
     },
     "scripts/items/armor/barbarians/reinforced_animal_hide_armor.json": {
         "id": 919315,
@@ -17450,14 +17450,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:46.079Z",
         "updatedAt": "2023-06-26T05:48:24.182Z",
-        "modifiedAt": "2023-06-26T05:48:24Z",
-        "sha256": "b0a0f0aa42e5d49dd191e792974074d326d27de5c8058401f472512ab889b013"
+        "modifiedAt": "2024-04-22T01:05:00Z",
+        "sha256": "64912a966458f2ff63be72f74afe765c4e9a7e7267c274d6baa8c90adfe0aad7"
     },
     "scripts/items/armor/barbarians/rugged_scale_armor.json": {
         "id": 919316,
@@ -17492,8 +17492,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:46.766Z",
         "updatedAt": "2023-06-26T05:48:24.286Z",
-        "modifiedAt": "2023-06-26T05:48:24Z",
-        "sha256": "a531187d83fd1492d4aaad7daaa354f7b4affae9e1661a9c10e687a428e3caf6"
+        "modifiedAt": "2024-04-22T01:08:24Z",
+        "sha256": "93c6e4965e10c81ff8172b09d31aff56e6ba8069829b7b6b3cbe4ea5895b243b"
     },
     "scripts/items/armor/barbarians/thick_furs_armor.json": {
         "id": 919318,
@@ -17528,8 +17528,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:47.436Z",
         "updatedAt": "2023-06-26T05:48:24.401Z",
-        "modifiedAt": "2023-06-26T05:48:24Z",
-        "sha256": "c12fdad804403a66b54219895b32b91748e91052d34666b4edf8c76b3e4fbb67"
+        "modifiedAt": "2024-04-22T01:12:09Z",
+        "sha256": "37a8cd122735d3edaff211d4a5ae0102a4a54a92f5d43c540e3bd83c4b0e6b86"
     },
     "scripts/items/armor/barbarians/unhold_armor_heavy.json": {
         "id": 919320,
@@ -17546,8 +17546,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:47.763Z",
         "updatedAt": "2023-06-26T05:48:24.459Z",
-        "modifiedAt": "2023-06-26T05:48:24Z",
-        "sha256": "67b48efcc94cd32066c15075f1d44f0a7f4e82ba13e42f47ca14e70b597272aa"
+        "modifiedAt": "2024-04-22T01:13:11Z",
+        "sha256": "e63077d5bd3d1ccb7486f02a314f006c80d5f1fa9af8d0a6c8182f386c00dc21"
     },
     "scripts/items/armor/barbarians/unhold_armor_light.json": {
         "id": 919321,
@@ -17564,8 +17564,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:48.102Z",
         "updatedAt": "2023-06-26T05:48:24.514Z",
-        "modifiedAt": "2023-06-26T05:48:25Z",
-        "sha256": "0c43e5e5d33a84dd262ddd8e27e8c1c827fb5378cf19a30f5b08c071f5d86be9"
+        "modifiedAt": "2024-04-22T01:13:07Z",
+        "sha256": "957dc6eb2f1790bccf68961e51b98198c68801ab118550281be601958398975b"
     },
     "scripts/items/armor/basic_mail_shirt.json": {
         "id": 919322,
@@ -17834,8 +17834,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:53.943Z",
         "updatedAt": "2023-06-26T05:48:25.353Z",
-        "modifiedAt": "2023-06-26T05:48:25Z",
-        "sha256": "369d8ca14eec1c78ba13d924fba42f9e3e9121c8698e9898e1ebff431e8bc44b"
+        "modifiedAt": "2024-04-22T01:13:55Z",
+        "sha256": "ca7bde33af804a39dd78586b3776cbf2d42b09bb4762c52d02227a992f7be4eb"
     },
     "scripts/items/armor/greenskins/goblin_skirmisher_armor.json": {
         "id": 919337,
@@ -17852,8 +17852,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:54.276Z",
         "updatedAt": "2023-06-26T05:48:25.418Z",
-        "modifiedAt": "2023-06-26T05:48:25Z",
-        "sha256": "e4b9990aeb6ea340f713dd302b80f6cf50a68366a29fd6773f289145c5ac943d"
+        "modifiedAt": "2024-04-22T01:14:05Z",
+        "sha256": "b54408f26182097ba8ed7d53baf859f773873de8328b928f30d3f87233ecf4c1"
     },
     "scripts/items/armor/greenskins/orc_berserker_light_armor.json": {
         "id": 919338,
@@ -17870,8 +17870,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:54.604Z",
         "updatedAt": "2023-06-26T05:48:25.475Z",
-        "modifiedAt": "2023-06-26T05:48:25Z",
-        "sha256": "3c54ae630ce59e3427c690936fa07303125aa0b63926bedc40f880ebe6dba43a"
+        "modifiedAt": "2024-04-22T01:15:23Z",
+        "sha256": "f24a96a550260d5f057e06b5453b939f806bfcc41be366ae7eb4fb5b0d784e84"
     },
     "scripts/items/armor/greenskins/orc_berserker_medium_armor.json": {
         "id": 919339,
@@ -17924,8 +17924,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:55.616Z",
         "updatedAt": "2023-06-26T05:48:25.655Z",
-        "modifiedAt": "2023-06-26T05:48:26Z",
-        "sha256": "04ac483e2aadccb4ada25817f1b4da299fb7297bbecc53b3f2f5b5c2a80a4123"
+        "modifiedAt": "2024-04-22T01:22:56Z",
+        "sha256": "cbad5ceaa1962c4a9741999042c585a5517baa8742f0f68f1ffa58af229b8def"
     },
     "scripts/items/armor/greenskins/orc_warrior_light_armor.json": {
         "id": 919342,
@@ -17942,8 +17942,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:55.944Z",
         "updatedAt": "2023-06-26T05:48:25.71Z",
-        "modifiedAt": "2023-06-26T05:48:26Z",
-        "sha256": "cafcc841d9b3fb685af4abbdcd0d06bc45979237cf3a731ee542ea5880eeab5c"
+        "modifiedAt": "2024-04-22T01:22:59Z",
+        "sha256": "2276f4ec6d0e99b6b7be35d78285d787db8cf19576285ee1cf2ea517b972e3d4"
     },
     "scripts/items/armor/greenskins/orc_warrior_medium_armor.json": {
         "id": 919343,
@@ -17960,8 +17960,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:56.273Z",
         "updatedAt": "2023-06-26T05:48:25.764Z",
-        "modifiedAt": "2023-06-26T05:48:26Z",
-        "sha256": "c5b979e5edbbb3e6849b79b508dfeb1b244629114bb5ae0f1d3c0046a39703f5"
+        "modifiedAt": "2024-04-22T01:23:02Z",
+        "sha256": "f71a34e68d5cfe2137c533f2e3d3dddb81bf1aa29d6f1373d503f2a9677e6e75"
     },
     "scripts/items/armor/greenskins/orc_young_heavy_armor.json": {
         "id": 919344,
@@ -18176,8 +18176,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:03.202Z",
         "updatedAt": "2023-06-26T05:48:26.556Z",
-        "modifiedAt": "2024-01-10T08:03:57Z",
-        "sha256": "b0ef97983f5472a965efd21f13c726a54f653989c6b038635531a85f75c0c978"
+        "modifiedAt": "2024-04-22T01:17:57Z",
+        "sha256": "bcf2ae990181dda7e8d70dac5641ef40ac60a39da8212189eebcaf647aad786f"
     },
     "scripts/items/armor/legendary/emperors_armor.json": {
         "id": 919356,
@@ -18194,8 +18194,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:03.55Z",
         "updatedAt": "2023-06-26T05:48:26.624Z",
-        "modifiedAt": "2023-06-26T05:48:27Z",
-        "sha256": "c4aaf6864a214087d7726eec3cb5038695f834a6cd2b65e890aa26c7cc71adca"
+        "modifiedAt": "2024-04-22T01:27:45Z",
+        "sha256": "8533a60ac72eee322f78a4e8c5bbd902d447c275273d446c6a235bdde85961dc"
     },
     "scripts/items/armor/legendary/emperors_armor_fake.json": {
         "id": 919357,
@@ -18212,8 +18212,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:04.59Z",
         "updatedAt": "2023-06-26T05:48:26.689Z",
-        "modifiedAt": "2023-06-26T05:48:27Z",
-        "sha256": "3086b1405cd331bd38d704f182ede6d04498858df97b9ea5521fada54c5b0316"
+        "modifiedAt": "2024-04-22T01:32:36Z",
+        "sha256": "8b38b6f31b2f80bc421cc0301316390c882e3b4a92bb09c3365913baa8a76943"
     },
     "scripts/items/armor/legendary/ijirok_armor.json": {
         "id": 919358,
@@ -18230,8 +18230,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:04.931Z",
         "updatedAt": "2023-06-26T05:48:26.759Z",
-        "modifiedAt": "2023-06-26T05:48:27Z",
-        "sha256": "2ee935e683f31fc38b913a7a8dbc5426cd81005160ee4b84f23fd8557ec6cdf0"
+        "modifiedAt": "2024-04-22T01:37:59Z",
+        "sha256": "62d5fe4558350a41bf88a71b46f47514d00a297b0dc469d0ce7037b596bd12ab"
     },
     "scripts/items/armor/light_scale_armor.json": {
         "id": 919359,
@@ -18338,8 +18338,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:07.589Z",
         "updatedAt": "2023-06-26T05:48:27.128Z",
-        "modifiedAt": "2023-06-26T05:48:27Z",
-        "sha256": "f0bf0ecb0fc837741565798835bbe6f9f8ad5599575e01ec595b075874fe5ac2"
+        "modifiedAt": "2024-04-22T01:42:40Z",
+        "sha256": "494a40d77690cd5c890689ccf62428757603cfe5fb411acdb0bf625a89db095f"
     },
     "scripts/items/armor/named/black_leather_armor.json": {
         "id": 919365,
@@ -18356,8 +18356,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:07.926Z",
         "updatedAt": "2023-06-26T05:48:27.195Z",
-        "modifiedAt": "2023-06-26T05:48:27Z",
-        "sha256": "557fef07d0bc428b0950081114dc0944e4b814bbdf6bc534c82bbf51fb89c6f1"
+        "modifiedAt": "2024-04-22T01:43:19Z",
+        "sha256": "e82aaf794302eb4af5f7c1adc0af22c707cb0dabb9980770a2b90c0442d474f8"
     },
     "scripts/items/armor/named/blue_studded_mail_armor.json": {
         "id": 919366,
@@ -18374,8 +18374,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:08.269Z",
         "updatedAt": "2023-06-26T05:48:27.258Z",
-        "modifiedAt": "2023-06-26T05:48:27Z",
-        "sha256": "db62a9dc27407b3a829b43bf08bfab21e0d7dcd660b1063b142c9764f62e49fd"
+        "modifiedAt": "2024-04-22T01:48:15Z",
+        "sha256": "e0a8ab1b79116aa94a554fdb665127899c6377b81d2661931d0db6742af1dbb1"
     },
     "scripts/items/armor/named/brown_coat_of_plates_armor.json": {
         "id": 919367,
@@ -18446,8 +18446,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:09.635Z",
         "updatedAt": "2023-06-26T05:48:27.562Z",
-        "modifiedAt": "2023-06-26T05:48:28Z",
-        "sha256": "96072aee408ed62e4b9181dd95774122081d69033b56790ce88bf051ca483f91"
+        "modifiedAt": "2024-04-22T01:41:20Z",
+        "sha256": "a84bed8276f1e7669afbf9ee85e0f0aaa1b7d8da59dbd8dbfa8c450130b3d5b4"
     },
     "scripts/items/armor/named/leopard_armor.json": {
         "id": 919371,
@@ -18518,8 +18518,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:11.062Z",
         "updatedAt": "2023-06-26T05:48:27.829Z",
-        "modifiedAt": "2023-06-26T05:48:28Z",
-        "sha256": "e5be776a7f87178c947cc782b86ad99b5084bba47483b44bef93c7f6434f2eea"
+        "modifiedAt": "2024-04-22T02:13:27Z",
+        "sha256": "a0464e661be95339f21afb9586ed893eada6e913e666288903e5f17ba68ac538"
     },
     "scripts/items/armor/named/named_golden_lamellar_armor.json": {
         "id": 919375,
@@ -18662,8 +18662,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:14.008Z",
         "updatedAt": "2023-06-26T05:48:28.701Z",
-        "modifiedAt": "2023-06-26T05:48:29Z",
-        "sha256": "adaa5c131c394b8f9cab90ff7f240ba78263078780a304caabdb9e3b3a3777d1"
+        "modifiedAt": "2024-04-22T01:50:31Z",
+        "sha256": "7b6342b205a95deb80c8ea5f8c1109bf54f9891c30cdb86e3aca7e295781cc5f"
     },
     "scripts/items/armor/oriental/cloth_sash.json": {
         "id": 919383,
@@ -18746,14 +18746,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:24:16.297Z",
         "updatedAt": "2023-06-26T05:48:29.006Z",
-        "modifiedAt": "2023-06-26T05:48:29Z",
-        "sha256": "35678d9a9965ce5d9206bb0a5af40e2aee8c281123f13f59e696f7c3b3dc0215"
+        "modifiedAt": "2024-04-22T02:08:13Z",
+        "sha256": "91f8944b91ea2733c0c31d7c9a108adc5658643b902bd595fd67c8fed1af31e2"
     },
     "scripts/items/armor/oriental/nomad_robe.json": {
         "id": 919388,
@@ -18788,8 +18788,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:16.956Z",
         "updatedAt": "2023-06-26T05:48:29.12Z",
-        "modifiedAt": "2023-06-26T05:48:29Z",
-        "sha256": "8667dc8cb307e35c3983243b140d4eec9492be07a44dcd5722d85542c12f0a94"
+        "modifiedAt": "2024-04-22T02:09:12Z",
+        "sha256": "58ef2b3dc9c9d8748d6d071174c5dc2dd39b5ef62955c0e033d45860f76d9f74"
     },
     "scripts/items/armor/oriental/padded_vest.json": {
         "id": 919390,
@@ -19094,8 +19094,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:24.703Z",
         "updatedAt": "2023-06-26T05:48:30.367Z",
-        "modifiedAt": "2023-06-26T05:48:30Z",
-        "sha256": "c2d9dcbc5de069903ef2991c0980d0c2a895fef8cadebd3eb746dd8beeacc161"
+        "modifiedAt": "2024-04-22T01:40:49Z",
+        "sha256": "8df74f0cfc19b63b4f2532803f7b61dd0b5710008e68d079ae210fc41eb78ba1"
     },
     "scripts/items/armor/special/wardog_armor.json": {
         "id": 919407,
@@ -20084,8 +20084,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:53.055Z",
         "updatedAt": "2023-06-26T05:48:36.664Z",
-        "modifiedAt": "2023-06-26T05:48:37Z",
-        "sha256": "5c02f90c31968626a6acc7d2178b8a8ba10c86a3bc176acfdf99eccfd04f5dbd"
+        "modifiedAt": "2024-04-22T01:13:20Z",
+        "sha256": "40b78a08d44d5c3b3c36663be1cf5ab6e28f6eeb7b847bf61374e16e572e7170"
     },
     "scripts/items/helmets/barbarians/unhold_helmet_light.json": {
         "id": 919462,
@@ -20102,8 +20102,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:53.389Z",
         "updatedAt": "2023-06-26T05:48:36.717Z",
-        "modifiedAt": "2023-06-26T05:48:37Z",
-        "sha256": "1bfccd6b55af89d2ff52ea89c9a1ab07a0a218a240d157e59d3900f84e0461d2"
+        "modifiedAt": "2024-04-22T01:13:22Z",
+        "sha256": "d8c3e5592f3c53cb8f90fc91ea7a9a2df7a9cf4e2191d2b4a783a7742f65e063"
     },
     "scripts/items/helmets/barbute_helmet.json": {
         "id": 919463,
@@ -21650,8 +21650,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:29.728Z",
         "updatedAt": "2023-06-26T05:48:44.6Z",
-        "modifiedAt": "2023-06-26T05:48:45Z",
-        "sha256": "193b124d7bf69ce8efcecc0dd0aad0a9ee61bc289b604e8bcd09faf5021210bb"
+        "modifiedAt": "2024-04-22T02:06:23Z",
+        "sha256": "1bb8c06402d65797748f00d0048f183684eeec090060f7baa9e23ca08eab2773"
     },
     "scripts/items/helmets/oriental/leather_head_wrap.json": {
         "id": 919549,
@@ -28850,8 +28850,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:35.733Z",
         "updatedAt": "2023-06-26T05:49:10.246Z",
-        "modifiedAt": "2024-01-09T08:21:07Z",
-        "sha256": "5ff1ea402306baef7e5782091ccd039b31d21c9ab4b319a857669bf11ec09213"
+        "modifiedAt": "2024-04-22T04:43:53Z",
+        "sha256": "934408814844dea70cf68411ee861c7eaace3173aee12ea46fb1ba35d863949f"
     },
     "scripts/retinue/followers/blacksmith_follower.json": {
         "id": 919949,
@@ -28868,8 +28868,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:36.065Z",
         "updatedAt": "2023-06-26T05:49:10.311Z",
-        "modifiedAt": "2023-06-26T05:49:10Z",
-        "sha256": "94fb237f457486c8ef251fbd0dfc013652cc70563e7cec1838c317d32f945a09"
+        "modifiedAt": "2024-04-22T04:41:21Z",
+        "sha256": "3563920b03e6af833a872b19865f15773ad6f78e1a946d66565e50fa9afd07da"
     },
     "scripts/retinue/followers/bounty_hunter_follower.json": {
         "id": 919950,
@@ -28904,8 +28904,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:37.052Z",
         "updatedAt": "2023-06-26T05:49:10.433Z",
-        "modifiedAt": "2024-04-07T15:47:00Z",
-        "sha256": "5f301b9277f057677c64b321d0685444c87aa597aa9fc94e12f95ab2e79e7f12"
+        "modifiedAt": "2024-04-22T04:43:27Z",
+        "sha256": "29e7b36f617f5671bd2c83ed564729ed493b4317db9b8b17803d318e56e98890"
     },
     "scripts/retinue/followers/cartographer_follower.json": {
         "id": 919952,
@@ -28940,8 +28940,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:37.728Z",
         "updatedAt": "2023-06-26T05:49:10.559Z",
-        "modifiedAt": "2023-06-26T05:49:11Z",
-        "sha256": "19abbe8a80208a3d9d74141bf1d82fb24d6d31f26221df061171cd314cb21b17"
+        "modifiedAt": "2024-04-22T04:42:19Z",
+        "sha256": "8de69ab407ccd26a159fb6d483be8c5f648992dd5c1f1c0598cafa7a08f1da9a"
     },
     "scripts/retinue/followers/drill_sergeant_follower.json": {
         "id": 919954,
@@ -28958,8 +28958,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:38.335Z",
         "updatedAt": "2023-06-26T05:49:10.619Z",
-        "modifiedAt": "2023-06-26T05:49:11Z",
-        "sha256": "d07fc2b28a72b0d242b29cbb8bd3d0abd686af6a0d279f869e0c23e64a7c4ada"
+        "modifiedAt": "2024-04-22T04:49:08Z",
+        "sha256": "be7617be56564568d539d5ca4443f97987377de291bf47748f585c7e8f73a9ce"
     },
     "scripts/retinue/followers/lookout_follower.json": {
         "id": 919955,
@@ -28994,8 +28994,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:39.311Z",
         "updatedAt": "2023-06-26T05:49:10.747Z",
-        "modifiedAt": "2024-01-09T08:53:49Z",
-        "sha256": "6b737050d732559718adeea6298fd4ce3b103ce890d6dd62a396325be8b68ba1"
+        "modifiedAt": "2024-04-22T04:42:36Z",
+        "sha256": "74f13366751a6364047d2fb79f6447688ba7ba6af1a08ed0b2d3f17b6457d91f"
     },
     "scripts/retinue/followers/negotiator_follower.json": {
         "id": 919957,
@@ -29012,8 +29012,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:39.681Z",
         "updatedAt": "2023-06-26T05:49:10.812Z",
-        "modifiedAt": "2024-01-09T08:53:15Z",
-        "sha256": "399929fae101febfa5ff810c90668129bbd2912e72486bad4aa1ca1fc2665a97"
+        "modifiedAt": "2024-04-22T04:45:00Z",
+        "sha256": "7463e6a5b7965c49788afbf4870d6db258e3fe2679bdf29eef5b41240d4ad4e6"
     },
     "scripts/retinue/followers/paymaster_follower.json": {
         "id": 919958,
@@ -29030,8 +29030,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:40.017Z",
         "updatedAt": "2023-06-26T05:49:10.87Z",
-        "modifiedAt": "2024-01-09T08:52:28Z",
-        "sha256": "f7235499c75cd7945ae6edf8a505a88514eb70651260a2d8194dabb2a61e75de"
+        "modifiedAt": "2024-04-22T04:45:26Z",
+        "sha256": "e4cacb833b862eb9d2c2d086ba4a27b0f4b43414f46074908c423cc6b0856329"
     },
     "scripts/retinue/followers/quartermaster_follower.json": {
         "id": 919959,
@@ -29048,8 +29048,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:40.892Z",
         "updatedAt": "2023-06-26T05:49:10.934Z",
-        "modifiedAt": "2024-01-09T08:49:31Z",
-        "sha256": "1daf7937b2b81280b5506130ce86cf09f5d56cae54a1b08e674d2dd85534fa8f"
+        "modifiedAt": "2024-04-22T04:44:27Z",
+        "sha256": "8f5179684ca43b6f0ff3f2d7db8648a804c2f45ace3d73b016fc447452ff6e66"
     },
     "scripts/retinue/followers/recruiter_follower.json": {
         "id": 919960,
@@ -29138,8 +29138,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:43.704Z",
         "updatedAt": "2023-06-26T05:49:11.43Z",
-        "modifiedAt": "2024-01-09T08:31:56Z",
-        "sha256": "6754120ac46b5cad4a2345797feb52e347949deceef95184aed13c8179861951"
+        "modifiedAt": "2024-04-22T04:45:43Z",
+        "sha256": "f8c80477f8b933bc734d7e76e8099c4cdb2a38f45837dceed3f8df0bd1dc48a1"
     },
     "scripts/scenarios/world/anatomists_scenario.json": {
         "id": 919965,
