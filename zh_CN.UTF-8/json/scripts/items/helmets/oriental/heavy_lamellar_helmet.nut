@@ -3,7 +3,7 @@
     "ID": 293418274,
     "key": "Heavy Lamellar Helmet",
     "original": "Heavy Lamellar Helmet",
-    "translation": "重型层状头盔",
+    "translation": "重型札甲盔",
     "stage": 1,
     "context": "this.m.Name = 'Heavy Lamellar Helmet'"
   },

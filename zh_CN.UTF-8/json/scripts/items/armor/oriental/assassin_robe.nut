@@ -3,7 +3,7 @@
     "ID": 293417803,
     "key": "The dark robes of an assassin. Fine chainmail is tied and woven tightly into the fabric.",
     "original": "The dark robes of an assassin. Fine chainmail is tied and woven tightly into the fabric.",
-    "translation": "一位刺客的黑色长袍。 细链甲被紧紧地编织在织物上。",
+    "translation": "一位刺客的黑色长袍。细密的链甲紧紧缝在织物上。",
     "stage": 1,
     "context": "this.m.Description = 'The dark robes of an assassin. Fine chainmail is tied and woven tightly into the fabric.'"
   },

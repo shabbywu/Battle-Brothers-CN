@@ -3,7 +3,7 @@
     "ID": 293419600,
     "key": "/16 men",
     "original": "/16 men",
-    "translation": "/16位队员登记在册",
+    "translation": "/16名队员登记在册",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Have a roster of ' + this.Math.min(16, this.World.getPlayerRoster().getSize()) + '/16 men'"
   },

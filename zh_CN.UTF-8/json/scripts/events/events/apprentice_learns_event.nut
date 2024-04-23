@@ -91,7 +91,7 @@
     "ID": 293412571,
     "key": " something",
     "original": " something",
-    "translation": "某些东西",
+    "translation": "一些东西",
     "stage": 1,
     "context": "_event.m.Teacher.improveMood(0.25, 'Has taught ' + _event.m.Apprentice.getName() + ' something')"
   },

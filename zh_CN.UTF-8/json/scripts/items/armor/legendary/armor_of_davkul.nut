@@ -3,7 +3,7 @@
     "ID": 293417655,
     "key": "]90[/color] points of durability each turn.",
     "original": "]90[/color] points of durability each turn.",
-    "translation": "]90[/color] 点耐久。",
+    "translation": "]90[/color]点耐久。",
     "stage": 1,
     "context": "text = 'Regenerates itself by [color=' + this.Const.UI.Color.PositiveValue + ']90[/color] points of durability each turn.'"
   },
@@ -19,7 +19,7 @@
     "ID": 293417657,
     "key": "Regenerates itself by [color=",
     "original": "Regenerates itself by [color=",
-    "translation": "每回合回复自身 [color=",
+    "translation": "每回合回复自身[color=",
     "stage": 1,
     "context": "text = 'Regenerates itself by [color=' + this.Const.UI.Color.PositiveValue + ']90[/color] points of durability each turn.'"
   },

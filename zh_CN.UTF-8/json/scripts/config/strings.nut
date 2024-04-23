@@ -355,7 +355,7 @@
     "ID": 293405680,
     "key": "Gnarlheim",
     "original": "Gnarlheim",
-    "translation": "树瘿乡",
+    "translation": "树瘿地",
     "stage": 1,
     "context": "'Gnarlheim'"
   },
@@ -411,8 +411,8 @@
     "ID": 293405687,
     "key": "Clan's Claim",
     "original": "Clan's Claim",
-    "translation": "氏族的主张",
-    "stage": 5,
+    "translation": "氏族领地",
+    "stage": 1,
     "context": "\"Clan's Claim\""
   },
   {
@@ -475,7 +475,7 @@
     "ID": 293405695,
     "key": "Cruel Sea",
     "original": "Cruel Sea",
-    "translation": "残酷的大海",
+    "translation": "残酷之海",
     "stage": 1,
     "context": "'Cruel Sea'"
   },
@@ -515,7 +515,7 @@
     "ID": 293405700,
     "key": "Howling Sea",
     "original": "Howling Sea",
-    "translation": "啸海",
+    "translation": "呼嚎海",
     "stage": 1,
     "context": "'Howling Sea'"
   },
@@ -547,7 +547,7 @@
     "ID": 293405704,
     "key": "Wailing Ocean",
     "original": "Wailing Ocean",
-    "translation": "哭泣的海洋",
+    "translation": "哀泣海",
     "stage": 1,
     "context": "'Wailing Ocean'"
   },
@@ -1331,7 +1331,7 @@
     "ID": 293405802,
     "key": "Stag's Grounds",
     "original": "Stag's Grounds",
-    "translation": "雄鹿的理由",
+    "translation": "雄鹿的领地",
     "stage": 1,
     "context": "\"Stag's Grounds\""
   },
@@ -1355,7 +1355,7 @@
     "ID": 293405805,
     "key": "Bleak Forest",
     "original": "Bleak Forest",
-    "translation": "荒凉的森林",
+    "translation": "荒凉林",
     "stage": 1,
     "context": "'Bleak Forest'"
   },
@@ -5555,7 +5555,7 @@
     "ID": 293406330,
     "key": "Fast Clouds County",
     "original": "Fast Clouds County",
-    "translation": "快云县",
+    "translation": "流云郊",
     "stage": 1,
     "context": "'Fast Clouds County'"
   },
@@ -5571,7 +5571,7 @@
     "ID": 293406332,
     "key": "Southern Sands",
     "original": "Southern Sands",
-    "translation": "南沙",
+    "translation": "南漠",
     "stage": 1,
     "context": "'Southern Sands'"
   },

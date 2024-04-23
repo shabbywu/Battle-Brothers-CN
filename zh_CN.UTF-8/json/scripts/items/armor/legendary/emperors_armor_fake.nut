@@ -11,7 +11,7 @@
     "ID": 293417664,
     "key": "A shining armor once worn by the emperor of an age long past, made from the most woundrous of materials, imbued with mystical energies. Light reflects easily off the polished armor, turning the wearer into a shimmering figure of light during the day.",
     "original": "A shining armor once worn by the emperor of an age long past, made from the most woundrous of materials, imbued with mystical energies. Light reflects easily off the polished armor, turning the wearer into a shimmering figure of light during the day.",
-    "translation": "一件历史久远的帝王穿戴的闪亮铠甲，由许多伤人的材料打造而成，充满了神秘的力量。 打磨过的盔甲能很容易反射光线，使得穿戴者在白天闪闪发光。",
+    "translation": "远古皇帝所穿的闪亮铠甲，用最伤人的材料打造而成，充满了神秘力量。白天，抛光的盔甲极易反光，使得穿戴者熠熠生辉。",
     "stage": 1,
     "context": "this.m.Description = 'A shining armor once worn by the emperor of an age long past, made from the most woundrous of materials, imbued with mystical energies. Light reflects easily off the polished armor, turning the wearer into a shimmering figure of light during the day.'"
   },
@@ -19,7 +19,7 @@
     "ID": 293417665,
     "key": "Reflects [color=",
     "original": "Reflects [color=",
-    "translation": "反弹 [color=",
+    "translation": "反弹所受近战伤害的[color=",
     "stage": 1,
     "context": "text = 'Reflects [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] of damage taken in melee back to the attacker'"
   },
@@ -27,7 +27,7 @@
     "ID": 293417666,
     "key": "]25%[/color] of damage taken in melee back to the attacker",
     "original": "]25%[/color] of damage taken in melee back to the attacker",
-    "translation": "]25%[/color] 的肉搏伤害给攻击者",
+    "translation": "]25%[/color]给攻击者",
     "stage": 1,
     "context": "text = 'Reflects [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] of damage taken in melee back to the attacker'"
   }

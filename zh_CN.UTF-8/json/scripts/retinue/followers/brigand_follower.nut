@@ -27,7 +27,7 @@
     "ID": 293419565,
     "key": "/4 caravans",
     "original": "/4 caravans",
-    "translation": "/4 贸易队",
+    "translation": "/4队车队",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Raided ' + this.Math.min(4, this.World.Statistics.getFlags().getAsInt('CaravansRaided')) + '/4 caravans'"
   },

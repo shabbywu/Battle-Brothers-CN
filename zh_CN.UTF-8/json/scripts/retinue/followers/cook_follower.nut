@@ -43,7 +43,7 @@
     "ID": 293419576,
     "key": "/8 different types of provisions",
     "original": "/8 different types of provisions",
-    "translation": "/8 种不同类型的口粮",
+    "translation": "/8种不同类型的口粮",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Have ' + this.Math.min(8, uniqueProvisions) + '/8 different types of provisions'"
   }

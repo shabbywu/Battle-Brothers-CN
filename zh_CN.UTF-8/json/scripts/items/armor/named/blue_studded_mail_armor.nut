@@ -11,7 +11,7 @@
     "ID": 293417703,
     "key": "Ogreskin",
     "original": "Ogreskin",
-    "translation": "食人魔皮",
+    "translation": "食人魔之皮",
     "stage": 1,
     "context": "'Ogreskin'"
   },
@@ -35,7 +35,7 @@
     "ID": 293417706,
     "key": "Padded Mail",
     "original": "Padded Mail",
-    "translation": "镶甲",
+    "translation": "填充链甲",
     "stage": 1,
     "context": "'Padded Mail'"
   },
@@ -43,7 +43,7 @@
     "ID": 293417707,
     "key": "Reinforced Mail",
     "original": "Reinforced Mail",
-    "translation": "强化甲",
+    "translation": "加固链甲",
     "stage": 1,
     "context": "'Reinforced Mail'"
   }

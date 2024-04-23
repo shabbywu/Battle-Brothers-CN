@@ -35,7 +35,7 @@
     "ID": 293417771,
     "key": "Tarnished Harness",
     "original": "Tarnished Harness",
-    "translation": "失去光泽的甲胄",
+    "translation": "哑光甲",
     "stage": 1,
     "context": "'Tarnished Harness'"
   }

@@ -11,24 +11,24 @@
     "ID": 315631955,
     "key": "[6]\"Hunted beasts around \" + World.State.getRegion(Flags.get(\"Region\")).Name",
     "original": "\"Hunted beasts around \" + World.State.getRegion(Flags.get(\"Region\")).Name",
-    "translation": "狩猎%s附近的野兽",
-    "stage": 5,
+    "translation": "猎杀游荡在%s的野兽",
+    "stage": 1,
     "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/big_game_hunt_contract.nut\",\n    \"location\": \"createScreens::getResult[6]\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
   },
   {
     "ID": 315631956,
     "key": "[7]\"Hunted beasts around \" + World.State.getRegion(Flags.get(\"Region\")).Name",
     "original": "\"Hunted beasts around \" + World.State.getRegion(Flags.get(\"Region\")).Name",
-    "translation": "狩猎%s附近的野兽",
-    "stage": 5,
+    "translation": "猎杀游荡在%s的野兽",
+    "stage": 1,
     "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/big_game_hunt_contract.nut\",\n    \"location\": \"createScreens::getResult[7]\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
   },
   {
     "ID": 315631957,
     "key": "[8]\"Hunted beasts around \" + World.State.getRegion(Flags.get(\"Region\")).Name",
     "original": "\"Hunted beasts around \" + World.State.getRegion(Flags.get(\"Region\")).Name",
-    "translation": "狩猎%s附近的野兽",
-    "stage": 5,
+    "translation": "猎杀游荡在%s的野兽",
+    "stage": 1,
     "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/big_game_hunt_contract.nut\",\n    \"location\": \"createScreens::getResult[8]\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
   },
   {

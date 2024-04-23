@@ -11,7 +11,7 @@
     "ID": 293419589,
     "key": "Visited ",
     "original": "Visited ",
-    "translation": "访问了",
+    "translation": "访问",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Visited ' + settlementsVisited + '/' + maxSettlements + ' settlements'"
   },
