@@ -27,7 +27,7 @@
     "ID": 293422120,
     "key": "A missing finger makes it harder to firmly grab a weapon or shield, but it also makes for a good story.",
     "original": "A missing finger makes it harder to firmly grab a weapon or shield, but it also makes for a good story.",
-    "translation": "一根手指的缺失使牢牢地抓住武器或盾牌变得很难，但这也不失为一段美谈。",
+    "translation": "一根手指的缺失使牢牢地抓住武器或盾牌变得很难，但也成了很好的谈资。",
     "stage": 1,
     "context": "this.m.Description = 'A missing finger makes it harder to firmly grab a weapon or shield, but it also makes for a good story.'"
   }
