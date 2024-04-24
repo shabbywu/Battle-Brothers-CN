@@ -339,7 +339,7 @@
     "ID": 293405678,
     "key": "]20%[/color] damage against targets that have sustained any injury effects, like a broken arm.",
     "original": "]20%[/color] damage against targets that have sustained any injury effects, like a broken arm.",
-    "translation": "]20%[/color]的伤害。",
+    "translation": "]20%[/color]。",
     "stage": 1,
     "context": "CoupDeGrace = 'Inflict additional [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] damage against targets that have sustained any injury effects, like a broken arm.'"
   },
@@ -8027,7 +8027,7 @@
     "ID": 293406639,
     "key": "Inflict additional [color=",
     "original": "Inflict additional [color=",
-    "translation": "对已遭受创伤效果（例如手臂骨折）的目标额外造成[color=",
+    "translation": "对已遭受创伤效果（例如手臂骨折）的目标造成的伤害额外提高[color=",
     "stage": 1,
     "context": "CoupDeGrace = 'Inflict additional [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] damage against targets that have sustained any injury effects, like a broken arm.'"
   },
@@ -8099,7 +8099,7 @@
     "ID": 293406648,
     "key": "Fairdale",
     "original": "Fairdale",
-    "translation": "费尔代尔",
+    "translation": "绝景谷",
     "stage": 1,
     "context": "'Fairdale'"
   },

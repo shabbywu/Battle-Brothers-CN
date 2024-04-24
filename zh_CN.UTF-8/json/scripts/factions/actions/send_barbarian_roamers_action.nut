@@ -11,8 +11,8 @@
     "ID": 293417335,
     "key": "A band of barbarians out to hunt game.",
     "original": "A band of barbarians out to hunt game.",
-    "translation": "一群野蛮人外出狩猎。",
-    "stage": 5,
+    "translation": "一群外出打猎的野蛮人。",
+    "stage": 1,
     "context": "party.setDescription('A band of barbarians out to hunt game.')"
   }
 ]

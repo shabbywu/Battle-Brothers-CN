@@ -11,7 +11,7 @@
     "ID": 293407736,
     "key": "\" not found for contract \"",
     "original": "\" not found for contract \"",
-    "translation": "合同没有找到",
+    "translation": "\"合同状态\"",
     "stage": 1,
     "context": "this.logError('State \"' + _id + '\" not found for contract \"' + this.m.Type + '\".')"
   },
@@ -59,7 +59,7 @@
     "ID": 293407742,
     "key": "State \"",
     "original": "State \"",
-    "translation": "国家\"",
+    "translation": "未找到\"",
     "stage": 1,
     "context": "this.logError('State \"' + _id + '\" not found for contract \"' + this.m.Type + '\".')"
   },
@@ -75,8 +75,8 @@
     "ID": 293407744,
     "key": "A band of menacing orcs, greenskinned and towering any man.",
     "original": "A band of menacing orcs, greenskinned and towering any man.",
-    "translation": "一群凶残的兽人，绿皮肤，比任何人都高。",
-    "stage": 5,
+    "translation": "一群凶狠的兽人，绿皮肤，高过所有人。",
+    "stage": 1,
     "context": "party.setDescription('A band of menacing orcs, greenskinned and towering any man.')"
   },
   {
@@ -99,7 +99,7 @@
     "ID": 293407747,
     "key": "A rough and tough band of brigands out to hunt for food.",
     "original": "A rough and tough band of brigands out to hunt for food.",
-    "translation": "一伙为了食物外出狩猎的强壮强盗。",
+    "translation": "一伙外出觅食的粗野强盗。",
     "stage": 1,
     "context": "party.setDescription('A rough and tough band of brigands out to hunt for food.')"
   },
@@ -131,7 +131,7 @@
     "ID": 293407751,
     "key": "A band of mischievous goblins, small but cunning and not to be underestimated.",
     "original": "A band of mischievous goblins, small but cunning and not to be underestimated.",
-    "translation": "一群淘气的地精，小而狡猾，不可低估。",
+    "translation": "一群捣蛋的地精，小而狡猾，不可低估。",
     "stage": 1,
     "context": "party.setDescription('A band of mischievous goblins, small but cunning and not to be underestimated.')"
   },

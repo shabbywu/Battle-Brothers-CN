@@ -315,7 +315,7 @@
     "ID": 293407913,
     "key": "{The %companyname% prevailed! | Victory!}",
     "original": "{The %companyname% prevailed! | Victory!}",
-    "translation": "{%companyname% 获胜了！ | 胜利！}",
+    "translation": "{%companyname%的胜利！ | 胜利！}",
     "stage": 1,
     "context": "Text = '{The %companyname% prevailed! | Victory!}'"
   },
@@ -355,7 +355,7 @@
     "ID": 293407918,
     "key": "Resolved the threat of a self-proclaimed barbarian king",
     "original": "Resolved the threat of a self-proclaimed barbarian king",
-    "translation": "解决了一个自称是野蛮人国王的威胁",
+    "translation": "解除了自封为野蛮人国王的威胁",
     "stage": 1,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationNobleContractSuccess, 'Resolved the threat of a self-proclaimed barbarian king')"
   }
