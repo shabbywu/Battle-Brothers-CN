@@ -187,7 +187,7 @@
     "ID": 293409258,
     "key": "Hunt down the Unholds around ",
     "original": "Hunt down the Unholds around ",
-    "translation": "追捕巨魔，大约在 ",
+    "translation": "猎杀巨魔，大概在 ",
     "stage": 1,
     "context": "'Hunt down the Unholds around ' + this.Contract.m.Home.getName()"
   },

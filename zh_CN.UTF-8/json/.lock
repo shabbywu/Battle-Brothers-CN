@@ -26,14 +26,14 @@
         "total": 16,
         "translated": 16,
         "disputed": 0,
-        "checked": 13,
-        "reviewed": 13,
+        "checked": 11,
+        "reviewed": 11,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-07-02T03:52:37.18Z",
         "updatedAt": "2023-07-05T12:35:50.999Z",
-        "modifiedAt": "2024-04-22T03:02:42Z",
-        "sha256": "c1788d6b0306e91eb10a1ddfc9057a85aae3eff4c55b8acf6bb572be34c5b48f"
+        "modifiedAt": "2024-04-24T01:27:37Z",
+        "sha256": "db0bf2dc9749b43e8803ffaa4fe89ea0a51ec8201e4f7576827663133ca7ebe1"
     },
     "scripts/ai/tactical/behaviors/ai_retreat_always.json": {
         "id": 940735,
@@ -1502,14 +1502,14 @@
         "total": 45,
         "translated": 45,
         "disputed": 0,
-        "checked": 11,
-        "reviewed": 11,
+        "checked": 7,
+        "reviewed": 7,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:49.238Z",
         "updatedAt": "2023-06-26T05:46:37.922Z",
-        "modifiedAt": "2024-04-24T00:43:12Z",
-        "sha256": "b6bc0b604211159d7a0019823a20f81ad36c8d8fa24339f4dab3c5878bdc500f"
+        "modifiedAt": "2024-04-24T02:45:50Z",
+        "sha256": "bbc834d2846c305ce5a4a3c275e6675a56e375949e0a914f89100e6bd3c899ba"
     },
     "scripts/contracts/contracts/big_game_hunt_contract.json": {
         "id": 918430,
@@ -1958,8 +1958,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:01.066Z",
         "updatedAt": "2023-06-26T05:46:46.845Z",
-        "modifiedAt": "2023-06-29T00:51:53Z",
-        "sha256": "e50dd34a005023de3a30f52ce4164a226899d48c58dd44810ca0479ce598b01a"
+        "modifiedAt": "2024-04-24T01:28:08Z",
+        "sha256": "543c505af279674c08dbfdfd292c657c3d41959bc787909d95b6ebc7fd1b7c10"
     },
     "scripts/contracts/contracts/hunting_sand_golems_contract.json": {
         "id": 918455,
@@ -1976,8 +1976,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:01.452Z",
         "updatedAt": "2023-06-26T05:46:47.051Z",
-        "modifiedAt": "2023-06-26T05:46:47Z",
-        "sha256": "c16c058634c9e9c8da8ebb48997757bc72a43863bf12d7e309cbfd8a813a8b8b"
+        "modifiedAt": "2024-04-24T01:28:16Z",
+        "sha256": "e74f6cff390135bbdf44fc7f264b32ebd60f11da2e1cf13a14221c7491659625"
     },
     "scripts/contracts/contracts/hunting_schrats_contract.json": {
         "id": 918456,
@@ -1994,8 +1994,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:01.853Z",
         "updatedAt": "2023-06-30T08:56:15.809Z",
-        "modifiedAt": "2024-04-19T07:04:08Z",
-        "sha256": "2977a989f00ce88755d430e044dc4cce40f4d768040a761f12590b26b40f5a56"
+        "modifiedAt": "2024-04-24T01:28:23Z",
+        "sha256": "bf24abd443e65aad81f599fda496eadbc40137009fab30297a9c1d9eb902f1dc"
     },
     "scripts/contracts/contracts/hunting_serpents_contract.json": {
         "id": 918457,
@@ -2012,8 +2012,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:02.227Z",
         "updatedAt": "2023-06-26T05:46:47.432Z",
-        "modifiedAt": "2023-06-29T00:52:07Z",
-        "sha256": "f2466eec71bc8e1d6c57487b28b208e5cdf1fb15b01ed612ed12306497ec312c"
+        "modifiedAt": "2024-04-24T01:28:51Z",
+        "sha256": "b3789d01f7dd0a536e66e97ccb9c968688e6309e72e9dc8b09c809be02cfb9a5"
     },
     "scripts/contracts/contracts/hunting_unholds_contract.json": {
         "id": 918458,
@@ -2030,8 +2030,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:02.65Z",
         "updatedAt": "2023-07-05T12:35:55.171Z",
-        "modifiedAt": "2023-07-05T15:11:06Z",
-        "sha256": "d6cc4ea1c4e5e1e466b74dfe9fd5588986bc9e2c257e0d011a3760c73c14df0b"
+        "modifiedAt": "2024-04-24T01:28:57Z",
+        "sha256": "6efb54d199c81918481c551bab4dadbacbb403c6b9760d679df90a23c0a836c5"
     },
     "scripts/contracts/contracts/hunting_webknechts_contract.json": {
         "id": 918459,
@@ -2048,8 +2048,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:03.043Z",
         "updatedAt": "2023-06-26T05:46:47.79Z",
-        "modifiedAt": "2024-04-01T01:39:32Z",
-        "sha256": "aae58278b438b147d855358ca27da5cef1dfa477762d6aa76b670a0b60c1cb92"
+        "modifiedAt": "2024-04-24T01:29:08Z",
+        "sha256": "cb503909970e469e97f7f8d1ffbe4d4dae4a58e9fd22a9b3261b9a7124c507ff"
     },
     "scripts/contracts/contracts/intercept_raiding_parties_contract.json": {
         "id": 918460,
@@ -2258,14 +2258,14 @@
         "total": 39,
         "translated": 39,
         "disputed": 0,
-        "checked": 10,
-        "reviewed": 10,
+        "checked": 9,
+        "reviewed": 9,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:10.097Z",
         "updatedAt": "2023-06-30T08:56:16.257Z",
-        "modifiedAt": "2024-04-19T07:04:46Z",
-        "sha256": "07337b1f0bd9b60c8ab4b7ecb5c7b7bb1cf3820fc0bbf7e6aed42b0426f1f98f"
+        "modifiedAt": "2024-04-24T01:27:48Z",
+        "sha256": "704b3eccf4c1900a18891e64bfb1c97f67aac44fb5b657ab929a94ad5f2c6e89"
     },
     "scripts/contracts/contracts/roaming_beasts_desert_contract.json": {
         "id": 918472,
@@ -2276,14 +2276,14 @@
         "total": 32,
         "translated": 32,
         "disputed": 0,
-        "checked": 7,
-        "reviewed": 7,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:10.468Z",
         "updatedAt": "2023-06-26T05:46:52.257Z",
-        "modifiedAt": "2023-07-14T07:09:50Z",
-        "sha256": "a526583f8c43bb1cb815f8456f21c884c5265934adda644c7e8af12b0eb87da8"
+        "modifiedAt": "2024-04-24T01:27:48Z",
+        "sha256": "ffa653454e1c4c7976fc52374469445cf1f6e3524a0e17cee509254698bc8785"
     },
     "scripts/contracts/contracts/root_out_undead_contract.json": {
         "id": 918473,
@@ -2336,8 +2336,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:11.915Z",
         "updatedAt": "2023-06-26T05:46:53.124Z",
-        "modifiedAt": "2023-06-26T05:46:53Z",
-        "sha256": "c29a3db0294465494b1c1af839ac4bb4d92cff50276f2dd14bfea7403f8fc1b6"
+        "modifiedAt": "2024-04-24T01:29:17Z",
+        "sha256": "106e4cd07f30ced422bf68771f36ee46b6ad301b319d27d0fd14737ea2ce4aaf"
     },
     "scripts/contracts/contracts/tutorial_contract.json": {
         "id": 918476,
@@ -8096,8 +8096,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:18.704Z",
         "updatedAt": "2023-06-26T05:47:30.969Z",
-        "modifiedAt": "2024-04-19T07:12:21Z",
-        "sha256": "e2fada266a93017311778333b66e766e53092598f1d0f97bda3e6d4eab412589"
+        "modifiedAt": "2024-04-24T11:00:22Z",
+        "sha256": "b1ce93c27c984ddff23ec2e407509e28f1e43d66d1db3aa4b06e1847fa7ac30e"
     },
     "scripts/events/events/aging_swordmaster_preview_event.json": {
         "id": 918796,
@@ -14702,8 +14702,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:44.647Z",
         "updatedAt": "2023-06-26T05:48:13.878Z",
-        "modifiedAt": "2024-03-28T14:52:29Z",
-        "sha256": "9eda1f3426df638cb8db9bc32d81c45ec779c358772fc864290782c7ab3b014c"
+        "modifiedAt": "2024-04-24T01:27:28Z",
+        "sha256": "8cc387b086f3c0b2072971fd05111ee66735e7655a6c92f4ccb4735176f2d0de"
     },
     "scripts/events/events/scenario/paladins_intro_event.json": {
         "id": 919163,
@@ -37898,14 +37898,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:35.099Z",
         "updatedAt": "2023-06-26T05:49:46.854Z",
-        "modifiedAt": "2024-04-17T02:28:48Z",
-        "sha256": "b0f80038fb7b1910e7400c4592e650c7cdc2f44a4f74dca67621b91c5a9bb487"
+        "modifiedAt": "2024-04-24T12:17:54Z",
+        "sha256": "578190882ec6f4dce8baf254ef00b162d6b4c5a5d87b6ec09a16255da12f1a39"
     },
     "scripts/skills/traits/craven_trait.json": {
         "id": 920452,

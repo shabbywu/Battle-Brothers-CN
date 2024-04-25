@@ -147,7 +147,7 @@
     "ID": 293409167,
     "key": "Hunt down what kills people in the desert around ",
     "original": "Hunt down what kills people in the desert around ",
-    "translation": "追捕沙漠中杀人的东西，大约在 ",
+    "translation": "猎杀沙漠中杀人的东西，大概在 ",
     "stage": 1,
     "context": "'Hunt down what kills people in the desert around ' + this.Contract.m.Home.getName()"
   },
