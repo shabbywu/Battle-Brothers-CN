@@ -3,7 +3,7 @@
     "ID": 293409105,
     "key": "Hunt down the Lindwurms around ",
     "original": "Hunt down the Lindwurms around ",
-    "translation": "追捕林德蠕龙，大约在 ",
+    "translation": "猎杀林德蠕龙，大概在 ",
     "stage": 1,
     "context": "'Hunt down the Lindwurms around ' + this.Contract.m.Home.getName()"
   },

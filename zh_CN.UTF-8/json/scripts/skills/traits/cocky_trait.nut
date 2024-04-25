@@ -3,8 +3,8 @@
     "ID": 293422397,
     "key": "the Braggart",
     "original": "the Braggart",
-    "translation": "吹牛者(the Braggart)",
-    "stage": 5,
+    "translation": "牛皮大王",
+    "stage": 1,
     "context": "'the Braggart'"
   },
   {

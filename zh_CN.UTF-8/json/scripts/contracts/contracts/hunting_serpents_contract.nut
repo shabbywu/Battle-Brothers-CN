@@ -19,7 +19,7 @@
     "ID": 293409207,
     "key": "Hunt down Serpents in the wetlands %direction% of ",
     "original": "Hunt down Serpents in the wetlands %direction% of ",
-    "translation": "追捕湿地里的大蛇在 %direction% 离 ",
+    "translation": "猎杀湿地里的大蛇在%direction%离 ",
     "stage": 1,
     "context": "'Hunt down Serpents in the wetlands %direction% of ' + this.Contract.m.Home.getName()"
   },
@@ -107,7 +107,7 @@
     "ID": 293409218,
     "key": "Hunt down Serpents around ",
     "original": "Hunt down Serpents around ",
-    "translation": "追捕在大蛇，大约在 ",
+    "translation": "猎杀大蛇，大概在 ",
     "stage": 1,
     "context": "'Hunt down Serpents around ' + this.Contract.m.Home.getName()"
   },

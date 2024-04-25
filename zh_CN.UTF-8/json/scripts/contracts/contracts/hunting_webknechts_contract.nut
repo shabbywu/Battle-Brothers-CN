@@ -75,7 +75,7 @@
     "ID": 293409281,
     "key": "Hunt down Webknechts in the woods around ",
     "original": "Hunt down Webknechts in the woods around ",
-    "translation": "追捕树林中的蛛魔，大约在 ",
+    "translation": "猎杀林中蛛魔，大概在 ",
     "stage": 1,
     "context": "'Hunt down Webknechts in the woods around ' + this.Contract.m.Home.getName()"
   },

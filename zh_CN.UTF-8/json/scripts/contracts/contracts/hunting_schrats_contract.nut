@@ -203,7 +203,7 @@
     "ID": 293409200,
     "key": "Hunt down what kills people in the woods around ",
     "original": "Hunt down what kills people in the woods around ",
-    "translation": "追捕树林中杀人的东西，大约在 ",
+    "translation": "猎杀树林中杀人的东西，大概在 ",
     "stage": 1,
     "context": "'Hunt down what kills people in the woods around ' + this.Contract.m.Home.getName()"
   },

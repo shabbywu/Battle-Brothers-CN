@@ -27,7 +27,7 @@
     "ID": 293407877,
     "key": "[img]gfx/ui/events/event_145.png[/img]{The Barbarian King is dead. Though he adorned himself the title of royalty, he lies amongst the dead like any other of his people. A savage. A primitive. With a slightly hardier body and some accoutrements native to ",
     "original": "[img]gfx/ui/events/event_145.png[/img]{The Barbarian King is dead. Though he adorned himself the title of royalty, he lies amongst the dead like any other of his people. A savage. A primitive. With a slightly hardier body and some accoutrements native to his warring and pillaging and ravaging. Little else distinguishes him. You chop into his neck with your sword and put your boot to his face as you cut him clean off the shoulders. %randombrother% 2takes the heavy head and drops it into a knapsack. You order the men to scavenge what they can before preparing a return to %employer%.}",
-    "translation": "[img]gfx/ui/events/event_145.png[/img]{野蛮人国王死了。 虽然他把自己装扮成皇室那样，但他和他的任何一个子民一样躺在死者中间。 野蛮的。原始的。 他的身体适应力很强，装备着一些交战、掠夺和破坏的装备。 他没有什么特别之处。 你用剑砍向他的脖子，用靴子把他的头踢了下来。%randombrother% 将沉重的头部放入小背包。 你命令这些人尽他们所能地清理干净，然后准备回去找 %employer%。}",
+    "translation": "[img]gfx/ui/events/event_145.png[/img]{野蛮人国王死了。虽然他给自己安上了贵族的头衔，他还是和他的同胞死在了一起。野蛮。原始。除了身体更壮实，和一些靠战争、掠夺和暴力得来的装备以外，他也没有什么特别之处。你用剑砍向他的脖子，用靴子把他的头踢了下来。%randombrother%将沉重的头装进小包里。你命令你的人好好打扫战场，准备向%employer%复命。}",
     "stage": 1,
     "context": "Text = '[img]gfx/ui/events/event_145.png[/img]{The Barbarian King is dead. Though he adorned himself the title of royalty, he lies amongst the dead like any other of his people. A savage. A primitive. With a slightly hardier body and some accoutrements native to his warring and pillaging and ravaging. Little else distinguishes him. You chop into his neck with your sword and put your boot to his face as you cut him clean off the shoulders. %randombrother% 2takes the heavy head and drops it into a knapsack. You order the men to scavenge what they can before preparing a return to %employer%.}'"
   },
@@ -35,7 +35,7 @@
     "ID": 293407878,
     "key": "[img]gfx/ui/events/event_31.png[/img]{%employer% welcomes you reluctantly.%SPEECH_ON%You realize I have scouts and spies everywhere, don't you?%SPEECH_OFF%Holding up your empty hands, you tell him you had no intent on lying. The 'barbarian king' will both",
     "original": "[img]gfx/ui/events/event_31.png[/img]{%employer% welcomes you reluctantly.%SPEECH_ON%You realize I have scouts and spies everywhere, don't you?%SPEECH_OFF%Holding up your empty hands, you tell him you had no intent on lying. The 'barbarian king' will bother the lands no more. Your employer taps his fingers together a few times then nods.%SPEECH_ON%Your honesty is refreshing, though I must say it is quite unfortunate the man and his warband still live. That said, all reports suggest they are moving away so I suppose your work is done all the same, a fat pagan head or not. Your pay, as agreed upon.%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_31.png[/img]{%employer% 不情愿地欢迎你。%SPEECH_ON%你知道我到处都有侦察员和密探，不是吗？%SPEECH_OFF%好的。 “野蛮人国王”不会再打扰土地了。 你的雇主用手指敲了几下然后点头。%SPEECH_ON%你的诚实令人耳目一新，尽管我不得不说那人和他的战团还活着是很不幸的。 也就是说，所有的汇报都表明他们要离开了，所以我想你的工作还是一样的，不管你是不是一个肥胖的无信仰之人。这是你约定的报酬。%SPEECH_OFF%}",
+    "translation": "[img]gfx/ui/events/event_31.png[/img]{%employer%不情愿地欢迎你。%SPEECH_ON%你知道我的眼线遍布各地，对吧？%SPEECH_OFF%你举起你的手，告诉他你无意撒谎。所谓的“野蛮人国王”不会再袭扰这片土地了。你的雇主用手指轻敲了几下桌子，点了下头。%SPEECH_ON%你的诚实令人耳目一新，但我不得不说，如果他和他的战团还活着，那可算不得什么好事。不过，所有的线报都表明，他们走了，所以我想你的工作还是完成了，不管你是不是脑满肠肥的异教徒。给你报酬，和约好的一样。%SPEECH_OFF%}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_31.png[/img]{%employer% welcomes you reluctantly.%SPEECH_ON%You realize I have scouts and spies everywhere, don't you?%SPEECH_OFF%Holding up your empty hands, you tell him you had no intent on lying. The 'barbarian king' will bother the lands no more. Your employer taps his fingers together a few times then nods.%SPEECH_ON%Your honesty is refreshing, though I must say it is quite unfortunate the man and his warband still live. That said, all reports suggest they are moving away so I suppose your work is done all the same, a fat pagan head or not. Your pay, as agreed upon.%SPEECH_OFF%}\""
   },
@@ -43,7 +43,7 @@
     "ID": 293407879,
     "key": "{How many crowns are we talking about here? | That's no small feat to ask. | I could be persuaded for the right price. | A task like this better pay well.}",
     "original": "{How many crowns are we talking about here? | That's no small feat to ask. | I could be persuaded for the right price. | A task like this better pay well.}",
-    "translation": "{我们来谈谈多少克朗？ | 这可不是一件小事。 | 我需要更合适的价格。 | 像这样的工作需要更高的报酬。}",
+    "translation": "{我们谈的是多大的生意？ | 这可不是件小事。 | 只要价格合适。 | 这恐怕要多花点。}",
     "stage": 1,
     "context": "Text = \"{How many crowns are we talking about here? | That's no small feat to ask. | I could be persuaded for the right price. | A task like this better pay well.}\""
   },
@@ -51,7 +51,7 @@
     "ID": 293407880,
     "key": "We'll attack them and rid the north of this so-called king.",
     "original": "We'll attack them and rid the north of this so-called king.",
-    "translation": "我们会攻击他们并消灭这个所谓的北方国王。",
+    "translation": "我们会正面进攻，消灭这个所谓的北方国王。",
     "stage": 1,
     "context": "Text = \"We'll attack them and rid the north of this so-called king.\""
   },
@@ -59,7 +59,7 @@
     "ID": 293407881,
     "key": "[img]gfx/ui/events/event_45.png[/img]{There's no doubt now. With all the signs you've encountered, and all the reports that people have given you, you finally know exactly where the Barbarian King and his warhost is headed. The only thing left is to confr",
     "original": "[img]gfx/ui/events/event_45.png[/img]{There's no doubt now. With all the signs you've encountered, and all the reports that people have given you, you finally know exactly where the Barbarian King and his warhost is headed. The only thing left is to confront him.}",
-    "translation": "[img]gfx/ui/events/event_45.png[/img]{现在毫无疑问。 你所遇到的种种迹象，以及人们给你的所有消息，你终于确切地知道了野蛮人国王和他的作战人员的去向。 唯一剩下的就是和他对质。}",
+    "translation": "[img]gfx/ui/events/event_45.png[/img]{毫无疑问，有了你所遇到的种种迹象，以及人们给你的那些消息，你终于确切地掌握了野蛮人国王和他战团的动向。只差和他当面对质。}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_45.png[/img]{There's no doubt now. With all the signs you've encountered, and all the reports that people have given you, you finally know exactly where the Barbarian King and his warhost is headed. The only thing left is to confront him.}\""
   },
@@ -67,7 +67,7 @@
     "ID": 293407882,
     "key": "The Untoward",
     "original": "The Untoward",
-    "translation": "亡者",
+    "translation": "不往生者",
     "stage": 1,
     "context": "this.World.FactionManager.getFaction(nearest_undead.getFaction()).spawnEntity(tile, 'The Untoward', False, this.Const.World.Spawn.UndeadArmy, 260 * this.Contract.getDifficultyMult() * this.Contract.getScaledDifficultyMult())"
   },
@@ -131,8 +131,8 @@
     "ID": 293407890,
     "key": "Hunt down the Barbarian King and his warhost",
     "original": "Hunt down the Barbarian King and his warhost",
-    "translation": "追捕野蛮人国王和他的战团",
-    "stage": 5,
+    "translation": "猎杀野蛮人国王和他的战团",
+    "stage": 1,
     "context": "'Hunt down the Barbarian King and his warhost'"
   },
   {
@@ -147,7 +147,7 @@
     "ID": 293407892,
     "key": "A mighty warhost of barbarian tribes, united by a self-proclaimed barbarian king.",
     "original": "A mighty warhost of barbarian tribes, united by a self-proclaimed barbarian king.",
-    "translation": "一个强大的野蛮部落的战斗部，由自称为野蛮人国王的人联合起来。",
+    "translation": "一个强大的野蛮部落战团，集结在野蛮人国王旗下。",
     "stage": 1,
     "context": "party.setDescription('A mighty warhost of barbarian tribes, united by a self-proclaimed barbarian king.')"
   },
@@ -171,7 +171,7 @@
     "ID": 293407895,
     "key": "[img]gfx/ui/events/event_136.png[/img]{You spit and nod toward the elder.%SPEECH_ON%We walked past burned homes, raped women, and slain men just to find your sorry lot, and now you want to band together? We ain't allies. We ain't friends. Tell your so-cal",
     "original": "[img]gfx/ui/events/event_136.png[/img]{You spit and nod toward the elder.%SPEECH_ON%We walked past burned homes, raped women, and slain men just to find your sorry lot, and now you want to band together? We ain't allies. We ain't friends. Tell your so-called 'King' to pray to whatever shit gods you...%SPEECH_OFF%The elder holds his hand up and talks with the king in their native tongue. The two men nod, turn, and leave. %randombrother% laughs.%SPEECH_ON%Brevity is the soul of scorn, captain.%SPEECH_OFF%You tell the man to get back to the battle line and prepare for the fight ahead.}",
-    "translation": "[img]gfx/ui/events/event_136.png[/img]{你朝长老点头吐口水。%SPEECH_ON%我们走过被烧的房子，强奸的女人，和被杀的男人，只是为了找到你的遗憾，现在你想联合起来吗？ 我们不是盟友。我们不是朋友。 告诉你所谓的“国王”向你的诸神祈祷…%SPEECH_OFF%长老举起手来，用他们的方言与王说话。 两个人点头，转身离开。%randombrother% 笑了笑。%SPEECH_ON%简洁是轻蔑的灵魂，队长。%SPEECH_OFF%你告诉那个人回到战场上，为预先的战斗做准备。}",
+    "translation": "[img]gfx/ui/events/event_136.png[/img]{你朝长老吐了口口水，点了点头。%SPEECH_ON%我们走过被烧的房子，被强奸的妇女，和被杀害的男人，只为了找到你们这些可怜虫，现在你想联合起来？我们不是盟友。我们不是朋友。告诉你所谓的“国王”，向你的破神祈祷去吧…%SPEECH_OFF%长老举起手来，用他们的语言与王对话。 两个人点头，转身离开。%randombrother%笑了笑。%SPEECH_ON%队长，简短有力才是骂人的精髓。%SPEECH_OFF%你让他回到战线里，为接下来的战斗做好准备。}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_136.png[/img]{You spit and nod toward the elder.%SPEECH_ON%We walked past burned homes, raped women, and slain men just to find your sorry lot, and now you want to band together? We ain't allies. We ain't friends. Tell your so-called 'King' to pray to whatever shit gods you...%SPEECH_OFF%The elder holds his hand up and talks with the king in their native tongue. The two men nod, turn, and leave. %randombrother% laughs.%SPEECH_ON%Brevity is the soul of scorn, captain.%SPEECH_OFF%You tell the man to get back to the battle line and prepare for the fight ahead.}\""
   },
@@ -179,7 +179,7 @@
     "ID": 293407896,
     "key": "[img]gfx/ui/events/event_136.png[/img]{You find the Barbarian King, but a parlay is made. The Barbarian King and an elder step across the field to meet you personally. Against better judgment, you go out to see them. The Barbarian King speaks and the elde",
     "original": "[img]gfx/ui/events/event_136.png[/img]{You find the Barbarian King, but a parlay is made. The Barbarian King and an elder step across the field to meet you personally. Against better judgment, you go out to see them. The Barbarian King speaks and the elder translates.%SPEECH_ON%We are not here to conquer, but to defeat the Great Untoward.%SPEECH_OFF%Suspecting a loss of translation, you ask them to explain. The King and elder continue.%SPEECH_ON%Death has left this land, and in its absence a man slain becomes lost between worlds and will rise again. A horde of Untoward, the Undead, are on the march. We are not here for you or your nobles. If you help us destroy them we will depart the land and trouble your people no more. Only the Untoward.%SPEECH_OFF%%randombrother% leans in and whispers.%SPEECH_ON%We could join them, sure, but we could also just go ahead and attack them now. They're clearly not at full strength and whatever they say here the fact is they've been ravaging the lands anyway, because they're primitive savages, sir, and raping and pillaging is just what they got in their blood.%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_136.png[/img]{你发现了野蛮人国王，但却是赌出来的。 野蛮人国王和一位长者跨过田野亲自迎接你。 你出去看他们，进行交涉。 野蛮人国王说话，长老翻译。%SPEECH_ON%我们来这里不是为了征服，而是为了打败数量巨大的亡者。%SPEECH_OFF%你怀疑翻译有误，请他们解释。 国王和长老继续道。%SPEECH_ON%死亡离开了这片土地，如果没有死亡，一个被杀的人将迷失在世界之间，并将再次崛起。 一大群亡者，这些亡灵正在行军。 我们不是为你或你的贵族而来。 你若帮助我们除灭他们，我们就离开此地，不再搅扰你的百姓。只是这些亡者。%SPEECH_OFF%%randombrother% 倾身低语。%SPEECH_ON%我们当然可以加入他们，但我们也可以现在就攻击他们。 他们显然没有全力以赴，不管他们在这里说什么，事实是他们一直在蹂躏土地，因为他们是原始的野蛮人，先生，强暴和掠夺正是他们的血液。%SPEECH_OFF%}",
+    "translation": "[img]gfx/ui/events/event_136.png[/img]{你找到了野蛮人国王，却开始了交涉。野蛮人国王和一位长者亲自跨过田野来见你。虽然有悖常识，你还是走出去见他们。野蛮人国王说话，长老翻译。%SPEECH_ON%我们来这里不是为了征服，而是为了打败数量巨大的“不往生者”。%SPEECH_OFF%你怀疑翻译有误，请他们解释。国王和长老继续道。%SPEECH_ON%死神离开了这片土地，没有了他的引导，被杀的人将迷失在此界和彼界之间，再次复活。一大群不往生者，不死者，正在行军。我们并非是为你或你的贵族而来。你若帮助我们除灭他们，我们就离开此地，不再搅扰你的百姓。只是对付这些不往生者。%SPEECH_OFF%%randombrother%倾身低语。%SPEECH_ON%我们当然可以加入他们，但我们也可以现在就攻击他们。他们显然疏于应战，不管说了什么，他们肯定是想在这片土地上作乱，因为他们是原始的野蛮人，长官，奸淫掳掠是他们的天性。%SPEECH_OFF%}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_136.png[/img]{You find the Barbarian King, but a parlay is made. The Barbarian King and an elder step across the field to meet you personally. Against better judgment, you go out to see them. The Barbarian King speaks and the elder translates.%SPEECH_ON%We are not here to conquer, but to defeat the Great Untoward.%SPEECH_OFF%Suspecting a loss of translation, you ask them to explain. The King and elder continue.%SPEECH_ON%Death has left this land, and in its absence a man slain becomes lost between worlds and will rise again. A horde of Untoward, the Undead, are on the march. We are not here for you or your nobles. If you help us destroy them we will depart the land and trouble your people no more. Only the Untoward.%SPEECH_OFF%%randombrother% leans in and whispers.%SPEECH_ON%We could join them, sure, but we could also just go ahead and attack them now. They're clearly not at full strength and whatever they say here the fact is they've been ravaging the lands anyway, because they're primitive savages, sir, and raping and pillaging is just what they got in their blood.%SPEECH_OFF%}\""
   },
@@ -187,7 +187,7 @@
     "ID": 293407897,
     "key": "We will join with them to march against the Untoward.",
     "original": "We will join with them to march against the Untoward.",
-    "translation": "我们会和他们一起向亡者进军。",
+    "translation": "我们和他们一起向“不往生者”进军。",
     "stage": 1,
     "context": "Text = 'We will join with them to march against the Untoward.'"
   },
@@ -203,8 +203,8 @@
     "ID": 293407899,
     "key": "You gain [color=",
     "original": "You gain [color=",
-    "translation": "你获得了 [color=",
-    "stage": 5,
+    "translation": "你获得了[color=",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + money + '[/color] Crowns'"
   },
   {
@@ -219,7 +219,7 @@
     "ID": 293407901,
     "key": "We're on his trail.",
     "original": "We're on his trail.",
-    "translation": "我们在追踪他。",
+    "translation": "我们跟上。",
     "stage": 1,
     "context": "Text = \"We're on his trail.\""
   },
@@ -227,7 +227,7 @@
     "ID": 293407902,
     "key": "Killed a self-proclaimed barbarian king",
     "original": "Killed a self-proclaimed barbarian king",
-    "translation": "杀了一个自称的野蛮人国王",
+    "translation": "杀死自封的野蛮人国王",
     "stage": 1,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationNobleContractSuccess, 'Killed a self-proclaimed barbarian king')"
   },
@@ -235,16 +235,16 @@
     "ID": 293407903,
     "key": "His warhost was last spotted around %region%, %terrain% %direction% from you, near %nearest_town%",
     "original": "His warhost was last spotted around %region%, %terrain% %direction% from you, near %nearest_town%",
-    "translation": "他的战团最后在%region%附近被发现，在你%direction%边的%terrain%，靠近%nearest_town%",
-    "stage": 5,
+    "translation": "他的战团最后现身在%region%附近，位于你%direction%边的%terrain%上，靠近%nearest_town%",
+    "stage": 1,
     "context": "'His warhost was last spotted around %region%, %terrain% %direction% from you, near %nearest_town%'"
   },
   {
     "ID": 293407904,
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
-    "translation": "[/color] 克朗",
-    "stage": 5,
+    "translation": "[/color]克朗",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + money + '[/color] Crowns'"
   },
   {
@@ -267,7 +267,7 @@
     "ID": 293407907,
     "key": "[img]gfx/ui/events/event_135.png[/img]{The Barbarian King comes to the field with his warhost, a party of oversized miscreants, growling warriors, sheepish slaves, and howling women. It is the army of a man who has collected from the land every scrap of r",
     "original": "[img]gfx/ui/events/event_135.png[/img]{The Barbarian King comes to the field with his warhost, a party of oversized miscreants, growling warriors, sheepish slaves, and howling women. It is the army of a man who has collected from the land every scrap of resource, every inch of advantage, and will surely collect civilization itself as surely as a simple snowball may become the avalanche. You prepare the men for battle. | The Barbarian King's warband trundles across the land with no hint of training or even semblance of formation. But you know that with the mere wave of the savage's hand he may set upon his enemies a horde of killers who have more than ample supply of carnage to overcome any lack of cohesion. You prepare the men for battle. | The warband of savages is like that of a fever dream, taking shape across the horizon like travelers from every corner of the earth, dressed not in any uniform or armor, but in mockeries of those they have conquered. Warriors with wedding dresses wrapped about their arms, long coats of royal color adorned upon men of no status, some wearing ribs and clattering bones as though they got the last of the pillaging. They were but farmers of horror, villages their crop, and war but a harvest for all seasons.\n\nYou shake your head at the sight and prepare the men for battle.}",
-    "translation": "[img]gfx/ui/events/event_135.png[/img]{野蛮人国王带着他的作战人员来到战场，一群体型硕大的恶棍、咆哮的战士、窘迫的奴隶和嚎叫的女人。 这是一支由一个人组织起来的军队，他从这片土地上收集了每一点资源，每一寸优势，并且还汇集了文明社会的东西，就像一个简单的雪球可能变成雪崩一样。 你让士兵们准备战斗。 | 野蛮人国王的战团在陆地上穿梭，丝毫没有训练的痕迹，甚至连队形都没有。 但你知道，只要野人挥挥手，他就可以向他的敌人发动杀人犯式的群攻，他们有足够的屠杀来克服任何缺乏凝聚力的情况。 你让士兵们准备战斗。 | 野蛮人的军队就像是狂热的精神恍惚的那样，在地平线上成形，就像来自大陆角落的旅行者，不穿任何制服或盔甲，而嘲笑他们征服的那些人。 战士们的胳膊上裹着婚纱，没有地位的人身上装饰着皇家色彩的长外套，有些人穿着肋骨，骨头咔嚓咔嚓作响，好像是再一次的抢劫。 他们不过是恐怖的农夫，村庄是他们的庄稼，战争是他们收获的季节。\n\n你一看见就摇了摇头，让士兵们准备战斗。}",
+    "translation": "[img]gfx/ui/events/event_135.png[/img]{野蛮人国王带着他的战团来到战场，这支队伍由一群体型硕大的恶棍、咆哮的战士、怯懦的奴隶和嚎叫的女人组成。这支军队从这片土地上攫取了一切资源，一切可以利用的东西，像雪球会演变成雪崩一样，也必将攫取文明本身。你让士兵们做好战斗准备。 | 野蛮人国王的战团在陆地上涌动，丝毫没有受训的影子，甚至没有像样的队形。但你知道，只消那野人一挥手，他就可以向他的敌人派出一群杀手，一群杀戮能力足以弥补缺乏的凝聚力的杀手。 你让士兵们做好战斗准备。 | 野蛮人的战团像是高烧时的梦境里会出现的东西，来自大陆各个角落的旅行者在地平线上现身，他们不穿任何制服或盔甲，而是穿着征服的那些人的衣服。 战士们的胳膊上裹着婚纱，没有地位的人身上披着皇家色彩的长衣，有些人穿着肋骨，走起来喀哒作响，看来是最后一批抢掠的人。 他们不过是恐怖的农夫，村庄是他们的庄稼，战争不过是不分季节的收获。\n\n看到这一幕，你摇了摇头，让士兵们做好战斗准备。}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_135.png[/img]{The Barbarian King comes to the field with his warhost, a party of oversized miscreants, growling warriors, sheepish slaves, and howling women. It is the army of a man who has collected from the land every scrap of resource, every inch of advantage, and will surely collect civilization itself as surely as a simple snowball may become the avalanche. You prepare the men for battle. | The Barbarian King's warband trundles across the land with no hint of training or even semblance of formation. But you know that with the mere wave of the savage's hand he may set upon his enemies a horde of killers who have more than ample supply of carnage to overcome any lack of cohesion. You prepare the men for battle. | The warband of savages is like that of a fever dream, taking shape across the horizon like travelers from every corner of the earth, dressed not in any uniform or armor, but in mockeries of those they have conquered. Warriors with wedding dresses wrapped about their arms, long coats of royal color adorned upon men of no status, some wearing ribs and clattering bones as though they got the last of the pillaging. They were but farmers of horror, villages their crop, and war but a harvest for all seasons.\n\nYou shake your head at the sight and prepare the men for battle.}\""
   },
@@ -275,7 +275,7 @@
     "ID": 293407908,
     "key": "{We're not about to engage an army. | That's not the kind of work we're looking for. | I won't risk the company against an enemy such as this.}",
     "original": "{We're not about to engage an army. | That's not the kind of work we're looking for. | I won't risk the company against an enemy such as this.}",
-    "translation": "{我们不打算受聘于军队。 | 那不是我们要找的工作。 | 我不会让战团冒险对付这样的敌人。}",
+    "translation": "{我们不打算对付一整支军队。 | 那不是我们要找的工作。 | 我不会冒险让战团对付这样的敌人。}",
     "stage": 1,
     "context": "Text = \"{We're not about to engage an army. | That's not the kind of work we're looking for. | I won't risk the company against an enemy such as this.}\""
   },
@@ -299,7 +299,7 @@
     "ID": 293407911,
     "key": "[img]gfx/ui/events/event_136.png[/img]{You nod toward the elder.%SPEECH_ON%Alright, we'll work with you to see to this greater threat.%SPEECH_OFF%The elder smiles and rubs his thumbs together and speaks a few phrases in his native tongue. The Barbarian Ki",
     "original": "[img]gfx/ui/events/event_136.png[/img]{You nod toward the elder.%SPEECH_ON%Alright, we'll work with you to see to this greater threat.%SPEECH_OFF%The elder smiles and rubs his thumbs together and speaks a few phrases in his native tongue. The Barbarian King slams his chest with his fist and then slugs you in the shoulder with it, before arcing the hand across the sky. Laughing, the elder explains.%SPEECH_ON%So we fight together, but if we shall fall, he will not fight with you as an undead. If slain, the King shall find Death himself and bring his scythe upon his own neck.%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_136.png[/img]{你向长老点头。%SPEECH_ON%好吧，我们会和你一起努力对付这个更大的威胁。%SPEECH_OFF%长老微笑着，搓着大拇指，用母语说了几句话。 野蛮人国王用拳头猛击他的胸部，然后用拳头猛击你的肩膀，然后用手划过天空。 长老笑着解释道。%SPEECH_ON%所以我们一起战斗，但如果我们倒下，他就不会像亡灵一样与你战斗。 如果被杀，国王会发现自己已经死了，把镰刀放在自己的脖子上。%SPEECH_OFF%}",
+    "translation": "[img]gfx/ui/events/event_136.png[/img]{你向长老点头。%SPEECH_ON%好吧，我们会和你一起对付这个更大的威胁。%SPEECH_OFF%长老微笑着，拇指搓在一起，说了几句他们的话。 野蛮人国王用拳头拍了拍自己的胸部，又敲了敲你的肩膀，用手划过天空。长老笑着解释道。%SPEECH_ON%那我们就一起战斗，如果我们倒下，不必担心他变成不死者对付你。被杀了的话，国王会自己找到死神，把他的镰刀放在自己的脖子上。%SPEECH_OFF%}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_136.png[/img]{You nod toward the elder.%SPEECH_ON%Alright, we'll work with you to see to this greater threat.%SPEECH_OFF%The elder smiles and rubs his thumbs together and speaks a few phrases in his native tongue. The Barbarian King slams his chest with his fist and then slugs you in the shoulder with it, before arcing the hand across the sky. Laughing, the elder explains.%SPEECH_ON%So we fight together, but if we shall fall, he will not fight with you as an undead. If slain, the King shall find Death himself and bring his scythe upon his own neck.%SPEECH_OFF%}\""
   },
@@ -323,7 +323,7 @@
     "ID": 293407914,
     "key": "He was last reported to be in the region of %region%, %direction% from you",
     "original": "He was last reported to be in the region of %region%, %direction% from you",
-    "translation": "据最新报告，他最后一次出没在%region%地区，在你的%direction%边",
+    "translation": "据最新报告，他最后一次出没在%region%地区，在你%direction%边",
     "stage": 1,
     "context": "'He was last reported to be in the region of %region%, %direction% from you'"
   },
@@ -331,7 +331,7 @@
     "ID": 293407915,
     "key": "[img]gfx/ui/events/event_73.png[/img]{The savages were not lying: the ancients have put forth an army. It is a warband of decayed faces and rusted armor, a host of groaning, moaning monsters upon which light falls and instantly seeps away. It is surely an",
     "original": "[img]gfx/ui/events/event_73.png[/img]{The savages were not lying: the ancients have put forth an army. It is a warband of decayed faces and rusted armor, a host of groaning, moaning monsters upon which light falls and instantly seeps away. It is surely an army of darkness. Were you or the barbarians to fight it alone you would surely lose, but together you may have a chance yet!}",
-    "translation": "[img]gfx/ui/events/event_73.png[/img]{野蛮人没有说谎：长老已经派出了一支军队。 它是一支由腐烂的面孔和生锈的盔甲组成的军队，是一大群叹息着、呻吟的怪物，光落在它们身上，立刻就消失了。 这无疑是一支黑暗的军队。 如果你或是野蛮人单独战斗，你肯定会输，但在一起你可能还有机会！}",
+    "translation": "[img]gfx/ui/events/event_73.png[/img]{野蛮人没有说谎：一支古代军队已经被派来了。 他们有着腐朽的面孔和生锈的盔甲，是一大群叹息着、呻吟的怪物，光落在它们身上，也会立即消失。这无疑是一支黑暗的军队。如果是你或野蛮人单独应战，都必败无疑，但团结起来，你们还有一线生机！}",
     "stage": 1,
     "context": "Text = '[img]gfx/ui/events/event_73.png[/img]{The savages were not lying: the ancients have put forth an army. It is a warband of decayed faces and rusted armor, a host of groaning, moaning monsters upon which light falls and instantly seeps away. It is surely an army of darkness. Were you or the barbarians to fight it alone you would surely lose, but together you may have a chance yet!}'"
   },
@@ -347,7 +347,7 @@
     "ID": 293407917,
     "key": "[img]gfx/ui/events/event_136.png[/img]{The ancient dead have been slain to the last. As your men and the primitives pick the field, the Barbarian King and the elder come to you. The large warrior nods and grunts, and the elder translates.%SPEECH_ON%He say",
     "original": "[img]gfx/ui/events/event_136.png[/img]{The ancient dead have been slain to the last. As your men and the primitives pick the field, the Barbarian King and the elder come to you. The large warrior nods and grunts, and the elder translates.%SPEECH_ON%He says you did well, very well, and that he wishes men such as yourself and your company would fight alongside him, but he understand that cannot happen. We live in a maze of many worlds and in that maze we all shall stay, lost, sometimes hearing one another's shouts, never having enough time to know each other. He says thanks. And he wishes you well.%SPEECH_OFF%You turn to the elder and ask if he got all that from a simple grunt. The elder smiles.%SPEECH_ON%A grunt, aye, and a lifelong friendship. Travel well, man of the sword.%SPEECH_OFF%The elder hands you a horned helmet, the very one you'd seen the Barbarian King himself wearing at times. He says nothing, only hits his chest and points to the sky and that's all there is.}",
-    "translation": "[img]gfx/ui/events/event_136.png[/img]{古代的死者最终被杀。 当你的人和原始人在田野里挑选时，野蛮人国王和长老来到你身边。 这位大块头勇士点头咕哝，长老翻译。%SPEECH_ON%他说你做得很好，非常好，他希望像你自己和你的战团这样的人能和他并肩作战，但他明白这是不可能的。 我们生活在一个由许多世界组成的迷宫里，在这个迷宫里，我们都会留下来，迷失，有时会听到彼此的喊叫，永远没有足够的时间互相了解。 他说谢谢。他祝你好运。%SPEECH_OFF%你问向长老，问他是不是从一个简单的咕噜声中得到了这些。长老笑了。%SPEECH_ON%咕噜声，是的，还有一生的友谊。 祝你好运，持剑的人。%SPEECH_OFF%长老递给你一顶角盔，就是你见过野蛮人国王自己有时戴的那顶。 他什么也没说，只拍了拍胸口，指着天空，就这样。}",
+    "translation": "[img]gfx/ui/events/event_136.png[/img]{古代的死者最终被打败。你的人和野蛮人打扫战场的时候，野蛮人国王和长老来到你身边。这位大块头勇士点头咕哝，长老翻译。%SPEECH_ON%他说你做得很好，非常好，他希望像你和你的战团这样的人能和他并肩作战，但他明白这是不可能的。我们生活在一个由许多世界组成的迷宫里，在这个迷宫里，我们都会驻足，迷失，有时会听到彼此的喊叫，却永远没有足够的时间互相了解。他说谢谢。他祝你好运。%SPEECH_OFF%你问长老，一声咕哝就能表达这么多意思吗。长老笑了。%SPEECH_ON%一声咕哝，没错，还有一生的友谊。 祝你好运，剑客。%SPEECH_OFF%长老递给你一顶角盔，正是野蛮人国王戴着的那顶。他什么也没说，只是拍了拍胸口，把手指指着天空。}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_136.png[/img]{The ancient dead have been slain to the last. As your men and the primitives pick the field, the Barbarian King and the elder come to you. The large warrior nods and grunts, and the elder translates.%SPEECH_ON%He says you did well, very well, and that he wishes men such as yourself and your company would fight alongside him, but he understand that cannot happen. We live in a maze of many worlds and in that maze we all shall stay, lost, sometimes hearing one another's shouts, never having enough time to know each other. He says thanks. And he wishes you well.%SPEECH_OFF%You turn to the elder and ask if he got all that from a simple grunt. The elder smiles.%SPEECH_ON%A grunt, aye, and a lifelong friendship. Travel well, man of the sword.%SPEECH_OFF%The elder hands you a horned helmet, the very one you'd seen the Barbarian King himself wearing at times. He says nothing, only hits his chest and points to the sky and that's all there is.}\""
   },

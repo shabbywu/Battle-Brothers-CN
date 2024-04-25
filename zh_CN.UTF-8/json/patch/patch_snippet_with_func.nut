@@ -75,16 +75,16 @@
     "ID": 319273161,
     "key": "\"Hunt down what terrorizes \" + this.Contract.m.Home.getName()",
     "original": "\"Hunt down what terrorizes \" + this.Contract.m.Home.getName()",
-    "translation": "追捕威胁%s的事物",
-    "stage": 5,
+    "translation": "猎杀威胁%s的事物",
+    "stage": 1,
     "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/roaming_beasts_contract.nut\",\n    \"location\": \"createStates::start\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
   },
   {
     "ID": 319273164,
     "key": "[1]\"Hunt down what terrorizes \" + this.Contract.m.Home.getName()",
     "original": "\"Hunt down what terrorizes \" + this.Contract.m.Home.getName()",
-    "translation": "追捕威胁%s的事物",
-    "stage": 5,
+    "translation": "猎杀威胁%s的事物",
+    "stage": 1,
     "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/roaming_beasts_desert_contract.nut\",\n    \"location\": \"createStates::start\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
   },
   {
