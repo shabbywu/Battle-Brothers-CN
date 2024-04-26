@@ -3371,7 +3371,7 @@
     "ID": 293405290,
     "key": "Spitter",
     "original": "Spitter",
-    "translation": "吐痰器",
+    "translation": "喷吐者",
     "stage": 1,
     "context": "'Spitter'"
   },

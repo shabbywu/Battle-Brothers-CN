@@ -2067,7 +2067,7 @@
     "ID": 293405894,
     "key": "Smooth stone ground granting a good footing.",
     "original": "Smooth stone ground granting a good footing.",
-    "translation": "光滑的石头地面提供了良好的立足点。",
+    "translation": "平整的石头地面提供了良好的立足点。",
     "stage": 1,
     "context": "'Smooth stone ground granting a good footing.'"
   },

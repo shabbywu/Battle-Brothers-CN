@@ -3,7 +3,7 @@
     "ID": 293410278,
     "key": "[/b] damage and suffers ",
     "original": "[/b] damage and suffers ",
-    "translation": "[/b] 伤害并遭受",
+    "translation": "[/b]点伤害并遭受",
     "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(this) + \"'s \" + this.Const.Strings.BodyPartName[_hitInfo.BodyPart] + ' is hit for [b]' + this.Math.floor(damage) + '[/b] damage and suffers ' + injury.getNameOnly() + '!')"
   },
@@ -11,7 +11,7 @@
     "ID": 293410279,
     "key": "[/b] damage",
     "original": "[/b] damage",
-    "translation": "[/b] 伤害",
+    "translation": "[/b]点伤害",
     "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(this) + \"'s \" + this.Const.Strings.BodyPartName[_hitInfo.BodyPart] + ' is hit for [b]' + this.Math.floor(damage) + '[/b] damage')"
   },
@@ -51,7 +51,7 @@
     "ID": 293410284,
     "key": "'s natural armor is hit for [b]",
     "original": "'s natural armor is hit for [b]",
-    "translation": "的天然护甲被击中，造成了 [b]",
+    "translation": "的天然护甲被击中，受到[b]",
     "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(this) + \"'s natural armor is hit for [b]\" + this.Math.floor(_hitInfo.DamageArmor) + '[/b] damage')"
   }
