@@ -27,8 +27,8 @@
     "ID": 293418099,
     "key": "[/b] damage",
     "original": "[/b] damage",
-    "translation": "[/b] 伤害",
-    "stage": 5,
+    "translation": "[/b]点伤害",
+    "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + \"'s \" + this.getName() + ' is hit for [b]' + this.Math.floor(_damage) + '[/b] damage')"
   },
   {
@@ -43,8 +43,8 @@
     "ID": 293418101,
     "key": "[/b] damage and has been destroyed!",
     "original": "[/b] damage and has been destroyed!",
-    "translation": "[/b] 伤害并被摧毁了！",
-    "stage": 5,
+    "translation": "[/b]点伤害并被摧毁！",
+    "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + \"'s \" + this.getName() + ' is hit for [b]' + this.Math.floor(_damage) + '[/b] damage and has been destroyed!')"
   }
 ]

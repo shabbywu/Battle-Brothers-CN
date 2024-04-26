@@ -35,8 +35,8 @@
     "ID": 293410236,
     "key": "[/b] damage",
     "original": "[/b] damage",
-    "translation": "[/b] 伤害",
-    "stage": 5,
+    "translation": "[/b]点伤害",
+    "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(this) + \"'s armor is hit for [b]\" + this.Math.floor(_hitInfo.DamageArmor) + '[/b] damage')"
   },
   {
@@ -131,7 +131,7 @@
     "ID": 293410248,
     "key": "[/b] damage and suffers ",
     "original": "[/b] damage and suffers ",
-    "translation": "[/b] 伤害并遭受",
+    "translation": "[/b]点伤害并遭受",
     "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(this) + \"'s \" + this.Const.Strings.BodyPartName[_hitInfo.BodyPart] + ' is hit for [b]' + this.Math.floor(damage) + '[/b] damage and suffers ' + injury.getNameOnly() + '!')"
   },

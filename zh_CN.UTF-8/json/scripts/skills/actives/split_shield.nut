@@ -35,8 +35,8 @@
     "ID": 293420481,
     "key": "[/b] damage",
     "original": "[/b] damage",
-    "translation": "[/b] 伤害",
-    "stage": 5,
+    "translation": "[/b]点伤害",
+    "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' uses Split Shield and hits ' + this.Const.UI.getColorizedEntityName(_targetTile.getEntity()) + \"'s shield for [b]\" + conditionBefore - shield.getCondition() + '[/b] damage')"
   },
   {

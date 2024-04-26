@@ -11,7 +11,7 @@
     "ID": 293418215,
     "key": "Feathered Nasal Helmet",
     "original": "Feathered Nasal Helmet",
-    "translation": "带羽毛的鼻甲",
+    "translation": "羽饰护鼻盔",
     "stage": 1,
     "context": "'Feathered Nasal Helmet'"
   },

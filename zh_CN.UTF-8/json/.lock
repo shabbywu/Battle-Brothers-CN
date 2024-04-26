@@ -1274,8 +1274,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:42.523Z",
         "updatedAt": "2023-06-26T05:46:30.811Z",
-        "modifiedAt": "2024-04-20T05:10:40Z",
-        "sha256": "9a02e579cd094f3564004e4b2b164028441d14c46ec89c5e24b2d8ec7aa0e7ab"
+        "modifiedAt": "2024-04-25T09:00:49Z",
+        "sha256": "42e350317ee02c2b1a9c3ace7fdca4b2ef42ee1e56630a4dd65dca16185464b4"
     },
     "scripts/config/items.json": {
         "id": 918417,
@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-04-23T12:39:46Z",
-        "sha256": "7c6d513fc4c2c56fbc54924a57e5380e8d74e877de005aa1666ec09698b41fb5"
+        "modifiedAt": "2024-04-25T13:38:58Z",
+        "sha256": "d96afb94b9cffbb4daae6fdbc0f391576861ad79bb91063df18ae73261b2e9b5"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -1508,8 +1508,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:49.238Z",
         "updatedAt": "2023-06-26T05:46:37.922Z",
-        "modifiedAt": "2024-04-24T02:45:50Z",
-        "sha256": "bbc834d2846c305ce5a4a3c275e6675a56e375949e0a914f89100e6bd3c899ba"
+        "modifiedAt": "2024-04-26T00:45:21Z",
+        "sha256": "e7a9d59527839e6a29312108e963d3278d3b1e6c9f0dfd16e249fcad6bb3ef9b"
     },
     "scripts/contracts/contracts/big_game_hunt_contract.json": {
         "id": 918430,
@@ -2336,8 +2336,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:11.915Z",
         "updatedAt": "2023-06-26T05:46:53.124Z",
-        "modifiedAt": "2024-04-24T01:29:17Z",
-        "sha256": "106e4cd07f30ced422bf68771f36ee46b6ad301b319d27d0fd14737ea2ce4aaf"
+        "modifiedAt": "2024-04-25T08:57:56Z",
+        "sha256": "b2a19e37e9c5203e5367e5d72d9a39aba82cacaace18a57ebd3aaee52e562299"
     },
     "scripts/contracts/contracts/tutorial_contract.json": {
         "id": 918476,
@@ -2474,14 +2474,14 @@
         "total": 31,
         "translated": 31,
         "disputed": 0,
-        "checked": 15,
-        "reviewed": 15,
+        "checked": 14,
+        "reviewed": 14,
         "hidden": 0,
         "locked": 1,
         "createdAt": "2023-05-13T14:18:14.765Z",
         "updatedAt": "2023-06-26T05:46:54.258Z",
-        "modifiedAt": "2024-04-14T05:51:54Z",
-        "sha256": "57b26e3f185c10f897da6fc8fc7ada610182565624ccfafac3b0d1f4ed7271c3"
+        "modifiedAt": "2024-04-25T09:00:13Z",
+        "sha256": "56273cd233fb3b5737e8c05a30cc482cc3e250300ce78105ce69ffbf52047a13"
     },
     "scripts/entity/tactical/enemies/alp.json": {
         "id": 918484,
@@ -2696,8 +2696,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:18.95Z",
         "updatedAt": "2023-06-26T05:46:55.76Z",
-        "modifiedAt": "2023-07-05T01:28:49Z",
-        "sha256": "0dc0ee7b52c47237fa6c88a7d4c0a8eec8eb7a56157897f9a235dab1a33eadd3"
+        "modifiedAt": "2024-04-25T09:00:13Z",
+        "sha256": "e6de6afeb01f295e471a40d9e17357c2330a2e8aceecf3fd6e8ecb9c73a3025e"
     },
     "scripts/entity/tactical/enemies/orc_berserker.json": {
         "id": 918496,
@@ -20852,14 +20852,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:25:11.381Z",
         "updatedAt": "2023-06-26T05:48:40.016Z",
-        "modifiedAt": "2023-06-26T05:48:40Z",
-        "sha256": "9c5f8351cad6f4a503ffb985554de0c17716fb90c3f24eb84ad3cbed49d76356"
+        "modifiedAt": "2024-04-25T09:00:05Z",
+        "sha256": "df85015bfd181a84be2191a1138bc72025a89bc3da024b9f57a3907b92149821"
     },
     "scripts/items/helmets/hood.json": {
         "id": 919505,
@@ -21308,8 +21308,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:22.25Z",
         "updatedAt": "2023-06-26T05:48:42.821Z",
-        "modifiedAt": "2024-04-20T05:10:40Z",
-        "sha256": "b4b9359c1f8b7d48b8c6c00ef9c9706f8fea1878b8890b7395e00821e914cd24"
+        "modifiedAt": "2024-04-25T13:40:59Z",
+        "sha256": "1f996e7692441837eb9e7e1a9cc283bfb801e03402a8873a7a9c8158faf97c4d"
     },
     "scripts/items/helmets/named/norse_helmet.json": {
         "id": 919530,
@@ -31598,14 +31598,14 @@
         "total": 13,
         "translated": 13,
         "disputed": 0,
-        "checked": 13,
-        "reviewed": 13,
+        "checked": 12,
+        "reviewed": 12,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:29:46.524Z",
         "updatedAt": "2023-06-26T05:49:20.423Z",
-        "modifiedAt": "2023-06-26T05:49:20Z",
-        "sha256": "70a521af746bb85613364ee43fe217fa1ccac64a275333fdf344bf27b146ccdd"
+        "modifiedAt": "2024-04-25T08:59:44Z",
+        "sha256": "180217212cdc9ab2e9d00ecc3bd82838278b2c9d59537faea80eccea88c526e5"
     },
     "scripts/skills/actives/stab.json": {
         "id": 920102,
@@ -32120,14 +32120,14 @@
         "total": 15,
         "translated": 15,
         "disputed": 0,
-        "checked": 15,
-        "reviewed": 15,
+        "checked": 13,
+        "reviewed": 13,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:29:58.406Z",
         "updatedAt": "2023-06-26T05:49:22.214Z",
-        "modifiedAt": "2023-06-26T05:49:22Z",
-        "sha256": "94d62999d93ef6257c3fefe71de36682cef35cb6e9be0569ef02a6763ecfc707"
+        "modifiedAt": "2024-04-25T08:59:44Z",
+        "sha256": "8b927266c99fc8b7c6a096de9430527a4e68949bc48603a3b11f3c628e122d25"
     },
     "scripts/skills/actives/thrust.json": {
         "id": 920131,

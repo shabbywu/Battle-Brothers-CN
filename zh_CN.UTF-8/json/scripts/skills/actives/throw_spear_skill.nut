@@ -35,8 +35,8 @@
     "ID": 293420663,
     "key": "[/b] damage",
     "original": "[/b] damage",
-    "translation": "[/b] 伤害",
-    "stage": 5,
+    "translation": "[/b]点伤害",
+    "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_tag.TargetTile.getEntity()) + \"'s shield is hit for [b]\" + conditionBefore - _tag.Shield.getCondition() + '[/b] damage')"
   },
   {
@@ -67,8 +67,8 @@
     "ID": 293420667,
     "key": "'s shield is hit for [b]",
     "original": "'s shield is hit for [b]",
-    "translation": "的盾牌被击中，造成 [b]",
-    "stage": 5,
+    "translation": "的盾牌被击中，受到[b]",
+    "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_tag.TargetTile.getEntity()) + \"'s shield is hit for [b]\" + conditionBefore - _tag.Shield.getCondition() + '[/b] damage')"
   },
   {
