@@ -339,7 +339,7 @@
     "ID": 293405678,
     "key": "]20%[/color] damage against targets that have sustained any injury effects, like a broken arm.",
     "original": "]20%[/color] damage against targets that have sustained any injury effects, like a broken arm.",
-    "translation": "]20%[/color]。",
+    "translation": "]20%[/color]的额外伤害。",
     "stage": 1,
     "context": "CoupDeGrace = 'Inflict additional [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] damage against targets that have sustained any injury effects, like a broken arm.'"
   },
@@ -1787,7 +1787,7 @@
     "ID": 293405859,
     "key": "Hits to the head no longer cause critical damage to this character, which also lowers the risk of sustaining debilitating head injuries significantly.",
     "original": "Hits to the head no longer cause critical damage to this character, which also lowers the risk of sustaining debilitating head injuries significantly.",
-    "translation": "命中该角色头部不再造成暴击伤害，因此显著降低了遭受严重头部创伤的风险。",
+    "translation": "击中该角色头部不再造成暴击伤害，因此显著降低了受到严重头部创伤的风险。",
     "stage": 1,
     "context": "SteelBrow = 'Hits to the head no longer cause critical damage to this character, which also lowers the risk of sustaining debilitating head injuries significantly.'"
   },
@@ -2467,7 +2467,7 @@
     "ID": 293405944,
     "key": "An iron will is not swayed from the true path easily. Resolve is increased by [color=",
     "original": "An iron will is not swayed from the true path easily. Resolve is increased by [color=",
-    "translation": "钢铁般的意志不会轻易偏离正道。决心增加[color=",
+    "translation": "钢铁般的意志不会轻易偏离正道。决心提高[color=",
     "stage": 1,
     "context": "FortifiedMind = 'An iron will is not swayed from the true path easily. Resolve is increased by [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color].'"
   },
@@ -5307,7 +5307,7 @@
     "ID": 293406299,
     "key": "]25%[/color], which also reduces the chance to sustain debilitating injuries when being hit.",
     "original": "]25%[/color], which also reduces the chance to sustain debilitating injuries when being hit.",
-    "translation": "]25%[/color]，因此降低了被击中时遭受严重创伤的几率。",
+    "translation": "]25%[/color]，因此降低了被击中时受到严重创伤的几率。",
     "stage": 1,
     "context": "Colossus = 'Bring it on! Hitpoints are increased by [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color], which also reduces the chance to sustain debilitating injuries when being hit.'"
   },
@@ -6027,7 +6027,7 @@
     "ID": 293406389,
     "key": "Citizens",
     "original": "Citizens",
-    "translation": "公民",
+    "translation": "市民",
     "stage": 1,
     "context": "'Citizens'"
   },
@@ -6555,7 +6555,7 @@
     "ID": 293406455,
     "key": "Bring it on! Hitpoints are increased by [color=",
     "original": "Bring it on! Hitpoints are increased by [color=",
-    "translation": "放马过来！生命值增加[color=",
+    "translation": "放马过来！生命值提高[color=",
     "stage": 1,
     "context": "Colossus = 'Bring it on! Hitpoints are increased by [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color], which also reduces the chance to sustain debilitating injuries when being hit.'"
   },
@@ -7563,7 +7563,7 @@
     "ID": 293406581,
     "key": "Citizen",
     "original": "Citizen",
-    "translation": "公民",
+    "translation": "市民",
     "stage": 1,
     "context": "'Citizen'"
   },
@@ -8027,7 +8027,7 @@
     "ID": 293406639,
     "key": "Inflict additional [color=",
     "original": "Inflict additional [color=",
-    "translation": "对已遭受创伤效果（例如手臂骨折）的目标造成的伤害额外提高[color=",
+    "translation": "对受到创伤效果影响（例如手臂骨折）的目标造成[color=",
     "stage": 1,
     "context": "CoupDeGrace = 'Inflict additional [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] damage against targets that have sustained any injury effects, like a broken arm.'"
   },

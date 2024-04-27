@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-04-25T13:38:58Z",
-        "sha256": "d96afb94b9cffbb4daae6fdbc0f391576861ad79bb91063df18ae73261b2e9b5"
+        "modifiedAt": "2024-04-26T13:23:43Z",
+        "sha256": "64ec11330310d92327308fe7e0cad3a5bbea10279ce704354e2158c7c1667ac3"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -1436,8 +1436,8 @@
         "locked": 1,
         "createdAt": "2023-05-13T14:17:46.677Z",
         "updatedAt": "2023-06-26T05:46:37.263Z",
-        "modifiedAt": "2024-04-23T02:50:33Z",
-        "sha256": "9d879003f335515f999800249506d81b198c131cd1b8b4e57bd4a3d90a6a086e"
+        "modifiedAt": "2024-04-26T16:43:09Z",
+        "sha256": "c53f9f8d90abe4f5d36c02b4d52a9db9185327454960fd13e63617517956daf5"
     },
     "scripts/contracts/contract_manager.json": {
         "id": 918426,
@@ -15782,8 +15782,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:09.813Z",
         "updatedAt": "2023-06-25T06:22:08.858Z",
-        "modifiedAt": "2023-06-25T06:22:09Z",
-        "sha256": "de5991a15a84e7257e63c9e625b96b0c1a62566692bdaee92f7c54a01a95b918"
+        "modifiedAt": "2024-04-26T16:43:09Z",
+        "sha256": "a0107d4c1a2acfe8cf54a549f40c5c03dfa281c25549dc99b48bd93d9c4fddbe"
     },
     "scripts/factions/actions/move_goblins_action.json": {
         "id": 919223,
@@ -16334,14 +16334,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:20.372Z",
         "updatedAt": "2023-06-25T06:22:12.094Z",
-        "modifiedAt": "2023-06-25T06:22:12Z",
-        "sha256": "db44f0df2548f159ab0047e68e4a32a18340fe416a4384044a7d6ce6e49e6915"
+        "modifiedAt": "2024-04-26T16:43:09Z",
+        "sha256": "9df2a886e072b3197895a312a19bdef1d7b91335aa730327b5e87c67c2364403"
     },
     "scripts/factions/city_state_faction.json": {
         "id": 919254,
