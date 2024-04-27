@@ -91,7 +91,7 @@
     "ID": 293407746,
     "key": "Something seems wrong.",
     "original": "Something seems wrong.",
-    "translation": "好像有点不对劲。",
+    "translation": "一些邪性东西。",
     "stage": 1,
     "context": "party.setDescription('Something seems wrong.')"
   },
