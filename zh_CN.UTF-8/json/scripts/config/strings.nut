@@ -2763,7 +2763,7 @@
     "ID": 293405981,
     "key": "Everything can be learned if you put your mind to it. Gain additional [color=",
     "original": "Everything can be learned if you put your mind to it. Gain additional [color=",
-    "translation": "只要你下定决心，一切都可以学到。 从战斗中获得额外的 [color=",
+    "translation": "世上无难事，只怕有心人。在战斗中获得[color=",
     "stage": 1,
     "context": "Student = 'Everything can be learned if you put your mind to it. Gain additional [color=' + this.Const.UI.Color.PositiveValue + \"]20%[/color] experience from battle. At the eleventh character level, you gain an additional perk point and this perk becomes inert.\n\nPlaying the 'Manhunters' origin, your indebted get the perk point refunded at the seventh character level.\""
   },
@@ -3075,7 +3075,7 @@
     "ID": 293406020,
     "key": "Student",
     "original": "Student",
-    "translation": "学者",
+    "translation": "学生",
     "stage": 1,
     "context": "Student = 'Student'"
   },
@@ -7419,7 +7419,7 @@
     "ID": 293406563,
     "key": "]20%[/color] experience from battle. At the eleventh character level, you gain an additional perk point and this perk becomes inert.\n\nPlaying the 'Manhunters' origin, your indebted get the perk point refunded at the seventh character level.",
     "original": "]20%[/color] experience from battle. At the eleventh character level, you gain an additional perk point and this perk becomes inert.\n\nPlaying the 'Manhunters' origin, your indebted get the perk point refunded at the seventh character level.",
-    "translation": "]20%[/color] 经验。 在第 11 个角色级别，您获得额外的特权点，并且此特权变得无效。\n\n在游玩 “猎奴者” 起源时，您的奴隶在第 7 个角色级别获得返还的特权点。",
+    "translation": "]20%[/color]的额外经验。你的角色等级到十一级时，该特技失效并获得一个额外特技点。\n\n游玩“奴隶猎人”起源，你的负债者会在角色等级到七级时返还特技点。",
     "stage": 1,
     "context": "Student = 'Everything can be learned if you put your mind to it. Gain additional [color=' + this.Const.UI.Color.PositiveValue + \"]20%[/color] experience from battle. At the eleventh character level, you gain an additional perk point and this perk becomes inert.\n\nPlaying the 'Manhunters' origin, your indebted get the perk point refunded at the seventh character level.\""
   },

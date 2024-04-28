@@ -11,7 +11,7 @@
     "ID": 293417313,
     "key": "Something seems wrong.",
     "original": "Something seems wrong.",
-    "translation": "一些邪性东西。",
+    "translation": "一些邪秽之物。",
     "stage": 1,
     "context": "party.setDescription('Something seems wrong.')"
   }
