@@ -1867,7 +1867,7 @@
     "ID": 293405869,
     "key": "Officers",
     "original": "Officers",
-    "translation": "长官",
+    "translation": "军官",
     "stage": 1,
     "context": "'Officers'"
   },
@@ -4563,8 +4563,8 @@
     "ID": 293406206,
     "key": "Dead Men",
     "original": "Dead Men",
-    "translation": "死人团",
-    "stage": 5,
+    "translation": "死士团",
+    "stage": 1,
     "context": "'Dead Men'"
   },
   {
@@ -6035,7 +6035,7 @@
     "ID": 293406390,
     "key": "Officer",
     "original": "Officer",
-    "translation": "官员",
+    "translation": "军官",
     "stage": 1,
     "context": "'Officer'"
   },
@@ -7011,7 +7011,7 @@
     "ID": 293406512,
     "key": "Neverending Sands",
     "original": "Neverending Sands",
-    "translation": "永无止境的金沙",
+    "translation": "无垠金沙",
     "stage": 1,
     "context": "'Neverending Sands'"
   },
@@ -7027,8 +7027,8 @@
     "ID": 293406514,
     "key": "Burning hot desert sand.",
     "original": "Burning hot desert sand.",
-    "translation": "炙热的沙漠沙子。",
-    "stage": 5,
+    "translation": "炙热的沙漠沙地。",
+    "stage": 1,
     "context": "'Burning hot desert sand.'"
   },
   {
@@ -7419,7 +7419,7 @@
     "ID": 293406563,
     "key": "]20%[/color] experience from battle. At the eleventh character level, you gain an additional perk point and this perk becomes inert.\n\nPlaying the 'Manhunters' origin, your indebted get the perk point refunded at the seventh character level.",
     "original": "]20%[/color] experience from battle. At the eleventh character level, you gain an additional perk point and this perk becomes inert.\n\nPlaying the 'Manhunters' origin, your indebted get the perk point refunded at the seventh character level.",
-    "translation": "]20%[/color]的额外经验。你的角色等级到十一级时，该特技失效并获得一个额外特技点。\n\n游玩“奴隶猎人”起源，你的负债者会在角色等级到七级时返还特技点。",
+    "translation": "]20%[/color]的额外经验。你的角色等级到十一级时，该特技失效并获得一个额外特技点。\n\n游玩“猎奴者”起源，你的负债者会在角色等级到七级时返还特技点。",
     "stage": 1,
     "context": "Student = 'Everything can be learned if you put your mind to it. Gain additional [color=' + this.Const.UI.Color.PositiveValue + \"]20%[/color] experience from battle. At the eleventh character level, you gain an additional perk point and this perk becomes inert.\n\nPlaying the 'Manhunters' origin, your indebted get the perk point refunded at the seventh character level.\""
   },
@@ -8299,7 +8299,7 @@
     "ID": 293406673,
     "key": "Southland Bowels",
     "original": "Southland Bowels",
-    "translation": "南国肠",
+    "translation": "南国腹地",
     "stage": 1,
     "context": "'Southland Bowels'"
   },
@@ -8579,8 +8579,8 @@
     "ID": 293406708,
     "key": "Radobrecht's Swords",
     "original": "Radobrecht's Swords",
-    "translation": "拉多布雷希特之剑",
-    "stage": 5,
+    "translation": "闲语之剑",
+    "stage": 1,
     "context": "\"Radobrecht's Swords\""
   },
   {

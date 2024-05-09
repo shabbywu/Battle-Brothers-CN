@@ -283,7 +283,7 @@
     "ID": 293409673,
     "key": "Crowns well earned.",
     "original": "Crowns well earned.",
-    "translation": "来之不易的克朗。",
+    "translation": "来之不易。",
     "stage": 1,
     "context": "Text = 'Crowns well earned.'"
   },

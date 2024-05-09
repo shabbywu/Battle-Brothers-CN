@@ -451,7 +451,7 @@
     "ID": 293403834,
     "key": "the Head-Taker",
     "original": "the Head-Taker",
-    "translation": "·领头羊",
+    "translation": "·猎头者",
     "stage": 1,
     "context": "'the Head-Taker'"
   },
@@ -827,7 +827,7 @@
     "ID": 293403881,
     "key": "the Secret Son",
     "original": "the Secret Son",
-    "translation": "秘密之子",
+    "translation": "隐子",
     "stage": 1,
     "context": "'the Secret Son'"
   },
@@ -1315,7 +1315,7 @@
     "ID": 293403942,
     "key": "Mickel Copperheart",
     "original": "Mickel Copperheart",
-    "translation": "米克尔科珀哈特",
+    "translation": "铁石心肠米克尔",
     "stage": 1,
     "context": "'Mickel Copperheart'"
   },
@@ -2987,7 +2987,7 @@
     "ID": 293404151,
     "key": "the Exorciser",
     "original": "the Exorciser",
-    "translation": "驱魔者",
+    "translation": "驱魔师",
     "stage": 1,
     "context": "'the Exorciser'"
   },
@@ -7179,7 +7179,7 @@
     "ID": 293404675,
     "key": "Earripper",
     "original": "Earripper",
-    "translation": "耳环人",
+    "translation": "割耳者",
     "stage": 1,
     "context": "'Earripper'"
   },
