@@ -1220,8 +1220,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.288Z",
         "updatedAt": "2023-06-26T05:46:29.6Z",
-        "modifiedAt": "2024-04-06T15:33:18Z",
-        "sha256": "8c582965e4aa9acfdbfc680f30f5ecde02a369dd207bc5eb0d4ea0e605c6def9"
+        "modifiedAt": "2024-05-08T13:22:48Z",
+        "sha256": "38a5a702dd47bf110941e3669ab5ff05539f8d4a8e16db12f5b6fac6c73280b7"
     },
     "scripts/config/credits.json": {
         "id": 918414,
@@ -1340,14 +1340,14 @@
         "total": 1218,
         "translated": 1218,
         "disputed": 0,
-        "checked": 266,
-        "reviewed": 266,
+        "checked": 263,
+        "reviewed": 263,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-04-27T06:31:58Z",
-        "sha256": "894c6a9a7e6f99ba469bc850d3903edd5bd831bfb6d6c29ff2d3f9aabeff4356"
+        "modifiedAt": "2024-05-08T11:15:56Z",
+        "sha256": "641056ebdb94108b9b8cd2afbcd3f33eb45d3b460cba7fa29f7e7ecc7179bbae"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -1634,8 +1634,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:53.112Z",
         "updatedAt": "2023-06-26T05:46:39.951Z",
-        "modifiedAt": "2024-04-19T07:11:16Z",
-        "sha256": "2bf4c1603a7bd2ee4a796f5022ebd30ebd20b3a07e174c6d905fada0da5c047c"
+        "modifiedAt": "2024-05-08T13:13:33Z",
+        "sha256": "bc3ab3f9c6037dc4f8b0be761015127843e094cbac5e9074906eba3acca1ef75"
     },
     "scripts/contracts/contracts/defend_holy_site_southern_contract.json": {
         "id": 918437,
@@ -1850,8 +1850,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:58.592Z",
         "updatedAt": "2023-06-26T05:46:44.488Z",
-        "modifiedAt": "2024-04-19T07:11:16Z",
-        "sha256": "41f1a7d0853dfdf9e2a4cb67da0db0e1650fab173f8100343811ddfb9f3c97d9"
+        "modifiedAt": "2024-04-29T11:58:25Z",
+        "sha256": "b2558410fd1149f9b4bc61c67b2d847b6262bc87527c2e5d1b0e7455d6499865"
     },
     "scripts/contracts/contracts/find_artifact_contract.json": {
         "id": 918449,
@@ -2192,8 +2192,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:08.538Z",
         "updatedAt": "2023-06-26T05:46:50.255Z",
-        "modifiedAt": "2024-03-05T06:28:25Z",
-        "sha256": "3b013e903095278ce7bf754c50ec8ae1264344b9c1a340d21e6bca1c39829eac"
+        "modifiedAt": "2024-04-29T11:58:25Z",
+        "sha256": "b533027acc18cfbe8960ff731d3655a14785eba01056ac209251dee0de03241e"
     },
     "scripts/contracts/contracts/raze_attached_location_contract.json": {
         "id": 918468,
@@ -18194,8 +18194,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:03.55Z",
         "updatedAt": "2023-06-26T05:48:26.624Z",
-        "modifiedAt": "2024-04-22T01:27:45Z",
-        "sha256": "8533a60ac72eee322f78a4e8c5bbd902d447c275273d446c6a235bdde85961dc"
+        "modifiedAt": "2024-04-29T00:43:43Z",
+        "sha256": "2a5e547c681e099da12211a30dad1d70b319521b6f45d3567ab29740d243f3f1"
     },
     "scripts/items/armor/legendary/emperors_armor_fake.json": {
         "id": 919357,
@@ -18212,8 +18212,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:04.59Z",
         "updatedAt": "2023-06-26T05:48:26.689Z",
-        "modifiedAt": "2024-04-22T01:32:36Z",
-        "sha256": "8b38b6f31b2f80bc421cc0301316390c882e3b4a92bb09c3365913baa8a76943"
+        "modifiedAt": "2024-04-29T01:04:12Z",
+        "sha256": "d6e5b00cc61b5858e11217478a1cde77106dc274fe4e0a4b56f483a3876e99a9"
     },
     "scripts/items/armor/legendary/ijirok_armor.json": {
         "id": 919358,
@@ -20984,8 +20984,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:14.573Z",
         "updatedAt": "2023-06-26T05:48:41.681Z",
-        "modifiedAt": "2023-06-26T05:48:42Z",
-        "sha256": "8fab50f22af23bcd9370906c237450486b6ecfdd2777abd297de513c4b983b27"
+        "modifiedAt": "2024-04-29T16:00:51Z",
+        "sha256": "dbe9c624b3b9281d1438c2b9b36b3cb86711e584ea67c6adc6184ddfb3c3532c"
     },
     "scripts/items/helmets/legendary/fangshire.json": {
         "id": 919512,

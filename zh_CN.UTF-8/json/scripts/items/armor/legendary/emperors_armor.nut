@@ -19,7 +19,7 @@
     "ID": 293417661,
     "key": "Reflects [color=",
     "original": "Reflects [color=",
-    "translation": "反弹所受近战伤害的[color=",
+    "translation": "将所受近战伤害的[color=",
     "stage": 1,
     "context": "text = 'Reflects [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] of damage taken in melee back to the attacker'"
   },
@@ -27,7 +27,7 @@
     "ID": 293417662,
     "key": "]25%[/color] of damage taken in melee back to the attacker",
     "original": "]25%[/color] of damage taken in melee back to the attacker",
-    "translation": "]25%[/color]给攻击者",
+    "translation": "]25%[/color]反弹给攻击者",
     "stage": 1,
     "context": "text = 'Reflects [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] of damage taken in melee back to the attacker'"
   }
