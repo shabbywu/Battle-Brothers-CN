@@ -91,7 +91,7 @@
     "ID": 293413666,
     "key": "[img]gfx/ui/events/event_09.png[/img]%houndmaster% the houndmaster rushes forward to help, but the dog the swamp surface goes still. The man slips into the water and feels about. His hands clench and he stares back at the stranger.%SPEECH_ON%I'm a dog han",
     "original": "[img]gfx/ui/events/event_09.png[/img]%houndmaster% the houndmaster rushes forward to help, but the dog the swamp surface goes still. The man slips into the water and feels about. His hands clench and he stares back at the stranger.%SPEECH_ON%I'm a dog handler at heart. That means I train 'em to not get into this much trouble. But I ain't ever would need to train a dog to beware this here bog, which means this sonuvabitch here threw him in there, ain't that right?%SPEECH_OFF%The stranger's first words are excuses and so the houndmaster batters him. The stranger scissors his legs backwards so awkwardly his pants fall about his ankles and there in his drawers spill an assortment of treasures. The damned fool is a treasure hunter! %houndmaster% draws a weapon and looks ready to murder this man. Screaming, the stranger kicks his pants off and runs off into the swampwoods hooting and pallidly half naked like some potato sack governed by a ghost. Laughing, you crouch to sift through the departed's goods, not all of which is shiny.",
-    "translation": "[img]gfx/ui/events/event_09.png[/img]%houndmaster% 训犬师冲上前去，但沼泽中的狗就这样停了下来。这个男人滑进水里摸索。他的手紧紧握住，盯着那个陌生人。%SPEECH_ON%我内心深处是个训犬师。这意味着我训练他们不会陷入这么大的麻烦。但是我从来不需要训练一只狗提防这个沼泽，这意味着这个混蛋把他扔进去了，对吗？%SPEECH_OFF%陌生人的第一句话就是借口，所以训犬师痛打他。陌生人双腿生生地向后剪刀踢，裤子松了下来，在他的抽屉里掉出了各种宝藏。可恶的傻瓜是个宝藏猎人！%houndmaster% 拉出武器，准备谋杀这个人。陌生人尖叫着踢掉裤子，朝沼泽森林跑去，半裸着像被鬼魂控制的麻袋一样。你笑着蹲下来，寻找离去者的物品，其中并不都是闪亮的。",
+    "translation": "[img]gfx/ui/events/event_09.png[/img]驯犬师%houndmaster%冲上前去，但沼泽中的狗就这样停了下来。这个男人滑进水里摸索。他的手紧紧握住，盯着那个陌生人。%SPEECH_ON%我内心深处是个驯犬师。这意味着我训练他们不会陷入这么大的麻烦。但是我从来不需要训练一只狗提防这个沼泽，这意味着这个混蛋把他扔进去了，对吗？%SPEECH_OFF%陌生人的第一句话就是借口，所以驯犬师痛打他。陌生人双腿生生地向后剪刀踢，裤子松了下来，在他的抽屉里掉出了各种宝藏。可恶的傻瓜是个宝藏猎人！%houndmaster% 拉出武器，准备谋杀这个人。陌生人尖叫着踢掉裤子，朝沼泽森林跑去，半裸着像被鬼魂控制的麻袋一样。你笑着蹲下来，寻找离去者的物品，其中并不都是闪亮的。",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_09.png[/img]%houndmaster% the houndmaster rushes forward to help, but the dog the swamp surface goes still. The man slips into the water and feels about. His hands clench and he stares back at the stranger.%SPEECH_ON%I'm a dog handler at heart. That means I train 'em to not get into this much trouble. But I ain't ever would need to train a dog to beware this here bog, which means this sonuvabitch here threw him in there, ain't that right?%SPEECH_OFF%The stranger's first words are excuses and so the houndmaster batters him. The stranger scissors his legs backwards so awkwardly his pants fall about his ankles and there in his drawers spill an assortment of treasures. The damned fool is a treasure hunter! %houndmaster% draws a weapon and looks ready to murder this man. Screaming, the stranger kicks his pants off and runs off into the swampwoods hooting and pallidly half naked like some potato sack governed by a ghost. Laughing, you crouch to sift through the departed's goods, not all of which is shiny.\""
   },
@@ -123,7 +123,7 @@
     "ID": 293413670,
     "key": "Maybe our houndmaster can help?",
     "original": "Maybe our houndmaster can help?",
-    "translation": "也许我们的训犬师能帮忙？",
+    "translation": "也许我们的驯犬师能帮忙？",
     "stage": 1,
     "context": "Text = 'Maybe our houndmaster can help?'"
   },

@@ -155,7 +155,7 @@
     "ID": 293412900,
     "key": "Show me what you can do!",
     "original": "Show me what you can do!",
-    "translation": "向我展示下你能干什么！",
+    "translation": "拿出你的真本事！",
     "stage": 1,
     "context": "Text = 'Show me what you can do!'"
   },

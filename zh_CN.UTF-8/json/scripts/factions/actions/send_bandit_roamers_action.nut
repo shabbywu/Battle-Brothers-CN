@@ -11,8 +11,8 @@
     "ID": 293417331,
     "key": "Brigand Hunters",
     "original": "Brigand Hunters",
-    "translation": "匪徒猎人",
-    "stage": 5,
+    "translation": "强盗猎人",
+    "stage": 1,
     "context": "this.getFaction().spawnEntity(settlement.getTile(), 'Brigand Hunters', False, this.Const.World.Spawn.BanditRoamers, this.Math.min(settlement.getResources(), this.Math.rand(60, 110)))"
   }
 ]
