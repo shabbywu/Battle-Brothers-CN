@@ -219,7 +219,7 @@
     "ID": 293409559,
     "key": "Brigand Hunters",
     "original": "Brigand Hunters",
-    "translation": "盗匪猎人",
+    "translation": "强盗猎人",
     "stage": 1,
     "context": "this.World.FactionManager.getFactionOfType(this.Const.FactionType.Bandits).spawnEntity(tile, 'Brigand Hunters', False, this.Const.World.Spawn.BanditRoamers, 80 * this.getDifficultyMult() * this.getScaledDifficultyMult())"
   },

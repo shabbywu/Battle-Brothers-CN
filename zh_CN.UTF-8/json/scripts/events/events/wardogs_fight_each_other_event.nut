@@ -35,7 +35,7 @@
     "ID": 293417199,
     "key": "[img]gfx/ui/events/event_27.png[/img]You order %houndmaster% the houndmaster to do something. He nods and steps forward, calmly walking between the two fighting dogs. They bark and snap at each other, but both pause to eye the man coming in. One growls, b",
     "original": "[img]gfx/ui/events/event_27.png[/img]You order %houndmaster% the houndmaster to do something. He nods and steps forward, calmly walking between the two fighting dogs. They bark and snap at each other, but both pause to eye the man coming in. One growls, but does in fact sit down. The other backs up, its tail wagging furiously, but there's still fire in its eyes. The houndmaster crouches down and pets them both on the head. One mutt lowers itself, and the other follows suit.\n\n The man slowly brings the dogs together, practically touching noses, and then whispers to them both. Slowly, but surely, the bestial energy leaves the dogs and their softened dispositions seem more fit for watching children than fighting in a mercenary band. The houndmaster gets back up and the dogs happily follow him. He nods.%SPEECH_ON%Just a small row between dogs, heh.%SPEECH_OFF%He walks off while the rest of the company looks on slackjawed, as if they'd just watched some kind of procession of druidic sorcery.",
-    "translation": "[img]gfx/ui/events/event_27.png[/img]你就命令驯兽师 %houndmaster% 做点什么阻止它们。 他点头，向前走去，平静地走在两只斗狗之间。 它们互相吠叫，互相攻击，但两狗都停下来看着进来的人。 一只在咆哮，但实际上慢慢坐下。 另一只后退了，它的尾巴拼命地摇着，虽然它任然有怒气。 那驯兽师蹲下来，摸摸狗头。 一只狗低下头，另一只跟着。\n\n 他慢慢地把两只狗拉在一起，先摸了摸鼻子，然后低声对它们说。 慢慢的，不错所料，狗的狂暴因子消失了，它们的温顺的性情似乎更适合看孩子，而不是在一个铁血交织的雇佣兵团战斗。 驯兽师站了起来，狗很高兴地跟着他。他点头。%SPEECH_ON%哈哈，只是狗儿之间的小吵闹。%SPEECH_OFF%他说完就走了，而队伍里的其他人惊掉下巴地看着他，就像是看到一种德鲁伊魔法。",
+    "translation": "[img]gfx/ui/events/event_27.png[/img]你就命令驯犬师%houndmaster%做点什么阻止它们。 他点头，向前走去，平静地走在两只斗狗之间。 它们互相吠叫，互相攻击，但两狗都停下来看着进来的人。 一只在咆哮，但实际上慢慢坐下。 另一只后退了，它的尾巴拼命地摇着，虽然它任然有怒气。 那驯犬师蹲下来，摸摸狗头。 一只狗低下头，另一只跟着。\n\n 他慢慢地把两只狗拉在一起，先摸了摸鼻子，然后低声对它们说。 慢慢的，不错所料，狗的狂暴因子消失了，它们的温顺的性情似乎更适合看孩子，而不是在一个铁血交织的雇佣兵团战斗。 驯兽师站了起来，狗很高兴地跟着他。他点头。%SPEECH_ON%哈哈，只是狗儿之间的小吵闹。%SPEECH_OFF%他说完就走了，而队伍里的其他人惊掉下巴地看着他，就像是看到一种德鲁伊魔法。",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_27.png[/img]You order %houndmaster% the houndmaster to do something. He nods and steps forward, calmly walking between the two fighting dogs. They bark and snap at each other, but both pause to eye the man coming in. One growls, but does in fact sit down. The other backs up, its tail wagging furiously, but there's still fire in its eyes. The houndmaster crouches down and pets them both on the head. One mutt lowers itself, and the other follows suit.\n\n The man slowly brings the dogs together, practically touching noses, and then whispers to them both. Slowly, but surely, the bestial energy leaves the dogs and their softened dispositions seem more fit for watching children than fighting in a mercenary band. The houndmaster gets back up and the dogs happily follow him. He nods.%SPEECH_ON%Just a small row between dogs, heh.%SPEECH_OFF%He walks off while the rest of the company looks on slackjawed, as if they'd just watched some kind of procession of druidic sorcery.\""
   },
@@ -115,7 +115,7 @@
     "ID": 293417209,
     "key": "%houndmaster%, you are a houndmaster, handle this!",
     "original": "%houndmaster%, you are a houndmaster, handle this!",
-    "translation": "%houndmaster% 你是训犬师，把它处理好了！",
+    "translation": "%houndmaster% 你是驯犬师，把它处理好了！",
     "stage": 1,
     "context": "Text = '%houndmaster%, you are a houndmaster, handle this!'"
   },

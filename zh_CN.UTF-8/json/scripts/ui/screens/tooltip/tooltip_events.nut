@@ -2083,7 +2083,7 @@
     "ID": 293423213,
     "key": "A kennel where strong and fast dogs are bred for war.",
     "original": "A kennel where strong and fast dogs are bred for war.",
-    "translation": "一间训犬屋，为战争繁殖和训练强壮而敏捷的战犬。",
+    "translation": "一间驯犬屋，为战争繁殖和训练强壮而敏捷的战犬。",
     "stage": 1,
     "context": "text = 'A kennel where strong and fast dogs are bred for war.'"
   },
@@ -3259,7 +3259,7 @@
     "ID": 293423360,
     "key": "Kennel",
     "original": "Kennel",
-    "translation": "训犬屋",
+    "translation": "驯犬屋",
     "stage": 1,
     "context": "text = 'Kennel'"
   },

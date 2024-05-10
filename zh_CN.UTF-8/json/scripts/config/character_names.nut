@@ -5995,7 +5995,7 @@
     "ID": 293404527,
     "key": "the Mauler",
     "original": "the Mauler",
-    "translation": "·搬运工",
+    "translation": "拳击手",
     "stage": 1,
     "context": "'the Mauler'"
   },
