@@ -6083,7 +6083,7 @@
     "ID": 293404538,
     "key": "the Tarnish",
     "original": "the Tarnish",
-    "translation": "玷污之人",
+    "translation": "污点",
     "stage": 1,
     "context": "'the Tarnish'"
   },

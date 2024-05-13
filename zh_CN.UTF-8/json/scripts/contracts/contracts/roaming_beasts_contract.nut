@@ -51,7 +51,7 @@
     "ID": 293409821,
     "key": "{What's this worth to you? | What is %townname% prepared to pay? | Let's talk pay.}",
     "original": "{What's this worth to you? | What is %townname% prepared to pay? | Let's talk pay.}",
-    "translation": "{这对你值多少钱？ | %townname% 愿意支付多少？ | 我们来谈谈酬劳。}",
+    "translation": "{对你来说值多少？ | %townname%愿意付多少？ | 谈谈报酬吧。}",
     "stage": 1,
     "context": "Text = \"{What's this worth to you? | What is %townname% prepared to pay? | Let's talk pay.}\""
   },
@@ -235,7 +235,7 @@
     "ID": 293409844,
     "key": "Let's be done with this, we have crowns to collect.",
     "original": "Let's be done with this, we have crowns to collect.",
-    "translation": "赶紧结束这件事吧，我们还有克朗要拿。",
+    "translation": "赶快完事吧，还有钱等着呢。",
     "stage": 1,
     "context": "Text = \"Let's be done with this, we have crowns to collect.\""
   },

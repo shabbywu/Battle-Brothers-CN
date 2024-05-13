@@ -27,8 +27,8 @@
     "ID": 293416879,
     "key": "Lost confidence in your leadership",
     "original": "Lost confidence in your leadership",
-    "translation": "对你的领导能力失去了信心",
-    "stage": 5,
+    "translation": "怀疑你的领导能力",
+    "stage": 1,
     "context": "bro.worsenMood(this.Const.MoodChange.AmbitionFailed, 'Lost confidence in your leadership')"
   }
 ]

@@ -67,16 +67,16 @@
     "ID": 293410107,
     "key": "Let's talk business.",
     "original": "Let's talk business.",
-    "translation": "我们来谈谈生意。",
-    "stage": 5,
+    "translation": "谈谈正事吧。",
+    "stage": 1,
     "context": "Text = \"Let's talk business.\""
   },
   {
     "ID": 293410108,
     "key": "Let's talk, then.",
     "original": "Let's talk, then.",
-    "translation": "我们来谈谈吧。",
-    "stage": 5,
+    "translation": "那就谈谈吧。",
+    "stage": 1,
     "context": "Text = \"Let's talk, then.\""
   },
   {

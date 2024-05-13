@@ -235,7 +235,7 @@
     "ID": 293408019,
     "key": "{I trust you'll pay amply for this. | Everything can be done, if the pay is right. | Convince me with jingling coin.}",
     "original": "{I trust you'll pay amply for this. | Everything can be done, if the pay is right. | Convince me with jingling coin.}",
-    "translation": "{我相信你会为此付出很多。 | 如果报酬合适，一切都可以做。 | 用叮当作响的硬币说服我。}",
+    "translation": "{相信你会给得丰厚。 | 价钱合适，一切好说。 | 有钱能使鬼推磨。}",
     "stage": 1,
     "context": "Text = \"{I trust you'll pay amply for this. | Everything can be done, if the pay is right. | Convince me with jingling coin.}\""
   },

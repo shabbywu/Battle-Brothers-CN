@@ -67,7 +67,7 @@
     "ID": 293409036,
     "key": "{How many crowns can you muster? | Let's talk pay. | Let's talk crowns. | We could look into this. For the right price.}",
     "original": "{How many crowns can you muster? | Let's talk pay. | Let's talk crowns. | We could look into this. For the right price.}",
-    "translation": "{你能拿出多少克朗？ | 我们来谈谈酬劳。 | 我们来谈谈克朗。 | 我们可以调查一下。 只要价钱合适。}",
+    "translation": "{你能拿出多少克朗？ | 谈谈报酬吧。 | 让克朗说话。 | 我们愿意介入。只要价钱合适。}",
     "stage": 1,
     "context": "Text = \"{How many crowns can you muster? | Let's talk pay. | Let's talk crowns. | We could look into this. For the right price.}\""
   },

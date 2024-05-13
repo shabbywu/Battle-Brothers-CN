@@ -227,7 +227,7 @@
     "ID": 293407795,
     "key": "{Victory! | Are you not entertained?! | Killed it. | A bloody spectacle.}",
     "original": "{Victory! | Are you not entertained?! | Killed it. | A bloody spectacle.}",
-    "translation": "{胜利！ | 你不觉得有乐子吗？！ | 杀掉它了！ | 真是血腥十足。}",
+    "translation": "{胜利！ | 难道没尽兴吗？！ | 杀掉它了！ | 真是血腥十足。}",
     "stage": 1,
     "context": "Text = '{Victory! | Are you not entertained?! | Killed it. | A bloody spectacle.}'"
   },
@@ -523,7 +523,7 @@
     "ID": 293407832,
     "key": "Get ",
     "original": "Get ",
-    "translation": "获胜奖金为",
+    "translation": "奖金为",
     "stage": 1,
     "context": "'Get ' + this.Contract.m.Payment.getOnCompletion() + ' crowns for your victory'"
   },

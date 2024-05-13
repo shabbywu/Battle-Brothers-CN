@@ -3,8 +3,8 @@
     "ID": 293410110,
     "key": " crowns on completion",
     "original": " crowns on completion",
-    "translation": " 克朗于合同完成之后",
-    "stage": 5,
+    "translation": "克朗会在事成之后付清",
+    "stage": 1,
     "context": "this.Contract.m.BulletpointsPayment.push('Get ' + this.Contract.m.Payment.getOnCompletion() + ' crowns on completion')"
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293410114,
     "key": "Get ",
     "original": "Get ",
-    "translation": "获得 ",
-    "stage": 5,
+    "translation": "酬金",
+    "stage": 1,
     "context": "this.Contract.m.BulletpointsPayment.push('Get ' + this.Contract.m.Payment.getInAdvance() + ' crowns in advance')"
   },
   {
@@ -51,8 +51,8 @@
     "ID": 293410116,
     "key": " crowns in advance",
     "original": " crowns in advance",
-    "translation": " 克朗预付款",
-    "stage": 5,
+    "translation": "克朗作为预付",
+    "stage": 1,
     "context": "this.Contract.m.BulletpointsPayment.push('Get ' + this.Contract.m.Payment.getInAdvance() + ' crowns in advance')"
   },
   {

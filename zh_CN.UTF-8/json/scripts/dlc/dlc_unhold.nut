@@ -67,7 +67,7 @@
     "ID": 293410196,
     "key": "With the 'Beast Slayers' origin you'll have an easier time tracking beasts and get more trophies from any of those you slay.",
     "original": "With the 'Beast Slayers' origin you'll have an easier time tracking beasts and get more trophies from any of those you slay.",
-    "translation": "选择“兽人猎手”起源后，你追踪野兽会更容易，并且你会从猎杀的每只野兽身上获得更多的战利品。",
+    "translation": "在“野兽杀手”起源游戏中，你能更轻松地追踪野兽，从猎杀的野兽身上获得更多的战利品。",
     "stage": 1,
     "context": "\"With the 'Beast Slayers' origin you'll have an easier time tracking beasts and get more trophies from any of those you slay.\""
   },

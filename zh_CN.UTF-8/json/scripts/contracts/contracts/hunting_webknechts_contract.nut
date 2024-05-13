@@ -19,7 +19,7 @@
     "ID": 293409274,
     "key": "{How many crowns can you muster? | Let's talk pay. | Let's talk crowns.}",
     "original": "{How many crowns can you muster? | Let's talk pay. | Let's talk crowns.}",
-    "translation": "{你能拿出多少克朗？ | 我们来谈谈酬劳。 | 我们来谈谈克朗。}",
+    "translation": "{你能拿出多少克朗？ | 谈谈报酬吧。 | 让克朗说话。}",
     "stage": 1,
     "context": "Text = \"{How many crowns can you muster? | Let's talk pay. | Let's talk crowns.}\""
   },
@@ -227,7 +227,7 @@
     "ID": 293409300,
     "key": "Let's be done with this, we have crowns to collect.",
     "original": "Let's be done with this, we have crowns to collect.",
-    "translation": "赶紧结束这件事吧，我们还有克朗要拿。",
+    "translation": "赶快完事吧，还有钱等着呢。",
     "stage": 1,
     "context": "Text = \"Let's be done with this, we have crowns to collect.\""
   },

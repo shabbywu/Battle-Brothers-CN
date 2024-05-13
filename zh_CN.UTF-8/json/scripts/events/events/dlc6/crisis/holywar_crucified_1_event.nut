@@ -83,8 +83,8 @@
     "ID": 293414534,
     "key": "Gained confidence in your leadership",
     "original": "Gained confidence in your leadership",
-    "translation": "对你的领导能力有了信心",
-    "stage": 5,
+    "translation": "越发相信你的领导能力",
+    "stage": 1,
     "context": "bro.improveMood(0.25, 'Gained confidence in your leadership')"
   },
   {

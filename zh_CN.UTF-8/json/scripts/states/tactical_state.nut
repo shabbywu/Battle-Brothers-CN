@@ -59,7 +59,7 @@
     "ID": 293422808,
     "key": "Won a fight in the arena",
     "original": "Won a fight in the arena",
-    "translation": "赢了一场竞技场战斗",
+    "translation": "在一场角斗中获胜",
     "stage": 1,
     "context": "bro.improveMood(this.Const.MoodChange.BattleWon, 'Won a fight in the arena')"
   },

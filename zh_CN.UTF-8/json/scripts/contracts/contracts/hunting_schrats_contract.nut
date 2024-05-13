@@ -131,7 +131,7 @@
     "ID": 293409191,
     "key": "{Interested for sure. | Let's talk pay. | Let's talk crowns. | This is going to cost you. | A wild chase through the forest, then? Count me in. | The %companyname% can help, for the right price.}",
     "original": "{Interested for sure. | Let's talk pay. | Let's talk crowns. | This is going to cost you. | A wild chase through the forest, then? Count me in. | The %companyname% can help, for the right price.}",
-    "translation": "{当然感兴趣。 | 我们来谈谈酬劳。 | 我们来谈谈克朗。 | 这需要你花费一些。 | 去森林里捉迷藏？算我一个。 | %companyname% 可以提供帮助，只要价格合适。}",
+    "translation": "{当然感兴趣。 | 谈谈报酬吧。 | 让克朗说话。 | 这会花你不少钱。 | 森林里捉迷藏？算我一个。 | %companyname%可以帮忙，只要价钱合适。}",
     "stage": 1,
     "context": "Text = \"{Interested for sure. | Let's talk pay. | Let's talk crowns. | This is going to cost you. | A wild chase through the forest, then? Count me in. | The %companyname% can help, for the right price.}\""
   },

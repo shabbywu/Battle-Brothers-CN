@@ -35,8 +35,8 @@
     "ID": 293416884,
     "key": "Gained confidence in your leadership",
     "original": "Gained confidence in your leadership",
-    "translation": "对你的领导能力有了信心",
-    "stage": 5,
+    "translation": "越发相信你的领导能力",
+    "stage": 1,
     "context": "bro.improveMood(this.Const.MoodChange.AmbitionFulfilled, 'Gained confidence in your leadership')"
   }
 ]

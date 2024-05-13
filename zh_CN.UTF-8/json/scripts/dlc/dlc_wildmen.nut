@@ -3,7 +3,7 @@
     "ID": 293410215,
     "key": "With the 'Cultists' origin your god will demand sacrifices from you, but also bestow boons upon those loyal to him.",
     "original": "With the 'Cultists' origin your god will demand sacrifices from you, but also bestow boons upon those loyal to him.",
-    "translation": "选择“邪教徒”起源，你的神将要求你献祭，但也会赐予那些忠诚于祂的人好处。",
+    "translation": "在“邪教徒”起源游戏中，你的神会向你索要贡品，也会赐予忠于祂的人恩惠。",
     "stage": 1,
     "context": "\"With the 'Cultists' origin your god will demand sacrifices from you, but also bestow boons upon those loyal to him.\""
   },
@@ -27,7 +27,7 @@
     "ID": 293410218,
     "key": "With the 'Band of Poachers' origin you'll move faster on the worldmap.",
     "original": "With the 'Band of Poachers' origin you'll move faster on the worldmap.",
-    "translation": "选择'盗猎团'起源，队伍在世界地图上移动速度更快。",
+    "translation": "在“偷猎团”起源游戏中，你的队伍能更快地世界地图上移动。",
     "stage": 1,
     "context": "\"With the 'Band of Poachers' origin you'll move faster on the worldmap.\""
   },
@@ -51,8 +51,8 @@
     "ID": 293410221,
     "key": "With the 'Lone Wolf' origin you'll have a player character in the world. If you die, the campaign ends.",
     "original": "With the 'Lone Wolf' origin you'll have a player character in the world. If you die, the campaign ends.",
-    "translation": "如果你选择“独狼”起源，则你将拥有一个玩家角色。如果你死了，这个游戏就结束了。",
-    "stage": 5,
+    "translation": "在“独狼”起源游戏中，你将拥有一个玩家角色。如果你死了，游戏就结束了。",
+    "stage": 1,
     "context": "\"With the 'Lone Wolf' origin you'll have a player character in the world. If you die, the campaign ends.\""
   },
   {
@@ -67,7 +67,7 @@
     "ID": 293410223,
     "key": "With the 'Trading Caravan' origin you'll get better prices for both buying and selling.",
     "original": "With the 'Trading Caravan' origin you'll get better prices for both buying and selling.",
-    "translation": "如果选择了“贸易队商”起源，则你在买入和卖出物品时都能获得更好的价格。",
+    "translation": "在“贸易商队”起源游戏中，你能获得更好的买入和卖出价格。",
     "stage": 1,
     "context": "\"With the 'Trading Caravan' origin you'll get better prices for both buying and selling.\""
   },
@@ -123,7 +123,7 @@
     "ID": 293410230,
     "key": "With the 'Peasant Militia' origin you can take up to 16 men into battle at once.",
     "original": "With the 'Peasant Militia' origin you can take up to 16 men into battle at once.",
-    "translation": "选择“农民民兵”这一背景，则你可以一次带领最多16名士兵参加战斗。",
+    "translation": "在“农民民兵”起源游戏中，你可以将至多16人投入同一场战斗。",
     "stage": 1,
     "context": "\"With the 'Peasant Militia' origin you can take up to 16 men into battle at once.\""
   },

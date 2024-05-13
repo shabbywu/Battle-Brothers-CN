@@ -123,7 +123,7 @@
     "ID": 293408843,
     "key": "{Let's talk money. | How much is this worth to you? | What will the pay be?}",
     "original": "{Let's talk money. | How much is this worth to you? | What will the pay be?}",
-    "translation": "{我们来谈谈价钱。 | 这对你来说值多少钱？ | 报酬如何？}",
+    "translation": "{谈谈价钱吧。 | 对你来说值多少？ | 报酬如何？}",
     "stage": 1,
     "context": "Text = \"{Let's talk money. | How much is this worth to you? | What will the pay be?}\""
   },

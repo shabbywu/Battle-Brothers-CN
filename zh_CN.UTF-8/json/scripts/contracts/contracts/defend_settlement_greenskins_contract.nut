@@ -59,7 +59,7 @@
     "ID": 293408432,
     "key": "{What is %townname% prepared to pay for their safety? | This should be worth a good amount of crowns to you, right? | Fighting greenskins won't come cheap.}",
     "original": "{What is %townname% prepared to pay for their safety? | This should be worth a good amount of crowns to you, right? | Fighting greenskins won't come cheap.}",
-    "translation": "{%townname%为了他们的安全准备好支付多少报酬？ | 这应该对你来说值不少克朗，对吧？ | 对抗绿皮族可不便宜。}",
+    "translation": "{%townname%愿拿多少买个安生？ | 对你来说值不少钱，对吧? | 对抗绿皮可不便宜。}",
     "stage": 1,
     "context": "Text = \"{What is %townname% prepared to pay for their safety? | This should be worth a good amount of crowns to you, right? | Fighting greenskins won't come cheap.}\""
   },

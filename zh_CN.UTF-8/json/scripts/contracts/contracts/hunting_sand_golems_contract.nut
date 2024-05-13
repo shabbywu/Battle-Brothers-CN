@@ -91,7 +91,7 @@
     "ID": 293409160,
     "key": "{I'm interested, go on. | Hunting down an enemy like this doesn't come cheap. | This is going to cost you. | Hunting a mirage in the desert. What is not to like. | The %companyname% can help, for the right price.}",
     "original": "{I'm interested, go on. | Hunting down an enemy like this doesn't come cheap. | This is going to cost you. | Hunting a mirage in the desert. What is not to like. | The %companyname% can help, for the right price.}",
-    "translation": "{我很感兴趣，继续。 | 捕猎这样的敌人可不便宜。 | 这需要你花费一些。 | 在沙漠中追捕幻象。 有什么不喜欢的呢。 | %companyname% 可以提供帮助，只要价格合适。}",
+    "translation": "{有意思，继续。 | 猎杀这样的敌人可不便宜。 | 这会花不少钱。 | 在沙漠中追捕幻象。这可不怎么招人喜欢。 | %companyname%可以帮忙，只要价钱合适。}",
     "stage": 1,
     "context": "Text = \"{I'm interested, go on. | Hunting down an enemy like this doesn't come cheap. | This is going to cost you. | Hunting a mirage in the desert. What is not to like. | The %companyname% can help, for the right price.}\""
   },

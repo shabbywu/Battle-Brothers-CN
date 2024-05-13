@@ -267,7 +267,7 @@
     "ID": 293408403,
     "key": "{What is %townname% prepared to pay for their safety? | This should be worth a good amount of crowns to you, right?}",
     "original": "{What is %townname% prepared to pay for their safety? | This should be worth a good amount of crowns to you, right?}",
-    "translation": "{%townname%为了他们的安全准备好付出多少代价？ | 这对你来说应该值不少克朗，对吧?}",
+    "translation": "{%townname%愿拿多少买个安生？ | 对你来说值不少钱，对吧?}",
     "stage": 1,
     "context": "Text = '{What is %townname% prepared to pay for their safety? | This should be worth a good amount of crowns to you, right?}'"
   },

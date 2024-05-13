@@ -11,8 +11,8 @@
     "ID": 293409436,
     "key": " crowns on completion",
     "original": " crowns on completion",
-    "translation": " 克朗于合同完成之后",
-    "stage": 5,
+    "translation": "克朗会在事成之后付清",
+    "stage": 1,
     "context": "this.Contract.m.BulletpointsPayment.push('Get ' + this.Contract.m.Payment.getOnCompletion() + ' crowns on completion')"
   },
   {
@@ -43,8 +43,8 @@
     "ID": 293409440,
     "key": " crowns in advance",
     "original": " crowns in advance",
-    "translation": " 克朗预付款",
-    "stage": 5,
+    "translation": "克朗作为预付",
+    "stage": 1,
     "context": "this.Contract.m.BulletpointsPayment.push('Get ' + this.Contract.m.Payment.getInAdvance() + ' crowns in advance')"
   },
   {
@@ -131,8 +131,8 @@
     "ID": 293409451,
     "key": "Get ",
     "original": "Get ",
-    "translation": "得到",
-    "stage": 5,
+    "translation": "酬金",
+    "stage": 1,
     "context": "this.Contract.m.BulletpointsPayment.push('Get ' + this.Contract.m.Payment.getInAdvance() + ' crowns in advance')"
   },
   {
@@ -307,7 +307,7 @@
     "ID": 293409473,
     "key": "{We could hunt them down if the pay is right. | Fighting greenskins doesn't come cheap. | Let's talk crowns.}",
     "original": "{We could hunt them down if the pay is right. | Fighting greenskins doesn't come cheap. | Let's talk crowns.}",
-    "translation": "{如果报酬合适，我们可以猎杀他们。 | 和绿皮作战可不便宜。 | 我们来谈谈克朗。}",
+    "translation": "{我们猎杀他们，只要价钱合适。 | 对抗绿皮可不便宜。 | 让克朗说话。}",
     "stage": 1,
     "context": "Text = \"{We could hunt them down if the pay is right. | Fighting greenskins doesn't come cheap. | Let's talk crowns.}\""
   },

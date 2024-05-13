@@ -51,16 +51,16 @@
     "ID": 293422851,
     "key": "Did not get paid",
     "original": "Did not get paid",
-    "translation": "没有得到工资",
-    "stage": 5,
+    "translation": "没拿到工钱",
+    "stage": 1,
     "context": "bro.worsenMood(this.Const.MoodChange.NotPaid, 'Did not get paid')"
   },
   {
     "ID": 293422852,
     "key": "Did go hungry",
     "original": "Did go hungry",
-    "translation": "总挨饿",
-    "stage": 5,
+    "translation": "实在是饿了",
+    "stage": 1,
     "context": "bro.worsenMood(this.Const.MoodChange.NotEatenGluttonous, 'Did go hungry')"
   },
   {
@@ -179,8 +179,8 @@
     "ID": 293422867,
     "key": "Has enjoyed the visit to ",
     "original": "Has enjoyed the visit to ",
-    "translation": "喜欢访问",
-    "stage": 5,
+    "translation": "乐于造访",
+    "stage": 1,
     "context": "bro.improveMood(this.Const.MoodChange.NearCity, 'Has enjoyed the visit to ' + town.getName())"
   },
   {

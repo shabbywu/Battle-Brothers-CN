@@ -3,8 +3,8 @@
     "ID": 293410584,
     "key": "Workshop",
     "original": "Workshop",
-    "translation": "作坊",
-    "stage": 5,
+    "translation": "工坊",
+    "stage": 1,
     "context": "this.m.Name = 'Workshop'"
   },
   {

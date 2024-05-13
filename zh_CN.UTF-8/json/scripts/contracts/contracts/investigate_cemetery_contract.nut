@@ -11,8 +11,8 @@
     "ID": 293409346,
     "key": "Let's talk money.",
     "original": "Let's talk money.",
-    "translation": "我们来谈谈价钱。",
-    "stage": 5,
+    "translation": "谈谈价钱吧。",
+    "stage": 1,
     "context": "Text = \"Let's talk money.\""
   },
   {

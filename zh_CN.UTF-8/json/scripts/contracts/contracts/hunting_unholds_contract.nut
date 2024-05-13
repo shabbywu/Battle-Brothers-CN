@@ -211,7 +211,7 @@
     "ID": 293409261,
     "key": "{Fighting giants won't come cheap. | The %companyname% can help for the right price. | Let's talk crowns.}",
     "original": "{Fighting giants won't come cheap. | The %companyname% can help for the right price. | Let's talk crowns.}",
-    "translation": "{与巨人战斗可不便宜。 | 价钱合适，%companyname% 就能帮上忙。 | 我们来谈谈克朗。}",
+    "translation": "{与巨人战斗可不便宜。 | %companyname%可以帮忙，只要价钱合适。 | 让克朗说话。}",
     "stage": 1,
     "context": "Text = \"{Fighting giants won't come cheap. | The %companyname% can help for the right price. | Let's talk crowns.}\""
   },

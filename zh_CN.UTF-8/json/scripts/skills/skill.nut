@@ -227,8 +227,8 @@
     "ID": 293422198,
     "key": "Target on bad terrain",
     "original": "Target on bad terrain",
-    "translation": "恶劣地形上的目标",
-    "stage": 5,
+    "translation": "目标位于恶劣地形",
+    "stage": 1,
     "context": "text = 'Target on bad terrain'"
   },
   {
@@ -339,8 +339,8 @@
     "ID": 293422212,
     "key": "On bad terrain",
     "original": "On bad terrain",
-    "translation": "处于恶劣地形",
-    "stage": 5,
+    "translation": "位于恶劣地形",
+    "stage": 1,
     "context": "text = 'On bad terrain'"
   },
   {

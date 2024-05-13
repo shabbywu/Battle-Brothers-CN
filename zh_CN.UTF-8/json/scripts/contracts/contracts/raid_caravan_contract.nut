@@ -259,8 +259,8 @@
     "ID": 293409670,
     "key": "{What's this worth to you? | Let's talk pay.}",
     "original": "{What's this worth to you? | Let's talk pay.}",
-    "translation": "{这对你来说值多少钱？ | 我们来谈谈酬劳。}",
-    "stage": 5,
+    "translation": "{对你来说值多少？ | 谈谈报酬吧。}",
+    "stage": 1,
     "context": "Text = \"{What's this worth to you? | Let's talk pay.}\""
   },
   {

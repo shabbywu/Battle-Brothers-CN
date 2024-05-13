@@ -115,7 +115,7 @@
     "ID": 293416972,
     "key": "You set free an evil spirit",
     "original": "You set free an evil spirit",
-    "translation": "你释放了一个邪灵",
+    "translation": "你放走了一个邪灵",
     "stage": 1,
     "context": "bro.worsenMood(1.0, 'You set free an evil spirit')"
   },
@@ -131,7 +131,7 @@
     "ID": 293416974,
     "key": "Let's free her.",
     "original": "Let's free her.",
-    "translation": "让我们释放她。",
+    "translation": "把她放了。",
     "stage": 1,
     "context": "Text = \"Let's free her.\""
   },
@@ -211,7 +211,7 @@
     "ID": 293416984,
     "key": " freed a witch",
     "original": " freed a witch",
-    "translation": " 释放了一个女巫",
+    "translation": "放走了一名女巫",
     "stage": 1,
     "context": "bro.worsenMood(1.0, _event.m.Cultist.getName() + ' freed a witch')"
   },
