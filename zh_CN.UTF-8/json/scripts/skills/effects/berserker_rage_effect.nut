@@ -3,7 +3,7 @@
     "ID": 293421426,
     "key": "Rage",
     "original": "Rage",
-    "translation": "愤怒",
+    "translation": "狂怒",
     "stage": 1,
     "context": "this.m.Name = 'Rage'"
   },

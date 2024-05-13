@@ -35,7 +35,7 @@
     "ID": 293413082,
     "key": "Free that man!",
     "original": "Free that man!",
-    "translation": "放了那个人！",
+    "translation": "把他放了！",
     "stage": 1,
     "context": "Text = 'Free that man!'"
   },

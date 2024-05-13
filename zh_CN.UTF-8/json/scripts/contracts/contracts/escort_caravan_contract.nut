@@ -659,8 +659,8 @@
     "ID": 293408827,
     "key": "{Let's talk money. | How many crowns are we talking about? | What does it pay?}",
     "original": "{Let's talk money. | How many crowns are we talking about? | What does it pay?}",
-    "translation": "{我们来谈谈价钱。 | 你愿意为此出多少克朗？ | 报酬是多少？}",
-    "stage": 5,
+    "translation": "{谈谈价钱吧。 | 多大的生意？ | 报酬如何？}",
+    "stage": 1,
     "context": "Text = \"{Let's talk money. | How many crowns are we talking about? | What does it pay?}\""
   }
 ]

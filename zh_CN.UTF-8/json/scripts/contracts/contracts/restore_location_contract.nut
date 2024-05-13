@@ -131,8 +131,8 @@
     "ID": 293409746,
     "key": "{Sounds easy enough. | Let's talk crowns.}",
     "original": "{Sounds easy enough. | Let's talk crowns.}",
-    "translation": "{听起来挺简单。 | 我们来谈谈克朗。}",
-    "stage": 5,
+    "translation": "{听起来挺简单。 | 让克朗说话。}",
+    "stage": 1,
     "context": "Text = \"{Sounds easy enough. | Let's talk crowns.}\""
   },
   {

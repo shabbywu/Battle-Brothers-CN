@@ -107,7 +107,7 @@
     "ID": 293408563,
     "key": "{Fighting orcs won't come cheap. | I trust you'll pay amply for this. | Let's talk money.}",
     "original": "{Fighting orcs won't come cheap. | I trust you'll pay amply for this. | Let's talk money.}",
-    "translation": "{对抗兽人可不便宜。 | 我相信你会丰厚支付。 | 谈谈钱。}",
+    "translation": "{对抗兽人可不便宜。 | 相信你会给得丰厚。 | 谈谈价钱吧。}",
     "stage": 1,
     "context": "Text = \"{Fighting orcs won't come cheap. | I trust you'll pay amply for this. | Let's talk money.}\""
   },

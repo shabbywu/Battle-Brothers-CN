@@ -123,7 +123,7 @@
     "ID": 293408640,
     "key": "We're not getting paid for killing them.",
     "original": "We're not getting paid for killing them.",
-    "translation": "杀了他们也没人多给我们钱。",
+    "translation": "杀了他们也没人多给钱。",
     "stage": 1,
     "context": "Text = \"We're not getting paid for killing them.\""
   },
@@ -243,8 +243,8 @@
     "ID": 293408655,
     "key": "We have more important things to take care of.",
     "original": "We have more important things to take care of.",
-    "translation": "我们有更重要的事要做。",
-    "stage": 5,
+    "translation": "还有更要紧的事等着我们。",
+    "stage": 1,
     "context": "Text = 'We have more important things to take care of.'"
   },
   {
@@ -307,8 +307,8 @@
     "ID": 293408663,
     "key": "{How many crowns are we talking about? | What is %townname% prepared to pay for their safety? | Let's talk money.}",
     "original": "{How many crowns are we talking about? | What is %townname% prepared to pay for their safety? | Let's talk money.}",
-    "translation": "{你愿意为此出多少克朗？ | %townname%准备为他们的安全付多少？ | 我们来谈谈价钱。}",
-    "stage": 5,
+    "translation": "{多大的生意？ | %townname%愿拿多少买个安生？ | 谈谈价钱吧。}",
+    "stage": 1,
     "context": "Text = \"{How many crowns are we talking about? | What is %townname% prepared to pay for their safety? | Let's talk money.}\""
   },
   {

@@ -19,8 +19,8 @@
     "ID": 293421136,
     "key": "Songbird",
     "original": "Songbird",
-    "translation": "歌鸟(Songbird)",
-    "stage": 5,
+    "translation": "百灵鸟",
+    "stage": 1,
     "context": "'Songbird'"
   },
   {

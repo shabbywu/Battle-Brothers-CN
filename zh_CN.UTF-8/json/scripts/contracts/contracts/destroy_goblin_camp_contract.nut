@@ -171,7 +171,7 @@
     "ID": 293408547,
     "key": "{Fighting goblins won't come cheap. | I trust you'll pay amply for this. | Let's talk money.}",
     "original": "{Fighting goblins won't come cheap. | I trust you'll pay amply for this. | Let's talk money.}",
-    "translation": "{对抗地精可不是件容易的事。 | 我相信你会丰厚地支付报酬。 | 让我们谈钱。}",
+    "translation": "{对抗地精可不便宜。 | 相信你会给得丰厚。 | 谈谈价钱吧。}",
     "stage": 1,
     "context": "Text = \"{Fighting goblins won't come cheap. | I trust you'll pay amply for this. | Let's talk money.}\""
   },

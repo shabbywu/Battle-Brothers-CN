@@ -3,7 +3,7 @@
     "ID": 293409390,
     "key": "{How much is this worth to you? | We can defend %objective% for the right price...}",
     "original": "{How much is this worth to you? | We can defend %objective% for the right price...}",
-    "translation": "{这对你来说值多少钱？ | 只要给合理的价格, 我们可以协助守护 %objective%...}",
+    "translation": "{对你来说值多少？ | 只要价钱合适，我们来守护%objective%...}",
     "stage": 1,
     "context": "Text = '{How much is this worth to you? | We can defend %objective% for the right price...}'"
   },

@@ -203,7 +203,7 @@
     "ID": 293409230,
     "key": "Let's be done with this, we have crowns to collect.",
     "original": "Let's be done with this, we have crowns to collect.",
-    "translation": "赶紧结束这件事吧，我们还有克朗要拿。",
+    "translation": "赶快完事吧，还有钱等着呢。",
     "stage": 1,
     "context": "Text = \"Let's be done with this, we have crowns to collect.\""
   },

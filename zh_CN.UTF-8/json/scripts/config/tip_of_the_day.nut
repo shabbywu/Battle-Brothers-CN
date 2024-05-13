@@ -19,7 +19,7 @@
     "ID": 293406859,
     "key": "Some parts of the world are more dangerous than others.",
     "original": "Some parts of the world are more dangerous than others.",
-    "translation": "世界上有些地方比其他地方更危险。",
+    "translation": "世界各地凶险程度不一。",
     "stage": 1,
     "context": "'Some parts of the world are more dangerous than others.'"
   },
@@ -27,7 +27,7 @@
     "ID": 293406860,
     "key": "Surrounding an opponent from multiple sides makes it easier to score a hit.",
     "original": "Surrounding an opponent from multiple sides makes it easier to score a hit.",
-    "translation": "从多方面包围对手可以更容易地击中。",
+    "translation": "被多面包围的对手更容易命中。",
     "stage": 1,
     "context": "'Surrounding an opponent from multiple sides makes it easier to score a hit.'"
   },
@@ -35,7 +35,7 @@
     "ID": 293406861,
     "key": "Orc Berserkers gain rage and get tougher to take down, the more blood they have drawn.",
     "original": "Orc Berserkers gain rage and get tougher to take down, the more blood they have drawn.",
-    "translation": "兽人狂暴者失去更多的血就会更愤怒，并且变得更难被击倒。",
+    "translation": "兽人狂战士获得的鲜血越多，就越为狂怒，越难击倒。",
     "stage": 1,
     "context": "'Orc Berserkers gain rage and get tougher to take down, the more blood they have drawn.'"
   },
@@ -51,7 +51,7 @@
     "ID": 293406863,
     "key": "Daggers can be used to attack weak spots in armor and deal damage directly to hitpoints.",
     "original": "Daggers can be used to attack weak spots in armor and deal damage directly to hitpoints.",
-    "translation": "匕首可以用来攻击盔甲中的弱点，并直接对生命值造成伤害。",
+    "translation": "可以用匕首攻击盔甲的弱点，直接对生命值造成伤害。",
     "stage": 1,
     "context": "'Daggers can be used to attack weak spots in armor and deal damage directly to hitpoints.'"
   },
@@ -59,7 +59,7 @@
     "ID": 293406864,
     "key": "Heavy helmets can be hard to breathe in and limit the field of vision.",
     "original": "Heavy helmets can be hard to breathe in and limit the field of vision.",
-    "translation": "重型头盔会让人呼吸困难，还限制了视野。",
+    "translation": "重型头盔会让人呼吸困难，视野受限。",
     "stage": 1,
     "context": "'Heavy helmets can be hard to breathe in and limit the field of vision.'"
   },
@@ -67,7 +67,7 @@
     "ID": 293406865,
     "key": "Try playing a campaign in veteran mode once you've gained some experience - it's the recommended difficulty.",
     "original": "Try playing a campaign in veteran mode once you've gained some experience - it's the recommended difficulty.",
-    "translation": "一旦你获得了一些经验，试着在老兵模式下打一场战役，这是推荐的难度。",
+    "translation": "积累了一些经验后，试着开一局老兵难度游戏，这是推荐的难度。",
     "stage": 1,
     "context": "\"Try playing a campaign in veteran mode once you've gained some experience - it's the recommended difficulty.\""
   },
@@ -91,7 +91,7 @@
     "ID": 293406868,
     "key": "Roads are the fastest way to travel over land, but not always the safest.",
     "original": "Roads are the fastest way to travel over land, but not always the safest.",
-    "translation": "道路是陆地上最快的旅行方式，但并不总是最安全的。",
+    "translation": "道路是最快的陆路移动方式，但并不总是最安全的。",
     "stage": 1,
     "context": "'Roads are the fastest way to travel over land, but not always the safest.'"
   },
@@ -99,7 +99,7 @@
     "ID": 293406869,
     "key": "The 'Fast Adaptation' perk reduces variance of randomness.",
     "original": "The 'Fast Adaptation' perk reduces variance of randomness.",
-    "translation": "“快速适应”特技减少了随机性的变化。",
+    "translation": "“快速适应”特技可以减少随机性的影响。",
     "stage": 1,
     "context": "\"The 'Fast Adaptation' perk reduces variance of randomness.\""
   },
@@ -107,7 +107,7 @@
     "ID": 293406870,
     "key": "Longswords and Greatswords can hit multiple targets with one strike.",
     "original": "Longswords and Greatswords can hit multiple targets with one strike.",
-    "translation": "长剑和大剑可以一次击中多个目标。",
+    "translation": "长剑和大剑可以一次命中多个目标。",
     "stage": 1,
     "context": "'Longswords and Greatswords can hit multiple targets with one strike.'"
   },
@@ -115,7 +115,7 @@
     "ID": 293406871,
     "key": "Use terrain and chokepoints to your advantage.",
     "original": "Use terrain and chokepoints to your advantage.",
-    "translation": "利用地势和咽喉要道来取得优势。",
+    "translation": "利用地势和咽喉要道来抢占先机。",
     "stage": 1,
     "context": "'Use terrain and chokepoints to your advantage.'"
   },
@@ -147,7 +147,7 @@
     "ID": 293406875,
     "key": "Use the spacebar key to pause on the worldmap.",
     "original": "Use the spacebar key to pause on the worldmap.",
-    "translation": "使用空格键在世界地图上暂停。",
+    "translation": "在世界地图上时，按空格键可以暂停时间流逝。",
     "stage": 1,
     "context": "'Use the spacebar key to pause on the worldmap.'"
   },
@@ -163,15 +163,15 @@
     "ID": 293406877,
     "key": "Nobles give contracts only to mercenary companies with professional renown.",
     "original": "Nobles give contracts only to mercenary companies with professional renown.",
-    "translation": "贵族只向达到“素养专业”名望的雇佣兵战团提供合同。",
-    "stage": 5,
+    "translation": "贵族只会向达到“得心应手”名望的佣兵战团发布合同。",
+    "stage": 1,
     "context": "'Nobles give contracts only to mercenary companies with professional renown.'"
   },
   {
     "ID": 293406878,
     "key": "Difficult terrain, such as mountains and swamp, has your men use more supplies on the worldmap.",
     "original": "Difficult terrain, such as mountains and swamp, has your men use more supplies on the worldmap.",
-    "translation": "恶劣地形，如高山和沼泽，会让你的人在世界地图上使用更多的补给。",
+    "translation": "在世界地图上，诸如高山沼泽等复杂地形，会提高你的人的食物消耗。",
     "stage": 1,
     "context": "'Difficult terrain, such as mountains and swamp, has your men use more supplies on the worldmap.'"
   },
@@ -179,7 +179,7 @@
     "ID": 293406879,
     "key": "Your men will interact with each other differently depending on their backgrounds and traits.",
     "original": "Your men will interact with each other differently depending on their backgrounds and traits.",
-    "translation": "你的人会根据他们的背景和特性不同进行相互交流。",
+    "translation": "根据背景和特性的不同，你的人的互动行为也会不同。",
     "stage": 1,
     "context": "'Your men will interact with each other differently depending on their backgrounds and traits.'"
   },
@@ -187,7 +187,7 @@
     "ID": 293406880,
     "key": "Try the Ironman mode to experience Battle Brothers the way it's meant to be played.",
     "original": "Try the Ironman mode to experience Battle Brothers the way it's meant to be played.",
-    "translation": "尝试用铁人模式体验战场兄弟的游戏方式。",
+    "translation": "尝试铁人模式，体验战场兄弟的真正玩法。",
     "stage": 1,
     "context": "\"Try the Ironman mode to experience Battle Brothers the way it's meant to be played.\""
   },
@@ -203,7 +203,7 @@
     "ID": 293406882,
     "key": "Fortifications will only offer you contracts from the noble house that owns them.",
     "original": "Fortifications will only offer you contracts from the noble house that owns them.",
-    "translation": "防御工事只会提供给你来自拥有他们的贵族家族的合同。",
+    "translation": "防御据点只提供当地统治家族的合同。",
     "stage": 1,
     "context": "'Fortifications will only offer you contracts from the noble house that owns them.'"
   },
@@ -219,7 +219,7 @@
     "ID": 293406884,
     "key": "If contract negotiations turn sour, it will damage your relations with your potential employer.",
     "original": "If contract negotiations turn sour, it will damage your relations with your potential employer.",
-    "translation": "如果合同谈判失败，将损害你与潜在雇主的关系。",
+    "translation": "失败的合同谈判会损害你与潜在雇主的关系。",
     "stage": 1,
     "context": "'If contract negotiations turn sour, it will damage your relations with your potential employer.'"
   },
@@ -227,7 +227,7 @@
     "ID": 293406885,
     "key": "A 95% chance to hit is also a 5% chance to miss.",
     "original": "A 95% chance to hit is also a 5% chance to miss.",
-    "translation": "95% 的命中率也是 5% 的失败率。",
+    "translation": "95%的命中率意味着5%的失手率。",
     "stage": 1,
     "context": "'A 95% chance to hit is also a 5% chance to miss.'"
   },
@@ -251,15 +251,15 @@
     "ID": 293406888,
     "key": "Geists test the resolve of your men - the lower, the more likely they are to panic and flee.",
     "original": "Geists test the resolve of your men - the lower, the more likely they are to panic and flee.",
-    "translation": "幽灵考验你的人的决心－越低，他们越有可能恐慌和逃跑。",
-    "stage": 5,
+    "translation": "幽灵考验着你的人的决心 —— 决心越低，他们越有可能恐慌、逃跑。",
+    "stage": 1,
     "context": "'Geists test the resolve of your men - the lower, the more likely they are to panic and flee.'"
   },
   {
     "ID": 293406889,
     "key": "Make camp to have your men heal and repair their equipment faster.",
     "original": "Make camp to have your men heal and repair their equipment faster.",
-    "translation": "扎营让你的人更快的恢复和修理他们的装备。",
+    "translation": "扎营让你的人能更快恢复并修好装备。",
     "stage": 1,
     "context": "'Make camp to have your men heal and repair their equipment faster.'"
   },
@@ -307,7 +307,7 @@
     "ID": 293406895,
     "key": "Some difficult terrain, like swamp, gives combat penalties.",
     "original": "Some difficult terrain, like swamp, gives combat penalties.",
-    "translation": "一些恶劣地形，如沼泽地，会带来战斗减益。",
+    "translation": "一些复杂地形，如沼泽地，会带来战斗减益。",
     "stage": 1,
     "context": "'Some difficult terrain, like swamp, gives combat penalties.'"
   },

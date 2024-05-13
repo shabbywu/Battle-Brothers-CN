@@ -227,7 +227,7 @@
     "ID": 293410075,
     "key": "Get 400 crowns on completion",
     "original": "Get 400 crowns on completion",
-    "translation": "完成时获得400克朗",
+    "translation": "事成之后，获得400克朗",
     "stage": 1,
     "context": "'Get 400 crowns on completion'"
   },
@@ -267,8 +267,8 @@
     "ID": 293410080,
     "key": "Gained confidence in your leadership",
     "original": "Gained confidence in your leadership",
-    "translation": "对你的领导能力有了信心",
-    "stage": 5,
+    "translation": "越发相信你的领导能力",
+    "stage": 1,
     "context": "bro.improveMood(0.25, 'Gained confidence in your leadership')"
   },
   {

@@ -11,8 +11,8 @@
     "ID": 293416632,
     "key": "You lose [color=",
     "original": "You lose [color=",
-    "translation": "你失去了 [color=",
-    "stage": 5,
+    "translation": "你失去了[color=",
+    "stage": 1,
     "context": "text = 'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']-' + food + '[/color] Provisions'"
   },
   {
@@ -43,7 +43,7 @@
     "ID": 293416636,
     "key": "[/color] Provisions",
     "original": "[/color] Provisions",
-    "translation": "[/color] 军粮",
+    "translation": "[/color]点食物",
     "stage": 1,
     "context": "text = 'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']-' + food + '[/color] Provisions'"
   }

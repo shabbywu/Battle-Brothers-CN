@@ -131,7 +131,7 @@
     "ID": 293409499,
     "key": "{You did right by coming to us. Let's talk payment. | Let's talk money. | Sounds simple enough. What's the pay?}",
     "original": "{You did right by coming to us. Let's talk payment. | Let's talk money. | Sounds simple enough. What's the pay?}",
-    "translation": "{你来找我们是对的。 我们来谈谈报酬。 | 我们来谈谈价钱。 | 听起来很简单。 多少报酬？}",
+    "translation": "{找我们准没错。谈谈报酬吧。 | 谈谈价钱吧。 | 听起来很简单。报酬如何？}",
     "stage": 1,
     "context": "Text = \"{You did right by coming to us. Let's talk payment. | Let's talk money. | Sounds simple enough. What's the pay?}\""
   },

@@ -11,7 +11,7 @@
     "ID": 293416755,
     "key": "A Band of Poachers",
     "original": "A Band of Poachers",
-    "translation": "偷猎者团队",
+    "translation": "偷猎团",
     "stage": 1,
     "context": "this.m.Title = 'A Band of Poachers'"
   },

@@ -347,8 +347,8 @@
     "ID": 293408711,
     "key": "{How many crowns are we talking about? | What is %townname% prepared to pay for their safety? | Let's talk money.}",
     "original": "{How many crowns are we talking about? | What is %townname% prepared to pay for their safety? | Let's talk money.}",
-    "translation": "{你愿意为此出多少克朗？ | %townname%准备为他们的安全付多少？ | 我们来谈谈价钱。}",
-    "stage": 5,
+    "translation": "{多大的生意？ | %townname%愿拿多少买个安生？ | 谈谈价钱吧。}",
+    "stage": 1,
     "context": "Text = \"{How many crowns are we talking about? | What is %townname% prepared to pay for their safety? | Let's talk money.}\""
   },
   {

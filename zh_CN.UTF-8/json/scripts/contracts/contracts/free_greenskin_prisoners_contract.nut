@@ -323,7 +323,7 @@
     "ID": 293408975,
     "key": "{I trust you'll pay amply for this. | Let's talk money. | Everything can be done, if the pay is right.}",
     "original": "{I trust you'll pay amply for this. | Let's talk money. | Everything can be done, if the pay is right.}",
-    "translation": "{我相信你会为此付出很多。 | 我们来谈谈价钱。 | 如果报酬合适，一切都可以做。}",
+    "translation": "{相信你会给得丰厚。 | 谈谈价钱吧。 | 价钱合适，一切好说。}",
     "stage": 1,
     "context": "Text = \"{I trust you'll pay amply for this. | Let's talk money. | Everything can be done, if the pay is right.}\""
   },

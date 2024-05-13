@@ -155,7 +155,7 @@
     "ID": 293410027,
     "key": "Beat down the uprising of the indebted at the %location% near %townname%",
     "original": "Beat down the uprising of the indebted at the %location% near %townname%",
-    "translation": "击退负债者的起义在 %location% 附近是 %townname%",
+    "translation": "镇压%townname%%location%的负债者起义",
     "stage": 1,
     "context": "'Beat down the uprising of the indebted at the %location% near %townname%'"
   },

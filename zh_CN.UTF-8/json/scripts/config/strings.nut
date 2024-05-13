@@ -195,8 +195,8 @@
     "ID": 293405660,
     "key": "Protectorate of",
     "original": "Protectorate of",
-    "translation": "保护国·",
-    "stage": 5,
+    "translation": "藩属国·",
+    "stage": 1,
     "context": "'Protectorate of'"
   },
   {
@@ -5515,7 +5515,7 @@
     "ID": 293406325,
     "key": "Learn to move on difficult terrain. Action Point costs for movement on all terrain is reduced by [color=",
     "original": "Learn to move on difficult terrain. Action Point costs for movement on all terrain is reduced by [color=",
-    "translation": "学会在困难的地形上移动。 在所有地形上移动的行动点消耗减少 [color=",
+    "translation": "学会在复杂地形上移动。 所有地形上的移动行动点消耗减少 [color=",
     "stage": 1,
     "context": "Pathfinder = 'Learn to move on difficult terrain. Action Point costs for movement on all terrain is reduced by [color=' + this.Const.UI.Color.NegativeValue + ']-1[/color] to a minimum of 2 Action Points per tile, and Fatigue cost is reduced to half. Changing height levels also has no additional Action Point cost anymore.'"
   },

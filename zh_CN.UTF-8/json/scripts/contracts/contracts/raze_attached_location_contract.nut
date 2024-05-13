@@ -219,7 +219,7 @@
     "ID": 293409726,
     "key": "{Let's talk money. | How many crowns are we talking about? | What will the pay be? | For the right price, everything can be done.}",
     "original": "{Let's talk money. | How many crowns are we talking about? | What will the pay be? | For the right price, everything can be done.}",
-    "translation": "{我们来谈谈价钱。 | 你愿意为此出多少克朗？ | 报酬如何？ | 只要价钱合适，什么都办得到。}",
+    "translation": "{谈谈价钱吧。 | 多大的生意？ | 报酬如何？ | 价钱合适，一切好说。}",
     "stage": 1,
     "context": "Text = \"{Let's talk money. | How many crowns are we talking about? | What will the pay be? | For the right price, everything can be done.}\""
   },

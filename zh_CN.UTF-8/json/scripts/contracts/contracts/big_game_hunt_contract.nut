@@ -3,7 +3,7 @@
     "ID": 293407919,
     "key": "Hunt for Direwolves, Webknechts, Nachzehrers, Hyenas and Serpents around the %regiontype% region of %worldmapregion% (%killcount%/%maxcount%)",
     "original": "Hunt for Direwolves, Webknechts, Nachzehrers, Hyenas and Serpents around the %regiontype% region of %worldmapregion% (%killcount%/%maxcount%)",
-    "translation": "在%worldmapregion%的%regiontype% 区域猎杀恐狼、蛛魔、食尸鬼、鬣狗和大蛇(%killcount%/%maxcount%)",
+    "translation": "在%worldmapregion%的%regiontype%区域猎杀恐狼、蛛魔、食尸鬼、鬣狗和大蛇(%killcount%/%maxcount%)",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.push('Hunt for Direwolves, Webknechts, Nachzehrers, Hyenas and Serpents around the %regiontype% region of %worldmapregion% (%killcount%/%maxcount%)')"
   },
@@ -27,7 +27,7 @@
     "ID": 293407922,
     "key": "Hunt for Schrats and Lindwurms around the %regiontype% region of %worldmapregion% (%killcount%/%maxcount%)",
     "original": "Hunt for Schrats and Lindwurms around the %regiontype% region of %worldmapregion% (%killcount%/%maxcount%)",
-    "translation": "在 %worldmapregion% 的 %regiontype% 区域猎杀树人和林德蠕龙  (%killcount%/%maxcount%)",
+    "translation": "在%worldmapregion%的%regiontype%区域猎杀树人和林德蠕龙(%killcount%/%maxcount%)",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.push('Hunt for Schrats and Lindwurms around the %regiontype% region of %worldmapregion% (%killcount%/%maxcount%)')"
   },
@@ -35,7 +35,7 @@
     "ID": 293407923,
     "key": "Hunt around the %regiontype% region of %worldmapregion% and other regions",
     "original": "Hunt around the %regiontype% region of %worldmapregion% and other regions",
-    "translation": "在 %worldmapregion% 的%regiontype% 区域周围或其他地区猎杀目标",
+    "translation": "在%worldmapregion%的%regiontype%区域或其他地区猎杀目标",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.push('Hunt around the %regiontype% region of %worldmapregion% and other regions')"
   },
@@ -51,7 +51,7 @@
     "ID": 293407925,
     "key": "Hunt for Alps, Unholds and Hexen around the %regiontype% region of %worldmapregion% (%killcount%/%maxcount%)",
     "original": "Hunt for Alps, Unholds and Hexen around the %regiontype% region of %worldmapregion% (%killcount%/%maxcount%)",
-    "translation": "在 %worldmapregion%的 %regiontype% 区域猎杀梦魇、巨魔和女巫 (%killcount%/%maxcount%)",
+    "translation": "在%worldmapregion%的%regiontype%区域猎杀梦魇、巨魔和女巫(%killcount%/%maxcount%)",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.push('Hunt for Alps, Unholds and Hexen around the %regiontype% region of %worldmapregion% (%killcount%/%maxcount%)')"
   },
@@ -91,8 +91,8 @@
     "ID": 293407930,
     "key": "You gain [color=",
     "original": "You gain [color=",
-    "translation": "你获得了 [color=",
-    "stage": 5,
+    "translation": "你获得了[color=",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + money + '[/color] Crowns'"
   },
   {
@@ -131,8 +131,8 @@
     "ID": 293407935,
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
-    "translation": "[/color] 克朗",
-    "stage": 5,
+    "translation": "[/color]克朗",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + money + '[/color] Crowns'"
   },
   {
@@ -171,7 +171,7 @@
     "ID": 293407940,
     "key": "{How many crowns are we talking about here? | That's no small feat to ask. | I could be persuaded for the right price. | A task like this better pay well. | How much is the safety of your subjects worth to you?}",
     "original": "{How many crowns are we talking about here? | That's no small feat to ask. | I could be persuaded for the right price. | A task like this better pay well. | How much is the safety of your subjects worth to you?}",
-    "translation": "{我们来谈谈多少克朗？ | 这可不是一件小事。 | 我需要更合适的价格。 | 像这样的工作需要更高的报酬。 | 你的臣民的安全对你来说值多少钱？}",
+    "translation": "{多大的生意？ | 这可不是件小事。 | 只要价钱合适。 | 这恐怕要多花点。 | 你臣民的安全值多少？}",
     "stage": 1,
     "context": "Text = \"{How many crowns are we talking about here? | That's no small feat to ask. | I could be persuaded for the right price. | A task like this better pay well. | How much is the safety of your subjects worth to you?}\""
   },
@@ -179,7 +179,7 @@
     "ID": 293407941,
     "key": "{How many crowns are we talking about here? | I could be persuaded for the right price. | Go on. | How much is the safety of your subjects worth to you?}",
     "original": "{How many crowns are we talking about here? | I could be persuaded for the right price. | Go on. | How much is the safety of your subjects worth to you?}",
-    "translation": "{我们来谈谈多少克朗？ | 我需要更合适的价格。 | 继续。 | 你的臣民的安全对你来说值多少钱？}",
+    "translation": "{多大的生意？ | 只要价钱合适。 | 继续。 | 你臣民的安全值多少？}",
     "stage": 1,
     "context": "Text = '{How many crowns are we talking about here? | I could be persuaded for the right price. | Go on. | How much is the safety of your subjects worth to you?}'"
   },

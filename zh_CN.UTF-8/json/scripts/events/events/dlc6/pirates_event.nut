@@ -147,7 +147,7 @@
     "ID": 293414827,
     "key": "Let these men go free at once!",
     "original": "Let these men go free at once!",
-    "translation": "立刻释放他们！",
+    "translation": "马上放了他们！",
     "stage": 1,
     "context": "Text = 'Let these men go free at once!'"
   },

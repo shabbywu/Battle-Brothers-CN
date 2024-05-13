@@ -115,7 +115,7 @@
     "ID": 293421290,
     "key": "the Restrained",
     "original": "the Restrained",
-    "translation": "被监禁者(The Restrained)",
+    "translation": "受监者",
     "stage": 1,
     "context": "'the Restrained'"
   },

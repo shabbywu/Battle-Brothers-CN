@@ -43,7 +43,7 @@
     "ID": 293410161,
     "key": "With the 'Manhunters' origin you can make prisoners after every battle against humans and force them to fight for you.",
     "original": "With the 'Manhunters' origin you can make prisoners after every battle against humans and force them to fight for you.",
-    "translation": "选择“猎奴者”起源，你可以在每场与人类的战斗后俘虏他们，并迫使他们为你而战。",
+    "translation": "在“猎奴者”起源游戏中，在每场与人类的战斗之后，你都可以俘获敌人，强迫他们为你而战。",
     "stage": 1,
     "context": "\"With the 'Manhunters' origin you can make prisoners after every battle against humans and force them to fight for you.\""
   },
@@ -99,7 +99,7 @@
     "ID": 293410168,
     "key": "With the 'Gladiators' origin you start with three powerful characters, but losing all three will end your campaign.",
     "original": "With the 'Gladiators' origin you start with three powerful characters, but losing all three will end your campaign.",
-    "translation": "选择“角斗士”起源，你将开始拥有3个强大的角色，但失去全部3人将使你的战役结束。",
+    "translation": "在“角斗士”起源游戏中，你将拥有3个强大的初始角色，失去全部3人将使游戏结束。",
     "stage": 1,
     "context": "\"With the 'Gladiators' origin you start with three powerful characters, but losing all three will end your campaign.\""
   },
