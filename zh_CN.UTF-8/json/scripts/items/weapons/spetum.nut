@@ -11,7 +11,7 @@
     "ID": 293419437,
     "key": "Spetum",
     "original": "Spetum",
-    "translation": "三叉戟",
+    "translation": "三叉矛",
     "stage": 1,
     "context": "this.m.Name = 'Spetum'"
   },

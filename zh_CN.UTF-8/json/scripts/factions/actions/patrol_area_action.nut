@@ -11,8 +11,8 @@
     "ID": 293417323,
     "key": "Conscripted soldiers loyal to their city state.",
     "original": "Conscripted soldiers loyal to their city state.",
-    "translation": "忠于城邦的应征士兵们。",
-    "stage": 5,
+    "translation": "忠于城邦的应征士兵。",
+    "stage": 1,
     "context": "party.setDescription('Conscripted soldiers loyal to their city state.')"
   }
 ]

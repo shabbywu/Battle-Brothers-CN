@@ -35,8 +35,8 @@
     "ID": 293414247,
     "key": "You lose [color=",
     "original": "You lose [color=",
-    "translation": "你失去了 [color=",
-    "stage": 5,
+    "translation": "你失去了[color=",
+    "stage": 1,
     "context": "text = 'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']-' + amount + '[/color] Medical Supplies'"
   },
   {

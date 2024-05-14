@@ -75,8 +75,8 @@
     "ID": 293414851,
     "key": "]1,000[/color] Crowns",
     "original": "]1,000[/color] Crowns",
-    "translation": "]1,000[/color] 克朗",
-    "stage": 5,
+    "translation": "]1,000[/color]克朗",
+    "stage": 1,
     "context": "text = 'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']1,000[/color] Crowns'"
   },
   {
@@ -99,8 +99,8 @@
     "ID": 293414854,
     "key": "You lose [color=",
     "original": "You lose [color=",
-    "translation": "你失去了 [color=",
-    "stage": 5,
+    "translation": "你失去了[color=",
+    "stage": 1,
     "context": "text = 'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']1,000[/color] Crowns'"
   },
   {

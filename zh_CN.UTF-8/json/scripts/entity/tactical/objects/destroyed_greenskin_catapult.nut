@@ -11,7 +11,7 @@
     "ID": 293410358,
     "key": "This greenskin siege engine has been rendered unusable.",
     "original": "This greenskin siege engine has been rendered unusable.",
-    "translation": "在绿皮围攻下已无法使用。",
+    "translation": "失去作用的绿皮攻城器。",
     "stage": 1,
     "context": "return 'This greenskin siege engine has been rendered unusable.';"
   }

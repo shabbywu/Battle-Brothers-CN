@@ -35,7 +35,7 @@
     "ID": 293413275,
     "key": "]-2[/color] Medical Supplies.",
     "original": "]-2[/color] Medical Supplies.",
-    "translation": "]-2[/color] 医疗用品",
+    "translation": "]-2[/color]医疗用品",
     "stage": 1,
     "context": "text = 'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']-2[/color] Medical Supplies.'"
   },
@@ -171,8 +171,8 @@
     "ID": 293413292,
     "key": "You lose [color=",
     "original": "You lose [color=",
-    "translation": "你失去了 [color=",
-    "stage": 5,
+    "translation": "你失去了[color=",
+    "stage": 1,
     "context": "text = 'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']-2[/color] Medical Supplies.'"
   },
   {

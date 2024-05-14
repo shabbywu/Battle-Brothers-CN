@@ -11,7 +11,7 @@
     "ID": 293407946,
     "key": "A horde of greenskins marching to war.",
     "original": "A horde of greenskins marching to war.",
-    "translation": "一大群绿皮向战场进军。",
+    "translation": "奔赴战场的绿皮军团。",
     "stage": 1,
     "context": "party.setDescription('A horde of greenskins marching to war.')"
   },
@@ -19,7 +19,7 @@
     "ID": 293407947,
     "key": "Off we go!",
     "original": "Off we go!",
-    "translation": "我们走！",
+    "translation": "我们上！",
     "stage": 1,
     "context": "Text = 'Off we go!'"
   },
@@ -27,7 +27,7 @@
     "ID": 293407948,
     "key": "Near %objective%...",
     "original": "Near %objective%...",
-    "translation": "临近 %objective%…",
+    "translation": "%objective%附近…",
     "stage": 1,
     "context": "Title = 'Near %objective%...'"
   },
@@ -43,7 +43,7 @@
     "ID": 293407950,
     "key": "Break Siege",
     "original": "Break Siege",
-    "translation": "突破重围",
+    "translation": "解围",
     "stage": 1,
     "context": "this.m.Name = 'Break Siege'"
   },
@@ -51,7 +51,7 @@
     "ID": 293407951,
     "key": "A horde of greenskins and their siege engines.",
     "original": "A horde of greenskins and their siege engines.",
-    "translation": "一大群绿皮和他们的攻城车。",
+    "translation": "绿皮军团和他们的攻城器。",
     "stage": 1,
     "context": "party.setDescription('A horde of greenskins and their siege engines.')"
   },
@@ -75,15 +75,15 @@
     "ID": 293407954,
     "key": "Professional soldiers in service to local lords.",
     "original": "Professional soldiers in service to local lords.",
-    "translation": "为地方领主服务的职业军人。",
-    "stage": 5,
+    "translation": "听命于当地领主的职业军人。",
+    "stage": 1,
     "context": "party.setDescription('Professional soldiers in service to local lords.')"
   },
   {
     "ID": 293407955,
     "key": "Around %objective%",
     "original": "Around %objective%",
-    "translation": "%objective% 附近",
+    "translation": "%objective%周边",
     "stage": 1,
     "context": "Title = 'Around %objective%'"
   },
@@ -91,8 +91,8 @@
     "ID": 293407956,
     "key": "You gain [color=",
     "original": "You gain [color=",
-    "translation": "你获得了 [color=",
-    "stage": 5,
+    "translation": "你获得了[color=",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
@@ -115,7 +115,7 @@
     "ID": 293407959,
     "key": "%objective% is saved.",
     "original": "%objective% is saved.",
-    "translation": "%objective% 安全了。",
+    "translation": "%objective%得救了。",
     "stage": 1,
     "context": "Text = '%objective% is saved.'"
   },
@@ -147,7 +147,7 @@
     "ID": 293407963,
     "key": "Greenskin Horde",
     "original": "Greenskin Horde",
-    "translation": "大群绿皮",
+    "translation": "绿皮军团",
     "stage": 1,
     "context": "this.World.FactionManager.getFactionOfType(this.Const.FactionType.Orcs).spawnEntity(tile, 'Greenskin Horde', False, this.Const.World.Spawn.GreenskinHorde, this.Math.rand(90, 110) * this.getDifficultyMult() * this.getScaledDifficultyMult())"
   },
@@ -155,8 +155,8 @@
     "ID": 293407964,
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
-    "translation": "[/color] 克朗",
-    "stage": 5,
+    "translation": "[/color]克朗",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
@@ -171,7 +171,7 @@
     "ID": 293407966,
     "key": "Break the greenskin siege",
     "original": "Break the greenskin siege",
-    "translation": "打破绿皮的围城",
+    "translation": "打破绿皮围攻",
     "stage": 1,
     "context": "'Break the greenskin siege'"
   },
@@ -227,7 +227,7 @@
     "ID": 293407973,
     "key": "Destroy any greenskins around %objective%",
     "original": "Destroy any greenskins around %objective%",
-    "translation": "消灭在 %objective% 附近的所有绿皮",
+    "translation": "消灭%objective%附近的所有绿皮",
     "stage": 1,
     "context": "'Destroy any greenskins around %objective%'"
   },
@@ -235,7 +235,7 @@
     "ID": 293407974,
     "key": "Siege Engines",
     "original": "Siege Engines",
-    "translation": "攻城车",
+    "translation": "攻城器",
     "stage": 1,
     "context": "this.World.FactionManager.getFactionOfType(this.Const.FactionType.Goblins).spawnEntity(tile, 'Siege Engines', False, this.Const.World.Spawn.GreenskinHorde, this.Math.rand(100, 120) * this.getDifficultyMult() * this.getScaledDifficultyMult())"
   },
@@ -251,7 +251,7 @@
     "ID": 293407976,
     "key": "Destroy any greenskin siege engines",
     "original": "Destroy any greenskin siege engines",
-    "translation": "摧毁任何绿皮的攻城车",
+    "translation": "摧毁所有绿皮攻城器",
     "stage": 1,
     "context": "'Destroy any greenskin siege engines'"
   },
@@ -267,7 +267,7 @@
     "ID": 293407978,
     "key": "Broke siege of ",
     "original": "Broke siege of ",
-    "translation": "打破了围攻 ",
+    "translation": "从围攻中拯救了 ",
     "stage": 1,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationNobleContractSuccess, 'Broke siege of ' + this.Flags.get('ObjectiveName'))"
   },
@@ -275,7 +275,7 @@
     "ID": 293407979,
     "key": "{How much is saving %objective% worth to you? | Breaking a siege is something the %companyname% can do.}",
     "original": "{How much is saving %objective% worth to you? | Breaking a siege is something the %companyname% can do.}",
-    "translation": "{你认为 %objective% 值多少钱？ | 打破围城是 %companyname% 能做的事。}",
+    "translation": "{救下%objective%值多少？ | %companyname%的能力足以解围。}",
     "stage": 1,
     "context": "Text = '{How much is saving %objective% worth to you? | Breaking a siege is something the %companyname% can do.}'"
   },
@@ -299,7 +299,7 @@
     "ID": 293407982,
     "key": "Travel to %objective%",
     "original": "Travel to %objective%",
-    "translation": "前往 %objective%",
+    "translation": "前往%objective%",
     "stage": 1,
     "context": "'Travel to %objective%'"
   },
@@ -315,15 +315,15 @@
     "ID": 293407984,
     "key": "%objective% has fallen.",
     "original": "%objective% has fallen.",
-    "translation": "%objective% 陷落了。",
-    "stage": 5,
+    "translation": "%objective%陷落了。",
+    "stage": 1,
     "context": "Text = '%objective% has fallen.'"
   },
   {
     "ID": 293407985,
     "key": "[img]gfx/ui/events/event_68.png[/img]{The greenskins have assembled some siege weaponry close by. You'll have to destroy them to help lift the siege! | Your men spot a few pieces of siege equipment nearby. The greenskins must have been preparing an assaul",
     "original": "[img]gfx/ui/events/event_68.png[/img]{The greenskins have assembled some siege weaponry close by. You'll have to destroy them to help lift the siege! | Your men spot a few pieces of siege equipment nearby. The greenskins must have been preparing an assault! You will need to destroy them to help lift the siege!}",
-    "translation": "[img]gfx/ui/events/event_68.png[/img]{绿皮族已经在附近集结了一些攻城武器。你必须摧毁它们来帮助解除围城！ | 你的部队发现附近有几件攻城器械。绿皮族准备发动进攻！摧毁这些武器将有助于解除围城！}",
+    "translation": "[img]gfx/ui/events/event_68.png[/img]{绿皮在附近集结了一些攻城器。你必须摧毁它们，帮助解除围城！ | 你的部队发现附近有几件攻城器械。绿皮正在做突击准备！你要摧毁它们，帮助解除围城！}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_68.png[/img]{The greenskins have assembled some siege weaponry close by. You'll have to destroy them to help lift the siege! | Your men spot a few pieces of siege equipment nearby. The greenskins must have been preparing an assault! You will need to destroy them to help lift the siege!}\""
   },
@@ -355,7 +355,7 @@
     "ID": 293407989,
     "key": "[img]gfx/ui/events/event_22.png[/img]All the noble soldiers have died en route to the siege. Better them than you. The %companyname% presses on towards %objective%.",
     "original": "[img]gfx/ui/events/event_22.png[/img]All the noble soldiers have died en route to the siege. Better them than you. The %companyname% presses on towards %objective%.",
-    "translation": "[img]gfx/ui/events/event_22.png[/img]所有贵族士兵在赶往攻城时都已经阵亡了。他们死了总比你死好。%companyname%继续前进，走向%objective%。",
+    "translation": "[img]gfx/ui/events/event_22.png[/img]所有贵族士兵都死在了赶赴围城现场的路上。总比你死了强。%companyname%继续向%objective%进军。",
     "stage": 1,
     "context": "Text = '[img]gfx/ui/events/event_22.png[/img]All the noble soldiers have died en route to the siege. Better them than you. The %companyname% presses on towards %objective%.'"
   }

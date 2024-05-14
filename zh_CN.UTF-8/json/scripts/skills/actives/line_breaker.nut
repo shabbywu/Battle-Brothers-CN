@@ -3,7 +3,7 @@
     "ID": 293420164,
     "key": "Line Breaker",
     "original": "Line Breaker",
-    "translation": "战线破坏者",
+    "translation": "破阵者",
     "stage": 1,
     "context": "this.m.Name = 'Line Breaker'"
   },

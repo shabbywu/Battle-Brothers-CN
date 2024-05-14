@@ -107,7 +107,7 @@
     "ID": 293409403,
     "key": "Around %objective%",
     "original": "Around %objective%",
-    "translation": "%objective% 附近",
+    "translation": "%objective%周边",
     "stage": 1,
     "context": "Title = 'Around %objective%'"
   },
@@ -115,7 +115,7 @@
     "ID": 293409404,
     "key": "You gain [color=",
     "original": "You gain [color=",
-    "translation": "你获得了 [color=",
+    "translation": "你获得了[color=",
     "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
@@ -155,7 +155,7 @@
     "ID": 293409409,
     "key": "Undead Horde",
     "original": "Undead Horde",
-    "translation": "大群亡灵",
+    "translation": "亡灵军团",
     "stage": 1,
     "context": "this.World.FactionManager.getFactionOfType(this.Const.FactionType.Zombies).spawnEntity(this.m.Origin.getTile(), 'Undead Horde', False, this.Const.World.Spawn.ZombiesOrZombiesAndGhosts, 100 * this.getDifficultyMult() * this.getScaledDifficultyMult())"
   },
@@ -163,8 +163,8 @@
     "ID": 293409410,
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
-    "translation": "[/color] 克朗",
-    "stage": 5,
+    "translation": "[/color]克朗",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {

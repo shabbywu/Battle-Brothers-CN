@@ -123,8 +123,8 @@
     "ID": 293415381,
     "key": "]75[/color] Crowns",
     "original": "]75[/color] Crowns",
-    "translation": "]75[/color] 克朗",
-    "stage": 5,
+    "translation": "]75[/color]克朗",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']75[/color] Crowns'"
   },
   {

@@ -163,7 +163,7 @@
     "ID": 293406877,
     "key": "Nobles give contracts only to mercenary companies with professional renown.",
     "original": "Nobles give contracts only to mercenary companies with professional renown.",
-    "translation": "贵族只会向达到“得心应手”名望的佣兵战团发布合同。",
+    "translation": "贵族只会向达到“行家里手”名望的佣兵战团发布合同。",
     "stage": 1,
     "context": "'Nobles give contracts only to mercenary companies with professional renown.'"
   },
@@ -267,7 +267,7 @@
     "ID": 293406890,
     "key": "Use wardogs to hunt down elusive or fleeing enemies.",
     "original": "Use wardogs to hunt down elusive or fleeing enemies.",
-    "translation": "使用战犬来追捕难以捉摸或逃跑的敌人。",
+    "translation": "使用战犬来剿灭善于避战或逃跑的敌人。",
     "stage": 1,
     "context": "'Use wardogs to hunt down elusive or fleeing enemies.'"
   },
@@ -275,7 +275,7 @@
     "ID": 293406891,
     "key": "The minimum hit chance for any attack is 5%, and the maximum hit chance for any attack is 95%.",
     "original": "The minimum hit chance for any attack is 5%, and the maximum hit chance for any attack is 95%.",
-    "translation": "任意攻击的最低命中率为5%，任意攻击的最高命中率为95%。",
+    "translation": "所有攻击均有5%的保底命中率和95%的极限命中率。",
     "stage": 1,
     "context": "'The minimum hit chance for any attack is 5%, and the maximum hit chance for any attack is 95%.'"
   },
@@ -283,7 +283,7 @@
     "ID": 293406892,
     "key": "Highly talented characters can come from all backgrounds.",
     "original": "Highly talented characters can come from all backgrounds.",
-    "translation": "才华横溢的人可以来自各种背景。",
+    "translation": "天赋异禀的人物可以来自各行各业。",
     "stage": 1,
     "context": "'Highly talented characters can come from all backgrounds.'"
   },
@@ -299,7 +299,7 @@
     "ID": 293406894,
     "key": "You can have your items repaired at the smith for a fee by using ALT + Right Click.",
     "original": "You can have your items repaired at the smith for a fee by using ALT + Right Click.",
-    "translation": "您可以使用 ALT + 鼠标右键单击以标记要在仓库中修理的物品。",
+    "translation": "在铁匠铺中，使用ALT + 鼠标右键单击，可以付费立即修复选中的物品。",
     "stage": 1,
     "context": "'You can have your items repaired at the smith for a fee by using ALT + Right Click.'"
   },
@@ -315,7 +315,7 @@
     "ID": 293406896,
     "key": "Fulfilling ambitions will raise everyone's mood and grant you renown, as well as some unique rewards.",
     "original": "Fulfilling ambitions will raise everyone's mood and grant you renown, as well as some unique rewards.",
-    "translation": "实现野心会激励每个战团成员并提高战团名望，并提供一些独特的奖励。",
+    "translation": "实现野心会激励每个战团成员，提高战团名望，还能提供一些独特奖励。",
     "stage": 1,
     "context": "\"Fulfilling ambitions will raise everyone's mood and grant you renown, as well as some unique rewards.\""
   },
@@ -323,7 +323,7 @@
     "ID": 293406897,
     "key": "Spears are good defensive weapons due to their Spearwall ability.",
     "original": "Spears are good defensive weapons due to their Spearwall ability.",
-    "translation": "长矛是很好的防御武器，因为它们可以使用矛墙。",
+    "translation": "长矛具有\"矛墙 \"能力，是很好的防御武器。",
     "stage": 1,
     "context": "'Spears are good defensive weapons due to their Spearwall ability.'"
   },
@@ -339,7 +339,7 @@
     "ID": 293406899,
     "key": "Consider putting injured characters in reserve until their wounds have healed.",
     "original": "Consider putting injured characters in reserve until their wounds have healed.",
-    "translation": "考虑将受伤的角色放到预备队直到伤口愈合为止。",
+    "translation": "考虑将受伤的角色放到预备队，伤口愈合后再加入作战序列。",
     "stage": 1,
     "context": "'Consider putting injured characters in reserve until their wounds have healed.'"
   },
@@ -355,7 +355,7 @@
     "ID": 293406901,
     "key": "Objects blocking tiles can be highlighted using the 'B' key.",
     "original": "Objects blocking tiles can be highlighted using the 'B' key.",
-    "translation": "使用“B”键突出显示被阻挡的地格。",
+    "translation": "使用“B”键突出显示障碍物地格。",
     "stage": 1,
     "context": "\"Objects blocking tiles can be highlighted using the 'B' key.\""
   },
@@ -363,7 +363,7 @@
     "ID": 293406902,
     "key": "Use CTRL + Left Click to attack allied parties on the worldmap. This only works if you are currently unemployed.",
     "original": "Use CTRL + Left Click to attack allied parties on the worldmap. This only works if you are currently unemployed.",
-    "translation": "使用 CTRL + 左键单击来攻击世界地图上的盟友。仅适用于未受雇佣的时候。",
+    "translation": "使用CTRL + 左键单击来攻击世界地图上的盟友。仅可在未受雇佣时使用。",
     "stage": 1,
     "context": "'Use CTRL + Left Click to attack allied parties on the worldmap. This only works if you are currently unemployed.'"
   },
@@ -371,7 +371,7 @@
     "ID": 293406903,
     "key": "Success in Battle Brothers is also about picking the right fights.",
     "original": "Success in Battle Brothers is also about picking the right fights.",
-    "translation": "战场兄弟的成功也在于选择正确的战斗。",
+    "translation": "要在战场兄弟中取得成功，选择正确的战斗也是一环。",
     "stage": 1,
     "context": "'Success in Battle Brothers is also about picking the right fights.'"
   },
@@ -379,7 +379,7 @@
     "ID": 293406904,
     "key": "Try to save some crowns for when things turn sour.",
     "original": "Try to save some crowns for when things turn sour.",
-    "translation": "存一些克朗，以防不测。",
+    "translation": "适当存钱，以防不测。",
     "stage": 1,
     "context": "'Try to save some crowns for when things turn sour.'"
   },
@@ -395,7 +395,7 @@
     "ID": 293406906,
     "key": "You may find powerful named items far away from civilization by exploring or following tavern rumors.",
     "original": "You may find powerful named items far away from civilization by exploring or following tavern rumors.",
-    "translation": "你可以通过亲身探索或是酒馆流言，找到那些远离文明世界的强大闻名物品。",
+    "translation": "你可以通过亲身探索或是酒馆流言，找到那些远离文明世界的强大著名物品。",
     "stage": 1,
     "context": "'You may find powerful named items far away from civilization by exploring or following tavern rumors.'"
   },
@@ -411,7 +411,7 @@
     "ID": 293406908,
     "key": "Cleavers can inflict bleeding wounds.",
     "original": "Cleavers can inflict bleeding wounds.",
-    "translation": "砍刀会造成伤口流血。",
+    "translation": "砍刀会造成流血伤口。",
     "stage": 1,
     "context": "'Cleavers can inflict bleeding wounds.'"
   },
@@ -419,7 +419,7 @@
     "ID": 293406909,
     "key": "Throwing weapons can be deadly on short distances, but their accuracy drops sharply the farther away the target.",
     "original": "Throwing weapons can be deadly on short distances, but their accuracy drops sharply the farther away the target.",
-    "translation": "投掷武器在近距离是致命的，但精度随距离快速下降。",
+    "translation": "在近距离上，投掷武器极为凶狠，但随目标距离变远，其精度会快速下降。",
     "stage": 1,
     "context": "'Throwing weapons can be deadly on short distances, but their accuracy drops sharply the farther away the target.'"
   },
@@ -427,7 +427,7 @@
     "ID": 293406910,
     "key": "Consider forming a shieldwall when surrounded.",
     "original": "Consider forming a shieldwall when surrounded.",
-    "translation": "当被包围时，考虑组成盾墙。",
+    "translation": "若被敌人包围，考虑组成盾墙。",
     "stage": 1,
     "context": "'Consider forming a shieldwall when surrounded.'"
   },
@@ -443,8 +443,8 @@
     "ID": 293406912,
     "key": "Each type of weapon has advantages and disadvantages.",
     "original": "Each type of weapon has advantages and disadvantages.",
-    "translation": "每种武器都有优缺点。",
-    "stage": 5,
+    "translation": "每种武器各有优劣。",
+    "stage": 1,
     "context": "'Each type of weapon has advantages and disadvantages.'"
   },
   {
@@ -459,7 +459,7 @@
     "ID": 293406914,
     "key": "If you keep losing to an enemy, change your tactics!",
     "original": "If you keep losing to an enemy, change your tactics!",
-    "translation": "如果你一直输给敌人，改变你的战术！",
+    "translation": "如果你一直输，那就换个战法！",
     "stage": 1,
     "context": "'If you keep losing to an enemy, change your tactics!'"
   },
@@ -467,7 +467,7 @@
     "ID": 293406915,
     "key": "Two-handed axes can hit both head and body with a single hit.",
     "original": "Two-handed axes can hit both head and body with a single hit.",
-    "translation": "双手斧的一次攻击可以击中头部和身体。",
+    "translation": "双手斧可以在一次攻击中同时击中头部和身体。",
     "stage": 1,
     "context": "'Two-handed axes can hit both head and body with a single hit.'"
   },
@@ -475,7 +475,7 @@
     "ID": 293406916,
     "key": "Learn the 'Rotation' or 'Footwork' perks for additional mobility in battle.",
     "original": "Learn the 'Rotation' or 'Footwork' perks for additional mobility in battle.",
-    "translation": "学习“换位”或“步法”以在战斗中获得额外的机动性。",
+    "translation": "学习“换位”或“步法”能提高战斗中的机动性。",
     "stage": 1,
     "context": "\"Learn the 'Rotation' or 'Footwork' perks for additional mobility in battle.\""
   },
@@ -491,7 +491,7 @@
     "ID": 293406918,
     "key": "You don't have to be a hero, you're running a business.",
     "original": "You don't have to be a hero, you're running a business.",
-    "translation": "你不必成为英雄，你在维持生计。",
+    "translation": "不必逞英雄，你在做生意。",
     "stage": 1,
     "context": "\"You don't have to be a hero, you're running a business.\""
   },
@@ -507,7 +507,7 @@
     "ID": 293406920,
     "key": "Try to negotiate payment modalities that guarantee you the most money for contracts.",
     "original": "Try to negotiate payment modalities that guarantee you the most money for contracts.",
-    "translation": "试着协商报酬形式，以保证你在合同中得到更多的钱。",
+    "translation": "试着协商报酬形式，最大化合同收益。",
     "stage": 1,
     "context": "'Try to negotiate payment modalities that guarantee you the most money for contracts.'"
   },
@@ -523,7 +523,7 @@
     "ID": 293406922,
     "key": "A life can be worth little in this world.",
     "original": "A life can be worth little in this world.",
-    "translation": "在这个世界上，一个生命的价值可能微乎其微。",
+    "translation": "一条命在这个世界上轻如鸿毛。",
     "stage": 1,
     "context": "'A life can be worth little in this world.'"
   },
@@ -531,7 +531,7 @@
     "ID": 293406923,
     "key": "Betraying your employer can have repercussions in the long run.",
     "original": "Betraying your employer can have repercussions in the long run.",
-    "translation": "从长远来看，背叛你的雇主可能会产生影响。",
+    "translation": "背叛雇主早晚要自食恶果。",
     "stage": 1,
     "context": "'Betraying your employer can have repercussions in the long run.'"
   },
@@ -539,7 +539,7 @@
     "ID": 293406924,
     "key": "Use ports to fast travel around the world.",
     "original": "Use ports to fast travel around the world.",
-    "translation": "利用港口快速环游世界。",
+    "translation": "利用港口快速周游世界。",
     "stage": 1,
     "context": "'Use ports to fast travel around the world.'"
   },
@@ -547,7 +547,7 @@
     "ID": 293406925,
     "key": "Geists are lost between the physical world and the world beyond, constantly shifting between the two.",
     "original": "Geists are lost between the physical world and the world beyond, constantly shifting between the two.",
-    "translation": "幽灵在物质世界和超越世界之间消失了，在两者之间不断变化。",
+    "translation": "幽灵迷失在物质世界和冥界之间，在两者之间不断闪烁。",
     "stage": 1,
     "context": "'Geists are lost between the physical world and the world beyond, constantly shifting between the two.'"
   },
@@ -555,15 +555,15 @@
     "ID": 293406926,
     "key": "A missed ranged attack can hit nearby characters, especially if they are in the direct line of fire.",
     "original": "A missed ranged attack can hit nearby characters, especially if they are in the direct line of fire.",
-    "translation": "一次未命中的远程攻击有可能会击中附近的其他角色，尤其是当这些角色正好阻挡了弹道的时候。",
-    "stage": 5,
+    "translation": "未命中的远程攻击可能击中附近的其他角色，尤其是阻挡了弹道的那些。",
+    "stage": 1,
     "context": "'A missed ranged attack can hit nearby characters, especially if they are in the direct line of fire.'"
   },
   {
     "ID": 293406927,
     "key": "The larger a party on the worldmap, the slower it moves. Yours included.",
     "original": "The larger a party on the worldmap, the slower it moves. Yours included.",
-    "translation": "世界地图上的队伍越大，行动越慢。包括你的。",
+    "translation": "世界地图上，队伍越大，行动越慢。你也不例外。",
     "stage": 1,
     "context": "'The larger a party on the worldmap, the slower it moves. Yours included.'"
   },
@@ -603,7 +603,7 @@
     "ID": 293406932,
     "key": "Use trading to supplement your income.",
     "original": "Use trading to supplement your income.",
-    "translation": "利用交易来补充你的收入。",
+    "translation": "通过贸易补贴收入。",
     "stage": 1,
     "context": "'Use trading to supplement your income.'"
   },
@@ -611,7 +611,7 @@
     "ID": 293406933,
     "key": "Dying is part of a mercenary's job description.",
     "original": "Dying is part of a mercenary's job description.",
-    "translation": "死亡是雇佣兵工作的一部分。",
+    "translation": "死亡是佣兵工作画像的一部分。",
     "stage": 1,
     "context": "\"Dying is part of a mercenary's job description.\""
   },
@@ -635,7 +635,7 @@
     "ID": 293406936,
     "key": "Retreat. Flee. Don't fight every battle to the death.",
     "original": "Retreat. Flee. Don't fight every battle to the death.",
-    "translation": "撤退。逃走。不要每场战斗都打得死去活来。",
+    "translation": "撤退。逃走。用不着老是拼命。",
     "stage": 1,
     "context": "\"Retreat. Flee. Don't fight every battle to the death.\""
   },
@@ -643,15 +643,15 @@
     "ID": 293406937,
     "key": "Trees can be hidden in combat using the 'T' key.",
     "original": "Trees can be hidden in combat using the 'T' key.",
-    "translation": "树木可以在战斗中使用“T”键隐藏。",
-    "stage": 5,
+    "translation": "在战斗中，按下“T”键可以隐藏树木。",
+    "stage": 1,
     "context": "\"Trees can be hidden in combat using the 'T' key.\""
   },
   {
     "ID": 293406938,
     "key": "The natural habitat of direwolves is the forest.",
     "original": "The natural habitat of direwolves is the forest.",
-    "translation": "恐狼的自然栖息地是森林。",
+    "translation": "森林是恐狼的自然栖息地。",
     "stage": 1,
     "context": "'The natural habitat of direwolves is the forest.'"
   },
@@ -667,7 +667,7 @@
     "ID": 293406940,
     "key": "Crossbows require less skill to fire accurately than bows, but are slower to use.",
     "original": "Crossbows require less skill to fire accurately than bows, but are slower to use.",
-    "translation": "弩比弓箭需要更少的技能来精确射击，但使用速度更慢。",
+    "translation": "比起弓，弩对技巧的要求更低，但射速也更慢。",
     "stage": 1,
     "context": "'Crossbows require less skill to fire accurately than bows, but are slower to use.'"
   },
@@ -675,7 +675,7 @@
     "ID": 293406941,
     "key": "Use throwing nets to restrict the movement of particularly dangerous enemies.",
     "original": "Use throwing nets to restrict the movement of particularly dangerous enemies.",
-    "translation": "使用投掷网来限制特别危险的敌人的移动。",
+    "translation": "使用投网来限制个别危险敌人的行动。",
     "stage": 1,
     "context": "'Use throwing nets to restrict the movement of particularly dangerous enemies.'"
   },
@@ -691,7 +691,7 @@
     "ID": 293406943,
     "key": "Shields can be destroyed using axes and some two-handed weapons.",
     "original": "Shields can be destroyed using axes and some two-handed weapons.",
-    "translation": "盾牌可以用斧头和一些双手武器摧毁。",
+    "translation": "斧头和一些双手武器可以摧毁盾牌。",
     "stage": 1,
     "context": "'Shields can be destroyed using axes and some two-handed weapons.'"
   },
@@ -707,7 +707,7 @@
     "ID": 293406945,
     "key": "The higher their level, the more your men will demand in wages.",
     "original": "The higher their level, the more your men will demand in wages.",
-    "translation": "级别越高，你的人要求的工资就越多。",
+    "translation": "级别越高的人，工资需求就越高。",
     "stage": 1,
     "context": "'The higher their level, the more your men will demand in wages.'"
   },
@@ -715,7 +715,7 @@
     "ID": 293406946,
     "key": "If your plan can fail with bad luck, maybe it isn't good enough of a plan.",
     "original": "If your plan can fail with bad luck, maybe it isn't good enough of a plan.",
-    "translation": "如果你的计划会因为运气不好而失败，也许就是计划的不够好。",
+    "translation": "如果运气不好就能让计划失败，或许只是计划还不够好。",
     "stage": 1,
     "context": "\"If your plan can fail with bad luck, maybe it isn't good enough of a plan.\""
   },
@@ -723,7 +723,7 @@
     "ID": 293406947,
     "key": "View range is decreased at night, both in combat and on the worldmap.",
     "original": "View range is decreased at night, both in combat and on the worldmap.",
-    "translation": "夜间视野范围缩小，无论是在战斗中还是在世界地图上。",
+    "translation": "夜间，无论是在战斗中还是世界地图上，视野范围都会减小。",
     "stage": 1,
     "context": "'View range is decreased at night, both in combat and on the worldmap.'"
   },
@@ -731,7 +731,7 @@
     "ID": 293406948,
     "key": "Drag and drop your men in the inventory screen to where you want them to be in your formation.",
     "original": "Drag and drop your men in the inventory screen to where you want them to be in your formation.",
-    "translation": "在队列中，将你的人员拖放到你希望他们在你的队形中的位置。",
+    "translation": "在物品界面，拖放人物可以改变他们在战斗队形中的位置。",
     "stage": 1,
     "context": "'Drag and drop your men in the inventory screen to where you want them to be in your formation.'"
   },
@@ -747,7 +747,7 @@
     "ID": 293406950,
     "key": "Elevated terrain like hills and mountains allow you to see farther on the worldmap.",
     "original": "Elevated terrain like hills and mountains allow you to see farther on the worldmap.",
-    "translation": "像小山和山脉这样高的地势，可以让你在世界地图上看得更远。",
+    "translation": "丘陵山脉等高海拔地形，能让你在世界地图上看得更远。",
     "stage": 1,
     "context": "'Elevated terrain like hills and mountains allow you to see farther on the worldmap.'"
   },
@@ -755,7 +755,7 @@
     "ID": 293406951,
     "key": "Ranged weapons are less accurate at night - those of your enemies included.",
     "original": "Ranged weapons are less accurate at night - those of your enemies included.",
-    "translation": "远程武器在夜间不太准确，包括你的敌人。",
+    "translation": "远程武器在夜间不太准确，敌人也一样。",
     "stage": 1,
     "context": "'Ranged weapons are less accurate at night - those of your enemies included.'"
   },
@@ -771,7 +771,7 @@
     "ID": 293406953,
     "key": "If you can not win, retreat to fight another day.",
     "original": "If you can not win, retreat to fight another day.",
-    "translation": "如果你赢不了，那就撤退改日再打。",
+    "translation": "如果不能取胜，不如改日再战。",
     "stage": 1,
     "context": "'If you can not win, retreat to fight another day.'"
   },
@@ -787,7 +787,7 @@
     "ID": 293406955,
     "key": "Selling in rich and big cities will net you the most crowns for your goods.",
     "original": "Selling in rich and big cities will net you the most crowns for your goods.",
-    "translation": "在富裕的大城市销售，你的商品将获得更多的克朗。",
+    "translation": "在富裕的大城市销售商品能获得更多克朗。",
     "stage": 1,
     "context": "'Selling in rich and big cities will net you the most crowns for your goods.'"
   },
@@ -803,7 +803,7 @@
     "ID": 293406957,
     "key": "Keep an eye on the mood of your men. If they are angry for too long, they may desert!",
     "original": "Keep an eye on the mood of your men. If they are angry for too long, they may desert!",
-    "translation": "注意你手下的情绪。如果他们生气太久，他们可能会离开！",
+    "translation": "注意手下的情绪。如果生气太久，他们会离你而去！",
     "stage": 1,
     "context": "'Keep an eye on the mood of your men. If they are angry for too long, they may desert!'"
   },
@@ -811,7 +811,7 @@
     "ID": 293406958,
     "key": "Different backgrounds may unlock additional options at handling events and contracts.",
     "original": "Different backgrounds may unlock additional options at handling events and contracts.",
-    "translation": "不同的背景可能会在处理事件和合同时解锁额外的选项。",
+    "translation": "不同背景会在事件和合同中提供更多选择。",
     "stage": 1,
     "context": "'Different backgrounds may unlock additional options at handling events and contracts.'"
   },
@@ -819,7 +819,7 @@
     "ID": 293406959,
     "key": "Try to negotiate better payment for your contracts.",
     "original": "Try to negotiate better payment for your contracts.",
-    "translation": "试着为你的合同协商更好的报酬。",
+    "translation": "试着通过协商争得更佳的合同报酬。",
     "stage": 1,
     "context": "'Try to negotiate better payment for your contracts.'"
   },
@@ -835,7 +835,7 @@
     "ID": 293406961,
     "key": "A human is no match for an adult orc physically.",
     "original": "A human is no match for an adult orc physically.",
-    "translation": "人类在体格上无法与成年兽人匹敌。",
+    "translation": "在体格上，人类无法与成年兽人匹敌。",
     "stage": 1,
     "context": "'A human is no match for an adult orc physically.'"
   },
@@ -843,7 +843,7 @@
     "ID": 293406962,
     "key": "Use ALT + Right Click to mark items for repair in your stash. Items equipped by your men are repaired automatically.",
     "original": "Use ALT + Right Click to mark items for repair in your stash. Items equipped by your men are repaired automatically.",
-    "translation": "使用 ALT + 鼠标右键 单击可以让在铁匠处付费修理你的物品。",
+    "translation": "您可以使用ALT + 鼠标右键单击标记仓库中需要修理的物品。装备在战团成员身上的物品会自动被维修。",
     "stage": 1,
     "context": "'Use ALT + Right Click to mark items for repair in your stash. Items equipped by your men are repaired automatically.'"
   },
@@ -851,7 +851,7 @@
     "ID": 293406963,
     "key": "You can enable faster AI turns in the options menu.",
     "original": "You can enable faster AI turns in the options menu.",
-    "translation": "你可以在选项菜单中启用更快的AI回合。",
+    "translation": "您可以在选项中启用“更快的AI移动”。",
     "stage": 1,
     "context": "'You can enable faster AI turns in the options menu.'"
   },
@@ -859,7 +859,7 @@
     "ID": 293406964,
     "key": "Shrubbery can hide characters from being detected from afar.",
     "original": "Shrubbery can hide characters from being detected from afar.",
-    "translation": "灌木林可以隐藏角色，以防从远处被发现。",
+    "translation": "灌木丛可以隐藏角色，避免被从远处发现。",
     "stage": 1,
     "context": "'Shrubbery can hide characters from being detected from afar.'"
   },
@@ -867,7 +867,7 @@
     "ID": 293406965,
     "key": "Consider building up a reserve roster and rotating your men, so you can more easily deal with losses down the road.",
     "original": "Consider building up a reserve roster and rotating your men, so you can more easily deal with losses down the road.",
-    "translation": "考虑建立一个预备队，轮换队员，这样你可以更容易地处理路上的损失。",
+    "translation": "把建立预备队纳入日程，轮换队员，减轻战损带来的压力。",
     "stage": 1,
     "context": "'Consider building up a reserve roster and rotating your men, so you can more easily deal with losses down the road.'"
   },
@@ -875,7 +875,7 @@
     "ID": 293406966,
     "key": "Two-handed axes can hit up to 6 targets with a single round swing.",
     "original": "Two-handed axes can hit up to 6 targets with a single round swing.",
-    "translation": "双手斧在一次旋转攻击中可以击中最多6个目标。",
+    "translation": "双手斧在一次“回旋斩”中可以击中最多6个目标。",
     "stage": 1,
     "context": "'Two-handed axes can hit up to 6 targets with a single round swing.'"
   },
@@ -883,7 +883,7 @@
     "ID": 293406967,
     "key": "Conserve your stamina when in prolonged engagements.",
     "original": "Conserve your stamina when in prolonged engagements.",
-    "translation": "在长时间的交战中要保持体力。",
+    "translation": "在持久战中要保存体力。",
     "stage": 1,
     "context": "'Conserve your stamina when in prolonged engagements.'"
   },
@@ -891,7 +891,7 @@
     "ID": 293406968,
     "key": "A goblin is no match for an adult human physically, so they rely on wit and dirty tricks.",
     "original": "A goblin is no match for an adult human physically, so they rely on wit and dirty tricks.",
-    "translation": "地精在身体上无法与成年人类相匹敌，所以他们靠的是机智和肮脏的把戏。",
+    "translation": "在体格上，地精无法与成年人类相匹敌，他们仰赖于小聪明和卑鄙手段。",
     "stage": 1,
     "context": "'A goblin is no match for an adult human physically, so they rely on wit and dirty tricks.'"
   },
@@ -899,7 +899,7 @@
     "ID": 293406969,
     "key": "Always keep a good stock of provisions - lest your men starve and desert you!",
     "original": "Always keep a good stock of provisions - lest your men starve and desert you!",
-    "translation": "一定要储备好粮食，以免你的人挨饿，抛弃你！",
+    "translation": "储备好粮食，免得你的人因挨饿弃你而去！",
     "stage": 1,
     "context": "'Always keep a good stock of provisions - lest your men starve and desert you!'"
   },
@@ -907,7 +907,7 @@
     "ID": 293406970,
     "key": "Not every battle can be won.",
     "original": "Not every battle can be won.",
-    "translation": "不是每一场战斗都能胜利。",
+    "translation": "胜败乃兵家常事。",
     "stage": 1,
     "context": "'Not every battle can be won.'"
   },
@@ -923,7 +923,7 @@
     "ID": 293406972,
     "key": "Every enemy in the game can be beat reliably with the right approach.",
     "original": "Every enemy in the game can be beat reliably with the right approach.",
-    "translation": "游戏中的每个敌人都可以用正确的方法可靠的击败。",
+    "translation": "只要方法得当，每种敌人都能被稳妥地击败。",
     "stage": 1,
     "context": "'Every enemy in the game can be beat reliably with the right approach.'"
   }

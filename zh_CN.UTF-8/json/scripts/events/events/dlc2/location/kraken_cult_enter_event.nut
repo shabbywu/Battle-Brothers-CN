@@ -115,7 +115,7 @@
     "ID": 293413870,
     "key": "To formation!",
     "original": "To formation!",
-    "translation": "保持队型！",
+    "translation": "列队！",
     "stage": 1,
     "context": "Text = 'To formation!'"
   },

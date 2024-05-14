@@ -3,8 +3,8 @@
     "ID": 293412973,
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
-    "translation": "[/color] 克朗",
-    "stage": 5,
+    "translation": "[/color]克朗",
+    "stage": 1,
     "context": "text = 'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']' + money + '[/color] Crowns'"
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293412976,
     "key": "]250[/color] Crowns",
     "original": "]250[/color] Crowns",
-    "translation": "]250[/color] 克朗",
-    "stage": 5,
+    "translation": "]250[/color]克朗",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']250[/color] Crowns'"
   },
   {
@@ -107,8 +107,8 @@
     "ID": 293412986,
     "key": "You lose [color=",
     "original": "You lose [color=",
-    "translation": "你失去了 [color=",
-    "stage": 5,
+    "translation": "你失去了[color=",
+    "stage": 1,
     "context": "text = 'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']' + money + '[/color] Crowns'"
   },
   {
@@ -155,8 +155,8 @@
     "ID": 293412992,
     "key": "]1000[/color] Crowns",
     "original": "]1000[/color] Crowns",
-    "translation": "]1000[/color] 克朗",
-    "stage": 5,
+    "translation": "]1000[/color]克朗",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']1000[/color] Crowns'"
   },
   {
@@ -179,8 +179,8 @@
     "ID": 293412995,
     "key": "]500[/color] Crowns",
     "original": "]500[/color] Crowns",
-    "translation": "]500[/color] 克朗",
-    "stage": 5,
+    "translation": "]500[/color]克朗",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']500[/color] Crowns'"
   },
   {

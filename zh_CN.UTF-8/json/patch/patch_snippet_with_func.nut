@@ -35,8 +35,8 @@
     "ID": 315631958,
     "key": "[11]\"Failed to break the siege of \" + Flags.get(\"ObjectiveName\")",
     "original": "\"Failed to break the siege of \" + Flags.get(\"ObjectiveName\")",
-    "translation": "未能突破针对%s的围攻",
-    "stage": 5,
+    "translation": "未能解%s之围",
+    "stage": 1,
     "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/break_greenskin_siege_contract.nut\",\n    \"location\": \"createScreens::getResult[11]\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
   },
   {

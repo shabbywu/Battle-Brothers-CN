@@ -283,7 +283,7 @@
     "ID": 293422988,
     "key": "Men in formation",
     "original": "Men in formation",
-    "translation": "编队",
+    "translation": "作战序列中的角色",
     "stage": 1,
     "context": "text = 'Men in formation'"
   },
@@ -1819,8 +1819,8 @@
     "ID": 293423180,
     "key": "[/color] Medical Supplies.",
     "original": "[/color] Medical Supplies.",
-    "translation": "[/color] 医疗用品",
-    "stage": 5,
+    "translation": "[/color]点医疗用品",
+    "stage": 1,
     "context": "desc = desc + heal.MedicineMax + '[/color] Medical Supplies.'"
   },
   {

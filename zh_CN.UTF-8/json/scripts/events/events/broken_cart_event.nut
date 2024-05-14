@@ -11,7 +11,7 @@
     "ID": 293412751,
     "key": "[/color] Medical Supplies.",
     "original": "[/color] Medical Supplies.",
-    "translation": "[/color] 医疗用品",
+    "translation": "[/color]点医疗用品",
     "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + amount + '[/color] Medical Supplies.'"
   },
@@ -27,7 +27,7 @@
     "ID": 293412753,
     "key": "You gain [color=",
     "original": "You gain [color=",
-    "translation": "你获得了 [color=",
+    "translation": "你获得了[color=",
     "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + amount + '[/color] Medical Supplies.'"
   },
@@ -67,7 +67,7 @@
     "ID": 293412758,
     "key": "[/color] Tools and Supplies.",
     "original": "[/color] Tools and Supplies.",
-    "translation": "[/color] 工具和补给",
+    "translation": "[/color]点工具和补给",
     "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + amount + '[/color] Tools and Supplies.'"
   },

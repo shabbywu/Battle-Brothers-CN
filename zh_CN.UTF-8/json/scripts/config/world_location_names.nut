@@ -5211,7 +5211,7 @@
     "ID": 293407634,
     "key": "Excavated Heap of Bones",
     "original": "Excavated Heap of Bones",
-    "translation": "挖掘的骨头堆",
+    "translation": "挖开的骨头堆",
     "stage": 1,
     "context": "'Excavated Heap of Bones'"
   },

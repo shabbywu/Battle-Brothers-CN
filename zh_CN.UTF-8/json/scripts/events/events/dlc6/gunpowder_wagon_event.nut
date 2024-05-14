@@ -3,8 +3,8 @@
     "ID": 293414742,
     "key": "You spend [color=",
     "original": "You spend [color=",
-    "translation": "你花费了 [color=",
-    "stage": 5,
+    "translation": "你花了[color=",
+    "stage": 1,
     "context": "text = 'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']2500[/color] Crowns'"
   },
   {
@@ -59,8 +59,8 @@
     "ID": 293414749,
     "key": "]500[/color] Crowns",
     "original": "]500[/color] Crowns",
-    "translation": "]500[/color] 克朗",
-    "stage": 5,
+    "translation": "]500[/color]克朗",
+    "stage": 1,
     "context": "text = 'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']500[/color] Crowns'"
   },
   {
