@@ -19,8 +19,8 @@
     "ID": 293416481,
     "key": "]500[/color] Crowns",
     "original": "]500[/color] Crowns",
-    "translation": "]500[/color] 克朗",
-    "stage": 5,
+    "translation": "]500[/color]克朗",
+    "stage": 1,
     "context": "text = 'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']500[/color] Crowns'"
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293416483,
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
-    "translation": "[/color] 克朗",
-    "stage": 5,
+    "translation": "[/color]克朗",
+    "stage": 1,
     "context": "text = 'You earn [color=' + this.Const.UI.Color.PositiveEventValue + ']' + money + '[/color] Crowns'"
   },
   {
@@ -75,8 +75,8 @@
     "ID": 293416488,
     "key": "You lose [color=",
     "original": "You lose [color=",
-    "translation": "你失去了 [color=",
-    "stage": 5,
+    "translation": "你失去了[color=",
+    "stage": 1,
     "context": "text = 'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']500[/color] Crowns'"
   },
   {

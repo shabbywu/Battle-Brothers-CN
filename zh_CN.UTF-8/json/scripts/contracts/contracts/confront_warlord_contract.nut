@@ -59,15 +59,15 @@
     "ID": 293407997,
     "key": "You gain [color=",
     "original": "You gain [color=",
-    "translation": "你获得了 [color=",
-    "stage": 5,
+    "translation": "你获得了[color=",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
     "ID": 293407998,
     "key": "A horde of greenskins led by a fearsome orc warlord.",
     "original": "A horde of greenskins led by a fearsome orc warlord.",
-    "translation": "由一个可怖的兽人军阀领导的一大群绿皮。",
+    "translation": "可怖的兽人军阀领导绿皮军团。",
     "stage": 1,
     "context": "party.setDescription('A horde of greenskins led by a fearsome orc warlord.')"
   },
@@ -123,7 +123,7 @@
     "ID": 293408005,
     "key": "Greenskin Horde",
     "original": "Greenskin Horde",
-    "translation": "大群绿皮",
+    "translation": "绿皮军团",
     "stage": 1,
     "context": "this.World.FactionManager.getFaction(nearest_orcs.getFaction()).spawnEntity(tile, 'Greenskin Horde', False, this.Const.World.Spawn.GreenskinHorde, 130 * this.Contract.getDifficultyMult() * this.Contract.getScaledDifficultyMult())"
   },
@@ -139,8 +139,8 @@
     "ID": 293408007,
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
-    "translation": "[/color] 克朗",
-    "stage": 5,
+    "translation": "[/color]克朗",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {

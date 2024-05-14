@@ -115,8 +115,8 @@
     "ID": 293414085,
     "key": "You lose [color=",
     "original": "You lose [color=",
-    "translation": "你失去了 [color=",
-    "stage": 5,
+    "translation": "你失去了[color=",
+    "stage": 1,
     "context": "text = 'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']-' + amount + '[/color] Tools and Supplies.'"
   },
   {
@@ -147,7 +147,7 @@
     "ID": 293414089,
     "key": "[/color] Tools and Supplies.",
     "original": "[/color] Tools and Supplies.",
-    "translation": "[/color] 工具和补给",
+    "translation": "[/color]点工具和补给",
     "stage": 1,
     "context": "text = 'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']-' + amount + '[/color] Tools and Supplies.'"
   },

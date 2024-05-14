@@ -11,7 +11,7 @@
     "ID": 293408936,
     "key": "A horde of greenskins marching to war.",
     "original": "A horde of greenskins marching to war.",
-    "translation": "一大群绿皮向战场进军。",
+    "translation": "奔赴战场的绿皮军团。",
     "stage": 1,
     "context": "party.setDescription('A horde of greenskins marching to war.')"
   },
@@ -83,8 +83,8 @@
     "ID": 293408945,
     "key": "You gain [color=",
     "original": "You gain [color=",
-    "translation": "你获得了 [color=",
-    "stage": 5,
+    "translation": "你获得了[color=",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
@@ -139,7 +139,7 @@
     "ID": 293408952,
     "key": "Greenskin Horde",
     "original": "Greenskin Horde",
-    "translation": "大群绿皮",
+    "translation": "绿皮军团",
     "stage": 1,
     "context": "this.World.FactionManager.getFaction(camp.getFaction()).spawnEntity(tile, 'Greenskin Horde', False, this.Const.World.Spawn.GreenskinHorde, 120 * this.Contract.getDifficultyMult() * this.Contract.getScaledDifficultyMult())"
   },
@@ -163,8 +163,8 @@
     "ID": 293408955,
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
-    "translation": "[/color] 克朗",
-    "stage": 5,
+    "translation": "[/color]克朗",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {

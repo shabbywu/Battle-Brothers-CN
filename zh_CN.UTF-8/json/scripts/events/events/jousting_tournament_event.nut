@@ -27,8 +27,8 @@
     "ID": 293416135,
     "key": "You lose [color=",
     "original": "You lose [color=",
-    "translation": "你失去了 [color=",
-    "stage": 5,
+    "translation": "你失去了[color=",
+    "stage": 1,
     "context": "text = 'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']' + _event.m.Bet + '[/color] Crowns'"
   },
   {
@@ -75,8 +75,8 @@
     "ID": 293416141,
     "key": "You spend [color=",
     "original": "You spend [color=",
-    "translation": "你花费了 [color=",
-    "stage": 5,
+    "translation": "你花了[color=",
+    "stage": 1,
     "context": "text = 'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']500[/color] Crowns'"
   },
   {
@@ -139,8 +139,8 @@
     "ID": 293416149,
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
-    "translation": "[/color] 克朗",
-    "stage": 5,
+    "translation": "[/color]克朗",
+    "stage": 1,
     "context": "text = 'You win [color=' + this.Const.UI.Color.PositiveEventValue + ']' + _event.m.Bet + '[/color] Crowns'"
   },
   {
@@ -155,8 +155,8 @@
     "ID": 293416151,
     "key": "]500[/color] Crowns",
     "original": "]500[/color] Crowns",
-    "translation": "]500[/color] 克朗",
-    "stage": 5,
+    "translation": "]500[/color]克朗",
+    "stage": 1,
     "context": "text = 'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']500[/color] Crowns'"
   },
   {

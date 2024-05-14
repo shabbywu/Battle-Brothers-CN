@@ -43,8 +43,8 @@
     "ID": 293415414,
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
-    "translation": "[/color] 克朗",
-    "stage": 5,
+    "translation": "[/color]克朗",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + crowns + '[/color] Crowns'"
   },
   {
@@ -83,8 +83,8 @@
     "ID": 293415419,
     "key": "]15[/color] Crowns",
     "original": "]15[/color] Crowns",
-    "translation": "]15[/color] 克朗",
-    "stage": 5,
+    "translation": "]15[/color]克朗",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']15[/color] Crowns'"
   },
   {

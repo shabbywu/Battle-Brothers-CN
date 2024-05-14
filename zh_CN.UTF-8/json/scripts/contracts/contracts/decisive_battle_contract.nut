@@ -187,8 +187,8 @@
     "ID": 293408151,
     "key": "Professional soldiers in service to local lords.",
     "original": "Professional soldiers in service to local lords.",
-    "translation": "为地方领主服务的职业军人。",
-    "stage": 5,
+    "translation": "听命于当地领主的职业军人。",
+    "stage": 1,
     "context": "party.setDescription('Professional soldiers in service to local lords.')"
   },
   {
@@ -227,8 +227,8 @@
     "ID": 293408156,
     "key": "You gain [color=",
     "original": "You gain [color=",
-    "translation": "你获得了 [color=",
-    "stage": 5,
+    "translation": "你获得了[color=",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
@@ -491,8 +491,8 @@
     "ID": 293408189,
     "key": "You spend [color=",
     "original": "You spend [color=",
-    "translation": "你花费了 [color=",
-    "stage": 5,
+    "translation": "你花了[color=",
+    "stage": 1,
     "context": "text = 'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']' + this.Flags.get('Bribe') + '[/color] Crowns'"
   },
   {
@@ -515,8 +515,8 @@
     "ID": 293408192,
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
-    "translation": "[/color] 克朗",
-    "stage": 5,
+    "translation": "[/color]克朗",
+    "stage": 1,
     "context": "text = 'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']' + this.Flags.get('Bribe') + '[/color] Crowns'"
   },
   {

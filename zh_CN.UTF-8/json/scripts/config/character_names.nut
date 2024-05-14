@@ -6059,7 +6059,7 @@
     "ID": 293404535,
     "key": "the Artisan",
     "original": "the Artisan",
-    "translation": "·匠人",
+    "translation": "匠人",
     "stage": 1,
     "context": "'the Artisan'"
   },

@@ -43,7 +43,7 @@
     "ID": 293409311,
     "key": "You gain [color=",
     "original": "You gain [color=",
-    "translation": "你获得了 [color=",
+    "translation": "你获得了[color=",
     "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
@@ -91,8 +91,8 @@
     "ID": 293409317,
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
-    "translation": "[/color] 克朗",
-    "stage": 5,
+    "translation": "[/color]克朗",
+    "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
@@ -179,8 +179,8 @@
     "ID": 293409328,
     "key": "Conscripted soldiers loyal to their city state.",
     "original": "Conscripted soldiers loyal to their city state.",
-    "translation": "忠于城邦的应征士兵们。",
-    "stage": 5,
+    "translation": "忠于城邦的应征士兵。",
+    "stage": 1,
     "context": "party.setDescription('Conscripted soldiers loyal to their city state.')"
   },
   {
