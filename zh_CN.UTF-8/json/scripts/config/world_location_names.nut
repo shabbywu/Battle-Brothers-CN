@@ -3,7 +3,7 @@
     "ID": 293406983,
     "key": "Wallendorf",
     "original": "Wallendorf",
-    "translation": "瓦伦多弗",
+    "translation": "湍流野",
     "stage": 1,
     "context": "'Wallendorf'"
   },
@@ -11,15 +11,15 @@
     "ID": 293406984,
     "key": "Improvised Burial Site",
     "original": "Improvised Burial Site",
-    "translation": "临时墓地",
-    "stage": 5,
+    "translation": "简陋墓地",
+    "stage": 1,
     "context": "'Improvised Burial Site'"
   },
   {
     "ID": 293406985,
     "key": "Stonefist Keep Ruins",
     "original": "Stonefist Keep Ruins",
-    "translation": "石拳要塞遗迹",
+    "translation": "石拳要塞遗址",
     "stage": 1,
     "context": "'Stonefist Keep Ruins'"
   },
@@ -27,7 +27,7 @@
     "ID": 293406986,
     "key": "Puppet Master's Cabinet",
     "original": "Puppet Master's Cabinet",
-    "translation": "木偶大师的储藏处",
+    "translation": "傀儡大师的储藏处",
     "stage": 1,
     "context": "\"Puppet Master's Cabinet\""
   },
@@ -115,7 +115,7 @@
     "ID": 293406997,
     "key": "Kallesheim",
     "original": "Kallesheim",
-    "translation": "凯尔西姆",
+    "translation": "颅骨野",
     "stage": 1,
     "context": "'Kallesheim'"
   },
@@ -155,7 +155,7 @@
     "ID": 293407002,
     "key": "Castle of the mumbling Prince",
     "original": "Castle of the mumbling Prince",
-    "translation": "呢喃的王子之城",
+    "translation": "呢喃王子之城",
     "stage": 1,
     "context": "'Castle of the mumbling Prince'"
   },
@@ -179,7 +179,7 @@
     "ID": 293407005,
     "key": "Buried Castle of %randomname%",
     "original": "Buried Castle of %randomname%",
-    "translation": "%randomname% 的埋藏城堡",
+    "translation": "%randomname%被掩埋的城堡",
     "stage": 1,
     "context": "'Buried Castle of %randomname%'"
   },
@@ -251,7 +251,7 @@
     "ID": 293407014,
     "key": "Coven of Midnight Terror",
     "original": "Coven of Midnight Terror",
-    "translation": "午夜恐怖组织",
+    "translation": "午夜之怖集会",
     "stage": 1,
     "context": "'Coven of Midnight Terror'"
   },
@@ -259,7 +259,7 @@
     "ID": 293407015,
     "key": "Debris of Ancient Times",
     "original": "Debris of Ancient Times",
-    "translation": "古代遗迹",
+    "translation": "古代残片",
     "stage": 1,
     "context": "'Debris of Ancient Times'"
   },
@@ -355,7 +355,7 @@
     "ID": 293407027,
     "key": "Ottendorf",
     "original": "Ottendorf",
-    "translation": "奥坦道夫",
+    "translation": "水獭野",
     "stage": 1,
     "context": "'Ottendorf'"
   },
@@ -771,7 +771,7 @@
     "ID": 293407079,
     "key": "Altdorf",
     "original": "Altdorf",
-    "translation": "奥特多弗",
+    "translation": "古野",
     "stage": 1,
     "context": "'Altdorf'"
   },
@@ -2219,7 +2219,7 @@
     "ID": 293407260,
     "key": "Tordorf",
     "original": "Tordorf",
-    "translation": "托儿多弗",
+    "translation": "岩洞野",
     "stage": 1,
     "context": "'Tordorf'"
   },
@@ -2699,7 +2699,7 @@
     "ID": 293407320,
     "key": "Reusdorf",
     "original": "Reusdorf",
-    "translation": "罗斯多弗",
+    "translation": "巨人野",
     "stage": 1,
     "context": "'Reusdorf'"
   },
@@ -5387,7 +5387,7 @@
     "ID": 293407656,
     "key": "Old %randomname%'s Hut",
     "original": "Old %randomname%'s Hut",
-    "translation": "旧 %randomname% 的小屋",
+    "translation": "老%randomname%的小屋",
     "stage": 1,
     "context": "\"Old %randomname%'s Hut\""
   },

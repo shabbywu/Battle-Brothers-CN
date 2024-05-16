@@ -27,8 +27,8 @@
     "ID": 293415586,
     "key": "Glad he fights with ",
     "original": "Glad he fights with ",
-    "translation": "他很高兴和[caption]一起战斗。",
-    "stage": 1,
+    "translation": "乐意并肩作战和",
+    "stage": 2,
     "context": "bro.improveMood(1.0, 'Glad he fights with ' + _event.m.Swordmaster.getName())"
   },
   {

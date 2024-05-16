@@ -3,8 +3,8 @@
     "ID": 293410099,
     "key": "Let's see what this is about.",
     "original": "Let's see what this is about.",
-    "translation": "我们来看看这是怎么回事。",
-    "stage": 5,
+    "translation": "让我们一探究竟。",
+    "stage": 1,
     "context": "Text = \"Let's see what this is about.\""
   },
   {
@@ -83,8 +83,8 @@
     "ID": 293410109,
     "key": "Let's get to business.",
     "original": "Let's get to business.",
-    "translation": "我们来商量商量。",
-    "stage": 5,
+    "translation": "那就说正事吧。",
+    "stage": 1,
     "context": "Text = \"Let's get to business.\""
   }
 ]

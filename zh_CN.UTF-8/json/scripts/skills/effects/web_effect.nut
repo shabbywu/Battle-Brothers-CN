@@ -59,8 +59,8 @@
     "ID": 293421791,
     "key": "Trapped in Web",
     "original": "Trapped in Web",
-    "translation": "困在蛛网中",
-    "stage": 5,
+    "translation": "蛛网缠身",
+    "stage": 1,
     "context": "this.m.Name = 'Trapped in Web'"
   }
 ]

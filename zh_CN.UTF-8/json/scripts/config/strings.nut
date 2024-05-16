@@ -723,7 +723,7 @@
     "ID": 293405726,
     "key": "Steinwall",
     "original": "Steinwall",
-    "translation": "石壁山",
+    "translation": "斯坦沃尔",
     "stage": 1,
     "context": "'Steinwall'"
   },
@@ -795,8 +795,8 @@
     "ID": 293405735,
     "key": "Many",
     "original": "Many",
-    "translation": "许多(7-9)",
-    "stage": 5,
+    "translation": "许多(7-10)",
+    "stage": 1,
     "context": "'Many'"
   },
   {
@@ -1643,7 +1643,7 @@
     "ID": 293405841,
     "key": "A plethora of",
     "original": "A plethora of",
-    "translation": "大量(12以上)",
+    "translation": "大量(14以上)",
     "stage": 1,
     "context": "'A plethora of'"
   },
@@ -1651,7 +1651,7 @@
     "ID": 293405842,
     "key": "Weilburg",
     "original": "Weilburg",
-    "translation": "小村堡",
+    "translation": "威尔博格",
     "stage": 1,
     "context": "'Weilburg'"
   },
@@ -1891,7 +1891,7 @@
     "ID": 293405872,
     "key": "Lots of",
     "original": "Lots of",
-    "translation": "很多(10-11)",
+    "translation": "很多(11-13)",
     "stage": 1,
     "context": "'Lots of'"
   },
@@ -3971,8 +3971,8 @@
     "ID": 293406132,
     "key": "Eisenstein",
     "original": "Eisenstein",
-    "translation": "铁石",
-    "stage": 5,
+    "translation": "埃森斯坦",
+    "stage": 1,
     "context": "'Eisenstein'"
   },
   {
@@ -6667,7 +6667,7 @@
     "ID": 293406469,
     "key": "Average",
     "original": "Average",
-    "translation": "平均",
+    "translation": "一般",
     "stage": 1,
     "context": "'Average'"
   },
@@ -7115,7 +7115,7 @@
     "ID": 293406525,
     "key": "Kaltenborn",
     "original": "Kaltenborn",
-    "translation": "冽水井",
+    "translation": "卡尔滕伯恩",
     "stage": 1,
     "context": "'Kaltenborn'"
   },
@@ -7403,7 +7403,7 @@
     "ID": 293406561,
     "key": "None",
     "original": "None",
-    "translation": "没有任何",
+    "translation": "无",
     "stage": 1,
     "context": "'None'"
   },

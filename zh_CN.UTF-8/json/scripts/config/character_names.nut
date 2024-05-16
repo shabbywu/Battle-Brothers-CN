@@ -3707,7 +3707,7 @@
     "ID": 293404241,
     "key": "%randomname% the Mad",
     "original": "%randomname% the Mad",
-    "translation": "疯子·%randomname%",
+    "translation": "疯子%randomname%",
     "stage": 1,
     "context": "'%randomname% the Mad'"
   },
@@ -3739,7 +3739,7 @@
     "ID": 293404245,
     "key": "%randomsouthernname% the Glistening Edge",
     "original": "%randomsouthernname% the Glistening Edge",
-    "translation": "闪亮边缘·%randomsouthernname%",
+    "translation": "闪烁之刃%randomsouthernname%",
     "stage": 1,
     "context": "'%randomsouthernname% the Glistening Edge'"
   },
@@ -5059,7 +5059,7 @@
     "ID": 293404410,
     "key": "%randomsouthernname% the Desert Devil",
     "original": "%randomsouthernname% the Desert Devil",
-    "translation": "沙漠恶魔·%randomsouthernname%",
+    "translation": "沙漠恶魔%randomsouthernname%",
     "stage": 1,
     "context": "'%randomsouthernname% the Desert Devil'"
   },
