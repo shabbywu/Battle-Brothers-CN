@@ -163,7 +163,7 @@
     "ID": 293408848,
     "key": "Escort %envoy% %envoy_title% to ",
     "original": "Escort %envoy% %envoy_title% to ",
-    "translation": "护送使节%envoy_title% %envoy%至队长(caption)所在地",
+    "translation": "护送使节%envoy_title%%envoy%至",
     "stage": 1,
     "context": "'Escort %envoy% %envoy_title% to ' + this.Contract.m.Destination.getName() + ' in the %direction%'"
   },
@@ -243,7 +243,7 @@
     "ID": 293408858,
     "key": " in the %direction%",
     "original": " in the %direction%",
-    "translation": "在%direction%方向",
+    "translation": "，在%direction%方",
     "stage": 1,
     "context": "'Escort %envoy% %envoy_title% to ' + this.Contract.m.Destination.getName() + ' in the %direction%'"
   },

@@ -227,7 +227,7 @@
     "ID": 293409056,
     "key": "Payment awaits.",
     "original": "Payment awaits.",
-    "translation": "等待报酬。",
+    "translation": "等着数钱吧。",
     "stage": 1,
     "context": "Text = 'Payment awaits.'"
   },

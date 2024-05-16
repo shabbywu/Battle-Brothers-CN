@@ -219,8 +219,8 @@
     "ID": 293408605,
     "key": "[img]gfx/ui/events/event_57.png[/img]{You sight %location% in the glass of your scope and mark it on your maps. Easy enough. Time to return to %employer%. | Well, it's already time to return to %employer% as %location% was easier to find than you figured.",
     "original": "[img]gfx/ui/events/event_57.png[/img]{You sight %location% in the glass of your scope and mark it on your maps. Easy enough. Time to return to %employer%. | Well, it's already time to return to %employer% as %location% was easier to find than you figured. Marking it on your map, you pause and chuckle and shake your head. What luck. | %location% comes into view and it's immediately reborn upon your map to the best of your illustrative capabilities. %randombrother% asks if that's all there is to do. You nod. A rough go or an easy one, %employer% will be waiting to pay you all the same.}",
-    "translation": "[img]gfx/ui/events/event_57.png[/img]{你用瞄准镜观察到了%location%，并将其标记在你的地图上。很容易。是时候回到%employer%那了。 | 好了，现在已经是时候回到%employer%那里了，因为寻找%location%比你想象的更容易。你在地图上做了标记，停下来笑了笑，摇了摇头。真是幸运。 | %location%出现在视野中，你立即发挥你的注解能力将其标注在地图上。%randombrother%问是否就这样任务就完成了，你点了点头。不管是难是易，%employer%都会等着付钱给你。}",
-    "stage": 5,
+    "translation": "[img]gfx/ui/events/event_57.png[/img]{你用望远镜观察到了%location%，将其标记在你的地图上。容易极了。是时候回到%employer%那了。 | 好了，是时候回到%employer%那里，找到%location%比你想象的更容易多了。你在地图上做了标记，停下来笑了笑，摇了摇头。真是幸运。 | %location%在视野中现身，你立即发挥你的标记能力，将其再现在地图上。%randombrother%问是不是这样就行了，你点了点头。不管是难是易，%employer%都会准备好付钱。}",
+    "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_57.png[/img]{You sight %location% in the glass of your scope and mark it on your maps. Easy enough. Time to return to %employer%. | Well, it's already time to return to %employer% as %location% was easier to find than you figured. Marking it on your map, you pause and chuckle and shake your head. What luck. | %location% comes into view and it's immediately reborn upon your map to the best of your illustrative capabilities. %randombrother% asks if that's all there is to do. You nod. A rough go or an easy one, %employer% will be waiting to pay you all the same.}\""
   },
   {

@@ -227,8 +227,8 @@
     "ID": 293403766,
     "key": "Warmed Up",
     "original": "Warmed Up",
-    "translation": "热身完成",
-    "stage": 5,
+    "translation": "热身完毕",
+    "stage": 1,
     "context": "'Warmed Up'"
   },
   {

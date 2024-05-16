@@ -43,8 +43,8 @@
     "ID": 293421703,
     "key": "Trapped in Vines",
     "original": "Trapped in Vines",
-    "translation": "困在藤蔓里",
-    "stage": 5,
+    "translation": "藤蔓缠身",
+    "stage": 1,
     "context": "this.m.Name = 'Trapped in Vines'"
   }
 ]
