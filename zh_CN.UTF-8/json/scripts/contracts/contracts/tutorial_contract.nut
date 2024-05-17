@@ -3,7 +3,7 @@
     "ID": 293410047,
     "key": "The return to %townname%",
     "original": "The return to %townname%",
-    "translation": "返回 %townname%",
+    "translation": "回%townname%路上",
     "stage": 1,
     "context": "Title = 'The return to %townname%'"
   },
@@ -11,8 +11,8 @@
     "ID": 293410048,
     "key": "[img]gfx/ui/events/event_21.png[/img]It all went wrong. Two days ago the company was hired to track down %boss% and his band of raiders, but it was them who found you first. An ambush. Some joke about horses, cut short by an arrow to the throat. Arrows sh",
     "original": "[img]gfx/ui/events/event_21.png[/img]It all went wrong. Two days ago the company was hired to track down %boss% and his band of raiders, but it was them who found you first. An ambush. Some joke about horses, cut short by an arrow to the throat. Arrows shooting in from everywhere and nowhere. Men holler and scream, a great volume before death.\n\nAs the hail subsides you draw your weapon with the rest of the men, only to collapse to your knees. An arrow has punctured your side. You shout in pain. A harried glance sees the men charge without you to make a valiant last stand, met in force as steel clashes with steel.\n\nYou meet eyes with the captain, a last nod before his throat is cut. You're left in command now of what few men remain. Trembling in pain you lean on your sword and with all the will you can muster slowly rise again...",
-    "translation": "[img]gfx/ui/events/event_21.png[/img]一切都出错了。两天前，战团被雇来追查%boss%和他的掠袭者团队，但最先找到你的是他们。这是一场伏击。有人开了一个有关马的玩笑，却因为一支箭射入喉咙而戛然而止。箭矢无所不在，从各个方向射来。人们呼喊和尖叫着，在死亡之前发出巨大的声响。\n\n当箭雨减缓时，你和残存的人拔出武器，但你突然跪倒在地。一支箭射入了你的身体。你在痛苦中大叫。匆匆一瞥，只见人们不等你就英勇冲上去做最后一搏，钢铁与钢铁激烈碰撞。\n\n你与队长对视一眼，他在喉咙被割开前最后点了一次头。现在，你指挥着残余的几人。你在痛苦中颤抖着倚靠在你的剑上，用你所能鼓起的一切意志慢慢地重新站起来……",
-    "stage": 5,
+    "translation": "[img]gfx/ui/events/event_21.png[/img]全乱套了。两天前，战团被雇来追踪%boss%和他的掠袭者团队，结果却率先被发现。是埋伏。一支射入某人喉咙的箭让他的马玩笑戛然而止。意料之外的箭矢从四面八方袭来。人们呼喊着，尖叫着，在死神面前发出巨大的声响。\n\n趁着箭雨减弱之际，你和残存的人一样拔出武器，却只得跪倒在地。一支箭射入了你的身侧。你痛得大叫。匆忙一瞥，只见人们等不及你，就冲上去作困兽之斗，钢铁与钢铁激烈碰撞。\n\n你与队长对视一眼，他在喉咙被割开前最后点了一次头。现在，你指挥着残余的几人。你在痛苦中颤抖着，拄着剑，用你所能鼓起的一切意志慢慢站起来……",
+    "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_21.png[/img]It all went wrong. Two days ago the company was hired to track down %boss% and his band of raiders, but it was them who found you first. An ambush. Some joke about horses, cut short by an arrow to the throat. Arrows shooting in from everywhere and nowhere. Men holler and scream, a great volume before death.\n\nAs the hail subsides you draw your weapon with the rest of the men, only to collapse to your knees. An arrow has punctured your side. You shout in pain. A harried glance sees the men charge without you to make a valiant last stand, met in force as steel clashes with steel.\n\nYou meet eyes with the captain, a last nod before his throat is cut. You're left in command now of what few men remain. Trembling in pain you lean on your sword and with all the will you can muster slowly rise again...\""
   },
   {
@@ -355,7 +355,7 @@
     "ID": 293410091,
     "key": "Recruit at least one more man",
     "original": "Recruit at least one more man",
-    "translation": "再招募一个人",
+    "translation": "至少再招募一个人",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.push('Recruit at least one more man')"
   },
