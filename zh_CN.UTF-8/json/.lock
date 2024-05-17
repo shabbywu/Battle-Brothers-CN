@@ -1220,8 +1220,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.288Z",
         "updatedAt": "2023-06-26T05:46:29.6Z",
-        "modifiedAt": "2024-05-14T02:00:33Z",
-        "sha256": "05ded1018690c24c5d3e0365449d075558e71aa85306d9086c1a00c4129ccfe3"
+        "modifiedAt": "2024-05-16T01:44:09Z",
+        "sha256": "b54d847b96a51241055675335f90a3f6a497b52c33d6eea53d1a189271311325"
     },
     "scripts/config/credits.json": {
         "id": 918414,
@@ -1382,8 +1382,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:45.456Z",
         "updatedAt": "2023-06-26T05:46:36.003Z",
-        "modifiedAt": "2024-05-13T02:42:51Z",
-        "sha256": "0b99a5e959d41f3967f5cd424325081862ca74fed5d145e96c485d8eb5129dcb"
+        "modifiedAt": "2024-05-16T04:39:48Z",
+        "sha256": "38acbbde2ed63c8363437c6951b74ab6c9c6a78c0c782cc1fd39a14897e264b9"
     },
     "scripts/config/world.json": {
         "id": 918423,
@@ -2348,14 +2348,14 @@
         "total": 51,
         "translated": 51,
         "disputed": 0,
-        "checked": 10,
-        "reviewed": 10,
+        "checked": 9,
+        "reviewed": 9,
         "hidden": 0,
         "locked": 1,
         "createdAt": "2023-05-13T14:18:12.283Z",
         "updatedAt": "2023-06-26T05:46:53.28Z",
-        "modifiedAt": "2024-05-13T02:52:26Z",
-        "sha256": "62016fe59edb35d11affb1d52156495f47390622a8bd4905dd9d4a237b2883ff"
+        "modifiedAt": "2024-05-16T06:25:17Z",
+        "sha256": "1433ebd05fb91d233ca1416cde68a13b51a53c5a8f608ab5471bacdabe3d363e"
     },
     "scripts/contracts/templates/intro_templates.json": {
         "id": 918477,
@@ -29420,14 +29420,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:28:54.906Z",
         "updatedAt": "2023-06-26T05:49:12.971Z",
-        "modifiedAt": "2023-06-26T05:49:13Z",
-        "sha256": "ea7f2d754b78d4ced72c13efde0831efc76d54bb39879b3528df00ea145d15c6"
+        "modifiedAt": "2024-05-16T01:15:39Z",
+        "sha256": "e9866befaa481a46e4a6ce35d083c7468a038bd198c640161c38ff682db58630"
     },
     "scripts/skills/actives/adrenaline_skill.json": {
         "id": 919981,
@@ -33890,8 +33890,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:52.282Z",
         "updatedAt": "2023-06-26T05:49:30.223Z",
-        "modifiedAt": "2024-04-17T07:25:34Z",
-        "sha256": "8629078b5f4def30e0c393544fa52e8265f7df3198cf7e2138f5d66191461988"
+        "modifiedAt": "2024-05-16T04:03:50Z",
+        "sha256": "25a2c339648be56ec04f9762ffb3aad04135af7cd5538efb4e8019719af2070a"
     },
     "scripts/skills/backgrounds/shepherd_southern_background.json": {
         "id": 920229,
@@ -33908,8 +33908,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:52.637Z",
         "updatedAt": "2023-06-26T05:49:30.297Z",
-        "modifiedAt": "2024-04-17T07:27:41Z",
-        "sha256": "5623fceef92f1c94bfdb85f75fe223eda29949aaa8aaa7675548e86593524b73"
+        "modifiedAt": "2024-05-16T04:03:58Z",
+        "sha256": "98fb9c27727b20f123d8c7f7e81fcba1e011a7a02993b574f89cd6feacc460e8"
     },
     "scripts/skills/backgrounds/slave_background.json": {
         "id": 920230,

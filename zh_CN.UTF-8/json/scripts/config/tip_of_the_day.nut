@@ -323,7 +323,7 @@
     "ID": 293406897,
     "key": "Spears are good defensive weapons due to their Spearwall ability.",
     "original": "Spears are good defensive weapons due to their Spearwall ability.",
-    "translation": "长矛具有\"矛墙 \"能力，是很好的防御武器。",
+    "translation": "长矛具有“矛墙”能力，是很好的防御武器。",
     "stage": 1,
     "context": "'Spears are good defensive weapons due to their Spearwall ability.'"
   },

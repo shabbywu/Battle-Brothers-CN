@@ -2147,7 +2147,7 @@
     "ID": 293404046,
     "key": "%randomname% the Oathbringer",
     "original": "%randomname% the Oathbringer",
-    "translation": "执誓者%randomname%",
+    "translation": "守誓者%randomname%",
     "stage": 1,
     "context": "'%randomname% the Oathbringer'"
   },
