@@ -8803,7 +8803,7 @@
     "ID": 293406736,
     "key": "Rachegeist",
     "original": "Rachegeist",
-    "translation": "雷切吉斯特",
+    "translation": "复仇之魂",
     "stage": 1,
     "context": "'Rachegeist'"
   },

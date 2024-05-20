@@ -35,7 +35,7 @@
     "ID": 293413819,
     "key": "We'll take on the forward posts.",
     "original": "We'll take on the forward posts.",
-    "translation": "我们会担任前锋。",
+    "translation": "我们要铲除他们的前哨。",
     "stage": 1,
     "context": "Text = \"We'll take on the forward posts.\""
   },
