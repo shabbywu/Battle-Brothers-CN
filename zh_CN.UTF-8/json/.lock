@@ -1220,8 +1220,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.288Z",
         "updatedAt": "2023-06-26T05:46:29.6Z",
-        "modifiedAt": "2024-05-16T01:44:09Z",
-        "sha256": "b54d847b96a51241055675335f90a3f6a497b52c33d6eea53d1a189271311325"
+        "modifiedAt": "2024-05-19T13:15:33Z",
+        "sha256": "1ba37ea4e6b8414d420c4be2393cd5aa8586160cb81da9ebe80fb9ea82c53715"
     },
     "scripts/config/credits.json": {
         "id": 918414,
@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-05-14T03:09:42Z",
-        "sha256": "27cb762642407e1f2aeb0cd99799beec467744ec5792c23c81c05f069cf57ef3"
+        "modifiedAt": "2024-05-19T13:07:47Z",
+        "sha256": "a4db17047e85c61e22c281e4d8b1c3680884b55dc894f5dbd233e272559c11ff"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -2354,8 +2354,8 @@
         "locked": 1,
         "createdAt": "2023-05-13T14:18:12.283Z",
         "updatedAt": "2023-06-26T05:46:53.28Z",
-        "modifiedAt": "2024-05-16T06:25:17Z",
-        "sha256": "1433ebd05fb91d233ca1416cde68a13b51a53c5a8f608ab5471bacdabe3d363e"
+        "modifiedAt": "2024-05-17T02:39:39Z",
+        "sha256": "a09dec2862056ea29a22751a726f1aa5d8a4038eb3d46b1dd4e42ffac54fb219"
     },
     "scripts/contracts/templates/intro_templates.json": {
         "id": 918477,
@@ -10004,8 +10004,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:01.169Z",
         "updatedAt": "2023-06-26T05:47:41.149Z",
-        "modifiedAt": "2023-06-26T05:47:41Z",
-        "sha256": "e21b9f604962384f1cd7235f26a3bfbf64565dbdd0bef569858948003f400042"
+        "modifiedAt": "2024-05-19T14:32:19Z",
+        "sha256": "3b82ccbaf17e5ebf8bb4338c9470954da2d3b88e3d59a836d055bb3fe939413b"
     },
     "scripts/events/events/dlc2/location/goblin_city_reminder_event.json": {
         "id": 918902,
@@ -10148,8 +10148,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:04Z",
         "updatedAt": "2023-07-05T12:36:00.241Z",
-        "modifiedAt": "2024-04-13T16:43:05Z",
-        "sha256": "85022f1efb9ff2e1350ebdc530226223f9cdb8e8811b5192ee460199aa3ead4e"
+        "modifiedAt": "2024-05-19T13:03:46Z",
+        "sha256": "b4b4f73560a3b0335b386a9c14874fff34ce08aeb9fb9a58126d58c439896be3"
     },
     "scripts/events/events/dlc2/location/witchhut_destroyed_event.json": {
         "id": 918910,
@@ -23090,8 +23090,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:08.151Z",
         "updatedAt": "2023-06-26T05:48:49.362Z",
-        "modifiedAt": "2024-04-16T02:53:50Z",
-        "sha256": "2920edaf4d00c0a0a5f42bd8ffe2c276baecbcb09aa3cf223a404486ed9e42a3"
+        "modifiedAt": "2024-05-19T13:07:47Z",
+        "sha256": "1c1762f22f3a44b886a6c99a536aec92eec1ca4895e2283a0eea3692d3b60fa1"
     },
     "scripts/items/misc/anatomist/research_notes_undead_item.json": {
         "id": 919629,

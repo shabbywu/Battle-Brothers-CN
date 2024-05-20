@@ -59,7 +59,7 @@
     "ID": 293418583,
     "key": "Rachegeist",
     "original": "Rachegeist",
-    "translation": "雷切吉斯特",
+    "translation": "复仇之魂",
     "stage": 1,
     "context": "creatureName = 'Rachegeist'"
   },

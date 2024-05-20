@@ -955,7 +955,7 @@
     "ID": 293403897,
     "key": "the Undefeated",
     "original": "the Undefeated",
-    "translation": "不败者",
+    "translation": "未尝一败",
     "stage": 1,
     "context": "'the Undefeated'"
   },
@@ -2315,7 +2315,7 @@
     "ID": 293404067,
     "key": "Athenades",
     "original": "Athenades",
-    "translation": "雅典娜",
+    "translation": "阿铁纳迭斯",
     "stage": 1,
     "context": "'Athenades'"
   },
@@ -7083,7 +7083,7 @@
     "ID": 293404663,
     "key": "the Unbeaten",
     "original": "the Unbeaten",
-    "translation": "·不败",
+    "translation": "不败",
     "stage": 1,
     "context": "'the Unbeaten'"
   },
