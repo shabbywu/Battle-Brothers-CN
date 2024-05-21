@@ -11,7 +11,7 @@
     "ID": 293410048,
     "key": "[img]gfx/ui/events/event_21.png[/img]It all went wrong. Two days ago the company was hired to track down %boss% and his band of raiders, but it was them who found you first. An ambush. Some joke about horses, cut short by an arrow to the throat. Arrows sh",
     "original": "[img]gfx/ui/events/event_21.png[/img]It all went wrong. Two days ago the company was hired to track down %boss% and his band of raiders, but it was them who found you first. An ambush. Some joke about horses, cut short by an arrow to the throat. Arrows shooting in from everywhere and nowhere. Men holler and scream, a great volume before death.\n\nAs the hail subsides you draw your weapon with the rest of the men, only to collapse to your knees. An arrow has punctured your side. You shout in pain. A harried glance sees the men charge without you to make a valiant last stand, met in force as steel clashes with steel.\n\nYou meet eyes with the captain, a last nod before his throat is cut. You're left in command now of what few men remain. Trembling in pain you lean on your sword and with all the will you can muster slowly rise again...",
-    "translation": "[img]gfx/ui/events/event_21.png[/img]全乱套了。两天前，战团被雇来追踪%boss%和他的掠袭者团队，结果却率先被发现。是埋伏。一支射入某人喉咙的箭让他的马玩笑戛然而止。意料之外的箭矢从四面八方袭来。人们呼喊着，尖叫着，在死神面前发出巨大的声响。\n\n趁着箭雨减弱之际，你和残存的人一样拔出武器，却只得跪倒在地。一支箭射入了你的身侧。你痛得大叫。匆忙一瞥，只见人们等不及你，就冲上去作困兽之斗，钢铁与钢铁激烈碰撞。\n\n你与队长对视一眼，他在喉咙被割开前最后点了一次头。现在，你指挥着残余的几人。你在痛苦中颤抖着，拄着剑，用你所能鼓起的一切意志慢慢站起来……",
+    "translation": "[img]gfx/ui/events/event_21.png[/img]全乱套了。两天前，战团被雇来追踪%boss%和他的掠袭者团队，结果却率先被发现。是埋伏。一支射入某人喉咙的箭让他的马玩笑戛然而止。意料之外的箭矢从四面八方袭来。人们呼喊着，尖叫着，在死前发出巨大的声响。\n\n趁着箭雨减弱之际，你和残存的人一道拔出武器，却只得跪倒在地。一支箭射入了你的身侧。你痛得大叫。匆忙一瞥，只见人们等不及你，就冲上去作困兽之斗，钢铁与钢铁激烈碰撞。\n\n你与队长对视一眼，他在喉咙被割开前最后点了一次头。现在，你指挥着残余的几人。你在痛苦中颤抖着，拄着剑，用你所能鼓起的一切意志慢慢站起来……",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_21.png[/img]It all went wrong. Two days ago the company was hired to track down %boss% and his band of raiders, but it was them who found you first. An ambush. Some joke about horses, cut short by an arrow to the throat. Arrows shooting in from everywhere and nowhere. Men holler and scream, a great volume before death.\n\nAs the hail subsides you draw your weapon with the rest of the men, only to collapse to your knees. An arrow has punctured your side. You shout in pain. A harried glance sees the men charge without you to make a valiant last stand, met in force as steel clashes with steel.\n\nYou meet eyes with the captain, a last nod before his throat is cut. You're left in command now of what few men remain. Trembling in pain you lean on your sword and with all the will you can muster slowly rise again...\""
   },
@@ -51,7 +51,7 @@
     "ID": 293410053,
     "key": "Travel to %location% %direction% of %townname%",
     "original": "Travel to %location% %direction% of %townname%",
-    "translation": "前往%townname%%direction%方向的%location%",
+    "translation": "前往%townname%%direction%方的%location%",
     "stage": 1,
     "context": "'Travel to %location% %direction% of %townname%'"
   },
@@ -147,7 +147,7 @@
     "ID": 293410065,
     "key": "We'll return with his head!",
     "original": "We'll return with his head!",
-    "translation": "我们会带着他的头回来！",
+    "translation": "我们要把他的头带回来！",
     "stage": 1,
     "context": "Text = \"We'll return with his head!\""
   },
@@ -195,7 +195,7 @@
     "ID": 293410071,
     "key": "[img]gfx/ui/events/event_79.png[/img]%employer% gasps.%SPEECH_ON%Well, naturally! 400 crowns as agreed upon.%SPEECH_OFF%He gestures towards a servant who rushes to your side with the pay in hand.%SPEECH_ON%I wonder... may I make use of your services one m",
     "original": "[img]gfx/ui/events/event_79.png[/img]%employer% gasps.%SPEECH_ON%Well, naturally! 400 crowns as agreed upon.%SPEECH_OFF%He gestures towards a servant who rushes to your side with the pay in hand.%SPEECH_ON%I wonder... may I make use of your services one more time? I'd very much like to end the headache that is Hoggart once and for all. And I would pay you again, of course. Another 400 crowns, shall we say?%SPEECH_OFF%%bro2% scoffs and turns to drink more wine, but %bro1% stands to speak.%SPEECH_ON%Yes, the company is in ruin, but we will rebuild it! Without the %companyname%, %bro2% would drink the crowns away and end up begging on the streets, and %bro3%, by the gods we all know he'd go chasing the womenfolk until one stove his rotted head in. We need the %companyname%, it's all we have! What say you, captain?%SPEECH_OFF%%bro2% burps and raises his cup to you. %bro3% playfully thumbs his nose and nods.%SPEECH_ON%Kill that bastard Hoggart or not, it's up to you, captain.%SPEECH_OFF%",
-    "translation": "[img]gfx/ui/events/event_79.png[/img]%employer%叹了口气。%SPEECH_ON%好吧，天经地义！400克朗，和约好的一样。%SPEECH_OFF%他冲着一个仆人做了个手势，然后仆人手里拿着报酬跑到了你边上。%SPEECH_ON%我想…我可以再次使用你的服务吗？ 我很想彻底结束霍加特这块心病。当然了，我会再付钱给你们。再加400克朗，谈谈吗？%SPEECH_OFF%%bro2%嗤之以鼻，灌下了更多的酒，但是%bro1% 站起来说道。%SPEECH_ON%没错，战团被毁了，但我们会重建它！没了%companyname%，%bro2%会喝酒花光克朗，流落街头乞讨，还有%bro3%，诸神在上，我们都知道他会跑去追女人，直到头被打烂扔进火炉。我们需要%companyname%，那是我们的全部！你怎么说，队长？%SPEECH_OFF%%bro2%打了个嗝然后向你举起了他的杯子。%bro3%调皮地刮了下鼻子点了点头。%SPEECH_ON%要不要杀了那个混蛋霍加特，你来决定，队长。%SPEECH_OFF%",
+    "translation": "[img]gfx/ui/events/event_79.png[/img]%employer%叹了口气。%SPEECH_ON%好吧，天地良心！400克朗，和约好的一样。%SPEECH_OFF%他冲着一个仆人做了个手势，然后仆人手里拿着报酬跑到了你边上。%SPEECH_ON%我想…我可以再次使用你的服务吗？ 我很想彻底结束霍加特这块心病。当然了，我会再付钱给你们。再加400克朗，谈谈吗？%SPEECH_OFF%%bro2%嗤之以鼻，灌下了更多的酒，但是%bro1% 站起来说道。%SPEECH_ON%没错，战团被毁了，但我们会重建它！没了%companyname%，%bro2%会喝酒花光克朗，流落街头乞讨，还有%bro3%，诸神在上，我们都知道他会跑去追女人，直到头被打烂扔进火炉。我们需要%companyname%，那是我们的全部！你怎么说，队长？%SPEECH_OFF%%bro2%打了个嗝然后向你举起了他的杯子。%bro3%调皮地刮了下鼻子点了点头。%SPEECH_ON%要不要杀了那个混蛋霍加特，你来决定，队长。%SPEECH_OFF%",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_79.png[/img]%employer% gasps.%SPEECH_ON%Well, naturally! 400 crowns as agreed upon.%SPEECH_OFF%He gestures towards a servant who rushes to your side with the pay in hand.%SPEECH_ON%I wonder... may I make use of your services one more time? I'd very much like to end the headache that is Hoggart once and for all. And I would pay you again, of course. Another 400 crowns, shall we say?%SPEECH_OFF%%bro2% scoffs and turns to drink more wine, but %bro1% stands to speak.%SPEECH_ON%Yes, the company is in ruin, but we will rebuild it! Without the %companyname%, %bro2% would drink the crowns away and end up begging on the streets, and %bro3%, by the gods we all know he'd go chasing the womenfolk until one stove his rotted head in. We need the %companyname%, it's all we have! What say you, captain?%SPEECH_OFF%%bro2% burps and raises his cup to you. %bro3% playfully thumbs his nose and nods.%SPEECH_ON%Kill that bastard Hoggart or not, it's up to you, captain.%SPEECH_OFF%\""
   },
@@ -251,7 +251,7 @@
     "ID": 293410078,
     "key": "[img]gfx/ui/events/event_75.png[/img]%bro3% joins your side.%SPEECH_ON%Got a moment, cap'n?%SPEECH_OFF%You nod for him to speak his mind.%SPEECH_ON%The battle has left some gear worse for wear and some men got a good nickin', too. We can patch up both man",
     "original": "[img]gfx/ui/events/event_75.png[/img]%bro3% joins your side.%SPEECH_ON%Got a moment, cap'n?%SPEECH_OFF%You nod for him to speak his mind.%SPEECH_ON%The battle has left some gear worse for wear and some men got a good nickin', too. We can patch up both man and equipment while marching, but it's a lot faster to set down and do it. Of course, if we make camp we should be wary of ambushes. A campfire in these parts can be seen from every which way.%SPEECH_OFF%",
-    "translation": "[img]gfx/ui/events/event_75.png[/img]%bro3%来到你旁边。%SPEECH_ON%有空吗，队长？%SPEECH_OFF%你点点头，示意他说出自己的想法。%SPEECH_ON%战斗磨损一些装备，一些人也受了伤。我们可以边行军边疗伤修装备，但扎营做这些会快很多。当然，扎营了就得警惕埋伏。这儿的营火哪儿都能看到。%SPEECH_OFF%",
+    "translation": "[img]gfx/ui/events/event_75.png[/img]%bro3%走到你旁边。%SPEECH_ON%有空吗，队长？%SPEECH_OFF%你点点头，示意他说出自己的想法。%SPEECH_ON%战斗磨损了一些装备，一些人也受了伤。我们可以边行军边疗伤修装备，但扎营做这些会快很多。当然，扎营了就得警惕埋伏。这儿的营火哪儿都能看到。%SPEECH_OFF%",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_75.png[/img]%bro3% joins your side.%SPEECH_ON%Got a moment, cap'n?%SPEECH_OFF%You nod for him to speak his mind.%SPEECH_ON%The battle has left some gear worse for wear and some men got a good nickin', too. We can patch up both man and equipment while marching, but it's a lot faster to set down and do it. Of course, if we make camp we should be wary of ambushes. A campfire in these parts can be seen from every which way.%SPEECH_OFF%\""
   },
@@ -291,7 +291,7 @@
     "ID": 293410083,
     "key": "That's what we shall do.",
     "original": "That's what we shall do.",
-    "translation": "那就是我们将要做的。",
+    "translation": "那正是我们要做的。",
     "stage": 1,
     "context": "Text = \"That's what we shall do.\""
   },
@@ -307,7 +307,7 @@
     "ID": 293410085,
     "key": "Unfinished Business",
     "original": "Unfinished Business",
-    "translation": "未完成的工作",
+    "translation": "大仇未报",
     "stage": 1,
     "context": "Title = 'Unfinished Business'"
   },
@@ -395,7 +395,7 @@
     "ID": 293410096,
     "key": "[img]gfx/ui/events/event_77.png[/img]As %bigcity%'s skyline appears on the horizon, %bro3% seeks a word with you.%SPEECH_ON%Never been to %bigcity% before, but I've been around ones that look a lot like it. Cities like these are great for selling goods as",
     "original": "[img]gfx/ui/events/event_77.png[/img]As %bigcity%'s skyline appears on the horizon, %bro3% seeks a word with you.%SPEECH_ON%Never been to %bigcity% before, but I've been around ones that look a lot like it. Cities like these are great for selling goods as all these prissy, pompous pricks love to have their goods delivered. With so many merchants, you can find almost everything you need, too. Keep an eye out for bargains, and don't get swindled by them cutthroat merchants.%SPEECH_OFF%%bro2% sees fit to add his own opinion of what you should do.%SPEECH_ON%If there's a good tavern, I say that's where we should go first. Nothing helps a man down on his luck more than a good pint. Gods know we earned it!%SPEECH_OFF%%bro3% shakes his head.%SPEECH_ON%You say that every time we stop into town! You say that even when you're already drunk!%SPEECH_OFF%",
-    "translation": "[img]gfx/ui/events/event_77.png[/img]当%bigcity%的轮廓出现在地平线上时，%bro3% 找你搭话。%SPEECH_ON%我之前从没去过%bigcity%，但去过很多类似的。这样的城市很适合卖货，这些谨小慎微，傲慢自大的混蛋都喜欢让他们的货物流通。有了这么多商人，没什么是买不到的。看好便宜货，别被奸商给骗了。%SPEECH_OFF%%bro2%认为有必要对你该做的事提出自己的意见。%SPEECH_ON%如果哪儿有一家好的酒馆，那就是我们最该去的地方。没什么比一品脱酒更能给人带来好运的了。诸神知道，这是我们应得的！%SPEECH_OFF%%bro3%摇了摇头。%SPEECH_ON%到哪儿你都这么说！甚至包括你喝多了的时候！%SPEECH_OFF%",
+    "translation": "[img]gfx/ui/events/event_77.png[/img]当%bigcity%的轮廓出现在地平线上时，%bro3% 找你搭话。%SPEECH_ON%我之前从没去过%bigcity%，但去过很多类似的。这样的城市很适合卖货，这些斤斤计较，傲慢自大的混蛋喜欢让他们的货物流通。商人多了，买不到的东西也就少了。看好便宜货，别被奸商给骗了。%SPEECH_OFF%%bro2%认为有必要对你该做的事提出自己的意见。%SPEECH_ON%如果哪儿有一家好的酒馆，那就是我们最该去的地方。没什么比一品脱酒更能给人带来好运的了。诸神知道，这是我们应得的！%SPEECH_OFF%%bro3%摇了摇头。%SPEECH_ON%每次进城你都这么说！喝醉了也没个够！%SPEECH_OFF%",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_77.png[/img]As %bigcity%'s skyline appears on the horizon, %bro3% seeks a word with you.%SPEECH_ON%Never been to %bigcity% before, but I've been around ones that look a lot like it. Cities like these are great for selling goods as all these prissy, pompous pricks love to have their goods delivered. With so many merchants, you can find almost everything you need, too. Keep an eye out for bargains, and don't get swindled by them cutthroat merchants.%SPEECH_OFF%%bro2% sees fit to add his own opinion of what you should do.%SPEECH_ON%If there's a good tavern, I say that's where we should go first. Nothing helps a man down on his luck more than a good pint. Gods know we earned it!%SPEECH_OFF%%bro3% shakes his head.%SPEECH_ON%You say that every time we stop into town! You say that even when you're already drunk!%SPEECH_OFF%\""
   },

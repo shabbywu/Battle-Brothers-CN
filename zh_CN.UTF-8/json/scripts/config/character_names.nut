@@ -1267,7 +1267,7 @@
     "ID": 293403936,
     "key": "the Dog",
     "original": "the Dog",
-    "translation": "·狗",
+    "translation": "狗",
     "stage": 1,
     "context": "'the Dog'"
   },
@@ -2459,7 +2459,7 @@
     "ID": 293404085,
     "key": "Joost Crowntaker",
     "original": "Joost Crowntaker",
-    "translation": "乔斯特皇冠继承人",
+    "translation": "克朗掳手乔斯特",
     "stage": 1,
     "context": "'Joost Crowntaker'"
   },
@@ -2483,7 +2483,7 @@
     "ID": 293404088,
     "key": "Urban Goodman",
     "original": "Urban Goodman",
-    "translation": "城市古德曼",
+    "translation": "好人厄班",
     "stage": 1,
     "context": "'Urban Goodman'"
   },
@@ -4115,7 +4115,7 @@
     "ID": 293404292,
     "key": "the Defiler",
     "original": "the Defiler",
-    "translation": "污染者",
+    "translation": "玷污者",
     "stage": 1,
     "context": "'the Defiler'"
   },
@@ -4963,7 +4963,7 @@
     "ID": 293404398,
     "key": "Anselm's Stolen Valor",
     "original": "Anselm's Stolen Valor",
-    "translation": "假冒安瑟姆",
+    "translation": "冒牌安瑟姆",
     "stage": 1,
     "context": "\"Anselm's Stolen Valor\""
   },
@@ -5163,7 +5163,7 @@
     "ID": 293404423,
     "key": "Sirus",
     "original": "Sirus",
-    "translation": "天狼星",
+    "translation": "塞卢斯",
     "stage": 1,
     "context": "'Sirus'"
   },
@@ -5771,7 +5771,7 @@
     "ID": 293404499,
     "key": "Akamas",
     "original": "Akamas",
-    "translation": "阿卡马斯半岛",
+    "translation": "阿卡玛斯",
     "stage": 1,
     "context": "'Akamas'"
   },
@@ -6219,7 +6219,7 @@
     "ID": 293404555,
     "key": "The Defiler",
     "original": "The Defiler",
-    "translation": "污染者",
+    "translation": "玷污者",
     "stage": 1,
     "context": "'The Defiler'"
   },
@@ -6235,7 +6235,7 @@
     "ID": 293404557,
     "key": "Rholes",
     "original": "Rholes",
-    "translation": "菱形",
+    "translation": "罗莱斯",
     "stage": 1,
     "context": "'Rholes'"
   },
@@ -6323,7 +6323,7 @@
     "ID": 293404568,
     "key": "Ostracon",
     "original": "Ostracon",
-    "translation": "鸵鸟",
+    "translation": "奥斯特拉孔",
     "stage": 1,
     "context": "'Ostracon'"
   },
