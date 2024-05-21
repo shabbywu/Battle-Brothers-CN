@@ -2,7 +2,7 @@
 name: Bug report
 about: 问题反馈
 title: "【BUG】"
-labels: ''
+labels: 'bug'
 assignees: shabbywu
 
 ---
@@ -27,4 +27,4 @@ assignees: shabbywu
  - OS: [e.g. Windows 11]
 
 **Additional context**
-如是游戏运行异常，请附带游戏的运行日志 我的文档/Battle Brothers/log.html
+如是游戏运行异常，请附带游戏的运行日志(在我的文档/Battle Brothers/log.html)
