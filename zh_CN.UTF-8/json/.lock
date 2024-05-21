@@ -1220,8 +1220,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.288Z",
         "updatedAt": "2023-06-26T05:46:29.6Z",
-        "modifiedAt": "2024-05-19T13:15:33Z",
-        "sha256": "1ba37ea4e6b8414d420c4be2393cd5aa8586160cb81da9ebe80fb9ea82c53715"
+        "modifiedAt": "2024-05-20T08:42:35Z",
+        "sha256": "a72f733a015d61eb8bb83d163d9a9002b65d23c7da4addfec76c1a8a7be244f6"
     },
     "scripts/config/credits.json": {
         "id": 918414,
@@ -1544,8 +1544,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:50.013Z",
         "updatedAt": "2023-06-26T05:46:38.606Z",
-        "modifiedAt": "2024-05-14T02:20:44Z",
-        "sha256": "251dd432a3bd65d7ac09f3d84ad84f86f3552faf6cf1a49e25af54c30716f4df"
+        "modifiedAt": "2024-05-20T03:09:31Z",
+        "sha256": "f5503f09da6a529ff5351271b12c647c99a2d9fdd5d9decfdeb79a465d10aad1"
     },
     "scripts/contracts/contracts/confront_warlord_contract.json": {
         "id": 918432,
@@ -2354,8 +2354,8 @@
         "locked": 1,
         "createdAt": "2023-05-13T14:18:12.283Z",
         "updatedAt": "2023-06-26T05:46:53.28Z",
-        "modifiedAt": "2024-05-17T02:39:39Z",
-        "sha256": "a09dec2862056ea29a22751a726f1aa5d8a4038eb3d46b1dd4e42ffac54fb219"
+        "modifiedAt": "2024-05-20T07:54:25Z",
+        "sha256": "2ee845f078be5683953d3065179fc5daec856907b977e8e1a09d44547fecf4cb"
     },
     "scripts/contracts/templates/intro_templates.json": {
         "id": 918477,
