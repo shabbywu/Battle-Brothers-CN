@@ -155,7 +155,7 @@
     "ID": 293410129,
     "key": " crowns per head you arrive with, up to ",
     "original": " crowns per head you arrive with, up to ",
-    "translation": " 克朗乘回来时的人头数，最多计 ",
+    "translation": "克朗乘回来时的人头数，最多计",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsPayment.push('Get ' + this.Contract.m.Payment.getPerCount() + ' crowns per head you arrive with, up to ' + this.Contract.m.Payment.MaxCount + ' total')"
   },
@@ -211,7 +211,7 @@
     "ID": 293410136,
     "key": " crowns per head you bring back, up to ",
     "original": " crowns per head you bring back, up to ",
-    "translation": " 克朗乘带回的人头数，最多计 ",
+    "translation": "克朗乘带回来的人头数，最多计",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsPayment.push('Get ' + this.Contract.m.Payment.getPerCount() + ' crowns per head you bring back, up to ' + this.Contract.m.Payment.MaxCount + ' total')"
   },

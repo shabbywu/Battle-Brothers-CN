@@ -11,8 +11,8 @@
     "ID": 293403606,
     "key": "Your men always start battle randomly at Wavering or Breaking morale.",
     "original": "Your men always start battle randomly at Wavering or Breaking morale.",
-    "translation": "你的人总是随机以动摇或瓦解士气开始战斗。",
-    "stage": 5,
+    "translation": "你的人总是随机以动摇或崩溃士气开始战斗。",
+    "stage": 1,
     "context": "this.m.OathBurdenText = 'Your men always start battle randomly at Wavering or Breaking morale.'"
   },
   {

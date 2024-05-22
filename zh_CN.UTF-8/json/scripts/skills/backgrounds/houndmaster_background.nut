@@ -3,7 +3,7 @@
     "ID": 293421027,
     "key": "Wardogs unleashed by this character will start at confident morale.",
     "original": "Wardogs unleashed by this character will start at confident morale.",
-    "translation": "这个角色释放的战犬将以自信的士气加入战斗。",
+    "translation": "这个角色释放的战犬将以自信士气加入战斗。",
     "stage": 1,
     "context": "text = 'Wardogs unleashed by this character will start at confident morale.'"
   },

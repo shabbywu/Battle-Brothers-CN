@@ -59,7 +59,7 @@
     "ID": 293415033,
     "key": "Got to study an unusual blight",
     "original": "Got to study an unusual blight",
-    "translation": "不得不研究一种不同寻常的枯萎病。",
+    "translation": "得以研究一种不同寻常的疫病。",
     "stage": 1,
     "context": "_event.m.Anatomist.improveMood(1.0, 'Got to study an unusual blight')"
   },
