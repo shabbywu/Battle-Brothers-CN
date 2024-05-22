@@ -363,7 +363,7 @@
     "ID": 293405681,
     "key": "A great leader of men inspires his followers to overcome their limits. Allies start every battle at confident morale unless prohibited by character traits.",
     "original": "A great leader of men inspires his followers to overcome their limits. Allies start every battle at confident morale unless prohibited by character traits.",
-    "translation": "一个伟大的领袖会激励他的追随者去克服他们的极限。除非性格特征禁止，否则盟友会以自信的士气开始每场战斗。",
+    "translation": "一个伟大的领袖会激励他的追随者去克服他们的极限。除非性格特征禁止，否则盟友会以自信士气开始每场战斗。",
     "stage": 1,
     "context": "InspiringPresence = 'A great leader of men inspires his followers to overcome their limits. Allies start every battle at confident morale unless prohibited by character traits.'"
   },

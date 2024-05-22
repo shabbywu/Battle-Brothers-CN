@@ -51,8 +51,8 @@
     "ID": 293422252,
     "key": "]75%[/color] chance to start battle at confident morale",
     "original": "]75%[/color] chance to start battle at confident morale",
-    "translation": "]75%[/color] 几率以自信的士气开始战斗",
-    "stage": 5,
+    "translation": "]75%[/color]几率以自信士气开始战斗",
+    "stage": 1,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']75%[/color] chance to start battle at confident morale'"
   },
   {
@@ -99,8 +99,8 @@
     "ID": 293422258,
     "key": "]25%[/color] chance to start battle at confident morale",
     "original": "]25%[/color] chance to start battle at confident morale",
-    "translation": "]25%[/color] 几率以自信的士气开始战斗",
-    "stage": 5,
+    "translation": "]25%[/color]几率自信的士气开始战斗",
+    "stage": 1,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] chance to start battle at confident morale'"
   },
   {
@@ -115,16 +115,16 @@
     "ID": 293422260,
     "key": "]50%[/color] chance to start battle at confident morale",
     "original": "]50%[/color] chance to start battle at confident morale",
-    "translation": "]50%[/color] 几率以自信的士气开始战斗",
-    "stage": 5,
+    "translation": "]50%[/color]几率自信的士气开始战斗",
+    "stage": 1,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] chance to start battle at confident morale'"
   },
   {
     "ID": 293422261,
     "key": "]breaking[/color] morale or worse",
     "original": "]breaking[/color] morale or worse",
-    "translation": "]瓦解[/color]或更糟士气",
-    "stage": 5,
+    "translation": "]崩溃[/color]或更糟士气",
+    "stage": 1,
     "context": "text = 'Can only have [color=' + this.Const.UI.Color.NegativeValue + ']breaking[/color] morale or worse'"
   }
 ]

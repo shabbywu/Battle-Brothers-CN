@@ -11,7 +11,7 @@
     "ID": 293418404,
     "key": "Cannot be reduced to Fleeing morale, only Breaking",
     "original": "Cannot be reduced to Fleeing morale, only Breaking",
-    "translation": "士气最低降至瓦解，不会溃逃",
+    "translation": "士气最低降至崩溃，不会溃逃",
     "stage": 1,
     "context": "text = 'Cannot be reduced to Fleeing morale, only Breaking'"
   },

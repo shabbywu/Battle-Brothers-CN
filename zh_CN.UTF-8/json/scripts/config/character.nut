@@ -3,16 +3,16 @@
     "ID": 293403738,
     "key": " is content",
     "original": " is content",
-    "translation": "很满意",
-    "stage": 5,
+    "translation": "现在安于现状",
+    "stage": 1,
     "context": "' is content'"
   },
   {
     "ID": 293403739,
     "key": "Gravely Wounded",
     "original": "Gravely Wounded",
-    "translation": "严重受伤",
-    "stage": 5,
+    "translation": "遍体鳞伤",
+    "stage": 1,
     "context": "'Gravely Wounded'"
   },
   {
@@ -27,56 +27,56 @@
     "ID": 293403741,
     "key": "Fatigued",
     "original": "Fatigued",
-    "translation": "疲劳",
-    "stage": 5,
+    "translation": "汗流浃背",
+    "stage": 1,
     "context": "'Fatigued'"
   },
   {
     "ID": 293403742,
     "key": " gets angry",
     "original": " gets angry",
-    "translation": "愤怒了",
-    "stage": 5,
+    "translation": "现在怒不可遏",
+    "stage": 1,
     "context": "' gets angry'"
   },
   {
     "ID": 293403743,
     "key": "Catching Breath",
     "original": "Catching Breath",
-    "translation": "喘息",
-    "stage": 5,
+    "translation": "气喘吁吁",
+    "stage": 1,
     "context": "'Catching Breath'"
   },
   {
     "ID": 293403744,
     "key": "Dissatisfied",
     "original": "Dissatisfied",
-    "translation": "不满意",
-    "stage": 5,
+    "translation": "闷闷不乐",
+    "stage": 1,
     "context": "'Dissatisfied'"
   },
   {
     "ID": 293403745,
     "key": "Wounded",
     "original": "Wounded",
-    "translation": "受伤",
-    "stage": 5,
+    "translation": "皮开肉绽",
+    "stage": 1,
     "context": "'Wounded'"
   },
   {
     "ID": 293403746,
     "key": "Disgruntled",
     "original": "Disgruntled",
-    "translation": "不快",
-    "stage": 5,
+    "translation": "忿忿不平",
+    "stage": 1,
     "context": "'Disgruntled'"
   },
   {
     "ID": 293403747,
     "key": " gets disgruntled",
     "original": " gets disgruntled",
-    "translation": "不快乐了",
-    "stage": 5,
+    "translation": "现在忿忿不平",
+    "stage": 1,
     "context": "' gets disgruntled'"
   },
   {
@@ -91,8 +91,8 @@
     "ID": 293403749,
     "key": "Euphoric",
     "original": "Euphoric",
-    "translation": "极度兴奋",
-    "stage": 5,
+    "translation": "意气风发",
+    "stage": 1,
     "context": "'Euphoric'"
   },
   {
@@ -115,8 +115,8 @@
     "ID": 293403752,
     "key": "Angry",
     "original": "Angry",
-    "translation": "愤怒",
-    "stage": 5,
+    "translation": "怒不可遏",
+    "stage": 1,
     "context": "'Angry'"
   },
   {
@@ -131,16 +131,16 @@
     "ID": 293403754,
     "key": " is in good spirit",
     "original": " is in good spirit",
-    "translation": "心情愉快",
-    "stage": 5,
+    "translation": "现在心情愉快",
+    "stage": 1,
     "context": "' is in good spirit'"
   },
   {
     "ID": 293403755,
     "key": " is breaking",
     "original": " is breaking",
-    "translation": "瓦解中",
-    "stage": 5,
+    "translation": "的士气崩溃了",
+    "stage": 1,
     "context": "' is breaking'"
   },
   {
@@ -155,8 +155,8 @@
     "ID": 293403757,
     "key": "'s morale is now steady",
     "original": "'s morale is now steady",
-    "translation": "的士气现在是稳定",
-    "stage": 5,
+    "translation": "的士气归于稳定",
+    "stage": 1,
     "context": "\"'s morale is now steady\""
   },
   {
@@ -179,24 +179,24 @@
     "ID": 293403760,
     "key": "Bruised",
     "original": "Bruised",
-    "translation": "受擦伤",
-    "stage": 5,
+    "translation": "不痛不痒",
+    "stage": 1,
     "context": "'Bruised'"
   },
   {
     "ID": 293403761,
     "key": " gets eager",
     "original": " gets eager",
-    "translation": "情绪高涨",
-    "stage": 5,
+    "translation": "现在跃跃欲试",
+    "stage": 1,
     "context": "' gets eager'"
   },
   {
     "ID": 293403762,
     "key": "Unharmed",
     "original": "Unharmed",
-    "translation": "无恙",
-    "stage": 5,
+    "translation": "毫发无伤",
+    "stage": 1,
     "context": "'Unharmed'"
   },
   {
@@ -204,7 +204,7 @@
     "key": "Fleeing",
     "original": "Fleeing",
     "translation": "溃逃",
-    "stage": 5,
+    "stage": 1,
     "context": "'Fleeing'"
   },
   {
@@ -219,8 +219,8 @@
     "ID": 293403765,
     "key": "Eager",
     "original": "Eager",
-    "translation": "情绪高涨",
-    "stage": 5,
+    "translation": "跃跃欲试",
+    "stage": 1,
     "context": "'Eager'"
   },
   {
@@ -235,8 +235,8 @@
     "ID": 293403767,
     "key": "Content",
     "original": "Content",
-    "translation": "满意",
-    "stage": 5,
+    "translation": "安于现状",
+    "stage": 1,
     "context": "'Content'"
   },
   {
@@ -251,8 +251,8 @@
     "ID": 293403769,
     "key": " is wavering",
     "original": " is wavering",
-    "translation": "动摇中",
-    "stage": 5,
+    "translation": "的士气动摇了",
+    "stage": 1,
     "context": "' is wavering'"
   },
   {
@@ -275,32 +275,32 @@
     "ID": 293403772,
     "key": "Breaking",
     "original": "Breaking",
-    "translation": "瓦解",
-    "stage": 5,
+    "translation": "崩溃",
+    "stage": 1,
     "context": "'Breaking'"
   },
   {
     "ID": 293403773,
     "key": " gets dissatisfied",
     "original": " gets dissatisfied",
-    "translation": "不满意了",
-    "stage": 5,
+    "translation": "现在闷闷不乐",
+    "stage": 1,
     "context": "' gets dissatisfied'"
   },
   {
     "ID": 293403774,
     "key": " gets euphoric",
     "original": " gets euphoric",
-    "translation": "极度兴奋",
-    "stage": 5,
+    "translation": "现在意气风发",
+    "stage": 1,
     "context": "' gets euphoric'"
   },
   {
     "ID": 293403775,
     "key": " is fleeing",
     "original": " is fleeing",
-    "translation": "溃逃中",
-    "stage": 5,
+    "translation": "落荒而逃",
+    "stage": 1,
     "context": "' is fleeing'"
   },
   {

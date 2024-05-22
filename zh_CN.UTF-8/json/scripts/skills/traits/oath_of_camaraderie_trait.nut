@@ -3,8 +3,8 @@
     "ID": 293422614,
     "key": "Will start combat at Wavering or Breaking morale",
     "original": "Will start combat at Wavering or Breaking morale",
-    "translation": "将以动摇或瓦解士气开始战斗。",
-    "stage": 5,
+    "translation": "将以动摇或崩溃士气开始战斗。",
+    "stage": 1,
     "context": "text = 'Will start combat at Wavering or Breaking morale'"
   },
   {

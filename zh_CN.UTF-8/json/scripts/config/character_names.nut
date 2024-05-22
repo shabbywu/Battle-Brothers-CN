@@ -291,7 +291,7 @@
     "ID": 293403814,
     "key": "the Odd",
     "original": "the Odd",
-    "translation": "·怪人",
+    "translation": "怪人",
     "stage": 1,
     "context": "'the Odd'"
   },
@@ -531,7 +531,7 @@
     "ID": 293403844,
     "key": "the Tepid",
     "original": "the Tepid",
-    "translation": "·温热",
+    "translation": "温热",
     "stage": 1,
     "context": "'the Tepid'"
   },
@@ -739,7 +739,7 @@
     "ID": 293403870,
     "key": "The Blight",
     "original": "The Blight",
-    "translation": "枯萎病",
+    "translation": "疫病",
     "stage": 1,
     "context": "'The Blight'"
   },
@@ -939,7 +939,7 @@
     "ID": 293403895,
     "key": "the Everlasting",
     "original": "the Everlasting",
-    "translation": "·永恒",
+    "translation": "·永生者",
     "stage": 1,
     "context": "'the Everlasting'"
   },
@@ -1899,7 +1899,7 @@
     "ID": 293404015,
     "key": "Sureshot",
     "original": "Sureshot",
-    "translation": "煞特",
+    "translation": "泰然之箭",
     "stage": 1,
     "context": "'Sureshot'"
   },
@@ -2291,7 +2291,7 @@
     "ID": 293404064,
     "key": "The Skulltaker",
     "original": "The Skulltaker",
-    "translation": "偷猎者",
+    "translation": "猎头者",
     "stage": 1,
     "context": "'The Skulltaker'"
   },
@@ -2355,7 +2355,7 @@
     "ID": 293404072,
     "key": "the Thaumaturge",
     "original": "the Thaumaturge",
-    "translation": "·嗜血者",
+    "translation": "奇术士",
     "stage": 1,
     "context": "'the Thaumaturge'"
   },
@@ -2483,7 +2483,7 @@
     "ID": 293404088,
     "key": "Urban Goodman",
     "original": "Urban Goodman",
-    "translation": "好人厄班",
+    "translation": "市井豪徒",
     "stage": 1,
     "context": "'Urban Goodman'"
   },
@@ -2539,7 +2539,7 @@
     "ID": 293404095,
     "key": "the Blight",
     "original": "the Blight",
-    "translation": "枯萎病",
+    "translation": "疫病",
     "stage": 1,
     "context": "'the Blight'"
   },
@@ -2627,7 +2627,7 @@
     "ID": 293404106,
     "key": "Orcbane",
     "original": "Orcbane",
-    "translation": "奥克班",
+    "translation": "兽人杀手",
     "stage": 1,
     "context": "'Orcbane'"
   },
@@ -2651,7 +2651,7 @@
     "ID": 293404109,
     "key": "the Torturer",
     "original": "the Torturer",
-    "translation": "·折磨者",
+    "translation": "折磨者",
     "stage": 1,
     "context": "'the Torturer'"
   },
@@ -2675,7 +2675,7 @@
     "ID": 293404112,
     "key": "the Bloodied",
     "original": "the Bloodied",
-    "translation": "血污者",
+    "translation": "·染血者",
     "stage": 1,
     "context": "'the Bloodied'"
   },
@@ -2835,7 +2835,7 @@
     "ID": 293404132,
     "key": "the Flagellant",
     "original": "the Flagellant",
-    "translation": "·苦修者",
+    "translation": "苦修者",
     "stage": 1,
     "context": "'the Flagellant'"
   },
@@ -2923,7 +2923,7 @@
     "ID": 293404143,
     "key": "the Snake",
     "original": "the Snake",
-    "translation": "·蛇",
+    "translation": "蛇",
     "stage": 1,
     "context": "'the Snake'"
   },
@@ -3131,7 +3131,7 @@
     "ID": 293404169,
     "key": "Ironside",
     "original": "Ironside",
-    "translation": "铁甲",
+    "translation": "铁汉",
     "stage": 1,
     "context": "'Ironside'"
   },
@@ -3259,7 +3259,7 @@
     "ID": 293404185,
     "key": "%randomsouthernname% the Gilded",
     "original": "%randomsouthernname% the Gilded",
-    "translation": "镀金者%randomsouthernname%",
+    "translation": "金镀者%randomsouthernname%",
     "stage": 1,
     "context": "'%randomsouthernname% the Gilded'"
   },
@@ -3299,7 +3299,7 @@
     "ID": 293404190,
     "key": "the High Priest",
     "original": "the High Priest",
-    "translation": "·大祭司",
+    "translation": "大祭司",
     "stage": 1,
     "context": "'the High Priest'"
   },
@@ -3459,7 +3459,7 @@
     "ID": 293404210,
     "key": "the Sutler",
     "original": "the Sutler",
-    "translation": "·随军小贩",
+    "translation": "随军小贩",
     "stage": 1,
     "context": "'the Sutler'"
   },
@@ -4259,7 +4259,7 @@
     "ID": 293404310,
     "key": "the Seeker",
     "original": "the Seeker",
-    "translation": "·探求者",
+    "translation": "探求者",
     "stage": 1,
     "context": "'the Seeker'"
   },
@@ -4427,8 +4427,8 @@
     "ID": 293404331,
     "key": "Longnose",
     "original": "Longnose",
-    "translation": "长鼻(Longnose)",
-    "stage": 5,
+    "translation": "长鼻",
+    "stage": 1,
     "context": "'Longnose'"
   },
   {
@@ -4707,7 +4707,7 @@
     "ID": 293404366,
     "key": "the Witchhunter",
     "original": "the Witchhunter",
-    "translation": "·女巫猎人",
+    "translation": "女巫猎人",
     "stage": 1,
     "context": "'the Witchhunter'"
   },
@@ -4867,7 +4867,7 @@
     "ID": 293404386,
     "key": "the Merchant",
     "original": "the Merchant",
-    "translation": "·商人",
+    "translation": "商人",
     "stage": 1,
     "context": "'the Merchant'"
   },
@@ -4939,7 +4939,7 @@
     "ID": 293404395,
     "key": "the Builder",
     "original": "the Builder",
-    "translation": "·奠基者",
+    "translation": "奠基者",
     "stage": 1,
     "context": "'the Builder'"
   },
@@ -5323,7 +5323,7 @@
     "ID": 293404443,
     "key": "the Rock",
     "original": "the Rock",
-    "translation": "·岩石",
+    "translation": "岩石",
     "stage": 1,
     "context": "'the Rock'"
   },
@@ -5467,7 +5467,7 @@
     "ID": 293404461,
     "key": "the Raging Bull",
     "original": "the Raging Bull",
-    "translation": "·狂怒的公牛",
+    "translation": "·疯牛",
     "stage": 1,
     "context": "'the Raging Bull'"
   },
@@ -5867,7 +5867,7 @@
     "ID": 293404511,
     "key": "the Rat",
     "original": "the Rat",
-    "translation": "·老鼠",
+    "translation": "鼠",
     "stage": 1,
     "context": "'the Rat'"
   },
@@ -6243,7 +6243,7 @@
     "ID": 293404558,
     "key": "the Pilgrim",
     "original": "the Pilgrim",
-    "translation": "·朝圣者",
+    "translation": "朝圣者",
     "stage": 1,
     "context": "'the Pilgrim'"
   },
@@ -6355,7 +6355,7 @@
     "ID": 293404572,
     "key": "the Brawler",
     "original": "the Brawler",
-    "translation": "·打手",
+    "translation": "打手",
     "stage": 1,
     "context": "'the Brawler'"
   },
@@ -6363,7 +6363,7 @@
     "ID": 293404573,
     "key": "Battleborn",
     "original": "Battleborn",
-    "translation": "战争者",
+    "translation": "战裔",
     "stage": 1,
     "context": "'Battleborn'"
   },
@@ -6435,7 +6435,7 @@
     "ID": 293404582,
     "key": "the Shoveler",
     "original": "the Shoveler",
-    "translation": "·铲子",
+    "translation": "铲工",
     "stage": 1,
     "context": "'the Shoveler'"
   },
@@ -6859,7 +6859,7 @@
     "ID": 293404635,
     "key": "the Crusher",
     "original": "the Crusher",
-    "translation": "·破碎机",
+    "translation": "·粉碎者",
     "stage": 1,
     "context": "'the Crusher'"
   },
@@ -7451,7 +7451,7 @@
     "ID": 293404709,
     "key": "the Stallion",
     "original": "the Stallion",
-    "translation": "·种马",
+    "translation": "种马",
     "stage": 1,
     "context": "'the Stallion'"
   },

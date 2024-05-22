@@ -11,8 +11,8 @@
     "ID": 293422739,
     "key": "A sure footing makes it hard to catch this character off balance and land a hit.",
     "original": "A sure footing makes it hard to catch this character off balance and land a hit.",
-    "translation": "一个稳定的下盘使这个角色很难失去平衡并被打中。",
-    "stage": 5,
+    "translation": "稳定的下盘使这个角色很难失去平衡被打中。",
+    "stage": 1,
     "context": "this.m.Description = 'A sure footing makes it hard to catch this character off balance and land a hit.'"
   },
   {
