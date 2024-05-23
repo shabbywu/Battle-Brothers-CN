@@ -129,8 +129,8 @@ graph
 3. 联网环境下执行
 
 > Q: 为什么要联网?   
-> A: 为了保证汉化文本最新, 每次执行都需会更新 [Battle-Brothers-CN](https://github.com/shabbywu/Battle-Brothers-CN)
-
+> A: 初次使用时, 需要联网初始化本地化项目 [Battle-Brothers-CN](https://github.com/shabbywu/Battle-Brothers-CN), 否则会因为缺失词条文件而无法使用。   
+> 此外, 建议定期更新本地化项目，因为我们的汉化成员会不定期校对已翻译的文本。
 
 ⭐️ 协同工具 - push-to-paratranz/sync-from-paratranz
 ==========================================
