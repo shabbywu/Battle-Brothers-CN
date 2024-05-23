@@ -113,19 +113,18 @@ graph
 3. 翻译不易, 走过路过右上角点个 star 可以吗？谢谢
 
 ---
-⭐️ 汉化工具 - bb-translator(测试中)
+⭐️ 汉化工具 - [bb-translator](https://github.com/shabbywu/bb-translator)
 ==========================================
-bb-translator 是 Battle Brothers(战场兄弟)中文翻译器, 会自动使用本项目的 po 文件翻译 data 目录下的游戏脚本。
+[bb-translator](https://github.com/shabbywu/bb-translator) 是 Battle Brothers(战场兄弟) 的文本翻译器, 翻译器使用[本地化项目](https://github.com/shabbywu/Battle-Brothers-CN)的词条文件翻译 data 目录下的游戏脚本。
 
 主要特性:
 - 使用 physfs 读取文件, 实现了与游戏同样的加载方式和顺序
-- 同时支持翻译 .nut/.cnut, 理论上支持翻译 Mod(只要 po 中有对应的汉化文本)
-- 可汉化历史版本的游戏脚本(只要 po 中有对应的汉化文本)
+- 同时支持翻译 .nut/.cnut, 理论上支持翻译 Mod(只要 词条文件 中有对应的汉化文本)
+- 可汉化历史版本的游戏脚本(只要 词条文件 中有对应的汉化文本)
 - GUI 界面
-- 使用内置“启动游戏”功能运行游戏时支持大地图中文字符
 
 ## 使用说明
-1. 从 [Release](https://github.com/BattleBrothersGameCN/Release/releases) 下载最新版本的 bb-translator
+1. 从 [Release](https://github.com/shabbywu/Battle-Brothers-CN/releases) 下载最新版本的 bb-translator
 2. 解压到游戏目录
 3. 联网环境下执行
 
