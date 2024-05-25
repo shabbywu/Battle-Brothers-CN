@@ -3,8 +3,8 @@
     "ID": 293403374,
     "key": "The best way to prove that we are the strongest company around\nis to defeat another mercenary band in battle!",
     "original": "The best way to prove that we are the strongest company around\nis to defeat another mercenary band in battle!",
-    "translation": "证明我们是最强战团的最佳方法就是在战斗中击败另一支雇佣兵团！",
-    "stage": 5,
+    "translation": "证明我们是最强战团的最佳方法\n就是在战斗中击败另一支雇佣兵团！",
+    "stage": 1,
     "context": "this.m.ButtonText = 'The best way to prove that we are the strongest company around\nis to defeat another mercenary band in battle!'"
   },
   {

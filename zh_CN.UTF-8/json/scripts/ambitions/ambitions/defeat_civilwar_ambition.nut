@@ -35,8 +35,8 @@
     "ID": 293403338,
     "key": "Dragging On",
     "original": "Dragging On",
-    "translation": "陷入胶着",
-    "stage": 5,
+    "translation": "难解难分",
+    "stage": 1,
     "context": "text = 'Dragging On'"
   },
   {
@@ -51,24 +51,24 @@
     "ID": 293403340,
     "key": "Raging",
     "original": "Raging",
-    "translation": "战况激烈",
-    "stage": 5,
+    "translation": "激战正酣",
+    "stage": 1,
     "context": "text = 'Raging'"
   },
   {
     "ID": 293403341,
     "key": "Just started",
     "original": "Just started",
-    "translation": "战争初始",
-    "stage": 5,
+    "translation": "短兵相接",
+    "stage": 1,
     "context": "text = 'Just started'"
   },
   {
     "ID": 293403342,
     "key": "Almost Over",
     "original": "Almost Over",
-    "translation": "接近尾声",
-    "stage": 5,
+    "translation": "尘埃落定",
+    "stage": 1,
     "context": "text = 'Almost Over'"
   }
 ]
