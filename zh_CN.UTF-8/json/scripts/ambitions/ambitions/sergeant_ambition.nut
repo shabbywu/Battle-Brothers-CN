@@ -27,7 +27,7 @@
     "ID": 293403543,
     "key": "We fight well, but we need to be better organized in case things get dire.\nI shall name a sergeant to rally you on the battlefield.",
     "original": "We fight well, but we need to be better organized in case things get dire.\nI shall name a sergeant to rally you on the battlefield.",
-    "translation": "我们作战情况不错，但还需要更好的组织来应对恶劣情况。我得命名一位军士在战场上集结你们。",
+    "translation": "我们作战情况不错，但还需要更好的组织来应对恶劣情况。\n我得命名一位军士在战场上集结你们。",
     "stage": 1,
     "context": "this.m.ButtonText = 'We fight well, but we need to be better organized in case things get dire.\nI shall name a sergeant to rally you on the battlefield.'"
   },

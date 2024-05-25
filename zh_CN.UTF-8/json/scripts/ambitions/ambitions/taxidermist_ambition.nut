@@ -11,7 +11,7 @@
     "ID": 293403550,
     "key": "Nothing commands respect as a trophy of a giant beast of the frozen wastes.\nLet's go hunt and get the taxidermist some work!",
     "original": "Nothing commands respect as a trophy of a giant beast of the frozen wastes.\nLet's go hunt and get the taxidermist some work!",
-    "translation": "没什么能比冻土野兽的战利品更让人尊敬。让我们去狩猎一些然后请剥制师干点活！",
+    "translation": "没什么能比冻土野兽的战利品更让人尊敬。\n让我们去狩猎一些然后请剥制师干点活！",
     "stage": 1,
     "context": "this.m.ButtonText = \"Nothing commands respect as a trophy of a giant beast of the frozen wastes.\nLet's go hunt and get the taxidermist some work!\""
   },

@@ -11,7 +11,7 @@
     "ID": 293403360,
     "key": "Dragging On",
     "original": "Dragging On",
-    "translation": "陷入胶着",
+    "translation": "难解难分",
     "stage": 1,
     "context": "text = 'Dragging On'"
   },
@@ -19,7 +19,7 @@
     "ID": 293403361,
     "key": "Almost Over",
     "original": "Almost Over",
-    "translation": "接近尾声",
+    "translation": "尘埃落定",
     "stage": 1,
     "context": "text = 'Almost Over'"
   },
@@ -27,7 +27,7 @@
     "ID": 293403362,
     "key": "The fires of religious turmoil threaten to engulf the lands. Let the company be forged\nstronger than ever by its heat and flames, and earn a fortune by winning the war!",
     "original": "The fires of religious turmoil threaten to engulf the lands. Let the company be forged\nstronger than ever by its heat and flames, and earn a fortune by winning the war!",
-    "translation": "宗教动乱之火威胁着要吞噬这片土地。 \n让我们的战团在热火中锻炼得比以往任何时候都强大，并通过赢得战争来赚取财富！",
+    "translation": "宗教动乱之火威胁着要吞噬这片土地。 让我们的战团在热火\n中锻炼得比以往任何时候都强大，并通过赢得战争来赚取财富！",
     "stage": 1,
     "context": "this.m.ButtonText = 'The fires of religious turmoil threaten to engulf the lands. Let the company be forged\nstronger than ever by its heat and flames, and earn a fortune by winning the war!'"
   },
@@ -35,7 +35,7 @@
     "ID": 293403363,
     "key": "Raging",
     "original": "Raging",
-    "translation": "战况激烈",
+    "translation": "激战正酣",
     "stage": 1,
     "context": "text = 'Raging'"
   },
@@ -43,7 +43,7 @@
     "ID": 293403364,
     "key": "Just started",
     "original": "Just started",
-    "translation": "战争初始",
+    "translation": "短兵相接",
     "stage": 1,
     "context": "text = 'Just started'"
   },

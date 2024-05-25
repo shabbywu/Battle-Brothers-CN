@@ -59,7 +59,7 @@
     "ID": 293403498,
     "key": "We need to catch the eye of one of the noble houses for more profitable work. They\nplay their own dangerous game, but what does it matter as long as the pay is good?",
     "original": "We need to catch the eye of one of the noble houses for more profitable work. They\nplay their own dangerous game, but what does it matter as long as the pay is good?",
-    "translation": "我们需要吸引其中一个贵族家族的眼球，以获得更有利可图的工作。 他们在玩自己的危险游戏，但只要报酬丰厚又有什么关系呢？",
+    "translation": "我们需要吸引其中一个贵族家族的眼球，以获得更有利可图的工作。 \n他们在玩自己的危险游戏，但只要报酬丰厚又有什么关系呢？",
     "stage": 1,
     "context": "this.m.ButtonText = 'We need to catch the eye of one of the noble houses for more profitable work. They\nplay their own dangerous game, but what does it matter as long as the pay is good?'"
   }

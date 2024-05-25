@@ -27,7 +27,7 @@
     "ID": 293403538,
     "key": "Let's build up our numbers to twenty good men so that the wounded\nmay rest and the weary regain their strength between skirmishes.",
     "original": "Let's build up our numbers to twenty good men so that the wounded\nmay rest and the weary regain their strength between skirmishes.",
-    "translation": "让我们把人数增加到20人，这样伤员就能得到休息恢复活力重新上场。",
+    "translation": "让我们把人数增加到20人，\n这样伤员就能得到休息恢复活力重新上场。",
     "stage": 1,
     "context": "this.m.ButtonText = \"Let's build up our numbers to twenty good men so that the wounded\nmay rest and the weary regain their strength between skirmishes.\""
   },
