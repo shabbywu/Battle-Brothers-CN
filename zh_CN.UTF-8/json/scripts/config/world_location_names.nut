@@ -227,7 +227,7 @@
     "ID": 293407011,
     "key": "Isenhagen",
     "original": "Isenhagen",
-    "translation": "埃辛哈根",
+    "translation": "铁圃",
     "stage": 1,
     "context": "'Isenhagen'"
   },
@@ -747,7 +747,7 @@
     "ID": 293407076,
     "key": "Almor",
     "original": "Almor",
-    "translation": "奥摩尔",
+    "translation": "牧山甸",
     "stage": 1,
     "context": "'Almor'"
   },
@@ -923,8 +923,8 @@
     "ID": 293407098,
     "key": "Schoenberg",
     "original": "Schoenberg",
-    "translation": "美丽之丘",
-    "stage": 5,
+    "translation": "丽景丘",
+    "stage": 1,
     "context": "'Schoenberg'"
   },
   {
@@ -1411,7 +1411,7 @@
     "ID": 293407159,
     "key": "Arbegen",
     "original": "Arbegen",
-    "translation": "埃尔伯根",
+    "translation": "隐士丘",
     "stage": 1,
     "context": "'Arbegen'"
   },
@@ -1467,7 +1467,7 @@
     "ID": 293407166,
     "key": "Marburg",
     "original": "Marburg",
-    "translation": "马尔伯格",
+    "translation": "琐语丘",
     "stage": 1,
     "context": "'Marburg'"
   },
@@ -1579,7 +1579,7 @@
     "ID": 293407180,
     "key": "Bogenheim",
     "original": "Bogenheim",
-    "translation": "伯格海姆",
+    "translation": "蜿蜒原",
     "stage": 1,
     "context": "'Bogenheim'"
   },
@@ -1907,7 +1907,7 @@
     "ID": 293407221,
     "key": "Malmkrog",
     "original": "Malmkrog",
-    "translation": "玛默克格",
+    "translation": "玛默角",
     "stage": 1,
     "context": "'Malmkrog'"
   },
@@ -2067,7 +2067,7 @@
     "ID": 293407241,
     "key": "Segeland",
     "original": "Segeland",
-    "translation": "赛格兰",
+    "translation": "帆扬野",
     "stage": 1,
     "context": "'Segeland'"
   },
@@ -2571,7 +2571,7 @@
     "ID": 293407304,
     "key": "Almborg",
     "original": "Almborg",
-    "translation": "奥姆伯格",
+    "translation": "堡甸丘",
     "stage": 1,
     "context": "'Almborg'"
   },
@@ -2635,7 +2635,7 @@
     "ID": 293407312,
     "key": "Tadeln",
     "original": "Tadeln",
-    "translation": "塔德恩",
+    "translation": "斑瑕丘",
     "stage": 1,
     "context": "'Tadeln'"
   },
@@ -2667,7 +2667,7 @@
     "ID": 293407316,
     "key": "Ulmen",
     "original": "Ulmen",
-    "translation": "奥门",
+    "translation": "榆树林",
     "stage": 1,
     "context": "'Ulmen'"
   },
@@ -2883,7 +2883,7 @@
     "ID": 293407343,
     "key": "Wedemark",
     "original": "Wedemark",
-    "translation": "文德马克",
+    "translation": "掸子野",
     "stage": 1,
     "context": "'Wedemark'"
   },
@@ -2995,7 +2995,7 @@
     "ID": 293407357,
     "key": "Ferlangen",
     "original": "Ferlangen",
-    "translation": "弗尔兰根",
+    "translation": "远攀莽",
     "stage": 1,
     "context": "'Ferlangen'"
   },
@@ -3219,7 +3219,7 @@
     "ID": 293407385,
     "key": "Radeln",
     "original": "Radeln",
-    "translation": "拉德恩",
+    "translation": "石竹田",
     "stage": 1,
     "context": "'Radeln'"
   },
@@ -3571,7 +3571,7 @@
     "ID": 293407429,
     "key": "Baden",
     "original": "Baden",
-    "translation": "巴登",
+    "translation": "沐洗原",
     "stage": 1,
     "context": "'Baden'"
   },
@@ -3931,7 +3931,7 @@
     "ID": 293407474,
     "key": "Thurgau",
     "original": "Thurgau",
-    "translation": "图尔古",
+    "translation": "汇流郊",
     "stage": 1,
     "context": "'Thurgau'"
   },
@@ -4131,7 +4131,7 @@
     "ID": 293407499,
     "key": "Dulmen",
     "original": "Dulmen",
-    "translation": "迪尔门",
+    "translation": "杜尔门",
     "stage": 1,
     "context": "'Dulmen'"
   },
@@ -4243,7 +4243,7 @@
     "ID": 293407513,
     "key": "Felmern",
     "original": "Felmern",
-    "translation": "费摩恩",
+    "translation": "费尔默恩",
     "stage": 1,
     "context": "'Felmern'"
   },
@@ -4451,7 +4451,7 @@
     "ID": 293407539,
     "key": "Albstadt",
     "original": "Albstadt",
-    "translation": "奥尔施塔特",
+    "translation": "夜魔郊",
     "stage": 1,
     "context": "'Albstadt'"
   },
@@ -5267,7 +5267,7 @@
     "ID": 293407641,
     "key": "Wallstadt",
     "original": "Wallstadt",
-    "translation": "沃尔斯塔特",
+    "translation": "坝郊",
     "stage": 1,
     "context": "'Wallstadt'"
   },
@@ -5403,7 +5403,7 @@
     "ID": 293407658,
     "key": "Karnstein",
     "original": "Karnstein",
-    "translation": "卡恩斯坦",
+    "translation": "铁灰岩",
     "stage": 1,
     "context": "'Karnstein'"
   },
@@ -5603,7 +5603,7 @@
     "ID": 293407683,
     "key": "Heidemark",
     "original": "Heidemark",
-    "translation": "海德马克",
+    "translation": "石楠野",
     "stage": 1,
     "context": "'Heidemark'"
   },
@@ -5923,7 +5923,7 @@
     "ID": 293407723,
     "key": "Ulhart",
     "original": "Ulhart",
-    "translation": "奥哈特",
+    "translation": "始坚丘",
     "stage": 1,
     "context": "'Ulhart'"
   },

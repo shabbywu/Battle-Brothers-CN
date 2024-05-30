@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-05-21T03:05:55Z",
-        "sha256": "03f2113e0c65af425c194249d3d0462845c7a37c40e70f0fe1087bb297b3f1af"
+        "modifiedAt": "2024-05-28T03:31:08Z",
+        "sha256": "00b12a5c6a16c5a8ada83ec287b87261162091368b50669f8135603e0620dc46"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -1412,14 +1412,14 @@
         "total": 752,
         "translated": 752,
         "disputed": 0,
-        "checked": 77,
-        "reviewed": 77,
+        "checked": 76,
+        "reviewed": 76,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:46.237Z",
         "updatedAt": "2023-06-26T05:46:36.564Z",
-        "modifiedAt": "2024-05-14T02:44:43Z",
-        "sha256": "3e7cfdcb4dce4090b96844b179041259827b58205219832b8adc89829e40f4f0"
+        "modifiedAt": "2024-05-29T03:18:38Z",
+        "sha256": "8dd5ac9b5396980b2628d794efa29978bffb0ab8a88896d4b103a1154edd39ec"
     },
     "scripts/contracts/contract.json": {
         "id": 918425,
@@ -2366,14 +2366,14 @@
         "total": 11,
         "translated": 11,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:12.684Z",
         "updatedAt": "2023-06-26T05:46:53.494Z",
-        "modifiedAt": "2024-05-24T02:06:03Z",
-        "sha256": "fe2c0208f5535be2968056e6bc3513c5838d14d2cb5bd46d9a671087792e4924"
+        "modifiedAt": "2024-05-27T01:59:55Z",
+        "sha256": "040b4ad67eb9ecea57ab40c2850bd3612c6788a6c072eb0b5b572ff36d698c5d"
     },
     "scripts/contracts/templates/negotiation_templates.json": {
         "id": 918478,
@@ -23498,14 +23498,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:26:17.966Z",
         "updatedAt": "2023-06-26T05:48:50.765Z",
-        "modifiedAt": "2023-06-26T05:48:51Z",
-        "sha256": "4e2dde3bfd2c21d77cbebbd52eaa6ded197c3fea029c85f2c873e9fb47763011"
+        "modifiedAt": "2024-05-29T14:03:33Z",
+        "sha256": "807848ea1b350b9f3fe1d8c00730a60b6b54113028f321bde089f6c70366c801"
     },
     "scripts/items/misc/miracle_drug_item.json": {
         "id": 919652,
@@ -29426,8 +29426,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:54.906Z",
         "updatedAt": "2023-06-26T05:49:12.971Z",
-        "modifiedAt": "2024-05-16T01:15:39Z",
-        "sha256": "e9866befaa481a46e4a6ce35d083c7468a038bd198c640161c38ff682db58630"
+        "modifiedAt": "2024-05-27T14:19:44Z",
+        "sha256": "58ece8ccee4290b5e94e5fd9ec7444c2d7e3d8b911e627e98b49935a072ddb17"
     },
     "scripts/skills/actives/adrenaline_skill.json": {
         "id": 919981,
