@@ -6371,7 +6371,7 @@
     "ID": 293406432,
     "key": "Sometimes it's better to do a tactical retreat in order to live and fight another day. The men will attempt to reach the edges of the map by themselves and then safely retreat. However, the enemy may catch up, and anyone currently engaged may not be able ",
     "original": "Sometimes it's better to do a tactical retreat in order to live and fight another day. The men will attempt to reach the edges of the map by themselves and then safely retreat. However, the enemy may catch up, and anyone currently engaged may not be able to get away unscathed or even alive.",
-    "translation": "有时最好进行一次战术撤退，以便在另一天生活和战斗。这些人将尝试自己到达地图的边缘，然后安全撤退。但是，敌人可能会追上来，任何当前参与的人都可能无法毫发无损甚至活着。",
+    "translation": "所谓留得青山在，不怕没柴烧，有时战术撤退或许是更好的选择。你的人会自行尝试到达地图的边缘，安全撤退。但是，他们也可能被敌人追上，已经陷入近战中的人未必能做到毫发无损，甚至没法活着离开。",
     "stage": 1,
     "context": "FleeDialogueConsequences = \"Sometimes it's better to do a tactical retreat in order to live and fight another day. The men will attempt to reach the edges of the map by themselves and then safely retreat. However, the enemy may catch up, and anyone currently engaged may not be able to get away unscathed or even alive.\""
   },
@@ -9715,7 +9715,7 @@
     "ID": 293406850,
     "key": "Wide Watch",
     "original": "Wide Watch",
-    "translation": "宽手表",
+    "translation": "阔望原",
     "stage": 1,
     "context": "'Wide Watch'"
   },
