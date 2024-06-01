@@ -1003,7 +1003,7 @@
     "ID": 293403903,
     "key": "Kha-Athlu the All-Ender",
     "original": "Kha-Athlu the All-Ender",
-    "translation": "卡阿斯鲁·毁灭者",
+    "translation": "毁灭者卡·阿斯鲁",
     "stage": 1,
     "context": "'Kha-Athlu the All-Ender'"
   },
@@ -1427,7 +1427,7 @@
     "ID": 293403956,
     "key": "Naccorath the Eternal",
     "original": "Naccorath the Eternal",
-    "translation": "纳克拉斯·永恒者",
+    "translation": "永恒者纳克拉斯",
     "stage": 1,
     "context": "'Naccorath the Eternal'"
   },
@@ -2091,7 +2091,7 @@
     "ID": 293404039,
     "key": "Chtan-Nahitil the Gorger of All",
     "original": "Chtan-Nahitil the Gorger of All",
-    "translation": "万物元首·赫坦纳希提",
+    "translation": "万物吞食者赫坦·纳希提",
     "stage": 1,
     "context": "'Chtan-Nahitil the Gorger of All'"
   },
@@ -2451,7 +2451,7 @@
     "ID": 293404084,
     "key": "Thohochoth the All-Ender",
     "original": "Thohochoth the All-Ender",
-    "translation": "托霍乔斯·万物的终结",
+    "translation": "万物终结托霍乔斯",
     "stage": 1,
     "context": "'Thohochoth the All-Ender'"
   },
@@ -3515,7 +3515,7 @@
     "ID": 293404217,
     "key": "Xa-Shutar the Eater of Worlds",
     "original": "Xa-Shutar the Eater of Worlds",
-    "translation": "世界吞噬者扎舒塔尔",
+    "translation": "世界吞噬者扎·舒塔尔",
     "stage": 1,
     "context": "'Xa-Shutar the Eater of Worlds'"
   },
@@ -5259,7 +5259,7 @@
     "ID": 293404435,
     "key": "Oswall the Odd",
     "original": "Oswall the Odd",
-    "translation": "奇怪的奥斯瓦尔奇",
+    "translation": "怪人奥斯瓦尔",
     "stage": 1,
     "context": "'Oswall the Odd'"
   },
@@ -5635,7 +5635,7 @@
     "ID": 293404482,
     "key": "Gu-Shogg the Thousand-Armed Thresher",
     "original": "Gu-Shogg the Thousand-Armed Thresher",
-    "translation": "古沼洛克·千臂乱舞者",
+    "translation": "千臂乱舞者古·绍革",
     "stage": 1,
     "context": "'Gu-Shogg the Thousand-Armed Thresher'"
   },
@@ -6803,7 +6803,7 @@
     "ID": 293404628,
     "key": "Ogg-Sattoth the Grand Devourer",
     "original": "Ogg-Sattoth the Grand Devourer",
-    "translation": "大噬者奥格-萨托斯",
+    "translation": "大噬者奥格·萨托斯",
     "stage": 1,
     "context": "'Ogg-Sattoth the Grand Devourer'"
   },
@@ -6827,7 +6827,7 @@
     "ID": 293404631,
     "key": "Xapocathlu the All-Reaching",
     "original": "Xapocathlu the All-Reaching",
-    "translation": "万物之触哈珀克瑟鲁",
+    "translation": "无所不在哈珀克瑟鲁",
     "stage": 1,
     "context": "'Xapocathlu the All-Reaching'"
   },

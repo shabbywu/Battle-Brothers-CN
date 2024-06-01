@@ -2659,7 +2659,7 @@
     "ID": 293405968,
     "key": "Shinglehumps",
     "original": "Shinglehumps",
-    "translation": "带状疱疹",
+    "translation": "卵石丘",
     "stage": 1,
     "context": "'Shinglehumps'"
   },
