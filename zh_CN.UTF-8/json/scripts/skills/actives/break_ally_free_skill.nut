@@ -19,8 +19,8 @@
     "ID": 293419834,
     "key": "Free Ally",
     "original": "Free Ally",
-    "translation": "解放盟友",
-    "stage": 5,
+    "translation": "解救盟友",
+    "stage": 1,
     "context": "this.m.Name = 'Free Ally'"
   },
   {

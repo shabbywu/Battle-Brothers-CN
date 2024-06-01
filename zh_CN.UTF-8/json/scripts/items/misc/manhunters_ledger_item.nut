@@ -11,7 +11,7 @@
     "ID": 293418672,
     "key": " Manhunters in the company",
     "original": " Manhunters in the company",
-    "translation": "名在役猎奴者",
+    "translation": "名猎奴者在役",
     "stage": 1,
     "context": "text = nonIndebted + ' Manhunters in the company'"
   },
@@ -43,7 +43,7 @@
     "ID": 293418676,
     "key": " Indebted in the company",
     "original": " Indebted in the company",
-    "translation": "名在役负债者",
+    "translation": "名负债者在役",
     "stage": 1,
     "context": "text = indebted + ' Indebted in the company'"
   },

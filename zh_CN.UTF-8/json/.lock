@@ -1220,8 +1220,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.288Z",
         "updatedAt": "2023-06-26T05:46:29.6Z",
-        "modifiedAt": "2024-05-21T02:32:20Z",
-        "sha256": "24522a7bc4a206069ff19715ba2611d82c685ad39517e5af9d1f31ff7bea0d71"
+        "modifiedAt": "2024-05-31T07:49:41Z",
+        "sha256": "ab67c0248963eb915b90c6ecd8a656a978fece05510718b4bf83e250b3332537"
     },
     "scripts/config/credits.json": {
         "id": 918414,
@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-05-28T03:31:08Z",
-        "sha256": "00b12a5c6a16c5a8ada83ec287b87261162091368b50669f8135603e0620dc46"
+        "modifiedAt": "2024-05-31T14:52:23Z",
+        "sha256": "3a245012fc0120c8077e2100c8cf6d92594fcb2e7a07b7c725c02d2bf35b61dd"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -1544,8 +1544,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:50.013Z",
         "updatedAt": "2023-06-26T05:46:38.606Z",
-        "modifiedAt": "2024-05-20T03:09:31Z",
-        "sha256": "f5503f09da6a529ff5351271b12c647c99a2d9fdd5d9decfdeb79a465d10aad1"
+        "modifiedAt": "2024-05-31T09:02:01Z",
+        "sha256": "90f120f87b7674c21568b0fc5664f1ef12d93531c3d7d3a34d76e9351f6ff69a"
     },
     "scripts/contracts/contracts/confront_warlord_contract.json": {
         "id": 918432,
@@ -23504,8 +23504,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:17.966Z",
         "updatedAt": "2023-06-26T05:48:50.765Z",
-        "modifiedAt": "2024-05-29T14:03:33Z",
-        "sha256": "807848ea1b350b9f3fe1d8c00730a60b6b54113028f321bde089f6c70366c801"
+        "modifiedAt": "2024-05-31T03:58:12Z",
+        "sha256": "9afeebc6588455b90a07031d0c0ad5a50c5d2651d4d7a902a9e831db097ef45c"
     },
     "scripts/items/misc/miracle_drug_item.json": {
         "id": 919652,
@@ -29582,14 +29582,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:28:59.381Z",
         "updatedAt": "2023-06-26T05:49:13.526Z",
-        "modifiedAt": "2023-06-26T05:49:14Z",
-        "sha256": "f2dc3c75bbfb412009c79361fd12ef666d233753b103e5fe4b081e09e7e000ba"
+        "modifiedAt": "2024-05-31T04:37:51Z",
+        "sha256": "a38e2dbf762d82d8a91e58ebb7d02e22f764f1e578c41e00bf5ca315cc536bff"
     },
     "scripts/skills/actives/break_free_skill.json": {
         "id": 919990,
