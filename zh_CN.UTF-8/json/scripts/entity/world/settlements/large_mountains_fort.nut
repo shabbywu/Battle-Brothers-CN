@@ -171,7 +171,7 @@
     "ID": 293410911,
     "key": "Granitfeste",
     "original": "Granitfeste",
-    "translation": "花岗岩堡垒",
+    "translation": "花岗要塞",
     "stage": 1,
     "context": "this.getRandomName(['Hohenfeste','Wolfenfeste','Wolfenstein','Felsfeste','Eisenfeste','Grollfeste','Grubenfeste','Donnerfeste','Erzfeste','Gronenfeste','Sattelfeste','Kammfeste','Turmfeste','Windfeste','Adlerfeste','Brunwald','Heldenfeste','Wurmfeste','Schwertfeste','Lanzenfeste','Falkenstein','Flechtenstein','Himmelsfeste','Steinturm','Gipfelfeste','Zugfeste','Granitfeste','Zinnenfeste','Wackersfeste','Fernsichtfeste','Wildbergfeste'])"
   },

@@ -83,7 +83,7 @@
     "ID": 293412010,
     "key": "Muhlenheim",
     "original": "Muhlenheim",
-    "translation": "碾磨乡",
+    "translation": "石碾乡",
     "stage": 1,
     "context": "this.getRandomName(['Weidefeld','Hemmeln','Saxdorf','Kochendorf','Altenhof','Weidenau','Schnellen','Neudorf','Freidorf','Weissenhaus','Muhlenheim','Grunfelde','Ivendorf','Grafenheide','Hermannshof','Koppeldorf','Meiding','Varel','Durbach','Dreifelden','Bockhorn','Hufschlag','Hage','Wagenheim','Harlingen','Wiese','Wiesendorf','Markdorf','Heuweiler','Bitterfeld','Neuenried','Auenbach','Adelshofen','Allersdorf','Brunnendorf','Ochsenhausen','Weingarten','Konigsfeld','Rosenhof','Weidenbach'])"
   },

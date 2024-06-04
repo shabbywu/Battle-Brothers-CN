@@ -43,7 +43,7 @@
     "ID": 293405641,
     "key": "Steppe",
     "original": "Steppe",
-    "translation": "草原",
+    "translation": "草地",
     "stage": 1,
     "context": "'Steppe'"
   },
@@ -59,7 +59,7 @@
     "ID": 293405643,
     "key": "Poundmaker",
     "original": "Poundmaker",
-    "translation": "庞德梅克",
+    "translation": "庞德梅克号",
     "stage": 1,
     "context": "'Poundmaker'"
   },
@@ -83,7 +83,7 @@
     "ID": 293405646,
     "key": "Vanity",
     "original": "Vanity",
-    "translation": "虚荣",
+    "translation": "浮华号",
     "stage": 1,
     "context": "'Vanity'"
   },
@@ -179,7 +179,7 @@
     "ID": 293405658,
     "key": "Tempest Ocean",
     "original": "Tempest Ocean",
-    "translation": "风暴之海",
+    "translation": "狂澜洋",
     "stage": 1,
     "context": "'Tempest Ocean'"
   },
@@ -259,7 +259,7 @@
     "ID": 293405668,
     "key": "Merry Mist",
     "original": "Merry Mist",
-    "translation": "醉人薄雾",
+    "translation": "醉人薄雾号",
     "stage": 1,
     "context": "'Merry Mist'"
   },
@@ -283,7 +283,7 @@
     "ID": 293405671,
     "key": "Albatros",
     "original": "Albatros",
-    "translation": "信天翁",
+    "translation": "信天翁号",
     "stage": 1,
     "context": "'Albatros'"
   },
@@ -427,7 +427,7 @@
     "ID": 293405689,
     "key": "Green Sea",
     "original": "Green Sea",
-    "translation": "绿海",
+    "translation": "碧绿海",
     "stage": 1,
     "context": "'Green Sea'"
   },
@@ -475,7 +475,7 @@
     "ID": 293405695,
     "key": "Cruel Sea",
     "original": "Cruel Sea",
-    "translation": "残酷之海",
+    "translation": "冷厉海",
     "stage": 1,
     "context": "'Cruel Sea'"
   },
@@ -547,7 +547,7 @@
     "ID": 293405704,
     "key": "Wailing Ocean",
     "original": "Wailing Ocean",
-    "translation": "哀泣海",
+    "translation": "哀泣洋",
     "stage": 1,
     "context": "'Wailing Ocean'"
   },
@@ -555,7 +555,7 @@
     "ID": 293405705,
     "key": "Belzebub",
     "original": "Belzebub",
-    "translation": "别西卜",
+    "translation": "别西卜号",
     "stage": 1,
     "context": "'Belzebub'"
   },
@@ -851,7 +851,7 @@
     "ID": 293405742,
     "key": "Dry Steppe",
     "original": "Dry Steppe",
-    "translation": "燥干草原",
+    "translation": "旱草地",
     "stage": 1,
     "context": "'Dry Steppe'"
   },
@@ -1011,7 +1011,7 @@
     "ID": 293405762,
     "key": "Summer Daze",
     "original": "Summer Daze",
-    "translation": "暑夏之地",
+    "translation": "夏日风情号",
     "stage": 1,
     "context": "'Summer Daze'"
   },
@@ -1371,8 +1371,8 @@
     "ID": 293405807,
     "key": "Hogfolk",
     "original": "Hogfolk",
-    "translation": "猪人村",
-    "stage": 5,
+    "translation": "山民野",
+    "stage": 1,
     "context": "'Hogfolk'"
   },
   {
@@ -1427,7 +1427,7 @@
     "ID": 293405814,
     "key": "Bleak Moon",
     "original": "Bleak Moon",
-    "translation": "黯淡的月亮",
+    "translation": "凄凉月光号",
     "stage": 1,
     "context": "'Bleak Moon'"
   },
@@ -1459,7 +1459,7 @@
     "ID": 293405818,
     "key": "Foamy Shallows",
     "original": "Foamy Shallows",
-    "translation": "泡沫浅滩",
+    "translation": "泡沫涂",
     "stage": 1,
     "context": "'Foamy Shallows'"
   },
@@ -1467,7 +1467,7 @@
     "ID": 293405819,
     "key": "Mooseridge",
     "original": "Mooseridge",
-    "translation": "覆苔角",
+    "translation": "麋鹿角",
     "stage": 1,
     "context": "'Mooseridge'"
   },
@@ -1523,7 +1523,7 @@
     "ID": 293405826,
     "key": "White Horses Sea",
     "original": "White Horses Sea",
-    "translation": "白马海",
+    "translation": "白驹海",
     "stage": 1,
     "context": "'White Horses Sea'"
   },
@@ -1531,7 +1531,7 @@
     "ID": 293405827,
     "key": "Sea of Turning Tides",
     "original": "Sea of Turning Tides",
-    "translation": "转潮之海",
+    "translation": "回潮海",
     "stage": 1,
     "context": "'Sea of Turning Tides'"
   },
@@ -1555,7 +1555,7 @@
     "ID": 293405830,
     "key": "Sycamore",
     "original": "Sycamore",
-    "translation": "梧桐",
+    "translation": "梧桐号",
     "stage": 1,
     "context": "'Sycamore'"
   },
@@ -1819,7 +1819,7 @@
     "ID": 293405863,
     "key": "Brunhild",
     "original": "Brunhild",
-    "translation": "布伦希尔德",
+    "translation": "布伦希尔德号",
     "stage": 1,
     "context": "'Brunhild'"
   },
@@ -2075,7 +2075,7 @@
     "ID": 293405895,
     "key": "Brakel",
     "original": "Brakel",
-    "translation": "刹车",
+    "translation": "呼啸号",
     "stage": 1,
     "context": "'Brakel'"
   },
@@ -2091,7 +2091,7 @@
     "ID": 293405897,
     "key": "Quickmatch",
     "original": "Quickmatch",
-    "translation": "快速匹配",
+    "translation": "竞速号",
     "stage": 1,
     "context": "'Quickmatch'"
   },
@@ -2219,7 +2219,7 @@
     "ID": 293405913,
     "key": "Autumn Wind",
     "original": "Autumn Wind",
-    "translation": "秋风",
+    "translation": "秋风号",
     "stage": 1,
     "context": "'Autumn Wind'"
   },
@@ -2227,7 +2227,7 @@
     "ID": 293405914,
     "key": "Whale's Voyage",
     "original": "Whale's Voyage",
-    "translation": "鲸鱼之旅",
+    "translation": "鲸游号",
     "stage": 1,
     "context": "\"Whale's Voyage\""
   },
@@ -2243,7 +2243,7 @@
     "ID": 293405916,
     "key": "King's Bounty",
     "original": "King's Bounty",
-    "translation": "国王的赏金",
+    "translation": "国王之赐号",
     "stage": 1,
     "context": "\"King's Bounty\""
   },
@@ -2451,7 +2451,7 @@
     "ID": 293405942,
     "key": "Grasslands",
     "original": "Grasslands",
-    "translation": "草原",
+    "translation": "大草原",
     "stage": 1,
     "context": "'Grasslands'"
   },
@@ -2603,7 +2603,7 @@
     "ID": 293405961,
     "key": "Griffon",
     "original": "Griffon",
-    "translation": "格里芬",
+    "translation": "狮鹫号",
     "stage": 1,
     "context": "'Griffon'"
   },
@@ -2683,7 +2683,7 @@
     "ID": 293405971,
     "key": "buy a big wagon",
     "original": "buy a big wagon",
-    "translation": "买一辆大货车",
+    "translation": "购置大货车",
     "stage": 1,
     "context": "'buy a big wagon'"
   },
@@ -2803,7 +2803,7 @@
     "ID": 293405986,
     "key": "Kindon",
     "original": "Kindon",
-    "translation": "金东",
+    "translation": "温墩",
     "stage": 1,
     "context": "'Kindon'"
   },
@@ -2859,7 +2859,7 @@
     "ID": 293405993,
     "key": "Bertha",
     "original": "Bertha",
-    "translation": "伯莎",
+    "translation": "伯莎号",
     "stage": 1,
     "context": "'Bertha'"
   },
@@ -2883,7 +2883,7 @@
     "ID": 293405996,
     "key": "Arching Tides Ocean",
     "original": "Arching Tides Ocean",
-    "translation": "拱潮海洋",
+    "translation": "拱潮洋",
     "stage": 1,
     "context": "'Arching Tides Ocean'"
   },
@@ -2891,7 +2891,7 @@
     "ID": 293405997,
     "key": "The Shimmering Depths",
     "original": "The Shimmering Depths",
-    "translation": "波光粼粼的深渊",
+    "translation": "粼波渊",
     "stage": 1,
     "context": "'The Shimmering Depths'"
   },
@@ -2963,16 +2963,16 @@
     "ID": 293406006,
     "key": "Unbroken Third",
     "original": "Unbroken Third",
-    "translation": "坚毅之三",
-    "stage": 5,
+    "translation": "不灭三人众",
+    "stage": 1,
     "context": "'Unbroken Third'"
   },
   {
     "ID": 293406007,
     "key": "Oak Wood Meadows",
     "original": "Oak Wood Meadows",
-    "translation": "橡木草地",
-    "stage": 5,
+    "translation": "橡木甸",
+    "stage": 1,
     "context": "'Oak Wood Meadows'"
   },
   {
@@ -3123,7 +3123,7 @@
     "ID": 293406026,
     "key": "Golden Horse",
     "original": "Golden Horse",
-    "translation": "金马",
+    "translation": "金马号",
     "stage": 1,
     "context": "'Golden Horse'"
   },
@@ -3259,7 +3259,7 @@
     "ID": 293406043,
     "key": "Rainy Ocean",
     "original": "Rainy Ocean",
-    "translation": "多雨的海洋",
+    "translation": "常雨洋",
     "stage": 1,
     "context": "'Rainy Ocean'"
   },
@@ -3395,7 +3395,7 @@
     "ID": 293406060,
     "key": "Blackfly",
     "original": "Blackfly",
-    "translation": "蚋",
+    "translation": "墨蚊号",
     "stage": 1,
     "context": "'Blackfly'"
   },
@@ -3459,7 +3459,7 @@
     "ID": 293406068,
     "key": "Concord",
     "original": "Concord",
-    "translation": "和睦",
+    "translation": "和睦号",
     "stage": 1,
     "context": "'Concord'"
   },
@@ -3523,7 +3523,7 @@
     "ID": 293406076,
     "key": "buy a wagon",
     "original": "buy a wagon",
-    "translation": "买一辆货车",
+    "translation": "购置货车",
     "stage": 1,
     "context": "'buy a wagon'"
   },
@@ -3531,7 +3531,7 @@
     "ID": 293406077,
     "key": "Plashy Grass",
     "original": "Plashy Grass",
-    "translation": "浮夸的草",
+    "translation": "草泽",
     "stage": 1,
     "context": "'Plashy Grass'"
   },
@@ -3539,7 +3539,7 @@
     "ID": 293406078,
     "key": "Comet",
     "original": "Comet",
-    "translation": "灾星",
+    "translation": "彗星号",
     "stage": 1,
     "context": "'Comet'"
   },
@@ -3699,7 +3699,7 @@
     "ID": 293406098,
     "key": "Tetrarch",
     "original": "Tetrarch",
-    "translation": "领主",
+    "translation": "藩王号",
     "stage": 1,
     "context": "'Tetrarch'"
   },
@@ -3795,7 +3795,7 @@
     "ID": 293406110,
     "key": "Clansman",
     "original": "Clansman",
-    "translation": "族人",
+    "translation": "族人号",
     "stage": 1,
     "context": "'Clansman'"
   },
@@ -4099,7 +4099,7 @@
     "ID": 293406148,
     "key": "Golden Sun",
     "original": "Golden Sun",
-    "translation": "金太阳",
+    "translation": "金日号",
     "stage": 1,
     "context": "'Golden Sun'"
   },
@@ -4155,7 +4155,7 @@
     "ID": 293406155,
     "key": "Vendland",
     "original": "Vendland",
-    "translation": "文德兰",
+    "translation": "行商途",
     "stage": 1,
     "context": "'Vendland'"
   },
@@ -4211,7 +4211,7 @@
     "ID": 293406162,
     "key": "Solitaire",
     "original": "Solitaire",
-    "translation": "接龙",
+    "translation": "明珠号",
     "stage": 1,
     "context": "'Solitaire'"
   },
@@ -4299,7 +4299,7 @@
     "ID": 293406173,
     "key": "Lofjord",
     "original": "Lofjord",
-    "translation": "洛峡湾",
+    "translation": "荣光之地号",
     "stage": 1,
     "context": "'Lofjord'"
   },
@@ -4379,7 +4379,7 @@
     "ID": 293406183,
     "key": "Buy a Wagon",
     "original": "Buy a Wagon",
-    "translation": "买一辆马车",
+    "translation": "购置马车",
     "stage": 1,
     "context": "'Buy a Wagon'"
   },
@@ -4587,8 +4587,8 @@
     "ID": 293406209,
     "key": "Willow's Fields",
     "original": "Willow's Fields",
-    "translation": "柳树原野",
-    "stage": 5,
+    "translation": "摆柳野",
+    "stage": 1,
     "context": "\"Willow's Fields\""
   },
   {
@@ -4651,7 +4651,7 @@
     "ID": 293406217,
     "key": "Seagull",
     "original": "Seagull",
-    "translation": "海鸥",
+    "translation": "海鸥号",
     "stage": 1,
     "context": "'Seagull'"
   },
@@ -4811,8 +4811,8 @@
     "ID": 293406237,
     "key": "Great Sea",
     "original": "Great Sea",
-    "translation": "大海",
-    "stage": 5,
+    "translation": "浩海",
+    "stage": 1,
     "context": "'Great Sea'"
   },
   {
@@ -4859,7 +4859,7 @@
     "ID": 293406243,
     "key": "Plainshire",
     "original": "Plainshire",
-    "translation": "平原郡",
+    "translation": "平原郊",
     "stage": 1,
     "context": "'Plainshire'"
   },
@@ -4979,8 +4979,8 @@
     "ID": 293406258,
     "key": "Minceacre",
     "original": "Minceacre",
-    "translation": "碎肉耕地",
-    "stage": 5,
+    "translation": "参差垄",
+    "stage": 1,
     "context": "'Minceacre'"
   },
   {
@@ -5139,7 +5139,7 @@
     "ID": 293406278,
     "key": "Deep Depths",
     "original": "Deep Depths",
-    "translation": "深处",
+    "translation": "无底渊",
     "stage": 1,
     "context": "'Deep Depths'"
   },
@@ -5171,7 +5171,7 @@
     "ID": 293406282,
     "key": "Coral Secret",
     "original": "Coral Secret",
-    "translation": "珊瑚秘密",
+    "translation": "珊礁秘宝号",
     "stage": 1,
     "context": "'Coral Secret'"
   },
@@ -5227,7 +5227,7 @@
     "ID": 293406289,
     "key": "Seven Stars",
     "original": "Seven Stars",
-    "translation": "七颗星",
+    "translation": "七星号",
     "stage": 1,
     "context": "'Seven Stars'"
   },
@@ -5235,7 +5235,7 @@
     "ID": 293406290,
     "key": "Glendale",
     "original": "Glendale",
-    "translation": "格伦代尔",
+    "translation": "绿谷",
     "stage": 1,
     "context": "'Glendale'"
   },
@@ -5243,7 +5243,7 @@
     "ID": 293406291,
     "key": "Buy a Big Wagon",
     "original": "Buy a Big Wagon",
-    "translation": "买一辆大货车",
+    "translation": "购置大货车",
     "stage": 1,
     "context": "'Buy a Big Wagon'"
   },
@@ -5251,7 +5251,7 @@
     "ID": 293406292,
     "key": "Noble Runner",
     "original": "Noble Runner",
-    "translation": "贵族赛跑者",
+    "translation": "高贵跑者号",
     "stage": 1,
     "context": "'Noble Runner'"
   },
@@ -5347,8 +5347,8 @@
     "ID": 293406304,
     "key": "Moss Valley",
     "original": "Moss Valley",
-    "translation": "苔藓谷",
-    "stage": 5,
+    "translation": "覆苔谷",
+    "stage": 1,
     "context": "'Moss Valley'"
   },
   {
@@ -5507,7 +5507,7 @@
     "ID": 293406324,
     "key": "Azure Expanse",
     "original": "Azure Expanse",
-    "translation": "蔚蓝的广阔",
+    "translation": "无垠碧波",
     "stage": 1,
     "context": "'Azure Expanse'"
   },
@@ -5691,7 +5691,7 @@
     "ID": 293406347,
     "key": "Whispering Waves Sea",
     "original": "Whispering Waves Sea",
-    "translation": "波涛汹涌的大海",
+    "translation": "轻涛海",
     "stage": 1,
     "context": "'Whispering Waves Sea'"
   },
@@ -5707,8 +5707,8 @@
     "ID": 293406349,
     "key": "Sand",
     "original": "Sand",
-    "translation": "沙",
-    "stage": 5,
+    "translation": "沙地",
+    "stage": 1,
     "context": "'Sand'"
   },
   {
@@ -5763,8 +5763,8 @@
     "ID": 293406356,
     "key": "Azure Boars",
     "original": "Azure Boars",
-    "translation": "蔚蓝野猪",
-    "stage": 5,
+    "translation": "蓝猪团",
+    "stage": 1,
     "context": "'Azure Boars'"
   },
   {
@@ -5779,7 +5779,7 @@
     "ID": 293406358,
     "key": "Brillfold",
     "original": "Brillfold",
-    "translation": "折叠式",
+    "translation": "碧褶谷",
     "stage": 1,
     "context": "'Brillfold'"
   },
@@ -6283,8 +6283,8 @@
     "ID": 293406421,
     "key": "Silversage Fields",
     "original": "Silversage Fields",
-    "translation": "银鼠尾草原野",
-    "stage": 5,
+    "translation": "银艾原",
+    "stage": 1,
     "context": "'Silversage Fields'"
   },
   {
@@ -6355,8 +6355,8 @@
     "ID": 293406430,
     "key": "Dawn's March",
     "original": "Dawn's March",
-    "translation": "黎明行军",
-    "stage": 5,
+    "translation": "黎明行者",
+    "stage": 1,
     "context": "\"Dawn's March\""
   },
   {
@@ -6643,7 +6643,7 @@
     "ID": 293406466,
     "key": "Mathilda",
     "original": "Mathilda",
-    "translation": "玛蒂尔达",
+    "translation": "玛蒂尔达号",
     "stage": 1,
     "context": "'Mathilda'"
   },
@@ -6811,8 +6811,8 @@
     "ID": 293406487,
     "key": "Buy a Cart",
     "original": "Buy a Cart",
-    "translation": "购买货车",
-    "stage": 5,
+    "translation": "购置马车",
+    "stage": 1,
     "context": "'Buy a Cart'"
   },
   {
@@ -7051,7 +7051,7 @@
     "ID": 293406517,
     "key": "Howl of the Sea",
     "original": "Howl of the Sea",
-    "translation": "海啸",
+    "translation": "海啸号",
     "stage": 1,
     "context": "'Howl of the Sea'"
   },
@@ -7203,7 +7203,7 @@
     "ID": 293406536,
     "key": "Shimmering Expanse",
     "original": "Shimmering Expanse",
-    "translation": "波光粼粼的广阔",
+    "translation": "无垠水光",
     "stage": 1,
     "context": "'Shimmering Expanse'"
   },
@@ -7235,7 +7235,7 @@
     "ID": 293406540,
     "key": "Sea Nymph",
     "original": "Sea Nymph",
-    "translation": "海若虫",
+    "translation": "海中仙女号",
     "stage": 1,
     "context": "'Sea Nymph'"
   },
@@ -7347,7 +7347,7 @@
     "ID": 293406554,
     "key": "Sandy Bay",
     "original": "Sandy Bay",
-    "translation": "桑迪湾",
+    "translation": "沙湾号",
     "stage": 1,
     "context": "'Sandy Bay'"
   },
@@ -7507,7 +7507,7 @@
     "ID": 293406574,
     "key": "Ejnar Erikson",
     "original": "Ejnar Erikson",
-    "translation": "埃纳尔·埃里克森",
+    "translation": "埃纳尔·埃里克森号",
     "stage": 1,
     "context": "'Ejnar Erikson'"
   },
@@ -7523,7 +7523,7 @@
     "ID": 293406576,
     "key": "Lady of the Sea",
     "original": "Lady of the Sea",
-    "translation": "海之夫人",
+    "translation": "海之女神号",
     "stage": 1,
     "context": "'Lady of the Sea'"
   },
@@ -7627,7 +7627,7 @@
     "ID": 293406589,
     "key": "Greenfold",
     "original": "Greenfold",
-    "translation": "格林福德",
+    "translation": "绿褶谷",
     "stage": 1,
     "context": "'Greenfold'"
   },
@@ -7715,7 +7715,7 @@
     "ID": 293406600,
     "key": "Twisted Fate",
     "original": "Twisted Fate",
-    "translation": "曲折的命运",
+    "translation": "一波三折号",
     "stage": 1,
     "context": "'Twisted Fate'"
   },
@@ -7755,7 +7755,7 @@
     "ID": 293406605,
     "key": "Valeshire",
     "original": "Valeshire",
-    "translation": "山谷郡",
+    "translation": "谷郊",
     "stage": 1,
     "context": "'Valeshire'"
   },
@@ -8003,8 +8003,8 @@
     "ID": 293406636,
     "key": "Hungry Hounds",
     "original": "Hungry Hounds",
-    "translation": "饥饿之猎犬",
-    "stage": 5,
+    "translation": "饿犬团",
+    "stage": 1,
     "context": "'Hungry Hounds'"
   },
   {
@@ -8043,7 +8043,7 @@
     "ID": 293406641,
     "key": "Axford",
     "original": "Axford",
-    "translation": "阿克斯福德",
+    "translation": "阿克斯福德号",
     "stage": 1,
     "context": "'Axford'"
   },
@@ -8107,7 +8107,7 @@
     "ID": 293406649,
     "key": "Wideacre",
     "original": "Wideacre",
-    "translation": "万亩田",
+    "translation": "广亩",
     "stage": 1,
     "context": "'Wideacre'"
   },
@@ -8139,7 +8139,7 @@
     "ID": 293406653,
     "key": "Unbound Ocean",
     "original": "Unbound Ocean",
-    "translation": "无界的海洋",
+    "translation": "无垠之海",
     "stage": 1,
     "context": "'Unbound Ocean'"
   },
@@ -8347,7 +8347,7 @@
     "ID": 293406679,
     "key": "Thunder Sea",
     "original": "Thunder Sea",
-    "translation": "雷海",
+    "translation": "雷鸣海",
     "stage": 1,
     "context": "'Thunder Sea'"
   },
@@ -8387,7 +8387,7 @@
     "ID": 293406684,
     "key": "buy a cart",
     "original": "buy a cart",
-    "translation": "买车",
+    "translation": "购置马车",
     "stage": 1,
     "context": "'buy a cart'"
   },
@@ -8523,8 +8523,8 @@
     "ID": 293406701,
     "key": "Walther's Fellowship",
     "original": "Walther's Fellowship",
-    "translation": "瓦尔特的同仁团",
-    "stage": 5,
+    "translation": "瓦尔特兄弟会",
+    "stage": 1,
     "context": "\"Walther's Fellowship\""
   },
   {
@@ -8595,7 +8595,7 @@
     "ID": 293406710,
     "key": "Vinland",
     "original": "Vinland",
-    "translation": "文兰",
+    "translation": "美酒原",
     "stage": 1,
     "context": "'Vinland'"
   },
@@ -8659,8 +8659,8 @@
     "ID": 293406718,
     "key": "Chosen Few",
     "original": "Chosen Few",
-    "translation": "被选中的少数",
-    "stage": 5,
+    "translation": "天选团",
+    "stage": 1,
     "context": "'Chosen Few'"
   },
   {
@@ -8755,7 +8755,7 @@
     "ID": 293406730,
     "key": "Speedwell Fields",
     "original": "Speedwell Fields",
-    "translation": "斯皮德韦尔领域",
+    "translation": "车前原",
     "stage": 1,
     "context": "'Speedwell Fields'"
   },
@@ -8827,7 +8827,7 @@
     "ID": 293406739,
     "key": "Snow",
     "original": "Snow",
-    "translation": "雪",
+    "translation": "积雪",
     "stage": 1,
     "context": "'Snow'"
   },
@@ -8843,7 +8843,7 @@
     "ID": 293406741,
     "key": "Supreme",
     "original": "Supreme",
-    "translation": "最高",
+    "translation": "无上号",
     "stage": 1,
     "context": "'Supreme'"
   },
@@ -8851,7 +8851,7 @@
     "ID": 293406742,
     "key": "Greenmere",
     "original": "Greenmere",
-    "translation": "格林米尔",
+    "translation": "绿泽",
     "stage": 1,
     "context": "'Greenmere'"
   },
@@ -8875,7 +8875,7 @@
     "ID": 293406745,
     "key": "Surging Sea",
     "original": "Surging Sea",
-    "translation": "汹涌的大海",
+    "translation": "汹涌海",
     "stage": 1,
     "context": "'Surging Sea'"
   },
@@ -9051,7 +9051,7 @@
     "ID": 293406767,
     "key": "Dark Omen",
     "original": "Dark Omen",
-    "translation": "黑暗预兆",
+    "translation": "黑暗预兆号",
     "stage": 1,
     "context": "'Dark Omen'"
   },
@@ -9163,7 +9163,7 @@
     "ID": 293406781,
     "key": "Bald Monk",
     "original": "Bald Monk",
-    "translation": "秃僧",
+    "translation": "秃僧号",
     "stage": 1,
     "context": "'Bald Monk'"
   },
@@ -9179,7 +9179,7 @@
     "ID": 293406783,
     "key": "Light Snow",
     "original": "Light Snow",
-    "translation": "小雪",
+    "translation": "浅雪",
     "stage": 1,
     "context": "'Light Snow'"
   },
@@ -9371,8 +9371,8 @@
     "ID": 293406807,
     "key": "Kingmill",
     "original": "Kingmill",
-    "translation": "金米尔",
-    "stage": 5,
+    "translation": "封王磨",
+    "stage": 1,
     "context": "'Kingmill'"
   },
   {
@@ -9419,7 +9419,7 @@
     "ID": 293406813,
     "key": "Tiger's Claw",
     "original": "Tiger's Claw",
-    "translation": "虎爪",
+    "translation": "虎爪号",
     "stage": 1,
     "context": "\"Tiger's Claw\""
   },
@@ -9459,7 +9459,7 @@
     "ID": 293406818,
     "key": "Kraken's Refuge",
     "original": "Kraken's Refuge",
-    "translation": "克拉肯的避难所",
+    "translation": "克拉肯之匿",
     "stage": 1,
     "context": "\"Kraken's Refuge\""
   },
@@ -9579,7 +9579,7 @@
     "ID": 293406833,
     "key": "Soft Ripple Sea",
     "original": "Soft Ripple Sea",
-    "translation": "软波纹海",
+    "translation": "柔波海",
     "stage": 1,
     "context": "'Soft Ripple Sea'"
   },
@@ -9611,7 +9611,7 @@
     "ID": 293406837,
     "key": "Brazen",
     "original": "Brazen",
-    "translation": "布拉森",
+    "translation": "斗胆号",
     "stage": 1,
     "context": "'Brazen'"
   },
@@ -9627,7 +9627,7 @@
     "ID": 293406839,
     "key": "The Raging Gulf",
     "original": "The Raging Gulf",
-    "translation": "汹涌的海湾",
+    "translation": "怒涛湾",
     "stage": 1,
     "context": "'The Raging Gulf'"
   },

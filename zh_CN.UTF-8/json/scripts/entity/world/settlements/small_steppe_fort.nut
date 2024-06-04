@@ -195,7 +195,7 @@
     "ID": 293412316,
     "key": "Steppwall",
     "original": "Steppwall",
-    "translation": "草原垒",
+    "translation": "草野垒",
     "stage": 1,
     "context": "this.getRandomName(['Wohlenwacht','Krauchwall','Erlachwall','Treitenwacht','Thurnwall','Rothenwall','Sandwacht','Sonnwehr','Siegwacht','Schanzthal','Sudschanze','Strauchwacht','Kargwall','Dornwall','Dornturm','Gelbwall','Suderwacht','Dorngard','Dornwacht','Weissenwacht','Goldwall','Wurmwacht','Brunnwall','Unterwall','Brackenwacht','Steppwall'])"
   },
