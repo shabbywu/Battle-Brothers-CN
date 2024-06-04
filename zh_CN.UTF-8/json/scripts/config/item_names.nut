@@ -1739,7 +1739,7 @@
     "ID": 293405086,
     "key": "Reach",
     "original": "Reach",
-    "translation": "伸缩鞭",
+    "translation": "触及",
     "stage": 1,
     "context": "'Reach'"
   },

@@ -1274,8 +1274,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:42.523Z",
         "updatedAt": "2023-06-26T05:46:30.811Z",
-        "modifiedAt": "2024-04-25T09:00:49Z",
-        "sha256": "42e350317ee02c2b1a9c3ace7fdca4b2ef42ee1e56630a4dd65dca16185464b4"
+        "modifiedAt": "2024-06-02T13:57:41Z",
+        "sha256": "6723000643d2381d2aad12558837169726559eedb4089b3bacd72f4dfaa6d7e3"
     },
     "scripts/config/items.json": {
         "id": 918417,
@@ -1340,14 +1340,14 @@
         "total": 1218,
         "translated": 1218,
         "disputed": 0,
-        "checked": 260,
-        "reviewed": 260,
+        "checked": 244,
+        "reviewed": 244,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-05-31T14:52:23Z",
-        "sha256": "3a245012fc0120c8077e2100c8cf6d92594fcb2e7a07b7c725c02d2bf35b61dd"
+        "modifiedAt": "2024-06-03T04:03:10Z",
+        "sha256": "b70a2a9db8c223908cb4a53e00f012dc3e18cade823776ae73218a1084096820"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -6476,8 +6476,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:44.135Z",
         "updatedAt": "2023-06-26T05:47:18.26Z",
-        "modifiedAt": "2024-04-15T07:33:54Z",
-        "sha256": "158dbe2d0007cc677adacff36acfc5fb47dcaa2d42b6fb93b4159a7b341f1191"
+        "modifiedAt": "2024-06-02T12:58:20Z",
+        "sha256": "ebf36f4ff13445dc7216ef105690bb5ab0553fec4f8840b9f620f87f5663e2ef"
     },
     "scripts/entity/world/settlements/large_snow_fort.json": {
         "id": 918706,
@@ -6656,8 +6656,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:47.624Z",
         "updatedAt": "2023-06-26T05:47:20.267Z",
-        "modifiedAt": "2024-04-21T13:12:30Z",
-        "sha256": "fb1afdc7555f0a48897419e04e56c1f400f4d74b359237ff7a707a7df500eb80"
+        "modifiedAt": "2024-06-02T12:35:56Z",
+        "sha256": "290e7cf580d45240418cfa08332c7de34f8b972606342b31c3ccd0618dc8e055"
     },
     "scripts/entity/world/settlements/medium_fishing_village.json": {
         "id": 918716,
@@ -7754,8 +7754,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:09.122Z",
         "updatedAt": "2023-06-26T05:47:27.387Z",
-        "modifiedAt": "2024-04-21T13:12:30Z",
-        "sha256": "8ec5e58cf6a6952bf9a80cc4b0c253806f84d5dbb28abdfd1b72da0507e1e4e5"
+        "modifiedAt": "2024-06-02T12:35:56Z",
+        "sha256": "ef1b2850f28f64308837194590cc9bda0cd3643cf70e827fdbe9642c1ead2dd0"
     },
     "scripts/entity/world/settlements/small_fishing_village.json": {
         "id": 918777,
@@ -7898,8 +7898,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:12.472Z",
         "updatedAt": "2023-06-26T05:47:29.204Z",
-        "modifiedAt": "2024-04-16T08:55:25Z",
-        "sha256": "d19d97e8837495a2323d13e2122144fe3fcbf4948999604807a1340eeb5a4a91"
+        "modifiedAt": "2024-06-02T12:48:03Z",
+        "sha256": "512072a537db413d0f5bcc88ef4ef1aeecec10faff7f499904621883bfd7811f"
     },
     "scripts/entity/world/settlements/small_steppe_village.json": {
         "id": 918785,
