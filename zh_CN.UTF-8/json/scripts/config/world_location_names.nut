@@ -651,7 +651,7 @@
     "ID": 293407064,
     "key": "Hamruden",
     "original": "Hamruden",
-    "translation": "哈牡卢登",
+    "translation": "留居垦",
     "stage": 1,
     "context": "'Hamruden'"
   },
@@ -4131,7 +4131,7 @@
     "ID": 293407499,
     "key": "Dulmen",
     "original": "Dulmen",
-    "translation": "杜尔门",
+    "translation": "叠石原",
     "stage": 1,
     "context": "'Dulmen'"
   },
@@ -4243,7 +4243,7 @@
     "ID": 293407513,
     "key": "Felmern",
     "original": "Felmern",
-    "translation": "费尔默恩",
+    "translation": "丈度原",
     "stage": 1,
     "context": "'Felmern'"
   },

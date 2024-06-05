@@ -67,7 +67,7 @@
     "ID": 293405644,
     "key": "Chillwind Flatlands",
     "original": "Chillwind Flatlands",
-    "translation": "寒风平原",
+    "translation": "寒风原",
     "stage": 1,
     "context": "'Chillwind Flatlands'"
   },
@@ -123,7 +123,7 @@
     "ID": 293405651,
     "key": "Sharp Rocks",
     "original": "Sharp Rocks",
-    "translation": "锐岩山",
+    "translation": "锐岩坡",
     "stage": 1,
     "context": "'Sharp Rocks'"
   },
@@ -203,7 +203,7 @@
     "ID": 293405661,
     "key": "Black Mole Woods",
     "original": "Black Mole Woods",
-    "translation": "黑鼹丛林",
+    "translation": "黑鼹林",
     "stage": 1,
     "context": "'Black Mole Woods'"
   },
@@ -291,7 +291,7 @@
     "ID": 293405672,
     "key": "Baleford",
     "original": "Baleford",
-    "translation": "贝尔福德",
+    "translation": "悲河",
     "stage": 1,
     "context": "'Baleford'"
   },
@@ -299,7 +299,7 @@
     "ID": 293405673,
     "key": "Frozen Plains",
     "original": "Frozen Plains",
-    "translation": "冰冻平原",
+    "translation": "冰封原",
     "stage": 1,
     "context": "'Frozen Plains'"
   },
@@ -379,8 +379,8 @@
     "ID": 293405683,
     "key": "Desert of Mirrors",
     "original": "Desert of Mirrors",
-    "translation": "镜之荒漠",
-    "stage": 5,
+    "translation": "明镜漠",
+    "stage": 1,
     "context": "'Desert of Mirrors'"
   },
   {
@@ -395,7 +395,7 @@
     "ID": 293405685,
     "key": "Cloudcrest",
     "original": "Cloudcrest",
-    "translation": "云峰",
+    "translation": "攀云顶",
     "stage": 1,
     "context": "'Cloudcrest'"
   },
@@ -419,7 +419,7 @@
     "ID": 293405688,
     "key": "The Bronze Hills",
     "original": "The Bronze Hills",
-    "translation": "青铜山",
+    "translation": "铜陵",
     "stage": 1,
     "context": "'The Bronze Hills'"
   },
@@ -603,8 +603,8 @@
     "ID": 293405711,
     "key": "Bloodcut Growth",
     "original": "Bloodcut Growth",
-    "translation": "血痕生长地",
-    "stage": 5,
+    "translation": "血痕丛",
+    "stage": 1,
     "context": "'Bloodcut Growth'"
   },
   {
@@ -659,7 +659,7 @@
     "ID": 293405718,
     "key": "Knight's Axe Hills",
     "original": "Knight's Axe Hills",
-    "translation": "战斧山",
+    "translation": "战斧丘",
     "stage": 1,
     "context": "\"Knight's Axe Hills\""
   },
@@ -699,7 +699,7 @@
     "ID": 293405723,
     "key": "The Pale Expanse",
     "original": "The Pale Expanse",
-    "translation": "苍白漫原",
+    "translation": "苍白漫",
     "stage": 1,
     "context": "'The Pale Expanse'"
   },
@@ -707,7 +707,7 @@
     "ID": 293405724,
     "key": "The Powder Plains",
     "original": "The Powder Plains",
-    "translation": "麦原",
+    "translation": "雪末原",
     "stage": 1,
     "context": "'The Powder Plains'"
   },
@@ -811,7 +811,7 @@
     "ID": 293405737,
     "key": "Spiderwood",
     "original": "Spiderwood",
-    "translation": "蜘蛛丛林",
+    "translation": "蜘蛛林",
     "stage": 1,
     "context": "'Spiderwood'"
   },
@@ -875,7 +875,7 @@
     "ID": 293405745,
     "key": "Black Fumes Polder",
     "original": "Black Fumes Polder",
-    "translation": "黑烟圩田",
+    "translation": "黑烟圩",
     "stage": 1,
     "context": "'Black Fumes Polder'"
   },
@@ -891,7 +891,7 @@
     "ID": 293405747,
     "key": "Vibrant Grove",
     "original": "Vibrant Grove",
-    "translation": "生境之林",
+    "translation": "生境林",
     "stage": 1,
     "context": "'Vibrant Grove'"
   },
@@ -899,8 +899,8 @@
     "ID": 293405748,
     "key": "Angbride",
     "original": "Angbride",
-    "translation": "安布里德",
-    "stage": 5,
+    "translation": "环回坳",
+    "stage": 1,
     "context": "'Angbride'"
   },
   {
@@ -955,7 +955,7 @@
     "ID": 293405755,
     "key": "Ashen Wetlands",
     "original": "Ashen Wetlands",
-    "translation": "灰烬湿地",
+    "translation": "灰湿地",
     "stage": 1,
     "context": "'Ashen Wetlands'"
   },
@@ -1075,7 +1075,7 @@
     "ID": 293405770,
     "key": "Ravenhold",
     "original": "Ravenhold",
-    "translation": "鸦堡",
+    "translation": "栖鸦林",
     "stage": 1,
     "context": "'Ravenhold'"
   },
@@ -1099,7 +1099,7 @@
     "ID": 293405773,
     "key": "Mammothshoulders",
     "original": "Mammothshoulders",
-    "translation": "猛犸象肩",
+    "translation": "巨象肩",
     "stage": 1,
     "context": "'Mammothshoulders'"
   },
@@ -1131,8 +1131,8 @@
     "ID": 293405777,
     "key": "Mount Bulkhead",
     "original": "Mount Bulkhead",
-    "translation": "堤防山",
-    "stage": 5,
+    "translation": "两割山",
+    "stage": 1,
     "context": "'Mount Bulkhead'"
   },
   {
@@ -1155,7 +1155,7 @@
     "ID": 293405780,
     "key": "Sunreach",
     "original": "Sunreach",
-    "translation": "日照",
+    "translation": "日抚原",
     "stage": 1,
     "context": "'Sunreach'"
   },
@@ -1219,7 +1219,7 @@
     "ID": 293405788,
     "key": "Eerie Marshes",
     "original": "Eerie Marshes",
-    "translation": "诡异沼泽",
+    "translation": "诡异泽",
     "stage": 1,
     "context": "'Eerie Marshes'"
   },
@@ -1275,7 +1275,7 @@
     "ID": 293405795,
     "key": "Old Forest",
     "original": "Old Forest",
-    "translation": "老森林",
+    "translation": "长老林",
     "stage": 1,
     "context": "'Old Forest'"
   },
@@ -1331,7 +1331,7 @@
     "ID": 293405802,
     "key": "Stag's Grounds",
     "original": "Stag's Grounds",
-    "translation": "雄鹿的领地",
+    "translation": "雄鹿领",
     "stage": 1,
     "context": "\"Stag's Grounds\""
   },
@@ -1339,8 +1339,8 @@
     "ID": 293405803,
     "key": "Swellpike Heights",
     "original": "Swellpike Heights",
-    "translation": "胀矛高地",
-    "stage": 5,
+    "translation": "突矛顶",
+    "stage": 1,
     "context": "'Swellpike Heights'"
   },
   {
@@ -1403,7 +1403,7 @@
     "ID": 293405811,
     "key": "Redbark Forest",
     "original": "Redbark Forest",
-    "translation": "红皮森林",
+    "translation": "红皮林",
     "stage": 1,
     "context": "'Redbark Forest'"
   },
@@ -1475,8 +1475,8 @@
     "ID": 293405820,
     "key": "Howling Wastes",
     "original": "Howling Wastes",
-    "translation": "嚎叫废土",
-    "stage": 5,
+    "translation": "嚎风废土",
+    "stage": 1,
     "context": "'Howling Wastes'"
   },
   {
@@ -1499,7 +1499,7 @@
     "ID": 293405823,
     "key": "Antlerfold",
     "original": "Antlerfold",
-    "translation": "鹿角圈",
+    "translation": "匿鹿林",
     "stage": 1,
     "context": "'Antlerfold'"
   },
@@ -1547,8 +1547,8 @@
     "ID": 293405829,
     "key": "Knowesfold",
     "original": "Knowesfold",
-    "translation": "山丘草地",
-    "stage": 5,
+    "translation": "褶丘",
+    "stage": 1,
     "context": "'Knowesfold'"
   },
   {
@@ -1595,7 +1595,7 @@
     "ID": 293405835,
     "key": "Parcheim",
     "original": "Parcheim",
-    "translation": "帕尔海姆",
+    "translation": "燥郊",
     "stage": 1,
     "context": "'Parcheim'"
   },
@@ -1619,7 +1619,7 @@
     "ID": 293405838,
     "key": "Grimestone Peaks",
     "original": "Grimestone Peaks",
-    "translation": "磨石峰",
+    "translation": "灰岩峰",
     "stage": 1,
     "context": "'Grimestone Peaks'"
   },
@@ -1627,7 +1627,7 @@
     "ID": 293405839,
     "key": "Smallriver Hold",
     "original": "Smallriver Hold",
-    "translation": "小河堡",
+    "translation": "小河栖",
     "stage": 1,
     "context": "'Smallriver Hold'"
   },
@@ -1635,7 +1635,7 @@
     "ID": 293405840,
     "key": "Solsweald",
     "original": "Solsweald",
-    "translation": "索尔斯韦尔德",
+    "translation": "日头原",
     "stage": 1,
     "context": "'Solsweald'"
   },
@@ -1659,7 +1659,7 @@
     "ID": 293405843,
     "key": "The Gloomy Hills",
     "original": "The Gloomy Hills",
-    "translation": "阴暗的山丘",
+    "translation": "阴郁陵",
     "stage": 1,
     "context": "'The Gloomy Hills'"
   },
@@ -1675,7 +1675,7 @@
     "ID": 293405845,
     "key": "Grimroof",
     "original": "Grimroof",
-    "translation": "严酷的屋顶",
+    "translation": "峻顶",
     "stage": 1,
     "context": "'Grimroof'"
   },
@@ -1691,7 +1691,7 @@
     "ID": 293405847,
     "key": "Pagan Heathland",
     "original": "Pagan Heathland",
-    "translation": "异教徒荒地",
+    "translation": "异教荒原",
     "stage": 1,
     "context": "'Pagan Heathland'"
   },
@@ -1747,7 +1747,7 @@
     "ID": 293405854,
     "key": "Grand Hare Woods",
     "original": "Grand Hare Woods",
-    "translation": "野兔林",
+    "translation": "硕兔林",
     "stage": 1,
     "context": "'Grand Hare Woods'"
   },
@@ -1779,7 +1779,7 @@
     "ID": 293405858,
     "key": "Mortun",
     "original": "Mortun",
-    "translation": "莫顿",
+    "translation": "冒泡塘",
     "stage": 1,
     "context": "'Mortun'"
   },
@@ -1907,8 +1907,8 @@
     "ID": 293405874,
     "key": "Red Lowlands",
     "original": "Red Lowlands",
-    "translation": "红色低地",
-    "stage": 5,
+    "translation": "红衍",
+    "stage": 1,
     "context": "'Red Lowlands'"
   },
   {
@@ -1971,7 +1971,7 @@
     "ID": 293405882,
     "key": "Gritstone",
     "original": "Gritstone",
-    "translation": "砂砾石",
+    "translation": "砾岩地",
     "stage": 1,
     "context": "'Gritstone'"
   },
@@ -2003,7 +2003,7 @@
     "ID": 293405886,
     "key": "Hexenwald",
     "original": "Hexenwald",
-    "translation": "女巫之森",
+    "translation": "女巫森",
     "stage": 1,
     "context": "'Hexenwald'"
   },
@@ -2131,7 +2131,7 @@
     "ID": 293405902,
     "key": "Hunter's Bosk",
     "original": "Hunter's Bosk",
-    "translation": "猎人的博斯克",
+    "translation": "猎人林",
     "stage": 1,
     "context": "\"Hunter's Bosk\""
   },
@@ -2251,8 +2251,8 @@
     "ID": 293405917,
     "key": "Willowshire Hillside",
     "original": "Willowshire Hillside",
-    "translation": "柳郡山坡",
-    "stage": 5,
+    "translation": "逢柳坡",
+    "stage": 1,
     "context": "'Willowshire Hillside'"
   },
   {
@@ -2267,7 +2267,7 @@
     "ID": 293405919,
     "key": "Azure Marsh",
     "original": "Azure Marsh",
-    "translation": "蔚蓝沼泽",
+    "translation": "蔚蓝沼",
     "stage": 1,
     "context": "'Azure Marsh'"
   },
@@ -2291,7 +2291,7 @@
     "ID": 293405922,
     "key": "Royal Grounds",
     "original": "Royal Grounds",
-    "translation": "皇家场地",
+    "translation": "王狩地",
     "stage": 1,
     "context": "'Royal Grounds'"
   },
@@ -2307,7 +2307,7 @@
     "ID": 293405924,
     "key": "Skauna",
     "original": "Skauna",
-    "translation": "斯考纳",
+    "translation": "疏林原",
     "stage": 1,
     "context": "'Skauna'"
   },
@@ -2331,15 +2331,15 @@
     "ID": 293405927,
     "key": "Scree Barrows",
     "original": "Scree Barrows",
-    "translation": "石砾墓丘",
-    "stage": 5,
+    "translation": "石砾丘",
+    "stage": 1,
     "context": "'Scree Barrows'"
   },
   {
     "ID": 293405928,
     "key": "Glistening Flats",
     "original": "Glistening Flats",
-    "translation": "闪亮平底鞋",
+    "translation": "灿光滩",
     "stage": 1,
     "context": "'Glistening Flats'"
   },
@@ -2387,7 +2387,7 @@
     "ID": 293405934,
     "key": "The Narrow Quag",
     "original": "The Narrow Quag",
-    "translation": "狭窄的鹌鹑",
+    "translation": "逼仄潭",
     "stage": 1,
     "context": "'The Narrow Quag'"
   },
@@ -2395,16 +2395,16 @@
     "ID": 293405935,
     "key": "Froglickers Grove",
     "original": "Froglickers Grove",
-    "translation": "舔吮青蛙林",
-    "stage": 5,
+    "translation": "吮蛙林",
+    "stage": 1,
     "context": "'Froglickers Grove'"
   },
   {
     "ID": 293405936,
     "key": "Norenford",
     "original": "Norenford",
-    "translation": "北境河流之地",
-    "stage": 5,
+    "translation": "北围",
+    "stage": 1,
     "context": "'Norenford'"
   },
   {
@@ -2459,8 +2459,8 @@
     "ID": 293405943,
     "key": "Highrise",
     "original": "Highrise",
-    "translation": "高耸之地",
-    "stage": 5,
+    "translation": "弥高仰",
+    "stage": 1,
     "context": "'Highrise'"
   },
   {
@@ -2499,8 +2499,8 @@
     "ID": 293405948,
     "key": "Springwood",
     "original": "Springwood",
-    "translation": "泉水之森",
-    "stage": 5,
+    "translation": "常春林",
+    "stage": 1,
     "context": "'Springwood'"
   },
   {
@@ -2515,7 +2515,7 @@
     "ID": 293405950,
     "key": "The Burning Barrens",
     "original": "The Burning Barrens",
-    "translation": "燃烧的贫瘠之地",
+    "translation": "燃火砾",
     "stage": 1,
     "context": "'The Burning Barrens'"
   },
@@ -2555,7 +2555,7 @@
     "ID": 293405955,
     "key": "Fireander",
     "original": "Fireander",
-    "translation": "弗兰德",
+    "translation": "火枫林",
     "stage": 1,
     "context": "'Fireander'"
   },
@@ -2563,7 +2563,7 @@
     "ID": 293405956,
     "key": "The Dryweeds",
     "original": "The Dryweeds",
-    "translation": "干草",
+    "translation": "大荒原",
     "stage": 1,
     "context": "'The Dryweeds'"
   },
@@ -2587,7 +2587,7 @@
     "ID": 293405959,
     "key": "Grimdowns",
     "original": "Grimdowns",
-    "translation": "冷酷无情",
+    "translation": "无情淖",
     "stage": 1,
     "context": "'Grimdowns'"
   },
@@ -2771,7 +2771,7 @@
     "ID": 293405982,
     "key": "Glades of Decay",
     "original": "Glades of Decay",
-    "translation": "腐烂林地",
+    "translation": "腐草地",
     "stage": 1,
     "context": "'Glades of Decay'"
   },
@@ -2811,16 +2811,16 @@
     "ID": 293405987,
     "key": "Bleakwolds",
     "original": "Bleakwolds",
-    "translation": "荒凉丘陵",
-    "stage": 5,
+    "translation": "荒凉丘",
+    "stage": 1,
     "context": "'Bleakwolds'"
   },
   {
     "ID": 293405988,
     "key": "Jagged Summit",
     "original": "Jagged Summit",
-    "translation": "锯齿山顶",
-    "stage": 5,
+    "translation": "错落峰",
+    "stage": 1,
     "context": "'Jagged Summit'"
   },
   {
@@ -2987,7 +2987,7 @@
     "ID": 293406009,
     "key": "Icemark",
     "original": "Icemark",
-    "translation": "冰印",
+    "translation": "冰陲",
     "stage": 1,
     "context": "'Icemark'"
   },
@@ -3187,7 +3187,7 @@
     "ID": 293406034,
     "key": "White Wolf's Home",
     "original": "White Wolf's Home",
-    "translation": "白狼之家",
+    "translation": "白狼栖",
     "stage": 1,
     "context": "\"White Wolf's Home\""
   },
@@ -3203,8 +3203,8 @@
     "ID": 293406036,
     "key": "Greenwood Forest",
     "original": "Greenwood Forest",
-    "translation": "绿木之森",
-    "stage": 5,
+    "translation": "绿木森",
+    "stage": 1,
     "context": "'Greenwood Forest'"
   },
   {
@@ -3275,8 +3275,8 @@
     "ID": 293406045,
     "key": "Golden Valley",
     "original": "Golden Valley",
-    "translation": "金谷",
-    "stage": 5,
+    "translation": "烁金谷",
+    "stage": 1,
     "context": "'Golden Valley'"
   },
   {
@@ -3315,7 +3315,7 @@
     "ID": 293406050,
     "key": "Dreaded Mire",
     "original": "Dreaded Mire",
-    "translation": "可怕的泥潭",
+    "translation": "可怖潭",
     "stage": 1,
     "context": "'Dreaded Mire'"
   },
@@ -3323,7 +3323,7 @@
     "ID": 293406051,
     "key": "Red Worm Woods",
     "original": "Red Worm Woods",
-    "translation": "蚯蚓林",
+    "translation": "红虫林",
     "stage": 1,
     "context": "'Red Worm Woods'"
   },
@@ -3339,7 +3339,7 @@
     "ID": 293406053,
     "key": "Deadbottom",
     "original": "Deadbottom",
-    "translation": "死底",
+    "translation": "沉尸底",
     "stage": 1,
     "context": "'Deadbottom'"
   },
@@ -3347,7 +3347,7 @@
     "ID": 293406054,
     "key": "The Howling Desert",
     "original": "The Howling Desert",
-    "translation": "嚎叫的沙漠",
+    "translation": "呼风漠",
     "stage": 1,
     "context": "'The Howling Desert'"
   },
@@ -3371,7 +3371,7 @@
     "ID": 293406057,
     "key": "Sparkling Sands",
     "original": "Sparkling Sands",
-    "translation": "波光粼粼的沙滩",
+    "translation": "粼光滩",
     "stage": 1,
     "context": "'Sparkling Sands'"
   },
@@ -3379,7 +3379,7 @@
     "ID": 293406058,
     "key": "Bandit's Rest",
     "original": "Bandit's Rest",
-    "translation": "强盗的休息",
+    "translation": "黑窝",
     "stage": 1,
     "context": "\"Bandit's Rest\""
   },
@@ -3403,7 +3403,7 @@
     "ID": 293406061,
     "key": "Frozen North",
     "original": "Frozen North",
-    "translation": "冰冻的北方",
+    "translation": "冰封北地",
     "stage": 1,
     "context": "'Frozen North'"
   },
@@ -3443,7 +3443,7 @@
     "ID": 293406066,
     "key": "Dunspike",
     "original": "Dunspike",
-    "translation": "邓斯派克",
+    "translation": "褐刺峰",
     "stage": 1,
     "context": "'Dunspike'"
   },
@@ -3587,7 +3587,7 @@
     "ID": 293406084,
     "key": "Bald Crown",
     "original": "Bald Crown",
-    "translation": "秃头冠",
+    "translation": "秃山冠",
     "stage": 1,
     "context": "'Bald Crown'"
   },
@@ -3627,7 +3627,7 @@
     "ID": 293406089,
     "key": "The Vast Rise",
     "original": "The Vast Rise",
-    "translation": "巨大的崛起",
+    "translation": "大崛",
     "stage": 1,
     "context": "'The Vast Rise'"
   },
@@ -3643,7 +3643,7 @@
     "ID": 293406091,
     "key": "Dreaded Rocks",
     "original": "Dreaded Rocks",
-    "translation": "可怕的岩石",
+    "translation": "却步岩",
     "stage": 1,
     "context": "'Dreaded Rocks'"
   },
@@ -3651,7 +3651,7 @@
     "ID": 293406092,
     "key": "Ancient Forest",
     "original": "Ancient Forest",
-    "translation": "古森林",
+    "translation": "古林",
     "stage": 1,
     "context": "'Ancient Forest'"
   },
@@ -3715,7 +3715,7 @@
     "ID": 293406100,
     "key": "Dead Ponds",
     "original": "Dead Ponds",
-    "translation": "死池塘",
+    "translation": "死水塘",
     "stage": 1,
     "context": "'Dead Ponds'"
   },
@@ -3763,7 +3763,7 @@
     "ID": 293406106,
     "key": "Sticky Wallow",
     "original": "Sticky Wallow",
-    "translation": "黏糊糊的",
+    "translation": "黏人塘",
     "stage": 1,
     "context": "'Sticky Wallow'"
   },
@@ -3835,7 +3835,7 @@
     "ID": 293406115,
     "key": "The Scarlet Hills",
     "original": "The Scarlet Hills",
-    "translation": "猩红山丘",
+    "translation": "猩红丘",
     "stage": 1,
     "context": "'The Scarlet Hills'"
   },
@@ -3907,7 +3907,7 @@
     "ID": 293406124,
     "key": "Drylands",
     "original": "Drylands",
-    "translation": "旱地",
+    "translation": "旱原",
     "stage": 1,
     "context": "'Drylands'"
   },
@@ -3947,7 +3947,7 @@
     "ID": 293406129,
     "key": "Tar Fields",
     "original": "Tar Fields",
-    "translation": "焦油田",
+    "translation": "沥青场",
     "stage": 1,
     "context": "'Tar Fields'"
   },
@@ -3955,7 +3955,7 @@
     "ID": 293406130,
     "key": "Wintermore",
     "original": "Wintermore",
-    "translation": "温特莫尔",
+    "translation": "深冬原",
     "stage": 1,
     "context": "'Wintermore'"
   },
@@ -4011,7 +4011,7 @@
     "ID": 293406137,
     "key": "Nordlands",
     "original": "Nordlands",
-    "translation": "诺德兰兹",
+    "translation": "北地",
     "stage": 1,
     "context": "'Nordlands'"
   },
@@ -4027,7 +4027,7 @@
     "ID": 293406139,
     "key": "Giant's Pebbles",
     "original": "Giant's Pebbles",
-    "translation": "巨石路",
+    "translation": "巨人石",
     "stage": 1,
     "context": "\"Giant's Pebbles\""
   },
@@ -4043,7 +4043,7 @@
     "ID": 293406141,
     "key": "White Goat Mounds",
     "original": "White Goat Mounds",
-    "translation": "白山羊丘",
+    "translation": "白羊丘",
     "stage": 1,
     "context": "'White Goat Mounds'"
   },
@@ -4051,7 +4051,7 @@
     "ID": 293406142,
     "key": "Somerhurst",
     "original": "Somerhurst",
-    "translation": "萨默赫斯特",
+    "translation": "夏色林",
     "stage": 1,
     "context": "'Somerhurst'"
   },
@@ -4203,7 +4203,7 @@
     "ID": 293406161,
     "key": "Razorshrub",
     "original": "Razorshrub",
-    "translation": "剃刀灌木",
+    "translation": "刺棘丛",
     "stage": 1,
     "context": "'Razorshrub'"
   },
@@ -4227,7 +4227,7 @@
     "ID": 293406164,
     "key": "Auburn Woods",
     "original": "Auburn Woods",
-    "translation": "溪水林",
+    "translation": "褐红林",
     "stage": 1,
     "context": "'Auburn Woods'"
   },
@@ -4291,7 +4291,7 @@
     "ID": 293406172,
     "key": "Northern Clanlands",
     "original": "Northern Clanlands",
-    "translation": "北方氏族",
+    "translation": "北族地",
     "stage": 1,
     "context": "'Northern Clanlands'"
   },
@@ -4347,7 +4347,7 @@
     "ID": 293406179,
     "key": "Muskena",
     "original": "Muskena",
-    "translation": "马斯基纳",
+    "translation": "麝香滩",
     "stage": 1,
     "context": "'Muskena'"
   },
@@ -4411,7 +4411,7 @@
     "ID": 293406187,
     "key": "Goathorns",
     "original": "Goathorns",
-    "translation": "山羊刺",
+    "translation": "羊角峰",
     "stage": 1,
     "context": "'Goathorns'"
   },
@@ -4451,8 +4451,8 @@
     "ID": 293406192,
     "key": "Black Forest",
     "original": "Black Forest",
-    "translation": "黑森林",
-    "stage": 5,
+    "translation": "暗林",
+    "stage": 1,
     "context": "'Black Forest'"
   },
   {
@@ -4507,8 +4507,8 @@
     "ID": 293406199,
     "key": "Bogwood Grove",
     "original": "Bogwood Grove",
-    "translation": "地下木材林",
-    "stage": 5,
+    "translation": "沼木林",
+    "stage": 1,
     "context": "'Bogwood Grove'"
   },
   {
@@ -4579,7 +4579,7 @@
     "ID": 293406208,
     "key": "Riverland Glades",
     "original": "Riverland Glades",
-    "translation": "里弗兰格莱兹",
+    "translation": "流草涂",
     "stage": 1,
     "context": "'Riverland Glades'"
   },
@@ -4619,7 +4619,7 @@
     "ID": 293406213,
     "key": "Spikewind",
     "original": "Spikewind",
-    "translation": "尖风",
+    "translation": "刺骨风原",
     "stage": 1,
     "context": "'Spikewind'"
   },
@@ -4643,7 +4643,7 @@
     "ID": 293406216,
     "key": "Snake's Covert",
     "original": "Snake's Covert",
-    "translation": "蛇的隐秘",
+    "translation": "隐蛇盖",
     "stage": 1,
     "context": "\"Snake's Covert\""
   },
@@ -4691,7 +4691,7 @@
     "ID": 293406222,
     "key": "Earthwatch Hills",
     "original": "Earthwatch Hills",
-    "translation": "地球观察山",
+    "translation": "望乡陵",
     "stage": 1,
     "context": "'Earthwatch Hills'"
   },
@@ -4747,7 +4747,7 @@
     "ID": 293406229,
     "key": "The Reach",
     "original": "The Reach",
-    "translation": "到达",
+    "translation": "远望陵",
     "stage": 1,
     "context": "'The Reach'"
   },
@@ -4819,15 +4819,15 @@
     "ID": 293406238,
     "key": "The Hummocks",
     "original": "The Hummocks",
-    "translation": "小丘群",
-    "stage": 5,
+    "translation": "绵延丘",
+    "stage": 1,
     "context": "'The Hummocks'"
   },
   {
     "ID": 293406239,
     "key": "Ragwilds",
     "original": "Ragwilds",
-    "translation": "拉格威尔兹",
+    "translation": "荒原",
     "stage": 1,
     "context": "'Ragwilds'"
   },
@@ -4875,7 +4875,7 @@
     "ID": 293406245,
     "key": "Decayed Heights",
     "original": "Decayed Heights",
-    "translation": "败落高原",
+    "translation": "败落顶",
     "stage": 1,
     "context": "'Decayed Heights'"
   },
@@ -4891,8 +4891,8 @@
     "ID": 293406247,
     "key": "Bulwark",
     "original": "Bulwark",
-    "translation": "堡垒",
-    "stage": 5,
+    "translation": "磐岩之障",
+    "stage": 1,
     "context": "'Bulwark'"
   },
   {
@@ -4915,8 +4915,8 @@
     "ID": 293406250,
     "key": "Hero's Fall",
     "original": "Hero's Fall",
-    "translation": "英雄陨落之处",
-    "stage": 5,
+    "translation": "陨英峰",
+    "stage": 1,
     "context": "\"Hero's Fall\""
   },
   {
@@ -4963,7 +4963,7 @@
     "ID": 293406256,
     "key": "The Scald",
     "original": "The Scald",
-    "translation": "烫伤",
+    "translation": "灼原",
     "stage": 1,
     "context": "'The Scald'"
   },
@@ -5027,7 +5027,7 @@
     "ID": 293406264,
     "key": "The Ashen Pinnacle",
     "original": "The Ashen Pinnacle",
-    "translation": "灰烬之巅",
+    "translation": "灰巅",
     "stage": 1,
     "context": "'The Ashen Pinnacle'"
   },
@@ -5035,8 +5035,8 @@
     "ID": 293406265,
     "key": "Scrublands",
     "original": "Scrublands",
-    "translation": "灌木丛",
-    "stage": 5,
+    "translation": "木棘野",
+    "stage": 1,
     "context": "'Scrublands'"
   },
   {
@@ -5075,7 +5075,7 @@
     "ID": 293406270,
     "key": "The Reeds",
     "original": "The Reeds",
-    "translation": "芦苇",
+    "translation": "大芦荡",
     "stage": 1,
     "context": "'The Reeds'"
   },
@@ -5099,7 +5099,7 @@
     "ID": 293406273,
     "key": "The Dreary Barrens",
     "original": "The Dreary Barrens",
-    "translation": "凄凉的贫瘠之地",
+    "translation": "凄贫埆",
     "stage": 1,
     "context": "'The Dreary Barrens'"
   },
@@ -5147,7 +5147,7 @@
     "ID": 293406279,
     "key": "Peat Basin",
     "original": "Peat Basin",
-    "translation": "泥炭盆地",
+    "translation": "泥炭淖",
     "stage": 1,
     "context": "'Peat Basin'"
   },
@@ -5299,7 +5299,7 @@
     "ID": 293406298,
     "key": "Snapping Twig Forest",
     "original": "Snapping Twig Forest",
-    "translation": "折枝森林",
+    "translation": "折枝林",
     "stage": 1,
     "context": "'Snapping Twig Forest'"
   },
@@ -5355,7 +5355,7 @@
     "ID": 293406305,
     "key": "Browslopes",
     "original": "Browslopes",
-    "translation": "浏览斜坡",
+    "translation": "眉坡",
     "stage": 1,
     "context": "'Browslopes'"
   },
@@ -5363,7 +5363,7 @@
     "ID": 293406306,
     "key": "Silver Plains",
     "original": "Silver Plains",
-    "translation": "银平原",
+    "translation": "白银原",
     "stage": 1,
     "context": "'Silver Plains'"
   },
@@ -5371,7 +5371,7 @@
     "ID": 293406307,
     "key": "Slaughtermount",
     "original": "Slaughtermount",
-    "translation": "屠宰山",
+    "translation": "戮山",
     "stage": 1,
     "context": "'Slaughtermount'"
   },
@@ -5395,7 +5395,7 @@
     "ID": 293406310,
     "key": "Thousand Mirrors Bog",
     "original": "Thousand Mirrors Bog",
-    "translation": "千镜沼泽",
+    "translation": "千镜迷沼",
     "stage": 1,
     "context": "'Thousand Mirrors Bog'"
   },
@@ -5451,7 +5451,7 @@
     "ID": 293406317,
     "key": "Forefathers' Highlands",
     "original": "Forefathers' Highlands",
-    "translation": "祖先高地",
+    "translation": "先祖高原",
     "stage": 1,
     "context": "\"Forefathers' Highlands\""
   },
@@ -5635,7 +5635,7 @@
     "ID": 293406340,
     "key": "The Glistening Heights",
     "original": "The Glistening Heights",
-    "translation": "闪闪发光的高地",
+    "translation": "斑斓顶",
     "stage": 1,
     "context": "'The Glistening Heights'"
   },
@@ -5771,7 +5771,7 @@
     "ID": 293406357,
     "key": "The Bare Peaks",
     "original": "The Bare Peaks",
-    "translation": "光秃秃的山峰",
+    "translation": "裸峰",
     "stage": 1,
     "context": "'The Bare Peaks'"
   },
@@ -5867,7 +5867,7 @@
     "ID": 293406369,
     "key": "Ghost Hills",
     "original": "Ghost Hills",
-    "translation": "鬼山",
+    "translation": "鬼丘",
     "stage": 1,
     "context": "'Ghost Hills'"
   },
@@ -5915,7 +5915,7 @@
     "ID": 293406375,
     "key": "Droughtshire",
     "original": "Droughtshire",
-    "translation": "干旱郡",
+    "translation": "旱郊",
     "stage": 1,
     "context": "'Droughtshire'"
   },
@@ -5939,7 +5939,7 @@
     "ID": 293406378,
     "key": "Rustling Thicket",
     "original": "Rustling Thicket",
-    "translation": "沙沙的丛林",
+    "translation": "沙声灌",
     "stage": 1,
     "context": "'Rustling Thicket'"
   },
@@ -5971,7 +5971,7 @@
     "ID": 293406382,
     "key": "Deserted Rise",
     "original": "Deserted Rise",
-    "translation": "荒芜的崛起",
+    "translation": "无人顶",
     "stage": 1,
     "context": "'Deserted Rise'"
   },
@@ -6115,8 +6115,8 @@
     "ID": 293406400,
     "key": "Wolfwood",
     "original": "Wolfwood",
-    "translation": "野狼之森",
-    "stage": 5,
+    "translation": "野狼森",
+    "stage": 1,
     "context": "'Wolfwood'"
   },
   {
@@ -6147,8 +6147,8 @@
     "ID": 293406404,
     "key": "Glenmore Barrows",
     "original": "Glenmore Barrows",
-    "translation": "格伦莫尔墓丘",
-    "stage": 5,
+    "translation": "绿原丘",
+    "stage": 1,
     "context": "'Glenmore Barrows'"
   },
   {
@@ -6195,8 +6195,8 @@
     "ID": 293406410,
     "key": "Skullsbreath Mound",
     "original": "Skullsbreath Mound",
-    "translation": "颅息之丘",
-    "stage": 5,
+    "translation": "颅息冈",
+    "stage": 1,
     "context": "'Skullsbreath Mound'"
   },
   {
@@ -6211,7 +6211,7 @@
     "ID": 293406412,
     "key": "Ranger's Rest",
     "original": "Ranger's Rest",
-    "translation": "游侠的休息",
+    "translation": "巡林客之歇",
     "stage": 1,
     "context": "\"Ranger's Rest\""
   },
@@ -6219,7 +6219,7 @@
     "ID": 293406413,
     "key": "Moonlit Peaks",
     "original": "Moonlit Peaks",
-    "translation": "月光峰",
+    "translation": "照月峰",
     "stage": 1,
     "context": "'Moonlit Peaks'"
   },
@@ -6227,7 +6227,7 @@
     "ID": 293406414,
     "key": "Norshire",
     "original": "Norshire",
-    "translation": "诺郡",
+    "translation": "北郊",
     "stage": 1,
     "context": "'Norshire'"
   },
@@ -6307,7 +6307,7 @@
     "ID": 293406424,
     "key": "Glittering Sands",
     "original": "Glittering Sands",
-    "translation": "闪闪发光的沙滩",
+    "translation": "荧荧沙",
     "stage": 1,
     "context": "'Glittering Sands'"
   },
@@ -6315,7 +6315,7 @@
     "ID": 293406425,
     "key": "Blazing Forest",
     "original": "Blazing Forest",
-    "translation": "炽热的森林",
+    "translation": "炽燃森",
     "stage": 1,
     "context": "'Blazing Forest'"
   },
@@ -6387,7 +6387,7 @@
     "ID": 293406434,
     "key": "Redwood",
     "original": "Redwood",
-    "translation": "红木",
+    "translation": "红林",
     "stage": 1,
     "context": "'Redwood'"
   },
@@ -6427,7 +6427,7 @@
     "ID": 293406439,
     "key": "Savage Bog",
     "original": "Savage Bog",
-    "translation": "野蛮沼泽",
+    "translation": "野沼",
     "stage": 1,
     "context": "'Savage Bog'"
   },
@@ -6435,7 +6435,7 @@
     "ID": 293406440,
     "key": "Scoundrels' Forest",
     "original": "Scoundrels' Forest",
-    "translation": "恶棍的森林",
+    "translation": "贼窝林",
     "stage": 1,
     "context": "\"Scoundrels' Forest\""
   },
@@ -6443,7 +6443,7 @@
     "ID": 293406441,
     "key": "Foxfold Forest",
     "original": "Foxfold Forest",
-    "translation": "狐狸森林",
+    "translation": "狐巢森",
     "stage": 1,
     "context": "'Foxfold Forest'"
   },
@@ -6515,7 +6515,7 @@
     "ID": 293406450,
     "key": "Suderos",
     "original": "Suderos",
-    "translation": "苏德罗斯",
+    "translation": "丰裕原",
     "stage": 1,
     "context": "'Suderos'"
   },
@@ -6531,7 +6531,7 @@
     "ID": 293406452,
     "key": "Borderdale",
     "original": "Borderdale",
-    "translation": "伯德代尔",
+    "translation": "边谷",
     "stage": 1,
     "context": "'Borderdale'"
   },
@@ -6579,7 +6579,7 @@
     "ID": 293406458,
     "key": "Frozen Burrows",
     "original": "Frozen Burrows",
-    "translation": "冰冻洞穴",
+    "translation": "冰封洞",
     "stage": 1,
     "context": "'Frozen Burrows'"
   },
@@ -6587,7 +6587,7 @@
     "ID": 293406459,
     "key": "Rustyblade Mesa",
     "original": "Rustyblade Mesa",
-    "translation": "锈刃台地",
+    "translation": "锈刃台",
     "stage": 1,
     "context": "'Rustyblade Mesa'"
   },
@@ -6603,7 +6603,7 @@
     "ID": 293406461,
     "key": "Caskain",
     "original": "Caskain",
-    "translation": "卡斯凯恩",
+    "translation": "背篓原",
     "stage": 1,
     "context": "'Caskain'"
   },
@@ -6627,8 +6627,8 @@
     "ID": 293406464,
     "key": "Everwoods",
     "original": "Everwoods",
-    "translation": "永恒之林",
-    "stage": 5,
+    "translation": "亘古林",
+    "stage": 1,
     "context": "'Everwoods'"
   },
   {
@@ -6659,8 +6659,8 @@
     "ID": 293406468,
     "key": "Crows Nest",
     "original": "Crows Nest",
-    "translation": "乌鸦之巢",
-    "stage": 5,
+    "translation": "鸦巢林",
+    "stage": 1,
     "context": "'Crows Nest'"
   },
   {
@@ -6699,7 +6699,7 @@
     "ID": 293406473,
     "key": "Crowned Oak Forest",
     "original": "Crowned Oak Forest",
-    "translation": "加冕橡树林",
+    "translation": "橡盖林",
     "stage": 1,
     "context": "'Crowned Oak Forest'"
   },
@@ -6707,7 +6707,7 @@
     "ID": 293406474,
     "key": "Black Morass",
     "original": "Black Morass",
-    "translation": "黑色沼泽",
+    "translation": "漆黑潭",
     "stage": 1,
     "context": "'Black Morass'"
   },
@@ -6731,23 +6731,23 @@
     "ID": 293406477,
     "key": "Blackwood Forest",
     "original": "Blackwood Forest",
-    "translation": "黑木森林",
-    "stage": 5,
+    "translation": "黑木林",
+    "stage": 1,
     "context": "'Blackwood Forest'"
   },
   {
     "ID": 293406478,
     "key": "Brimstone Shoulders",
     "original": "Brimstone Shoulders",
-    "translation": "硫磺山肩",
-    "stage": 5,
+    "translation": "硫磺峦",
+    "stage": 1,
     "context": "'Brimstone Shoulders'"
   },
   {
     "ID": 293406479,
     "key": "Dire Hold",
     "original": "Dire Hold",
-    "translation": "可怕的要塞",
+    "translation": "恶栖",
     "stage": 1,
     "context": "'Dire Hold'"
   },
@@ -6771,7 +6771,7 @@
     "ID": 293406482,
     "key": "Cloddheads",
     "original": "Cloddheads",
-    "translation": "笨蛋",
+    "translation": "叠山尖",
     "stage": 1,
     "context": "'Cloddheads'"
   },
@@ -6851,7 +6851,7 @@
     "ID": 293406492,
     "key": "Silver Flats",
     "original": "Silver Flats",
-    "translation": "银色平底鞋",
+    "translation": "一片银",
     "stage": 1,
     "context": "'Silver Flats'"
   },
@@ -6891,7 +6891,7 @@
     "ID": 293406497,
     "key": "Pyrewood",
     "original": "Pyrewood",
-    "translation": "柴火",
+    "translation": "篝火林",
     "stage": 1,
     "context": "'Pyrewood'"
   },
@@ -6899,7 +6899,7 @@
     "ID": 293406498,
     "key": "Whispering Hills",
     "original": "Whispering Hills",
-    "translation": "耳语山",
+    "translation": "耳语丘",
     "stage": 1,
     "context": "'Whispering Hills'"
   },
@@ -6931,7 +6931,7 @@
     "ID": 293406502,
     "key": "Boulderhills",
     "original": "Boulderhills",
-    "translation": "博尔德希尔斯",
+    "translation": "巨石丘",
     "stage": 1,
     "context": "'Boulderhills'"
   },
@@ -6939,7 +6939,7 @@
     "ID": 293406503,
     "key": "Scorching Desert",
     "original": "Scorching Desert",
-    "translation": "灼热的沙漠",
+    "translation": "灼漠",
     "stage": 1,
     "context": "'Scorching Desert'"
   },
@@ -7003,7 +7003,7 @@
     "ID": 293406511,
     "key": "Houndsmarsh",
     "original": "Houndsmarsh",
-    "translation": "猎犬沼泽",
+    "translation": "猎犬沼",
     "stage": 1,
     "context": "'Houndsmarsh'"
   },
@@ -7091,7 +7091,7 @@
     "ID": 293406522,
     "key": "Suffocating Bog",
     "original": "Suffocating Bog",
-    "translation": "令人窒息的沼泽",
+    "translation": "闷息沼",
     "stage": 1,
     "context": "'Suffocating Bog'"
   },
@@ -7099,8 +7099,8 @@
     "ID": 293406523,
     "key": "Druid's Grove",
     "original": "Druid's Grove",
-    "translation": "德鲁伊的树林",
-    "stage": 5,
+    "translation": "德鲁伊之林",
+    "stage": 1,
     "context": "\"Druid's Grove\""
   },
   {
@@ -7155,7 +7155,7 @@
     "ID": 293406530,
     "key": "Desolate Moor",
     "original": "Desolate Moor",
-    "translation": "荒凉的荒原",
+    "translation": "荒凉泽",
     "stage": 1,
     "context": "'Desolate Moor'"
   },
@@ -7243,7 +7243,7 @@
     "ID": 293406541,
     "key": "Buried Snake Hills",
     "original": "Buried Snake Hills",
-    "translation": "埋蛇山",
+    "translation": "掩蛇山",
     "stage": 1,
     "context": "'Buried Snake Hills'"
   },
@@ -7275,7 +7275,7 @@
     "ID": 293406545,
     "key": "Beatroot Wilds",
     "original": "Beatroot Wilds",
-    "translation": "甜菜根荒野",
+    "translation": "红根野",
     "stage": 1,
     "context": "'Beatroot Wilds'"
   },
@@ -7299,15 +7299,15 @@
     "ID": 293406548,
     "key": "The Rift",
     "original": "The Rift",
-    "translation": "裂谷",
-    "stage": 5,
+    "translation": "大裂谷",
+    "stage": 1,
     "context": "'The Rift'"
   },
   {
     "ID": 293406549,
     "key": "Torched Plains",
     "original": "Torched Plains",
-    "translation": "火炬平原",
+    "translation": "焦原",
     "stage": 1,
     "context": "'Torched Plains'"
   },
@@ -7323,7 +7323,7 @@
     "ID": 293406551,
     "key": "Shipreath Marsh",
     "original": "Shipreath Marsh",
-    "translation": "希普雷斯沼泽",
+    "translation": "船息沼",
     "stage": 1,
     "context": "'Shipreath Marsh'"
   },
@@ -7387,7 +7387,7 @@
     "ID": 293406559,
     "key": "Bleached Bone Dale",
     "original": "Bleached Bone Dale",
-    "translation": "漂白的骨头谷",
+    "translation": "白骨谷",
     "stage": 1,
     "context": "'Bleached Bone Dale'"
   },
@@ -7395,7 +7395,7 @@
     "ID": 293406560,
     "key": "Forbidden Waters",
     "original": "Forbidden Waters",
-    "translation": "禁水区",
+    "translation": "避忌泊",
     "stage": 1,
     "context": "'Forbidden Waters'"
   },
@@ -7619,7 +7619,7 @@
     "ID": 293406588,
     "key": "Wicked Woods",
     "original": "Wicked Woods",
-    "translation": "邪气之林",
+    "translation": "邪气林",
     "stage": 1,
     "context": "'Wicked Woods'"
   },
@@ -7699,7 +7699,7 @@
     "ID": 293406598,
     "key": "Dusty Desert",
     "original": "Dusty Desert",
-    "translation": "尘土飞扬的沙漠",
+    "translation": "尘飞漠",
     "stage": 1,
     "context": "'Dusty Desert'"
   },
@@ -7811,7 +7811,7 @@
     "ID": 293406612,
     "key": "Kinmere",
     "original": "Kinmere",
-    "translation": "金米尔",
+    "translation": "族人泊",
     "stage": 1,
     "context": "'Kinmere'"
   },
@@ -7827,8 +7827,8 @@
     "ID": 293406614,
     "key": "Ravensbeak",
     "original": "Ravensbeak",
-    "translation": "鸦喙",
-    "stage": 5,
+    "translation": "鸦喙峰",
+    "stage": 1,
     "context": "'Ravensbeak'"
   },
   {
@@ -7867,7 +7867,7 @@
     "ID": 293406619,
     "key": "Jundland",
     "original": "Jundland",
-    "translation": "君德兰",
+    "translation": "新垦",
     "stage": 1,
     "context": "'Jundland'"
   },
@@ -7907,7 +7907,7 @@
     "ID": 293406624,
     "key": "Birch Timberland",
     "original": "Birch Timberland",
-    "translation": "桦木天伯伦",
+    "translation": "桦材林",
     "stage": 1,
     "context": "'Birch Timberland'"
   },
@@ -7931,7 +7931,7 @@
     "ID": 293406627,
     "key": "Poisonbreath Marshes",
     "original": "Poisonbreath Marshes",
-    "translation": "毒息沼泽",
+    "translation": "毒息沼",
     "stage": 1,
     "context": "'Poisonbreath Marshes'"
   },
@@ -7971,7 +7971,7 @@
     "ID": 293406632,
     "key": "Gray Toad Woodlands",
     "original": "Gray Toad Woodlands",
-    "translation": "灰蟾蜍林地",
+    "translation": "灰蟾林",
     "stage": 1,
     "context": "'Gray Toad Woodlands'"
   },
@@ -8019,7 +8019,7 @@
     "ID": 293406638,
     "key": "Fruitful Shallows",
     "original": "Fruitful Shallows",
-    "translation": "硕果累累的浅滩",
+    "translation": "丰美滩",
     "stage": 1,
     "context": "'Fruitful Shallows'"
   },
@@ -8123,7 +8123,7 @@
     "ID": 293406651,
     "key": "Mire of the Whisp",
     "original": "Mire of the Whisp",
-    "translation": "耳语的泥潭",
+    "translation": "絮语潭",
     "stage": 1,
     "context": "'Mire of the Whisp'"
   },
@@ -8155,8 +8155,8 @@
     "ID": 293406655,
     "key": "Barum",
     "original": "Barum",
-    "translation": "巴鲁姆",
-    "stage": 5,
+    "translation": "裸岩",
+    "stage": 1,
     "context": "'Barum'"
   },
   {
@@ -8235,7 +8235,7 @@
     "ID": 293406665,
     "key": "Treewalker Woodlands",
     "original": "Treewalker Woodlands",
-    "translation": "树行者林地",
+    "translation": "攀猿林",
     "stage": 1,
     "context": "'Treewalker Woodlands'"
   },
@@ -8243,7 +8243,7 @@
     "ID": 293406666,
     "key": "Aurora Flats",
     "original": "Aurora Flats",
-    "translation": "极光平底鞋",
+    "translation": "极光滩",
     "stage": 1,
     "context": "'Aurora Flats'"
   },
@@ -8283,7 +8283,7 @@
     "ID": 293406671,
     "key": "Evermist Mountains",
     "original": "Evermist Mountains",
-    "translation": "永雾山脉",
+    "translation": "永雾山",
     "stage": 1,
     "context": "'Evermist Mountains'"
   },
@@ -8315,7 +8315,7 @@
     "ID": 293406675,
     "key": "Duke's Demise",
     "original": "Duke's Demise",
-    "translation": "杜克之死",
+    "translation": "公爵没",
     "stage": 1,
     "context": "\"Duke's Demise\""
   },
@@ -8339,7 +8339,7 @@
     "ID": 293406678,
     "key": "Hedgehog Thicket",
     "original": "Hedgehog Thicket",
-    "translation": "刺猬丛林",
+    "translation": "刺猬灌",
     "stage": 1,
     "context": "'Hedgehog Thicket'"
   },
@@ -8355,7 +8355,7 @@
     "ID": 293406680,
     "key": "Badger's Covert",
     "original": "Badger's Covert",
-    "translation": "獾的秘密",
+    "translation": "隐獾林",
     "stage": 1,
     "context": "\"Badger's Covert\""
   },
@@ -8379,7 +8379,7 @@
     "ID": 293406683,
     "key": "The Thundering Peaks",
     "original": "The Thundering Peaks",
-    "translation": "雷鸣山峰",
+    "translation": "雷鸣峰",
     "stage": 1,
     "context": "'The Thundering Peaks'"
   },
@@ -8411,8 +8411,8 @@
     "ID": 293406687,
     "key": "Suderland",
     "original": "Suderland",
-    "translation": "苏德兰",
-    "stage": 5,
+    "translation": "丰裕地",
+    "stage": 1,
     "context": "'Suderland'"
   },
   {
@@ -8499,7 +8499,7 @@
     "ID": 293406698,
     "key": "Black Marshes",
     "original": "Black Marshes",
-    "translation": "黑沼泽",
+    "translation": "黑沼",
     "stage": 1,
     "context": "'Black Marshes'"
   },
@@ -8539,7 +8539,7 @@
     "ID": 293406703,
     "key": "Dragonteeth",
     "original": "Dragonteeth",
-    "translation": "龙牙",
+    "translation": "龙牙顶",
     "stage": 1,
     "context": "'Dragonteeth'"
   },
@@ -8587,7 +8587,7 @@
     "ID": 293406709,
     "key": "Dreadmoor",
     "original": "Dreadmoor",
-    "translation": "恐惧荒原",
+    "translation": "骇人泊",
     "stage": 1,
     "context": "'Dreadmoor'"
   },
@@ -8619,7 +8619,7 @@
     "ID": 293406713,
     "key": "Blackfan",
     "original": "Blackfan",
-    "translation": "黑扇",
+    "translation": "黑鬼没",
     "stage": 1,
     "context": "'Blackfan'"
   },
@@ -8627,7 +8627,7 @@
     "ID": 293406714,
     "key": "Crimson Forest",
     "original": "Crimson Forest",
-    "translation": "深红森林",
+    "translation": "赤红林",
     "stage": 1,
     "context": "'Crimson Forest'"
   },
@@ -8651,7 +8651,7 @@
     "ID": 293406717,
     "key": "Scorching Shire",
     "original": "Scorching Shire",
-    "translation": "灼热郡",
+    "translation": "火灼郊",
     "stage": 1,
     "context": "'Scorching Shire'"
   },
@@ -8683,7 +8683,7 @@
     "ID": 293406721,
     "key": "Everwinter",
     "original": "Everwinter",
-    "translation": "永冬",
+    "translation": "永冬之地",
     "stage": 1,
     "context": "'Everwinter'"
   },
@@ -8715,7 +8715,7 @@
     "ID": 293406725,
     "key": "Humming Hills",
     "original": "Humming Hills",
-    "translation": "嗡嗡山",
+    "translation": "嗡鸣冈",
     "stage": 1,
     "context": "'Humming Hills'"
   },
@@ -8747,7 +8747,7 @@
     "ID": 293406729,
     "key": "Timberland",
     "original": "Timberland",
-    "translation": "天伯伦",
+    "translation": "材林",
     "stage": 1,
     "context": "'Timberland'"
   },
@@ -8763,7 +8763,7 @@
     "ID": 293406731,
     "key": "Scragglands",
     "original": "Scragglands",
-    "translation": "荒地",
+    "translation": "荒崎地",
     "stage": 1,
     "context": "'Scragglands'"
   },
@@ -8779,7 +8779,7 @@
     "ID": 293406733,
     "key": "Sunpan",
     "original": "Sunpan",
-    "translation": "孙盘",
+    "translation": "日熙原",
     "stage": 1,
     "context": "'Sunpan'"
   },
@@ -8811,7 +8811,7 @@
     "ID": 293406737,
     "key": "Solstein",
     "original": "Solstein",
-    "translation": "索尔斯坦",
+    "translation": "日头岩",
     "stage": 1,
     "context": "'Solstein'"
   },
@@ -8859,15 +8859,15 @@
     "ID": 293406743,
     "key": "The Ghostly Plains",
     "original": "The Ghostly Plains",
-    "translation": "幽灵平原",
-    "stage": 5,
+    "translation": "鬼号原",
+    "stage": 1,
     "context": "'The Ghostly Plains'"
   },
   {
     "ID": 293406744,
     "key": "The Marshlands",
     "original": "The Marshlands",
-    "translation": "沼泽地",
+    "translation": "大泽",
     "stage": 1,
     "context": "'The Marshlands'"
   },
@@ -8915,7 +8915,7 @@
     "ID": 293406750,
     "key": "Murky Swamplands",
     "original": "Murky Swamplands",
-    "translation": "阴暗沼泽地",
+    "translation": "阴暗沼",
     "stage": 1,
     "context": "'Murky Swamplands'"
   },
@@ -8923,7 +8923,7 @@
     "ID": 293406751,
     "key": "Bronze Flats",
     "original": "Bronze Flats",
-    "translation": "青铜平底鞋",
+    "translation": "铜青滩",
     "stage": 1,
     "context": "'Bronze Flats'"
   },
@@ -8939,7 +8939,7 @@
     "ID": 293406753,
     "key": "Rampants",
     "original": "Rampants",
-    "translation": "猖獗",
+    "translation": "放浪林",
     "stage": 1,
     "context": "'Rampants'"
   },
@@ -8947,7 +8947,7 @@
     "ID": 293406754,
     "key": "Bonefold Barrow",
     "original": "Bonefold Barrow",
-    "translation": "骨褶手推车",
+    "translation": "累骨丘",
     "stage": 1,
     "context": "'Bonefold Barrow'"
   },
@@ -8955,7 +8955,7 @@
     "ID": 293406755,
     "key": "Waterwood Forest",
     "original": "Waterwood Forest",
-    "translation": "水木森林",
+    "translation": "水木森",
     "stage": 1,
     "context": "'Waterwood Forest'"
   },
@@ -9011,7 +9011,7 @@
     "ID": 293406762,
     "key": "Dreadhorn",
     "original": "Dreadhorn",
-    "translation": "恐惧号角",
+    "translation": "却步角",
     "stage": 1,
     "context": "'Dreadhorn'"
   },
@@ -9019,7 +9019,7 @@
     "ID": 293406763,
     "key": "White Waste",
     "original": "White Waste",
-    "translation": "白色废物",
+    "translation": "白色荒原",
     "stage": 1,
     "context": "'White Waste'"
   },
@@ -9027,7 +9027,7 @@
     "ID": 293406764,
     "key": "Nevermelting Hold",
     "original": "Nevermelting Hold",
-    "translation": "永不融化的保持",
+    "translation": "永冻原",
     "stage": 1,
     "context": "'Nevermelting Hold'"
   },
@@ -9035,8 +9035,8 @@
     "ID": 293406765,
     "key": "Mumbling Sands",
     "original": "Mumbling Sands",
-    "translation": "呢喃沙地",
-    "stage": 5,
+    "translation": "呢喃漠",
+    "stage": 1,
     "context": "'Mumbling Sands'"
   },
   {
@@ -9059,7 +9059,7 @@
     "ID": 293406768,
     "key": "The Wetlands",
     "original": "The Wetlands",
-    "translation": "湿地",
+    "translation": "大湿地",
     "stage": 1,
     "context": "'The Wetlands'"
   },
@@ -9067,7 +9067,7 @@
     "ID": 293406769,
     "key": "The Collapsing Hills",
     "original": "The Collapsing Hills",
-    "translation": "崩塌的山丘",
+    "translation": "崩丘",
     "stage": 1,
     "context": "'The Collapsing Hills'"
   },
@@ -9075,7 +9075,7 @@
     "ID": 293406770,
     "key": "Blood Woods",
     "original": "Blood Woods",
-    "translation": "鲜血丛林",
+    "translation": "血色林",
     "stage": 1,
     "context": "'Blood Woods'"
   },
@@ -9099,7 +9099,7 @@
     "ID": 293406773,
     "key": "Oldgrowth",
     "original": "Oldgrowth",
-    "translation": "旧树丛",
+    "translation": "老林",
     "stage": 1,
     "context": "'Oldgrowth'"
   },
@@ -9115,7 +9115,7 @@
     "ID": 293406775,
     "key": "Ember Forest",
     "original": "Ember Forest",
-    "translation": "余烬森林",
+    "translation": "烬余林",
     "stage": 1,
     "context": "'Ember Forest'"
   },
@@ -9123,7 +9123,7 @@
     "ID": 293406776,
     "key": "Frostfinger's Realm",
     "original": "Frostfinger's Realm",
-    "translation": "霜指的领域",
+    "translation": "没指霜",
     "stage": 1,
     "context": "\"Frostfinger's Realm\""
   },
@@ -9187,7 +9187,7 @@
     "ID": 293406784,
     "key": "Southern Reach",
     "original": "Southern Reach",
-    "translation": "南部地区",
+    "translation": "南至地",
     "stage": 1,
     "context": "'Southern Reach'"
   },
@@ -9235,7 +9235,7 @@
     "ID": 293406790,
     "key": "Frostfold",
     "original": "Frostfold",
-    "translation": "霜褶",
+    "translation": "霜褶原",
     "stage": 1,
     "context": "'Frostfold'"
   },
@@ -9267,7 +9267,7 @@
     "ID": 293406794,
     "key": "Endless Polder",
     "original": "Endless Polder",
-    "translation": "无尽圩田",
+    "translation": "无边圩",
     "stage": 1,
     "context": "'Endless Polder'"
   },
@@ -9275,7 +9275,7 @@
     "ID": 293406795,
     "key": "Dungslump",
     "original": "Dungslump",
-    "translation": "大粪",
+    "translation": "泥粪坑",
     "stage": 1,
     "context": "'Dungslump'"
   },
@@ -9283,7 +9283,7 @@
     "ID": 293406796,
     "key": "Woldwich",
     "original": "Woldwich",
-    "translation": "沃尔德威奇",
+    "translation": "咸水丘",
     "stage": 1,
     "context": "'Woldwich'"
   },
@@ -9307,7 +9307,7 @@
     "ID": 293406799,
     "key": "Maraman",
     "original": "Maraman",
-    "translation": "马拉曼",
+    "translation": "豚鼠野",
     "stage": 1,
     "context": "'Maraman'"
   },
@@ -9315,7 +9315,7 @@
     "ID": 293406800,
     "key": "Burnend",
     "original": "Burnend",
-    "translation": "伯恩德",
+    "translation": "火过林",
     "stage": 1,
     "context": "'Burnend'"
   },
@@ -9363,7 +9363,7 @@
     "ID": 293406806,
     "key": "Bed Load Knolls",
     "original": "Bed Load Knolls",
-    "translation": "底沙丘",
+    "translation": "万泉冈",
     "stage": 1,
     "context": "'Bed Load Knolls'"
   },
@@ -9427,7 +9427,7 @@
     "ID": 293406814,
     "key": "Icehenge",
     "original": "Icehenge",
-    "translation": "冰山",
+    "translation": "冰石林",
     "stage": 1,
     "context": "'Icehenge'"
   },
@@ -9451,7 +9451,7 @@
     "ID": 293406817,
     "key": "Moaning Sands",
     "original": "Moaning Sands",
-    "translation": "呻吟之沙",
+    "translation": "嚎沙",
     "stage": 1,
     "context": "'Moaning Sands'"
   },
@@ -9491,7 +9491,7 @@
     "ID": 293406822,
     "key": "Rugged Flats",
     "original": "Rugged Flats",
-    "translation": "坚固的平底鞋",
+    "translation": "崎岖原",
     "stage": 1,
     "context": "'Rugged Flats'"
   },
@@ -9531,8 +9531,8 @@
     "ID": 293406827,
     "key": "Chestnut Grove",
     "original": "Chestnut Grove",
-    "translation": "栗树林",
-    "stage": 5,
+    "translation": "栗木林",
+    "stage": 1,
     "context": "'Chestnut Grove'"
   },
   {
@@ -9547,8 +9547,8 @@
     "ID": 293406829,
     "key": "Rocky Ridge",
     "original": "Rocky Ridge",
-    "translation": "岩石山脊",
-    "stage": 5,
+    "translation": "岩脊",
+    "stage": 1,
     "context": "'Rocky Ridge'"
   },
   {
@@ -9619,7 +9619,7 @@
     "ID": 293406838,
     "key": "The Shadow Mountains",
     "original": "The Shadow Mountains",
-    "translation": "影子山脉",
+    "translation": "落影山",
     "stage": 1,
     "context": "'The Shadow Mountains'"
   },
@@ -9651,7 +9651,7 @@
     "ID": 293406842,
     "key": "Skullslide Hills",
     "original": "Skullslide Hills",
-    "translation": "骷髅山",
+    "translation": "滚颅冈",
     "stage": 1,
     "context": "'Skullslide Hills'"
   },
@@ -9683,7 +9683,7 @@
     "ID": 293406846,
     "key": "Northern Reaches",
     "original": "Northern Reaches",
-    "translation": "北部地区",
+    "translation": "至北之地",
     "stage": 1,
     "context": "'Northern Reaches'"
   },
@@ -9691,7 +9691,7 @@
     "ID": 293406847,
     "key": "Silversand Hold",
     "original": "Silversand Hold",
-    "translation": "银沙堡",
+    "translation": "银沙积",
     "stage": 1,
     "context": "'Silversand Hold'"
   },
@@ -9723,7 +9723,7 @@
     "ID": 293406851,
     "key": "Gallowsbog",
     "original": "Gallowsbog",
-    "translation": "绞刑沼泽",
+    "translation": "绞窒泽",
     "stage": 1,
     "context": "'Gallowsbog'"
   },
