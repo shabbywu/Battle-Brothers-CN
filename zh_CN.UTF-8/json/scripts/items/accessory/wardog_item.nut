@@ -11,8 +11,8 @@
     "ID": 293417508,
     "key": " the Wardog",
     "original": " the Wardog",
-    "translation": "战争犬",
-    "stage": 5,
+    "translation": "·战犬",
+    "stage": 1,
     "context": "this.m.Name = this.Const.Strings.WardogNames[this.Math.rand(0, this.Const.Strings.WardogNames.len() - 1)] + ' the Wardog'"
   },
   {

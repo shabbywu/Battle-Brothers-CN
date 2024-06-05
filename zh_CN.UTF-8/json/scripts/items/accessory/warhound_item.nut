@@ -43,8 +43,8 @@
     "ID": 293417516,
     "key": " the Warhound",
     "original": " the Warhound",
-    "translation": "战獒",
-    "stage": 5,
+    "translation": "·战獒",
+    "stage": 1,
     "context": "this.m.Name = this.Const.Strings.WardogNames[this.Math.rand(0, this.Const.Strings.WardogNames.len() - 1)] + ' the Warhound'"
   }
 ]

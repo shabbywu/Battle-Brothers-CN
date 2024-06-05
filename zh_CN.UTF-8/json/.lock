@@ -1340,14 +1340,14 @@
         "total": 1218,
         "translated": 1218,
         "disputed": 0,
-        "checked": 244,
-        "reviewed": 244,
+        "checked": 204,
+        "reviewed": 204,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-06-03T04:03:10Z",
-        "sha256": "b70a2a9db8c223908cb4a53e00f012dc3e18cade823776ae73218a1084096820"
+        "modifiedAt": "2024-06-04T06:39:29Z",
+        "sha256": "ac3b77a2ad63c18e9b2986b6f97d594033909941b541bd98be30854166332e7a"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -1418,8 +1418,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:46.237Z",
         "updatedAt": "2023-06-26T05:46:36.564Z",
-        "modifiedAt": "2024-05-29T03:18:38Z",
-        "sha256": "8dd5ac9b5396980b2628d794efa29978bffb0ab8a88896d4b103a1154edd39ec"
+        "modifiedAt": "2024-06-04T07:36:19Z",
+        "sha256": "495dd296b47df6ff2e917be8ad7e1e7a02c6a15f272beb4e890f6e9608b7bb5b"
     },
     "scripts/contracts/contract.json": {
         "id": 918425,
@@ -16928,14 +16928,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:34.224Z",
         "updatedAt": "2023-06-26T05:48:22.284Z",
-        "modifiedAt": "2023-06-26T05:48:22Z",
-        "sha256": "9a6d7e2edc6c732b628f298259683906f1a24ec3133bdfb4b5409b7a816ca8c7"
+        "modifiedAt": "2024-06-04T08:28:49Z",
+        "sha256": "e40b25bd1e4a1d745808de52695b7b81e079b94a4733eb513515bb88b91f824d"
     },
     "scripts/items/accessory/warhound_item.json": {
         "id": 919287,
@@ -16946,14 +16946,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:34.562Z",
         "updatedAt": "2023-06-26T05:48:22.367Z",
-        "modifiedAt": "2023-06-26T05:48:22Z",
-        "sha256": "b9f10cd8b6ac694bea1f5cc87b15cd30a5a5b8cfa8c6cf6d70bc49b82847b6f5"
+        "modifiedAt": "2024-06-04T08:29:07Z",
+        "sha256": "63c05fde0c21c787ec02ce0f75d4c7a7d226d6ca83647148e6e461a465daadb1"
     },
     "scripts/items/accessory/wolf_item.json": {
         "id": 919288,
@@ -29336,8 +29336,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:52.605Z",
         "updatedAt": "2023-06-26T05:49:12.657Z",
-        "modifiedAt": "2023-07-10T03:20:30Z",
-        "sha256": "8b91e0678483568d68a051dca9b892417fc098064f2d80d74b1022fe8e35b005"
+        "modifiedAt": "2024-06-04T08:29:14Z",
+        "sha256": "3065e0897a3102c1580d0c795bba9553bbc2f7d9f1a9d03603ecb0f91cd26f28"
     },
     "scripts/scenarios/world/random_scenario.json": {
         "id": 919976,
