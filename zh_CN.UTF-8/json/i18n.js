@@ -204,6 +204,7 @@ function $_node(node) {
     if (node === undefined || node === null) {
         return node;
     }
+    
     // patch element which is not wrapped with jquery
     if (node.childNodes !== undefined) {
         for (var idx in node.childNodes) {
@@ -211,7 +212,7 @@ function $_node(node) {
             if (child.nodeType == document.TEXT_NODE) {
                 child.nodeValue = $_(child.nodeValue);
             } else if (child.childNodes !== undefined) {
-                $_node(child);
+                node.childNodes[idx] = $_node(child);
             }
         }
     }
