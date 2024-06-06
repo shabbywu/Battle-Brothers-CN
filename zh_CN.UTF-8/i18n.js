@@ -201,10 +201,10 @@ function $_(text) {
 }
 
 function $_node(node) {
-    // patch element which is not wrapped with jquery
     if (node === undefined || node === null) {
         return node;
     }
+    // patch element which is not wrapped with jquery
     if (node.childNodes !== undefined) {
         for (var idx in node.childNodes) {
             var child = node.childNodes[idx];
