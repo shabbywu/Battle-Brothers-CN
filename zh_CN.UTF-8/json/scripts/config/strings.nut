@@ -1995,7 +1995,7 @@
     "ID": 293405885,
     "key": "Existing mostly in dreams",
     "original": "Existing mostly in dreams",
-    "translation": "主要存在于梦中",
+    "translation": "在梦中清晰可见",
     "stage": 1,
     "context": "'Existing mostly in dreams'"
   },
@@ -3811,8 +3811,8 @@
     "ID": 293406112,
     "key": "Flaming Comet Company",
     "original": "Flaming Comet Company",
-    "translation": "燃燃彗星战团",
-    "stage": 5,
+    "translation": "燃星战团",
+    "stage": 1,
     "context": "'Flaming Comet Company'"
   },
   {
@@ -4379,7 +4379,7 @@
     "ID": 293406183,
     "key": "Buy a Wagon",
     "original": "Buy a Wagon",
-    "translation": "购置马车",
+    "translation": "购置货车",
     "stage": 1,
     "context": "'Buy a Wagon'"
   },
@@ -8971,7 +8971,7 @@
     "ID": 293406757,
     "key": "Existing partly in dreams",
     "original": "Existing partly in dreams",
-    "translation": "部分存在于梦中",
+    "translation": "在梦中若隐若现",
     "stage": 1,
     "context": "'Existing partly in dreams'"
   },

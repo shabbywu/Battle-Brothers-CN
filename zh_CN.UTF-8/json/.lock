@@ -1274,8 +1274,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:42.523Z",
         "updatedAt": "2023-06-26T05:46:30.811Z",
-        "modifiedAt": "2024-06-02T13:57:41Z",
-        "sha256": "6723000643d2381d2aad12558837169726559eedb4089b3bacd72f4dfaa6d7e3"
+        "modifiedAt": "2024-06-06T01:49:43Z",
+        "sha256": "1153d68f403e075468513399fd718b8fd3061094ba5c2a0b90c9b0060dffdc12"
     },
     "scripts/config/items.json": {
         "id": 918417,
@@ -1340,14 +1340,14 @@
         "total": 1218,
         "translated": 1218,
         "disputed": 0,
-        "checked": 204,
-        "reviewed": 204,
+        "checked": 203,
+        "reviewed": 203,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-06-04T06:39:29Z",
-        "sha256": "ac3b77a2ad63c18e9b2986b6f97d594033909941b541bd98be30854166332e7a"
+        "modifiedAt": "2024-06-06T01:43:09Z",
+        "sha256": "d0ce6a2e3aee9541bcc6dbaa01696b9c077f3d824ac3bfc1b8fd038188ab5d38"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -2138,8 +2138,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:05.723Z",
         "updatedAt": "2023-06-26T05:46:49.42Z",
-        "modifiedAt": "2024-05-13T02:51:43Z",
-        "sha256": "a8909becc2970bf09f41ba87624678edee81a15259066bb8aebb8f64e70c2f89"
+        "modifiedAt": "2024-06-06T04:51:18Z",
+        "sha256": "400c54779b0241d08f0203bb9950a327d73043f1ba127d1904c13dd513156135"
     },
     "scripts/contracts/contracts/patrol_contract.json": {
         "id": 918465,
@@ -2366,14 +2366,14 @@
         "total": 11,
         "translated": 11,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:12.684Z",
         "updatedAt": "2023-06-26T05:46:53.494Z",
-        "modifiedAt": "2024-05-27T01:59:55Z",
-        "sha256": "040b4ad67eb9ecea57ab40c2850bd3612c6788a6c072eb0b5b572ff36d698c5d"
+        "modifiedAt": "2024-06-07T07:59:05Z",
+        "sha256": "952b347374914e6ed43c5c4209431cc34293c22f356bac957f18064374012378"
     },
     "scripts/contracts/templates/negotiation_templates.json": {
         "id": 918478,
@@ -14522,8 +14522,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:41.166Z",
         "updatedAt": "2023-06-26T05:48:13.154Z",
-        "modifiedAt": "2023-06-26T05:48:13Z",
-        "sha256": "cb40f262e002948a4948ceb8b145020de1ef27e3d4cc806a0e3523a1752a3175"
+        "modifiedAt": "2024-06-07T12:33:49Z",
+        "sha256": "445c52d074ffb50de6fb1546617255f2bf8b378b583fc2244286010e6ee625d9"
     },
     "scripts/events/events/sacrificed_man_event.json": {
         "id": 919153,
@@ -39344,8 +39344,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:05.329Z",
         "updatedAt": "2023-07-05T12:36:11.027Z",
-        "modifiedAt": "2024-05-13T02:57:44Z",
-        "sha256": "dd7d6cf10a9681ab0c556189770be09872b22df263a11cc23e85e4c02dfffb32"
+        "modifiedAt": "2024-06-07T04:52:41Z",
+        "sha256": "cc98af0fd579882e5921229e905fa8ea2c806721aad7503449234c789f3644cf"
     },
     "scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.json": {
         "id": 920532,

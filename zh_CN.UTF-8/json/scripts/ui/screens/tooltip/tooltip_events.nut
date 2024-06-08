@@ -2787,7 +2787,7 @@
     "ID": 293423301,
     "key": "The terms of this contract have been negotiated. All that's left is for you to sign it.",
     "original": "The terms of this contract have been negotiated. All that's left is for you to sign it.",
-    "translation": "这个合同的条款已经谈妥了。 剩下的就是你签字了。",
+    "translation": "合同已经谈妥，就等你签字了。",
     "stage": 1,
     "context": "text = \"The terms of this contract have been negotiated. All that's left is for you to sign it.\""
   },
