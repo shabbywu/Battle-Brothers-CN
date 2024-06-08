@@ -3,7 +3,7 @@
     "ID": 293404869,
     "key": "Tendon",
     "original": "Tendon",
-    "translation": "肌腱",
+    "translation": "筋角弓",
     "stage": 1,
     "context": "'Tendon'"
   },
@@ -99,7 +99,7 @@
     "ID": 293404881,
     "key": "Whip",
     "original": "Whip",
-    "translation": "鞭子",
+    "translation": "鞭",
     "stage": 1,
     "context": "'Whip'"
   },
@@ -347,7 +347,7 @@
     "ID": 293404912,
     "key": "Dirk",
     "original": "Dirk",
-    "translation": "德克",
+    "translation": "长匕",
     "stage": 1,
     "context": "'Dirk'"
   },
@@ -395,7 +395,7 @@
     "ID": 293404918,
     "key": "Cleaver",
     "original": "Cleaver",
-    "translation": "切肉刀",
+    "translation": "劈斩者",
     "stage": 1,
     "context": "'Cleaver'"
   },
@@ -443,7 +443,7 @@
     "ID": 293404924,
     "key": "Repeater",
     "original": "Repeater",
-    "translation": "手炮",
+    "translation": "速射",
     "stage": 1,
     "context": "'Repeater'"
   },
@@ -555,7 +555,7 @@
     "ID": 293404938,
     "key": "Poleblade",
     "original": "Poleblade",
-    "translation": "长柄刀刃",
+    "translation": "长刃",
     "stage": 1,
     "context": "'Poleblade'"
   },
@@ -843,7 +843,7 @@
     "ID": 293404974,
     "key": "Bladed Lance",
     "original": "Bladed Lance",
-    "translation": "刀刃长矛",
+    "translation": "刃矛",
     "stage": 1,
     "context": "'Bladed Lance'"
   },
@@ -971,7 +971,7 @@
     "ID": 293404990,
     "key": "Slicer",
     "original": "Slicer",
-    "translation": "切片者",
+    "translation": "切削者",
     "stage": 1,
     "context": "'Slicer'"
   },
@@ -1499,7 +1499,7 @@
     "ID": 293405056,
     "key": "Comet",
     "original": "Comet",
-    "translation": "灾星(Comet)",
+    "translation": "彗星",
     "stage": 1,
     "context": "'Comet'"
   },
@@ -1755,7 +1755,7 @@
     "ID": 293405088,
     "key": "Thrasher",
     "original": "Thrasher",
-    "translation": "打谷机",
+    "translation": "抽打",
     "stage": 1,
     "context": "'Thrasher'"
   },
@@ -2027,7 +2027,7 @@
     "ID": 293405122,
     "key": "Bladed Staff",
     "original": "Bladed Staff",
-    "translation": "利刃法杖",
+    "translation": "刃杖",
     "stage": 1,
     "context": "'Bladed Staff'"
   },
@@ -2235,7 +2235,7 @@
     "ID": 293405148,
     "key": "Warscythe",
     "original": "Warscythe",
-    "translation": "军用镰刀",
+    "translation": "战镰",
     "stage": 1,
     "context": "'Warscythe'"
   },
@@ -2715,7 +2715,7 @@
     "ID": 293405208,
     "key": "Cord",
     "original": "Cord",
-    "translation": "绒线",
+    "translation": "弦",
     "stage": 1,
     "context": "'Cord'"
   },
@@ -3211,7 +3211,7 @@
     "ID": 293405270,
     "key": "Gonne",
     "original": "Gonne",
-    "translation": "戈恩",
+    "translation": "火枪",
     "stage": 1,
     "context": "'Gonne'"
   },
@@ -3243,7 +3243,7 @@
     "ID": 293405274,
     "key": "Firebreather",
     "original": "Firebreather",
-    "translation": "龙息少年",
+    "translation": "龙息",
     "stage": 1,
     "context": "'Firebreather'"
   },
@@ -3315,7 +3315,7 @@
     "ID": 293405283,
     "key": "Blade",
     "original": "Blade",
-    "translation": "刀",
+    "translation": "刃",
     "stage": 1,
     "context": "'Blade'"
   },
@@ -3515,7 +3515,7 @@
     "ID": 293405308,
     "key": "Dart",
     "original": "Dart",
-    "translation": "穿杨",
+    "translation": "矢",
     "stage": 1,
     "context": "'Dart'"
   },
@@ -3603,7 +3603,7 @@
     "ID": 293405319,
     "key": "Nomad's",
     "original": "Nomad's",
-    "translation": "游牧民族",
+    "translation": "游牧民的",
     "stage": 1,
     "context": "\"Nomad's\""
   },
@@ -3803,7 +3803,7 @@
     "ID": 293405344,
     "key": "Sinew",
     "original": "Sinew",
-    "translation": "刚力",
+    "translation": "筋弦",
     "stage": 1,
     "context": "'Sinew'"
   },
@@ -4323,7 +4323,7 @@
     "ID": 293405409,
     "key": "Zweihander",
     "original": "Zweihander",
-    "translation": "双手剑士",
+    "translation": "双手剑",
     "stage": 1,
     "context": "'Zweihander'"
   },
