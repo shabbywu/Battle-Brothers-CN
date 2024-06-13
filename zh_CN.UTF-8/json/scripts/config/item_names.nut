@@ -1859,7 +1859,7 @@
     "ID": 293405101,
     "key": "of the North",
     "original": "of the North",
-    "translation": "·北方",
+    "translation": "·朔来",
     "stage": 1,
     "context": "'of the North'"
   },

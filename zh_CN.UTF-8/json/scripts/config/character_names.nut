@@ -19,7 +19,7 @@
     "ID": 293403780,
     "key": "Brasus",
     "original": "Brasus",
-    "translation": "布拉斯",
+    "translation": "布拉索斯",
     "stage": 1,
     "context": "'Brasus'"
   },
@@ -27,7 +27,7 @@
     "ID": 293403781,
     "key": "Ibn Nuh",
     "original": "Ibn Nuh",
-    "translation": "伊本·努赫",
+    "translation": "伊本·努哈",
     "stage": 1,
     "context": "'Ibn Nuh'"
   },
@@ -83,7 +83,7 @@
     "ID": 293403788,
     "key": "Al-Wahiri",
     "original": "Al-Wahiri",
-    "translation": "阿尔瓦希里",
+    "translation": "阿尔·瓦希里",
     "stage": 1,
     "context": "'Al-Wahiri'"
   },
@@ -91,7 +91,7 @@
     "ID": 293403789,
     "key": "Al-Salama",
     "original": "Al-Salama",
-    "translation": "阿尔萨拉马",
+    "translation": "阿尔·萨拉玛",
     "stage": 1,
     "context": "'Al-Salama'"
   },
@@ -267,7 +267,7 @@
     "ID": 293403811,
     "key": "Megerus",
     "original": "Megerus",
-    "translation": "梅格鲁斯",
+    "translation": "梅格拉斯",
     "stage": 1,
     "context": "'Megerus'"
   },
@@ -275,7 +275,7 @@
     "ID": 293403812,
     "key": "the Insidious",
     "original": "the Insidious",
-    "translation": "·阴毒",
+    "translation": "·伏击者",
     "stage": 1,
     "context": "'the Insidious'"
   },
@@ -379,8 +379,8 @@
     "ID": 293403825,
     "key": "Al-Fad",
     "original": "Al-Fad",
-    "translation": "阿尔-法德",
-    "stage": 5,
+    "translation": "阿尔·法德",
+    "stage": 1,
     "context": "'Al-Fad'"
   },
   {
@@ -403,7 +403,7 @@
     "ID": 293403828,
     "key": "the Cutter",
     "original": "the Cutter",
-    "translation": "·路匪",
+    "translation": "·剖腹者",
     "stage": 1,
     "context": "'the Cutter'"
   },
@@ -443,7 +443,7 @@
     "ID": 293403833,
     "key": "Nomion",
     "original": "Nomion",
-    "translation": "诺米恩",
+    "translation": "诺米翁",
     "stage": 1,
     "context": "'Nomion'"
   },
@@ -483,7 +483,7 @@
     "ID": 293403838,
     "key": "Moskon",
     "original": "Moskon",
-    "translation": "摩斯康",
+    "translation": "莫斯孔",
     "stage": 1,
     "context": "'Moskon'"
   },
@@ -819,7 +819,7 @@
     "ID": 293403880,
     "key": "Ug Shatup",
     "original": "Ug Shatup",
-    "translation": "肖特普",
+    "translation": "厄煞塔普",
     "stage": 1,
     "context": "'Ug Shatup'"
   },
@@ -859,7 +859,7 @@
     "ID": 293403885,
     "key": "%randomname% the Obsessed",
     "original": "%randomname% the Obsessed",
-    "translation": "痴迷者%randomname%",
+    "translation": "着魔者%randomname%",
     "stage": 1,
     "context": "'%randomname% the Obsessed'"
   },
@@ -891,7 +891,7 @@
     "ID": 293403889,
     "key": "Al-Bajani",
     "original": "Al-Bajani",
-    "translation": "阿尔巴贾尼",
+    "translation": "阿尔·巴贾尼",
     "stage": 1,
     "context": "'Al-Bajani'"
   },
@@ -947,7 +947,7 @@
     "ID": 293403896,
     "key": "Mug Nadar",
     "original": "Mug Nadar",
-    "translation": "纳达尔马克",
+    "translation": "马格纳达尔",
     "stage": 1,
     "context": "'Mug Nadar'"
   },
@@ -1027,7 +1027,7 @@
     "ID": 293403906,
     "key": "Al-Tasufin Ibn Habib",
     "original": "Al-Tasufin Ibn Habib",
-    "translation": "阿尔·塔苏芬·伊本·哈比卜",
+    "translation": "阿尔·塔素芬·伊本·哈比卜",
     "stage": 1,
     "context": "'Al-Tasufin Ibn Habib'"
   },
@@ -1083,7 +1083,7 @@
     "ID": 293403913,
     "key": "Husan",
     "original": "Husan",
-    "translation": "湖山",
+    "translation": "哈桑",
     "stage": 1,
     "context": "'Husan'"
   },
@@ -1107,7 +1107,7 @@
     "ID": 293403916,
     "key": "Aristes",
     "original": "Aristes",
-    "translation": "亚里士德",
+    "translation": "阿里斯提斯",
     "stage": 1,
     "context": "'Aristes'"
   },
@@ -1123,7 +1123,7 @@
     "ID": 293403918,
     "key": "Al-Jawlan",
     "original": "Al-Jawlan",
-    "translation": "阿尔贾兰",
+    "translation": "阿尔·贾瓦勒",
     "stage": 1,
     "context": "'Al-Jawlan'"
   },
@@ -1155,7 +1155,7 @@
     "ID": 293403922,
     "key": "Goth Na Ari",
     "original": "Goth Na Ari",
-    "translation": "哥特",
+    "translation": "哥斯纳里",
     "stage": 1,
     "context": "'Goth Na Ari'"
   },
@@ -1251,7 +1251,7 @@
     "ID": 293403934,
     "key": "%randomname% the Snake",
     "original": "%randomname% the Snake",
-    "translation": "%randomname%·蛇",
+    "translation": "毒蛇%randomname%",
     "stage": 1,
     "context": "'%randomname% the Snake'"
   },
@@ -1331,7 +1331,7 @@
     "ID": 293403944,
     "key": "Carax",
     "original": "Carax",
-    "translation": "卡拉",
+    "translation": "卡拉克斯",
     "stage": 1,
     "context": "'Carax'"
   },
@@ -1419,8 +1419,8 @@
     "ID": 293403955,
     "key": "Yazid",
     "original": "Yazid",
-    "translation": "亚兹德",
-    "stage": 5,
+    "translation": "叶齐德",
+    "stage": 1,
     "context": "'Yazid'"
   },
   {
@@ -1435,7 +1435,7 @@
     "ID": 293403957,
     "key": "Ayshun",
     "original": "Ayshun",
-    "translation": "阿顺",
+    "translation": "艾舒恩",
     "stage": 1,
     "context": "'Ayshun'"
   },
@@ -1443,7 +1443,7 @@
     "ID": 293403958,
     "key": "Ottel Bleakheart",
     "original": "Ottel Bleakheart",
-    "translation": "水獭",
+    "translation": "奥泰尔·暗心",
     "stage": 1,
     "context": "'Ottel Bleakheart'"
   },
@@ -1659,7 +1659,7 @@
     "ID": 293403985,
     "key": "Nosebiter",
     "original": "Nosebiter",
-    "translation": "鼻涕虫",
+    "translation": "啮鼻者",
     "stage": 1,
     "context": "'Nosebiter'"
   },
@@ -1667,7 +1667,7 @@
     "ID": 293403986,
     "key": "Bolvag Shrub",
     "original": "Bolvag Shrub",
-    "translation": "博尔瓦格",
+    "translation": "博尔瓦格什鲁布",
     "stage": 1,
     "context": "'Bolvag Shrub'"
   },
@@ -1675,8 +1675,8 @@
     "ID": 293403987,
     "key": "the Unbreakable",
     "original": "the Unbreakable",
-    "translation": "坚不可摧",
-    "stage": 5,
+    "translation": "·不破者",
+    "stage": 1,
     "context": "'the Unbreakable'"
   },
   {
@@ -1787,7 +1787,7 @@
     "ID": 293404001,
     "key": "Barabas Brimstone",
     "original": "Barabas Brimstone",
-    "translation": "巴拉巴斯·硫磺石",
+    "translation": "硫磺石巴拉巴斯",
     "stage": 1,
     "context": "'Barabas Brimstone'"
   },
@@ -1851,7 +1851,7 @@
     "ID": 293404009,
     "key": "Telephos",
     "original": "Telephos",
-    "translation": "泰勒福斯",
+    "translation": "特勒甫斯",
     "stage": 1,
     "context": "'Telephos'"
   },
@@ -1867,7 +1867,7 @@
     "ID": 293404011,
     "key": "Ibn Undi",
     "original": "Ibn Undi",
-    "translation": "伊本·乌迪",
+    "translation": "伊本·安迪",
     "stage": 1,
     "context": "'Ibn Undi'"
   },
@@ -1891,8 +1891,8 @@
     "ID": 293404014,
     "key": "Galib",
     "original": "Galib",
-    "translation": "加利布",
-    "stage": 5,
+    "translation": "加利卜",
+    "stage": 1,
     "context": "'Galib'"
   },
   {
@@ -1963,7 +1963,7 @@
     "ID": 293404023,
     "key": "the Headhunter",
     "original": "the Headhunter",
-    "translation": "猎头者",
+    "translation": "·猎头者",
     "stage": 1,
     "context": "'the Headhunter'"
   },
@@ -2035,7 +2035,7 @@
     "ID": 293404032,
     "key": "Al-Siddiq",
     "original": "Al-Siddiq",
-    "translation": "阿尔西迪克",
+    "translation": "阿尔·西迪克",
     "stage": 1,
     "context": "'Al-Siddiq'"
   },
@@ -2235,7 +2235,7 @@
     "ID": 293404057,
     "key": "Cyrenos",
     "original": "Cyrenos",
-    "translation": "昔兰诺斯",
+    "translation": "库里诺斯",
     "stage": 1,
     "context": "'Cyrenos'"
   },
@@ -2259,15 +2259,15 @@
     "ID": 293404060,
     "key": "Al-Abbas",
     "original": "Al-Abbas",
-    "translation": "阿尔-阿巴斯",
-    "stage": 5,
+    "translation": "阿尔·阿巴斯",
+    "stage": 1,
     "context": "'Al-Abbas'"
   },
   {
     "ID": 293404061,
     "key": "Mancrusher",
     "original": "Mancrusher",
-    "translation": "压碎者",
+    "translation": "冲撞者",
     "stage": 1,
     "context": "'Mancrusher'"
   },
@@ -2339,7 +2339,7 @@
     "ID": 293404070,
     "key": "Al-Affan",
     "original": "Al-Affan",
-    "translation": "阿尔阿凡",
+    "translation": "阿尔·阿凡",
     "stage": 1,
     "context": "'Al-Affan'"
   },
@@ -2387,7 +2387,7 @@
     "ID": 293404076,
     "key": "Al-Bakr",
     "original": "Al-Bakr",
-    "translation": "阿尔巴克尔",
+    "translation": "阿尔·巴克尔",
     "stage": 1,
     "context": "'Al-Bakr'"
   },
@@ -2395,7 +2395,7 @@
     "ID": 293404077,
     "key": "Al-Talamanki",
     "original": "Al-Talamanki",
-    "translation": "阿尔塔拉曼基",
+    "translation": "阿尔·塔拉曼齐",
     "stage": 1,
     "context": "'Al-Talamanki'"
   },
@@ -2499,7 +2499,7 @@
     "ID": 293404090,
     "key": "Infamous %randomname%",
     "original": "Infamous %randomname%",
-    "translation": "%randomname%·恶名昭彰",
+    "translation": "恶名遍地%randomname%",
     "stage": 1,
     "context": "'Infamous %randomname%'"
   },
@@ -2507,7 +2507,7 @@
     "ID": 293404091,
     "key": "%randomname% the Free",
     "original": "%randomname% the Free",
-    "translation": "%randomname%·自由",
+    "translation": "逍遥法外%randomname%",
     "stage": 1,
     "context": "'%randomname% the Free'"
   },
@@ -2531,7 +2531,7 @@
     "ID": 293404094,
     "key": "Napucon",
     "original": "Napucon",
-    "translation": "纳普康",
+    "translation": "纳普孔",
     "stage": 1,
     "context": "'Napucon'"
   },
@@ -2539,7 +2539,7 @@
     "ID": 293404095,
     "key": "the Blight",
     "original": "the Blight",
-    "translation": "疫病",
+    "translation": "·疫病",
     "stage": 1,
     "context": "'the Blight'"
   },
@@ -2667,7 +2667,7 @@
     "ID": 293404111,
     "key": "The Puppeteer",
     "original": "The Puppeteer",
-    "translation": "木偶师",
+    "translation": "傀儡师",
     "stage": 1,
     "context": "'The Puppeteer'"
   },
@@ -2683,7 +2683,7 @@
     "ID": 293404113,
     "key": "Bleak Blade Ingram",
     "original": "Bleak Blade Ingram",
-    "translation": "刀锋英格拉姆",
+    "translation": "阴寒刀锋英格拉姆",
     "stage": 1,
     "context": "'Bleak Blade Ingram'"
   },
@@ -2779,7 +2779,7 @@
     "ID": 293404125,
     "key": "The Elusive",
     "original": "The Elusive",
-    "translation": "难以捉摸的",
+    "translation": "行踪莫测",
     "stage": 1,
     "context": "'The Elusive'"
   },
@@ -2827,7 +2827,7 @@
     "ID": 293404131,
     "key": "Ibn Jasib",
     "original": "Ibn Jasib",
-    "translation": "伊本·贾西布",
+    "translation": "伊本·贾西卜",
     "stage": 1,
     "context": "'Ibn Jasib'"
   },
@@ -3043,7 +3043,7 @@
     "ID": 293404158,
     "key": "Vlixix",
     "original": "Vlixix",
-    "translation": "韦伯",
+    "translation": "维利希克斯",
     "stage": 1,
     "context": "'Vlixix'"
   },
@@ -3075,7 +3075,7 @@
     "ID": 293404162,
     "key": "Al-Sabbag",
     "original": "Al-Sabbag",
-    "translation": "阿尔萨巴格",
+    "translation": "阿尔·萨巴格",
     "stage": 1,
     "context": "'Al-Sabbag'"
   },
@@ -3195,7 +3195,7 @@
     "ID": 293404177,
     "key": "The Bull of %randomtown%",
     "original": "The Bull of %randomtown%",
-    "translation": "%randomtown%的公牛",
+    "translation": "%randomtown%的悍牛",
     "stage": 1,
     "context": "'The Bull of %randomtown%'"
   },
@@ -3211,7 +3211,7 @@
     "ID": 293404179,
     "key": "Al-Sahl",
     "original": "Al-Sahl",
-    "translation": "阿尔萨尔",
+    "translation": "阿尔·萨赫尔",
     "stage": 1,
     "context": "'Al-Sahl'"
   },
@@ -3355,7 +3355,7 @@
     "ID": 293404197,
     "key": "of the North",
     "original": "of the North",
-    "translation": "·北方",
+    "translation": "·朔来",
     "stage": 1,
     "context": "'of the North'"
   },
@@ -3475,7 +3475,7 @@
     "ID": 293404212,
     "key": "The Cleaver",
     "original": "The Cleaver",
-    "translation": "砍刀",
+    "translation": "剁肉者",
     "stage": 1,
     "context": "'The Cleaver'"
   },
@@ -3499,7 +3499,7 @@
     "ID": 293404215,
     "key": "Al-Benali",
     "original": "Al-Benali",
-    "translation": "阿尔贝纳利",
+    "translation": "阿尔·贝纳利",
     "stage": 1,
     "context": "'Al-Benali'"
   },
@@ -3531,7 +3531,7 @@
     "ID": 293404219,
     "key": "Shatratog",
     "original": "Shatratog",
-    "translation": "沙特罗",
+    "translation": "煞特罗托革",
     "stage": 1,
     "context": "'Shatratog'"
   },
@@ -3555,7 +3555,7 @@
     "ID": 293404222,
     "key": "Al-Zahir",
     "original": "Al-Zahir",
-    "translation": "阿尔扎希尔",
+    "translation": "阿尔·扎希尔",
     "stage": 1,
     "context": "'Al-Zahir'"
   },
@@ -3651,8 +3651,8 @@
     "ID": 293404234,
     "key": "The Wolf",
     "original": "The Wolf",
-    "translation": "狼",
-    "stage": 5,
+    "translation": "恶狼",
+    "stage": 1,
     "context": "'The Wolf'"
   },
   {
@@ -3699,7 +3699,7 @@
     "ID": 293404240,
     "key": "Neritos",
     "original": "Neritos",
-    "translation": "黑里托斯",
+    "translation": "涅里托斯",
     "stage": 1,
     "context": "'Neritos'"
   },
@@ -3731,7 +3731,7 @@
     "ID": 293404244,
     "key": "Al-Kasim",
     "original": "Al-Kasim",
-    "translation": "阿尔卡辛",
+    "translation": "阿尔·卡西姆",
     "stage": 1,
     "context": "'Al-Kasim'"
   },
@@ -3779,7 +3779,7 @@
     "ID": 293404250,
     "key": "Al-Rundi",
     "original": "Al-Rundi",
-    "translation": "阿尔艾伦迪",
+    "translation": "阿尔·伦迪",
     "stage": 1,
     "context": "'Al-Rundi'"
   },
@@ -3795,16 +3795,16 @@
     "ID": 293404252,
     "key": "Rasil",
     "original": "Rasil",
-    "translation": "拉希尔",
-    "stage": 5,
+    "translation": "拉西勒",
+    "stage": 1,
     "context": "'Rasil'"
   },
   {
     "ID": 293404253,
     "key": "Al-Aban",
     "original": "Al-Aban",
-    "translation": "阿尔-阿班",
-    "stage": 5,
+    "translation": "阿尔·阿班",
+    "stage": 1,
     "context": "'Al-Aban'"
   },
   {
@@ -3819,7 +3819,7 @@
     "ID": 293404255,
     "key": "Sabti",
     "original": "Sabti",
-    "translation": "萨布蒂",
+    "translation": "萨卜提",
     "stage": 1,
     "context": "'Sabti'"
   },
@@ -3963,7 +3963,7 @@
     "ID": 293404273,
     "key": "The Fallen Knight",
     "original": "The Fallen Knight",
-    "translation": "倒下的骑士",
+    "translation": "堕落骑士",
     "stage": 1,
     "context": "'The Fallen Knight'"
   },
@@ -3971,7 +3971,7 @@
     "ID": 293404274,
     "key": "the Ghost",
     "original": "the Ghost",
-    "translation": "幽灵",
+    "translation": "·幽灵",
     "stage": 1,
     "context": "'the Ghost'"
   },
@@ -3979,7 +3979,7 @@
     "ID": 293404275,
     "key": "Hamdun",
     "original": "Hamdun",
-    "translation": "汉顿",
+    "translation": "哈姆敦",
     "stage": 1,
     "context": "'Hamdun'"
   },
@@ -4019,7 +4019,7 @@
     "ID": 293404280,
     "key": "Shurayd",
     "original": "Shurayd",
-    "translation": "舒雷德",
+    "translation": "舒里德",
     "stage": 1,
     "context": "'Shurayd'"
   },
@@ -4267,7 +4267,7 @@
     "ID": 293404311,
     "key": "Rotor Ravensblack",
     "original": "Rotor Ravensblack",
-    "translation": "乌鸦",
+    "translation": "鸦黑罗托尔",
     "stage": 1,
     "context": "'Rotor Ravensblack'"
   },
@@ -4283,7 +4283,7 @@
     "ID": 293404313,
     "key": "Hafas",
     "original": "Hafas",
-    "translation": "哈法沙",
+    "translation": "哈法斯",
     "stage": 1,
     "context": "'Hafas'"
   },
@@ -4339,7 +4339,7 @@
     "ID": 293404320,
     "key": "Warshout",
     "original": "Warshout",
-    "translation": "怒吼",
+    "translation": "战嚎",
     "stage": 1,
     "context": "'Warshout'"
   },
@@ -4371,7 +4371,7 @@
     "ID": 293404324,
     "key": "Abdari",
     "original": "Abdari",
-    "translation": "阿布达里",
+    "translation": "阿卜达里",
     "stage": 1,
     "context": "'Abdari'"
   },
@@ -4531,7 +4531,7 @@
     "ID": 293404344,
     "key": "Al-Harun",
     "original": "Al-Harun",
-    "translation": "哈伦",
+    "translation": "阿尔·哈伦",
     "stage": 1,
     "context": "'Al-Harun'"
   },
@@ -4675,7 +4675,7 @@
     "ID": 293404362,
     "key": "%randomname% the Cruel",
     "original": "%randomname% the Cruel",
-    "translation": "残忍的%randomname%",
+    "translation": "残暴者%randomname%",
     "stage": 1,
     "context": "'%randomname% the Cruel'"
   },
@@ -4691,7 +4691,7 @@
     "ID": 293404364,
     "key": "Damastes",
     "original": "Damastes",
-    "translation": "大马士革",
+    "translation": "达玛斯特斯",
     "stage": 1,
     "context": "'Damastes'"
   },
@@ -4859,7 +4859,7 @@
     "ID": 293404385,
     "key": "Al-Bahri",
     "original": "Al-Bahri",
-    "translation": "阿尔巴赫里",
+    "translation": "阿尔·巴赫里",
     "stage": 1,
     "context": "'Al-Bahri'"
   },
@@ -4955,7 +4955,7 @@
     "ID": 293404397,
     "key": "Ubaid",
     "original": "Ubaid",
-    "translation": "乌巴德",
+    "translation": "阿拜德",
     "stage": 1,
     "context": "'Ubaid'"
   },
@@ -5147,15 +5147,15 @@
     "ID": 293404421,
     "key": "Al-Tahir",
     "original": "Al-Tahir",
-    "translation": "阿尔-塔希尔",
-    "stage": 5,
+    "translation": "阿尔·塔希尔",
+    "stage": 1,
     "context": "'Al-Tahir'"
   },
   {
     "ID": 293404422,
     "key": "Drod Kazan",
     "original": "Drod Kazan",
-    "translation": "德加喀山",
+    "translation": "德罗喀赞",
     "stage": 1,
     "context": "'Drod Kazan'"
   },
@@ -5187,7 +5187,7 @@
     "ID": 293404426,
     "key": "Al-Aziz",
     "original": "Al-Aziz",
-    "translation": "阿尔阿齐兹",
+    "translation": "阿尔·阿齐兹",
     "stage": 1,
     "context": "'Al-Aziz'"
   },
@@ -5267,7 +5267,7 @@
     "ID": 293404436,
     "key": "%randomname% the Unholy",
     "original": "%randomname% the Unholy",
-    "translation": "邪恶的%randomname%",
+    "translation": "亵渎者%randomname%",
     "stage": 1,
     "context": "'%randomname% the Unholy'"
   },
@@ -5275,7 +5275,7 @@
     "ID": 293404437,
     "key": "Snarf",
     "original": "Snarf",
-    "translation": "陷阱",
+    "translation": "斯纳夫",
     "stage": 1,
     "context": "'Snarf'"
   },
@@ -5283,7 +5283,7 @@
     "ID": 293404438,
     "key": "Al-Dani",
     "original": "Al-Dani",
-    "translation": "阿尔达尼",
+    "translation": "阿尔·达尼",
     "stage": 1,
     "context": "'Al-Dani'"
   },
@@ -5355,7 +5355,7 @@
     "ID": 293404447,
     "key": "Al-Badir",
     "original": "Al-Badir",
-    "translation": "阿尔巴迪尔",
+    "translation": "阿尔·巴迪尔",
     "stage": 1,
     "context": "'Al-Badir'"
   },
@@ -5371,8 +5371,8 @@
     "ID": 293404449,
     "key": "Al-Jatami",
     "original": "Al-Jatami",
-    "translation": "阿尔-贾塔米",
-    "stage": 5,
+    "translation": "阿尔·贾塔米",
+    "stage": 1,
     "context": "'Al-Jatami'"
   },
   {
@@ -5451,7 +5451,7 @@
     "ID": 293404459,
     "key": "Marnis",
     "original": "Marnis",
-    "translation": "马尼斯",
+    "translation": "马尔尼斯",
     "stage": 1,
     "context": "'Marnis'"
   },
@@ -5483,7 +5483,7 @@
     "ID": 293404463,
     "key": "Ianoton",
     "original": "Ianoton",
-    "translation": "亚诺顿",
+    "translation": "伊阿诺顿",
     "stage": 1,
     "context": "'Ianoton'"
   },
@@ -5547,7 +5547,7 @@
     "ID": 293404471,
     "key": "Eye of the Hawk",
     "original": "Eye of the Hawk",
-    "translation": "鹰眼",
+    "translation": "隼目",
     "stage": 1,
     "context": "'Eye of the Hawk'"
   },
@@ -5603,7 +5603,7 @@
     "ID": 293404478,
     "key": "Al-Tabar",
     "original": "Al-Tabar",
-    "translation": "阿尔塔巴尔",
+    "translation": "阿尔·塔巴尔",
     "stage": 1,
     "context": "'Al-Tabar'"
   },
@@ -5819,8 +5819,8 @@
     "ID": 293404505,
     "key": "Al-Fath",
     "original": "Al-Fath",
-    "translation": "阿尔-法斯",
-    "stage": 5,
+    "translation": "阿尔·法特",
+    "stage": 1,
     "context": "'Al-Fath'"
   },
   {
@@ -5883,7 +5883,7 @@
     "ID": 293404513,
     "key": "Nox",
     "original": "Nox",
-    "translation": "绿水",
+    "translation": "诺克斯",
     "stage": 1,
     "context": "'Nox'"
   },
@@ -5891,7 +5891,7 @@
     "ID": 293404514,
     "key": "Barkud",
     "original": "Barkud",
-    "translation": "巴克德",
+    "translation": "巴尔库德",
     "stage": 1,
     "context": "'Barkud'"
   },
@@ -5939,8 +5939,8 @@
     "ID": 293404520,
     "key": "Jifri",
     "original": "Jifri",
-    "translation": "吉弗利",
-    "stage": 5,
+    "translation": "吉弗里",
+    "stage": 1,
     "context": "'Jifri'"
   },
   {
@@ -6107,16 +6107,16 @@
     "ID": 293404541,
     "key": "Al-Faris",
     "original": "Al-Faris",
-    "translation": "阿尔-法瑞斯",
-    "stage": 5,
+    "translation": "阿尔·法里斯",
+    "stage": 1,
     "context": "'Al-Faris'"
   },
   {
     "ID": 293404542,
     "key": "Al-Faradi",
     "original": "Al-Faradi",
-    "translation": "阿尔-法拉第",
-    "stage": 5,
+    "translation": "阿尔·法拉迪",
+    "stage": 1,
     "context": "'Al-Faradi'"
   },
   {
@@ -6163,7 +6163,7 @@
     "ID": 293404548,
     "key": "Morsimus",
     "original": "Morsimus",
-    "translation": "莫西姆斯",
+    "translation": "莫尔西穆斯",
     "stage": 1,
     "context": "'Morsimus'"
   },
@@ -6235,7 +6235,7 @@
     "ID": 293404557,
     "key": "Rholes",
     "original": "Rholes",
-    "translation": "罗莱斯",
+    "translation": "罗洛斯",
     "stage": 1,
     "context": "'Rholes'"
   },
@@ -6339,7 +6339,7 @@
     "ID": 293404570,
     "key": "Burrus",
     "original": "Burrus",
-    "translation": "布鲁斯",
+    "translation": "布罗斯",
     "stage": 1,
     "context": "'Burrus'"
   },
@@ -6371,7 +6371,7 @@
     "ID": 293404574,
     "key": "the Sticker",
     "original": "the Sticker",
-    "translation": "·顽固",
+    "translation": "·迅刺",
     "stage": 1,
     "context": "'the Sticker'"
   },
@@ -6427,7 +6427,7 @@
     "ID": 293404581,
     "key": "Mucatra",
     "original": "Mucatra",
-    "translation": "慕卡特拉",
+    "translation": "穆卡特拉",
     "stage": 1,
     "context": "'Mucatra'"
   },
@@ -6459,7 +6459,7 @@
     "ID": 293404585,
     "key": "Al-Baji",
     "original": "Al-Baji",
-    "translation": "阿尔巴吉",
+    "translation": "阿尔·巴吉",
     "stage": 1,
     "context": "'Al-Baji'"
   },
@@ -6651,7 +6651,7 @@
     "ID": 293404609,
     "key": "Eyegouger",
     "original": "Eyegouger",
-    "translation": "眼罩",
+    "translation": "剜眼者",
     "stage": 1,
     "context": "'Eyegouger'"
   },
@@ -6819,7 +6819,7 @@
     "ID": 293404630,
     "key": "%randomname% the Hawk",
     "original": "%randomname% the Hawk",
-    "translation": "%randomname%·鹰",
+    "translation": "秃鹰%randomname%",
     "stage": 1,
     "context": "'%randomname% the Hawk'"
   },
@@ -6843,7 +6843,7 @@
     "ID": 293404633,
     "key": "The Eagle",
     "original": "The Eagle",
-    "translation": "老鹰",
+    "translation": "鹰眼",
     "stage": 1,
     "context": "'The Eagle'"
   },
@@ -7027,7 +7027,7 @@
     "ID": 293404656,
     "key": "Tarbus",
     "original": "Tarbus",
-    "translation": "塔布斯",
+    "translation": "塔尔布斯",
     "stage": 1,
     "context": "'Tarbus'"
   },
@@ -7107,7 +7107,7 @@
     "ID": 293404666,
     "key": "Al-Muharib",
     "original": "Al-Muharib",
-    "translation": "阿尔穆哈里卜",
+    "translation": "阿尔·穆哈里卜",
     "stage": 1,
     "context": "'Al-Muharib'"
   },
@@ -7131,7 +7131,7 @@
     "ID": 293404669,
     "key": "Gravespotter",
     "original": "Gravespotter",
-    "translation": "格拉斯波特",
+    "translation": "寻墓者",
     "stage": 1,
     "context": "'Gravespotter'"
   },
@@ -7155,7 +7155,7 @@
     "ID": 293404672,
     "key": "Jamil",
     "original": "Jamil",
-    "translation": "杰米尔",
+    "translation": "哲米勒",
     "stage": 1,
     "context": "'Jamil'"
   },
@@ -7235,7 +7235,7 @@
     "ID": 293404682,
     "key": "Talha",
     "original": "Talha",
-    "translation": "塔哈",
+    "translation": "塔尔哈",
     "stage": 1,
     "context": "'Talha'"
   },
@@ -7275,7 +7275,7 @@
     "ID": 293404687,
     "key": "the Restorator",
     "original": "the Restorator",
-    "translation": "·中兴者",
+    "translation": "·回魂者",
     "stage": 1,
     "context": "'the Restorator'"
   },
@@ -7339,8 +7339,8 @@
     "ID": 293404695,
     "key": "Al-Mundir",
     "original": "Al-Mundir",
-    "translation": "阿尔-穆迪尔",
-    "stage": 5,
+    "translation": "阿尔·穆迪尔",
+    "stage": 1,
     "context": "'Al-Mundir'"
   },
   {
@@ -7387,7 +7387,7 @@
     "ID": 293404701,
     "key": "Al-Haddad",
     "original": "Al-Haddad",
-    "translation": "阿尔哈达德",
+    "translation": "阿尔·哈达德",
     "stage": 1,
     "context": "'Al-Haddad'"
   },
@@ -7403,7 +7403,7 @@
     "ID": 293404703,
     "key": "Terebus",
     "original": "Terebus",
-    "translation": "特雷布斯",
+    "translation": "特雷沃斯",
     "stage": 1,
     "context": "'Terebus'"
   },
@@ -7443,7 +7443,7 @@
     "ID": 293404708,
     "key": "Caston",
     "original": "Caston",
-    "translation": "卡斯顿",
+    "translation": "卡斯特翁",
     "stage": 1,
     "context": "'Caston'"
   },
@@ -7499,7 +7499,7 @@
     "ID": 293404715,
     "key": "the Elusive",
     "original": "the Elusive",
-    "translation": "·善变者",
+    "translation": "·莫测",
     "stage": 1,
     "context": "'the Elusive'"
   },
@@ -7547,7 +7547,7 @@
     "ID": 293404721,
     "key": "Al-Sawid",
     "original": "Al-Sawid",
-    "translation": "阿尔萨维德",
+    "translation": "阿尔·萨维德",
     "stage": 1,
     "context": "'Al-Sawid'"
   },
@@ -7563,7 +7563,7 @@
     "ID": 293404723,
     "key": "Knifelicker",
     "original": "Knifelicker",
-    "translation": "刀匠",
+    "translation": "舐刃者",
     "stage": 1,
     "context": "'Knifelicker'"
   },
@@ -7635,7 +7635,7 @@
     "ID": 293404732,
     "key": "Gudila",
     "original": "Gudila",
-    "translation": "古德拉",
+    "translation": "古迪拉",
     "stage": 1,
     "context": "'Gudila'"
   },
@@ -7675,8 +7675,8 @@
     "ID": 293404737,
     "key": "Shuyab",
     "original": "Shuyab",
-    "translation": "舒亚布",
-    "stage": 5,
+    "translation": "舒亚卜",
+    "stage": 1,
     "context": "'Shuyab'"
   },
   {
@@ -7699,7 +7699,7 @@
     "ID": 293404740,
     "key": "Rotgut",
     "original": "Rotgut",
-    "translation": "罗特古特",
+    "translation": "烂肠",
     "stage": 1,
     "context": "'Rotgut'"
   },

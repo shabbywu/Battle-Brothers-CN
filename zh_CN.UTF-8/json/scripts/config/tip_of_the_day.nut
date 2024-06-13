@@ -499,7 +499,7 @@
     "ID": 293406919,
     "key": "A character with a height level advantage over their opponent is harder to hit.",
     "original": "A character with a height level advantage over their opponent is harder to hit.",
-    "translation": "拥有高度优势使角色更难被对手命中。",
+    "translation": "高地优势使角色更难被对手命中。",
     "stage": 1,
     "context": "'A character with a height level advantage over their opponent is harder to hit.'"
   },

@@ -235,8 +235,8 @@
     "ID": 293422199,
     "key": "Height advantage",
     "original": "Height advantage",
-    "translation": "高度优势",
-    "stage": 5,
+    "translation": "高地优势",
+    "stage": 1,
     "context": "text = 'Height advantage'"
   },
   {

@@ -11,7 +11,7 @@
     "ID": 293413421,
     "key": "That's concerning...",
     "original": "That's concerning...",
-    "translation": "那是关于…",
+    "translation": "这可不是什么好兆头…",
     "stage": 1,
     "context": "Text = \"That's concerning...\""
   },

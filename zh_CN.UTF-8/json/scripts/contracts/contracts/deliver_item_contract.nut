@@ -115,7 +115,7 @@
     "ID": 293408494,
     "key": "Back where it belongs.",
     "original": "Back where it belongs.",
-    "translation": "回到它应该在的地方。",
+    "translation": "物归原主。",
     "stage": 1,
     "context": "Text = 'Back where it belongs.'"
   },

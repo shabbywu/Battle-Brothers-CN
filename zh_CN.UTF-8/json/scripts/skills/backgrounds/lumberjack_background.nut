@@ -11,7 +11,7 @@
     "ID": 293421075,
     "key": "%name% the lumberjack had enough of the sellsword's life and returned to woodcutting. Last you heard, he was involved in a tree-falling accident and his body could have been rolled up like a rug the bones were so thoroughly squashed.",
     "original": "%name% the lumberjack had enough of the sellsword's life and returned to woodcutting. Last you heard, he was involved in a tree-falling accident and his body could have been rolled up like a rug the bones were so thoroughly squashed.",
-    "translation": "伐木工%name%受够了佣兵生活，决定回去砍树。最后你听说，他被倒下的树砸成了肉饼，连骨头都碎了。",
+    "translation": "伐木工%name%受够了佣兵生活，决定回去砍树。最后你听说，他被倒下的树砸成了肉饼，连块整骨头都没留下。",
     "stage": 1,
     "context": "this.m.BadEnding = \"%name% the lumberjack had enough of the sellsword's life and returned to woodcutting. Last you heard, he was involved in a tree-falling accident and his body could have been rolled up like a rug the bones were so thoroughly squashed.\""
   },

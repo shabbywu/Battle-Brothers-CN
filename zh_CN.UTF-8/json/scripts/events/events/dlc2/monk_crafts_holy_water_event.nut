@@ -3,7 +3,7 @@
     "ID": 293413996,
     "key": "Even holy men have tricks of the trade.",
     "original": "Even holy men have tricks of the trade.",
-    "translation": "即使是圣人也有交易的技俩。",
+    "translation": "即便圣人也会取巧。",
     "stage": 1,
     "context": "Text = 'Even holy men have tricks of the trade.'"
   },
