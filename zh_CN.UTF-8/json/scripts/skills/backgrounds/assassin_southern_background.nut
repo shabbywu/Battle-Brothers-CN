@@ -11,8 +11,8 @@
     "ID": 293420782,
     "key": "the Elusive",
     "original": "the Elusive",
-    "translation": "难以捉摸者(the Elusive)",
-    "stage": 5,
+    "translation": "莫测(the Elusive)",
+    "stage": 1,
     "context": "'the Elusive'"
   },
   {
@@ -75,8 +75,8 @@
     "ID": 293420790,
     "key": "the Insidious",
     "original": "the Insidious",
-    "translation": "潜伏者(the Insidious)",
-    "stage": 5,
+    "translation": "潜伏者",
+    "stage": 1,
     "context": "'the Insidious'"
   },
   {

@@ -123,8 +123,8 @@
     "ID": 293422794,
     "key": "[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]Survive against overwhelming odds while positioned on top of a hill. Well suited to learn about height advantage and to test sight and usability issues with height levels. Difficult.[/p]",
     "original": "[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]Survive against overwhelming odds while positioned on top of a hill. Well suited to learn about height advantage and to test sight and usability issues with height levels. Difficult.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]处于小山的顶部，在巨大的危险中生存下来。非常适合学习高度优势，并在高处测试视野和交互细节。困难。[/p]",
-    "stage": 5,
+    "translation": "[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]处于小山的顶部，在巨大的危险中生存下来。非常适合学习高地优势，并在高处测试视野和交互细节。困难。[/p]",
+    "stage": 1,
     "context": "description = '[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]Survive against overwhelming odds while positioned on top of a hill. Well suited to learn about height advantage and to test sight and usability issues with height levels. Difficult.[/p]'"
   },
   {

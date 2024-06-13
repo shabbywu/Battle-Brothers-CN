@@ -11,7 +11,7 @@
     "ID": 293422365,
     "key": "This character is prone to excessive violence and cruelty towards his enemies. An opponent isn't good enough dead, his head needs to be on a spike!",
     "original": "This character is prone to excessive violence and cruelty towards his enemies. An opponent isn't good enough dead, his head needs to be on a spike!",
-    "translation": "这个角色容易对敌人过度暴力和残忍。死了还不够，把他的头串起来！",
+    "translation": "这个角色容易对敌人过度暴力和残忍。死了还不够，把他的头挑起来！",
     "stage": 1,
     "context": "this.m.Description = \"This character is prone to excessive violence and cruelty towards his enemies. An opponent isn't good enough dead, his head needs to be on a spike!\""
   },

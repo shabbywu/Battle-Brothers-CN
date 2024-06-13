@@ -99,7 +99,7 @@
     "ID": 293410200,
     "key": "A Schrat is a living tree, a being of bark and wood, with a mind truly alien.",
     "original": "A Schrat is a living tree, a being of bark and wood, with a mind truly alien.",
-    "translation": "一个树人(Schrat)是一棵活着的树，由树皮和木材组成的生命体，其思维方式难以理解。",
+    "translation": "树人是一棵棵活着的树，是树皮和木材组成的生命，其思维方式非人类所能理解。",
     "stage": 1,
     "context": "'A Schrat is a living tree, a being of bark and wood, with a mind truly alien.'"
   },

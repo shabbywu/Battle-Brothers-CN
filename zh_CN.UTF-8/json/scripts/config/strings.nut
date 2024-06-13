@@ -587,7 +587,7 @@
     "ID": 293405709,
     "key": "Tickbrake",
     "original": "Tickbrake",
-    "translation": "扁虱灌木",
+    "translation": "扁虱灌",
     "stage": 1,
     "context": "'Tickbrake'"
   },
@@ -3659,8 +3659,8 @@
     "ID": 293406093,
     "key": "far away",
     "original": "far away",
-    "translation": "[color=#00ff00]非常远[/color]",
-    "stage": 5,
+    "translation": "[color=#00ff00]遥远[/color]",
+    "stage": 1,
     "context": "'far away'"
   },
   {
@@ -5643,7 +5643,7 @@
     "ID": 293406341,
     "key": "Unlocks the 'Footwork' skill which allows you to leave a Zone of Control without triggering free attacks by using skillful footwork.",
     "original": "Unlocks the 'Footwork' skill which allows you to leave a Zone of Control without triggering free attacks by using skillful footwork.",
-    "translation": "解锁“步法”技能，使您可以通过熟练的步法离开控制区域而不会触发自由攻击。",
+    "translation": "解锁“步法”技能，使您可以通过熟练的步法离开控制区域而不会触发免费借机攻击。",
     "stage": 1,
     "context": "Footwork = \"Unlocks the 'Footwork' skill which allows you to leave a Zone of Control without triggering free attacks by using skillful footwork.\""
   },

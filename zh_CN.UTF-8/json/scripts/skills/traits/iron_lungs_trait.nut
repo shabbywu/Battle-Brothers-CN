@@ -3,8 +3,8 @@
     "ID": 293422581,
     "key": "This character will rarely run out of breath, whether swinging a heavy weapon or running across all the battlefield.",
     "original": "This character will rarely run out of breath, whether swinging a heavy weapon or running across all the battlefield.",
-    "translation": "这个角色很少会气喘吁吁，无论是挥舞着重型武器还是跑过整个战场。",
-    "stage": 5,
+    "translation": "这个角色很少会气喘吁吁，哪怕是挥舞重型武器或是跑过整个战场。",
+    "stage": 1,
     "context": "this.m.Description = 'This character will rarely run out of breath, whether swinging a heavy weapon or running across all the battlefield.'"
   },
   {

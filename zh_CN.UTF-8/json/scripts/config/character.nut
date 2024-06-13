@@ -243,8 +243,8 @@
     "ID": 293403768,
     "key": "Near Death",
     "original": "Near Death",
-    "translation": "濒死",
-    "stage": 5,
+    "translation": "奄奄一息",
+    "stage": 1,
     "context": "'Near Death'"
   },
   {

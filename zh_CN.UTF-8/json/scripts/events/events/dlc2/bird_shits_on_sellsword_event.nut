@@ -147,7 +147,7 @@
     "ID": 293413628,
     "key": "Someone bring down that plumed transgressor!",
     "original": "Someone bring down that plumed transgressor!",
-    "translation": "有人打倒了那个冒失的家伙！",
+    "translation": "来人，把那个冒失的家伙打下来！",
     "stage": 1,
     "context": "Text = 'Someone bring down that plumed transgressor!'"
   },

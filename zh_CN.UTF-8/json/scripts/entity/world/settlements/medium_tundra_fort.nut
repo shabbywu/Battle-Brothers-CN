@@ -99,7 +99,7 @@
     "ID": 293411586,
     "key": "Gufirsgard",
     "original": "Gufirsgard",
-    "translation": "古菲尔斯加德",
+    "translation": "容留卫",
     "stage": 1,
     "context": "this.getRandomName(['Tonderhovel','Horngard','Grimhaug','Hellehovel','Kalkhovel','Lydersgard','Homsgard','Sommersholm','Brammingholm','Vardegard','Norreholm','Birkehovel','Donnersgard','Tanghaug','Helvikholm','Torvaholm','Skjoldgard','Eidsvikholm','Halshovel','Gerholm','Gunnholm','Asengard','Hammargard','Vikeholm','Skandergard','Skallegard','Varehaug','Gufirsgard','Hafnarsholm','Ragnhaug','Torgeirsholm','Heersgard','Holmhaug','Lundirsholm'])"
   },
