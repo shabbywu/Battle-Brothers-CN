@@ -99,7 +99,7 @@
     "ID": 293410227,
     "key": "With stones abundant everywhere, Slings will never run out of ammunition.",
     "original": "With stones abundant everywhere, Slings will never run out of ammunition.",
-    "translation": "有着无数石头，投石器永远不会用光弹药。",
+    "translation": "石头遍地都是，投石索永远不缺弹药。",
     "stage": 1,
     "context": "'With stones abundant everywhere, Slings will never run out of ammunition.'"
   },
