@@ -139,7 +139,7 @@
     "ID": 293409902,
     "key": "Prepare for the worst!",
     "original": "Prepare for the worst!",
-    "translation": "做好面对最糟糕情况的准备！",
+    "translation": "为最坏的情况做好准备！",
     "stage": 1,
     "context": "Text = 'Prepare for the worst!'"
   },

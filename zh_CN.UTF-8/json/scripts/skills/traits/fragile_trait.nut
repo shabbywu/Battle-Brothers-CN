@@ -3,7 +3,7 @@
     "ID": 293422521,
     "key": "With a physique like an eggshell, this guy is not the natural born brawler.",
     "original": "With a physique like an eggshell, this guy is not the natural born brawler.",
-    "translation": "这家伙的体格像蛋壳一样，天生就不适合打斗。",
+    "translation": "这家伙脆的像蛋壳，天生就不是打架的料。",
     "stage": 1,
     "context": "this.m.Description = 'With a physique like an eggshell, this guy is not the natural born brawler.'"
   },

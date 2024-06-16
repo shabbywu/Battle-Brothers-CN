@@ -1868,8 +1868,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:59.034Z",
         "updatedAt": "2023-06-26T05:46:44.966Z",
-        "modifiedAt": "2024-05-13T02:54:40Z",
-        "sha256": "a8f6e9328e72792f19671cce637886df621d542bd1b6ffa80528fababc1c256e"
+        "modifiedAt": "2024-06-15T15:28:07Z",
+        "sha256": "1edbf8dba35bae712989f9c104375facdadd480a7ef4be0f628d6cae0af1b17c"
     },
     "scripts/contracts/contracts/free_greenskin_prisoners_contract.json": {
         "id": 918450,
@@ -2300,8 +2300,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:10.947Z",
         "updatedAt": "2023-06-26T05:46:52.534Z",
-        "modifiedAt": "2024-06-08T02:16:04Z",
-        "sha256": "4d1e8304f467167fa0f97f16aa102db0fe69cedc270e18c1e9c443968e69089c"
+        "modifiedAt": "2024-06-15T13:26:18Z",
+        "sha256": "ad0472679b0308964ddf6f049e9e5f656390ecdc7e28e1f1b209a44022fb0646"
     },
     "scripts/contracts/contracts/siege_fortification_contract.json": {
         "id": 918474,
@@ -2462,8 +2462,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:14.425Z",
         "updatedAt": "2023-06-26T05:46:54.184Z",
-        "modifiedAt": "2024-05-10T04:26:37Z",
-        "sha256": "5b592de8fdff4238e363013881a325b270384538e9de04e4f8d8e5d8268a72ae"
+        "modifiedAt": "2024-06-15T09:42:07Z",
+        "sha256": "e7b0fe466368eb4fb526778f99b6fd5eaef956adedef73ef1e248f2d96063ae4"
     },
     "scripts/entity/tactical/actor.json": {
         "id": 918483,
@@ -38300,8 +38300,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:43.934Z",
         "updatedAt": "2023-06-26T05:49:48.596Z",
-        "modifiedAt": "2024-04-17T02:38:24Z",
-        "sha256": "7778fe406019e7681793d2bbd070b7d60bd643a44a83454f6aa4dae87db386d5"
+        "modifiedAt": "2024-06-15T09:33:01Z",
+        "sha256": "1c1c53e591651dbd8d577ebb1584bb31fabcc5f9eb0e8dcd1f9da24d2a3b3d89"
     },
     "scripts/skills/traits/glorious_endurance_trait.json": {
         "id": 920474,
