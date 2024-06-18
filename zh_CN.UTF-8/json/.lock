@@ -1220,8 +1220,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.288Z",
         "updatedAt": "2023-06-26T05:46:29.6Z",
-        "modifiedAt": "2024-06-11T08:19:41Z",
-        "sha256": "3a6d8a5002aa53d6dfe0ede0c23e30ef39419b974e6553e4076833ec6c75998c"
+        "modifiedAt": "2024-06-17T05:13:13Z",
+        "sha256": "2d92a695351f6bf0f6160296a819f9fee0f883bc9465314528ae9e05afc2b4f0"
     },
     "scripts/config/credits.json": {
         "id": 918414,

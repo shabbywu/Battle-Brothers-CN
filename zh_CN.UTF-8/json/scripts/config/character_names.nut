@@ -1099,7 +1099,7 @@
     "ID": 293403915,
     "key": "Hylle",
     "original": "Hylle",
-    "translation": "海勒",
+    "translation": "许勒",
     "stage": 1,
     "context": "'Hylle'"
   },
@@ -1411,7 +1411,7 @@
     "ID": 293403954,
     "key": "Harald",
     "original": "Harald",
-    "translation": "哈拉德",
+    "translation": "哈拉尔德",
     "stage": 1,
     "context": "'Harald'"
   },
@@ -2243,7 +2243,7 @@
     "ID": 293404058,
     "key": "Brand",
     "original": "Brand",
-    "translation": "布朗德",
+    "translation": "布兰德",
     "stage": 1,
     "context": "'Brand'"
   },
@@ -2795,7 +2795,7 @@
     "ID": 293404127,
     "key": "Grimner",
     "original": "Grimner",
-    "translation": "格林纳",
+    "translation": "格里姆内",
     "stage": 1,
     "context": "'Grimner'"
   },
@@ -3323,7 +3323,7 @@
     "ID": 293404193,
     "key": "Hilmar",
     "original": "Hilmar",
-    "translation": "哈尔玛",
+    "translation": "希尔马",
     "stage": 1,
     "context": "'Hilmar'"
   },
@@ -3539,7 +3539,7 @@
     "ID": 293404220,
     "key": "Sir Hilmar",
     "original": "Sir Hilmar",
-    "translation": "希尔玛爵士",
+    "translation": "希尔马爵士",
     "stage": 1,
     "context": "'Sir Hilmar'"
   },
@@ -3547,7 +3547,7 @@
     "ID": 293404221,
     "key": "Joltul",
     "original": "Joltul",
-    "translation": "乔特尔",
+    "translation": "约尔图尔",
     "stage": 1,
     "context": "'Joltul'"
   },
@@ -4403,7 +4403,7 @@
     "ID": 293404328,
     "key": "Jormal",
     "original": "Jormal",
-    "translation": "乔马尔",
+    "translation": "约尔马",
     "stage": 1,
     "context": "'Jormal'"
   },
@@ -5219,7 +5219,7 @@
     "ID": 293404430,
     "key": "Skallag",
     "original": "Skallag",
-    "translation": "斯卡拉",
+    "translation": "斯卡德拉格",
     "stage": 1,
     "context": "'Skallag'"
   },
@@ -5747,7 +5747,7 @@
     "ID": 293404496,
     "key": "Iyrd",
     "original": "Iyrd",
-    "translation": "伊里德",
+    "translation": "伊德",
     "stage": 1,
     "context": "'Iyrd'"
   },
@@ -6203,7 +6203,7 @@
     "ID": 293404553,
     "key": "Huggur",
     "original": "Huggur",
-    "translation": "哈格",
+    "translation": "胡格尔",
     "stage": 1,
     "context": "'Huggur'"
   },
@@ -7227,7 +7227,7 @@
     "ID": 293404681,
     "key": "Siegward",
     "original": "Siegward",
-    "translation": "齐格瓦德",
+    "translation": "西格瓦尔德",
     "stage": 1,
     "context": "'Siegward'"
   },
@@ -7411,7 +7411,7 @@
     "ID": 293404704,
     "key": "Guder",
     "original": "Guder",
-    "translation": "古德尔",
+    "translation": "格鲁德",
     "stage": 1,
     "context": "'Guder'"
   },
