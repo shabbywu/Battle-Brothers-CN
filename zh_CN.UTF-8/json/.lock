@@ -5174,14 +5174,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:14.179Z",
         "updatedAt": "2023-06-26T05:47:10.931Z",
-        "modifiedAt": "2023-06-26T05:47:11Z",
-        "sha256": "05940063cbf2842fdad0f00ee9d4e71dbd624427027ec10e008826f10c6c6d54"
+        "modifiedAt": "2024-06-19T12:15:58Z",
+        "sha256": "0f28992c86ca5d76516a1bc214e9fd063caaeffa368fd4a6105c6c764d4b701a"
     },
     "scripts/entity/world/locations/barbarian_camp_location.json": {
         "id": 918634,
@@ -5336,14 +5336,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:18.352Z",
         "updatedAt": "2023-06-26T05:47:11.83Z",
-        "modifiedAt": "2023-06-26T05:47:12Z",
-        "sha256": "e777828c7c84a358adadece37e61499c3f10038497d0282c75a8e40ada910065"
+        "modifiedAt": "2024-06-19T12:15:58Z",
+        "sha256": "b603cbbdb00ce86c8964b2d27852762382ca7d0ed0de86d49f4a5ba6f54c9a1e"
     },
     "scripts/entity/world/locations/goblin_settlement_location.json": {
         "id": 918643,
@@ -5624,14 +5624,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:23.745Z",
         "updatedAt": "2023-06-26T05:47:13.736Z",
-        "modifiedAt": "2023-06-26T05:47:14Z",
-        "sha256": "118c848e3aeecd286eec212041db960ba62208b865b83c5594c1c2b31a8defe5"
+        "modifiedAt": "2024-06-19T12:18:17Z",
+        "sha256": "a1c32a6217c705f7336636fcdaa7382fc05fdcedf43f80001b82d74687832abc"
     },
     "scripts/entity/world/locations/legendary/waterwheel_location.json": {
         "id": 918659,
@@ -5840,14 +5840,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:28.236Z",
         "updatedAt": "2023-06-26T05:47:14.827Z",
-        "modifiedAt": "2023-06-26T05:47:15Z",
-        "sha256": "76dcd72e47656c8f8aa11e6bf7ac957918379ce1b4eaace8139db0cd74fc67c9"
+        "modifiedAt": "2024-06-19T12:15:58Z",
+        "sha256": "701892f6b4a21befaef6f0196b7e62ea2ea63ccb9773079a619102b4722ac25d"
     },
     "scripts/entity/world/locations/orc_settlement_location.json": {
         "id": 918671,
@@ -6020,14 +6020,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:35.521Z",
         "updatedAt": "2023-06-26T05:47:15.648Z",
-        "modifiedAt": "2023-06-26T05:47:16Z",
-        "sha256": "ff0240d4d09250ac63d781bb1b6590ff696708e216fb667eb217cb2aa0b44163"
+        "modifiedAt": "2024-06-19T12:15:58Z",
+        "sha256": "b14167e948688976f800ecc4e983851f75cefb9d0d9f2fc8189b3e9584bc4ace"
     },
     "scripts/entity/world/locations/undead_vampire_coven_location.json": {
         "id": 918681,
@@ -8636,8 +8636,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:30.23Z",
         "updatedAt": "2023-06-26T05:47:33.879Z",
-        "modifiedAt": "2023-06-26T05:47:34Z",
-        "sha256": "3b8b2bad3e0d62317d42ad73729048fb11c4a28ee7ebbcb722d098a1a5f7be87"
+        "modifiedAt": "2024-06-19T13:32:44Z",
+        "sha256": "9fade697f38744f0f8b424053f40232ea0dff1f00f15938074c325a225ccd5de"
     },
     "scripts/events/events/creepy_guy_event.json": {
         "id": 918826,
