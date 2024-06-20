@@ -11,8 +11,8 @@
     "ID": 293410603,
     "key": "A once proud fortress now lying in ruins.",
     "original": "A once proud fortress now lying in ruins.",
-    "translation": "曾经骄傲的要塞如今已成废墟。",
-    "stage": 5,
+    "translation": "昔日傲立的要塞如今已成废墟。",
+    "stage": 1,
     "context": "return 'A once proud fortress now lying in ruins.';"
   }
 ]

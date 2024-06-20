@@ -123,7 +123,7 @@
     "ID": 293412961,
     "key": "Humiliated himself in front of the company",
     "original": "Humiliated himself in front of the company",
-    "translation": "在战团面前羞辱了自己",
+    "translation": "当着整个战团出了洋相",
     "stage": 1,
     "context": "_event.m.Other.worsenMood(0.5, 'Humiliated himself in front of the company')"
   },
