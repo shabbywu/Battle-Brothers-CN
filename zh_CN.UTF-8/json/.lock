@@ -1274,8 +1274,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:42.523Z",
         "updatedAt": "2023-06-26T05:46:30.811Z",
-        "modifiedAt": "2024-06-11T07:32:50Z",
-        "sha256": "abeab32773fb2d1112c5fcb9c460ac23e4f79331c3736858391475c2cda62f51"
+        "modifiedAt": "2024-06-21T02:03:28Z",
+        "sha256": "76235754ace976df7dcc90aff974ccebac2e6565bf572dc103b59076dc7a7da3"
     },
     "scripts/config/items.json": {
         "id": 918417,
@@ -1382,8 +1382,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:45.456Z",
         "updatedAt": "2023-06-26T05:46:36.003Z",
-        "modifiedAt": "2024-06-09T05:01:06Z",
-        "sha256": "5cda76f66ef1228c4bb21d285b6e4edfab3488d4fa2de5ba9c0ba7abf0f3d282"
+        "modifiedAt": "2024-06-20T15:01:40Z",
+        "sha256": "787204eb4ac48fb2ea2d245028ed775b1333e7f88a2af9771ff968f5cd50f91b"
     },
     "scripts/config/world.json": {
         "id": 918423,
@@ -1418,8 +1418,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:46.237Z",
         "updatedAt": "2023-06-26T05:46:36.564Z",
-        "modifiedAt": "2024-06-04T07:36:19Z",
-        "sha256": "495dd296b47df6ff2e917be8ad7e1e7a02c6a15f272beb4e890f6e9608b7bb5b"
+        "modifiedAt": "2024-06-21T02:31:48Z",
+        "sha256": "d9a84ce53c2ec9624c2ff87e903b0973df0932e4aa8a29e2b23b4636c045ccbf"
     },
     "scripts/contracts/contract.json": {
         "id": 918425,
@@ -32612,8 +32612,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:14.647Z",
         "updatedAt": "2023-06-26T05:49:24.107Z",
-        "modifiedAt": "2024-01-26T01:02:03Z",
-        "sha256": "9661892e80bb7fd010d7bb37cb03bbc9ec7c7c32704bce0e54d9e98ad04c8508"
+        "modifiedAt": "2024-06-22T11:57:22Z",
+        "sha256": "3ccd316d3f1014cdf1c8b12ce9460c9c660b248239abe787fba0dd551330e8c2"
     },
     "scripts/skills/backgrounds/beast_hunter_background.json": {
         "id": 920158,
@@ -32720,8 +32720,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:21.909Z",
         "updatedAt": "2023-06-26T05:49:24.784Z",
-        "modifiedAt": "2024-03-29T08:08:02Z",
-        "sha256": "3b605afabfcce60bff70980527c2f28d9b6dc41c0d62c69817ee1b0b898827a1"
+        "modifiedAt": "2024-06-22T11:59:12Z",
+        "sha256": "05aa98d0310d42936d8a45a94912bfd90c3bef879399b2574a32f4e4780a3f0d"
     },
     "scripts/skills/backgrounds/butcher_background.json": {
         "id": 920164,

@@ -363,7 +363,7 @@
     "ID": 293407028,
     "key": "Tomb of Tombe",
     "original": "Tomb of Tombe",
-    "translation": "坟墓",
+    "translation": "墓中之墓",
     "stage": 1,
     "context": "'Tomb of Tombe'"
   },
@@ -1971,7 +1971,7 @@
     "ID": 293407229,
     "key": "Golden Sun Hideout",
     "original": "Golden Sun Hideout",
-    "translation": "金日暮藏身处(Golden Sun Hideout)",
+    "translation": "金日藏身处",
     "stage": 1,
     "context": "'Golden Sun Hideout'"
   },
@@ -2339,7 +2339,7 @@
     "ID": 293407275,
     "key": "Undone Fortress",
     "original": "Undone Fortress",
-    "translation": "未能竣工的要塞",
+    "translation": "烂尾要塞",
     "stage": 1,
     "context": "'Undone Fortress'"
   },
@@ -2907,7 +2907,7 @@
     "ID": 293407346,
     "key": "Tomb of %randomname% the {Great | Cruel | Tyrant}",
     "original": "Tomb of %randomname% the {Great | Cruel | Tyrant}",
-    "translation": "{伟大的 | 残暴的 | 霸王·} %randomname% 之墓",
+    "translation": "{大帝 | 厉君 | 暴君}%randomname%之墓",
     "stage": 1,
     "context": "'Tomb of %randomname% the {Great | Cruel | Tyrant}'"
   },
@@ -2947,7 +2947,7 @@
     "ID": 293407351,
     "key": "%randomname%'s Defeat",
     "original": "%randomname%'s Defeat",
-    "translation": "%randomname% 的战败地",
+    "translation": "%randomname%折戟之地",
     "stage": 1,
     "context": "\"%randomname%'s Defeat\""
   },
@@ -4603,7 +4603,7 @@
     "ID": 293407558,
     "key": "Tomb of %randomnoble%",
     "original": "Tomb of %randomnoble%",
-    "translation": "%randomnoble% 的坟墓",
+    "translation": "%randomnoble%之墓",
     "stage": 1,
     "context": "'Tomb of %randomnoble%'"
   },
