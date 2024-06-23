@@ -51,7 +51,7 @@
     "ID": 293404875,
     "key": "Ancient",
     "original": "Ancient",
-    "translation": "古老的",
+    "translation": "远古之",
     "stage": 1,
     "context": "'Ancient'"
   },
@@ -339,7 +339,7 @@
     "ID": 293404911,
     "key": "Perfidious",
     "original": "Perfidious",
-    "translation": "背信弃义的",
+    "translation": "背叛之",
     "stage": 1,
     "context": "'Perfidious'"
   },
@@ -459,7 +459,7 @@
     "ID": 293404926,
     "key": "Time-honored",
     "original": "Time-honored",
-    "translation": "悠久的",
+    "translation": "悠久之",
     "stage": 1,
     "context": "'Time-honored'"
   },
@@ -1043,7 +1043,7 @@
     "ID": 293404999,
     "key": "Well-balanced",
     "original": "Well-balanced",
-    "translation": "均衡的",
+    "translation": "平衡的",
     "stage": 1,
     "context": "'Well-balanced'"
   },
@@ -1051,7 +1051,7 @@
     "ID": 293405000,
     "key": "Jager",
     "original": "Jager",
-    "translation": "贼鸥",
+    "translation": "猎人",
     "stage": 1,
     "context": "'Jager'"
   },
@@ -1171,7 +1171,7 @@
     "ID": 293405015,
     "key": "Heritage",
     "original": "Heritage",
-    "translation": "遗产·",
+    "translation": "孑遗之",
     "stage": 1,
     "context": "'Heritage'"
   },
@@ -1811,7 +1811,7 @@
     "ID": 293405095,
     "key": "Snapper",
     "original": "Snapper",
-    "translation": "鲷鱼",
+    "translation": "咬咬",
     "stage": 1,
     "context": "'Snapper'"
   },
@@ -1835,7 +1835,7 @@
     "ID": 293405098,
     "key": "Biter",
     "original": "Biter",
-    "translation": "咬咬",
+    "translation": "啃啃",
     "stage": 1,
     "context": "'Biter'"
   },
@@ -2099,7 +2099,7 @@
     "ID": 293405131,
     "key": "Jaws",
     "original": "Jaws",
-    "translation": "饭桶",
+    "translation": "凸颌",
     "stage": 1,
     "context": "'Jaws'"
   },
@@ -2963,7 +2963,7 @@
     "ID": 293405239,
     "key": "Gruesome",
     "original": "Gruesome",
-    "translation": "恶心的",
+    "translation": "可怖的",
     "stage": 1,
     "context": "'Gruesome'"
   },
@@ -3819,7 +3819,7 @@
     "ID": 293405346,
     "key": "Backstabbing",
     "original": "Backstabbing",
-    "translation": "背叛的",
+    "translation": "背刺之",
     "stage": 1,
     "context": "'Backstabbing'"
   },
@@ -3875,7 +3875,7 @@
     "ID": 293405353,
     "key": "Stormtail",
     "original": "Stormtail",
-    "translation": "凤尾",
+    "translation": "扇风尾",
     "stage": 1,
     "context": "'Stormtail'"
   },
@@ -4203,7 +4203,7 @@
     "ID": 293405394,
     "key": "Forefather's",
     "original": "Forefather's",
-    "translation": "先祖的",
+    "translation": "先祖之",
     "stage": 1,
     "context": "\"Forefather's\""
   },
@@ -4267,7 +4267,7 @@
     "ID": 293405402,
     "key": "Lasher",
     "original": "Lasher",
-    "translation": "抽打者",
+    "translation": "鞭尾",
     "stage": 1,
     "context": "'Lasher'"
   },

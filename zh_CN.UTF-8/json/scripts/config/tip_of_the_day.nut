@@ -491,7 +491,7 @@
     "ID": 293406918,
     "key": "You don't have to be a hero, you're running a business.",
     "original": "You don't have to be a hero, you're running a business.",
-    "translation": "不必逞英雄，你在做生意。",
+    "translation": "何必逞英雄，你在讨生计。",
     "stage": 1,
     "context": "\"You don't have to be a hero, you're running a business.\""
   },
