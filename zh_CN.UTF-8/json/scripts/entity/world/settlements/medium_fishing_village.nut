@@ -179,7 +179,7 @@
     "ID": 293411241,
     "key": "Wikhavn",
     "original": "Wikhavn",
-    "translation": "维克港",
+    "translation": "维京港",
     "stage": 1,
     "context": "this.getRandomName(['Seedock','Wikhavn','Sandhoom','Sandkai','Holnishovn','Holmwader','Niewekai','Stohlhoven','Strandekai','Kampwader','Birkhaven','Sundkajung','Seehoben','Krakenwader','Blankhoom','Harkendock','Krumwader','Saltkai','Salthaven','Grotenhoom','Lutendock','Kaiwader','Singhoben','Weissenhaven','Tiefenhaven','Wasserkoog','Osterstrande','Steinhaven','Duhnenhaven','Neudeich','Sandehaven'])"
   },

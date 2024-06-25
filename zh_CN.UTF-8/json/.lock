@@ -1526,8 +1526,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:49.621Z",
         "updatedAt": "2023-06-26T05:46:38.097Z",
-        "modifiedAt": "2024-05-10T07:20:29Z",
-        "sha256": "236085a0a530bd90abd8c0073f7f0110f4f686a6e95aaf380942a5cd702bd937"
+        "modifiedAt": "2024-06-24T14:25:59Z",
+        "sha256": "bf6bef4d5c3aaa239541e4bde12b441372d6b0852d56e686f263a30a566f93da"
     },
     "scripts/contracts/contracts/break_greenskin_siege_contract.json": {
         "id": 918431,
@@ -1832,8 +1832,8 @@
         "locked": 1,
         "createdAt": "2023-05-13T14:17:58.212Z",
         "updatedAt": "2023-06-26T05:46:44.164Z",
-        "modifiedAt": "2024-05-13T02:52:11Z",
-        "sha256": "3520e74480aa8f7602f8702e47e4aa3180bd134c0ee9e99dd4b900c4b95b4a0d"
+        "modifiedAt": "2024-06-24T08:12:30Z",
+        "sha256": "f06f40f01ffbfa36d43c2d54770ac26b4f308f2f3f924dca2a485526a2749dcd"
     },
     "scripts/contracts/contracts/escort_envoy_contract.json": {
         "id": 918448,
@@ -6674,8 +6674,8 @@
         "locked": 1,
         "createdAt": "2023-05-13T14:19:48.023Z",
         "updatedAt": "2023-06-26T05:47:20.403Z",
-        "modifiedAt": "2024-04-16T07:15:07Z",
-        "sha256": "9aad7659b9c34c7753db60a27e2486aaee1ca21563e846dd8194ac087edc87b0"
+        "modifiedAt": "2024-06-24T08:13:04Z",
+        "sha256": "7203b895febdfe14d923b625f860884159dd12f911392d279ae23c8bdd87809d"
     },
     "scripts/entity/world/settlements/medium_forest_fort.json": {
         "id": 918717,
@@ -29048,8 +29048,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:40.892Z",
         "updatedAt": "2023-06-26T05:49:10.934Z",
-        "modifiedAt": "2024-04-22T04:44:27Z",
-        "sha256": "8f5179684ca43b6f0ff3f2d7db8648a804c2f45ace3d73b016fc447452ff6e66"
+        "modifiedAt": "2024-06-24T14:34:01Z",
+        "sha256": "b4df9fd2533b14b8f3c5b40247275d1b795369e2a597330d249ffd249d38d582"
     },
     "scripts/retinue/followers/recruiter_follower.json": {
         "id": 919960,

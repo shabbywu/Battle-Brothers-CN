@@ -67,7 +67,7 @@
     "ID": 293407927,
     "key": "{We're not about to chase ghosts around %worldmapregion%. | That's not the kind of work we're looking for. | I won't risk the company against an enemy such as this.}",
     "original": "{We're not about to chase ghosts around %worldmapregion%. | That's not the kind of work we're looking for. | I won't risk the company against an enemy such as this.}",
-    "translation": "{我们不打算追捕幽灵，尤其是在 %worldmapregion%。 | 那不是我们要找的工作。 | 我不会让战团冒险对付这样的敌人。}",
+    "translation": "{我们可不想跑到%worldmapregion%去玩捉迷藏。 | 那不是我们要找的工作。 | 我不会让战团冒险对付这样的敌人。}",
     "stage": 1,
     "context": "Text = \"{We're not about to chase ghosts around %worldmapregion%. | That's not the kind of work we're looking for. | I won't risk the company against an enemy such as this.}\""
   },
@@ -99,7 +99,7 @@
     "ID": 293407931,
     "key": "{That's too much walking for my taste. | We're not about to chase ghosts around %worldmapregion%. | That's not the kind of work we're looking for.}",
     "original": "{That's too much walking for my taste. | We're not about to chase ghosts around %worldmapregion%. | That's not the kind of work we're looking for.}",
-    "translation": "{这并不值得我去跑腿。 | 我们不打算追捕幽灵，尤其是在 %worldmapregion%。 | 那不是我们要找的工作。}",
+    "translation": "{长途跋涉并不合我口味。 | 我们可不想跑到%worldmapregion%去玩捉迷藏。 | 那不是我们要找的工作。}",
     "stage": 1,
     "context": "Text = \"{That's too much walking for my taste. | We're not about to chase ghosts around %worldmapregion%. | That's not the kind of work we're looking for.}\""
   },
