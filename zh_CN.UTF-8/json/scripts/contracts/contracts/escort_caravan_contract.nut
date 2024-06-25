@@ -307,7 +307,7 @@
     "ID": 293408783,
     "key": "Return %noble% safely to %noblesettlement% in the %nobledirection%",
     "original": "Return %noble% safely to %noblesettlement% in the %nobledirection%",
-    "translation": "将%noble%安全地送到%nobledirection%的%noblesettlement%。",
+    "translation": "将%noble%安全护送到%nobledirection%方的%noblesettlement%。",
     "stage": 1,
     "context": "'Return %noble% safely to %noblesettlement% in the %nobledirection%'"
   },

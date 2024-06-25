@@ -11,7 +11,7 @@
     "ID": 293419608,
     "key": "With years of experience from traveling with caravans, the Quartermaster is able to squeeze and rotate any piece of gear, luggage or armor into the perfect spot to use space as efficiently as possible.",
     "original": "With years of experience from traveling with caravans, the Quartermaster is able to squeeze and rotate any piece of gear, luggage or armor into the perfect spot to use space as efficiently as possible.",
-    "translation": "凭借多年的商队旅行经验，军需官能够将任何装备、行李或盔甲挤压和旋转到最佳位置，尽可能有效地利用空间。",
+    "translation": "有了多年的商旅经验，军需官能把装备、行李、盔甲，都塞到最合适的位置，最大限度地利用空间。",
     "stage": 1,
     "context": "this.m.Description = 'With years of experience from traveling with caravans, the Quartermaster is able to squeeze and rotate any piece of gear, luggage or armor into the perfect spot to use space as efficiently as possible.'"
   },
