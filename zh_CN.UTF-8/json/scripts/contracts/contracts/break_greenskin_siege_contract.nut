@@ -227,7 +227,7 @@
     "ID": 293407973,
     "key": "Destroy any greenskins around %objective%",
     "original": "Destroy any greenskins around %objective%",
-    "translation": "消灭%objective%附近的所有绿皮",
+    "translation": "消灭%objective%周边的所有绿皮",
     "stage": 1,
     "context": "'Destroy any greenskins around %objective%'"
   },

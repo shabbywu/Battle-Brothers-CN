@@ -195,8 +195,8 @@
     "ID": 293408602,
     "key": "Find %location% %distance% to the %direction% and somewhere around the region of %region%",
     "original": "Find %location% %distance% to the %direction% and somewhere around the region of %region%",
-    "translation": "找到位于%direction%边%distance%处的%location%，大约在%region%区域附近。",
-    "stage": 5,
+    "translation": "寻找位于%direction%边%distance%处的%location%，该地在%region%附近。",
+    "stage": 1,
     "context": "'Find %location% %distance% to the %direction% and somewhere around the region of %region%'"
   },
   {

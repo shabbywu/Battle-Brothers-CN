@@ -291,7 +291,7 @@
     "ID": 293409471,
     "key": "Kill marauding greenskins around %origin%",
     "original": "Kill marauding greenskins around %origin%",
-    "translation": "杀死劫掠的绿皮，大约在 %origin%",
+    "translation": "杀死%origin%周边烧杀抢掠的绿皮",
     "stage": 1,
     "context": "'Kill marauding greenskins around %origin%'"
   },

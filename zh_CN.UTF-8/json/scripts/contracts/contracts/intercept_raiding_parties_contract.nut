@@ -211,7 +211,7 @@
     "ID": 293409332,
     "key": "Intercept all southern raiding parties around %objective%",
     "original": "Intercept all southern raiding parties around %objective%",
-    "translation": "拦截所有的南方掠夺队，大约在 %objective%",
+    "translation": "阻止所有%objective%附近的南方掠夺队",
     "stage": 1,
     "context": "'Intercept all southern raiding parties around %objective%'"
   },
