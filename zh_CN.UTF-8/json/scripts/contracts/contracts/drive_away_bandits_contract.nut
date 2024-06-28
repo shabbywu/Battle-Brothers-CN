@@ -227,8 +227,8 @@
     "ID": 293408653,
     "key": "Drive Off Brigands",
     "original": "Drive Off Brigands",
-    "translation": "击退强盗",
-    "stage": 5,
+    "translation": "驱逐强盗",
+    "stage": 1,
     "context": "this.m.Name = 'Drive Off Brigands'"
   },
   {

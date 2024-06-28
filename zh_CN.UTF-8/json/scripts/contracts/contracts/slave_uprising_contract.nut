@@ -195,7 +195,7 @@
     "ID": 293410032,
     "key": "Hunt down the indebted that are now resorting to banditry around %townname%",
     "original": "Hunt down the indebted that are now resorting to banditry around %townname%",
-    "translation": "猎杀那些现在进行土匪行为的负债者，大约在%townname%",
+    "translation": "猎杀%townname%周边落草为寇的负债者",
     "stage": 1,
     "context": "'Hunt down the indebted that are now resorting to banditry around %townname%'"
   },

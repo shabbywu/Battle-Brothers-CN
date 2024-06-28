@@ -1544,8 +1544,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:50.013Z",
         "updatedAt": "2023-06-26T05:46:38.606Z",
-        "modifiedAt": "2024-05-31T09:02:01Z",
-        "sha256": "90f120f87b7674c21568b0fc5664f1ef12d93531c3d7d3a34d76e9351f6ff69a"
+        "modifiedAt": "2024-06-27T11:25:19Z",
+        "sha256": "275417b37c521477e5f77002ff9fd449b97974b1dbeedfc8203bad7406a0faf8"
     },
     "scripts/contracts/contracts/confront_warlord_contract.json": {
         "id": 918432,
@@ -1754,14 +1754,14 @@
         "total": 44,
         "translated": 44,
         "disputed": 0,
-        "checked": 39,
-        "reviewed": 39,
+        "checked": 38,
+        "reviewed": 38,
         "hidden": 0,
         "locked": 1,
         "createdAt": "2023-05-13T14:17:56.58Z",
         "updatedAt": "2023-06-26T05:46:42.844Z",
-        "modifiedAt": "2024-05-15T08:35:46Z",
-        "sha256": "3f52f06bb3cc9244e6ac1c600efbb393e96a2ceb14b3648115cf489ebabeb85d"
+        "modifiedAt": "2024-06-27T11:27:16Z",
+        "sha256": "d12c5edc375432f0932a7f0692edc99c92d05b8d79bc70ffea58a6127fd62330"
     },
     "scripts/contracts/contracts/drive_away_bandits_contract.json": {
         "id": 918444,
@@ -1772,14 +1772,14 @@
         "total": 43,
         "translated": 43,
         "disputed": 0,
-        "checked": 10,
-        "reviewed": 10,
+        "checked": 9,
+        "reviewed": 9,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:56.969Z",
         "updatedAt": "2023-06-26T05:46:43.117Z",
-        "modifiedAt": "2024-05-13T02:51:43Z",
-        "sha256": "0eb329b568494c7c0abab45d493b357a83453a91e4a21be264b6c06954b9b5cb"
+        "modifiedAt": "2024-06-27T12:00:22Z",
+        "sha256": "259e1b92e58f6e29028f93621ebe2be4084bcd7b903d2b3454a3f6fb643e40c1"
     },
     "scripts/contracts/contracts/drive_away_barbarians_contract.json": {
         "id": 918445,
@@ -2066,8 +2066,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:03.44Z",
         "updatedAt": "2023-06-26T05:46:47.942Z",
-        "modifiedAt": "2024-05-13T02:51:43Z",
-        "sha256": "4b0f4ca645b12f0592f7b39d3ac77a98f93d96ded8518f66e1334c38d3768b60"
+        "modifiedAt": "2024-06-27T11:23:54Z",
+        "sha256": "bb35f42b3eb8acf22e405376d446cc61b942119a86a1696f94d8a2c32e5e87f4"
     },
     "scripts/contracts/contracts/investigate_cemetery_contract.json": {
         "id": 918461,
@@ -2120,8 +2120,8 @@
         "locked": 1,
         "createdAt": "2023-05-13T14:18:05.239Z",
         "updatedAt": "2023-06-26T05:46:49.129Z",
-        "modifiedAt": "2024-06-08T02:14:39Z",
-        "sha256": "1ee8e904f01faad0ec1feac9c67118574676c5c411dfcb9712fb01d4920dfce9"
+        "modifiedAt": "2024-06-27T11:23:28Z",
+        "sha256": "1ce5ac9d0fe395e0053478dabd5a2dc2cb4024ad64a167ffed2dce735b62032e"
     },
     "scripts/contracts/contracts/obtain_item_contract.json": {
         "id": 918464,
@@ -2336,8 +2336,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:11.915Z",
         "updatedAt": "2023-06-26T05:46:53.124Z",
-        "modifiedAt": "2024-05-13T02:52:22Z",
-        "sha256": "fd94e925925ca3fbcbe6c1b6b7c53f4ae98335142bbfff1925ddcfb3996c960d"
+        "modifiedAt": "2024-06-27T11:24:34Z",
+        "sha256": "6e7718a4fbe01a92f70bd0515d3442564be497eb4dd2af79e8632fef5c2c2e7c"
     },
     "scripts/contracts/contracts/tutorial_contract.json": {
         "id": 918476,
