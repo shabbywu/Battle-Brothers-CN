@@ -27,7 +27,7 @@
     "ID": 293403464,
     "key": "Have a character in your roster with a three stars talent at three different attributes. Travel the land and seek the best of the best. Consider hiring the 'Recruiter' for your retinue of non-combat followers.",
     "original": "Have a character in your roster with a three stars talent at three different attributes. Travel the land and seek the best of the best. Consider hiring the 'Recruiter' for your retinue of non-combat followers.",
-    "translation": "在你的花名册中有一个拥有三个不同属性的三星天赋的角色。 走遍天下，寻找精英中的精英。 考虑雇佣非战斗追随者的“招募者”。",
+    "translation": "在你的花名册中有一个拥有三个不同属性的三星天赋的角色。 走遍天下，寻找精英中的精英。 考虑雇佣非战斗追随者的“征募员”。",
     "stage": 1,
     "context": "this.m.TooltipText = \"Have a character in your roster with a three stars talent at three different attributes. Travel the land and seek the best of the best. Consider hiring the 'Recruiter' for your retinue of non-combat followers.\""
   },
