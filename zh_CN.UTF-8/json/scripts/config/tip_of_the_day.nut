@@ -707,7 +707,7 @@
     "ID": 293406945,
     "key": "The higher their level, the more your men will demand in wages.",
     "original": "The higher their level, the more your men will demand in wages.",
-    "translation": "级别越高的人，工资需求就越高。",
+    "translation": "人物级别越高，工资需求越高。",
     "stage": 1,
     "context": "'The higher their level, the more your men will demand in wages.'"
   },

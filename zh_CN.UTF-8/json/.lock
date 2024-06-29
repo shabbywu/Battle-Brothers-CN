@@ -536,8 +536,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:26.986Z",
         "updatedAt": "2023-06-26T05:46:25.549Z",
-        "modifiedAt": "2024-05-09T01:04:05Z",
-        "sha256": "5d56cb7fe1dca413d4fa7ad9266d9b8d0bc8c9c92a70098f2725bea1e8501677"
+        "modifiedAt": "2024-06-28T13:28:11Z",
+        "sha256": "8c366623823c5c0b3c26083fcaa0eee22c3d325075a9126058f3eda670998e96"
     },
     "scripts/ambitions/ambitions/have_y_crowns_ambition.json": {
         "id": 918376,
@@ -1382,8 +1382,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:45.456Z",
         "updatedAt": "2023-06-26T05:46:36.003Z",
-        "modifiedAt": "2024-06-20T15:01:40Z",
-        "sha256": "787204eb4ac48fb2ea2d245028ed775b1333e7f88a2af9771ff968f5cd50f91b"
+        "modifiedAt": "2024-06-28T11:42:56Z",
+        "sha256": "4c2be2f84560533b73996edbfa8152ef03a8e3b3370a5b4dae57442133dbec02"
     },
     "scripts/config/world.json": {
         "id": 918423,
@@ -29066,8 +29066,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:41.671Z",
         "updatedAt": "2023-06-26T05:49:11.029Z",
-        "modifiedAt": "2024-03-19T01:16:57Z",
-        "sha256": "4b2f2ecad5f8691546938fd905bdceba7b7f3952ca505bc98965eac852a59ba7"
+        "modifiedAt": "2024-06-28T13:28:05Z",
+        "sha256": "590423e5787a48b24feee92846146845a56bb55fcbbf6faf4025f69466ef1837"
     },
     "scripts/retinue/followers/scavenger_follower.json": {
         "id": 919961,
@@ -33512,8 +33512,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:44.846Z",
         "updatedAt": "2023-06-26T05:49:28.161Z",
-        "modifiedAt": "2024-03-05T02:19:28Z",
-        "sha256": "b068124f44b17e1bb8fc646969f10552a43ce84dd5604ad288968a98267048f1"
+        "modifiedAt": "2024-06-28T13:28:02Z",
+        "sha256": "fe162071d503578bcf12857c38a73f1c0774ecad99f22ccb9797c5e5e8e1b462"
     },
     "scripts/skills/backgrounds/miner_background.json": {
         "id": 920208,

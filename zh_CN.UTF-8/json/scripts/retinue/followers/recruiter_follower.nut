@@ -3,7 +3,7 @@
     "ID": 293419613,
     "key": "The Recruiter is a sleazy jawsmith that tricks desperate people into joining a mercenary company to escape their poor lives, only to find their demise. Quite useful for anyone running a mercenary company.",
     "original": "The Recruiter is a sleazy jawsmith that tricks desperate people into joining a mercenary company to escape their poor lives, only to find their demise. Quite useful for anyone running a mercenary company.",
-    "translation": "招募者是个花言巧语的大忽悠，他会向那些绝望的人许诺，当上雇佣兵就能脱离贫困生活，从而把他们骗进佣兵团，但通常等待他们的只有死亡。经营佣兵团的人用得上他。",
+    "translation": "征募员是个花言巧语的大忽悠，他会向那些绝望的人许诺，当上雇佣兵就能脱离贫困生活，从而把他们骗进佣兵团，但通常等待他们的只有死亡。经营佣兵团的人用得上他。",
     "stage": 1,
     "context": "this.m.Description = 'The Recruiter is a sleazy jawsmith that tricks desperate people into joining a mercenary company to escape their poor lives, only to find their demise. Quite useful for anyone running a mercenary company.'"
   },
@@ -19,7 +19,7 @@
     "ID": 293419615,
     "key": "The Recruiter",
     "original": "The Recruiter",
-    "translation": "招募者",
+    "translation": "征募员",
     "stage": 1,
     "context": "this.m.Name = 'The Recruiter'"
   },
