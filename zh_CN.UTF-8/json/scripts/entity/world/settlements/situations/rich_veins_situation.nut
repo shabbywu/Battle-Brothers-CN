@@ -11,7 +11,7 @@
     "ID": 293411853,
     "key": "Rich Veins",
     "original": "Rich Veins",
-    "translation": "丰富的矿脉",
+    "translation": "富集矿脉",
     "stage": 1,
     "context": "this.m.Name = 'Rich Veins'"
   },
@@ -51,7 +51,7 @@
     "ID": 293411858,
     "key": "Some lucky miner struck a particularly rich vein! Extraction of minerals and metals will be greatly increased until it is exhausted, but the settlement also experiences an inflation of prices.",
     "original": "Some lucky miner struck a particularly rich vein! Extraction of minerals and metals will be greatly increased until it is exhausted, but the settlement also experiences an inflation of prices.",
-    "translation": "一些幸运的矿工找到了一条特别丰富的矿脉！矿产和金属的开采量将大大增加，直到耗尽，但定居点的物价也上涨了。",
+    "translation": "某些幸运的矿工找到了一条储量尤其丰富的矿脉！在开采殆尽前，矿产和金属的产量将大幅增加，但定居点的物价也因此而上涨。",
     "stage": 1,
     "context": "this.m.Description = 'Some lucky miner struck a particularly rich vein! Extraction of minerals and metals will be greatly increased until it is exhausted, but the settlement also experiences an inflation of prices.'"
   }

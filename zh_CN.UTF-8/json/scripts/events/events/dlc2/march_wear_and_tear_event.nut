@@ -19,7 +19,7 @@
     "ID": 293413969,
     "key": "[/color] Medical Supplies.",
     "original": "[/color] Medical Supplies.",
-    "translation": "[/color]点医疗用品",
+    "translation": "[/color]医疗用品。",
     "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']-' + amount + '[/color] Medical Supplies.'"
   },

@@ -1827,7 +1827,7 @@
     "ID": 293405864,
     "key": "]10[/color] and [color=",
     "original": "]10[/color] and [color=",
-    "translation": "]10[/color] 和 [color=",
+    "translation": "]10[/color]和[color=",
     "stage": 1,
     "context": "SpecCleaver = 'Master cleavers to inflict gruesome wounds. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nBleeding damage inflicted by cleavers and whips is doubled to [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']20[/color] per turn, respectively.\n\nDisarm only has half the penalty to hit.'"
   },
