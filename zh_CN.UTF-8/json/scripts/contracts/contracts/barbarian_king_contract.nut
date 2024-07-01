@@ -235,7 +235,7 @@
     "ID": 293407903,
     "key": "His warhost was last spotted around %region%, %terrain% %direction% from you, near %nearest_town%",
     "original": "His warhost was last spotted around %region%, %terrain% %direction% from you, near %nearest_town%",
-    "translation": "他的战团最后现身在%region%附近，位于你%direction%边的%terrain%上，靠近%nearest_town%",
+    "translation": "他的战团最后现身在%region%附近，位于你%direction%边的%terrain%，靠近%nearest_town%",
     "stage": 1,
     "context": "'His warhost was last spotted around %region%, %terrain% %direction% from you, near %nearest_town%'"
   },

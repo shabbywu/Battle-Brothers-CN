@@ -19,7 +19,7 @@
     "ID": 293418654,
     "key": "Fear and loathing along the road",
     "original": "Fear and loathing along the road",
-    "translation": "沿途的恐惧和厌恶",
+    "translation": "恐惧和厌恶抛在脑后",
     "stage": 1,
     "context": "_actor.improveMood(10.0, 'Fear and loathing along the road')"
   },

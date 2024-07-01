@@ -27,7 +27,7 @@
     "ID": 293418457,
     "key": "]25%[/color] and [color=",
     "original": "]25%[/color] and [color=",
-    "translation": "]25%[/color] 到 [color=",
+    "translation": "]25%[/color]到[color=",
     "stage": 1,
     "context": "text = 'Take between [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] less damage from piercing attacks, such as those from bows or spears'"
   },

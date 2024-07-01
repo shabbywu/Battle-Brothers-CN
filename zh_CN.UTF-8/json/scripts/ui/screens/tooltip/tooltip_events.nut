@@ -1819,7 +1819,7 @@
     "ID": 293423180,
     "key": "[/color] Medical Supplies.",
     "original": "[/color] Medical Supplies.",
-    "translation": "[/color]点医疗用品",
+    "translation": "[/color]医疗用品。",
     "stage": 1,
     "context": "desc = desc + heal.MedicineMax + '[/color] Medical Supplies.'"
   },
@@ -1995,7 +1995,7 @@
     "ID": 293423202,
     "key": "[/color] and ",
     "original": "[/color] and ",
-    "translation": "[/color] 和 ",
+    "translation": "[/color]到",
     "stage": 1,
     "context": "desc = desc + heal.MedicineMin + '[/color] and '"
   },
@@ -3051,7 +3051,7 @@
     "ID": 293423334,
     "key": "[/color] and [color=",
     "original": "[/color] and [color=",
-    "translation": "[/color] 和 [color=",
+    "translation": "[/color]到[color=",
     "stage": 1,
     "context": "desc = desc + '\n\nHealing up all your men will take between [color=' + this.Const.UI.Color.PositiveValue + ']' + heal.DaysMin + '[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']' + heal.DaysMax + '[/color] days and requires between '"
   },

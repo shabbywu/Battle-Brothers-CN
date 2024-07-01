@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-06-12T11:48:51Z",
-        "sha256": "a15dc3280b06df6e31f398319f506ac8be5ab8a0525a8b6e1b7281e1c6323600"
+        "modifiedAt": "2024-06-29T03:48:47Z",
+        "sha256": "38060856edec2aea5f7b7e9fa979d0275f5cc2484d743657f9ff974927f05f42"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -1508,8 +1508,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:49.238Z",
         "updatedAt": "2023-06-26T05:46:37.922Z",
-        "modifiedAt": "2024-05-11T01:03:39Z",
-        "sha256": "f48eb48e2e830d7b00552e53f0216b58718b0f63a686871655d6d1782473ecf2"
+        "modifiedAt": "2024-06-29T05:01:59Z",
+        "sha256": "72e0cffc0b7d5e465670fdbd8408f95492b930b22237164b90aa1b0ff0300c9b"
     },
     "scripts/contracts/contracts/big_game_hunt_contract.json": {
         "id": 918430,
@@ -2120,8 +2120,8 @@
         "locked": 1,
         "createdAt": "2023-05-13T14:18:05.239Z",
         "updatedAt": "2023-06-26T05:46:49.129Z",
-        "modifiedAt": "2024-06-27T11:23:28Z",
-        "sha256": "1ce5ac9d0fe395e0053478dabd5a2dc2cb4024ad64a167ffed2dce735b62032e"
+        "modifiedAt": "2024-06-30T14:18:58Z",
+        "sha256": "c6569b2cb0d481d8f831f28022209d0141c8d1c708f921f7a3b22548f802ca40"
     },
     "scripts/contracts/contracts/obtain_item_contract.json": {
         "id": 918464,
@@ -7448,8 +7448,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:03.029Z",
         "updatedAt": "2023-06-26T05:47:25.283Z",
-        "modifiedAt": "2023-06-26T05:47:25Z",
-        "sha256": "1d3bb01bb3c735b05fbc4e96772c5302f2bf5fb8471f7c2f074c0de0d728164b"
+        "modifiedAt": "2024-06-29T03:59:35Z",
+        "sha256": "a672eaf0cb7f99cad33828a48c3ce6ef8835052310a7fbfb1d5617c325015645"
     },
     "scripts/entity/world/settlements/situations/safe_roads_situation.json": {
         "id": 918760,
@@ -8366,8 +8366,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:23.932Z",
         "updatedAt": "2023-07-05T12:35:56.202Z",
-        "modifiedAt": "2024-05-13T02:57:44Z",
-        "sha256": "aeab9581b6d392205b5da3875a72a955bfffdeb6753176373e6000a34f6c77b7"
+        "modifiedAt": "2024-06-29T03:46:39Z",
+        "sha256": "6238a56e7c901f3ae1ba61b253b62499ebbb2a19534cd4bc274e9591d05635b8"
     },
     "scripts/events/events/broken_wagon_event.json": {
         "id": 918811,
@@ -10292,8 +10292,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:06.784Z",
         "updatedAt": "2023-06-26T05:47:42.959Z",
-        "modifiedAt": "2024-05-13T02:57:44Z",
-        "sha256": "234b04361199a7639971e4bbb94ad81252f3cefa2914e6c6160e7560784142eb"
+        "modifiedAt": "2024-06-29T03:46:39Z",
+        "sha256": "4d6b1153b85b59e257bf4de4d95285508a81084f606a872bd1404894eb29e7c1"
     },
     "scripts/events/events/dlc2/miner_fresh_air_event.json": {
         "id": 918918,
@@ -22784,8 +22784,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:57.939Z",
         "updatedAt": "2023-06-26T05:48:48.287Z",
-        "modifiedAt": "2023-06-26T05:48:48Z",
-        "sha256": "f33d3c2ad22c07371d9c78eb4991c6bfd8338b6a3a1ce1cc7f2e3726ee7879ca"
+        "modifiedAt": "2024-06-29T03:48:32Z",
+        "sha256": "3d2bc582f9c07f8d356996f31bc3fdbef49211c40086d23f83acae467170feee"
     },
     "scripts/items/misc/anatomist/hyena_potion_item.json": {
         "id": 919612,
@@ -23360,8 +23360,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:14.872Z",
         "updatedAt": "2023-06-26T05:48:50.304Z",
-        "modifiedAt": "2024-04-18T02:57:57Z",
-        "sha256": "149ada26ea185524fab5c1be6a5b4b4ddc5d255cdfca2a69cac99008c8caa407"
+        "modifiedAt": "2024-06-29T06:25:00Z",
+        "sha256": "b2acf52cf67c216b8ae2a10defeef4a582cb9ec767e404e825ff8269c17ffdb3"
     },
     "scripts/items/misc/heart_of_the_forest_item.json": {
         "id": 919644,
@@ -30308,8 +30308,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:17.809Z",
         "updatedAt": "2023-06-26T05:49:16.029Z",
-        "modifiedAt": "2023-06-26T05:49:16Z",
-        "sha256": "9597300e038bbf457a0c63fc2c555889e8f2c5a7074754db1bc00514742638a1"
+        "modifiedAt": "2024-06-29T05:08:37Z",
+        "sha256": "17ec9c66d7772211eac0c9b2caf51982175cc905f31c452491ff7fb45deac65c"
     },
     "scripts/skills/actives/grow_shield_skill.json": {
         "id": 920030,
@@ -32138,14 +32138,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:29:58.739Z",
         "updatedAt": "2023-06-26T05:49:22.277Z",
-        "modifiedAt": "2023-06-26T05:49:22Z",
-        "sha256": "d932a78448d60a306cbb58920169b4ead81c15f3cafac1830821e13b3818773f"
+        "modifiedAt": "2024-06-29T09:48:24Z",
+        "sha256": "981828fa0195b830236b8b2374ae618a7d4468a2e6c1e33dd287c002c7c76f07"
     },
     "scripts/skills/actives/unleash_wardog.json": {
         "id": 920132,
@@ -34754,8 +34754,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:10.25Z",
         "updatedAt": "2023-06-26T05:49:33.536Z",
-        "modifiedAt": "2024-01-24T01:45:07Z",
-        "sha256": "c355a15a3d4dbc26b61c64cf91617669997eff5833f35f44a646cd0051881ba9"
+        "modifiedAt": "2024-06-29T03:48:32Z",
+        "sha256": "29edaa2be0418bcda4ab93706786f7251fe304b9df4db05e83da24a46e845283"
     },
     "scripts/skills/effects/horrified_effect.json": {
         "id": 920277,
@@ -39344,8 +39344,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:05.329Z",
         "updatedAt": "2023-07-05T12:36:11.027Z",
-        "modifiedAt": "2024-06-07T04:52:41Z",
-        "sha256": "cc98af0fd579882e5921229e905fa8ea2c806721aad7503449234c789f3644cf"
+        "modifiedAt": "2024-06-29T03:47:46Z",
+        "sha256": "312818b4a171419f64fb7a502a0fcac2338d747801153925e70978c7a195aa0c"
     },
     "scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.json": {
         "id": 920532,

@@ -19,8 +19,8 @@
     "ID": 293420676,
     "key": "A well placed thrust attack that is hard to avoid or block.",
     "original": "A well placed thrust attack that is hard to avoid or block.",
-    "translation": "一记难以避免或阻挡的准确刺击。",
-    "stage": 5,
+    "translation": "一记难以躲开或格挡的巧妙刺击。",
+    "stage": 1,
     "context": "this.m.Description = 'A well placed thrust attack that is hard to avoid or block.'"
   },
   {
