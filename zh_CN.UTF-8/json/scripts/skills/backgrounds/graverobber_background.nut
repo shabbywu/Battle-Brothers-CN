@@ -27,7 +27,7 @@
     "ID": 293420998,
     "key": "Graverobbers like %name% aren't exactly the most well liked men in this world, but all you needed from him was to be a great mercenary and he came through in spades. After you left the business, you learned that the graverobber stayed for the long haul. F",
     "original": "Graverobbers like %name% aren't exactly the most well liked men in this world, but all you needed from him was to be a great mercenary and he came through in spades. After you left the business, you learned that the graverobber stayed for the long haul. From what you know, he's now the company's trainer, helping green recruits get up to speed.",
-    "translation": "像%name%这样的盗墓贼并不受欢迎，但你只是想让他当个好佣兵，他也没有辜负你的期望。你离开后得知，这位盗墓贼长期留在了战团里，他现在是战团的培训师，帮助新兵跟上进度。",
+    "translation": "像%name%这样的盗墓贼并不受欢迎，但你只是想让他当个好佣兵，他也没有辜负你的期望。你离开后得知，这位盗墓贼长期留在了战团里，他现在是战团的培训师，发掘新兵的才能。",
     "stage": 1,
     "context": "this.m.GoodEnding = \"Graverobbers like %name% aren't exactly the most well liked men in this world, but all you needed from him was to be a great mercenary and he came through in spades. After you left the business, you learned that the graverobber stayed for the long haul. From what you know, he's now the company's trainer, helping green recruits get up to speed.\""
   },
