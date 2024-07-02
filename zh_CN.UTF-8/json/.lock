@@ -33242,8 +33242,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:38.106Z",
         "updatedAt": "2023-06-26T05:49:27.065Z",
-        "modifiedAt": "2024-03-14T01:30:18Z",
-        "sha256": "ee5b554e27c556c632e7b93516cdae6a07d60d1edc0cba707e9cf85e378950d7"
+        "modifiedAt": "2024-07-01T11:34:30Z",
+        "sha256": "236aecd23648b5e78484a66df106649070c3767138717e830e272ccf97ab570c"
     },
     "scripts/skills/backgrounds/hedge_knight_background.json": {
         "id": 920193,
