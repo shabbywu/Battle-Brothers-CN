@@ -35,7 +35,7 @@
     "ID": 293403310,
     "key": "You'll be awarded a unique item that grants anyone near the wearer additional resolve.",
     "original": "You'll be awarded a unique item that grants anyone near the wearer additional resolve.",
-    "translation": "你将获得一件独特物品，授予佩戴者附近所有人额外决心。",
+    "translation": "你将获得一件独特物品，它能授予执旗者附近所有人额外决心。",
     "stage": 1,
     "context": "this.m.RewardTooltip = \"You'll be awarded a unique item that grants anyone near the wearer additional resolve.\""
   },

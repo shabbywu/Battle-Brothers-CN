@@ -3,7 +3,7 @@
     "ID": 293416044,
     "key": "Managed to tame a wolf",
     "original": "Managed to tame a wolf",
-    "translation": "设法驯服了一只狼",
+    "translation": "设法驯服了一头狼",
     "stage": 1,
     "context": "_event.m.Houndmaster.improveMood(2.0, 'Managed to tame a wolf')"
   },

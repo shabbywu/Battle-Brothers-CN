@@ -11,7 +11,7 @@
     "ID": 293410379,
     "key": "Presumably the last resting place of someone who died long ago.",
     "original": "Presumably the last resting place of someone who died long ago.",
-    "translation": "推测是很久以前死去人的安眠之地。",
+    "translation": "也许是很久前的某人的安眠之地。",
     "stage": 1,
     "context": "return 'Presumably the last resting place of someone who died long ago.';"
   }

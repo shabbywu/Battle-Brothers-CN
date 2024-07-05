@@ -51,8 +51,8 @@
     "ID": 293408751,
     "key": " von ",
     "original": " von ",
-    "translation": "冯·",
-    "stage": 5,
+    "translation": "·冯·",
+    "stage": 1,
     "context": "local name = this.Const.Strings.CharacterNames[this.Math.rand(0, this.Const.Strings.CharacterNames.len() - 1)] + ' von ' + this.World.FactionManager.getFaction(this.m.NobleHouseID).getNameOnly()"
   },
   {

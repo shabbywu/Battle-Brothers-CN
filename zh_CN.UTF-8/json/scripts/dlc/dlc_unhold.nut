@@ -3,15 +3,15 @@
     "ID": 293410188,
     "key": "A Lindwurm is a wingless bipedal dragon resembling a large snake.",
     "original": "A Lindwurm is a wingless bipedal dragon resembling a large snake.",
-    "translation": "林德蠕龙（林德虫）是一种无翼的双足龙，类似于一条巨大的蛇。",
-    "stage": 5,
+    "translation": "林德蠕龙（林德虫）是一种无翼的双足龙，形似一条巨蛇。",
+    "stage": 1,
     "context": "'A Lindwurm is a wingless bipedal dragon resembling a large snake.'"
   },
   {
     "ID": 293410189,
     "key": "A Hexe can curse one of your men to suffer the same wounds as she does.",
     "original": "A Hexe can curse one of your men to suffer the same wounds as she does.",
-    "translation": "一个女巫可以诅咒你的一个士兵，让他遭受和她一样的伤口。",
+    "translation": "女巫可以诅咒你的人，让他受和她一样的伤。",
     "stage": 1,
     "context": "'A Hexe can curse one of your men to suffer the same wounds as she does.'"
   },
@@ -139,7 +139,7 @@
     "ID": 293410205,
     "key": "Unholds can heal wounds quickly, even in combat.",
     "original": "Unholds can heal wounds quickly, even in combat.",
-    "translation": "巨魔可以在战斗中快速愈合伤口。",
+    "translation": "即使是战斗中，巨魔的伤口也可以快速愈合。",
     "stage": 1,
     "context": "'Unholds can heal wounds quickly, even in combat.'"
   },
@@ -211,7 +211,7 @@
     "ID": 293410214,
     "key": "The frozen wasteland of the north is home to a giant beast not seen anywhere else.",
     "original": "The frozen wasteland of the north is home to a giant beast not seen anywhere else.",
-    "translation": "北方的冰原是一种巨兽的家园，其他地方都找不到它的踪影。",
+    "translation": "北方的冰冻废土栖居着一种其他地方见不到的野兽。",
     "stage": 1,
     "context": "'The frozen wasteland of the north is home to a giant beast not seen anywhere else.'"
   }

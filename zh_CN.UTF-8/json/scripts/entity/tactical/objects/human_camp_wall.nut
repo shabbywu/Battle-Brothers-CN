@@ -11,7 +11,7 @@
     "ID": 293410391,
     "key": "A wooden palisade.",
     "original": "A wooden palisade.",
-    "translation": "一个木栅栏。",
+    "translation": "一道木栅栏。",
     "stage": 1,
     "context": "return 'A wooden palisade.';"
   }

@@ -235,7 +235,7 @@
     "ID": 293416109,
     "key": " suffers light wounds",
     "original": " suffers light wounds",
-    "translation": "遭受轻伤",
+    "translation": "受到了轻微伤",
     "stage": 1,
     "context": "text = _event.m.Other.getName() + ' suffers light wounds'"
   },

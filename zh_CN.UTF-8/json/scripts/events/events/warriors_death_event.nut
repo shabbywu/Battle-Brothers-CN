@@ -59,7 +59,7 @@
     "ID": 293417223,
     "key": "Glad to see fallen comrades receive a fine farewell",
     "original": "Glad to see fallen comrades receive a fine farewell",
-    "translation": "很高兴看到倒下的战友们得到了美好的告别",
+    "translation": "高兴倒下的战友得到了体面的告别",
     "stage": 1,
     "context": "bro.improveMood(0.5, 'Glad to see fallen comrades receive a fine farewell')"
   },

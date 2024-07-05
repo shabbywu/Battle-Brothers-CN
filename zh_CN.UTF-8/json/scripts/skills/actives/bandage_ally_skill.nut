@@ -27,8 +27,8 @@
     "ID": 293419803,
     "key": "Save yourself or another character from bleeding to death by applying pressure and provisional bandaging to any such wound. Does not heal hitpoints. Neither the character using this skill nor the patient may be engaged in melee.",
     "original": "Save yourself or another character from bleeding to death by applying pressure and provisional bandaging to any such wound. Does not heal hitpoints. Neither the character using this skill nor the patient may be engaged in melee.",
-    "translation": "通过对任何这样的伤口施加压力和临时包扎，使自己或另一个角色免于失血致死。不治愈生命值。使用该技能的角色和受治者旁均不能有敌人。",
-    "stage": 5,
+    "translation": "通过对伤口施压进行临时包扎，防止自己或其他角色失血而死。无法恢复生命值。使用者和救治对象均不能卷入近战。",
+    "stage": 1,
     "context": "this.m.Description = 'Save yourself or another character from bleeding to death by applying pressure and provisional bandaging to any such wound. Does not heal hitpoints. Neither the character using this skill nor the patient may be engaged in melee.'"
   },
   {

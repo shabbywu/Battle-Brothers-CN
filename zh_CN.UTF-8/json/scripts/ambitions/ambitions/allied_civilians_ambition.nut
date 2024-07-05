@@ -43,7 +43,7 @@
     "ID": 293403294,
     "key": "Increase the relation with a civilian faction of one of the world's villages or towns to 'Friendly' by fulfilling contracts given in the faction's settlement. Failing contracts or betraying their trust will lower your relations. Increasing relations with ",
     "original": "Increase the relation with a civilian faction of one of the world's villages or towns to 'Friendly' by fulfilling contracts given in the faction's settlement. Failing contracts or betraying their trust will lower your relations. Increasing relations with city states takes longer than increasing relations with small villages. Noble houses do not count as civilian factions.",
-    "translation": "通过履行与世界上一个村庄或城镇的平民派系的合同，将其关系提升到“友好”级别。半途而废或背叛他们会降低你们的关系。增加与城邦的关系比增加与小村庄的关系需要更长的时间。贵族家族不算平民派系。",
+    "translation": "通过履行村庄或城镇平民派系的合同，将其关系提升到“友好”级别。半途而废或背叛他们会降低你们的关系。与增进和村庄的关系相比，增进和城邦的关系需要更长的时间。贵族家族不算平民派系。",
     "stage": 1,
     "context": "this.m.TooltipText = \"Increase the relation with a civilian faction of one of the world's villages or towns to 'Friendly' by fulfilling contracts given in the faction's settlement. Failing contracts or betraying their trust will lower your relations. Increasing relations with city states takes longer than increasing relations with small villages. Noble houses do not count as civilian factions.\""
   }

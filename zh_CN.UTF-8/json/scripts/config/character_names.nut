@@ -99,8 +99,8 @@
     "ID": 293403790,
     "key": "the Believer",
     "original": "the Believer",
-    "translation": "信徒(the Believer)",
-    "stage": 5,
+    "translation": "信徒",
+    "stage": 1,
     "context": "'the Believer'"
   },
   {
@@ -531,7 +531,7 @@
     "ID": 293403844,
     "key": "the Tepid",
     "original": "the Tepid",
-    "translation": "温热",
+    "translation": "冷落者",
     "stage": 1,
     "context": "'the Tepid'"
   },
@@ -995,8 +995,8 @@
     "ID": 293403902,
     "key": "The Rock",
     "original": "The Rock",
-    "translation": "岩石(The Rock)",
-    "stage": 5,
+    "translation": "巨石",
+    "stage": 1,
     "context": "'The Rock'"
   },
   {
@@ -1403,7 +1403,7 @@
     "ID": 293403953,
     "key": "the Heartseeker",
     "original": "the Heartseeker",
-    "translation": "·寻心者",
+    "translation": "·猎心者",
     "stage": 1,
     "context": "'the Heartseeker'"
   },
@@ -4395,8 +4395,8 @@
     "ID": 293404327,
     "key": "Theudobald",
     "original": "Theudobald",
-    "translation": "提乌德鲍德",
-    "stage": 5,
+    "translation": "托伊多巴尔德",
+    "stage": 1,
     "context": "'Theudobald'"
   },
   {
@@ -4507,7 +4507,7 @@
     "ID": 293404341,
     "key": "the Underdog",
     "original": "the Underdog",
-    "translation": "·弱者",
+    "translation": "·黑马",
     "stage": 1,
     "context": "'the Underdog'"
   },
@@ -4563,8 +4563,8 @@
     "ID": 293404348,
     "key": "Bricklayer",
     "original": "Bricklayer",
-    "translation": "砌砖匠(Bricklayer)",
-    "stage": 5,
+    "translation": "泥瓦匠",
+    "stage": 1,
     "context": "'Bricklayer'"
   },
   {
@@ -4947,7 +4947,7 @@
     "ID": 293404396,
     "key": "%randomname% Quick Shot",
     "original": "%randomname% Quick Shot",
-    "translation": "速射%randomname%",
+    "translation": "速射手%randomname%",
     "stage": 1,
     "context": "'%randomname% Quick Shot'"
   },
@@ -5763,8 +5763,8 @@
     "ID": 293404498,
     "key": "Tobjoern",
     "original": "Tobjoern",
-    "translation": "托比昂",
-    "stage": 5,
+    "translation": "托比约恩",
+    "stage": 1,
     "context": "'Tobjoern'"
   },
   {
@@ -5827,7 +5827,7 @@
     "ID": 293404506,
     "key": "Black Crow Balthasar",
     "original": "Black Crow Balthasar",
-    "translation": "黑乌鸦巴萨沙尔",
+    "translation": "黑乌鸦巴尔塔扎",
     "stage": 1,
     "context": "'Black Crow Balthasar'"
   },
@@ -6195,7 +6195,7 @@
     "ID": 293404552,
     "key": "the Vessel",
     "original": "the Vessel",
-    "translation": "·酒桶",
+    "translation": "·空壳",
     "stage": 1,
     "context": "'the Vessel'"
   },
@@ -7115,8 +7115,8 @@
     "ID": 293404667,
     "key": "The Snake",
     "original": "The Snake",
-    "translation": "蛇(The Snake)",
-    "stage": 5,
+    "translation": "蛇",
+    "stage": 1,
     "context": "'The Snake'"
   },
   {

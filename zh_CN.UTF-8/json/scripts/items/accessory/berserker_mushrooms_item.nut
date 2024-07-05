@@ -59,8 +59,8 @@
     "ID": 293417437,
     "key": "Strange Mushrooms",
     "original": "Strange Mushrooms",
-    "translation": "奇怪的蘑菇",
-    "stage": 5,
+    "translation": "怪异蘑菇",
+    "stage": 1,
     "context": "this.m.Name = 'Strange Mushrooms'"
   }
 ]

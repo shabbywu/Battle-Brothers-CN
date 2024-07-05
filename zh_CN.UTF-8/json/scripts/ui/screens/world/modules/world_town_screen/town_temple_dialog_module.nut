@@ -3,7 +3,7 @@
     "ID": 293423412,
     "key": "Have your wounded treated and prayed for by priests",
     "original": "Have your wounded treated and prayed for by priests",
-    "translation": "让牧师为你的伤员治疗并祈祷",
+    "translation": "请牧师为你的伤员提供治疗和祝福",
     "stage": 1,
     "context": "SubTitle = 'Have your wounded treated and prayed for by priests'"
   },

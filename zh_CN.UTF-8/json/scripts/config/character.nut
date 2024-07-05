@@ -139,7 +139,7 @@
     "ID": 293403755,
     "key": " is breaking",
     "original": " is breaking",
-    "translation": "的士气崩溃了",
+    "translation": "现在处于崩溃士气",
     "stage": 1,
     "context": "' is breaking'"
   },
@@ -251,7 +251,7 @@
     "ID": 293403769,
     "key": " is wavering",
     "original": " is wavering",
-    "translation": "的士气动摇了",
+    "translation": "现在处于动摇士气",
     "stage": 1,
     "context": "' is wavering'"
   },

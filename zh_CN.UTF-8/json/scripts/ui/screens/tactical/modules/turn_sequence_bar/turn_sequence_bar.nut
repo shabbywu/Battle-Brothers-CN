@@ -27,7 +27,7 @@
     "ID": 293422947,
     "key": "Info: Battle ended after ",
     "original": "Info: Battle ended after ",
-    "translation": "信息: 战斗结束时间为：",
+    "translation": "信息: 战斗历时",
     "stage": 1,
     "context": "this.logDebug('Info: Battle ended after ' + this.m.CurrentRound + ' Round(s).')"
   },
@@ -43,7 +43,7 @@
     "ID": 293422949,
     "key": "Have all your characters skip their turn until the next round starts?",
     "original": "Have all your characters skip their turn until the next round starts?",
-    "translation": "你所有的角色都跳过他们的回合直到下一轮开始？",
+    "translation": "确认让你所有角色跳过回合，直到下轮开始再行动？",
     "stage": 1,
     "context": "this.Tactical.State.showDialogPopup('End Round', 'Have all your characters skip their turn until the next round starts?', function None(){\n    this.m.IsSkippingRound = True;\n    this.m.JSHandle.call('setEndTurnAllButtonVisible', False);\n    foreach( e in this.m.CurrentEntities){\n        if (e.isPlayerControlled()) {\n            e.setSkipTurn(True)\n        }\n    };\n    this.initNextTurn();\n    return;\n}.bindenv(this), null)"
   },
@@ -67,7 +67,7 @@
     "ID": 293422952,
     "key": "]Too much fatigue![/color]",
     "original": "]Too much fatigue![/color]",
-    "translation": "]太疲劳了！[/color]",
+    "translation": "]角色太疲劳了！[/color]",
     "stage": 1,
     "context": "this.Tactical.EventLog.log('[color=' + this.Const.UI.Color.NegativeValue + ']Too much fatigue![/color]')"
   }

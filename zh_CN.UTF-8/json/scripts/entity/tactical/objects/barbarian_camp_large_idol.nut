@@ -11,7 +11,7 @@
     "ID": 293410340,
     "key": "A barbarian idol carved from wood.",
     "original": "A barbarian idol carved from wood.",
-    "translation": "一个蛮族木刻神像。",
+    "translation": "一座蛮族木刻神像。",
     "stage": 1,
     "context": "return 'A barbarian idol carved from wood.';"
   }

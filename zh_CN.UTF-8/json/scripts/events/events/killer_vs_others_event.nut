@@ -11,7 +11,7 @@
     "ID": 293416216,
     "key": " has died",
     "original": " has died",
-    "translation": "是死了",
+    "translation": "死了",
     "stage": 1,
     "context": "text = _event.m.Killer.getName() + ' has died'"
   },
@@ -131,7 +131,7 @@
     "ID": 293416231,
     "key": " suffers light wounds",
     "original": " suffers light wounds",
-    "translation": "遭受轻伤",
+    "translation": "受到了轻微伤",
     "stage": 1,
     "context": "text = _event.m.Killer.getName() + ' suffers light wounds'"
   },

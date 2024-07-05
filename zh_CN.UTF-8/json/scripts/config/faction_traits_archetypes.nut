@@ -195,8 +195,8 @@
     "ID": 293404770,
     "key": "Courage in difficulties",
     "original": "Courage in difficulties",
-    "translation": "勇于面对困难",
-    "stage": 5,
+    "translation": "临艰而勇",
+    "stage": 1,
     "context": "Mottos = ['Reason is the guide of life','Firmly in act and gently in manner','Let us be viewed by our actions','Strive without reproach','The sun rises after clouds','Courage in difficulties','Plenty is caused by dilligence']"
   },
   {

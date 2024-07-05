@@ -3,7 +3,7 @@
     "ID": 293410357,
     "key": "Destroyed Siege Engine",
     "original": "Destroyed Siege Engine",
-    "translation": "工程在围攻中被摧毁",
+    "translation": "被毁的攻城器",
     "stage": 1,
     "context": "return 'Destroyed Siege Engine';"
   },

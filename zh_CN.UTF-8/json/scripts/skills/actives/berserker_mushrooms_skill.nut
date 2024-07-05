@@ -35,8 +35,8 @@
     "ID": 293419824,
     "key": "Eat or Give Strange Mushrooms",
     "original": "Eat or Give Strange Mushrooms",
-    "translation": "吃或者给予奇怪的蘑菇",
-    "stage": 5,
+    "translation": "吃下或给出怪异蘑菇",
+    "stage": 1,
     "context": "this.m.Name = 'Eat or Give Strange Mushrooms'"
   },
   {
@@ -59,16 +59,16 @@
     "ID": 293419827,
     "key": " gives Strange Mushrooms to ",
     "original": " gives Strange Mushrooms to ",
-    "translation": " 把奇怪的蘑菇给",
-    "stage": 5,
+    "translation": " 把怪异蘑菇递给了",
+    "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' gives Strange Mushrooms to ' + this.Const.UI.getColorizedEntityName(user))"
   },
   {
     "ID": 293419828,
     "key": " eats  Strange Mushrooms",
     "original": " eats  Strange Mushrooms",
-    "translation": " 吃了奇怪的蘑菇",
-    "stage": 5,
+    "translation": " 吃了怪异蘑菇",
+    "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(user) + ' eats  Strange Mushrooms')"
   },
   {

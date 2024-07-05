@@ -35,7 +35,7 @@
     "ID": 293403609,
     "key": "You can take up to [color=",
     "original": "You can take up to [color=",
-    "translation": "你可以带上 [color=",
+    "translation": "你至多能带[color=",
     "stage": 1,
     "context": "this.m.OathBoonText = 'You can take up to [color=' + this.Const.UI.Color.PositiveValue + ']14[/color] men into battle.'"
   },
@@ -51,7 +51,7 @@
     "ID": 293403611,
     "key": "]14[/color] men into battle.",
     "original": "]14[/color] men into battle.",
-    "translation": "]14[/color] 人.",
+    "translation": "]14[/color]人加入战斗。",
     "stage": 1,
     "context": "this.m.OathBoonText = 'You can take up to [color=' + this.Const.UI.Color.PositiveValue + ']14[/color] men into battle.'"
   },

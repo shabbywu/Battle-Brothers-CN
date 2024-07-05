@@ -43,8 +43,8 @@
     "ID": 293420227,
     "key": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
     "original": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
-    "translation": "]-15%[/color] 攻击近身敌人的命中惩罚，因为武器过于笨重",
-    "stage": 5,
+    "translation": "]-15%[/color] 施展不便命中惩罚（对近身敌人）",
+    "stage": 1,
     "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {

@@ -19,7 +19,7 @@
     "ID": 293422916,
     "key": " get reparations for his time",
     "original": " get reparations for his time",
-    "translation": "得到了为他花费时间的赔偿",
+    "translation": "根据他在战团里的时间获得了补偿而高兴",
     "stage": 1,
     "context": "other.improveMood(this.Const.MoodChange.SlaveCompensated, 'Glad to see ' + bro.getName() + ' get reparations for his time')"
   },
@@ -51,7 +51,7 @@
     "ID": 293422920,
     "key": "Glad to see ",
     "original": "Glad to see ",
-    "translation": "高兴见到你",
+    "translation": "看到",
     "stage": 1,
     "context": "other.improveMood(this.Const.MoodChange.SlaveCompensated, 'Glad to see ' + bro.getName() + ' get reparations for his time')"
   },
@@ -227,7 +227,7 @@
     "ID": 293422942,
     "key": "Dismissed ",
     "original": "Dismissed ",
-    "translation": "解雇",
+    "translation": "你解雇了",
     "stage": 1,
     "context": "other.worsenMood(this.Const.MoodChange.BrotherDismissed, 'Dismissed ' + bro.getName())"
   }

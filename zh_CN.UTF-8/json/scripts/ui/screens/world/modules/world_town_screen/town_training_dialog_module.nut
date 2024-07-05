@@ -27,8 +27,8 @@
     "ID": 293423417,
     "key": "Have your men train for combat and learn from veterans",
     "original": "Have your men train for combat and learn from veterans",
-    "translation": "让您的士兵接受战斗训练并向老兵学习",
-    "stage": 5,
+    "translation": "让你的人接受战斗训练，学习老兵经验",
+    "stage": 1,
     "context": "SubTitle = 'Have your men train for combat and learn from veterans'"
   },
   {

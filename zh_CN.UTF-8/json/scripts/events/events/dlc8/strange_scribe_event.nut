@@ -163,7 +163,7 @@
     "ID": 293415659,
     "key": "Get it together, %anatomist%.",
     "original": "Get it together, %anatomist%.",
-    "translation": "振作起来，解剖师[%anatomist%]。",
+    "translation": "%anatomist%，振作起来。",
     "stage": 1,
     "context": "Text = 'Get it together, %anatomist%.'"
   },
