@@ -11,8 +11,8 @@
     "ID": 293419389,
     "key": "Qatal Dagger",
     "original": "Qatal Dagger",
-    "translation": "致命匕首",
-    "stage": 5,
+    "translation": "刺杀匕首",
+    "stage": 1,
     "context": "this.m.Name = 'Qatal Dagger'"
   },
   {

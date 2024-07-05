@@ -35,7 +35,7 @@
     "ID": 293403672,
     "key": "\"As you are indeed men in pursuit of power, always listen to the weak...for the weak know the strong better than you do, and in turn they shall know you better than you know yourself.\" - Young Anselm",
     "original": "\"As you are indeed men in pursuit of power, always listen to the weak...for the weak know the strong better than you do, and in turn they shall know you better than you know yourself.\" - Young Anselm",
-    "translation": "“既然你们是追求力量的人，就要时刻倾听弱者的声音……因为弱者比你更了解强者，而他们也会比你更了解你自己。”——年轻的安瑟姆",
+    "translation": "“既然你们是追求力量，就要时刻倾听弱者的声音……因为弱者比你更了解强者，而他们也会比你更了解你自己。”——年轻的安瑟姆",
     "stage": 1,
     "context": "this.m.TooltipText = '\"As you are indeed men in pursuit of power, always listen to the weak...for the weak know the strong better than you do, and in turn they shall know you better than you know yourself.\" - Young Anselm'"
   },

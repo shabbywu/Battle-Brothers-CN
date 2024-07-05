@@ -11,8 +11,8 @@
     "ID": 293413019,
     "key": "Suffered a permanent injury",
     "original": "Suffered a permanent injury",
-    "translation": "遭受了永久性的伤害",
-    "stage": 5,
+    "translation": "身负永久伤残",
+    "stage": 1,
     "context": "n.Text == 'Suffered a permanent injury'"
   },
   {

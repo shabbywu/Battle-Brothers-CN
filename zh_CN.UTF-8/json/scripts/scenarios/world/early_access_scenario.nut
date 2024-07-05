@@ -35,8 +35,8 @@
     "ID": 293419673,
     "key": "Joined a mercenary company",
     "original": "Joined a mercenary company",
-    "translation": "加入了一个雇佣兵战团",
-    "stage": 5,
+    "translation": "加入了佣兵团",
+    "stage": 1,
     "context": "bro.improveMood(1.5, 'Joined a mercenary company')"
   },
   {

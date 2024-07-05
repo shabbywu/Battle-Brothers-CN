@@ -11,7 +11,7 @@
     "ID": 293410679,
     "key": "Fighting",
     "original": "Fighting",
-    "translation": "对战中",
+    "translation": "正在交战",
     "stage": 1,
     "context": "this.setOrders('Fighting')"
   },

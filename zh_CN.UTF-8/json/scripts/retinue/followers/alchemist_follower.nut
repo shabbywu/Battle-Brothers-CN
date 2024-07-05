@@ -3,7 +3,7 @@
     "ID": 293419544,
     "key": "The Alchemist is knowledgeable in crafting all kinds of mysterious contraptions and concoctions from exotic ingredients when given access to taxidermist equipment, and uses less material to do so.",
     "original": "The Alchemist is knowledgeable in crafting all kinds of mysterious contraptions and concoctions from exotic ingredients when given access to taxidermist equipment, and uses less material to do so.",
-    "translation": "炼金术士拥有丰富的知识，可以使用特殊材料制造各种神秘的装置和药剂，只要他有使用制作工具的权限，并且更节省材料。",
+    "translation": "炼金术士拥有丰富的，用珍奇材料制造装置和合剂的知识，只要能拿到剥制设备，他就能用更少材料做出成品。",
     "stage": 1,
     "context": "this.m.Description = 'The Alchemist is knowledgeable in crafting all kinds of mysterious contraptions and concoctions from exotic ingredients when given access to taxidermist equipment, and uses less material to do so.'"
   },

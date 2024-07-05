@@ -315,7 +315,7 @@
     "ID": 293422992,
     "key": "Make or break camp. While encamped, time will go faster and your men will heal and repair their equipment at a faster rate. However, you're also more vulnerable to being caught in a surprise attack.",
     "original": "Make or break camp. While encamped, time will go faster and your men will heal and repair their equipment at a faster rate. However, you're also more vulnerable to being caught in a surprise attack.",
-    "translation": "搭帐篷或拆帐篷。 扎营的时候，时间会更快，你的人会更快的治愈和修复他们的装备。 然而，你也更容易受到突然袭击。",
+    "translation": "搭拆帐篷。扎营的时候，时间流逝加快，你的人会更快治愈、修好装备。然而，你也更容易受到突然袭击。",
     "stage": 1,
     "context": "text = \"Make or break camp. While encamped, time will go faster and your men will heal and repair their equipment at a faster rate. However, you're also more vulnerable to being caught in a surprise attack.\""
   },
@@ -339,8 +339,8 @@
     "ID": 293422995,
     "key": "Costs [b][color=",
     "original": "Costs [b][color=",
-    "translation": "消耗 [b][color=",
-    "stage": 5,
+    "translation": "移动消耗 [b][color=",
+    "stage": 1,
     "context": "text = 'Costs [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getActionPointCosts()[lastTileHovered.Type] + '+' + actor.getLevelActionPointCost() + '[/color][/b] AP and [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getFatigueCosts()[lastTileHovered.Type] + '+' + actor.getLevelFatigueCost() + '[/color][/b] Fatigue to traverse because it is at a different height level'"
   },
   {
@@ -419,7 +419,7 @@
     "ID": 293423005,
     "key": "The number of experience points gained during the battle from fighting and killing opponents. Gaining enough experience points will allow this man to level up, increase attributes and gain new perks.",
     "original": "The number of experience points gained during the battle from fighting and killing opponents. Gaining enough experience points will allow this man to level up, increase attributes and gain new perks.",
-    "translation": "在战斗中从战斗和杀死对手中获得的经验点数。 获得足够的经验点将使这个人升级，增加属性和获得新的特技。",
+    "translation": "战斗期间通过搏斗和击杀对手获得的经验点数。获得足够的经验点数将使这个人升级，提升属性，获得新的特技。",
     "stage": 1,
     "context": "text = 'The number of experience points gained during the battle from fighting and killing opponents. Gaining enough experience points will allow this man to level up, increase attributes and gain new perks.'"
   },
@@ -451,8 +451,8 @@
     "ID": 293423009,
     "key": "For the right price, a taxidermist can create useful items from all kinds of trophies you bring him.",
     "original": "For the right price, a taxidermist can create useful items from all kinds of trophies you bring him.",
-    "translation": "只要价格合适，一个剥制师可以从你带给他的各种战利品中创造出有用的物品。",
-    "stage": 5,
+    "translation": "只要肯花钱，剥制师能把你带给他的战利品制成各种实用物品。",
+    "stage": 1,
     "context": "text = 'For the right price, a taxidermist can create useful items from all kinds of trophies you bring him.'"
   },
   {
@@ -491,7 +491,7 @@
     "ID": 293423014,
     "key": "See all factions known to you and your relation to them.",
     "original": "See all factions known to you and your relation to them.",
-    "translation": "看看你所知道的所有派别以及你与他们的关系。",
+    "translation": "查看所有已知派系以及你与他们的关系。",
     "stage": 1,
     "context": "text = 'See all factions known to you and your relation to them.'"
   },
@@ -523,8 +523,8 @@
     "ID": 293423018,
     "key": "Switch to viewing the perks of the currently selected character.\n\nThe number in braces, if any, is the number of available perk points.",
     "original": "Switch to viewing the perks of the currently selected character.\n\nThe number in braces, if any, is the number of available perk points.",
-    "translation": "切换到查看选定角色的特技。\n\n括号中的数字（如果有）是可用的特技点数。",
-    "stage": 5,
+    "translation": "切换到当前角色的特技一览。\n\n括号中的数字（如有）是可用的特技点数。",
+    "stage": 1,
     "context": "text = 'Switch to viewing the perks of the currently selected character.\n\nThe number in braces, if any, is the number of available perk points.'"
   },
   {
@@ -555,7 +555,7 @@
     "ID": 293423022,
     "key": "The character's level measures experience in battle. Characters rise in levels as they gain experience and are able to increase their attributes and gain perks that make them better at the mercenary profession.\n\nBeyond the 11th character level, characters",
     "original": "The character's level measures experience in battle. Characters rise in levels as they gain experience and are able to increase their attributes and gain perks that make them better at the mercenary profession.\n\nBeyond the 11th character level, characters are veterans and will no longer gain perk points, but can still continue to improve.",
-    "translation": "角色的等级衡量战斗中的经验。 角色在获得经验的同时也会提升等级，并且能够增加他们的属性和获得使他们更擅长雇佣职业的特技。\n\n在角色11级之后，角色成为经验丰富的人，不再获得特技点，但仍可以继续提高。",
+    "translation": "角色的等级衡量了他在战斗中的经验。随着经验提升，其等级也会提高，并能提高属性、获得特技，更好的从事佣兵事业。\n\n在角色11级之后，角色将成为老兵，不再获得特技点，但仍可有所提高。",
     "stage": 1,
     "context": "text = \"The character's level measures experience in battle. Characters rise in levels as they gain experience and are able to increase their attributes and gain perks that make them better at the mercenary profession.\n\nBeyond the 11th character level, characters are veterans and will no longer gain perk points, but can still continue to improve.\""
   },
@@ -707,7 +707,7 @@
     "ID": 293423041,
     "key": "Using the hardware cursor minimizes input lag when moving the mouse in the game. Disable this if you experience problems with the mouse cursor.",
     "original": "Using the hardware cursor minimizes input lag when moving the mouse in the game. Disable this if you experience problems with the mouse cursor.",
-    "translation": "在游戏中移动鼠标时，使用硬件光标可以最大限度地减少输入延迟。 如果鼠标光标出现问题，请禁用此选项。",
+    "translation": "在游戏中移动鼠标时，使用硬件光标可以最大限度地减少输入延迟。如果鼠标光标出现问题，请禁用此选项。",
     "stage": 1,
     "context": "text = 'Using the hardware cursor minimizes input lag when moving the mouse in the game. Disable this if you experience problems with the mouse cursor.'"
   },
@@ -771,7 +771,7 @@
     "ID": 293423049,
     "key": "Show only weapons, offensive tools and accessories.",
     "original": "Show only weapons, offensive tools and accessories.",
-    "translation": "只显示武器、进攻性的工具和附件。",
+    "translation": "只显示武器、攻击性的工具和配件。",
     "stage": 1,
     "context": "text = 'Show only weapons, offensive tools and accessories.'"
   },
@@ -819,7 +819,7 @@
     "ID": 293423055,
     "key": "All crises will be randomly chosen between the options below.",
     "original": "All crises will be randomly chosen between the options below.",
-    "translation": "所有危机将在以下选项中随机选择。",
+    "translation": "每次危机都会在下列选项中随机选出。",
     "stage": 1,
     "context": "text = 'All crises will be randomly chosen between the options below.'"
   },
@@ -851,7 +851,7 @@
     "ID": 293423059,
     "key": "Always have the camera centered on any AI movement visible to you.",
     "original": "Always have the camera centered on any AI movement visible to you.",
-    "translation": "始终让摄像头对准任何你能看到的AI移动。",
+    "translation": "始终让摄像机对准所有视野内的AI移动。",
     "stage": 1,
     "context": "text = 'Always have the camera centered on any AI movement visible to you.'"
   },
@@ -883,7 +883,7 @@
     "ID": 293423063,
     "key": "]+20%[/color] Experience Gain for the duration of five battles.",
     "original": "]+20%[/color] Experience Gain for the duration of five battles.",
-    "translation": "]+20%[/color] 经验加成，持续五场战斗。",
+    "translation": "]+20%[/color]经验加成。",
     "stage": 1,
     "context": "text = 'Have your man undergo a rigorous training regimen to shape him into a skilled fighter. The blood and sweat spent today will benefit him in the long run with [color=' + this.Const.UI.Color.PositiveValue + ']+20%[/color] Experience Gain for the duration of five battles.'"
   },
@@ -899,7 +899,7 @@
     "ID": 293423065,
     "key": "Have your man participate in a sparring fight with experienced opponents and various fighting styles. The bruises collected and lessons learned will result in [color=",
     "original": "Have your man participate in a sparring fight with experienced opponents and various fighting styles. The bruises collected and lessons learned will result in [color=",
-    "translation": "让你的队员与有经验的对手进行练习战斗，并学习不同的战斗方式。所获得的挫伤和经验教训将会导致[color=",
+    "translation": "让你的队员与有经验的对手进行练习战斗，并学习多样的战斗方式。所获得的挫伤和经验教训将会给下一场战斗带来[color=",
     "stage": 1,
     "context": "text = 'Have your man participate in a sparring fight with experienced opponents and various fighting styles. The bruises collected and lessons learned will result in [color=' + this.Const.UI.Color.PositiveValue + ']+50%[/color] Experience Gain for the next battle.'"
   },
@@ -939,7 +939,7 @@
     "ID": 293423070,
     "key": "You cannot fight in the arena while contracted to do other work",
     "original": "You cannot fight in the arena while contracted to do other work",
-    "translation": "你不能在签约做其他工作的时候在竞技场上战斗",
+    "translation": "你已经签订了其他合同，不能在竞技场上战斗",
     "stage": 1,
     "context": "text = 'You cannot fight in the arena while contracted to do other work'"
   },
@@ -955,7 +955,7 @@
     "ID": 293423072,
     "key": "Use hardware-accelerated sound playback for better performance. Disable this if you experience any issues related to sound.",
     "original": "Use hardware-accelerated sound playback for better performance. Disable this if you experience any issues related to sound.",
-    "translation": "使用硬件加速声音播放以获得更好的性能。 如果遇到任何与声音相关的问题，请禁用此选项。",
+    "translation": "使用硬件加速声音播放以改善性能表现。如遇到任何与声音相关的问题，请禁用此选项。",
     "stage": 1,
     "context": "text = 'Use hardware-accelerated sound playback for better performance. Disable this if you experience any issues related to sound.'"
   },
@@ -1011,7 +1011,7 @@
     "ID": 293423079,
     "key": "Leave this screen and return to the previous one.",
     "original": "Leave this screen and return to the previous one.",
-    "translation": "离开此屏幕并返回上一个屏幕。",
+    "translation": "离开当前界面返回上级界面。",
     "stage": 1,
     "context": "text = 'Leave this screen and return to the previous one.'"
   },
@@ -1099,8 +1099,8 @@
     "ID": 293423090,
     "key": "Toggle between showing and hiding red overlays that indicate tiles blocked with environmental objects (such as trees) that characters can not move onto.",
     "original": "Toggle between showing and hiding red overlays that indicate tiles blocked with environmental objects (such as trees) that characters can not move onto.",
-    "translation": "在显示和隐藏红色覆盖层之间切换，红色覆盖层表示角色无法移动到的被环境物体（比如树）阻挡的格子。",
-    "stage": 5,
+    "translation": "切换显示或隐藏标记角色无法通行环境物体（如：树）的红色遮罩层。",
+    "stage": 1,
     "context": "text = 'Toggle between showing and hiding red overlays that indicate tiles blocked with environmental objects (such as trees) that characters can not move onto.'"
   },
   {
@@ -1211,8 +1211,8 @@
     "ID": 293423104,
     "key": "Contract available",
     "original": "Contract available",
-    "translation": "可接受的合同",
-    "stage": 5,
+    "translation": "能接到的合同",
+    "stage": 1,
     "context": "text = 'Contract available'"
   },
   {
@@ -1243,7 +1243,7 @@
     "ID": 293423108,
     "key": "Show icons at the edges of your screen indicating the direction in which any characters currently outside the screen are on the map.",
     "original": "Show icons at the edges of your screen indicating the direction in which any characters currently outside the screen are on the map.",
-    "translation": "在屏幕边缘显示图标，指示当前屏幕外的任何角色在地图上的方向。",
+    "translation": "在屏幕边缘显示图标，指示当前屏幕外的所有角色在地图上的方向。",
     "stage": 1,
     "context": "text = 'Show icons at the edges of your screen indicating the direction in which any characters currently outside the screen are on the map.'"
   },
@@ -1355,8 +1355,8 @@
     "ID": 293423122,
     "key": "Hire new men for your mercenary company. The quality and quantity of volunteers depends on the size and type of settlement, as well as your reputation here. Every few days, new people will arrive, and others will travel on.",
     "original": "Hire new men for your mercenary company. The quality and quantity of volunteers depends on the size and type of settlement, as well as your reputation here. Every few days, new people will arrive, and others will travel on.",
-    "translation": "为你的雇佣兵战团雇佣新人。志愿者的质量和数量取决于这个定居点的规模和类型，以及你在这里的声誉。 每隔几天，就会有新的人来，而其他人会继续旅行。",
-    "stage": 5,
+    "translation": "为你的雇佣兵战团雇佣新人。志愿者的质量和数量取决于这个定居点的规模和类型，以及你在这里的声誉。每隔几天，就会有新人到来，而其他人则会继续旅行。",
+    "stage": 1,
     "context": "text = 'Hire new men for your mercenary company. The quality and quantity of volunteers depends on the size and type of settlement, as well as your reputation here. Every few days, new people will arrive, and others will travel on.'"
   },
   {
@@ -1371,7 +1371,7 @@
     "ID": 293423124,
     "key": "The first late game crisis will be the ancient dead arising again to take back what was once theirs. If you survive for long enough, the following ones will be chosen at random.",
     "original": "The first late game crisis will be the ancient dead arising again to take back what was once theirs. If you survive for long enough, the following ones will be chosen at random.",
-    "translation": "游戏后期的第一次危机将是古代死难者再次出现，夺回曾经属于他们的东西。 如果你活得够久，接下来的将随机选择。",
+    "translation": "游戏后期的第一场危机将是古代亡灵再次现身，夺回曾经属于他们的东西。如果你活得够久，接下来的危机将会随机选择。",
     "stage": 1,
     "context": "text = 'The first late game crisis will be the ancient dead arising again to take back what was once theirs. If you survive for long enough, the following ones will be chosen at random.'"
   },
@@ -1395,7 +1395,7 @@
     "ID": 293423127,
     "key": "A large tavern filled with patrons from all over the lands, offering beverages, food and a lively atmosphere in which to share news and rumors.",
     "original": "A large tavern filled with patrons from all over the lands, offering beverages, food and a lively atmosphere in which to share news and rumors.",
-    "translation": "一家大酒馆，到处都是顾客，提供饮料、食物和活跃的气氛，可以分享新闻和谣言。",
+    "translation": "一家充满了酒客的大酒馆，提供了饮料，食物以及新闻和流言编织成的活跃氛围。",
     "stage": 1,
     "context": "text = 'A large tavern filled with patrons from all over the lands, offering beverages, food and a lively atmosphere in which to share news and rumors.'"
   },
@@ -1403,7 +1403,7 @@
     "ID": 293423128,
     "key": "Spend these points to increase any 3 out of 8 attributes per levelup by a random amount. A single attribute can only be increased once per levelup.\n\nStars mean that a character is especially talented with a specific attribute, resulting in consistently be",
     "original": "Spend these points to increase any 3 out of 8 attributes per levelup by a random amount. A single attribute can only be increased once per levelup.\n\nStars mean that a character is especially talented with a specific attribute, resulting in consistently better dice rolls.",
-    "translation": "在每次升级时，花费这些点数来提高8项属性中的任意3项，属性值随机掷骰。每项属性在单次升级中只能被提高一次。\n\n星标意味着角色在某项特定属性上天赋异禀，总能掷骰更好的属性值。",
+    "translation": "花费该点数，能让你在随机出的8项属性成长中，任意选择3项升级。每项属性在单次升级中只能被提高一次。升级时可以获得该点数。\n\n星标意味角色在特定属性上天赋异禀，总能骰出更好的成长值。",
     "stage": 1,
     "context": "text = 'Spend these points to increase any 3 out of 8 attributes per levelup by a random amount. A single attribute can only be increased once per levelup.\n\nStars mean that a character is especially talented with a specific attribute, resulting in consistently better dice rolls.'"
   },
@@ -1443,7 +1443,7 @@
     "ID": 293423133,
     "key": "War",
     "original": "War",
-    "translation": "战争",
+    "translation": "贵族战争",
     "stage": 1,
     "context": "text = 'War'"
   },
@@ -1475,8 +1475,8 @@
     "ID": 293423137,
     "key": "Close this screen.",
     "original": "Close this screen.",
-    "translation": "关闭此屏幕。",
-    "stage": 5,
+    "translation": "关闭此界面。",
+    "stage": 1,
     "context": "text = 'Close this screen.'"
   },
   {
@@ -1539,7 +1539,7 @@
     "ID": 293423145,
     "key": "]+50%[/color] Experience Gain for the next battle.",
     "original": "]+50%[/color] Experience Gain for the next battle.",
-    "translation": "]+50%[/color] 经验加成（下一场战斗）。",
+    "translation": "]+50%[/color]经验加成。",
     "stage": 1,
     "context": "text = 'Have your man participate in a sparring fight with experienced opponents and various fighting styles. The bruises collected and lessons learned will result in [color=' + this.Const.UI.Color.PositiveValue + ']+50%[/color] Experience Gain for the next battle.'"
   },
@@ -1603,7 +1603,7 @@
     "ID": 293423153,
     "key": "Toggle between showing and hiding the mood of your men.",
     "original": "Toggle between showing and hiding the mood of your men.",
-    "translation": "在显示和隐藏你的人的情绪之间切换。",
+    "translation": "切换显示或隐藏你的人的情绪。",
     "stage": 1,
     "context": "text = 'Toggle between showing and hiding the mood of your men.'"
   },
@@ -1635,7 +1635,7 @@
     "ID": 293423157,
     "key": "There will be no late game crisis, and you can keep on playing the sandbox experience forever. Note that with this option selected, a significant part of the game's content and late game challenge won't be accessible. Not recommended for the best experien",
     "original": "There will be no late game crisis, and you can keep on playing the sandbox experience forever. Note that with this option selected, a significant part of the game's content and late game challenge won't be accessible. Not recommended for the best experience.",
-    "translation": "不会有后期游戏危机，你可以永远继续玩沙盒体验。 请注意，选择此选项后，将无法体验相当一部分游戏内容和后期游戏挑战。 如果你想获得游玩最佳体验，不推荐选择此选项。",
+    "translation": "不会有后期游戏危机，你可以永远继续玩沙盒体验。请注意，选择此选项后，将无法体验相当一部分游戏内容和后期游戏挑战。 如果你想获得游玩最佳体验，不推荐选择此选项。",
     "stage": 1,
     "context": "text = \"There will be no late game crisis, and you can keep on playing the sandbox experience forever. Note that with this option selected, a significant part of the game's content and late game challenge won't be accessible. Not recommended for the best experience.\""
   },
@@ -1643,7 +1643,7 @@
     "ID": 293423158,
     "key": "Have your man undergo a rigorous training regimen to shape him into a skilled fighter. The blood and sweat spent today will benefit him in the long run with [color=",
     "original": "Have your man undergo a rigorous training regimen to shape him into a skilled fighter. The blood and sweat spent today will benefit him in the long run with [color=",
-    "translation": "让你的人接受严格的训练计划，将他打造成一个熟练的战士。今天所付出的血汗将会使他日后受益匪浅。[color=",
+    "translation": "让你的人接受严格的训练计划，将他打造成一个熟练的战士。今天所付出的血汗将会使他日后受益匪浅。给接下来的五场战斗[color=",
     "stage": 1,
     "context": "text = 'Have your man undergo a rigorous training regimen to shape him into a skilled fighter. The blood and sweat spent today will benefit him in the long run with [color=' + this.Const.UI.Color.PositiveValue + ']+20%[/color] Experience Gain for the duration of five battles.'"
   },
@@ -1659,7 +1659,7 @@
     "ID": 293423160,
     "key": "The first late game crisis will be a holy war between northern and southern cultures. If you survive for long enough, the following ones will be chosen at random.",
     "original": "The first late game crisis will be a holy war between northern and southern cultures. If you survive for long enough, the following ones will be chosen at random.",
-    "translation": "游戏后期的第一场危机将是南北文化之间的圣战。 如果你活得够久，接下来的将随机选择。",
+    "translation": "游戏后期的第一场危机将是南北文化之间的圣战。如果你活得够久，接下来的危机将会随机选择。",
     "stage": 1,
     "context": "text = 'The first late game crisis will be a holy war between northern and southern cultures. If you survive for long enough, the following ones will be chosen at random.'"
   },
@@ -1675,7 +1675,7 @@
     "ID": 293423162,
     "key": "The first late game crisis will be a ruthless war for power between noble houses. If you survive for long enough, the following ones will be chosen at random.",
     "original": "The first late game crisis will be a ruthless war for power between noble houses. If you survive for long enough, the following ones will be chosen at random.",
-    "translation": "游戏后期的第一场危机将是贵族家族之间的一场残酷的权力战争。 如果你活得够久，接下来的将随机选择。",
+    "translation": "游戏后期的第一场危机将是贵族家族之间的一场残酷的权力战争。如果你活得够久，接下来的危机将会随机选择。",
     "stage": 1,
     "context": "text = 'The first late game crisis will be a ruthless war for power between noble houses. If you survive for long enough, the following ones will be chosen at random.'"
   },
@@ -1739,7 +1739,7 @@
     "ID": 293423170,
     "key": "Enabling the Depth of Field effect will render height levels below the camera in tactical combat slightly out of focus (i.e. blurry), giving more of a miniature vibe and making it easier to differentiate heights, but potentially at the expense of some det",
     "original": "Enabling the Depth of Field effect will render height levels below the camera in tactical combat slightly out of focus (i.e. blurry), giving more of a miniature vibe and making it easier to differentiate heights, but potentially at the expense of some detail.",
-    "translation": "启用景深效果将巧妙的使战斗中相机下方的高度水平稍微偏离焦点（即模糊），从而产生更多的微型效果，使区分高度更加容易，但可能会牺牲一些细节。",
+    "translation": "启用景深效果后，在战术战斗中，低于摄像机的高度会略微失焦（即模糊），产生更多的微缩感，使区分高度更加容易，但可能会牺牲一些细节。",
     "stage": 1,
     "context": "text = 'Enabling the Depth of Field effect will render height levels below the camera in tactical combat slightly out of focus (i.e. blurry), giving more of a miniature vibe and making it easier to differentiate heights, but potentially at the expense of some detail.'"
   },
@@ -1835,7 +1835,7 @@
     "ID": 293423182,
     "key": "Paying a compensation, gratuity or pension for the time spent with the company will allow the dismissed to leave with dignity and something to start a new life with, and it will prevent others in the company from reacting with anger over the dismissal.\n\nI",
     "original": "Paying a compensation, gratuity or pension for the time spent with the company will allow the dismissed to leave with dignity and something to start a new life with, and it will prevent others in the company from reacting with anger over the dismissal.\n\nIndebted characters are paid reparations instead for their time with the company. Other indebted will appreciate it if you pay these, but no one will react with anger if you don't.",
-    "translation": "给被解雇者支付一笔赔偿金、酬金或是养老金，这有助于使他们离开公司时能够保有尊严并能够开启新的生活，同时也避免其他公司员工因解雇而产生的愤怒情绪。\n为负债奴隶支付赔偿金以弥补他们在公司工作的时间。其他负债奴隶会感激你支付赔偿金，但如果你不支付，也不会有谁因此而生气。",
+    "translation": "给被解雇者支付一笔赔偿金、酬金或是养老金，帮助他们更有尊严的离开战团，开启新生活，也能避免其他战团成员因解雇可能出现的愤怒情绪。\n为负债奴隶支付赔偿金，弥补他们在公司工作的时间。其他负债奴隶会感激你支付赔偿金，但如果你不支付，也不会有谁因此而生气。",
     "stage": 1,
     "context": "text = \"Paying a compensation, gratuity or pension for the time spent with the company will allow the dismissed to leave with dignity and something to start a new life with, and it will prevent others in the company from reacting with anger over the dismissal.\n\nIndebted characters are paid reparations instead for their time with the company. Other indebted will appreciate it if you pay these, but no one will react with anger if you don't.\""
   },
@@ -1867,7 +1867,7 @@
     "ID": 293423186,
     "key": "]+35%[/color] Experience Gain for the duration of three battles.",
     "original": "]+35%[/color] Experience Gain for the duration of three battles.",
-    "translation": "]+35%[/color] 经验获取（持续三场战斗）。",
+    "translation": "]+35%[/color]经验加成。",
     "stage": 1,
     "context": "text = 'Have your man learn valuable lessons and insights from a true veteran of the trade. The knowledge imparted will result in [color=' + this.Const.UI.Color.PositiveValue + ']+35%[/color] Experience Gain for the duration of three battles.'"
   },
@@ -1931,7 +1931,7 @@
     "ID": 293423194,
     "key": "Cities, towns and castles can be permanently destroyed during a late game crisis, and having the world go down in flames is one of the many ways you can lose your campaign.",
     "original": "Cities, towns and castles can be permanently destroyed during a late game crisis, and having the world go down in flames is one of the many ways you can lose your campaign.",
-    "translation": "在游戏后期的危机中，城市、城镇和城堡都可能被永久摧毁，让世界陷入火海是你失去战役的众多途径之一。",
+    "translation": "在游戏后期的危机中，城市、城镇和城堡都可能被永久摧毁，整个世界陷入火海会成为你输掉游戏的原因之一。",
     "stage": 1,
     "context": "text = 'Cities, towns and castles can be permanently destroyed during a late game crisis, and having the world go down in flames is one of the many ways you can lose your campaign.'"
   },
@@ -1939,7 +1939,7 @@
     "ID": 293423195,
     "key": "A weapon smith's workshop displaying all kinds of well crafted weapons. Damaged equipment can also be repaired here for a price.",
     "original": "A weapon smith's workshop displaying all kinds of well crafted weapons. Damaged equipment can also be repaired here for a price.",
-    "translation": "一个武器匠的工作室展示各种精心制作的武器。 损坏的装备也可以在这里以一定的价格修理。",
+    "translation": "这间铁匠工坊陈列着各种精心制作的武器。损坏的装备也可以在这里以一定的价格修理。",
     "stage": 1,
     "context": "text = \"A weapon smith's workshop displaying all kinds of well crafted weapons. Damaged equipment can also be repaired here for a price.\""
   },
@@ -2003,7 +2003,7 @@
     "ID": 293423203,
     "key": "The first late game crisis will be an invasion of greenskin hordes threatening to sweep away the world of man. If you survive for long enough, the following ones will be chosen at random.",
     "original": "The first late game crisis will be an invasion of greenskin hordes threatening to sweep away the world of man. If you survive for long enough, the following ones will be chosen at random.",
-    "translation": "游戏后期的第一场危机将是大群绿皮的入侵，他们威胁要席卷人类世界。 如果你活得够久，接下来的将随机选择。",
+    "translation": "游戏后期的第一场危机将是绿皮部落入侵，他们威胁要荡平人类世界。如果你活得够久，接下来的危机将会随机选择。",
     "stage": 1,
     "context": "text = 'The first late game crisis will be an invasion of greenskin hordes threatening to sweep away the world of man. If you survive for long enough, the following ones will be chosen at random.'"
   },
@@ -2011,7 +2011,7 @@
     "ID": 293423204,
     "key": "Book passage for your company and fast travel to the selected destination.",
     "original": "Book passage for your company and fast travel to the selected destination.",
-    "translation": "为你的战团预订商票，并快速前往选定的目的地。",
+    "translation": "为你的战团预订船票，快速前往选定目的地。",
     "stage": 1,
     "context": "text = 'Book passage for your company and fast travel to the selected destination.'"
   },
@@ -2059,7 +2059,7 @@
     "ID": 293423210,
     "key": "Light Wounds",
     "original": "Light Wounds",
-    "translation": "轻伤",
+    "translation": "轻微伤",
     "stage": 1,
     "context": "text = 'Light Wounds'"
   },
@@ -2091,7 +2091,7 @@
     "ID": 293423214,
     "key": "The damage received by this character, split into damage to hitpoints and damage to armor. The value is after any possible damage reduction.",
     "original": "The damage received by this character, split into damage to hitpoints and damage to armor. The value is after any possible damage reduction.",
-    "translation": "这个角色受到的伤害，分为对生命值的伤害和对盔甲的伤害。 该值是在计算了所有减伤之后的值。",
+    "translation": "这个角色受到的伤害，分为生命值伤害和盔甲伤害。该值是在计算了所有减伤之后的值。",
     "stage": 1,
     "context": "text = 'The damage received by this character, split into damage to hitpoints and damage to armor. The value is after any possible damage reduction.'"
   },
@@ -2099,7 +2099,7 @@
     "ID": 293423215,
     "key": "Speed up the movement of any characters controlled by the AI in combat significantly.  Does not affect movement-related skills.",
     "original": "Speed up the movement of any characters controlled by the AI in combat significantly.  Does not affect movement-related skills.",
-    "translation": "在战斗中显著加速由AI控制的任何角色的移动。  不会影响移动相关技能。",
+    "translation": "在战斗中显著加速由AI控制的任何角色的移动。不影响带有移动效果的技能。",
     "stage": 1,
     "context": "text = 'Speed up the movement of any characters controlled by the AI in combat significantly.  Does not affect movement-related skills.'"
   },
@@ -2123,7 +2123,7 @@
     "ID": 293423218,
     "key": "Have your man learn valuable lessons and insights from a true veteran of the trade. The knowledge imparted will result in [color=",
     "original": "Have your man learn valuable lessons and insights from a true veteran of the trade. The knowledge imparted will result in [color=",
-    "translation": "让您的人从一位真正的行家里手那里学习有价值的课程和经验。所传授的知识将带来[color=",
+    "translation": "让你的人从一位真正的行家里手那里学习有价值的课程和经验。所传授的知识将会给接下来的三场战斗带来[color=",
     "stage": 1,
     "context": "text = 'Have your man learn valuable lessons and insights from a true veteran of the trade. The knowledge imparted will result in [color=' + this.Const.UI.Color.PositiveValue + ']+35%[/color] Experience Gain for the duration of three battles.'"
   },
@@ -2147,7 +2147,7 @@
     "ID": 293423221,
     "key": "A mercenary company has to carry a lot of equipment and supplies. By using carts and wagons, you can expand your available inventory space and carry even more.",
     "original": "A mercenary company has to carry a lot of equipment and supplies. By using carts and wagons, you can expand your available inventory space and carry even more.",
-    "translation": "雇佣兵战团必须携带大量的装备和物资。 通过使用货车和载重货车，你可以扩大你的可用库存空间，进一步加大携带量。",
+    "translation": "佣兵团免不了携带大量装备物资。通过货车和载重货车，你可以扩大你的可用库存空间，进一步加大携带量。",
     "stage": 1,
     "context": "text = 'A mercenary company has to carry a lot of equipment and supplies. By using carts and wagons, you can expand your available inventory space and carry even more.'"
   },
@@ -2163,7 +2163,7 @@
     "ID": 293423223,
     "key": "Toggle between showing and hiding armor and hitpoint bars, as well as status effect icons, ontop every visible character.",
     "original": "Toggle between showing and hiding armor and hitpoint bars, as well as status effect icons, ontop every visible character.",
-    "translation": "在显示和隐藏护甲和生命条，以及状态效果图标之间切换，将每个可见的角色都显示出来。",
+    "translation": "切换显示或隐藏每个角色头顶的护甲条，生命条以及状态效果图标。",
     "stage": 1,
     "context": "text = 'Toggle between showing and hiding armor and hitpoint bars, as well as status effect icons, ontop every visible character.'"
   },
@@ -2203,8 +2203,8 @@
     "ID": 293423228,
     "key": "A harbor that serves both foreign trading ships and local fishermen. You'll likely be able to book passage by sea to other parts of the continent here.",
     "original": "A harbor that serves both foreign trading ships and local fishermen. You'll likely be able to book passage by sea to other parts of the continent here.",
-    "translation": "一个为外来商船和当地渔民服务的港口。你很可能能够在这里乘船前往该大陆的其他地区。",
-    "stage": 5,
+    "translation": "一个为外来商船和当地渔民服务的港口。在这里你能买到前往大陆其他地区的船票。",
+    "stage": 1,
     "context": "text = \"A harbor that serves both foreign trading ships and local fishermen. You'll likely be able to book passage by sea to other parts of the continent here.\""
   },
   {
@@ -2331,7 +2331,7 @@
     "ID": 293423244,
     "key": "Move the camera to center and zoom in on your mercenary company.",
     "original": "Move the camera to center and zoom in on your mercenary company.",
-    "translation": "把相机移到中间，放大你的雇佣兵战团。",
+    "translation": "把相机移到中间，以佣兵团为中心放大画面。",
     "stage": 1,
     "context": "text = 'Move the camera to center and zoom in on your mercenary company.'"
   },
@@ -2355,7 +2355,7 @@
     "ID": 293423247,
     "key": "Always show bars for hitpoints and armor floating above characters in combat, as opposed to only when characters get hit.",
     "original": "Always show bars for hitpoints and armor floating above characters in combat, as opposed to only when characters get hit.",
-    "translation": "在战斗中，始终显示在角色上方浮动的生命和护甲条，而不是只有在角色被击中时才显示。",
+    "translation": "始终在战斗中显示在角色上方浮动的生命和护甲条，反选此选项则只会在角色被击中时显示。",
     "stage": 1,
     "context": "text = 'Always show bars for hitpoints and armor floating above characters in combat, as opposed to only when characters get hit.'"
   },
@@ -2379,7 +2379,7 @@
     "ID": 293423250,
     "key": "This armorer's workshop is the right place to look for well-made and durable protection. Damaged equipment can also be repaired here for a price.",
     "original": "This armorer's workshop is the right place to look for well-made and durable protection. Damaged equipment can also be repaired here for a price.",
-    "translation": "这间盔甲店是寻找制作精良、经久耐用的防护用品的理想场所。 损坏的装备也可以在这里以一定的价格修理。",
+    "translation": "这间盔甲店是寻找制作精良、经久耐用的防护用品的理想场所。损坏的装备也可以在这里以一定的价格修理。",
     "stage": 1,
     "context": "text = \"This armorer's workshop is the right place to look for well-made and durable protection. Damaged equipment can also be repaired here for a price.\""
   },
@@ -2411,7 +2411,7 @@
     "ID": 293423254,
     "key": "Dismiss this character from your roster to save daily wage and make room for someone else. Indebted characters will be freed from slavery and leave your company.",
     "original": "Dismiss this character from your roster to save daily wage and make room for someone else. Indebted characters will be freed from slavery and leave your company.",
-    "translation": "把这个角色从你的花名册中解雇掉，这样可以节省日工资，并为其他人腾出空间。 负债者角色将解除奴隶身份，离开你的战团。",
+    "translation": "将此角色从名册中解雇，以节省日工资，为他人腾出位置。负债者角色将摆脱奴隶身份，离开你的战团。",
     "stage": 1,
     "context": "text = 'Dismiss this character from your roster to save daily wage and make room for someone else. Indebted characters will be freed from slavery and leave your company.'"
   },
@@ -2571,7 +2571,7 @@
     "ID": 293423274,
     "key": "Scroll the screen by pressing the left mouse button and dragging it (default).",
     "original": "Scroll the screen by pressing the left mouse button and dragging it (default).",
-    "translation": "通过按鼠标左键（默认）并拖动滚动屏幕。",
+    "translation": "通过按住鼠标左键拖动来滚动屏幕（默认）。",
     "stage": 1,
     "context": "text = 'Scroll the screen by pressing the left mouse button and dragging it (default).'"
   },
@@ -2579,7 +2579,7 @@
     "ID": 293423275,
     "key": "Your relations with a faction determine whether they'll fight or deal peacefully with you, their willingness to hire you for contracts, as well as the prices they give you and the number of recruits available to you at their settlements.\n\nRelations increa",
     "original": "Your relations with a faction determine whether they'll fight or deal peacefully with you, their willingness to hire you for contracts, as well as the prices they give you and the number of recruits available to you at their settlements.\n\nRelations increase when working successfully for factions, and decrease on failing to do so, betraying or attacking them. Over time, relations slowly trend back towards neutral.",
-    "translation": "你与某个派系的关系决定了他们是否会与你进行和平的战斗或交易，他们是否愿意雇佣你来签订合同，以及他们给你的价格和在他们的定居点为你提供的新兵数量。\n\n当成功地为派系工作时，关系会增加，如果不这样做，背叛或攻击派系，关系会减少。 随着时间的推移，双方关系逐渐趋于中立。",
+    "translation": "你与某个派系的关系的好坏，决定了他们和你是战是和，是否愿意雇佣你来签订合同，以及他们给你的价格和在他们的定居点为你提供的新兵数量。\n\n如果你成功的完成了派系安排的工作，则会增进你们之间的关系。相反，如果没能完成工作，甚至背叛或主动发起攻击，则会损害你们的关系。随着时间流逝，关系会逐渐趋于中立。",
     "stage": 1,
     "context": "text = \"Your relations with a faction determine whether they'll fight or deal peacefully with you, their willingness to hire you for contracts, as well as the prices they give you and the number of recruits available to you at their settlements.\n\nRelations increase when working successfully for factions, and decrease on failing to do so, betraying or attacking them. Over time, relations slowly trend back towards neutral.\""
   },
@@ -2619,7 +2619,7 @@
     "ID": 293423280,
     "key": "Change the scale of the user interface, i.e. menus and texts.",
     "original": "Change the scale of the user interface, i.e. menus and texts.",
-    "translation": "更改用户界面的比例，即菜单和文本。",
+    "translation": "更改用户界面的比例，即菜单和文本等。",
     "stage": 1,
     "context": "text = 'Change the scale of the user interface, i.e. menus and texts.'"
   },
@@ -2667,7 +2667,7 @@
     "ID": 293423286,
     "key": "Only contracts by the noble house owning this fortification are available here, but they don't recognize you as worthy of their attention. Increase your renown and fulfill the ambition of noble houses to take notice of the company in order to unlock new c",
     "original": "Only contracts by the noble house owning this fortification are available here, but they don't recognize you as worthy of their attention. Increase your renown and fulfill the ambition of noble houses to take notice of the company in order to unlock new contracts!",
-    "translation": "这里只有拥有这座防御工事的贵族家族的合同，但他们不承认你值得他们关注。 增加你的名望，完成让贵族家族注意到你的战团的野心，以解锁新合同！",
+    "translation": "这里只有拥有这座防御工事的贵族家族的合同，但他们不认为你值得他们关注。提高你的名望，完成让贵族家族注意到你的战团的野心，解锁新合同！",
     "stage": 1,
     "context": "text = \"Only contracts by the noble house owning this fortification are available here, but they don't recognize you as worthy of their attention. Increase your renown and fulfill the ambition of noble houses to take notice of the company in order to unlock new contracts!\""
   },
@@ -2675,7 +2675,7 @@
     "ID": 293423287,
     "key": "The Blazing Deserts DLC adds a new desert region to the south inspired by medieval Arabic and Persian cultures, a new late game crisis involving a holy war, a retinue of non-combat followers with which to customize your company, alchemical contraptions an",
     "original": "The Blazing Deserts DLC adds a new desert region to the south inspired by medieval Arabic and Persian cultures, a new late game crisis involving a holy war, a retinue of non-combat followers with which to customize your company, alchemical contraptions and primitive firearms, new human and beastly opponents, new contracts and events, and more.",
-    "translation": "炽热沙漠DLC为南方增添了一个新的沙漠地区，灵感来自中世纪的阿拉伯和波斯文化，一场新的涉及圣战的游戏后期危机，非战斗追随者随从可以改制你的战团，炼金术装置和原始火器，新的人类和野兽对手，新的合同和事件，等等。",
+    "translation": "炽热沙漠DLC在地图南方增添了一个以中世纪的阿拉伯和波斯文化为原型的沙漠地区，一场新的涉及圣战的游戏后期危机，用于定制战团的非战斗追随者，炼金术装置和原始火器，新的人类和野兽对手，新的合同和事件，等等。",
     "stage": 1,
     "context": "text = 'The Blazing Deserts DLC adds a new desert region to the south inspired by medieval Arabic and Persian cultures, a new late game crisis involving a holy war, a retinue of non-combat followers with which to customize your company, alchemical contraptions and primitive firearms, new human and beastly opponents, new contracts and events, and more.'"
   },
@@ -2723,7 +2723,7 @@
     "ID": 293423293,
     "key": "Pause the active character's turn and move them to the end of the queue. Waiting this turn will also have you act later next round.",
     "original": "Pause the active character's turn and move them to the end of the queue. Waiting this turn will also have you act later next round.",
-    "translation": "暂停当前角色的回合并将其移动到队列的末尾。 等待这个回合，也会让你在下一轮晚一些再行动。",
+    "translation": "暂停当前角色的回合并将其移动到队列的末尾。在当前回合中选择等待，也会让你在下一轮晚一些再行动。",
     "stage": 1,
     "context": "text = \"Pause the active character's turn and move them to the end of the queue. Waiting this turn will also have you act later next round.\""
   },
@@ -2747,7 +2747,7 @@
     "ID": 293423296,
     "key": "Automatically place equipment back into the inventory slot it was in before battle, if possible. For example, if a character starts battle with a crossbow, but changes to a pike during battle, they'll automatically have the crossbow in hand again when the",
     "original": "Automatically place equipment back into the inventory slot it was in before battle, if possible. For example, if a character starts battle with a crossbow, but changes to a pike during battle, they'll automatically have the crossbow in hand again when the battle is concluded.",
-    "translation": "如果可能的话，自动将装备放回战斗前的摆放位置中。例如，如果一个角色开始使用弩作战，但在战斗中变为长矛，则在战斗结束时，他们将自动再次手握弩。",
+    "translation": "在条件允许的情况下，自动将装备放回战斗前的物品栏位中。例如，在战斗开始时，某个角色持有弩，在战斗中切换为矛，则在战斗结束时，他将自动重新拿起弩。",
     "stage": 1,
     "context": "text = \"Automatically place equipment back into the inventory slot it was in before battle, if possible. For example, if a character starts battle with a crossbow, but changes to a pike during battle, they'll automatically have the crossbow in hand again when the battle is concluded.\""
   },
@@ -2763,7 +2763,7 @@
     "ID": 293423298,
     "key": "This character has leveled up. Increase his attributes and select a perk!",
     "original": "This character has leveled up. Increase his attributes and select a perk!",
-    "translation": "这个角色升级了。增加他的属性值并选择一个特技！",
+    "translation": "这个角色升级了。提高他的属性，选择一项特技！",
     "stage": 1,
     "context": "text = 'This character has leveled up. Increase his attributes and select a perk!'"
   },
@@ -2835,7 +2835,7 @@
     "ID": 293423307,
     "key": "Switch to viewing the global stash of your mercenary company, or the ground beneath the currently selected character while in combat.",
     "original": "Switch to viewing the global stash of your mercenary company, or the ground beneath the currently selected character while in combat.",
-    "translation": "切换到查看雇佣兵战团的仓库，或战斗中选定角色下方的地面。",
+    "translation": "切换到佣兵团仓库一览，或是战斗中选定角色下方的地面。",
     "stage": 1,
     "context": "text = 'Switch to viewing the global stash of your mercenary company, or the ground beneath the currently selected character while in combat.'"
   },
@@ -2915,7 +2915,7 @@
     "ID": 293423317,
     "key": "Demise",
     "original": "Demise",
-    "translation": "终结",
+    "translation": "死因",
     "stage": 1,
     "context": "text = 'Demise'"
   },
@@ -2931,7 +2931,7 @@
     "ID": 293423319,
     "key": "Toggle between showing and hiding trees and other large objects on the map.",
     "original": "Toggle between showing and hiding trees and other large objects on the map.",
-    "translation": "在显示和隐藏地图上的树和其他大型对象之间切换。",
+    "translation": "切换显示或隐藏地图上的树以及其他大型对象。",
     "stage": 1,
     "context": "text = 'Toggle between showing and hiding trees and other large objects on the map.'"
   },
@@ -3003,7 +3003,7 @@
     "ID": 293423328,
     "key": "This character just leveled up! Find him in your roster, accessible on the worldmap, to raise his attributes and select a perk.",
     "original": "This character just leveled up! Find him in your roster, accessible on the worldmap, to raise his attributes and select a perk.",
-    "translation": "这个角色刚刚升级！ 在世界地图上时，你可以在花名册中找到他，以提高他的属性并选择一个特技。",
+    "translation": "这个角色刚刚升级！在世界地图上时，你可以在花名册中找到他，提高他的属性并选择一个特技。",
     "stage": 1,
     "context": "text = 'This character just leveled up! Find him in your roster, accessible on the worldmap, to raise his attributes and select a perk.'"
   },
@@ -3099,7 +3099,7 @@
     "ID": 293423340,
     "key": "Lock or unlock the camera to always be centered on your mercenary company.",
     "original": "Lock or unlock the camera to always be centered on your mercenary company.",
-    "translation": "锁定或解锁相机，始终集中在你的雇佣兵战团。",
+    "translation": "锁定或解锁相机，将你的佣兵团固定在画面中央。",
     "stage": 1,
     "context": "text = 'Lock or unlock the camera to always be centered on your mercenary company.'"
   },
@@ -3115,7 +3115,7 @@
     "ID": 293423342,
     "key": "Automatically adjust the camera's height level to see the currently active character in combat. Disabling this will prevent the camera from changing height levels when it isn't strictly necessary, but will also require manual adjustment of height levels w",
     "original": "Automatically adjust the camera's height level to see the currently active character in combat. Disabling this will prevent the camera from changing height levels when it isn't strictly necessary, but will also require manual adjustment of height levels when characters happen to be obstructed by terrain.",
-    "translation": "自动调整摄像机的高度，以查看战斗中当前活动的角色。 禁用此选项将防止摄像机在不严格需要时更改高度级别，但当角色恰好被地形阻挡时，还需要手动调整高度级别。",
+    "translation": "自动调整摄像机的高度，以查看战斗中当前活动的角色。禁用此选项能防止摄像机在不必要时更改高度级别，但当角色恰好被地形阻挡时，还需要手动调整高度级别。",
     "stage": 1,
     "context": "text = \"Automatically adjust the camera's height level to see the currently active character in combat. Disabling this will prevent the camera from changing height levels when it isn't strictly necessary, but will also require manual adjustment of height levels when characters happen to be obstructed by terrain.\""
   },
@@ -3163,15 +3163,15 @@
     "ID": 293423348,
     "key": "[/color][/b] Fatigue to traverse",
     "original": "[/color][/b] Fatigue to traverse",
-    "translation": "[/color][/b] 疲劳值以移动",
-    "stage": 5,
+    "translation": "[/color][/b] 点疲劳",
+    "stage": 1,
     "context": "text = 'Costs [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getActionPointCosts()[lastTileHovered.Type] + '[/color][/b] AP and [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getFatigueCosts()[lastTileHovered.Type] + '[/color][/b] Fatigue to traverse'"
   },
   {
     "ID": 293423349,
     "key": "A meeting point for those of the fighting profession. Have your men train with and learn from experienced fighters here, so you can mold them faster into hardened mercenaries.",
     "original": "A meeting point for those of the fighting profession. Have your men train with and learn from experienced fighters here, so you can mold them faster into hardened mercenaries.",
-    "translation": "战斗专业人士的集合点。 让你的士兵在这里接受训练并向有经验的战士学习，这样你就能更快地把他们塑造成坚强的雇佣兵。",
+    "translation": "专业战斗人士汇集的地方。在这里，你的人能接受老练战士的教授和训练，更快被塑造成坚强的雇佣兵。",
     "stage": 1,
     "context": "text = 'A meeting point for those of the fighting profession. Have your men train with and learn from experienced fighters here, so you can mold them faster into hardened mercenaries.'"
   },
@@ -3179,7 +3179,7 @@
     "ID": 293423350,
     "key": "Automatically pause the game after leaving a city so that you don't waste any time - but at the expense of having to manually unpause each time.",
     "original": "Automatically pause the game after leaving a city so that you don't waste any time - but at the expense of having to manually unpause each time.",
-    "translation": "离开一个城市后自动暂停游戏，这样你就不会浪费任何时间，但代价是每次都必须手动取消暂停。",
+    "translation": "离开城市后自动暂停游戏，避免时间浪费，代价是每次都要手动取消暂停。",
     "stage": 1,
     "context": "text = \"Automatically pause the game after leaving a city so that you don't waste any time - but at the expense of having to manually unpause each time.\""
   },
@@ -3203,8 +3203,8 @@
     "ID": 293423353,
     "key": "[/color][/b] Fatigue to traverse because it is at a different height level",
     "original": "[/color][/b] Fatigue to traverse because it is at a different height level",
-    "translation": "[/color][/b] 疲劳值以移动(由于处于不同的高度)",
-    "stage": 5,
+    "translation": "[/color][/b] 点疲劳（高度落差）",
+    "stage": 1,
     "context": "text = 'Costs [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getActionPointCosts()[lastTileHovered.Type] + '+' + actor.getLevelActionPointCost() + '[/color][/b] AP and [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getFatigueCosts()[lastTileHovered.Type] + '+' + actor.getLevelFatigueCost() + '[/color][/b] Fatigue to traverse because it is at a different height level'"
   },
   {
@@ -3275,7 +3275,7 @@
     "ID": 293423362,
     "key": "You need at least 3 empty inventory slots to fight in the arena",
     "original": "You need at least 3 empty inventory slots to fight in the arena",
-    "translation": "你需要至少3个空的仓库空间在才能在竞技场战斗",
+    "translation": "你需要至少3个空的仓库栏位在才能在竞技场战斗",
     "stage": 1,
     "context": "text = 'You need at least 3 empty inventory slots to fight in the arena'"
   },
@@ -3307,7 +3307,7 @@
     "ID": 293423366,
     "key": "Characters gain experience as they or their allies slay enemies in battles. If a character has accumulated sufficient experience, he'll level up and be able to increase his attributes and pick a perk that grants a unique bonus.\n\nBeyond the 11th character ",
     "original": "Characters gain experience as they or their allies slay enemies in battles. If a character has accumulated sufficient experience, he'll level up and be able to increase his attributes and pick a perk that grants a unique bonus.\n\nBeyond the 11th character level, characters are veterans and will no longer gain perk points, but can still continue to improve.",
-    "translation": "角色在战斗中杀死敌人时获得经验。 如果一个角色积累了足够的经验，他将提升自己的等级，并且能够提高自己的属性，并授予可以选择一个独特奖励的特技。\n\n在角色11级之后，角色成为经验丰富的人，不再获得特技点，但仍可以继续提高。",
+    "translation": "角色能在自己或盟友杀敌时获得经验。如果角色积累了足够经验，他的等级会得到提高，能够提高自己的属性，选择一项能带来独特加成的特技。\n\n在角色11级之后，角色将成为老兵，不再获得特技点，但仍可有所提高。",
     "stage": 1,
     "context": "text = \"Characters gain experience as they or their allies slay enemies in battles. If a character has accumulated sufficient experience, he'll level up and be able to increase his attributes and pick a perk that grants a unique bonus.\n\nBeyond the 11th character level, characters are veterans and will no longer gain perk points, but can still continue to improve.\""
   },
@@ -3371,7 +3371,7 @@
     "ID": 293423374,
     "key": "The Warriors of the North DLC adds a new human faction of northern barbarians with their own fighting style and equipment, different starting scenarios for your company, new nordic and rus inspired equipment, as well as new contracts and events.",
     "original": "The Warriors of the North DLC adds a new human faction of northern barbarians with their own fighting style and equipment, different starting scenarios for your company, new nordic and rus inspired equipment, as well as new contracts and events.",
-    "translation": "北方勇士DLC添加了一个新的人类派系——北方野蛮人，他们有自己的战斗风格和装备，新的战团起源，基于北欧和罗斯风格设计的新装备，以及新的合同和事件。",
+    "translation": "北方勇士DLC添加了一个新的，有着自己的战斗风格和装备的人类派系——北方野蛮人，新的战团起源系统，基于北欧和罗斯风格设计的新装备，以及新的合同和事件。",
     "stage": 1,
     "context": "text = 'The Warriors of the North DLC adds a new human faction of northern barbarians with their own fighting style and equipment, different starting scenarios for your company, new nordic and rus inspired equipment, as well as new contracts and events.'"
   },

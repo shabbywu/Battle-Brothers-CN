@@ -11,7 +11,7 @@
     "ID": 293410431,
     "key": "Olive Tree",
     "original": "Olive Tree",
-    "translation": "橄榄树(Olive Tree)",
+    "translation": "橄榄树",
     "stage": 1,
     "context": "return 'Olive Tree';"
   }

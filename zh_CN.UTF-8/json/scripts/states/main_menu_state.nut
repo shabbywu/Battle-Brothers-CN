@@ -51,8 +51,8 @@
     "ID": 293422785,
     "key": "[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]A possible early game encounter in enemy composition and equipment available. Moderate difficulty.[/p]",
     "original": "[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]A possible early game encounter in enemy composition and equipment available. Moderate difficulty.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]可能在游戏前期遇到的敌人组成和可用装备。中等难度。[/p]",
-    "stage": 5,
+    "translation": "[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]一场遭遇战，用前期能入手的装备对抗前期敌人组合。中等难度。[/p]",
+    "stage": 1,
     "context": "description = '[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]A possible early game encounter in enemy composition and equipment available. Moderate difficulty.[/p]'"
   },
   {
@@ -83,16 +83,16 @@
     "ID": 293422789,
     "key": "[p=c]An empty map for AI testing. Spawn combatants manually and let them fight it out.[/p]",
     "original": "[p=c]An empty map for AI testing. Spawn combatants manually and let them fight it out.[/p]",
-    "translation": "[p=c]用于AI测试的空地图。手动生成战斗人员，让他们战斗到底。[/p]",
-    "stage": 5,
+    "translation": "[p=c]用于AI测试的空地图。手动生成战斗人员，让他们分个高下。[/p]",
+    "stage": 1,
     "context": "description = '[p=c]An empty map for AI testing. Spawn combatants manually and let them fight it out.[/p]'"
   },
   {
     "ID": 293422790,
     "key": "Scenario Screen is not fully visible. Be patient!",
     "original": "Scenario Screen is not fully visible. Be patient!",
-    "translation": "场景界面未完全显示。要有耐心！",
-    "stage": 5,
+    "translation": "场景界面未完全显示。请耐心等待！",
+    "stage": 1,
     "context": "this.logWarning('Scenario Screen is not fully visible. Be patient!')"
   },
   {
@@ -107,8 +107,8 @@
     "ID": 293422792,
     "key": "[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n[p=c]Few and easy opponents all over a map with lots of terrain features blocking sight. Well suited to get used to lines of sight, fog of war and ranged combat. Easy.[/p]",
     "original": "[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n[p=c]Few and easy opponents all over a map with lots of terrain features blocking sight. Well suited to get used to lines of sight, fog of war and ranged combat. Easy.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n[p=c]少量简单的对手分布在整个地图中，许多地形特征阻挡视线。非常适合用来适应视野、战争迷雾以及远程作战。容易。[/p]",
-    "stage": 5,
+    "translation": "[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n[p=c]有较多的视野阻挡地形，少量简单对手散布其中。适合用来熟悉视野、战争迷雾以及远程作战。容易。[/p]",
+    "stage": 1,
     "context": "description = '[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n[p=c]Few and easy opponents all over a map with lots of terrain features blocking sight. Well suited to get used to lines of sight, fog of war and ranged combat. Easy.[/p]'"
   },
   {
@@ -123,7 +123,7 @@
     "ID": 293422794,
     "key": "[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]Survive against overwhelming odds while positioned on top of a hill. Well suited to learn about height advantage and to test sight and usability issues with height levels. Difficult.[/p]",
     "original": "[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]Survive against overwhelming odds while positioned on top of a hill. Well suited to learn about height advantage and to test sight and usability issues with height levels. Difficult.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]处于小山的顶部，在巨大的危险中生存下来。非常适合学习高地优势，并在高处测试视野和交互细节。困难。[/p]",
+    "translation": "[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]在山顶上对抗多数敌人，以求一线生机。非常适合学习高地优势，测试视野和高低差交互细节。困难。[/p]",
     "stage": 1,
     "context": "description = '[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]Survive against overwhelming odds while positioned on top of a hill. Well suited to learn about height advantage and to test sight and usability issues with height levels. Difficult.[/p]'"
   },
@@ -171,8 +171,8 @@
     "ID": 293422800,
     "key": "Load Campaign Screen is not fully visible. Be patient!",
     "original": "Load Campaign Screen is not fully visible. Be patient!",
-    "translation": "载入战役界面未完全显示。要有耐心！",
-    "stage": 5,
+    "translation": "载入战役界面未完全显示。请耐心等待！",
+    "stage": 1,
     "context": "this.logWarning('Load Campaign Screen is not fully visible. Be patient!')"
   }
 ]

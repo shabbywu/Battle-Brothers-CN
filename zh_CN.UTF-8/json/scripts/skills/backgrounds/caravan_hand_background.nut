@@ -35,8 +35,8 @@
     "ID": 293420867,
     "key": "Caravan Hand",
     "original": "Caravan Hand",
-    "translation": "商队队员",
-    "stage": 5,
+    "translation": "商队帮工",
+    "stage": 1,
     "context": "this.m.Name = 'Caravan Hand'"
   }
 ]

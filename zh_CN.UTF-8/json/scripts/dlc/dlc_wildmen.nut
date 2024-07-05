@@ -91,7 +91,7 @@
     "ID": 293410226,
     "key": "Northern warhounds are sturdier than southern wardogs, but not as quick and agile.",
     "original": "Northern warhounds are sturdier than southern wardogs, but not as quick and agile.",
-    "translation": "比起南方战犬，北方的战猎犬强壮更甚但敏捷不足。",
+    "translation": "比起南方战犬，北方的战獒强壮更甚但敏捷不足。",
     "stage": 1,
     "context": "'Northern warhounds are sturdier than southern wardogs, but not as quick and agile.'"
   },
@@ -107,7 +107,7 @@
     "ID": 293410228,
     "key": "Slings inflict the 'Daze' status effect on a hit to the head.",
     "original": "Slings inflict the 'Daze' status effect on a hit to the head.",
-    "translation": "投石索攻击头部可造成“眩晕”状态效果。",
+    "translation": "投石索命中头部会施加“茫然”状态效果。",
     "stage": 1,
     "context": "\"Slings inflict the 'Daze' status effect on a hit to the head.\""
   },

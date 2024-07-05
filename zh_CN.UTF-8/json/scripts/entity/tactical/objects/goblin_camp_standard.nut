@@ -3,7 +3,7 @@
     "ID": 293410364,
     "key": "A standard that leaves no doubt about who this camp's inhabitants are.",
     "original": "A standard that leaves no doubt about who this camp's inhabitants are.",
-    "translation": "一个明示营地主人的旗子。",
+    "translation": "一面旗帜，昭示着营地的主人。",
     "stage": 1,
     "context": "return \"A standard that leaves no doubt about who this camp's inhabitants are.\";"
   },

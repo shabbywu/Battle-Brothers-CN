@@ -3,7 +3,7 @@
     "ID": 293410333,
     "key": "A tall and slim birch tree with its leaves starting to turn brown and red.",
     "original": "A tall and slim birch tree with its leaves starting to turn brown and red.",
-    "translation": "一棵高大纤细的桦树，叶子开始变成棕色和红色。",
+    "translation": "一棵高大纤细的桦树，叶子开始变成棕红色。",
     "stage": 1,
     "context": "return 'A tall and slim birch tree with its leaves starting to turn brown and red.';"
   },

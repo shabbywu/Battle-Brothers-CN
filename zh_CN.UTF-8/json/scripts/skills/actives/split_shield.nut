@@ -19,8 +19,8 @@
     "ID": 293420479,
     "key": "Has [color=",
     "original": "Has [color=",
-    "translation": "因为武器过于笨重，有 [color=",
-    "stage": 5,
+    "translation": "武器施展不便，对近身敌人有 [color=",
+    "stage": 1,
     "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {
@@ -51,8 +51,8 @@
     "ID": 293420483,
     "key": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
     "original": "]-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy",
-    "translation": "]-15%[/color] 攻击近身敌人的命中惩罚",
-    "stage": 5,
+    "translation": "]-15%[/color] 命中惩罚",
+    "stage": 1,
     "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit targets directly adjacent because the weapon is too unwieldy'"
   },
   {

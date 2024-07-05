@@ -3,7 +3,7 @@
     "ID": 293414204,
     "key": " has died",
     "original": " has died",
-    "translation": "是死了",
+    "translation": "死了",
     "stage": 1,
     "context": "text = _event.m.Sacrifice.getName() + ' has died'"
   },

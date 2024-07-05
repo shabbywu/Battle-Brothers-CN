@@ -3,7 +3,7 @@
     "ID": 293410499,
     "key": "Too few indebted in battle",
     "original": "Too few indebted in battle",
-    "translation": "战斗中负债者过少。",
+    "translation": "参战的负债者过少。",
     "stage": 1,
     "context": "bro.worsenMood(this.Const.MoodChange.TooFewSlavesInBattle, 'Too few indebted in battle')"
   },

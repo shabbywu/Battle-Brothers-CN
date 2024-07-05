@@ -11,16 +11,16 @@
     "ID": 293410312,
     "key": "the Younger",
     "original": "the Younger",
-    "translation": "年轻人",
-    "stage": 5,
+    "translation": "后起之秀",
+    "stage": 1,
     "context": "'the Younger'"
   },
   {
     "ID": 293410313,
     "key": "the Trade Master",
     "original": "the Trade Master",
-    "translation": "行业主管",
-    "stage": 5,
+    "translation": "商贸主管",
+    "stage": 1,
     "context": "'the Trade Master'"
   },
   {

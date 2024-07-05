@@ -3,7 +3,7 @@
     "ID": 293410417,
     "key": "A bronze statue from an age long past.",
     "original": "A bronze statue from an age long past.",
-    "translation": "古早时代的青铜雕像。.",
+    "translation": "一座远古铜像。",
     "stage": 1,
     "context": "return 'A bronze statue from an age long past.';"
   },

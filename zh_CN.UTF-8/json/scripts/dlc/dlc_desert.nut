@@ -219,7 +219,7 @@
     "ID": 293410183,
     "key": "A Qatal Dagger is best used in combination with other weapons that can stun or daze opponents.",
     "original": "A Qatal Dagger is best used in combination with other weapons that can stun or daze opponents.",
-    "translation": "一把卡塔尔匕首最好与其他能够使敌人昏迷或眩晕茫然的武器结合使用。",
+    "translation": "刺杀匕首最好与其他能使敌人昏迷或茫然的武器结合使用。",
     "stage": 1,
     "context": "'A Qatal Dagger is best used in combination with other weapons that can stun or daze opponents.'"
   },
@@ -235,7 +235,7 @@
     "ID": 293410185,
     "key": "Inventory full? Buy carts and wagons for your company in the Retinue screen.",
     "original": "Inventory full? Buy carts and wagons for your company in the Retinue screen.",
-    "translation": "背包已满？在战团界面购买手推车和货车。",
+    "translation": "背包已满？在战团界面购买驴车和货车。",
     "stage": 1,
     "context": "'Inventory full? Buy carts and wagons for your company in the Retinue screen.'"
   }

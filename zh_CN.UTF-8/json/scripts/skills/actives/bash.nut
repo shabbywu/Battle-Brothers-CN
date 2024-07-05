@@ -3,8 +3,8 @@
     "ID": 293419806,
     "key": "[/color] extra fatigue",
     "original": "[/color] extra fatigue",
-    "translation": "[/color] 额外疲劳值",
-    "stage": 5,
+    "translation": "[/color] 点疲劳值",
+    "stage": 1,
     "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
   },
   {
@@ -19,8 +19,8 @@
     "ID": 293419808,
     "key": "Inflicts [color=",
     "original": "Inflicts [color=",
-    "translation": "造成 [color=",
-    "stage": 5,
+    "translation": "额外施加 [color=",
+    "stage": 1,
     "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
   },
   {

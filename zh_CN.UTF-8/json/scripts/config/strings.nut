@@ -1211,7 +1211,7 @@
     "ID": 293405787,
     "key": "Phylactery",
     "original": "Phylactery",
-    "translation": "护符",
+    "translation": "护命匣",
     "stage": 1,
     "context": "'Phylactery'"
   },
@@ -1291,7 +1291,7 @@
     "ID": 293405797,
     "key": "Ruins from an age long past.",
     "original": "Ruins from an age long past.",
-    "translation": "很久以前的废墟。",
+    "translation": "远古废墟。",
     "stage": 1,
     "context": "Ruin = 'Ruins from an age long past.'"
   },
@@ -1563,8 +1563,8 @@
     "ID": 293405831,
     "key": "Caravan Cart",
     "original": "Caravan Cart",
-    "translation": "商队运货马车",
-    "stage": 5,
+    "translation": "商队驴车",
+    "stage": 1,
     "context": "'Cart' = 'Caravan Cart'"
   },
   {
@@ -1579,8 +1579,8 @@
     "ID": 293405833,
     "key": "Al-Anwar",
     "original": "Al-Anwar",
-    "translation": "阿尔-安瓦尔",
-    "stage": 5,
+    "translation": "阿尔·安瓦尔",
+    "stage": 1,
     "context": "'Al-Anwar'"
   },
   {
@@ -1651,7 +1651,7 @@
     "ID": 293405842,
     "key": "Weilburg",
     "original": "Weilburg",
-    "translation": "威尔博格",
+    "translation": "魏尔堡",
     "stage": 1,
     "context": "'Weilburg'"
   },
@@ -2051,7 +2051,7 @@
     "ID": 293405892,
     "key": "Caravan Guard",
     "original": "Caravan Guard",
-    "translation": "商队卫队",
+    "translation": "商队护卫",
     "stage": 1,
     "context": "'Caravan Guard'"
   },
@@ -2419,7 +2419,7 @@
     "ID": 293405938,
     "key": "Ancient Legionary",
     "original": "Ancient Legionary",
-    "translation": "古代军团",
+    "translation": "古代军团士兵",
     "stage": 1,
     "context": "'Ancient Legionary'"
   },
@@ -2571,7 +2571,7 @@
     "ID": 293405957,
     "key": "Oathbringer",
     "original": "Oathbringer",
-    "translation": "誓约使者",
+    "translation": "守誓者",
     "stage": 1,
     "context": "'Oathbringer'"
   },
@@ -2731,7 +2731,7 @@
     "ID": 293405977,
     "key": "Fallen Betrayers",
     "original": "Fallen Betrayers",
-    "translation": "堕落的背叛者",
+    "translation": "堕落背叛者",
     "stage": 1,
     "context": "'Fallen Betrayers'"
   },
@@ -2747,7 +2747,7 @@
     "ID": 293405979,
     "key": "Al-Hazif",
     "original": "Al-Hazif",
-    "translation": "哈齐夫",
+    "translation": "阿尔·哈齐夫",
     "stage": 1,
     "context": "'Al-Hazif'"
   },
@@ -2835,7 +2835,7 @@
     "ID": 293405990,
     "key": "Bartholin",
     "original": "Bartholin",
-    "translation": "巴托林",
+    "translation": "巴托兰",
     "stage": 1,
     "context": "'Bartholin'"
   },
@@ -2931,7 +2931,7 @@
     "ID": 293406002,
     "key": "A caravan",
     "original": "A caravan",
-    "translation": "大篷车",
+    "translation": "商队",
     "stage": 1,
     "context": "'A caravan'"
   },
@@ -3419,8 +3419,8 @@
     "ID": 293406063,
     "key": "Al-Hazred",
     "original": "Al-Hazred",
-    "translation": "阿尔-哈兹雷德",
-    "stage": 5,
+    "translation": "阿尔·哈萨德",
+    "stage": 1,
     "context": "'Al-Hazred'"
   },
   {
@@ -3563,7 +3563,7 @@
     "ID": 293406081,
     "key": "Ancient Auxiliaries",
     "original": "Ancient Auxiliaries",
-    "translation": "古代辅军",
+    "translation": "古代辅兵",
     "stage": 1,
     "context": "'Ancient Auxiliaries'"
   },
@@ -3667,7 +3667,7 @@
     "ID": 293406094,
     "key": "Irrlicht",
     "original": "Irrlicht",
-    "translation": "伊尔利赫特",
+    "translation": "幻光之触",
     "stage": 1,
     "context": "'Irrlicht'"
   },
@@ -3891,7 +3891,7 @@
     "ID": 293406122,
     "key": "Ancient Legionaries",
     "original": "Ancient Legionaries",
-    "translation": "古代军团",
+    "translation": "古代军团士兵",
     "stage": 1,
     "context": "'Ancient Legionaries'"
   },
@@ -4219,7 +4219,7 @@
     "ID": 293406163,
     "key": "Gota",
     "original": "Gota",
-    "translation": "哥达",
+    "translation": "戈塔",
     "stage": 1,
     "context": "'Gota'"
   },
@@ -4603,7 +4603,7 @@
     "ID": 293406211,
     "key": "Caravan Guards",
     "original": "Caravan Guards",
-    "translation": "商队卫队",
+    "translation": "商队护卫",
     "stage": 1,
     "context": "'Caravan Guards'"
   },
@@ -4731,8 +4731,8 @@
     "ID": 293406227,
     "key": "Caravan Hand",
     "original": "Caravan Hand",
-    "translation": "商队队员",
-    "stage": 5,
+    "translation": "商队帮工",
+    "stage": 1,
     "context": "'Caravan Hand'"
   },
   {
@@ -4755,7 +4755,7 @@
     "ID": 293406230,
     "key": "A treetrunk half covered in foul water.",
     "original": "A treetrunk half covered in foul water.",
-    "translation": "一棵树干，一半被脏水覆盖。",
+    "translation": "一段半淹在脏水里的树桩。",
     "stage": 1,
     "context": "TreeTrunk = 'A treetrunk half covered in foul water.'"
   },
@@ -5883,8 +5883,8 @@
     "ID": 293406371,
     "key": "Cart",
     "original": "Cart",
-    "translation": "马车",
-    "stage": 5,
+    "translation": "驴车",
+    "stage": 1,
     "context": "'Cart'"
   },
   {
@@ -6003,7 +6003,7 @@
     "ID": 293406386,
     "key": "Fallen Betrayer",
     "original": "Fallen Betrayer",
-    "translation": "堕落的背叛者",
+    "translation": "堕落背叛者",
     "stage": 1,
     "context": "'Fallen Betrayer'"
   },
@@ -6059,7 +6059,7 @@
     "ID": 293406393,
     "key": "Ammondt",
     "original": "Ammondt",
-    "translation": "阿蒙德",
+    "translation": "阿蒙特",
     "stage": 1,
     "context": "'Ammondt'"
   },
@@ -6275,8 +6275,8 @@
     "ID": 293406420,
     "key": "Caravan Hands",
     "original": "Caravan Hands",
-    "translation": "商队队员",
-    "stage": 5,
+    "translation": "商队帮工",
+    "stage": 1,
     "context": "'Caravan Hands'"
   },
   {
@@ -6811,7 +6811,7 @@
     "ID": 293406487,
     "key": "Buy a Cart",
     "original": "Buy a Cart",
-    "translation": "购置马车",
+    "translation": "购置驴车",
     "stage": 1,
     "context": "'Buy a Cart'"
   },
@@ -6995,7 +6995,7 @@
     "ID": 293406510,
     "key": "Grimmund",
     "original": "Grimmund",
-    "translation": "格林蒙德",
+    "translation": "格里蒙德",
     "stage": 1,
     "context": "'Grimmund'"
   },
@@ -7883,7 +7883,7 @@
     "ID": 293406621,
     "key": "Master Archers",
     "original": "Master Archers",
-    "translation": "弓箭手大师",
+    "translation": "射手大师",
     "stage": 1,
     "context": "'Master Archers'"
   },
@@ -8275,8 +8275,8 @@
     "ID": 293406670,
     "key": "Azim Shab",
     "original": "Azim Shab",
-    "translation": "阿兹姆 沙布",
-    "stage": 5,
+    "translation": "阿齐姆 沙布",
+    "stage": 1,
     "context": "'Azim Shab'"
   },
   {
@@ -8387,7 +8387,7 @@
     "ID": 293406684,
     "key": "buy a cart",
     "original": "buy a cart",
-    "translation": "购置马车",
+    "translation": "购置驴车",
     "stage": 1,
     "context": "'buy a cart'"
   },
@@ -8467,8 +8467,8 @@
     "ID": 293406694,
     "key": "Armsberg",
     "original": "Armsberg",
-    "translation": "阿姆斯丘",
-    "stage": 5,
+    "translation": "阿姆斯贝格",
+    "stage": 1,
     "context": "'Armsberg'"
   },
   {
@@ -8491,7 +8491,7 @@
     "ID": 293406697,
     "key": "Master Archer",
     "original": "Master Archer",
-    "translation": "弓箭手大师",
+    "translation": "射手大师",
     "stage": 1,
     "context": "'Master Archer'"
   },
@@ -8531,8 +8531,8 @@
     "ID": 293406702,
     "key": "A cart full of trading goods.",
     "original": "A cart full of trading goods.",
-    "translation": "满载贸易商品的运货马车。",
-    "stage": 5,
+    "translation": "满载贸易商品的货运驴车。",
+    "stage": 1,
     "context": "Cart = 'A cart full of trading goods.'"
   },
   {
@@ -8563,8 +8563,8 @@
     "ID": 293406706,
     "key": "Caravan Carts",
     "original": "Caravan Carts",
-    "translation": "商队运货马车",
-    "stage": 5,
+    "translation": "商队驴车",
+    "stage": 1,
     "context": "'Caravan Carts'"
   },
   {
@@ -8667,7 +8667,7 @@
     "ID": 293406719,
     "key": "Ancient Auxiliary",
     "original": "Ancient Auxiliary",
-    "translation": "古代辅军",
+    "translation": "古代辅兵",
     "stage": 1,
     "context": "'Ancient Auxiliary'"
   },

@@ -11,7 +11,7 @@
     "ID": 293423394,
     "key": "Manage your retinue of non-combat followers",
     "original": "Manage your retinue of non-combat followers",
-    "translation": "管理你的非战斗追随者随从",
+    "translation": "管理你的非战斗追随者",
     "stage": 1,
     "context": "SubTitle = 'Manage your retinue of non-combat followers'"
   },

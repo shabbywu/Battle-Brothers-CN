@@ -131,7 +131,7 @@
     "ID": 293413057,
     "key": " suffers light wounds",
     "original": " suffers light wounds",
-    "translation": "遭受轻伤",
+    "translation": "受到了轻微伤",
     "stage": 1,
     "context": "text = bro.getName() + ' suffers light wounds'"
   },

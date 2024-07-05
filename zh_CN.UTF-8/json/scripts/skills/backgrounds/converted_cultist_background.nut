@@ -11,8 +11,8 @@
     "ID": 293420885,
     "key": "the Believer",
     "original": "the Believer",
-    "translation": "信徒(the Believer)",
-    "stage": 5,
+    "translation": "信徒",
+    "stage": 1,
     "context": "'the Believer'"
   },
   {

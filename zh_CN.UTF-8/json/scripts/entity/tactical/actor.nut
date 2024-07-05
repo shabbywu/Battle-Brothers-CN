@@ -11,8 +11,8 @@
     "ID": 293410233,
     "key": "Acts in ",
     "original": "Acts in ",
-    "translation": "行动于",
-    "stage": 5,
+    "translation": "将在",
+    "stage": 1,
     "context": "text = 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293410235,
     "key": " died in battle",
     "original": " died in battle",
-    "translation": "在战斗中死亡",
-    "stage": 5,
+    "translation": "在战斗中丧生",
+    "stage": 1,
     "context": "bro.worsenMood(this.Const.MoodChange.BrotherDied, this.getName() + ' died in battle')"
   },
   {
@@ -43,7 +43,7 @@
     "ID": 293410237,
     "key": " has died",
     "original": " has died",
-    "translation": "是死了",
+    "translation": "死了",
     "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(this) + ' has died')"
   },
@@ -51,7 +51,7 @@
     "ID": 293410238,
     "key": " has rallied",
     "original": " has rallied",
-    "translation": " 振作起来",
+    "translation": "振作了起来",
     "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this) + ' has rallied')"
   },
@@ -59,7 +59,7 @@
     "ID": 293410239,
     "key": " is struck down",
     "original": " is struck down",
-    "translation": " 被击倒",
+    "translation": "被击倒了",
     "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(this) + ' is struck down')"
   },
@@ -75,15 +75,15 @@
     "ID": 293410241,
     "key": " turns",
     "original": " turns",
-    "translation": "回合后",
-    "stage": 5,
+    "translation": "回合后行动",
+    "stage": 1,
     "context": "text = 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
   },
   {
     "ID": 293410242,
     "key": " has died.",
     "original": " has died.",
-    "translation": " 是死了.",
+    "translation": "死了。",
     "stage": 1,
     "context": "this.logDebug(this.getName() + ' has died.')"
   },
@@ -107,7 +107,7 @@
     "ID": 293410245,
     "key": " has struck down ",
     "original": " has struck down ",
-    "translation": " 击倒 ",
+    "translation": "击倒了",
     "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(_killer) + ' has struck down ' + this.Const.UI.getColorizedEntityName(this))"
   },
@@ -115,8 +115,8 @@
     "ID": 293410246,
     "key": " has retreated from battle",
     "original": " has retreated from battle",
-    "translation": "已经退出了战斗",
-    "stage": 5,
+    "translation": "撤出了战斗",
+    "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this) + ' has retreated from battle')"
   },
   {
@@ -131,7 +131,7 @@
     "ID": 293410248,
     "key": "[/b] damage and suffers ",
     "original": "[/b] damage and suffers ",
-    "translation": "[/b]点伤害并遭受",
+    "translation": "[/b]点伤害，身受",
     "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(this) + \"'s \" + this.Const.Strings.BodyPartName[_hitInfo.BodyPart] + ' is hit for [b]' + this.Math.floor(damage) + '[/b] damage and suffers ' + injury.getNameOnly() + '!')"
   },
@@ -155,8 +155,8 @@
     "ID": 293410251,
     "key": "Acting right now!",
     "original": "Acting right now!",
-    "translation": "现在行动！",
-    "stage": 5,
+    "translation": "正在行动！",
+    "stage": 1,
     "context": "text = 'Acting right now!'"
   },
   {
@@ -171,7 +171,7 @@
     "ID": 293410253,
     "key": " is unconscious.",
     "original": " is unconscious.",
-    "translation": " 是无意识的。",
+    "translation": "失去意识。",
     "stage": 1,
     "context": "this.logDebug(this.getName() + ' is unconscious.')"
   },
@@ -203,7 +203,7 @@
     "ID": 293410257,
     "key": "Turn started for ",
     "original": "Turn started for ",
-    "translation": "回合开始于：",
+    "translation": "角色回合开始：",
     "stage": 1,
     "context": "this.logDebug('Turn started for ' + this.getName())"
   },
@@ -243,8 +243,8 @@
     "ID": 293410262,
     "key": " turn",
     "original": " turn",
-    "translation": "回合后",
-    "stage": 5,
+    "translation": "回合后行动",
+    "stage": 1,
     "context": "text = 'Acts in ' + turnsToGo + turnsToGo > 1 ? ' turns' : ' turn'"
   }
 ]
