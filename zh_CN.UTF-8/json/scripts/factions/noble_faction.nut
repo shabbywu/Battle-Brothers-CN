@@ -11,8 +11,8 @@
     "ID": 293417414,
     "key": "von ",
     "original": "von ",
-    "translation": "冯·",
-    "stage": 5,
+    "translation": "·冯·",
+    "stage": 1,
     "context": "character.setTitle('von ' + this.m.Name)"
   },
   {

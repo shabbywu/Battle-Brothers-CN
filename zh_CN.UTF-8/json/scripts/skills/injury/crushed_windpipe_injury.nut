@@ -3,8 +3,8 @@
     "ID": 293421896,
     "key": "]-50%[/color] Max Fatigue",
     "original": "]-50%[/color] Max Fatigue",
-    "translation": "]-50%[/color] 最大疲劳值",
-    "stage": 5,
+    "translation": "]-50%[/color] 疲劳值上限",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Max Fatigue'"
   },
   {

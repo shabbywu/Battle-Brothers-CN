@@ -3,7 +3,7 @@
     "ID": 293417942,
     "key": "Reduces an armor's penalty to Maximum Fatigue by [color=",
     "original": "Reduces an armor's penalty to Maximum Fatigue by [color=",
-    "translation": "减少一件盔甲的最大疲劳值惩罚 [color=",
+    "translation": "减少一件盔甲的疲劳值上限惩罚 [color=",
     "stage": 1,
     "context": "text = \"Reduces an armor's penalty to Maximum Fatigue by [color=\" + this.Const.UI.Color.NegativeValue + ']20%[/color]'"
   },

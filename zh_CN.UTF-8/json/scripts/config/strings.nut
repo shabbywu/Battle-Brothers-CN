@@ -403,7 +403,7 @@
     "ID": 293405686,
     "key": "]-25%[/color] of the base maximum fatigue (before penalties due to armor are applied).",
     "original": "]-25%[/color] of the base maximum fatigue (before penalties due to armor are applied).",
-    "translation": "]25%[/color] 的基础最大疲劳（即在应用护甲惩罚之前的疲劳值）。",
+    "translation": "]25%[/color] 的基础疲劳值上限（即在应用护甲惩罚之前的疲劳值）。",
     "stage": 1,
     "context": "BattleFlow = 'Once per turn, killing an opponent reduces current fatigue by [color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] of the base maximum fatigue (before penalties due to armor are applied).'"
   },
@@ -1563,7 +1563,7 @@
     "ID": 293405831,
     "key": "Caravan Cart",
     "original": "Caravan Cart",
-    "translation": "商队驴车",
+    "translation": "商队货车",
     "stage": 1,
     "context": "'Cart' = 'Caravan Cart'"
   },
@@ -2203,7 +2203,7 @@
     "ID": 293405911,
     "key": "]4[/color] Action Points are immediately regained. Characters can not regain more than their maximum Action Points and no more than 4 for a single attack.",
     "original": "]4[/color] Action Points are immediately regained. Characters can not regain more than their maximum Action Points and no more than 4 for a single attack.",
-    "translation": "]4[/color] 行动点数。 角色恢复的行动点数不能超过其最大行动点数，一次攻击击杀多名敌人也只恢复 4 行动点数",
+    "translation": "]4[/color] 行动点数。 角色恢复的行动点数不能超过其行动点数上限，一次攻击击杀多名敌人也只恢复 4 行动点数",
     "stage": 1,
     "context": "Berserk = 'RAAARGH! Once per turn, upon killing an enemy, [color=' + this.Const.UI.Color.PositiveValue + ']4[/color] Action Points are immediately regained. Characters can not regain more than their maximum Action Points and no more than 4 for a single attack.'"
   },
@@ -4763,7 +4763,7 @@
     "ID": 293406231,
     "key": "Mercenary life comes easy when you're naturally gifted. Instantly gain a levelup to increase this character's attributes with maximum rolls, but without talents.",
     "original": "Mercenary life comes easy when you're naturally gifted. Instantly gain a levelup to increase this character's attributes with maximum rolls, but without talents.",
-    "translation": "当你天生就有天赋时，雇佣兵的生活会变得很容易。立即升级以增加此角色的属性，数值为最大掷骰数，但没有天赋加成。",
+    "translation": "当你天生就有天赋时，雇佣兵的生活会变得很容易。立即升级以增加此角色的属性，数值为最大掷骰值，但没有天赋加成。",
     "stage": 1,
     "context": "Gifted = \"Mercenary life comes easy when you're naturally gifted. Instantly gain a levelup to increase this character's attributes with maximum rolls, but without talents.\""
   },
@@ -5219,7 +5219,7 @@
     "ID": 293406288,
     "key": "Unlock two extra bag slots to carry all your favorite things. Items placed in bags no longer give a penalty to Maximum Fatigue, except for two-handed weapons.",
     "original": "Unlock two extra bag slots to carry all your favorite things. Items placed in bags no longer give a penalty to Maximum Fatigue, except for two-handed weapons.",
-    "translation": "解锁两个额外的包槽以携带所有您喜爱的物品。放在袋子里的物品不再对最大疲劳值造成惩罚，除了双手武器。",
+    "translation": "解锁两个额外的背包槽位，好带上所有喜爱的物品。放在背包里的物品不再对疲劳值上限造成惩罚，双手武器除外。",
     "stage": 1,
     "context": "BagsAndBelts = 'Unlock two extra bag slots to carry all your favorite things. Items placed in bags no longer give a penalty to Maximum Fatigue, except for two-handed weapons.'"
   },
@@ -5883,7 +5883,7 @@
     "ID": 293406371,
     "key": "Cart",
     "original": "Cart",
-    "translation": "驴车",
+    "translation": "板车",
     "stage": 1,
     "context": "'Cart'"
   },
@@ -6155,7 +6155,7 @@
     "ID": 293406405,
     "key": "]15%[/color] of this character's Resolve as a bonus added to their own, up to a maximum of this character's Resolve.\n\nDoes not stack; the sergeant with the highest Resolve will apply the bonus.",
     "original": "]15%[/color] of this character's Resolve as a bonus added to their own, up to a maximum of this character's Resolve.\n\nDoes not stack; the sergeant with the highest Resolve will apply the bonus.",
-    "translation": "]15%[/color] 的决心加成，但加成后的最大值不会超过这个角色的决心。\n\n不叠加, 范围内有多个角色具有该特权时, 取最大决心值。",
+    "translation": "]15%[/color] 的决心加成，但加成后的最大值不会超过这个角色的决心。\n\n不叠加, 范围内有多个角色具有该特技时, 取最大决心值。",
     "stage": 1,
     "context": "Captain = 'Use a sergeant on the battlefield as an extension of your leadership and to keep everyone in line. Allies at a range of 5 tiles or less will get [color=' + this.Const.UI.Color.PositiveValue + \"]15%[/color] of this character's Resolve as a bonus added to their own, up to a maximum of this character's Resolve.\n\nDoes not stack; the sergeant with the highest Resolve will apply the bonus.\""
   },
@@ -6811,7 +6811,7 @@
     "ID": 293406487,
     "key": "Buy a Cart",
     "original": "Buy a Cart",
-    "translation": "购置驴车",
+    "translation": "购置板车",
     "stage": 1,
     "context": "'Buy a Cart'"
   },
@@ -7963,7 +7963,7 @@
     "ID": 293406631,
     "key": "]60%[/color], but lowered exponentially by the total penalty to Maximum Fatigue from body and head armor above [color=",
     "original": "]60%[/color], but lowered exponentially by the total penalty to Maximum Fatigue from body and head armor above [color=",
-    "translation": "]60%[/color]，但在盔甲和头盔的最大疲劳值超过[color=",
+    "translation": "]60%[/color]，但在盔甲和头盔的疲劳值上限减益超过[color=",
     "stage": 1,
     "context": "Nimble = 'Specialize in light armor! By nimbly dodging or deflecting blows, convert any hits to glancing hits. Hitpoint damage taken is reduced by up to [color=' + this.Const.UI.Color.PositiveValue + ']60%[/color], but lowered exponentially by the total penalty to Maximum Fatigue from body and head armor above [color=' + this.Const.UI.Color.PositiveValue + ']15[/color]. The lighter your armor and helmet, the more you benefit.\n\nBrawny does not affect this perk.\n\nDoes not affect damage from mental attacks or status effects, but can help to avoid receiving them.'"
   },
@@ -8387,7 +8387,7 @@
     "ID": 293406684,
     "key": "buy a cart",
     "original": "buy a cart",
-    "translation": "购置驴车",
+    "translation": "购置板车",
     "stage": 1,
     "context": "'buy a cart'"
   },
@@ -8563,7 +8563,7 @@
     "ID": 293406706,
     "key": "Caravan Carts",
     "original": "Caravan Carts",
-    "translation": "商队驴车",
+    "translation": "商队货车",
     "stage": 1,
     "context": "'Caravan Carts'"
   },

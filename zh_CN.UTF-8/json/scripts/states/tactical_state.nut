@@ -315,7 +315,7 @@
     "ID": 293422840,
     "key": "Felt useless in reserve",
     "original": "Felt useless in reserve",
-    "translation": "在后备中派不上用场",
+    "translation": "在后备中无所事事",
     "stage": 1,
     "context": "bro.worsenMood(this.Const.MoodChange.BattleWithoutMe, 'Felt useless in reserve')"
   }

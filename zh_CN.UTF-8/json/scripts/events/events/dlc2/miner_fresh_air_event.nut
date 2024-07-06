@@ -19,7 +19,7 @@
     "ID": 293413992,
     "key": "[/color] Max Fatigue",
     "original": "[/color] Max Fatigue",
-    "translation": "[/color] 最大疲劳值",
+    "translation": "[/color] 点疲劳值上限",
     "stage": 1,
     "context": "text = _event.m.Miner.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + stamina + '[/color] Max Fatigue'"
   },
