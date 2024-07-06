@@ -11,7 +11,7 @@
     "ID": 293403568,
     "key": "A cart to carry our things is fine and all, but it won't do.\nLet's save up 15,000 crowns and buy us a real wagon!",
     "original": "A cart to carry our things is fine and all, but it won't do.\nLet's save up 15,000 crowns and buy us a real wagon!",
-    "translation": " 一辆小货车来搬运我们的东西很好，但是还不够好。\n让我们存够15000克朗来买一辆真正的载重货车！",
+    "translation": "一辆小板车来搬运我们的东西很好，但是还不够好。\n让我们存够15000克朗来买一辆真正的载重货车！",
     "stage": 1,
     "context": "this.m.ButtonText = \"A cart to carry our things is fine and all, but it won't do.\nLet's save up 15,000 crowns and buy us a real wagon!\""
   },

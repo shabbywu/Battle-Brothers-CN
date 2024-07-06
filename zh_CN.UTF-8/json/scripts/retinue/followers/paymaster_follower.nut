@@ -11,7 +11,7 @@
     "ID": 293419601,
     "key": "Reduces the daily wage of each man by 15%",
     "original": "Reduces the daily wage of each man by 15%",
-    "translation": "每人每日工资减少15%",
+    "translation": "所有人的日薪降低15%",
     "stage": 1,
     "context": "'Reduces the daily wage of each man by 15%'"
   },

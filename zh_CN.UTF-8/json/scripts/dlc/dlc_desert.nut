@@ -59,7 +59,7 @@
     "ID": 293410163,
     "key": "Hire non-combat followers for your retinue to customize your campaign to your playstyle.",
     "original": "Hire non-combat followers for your retinue to customize your campaign to your playstyle.",
-    "translation": "雇佣非战斗跟随者加入你的随行人员，根据你的游戏风格定制你的战役。",
+    "translation": "雇佣非战斗追随者者加入随行人员，根据游戏风格定制你的战役。",
     "stage": 1,
     "context": "'Hire non-combat followers for your retinue to customize your campaign to your playstyle.'"
   },
@@ -99,7 +99,7 @@
     "ID": 293410168,
     "key": "With the 'Gladiators' origin you start with three powerful characters, but losing all three will end your campaign.",
     "original": "With the 'Gladiators' origin you start with three powerful characters, but losing all three will end your campaign.",
-    "translation": "在“角斗士”起源游戏中，你将拥有3个强大的初始角色，失去全部3人将使游戏结束。",
+    "translation": "在“角斗士”起源游戏中，你将拥有3个强大的初始角色，失去全部3人将使游戏（战役）结束。",
     "stage": 1,
     "context": "\"With the 'Gladiators' origin you start with three powerful characters, but losing all three will end your campaign.\""
   },
@@ -235,7 +235,7 @@
     "ID": 293410185,
     "key": "Inventory full? Buy carts and wagons for your company in the Retinue screen.",
     "original": "Inventory full? Buy carts and wagons for your company in the Retinue screen.",
-    "translation": "背包已满？在战团界面购买驴车和货车。",
+    "translation": "背包已满？在战团界面购买板车和货车。",
     "stage": 1,
     "context": "'Inventory full? Buy carts and wagons for your company in the Retinue screen.'"
   }

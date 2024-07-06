@@ -59,7 +59,7 @@
     "ID": 293412567,
     "key": "[/color] Max Fatigue",
     "original": "[/color] Max Fatigue",
-    "translation": "[/color]点最大疲劳值",
+    "translation": "[/color]点疲劳值上限",
     "stage": 1,
     "context": "text = _event.m.Apprentice.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + stamina + '[/color] Max Fatigue'"
   },

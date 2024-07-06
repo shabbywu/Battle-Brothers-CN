@@ -19,7 +19,7 @@
     "ID": 293417959,
     "key": "]-4[/color] Maximum Fatigue",
     "original": "]-4[/color] Maximum Fatigue",
-    "translation": "]-4[/color] 最大疲劳值",
+    "translation": "]-4[/color] 疲劳值上限",
     "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-4[/color] Maximum Fatigue'"
   },

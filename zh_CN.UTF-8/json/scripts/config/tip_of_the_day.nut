@@ -67,7 +67,7 @@
     "ID": 293406865,
     "key": "Try playing a campaign in veteran mode once you've gained some experience - it's the recommended difficulty.",
     "original": "Try playing a campaign in veteran mode once you've gained some experience - it's the recommended difficulty.",
-    "translation": "积累了一些经验后，试着开一局老兵难度游戏，这是推荐的难度。",
+    "translation": "积累了一些经验后，试着开一局老兵难度游戏（战役），这是推荐的难度。",
     "stage": 1,
     "context": "\"Try playing a campaign in veteran mode once you've gained some experience - it's the recommended difficulty.\""
   },

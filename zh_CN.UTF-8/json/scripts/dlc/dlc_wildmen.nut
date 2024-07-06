@@ -51,7 +51,7 @@
     "ID": 293410221,
     "key": "With the 'Lone Wolf' origin you'll have a player character in the world. If you die, the campaign ends.",
     "original": "With the 'Lone Wolf' origin you'll have a player character in the world. If you die, the campaign ends.",
-    "translation": "在“独狼”起源游戏中，你将拥有一个玩家角色。如果你死了，游戏就结束了。",
+    "translation": "在“独狼”起源游戏中，你将拥有一个玩家角色。如果你死了，游戏（战役）就结束了。",
     "stage": 1,
     "context": "\"With the 'Lone Wolf' origin you'll have a player character in the world. If you die, the campaign ends.\""
   },
@@ -83,7 +83,7 @@
     "ID": 293410225,
     "key": "Try different origins to tailor your campaign to your play style.",
     "original": "Try different origins to tailor your campaign to your play style.",
-    "translation": "尝试不同的起源来定制你的战役以适应你的游戏风格。",
+    "translation": "根据游戏风格选择不同起源，定制你的战役。",
     "stage": 1,
     "context": "'Try different origins to tailor your campaign to your play style.'"
   },
