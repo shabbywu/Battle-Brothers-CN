@@ -283,7 +283,7 @@
     "ID": 293422988,
     "key": "Men in formation",
     "original": "Men in formation",
-    "translation": "作战序列中的角色",
+    "translation": "战斗序列中的角色",
     "stage": 1,
     "context": "text = 'Men in formation'"
   },
@@ -379,7 +379,7 @@
     "ID": 293423000,
     "key": "\n\nHealing up all your men will take between [color=",
     "original": "\n\nHealing up all your men will take between [color=",
-    "translation": "\n\n治愈所有士兵需要花上 [color=",
+    "translation": "\n\n治愈所有士兵需要花上[color=",
     "stage": 1,
     "context": "desc = desc + '\n\nHealing up all your men will take between [color=' + this.Const.UI.Color.PositiveValue + ']' + heal.DaysMin + '[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']' + heal.DaysMax + '[/color] days and requires between '"
   },
@@ -603,7 +603,7 @@
     "ID": 293423028,
     "key": "[/color] days and requires between ",
     "original": "[/color] days and requires between ",
-    "translation": "[/color] 天并需要大约",
+    "translation": "[/color]天并需要大约",
     "stage": 1,
     "context": "desc = desc + '\n\nHealing up all your men will take between [color=' + this.Const.UI.Color.PositiveValue + ']' + heal.DaysMin + '[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']' + heal.DaysMax + '[/color] days and requires between '"
   },
@@ -1035,7 +1035,7 @@
     "ID": 293423082,
     "key": "[/color] days",
     "original": "[/color] days",
-    "translation": "[/color] 天内治愈",
+    "translation": "[/color]天内治愈",
     "stage": 1,
     "context": "text = 'Will heal in [color=' + this.Const.UI.Color.NegativeValue + ']' + entity.getDaysWounded() + '[/color] days'"
   },
@@ -1379,7 +1379,7 @@
     "ID": 293423125,
     "key": "[/color] hours and requires ",
     "original": "[/color] hours and requires ",
-    "translation": "[/color] 小时并消耗",
+    "translation": "[/color]小时并消耗",
     "stage": 1,
     "context": "desc = desc + '\n\nRepairing all your equipment will take [color=' + this.Const.UI.Color.PositiveValue + ']' + repair.Hours + '[/color] hours and requires '"
   },
@@ -2539,7 +2539,7 @@
     "ID": 293423270,
     "key": "[/color] tools and supplies.",
     "original": "[/color] tools and supplies.",
-    "translation": "[/color] 工具和补给。",
+    "translation": "[/color]工具和补给。",
     "stage": 1,
     "context": "desc = desc + repair.ArmorParts + '[/color] tools and supplies.'"
   },

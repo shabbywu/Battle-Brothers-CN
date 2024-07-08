@@ -339,7 +339,7 @@
     "ID": 293406899,
     "key": "Consider putting injured characters in reserve until their wounds have healed.",
     "original": "Consider putting injured characters in reserve until their wounds have healed.",
-    "translation": "考虑将受伤的角色放到预备队，伤口愈合后再加入作战序列。",
+    "translation": "考虑将受伤的角色放到预备队，伤口愈合后再加入战斗序列。",
     "stage": 1,
     "context": "'Consider putting injured characters in reserve until their wounds have healed.'"
   },
