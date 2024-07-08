@@ -1382,8 +1382,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:45.456Z",
         "updatedAt": "2023-06-26T05:46:36.003Z",
-        "modifiedAt": "2024-07-05T01:59:31Z",
-        "sha256": "b6d076c94da2492723086c5b07909c9ee88a806e37eff0a7ac00e7b14a40f984"
+        "modifiedAt": "2024-07-07T12:27:48Z",
+        "sha256": "3abd4d911f5b4a830bcc81f5d83179ac9a67336a6b8c0b31ae63eb3c6d462be4"
     },
     "scripts/config/world.json": {
         "id": 918423,
@@ -10760,8 +10760,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:16.141Z",
         "updatedAt": "2023-06-26T05:47:45.87Z",
-        "modifiedAt": "2024-05-13T02:55:00Z",
-        "sha256": "98d4a648d28e37e93c93c3f0aad0e1ee7ffbb56e46487b6fee916f3962f80711"
+        "modifiedAt": "2024-07-07T12:32:20Z",
+        "sha256": "cf44a0e4afaa23f509e298ba5d02d95da1c871589728e402c3ba0558620a44c0"
     },
     "scripts/events/events/dlc4/drunk_nobleman_event.json": {
         "id": 918944,
@@ -12794,8 +12794,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:58.864Z",
         "updatedAt": "2023-07-05T12:36:05.43Z",
-        "modifiedAt": "2024-05-13T02:55:00Z",
-        "sha256": "4d0aa9ed08762134d700198d22e4908ae0be3ffb50503d4325908c9ed44ad6b9"
+        "modifiedAt": "2024-07-07T12:32:08Z",
+        "sha256": "318fc4436fd0185e9c1f0c55354916fcef8e1680da09e51d32378ccaae9a6ea2"
     },
     "scripts/events/events/dlc8/shadow_dissection_event.json": {
         "id": 919057,
@@ -15296,8 +15296,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:57.646Z",
         "updatedAt": "2023-06-26T05:48:16.388Z",
-        "modifiedAt": "2024-05-13T02:55:00Z",
-        "sha256": "971d0aaa2ce6c9d7daca9e229cffd0fd175278aa7713517dfafcd03de3e0e072"
+        "modifiedAt": "2024-07-07T12:31:52Z",
+        "sha256": "321477b53cb2edd2dbfc40e8d75aaeb1dbf63a15238cfec96f680301220c0113"
     },
     "scripts/events/events/training_accident_event.json": {
         "id": 919196,
@@ -39344,8 +39344,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:05.329Z",
         "updatedAt": "2023-07-05T12:36:11.027Z",
-        "modifiedAt": "2024-07-05T03:34:15Z",
-        "sha256": "0e46edb724534de45324dc97cf623c7e2ca64ae6e6dfc94c1a40d716019392d5"
+        "modifiedAt": "2024-07-07T12:31:46Z",
+        "sha256": "4a3d998a3b81e748c5feb5c4cdf7d7c64c7791d88a4bb8841dc5a0a42ae05d09"
     },
     "scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.json": {
         "id": 920532,
