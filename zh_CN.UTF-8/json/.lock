@@ -176,8 +176,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:15:13.981Z",
         "updatedAt": "2023-06-26T05:46:20.878Z",
-        "modifiedAt": "2024-07-05T09:06:18Z",
-        "sha256": "4df427f076f3ddba9729a7a68034552522228f12a0142837a3488e79450cadcf"
+        "modifiedAt": "2024-07-08T01:42:37Z",
+        "sha256": "3227d8470e80819f14921e046c849f955b2995306b67fa3c378af0f514f8ced2"
     },
     "scripts/ambitions/ambitions/contracts_ambition.json": {
         "id": 918356,
@@ -224,14 +224,14 @@
         "total": 9,
         "translated": 9,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:15:15.342Z",
         "updatedAt": "2023-06-26T05:46:21.53Z",
-        "modifiedAt": "2024-05-24T14:32:23Z",
-        "sha256": "0c23eebb169c4b19926dc9c90bcc0bf3d86f581f9bbb09822779ff01ae41ace0"
+        "modifiedAt": "2024-07-08T01:57:45Z",
+        "sha256": "a0ed5aacf21e5bc5eda41dce5a6e72385acc109266aa6e9a527a2b565ac02c34"
     },
     "scripts/ambitions/ambitions/defeat_goblin_location_ambition.json": {
         "id": 918359,
@@ -248,8 +248,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:15:15.697Z",
         "updatedAt": "2023-06-26T05:46:21.815Z",
-        "modifiedAt": "2024-07-02T04:20:15Z",
-        "sha256": "720f1c8ce28ed420e320b716355b02aca2d257e1b40af9a126618c794a913c42"
+        "modifiedAt": "2024-07-08T02:01:41Z",
+        "sha256": "56c36a0d4a1aaba76730b80a5116ab5216dafc073d6c2cbfacbf05ec11527a2d"
     },
     "scripts/ambitions/ambitions/defeat_greenskins_ambition.json": {
         "id": 918360,
@@ -266,8 +266,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:15:16.355Z",
         "updatedAt": "2023-06-26T05:46:21.951Z",
-        "modifiedAt": "2024-07-02T04:24:26Z",
-        "sha256": "cd89dce49562643bcabf685b896ec0cbf370e15a49bc1bbe54426f0b126528f6"
+        "modifiedAt": "2024-07-08T02:25:04Z",
+        "sha256": "0530744f4cd249fda0bf331fcf4dba1d81960fac2ae79edcb0de878473b1995d"
     },
     "scripts/ambitions/ambitions/defeat_holywar_ambition.json": {
         "id": 918361,
@@ -278,14 +278,14 @@
         "total": 10,
         "translated": 10,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:15:16.997Z",
         "updatedAt": "2023-06-26T05:46:22.253Z",
-        "modifiedAt": "2024-07-02T04:27:28Z",
-        "sha256": "545751bdabc3c81794adb85183998252e8a56ceb2aaf7b67ea4fcf7402fa6fd8"
+        "modifiedAt": "2024-07-08T02:35:40Z",
+        "sha256": "58b2d3dc802c92f049f6cc82f85503bb5bb2cc2436e2848a893ebdc8a986808e"
     },
     "scripts/ambitions/ambitions/defeat_kraken_ambition.json": {
         "id": 918362,
@@ -302,8 +302,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:15:17.347Z",
         "updatedAt": "2023-06-26T05:46:22.401Z",
-        "modifiedAt": "2024-01-02T04:08:18Z",
-        "sha256": "22262941ca4899dc140c233f5beee65252b0bfb95a35cb9c6a905764747700aa"
+        "modifiedAt": "2024-07-08T03:00:02Z",
+        "sha256": "5214a8ba9c4ef6744a79ce5fc9def077f303153faf9268b3e9093b20845b9250"
     },
     "scripts/ambitions/ambitions/defeat_mercenaries_ambition.json": {
         "id": 918363,
@@ -314,14 +314,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:15:17.723Z",
         "updatedAt": "2023-06-26T05:46:22.723Z",
-        "modifiedAt": "2024-05-24T14:36:03Z",
-        "sha256": "4cb7d6d7c1c6018f4bb284814846dc6db719945edc3d32e888cf10878ae73c4d"
+        "modifiedAt": "2024-07-08T03:04:40Z",
+        "sha256": "e37e1ffbb1cdabd6808bc3057718e527388637a1ca27037cc2b4f067a3831f40"
     },
     "scripts/ambitions/ambitions/defeat_orc_location_ambition.json": {
         "id": 918364,
@@ -338,8 +338,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:15:18.071Z",
         "updatedAt": "2023-06-26T05:46:22.857Z",
-        "modifiedAt": "2024-01-02T06:26:34Z",
-        "sha256": "52cbf4ad539645d9640860c5a853ae8f1a95d10491efa7a6728bddf112be98a2"
+        "modifiedAt": "2024-07-08T03:08:33Z",
+        "sha256": "779e6df425c7c9b336f49efa3330d30407b51daeeb25280b35a470bdcf2b4a9f"
     },
     "scripts/ambitions/ambitions/defeat_undead_ambition.json": {
         "id": 918365,
@@ -356,8 +356,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:15:18.42Z",
         "updatedAt": "2023-06-26T05:46:22.991Z",
-        "modifiedAt": "2024-01-02T06:39:00Z",
-        "sha256": "83fd94738b2b6a3d6bb6c3fcf7a2fa1d85ec8f34332ce6202202be6f87d30a5d"
+        "modifiedAt": "2024-07-08T03:10:30Z",
+        "sha256": "91f82872df6cd40df81b2b0896ee354507c8f71b28afe9c85c4e4ce566592627"
     },
     "scripts/ambitions/ambitions/defeat_undead_location_ambition.json": {
         "id": 918366,
@@ -374,8 +374,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:23.643Z",
         "updatedAt": "2023-06-26T05:46:23.114Z",
-        "modifiedAt": "2024-01-02T06:57:18Z",
-        "sha256": "e83c01efb065b22aff9e2939aae23cbf32c396cddbddc9b3cee14274bcaa28fc"
+        "modifiedAt": "2024-07-08T03:12:02Z",
+        "sha256": "a9369df982ce732f8df394633eb8d14f61e03056d03798a49cb65f949dee2f6f"
     },
     "scripts/ambitions/ambitions/discover_all_unique_locations_ambition.json": {
         "id": 918367,
@@ -392,8 +392,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:24.001Z",
         "updatedAt": "2023-06-26T05:46:23.24Z",
-        "modifiedAt": "2024-01-02T07:27:20Z",
-        "sha256": "ea18100b464983f276cef4babe9733e14c7dd0d33b063eb9dec7220c489642fa"
+        "modifiedAt": "2024-07-08T03:19:37Z",
+        "sha256": "342e2d8513c9a6a10e45d2d2412006d5974dda505802e78a181926a794cc84f6"
     },
     "scripts/ambitions/ambitions/discover_locations_ambition.json": {
         "id": 918368,
@@ -410,8 +410,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:24.349Z",
         "updatedAt": "2023-06-26T05:46:23.312Z",
-        "modifiedAt": "2024-01-02T07:37:06Z",
-        "sha256": "73e89ce363f441a7d75fbff443b9ea753ec46dc4687f5252c992a26f2716ec8c"
+        "modifiedAt": "2024-07-08T03:20:26Z",
+        "sha256": "e6019d9ba9de828b161a5ba7400228e0a20f30a4370e7c67038acbef2e809c7f"
     },
     "scripts/ambitions/ambitions/discover_unique_locations_ambition.json": {
         "id": 918369,
@@ -428,8 +428,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:24.718Z",
         "updatedAt": "2023-06-26T05:46:23.391Z",
-        "modifiedAt": "2024-01-02T07:59:24Z",
-        "sha256": "796e9baa25f1bac55b92b24d13c41ad2c4467d1ae5f609ce93443c762395ef71"
+        "modifiedAt": "2024-07-08T03:22:53Z",
+        "sha256": "5da27c8373eae86b239abfa425ceb8bcbb873a1d43763ebf76a2fa9bd172c20c"
     },
     "scripts/ambitions/ambitions/find_and_destroy_location_ambition.json": {
         "id": 918370,
@@ -440,14 +440,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:25.053Z",
         "updatedAt": "2023-06-26T05:46:23.454Z",
-        "modifiedAt": "2023-06-26T05:46:23Z",
-        "sha256": "05bd427c0e486f81a0a20ce75ecf38bf52eaf1a71e542b798f28466f48f99ddd"
+        "modifiedAt": "2024-07-08T03:28:13Z",
+        "sha256": "13633e78f238ca581c3d1a8a45369416c1eed2f734f53a7655843414721d8cce"
     },
     "scripts/ambitions/ambitions/fulfill_x_southern_contracts_ambition.json": {
         "id": 918371,
@@ -464,8 +464,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:25.408Z",
         "updatedAt": "2023-06-26T05:46:23.816Z",
-        "modifiedAt": "2024-01-02T08:05:53Z",
-        "sha256": "3ea6669fdd814c7619aba245b5372208b5abd984d583edef9ef9e6032173ae6e"
+        "modifiedAt": "2024-07-08T03:35:39Z",
+        "sha256": "29673b46f4fe4cf3435b517f3f48e3c2e3ac9d3c2f05cb334d314690f3625865"
     },
     "scripts/ambitions/ambitions/hammer_mastery_ambition.json": {
         "id": 918372,
@@ -806,8 +806,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:32.742Z",
         "updatedAt": "2023-06-26T05:46:27.217Z",
-        "modifiedAt": "2024-05-24T14:39:58Z",
-        "sha256": "ecd0c1cb48e4543b057bf56f65cdeb207a43be847d90e03d2970d3795cb173be"
+        "modifiedAt": "2024-07-08T02:00:15Z",
+        "sha256": "35ad6dcec8069df178b7ac82b8f1516e02c1f503ea5b03f7e31595a3c9022c40"
     },
     "scripts/ambitions/ambitions/taxidermist_ambition.json": {
         "id": 918391,

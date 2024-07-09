@@ -35,7 +35,7 @@
     "ID": 293403544,
     "key": "You'll be awarded a unique accessory that grants the wearer additional resolve.",
     "original": "You'll be awarded a unique accessory that grants the wearer additional resolve.",
-    "translation": "你将获得一个独特的能增加佩戴者额外的决心的配饰。",
+    "translation": "你将获得一个独特配饰，它能给佩戴者额外的决心。",
     "stage": 1,
     "context": "this.m.RewardTooltip = \"You'll be awarded a unique accessory that grants the wearer additional resolve.\""
   },
