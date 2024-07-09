@@ -35,7 +35,7 @@
     "ID": 293403347,
     "key": "You'll be awarded a unique accessory that makes the wearer immune to being rooted.",
     "original": "You'll be awarded a unique accessory that makes the wearer immune to being rooted.",
-    "translation": "你将获得一件独特的配饰，使佩戴者免疫定身。",
+    "translation": "你将获得一件独特的配饰，它能使佩戴者免疫定身。",
     "stage": 1,
     "context": "this.m.RewardTooltip = \"You'll be awarded a unique accessory that makes the wearer immune to being rooted.\""
   },
@@ -43,7 +43,7 @@
     "ID": 293403348,
     "key": "Only the most daring take on goblins in larger numbers. We shall burn some\nof their fetid camps to the ground, and word of it will travel!",
     "original": "Only the most daring take on goblins in larger numbers. We shall burn some\nof their fetid camps to the ground, and word of it will travel!",
-    "translation": "只有最勇敢的人才敢对抗大规模的地精。 \n我们要把他们的一些臭气熏天的营地夷为平地，让消息传出去！",
+    "translation": "只有最勇敢的人才敢对抗大规模的地精。\n我们要把他们的一些臭气熏天的营地夷为平地，让消息传出去！",
     "stage": 1,
     "context": "this.m.ButtonText = 'Only the most daring take on goblins in larger numbers. We shall burn some\nof their fetid camps to the ground, and word of it will travel!'"
   },
@@ -51,7 +51,7 @@
     "ID": 293403349,
     "key": "Destroy four locations controlled by goblins to prove the company's prowess, whether as part of a contract or by heading out on your own. You'll also need space enough in your inventory for a new item.",
     "original": "Destroy four locations controlled by goblins to prove the company's prowess, whether as part of a contract or by heading out on your own. You'll also need space enough in your inventory for a new item.",
-    "translation": "摧毁四个地精营地来证明战团的实力，无论是作为合同的一部分，还是通过自己发现。 你还需要在仓库中留出足够的空间来存放一个新物品。",
+    "translation": "摧毁四个地精营地来证明战团的实力，通过合同或自己寻找均可。你还需要在仓库中留出存放一件新物品的空间。",
     "stage": 1,
     "context": "this.m.TooltipText = \"Destroy four locations controlled by goblins to prove the company's prowess, whether as part of a contract or by heading out on your own. You'll also need space enough in your inventory for a new item.\""
   }
