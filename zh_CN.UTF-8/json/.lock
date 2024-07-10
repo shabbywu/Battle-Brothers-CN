@@ -464,8 +464,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:25.408Z",
         "updatedAt": "2023-06-26T05:46:23.816Z",
-        "modifiedAt": "2024-07-08T03:35:39Z",
-        "sha256": "29673b46f4fe4cf3435b517f3f48e3c2e3ac9d3c2f05cb334d314690f3625865"
+        "modifiedAt": "2024-07-09T13:38:54Z",
+        "sha256": "62b72f6b531746f23e72f6af9c7d7074f470cc753fa72191304cfa07130a0b35"
     },
     "scripts/ambitions/ambitions/hammer_mastery_ambition.json": {
         "id": 918372,
