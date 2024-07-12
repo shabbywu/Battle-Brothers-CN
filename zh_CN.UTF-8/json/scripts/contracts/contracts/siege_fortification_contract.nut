@@ -235,7 +235,7 @@
     "ID": 293409953,
     "key": "Travel to %objective% in the %direction%",
     "original": "Travel to %objective% in the %direction%",
-    "translation": "前往 %direction% 的 %objective% ",
+    "translation": "前往%direction%方的%objective%",
     "stage": 1,
     "context": "'Travel to %objective% in the %direction%'"
   },

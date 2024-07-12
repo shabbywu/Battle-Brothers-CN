@@ -5251,7 +5251,7 @@
     "ID": 293406292,
     "key": "Noble Runner",
     "original": "Noble Runner",
-    "translation": "高贵跑者号",
+    "translation": "赫渡号",
     "stage": 1,
     "context": "'Noble Runner'"
   },
@@ -7891,8 +7891,8 @@
     "ID": 293406622,
     "key": "Invincible",
     "original": "Invincible",
-    "translation": "彪炳千秋",
-    "stage": 5,
+    "translation": "举世无双",
+    "stage": 1,
     "context": "'Invincible'"
   },
   {

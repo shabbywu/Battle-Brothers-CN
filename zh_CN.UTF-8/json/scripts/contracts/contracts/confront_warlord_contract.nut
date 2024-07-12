@@ -267,8 +267,8 @@
     "ID": 293408023,
     "key": "{The %companyname% prevailed! | Victory!}",
     "original": "{The %companyname% prevailed! | Victory!}",
-    "translation": "{%companyname% 获胜了！ | 胜利！}",
-    "stage": 5,
+    "translation": "{%companyname%的胜利！ | 胜利！}",
+    "stage": 1,
     "context": "Text = '{The %companyname% prevailed! | Victory!}'"
   },
   {

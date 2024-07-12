@@ -476,14 +476,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:25.851Z",
         "updatedAt": "2023-06-26T05:46:23.879Z",
-        "modifiedAt": "2024-01-18T01:26:30Z",
-        "sha256": "d4dbf08f0cc25badecf1befd919368cc46297e77569272aa26bf5c31ea472a84"
+        "modifiedAt": "2024-07-11T07:18:33Z",
+        "sha256": "465ed639f42cc5e5acff05cf1ba797a12b0d4d8bef175bfcd1469d062e309a2b"
     },
     "scripts/ambitions/ambitions/have_all_provisions_ambition.json": {
         "id": 918373,
@@ -500,8 +500,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:26.265Z",
         "updatedAt": "2023-06-26T05:46:24.929Z",
-        "modifiedAt": "2024-01-02T08:30:50Z",
-        "sha256": "e6ea55ef27f10226d07e03b5b923f1e9defdc987663bb287ab708d5cc0d769f1"
+        "modifiedAt": "2024-07-11T07:32:54Z",
+        "sha256": "93c6f84c9771204b97eb85ed0cbbb343d708205a7d29f15dcf46a8a1298413e0"
     },
     "scripts/ambitions/ambitions/have_armor_upgrades_ambition.json": {
         "id": 918374,
@@ -518,8 +518,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:26.627Z",
         "updatedAt": "2023-06-26T05:46:25.069Z",
-        "modifiedAt": "2024-01-02T08:37:11Z",
-        "sha256": "6ff2e490840c6f0d122bcf11b70f79ce067dc171c2cb8463b817ffc3f5634294"
+        "modifiedAt": "2024-07-11T07:43:55Z",
+        "sha256": "234234e758100ebca9d4f45c3cb3d5821ff4d900ad0b4d4521e3bb013e7ca85b"
     },
     "scripts/ambitions/ambitions/have_talent_ambition.json": {
         "id": 918375,
@@ -536,8 +536,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:26.986Z",
         "updatedAt": "2023-06-26T05:46:25.549Z",
-        "modifiedAt": "2024-06-28T13:28:11Z",
-        "sha256": "8c366623823c5c0b3c26083fcaa0eee22c3d325075a9126058f3eda670998e96"
+        "modifiedAt": "2024-07-11T08:04:15Z",
+        "sha256": "9d6a81ed34a544e372916c9ea50d4968ac3a32735b6eabd6a041e7afe2bb1eaf"
     },
     "scripts/ambitions/ambitions/have_y_crowns_ambition.json": {
         "id": 918376,
@@ -547,15 +547,15 @@
         "format": "json",
         "total": 5,
         "translated": 5,
-        "disputed": 1,
+        "disputed": 0,
         "checked": 1,
         "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:27.339Z",
         "updatedAt": "2023-06-26T05:46:25.775Z",
-        "modifiedAt": "2024-01-18T01:31:53Z",
-        "sha256": "a360ee0c29782ac501d9c25db8f984a845ecce673374369a3a1bbd26f5fcbea7"
+        "modifiedAt": "2024-07-11T08:08:55Z",
+        "sha256": "92e7fa93b5fe71ace924a39792e771546f96e404710fe79863403515c2da0418"
     },
     "scripts/ambitions/ambitions/have_y_renown_ambition.json": {
         "id": 918377,
@@ -572,8 +572,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:27.699Z",
         "updatedAt": "2023-06-26T05:46:25.869Z",
-        "modifiedAt": "2024-05-24T14:38:17Z",
-        "sha256": "17a5e4ef5d5313b49c006a8bce5e885e9f148b2644ec237fba806151a38bb840"
+        "modifiedAt": "2024-07-11T08:24:55Z",
+        "sha256": "c7317cdf9c4b471d6b8f62b76f3d882029603be97da410b1f133c783d916c454"
     },
     "scripts/ambitions/ambitions/have_z_crowns_ambition.json": {
         "id": 918378,
@@ -590,8 +590,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:28.067Z",
         "updatedAt": "2023-07-05T12:35:51.496Z",
-        "modifiedAt": "2024-01-31T06:56:16Z",
-        "sha256": "c9cdba1557a8d2dd3209e57e6c350c1cdde7fc394d9fac5f5681670736016160"
+        "modifiedAt": "2024-07-11T08:32:19Z",
+        "sha256": "9effa6446d89d75936808f58391bea042b89b409691fa42980d1ea0fea53f25a"
     },
     "scripts/ambitions/ambitions/have_z_renown_ambition.json": {
         "id": 918379,
@@ -602,14 +602,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:28.403Z",
         "updatedAt": "2023-06-26T05:46:25.996Z",
-        "modifiedAt": "2024-01-16T07:35:20Z",
-        "sha256": "95ba484d4603dadf5df2b0124dcff555575d08b21a52ed156d97e47d0d8d6679"
+        "modifiedAt": "2024-07-11T08:53:48Z",
+        "sha256": "4f090db8b5bc394df99e69709398e94b9691d775c7fa13fff9b266116fc99bd0"
     },
     "scripts/ambitions/ambitions/hire_follower_ambition.json": {
         "id": 918380,
@@ -1340,14 +1340,14 @@
         "total": 1218,
         "translated": 1218,
         "disputed": 0,
-        "checked": 192,
-        "reviewed": 192,
+        "checked": 191,
+        "reviewed": 191,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-07-05T09:05:01Z",
-        "sha256": "70587ee839ad493d8eb442b7bf8a3530b6347ba599f2933af2b318e13f8ae0b0"
+        "modifiedAt": "2024-07-11T14:12:02Z",
+        "sha256": "650a7969492c71ab4e47eb858d276e34b8b901f434317ae45bf7b51869ada0b8"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -1556,14 +1556,14 @@
         "total": 40,
         "translated": 40,
         "disputed": 0,
-        "checked": 10,
-        "reviewed": 10,
+        "checked": 9,
+        "reviewed": 9,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:50.483Z",
         "updatedAt": "2023-06-26T05:46:38.882Z",
-        "modifiedAt": "2024-05-13T03:02:01Z",
-        "sha256": "a1d1c17e48d1c06159b233c1ee5bb9538aa7254b743dda219a19f2cedad65e5f"
+        "modifiedAt": "2024-07-11T08:10:38Z",
+        "sha256": "9268f3d33535775ada5fdb460ab3c1e2c289a283a529df0bec2531cbb8078202"
     },
     "scripts/contracts/contracts/conquer_holy_site_contract.json": {
         "id": 918433,
@@ -2102,8 +2102,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:04.54Z",
         "updatedAt": "2023-06-26T05:46:48.516Z",
-        "modifiedAt": "2024-05-13T02:59:32Z",
-        "sha256": "26bfbec1630828c5a78b549071daeb1c6497355aa242600cc4204ce723c30973"
+        "modifiedAt": "2024-07-11T14:05:02Z",
+        "sha256": "0f96816ddd78b2d5939ef5bf7b4bbddf6c7ef22dde7afbede922934ac706c4a7"
     },
     "scripts/contracts/contracts/marauding_greenskins_contract.json": {
         "id": 918463,
@@ -2318,8 +2318,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:11.523Z",
         "updatedAt": "2023-06-26T05:46:52.95Z",
-        "modifiedAt": "2024-05-13T02:52:22Z",
-        "sha256": "dcbeedba7b000482122dc129bdf207d9e317c718130d84ad08f2214b51c398fa"
+        "modifiedAt": "2024-07-11T14:05:02Z",
+        "sha256": "9b2cc6e8574eb40de6c76cad18b2892eac687b97388a8f6f17e59979a930bdbc"
     },
     "scripts/contracts/contracts/slave_uprising_contract.json": {
         "id": 918475,
@@ -22298,8 +22298,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:44.927Z",
         "updatedAt": "2023-06-26T05:48:46.683Z",
-        "modifiedAt": "2024-04-18T02:04:26Z",
-        "sha256": "9f9a8a1adb8057e4ebc6f2122b441a3643505bde330d3b2e7191fe0b1a31835f"
+        "modifiedAt": "2024-07-11T12:10:06Z",
+        "sha256": "955cd04665a31969d89a03da7388f9bc3c7993a4ab70f4d775b9c6078eab0e54"
     },
     "scripts/items/loot/jade_broche_item.json": {
         "id": 919585,
