@@ -3,7 +3,7 @@
     "ID": 293418364,
     "key": "Growth Pearls",
     "original": "Growth Pearls",
-    "translation": "异体珍珠",
+    "translation": "增生珍珠",
     "stage": 1,
     "context": "this.m.Name = 'Growth Pearls'"
   },

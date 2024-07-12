@@ -3,7 +3,7 @@
     "ID": 293403456,
     "key": "Mundane armors won't do for a real mercenary outfit.\nWe should adorn our gear with trophies of our deeds!",
     "original": "Mundane armors won't do for a real mercenary outfit.\nWe should adorn our gear with trophies of our deeds!",
-    "translation": "世俗的盔甲不适合作为真正的雇佣兵装备。\n我们应该用战利品来装饰我们的装备！",
+    "translation": "对真正的雇佣兵来说，普通的盔甲实在太过乏味。\n我们应该把战利品用上，好好装饰我们的装备！",
     "stage": 1,
     "context": "this.m.ButtonText = \"Mundane armors won't do for a real mercenary outfit.\nWe should adorn our gear with trophies of our deeds!\""
   },
@@ -19,7 +19,7 @@
     "ID": 293403458,
     "key": "Have at least 6 armors with attachments",
     "original": "Have at least 6 armors with attachments",
-    "translation": "拥有至少6件带附件的盔甲",
+    "translation": "为至少6件盔甲装上附件",
     "stage": 1,
     "context": "this.m.UIText = 'Have at least 6 armors with attachments'"
   },
@@ -27,7 +27,7 @@
     "ID": 293403459,
     "key": "Have at least 6 armors with attachments in your possession. Buy them, loot them, or have a taxidermist craft them for you, then combine them with the armor of your men.",
     "original": "Have at least 6 armors with attachments in your possession. Buy them, loot them, or have a taxidermist craft them for you, then combine them with the armor of your men.",
-    "translation": "在你的所有中拥有至少6件带附件的盔甲。 购买它们，掠夺它们，或请一个剥制师为你制作他们，然后将它们与你的人的盔甲结合。",
+    "translation": "为你拥有的至少6件盔甲装上附件。买来的，抢来的，请剥制师做出来的，统统安到你的人的盔甲上。",
     "stage": 1,
     "context": "this.m.TooltipText = 'Have at least 6 armors with attachments in your possession. Buy them, loot them, or have a taxidermist craft them for you, then combine them with the armor of your men.'"
   },

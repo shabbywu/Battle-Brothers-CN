@@ -19,7 +19,7 @@
     "ID": 293403473,
     "key": "[img]gfx/ui/events/event_82.png[/img]Marching through forests and over plains, the band has smashed any opposition they've been sent after. Trampling foes, shattering battle lines, and sending heads flying, the %companyname% find that they are seldom alon",
     "original": "[img]gfx/ui/events/event_82.png[/img]Marching through forests and over plains, the band has smashed any opposition they've been sent after. Trampling foes, shattering battle lines, and sending heads flying, the %companyname% find that they are seldom alone. Crows circle high over the company as they march, they sing as the men take their supper, and more often than not they feast well after their daily work is done.\n\nIn their wake, the men leave scorched earth and outlandish rumors everywhere their booted feet have tread, each tale burgeoning in the telling until everyone from milkmaids to blacksmiths to burgomeisters seems to be talking about your exploits. Gossip is a currency valued in every corner of the land, and neither broad rivers nor tall peaks will slow the tales of your victories, and in turn, the prices you can now demand for your services.",
-    "translation": "[img]gfx/ui/events/event_82.png[/img]穿过森林，穿过平原，这支队伍粉碎了所有被派去追捕的敌人。 践踏敌人，粉碎战线，让脑袋飞起来，%companyname% 发现他们很少是单独行动。 当他们行军时，乌鸦在队伍上空盘旋；当人们吃晚饭时，乌鸦歌唱；当他们完成日常工作后，它们往往会饱餐一顿。\n\n在他们身后，他们留下了焦土和古怪的谣言，每一个故事都在讲述，直到每个人，从挤奶女工到铁匠，再到市长，似乎都在谈论你的功绩。 流言是一种货币，在这片土地的每个角落都有价值，无论是宽阔的河流还是高耸的山峰都不能减缓你胜利的故事，反过来，你现在可以要求你的服务的价格。",
+    "translation": "[img]gfx/ui/events/event_82.png[/img]穿过森林，穿过平原，这支队伍粉碎了所有被派去对付的敌人。践踏敌人，粉碎战线，打飞脑袋，%companyname%发觉他们很少单独行动。他们行军时，乌鸦在队伍上空盘旋；他们吃饭时，乌鸦放声歌唱；他们完成日常工作后，乌鸦往往会饱餐一顿。\n\n他们的脚步所到之处，都留下了焦土和离奇的传言。一传十，十传百，从挤奶女工、铁匠再到市长，似乎所有人都在谈论着你的功绩。流言在哪个角落都有价值，无论是宽阔的河流还是高耸的山峰，都不能阻挡你胜利的故事，反过来，也不能阻挡你为自己的服务开出价格。",
     "stage": 1,
     "context": "this.m.SuccessText = \"[img]gfx/ui/events/event_82.png[/img]Marching through forests and over plains, the band has smashed any opposition they've been sent after. Trampling foes, shattering battle lines, and sending heads flying, the %companyname% find that they are seldom alone. Crows circle high over the company as they march, they sing as the men take their supper, and more often than not they feast well after their daily work is done.\n\nIn their wake, the men leave scorched earth and outlandish rumors everywhere their booted feet have tread, each tale burgeoning in the telling until everyone from milkmaids to blacksmiths to burgomeisters seems to be talking about your exploits. Gossip is a currency valued in every corner of the land, and neither broad rivers nor tall peaks will slow the tales of your victories, and in turn, the prices you can now demand for your services.\""
   },
@@ -27,7 +27,7 @@
     "ID": 293403474,
     "key": "Already we are known in some parts of the land, yet we are still far from being\na legendary company. We shall increase our renown further!",
     "original": "Already we are known in some parts of the land, yet we are still far from being\na legendary company. We shall increase our renown further!",
-    "translation": "我们已经在这片土地的一些地方为人所知，\n但距离成为一个传奇战团还很远。 我们将进一步提高我们的名望！",
+    "translation": "我们已经在这片土地的一些地方为人所知，但距离\n成为传奇战团还很远。我们要进一步提高我们的名望！",
     "stage": 1,
     "context": "this.m.ButtonText = 'Already we are known in some parts of the land, yet we are still far from being\na legendary company. We shall increase our renown further!'"
   },
@@ -35,7 +35,7 @@
     "ID": 293403475,
     "key": "People know of the %companyname% now!",
     "original": "People know of the %companyname% now!",
-    "translation": "人们现在知道 %companyname% 了！",
+    "translation": "%companyname%的名声无人不知！",
     "stage": 1,
     "context": "this.m.SuccessButtonText = 'People know of the %companyname% now!'"
   }
