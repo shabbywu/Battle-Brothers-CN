@@ -4571,7 +4571,7 @@
     "ID": 293406207,
     "key": "Battle Flow",
     "original": "Battle Flow",
-    "translation": "战斗流程",
+    "translation": "行云流水",
     "stage": 1,
     "context": "BattleFlow = 'Battle Flow'"
   },

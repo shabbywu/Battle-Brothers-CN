@@ -11,8 +11,8 @@
     "ID": 293403513,
     "key": "Don't choose an ambition right now. You'll be asked to choose again after three days.",
     "original": "Don't choose an ambition right now. You'll be asked to choose again after three days.",
-    "translation": "现在不选择野心。 三天后你会被要求再次选择。",
-    "stage": 5,
+    "translation": "暂不选择野心。三天后，你会再次被要求选择。",
+    "stage": 1,
     "context": "text = \"Don't choose an ambition right now. You'll be asked to choose again after three days.\""
   },
   {
