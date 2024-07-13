@@ -27,7 +27,7 @@
     "ID": 293403494,
     "key": "You'll unlock entirely new contracts issued by nobles which pay better.",
     "original": "You'll unlock entirely new contracts issued by nobles which pay better.",
-    "translation": "你将解锁由贵族签发的报酬更好的全新合同。",
+    "translation": "解锁贵族签发的新类型合同，这些合同的报酬更高",
     "stage": 1,
     "context": "this.m.RewardTooltip = \"You'll unlock entirely new contracts issued by nobles which pay better.\""
   },
@@ -35,7 +35,7 @@
     "ID": 293403495,
     "key": "Nobles will now give you contracts",
     "original": "Nobles will now give you contracts",
-    "translation": "贵族现在会给你合同",
+    "translation": "贵族开始向你派发合同了",
     "stage": 1,
     "context": "text = 'Nobles will now give you contracts'"
   },
@@ -43,7 +43,7 @@
     "ID": 293403496,
     "key": "Become known as 'Professional' (1,050 renown) in order to catch the attention of the noble houses. You can increase your renown by completing contracts and winning battles.",
     "original": "Become known as 'Professional' (1,050 renown) in order to catch the attention of the noble houses. You can increase your renown by completing contracts and winning battles.",
-    "translation": "以“行家里手”（1050名望）闻名以吸引贵族家族的注意。你可以通过完成合同和赢得战斗来提高自己的名望。",
+    "translation": "以“行家里手”（1050名望）闻名，吸引贵族家族的注意。你可以通过完成合同和赢得战斗来提高自己的名望。",
     "stage": 1,
     "context": "this.m.TooltipText = \"Become known as 'Professional' (1,050 renown) in order to catch the attention of the noble houses. You can increase your renown by completing contracts and winning battles.\""
   },
@@ -51,7 +51,7 @@
     "ID": 293403497,
     "key": "Reach 'Professional' renown",
     "original": "Reach 'Professional' renown",
-    "translation": "名望达到“行家里手”",
+    "translation": "达到“行家里手”名望",
     "stage": 1,
     "context": "this.m.UIText = \"Reach 'Professional' renown\""
   },
@@ -59,7 +59,7 @@
     "ID": 293403498,
     "key": "We need to catch the eye of one of the noble houses for more profitable work. They\nplay their own dangerous game, but what does it matter as long as the pay is good?",
     "original": "We need to catch the eye of one of the noble houses for more profitable work. They\nplay their own dangerous game, but what does it matter as long as the pay is good?",
-    "translation": "我们需要吸引其中一个贵族家族的眼球，以获得更有利可图的工作。 \n他们在玩自己的危险游戏，但只要报酬丰厚又有什么关系呢？",
+    "translation": "我们要获得某个贵族家族的青睐，以期得到回报更丰厚的工\n作。他们老是惹火上身，但只要给得够多，那又有什么关系呢？",
     "stage": 1,
     "context": "this.m.ButtonText = 'We need to catch the eye of one of the noble houses for more profitable work. They\nplay their own dangerous game, but what does it matter as long as the pay is good?'"
   }

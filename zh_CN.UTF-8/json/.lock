@@ -620,14 +620,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:28.745Z",
         "updatedAt": "2023-06-26T05:46:26.14Z",
-        "modifiedAt": "2024-03-29T04:16:28Z",
-        "sha256": "b80ce83d58374b913fdff01999c470332fb7baa8d444427177646ae7b20a9fd5"
+        "modifiedAt": "2024-07-12T06:52:59Z",
+        "sha256": "920b7661b8690c44ff408486ac1246334b57fce487db80da2b20762840f480da"
     },
     "scripts/ambitions/ambitions/make_nobles_aware_ambition.json": {
         "id": 918381,
@@ -644,8 +644,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:29.086Z",
         "updatedAt": "2023-06-26T05:46:26.279Z",
-        "modifiedAt": "2024-05-24T14:38:42Z",
-        "sha256": "9f049bd2a2545710ec8ace8be96ae49a927ad645e3d7ae117e37776be4c17ab5"
+        "modifiedAt": "2024-07-12T07:04:29Z",
+        "sha256": "8430ca003a51e65005d3fd1d4672548ab9aa8ed829da3a27f99ad6891aed1661"
     },
     "scripts/ambitions/ambitions/named_item_ambition.json": {
         "id": 918382,
@@ -656,14 +656,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:29.433Z",
         "updatedAt": "2023-06-26T05:46:26.347Z",
-        "modifiedAt": "2023-07-03T16:07:13Z",
-        "sha256": "d0136c167882ca36340b5425ef0926eb86ade744d9466d169bdd0a7e50a137de"
+        "modifiedAt": "2024-07-12T07:34:38Z",
+        "sha256": "951b0f66f74b8e317799f060d292660b98e14772e247ba2b4b713f92f603eaf4"
     },
     "scripts/ambitions/ambitions/named_item_set_ambition.json": {
         "id": 918383,
@@ -674,14 +674,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:30.366Z",
         "updatedAt": "2023-06-26T05:46:26.412Z",
-        "modifiedAt": "2023-07-03T16:09:04Z",
-        "sha256": "37397321fe0cc9b928d754584d0da8517044dc069b3aae1a6960295890d1879a"
+        "modifiedAt": "2024-07-12T08:11:07Z",
+        "sha256": "6fe41908910520d5fba38b3b595cf2412bd6fde4aa681c64331f7065a2094da3"
     },
     "scripts/ambitions/ambitions/no_ambition.json": {
         "id": 918384,
@@ -692,14 +692,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:30.69Z",
         "updatedAt": "2023-06-26T05:46:26.647Z",
-        "modifiedAt": "2023-07-03T16:09:43Z",
-        "sha256": "aa03a349326e435c4b0ef253eb76feeb63d074db014cb854a751b13a32e4230b"
+        "modifiedAt": "2024-07-12T08:12:56Z",
+        "sha256": "7fbd1b25f1e2b617203fd351559a2d6fff23440fbdba99b5cad90f7c6a7885ca"
     },
     "scripts/ambitions/ambitions/raid_caravans_ambition.json": {
         "id": 918385,
@@ -710,14 +710,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:31.033Z",
         "updatedAt": "2023-06-26T05:46:26.773Z",
-        "modifiedAt": "2023-07-03T16:13:00Z",
-        "sha256": "a16fd210a6ca14001b3c17bbb6f976b097de491e09bfe2a502ac1989f5b42c8a"
+        "modifiedAt": "2024-07-12T08:34:16Z",
+        "sha256": "f785b80b7cb97af7ff7a4d94d35291a0e95ba9577ff59e65beb53cb072566222"
     },
     "scripts/ambitions/ambitions/ranged_mastery_ambition.json": {
         "id": 918386,
@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-07-11T14:12:02Z",
-        "sha256": "650a7969492c71ab4e47eb858d276e34b8b901f434317ae45bf7b51869ada0b8"
+        "modifiedAt": "2024-07-12T06:34:31Z",
+        "sha256": "e566f4a1ae21d125f3b672cb1072fb1c7fa3f6c7e6f147119d097a366b994a3f"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
