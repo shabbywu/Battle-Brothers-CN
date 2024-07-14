@@ -734,8 +734,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:31.367Z",
         "updatedAt": "2023-06-26T05:46:26.833Z",
-        "modifiedAt": "2024-01-18T01:26:22Z",
-        "sha256": "2c7999341dcc2e3e553f980eb9a498a70b32594e6e4c6a3c77ab3ea16c32d101"
+        "modifiedAt": "2024-07-13T04:18:18Z",
+        "sha256": "857ed57624502bb15b50b6572fad5e8718d2b8d49b9208d907da6dba9b347136"
     },
     "scripts/ambitions/ambitions/roster_of_12_ambition.json": {
         "id": 918387,
@@ -752,8 +752,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:31.706Z",
         "updatedAt": "2023-06-26T05:46:26.903Z",
-        "modifiedAt": "2023-07-03T16:15:50Z",
-        "sha256": "28198668ccd78cd165d3ce373278ec0ba597a54211f49794e4aca347183dc948"
+        "modifiedAt": "2024-07-13T04:21:23Z",
+        "sha256": "157c3c6fc2117668933fc586cbf13d37db3cbcedaea367d5d2634305f1646eaa"
     },
     "scripts/ambitions/ambitions/roster_of_16_ambition.json": {
         "id": 918388,
@@ -806,8 +806,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:32.742Z",
         "updatedAt": "2023-06-26T05:46:27.217Z",
-        "modifiedAt": "2024-07-08T02:00:15Z",
-        "sha256": "35ad6dcec8069df178b7ac82b8f1516e02c1f503ea5b03f7e31595a3c9022c40"
+        "modifiedAt": "2024-07-13T04:23:34Z",
+        "sha256": "dd3e66a1c389cdc159b5ff76ef9fbd95aabc43bfb84919f46341a84bebc759fc"
     },
     "scripts/ambitions/ambitions/taxidermist_ambition.json": {
         "id": 918391,
@@ -1220,8 +1220,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.288Z",
         "updatedAt": "2023-06-26T05:46:29.6Z",
-        "modifiedAt": "2024-07-02T07:35:38Z",
-        "sha256": "3766326515235cdfa61c37ba6eb670ea1ceedfd4f85ade4595f2e12a8ccf9314"
+        "modifiedAt": "2024-07-13T11:43:15Z",
+        "sha256": "25eb0436a0695a28780305ee36f856f4fd6f391caf33ae6a2b1aa0d1678d44af"
     },
     "scripts/config/credits.json": {
         "id": 918414,
@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-07-12T06:34:31Z",
-        "sha256": "e566f4a1ae21d125f3b672cb1072fb1c7fa3f6c7e6f147119d097a366b994a3f"
+        "modifiedAt": "2024-07-13T18:27:03Z",
+        "sha256": "996de864280c6d5e095951b1aa302bb27ab888d9b626b0be1556c8a533f4897e"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -2354,8 +2354,8 @@
         "locked": 1,
         "createdAt": "2023-05-13T14:18:12.283Z",
         "updatedAt": "2023-06-26T05:46:53.28Z",
-        "modifiedAt": "2024-05-20T07:54:25Z",
-        "sha256": "2ee845f078be5683953d3065179fc5daec856907b977e8e1a09d44547fecf4cb"
+        "modifiedAt": "2024-07-13T11:37:31Z",
+        "sha256": "29b5da16077fcb9f53ad89bc52be8afac9155987e468f621141fb6b47a1345ba"
     },
     "scripts/contracts/templates/intro_templates.json": {
         "id": 918477,

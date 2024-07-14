@@ -19,7 +19,7 @@
     "ID": 293403542,
     "key": "This will help us greatly in the days to come.",
     "original": "This will help us greatly in the days to come.",
-    "translation": "这将在今后的日子里对我们大有帮助。",
+    "translation": "这对今后的日子大有好处。",
     "stage": 1,
     "context": "this.m.SuccessButtonText = 'This will help us greatly in the days to come.'"
   },

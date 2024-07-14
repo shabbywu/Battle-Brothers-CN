@@ -35,7 +35,7 @@
     "ID": 293403529,
     "key": "We shall get the company strength to a dozen men! It will make us\na formidable force and will allow us to take on more profitable work.",
     "original": "We shall get the company strength to a dozen men! It will make us\na formidable force and will allow us to take on more profitable work.",
-    "translation": "让我们把战团人数提升到 12 人！ 它将使我们成为\n一支强大的力量，使我们能够从事更有利可图的工作。",
+    "translation": "我们要把战团提升到 12 个人！它将\n使我们力量壮大，能接取更赚钱的工作。",
     "stage": 1,
     "context": "this.m.ButtonText = 'We shall get the company strength to a dozen men! It will make us\na formidable force and will allow us to take on more profitable work.'"
   }
