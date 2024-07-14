@@ -5099,7 +5099,7 @@
     "ID": 293406273,
     "key": "The Dreary Barrens",
     "original": "The Dreary Barrens",
-    "translation": "凄贫埆",
+    "translation": "凄荒",
     "stage": 1,
     "context": "'The Dreary Barrens'"
   },

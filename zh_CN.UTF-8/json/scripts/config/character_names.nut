@@ -6331,7 +6331,7 @@
     "ID": 293404569,
     "key": "the Older",
     "original": "the Older",
-    "translation": "·年长者",
+    "translation": "年长者",
     "stage": 1,
     "context": "'the Older'"
   },
