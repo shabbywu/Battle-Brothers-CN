@@ -35,7 +35,7 @@
     "ID": 293403347,
     "key": "You'll be awarded a unique accessory that makes the wearer immune to being rooted.",
     "original": "You'll be awarded a unique accessory that makes the wearer immune to being rooted.",
-    "translation": "你将获得一件独特的配饰，它能使佩戴者免疫定身。",
+    "translation": "你将获得一件独特配饰，它能使佩戴者免疫定身。",
     "stage": 1,
     "context": "this.m.RewardTooltip = \"You'll be awarded a unique accessory that makes the wearer immune to being rooted.\""
   },

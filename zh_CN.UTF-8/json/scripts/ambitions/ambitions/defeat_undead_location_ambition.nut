@@ -11,7 +11,7 @@
     "ID": 293403396,
     "key": "You'll be awarded a unique accessory that doubles the wearer's resolve when defending against fear and mind control effects.",
     "original": "You'll be awarded a unique accessory that doubles the wearer's resolve when defending against fear and mind control effects.",
-    "translation": "你将获得一件特殊的配饰，它能使佩戴者在抵御恐惧和精神控制效果时的决心翻倍。",
+    "translation": "你将获得一件独特配饰，它能使佩戴者在抵御恐惧和精神控制效果时的决心翻倍。",
     "stage": 1,
     "context": "this.m.RewardTooltip = \"You'll be awarded a unique accessory that doubles the wearer's resolve when defending against fear and mind control effects.\""
   },

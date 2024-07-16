@@ -3,7 +3,7 @@
     "ID": 293418743,
     "key": "Unusually Large Wolf Pelt",
     "original": "Unusually Large Wolf Pelt",
-    "translation": "不同寻常的大狼皮",
+    "translation": "巨大狼皮",
     "stage": 1,
     "context": "this.m.Name = 'Unusually Large Wolf Pelt'"
   },

@@ -19,7 +19,7 @@
     "ID": 293403381,
     "key": "You'll be awarded a unique accessory that makes the wearer immune to being stunned.",
     "original": "You'll be awarded a unique accessory that makes the wearer immune to being stunned.",
-    "translation": "你将获得一件特殊的配饰，它能使佩戴者免疫昏迷。",
+    "translation": "你将获得一件独特配饰，它能使佩戴者免疫昏迷。",
     "stage": 1,
     "context": "this.m.RewardTooltip = \"You'll be awarded a unique accessory that makes the wearer immune to being stunned.\""
   },
