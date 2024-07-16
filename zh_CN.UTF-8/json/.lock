@@ -248,8 +248,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:15:15.697Z",
         "updatedAt": "2023-06-26T05:46:21.815Z",
-        "modifiedAt": "2024-07-08T02:01:41Z",
-        "sha256": "56c36a0d4a1aaba76730b80a5116ab5216dafc073d6c2cbfacbf05ec11527a2d"
+        "modifiedAt": "2024-07-15T01:51:32Z",
+        "sha256": "2bce961322b3427a4187883b0022966ff2c9abb298b5dfa44d2dc7c061da2381"
     },
     "scripts/ambitions/ambitions/defeat_greenskins_ambition.json": {
         "id": 918360,
@@ -338,8 +338,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:15:18.071Z",
         "updatedAt": "2023-06-26T05:46:22.857Z",
-        "modifiedAt": "2024-07-08T03:08:33Z",
-        "sha256": "779e6df425c7c9b336f49efa3330d30407b51daeeb25280b35a470bdcf2b4a9f"
+        "modifiedAt": "2024-07-15T01:51:27Z",
+        "sha256": "38b9e6efe1955a994866e58037b1edd52d9366361150de25f433faf9255c637f"
     },
     "scripts/ambitions/ambitions/defeat_undead_ambition.json": {
         "id": 918365,
@@ -374,8 +374,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:23.643Z",
         "updatedAt": "2023-06-26T05:46:23.114Z",
-        "modifiedAt": "2024-07-08T03:12:02Z",
-        "sha256": "a9369df982ce732f8df394633eb8d14f61e03056d03798a49cb65f949dee2f6f"
+        "modifiedAt": "2024-07-15T01:51:36Z",
+        "sha256": "7fce2d4c57ad6c64636097eafe003d8063192e6f92acd55a75217c7078beb18c"
     },
     "scripts/ambitions/ambitions/discover_all_unique_locations_ambition.json": {
         "id": 918367,
@@ -482,8 +482,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:25.851Z",
         "updatedAt": "2023-06-26T05:46:23.879Z",
-        "modifiedAt": "2024-07-11T07:18:33Z",
-        "sha256": "465ed639f42cc5e5acff05cf1ba797a12b0d4d8bef175bfcd1469d062e309a2b"
+        "modifiedAt": "2024-07-15T08:23:39Z",
+        "sha256": "ac30522a80501534a0931c14c44bb57501dfe7081418b8d679ef71fb627e4baa"
     },
     "scripts/ambitions/ambitions/have_all_provisions_ambition.json": {
         "id": 918373,
@@ -752,8 +752,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:31.706Z",
         "updatedAt": "2023-06-26T05:46:26.903Z",
-        "modifiedAt": "2024-07-13T04:21:23Z",
-        "sha256": "157c3c6fc2117668933fc586cbf13d37db3cbcedaea367d5d2634305f1646eaa"
+        "modifiedAt": "2024-07-15T02:22:12Z",
+        "sha256": "ba2e62ec56552c4e578c094e3fe303dfbed27bf636c6692be51a2b9a40e02d9a"
     },
     "scripts/ambitions/ambitions/roster_of_16_ambition.json": {
         "id": 918388,
@@ -770,8 +770,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:32.05Z",
         "updatedAt": "2023-06-26T05:46:26.963Z",
-        "modifiedAt": "2023-07-03T16:15:54Z",
-        "sha256": "3dc56ee6d8c70e5ee29a4bf205904e4e6b5d04aa1906a45a11071d36f47402c7"
+        "modifiedAt": "2024-07-15T02:22:21Z",
+        "sha256": "d89e8f297bf73bb07c2ae90253122a48cdad13978fb77f31fc02c8406197924e"
     },
     "scripts/ambitions/ambitions/roster_of_20_ambition.json": {
         "id": 918389,
@@ -782,14 +782,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:32.394Z",
         "updatedAt": "2023-06-26T05:46:27.025Z",
-        "modifiedAt": "2024-05-24T14:39:40Z",
-        "sha256": "13e88d2c9b219dcb9845ba736a63793538a227933335cae0f6c85b2d33456ee0"
+        "modifiedAt": "2024-07-15T02:39:06Z",
+        "sha256": "af1714c9b04df6640b42b723ed46249078d279e8c78824b8c206f70c463aa760"
     },
     "scripts/ambitions/ambitions/sergeant_ambition.json": {
         "id": 918390,
@@ -800,14 +800,14 @@
         "total": 9,
         "translated": 9,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:32.742Z",
         "updatedAt": "2023-06-26T05:46:27.217Z",
-        "modifiedAt": "2024-07-13T04:23:34Z",
-        "sha256": "dd3e66a1c389cdc159b5ff76ef9fbd95aabc43bfb84919f46341a84bebc759fc"
+        "modifiedAt": "2024-07-15T01:57:31Z",
+        "sha256": "ea4092cc8b9999aa8664e285d28d142e6e99c15a21c3663e8bf3b0ee95091645"
     },
     "scripts/ambitions/ambitions/taxidermist_ambition.json": {
         "id": 918391,
@@ -824,8 +824,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:33.084Z",
         "updatedAt": "2023-06-26T05:46:27.299Z",
-        "modifiedAt": "2024-05-24T14:40:08Z",
-        "sha256": "588a0d70cf82520df3ed207cf4abc81c1393601a87d75ebfb653fe10a50c05d4"
+        "modifiedAt": "2024-07-15T02:04:13Z",
+        "sha256": "b32f3619749537cde492f035ceedb538366a6dd69f8af65802197b9c8e98fa42"
     },
     "scripts/ambitions/ambitions/trade_ambition.json": {
         "id": 918392,
@@ -842,8 +842,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:33.434Z",
         "updatedAt": "2023-06-26T05:46:27.38Z",
-        "modifiedAt": "2024-02-04T03:54:39Z",
-        "sha256": "f26261fac252c326c75834390b295dd1b0ee7e77ae53b46065ba851124299ddd"
+        "modifiedAt": "2024-07-15T02:17:31Z",
+        "sha256": "60297a63002c553896a7b516b813b9383ec992936fb7c0b91f26c1cc5ea7e711"
     },
     "scripts/ambitions/ambitions/visit_settlements_ambition.json": {
         "id": 918393,
@@ -860,8 +860,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:33.793Z",
         "updatedAt": "2023-06-26T05:46:27.449Z",
-        "modifiedAt": "2024-01-03T02:58:51Z",
-        "sha256": "0f14671811055e246295d444d3c814ffdce65402f61abc5654c66d95d852e690"
+        "modifiedAt": "2024-07-15T02:59:05Z",
+        "sha256": "1107e0b2d205c73cff66cb35e1a5d40c315dd216067dc39d86f89394cc8c8bae"
     },
     "scripts/ambitions/ambitions/wagon_ambition.json": {
         "id": 918394,
@@ -878,8 +878,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:34.155Z",
         "updatedAt": "2023-07-05T12:35:51.81Z",
-        "modifiedAt": "2024-07-05T09:07:42Z",
-        "sha256": "a56beed94c65a8c443a4d2af643df4070205a82a112e7fd148da27437ff07a2f"
+        "modifiedAt": "2024-07-15T03:33:29Z",
+        "sha256": "a91dcd1c69edee5d03780832705fd4233da9fb8a4a3519a5b7ee3cacc4adec3b"
     },
     "scripts/ambitions/ambitions/weapon_mastery_ambition.json": {
         "id": 918395,
@@ -896,8 +896,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:35.031Z",
         "updatedAt": "2023-06-26T05:46:27.63Z",
-        "modifiedAt": "2023-06-26T05:46:28Z",
-        "sha256": "a8bc56d99c411f7255cbf3b61a21be97a44b3102c201473684aabfd65b3223ca"
+        "modifiedAt": "2024-07-15T08:25:07Z",
+        "sha256": "023d19299f7ceee857a3ebffd167142d37a0351ca548624a89fd9d1fa479f131"
     },
     "scripts/ambitions/ambitions/win_against_x_ambition.json": {
         "id": 918396,
@@ -908,14 +908,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:35.366Z",
         "updatedAt": "2023-06-26T05:46:27.837Z",
-        "modifiedAt": "2024-05-24T14:40:42Z",
-        "sha256": "33d8a631ac687e82f8231ca906181cdf681f792b988110dcce7f4148f539ed73"
+        "modifiedAt": "2024-07-15T09:12:59Z",
+        "sha256": "f22b18a37786b31478b0592d87e6f1c3c33b463904391d44d3ec040fbf94b6d4"
     },
     "scripts/ambitions/ambitions/win_against_y_ambition.json": {
         "id": 918397,
@@ -23990,8 +23990,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:29.357Z",
         "updatedAt": "2023-06-26T05:48:52.331Z",
-        "modifiedAt": "2024-04-18T09:00:06Z",
-        "sha256": "5a38605be5e1d439f8618f3d98e08c339ca959e28fa489a0379c41e6181e92aa"
+        "modifiedAt": "2024-07-15T02:04:06Z",
+        "sha256": "c26723f1e8a54aecbf3c19899cd1ba89a351a15ccde618753b804c02a7e5eadc"
     },
     "scripts/items/misc/witch_hair_item.json": {
         "id": 919679,

@@ -11,7 +11,7 @@
     "ID": 293403576,
     "key": "Have 5 of your men with a weapon mastery perk each, no matter which one.",
     "original": "Have 5 of your men with a weapon mastery perk each, no matter which one.",
-    "translation": "让你的5个人每人拥有一个武器精通特技，不管是哪一种武器。",
+    "translation": "拥有5名掌握武器精通特技的队员，武器类型不论。",
     "stage": 1,
     "context": "this.m.TooltipText = 'Have 5 of your men with a weapon mastery perk each, no matter which one.'"
   },
@@ -27,7 +27,7 @@
     "ID": 293403578,
     "key": "Have men with a weapon mastery perk each",
     "original": "Have men with a weapon mastery perk each",
-    "translation": "每个人都有一个武器精通特技",
+    "translation": "拥有掌握武器精通特技的队员",
     "stage": 1,
     "context": "this.m.UIText = 'Have men with a weapon mastery perk each'"
   },
