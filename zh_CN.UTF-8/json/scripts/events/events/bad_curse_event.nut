@@ -139,7 +139,7 @@
     "ID": 293412623,
     "key": " is afraid",
     "original": " is afraid",
-    "translation": "是害怕的",
+    "translation": "害怕了",
     "stage": 1,
     "context": "text = _event.m.Cursed.getName() + ' is afraid'"
   },
