@@ -3,7 +3,7 @@
     "ID": 293403597,
     "key": "1 more day",
     "original": "1 more day",
-    "translation": " 1天",
+    "translation": "1天",
     "stage": 1,
     "context": "return 'Uphold an ' + this.m.OathName + ' for ' + timeRemaining > 1 ? 'another ' + timeRemaining + ' days' : '1 more day';"
   },
@@ -27,7 +27,7 @@
     "ID": 293403600,
     "key": "Oath Boon",
     "original": "Oath Boon",
-    "translation": "誓言恩赐",
+    "translation": "誓言之赐",
     "stage": 1,
     "context": "text = 'Oath Boon'"
   },
@@ -43,8 +43,8 @@
     "ID": 293403602,
     "key": "Uphold an ",
     "original": "Uphold an ",
-    "translation": "当前立下 ",
-    "stage": 1,
+    "translation": "当前立下",
+    "stage": 5,
     "context": "return 'Uphold an ' + this.m.OathName + ' for ' + timeRemaining > 1 ? 'another ' + timeRemaining + ' days' : '1 more day';"
   },
   {

@@ -896,8 +896,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:35.031Z",
         "updatedAt": "2023-06-26T05:46:27.63Z",
-        "modifiedAt": "2024-07-15T08:25:07Z",
-        "sha256": "023d19299f7ceee857a3ebffd167142d37a0351ca548624a89fd9d1fa479f131"
+        "modifiedAt": "2024-07-17T01:25:47Z",
+        "sha256": "a76b8d62f0df5f737d2d043e4eccf65249dd8bbe37d2f6bc1812b7d44da730af"
     },
     "scripts/ambitions/ambitions/win_against_x_ambition.json": {
         "id": 918396,
@@ -914,8 +914,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:35.366Z",
         "updatedAt": "2023-06-26T05:46:27.837Z",
-        "modifiedAt": "2024-07-15T09:12:59Z",
-        "sha256": "f22b18a37786b31478b0592d87e6f1c3c33b463904391d44d3ec040fbf94b6d4"
+        "modifiedAt": "2024-07-17T02:06:09Z",
+        "sha256": "1b076430b29f350240090b985ab2bec7d85e46fd35bde22cfb24e3b3de9f916d"
     },
     "scripts/ambitions/ambitions/win_against_y_ambition.json": {
         "id": 918397,
@@ -932,8 +932,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:35.708Z",
         "updatedAt": "2023-06-26T05:46:27.906Z",
-        "modifiedAt": "2024-04-21T11:22:54Z",
-        "sha256": "6e6db7afc2df7482142356b15fb4ebac1227237cc9f7edb6982b189c528a04de"
+        "modifiedAt": "2024-07-17T02:05:09Z",
+        "sha256": "22329d6c9b9074b170d7811dc220b21a278e96b8053840df678bc991f938e5aa"
     },
     "scripts/ambitions/ambitions/win_x_arena_fights_ambition.json": {
         "id": 918398,
@@ -944,14 +944,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:36.057Z",
         "updatedAt": "2023-06-26T05:46:27.962Z",
-        "modifiedAt": "2023-06-26T05:46:28Z",
-        "sha256": "007e6aac9c3eb361f61bcee970a3c140ee34274042189cf02fed2cb5840ace25"
+        "modifiedAt": "2024-07-17T02:35:33Z",
+        "sha256": "62c5265b0abae534be9bdb31c028f5b24d83281b85ba95304393ba3ddee391b4"
     },
     "scripts/ambitions/oaths/oath_ambition.json": {
         "id": 918399,
@@ -962,14 +962,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:36.392Z",
         "updatedAt": "2023-06-26T05:46:28.029Z",
-        "modifiedAt": "2024-07-02T03:54:47Z",
-        "sha256": "eb454042d3efe84a6580d41c011051323cb18ac1e1001b13332ec51dffacb9fd"
+        "modifiedAt": "2024-07-17T02:39:50Z",
+        "sha256": "350004e83b2ec53dc0404223e9cfd89f416f056a8ecb099dbb5a85357f810427"
     },
     "scripts/ambitions/oaths/oath_of_camaraderie_ambition.json": {
         "id": 918400,
@@ -1940,8 +1940,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:00.68Z",
         "updatedAt": "2023-06-26T05:46:46.318Z",
-        "modifiedAt": "2024-05-13T02:51:43Z",
-        "sha256": "adba0b5f9eaab2467c73bc2bcb4219118d8364ff4ea8162c4f3ec9f0709349bc"
+        "modifiedAt": "2024-07-17T15:16:16Z",
+        "sha256": "a1335ffcd2ae257f571ec6c92329cc0ccd705ed7b613923c251ddfbf84d3f953"
     },
     "scripts/contracts/contracts/hunting_lindwurms_contract.json": {
         "id": 918454,
@@ -8186,8 +8186,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:20.439Z",
         "updatedAt": "2023-06-26T05:47:31.377Z",
-        "modifiedAt": "2024-05-13T02:54:40Z",
-        "sha256": "f55b8969947e6ab17df6b6edd0a0c8141182d3fdc0b7496f7fdcbfc2e335e210"
+        "modifiedAt": "2024-07-17T15:16:16Z",
+        "sha256": "45186ee292623fbb21ee9041601ba6efd17d9c84dd9636889144945e97f808b2"
     },
     "scripts/events/events/bad_omen_event.json": {
         "id": 918801,
@@ -8204,8 +8204,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:20.805Z",
         "updatedAt": "2023-06-26T05:47:31.462Z",
-        "modifiedAt": "2023-06-26T05:47:31Z",
-        "sha256": "91e703e72e6ecdc889cb6792b64c1333045e1864e16a5ffad9350412cf436848"
+        "modifiedAt": "2024-07-17T15:16:16Z",
+        "sha256": "54a223c4d8280076cbb6c067b17c27295d402d79bdd4bec9439d3206c56766c1"
     },
     "scripts/events/events/ball_on_roof_event.json": {
         "id": 918802,
@@ -19310,8 +19310,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:29.568Z",
         "updatedAt": "2023-06-26T05:48:31.165Z",
-        "modifiedAt": "2024-07-05T02:29:11Z",
-        "sha256": "8e45f5fb7952eec0f2aecfec40f7dfee571cbba8512e984600a136a42bad1acc"
+        "modifiedAt": "2024-07-17T13:18:25Z",
+        "sha256": "fc0732995e40c68190715f5535f64252884d27065a37954fa6d8094aeff2c27d"
     },
     "scripts/items/armor_upgrades/armor_upgrade.json": {
         "id": 919419,
@@ -33206,8 +33206,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:37.265Z",
         "updatedAt": "2023-06-26T05:49:26.905Z",
-        "modifiedAt": "2024-03-14T08:37:46Z",
-        "sha256": "a9a37c9e3d91c0ad05647355f2eb0dfc31206ecd2377d4cd8204b1404027d05f"
+        "modifiedAt": "2024-07-17T02:10:37Z",
+        "sha256": "79d3d5b69206efcac036933233199346fb9adfa14afb5c803641b36ad91e9da9"
     },
     "scripts/skills/backgrounds/gravedigger_background.json": {
         "id": 920191,
@@ -39344,8 +39344,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:05.329Z",
         "updatedAt": "2023-07-05T12:36:11.027Z",
-        "modifiedAt": "2024-07-07T12:31:46Z",
-        "sha256": "4a3d998a3b81e748c5feb5c4cdf7d7c64c7791d88a4bb8841dc5a0a42ae05d09"
+        "modifiedAt": "2024-07-17T02:08:00Z",
+        "sha256": "eb1283688e94964e963f69e7b3b693401c35d2f153c3b92bdd8d550eeaafae44"
     },
     "scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.json": {
         "id": 920532,

@@ -11,7 +11,7 @@
     "ID": 293417876,
     "key": "]66%[/color] of any damage that ignores armor",
     "original": "]66%[/color] of any damage that ignores armor",
-    "translation": "]66%[/color] 伤害(无视护甲)",
+    "translation": "]66%[/color] 穿甲伤害",
     "stage": 1,
     "context": "text = 'Only take [color=' + this.Const.UI.Color.NegativeValue + ']66%[/color] of any damage that ignores armor'"
   },
@@ -35,7 +35,7 @@
     "ID": 293417879,
     "key": "Only take [color=",
     "original": "Only take [color=",
-    "translation": "只保留 [color=",
+    "translation": "只受 [color=",
     "stage": 1,
     "context": "text = 'Only take [color=' + this.Const.UI.Color.NegativeValue + ']66%[/color] of any damage that ignores armor'"
   },

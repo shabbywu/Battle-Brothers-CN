@@ -27,7 +27,7 @@
     "ID": 293422956,
     "key": "The arena offers an opportunity to earn gold and fame in fights that are to the death, and in front of crowds that cheer for the most gruesome manner in which lives are dispatched.",
     "original": "The arena offers an opportunity to earn gold and fame in fights that are to the death, and in front of crowds that cheer for the most gruesome manner in which lives are dispatched.",
-    "translation": "竞技场提供了一个在那些热爱凶残杀戮的嗜血观众面前，通过殊死搏斗赢得金钱和名声的机会。",
+    "translation": "竞技场提供了一个在那些热爱凶残杀戮的观众面前，通过殊死搏斗赢得金钱和名声的机会。",
     "stage": 1,
     "context": "text = 'The arena offers an opportunity to earn gold and fame in fights that are to the death, and in front of crowds that cheer for the most gruesome manner in which lives are dispatched.'"
   },
