@@ -11,7 +11,7 @@
     "ID": 293417394,
     "key": "A legion of walking dead, back to claim from the living what was once theirs.",
     "original": "A legion of walking dead, back to claim from the living what was once theirs.",
-    "translation": "一大群行尸，向活着的人索取曾经属于他们的东西。",
+    "translation": "一大群行尸，向活人索取曾属于他们的东西。",
     "stage": 1,
     "context": "party.setDescription('A legion of walking dead, back to claim from the living what was once theirs.')"
   }

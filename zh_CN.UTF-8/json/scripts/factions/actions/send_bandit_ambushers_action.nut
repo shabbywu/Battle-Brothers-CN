@@ -3,7 +3,7 @@
     "ID": 293417328,
     "key": "A rough and tough band of brigands preying on the weak.",
     "original": "A rough and tough band of brigands preying on the weak.",
-    "translation": "一支粗暴而强悍的强盗队伍在捕食弱者。",
+    "translation": "一伙粗野强盗，专挑弱者下手。",
     "stage": 1,
     "context": "party.setDescription('A rough and tough band of brigands preying on the weak.')"
   },

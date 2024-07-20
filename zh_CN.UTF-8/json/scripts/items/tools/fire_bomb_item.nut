@@ -19,7 +19,7 @@
     "ID": 293418940,
     "key": "Fire Pot",
     "original": "Fire Pot",
-    "translation": "火焰罐",
+    "translation": "火油罐",
     "stage": 1,
     "context": "this.m.Name = 'Fire Pot'"
   },

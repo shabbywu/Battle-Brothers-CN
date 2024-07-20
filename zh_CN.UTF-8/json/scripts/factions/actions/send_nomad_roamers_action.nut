@@ -3,7 +3,7 @@
     "ID": 293417377,
     "key": "A band of nomads scouting the area.",
     "original": "A band of nomads scouting the area.",
-    "translation": "一个游牧民族正在侦查这个地区。",
+    "translation": "一群正在该地区侦察的游牧民。",
     "stage": 1,
     "context": "party.setDescription('A band of nomads scouting the area.')"
   },
