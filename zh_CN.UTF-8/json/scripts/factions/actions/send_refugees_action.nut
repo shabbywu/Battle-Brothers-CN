@@ -3,7 +3,7 @@
     "ID": 293417387,
     "key": "Refugees fleeing the horrors of war - beaten down, tired and desperate.",
     "original": "Refugees fleeing the horrors of war - beaten down, tired and desperate.",
-    "translation": "逃离战争恐怖的难民，被打倒、疲惫和绝望。",
+    "translation": "逃离战祸的难民，消沉、疲惫而绝望。",
     "stage": 1,
     "context": "party.setDescription('Refugees fleeing the horrors of war - beaten down, tired and desperate.')"
   },

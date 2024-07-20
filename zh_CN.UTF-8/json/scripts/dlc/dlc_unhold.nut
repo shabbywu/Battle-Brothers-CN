@@ -19,7 +19,7 @@
     "ID": 293410190,
     "key": "Potions, despite their colorful descriptions, are essentially drugs, and characters can get addicted to them.",
     "original": "Potions, despite their colorful descriptions, are essentially drugs, and characters can get addicted to them.",
-    "translation": "药剂，尽管它们有着华丽的描述，本质上是毒品，角色可能会对它们上瘾。",
+    "translation": "药剂，在它们天花乱坠的描述之外，本质上是毒品，角色可能会对它们上瘾。",
     "stage": 1,
     "context": "'Potions, despite their colorful descriptions, are essentially drugs, and characters can get addicted to them.'"
   },
@@ -43,7 +43,7 @@
     "ID": 293410193,
     "key": "The Webknecht is a large arachnid that lives in sizable colonies in the dark areas of forests throughout the world.",
     "original": "The Webknecht is a large arachnid that lives in sizable colonies in the dark areas of forests throughout the world.",
-    "translation": "蛛魔(Webknecht)是一种大型蜘蛛，生活在全球各地森林的黑暗地带，通常聚集成大型群体。",
+    "translation": "蛛魔是一种大型蜘蛛，大群聚居在各地森林深处的黑暗地带。",
     "stage": 1,
     "context": "'The Webknecht is a large arachnid that lives in sizable colonies in the dark areas of forests throughout the world.'"
   },
@@ -91,7 +91,7 @@
     "ID": 293410199,
     "key": "Use armor attachments to further improve and specialize the equipment of your men.",
     "original": "Use armor attachments to further improve and specialize the equipment of your men.",
-    "translation": "使用装甲附件来进一步改进和专门化你士兵的装备。",
+    "translation": "使用盔甲附件，进一步改进和专门化你士兵的装备。",
     "stage": 1,
     "context": "'Use armor attachments to further improve and specialize the equipment of your men.'"
   },
@@ -107,7 +107,7 @@
     "ID": 293410201,
     "key": "Selling trophies from slain beasts can be lucrative. You can always get new ones.",
     "original": "Selling trophies from slain beasts can be lucrative. You can always get new ones.",
-    "translation": "出售击败野兽的战利品可以获得高额收益。你总是可以得到新的。",
+    "translation": "出售野兽战利品可以获得高额收益。你总能得到新的。",
     "stage": 1,
     "context": "'Selling trophies from slain beasts can be lucrative. You can always get new ones.'"
   },
@@ -115,7 +115,7 @@
     "ID": 293410202,
     "key": "Webknechts are more confident, the larger the group they are in.",
     "original": "Webknechts are more confident, the larger the group they are in.",
-    "translation": "蛛魔(Webknechts)以大群行动时更有信心。",
+    "translation": "蛛魔以大群行动时更有信心。",
     "stage": 1,
     "context": "'Webknechts are more confident, the larger the group they are in.'"
   },
@@ -123,7 +123,7 @@
     "ID": 293410203,
     "key": "The further away from civilization, the more dangerous the beasts that roam the land.",
     "original": "The further away from civilization, the more dangerous the beasts that roam the land.",
-    "translation": "离文明地区越远，漫游土地的野兽就越危险。",
+    "translation": "离文明越远的土地上，游荡的野兽就越危险。",
     "stage": 1,
     "context": "'The further away from civilization, the more dangerous the beasts that roam the land.'"
   },
@@ -131,7 +131,7 @@
     "ID": 293410204,
     "key": "Nachzehrers are found more often in the southern parts of the world.",
     "original": "Nachzehrers are found more often in the southern parts of the world.",
-    "translation": "食尸鬼在世界南部地区更为常见。",
+    "translation": "食尸鬼多见于世界南部地区。",
     "stage": 1,
     "context": "'Nachzehrers are found more often in the southern parts of the world.'"
   },
@@ -147,7 +147,7 @@
     "ID": 293410206,
     "key": "Collect trophies from slain beasts and have the taxidermist craft useful items from them.",
     "original": "Collect trophies from slain beasts and have the taxidermist craft useful items from them.",
-    "translation": "从被杀死的野兽身上收集战利品，让制作动物标本的工匠为你制作有用的物品。",
+    "translation": "从被杀死的野兽身上收集战利品，让剥制师制成有用的物品。",
     "stage": 1,
     "context": "'Collect trophies from slain beasts and have the taxidermist craft useful items from them.'"
   },
@@ -179,7 +179,7 @@
     "ID": 293410210,
     "key": "Webknechts inflict additional damage to targets trapped in their webs.",
     "original": "Webknechts inflict additional damage to targets trapped in their webs.",
-    "translation": "蛛魔(Webknechts)能够对困在网中的目标造成额外伤害。",
+    "translation": "蛛魔能够对困在网中的目标造成额外伤害。",
     "stage": 1,
     "context": "'Webknechts inflict additional damage to targets trapped in their webs.'"
   },
@@ -203,7 +203,7 @@
     "ID": 293410213,
     "key": "Hexen are known to strike ill-omened deals that people come to regret.",
     "original": "Hexen are known to strike ill-omened deals that people come to regret.",
-    "translation": "女巫以达成令人后悔的神秘交易而著称。",
+    "translation": "女巫以做令人后悔的不光彩交易而著称。",
     "stage": 1,
     "context": "'Hexen are known to strike ill-omened deals that people come to regret.'"
   },

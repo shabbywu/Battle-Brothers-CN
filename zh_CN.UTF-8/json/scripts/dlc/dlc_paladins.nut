@@ -3,7 +3,7 @@
     "ID": 293410186,
     "key": "With the 'Oathtakers' origin, instead of ambitions you'll pick oaths that grant special boons and burdens.",
     "original": "With the 'Oathtakers' origin, instead of ambitions you'll pick oaths that grant special boons and burdens.",
-    "translation": "在“宣誓者”起源游戏中，你将选择誓言而非抱负，获得特殊的恩惠和负担。",
+    "translation": "在“宣誓者”起源游戏中，你将选择誓言而非野心，获得特殊的恩惠和负担。",
     "stage": 1,
     "context": "\"With the 'Oathtakers' origin, instead of ambitions you'll pick oaths that grant special boons and burdens.\""
   },

@@ -19,8 +19,8 @@
     "ID": 293417360,
     "key": " that is transporting all manner of goods between settlements.",
     "original": " that is transporting all manner of goods between settlements.",
-    "translation": "的贸易商队，在定居点之间运输各种各样的货物。",
-    "stage": 5,
+    "translation": "的贸易商队，在定居点间运送各种货物。",
+    "stage": 1,
     "context": "party.setDescription('A trading caravan from ' + this.m.Start.getName() + ' that is transporting all manner of goods between settlements.')"
   }
 ]

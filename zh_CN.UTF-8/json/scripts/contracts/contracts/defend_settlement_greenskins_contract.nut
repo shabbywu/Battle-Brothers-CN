@@ -195,7 +195,7 @@
     "ID": 293408449,
     "key": "Brave men defending their homes with their lives. Farmers, craftsmen, artisans - but not one real soldier.",
     "original": "Brave men defending their homes with their lives. Farmers, craftsmen, artisans - but not one real soldier.",
-    "translation": "勇敢的人用生命保卫家园。农夫、工匠、技工，但没有一个真正的士兵。",
+    "translation": "用生命保卫家园的勇士。农夫、工匠、手艺人，唯独没有真正的士兵。",
     "stage": 1,
     "context": "party.setDescription('Brave men defending their homes with their lives. Farmers, craftsmen, artisans - but not one real soldier.')"
   },

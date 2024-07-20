@@ -75,8 +75,8 @@
     "ID": 293408754,
     "key": "A rough and tough band of brigands preying on the weak.",
     "original": "A rough and tough band of brigands preying on the weak.",
-    "translation": "一支粗暴而强悍的强盗队伍在捕食弱者。",
-    "stage": 5,
+    "translation": "一伙粗野强盗，专挑弱者下手。",
+    "stage": 1,
     "context": "party.setDescription('A rough and tough band of brigands preying on the weak.')"
   },
   {
@@ -163,7 +163,7 @@
     "ID": 293408765,
     "key": "A band of menacing orcs, greenskinned and towering any man.",
     "original": "A band of menacing orcs, greenskinned and towering any man.",
-    "translation": "一群凶狠的兽人，绿皮肤，高过所有人。",
+    "translation": "一群凶狠的兽人，绿皮肤，远高过所有人。",
     "stage": 1,
     "context": "party.setDescription('A band of menacing orcs, greenskinned and towering any man.')"
   },
@@ -411,8 +411,8 @@
     "ID": 293408796,
     "key": " that is transporting all manner of goods between settlements.",
     "original": " that is transporting all manner of goods between settlements.",
-    "translation": "的贸易商队，在定居点之间运输各种各样的货物。",
-    "stage": 5,
+    "translation": "的贸易商队，在定居点间运送各种货物。",
+    "stage": 1,
     "context": "party.setDescription('A trading caravan from ' + this.m.Home.getName() + ' that is transporting all manner of goods between settlements.')"
   },
   {

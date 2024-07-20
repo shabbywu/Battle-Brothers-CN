@@ -43,8 +43,8 @@
     "ID": 293420621,
     "key": "Throw Fire Pot",
     "original": "Throw Fire Pot",
-    "translation": "投掷火油壶",
-    "stage": 5,
+    "translation": "投掷火油罐",
+    "stage": 1,
     "context": "this.m.Name = 'Throw Fire Pot'"
   }
 ]

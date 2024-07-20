@@ -19,7 +19,7 @@
     "ID": 293407737,
     "key": "A legion of walking dead, back to claim from the living what was once theirs.",
     "original": "A legion of walking dead, back to claim from the living what was once theirs.",
-    "translation": "一大群行尸，向活着的人索取曾经属于他们的东西。",
+    "translation": "一大群行尸，向活人索取曾属于他们的东西。",
     "stage": 1,
     "context": "party.setDescription('A legion of walking dead, back to claim from the living what was once theirs.')"
   },
@@ -75,7 +75,7 @@
     "ID": 293407744,
     "key": "A band of menacing orcs, greenskinned and towering any man.",
     "original": "A band of menacing orcs, greenskinned and towering any man.",
-    "translation": "一群凶狠的兽人，绿皮肤，高过所有人。",
+    "translation": "一群凶狠的兽人，绿皮肤，远高过所有人。",
     "stage": 1,
     "context": "party.setDescription('A band of menacing orcs, greenskinned and towering any man.')"
   },

@@ -35,7 +35,7 @@
     "ID": 293410219,
     "key": "Beastmasters can not crack the whip to direct their beastly warmachines when adjacent to an enemy.",
     "original": "Beastmasters can not crack the whip to direct their beastly warmachines when adjacent to an enemy.",
-    "translation": "兽王不能在邻近敌人时使用鞭子指挥他们的野兽战争机器。",
+    "translation": "兽王不能在接邻敌人时使用鞭子指挥他们的野兽战争机器。",
     "stage": 1,
     "context": "'Beastmasters can not crack the whip to direct their beastly warmachines when adjacent to an enemy.'"
   },
@@ -43,7 +43,7 @@
     "ID": 293410220,
     "key": "Battle Whips can temporarily disarm opponents, preventing them from using weapon skills.",
     "original": "Battle Whips can temporarily disarm opponents, preventing them from using weapon skills.",
-    "translation": "战斗鞭能够暂时解除对手的武器，阻止他们使用武器技能。",
+    "translation": "战鞭能够暂时解除对手的武器，阻止他们使用武器技能。",
     "stage": 1,
     "context": "'Battle Whips can temporarily disarm opponents, preventing them from using weapon skills.'"
   },
@@ -115,7 +115,7 @@
     "ID": 293410229,
     "key": "The north is inhabited by fierce barbarian tribes.",
     "original": "The north is inhabited by fierce barbarian tribes.",
-    "translation": "北方居住着凶猛的野蛮部落。",
+    "translation": "北方居住着凶猛的野蛮人部落。",
     "stage": 1,
     "context": "'The north is inhabited by fierce barbarian tribes.'"
   },
@@ -131,7 +131,7 @@
     "ID": 293410231,
     "key": "The rhythmic tribal beats of drummers reduce the fatigue of all barbarians on the field by a small amount each round.",
     "original": "The rhythmic tribal beats of drummers reduce the fatigue of all barbarians on the field by a small amount each round.",
-    "translation": "鼓手有规律的部落节拍使得每回合所有野蛮人的疲劳值都少量降低。",
+    "translation": "鼓手有节奏的部落节拍每回合都能为所有野蛮人降低少量疲劳值。",
     "stage": 1,
     "context": "'The rhythmic tribal beats of drummers reduce the fatigue of all barbarians on the field by a small amount each round.'"
   }
