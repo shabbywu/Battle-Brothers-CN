@@ -4370,8 +4370,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:53.766Z",
         "updatedAt": "2023-06-26T05:47:05.694Z",
-        "modifiedAt": "2024-01-15T05:42:10Z",
-        "sha256": "2433d1953f7074cbbddbaf493922f10463d056878058054fd1df01644f2c5933"
+        "modifiedAt": "2024-07-22T07:48:40Z",
+        "sha256": "696af9ea739e8478d6ef8b48c1a77cc163c071ce1a3224a849344358a212eb99"
     },
     "scripts/entity/world/attached_location/beekeeper_location.json": {
         "id": 918588,
@@ -4406,8 +4406,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:54.895Z",
         "updatedAt": "2023-06-26T05:47:05.815Z",
-        "modifiedAt": "2024-01-15T05:53:41Z",
-        "sha256": "e26a8fb45de2bba84fbd3898859dcb1dc0576303419d2d08ec6ee085d842a78c"
+        "modifiedAt": "2024-07-22T08:22:42Z",
+        "sha256": "d6700b8bc5b3802664a93aae92ea65f78090ffa3cc9e44e32aa727c77dcf6c7a"
     },
     "scripts/entity/world/attached_location/brewery_location.json": {
         "id": 918590,
@@ -4418,14 +4418,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:55.974Z",
         "updatedAt": "2023-06-26T05:47:05.961Z",
-        "modifiedAt": "2023-06-26T05:47:06Z",
-        "sha256": "e58df6f7e4be9e977ad5e6b775e537a1cd05be008f3852b114bf0926c7140659"
+        "modifiedAt": "2024-07-22T08:21:06Z",
+        "sha256": "1aff47b06af574f0f653cc165d581d717eb8843be256aebf18adae354f34422c"
     },
     "scripts/entity/world/attached_location/dye_maker_location.json": {
         "id": 918591,
@@ -4442,8 +4442,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:56.641Z",
         "updatedAt": "2023-06-26T05:47:06.095Z",
-        "modifiedAt": "2024-05-11T16:47:14Z",
-        "sha256": "8d7c68f8008a8f289f79b1f9678bf2a37c2dd1c7009694a78379ef3f51f03ae1"
+        "modifiedAt": "2024-07-22T08:19:43Z",
+        "sha256": "c20caadd06eda99336fdcf868f144ec573d886babd6eb29be332fad06118c7b0"
     },
     "scripts/entity/world/attached_location/fishing_huts_location.json": {
         "id": 918592,
@@ -4460,8 +4460,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:56.982Z",
         "updatedAt": "2023-06-26T05:47:06.156Z",
-        "modifiedAt": "2024-01-15T06:01:02Z",
-        "sha256": "e85316b441e61256aa8a33f74e2d5630a52b60d2ff19caa5d87569c51395ce61"
+        "modifiedAt": "2024-07-22T08:18:24Z",
+        "sha256": "a8fa38261c01a95b027d3d5e1bfbfbfbcf3fe0a32b1288812414265c69efd05d"
     },
     "scripts/entity/world/attached_location/fletchers_hut_location.json": {
         "id": 918593,
@@ -4472,14 +4472,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:57.316Z",
         "updatedAt": "2023-06-26T05:47:06.243Z",
-        "modifiedAt": "2023-06-26T05:47:06Z",
-        "sha256": "75add666c3b00f4c151c0cd57bd6c2fe97de92e3ed780d597e5027115a458d18"
+        "modifiedAt": "2024-07-22T08:44:17Z",
+        "sha256": "47d06505788f7f471cccbb1663d1bd5462c05fa773d9d01519a7e64b5c12c661"
     },
     "scripts/entity/world/attached_location/fortified_outpost_location.json": {
         "id": 918594,
@@ -4490,14 +4490,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:57.654Z",
         "updatedAt": "2023-06-26T05:47:06.306Z",
-        "modifiedAt": "2023-06-26T05:47:06Z",
-        "sha256": "2cb203443151b61bbc559bc12e99174572f1c507536430483ef107bedbced655"
+        "modifiedAt": "2024-07-22T08:40:00Z",
+        "sha256": "15027da36dc2347dc461912c2c1dcc64bed5c8d6408910357e5067bc1b539ce2"
     },
     "scripts/entity/world/attached_location/gatherers_hut_location.json": {
         "id": 918595,
@@ -4508,14 +4508,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:57.995Z",
         "updatedAt": "2023-06-26T05:47:06.378Z",
-        "modifiedAt": "2024-01-15T06:11:59Z",
-        "sha256": "f840ff16e13292851616d3bca2f9fe44531d8d7a6debc3e1e7a744113d2f450d"
+        "modifiedAt": "2024-07-22T08:32:09Z",
+        "sha256": "3933ec1ffb53077ea78d85bd317483e8619eeaae986bbfddd39da00c456dc7a3"
     },
     "scripts/entity/world/attached_location/gem_mine_location.json": {
         "id": 918596,
@@ -4532,8 +4532,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:58.429Z",
         "updatedAt": "2023-06-26T05:47:06.434Z",
-        "modifiedAt": "2024-01-15T06:13:45Z",
-        "sha256": "bc7ad11c9e95c568cfb156539397477e69d25086627e4917032e925d1d41a940"
+        "modifiedAt": "2024-07-22T08:36:10Z",
+        "sha256": "6fed3e6b23339398a129d78a2fcb6337e4655f73c5dbf84b3a98701a7885b279"
     },
     "scripts/entity/world/attached_location/goat_herd_location.json": {
         "id": 918597,
@@ -4550,8 +4550,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:59.317Z",
         "updatedAt": "2023-06-26T05:47:06.617Z",
-        "modifiedAt": "2024-01-15T06:15:49Z",
-        "sha256": "9b609cb936553d467f0397f4565cd58049a43120cadb2fe6a3401c32b035da3c"
+        "modifiedAt": "2024-07-22T08:38:46Z",
+        "sha256": "52176b2fe277c84445718c9b95e356065ae6540ab21ffc61279007865e0117ad"
     },
     "scripts/entity/world/attached_location/gold_mine_location.json": {
         "id": 918598,
@@ -4598,14 +4598,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:00.338Z",
         "updatedAt": "2023-06-26T05:47:06.832Z",
-        "modifiedAt": "2023-06-26T05:47:07Z",
-        "sha256": "85857842a647ca3828817c5da528cf2c836a7cef53235a5a021d924f8b5bd97a"
+        "modifiedAt": "2024-07-22T08:47:14Z",
+        "sha256": "de679fc7c9a6c3c7699d00f8a6e7fdbb5e509e11a580f10d2dd1a31dfd698f6d"
     },
     "scripts/entity/world/attached_location/herbalists_grove_location.json": {
         "id": 918601,
@@ -4616,14 +4616,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:00.871Z",
         "updatedAt": "2023-06-26T05:47:06.894Z",
-        "modifiedAt": "2023-06-26T05:47:07Z",
-        "sha256": "925ac3b465acce381c9c00d0fdc23e36f163745c9e82a7c2826c3d1a3e712904"
+        "modifiedAt": "2024-07-22T08:54:06Z",
+        "sha256": "586096389f202ddb0c826fe034d7e7e817316007824db33514d6707b3fb888a5"
     },
     "scripts/entity/world/attached_location/hunters_cabin_location.json": {
         "id": 918602,
@@ -4634,14 +4634,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:01.208Z",
         "updatedAt": "2023-06-26T05:47:07.032Z",
-        "modifiedAt": "2023-06-26T05:47:07Z",
-        "sha256": "db235a13a6467f953953ac4937b5de6ae13522b518a9062bccb09de1a3d2ed91"
+        "modifiedAt": "2024-07-22T08:56:33Z",
+        "sha256": "ba18ec9cef4f1ec0dd381999a65e30d569f346e0346b636952514f523315879d"
     },
     "scripts/entity/world/attached_location/incense_dryer_location.json": {
         "id": 918603,
@@ -4658,8 +4658,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:01.557Z",
         "updatedAt": "2023-06-26T05:47:07.147Z",
-        "modifiedAt": "2024-01-15T06:25:01Z",
-        "sha256": "1e5b392477a6c2444565893a5ff2326852ee1a4666b1b639f2ce59a1d28680db"
+        "modifiedAt": "2024-07-22T08:58:37Z",
+        "sha256": "ea14fe51a17526741e577454453a800aefc0ca6a956ab6e61056eae601911221"
     },
     "scripts/entity/world/attached_location/leather_tanner_location.json": {
         "id": 918604,
@@ -4670,14 +4670,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:01.948Z",
         "updatedAt": "2023-06-26T05:47:07.203Z",
-        "modifiedAt": "2024-01-15T06:27:33Z",
-        "sha256": "68f17677ef268c84c0f1385e38fffd5ca96d6ff7ff00697a43b4e15473442409"
+        "modifiedAt": "2024-07-22T09:04:29Z",
+        "sha256": "6f7dc5b0d6e46d9d05dce49858021656e0ccdb74e58017b864fe7e1115a42ecc"
     },
     "scripts/entity/world/attached_location/lumber_camp_location.json": {
         "id": 918605,
@@ -4688,14 +4688,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:02.292Z",
         "updatedAt": "2023-06-26T05:47:07.266Z",
-        "modifiedAt": "2023-06-26T05:47:07Z",
-        "sha256": "994cf67ee5d260abd60feb9c5fb29895c3218904812be974777eb0072551318e"
+        "modifiedAt": "2024-07-22T09:09:53Z",
+        "sha256": "00954e07d33a1cede8d03d6b70116e1ccb99292f3864826999e1aa53efa77c6e"
     },
     "scripts/entity/world/attached_location/militia_trainingcamp_location.json": {
         "id": 918606,
@@ -4706,14 +4706,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:02.629Z",
         "updatedAt": "2023-06-26T05:47:07.32Z",
-        "modifiedAt": "2024-01-15T06:28:09Z",
-        "sha256": "8133af255b26c3e5cd0b7f5a14f01b147f1c9d4fcd734d727b8e8c650dfcd765"
+        "modifiedAt": "2024-07-22T09:25:31Z",
+        "sha256": "cbec0fe6585a0abb8bd1fd286017669d13d4c8604f4733cfa6a2da652f855c5b"
     },
     "scripts/entity/world/attached_location/militia_trainingcamp_oriental_location.json": {
         "id": 918607,
@@ -4724,14 +4724,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:02.967Z",
         "updatedAt": "2023-06-26T05:47:07.464Z",
-        "modifiedAt": "2024-01-15T06:28:45Z",
-        "sha256": "ccf333704aa412e2ed6e96d7eb6930e137d557dc0d08618466b0f5124063dfab"
+        "modifiedAt": "2024-07-22T09:25:33Z",
+        "sha256": "0c999e5dcd767826b870caed883279406f171fa8933bc604665dc074b522104b"
     },
     "scripts/entity/world/attached_location/mushroom_grove_location.json": {
         "id": 918608,

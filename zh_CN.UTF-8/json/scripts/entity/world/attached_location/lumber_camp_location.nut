@@ -3,8 +3,8 @@
     "ID": 293410544,
     "key": "This lumber camp is used as a base for lumberjacks on the search for the most precious and durable materials in the nearby woods.",
     "original": "This lumber camp is used as a base for lumberjacks on the search for the most precious and durable materials in the nearby woods.",
-    "translation": "这个伐木营地是伐木工们在附近树林里寻找最珍贵、最耐用材料的基地。",
-    "stage": 5,
+    "translation": "这座伐木营地是伐木工人探索附近树林，寻找珍贵耐用材料的基地。",
+    "stage": 1,
     "context": "this.m.Description = 'This lumber camp is used as a base for lumberjacks on the search for the most precious and durable materials in the nearby woods.'"
   },
   {
