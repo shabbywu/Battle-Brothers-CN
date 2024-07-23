@@ -11,8 +11,8 @@
     "ID": 293410523,
     "key": "Large barracks housing a host of professional soldiers.",
     "original": "Large barracks housing a host of professional soldiers.",
-    "translation": "容纳大量职业士兵的大型兵营。",
-    "stage": 5,
+    "translation": "居住着大量职业士兵的大型兵营。",
+    "stage": 1,
     "context": "this.m.Description = 'Large barracks housing a host of professional soldiers.'"
   }
 ]

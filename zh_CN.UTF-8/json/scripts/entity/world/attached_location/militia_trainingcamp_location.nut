@@ -3,8 +3,8 @@
     "ID": 293410546,
     "key": "A large compound of militia barracks. This camp will turn ordinary peasants into somewhat able soldiers that can defend their home and their loved ones.",
     "original": "A large compound of militia barracks. This camp will turn ordinary peasants into somewhat able soldiers that can defend their home and their loved ones.",
-    "translation": "一个由民兵兵营组成的大院。这个营地将把普通农民变成有能力保卫家园和亲人的士兵。",
-    "stage": 5,
+    "translation": "一座大型民兵兵营。普通贫民会在这座营地里受训，成为差强人意的士兵，保护家园和亲人。",
+    "stage": 1,
     "context": "this.m.Description = 'A large compound of militia barracks. This camp will turn ordinary peasants into somewhat able soldiers that can defend their home and their loved ones.'"
   },
   {

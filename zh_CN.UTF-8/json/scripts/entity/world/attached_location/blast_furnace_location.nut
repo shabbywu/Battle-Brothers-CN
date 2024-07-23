@@ -11,7 +11,7 @@
     "ID": 293410513,
     "key": "The blast furnace produces the blazing temperatures needed to make the most durable of metal alloys. Handy armorsmiths will use these alloys to create sturdy armor in the nearest settlement.",
     "original": "The blast furnace produces the blazing temperatures needed to make the most durable of metal alloys. Handy armorsmiths will use these alloys to create sturdy armor in the nearest settlement.",
-    "translation": "鼓风高炉能为制造最耐用的合金提供必要的高温。手巧的盔甲匠会在最近的定居点使用这些合金制造坚固的盔甲。",
+    "translation": "鼓风高炉所能提供的炽热高温，是制造最结实合金的必要条件。手巧的盔甲匠会在最近的定居点里，使用这些合金制造坚固的盔甲。",
     "stage": 1,
     "context": "this.m.Description = 'The blast furnace produces the blazing temperatures needed to make the most durable of metal alloys. Handy armorsmiths will use these alloys to create sturdy armor in the nearest settlement.'"
   }

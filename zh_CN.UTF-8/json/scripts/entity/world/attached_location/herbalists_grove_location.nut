@@ -3,8 +3,8 @@
     "ID": 293410536,
     "key": "In this remote grove the knowing herbalist collects all kinds of medicinal plants and roots.",
     "original": "In this remote grove the knowing herbalist collects all kinds of medicinal plants and roots.",
-    "translation": "在这片偏僻的小树林里，博学的草药师收集各种药用植物和根茎。",
-    "stage": 5,
+    "translation": "这片偏僻的树林是独具慧眼的草药师采集各种药用植物和根茎的地方。",
+    "stage": 1,
     "context": "this.m.Description = 'In this remote grove the knowing herbalist collects all kinds of medicinal plants and roots.'"
   },
   {
