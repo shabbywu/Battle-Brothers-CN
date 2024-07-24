@@ -11,7 +11,7 @@
     "ID": 293422429,
     "key": "This character is a disciple of Davkul, an individual with unquestionable loyalty to the elder god. He embraces physical pain and peril as bringing him closer to salvation.",
     "original": "This character is a disciple of Davkul, an individual with unquestionable loyalty to the elder god. He embraces physical pain and peril as bringing him closer to salvation.",
-    "translation": "这个角色是一名达库尔门徒，一个对古老神明忠心不二的人。将接纳身体上的痛苦和危难视为救赎之道。",
+    "translation": "这个角色是一名达库尔门徒，一个对上古神明忠心不二的人。将接纳身体上的痛苦和危难视为救赎之道。",
     "stage": 1,
     "context": "this.m.Description = 'This character is a disciple of Davkul, an individual with unquestionable loyalty to the elder god. He embraces physical pain and peril as bringing him closer to salvation.'"
   },

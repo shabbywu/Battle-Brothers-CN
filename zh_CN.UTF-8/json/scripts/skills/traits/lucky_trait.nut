@@ -11,16 +11,16 @@
     "ID": 293422595,
     "key": "the Lucky",
     "original": "the Lucky",
-    "translation": "幸运星(the Lucky)",
-    "stage": 5,
+    "translation": "幸运星",
+    "stage": 1,
     "context": "'the Lucky'"
   },
   {
     "ID": 293422596,
     "key": "the Blessed",
     "original": "the Blessed",
-    "translation": "蒙福者(the Blessed)",
-    "stage": 5,
+    "translation": "蒙福者",
+    "stage": 1,
     "context": "'the Blessed'"
   },
   {

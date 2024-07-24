@@ -19,8 +19,8 @@
     "ID": 293422493,
     "key": "Blessed with the eyes of an eagle, this character can spot a fly from a hundred paces away.",
     "original": "Blessed with the eyes of an eagle, this character can spot a fly from a hundred paces away.",
-    "translation": "拥有鹰眼般的视力，这个角色可以从一百步之外发现一只苍蝇。",
-    "stage": 5,
+    "translation": "拥有鹰眼般的视力，这个角色可以看到百步之外的一只苍蝇。",
+    "stage": 1,
     "context": "this.m.Description = 'Blessed with the eyes of an eagle, this character can spot a fly from a hundred paces away.'"
   }
 ]

@@ -51,8 +51,8 @@
     "ID": 293416867,
     "key": " is no longer spartan",
     "original": " is no longer spartan",
-    "translation": "不再是斯巴达人",
-    "stage": 5,
+    "translation": "不再清苦",
+    "stage": 1,
     "context": "text = _event.m.Spartan.getName() + ' is no longer spartan'"
   },
   {

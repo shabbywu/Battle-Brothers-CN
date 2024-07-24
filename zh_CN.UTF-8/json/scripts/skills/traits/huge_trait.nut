@@ -3,16 +3,16 @@
     "ID": 293422555,
     "key": "the Ox",
     "original": "the Ox",
-    "translation": "壮牛(the Ox)",
-    "stage": 5,
+    "translation": "壮牛",
+    "stage": 1,
     "context": "'the Ox'"
   },
   {
     "ID": 293422556,
     "key": "the Tower",
     "original": "the Tower",
-    "translation": "高塔(the Tower)",
-    "stage": 5,
+    "translation": "高塔",
+    "stage": 1,
     "context": "'the Tower'"
   },
   {
@@ -51,8 +51,8 @@
     "ID": 293422561,
     "key": "the Bull",
     "original": "the Bull",
-    "translation": "公牛(the Bull)",
-    "stage": 5,
+    "translation": "公牛",
+    "stage": 1,
     "context": "'the Bull'"
   },
   {
@@ -67,24 +67,24 @@
     "ID": 293422563,
     "key": "the Giant",
     "original": "the Giant",
-    "translation": "巨人(the Giant)",
-    "stage": 5,
+    "translation": "巨人",
+    "stage": 1,
     "context": "'the Giant'"
   },
   {
     "ID": 293422564,
     "key": "the Mountain",
     "original": "the Mountain",
-    "translation": "大山(The Mountain)",
-    "stage": 5,
+    "translation": "大山",
+    "stage": 1,
     "context": "'the Mountain'"
   },
   {
     "ID": 293422565,
     "key": "the Bear",
     "original": "the Bear",
-    "translation": "大熊(the Bear)",
-    "stage": 5,
+    "translation": "大熊",
+    "stage": 1,
     "context": "'the Bear'"
   }
 ]

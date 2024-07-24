@@ -43,8 +43,8 @@
     "ID": 293422175,
     "key": " uses ",
     "original": " uses ",
-    "translation": "使用",
-    "stage": 5,
+    "translation": "使出",
+    "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(_user) + ' uses ' + this.getName() + ' and the shot goes astray and hits ' + this.Const.UI.getColorizedEntityName(_targetEntity))"
   },
   {
@@ -67,8 +67,8 @@
     "ID": 293422178,
     "key": " and hits ",
     "original": " and hits ",
-    "translation": "并命中",
-    "stage": 5,
+    "translation": "命中了",
+    "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(_user) + ' uses ' + this.getName() + ' and hits ' + this.Const.UI.getColorizedEntityName(_targetEntity))"
   },
   {
@@ -99,8 +99,8 @@
     "ID": 293422182,
     "key": "]Can not be used because this character has taken an oath precluding the use of ranged weapons or tools[/color]",
     "original": "]Can not be used because this character has taken an oath precluding the use of ranged weapons or tools[/color]",
-    "translation": "]不能使用，因为这个角色已经宣誓禁止使用远程武器或工具[/color]",
-    "stage": 5,
+    "translation": "]不能使用，这个角色已经立下禁止使用远程武器或道具的誓言[/color]",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character has taken an oath precluding the use of ranged weapons or tools[/color]'"
   },
   {
@@ -179,8 +179,8 @@
     "ID": 293422192,
     "key": " AP[/color][/b] to use and builds up ",
     "original": " AP[/color][/b] to use and builds up ",
-    "translation": " AP[/color][/b] 并产生 ",
-    "stage": 5,
+    "translation": " AP[/color][/b] 并积累 ",
+    "stage": 1,
     "context": "return '[i]Costs ' + this.isAffordableBasedOnAPPreview() ? '[b][color=' + this.Const.UI.Color.PositiveValue + ']' + this.getActionPointCost() : '[b][color=' + this.Const.UI.Color.NegativeValue + ']' + this.getActionPointCost() + ' AP[/color][/b] to use and builds up ' + this.isAffordableBasedOnFatiguePreview() ? '[b][color=' + this.Const.UI.Color.PositiveValue + ']' + this.getFatigueCost() : '[b][color=' + this.Const.UI.Color.NegativeValue + ']' + this.getFatigueCost() + ' Fatigue[/color][/b][/i]\n';"
   },
   {
@@ -283,8 +283,8 @@
     "ID": 293422205,
     "key": " and the shot goes astray and hits ",
     "original": " and the shot goes astray and hits ",
-    "translation": "，虽然偏离了目标，但打中了",
-    "stage": 5,
+    "translation": "，攻击偏离了目标，打中了",
+    "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(_user) + ' uses ' + this.getName() + ' and the shot goes astray and hits ' + this.Const.UI.getColorizedEntityName(_targetEntity))"
   },
   {
@@ -355,8 +355,8 @@
     "ID": 293422214,
     "key": " and the shot goes astray and misses ",
     "original": " and the shot goes astray and misses ",
-    "translation": "，不仅偏离了目标，也未命中",
-    "stage": 5,
+    "translation": "，攻击偏离了目标，擦过了",
+    "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(_user) + ' uses ' + this.getName() + ' and the shot goes astray and misses ' + this.Const.UI.getColorizedEntityName(_targetEntity) + ' (Chance: ' + this.Math.min(95, this.Math.max(5, toHit)) + ', Rolled: ' + rolled + ')')"
   },
   {

@@ -3,8 +3,8 @@
     "ID": 293422727,
     "key": "the Ox",
     "original": "the Ox",
-    "translation": "壮牛(the Ox)",
-    "stage": 5,
+    "translation": "壮牛",
+    "stage": 1,
     "context": "'the Ox'"
   },
   {
@@ -19,8 +19,8 @@
     "ID": 293422729,
     "key": "the Strong",
     "original": "the Strong",
-    "translation": "大壮(the Strong)",
-    "stage": 5,
+    "translation": "壮士",
+    "stage": 1,
     "context": "'the Strong'"
   },
   {
@@ -35,16 +35,16 @@
     "ID": 293422731,
     "key": "the Big",
     "original": "the Big",
-    "translation": "大个子(the Big)",
-    "stage": 5,
+    "translation": "大个子",
+    "stage": 1,
     "context": "'the Big'"
   },
   {
     "ID": 293422732,
     "key": "the Bull",
     "original": "the Bull",
-    "translation": "公牛(the Bull)",
-    "stage": 5,
+    "translation": "公牛",
+    "stage": 1,
     "context": "'the Bull'"
   },
   {
@@ -59,8 +59,8 @@
     "ID": 293422734,
     "key": "the Bear",
     "original": "the Bear",
-    "translation": "大熊(the Bear)",
-    "stage": 5,
+    "translation": "大熊",
+    "stage": 1,
     "context": "'the Bear'"
   }
 ]

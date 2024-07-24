@@ -3,8 +3,8 @@
     "ID": 293422404,
     "key": "the Spineless",
     "original": "the Spineless",
-    "translation": "没骨气(the Spineless)",
-    "stage": 5,
+    "translation": "没骨气",
+    "stage": 1,
     "context": "'the Spineless'"
   },
   {
@@ -19,8 +19,8 @@
     "ID": 293422406,
     "key": "the Coward",
     "original": "the Coward",
-    "translation": "胆小鬼(the Coward)",
-    "stage": 5,
+    "translation": "胆小鬼",
+    "stage": 1,
     "context": "'the Coward'"
   },
   {
@@ -51,8 +51,8 @@
     "ID": 293422410,
     "key": "the Craven",
     "original": "the Craven",
-    "translation": "懦夫(the Craven)",
-    "stage": 5,
+    "translation": "懦夫",
+    "stage": 1,
     "context": "'the Craven'"
   },
   {

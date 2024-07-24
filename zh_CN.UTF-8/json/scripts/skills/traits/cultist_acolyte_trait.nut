@@ -19,7 +19,7 @@
     "ID": 293422414,
     "key": "This character is an acolyte of Davkul, an individual with intimate knowledge of the teachings about the elder god. He embraces physical pain and peril as bringing him closer to salvation.",
     "original": "This character is an acolyte of Davkul, an individual with intimate knowledge of the teachings about the elder god. He embraces physical pain and peril as bringing him closer to salvation.",
-    "translation": "这个角色是一名达库尔侍僧，一个对古老神明的教义有着密切了解的人。将接纳身体上的痛苦和危难视为救赎之道。",
+    "translation": "这个角色是一名达库尔侍僧，一个对上古神明教义有着密切了解的人。将接纳身体上的痛苦和危难视为救赎之道。",
     "stage": 1,
     "context": "this.m.Description = 'This character is an acolyte of Davkul, an individual with intimate knowledge of the teachings about the elder god. He embraces physical pain and peril as bringing him closer to salvation.'"
   },

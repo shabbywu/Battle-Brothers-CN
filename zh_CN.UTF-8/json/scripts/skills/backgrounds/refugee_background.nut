@@ -59,8 +59,8 @@
     "ID": 293421238,
     "key": "the Survivor",
     "original": "the Survivor",
-    "translation": "幸存者(the Survivor)",
-    "stage": 5,
+    "translation": "幸存者",
+    "stage": 1,
     "context": "'the Survivor'"
   },
   {

@@ -3,24 +3,24 @@
     "ID": 293422772,
     "key": "the Eel",
     "original": "the Eel",
-    "translation": "鳗鱼 (the Eel)",
-    "stage": 5,
+    "translation": "鳗鱼",
+    "stage": 1,
     "context": "'the Eel'"
   },
   {
     "ID": 293422773,
     "key": "the Coward",
     "original": "the Coward",
-    "translation": "胆小鬼(the Coward)",
-    "stage": 5,
+    "translation": "胆小鬼",
+    "stage": 1,
     "context": "'the Coward'"
   },
   {
     "ID": 293422774,
     "key": "the Chicken",
     "original": "the Chicken",
-    "translation": "鸡仔(the Chicken)",
-    "stage": 5,
+    "translation": "鸡仔",
+    "stage": 1,
     "context": "'the Chicken'"
   },
   {

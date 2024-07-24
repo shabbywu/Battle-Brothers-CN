@@ -27,8 +27,8 @@
     "ID": 293422554,
     "key": "the Slow",
     "original": "the Slow",
-    "translation": "缓慢者(the Slow)",
-    "stage": 5,
+    "translation": "缓慢者",
+    "stage": 1,
     "context": "'the Slow'"
   }
 ]

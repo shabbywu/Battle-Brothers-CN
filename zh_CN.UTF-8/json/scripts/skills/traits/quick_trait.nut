@@ -3,8 +3,8 @@
     "ID": 293422718,
     "key": "the Quick",
     "original": "the Quick",
-    "translation": "快人(the Quick)",
-    "stage": 5,
+    "translation": "快人一步",
+    "stage": 1,
     "context": "'the Quick'"
   },
   {

@@ -43,15 +43,15 @@
     "ID": 293422706,
     "key": "the Crazy",
     "original": "the Crazy",
-    "translation": "狂人(the Crazy)",
-    "stage": 5,
+    "translation": "狂人",
+    "stage": 1,
     "context": "'the Crazy'"
   },
   {
     "ID": 293422707,
     "key": "the Paranoid",
     "original": "the Paranoid",
-    "translation": "多疑者(the Paranoid)",
+    "translation": "多疑者",
     "stage": 1,
     "context": "'the Paranoid'"
   },

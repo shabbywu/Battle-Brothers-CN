@@ -3,8 +3,8 @@
     "ID": 293422589,
     "key": "the Dog",
     "original": "the Dog",
-    "translation": "狗(the Dog)",
-    "stage": 5,
+    "translation": "狗",
+    "stage": 1,
     "context": "'the Dog'"
   },
   {
@@ -27,16 +27,16 @@
     "ID": 293422592,
     "key": "the Loyal",
     "original": "the Loyal",
-    "translation": "忠诚者(the Loyal)",
-    "stage": 5,
+    "translation": "忠诚者",
+    "stage": 1,
     "context": "'the Loyal'"
   },
   {
     "ID": 293422593,
     "key": "the Follower",
     "original": "the Follower",
-    "translation": "追随者(The Follower)",
-    "stage": 5,
+    "translation": "The Follower",
+    "stage": 1,
     "context": "'the Follower'"
   }
 ]

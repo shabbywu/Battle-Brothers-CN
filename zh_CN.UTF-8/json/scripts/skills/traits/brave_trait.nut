@@ -19,8 +19,8 @@
     "ID": 293422372,
     "key": "the Brave",
     "original": "the Brave",
-    "translation": "勇士(the Brave)",
-    "stage": 5,
+    "translation": "勇士",
+    "stage": 1,
     "context": "'the Brave'"
   },
   {

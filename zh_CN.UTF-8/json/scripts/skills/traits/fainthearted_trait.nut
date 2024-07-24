@@ -19,8 +19,8 @@
     "ID": 293422496,
     "key": "the Chicken",
     "original": "the Chicken",
-    "translation": "鸡仔(the Chicken)",
-    "stage": 5,
+    "translation": "鸡仔",
+    "stage": 1,
     "context": "'the Chicken'"
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293422498,
     "key": "the Meek",
     "original": "the Meek",
-    "translation": "温顺者(the Meek)",
-    "stage": 5,
+    "translation": "温驯者",
+    "stage": 1,
     "context": "'the Meek'"
   }
 ]

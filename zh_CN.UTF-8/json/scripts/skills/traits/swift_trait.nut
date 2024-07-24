@@ -11,16 +11,16 @@
     "ID": 293422749,
     "key": "the Swift",
     "original": "the Swift",
-    "translation": "迅捷者(the Swift)",
-    "stage": 5,
+    "translation": "迅捷者",
+    "stage": 1,
     "context": "'the Swift'"
   },
   {
     "ID": 293422750,
     "key": "Quickfeet",
     "original": "Quickfeet",
-    "translation": "敏足 (Quickfeet)",
-    "stage": 5,
+    "translation": "敏足",
+    "stage": 1,
     "context": "'Quickfeet'"
   },
   {

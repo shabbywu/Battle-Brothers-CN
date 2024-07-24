@@ -11,8 +11,8 @@
     "ID": 293422610,
     "key": "Some characters adapt to low light conditions better than others, and this individual is especially good at it.",
     "original": "Some characters adapt to low light conditions better than others, and this individual is especially good at it.",
-    "translation": "有些角色比其他人更适应弱光环境，而这个人尤其擅长。",
-    "stage": 5,
+    "translation": "有些角色比其他人更适应弱光环境，这个人更是其中的佼佼者。",
+    "stage": 1,
     "context": "this.m.Description = 'Some characters adapt to low light conditions better than others, and this individual is especially good at it.'"
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293422612,
     "key": "Eagle Eyes",
     "original": "Eagle Eyes",
-    "translation": "鹰眼(Eagle Eyes)",
-    "stage": 5,
+    "translation": "鹰眼",
+    "stage": 1,
     "context": "'Eagle Eyes'"
   }
 ]

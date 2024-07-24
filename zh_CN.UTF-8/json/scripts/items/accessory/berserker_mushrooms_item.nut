@@ -11,8 +11,8 @@
     "ID": 293417431,
     "key": "Strange mushrooms that have anyone chewing them enter a trance-like state of rage where they don't feel any pain and exhibit significantly increased aggression. Eat responsibly. Lasts for the next battle.",
     "original": "Strange mushrooms that have anyone chewing them enter a trance-like state of rage where they don't feel any pain and exhibit significantly increased aggression. Eat responsibly. Lasts for the next battle.",
-    "translation": "奇怪的蘑菇，曾经有人咀嚼它们进入一个恍惚的愤怒状态，他们不感到任何痛苦，并表现出显着增加的侵略性。谨慎食用，效果持续到下一场战斗。",
-    "stage": 5,
+    "translation": "奇怪的蘑菇，迫使咀嚼它的人进入一种恍惚的愤怒状态，他们会感不到任何痛苦，并表现出显着增加的侵略性。谨慎食用。效果持续到下一场战斗。",
+    "stage": 1,
     "context": "this.m.Description = \"Strange mushrooms that have anyone chewing them enter a trance-like state of rage where they don't feel any pain and exhibit significantly increased aggression. Eat responsibly. Lasts for the next battle.\""
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293417433,
     "key": "Right-click or drag onto the currently selected character in order to eat. This item will be consumed in the process.",
     "original": "Right-click or drag onto the currently selected character in order to eat. This item will be consumed in the process.",
-    "translation": "右键单击或拖动到当前选定的角色上进行食用。 此物品会在使用过程中消耗掉。",
-    "stage": 5,
+    "translation": "右键单击或拖动到当前选定的角色上进行食用。此物品会在使用过程中消耗掉。",
+    "stage": 1,
     "context": "text = 'Right-click or drag onto the currently selected character in order to eat. This item will be consumed in the process.'"
   },
   {

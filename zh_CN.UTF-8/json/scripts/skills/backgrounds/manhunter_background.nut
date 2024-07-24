@@ -27,8 +27,8 @@
     "ID": 293421085,
     "key": "the Swine",
     "original": "the Swine",
-    "translation": "猪人(the Swine)",
-    "stage": 5,
+    "translation": "猪猡",
+    "stage": 1,
     "context": "'the Swine'"
   },
   {
@@ -99,8 +99,8 @@
     "ID": 293421094,
     "key": "the Cruel",
     "original": "the Cruel",
-    "translation": "残酷者(the Cruel)",
-    "stage": 5,
+    "translation": "毒手",
+    "stage": 1,
     "context": "'the Cruel'"
   },
   {

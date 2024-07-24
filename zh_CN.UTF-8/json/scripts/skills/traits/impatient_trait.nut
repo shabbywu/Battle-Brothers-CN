@@ -19,16 +19,16 @@
     "ID": 293422568,
     "key": "the Quick",
     "original": "the Quick",
-    "translation": "快人(the Quick)",
-    "stage": 5,
+    "translation": "快人一步",
+    "stage": 1,
     "context": "'the Quick'"
   },
   {
     "ID": 293422569,
     "key": "the Eager",
     "original": "the Eager",
-    "translation": "渴望者(the Eager)",
-    "stage": 5,
+    "translation": "渴望者",
+    "stage": 1,
     "context": "'the Eager'"
   },
   {

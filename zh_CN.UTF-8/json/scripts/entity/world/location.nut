@@ -3,7 +3,7 @@
     "ID": 293410594,
     "key": "This location has fortifications",
     "original": "This location has fortifications",
-    "translation": "地点巩固有防御工事",
+    "translation": "地点有防御工事",
     "stage": 1,
     "context": "text = 'This location has fortifications'"
   },

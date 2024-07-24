@@ -43,8 +43,8 @@
     "ID": 293422482,
     "key": "the Drunk",
     "original": "the Drunk",
-    "translation": "醉汉(the Drunk)",
-    "stage": 5,
+    "translation": "醉汉",
+    "stage": 1,
     "context": "'the Drunk'"
   },
   {
@@ -59,8 +59,8 @@
     "ID": 293422484,
     "key": "the Drunkard",
     "original": "the Drunkard",
-    "translation": "酒鬼(the Drunkard)",
-    "stage": 5,
+    "translation": "酒鬼",
+    "stage": 1,
     "context": "'the Drunkard'"
   }
 ]

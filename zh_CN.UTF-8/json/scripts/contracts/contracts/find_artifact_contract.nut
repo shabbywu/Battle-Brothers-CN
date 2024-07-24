@@ -179,7 +179,7 @@
     "ID": 293408890,
     "key": "the Fox",
     "original": "the Fox",
-    "translation": "狐狸",
+    "translation": "老狐狸",
     "stage": 1,
     "context": "'the Fox'"
   },

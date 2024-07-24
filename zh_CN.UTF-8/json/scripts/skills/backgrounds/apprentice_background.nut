@@ -107,16 +107,16 @@
     "ID": 293420775,
     "key": "the Bright",
     "original": "the Bright",
-    "translation": "明日之星(the Bright)",
-    "stage": 5,
+    "translation": "聪明人",
+    "stage": 1,
     "context": "'the Bright'"
   },
   {
     "ID": 293420776,
     "key": "Quickmind",
     "original": "Quickmind",
-    "translation": "捷思(Quickmind)",
-    "stage": 5,
+    "translation": "捷思",
+    "stage": 1,
     "context": "'Quickmind'"
   }
 ]

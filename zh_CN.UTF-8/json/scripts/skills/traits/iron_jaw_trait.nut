@@ -11,24 +11,24 @@
     "ID": 293422576,
     "key": "the Rock",
     "original": "the Rock",
-    "translation": "岩石(the Rock)",
-    "stage": 5,
+    "translation": "岩石",
+    "stage": 1,
     "context": "'the Rock'"
   },
   {
     "ID": 293422577,
     "key": "the Stallion",
     "original": "the Stallion",
-    "translation": "种马(the Stallion)",
-    "stage": 5,
+    "translation": "种马",
+    "stage": 1,
     "context": "'the Stallion'"
   },
   {
     "ID": 293422578,
     "key": "Ironjaw",
     "original": "Ironjaw",
-    "translation": "铁颌(Ironjaw)",
-    "stage": 5,
+    "translation": "铁颌",
+    "stage": 1,
     "context": "'Ironjaw'"
   },
   {
@@ -43,7 +43,7 @@
     "ID": 293422580,
     "key": "This character shakes off hits that would cripple a lesser man.",
     "original": "This character shakes off hits that would cripple a lesser man.",
-    "translation": "这个角色能轻易摆脱那些能瘫痪脆弱者的打击。",
+    "translation": "这个角色能轻易挨过那些足以瘫痪脆弱者的打击。",
     "stage": 1,
     "context": "this.m.Description = 'This character shakes off hits that would cripple a lesser man.'"
   }

@@ -3,8 +3,8 @@
     "ID": 293422321,
     "key": "the Ailing",
     "original": "the Ailing",
-    "translation": "衰弱者(the Ailing)",
-    "stage": 5,
+    "translation": "衰弱者",
+    "stage": 1,
     "context": "'the Ailing'"
   },
   {
@@ -27,16 +27,16 @@
     "ID": 293422324,
     "key": "the Pale",
     "original": "the Pale",
-    "translation": "苍白者(the Pale)",
-    "stage": 5,
+    "translation": "苍白者",
+    "stage": 1,
     "context": "'the Pale'"
   },
   {
     "ID": 293422325,
     "key": "the Sickly",
     "original": "the Sickly",
-    "translation": "病弱者(the Sickly)",
-    "stage": 5,
+    "translation": "病弱者",
+    "stage": 1,
     "context": "'the Sickly'"
   },
   {
