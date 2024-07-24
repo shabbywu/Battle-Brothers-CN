@@ -11,7 +11,7 @@
     "ID": 293422585,
     "key": "The glass is half empty now but was half full just a moment ago.",
     "original": "The glass is half empty now but was half full just a moment ago.",
-    "translation": "刚刚这杯子还是半满的，怎么现在有半空了。",
+    "translation": "杯子现在是半空的，刚刚是半满的。",
     "stage": 1,
     "context": "this.m.Description = 'The glass is half empty now but was half full just a moment ago.'"
   },

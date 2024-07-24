@@ -19,8 +19,8 @@
     "ID": 293422538,
     "key": "the Swine",
     "original": "the Swine",
-    "translation": "猪人(the Swine)",
-    "stage": 5,
+    "translation": "猪猡",
+    "stage": 1,
     "context": "'the Swine'"
   }
 ]

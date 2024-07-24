@@ -35,7 +35,7 @@
     "ID": 293422368,
     "key": "the Cruel",
     "original": "the Cruel",
-    "translation": "残酷者",
+    "translation": "毒手",
     "stage": 1,
     "context": "'the Cruel'"
   },

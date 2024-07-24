@@ -3,15 +3,15 @@
     "ID": 293422499,
     "key": "the Ox",
     "original": "the Ox",
-    "translation": "壮牛(the Ox)",
-    "stage": 5,
+    "translation": "壮牛",
+    "stage": 1,
     "context": "'the Ox'"
   },
   {
     "ID": 293422500,
     "key": "the Fat",
     "original": "the Fat",
-    "translation": "胖子 (the Fat)",
+    "translation": "胖子",
     "stage": 1,
     "context": "'the Fat'"
   },
@@ -43,7 +43,7 @@
     "ID": 293422504,
     "key": "the Pig",
     "original": "the Pig",
-    "translation": "猪(the Pig)",
+    "translation": "肥猪",
     "stage": 1,
     "context": "'the Pig'"
   },
@@ -51,8 +51,8 @@
     "ID": 293422505,
     "key": "the Mountain",
     "original": "the Mountain",
-    "translation": "大山(The Mountain)",
-    "stage": 5,
+    "translation": "大山",
+    "stage": 1,
     "context": "'the Mountain'"
   },
   {
@@ -67,8 +67,8 @@
     "ID": 293422507,
     "key": "the Swine",
     "original": "the Swine",
-    "translation": "猪人(the Swine)",
-    "stage": 5,
+    "translation": "猪猡",
+    "stage": 1,
     "context": "'the Swine'"
   }
 ]

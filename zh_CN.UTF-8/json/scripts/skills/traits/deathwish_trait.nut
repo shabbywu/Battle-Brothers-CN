@@ -3,8 +3,8 @@
     "ID": 293422461,
     "key": "the Odd",
     "original": "the Odd",
-    "translation": "怪人(the Odd)",
-    "stage": 5,
+    "translation": "怪人",
+    "stage": 1,
     "context": "'the Odd'"
   },
   {
@@ -19,7 +19,7 @@
     "ID": 293422463,
     "key": "the Fearless",
     "original": "the Fearless",
-    "translation": "无畏者(the Fearless)",
+    "translation": "无畏者",
     "stage": 1,
     "context": "'the Fearless'"
   },
@@ -27,8 +27,8 @@
     "ID": 293422464,
     "key": "the Mad",
     "original": "the Mad",
-    "translation": "疯子(the Mad)",
-    "stage": 5,
+    "translation": "疯子",
+    "stage": 1,
     "context": "'the Mad'"
   },
   {

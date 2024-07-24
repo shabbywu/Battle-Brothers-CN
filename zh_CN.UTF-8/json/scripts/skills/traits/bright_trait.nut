@@ -19,7 +19,7 @@
     "ID": 293422377,
     "key": "the Fox",
     "original": "the Fox",
-    "translation": "狐狸(the Fox)",
+    "translation": "老狐狸",
     "stage": 1,
     "context": "'the Fox'"
   },
@@ -27,8 +27,8 @@
     "ID": 293422378,
     "key": "the Quick",
     "original": "the Quick",
-    "translation": "快人(the Quick)",
-    "stage": 5,
+    "translation": "快人一步",
+    "stage": 1,
     "context": "'the Quick'"
   },
   {
@@ -51,15 +51,15 @@
     "ID": 293422381,
     "key": "the Bright",
     "original": "the Bright",
-    "translation": "明日之星(the Bright)",
-    "stage": 5,
+    "translation": "聪明人",
+    "stage": 1,
     "context": "'the Bright'"
   },
   {
     "ID": 293422382,
     "key": "Quickmind",
     "original": "Quickmind",
-    "translation": "捷思(Quickmind)",
+    "translation": "捷思",
     "stage": 1,
     "context": "'Quickmind'"
   }

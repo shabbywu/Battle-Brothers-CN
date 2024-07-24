@@ -11,7 +11,7 @@
     "ID": 293417422,
     "key": "This necklace fashioned from trophies taken of various Alps declares the one wearing it a veteran of battle against supernatural nocturnal predators, and not easily daunted.",
     "original": "This necklace fashioned from trophies taken of various Alps declares the one wearing it a veteran of battle against supernatural nocturnal predators, and not easily daunted.",
-    "translation": "这条项链用梦魇身上的各类战利品制成，穿戴它的人会被视作针对超自然夜间捕食者的老手，不会轻易害怕。",
+    "translation": "这条项链用梦魇身上的各类战利品制成，穿戴它的人会被视作应对超自然夜间捕食者的老手，不容易被吓到。",
     "stage": 1,
     "context": "this.m.Description = 'This necklace fashioned from trophies taken of various Alps declares the one wearing it a veteran of battle against supernatural nocturnal predators, and not easily daunted.'"
   },

@@ -3,8 +3,8 @@
     "ID": 293422383,
     "key": "the Ox",
     "original": "the Ox",
-    "translation": "壮牛(the Ox)",
-    "stage": 5,
+    "translation": "壮牛",
+    "stage": 1,
     "context": "'the Ox'"
   },
   {
@@ -19,16 +19,16 @@
     "ID": 293422385,
     "key": "]+15%[/color] Damage on a hit to the head",
     "original": "]+15%[/color] Damage on a hit to the head",
-    "translation": "]+15%[/color] 伤害于击中头部时",
-    "stage": 5,
+    "translation": "]+15%[/color] 爆头伤害",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+15%[/color] Damage on a hit to the head'"
   },
   {
     "ID": 293422386,
     "key": "the Bull",
     "original": "the Bull",
-    "translation": "公牛(the Bull)",
-    "stage": 5,
+    "translation": "公牛",
+    "stage": 1,
     "context": "'the Bull'"
   },
   {
@@ -43,8 +43,8 @@
     "ID": 293422388,
     "key": "the Hammer",
     "original": "the Hammer",
-    "translation": "大锤(the Hammer)",
-    "stage": 5,
+    "translation": "大锤",
+    "stage": 1,
     "context": "'the Hammer'"
   },
   {

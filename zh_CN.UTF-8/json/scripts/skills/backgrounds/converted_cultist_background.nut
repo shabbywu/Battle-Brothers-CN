@@ -35,8 +35,8 @@
     "ID": 293420888,
     "key": "the Mad",
     "original": "the Mad",
-    "translation": "疯子(the Mad)",
-    "stage": 5,
+    "translation": "疯子",
+    "stage": 1,
     "context": "'the Mad'"
   },
   {

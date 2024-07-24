@@ -27,8 +27,8 @@
     "ID": 293417420,
     "key": "Worn in Accessory Slot",
     "original": "Worn in Accessory Slot",
-    "translation": "放在配饰位置",
-    "stage": 5,
+    "translation": "穿戴在配饰栏中",
+    "stage": 1,
     "context": "text = 'Worn in Accessory Slot'"
   }
 ]

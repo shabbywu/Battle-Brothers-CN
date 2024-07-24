@@ -11,8 +11,8 @@
     "ID": 293421001,
     "key": "the Giant",
     "original": "the Giant",
-    "translation": "巨人(the Giant)",
-    "stage": 5,
+    "translation": "巨人",
+    "stage": 1,
     "context": "'the Giant'"
   },
   {
@@ -123,8 +123,8 @@
     "ID": 293421015,
     "key": "the Mountain",
     "original": "the Mountain",
-    "translation": "大山(The Mountain)",
-    "stage": 5,
+    "translation": "大山",
+    "stage": 1,
     "context": "'the Mountain'"
   },
   {

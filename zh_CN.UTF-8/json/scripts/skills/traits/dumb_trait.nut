@@ -3,8 +3,8 @@
     "ID": 293422485,
     "key": "the Odd",
     "original": "the Odd",
-    "translation": "怪人(the Odd)",
-    "stage": 5,
+    "translation": "怪人",
+    "stage": 1,
     "context": "'the Odd'"
   },
   {
@@ -35,7 +35,7 @@
     "ID": 293422489,
     "key": "Umm, what? This character isn't the brightest, and new concepts take a while to really stick with him.",
     "original": "Umm, what? This character isn't the brightest, and new concepts take a while to really stick with him.",
-    "translation": "呃，什么？ 这个角色不是很聪明，新概念需要一段时间才能被他掌握。",
+    "translation": "呃，什么？这个角色不是很聪明，新概念需要一段时间才能被他掌握。",
     "stage": 1,
     "context": "this.m.Description = \"Umm, what? This character isn't the brightest, and new concepts take a while to really stick with him.\""
   },
@@ -43,8 +43,8 @@
     "ID": 293422490,
     "key": "the Slow",
     "original": "the Slow",
-    "translation": "缓慢者(the Slow)",
-    "stage": 5,
+    "translation": "缓慢者",
+    "stage": 1,
     "context": "'the Slow'"
   }
 ]

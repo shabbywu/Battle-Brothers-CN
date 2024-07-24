@@ -27,8 +27,8 @@
     "ID": 293415815,
     "key": "the Strong",
     "original": "the Strong",
-    "translation": "大壮(the Strong)",
-    "stage": 5,
+    "translation": "壮士",
+    "stage": 1,
     "context": "'the Strong'"
   },
   {

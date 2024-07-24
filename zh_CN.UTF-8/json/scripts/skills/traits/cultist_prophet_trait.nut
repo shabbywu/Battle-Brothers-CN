@@ -3,7 +3,7 @@
     "ID": 293422439,
     "key": "This character is a prophet of Davkul, the fleshen conduit of his will and the earthen voice speaking his truth. Other believers listen to his every word and feel compelled to go above and beyond their physical limits on his behest.",
     "original": "This character is a prophet of Davkul, the fleshen conduit of his will and the earthen voice speaking his truth. Other believers listen to his every word and feel compelled to go above and beyond their physical limits on his behest.",
-    "translation": "这个人物是一名达库尔先知，是其意志的血肉信道、其真理的尘世之声。 其他的信徒听取他的每一句话，在他的强令威压下超越他们身体的极限。",
+    "translation": "这个人物是一名达库尔先知，是其意志的血肉信道、其真理的尘世之声。其他的信徒听取他的每一句话，在他的强令威压下超越他们身体的极限。",
     "stage": 1,
     "context": "this.m.Description = 'This character is a prophet of Davkul, the fleshen conduit of his will and the earthen voice speaking his truth. Other believers listen to his every word and feel compelled to go above and beyond their physical limits on his behest.'"
   },

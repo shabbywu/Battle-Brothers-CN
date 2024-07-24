@@ -3,8 +3,8 @@
     "ID": 293420905,
     "key": "the Odd",
     "original": "the Odd",
-    "translation": "怪人(the Odd)",
-    "stage": 5,
+    "translation": "怪人",
+    "stage": 1,
     "context": "'the Odd'"
   },
   {
@@ -107,8 +107,8 @@
     "ID": 293420918,
     "key": "the Mad",
     "original": "the Mad",
-    "translation": "疯子(the Mad)",
-    "stage": 5,
+    "translation": "疯子",
+    "stage": 1,
     "context": "'the Mad'"
   },
   {
@@ -123,8 +123,8 @@
     "ID": 293420920,
     "key": "the Follower",
     "original": "the Follower",
-    "translation": "追随者(The Follower)",
-    "stage": 5,
+    "translation": "The Follower",
+    "stage": 1,
     "context": "'the Follower'"
   }
 ]

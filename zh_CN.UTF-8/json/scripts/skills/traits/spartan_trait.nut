@@ -11,8 +11,8 @@
     "ID": 293422726,
     "key": "Spartan",
     "original": "Spartan",
-    "translation": "斯巴达人",
-    "stage": 5,
+    "translation": "清苦",
+    "stage": 1,
     "context": "this.m.Name = 'Spartan'"
   }
 ]

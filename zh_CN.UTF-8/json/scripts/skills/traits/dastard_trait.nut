@@ -11,8 +11,8 @@
     "ID": 293422455,
     "key": "the Coward",
     "original": "the Coward",
-    "translation": "胆小鬼(the Coward)",
-    "stage": 5,
+    "translation": "胆小鬼",
+    "stage": 1,
     "context": "'the Coward'"
   },
   {
@@ -27,24 +27,24 @@
     "ID": 293422457,
     "key": "the Chicken",
     "original": "the Chicken",
-    "translation": "鸡仔(the Chicken)",
-    "stage": 5,
+    "translation": "鸡仔",
+    "stage": 1,
     "context": "'the Chicken'"
   },
   {
     "ID": 293422458,
     "key": "Dastard",
     "original": "Dastard",
-    "translation": "懦夫",
-    "stage": 5,
+    "translation": "畏缩",
+    "stage": 1,
     "context": "this.m.Name = 'Dastard'"
   },
   {
     "ID": 293422459,
     "key": "the Craven",
     "original": "the Craven",
-    "translation": "懦夫(the Craven)",
-    "stage": 5,
+    "translation": "懦夫",
+    "stage": 1,
     "context": "'the Craven'"
   },
   {

@@ -11,7 +11,7 @@
     "ID": 293410581,
     "key": "A wooden watchtower with a small garrison on watch duty.",
     "original": "A wooden watchtower with a small garrison on watch duty.",
-    "translation": "一个木制的岗楼，一支执行守望任务的小队驻守在此地。",
+    "translation": "一座驻扎着值守驻军的木制岗楼。",
     "stage": 1,
     "context": "this.m.Description = 'A wooden watchtower with a small garrison on watch duty.'"
   }

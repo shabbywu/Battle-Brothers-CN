@@ -11,8 +11,8 @@
     "ID": 293422518,
     "key": "the Fearless",
     "original": "the Fearless",
-    "translation": "无畏者(the Fearless)",
-    "stage": 5,
+    "translation": "无畏者",
+    "stage": 1,
     "context": "'the Fearless'"
   },
   {

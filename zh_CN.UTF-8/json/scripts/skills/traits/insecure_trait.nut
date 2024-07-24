@@ -19,8 +19,8 @@
     "ID": 293422574,
     "key": "Insecure",
     "original": "Insecure",
-    "translation": "缺乏信心",
-    "stage": 5,
+    "translation": "不安",
+    "stage": 1,
     "context": "this.m.Name = 'Insecure'"
   }
 ]
