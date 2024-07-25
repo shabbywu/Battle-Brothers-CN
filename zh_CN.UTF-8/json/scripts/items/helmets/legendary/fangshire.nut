@@ -3,8 +3,8 @@
     "ID": 293418121,
     "key": "Allows the wearer to see at night and negates any penalties due to nighttime.",
     "original": "Allows the wearer to see at night and negates any penalties due to nighttime.",
-    "translation": "允许佩戴者在夜间观看，并抵消任何因夜间造成的惩罚。",
-    "stage": 5,
+    "translation": "允许穿戴者在夜间视物，抵消一切黑夜惩罚。",
+    "stage": 1,
     "context": "text = 'Allows the wearer to see at night and negates any penalties due to nighttime.'"
   },
   {

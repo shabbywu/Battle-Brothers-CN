@@ -3,8 +3,8 @@
     "ID": 293421863,
     "key": "]2[/color] Additional Action Point per tile moved",
     "original": "]2[/color] Additional Action Point per tile moved",
-    "translation": "]+2[/color] 移动AP消耗（每格）",
-    "stage": 5,
+    "translation": "]+2[/color] 每移动一格的行动点消耗",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']2[/color] Additional Action Point per tile moved'"
   },
   {
@@ -19,7 +19,7 @@
     "ID": 293421865,
     "key": "Broken Leg",
     "original": "Broken Leg",
-    "translation": "腿部骨折",
+    "translation": "腿骨骨折",
     "stage": 1,
     "context": "this.m.Name = 'Broken Leg'"
   },

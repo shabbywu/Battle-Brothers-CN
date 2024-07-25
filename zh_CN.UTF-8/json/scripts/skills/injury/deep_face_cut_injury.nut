@@ -3,8 +3,8 @@
     "ID": 293421937,
     "key": "A jagged cut across the face is bleeding profusely over eyes, nose and mouth.",
     "original": "A jagged cut across the face is bleeding profusely over eyes, nose and mouth.",
-    "translation": "脸上有一道锯齿状的深切口，眼睛、鼻子和嘴巴都在大量流血。",
-    "stage": 5,
+    "translation": "脸上的一道锯齿状的深切口，大量的血流得眼睛、鼻子和嘴巴里都是。",
+    "stage": 1,
     "context": "this.m.Description = 'A jagged cut across the face is bleeding profusely over eyes, nose and mouth.'"
   },
   {

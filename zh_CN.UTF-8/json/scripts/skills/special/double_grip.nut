@@ -11,8 +11,8 @@
     "ID": 293422244,
     "key": "With the second hand free, this character can get a firm double grip on his weapon and inflicts additional damage.",
     "original": "With the second hand free, this character can get a firm double grip on his weapon and inflicts additional damage.",
-    "translation": "当副手空闲时，这个角色可以牢牢抓住他的武器并造成额外的伤害。",
-    "stage": 5,
+    "translation": "副手空空，这个角色可以两手紧握他的武器，造成额外伤害。",
+    "stage": 1,
     "context": "this.m.Description = 'With the second hand free, this character can get a firm double grip on his weapon and inflicts additional damage.'"
   },
   {

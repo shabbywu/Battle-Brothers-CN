@@ -19,8 +19,8 @@
     "ID": 293422293,
     "key": "Nighttime",
     "original": "Nighttime",
-    "translation": "夜晚",
-    "stage": 5,
+    "translation": "黑夜",
+    "stage": 1,
     "context": "this.m.Name = 'Nighttime'"
   },
   {

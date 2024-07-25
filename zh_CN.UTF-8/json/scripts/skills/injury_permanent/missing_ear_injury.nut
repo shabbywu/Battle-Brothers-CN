@@ -3,7 +3,7 @@
     "ID": 293422110,
     "key": "Missing Ear",
     "original": "Missing Ear",
-    "translation": "耳缺失",
+    "translation": "一只耳",
     "stage": 1,
     "context": "this.m.Name = 'Missing Ear'"
   },

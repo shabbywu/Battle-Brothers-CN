@@ -27,7 +27,7 @@
     "ID": 293421988,
     "key": "A second opening for air proves of little use, except for sounding like a bagpipe.",
     "original": "A second opening for air proves of little use, except for sounding like a bagpipe.",
-    "translation": "很明显第二个通气孔没有什么用，只会让你听起来像个风笛。",
+    "translation": "看来再开个通气孔没什么用，只会让你听起来像个风笛。",
     "stage": 1,
     "context": "this.m.Description = 'A second opening for air proves of little use, except for sounding like a bagpipe.'"
   }

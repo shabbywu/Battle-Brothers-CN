@@ -11,7 +11,7 @@
     "ID": 293422019,
     "key": "Contrary to what one might think, having an additional hole in the cheek does not help with breathing.",
     "original": "Contrary to what one might think, having an additional hole in the cheek does not help with breathing.",
-    "translation": "事实上，与某些猜测相反，在脸颊上多一个洞对呼吸并没有帮助。",
+    "translation": "与某些猜测相反，在脸颊上开个洞对呼吸并没有帮助。",
     "stage": 1,
     "context": "this.m.Description = 'Contrary to what one might think, having an additional hole in the cheek does not help with breathing.'"
   },

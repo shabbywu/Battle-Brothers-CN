@@ -35,8 +35,8 @@
     "ID": 293422140,
     "key": "]This character's armor isn't protective enough to grant any benefit from having the Battleforged perk[/color]",
     "original": "]This character's armor isn't protective enough to grant any benefit from having the Battleforged perk[/color]",
-    "translation": "]这个角色的盔甲没有足够的保护，无法从战斗锻造特技中获得任何好处[/color]",
-    "stage": 5,
+    "translation": "]这名角色的盔甲没有足够的保护，无法从战斗锻造特技中获得任何好处[/color]",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + \"]This character's armor isn't protective enough to grant any benefit from having the Battleforged perk[/color]\""
   }
 ]

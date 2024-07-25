@@ -43,7 +43,7 @@
     "ID": 293422100,
     "key": "This character took something to the knee, and it never fully healed. Lunging forward or dodging can be painful, and it lacks any grace.",
     "original": "This character took something to the knee, and it never fully healed. Lunging forward or dodging can be painful, and it lacks any grace.",
-    "translation": "这个角色的膝盖受到了创伤，无法完全康复。前进或躲闪都十分痛苦，动作也显得扭曲。",
+    "translation": "这个角色的膝盖受到了创伤，无法完全康复。前进或躲闪都十分痛苦，动作也显得别扭。",
     "stage": 1,
     "context": "this.m.Description = 'This character took something to the knee, and it never fully healed. Lunging forward or dodging can be painful, and it lacks any grace.'"
   }

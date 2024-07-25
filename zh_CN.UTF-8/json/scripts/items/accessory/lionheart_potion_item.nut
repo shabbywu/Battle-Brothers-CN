@@ -27,7 +27,7 @@
     "ID": 293417470,
     "key": "Be brave as a lion! This potion inhibits fear and promotes courage, up to and including the gross overestimation of one's own abilities. Drink responsibly. Lasts for the next battle.",
     "original": "Be brave as a lion! This potion inhibits fear and promotes courage, up to and including the gross overestimation of one's own abilities. Drink responsibly. Lasts for the next battle.",
-    "translation": "像狮子一样勇敢！ 这种药水抑制恐惧，促进勇气，甚至包括对自己能力的严重高估。 可信赖的饮品。 持续到下一场战斗。",
+    "translation": "勇敢如狮！这种药水能抑制恐惧，增进勇气，直到对自我能力的严重高估的程度。谨慎服用。效果持续到下一场战斗。",
     "stage": 1,
     "context": "this.m.Description = \"Be brave as a lion! This potion inhibits fear and promotes courage, up to and including the gross overestimation of one's own abilities. Drink responsibly. Lasts for the next battle.\""
   },
@@ -35,7 +35,7 @@
     "ID": 293417471,
     "key": "Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.",
     "original": "Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.",
-    "translation": "右键单击或拖动到当前选定的角色上进行饮用。 此物品会在使用过程中消耗掉。",
+    "translation": "右键单击或拖动到当前选定的角色上进行饮用。此物品会在使用过程中消耗掉。",
     "stage": 1,
     "context": "text = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
   }

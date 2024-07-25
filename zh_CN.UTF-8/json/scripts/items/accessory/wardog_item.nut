@@ -19,8 +19,8 @@
     "ID": 293417509,
     "key": "A strong and loyal dog bred for war. Can be unleashed in battle for scouting, tracking or running down routing enemies.",
     "original": "A strong and loyal dog bred for war. Can be unleashed in battle for scouting, tracking or running down routing enemies.",
-    "translation": "忠诚而强壮的狗，为战争而饲养。可以在战斗中释放用以侦查，追踪或追捕逃跑的敌人。",
-    "stage": 5,
+    "translation": "一条为战争而生，强壮而忠诚的战犬。可在战斗中释放，用以侦查、追踪或猎杀逃跑的敌人。",
+    "stage": 1,
     "context": "this.m.Description = 'A strong and loyal dog bred for war. Can be unleashed in battle for scouting, tracking or running down routing enemies.'"
   },
   {

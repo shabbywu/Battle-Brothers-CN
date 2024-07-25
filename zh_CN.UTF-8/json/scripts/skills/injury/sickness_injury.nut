@@ -35,8 +35,8 @@
     "ID": 293422053,
     "key": "Struck with sickness and disease, this character isn't feeling well at all and hardly in a condition to fight. If the fever doesn't take him, it'll probably pass in time.",
     "original": "Struck with sickness and disease, this character isn't feeling well at all and hardly in a condition to fight. If the fever doesn't take him, it'll probably pass in time.",
-    "translation": "为疾病所侵袭，这个角色感觉糟糕极了，并非处于能够战斗的状态。如果发烧没有带走他，疾病可能会随时间消退。",
-    "stage": 5,
+    "translation": "为疾病所侵袭，这名角色感觉糟糕极了，远非能够战斗的状态。如果发烧没有带走他，疾病可能会随时间消退。",
+    "stage": 1,
     "context": "this.m.Description = \"Struck with sickness and disease, this character isn't feeling well at all and hardly in a condition to fight. If the fever doesn't take him, it'll probably pass in time.\""
   },
   {

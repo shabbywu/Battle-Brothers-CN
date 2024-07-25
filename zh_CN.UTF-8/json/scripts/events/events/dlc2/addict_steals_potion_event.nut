@@ -59,7 +59,7 @@
     "ID": 293413542,
     "key": " is no longer an addict",
     "original": " is no longer an addict",
-    "translation": "不再上瘾",
+    "translation": "不再药物成瘾",
     "stage": 1,
     "context": "text = _event.m.Addict.getName() + ' is no longer an addict'"
   },

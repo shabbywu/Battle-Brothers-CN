@@ -27,8 +27,8 @@
     "ID": 293422065,
     "key": "A hand smashed by blunt force makes it almost impossible to hold on to any kind of weapon.",
     "original": "A hand smashed by blunt force makes it almost impossible to hold on to any kind of weapon.",
-    "translation": "手部被蛮力砸的稀碎使得紧握任何武器都几乎不可能。",
-    "stage": 5,
+    "translation": "手部被蛮力砸的稀碎，丧失了握紧武器的可能。",
+    "stage": 1,
     "context": "this.m.Description = 'A hand smashed by blunt force makes it almost impossible to hold on to any kind of weapon.'"
   }
 ]

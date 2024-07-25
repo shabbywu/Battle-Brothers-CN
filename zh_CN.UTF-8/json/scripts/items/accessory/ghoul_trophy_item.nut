@@ -3,7 +3,7 @@
     "ID": 293417446,
     "key": "Nachzehrer Trophy Necklace",
     "original": "Nachzehrer Trophy Necklace",
-    "translation": "食尸鬼雕饰项链",
+    "translation": "食尸鬼战利品项链",
     "stage": 1,
     "context": "this.m.Name = 'Nachzehrer Trophy Necklace'"
   },
@@ -19,8 +19,8 @@
     "ID": 293417448,
     "key": "This necklace fashioned from trophies taken of various Nachzehrers declares the one wearing it a veteran of battle against feral beasts, and not easily daunted.",
     "original": "This necklace fashioned from trophies taken of various Nachzehrers declares the one wearing it a veteran of battle against feral beasts, and not easily daunted.",
-    "translation": "这个项链是从多个食尸鬼身上取来的雕饰制作而成，穿戴它的人会被视作针对野蛮凶兽的老手，不容易畏惧。",
-    "stage": 5,
+    "translation": "这条项链由多只食尸鬼身上的战利品制成，穿戴它的人会被视作应对野蛮凶兽的老手，不容易被吓到。",
+    "stage": 1,
     "context": "this.m.Description = 'This necklace fashioned from trophies taken of various Nachzehrers declares the one wearing it a veteran of battle against feral beasts, and not easily daunted.'"
   }
 ]

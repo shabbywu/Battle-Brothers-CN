@@ -51,8 +51,8 @@
     "ID": 293422778,
     "key": "This character is swift as a weasel. Unfortunately, he seems to only be able to call on this ability when running to save his hide.",
     "original": "This character is swift as a weasel. Unfortunately, he seems to only be able to call on this ability when running to save his hide.",
-    "translation": "这个人物像黄鼠狼一样敏捷。不幸的是，他似乎只有在逃命时才能用上这种本领。",
-    "stage": 5,
+    "translation": "这个人物像黄鼠狼一样敏捷。可惜，只有逃命时他才能使出这种本领。",
+    "stage": 1,
     "context": "this.m.Description = 'This character is swift as a weasel. Unfortunately, he seems to only be able to call on this ability when running to save his hide.'"
   }
 ]

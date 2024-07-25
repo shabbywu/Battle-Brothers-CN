@@ -19,7 +19,7 @@
     "ID": 293422091,
     "key": "A broken elbow that never fully healed hinders all movement of the arm and severely reduces combat effectiveness.",
     "original": "A broken elbow that never fully healed hinders all movement of the arm and severely reduces combat effectiveness.",
-    "translation": "无法完全愈合的肘关节拖累了手臂的各方向运动从而严重降低了战斗力。",
+    "translation": "无法完全愈合的肘关节拖累了手臂的各向运动，严重降低了战斗力。",
     "stage": 1,
     "context": "this.m.Description = 'A broken elbow that never fully healed hinders all movement of the arm and severely reduces combat effectiveness.'"
   },

@@ -11,8 +11,8 @@
     "ID": 293419957,
     "key": "Removes the Nighttime effect",
     "original": "Removes the Nighttime effect",
-    "translation": "移除夜间效果",
-    "stage": 5,
+    "translation": "移除黑夜影响",
+    "stage": 1,
     "context": "text = 'Removes the Nighttime effect'"
   },
   {

@@ -27,7 +27,7 @@
     "ID": 293407764,
     "key": "showing contract: ",
     "original": "showing contract: ",
-    "translation": "展示合约：",
+    "translation": "正显示合同：",
     "stage": 1,
     "context": "this.logInfo('showing contract: ' + _c.getName() + ' (id: ' + _c.getID() + ')')"
   },
