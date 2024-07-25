@@ -19,8 +19,8 @@
     "ID": 293421875,
     "key": "]1[/color] Additional Action Point per tile moved",
     "original": "]1[/color] Additional Action Point per tile moved",
-    "translation": "]+1[/color] 移动AP消耗（每格）",
-    "stage": 5,
+    "translation": "]+1[/color] 每移动一格的行动点消耗",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']1[/color] Additional Action Point per tile moved'"
   },
   {

@@ -3,8 +3,8 @@
     "ID": 293422584,
     "key": "Irrational",
     "original": "Irrational",
-    "translation": "不理性",
-    "stage": 5,
+    "translation": "喜怒无常",
+    "stage": 1,
     "context": "this.m.Name = 'Irrational'"
   },
   {

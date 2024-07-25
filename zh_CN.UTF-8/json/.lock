@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-07-13T18:27:03Z",
-        "sha256": "996de864280c6d5e095951b1aa302bb27ab888d9b626b0be1556c8a533f4897e"
+        "modifiedAt": "2024-07-24T02:14:30Z",
+        "sha256": "0e79df31d5cccf19f89ccfbca6f7f7b34ffa1d08a72205fffd198d9be259dea2"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -1454,8 +1454,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:47.049Z",
         "updatedAt": "2023-06-25T06:19:43.019Z",
-        "modifiedAt": "2023-06-25T06:19:43Z",
-        "sha256": "db6ae3a9abcced4232520b10ec25281730942b60be683309dfce50fe89126318"
+        "modifiedAt": "2024-07-24T03:16:50Z",
+        "sha256": "f61181e32c509eb6550773e235f6e3685e98c46571a46cd45145fb96d3263784"
     },
     "scripts/contracts/contracts/arena_contract.json": {
         "id": 918427,
@@ -2444,8 +2444,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:14.082Z",
         "updatedAt": "2023-06-26T05:46:54.11Z",
-        "modifiedAt": "2024-07-19T02:42:03Z",
-        "sha256": "ecf2cd1ed0586728234b5de6d42def14438316025a2acc2637df54e6d6497c8c"
+        "modifiedAt": "2024-07-24T01:40:58Z",
+        "sha256": "f0f797b886a3ec1d54ce7813a185068549eddf951ea9cd093e8118a6310935b9"
     },
     "scripts/dlc/dlc_wildmen.json": {
         "id": 918482,
@@ -9554,8 +9554,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:50.902Z",
         "updatedAt": "2023-07-05T12:35:59.237Z",
-        "modifiedAt": "2023-07-05T14:33:59Z",
-        "sha256": "95a24e5f7051a28169c70555bac0c57ceeed6c062ad7ae601b02c740857d9913"
+        "modifiedAt": "2024-07-24T01:39:57Z",
+        "sha256": "fba7bdbf02f4485a4f781740e3b2f8b1f98a343bfd898cd032c8a82891baf2ea"
     },
     "scripts/events/events/dlc2/ailing_recovers_event.json": {
         "id": 918877,
@@ -9806,8 +9806,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:55.795Z",
         "updatedAt": "2023-06-26T05:47:40.012Z",
-        "modifiedAt": "2023-06-26T05:47:40Z",
-        "sha256": "da113c9e89c9220326d3cf5ae4d616dbef2a38b6482f9c450812bd878a534988"
+        "modifiedAt": "2024-07-24T01:40:22Z",
+        "sha256": "0e80b45732aa69ee2a2139b98b3f6350307198863b8a6979f570973b2b78de74"
     },
     "scripts/events/events/dlc2/glutton_eats_apple_event.json": {
         "id": 918891,
@@ -10202,8 +10202,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:05.078Z",
         "updatedAt": "2023-06-26T05:47:42.112Z",
-        "modifiedAt": "2023-06-26T05:47:42Z",
-        "sha256": "f0bbb27287eef623d2b303b68caa7191d2c3958df38a5ce791d28fa18c50e1c6"
+        "modifiedAt": "2024-07-24T01:40:02Z",
+        "sha256": "100581d8ecd8715ac6b0a3837dd5f87141769831c41ec00af0be490bad25a639"
     },
     "scripts/events/events/dlc2/lose_fear_beasts_event.json": {
         "id": 918913,
@@ -16448,8 +16448,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:22.545Z",
         "updatedAt": "2023-06-26T05:48:20.668Z",
-        "modifiedAt": "2024-07-23T03:17:36Z",
-        "sha256": "3f6298aec167c87d05de4efff0b6cc00c4d0a048604edf1ba12ed817db37c4d3"
+        "modifiedAt": "2024-07-24T08:22:42Z",
+        "sha256": "4efe873f4bd335283955a7574448473dc75fb2b8b6af3bcadbfa7e3ca411a656"
     },
     "scripts/items/accessory/antidote_item.json": {
         "id": 919260,
@@ -16550,14 +16550,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:24.589Z",
         "updatedAt": "2023-06-26T05:48:21.022Z",
-        "modifiedAt": "2024-04-19T08:22:38Z",
-        "sha256": "9425836998880a6e2711418a77edb70bdc1320d9cbcba99dd7445c8358a11119"
+        "modifiedAt": "2024-07-24T08:11:17Z",
+        "sha256": "87dcfbcbcae2eefa69746d7a73fb9143f6e21263ad239547b707248fc5c1433a"
     },
     "scripts/items/accessory/falcon_item.json": {
         "id": 919266,
@@ -16568,14 +16568,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:24.926Z",
         "updatedAt": "2023-06-26T05:48:21.082Z",
-        "modifiedAt": "2023-06-26T05:48:21Z",
-        "sha256": "8e965acdd2b178b22fe2fc4423d0e33d58769bb809b96a76ae73ce566ea47d67"
+        "modifiedAt": "2024-07-24T08:14:05Z",
+        "sha256": "0881e2a203e489c08d748dfe203c9864ebd5ba59be2ca49bf1bda5a519b00c6d"
     },
     "scripts/items/accessory/ghoul_trophy_item.json": {
         "id": 919267,
@@ -16586,14 +16586,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:25.26Z",
         "updatedAt": "2023-06-26T05:48:21.147Z",
-        "modifiedAt": "2023-06-26T05:48:21Z",
-        "sha256": "a8ff9e2fae8ee1fbc8d9a4fd88fb962ae938f95ca73418c88b75d2055b778a8b"
+        "modifiedAt": "2024-07-24T08:22:51Z",
+        "sha256": "215a9d42d176a4b3546253e4bdb5785a6d4e40cb86677584c83cc5127e747c66"
     },
     "scripts/items/accessory/goblin_trophy_item.json": {
         "id": 919268,
@@ -16610,8 +16610,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:25.594Z",
         "updatedAt": "2023-06-26T05:48:21.206Z",
-        "modifiedAt": "2023-06-26T05:48:21Z",
-        "sha256": "f89bbe40b0b1e9723aabf6318ad9ea76380cd5c37cdc13dc461a67ccf6fcfe01"
+        "modifiedAt": "2024-07-24T08:29:59Z",
+        "sha256": "49fdefb35f90b5da4bef5f648427d2517f6dfc06bb78a413384f60b017217e88"
     },
     "scripts/items/accessory/heavily_armored_wardog_item.json": {
         "id": 919269,
@@ -16622,14 +16622,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:25.927Z",
         "updatedAt": "2023-06-26T05:48:21.267Z",
-        "modifiedAt": "2023-06-26T05:48:21Z",
-        "sha256": "edad995b3e4a74ff2a84e30dcb6f97702d06b6199879d7e86c32b2bb7a943d3c"
+        "modifiedAt": "2024-07-24T08:33:32Z",
+        "sha256": "18b0cb199ae5d77b753fb9f055a10e2da5b4e829f29aa75be9c73e987f90b268"
     },
     "scripts/items/accessory/heavily_armored_warhound_item.json": {
         "id": 919270,
@@ -16640,14 +16640,14 @@
         "total": 1,
         "translated": 1,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:26.268Z",
         "updatedAt": "2023-06-26T05:48:21.326Z",
-        "modifiedAt": "2023-06-26T05:48:21Z",
-        "sha256": "92aaaf41f07054ad3ecce7b37df33de6d1b42be449840ceb185ae7b26b027cf7"
+        "modifiedAt": "2024-07-24T08:33:30Z",
+        "sha256": "b7054676d98ae1985dfc61448973e7c149c968840a6e900702f1768b7ff825ac"
     },
     "scripts/items/accessory/hexen_trophy_item.json": {
         "id": 919271,
@@ -16658,14 +16658,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:26.604Z",
         "updatedAt": "2023-06-26T05:48:21.386Z",
-        "modifiedAt": "2023-06-26T05:48:21Z",
-        "sha256": "8c04b7a8d90d8960408666533fe54126de13ed2798a6ef13f703d2583a049682"
+        "modifiedAt": "2024-07-24T08:34:40Z",
+        "sha256": "4c1e04f85d9be1fca9dd166232ac97704b1c1d7d1933a9f25dc598362d20ac27"
     },
     "scripts/items/accessory/iron_will_potion_item.json": {
         "id": 919272,
@@ -16682,8 +16682,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:26.959Z",
         "updatedAt": "2023-06-26T05:48:21.45Z",
-        "modifiedAt": "2024-04-18T08:40:26Z",
-        "sha256": "5bd6b8ad5fe3fb7ed9ac1bd529a2a3240d13d840794e5bf174a1e8b86f65701f"
+        "modifiedAt": "2024-07-24T08:41:44Z",
+        "sha256": "98765a16da5c8f5a5aba7d92e221f04f0c40f56fd898344b0a17d1901da31b0b"
     },
     "scripts/items/accessory/legendary/cursed_crystal_skull.json": {
         "id": 919273,
@@ -16718,8 +16718,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:29.234Z",
         "updatedAt": "2023-06-26T05:48:21.571Z",
-        "modifiedAt": "2024-04-18T08:40:31Z",
-        "sha256": "62d78a2730bb909f6df32c39d6f06b8ddbb8d445a8e007ec85a45e14f09dd8f2"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "98e08297ef14dc3d9a7dad69561c14fb08b6bec7a3ecf3fbaa59bbcbb019edcc"
     },
     "scripts/items/accessory/night_vision_elixir_item.json": {
         "id": 919275,
@@ -16736,8 +16736,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:29.581Z",
         "updatedAt": "2023-06-26T05:48:21.633Z",
-        "modifiedAt": "2023-06-26T05:48:22Z",
-        "sha256": "d133828da6991b378384e6e4754101cd5272adde2e011ca3b477c7d11a6eff08"
+        "modifiedAt": "2024-07-24T08:57:45Z",
+        "sha256": "424efe0e0f9df0a275363df7fd9f56d1106b315adbf9b364ebce05b5ff700aa2"
     },
     "scripts/items/accessory/oathtaker_skull_01_item.json": {
         "id": 919276,
@@ -16790,8 +16790,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:30.592Z",
         "updatedAt": "2023-06-26T05:48:21.819Z",
-        "modifiedAt": "2024-01-25T02:22:27Z",
-        "sha256": "4eccf2a8f42f01ab1c82c13291449dd4108c7ac04b915e6d00d46e54c2f2825c"
+        "modifiedAt": "2024-07-25T00:38:36Z",
+        "sha256": "6fb98e7b1120236edbfce3eae613773798fb5dced4b1e359d4a07a59c790f8bc"
     },
     "scripts/items/accessory/poison_item.json": {
         "id": 919279,
@@ -16826,8 +16826,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:31.667Z",
         "updatedAt": "2023-06-26T05:48:21.944Z",
-        "modifiedAt": "2024-04-18T08:41:27Z",
-        "sha256": "e261e2f7c13a182e88fd5c76c894fdb588c006d4a141fbdd9a778a296fdc72fb"
+        "modifiedAt": "2024-07-25T00:41:37Z",
+        "sha256": "51f00a9725759fd21a028b08cd3ff09160158aa5698ae2179f48601791c34778"
     },
     "scripts/items/accessory/sergeant_badge_item.json": {
         "id": 919281,
@@ -16844,8 +16844,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:31.995Z",
         "updatedAt": "2023-06-26T05:48:21.998Z",
-        "modifiedAt": "2023-06-26T05:48:22Z",
-        "sha256": "848f937f83c284cf133008ca42d4db92be7eea5254398aabf8dbb2ea7ff7dfff"
+        "modifiedAt": "2024-07-25T00:46:33Z",
+        "sha256": "d61f0594d577e7a63532fffb79bc3244e7b18ef8cbeee69374b52af4eaa1d5e3"
     },
     "scripts/items/accessory/special/arena_collar_item.json": {
         "id": 919282,
@@ -16862,8 +16862,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:32.323Z",
         "updatedAt": "2023-06-26T05:48:22.052Z",
-        "modifiedAt": "2024-04-18T08:02:44Z",
-        "sha256": "602d6eef1c649db4b120e24e9555eaaff92e4485466ee3ce9a29654d179d3fd8"
+        "modifiedAt": "2024-07-25T00:46:09Z",
+        "sha256": "6ec1dbdfa21bad9268772ec22608aae5c97a3df09298c367513c1da3b4a6fcce"
     },
     "scripts/items/accessory/special/slayer_necklace_item.json": {
         "id": 919283,
@@ -16892,14 +16892,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:32.991Z",
         "updatedAt": "2023-06-26T05:48:22.167Z",
-        "modifiedAt": "2023-06-26T05:48:22Z",
-        "sha256": "f5d37e9efa467e9a45f4c99deacc35cedd4b7a81b102c90f4ce65cf153b57f97"
+        "modifiedAt": "2024-07-25T00:48:42Z",
+        "sha256": "7b6f7cadeafd7d4e7c8ea6b77bf779ed1a966e1cd3d2e6a8d06da9645c212935"
     },
     "scripts/items/accessory/undead_trophy_item.json": {
         "id": 919285,
@@ -16916,8 +16916,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:33.891Z",
         "updatedAt": "2023-06-26T05:48:22.229Z",
-        "modifiedAt": "2023-06-26T05:48:22Z",
-        "sha256": "d154596a936eb34c7cbb380a2c3bd55da2fc7d1ceeef4db17951218da1fa6c99"
+        "modifiedAt": "2024-07-25T00:52:27Z",
+        "sha256": "c9e3e8562280b56220ed09e49d04a13ba3007fbe64c10c044f1961264c6e617c"
     },
     "scripts/items/accessory/wardog_item.json": {
         "id": 919286,
@@ -16928,14 +16928,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:34.224Z",
         "updatedAt": "2023-06-26T05:48:22.284Z",
-        "modifiedAt": "2024-06-04T08:28:49Z",
-        "sha256": "e40b25bd1e4a1d745808de52695b7b81e079b94a4733eb513515bb88b91f824d"
+        "modifiedAt": "2024-07-25T00:53:11Z",
+        "sha256": "648faadc3690619652e1d88075b003521329d27c5c4e44ba18e608c29bbdedb7"
     },
     "scripts/items/accessory/warhound_item.json": {
         "id": 919287,
@@ -20996,14 +20996,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 1,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:25:15.197Z",
         "updatedAt": "2023-06-26T05:48:41.738Z",
-        "modifiedAt": "2023-07-07T02:53:41Z",
-        "sha256": "fd7836261b6e353b5e9beaa1d6484b1aa0df10999cd3c36695a05d4f081b1f07"
+        "modifiedAt": "2024-07-24T08:53:36Z",
+        "sha256": "b2d7f6213fe8c650c369baeeee71e56083d8f3731e95196abe505086c131aa32"
     },
     "scripts/items/helmets/legendary/ijirok_helmet.json": {
         "id": 919513,
@@ -22076,14 +22076,14 @@
         "total": 15,
         "translated": 15,
         "disputed": 0,
-        "checked": 14,
-        "reviewed": 14,
+        "checked": 13,
+        "reviewed": 13,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:25:39.798Z",
         "updatedAt": "2023-06-25T06:22:55.199Z",
-        "modifiedAt": "2023-06-25T06:22:55Z",
-        "sha256": "dcdd7b7fd796100aea3680aea814eb34f82fa79bafdfa39f644de7dba671f9cb"
+        "modifiedAt": "2024-07-24T03:08:17Z",
+        "sha256": "6d4d9bcd7fbd35abd1834c1664bef1775f1bcffb8783444f0b466be9bbfafa27"
     },
     "scripts/items/loot/ancient_amber_item.json": {
         "id": 919573,
@@ -22604,8 +22604,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:52.219Z",
         "updatedAt": "2023-06-26T05:48:47.665Z",
-        "modifiedAt": "2023-06-26T05:48:48Z",
-        "sha256": "fecb239e81e334c56d06815a1ac716f9478cf6dba314a3d0591dcb597422206c"
+        "modifiedAt": "2024-07-24T08:46:00Z",
+        "sha256": "853ac84dd2e111fdb9b9978d4b2d58360df40620682553fa2d2f2c42e3235ce1"
     },
     "scripts/items/misc/anatomist/ancient_priest_potion_item.json": {
         "id": 919602,
@@ -22622,8 +22622,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:53.641Z",
         "updatedAt": "2023-06-26T05:48:47.724Z",
-        "modifiedAt": "2024-05-21T03:01:36Z",
-        "sha256": "1e66e8d4fcab184bfb43f1b605cae32973e7d58b4f7d595389099a1b98a800a9"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "fd55cb56c4dbc284b7be5c5c605f2df360facd3189406e0385b2e72ce6fbb9ca"
     },
     "scripts/items/misc/anatomist/apotheosis_potion_item.json": {
         "id": 919603,
@@ -22640,8 +22640,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:53.981Z",
         "updatedAt": "2023-06-26T05:48:47.783Z",
-        "modifiedAt": "2023-06-26T05:48:48Z",
-        "sha256": "4afe07a32ad2e58e4eecf75677cba35a9aafd945cc8f2886dfeb894ba6f3cbb8"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "85c1d81f410e2e75e263d19d0063409da5167eed4fb3397b1f91d400d5de3707"
     },
     "scripts/items/misc/anatomist/direwolf_potion_item.json": {
         "id": 919604,
@@ -22658,8 +22658,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:54.606Z",
         "updatedAt": "2023-06-26T05:48:47.846Z",
-        "modifiedAt": "2024-04-19T07:07:21Z",
-        "sha256": "3553d4e3ac2f5348d05f7f187ce8cdd8b6a2ef699cba3bf35abcb60ab8367a5f"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "7f48b0b0ab18ee840dad290c3a5d97587c0c7ee83b310909cbb0f35229b9fb11"
     },
     "scripts/items/misc/anatomist/fallen_hero_potion_item.json": {
         "id": 919605,
@@ -22676,8 +22676,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:54.978Z",
         "updatedAt": "2023-06-26T05:48:47.91Z",
-        "modifiedAt": "2023-06-26T05:48:48Z",
-        "sha256": "9177ddd231de6f97fea131e2d24b16a11cb1b4b936d9bfd48e57c2947c2eb468"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "35ab11709c155c7a934df4273ded64a8b704c077f7b089cfd32eb7cc3c176d4c"
     },
     "scripts/items/misc/anatomist/geist_potion_item.json": {
         "id": 919606,
@@ -22694,8 +22694,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:55.612Z",
         "updatedAt": "2023-06-26T05:48:47.968Z",
-        "modifiedAt": "2023-06-26T05:48:48Z",
-        "sha256": "886e23814d842cc34806bbc2c6ae23764f0804dd235ee6ab8af688d15c1aa40f"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "8d668929f2eb8df0c1ada3dff98aa382169f2a61f5af23f6edec56a3fe3bc065"
     },
     "scripts/items/misc/anatomist/goblin_grunt_potion_item.json": {
         "id": 919607,
@@ -22712,8 +22712,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:56.259Z",
         "updatedAt": "2023-06-26T05:48:48.028Z",
-        "modifiedAt": "2023-06-26T05:48:48Z",
-        "sha256": "ba0ef289a351ed3c052d4a783919920d9215b5133e4c6342d4a271672e57a159"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "f0384dd4f16d1015034221def1f57915e7380e43ce0db193fa01872cc40c736a"
     },
     "scripts/items/misc/anatomist/goblin_overseer_potion_item.json": {
         "id": 919608,
@@ -22730,8 +22730,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:56.635Z",
         "updatedAt": "2023-06-26T05:48:48.095Z",
-        "modifiedAt": "2023-06-26T05:48:48Z",
-        "sha256": "c1de1bafeddec55227021b2004f59a816cb12b12e4dfa75d4d4f1f0c57e66d1b"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "7edef36755fcd428d741cb8269dfa67935a1193be1df3a7a7f522b27a3dc9298"
     },
     "scripts/items/misc/anatomist/goblin_shaman_potion_item.json": {
         "id": 919609,
@@ -22748,8 +22748,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:57.259Z",
         "updatedAt": "2023-06-26T05:48:48.158Z",
-        "modifiedAt": "2023-06-26T05:48:48Z",
-        "sha256": "ff6f07ab322b194f9c743f53cb8bd919249efddaeca9a82d093d302d5a9940cd"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "545324dab77f377c5d177b44ba93a7cf6f6c414b2c90b83d8a5a5d917d1a4a5a"
     },
     "scripts/items/misc/anatomist/hexe_potion_item.json": {
         "id": 919610,
@@ -22766,8 +22766,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:57.594Z",
         "updatedAt": "2023-06-26T05:48:48.223Z",
-        "modifiedAt": "2023-06-26T05:48:48Z",
-        "sha256": "2e6ccf1d58e4cf3a58de31bed657e3039fa9a08334c7de49221479b9df2b6cd7"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "d553a5d549875cb7927e8eb68b1a5ed32e7334d6d977ae4c213cb27131d5463c"
     },
     "scripts/items/misc/anatomist/honor_guard_potion_item.json": {
         "id": 919611,
@@ -22784,8 +22784,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:57.939Z",
         "updatedAt": "2023-06-26T05:48:48.287Z",
-        "modifiedAt": "2024-06-29T03:48:32Z",
-        "sha256": "3d2bc582f9c07f8d356996f31bc3fdbef49211c40086d23f83acae467170feee"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "379a5ac8e7000a7ea3053a4e79e5c3524793542fa5ea044addb7c98cdd476fa0"
     },
     "scripts/items/misc/anatomist/hyena_potion_item.json": {
         "id": 919612,
@@ -22802,8 +22802,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:58.283Z",
         "updatedAt": "2023-06-26T05:48:48.345Z",
-        "modifiedAt": "2023-06-26T05:48:48Z",
-        "sha256": "200d1906d322ff5a4a0d66ce4f7d0955474f3322f4fc7e1fdcceca1b65965c14"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "f44597cc6686e932d7332746b091966c5d7e66d00d9059e793a63662132ce5d4"
     },
     "scripts/items/misc/anatomist/ifrit_potion_item.json": {
         "id": 919613,
@@ -22820,8 +22820,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:58.624Z",
         "updatedAt": "2023-06-26T05:48:48.405Z",
-        "modifiedAt": "2023-07-04T16:23:53Z",
-        "sha256": "300e419f24aa36517cf202a728fa111c06b43c35c85c6fc7b76f153dfb56b88b"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "c60895b2156dab4c67569c854b02681b6bbee66d4d310b906b915bfe002c8d74"
     },
     "scripts/items/misc/anatomist/ijirok_potion_item.json": {
         "id": 919614,
@@ -22838,8 +22838,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:59.024Z",
         "updatedAt": "2023-06-26T05:48:48.483Z",
-        "modifiedAt": "2024-01-25T02:28:28Z",
-        "sha256": "26f9dee15e5c4447933fa5a3a56d1288fc730d4ca1bdccb39650faa2f72dbee7"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "c84a40b2dd32c2ca08c56248adfe3f43ab5ca274543f76d50b8363c84654810b"
     },
     "scripts/items/misc/anatomist/kraken_potion_item.json": {
         "id": 919615,
@@ -22856,8 +22856,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:59.364Z",
         "updatedAt": "2023-06-26T05:48:48.542Z",
-        "modifiedAt": "2023-06-26T05:48:49Z",
-        "sha256": "6fd15f32c4fe2965e116a40cbdf5cfa709a598b938cfac2e476b4053953d6b36"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "aaebadc07aa9111b3cdc7575f84a0f8c08f17184057c9d62f29c9ee9ad1272ff"
     },
     "scripts/items/misc/anatomist/lindwurm_potion_item.json": {
         "id": 919616,
@@ -22874,8 +22874,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:01.087Z",
         "updatedAt": "2023-06-26T05:48:48.598Z",
-        "modifiedAt": "2023-06-29T00:56:27Z",
-        "sha256": "f7f8fe11d81bfea1aee68f960c33ec4408a30b3b23b271fb087331702b74a9d9"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "58ce596b2b4e17430b90bf857e1b04ca3043f070931bab1a5a0af4720f89dc9d"
     },
     "scripts/items/misc/anatomist/lorekeeper_potion_item.json": {
         "id": 919617,
@@ -22892,8 +22892,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:01.551Z",
         "updatedAt": "2023-06-26T05:48:48.654Z",
-        "modifiedAt": "2023-07-04T15:59:08Z",
-        "sha256": "1eaf01ffe4e9c7311aee3b6a316ef34a76de2ad1859d7f61ba58f056b85572e6"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "588797cbe252747117e059444c5ef1ac09e97d634abe63959fc86e30e32f23c3"
     },
     "scripts/items/misc/anatomist/nachzehrer_potion_item.json": {
         "id": 919618,
@@ -22910,8 +22910,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:02.751Z",
         "updatedAt": "2023-06-26T05:48:48.71Z",
-        "modifiedAt": "2023-06-26T05:48:49Z",
-        "sha256": "416acf59f856ed2a9be04cf5aec5033252f659416b49f605158dc1ed519a827e"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "18a71466d9934735884d756a8c09081e5169c1be733bb9cad46a787f06c7b60c"
     },
     "scripts/items/misc/anatomist/necromancer_potion_item.json": {
         "id": 919619,
@@ -22928,8 +22928,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:03.328Z",
         "updatedAt": "2023-06-26T05:48:48.775Z",
-        "modifiedAt": "2023-06-26T05:48:49Z",
-        "sha256": "69a4830932bffbb6c82db472e9e51552dcbd54988ef03db86bcc3bd987f9b53b"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "24952092d78927751753d35ca838ca03425f5ba6a51c6e4f59a2056d450946e7"
     },
     "scripts/items/misc/anatomist/necrosavant_potion_item.json": {
         "id": 919620,
@@ -22946,8 +22946,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:04.051Z",
         "updatedAt": "2023-06-26T05:48:48.837Z",
-        "modifiedAt": "2023-06-26T05:48:49Z",
-        "sha256": "5b7a51d99c38c42d9397268e6340e1322e3816a0411ab6b57b55d16c6a8c283a"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "c51bf6a5aee5e3a1b60e2c488e859450e0d5763a348e89192254d29f37f43712"
     },
     "scripts/items/misc/anatomist/orc_berserker_potion_item.json": {
         "id": 919621,
@@ -22964,8 +22964,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:04.448Z",
         "updatedAt": "2023-06-26T05:48:48.909Z",
-        "modifiedAt": "2024-04-19T08:22:48Z",
-        "sha256": "6fff4a039b2951ad18a507f4dcc062d8c70c3ba651167d3de9065ac92a01efc6"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "7deb24546d2450ddfc1d448ad8ab7a964f83881fcc4f002881e87d7bb1aac4f2"
     },
     "scripts/items/misc/anatomist/orc_warlord_potion_item.json": {
         "id": 919622,
@@ -22982,8 +22982,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:04.826Z",
         "updatedAt": "2023-06-26T05:48:48.977Z",
-        "modifiedAt": "2023-06-26T05:48:49Z",
-        "sha256": "b2a65b61d2f3aec95f4c02717d63665d6866ef14181ed88a052c52a95e15d8c7"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "faf811465e500f607e0b04f9dd1df8553f361f993be634100d000bf92e12e808"
     },
     "scripts/items/misc/anatomist/orc_warrior_potion_item.json": {
         "id": 919623,
@@ -23000,8 +23000,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:05.16Z",
         "updatedAt": "2023-06-26T05:48:49.034Z",
-        "modifiedAt": "2024-01-25T02:28:48Z",
-        "sha256": "849e024be3d3083ed2312cfa9210321d48dbddc767c6852f95af25bb79550ae9"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "3498c1931fdc11b7c289050f4e6f50ae9b9af04906a27f8dd63fcfd82a084450"
     },
     "scripts/items/misc/anatomist/orc_young_potion_item.json": {
         "id": 919624,
@@ -23018,8 +23018,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:05.788Z",
         "updatedAt": "2023-06-26T05:48:49.086Z",
-        "modifiedAt": "2023-06-26T05:48:49Z",
-        "sha256": "abe1c7c6f1c41fd739e7b5c4683208373288b1c612ffcf01793dd24449cdc02e"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "ee7b01b644f5f164b6e5210e6b485cd0754893b33bc3b47eb38aa7eb88dd5d60"
     },
     "scripts/items/misc/anatomist/rachegeist_potion_item.json": {
         "id": 919625,
@@ -23036,8 +23036,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:06.137Z",
         "updatedAt": "2023-06-26T05:48:49.148Z",
-        "modifiedAt": "2023-06-26T05:48:49Z",
-        "sha256": "9184a19a8d4aa01258e22304f8dc15e440e9bfab4b09b09f129f7132474d554a"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "128a78f4a457b8a2f5922b8a3e5da5d76acc0e636a7383b898e829f3d56a9188"
     },
     "scripts/items/misc/anatomist/research_notes_beasts_item.json": {
         "id": 919626,
@@ -23126,8 +23126,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:09.137Z",
         "updatedAt": "2023-06-26T05:48:49.499Z",
-        "modifiedAt": "2023-06-26T05:48:50Z",
-        "sha256": "ff3a6b8e3af6e0bdea87b1b2412bfd2a75d987d5205f2141d91deb4e5f3dba63"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "8d4cde38a469c7b655fe86c8d2edbeb3c0f1656bd7f02c6e3a2a60b757087ba9"
     },
     "scripts/items/misc/anatomist/serpent_potion_item.json": {
         "id": 919631,
@@ -23144,8 +23144,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:09.766Z",
         "updatedAt": "2023-06-26T05:48:49.56Z",
-        "modifiedAt": "2023-06-26T05:48:50Z",
-        "sha256": "8f22b50bbe7755cbac3c1ddd413d2cc7dd0947ea05a34d94cd44bca869ac3ead"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "6af55f87d8ca5a9276734acc70b91bdeedbd630dc6df8af8184ee645c23db8cb"
     },
     "scripts/items/misc/anatomist/skeleton_warrior_potion_item.json": {
         "id": 919632,
@@ -23162,8 +23162,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:10.099Z",
         "updatedAt": "2023-06-26T05:48:49.616Z",
-        "modifiedAt": "2023-06-26T05:48:50Z",
-        "sha256": "df8a0f1f530a2b49d2b91b50f1b2c05ececb06ed7a68ccf041a40559b76a4ad3"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "0b730ee968443c3f72935dd66d20c7a8e487dd1c07f7f890718dec20946bcf70"
     },
     "scripts/items/misc/anatomist/unhold_potion_item.json": {
         "id": 919633,
@@ -23180,8 +23180,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:10.728Z",
         "updatedAt": "2023-06-26T05:48:49.672Z",
-        "modifiedAt": "2023-06-26T05:48:50Z",
-        "sha256": "8163186a7635290974d874dd6861a4cbed42aee137cfac5ca98e4c9d36223b44"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "5a1c749dedafbd1d5e2d491391510b0b0951336533dce91e95974460831841df"
     },
     "scripts/items/misc/anatomist/webknecht_potion_item.json": {
         "id": 919634,
@@ -23198,8 +23198,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:11.064Z",
         "updatedAt": "2023-06-26T05:48:49.732Z",
-        "modifiedAt": "2023-06-26T05:48:50Z",
-        "sha256": "b1bc064958fe21890c3ae1eb9fe33afa852ff1d49d9f02d2109230d1a0d1f86d"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "0878e294c56486fada75b844978ff4a7f90bc6c9dccf270ff3e3f606b521fb43"
     },
     "scripts/items/misc/anatomist/wiederganger_potion_item.json": {
         "id": 919635,
@@ -23216,8 +23216,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:11.715Z",
         "updatedAt": "2023-06-26T05:48:49.789Z",
-        "modifiedAt": "2023-06-26T05:48:50Z",
-        "sha256": "83d2b8a1a2dd6aceb71a67450cbcbfb616ce1f4e7d5c57046a2ca06e0101437b"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "7e61a907bbd60d9df6dca45afb53966f959dd23629d9ed80511a28142a84ba7b"
     },
     "scripts/items/misc/ancient_wood_item.json": {
         "id": 919636,
@@ -23756,8 +23756,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:24.107Z",
         "updatedAt": "2023-06-26T05:48:51.581Z",
-        "modifiedAt": "2024-04-18T08:47:25Z",
-        "sha256": "9797d3260d8b04cc9d9fd07303a7b4b7694fd24aaa5a9c02bd61cff73c49e828"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "0b5ba0cf56d9f7c64221db897f1ec14060d235bb9b6fdd67d76f2146deaa6a7a"
     },
     "scripts/items/misc/potion_of_oblivion_item.json": {
         "id": 919666,
@@ -23774,8 +23774,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:24.441Z",
         "updatedAt": "2023-06-26T05:48:51.639Z",
-        "modifiedAt": "2024-04-18T08:46:27Z",
-        "sha256": "aeb3436629bb382e6dda5e875f1d09625b4958a3088f0a230a798f781e3937af"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "2ed98499088ffe89f9b5fe6a9dd52c9a65f34d328816a52251fd3185a15201f1"
     },
     "scripts/items/misc/serpent_skin_item.json": {
         "id": 919667,
@@ -24746,8 +24746,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:46.977Z",
         "updatedAt": "2023-06-26T05:48:54.79Z",
-        "modifiedAt": "2023-06-26T05:48:55Z",
-        "sha256": "5de1913e670cf1e4bfb2c5eafdd8b56167740d88ada23d7832b03223974257ec"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "cec03401c1979d3f4aa74cfcc82cd0378e6713083cadbbe454ed2be9f69c7d2f"
     },
     "scripts/items/special/broken_ritual_armor_item.json": {
         "id": 919721,
@@ -24782,8 +24782,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:47.986Z",
         "updatedAt": "2023-06-26T05:48:54.912Z",
-        "modifiedAt": "2023-06-26T05:48:55Z",
-        "sha256": "81804baaf6aded848a56b505341b9f5a87cad5bd499b6c447b6f893fda939692"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "daae74a0d020d05b5dd35c9a0e4dd3bc3f4f7246af589bacb0c7facde72bf267"
     },
     "scripts/items/special/golden_goose_item.json": {
         "id": 919723,
@@ -24854,8 +24854,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:49.338Z",
         "updatedAt": "2023-06-26T05:48:55.147Z",
-        "modifiedAt": "2023-06-26T05:48:55Z",
-        "sha256": "55729b518479963ffb4d508fb261735d711dc19a538d78a42af86e05c459e413"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "b08a71a9e5b5012e2bce35d7fb556fe537dff1adf8b35c4f14adfc855fac459b"
     },
     "scripts/items/special/trade_jug_01_item.json": {
         "id": 919727,
@@ -24872,8 +24872,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:49.959Z",
         "updatedAt": "2023-06-26T05:48:55.205Z",
-        "modifiedAt": "2023-06-26T05:48:55Z",
-        "sha256": "4bcba06ebef7ec65d58396b93241934e63f908b8ca58410421824cad672d7229"
+        "modifiedAt": "2024-07-24T08:44:13Z",
+        "sha256": "5c8b3690fe34c8c8cced3b67ec114cb6efdb02febde1e0fcb781dcc969a76097"
     },
     "scripts/items/stash_container.json": {
         "id": 919728,
@@ -29978,14 +29978,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:29:10.185Z",
         "updatedAt": "2023-06-26T05:49:14.937Z",
-        "modifiedAt": "2023-06-26T05:49:15Z",
-        "sha256": "f87dd3d9855b2a92bc7dbad6a4a5d797baa9d22d6e44b0fc1b44631685c45114"
+        "modifiedAt": "2024-07-24T08:46:41Z",
+        "sha256": "29b30a54bf324239e776505b90d3573151abef306f79556b31bed7c9905ada76"
     },
     "scripts/skills/actives/fire_handgonne_skill.json": {
         "id": 920012,
@@ -34142,8 +34142,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:57.391Z",
         "updatedAt": "2023-06-26T05:49:31.335Z",
-        "modifiedAt": "2024-01-23T08:28:33Z",
-        "sha256": "18744d0fe4bce3037c8ce2fa4a20c5058b9b4ada0aa268ddb171c841f7ed8758"
+        "modifiedAt": "2024-07-24T02:59:31Z",
+        "sha256": "6e208b9bcd7fa52cafef5ad456b7eb1fc467fc7a50db6868e82dceaee41b6c1c"
     },
     "scripts/skills/effects/adrenaline_effect.json": {
         "id": 920243,
@@ -34178,8 +34178,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:58.071Z",
         "updatedAt": "2023-06-26T05:49:31.465Z",
-        "modifiedAt": "2024-01-23T08:45:35Z",
-        "sha256": "23c9e4ee7d1f7d92d4c525feeb99c71d8f4df72a49fc1ae57ba4f093c7d170b1"
+        "modifiedAt": "2024-07-24T08:46:00Z",
+        "sha256": "afe4a42520c9de908990720b65c8d7bfb9e7ddac887224648b8b2e1057b8c57d"
     },
     "scripts/skills/effects/ancient_priest_potion_effect.json": {
         "id": 920245,
@@ -35114,8 +35114,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:22.731Z",
         "updatedAt": "2023-06-26T05:49:36.725Z",
-        "modifiedAt": "2024-01-25T00:43:28Z",
-        "sha256": "324b528ac782b92e1bd5d662607e8086fd1c139133a45851bb7c801a56c07c37"
+        "modifiedAt": "2024-07-24T08:46:00Z",
+        "sha256": "3cec5d728b5969d4d0b3bb89692a0f38a8c1954a55fe49f789917af616f8b2e8"
     },
     "scripts/skills/effects/nightmare_effect.json": {
         "id": 920297,
@@ -36008,14 +36008,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:45.664Z",
         "updatedAt": "2023-06-26T05:49:40.286Z",
-        "modifiedAt": "2024-04-19T08:23:53Z",
-        "sha256": "973cb1617921067d28c0ed978b2dc8d281a60b7245e7bff27e793b8d0916232e"
+        "modifiedAt": "2024-07-24T02:19:55Z",
+        "sha256": "23e6c70a514c7fbdee93578ba8862f7bda09d21bff1ddc8613db4b1468d8af28"
     },
     "scripts/skills/injury/broken_nose_injury.json": {
         "id": 920347,
@@ -36062,14 +36062,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:46.684Z",
         "updatedAt": "2023-06-26T05:49:40.616Z",
-        "modifiedAt": "2024-04-19T08:23:59Z",
-        "sha256": "ac107220f22aa5762eca4787aeb2b42b23311e0df07cae56fb217d2cfb84b62b"
+        "modifiedAt": "2024-07-24T02:16:30Z",
+        "sha256": "8c816dac57077988a107f0b4d2850a05471fc0362552492e7729bc701df7d350"
     },
     "scripts/skills/injury/burnt_face_injury.json": {
         "id": 920350,
@@ -36116,14 +36116,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:49.182Z",
         "updatedAt": "2023-06-26T05:49:40.807Z",
-        "modifiedAt": "2024-04-19T08:23:59Z",
-        "sha256": "dbe5e91f6b15cf149e639a4577c7772af1e5f2f581860574542d42c1fe769a11"
+        "modifiedAt": "2024-07-24T02:16:30Z",
+        "sha256": "90678f7c28fbc8696c7a31df5214137182065a55a01d755b804a68bcd5cded6d"
     },
     "scripts/skills/injury/crushed_finger_injury.json": {
         "id": 920353,
@@ -36170,14 +36170,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:52.24Z",
         "updatedAt": "2023-06-26T05:49:40.982Z",
-        "modifiedAt": "2024-04-19T08:24:11Z",
-        "sha256": "9c43b4781015886f04f0ff973b426938fbb4bc308db77d7317cf13355184e8b2"
+        "modifiedAt": "2024-07-24T02:16:19Z",
+        "sha256": "b4a164b557beb89c0e53e83ce86ff303a1788d98e1377e77240afdc640d9c1da"
     },
     "scripts/skills/injury/cut_arm_injury.json": {
         "id": 920356,
@@ -36314,14 +36314,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:55.191Z",
         "updatedAt": "2023-06-26T05:49:41.486Z",
-        "modifiedAt": "2023-06-26T05:49:41Z",
-        "sha256": "bf41666a86065e1eef1eef6ab416f6001dafce94fb2dad452535742f08ea4d05"
+        "modifiedAt": "2024-07-24T02:29:01Z",
+        "sha256": "4a858663e113054e4da893e72d5a2a0645c1486d1e862e25b5989ba823722fd8"
     },
     "scripts/skills/injury/dislocated_shoulder_injury.json": {
         "id": 920364,
@@ -36518,8 +36518,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:01.843Z",
         "updatedAt": "2023-06-26T05:49:42.163Z",
-        "modifiedAt": "2024-07-05T02:35:39Z",
-        "sha256": "63394d34aac67ef49ef5052257c214e41f2ead03ca82b3813ff41d6c5a400f0b"
+        "modifiedAt": "2024-07-24T02:33:49Z",
+        "sha256": "33bddde3cdaf702a1f19382b81ca128602c1f0b59e29444ff03b3c4e3b790023"
     },
     "scripts/skills/injury/injured_knee_cap_injury.json": {
         "id": 920375,
@@ -36530,14 +36530,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:02.338Z",
         "updatedAt": "2023-06-26T05:49:42.222Z",
-        "modifiedAt": "2024-04-19T08:20:43Z",
-        "sha256": "5fb4cef37bfd4ff08a81c0dc777c4049d37606ab9abc8fe5f6b41c9701b09334"
+        "modifiedAt": "2024-07-24T02:16:19Z",
+        "sha256": "2d33c150736152be09c3708e480b005e32d5458ce66dccb68b3c57e40b97faa5"
     },
     "scripts/skills/injury/injured_shoulder_injury.json": {
         "id": 920376,
@@ -36608,8 +36608,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:03.708Z",
         "updatedAt": "2023-06-26T05:49:42.496Z",
-        "modifiedAt": "2024-01-12T02:22:59Z",
-        "sha256": "855d9be32096593bd3b88343396aa9ec80c745d355fa1712f43ff2806cf177ec"
+        "modifiedAt": "2024-07-24T02:35:54Z",
+        "sha256": "ebe98c140e885015a8f70285898f0b35208d44178e7395bb26c14b0f121976c3"
     },
     "scripts/skills/injury/pierced_chest_injury.json": {
         "id": 920380,
@@ -36674,14 +36674,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:06.166Z",
         "updatedAt": "2023-06-26T05:49:42.726Z",
-        "modifiedAt": "2024-07-05T02:35:51Z",
-        "sha256": "9b4a3168b33bd74e60387addf25c92ebd659a683a81a696c54149adc076ab970"
+        "modifiedAt": "2024-07-24T02:36:47Z",
+        "sha256": "08a5c21bac1dc34cf6999bc718d57f45a5aea655d67283b6624514273786fb95"
     },
     "scripts/skills/injury/pierced_side_injury.json": {
         "id": 920384,
@@ -36734,8 +36734,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:07.368Z",
         "updatedAt": "2023-06-26T05:49:42.903Z",
-        "modifiedAt": "2024-04-19T08:21:03Z",
-        "sha256": "cd2b0dee04012ef9953f756078b831808fd9c87f3e0117fbac5ae05bb9d6b271"
+        "modifiedAt": "2024-07-24T02:39:54Z",
+        "sha256": "c9857eb97ee392439e3a80a9c9652306e085a9e84752fd75ce5615f976b0a918"
     },
     "scripts/skills/injury/sickness_injury.json": {
         "id": 920387,
@@ -36746,14 +36746,14 @@
         "total": 13,
         "translated": 13,
         "disputed": 0,
-        "checked": 10,
-        "reviewed": 10,
+        "checked": 9,
+        "reviewed": 9,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:07.7Z",
         "updatedAt": "2023-06-26T05:49:42.968Z",
-        "modifiedAt": "2024-07-05T02:35:27Z",
-        "sha256": "8218b07fe459a8b1aa8d78c9ca72ac52378dd6f5c0446b8b726fa6487cec44c5"
+        "modifiedAt": "2024-07-24T02:42:02Z",
+        "sha256": "8781c308490c5d351f2d6ae9528157f3868784aed97d6105ada01ec1f4b847c7"
     },
     "scripts/skills/injury/smashed_hand_injury.json": {
         "id": 920388,
@@ -36764,14 +36764,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:08.033Z",
         "updatedAt": "2023-06-26T05:49:43.03Z",
-        "modifiedAt": "2024-01-12T02:28:14Z",
-        "sha256": "3151f7a1dc26dffaf5e8c1310b27a16feeef1a63533258be047730a7fbade89d"
+        "modifiedAt": "2024-07-24T02:44:20Z",
+        "sha256": "304c7223dc06763aabf324fe431258d8a51ae2f0c3eab7619643443d3e72b8ce"
     },
     "scripts/skills/injury/split_hand_injury.json": {
         "id": 920389,
@@ -36782,14 +36782,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:08.368Z",
         "updatedAt": "2023-06-26T05:49:43.09Z",
-        "modifiedAt": "2023-06-26T05:49:43Z",
-        "sha256": "104bd3aefb176ea1fe52731b7c10de0b0b68820850f7f0a62edc9b70337b9ebc"
+        "modifiedAt": "2024-07-24T03:02:45Z",
+        "sha256": "cce3980fe06c065b246832b8a93c655de5267a8a3e7fbf75ae43f54b8e0211e0"
     },
     "scripts/skills/injury/split_nose_injury.json": {
         "id": 920390,
@@ -36818,14 +36818,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:09.017Z",
         "updatedAt": "2023-06-26T05:49:43.221Z",
-        "modifiedAt": "2023-06-26T05:49:43Z",
-        "sha256": "3858ac27da665b1982f57417866f475dd4fc3976538bf6ac06c8498be2dacf8d"
+        "modifiedAt": "2024-07-24T02:45:57Z",
+        "sha256": "7b7e11172d19ebd357a5b0c57c2ecdeef881b83b1ca4dd226e0523b483018321"
     },
     "scripts/skills/injury/sprained_ankle_injury.json": {
         "id": 920392,
@@ -36836,14 +36836,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:09.407Z",
         "updatedAt": "2023-06-26T05:49:43.28Z",
-        "modifiedAt": "2024-04-19T08:20:37Z",
-        "sha256": "d52208fae8b6616ca335d2ef2233b39617fcc17e0157a0b316e086d80a20fb0e"
+        "modifiedAt": "2024-07-24T02:54:44Z",
+        "sha256": "3326c52962a0d014dfd4b7b1bf5d55e646f67fc161fdad523982fee47b083243"
     },
     "scripts/skills/injury/stabbed_guts_injury.json": {
         "id": 920393,
@@ -36896,8 +36896,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:10.391Z",
         "updatedAt": "2023-06-26T05:49:43.483Z",
-        "modifiedAt": "2024-01-12T01:13:09Z",
-        "sha256": "3a29c1bb362b2a5f0a03053c0b06ee17b055a063b016443795f5936723b81901"
+        "modifiedAt": "2024-07-24T02:11:03Z",
+        "sha256": "1e9447c73bb85103d02ecf2020ea6944bfa2458c047483bc38c503ca68fadb3b"
     },
     "scripts/skills/injury_permanent/broken_knee_injury.json": {
         "id": 920396,
@@ -36914,8 +36914,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:10.723Z",
         "updatedAt": "2023-06-26T05:49:43.54Z",
-        "modifiedAt": "2024-04-19T08:20:43Z",
-        "sha256": "9a77ace0bebf69f9859938db2c460b9dae2e6e8bee5396b1419124c1e55c7549"
+        "modifiedAt": "2024-07-24T02:12:02Z",
+        "sha256": "b69c6f2a1db83e1196c288ffe495758ff19bcaa0f3f554b3ce8b0e11835b3fdc"
     },
     "scripts/skills/injury_permanent/collapsed_lung_part_injury.json": {
         "id": 920397,
@@ -36944,14 +36944,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:11.39Z",
         "updatedAt": "2023-06-26T05:49:43.652Z",
-        "modifiedAt": "2024-04-19T08:20:37Z",
-        "sha256": "55db5e977f42dd9318a63236965fdbcb1c90ad407c49dfa5cacad813357b7912"
+        "modifiedAt": "2024-07-24T02:16:30Z",
+        "sha256": "b3319b479ac6b2f15fd4f90fd207388aea4533a9fb2158b9d8e2a6e1d6a63bd9"
     },
     "scripts/skills/injury_permanent/missing_ear_injury.json": {
         "id": 920399,
@@ -36968,8 +36968,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:11.771Z",
         "updatedAt": "2023-06-26T05:49:43.712Z",
-        "modifiedAt": "2024-04-19T08:20:30Z",
-        "sha256": "c233999b76109308acae94dc124ea48efa8180d78519d35544ca4bda062b26cb"
+        "modifiedAt": "2024-07-24T02:18:07Z",
+        "sha256": "91e95aea2e3a030d92369c7f20382fce6026b4e8be373ace0cdb7dbcf71c81f6"
     },
     "scripts/skills/injury_permanent/missing_eye_injury.json": {
         "id": 920400,
@@ -37106,14 +37106,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:15.342Z",
         "updatedAt": "2023-06-26T05:49:44.189Z",
-        "modifiedAt": "2024-01-12T00:57:04Z",
-        "sha256": "3562d8ac28869b180209c84757d02f421e6223493d83b4016af3f55f5597f5ea"
+        "modifiedAt": "2024-07-24T02:08:50Z",
+        "sha256": "d521d9a7c60fc8fc780d50226ff2e1142f66c9843b307075b61ca77f9887ea24"
     },
     "scripts/skills/perks/perk_fast_adaption.json": {
         "id": 920408,
@@ -37130,8 +37130,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:15.669Z",
         "updatedAt": "2023-06-26T05:49:44.25Z",
-        "modifiedAt": "2024-03-17T20:44:22Z",
-        "sha256": "07fbdf87560c19fa985ab73166fc5ea982e3f20ed5cfd62b79e832af15c6a112"
+        "modifiedAt": "2024-07-24T01:56:31Z",
+        "sha256": "2aed84ac491f0275b7354de55bb276acf071133caab072afb7399cc172e4c944"
     },
     "scripts/skills/perks/perk_head_hunter.json": {
         "id": 920409,
@@ -37148,8 +37148,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:16.005Z",
         "updatedAt": "2023-06-26T05:49:44.316Z",
-        "modifiedAt": "2024-01-12T00:49:13Z",
-        "sha256": "cc2010e266627018cfa59eaad8758a3604f9e22135cf9f478771f72abf33640c"
+        "modifiedAt": "2024-07-24T01:58:19Z",
+        "sha256": "ed7be2d21277715bd7a33a7b9a53d150af91662696efda6e8514189d2ed26f0b"
     },
     "scripts/skills/perks/perk_inspiring_presence.json": {
         "id": 920410,
@@ -37178,14 +37178,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:16.929Z",
         "updatedAt": "2023-06-26T05:49:44.404Z",
-        "modifiedAt": "2024-01-12T00:57:12Z",
-        "sha256": "1120df2bb4b2ea5e39bc52734e82439a236b58de1966cddbdb5a100306ea6251"
+        "modifiedAt": "2024-07-24T02:08:36Z",
+        "sha256": "46396fa50f5f43a456e83d52db58a2300d29bb64d21e35571d3a1e1b15f9527f"
     },
     "scripts/skills/perks/perk_quick_hands.json": {
         "id": 920412,
@@ -37202,8 +37202,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:17.257Z",
         "updatedAt": "2023-06-26T05:49:44.459Z",
-        "modifiedAt": "2024-04-17T02:59:27Z",
-        "sha256": "81cab39c09bc897c9ed8913e5449adf72dd8e2ee86b0a7b80aebd640144825be"
+        "modifiedAt": "2024-07-24T02:05:11Z",
+        "sha256": "d63adbd2179437e875710319e42a587ffb9ee6369db9e3fa306d63386916c1c8"
     },
     "scripts/skills/perks/perk_reach_advantage.json": {
         "id": 920413,
@@ -37214,14 +37214,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:17.578Z",
         "updatedAt": "2023-06-26T05:49:44.51Z",
-        "modifiedAt": "2023-06-26T05:49:45Z",
-        "sha256": "eccd4c64601cb274fd4cbb6cce22fe7e22db4f36754f3088b1f2176c4d972e86"
+        "modifiedAt": "2024-07-24T02:06:48Z",
+        "sha256": "cbc3497e5ff20a86dfaa498801360036b68cd95dc8aaf16cef28b4ef843bc792"
     },
     "scripts/skills/racial/champion_racial.json": {
         "id": 920414,
@@ -37430,14 +37430,14 @@
         "total": 47,
         "translated": 47,
         "disputed": 0,
-        "checked": 36,
-        "reviewed": 36,
+        "checked": 35,
+        "reviewed": 35,
         "hidden": 0,
         "locked": 1,
         "createdAt": "2023-05-13T14:32:22.701Z",
         "updatedAt": "2023-06-26T05:49:45.192Z",
-        "modifiedAt": "2024-07-23T07:31:14Z",
-        "sha256": "438f98aea0eaf82da2abbb222d5cc5d05d8b9f21881acfe0b672b9b11f41259f"
+        "modifiedAt": "2024-07-24T08:46:29Z",
+        "sha256": "00adfec193460f98ff653a019763ae4e0e618dec37abbc9403c76a2f164ffad0"
     },
     "scripts/skills/skill_container.json": {
         "id": 920426,
@@ -37466,14 +37466,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:23.536Z",
         "updatedAt": "2023-06-26T05:49:45.303Z",
-        "modifiedAt": "2023-07-03T17:13:42Z",
-        "sha256": "40a8a81e5222f784c2a111dc4bffd029a3d1eed36a0d842ceb37b277b2a83209"
+        "modifiedAt": "2024-07-24T01:02:29Z",
+        "sha256": "160aac310bcb3525dd5ef45ddb2f5fe90956acc55496d13e31c3bf0a2d9c4e10"
     },
     "scripts/skills/special/mood_check.json": {
         "id": 920428,
@@ -37484,14 +37484,14 @@
         "total": 16,
         "translated": 16,
         "disputed": 0,
-        "checked": 11,
-        "reviewed": 11,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:23.877Z",
         "updatedAt": "2023-06-26T05:49:45.368Z",
-        "modifiedAt": "2024-05-21T03:06:33Z",
-        "sha256": "03142641362c42aa7ef6e7cf436ff386f6601b1fcbcce9fb5fa33419fa592b72"
+        "modifiedAt": "2024-07-24T01:29:41Z",
+        "sha256": "05082028542d83e16e1da309f4c83486ee5689abca5b7eafa1b2ffbed6211259"
     },
     "scripts/skills/special/morale_check.json": {
         "id": 920429,
@@ -37502,14 +37502,14 @@
         "total": 25,
         "translated": 25,
         "disputed": 0,
-        "checked": 22,
-        "reviewed": 22,
+        "checked": 21,
+        "reviewed": 21,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:25.622Z",
         "updatedAt": "2023-06-26T05:49:45.446Z",
-        "modifiedAt": "2024-05-21T03:07:43Z",
-        "sha256": "dfe0d5278c882e0ad4d2c62587a13559d840c3079b0db2f96534650b8dc7c71a"
+        "modifiedAt": "2024-07-24T01:32:55Z",
+        "sha256": "22070584b79cddce537ca687f5f538140044b5a3446e271dadf0049ebc6986d3"
     },
     "scripts/skills/special/night_effect.json": {
         "id": 920430,
@@ -37520,14 +37520,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:27.076Z",
         "updatedAt": "2023-06-26T05:49:45.52Z",
-        "modifiedAt": "2024-01-11T03:21:21Z",
-        "sha256": "3fd1562f836178dc3f78089019a2527d69c40ffd58590a8eea3881e7be31fafe"
+        "modifiedAt": "2024-07-24T01:42:57Z",
+        "sha256": "f556bb335bbcc59d06530c66c73b180597854b9f7af01ca7a181b06d8b5e0766"
     },
     "scripts/skills/special/no_ammo_warning.json": {
         "id": 920431,
@@ -37544,8 +37544,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:27.415Z",
         "updatedAt": "2023-06-26T05:49:45.583Z",
-        "modifiedAt": "2023-06-26T05:49:46Z",
-        "sha256": "ae8c2636b12dd1cf6233472198c0f83918b34e0f72730235327b8a9b623e2552"
+        "modifiedAt": "2024-07-24T01:44:41Z",
+        "sha256": "b7048041072427d7fb4fb3b0a17c1e6fafbd72e768c6dcdbd41db3fcc800c50c"
     },
     "scripts/skills/special/oath_of_fortification_warning.json": {
         "id": 920432,
@@ -37562,8 +37562,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:27.753Z",
         "updatedAt": "2023-06-26T05:49:45.637Z",
-        "modifiedAt": "2024-04-17T02:54:45Z",
-        "sha256": "4d946b443c166b6454ccb7720117e6abb93980b0b7fd31de0b3a3f9450a02244"
+        "modifiedAt": "2024-07-24T01:48:46Z",
+        "sha256": "7a5e6475f318cc5caa671892b8aaf375dc654c004a98a73e86bef2118f0ad3e1"
     },
     "scripts/skills/special/oath_of_honor_warning.json": {
         "id": 920433,
@@ -37574,14 +37574,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:28.082Z",
         "updatedAt": "2023-06-26T05:49:45.697Z",
-        "modifiedAt": "2024-04-17T02:54:48Z",
-        "sha256": "c04366d777b8e1f1572df5049b0b02a937133d57c261eff4622413caef13d6f9"
+        "modifiedAt": "2024-07-24T01:48:57Z",
+        "sha256": "2e9f45e6d49beceb0d724e286e917c5337d73439a35d12b27fb57bce57f42193"
     },
     "scripts/skills/special/weapon_breaking_warning.json": {
         "id": 920434,
@@ -38564,14 +38564,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:49.833Z",
         "updatedAt": "2023-06-26T05:49:49.705Z",
-        "modifiedAt": "2024-07-23T08:26:56Z",
-        "sha256": "78a7aa9cbb740a728d3ea7b930f39b33073336610af15df6ec6c89daaa3b9fff"
+        "modifiedAt": "2024-07-24T06:51:47Z",
+        "sha256": "7ba9380232f9f324c7459fe6a3f222b3d981771db94271ba66f99e91b56351d4"
     },
     "scripts/skills/traits/loyal_trait.json": {
         "id": 920489,
@@ -39140,14 +39140,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 7,
-        "reviewed": 7,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:01.313Z",
         "updatedAt": "2023-06-26T05:49:52.061Z",
-        "modifiedAt": "2024-01-11T02:43:03Z",
-        "sha256": "a2c6e9bb5842b5becc7e6d8638b461644bf378e1def2607caa582ac1f315477d"
+        "modifiedAt": "2024-07-24T00:58:09Z",
+        "sha256": "764b368120a0165060aa8fed0f0caecc3d7530b8050c7aad1614bf21698c9162"
     },
     "scripts/skills/traits/tough_trait.json": {
         "id": 920521,
@@ -39176,14 +39176,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:01.974Z",
         "updatedAt": "2023-06-26T05:49:52.184Z",
-        "modifiedAt": "2024-07-24T00:53:45Z",
-        "sha256": "76ba26968d5f29449932a215d5668b40603162a79e4398449de962a25daedf87"
+        "modifiedAt": "2024-07-24T00:56:42Z",
+        "sha256": "e24d59523a94471237d2dc6ec9063ac3650b10b0892fc292b01c66095b9b3b38"
     },
     "scripts/states/main_menu_state.json": {
         "id": 920523,
@@ -39344,8 +39344,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:05.329Z",
         "updatedAt": "2023-07-05T12:36:11.027Z",
-        "modifiedAt": "2024-07-17T02:08:00Z",
-        "sha256": "eb1283688e94964e963f69e7b3b693401c35d2f153c3b92bdd8d550eeaafae44"
+        "modifiedAt": "2024-07-24T02:15:14Z",
+        "sha256": "dd5d175a14fdc1bdae7704d63ffc3b94c46838e987b8f893d0d2111be9730245"
     },
     "scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.json": {
         "id": 920532,

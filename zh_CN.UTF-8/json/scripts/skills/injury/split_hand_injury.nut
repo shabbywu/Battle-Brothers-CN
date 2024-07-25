@@ -19,8 +19,8 @@
     "ID": 293422068,
     "key": "A sharp cut split the hand right down the middle. Until healed, it can barely be used anymore.",
     "original": "A sharp cut split the hand right down the middle. Until healed, it can barely be used anymore.",
-    "translation": "一记锋利的划伤将手从中间划开。在愈合之前，它几乎不能再使用了。",
-    "stage": 5,
+    "translation": "一记锋利的斩击将手从中间劈开。愈合之前不能再使用了。",
+    "stage": 1,
     "context": "this.m.Description = 'A sharp cut split the hand right down the middle. Until healed, it can barely be used anymore.'"
   },
   {

@@ -11,24 +11,24 @@
     "ID": 293422758,
     "key": "the Dwarf",
     "original": "the Dwarf",
-    "translation": "矮人(the Dwarf)",
-    "stage": 5,
+    "translation": "矮人",
+    "stage": 1,
     "context": "'the Dwarf'"
   },
   {
     "ID": 293422759,
     "key": "the Halfman",
     "original": "the Halfman",
-    "translation": "半身人(the Halfman)",
-    "stage": 5,
+    "translation": "半身人",
+    "stage": 1,
     "context": "'the Halfman'"
   },
   {
     "ID": 293422760,
     "key": "the Short",
     "original": "the Short",
-    "translation": "矮子(the Short)",
-    "stage": 5,
+    "translation": "矮子",
+    "stage": 1,
     "context": "'the Short'"
   },
   {

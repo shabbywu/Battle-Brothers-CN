@@ -11,7 +11,7 @@
     "ID": 293421401,
     "key": "Not affected by nighttime penalties",
     "original": "Not affected by nighttime penalties",
-    "translation": "不受夜间惩罚影响",
+    "translation": "不受黑夜惩罚影响",
     "stage": 1,
     "context": "text = 'Not affected by nighttime penalties'"
   },

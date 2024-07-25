@@ -11,7 +11,7 @@
     "ID": 293413690,
     "key": " is now an addict",
     "original": " is now an addict",
-    "translation": "现在是上瘾者",
+    "translation": "药物成瘾",
     "stage": 1,
     "context": "text = _event.m.Addict.getName() + ' is now an addict'"
   },

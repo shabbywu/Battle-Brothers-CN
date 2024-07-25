@@ -4171,7 +4171,7 @@
     "ID": 293406157,
     "key": "]25%[/color] less Fatigue.\n\nPolearm skills have their Action Point cost reduced to [color=",
     "original": "]25%[/color] less Fatigue.\n\nPolearm skills have their Action Point cost reduced to [color=",
-    "translation": "]25%[/color]\n\n长柄武器技能消耗的AP降低至 [color=",
+    "translation": "]25%[/color]\n\n长柄武器技能的行动点消耗降低至 [color=",
     "stage": 1,
     "context": "SpecPolearm = 'Master polearms and keeping the enemy at bay. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nPolearm skills have their Action Point cost reduced to [color=' + this.Const.UI.Color.NegativeValue + ']5[/color], and no longer have a penalty for attacking targets directly adjacent.'"
   },
@@ -6963,7 +6963,7 @@
     "ID": 293406506,
     "key": "]25%[/color] less Fatigue.\n\nStab, Puncture and Deathblow have a reduced Action Point cost to allow for an additional attack each turn.",
     "original": "]25%[/color] less Fatigue.\n\nStab, Puncture and Deathblow have a reduced Action Point cost to allow for an additional attack each turn.",
-    "translation": "]25%[/color]\n\n“刺击”、“穿刺”和“致命一击”消耗的AP降低，使每回合可以额外攻击一次。",
+    "translation": "]25%[/color]\n\n“刺击”、“穿刺”和“致命一击”的行动点消耗降低，使每回合可以额外攻击一次。",
     "stage": 1,
     "context": "SpecDagger = 'Master swift and deadly daggers. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nStab, Puncture and Deathblow have a reduced Action Point cost to allow for an additional attack each turn.'"
   },
@@ -7499,7 +7499,7 @@
     "ID": 293406573,
     "key": "]6[/color] Action Points to reload and can be fired every turn instead of every other turn.",
     "original": "]6[/color] Action Points to reload and can be fired every turn instead of every other turn.",
-    "translation": "]6[/color] AP，并且可以每回合而不是隔一回合开火。",
+    "translation": "]6[/color] 行动点数，并且可以每回合而不是隔一回合开火。",
     "stage": 1,
     "context": "SpecCrossbow = 'Master crossbows and firearms, and learn where to aim best. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nAn additional [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] of damage inflicted with crossbows ignores armor.\n\nHandgonnes now require [color=' + this.Const.UI.Color.NegativeValue + ']6[/color] Action Points to reload and can be fired every turn instead of every other turn.'"
   },

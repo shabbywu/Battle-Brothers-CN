@@ -19,8 +19,8 @@
     "ID": 293422075,
     "key": "A deep cut has split this character's shoulder open, injuring the muscle tissue and severely limiting mobility of the arms.",
     "original": "A deep cut has split this character's shoulder open, injuring the muscle tissue and severely limiting mobility of the arms.",
-    "translation": "一处深割伤劈开了这个角色的肩膀，损伤了肌肉组织并极大的限制了手臂的活动能力。",
-    "stage": 5,
+    "translation": "一处深割伤劈开了这个角色的肩膀，损伤了肌肉组织，极大的限制了手臂的活动能力。",
+    "stage": 1,
     "context": "this.m.Description = \"A deep cut has split this character's shoulder open, injuring the muscle tissue and severely limiting mobility of the arms.\""
   }
 ]

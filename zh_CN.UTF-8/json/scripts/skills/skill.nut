@@ -35,8 +35,8 @@
     "ID": 293422174,
     "key": "Nighttime",
     "original": "Nighttime",
-    "translation": "夜间",
-    "stage": 5,
+    "translation": "黑夜",
+    "stage": 1,
     "context": "text = 'Nighttime'"
   },
   {
@@ -179,7 +179,7 @@
     "ID": 293422192,
     "key": " AP[/color][/b] to use and builds up ",
     "original": " AP[/color][/b] to use and builds up ",
-    "translation": " AP[/color][/b] 并积累 ",
+    "translation": " 行动点数[/color][/b] 并积累 ",
     "stage": 1,
     "context": "return '[i]Costs ' + this.isAffordableBasedOnAPPreview() ? '[b][color=' + this.Const.UI.Color.PositiveValue + ']' + this.getActionPointCost() : '[b][color=' + this.Const.UI.Color.NegativeValue + ']' + this.getActionPointCost() + ' AP[/color][/b] to use and builds up ' + this.isAffordableBasedOnFatiguePreview() ? '[b][color=' + this.Const.UI.Color.PositiveValue + ']' + this.getFatigueCost() : '[b][color=' + this.Const.UI.Color.NegativeValue + ']' + this.getFatigueCost() + ' Fatigue[/color][/b][/i]\n';"
   },

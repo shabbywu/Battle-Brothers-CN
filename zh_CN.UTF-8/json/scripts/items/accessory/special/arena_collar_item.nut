@@ -3,7 +3,7 @@
     "ID": 293417498,
     "key": "A collar worn by combatants in southern arenas.",
     "original": "A collar worn by combatants in southern arenas.",
-    "translation": "南方竞技场上，战斗人员佩戴的项圈。",
+    "translation": "南方竞技场上，参战者佩戴的项圈。",
     "stage": 1,
     "context": "this.m.Description = 'A collar worn by combatants in southern arenas.'"
   },

@@ -107,8 +107,8 @@
     "ID": 293418339,
     "key": "Neither item is equipped, unable to swap!",
     "original": "Neither item is equipped, unable to swap!",
-    "translation": "无法交换，没有装备任何物品！",
-    "stage": 5,
+    "translation": "无法交换，两物品均未装备！",
+    "stage": 1,
     "context": "this.logWarning('Neither item is equipped, unable to swap!')"
   },
   {

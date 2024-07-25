@@ -11,7 +11,7 @@
     "ID": 293422267,
     "key": "We'll be victorious! This character is confident that victory will be his.",
     "original": "We'll be victorious! This character is confident that victory will be his.",
-    "translation": "胜利属于我们！这个角色相信他能取胜。",
+    "translation": "我们赢定了！这个角色相信他能取胜。",
     "stage": 1,
     "context": "text = \"We'll be victorious! This character is confident that victory will be his.\""
   },
@@ -67,8 +67,8 @@
     "ID": 293422274,
     "key": "Run for your lives! This character has lost it and is fleeing the battlefield in panic.",
     "original": "Run for your lives! This character has lost it and is fleeing the battlefield in panic.",
-    "translation": "逃命吧！这个角色失去理智了，正在恐慌地逃离战场。",
-    "stage": 5,
+    "translation": "逃命吧！这个角色已经失去理智，惊慌失措地逃离战场。",
+    "stage": 1,
     "context": "text = 'Run for your lives! This character has lost it and is fleeing the battlefield in panic.'"
   },
   {
@@ -163,7 +163,7 @@
     "ID": 293422286,
     "key": "We can't win this! This character's morale is breaking and he is close to fleeing the battlefield.",
     "original": "We can't win this! This character's morale is breaking and he is close to fleeing the battlefield.",
-    "translation": "我军败了！这个角色的士气降至崩溃，一点风吹草动就能吓跑他。",
+    "translation": "我军败了！这个角色的士气崩溃，一点风吹草动就能吓跑他。",
     "stage": 1,
     "context": "text = \"We can't win this! This character's morale is breaking and he is close to fleeing the battlefield.\""
   },

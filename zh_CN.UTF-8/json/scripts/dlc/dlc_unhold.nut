@@ -19,7 +19,7 @@
     "ID": 293410190,
     "key": "Potions, despite their colorful descriptions, are essentially drugs, and characters can get addicted to them.",
     "original": "Potions, despite their colorful descriptions, are essentially drugs, and characters can get addicted to them.",
-    "translation": "药剂，在它们天花乱坠的描述之外，本质上是毒品，角色可能会对它们上瘾。",
+    "translation": "药剂，描述的天花乱坠，本质上却是毒品，角色可能会对它们上瘾。",
     "stage": 1,
     "context": "'Potions, despite their colorful descriptions, are essentially drugs, and characters can get addicted to them.'"
   },
