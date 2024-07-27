@@ -35,7 +35,7 @@
     "ID": 293417720,
     "key": "Scale Shirt",
     "original": "Scale Shirt",
-    "translation": "鳞片衬衫",
+    "translation": "鳞甲衫",
     "stage": 1,
     "context": "'Scale Shirt'"
   },
@@ -51,7 +51,7 @@
     "ID": 293417722,
     "key": "Goldskin",
     "original": "Goldskin",
-    "translation": "黄金之皮",
+    "translation": "金皮",
     "stage": 1,
     "context": "'Goldskin'"
   },
@@ -83,7 +83,7 @@
     "ID": 293417726,
     "key": "Golden Reminder",
     "original": "Golden Reminder",
-    "translation": "黄金提示",
+    "translation": "金色遗物",
     "stage": 1,
     "context": "'Golden Reminder'"
   }

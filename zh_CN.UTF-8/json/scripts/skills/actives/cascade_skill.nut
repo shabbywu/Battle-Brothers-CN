@@ -11,8 +11,8 @@
     "ID": 293419845,
     "key": "Let loose a cascade of three striking heads on your opponent. Will strike over or around shield cover.",
     "original": "Let loose a cascade of three striking heads on your opponent. Will strike over or around shield cover.",
-    "translation": "向你的对手倾泻你链枷的三个头。会绕过盾牌的掩护。",
-    "stage": 5,
+    "translation": "把链枷的三个头倾泻向对手。能绕过盾牌掩护。",
+    "stage": 1,
     "context": "this.m.Description = 'Let loose a cascade of three striking heads on your opponent. Will strike over or around shield cover.'"
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293419847,
     "key": "Ignores the bonus to Melee Defense granted by shields",
     "original": "Ignores the bonus to Melee Defense granted by shields",
-    "translation": "忽视盾牌提供的近战防御加成",
-    "stage": 5,
+    "translation": "无视盾牌提供的近战防御加成",
+    "stage": 1,
     "context": "text = 'Ignores the bonus to Melee Defense granted by shields'"
   },
   {

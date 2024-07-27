@@ -27,8 +27,8 @@
     "ID": 293421468,
     "key": " quickly recovers from being disarmed thanks to his unnatural physiology",
     "original": " quickly recovers from being disarmed thanks to his unnatural physiology",
-    "translation": "非自然的生理功能帮助他快速从被缴械中恢复",
-    "stage": 5,
+    "translation": "靠他的后天生理机能迅速从被缴械中恢复",
+    "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' quickly recovers from being disarmed thanks to his unnatural physiology')"
   }
 ]

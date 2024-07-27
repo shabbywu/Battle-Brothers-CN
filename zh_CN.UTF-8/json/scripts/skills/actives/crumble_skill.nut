@@ -3,8 +3,8 @@
     "ID": 293419879,
     "key": "[/color] extra fatigue",
     "original": "[/color] extra fatigue",
-    "translation": "[/color] 额外疲劳值",
-    "stage": 5,
+    "translation": "[/color] 点疲劳值",
+    "stage": 1,
     "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
   },
   {
@@ -19,8 +19,8 @@
     "ID": 293419881,
     "key": "A heavy strike to make the enemy formation crumble. It can cover the distance of 2 tiles and can be used from behind the frontline, outside the range of most other melee weapons.",
     "original": "A heavy strike to make the enemy formation crumble. It can cover the distance of 2 tiles and can be used from behind the frontline, outside the range of most other melee weapons.",
-    "translation": "使敌人阵形崩裂的猛烈打击。它可以覆盖2格的距离，可以从前线后方使用，超出大多数其他近战武器的范围。",
-    "stage": 5,
+    "translation": "能使敌人阵形崩裂的猛烈打击。它能覆盖2格距离，能从前线后方使用，范围超过大多数其他近战武器。",
+    "stage": 1,
     "context": "this.m.Description = 'A heavy strike to make the enemy formation crumble. It can cover the distance of 2 tiles and can be used from behind the frontline, outside the range of most other melee weapons.'"
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293419883,
     "key": "Inflicts [color=",
     "original": "Inflicts [color=",
-    "translation": "造成 [color=",
-    "stage": 5,
+    "translation": "额外施加 [color=",
+    "stage": 1,
     "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + this.Const.Combat.FatigueReceivedPerHit * 2 + '[/color] extra fatigue'"
   },
   {

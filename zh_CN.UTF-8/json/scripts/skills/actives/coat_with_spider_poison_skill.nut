@@ -35,16 +35,16 @@
     "ID": 293419876,
     "key": "Coat your weapons and arrowtips with poison. Can not be used while engaged in melee.",
     "original": "Coat your weapons and arrowtips with poison. Can not be used while engaged in melee.",
-    "translation": "把你的武器和箭头涂上毒药。 不能在近战中使用。",
-    "stage": 5,
+    "translation": "给你的武器和箭头涂上毒药。无法在陷入近战时使用。",
+    "stage": 1,
     "context": "this.m.Description = 'Coat your weapons and arrowtips with poison. Can not be used while engaged in melee.'"
   },
   {
     "ID": 293419877,
     "key": "]Can not be used because this character is engaged in melee[/color]",
     "original": "]Can not be used because this character is engaged in melee[/color]",
-    "translation": "]无法使用，因为此角色已卷入近战[/color]",
-    "stage": 5,
+    "translation": "]角色陷入近战，无法使用[/color]",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   }
 ]

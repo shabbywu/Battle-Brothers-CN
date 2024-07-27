@@ -3,7 +3,7 @@
     "ID": 293421443,
     "key": " is unaffected by the cold thanks to his unnatural physiology",
     "original": " is unaffected by the cold thanks to his unnatural physiology",
-    "translation": "非自然的生理机能帮助他免受寒冷影响",
+    "translation": "靠他的后天生理机能免受寒冷影响",
     "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' is unaffected by the cold thanks to his unnatural physiology')"
   },

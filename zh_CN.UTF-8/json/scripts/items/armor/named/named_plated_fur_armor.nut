@@ -3,7 +3,7 @@
     "ID": 293417783,
     "key": "A simple fur and leather armor with thick layers of metal plates rivetted ontop. A very simple and heavy design, but quite effective in combat.",
     "original": "A simple fur and leather armor with thick layers of metal plates rivetted ontop. A very simple and heavy design, but quite effective in combat.",
-    "translation": "一个简单的毛皮和皮革装甲与厚层金属板铆接在一起。 一个非常简单和沉重的设计，但在战斗中相当有效。",
+    "translation": "一件在外侧铆接了厚重金属板状甲片的简单毛皮甲。简单又沉重，在战斗中却非常有效。",
     "stage": 1,
     "context": "this.m.Description = 'A simple fur and leather armor with thick layers of metal plates rivetted ontop. A very simple and heavy design, but quite effective in combat.'"
   },
@@ -19,7 +19,7 @@
     "ID": 293417785,
     "key": "Plate-covered Hide",
     "original": "Plate-covered Hide",
-    "translation": "板盖皮",
+    "translation": "覆板皮甲",
     "stage": 1,
     "context": "'Plate-covered Hide'"
   },
@@ -27,7 +27,7 @@
     "ID": 293417786,
     "key": "Plated Fur Armor",
     "original": "Plated Fur Armor",
-    "translation": "镀毛皮铠甲",
+    "translation": "毛皮板甲",
     "stage": 1,
     "context": "'Plated Fur Armor'"
   },
@@ -35,7 +35,7 @@
     "ID": 293417787,
     "key": "Rivetted Fur",
     "original": "Rivetted Fur",
-    "translation": "铆接毛皮",
+    "translation": "毛铆甲",
     "stage": 1,
     "context": "'Rivetted Fur'"
   }

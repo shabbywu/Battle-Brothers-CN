@@ -35,8 +35,8 @@
     "ID": 293419892,
     "key": "Destroy Armor",
     "original": "Destroy Armor",
-    "translation": "摧毁盔甲",
-    "stage": 5,
+    "translation": "摧甲击",
+    "stage": 1,
     "context": "this.m.Name = 'Destroy Armor'"
   },
   {

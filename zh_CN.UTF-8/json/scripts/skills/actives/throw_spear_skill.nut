@@ -59,8 +59,8 @@
     "ID": 293420666,
     "key": "Hurl a throwing spear at a target in order to render their shield unusable. Targets with a shield will always be hit. Hitting a target without a shield can inflict devastating damage instead, but the attack may miss. Can not be used while engaged in melee",
     "original": "Hurl a throwing spear at a target in order to render their shield unusable. Targets with a shield will always be hit. Hitting a target without a shield can inflict devastating damage instead, but the attack may miss. Can not be used while engaged in melee.",
-    "translation": "向目标投掷投矛以使目标的盾牌无法使用。装备盾牌的目标总是会被命中，相反没有装备盾牌的目标不一定会被命中，但如果命中可以造成大量伤害。无法在卷入近战时使用。",
-    "stage": 5,
+    "translation": "向目标投掷投矛以使目标的盾牌无法使用。装备盾牌的目标总是会被命中，相反没有装备盾牌的目标不一定会被命中，但如果命中可以造成大量伤害。无法在陷入近战时使用。",
+    "stage": 1,
     "context": "this.m.Description = 'Hurl a throwing spear at a target in order to render their shield unusable. Targets with a shield will always be hit. Hitting a target without a shield can inflict devastating damage instead, but the attack may miss. Can not be used while engaged in melee.'"
   },
   {
@@ -107,8 +107,8 @@
     "ID": 293420672,
     "key": "]Can not be used because this character is engaged in melee[/color]",
     "original": "]Can not be used because this character is engaged in melee[/color]",
-    "translation": "]无法使用，因为此角色已卷入近战[/color]",
-    "stage": 5,
+    "translation": "]角色陷入近战，无法使用[/color]",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   },
   {

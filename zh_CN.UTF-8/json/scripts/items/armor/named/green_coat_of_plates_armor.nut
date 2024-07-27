@@ -19,7 +19,7 @@
     "ID": 293417729,
     "key": "Plate Coat",
     "original": "Plate Coat",
-    "translation": "厚板外衣",
+    "translation": "覆板衣",
     "stage": 1,
     "context": "'Plate Coat'"
   },
@@ -51,7 +51,7 @@
     "ID": 293417733,
     "key": "A rare coat of plates enhanced with chainmail and additional padding. A piece of true craftsmanship!",
     "original": "A rare coat of plates enhanced with chainmail and additional padding. A piece of true craftsmanship!",
-    "translation": "一种用链甲和额外衬垫加固的罕见的板甲。 一件真正的艺术品！",
+    "translation": "一件加强有链甲和额外衬垫的板甲衣。一件真正的艺术品！",
     "stage": 1,
     "context": "this.m.Description = 'A rare coat of plates enhanced with chainmail and additional padding. A piece of true craftsmanship!'"
   },

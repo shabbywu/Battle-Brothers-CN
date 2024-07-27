@@ -67,8 +67,8 @@
     "ID": 293421563,
     "key": " repels insects with his unnatural physiology",
     "original": " repels insects with his unnatural physiology",
-    "translation": "非自然的生理功能使他逼退了虫群",
-    "stage": 5,
+    "translation": "靠他的后天生理机能逼退了虫群",
+    "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' repels insects with his unnatural physiology')"
   }
 ]

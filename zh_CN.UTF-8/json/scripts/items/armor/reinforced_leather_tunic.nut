@@ -3,7 +3,7 @@
     "ID": 293417841,
     "key": "An ominous black coat worn over a sturdy tunic, reinforced with thick leather armor and iron bracers.",
     "original": "An ominous black coat worn over a sturdy tunic, reinforced with thick leather armor and iron bracers.",
-    "translation": "一件穿在结实束腰外衣上的不祥黑色外套之上，加强了厚皮甲和铁护腕。",
+    "translation": "一件套在不祥黑色外套之上的结实束腰衣，加强有厚皮甲和铁护腕。",
     "stage": 1,
     "context": "this.m.Description = 'An ominous black coat worn over a sturdy tunic, reinforced with thick leather armor and iron bracers.'"
   },

@@ -83,7 +83,7 @@
     "ID": 293421728,
     "key": " resists being shellshocked thanks to his unnatural physiology",
     "original": " resists being shellshocked thanks to his unnatural physiology",
-    "translation": "因为他不自然的生理机能抵抗了炮火震撼",
+    "translation": "靠他的后天生理机能抵抗了炮火震撼",
     "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' resists being shellshocked thanks to his unnatural physiology')"
   }

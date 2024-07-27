@@ -3,7 +3,7 @@
     "ID": 293417736,
     "key": "Full Mail",
     "original": "Full Mail",
-    "translation": "完整裹体",
+    "translation": "全身链甲",
     "stage": 1,
     "context": "'Full Mail'"
   },
@@ -11,7 +11,7 @@
     "ID": 293417737,
     "key": "Pageantry",
     "original": "Pageantry",
-    "translation": "盛典",
+    "translation": "盛典礼服",
     "stage": 1,
     "context": "'Pageantry'"
   },
@@ -35,7 +35,7 @@
     "ID": 293417740,
     "key": "Truly fit for a knight, this mail hauberk is made from the highest quality materials and boasts precious decorations and ornaments.",
     "original": "Truly fit for a knight, this mail hauberk is made from the highest quality materials and boasts precious decorations and ornaments.",
-    "translation": "这锁子甲是由最高质量的材料和珍贵的装饰品制成，适合真正的骑士。",
+    "translation": "用最好的材料制成，最华贵的饰品装点，这件长身链甲配得上一位真正的骑士。",
     "stage": 1,
     "context": "this.m.Description = 'Truly fit for a knight, this mail hauberk is made from the highest quality materials and boasts precious decorations and ornaments.'"
   },

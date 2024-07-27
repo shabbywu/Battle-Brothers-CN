@@ -19,8 +19,8 @@
     "ID": 293419859,
     "key": "A powerful chopping attack that bears full force on any target.",
     "original": "A powerful chopping attack that bears full force on any target.",
-    "translation": "一次强力的斩击，将用尽全力打击目标。",
-    "stage": 5,
+    "translation": "一记强力斩击，用尽全力打击任何目标。",
+    "stage": 1,
     "context": "this.m.Description = 'A powerful chopping attack that bears full force on any target.'"
   },
   {

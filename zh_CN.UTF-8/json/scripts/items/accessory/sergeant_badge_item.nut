@@ -11,7 +11,7 @@
     "ID": 293417496,
     "key": "A sash worn by the company's sergeant, your second-in-command on the battlefield.",
     "original": "A sash worn by the company's sergeant, your second-in-command on the battlefield.",
-    "translation": "由战团军士穿戴的绶带，他是你在战场上的副手。",
+    "translation": "战场上战团军士佩戴的绶带，是他作为你副官的身份象征。",
     "stage": 1,
     "context": "this.m.Description = \"A sash worn by the company's sergeant, your second-in-command on the battlefield.\""
   },

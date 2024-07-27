@@ -19,7 +19,7 @@
     "ID": 293417523,
     "key": "Contains powder for [color=",
     "original": "Contains powder for [color=",
-    "translation": "装有[color=",
+    "translation": "药量够用[color=",
     "stage": 1,
     "context": "text = 'Contains powder for [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] uses'"
   },
@@ -35,7 +35,7 @@
     "ID": 293417525,
     "key": "[/color] uses",
     "original": "[/color] uses",
-    "translation": "[/color]个药包",
+    "translation": "[/color]次",
     "stage": 1,
     "context": "text = 'Contains powder for [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] uses'"
   }

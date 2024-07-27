@@ -11,7 +11,7 @@
     "ID": 293417872,
     "key": "Wizard's Robe",
     "original": "Wizard's Robe",
-    "translation": "术士长袍",
+    "translation": "巫师长袍",
     "stage": 1,
     "context": "this.m.Name = \"Wizard's Robe\""
   }

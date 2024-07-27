@@ -27,8 +27,8 @@
     "ID": 293421452,
     "key": " shook off being dazed thanks to his unnatural physiology",
     "original": " shook off being dazed thanks to his unnatural physiology",
-    "translation": "非自然的生理功能帮助他摆脱茫然",
-    "stage": 5,
+    "translation": "靠他的后天生理机能摆脱了茫然",
+    "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' shook off being dazed thanks to his unnatural physiology')"
   },
   {

@@ -11,7 +11,7 @@
     "ID": 293417850,
     "key": "A long leather coat reinforced with metal plates worn over a sturdy mail hauberk.",
     "original": "A long leather coat reinforced with metal plates worn over a sturdy mail hauberk.",
-    "translation": "一件套在结实链甲上，加强有金属甲片的长身皮革大衣。",
+    "translation": "一件套有加强了金属甲片的长身皮革大衣的结实链甲。",
     "stage": 1,
     "context": "this.m.Description = 'A long leather coat reinforced with metal plates worn over a sturdy mail hauberk.'"
   }

@@ -27,8 +27,8 @@
     "ID": 293419949,
     "key": "Give to an adjacent ally or drink yourself an antidote to remove any poison effects. Can not be used while engaged in melee, and anyone receiving the item needs to have a free bag slot.",
     "original": "Give to an adjacent ally or drink yourself an antidote to remove any poison effects. Can not be used while engaged in melee, and anyone receiving the item needs to have a free bag slot.",
-    "translation": "将解毒剂给予附近的盟友或自己饮用，以消除任意中毒效果。无法在卷入近战时使用，任何接受此物品的人都需要一个背包空位。",
-    "stage": 5,
+    "translation": "将解毒剂给予附近的盟友或自己饮用，以消除任意中毒效果。无法在陷入近战时使用，任何接受此物品的人都需要一个背包空位。",
+    "stage": 1,
     "context": "this.m.Description = 'Give to an adjacent ally or drink yourself an antidote to remove any poison effects. Can not be used while engaged in melee, and anyone receiving the item needs to have a free bag slot.'"
   },
   {
@@ -51,8 +51,8 @@
     "ID": 293419952,
     "key": "]Can not be used because this character is engaged in melee[/color]",
     "original": "]Can not be used because this character is engaged in melee[/color]",
-    "translation": "]无法使用，因为此角色已卷入近战[/color]",
-    "stage": 5,
+    "translation": "]角色陷入近战，无法使用[/color]",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   }
 ]
