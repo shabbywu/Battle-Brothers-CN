@@ -35,8 +35,8 @@
     "ID": 293421473,
     "key": " regained his focus thanks to his unnatural physiology",
     "original": " regained his focus thanks to his unnatural physiology",
-    "translation": "非自然的生理功能帮助他恢复集中",
-    "stage": 5,
+    "translation": "靠他的后天生理机能恢复了集中",
+    "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' regained his focus thanks to his unnatural physiology')"
   },
   {

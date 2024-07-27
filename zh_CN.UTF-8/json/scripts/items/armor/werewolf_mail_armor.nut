@@ -11,7 +11,7 @@
     "ID": 293417869,
     "key": "A skillfully crafted mail shirt with the pelt of a giant wolf ontop. Donning the skin of a beast like this can turn one into an imposing figure.",
     "original": "A skillfully crafted mail shirt with the pelt of a giant wolf ontop. Donning the skin of a beast like this can turn one into an imposing figure.",
-    "translation": "一件覆有巨狼毛皮的精巧链甲衫。这种兽皮加身，可谓威风凛凛。",
+    "translation": "一件覆有巨狼毛皮的精巧链甲衫。有这种兽皮加身可谓威风凛凛。",
     "stage": 1,
     "context": "this.m.Description = 'A skillfully crafted mail shirt with the pelt of a giant wolf ontop. Donning the skin of a beast like this can turn one into an imposing figure.'"
   },

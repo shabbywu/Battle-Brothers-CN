@@ -3,7 +3,7 @@
     "ID": 293417480,
     "key": "Young Anselm's Skull and Jawbone",
     "original": "Young Anselm's Skull and Jawbone",
-    "translation": "初创者安瑟姆的颅骨和下颚骨",
+    "translation": "小安瑟姆的颅骨和下颌骨",
     "stage": 1,
     "context": "this.m.Name = \"Young Anselm's Skull and Jawbone\""
   },
@@ -19,7 +19,7 @@
     "ID": 293417482,
     "key": "The skull of Young Anselm, the first Oathtaker, worn alongside a reliquary containing his fractured jawbone. To enter battle adorned with such a powerful relic is to have complete assurance in victory, for who could be defeated with Young Anselm at their ",
     "original": "The skull of Young Anselm, the first Oathtaker, worn alongside a reliquary containing his fractured jawbone. To enter battle adorned with such a powerful relic is to have complete assurance in victory, for who could be defeated with Young Anselm at their side?",
-    "translation": "初创者安瑟姆的颅骨，第一个宣誓者，和一个装有他骨折的下颚骨的圣髑盒一起。 带着如此强大的圣物参加战斗必将无往不利，有初创者安塞姆的护佑在身，怎么可能会被人打败呢？",
+    "translation": "第一位执誓者，小安瑟姆的颅骨，和一件装有他折断下颌骨的圣骨匣。这件强大遗物的佩戴者必将无往不利，有小安瑟姆的护佑在身，谁又能被打败？",
     "stage": 1,
     "context": "this.m.Description = 'The skull of Young Anselm, the first Oathtaker, worn alongside a reliquary containing his fractured jawbone. To enter battle adorned with such a powerful relic is to have complete assurance in victory, for who could be defeated with Young Anselm at their side?'"
   },

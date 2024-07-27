@@ -43,8 +43,8 @@
     "ID": 293419789,
     "key": "A focused and carefully aimed shot with a good outlook of hitting its intended target even at a distance. Can not be used while engaged in melee.",
     "original": "A focused and carefully aimed shot with a good outlook of hitting its intended target even at a distance. Can not be used while engaged in melee.",
-    "translation": "一种集中注意力仔细瞄准的射击，即使在远距离也相对容易命中预期目标。无法在卷入近战时使用。",
-    "stage": 5,
+    "translation": "集中注意，仔细瞄准。即使预设目标较远也相对容易命中。陷入近战后无法使用。",
+    "stage": 1,
     "context": "this.m.Description = 'A focused and carefully aimed shot with a good outlook of hitting its intended target even at a distance. Can not be used while engaged in melee.'"
   },
   {
@@ -59,8 +59,8 @@
     "ID": 293419791,
     "key": "]Can not be used because this character is engaged in melee[/color]",
     "original": "]Can not be used because this character is engaged in melee[/color]",
-    "translation": "]无法使用，因为此角色已卷入近战[/color]",
-    "stage": 5,
+    "translation": "]角色陷入近战，无法使用[/color]",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   },
   {

@@ -51,8 +51,8 @@
     "ID": 293419817,
     "key": "A strike that can cover the distance of 2 tiles. Its effect can be felt through the thickest of armor.",
     "original": "A strike that can cover the distance of 2 tiles. Its effect can be felt through the thickest of armor.",
-    "translation": "一种可以覆盖2格距离的打击。它的效果即便穿着最厚的盔甲也能感受到。",
-    "stage": 5,
+    "translation": "一种可以覆盖2格距离的打击。穿着最厚的盔甲也不能无动于衷。",
+    "stage": 1,
     "context": "this.m.Description = 'A strike that can cover the distance of 2 tiles. Its effect can be felt through the thickest of armor.'"
   },
   {

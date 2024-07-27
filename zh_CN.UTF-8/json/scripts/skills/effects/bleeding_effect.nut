@@ -11,8 +11,8 @@
     "ID": 293421429,
     "key": " had his bleeding wound quickly close thanks to his unnatural physiology",
     "original": " had his bleeding wound quickly close thanks to his unnatural physiology",
-    "translation": "非自然的生理功能帮助他的伤口迅速止血",
-    "stage": 5,
+    "translation": "靠他的后天生理机能迅速止血",
+    "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' had his bleeding wound quickly close thanks to his unnatural physiology')"
   },
   {

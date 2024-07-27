@@ -27,7 +27,7 @@
     "ID": 293417658,
     "key": "A grisly aspect of Davkul, an ancient power not from this world, and the last remnants of %sacrifice% from whose body it has been fashioned. It shall never break, but instead keep regrowing its scarred skin on the spot.",
     "original": "A grisly aspect of Davkul, an ancient power not from this world, and the last remnants of %sacrifice% from whose body it has been fashioned. It shall never break, but instead keep regrowing its scarred skin on the spot.",
-    "translation": "达库尔(Davkul)骇人的一面，这是来自异界的古老力量，以及 %sacrifice% 身体最后的遗留和重塑。它永远不会破裂，而是在原地不断地再生它那伤痕累累的皮肤。",
+    "translation": "骇人的达库尔神体，是来自异界的古老力量，也是%sacrifice%身体最后的遗留和重塑。它永远不会破裂，而是在原地不断地再生它那伤痕累累的皮肤。",
     "stage": 1,
     "context": "this.m.Description = 'A grisly aspect of Davkul, an ancient power not from this world, and the last remnants of %sacrifice% from whose body it has been fashioned. It shall never break, but instead keep regrowing its scarred skin on the spot.'"
   }

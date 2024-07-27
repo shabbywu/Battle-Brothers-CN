@@ -19,8 +19,8 @@
     "ID": 293421584,
     "key": " is unaffected by acid thanks to his unnatural physiology",
     "original": " is unaffected by acid thanks to his unnatural physiology",
-    "translation": "非自然的生理功能帮助他免受酸液影响",
-    "stage": 5,
+    "translation": "靠他的后天生理机能免受酸液影响",
+    "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' is unaffected by acid thanks to his unnatural physiology')"
   },
   {

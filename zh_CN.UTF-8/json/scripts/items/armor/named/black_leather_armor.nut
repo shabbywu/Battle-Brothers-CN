@@ -19,7 +19,7 @@
     "ID": 293417693,
     "key": "Black",
     "original": "Black",
-    "translation": "黑色",
+    "translation": "黑甲",
     "stage": 1,
     "context": "'Black'"
   },
@@ -35,7 +35,7 @@
     "ID": 293417695,
     "key": "A well-crafted and hardened leather armor supported by a padded gambeson and chainmail. Light to wear but very sturdy.",
     "original": "A well-crafted and hardened leather armor supported by a padded gambeson and chainmail. Light to wear but very sturdy.",
-    "translation": "一种精心制作的硬化皮革盔甲，由加垫的软甲和链甲支撑。穿起来很轻，但是很结实。",
+    "translation": "一件穿在填充软甲和链甲外的精制硬化皮甲。穿着虽轻但非常结实。",
     "stage": 1,
     "context": "this.m.Description = 'A well-crafted and hardened leather armor supported by a padded gambeson and chainmail. Light to wear but very sturdy.'"
   },

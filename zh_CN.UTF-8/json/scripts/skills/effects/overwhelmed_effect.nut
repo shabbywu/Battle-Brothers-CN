@@ -35,8 +35,8 @@
     "ID": 293421670,
     "key": " resists being overwhelmed thanks to his unnatural physiology",
     "original": " resists being overwhelmed thanks to his unnatural physiology",
-    "translation": "非自然的生理功能帮助他抵抗了压制",
-    "stage": 5,
+    "translation": "靠他的后天生理机能抵抗了压制",
+    "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' resists being overwhelmed thanks to his unnatural physiology')"
   },
   {

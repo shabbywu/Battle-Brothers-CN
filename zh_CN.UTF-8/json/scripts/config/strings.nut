@@ -3483,7 +3483,7 @@
     "ID": 293406071,
     "key": "A cobblestone road used for carriages and larger vehicles.",
     "original": "A cobblestone road used for carriages and larger vehicles.",
-    "translation": "用于马车和大型车辆的鹅卵石道路。",
+    "translation": "供马车等大型车辆通行的鹅卵石道路。",
     "stage": 1,
     "context": "'A cobblestone road used for carriages and larger vehicles.'"
   },
@@ -3779,7 +3779,7 @@
     "ID": 293406108,
     "key": "Cobblestone Road",
     "original": "Cobblestone Road",
-    "translation": "鹅卵石路",
+    "translation": "卵石路",
     "stage": 1,
     "context": "'Cobblestone Road'"
   },
@@ -8699,7 +8699,7 @@
     "ID": 293406723,
     "key": "]25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=",
     "original": "]25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=",
-    "translation": "]25%[/color]\n\n“摧毁盔甲”和“粉碎盔甲”造成的护甲伤害增加 [color=",
+    "translation": "]25%[/color]\n\n“摧甲击”和“碎甲击”造成的护甲伤害增加 [color=",
     "stage": 1,
     "context": "SpecHammer = 'Master hammers and fighting against heavily armored opponents. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] more damage against armor.\n\nShatter gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.\n\nThe Polehammer no longer has a penalty for attacking targets directly adjacent.'"
   },

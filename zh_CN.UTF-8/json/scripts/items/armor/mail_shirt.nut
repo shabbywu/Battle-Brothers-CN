@@ -11,8 +11,8 @@
     "ID": 293417680,
     "key": "A mail shirt with shoulder guards providing excellent protection against most weapons.",
     "original": "A mail shirt with shoulder guards providing excellent protection against most weapons.",
-    "translation": "一件带护肩的链甲衫，能很好地抵御大多数武器。",
-    "stage": 5,
+    "translation": "一件带护肩的链甲衫，对大多数武器提供了极好的防护。",
+    "stage": 1,
     "context": "this.m.Description = 'A mail shirt with shoulder guards providing excellent protection against most weapons.'"
   }
 ]

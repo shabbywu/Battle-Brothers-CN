@@ -27,7 +27,7 @@
     "ID": 293417775,
     "key": "An extraordinarily well-crafted piece of lamellar armor. It is covered with beaten gold, which makes it truly stand out.",
     "original": "An extraordinarily well-crafted piece of lamellar armor. It is covered with beaten gold, which makes it truly stand out.",
-    "translation": "精心制作的薄片状盔甲。 它上面覆盖着金箔，这使它真正与众不同。",
+    "translation": "一件制作尤为精良的札甲。上面覆盖的金箔让它真正地脱颖而出。",
     "stage": 1,
     "context": "this.m.Description = 'An extraordinarily well-crafted piece of lamellar armor. It is covered with beaten gold, which makes it truly stand out.'"
   },

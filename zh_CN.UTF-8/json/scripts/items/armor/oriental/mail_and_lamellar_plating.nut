@@ -11,7 +11,7 @@
     "ID": 293417814,
     "key": "A lamellar shirt made from interlapping metal plates worn atop a mail shirt.",
     "original": "A lamellar shirt made from interlapping metal plates worn atop a mail shirt.",
-    "translation": "一种由金属板交织而成的片状衬衫穿在盔甲衫上。",
+    "translation": "一件由层叠甲片制成，套在链甲衫外的札甲衫。",
     "stage": 1,
     "context": "this.m.Description = 'A lamellar shirt made from interlapping metal plates worn atop a mail shirt.'"
   }

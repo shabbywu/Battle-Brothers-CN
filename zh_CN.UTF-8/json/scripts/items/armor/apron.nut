@@ -3,7 +3,7 @@
     "ID": 293417576,
     "key": "A leather apron usually worn by apprentices and craftsmen.",
     "original": "A leather apron usually worn by apprentices and craftsmen.",
-    "translation": "学徒和工匠所穿的皮制围裙。",
+    "translation": "学徒和工匠常穿的皮制围裙。",
     "stage": 1,
     "context": "this.m.Description = 'A leather apron usually worn by apprentices and craftsmen.'"
   },

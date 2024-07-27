@@ -3,8 +3,8 @@
     "ID": 293417998,
     "key": "A padded cloth cap.",
     "original": "A padded cloth cap.",
-    "translation": "一顶有衬里的布帽。",
-    "stage": 5,
+    "translation": "一顶填充布帽。",
+    "stage": 1,
     "context": "this.m.Description = 'A padded cloth cap.'"
   },
   {

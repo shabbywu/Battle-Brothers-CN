@@ -131,8 +131,8 @@
     "ID": 293420218,
     "key": "Ignores the bonus to Melee Defense granted by shields",
     "original": "Ignores the bonus to Melee Defense granted by shields",
-    "translation": "忽视盾牌提供的近战防御加成",
-    "stage": 5,
+    "translation": "无视盾牌提供的近战防御加成",
+    "stage": 1,
     "context": "text = 'Ignores the bonus to Melee Defense granted by shields'"
   }
 ]

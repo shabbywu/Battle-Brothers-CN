@@ -3,7 +3,7 @@
     "ID": 293417831,
     "key": "A padded tunic reinforced with leather fittings for added protection.",
     "original": "A padded tunic reinforced with leather fittings for added protection.",
-    "translation": "一件用皮革配件加固以提高保护能力的填充外套。",
+    "translation": "一件加固有皮革配件，提高了防护能力的填充外套。",
     "stage": 1,
     "context": "this.m.Description = 'A padded tunic reinforced with leather fittings for added protection.'"
   },

@@ -27,7 +27,7 @@
     "ID": 293417878,
     "key": "Reduces damage ignoring armor by [color=",
     "original": "Reduces damage ignoring armor by [color=",
-    "translation": "使忽视盔甲的伤害减少 [color=",
+    "translation": "所受穿甲伤害减少 [color=",
     "stage": 1,
     "context": "text = 'Reduces damage ignoring armor by [color=' + this.Const.UI.Color.NegativeValue + ']33%[/color]'"
   },

@@ -27,8 +27,8 @@
     "ID": 293419809,
     "key": "A brute force attack that inflicts additional fatigue with every hit.",
     "original": "A brute force attack that inflicts additional fatigue with every hit.",
-    "translation": "一种蛮力攻击，每次击中都会给对手施加额外的疲劳值。",
-    "stage": 5,
+    "translation": "一种蛮力攻击，只要命中，就会让目标积累额外疲劳值。",
+    "stage": 1,
     "context": "this.m.Description = 'A brute force attack that inflicts additional fatigue with every hit.'"
   },
   {

@@ -51,8 +51,8 @@
     "ID": 293420243,
     "key": "]Can not be used because this character is engaged in melee[/color]",
     "original": "]Can not be used because this character is engaged in melee[/color]",
-    "translation": "]无法使用，因为此角色已卷入近战[/color]",
-    "stage": 5,
+    "translation": "]角色陷入近战，无法使用[/color]",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   },
   {
@@ -67,8 +67,8 @@
     "ID": 293420245,
     "key": "A quick shot with little time used for drawing and aiming. Accuracy drops sharply with distance. Can not be used while engaged in melee.",
     "original": "A quick shot with little time used for drawing and aiming. Accuracy drops sharply with distance. Can not be used while engaged in melee.",
-    "translation": "一次并没有花多少时间去拉弓瞄准的快速射击。准确度随着距离急剧下降。无法在卷入近战时使用。",
-    "stage": 5,
+    "translation": "一次并没有花多少时间去拉弓瞄准的快速射击。准确度随着距离急剧下降。无法在陷入近战时使用。",
+    "stage": 1,
     "context": "this.m.Description = 'A quick shot with little time used for drawing and aiming. Accuracy drops sharply with distance. Can not be used while engaged in melee.'"
   },
   {

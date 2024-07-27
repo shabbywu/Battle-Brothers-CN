@@ -11,7 +11,7 @@
     "ID": 293417852,
     "key": "A mail hauberk reinforced with shoulder pauldrons, additional metal plating and a riveted leather armor, covered with a tabbard in a noble houses' colors.",
     "original": "A mail hauberk reinforced with shoulder pauldrons, additional metal plating and a riveted leather armor, covered with a tabbard in a noble houses' colors.",
-    "translation": "一种用肩甲加固的锁子甲，额外附加了金属镀层和铆接的皮革盔甲，上面镶嵌着贵族家族的纹章。",
+    "translation": "一件加强有肩甲、附加金属板和铆接皮甲的长身链甲，外罩一件贵族家族代表色的罩衣。",
     "stage": 1,
     "context": "this.m.Description = \"A mail hauberk reinforced with shoulder pauldrons, additional metal plating and a riveted leather armor, covered with a tabbard in a noble houses' colors.\""
   }

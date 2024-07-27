@@ -43,8 +43,8 @@
     "ID": 293419825,
     "key": "]Can not be used because this character is engaged in melee[/color]",
     "original": "]Can not be used because this character is engaged in melee[/color]",
-    "translation": "]无法使用，因为此角色已卷入近战[/color]",
-    "stage": 5,
+    "translation": "]角色陷入近战，无法使用[/color]",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   },
   {
@@ -75,8 +75,8 @@
     "ID": 293419829,
     "key": "Give to an adjacent ally or eat yourself strange mushrooms to enter a state of trance-like rage with no regard for your safety. May result in sickness. The effect will slowly wear off over 4 turns. Can not be used while engaged in melee, and anyone receiv",
     "original": "Give to an adjacent ally or eat yourself strange mushrooms to enter a state of trance-like rage with no regard for your safety. May result in sickness. The effect will slowly wear off over 4 turns. Can not be used while engaged in melee, and anyone receiving the item needs to have a free bag slot.",
-    "translation": "给邻近的盟友或自己吃奇怪的蘑菇，进入一种恍惚般的愤怒状态，而不考虑你的安全。 可能会导致疾病。 效果将在4回合内慢慢消失。 不能在近战中使用，任何收到物品的人都需要有一个空的背包位置。",
-    "stage": 5,
+    "translation": "吃下怪异蘑菇或递给接邻盟友。吃下会让人进入一种不顾自身安危的迷幻愤怒状态。可能导致疾病。效果会用4回合慢慢消退。陷入近战后无法使用，接受物品的人需要有一个空的背包栏位。",
+    "stage": 1,
     "context": "this.m.Description = 'Give to an adjacent ally or eat yourself strange mushrooms to enter a state of trance-like rage with no regard for your safety. May result in sickness. The effect will slowly wear off over 4 turns. Can not be used while engaged in melee, and anyone receiving the item needs to have a free bag slot.'"
   }
 ]

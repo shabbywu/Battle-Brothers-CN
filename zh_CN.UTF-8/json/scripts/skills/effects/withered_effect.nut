@@ -35,8 +35,8 @@
     "ID": 293421813,
     "key": " quickly recovered from withering thanks to his unnatural physiology",
     "original": " quickly recovered from withering thanks to his unnatural physiology",
-    "translation": "非自然的生理功能帮助他迅速从凋零中恢复",
-    "stage": 5,
+    "translation": "靠他的后天生理机能迅速从凋零中恢复",
+    "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' quickly recovered from withering thanks to his unnatural physiology')"
   },
   {

@@ -3,8 +3,8 @@
     "ID": 293417507,
     "key": "The collar of a wardog that has been unleashed onto the battlefield.",
     "original": "The collar of a wardog that has been unleashed onto the battlefield.",
-    "translation": "被释放到战场上的战犬的项圈。",
-    "stage": 5,
+    "translation": "一条项圈，拴着的战犬被放到了战场上。",
+    "stage": 1,
     "context": "return 'The collar of a wardog that has been unleashed onto the battlefield.';"
   },
   {

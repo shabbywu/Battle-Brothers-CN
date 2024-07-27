@@ -3,8 +3,8 @@
     "ID": 293420681,
     "key": "Unleash your wardog and send him charging into the enemy. Needs a free tile adjacent.",
     "original": "Unleash your wardog and send him charging into the enemy. Needs a free tile adjacent.",
-    "translation": "释放你的战犬，让其冲向敌人。需要有一个空着的相邻格子。",
-    "stage": 5,
+    "translation": "释放你的战犬，让其冲向敌人。需要一个空着的相邻格子。",
+    "stage": 1,
     "context": "this.m.Description = 'Unleash your wardog and send him charging into the enemy. Needs a free tile adjacent.'"
   },
   {

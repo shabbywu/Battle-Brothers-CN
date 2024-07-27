@@ -11,8 +11,8 @@
     "ID": 293419801,
     "key": "]Can not be used because this character is engaged in melee[/color]",
     "original": "]Can not be used because this character is engaged in melee[/color]",
-    "translation": "]无法使用，因为此角色已卷入近战[/color]",
-    "stage": 5,
+    "translation": "]角色陷入近战，无法使用[/color]",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character is engaged in melee[/color]'"
   },
   {
@@ -27,7 +27,7 @@
     "ID": 293419803,
     "key": "Save yourself or another character from bleeding to death by applying pressure and provisional bandaging to any such wound. Does not heal hitpoints. Neither the character using this skill nor the patient may be engaged in melee.",
     "original": "Save yourself or another character from bleeding to death by applying pressure and provisional bandaging to any such wound. Does not heal hitpoints. Neither the character using this skill nor the patient may be engaged in melee.",
-    "translation": "通过对伤口施压进行临时包扎，防止自己或其他角色失血而死。无法恢复生命值。使用者和救治对象均不能卷入近战。",
+    "translation": "通过对伤口施压进行临时包扎，防止自己或其他角色失血而死。无法恢复生命值。使用者和救治对象均未陷入近战方能使用。",
     "stage": 1,
     "context": "this.m.Description = 'Save yourself or another character from bleeding to death by applying pressure and provisional bandaging to any such wound. Does not heal hitpoints. Neither the character using this skill nor the patient may be engaged in melee.'"
   },

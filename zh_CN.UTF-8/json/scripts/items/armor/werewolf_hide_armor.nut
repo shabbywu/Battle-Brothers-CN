@@ -11,7 +11,7 @@
     "ID": 293417866,
     "key": "A thick leather armor skillfully crafted from the pelt of a giant wolf. Donning the skin of a beast like this can turn one into an imposing figure.",
     "original": "A thick leather armor skillfully crafted from the pelt of a giant wolf. Donning the skin of a beast like this can turn one into an imposing figure.",
-    "translation": "一件巨狼毛皮制成精巧皮甲。这种兽皮加身，可谓威风凛凛。",
+    "translation": "一件巨狼毛皮制成精巧皮甲。有这种兽皮加身可谓威风凛凛。",
     "stage": 1,
     "context": "this.m.Description = 'A thick leather armor skillfully crafted from the pelt of a giant wolf. Donning the skin of a beast like this can turn one into an imposing figure.'"
   },
