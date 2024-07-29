@@ -9195,8 +9195,8 @@
     "ID": 293406785,
     "key": "Mongrels",
     "original": "Mongrels",
-    "translation": "杂种团",
-    "stage": 5,
+    "translation": "野子团",
+    "stage": 1,
     "context": "'Mongrels'"
   },
   {

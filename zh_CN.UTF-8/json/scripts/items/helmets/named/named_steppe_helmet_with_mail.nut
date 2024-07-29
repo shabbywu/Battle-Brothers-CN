@@ -11,7 +11,7 @@
     "ID": 293418210,
     "key": "Horsehair Helmet",
     "original": "Horsehair Helmet",
-    "translation": "马毛头盔",
+    "translation": "马鬃盔",
     "stage": 1,
     "context": "'Horsehair Helmet'"
   },

@@ -1340,14 +1340,14 @@
         "total": 1218,
         "translated": 1218,
         "disputed": 0,
-        "checked": 191,
-        "reviewed": 191,
+        "checked": 190,
+        "reviewed": 190,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-07-26T01:43:53Z",
-        "sha256": "c1465729777230ba06d7af2b0a95c74221fc822f1e80c2b1e54260878874c9f4"
+        "modifiedAt": "2024-07-27T03:45:56Z",
+        "sha256": "c4c8fa59c47e60642a37c1ca9f417b1b6953d74606cb7a51c63c7026e59972aa"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -1418,8 +1418,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:46.237Z",
         "updatedAt": "2023-06-26T05:46:36.564Z",
-        "modifiedAt": "2024-06-21T02:31:48Z",
-        "sha256": "d9a84ce53c2ec9624c2ff87e903b0973df0932e4aa8a29e2b23b4636c045ccbf"
+        "modifiedAt": "2024-07-28T16:41:14Z",
+        "sha256": "86215e7040e24c7ce0cdc3985e5ed0c0ad2d1aa4cfb6f524fdcbd6a60482820c"
     },
     "scripts/contracts/contract.json": {
         "id": 918425,
@@ -20138,8 +20138,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:56.657Z",
         "updatedAt": "2023-06-26T05:48:36.848Z",
-        "modifiedAt": "2024-07-25T08:18:45Z",
-        "sha256": "f5b1a6ce6cd746cc033f42db655992cfce867741df5ba17a5829eabc560b6f9d"
+        "modifiedAt": "2024-07-29T00:55:50Z",
+        "sha256": "bf9cd923e89cd31f0e2912c3a4ddfce5ac72f89e6242254ffbb53bc638ba2a60"
     },
     "scripts/items/helmets/closed_flat_top_helmet.json": {
         "id": 919465,
@@ -21146,8 +21146,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:18.865Z",
         "updatedAt": "2023-06-26T05:48:42.22Z",
-        "modifiedAt": "2023-06-26T05:48:42Z",
-        "sha256": "a3ea6cb7514fa0bcdbfc7b102521a0c4e5e6031859d53d204717c264bd01340e"
+        "modifiedAt": "2024-07-29T00:54:55Z",
+        "sha256": "de5f77d497c6a6e226bdff7ff747fb71cb7fccd8e3ff8115a50bbc2aff264eaa"
     },
     "scripts/items/helmets/named/lindwurm_helmet.json": {
         "id": 919521,
@@ -21290,8 +21290,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:21.88Z",
         "updatedAt": "2023-06-26T05:48:42.761Z",
-        "modifiedAt": "2023-06-26T05:48:43Z",
-        "sha256": "e8219a005e6b2ffae5f8349830012c61869e64934b45c808dc0cd22033a1bd8e"
+        "modifiedAt": "2024-07-28T05:45:32Z",
+        "sha256": "65b9451d3c233ea4e19b2c08cb6c18df4a31b05ce50e9b5f1c3a5b65f38e1ccc"
     },
     "scripts/items/helmets/named/nasal_feather_helmet.json": {
         "id": 919529,
@@ -34016,8 +34016,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:54.781Z",
         "updatedAt": "2023-06-26T05:49:30.797Z",
-        "modifiedAt": "2024-02-04T07:57:46Z",
-        "sha256": "b0fef1767b4d31c0b65d631b7da4547a0a632ecfffe53dfda955ab59c5d75ca1"
+        "modifiedAt": "2024-07-27T11:00:41Z",
+        "sha256": "0b560630832e0cfb8d978e6aa1a24e0255c43b4345f3f1a1da50884ee616cda0"
     },
     "scripts/skills/backgrounds/tailor_southern_background.json": {
         "id": 920236,
@@ -39254,8 +39254,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:03.571Z",
         "updatedAt": "2023-07-05T12:36:10.079Z",
-        "modifiedAt": "2024-07-19T03:21:32Z",
-        "sha256": "8698e4d26dd53d9e1de15df9c05327ee02148d754ae1f32f2dae136854e410f5"
+        "modifiedAt": "2024-07-27T16:46:14Z",
+        "sha256": "9b583c4981364edc304e810483b65601a0a603f08154ef25d76e6dc8c2f1991a"
     },
     "scripts/ui/global/menu_stack.json": {
         "id": 920527,

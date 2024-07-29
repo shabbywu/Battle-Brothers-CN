@@ -259,7 +259,7 @@
     "ID": 293422906,
     "key": "You can't make out who is attacking you in time.<br/>You have to defend yourself!",
     "original": "You can't make out who is attacking you in time.<br/>You have to defend yourself!",
-    "translation": "来不及分辨是谁了。<br/>保护好自己！",
+    "translation": "来不及辨别了。<br/>保护好自己！",
     "stage": 1,
     "context": "text = \"You can't make out who is attacking you in time.<br/>You have to defend yourself!\""
   },
