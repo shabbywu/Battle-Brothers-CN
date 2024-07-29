@@ -35,7 +35,7 @@
     "ID": 293418161,
     "key": "Bascinet with Mail",
     "original": "Bascinet with Mail",
-    "translation": "覆面式链甲盔",
+    "translation": "链甲中盔",
     "stage": 1,
     "context": "'Bascinet with Mail'"
   },

@@ -2475,7 +2475,7 @@
     "ID": 293407292,
     "key": "Eisenstein",
     "original": "Eisenstein",
-    "translation": "铁石",
+    "translation": "铁石山",
     "stage": 1,
     "context": "'Eisenstein'"
   },
