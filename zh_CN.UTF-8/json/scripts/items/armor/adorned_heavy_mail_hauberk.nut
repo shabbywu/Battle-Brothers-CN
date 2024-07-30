@@ -11,7 +11,7 @@
     "ID": 293417552,
     "key": "Adorned Heavy Mail Hauberk",
     "original": "Adorned Heavy Mail Hauberk",
-    "translation": "装饰重链铠",
+    "translation": "圣饰重链铠",
     "stage": 1,
     "context": "this.m.Name = 'Adorned Heavy Mail Hauberk'"
   }

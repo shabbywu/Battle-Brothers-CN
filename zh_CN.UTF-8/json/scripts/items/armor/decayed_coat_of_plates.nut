@@ -11,7 +11,7 @@
     "ID": 293417617,
     "key": "Decayed Coat of Plates",
     "original": "Decayed Coat of Plates",
-    "translation": "腐朽的板甲衣",
+    "translation": "腐朽板甲衣",
     "stage": 1,
     "context": "this.m.Name = 'Decayed Coat of Plates'"
   }

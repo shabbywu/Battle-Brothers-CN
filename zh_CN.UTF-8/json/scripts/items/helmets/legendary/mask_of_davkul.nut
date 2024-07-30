@@ -3,7 +3,7 @@
     "ID": 293418130,
     "key": "The Glimpse of Davkul is a gift bestowed upon man by ancient and dark powers, a helmet merged with human skin and bones through the most unspeakable of rituals. A glimpse of a future where man shall become one with creations from a realm beyond. It shall ",
     "original": "The Glimpse of Davkul is a gift bestowed upon man by ancient and dark powers, a helmet merged with human skin and bones through the most unspeakable of rituals. A glimpse of a future where man shall become one with creations from a realm beyond. It shall never break, but instead keep regrowing its scarred skin on the spot.",
-    "translation": "达库尔的凝视是远古黑暗力量赐予人类的礼物，通过最难以言表的仪式与人类的皮肤和骨骼融合在一起的一顶头盔。是对未来的一瞥，一个人类将和其他世界的造物融为一体的未来。 它永远不会破裂，而是在原地不断地再生它那伤痕累累的皮肤。",
+    "translation": "达库尔的凝视是远古黑暗力量赐予人类的礼物，是在最难以言表的仪式中，人类的皮肤和骨骼融合而成的一顶头盔。是对人类与其他世界的造物融为一体的未来的一瞥。它永远不会破裂，而是在原地不断地再生它那伤痕累累的皮肤。",
     "stage": 1,
     "context": "this.m.Description = 'The Glimpse of Davkul is a gift bestowed upon man by ancient and dark powers, a helmet merged with human skin and bones through the most unspeakable of rituals. A glimpse of a future where man shall become one with creations from a realm beyond. It shall never break, but instead keep regrowing its scarred skin on the spot.'"
   },

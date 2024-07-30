@@ -35,7 +35,7 @@
     "ID": 293417687,
     "key": "Ancient knowledge has been used when smithing this unique set of armor. Its light mail overlapped with golden splints offers high protection with manageable encumberment.",
     "original": "Ancient knowledge has been used when smithing this unique set of armor. Its light mail overlapped with golden splints offers high protection with manageable encumberment.",
-    "translation": "锻制这套甲用上了古代的智识。它由轻质链甲与金色夹板层叠而成，提供较高保护能力的同时把负重控制在了合理范围之内。",
+    "translation": "锻制这套甲用上了古代的智识。它由轻质链甲与金色条状甲片层叠而成，提供较高保护能力的同时把负重控制在了合理范围之内。",
     "stage": 1,
     "context": "this.m.Description = 'Ancient knowledge has been used when smithing this unique set of armor. Its light mail overlapped with golden splints offers high protection with manageable encumberment.'"
   },

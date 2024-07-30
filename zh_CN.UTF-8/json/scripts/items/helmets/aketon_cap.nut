@@ -11,8 +11,8 @@
     "ID": 293417999,
     "key": "Aketon Cap",
     "original": "Aketon Cap",
-    "translation": "棉衬帽",
-    "stage": 5,
+    "translation": "棉甲衬帽",
+    "stage": 1,
     "context": "this.m.Name = 'Aketon Cap'"
   }
 ]

@@ -11,7 +11,7 @@
     "ID": 293417997,
     "key": "Adorned Full Helm",
     "original": "Adorned Full Helm",
-    "translation": "装饰全盔",
+    "translation": "圣饰全盔",
     "stage": 1,
     "context": "this.m.Name = 'Adorned Full Helm'"
   }

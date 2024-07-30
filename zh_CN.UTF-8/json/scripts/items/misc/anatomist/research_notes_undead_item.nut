@@ -19,7 +19,7 @@
     "ID": 293418589,
     "key": "Ancient Honor Guard",
     "original": "Ancient Honor Guard",
-    "translation": "古代仪仗队",
+    "translation": "古代仪仗兵",
     "stage": 1,
     "context": "creatureName = 'Ancient Honor Guard'"
   },

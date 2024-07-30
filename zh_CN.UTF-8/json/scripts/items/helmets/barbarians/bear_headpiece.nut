@@ -3,7 +3,7 @@
     "ID": 293418009,
     "key": "The dried and prepped head of a large bear. Offers some protection, but is mostly donned for the looks.",
     "original": "The dried and prepped head of a large bear. Offers some protection, but is mostly donned for the looks.",
-    "translation": "经过干燥处理的熊头帽。 提供了一定的防护，但主要还是为了好看。",
+    "translation": "经过烘干预处理的大熊头。提供了一定防护，但主要是为了好看。",
     "stage": 1,
     "context": "this.m.Description = 'The dried and prepped head of a large bear. Offers some protection, but is mostly donned for the looks.'"
   },

@@ -11,7 +11,7 @@
     "ID": 293418116,
     "key": "A full-metal helmet with a broad rim and a mail coif underneath.",
     "original": "A full-metal helmet with a broad rim and a mail coif underneath.",
-    "translation": "一个带宽边和链甲的全金属头盔。",
+    "translation": "一顶下有链甲头肩巾的宽檐全金属头盔。",
     "stage": 1,
     "context": "this.m.Description = 'A full-metal helmet with a broad rim and a mail coif underneath.'"
   }

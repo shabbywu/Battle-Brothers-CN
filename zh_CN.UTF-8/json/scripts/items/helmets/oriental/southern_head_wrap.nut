@@ -11,7 +11,7 @@
     "ID": 293418287,
     "key": "A traditional southern head wrap suited for desert climate.",
     "original": "A traditional southern head wrap suited for desert climate.",
-    "translation": "适合沙漠气候的南方传统头巾。",
+    "translation": "一条适合沙漠气候的传统南方头巾。",
     "stage": 1,
     "context": "this.m.Description = 'A traditional southern head wrap suited for desert climate.'"
   }

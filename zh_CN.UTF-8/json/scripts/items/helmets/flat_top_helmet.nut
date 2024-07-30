@@ -3,7 +3,7 @@
     "ID": 293418063,
     "key": "A flat full-metal helmet with noseguard.",
     "original": "A flat full-metal helmet with noseguard.",
-    "translation": "一种带有鼻翼的全金属头盔。",
+    "translation": "一顶带有护鼻的平顶全金属头盔。",
     "stage": 1,
     "context": "this.m.Description = 'A flat full-metal helmet with noseguard.'"
   },

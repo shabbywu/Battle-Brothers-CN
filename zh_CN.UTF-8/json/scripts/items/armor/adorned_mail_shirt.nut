@@ -11,7 +11,7 @@
     "ID": 293417554,
     "key": "Adorned Mail Shirt",
     "original": "Adorned Mail Shirt",
-    "translation": "装饰链甲衫",
+    "translation": "圣饰链甲衫",
     "stage": 1,
     "context": "this.m.Name = 'Adorned Mail Shirt'"
   }

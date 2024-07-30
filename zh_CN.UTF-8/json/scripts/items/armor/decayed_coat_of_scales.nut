@@ -11,7 +11,7 @@
     "ID": 293417619,
     "key": "Decayed Coat of Scales",
     "original": "Decayed Coat of Scales",
-    "translation": "腐朽的鳞甲衣",
+    "translation": "腐朽鳞甲衣",
     "stage": 1,
     "context": "this.m.Name = 'Decayed Coat of Scales'"
   }
