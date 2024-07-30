@@ -3,8 +3,8 @@
     "ID": 293418092,
     "key": "A thick piece of cloth wrapped around the head.",
     "original": "A thick piece of cloth wrapped around the head.",
-    "translation": "裹在头上的一块厚布。",
-    "stage": 5,
+    "translation": "一块裹在头上的厚布。",
+    "stage": 1,
     "context": "this.m.Description = 'A thick piece of cloth wrapped around the head.'"
   },
   {

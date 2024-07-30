@@ -11,7 +11,7 @@
     "ID": 293418068,
     "key": "A flat full-metal helmet with noseguard and a mail coif underneath.",
     "original": "A flat full-metal helmet with noseguard and a mail coif underneath.",
-    "translation": "一种扁平的全金属头盔，有鼻翼保护，下面还有链甲。",
+    "translation": "一顶带有护鼻，下有链甲头肩巾的平顶全金属头盔。",
     "stage": 1,
     "context": "this.m.Description = 'A flat full-metal helmet with noseguard and a mail coif underneath.'"
   }

@@ -11,7 +11,7 @@
     "ID": 293418317,
     "key": "A wide-brimmed feathered hat with a scarf to cover the mouth. Durable enough to protect against weather and scratches.",
     "original": "A wide-brimmed feathered hat with a scarf to cover the mouth. Durable enough to protect against weather and scratches.",
-    "translation": "一种宽边羽毛帽，用围巾遮住嘴。 经久耐用，可抵御御恶天气和划伤。",
+    "translation": "一顶配以围面围巾的宽檐羽毛帽。经久耐用，能抵御天气和擦伤。",
     "stage": 1,
     "context": "this.m.Description = 'A wide-brimmed feathered hat with a scarf to cover the mouth. Durable enough to protect against weather and scratches.'"
   }

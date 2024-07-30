@@ -3,7 +3,7 @@
     "ID": 293418264,
     "key": "This distinct red and black head wrap is traditionally worn by the most skilled warriors of the nomad tribes.",
     "original": "This distinct red and black head wrap is traditionally worn by the most skilled warriors of the nomad tribes.",
-    "translation": "这种独特的红黑相间的头巾传统上是游牧部落中最熟练的战士所戴的。",
+    "translation": "惹眼的红黑拼色头巾，传统上，游牧部落中最娴熟勇士才能佩戴。",
     "stage": 1,
     "context": "this.m.Description = 'This distinct red and black head wrap is traditionally worn by the most skilled warriors of the nomad tribes.'"
   },

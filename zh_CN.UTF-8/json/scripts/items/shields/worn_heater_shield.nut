@@ -3,7 +3,7 @@
     "ID": 293418831,
     "key": "Decayed Heater Shield",
     "original": "Decayed Heater Shield",
-    "translation": "腐朽的扇形盾",
+    "translation": "腐朽扇形盾",
     "stage": 1,
     "context": "this.m.Name = 'Decayed Heater Shield'"
   },

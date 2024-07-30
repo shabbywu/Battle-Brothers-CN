@@ -3,7 +3,7 @@
     "ID": 293417555,
     "key": "Adorned Warrior's Armor",
     "original": "Adorned Warrior's Armor",
-    "translation": "装饰战士甲",
+    "translation": "圣饰战士甲",
     "stage": 1,
     "context": "this.m.Name = \"Adorned Warrior's Armor\""
   },

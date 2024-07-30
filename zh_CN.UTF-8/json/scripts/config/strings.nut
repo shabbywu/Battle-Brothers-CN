@@ -3675,7 +3675,7 @@
     "ID": 293406095,
     "key": "Yawning Gaps",
     "original": "Yawning Gaps",
-    "translation": "垭口",
+    "translation": "哈欠口",
     "stage": 1,
     "context": "'Yawning Gaps'"
   },
@@ -4083,7 +4083,7 @@
     "ID": 293406146,
     "key": "Gunners",
     "original": "Gunners",
-    "translation": "枪手",
+    "translation": "火铳手",
     "stage": 1,
     "context": "'Gunners'"
   },
@@ -4683,8 +4683,8 @@
     "ID": 293406221,
     "key": "Engineers",
     "original": "Engineers",
-    "translation": "火炮技师",
-    "stage": 5,
+    "translation": "工程师",
+    "stage": 1,
     "context": "'Engineers'"
   },
   {
@@ -5331,8 +5331,8 @@
     "ID": 293406302,
     "key": "Engineer",
     "original": "Engineer",
-    "translation": "火炮技师",
-    "stage": 5,
+    "translation": "工程师",
+    "stage": 1,
     "context": "'Engineer'"
   },
   {
@@ -5699,7 +5699,7 @@
     "ID": 293406348,
     "key": "Ancient Honor Guard",
     "original": "Ancient Honor Guard",
-    "translation": "古代仪仗队",
+    "translation": "古代仪仗兵",
     "stage": 1,
     "context": "'Ancient Honor Guard'"
   },
@@ -7187,7 +7187,7 @@
     "ID": 293406534,
     "key": "Ancient Honor Guards",
     "original": "Ancient Honor Guards",
-    "translation": "古代仪仗队",
+    "translation": "古代仪仗兵",
     "stage": 1,
     "context": "'Ancient Honor Guards'"
   },

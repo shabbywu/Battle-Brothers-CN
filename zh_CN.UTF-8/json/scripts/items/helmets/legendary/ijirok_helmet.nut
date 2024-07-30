@@ -43,7 +43,7 @@
     "ID": 293418129,
     "key": "Once a barbarian helmet broken in battle, this piece has been bathed in the blood of the legendary Ijirok. Powers beyond your understanding mended it whole again, and will likewise mend any wounds of the wearer as well.",
     "original": "Once a barbarian helmet broken in battle, this piece has been bathed in the blood of the legendary Ijirok. Powers beyond your understanding mended it whole again, and will likewise mend any wounds of the wearer as well.",
-    "translation": "曾经有一件野蛮人的头盔在战斗中折断，盔甲的碎片沐浴在传说中的伊吉罗克的鲜血里。 超越你理解的力量再次修复了它，同样也会修复穿戴者的任何创伤。",
+    "translation": "曾在战斗中破损的野蛮人头盔，在传说中伊吉罗克的鲜血中重生。超越你理解的力量再次修复了它，也将修复穿戴者的任何创伤。",
     "stage": 1,
     "context": "this.m.Description = 'Once a barbarian helmet broken in battle, this piece has been bathed in the blood of the legendary Ijirok. Powers beyond your understanding mended it whole again, and will likewise mend any wounds of the wearer as well.'"
   }

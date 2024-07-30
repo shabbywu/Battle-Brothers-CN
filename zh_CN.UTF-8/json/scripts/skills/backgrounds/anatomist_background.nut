@@ -19,8 +19,8 @@
     "ID": 293420750,
     "key": "the Undertaker",
     "original": "the Undertaker",
-    "translation": "葬礼承办人(the Undertaker)",
-    "stage": 5,
+    "translation": "送葬者",
+    "stage": 1,
     "context": "'the Undertaker'"
   },
   {
