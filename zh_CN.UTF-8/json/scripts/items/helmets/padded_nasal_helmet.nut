@@ -11,7 +11,7 @@
     "ID": 293418301,
     "key": "Padded Nasal Helmet",
     "original": "Padded Nasal Helmet",
-    "translation": "衬帽护鼻盔",
+    "translation": "衬链护鼻盔",
     "stage": 1,
     "context": "this.m.Name = 'Padded Nasal Helmet'"
   }

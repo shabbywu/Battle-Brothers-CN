@@ -3,7 +3,7 @@
     "ID": 293417957,
     "key": "Sturdy metal pauldrons have been added to this armor for increased protection of the shoulders and upper body, but at the expense of additional weight.",
     "original": "Sturdy metal pauldrons have been added to this armor for increased protection of the shoulders and upper body, but at the expense of additional weight.",
-    "translation": "这件盔甲已经附加了金属肩铠来加强肩膀部位与上半身的防护，但这是以增加额外的重量为代价的。",
+    "translation": "这件盔甲加装有一套金属肩铠，以额外重量为代价，加强了肩部和上身的防护能力。",
     "stage": 1,
     "context": "this.m.ArmorDescription = 'Sturdy metal pauldrons have been added to this armor for increased protection of the shoulders and upper body, but at the expense of additional weight.'"
   },
@@ -11,7 +11,7 @@
     "ID": 293417958,
     "key": "Sturdy metal pauldrons that can be added to any armor for increased protection of the shoulders and upper body. Of course, it will also make the armor a bit heavier.",
     "original": "Sturdy metal pauldrons that can be added to any armor for increased protection of the shoulders and upper body. Of course, it will also make the armor a bit heavier.",
-    "translation": "坚固的金属肩铠能附加到任何盔甲上，能加强肩膀部位与上半身的防护。当然了，这也使得盔甲有些笨重。",
+    "translation": "可以安装到任何盔甲上，增强上身防护的坚固金属肩铠。当然了，这也会使盔甲稍有加重。",
     "stage": 1,
     "context": "this.m.Description = 'Sturdy metal pauldrons that can be added to any armor for increased protection of the shoulders and upper body. Of course, it will also make the armor a bit heavier.'"
   },

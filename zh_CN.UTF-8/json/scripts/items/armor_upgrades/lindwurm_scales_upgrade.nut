@@ -3,7 +3,7 @@
     "ID": 293417946,
     "key": "A cloak made out of Lindwurm scales is worn over this armor for additional protection, including from the corrosive effects of Lindwurm blood.",
     "original": "A cloak made out of Lindwurm scales is worn over this armor for additional protection, including from the corrosive effects of Lindwurm blood.",
-    "translation": "这件盔甲附加了林德蠕龙鳞片披风，提供额外的防护，还能免疫林德蠕龙的血液腐蚀。",
+    "translation": "一件林德蠕龙鳞片制成的披风套在盔甲之外，提供了额外的防护，还使盔甲免于林德蠕龙的血液腐蚀。",
     "stage": 1,
     "context": "this.m.ArmorDescription = 'A cloak made out of Lindwurm scales is worn over this armor for additional protection, including from the corrosive effects of Lindwurm blood.'"
   },
@@ -11,7 +11,7 @@
     "ID": 293417947,
     "key": "A cloak made out of the scales of a Lindwurm. Not only is it a rare and impressive trophy, it also offers additional protection and is untouchable by corroding Lindwurm blood.",
     "original": "A cloak made out of the scales of a Lindwurm. Not only is it a rare and impressive trophy, it also offers additional protection and is untouchable by corroding Lindwurm blood.",
-    "translation": "用林德蠕龙鳞片制成的披风。不仅是罕见又惊艳的战利品，还提供了额外的防护并且免疫林德蠕龙的血液腐蚀。",
+    "translation": "一件由林德蠕龙鳞片制成的披风。不仅是罕见又惊艳的战利品，还提供了额外的防护，甚至能免受林德蠕龙的血液腐蚀。",
     "stage": 1,
     "context": "this.m.Description = 'A cloak made out of the scales of a Lindwurm. Not only is it a rare and impressive trophy, it also offers additional protection and is untouchable by corroding Lindwurm blood.'"
   },

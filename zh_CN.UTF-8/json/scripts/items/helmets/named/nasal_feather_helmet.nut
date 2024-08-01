@@ -35,7 +35,7 @@
     "ID": 293418218,
     "key": "Headguard",
     "original": "Headguard",
-    "translation": "护头板",
+    "translation": "护头",
     "stage": 1,
     "context": "'Headguard'"
   },
@@ -43,7 +43,7 @@
     "ID": 293418219,
     "key": "A hardened nasal helmet with a unique neckguard made from leather scales.",
     "original": "A hardened nasal helmet with a unique neckguard made from leather scales.",
-    "translation": "一种用皮革鳞片制成的可以保护颈部和鼻子的独特鼻翼盔。",
+    "translation": "一顶带有特制皮鳞甲护颈的加硬护鼻盔。",
     "stage": 1,
     "context": "this.m.Description = 'A hardened nasal helmet with a unique neckguard made from leather scales.'"
   }

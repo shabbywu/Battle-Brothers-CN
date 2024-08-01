@@ -19,16 +19,16 @@
     "ID": 293417954,
     "key": "A large patch of mail has been added to this armor to further protect the most vulnerable areas.",
     "original": "A large patch of mail has been added to this armor to further protect the most vulnerable areas.",
-    "translation": "一大片的链甲被添加到这个装甲上，以进一步保护最脆弱的区域。",
-    "stage": 5,
+    "translation": "这件盔甲上装有一块大型链甲护肩，以求对其弱点的进一步保护。",
+    "stage": 1,
     "context": "this.m.ArmorDescription = 'A large patch of mail has been added to this armor to further protect the most vulnerable areas.'"
   },
   {
     "ID": 293417955,
     "key": "A large patch of mail that can be added to any armor to further protect the most vulnerable areas.",
     "original": "A large patch of mail that can be added to any armor to further protect the most vulnerable areas.",
-    "translation": "一大片链甲，可以加到任何盔甲上，以进一步保护最脆弱的区域。",
-    "stage": 5,
+    "translation": "一块大型链甲护肩，能附加到任何盔甲上，更好地保护其弱点。",
+    "stage": 1,
     "context": "this.m.Description = 'A large patch of mail that can be added to any armor to further protect the most vulnerable areas.'"
   },
   {

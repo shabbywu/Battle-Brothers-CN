@@ -3,7 +3,7 @@
     "ID": 293417933,
     "key": "Studded leather shoulderguards can help in making even light armors a little bit more resilient.",
     "original": "Studded leather shoulderguards can help in making even light armors a little bit more resilient.",
-    "translation": "镶上皮护肩可以让轻型盔甲更有弹性。",
+    "translation": "一对镶钉皮护肩能让轻甲在内的盔甲更容易从形变中恢复。",
     "stage": 1,
     "context": "this.m.Description = 'Studded leather shoulderguards can help in making even light armors a little bit more resilient.'"
   },
@@ -19,7 +19,7 @@
     "ID": 293417935,
     "key": "Shoulderguards made of studded leather have been added to this armor for additional protection.",
     "original": "Shoulderguards made of studded leather have been added to this armor for additional protection.",
-    "translation": "这件盔甲已经装上皮革护肩提高了额外的防护。",
+    "translation": "这件盔甲加装了一件镶钉皮护肩，防护性能略有提高。",
     "stage": 1,
     "context": "this.m.ArmorDescription = 'Shoulderguards made of studded leather have been added to this armor for additional protection.'"
   },

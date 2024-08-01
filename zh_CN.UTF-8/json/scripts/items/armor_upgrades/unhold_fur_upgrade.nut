@@ -3,7 +3,7 @@
     "ID": 293417989,
     "key": "A thick cloak made out of a Frost Unhold's majestic white fur. Can be worn atop any armor to make the wearer more resilient against ranged weapons.",
     "original": "A thick cloak made out of a Frost Unhold's majestic white fur. Can be worn atop any armor to make the wearer more resilient against ranged weapons.",
-    "translation": "一种厚厚的斗篷，由霜冻、未经雕琢的高贵巨魔毛皮制成。可以穿在任何盔甲上，使穿戴者对远程武器有更高的抗性。",
+    "translation": "一件用霜巨魔雄伟白色毛皮制成的厚斗篷。可穿在任何盔甲外，提高穿戴者的远程武器抗性。",
     "stage": 1,
     "context": "this.m.Description = \"A thick cloak made out of a Frost Unhold's majestic white fur. Can be worn atop any armor to make the wearer more resilient against ranged weapons.\""
   },
@@ -19,7 +19,7 @@
     "ID": 293417991,
     "key": "A cloak of thick white fur has been attached to this armor to make it more resilient against ranged weapons.",
     "original": "A cloak of thick white fur has been attached to this armor to make it more resilient against ranged weapons.",
-    "translation": "一件厚厚的白色毛皮斗篷被附在这件盔甲上，使它对远程武器有更高的抗性。",
+    "translation": "一件厚实白色毛皮斗篷附在这件盔甲上，让它更耐远程武器攻击。",
     "stage": 1,
     "context": "this.m.ArmorDescription = 'A cloak of thick white fur has been attached to this armor to make it more resilient against ranged weapons.'"
   },

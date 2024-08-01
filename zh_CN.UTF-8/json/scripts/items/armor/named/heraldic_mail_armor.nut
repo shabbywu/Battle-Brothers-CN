@@ -35,7 +35,7 @@
     "ID": 293417740,
     "key": "Truly fit for a knight, this mail hauberk is made from the highest quality materials and boasts precious decorations and ornaments.",
     "original": "Truly fit for a knight, this mail hauberk is made from the highest quality materials and boasts precious decorations and ornaments.",
-    "translation": "用最好的材料制成，最华贵的饰品装点，这件长身链甲配得上一位真正的骑士。",
+    "translation": "用最好的材料制成，最华贵的饰品装点，这件长身链甲配得上一位正牌骑士。",
     "stage": 1,
     "context": "this.m.Description = 'Truly fit for a knight, this mail hauberk is made from the highest quality materials and boasts precious decorations and ornaments.'"
   },

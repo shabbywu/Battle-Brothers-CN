@@ -27,7 +27,7 @@
     "ID": 293417917,
     "key": "These segments of horn plate are made from one of the hardest yet flexible materials nature has to offer. Worn over common armor, they can help to deflect incoming blows.",
     "original": "These segments of horn plate are made from one of the hardest yet flexible materials nature has to offer. Worn over common armor, they can help to deflect incoming blows.",
-    "translation": "由最坚硬又柔韧的材料制作的数块角板。套在普通盔甲上，可以帮助转移来袭的打击。",
+    "translation": "这些角板由自然界最坚硬而兼具柔韧的材料制成。穿在常规盔甲外侧，用来偏转来袭的攻击。",
     "stage": 1,
     "context": "this.m.Description = 'These segments of horn plate are made from one of the hardest yet flexible materials nature has to offer. Worn over common armor, they can help to deflect incoming blows.'"
   },
@@ -35,7 +35,7 @@
     "ID": 293417918,
     "key": "Horn Plate",
     "original": "Horn Plate",
-    "translation": "角板",
+    "translation": "角质甲板",
     "stage": 1,
     "context": "this.m.Name = 'Horn Plate'"
   }

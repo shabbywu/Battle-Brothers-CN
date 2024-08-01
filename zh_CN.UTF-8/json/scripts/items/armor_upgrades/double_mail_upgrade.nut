@@ -11,7 +11,7 @@
     "ID": 293417900,
     "key": "Double Mail",
     "original": "Double Mail",
-    "translation": "双重链甲",
+    "translation": "双层链甲",
     "stage": 1,
     "context": "this.m.Name = 'Double Mail'"
   },
@@ -19,7 +19,7 @@
     "ID": 293417901,
     "key": "A thick double mail patch. Heavy, but effective in further adding to an armor's protection.",
     "original": "A thick double mail patch. Heavy, but effective in further adding to an armor's protection.",
-    "translation": "一个厚厚的双重链甲护肩。重，但能有效的进一步增加装甲的防御。",
+    "translation": "一块厚重的双层链甲。重，但有效地进一步提高了盔甲的防护性能。",
     "stage": 1,
     "context": "this.m.Description = \"A thick double mail patch. Heavy, but effective in further adding to an armor's protection.\""
   },
@@ -27,7 +27,7 @@
     "ID": 293417902,
     "key": "A thick double mail has been added to this armor for further protection.",
     "original": "A thick double mail has been added to this armor for further protection.",
-    "translation": "一个厚厚的双重链甲护肩能有效的进一步增加装甲的防御。",
+    "translation": "一块厚重的双层链甲被安装在这件盔甲上，进一步提高了防护性能。",
     "stage": 1,
     "context": "this.m.ArmorDescription = 'A thick double mail has been added to this armor for further protection.'"
   },

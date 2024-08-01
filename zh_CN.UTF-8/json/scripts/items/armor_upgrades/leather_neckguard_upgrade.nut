@@ -3,7 +3,7 @@
     "ID": 293417929,
     "key": "A neckguard of cured leather has been attached to this armor for additional protection.",
     "original": "A neckguard of cured leather has been attached to this armor for additional protection.",
-    "translation": "这件盔甲已经装上了皮革护颈，增加了额外的防护。",
+    "translation": "这件盔甲加装了一件鞣制皮革护颈，防护性能略有提高。",
     "stage": 1,
     "context": "this.m.ArmorDescription = 'A neckguard of cured leather has been attached to this armor for additional protection.'"
   },
@@ -11,7 +11,7 @@
     "ID": 293417930,
     "key": "This neckguard of cured leather can be attached to any armor for some additional protection.",
     "original": "This neckguard of cured leather can be attached to any armor for some additional protection.",
-    "translation": "这种简易的皮革护颈能附加到任何盔甲上来提供少量的额外防护。",
+    "translation": "这件鞣制皮革护颈可以加装到任何盔甲上，提供一些额外防护。",
     "stage": 1,
     "context": "this.m.Description = 'This neckguard of cured leather can be attached to any armor for some additional protection.'"
   },
