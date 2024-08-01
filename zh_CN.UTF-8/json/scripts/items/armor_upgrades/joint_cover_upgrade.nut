@@ -19,7 +19,7 @@
     "ID": 293417926,
     "key": "Large metal plates that cover the vulnerable shoulder joints.",
     "original": "Large metal plates that cover the vulnerable shoulder joints.",
-    "translation": "能覆盖肩膀脆弱关节的大型金属护肩。",
+    "translation": "一对大型金属护肩，用来保护脆弱的肩关节。",
     "stage": 1,
     "context": "this.m.Description = 'Large metal plates that cover the vulnerable shoulder joints.'"
   },
@@ -35,7 +35,7 @@
     "ID": 293417928,
     "key": "Large metal plates have been added to protect the vulnerable shoulder joints.",
     "original": "Large metal plates have been added to protect the vulnerable shoulder joints.",
-    "translation": "附加了保护肩膀脆弱关节的大型金属护肩。",
+    "translation": "装有一对大型金属护肩，为脆弱的肩关节增加了保护。",
     "stage": 1,
     "context": "this.m.ArmorDescription = 'Large metal plates have been added to protect the vulnerable shoulder joints.'"
   }

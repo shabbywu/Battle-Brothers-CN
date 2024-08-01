@@ -11,8 +11,8 @@
     "ID": 293422702,
     "key": "I swear that bush over there was moving! This character is extra cautious and reluctant to move ahead.",
     "original": "I swear that bush over there was moving! This character is extra cautious and reluctant to move ahead.",
-    "translation": "我发誓那边的灌木在动！这个角色格外谨慎，不愿意前进。",
-    "stage": 5,
+    "translation": "我打赌那边的树丛在动！这个角色格外谨慎，不愿意前进。",
+    "stage": 1,
     "context": "this.m.Description = 'I swear that bush over there was moving! This character is extra cautious and reluctant to move ahead.'"
   },
   {

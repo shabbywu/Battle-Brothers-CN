@@ -3,7 +3,7 @@
     "ID": 293418288,
     "key": "Southern Helmet with Coif",
     "original": "Southern Helmet with Coif",
-    "translation": "带巾南方盔",
+    "translation": "衬链南方盔",
     "stage": 1,
     "context": "this.m.Name = 'Southern Helmet with Coif'"
   },

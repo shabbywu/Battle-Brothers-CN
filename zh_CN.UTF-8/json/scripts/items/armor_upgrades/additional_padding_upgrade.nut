@@ -19,7 +19,7 @@
     "ID": 293417877,
     "key": "Additional Fur Padding",
     "original": "Additional Fur Padding",
-    "translation": "额外的毛皮填充物",
+    "translation": "附加毛护垫",
     "stage": 1,
     "context": "this.m.Name = 'Additional Fur Padding'"
   },
@@ -43,7 +43,7 @@
     "ID": 293417880,
     "key": "Additional fur padding helps to further dampen the impact of any blow.",
     "original": "Additional fur padding helps to further dampen the impact of any blow.",
-    "translation": "额外的毛皮护垫有助于进一步减弱任何打击的影响。",
+    "translation": "附加了毛皮护垫来进一步缓冲冲击力。",
     "stage": 1,
     "context": "this.m.ArmorDescription = 'Additional fur padding helps to further dampen the impact of any blow.'"
   },
@@ -51,7 +51,7 @@
     "ID": 293417881,
     "key": "Crafted from thick furs, this additional padding helps dampen the impact of any blow.",
     "original": "Crafted from thick furs, this additional padding helps dampen the impact of any blow.",
-    "translation": "由厚毛皮所制作，这种额外的护垫有助于减弱所有攻击的冲击。",
+    "translation": "这种由厚毛皮制成的附加毛皮护垫能为打击提供缓冲。",
     "stage": 1,
     "context": "this.m.Description = 'Crafted from thick furs, this additional padding helps dampen the impact of any blow.'"
   }

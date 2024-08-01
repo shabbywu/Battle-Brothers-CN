@@ -18446,8 +18446,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:09.635Z",
         "updatedAt": "2023-06-26T05:48:27.562Z",
-        "modifiedAt": "2024-07-25T07:09:34Z",
-        "sha256": "4e980f60496025f843485147c27ba604ab1f4a4424311e84f0fcba3f5e41d851"
+        "modifiedAt": "2024-07-31T02:02:59Z",
+        "sha256": "7690e23e2924bd000ca87853cb157b9372e380a26d61209595a7bfa5c2c3a4dd"
     },
     "scripts/items/armor/named/leopard_armor.json": {
         "id": 919371,
@@ -18482,8 +18482,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:10.375Z",
         "updatedAt": "2023-06-26T05:48:27.707Z",
-        "modifiedAt": "2024-07-25T07:21:48Z",
-        "sha256": "c8b0501bed04514577d39ed01cae6bbe807e578dcedb377c3e64283939af43e7"
+        "modifiedAt": "2024-07-31T08:16:40Z",
+        "sha256": "7ce29fe025d02a093db6e5c58d32ceaaf43d095f721e1391b988d9c62c8cf516"
     },
     "scripts/items/armor/named/named_armor.json": {
         "id": 919373,
@@ -19310,8 +19310,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:29.568Z",
         "updatedAt": "2023-06-26T05:48:31.165Z",
-        "modifiedAt": "2024-07-25T07:53:36Z",
-        "sha256": "8542c7cc6ed1a6ec3f5e8b5c9c392ff6ea1199bb3f6f838e02bbe3ca5541de98"
+        "modifiedAt": "2024-07-31T04:25:49Z",
+        "sha256": "cd514038b43f1b906dbf5491842c505045a2036ccad21e8758c22d5a5318ff43"
     },
     "scripts/items/armor_upgrades/armor_upgrade.json": {
         "id": 919419,
@@ -19328,8 +19328,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:29.908Z",
         "updatedAt": "2023-06-26T05:48:31.232Z",
-        "modifiedAt": "2023-06-26T05:48:31Z",
-        "sha256": "04c630b4267c1cfcf9d8f366d849164d117e859a67085421d4217b27b3bb1dae"
+        "modifiedAt": "2024-07-31T04:38:13Z",
+        "sha256": "36fb07533a30deb6ed0d111327c595a950b622ee68051ea176ca12ab686c3982"
     },
     "scripts/items/armor_upgrades/barbarian_horn_upgrade.json": {
         "id": 919420,
@@ -19346,8 +19346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:30.254Z",
         "updatedAt": "2023-06-26T05:48:31.303Z",
-        "modifiedAt": "2024-07-05T02:29:24Z",
-        "sha256": "080d0a45e7c98ebf49953b3aad416b4ee0a0542d917ca1a0879885b16c1d95ca"
+        "modifiedAt": "2024-07-31T07:04:13Z",
+        "sha256": "454d045e5c413cb93628935422473a97bd5d0bc80daf9e3247550f23349683e3"
     },
     "scripts/items/armor_upgrades/bone_platings_upgrade.json": {
         "id": 919421,
@@ -19364,8 +19364,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:30.875Z",
         "updatedAt": "2023-06-26T05:48:31.378Z",
-        "modifiedAt": "2024-07-05T02:29:11Z",
-        "sha256": "d702ec7fa25f3968c33108e188578b39f25186ca6432be2edadcf02c4b53054a"
+        "modifiedAt": "2024-07-31T07:44:13Z",
+        "sha256": "d21fbf2caea425e41715ebddadc1972f203db6a8df51937c82b50cb57d9d50bc"
     },
     "scripts/items/armor_upgrades/direwolf_pelt_upgrade.json": {
         "id": 919422,
@@ -19382,8 +19382,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:31.206Z",
         "updatedAt": "2023-06-26T05:48:31.471Z",
-        "modifiedAt": "2024-07-26T00:39:20Z",
-        "sha256": "c68b1e4e105857e7e057efdc204d94416254ffa7d30a8fd7b43505081f1a54f5"
+        "modifiedAt": "2024-07-31T07:55:03Z",
+        "sha256": "b9bd5c8ccc1fbec7b7b283a5c3a10f20b6ccafc8ec6b712eab5dab7c445f325e"
     },
     "scripts/items/armor_upgrades/double_mail_upgrade.json": {
         "id": 919423,
@@ -19400,8 +19400,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:31.862Z",
         "updatedAt": "2023-06-26T05:48:31.54Z",
-        "modifiedAt": "2024-07-05T02:29:11Z",
-        "sha256": "7e52bbde22234b8bc49fffe3a20ae0e885b0622adf2b176b4cb4f3b1d2989828"
+        "modifiedAt": "2024-07-31T07:37:53Z",
+        "sha256": "0bf60feb73af70e6c4914f193a77c13dcd2047265610cd3a1bb5fd4a6a2042c0"
     },
     "scripts/items/armor_upgrades/heavy_gladiator_upgrade.json": {
         "id": 919424,
@@ -19418,8 +19418,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:32.285Z",
         "updatedAt": "2023-06-26T05:48:31.634Z",
-        "modifiedAt": "2024-07-05T02:29:45Z",
-        "sha256": "55a8b5965e80a90875fe0eaee991dfb9245010f7a044186ec951eedc4b7b276b"
+        "modifiedAt": "2024-07-31T07:41:31Z",
+        "sha256": "77328d99348585bb28f11ea76b29b99f804b7d4fdaf9e1457b31f13d1466dfae"
     },
     "scripts/items/armor_upgrades/heraldic_plates_upgrade.json": {
         "id": 919425,
@@ -19436,8 +19436,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:32.619Z",
         "updatedAt": "2023-06-26T05:48:31.702Z",
-        "modifiedAt": "2024-07-05T02:29:24Z",
-        "sha256": "b870a43ff9d2d18582ac6597fe9f78f458347d05c48506d661cf98e5512a265c"
+        "modifiedAt": "2024-07-31T07:43:12Z",
+        "sha256": "899d1fd20b10b27f19fa7447844b4276c90ae9ae64d1b7e5710cf2def31235cb"
     },
     "scripts/items/armor_upgrades/horn_plate_upgrade.json": {
         "id": 919426,
@@ -19454,8 +19454,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:33.263Z",
         "updatedAt": "2023-06-26T05:48:31.765Z",
-        "modifiedAt": "2023-06-26T05:48:32Z",
-        "sha256": "fd1864d52c47221ebd9beab05758b421a01c2c3a55934b79a80fb015971d4472"
+        "modifiedAt": "2024-07-31T07:50:15Z",
+        "sha256": "1bb05d9ad90018468d03b0046406fb68f278d5effb3972928b1236c940b1ae66"
     },
     "scripts/items/armor_upgrades/hyena_fur_upgrade.json": {
         "id": 919427,
@@ -19472,8 +19472,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:33.607Z",
         "updatedAt": "2023-06-26T05:48:31.83Z",
-        "modifiedAt": "2024-04-19T08:22:42Z",
-        "sha256": "f7457a65c710c37e9216758f43bd9b58140e74bf6f534b24a5636d508facc7f8"
+        "modifiedAt": "2024-07-31T07:53:45Z",
+        "sha256": "545477a3f35e433b9c476017fd671eea1c495cd6a178177fec230af0927a9cc0"
     },
     "scripts/items/armor_upgrades/joint_cover_upgrade.json": {
         "id": 919428,
@@ -19490,8 +19490,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:34.22Z",
         "updatedAt": "2023-06-26T05:48:31.921Z",
-        "modifiedAt": "2024-07-05T02:29:18Z",
-        "sha256": "ad613548052a43cd7c8f61e8c45b9719e637482bfef42fddaff866a72ffb2924"
+        "modifiedAt": "2024-07-31T07:57:25Z",
+        "sha256": "936e715f3ac240bbf550b1f4d666ec1521574eda3eb46883a9fa9a8ec0e86732"
     },
     "scripts/items/armor_upgrades/leather_neckguard_upgrade.json": {
         "id": 919429,
@@ -19508,8 +19508,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:34.558Z",
         "updatedAt": "2023-06-26T05:48:32.406Z",
-        "modifiedAt": "2023-06-26T05:48:32Z",
-        "sha256": "2ee8e3c20dd42a81371a22ed29e0a721062b5a3f07c843391c7a226783b9b718"
+        "modifiedAt": "2024-07-31T08:00:41Z",
+        "sha256": "ca919e9873dc3983795122526511b5622b8090d875a2d58033605b7d68751c18"
     },
     "scripts/items/armor_upgrades/leather_shoulderguards_upgrade.json": {
         "id": 919430,
@@ -19526,8 +19526,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:35.191Z",
         "updatedAt": "2023-06-26T05:48:32.475Z",
-        "modifiedAt": "2023-06-26T05:48:32Z",
-        "sha256": "cba9cc7e096090529118f693dfd51a37405515d781ac78c64645950eed7dfe38"
+        "modifiedAt": "2024-07-31T08:04:05Z",
+        "sha256": "e6f1a57685743fba5b0a4121d17d7bf4c2f44574575c417d0e169ad92ff24e63"
     },
     "scripts/items/armor_upgrades/light_gladiator_upgrade.json": {
         "id": 919431,
@@ -19544,8 +19544,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:35.532Z",
         "updatedAt": "2023-06-26T05:48:32.544Z",
-        "modifiedAt": "2024-07-05T02:29:24Z",
-        "sha256": "3794a2a5b843117003863c6e15db28e26f994ea2a4c31b28e77c6975d6eac45f"
+        "modifiedAt": "2024-07-31T08:05:17Z",
+        "sha256": "9534d4c269285d91be16996159b3ad94bcb4764b5e8ce5611322405bccd7fda2"
     },
     "scripts/items/armor_upgrades/light_padding_replacement_upgrade.json": {
         "id": 919432,
@@ -19562,8 +19562,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:35.907Z",
         "updatedAt": "2023-06-26T05:48:32.619Z",
-        "modifiedAt": "2024-07-05T02:29:40Z",
-        "sha256": "b3af598308652f478f08f8610c09f13e3963e3e40f48e7e62be66ad7881d368e"
+        "modifiedAt": "2024-07-31T08:14:22Z",
+        "sha256": "a1cea816ef564195739c357a7551394fde7b2faf56d7a5f434015df8bfaa9c4e"
     },
     "scripts/items/armor_upgrades/lindwurm_scales_upgrade.json": {
         "id": 919433,
@@ -19580,8 +19580,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:37.666Z",
         "updatedAt": "2023-06-26T05:48:32.702Z",
-        "modifiedAt": "2024-07-05T02:29:18Z",
-        "sha256": "19db9ed6339ba00d33e78bd10ac13bc7670209bd1ae0dc713b175d0d31f9a07d"
+        "modifiedAt": "2024-07-31T08:21:00Z",
+        "sha256": "6a19b7cf699981f6030f102c8f01a7c78a505bc4f9ae1af13abc33f24ad2ad39"
     },
     "scripts/items/armor_upgrades/mail_patch_upgrade.json": {
         "id": 919434,
@@ -19592,14 +19592,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:24:39.107Z",
         "updatedAt": "2023-06-26T05:48:32.765Z",
-        "modifiedAt": "2024-07-05T02:29:11Z",
-        "sha256": "febd3599130f2dc7f2845cd1b4e3a8ec69422bb30dd5b2c28fc79cff6d53f3eb"
+        "modifiedAt": "2024-07-31T08:32:11Z",
+        "sha256": "6bfbce412a65888fae2914e8c1351bedfb03a7021e46a9fc42a81f0c2b7e5494"
     },
     "scripts/items/armor_upgrades/metal_pauldrons_upgrade.json": {
         "id": 919435,
@@ -19616,8 +19616,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:40.441Z",
         "updatedAt": "2023-06-26T05:48:32.827Z",
-        "modifiedAt": "2024-07-05T02:29:24Z",
-        "sha256": "ca920bc86062f83e20b47cbd78bac8ce2c99430e520c68c16d70d173cbfce943"
+        "modifiedAt": "2024-07-31T08:36:08Z",
+        "sha256": "98a1014ad82ab6393800e0e08c05bfac0a00e8e50acda3be87851c731873d85d"
     },
     "scripts/items/armor_upgrades/metal_plating_upgrade.json": {
         "id": 919436,
@@ -19634,8 +19634,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:40.78Z",
         "updatedAt": "2023-06-26T05:48:32.895Z",
-        "modifiedAt": "2024-07-05T02:29:18Z",
-        "sha256": "63804cb1aefb564618ac4792e7647208e9072dca8bffb53e6f1856f8171a21a4"
+        "modifiedAt": "2024-07-31T08:41:58Z",
+        "sha256": "a61d5eb7cece2521a00f8d2bbd03ad8c5a491469eaa0b148ddf6a47b17321f13"
     },
     "scripts/items/armor_upgrades/negative_falling_apart_upgrade.json": {
         "id": 919437,
@@ -19652,8 +19652,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:41.634Z",
         "updatedAt": "2023-06-26T05:48:33.264Z",
-        "modifiedAt": "2024-02-01T10:39:11Z",
-        "sha256": "6ae1358b617df0af8092bc4f7c66e9125e49c6b06616174f3ef82a4cce04408a"
+        "modifiedAt": "2024-07-31T08:53:12Z",
+        "sha256": "842c60d0101bbcdd61a554b633a18859022263e1e8a14bb32746222cc9605eb4"
     },
     "scripts/items/armor_upgrades/negative_mouldered_upgrade.json": {
         "id": 919438,
@@ -19670,8 +19670,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:41.973Z",
         "updatedAt": "2023-06-26T05:48:33.445Z",
-        "modifiedAt": "2023-06-26T05:48:33Z",
-        "sha256": "f25b83597a24728d77c0734867110976456391cd3eb7214a1416288c7faadaae"
+        "modifiedAt": "2024-07-31T08:48:35Z",
+        "sha256": "2eb60928e1ad33c7b5fe0e2e6450ee262470cd4b86e45617cf9ab07adf1bf5d2"
     },
     "scripts/items/armor_upgrades/negative_shabby_upgrade.json": {
         "id": 919439,
@@ -19688,8 +19688,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:42.8Z",
         "updatedAt": "2023-06-26T05:48:33.508Z",
-        "modifiedAt": "2023-06-26T05:48:34Z",
-        "sha256": "9e007d257561d6436df6097f11dfd1e44c559896639efac9957e6f723203cb6c"
+        "modifiedAt": "2024-07-31T08:50:58Z",
+        "sha256": "e4749e2a2698305926b139a6f01964a476f998be93598ad7c7511f13594cdf98"
     },
     "scripts/items/armor_upgrades/negative_weathered_upgrade.json": {
         "id": 919440,
@@ -19706,8 +19706,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:43.144Z",
         "updatedAt": "2023-06-26T05:48:33.571Z",
-        "modifiedAt": "2023-06-26T05:48:34Z",
-        "sha256": "a47aacce3369ad2aaf157e8346a5cae6b390e06c2ee36f83f9e88890b7e9d57b"
+        "modifiedAt": "2024-07-31T08:52:21Z",
+        "sha256": "1aefb03175b1512b638627b5f1a9c5e3778e37e953c742019402a3f85dab636b"
     },
     "scripts/items/armor_upgrades/protective_runes_upgrade.json": {
         "id": 919441,
@@ -19724,8 +19724,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:43.493Z",
         "updatedAt": "2023-06-26T05:48:33.773Z",
-        "modifiedAt": "2024-01-29T01:07:00Z",
-        "sha256": "19f902a71a4d44a9865a743f3b6521751d966e696e9fea528536481e665629a2"
+        "modifiedAt": "2024-07-31T08:57:20Z",
+        "sha256": "2b6225cfd88ca9c0585661ab1aed3fd782ded073705cd2c9c193b809bd4b1015"
     },
     "scripts/items/armor_upgrades/serpent_skin_upgrade.json": {
         "id": 919442,
@@ -19742,8 +19742,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:44.124Z",
         "updatedAt": "2023-06-26T05:48:33.99Z",
-        "modifiedAt": "2024-07-05T02:29:11Z",
-        "sha256": "e5fb33d827de6a0311214ae7b5b411ce74108f507cd7bc4a308f2703a7c08835"
+        "modifiedAt": "2024-07-31T09:07:16Z",
+        "sha256": "5995f5bcd1be6930013ebe1d8677931cd9a8ad27614bd9a90811368447080f07"
     },
     "scripts/items/armor_upgrades/unhold_fur_upgrade.json": {
         "id": 919443,
@@ -19760,8 +19760,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:44.456Z",
         "updatedAt": "2023-06-26T05:48:34.058Z",
-        "modifiedAt": "2023-06-26T05:48:34Z",
-        "sha256": "bc656820831b774d2d93b9809aae1e80c539e905b9345ad7ceb62ee0423f9ec3"
+        "modifiedAt": "2024-07-31T09:13:58Z",
+        "sha256": "1eac8243186ef2aba77bb6d587b61c5bd5e4d81b0ab9fe2ba7e4891399ea7d25"
     },
     "scripts/items/helmets/adorned_closed_flat_top_with_mail.json": {
         "id": 919444,
@@ -21110,8 +21110,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:17.547Z",
         "updatedAt": "2023-06-26T05:48:42.089Z",
-        "modifiedAt": "2023-06-26T05:48:42Z",
-        "sha256": "11958ecf2492685ce5509fce1820205af1a9fe3da01c1fffa556ab55d64deb05"
+        "modifiedAt": "2024-07-31T01:14:24Z",
+        "sha256": "16e32c461e2a62d7ff3279c8a23a808242b44358c11eaa97ebf35c4d8ef86691"
     },
     "scripts/items/helmets/named/golden_feathers_helmet.json": {
         "id": 919519,
@@ -21128,8 +21128,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:17.932Z",
         "updatedAt": "2023-06-26T05:48:42.155Z",
-        "modifiedAt": "2023-06-26T05:48:42Z",
-        "sha256": "88b0a43ef59efaf2c66ba662b69eaf5c58d4d6a2be6435ee113d46f7354ccf90"
+        "modifiedAt": "2024-07-31T04:15:09Z",
+        "sha256": "735b3482128ae539f63b8aeae441c37da9bb91291fdbe8c8e1bb3a206b10fde9"
     },
     "scripts/items/helmets/named/heraldic_mail_helmet.json": {
         "id": 919520,
@@ -21146,8 +21146,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:18.865Z",
         "updatedAt": "2023-06-26T05:48:42.22Z",
-        "modifiedAt": "2024-07-29T00:54:55Z",
-        "sha256": "de5f77d497c6a6e226bdff7ff747fb71cb7fccd8e3ff8115a50bbc2aff264eaa"
+        "modifiedAt": "2024-07-31T02:05:00Z",
+        "sha256": "4ec64174776fe55aec8ea25a260acf73ae60fff9d7b6c132a5c4516bda1b0896"
     },
     "scripts/items/helmets/named/lindwurm_helmet.json": {
         "id": 919521,
@@ -21164,8 +21164,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:19.209Z",
         "updatedAt": "2023-06-26T05:48:42.278Z",
-        "modifiedAt": "2024-04-16T08:53:13Z",
-        "sha256": "d31d830ad8cd2b0d343b016495e21c7deff98e248a23afb86b8036f3d926ab7f"
+        "modifiedAt": "2024-07-31T02:11:56Z",
+        "sha256": "759c4167005c874c83c2cb8e54744547d9e850435798003e09e58694b26cd0a5"
     },
     "scripts/items/helmets/named/named_conic_helmet_with_faceguard.json": {
         "id": 919522,
@@ -21182,8 +21182,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:19.558Z",
         "updatedAt": "2023-06-26T05:48:42.336Z",
-        "modifiedAt": "2023-06-26T05:48:42Z",
-        "sha256": "652f0f6a05a9525fc73cea587d0dba011588c9dc6a4ef6be41c5c6abab15af75"
+        "modifiedAt": "2024-07-31T02:17:13Z",
+        "sha256": "a2ea5c54ef756b019795ee6278ddcf1dd06d814a76077578bf5a20103ec4fd72"
     },
     "scripts/items/helmets/named/named_helmet.json": {
         "id": 919523,
@@ -21218,8 +21218,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:20.231Z",
         "updatedAt": "2023-06-26T05:48:42.491Z",
-        "modifiedAt": "2023-06-26T05:48:42Z",
-        "sha256": "53173c7ffcdbd4b11f8c0580b429196c51655ab3183792e0d68749c734032ec1"
+        "modifiedAt": "2024-07-31T02:22:15Z",
+        "sha256": "84f8387689929d26a08d8589a7ddc85cdc4c76a35214060ee6bfbb73db8f9c24"
     },
     "scripts/items/helmets/named/named_metal_nose_horn_helmet.json": {
         "id": 919525,
@@ -21236,8 +21236,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:20.57Z",
         "updatedAt": "2023-06-26T05:48:42.57Z",
-        "modifiedAt": "2023-06-26T05:48:43Z",
-        "sha256": "3f123ad64f20dab098e64cc43b431b8486f5ff19b21d23e6907184367d2a248e"
+        "modifiedAt": "2024-07-31T02:25:43Z",
+        "sha256": "ce3cf340ef3d9f5b6305e102916c1d9ea6f9eb67605ce276dfe97695c559124d"
     },
     "scripts/items/helmets/named/named_metal_skull_helmet.json": {
         "id": 919526,
@@ -21254,8 +21254,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:21.2Z",
         "updatedAt": "2023-06-26T05:48:42.631Z",
-        "modifiedAt": "2023-06-26T05:48:43Z",
-        "sha256": "b0ed2d6eb726f47860a728738ee0ff643a1effde0cdfd834e7c914d77aea34b2"
+        "modifiedAt": "2024-07-31T02:33:08Z",
+        "sha256": "d59ee1815169f73a5e6fd1cebcdf14be400d4b47f083b1eab006bbcf65b2f447"
     },
     "scripts/items/helmets/named/named_nordic_helmet_with_closed_mail.json": {
         "id": 919527,
@@ -21266,14 +21266,14 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:25:21.544Z",
         "updatedAt": "2023-06-26T05:48:42.698Z",
-        "modifiedAt": "2023-07-07T02:53:41Z",
-        "sha256": "3b85990b8852470313851246802799ad70459d0d0e271d35d8bd659996e51837"
+        "modifiedAt": "2024-07-31T03:03:27Z",
+        "sha256": "e91faef6dc4795ad292cbe8ac94b7ad8d8cf33bdbd90c003615ca9080c4317f4"
     },
     "scripts/items/helmets/named/named_steppe_helmet_with_mail.json": {
         "id": 919528,
@@ -21290,8 +21290,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:21.88Z",
         "updatedAt": "2023-06-26T05:48:42.761Z",
-        "modifiedAt": "2024-07-28T05:45:32Z",
-        "sha256": "65b9451d3c233ea4e19b2c08cb6c18df4a31b05ce50e9b5f1c3a5b65f38e1ccc"
+        "modifiedAt": "2024-07-31T03:08:42Z",
+        "sha256": "b5e802793df33054928e170aa2e2507bd4954d956e5aef1ad6e0fe15118c559c"
     },
     "scripts/items/helmets/named/nasal_feather_helmet.json": {
         "id": 919529,
@@ -21308,8 +21308,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:22.25Z",
         "updatedAt": "2023-06-26T05:48:42.821Z",
-        "modifiedAt": "2024-04-25T13:40:59Z",
-        "sha256": "1f996e7692441837eb9e7e1a9cc283bfb801e03402a8873a7a9c8158faf97c4d"
+        "modifiedAt": "2024-07-31T03:14:03Z",
+        "sha256": "51c426a62c6c6d4b15960d49eac1396351f7be0af08293b81eccf1ecdd007f13"
     },
     "scripts/items/helmets/named/norse_helmet.json": {
         "id": 919530,
@@ -21326,8 +21326,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:23.286Z",
         "updatedAt": "2023-06-26T05:48:42.884Z",
-        "modifiedAt": "2023-06-26T05:48:43Z",
-        "sha256": "ed1b8afa31277feb16f919e12ae1d501eed3d41f3db9e7b369afcde8475e168e"
+        "modifiedAt": "2024-07-31T03:19:00Z",
+        "sha256": "265c93fb7ea9e4638277cdc19134fbb0e04fce002b3b781a406cd5d6c68a7155"
     },
     "scripts/items/helmets/named/red_and_gold_band_helmet.json": {
         "id": 919531,
@@ -21344,8 +21344,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:23.632Z",
         "updatedAt": "2023-06-26T05:48:43.063Z",
-        "modifiedAt": "2023-06-26T05:48:43Z",
-        "sha256": "a6f57824b5952e07f8569ec9ddbe0a7e1f63c846689611a6b9eaa2b334f3115d"
+        "modifiedAt": "2024-07-31T04:00:15Z",
+        "sha256": "de526331be04c9861e19f9012ecbd8e75e6b81884c9f55d9388ea3222eac9383"
     },
     "scripts/items/helmets/named/sallet_green_helmet.json": {
         "id": 919532,
@@ -21362,8 +21362,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:23.972Z",
         "updatedAt": "2023-06-26T05:48:43.137Z",
-        "modifiedAt": "2023-06-26T05:48:43Z",
-        "sha256": "561bdc9de6c3228248e012ddc6d8fe39f1c21a38ea347000d429093919cc3e23"
+        "modifiedAt": "2024-07-31T04:03:50Z",
+        "sha256": "2a4b0c8e8543a89df19e4913c774f3229aa2ed309899b85c61199cec4ce27712"
     },
     "scripts/items/helmets/named/wolf_helmet.json": {
         "id": 919533,
@@ -21380,8 +21380,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:24.313Z",
         "updatedAt": "2023-06-26T05:48:43.2Z",
-        "modifiedAt": "2023-06-26T05:48:43Z",
-        "sha256": "b98bf97e8dc1292e43c22f35aadf16462565404e1d282f19d76c17f955c53905"
+        "modifiedAt": "2024-07-31T04:17:45Z",
+        "sha256": "9f7c090e4dde71b5c4b67d242929f16f5ef060ffe498be3245b0c573ff7b9f5f"
     },
     "scripts/items/helmets/nasal_helmet.json": {
         "id": 919534,
@@ -21776,8 +21776,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:32.095Z",
         "updatedAt": "2023-06-26T05:48:45.013Z",
-        "modifiedAt": "2024-07-29T09:06:59Z",
-        "sha256": "c843848ea4c020134d64416b675e7a0ff5e8fb439c0fe5de7e372930f415e43d"
+        "modifiedAt": "2024-07-31T04:14:58Z",
+        "sha256": "b5d119a2ac6ae39938a30c56fa7bb630bad6fbe1109addce0a406a400c1655b1"
     },
     "scripts/items/helmets/oriental/spiked_skull_cap_with_mail.json": {
         "id": 919556,
@@ -21884,8 +21884,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:34.124Z",
         "updatedAt": "2023-06-26T05:48:45.324Z",
-        "modifiedAt": "2024-07-29T03:33:19Z",
-        "sha256": "78fd34d6b9765df2929c3ab04af935aee1d1bfbd641e55991b7356f1a4a9d6cb"
+        "modifiedAt": "2024-07-31T04:04:15Z",
+        "sha256": "b3e946a7ee9bdab5b9aa3c9448df33ed6567f42d18d0da35075f97e697a46e25"
     },
     "scripts/items/helmets/physician_mask.json": {
         "id": 919562,
@@ -22100,8 +22100,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:40.14Z",
         "updatedAt": "2023-06-26T05:48:45.991Z",
-        "modifiedAt": "2024-04-18T00:48:18Z",
-        "sha256": "58c7c162948333f420c027766e9e8240ffa6db69f8de3fc156ff3d3ef79835e3"
+        "modifiedAt": "2024-08-01T00:57:51Z",
+        "sha256": "11c33d8e2c015f72d4344f7d9b16c8e71b776d60951c43490fb1ea2d9fbcf216"
     },
     "scripts/items/loot/ancient_gold_coins_item.json": {
         "id": 919574,
@@ -38924,14 +38924,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:57.409Z",
         "updatedAt": "2023-06-26T05:49:51.292Z",
-        "modifiedAt": "2024-07-23T08:36:06Z",
-        "sha256": "81023e435cf73e6c0ff5a7c0b3c018f9e01f814ef6cb52aaf81145caa2580706"
+        "modifiedAt": "2024-07-31T16:05:02Z",
+        "sha256": "126fcac6351de29180b3778e8c3d44e9892e4077cb1155065e8186d72ea1730c"
     },
     "scripts/skills/traits/pessimist_trait.json": {
         "id": 920509,
