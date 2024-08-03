@@ -131,8 +131,8 @@
     "ID": 293419499,
     "key": "%[/color] of damage ignores armor",
     "original": "%[/color] of damage ignores armor",
-    "translation": "%[/color] 伤害忽略护甲",
-    "stage": 5,
+    "translation": "%[/color] 伤害无视护甲",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.DamageValue + ']' + this.Math.floor(this.m.DirectDamageMult + this.m.DirectDamageAdd * 100) + '%[/color] of damage ignores armor'"
   },
   {

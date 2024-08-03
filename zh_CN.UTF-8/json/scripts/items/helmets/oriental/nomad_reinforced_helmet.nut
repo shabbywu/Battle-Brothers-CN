@@ -3,7 +3,7 @@
     "ID": 293418284,
     "key": "Nomad Reinforced Helmet",
     "original": "Nomad Reinforced Helmet",
-    "translation": "加强游牧盔",
+    "translation": "强化游牧盔",
     "stage": 1,
     "context": "this.m.Name = 'Nomad Reinforced Helmet'"
   },

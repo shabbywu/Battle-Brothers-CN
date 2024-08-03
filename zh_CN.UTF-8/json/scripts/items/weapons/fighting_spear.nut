@@ -19,8 +19,8 @@
     "ID": 293419122,
     "key": "A long and sturdy spear built for battle.",
     "original": "A long and sturdy spear built for battle.",
-    "translation": "一把为战斗特制的长而可靠耐用的矛。",
-    "stage": 5,
+    "translation": "一把为战斗特制的耐用长矛。",
+    "stage": 1,
     "context": "this.m.Description = 'A long and sturdy spear built for battle.'"
   }
 ]

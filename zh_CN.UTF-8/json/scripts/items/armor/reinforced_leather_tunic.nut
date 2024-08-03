@@ -11,7 +11,7 @@
     "ID": 293417842,
     "key": "Reinforced Leather Armor",
     "original": "Reinforced Leather Armor",
-    "translation": "加固皮甲",
+    "translation": "强化皮甲",
     "stage": 1,
     "context": "this.m.Name = 'Reinforced Leather Armor'"
   }

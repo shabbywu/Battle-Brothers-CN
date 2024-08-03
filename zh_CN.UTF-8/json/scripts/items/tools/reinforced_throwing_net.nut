@@ -3,7 +3,7 @@
     "ID": 293418964,
     "key": "A net used to throw over a target in order to hamper their ability to move and defend themself effectively. Reinforced with gossamer taken from a webknecht, it is even harder to break free from.",
     "original": "A net used to throw over a target in order to hamper their ability to move and defend themself effectively. Reinforced with gossamer taken from a webknecht, it is even harder to break free from.",
-    "translation": "一张用来投掷的网，为了阻碍目标的移动和有效地保护自己。 使用蛛丝强化后，它更难以挣脱。",
+    "translation": "一张用来投向目标，通过阻止目标移动来有效保护自己的网。使用蛛丝加强，更加难以挣脱。",
     "stage": 1,
     "context": "this.m.Description = 'A net used to throw over a target in order to hamper their ability to move and defend themself effectively. Reinforced with gossamer taken from a webknecht, it is even harder to break free from.'"
   },
@@ -11,7 +11,7 @@
     "ID": 293418965,
     "key": "Is destroyed on use",
     "original": "Is destroyed on use",
-    "translation": "使用后摧毁",
+    "translation": "使用即摧毁",
     "stage": 1,
     "context": "text = 'Is destroyed on use'"
   },
@@ -19,7 +19,7 @@
     "ID": 293418966,
     "key": "Will root a target in place and reduce their defenses",
     "original": "Will root a target in place and reduce their defenses",
-    "translation": "会使目标定身并减少他们的防御",
+    "translation": "会使目标定身并降低其防御",
     "stage": 1,
     "context": "text = 'Will root a target in place and reduce their defenses'"
   },
@@ -35,7 +35,7 @@
     "ID": 293418968,
     "key": "Range of [color=",
     "original": "Range of [color=",
-    "translation": "使用范围为[color=",
+    "translation": "能投出 [color=",
     "stage": 1,
     "context": "text = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
   },
@@ -51,7 +51,7 @@
     "ID": 293418970,
     "key": "Chance to break free is reduced by [color=",
     "original": "Chance to break free is reduced by [color=",
-    "translation": "挣脱的几率降低[color=",
+    "translation": "挣脱几率降低 [color=",
     "stage": 1,
     "context": "text = 'Chance to break free is reduced by [color=' + this.Const.UI.Color.NegativeValue + ']-15[/color]'"
   },
@@ -67,8 +67,8 @@
     "ID": 293418972,
     "key": "[/color] tiles",
     "original": "[/color] tiles",
-    "translation": "[/color] 格",
-    "stage": 5,
+    "translation": "[/color] 格远",
+    "stage": 1,
     "context": "text = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.RangeMax + '[/color] tiles'"
   }
 ]

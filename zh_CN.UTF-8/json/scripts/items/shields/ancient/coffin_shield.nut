@@ -3,7 +3,7 @@
     "ID": 293418749,
     "key": "Ancient Coffin Shield",
     "original": "Ancient Coffin Shield",
-    "translation": "古代棺材盾",
+    "translation": "古代棺盖盾",
     "stage": 1,
     "context": "this.m.Name = 'Ancient Coffin Shield'"
   },
@@ -11,7 +11,7 @@
     "ID": 293418750,
     "key": "An octagonal shield made of wood and reinforced with bronze. Time has taken its toll and the wood has become brittle.",
     "original": "An octagonal shield made of wood and reinforced with bronze. Time has taken its toll and the wood has become brittle.",
-    "translation": "用硬木做的八角形盾牌，并用青铜进行了加固。由于年代过于久远，木材已经变得非常脆弱。",
+    "translation": "一面用青铜加固的八角形木制盾牌。由于年代久远，木质已经变脆。",
     "stage": 1,
     "context": "this.m.Description = 'An octagonal shield made of wood and reinforced with bronze. Time has taken its toll and the wood has become brittle.'"
   }

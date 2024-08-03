@@ -19,8 +19,8 @@
     "ID": 293419094,
     "key": "A pike-like weapon with a blade for striking over some distance and a hook attached for pulling in targets.",
     "original": "A pike-like weapon with a blade for striking over some distance and a hook attached for pulling in targets.",
-    "translation": "一种类似长枪的武器，带有用于在一定距离上劈击的刀片，也装有用于拉近目标的钩子。",
-    "stage": 5,
+    "translation": "一种类似长枪的武器，既有用于远距离挥击的刃，又有用于拉近目标的钩。",
+    "stage": 1,
     "context": "this.m.Description = 'A pike-like weapon with a blade for striking over some distance and a hook attached for pulling in targets.'"
   }
 ]

@@ -35,7 +35,7 @@
     "ID": 293417782,
     "key": "Reinforced Mail",
     "original": "Reinforced Mail",
-    "translation": "加固链甲",
+    "translation": "强化链甲",
     "stage": 1,
     "context": "'Reinforced Mail'"
   }

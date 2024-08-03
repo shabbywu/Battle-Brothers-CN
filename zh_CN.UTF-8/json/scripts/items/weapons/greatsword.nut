@@ -11,7 +11,7 @@
     "ID": 293419133,
     "key": "A long two-handed blade as good for crushing as for cutting.",
     "original": "A long two-handed blade as good for crushing as for cutting.",
-    "translation": "一种很长的双手利刃，既能切割又能斩破敌人。",
+    "translation": "一把既能用于斩击又能砸向对手的双手利刃。",
     "stage": 1,
     "context": "this.m.Description = 'A long two-handed blade as good for crushing as for cutting.'"
   },

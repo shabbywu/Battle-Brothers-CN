@@ -3,7 +3,7 @@
     "ID": 293418011,
     "key": "A headpiece with long horns, fashioned in tradition of barbarian beastmasters for generations.",
     "original": "A headpiece with long horns, fashioned in tradition of barbarian beastmasters for generations.",
-    "translation": "一种饰有长角的头冠，是野蛮人兽王世代传承的传统造型。",
+    "translation": "一顶饰有长角的头冠，是野蛮人兽王世代传承的传统造型。",
     "stage": 1,
     "context": "this.m.Description = 'A headpiece with long horns, fashioned in tradition of barbarian beastmasters for generations.'"
   },

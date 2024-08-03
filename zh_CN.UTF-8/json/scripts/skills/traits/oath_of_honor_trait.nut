@@ -11,8 +11,8 @@
     "ID": 293422645,
     "key": "Starts combat at Confident morale if permitted by mood",
     "original": "Starts combat at Confident morale if permitted by mood",
-    "translation": "如果心情允许，以自信的士气开始战斗",
-    "stage": 5,
+    "translation": "如果心情允许，将以自信士气开始战斗",
+    "stage": 1,
     "context": "text = 'Starts combat at Confident morale if permitted by mood'"
   },
   {

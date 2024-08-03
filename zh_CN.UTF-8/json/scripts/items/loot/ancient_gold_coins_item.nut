@@ -3,7 +3,7 @@
     "ID": 293418344,
     "key": "Thick gold coins with various ancient imprints. Should be worth a lot if you can find a buyer.",
     "original": "Thick gold coins with various ancient imprints. Should be worth a lot if you can find a buyer.",
-    "translation": "带着各种古代印记的厚实金币。 找对了买家能卖不少钱。",
+    "translation": "带着各种古代纹样的厚实金币。找对了买家能卖不少钱。",
     "stage": 1,
     "context": "this.m.Description = 'Thick gold coins with various ancient imprints. Should be worth a lot if you can find a buyer.'"
   },
