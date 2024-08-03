@@ -3,7 +3,7 @@
     "ID": 293417620,
     "key": "Decayed Reinforced Mail Hauberk",
     "original": "Decayed Reinforced Mail Hauberk",
-    "translation": "腐朽加固链铠",
+    "translation": "腐朽强化链铠",
     "stage": 1,
     "context": "this.m.Name = 'Decayed Reinforced Mail Hauberk'"
   },

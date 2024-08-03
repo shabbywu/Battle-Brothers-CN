@@ -19,7 +19,7 @@
     "ID": 293418216,
     "key": "Reinforced Helm",
     "original": "Reinforced Helm",
-    "translation": "加强头盔",
+    "translation": "强化盔",
     "stage": 1,
     "context": "'Reinforced Helm'"
   },

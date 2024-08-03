@@ -19,8 +19,8 @@
     "ID": 293419128,
     "key": "A metal-reinforced club with a spike at the top. Can be used to thrust at the enemy, or pummel them into submission.",
     "original": "A metal-reinforced club with a spike at the top. Can be used to thrust at the enemy, or pummel them into submission.",
-    "translation": "一根顶端有尖钉的金属加固棍棒。可用于刺击敌人，或者击打他们至屈服。",
-    "stage": 5,
+    "translation": "一把用金属加固，顶端装有尖刺的棒状武器。可以用来刺向敌人，或是棒打至其屈服。",
+    "stage": 1,
     "context": "this.m.Description = 'A metal-reinforced club with a spike at the top. Can be used to thrust at the enemy, or pummel them into submission.'"
   }
 ]

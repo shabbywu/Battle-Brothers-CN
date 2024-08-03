@@ -11,7 +11,7 @@
     "ID": 293418819,
     "key": "This shield, carved out of a horn plate taken from a giant kraken, is stronger than any common shield.",
     "original": "This shield, carved out of a horn plate taken from a giant kraken, is stronger than any common shield.",
-    "translation": "这面盾牌是由克拉肯的角盘制作而成，比任何普通的盾牌都要坚固。",
+    "translation": "这面盾牌由巨怪克拉肯的角板制成，比所有常规盾牌都要坚固。",
     "stage": 1,
     "context": "this.m.Description = 'This shield, carved out of a horn plate taken from a giant kraken, is stronger than any common shield.'"
   }

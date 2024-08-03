@@ -3,8 +3,8 @@
     "ID": 293420650,
     "key": "Throw Smoke Pot",
     "original": "Throw Smoke Pot",
-    "translation": "投掷烟雾罐",
-    "stage": 5,
+    "translation": "投掷发烟罐",
+    "stage": 1,
     "context": "this.m.Name = 'Throw Smoke Pot'"
   },
   {

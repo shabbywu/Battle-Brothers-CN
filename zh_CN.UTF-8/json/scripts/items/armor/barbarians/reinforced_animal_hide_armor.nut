@@ -11,8 +11,8 @@
     "ID": 293417593,
     "key": "Reinforced Animal Hide Armor",
     "original": "Reinforced Animal Hide Armor",
-    "translation": "加固兽皮甲",
-    "stage": 5,
+    "translation": "强化兽皮甲",
+    "stage": 1,
     "context": "this.m.Name = 'Reinforced Animal Hide Armor'"
   }
 ]

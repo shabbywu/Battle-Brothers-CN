@@ -19,7 +19,7 @@
     "ID": 293418673,
     "key": "There are too few Indebted in the company! The Manhunters will become dissatisfied if this continues!",
     "original": "There are too few Indebted in the company! The Manhunters will become dissatisfied if this continues!",
-    "translation": "战团里的负债者太少了！ 如果这种情况继续下去，猎奴者会感到不满意！",
+    "translation": "战团里的负债者太少了！如果情况继续下去，猎奴者会感到不满！",
     "stage": 1,
     "context": "text = 'There are too few Indebted in the company! The Manhunters will become dissatisfied if this continues!'"
   },
@@ -51,7 +51,7 @@
     "ID": 293418677,
     "key": "A ledger detailing the members and contract terms of the company.",
     "original": "A ledger detailing the members and contract terms of the company.",
-    "translation": "一本详细介绍战团成员和合同条款的账簿。",
+    "translation": "一本详细记录了战团成员和合同条款的账簿。",
     "stage": 1,
     "context": "this.m.Description = 'A ledger detailing the members and contract terms of the company.'"
   }

@@ -179,7 +179,7 @@
     "ID": 293410178,
     "key": "Smoke Pots can be used for a safe retreat even if your men are already locked in melee.",
     "original": "Smoke Pots can be used for a safe retreat even if your men are already locked in melee.",
-    "translation": "烟雾弹可被用于使陷入近战的人安全撤退。",
+    "translation": "发烟罐可被用于使陷入近战的人安全撤退。",
     "stage": 1,
     "context": "'Smoke Pots can be used for a safe retreat even if your men are already locked in melee.'"
   },

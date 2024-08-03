@@ -19,8 +19,8 @@
     "ID": 293419203,
     "key": "A couple of light throwing spears usually carried by skirmishers. Have limited range and are exhausting to throw, but may inflict devastating injuries.",
     "original": "A couple of light throwing spears usually carried by skirmishers. Have limited range and are exhausting to throw, but may inflict devastating injuries.",
-    "translation": "一组通常由散兵携带的轻型投矛。射程有限，且十分消耗体力，但能造成毁灭性的伤害。",
-    "stage": 5,
+    "translation": "一些通常配备给散兵的投掷用矛。射程有限，耗费体力，却能造成毁灭新的伤害。",
+    "stage": 1,
     "context": "this.m.Description = 'A couple of light throwing spears usually carried by skirmishers. Have limited range and are exhausting to throw, but may inflict devastating injuries.'"
   },
   {

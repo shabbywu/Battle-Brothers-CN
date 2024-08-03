@@ -11,7 +11,7 @@
     "ID": 293419124,
     "key": "A separate striking head attached to a handle by a chain. A rather unpredictable weapon, but useful to strike over or around shield cover.",
     "original": "A separate striking head attached to a handle by a chain. A rather unpredictable weapon, but useful to strike over or around shield cover.",
-    "translation": "一个单独的锤头被锁链连接在握把上。它的攻击有些难以预测，但很适合绕过盾牌的掩护。",
+    "translation": "一个通过锁链固定在手柄上的分体锤头。其攻击路线难以预测，反倒适合绕过盾牌打击对手。",
     "stage": 1,
     "context": "this.m.Description = 'A separate striking head attached to a handle by a chain. A rather unpredictable weapon, but useful to strike over or around shield cover.'"
   },

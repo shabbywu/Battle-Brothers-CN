@@ -11,8 +11,8 @@
     "ID": 293419045,
     "key": "A lightweight, straight sword suitable for slashing, thrusting and swinging.",
     "original": "A lightweight, straight sword suitable for slashing, thrusting and swinging.",
-    "translation": "一种易于挥砍和戳刺的轻质直剑。",
-    "stage": 5,
+    "translation": "一柄适于挥砍和戳刺的轻质直剑。",
+    "stage": 1,
     "context": "this.m.Description = 'A lightweight, straight sword suitable for slashing, thrusting and swinging.'"
   },
   {

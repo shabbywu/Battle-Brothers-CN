@@ -11,8 +11,8 @@
     "ID": 293419087,
     "key": "A large axe with a long head that can be brought down on the enemy with devastating effect.",
     "original": "A large axe with a long head that can be brought down on the enemy with devastating effect.",
-    "translation": "一把大斧头，较长的头部能对敌人造成毁灭性的打击。",
-    "stage": 5,
+    "translation": "一柄长头大斧，它的长头被挥到哪里，毁灭就被带到哪里。",
+    "stage": 1,
     "context": "this.m.Description = 'A large axe with a long head that can be brought down on the enemy with devastating effect.'"
   },
   {

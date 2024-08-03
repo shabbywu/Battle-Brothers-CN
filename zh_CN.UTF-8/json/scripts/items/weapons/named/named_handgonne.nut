@@ -27,8 +27,8 @@
     "ID": 293419284,
     "key": "]Must be reloaded before firing again[/color]",
     "original": "]Must be reloaded before firing again[/color]",
-    "translation": "]必须重新装填才能再次发射[/color]",
-    "stage": 5,
+    "translation": "]射击前须装填[/color]",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Must be reloaded before firing again[/color]'"
   }
 ]

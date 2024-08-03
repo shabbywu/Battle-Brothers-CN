@@ -99,7 +99,7 @@
     "ID": 293422258,
     "key": "]25%[/color] chance to start battle at confident morale",
     "original": "]25%[/color] chance to start battle at confident morale",
-    "translation": "]25%[/color]几率自信的士气开始战斗",
+    "translation": "]25%[/color]几率以自信士气开始战斗",
     "stage": 1,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] chance to start battle at confident morale'"
   },
@@ -115,7 +115,7 @@
     "ID": 293422260,
     "key": "]50%[/color] chance to start battle at confident morale",
     "original": "]50%[/color] chance to start battle at confident morale",
-    "translation": "]50%[/color]几率自信的士气开始战斗",
+    "translation": "]50%[/color]几率以自信士气开始战斗",
     "stage": 1,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] chance to start battle at confident morale'"
   },

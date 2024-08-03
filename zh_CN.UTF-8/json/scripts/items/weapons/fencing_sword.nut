@@ -3,8 +3,8 @@
     "ID": 293419114,
     "key": "A light and elegant blade, favoring a swift and mobile fighting style.",
     "original": "A light and elegant blade, favoring a swift and mobile fighting style.",
-    "translation": "轻柔而高雅的利刃，偏向迅捷而灵活的战斗风格。",
-    "stage": 5,
+    "translation": "一把适合灵巧战斗风格的优雅轻刃。",
+    "stage": 1,
     "context": "this.m.Description = 'A light and elegant blade, favoring a swift and mobile fighting style.'"
   },
   {

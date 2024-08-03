@@ -3,8 +3,8 @@
     "ID": 293419005,
     "key": "Rock salt used for cooking and curing food. Traders will pay good coin for this.",
     "original": "Rock salt used for cooking and curing food. Traders will pay good coin for this.",
-    "translation": "岩盐用于烹饪和腌制食品。商人会为此付个好价钱。",
-    "stage": 5,
+    "translation": "用于烹饪和腌制食品的岩盐。商人会为此付个好价钱。",
+    "stage": 1,
     "context": "this.m.Description = 'Rock salt used for cooking and curing food. Traders will pay good coin for this.'"
   },
   {

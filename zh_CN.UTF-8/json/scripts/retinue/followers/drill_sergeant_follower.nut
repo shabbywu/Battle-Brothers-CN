@@ -3,7 +3,7 @@
     "ID": 293419577,
     "key": "Makes men in reserve never lose mood from not taking part in battles",
     "original": "Makes men in reserve never lose mood from not taking part in battles",
-    "translation": "使处于后备队的人不会因不参加战斗而降低心情",
+    "translation": "使预备队中的角色不会因不能参战而降低心情",
     "stage": 1,
     "context": "'Makes men in reserve never lose mood from not taking part in battles'"
   },

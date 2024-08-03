@@ -3,8 +3,8 @@
     "ID": 293419104,
     "key": "]Must be reloaded before firing again[/color]",
     "original": "]Must be reloaded before firing again[/color]",
-    "translation": "]必须重新装填才能再次发射[/color]",
-    "stage": 5,
+    "translation": "]射击前须装填[/color]",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Must be reloaded before firing again[/color]'"
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293419107,
     "key": "A pull-lever crossbow that can propel bolts over medium distances. Effective even in the hands of laymen, but requires almost a full turn to reload.",
     "original": "A pull-lever crossbow that can propel bolts over medium distances. Effective even in the hands of laymen, but requires almost a full turn to reload.",
-    "translation": "一种可以在中等距离上射击弩矢的拉杆式弩。 即使是在门外汉的手上也极为有效，但需要几乎整回合的时间来重新装载。",
-    "stage": 5,
+    "translation": "一把中等射程的拉杆式弩。在门外汉手上也极为有效，但几乎要装填上一整个回合。",
+    "stage": 1,
     "context": "this.m.Description = 'A pull-lever crossbow that can propel bolts over medium distances. Effective even in the hands of laymen, but requires almost a full turn to reload.'"
   }
 ]
