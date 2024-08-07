@@ -11,8 +11,8 @@
     "ID": 293419057,
     "key": "The massive claws of some wild animal are fixed to this large club",
     "original": "The massive claws of some wild animal are fixed to this large club",
-    "translation": "某种野生动物的巨大爪子固定在这根大棒上",
-    "stage": 5,
+    "translation": "这条大棒上绑着某种野生动物的巨爪。",
+    "stage": 1,
     "context": "this.m.Description = 'The massive claws of some wild animal are fixed to this large club'"
   },
   {

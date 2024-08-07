@@ -43,8 +43,8 @@
     "ID": 293419488,
     "key": "%[/color] chance to hit",
     "original": "%[/color] chance to hit",
-    "translation": "%[/color] 命中几率",
-    "stage": 5,
+    "translation": "%[/color]",
+    "stage": 1,
     "context": "text = 'Has an additional [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.m.AdditionalAccuracy + '%[/color] chance to hit'"
   },
   {
@@ -75,8 +75,8 @@
     "ID": 293419492,
     "key": "Has an additional [color=",
     "original": "Has an additional [color=",
-    "translation": "有额外的[color=",
-    "stage": 5,
+    "translation": "命中率提高 [color=",
+    "stage": 1,
     "context": "text = 'Has an additional [color=' + this.Const.UI.Color.PositiveValue + ']+' + this.m.AdditionalAccuracy + '%[/color] chance to hit'"
   },
   {
@@ -91,40 +91,40 @@
     "ID": 293419494,
     "key": "[/color] uses",
     "original": "[/color] uses",
-    "translation": "[/color] 发",
-    "stage": 5,
+    "translation": "[/color] 发弹药",
+    "stage": 1,
     "context": "text = 'Contains ammo for [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] uses'"
   },
   {
     "ID": 293419495,
     "key": "[/color] tiles",
     "original": "[/color] tiles",
-    "translation": "[/color] 格",
-    "stage": 5,
+    "translation": "[/color] 格远",
+    "stage": 1,
     "context": "text = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getRangeMax() + '[/color] tiles'"
   },
   {
     "ID": 293419496,
     "key": "%[/color] effective against armor",
     "original": "%[/color] effective against armor",
-    "translation": "%[/color] 效果作用于护甲",
-    "stage": 5,
+    "translation": "%[/color] 破甲效果",
+    "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.DamageValue + ']' + this.Math.floor(this.m.ArmorDamageMult * 100) + '%[/color] effective against armor'"
   },
   {
     "ID": 293419497,
     "key": "Contains ammo for [color=",
     "original": "Contains ammo for [color=",
-    "translation": "包含弹药[color=",
-    "stage": 5,
+    "translation": "装有 [color=",
+    "stage": 1,
     "context": "text = 'Contains ammo for [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] uses'"
   },
   {
     "ID": 293419498,
     "key": "Range of [color=",
     "original": "Range of [color=",
-    "translation": "使用范围为[color=",
-    "stage": 5,
+    "translation": "攻击范围有 [color=",
+    "stage": 1,
     "context": "text = 'Range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getRangeMax() + '[/color] tiles'"
   },
   {
@@ -147,8 +147,8 @@
     "ID": 293419501,
     "key": "Shield damage of [color=",
     "original": "Shield damage of [color=",
-    "translation": "对盾牌的伤害 [color=",
-    "stage": 5,
+    "translation": "破盾伤害 [color=",
+    "stage": 1,
     "context": "text = 'Shield damage of [color=' + this.Const.UI.Color.DamageValue + ']' + this.m.ShieldDamage + '[/color]'"
   }
 ]

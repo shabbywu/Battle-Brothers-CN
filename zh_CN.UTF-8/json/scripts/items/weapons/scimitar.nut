@@ -11,7 +11,7 @@
     "ID": 293419422,
     "key": "An exotic curved sword from the south that is excellent for slashing, but not for thrusting or penetrating armor.",
     "original": "An exotic curved sword from the south that is excellent for slashing, but not for thrusting or penetrating armor.",
-    "translation": "南方的一种奇特的弯曲剑，非常适合砍，但不适合戳刺或穿透盔甲。",
+    "translation": "一把来自南方的异域弯刃剑，非常适合挥砍，但刺击和穿甲能力稍逊。",
     "stage": 1,
     "context": "this.m.Description = 'An exotic curved sword from the south that is excellent for slashing, but not for thrusting or penetrating armor.'"
   },

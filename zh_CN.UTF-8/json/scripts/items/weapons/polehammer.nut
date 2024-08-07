@@ -3,7 +3,7 @@
     "ID": 293419412,
     "key": "A warhammer mounted on a long pole, used against armored targets over some distance and from behind the frontline.",
     "original": "A warhammer mounted on a long pole, used against armored targets over some distance and from behind the frontline.",
-    "translation": "一把安装在长柄上的战锤，用于对付重甲单位和前排后面的敌人。",
+    "translation": "一把安装在长柄上的战锤，可以从后排远远地对重甲敌人进行打击。",
     "stage": 1,
     "context": "this.m.Description = 'A warhammer mounted on a long pole, used against armored targets over some distance and from behind the frontline.'"
   },

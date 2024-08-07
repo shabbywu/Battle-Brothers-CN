@@ -3,7 +3,7 @@
     "ID": 293419409,
     "key": "An agricultural tool with a long handle and thick pointed tines used to lift and pitch straw. As an improvised weapon it can be used to keep an opponent at bay, but it won't inflict the deadliest of injuries and will perform poorly against armor.",
     "original": "An agricultural tool with a long handle and thick pointed tines used to lift and pitch straw. As an improvised weapon it can be used to keep an opponent at bay, but it won't inflict the deadliest of injuries and will perform poorly against armor.",
-    "translation": "一种有着粗尖齿的长柄农具，用于挑起和整理稻草。作为一种临时武器它可以用来与敌人保持距离，但它难以造成致命的伤害，而且对盔甲效果很差。",
+    "translation": "一杆粗尖分叉，用于挑起和整理稻草的长柄农具。作为一种临时武器，它可以使敌人无法近身，却难以造成致命伤害，对盔甲效果也很差。",
     "stage": 1,
     "context": "this.m.Description = \"An agricultural tool with a long handle and thick pointed tines used to lift and pitch straw. As an improvised weapon it can be used to keep an opponent at bay, but it won't inflict the deadliest of injuries and will perform poorly against armor.\""
   },

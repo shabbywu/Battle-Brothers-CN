@@ -1899,7 +1899,7 @@
     "ID": 293405873,
     "key": "Master fighting with spears and keeping the enemy at bay. Skills build up [color=",
     "original": "Master fighting with spears and keeping the enemy at bay. Skills build up [color=",
-    "translation": "精通长矛，御敌于外。矛技能积累的疲劳值减少 [color=",
+    "translation": "精通长矛，拒敌于外。矛技能积累的疲劳值减少 [color=",
     "stage": 1,
     "context": "SpecSpear = 'Master fighting with spears and keeping the enemy at bay. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nSpearwall is no longer disabled once an opponent manages to overcome it. Instead, Spearwall can still be used and continues to give free attacks on any further opponent attempting to enter the Zone of Control.\n\nThe Spetum and Warfork no longer have a penalty for attacking targets directly adjacent.'"
   },
@@ -4931,7 +4931,7 @@
     "ID": 293406252,
     "key": "Master polearms and keeping the enemy at bay. Skills build up [color=",
     "original": "Master polearms and keeping the enemy at bay. Skills build up [color=",
-    "translation": "精通长柄，御敌于外。长柄技能积累的疲劳值减少 [color=",
+    "translation": "精通长柄，拒敌于外。长柄技能积累的疲劳值减少 [color=",
     "stage": 1,
     "context": "SpecPolearm = 'Master polearms and keeping the enemy at bay. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nPolearm skills have their Action Point cost reduced to [color=' + this.Const.UI.Color.NegativeValue + ']5[/color], and no longer have a penalty for attacking targets directly adjacent.'"
   },

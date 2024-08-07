@@ -3,8 +3,8 @@
     "ID": 293420398,
     "key": "]20[/color] damage that ignores armor to up to three targets",
     "original": "]20[/color] damage that ignores armor to up to three targets",
-    "translation": "]20[/color] 无视护甲的伤害",
-    "stage": 5,
+    "translation": "]20[/color] 点无视护甲的伤害",
+    "stage": 1,
     "context": "text = 'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
   },
   {
@@ -59,8 +59,8 @@
     "ID": 293420405,
     "key": "Inflicts an additional [color=",
     "original": "Inflicts an additional [color=",
-    "translation": "对最多三个目标造成额外 [color=",
-    "stage": 5,
+    "translation": "额外对最多三个目标造成 [color=",
+    "stage": 1,
     "context": "text = 'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
   }
 ]

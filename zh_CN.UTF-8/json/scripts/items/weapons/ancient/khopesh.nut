@@ -11,7 +11,7 @@
     "ID": 293419036,
     "key": "An ancient curved sword on a long handle with strange ornamentations. Its shape makes it particularly effective against armor.",
     "original": "An ancient curved sword on a long handle with strange ornamentations. Its shape makes it particularly effective against armor.",
-    "translation": "一柄古老的，带有奇怪装饰的长柄弯刀。它的形状使得它对抗护甲特别有效。",
+    "translation": "一柄带有奇特装饰的古代长把弯刀。它的形状使其对护甲特别有效。",
     "stage": 1,
     "context": "this.m.Description = 'An ancient curved sword on a long handle with strange ornamentations. Its shape makes it particularly effective against armor.'"
   },

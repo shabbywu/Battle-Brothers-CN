@@ -3,7 +3,7 @@
     "ID": 293419453,
     "key": "A large and heavy metal flail that requires two hands to use. Useful to strike over or around shield cover.",
     "original": "A large and heavy metal flail that requires two hands to use. Useful to strike over or around shield cover.",
-    "translation": "一种需要双手才能使用的大型重金属链枷。适合绕过盾牌打击敌人。",
+    "translation": "一种需要双手使用，又重又大的金属链枷。适合绕过盾牌打击敌人。",
     "stage": 1,
     "context": "this.m.Description = 'A large and heavy metal flail that requires two hands to use. Useful to strike over or around shield cover.'"
   },

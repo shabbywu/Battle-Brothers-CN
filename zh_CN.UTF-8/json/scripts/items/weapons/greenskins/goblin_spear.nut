@@ -19,8 +19,8 @@
     "ID": 293419156,
     "key": "A long shaft with a sharp metal tip at the top.",
     "original": "A long shaft with a sharp metal tip at the top.",
-    "translation": "一个拥有锋利金属尖头的长杆。",
-    "stage": 5,
+    "translation": "一条装有尖利金属矛尖的长杆子。",
+    "stage": 1,
     "context": "this.m.Description = 'A long shaft with a sharp metal tip at the top.'"
   }
 ]

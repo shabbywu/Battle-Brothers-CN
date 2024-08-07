@@ -19,8 +19,8 @@
     "ID": 293419052,
     "key": "A massive, rusty hybrid of hammer and axe. Due to its blunt edge more of the former than the latter.",
     "original": "A massive, rusty hybrid of hammer and axe. Due to its blunt edge more of the former than the latter.",
-    "translation": "一柄大且生锈的锤子和斧头的混合体。 由于其不锋利的刀锋，使其更趋向于前者更多于后者。",
-    "stage": 5,
+    "translation": "一把生锈的大块头锤斧混合体。鉴于其锋利程度，称为前者更为合适。",
+    "stage": 1,
     "context": "this.m.Description = 'A massive, rusty hybrid of hammer and axe. Due to its blunt edge more of the former than the latter.'"
   }
 ]

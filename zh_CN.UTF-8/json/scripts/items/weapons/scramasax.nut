@@ -11,16 +11,16 @@
     "ID": 293419425,
     "key": "Scramasax",
     "original": "Scramasax",
-    "translation": "撒克逊大刀",
-    "stage": 5,
+    "translation": "撒克逊短刀",
+    "stage": 1,
     "context": "this.m.Name = 'Scramasax'"
   },
   {
     "ID": 293419426,
     "key": "A long and heavy knife with a one sided blade used more for hacking than slashing.",
     "original": "A long and heavy knife with a one sided blade used more for hacking than slashing.",
-    "translation": "一把长而重的单刃刀，多用于挥砍而不是削划。",
-    "stage": 5,
+    "translation": "一把长而重的单刃刀，多用于劈剁而非斩击。",
+    "stage": 1,
     "context": "this.m.Description = 'A long and heavy knife with a one sided blade used more for hacking than slashing.'"
   }
 ]

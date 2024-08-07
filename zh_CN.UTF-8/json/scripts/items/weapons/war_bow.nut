@@ -19,7 +19,7 @@
     "ID": 293419473,
     "key": "A long bow with massive pulling power. Distinctively designed for battle.",
     "original": "A long bow with massive pulling power. Distinctively designed for battle.",
-    "translation": "一张有着巨大拉力的长弓，专为战斗而设计。",
+    "translation": "一张专为战斗设计，拉力巨大的长弓。",
     "stage": 1,
     "context": "this.m.Description = 'A long bow with massive pulling power. Distinctively designed for battle.'"
   }

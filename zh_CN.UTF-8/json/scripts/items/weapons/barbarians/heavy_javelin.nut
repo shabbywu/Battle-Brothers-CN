@@ -27,8 +27,8 @@
     "ID": 293419066,
     "key": "A set of heavy, rugged-looking javelins. Harder to throw and hit with, but more impactful.",
     "original": "A set of heavy, rugged-looking javelins. Harder to throw and hit with, but more impactful.",
-    "translation": "一组看起来沉重且坚固的标枪。 投掷困难且难以命中，但伤害很高。",
-    "stage": 5,
+    "translation": "一捆沉重而粗犷的标枪。投掷和瞄准更难，却更富冲击力。",
+    "stage": 1,
     "context": "this.m.Description = 'A set of heavy, rugged-looking javelins. Harder to throw and hit with, but more impactful.'"
   }
 ]

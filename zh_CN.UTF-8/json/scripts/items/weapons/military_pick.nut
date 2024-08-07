@@ -3,8 +3,8 @@
     "ID": 293419237,
     "key": "A wooden shaft with a long and pointy metal head designed to puncture the sturdiest of armors.",
     "original": "A wooden shaft with a long and pointy metal head designed to puncture the sturdiest of armors.",
-    "translation": "一个木柄上安装有长而尖锐的金属头，用来凿穿最坚固的盔甲。",
-    "stage": 5,
+    "translation": "装在木柄上的长尖金属锤头，用来凿穿最坚固的盔甲。",
+    "stage": 1,
     "context": "this.m.Description = 'A wooden shaft with a long and pointy metal head designed to puncture the sturdiest of armors.'"
   },
   {

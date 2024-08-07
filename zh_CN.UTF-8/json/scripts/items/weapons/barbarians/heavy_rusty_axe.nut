@@ -19,8 +19,8 @@
     "ID": 293419069,
     "key": "This heavy rusty axe works more by its weight than its sharpness, but it gets the job done nevertheless.",
     "original": "This heavy rusty axe works more by its weight than its sharpness, but it gets the job done nevertheless.",
-    "translation": "这把生锈的重型斧头更多的依赖于它的重量而不是其锋利度，但不管怎样还是能用的。",
-    "stage": 5,
+    "translation": "这把生锈重斧更多是仰仗其重量而非锋利程度，但不管怎样都能把事情搞定。",
+    "stage": 1,
     "context": "this.m.Description = 'This heavy rusty axe works more by its weight than its sharpness, but it gets the job done nevertheless.'"
   }
 ]

@@ -11,7 +11,7 @@
     "ID": 293419158,
     "key": "Small and heavy iron balls with metal spikes to be hurled at a target.",
     "original": "Small and heavy iron balls with metal spikes to be hurled at a target.",
-    "translation": "有金属钉的小而重的铁球，可用于投掷。",
+    "translation": "用于投向目标的沉重带刺小铁球。",
     "stage": 1,
     "context": "this.m.Description = 'Small and heavy iron balls with metal spikes to be hurled at a target.'"
   },

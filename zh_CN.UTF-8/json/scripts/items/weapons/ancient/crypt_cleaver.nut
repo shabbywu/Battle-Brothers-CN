@@ -19,7 +19,7 @@
     "ID": 293419031,
     "key": "A heavy blade with an oddly curved end, combining the qualities of sword and axe into a devastating two-handed cleaver.",
     "original": "A heavy blade with an oddly curved end, combining the qualities of sword and axe into a devastating two-handed cleaver.",
-    "translation": "一种末端奇怪弯曲的重型武器，将剑和斧头的特性结合形成一把强力双手砍刀。",
+    "translation": "一把刃尖呈奇特弧形，兼有剑和斧头特性的强力双手砍刀。",
     "stage": 1,
     "context": "this.m.Description = 'A heavy blade with an oddly curved end, combining the qualities of sword and axe into a devastating two-handed cleaver.'"
   }

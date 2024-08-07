@@ -11,7 +11,7 @@
     "ID": 293419407,
     "key": "A long pike used for thrusting over some distance and keeping the enemy at bay.",
     "original": "A long pike used for thrusting over some distance and keeping the enemy at bay.",
-    "translation": "一根长矛，可以在一定距离外戳刺，使敌人无法靠近。",
+    "translation": "一杆长枪，可以远远地戳击敌人，使之无法近身。",
     "stage": 1,
     "context": "this.m.Description = 'A long pike used for thrusting over some distance and keeping the enemy at bay.'"
   },
@@ -19,7 +19,7 @@
     "ID": 293419408,
     "key": "Pike",
     "original": "Pike",
-    "translation": "矛",
+    "translation": "长枪",
     "stage": 1,
     "context": "this.m.Name = 'Pike'"
   }

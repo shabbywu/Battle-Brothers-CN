@@ -19,8 +19,8 @@
     "ID": 293419174,
     "key": "A massive iron chain with a spiked full metal head at the end. Too heavy to be used effectively by the average human.",
     "original": "A massive iron chain with a spiked full metal head at the end. Too heavy to be used effectively by the average human.",
-    "translation": "末端有附尖刺全金属锤头的大铁链，太沉重以至于普通人无法有效使用。",
-    "stage": 5,
+    "translation": "末端连着带尖全金属锤头的大铁链，沉到了一般人用不好的地步。",
+    "stage": 1,
     "context": "this.m.Description = 'A massive iron chain with a spiked full metal head at the end. Too heavy to be used effectively by the average human.'"
   }
 ]

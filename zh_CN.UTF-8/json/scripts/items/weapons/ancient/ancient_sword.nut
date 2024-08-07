@@ -11,16 +11,16 @@
     "ID": 293419018,
     "key": "A straight blade of ancient origin. The grip is covered with strange ornamentations, which may make it valuable to historians and other scholarly-minded individuals.",
     "original": "A straight blade of ancient origin. The grip is covered with strange ornamentations, which may make it valuable to historians and other scholarly-minded individuals.",
-    "translation": "一把起源于古代的直刃。握把上覆盖着奇怪的装饰物，这可能使它对历史学家和其他有学术头脑的人有价值。",
-    "stage": 5,
+    "translation": "一把源于古代的直剑。剑柄上满是奇异的装饰，可能对历史学家等研究者有价值。",
+    "stage": 1,
     "context": "this.m.Description = 'A straight blade of ancient origin. The grip is covered with strange ornamentations, which may make it valuable to historians and other scholarly-minded individuals.'"
   },
   {
     "ID": 293419019,
     "key": "Ancient Sword",
     "original": "Ancient Sword",
-    "translation": "古代刃剑",
-    "stage": 5,
+    "translation": "古代剑",
+    "stage": 1,
     "context": "this.m.Name = 'Ancient Sword'"
   }
 ]

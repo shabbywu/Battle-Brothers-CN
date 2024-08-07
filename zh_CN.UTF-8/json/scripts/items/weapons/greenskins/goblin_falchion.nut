@@ -19,7 +19,7 @@
     "ID": 293419144,
     "key": "Cruel Falchion",
     "original": "Cruel Falchion",
-    "translation": "残暴弯形剑",
+    "translation": "恶毒弯刃剑",
     "stage": 1,
     "context": "this.m.Name = 'Cruel Falchion'"
   }
