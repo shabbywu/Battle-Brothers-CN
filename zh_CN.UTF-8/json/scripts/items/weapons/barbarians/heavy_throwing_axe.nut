@@ -3,8 +3,8 @@
     "ID": 293419070,
     "key": "Heavy and unwieldy throwing axes used by northern barbarians. Difficult to throw and hit with, but deadly.",
     "original": "Heavy and unwieldy throwing axes used by northern barbarians. Difficult to throw and hit with, but deadly.",
-    "translation": "北方野蛮人使用的笨重投斧。 投掷困难且难以命中，但十分致命。",
-    "stage": 5,
+    "translation": "北方野蛮人使用的笨重投斧。投掷和瞄准更难，却相当致命。",
+    "stage": 1,
     "context": "this.m.Description = 'Heavy and unwieldy throwing axes used by northern barbarians. Difficult to throw and hit with, but deadly.'"
   },
   {

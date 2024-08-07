@@ -3,7 +3,7 @@
     "ID": 293419365,
     "key": "A spear of southern design with an explosive charge that will spew fire over two tiles when ignited. The charge is only usable once per battle, but automatically refilled after battle.",
     "original": "A spear of southern design with an explosive charge that will spew fire over two tiles when ignited. The charge is only usable once per battle, but automatically refilled after battle.",
-    "translation": "一种南方设计的长矛，装有火药，点燃后会在两个格子距离内喷火。每次战斗只能使用一次，但战斗结束后自动补充。",
+    "translation": "一柄南方设计的矛，上装有一包火药，能在点燃后喷火，火焰能喷出两格远。药包在每场战斗只能使用一次，但会在战斗后自动补充。",
     "stage": 1,
     "context": "this.m.Description = 'A spear of southern design with an explosive charge that will spew fire over two tiles when ignited. The charge is only usable once per battle, but automatically refilled after battle.'"
   },

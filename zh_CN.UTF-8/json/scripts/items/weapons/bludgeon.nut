@@ -11,7 +11,7 @@
     "ID": 293419096,
     "key": "A spiked metal head on a wooden shaft, crude but effective in bashing in heads.",
     "original": "A spiked metal head on a wooden shaft, crude but effective in bashing in heads.",
-    "translation": "装在木制手柄上的带尖金属锤头，粗枝大叶但砸头很管用。",
+    "translation": "装在木制手柄上的带尖金属杖头，粗枝大叶但砸头很管用。",
     "stage": 1,
     "context": "this.m.Description = 'A spiked metal head on a wooden shaft, crude but effective in bashing in heads.'"
   },

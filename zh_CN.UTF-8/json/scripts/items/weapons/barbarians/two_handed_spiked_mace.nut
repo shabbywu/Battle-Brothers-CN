@@ -11,8 +11,8 @@
     "ID": 293419084,
     "key": "A huge club fitted with a skull for good measure. Receiving a blow from this weapon will leave anyone dazed and gasping for air, no matter their armor.",
     "original": "A huge club fitted with a skull for good measure. Receiving a blow from this weapon will leave anyone dazed and gasping for air, no matter their armor.",
-    "translation": "一个装饰有人头骨的大棒子。无论敌人穿什么样的盔甲，受到这种武器的打击会让其神志不清，陷入茫然。",
-    "stage": 5,
+    "translation": "一把饰有人头骨的大棒。不管穿了什么盔甲，挨上一下都会神志不清，陷入茫然。",
+    "stage": 1,
     "context": "this.m.Description = 'A huge club fitted with a skull for good measure. Receiving a blow from this weapon will leave anyone dazed and gasping for air, no matter their armor.'"
   },
   {

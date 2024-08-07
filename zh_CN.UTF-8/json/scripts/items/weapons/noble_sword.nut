@@ -3,8 +3,8 @@
     "ID": 293419359,
     "key": "A well-balanced long sword with a double-edged blade.",
     "original": "A well-balanced long sword with a double-edged blade.",
-    "translation": "一把平衡性良好的双锋利刃。",
-    "stage": 5,
+    "translation": "一把平衡良好的双刃长剑。",
+    "stage": 1,
     "context": "this.m.Description = 'A well-balanced long sword with a double-edged blade.'"
   },
   {

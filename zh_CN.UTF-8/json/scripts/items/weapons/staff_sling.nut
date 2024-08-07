@@ -3,7 +3,7 @@
     "ID": 293419439,
     "key": "A leather sling on a staff, used to hurl stones at the enemy. With stones abundant everywhere, it will never run out of ammunition.",
     "original": "A leather sling on a staff, used to hurl stones at the enemy. With stones abundant everywhere, it will never run out of ammunition.",
-    "translation": "一种系在手杖上的皮制投石器，用来向敌人投掷石头。由于石头到处都是，弹药永远不会用完。",
+    "translation": "一条系在长棍上的皮制投石索。鉴于石头遍地都是，永远都不会缺弹药。",
     "stage": 1,
     "context": "this.m.Description = 'A leather sling on a staff, used to hurl stones at the enemy. With stones abundant everywhere, it will never run out of ammunition.'"
   },

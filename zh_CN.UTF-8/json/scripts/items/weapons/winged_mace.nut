@@ -3,7 +3,7 @@
     "ID": 293419505,
     "key": "Winged Mace",
     "original": "Winged Mace",
-    "translation": "飞翼杖",
+    "translation": "页锤",
     "stage": 1,
     "context": "this.m.Name = 'Winged Mace'"
   },
@@ -19,8 +19,8 @@
     "ID": 293419507,
     "key": "A full-metal mace with a short shaft and attached blades.",
     "original": "A full-metal mace with a short shaft and attached blades.",
-    "translation": "一种全金属的棒槌，上面附有锋刃。",
-    "stage": 5,
+    "translation": "一把附有凸缘的短柄全金属骨朵。",
+    "stage": 1,
     "context": "this.m.Description = 'A full-metal mace with a short shaft and attached blades.'"
   }
 ]

@@ -3,15 +3,15 @@
     "ID": 293419020,
     "key": "Ancient Bladed Pike",
     "original": "Ancient Bladed Pike",
-    "translation": "古代矛",
-    "stage": 5,
+    "translation": "古代刃枪",
+    "stage": 1,
     "context": "this.m.Name = 'Ancient Bladed Pike'"
   },
   {
     "ID": 293419021,
     "key": "A long, ancient pike used to attack over some distance and keeping the enemy at bay.",
     "original": "A long, ancient pike used to attack over some distance and keeping the enemy at bay.",
-    "translation": "一杆长而古老的长枪，用于在一定距离外攻击并且与敌人保持距离。",
+    "translation": "一杆古代长枪，可以远远地戳击敌人，使之无法近身。",
     "stage": 1,
     "context": "this.m.Description = 'A long, ancient pike used to attack over some distance and keeping the enemy at bay.'"
   },

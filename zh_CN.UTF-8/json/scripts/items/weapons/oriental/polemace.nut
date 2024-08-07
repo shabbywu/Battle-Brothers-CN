@@ -3,7 +3,7 @@
     "ID": 293419385,
     "key": "A long mace that can be used to deliver stunning blows over a distance.",
     "original": "A long mace that can be used to deliver stunning blows over a distance.",
-    "translation": "一种长棍，可以用来在一定距离外击晕对手。",
+    "translation": "一把用于从远处击晕敌人的长把骨朵。",
     "stage": 1,
     "context": "this.m.Description = 'A long mace that can be used to deliver stunning blows over a distance.'"
   },

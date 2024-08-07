@@ -3,7 +3,7 @@
     "ID": 293419373,
     "key": "A heavy winged mace commonly used by well equipped soldiers of the southern reaches.",
     "original": "A heavy winged mace commonly used by well equipped soldiers of the southern reaches.",
-    "translation": "一根南方装备精良的士兵常用的重型狼牙棒。",
+    "translation": "一把南方精兵常用的重型凸缘杖。",
     "stage": 1,
     "context": "this.m.Description = 'A heavy winged mace commonly used by well equipped soldiers of the southern reaches.'"
   },
@@ -19,8 +19,8 @@
     "ID": 293419375,
     "key": "Heavy Southern Mace",
     "original": "Heavy Southern Mace",
-    "translation": "重型南方狼牙棒",
-    "stage": 5,
+    "translation": "重型南方杖",
+    "stage": 1,
     "context": "this.m.Name = 'Heavy Southern Mace'"
   }
 ]

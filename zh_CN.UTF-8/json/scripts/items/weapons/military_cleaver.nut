@@ -19,8 +19,8 @@
     "ID": 293419236,
     "key": "A large, sharpened metal blade designed to deal devastating blows.",
     "original": "A large, sharpened metal blade designed to deal devastating blows.",
-    "translation": "一把用来造成毁灭性打击的大而锋利的金属刀。",
-    "stage": 5,
+    "translation": "一把用来造成毁灭性打击的大型锋利金属刀。",
+    "stage": 1,
     "context": "this.m.Description = 'A large, sharpened metal blade designed to deal devastating blows.'"
   }
 ]

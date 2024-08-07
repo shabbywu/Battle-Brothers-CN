@@ -19,7 +19,7 @@
     "ID": 293419482,
     "key": "A short iron warhammer that easily batters through armor plates.",
     "original": "A short iron warhammer that easily batters through armor plates.",
-    "translation": "一把短柄铁战锤，能轻易地击穿盔甲板。",
+    "translation": "一把短柄铁战锤，能轻易地击穿盔甲。",
     "stage": 1,
     "context": "this.m.Description = 'A short iron warhammer that easily batters through armor plates.'"
   }

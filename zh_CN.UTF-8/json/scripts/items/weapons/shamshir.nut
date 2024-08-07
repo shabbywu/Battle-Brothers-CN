@@ -19,7 +19,7 @@
     "ID": 293419429,
     "key": "This well-crafted exotic blade from the south has a curved edge that allows it to cut deep wounds with ease, but makes it less suited for thrusting and penetrating armor. A rare find in these lands.",
     "original": "This well-crafted exotic blade from the south has a curved edge that allows it to cut deep wounds with ease, but makes it less suited for thrusting and penetrating armor. A rare find in these lands.",
-    "translation": "这把来自南方异域的精制的弯刀，它有一个弯曲的刀刃可以轻松地切出深深的伤口，但不适合插入和穿透盔甲。 在这片陆地上很稀有。",
+    "translation": "这把南方异域精制弯刀的弯曲刀刃，牺牲了一些刺击和穿甲，换来了割出深伤口的能力。是件这片大陆上少有的武器。",
     "stage": 1,
     "context": "this.m.Description = 'This well-crafted exotic blade from the south has a curved edge that allows it to cut deep wounds with ease, but makes it less suited for thrusting and penetrating armor. A rare find in these lands.'"
   }

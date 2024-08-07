@@ -19,7 +19,7 @@
     "ID": 293419034,
     "key": "A short and heavy blade with a curved edge designed for hacking and ripping bleeding wounds. Dulled over the years.",
     "original": "A short and heavy blade with a curved edge designed for hacking and ripping bleeding wounds. Dulled over the years.",
-    "translation": "一种短而重的刀，刀刃弯曲用来切出流血的伤口。岁月太久变钝了。",
+    "translation": "一把带有弯曲刀刃，用来撕扯出流血伤口的重刃短刀。岁月带走了它的光泽。",
     "stage": 1,
     "context": "this.m.Description = 'A short and heavy blade with a curved edge designed for hacking and ripping bleeding wounds. Dulled over the years.'"
   }

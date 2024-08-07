@@ -3,7 +3,7 @@
     "ID": 293419442,
     "key": "Three separate striking heads attached to a handle by chains. Each head can hit or miss a target separately and strike over or around shield cover.",
     "original": "Three separate striking heads attached to a handle by chains. Each head can hit or miss a target separately and strike over or around shield cover.",
-    "translation": "分别用链条连接在手柄上的三个独立的锤头。每个头可以分别击中或或击空一个目标，能绕过盾牌掩护进行打击。",
+    "translation": "三个分体锤头不直接连接，而是通过锁链固定在了手柄上。每个锤头的命中分开，适合绕过盾牌打击敌人。",
     "stage": 1,
     "context": "this.m.Description = 'Three separate striking heads attached to a handle by chains. Each head can hit or miss a target separately and strike over or around shield cover.'"
   },

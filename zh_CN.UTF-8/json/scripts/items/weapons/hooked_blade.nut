@@ -11,7 +11,7 @@
     "ID": 293419196,
     "key": "An agricultural tool adapted for use in battle, this polearm has a hooked blade for striking over some distance and pulling in targets.",
     "original": "An agricultural tool adapted for use in battle, this polearm has a hooked blade for striking over some distance and pulling in targets.",
-    "translation": "一把为战斗改装的农具，既有用于远距离挥击的刃，又有用于拉近目标的钩。",
+    "translation": "一把改装成武器的农具，既有用于远距离挥击的刃，又有用于拉近目标的钩。",
     "stage": 1,
     "context": "this.m.Description = 'An agricultural tool adapted for use in battle, this polearm has a hooked blade for striking over some distance and pulling in targets.'"
   },

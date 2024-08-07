@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-07-29T08:50:33Z",
-        "sha256": "e4224a1c58a615538a4d8587bd0403b34bd1b9dd02c1fe2d91694e2e85460036"
+        "modifiedAt": "2024-08-05T01:39:30Z",
+        "sha256": "1da6850374d7fa238c60f90abce35a2acf353caf2aa6fc5e3411d6d7b07febe3"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -25748,14 +25748,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:13.49Z",
         "updatedAt": "2023-06-26T05:48:58.423Z",
-        "modifiedAt": "2023-06-26T05:48:58Z",
-        "sha256": "4dec6a0cea4ca2a9c2b4b9a7700fb181d5d25013494b2d211e14a8d51a1337fc"
+        "modifiedAt": "2024-08-06T07:21:00Z",
+        "sha256": "5939cfacebf3a52df67bf9b920466ef201cbbd52c70ce72b73bc6260476f8951"
     },
     "scripts/items/weapons/ancient/ancient_sword.json": {
         "id": 919777,
@@ -25766,14 +25766,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:13.83Z",
         "updatedAt": "2023-06-26T05:48:58.488Z",
-        "modifiedAt": "2024-01-09T07:16:36Z",
-        "sha256": "40765d59898980911d5e342a53f0d34351c9bc3c32da2a1001a399fe2e25ee02"
+        "modifiedAt": "2024-08-06T07:22:12Z",
+        "sha256": "c758f2d18067840bbd66da6d7f887047c9de2a37daa7548ffff31dd54c0dad68"
     },
     "scripts/items/weapons/ancient/bladed_pike.json": {
         "id": 919778,
@@ -25784,14 +25784,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:14.174Z",
         "updatedAt": "2023-06-26T05:48:58.561Z",
-        "modifiedAt": "2023-06-26T05:48:59Z",
-        "sha256": "4cd29db7dc9ffa61105b8d1210822c65b0b6a4003907dea1499bf5dfc93a0c08"
+        "modifiedAt": "2024-08-05T08:13:22Z",
+        "sha256": "16d81cf7e4269158b48fa2429fef2e894ddf1fd6fd7854750c5325359c891e17"
     },
     "scripts/items/weapons/ancient/broken_ancient_sword.json": {
         "id": 919779,
@@ -25802,14 +25802,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:14.506Z",
         "updatedAt": "2023-06-26T05:48:58.62Z",
-        "modifiedAt": "2024-01-09T07:16:36Z",
-        "sha256": "8972a31eb2db39755be608b2ba889b44a11f5f34a86029d9fb24abe2fcf0409a"
+        "modifiedAt": "2024-08-05T08:15:38Z",
+        "sha256": "14d2bdee275d91b4439f7396e0bc7338e212153ad0f6b15c334a5b8bee47e766"
     },
     "scripts/items/weapons/ancient/broken_bladed_pike.json": {
         "id": 919780,
@@ -25820,14 +25820,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:14.847Z",
         "updatedAt": "2023-06-26T05:48:58.691Z",
-        "modifiedAt": "2023-06-26T05:48:59Z",
-        "sha256": "ee6ef8aefb177e4e8366c1151d110d17c7e44afd4048ca41910eabc95f3ce512"
+        "modifiedAt": "2024-08-05T08:17:42Z",
+        "sha256": "f942417224c186e0038e7f515b1db35d2cb78b3866624755df8136f030691a52"
     },
     "scripts/items/weapons/ancient/crypt_cleaver.json": {
         "id": 919781,
@@ -25844,8 +25844,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:27:15.176Z",
         "updatedAt": "2023-06-26T05:48:58.749Z",
-        "modifiedAt": "2024-01-09T07:22:46Z",
-        "sha256": "7a050bea553b4ee4b801dd0119ffc896ef4681236c4737eba9ac1190cc3564cf"
+        "modifiedAt": "2024-08-05T08:39:50Z",
+        "sha256": "cf06b57b38874c7ece487764330560852d1831fb1fb047937275ee3411cadad9"
     },
     "scripts/items/weapons/ancient/falx.json": {
         "id": 919782,
@@ -25862,8 +25862,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:27:15.506Z",
         "updatedAt": "2023-06-26T05:48:58.823Z",
-        "modifiedAt": "2024-01-09T07:20:42Z",
-        "sha256": "d4d3ab3a3d4d399f56681a34c70814fa1db4797b159f349337e57e76a2a256ea"
+        "modifiedAt": "2024-08-05T08:38:38Z",
+        "sha256": "aa6adc2f00a39668eae75f3d85a46efa383b4109ffad8f198bf456ecec9ce87d"
     },
     "scripts/items/weapons/ancient/khopesh.json": {
         "id": 919783,
@@ -25880,8 +25880,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:27:15.847Z",
         "updatedAt": "2023-06-26T05:48:58.877Z",
-        "modifiedAt": "2024-01-09T07:20:42Z",
-        "sha256": "10d726a04bb98e963cd23c916b34f0e75e8c255390791b82fceb4dbf79508437"
+        "modifiedAt": "2024-08-05T08:33:55Z",
+        "sha256": "8682e02248c5d650faaf860617e3cd63c7c118ed73d9c1e10c884ef9a93aded4"
     },
     "scripts/items/weapons/ancient/rhomphaia.json": {
         "id": 919784,
@@ -25898,8 +25898,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:27:16.2Z",
         "updatedAt": "2023-06-26T05:48:58.942Z",
-        "modifiedAt": "2024-01-09T07:16:43Z",
-        "sha256": "c48c732d27cc85a12ff98a7d138706244729d83cbbd3f84bf90c45a315c1a4df"
+        "modifiedAt": "2024-08-05T08:28:16Z",
+        "sha256": "59feccf77a6f168ca5c840a2eff82a5386b3d2210f9b48f0bfcebd296cbf270a"
     },
     "scripts/items/weapons/ancient/warscythe.json": {
         "id": 919785,
@@ -25916,8 +25916,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:27:16.55Z",
         "updatedAt": "2023-06-26T05:48:59Z",
-        "modifiedAt": "2023-06-26T05:48:59Z",
-        "sha256": "415dbe2dd4b291ba1a99dcc12a68a16b5a08b8cede36e7322db18b3bd3b9d5a2"
+        "modifiedAt": "2024-08-05T08:31:31Z",
+        "sha256": "56e6c30324c1191b797147ed965e281b3542b874fe6a039f9923f590933dc6c4"
     },
     "scripts/items/weapons/arming_sword.json": {
         "id": 919786,
@@ -25964,14 +25964,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:17.558Z",
         "updatedAt": "2023-06-26T05:48:59.175Z",
-        "modifiedAt": "2023-06-26T05:48:59Z",
-        "sha256": "2985560d98a81f90b38da9bec245c525b9a08b28718f6f24cdce1ee5ad4d73aa"
+        "modifiedAt": "2024-08-06T08:18:54Z",
+        "sha256": "55d77d17e99af87fc6659386709c14072cf942950a910a01fbb6adfb76123333"
     },
     "scripts/items/weapons/barbarians/blunt_cleaver.json": {
         "id": 919789,
@@ -25982,14 +25982,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:18.126Z",
         "updatedAt": "2023-06-26T05:48:59.228Z",
-        "modifiedAt": "2024-01-09T07:20:42Z",
-        "sha256": "3590b5a2b28591f2496ad4fbf86ebd79cf0a0b6d5419909fa9426d27a62ead3d"
+        "modifiedAt": "2024-08-06T08:19:28Z",
+        "sha256": "c5235843c1b7745f51709e0a7d775b231bcee02f15ddb017cac729bdf4ab6ae1"
     },
     "scripts/items/weapons/barbarians/claw_club.json": {
         "id": 919790,
@@ -26000,14 +26000,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:18.66Z",
         "updatedAt": "2023-06-26T05:48:59.281Z",
-        "modifiedAt": "2024-01-09T07:14:43Z",
-        "sha256": "e670359ee64acc0dcbe05771c888b72ae0528aaca8da2ac9e5ccdfc5b7fde35a"
+        "modifiedAt": "2024-08-06T08:35:47Z",
+        "sha256": "5acc95dec7d7eca30eea10ca1c737f86ba1a6eeabfc9bcf49b28fe18ad9c0560"
     },
     "scripts/items/weapons/barbarians/crude_axe.json": {
         "id": 919791,
@@ -26054,14 +26054,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:22.179Z",
         "updatedAt": "2023-06-26T05:48:59.455Z",
-        "modifiedAt": "2023-06-26T05:48:59Z",
-        "sha256": "a3a4f11cc4ed339c960d02b2edb29f69a3bd637e515fd0a08a0af575ea9e7309"
+        "modifiedAt": "2024-08-06T08:23:41Z",
+        "sha256": "ec903d63cf71c699d25c56af2f4890010f6ae73909f68ebb8a36a8a15b9dc464"
     },
     "scripts/items/weapons/barbarians/heavy_rusty_axe.json": {
         "id": 919794,
@@ -26072,14 +26072,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:22.526Z",
         "updatedAt": "2023-06-26T05:48:59.51Z",
-        "modifiedAt": "2024-01-09T07:22:56Z",
-        "sha256": "b8ff165c3ddfaf35b71ca05a0d96dfce604466e15f10457b89497052cf978311"
+        "modifiedAt": "2024-08-06T08:36:30Z",
+        "sha256": "1344e04c23f3df79bdbf5c5a22542f1accd2a08c9fcfd13ced759bbf2ce8f5b9"
     },
     "scripts/items/weapons/barbarians/heavy_throwing_axe.json": {
         "id": 919795,
@@ -26090,14 +26090,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:23.224Z",
         "updatedAt": "2023-06-26T05:48:59.568Z",
-        "modifiedAt": "2023-06-26T05:49:00Z",
-        "sha256": "a08f1f4f35b03fac30c480e6d43da0861876e3a9a65fb7dda42aeb2d1d995371"
+        "modifiedAt": "2024-08-06T08:27:23Z",
+        "sha256": "5476b725e213d6ea6bdb32acc99fa3e1bbb99e2bbedaf97ebd8c905cd0bad8e0"
     },
     "scripts/items/weapons/barbarians/rusty_warblade.json": {
         "id": 919796,
@@ -26108,14 +26108,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:23.729Z",
         "updatedAt": "2023-06-26T05:48:59.646Z",
-        "modifiedAt": "2024-01-09T07:22:46Z",
-        "sha256": "19c633946bca0370d89bc4ad7ea36ee65e0f0c3415732209ba68a0dbe3f5dd36"
+        "modifiedAt": "2024-08-06T08:28:54Z",
+        "sha256": "f22666390bfdab931e9c35593328655b0e031acec249b5b179c6141229c6fd44"
     },
     "scripts/items/weapons/barbarians/skull_hammer.json": {
         "id": 919797,
@@ -26126,14 +26126,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:24.228Z",
         "updatedAt": "2023-06-26T05:48:59.7Z",
-        "modifiedAt": "2024-01-09T07:15:45Z",
-        "sha256": "c767379b13c052f2ffe74f2d3be4d6be7e9888510754f32a9af26c3cb27c9eeb"
+        "modifiedAt": "2024-08-06T08:30:21Z",
+        "sha256": "5b447498620919f068b4fbc9788594647deb0e2290cd468cd088931f7650d20c"
     },
     "scripts/items/weapons/barbarians/thorned_whip.json": {
         "id": 919798,
@@ -26144,14 +26144,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:24.758Z",
         "updatedAt": "2023-06-26T05:48:59.758Z",
-        "modifiedAt": "2024-01-09T07:20:42Z",
-        "sha256": "0f804c83303e800438c9b8fcd48e7aa3eb1c5f384370bc621c54f2508612f635"
+        "modifiedAt": "2024-08-06T08:32:12Z",
+        "sha256": "ef7fa9da7fbebacba934b5da505e91dea3d26cab4a52d87df8f0721ec5db9601"
     },
     "scripts/items/weapons/barbarians/two_handed_spiked_mace.json": {
         "id": 919799,
@@ -26162,14 +26162,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:25.33Z",
         "updatedAt": "2023-06-26T05:48:59.817Z",
-        "modifiedAt": "2024-01-09T07:14:53Z",
-        "sha256": "8ca696138d021363005f128b377e08fb2d25d49b3dd9038fb2ec40703c5bfaea"
+        "modifiedAt": "2024-08-06T08:32:52Z",
+        "sha256": "2ef076d623f54555024e6feb9e4ab9214e24237a853e2884e21ea005fff1479d"
     },
     "scripts/items/weapons/bardiche.json": {
         "id": 919800,
@@ -26240,8 +26240,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:27:27.262Z",
         "updatedAt": "2023-06-26T05:49:00.051Z",
-        "modifiedAt": "2024-08-02T07:12:35Z",
-        "sha256": "ed4bf4cd7a04a2c4ba86a7eb07a7d3102b2003edc93c7faebf509f13744c5d7c"
+        "modifiedAt": "2024-08-05T07:13:15Z",
+        "sha256": "a731d6c8444ab1cb9e70d667adf47e02ec423beb9eacdbb1df530b38de6aa04e"
     },
     "scripts/items/weapons/boar_spear.json": {
         "id": 919804,
@@ -26402,8 +26402,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:27:31.14Z",
         "updatedAt": "2023-06-26T05:49:00.541Z",
-        "modifiedAt": "2024-08-02T08:09:18Z",
-        "sha256": "dcb3801e8272bcf47c75799cb2dad21c5a05c737829f3264d4622bb1b74ff6d2"
+        "modifiedAt": "2024-08-05T07:59:12Z",
+        "sha256": "a6d1d33a9c34f5338c55f31d13ab0b9d12f8939ecc9b3835e175be644003cf32"
     },
     "scripts/items/weapons/goedendag.json": {
         "id": 919813,
@@ -26492,8 +26492,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:27:32.904Z",
         "updatedAt": "2023-06-26T05:49:00.824Z",
-        "modifiedAt": "2024-08-02T07:40:41Z",
-        "sha256": "f2241cb6b4aec12d026f1d6aca92cd109721922020396fa2ebbd02264d669b88"
+        "modifiedAt": "2024-08-06T08:44:55Z",
+        "sha256": "85ab08a052798fcfbf8de8d9e622bd75902765d7bcb0c028746bd553bd195ef7"
     },
     "scripts/items/weapons/greenskins/goblin_falchion.json": {
         "id": 919818,
@@ -26510,8 +26510,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:27:33.237Z",
         "updatedAt": "2023-06-26T05:49:00.884Z",
-        "modifiedAt": "2024-01-09T07:16:36Z",
-        "sha256": "376b5bf8280a4515adde00ef4ce1394eb864505c4a8c201e936c83f23a8f6097"
+        "modifiedAt": "2024-08-06T08:47:55Z",
+        "sha256": "23c0f1c2d20887545a807238cc2deb055da3385f060e684e20ebfcceaa6fb79f"
     },
     "scripts/items/weapons/greenskins/goblin_heavy_bow.json": {
         "id": 919819,
@@ -26540,14 +26540,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:33.921Z",
         "updatedAt": "2023-06-26T05:49:01.033Z",
-        "modifiedAt": "2023-06-26T05:49:01Z",
-        "sha256": "45fc5ea57a8c6c83aead26fdab878b47239b0ba27e73279b2be8eb4a690b89e2"
+        "modifiedAt": "2024-08-06T08:50:13Z",
+        "sha256": "16b46359e8f8a23e312bcbd1415bea45c483c04cf71d1d00197a196790ed26e2"
     },
     "scripts/items/weapons/greenskins/goblin_pike.json": {
         "id": 919821,
@@ -26558,14 +26558,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:34.984Z",
         "updatedAt": "2023-06-26T05:49:01.086Z",
-        "modifiedAt": "2023-06-26T05:49:01Z",
-        "sha256": "acf1f772c138449e4c29747a3a77639608d69825cf95a7d1acdaa496977923c7"
+        "modifiedAt": "2024-08-06T08:52:09Z",
+        "sha256": "44ed3a3bf089edd28cbb22632d90c9a8fa2e0ce03366790115d33930cf735aaa"
     },
     "scripts/items/weapons/greenskins/goblin_spear.json": {
         "id": 919822,
@@ -26576,14 +26576,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:35.467Z",
         "updatedAt": "2023-06-26T05:49:01.155Z",
-        "modifiedAt": "2023-06-26T05:49:01Z",
-        "sha256": "ddbc1629576abd0507905595dcfb223b826327b8e64d37ea13b7a5e9bcb532f0"
+        "modifiedAt": "2024-08-06T08:55:57Z",
+        "sha256": "ab9043f78e0d7b5b3417818a2a234899c501b1906f648b061a8bedf852086103"
     },
     "scripts/items/weapons/greenskins/goblin_spiked_balls.json": {
         "id": 919823,
@@ -26600,8 +26600,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:27:35.804Z",
         "updatedAt": "2023-06-26T05:49:01.215Z",
-        "modifiedAt": "2023-06-26T05:49:01Z",
-        "sha256": "3d5ebcf5a26ec207aac20e9020569fe47ade5cf492ac6f62fb73dc8090f422a8"
+        "modifiedAt": "2024-08-06T08:57:07Z",
+        "sha256": "a53021ff944ebf0cfd18a1ee74a04822d58dae185b8b71d5968d4653115a72ea"
     },
     "scripts/items/weapons/greenskins/goblin_staff.json": {
         "id": 919824,
@@ -26618,8 +26618,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:27:36.156Z",
         "updatedAt": "2023-06-26T05:49:01.272Z",
-        "modifiedAt": "2024-01-09T07:14:43Z",
-        "sha256": "dd35573527d356e871f22ded02dda11a99c8cbeb16f2a21dd89281a0720e95df"
+        "modifiedAt": "2024-08-06T09:02:48Z",
+        "sha256": "b6538432f0f5437d5f6260bba95fdbb44ee6d68c130161088bdf2a0238cfdd3f"
     },
     "scripts/items/weapons/greenskins/orc_axe.json": {
         "id": 919825,
@@ -26630,14 +26630,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:36.487Z",
         "updatedAt": "2023-06-26T05:49:01.317Z",
-        "modifiedAt": "2024-01-09T07:20:57Z",
-        "sha256": "11aa4dd3876c83eb8975ae0c05a65b3a6436908e6a7b9d63edc99e77759b71d4"
+        "modifiedAt": "2024-08-06T09:08:54Z",
+        "sha256": "c06bc9f31b0b3a0b8d793f4f4b7f296b72388b5147a5665970fe0e5809b47aa7"
     },
     "scripts/items/weapons/greenskins/orc_axe_2h.json": {
         "id": 919826,
@@ -26648,14 +26648,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:36.821Z",
         "updatedAt": "2023-06-26T05:49:01.392Z",
-        "modifiedAt": "2024-01-09T07:22:56Z",
-        "sha256": "6255e4e895d23d1d32be70c87496f1072a7f51501e66546c0ca95d5f5d8e539d"
+        "modifiedAt": "2024-08-06T09:16:19Z",
+        "sha256": "c1815fd09399153eb4ec7e22d04d3bf9e186c5a7d911a6b73ed1f457e55b644b"
     },
     "scripts/items/weapons/greenskins/orc_cleaver.json": {
         "id": 919827,
@@ -26672,8 +26672,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:27:37.161Z",
         "updatedAt": "2023-06-26T05:49:01.463Z",
-        "modifiedAt": "2024-01-09T07:20:42Z",
-        "sha256": "339159e308193623cabe83ab01262ca1a351e7d5505c28504e846246f7b96b74"
+        "modifiedAt": "2024-08-06T09:28:34Z",
+        "sha256": "f1478f808a3be59169f66abc9d337b2da6298d608cd1720ddc9e81ebd89e78ec"
     },
     "scripts/items/weapons/greenskins/orc_flail_2h.json": {
         "id": 919828,
@@ -26684,14 +26684,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:37.5Z",
         "updatedAt": "2023-06-26T05:49:01.523Z",
-        "modifiedAt": "2023-06-26T05:49:02Z",
-        "sha256": "30c3038c44b9a96b71e649f043145079974756b7e5030ca53f371c225b49155a"
+        "modifiedAt": "2024-08-06T09:17:35Z",
+        "sha256": "a81d295a5e65cf1e7b3c72e3e4092ed1477d8d1b39803059b706c3bbdbd5bc53"
     },
     "scripts/items/weapons/greenskins/orc_javelin.json": {
         "id": 919829,
@@ -26702,14 +26702,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:37.86Z",
         "updatedAt": "2023-06-26T05:49:01.587Z",
-        "modifiedAt": "2023-06-26T05:49:02Z",
-        "sha256": "cd304507a32f109f784671530d00529aae4254ea4dc3bcb9d110c99c1eb63d0a"
+        "modifiedAt": "2024-08-06T09:19:53Z",
+        "sha256": "640bb0020789bfc9ce1cb67117829fc2985691193a92bc07c46ee30a4af0eb0c"
     },
     "scripts/items/weapons/greenskins/orc_metal_club.json": {
         "id": 919830,
@@ -26720,14 +26720,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:38.196Z",
         "updatedAt": "2023-06-26T05:49:01.645Z",
-        "modifiedAt": "2024-01-09T07:14:43Z",
-        "sha256": "fd39191d44ae16830e4e8cb196fc8cce44b4d4036c494e75362ff75024572fa5"
+        "modifiedAt": "2024-08-06T09:21:11Z",
+        "sha256": "1285e0f63add2960ba2bbf9c29d8a95b75bc2fac38b4614b62da98528b66422e"
     },
     "scripts/items/weapons/greenskins/orc_wooden_club.json": {
         "id": 919831,
@@ -26738,14 +26738,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:38.54Z",
         "updatedAt": "2023-06-26T05:49:01.7Z",
-        "modifiedAt": "2024-01-09T07:14:43Z",
-        "sha256": "daa836e460a85884c2a0ade5aaac86c8f5c20204447f00ba1f16cf23966f2fbe"
+        "modifiedAt": "2024-08-06T09:22:23Z",
+        "sha256": "078c2dfe195cf68d3b8742c4152451ce1fed8133e3b068bc2c9c11047c5bb60a"
     },
     "scripts/items/weapons/hand_axe.json": {
         "id": 919832,
@@ -26780,8 +26780,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:27:39.211Z",
         "updatedAt": "2023-06-26T05:49:01.805Z",
-        "modifiedAt": "2024-08-02T08:28:06Z",
-        "sha256": "ccc7b2f8ea1f6135aff4f7f5348030afb899ef28aa93306c6a4dcdc96ed3d58d"
+        "modifiedAt": "2024-08-05T04:24:10Z",
+        "sha256": "8a90242ee56c8c9b08bf67b5cfbae81a9a36b0b571afe1766ae0caebc5dba806"
     },
     "scripts/items/weapons/heavy_crossbow.json": {
         "id": 919834,
@@ -26816,8 +26816,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:27:40.753Z",
         "updatedAt": "2023-06-26T05:49:01.915Z",
-        "modifiedAt": "2024-08-02T08:34:12Z",
-        "sha256": "09cefe85097ad6d375476fb38831b4575211ebfc2f886e97d18e7a79113caaaf"
+        "modifiedAt": "2024-08-05T07:16:27Z",
+        "sha256": "02938a0fc38eadfb7da11973ac1b30d4f376887a8d9cfd06719b624bc7873354"
     },
     "scripts/items/weapons/hunting_bow.json": {
         "id": 919836,
@@ -26852,8 +26852,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:27:41.866Z",
         "updatedAt": "2023-06-26T05:49:02.021Z",
-        "modifiedAt": "2024-08-02T08:39:36Z",
-        "sha256": "c92bae9add59ecc3ef1b0d5dd235deb652301250a812023c5cecb4ec807bb196"
+        "modifiedAt": "2024-08-05T07:17:11Z",
+        "sha256": "4a1493f4ec63808c07f82f3978fce626569743df5b7a2a95a86eafb8de27e2d7"
     },
     "scripts/items/weapons/knife.json": {
         "id": 919838,
@@ -26882,14 +26882,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:42.878Z",
         "updatedAt": "2023-06-26T05:49:02.16Z",
-        "modifiedAt": "2024-04-13T16:43:05Z",
-        "sha256": "16e5290061136b9de3cdc3cedf3f25cbf7c47e060229d26b7d7fa8eea4163e78"
+        "modifiedAt": "2024-08-05T08:48:24Z",
+        "sha256": "1f7dad30a53d6d69c9778560e8f0f409c6bad83b4d18b867e0705bf556ad776d"
     },
     "scripts/items/weapons/legendary/obsidian_dagger.json": {
         "id": 919840,
@@ -26936,14 +26936,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:44.396Z",
         "updatedAt": "2023-06-26T05:49:02.388Z",
-        "modifiedAt": "2024-01-09T07:22:56Z",
-        "sha256": "fadf05212fe85b8e3b5c470b530748b32aa4b286f712c3403d75cfeea20ec7da"
+        "modifiedAt": "2024-08-05T07:18:28Z",
+        "sha256": "408269cecf270fed22adbb8575cbc5d7b792af3dcb5fbb6a4aeb4516c68b136a"
     },
     "scripts/items/weapons/longsword.json": {
         "id": 919843,
@@ -26954,14 +26954,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:44.74Z",
         "updatedAt": "2023-06-26T05:49:02.433Z",
-        "modifiedAt": "2024-01-09T07:16:43Z",
-        "sha256": "75e82c8282229e600e3890344e62a54cca2a4d33caad27fd407d48c93272dddf"
+        "modifiedAt": "2024-08-05T04:03:20Z",
+        "sha256": "7ad36bb8a4650b8eab6573d92aa4a653a1b1d519e997c294ca676f9c85f41acb"
     },
     "scripts/items/weapons/lute.json": {
         "id": 919844,
@@ -26978,8 +26978,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:27:45.071Z",
         "updatedAt": "2023-06-26T05:49:02.489Z",
-        "modifiedAt": "2024-01-09T07:57:10Z",
-        "sha256": "ee093bc4ef05156e386752a9ba4119befe14bd0c8080b9b717d695ef2a6444af"
+        "modifiedAt": "2024-08-05T08:03:53Z",
+        "sha256": "ea8d10bd1da1f34fe9d2beab0765abf079cc62e2ba663f67a8703272bee30828"
     },
     "scripts/items/weapons/masterwork_bow.json": {
         "id": 919845,
@@ -26996,8 +26996,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:27:45.396Z",
         "updatedAt": "2023-06-26T05:49:02.609Z",
-        "modifiedAt": "2024-01-09T07:58:14Z",
-        "sha256": "4cfdb10d45df0df2c46b6f66f8caf8ddd4f4a0cb1c0c811d725817e80e88bdc9"
+        "modifiedAt": "2024-08-05T04:13:16Z",
+        "sha256": "263c18d52f70f0b07399194af5897187e1825e565e31566d0a8e61e4d53ffdcb"
     },
     "scripts/items/weapons/military_cleaver.json": {
         "id": 919846,
@@ -27008,14 +27008,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:45.747Z",
         "updatedAt": "2023-06-26T05:49:02.67Z",
-        "modifiedAt": "2024-01-09T07:20:42Z",
-        "sha256": "af4ad87c21fc43df83b663f12212447ec52727aec57b6b3df0f68970c0d57b8a"
+        "modifiedAt": "2024-08-05T04:15:33Z",
+        "sha256": "92ff3b784ce63a9381c58a294ae4858f009d8748ce66dc5b3a2b9353eb71e0f3"
     },
     "scripts/items/weapons/military_pick.json": {
         "id": 919847,
@@ -27026,14 +27026,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:46.631Z",
         "updatedAt": "2023-06-26T05:49:02.734Z",
-        "modifiedAt": "2023-06-26T05:49:03Z",
-        "sha256": "f26e6358a333209ee2c487be5397ca80730ec4389003825d8fee76d3a220ad0b"
+        "modifiedAt": "2024-08-05T04:28:59Z",
+        "sha256": "23debc26bb3a2bb11ba48beb54dfd68d03792d4beeb5a6085b9e02ba4a45614f"
     },
     "scripts/items/weapons/militia_spear.json": {
         "id": 919848,
@@ -27044,14 +27044,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:46.981Z",
         "updatedAt": "2023-06-26T05:49:02.791Z",
-        "modifiedAt": "2023-06-26T05:49:03Z",
-        "sha256": "d097b36eabcb0f23188132779b63e3b255d58f187ecd3534df35cc6647d28b9a"
+        "modifiedAt": "2024-08-06T08:54:13Z",
+        "sha256": "4642cddbacf845a8927d8ad07df07268b687e504629ac4785672f5a93e0352c6"
     },
     "scripts/items/weapons/morning_star.json": {
         "id": 919849,
@@ -27062,14 +27062,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:27:48.527Z",
         "updatedAt": "2023-06-26T05:49:02.844Z",
-        "modifiedAt": "2024-01-09T07:14:43Z",
-        "sha256": "b3547fbe7f671e39ec4dd878ee9e26aded57b07f5e0f2c2989f030043e544bc6"
+        "modifiedAt": "2024-08-05T04:30:42Z",
+        "sha256": "287d9109d9c3634365fa556efa99bf2a797ea00434ecd965968f05fa85129877"
     },
     "scripts/items/weapons/named/named_axe.json": {
         "id": 919850,
@@ -27944,14 +27944,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:28:12.884Z",
         "updatedAt": "2023-06-26T05:49:07.189Z",
-        "modifiedAt": "2024-01-09T07:16:36Z",
-        "sha256": "7ba963bb4d832be84b7f25532ef2a2dbef91157235a3ced7fc39b95474ce0406"
+        "modifiedAt": "2024-08-05T04:31:50Z",
+        "sha256": "dccac930256ad682a18a96cc735aee761b9090f4e2d0e381781c1708a472272d"
     },
     "scripts/items/weapons/oriental/composite_bow.json": {
         "id": 919899,
@@ -27968,8 +27968,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:13.219Z",
         "updatedAt": "2023-06-26T05:49:07.249Z",
-        "modifiedAt": "2023-06-26T05:49:07Z",
-        "sha256": "001038aa6c35fca55c00291b6a7022d4a9560fb966c34697b85867c2a27c5e4c"
+        "modifiedAt": "2024-08-05T08:52:20Z",
+        "sha256": "b50c60a1ccd7c868e9267d0563490b0f07ed2a56f9fc94e31b53d8863b385663"
     },
     "scripts/items/weapons/oriental/firelance.json": {
         "id": 919900,
@@ -27986,8 +27986,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:13.834Z",
         "updatedAt": "2023-06-26T05:49:07.304Z",
-        "modifiedAt": "2023-06-26T05:49:07Z",
-        "sha256": "93281ea439c6676ec7fa683f7e74992dd19edd2b58111c0d8516bb9f65377dad"
+        "modifiedAt": "2024-08-05T08:56:18Z",
+        "sha256": "7884dcba5bf5f65dfa758152d9cb4ee48d98429d9dc0401064f350fcaaedd45f"
     },
     "scripts/items/weapons/oriental/handgonne.json": {
         "id": 919901,
@@ -27998,14 +27998,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:28:14.166Z",
         "updatedAt": "2023-06-26T05:49:07.363Z",
-        "modifiedAt": "2024-08-02T07:40:41Z",
-        "sha256": "1c7f40e418c7d4ca18d8e417ea6c303c5447ad98563c56d30f182f75f4fcc2e8"
+        "modifiedAt": "2024-08-05T09:00:38Z",
+        "sha256": "68f9432daf2eb2ab8310947569a0138c8d30fb5bf5f71ef23f544ea7b6abb6d6"
     },
     "scripts/items/weapons/oriental/heavy_southern_mace.json": {
         "id": 919902,
@@ -28016,14 +28016,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:28:14.509Z",
         "updatedAt": "2023-06-26T05:49:07.417Z",
-        "modifiedAt": "2024-01-09T07:14:43Z",
-        "sha256": "ce5dad6558948ff2231986046d6a8531ab1bae95bd7ffed956bdc853fa4ab75a"
+        "modifiedAt": "2024-08-05T09:03:22Z",
+        "sha256": "ad992110e0a4a5fda59316b97902ac7cdd2ba20cfa8460f4f91b000df1c052d6"
     },
     "scripts/items/weapons/oriental/light_southern_mace.json": {
         "id": 919903,
@@ -28034,14 +28034,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:28:14.84Z",
         "updatedAt": "2023-06-26T05:49:07.477Z",
-        "modifiedAt": "2024-01-09T07:14:43Z",
-        "sha256": "12ba4d4e5befb43bf030373a59a06ce7053625cf11a781f1f9f4e09deda93242"
+        "modifiedAt": "2024-08-05T09:05:19Z",
+        "sha256": "eda9a75d6204c1c199d4ed02bf5efe42311a233bec5f35c4e41e6a29d5abb281"
     },
     "scripts/items/weapons/oriental/nomad_mace.json": {
         "id": 919904,
@@ -28058,8 +28058,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:15.176Z",
         "updatedAt": "2023-06-26T05:49:07.581Z",
-        "modifiedAt": "2024-01-09T07:14:43Z",
-        "sha256": "24dc5ff9b81c17a464c826edaf1545142f5589ad662e3409870da8d1dc76643f"
+        "modifiedAt": "2024-08-05T09:07:00Z",
+        "sha256": "8d4859e5bee01337e2321d6cbf6baa978706df8c6d9c243c39877319af692d94"
     },
     "scripts/items/weapons/oriental/nomad_sling.json": {
         "id": 919905,
@@ -28070,14 +28070,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:28:15.511Z",
         "updatedAt": "2023-06-26T05:49:07.64Z",
-        "modifiedAt": "2023-06-26T05:49:08Z",
-        "sha256": "484a988b9d2f7fcfb768ebfd3aca4ba69156d3fd31b3da7042deb39fd9174e9f"
+        "modifiedAt": "2024-08-05T09:09:35Z",
+        "sha256": "c7b6a564e10d3742e7212566fe5a7325eb1e950d92c7fd4ba5ecabd705150c9b"
     },
     "scripts/items/weapons/oriental/polemace.json": {
         "id": 919906,
@@ -28094,8 +28094,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:15.851Z",
         "updatedAt": "2023-06-26T05:49:07.7Z",
-        "modifiedAt": "2024-01-09T07:14:53Z",
-        "sha256": "35319247e38f02bc9c0c3c44a4a5fe42edf10c471f500fa37018975c7ea9e8df"
+        "modifiedAt": "2024-08-05T09:11:10Z",
+        "sha256": "5b960b4a0186bd193d8cd5b41227292658e5353d93a4de8d976d468d7806116b"
     },
     "scripts/items/weapons/oriental/qatal_dagger.json": {
         "id": 919907,
@@ -28202,8 +28202,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:17.918Z",
         "updatedAt": "2023-06-26T05:49:08.125Z",
-        "modifiedAt": "2023-06-26T05:49:08Z",
-        "sha256": "efed9209e70d72dd66e997fc95e52915a0809574dfaa9ebe457473ccc4a447fc"
+        "modifiedAt": "2024-08-05T07:20:15Z",
+        "sha256": "6860b11a28f1c69e350052c4c5ba6b7d9d166d2163adbf6919e6de8def2569be"
     },
     "scripts/items/weapons/pike.json": {
         "id": 919913,
@@ -28220,8 +28220,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:18.246Z",
         "updatedAt": "2023-06-26T05:49:08.19Z",
-        "modifiedAt": "2023-06-26T05:49:08Z",
-        "sha256": "47e88e320202f7283ffd5b42d51cb6bfd12fe2fd629ce250371bd81e268f9b3b"
+        "modifiedAt": "2024-08-05T08:07:20Z",
+        "sha256": "03d99b82df4b69139c2061429329c7aab439a421db04e59f6e33ebde4bde5529"
     },
     "scripts/items/weapons/pitchfork.json": {
         "id": 919914,
@@ -28238,8 +28238,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:18.577Z",
         "updatedAt": "2023-06-26T05:49:08.245Z",
-        "modifiedAt": "2023-06-26T05:49:08Z",
-        "sha256": "064446206634abdf7426e61eeb462ed33a9efa1a3ff8095e5ca0e5eab3837fcd"
+        "modifiedAt": "2024-08-05T04:54:42Z",
+        "sha256": "5ef1a09709f04a23546689b7de020ac92bca532b6492ddccf9cb0dc8236db29b"
     },
     "scripts/items/weapons/polehammer.json": {
         "id": 919915,
@@ -28256,8 +28256,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:18.906Z",
         "updatedAt": "2023-06-26T05:49:08.301Z",
-        "modifiedAt": "2024-01-09T07:15:45Z",
-        "sha256": "40126d4e0ec5d157e7caa945b7bd8d8cddd507580eeff289e95e437fb87a6e19"
+        "modifiedAt": "2024-08-05T04:58:32Z",
+        "sha256": "e247c50caf82ff97dd5253ad0358fbac83459c8b5f0d2cb120af3f4fe124d9c8"
     },
     "scripts/items/weapons/reinforced_wooden_flail.json": {
         "id": 919916,
@@ -28274,8 +28274,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:19.236Z",
         "updatedAt": "2023-06-26T05:49:08.366Z",
-        "modifiedAt": "2023-06-26T05:49:08Z",
-        "sha256": "710fd41c5ef9ae4db70762821eab6de381d98585315e9dc12ecacd23e90f9554"
+        "modifiedAt": "2024-08-05T04:46:48Z",
+        "sha256": "bf6645dbbfcf513ae1ed0db36c57f786f277e4482d7699267972ab40c689cd6d"
     },
     "scripts/items/weapons/rondel_dagger.json": {
         "id": 919917,
@@ -28286,14 +28286,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:28:19.633Z",
         "updatedAt": "2023-06-26T05:49:08.424Z",
-        "modifiedAt": "2024-02-18T03:19:53Z",
-        "sha256": "40241bc57164b66d77896b644411ee895c7944dbbf4d11b7e9c91b45d0378172"
+        "modifiedAt": "2024-08-05T04:39:11Z",
+        "sha256": "39972d39c06872a9b568e8ae42d0760fe260e0778d00ad15ec5f53db9b6cd3d0"
     },
     "scripts/items/weapons/scimitar.json": {
         "id": 919918,
@@ -28310,8 +28310,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:20.45Z",
         "updatedAt": "2023-06-26T05:49:08.483Z",
-        "modifiedAt": "2024-01-09T07:16:36Z",
-        "sha256": "5d81de75a46141bd25b23f132d78b37b3bc402da82b43bc13b0f72182d8e5e82"
+        "modifiedAt": "2024-08-05T07:22:20Z",
+        "sha256": "3df604c55db864faa4f0544681d41f737c62103f67ce8af60cda2c94c1c64993"
     },
     "scripts/items/weapons/scramasax.json": {
         "id": 919919,
@@ -28322,14 +28322,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:28:21.344Z",
         "updatedAt": "2023-06-26T05:49:08.541Z",
-        "modifiedAt": "2024-01-09T07:22:11Z",
-        "sha256": "b51677f81c96e9b22dd58a844538f8b43319a09a18f1e50fa967bdee7ab1e57a"
+        "modifiedAt": "2024-08-05T07:22:41Z",
+        "sha256": "e44a77582c812978e57105a5f7fa7207d8713815e832ad9c158375c820b3ddb4"
     },
     "scripts/items/weapons/shamshir.json": {
         "id": 919920,
@@ -28346,8 +28346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:21.676Z",
         "updatedAt": "2023-06-26T05:49:08.597Z",
-        "modifiedAt": "2024-01-09T07:16:36Z",
-        "sha256": "af7cb1f89954aa48bc7b1b369927b4deefc03d0c3a926fa160a30329b0bd72d4"
+        "modifiedAt": "2024-08-05T07:36:46Z",
+        "sha256": "a678505ff0fb49dd1030b7e78a29fbaac51cf937e7c6ba8722309266d4ebeef7"
     },
     "scripts/items/weapons/short_bow.json": {
         "id": 919921,
@@ -28364,8 +28364,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:22.012Z",
         "updatedAt": "2023-06-26T05:49:08.653Z",
-        "modifiedAt": "2023-06-26T05:49:09Z",
-        "sha256": "80d9eff1c934f1c62f8df634f26919f65ad13c50223485a1a0ec0411897ed11b"
+        "modifiedAt": "2024-08-05T03:26:44Z",
+        "sha256": "3a21296e75ca603fa45028bd6755fc65aefe1bf7201102d66eb4ce2d1861e628"
     },
     "scripts/items/weapons/shortsword.json": {
         "id": 919922,
@@ -28382,8 +28382,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:22.387Z",
         "updatedAt": "2023-06-26T05:49:08.707Z",
-        "modifiedAt": "2024-01-09T07:16:36Z",
-        "sha256": "6d05f43a44bd12bb6b3ccbd24b25240ee84543ac99349cd272a61debbd887082"
+        "modifiedAt": "2024-08-05T03:25:41Z",
+        "sha256": "8370dddf32d3c71d4bc8cd6dd2ef816969a3952bb02b3eca414c0974a4840b5b"
     },
     "scripts/items/weapons/spetum.json": {
         "id": 919923,
@@ -28400,8 +28400,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:22.726Z",
         "updatedAt": "2023-06-26T05:49:08.765Z",
-        "modifiedAt": "2024-05-13T02:10:38Z",
-        "sha256": "7490700e511931e042c8ecda291efaa9342e2cc950319402ffc87c097309fb23"
+        "modifiedAt": "2024-08-05T02:19:21Z",
+        "sha256": "8fdd2a8930633f90d89c3a4cc96442769fee64419c9f113810c9a59b8a9bb79b"
     },
     "scripts/items/weapons/staff_sling.json": {
         "id": 919924,
@@ -28418,8 +28418,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:23.059Z",
         "updatedAt": "2023-06-26T05:49:08.827Z",
-        "modifiedAt": "2023-06-26T05:49:09Z",
-        "sha256": "03969009f7c43b7bb446bc96252ba7de0630023478a25a1c04276e5c6e2e0f16"
+        "modifiedAt": "2024-08-05T02:17:15Z",
+        "sha256": "de4d51d246a4c303832f605188774d0792f5badbc089dff46156d65a1a566b16"
     },
     "scripts/items/weapons/three_headed_flail.json": {
         "id": 919925,
@@ -28436,8 +28436,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:23.398Z",
         "updatedAt": "2023-06-26T05:49:08.888Z",
-        "modifiedAt": "2023-06-26T05:49:09Z",
-        "sha256": "3eaefe429d9f674203cfcfb6f48b2e0a69b4ea138220ad22702eb12f73ce69f5"
+        "modifiedAt": "2024-08-05T07:59:16Z",
+        "sha256": "554253361e0f9e2a660ea53544d6548dac35ee8a81c3ff0cf91100e5a649a6b5"
     },
     "scripts/items/weapons/throwing_axe.json": {
         "id": 919926,
@@ -28454,8 +28454,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:23.747Z",
         "updatedAt": "2023-06-26T05:49:08.939Z",
-        "modifiedAt": "2023-06-26T05:49:09Z",
-        "sha256": "85ad564cde882f1b1d5163d890a4f3de4d98213fee6864f6e6235038c082c091"
+        "modifiedAt": "2024-08-05T02:10:53Z",
+        "sha256": "af5417316aeaac59c409510cdc3fda97c39d59fc06f853c2936484284d7621e8"
     },
     "scripts/items/weapons/throwing_spear.json": {
         "id": 919927,
@@ -28472,8 +28472,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:24.369Z",
         "updatedAt": "2023-06-26T05:49:09.009Z",
-        "modifiedAt": "2024-08-01T03:03:00Z",
-        "sha256": "93260ec174f82cfb6129cc5f8b9f7d5b31b17b355eabef18d3c3f13f76d28d74"
+        "modifiedAt": "2024-08-05T02:09:12Z",
+        "sha256": "d35f3152f6699eb61bd99b1f09663420b3489c4b213f3b6da3881c295a0a3d20"
     },
     "scripts/items/weapons/two_handed_flail.json": {
         "id": 919928,
@@ -28490,8 +28490,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:24.697Z",
         "updatedAt": "2023-06-26T05:49:09.063Z",
-        "modifiedAt": "2023-06-26T05:49:09Z",
-        "sha256": "868895cde3a6e3ca20cf3bc45d3c685abf1dfdc4cd8b15fa74dd16b6cdb963b0"
+        "modifiedAt": "2024-08-05T02:04:42Z",
+        "sha256": "91431ee7bd262a28548458c7c29f6d03f7db408bea75def84734b96536974ac0"
     },
     "scripts/items/weapons/two_handed_flanged_mace.json": {
         "id": 919929,
@@ -28508,8 +28508,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:25.04Z",
         "updatedAt": "2023-06-26T05:49:09.12Z",
-        "modifiedAt": "2024-01-09T07:14:53Z",
-        "sha256": "dd146372b0aef48ada5bf0a227a34db5a2efc763c7035a7415b025f969e93e8f"
+        "modifiedAt": "2024-08-05T02:03:48Z",
+        "sha256": "2c4aab79cdbd0df6a99d97f4964edb884ca2361fbb56917395c840c506f73697"
     },
     "scripts/items/weapons/two_handed_hammer.json": {
         "id": 919930,
@@ -28520,14 +28520,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:28:25.398Z",
         "updatedAt": "2023-06-26T05:49:09.172Z",
-        "modifiedAt": "2024-01-09T07:15:45Z",
-        "sha256": "746e5864a0361d38efc3f3243e53873cca94534b80049feee4fb232f5d953b33"
+        "modifiedAt": "2024-08-05T02:01:03Z",
+        "sha256": "b38d89b08233f8294178cb900bf1dec661c55a0d7e089c932394aa580f52cd71"
     },
     "scripts/items/weapons/two_handed_mace.json": {
         "id": 919931,
@@ -28544,8 +28544,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:25.749Z",
         "updatedAt": "2023-06-26T05:49:09.229Z",
-        "modifiedAt": "2024-01-09T07:14:53Z",
-        "sha256": "433e4ef3a3bedbd453c72875980247a6810f720fcd4d6a9e777191a68b048edd"
+        "modifiedAt": "2024-08-05T01:55:54Z",
+        "sha256": "e43806275adabfcb10cb36c7e8a54b1365b67de4a4396981a72b57fd666ba060"
     },
     "scripts/items/weapons/two_handed_wooden_flail.json": {
         "id": 919932,
@@ -28580,8 +28580,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:27.175Z",
         "updatedAt": "2023-06-26T05:49:09.339Z",
-        "modifiedAt": "2024-01-09T07:15:45Z",
-        "sha256": "58b45add8825d659d81923def4a0b4b240cc978f3fdddef8839858857a70e8b1"
+        "modifiedAt": "2024-08-05T01:58:20Z",
+        "sha256": "888821f047aa8e407341d915144bf9818451b2ddecbd41749556074d427f1053"
     },
     "scripts/items/weapons/war_bow.json": {
         "id": 919934,
@@ -28598,8 +28598,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:28.992Z",
         "updatedAt": "2023-06-26T05:49:09.398Z",
-        "modifiedAt": "2023-06-26T05:49:09Z",
-        "sha256": "bfdf4bad99ff76a12f4b823a579ffa7e85d44e44f190736f35ecf9bb50447832"
+        "modifiedAt": "2024-08-05T07:40:59Z",
+        "sha256": "02d09b2275cccde1ca637a0d1fdfcd041892796adcedf4e288bf327673ebc49e"
     },
     "scripts/items/weapons/warbrand.json": {
         "id": 919935,
@@ -28616,8 +28616,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:29.514Z",
         "updatedAt": "2023-06-26T05:49:09.454Z",
-        "modifiedAt": "2024-01-09T07:16:43Z",
-        "sha256": "8fcce1384753fe7d195975c0458ff13d001d40c5ae0c43f9ec04ecf30dc8716e"
+        "modifiedAt": "2024-08-05T01:46:04Z",
+        "sha256": "d89ac7aad4cdd39d4521fc001d0627873af839fc22ff796da59f3fb37628f37d"
     },
     "scripts/items/weapons/warfork.json": {
         "id": 919936,
@@ -28628,14 +28628,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:28:29.905Z",
         "updatedAt": "2023-06-26T05:49:09.511Z",
-        "modifiedAt": "2023-06-26T05:49:10Z",
-        "sha256": "dca559c839b5854001cad7fd226dd4778c21ee5f70fd9bb1a2990b71b4669681"
+        "modifiedAt": "2024-08-05T01:40:12Z",
+        "sha256": "557c1c7af09a881e4aa51aacb1be8f8fa77088ffef16e1a0006aaf1b44deba90"
     },
     "scripts/items/weapons/warhammer.json": {
         "id": 919937,
@@ -28652,8 +28652,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:30.238Z",
         "updatedAt": "2023-06-26T05:49:09.575Z",
-        "modifiedAt": "2023-06-26T05:49:10Z",
-        "sha256": "fb3337ab8018e6bae6373effb0bb9c4d6c00678c598539ad0ab61d2d2b8422b8"
+        "modifiedAt": "2024-08-05T01:36:40Z",
+        "sha256": "2455fb9a8e7e689440f4495990bf9f293c69f36712aa6db2267c79a26d2b490c"
     },
     "scripts/items/weapons/weapon.json": {
         "id": 919938,
@@ -28664,14 +28664,14 @@
         "total": 19,
         "translated": 19,
         "disputed": 0,
-        "checked": 14,
-        "reviewed": 14,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:28:30.872Z",
         "updatedAt": "2023-06-26T05:49:09.637Z",
-        "modifiedAt": "2024-08-01T03:17:35Z",
-        "sha256": "7779a1964dad753316d62e231d5b56950131333b0c261a627f38f7876105dc20"
+        "modifiedAt": "2024-08-05T01:34:49Z",
+        "sha256": "0d258a36b45c6af6de7514f3eacb75e7399bf4764851af7661f0409204fc47d8"
     },
     "scripts/items/weapons/winged_mace.json": {
         "id": 919939,
@@ -28682,14 +28682,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:28:31.214Z",
         "updatedAt": "2023-06-26T05:49:09.698Z",
-        "modifiedAt": "2024-01-09T07:14:43Z",
-        "sha256": "60148fc0c3d862c3c22c0f4a211a2554b56e9e41a88d61ec265c3c4a95255019"
+        "modifiedAt": "2024-08-05T01:26:15Z",
+        "sha256": "344afa1faca8183ca651d9bb4630ba899173fe583b40e84c13b85f7f65b01461"
     },
     "scripts/items/weapons/wonky_bow.json": {
         "id": 919940,
@@ -28706,8 +28706,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:31.555Z",
         "updatedAt": "2023-06-26T05:49:09.757Z",
-        "modifiedAt": "2023-06-26T05:49:10Z",
-        "sha256": "21f8d750fbb2553860315f5bad799fb0c8d1e4b3d2436c6f79d3b6a6df5c4305"
+        "modifiedAt": "2024-08-05T07:43:25Z",
+        "sha256": "530eaff92c702663f3066f5b0412f7c66ea1f896dd5de89ac1ac8afe046fa845"
     },
     "scripts/items/weapons/woodcutters_axe.json": {
         "id": 919941,
@@ -28724,8 +28724,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:31.923Z",
         "updatedAt": "2023-06-26T05:49:09.823Z",
-        "modifiedAt": "2024-01-09T07:26:02Z",
-        "sha256": "82d41b27d112b4b4012e4e9c5c9be6e549df2b19b11d0c1f64acf9116a2581ca"
+        "modifiedAt": "2024-08-05T01:15:01Z",
+        "sha256": "7fd3f1097f0cd2c61c670b0ea3c21b5e834b8631c6c72cc9d643dc7185c0152f"
     },
     "scripts/items/weapons/wooden_flail.json": {
         "id": 919942,
@@ -28742,8 +28742,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:32.26Z",
         "updatedAt": "2023-06-26T05:49:09.945Z",
-        "modifiedAt": "2023-06-26T05:49:10Z",
-        "sha256": "a1e9957ac3981a518177e8ede7ba81c72f9dae6c721feb8877ab86d8335c2580"
+        "modifiedAt": "2024-08-05T04:46:54Z",
+        "sha256": "bced9ae53690d8ff21a3199ec376d68fb9818b5740ceae4e8e0aa0949e27a130"
     },
     "scripts/items/weapons/wooden_stick.json": {
         "id": 919943,
@@ -28754,14 +28754,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:28:32.588Z",
         "updatedAt": "2023-06-26T05:49:10.006Z",
-        "modifiedAt": "2024-01-09T07:14:43Z",
-        "sha256": "0295f46913c957878224354e6accb244848d36f6f01af4f6f7f7ebf36ed9b39e"
+        "modifiedAt": "2024-08-05T01:02:33Z",
+        "sha256": "b154b65072041c203a228eebe50c612fccdc7e69a5c09acfb1554b2dfa428a04"
     },
     "scripts/mapgen/map_generator.json": {
         "id": 919944,
@@ -31436,14 +31436,14 @@
         "total": 8,
         "translated": 8,
         "disputed": 0,
-        "checked": 8,
-        "reviewed": 8,
+        "checked": 6,
+        "reviewed": 6,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:29:43.256Z",
         "updatedAt": "2023-06-26T05:49:19.84Z",
-        "modifiedAt": "2023-06-26T05:49:20Z",
-        "sha256": "ab0cb00615f72fea57b3fc09188305aaf879760501b1df7bbde0d1f13825b130"
+        "modifiedAt": "2024-08-05T08:48:59Z",
+        "sha256": "a50e677852e94183d2d5e25f9c8e5fc80b10aeaa1db0efb9cd6630a980721da5"
     },
     "scripts/skills/actives/sleep_skill.json": {
         "id": 920093,

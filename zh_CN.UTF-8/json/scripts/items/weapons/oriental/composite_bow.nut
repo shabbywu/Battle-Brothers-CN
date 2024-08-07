@@ -19,7 +19,7 @@
     "ID": 293419364,
     "key": "A short bow made from composite layers for additional drawing power.",
     "original": "A short bow made from composite layers for additional drawing power.",
-    "translation": "一张使用多层复合材料制作以增加拉力的短弓。",
+    "translation": "一张为提升拉力用多层复合原料制成的短弓。",
     "stage": 1,
     "context": "this.m.Description = 'A short bow made from composite layers for additional drawing power.'"
   }

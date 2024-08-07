@@ -19,7 +19,7 @@
     "ID": 293419417,
     "key": "Two large sticks attached with a short chain and reinforced with metal, the Reinforced Wooden Flail is an agricultural tool turned weapon. A rather unpredictable one at that, but deadly enough to fell most men with a good hit to the head, and useful to st",
     "original": "Two large sticks attached with a short chain and reinforced with metal, the Reinforced Wooden Flail is an agricultural tool turned weapon. A rather unpredictable one at that, but deadly enough to fell most men with a good hit to the head, and useful to strike over or around shield cover.",
-    "translation": "两根用短链连接的用金属加固的大木棍，强化木连枷是一种农具衍生出的武器。它的攻击有些难以预测，但如果结实的命中头部一下就能击倒大部分人，同时它还很适合攻击在盾牌掩护下的敌人。",
+    "translation": "强化木链枷是一种农具，把两大根金属加固的木棍用一小段铁链连接起来，作敲打谷堆打散谷壳之用。其攻击叫人拿捏不准，结实地往头上来一下却能击倒大多数人，适合绕过盾牌打击敌人。",
     "stage": 1,
     "context": "this.m.Description = 'Two large sticks attached with a short chain and reinforced with metal, the Reinforced Wooden Flail is an agricultural tool turned weapon. A rather unpredictable one at that, but deadly enough to fell most men with a good hit to the head, and useful to strike over or around shield cover.'"
   }
