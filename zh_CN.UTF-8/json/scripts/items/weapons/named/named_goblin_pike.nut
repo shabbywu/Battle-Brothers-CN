@@ -11,8 +11,8 @@
     "ID": 293419274,
     "key": "A goblin pike with its jagged tips can tear terrible, bleeding wounds. This piece is particularly well-crafted.",
     "original": "A goblin pike with its jagged tips can tear terrible, bleeding wounds. This piece is particularly well-crafted.",
-    "translation": "一杆有着可以造成可怕流血伤口的锯齿尖头的地精短矛。 这件物品做工精良。",
-    "stage": 5,
+    "translation": "一杆装有锯齿尖头，可以造成可怕流血伤口的的地精长枪。这件物品做工精良。",
+    "stage": 1,
     "context": "this.m.Description = 'A goblin pike with its jagged tips can tear terrible, bleeding wounds. This piece is particularly well-crafted.'"
   }
 ]

@@ -11,7 +11,7 @@
     "ID": 293419143,
     "key": "A lightweight goblin falchion made for cutting.",
     "original": "A lightweight goblin falchion made for cutting.",
-    "translation": "一种用于切割的轻型地精弯形剑。",
+    "translation": "一把用于切割的轻型地精弯形剑。",
     "stage": 1,
     "context": "this.m.Description = 'A lightweight goblin falchion made for cutting.'"
   },

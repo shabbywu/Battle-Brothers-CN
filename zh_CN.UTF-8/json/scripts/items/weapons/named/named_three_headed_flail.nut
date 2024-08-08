@@ -11,7 +11,7 @@
     "ID": 293419331,
     "key": "A very rare weapon built from valuable and strong materials. Despite its ceremonial look it makes for a terrifying tool of destruction.",
     "original": "A very rare weapon built from valuable and strong materials. Despite its ceremonial look it makes for a terrifying tool of destruction.",
-    "translation": "一件由珍贵而坚固的材料制成的稀有武器。尽管看上去像是仪仗武器，实际上它是一种可怕的毁灭工具。",
+    "translation": "一件由珍贵而坚固材料制成的极其稀有的武器。抛却其仪仗武器一样的外表，它实际上是一件可怕的毁灭工具。",
     "stage": 1,
     "context": "this.m.Description = 'A very rare weapon built from valuable and strong materials. Despite its ceremonial look it makes for a terrifying tool of destruction.'"
   }

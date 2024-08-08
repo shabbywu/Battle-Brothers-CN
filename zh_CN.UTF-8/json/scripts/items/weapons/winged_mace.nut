@@ -19,7 +19,7 @@
     "ID": 293419507,
     "key": "A full-metal mace with a short shaft and attached blades.",
     "original": "A full-metal mace with a short shaft and attached blades.",
-    "translation": "一把附有凸缘的短柄全金属骨朵。",
+    "translation": "一把附有凸缘的短柄全金属战棒。",
     "stage": 1,
     "context": "this.m.Description = 'A full-metal mace with a short shaft and attached blades.'"
   }

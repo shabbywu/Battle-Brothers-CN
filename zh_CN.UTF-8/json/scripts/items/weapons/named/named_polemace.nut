@@ -19,7 +19,7 @@
     "ID": 293419306,
     "key": "A crude weapon like a polemace can also be crafted with passion, skill and attention to detail, as this exemplar showcases impressively.",
     "original": "A crude weapon like a polemace can also be crafted with passion, skill and attention to detail, as this exemplar showcases impressively.",
-    "translation": "像长棒这样的简陋武器，只要有激情、技巧和注重细节，也能打造出如此出色的杰作。",
+    "translation": "即使是长棒这样的简单武器，只要有激情、技巧和对细节的专注，也能打造出如此出色的杰作。",
     "stage": 1,
     "context": "this.m.Description = 'A crude weapon like a polemace can also be crafted with passion, skill and attention to detail, as this exemplar showcases impressively.'"
   }

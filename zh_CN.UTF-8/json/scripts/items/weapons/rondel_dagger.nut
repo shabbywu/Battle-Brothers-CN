@@ -19,7 +19,7 @@
     "ID": 293419420,
     "key": "A long, quadrangular spike designed to pierce through weakpoints in armor.",
     "original": "A long, quadrangular spike designed to pierce through weakpoints in armor.",
-    "translation": "一种细长的四棱柱匕首，用来刺入盔甲上的弱点。",
+    "translation": "一把细长的四棱柱匕首，用来刺入盔甲上的弱点。",
     "stage": 1,
     "context": "this.m.Description = 'A long, quadrangular spike designed to pierce through weakpoints in armor.'"
   }

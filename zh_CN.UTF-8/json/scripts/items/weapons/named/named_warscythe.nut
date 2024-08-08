@@ -11,7 +11,7 @@
     "ID": 293419353,
     "key": "A long pole attached to a sharp curved blade, used to deliver deep sweeping strikes over some distance. This exemplar is particularly well-crafted.",
     "original": "A long pole attached to a sharp curved blade, used to deliver deep sweeping strikes over some distance. This exemplar is particularly well-crafted.",
-    "translation": "一个附有锋利弯刃的长柄，用于在一定距离上进行强力的横扫劈击。这件杰作尤为精良。",
+    "translation": "一条装有锋利弯刃的长杆，用于从远处横扫敌人的纵深。这件杰作尤为精良。",
     "stage": 1,
     "context": "this.m.Description = 'A long pole attached to a sharp curved blade, used to deliver deep sweeping strikes over some distance. This exemplar is particularly well-crafted.'"
   },

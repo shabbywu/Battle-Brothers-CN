@@ -83,8 +83,8 @@
     "ID": 293420758,
     "key": "Part scientist and part surgeon, Anatomists are unaccustomed to battle but well served by steady hands.",
     "original": "Part scientist and part surgeon, Anatomists are unaccustomed to battle but well served by steady hands.",
-    "translation": "解剖学家既是科学家又是外科医生，他们不习惯于战斗，但他们的手很稳。",
-    "stage": 5,
+    "translation": "介于科学家和外科医生之间，解剖学家不习惯于战斗，却有着一双沉稳的双手。",
+    "stage": 1,
     "context": "this.m.BackgroundDescription = 'Part scientist and part surgeon, Anatomists are unaccustomed to battle but well served by steady hands.'"
   },
   {

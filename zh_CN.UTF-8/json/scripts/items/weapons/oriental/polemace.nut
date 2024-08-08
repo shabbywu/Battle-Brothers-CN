@@ -19,8 +19,8 @@
     "ID": 293419387,
     "key": "Polemace",
     "original": "Polemace",
-    "translation": "长棍",
-    "stage": 5,
+    "translation": "长棒",
+    "stage": 1,
     "context": "this.m.Name = 'Polemace'"
   }
 ]

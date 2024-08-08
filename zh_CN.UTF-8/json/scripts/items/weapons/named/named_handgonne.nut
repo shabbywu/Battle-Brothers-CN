@@ -11,8 +11,8 @@
     "ID": 293419282,
     "key": "An expertly-cast iron barrel with a long wooden handle. It fires shrapnel in a cone and can hit multiple targets with one shot. Can not be used while engaged in melee.",
     "original": "An expertly-cast iron barrel with a long wooden handle. It fires shrapnel in a cone and can hit multiple targets with one shot. Can not be used while engaged in melee.",
-    "translation": "有长木柄的熟铁铸桶。 它发射锥形弹片，可以一次击中多个目标。 不能在近战中使用。",
-    "stage": 5,
+    "translation": "一条装有长木柄的精铸铁管。发射出的弹片会飞向一片锥形区域，一次能命中多个目标。无法在陷入近战时使用。",
+    "stage": 1,
     "context": "this.m.Description = 'An expertly-cast iron barrel with a long wooden handle. It fires shrapnel in a cone and can hit multiple targets with one shot. Can not be used while engaged in melee.'"
   },
   {
