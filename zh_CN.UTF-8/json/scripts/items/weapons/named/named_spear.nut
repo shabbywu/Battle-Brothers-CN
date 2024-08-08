@@ -11,8 +11,8 @@
     "ID": 293419321,
     "key": "A masterfully crafted spear that feels surprisingly light, yet sturdy.",
     "original": "A masterfully crafted spear that feels surprisingly light, yet sturdy.",
-    "translation": "这是一支制作精良的矛，重量很轻，但很结实。",
-    "stage": 5,
+    "translation": "这是一支制作精良的矛，出奇轻盈，却很结实。",
+    "stage": 1,
     "context": "this.m.Description = 'A masterfully crafted spear that feels surprisingly light, yet sturdy.'"
   }
 ]

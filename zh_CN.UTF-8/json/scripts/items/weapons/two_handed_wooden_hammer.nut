@@ -19,7 +19,7 @@
     "ID": 293419470,
     "key": "A large wooden mallet that is held with both hands. Can deal devastating blows that may knock even armored enemies away or to the ground.",
     "original": "A large wooden mallet that is held with both hands. Can deal devastating blows that may knock even armored enemies away or to the ground.",
-    "translation": "一种需要双手持握的大型木槌。能造成毁灭打击，连重甲敌人都能击飞锤倒。",
+    "translation": "一把需要双手持握的大型木槌。能造成毁灭打击，连重甲敌人都能击飞锤倒。",
     "stage": 1,
     "context": "this.m.Description = 'A large wooden mallet that is held with both hands. Can deal devastating blows that may knock even armored enemies away or to the ground.'"
   }

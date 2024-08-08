@@ -11,8 +11,8 @@
     "ID": 293419327,
     "key": "A long pole attached to a sharp and finely balanced curved blade, used to deliver deep sweeping strikes over some distance.",
     "original": "A long pole attached to a sharp and finely balanced curved blade, used to deliver deep sweeping strikes over some distance.",
-    "translation": "一种附有锋利而平衡的弯曲刀刃的长杆，用于在一定距离上进行强力的横扫劈击。",
-    "stage": 5,
+    "translation": "一条装有锋利且十分平衡的弯刃的长杆，用于从远处横扫敌人的纵深。",
+    "stage": 1,
     "context": "this.m.Description = 'A long pole attached to a sharp and finely balanced curved blade, used to deliver deep sweeping strikes over some distance.'"
   },
   {

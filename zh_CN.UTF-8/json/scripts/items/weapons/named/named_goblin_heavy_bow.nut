@@ -3,8 +3,8 @@
     "ID": 293419271,
     "key": "Goblins know how to craft efficient and light bows. This piece, made from some unknown pale wood, has surprising pulling power despite its small size.",
     "original": "Goblins know how to craft efficient and light bows. This piece, made from some unknown pale wood, has surprising pulling power despite its small size.",
-    "translation": "地精知道如何制作高效的轻型弓。这一张由一些不知名的浅色木材制成，体积虽小却依旧有着惊人的拉力。",
-    "stage": 5,
+    "translation": "地精是制作高效轻弓的行家。这张弓由一些不知名的浅色木材制成，体积虽小却有着惊人的拉力。",
+    "stage": 1,
     "context": "this.m.Description = 'Goblins know how to craft efficient and light bows. This piece, made from some unknown pale wood, has surprising pulling power despite its small size.'"
   },
   {

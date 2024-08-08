@@ -3,7 +3,7 @@
     "ID": 293419258,
     "key": "A pull-lever crossbow that can propel bolts over medium distances. Effective even in the hands of laymen, but requires almost a full turn to reload. Well balanced and with extraordinarily strong sinews, this weapon is truly the work of a master craftsman.",
     "original": "A pull-lever crossbow that can propel bolts over medium distances. Effective even in the hands of laymen, but requires almost a full turn to reload. Well balanced and with extraordinarily strong sinews, this weapon is truly the work of a master craftsman.",
-    "translation": "一把可以在中等距离上射击弩矢的拉杆式弩。即使是在门外汉的手上也极为有效，但需要几乎整回合的时间来重新装载。平衡良好且弩弦强韧，这把弩绝对是大师级工匠的杰作。",
+    "translation": "一把中等射程的拉杆式弩。在门外汉手上也极为有效，但几乎要装填上一整个回合。平衡良好且弩弦强韧，这把弩绝对是大师级工匠的杰作。",
     "stage": 1,
     "context": "this.m.Description = 'A pull-lever crossbow that can propel bolts over medium distances. Effective even in the hands of laymen, but requires almost a full turn to reload. Well balanced and with extraordinarily strong sinews, this weapon is truly the work of a master craftsman.'"
   },

@@ -515,7 +515,7 @@
     "ID": 293404933,
     "key": "Pole",
     "original": "Pole",
-    "translation": "极",
+    "translation": "长柄",
     "stage": 1,
     "context": "'Pole'"
   },

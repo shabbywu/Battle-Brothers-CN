@@ -11,8 +11,8 @@
     "ID": 293419215,
     "key": "A hermit witch gave you this stone dagger after tempering it with your blood. Reflections in its glass seem to move on their own, but this is clearly a trick of the eye. Very curiously, however, blood never seems to dry if it rests upon the obsidian.",
     "original": "A hermit witch gave you this stone dagger after tempering it with your blood. Reflections in its glass seem to move on their own, but this is clearly a trick of the eye. Very curiously, however, blood never seems to dry if it rests upon the obsidian.",
-    "translation": "一个隐居女巫用你的血炼制的石刀。镜子里的倒影似乎会自己移动，但这显然只是眼睛的把戏。然而非常奇怪的是，如果血滴落在黑曜石上，它似乎永远不会干涸。",
-    "stage": 5,
+    "translation": "一位隐居女巫用你的血回火了这把匕首，又将它赠与了你。匕首镜面般光洁的表面上映出了一个个会自行活动的倒影，不用说，这肯定又是什么利用了视错觉的障眼法罢了。然而出乎你意料的是，沾染在黑曜石上的血液似乎都永远不会干涸，这可真是奇怪。",
+    "stage": 1,
     "context": "this.m.Description = 'A hermit witch gave you this stone dagger after tempering it with your blood. Reflections in its glass seem to move on their own, but this is clearly a trick of the eye. Very curiously, however, blood never seems to dry if it rests upon the obsidian.'"
   },
   {

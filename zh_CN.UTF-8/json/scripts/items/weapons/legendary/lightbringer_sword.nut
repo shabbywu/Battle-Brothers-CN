@@ -35,8 +35,8 @@
     "ID": 293419212,
     "key": "The crepuscular sword bends purples and oranges until it seemingly carries twilight itself in its fuller. Held to the touch, one cannot tell if they are being burned or chilled. Magic or well-crafted, whatever the weapon is it vibrates as though it were f",
     "original": "The crepuscular sword bends purples and oranges until it seemingly carries twilight itself in its fuller. Held to the touch, one cannot tell if they are being burned or chilled. Magic or well-crafted, whatever the weapon is it vibrates as though it were fighting off power immense and you need only swing it to find the steel's true charge.",
-    "translation": "这把泛着紫黄微光的剑就如黄昏的晚霞。轻轻一碰，冰凉之中还带着灼热的触感。无论它是魔法淬炼还是精心打造的，随意间的挥舞都能感觉到其蕴含的无尽力量与强大电流。",
-    "stage": 5,
+    "translation": "每当黄昏时分，这把剑都会吸引来黄紫色的光芒，直到它将来自黄昏的精华凝聚，自身的光芒到达巅峰为止。当你把它握在手中时，那种冰冷与灼热交织的触感让人难以分辨。且不管它是魔法淬炼的天地精华还是匠心独运的惊世巨作，这把武器总是在嗡鸣振动，抗拒着封印在其中的无穷能量，只消稍稍一挥，便能激发出剑身上的真正力量，释放出强大而纯粹的电流。",
+    "stage": 1,
     "context": "this.m.Description = \"The crepuscular sword bends purples and oranges until it seemingly carries twilight itself in its fuller. Held to the touch, one cannot tell if they are being burned or chilled. Magic or well-crafted, whatever the weapon is it vibrates as though it were fighting off power immense and you need only swing it to find the steel's true charge.\""
   },
   {

@@ -11,7 +11,7 @@
     "ID": 293419229,
     "key": "A musical instrument that, if in the right hands, is capable of producing pleasant sounds with its vibrating strings.",
     "original": "A musical instrument that, if in the right hands, is capable of producing pleasant sounds with its vibrating strings.",
-    "translation": "一种乐器，有正确的人用正确的手法拨动，就能振动琴弦发出悦耳的声音。",
+    "translation": "一把乐器，有正确的人用正确的手法拨动，就能振动琴弦发出悦耳的声音。",
     "stage": 1,
     "context": "this.m.Description = 'A musical instrument that, if in the right hands, is capable of producing pleasant sounds with its vibrating strings.'"
   },

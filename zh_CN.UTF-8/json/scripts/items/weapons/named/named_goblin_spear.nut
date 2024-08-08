@@ -11,8 +11,8 @@
     "ID": 293419276,
     "key": "A masterfully crafted goblin spear. Accurate, fast and deadly in the hands of any skilled fighter.",
     "original": "A masterfully crafted goblin spear. Accurate, fast and deadly in the hands of any skilled fighter.",
-    "translation": "精心制作的地精长矛。在任何有经验的战士手中都很准确，迅速，并且致命。",
-    "stage": 5,
+    "translation": "一把精心制作的地精长矛。但凡操作它的战士有一点经验，这都会是一件精准、迅速而致命的武器。",
+    "stage": 1,
     "context": "this.m.Description = 'A masterfully crafted goblin spear. Accurate, fast and deadly in the hands of any skilled fighter.'"
   }
 ]

@@ -3,8 +3,8 @@
     "ID": 293419400,
     "key": "A large scimitar wielded with both hands. The curved blade cleaves right through any enemy.",
     "original": "A large scimitar wielded with both hands. The curved blade cleaves right through any enemy.",
-    "translation": "双手挥舞的大弯刀，弯曲的刀锋能够劈开任何敌人。",
-    "stage": 5,
+    "translation": "一把需要用双手握持的大弯刀，弯曲的刀锋能够劈开任何敌人。",
+    "stage": 1,
     "context": "this.m.Description = 'A large scimitar wielded with both hands. The curved blade cleaves right through any enemy.'"
   },
   {

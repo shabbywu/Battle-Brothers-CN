@@ -19,7 +19,7 @@
     "ID": 293419381,
     "key": "A simple wooden mace with a metal head. Weapons like this are popular among the nomads of the deserts.",
     "original": "A simple wooden mace with a metal head. Weapons like this are popular among the nomads of the deserts.",
-    "translation": "一把金属头的简易木骨朵。这种武器在南方的游牧民间十分流行。",
+    "translation": "一把金属头的简易木柄骨朵。这种武器在南方的游牧民间十分流行。",
     "stage": 1,
     "context": "this.m.Description = 'A simple wooden mace with a metal head. Weapons like this are popular among the nomads of the deserts.'"
   }
