@@ -75,8 +75,8 @@
     "ID": 293421353,
     "key": "the Shadow",
     "original": "the Shadow",
-    "translation": "影子(the Shadow)",
-    "stage": 5,
+    "translation": "影子",
+    "stage": 1,
     "context": "'the Shadow'"
   },
   {
