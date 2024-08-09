@@ -11,15 +11,15 @@
     "ID": 293420799,
     "key": "Bastards often have profited from some training in melee fighting.",
     "original": "Bastards often have profited from some training in melee fighting.",
-    "translation": "私生子们经常从近身格斗的训练中获益。",
-    "stage": 5,
+    "translation": "私生子往往从格斗训练中受益良多",
+    "stage": 1,
     "context": "this.m.BackgroundDescription = 'Bastards often have profited from some training in melee fighting.'"
   },
   {
     "ID": 293420800,
     "key": "Bastards like %name% usually don't get far in this world. They're too hated in the highborn world in which they live, and hated by the lowborn because they don't understand the politics that would make a bastard more common to them than any nobleman. Not ",
     "original": "Bastards like %name% usually don't get far in this world. They're too hated in the highborn world in which they live, and hated by the lowborn because they don't understand the politics that would make a bastard more common to them than any nobleman. Not long after you left the company, you got wind of %name%'s passing. Apparently, a young and cruel lord took over his noble house and saw the bastard as a threat to his throne. Despite the bastard wanting nothing to do with that life anymore, it managed to catch up with him anyway. He was assassinated in a tavern bed, his throat cut as he slept.",
-    "translation": "像%name%这样的私生子通常在这个世界上走不远。他们被所生存的上流社会所憎恨，也被下层社会所憎恨 —— 下层人民不理解为何私生子比贵族更为常见的政治原则。在你离开战团后不久，你听说%name%去世了。很明显，一个年轻而残酷的领主接管了他的贵族家庭，并将这个私生子视为他王位的威胁。尽管这个私生子不再想跟那种生活有任何牵连，但事情还是找上了他。他在一个旅店的床上被刺杀，在睡梦中被割开了喉咙。",
+    "translation": "像%name%这样的私生子通常在这个世界上走不远。他们被所生存的上流社会所憎恨，也被下层社会所憎恨 —— 因为他们不懂政治，对平民来说太过平常。在你离开战团后不久，你听说%name%去世了。据说，一位年轻而残酷的领主接管了他的家族，并将这名私生子视为他王位的威胁。尽管这名私生子不再想跟那种生活有任何牵连，但事情还是找上了他。他在一张旅店的床上被刺杀，在睡梦中被割开了喉咙。",
     "stage": 1,
     "context": "this.m.BadEnding = \"Bastards like %name% usually don't get far in this world. They're too hated in the highborn world in which they live, and hated by the lowborn because they don't understand the politics that would make a bastard more common to them than any nobleman. Not long after you left the company, you got wind of %name%'s passing. Apparently, a young and cruel lord took over his noble house and saw the bastard as a threat to his throne. Despite the bastard wanting nothing to do with that life anymore, it managed to catch up with him anyway. He was assassinated in a tavern bed, his throat cut as he slept.\""
   },
