@@ -19,8 +19,8 @@
     "ID": 293420816,
     "key": "the Homeless",
     "original": "the Homeless",
-    "translation": "无家可归者(the Homeless)",
-    "stage": 5,
+    "translation": "流浪汉",
+    "stage": 1,
     "context": "'the Homeless'"
   },
   {
@@ -67,32 +67,32 @@
     "ID": 293420822,
     "key": "the Sloth",
     "original": "the Sloth",
-    "translation": "懒汉(the Sloth)",
-    "stage": 5,
+    "translation": "懒汉",
+    "stage": 1,
     "context": "'the Sloth'"
   },
   {
     "ID": 293420823,
     "key": "the Beggar",
     "original": "the Beggar",
-    "translation": "乞丐(the Beggar)",
-    "stage": 5,
+    "translation": "要饭的",
+    "stage": 1,
     "context": "'the Beggar'"
   },
   {
     "ID": 293420824,
     "key": "the Skunk",
     "original": "the Skunk",
-    "translation": "臭鼬(the Skunk)",
-    "stage": 5,
+    "translation": "臭鼬",
+    "stage": 1,
     "context": "'the Skunk'"
   },
   {
     "ID": 293420825,
     "key": "the Sluggard",
     "original": "the Sluggard",
-    "translation": "懒汉(the Sluggard)",
-    "stage": 5,
+    "translation": "懒蛋",
+    "stage": 1,
     "context": "'the Sluggard'"
   },
   {
@@ -107,40 +107,40 @@
     "ID": 293420827,
     "key": "the Poor",
     "original": "the Poor",
-    "translation": "穷鬼(the Poor)",
-    "stage": 5,
+    "translation": "穷光蛋",
+    "stage": 1,
     "context": "'the Poor'"
   },
   {
     "ID": 293420828,
     "key": "the Idle",
     "original": "the Idle",
-    "translation": "懒鬼(the Idle)",
-    "stage": 5,
+    "translation": "无业游民",
+    "stage": 1,
     "context": "'the Idle'"
   },
   {
     "ID": 293420829,
     "key": "the Useless",
     "original": "the Useless",
-    "translation": "无用之人(the Useless)",
-    "stage": 5,
+    "translation": "白吃饱",
+    "stage": 1,
     "context": "'the Useless'"
   },
   {
     "ID": 293420830,
     "key": "the Sick",
     "original": "the Sick",
-    "translation": "病人(the Sick)",
-    "stage": 5,
+    "translation": "病秧子",
+    "stage": 1,
     "context": "'the Sick'"
   },
   {
     "ID": 293420831,
     "key": "Beggar",
     "original": "Beggar",
-    "translation": "乞丐(Beggar)",
-    "stage": 5,
+    "translation": "乞丐",
+    "stage": 1,
     "context": "this.m.Name = 'Beggar'"
   }
 ]

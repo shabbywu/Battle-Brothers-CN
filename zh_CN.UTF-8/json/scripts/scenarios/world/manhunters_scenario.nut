@@ -163,8 +163,8 @@
     "ID": 293419713,
     "key": "the Beggar",
     "original": "the Beggar",
-    "translation": "乞丐(the Beggar)",
-    "stage": 5,
+    "translation": "要饭的",
+    "stage": 1,
     "context": "bros[5].setTitle('the Beggar')"
   },
   {

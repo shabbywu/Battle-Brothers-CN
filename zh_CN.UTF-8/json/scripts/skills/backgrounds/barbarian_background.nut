@@ -3,7 +3,7 @@
     "ID": 293420794,
     "key": "%name% the barbarian took all the coin he earned with the company and ventured north. With his money, he gathered a band of warriors and conquered so many tribes that, last you heard, he had been ordained 'king of the north'.",
     "original": "%name% the barbarian took all the coin he earned with the company and ventured north. With his money, he gathered a band of warriors and conquered so many tribes that, last you heard, he had been ordained 'king of the north'.",
-    "translation": "野蛮人%name%带着他在战团挣到的钱，前往北方冒险。他用他的钱召集了一群战士，征服了许多部落，据你上次听到的消息，他已成了“北方之王”。",
+    "translation": "野蛮人%name%带着他在战团挣到的钱，前往北方冒险。他用他的钱召集了一群战士，征服了许多部落，据你上次听到的消息，他被拥立为了“北方之王”。",
     "stage": 1,
     "context": "this.m.GoodEnding = \"%name% the barbarian took all the coin he earned with the company and ventured north. With his money, he gathered a band of warriors and conquered so many tribes that, last you heard, he had been ordained 'king of the north'.\""
   },
