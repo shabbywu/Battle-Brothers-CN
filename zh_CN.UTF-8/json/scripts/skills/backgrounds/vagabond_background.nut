@@ -11,16 +11,16 @@
     "ID": 293421361,
     "key": "Vagabonds are used to long travels, but don't excel in anything in particular.",
     "original": "Vagabonds are used to long travels, but don't excel in anything in particular.",
-    "translation": "流浪汉习惯于长途旅行，但没有任何擅长的特定领域。",
-    "stage": 5,
+    "translation": "流民惯于长途旅行，没有什么具体特长",
+    "stage": 1,
     "context": "this.m.BackgroundDescription = \"Vagabonds are used to long travels, but don't excel in anything in particular.\""
   },
   {
     "ID": 293421362,
     "key": "the Homeless",
     "original": "the Homeless",
-    "translation": "无家可归者(the Homeless)",
-    "stage": 5,
+    "translation": "流浪汉",
+    "stage": 1,
     "context": "'the Homeless'"
   },
   {
@@ -43,7 +43,7 @@
     "ID": 293421365,
     "key": "As the company fell apart, it's little surprise that a vagabond like %name% chose to leave it behind and return to the roads. Unfortunately, with the world in such a dire state, it did not take long for him to find trouble. His body was found hanging outs",
     "original": "As the company fell apart, it's little surprise that a vagabond like %name% chose to leave it behind and return to the roads. Unfortunately, with the world in such a dire state, it did not take long for him to find trouble. His body was found hanging outside a small farming village. A sign nailed to his chest read: 'No Free Rangers'.",
-    "translation": "随着战团分崩离析，像%name%这样的流浪汉选择离开它并回到路上并不奇怪。不幸的是，由于世界处在如此糟糕的状态，他很快就遇到了麻烦。他的尸体在一个小村外被发现。被挂在树上的他胸前钉着一块牌子，上面写着:“不接受流浪汉”。",
+    "translation": "随着战团分崩离析，流民%name%会选择离开战团重新上路并不奇怪。不幸的是，由于世道艰辛，他很快就遇到了麻烦。他的尸体在一个小村外被发现。被挂在树上的他胸前钉着一块牌子，上面写着:“流浪汉勿入”。",
     "stage": 1,
     "context": "this.m.BadEnding = \"As the company fell apart, it's little surprise that a vagabond like %name% chose to leave it behind and return to the roads. Unfortunately, with the world in such a dire state, it did not take long for him to find trouble. His body was found hanging outside a small farming village. A sign nailed to his chest read: 'No Free Rangers'.\""
   },
@@ -67,16 +67,16 @@
     "ID": 293421368,
     "key": "Some men were just intended to wander. While his time with the %companyname% went well, %name% the vagabond eventually departed with the company and set off on the roads once more. You've no idea where he's gone, you just know all he's interested in is go",
     "original": "Some men were just intended to wander. While his time with the %companyname% went well, %name% the vagabond eventually departed with the company and set off on the roads once more. You've no idea where he's gone, you just know all he's interested in is going.",
-    "translation": "有些人注定要漂泊。虽然他与%companyname%在一起的时光很愉快，但流浪汉%name%最终还是离开了战团，重新踏上了漫漫征程。你不知道他去了哪里，你只知道他对旅行充满了兴趣。",
-    "stage": 5,
+    "translation": "有些人注定要漂泊。虽然与%companyname%在一起的时光很愉快，但流民%name%最终还是离开了战团，重新踏上了漫漫征程。你不知道他去了哪里，只知道他对旅行充满了兴趣。",
+    "stage": 1,
     "context": "this.m.GoodEnding = \"Some men were just intended to wander. While his time with the %companyname% went well, %name% the vagabond eventually departed with the company and set off on the roads once more. You've no idea where he's gone, you just know all he's interested in is going.\""
   },
   {
     "ID": 293421369,
     "key": "Vagabond",
     "original": "Vagabond",
-    "translation": "流浪汉",
-    "stage": 5,
+    "translation": "流民",
+    "stage": 1,
     "context": "this.m.Name = 'Vagabond'"
   },
   {
@@ -91,8 +91,8 @@
     "ID": 293421371,
     "key": "the Vagabond",
     "original": "the Vagabond",
-    "translation": "流浪汉(the Vagabond)",
-    "stage": 5,
+    "translation": "流民",
+    "stage": 1,
     "context": "'the Vagabond'"
   },
   {

@@ -3,15 +3,15 @@
     "ID": 293420781,
     "key": "the Backstabber",
     "original": "the Backstabber",
-    "translation": "背刺者(the Backstabber)",
-    "stage": 5,
+    "translation": "背刺者",
+    "stage": 1,
     "context": "'the Backstabber'"
   },
   {
     "ID": 293420782,
     "key": "the Elusive",
     "original": "the Elusive",
-    "translation": "莫测(the Elusive)",
+    "translation": "莫测",
     "stage": 1,
     "context": "'the Elusive'"
   },
@@ -27,32 +27,32 @@
     "ID": 293420784,
     "key": "An assassin has to be quick on his feet and skilled with the use of weapons.",
     "original": "An assassin has to be quick on his feet and skilled with the use of weapons.",
-    "translation": "一个刺客必须腿脚利索且精于武器使用。",
-    "stage": 5,
+    "translation": "刺客必须腿脚利索，精于武器使用。",
+    "stage": 1,
     "context": "this.m.BackgroundDescription = 'An assassin has to be quick on his feet and skilled with the use of weapons.'"
   },
   {
     "ID": 293420785,
     "key": "the Murderer",
     "original": "the Murderer",
-    "translation": "凶手(the Murderer)",
-    "stage": 5,
+    "translation": "杀手",
+    "stage": 1,
     "context": "'the Murderer'"
   },
   {
     "ID": 293420786,
     "key": "the Shadow",
     "original": "the Shadow",
-    "translation": "影子(the Shadow)",
-    "stage": 5,
+    "translation": "影子",
+    "stage": 1,
     "context": "'the Shadow'"
   },
   {
     "ID": 293420787,
     "key": "the Assassin",
     "original": "the Assassin",
-    "translation": "刺客(the Assassin)",
-    "stage": 5,
+    "translation": "刺客",
+    "stage": 1,
     "context": "'the Assassin'"
   },
   {
@@ -67,8 +67,8 @@
     "ID": 293420789,
     "key": "the Unseen",
     "original": "the Unseen",
-    "translation": "无形者(the Unseen)",
-    "stage": 5,
+    "translation": "无形者",
+    "stage": 1,
     "context": "'the Unseen'"
   },
   {
@@ -83,16 +83,16 @@
     "ID": 293420791,
     "key": "the Dagger",
     "original": "the Dagger",
-    "translation": "匕首(the Dagger)",
-    "stage": 5,
+    "translation": "匕首",
+    "stage": 1,
     "context": "'the Dagger'"
   },
   {
     "ID": 293420792,
     "key": "{You wouldn't think it at first, but %name% looks like any other man. Ordinary. Just an ordinary man. | %name% looks almost like the mold of every man you've ever met put together. He has a face you'd never remember. | %name% has a gentle smile and demean",
     "original": "{You wouldn't think it at first, but %name% looks like any other man. Ordinary. Just an ordinary man. | %name% looks almost like the mold of every man you've ever met put together. He has a face you'd never remember. | %name% has a gentle smile and demeanor. He talks to all others as equals, weighing the opinions of wealthy and poor seemingly to measure himself between them. | %name% offers nothing with which to garner a second look. He is wholly simple, and wholly a man meant to be a part of this world.} {Of course, this is by design. He is an assassin sent by a guild of trained killers. A scroll he carries suggests, without threat, that you take him under your employ. | This unassuming existence is a trained face for a man who is, in actuality, a trained assassin carrying a one-of-a-kind Qatal dagger from his guild. | A bland face has a murderous past, though, for the man carries a Qatal dagger given only to the best killers of one of the South's guild of assassins. | But the 'familiar stranger' face is a put on, intended to hide the fact that he is a man from a guild of assassins sent out for reasons you may never know.} {%name% could be standing right next to you, yet feel as though he's disappeared into a crowd of two. | Despite knowing you've never met the man until now, you can't help but feel you've seen %name% somewhere before. | You naturally feel at ease around %name%, which almost feels like a setup in and of itself, so in turn you force yourself to stay alert around him instead.}",
-    "translation": "{刚见到%name%时，你不会觉得他有什么特别，很普通。仅仅是一个普普通通的人 | %name%看上去几乎就是你所见过的所有男人的集合体。他长着一张你永远不会记下的脸。 | %name%有着温和的微笑和风度。他和所有人平等相处、交谈，似乎在衡量自己与富人和穷人之间的观点权重。 | %name%没有什么能让人再看一眼的点，就是一个简单的人，注定要成为这个世界的一部分。}{当然，这一切都是有意设计的。他是一名受训杀手行会派来的刺客。他随身携带的卷轴表明，你可以毫无风险地雇用他。 | 这个不起眼的存在实际上是一名训练有素刺客的伪装身份，手里拿着来自他行会的卡塔尔匕首，独一无二的那种。 | 然而，一张平淡无奇的脸却有着凶残的过去，因为这个男人手里拿着一把卡塔尔匕首 —— 只有南方刺客行会中最优秀的杀手才能持有。 | 但那张“熟悉的陌生人”的脸是装出来的，旨在掩盖他来自一家刺客行会的事实，而他被派来的原因你可能永远都不会知道。}{%name%可以就站在你的旁边，而让你感觉他已经消失在只有两个人的人群中了。 | 尽管你知道你直到现在才见过这个人，但你还是忍不住觉得你以前在什么地方见过%name%。 | 在%name%身边，你自然而然地感到轻松自在，这本质上几乎就像是一种设置，所以反过来，你强迫自己在他身边时保持警惕。}",
-    "stage": 5,
+    "translation": "{起初你并没有多想，毕竟%name%长得和每个平凡人都差不多。普通得很。再普通不过的一个人。 | %name%的面容就像是你见过的每个人长在了一起。你总是记不清这张脸。 | %name%笑容可亲，举止得体。面对任何人都能做到不卑不亢，平衡着看待富人和穷人的观点，调整着自己在中间的位置。 | %name%没有什么能让人再看一眼的点，简单得不能再简单，注定要成为这个世界的一部分。}{当然了，这都是设计好的。他是一家老练杀手组成的行会派来的。他随身携带的卷轴建议你 —— 并没有威胁的意思，雇佣他。 | 这个不起眼的存在实际上是一名训练有素的刺客，随身携带着他工会独有的刺杀匕首。 | 然而，这张平淡无奇的脸却藏着凶残的过去，他随身携带的刺杀匕首只被南方的刺客工会授予给最好的杀手。 | 但那张“熟悉的陌生人”的脸只是一种伪装，旨在掩盖他来自一家刺客行会的事实，而他被派来的原因你可能永远都不会知道。}{%name%可以就站在你的旁边，而让你感觉他已经消失在只有两个人的人群中了。 | 尽管你知道你是第一次见到%name%，但你还是忍不住觉得在哪里见过他。 | 在%name%身边，你自然而然地就会感到放松，简直就像是有谁给你设了个局，所以，只要他在你身边，你就会强迫自己保持警惕。}",
+    "stage": 1,
     "context": "return \"{You wouldn't think it at first, but %name% looks like any other man. Ordinary. Just an ordinary man. | %name% looks almost like the mold of every man you've ever met put together. He has a face you'd never remember. | %name% has a gentle smile and demeanor. He talks to all others as equals, weighing the opinions of wealthy and poor seemingly to measure himself between them. | %name% offers nothing with which to garner a second look. He is wholly simple, and wholly a man meant to be a part of this world.} {Of course, this is by design. He is an assassin sent by a guild of trained killers. A scroll he carries suggests, without threat, that you take him under your employ. | This unassuming existence is a trained face for a man who is, in actuality, a trained assassin carrying a one-of-a-kind Qatal dagger from his guild. | A bland face has a murderous past, though, for the man carries a Qatal dagger given only to the best killers of one of the South's guild of assassins. | But the 'familiar stranger' face is a put on, intended to hide the fact that he is a man from a guild of assassins sent out for reasons you may never know.} {%name% could be standing right next to you, yet feel as though he's disappeared into a crowd of two. | Despite knowing you've never met the man until now, you can't help but feel you've seen %name% somewhere before. | You naturally feel at ease around %name%, which almost feels like a setup in and of itself, so in turn you force yourself to stay alert around him instead.}\";"
   },
   {
