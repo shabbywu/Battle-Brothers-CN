@@ -24440,8 +24440,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:39.94Z",
         "updatedAt": "2023-06-26T05:48:53.738Z",
-        "modifiedAt": "2024-08-02T02:59:38Z",
-        "sha256": "91647f7454cca888f7a54ee270f8e4afc4f167c7b0439ff9721ac68095e2acd9"
+        "modifiedAt": "2024-08-11T02:05:14Z",
+        "sha256": "a5c368ea8e9b5cd08453d74cacd9bf83b68f87c65478702f93f2d4b727bb4d8c"
     },
     "scripts/items/shields/named/named_shield.json": {
         "id": 919704,
@@ -32648,8 +32648,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:15.979Z",
         "updatedAt": "2023-06-26T05:49:24.257Z",
-        "modifiedAt": "2024-08-09T03:03:03Z",
-        "sha256": "1865ed56681befb63c482081959574a7502ae8d7a79256bcfd5d1ce586a56491"
+        "modifiedAt": "2024-08-11T08:10:59Z",
+        "sha256": "1f6f0c26cc78b5f9325a65fff25087c40c14beca5f715dfe40471c2d0eb79555"
     },
     "scripts/skills/backgrounds/beggar_southern_background.json": {
         "id": 920160,
@@ -34088,8 +34088,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:56.256Z",
         "updatedAt": "2023-06-26T05:49:31.1Z",
-        "modifiedAt": "2024-08-09T03:07:33Z",
-        "sha256": "db1804e415696e69d9577e7c5bc50bcbb6041e91c9fd52a23a50d9c46bee3f86"
+        "modifiedAt": "2024-08-11T08:10:59Z",
+        "sha256": "b95739bc2627bb373e1691aba1f1db933a43ab74707c5ff8ec9a8c9ac3a9bc78"
     },
     "scripts/skills/backgrounds/wildman_background.json": {
         "id": 920240,
