@@ -19,7 +19,7 @@
     "ID": 293420816,
     "key": "the Homeless",
     "original": "the Homeless",
-    "translation": "流浪汉",
+    "translation": "流民",
     "stage": 1,
     "context": "'the Homeless'"
   },
