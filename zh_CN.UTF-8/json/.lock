@@ -1220,8 +1220,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.288Z",
         "updatedAt": "2023-06-26T05:46:29.6Z",
-        "modifiedAt": "2024-07-23T08:10:39Z",
-        "sha256": "6b1afcb951462c6e33b090b11aabad1ab96182159e6df0f7fed4f33c6138041f"
+        "modifiedAt": "2024-08-13T01:11:09Z",
+        "sha256": "d5fdd1c0efdc1c2ab5d866d9a0d5fa70f432225ab145275ae983ea0a53cfefde"
     },
     "scripts/config/credits.json": {
         "id": 918414,
@@ -1310,8 +1310,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:43.544Z",
         "updatedAt": "2023-06-26T05:46:32.269Z",
-        "modifiedAt": "2024-03-05T04:30:42Z",
-        "sha256": "5d730b504a224868f7d378da7176a860ceabc803b7b3e15578cf26f759d33dcc"
+        "modifiedAt": "2024-08-15T07:42:47Z",
+        "sha256": "bbb45db46213ccd74e35bdfc765407fb06a35094cde4bc5e1a8885b9a2b09d7d"
     },
     "scripts/config/spawnlist_master.json": {
         "id": 918419,
