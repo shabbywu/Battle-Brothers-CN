@@ -979,7 +979,7 @@
     "ID": 293403900,
     "key": "Al-Mayuriqi",
     "original": "Al-Mayuriqi",
-    "translation": "阿尔马尤里奇",
+    "translation": "阿尔·马图里迪",
     "stage": 1,
     "context": "'Al-Mayuriqi'"
   },

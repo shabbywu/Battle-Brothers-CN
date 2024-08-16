@@ -3,7 +3,7 @@
     "ID": 293405429,
     "key": "You like mushrooms? Well, I most certainly hate them! But there's not much else to be found in this stinking swamp besides biting midges and spiders.",
     "original": "You like mushrooms? Well, I most certainly hate them! But there's not much else to be found in this stinking swamp besides biting midges and spiders.",
-    "translation": "你喜欢蘑菇吗？嗯，我最恨它们了！但是在这片臭气熏天的沼泽里，除了咬人的蚊子和蜘蛛外，再也找不到别的东西了。",
+    "translation": "你喜欢吃蘑菇？哼，我肯定是讨厌极了！可这片烂沼泽里再也找不到别的吃的了，我总不能去吃小咬和蜘蛛吧。",
     "stage": 1,
     "context": "\"You like mushrooms? Well, I most certainly hate them! But there's not much else to be found in this stinking swamp besides biting midges and spiders.\""
   },
@@ -11,7 +11,7 @@
     "ID": 293405430,
     "key": "The men cheer your name as they drink.",
     "original": "The men cheer your name as they drink.",
-    "translation": "男人们一边喝酒一边欢呼你的名字。",
+    "translation": "战士们欢呼着你的名字畅饮了起来。",
     "stage": 1,
     "context": "'The men cheer your name as they drink.'"
   },
@@ -19,7 +19,7 @@
     "ID": 293405431,
     "key": "Those northeners pay good coin for our silk and spices, so we have caravans going up all the time. And caravans need escorts, you know.",
     "original": "Those northeners pay good coin for our silk and spices, so we have caravans going up all the time. And caravans need escorts, you know.",
-    "translation": "那些北方人为我们的丝绸和香料付了很多硬币，所以我们的商队一直在增加。商队需要护卫，你知道吗。",
+    "translation": "那些北方人为我们的丝绸和香料花了大价钱，商队的往来也越来越频繁。而商队总是要有人保护，你懂的。",
     "stage": 1,
     "context": "'Those northeners pay good coin for our silk and spices, so we have caravans going up all the time. And caravans need escorts, you know.'"
   },
@@ -27,7 +27,7 @@
     "ID": 293405432,
     "key": "Somewhere %direction% of here be some goblins. The only reason I know it is because every swinging dick that comes this way talks about how they just barely got away with their life. One even claims he lost his mastercrafted shield when legging it.",
     "original": "Somewhere %direction% of here be some goblins. The only reason I know it is because every swinging dick that comes this way talks about how they just barely got away with their life. One even claims he lost his mastercrafted shield when legging it.",
-    "translation": "这里 %direction% 的某处居住着一群地精。我知道这一切的唯一原因是因为每一个嘚瑟的家伙都在谈论他们是如何侥幸逃脱它们的魔掌。有人还声称在逃跑时丢了一块精良的盾牌。",
+    "translation": "这的%direction%边住着一群地精。我能知道这事完全是因为那些吊儿郎当的主总会谈起他们是怎么逃出生天的。甚至还有人说他跑路的时候丢了一面精制盾牌呢。",
     "stage": 1,
     "context": "'Somewhere %direction% of here be some goblins. The only reason I know it is because every swinging dick that comes this way talks about how they just barely got away with their life. One even claims he lost his mastercrafted shield when legging it.'"
   },
@@ -35,7 +35,7 @@
     "ID": 293405433,
     "key": "A farmer from up %direction% told me he saw some small, sinister creatures on his land carrying a large, shiny shield and making devilish noises. He says it was goblins, but I say he got pranked by some youngsters!",
     "original": "A farmer from up %direction% told me he saw some small, sinister creatures on his land carrying a large, shiny shield and making devilish noises. He says it was goblins, but I say he got pranked by some youngsters!",
-    "translation": "一位来自 %direction% 的农夫告诉我，他看见一些矮小的，阴险的生物在他的土地上，还拿着一件巨大闪亮的盾牌发出邪恶的声音。他说那些是地精，但我说他是被一些小孩子戏耍了！",
+    "translation": "一位%direction%边来的农夫告诉我，他在地里看到了一些又矮又阴险的生物，拿着一件巨大的闪亮盾牌，还不时发出一些邪恶的声音。他说那些是地精，要我说，他肯定是被一群小孩儿给耍了！",
     "stage": 1,
     "context": "'A farmer from up %direction% told me he saw some small, sinister creatures on his land carrying a large, shiny shield and making devilish noises. He says it was goblins, but I say he got pranked by some youngsters!'"
   },
@@ -51,7 +51,7 @@
     "ID": 293405435,
     "key": "If you're looking to stack up on food and supplies head over to the market and look for %randomname%. He has the best quality and the lowest prices!",
     "original": "If you're looking to stack up on food and supplies head over to the market and look for %randomname%. He has the best quality and the lowest prices!",
-    "translation": "如果你想准备食物补给品那就去市场找 %randomname%。他那里的东西物美价廉。",
+    "translation": "如果你想囤点食物，那就去市场找%randomname%啊。他那儿的东西又便宜又实惠。",
     "stage": 1,
     "context": "\"If you're looking to stack up on food and supplies head over to the market and look for %randomname%. He has the best quality and the lowest prices!\""
   },
@@ -59,7 +59,7 @@
     "ID": 293405436,
     "key": "You heard of %location%? Ask anyone around here, it's been haunting %townname% since before I was born. Folks say some armor from the gods is sealed there for all time, back from when man first settled here.",
     "original": "You heard of %location%? Ask anyone around here, it's been haunting %townname% since before I was born. Folks say some armor from the gods is sealed there for all time, back from when man first settled here.",
-    "translation": "你听说过 %location% 吗？这里所有人都知道 %townname%，自打我出生以来就刻在我的脑海里了。人们都说在人类定居之前有件盔甲被诸神一直封印在那里。",
+    "translation": "你听说过%location%吗？你到处打听打听，从我出生起%townname%就深受其害。人们都说，人类在这儿定居之前，就有一件诸神的盔甲被封印在那儿了。",
     "stage": 1,
     "context": "\"You heard of %location%? Ask anyone around here, it's been haunting %townname% since before I was born. Folks say some armor from the gods is sealed there for all time, back from when man first settled here.\""
   },
@@ -67,7 +67,7 @@
     "ID": 293405437,
     "key": "When I was moved to %townname% I never imagined life here to be so dull and hard. But still better than working the fields until your back snaps, I suppose...",
     "original": "When I was moved to %townname% I never imagined life here to be so dull and hard. But still better than working the fields until your back snaps, I suppose...",
-    "translation": "当我搬到 %townname% 来的时候没想到生活会如此枯燥与艰苦。但我想这也总比在田里累的直不起腰来要好......",
+    "translation": "我搬到%townname%来的时候没想到生活会如此枯燥与艰苦。但我想这也总比在田里累的直不起腰来要好......",
     "stage": 1,
     "context": "'When I was moved to %townname% I never imagined life here to be so dull and hard. But still better than working the fields until your back snaps, I suppose...'"
   },
@@ -75,7 +75,7 @@
     "ID": 293405438,
     "key": "1st %townname% Company. Best lot of halfwits and scallywags I've ever served with. Wouldn't trade 'em for the world.",
     "original": "1st %townname% Company. Best lot of halfwits and scallywags I've ever served with. Wouldn't trade 'em for the world.",
-    "translation": "%townname% 的第一战团。我服务过的最好的混蛋与流氓。我不会拿他们和世界做交易。",
+    "translation": "%townname%第一团。我当兵时候见过最好的一帮混蛋。我说什么也不会出卖他们。",
     "stage": 1,
     "context": "\"1st %townname% Company. Best lot of halfwits and scallywags I've ever served with. Wouldn't trade 'em for the world.\""
   },
@@ -139,7 +139,7 @@
     "ID": 293405446,
     "key": "The men cheer the company name as they drink.",
     "original": "The men cheer the company name as they drink.",
-    "translation": "男人们一边喝酒一边为战团的名字欢呼。",
+    "translation": "人们高喊着战团的名字举杯畅饮起来。",
     "stage": 1,
     "context": "'The men cheer the company name as they drink.'"
   },
@@ -179,7 +179,7 @@
     "ID": 293405451,
     "key": "If it's adventure you seek, there's a place called %location% %terrain% %direction% of here. Don't know who lives there nowadays, though.",
     "original": "If it's adventure you seek, there's a place called %location% %terrain% %direction% of here. Don't know who lives there nowadays, though.",
-    "translation": "如果你要冒险的话，这里有个地方叫 %location% %terrain% %direction% 。不知道现在谁住在那里。",
+    "translation": "如果你想来点冒险，有个叫%location%的地方，就在%direction%边的%Terrain%上。就是不清楚现在谁住在那儿了。",
     "stage": 1,
     "context": "\"If it's adventure you seek, there's a place called %location% %terrain% %direction% of here. Don't know who lives there nowadays, though.\""
   },
@@ -339,7 +339,7 @@
     "ID": 293405471,
     "key": "Your men cheer and toast to riches and a long life.",
     "original": "Your men cheer and toast to riches and a long life.",
-    "translation": "你的男人欢呼，为财富和长寿干杯。",
+    "translation": "你的人为财富和长寿干杯。",
     "stage": 1,
     "context": "'Your men cheer and toast to riches and a long life.'"
   },
@@ -387,7 +387,7 @@
     "ID": 293405477,
     "key": "The strong drinks blur the horrors of combat for a while.",
     "original": "The strong drinks blur the horrors of combat for a while.",
-    "translation": "烈酒暂时模糊了战斗的恐怖。",
+    "translation": "烈酒暂时让人忘却了战斗的恐惧。",
     "stage": 1,
     "context": "'The strong drinks blur the horrors of combat for a while.'"
   },
@@ -499,7 +499,7 @@
     "ID": 293405491,
     "key": "Laughter and light-hearted stories fills the tavern as your men drink.",
     "original": "Laughter and light-hearted stories fills the tavern as your men drink.",
-    "translation": "当你的男人喝酒时，小酒馆里充满了欢声笑语和轻松愉快的故事。",
+    "translation": "人们开怀畅饮，欢声笑语和诙谐故事充满了整个酒馆。",
     "stage": 1,
     "context": "'Laughter and light-hearted stories fills the tavern as your men drink.'"
   },
@@ -507,7 +507,7 @@
     "ID": 293405492,
     "key": "Hard mercenary life takes a rest as the men share stories of their past lives and enjoy themselves.",
     "original": "Hard mercenary life takes a rest as the men share stories of their past lives and enjoy themselves.",
-    "translation": "当男人们分享他们前世的故事并享受自己时，艰苦的雇佣军生活需要休息。",
+    "translation": "艰苦的佣兵生活暂且放到一边，大家分享过去的故事，享受这片刻的欢愉。",
     "stage": 1,
     "context": "'Hard mercenary life takes a rest as the men share stories of their past lives and enjoy themselves.'"
   },
@@ -555,7 +555,7 @@
     "ID": 293405498,
     "key": "The people murmur approvingly.",
     "original": "The people murmur approvingly.",
-    "translation": "众人赞叹不已。",
+    "translation": "众人低声赞许。",
     "stage": 1,
     "context": "'The people murmur approvingly.'"
   },
@@ -659,7 +659,7 @@
     "ID": 293405511,
     "key": "%randomname% told me 'bout %location% the other day. Full of treasure he said, %distance% %direction% of here. Or maybe I'm remembering it wrong.",
     "original": "%randomname% told me 'bout %location% the other day. Full of treasure he said, %distance% %direction% of here. Or maybe I'm remembering it wrong.",
-    "translation": "前几天 %randomname% 告诉了我关于 %location% 的事, 他说:“这里的 %distance% %direction% 充满了宝藏”，当然, 也有可能是我记错了。",
+    "translation": "前几天%randomname%跟我提到了一个叫%location%的地儿，他说那儿都是宝藏，就在这儿%direction%边，离这儿%distance%，当然，也可能是我记错了。",
     "stage": 1,
     "context": "\"%randomname% told me 'bout %location% the other day. Full of treasure he said, %distance% %direction% of here. Or maybe I'm remembering it wrong.\""
   },
@@ -739,7 +739,7 @@
     "ID": 293405521,
     "key": "The men drink to women and their bosoms.",
     "original": "The men drink to women and their bosoms.",
-    "translation": "男人们为女人和她们的胸脯喝酒。",
+    "translation": "人们为美女和她们的温柔乡干杯。",
     "stage": 1,
     "context": "'The men drink to women and their bosoms.'"
   },
@@ -771,7 +771,7 @@
     "ID": 293405525,
     "key": "'Huzzah to the commander!', the men shout.",
     "original": "'Huzzah to the commander!', the men shout.",
-    "translation": "“指挥官万岁！”男人们喊道。",
+    "translation": "“指挥官万岁！”人们喊道。",
     "stage": 1,
     "context": "\"'Huzzah to the commander!', the men shout.\""
   },
@@ -915,7 +915,7 @@
     "ID": 293405543,
     "key": "The innkeeper rings a bell to let everyone know the next round is on you.",
     "original": "The innkeeper rings a bell to let everyone know the next round is on you.",
-    "translation": "旅店老板敲响了铃，让每个人都知道下一轮在你身上。",
+    "translation": "旅店老板摇响了铃铛，让每个人都知道，下轮酒你请了。",
     "stage": 1,
     "context": "'The innkeeper rings a bell to let everyone know the next round is on you.'"
   },
@@ -923,7 +923,7 @@
     "ID": 293405544,
     "key": "There's a place called %location% %terrain% to the %direction% of here. Most people know about it, I think, but few would venture there.",
     "original": "There's a place called %location% %terrain% to the %direction% of here. Most people know about it, I think, but few would venture there.",
-    "translation": "这里的 %direction% 有一个地方叫%location% %terrain%。我想大多数人都知道它，但很少有人会去那里冒险。",
+    "translation": "这儿%direction%边的%terrain%上有个叫%location%的地方。我想大多数人都知道它，但很少有人去那里冒险。",
     "stage": 1,
     "context": "\"There's a place called %location% %terrain% to the %direction% of here. Most people know about it, I think, but few would venture there.\""
   },
@@ -939,7 +939,7 @@
     "ID": 293405546,
     "key": "The men drink to the loyal wardogs.",
     "original": "The men drink to the loyal wardogs.",
-    "translation": "男人们为忠诚的军犬喝酒。",
+    "translation": "人们为忠诚的战犬干杯。",
     "stage": 1,
     "context": "'The men drink to the loyal wardogs.'"
   },
@@ -1003,7 +1003,7 @@
     "ID": 293405554,
     "key": "The patrons shout your name as they clink their cups. The drink loosens their tongues.",
     "original": "The patrons shout your name as they clink their cups. The drink loosens their tongues.",
-    "translation": "顾客碰杯时大喊你的名字。饮料使他们的舌头放松。",
+    "translation": "酒客们一边碰杯，一边高喊着你的名字。酒精让他们口无遮拦。",
     "stage": 1,
     "context": "'The patrons shout your name as they clink their cups. The drink loosens their tongues.'"
   },
@@ -1067,7 +1067,7 @@
     "ID": 293405562,
     "key": "The patrons nod approvingly.",
     "original": "The patrons nod approvingly.",
-    "translation": "食客赞许地点头。",
+    "translation": "酒客们赞许地点了点头。",
     "stage": 1,
     "context": "'The patrons nod approvingly.'"
   },
@@ -1275,7 +1275,7 @@
     "ID": 293405588,
     "key": "The men drink to fallen comrades.",
     "original": "The men drink to fallen comrades.",
-    "translation": "男人们为倒下的同志喝酒。",
+    "translation": "人们举杯向牺牲的战友们致敬。",
     "stage": 1,
     "context": "'The men drink to fallen comrades.'"
   },
@@ -1283,7 +1283,7 @@
     "ID": 293405589,
     "key": "The beer makes the hardships of the day disappear.",
     "original": "The beer makes the hardships of the day disappear.",
-    "translation": "啤酒使一天的艰辛消失了。",
+    "translation": "一杯啤酒下肚，一天的辛劳仿佛烟消云散。",
     "stage": 1,
     "context": "'The beer makes the hardships of the day disappear.'"
   },
@@ -1587,7 +1587,7 @@
     "ID": 293405627,
     "key": "Your men boast with their accomplishments as they drink.",
     "original": "Your men boast with their accomplishments as they drink.",
-    "translation": "你的人喝酒时总喜欢夸大自己的成就。",
+    "translation": "你的人边喝酒边夸耀着自己的功绩。",
     "stage": 1,
     "context": "'Your men boast with their accomplishments as they drink.'"
   },
@@ -1595,7 +1595,7 @@
     "ID": 293405628,
     "key": "You may think our land is barren and scant but once you live here you will learn to love it like no other!",
     "original": "You may think our land is barren and scant but once you live here you will learn to love it like no other!",
-    "translation": "你可能认为我们的土地即荒凉又贫瘠，但一旦你住在这里，你就会爱上它！",
+    "translation": "你可能认为我们的土地即荒凉又贫瘠，但只要住上一住，你肯定会爱上它！",
     "stage": 1,
     "context": "'You may think our land is barren and scant but once you live here you will learn to love it like no other!'"
   },
@@ -1603,7 +1603,7 @@
     "ID": 293405629,
     "key": "Farkin' patrol duty. Barely got back 'ere, blisters on me feet still from all the marchin' and we're about to 'ead out again. Just put us on 'orses, I say!",
     "original": "Farkin' patrol duty. Barely got back 'ere, blisters on me feet still from all the marchin' and we're about to 'ead out again. Just put us on 'orses, I say!",
-    "translation": "去他妈的巡逻任务。我们才刚回来，脚上还起了水泡，现在又要出去了。我说能不能给点兽皮让我们穿呢！",
+    "translation": "去他妈的巡逻。我们才刚回来，脚上还起了水泡，现在又要出去了。就该给我们整匹马骑骑！",
     "stage": 1,
     "context": "\"Farkin' patrol duty. Barely got back 'ere, blisters on me feet still from all the marchin' and we're about to 'ead out again. Just put us on 'orses, I say!\""
   },
@@ -1611,7 +1611,7 @@
     "ID": 293405630,
     "key": "Came across %location% on your way here? Why, it's %terrain% to the %direction%. Someone should hire you to burn that thing to the ground. Nothing good's coming from there, that's for sure.",
     "original": "Came across %location% on your way here? Why, it's %terrain% to the %direction%. Someone should hire you to burn that thing to the ground. Nothing good's coming from there, that's for sure.",
-    "translation": "你在来这里的路上遇到 %location% 了吗？ 什么, 那就在这里 %direction% 的 %terrain%。应该会有人雇你把那东西烧成灰烬。因为那里没有什么好事发生，这是肯定的。",
+    "translation": "来的时候路过%location%了吗？你问我为什么这么说？那地方就在%direction%边的%terrain%上。会有人雇你把它烧成灰的。我敢肯定，那儿可没有好东西。",
     "stage": 1,
     "context": "\"Came across %location% on your way here? Why, it's %terrain% to the %direction%. Someone should hire you to burn that thing to the ground. Nothing good's coming from there, that's for sure.\""
   },
@@ -1619,7 +1619,7 @@
     "ID": 293405631,
     "key": "Gods, I need to take a piss. Will you watch that beer for me?",
     "original": "Gods, I need to take a piss. Will you watch that beer for me?",
-    "translation": "上帝啊，我想去尿尿，你能帮我看着这杯啤酒吗？",
+    "translation": "神啊，我想去尿尿，你能帮我看着这杯啤酒吗？",
     "stage": 1,
     "context": "'Gods, I need to take a piss. Will you watch that beer for me?'"
   },
@@ -1627,7 +1627,7 @@
     "ID": 293405632,
     "key": "Oh, have you heard of %item%? It's said to have been stolen ages ago during the last orc invasion. There were sightings of it reported %direction% of here, but me, I don't know any details. I didn't mean to get your hopes up about it.",
     "original": "Oh, have you heard of %item%? It's said to have been stolen ages ago during the last orc invasion. There were sightings of it reported %direction% of here, but me, I don't know any details. I didn't mean to get your hopes up about it.",
-    "translation": "噢，你听说过 %item% 吗？据说在数世纪前的兽人入侵时期被偷了。现在有人说在这里的 %direction% 见过它，但是我不了解细节。我不是有意让你对它抱有希望的。",
+    "translation": "对了，你听说过%item%吗？据说在数世纪前的兽人入侵时期被偷了。有人说在%direction%边见过它，但是我可不了解具体是什么情况。我希望你不要太抱希望了。",
     "stage": 1,
     "context": "\"Oh, have you heard of %item%? It's said to have been stolen ages ago during the last orc invasion. There were sightings of it reported %direction% of here, but me, I don't know any details. I didn't mean to get your hopes up about it.\""
   },
@@ -1635,7 +1635,7 @@
     "ID": 293405633,
     "key": "I've trained militia before, and let me tell you, spears are the best weapons for when the men don't know what they're doing yet. Cheap and easy to hit with. Put a few men together for a spearwall and it's hard to even get close to them without a spear in",
     "original": "I've trained militia before, and let me tell you, spears are the best weapons for when the men don't know what they're doing yet. Cheap and easy to hit with. Put a few men together for a spearwall and it's hard to even get close to them without a spear in your belly.",
-    "translation": "我曾经训练过民兵，让我告诉你，当你的人还不明确职能的时候矛就是最好的武器。便宜而且命中高。当好几个人组成矛墙的话敌人还很难靠近。",
+    "translation": "我曾经训练过民兵，让我告诉你吧，当你的人还不清楚自己在干什么的时候，矛就是最好的武器。又便宜又好打中。要是让几个人组成矛墙，想靠近免不了肚子上挨一下。",
     "stage": 1,
     "context": "\"I've trained militia before, and let me tell you, spears are the best weapons for when the men don't know what they're doing yet. Cheap and easy to hit with. Put a few men together for a spearwall and it's hard to even get close to them without a spear in your belly.\""
   },
@@ -1643,7 +1643,7 @@
     "ID": 293405634,
     "key": "I used to be trading with some of the not-so-wild barbarians %direction% of here. When I last visited them there was a magnificent shield hanging in one of their huts. They might still be hanging out there %terrain%.",
     "original": "I used to be trading with some of the not-so-wild barbarians %direction% of here. When I last visited them there was a magnificent shield hanging in one of their huts. They might still be hanging out there %terrain%.",
-    "translation": "我曾经和这里 %direction% 的一些不那么野蛮的野蛮人做过交易。我上次拜访他们时，他们的一间小屋里挂着一个华丽的盾牌。他们可能还在那个 %terrain%。",
+    "translation": "我曾经和%direction%边一些不那么野蛮的野蛮人做过买卖。上次去的时候，他们的一间小屋里还挂着一面华丽的盾牌呢。他们可能还在那边的%terrain%上。",
     "stage": 1,
     "context": "'I used to be trading with some of the not-so-wild barbarians %direction% of here. When I last visited them there was a magnificent shield hanging in one of their huts. They might still be hanging out there %terrain%.'"
   }
