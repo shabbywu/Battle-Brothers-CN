@@ -3,8 +3,8 @@
     "ID": 293410637,
     "key": "Sunken Library",
     "original": "Sunken Library",
-    "translation": "下陷的图书馆",
-    "stage": 5,
+    "translation": "陷没的图书馆",
+    "stage": 1,
     "context": "this.m.Name = 'Sunken Library'"
   },
   {

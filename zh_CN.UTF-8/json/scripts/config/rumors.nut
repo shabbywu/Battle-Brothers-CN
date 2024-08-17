@@ -1563,7 +1563,7 @@
     "ID": 293405624,
     "key": "A brash young man came through just the other day, nobility methinks, looking for an old family heirloom called %item%. Last I saw, he was heading %direction% of here.",
     "original": "A brash young man came through just the other day, nobility methinks, looking for an old family heirloom called %item%. Last I saw, he was heading %direction% of here.",
-    "translation": "几天前一名傲慢的年轻人来过这，我猜是一名贵族，在寻找一件古老家族名叫 %item% 的传家宝。最后我看到他从这里往 %direction%  去了。",
+    "translation": "几天前有一名傲慢的年轻人来过这，估计是个什么贵族，要找一件名叫%item%的老传家宝。我看他最后往%direction%边去了。",
     "stage": 1,
     "context": "'A brash young man came through just the other day, nobility methinks, looking for an old family heirloom called %item%. Last I saw, he was heading %direction% of here.'"
   },
@@ -1571,7 +1571,7 @@
     "ID": 293405625,
     "key": "Don't trust the barber's potions! A friend of my cousin's friend's uncle drank one and it turned him into a toad, I swear!",
     "original": "Don't trust the barber's potions! A friend of my cousin's friend's uncle drank one and it turned him into a toad, I swear!",
-    "translation": "不要相信理发师的药剂！我表哥朋友的朋友的叔叔喝了一瓶后变成了癞蛤蟆，我发誓这是真的！",
+    "translation": "千万别喝理发师的药！我表哥的朋友的叔叔的朋友就是喝了这么一瓶药水才变成癞蛤蟆的，我发誓！",
     "stage": 1,
     "context": "\"Don't trust the barber's potions! A friend of my cousin's friend's uncle drank one and it turned him into a toad, I swear!\""
   },
@@ -1579,7 +1579,7 @@
     "ID": 293405626,
     "key": "You'll know greenskin territory from the idols they erect out of skulls and bones. Of human skulls and bones.",
     "original": "You'll know greenskin territory from the idols they erect out of skulls and bones. Of human skulls and bones.",
-    "translation": "你能通过那些插着头盖骨和骨骼的柱子来识别绿皮的领地。就是人类的头盖骨和骨骼。",
+    "translation": "一看到那些用头颅和长骨立起来的造像，你就知道到了绿皮的领地。用的正是人类的骨头。",
     "stage": 1,
     "context": "\"You'll know greenskin territory from the idols they erect out of skulls and bones. Of human skulls and bones.\""
   },

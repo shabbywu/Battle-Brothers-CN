@@ -3,7 +3,7 @@
     "ID": 293410402,
     "key": "An idol erected by greenskins.",
     "original": "An idol erected by greenskins.",
-    "translation": "绿皮立起来的雕像。",
+    "translation": "绿皮立起来的造像。",
     "stage": 1,
     "context": "return 'An idol erected by greenskins.';"
   },

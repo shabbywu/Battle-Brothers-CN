@@ -1310,8 +1310,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:43.544Z",
         "updatedAt": "2023-06-26T05:46:32.269Z",
-        "modifiedAt": "2024-08-15T07:42:47Z",
-        "sha256": "bbb45db46213ccd74e35bdfc765407fb06a35094cde4bc5e1a8885b9a2b09d7d"
+        "modifiedAt": "2024-08-16T08:19:31Z",
+        "sha256": "05521dc8cd0497f9ca3180dd40eecd33bb6e9d09635cbd6c5183115b5b06eec4"
     },
     "scripts/config/spawnlist_master.json": {
         "id": 918419,
@@ -3776,8 +3776,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:42.593Z",
         "updatedAt": "2023-06-26T05:47:02.256Z",
-        "modifiedAt": "2023-06-26T05:47:02Z",
-        "sha256": "5ea1ebefd556d3cf8f2ab63f83bc09c4a6e2a37c2a6abb9e05327ae5dfd07c6d"
+        "modifiedAt": "2024-08-16T08:11:00Z",
+        "sha256": "73b1002a719083ddd4c81e91b07091949fe3d4bd11c783e4e765370cdb34f681"
     },
     "scripts/entity/tactical/objects/orc_camp_large_remains.json": {
         "id": 918556,
@@ -3812,8 +3812,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:43.266Z",
         "updatedAt": "2023-06-26T05:47:02.922Z",
-        "modifiedAt": "2023-06-26T05:47:03Z",
-        "sha256": "5d9f65fc74f08efba189df4ed1a28660a95845ebdae83dc5353c1707cedd53d2"
+        "modifiedAt": "2024-08-16T08:11:00Z",
+        "sha256": "813c2ffe9a6f6e93311026e535996f0c9a1447987ba0f1d843b15d8561c1bb22"
     },
     "scripts/entity/tactical/objects/orc_camp_small_remains.json": {
         "id": 918558,
@@ -5552,14 +5552,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:19:22.412Z",
         "updatedAt": "2023-06-26T05:47:12.736Z",
-        "modifiedAt": "2023-06-26T05:47:13Z",
-        "sha256": "ddcbf3dff4a10b03dec99ec848152b7abb6b9b0e25f49ead254489d64bae3611"
+        "modifiedAt": "2024-08-17T00:28:18Z",
+        "sha256": "94863b487b13500a3ee571d992c3b9c823cea5dd4f8fc6761ffd34ac1b2e5566"
     },
     "scripts/entity/world/locations/legendary/tundra_elk_location.json": {
         "id": 918655,
