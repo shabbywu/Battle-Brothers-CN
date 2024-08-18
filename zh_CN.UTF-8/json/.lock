@@ -22298,8 +22298,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:44.927Z",
         "updatedAt": "2023-06-26T05:48:46.683Z",
-        "modifiedAt": "2024-07-11T12:10:06Z",
-        "sha256": "955cd04665a31969d89a03da7388f9bc3c7993a4ab70f4d775b9c6078eab0e54"
+        "modifiedAt": "2024-08-17T04:25:21Z",
+        "sha256": "96ad5e9995d6abf31443f08dcb9c51cf066ca8b3b83a38484b611198fc1f7cf9"
     },
     "scripts/items/loot/jade_broche_item.json": {
         "id": 919585,
