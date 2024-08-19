@@ -299,7 +299,7 @@
     "ID": 293403815,
     "key": "Wilderich",
     "original": "Wilderich",
-    "translation": "尔德里克",
+    "translation": "维尔德里希",
     "stage": 1,
     "context": "'Wilderich'"
   },

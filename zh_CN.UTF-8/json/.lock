@@ -1220,8 +1220,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.288Z",
         "updatedAt": "2023-06-26T05:46:29.6Z",
-        "modifiedAt": "2024-08-13T01:11:09Z",
-        "sha256": "d5fdd1c0efdc1c2ab5d866d9a0d5fa70f432225ab145275ae983ea0a53cfefde"
+        "modifiedAt": "2024-08-18T11:35:21Z",
+        "sha256": "1cba9d5aa64b27ce03acad382c24c0c6f2db8d0833f1f3836d2a8ee3003cdd01"
     },
     "scripts/config/credits.json": {
         "id": 918414,
@@ -1754,14 +1754,14 @@
         "total": 44,
         "translated": 44,
         "disputed": 0,
-        "checked": 38,
-        "reviewed": 38,
+        "checked": 37,
+        "reviewed": 37,
         "hidden": 0,
         "locked": 1,
         "createdAt": "2023-05-13T14:17:56.58Z",
         "updatedAt": "2023-06-26T05:46:42.844Z",
-        "modifiedAt": "2024-06-27T11:27:16Z",
-        "sha256": "d12c5edc375432f0932a7f0692edc99c92d05b8d79bc70ffea58a6127fd62330"
+        "modifiedAt": "2024-08-18T11:38:14Z",
+        "sha256": "3f3b0c217a853b6cea0df1fad30c8937c12d0de38cf18e348d34e2ee59b79de5"
     },
     "scripts/contracts/contracts/drive_away_bandits_contract.json": {
         "id": 918444,
