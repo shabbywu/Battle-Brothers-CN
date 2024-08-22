@@ -75,7 +75,7 @@
     "ID": 293405438,
     "key": "1st %townname% Company. Best lot of halfwits and scallywags I've ever served with. Wouldn't trade 'em for the world.",
     "original": "1st %townname% Company. Best lot of halfwits and scallywags I've ever served with. Wouldn't trade 'em for the world.",
-    "translation": "%townname%第一团。我当兵时候见过最好的一帮混蛋。我说什么也不会出卖他们。",
+    "translation": "我当兵时候，数%townname%第一团这帮混球最好。我说什么也不会出卖他们。",
     "stage": 1,
     "context": "\"1st %townname% Company. Best lot of halfwits and scallywags I've ever served with. Wouldn't trade 'em for the world.\""
   },
@@ -83,7 +83,7 @@
     "ID": 293405439,
     "key": "%randomnoble% had his lunch come back from the dead. Was about to take a healthy bite of stuffed goose when the thing jumped from his plate and started flapping in circles. Sprayed baked apples across the living quarters. Must've been a sight to remember.",
     "original": "%randomnoble% had his lunch come back from the dead. Was about to take a healthy bite of stuffed goose when the thing jumped from his plate and started flapping in circles. Sprayed baked apples across the living quarters. Must've been a sight to remember.",
-    "translation": "%randomnoble% 让他的午餐死而复生。正要咬一口健康的填充鹅时，那东西从他的盘子里跳了出来，开始绕圈拍打。在生活区喷洒烤苹果。一定是一个值得记住的景象。",
+    "translation": "%randomnoble%的午饭复活了！他正要美美地来上一口，只见那只催肥鹅一跃而起，扑腾着翅膀绕起圈来。把烤苹果撒得满客厅都是。那场面肯定是难忘极了。",
     "stage": 1,
     "context": "\"%randomnoble% had his lunch come back from the dead. Was about to take a healthy bite of stuffed goose when the thing jumped from his plate and started flapping in circles. Sprayed baked apples across the living quarters. Must've been a sight to remember.\""
   },
@@ -91,7 +91,7 @@
     "ID": 293405440,
     "key": "Big cocked adventurer with a pretty face came by here a few nights ago. He headed %direction% of here looking to slay some greenskins. Wore a fancy shield on his back, looked like some type o' knight, but told me he wasn't.",
     "original": "Big cocked adventurer with a pretty face came by here a few nights ago. He headed %direction% of here looking to slay some greenskins. Wore a fancy shield on his back, looked like some type o' knight, but told me he wasn't.",
-    "translation": "几天前的一个晚上一个长着漂亮脸蛋的冒险者来过这。他向着 %direction% 出发猎杀绿皮去了。他戴着一个华丽的盾牌，看起来就像个骑士，但他没有承认。",
+    "translation": "几天前的一个晚上，一个趾高气昂的英俊冒险者来过这里。他往%direction%去了，说是要去猎杀绿皮。他背着一面骑士样儿地盾牌，却说自己并不是骑士。",
     "stage": 1,
     "context": "\"Big cocked adventurer with a pretty face came by here a few nights ago. He headed %direction% of here looking to slay some greenskins. Wore a fancy shield on his back, looked like some type o' knight, but told me he wasn't.\""
   },
@@ -107,7 +107,7 @@
     "ID": 293405442,
     "key": "Some nobleman's manor got raided by greenskins a few days ago. They made off with some famous shield or relic. Supposedly those greenskinned bastards are holed up somewhere %direction% of here.",
     "original": "Some nobleman's manor got raided by greenskins a few days ago. They made off with some famous shield or relic. Supposedly those greenskinned bastards are holed up somewhere %direction% of here.",
-    "translation": "几天前一些贵族领地遭到绿皮掠夺。还带走了一些著名的盾牌与战利品。据说那些绿皮杂种住在这里 %direction% 的某个地方。",
+    "translation": "几天前，有个贵族的庄园让绿皮给抢了。抢走了一些著名盾牌和遗物。据说这帮绿皮混蛋跑到%direction%边打洞去了。",
     "stage": 1,
     "context": "\"Some nobleman's manor got raided by greenskins a few days ago. They made off with some famous shield or relic. Supposedly those greenskinned bastards are holed up somewhere %direction% of here.\""
   },
@@ -115,7 +115,7 @@
     "ID": 293405443,
     "key": "The nobles are quarreling again like two old hags at the garden fence. They just can't get over their pride!",
     "original": "The nobles are quarreling again like two old hags at the garden fence. They just can't get over their pride!",
-    "translation": "贵族们又在吵架了，就像花园篱笆旁的两个老太婆。他们只是无法克服他们的骄傲！",
+    "translation": "贵族们又吵起来了，就像菜园里的两个老太婆。依我说，他们就是拉不下那张脸！",
     "stage": 1,
     "context": "\"The nobles are quarreling again like two old hags at the garden fence. They just can't get over their pride!\""
   },
@@ -123,7 +123,7 @@
     "ID": 293405444,
     "key": "Traders don't come here often. Their large carriages tend to get stuck in the mud and guess who has to help them out once that happens...",
     "original": "Traders don't come here often. Their large carriages tend to get stuck in the mud and guess who has to help them out once that happens...",
-    "translation": "商人不常来这里。他们的马车往往会陷在泥里，一旦发生这种情况，谁来帮助他们呢...",
+    "translation": "商人不常往这里来。他们的马车老是往泥里陷，你猜谁有本事救他们出来……",
     "stage": 1,
     "context": "\"Traders don't come here often. Their large carriages tend to get stuck in the mud and guess who has to help them out once that happens...\""
   },
@@ -131,7 +131,7 @@
     "ID": 293405445,
     "key": "There once was a stone road leading here bringing traders, customers and all kinds of folk. One day it completely sunk into the swamp and look at this place now...",
     "original": "There once was a stone road leading here bringing traders, customers and all kinds of folk. One day it completely sunk into the swamp and look at this place now...",
-    "translation": "曾经有一条石路通往这里，路上有商人、游客和各种各样的人。直到有一天它完全沉入了沼泽中，现在看看这个地方...",
+    "translation": "这地方曾经有一条石板路，商人，游客，各色人等络绎不绝。直到有一天，这条路彻底陷到沼泽里去了，看看这个破地方……",
     "stage": 1,
     "context": "'There once was a stone road leading here bringing traders, customers and all kinds of folk. One day it completely sunk into the swamp and look at this place now...'"
   },
@@ -147,7 +147,7 @@
     "ID": 293405447,
     "key": "I've seen %randomnoble% at a tourney recently. Damn, what a sight, that man. The way he jousts, I mean. Took the prize and all the ladies loved him.",
     "original": "I've seen %randomnoble% at a tourney recently. Damn, what a sight, that man. The way he jousts, I mean. Took the prize and all the ladies loved him.",
-    "translation": "最近我看了一名 %randomnoble% 的比赛。该死的，那场景，那家伙。我是说那吊毛比赛的样子。最后得到了奖赏令所有女人都为他发狂。",
+    "translation": "最近我看了一场%randomnoble%的巡回赛。天啊，多好啊，他……我是说他比赛的样子。拿到了大奖，所有的女人都在为他疯狂。",
     "stage": 1,
     "context": "\"I've seen %randomnoble% at a tourney recently. Damn, what a sight, that man. The way he jousts, I mean. Took the prize and all the ladies loved him.\""
   },
@@ -155,7 +155,7 @@
     "ID": 293405448,
     "key": "Working the mines has its merits, too, you know. We never get wet from the rain, it's just the dust that kills you eventually.",
     "original": "Working the mines has its merits, too, you know. We never get wet from the rain, it's just the dust that kills you eventually.",
-    "translation": "你知道，采矿也有它的优点。我们从不会被雨淋湿，最终了结你的是尘土而已。",
+    "translation": "你知道的，挖矿这行其实也有优点。下雨从来都淋不着我们，只不过是吸点尘土折点寿罢了。",
     "stage": 1,
     "context": "\"Working the mines has its merits, too, you know. We never get wet from the rain, it's just the dust that kills you eventually.\""
   },
@@ -163,7 +163,7 @@
     "ID": 293405449,
     "key": "Hiring a man of the woods could be a good idea for a mercenary like you, I'd say. They ought to know how to fling around those large axes!",
     "original": "Hiring a man of the woods could be a good idea for a mercenary like you, I'd say. They ought to know how to fling around those large axes!",
-    "translation": "对于像你这样的雇佣兵来说，雇佣一名伐木工对你的战团很有帮助，我说的。他们擅长挥舞巨斧！",
+    "translation": "要我说，干你们佣兵这行的，雇个伐木工准没错。他们最懂怎么把大斧子舞起来了。",
     "stage": 1,
     "context": "\"Hiring a man of the woods could be a good idea for a mercenary like you, I'd say. They ought to know how to fling around those large axes!\""
   },
@@ -195,7 +195,7 @@
     "ID": 293405453,
     "key": "Ever fought goblins? Nastly little buggers, don't be fooled by their size. I'd take large kite shields to protect the men from their arrows. And a pack of wardogs to run them down as they scatter, if you can afford it.",
     "original": "Ever fought goblins? Nastly little buggers, don't be fooled by their size. I'd take large kite shields to protect the men from their arrows. And a pack of wardogs to run them down as they scatter, if you can afford it.",
-    "translation": "与地精战斗过没？那是一种阴险的狗杂碎，不要被它们的体型糊弄了。我会带上筝型盾来防御它们的弓箭。如果你有钱的话还可以带着战犬，在它们四散逃跑时追上它们。",
+    "translation": "和地精打过没？这帮阴险的小杂种，可别让它们的小个子给唬住了。我会带上一面筝形盾，好挡住它们的箭。有钱的话最好再准备上战犬，免得他们四散开去到处射击。",
     "stage": 1,
     "context": "\"Ever fought goblins? Nastly little buggers, don't be fooled by their size. I'd take large kite shields to protect the men from their arrows. And a pack of wardogs to run them down as they scatter, if you can afford it.\""
   },
@@ -203,7 +203,7 @@
     "ID": 293405454,
     "key": "My cousin %randomname% left town with a mercenary company like yours, %randommercenarycompany% or something like that it was called. Haven't heard from him since...",
     "original": "My cousin %randomname% left town with a mercenary company like yours, %randommercenarycompany% or something like that it was called. Haven't heard from him since...",
-    "translation": "我堂兄 %randomname% 像你一样也是雇佣兵，加入了一支好像叫做 %randommercenarycompany% 的战团。不过从他离开镇子后就再也没他的消息了…",
+    "translation": "我堂兄%randomname%也是个雇佣兵，跟着一支叫%randommercenarycompany%的佣兵团离开了镇子。不过自打他走后，我就再也没有听到过他的消息……",
     "stage": 1,
     "context": "\"My cousin %randomname% left town with a mercenary company like yours, %randommercenarycompany% or something like that it was called. Haven't heard from him since...\""
   },
@@ -211,7 +211,7 @@
     "ID": 293405455,
     "key": "Don't take my word for it, but supposedly some big green oafs %direction% of here are toting around with an incredible shield simply called %item%. How they might've gotten it is beyond me.",
     "original": "Don't take my word for it, but supposedly some big green oafs %direction% of here are toting around with an incredible shield simply called %item%. How they might've gotten it is beyond me.",
-    "translation": "别把我的话当真，但是听说在这的 %direction% 有几个绿皮智障拿着一个不可思议的名叫 %item% 的盾牌。我都不知道它们怎么搞到的。",
+    "translation": "我就这么一说，你就这么一听，听说一群绿色的傻大个正带着一件叫%item%的著名盾牌在%direction%边瞎逛呢。真不知道它们怎么搞到的。",
     "stage": 1,
     "context": "\"Don't take my word for it, but supposedly some big green oafs %direction% of here are toting around with an incredible shield simply called %item%. How they might've gotten it is beyond me.\""
   },
