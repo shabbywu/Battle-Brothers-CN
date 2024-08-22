@@ -1310,8 +1310,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:43.544Z",
         "updatedAt": "2023-06-26T05:46:32.269Z",
-        "modifiedAt": "2024-08-16T08:19:31Z",
-        "sha256": "05521dc8cd0497f9ca3180dd40eecd33bb6e9d09635cbd6c5183115b5b06eec4"
+        "modifiedAt": "2024-08-21T08:44:25Z",
+        "sha256": "b2b486f5a56337ce55a1fd0f949babe60cfc57c43d6d5dd11ef9d25bf8cc7c55"
     },
     "scripts/config/spawnlist_master.json": {
         "id": 918419,
