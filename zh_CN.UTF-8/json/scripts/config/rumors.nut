@@ -219,7 +219,7 @@
     "ID": 293405456,
     "key": "If you're looking to fetch a good price for your trading goods, my friend, you should go to one of the large cities or castles and not some run-down poor village at world's ass.",
     "original": "If you're looking to fetch a good price for your trading goods, my friend, you should go to one of the large cities or castles and not some run-down poor village at world's ass.",
-    "translation": "朋友，如果要想你的商品能卖个好价钱，你应当去任何一个大城市或者城堡，别没事老往那些破村庄跑。",
+    "translation": "朋友，你要是想把货买个好价钱，就得奔着大城市或者城堡去，到那些鸟不拉屎的破村子去干什么。",
     "stage": 1,
     "context": "\"If you're looking to fetch a good price for your trading goods, my friend, you should go to one of the large cities or castles and not some run-down poor village at world's ass.\""
   },
@@ -227,7 +227,7 @@
     "ID": 293405457,
     "key": "The days here in the south are as bright as the nights are dark. I must have stumbled and lost my precious weapon %distance% to the %direction%, but I gave up looking for it.",
     "original": "The days here in the south are as bright as the nights are dark. I must have stumbled and lost my precious weapon %distance% to the %direction%, but I gave up looking for it.",
-    "translation": "南方的白天和黑夜一样明亮。我一定是绊倒了，把我珍贵的武器丢到了 %distance% 的 %direction%，但我放弃了寻找它。",
+    "translation": "南方白天有多亮，到了晚上就有多黑。我肯定是跌跌撞撞间把我的宝贝武器弄丢了，丢在了%direction%边%distance%处的某个地方，估计我是找不到它了。",
     "stage": 1,
     "context": "'The days here in the south are as bright as the nights are dark. I must have stumbled and lost my precious weapon %distance% to the %direction%, but I gave up looking for it.'"
   },
@@ -235,7 +235,7 @@
     "ID": 293405458,
     "key": "Heard of %location%? People say it's haunted, the dead walking and all. Somewhere %direction% of here. Maybe someone else in %townname% can tell you more...",
     "original": "Heard of %location%? People say it's haunted, the dead walking and all. Somewhere %direction% of here. Maybe someone else in %townname% can tell you more...",
-    "translation": "听说过 %location% 吗？人们说它闹鬼，死人行走等等。就在离这里 %direction% 的附近。也许 %townname% 的其他人可以告诉你更多...",
+    "translation": "听说%location%了吗？人们说那地方正在闹鬼，遍地都是行走的死人。就在这儿%direction%边。估计%townname%的人更清楚那儿的情况……",
     "stage": 1,
     "context": "\"Heard of %location%? People say it's haunted, the dead walking and all. Somewhere %direction% of here. Maybe someone else in %townname% can tell you more...\""
   },
@@ -243,15 +243,15 @@
     "ID": 293405459,
     "key": "Damn nigh impossible to find a reliable shield 'round here, bloody things keep breaking in two. Been keeping a spare on me back now just incase. I should charge more for fighting men with axes, ha!",
     "original": "Damn nigh impossible to find a reliable shield 'round here, bloody things keep breaking in two. Been keeping a spare on me back now just incase. I should charge more for fighting men with axes, ha!",
-    "translation": "在这附近他娘的几乎不可能找到可靠的盾牌，这些破玩意总是碎成两块。为了以防万一，现在我总是在背上背块备用的。以后再让我跟拿斧子的人战斗可必须多付点钱，哈哈！",
-    "stage": 5,
+    "translation": "想找块结实盾牌是真他娘的难，破玩意说成两半就成两半。搞得我总得背上一块备用的。谁要是雇我去对付拿斧子的人，我准要多管他要点钱，哼！",
+    "stage": 1,
     "context": "\"Damn nigh impossible to find a reliable shield 'round here, bloody things keep breaking in two. Been keeping a spare on me back now just incase. I should charge more for fighting men with axes, ha!\""
   },
   {
     "ID": 293405460,
     "key": "Nobody knows what lives in the deep black waters, but you hear the old fishermen talk about giant fish larger than any ship, tentacles that crush boats like they were nutshells, and evil, dead eyes under the surface.",
     "original": "Nobody knows what lives in the deep black waters, but you hear the old fishermen talk about giant fish larger than any ship, tentacles that crush boats like they were nutshells, and evil, dead eyes under the surface.",
-    "translation": "没有人知道在漆黑的深水里生活着什么，但是你可以听到老渔民们谈论比任何船只都大的巨鱼，有着像坚果壳一样能把船压碎的触须，以及藏着水底的恶魔之眼。",
+    "translation": "没有人知道漆黑的深水里生活着什么，但是老渔民们总是会提起比船还大的巨鱼，砸船就像砸核桃的触手，还有水面下冰冷的邪恶之眼。",
     "stage": 1,
     "context": "'Nobody knows what lives in the deep black waters, but you hear the old fishermen talk about giant fish larger than any ship, tentacles that crush boats like they were nutshells, and evil, dead eyes under the surface.'"
   },
@@ -259,7 +259,7 @@
     "ID": 293405461,
     "key": "A trader came by this morning, claims he saw dead people shuffling through the hills nearby. Won't buy that humbug, that's for sure!",
     "original": "A trader came by this morning, claims he saw dead people shuffling through the hills nearby. Won't buy that humbug, that's for sure!",
-    "translation": "今天早上来了个商人声称在这附近的山上看到过僵尸。我才不信那死骗子呢！",
+    "translation": "今天早上来了个商人，声称在这附近的山上看到过僵尸。我才不信那死骗子呢！",
     "stage": 1,
     "context": "\"A trader came by this morning, claims he saw dead people shuffling through the hills nearby. Won't buy that humbug, that's for sure!\""
   },
@@ -267,7 +267,7 @@
     "ID": 293405462,
     "key": "I'd stay clear of swamps and marshes. There's ghastly diseases there just waiting to latch onto you.",
     "original": "I'd stay clear of swamps and marshes. There's ghastly diseases there just waiting to latch onto you.",
-    "translation": "我要远离沼泽与湿地。因为那里可怕的恶疾在等着你呢。",
+    "translation": "我才不会靠近那些沼泽和湿地。可怕的恶疾就在那儿等着你呢。",
     "stage": 1,
     "context": "\"I'd stay clear of swamps and marshes. There's ghastly diseases there just waiting to latch onto you.\""
   },
@@ -275,7 +275,7 @@
     "ID": 293405463,
     "key": "The green tide keeps washing away one army after the other! We're all doomed! Doomed!",
     "original": "The green tide keeps washing away one army after the other! We're all doomed! Doomed!",
-    "translation": "绿色的潮水不断地冲走一支又一支的军队！我们都要完蛋了！完蛋了！",
+    "translation": "绿色的潮水冲走了一支又一支的军队！我们都要完蛋了！完蛋了！",
     "stage": 1,
     "context": "\"The green tide keeps washing away one army after the other! We're all doomed! Doomed!\""
   },
@@ -283,7 +283,7 @@
     "ID": 293405464,
     "key": "All are running from the greenskins but not me! I will stand my ground, club in one hand, pitcher in the other! Send them my way!",
     "original": "All are running from the greenskins but not me! I will stand my ground, club in one hand, pitcher in the other! Send them my way!",
-    "translation": "所有人都在逃离绿皮，但不是我！我要坚守阵地，一手拿棍棒，一手拿瓦罐！送他们上路！",
+    "translation": "所有人都在逃离绿皮，但我不会！我会坚守阵地，一手拿棍棒，一手拿瓦罐！送他们上路！",
     "stage": 1,
     "context": "'All are running from the greenskins but not me! I will stand my ground, club in one hand, pitcher in the other! Send them my way!'"
   },
@@ -291,7 +291,7 @@
     "ID": 293405465,
     "key": "The drinks over in %randomtown% are way better than the cat piss they serve here!",
     "original": "The drinks over in %randomtown% are way better than the cat piss they serve here!",
-    "translation": "%randomtown% 那里的酒比这的猫尿好喝多了！",
+    "translation": "%randomtown%的酒比这儿的猫尿好喝多了！",
     "stage": 1,
     "context": "'The drinks over in %randomtown% are way better than the cat piss they serve here!'"
   },
@@ -299,7 +299,7 @@
     "ID": 293405466,
     "key": "The biggest fish of my catch I always place in front of %randomfemalename%'s door to woo her. Some day I'm going to reveal myself as her secret admirer and ask for her hand!",
     "original": "The biggest fish of my catch I always place in front of %randomfemalename%'s door to woo her. Some day I'm going to reveal myself as her secret admirer and ask for her hand!",
-    "translation": "我总是把我能抓到最大的鱼放在 %randomfemalename% 的门前来追求她。总有一天我会向她坦白并向她求婚！",
+    "translation": "我总会把我抓来最大的鱼放在%randomfemalename%的门前，作为追求她的礼物。总有一天，我会揭开我神秘追求者的身份，直接向她求婚！",
     "stage": 1,
     "context": "\"The biggest fish of my catch I always place in front of %randomfemalename%'s door to woo her. Some day I'm going to reveal myself as her secret admirer and ask for her hand!\""
   },
@@ -307,7 +307,7 @@
     "ID": 293405467,
     "key": "If you're ever visiting the tavern in %randomtown% make sure to try their roasted goat - you'll never eat that good elsewhere!",
     "original": "If you're ever visiting the tavern in %randomtown% make sure to try their roasted goat - you'll never eat that good elsewhere!",
-    "translation": "如果你有机会去 %randomtown% 的酒馆，一定要尝尝那里的烤全羊，你在别的地方是吃不到那么好吃的东西的！",
+    "translation": "如果有机会去%randomtown%的酒馆，你一定要尝尝那里的烤全羊，别的地方可吃不上这种好东西！",
     "stage": 1,
     "context": "\"If you're ever visiting the tavern in %randomtown% make sure to try their roasted goat - you'll never eat that good elsewhere!\""
   },
@@ -315,7 +315,7 @@
     "ID": 293405468,
     "key": "They found the farm of old %randomname% burned to the ground the other day. That whole family was hanging from a nearby oak...",
     "original": "They found the farm of old %randomname% burned to the ground the other day. That whole family was hanging from a nearby oak...",
-    "translation": "几天前有人发现 %randomname% 的农田被夷为平地。他们全家都被吊死在附近的橡树上……",
+    "translation": "几天前，有人看到老%randomname%的农田被夷成了平地。他们全家都被吊死在了附近的橡树上……",
     "stage": 1,
     "context": "'They found the farm of old %randomname% burned to the ground the other day. That whole family was hanging from a nearby oak...'"
   },
@@ -331,7 +331,7 @@
     "ID": 293405470,
     "key": "There's lots of talk about the dead walking the earth again. %randomname% says there's some to the %direction% of here. Sounds like hogwash to me.",
     "original": "There's lots of talk about the dead walking the earth again. %randomname% says there's some to the %direction% of here. Sounds like hogwash to me.",
-    "translation": "这里流传着许多僵尸重现大陆的传言。%randomname% 还说这里的 %direction% 就有一些僵尸。对我来说这些就是废话。",
+    "translation": "这里流传着许多僵尸重现大陆的传言。甚至%randomname%还说这儿%direction%边就有一些僵尸。我看这完全是胡说八道。",
     "stage": 1,
     "context": "\"There's lots of talk about the dead walking the earth again. %randomname% says there's some to the %direction% of here. Sounds like hogwash to me.\""
   },
@@ -347,7 +347,7 @@
     "ID": 293405472,
     "key": "Always be sceptical towards the nobility, my friend. You never know what their real agenda might be.",
     "original": "Always be sceptical towards the nobility, my friend. You never know what their real agenda might be.",
-    "translation": "朋友，永远别轻易相信那些贵族。因为你永远不知道他们的真正目的是什么。",
+    "translation": "朋友，对贵族总是要留个心眼。你永远都不会知道他们到底想干什么。",
     "stage": 1,
     "context": "'Always be sceptical towards the nobility, my friend. You never know what their real agenda might be.'"
   },
@@ -355,7 +355,7 @@
     "ID": 293405473,
     "key": "Can you believe it? %randomnoble% paid some nomad folk to guide his host through the desert. Bloody folly if true, that. Wouldn't trust those snakes as far as I can piss.",
     "original": "Can you believe it? %randomnoble% paid some nomad folk to guide his host through the desert. Bloody folly if true, that. Wouldn't trust those snakes as far as I can piss.",
-    "translation": "你能相信吗？%randomnoble% 雇了一些游牧民带领他的主人穿过沙漠。该死的蠢事，如果是真的。我不敢相信那些蛇。",
+    "translation": "你敢信？%randomnoble%雇了一群游牧民，让他们带着他的军队，穿过这片沙漠。这要是真的，那他可太蠢了，我才不会相信那些蛇，除非我也会嘶嘶嘶地吐信子。",
     "stage": 1,
     "context": "\"Can you believe it? %randomnoble% paid some nomad folk to guide his host through the desert. Bloody folly if true, that. Wouldn't trust those snakes as far as I can piss.\""
   },
@@ -363,7 +363,7 @@
     "ID": 293405474,
     "key": "If it's work you're looking for, they're taking crowns in hand over at %settlement% to hire strong men.",
     "original": "If it's work you're looking for, they're taking crowns in hand over at %settlement% to hire strong men.",
-    "translation": "如果这是您正在寻找的工作，他们说 %settlement% 愿意支付克朗来寻找勇士。",
+    "translation": "如果你是要找工作，%settlement%正准备了一笔钱，打算找点勇士呢。",
     "stage": 1,
     "context": "\"If it's work you're looking for, they're taking crowns in hand over at %settlement% to hire strong men.\""
   },
@@ -371,7 +371,7 @@
     "ID": 293405475,
     "key": "In the other mine shaft, %randomname% found a nugget the size of me fist! The overseer got to him before he could hide it, though.",
     "original": "In the other mine shaft, %randomname% found a nugget the size of me fist! The overseer got to him before he could hide it, though.",
-    "translation": "在另外一个矿井，%randomname% 找到了一块拳头大小的金块！但他还没来得及藏起来就被工头没收了。",
+    "translation": "另一座矿井里，%randomname%找到了一块金块，足足有拳头那么大！不过还没来得及藏起来，就被工头没收了。",
     "stage": 1,
     "context": "'In the other mine shaft, %randomname% found a nugget the size of me fist! The overseer got to him before he could hide it, though.'"
   },

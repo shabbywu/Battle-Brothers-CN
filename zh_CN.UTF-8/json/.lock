@@ -1304,14 +1304,14 @@
         "total": 206,
         "translated": 206,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:43.544Z",
         "updatedAt": "2023-06-26T05:46:32.269Z",
-        "modifiedAt": "2024-08-21T08:44:25Z",
-        "sha256": "b2b486f5a56337ce55a1fd0f949babe60cfc57c43d6d5dd11ef9d25bf8cc7c55"
+        "modifiedAt": "2024-08-22T03:26:15Z",
+        "sha256": "53b3a166c520cd965c9edf10e0e43c6cfa4904aedf3a1a9d55d0896e0c4e09a8"
     },
     "scripts/config/spawnlist_master.json": {
         "id": 918419,
@@ -8834,8 +8834,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:34.523Z",
         "updatedAt": "2023-06-26T05:47:35.052Z",
-        "modifiedAt": "2023-06-26T05:47:35Z",
-        "sha256": "d8b15311c3e558e892c1dae43abc5e7b4d2af18a4a1cd96bd3195a68763056ce"
+        "modifiedAt": "2024-08-22T14:01:06Z",
+        "sha256": "0030f15ce6e9a77dca2ca840ff3d01092010c6f497c9150a512ce9acbf296d12"
     },
     "scripts/events/events/crisis/civilwar_refugees_event.json": {
         "id": 918837,
@@ -15332,8 +15332,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:58.367Z",
         "updatedAt": "2023-07-05T12:36:09.161Z",
-        "modifiedAt": "2024-07-02T13:51:01Z",
-        "sha256": "b9cbdacb681215a7fbe7e6e6e96287b0ae396728c65b8e21001c97251daa713c"
+        "modifiedAt": "2024-08-22T13:31:50Z",
+        "sha256": "b8b466033fd4afd1b0e8f031d335064f4f2f4bc02d503882b35c9c144fff39e6"
     },
     "scripts/events/events/traveling_troupe_event.json": {
         "id": 919198,
