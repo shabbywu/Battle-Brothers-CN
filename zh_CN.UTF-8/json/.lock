@@ -1526,8 +1526,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:49.621Z",
         "updatedAt": "2023-06-26T05:46:38.097Z",
-        "modifiedAt": "2024-06-24T14:25:59Z",
-        "sha256": "bf6bef4d5c3aaa239541e4bde12b441372d6b0852d56e686f263a30a566f93da"
+        "modifiedAt": "2024-08-23T11:05:47Z",
+        "sha256": "8bba24081e9d28b97683816934d44f57b90d4b770876559954e0235ce98d87b1"
     },
     "scripts/contracts/contracts/break_greenskin_siege_contract.json": {
         "id": 918431,
@@ -11642,8 +11642,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:34.439Z",
         "updatedAt": "2023-06-26T05:47:54.504Z",
-        "modifiedAt": "2024-05-13T02:54:40Z",
-        "sha256": "aea589db830c2735a5e046c26855a32fb09adf24672b2970735159cf965cd5b0"
+        "modifiedAt": "2024-08-23T04:37:28Z",
+        "sha256": "0ab608908d01795ddb1e3acaf0ade4b9a042cb0acf0e06f921cedaa9e9eff62c"
     },
     "scripts/events/events/dlc6/location/meteorite_enter_event.json": {
         "id": 918993,
@@ -13280,8 +13280,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:10.495Z",
         "updatedAt": "2023-06-26T05:48:06.642Z",
-        "modifiedAt": "2024-07-03T09:03:10Z",
-        "sha256": "b6a60a67f4aecc18217004c6ec6c058b2b9ce966245caf6d6dc9398a5428be45"
+        "modifiedAt": "2024-08-23T09:50:48Z",
+        "sha256": "b5ad4c17a1d9eb08e0c1bd9c58c3f9ef9900e2ace9466eaa8ac3e620cb651f96"
     },
     "scripts/events/events/giant_tree_in_forest_event.json": {
         "id": 919084,
@@ -15332,8 +15332,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:58.367Z",
         "updatedAt": "2023-07-05T12:36:09.161Z",
-        "modifiedAt": "2024-08-22T13:31:50Z",
-        "sha256": "b8b466033fd4afd1b0e8f031d335064f4f2f4bc02d503882b35c9c144fff39e6"
+        "modifiedAt": "2024-08-23T03:29:27Z",
+        "sha256": "be95109130e9bb8a8c1c7867c2a5ce41067944d041e7eaa1a925546cb8d6d318"
     },
     "scripts/events/events/traveling_troupe_event.json": {
         "id": 919198,
