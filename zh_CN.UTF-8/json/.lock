@@ -1526,8 +1526,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:49.621Z",
         "updatedAt": "2023-06-26T05:46:38.097Z",
-        "modifiedAt": "2024-08-23T11:05:47Z",
-        "sha256": "8bba24081e9d28b97683816934d44f57b90d4b770876559954e0235ce98d87b1"
+        "modifiedAt": "2024-08-24T15:02:50Z",
+        "sha256": "57692dfdcd351686ce876c5c87d88922427b357b65ce837350f1479dae401ee5"
     },
     "scripts/contracts/contracts/break_greenskin_siege_contract.json": {
         "id": 918431,
