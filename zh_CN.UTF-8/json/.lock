@@ -1976,8 +1976,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:01.452Z",
         "updatedAt": "2023-06-26T05:46:47.051Z",
-        "modifiedAt": "2024-05-13T02:51:43Z",
-        "sha256": "bbdfa1c6d9ca882e5efce186cc28dd496d87161041013aaaa185819cc5865713"
+        "modifiedAt": "2024-08-25T09:53:34Z",
+        "sha256": "0b022c8a5a174ddb56e6d187c4d308221597af9b684be01ca2ff9371606b0318"
     },
     "scripts/contracts/contracts/hunting_schrats_contract.json": {
         "id": 918456,
@@ -39236,8 +39236,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:03.221Z",
         "updatedAt": "2023-06-26T05:49:52.495Z",
-        "modifiedAt": "2024-07-02T03:06:35Z",
-        "sha256": "d041818cc4203e934da318f0eee4af6bd90a0062af2c0828e0301de8e599ab0f"
+        "modifiedAt": "2024-08-25T12:01:53Z",
+        "sha256": "43a0555d6524d80b7517c2d3e019d61eca7461361c3a0bbe9d8cee116d0378bc"
     },
     "scripts/states/world_state.json": {
         "id": 920526,
