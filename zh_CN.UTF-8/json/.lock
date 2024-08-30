@@ -1310,8 +1310,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:43.544Z",
         "updatedAt": "2023-06-26T05:46:32.269Z",
-        "modifiedAt": "2024-08-22T03:26:15Z",
-        "sha256": "53b3a166c520cd965c9edf10e0e43c6cfa4904aedf3a1a9d55d0896e0c4e09a8"
+        "modifiedAt": "2024-08-29T07:55:27Z",
+        "sha256": "bdcfafd45aa9d7a2a1d710ecb2dd90b0e4cf78b059af8a90a017d8c5183c9ecc"
     },
     "scripts/config/spawnlist_master.json": {
         "id": 918419,
@@ -1940,8 +1940,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:00.68Z",
         "updatedAt": "2023-06-26T05:46:46.318Z",
-        "modifiedAt": "2024-07-17T15:16:16Z",
-        "sha256": "a1335ffcd2ae257f571ec6c92329cc0ccd705ed7b613923c251ddfbf84d3f953"
+        "modifiedAt": "2024-08-29T06:35:38Z",
+        "sha256": "7f28e0fcdc25c3cf4c2d97f586a6dc6485f17c347ebe952a30977096b48a00e2"
     },
     "scripts/contracts/contracts/hunting_lindwurms_contract.json": {
         "id": 918454,
@@ -2354,8 +2354,8 @@
         "locked": 1,
         "createdAt": "2023-05-13T14:18:12.283Z",
         "updatedAt": "2023-06-26T05:46:53.28Z",
-        "modifiedAt": "2024-07-13T11:37:31Z",
-        "sha256": "29b5da16077fcb9f53ad89bc52be8afac9155987e468f621141fb6b47a1345ba"
+        "modifiedAt": "2024-08-28T09:09:24Z",
+        "sha256": "27b3e9fde8ff60d54a719c5c55acd67935648ef382d2ae87775bdd741fe7a951"
     },
     "scripts/contracts/templates/intro_templates.json": {
         "id": 918477,

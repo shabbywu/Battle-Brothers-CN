@@ -99,7 +99,7 @@
     "ID": 293405441,
     "key": "I came here to pick up an heirloom from my late grandfather just to get to know it has been stolen by marauding barbarians. They are said to loiter somewhere %terrain% %direction% of here, but I fear I will never get it back.",
     "original": "I came here to pick up an heirloom from my late grandfather just to get to know it has been stolen by marauding barbarians. They are said to loiter somewhere %terrain% %direction% of here, but I fear I will never get it back.",
-    "translation": "我来这里是为了从我已故祖父那里取走一件传家宝，只是知道它是被劫掠的野蛮人偷走的。据说他们游荡的地方在 %direction% 的 %terrain%，但我担心我永远也回不来了。",
+    "translation": "我来这里，是为了找回我已故祖父的一件传家宝，谁承想，它已经被四处劫掠的野蛮人抢走了。听说，他们就游荡在%direction%边的%Terrain%上，恐怕我再也别想把它给找回来了。",
     "stage": 1,
     "context": "'I came here to pick up an heirloom from my late grandfather just to get to know it has been stolen by marauding barbarians. They are said to loiter somewhere %terrain% %direction% of here, but I fear I will never get it back.'"
   },
@@ -187,7 +187,7 @@
     "ID": 293405452,
     "key": "One day I'll be standard bearer of the company. It's only the bravest of us all and they've been with the company for years and years, y'know, but it's the greatest honor for a man with common blood. I've seen even a knight once shake the hand of ours.",
     "original": "One day I'll be standard bearer of the company. It's only the bravest of us all and they've been with the company for years and years, y'know, but it's the greatest honor for a man with common blood. I've seen even a knight once shake the hand of ours.",
-    "translation": "总有一天我会成为战团的扛旗手。这是有史以来最勇敢的人，对于普通人来说也是最高的荣誉。我甚至见过一名骑士与咱们的扛旗手握手呢。",
+    "translation": "总有一天，我要成为战团的掌旗手。只有那些最勇敢，在战团里待得最久的人才配干这个，对普通人来说，这是再大不过的荣誉了。我甚至亲眼见到骑士和我们的旗手握手了呢。",
     "stage": 1,
     "context": "\"One day I'll be standard bearer of the company. It's only the bravest of us all and they've been with the company for years and years, y'know, but it's the greatest honor for a man with common blood. I've seen even a knight once shake the hand of ours.\""
   },
@@ -219,7 +219,7 @@
     "ID": 293405456,
     "key": "If you're looking to fetch a good price for your trading goods, my friend, you should go to one of the large cities or castles and not some run-down poor village at world's ass.",
     "original": "If you're looking to fetch a good price for your trading goods, my friend, you should go to one of the large cities or castles and not some run-down poor village at world's ass.",
-    "translation": "朋友，你要是想把货买个好价钱，就得奔着大城市或者城堡去，到那些鸟不拉屎的破村子去干什么。",
+    "translation": "朋友，你要是想把货卖个好价钱，就得奔着大城市或者城堡去，到那些鸟不拉屎的破村子去干什么。",
     "stage": 1,
     "context": "\"If you're looking to fetch a good price for your trading goods, my friend, you should go to one of the large cities or castles and not some run-down poor village at world's ass.\""
   },
@@ -323,7 +323,7 @@
     "ID": 293405469,
     "key": "A caravan transporting some valuable ceremonial weapon has been raided %direction% of here. Rumor is the victims had every single bone broken, and a terrible stench hangs in the air.",
     "original": "A caravan transporting some valuable ceremonial weapon has been raided %direction% of here. Rumor is the victims had every single bone broken, and a terrible stench hangs in the air.",
-    "translation": "听说一辆运送贵重仪式武器的商队在这里的 %direction% 方向被劫了。传言的受害者身上的每一根骨头都断了，空气中还弥漫着可怕的恶臭。",
+    "translation": "一辆运送仪仗武器的马车，在这儿%direction%边被劫了。听说那些押车的倒霉蛋，一个个骨头被砸得粉碎，臭味隔了老远都能闻到。",
     "stage": 1,
     "context": "'A caravan transporting some valuable ceremonial weapon has been raided %direction% of here. Rumor is the victims had every single bone broken, and a terrible stench hangs in the air.'"
   },
@@ -331,7 +331,7 @@
     "ID": 293405470,
     "key": "There's lots of talk about the dead walking the earth again. %randomname% says there's some to the %direction% of here. Sounds like hogwash to me.",
     "original": "There's lots of talk about the dead walking the earth again. %randomname% says there's some to the %direction% of here. Sounds like hogwash to me.",
-    "translation": "这里流传着许多僵尸重现大陆的传言。甚至%randomname%还说这儿%direction%边就有一些僵尸。我看这完全是胡说八道。",
+    "translation": "这里流传着许多僵尸重现大陆的传言。甚至%randomname%还说，这儿%direction%边就有一些僵尸。我看这完全是胡说八道。",
     "stage": 1,
     "context": "\"There's lots of talk about the dead walking the earth again. %randomname% says there's some to the %direction% of here. Sounds like hogwash to me.\""
   },
@@ -379,7 +379,7 @@
     "ID": 293405476,
     "key": "I've been a farmhand all my life and sometimes I wish I'd taken the chance to venture with a company like yours... well, it's too late for that now.",
     "original": "I've been a farmhand all my life and sometimes I wish I'd taken the chance to venture with a company like yours... well, it's too late for that now.",
-    "translation": "我干了一辈子的农夫有时候真想加入到像你们一样的战团去冒险…好吧，现在一切都晚了。",
+    "translation": "我当了一辈子农民，有时候，真希望当时抓住了机会，加入像你们一样的战团，四处去冒险……唉，现在说这些都晚了。",
     "stage": 1,
     "context": "\"I've been a farmhand all my life and sometimes I wish I'd taken the chance to venture with a company like yours... well, it's too late for that now.\""
   },
@@ -395,7 +395,7 @@
     "ID": 293405478,
     "key": "Fourteen. That's how many men I've killed. Women I count extra, three so far. What about you?",
     "original": "Fourteen. That's how many men I've killed. Women I count extra, three so far. What about you?",
-    "translation": "到目前为止我杀了十四个人了。额外加三个女人。你呢？",
+    "translation": "十四个。我一共杀了十四个人，男人。女人另算，一共三个。你呢",
     "stage": 1,
     "context": "\"Fourteen. That's how many men I've killed. Women I count extra, three so far. What about you?\""
   },
@@ -403,7 +403,7 @@
     "ID": 293405479,
     "key": "There are tales of figures shifting in snowstorms and unearthly howls that mix with the winds... but I wouldn't want to unsettle you with the common folk's farytales.",
     "original": "There are tales of figures shifting in snowstorms and unearthly howls that mix with the winds... but I wouldn't want to unsettle you with the common folk's farytales.",
-    "translation": "有传言说暴风雪中会有人影移动，还有神秘的嚎叫会随风飘荡...但我不想让你因为民间故事而不安。",
+    "translation": "有人说，暴风雪中有人影在若隐若现，也有人说，神秘的嚎叫会随风而至……希望你听了以后不要害怕。",
     "stage": 1,
     "context": "\"There are tales of figures shifting in snowstorms and unearthly howls that mix with the winds... but I wouldn't want to unsettle you with the common folk's farytales.\""
   },
@@ -411,7 +411,7 @@
     "ID": 293405480,
     "key": "The other day my pickaxe broke while I was hammering away. Piece of it clipped my cheek. Not much and I'd be missing an eye!",
     "original": "The other day my pickaxe broke while I was hammering away. Piece of it clipped my cheek. Not much and I'd be missing an eye!",
-    "translation": "有一天我的鹤嘴锄在敲打时坏掉了。飞出来的碎片蹦到我脸上。好在只是失去了一只眼睛而已！",
+    "translation": "有一天，我的鹤嘴锄敲坏了。飞出来的碎片崩到了我脸上。好在只是没了只眼睛！",
     "stage": 1,
     "context": "\"The other day my pickaxe broke while I was hammering away. Piece of it clipped my cheek. Not much and I'd be missing an eye!\""
   },
@@ -419,7 +419,7 @@
     "ID": 293405481,
     "key": "A group of young lads left for %settlement% some days ago. They're looking to hire armed men over there, willing to pay real good. I just hope they make it back alive.",
     "original": "A group of young lads left for %settlement% some days ago. They're looking to hire armed men over there, willing to pay real good. I just hope they make it back alive.",
-    "translation": "几天前，一群年轻的小伙子去了 %settlement%。他们到处寻找装备精良并愿意支付高额佣金的雇佣武装人员。但愿他们能活着回来吧。",
+    "translation": "几天前，一群年轻小伙子去了%settlement%。那儿的人愿意花大价钱，专门雇佣武装人员。但愿他们能活着回来吧。",
     "stage": 1,
     "context": "\"A group of young lads left for %settlement% some days ago. They're looking to hire armed men over there, willing to pay real good. I just hope they make it back alive.\""
   },
@@ -427,7 +427,7 @@
     "ID": 293405482,
     "key": "Now, I don't want to start any rumors, but I saw a dead man walking around %direction% of here. His rotten hands clutched an extraordinary weapon but I'd never dare go there again in my life!",
     "original": "Now, I don't want to start any rumors, but I saw a dead man walking around %direction% of here. His rotten hands clutched an extraordinary weapon but I'd never dare go there again in my life!",
-    "translation": "我真的不是在散播谣言，但我确实看到一只僵尸从这往 %direction% 走去了。他那只腐烂的手还抓着一把非凡的武器，但我这辈子都没胆量去那里了！",
+    "translation": "听好了，我可不是在编故事，我亲眼看到了一只僵尸往%direction%边去了。他那烂手里还攥着一把精美异常的武器呢，可惜我这辈子再也没胆儿去那儿看看了。",
     "stage": 1,
     "context": "\"Now, I don't want to start any rumors, but I saw a dead man walking around %direction% of here. His rotten hands clutched an extraordinary weapon but I'd never dare go there again in my life!\""
   },
@@ -435,7 +435,7 @@
     "ID": 293405483,
     "key": "I hear the famous shield %item% has been sighted. %randomname% claims that it belongs to a band of hard boiled raiders camping out %direction% of here. But then, %randomname% talks lots about things he knows nothing about.",
     "original": "I hear the famous shield %item% has been sighted. %randomname% claims that it belongs to a band of hard boiled raiders camping out %direction% of here. But then, %randomname% talks lots about things he knows nothing about.",
-    "translation": "我听说一面叫做 %item% 的盾牌被发现了。%randomname% 声称那面盾牌就在 %direction% 一群彪悍的强盗手中。然后 %randomname% 说了很多他自己也不了解的话题。",
+    "translation": "我听说，有人亲眼见到了那面叫%item%的著名盾牌。%randomname%信誓旦旦地说，这玩意现在就在一群彪悍的强盗手里，他们还在%direction%边扎营了呢。不过，%randomname%也吹了不少他一点也不懂的牛。",
     "stage": 1,
     "context": "'I hear the famous shield %item% has been sighted. %randomname% claims that it belongs to a band of hard boiled raiders camping out %direction% of here. But then, %randomname% talks lots about things he knows nothing about.'"
   },
@@ -443,7 +443,7 @@
     "ID": 293405484,
     "key": "Death is a part of life. The sooner you accept it, the more you can cherish your stay in this world.",
     "original": "Death is a part of life. The sooner you accept it, the more you can cherish your stay in this world.",
-    "translation": "死亡是生命的一部分。你越早接受它，你就能在这世上得到的越多。",
+    "translation": "死亡是生命的一部分。你越早接受它，就越懂得珍惜当下。",
     "stage": 1,
     "context": "'Death is a part of life. The sooner you accept it, the more you can cherish your stay in this world.'"
   },
@@ -451,7 +451,7 @@
     "ID": 293405485,
     "key": "A sturdy shield is a real life-saver, let me tell you. Wouldn't have a man fight without one.",
     "original": "A sturdy shield is a real life-saver, let me tell you. Wouldn't have a man fight without one.",
-    "translation": "我告诉你，坚固的盾牌才是真正的救命稻草。所有人战斗都会带上它。",
+    "translation": "我可跟你说啊，结实的盾牌能救命。我肯定得给所有人都整一个。",
     "stage": 1,
     "context": "\"A sturdy shield is a real life-saver, let me tell you. Wouldn't have a man fight without one.\""
   },
@@ -459,7 +459,7 @@
     "ID": 293405486,
     "key": "The captain of the guard deserted a while ago to join a raider camp hidden %terrain% to the %direction%. My uncle, who served under him, claims he raided the armory before leaving and grabbed a real prize.",
     "original": "The captain of the guard deserted a while ago to join a raider camp hidden %terrain% to the %direction%. My uncle, who served under him, claims he raided the armory before leaving and grabbed a real prize.",
-    "translation": "一名守卫队的队长前段时间被革职了然后加入到一个在 %direction% 的 %terrain% 的强盗营地。我的叔叔曾经在他手下工作过，而且声称那队长在离开前在军械库盗走了一件珍贵的战利品。",
+    "translation": "前段时间开小差的那个卫队队长，跑到%direction%边的%Terrain%当土匪去了。我舅舅当时当过他的兵，说他从军械库里带走了一件顶好的装备。",
     "stage": 1,
     "context": "'The captain of the guard deserted a while ago to join a raider camp hidden %terrain% to the %direction%. My uncle, who served under him, claims he raided the armory before leaving and grabbed a real prize.'"
   },
@@ -467,7 +467,7 @@
     "ID": 293405487,
     "key": "You know of... gosh, what was it called again? To the %direction% %distance% from here, %terrain%. Can't for the life of me remember what we used to call it...",
     "original": "You know of... gosh, what was it called again? To the %direction% %distance% from here, %terrain%. Can't for the life of me remember what we used to call it...",
-    "translation": "你知道...天哪，它又叫什么？从这里到 %direction% %distance%，%terrain%。我这辈子都不记得我们以前叫它什么了......",
+    "translation": "你知道……天哪，叫什么来着？就在这%direction%边%distance%处的%Terrain%上。我怎么就想不起来那儿叫什么了呢......",
     "stage": 1,
     "context": "\"You know of... gosh, what was it called again? To the %direction% %distance% from here, %terrain%. Can't for the life of me remember what we used to call it...\""
   },
@@ -475,7 +475,7 @@
     "ID": 293405488,
     "key": "The nomads take what they want and hide out in the desert. The guards have been looking for them %terrain% %direction% of here. I think they're %distance%.",
     "original": "The nomads take what they want and hide out in the desert. The guards have been looking for them %terrain% %direction% of here. I think they're %distance%.",
-    "translation": "游牧民拿走他们想要的东西，躲在沙漠里。卫兵曾经见过他们是在 %direction% 的 %terrain%。我想他们是 %distance%。",
+    "translation": "游牧民抢走了他们想要的东西，躲进了沙漠里。卫兵曾经到%direction%边的%Terrain%上找过他们。我估计就在%distance%处。",
     "stage": 1,
     "context": "\"The nomads take what they want and hide out in the desert. The guards have been looking for them %terrain% %direction% of here. I think they're %distance%.\""
   },
@@ -483,7 +483,7 @@
     "ID": 293405489,
     "key": "I don't trust the militia here. One time, as a band of outlaws approached, they turned tail and ran for the hills without giving any fight!",
     "original": "I don't trust the militia here. One time, as a band of outlaws approached, they turned tail and ran for the hills without giving any fight!",
-    "translation": "我不信任这里的民兵。有一次，一群不法之徒来了后，他们不做任何反抗就掉头往山上跑了！",
+    "translation": "我才不信这儿的民兵呢。有一次，一伙亡命之徒才刚露了个脸，他们打都没打上一下，掉头就往山上跑了！",
     "stage": 1,
     "context": "\"I don't trust the militia here. One time, as a band of outlaws approached, they turned tail and ran for the hills without giving any fight!\""
   },
