@@ -147,7 +147,7 @@
     "ID": 293413743,
     "key": "Nice work!",
     "original": "Nice work!",
-    "translation": "干好的。",
+    "translation": "干的好。",
     "stage": 1,
     "context": "Text = 'Nice work!'"
   },

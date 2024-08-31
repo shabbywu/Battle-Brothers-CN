@@ -1310,8 +1310,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:43.544Z",
         "updatedAt": "2023-06-26T05:46:32.269Z",
-        "modifiedAt": "2024-08-29T07:55:27Z",
-        "sha256": "bdcfafd45aa9d7a2a1d710ecb2dd90b0e4cf78b059af8a90a017d8c5183c9ecc"
+        "modifiedAt": "2024-08-30T09:04:42Z",
+        "sha256": "8a64bfbea1a54eb5ef6e41af78329161256f827ec7f82045835616c44ebdf69e"
     },
     "scripts/config/spawnlist_master.json": {
         "id": 918419,
@@ -2282,8 +2282,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:10.468Z",
         "updatedAt": "2023-06-26T05:46:52.257Z",
-        "modifiedAt": "2024-05-13T02:51:43Z",
-        "sha256": "9327d513f1bb72f314fb923adf094651efe61a3a30309ed8da942051755c0f6e"
+        "modifiedAt": "2024-08-30T14:44:32Z",
+        "sha256": "a672bc271cd95e0871cf2559bd8f402c342080701ea42c57ed302c1e0a42c151"
     },
     "scripts/contracts/contracts/root_out_undead_contract.json": {
         "id": 918473,
@@ -9896,8 +9896,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:57.506Z",
         "updatedAt": "2023-06-26T05:47:40.524Z",
-        "modifiedAt": "2024-05-13T02:52:22Z",
-        "sha256": "716dae820ef907820bb968804cdeec575f8199bcbfe11bf18c5b17fc01576742"
+        "modifiedAt": "2024-08-30T14:44:50Z",
+        "sha256": "73245c62630fc7df72c765bdb117198562c135acfb3d709d16b7603c79953f74"
     },
     "scripts/events/events/dlc2/location/ancient_statue_event.json": {
         "id": 918896,
@@ -10166,8 +10166,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:04.353Z",
         "updatedAt": "2023-06-26T05:47:41.947Z",
-        "modifiedAt": "2023-06-26T05:47:42Z",
-        "sha256": "49de4fab808cd9fdba5f8df0e71047ba23c6bcddf41c5c3893e2fe485725b5dc"
+        "modifiedAt": "2024-08-30T11:08:18Z",
+        "sha256": "84dda857b43e957fc6d4f9679ea1d403609127419a56e586f55c90a54a73f178"
     },
     "scripts/events/events/dlc2/location/witchhut_enter_event.json": {
         "id": 918911,
@@ -29300,8 +29300,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:51.925Z",
         "updatedAt": "2023-06-26T05:49:12.154Z",
-        "modifiedAt": "2023-06-26T05:49:12Z",
-        "sha256": "979cc0cecbe5dec68acb655aade39e683c675270f0c8bfaaf5e0f339d34c6330"
+        "modifiedAt": "2024-08-30T07:35:58Z",
+        "sha256": "acf4a76d74f5d5aa39cbfb9c01f7900483de2f920390b475ace601ba8ff0dc46"
     },
     "scripts/scenarios/world/paladins_scenario.json": {
         "id": 919974,
@@ -33242,8 +33242,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:38.106Z",
         "updatedAt": "2023-06-26T05:49:27.065Z",
-        "modifiedAt": "2024-07-01T11:34:30Z",
-        "sha256": "236aecd23648b5e78484a66df106649070c3767138717e830e272ccf97ab570c"
+        "modifiedAt": "2024-08-30T02:17:04Z",
+        "sha256": "a81db0d6a794df03f1c6bea02b2f7fff8df82ef5d504659e76a8924148f4976e"
     },
     "scripts/skills/backgrounds/hedge_knight_background.json": {
         "id": 920193,
