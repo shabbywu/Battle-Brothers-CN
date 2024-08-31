@@ -67,7 +67,7 @@
     "ID": 293419727,
     "key": "Stole someone's scramasax",
     "original": "Stole someone's scramasax",
-    "translation": "偷了别人的撒克逊大刀",
+    "translation": "偷了别人的撒克逊短刀",
     "stage": 1,
     "context": "bros[3].improveMood(1.5, \"Stole someone's scramasax\")"
   },
@@ -171,7 +171,7 @@
     "ID": 293419740,
     "key": "Had his trusty scramasax stolen",
     "original": "Had his trusty scramasax stolen",
-    "translation": "偷了信赖他的人的撒克逊大刀",
+    "translation": "他可靠的撒克逊短刀被偷走了",
     "stage": 1,
     "context": "bros[9].worsenMood(1.0, 'Had his trusty scramasax stolen')"
   },

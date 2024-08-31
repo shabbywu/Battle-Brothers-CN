@@ -91,7 +91,7 @@
     "ID": 293413923,
     "key": "Why did you call me the False King?",
     "original": "Why did you call me the False King?",
-    "translation": "你为什么叫我假国王？",
+    "translation": "你为什么要叫我伪王？",
     "stage": 1,
     "context": "this.m.Texts.5 = 'Why did you call me the False King?'"
   },
