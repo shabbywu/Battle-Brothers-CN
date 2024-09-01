@@ -3,7 +3,7 @@
     "ID": 293418370,
     "key": "A collection of shimmering valuables, covered in the innards of a Lindwurm.",
     "original": "A collection of shimmering valuables, covered in the innards of a Lindwurm.",
-    "translation": "林德蠕龙体内藏着的闪亮财宝。",
+    "translation": "藏在林德蠕龙体内的闪亮财宝。",
     "stage": 1,
     "context": "this.m.Description = 'A collection of shimmering valuables, covered in the innards of a Lindwurm.'"
   },

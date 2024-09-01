@@ -59,7 +59,7 @@
     "ID": 293403621,
     "key": "Your men gain no experience for allied kills.",
     "original": "Your men gain no experience for allied kills.",
-    "translation": "你的人不会从盟友的击杀中获得经验。",
+    "translation": "你的人不会从队友的击杀中获得经验。",
     "stage": 1,
     "context": "this.m.OathBurdenText = 'Your men gain no experience for allied kills.'"
   },
@@ -67,7 +67,7 @@
     "ID": 293403622,
     "key": "]+10%[/color] damage if there are no allies on adjacent tiles.",
     "original": "]+10%[/color] damage if there are no allies on adjacent tiles.",
-    "translation": "]+10%[/color] 伤害（相邻格没有盟友时）",
+    "translation": "]+10%[/color] 伤害（相邻格没有队友时）",
     "stage": 1,
     "context": "this.m.OathBoonText = 'Your men get [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve, [color=' + this.Const.UI.Color.PositiveValue + ']+3[/color] Fatigue Recovery per turn, and deal [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] damage if there are no allies on adjacent tiles.'"
   },

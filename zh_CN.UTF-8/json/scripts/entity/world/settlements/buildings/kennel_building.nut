@@ -11,7 +11,7 @@
     "ID": 293410702,
     "key": "Kennel",
     "original": "Kennel",
-    "translation": "狗舍",
+    "translation": "驯犬屋",
     "stage": 1,
     "context": "this.m.Name = 'Kennel'"
   }

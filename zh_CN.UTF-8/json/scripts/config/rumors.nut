@@ -811,7 +811,7 @@
     "ID": 293405530,
     "key": "Are you also here to look for %item% like all those other fools? It is said to lie somewhere %terrain% %direction%. Nothing but hogwash if you ask me...",
     "original": "Are you also here to look for %item% like all those other fools? It is said to lie somewhere %terrain% %direction%. Nothing but hogwash if you ask me...",
-    "translation": "你跟那帮傻子一样，也是来这儿找%item%的吗？听说它就在%direction%边%Terrain%的某个地方。依我看全是胡说八道……",
+    "translation": "你跟那帮傻子一样，也是来这儿找%item%的吗？听说它就在%direction%边%terrain%的某个地方。依我看全是胡说八道……",
     "stage": 1,
     "context": "'Are you also here to look for %item% like all those other fools? It is said to lie somewhere %terrain% %direction%. Nothing but hogwash if you ask me...'"
   },
@@ -835,7 +835,7 @@
     "ID": 293405533,
     "key": "A bewildered patron told me he was held prisoner by some rogues %terrain% %distance% from here. Said they had something real pretty with them. Some sort of curious looking weapon.",
     "original": "A bewildered patron told me he was held prisoner by some rogues %terrain% %distance% from here. Said they had something real pretty with them. Some sort of curious looking weapon.",
-    "translation": "一个惊魂未定的酒客告诉我，他被%distance%处%Terrain%的流氓关起来过。说他们有件相当漂亮的玩意，某种奇形怪状的武器。",
+    "translation": "一个惊魂未定的酒客告诉我，他被%distance%处%terrain%的流氓关起来过。说他们有件相当漂亮的玩意，某种奇形怪状的武器。",
     "stage": 1,
     "context": "'A bewildered patron told me he was held prisoner by some rogues %terrain% %distance% from here. Said they had something real pretty with them. Some sort of curious looking weapon.'"
   },
