@@ -51,7 +51,7 @@
     "ID": 293417714,
     "key": "A thick mail hauberk combined with sturdy metal plates. This armor will protect its wearer even in the fiercest of battles.",
     "original": "A thick mail hauberk combined with sturdy metal plates. This armor will protect its wearer even in the fiercest of battles.",
-    "translation": "一件复合了扎实金属板的厚重长身链甲。能在最激烈的战斗重保护其穿戴者。",
+    "translation": "一件复合了扎实金属板的厚重长身链甲。能在最激烈的战斗中保护其穿戴者。",
     "stage": 1,
     "context": "this.m.Description = 'A thick mail hauberk combined with sturdy metal plates. This armor will protect its wearer even in the fiercest of battles.'"
   },

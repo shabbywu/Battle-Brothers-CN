@@ -363,7 +363,7 @@
     "ID": 293405681,
     "key": "A great leader of men inspires his followers to overcome their limits. Allies start every battle at confident morale unless prohibited by character traits.",
     "original": "A great leader of men inspires his followers to overcome their limits. Allies start every battle at confident morale unless prohibited by character traits.",
-    "translation": "一个伟大的领袖会激励他的追随者去克服他们的极限。除非性格特征禁止，否则盟友会以自信士气开始每场战斗。",
+    "translation": "伟大的领袖会激励他追随者去突破极限。每场战斗中，队友都会以自信士气开始战斗，性格禁止除外。",
     "stage": 1,
     "context": "InspiringPresence = 'A great leader of men inspires his followers to overcome their limits. Allies start every battle at confident morale unless prohibited by character traits.'"
   },
@@ -3843,7 +3843,7 @@
     "ID": 293406116,
     "key": "Unlocks the 'Rally' skill which can rally fleeing allies, and raise morale of all nearby allies to a steady level. The higher the Resolve of the character using the skill, the higher the chance to succeed.",
     "original": "Unlocks the 'Rally' skill which can rally fleeing allies, and raise morale of all nearby allies to a steady level. The higher the Resolve of the character using the skill, the higher the chance to succeed.",
-    "translation": "解锁“集结”技能，可以集结逃跑的盟友，并提高附近所有盟友的士气到稳定的等级。使用技能的角色决心越高，成功的几率就越高。",
+    "translation": "解锁“集结”技能，可以集结逃跑的队友，并将附近所有队友的士气到相对稳定的等级。使用技能的角色决心越高，成功的几率就越高。",
     "stage": 1,
     "context": "RallyTheTroops = \"Unlocks the 'Rally' skill which can rally fleeing allies, and raise morale of all nearby allies to a steady level. The higher the Resolve of the character using the skill, the higher the chance to succeed.\""
   },
@@ -4803,7 +4803,7 @@
     "ID": 293406236,
     "key": "I work best alone. With no ally within 3 tiles of distance, gain a [color=",
     "original": "I work best alone. With no ally within 3 tiles of distance, gain a [color=",
-    "translation": "我最好单独行动。如果在3格范围内没有盟友，获得[color=",
+    "translation": "我最好单独行动。如果3格范围内没有队友，获得[color=",
     "stage": 1,
     "context": "LoneWolf = 'I work best alone. With no ally within 3 tiles of distance, gain a [color=' + this.Const.UI.Color.PositiveValue + ']15%[/color] bonus to Melee Skill, Ranged Skill, Melee Defense, Ranged Defense, and Resolve.'"
   },

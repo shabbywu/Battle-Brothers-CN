@@ -1923,7 +1923,7 @@
     "ID": 293423193,
     "key": "Morale is one of five states and represents the mental condition of combatants and their effectiveness in battle. At the lowest state, fleeing, a character will be outside your control - although they may eventually rally again. Morale changes as the batt",
     "original": "Morale is one of five states and represents the mental condition of combatants and their effectiveness in battle. At the lowest state, fleeing, a character will be outside your control - although they may eventually rally again. Morale changes as the battle unfolds, with characters that have high resolve less likely to fall to low morale states. Many of your opponents are affected by morale as well.\n\nMorale checks trigger on these occasions:\n- Killing an enemy\n- Seeing an enemy be killed\n- Seeing an ally be killed\n- Seeing an ally flee\n- Being hit for 15 or more damage to hitpoints\n- Being engaged by more than one opponent\n- Using certain skills, like 'Rally'",
-    "translation": "士气会处于五个代表着战斗人员的心理状态和战斗力的状态等级之一。士气的最低等级是溃逃，在该等级下，角色将会脱离玩家控制，不过他们仍有可能被集结起来。随着战斗展开，士气会发生变化，具有高决心的角色更不容易陷入士气低落状态。你的许多对手也受到士气的影响。\n\n士气检定在这些情况下触发：\n- 杀敌\n- 看到敌人被杀\n- 看到盟友被杀\n- 看到盟友逃跑\n- 受到15点或以上的生命值伤害\n- 面对一个以上的对手\n- 使用某些技能，例如“集结”",
+    "translation": "士气会处于五个代表着战斗人员的心理状态和战斗力的状态等级之一。士气的最低等级是溃逃，在该等级下，角色将会脱离玩家控制，不过他们仍有可能被集结起来。随着战斗展开，士气会发生变化，具有高决心的角色更不容易陷入士气低落状态。你的许多对手也受到士气的影响。\n\n士气检定在这些情况下触发：\n- 杀敌\n- 看到敌人被杀\n- 看到队友被杀\n- 看到队友逃跑\n- 受到15点或以上的生命值伤害\n- 面对一个以上的对手\n- 使用某些技能，例如“集结”",
     "stage": 1,
     "context": "text = \"Morale is one of five states and represents the mental condition of combatants and their effectiveness in battle. At the lowest state, fleeing, a character will be outside your control - although they may eventually rally again. Morale changes as the battle unfolds, with characters that have high resolve less likely to fall to low morale states. Many of your opponents are affected by morale as well.\n\nMorale checks trigger on these occasions:\n- Killing an enemy\n- Seeing an enemy be killed\n- Seeing an ally be killed\n- Seeing an ally flee\n- Being hit for 15 or more damage to hitpoints\n- Being engaged by more than one opponent\n- Using certain skills, like 'Rally'\""
   },
@@ -3307,7 +3307,7 @@
     "ID": 293423366,
     "key": "Characters gain experience as they or their allies slay enemies in battles. If a character has accumulated sufficient experience, he'll level up and be able to increase his attributes and pick a perk that grants a unique bonus.\n\nBeyond the 11th character ",
     "original": "Characters gain experience as they or their allies slay enemies in battles. If a character has accumulated sufficient experience, he'll level up and be able to increase his attributes and pick a perk that grants a unique bonus.\n\nBeyond the 11th character level, characters are veterans and will no longer gain perk points, but can still continue to improve.",
-    "translation": "角色能在自己或盟友杀敌时获得经验。如果角色积累了足够经验，他的等级会得到提高，能够提高自己的属性，选择一项能带来独特加成的特技。\n\n在角色11级之后，角色将成为老兵，不再获得特技点，但仍可有所提高。",
+    "translation": "角色能在自己或队友杀敌时获得经验。如果角色积累了足够经验，他的等级会得到提高，能够提高自己的属性，选择一项能带来独特加成的特技。\n\n在角色11级之后，角色将成为老兵，不再获得特技点，但仍可有所提高。",
     "stage": 1,
     "context": "text = \"Characters gain experience as they or their allies slay enemies in battles. If a character has accumulated sufficient experience, he'll level up and be able to increase his attributes and pick a perk that grants a unique bonus.\n\nBeyond the 11th character level, characters are veterans and will no longer gain perk points, but can still continue to improve.\""
   },

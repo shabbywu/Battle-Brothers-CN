@@ -19,7 +19,7 @@
     "ID": 293421635,
     "key": "[/color] damage based on his resolve each turn. The character can be forcibly awoken from these nightmares by a nearby ally, but he won't wake up on his own.",
     "original": "[/color] damage based on his resolve each turn. The character can be forcibly awoken from these nightmares by a nearby ally, but he won't wake up on his own.",
-    "translation": "[/color] 点伤害。角色可以被附近的盟友强制唤醒，但他自己不会醒来。",
+    "translation": "[/color] 点伤害。角色可以被附近的盟友强制唤醒，但他不会自己醒来。",
     "stage": 1,
     "context": "return \"This character is consumed by unnatural nightmares and is unable to act. As the horrors eat away at his sanity, he'll take [color=\" + this.Const.UI.Color.PositiveValue + ']' + this.getDamage() + \"[/color] damage based on his resolve each turn. The character can be forcibly awoken from these nightmares by a nearby ally, but he won't wake up on his own.\";"
   },

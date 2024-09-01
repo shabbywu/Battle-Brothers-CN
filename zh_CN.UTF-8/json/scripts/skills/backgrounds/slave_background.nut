@@ -19,8 +19,8 @@
     "ID": 293421278,
     "key": "No morale check triggered for non-indebted allies upon dying",
     "original": "No morale check triggered for non-indebted allies upon dying",
-    "translation": "非负债者盟友死亡时不会触发士气检查",
-    "stage": 5,
+    "translation": "非负债者队友死亡时不会触发士气检查",
+    "stage": 1,
     "context": "text = 'No morale check triggered for non-indebted allies upon dying'"
   },
   {

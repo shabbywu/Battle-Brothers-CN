@@ -363,7 +363,7 @@
     "ID": 293406902,
     "key": "Use CTRL + Left Click to attack allied parties on the worldmap. This only works if you are currently unemployed.",
     "original": "Use CTRL + Left Click to attack allied parties on the worldmap. This only works if you are currently unemployed.",
-    "translation": "使用CTRL + 左键单击来攻击世界地图上的盟友。仅可在未受雇佣时使用。",
+    "translation": "使用CTRL + 左键单击来攻击世界地图上的友善队伍。仅可在未受雇佣时使用。",
     "stage": 1,
     "context": "'Use CTRL + Left Click to attack allied parties on the worldmap. This only works if you are currently unemployed.'"
   },
@@ -499,7 +499,7 @@
     "ID": 293406919,
     "key": "A character with a height level advantage over their opponent is harder to hit.",
     "original": "A character with a height level advantage over their opponent is harder to hit.",
-    "translation": "高地优势使角色更难被对手命中。",
+    "translation": "高度优势使角色更难被对手命中。",
     "stage": 1,
     "context": "'A character with a height level advantage over their opponent is harder to hit.'"
   },
