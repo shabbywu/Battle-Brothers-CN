@@ -9896,8 +9896,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:57.506Z",
         "updatedAt": "2023-06-26T05:47:40.524Z",
-        "modifiedAt": "2024-08-31T08:36:29Z",
-        "sha256": "d63c9341cef8cba9cf1783143117517443600c7dd54139eec7bb412b0c225fae"
+        "modifiedAt": "2024-09-02T00:49:32Z",
+        "sha256": "8654be6f66c8868566823e2fa2fc1383ca870234b34ec6ca6ef9461716fd7aaa"
     },
     "scripts/events/events/dlc2/location/ancient_statue_event.json": {
         "id": 918896,
