@@ -11,7 +11,7 @@
     "ID": 293413726,
     "key": "[img]gfx/ui/events/event_97.png[/img]{While walking about the shops of %townname%, you feel a tug at your sleeve. You turn to find a child there with a face smeared black with two bright white eyes staring out. He asks if you know anything about swords. Y",
     "original": "[img]gfx/ui/events/event_97.png[/img]{While walking about the shops of %townname%, you feel a tug at your sleeve. You turn to find a child there with a face smeared black with two bright white eyes staring out. He asks if you know anything about swords. You gesture toward the one you got sheathed at your side. He claps his hands.%SPEECH_ON%Great! I work for a blacksmith yonder, but he's away fetching iron ingots. He told me to keep watch of this special sword he was making, but it, uh, it fell. And broke. Fell on its own and broke on its own. Will you help me put it back together?%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_97.png[/img]{你正在%townname%的商店间闲逛，忽觉有人在扯你的袖子。转过身来，只见一个孩子，脸上抹得黢黑，两只白亮的眼睛直愣愣地看着你。他问你懂不懂剑。你指了指你腰间的剑鞘。他拍着手说道。%SPEECH_ON%太好了！我为那边的一位铁匠工作，但他去取铁锭了。他要我看守这把特别的剑，但它，嗯，它掉下来了。然后就断了。它自己掉下来的，也自己碎的。你能帮我把它修好吗？%SPEECH_OFF%}",
+    "translation": "[img]gfx/ui/events/event_97.png[/img]{你正在%townname%的商店间闲逛，忽觉有人在扯你的袖子。转过身来，只见一个孩子，脸上抹得黢黑，两只白亮的眼睛直愣愣地看着你。他问你懂不懂剑。你指了指你腰间的剑鞘。他拍着手说道。%SPEECH_ON%太好了！我为那边的一位铁匠工作，但他去取铁锭了。他要我看守这把特别的剑，但它，嗯，它掉下来了。然后就断了。它自己掉下来，自己断的。你能帮我把它修好吗？%SPEECH_OFF%}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_97.png[/img]{While walking about the shops of %townname%, you feel a tug at your sleeve. You turn to find a child there with a face smeared black with two bright white eyes staring out. He asks if you know anything about swords. You gesture toward the one you got sheathed at your side. He claps his hands.%SPEECH_ON%Great! I work for a blacksmith yonder, but he's away fetching iron ingots. He told me to keep watch of this special sword he was making, but it, uh, it fell. And broke. Fell on its own and broke on its own. Will you help me put it back together?%SPEECH_OFF%}\""
   },
@@ -155,7 +155,7 @@
     "ID": 293413744,
     "key": "You're a killer with the kid, %killer%.",
     "original": "You're a killer with the kid, %killer%.",
-    "translation": "你是一个孩子的杀人犯，%killer%。",
+    "translation": "你杀死了他的童心，%killer%。",
     "stage": 1,
     "context": "Text = \"You're a killer with the kid, %killer%.\""
   },
@@ -179,7 +179,7 @@
     "ID": 293413747,
     "key": "I thought you studied baskets?",
     "original": "I thought you studied baskets?",
-    "translation": "我还以为你是专研究篮子的呢。",
+    "translation": "我还以为你是专门研究编篮子的呢。",
     "stage": 1,
     "context": "Text = 'I thought you studied baskets?'"
   },
@@ -211,7 +211,7 @@
     "ID": 293413751,
     "key": "Accidentally crippled a little boy",
     "original": "Accidentally crippled a little boy",
-    "translation": "不小心把小男孩弄残废了",
+    "translation": "不小心弄残了个小男孩",
     "stage": 1,
     "context": "_event.m.Other.worsenMood(1.5, 'Accidentally crippled a little boy')"
   }
