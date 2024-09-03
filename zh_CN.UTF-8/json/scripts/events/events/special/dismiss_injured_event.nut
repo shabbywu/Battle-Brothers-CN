@@ -35,7 +35,7 @@
     "ID": 293416896,
     "key": "Afraid to be dismissed on account of his injury",
     "original": "Afraid to be dismissed on account of his injury",
-    "translation": "害怕因为他受到损伤而被解雇",
+    "translation": "害怕因受到创伤而被解雇",
     "stage": 1,
     "context": "bro.worsenMood(1.5, 'Afraid to be dismissed on account of his injury')"
   }

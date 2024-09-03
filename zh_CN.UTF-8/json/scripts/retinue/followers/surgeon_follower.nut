@@ -35,7 +35,7 @@
     "ID": 293419634,
     "key": "Makes every injury take one less day to heal",
     "original": "Makes every injury take one less day to heal",
-    "translation": "使每一个损伤的治愈时间都减少一天",
+    "translation": "使所有创伤的治愈时间减少一天",
     "stage": 1,
     "context": "'Makes every injury take one less day to heal'"
   },
@@ -43,7 +43,7 @@
     "ID": 293419635,
     "key": "Makes every man without a permanent injury guaranteed to survive an otherwise fatal blow",
     "original": "Makes every man without a permanent injury guaranteed to survive an otherwise fatal blow",
-    "translation": "使每一个没有永久性损伤的人都能在致命的打击中幸存下来",
+    "translation": "使每个没有永久创伤的人都能在致命打击中幸存下来",
     "stage": 1,
     "context": "'Makes every man without a permanent injury guaranteed to survive an otherwise fatal blow'"
   }

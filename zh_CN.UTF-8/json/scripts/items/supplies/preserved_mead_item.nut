@@ -3,8 +3,8 @@
     "ID": 293418907,
     "key": "Preserved Mead",
     "original": "Preserved Mead",
-    "translation": "特制蜂蜜酒",
-    "stage": 5,
+    "translation": "防腐蜜酒",
+    "stage": 1,
     "context": "this.m.Name = 'Preserved Mead'"
   },
   {

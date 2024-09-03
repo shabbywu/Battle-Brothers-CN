@@ -7723,7 +7723,7 @@
     "ID": 293406601,
     "key": "Rich Meadows",
     "original": "Rich Meadows",
-    "translation": "丰甸草",
+    "translation": "丰饶甸",
     "stage": 1,
     "context": "'Rich Meadows'"
   },

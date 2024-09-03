@@ -27,7 +27,7 @@
     "ID": 293418636,
     "key": "When consumed, this powerful concoction alters the flesh to react immediately to sudden blows, protecting the body from severe injury! Don't mind the smell, that's just a sign of its potency.",
     "original": "When consumed, this powerful concoction alters the flesh to react immediately to sudden blows, protecting the body from severe injury! Don't mind the smell, that's just a sign of its potency.",
-    "translation": "饮用后，这种强大的混合物会改变你的肌肉，对突然的打击立即做出反应，保护身体免受严重伤害！别介意它的气味，那只是它效力的一个标志。",
+    "translation": "饮用后，这种强大的混合物会改变你的肌肉，对突然的打击立即做出反应，保护身体免受严重创伤！别介意它的气味，那只是它效力的一个标志。",
     "stage": 1,
     "context": "this.m.Description = \"When consumed, this powerful concoction alters the flesh to react immediately to sudden blows, protecting the body from severe injury! Don't mind the smell, that's just a sign of its potency.\""
   },

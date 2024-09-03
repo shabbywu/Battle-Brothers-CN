@@ -19,7 +19,7 @@
     "ID": 293418839,
     "key": "Traded for with a malevolent witch at the expense of another man's life, this mysterious concoction promises to be a magical drink for the body, and to instantly heal any injury that would also heal on its own.",
     "original": "Traded for with a malevolent witch at the expense of another man's life, this mysterious concoction promises to be a magical drink for the body, and to instantly heal any injury that would also heal on its own.",
-    "translation": "用他人的生命与女巫交易而来，这瓶神秘合剂许诺能和身体共鸣，立即治愈所有能自愈的伤残。",
+    "translation": "用他人的生命与女巫交易而来，这瓶神秘合剂许诺能和身体共鸣，立即治愈所有能自愈的创伤。",
     "stage": 1,
     "context": "this.m.Description = \"Traded for with a malevolent witch at the expense of another man's life, this mysterious concoction promises to be a magical drink for the body, and to instantly heal any injury that would also heal on its own.\""
   },

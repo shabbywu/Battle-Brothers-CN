@@ -19,7 +19,7 @@
     "ID": 293418494,
     "key": "Reduces the time it takes to heal from any injury by one day, down to a mininum of one day",
     "original": "Reduces the time it takes to heal from any injury by one day, down to a mininum of one day",
-    "translation": "所有伤残的恢复时长减少一天，最短一天",
+    "translation": "所有创伤的恢复时长减少一天，最短一天",
     "stage": 1,
     "context": "text = 'Reduces the time it takes to heal from any injury by one day, down to a mininum of one day'"
   },
