@@ -27,7 +27,7 @@
     "ID": 293410281,
     "key": "Suffered an injury",
     "original": "Suffered an injury",
-    "translation": "受伤了",
+    "translation": "身负一处创伤",
     "stage": 1,
     "context": "this.worsenMood(this.Const.MoodChange.Injury, 'Suffered an injury')"
   },

@@ -43,7 +43,7 @@
     "ID": 293415732,
     "key": " receives an injury",
     "original": " receives an injury",
-    "translation": "受到损伤",
+    "translation": "受到一处创伤",
     "stage": 1,
     "context": "text = _event.m.Drunkard.getName() + ' receives an injury'"
   },

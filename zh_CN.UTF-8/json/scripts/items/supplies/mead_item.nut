@@ -11,8 +11,8 @@
     "ID": 293418898,
     "key": "Mead",
     "original": "Mead",
-    "translation": "蜂蜜酒",
-    "stage": 5,
+    "translation": "蜜酒",
+    "stage": 1,
     "context": "this.m.Name = 'Mead'"
   }
 ]

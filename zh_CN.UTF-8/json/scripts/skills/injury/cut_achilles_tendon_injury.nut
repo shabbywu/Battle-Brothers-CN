@@ -19,8 +19,8 @@
     "ID": 293421902,
     "key": "An injury like this makes even the quickest man hobble across the battlefield.",
     "original": "An injury like this makes even the quickest man hobble across the battlefield.",
-    "translation": "一处这样的伤势能使最快的人在战场上只能蹒跚而行。",
-    "stage": 5,
+    "translation": "一处这样的创伤能使最快的人在战场上只能蹒跚而行。",
+    "stage": 1,
     "context": "this.m.Description = 'An injury like this makes even the quickest man hobble across the battlefield.'"
   },
   {

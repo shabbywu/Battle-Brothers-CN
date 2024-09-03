@@ -500,8 +500,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:26.265Z",
         "updatedAt": "2023-06-26T05:46:24.929Z",
-        "modifiedAt": "2024-07-11T07:32:54Z",
-        "sha256": "93c6f84c9771204b97eb85ed0cbbb343d708205a7d29f15dcf46a8a1298413e0"
+        "modifiedAt": "2024-09-02T02:16:40Z",
+        "sha256": "a625b5e997e478a051ebbcb667aa211d0ddef4bab31a8aca0e2cf85d84104c2c"
     },
     "scripts/ambitions/ambitions/have_armor_upgrades_ambition.json": {
         "id": 918374,
@@ -1310,8 +1310,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:43.544Z",
         "updatedAt": "2023-06-26T05:46:32.269Z",
-        "modifiedAt": "2024-08-31T12:01:24Z",
-        "sha256": "a58f325b4f53aec88eb82987fac8bee81f07c3699ba6d334c2c97e3754c361a2"
+        "modifiedAt": "2024-09-02T06:39:24Z",
+        "sha256": "69a724d4a604dea3ffe8af8a23d38b3d84ac8c1f60bb8dcbcf25755751ae3b50"
     },
     "scripts/config/spawnlist_master.json": {
         "id": 918419,
@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-08-31T15:32:51Z",
-        "sha256": "d69952d8cd13e2b9a4b4ce5d3d8c380c6ed8a5c696227ed94c49acdec4ab86a7"
+        "modifiedAt": "2024-09-02T02:18:02Z",
+        "sha256": "c6362f4d306d44709d673cece8965c6b110671517feab6acbb4702c2b435efc2"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -1382,8 +1382,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:45.456Z",
         "updatedAt": "2023-06-26T05:46:36.003Z",
-        "modifiedAt": "2024-08-31T15:33:44Z",
-        "sha256": "153f373ca76048f2f575c97be2e2464851a35855093e587ba96862005f3fb51e"
+        "modifiedAt": "2024-09-02T07:12:18Z",
+        "sha256": "eeabbcef2f6c33af28550a6c013a681bd593a45ff96fc412fa38bcbbc4f45bd8"
     },
     "scripts/config/world.json": {
         "id": 918423,
@@ -2474,14 +2474,14 @@
         "total": 31,
         "translated": 31,
         "disputed": 0,
-        "checked": 8,
-        "reviewed": 8,
+        "checked": 7,
+        "reviewed": 7,
         "hidden": 0,
         "locked": 1,
         "createdAt": "2023-05-13T14:18:14.765Z",
         "updatedAt": "2023-06-26T05:46:54.258Z",
-        "modifiedAt": "2024-07-03T01:46:19Z",
-        "sha256": "016be3deb99b7ef3fc17b67c99fa1c248c854ed2f7a49dce449d13a2ea4be47b"
+        "modifiedAt": "2024-09-02T06:52:16Z",
+        "sha256": "f83c76395af21ebcedd176d7bdc833cb0b6ed9153760b2009150269d3a4d60cb"
     },
     "scripts/entity/tactical/enemies/alp.json": {
         "id": 918484,
@@ -2696,8 +2696,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:18.95Z",
         "updatedAt": "2023-06-26T05:46:55.76Z",
-        "modifiedAt": "2024-07-03T01:06:00Z",
-        "sha256": "a656ba3d6805ec5272d077f2d64871af4f7c91df277a2bf2fab73159637cb89a"
+        "modifiedAt": "2024-09-02T06:52:16Z",
+        "sha256": "51b3001070428b412691207077344acf5139b61f0dc449c9baad981146aaf6f1"
     },
     "scripts/entity/tactical/enemies/orc_berserker.json": {
         "id": 918496,
@@ -4238,14 +4238,14 @@
         "total": 38,
         "translated": 37,
         "disputed": 0,
-        "checked": 20,
-        "reviewed": 20,
+        "checked": 19,
+        "reviewed": 19,
         "hidden": 1,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:51.707Z",
         "updatedAt": "2023-06-26T05:47:05.121Z",
-        "modifiedAt": "2024-07-03T09:02:14Z",
-        "sha256": "6d1bee95f1d64d91d527f046921a496df2bb9347cf028203a10f4701fa14e894"
+        "modifiedAt": "2024-09-02T06:52:16Z",
+        "sha256": "30db10737f046ad842bdb36fc2a78a215aea95e179e87726a2b4d953184cd22b"
     },
     "scripts/entity/tactical/player_corpse_stub.json": {
         "id": 918582,
@@ -8690,8 +8690,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:31.665Z",
         "updatedAt": "2023-06-26T05:47:34.211Z",
-        "modifiedAt": "2024-07-03T01:23:34Z",
-        "sha256": "5cbbb875c7c23f26ff965ed5408b48bdc8dee054ea4c8e1c8f45db99f44a5e41"
+        "modifiedAt": "2024-09-02T07:06:24Z",
+        "sha256": "64a75c5181bc5bd90ff84d11d13c8fe5827097f71619c26a240f549daf38a225"
     },
     "scripts/events/events/crisis/civilwar_ambush_event.json": {
         "id": 918829,
@@ -9554,8 +9554,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:50.902Z",
         "updatedAt": "2023-07-05T12:35:59.237Z",
-        "modifiedAt": "2024-07-24T01:39:57Z",
-        "sha256": "fba7bdbf02f4485a4f781740e3b2f8b1f98a343bfd898cd032c8a82891baf2ea"
+        "modifiedAt": "2024-09-02T06:51:48Z",
+        "sha256": "57ae23cb8908ac48188465df9796eb72520663102afdeca3f59852731b6b7643"
     },
     "scripts/events/events/dlc2/ailing_recovers_event.json": {
         "id": 918877,
@@ -12938,8 +12938,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:02.6Z",
         "updatedAt": "2023-06-26T05:48:05.038Z",
-        "modifiedAt": "2023-06-26T05:48:05Z",
-        "sha256": "47cbc1414cb5b0460725420c9113ab18c9f423ecf352f837b23060d0c9fcaaa3"
+        "modifiedAt": "2024-09-02T06:51:54Z",
+        "sha256": "7384a918b644988a281fee918a53719c71cb5ed42ea8a2626fe01793632cfc19"
     },
     "scripts/events/events/education_event.json": {
         "id": 919065,
@@ -15044,8 +15044,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:52.746Z",
         "updatedAt": "2023-06-26T05:48:15.325Z",
-        "modifiedAt": "2023-06-26T05:48:15Z",
-        "sha256": "506aebdf5c03e6a31747ccac38bef099637936fb2f1e48bf83789aa959f23a01"
+        "modifiedAt": "2024-09-02T06:52:47Z",
+        "sha256": "5b0ce92673868aebc74007b04a4563ddc36449da7b65296c65b18d7fe7a452c8"
     },
     "scripts/events/events/special/dismiss_legend_event.json": {
         "id": 919182,
@@ -22910,8 +22910,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:02.751Z",
         "updatedAt": "2023-06-26T05:48:48.71Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
-        "sha256": "18a71466d9934735884d756a8c09081e5169c1be733bb9cad46a787f06c7b60c"
+        "modifiedAt": "2024-09-02T06:53:03Z",
+        "sha256": "75e4fbffd66052fcf176709ef8b6a57322b0638cfbc3185edfd0feda53765200"
     },
     "scripts/items/misc/anatomist/necromancer_potion_item.json": {
         "id": 919619,
@@ -23216,8 +23216,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:11.715Z",
         "updatedAt": "2023-06-26T05:48:49.789Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
-        "sha256": "7e61a907bbd60d9df6dca45afb53966f959dd23629d9ed80511a28142a84ba7b"
+        "modifiedAt": "2024-09-02T06:53:20Z",
+        "sha256": "cc7a6b3ad77ba162c223043a6d04f564349ac89770026910d8fb26d8c3452b1a"
     },
     "scripts/items/misc/ancient_wood_item.json": {
         "id": 919636,
@@ -24746,8 +24746,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:46.977Z",
         "updatedAt": "2023-06-26T05:48:54.79Z",
-        "modifiedAt": "2024-08-01T02:48:15Z",
-        "sha256": "2dcb2867a75ea9bfb0cfa883f3980f7c8e95d5d81efbbd01595d463006ed6587"
+        "modifiedAt": "2024-09-02T06:53:24Z",
+        "sha256": "f0147d12bde977b802a39742a92019f0e3753c476ad2c803dd3f7b348375ea15"
     },
     "scripts/items/special/broken_ritual_armor_item.json": {
         "id": 919721,
@@ -25172,14 +25172,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:26:56.757Z",
         "updatedAt": "2023-06-26T05:48:56.142Z",
-        "modifiedAt": "2024-08-01T08:49:45Z",
-        "sha256": "6517bfb8647b4f374a4f5bc167c2575dc314816835aff7959c8a427dc6d527a7"
+        "modifiedAt": "2024-09-02T02:16:51Z",
+        "sha256": "9f5c5ec4ec463b2e8b8d9416d86bebeecea6f3e02133d82e95e0e33b39626eb0"
     },
     "scripts/items/supplies/medicine_item.json": {
         "id": 919745,
@@ -25244,14 +25244,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:26:58.192Z",
         "updatedAt": "2023-06-26T05:48:56.355Z",
-        "modifiedAt": "2023-06-26T05:48:56Z",
-        "sha256": "0be106cb395d43bf78d6976228c18f2a997eb96d60012163fb5328c1f7905900"
+        "modifiedAt": "2024-09-02T02:17:42Z",
+        "sha256": "2c7fd0b8d2680dfd94d8776eb0b95b6c8fbe37ab3bc79498378a8f2a215d8be0"
     },
     "scripts/items/supplies/rice_item.json": {
         "id": 919749,
@@ -28958,8 +28958,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:38.335Z",
         "updatedAt": "2023-06-26T05:49:10.619Z",
-        "modifiedAt": "2024-08-02T08:48:42Z",
-        "sha256": "967b523e59fa7a27fae1d4d4468ed118680afa80f68f7e3a1942c3d9f8e8ed29"
+        "modifiedAt": "2024-09-02T06:53:34Z",
+        "sha256": "4dae65e64e7e4df96b2f4ab076ecbb9e39183710cd077829926c0ed409e573f5"
     },
     "scripts/retinue/followers/lookout_follower.json": {
         "id": 919955,
@@ -29120,8 +29120,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:43.298Z",
         "updatedAt": "2023-06-26T05:49:11.217Z",
-        "modifiedAt": "2024-02-12T12:47:09Z",
-        "sha256": "e0a390b7440981fdf28818efe913629b1f3a9e863815646c3ca90808946bb533"
+        "modifiedAt": "2024-09-02T06:54:30Z",
+        "sha256": "4a2852e34b988de81bd034293050da78db70ff969fe3272203c470fe36df4098"
     },
     "scripts/retinue/followers/trader_follower.json": {
         "id": 919964,
@@ -29282,8 +29282,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:51.568Z",
         "updatedAt": "2023-06-26T05:49:12.068Z",
-        "modifiedAt": "2024-08-09T02:35:48Z",
-        "sha256": "8a137835a321043add3466dce2f0d49bb32fa2cbd0d07dd51decb79e6faf1580"
+        "modifiedAt": "2024-09-02T06:55:20Z",
+        "sha256": "535a45cc66a33fe205d8cf410178e7db28119ddbeda6d36e8c00afe1b1f1a9b2"
     },
     "scripts/scenarios/world/militia_scenario.json": {
         "id": 919973,
@@ -35042,8 +35042,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:20.967Z",
         "updatedAt": "2023-06-26T05:49:36.453Z",
-        "modifiedAt": "2024-01-24T02:34:34Z",
-        "sha256": "4dde02493695b1fb283596ca90a8df6069a89dcdbfd1feb500aea9ea3b4e6610"
+        "modifiedAt": "2024-09-02T06:53:03Z",
+        "sha256": "387e1b9ef37c9d1ebcd218e66d4eac27ce13d644687d0baf9100a029856dd5a6"
     },
     "scripts/skills/effects/necromancer_potion_effect.json": {
         "id": 920293,
@@ -36170,14 +36170,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:31:52.24Z",
         "updatedAt": "2023-06-26T05:49:40.982Z",
-        "modifiedAt": "2024-07-24T02:16:19Z",
-        "sha256": "b4a164b557beb89c0e53e83ce86ff303a1788d98e1377e77240afdc640d9c1da"
+        "modifiedAt": "2024-09-02T06:55:43Z",
+        "sha256": "334ef0aef8439b9d11b448ecf882481837df317abae7ff7acefc908f56ee67c3"
     },
     "scripts/skills/injury/cut_arm_injury.json": {
         "id": 920356,

@@ -131,7 +131,7 @@
     "ID": 293403448,
     "key": "\n- Mead",
     "original": "\n- Mead",
-    "translation": "\n- 蜂蜜酒",
+    "translation": "\n- 蜜酒",
     "stage": 1,
     "context": "ret = ret + '\n- Mead'"
   },

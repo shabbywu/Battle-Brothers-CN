@@ -515,7 +515,7 @@
     "ID": 293406921,
     "key": "Characters may sometimes be struck down during combat, but not outright killed, and will survive with a permanent injury.",
     "original": "Characters may sometimes be struck down during combat, but not outright killed, and will survive with a permanent injury.",
-    "translation": "在战斗中被击倒的角色有时不会彻底死亡，而是带着永久损伤幸存下来。",
+    "translation": "在战斗中被击倒的角色有时不会彻底死亡，而是带着永久创伤幸存下来。",
     "stage": 1,
     "context": "'Characters may sometimes be struck down during combat, but not outright killed, and will survive with a permanent injury.'"
   },
@@ -571,7 +571,7 @@
     "ID": 293406928,
     "key": "Wiedergangers are the dead walking again.",
     "original": "Wiedergangers are the dead walking again.",
-    "translation": "僵尸死亡后会再次复苏。",
+    "translation": "僵尸是复活了的死者。",
     "stage": 1,
     "context": "'Wiedergangers are the dead walking again.'"
   },

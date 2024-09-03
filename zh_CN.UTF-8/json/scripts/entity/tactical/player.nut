@@ -35,8 +35,8 @@
     "ID": 293410448,
     "key": "Suffered an injury",
     "original": "Suffered an injury",
-    "translation": "受伤了",
-    "stage": 5,
+    "translation": "身负一处创伤",
+    "stage": 1,
     "context": "this.worsenMood(this.Const.MoodChange.Injury, 'Suffered an injury')"
   },
   {
@@ -291,7 +291,7 @@
     "ID": 293410480,
     "key": "Suffered a permanent injury",
     "original": "Suffered a permanent injury",
-    "translation": "身负永久伤残",
+    "translation": "身负永久创伤",
     "stage": 1,
     "context": "this.worsenMood(this.Const.MoodChange.PermanentInjury, 'Suffered a permanent injury')"
   },
