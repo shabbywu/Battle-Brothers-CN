@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-09-02T02:18:02Z",
-        "sha256": "c6362f4d306d44709d673cece8965c6b110671517feab6acbb4702c2b435efc2"
+        "modifiedAt": "2024-09-04T00:50:21Z",
+        "sha256": "9518ecdb934619db5e2fd60f890cdc7adcbebf725db0a12f4c8820bbeacc73b9"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -32954,8 +32954,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:32.124Z",
         "updatedAt": "2023-06-26T05:49:25.633Z",
-        "modifiedAt": "2024-03-26T01:53:25Z",
-        "sha256": "474b9e4eb9a4556be3c3f5bdfcbfb9c2dbe8256cfbd28f0dee19aa98bc52503e"
+        "modifiedAt": "2024-09-03T14:22:41Z",
+        "sha256": "8150b24b2d47bc8acae117775173138ac9727643e799b315daa011a061ed1218"
     },
     "scripts/skills/backgrounds/cultist_background.json": {
         "id": 920177,
@@ -33614,14 +33614,14 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:30:47.041Z",
         "updatedAt": "2023-06-26T05:49:28.734Z",
-        "modifiedAt": "2023-06-27T03:19:01Z",
-        "sha256": "73443854b9c90d88ca90a2c945c09a25986cf6a5cfa0d2cf85f121445c9833c1"
+        "modifiedAt": "2024-09-03T14:13:22Z",
+        "sha256": "311822cbb12f0f40ae30763f09e211aea056b02bae6bfb12077b0c06949e41be"
     },
     "scripts/skills/backgrounds/pacified_flagellant_background.json": {
         "id": 920214,

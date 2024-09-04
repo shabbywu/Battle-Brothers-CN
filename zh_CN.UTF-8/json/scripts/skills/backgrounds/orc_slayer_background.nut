@@ -3,8 +3,8 @@
     "ID": 293421180,
     "key": "%name% doesn't talk much about himself. He just wants to kill orcs and goblins which, given the state of things, makes him a perfect fit for the company. If he's true to his word, he'll leave as soon as the invasion is taken care of.",
     "original": "%name% doesn't talk much about himself. He just wants to kill orcs and goblins which, given the state of things, makes him a perfect fit for the company. If he's true to his word, he'll leave as soon as the invasion is taken care of.",
-    "translation": "%name%不怎么谈论自己。他只是想杀死兽人和地精，考虑到目前的情况，他是战团的完美人选。如果他言行一致，他在入侵问题解决后就会立刻离开。",
-    "stage": 5,
+    "translation": "%name%很少说起他自己，只想着杀死更多的兽人和地精。考虑到现在的形势，战团最需要的就是他这种人。如果他说的是认真的，入侵一旦结束，他就会离开战团。",
+    "stage": 1,
     "context": "return \"%name% doesn't talk much about himself. He just wants to kill orcs and goblins which, given the state of things, makes him a perfect fit for the company. If he's true to his word, he'll leave as soon as the invasion is taken care of.\";"
   },
   {
