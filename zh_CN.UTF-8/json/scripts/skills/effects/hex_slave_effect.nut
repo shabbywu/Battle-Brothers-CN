@@ -27,8 +27,8 @@
     "ID": 293421518,
     "key": "This character has been cursed to feel the same pain and receive the same wounds as another character. Be careful, as it could kill him. The effect will persist for another [color=",
     "original": "This character has been cursed to feel the same pain and receive the same wounds as another character. Be careful, as it could kill him. The effect will persist for another [color=",
-    "translation": "这个角色遭到了诅咒，会与另一个角色感受相同的痛苦并遭受相同的伤害。小心点，这效果能杀了他。此效果还将持续 [color=",
-    "stage": 5,
+    "translation": "这个角色遭到了诅咒，会受到和另一角色相同的痛苦和伤害。小心点，这可会要了他的命。此效果还将持续 [color=",
+    "stage": 1,
     "context": "return 'This character has been cursed to feel the same pain and receive the same wounds as another character. Be careful, as it could kill him. The effect will persist for another [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] turn(s).';"
   },
   {

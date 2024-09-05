@@ -3,7 +3,7 @@
     "ID": 293421419,
     "key": "KILL!!! This character is in a mushroom-induced trance-like rage and only wants to crush and destroy anyone in his path, with little regard for their own safety. CRUSH!!! DESTROY!!!",
     "original": "KILL!!! This character is in a mushroom-induced trance-like rage and only wants to crush and destroy anyone in his path, with little regard for their own safety. CRUSH!!! DESTROY!!!",
-    "translation": "杀戮！！！这个角色正处于蘑菇引起的迷幻狂怒状态中，对于自身安全不怎么在乎，只想粉碎并毁灭挡在他面前的任何活物。粉碎！！！ 毁灭！！！",
+    "translation": "杀啊！！！这个角色正处于蘑菇引起的迷幻狂怒状态中，对于自身安全不怎么在乎，只想粉碎并毁灭挡在他面前的任何活物。粉碎！！！毁灭！！！",
     "stage": 1,
     "context": "return 'KILL!!! This character is in a mushroom-induced trance-like rage and only wants to crush and destroy anyone in his path, with little regard for their own safety. CRUSH!!! DESTROY!!!';"
   },

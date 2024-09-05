@@ -3,8 +3,8 @@
     "ID": 293421398,
     "key": "Go, go, go! This character has an adrenaline rush and will act again before his opponents come next round.",
     "original": "Go, go, go! This character has an adrenaline rush and will act again before his opponents come next round.",
-    "translation": "上啊！这个角色肾上腺素奔涌，并会在下个回合先于他的对手行动。",
-    "stage": 5,
+    "translation": "上啊！该角色肾上腺素飙升，会在下个回合中先于对手行动。",
+    "stage": 1,
     "context": "return 'Go, go, go! This character has an adrenaline rush and will act again before his opponents come next round.';"
   },
   {

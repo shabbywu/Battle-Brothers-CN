@@ -3268,7 +3268,7 @@
     "key": "Executioner",
     "original": "Executioner",
     "translation": "刽子手",
-    "stage": 1,
+    "stage": 5,
     "context": "'Executioner'"
   },
   {

@@ -403,7 +403,7 @@
     "ID": 293405686,
     "key": "]-25%[/color] of the base maximum fatigue (before penalties due to armor are applied).",
     "original": "]-25%[/color] of the base maximum fatigue (before penalties due to armor are applied).",
-    "translation": "]25%[/color] 的基础疲劳值上限（即在应用护甲惩罚之前的疲劳值）。",
+    "translation": "]25%[/color]的恢复疲劳值。",
     "stage": 1,
     "context": "BattleFlow = 'Once per turn, killing an opponent reduces current fatigue by [color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] of the base maximum fatigue (before penalties due to armor are applied).'"
   },
@@ -987,7 +987,7 @@
     "ID": 293405759,
     "key": "]20%[/color] of your Resolve - 10, as opposed to with no penalty and only if at or above 15 points of damage.",
     "original": "]20%[/color] of your Resolve - 10, as opposed to with no penalty and only if at or above 15 points of damage.",
-    "translation": "]你的决心 * 20%[/color] - 10(这与无惩罚和仅在造成15点或以上伤害时进行士气检查不同)",
+    "translation": "]你的决心*20%-10[/color]的士气惩罚，而非仅在造成15点或以上伤害时进行无惩罚的士气检查。",
     "stage": 1,
     "context": "Fearsome = 'Make them scatter and flee! Any attack that inflicts at least 1 point of damage to hitpoints triggers a morale check for the opponent with a penalty equal to [color=' + this.Const.UI.Color.NegativeValue + ']20%[/color] of your Resolve - 10, as opposed to with no penalty and only if at or above 15 points of damage.'"
   },
@@ -1195,7 +1195,7 @@
     "ID": 293405785,
     "key": "]+10[/color] to Ranged Defense.",
     "original": "]+10[/color] to Ranged Defense.",
-    "translation": "]+10[/color]点远程防御加成。",
+    "translation": "]+10[/color]点。",
     "stage": 1,
     "context": "Anticipation = 'When being attacked with ranged weapons, gain [color=' + this.Const.UI.Color.PositiveValue + ']1 + 10% of your base Ranged Defense[/color] as additional Ranged Defense per tile that the attacker is away, and always at least [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] to Ranged Defense.'"
   },
@@ -1787,7 +1787,7 @@
     "ID": 293405859,
     "key": "Hits to the head no longer cause critical damage to this character, which also lowers the risk of sustaining debilitating head injuries significantly.",
     "original": "Hits to the head no longer cause critical damage to this character, which also lowers the risk of sustaining debilitating head injuries significantly.",
-    "translation": "击中该角色头部不再造成暴击伤害，因此显著降低了受到严重头部创伤的风险。",
+    "translation": "击中该角色头部的攻击不再造成暴击伤害，也有赖于此，显著降低了受头部创伤削弱的风险。",
     "stage": 1,
     "context": "SteelBrow = 'Hits to the head no longer cause critical damage to this character, which also lowers the risk of sustaining debilitating head injuries significantly.'"
   },
@@ -2163,7 +2163,7 @@
     "ID": 293405906,
     "key": "]+20%[/color] for any weapon used. What could stand before you now?",
     "original": "]+20%[/color] for any weapon used. What could stand before you now?",
-    "translation": "]+20%[/color]。 现在还有什么可以拦着你？",
+    "translation": "]+20%[/color]。谁能挡你？",
     "stage": 1,
     "context": "DevastatingStrikes = 'All damage inflicted is increased by [color=' + this.Const.UI.Color.PositiveValue + ']+20%[/color] for any weapon used. What could stand before you now?'"
   },
@@ -2203,7 +2203,7 @@
     "ID": 293405911,
     "key": "]4[/color] Action Points are immediately regained. Characters can not regain more than their maximum Action Points and no more than 4 for a single attack.",
     "original": "]4[/color] Action Points are immediately regained. Characters can not regain more than their maximum Action Points and no more than 4 for a single attack.",
-    "translation": "]4[/color] 行动点数。 角色恢复的行动点数不能超过其行动点数上限，一次攻击击杀多名敌人也只恢复 4 行动点数",
+    "translation": "]4[/color]行动点数。角色恢复的行动点数不能超过其行动点数上限，一次攻击击杀多名敌人也只恢复4行动点数。",
     "stage": 1,
     "context": "Berserk = 'RAAARGH! Once per turn, upon killing an enemy, [color=' + this.Const.UI.Color.PositiveValue + ']4[/color] Action Points are immediately regained. Characters can not regain more than their maximum Action Points and no more than 4 for a single attack.'"
   },
@@ -2211,7 +2211,7 @@
     "ID": 293405912,
     "key": "Unlocks the 'Debilitate' skill which can prime your next attack to cripple a target for one turn, reducing their ability to inflict damage by [color=",
     "original": "Unlocks the 'Debilitate' skill which can prime your next attack to cripple a target for one turn, reducing their ability to inflict damage by [color=",
-    "translation": "解锁 '衰弱' 技能，该技能可以使你的下一次攻击使目标瘫痪一回合，使其造成伤害的能力降低[color=",
+    "translation": "解锁 “衰弱” 技能，该技能可以使你的下一次攻击瘫痪目标一回合，使其造成伤害的能力降低[color=",
     "stage": 1,
     "context": "Debilitate = \"Unlocks the 'Debilitate' skill which can prime your next attack to cripple a target for one turn, reducing their ability to inflict damage by [color=\" + this.Const.UI.Color.NegativeValue + ']-50%[/color].'"
   },
@@ -2379,7 +2379,7 @@
     "ID": 293405933,
     "key": "]50%[/color] of your accumulated Fatigue, instead of all of it. In addition, using the 'Wait' command will no longer give you a penalty to Initiative in the next round.",
     "original": "]50%[/color] of your accumulated Fatigue, instead of all of it. In addition, using the 'Wait' command will no longer give you a penalty to Initiative in the next round.",
-    "translation": "]50%[/color]，而不是全部的。此外，使用'等待'命令将不再使你在下一回合的主动值受到惩罚。",
+    "translation": "]50%[/color]，而不是通常的100%。此外，使用“等待”指令将不再使你在下一回合受到主动值惩罚。",
     "stage": 1,
     "context": "Relentless = \"Don't slow down! At all times your Initiative is reduced only by [color=\" + this.Const.UI.Color.NegativeValue + \"]50%[/color] of your accumulated Fatigue, instead of all of it. In addition, using the 'Wait' command will no longer give you a penalty to Initiative in the next round.\""
   },
@@ -2427,8 +2427,8 @@
     "ID": 293405939,
     "key": "Unlocks the 'Indomitable' skill which grants a [color=",
     "original": "Unlocks the 'Indomitable' skill which grants a [color=",
-    "translation": "解锁 '不屈' 技能，该技能给予[color=",
-    "stage": 5,
+    "translation": "解锁 “不屈” 技能，该技能提供[color=",
+    "stage": 1,
     "context": "Indomitable = \"Unlocks the 'Indomitable' skill which grants a [color=\" + this.Const.UI.Color.PositiveValue + ']50%[/color] damage reduction and immunity to being stunned, knocked back or grabbed for one turn.'"
   },
   {
@@ -3051,7 +3051,7 @@
     "ID": 293406017,
     "key": "Become one with your weapon and go for the weak spots! With the offhand free or carrying a throwable tool (e.g. throwing net), an additional [color=",
     "original": "Become one with your weapon and go for the weak spots! With the offhand free or carrying a throwable tool (e.g. throwing net), an additional [color=",
-    "translation": "与你的武器融为一体，去攻击弱点! 如果副手未持有武器或者携带着可投掷的工具(如投掷网), 则可额外造成 [color=",
+    "translation": "人兵合一，直取空门！如果副手未持有武器或者携带着可投掷的工具(如投掷网)，则可额外造成[color=",
     "stage": 1,
     "context": "Duelist = 'Become one with your weapon and go for the weak spots! With the offhand free or carrying a throwable tool (e.g. throwing net), an additional [color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] of any damage ignores armor. Does not work with two-handed weapons.'"
   },
@@ -3355,7 +3355,7 @@
     "ID": 293406055,
     "key": "Shield Bash",
     "original": "Shield Bash",
-    "translation": "盾击",
+    "translation": "盾牌猛击",
     "stage": 1,
     "context": "ShieldBash = 'Shield Bash'"
   },
@@ -3467,7 +3467,7 @@
     "ID": 293406069,
     "key": "Once per turn, killing an opponent reduces current fatigue by [color=",
     "original": "Once per turn, killing an opponent reduces current fatigue by [color=",
-    "translation": "每回合第一次击杀会使恢复 [color=",
+    "translation": "每回合第一次击杀，会按照基础疲劳值上限（即应用护甲惩罚之前的疲劳值）的[color=",
     "stage": 1,
     "context": "BattleFlow = 'Once per turn, killing an opponent reduces current fatigue by [color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] of the base maximum fatigue (before penalties due to armor are applied).'"
   },
@@ -4355,7 +4355,7 @@
     "ID": 293406180,
     "key": "]1 + 10% of your base Ranged Defense[/color] as additional Ranged Defense per tile that the attacker is away, and always at least [color=",
     "original": "]1 + 10% of your base Ranged Defense[/color] as additional Ranged Defense per tile that the attacker is away, and always at least [color=",
-    "translation": "] 1+ 10% 基础远程防御[/color]作为额外的远程防御，并且至少获得 [color=",
+    "translation": "]1+ 10%基础远程防御[/color]的额外远程防御，至少获得[color=",
     "stage": 1,
     "context": "Anticipation = 'When being attacked with ranged weapons, gain [color=' + this.Const.UI.Color.PositiveValue + ']1 + 10% of your base Ranged Defense[/color] as additional Ranged Defense per tile that the attacker is away, and always at least [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] to Ranged Defense.'"
   },
@@ -4419,7 +4419,7 @@
     "ID": 293406188,
     "key": "When being attacked with ranged weapons, gain [color=",
     "original": "When being attacked with ranged weapons, gain [color=",
-    "translation": "当被远程武器攻击时，攻击者每远离一格, 则获得[color=",
+    "translation": "受到远程武器攻击时，每距离攻击者一格远，获得[color=",
     "stage": 1,
     "context": "Anticipation = 'When being attacked with ranged weapons, gain [color=' + this.Const.UI.Color.PositiveValue + ']1 + 10% of your base Ranged Defense[/color] as additional Ranged Defense per tile that the attacker is away, and always at least [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] to Ranged Defense.'"
   },
@@ -5403,7 +5403,7 @@
     "ID": 293406311,
     "key": "Specialize in heavy armor! Armor damage taken is reduced by a percentage equal to [color=",
     "original": "Specialize in heavy armor! Armor damage taken is reduced by a percentage equal to [color=",
-    "translation": "重甲专精! 受到的护甲伤害会减少，减少的百分比等于盔甲和头盔当前总护甲值之和的[color=",
+    "translation": "重甲专精！受到的护甲伤害减少，减少的百分比等于盔甲和头盔实时总护甲值之和的[color=",
     "stage": 1,
     "context": "BattleForged = 'Specialize in heavy armor! Armor damage taken is reduced by a percentage equal to [color=' + this.Const.UI.Color.PositiveValue + ']5%[/color] of the current total armor value of both body and head armor. The heavier your armor and helmet, the more you benefit.\n\nDoes not affect damage from mental attacks or status effects, but can help to avoid receiving them.'"
   },
@@ -6467,7 +6467,7 @@
     "ID": 293406444,
     "key": "]10[/color] Fatigue in addition to its normal effect, and costs 10 Fatigue less to use.",
     "original": "]10[/color] Fatigue in addition to its normal effect, and costs 10 Fatigue less to use.",
-    "translation": "]10[/color] 点疲劳值。同时, 撞退技能的疲劳值消耗减少 10",
+    "translation": "]10[/color]点疲劳值。同时, “击退”技能的疲劳值消耗减少10。",
     "stage": 1,
     "context": "ShieldBash = 'The Knock Back skill now also inflicts [color=' + this.Const.UI.Color.DamageValue + ']10 - 25[/color] Damage (50% effective against armor) and [color=' + this.Const.UI.Color.DamageValue + ']10[/color] Fatigue in addition to its normal effect, and costs 10 Fatigue less to use.'"
   },
@@ -6475,7 +6475,7 @@
     "ID": 293406445,
     "key": "Can not be changed in combat",
     "original": "Can not be changed in combat",
-    "translation": "无法在战斗中更改",
+    "translation": "无法在战斗中更换",
     "stage": 1,
     "context": "Hint_CannotChangeItemInCombat = 'Can not be changed in combat'"
   },
@@ -6547,7 +6547,7 @@
     "ID": 293406454,
     "key": "Looking for this? Swapping any item in battle except for shields becomes a free action with no Action Point cost once every turn.",
     "original": "Looking for this? Swapping any item in battle except for shields becomes a free action with no Action Point cost once every turn.",
-    "translation": "在找这个吗？在战斗中每回合第一次交换除盾牌以外的任何物品成为一个免费动作，不需要行动点数。",
+    "translation": "在找这个吗？战斗中，每回合第一次替换物品视为免费动作，不需要行动点数，盾牌除外。",
     "stage": 1,
     "context": "QuickHands = 'Looking for this? Swapping any item in battle except for shields becomes a free action with no Action Point cost once every turn.'"
   },
@@ -6795,7 +6795,7 @@
     "ID": 293406485,
     "key": "Make them scatter and flee! Any attack that inflicts at least 1 point of damage to hitpoints triggers a morale check for the opponent with a penalty equal to [color=",
     "original": "Make them scatter and flee! Any attack that inflicts at least 1 point of damage to hitpoints triggers a morale check for the opponent with a penalty equal to [color=",
-    "translation": "让他们四散而逃! 任何对命中点造成至少1点伤害的攻击都会触发对手的士气检查，其惩罚等于[color=",
+    "translation": "打得他们四散而逃！任何攻击，只要造成了至少1点伤害，就会触发对手的士气检查，并施以[color=",
     "stage": 1,
     "context": "Fearsome = 'Make them scatter and flee! Any attack that inflicts at least 1 point of damage to hitpoints triggers a morale check for the opponent with a penalty equal to [color=' + this.Const.UI.Color.NegativeValue + ']20%[/color] of your Resolve - 10, as opposed to with no penalty and only if at or above 15 points of damage.'"
   },
@@ -6875,7 +6875,7 @@
     "ID": 293406495,
     "key": "Effectiveness vs. Armor is increased by [color=",
     "original": "Effectiveness vs. Armor is increased by [color=",
-    "translation": "无论使用任何使用的武器，对盔甲的伤害均会增加[color=",
+    "translation": "无论使用任何武器，对盔甲的伤害均会增加[color=",
     "stage": 1,
     "context": "SunderingStrikes = 'Effectiveness vs. Armor is increased by [color=' + this.Const.UI.Color.PositiveValue + ']+20%[/color] for any weapon used.'"
   },
@@ -6979,7 +6979,7 @@
     "ID": 293406508,
     "key": "Go for the head! Hitting the head of a target will give you a guaranteed hit to the head also with your next attack. Connecting with your hit will reset the effect.",
     "original": "Go for the head! Hitting the head of a target will give you a guaranteed hit to the head also with your next attack. Connecting with your hit will reset the effect.",
-    "translation": "攻击头部！击中目标的头部将使您在下一次攻击时也能保证击中头部。如果你的攻击命中了，这个效果会重置。",
+    "translation": "照头打！击中目标头部将使确保下次攻击时也能击中头部。效果会在下次命中后重置。",
     "stage": 1,
     "context": "HeadHunter = 'Go for the head! Hitting the head of a target will give you a guaranteed hit to the head also with your next attack. Connecting with your hit will reset the effect.'"
   },
@@ -7019,8 +7019,8 @@
     "ID": 293406513,
     "key": "Executioner",
     "original": "Executioner",
-    "translation": "刽子手",
-    "stage": 1,
+    "translation": "处决者",
+    "stage": 5,
     "context": "CoupDeGrace = 'Executioner'"
   },
   {
@@ -7035,7 +7035,7 @@
     "ID": 293406515,
     "key": "All damage inflicted is increased by [color=",
     "original": "All damage inflicted is increased by [color=",
-    "translation": "所有武器造成的所有伤害都会增加 [color=",
+    "translation": "所有武器造成的所有伤害增加[color=",
     "stage": 1,
     "context": "DevastatingStrikes = 'All damage inflicted is increased by [color=' + this.Const.UI.Color.PositiveValue + ']+20%[/color] for any weapon used. What could stand before you now?'"
   },
@@ -7179,7 +7179,7 @@
     "ID": 293406533,
     "key": "RAAARGH! Once per turn, upon killing an enemy, [color=",
     "original": "RAAARGH! Once per turn, upon killing an enemy, [color=",
-    "translation": "哇！ 每回合第一次击杀立即恢复 [color=",
+    "translation": "哇啊啊啊啊！每回合第一次击杀敌人，立即恢复[color=",
     "stage": 1,
     "context": "Berserk = 'RAAARGH! Once per turn, upon killing an enemy, [color=' + this.Const.UI.Color.PositiveValue + ']4[/color] Action Points are immediately regained. Characters can not regain more than their maximum Action Points and no more than 4 for a single attack.'"
   },
@@ -7492,7 +7492,7 @@
     "key": "Nomad Executioner",
     "original": "Nomad Executioner",
     "translation": "游牧刽子手",
-    "stage": 1,
+    "stage": 5,
     "context": "'Nomad Executioner'"
   },
   {
@@ -7763,7 +7763,7 @@
     "ID": 293406606,
     "key": "Nailed it! The penalty to hitchance when shooting at a target you have no clear line of fire to is reduced from [color=",
     "original": "Nailed it! The penalty to hitchance when shooting at a target you have no clear line of fire to is reduced from [color=",
-    "translation": "射得好! 当瞄准的目标没有被清空的弹道路线（即目标被遮挡）时，受到的命中惩罚从[color=",
+    "translation": "射得好！当瞄准弹道受阻的目标时，受到的命中惩罚从[color=",
     "stage": 1,
     "context": "Bullseye = 'Nailed it! The penalty to hitchance when shooting at a target you have no clear line of fire to is reduced from [color=' + this.Const.UI.Color.NegativeValue + ']75%[/color] to [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] for ranged weapons.'"
   },
@@ -7963,7 +7963,7 @@
     "ID": 293406631,
     "key": "]60%[/color], but lowered exponentially by the total penalty to Maximum Fatigue from body and head armor above [color=",
     "original": "]60%[/color], but lowered exponentially by the total penalty to Maximum Fatigue from body and head armor above [color=",
-    "translation": "]60%[/color]，但在盔甲和头盔的疲劳值上限减益超过[color=",
+    "translation": "]60%[/color]，当盔甲和头盔的疲劳值上限减益超过[color=",
     "stage": 1,
     "context": "Nimble = 'Specialize in light armor! By nimbly dodging or deflecting blows, convert any hits to glancing hits. Hitpoint damage taken is reduced by up to [color=' + this.Const.UI.Color.PositiveValue + ']60%[/color], but lowered exponentially by the total penalty to Maximum Fatigue from body and head armor above [color=' + this.Const.UI.Color.PositiveValue + ']15[/color]. The lighter your armor and helmet, the more you benefit.\n\nBrawny does not affect this perk.\n\nDoes not affect damage from mental attacks or status effects, but can help to avoid receiving them.'"
   },
@@ -8187,7 +8187,7 @@
     "ID": 293406659,
     "key": "Go into a killing frenzy! A kill increases all damage by [color=",
     "original": "Go into a killing frenzy! A kill increases all damage by [color=",
-    "translation": "进入杀戮时刻！ 每次击杀后会获得增加所有伤害 [color=",
+    "translation": "杀戮时间到！获得击杀后，增加所有伤害的[color=",
     "stage": 1,
     "context": "KillingFrenzy = 'Go into a killing frenzy! A kill increases all damage by [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] for 2 turns. Does not stack, but another kill will reset the timer.'"
   },
@@ -8331,7 +8331,7 @@
     "ID": 293406677,
     "key": "The Knock Back skill now also inflicts [color=",
     "original": "The Knock Back skill now also inflicts [color=",
-    "translation": "撞退技能额外造成 [color=",
+    "translation": "除了击退效果外，“击退”技能还会造成[color=",
     "stage": 1,
     "context": "ShieldBash = 'The Knock Back skill now also inflicts [color=' + this.Const.UI.Color.DamageValue + ']10 - 25[/color] Damage (50% effective against armor) and [color=' + this.Const.UI.Color.DamageValue + ']10[/color] Fatigue in addition to its normal effect, and costs 10 Fatigue less to use.'"
   },
@@ -8427,7 +8427,7 @@
     "ID": 293406689,
     "key": "]+25%[/color] of any damage ignores armor. Does not work with two-handed weapons.",
     "original": "]+25%[/color] of any damage ignores armor. Does not work with two-handed weapons.",
-    "translation": "]+25%[/color] 忽略护甲的伤害。不适用于双手武器。",
+    "translation": "]+25%[/color]的穿甲伤害。不适用于双手武器。",
     "stage": 1,
     "context": "Duelist = 'Become one with your weapon and go for the weak spots! With the offhand free or carrying a throwable tool (e.g. throwing net), an additional [color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] of any damage ignores armor. Does not work with two-handed weapons.'"
   },
@@ -8731,7 +8731,7 @@
     "ID": 293406727,
     "key": "The enemy is battered and beaten. Those few still alive scatter away in all directions. Will you hunt them down to claim their heads and possessions, or declare the battle won?",
     "original": "The enemy is battered and beaten. Those few still alive scatter away in all directions. Will you hunt them down to claim their heads and possessions, or declare the battle won?",
-    "translation": "敌人被击溃和打败。那些少数还活着的人向四面八方散去。你是要追踪他们夺取他们的头颅和财物，还是宣布战斗已经赢了呢？",
+    "translation": "敌人死的死，伤的伤。少数幸存者抱头鼠窜。你是要追上他们，斩首夺财，还是就此宣布战斗的胜利？",
     "stage": 1,
     "context": "RetreatDialogueConsequences = 'The enemy is battered and beaten. Those few still alive scatter away in all directions. Will you hunt them down to claim their heads and possessions, or declare the battle won?'"
   },
@@ -9004,7 +9004,7 @@
     "key": "Nomad Executioners",
     "original": "Nomad Executioners",
     "translation": "游牧刽子手",
-    "stage": 1,
+    "stage": 5,
     "context": "'Nomad Executioners'"
   },
   {
@@ -9043,7 +9043,7 @@
     "ID": 293406766,
     "key": "]25%[/color] for 2 turns. Does not stack, but another kill will reset the timer.",
     "original": "]25%[/color] for 2 turns. Does not stack, but another kill will reset the timer.",
-    "translation": "]25%[/color]的加成，持续 2 回合。再次击杀不叠加，但会刷新计时器。",
+    "translation": "]25%[/color]。持续 2 回合。再次击杀不会叠加效果，而是会刷新计时器。",
     "stage": 1,
     "context": "KillingFrenzy = 'Go into a killing frenzy! A kill increases all damage by [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] for 2 turns. Does not stack, but another kill will reset the timer.'"
   },
@@ -9131,7 +9131,7 @@
     "ID": 293406777,
     "key": "Specialize in light armor! By nimbly dodging or deflecting blows, convert any hits to glancing hits. Hitpoint damage taken is reduced by up to [color=",
     "original": "Specialize in light armor! By nimbly dodging or deflecting blows, convert any hits to glancing hits. Hitpoint damage taken is reduced by up to [color=",
-    "translation": "轻甲专精! 通过灵活地躲避或偏转打击来回避所有攻击。所受的伤害最多可以减少[color=",
+    "translation": "轻甲专精！通过灵活地闪避和偏斜，避免受到直击。减少所受伤害，最多减少[color=",
     "stage": 1,
     "context": "Nimble = 'Specialize in light armor! By nimbly dodging or deflecting blows, convert any hits to glancing hits. Hitpoint damage taken is reduced by up to [color=' + this.Const.UI.Color.PositiveValue + ']60%[/color], but lowered exponentially by the total penalty to Maximum Fatigue from body and head armor above [color=' + this.Const.UI.Color.PositiveValue + ']15[/color]. The lighter your armor and helmet, the more you benefit.\n\nBrawny does not affect this perk.\n\nDoes not affect damage from mental attacks or status effects, but can help to avoid receiving them.'"
   },
@@ -9299,7 +9299,7 @@
     "ID": 293406798,
     "key": "]5%[/color] of the current total armor value of both body and head armor. The heavier your armor and helmet, the more you benefit.\n\nDoes not affect damage from mental attacks or status effects, but can help to avoid receiving them.",
     "original": "]5%[/color] of the current total armor value of both body and head armor. The heavier your armor and helmet, the more you benefit.\n\nDoes not affect damage from mental attacks or status effects, but can help to avoid receiving them.",
-    "translation": "]5%[/color]。你的盔甲和头盔越重，你的好处就越多。\n\n不影响精神攻击或状态效果的伤害，但可以帮助避免收到它们。",
+    "translation": "]5%[/color]。你的盔甲和头盔越重，增益越高。\n\n不影响精神攻击和状态效果的伤害，但可以帮助避免受到它们。",
     "stage": 1,
     "context": "BattleForged = 'Specialize in heavy armor! Armor damage taken is reduced by a percentage equal to [color=' + this.Const.UI.Color.PositiveValue + ']5%[/color] of the current total armor value of both body and head armor. The heavier your armor and helmet, the more you benefit.\n\nDoes not affect damage from mental attacks or status effects, but can help to avoid receiving them.'"
   },
@@ -9475,7 +9475,7 @@
     "ID": 293406820,
     "key": "]10 - 25[/color] Damage (50% effective against armor) and [color=",
     "original": "]10 - 25[/color] Damage (50% effective against armor) and [color=",
-    "translation": "]10 ~ 25[/color] 点伤害（对护甲只造成 50%）和 [color=",
+    "translation": "]10 ~ 25[/color]点伤害（50%破甲）并使对手累积[color=",
     "stage": 1,
     "context": "ShieldBash = 'The Knock Back skill now also inflicts [color=' + this.Const.UI.Color.DamageValue + ']10 - 25[/color] Damage (50% effective against armor) and [color=' + this.Const.UI.Color.DamageValue + ']10[/color] Fatigue in addition to its normal effect, and costs 10 Fatigue less to use.'"
   },
@@ -9483,7 +9483,7 @@
     "ID": 293406821,
     "key": "]15[/color]. The lighter your armor and helmet, the more you benefit.\n\nBrawny does not affect this perk.\n\nDoes not affect damage from mental attacks or status effects, but can help to avoid receiving them.",
     "original": "]15[/color]. The lighter your armor and helmet, the more you benefit.\n\nBrawny does not affect this perk.\n\nDoes not affect damage from mental attacks or status effects, but can help to avoid receiving them.",
-    "translation": "] 15 [/color]时会技能效果会大幅下降。你的盔甲和头盔越轻，你就越受益。\n\n'强壮'不影响该特性。\n\n不影响精神攻击和状态效果的伤害, 但是可以帮助避免受到它们",
+    "translation": "]15[/color]点时，技能效果开始迅速下降。盔甲和头盔越轻，收益越多。\n\n“强壮”不影响该特性。\n\n不影响精神攻击和状态效果的伤害，但可以帮助避免受到它们。",
     "stage": 1,
     "context": "Nimble = 'Specialize in light armor! By nimbly dodging or deflecting blows, convert any hits to glancing hits. Hitpoint damage taken is reduced by up to [color=' + this.Const.UI.Color.PositiveValue + ']60%[/color], but lowered exponentially by the total penalty to Maximum Fatigue from body and head armor above [color=' + this.Const.UI.Color.PositiveValue + ']15[/color]. The lighter your armor and helmet, the more you benefit.\n\nBrawny does not affect this perk.\n\nDoes not affect damage from mental attacks or status effects, but can help to avoid receiving them.'"
   },
@@ -9555,7 +9555,7 @@
     "ID": 293406830,
     "key": "Don't slow down! At all times your Initiative is reduced only by [color=",
     "original": "Don't slow down! At all times your Initiative is reduced only by [color=",
-    "translation": "不要慢下来! 在任何时候，你的主动值都只减少累积疲劳值的[color=",
+    "translation": "别减速! 在任何时候，你的主动值都只减少累积疲劳值的[color=",
     "stage": 1,
     "context": "Relentless = \"Don't slow down! At all times your Initiative is reduced only by [color=\" + this.Const.UI.Color.NegativeValue + \"]50%[/color] of your accumulated Fatigue, instead of all of it. In addition, using the 'Wait' command will no longer give you a penalty to Initiative in the next round.\""
   },
@@ -9659,7 +9659,7 @@
     "ID": 293406843,
     "key": "Unlocks the 'Rotation' skill which allows two characters to switch places while ignoring Zone of Control as long as neither character is stunned, rooted or otherwise disabled.",
     "original": "Unlocks the 'Rotation' skill which allows two characters to switch places while ignoring Zone of Control as long as neither character is stunned, rooted or otherwise disabled.",
-    "translation": "解锁“换位”技能，该技能允许两个角色在无视控制区域的情况下切换位置，只要两个角色都没有被击晕、定身或因其他方式失能。",
+    "translation": "解锁“换位”技能，该技能允许两个角色在无视控制区域的情况下切换位置，前提是两个角色都没有被击晕、定身或因其他方式失能。",
     "stage": 1,
     "context": "Rotation = \"Unlocks the 'Rotation' skill which allows two characters to switch places while ignoring Zone of Control as long as neither character is stunned, rooted or otherwise disabled.\""
   },

@@ -51,7 +51,7 @@
     "ID": 293406863,
     "key": "Daggers can be used to attack weak spots in armor and deal damage directly to hitpoints.",
     "original": "Daggers can be used to attack weak spots in armor and deal damage directly to hitpoints.",
-    "translation": "可以用匕首攻击盔甲的弱点，直接对生命值造成伤害。",
+    "translation": "匕首用于攻击盔甲弱点，直接对生命值造成伤害。",
     "stage": 1,
     "context": "'Daggers can be used to attack weak spots in armor and deal damage directly to hitpoints.'"
   },
