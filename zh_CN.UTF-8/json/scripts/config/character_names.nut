@@ -6796,7 +6796,7 @@
     "key": "The Executioner",
     "original": "The Executioner",
     "translation": "刽子手",
-    "stage": 1,
+    "stage": 5,
     "context": "'The Executioner'"
   },
   {
