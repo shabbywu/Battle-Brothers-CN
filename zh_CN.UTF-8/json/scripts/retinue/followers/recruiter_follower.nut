@@ -27,7 +27,7 @@
     "ID": 293419616,
     "key": "Makes you pay 10% less up front for hiring new men, and 50% less for tryouts",
     "original": "Makes you pay 10% less up front for hiring new men, and 50% less for tryouts",
-    "translation": "让你在雇佣新人时少支付10%，测验费少50%",
+    "translation": "使新人雇佣费减少10%，测验费减少50%",
     "stage": 1,
     "context": "'Makes you pay 10% less up front for hiring new men, and 50% less for tryouts'"
   },
@@ -43,7 +43,7 @@
     "ID": 293419618,
     "key": "Makes between 2 and 4 additional men available to recruit in every settlement",
     "original": "Makes between 2 and 4 additional men available to recruit in every settlement",
-    "translation": "让每个定居点可以招募的新兵额外增加2到4人",
+    "translation": "每个定居点待招募的新兵增加2到4人",
     "stage": 1,
     "context": "'Makes between 2 and 4 additional men available to recruit in every settlement'"
   }

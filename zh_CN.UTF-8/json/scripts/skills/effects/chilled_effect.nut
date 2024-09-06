@@ -19,8 +19,8 @@
     "ID": 293421445,
     "key": "This character has been chilled to the bone by cold. With their limbs frozen stiff, it takes a great deal of effort to move in a coordinated fashion. The effect will slowly wear off over [color=",
     "original": "This character has been chilled to the bone by cold. With their limbs frozen stiff, it takes a great deal of effort to move in a coordinated fashion. The effect will slowly wear off over [color=",
-    "translation": "这个角色已经冻僵了。由于四肢都被冻得僵硬，需要大量的努力才能协调地移动。效果会在 [color=",
-    "stage": 5,
+    "translation": "该角色被冻了个透心凉。四肢冻得发僵，行动要花好大力气才能协调。效果会在 [color=",
+    "stage": 1,
     "context": "return 'This character has been chilled to the bone by cold. With their limbs frozen stiff, it takes a great deal of effort to move in a coordinated fashion. The effect will slowly wear off over [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] more turn(s).';"
   },
   {

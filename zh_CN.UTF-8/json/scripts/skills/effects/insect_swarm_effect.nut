@@ -3,8 +3,8 @@
     "ID": 293421555,
     "key": "A thousand black flies buzz around this character, trying to crawl into every small opening of armor, into every orifice of the body. A terrible curse that makes it nigh impossible to fight for [color=",
     "original": "A thousand black flies buzz around this character, trying to crawl into every small opening of armor, into every orifice of the body. A terrible curse that makes it nigh impossible to fight for [color=",
-    "translation": "上千个黑苍蝇绕着这个角色嗡嗡作响，试图从盔甲上的每个小缝隙里爬进去，再钻进人体上每个可能的孔里。这个可怕的诅咒使他基本不能战斗，效果还会持续 [color=",
-    "stage": 5,
+    "translation": "成千只黑苍蝇绕着这个角色嗡嗡作响，试图爬进盔甲上的每个小缝，再钻进人体上每个能钻的孔里。这个可怕的诅咒使他基本不能战斗，效果还会持续 [color=",
+    "stage": 1,
     "context": "return 'A thousand black flies buzz around this character, trying to crawl into every small opening of armor, into every orifice of the body. A terrible curse that makes it nigh impossible to fight for [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] more turn(s).';"
   },
   {

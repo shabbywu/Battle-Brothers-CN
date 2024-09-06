@@ -43,7 +43,7 @@
     "ID": 293421789,
     "key": "A large and sticky web holds this character in place and hampers their ability to defend themself and to put real force behind any blows. To break free, the web will have to be cut.",
     "original": "A large and sticky web holds this character in place and hampers their ability to defend themself and to put real force behind any blows. To break free, the web will have to be cut.",
-    "translation": "一张又大又粘的蛛网将这个角色固定在了原地，阻碍了他自我保护或全力攻击的能力，力。只有割开蛛网才能挣脱。",
+    "translation": "一张又大又粘的蛛网将这个角色固定在了原地，限制了他自我保护和全力攻击的能力。只有割开蛛网才能挣脱。",
     "stage": 1,
     "context": "this.m.Description = 'A large and sticky web holds this character in place and hampers their ability to defend themself and to put real force behind any blows. To break free, the web will have to be cut.'"
   },
@@ -51,7 +51,7 @@
     "ID": 293421790,
     "key": "]Twice as much damage received by a Webknecht's attack will ignore armor[/color]",
     "original": "]Twice as much damage received by a Webknecht's attack will ignore armor[/color]",
-    "translation": "]蛛魔对此角色造成的忽略护甲伤害翻倍[/color]",
+    "translation": "]蛛魔对此角色造成的穿甲伤害翻倍[/color]",
     "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + \"]Twice as much damage received by a Webknecht's attack will ignore armor[/color]\""
   },

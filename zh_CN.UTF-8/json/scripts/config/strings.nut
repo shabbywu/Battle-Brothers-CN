@@ -4803,7 +4803,7 @@
     "ID": 293406236,
     "key": "I work best alone. With no ally within 3 tiles of distance, gain a [color=",
     "original": "I work best alone. With no ally within 3 tiles of distance, gain a [color=",
-    "translation": "我最好单独行动。如果3格范围内没有队友，获得[color=",
+    "translation": "我擅长单独行动。如果3格范围内没有队友，获得[color=",
     "stage": 1,
     "context": "LoneWolf = 'I work best alone. With no ally within 3 tiles of distance, gain a [color=' + this.Const.UI.Color.PositiveValue + ']15%[/color] bonus to Melee Skill, Ranged Skill, Melee Defense, Ranged Defense, and Resolve.'"
   },

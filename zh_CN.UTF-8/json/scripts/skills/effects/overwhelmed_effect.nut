@@ -19,8 +19,8 @@
     "ID": 293421668,
     "key": "This character has been overwhelmed with a flurry of attacks to defend against, leaving few openings to effectively attack for himself.",
     "original": "This character has been overwhelmed with a flurry of attacks to defend against, leaving few openings to effectively attack for himself.",
-    "translation": "这个角色已经被一系列的攻击所压制，无法有效地进行攻击。",
-    "stage": 5,
+    "translation": "该角色被一连串攻击压制，难以抽身，攻击效率下降。",
+    "stage": 1,
     "context": "this.m.Description = 'This character has been overwhelmed with a flurry of attacks to defend against, leaving few openings to effectively attack for himself.'"
   },
   {

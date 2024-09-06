@@ -11,7 +11,7 @@
     "ID": 293419620,
     "key": "Recovers tools and supplies from every armor destroyed by you during battle",
     "original": "Recovers tools and supplies from every armor destroyed by you during battle",
-    "translation": "从战斗中你摧毁的每一件盔甲中回收工具和补给",
+    "translation": "从你在战斗中摧毁的盔甲上回收工具和补给",
     "stage": 1,
     "context": "'Recovers tools and supplies from every armor destroyed by you during battle'"
   },

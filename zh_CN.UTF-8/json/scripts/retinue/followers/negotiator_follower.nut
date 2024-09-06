@@ -11,7 +11,7 @@
     "ID": 293419595,
     "key": "The Negotiator",
     "original": "The Negotiator",
-    "translation": "谈判者",
+    "translation": "谈判家",
     "stage": 1,
     "context": "this.m.Name = 'The Negotiator'"
   },
@@ -19,7 +19,7 @@
     "ID": 293419596,
     "key": "The Negotiator is home to noble courts and fancy halls, and not used to travelling with a band of sellswords with muddy boots, but he is an expert on traversing the mire of social relations and contract negotiations.",
     "original": "The Negotiator is home to noble courts and fancy halls, and not used to travelling with a band of sellswords with muddy boots, but he is an expert on traversing the mire of social relations and contract negotiations.",
-    "translation": "谈判家的家是高贵的法院和华丽的大厅，并不习惯与一群身穿泥泞靴的佣兵一起旅行，但他是社交关系和合同谈判的专家。",
+    "translation": "谈判家以贵族宫廷和华丽大厅为家，并不习惯和一群泥腿子佣兵一起旅行，却是人情世故和合同谈判的专家。",
     "stage": 1,
     "context": "this.m.Description = 'The Negotiator is home to noble courts and fancy halls, and not used to travelling with a band of sellswords with muddy boots, but he is an expert on traversing the mire of social relations and contract negotiations.'"
   },

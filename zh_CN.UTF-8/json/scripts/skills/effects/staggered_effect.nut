@@ -3,7 +3,7 @@
     "ID": 293421760,
     "key": "This character has received so heavy a blow that they are off-balance, scrambling and late to act. Will wear off in [color=",
     "original": "This character has received so heavy a blow that they are off-balance, scrambling and late to act. Will wear off in [color=",
-    "translation": "这个角色受到了相当沉重的打击，以至于失去平衡东倒西歪且行动迟缓。剩余[color=",
+    "translation": "这个角色受到了相当沉重的打击，东倒西歪行动迟缓。剩余[color=",
     "stage": 1,
     "context": "return 'This character has received so heavy a blow that they are off-balance, scrambling and late to act. Will wear off in [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] turn(s).';"
   },

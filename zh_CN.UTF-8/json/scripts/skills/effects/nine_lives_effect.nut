@@ -11,7 +11,7 @@
     "ID": 293421639,
     "key": "This character seems to have nine lives! Just having had a close encounter with death, they are in a heightened state of survival until their next turn.",
     "original": "This character seems to have nine lives! Just having had a close encounter with death, they are in a heightened state of survival until their next turn.",
-    "translation": "该角色仿佛是九命猫！刚与死神擦肩而过，直到他的下个回合，他会处于一种高度警觉的生存状态。",
+    "translation": "该角色仿佛是九命猫！刚与死神擦肩而过，直到他的下个回合，他会处于一种高度警觉的求生状态。",
     "stage": 1,
     "context": "this.m.Description = 'This character seems to have nine lives! Just having had a close encounter with death, they are in a heightened state of survival until their next turn.'"
   },

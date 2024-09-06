@@ -27,7 +27,7 @@
     "ID": 293419547,
     "key": "Unlocks 'Snake Oil' recipe to earn money by crafting from various low tier components",
     "original": "Unlocks 'Snake Oil' recipe to earn money by crafting from various low tier components",
-    "translation": "解锁“蛇油”配方，通过制作各种低层组件来赚钱",
+    "translation": "解锁“蛇油”配方，该物品可用多种低级原料制成，可以拿来卖钱",
     "stage": 1,
     "context": "\"Unlocks 'Snake Oil' recipe to earn money by crafting from various low tier components\""
   },
