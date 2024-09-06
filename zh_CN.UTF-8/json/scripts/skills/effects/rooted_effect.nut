@@ -35,7 +35,7 @@
     "ID": 293421702,
     "key": "Thick vines of unnatural growth hold this character in place and hamper their ability to defend themself. To break free, the vines will have to be cut down.",
     "original": "Thick vines of unnatural growth hold this character in place and hamper their ability to defend themself. To break free, the vines will have to be cut down.",
-    "translation": "非自然长出的茂密藤蔓将这个角色固定在了原地并阻碍了他自我保护的能力。只有砍掉藤蔓才能挣脱。",
+    "translation": "非自然长出的茂密藤蔓将这个角色固定在了原地，限制了他自我保护的能力。只有砍掉藤蔓才能挣脱。",
     "stage": 1,
     "context": "this.m.Description = 'Thick vines of unnatural growth hold this character in place and hamper their ability to defend themself. To break free, the vines will have to be cut down.'"
   },

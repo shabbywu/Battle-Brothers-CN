@@ -35,7 +35,7 @@
     "ID": 293419604,
     "key": "The Paymaster takes care of all the day-to-day financial and organizational aspects of running a mercenary company, like paying out wages.",
     "original": "The Paymaster takes care of all the day-to-day financial and organizational aspects of running a mercenary company, like paying out wages.",
-    "translation": "出纳员负责所有日常财务和组织方面的事务, 如支付工资。",
+    "translation": "出纳员负责所有日常财务和组织运营方面的事务，如支付工资。",
     "stage": 1,
     "context": "this.m.Description = 'The Paymaster takes care of all the day-to-day financial and organizational aspects of running a mercenary company, like paying out wages.'"
   },

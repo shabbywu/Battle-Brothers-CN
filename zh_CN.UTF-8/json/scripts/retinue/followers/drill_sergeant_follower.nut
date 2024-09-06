@@ -19,7 +19,7 @@
     "ID": 293419579,
     "key": "Makes your men gain 20% more experience at level 1, with 2% less at each further level",
     "original": "Makes your men gain 20% more experience at level 1, with 2% less at each further level",
-    "translation": "使你的人在1级时获得20%更多的经验，每提高一级就减少2%",
+    "translation": "使你的人获得更多的经验，1级时为20%，每提高一级就减少2%",
     "stage": 1,
     "context": "'Makes your men gain 20% more experience at level 1, with 2% less at each further level'"
   },
@@ -27,7 +27,7 @@
     "ID": 293419580,
     "key": "The Drill Sergeant was a mercenary once, but an injury ended his career prematurely. Now he drills discipline into your men and yells a lot to make sure that everyone learns from their mistakes.",
     "original": "The Drill Sergeant was a mercenary once, but an injury ended his career prematurely. Now he drills discipline into your men and yells a lot to make sure that everyone learns from their mistakes.",
-    "translation": "军士长曾经是一名雇佣兵，但伤病使他的职业生涯过早结束。现在，他会训练你的士兵纪律，并大喊大叫以确保每个人都能从自己的错误中学习。",
+    "translation": "这位教官曾经也是一名雇佣兵，直到伤病过早的结束了他的职业生涯。现在，他会把纪律灌输给你的人，吼叫着确保所有人都能从错误中吸取教训。",
     "stage": 1,
     "context": "this.m.Description = 'The Drill Sergeant was a mercenary once, but an injury ended his career prematurely. Now he drills discipline into your men and yells a lot to make sure that everyone learns from their mistakes.'"
   },
@@ -35,7 +35,7 @@
     "ID": 293419581,
     "key": "Retired a man with a permanent injury that isn't indebted",
     "original": "Retired a man with a permanent injury that isn't indebted",
-    "translation": "退役一位带着永久创伤的非负债者队员",
+    "translation": "退役一位身负永久创伤的非负债者队员",
     "stage": 1,
     "context": "Text = \"Retired a man with a permanent injury that isn't indebted\""
   }

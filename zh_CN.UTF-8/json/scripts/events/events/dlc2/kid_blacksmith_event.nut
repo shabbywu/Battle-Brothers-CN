@@ -91,7 +91,7 @@
     "ID": 293413736,
     "key": "A show's a show.",
     "original": "A show's a show.",
-    "translation": "真是场精彩的表演。",
+    "translation": "为了表演而表演。",
     "stage": 1,
     "context": "Text = \"A show's a show.\""
   },

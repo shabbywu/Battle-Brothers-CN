@@ -11,8 +11,8 @@
     "ID": 293421797,
     "key": "This character just received a hurtful reminder of what they need to do for their masters. It will last for another ",
     "original": "This character just received a hurtful reminder of what they need to do for their masters. It will last for another ",
-    "translation": "这个角色刚刚通过一个苦痛的提醒想起了他应该为自己的主人做些什么。这还会持续",
-    "stage": 5,
+    "translation": "该角色刚刚遭受的皮肉之苦，提醒了他该为主人做些什么。还会持续",
+    "stage": 1,
     "context": "return 'This character just received a hurtful reminder of what they need to do for their masters. It will last for another ' + this.m.TurnsLeft + ' round(s).';"
   },
   {

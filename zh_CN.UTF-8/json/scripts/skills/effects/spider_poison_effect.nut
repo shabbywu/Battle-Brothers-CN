@@ -27,8 +27,8 @@
     "ID": 293421758,
     "key": "This character has a vicious poison running through his veins and will lose [color=",
     "original": "This character has a vicious poison running through his veins and will lose [color=",
-    "translation": "这个角色的血管中流淌着剧毒，其在战斗中将每回合失去 [color=",
-    "stage": 5,
+    "translation": "该角色的血管中流淌着剧毒，每回合失去 [color=",
+    "stage": 1,
     "context": "return 'This character has a vicious poison running through his veins and will lose [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.Damage + '[/color] hitpoints each turn for [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] more turn(s).';"
   },
   {

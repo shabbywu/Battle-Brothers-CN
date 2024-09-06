@@ -27,7 +27,7 @@
     "ID": 293421552,
     "key": "This character has gathered all their physical strength and willpower to become indomitable until their next turn.",
     "original": "This character has gathered all their physical strength and willpower to become indomitable until their next turn.",
-    "translation": "这个角色已经聚集了他所有的体力和意志力，变得不屈不挠，直到下一个回合。",
+    "translation": "这个角色聚集了他所有的体力和意志，变得不屈不挠，直到下回合为止。",
     "stage": 1,
     "context": "return 'This character has gathered all their physical strength and willpower to become indomitable until their next turn.';"
   },

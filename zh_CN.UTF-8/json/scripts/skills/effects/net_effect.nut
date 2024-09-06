@@ -11,7 +11,7 @@
     "ID": 293421624,
     "key": "A large net holds this character in place and hampers their ability to defend themself. To break free, the net will have to be cut.",
     "original": "A large net holds this character in place and hampers their ability to defend themself. To break free, the net will have to be cut.",
-    "translation": "一张大网将这个角色固定在了原地并阻碍了他自我保护的能力。只有割开网才能挣脱。",
+    "translation": "一张大网将这个角色固定在了原地，限制了他自我保护的能力。只有割开网才能挣脱。",
     "stage": 1,
     "context": "this.m.Description = 'A large net holds this character in place and hampers their ability to defend themself. To break free, the net will have to be cut.'"
   },

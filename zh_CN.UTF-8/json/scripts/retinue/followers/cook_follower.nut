@@ -3,7 +3,7 @@
     "ID": 293419571,
     "key": "Makes all provisions last 3 extra days",
     "original": "Makes all provisions last 3 extra days",
-    "translation": "使所有的食物能多维持3天",
+    "translation": "使所有食物能多保存3天",
     "stage": 1,
     "context": "'Makes all provisions last 3 extra days'"
   },
@@ -27,7 +27,7 @@
     "ID": 293419574,
     "key": "A good warm meal goes a long way towards healing body and mind. The Cook makes sure that no provisions go to waste, and provides the men with invigorating meals.",
     "original": "A good warm meal goes a long way towards healing body and mind. The Cook makes sure that no provisions go to waste, and provides the men with invigorating meals.",
-    "translation": "一顿热腾腾的饭菜对于恢复身心健康有很大帮助。 队长会确保没有粮食浪费，并为士兵们提供有力的补给。",
+    "translation": "一顿热腾腾的饭菜对于恢复身心健康有很大帮助。厨师会确保粮食不被浪费，并用良好的膳食使你的人焕发精神。",
     "stage": 1,
     "context": "this.m.Description = 'A good warm meal goes a long way towards healing body and mind. The Cook makes sure that no provisions go to waste, and provides the men with invigorating meals.'"
   },

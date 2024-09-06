@@ -19,7 +19,7 @@
     "ID": 293419558,
     "key": "This colorful Bounty Hunter has a pocket full of contracts on the most dangerous individuals. He knows how to get them from hiding and will pay handsomely for any bounty fulfilled.",
     "original": "This colorful Bounty Hunter has a pocket full of contracts on the most dangerous individuals. He knows how to get them from hiding and will pay handsomely for any bounty fulfilled.",
-    "translation": "这个穿着花哨的赏金猎人口袋里装满了最危险的人的合同。 他知道如何找到他们的藏身处，并会为任何完成的悬赏支付丰厚的报酬。",
+    "translation": "这位穿着花哨的赏金猎人有个专装合同的口袋，合同上尽是那些最危险的人。他知道如何找到他们的藏身处，还会为所有完成的悬赏付上一大笔钱。",
     "stage": 1,
     "context": "this.m.Description = 'This colorful Bounty Hunter has a pocket full of contracts on the most dangerous individuals. He knows how to get them from hiding and will pay handsomely for any bounty fulfilled.'"
   },
@@ -27,7 +27,7 @@
     "ID": 293419559,
     "key": "Significantly increases the chance of encountering champions",
     "original": "Significantly increases the chance of encountering champions",
-    "translation": "显著增加了遇到冠军的机会",
+    "translation": "显著增加遇到冠军的机会",
     "stage": 1,
     "context": "'Significantly increases the chance of encountering champions'"
   },

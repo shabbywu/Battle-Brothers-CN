@@ -3,8 +3,8 @@
     "ID": 293419588,
     "key": "Makes you earn 15% more renown with every action",
     "original": "Makes you earn 15% more renown with every action",
-    "translation": "所有行动都会获得额外 15% 的名望",
-    "stage": 5,
+    "translation": "所有行动获得的名望增加15%",
+    "stage": 1,
     "context": "'Makes you earn 15% more renown with every action'"
   },
   {
@@ -43,7 +43,7 @@
     "ID": 293419593,
     "key": "A good song and story play a large part in creating the reputation of a company. The Minstrel is a master of these crafts and will help to spread the word about your deeds to all ears - willing to hear them or not.",
     "original": "A good song and story play a large part in creating the reputation of a company. The Minstrel is a master of these crafts and will help to spread the word about your deeds to all ears - willing to hear them or not.",
-    "translation": "好的歌曲和故事在塑造一个公司的声誉中扮演着重要的角色。 吟游诗人是这些技能的大师，并将帮助传播你的事迹，无论听到它们的耳朵是否乐意。",
+    "translation": "好的歌曲和故事在塑造战团声誉的过程中扮演着重要角色。而吟游诗人正是这方面的行家，他能帮你把事迹传到所有人的耳朵里 —— 管它们愿不愿意呢。",
     "stage": 1,
     "context": "this.m.Description = 'A good song and story play a large part in creating the reputation of a company. The Minstrel is a master of these crafts and will help to spread the word about your deeds to all ears - willing to hear them or not.'"
   }

@@ -3,7 +3,7 @@
     "ID": 293419550,
     "key": "Mercenaries are good at getting arms and armor destroyed, but not at maintaining them. The Blacksmith will take care of this tedious task quickly and efficiently, and can mend even equipment otherwise thought lost.",
     "original": "Mercenaries are good at getting arms and armor destroyed, but not at maintaining them. The Blacksmith will take care of this tedious task quickly and efficiently, and can mend even equipment otherwise thought lost.",
-    "translation": "雇佣军很擅长破坏武器和盔甲，但并不擅长维护它们。铁匠能够快速高效地完成这项繁琐的任务，甚至可以修复其他被认为已经损坏的装备。",
+    "translation": "佣兵擅长破坏武器摧毁铠甲，论起维修保养却是外行。铁匠可以高效快速地完成这些繁琐工作，甚至能修复一些本要报废的装备。",
     "stage": 1,
     "context": "this.m.Description = 'Mercenaries are good at getting arms and armor destroyed, but not at maintaining them. The Blacksmith will take care of this tedious task quickly and efficiently, and can mend even equipment otherwise thought lost.'"
   },

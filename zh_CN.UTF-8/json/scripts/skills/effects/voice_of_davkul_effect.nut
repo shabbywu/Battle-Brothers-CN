@@ -11,7 +11,7 @@
     "ID": 293421783,
     "key": "Voice of Davkul",
     "original": "Voice of Davkul",
-    "translation": "达库尔的声音",
+    "translation": "达库尔之声",
     "stage": 1,
     "context": "this.m.Name = 'Voice of Davkul'"
   }

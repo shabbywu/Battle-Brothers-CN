@@ -11,8 +11,8 @@
     "ID": 293421450,
     "key": "[/color] turn(s).",
     "original": "[/color] turn(s).",
-    "translation": "[/color] 回合。",
-    "stage": 5,
+    "translation": "[/color] 回合后消退。",
+    "stage": 1,
     "context": "return 'This character has received so heavy a blow that they are dazed, confused and gasping for air. Will wear off in [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] turn(s).';"
   },
   {
@@ -43,7 +43,7 @@
     "ID": 293421454,
     "key": "This character has received so heavy a blow that they are dazed, confused and gasping for air. Will wear off in [color=",
     "original": "This character has received so heavy a blow that they are dazed, confused and gasping for air. Will wear off in [color=",
-    "translation": "这个角色受到了相当沉重的打击，感到茫然、困惑和神志不清。剩余[color=",
+    "translation": "这个角色受到了相当沉重的打击，感到头晕目眩，气喘吁吁。会在 [color=",
     "stage": 1,
     "context": "return 'This character has received so heavy a blow that they are dazed, confused and gasping for air. Will wear off in [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] turn(s).';"
   },

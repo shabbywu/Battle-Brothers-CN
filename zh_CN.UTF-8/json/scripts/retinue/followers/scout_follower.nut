@@ -3,7 +3,7 @@
     "ID": 293419624,
     "key": "Prevents sickness and accidents due to terrain",
     "original": "Prevents sickness and accidents due to terrain",
-    "translation": "阻止因地形引起的疾病和意外遭遇",
+    "translation": "防止地形引起的疾病和意外",
     "stage": 1,
     "context": "'Prevents sickness and accidents due to terrain'"
   },
@@ -35,7 +35,7 @@
     "ID": 293419628,
     "key": "The Scout is an expert in finding mountain passes, navigating through treacherous swamps, and guiding anyone safely through the darkest of forests.",
     "original": "The Scout is an expert in finding mountain passes, navigating through treacherous swamps, and guiding anyone safely through the darkest of forests.",
-    "translation": "侦察兵是在寻找山口、穿越险恶沼泽和引导任何人安全通过最黑暗的森林方面的专家。",
+    "translation": "侦察员是寻找隐蔽山口、穿越凶险沼泽和引导人们安全通过茂密森林的专家。",
     "stage": 1,
     "context": "this.m.Description = 'The Scout is an expert in finding mountain passes, navigating through treacherous swamps, and guiding anyone safely through the darkest of forests.'"
   },
