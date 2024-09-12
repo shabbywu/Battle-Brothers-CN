@@ -3,7 +3,7 @@
     "ID": 293418290,
     "key": "Spiked Skull Cap with Mail",
     "original": "Spiked Skull Cap with Mail",
-    "translation": "链甲尖顶颅盔",
+    "translation": "衬链尖顶颅盔",
     "stage": 1,
     "context": "this.m.Name = 'Spiked Skull Cap with Mail'"
   },

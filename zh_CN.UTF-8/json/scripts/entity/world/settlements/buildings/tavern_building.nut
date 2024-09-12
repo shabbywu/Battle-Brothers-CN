@@ -27,7 +27,7 @@
     "ID": 293410714,
     "key": "The patrons talk about this and that.",
     "original": "The patrons talk about this and that.",
-    "translation": "客人在那里聊天。",
+    "translation": "客人们谈天说地。",
     "stage": 1,
     "context": "return 'The patrons talk about this and that.';"
   },

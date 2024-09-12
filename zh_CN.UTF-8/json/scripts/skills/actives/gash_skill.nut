@@ -35,7 +35,7 @@
     "ID": 293420002,
     "key": "A well-placed slashing attack that is likely to inflict debilitating injuries.",
     "original": "A well-placed slashing attack that is likely to inflict debilitating injuries.",
-    "translation": "一种瞄准要害的划砍攻击，更容易使对手受伤。",
+    "translation": "一种瞄准要害的划砍攻击，更容易使对手受创伤。",
     "stage": 1,
     "context": "this.m.Description = 'A well-placed slashing attack that is likely to inflict debilitating injuries.'"
   },

@@ -179,7 +179,7 @@
     "ID": 293419715,
     "key": "Is permanently dead if struck down and will not survive with a permanent injury",
     "original": "Is permanently dead if struck down and will not survive with a permanent injury",
-    "translation": "如果被击倒就会永久死亡，且不会带着永久性创伤存活",
+    "translation": "如果被击倒就会永久死亡，且不会带着永久创伤存活",
     "stage": 1,
     "context": "text = 'Is permanently dead if struck down and will not survive with a permanent injury'"
   },

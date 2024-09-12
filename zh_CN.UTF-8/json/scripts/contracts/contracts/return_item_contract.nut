@@ -99,8 +99,8 @@
     "ID": 293409785,
     "key": "We're paid to return it, and that's what we'll do.",
     "original": "We're paid to return it, and that's what we'll do.",
-    "translation": "我们被雇来夺回它，而那就是我们要做的事。",
-    "stage": 5,
+    "translation": "人家花钱雇我们来了，我们当然得完璧归赵。",
+    "stage": 1,
     "context": "Text = \"We're paid to return it, and that's what we'll do.\""
   },
   {

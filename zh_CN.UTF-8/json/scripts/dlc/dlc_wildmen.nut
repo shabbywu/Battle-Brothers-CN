@@ -19,7 +19,7 @@
     "ID": 293410217,
     "key": "Scimitars and Shamshirs are more likely to inflict debilitating injuries when hitting a target.",
     "original": "Scimitars and Shamshirs are more likely to inflict debilitating injuries when hitting a target.",
-    "translation": "短弯刀和狮尾弯刀在打击目标时更容易造成致残伤。",
+    "translation": "短弯刀和狮尾弯刀在打击目标时更容易造成创伤。",
     "stage": 1,
     "context": "'Scimitars and Shamshirs are more likely to inflict debilitating injuries when hitting a target.'"
   },

@@ -555,7 +555,7 @@
     "ID": 293423022,
     "key": "The character's level measures experience in battle. Characters rise in levels as they gain experience and are able to increase their attributes and gain perks that make them better at the mercenary profession.\n\nBeyond the 11th character level, characters",
     "original": "The character's level measures experience in battle. Characters rise in levels as they gain experience and are able to increase their attributes and gain perks that make them better at the mercenary profession.\n\nBeyond the 11th character level, characters are veterans and will no longer gain perk points, but can still continue to improve.",
-    "translation": "角色的等级衡量了他在战斗中的经验。随着经验提升，其等级也会提高，并能提高属性、获得特技，更好的从事佣兵事业。\n\n在角色11级之后，角色将成为老兵，不再获得特技点，但仍可有所提高。",
+    "translation": "角色的等级衡量了他的战斗经验。随着经验提升，其等级也会提高，并能提高属性、获得特技，更好的从事佣兵事业。\n\n在角色11级之后，角色将成为老兵，不再获得特技点，但仍可有所提高。",
     "stage": 1,
     "context": "text = \"The character's level measures experience in battle. Characters rise in levels as they gain experience and are able to increase their attributes and gain perks that make them better at the mercenary profession.\n\nBeyond the 11th character level, characters are veterans and will no longer gain perk points, but can still continue to improve.\""
   },
@@ -843,7 +843,7 @@
     "ID": 293423058,
     "key": "Always and automatically loot everything found after combat once you close the loot screen - as long as you have the space to carry it.",
     "original": "Always and automatically loot everything found after combat once you close the loot screen - as long as you have the space to carry it.",
-    "translation": "在你关闭战利品页面后自动掠夺所有战利品，前提是你有足够的仓库空间。",
+    "translation": "在你关闭战利品页面后自动拾取所有战利品，前提是你有足够的仓库空间。",
     "stage": 1,
     "context": "text = 'Always and automatically loot everything found after combat once you close the loot screen - as long as you have the space to carry it.'"
   },
@@ -2027,7 +2027,7 @@
     "ID": 293423206,
     "key": "Auto-Loot",
     "original": "Auto-Loot",
-    "translation": "自动掠夺",
+    "translation": "自动拾取战利品",
     "stage": 1,
     "context": "text = 'Auto-Loot'"
   },
@@ -2299,7 +2299,7 @@
     "ID": 293423240,
     "key": "Hitpoints represent the damage a character can take before dying. Once these reach zero, the character is considered dead. The higher the maximum hitpoints, the less likely it is a character will suffer debilitating injuries when hit.",
     "original": "Hitpoints represent the damage a character can take before dying. Once these reach zero, the character is considered dead. The higher the maximum hitpoints, the less likely it is a character will suffer debilitating injuries when hit.",
-    "translation": "生命值代表一个角色在死亡前所能承受的伤害。一旦达到零，角色就被认定为死亡。生命值上限越高，角色受到攻击时受到削弱损伤的可能性越小。",
+    "translation": "生命值代表一个角色在死亡前所能承受的伤害。一旦达到零，角色就被认定为死亡。生命值上限越高，角色受到攻击时受到创伤削弱的可能性越小。",
     "stage": 1,
     "context": "text = 'Hitpoints represent the damage a character can take before dying. Once these reach zero, the character is considered dead. The higher the maximum hitpoints, the less likely it is a character will suffer debilitating injuries when hit.'"
   },
@@ -2395,7 +2395,7 @@
     "ID": 293423252,
     "key": "Effectiveness against Armor",
     "original": "Effectiveness against Armor",
-    "translation": "对抗装甲的效果",
+    "translation": "破甲效果",
     "stage": 1,
     "context": "text = 'Effectiveness against Armor'"
   },

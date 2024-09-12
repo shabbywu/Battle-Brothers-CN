@@ -27,7 +27,7 @@
     "ID": 293418840,
     "key": "Instantly heals all temporary injuries, as well as the Hangover and Exhausted status effects",
     "original": "Instantly heals all temporary injuries, as well as the Hangover and Exhausted status effects",
-    "translation": "立即治愈所有临时伤残，消除宿醉和精疲力竭状态",
+    "translation": "立即治愈所有临时创伤，消除宿醉和精疲力竭状态",
     "stage": 1,
     "context": "text = 'Instantly heals all temporary injuries, as well as the Hangover and Exhausted status effects'"
   }

@@ -11,16 +11,16 @@
     "ID": 293420723,
     "key": "Inflicts additional stacking [color=",
     "original": "Inflicts additional stacking [color=",
-    "translation": "造成额外的 [color=",
-    "stage": 5,
+    "translation": "每回合额外造成可叠加的 [color=",
+    "stage": 1,
     "context": "text = 'Inflicts additional stacking [color=' + this.Const.UI.Color.DamageValue + ']' + dmg + '[/color] bleeding damage per turn, for 2 turns'"
   },
   {
     "ID": 293420724,
     "key": "[/color] bleeding damage per turn, for 2 turns",
     "original": "[/color] bleeding damage per turn, for 2 turns",
-    "translation": "[/color] 每回合流血伤害，持续 2 回合",
-    "stage": 5,
+    "translation": "[/color] 点流血伤害，持续 2 回合",
+    "stage": 1,
     "context": "text = 'Inflicts additional stacking [color=' + this.Const.UI.Color.DamageValue + ']' + dmg + '[/color] bleeding damage per turn, for 2 turns'"
   },
   {

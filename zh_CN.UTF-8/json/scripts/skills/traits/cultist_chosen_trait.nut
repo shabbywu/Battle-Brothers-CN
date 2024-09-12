@@ -51,8 +51,8 @@
     "ID": 293422424,
     "key": "Is not affected by fresh injuries sustained during the current battle",
     "original": "Is not affected by fresh injuries sustained during the current battle",
-    "translation": "不会受到当前战斗中新产生的损伤的影响",
-    "stage": 5,
+    "translation": "不会受到当前战斗中新产生的创伤的影响",
+    "stage": 1,
     "context": "text = 'Is not affected by fresh injuries sustained during the current battle'"
   },
   {

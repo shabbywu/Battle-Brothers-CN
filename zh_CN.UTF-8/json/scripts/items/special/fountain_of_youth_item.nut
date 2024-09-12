@@ -11,7 +11,7 @@
     "ID": 293418844,
     "key": "Will remove all temporary or permanent injuries, as well as the Old, Addicted, Exhausted and Hangover traits and status effects",
     "original": "Will remove all temporary or permanent injuries, as well as the Old, Addicted, Exhausted and Hangover traits and status effects",
-    "translation": "将会移除所有临时或永久伤残，及年迈、药物成瘾、精疲力竭和宿醉等特性和状态效果",
+    "translation": "将会移除所有临时或永久创伤，及年迈、药物成瘾、精疲力竭和宿醉等特性和状态效果",
     "stage": 1,
     "context": "text = 'Will remove all temporary or permanent injuries, as well as the Old, Addicted, Exhausted and Hangover traits and status effects'"
   },
