@@ -451,7 +451,7 @@
     "ID": 293408924,
     "key": "the Robber Baron",
     "original": "the Robber Baron",
-    "translation": "土匪男爵",
+    "translation": "强盗男爵",
     "stage": 1,
     "context": "'the Robber Baron'"
   },

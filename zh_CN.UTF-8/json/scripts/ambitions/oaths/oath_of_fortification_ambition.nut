@@ -43,7 +43,7 @@
     "ID": 293403653,
     "key": "]+5[/color] Ranged Defense. The 'Knock Back' skill now staggers targets on hit.",
     "original": "]+5[/color] Ranged Defense. The 'Knock Back' skill now staggers targets on hit.",
-    "translation": "]+5[/color] 远程防御。 “撞退”技能在成功命中时会对目标施加踉跄效果。",
+    "translation": "]+5[/color] 远程防御。“击退”技能在成功命中时会对目标施加踉跄效果。",
     "stage": 1,
     "context": "this.m.OathBoonText = 'Your men build up [color=' + this.Const.UI.Color.NegativeValue + \"]25%[/color] less Fatigue when using shield skills. The 'Shield Wall' skill now grants an additional [color=\" + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense and [color=' + this.Const.UI.Color.PositiveValue + \"]+5[/color] Ranged Defense. The 'Knock Back' skill now staggers targets on hit.\""
   },

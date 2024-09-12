@@ -3,7 +3,7 @@
     "ID": 293403692,
     "key": " combat injuries (",
     "original": " combat injuries (",
-    "translation": "的伤残次数(已承受",
+    "translation": "的创伤次数(已承受",
     "stage": 1,
     "context": "return 'You gain extra Renown for suffering no more than ' + this.getBonusObjectiveGoal() + ' combat injuries (' + this.getBonusObjectiveProgress() + this.getBonusObjectiveProgress() == 1 ? ' injury' : ' injuries' + ' taken so far).';"
   },
@@ -51,7 +51,7 @@
     "ID": 293403698,
     "key": "Your men do not heal injuries.",
     "original": "Your men do not heal injuries.",
-    "translation": "你的所有战团成员无法从伤残中恢复。",
+    "translation": "你的所有战团成员无法从创伤中恢复。",
     "stage": 1,
     "context": "this.m.OathBurdenText = 'Your men do not heal injuries.'"
   },

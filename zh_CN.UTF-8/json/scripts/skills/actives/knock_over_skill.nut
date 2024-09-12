@@ -67,7 +67,7 @@
     "ID": 293420140,
     "key": "Knock Over",
     "original": "Knock Over",
-    "translation": "撞倒",
+    "translation": "锤翻",
     "stage": 1,
     "context": "this.m.Name = 'Knock Over'"
   },

@@ -19,8 +19,8 @@
     "ID": 293421599,
     "key": "I work best alone.",
     "original": "I work best alone.",
-    "translation": "我擅长单独行动。",
-    "stage": 5,
+    "translation": "我最好单独行动。",
+    "stage": 1,
     "context": "this.m.Description = 'I work best alone.'"
   },
   {

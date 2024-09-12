@@ -2419,7 +2419,7 @@
     "ID": 293405171,
     "key": "Honor",
     "original": "Honor",
-    "translation": "荣誉",
+    "translation": "荣耀",
     "stage": 1,
     "context": "'Honor'"
   },
@@ -2867,7 +2867,7 @@
     "ID": 293405227,
     "key": "Betrayer",
     "original": "Betrayer",
-    "translation": "背叛者",
+    "translation": "背弃者",
     "stage": 1,
     "context": "'Betrayer'"
   },
@@ -2923,7 +2923,7 @@
     "ID": 293405234,
     "key": "Lord",
     "original": "Lord",
-    "translation": "大人",
+    "translation": "领主",
     "stage": 1,
     "context": "'Lord'"
   },

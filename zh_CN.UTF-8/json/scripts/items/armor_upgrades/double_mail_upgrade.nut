@@ -27,7 +27,7 @@
     "ID": 293417902,
     "key": "A thick double mail has been added to this armor for further protection.",
     "original": "A thick double mail has been added to this armor for further protection.",
-    "translation": "一块厚重的双层链甲被安装在这件盔甲上，进一步提高了防护性能。",
+    "translation": "这件盔甲上装有一块厚重的双层链甲，进一步提高了防护性能。",
     "stage": 1,
     "context": "this.m.ArmorDescription = 'A thick double mail has been added to this armor for further protection.'"
   },

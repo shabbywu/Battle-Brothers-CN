@@ -843,7 +843,7 @@
     "ID": 293405741,
     "key": "]100%[/color] chance to stun the target if not immune.\n\nThe Polemace no longer has a penalty for attacking targets directly adjacent.",
     "original": "]100%[/color] chance to stun the target if not immune.\n\nThe Polemace no longer has a penalty for attacking targets directly adjacent.",
-    "translation": "]100%[/color] 的几率使其昏迷。\n\n使用长棍攻击近身敌人不再有命中率惩罚。",
+    "translation": "]100%[/color] 的几率使其昏迷。\n\n使用长棒攻击近身敌人不再有命中率惩罚。",
     "stage": 1,
     "context": "SpecMace = 'Master maces to beat your opponents into submission, armored or not. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nKnock Out, Knock Over and Strike Down have a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to stun the target if not immune.\n\nThe Polemace no longer has a penalty for attacking targets directly adjacent.'"
   },
@@ -979,8 +979,8 @@
     "ID": 293405758,
     "key": "]15%[/color] bonus to Melee Skill, Ranged Skill, Melee Defense, Ranged Defense, and Resolve.",
     "original": "]15%[/color] bonus to Melee Skill, Ranged Skill, Melee Defense, Ranged Defense, and Resolve.",
-    "translation": "]15%[/color]的近战技能、远程技能、近战防御、远程防御和决心的加成。",
-    "stage": 5,
+    "translation": "]15%[/color]。",
+    "stage": 1,
     "context": "LoneWolf = 'I work best alone. With no ally within 3 tiles of distance, gain a [color=' + this.Const.UI.Color.PositiveValue + ']15%[/color] bonus to Melee Skill, Ranged Skill, Melee Defense, Ranged Defense, and Resolve.'"
   },
   {
@@ -1611,7 +1611,7 @@
     "ID": 293405837,
     "key": "]+5%[/color] chance to hit.",
     "original": "]+5%[/color] chance to hit.",
-    "translation": "]5%[/color]",
+    "translation": "]5%[/color] 。",
     "stage": 1,
     "context": "SpecSword = \"Master the art of swordfighting and using your opponent's mistakes to your advantage. Skills build up [color=\" + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nRiposte no longer has a penalty to hitchance.\n\nGash has a [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] lower threshold to inflict injuries.\n\nSplit and Swing no longer have a penalty to hitchance and gain [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.'"
   },
@@ -1667,7 +1667,7 @@
     "ID": 293405844,
     "key": "]20%[/color] of damage inflicted with crossbows ignores armor.\n\nHandgonnes now require [color=",
     "original": "]20%[/color] of damage inflicted with crossbows ignores armor.\n\nHandgonnes now require [color=",
-    "translation": "]20%[/color] 的忽略护甲伤害。\n\n使用火铳的“重新装填”现在只消耗 [color=",
+    "translation": "]20%[/color]。\n\n重装火铳现只消耗 [color=",
     "stage": 1,
     "context": "SpecCrossbow = 'Master crossbows and firearms, and learn where to aim best. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nAn additional [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] of damage inflicted with crossbows ignores armor.\n\nHandgonnes now require [color=' + this.Const.UI.Color.NegativeValue + ']6[/color] Action Points to reload and can be fired every turn instead of every other turn.'"
   },
@@ -1739,7 +1739,7 @@
     "ID": 293405853,
     "key": "Adapt to your opponent's moves! Gain an additional stacking [color=",
     "original": "Adapt to your opponent's moves! Gain an additional stacking [color=",
-    "translation": "适应对手的动作！每次攻击未命中对手后，额外提高[color=",
+    "translation": "适应对手的动作！每次攻击落空后，提高[color=",
     "stage": 1,
     "context": "FastAdaption = \"Adapt to your opponent's moves! Gain an additional stacking [color=\" + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit with each attack that misses an opponent. Bonus is reset upon landing a hit.'"
   },
@@ -1795,7 +1795,7 @@
     "ID": 293405860,
     "key": "I'm used to it. The defense malus due to being surrounded by opponents no longer applies to this character. If an attacker has the Backstabber perk, the effect of that perk is negated, and the normal defense malus due to being surrounded is applied instea",
     "original": "I'm used to it. The defense malus due to being surrounded by opponents no longer applies to this character. If an attacker has the Backstabber perk, the effect of that perk is negated, and the normal defense malus due to being surrounded is applied instead.",
-    "translation": "我已经习惯了。由于被对手包围而导致的围攻效果不再适用于该角色。如果攻击者拥有背刺特技，则该特技的效果失效，但由于被包围而导致的正常围攻效果将生效。",
+    "translation": "我已经习惯了。陷入围攻带来的防御减益不再适用于该角色。若攻击方有“背刺者”特技，则抵消特技效果，常规的围攻防御减益生效。",
     "stage": 1,
     "context": "Underdog = \"I'm used to it. The defense malus due to being surrounded by opponents no longer applies to this character. If an attacker has the Backstabber perk, the effect of that perk is negated, and the normal defense malus due to being surrounded is applied instead.\""
   },
@@ -1827,7 +1827,7 @@
     "ID": 293405864,
     "key": "]10[/color] and [color=",
     "original": "]10[/color] and [color=",
-    "translation": "]10[/color]和[color=",
+    "translation": "]10[/color]点和每回合[color=",
     "stage": 1,
     "context": "SpecCleaver = 'Master cleavers to inflict gruesome wounds. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nBleeding damage inflicted by cleavers and whips is doubled to [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']20[/color] per turn, respectively.\n\nDisarm only has half the penalty to hit.'"
   },
@@ -2379,7 +2379,7 @@
     "ID": 293405933,
     "key": "]50%[/color] of your accumulated Fatigue, instead of all of it. In addition, using the 'Wait' command will no longer give you a penalty to Initiative in the next round.",
     "original": "]50%[/color] of your accumulated Fatigue, instead of all of it. In addition, using the 'Wait' command will no longer give you a penalty to Initiative in the next round.",
-    "translation": "]50%[/color]，而不是通常的100%。此外，使用“等待”指令将不再使你在下一回合受到主动值惩罚。",
+    "translation": "]50%[/color]，而不是通常的100%。此外，使用“等待”指令将不再使你在下回合受到主动值惩罚。",
     "stage": 1,
     "context": "Relentless = \"Don't slow down! At all times your Initiative is reduced only by [color=\" + this.Const.UI.Color.NegativeValue + \"]50%[/color] of your accumulated Fatigue, instead of all of it. In addition, using the 'Wait' command will no longer give you a penalty to Initiative in the next round.\""
   },
@@ -2763,7 +2763,7 @@
     "ID": 293405981,
     "key": "Everything can be learned if you put your mind to it. Gain additional [color=",
     "original": "Everything can be learned if you put your mind to it. Gain additional [color=",
-    "translation": "世上无难事，只怕有心人。在战斗中获得[color=",
+    "translation": "世上无难事，只怕有心人。战斗中获得的经验提升[color=",
     "stage": 1,
     "context": "Student = 'Everything can be learned if you put your mind to it. Gain additional [color=' + this.Const.UI.Color.PositiveValue + \"]20%[/color] experience from battle. At the eleventh character level, you gain an additional perk point and this perk becomes inert.\n\nPlaying the 'Manhunters' origin, your indebted get the perk point refunded at the seventh character level.\""
   },
@@ -3051,7 +3051,7 @@
     "ID": 293406017,
     "key": "Become one with your weapon and go for the weak spots! With the offhand free or carrying a throwable tool (e.g. throwing net), an additional [color=",
     "original": "Become one with your weapon and go for the weak spots! With the offhand free or carrying a throwable tool (e.g. throwing net), an additional [color=",
-    "translation": "人兵合一，直取空门！如果副手未持有武器或者携带着可投掷的工具(如投掷网)，则可额外造成[color=",
+    "translation": "人兵合一，直取空门！如果副手未持有物品或者仅携带投网等投掷工具，则可额外造成[color=",
     "stage": 1,
     "context": "Duelist = 'Become one with your weapon and go for the weak spots! With the offhand free or carrying a throwable tool (e.g. throwing net), an additional [color=' + this.Const.UI.Color.PositiveValue + ']+25%[/color] of any damage ignores armor. Does not work with two-handed weapons.'"
   },
@@ -3235,7 +3235,7 @@
     "ID": 293406040,
     "key": "]25%[/color] less Fatigue.\n\nAn additional [color=",
     "original": "]25%[/color] less Fatigue.\n\nAn additional [color=",
-    "translation": "]25%[/color]\n\n弩额外造成 [color=",
+    "translation": "]25%[/color]\n\n弩造成的穿甲伤害提高 [color=",
     "stage": 1,
     "context": "SpecCrossbow = 'Master crossbows and firearms, and learn where to aim best. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nAn additional [color=' + this.Const.UI.Color.PositiveValue + ']20%[/color] of damage inflicted with crossbows ignores armor.\n\nHandgonnes now require [color=' + this.Const.UI.Color.NegativeValue + ']6[/color] Action Points to reload and can be fired every turn instead of every other turn.'"
   },
@@ -3283,7 +3283,7 @@
     "ID": 293406046,
     "key": "]25%[/color] less Fatigue.\n\nLash and Hail ignore the defense bonus of shields.\n\nPound ignores an additional [color=",
     "original": "]25%[/color] less Fatigue.\n\nLash and Hail ignore the defense bonus of shields.\n\nPound ignores an additional [color=",
-    "translation": "]25%[/color]\n\n'当头一击'和'劈头盖脸'无视盾牌加成。\n\n'重磅打击'在击中头部时忽略[color=",
+    "translation": "]25%[/color]\n\n“当头一击”和“劈头盖脸”无视盾牌的防御加成。\n\n“重磅打击”击中头部时的穿甲提升[color=",
     "stage": 1,
     "context": "SpecFlail = \"Master flails and circumvent your opponent's shield. Skills build up [color=\" + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nLash and Hail ignore the defense bonus of shields.\n\nPound ignores an additional [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] of armor on head hits.\n\nThresh gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.'"
   },
@@ -3547,7 +3547,7 @@
     "ID": 293406079,
     "key": "Too fast for you! Gain [color=",
     "original": "Too fast for you! Gain [color=",
-    "translation": "快你一步！近战、远程防御增加角色当前主动值的[color=",
+    "translation": "快你一步！近战、远程防御增加角色实时主动值的[color=",
     "stage": 1,
     "context": "Dodge = 'Too fast for you! Gain [color=' + this.Const.UI.Color.PositiveValue + \"]15%[/color] of the character's current Initiative as a bonus to Melee and Ranged Defense.\""
   },
@@ -4131,7 +4131,7 @@
     "ID": 293406152,
     "key": "Honor doesn't win you fights, stabbing the enemy where it hurts does. The bonus to hitchance in melee is doubled to [color=",
     "original": "Honor doesn't win you fights, stabbing the enemy where it hurts does. The bonus to hitchance in melee is doubled to [color=",
-    "translation": "荣誉并不能为你赢得战斗，刺中敌人的痛处才是。在近战中，每有一个盟友围绕着你的目标并分散其注意力，你的命中率就会增加[color=",
+    "translation": "堂堂正正并不能带来胜利，而戳人痛处恰恰可以。在近战中，每有一个包围目标，吸引其注意力的盟友，你的命中率增加[color=",
     "stage": 1,
     "context": "Backstabber = \"Honor doesn't win you fights, stabbing the enemy where it hurts does. The bonus to hitchance in melee is doubled to [color=\" + this.Const.UI.Color.PositiveValue + ']+10%[/color] for each ally surrounding and distracting your target.'"
   },
@@ -4163,7 +4163,7 @@
     "ID": 293406156,
     "key": "Learn to better deflect hits to the side instead of blocking them head on.\n\nThe shield defense bonus is increased by [color=",
     "original": "Learn to better deflect hits to the side instead of blocking them head on.\n\nThe shield defense bonus is increased by [color=",
-    "translation": "学会更好地将攻击偏向一边而不是正面阻挡。\n\n盾牌防御增加 [color=",
+    "translation": "学会偏转攻击，而非正面硬扛。\n\n盾牌防御加成提高[color=",
     "stage": 1,
     "context": "ShieldExpert = 'Learn to better deflect hits to the side instead of blocking them head on.\n\nThe shield defense bonus is increased by [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color]. This also applies to the additional defense bonus of the Shieldwall skill.\n\nShield damage received is reduced by [color=' + this.Const.UI.Color.NegativeValue + \"]50%[/color] to a minimum of 1.\n\nThe 'Knock Back' skill gains [color=\" + this.Const.UI.Color.PositiveValue + ']+15%[/color] chance to hit.'"
   },
@@ -4595,7 +4595,7 @@
     "ID": 293406210,
     "key": "Learn to take advantage of your high Initiative and prevent the enemy from attacking effectively by overwhelming them with your attacks!\n\nWith every attack, hit or miss, against an opponent that acts after you in the current round, inflict the 'Overwhelme",
     "original": "Learn to take advantage of your high Initiative and prevent the enemy from attacking effectively by overwhelming them with your attacks!\n\nWith every attack, hit or miss, against an opponent that acts after you in the current round, inflict the 'Overwhelmed' status effect which lowers both Melee Skill and Ranged Skill by [color=",
-    "translation": "学会利用你的高主动，通过用你的攻击压制敌人来阻止敌人有效的攻击！每一次攻击，不管是命中还是未命中，对当前回合中在你之后行动的对手，都会造成'压倒'的状态效果，使近战技能和远程技能都降低 [color=",
+    "translation": "利用你的高主动，用攻击压制敌人的攻击！\n\n无论命中与否，每次攻击都会对本轮中后行动的敌人造成“被压制”效果。使其近战技能和远程技能都降低[color=",
     "stage": 1,
     "context": "Overwhelm = \"Learn to take advantage of your high Initiative and prevent the enemy from attacking effectively by overwhelming them with your attacks!\n\nWith every attack, hit or miss, against an opponent that acts after you in the current round, inflict the 'Overwhelmed' status effect which lowers both Melee Skill and Ranged Skill by [color=\" + this.Const.UI.Color.NegativeValue + ']10%[/color] for one turn.\n\nThe effect stacks with each attack, and can be applied to multiple targets at once with a single attack.'"
   },
@@ -4795,7 +4795,7 @@
     "ID": 293406235,
     "key": "Master the art of swordfighting and using your opponent's mistakes to your advantage. Skills build up [color=",
     "original": "Master the art of swordfighting and using your opponent's mistakes to your advantage. Skills build up [color=",
-    "translation": "精通剑术，利用对手的失误把握优势。剑技能积累的疲劳值减少 [color=",
+    "translation": "精通剑术，将对手失误化为自身优势。剑技能积累的疲劳值减少 [color=",
     "stage": 1,
     "context": "SpecSword = \"Master the art of swordfighting and using your opponent's mistakes to your advantage. Skills build up [color=\" + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nRiposte no longer has a penalty to hitchance.\n\nGash has a [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] lower threshold to inflict injuries.\n\nSplit and Swing no longer have a penalty to hitchance and gain [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.'"
   },
@@ -4803,7 +4803,7 @@
     "ID": 293406236,
     "key": "I work best alone. With no ally within 3 tiles of distance, gain a [color=",
     "original": "I work best alone. With no ally within 3 tiles of distance, gain a [color=",
-    "translation": "我擅长单独行动。如果3格范围内没有队友，获得[color=",
+    "translation": "我最好单独行动。如果3格范围内没有队友，近战技能、远程技能、近战防御、远程防御和决心均提高[color=",
     "stage": 1,
     "context": "LoneWolf = 'I work best alone. With no ally within 3 tiles of distance, gain a [color=' + this.Const.UI.Color.PositiveValue + ']15%[/color] bonus to Melee Skill, Ranged Skill, Melee Defense, Ranged Defense, and Resolve.'"
   },
@@ -5307,7 +5307,7 @@
     "ID": 293406299,
     "key": "]25%[/color], which also reduces the chance to sustain debilitating injuries when being hit.",
     "original": "]25%[/color], which also reduces the chance to sustain debilitating injuries when being hit.",
-    "translation": "]25%[/color]，因此降低了被击中时受到严重创伤的几率。",
+    "translation": "]25%[/color]，也有赖于此，降低了受创伤削弱的风险。",
     "stage": 1,
     "context": "Colossus = 'Bring it on! Hitpoints are increased by [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color], which also reduces the chance to sustain debilitating injuries when being hit.'"
   },
@@ -5387,7 +5387,7 @@
     "ID": 293406309,
     "key": "]25%[/color]. This also applies to the additional defense bonus of the Shieldwall skill.\n\nShield damage received is reduced by [color=",
     "original": "]25%[/color]. This also applies to the additional defense bonus of the Shieldwall skill.\n\nShield damage received is reduced by [color=",
-    "translation": "]25%[/color], 这也适用于盾墙技能的额外防御加成。\n\n盾牌受到的伤害减少 [color=",
+    "translation": "]25%[/color]，也适用于“盾墙”技能提供的额外防御加成。\n\n盾牌受到的伤害降低[color=",
     "stage": 1,
     "context": "ShieldExpert = 'Learn to better deflect hits to the side instead of blocking them head on.\n\nThe shield defense bonus is increased by [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color]. This also applies to the additional defense bonus of the Shieldwall skill.\n\nShield damage received is reduced by [color=' + this.Const.UI.Color.NegativeValue + \"]50%[/color] to a minimum of 1.\n\nThe 'Knock Back' skill gains [color=\" + this.Const.UI.Color.PositiveValue + ']+15%[/color] chance to hit.'"
   },
@@ -5515,7 +5515,7 @@
     "ID": 293406325,
     "key": "Learn to move on difficult terrain. Action Point costs for movement on all terrain is reduced by [color=",
     "original": "Learn to move on difficult terrain. Action Point costs for movement on all terrain is reduced by [color=",
-    "translation": "学会在复杂地形上移动。 所有地形上的移动行动点消耗减少 [color=",
+    "translation": "学会在复杂地形上移动。 所有地形上的移动行动点消耗减少[color=",
     "stage": 1,
     "context": "Pathfinder = 'Learn to move on difficult terrain. Action Point costs for movement on all terrain is reduced by [color=' + this.Const.UI.Color.NegativeValue + ']-1[/color] to a minimum of 2 Action Points per tile, and Fatigue cost is reduced to half. Changing height levels also has no additional Action Point cost anymore.'"
   },
@@ -5963,7 +5963,7 @@
     "ID": 293406381,
     "key": "Learn to use the superior reach of large weapons to keep the enemy from getting close enough to land a good hit.\n\nEach hit with a two-handed melee weapon adds a stack of Reach Advantage that increases your Melee Defense by [color=",
     "original": "Learn to use the superior reach of large weapons to keep the enemy from getting close enough to land a good hit.\n\nEach hit with a two-handed melee weapon adds a stack of Reach Advantage that increases your Melee Defense by [color=",
-    "translation": "学会使用大型武器的超远射程在防止敌人近身的同时打击敌人。\n\n每一次使用双手近战武器攻击都会使你的近战防御增加[color=",
+    "translation": "学会利用大型武器的长度优势，防止敌人近身，进行有效打击。\n\n每次使用双手近战武器攻击都会使你的近战防御增加[color=",
     "stage": 1,
     "context": "ReachAdvantage = 'Learn to use the superior reach of large weapons to keep the enemy from getting close enough to land a good hit.\n\nEach hit with a two-handed melee weapon adds a stack of Reach Advantage that increases your Melee Defense by [color=' + this.Const.UI.Color.PositiveValue + \"]+5[/color], up to a maximum of 5 stacks, until this character's next turn. A single attack hitting multiple targets can add several stacks at once.\n\nIf you put away your weapon, you lose all stacks.\""
   },
@@ -6267,7 +6267,7 @@
     "ID": 293406419,
     "key": "Keep it together! Any negative status effect with a finite duration (e.g. Bleeding, Charmed) has its duration reduced to [color=",
     "original": "Keep it together! Any negative status effect with a finite duration (e.g. Bleeding, Charmed) has its duration reduced to [color=",
-    "translation": "挺住! 任何具有有限持续时间的负面状态效果（例如流血、魅惑）的持续时间都会减少到[color=",
+    "translation": "挺住! 任何具有有限持续时间的负面状态效果（例如流血、魅惑）的持续时间减少到[color=",
     "stage": 1,
     "context": "HoldOut = 'Keep it together! Any negative status effect with a finite duration (e.g. Bleeding, Charmed) has its duration reduced to [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] turn. Status effects that have their effects grow weaker over several turns (e.g. Goblin Poison) are at their weakest state from the start.'"
   },
@@ -6547,7 +6547,7 @@
     "ID": 293406454,
     "key": "Looking for this? Swapping any item in battle except for shields becomes a free action with no Action Point cost once every turn.",
     "original": "Looking for this? Swapping any item in battle except for shields becomes a free action with no Action Point cost once every turn.",
-    "translation": "在找这个吗？战斗中，每回合第一次替换物品视为免费动作，不需要行动点数，盾牌除外。",
+    "translation": "找这个？战斗中，每回合第一次替换物品视为免费动作，不需要行动点数，盾牌除外。",
     "stage": 1,
     "context": "QuickHands = 'Looking for this? Swapping any item in battle except for shields becomes a free action with no Action Point cost once every turn.'"
   },
@@ -6795,7 +6795,7 @@
     "ID": 293406485,
     "key": "Make them scatter and flee! Any attack that inflicts at least 1 point of damage to hitpoints triggers a morale check for the opponent with a penalty equal to [color=",
     "original": "Make them scatter and flee! Any attack that inflicts at least 1 point of damage to hitpoints triggers a morale check for the opponent with a penalty equal to [color=",
-    "translation": "打得他们四散而逃！任何攻击，只要造成了至少1点伤害，就会触发对手的士气检查，并施以[color=",
+    "translation": "打得他们四散奔逃！任何攻击，只要造成了至少1点伤害，就会触发对手的士气检查，并施以[color=",
     "stage": 1,
     "context": "Fearsome = 'Make them scatter and flee! Any attack that inflicts at least 1 point of damage to hitpoints triggers a morale check for the opponent with a penalty equal to [color=' + this.Const.UI.Color.NegativeValue + ']20%[/color] of your Resolve - 10, as opposed to with no penalty and only if at or above 15 points of damage.'"
   },
@@ -6803,7 +6803,7 @@
     "ID": 293406486,
     "key": "]50%[/color] to a minimum of 1.\n\nThe 'Knock Back' skill gains [color=",
     "original": "]50%[/color] to a minimum of 1.\n\nThe 'Knock Back' skill gains [color=",
-    "translation": "]50%[/color], 但至少为 1。\n\n “撞退”技能命中率提高 [color=",
+    "translation": "]50%[/color]，但至少为 1。\n\n“击退”技能的命中率提高 [color=",
     "stage": 1,
     "context": "ShieldExpert = 'Learn to better deflect hits to the side instead of blocking them head on.\n\nThe shield defense bonus is increased by [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color]. This also applies to the additional defense bonus of the Shieldwall skill.\n\nShield damage received is reduced by [color=' + this.Const.UI.Color.NegativeValue + \"]50%[/color] to a minimum of 1.\n\nThe 'Knock Back' skill gains [color=\" + this.Const.UI.Color.PositiveValue + ']+15%[/color] chance to hit.'"
   },
@@ -6819,7 +6819,7 @@
     "ID": 293406488,
     "key": "]20[/color] per turn, respectively.\n\nDisarm only has half the penalty to hit.",
     "original": "]20[/color] per turn, respectively.\n\nDisarm only has half the penalty to hit.",
-    "translation": "]20[/color]\n\n“缴械”的命中率惩罚减半。",
+    "translation": "]20[/color]点。\n\n“缴械”的命中率惩罚减半。",
     "stage": 1,
     "context": "SpecCleaver = 'Master cleavers to inflict gruesome wounds. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nBleeding damage inflicted by cleavers and whips is doubled to [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']20[/color] per turn, respectively.\n\nDisarm only has half the penalty to hit.'"
   },
@@ -6963,7 +6963,7 @@
     "ID": 293406506,
     "key": "]25%[/color] less Fatigue.\n\nStab, Puncture and Deathblow have a reduced Action Point cost to allow for an additional attack each turn.",
     "original": "]25%[/color] less Fatigue.\n\nStab, Puncture and Deathblow have a reduced Action Point cost to allow for an additional attack each turn.",
-    "translation": "]25%[/color]\n\n“刺击”、“穿刺”和“致命一击”的行动点消耗降低，使每回合可以额外攻击一次。",
+    "translation": "]25%[/color]。\n\n“刺击”、“穿刺”和“致命一击”的行动点消耗降低1，从而可在每回合中额外攻击一次。",
     "stage": 1,
     "context": "SpecDagger = 'Master swift and deadly daggers. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nStab, Puncture and Deathblow have a reduced Action Point cost to allow for an additional attack each turn.'"
   },
@@ -6979,7 +6979,7 @@
     "ID": 293406508,
     "key": "Go for the head! Hitting the head of a target will give you a guaranteed hit to the head also with your next attack. Connecting with your hit will reset the effect.",
     "original": "Go for the head! Hitting the head of a target will give you a guaranteed hit to the head also with your next attack. Connecting with your hit will reset the effect.",
-    "translation": "照头打！击中目标头部将使确保下次攻击时也能击中头部。效果会在下次命中后重置。",
+    "translation": "照头打！击中目标头部将使确保下次命中时也能击中头部。效果会在命中后重置。",
     "stage": 1,
     "context": "HeadHunter = 'Go for the head! Hitting the head of a target will give you a guaranteed hit to the head also with your next attack. Connecting with your hit will reset the effect.'"
   },
@@ -6987,7 +6987,7 @@
     "ID": 293406509,
     "key": "Brigand Marksman",
     "original": "Brigand Marksman",
-    "translation": "强盗神射手",
+    "translation": "强盗射手",
     "stage": 1,
     "context": "'Brigand Marksman'"
   },
@@ -7067,7 +7067,7 @@
     "ID": 293406519,
     "key": "]25%[/color] less Fatigue.\n\nSplit Shield damage to shields is increased by [color=",
     "original": "]25%[/color] less Fatigue.\n\nSplit Shield damage to shields is increased by [color=",
-    "translation": "]25%[/color]\n\n斧技能“裂盾”造成的盾牌伤害增加 [color=",
+    "translation": "]25%[/color]\n\n斧技能“裂盾”造成的盾牌伤害提高 [color=",
     "stage": 1,
     "context": "SpecAxe = 'Master combat with axes and destroying shields. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nSplit Shield damage to shields is increased by [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] when used with axes.\n\nRound Swing gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.\n\nThe Longaxe no longer has a penalty for attacking targets directly adjacent.'"
   },
@@ -7179,7 +7179,7 @@
     "ID": 293406533,
     "key": "RAAARGH! Once per turn, upon killing an enemy, [color=",
     "original": "RAAARGH! Once per turn, upon killing an enemy, [color=",
-    "translation": "哇啊啊啊啊！每回合第一次击杀敌人，立即恢复[color=",
+    "translation": "呃啊啊啊！每回合第一次击杀敌人时，立即恢复[color=",
     "stage": 1,
     "context": "Berserk = 'RAAARGH! Once per turn, upon killing an enemy, [color=' + this.Const.UI.Color.PositiveValue + ']4[/color] Action Points are immediately regained. Characters can not regain more than their maximum Action Points and no more than 4 for a single attack.'"
   },
@@ -7419,7 +7419,7 @@
     "ID": 293406563,
     "key": "]20%[/color] experience from battle. At the eleventh character level, you gain an additional perk point and this perk becomes inert.\n\nPlaying the 'Manhunters' origin, your indebted get the perk point refunded at the seventh character level.",
     "original": "]20%[/color] experience from battle. At the eleventh character level, you gain an additional perk point and this perk becomes inert.\n\nPlaying the 'Manhunters' origin, your indebted get the perk point refunded at the seventh character level.",
-    "translation": "]20%[/color]的额外经验。你的角色等级到十一级时，该特技失效并获得一个额外特技点。\n\n游玩“猎奴者”起源，你的负债者会在角色等级到七级时返还特技点。",
+    "translation": "]20%[/color]。该角色升到十一级时，该特技失效并获得一个额外特技点。\n\n游玩“猎奴者”起源时，你的负债者会在升到七级时返还特技点。",
     "stage": 1,
     "context": "Student = 'Everything can be learned if you put your mind to it. Gain additional [color=' + this.Const.UI.Color.PositiveValue + \"]20%[/color] experience from battle. At the eleventh character level, you gain an additional perk point and this perk becomes inert.\n\nPlaying the 'Manhunters' origin, your indebted get the perk point refunded at the seventh character level.\""
   },
@@ -7667,7 +7667,7 @@
     "ID": 293406594,
     "key": "Unlocks the 'Adrenaline' skill which puts you first in the turn order for the next round, to have another turn before your enemies do. Feel the adrenaline rushing through your veins!",
     "original": "Unlocks the 'Adrenaline' skill which puts you first in the turn order for the next round, to have another turn before your enemies do. Feel the adrenaline rushing through your veins!",
-    "translation": "解锁“肾上腺素”技能，让你在下一轮的回合顺序中处于首位，在你的敌人之前进行另一个回合。感受肾上腺素在你的血管中奔涌！",
+    "translation": "解锁“肾上腺素”技能，让你在下一轮中最先行动，在敌人行动之前进行回合。感受肾上腺素在血管中奔涌！",
     "stage": 1,
     "context": "Adrenaline = \"Unlocks the 'Adrenaline' skill which puts you first in the turn order for the next round, to have another turn before your enemies do. Feel the adrenaline rushing through your veins!\""
   },
@@ -7675,7 +7675,7 @@
     "ID": 293406595,
     "key": "]50%[/color] lower threshold to inflict injuries.\n\nSplit and Swing no longer have a penalty to hitchance and gain [color=",
     "original": "]50%[/color] lower threshold to inflict injuries.\n\nSplit and Swing no longer have a penalty to hitchance and gain [color=",
-    "translation": "]50%[/color]\n\n剑技能“裂盾”和“挥斩”不再有命中率惩罚，并且命中率提高 [color=",
+    "translation": "]50%[/color]\n\n剑技能“竖劈”和“挥斩”不再有命中率惩罚，并且命中率提高 [color=",
     "stage": 1,
     "context": "SpecSword = \"Master the art of swordfighting and using your opponent's mistakes to your advantage. Skills build up [color=\" + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nRiposte no longer has a penalty to hitchance.\n\nGash has a [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] lower threshold to inflict injuries.\n\nSplit and Swing no longer have a penalty to hitchance and gain [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.'"
   },
@@ -7691,7 +7691,7 @@
     "ID": 293406597,
     "key": "]10%[/color] for one turn.\n\nThe effect stacks with each attack, and can be applied to multiple targets at once with a single attack.",
     "original": "]10%[/color] for one turn.\n\nThe effect stacks with each attack, and can be applied to multiple targets at once with a single attack.",
-    "translation": "]10%[/color]。该效果在每次攻击中都会叠加，并且可以通过一次攻击同时作用于多个目标。",
+    "translation": "]10%[/color]。该效果在每次攻击中都会叠加，且可以通过一次攻击同时施加给多个目标。",
     "stage": 1,
     "context": "Overwhelm = \"Learn to take advantage of your high Initiative and prevent the enemy from attacking effectively by overwhelming them with your attacks!\n\nWith every attack, hit or miss, against an opponent that acts after you in the current round, inflict the 'Overwhelmed' status effect which lowers both Melee Skill and Ranged Skill by [color=\" + this.Const.UI.Color.NegativeValue + ']10%[/color] for one turn.\n\nThe effect stacks with each attack, and can be applied to multiple targets at once with a single attack.'"
   },
@@ -7763,7 +7763,7 @@
     "ID": 293406606,
     "key": "Nailed it! The penalty to hitchance when shooting at a target you have no clear line of fire to is reduced from [color=",
     "original": "Nailed it! The penalty to hitchance when shooting at a target you have no clear line of fire to is reduced from [color=",
-    "translation": "射得好！当瞄准弹道受阻的目标时，受到的命中惩罚从[color=",
+    "translation": "中！当瞄准弹道受阻的目标时，受到的命中惩罚从[color=",
     "stage": 1,
     "context": "Bullseye = 'Nailed it! The penalty to hitchance when shooting at a target you have no clear line of fire to is reduced from [color=' + this.Const.UI.Color.NegativeValue + ']75%[/color] to [color=' + this.Const.UI.Color.NegativeValue + ']50%[/color] for ranged weapons.'"
   },
@@ -7779,7 +7779,7 @@
     "ID": 293406608,
     "key": "]+10%[/color] of armor on head hits.\n\nThresh gains [color=",
     "original": "]+10%[/color] of armor on head hits.\n\nThresh gains [color=",
-    "translation": "]+10%[/color] 护甲。\n\n'狂舞挥打'的命中率提高[color=",
+    "translation": "]+10%[/color]。\n\n“狂舞挥打”的命中率提高[color=",
     "stage": 1,
     "context": "SpecFlail = \"Master flails and circumvent your opponent's shield. Skills build up [color=\" + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nLash and Hail ignore the defense bonus of shields.\n\nPound ignores an additional [color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] of armor on head hits.\n\nThresh gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.'"
   },
@@ -8179,7 +8179,7 @@
     "ID": 293406658,
     "key": "]-1[/color] to a minimum of 2 Action Points per tile, and Fatigue cost is reduced to half. Changing height levels also has no additional Action Point cost anymore.",
     "original": "]-1[/color] to a minimum of 2 Action Points per tile, and Fatigue cost is reduced to half. Changing height levels also has no additional Action Point cost anymore.",
-    "translation": "]1[/color](但每个单元格至少需要 2 个行动点)，疲劳值消耗减少到一半。 改变高度也不再需要消耗额外的行动点。",
+    "translation": "]1[/color]，最低不低于2，同时疲劳值积累减半。高度变化不再消耗额外的行动点数。",
     "stage": 1,
     "context": "Pathfinder = 'Learn to move on difficult terrain. Action Point costs for movement on all terrain is reduced by [color=' + this.Const.UI.Color.NegativeValue + ']-1[/color] to a minimum of 2 Action Points per tile, and Fatigue cost is reduced to half. Changing height levels also has no additional Action Point cost anymore.'"
   },
@@ -8187,7 +8187,7 @@
     "ID": 293406659,
     "key": "Go into a killing frenzy! A kill increases all damage by [color=",
     "original": "Go into a killing frenzy! A kill increases all damage by [color=",
-    "translation": "杀戮时间到！获得击杀后，增加所有伤害的[color=",
+    "translation": "杀戮时间到！获得击杀后，提高所有伤害[color=",
     "stage": 1,
     "context": "KillingFrenzy = 'Go into a killing frenzy! A kill increases all damage by [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] for 2 turns. Does not stack, but another kill will reset the timer.'"
   },
@@ -8291,7 +8291,7 @@
     "ID": 293406672,
     "key": "Master hammers and fighting against heavily armored opponents. Skills build up [color=",
     "original": "Master hammers and fighting against heavily armored opponents. Skills build up [color=",
-    "translation": "精通锤子，对抗重甲对手。锤技能积累的疲劳值减少 [color=",
+    "translation": "精通锤子，对抗重装敌手。锤技能积累的疲劳值减少 [color=",
     "stage": 1,
     "context": "SpecHammer = 'Master hammers and fighting against heavily armored opponents. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] more damage against armor.\n\nShatter gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.\n\nThe Polehammer no longer has a penalty for attacking targets directly adjacent.'"
   },
@@ -8699,7 +8699,7 @@
     "ID": 293406723,
     "key": "]25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=",
     "original": "]25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=",
-    "translation": "]25%[/color]\n\n“摧甲击”和“碎甲击”造成的护甲伤害增加 [color=",
+    "translation": "]25%[/color]\n\n“摧甲击”和“碎甲击”造成的破甲伤害提高 [color=",
     "stage": 1,
     "context": "SpecHammer = 'Master hammers and fighting against heavily armored opponents. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nDestroy Armor and Demolish Armor inflict [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] more damage against armor.\n\nShatter gains [color=' + this.Const.UI.Color.PositiveValue + ']+5%[/color] chance to hit.\n\nThe Polehammer no longer has a penalty for attacking targets directly adjacent.'"
   },
@@ -8883,7 +8883,7 @@
     "ID": 293406746,
     "key": "Unlocks the 'Taunt' skill which makes the targeted opponent take offensive actions instead of defensive ones, and attack the taunting character over another, potentially more vulnerable one.",
     "original": "Unlocks the 'Taunt' skill which makes the targeted opponent take offensive actions instead of defensive ones, and attack the taunting character over another, potentially more vulnerable one.",
-    "translation": "解锁“嘲讽”技能，使目标对手采取进攻行动而不是防御行动，并攻击嘲讽角色而不是另一个可能更脆弱的角色。",
+    "translation": "解锁“嘲讽”技能，使目标对手采取进攻行动而不是防御行动，攻击该角色而非更脆弱的其他角色。",
     "stage": 1,
     "context": "Taunt = \"Unlocks the 'Taunt' skill which makes the targeted opponent take offensive actions instead of defensive ones, and attack the taunting character over another, potentially more vulnerable one.\""
   },
@@ -9043,7 +9043,7 @@
     "ID": 293406766,
     "key": "]25%[/color] for 2 turns. Does not stack, but another kill will reset the timer.",
     "original": "]25%[/color] for 2 turns. Does not stack, but another kill will reset the timer.",
-    "translation": "]25%[/color]。持续 2 回合。再次击杀不会叠加效果，而是会刷新计时器。",
+    "translation": "]25%[/color]。持续 2 回合。再次击杀不会叠加效果，而是会刷新持续时间。",
     "stage": 1,
     "context": "KillingFrenzy = 'Go into a killing frenzy! A kill increases all damage by [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] for 2 turns. Does not stack, but another kill will reset the timer.'"
   },
@@ -9131,7 +9131,7 @@
     "ID": 293406777,
     "key": "Specialize in light armor! By nimbly dodging or deflecting blows, convert any hits to glancing hits. Hitpoint damage taken is reduced by up to [color=",
     "original": "Specialize in light armor! By nimbly dodging or deflecting blows, convert any hits to glancing hits. Hitpoint damage taken is reduced by up to [color=",
-    "translation": "轻甲专精！通过灵活地闪避和偏斜，避免受到直击。减少所受伤害，最多减少[color=",
+    "translation": "轻甲专精！通过灵活闪避和偏转攻击，避免受到直接攻击。减少所受伤害，最多减少[color=",
     "stage": 1,
     "context": "Nimble = 'Specialize in light armor! By nimbly dodging or deflecting blows, convert any hits to glancing hits. Hitpoint damage taken is reduced by up to [color=' + this.Const.UI.Color.PositiveValue + ']60%[/color], but lowered exponentially by the total penalty to Maximum Fatigue from body and head armor above [color=' + this.Const.UI.Color.PositiveValue + ']15[/color]. The lighter your armor and helmet, the more you benefit.\n\nBrawny does not affect this perk.\n\nDoes not affect damage from mental attacks or status effects, but can help to avoid receiving them.'"
   },
@@ -9139,7 +9139,7 @@
     "ID": 293406778,
     "key": "]+5[/color], up to a maximum of 5 stacks, until this character's next turn. A single attack hitting multiple targets can add several stacks at once.\n\nIf you put away your weapon, you lose all stacks.",
     "original": "]+5[/color], up to a maximum of 5 stacks, until this character's next turn. A single attack hitting multiple targets can add several stacks at once.\n\nIf you put away your weapon, you lose all stacks.",
-    "translation": "]+5[/color]，最多叠加5次，效果持续到这个角色的下一个回合。一次攻击命中多个目标可以叠加多次, 但如果你收起你的武器，将会失去该加成。",
+    "translation": "]+5[/color]，最多叠加5层，效果持续的该角色的下个回合。一次攻击多个目标可以叠加多层。收起武器会失去所有加成。",
     "stage": 1,
     "context": "ReachAdvantage = 'Learn to use the superior reach of large weapons to keep the enemy from getting close enough to land a good hit.\n\nEach hit with a two-handed melee weapon adds a stack of Reach Advantage that increases your Melee Defense by [color=' + this.Const.UI.Color.PositiveValue + \"]+5[/color], up to a maximum of 5 stacks, until this character's next turn. A single attack hitting multiple targets can add several stacks at once.\n\nIf you put away your weapon, you lose all stacks.\""
   },
@@ -9155,7 +9155,7 @@
     "ID": 293406780,
     "key": "]+10%[/color] chance to hit with each attack that misses an opponent. Bonus is reset upon landing a hit.",
     "original": "]+10%[/color] chance to hit with each attack that misses an opponent. Bonus is reset upon landing a hit.",
-    "translation": "]10%[/color]的命中率。该增益可叠加，命中后重置。",
+    "translation": "]10%[/color]命中率。效果可以叠加，命中后重置。",
     "stage": 1,
     "context": "FastAdaption = \"Adapt to your opponent's moves! Gain an additional stacking [color=\" + this.Const.UI.Color.PositiveValue + ']+10%[/color] chance to hit with each attack that misses an opponent. Bonus is reset upon landing a hit.'"
   },
@@ -9483,7 +9483,7 @@
     "ID": 293406821,
     "key": "]15[/color]. The lighter your armor and helmet, the more you benefit.\n\nBrawny does not affect this perk.\n\nDoes not affect damage from mental attacks or status effects, but can help to avoid receiving them.",
     "original": "]15[/color]. The lighter your armor and helmet, the more you benefit.\n\nBrawny does not affect this perk.\n\nDoes not affect damage from mental attacks or status effects, but can help to avoid receiving them.",
-    "translation": "]15[/color]点时，技能效果开始迅速下降。盔甲和头盔越轻，收益越多。\n\n“强壮”不影响该特性。\n\n不影响精神攻击和状态效果的伤害，但可以帮助避免受到它们。",
+    "translation": "]15[/color]点时，技能效果开始迅速下降。盔甲和头盔越轻，收益越多。\n\n“强壮”不影响该特技。\n\n不影响精神攻击和状态效果的伤害，但可以帮助避免受到它们。",
     "stage": 1,
     "context": "Nimble = 'Specialize in light armor! By nimbly dodging or deflecting blows, convert any hits to glancing hits. Hitpoint damage taken is reduced by up to [color=' + this.Const.UI.Color.PositiveValue + ']60%[/color], but lowered exponentially by the total penalty to Maximum Fatigue from body and head armor above [color=' + this.Const.UI.Color.PositiveValue + ']15[/color]. The lighter your armor and helmet, the more you benefit.\n\nBrawny does not affect this perk.\n\nDoes not affect damage from mental attacks or status effects, but can help to avoid receiving them.'"
   },

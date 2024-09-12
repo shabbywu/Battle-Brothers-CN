@@ -171,8 +171,8 @@
     "ID": 293422191,
     "key": " and misses ",
     "original": " and misses ",
-    "translation": "但没命中",
-    "stage": 5,
+    "translation": "没能命中",
+    "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(_user) + ' uses ' + this.getName() + ' and misses ' + this.Const.UI.getColorizedEntityName(_targetEntity) + ' (Chance: ' + this.Math.min(95, this.Math.max(5, toHit)) + ', Rolled: ' + rolled + ')')"
   },
   {
@@ -355,7 +355,7 @@
     "ID": 293422214,
     "key": " and the shot goes astray and misses ",
     "original": " and the shot goes astray and misses ",
-    "translation": "，攻击偏离了目标，擦过了",
+    "translation": "，攻击偏离了目标，没能命中",
     "stage": 1,
     "context": "this.Tactical.EventLog.logEx(this.Const.UI.getColorizedEntityName(_user) + ' uses ' + this.getName() + ' and the shot goes astray and misses ' + this.Const.UI.getColorizedEntityName(_targetEntity) + ' (Chance: ' + this.Math.min(95, this.Math.max(5, toHit)) + ', Rolled: ' + rolled + ')')"
   },

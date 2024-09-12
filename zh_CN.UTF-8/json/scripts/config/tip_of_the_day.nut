@@ -475,7 +475,7 @@
     "ID": 293406916,
     "key": "Learn the 'Rotation' or 'Footwork' perks for additional mobility in battle.",
     "original": "Learn the 'Rotation' or 'Footwork' perks for additional mobility in battle.",
-    "translation": "学习“换位”或“步法”能提高战斗中的机动性。",
+    "translation": "学习“换位”或“步法”特技，提高战斗中的机动性。",
     "stage": 1,
     "context": "\"Learn the 'Rotation' or 'Footwork' perks for additional mobility in battle.\""
   },

@@ -75,7 +75,7 @@
     "ID": 293417745,
     "key": "Honor",
     "original": "Honor",
-    "translation": "荣誉",
+    "translation": "荣耀",
     "stage": 1,
     "context": "'Honor'"
   },

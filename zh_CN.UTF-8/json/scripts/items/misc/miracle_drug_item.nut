@@ -3,7 +3,7 @@
     "ID": 293418678,
     "key": "A powerful remedy against many common illnesses and diseases, to reduce inflammation, and to support the body's natural healing.\n\nCharacters treated with this drug will recover faster from injuries, just like if they've been treated at a temple.",
     "original": "A powerful remedy against many common illnesses and diseases, to reduce inflammation, and to support the body's natural healing.\n\nCharacters treated with this drug will recover faster from injuries, just like if they've been treated at a temple.",
-    "translation": "治疗诸多常见疾病的良药，能抑制炎症反应、提升自愈能力。\n\n用此药品治疗的角色受伤后康复得更快，和神殿治疗的效果等同。",
+    "translation": "治疗诸多常见疾病的良药，能抑制炎症反应、提升自愈能力。\n\n用此药品治疗的角色受创伤后康复得更快，和神殿治疗的效果等同。",
     "stage": 1,
     "context": "this.m.Description = \"A powerful remedy against many common illnesses and diseases, to reduce inflammation, and to support the body's natural healing.\n\nCharacters treated with this drug will recover faster from injuries, just like if they've been treated at a temple.\""
   },

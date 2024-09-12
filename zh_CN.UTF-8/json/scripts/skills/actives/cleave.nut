@@ -11,7 +11,7 @@
     "ID": 293419863,
     "key": "Inflicts additional stacking [color=",
     "original": "Inflicts additional stacking [color=",
-    "translation": "每回合额外造成 [color=",
+    "translation": "每回合额外造成可叠加的 [color=",
     "stage": 1,
     "context": "text = 'Inflicts additional stacking [color=' + this.Const.UI.Color.DamageValue + ']' + dmg + '[/color] bleeding damage per turn, for 2 turns'"
   },

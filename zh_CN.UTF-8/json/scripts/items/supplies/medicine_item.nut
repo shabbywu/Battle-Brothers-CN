@@ -3,7 +3,7 @@
     "ID": 293418899,
     "key": "[/color] units of herbs, salves, bandages and the like to help your mercenaries recover from injuries sustained in battle. Will be added to your global stock once you're back on the worldmap.",
     "original": "[/color] units of herbs, salves, bandages and the like to help your mercenaries recover from injuries sustained in battle. Will be added to your global stock once you're back on the worldmap.",
-    "translation": "[/color]单位，包括药草、药膏、绷带等，用于帮佣兵从伤势中恢复。返回世界地图即会加入全局库存。",
+    "translation": "[/color]单位，包括药草、药膏、绷带等，用于帮佣兵从创伤中恢复。返回世界地图即会加入全局库存。",
     "stage": 1,
     "context": "text = 'A good [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Amount + \"[/color] units of herbs, salves, bandages and the like to help your mercenaries recover from injuries sustained in battle. Will be added to your global stock once you're back on the worldmap.\""
   },

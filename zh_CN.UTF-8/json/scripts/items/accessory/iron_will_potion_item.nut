@@ -27,7 +27,7 @@
     "ID": 293417460,
     "key": "Not affected by non-permanent injuries, new or old",
     "original": "Not affected by non-permanent injuries, new or old",
-    "translation": "不受非永久性损伤的影响，无论新旧",
+    "translation": "不受非永久性创伤的影响，无论新旧",
     "stage": 1,
     "context": "text = 'Not affected by non-permanent injuries, new or old'"
   },
