@@ -19,7 +19,7 @@
     "ID": 293421551,
     "key": "Immune to being knocked back or grabbed",
     "original": "Immune to being knocked back or grabbed",
-    "translation": "免疫击退和勾拽技能",
+    "translation": "免疫击退和钩拽技能",
     "stage": 1,
     "context": "text = 'Immune to being knocked back or grabbed'"
   },

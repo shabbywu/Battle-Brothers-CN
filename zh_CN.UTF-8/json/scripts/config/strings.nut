@@ -1363,7 +1363,7 @@
     "ID": 293405806,
     "key": "]50%[/color] damage reduction and immunity to being stunned, knocked back or grabbed for one turn.",
     "original": "]50%[/color] damage reduction and immunity to being stunned, knocked back or grabbed for one turn.",
-    "translation": "]50%[/color]的伤害减免，以及对昏迷、击退或勾拽的免疫，持续一回合。",
+    "translation": "]50%[/color]的伤害减免，以及对昏迷、击退或钩拽的免疫，持续一回合。",
     "stage": 1,
     "context": "Indomitable = \"Unlocks the 'Indomitable' skill which grants a [color=\" + this.Const.UI.Color.PositiveValue + ']50%[/color] damage reduction and immunity to being stunned, knocked back or grabbed for one turn.'"
   },
@@ -3851,7 +3851,7 @@
     "ID": 293406117,
     "key": "Immunity against being knocked back or pulled up close. Applies to skills such as Knock Back, Hook and others that change a character's position.",
     "original": "Immunity against being knocked back or pulled up close. Applies to skills such as Knock Back, Hook and others that change a character's position.",
-    "translation": "免疫位移技能。适用于诸如击退、勾拽和其他改变角色位置的技能。",
+    "translation": "免疫位移技能。适用于诸如击退、钩拽和其他改变角色位置的技能。",
     "stage": 1,
     "context": "Stalwart = \"Immunity against being knocked back or pulled up close. Applies to skills such as Knock Back, Hook and others that change a character's position.\""
   },

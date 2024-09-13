@@ -1346,8 +1346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-09-11T12:09:26Z",
-        "sha256": "3fae985432988a3a30d16e82e474bc8873fc04d6b18d11f3bc6576c01d4ba697"
+        "modifiedAt": "2024-09-13T00:51:37Z",
+        "sha256": "3c4655cfa4a55a43372cbd2c40d4544fd2092d231fdd1241bbfe66c881ebaada"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -23126,8 +23126,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:09.137Z",
         "updatedAt": "2023-06-26T05:48:49.499Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
-        "sha256": "8d4cde38a469c7b655fe86c8d2edbeb3c0f1656bd7f02c6e3a2a60b757087ba9"
+        "modifiedAt": "2024-09-13T00:51:44Z",
+        "sha256": "1b053c18c0ad54f4f333aa745ba15c41e2ce39824f09e1a13af556c7ce5bf665"
     },
     "scripts/items/misc/anatomist/serpent_potion_item.json": {
         "id": 919631,
@@ -34250,8 +34250,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:59.572Z",
         "updatedAt": "2023-06-26T05:49:31.714Z",
-        "modifiedAt": "2024-09-04T09:14:48Z",
-        "sha256": "56c1109b87469a1c28c3319ff2fa83f8f8acb44bdf43435eb915e6bb58dd49c5"
+        "modifiedAt": "2024-09-12T06:57:46Z",
+        "sha256": "729c0adf26422e3fbcaeb91f2cbd3a5c80c7ac805a840de313ce308f19186b83"
     },
     "scripts/skills/effects/berserker_mushrooms_effect.json": {
         "id": 920249,
@@ -34844,8 +34844,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:12.158Z",
         "updatedAt": "2023-06-26T05:49:35.731Z",
-        "modifiedAt": "2024-09-05T01:43:02Z",
-        "sha256": "991bf6f630a5c6a94df816c448b0a65817fb6d4b9c5c73f99d8d5c43364ec362"
+        "modifiedAt": "2024-09-13T00:51:44Z",
+        "sha256": "a1288aaa279f0f2bd7cb1c9b09ad255baeaaa791f73541c65dad2c3f24b1408b"
     },
     "scripts/skills/effects/insect_swarm_effect.json": {
         "id": 920282,
@@ -35168,8 +35168,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:24.564Z",
         "updatedAt": "2023-06-26T05:49:36.951Z",
-        "modifiedAt": "2024-04-19T08:22:04Z",
-        "sha256": "dfec462580dd3c6f4389237284cc40b251b57850b5362e441ff0e90ed936362b"
+        "modifiedAt": "2024-09-12T04:19:10Z",
+        "sha256": "28904f2bf7285c78cc1fd0440efeccc0d319b4b2aa79a0ec50e096c2eaf04de6"
     },
     "scripts/skills/effects/orc_warlord_potion_effect.json": {
         "id": 920300,
@@ -35420,8 +35420,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:31.473Z",
         "updatedAt": "2023-06-26T05:49:37.864Z",
-        "modifiedAt": "2024-01-25T01:36:18Z",
-        "sha256": "ab5d074ddc966bdb2d7a61b82f8ab182364c4d165e013dc4564d4af42177c036"
+        "modifiedAt": "2024-09-13T00:52:11Z",
+        "sha256": "e2edb40407ca96ba8f235ade65b766e82a2bda3551b4d520fbf50f25a8f36263"
     },
     "scripts/skills/effects/serpent_ensnare_effect.json": {
         "id": 920314,
