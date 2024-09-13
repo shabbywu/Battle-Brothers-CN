@@ -19,7 +19,7 @@
     "ID": 293421646,
     "key": " gains rage!",
     "original": " gains rage!",
-    "translation": " 获得狂暴！",
+    "translation": "狂怒了！",
     "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' gains rage!')"
   },
