@@ -2348,14 +2348,14 @@
         "total": 51,
         "translated": 51,
         "disputed": 0,
-        "checked": 9,
-        "reviewed": 9,
+        "checked": 8,
+        "reviewed": 8,
         "hidden": 0,
         "locked": 1,
         "createdAt": "2023-05-13T14:18:12.283Z",
         "updatedAt": "2023-06-26T05:46:53.28Z",
-        "modifiedAt": "2024-08-28T09:09:24Z",
-        "sha256": "27b3e9fde8ff60d54a719c5c55acd67935648ef382d2ae87775bdd741fe7a951"
+        "modifiedAt": "2024-09-16T14:40:47Z",
+        "sha256": "64bfc7149451d5aa5cc5d9c2c696adcbe28ad4132cefb816248719261f14be12"
     },
     "scripts/contracts/templates/intro_templates.json": {
         "id": 918477,
@@ -10106,14 +10106,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:03.306Z",
         "updatedAt": "2023-06-26T05:47:41.656Z",
-        "modifiedAt": "2023-06-26T05:47:42Z",
-        "sha256": "c2e2a31567ceabb7ae8809ae04793298f533330b470cda8c0b06ecedc01f5b98"
+        "modifiedAt": "2024-09-16T14:40:56Z",
+        "sha256": "838d4bb928ac7503d6b7f2836cb2d77c6c94420dbb50f772cfd982c52bb5ebad"
     },
     "scripts/events/events/dlc2/location/unhold_graveyard_event.json": {
         "id": 918908,
@@ -39344,8 +39344,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:05.329Z",
         "updatedAt": "2023-07-05T12:36:11.027Z",
-        "modifiedAt": "2024-09-08T05:47:30Z",
-        "sha256": "e45480f4901f715266d254dbff68c156ea12414419ac13525c3430fc702c1b7c"
+        "modifiedAt": "2024-09-16T05:02:46Z",
+        "sha256": "02bbaa11c0cbd2a4252fcfbf43c7c98d7cc486fb9e9bd9b7e5f78a2de5799985"
     },
     "scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.json": {
         "id": 920532,
