@@ -259,7 +259,7 @@
     "ID": 293422985,
     "key": "[/color][/b] AP and [b][color=",
     "original": "[/color][/b] AP and [b][color=",
-    "translation": "[/color][/b] 行动点数并 [b][color=",
+    "translation": "[/color][/b] 行动点数，积累 [b][color=",
     "stage": 1,
     "context": "text = 'Costs [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getActionPointCosts()[lastTileHovered.Type] + '+' + actor.getLevelActionPointCost() + '[/color][/b] AP and [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getFatigueCosts()[lastTileHovered.Type] + '+' + actor.getLevelFatigueCost() + '[/color][/b] Fatigue to traverse because it is at a different height level'"
   },
