@@ -28166,8 +28166,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:17.241Z",
         "updatedAt": "2023-06-26T05:49:08.015Z",
-        "modifiedAt": "2024-08-07T01:57:29Z",
-        "sha256": "160e4cf44521edd8f4ea081a0fb5086b6ab6367e2e47daf97e665ffa1705c5fb"
+        "modifiedAt": "2024-09-19T06:53:32Z",
+        "sha256": "211fbe957adc62d03b27ec2e9dfd05f0224a92ce3f04467ae877fb4f314be136"
     },
     "scripts/items/weapons/oriental/two_handed_scimitar.json": {
         "id": 919911,
@@ -28184,8 +28184,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:17.583Z",
         "updatedAt": "2023-06-26T05:49:08.073Z",
-        "modifiedAt": "2024-08-07T07:11:34Z",
-        "sha256": "29df4591871de36ec30bd3120313a579c79236f53351cb8c89d5634811d8ddd4"
+        "modifiedAt": "2024-09-19T06:53:32Z",
+        "sha256": "c3c050e8930b75a3e01a6c02f69f818a1004db4eefe0af84b21b012d2cf7d570"
     },
     "scripts/items/weapons/pickaxe.json": {
         "id": 919912,
