@@ -19,7 +19,7 @@
     "ID": 293419402,
     "key": "Cleaver, Two-Handed",
     "original": "Cleaver, Two-Handed",
-    "translation": "刀，双手持",
+    "translation": "砍刀，双手持",
     "stage": 1,
     "context": "this.m.Categories = 'Cleaver, Two-Handed'"
   }
