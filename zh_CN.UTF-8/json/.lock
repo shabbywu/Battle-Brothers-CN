@@ -30830,8 +30830,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:28.101Z",
         "updatedAt": "2023-06-26T05:49:17.695Z",
-        "modifiedAt": "2024-04-19T08:22:52Z",
-        "sha256": "291b972a99bb6649a1820e441cfeaf9f4a3b839eeae1bc4bfe8ca4f04016b1dd"
+        "modifiedAt": "2024-09-22T08:47:46Z",
+        "sha256": "61d85e3931c3d370bee0c79aab9fb90f0e6a71cd1f219bceb961ec204c35cf08"
     },
     "scripts/skills/actives/merge_golem_skill.json": {
         "id": 920059,
