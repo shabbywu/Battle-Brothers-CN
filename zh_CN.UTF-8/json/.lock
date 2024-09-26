@@ -7682,8 +7682,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:07.738Z",
         "updatedAt": "2023-06-26T05:47:26.846Z",
-        "modifiedAt": "2023-06-26T05:47:27Z",
-        "sha256": "c133e243ec5e44483b8525ab5be95348daf32c02965f2260e7081ecf3b080637"
+        "modifiedAt": "2024-09-25T04:24:16Z",
+        "sha256": "ebe4d9bf53ade4805cce07b915cc0f2f53446532c562fe8194df867e61778902"
     },
     "scripts/entity/world/settlements/situations/witch_burnings_situation.json": {
         "id": 918773,
