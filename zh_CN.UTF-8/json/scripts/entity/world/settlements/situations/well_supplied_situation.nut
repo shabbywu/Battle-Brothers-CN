@@ -11,7 +11,7 @@
     "ID": 293411925,
     "key": "My cousin over in %settlement% keeps bragging about how good they have it there. Well stocked market stands and all. Not like this rotten place.",
     "original": "My cousin over in %settlement% keeps bragging about how good they have it there. Well stocked market stands and all. Not like this rotten place.",
-    "translation": "我在 %settlement% 的表哥一直在吹嘘那里有多好。存货充足的市场摊位等等。不像这个烂地方。",
+    "translation": "我在%settlement%的表哥一直在吹嘘那儿有多好。市场上的货要多少有多少，不像这个烂地方。",
     "stage": 1,
     "context": "'My cousin over in %settlement% keeps bragging about how good they have it there. Well stocked market stands and all. Not like this rotten place.'"
   },
