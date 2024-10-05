@@ -4562,14 +4562,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:59.66Z",
         "updatedAt": "2023-06-26T05:47:06.7Z",
-        "modifiedAt": "2023-06-26T05:47:07Z",
-        "sha256": "584dcf85131a26d719e39021830c58bd01b10117e196df50a3a5c3515f0684f4"
+        "modifiedAt": "2024-10-04T05:07:12Z",
+        "sha256": "15253b6c875d82d9e2349d80c2602eec4867219c088231859f3b4b650c959859"
     },
     "scripts/entity/world/attached_location/guarded_checkpoint_location.json": {
         "id": 918599,
@@ -7682,8 +7682,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:07.738Z",
         "updatedAt": "2023-06-26T05:47:26.846Z",
-        "modifiedAt": "2024-09-25T04:24:16Z",
-        "sha256": "ebe4d9bf53ade4805cce07b915cc0f2f53446532c562fe8194df867e61778902"
+        "modifiedAt": "2024-10-04T07:40:13Z",
+        "sha256": "495a85d69fb9bf81d30022f1c139e5ff61b2eb282647e2093d15c0db59aa8e6b"
     },
     "scripts/entity/world/settlements/situations/witch_burnings_situation.json": {
         "id": 918773,
@@ -39344,8 +39344,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:05.329Z",
         "updatedAt": "2023-07-05T12:36:11.027Z",
-        "modifiedAt": "2024-09-16T05:02:46Z",
-        "sha256": "02bbaa11c0cbd2a4252fcfbf43c7c98d7cc486fb9e9bd9b7e5f78a2de5799985"
+        "modifiedAt": "2024-10-04T04:53:32Z",
+        "sha256": "4a0787e94a7b0f92166f380be866b3f9958d0651c9588d26681fb653c1bbfa9c"
     },
     "scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.json": {
         "id": 920532,

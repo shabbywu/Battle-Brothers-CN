@@ -867,7 +867,7 @@
     "ID": 293423061,
     "key": "An alchemist offering exotic and quite dangerous contraptions for a tidy sum.",
     "original": "An alchemist offering exotic and quite dangerous contraptions for a tidy sum.",
-    "translation": "炼金术士提供异国情调和相当危险的装置，需要一笔可观的费用。",
+    "translation": "炼金术士能以一笔可观的费用，为你提供各种奇异而危险的合剂。",
     "stage": 1,
     "context": "text = 'An alchemist offering exotic and quite dangerous contraptions for a tidy sum.'"
   },
@@ -2083,7 +2083,7 @@
     "ID": 293423213,
     "key": "A kennel where strong and fast dogs are bred for war.",
     "original": "A kennel where strong and fast dogs are bred for war.",
-    "translation": "一间驯犬屋，为战争繁殖和训练强壮而敏捷的战犬。",
+    "translation": "一间驯犬屋，为战争繁育训练强壮而敏捷的战犬。",
     "stage": 1,
     "context": "text = 'A kennel where strong and fast dogs are bred for war.'"
   },
@@ -2379,7 +2379,7 @@
     "ID": 293423250,
     "key": "This armorer's workshop is the right place to look for well-made and durable protection. Damaged equipment can also be repaired here for a price.",
     "original": "This armorer's workshop is the right place to look for well-made and durable protection. Damaged equipment can also be repaired here for a price.",
-    "translation": "这间盔甲店是寻找制作精良、经久耐用的防护用品的理想场所。损坏的装备也可以在这里以一定的价格修理。",
+    "translation": "这间盔甲店是寻找制作精良、经久耐用的防护用品的理想场所。损坏的装备也可以在这里修好，给钱就行。",
     "stage": 1,
     "context": "text = \"This armorer's workshop is the right place to look for well-made and durable protection. Damaged equipment can also be repaired here for a price.\""
   },
@@ -3139,7 +3139,7 @@
     "ID": 293423345,
     "key": "Free Seat",
     "original": "Free Seat",
-    "translation": "空余座位",
+    "translation": "空闲席位",
     "stage": 1,
     "context": "text = 'Free Seat'"
   },
