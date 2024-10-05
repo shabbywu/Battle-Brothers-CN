@@ -27,7 +27,7 @@
     "ID": 293411927,
     "key": "Trade with %settlement% is prospering, my friend! Safe roads and full stocks, let's hope it stays this way...",
     "original": "Trade with %settlement% is prospering, my friend! Safe roads and full stocks, let's hope it stays this way...",
-    "translation": "跟 %settlement% 的贸易很繁荣，我的朋友！安全的道路和充足的库存，我们希望它保持这样…",
+    "translation": "%settlement%的生意越做越好了，我的朋友！路上又安全货色又齐，要是能一直这样就好了...",
     "stage": 1,
     "context": "\"Trade with %settlement% is prospering, my friend! Safe roads and full stocks, let's hope it stays this way...\""
   },
