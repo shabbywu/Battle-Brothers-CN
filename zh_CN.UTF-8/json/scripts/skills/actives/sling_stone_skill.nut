@@ -75,7 +75,7 @@
     "ID": 293420418,
     "key": "]100%[/color] chance to daze a target on a hit to the head",
     "original": "]100%[/color] chance to daze a target on a hit to the head",
-    "translation": "]100%[/color] 几率造成茫然",
+    "translation": "]100%[/color]几率造成茫然",
     "stage": 1,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.NegativeValue + ']100%[/color] chance to daze a target on a hit to the head'"
   },
@@ -91,7 +91,7 @@
     "ID": 293420420,
     "key": "Has a [color=",
     "original": "Has a [color=",
-    "translation": "命中目标头部时有 [color=",
+    "translation": "命中目标头部时有[color=",
     "stage": 1,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.NegativeValue + ']100%[/color] chance to daze a target on a hit to the head'"
   },
