@@ -806,8 +806,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:32.742Z",
         "updatedAt": "2023-06-26T05:46:27.217Z",
-        "modifiedAt": "2024-07-15T01:57:31Z",
-        "sha256": "ea4092cc8b9999aa8664e285d28d142e6e99c15a21c3663e8bf3b0ee95091645"
+        "modifiedAt": "2024-10-08T08:35:57Z",
+        "sha256": "9618f8eb7bc5cd955814cd3854f0492a7fcb409678893571ff275309b3a633bc"
     },
     "scripts/ambitions/ambitions/taxidermist_ambition.json": {
         "id": 918391,
@@ -1508,8 +1508,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:49.238Z",
         "updatedAt": "2023-06-26T05:46:37.922Z",
-        "modifiedAt": "2024-07-19T03:12:19Z",
-        "sha256": "289ad9126457afb13ea1656f63154fc8019c932ed6ca50bf24486348feeefeb2"
+        "modifiedAt": "2024-10-08T03:03:00Z",
+        "sha256": "8d099c343b99047cce82011c0832bc31b83da8f5af2a313326b3adb7a49a5da5"
     },
     "scripts/contracts/contracts/big_game_hunt_contract.json": {
         "id": 918430,
@@ -29768,8 +29768,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:04.278Z",
         "updatedAt": "2023-06-26T05:49:14.171Z",
-        "modifiedAt": "2024-07-26T01:37:04Z",
-        "sha256": "82664250e4a22e20da3ca1cfac55939ae8756be105def856c8a315c59703bead"
+        "modifiedAt": "2024-10-08T01:35:51Z",
+        "sha256": "5937130f6ad873591270d262c62f39aeccdb00a1a9b4d08d5b6d55ddc77dd950"
     },
     "scripts/skills/actives/crush_armor.json": {
         "id": 920000,
@@ -31478,8 +31478,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:43.938Z",
         "updatedAt": "2023-06-26T05:49:19.969Z",
-        "modifiedAt": "2024-07-26T00:50:57Z",
-        "sha256": "9c9d109eb467d782511155098a245b3f368e3dc729fb8ca42f4dce7f08fa0bde"
+        "modifiedAt": "2024-10-08T01:38:55Z",
+        "sha256": "53a473ef15631531e26628f573c77012307ac64c6e0d2b2dce7b867a7e05f0fa"
     },
     "scripts/skills/actives/smite_skill.json": {
         "id": 920095,
