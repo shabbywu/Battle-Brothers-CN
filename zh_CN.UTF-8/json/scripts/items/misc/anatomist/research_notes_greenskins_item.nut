@@ -107,7 +107,7 @@
     "ID": 293418572,
     "key": "Goblin Overseer",
     "original": "Goblin Overseer",
-    "translation": "地精监督者",
+    "translation": "地精督军",
     "stage": 1,
     "context": "creatureName = 'Goblin Overseer'"
   },
