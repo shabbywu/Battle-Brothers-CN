@@ -667,8 +667,8 @@
     "ID": 293405719,
     "key": "Goblin Overseers",
     "original": "Goblin Overseers",
-    "translation": "地精监督者",
-    "stage": 5,
+    "translation": "地精督军",
+    "stage": 1,
     "context": "'Goblin Overseers'"
   },
   {
@@ -3731,7 +3731,7 @@
     "ID": 293406102,
     "key": "Goblin Overseer",
     "original": "Goblin Overseer",
-    "translation": "地精监督者",
+    "translation": "地精督军",
     "stage": 1,
     "context": "'Goblin Overseer'"
   },

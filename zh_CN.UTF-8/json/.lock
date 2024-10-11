@@ -1340,14 +1340,14 @@
         "total": 1218,
         "translated": 1218,
         "disputed": 0,
-        "checked": 189,
-        "reviewed": 189,
+        "checked": 188,
+        "reviewed": 188,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2023-06-30T08:56:13.697Z",
-        "modifiedAt": "2024-09-13T00:51:37Z",
-        "sha256": "3c4655cfa4a55a43372cbd2c40d4544fd2092d231fdd1241bbfe66c881ebaada"
+        "modifiedAt": "2024-10-10T03:55:56Z",
+        "sha256": "3bac9884a4260017245a4f2ff5d1ed039a6a87aa425c35be46469917dbb1bb67"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -23072,8 +23072,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:07.756Z",
         "updatedAt": "2023-06-26T05:48:49.293Z",
-        "modifiedAt": "2023-06-26T05:48:49Z",
-        "sha256": "94ca334e72005b7d4b395a1f79ab48d357a54defe71adfe124d7f25c145857d2"
+        "modifiedAt": "2024-10-10T03:55:56Z",
+        "sha256": "b891dd1fc9dd918c0a00bd2d37184c224f185104aa099e468157c25209013d29"
     },
     "scripts/items/misc/anatomist/research_notes_legendary_item.json": {
         "id": 919628,
@@ -27320,8 +27320,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:27:58.736Z",
         "updatedAt": "2023-06-26T05:49:04.653Z",
-        "modifiedAt": "2024-08-07T07:46:54Z",
-        "sha256": "7965d51002fd0d764100e2472631c3c1576f0280936f69c5124cf00071f510a3"
+        "modifiedAt": "2024-10-10T04:02:48Z",
+        "sha256": "058c8c20d4ea7ea6c278f901f326b6686cc19e56ca2cd4036c9f2008900f2796"
     },
     "scripts/items/weapons/named/named_goblin_spear.json": {
         "id": 919864,
