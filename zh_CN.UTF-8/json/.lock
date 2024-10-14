@@ -2102,8 +2102,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:04.54Z",
         "updatedAt": "2023-06-26T05:46:48.516Z",
-        "modifiedAt": "2024-07-19T03:12:19Z",
-        "sha256": "a06f122de22c9dbc59568524bd12f2a5f6753c6aec39426d124f0318f0a2996e"
+        "modifiedAt": "2024-10-13T19:55:33Z",
+        "sha256": "b51e7623f7e99748c50da67e6aca300b2f85b2ce2bcc3e99d7f0b52214f8ffcb"
     },
     "scripts/contracts/contracts/marauding_greenskins_contract.json": {
         "id": 918463,
