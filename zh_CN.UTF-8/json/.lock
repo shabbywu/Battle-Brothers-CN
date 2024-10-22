@@ -1886,8 +1886,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:59.489Z",
         "updatedAt": "2023-06-26T05:46:45.409Z",
-        "modifiedAt": "2024-05-13T03:01:22Z",
-        "sha256": "b4a6013d1a80b66abc02d46e04d391d2bc49982f21af5625c7c2c7ab1fa5c64b"
+        "modifiedAt": "2024-10-21T08:17:28Z",
+        "sha256": "f400079002537a24b6129de64250fc872e02f55a71c93df0362667f7904c0d45"
     },
     "scripts/contracts/contracts/hold_chokepoint_contract.json": {
         "id": 918451,
