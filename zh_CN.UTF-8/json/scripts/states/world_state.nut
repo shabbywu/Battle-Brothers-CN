@@ -3,7 +3,7 @@
     "ID": 293422874,
     "key": "This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
     "original": "This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
-    "translation": "此战役是在激活“野兽与探险”DLC之前创建的。 请注意，你可以继续游玩此战役，但除非你开始新的战役，你将无法访问所有新内容。",
+    "translation": "此战役是在激活“野兽与探险”DLC之前创建的。请注意，你可以继续游玩此战役，但除非你开始新的战役，你将无法访问所有新内容。",
     "stage": 1,
     "context": "this.showDialogPopup('Old Campaign Loaded', \"This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.\", null, null, True)"
   },
@@ -51,7 +51,7 @@
     "ID": 293422880,
     "key": "This campaign was created before you activated the 'Blazing Deserts' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
     "original": "This campaign was created before you activated the 'Blazing Deserts' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
-    "translation": "此战役是在激活“炽热沙漠”DLC之前创建的。 请注意，你可以继续游玩此战役，但除非你开始新的战役，你将无法访问所有新内容。",
+    "translation": "此战役是在激活“炽热沙漠”DLC之前创建的。请注意，你可以继续游玩此战役，但除非你开始新的战役，你将无法访问所有新内容。",
     "stage": 1,
     "context": "this.showDialogPopup('Old Campaign Loaded', \"This campaign was created before you activated the 'Blazing Deserts' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.\", null, null, True)"
   },
@@ -139,7 +139,7 @@
     "ID": 293422891,
     "key": "This campaign was created before you activated the 'Warriors of the North' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
     "original": "This campaign was created before you activated the 'Warriors of the North' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
-    "translation": "此战役是在激活“北方勇士”DLC之前创建的。 请注意，你可以继续游玩此战役，但除非你开始新的战役，你将无法访问所有新内容。",
+    "translation": "此战役是在激活“北方勇士”DLC之前创建的。请注意，你可以继续游玩此战役，但除非你开始新的战役，你将无法访问所有新内容。",
     "stage": 1,
     "context": "this.showDialogPopup('Old Campaign Loaded', \"This campaign was created before you activated the 'Warriors of the North' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.\", null, null, True)"
   },

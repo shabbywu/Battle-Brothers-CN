@@ -43,7 +43,7 @@
     "ID": 293422949,
     "key": "Have all your characters skip their turn until the next round starts?",
     "original": "Have all your characters skip their turn until the next round starts?",
-    "translation": "确认让你所有角色跳过回合，直到下轮开始再行动？",
+    "translation": "确认让你的所有角色跳过回合，直到下轮开始再行动？",
     "stage": 1,
     "context": "this.Tactical.State.showDialogPopup('End Round', 'Have all your characters skip their turn until the next round starts?', function None(){\n    this.m.IsSkippingRound = True;\n    this.m.JSHandle.call('setEndTurnAllButtonVisible', False);\n    foreach( e in this.m.CurrentEntities){\n        if (e.isPlayerControlled()) {\n            e.setSkipTurn(True)\n        }\n    };\n    this.initNextTurn();\n    return;\n}.bindenv(this), null)"
   },

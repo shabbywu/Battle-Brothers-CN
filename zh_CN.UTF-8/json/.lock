@@ -37436,8 +37436,8 @@
         "locked": 1,
         "createdAt": "2023-05-13T14:32:22.701Z",
         "updatedAt": "2023-06-26T05:49:45.192Z",
-        "modifiedAt": "2024-09-08T14:30:39Z",
-        "sha256": "368d19279b0f27236f880163d2e4f7a37de17698b8fd281ca42c726fc63934cc"
+        "modifiedAt": "2024-10-28T03:06:12Z",
+        "sha256": "8d2af35812551f994183f6f9a16998263591f7e5ec13a0324dd28ae40ef33014"
     },
     "scripts/skills/skill_container.json": {
         "id": 920426,
@@ -39218,8 +39218,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:02.634Z",
         "updatedAt": "2023-06-26T05:49:52.342Z",
-        "modifiedAt": "2024-08-02T08:44:43Z",
-        "sha256": "0cfb22e7cb2a830df76c63b3e3faabc48177e0fa511bc09d91bf857fbe714bbd"
+        "modifiedAt": "2024-10-28T02:10:31Z",
+        "sha256": "2c7ba762cd7c86b7d8e1f74275a96f07769f3bb223fa7b36407909f6fc2ab5d8"
     },
     "scripts/states/world/asset_manager.json": {
         "id": 920525,
@@ -39254,8 +39254,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:03.571Z",
         "updatedAt": "2023-07-05T12:36:10.079Z",
-        "modifiedAt": "2024-07-27T16:46:14Z",
-        "sha256": "9b583c4981364edc304e810483b65601a0a603f08154ef25d76e6dc8c2f1991a"
+        "modifiedAt": "2024-10-28T01:58:35Z",
+        "sha256": "772e60a8ed36c9c2cda87ec1b7b7c03523fe48ff36995e1edac84d8147e862b9"
     },
     "scripts/ui/global/menu_stack.json": {
         "id": 920527,
@@ -39326,8 +39326,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:04.892Z",
         "updatedAt": "2023-06-25T06:24:44.235Z",
-        "modifiedAt": "2024-07-03T06:59:30Z",
-        "sha256": "9cd4bf80d54c54889b8bba0b1f4f6fc57ac15584952d336cba16330a70c02f02"
+        "modifiedAt": "2024-10-28T01:50:14Z",
+        "sha256": "aa67dbe72a129f3fb7b6da9f16fcba7923a06bb210d98ec63894c8cc5f6bfd4f"
     },
     "scripts/ui/screens/tooltip/tooltip_events.json": {
         "id": 920531,
@@ -39338,14 +39338,14 @@
         "total": 428,
         "translated": 425,
         "disputed": 1,
-        "checked": 93,
-        "reviewed": 93,
+        "checked": 90,
+        "reviewed": 90,
         "hidden": 3,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:05.329Z",
         "updatedAt": "2023-07-05T12:36:11.027Z",
-        "modifiedAt": "2024-10-04T04:53:32Z",
-        "sha256": "4a0787e94a7b0f92166f380be866b3f9958d0651c9588d26681fb653c1bbfa9c"
+        "modifiedAt": "2024-10-28T07:07:44Z",
+        "sha256": "d38988b55078586da4f0d06bb36fd0b97ac221467efe8086ef4067aca77ac9af"
     },
     "scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.json": {
         "id": 920532,
