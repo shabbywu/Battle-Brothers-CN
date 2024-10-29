@@ -67,7 +67,7 @@
     "ID": 293422809,
     "key": "entity is currently travelling!",
     "original": "entity is currently travelling!",
-    "translation": "实体正在移动中！",
+    "translation": "实体正在移动！",
     "stage": 1,
     "context": "this.logInfo('entity is currently travelling!')"
   },
@@ -91,7 +91,7 @@
     "ID": 293422812,
     "key": "] executes skill [",
     "original": "] executes skill [",
-    "translation": "]执行技能 [",
+    "translation": "] 正在执行技能： [",
     "stage": 1,
     "context": "this.logDebug('[' + _activeEntity.getName() + '] executes skill [' + skill.getName() + '] on target [' + targetEntity.getName() + ']')"
   },
@@ -299,7 +299,7 @@
     "ID": 293422838,
     "key": "] on target [",
     "original": "] on target [",
-    "translation": "] 准确命中 [",
+    "translation": "] ，目标是： [",
     "stage": 1,
     "context": "this.logDebug('[' + _activeEntity.getName() + '] executes skill [' + skill.getName() + '] on target [' + targetEntity.getName() + ']')"
   },

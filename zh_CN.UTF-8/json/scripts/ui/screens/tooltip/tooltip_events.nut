@@ -475,7 +475,7 @@
     "ID": 293423012,
     "key": "]Is in opponent's Zone of Control.[/color]",
     "original": "]Is in opponent's Zone of Control.[/color]",
-    "translation": "]处于敌方的控制区域[/color]",
+    "translation": "]位于敌方控制区内。[/color]",
     "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + \"]Is in opponent's Zone of Control.[/color]\""
   },
@@ -979,7 +979,7 @@
     "ID": 293423075,
     "key": "]Hides anyone inside from being seen at a distance.[/color]",
     "original": "]Hides anyone inside from being seen at a distance.[/color]",
-    "translation": "]远处的人无法看到这里是否有人躲藏在内。[/color]",
+    "translation": "]能把人藏在里面，免得被从远处看到。[/color]",
     "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Hides anyone inside from being seen at a distance.[/color]'"
   },
@@ -1435,8 +1435,8 @@
     "ID": 293423132,
     "key": " renown in order to unlock this seat. Gain renown by completing ambitions and contracts, as well as by winning battles.",
     "original": " renown in order to unlock this seat. Gain renown by completing ambitions and contracts, as well as by winning battles.",
-    "translation": "名望以解锁此席位。通过完成野心和合同以及赢得战斗而获得名望。",
-    "stage": 5,
+    "translation": "点名望。名望可以通过达成野心、完成合同以及赢得战斗获得。",
+    "stage": 1,
     "context": "text = 'Your company lacks the renown necessary to hire more non-combat followers. Attain at least ' + renown + ' renown in order to unlock this seat. Gain renown by completing ambitions and contracts, as well as by winning battles.'"
   },
   {
@@ -1851,8 +1851,8 @@
     "ID": 293423184,
     "key": "Place item in bag",
     "original": "Place item in bag",
-    "translation": "将物品放入背包中",
-    "stage": 5,
+    "translation": "将物品放入背包",
+    "stage": 1,
     "context": "text = 'Place item in bag'"
   },
   {
@@ -2291,7 +2291,7 @@
     "ID": 293423239,
     "key": "Sell item for [img]gfx/ui/tooltips/money.png[/img]",
     "original": "Sell item for [img]gfx/ui/tooltips/money.png[/img]",
-    "translation": "售出这件物品将获得 [img]gfx/ui/tooltips/money.png[/img]",
+    "translation": "售出物品获得 [img]gfx/ui/tooltips/money.png[/img]",
     "stage": 1,
     "context": "text = 'Sell item for [img]gfx/ui/tooltips/money.png[/img]' + _item.getSellPrice()"
   },
@@ -2811,8 +2811,8 @@
     "ID": 293423304,
     "key": "Your company lacks the renown necessary to hire more non-combat followers. Attain at least ",
     "original": "Your company lacks the renown necessary to hire more non-combat followers. Attain at least ",
-    "translation": "你战团的名望不够，无法雇佣更多的非战斗随从。至少需要获得 ",
-    "stage": 5,
+    "translation": "你战团的名望不够，无法雇佣更多的非战斗随从。解锁该席位至少还需要",
+    "stage": 1,
     "context": "text = 'Your company lacks the renown necessary to hire more non-combat followers. Attain at least ' + renown + ' renown in order to unlock this seat. Gain renown by completing ambitions and contracts, as well as by winning battles.'"
   },
   {

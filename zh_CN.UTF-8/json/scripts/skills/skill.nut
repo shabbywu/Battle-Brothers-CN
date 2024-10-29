@@ -99,7 +99,7 @@
     "ID": 293422182,
     "key": "]Can not be used because this character has taken an oath precluding the use of ranged weapons or tools[/color]",
     "original": "]Can not be used because this character has taken an oath precluding the use of ranged weapons or tools[/color]",
-    "translation": "]不能使用，这个角色已经立下禁止使用远程武器或道具的誓言[/color]",
+    "translation": "]不能使用，该角色已经立下誓言，不使用远程武器或道具[/color]",
     "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Can not be used because this character has taken an oath precluding the use of ranged weapons or tools[/color]'"
   },
