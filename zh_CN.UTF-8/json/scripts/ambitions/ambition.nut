@@ -19,7 +19,7 @@
     "ID": 293403288,
     "key": "Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts.",
     "original": "Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts.",
-    "translation": "你的名望会提高，这意味着合同报酬的增长和新合同类型的可能。",
+    "translation": "你的名望会提高，这意味着更高的合同报酬和解锁新合同的可能。",
     "stage": 1,
     "context": "text = 'Your Renown will increase, which means higher pay for contracts and potentially unlocking new types of contracts.'"
   }

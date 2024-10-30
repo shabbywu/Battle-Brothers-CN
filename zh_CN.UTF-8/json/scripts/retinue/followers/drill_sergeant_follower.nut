@@ -27,7 +27,7 @@
     "ID": 293419580,
     "key": "The Drill Sergeant was a mercenary once, but an injury ended his career prematurely. Now he drills discipline into your men and yells a lot to make sure that everyone learns from their mistakes.",
     "original": "The Drill Sergeant was a mercenary once, but an injury ended his career prematurely. Now he drills discipline into your men and yells a lot to make sure that everyone learns from their mistakes.",
-    "translation": "这位教官曾经也是一名雇佣兵，直到伤病过早的结束了他的职业生涯。现在，他会把纪律灌输给你的人，吼叫着确保所有人都能从错误中吸取教训。",
+    "translation": "这位教官曾经也是一名雇佣兵，直到伤病提早结束了他的职业生涯。现在，他会把纪律灌输给你的人，吼叫着确保所有人都能从错误中吸取教训。",
     "stage": 1,
     "context": "this.m.Description = 'The Drill Sergeant was a mercenary once, but an injury ended his career prematurely. Now he drills discipline into your men and yells a lot to make sure that everyone learns from their mistakes.'"
   },

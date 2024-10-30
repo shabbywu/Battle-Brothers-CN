@@ -86,8 +86,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:15:11.287Z",
         "updatedAt": "2023-06-26T05:46:20.301Z",
-        "modifiedAt": "2024-07-02T03:53:50Z",
-        "sha256": "4ec52e8f650f9dada74ab7c26aff924aa5342395fc1442421c086490544ec1d1"
+        "modifiedAt": "2024-10-29T01:43:57Z",
+        "sha256": "5587a888b4951a272b7a627ece55aa1386a8eecd18ef14e5b9c2be0ef6f6cab9"
     },
     "scripts/ambitions/ambitions/allied_civilians_ambition.json": {
         "id": 918351,
@@ -968,8 +968,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:36.392Z",
         "updatedAt": "2023-06-26T05:46:28.029Z",
-        "modifiedAt": "2024-07-17T02:39:50Z",
-        "sha256": "350004e83b2ec53dc0404223e9cfd89f416f056a8ecb099dbb5a85357f810427"
+        "modifiedAt": "2024-10-29T01:43:57Z",
+        "sha256": "f2b6bae35e08a784e0699ad6eba30606ef22f4151d8f65e92f2bb7acba1ce7a6"
     },
     "scripts/ambitions/oaths/oath_of_camaraderie_ambition.json": {
         "id": 918400,
@@ -2408,8 +2408,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:13.399Z",
         "updatedAt": "2023-06-26T05:46:53.899Z",
-        "modifiedAt": "2024-08-01T07:07:31Z",
-        "sha256": "b5356bedf0c07653abd5ff3c5acfe4d80c6228733ae81cf1263f1d11073fa83a"
+        "modifiedAt": "2024-10-29T01:39:46Z",
+        "sha256": "8011ceb82ad0b1daa74a8b3b1903ba1f2c71f701056e917f25346e7df04842c6"
     },
     "scripts/dlc/dlc_paladins.json": {
         "id": 918480,
@@ -2714,8 +2714,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:19.288Z",
         "updatedAt": "2023-06-26T05:46:55.823Z",
-        "modifiedAt": "2023-06-26T05:46:56Z",
-        "sha256": "badd33c0ebefdfa76251581959605a5a1111ba62e7143ee8eb67a90e5217372e"
+        "modifiedAt": "2024-10-29T01:23:33Z",
+        "sha256": "176e1142bf530bace2a33c771588490dfe5dbc286896584b2e3bb5d13e8702b5"
     },
     "scripts/entity/tactical/enemies/orc_warlord.json": {
         "id": 918497,
@@ -2726,14 +2726,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 1,
         "createdAt": "2023-05-13T14:18:19.658Z",
         "updatedAt": "2023-06-26T05:46:55.875Z",
-        "modifiedAt": "2023-06-26T05:46:56Z",
-        "sha256": "11e74bd786eabf68d5bdb318b75c1d4b4c2b243c9b2aa02a2f52ddc9daa433ea"
+        "modifiedAt": "2024-10-29T01:23:39Z",
+        "sha256": "db63110643fd3303d672a821da66ad05799fad043f34d009229512f8bf76c1c5"
     },
     "scripts/entity/tactical/enemies/orc_warrior.json": {
         "id": 918498,
@@ -2750,8 +2750,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:20.045Z",
         "updatedAt": "2023-06-26T05:46:55.947Z",
-        "modifiedAt": "2023-06-26T05:46:56Z",
-        "sha256": "ffe29ea8e058476a0ddf00a8eebfe32fb9a3a6c51d25159bd29a3a5ea3d54928"
+        "modifiedAt": "2024-10-29T01:24:06Z",
+        "sha256": "7de7b490eaad040882513e803bb239ff2e917314b5ad7b68561f42d88fe74619"
     },
     "scripts/entity/tactical/enemies/orc_young.json": {
         "id": 918499,
@@ -2768,8 +2768,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:20.451Z",
         "updatedAt": "2023-06-26T05:46:56.15Z",
-        "modifiedAt": "2023-06-26T05:46:56Z",
-        "sha256": "2addd3aaadae7d9e4ed843279ff00c02e44096833e19df7fea704d28fcccb998"
+        "modifiedAt": "2024-10-29T01:24:25Z",
+        "sha256": "85361f85097c3cdbc0eacf65a906e712a60cc829f5ca7079f18f3de61a49591c"
     },
     "scripts/entity/tactical/enemies/phylactery.json": {
         "id": 918500,
@@ -3254,8 +3254,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:31.062Z",
         "updatedAt": "2023-06-26T05:46:59.048Z",
-        "modifiedAt": "2023-06-26T05:46:59Z",
-        "sha256": "c3fa41cd5480a27f3a9e829bed0c9b17b34fa6dea1d3e1c101f621a54b264624"
+        "modifiedAt": "2024-10-29T02:54:51Z",
+        "sha256": "aed5a2683a64d6430646a06820cf68970e36ccf78225185ed4c1393a8f78cd2d"
     },
     "scripts/entity/tactical/objects/barbarian_camp_small_idol.json": {
         "id": 918527,
@@ -5468,8 +5468,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:20.694Z",
         "updatedAt": "2023-06-26T05:47:12.387Z",
-        "modifiedAt": "2024-02-23T05:30:43Z",
-        "sha256": "f1a6e73caf937862e0c27fbd32edf7c32e4f3c190d23b0f7b0f840a35deb6cc9"
+        "modifiedAt": "2024-10-29T01:55:24Z",
+        "sha256": "f17a1193c7a3cc49aef5accd2ff2a09d38d25408148d36cdf36e7ab74507683d"
     },
     "scripts/entity/world/locations/legendary/kraken_cult_location.json": {
         "id": 918650,
@@ -5648,8 +5648,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:19:24.073Z",
         "updatedAt": "2023-06-26T05:47:13.953Z",
-        "modifiedAt": "2023-06-26T05:47:14Z",
-        "sha256": "e820028e861d3502253f5ccb5f1c009ba0ebf5cad8a38db1808444fb4fcc78ef"
+        "modifiedAt": "2024-10-29T02:09:17Z",
+        "sha256": "5dec785e5435597d18c93f73a25bf4be22b91837ca6d9f6792acc1985ad7c649"
     },
     "scripts/entity/world/locations/legendary/witch_hut_location.json": {
         "id": 918660,
@@ -23066,14 +23066,14 @@
         "total": 17,
         "translated": 17,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:26:07.756Z",
         "updatedAt": "2023-06-26T05:48:49.293Z",
-        "modifiedAt": "2024-10-10T03:55:56Z",
-        "sha256": "b891dd1fc9dd918c0a00bd2d37184c224f185104aa099e468157c25209013d29"
+        "modifiedAt": "2024-10-29T01:24:36Z",
+        "sha256": "5b91e676bf472087b954e407eaae2874f59e19dd7849abfa412952b41cd9b259"
     },
     "scripts/items/misc/anatomist/research_notes_legendary_item.json": {
         "id": 919628,
@@ -28958,8 +28958,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:38.335Z",
         "updatedAt": "2023-06-26T05:49:10.619Z",
-        "modifiedAt": "2024-09-05T07:29:32Z",
-        "sha256": "1f3f8c6d78b8a5dc2debe6474afe76a18ffb2c8c618f57ca713cb7cd81070642"
+        "modifiedAt": "2024-10-29T01:18:49Z",
+        "sha256": "252b84ab95ab1e85442216cb7dc275722768eefa92f49830001f61a19566bb0f"
     },
     "scripts/retinue/followers/lookout_follower.json": {
         "id": 919955,
@@ -28976,8 +28976,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:38.68Z",
         "updatedAt": "2023-06-26T05:49:10.688Z",
-        "modifiedAt": "2024-01-09T09:02:04Z",
-        "sha256": "4fe82682e73e261081cb5a3129bfb8270658f592be2c2be4262f68e2520ade2d"
+        "modifiedAt": "2024-10-29T01:20:39Z",
+        "sha256": "31f257308a75f27779cd13680f7cb6f9b778aba81ff619a480adea68027a6b21"
     },
     "scripts/retinue/followers/minstrel_follower.json": {
         "id": 919956,
@@ -39236,8 +39236,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:03.221Z",
         "updatedAt": "2023-06-26T05:49:52.495Z",
-        "modifiedAt": "2024-08-25T12:01:53Z",
-        "sha256": "43a0555d6524d80b7517c2d3e019d61eca7461361c3a0bbe9d8cee116d0378bc"
+        "modifiedAt": "2024-10-29T01:13:16Z",
+        "sha256": "c0ae2f8aa114bf4d0c9a80f1586952774adbe919b342bbeac6b8f1ca49702e93"
     },
     "scripts/states/world_state.json": {
         "id": 920526,

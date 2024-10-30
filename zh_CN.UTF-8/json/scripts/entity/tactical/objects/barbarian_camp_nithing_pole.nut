@@ -3,7 +3,7 @@
     "ID": 293410341,
     "key": "Nithing Pole",
     "original": "Nithing Pole",
-    "translation": "诅咒长杖",
+    "translation": "诅咒立杆",
     "stage": 1,
     "context": "return 'Nithing Pole';"
   },
