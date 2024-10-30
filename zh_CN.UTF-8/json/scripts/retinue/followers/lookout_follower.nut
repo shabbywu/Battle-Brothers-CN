@@ -35,7 +35,7 @@
     "ID": 293419586,
     "key": "Discovered ",
     "original": "Discovered ",
-    "translation": "独自发现",
+    "translation": "自行发现",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Discovered ' + this.Math.min(10, this.World.Statistics.getFlags().getAsInt('LocationsDiscovered')) + '/10 locations on your own'"
   },

@@ -11,7 +11,7 @@
     "ID": 293410157,
     "key": "The 'indebted' are a social caste of de-facto slaves in the city states, made up of criminals, prisoners of war and violators of religous dogma.",
     "original": "The 'indebted' are a social caste of de-facto slaves in the city states, made up of criminals, prisoners of war and violators of religous dogma.",
-    "translation": "‘欠债人’是城邦事实上的奴隶阶层，由罪犯、战俘和违反宗教教条者组成。",
+    "translation": "“负债者”是城邦事实上的奴隶阶层，由罪犯、战俘和违反宗教教条者组成。",
     "stage": 1,
     "context": "\"The 'indebted' are a social caste of de-facto slaves in the city states, made up of criminals, prisoners of war and violators of religous dogma.\""
   },
@@ -155,7 +155,7 @@
     "ID": 293410175,
     "key": "Arena tournaments are special events with different rules. Fight with five men over three consecutive rounds and win a famed item!",
     "original": "Arena tournaments are special events with different rules. Fight with five men over three consecutive rounds and win a famed item!",
-    "translation": "竞技场锦标赛是使用特殊规则的非常规赛事。率领五名队员连续进行三场战斗，获胜即可赢得一件著名物品！",
+    "translation": "竞技场锦标赛是使用特殊规则的特别赛事。率领五名队员连续进行三场战斗，获胜即可赢得一件著名物品！",
     "stage": 1,
     "context": "'Arena tournaments are special events with different rules. Fight with five men over three consecutive rounds and win a famed item!'"
   },
@@ -187,7 +187,7 @@
     "ID": 293410179,
     "key": "Paying too much in wages? Hire a paymaster to reduce the wages you have to pay.",
     "original": "Paying too much in wages? Hire a paymaster to reduce the wages you have to pay.",
-    "translation": "工资支出太多？雇佣一名出纳员来，减少您需要支付的工资。",
+    "translation": "工资支出太多？雇佣一名出纳员，减少您需要支付的工资。",
     "stage": 1,
     "context": "'Paying too much in wages? Hire a paymaster to reduce the wages you have to pay.'"
   },
@@ -211,7 +211,7 @@
     "ID": 293410182,
     "key": "An Ifrit is a demonic entity possessing rocks, stone and shifting sands.",
     "original": "An Ifrit is a demonic entity possessing rocks, stone and shifting sands.",
-    "translation": "伊夫利特是一种附身于岩石、石块和流沙的恶魔般的实体。",
+    "translation": "伊夫利特是一种附身于岩石和流沙的恶灵。",
     "stage": 1,
     "context": "'An Ifrit is a demonic entity possessing rocks, stone and shifting sands.'"
   },
@@ -227,7 +227,7 @@
     "ID": 293410184,
     "key": "The Handgonne is a ranged weapon that can hit up to 6 targets with a single attack, but has less range than either bows or crossbows.",
     "original": "The Handgonne is a ranged weapon that can hit up to 6 targets with a single attack, but has less range than either bows or crossbows.",
-    "translation": "火铳是一种远程武器，一次攻击最多能命中6个目标，但是射程比弓箭或十字弓都要短。",
+    "translation": "火铳是一种能一次命中6个目标的远程武器，但射程比弓弩都要短。",
     "stage": 1,
     "context": "'The Handgonne is a ranged weapon that can hit up to 6 targets with a single attack, but has less range than either bows or crossbows.'"
   },
