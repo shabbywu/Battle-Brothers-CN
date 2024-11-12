@@ -539,8 +539,8 @@
     "ID": 315253923,
     "key": "sha256:3916f238051e7e2ff31986d79497a33f32db0968f7c504ba091a5115bb97d2ac",
     "original": "But...",
-    "translation": "但是……",
-    "stage": 5,
+    "translation": "可是……",
+    "stage": 1,
     "context": "Text = 'But...'"
   }
 ]

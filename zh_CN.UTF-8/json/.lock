@@ -1466,14 +1466,14 @@
         "total": 68,
         "translated": 68,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:48.463Z",
         "updatedAt": "2023-06-30T08:56:14.464Z",
-        "modifiedAt": "2024-07-03T00:53:34Z",
-        "sha256": "f37c6eff1d2dea84ea6ccc766ed09bb18f5631f42469f3aca3a770547b6bb931"
+        "modifiedAt": "2024-11-11T01:13:40Z",
+        "sha256": "15bf0582806640ee2dad954f13217763b6381676df44649ba7ccd9e92786ac9f"
     },
     "scripts/contracts/contracts/arena_tournament_contract.json": {
         "id": 918428,
@@ -1526,8 +1526,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:49.621Z",
         "updatedAt": "2023-06-26T05:46:38.097Z",
-        "modifiedAt": "2024-08-24T15:02:50Z",
-        "sha256": "57692dfdcd351686ce876c5c87d88922427b357b65ce837350f1479dae401ee5"
+        "modifiedAt": "2024-11-11T01:30:16Z",
+        "sha256": "6a7decc04340fa2ff3505cd32a910d3d4513eadd42c2b0118278629a27a5b48b"
     },
     "scripts/contracts/contracts/break_greenskin_siege_contract.json": {
         "id": 918431,
