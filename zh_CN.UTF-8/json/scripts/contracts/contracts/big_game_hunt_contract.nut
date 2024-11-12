@@ -203,7 +203,7 @@
     "ID": 293407944,
     "key": "Return to %townname% at any time to get paid",
     "original": "Return to %townname% at any time to get paid",
-    "translation": "随时返回 %townname% 领取报酬",
+    "translation": "随时返回%townname%领取报酬",
     "stage": 1,
     "context": "this.Contract.m.BulletpointsObjectives.push('Return to %townname% at any time to get paid')"
   }
