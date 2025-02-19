@@ -9,6 +9,7 @@ import (
 	flag "github.com/spf13/pflag"
 	"log"
 	"os"
+	"path/filepath"
 	"shabbywu.com/battle-brother-cn/pkg/models"
 	"shabbywu.com/battle-brother-cn/pkg/translation"
 )
@@ -50,6 +51,7 @@ func main() {
 	if *OutputFile == "" {
 		output = os.Stdout
 	} else {
+		os.MkdirAll(filepath.Dir(*OutputFile), os.ModePerm)
 		output, err = os.OpenFile(*OutputFile, os.O_WRONLY|os.O_CREATE|os.O_TRUNC, 0755)
 	}
 	client := openai.NewClient(
