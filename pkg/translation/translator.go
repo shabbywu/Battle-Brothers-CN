@@ -19,7 +19,7 @@ func (g *Translator) DoTranslate(ctx context.Context, content string) (string, e
 	req := openai.ChatCompletionNewParams{
 		Model: openai.F(g.AIModel),
 		Messages: openai.F([]openai.ChatCompletionMessageParamUnion{
-			openai.SystemMessage(`你是一个好用的翻译助手。请将我的英文翻译成中文，将所有非中文的翻译成中文。我发给你所有的话都是需要翻译的内容，你只需要回答翻译结果。翻译结果请符合中文的语言习惯。`),
+			openai.SystemMessage(`你是一个好用的翻译助手。请将我的英文翻译成中文，将所有非中文的翻译成中文。我发给你所有的话都是需要翻译的内容，你只需要回答翻译结果。翻译结果在贴近字面的前提下, 请符合中文的语言习惯。`),
 			openai.UserMessage(content),
 		}),
 	}
@@ -47,6 +47,6 @@ func (g *Translator) DoTranslate(ctx context.Context, content string) (string, e
 	}
 
 	// After the stream is finished, acc can be used like a ChatCompletion
-	g.Logger.Printf("Translating: %s", acc.Choices[0].Message.Content)
+	g.Logger.Printf("Translated: %s", acc.Choices[0].Message.Content)
 	return acc.Choices[0].Message.Content, nil
 }
