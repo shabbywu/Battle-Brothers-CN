@@ -1,4 +1,4 @@
-package paratranz
+package models
 
 import "time"
 

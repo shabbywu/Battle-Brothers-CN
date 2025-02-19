@@ -17,6 +17,9 @@ push-to-paratranz: ## 构建 push-to-paratranz 命令
 sync-from-paratranz: ## 构建 sync-from-paratranz 命令
 	go build -o bin/sync-from-paratranz${BINARY_SUFFIX} -trimpath ./cmd/sync-from-paratranz
 
+.PHONY: ai-translation
+ai-translation: ## 构建 sync-from-paratranz 命令
+	go build -o bin/ai-translation${BINARY_SUFFIX} -trimpath ./cmd/ai-translation
 
 
 .PHONY: help

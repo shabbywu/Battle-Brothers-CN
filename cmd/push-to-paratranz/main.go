@@ -10,6 +10,7 @@ import (
 	"os"
 	"os/signal"
 	"path/filepath"
+	"shabbywu.com/battle-brother-cn/pkg/models"
 	"strings"
 	"syscall"
 	"time"
@@ -52,7 +53,7 @@ func core() {
 	cli := paratranz.NewClient(*APIToken)
 
 	lockFileName := filepath.Join(*JsonBaseDir, ".lock")
-	lockedInfos := map[string]paratranz.ParaTranzFileInfo{}
+	lockedInfos := map[string]models.ParaTranzFileInfo{}
 	if _, err := os.Stat(lockFileName); err != nil {
 		if !os.IsNotExist(err) {
 			logger.Fatalln(errors.Wrap(err, "读取文件锁异常"))
@@ -71,7 +72,7 @@ func core() {
 		logger.Fatalln(errors.Wrap(err, "获取文件列表失败!"))
 	}
 
-	newLockedInfos := map[string]paratranz.ParaTranzFileInfo{}
+	newLockedInfos := map[string]models.ParaTranzFileInfo{}
 	for _, info := range files {
 		if locked, ok := lockedInfos[info.Name]; !ok {
 			// 本地 lock 不存在该记录, 插入记录
@@ -144,7 +145,7 @@ func core() {
 
 					sha256Sum := fmt.Sprintf("%x", sha256.Sum256(content))
 
-					var fileinfo paratranz.ParaTranzFileInfo
+					var fileinfo models.ParaTranzFileInfo
 					if currentInfo, ok := newLockedInfos[filename]; ok {
 						if currentInfo.Sha256Sum == sha256Sum {
 							// 本地文件未更新

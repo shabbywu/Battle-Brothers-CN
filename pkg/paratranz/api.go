@@ -7,6 +7,7 @@ import (
 	"io"
 	"io/ioutil"
 	"os"
+	"shabbywu.com/battle-brother-cn/pkg/models"
 	"sort"
 
 	"github.com/levigross/grequests"
@@ -36,8 +37,8 @@ func NewClient(token string) *API {
 }
 
 // ListFiles: 获取项目文件列表
-func (p *API) ListFiles(projectID int) ([]ParaTranzFileInfo, error) {
-	result := []ParaTranzFileInfo{}
+func (p *API) ListFiles(projectID int) ([]models.ParaTranzFileInfo, error) {
+	result := []models.ParaTranzFileInfo{}
 	url := ParaTranzAPIHost + fmt.Sprintf("/projects/%d/files", projectID)
 	resp, err := p.Get(url, nil)
 	if err != nil {
@@ -51,7 +52,7 @@ func (p *API) ListFiles(projectID int) ([]ParaTranzFileInfo, error) {
 }
 
 // CreateFile: 上传并创建文件，文件名不能与 path 指定的目录中的文件冲突
-func (p *API) CreateFile(projectID int, content []byte, filename, filepath string) (ParaTranzFileInfo, error) {
+func (p *API) CreateFile(projectID int, content []byte, filename, filepath string) (models.ParaTranzFileInfo, error) {
 	url := ParaTranzAPIHost + fmt.Sprintf("/projects/%d/files", projectID)
 	resp, err := p.Post(url, &grequests.RequestOptions{
 		Files: []grequests.FileUpload{
@@ -62,21 +63,21 @@ func (p *API) CreateFile(projectID int, content []byte, filename, filepath strin
 		},
 	})
 	if err != nil {
-		return ParaTranzFileInfo{}, err
+		return models.ParaTranzFileInfo{}, err
 	}
 
 	respBody := struct {
-		File ParaTranzFileInfo `json:"file"`
+		File models.ParaTranzFileInfo `json:"file"`
 	}{}
 	respContent := resp.Bytes()
 	if err := json.Unmarshal(respContent, &respBody); err != nil {
-		return ParaTranzFileInfo{}, errors.Wrapf(err, "Resp Content: \"%s\"", string(respContent))
+		return models.ParaTranzFileInfo{}, errors.Wrapf(err, "Resp Content: \"%s\"", string(respContent))
 	}
 	return respBody.File, nil
 }
 
-func (p *API) UpdateFile(projectID, fileID int, content []byte, filename string) (ParaTranzFileInfo, error) {
-	result := ParaTranzFileInfo{}
+func (p *API) UpdateFile(projectID, fileID int, content []byte, filename string) (models.ParaTranzFileInfo, error) {
+	result := models.ParaTranzFileInfo{}
 	url := ParaTranzAPIHost + fmt.Sprintf("/projects/%d/files/%d/translation", projectID, fileID)
 	resp, err := p.Post(url, &grequests.RequestOptions{
 		Files: []grequests.FileUpload{
@@ -88,12 +89,12 @@ func (p *API) UpdateFile(projectID, fileID int, content []byte, filename string)
 	}
 
 	respBody := struct {
-		File   ParaTranzFileInfo `json:"file"`
-		Status string            `json:"status"`
+		File   models.ParaTranzFileInfo `json:"file"`
+		Status string                   `json:"status"`
 	}{}
 	respContent := resp.Bytes()
 	if err := json.Unmarshal(respContent, &respBody); err != nil {
-		return ParaTranzFileInfo{}, errors.Wrapf(err, "Resp Content: \"%s\"", string(respContent))
+		return models.ParaTranzFileInfo{}, errors.Wrapf(err, "Resp Content: \"%s\"", string(respContent))
 	}
 	if respBody.File.ID == 0 {
 		if respBody.Status == HashMatchedError.Error() {
@@ -105,13 +106,13 @@ func (p *API) UpdateFile(projectID, fileID int, content []byte, filename string)
 }
 
 // 获取文件翻译结果
-func (p *API) GetFileTranslation(projectID, fileID int) ([]Entity, error) {
+func (p *API) GetFileTranslation(projectID, fileID int) ([]models.Entity, error) {
 	url := ParaTranzAPIHost + fmt.Sprintf("/projects/%d/files/%d/translation", projectID, fileID)
 	resp, err := p.Session.Get(url, nil)
 	if err != nil {
 		return nil, err
 	}
-	entities := []Entity{}
+	entities := []models.Entity{}
 	respContent := resp.Bytes()
 	respContent = bytes.ReplaceAll(respContent, []byte("\\\\n"), []byte("\\n"))
 	if err := json.Unmarshal(respContent, &entities); err != nil {

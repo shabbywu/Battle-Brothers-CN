@@ -10,6 +10,7 @@ import (
 	"os"
 	"os/signal"
 	"path/filepath"
+	"shabbywu.com/battle-brother-cn/pkg/models"
 	"strings"
 	"syscall"
 	"time"
@@ -72,13 +73,13 @@ func core() {
 	if err != nil {
 		logger.Fatalln(errors.Wrap(err, "获取文件列表失败!"))
 	}
-	fileNamesToInfo := map[string]paratranz.ParaTranzFileInfo{}
+	fileNamesToInfo := map[string]models.ParaTranzFileInfo{}
 	for _, file := range files {
 		fileNamesToInfo[file.Name] = file
 	}
 
 	lockFileName := filepath.Join(*JsonBaseDir, ".lock")
-	lockedInfos := map[string]paratranz.ParaTranzFileInfo{}
+	lockedInfos := map[string]models.ParaTranzFileInfo{}
 	firstSync := false
 	if _, err := os.Stat(lockFileName); err != nil {
 		if !os.IsNotExist(err) {
@@ -162,7 +163,7 @@ func core() {
 			}
 
 			if !firstSync {
-				var localInfo paratranz.ParaTranzFileInfo
+				var localInfo models.ParaTranzFileInfo
 				var ok bool
 				if localInfo, ok = lockedInfos[filename]; !ok {
 					// 本地无该文件的状态锁, 直接更新
