@@ -32012,14 +32012,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:29:56.389Z",
         "updatedAt": "2023-06-26T05:49:21.799Z",
-        "modifiedAt": "2024-07-19T02:19:24Z",
-        "sha256": "be352df13d23d8dcb121f3b9914718ef25df5dfeb0a43d8d36697a7ec65822b8"
+        "modifiedAt": "2025-03-04T07:37:47Z",
+        "sha256": "0cba7b143d8d5275f55d1ad4436fffcfa928478abe55f47bbc563fb3783b8534"
     },
     "scripts/skills/actives/throw_golem_skill.json": {
         "id": 920125,
