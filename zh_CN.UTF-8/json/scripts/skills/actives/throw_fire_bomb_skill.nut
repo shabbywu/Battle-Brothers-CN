@@ -27,8 +27,8 @@
     "ID": 293420619,
     "key": "Fire rages here, melting armor and flesh alike",
     "original": "Fire rages here, melting armor and flesh alike",
-    "translation": "火焰在这里肆虐，熔化了盔甲和血肉",
-    "stage": 5,
+    "translation": "火焰在这里肆虐，熔化盔甲和血肉",
+    "stage": 1,
     "context": "Tooltip = 'Fire rages here, melting armor and flesh alike'"
   },
   {
