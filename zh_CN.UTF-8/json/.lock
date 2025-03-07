@@ -1220,8 +1220,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:41.288Z",
         "updatedAt": "2023-06-26T05:46:29.6Z",
-        "modifiedAt": "2024-09-04T01:03:18Z",
-        "sha256": "e67be86f14c8a66ecbf22675298d0decefaef935c2af11fe6c9b545f6f5f7327"
+        "modifiedAt": "2025-03-06T01:54:08Z",
+        "sha256": "b42d17f6fb4e513f732e97b5cf8578318da405079d418d5c6f522ef9632716ce"
     },
     "scripts/config/credits.json": {
         "id": 918414,
@@ -1868,8 +1868,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:59.034Z",
         "updatedAt": "2023-06-26T05:46:44.966Z",
-        "modifiedAt": "2024-09-07T07:35:32Z",
-        "sha256": "86e9d3d093337f8ad0cd9266c9c28e392f620cf95e5b77569ba5a13ec2704712"
+        "modifiedAt": "2025-03-06T01:52:26Z",
+        "sha256": "0150d37450f19c7d3b68039a9773985b2a192a1d782b7122322e8418a187e89b"
     },
     "scripts/contracts/contracts/free_greenskin_prisoners_contract.json": {
         "id": 918450,
