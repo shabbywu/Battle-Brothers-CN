@@ -2107,7 +2107,7 @@
     "ID": 293404041,
     "key": "the Fencer",
     "original": "the Fencer",
-    "translation": "·击剑手",
+    "translation": "·剑客",
     "stage": 1,
     "context": "'the Fencer'"
   },
