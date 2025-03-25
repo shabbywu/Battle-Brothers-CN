@@ -1,0 +1,18 @@
+[
+    {
+        "ID": 293410647,
+        "key": "A small watermill with a stony house at its side. It looks like someone might be living here.",
+        "original": "A small watermill with a stony house at its side. It looks like someone might be living here.",
+        "translation": "旁边有座石头房子的小水磨。好像有人住在这里。",
+        "stage": 1,
+        "context": "return 'A small watermill with a stony house at its side. It looks like someone might be living here.';"
+    },
+    {
+        "ID": 293410648,
+        "key": "Watermill",
+        "original": "Watermill",
+        "translation": "水磨",
+        "stage": 1,
+        "context": "this.m.Name = 'Watermill'"
+    }
+]

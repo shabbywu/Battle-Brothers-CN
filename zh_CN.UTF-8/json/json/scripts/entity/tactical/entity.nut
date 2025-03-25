@@ -1,0 +1,18 @@
+[
+    {
+        "ID": 293410305,
+        "key": "Blocking sight",
+        "original": "Blocking sight",
+        "translation": "阻挡视线",
+        "stage": 1,
+        "context": "text = 'Blocking sight'"
+    },
+    {
+        "ID": 293410306,
+        "key": "Blocking movement",
+        "original": "Blocking movement",
+        "translation": "阻挡移动",
+        "stage": 1,
+        "context": "text = 'Blocking movement'"
+    }
+]
