@@ -46,5 +46,11 @@
     "translation": "]-50%[/color] 生命值",
     "stage": 5,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-50%[/color] Hitpoints'"
+  },
+  {
+    "key": "dabc42279184af90fe2faad8a0bf796763fe4b4ffea5a4b9e0c9a72780e68856",
+    "original": "]6[/color] Hitpoints each turn in combat",
+    "translation": "",
+    "context": "\"This character will continue to lose [color=\" + this.Const.UI.Color.NegativeValue + \"]6[/color] Hitpoints each turn in combat\""
   }
 ]

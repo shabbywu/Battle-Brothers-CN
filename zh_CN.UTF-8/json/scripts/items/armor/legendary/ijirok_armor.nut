@@ -46,5 +46,11 @@
     "translation": "]10[/color]点生命值",
     "stage": 1,
     "context": "text = 'Heals [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints of the wearer each turn'"
+  },
+  {
+    "key": "c3d5b233cb8c9dfc99498b541069e1da16857984482025dfec50caaf8f0eda95",
+    "original": "]10[/color] Hitpoints of the wearer each turn",
+    "translation": "",
+    "context": "\"Heals [color=\" + this.Const.UI.Color.PositiveValue + \"]10[/color] Hitpoints of the wearer each turn\""
   }
 ]

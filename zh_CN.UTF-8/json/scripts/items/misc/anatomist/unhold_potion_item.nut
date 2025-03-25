@@ -46,5 +46,11 @@
     "translation": "右键单击或拖动到当前选定的角色上进行饮用。此物品会在使用过程中消耗掉。",
     "stage": 1,
     "context": "text = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
+  },
+  {
+    "key": "110dee2cbab5141ab8afea65f032aa48be7f12b139a419cc2dfc06cd18f455b4",
+    "original": "]10[/color] Hitpoints each turn",
+    "translation": "",
+    "context": "\"Regenerate [color=\" + this.Const.UI.Color.PositiveValue + \"]10[/color] Hitpoints each turn\""
   }
 ]

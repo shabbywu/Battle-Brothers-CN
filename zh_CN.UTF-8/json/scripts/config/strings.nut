@@ -9740,5 +9740,71 @@
     "original": "Unhold",
     "translation": "巨魔",
     "stage": 5
+  },
+  {
+    "key": "2d401fc31a19a8fc80aca78ac3ed24adba92beadc7aef348ddd353fe936b69c3",
+    "original": "Emerald Basin",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "11042c2e9365f5a2e7de87a549e7e9ab42d2a1d3642401d5a3b842ec770d479e",
+    "original": "Fault Finder",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "00652dd43e313b57c9758306da01cbc7325b8fad882dc1cc57867730672d8c2f",
+    "original": "Fault Finders",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "d50184b2fc7daf364f8a8686349d2655d344d191fe86feb2d112c08c8f097b48",
+    "original": "Flesh Cradle",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "0d3b242713aa458e0994ab6d98f577860a5188994761bddb4cc8712095682a11",
+    "original": "Flesh Cradles",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c240dbc986b89a21491472fabd5872052595b5c7ebc8bceed422009cbd63ea34",
+    "original": "Flesh Golem",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "54fc8c4a207ad5aed2a4d742b2611ad1765b6613b72c7a627a125840dc6ad2ea",
+    "original": "Flesh Golems",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c792b98ce2885032124558cfb1a0d5ebb9a589b52c49e1706aee7ddfb16e3c30",
+    "original": "Greater Flesh Golem",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "d118f9edcf16358a95ee5e6a452a8d94170f5e4de5f7f1315ec24a69b2fb1608",
+    "original": "Greater Flesh Golems",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "542f1b926a1aa23a2e3f08abf8b6075e7b01e4d7e064539f6bdcb40937b0c0d6",
+    "original": "The Grand Diviner",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "51179067a25fa736caa6d6bde19e42db93d6f679a0b839b4b013d05a1afd85a5",
+    "original": "]15%[/color] of your Resolve, as opposed to with no penalty and only if at or above 15 points of damage.",
+    "translation": "",
+    "context": "\"Make them scatter and flee! Any attack that inflicts at least 1 point of damage to hitpoints triggers a morale check for the opponent with a penalty equal to [color=\" + this.Const.UI.Color.NegativeValue + \"]15%[/color] of your Resolve, as opposed to with no penalty and only if at or above 15 points of damage.\""
   }
 ]
