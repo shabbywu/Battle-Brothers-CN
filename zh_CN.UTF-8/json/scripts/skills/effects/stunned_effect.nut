@@ -30,5 +30,29 @@
     "translation": "这个角色被击晕或丧失行动能力 [color=",
     "stage": 5,
     "context": "return 'This character is stunned or otherwise incapacitated for [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] more turn(s), and unable to act.';"
+  },
+  {
+    "key": " for ",
+    "original": " for ",
+    "translation": "",
+    "context": "_user + \" has stunned \" + _victim + \" for \" + this.getEffectDurationString()"
+  },
+  {
+    "key": " has stunned ",
+    "original": " has stunned ",
+    "translation": "",
+    "context": "_user + \" has stunned \" + _victim + \" for \" + this.getEffectDurationString()"
+  },
+  {
+    "key": "one turn",
+    "original": "one turn",
+    "translation": "",
+    "context": "ret = \"one turn\""
+  },
+  {
+    "key": "two turns",
+    "original": "two turns",
+    "translation": "",
+    "context": "ret = \"two turns\""
   }
 ]

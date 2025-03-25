@@ -54,5 +54,29 @@
     "translation": "]-25%[/color] 伤害",
     "stage": 5,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-25%[/color] Damage'"
+  },
+  {
+    "key": " for ",
+    "original": " for ",
+    "translation": "",
+    "context": "_user + \" has dazed \" + _victim + \" for \" + this.getEffectDurationString()"
+  },
+  {
+    "key": " has dazed ",
+    "original": " has dazed ",
+    "translation": "",
+    "context": "_user + \" has dazed \" + _victim + \" for \" + this.getEffectDurationString()"
+  },
+  {
+    "key": "one turn",
+    "original": "one turn",
+    "translation": "",
+    "context": "ret = \"one turn\""
+  },
+  {
+    "key": "two turns",
+    "original": "two turns",
+    "translation": "",
+    "context": "ret = \"two turns\""
   }
 ]

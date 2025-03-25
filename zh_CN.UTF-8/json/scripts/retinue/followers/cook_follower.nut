@@ -46,5 +46,11 @@
     "translation": "/8种不同类型的口粮",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Have ' + this.Math.min(8, uniqueProvisions) + '/8 different types of provisions'"
+  },
+  {
+    "key": "Increases hitpoint recovery by 1 per hour",
+    "original": "Increases hitpoint recovery by 1 per hour",
+    "translation": "",
+    "context": ""
   }
 ]

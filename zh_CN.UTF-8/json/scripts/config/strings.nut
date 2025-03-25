@@ -9740,5 +9740,71 @@
     "original": "Unhold",
     "translation": "巨魔",
     "stage": 5
+  },
+  {
+    "key": "Emerald Basin",
+    "original": "Emerald Basin",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Fault Finder",
+    "original": "Fault Finder",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Fault Finders",
+    "original": "Fault Finders",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Flesh Cradle",
+    "original": "Flesh Cradle",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Flesh Cradles",
+    "original": "Flesh Cradles",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Flesh Golem",
+    "original": "Flesh Golem",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Flesh Golems",
+    "original": "Flesh Golems",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Greater Flesh Golem",
+    "original": "Greater Flesh Golem",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Greater Flesh Golems",
+    "original": "Greater Flesh Golems",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "The Grand Diviner",
+    "original": "The Grand Diviner",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "]15%[/color] of your Resolve, as opposed to with no penalty and only if at or above 15 points of damage.",
+    "original": "]15%[/color] of your Resolve, as opposed to with no penalty and only if at or above 15 points of damage.",
+    "translation": "",
+    "context": "\"Make them scatter and flee! Any attack that inflicts at least 1 point of damage to hitpoints triggers a morale check for the opponent with a penalty equal to [color=\" + this.Const.UI.Color.NegativeValue + \"]15%[/color] of your Resolve, as opposed to with no penalty and only if at or above 15 points of damage.\""
   }
 ]

@@ -6014,5 +6014,101 @@
     "translation": "崩毁的藏身地",
     "stage": 1,
     "context": "'Overgrown Hideout'"
+  },
+  {
+    "key": "Backstabber's Hideout",
+    "original": "Backstabber's Hideout",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Bleached-Out Ruins",
+    "original": "Bleached-Out Ruins",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Bloodguzzlers' Camp",
+    "original": "Bloodguzzlers' Camp",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Bloodguzzlers' Hideaway",
+    "original": "Bloodguzzlers' Hideaway",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Camp of a Thousand Arrows",
+    "original": "Camp of a Thousand Arrows",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Castle of the Mumbling Prince",
+    "original": "Castle of the Mumbling Prince",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Crypt of the Old Rulers",
+    "original": "Crypt of the Old Rulers",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Halls of the Undying",
+    "original": "Halls of the Undying",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Long Lost Keep",
+    "original": "Long Lost Keep",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Palace Under the Earth",
+    "original": "Palace Under the Earth",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Shelter Between Ruins",
+    "original": "Shelter Between Ruins",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Stronghold Under the Earth",
+    "original": "Stronghold Under the Earth",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "The Exiled Fort",
+    "original": "The Exiled Fort",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Turned-Over Stones",
+    "original": "Turned-Over Stones",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Walls Under the Sands",
+    "original": "Walls Under the Sands",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Worn-Down Fortress",
+    "original": "Worn-Down Fortress",
+    "translation": "",
+    "context": ""
   }
 ]

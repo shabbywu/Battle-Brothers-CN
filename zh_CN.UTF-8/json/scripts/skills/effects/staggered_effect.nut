@@ -38,5 +38,29 @@
     "translation": "靠他的后天生理机能免受趔趄",
     "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' shook off being staggered thanks to his unnatural physiology')"
+  },
+  {
+    "key": " for ",
+    "original": " for ",
+    "translation": "",
+    "context": "_user + \" has staggered \" + _victim + \" for \" + this.getEffectDurationString()"
+  },
+  {
+    "key": " has staggered ",
+    "original": " has staggered ",
+    "translation": "",
+    "context": "_user + \" has staggered \" + _victim + \" for \" + this.getEffectDurationString()"
+  },
+  {
+    "key": "one turn",
+    "original": "one turn",
+    "translation": "",
+    "context": "ret = \"one turn\""
+  },
+  {
+    "key": "two turns",
+    "original": "two turns",
+    "translation": "",
+    "context": "ret = \"two turns\""
   }
 ]

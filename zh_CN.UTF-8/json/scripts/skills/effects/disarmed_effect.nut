@@ -30,5 +30,29 @@
     "translation": "靠他的后天生理机能迅速从被缴械中恢复",
     "stage": 1,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' quickly recovers from being disarmed thanks to his unnatural physiology')"
+  },
+  {
+    "key": " for ",
+    "original": " for ",
+    "translation": "",
+    "context": "_user + \" has disarmed \" + _victim + \" for \" + this.getEffectDurationString()"
+  },
+  {
+    "key": " has disarmed ",
+    "original": " has disarmed ",
+    "translation": "",
+    "context": "_user + \" has disarmed \" + _victim + \" for \" + this.getEffectDurationString()"
+  },
+  {
+    "key": "one turn",
+    "original": "one turn",
+    "translation": "",
+    "context": "ret = \"one turn\""
+  },
+  {
+    "key": "two turns",
+    "original": "two turns",
+    "translation": "",
+    "context": "ret = \"two turns\""
   }
 ]

@@ -46,5 +46,23 @@
     "translation": "在城镇的铁匠处修复",
     "stage": 1,
     "context": "this.m.Requirements[0].Text = 'Had ' + this.Math.min(5, this.World.Statistics.getFlags().getAsInt('ItemsRepaired')) + \"/5 items repaired at a town's smith\""
+  },
+  {
+    "key": "Increases repair speed by 20%",
+    "original": "Increases repair speed by 20%",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Recovers all equipment worn by your men even if broken or lost because of death",
+    "original": "Recovers all equipment worn by your men even if broken or lost because of death",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "Reduces tool consumption by 20%",
+    "original": "Reduces tool consumption by 20%",
+    "translation": "",
+    "context": ""
   }
 ]

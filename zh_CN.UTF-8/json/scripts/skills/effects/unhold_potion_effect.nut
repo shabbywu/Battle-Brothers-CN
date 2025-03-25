@@ -54,5 +54,11 @@
     "translation": "恢复了",
     "stage": 5,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + healthAdded + ' points')"
+  },
+  {
+    "key": "]10[/color] Hitpoints each turn",
+    "original": "]10[/color] Hitpoints each turn",
+    "translation": "",
+    "context": "\"Heals [color=\" + this.Const.UI.Color.PositiveValue + \"]10[/color] Hitpoints each turn\""
   }
 ]

@@ -14,5 +14,11 @@
     "translation": "角质甲板",
     "stage": 1,
     "context": "this.m.Name = 'Horn Plate'"
+  },
+  {
+    "key": "Taken from the head of the legendary kraken, this large and hard horn plate is a trophy few in this world can claim.",
+    "original": "Taken from the head of the legendary kraken, this large and hard horn plate is a trophy few in this world can claim.",
+    "translation": "",
+    "context": "this.m.Description = \"Taken from the head of the legendary kraken, this large and hard horn plate is a trophy few in this world can claim.\""
   }
 ]

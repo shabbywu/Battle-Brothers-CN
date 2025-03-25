@@ -86,5 +86,41 @@
     "translation": "复仇刀锋灵药",
     "stage": 1,
     "context": "potionName = 'Knife Edge Potion'"
+  },
+  {
+    "key": "Elixir of Enlightenment",
+    "original": "Elixir of Enlightenment",
+    "translation": "",
+    "context": "potionName = \"Elixir of Enlightenment\""
+  },
+  {
+    "key": "Greater Flesh Golem",
+    "original": "Greater Flesh Golem",
+    "translation": "",
+    "context": "creatureName = \"Greater Flesh Golem\""
+  },
+  {
+    "key": "Lesser Flesh Golem",
+    "original": "Lesser Flesh Golem",
+    "translation": "",
+    "context": "creatureName = \"Lesser Flesh Golem\""
+  },
+  {
+    "key": "Potion of Change",
+    "original": "Potion of Change",
+    "translation": "",
+    "context": "potionName = \"Potion of Change\""
+  },
+  {
+    "key": "Potion of Progress",
+    "original": "Potion of Progress",
+    "translation": "",
+    "context": "potionName = \"Potion of Progress\""
+  },
+  {
+    "key": "The Grand Diviner",
+    "original": "The Grand Diviner",
+    "translation": "",
+    "context": "creatureName = \"The Grand Diviner\""
   }
 ]
