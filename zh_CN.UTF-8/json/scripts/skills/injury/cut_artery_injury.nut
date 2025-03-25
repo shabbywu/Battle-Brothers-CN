@@ -46,5 +46,11 @@
     "translation": "一条动脉被割开并大量出血，如果不进行治疗最终会导致死亡。即使幸存下来，之后也会因失血而体质严重下降。",
     "stage": 5,
     "context": "this.m.Description = 'An artery has been cut, leading to massive hemorrhaging and ultimately death if not treated out of combat. If survived, it is followed by severely lowered constitution due to loss of blood.'"
+  },
+  {
+    "key": "260e68a799fd5e217ea8f5b8511e02011d841f9225a356162940564e295c0613",
+    "original": "]3[/color] Hitpoints each turn in combat",
+    "translation": "",
+    "context": "\"This character will continue to lose [color=\" + this.Const.UI.Color.NegativeValue + \"]3[/color] Hitpoints each turn in combat\""
   }
 ]

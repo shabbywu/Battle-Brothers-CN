@@ -3422,5 +3422,11 @@
     "translation": "仓库/地面",
     "stage": 1,
     "context": "text = \"Stash/Ground\""
+  },
+  {
+    "key": "88db53a63f827d82b96391635807887a97f8f2edcc50c0b49f5a3a1ede600912",
+    "original": "Shows the current and maximum number of men placed in formation to fight in the next battle.\n\nDrag and drop your men to where you want them to be; the top row is the front facing the enemy, the second row is your back row, and the bottom row is your reserves of characters not taking part in battle.",
+    "translation": "",
+    "context": "text = \"Shows the current and maximum number of men placed in formation to fight in the next battle.\\n\\nDrag and drop your men to where you want them to be; the top row is the front facing the enemy, the second row is your back row, and the bottom row is your reserves of characters not taking part in battle.\""
   }
 ]

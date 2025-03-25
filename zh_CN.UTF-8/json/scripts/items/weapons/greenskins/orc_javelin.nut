@@ -30,5 +30,11 @@
     "translation": "投掷武器，单手持",
     "stage": 5,
     "context": "this.m.Categories = 'Throwing Weapon, One-Handed'"
+  },
+  {
+    "key": "d9dfdc5a5559ea589f742cb1f8ca21e5aef245e5a8cf461922a3562883562c98",
+    "original": "A bunch of crudely made javelins intended for throwing at targets. Have limited range and are exhausting to throw, but may inflict devastating injuries.",
+    "translation": "",
+    "context": "this.m.Description = \"A bunch of crudely made javelins intended for throwing at targets. Have limited range and are exhausting to throw, but may inflict devastating injuries.\""
   }
 ]

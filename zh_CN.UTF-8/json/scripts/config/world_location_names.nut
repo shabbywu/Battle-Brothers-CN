@@ -6014,5 +6014,101 @@
     "translation": "崩毁的藏身地",
     "stage": 1,
     "context": "'Overgrown Hideout'"
+  },
+  {
+    "key": "a5f013f57a2741ddaed265b5ed6ec454d16b291531243a29b4020f65aec8bb51",
+    "original": "Backstabber's Hideout",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "ebc24d3412826784e43efae6602a09a038b8f8b9fedb8597f7c3c98b37f6481b",
+    "original": "Bleached-Out Ruins",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "f10b300c1215d49ba9359a3fa7bcb8b4487e988ab0f5181861cdbeecd9f05b65",
+    "original": "Bloodguzzlers' Camp",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "9106b501e215feba960d4a39c824a4dca8f4accff07535c1b906209fa0a690e2",
+    "original": "Bloodguzzlers' Hideaway",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "299d78cbbccee6685b695ccd763d83d0f4d8812eb171c1c12d34aa56b11c130c",
+    "original": "Camp of a Thousand Arrows",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "8ce6c7ac1d60d5bd7b8037cc4491bac83ad42ba7650a2d9401652b7a99d8557a",
+    "original": "Castle of the Mumbling Prince",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "3f36d951feeb90339666c5cbfe1a10d485e949b2ca58f56fcf7f3a9094e35e7f",
+    "original": "Crypt of the Old Rulers",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "06359f7a3eb7c115d5690716d054869c55c5405f1827bc50864cac2c606d3693",
+    "original": "Halls of the Undying",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "34fec3d6ca0e89485e5e7b0d496139ad0e577ffa2267f6610f117639d5abf1c5",
+    "original": "Long Lost Keep",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c1b266b89f3526b7105fe7545b91e1ec3396fc12c882637e1f830a51a2521d92",
+    "original": "Palace Under the Earth",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "9484aee5cf53ea2378e4dcf833b7411ee20691826ce1f7299c25eea25a633cd0",
+    "original": "Shelter Between Ruins",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "a8387907ea24d1a0c77711075f0bcc8c9e50a41a0c30ddfe153c86b78a57d83b",
+    "original": "Stronghold Under the Earth",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "061cb8ae3f8eb03a5eda351dca02ab5e95972f41084b8f2ee401af73e47f0547",
+    "original": "The Exiled Fort",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "1628674a5e96e8137c4a03b20e9e4581730559cfcc7ae4316da740b76d2f9424",
+    "original": "Turned-Over Stones",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "fbb916dc75eda2dc46f38982a9b1fcc9ca074860da219737df92941b0943feee",
+    "original": "Walls Under the Sands",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "8238f27a2e51162ae14acc93bcb1bcab51f00d8e565206462c8417a424dc7f19",
+    "original": "Worn-Down Fortress",
+    "translation": "",
+    "context": ""
   }
 ]
