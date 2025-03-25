@@ -76,7 +76,38 @@ func (p *API) CreateFile(projectID int, content []byte, filename, filepath strin
 	return respBody.File, nil
 }
 
+// UpdateFile 通过ID上传并更新文件, 如果词条在 ParaTranz 上不存在, 则会创建
 func (p *API) UpdateFile(projectID, fileID int, content []byte, filename string) (models.ParaTranzFileInfo, error) {
+	result := models.ParaTranzFileInfo{}
+	url := ParaTranzAPIHost + fmt.Sprintf("/projects/%d/files/%d", projectID, fileID)
+	resp, err := p.Post(url, &grequests.RequestOptions{
+		Files: []grequests.FileUpload{
+			{FileName: filename, FileContents: io.NopCloser(bytes.NewReader(content))},
+		},
+	})
+	if err != nil {
+		return result, err
+	}
+
+	respBody := struct {
+		File   models.ParaTranzFileInfo `json:"file"`
+		Status string                   `json:"status"`
+	}{}
+	respContent := resp.Bytes()
+	if err := json.Unmarshal(respContent, &respBody); err != nil {
+		return models.ParaTranzFileInfo{}, errors.Wrapf(err, "Resp Content: \"%s\"", string(respContent))
+	}
+	if respBody.File.ID == 0 {
+		if respBody.Status == HashMatchedError.Error() {
+			return respBody.File, HashMatchedError
+		}
+		return respBody.File, fmt.Errorf("更新失败, %s", string(respContent))
+	}
+	return respBody.File, nil
+}
+
+// UpdateFileTranslation 通过ID上传并更新文件中的词条翻译, 不会创建新增词条
+func (p *API) UpdateFileTranslation(projectID, fileID int, content []byte, filename string) (models.ParaTranzFileInfo, error) {
 	result := models.ParaTranzFileInfo{}
 	url := ParaTranzAPIHost + fmt.Sprintf("/projects/%d/files/%d/translation", projectID, fileID)
 	resp, err := p.Post(url, &grequests.RequestOptions{

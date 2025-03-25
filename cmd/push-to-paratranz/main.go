@@ -27,6 +27,7 @@ var (
 	JsonBaseDir  = flag.String("src", "zh_CN.UTF-8/json", "json 格式的翻译文件的根路径")
 	ForceUpdate  = flag.Bool("force", false, "忽略本地文件状态, 强制更新")
 	SkipConflict = flag.Bool("skip-conflict", false, "跳过冲突文件")
+	CreateTranslation = flag.Bool("create-translation", false, "更新时创建新词条")
 )
 
 func main() {
@@ -90,7 +91,7 @@ func core() {
 			if !anyUpdated {
 				return
 			}
-			logger.Println("程序异常终止, 正在写入文件状态锁...")
+			logger.Println("程序异常终止, 正在写入文件状态锁...", err)
 		} else {
 			logger.Println("🔐文件推送成功, 正在写入文件状态锁...")
 		}
@@ -163,17 +164,32 @@ func core() {
 								return fmt.Errorf("文件 %s 冲突, 请到线上 %s 检查在线文件, 线上解决冲突后使用 sync-from-paratranz --force 更新本地文件再重新推送", filename, url)
 							}
 						}
-						if fileinfo, err = cli.UpdateFile(*ProjectID, currentInfo.ID, content, filename); err != nil {
-							if errors.Is(err, paratranz.HashMatchedError) {
-								println(filename)
-								fileinfo = newLockedInfos[filename]
-								fileinfo.Sha256Sum = sha256Sum
-								lockedInfos[filename] = fileinfo
-								anyUpdated = true
-								return nil
+						if *CreateTranslation {
+							if fileinfo, err = cli.UpdateFile(*ProjectID, currentInfo.ID, content, filename); err != nil {
+								if errors.Is(err, paratranz.HashMatchedError) {
+									println(filename)
+									fileinfo = newLockedInfos[filename]
+									fileinfo.Sha256Sum = sha256Sum
+									lockedInfos[filename] = fileinfo
+									anyUpdated = true
+									return nil
+								}
+								return errors.Wrapf(err, "更新文件 %s 失败", filename)
 							}
-							return errors.Wrapf(err, "更新文件 %s 失败", filename)
+						} else {
+							if fileinfo, err = cli.UpdateFileTranslation(*ProjectID, currentInfo.ID, content, filename); err != nil {
+								if errors.Is(err, paratranz.HashMatchedError) {
+									println(filename)
+									fileinfo = newLockedInfos[filename]
+									fileinfo.Sha256Sum = sha256Sum
+									lockedInfos[filename] = fileinfo
+									anyUpdated = true
+									return nil
+								}
+								return errors.Wrapf(err, "更新文件 %s 失败", filename)
+							}
 						}
+
 						logger.Printf("更新文件 %s 成功", fileinfo.Name)
 					} else {
 						if fileinfo, err = cli.CreateFile(*ProjectID, content, filename, fileDir); err != nil {
