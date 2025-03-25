@@ -1,14 +1,14 @@
 [
   {
-    "key": "fc33f73246f48295702f404001e74d56f14d2f82689b2816422dc1a4c2ec4fb2",
+    "ID": 629143892,
+    "key": "City",
     "original": "City",
-    "translation": "",
-    "context": ""
+    "translation": ""
   },
   {
-    "key": "ceaf6fbfe8f0af6f2ac7ede79605136ba920fcb0c78b38c1e584a9c9fe8a47d6",
+    "ID": 629143893,
+    "key": "Destroying",
     "original": "Destroying",
-    "translation": "",
-    "context": ""
+    "translation": ""
   }
 ]
