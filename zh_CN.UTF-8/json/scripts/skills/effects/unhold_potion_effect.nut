@@ -56,9 +56,11 @@
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' heals for ' + healthAdded + ' points')"
   },
   {
+    "ID": 629317976,
     "key": "110dee2cbab5141ab8afea65f032aa48be7f12b139a419cc2dfc06cd18f455b4",
     "original": "]10[/color] Hitpoints each turn",
-    "translation": "",
+    "translation": "]10[/color] 点生命值",
+    "stage": 1,
     "context": "\"Heals [color=\" + this.Const.UI.Color.PositiveValue + \"]10[/color] Hitpoints each turn\""
   }
 ]
