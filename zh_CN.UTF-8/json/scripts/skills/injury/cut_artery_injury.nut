@@ -48,9 +48,11 @@
     "context": "this.m.Description = 'An artery has been cut, leading to massive hemorrhaging and ultimately death if not treated out of combat. If survived, it is followed by severely lowered constitution due to loss of blood.'"
   },
   {
+    "ID": 629317977,
     "key": "260e68a799fd5e217ea8f5b8511e02011d841f9225a356162940564e295c0613",
     "original": "]3[/color] Hitpoints each turn in combat",
-    "translation": "",
+    "translation": "]3[/color]点生命值，直到战斗结束",
+    "stage": 1,
     "context": "\"This character will continue to lose [color=\" + this.Const.UI.Color.NegativeValue + \"]3[/color] Hitpoints each turn in combat\""
   }
 ]

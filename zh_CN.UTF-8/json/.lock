@@ -38076,7 +38076,7 @@
         "filename": "",
         "format": "json",
         "total": 8,
-        "translated": 7,
+        "translated": 8,
         "disputed": 0,
         "checked": 3,
         "reviewed": 3,
@@ -38084,8 +38084,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:38.78Z",
         "updatedAt": "2025-03-25T17:06:35.04Z",
-        "modifiedAt": "2024-01-23T08:45:35Z",
-        "sha256": "be7a4d9ed7b03d8de15092e31cbdb6573f3b9bcb35c2c2a225b7671d2ade0b30"
+        "modifiedAt": "2025-03-27T11:32:17Z",
+        "sha256": "ffc2cc0b7155b128cef5eb3f016a62ab4b1b815c303c3316c318c283d7ecf94b"
     },
     "scripts/skills/effects/voice_of_davkul_effect.json": {
         "id": 920331,
@@ -38580,7 +38580,7 @@
         "filename": "",
         "format": "json",
         "total": 7,
-        "translated": 6,
+        "translated": 7,
         "disputed": 0,
         "checked": 4,
         "reviewed": 4,
@@ -38588,8 +38588,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:53.302Z",
         "updatedAt": "2025-03-25T17:06:35.243Z",
-        "modifiedAt": "2024-01-12T02:11:34Z",
-        "sha256": "408a40625553fe218233033da058043fe4f8f0cd4fd254b290bc64033959bbb1"
+        "modifiedAt": "2025-03-27T11:30:50Z",
+        "sha256": "766b8700ffb679e17216aa96df4a43c8ccdae8ea5b52a68195146a28852d6fe3"
     },
     "scripts/skills/injury/cut_leg_muscles_injury.json": {
         "id": 920359,
@@ -38616,7 +38616,7 @@
         "filename": "",
         "format": "json",
         "total": 7,
-        "translated": 6,
+        "translated": 7,
         "disputed": 0,
         "checked": 4,
         "reviewed": 4,
@@ -38624,8 +38624,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:54.001Z",
         "updatedAt": "2025-03-25T17:06:35.348Z",
-        "modifiedAt": "2024-01-12T02:11:43Z",
-        "sha256": "d9e74c91a3fadb02d1675ef080d4e65cbae0e6a16082397a71dae9263616c69e"
+        "modifiedAt": "2025-03-27T11:31:35Z",
+        "sha256": "d6b3bfaea593bb559827897a331166cd038b242cfd1d6054e582e9f728a38825"
     },
     "scripts/skills/injury/deep_abdominal_cut_injury.json": {
         "id": 920361,
@@ -40182,7 +40182,7 @@
         "filename": "",
         "format": "json",
         "total": 7,
-        "translated": 6,
+        "translated": 7,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -40190,8 +40190,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:33.119Z",
         "updatedAt": "2025-03-25T17:06:35.655Z",
-        "modifiedAt": "2024-07-23T07:42:21Z",
-        "sha256": "af4442a027def23bcd5e097c2c65b120558301aefc51978ecfccb1c3b634cdcf"
+        "modifiedAt": "2025-03-27T11:31:09Z",
+        "sha256": "a9736fe08aa3dce869d9938f4f0c2b94dc5a27182715ef59b694e78dd9dcb04d"
     },
     "scripts/skills/traits/brave_trait.json": {
         "id": 920446,

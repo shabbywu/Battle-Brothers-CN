@@ -48,9 +48,11 @@
     "context": "text = 'All kills are fatalities (if the weapon allows).'"
   },
   {
+    "ID": 629317981,
     "key": "83200923c915dc077694a3107e652312e4f272047f1fdba02073a6e769210058",
     "original": "All kills are fatalities (if the weapon allows)",
-    "translation": "",
+    "translation": "所有的击杀都是必死击杀(如果武器允许)",
+    "stage": 1,
     "context": "text = \"All kills are fatalities (if the weapon allows)\""
   }
 ]
