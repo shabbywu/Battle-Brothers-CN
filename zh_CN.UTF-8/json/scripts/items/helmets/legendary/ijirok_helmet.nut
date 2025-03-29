@@ -48,9 +48,11 @@
     "context": "this.m.Description = 'Once a barbarian helmet broken in battle, this piece has been bathed in the blood of the legendary Ijirok. Powers beyond your understanding mended it whole again, and will likewise mend any wounds of the wearer as well.'"
   },
   {
+    "ID": 629317932,
     "key": "c3d5b233cb8c9dfc99498b541069e1da16857984482025dfec50caaf8f0eda95",
     "original": "]10[/color] Hitpoints of the wearer each turn",
-    "translation": "",
+    "translation": "]10[/color] 点生命值",
+    "stage": 1,
     "context": "\"Heals [color=\" + this.Const.UI.Color.PositiveValue + \"]10[/color] Hitpoints of the wearer each turn\""
   }
 ]

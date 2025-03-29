@@ -3786,7 +3786,7 @@
         "filename": "",
         "format": "json",
         "total": 12,
-        "translated": 11,
+        "translated": 12,
         "disputed": 0,
         "checked": 1,
         "reviewed": 1,
@@ -3794,8 +3794,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:12.684Z",
         "updatedAt": "2025-03-25T17:06:31.876Z",
-        "modifiedAt": "2024-09-05T06:03:07Z",
-        "sha256": "bd07e20b0abeb81a363416e2278173cd099dcbcc9507ca7f10d0d30fac6f4df7"
+        "modifiedAt": "2025-03-28T01:45:52Z",
+        "sha256": "6a46e13c069b923c58eb8ed6ab10967a4d36beab5347a80ae4aad336e3749691"
     },
     "scripts/contracts/templates/negotiation_templates.json": {
         "id": 918478,
@@ -20040,7 +20040,7 @@
         "filename": "",
         "format": "json",
         "total": 7,
-        "translated": 6,
+        "translated": 7,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -20048,8 +20048,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:24:04.931Z",
         "updatedAt": "2025-03-25T17:06:32.457Z",
-        "modifiedAt": "2025-03-25T16:55:02Z",
-        "sha256": "178aa56d1c903c13c96ef7564f8a8b4388857c7cc96db1cebff1ecc34997e19a"
+        "modifiedAt": "2025-03-28T01:47:13Z",
+        "sha256": "ca2ae1c9b69dcec22dc603d0e4da484fb5de2494ec652df8237e23106e89a6a5"
     },
     "scripts/items/armor/light_scale_armor.json": {
         "id": 919359,
@@ -22974,7 +22974,7 @@
         "filename": "",
         "format": "json",
         "total": 7,
-        "translated": 6,
+        "translated": 7,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -22982,8 +22982,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:15.547Z",
         "updatedAt": "2025-03-25T17:06:32.639Z",
-        "modifiedAt": "2025-03-25T16:55:03Z",
-        "sha256": "1c822eea81c5fe60485b43dfe1fdb32849bdca82fdfb35ed7d958387fc5910b0"
+        "modifiedAt": "2025-03-28T01:50:07Z",
+        "sha256": "35014167d0f3bd35c2695e2d9fecb66bad5f5ad355a08d86c0cd5b6e6ca0e4eb"
     },
     "scripts/items/helmets/legendary/mask_of_davkul.json": {
         "id": 919514,
@@ -24342,7 +24342,7 @@
         "filename": "",
         "format": "json",
         "total": 2,
-        "translated": 0,
+        "translated": 2,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -24350,8 +24350,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:34.121Z",
         "updatedAt": "2025-03-25T16:08:34.121Z",
-        "modifiedAt": "2025-03-25T16:08:34.121Z",
-        "sha256": "ab08191c703658a21924af7573a98174bbfb911af6a471440e2481eb9791ac3b"
+        "modifiedAt": "2025-03-28T02:17:40Z",
+        "sha256": "bde7dbc0c164849d8b3ee5c4d22887a60c5b55055becb98297e6a3d4c69a3e64"
     },
     "scripts/items/loot/ornate_tome_item.json": {
         "id": 919589,
@@ -25206,7 +25206,7 @@
         "filename": "",
         "format": "json",
         "total": 7,
-        "translated": 6,
+        "translated": 7,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -25214,8 +25214,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:10.728Z",
         "updatedAt": "2025-03-25T17:06:32.849Z",
-        "modifiedAt": "2025-03-25T16:55:03Z",
-        "sha256": "b648b8b579fedc0f6bba71aa057c1d3e251a21b0f541a37c2e976751ba844c50"
+        "modifiedAt": "2025-03-28T02:01:31Z",
+        "sha256": "60054d166126ebb2e5e5871b09267cdf5b42cdb8637479b91abc20123ff67784"
     },
     "scripts/items/misc/anatomist/webknecht_potion_item.json": {
         "id": 919634,
@@ -25440,7 +25440,7 @@
         "filename": "",
         "format": "json",
         "total": 3,
-        "translated": 2,
+        "translated": 3,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -25448,8 +25448,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:15.96Z",
         "updatedAt": "2025-03-25T17:06:32.948Z",
-        "modifiedAt": "2024-08-01T01:28:36Z",
-        "sha256": "2a470d7fd0ccad7001b372e7b63e392e2d2503804595ba833e4860428fd7708e"
+        "modifiedAt": "2025-03-28T01:58:39Z",
+        "sha256": "3f50f89e7ea7c81a1e963ecd6a7254f25055a055b131c8269bd1e91557b7fd20"
     },
     "scripts/items/misc/kraken_tentacle_item.json": {
         "id": 919647,

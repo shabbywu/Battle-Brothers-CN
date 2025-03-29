@@ -19,7 +19,7 @@
     "ID": 293418624,
     "key": "]10[/color] hitpoints each turn",
     "original": "]10[/color] hitpoints each turn",
-    "translation": "]10[/color] 生命值每回合",
+    "translation": "]10[/color] 点生命值",
     "stage": 1,
     "context": "text = 'Regenerate [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints each turn'"
   },
@@ -35,7 +35,7 @@
     "ID": 293418626,
     "key": "Regenerate [color=",
     "original": "Regenerate [color=",
-    "translation": "复原[color=",
+    "translation": "每回合回复 [color=",
     "stage": 1,
     "context": "text = 'Regenerate [color=' + this.Const.UI.Color.PositiveValue + ']10[/color] hitpoints each turn'"
   },
@@ -48,9 +48,11 @@
     "context": "text = 'Right-click or drag onto the currently selected character in order to drink. This item will be consumed in the process.'"
   },
   {
+    "ID": 629317939,
     "key": "110dee2cbab5141ab8afea65f032aa48be7f12b139a419cc2dfc06cd18f455b4",
     "original": "]10[/color] Hitpoints each turn",
-    "translation": "",
+    "translation": "]10[/color] 点生命值",
+    "stage": 1,
     "context": "\"Regenerate [color=\" + this.Const.UI.Color.PositiveValue + \"]10[/color] Hitpoints each turn\""
   }
 ]
