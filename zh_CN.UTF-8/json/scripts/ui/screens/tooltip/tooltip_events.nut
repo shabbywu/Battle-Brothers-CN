@@ -3426,7 +3426,7 @@
   {
     "key": "88db53a63f827d82b96391635807887a97f8f2edcc50c0b49f5a3a1ede600912",
     "original": "Shows the current and maximum number of men placed in formation to fight in the next battle.\n\nDrag and drop your men to where you want them to be; the top row is the front facing the enemy, the second row is your back row, and the bottom row is your reserves of characters not taking part in battle.",
-    "translation": "",
+    "translation": "显示当前及最大可布阵参战人数。\n\n将你的士兵拖放至预定位置；首排为面向敌人的前线，次排为后排，底排则为不参与战斗的预备队成员。",
     "context": "text = \"Shows the current and maximum number of men placed in formation to fight in the next battle.\\n\\nDrag and drop your men to where you want them to be; the top row is the front facing the enemy, the second row is your back row, and the bottom row is your reserves of characters not taking part in battle.\""
   }
 ]

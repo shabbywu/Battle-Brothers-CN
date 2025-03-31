@@ -18,7 +18,7 @@
   {
     "key": "035393a7391da3489a90ba44398ae4ef6db4102edcfffc59f043923e3a51e11c",
     "original": "Regent in Absentia",
-    "translation": "",
+    "translation": "缺席的摄政者",
     "context": "this.m.Name = \"Regent in Absentia\""
   }
 ]

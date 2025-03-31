@@ -90,37 +90,37 @@
   {
     "key": "a46b85a15cbfb13749c9ebca4030953e5208a753f4d1077454411b5394dd2859",
     "original": "Elixir of Enlightenment",
-    "translation": "",
+    "translation": "启蒙之药",
     "context": "potionName = \"Elixir of Enlightenment\""
   },
   {
     "key": "c792b98ce2885032124558cfb1a0d5ebb9a589b52c49e1706aee7ddfb16e3c30",
     "original": "Greater Flesh Golem",
-    "translation": "",
+    "translation": "巨型血肉魔像",
     "context": "creatureName = \"Greater Flesh Golem\""
   },
   {
     "key": "e4f279d45b4860544dce65d8796fc0ea69e94f6b0ed9d80cf7fa3756249e1298",
     "original": "Lesser Flesh Golem",
-    "translation": "",
+    "translation": "小型血肉魔像",
     "context": "creatureName = \"Lesser Flesh Golem\""
   },
   {
     "key": "dc0f713ff9a345b91b9893789c19b9d3530783150e43c012133b6f20ada8002d",
     "original": "Potion of Change",
-    "translation": "",
+    "translation": "变身药水",
     "context": "potionName = \"Potion of Change\""
   },
   {
     "key": "9e4a1d2d97a3af93cac24603889fe1c71e51022f0cedd05660e069ca4ffae51a",
     "original": "Potion of Progress",
-    "translation": "",
+    "translation": "进步药水",
     "context": "potionName = \"Potion of Progress\""
   },
   {
     "key": "542f1b926a1aa23a2e3f08abf8b6075e7b01e4d7e064539f6bdcb40937b0c0d6",
     "original": "The Grand Diviner",
-    "translation": "",
+    "translation": "大占卜师",
     "context": "creatureName = \"The Grand Diviner\""
   }
 ]

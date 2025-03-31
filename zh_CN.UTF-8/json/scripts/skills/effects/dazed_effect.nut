@@ -58,25 +58,25 @@
   {
     "key": "ccb2f8fb3cff62792429cade2a71f2a237c36549ad99bb5d30f328d9a5dfdee3",
     "original": " for ",
-    "translation": "",
+    "translation": "茫然了",
     "context": "_user + \" has dazed \" + _victim + \" for \" + this.getEffectDurationString()"
   },
   {
     "key": "0f8093ca6ebf5f5731e3d1d3e63a33ec432611682838eb3e87acae1632318896",
     "original": " has dazed ",
-    "translation": "",
+    "translation": "使",
     "context": "_user + \" has dazed \" + _victim + \" for \" + this.getEffectDurationString()"
   },
   {
     "key": "7798317967754e498dafd47fb05276d5844a617c3cd7072371b5e26f3c2a8041",
     "original": "one turn",
-    "translation": "",
+    "translation": "一回合",
     "context": "ret = \"one turn\""
   },
   {
     "key": "e071e31557739035d337f935509889da0852aac70a258d8bd90f57d3219bc455",
     "original": "two turns",
-    "translation": "",
+    "translation": "两回合",
     "context": "ret = \"two turns\""
   }
 ]

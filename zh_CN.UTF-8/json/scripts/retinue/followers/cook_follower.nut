@@ -50,7 +50,6 @@
   {
     "key": "994162265b55f847e050adccbca5c03216b3602182e014601b3f946f6c08d66b",
     "original": "Increases hitpoint recovery by 1 per hour",
-    "translation": "",
-    "context": ""
+    "translation": "每小时生命值恢复增加1点。"
   }
 ]

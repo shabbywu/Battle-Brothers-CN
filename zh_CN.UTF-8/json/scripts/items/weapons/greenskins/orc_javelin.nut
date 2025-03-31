@@ -34,7 +34,7 @@
   {
     "key": "d9dfdc5a5559ea589f742cb1f8ca21e5aef245e5a8cf461922a3562883562c98",
     "original": "A bunch of crudely made javelins intended for throwing at targets. Have limited range and are exhausting to throw, but may inflict devastating injuries.",
-    "translation": "",
+    "translation": "一堆制作粗糙的标枪，用于投掷目标。射程有限且投掷起来颇为费力，但可能造成毁灭性的伤害。",
     "context": "this.m.Description = \"A bunch of crudely made javelins intended for throwing at targets. Have limited range and are exhausting to throw, but may inflict devastating injuries.\""
   }
 ]
