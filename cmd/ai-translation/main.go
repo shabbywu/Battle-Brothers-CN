@@ -44,11 +44,16 @@ func MarshalIndent(v any, prefix, indent string) ([]byte, error) {
 
 func main() {
 	flag.Parse()
-	var err error
-	var output *os.File
+	// 读取源
 	if *SourceFile == "" {
 		log.Fatalln("must specify --file")
 	}
+	data, err := os.ReadFile(*SourceFile)
+	if err != nil {
+		log.Fatal(err)
+	}
+	// 解析输出
+	var output *os.File
 	if *OutputFile == "" {
 		output = os.Stdout
 	} else {
@@ -66,10 +71,7 @@ func main() {
 		Logger:  log.Default(),
 	}
 
-	data, err := os.ReadFile(*SourceFile)
-	if err != nil {
-		log.Fatal(err)
-	}
+
 	var entities []models.Entity
 	if err := json.Unmarshal(data, &entities); err != nil {
 		log.Fatal(err)
