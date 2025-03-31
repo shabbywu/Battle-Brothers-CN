@@ -52,14 +52,6 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	// 解析输出
-	var output *os.File
-	if *OutputFile == "" {
-		output = os.Stdout
-	} else {
-		os.MkdirAll(filepath.Dir(*OutputFile), os.ModePerm)
-		output, err = os.OpenFile(*OutputFile, os.O_WRONLY|os.O_CREATE|os.O_TRUNC, 0755)
-	}
 	client := openai.NewClient(
 		option.WithAPIKey(*APIToken),
 		option.WithBaseURL(*BaseURL),
@@ -85,6 +77,10 @@ func main() {
 			outputs = append(outputs, entity)
 			continue
 		}
+		if entity.Stage == 1 {
+			outputs = append(outputs, entity)
+			continue
+		}
 		translation, err := translator.DoTranslate(ctx, entity.Original)
 		if err == nil {
 			entity.Translation = translation
@@ -94,6 +90,14 @@ func main() {
 	data, err = MarshalIndent(outputs, "", "  ")
 	if err != nil {
 		log.Fatal(err)
+	}
+	// 解析输出
+	var output *os.File
+	if *OutputFile == "" {
+		output = os.Stdout
+	} else {
+		os.MkdirAll(filepath.Dir(*OutputFile), os.ModePerm)
+		output, err = os.OpenFile(*OutputFile, os.O_WRONLY|os.O_CREATE|os.O_TRUNC, 0755)
 	}
 	if _, err := output.Write(data); err != nil {
 		log.Fatal(err)
