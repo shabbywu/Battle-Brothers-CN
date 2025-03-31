@@ -77,6 +77,10 @@ func main() {
 	var outputs []models.Entity
 	ctx := context.Background()
 	for _, entity := range entities {
+		// 忽略隐藏的、已审核的、已锁定的词条
+		if entity.Stage == -1 || entity.Stage == 5 || entity.Stage == 9 {
+			outputs = append(outputs, entity)
+		}
 		translation, err := translator.DoTranslate(ctx, entity.Original)
 		if err == nil {
 			entity.Translation = translation

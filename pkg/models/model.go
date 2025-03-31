@@ -12,6 +12,13 @@ type Entity struct {
 	// Translation 翻译文案
 	Translation string `json:"translation"`
 	// Stage: 状态
+	// 0: 未翻译
+	// 1: 已翻译
+	// 2: 有疑问
+	// 3: 已检查
+	// 5: 已审核(二校)
+	// 9: 已锁定
+	// -1: 已隐藏
 	Stage int `json:"stage,omitempty"`
 	// Context: 协助翻译的上下文
 	Context string `json:"context,omitempty"`
