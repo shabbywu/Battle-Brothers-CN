@@ -4,12 +4,13 @@ import (
 	"bytes"
 	"context"
 	"encoding/json"
-	"github.com/openai/openai-go"
-	"github.com/openai/openai-go/option"
-	flag "github.com/spf13/pflag"
 	"log"
 	"os"
 	"path/filepath"
+
+	"github.com/openai/openai-go"
+	"github.com/openai/openai-go/option"
+	flag "github.com/spf13/pflag"
 	"shabbywu.com/battle-brother-cn/pkg/models"
 	"shabbywu.com/battle-brother-cn/pkg/translation"
 )
@@ -17,7 +18,7 @@ import (
 var (
 	APIToken   = flag.String("token", os.Getenv("OPENAI_API_KEY"), "API Token")
 	BaseURL    = flag.String("base_url", "https://api.lkeap.cloud.tencent.com/v1/", "支持 OPENAI 协议的服务地址")
-	AIModel    = flag.String("ai_model", "deepseek-r1", "AI 模型")
+	AIModel    = flag.String("ai_model", "deepseek-v3", "AI 模型")
 	SourceFile = flag.String("file", "", "需要翻译的文件")
 	OutputFile = flag.String("output", "", "翻译后输出的文件")
 )
