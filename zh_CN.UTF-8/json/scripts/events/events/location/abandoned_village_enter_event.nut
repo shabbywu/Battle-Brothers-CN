@@ -3,14 +3,16 @@
     "ID": 629143935,
     "key": "After the battle...",
     "original": "After the battle...",
-    "translation": "",
+    "translation": "战斗之后……",
+    "stage": 1,
     "context": "_event.m.Title = \"After the battle...\""
   },
   {
     "ID": 629143936,
     "key": "As you approach...",
     "original": "As you approach...",
-    "translation": "",
+    "translation": "当你接近时……",
+    "stage": 1,
     "context": "this.m.Title = \"As you approach...\""
   },
   {

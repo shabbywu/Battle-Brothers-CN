@@ -14928,7 +14928,7 @@
         "filename": "",
         "format": "json",
         "total": 11,
-        "translated": 10,
+        "translated": 11,
         "disputed": 0,
         "checked": 1,
         "reviewed": 1,
@@ -14936,8 +14936,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:12.419Z",
         "updatedAt": "2025-03-25T17:06:32.252Z",
-        "modifiedAt": "2025-03-25T16:54:26Z",
-        "sha256": "e5d566b567e84cacdd21fd9f4ba9052165a918584e7c80b1593a4979986604a8"
+        "modifiedAt": "2025-04-01T02:26:40Z",
+        "sha256": "c0b8434e6ba2cca043cf28afa0b7b941dac630a44d0776a06206ab92c9e746a3"
     },
     "scripts/events/events/graverobber_heist_event.json": {
         "id": 919089,
@@ -15324,7 +15324,7 @@
         "filename": "",
         "format": "json",
         "total": 11,
-        "translated": 0,
+        "translated": 2,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -15332,8 +15332,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:10.111Z",
         "updatedAt": "2025-03-25T16:08:10.111Z",
-        "modifiedAt": "2025-03-25T16:08:10.111Z",
-        "sha256": "87abea4277edb488ea8e5cc6d2a95054a40bd3481146b65069a8d11e89fc0a74"
+        "modifiedAt": "2025-04-01T02:27:13Z",
+        "sha256": "ed8ad21799951d6218994ac4f6256fa07b83e455d2179bb5e5cde5e79880af43"
     },
     "scripts/events/events/location/artifact_reliquary_enter_event.json": {
         "id": 1940654,
