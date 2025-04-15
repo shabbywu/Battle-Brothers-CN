@@ -763,7 +763,7 @@
     "ID": 293406952,
     "key": "Skeletons are highly resistant to ranged attacks and fire.",
     "original": "Skeletons are highly resistant to ranged attacks and fire.",
-    "translation": "骷髅对远程攻击有很高的抵抗力。",
+    "translation": "骷髅对远程攻击和火焰有很高的抵抗力。",
     "stage": 1,
     "context": "'Skeletons are highly resistant to ranged attacks and fire.'"
   },

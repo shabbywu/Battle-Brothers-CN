@@ -2804,8 +2804,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:45.456Z",
         "updatedAt": "2023-06-26T05:46:36.003Z",
-        "modifiedAt": "2024-09-08T11:35:31Z",
-        "sha256": "257d63ab090c816ddad785986060c45cf6ca55d2dff35394dba5461ef9bb0ac8"
+        "modifiedAt": "2025-04-14T06:51:04Z",
+        "sha256": "2bb4325457618864629cf36983a94722354cd0672ba3f6ca1a716ef3fbafe057"
     },
     "scripts/config/world.json": {
         "id": 918423,
@@ -31766,8 +31766,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:12:16.616Z",
         "updatedAt": "2025-03-31T03:38:37.145Z",
-        "modifiedAt": "2025-03-31T03:38:37Z",
-        "sha256": "390dfba1552dd65cb88f46952d2388a276a3712ec8b182a5646fbe8cac500f9c"
+        "modifiedAt": "2025-04-14T07:48:37Z",
+        "sha256": "c3e8c08d17d31ad5bebff36797efe46e06b348644ecdd21d206333c7ef08d1c0"
     },
     "scripts/skills/actives/censer_strike.json": {
         "id": 1940686,
