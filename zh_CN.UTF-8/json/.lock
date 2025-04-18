@@ -14126,8 +14126,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:52.975Z",
         "updatedAt": "2025-03-25T17:06:32.133Z",
-        "modifiedAt": "2025-03-25T16:54:26Z",
-        "sha256": "2f803f183d2a9ff82b7422d21131189c61435e1e458a67aced4554016b2b6c71"
+        "modifiedAt": "2025-04-17T02:30:18Z",
+        "sha256": "55abfc83dbdd1a95e245fa4112a71cde6a6059cf762bc2df830181b333ed7f89"
     },
     "scripts/events/events/dlc8/killer_on_the_run_reminisces_event.json": {
         "id": 919044,
@@ -32246,14 +32246,14 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:29:11.914Z",
         "updatedAt": "2023-06-26T05:49:15.198Z",
-        "modifiedAt": "2024-07-26T01:16:27Z",
-        "sha256": "e36abce7b3f3341596cdc17aa57fc12e57034a2865b42458f5f5032b9b210e0a"
+        "modifiedAt": "2025-04-17T02:27:37Z",
+        "sha256": "347c485bf4468f28dac7b149880ee72726a4c2d75325c4082276aaee7887d562"
     },
     "scripts/skills/actives/flesh_pull_skill.json": {
         "id": 1940689,
@@ -33020,14 +33020,14 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:29:26.577Z",
         "updatedAt": "2023-06-26T05:49:17.457Z",
-        "modifiedAt": "2024-07-26T01:16:27Z",
-        "sha256": "2a4fda6dc5dde70d80c8d5de4e8eaafb5eb3cbe061b6013c97d7e6090b7c22d6"
+        "modifiedAt": "2025-04-17T02:27:34Z",
+        "sha256": "7e6dd00cd3ff5db1259f976e2fd98f79b627388952f16c2b2f5956deecaa7987"
     },
     "scripts/skills/actives/lesser_flesh_golem_attack_skill.json": {
         "id": 1940693,
@@ -33254,14 +33254,14 @@
         "total": 17,
         "translated": 17,
         "disputed": 0,
-        "checked": 13,
-        "reviewed": 13,
+        "checked": 12,
+        "reviewed": 12,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:29:31.953Z",
         "updatedAt": "2023-06-26T05:49:18.215Z",
-        "modifiedAt": "2024-07-26T01:16:27Z",
-        "sha256": "c4da991c2d0f155041a03776b151eeceb51b794682f8d7c494a2037b184b194b"
+        "modifiedAt": "2025-04-17T02:27:27Z",
+        "sha256": "8eb53a1647f7ff0aa07cedf3649191dfb35aa84176e099e1fcb869f6f1a75b2b"
     },
     "scripts/skills/actives/prong_skill.json": {
         "id": 920067,
