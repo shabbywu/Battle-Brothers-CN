@@ -91,8 +91,8 @@
     "ID": 293420213,
     "key": "Pound the target into the ground with the chain and striking head. Somewhat unpredictable, but able to strike over or around shield cover with a bit of luck. A target hit with enough force may be stunned for one turn.",
     "original": "Pound the target into the ground with the chain and striking head. Somewhat unpredictable, but able to strike over or around shield cover with a bit of luck. A target hit with enough force may be stunned for one turn.",
-    "translation": "用链条和敲击头将目标敲入地面。有点难以估计，但如果运气好的话，可以越过或绕过盾牌的掩护。一个被强力击中的目标可能会昏迷一个回合。",
-    "stage": 5,
+    "translation": "用链条和锤头把目标砸倒在地。其伤害不定，但只要一点点运气，就可以从上方或侧方绕过盾牌的防御。这样大的力道或许足以击晕目标一回合。",
+    "stage": 1,
     "context": "this.m.Description = 'Pound the target into the ground with the chain and striking head. Somewhat unpredictable, but able to strike over or around shield cover with a bit of luck. A target hit with enough force may be stunned for one turn.'"
   },
   {
