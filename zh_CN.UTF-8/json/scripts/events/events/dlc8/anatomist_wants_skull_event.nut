@@ -171,7 +171,7 @@
     "ID": 293415213,
     "key": "shortsword",
     "original": "shortsword",
-    "translation": "短剑(shortsword)",
+    "translation": "短剑",
     "stage": 1,
     "context": "'shortsword'"
   },

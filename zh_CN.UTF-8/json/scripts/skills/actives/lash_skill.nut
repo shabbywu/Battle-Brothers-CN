@@ -27,8 +27,8 @@
     "ID": 293420158,
     "key": "Aim for an opponent's head. Somewhat unpredictable in damage, but able to strike over or around shield cover with a bit of luck.",
     "original": "Aim for an opponent's head. Somewhat unpredictable in damage, but able to strike over or around shield cover with a bit of luck.",
-    "translation": "瞄准对手的头。 伤害有点难以估计，但有一点运气能够绕过盾牌的掩护。",
-    "stage": 5,
+    "translation": "朝着对手的脑袋攻击。其伤害不定，却可以从上方或侧方绕过盾牌的防御。",
+    "stage": 1,
     "context": "this.m.Description = \"Aim for an opponent's head. Somewhat unpredictable in damage, but able to strike over or around shield cover with a bit of luck.\""
   },
   {

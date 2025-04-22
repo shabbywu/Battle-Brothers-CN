@@ -3,7 +3,8 @@
     "ID": 629143913,
     "key": "A Flesh Golem",
     "original": "A Flesh Golem",
-    "translation": "",
+    "translation": "一头血肉魔像",
+    "stage": 1,
     "context": "corpse.CorpseName = \"A Flesh Golem\""
   },
   {

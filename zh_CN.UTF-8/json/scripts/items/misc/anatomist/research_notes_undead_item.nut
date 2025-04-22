@@ -3,7 +3,7 @@
     "ID": 293418587,
     "key": "Fallen Hero",
     "original": "Fallen Hero",
-    "translation": "堕落的英雄",
+    "translation": "堕落英雄",
     "stage": 1,
     "context": "creatureName = 'Fallen Hero'"
   },
@@ -123,7 +123,7 @@
     "ID": 293418602,
     "key": "Ancient Skeleton",
     "original": "Ancient Skeleton",
-    "translation": "远古骷髅(Ancient Skeleton)",
+    "translation": "古代骷髅",
     "stage": 1,
     "context": "creatureName = 'Ancient Skeleton'"
   },

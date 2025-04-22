@@ -11,7 +11,7 @@
     "ID": 293417307,
     "key": " Militia",
     "original": " Militia",
-    "translation": "民兵(Militia)",
+    "translation": "的民兵",
     "stage": 1,
     "context": "_faction.spawnEntity(spawnpoints[i], this.m.Settlement.getName() + ' Militia', False, this.Const.World.Spawn.Militia, this.m.Settlement.getResources())"
   }

@@ -3,7 +3,8 @@
     "ID": 629144311,
     "key": "Smack",
     "original": "Smack",
-    "translation": "击打",
+    "translation": "拍击",
+    "stage": 1,
     "context": "this.m.Name = \"Smack\""
   },
   {
@@ -11,6 +12,7 @@
     "key": "Smacked",
     "original": "Smacked",
     "translation": "被拍扁",
+    "stage": 1,
     "context": "this.m.KilledString = \"Smacked\""
   }
 ]
