@@ -3,8 +3,8 @@
     "ID": 293419988,
     "key": "Flailing at an opponent. Somewhat unpredictable in damage, but able to strike over or around shield cover.",
     "original": "Flailing at an opponent. Somewhat unpredictable in damage, but able to strike over or around shield cover.",
-    "translation": "向对手甩击。伤害有点难以预测，但能够绕过盾牌的掩护。",
-    "stage": 5,
+    "translation": "甩出链枷攻击对手。其伤害不定，却可以从上方或侧方绕过盾牌的防御。",
+    "stage": 1,
     "context": "this.m.Description = 'Flailing at an opponent. Somewhat unpredictable in damage, but able to strike over or around shield cover.'"
   },
   {

@@ -219,7 +219,7 @@
     "ID": 293408397,
     "key": " Militia",
     "original": " Militia",
-    "translation": "民兵(Militia)",
+    "translation": "的民兵",
     "stage": 1,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).spawnEntity(home.getTile(), home.getName() + ' Militia', False, this.Const.World.Spawn.Militia, home.getResources() * 0.699999988079071)"
   },
