@@ -6900,7 +6900,7 @@
         "filename": "",
         "format": "json",
         "total": 2,
-        "translated": 0,
+        "translated": 2,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -6908,8 +6908,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:09.478Z",
         "updatedAt": "2025-03-25T16:08:09.478Z",
-        "modifiedAt": "2025-03-25T16:08:09.478Z",
-        "sha256": "040670afb353ac94bcd4990f177bda878e63e891480d57af210366b94d269a93"
+        "modifiedAt": "2025-04-23T03:04:40Z",
+        "sha256": "46ea335f783cb818051a7ad32f958e88d801969983a510ea57343fc0b5def7cc"
     },
     "scripts/entity/world/locations/legendary/ancient_statue_location.json": {
         "id": 918644,
