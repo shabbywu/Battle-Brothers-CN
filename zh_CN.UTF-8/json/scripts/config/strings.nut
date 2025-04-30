@@ -9792,19 +9792,22 @@
     "ID": 629317898,
     "key": "c792b98ce2885032124558cfb1a0d5ebb9a589b52c49e1706aee7ddfb16e3c30",
     "original": "Greater Flesh Golem",
-    "translation": ""
+    "translation": "大型血肉魔像",
+    "stage": 1
   },
   {
     "ID": 629317899,
     "key": "d118f9edcf16358a95ee5e6a452a8d94170f5e4de5f7f1315ec24a69b2fb1608",
     "original": "Greater Flesh Golems",
-    "translation": ""
+    "translation": "大型血肉魔像",
+    "stage": 1
   },
   {
     "ID": 629317900,
     "key": "542f1b926a1aa23a2e3f08abf8b6075e7b01e4d7e064539f6bdcb40937b0c0d6",
     "original": "The Grand Diviner",
-    "translation": ""
+    "translation": "大先知",
+    "stage": 1
   },
   {
     "ID": 629317901,

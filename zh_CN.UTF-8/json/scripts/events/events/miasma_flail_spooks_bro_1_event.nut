@@ -30,6 +30,7 @@
     "ID": 629143976,
     "key": "hauntedbrother",
     "original": "hauntedbrother",
-    "translation": ""
+    "translation": "",
+    "stage": 9
   }
 ]

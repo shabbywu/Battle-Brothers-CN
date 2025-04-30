@@ -10,7 +10,8 @@
     "ID": 629143984,
     "key": "Along the way...",
     "original": "Along the way...",
-    "translation": "",
+    "translation": "在途中……",
+    "stage": 1,
     "context": "this.m.Title = \"Along the way...\""
   },
   {
@@ -30,6 +31,7 @@
     "ID": 629143987,
     "key": "hauntedbrother",
     "original": "hauntedbrother",
-    "translation": ""
+    "translation": "",
+    "stage": 9
   }
 ]

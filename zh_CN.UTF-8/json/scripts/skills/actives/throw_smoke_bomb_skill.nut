@@ -43,8 +43,8 @@
     "ID": 293420655,
     "key": "Extinguishes existing tile effects like Fire or Miasma",
     "original": "Extinguishes existing tile effects like Fire or Miasma",
-    "translation": "熄灭所有已有的格子效果，如火焰或瘴气",
-    "stage": 5,
+    "translation": "清除现有的火焰或瘴气等地格效果",
+    "stage": 1,
     "context": "text = 'Extinguishes existing tile effects like Fire or Miasma'"
   },
   {

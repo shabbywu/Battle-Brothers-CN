@@ -2760,7 +2760,7 @@
         "filename": "",
         "format": "json",
         "total": 1229,
-        "translated": 1224,
+        "translated": 1227,
         "disputed": 0,
         "checked": 188,
         "reviewed": 188,
@@ -2768,8 +2768,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2025-03-25T17:06:30.183Z",
-        "modifiedAt": "2025-04-21T01:30:35Z",
-        "sha256": "ad497f78af2d1287ac6fe360e931dff20ea1791435a334e32a7275617b730b65"
+        "modifiedAt": "2025-04-29T08:35:43Z",
+        "sha256": "95465fb424cf9dfc974521440d6934d89b923780b23f3e33e52f037ddc048807"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -3606,7 +3606,7 @@
         "filename": "",
         "format": "json",
         "total": 54,
-        "translated": 53,
+        "translated": 54,
         "disputed": 0,
         "checked": 6,
         "reviewed": 6,
@@ -3614,8 +3614,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:08.538Z",
         "updatedAt": "2025-03-25T17:06:31.272Z",
-        "modifiedAt": "2025-03-25T16:54:16Z",
-        "sha256": "ca7a8233d9478bd51a646aa6dcbfecbc04573fc3ab638f64177dabc4ab0350a0"
+        "modifiedAt": "2025-04-29T08:09:05Z",
+        "sha256": "4b7c035d068052a8d17c42b6665a72d12635fdd40b7507ae0af9ab6e7a40c4ad"
     },
     "scripts/contracts/contracts/raze_attached_location_contract.json": {
         "id": 918468,
@@ -4020,16 +4020,16 @@
         "filename": "",
         "format": "json",
         "total": 2,
-        "translated": 0,
+        "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
-        "locked": 0,
+        "locked": 1,
         "createdAt": "2025-03-25T16:08:08.827Z",
         "updatedAt": "2025-03-25T16:08:08.827Z",
-        "modifiedAt": "2025-03-25T16:08:08.827Z",
-        "sha256": "920669dbaf68a236092623a13a14b633cb4dd2eaa1854c609705b120e471385d"
+        "modifiedAt": "2025-04-29T08:18:47Z",
+        "sha256": "e40eba1ff46b7e6668977039354c04ed0902c11aa0c04c7dae22c20257120e74"
     },
     "scripts/entity/tactical/enemies/greater_flesh_golem.json": {
         "id": 1940646,
@@ -4128,16 +4128,16 @@
         "filename": "",
         "format": "json",
         "total": 4,
-        "translated": 1,
+        "translated": 4,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
-        "locked": 0,
+        "locked": 3,
         "createdAt": "2025-03-25T16:08:09.036Z",
         "updatedAt": "2025-03-25T16:08:09.036Z",
-        "modifiedAt": "2025-04-21T01:44:07Z",
-        "sha256": "19638b014d877b6d4f02d1fe725930ef47757bc8a1ccecd49276865ba4060781"
+        "modifiedAt": "2025-04-29T08:25:05Z",
+        "sha256": "dfbc5c61f262cc15602eb476fbee673330106b5423f24bd44643a86733d54655"
     },
     "scripts/entity/tactical/enemies/lindwurm.json": {
         "id": 918494,
@@ -6972,7 +6972,7 @@
         "filename": "",
         "format": "json",
         "total": 2,
-        "translated": 0,
+        "translated": 2,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -6980,8 +6980,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:09.596Z",
         "updatedAt": "2025-03-25T16:08:09.596Z",
-        "modifiedAt": "2025-03-25T16:08:09.596Z",
-        "sha256": "261786e4cc1af81011a4faf8f6b48898aee5d9a5eb0e9ce0b4392fba950079dd"
+        "modifiedAt": "2025-04-29T07:57:09Z",
+        "sha256": "63a1ff1365b1491fdbd8c094c1a18759d6197bd02c5c2b4a23ba3b07d4afee13"
     },
     "scripts/entity/world/locations/legendary/black_monolith_location.json": {
         "id": 918647,
@@ -13038,7 +13038,7 @@
         "filename": "",
         "format": "json",
         "total": 6,
-        "translated": 5,
+        "translated": 6,
         "disputed": 0,
         "checked": 2,
         "reviewed": 2,
@@ -13046,8 +13046,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:31.325Z",
         "updatedAt": "2025-03-25T17:06:32Z",
-        "modifiedAt": "2025-03-25T16:54:25Z",
-        "sha256": "f9bf378c1216c1a30b87e55aba23754084c778594348ea9d26e4e19e735715a0"
+        "modifiedAt": "2025-04-29T07:24:35Z",
+        "sha256": "ba108573e2bf0cc6db78f0b349388a70f77086d45cbc3a280e65bffc28cc6780"
     },
     "scripts/events/events/dlc6/desert_feet_event.json": {
         "id": 918984,
@@ -14118,7 +14118,7 @@
         "filename": "",
         "format": "json",
         "total": 23,
-        "translated": 18,
+        "translated": 23,
         "disputed": 0,
         "checked": 3,
         "reviewed": 3,
@@ -14126,8 +14126,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:52.975Z",
         "updatedAt": "2025-03-25T17:06:32.133Z",
-        "modifiedAt": "2025-04-17T02:30:18Z",
-        "sha256": "55abfc83dbdd1a95e245fa4112a71cde6a6059cf762bc2df830181b333ed7f89"
+        "modifiedAt": "2025-04-29T07:23:58Z",
+        "sha256": "9b23d1414bc60ab038faed30adca9e15f842541aea23366aacdc3a8d2fe6bfdc"
     },
     "scripts/events/events/dlc8/killer_on_the_run_reminisces_event.json": {
         "id": 919044,
@@ -15450,16 +15450,16 @@
         "filename": "",
         "format": "json",
         "total": 7,
-        "translated": 0,
+        "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
-        "locked": 0,
+        "locked": 2,
         "createdAt": "2025-03-25T16:08:10.322Z",
         "updatedAt": "2025-03-25T16:08:10.322Z",
-        "modifiedAt": "2025-03-25T16:08:10.322Z",
-        "sha256": "73d38edf78bdbf61e3ca6ff480cb88862e350fed1a5ca65f3c91d5dc887e27e3"
+        "modifiedAt": "2025-04-29T08:32:17Z",
+        "sha256": "db11b92fddeea88c5690b1f7bb43f974d85bc7ee283a790b707745b1df7b66aa"
     },
     "scripts/events/events/miasma_flail_company_nightmare_event.json": {
         "id": 1940656,
@@ -15486,16 +15486,16 @@
         "filename": "",
         "format": "json",
         "total": 5,
-        "translated": 0,
+        "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
-        "locked": 0,
+        "locked": 1,
         "createdAt": "2025-03-25T16:08:10.507Z",
         "updatedAt": "2025-03-25T16:08:10.507Z",
-        "modifiedAt": "2025-03-25T16:08:10.507Z",
-        "sha256": "70a1f293ace61bf5a448fe2e83ce6023aebda6e837985187903795b248795262"
+        "modifiedAt": "2025-04-29T08:31:36Z",
+        "sha256": "575704c472ccc7b5efd18d7b053dc2fe4025b5444d7dbd7e46cad4a8c80ba423"
     },
     "scripts/events/events/miasma_flail_spooks_bro_2_event.json": {
         "id": 1940658,
@@ -15504,16 +15504,16 @@
         "filename": "",
         "format": "json",
         "total": 6,
-        "translated": 0,
+        "translated": 1,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
-        "locked": 0,
+        "locked": 1,
         "createdAt": "2025-03-25T16:08:10.595Z",
         "updatedAt": "2025-03-25T16:08:10.595Z",
-        "modifiedAt": "2025-03-25T16:08:10.595Z",
-        "sha256": "c849471518931b151425e37a83fafa1d3ad34f1e03c21efbd2e9d643b8964523"
+        "modifiedAt": "2025-04-29T08:31:23Z",
+        "sha256": "7d3672c54532421cc2bd020cc3be756fcd4b71802dffeb04d5f0edcfa46e195a"
     },
     "scripts/events/events/miasma_flail_spooks_bro_3_event.json": {
         "id": 1940659,
@@ -15522,16 +15522,16 @@
         "filename": "",
         "format": "json",
         "total": 5,
-        "translated": 0,
+        "translated": 2,
         "disputed": 0,
-        "checked": 0,
-        "reviewed": 0,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
-        "locked": 0,
+        "locked": 1,
         "createdAt": "2025-03-25T16:08:10.693Z",
         "updatedAt": "2025-03-25T16:08:10.693Z",
-        "modifiedAt": "2025-03-25T16:08:10.693Z",
-        "sha256": "64256e147fedfa4418dad15c4c04861cede045204d095a65b1eba04c7f1f5636"
+        "modifiedAt": "2025-04-29T08:30:25Z",
+        "sha256": "3baf484ae13c6f17e46f3a34e755eeff7ec08a429659d515ae7bac2a9680581f"
     },
     "scripts/events/events/miner_atop_world_event.json": {
         "id": 919115,
@@ -17312,8 +17312,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:06.273Z",
         "updatedAt": "2025-03-31T03:38:34.102Z",
-        "modifiedAt": "2025-03-31T03:38:34Z",
-        "sha256": "3f9e38533619c9bdb92b90c0b94bd0bfeea690dcdca8434bf1d36d42e8da884e"
+        "modifiedAt": "2025-04-29T08:00:02Z",
+        "sha256": "c14798e281d8a66d2013517dbf84d61323c9903317867a590e954ed9c44f740e"
     },
     "scripts/factions/actions/defend_bandits_action.json": {
         "id": 919214,
@@ -25124,8 +25124,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:08.151Z",
         "updatedAt": "2025-03-31T03:38:36.314Z",
-        "modifiedAt": "2025-04-21T02:10:54Z",
-        "sha256": "37250ceb8f6c2719e06ed894804f68c2b78d9cad633f744f1ff19df613983540"
+        "modifiedAt": "2025-04-29T08:35:53Z",
+        "sha256": "3263d2ae31a41c492ef2dd4ada5c9e2d2ea3635f53a3f448b9b583f70df058e2"
     },
     "scripts/items/misc/anatomist/research_notes_undead_item.json": {
         "id": 919629,
@@ -31766,8 +31766,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:12:16.616Z",
         "updatedAt": "2025-03-31T03:38:37.145Z",
-        "modifiedAt": "2025-04-14T07:48:37Z",
-        "sha256": "c3e8c08d17d31ad5bebff36797efe46e06b348644ecdd21d206333c7ef08d1c0"
+        "modifiedAt": "2025-04-29T08:18:47Z",
+        "sha256": "d3e415600135369a07bae073dce8178f5111d4ef9cbfcfe1495f782ecf369b3f"
     },
     "scripts/skills/actives/censer_strike.json": {
         "id": 1940686,
@@ -31784,8 +31784,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:12:16.768Z",
         "updatedAt": "2025-03-31T03:38:37.263Z",
-        "modifiedAt": "2025-04-21T02:48:37Z",
-        "sha256": "fd3b3aeab6f1b908c5e6d652a4455b15f717ec52d3acf0165aa390b0f50ea3cb"
+        "modifiedAt": "2025-04-29T08:18:47Z",
+        "sha256": "c2d9e85229da96f469fbd96ba830f86eb22c997a6dac136cbf56632852194ee4"
     },
     "scripts/skills/actives/charge.json": {
         "id": 919992,
@@ -31910,8 +31910,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:12:16.878Z",
         "updatedAt": "2025-03-31T03:38:37.365Z",
-        "modifiedAt": "2025-03-31T03:38:37Z",
-        "sha256": "a9b0ee08ab341c15669518a742a657383829419fe21f3a389f23198dfd14b8de"
+        "modifiedAt": "2025-04-29T08:18:47Z",
+        "sha256": "8adc2fba6722aa3be02dcc7db1bf5c2d9b27a3a2a7d402899a5ad34d18656e91"
     },
     "scripts/skills/actives/corpse_hurl_skill.json": {
         "id": 1940688,
@@ -33146,14 +33146,14 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:29:28.983Z",
         "updatedAt": "2023-06-26T05:49:17.81Z",
-        "modifiedAt": "2023-06-26T05:49:18Z",
-        "sha256": "ddf4f07d3241559e385afa8f3ae15c16ec9f9f2f211ee17ee2890fead3971bd9"
+        "modifiedAt": "2025-04-29T08:18:47Z",
+        "sha256": "cf2c63963f30259dd1a5f8ad73b0878d4a8990db81f1217248198ec64ecaaae0"
     },
     "scripts/skills/actives/move_tail_skill.json": {
         "id": 920061,
@@ -34316,14 +34316,14 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:29:56.389Z",
         "updatedAt": "2023-06-26T05:49:21.799Z",
-        "modifiedAt": "2025-03-04T07:37:47Z",
-        "sha256": "0cba7b143d8d5275f55d1ad4436fffcfa928478abe55f47bbc563fb3783b8534"
+        "modifiedAt": "2025-04-29T08:22:42Z",
+        "sha256": "5bfe3ca8f1d40f0c958570625ea61294e236da25fab0f5850bf192b9b529021d"
     },
     "scripts/skills/actives/throw_golem_skill.json": {
         "id": 920125,
@@ -34406,14 +34406,14 @@
         "total": 9,
         "translated": 9,
         "disputed": 0,
-        "checked": 8,
-        "reviewed": 8,
+        "checked": 7,
+        "reviewed": 7,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:29:58.065Z",
         "updatedAt": "2023-06-26T05:49:22.143Z",
-        "modifiedAt": "2024-08-01T07:07:38Z",
-        "sha256": "96357bf672d453dbc31e7720fe6c3c0954e27782f30f48b100dff7ac7a954104"
+        "modifiedAt": "2025-04-29T08:22:44Z",
+        "sha256": "dac36b5d402b1a924f397b66767b501ad02aa063f2cb52967f683fd257b334e4"
     },
     "scripts/skills/actives/throw_spear_skill.json": {
         "id": 920130,
