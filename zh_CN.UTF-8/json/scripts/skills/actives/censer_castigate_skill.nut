@@ -59,7 +59,7 @@
     "ID": 629144282,
     "key": "Miasma lingers here, harmful to any living being",
     "original": "Miasma lingers here, harmful to any living being",
-    "translation": "此处瘴气弥漫，对一切生灵皆有害。",
+    "translation": "瘴气弥漫此处，毒害所有活物",
     "stage": 1,
     "context": "Tooltip = \"Miasma lingers here, harmful to any living being\""
   },

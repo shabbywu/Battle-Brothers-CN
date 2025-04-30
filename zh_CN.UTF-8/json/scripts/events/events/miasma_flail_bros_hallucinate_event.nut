@@ -37,12 +37,14 @@
     "ID": 629143965,
     "key": "hauntedbrother1",
     "original": "hauntedbrother1",
-    "translation": ""
+    "translation": "",
+    "stage": 9
   },
   {
     "ID": 629143966,
     "key": "hauntedbrother2",
     "original": "hauntedbrother2",
-    "translation": ""
+    "translation": "",
+    "stage": 9
   }
 ]

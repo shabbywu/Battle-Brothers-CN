@@ -131,7 +131,7 @@
     "ID": 629317938,
     "key": "542f1b926a1aa23a2e3f08abf8b6075e7b01e4d7e064539f6bdcb40937b0c0d6",
     "original": "The Grand Diviner",
-    "translation": "大占卜师",
+    "translation": "大先知",
     "stage": 1,
     "context": "creatureName = \"The Grand Diviner\""
   }

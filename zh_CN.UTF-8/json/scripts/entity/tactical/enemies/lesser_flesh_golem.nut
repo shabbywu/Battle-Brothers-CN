@@ -11,18 +11,21 @@
     "ID": 629143914,
     "key": "bludgeon",
     "original": "bludgeon",
-    "translation": ""
+    "translation": "",
+    "stage": 9
   },
   {
     "ID": 629143915,
     "key": "pickaxe",
     "original": "pickaxe",
-    "translation": ""
+    "translation": "",
+    "stage": 9
   },
   {
     "ID": 629143916,
     "key": "shortsword",
     "original": "shortsword",
-    "translation": ""
+    "translation": "",
+    "stage": 9
   }
 ]

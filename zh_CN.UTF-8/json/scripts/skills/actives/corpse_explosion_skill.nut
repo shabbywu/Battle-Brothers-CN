@@ -4,6 +4,7 @@
     "key": " causes a corpse to explode!",
     "original": " causes a corpse to explode!",
     "translation": "导致尸体爆炸！",
+    "stage": 1,
     "context": "this.Const.UI.getColorizedEntityName(_data.User) + \" causes a corpse to explode!\""
   },
   {
@@ -11,6 +12,7 @@
     "key": " causes a flesh cradle to explode!",
     "original": " causes a flesh cradle to explode!",
     "translation": "导致血肉摇篮爆炸！",
+    "stage": 1,
     "context": "this.Const.UI.getColorizedEntityName(_data.User) + \" causes a flesh cradle to explode!\""
   },
   {
@@ -18,13 +20,15 @@
     "key": "Corpse Explosion",
     "original": "Corpse Explosion",
     "translation": "尸体爆炸",
+    "stage": 1,
     "context": "this.m.Name = \"Corpse Explosion\""
   },
   {
     "ID": 629144298,
     "key": "Miasma lingers here, harmful to any living being",
     "original": "Miasma lingers here, harmful to any living being",
-    "translation": "瘴气在此地徘徊，对任何生命体都有害。",
+    "translation": "瘴气弥漫此处，毒害所有活物",
+    "stage": 1,
     "context": "Tooltip = \"Miasma lingers here, harmful to any living being\""
   }
 ]

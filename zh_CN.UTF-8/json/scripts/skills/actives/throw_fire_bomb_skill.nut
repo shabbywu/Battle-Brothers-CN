@@ -11,8 +11,8 @@
     "ID": 293420617,
     "key": "Burns away existing tile effects like Smoke or Miasma",
     "original": "Burns away existing tile effects like Smoke or Miasma",
-    "translation": "烧除所有已有的格子效果，如烟雾或瘴气",
-    "stage": 5,
+    "translation": "烧除现有的烟雾或瘴气等地格效果",
+    "stage": 1,
     "context": "text = 'Burns away existing tile effects like Smoke or Miasma'"
   },
   {
