@@ -3,14 +3,16 @@
     "ID": 629143946,
     "key": "After the battle...",
     "original": "After the battle...",
-    "translation": "",
+    "translation": "战斗之后……",
+    "stage": 1,
     "context": "_event.m.Title = \"After the battle...\""
   },
   {
     "ID": 629143947,
     "key": "As you approach...",
     "original": "As you approach...",
-    "translation": "",
+    "translation": "当你接近时……",
+    "stage": 1,
     "context": "this.m.Title = \"As you approach...\""
   },
   {
@@ -45,7 +47,8 @@
     "ID": 629143952,
     "key": "To battle!",
     "original": "To battle!",
-    "translation": "",
+    "translation": "战斗！",
+    "stage": 1,
     "context": "Text = \"To battle!\""
   },
   {
@@ -59,7 +62,8 @@
     "ID": 629143954,
     "key": "You gain ",
     "original": "You gain ",
-    "translation": "",
+    "translation": "你获得了",
+    "stage": 1,
     "context": "\"You gain \" + this.Const.Strings.getArticle(item.getName()) + item.getName()"
   },
   {
