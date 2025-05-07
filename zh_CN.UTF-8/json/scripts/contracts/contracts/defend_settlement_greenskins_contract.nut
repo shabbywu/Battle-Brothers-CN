@@ -203,7 +203,7 @@
     "ID": 293408450,
     "key": "Fall in line, you'll be under my command.",
     "original": "Fall in line, you'll be under my command.",
-    "translation": "排好队，你将听从我的指挥。",
+    "translation": "入列，我会直接指挥你们。",
     "stage": 1,
     "context": "Text = \"Fall in line, you'll be under my command.\""
   },

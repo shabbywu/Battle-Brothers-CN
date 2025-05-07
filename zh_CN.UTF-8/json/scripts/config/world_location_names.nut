@@ -1907,7 +1907,7 @@
     "ID": 293407221,
     "key": "Malmkrog",
     "original": "Malmkrog",
-    "translation": "玛默角",
+    "translation": "白石角",
     "stage": 1,
     "context": "'Malmkrog'"
   },
@@ -3267,7 +3267,7 @@
     "ID": 293407391,
     "key": "Minarken",
     "original": "Minarken",
-    "translation": "米纳肯",
+    "translation": "塔窟",
     "stage": 1,
     "context": "'Minarken'"
   },
@@ -6016,83 +6016,115 @@
     "context": "'Overgrown Hideout'"
   },
   {
+    "ID": 629317902,
     "key": "a5f013f57a2741ddaed265b5ed6ec454d16b291531243a29b4020f65aec8bb51",
     "original": "Backstabber's Hideout",
-    "translation": "背刺者的藏身处"
+    "translation": "背刺者的藏身处",
+    "stage": 1
   },
   {
+    "ID": 629317903,
     "key": "ebc24d3412826784e43efae6602a09a038b8f8b9fedb8597f7c3c98b37f6481b",
     "original": "Bleached-Out Ruins",
-    "translation": "褪色的废墟"
+    "translation": "褪色的废墟",
+    "stage": 1
   },
   {
+    "ID": 629317904,
     "key": "f10b300c1215d49ba9359a3fa7bcb8b4487e988ab0f5181861cdbeecd9f05b65",
     "original": "Bloodguzzlers' Camp",
-    "translation": "嗜血者营地"
+    "translation": "嗜血者营地",
+    "stage": 1
   },
   {
+    "ID": 629317905,
     "key": "9106b501e215feba960d4a39c824a4dca8f4accff07535c1b906209fa0a690e2",
     "original": "Bloodguzzlers' Hideaway",
-    "translation": "嗜血者藏身处"
+    "translation": "嗜血者藏身处",
+    "stage": 1
   },
   {
+    "ID": 629317906,
     "key": "299d78cbbccee6685b695ccd763d83d0f4d8812eb171c1c12d34aa56b11c130c",
     "original": "Camp of a Thousand Arrows",
-    "translation": "千箭营地"
+    "translation": "千箭营地",
+    "stage": 1
   },
   {
+    "ID": 629317907,
     "key": "8ce6c7ac1d60d5bd7b8037cc4491bac83ad42ba7650a2d9401652b7a99d8557a",
     "original": "Castle of the Mumbling Prince",
-    "translation": "喃喃王子城堡"
+    "translation": "喃喃王子城堡",
+    "stage": 1
   },
   {
+    "ID": 629317908,
     "key": "3f36d951feeb90339666c5cbfe1a10d485e949b2ca58f56fcf7f3a9094e35e7f",
     "original": "Crypt of the Old Rulers",
-    "translation": "旧日统治者之墓穴"
+    "translation": "旧日统治者之墓穴",
+    "stage": 1
   },
   {
+    "ID": 629317909,
     "key": "06359f7a3eb7c115d5690716d054869c55c5405f1827bc50864cac2c606d3693",
     "original": "Halls of the Undying",
-    "translation": "不朽者大厅"
+    "translation": "不朽者大厅",
+    "stage": 1
   },
   {
+    "ID": 629317910,
     "key": "34fec3d6ca0e89485e5e7b0d496139ad0e577ffa2267f6610f117639d5abf1c5",
     "original": "Long Lost Keep",
-    "translation": "失落要塞"
+    "translation": "失落要塞",
+    "stage": 1
   },
   {
+    "ID": 629317911,
     "key": "c1b266b89f3526b7105fe7545b91e1ec3396fc12c882637e1f830a51a2521d92",
     "original": "Palace Under the Earth",
-    "translation": "地底宫殿"
+    "translation": "地底宫殿",
+    "stage": 1
   },
   {
+    "ID": 629317912,
     "key": "9484aee5cf53ea2378e4dcf833b7411ee20691826ce1f7299c25eea25a633cd0",
     "original": "Shelter Between Ruins",
-    "translation": "废墟间的庇护所"
+    "translation": "废墟间的庇护所",
+    "stage": 1
   },
   {
+    "ID": 629317913,
     "key": "a8387907ea24d1a0c77711075f0bcc8c9e50a41a0c30ddfe153c86b78a57d83b",
     "original": "Stronghold Under the Earth",
-    "translation": "地底要塞"
+    "translation": "地底要塞",
+    "stage": 1
   },
   {
+    "ID": 629317914,
     "key": "061cb8ae3f8eb03a5eda351dca02ab5e95972f41084b8f2ee401af73e47f0547",
     "original": "The Exiled Fort",
-    "translation": "流亡堡垒"
+    "translation": "流亡堡垒",
+    "stage": 1
   },
   {
+    "ID": 629317915,
     "key": "1628674a5e96e8137c4a03b20e9e4581730559cfcc7ae4316da740b76d2f9424",
     "original": "Turned-Over Stones",
-    "translation": "翻过的石头"
+    "translation": "翻过的石头",
+    "stage": 1
   },
   {
+    "ID": 629317916,
     "key": "fbb916dc75eda2dc46f38982a9b1fcc9ca074860da219737df92941b0943feee",
     "original": "Walls Under the Sands",
-    "translation": "沙下之墙"
+    "translation": "沙下之墙",
+    "stage": 1
   },
   {
+    "ID": 629317917,
     "key": "8238f27a2e51162ae14acc93bcb1bcab51f00d8e565206462c8417a424dc7f19",
     "original": "Worn-Down Fortress",
-    "translation": "破败要塞"
+    "translation": "破败要塞",
+    "stage": 1
   }
 ]

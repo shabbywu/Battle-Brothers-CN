@@ -2840,8 +2840,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:46.237Z",
         "updatedAt": "2025-03-31T03:38:33.255Z",
-        "modifiedAt": "2025-03-31T03:38:34Z",
-        "sha256": "59a01ec693db47c8ab2ac554846766a5a0a6f6bc7ee92e383c47d50d4e749c78"
+        "modifiedAt": "2025-05-06T02:17:30Z",
+        "sha256": "fd1150a7052b353b1a012a4c578a79d51bc9bf1957158bdfa59e5e3544d4869b"
     },
     "scripts/contracts/contract.json": {
         "id": 918425,
@@ -3092,8 +3092,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:54.455Z",
         "updatedAt": "2023-07-05T12:35:54.186Z",
-        "modifiedAt": "2025-04-20T04:26:30Z",
-        "sha256": "93a69d566e9ec2f3618d420c51cd195def6503b5feed56d8153cad39160df9cb"
+        "modifiedAt": "2025-05-06T02:02:09Z",
+        "sha256": "98a591071e9363f5ff98c8ad78a1a285568ff0c0e6097f5a007ba205f6cf4b84"
     },
     "scripts/contracts/contracts/defend_settlement_greenskins_contract.json": {
         "id": 918439,
@@ -3110,8 +3110,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:54.93Z",
         "updatedAt": "2023-06-26T05:46:41.154Z",
-        "modifiedAt": "2024-07-19T03:07:22Z",
-        "sha256": "b32ebbe636a5f14c9c726a4aa8ae27adacb4b472a86f91d7dbc30e1b5860cfb8"
+        "modifiedAt": "2025-05-06T02:02:09Z",
+        "sha256": "befd6b1be844880fd6630cac2b76d22cde42e080a77800f82490aabde30dd358"
     },
     "scripts/contracts/contracts/deliver_item_contract.json": {
         "id": 918440,
@@ -15324,7 +15324,7 @@
         "filename": "",
         "format": "json",
         "total": 11,
-        "translated": 2,
+        "translated": 11,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -15332,8 +15332,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:10.111Z",
         "updatedAt": "2025-03-25T16:08:10.111Z",
-        "modifiedAt": "2025-04-01T02:27:13Z",
-        "sha256": "ed8ad21799951d6218994ac4f6256fa07b83e455d2179bb5e5cde5e79880af43"
+        "modifiedAt": "2025-05-06T09:17:58Z",
+        "sha256": "7e1280d792be2a6ea470efc13b89c31ccdad6acfa551b37e0389fa7fc65a4b9d"
     },
     "scripts/events/events/location/artifact_reliquary_enter_event.json": {
         "id": 1940654,
@@ -15342,7 +15342,7 @@
         "filename": "",
         "format": "json",
         "total": 14,
-        "translated": 0,
+        "translated": 4,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -15350,8 +15350,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:10.211Z",
         "updatedAt": "2025-03-25T16:08:10.211Z",
-        "modifiedAt": "2025-03-25T16:08:10.211Z",
-        "sha256": "973a867d6b1001d71bc6674a448a6855c9948bbade179d59c98b74e29283ee1f"
+        "modifiedAt": "2025-05-06T09:24:08Z",
+        "sha256": "77aec8d235359896cab267435093aa34193d2bcdae520b359ef1ed49be66f589"
     },
     "scripts/events/events/man_in_forest_event.json": {
         "id": 919110,
@@ -15450,7 +15450,7 @@
         "filename": "",
         "format": "json",
         "total": 7,
-        "translated": 2,
+        "translated": 7,
         "disputed": 0,
         "checked": 2,
         "reviewed": 2,
@@ -15458,8 +15458,8 @@
         "locked": 2,
         "createdAt": "2025-03-25T16:08:10.322Z",
         "updatedAt": "2025-03-25T16:08:10.322Z",
-        "modifiedAt": "2025-04-29T08:32:17Z",
-        "sha256": "db11b92fddeea88c5690b1f7bb43f974d85bc7ee283a790b707745b1df7b66aa"
+        "modifiedAt": "2025-05-06T02:33:41Z",
+        "sha256": "045529ac8f2a6b463038ab3c5d8c7a40f2d7845c0cc6eba5273eb23b6ea547f8"
     },
     "scripts/events/events/miasma_flail_company_nightmare_event.json": {
         "id": 1940656,
@@ -15468,7 +15468,7 @@
         "filename": "",
         "format": "json",
         "total": 4,
-        "translated": 0,
+        "translated": 4,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -15476,8 +15476,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:10.409Z",
         "updatedAt": "2025-03-25T16:08:10.409Z",
-        "modifiedAt": "2025-03-25T16:08:10.409Z",
-        "sha256": "2906d6346208cdd762b51344e58c2d052bebb8827b954b416ceb2fe49e65a54a"
+        "modifiedAt": "2025-05-06T02:59:34Z",
+        "sha256": "7ad1d3a34ed307182d78758dbdd376673db7bcacad819a184ab8f93f6ed322e7"
     },
     "scripts/events/events/miasma_flail_spooks_bro_1_event.json": {
         "id": 1940657,
@@ -15486,7 +15486,7 @@
         "filename": "",
         "format": "json",
         "total": 5,
-        "translated": 1,
+        "translated": 5,
         "disputed": 0,
         "checked": 1,
         "reviewed": 1,
@@ -15494,8 +15494,8 @@
         "locked": 1,
         "createdAt": "2025-03-25T16:08:10.507Z",
         "updatedAt": "2025-03-25T16:08:10.507Z",
-        "modifiedAt": "2025-04-29T08:31:36Z",
-        "sha256": "575704c472ccc7b5efd18d7b053dc2fe4025b5444d7dbd7e46cad4a8c80ba423"
+        "modifiedAt": "2025-05-06T03:13:49Z",
+        "sha256": "7c647534113d4fb55d54f1686921f64bec85ae7e36cab47dc2ca40a275fd65b4"
     },
     "scripts/events/events/miasma_flail_spooks_bro_2_event.json": {
         "id": 1940658,
@@ -15504,7 +15504,7 @@
         "filename": "",
         "format": "json",
         "total": 6,
-        "translated": 1,
+        "translated": 6,
         "disputed": 0,
         "checked": 1,
         "reviewed": 1,
@@ -15512,8 +15512,8 @@
         "locked": 1,
         "createdAt": "2025-03-25T16:08:10.595Z",
         "updatedAt": "2025-03-25T16:08:10.595Z",
-        "modifiedAt": "2025-04-29T08:31:23Z",
-        "sha256": "7d3672c54532421cc2bd020cc3be756fcd4b71802dffeb04d5f0edcfa46e195a"
+        "modifiedAt": "2025-05-06T03:27:06Z",
+        "sha256": "2655c298445ef8acf9de7551a4bdf8daf07225266cda27f07f8c91a7e8cc1cdd"
     },
     "scripts/events/events/miasma_flail_spooks_bro_3_event.json": {
         "id": 1940659,
@@ -15522,7 +15522,7 @@
         "filename": "",
         "format": "json",
         "total": 5,
-        "translated": 2,
+        "translated": 5,
         "disputed": 0,
         "checked": 1,
         "reviewed": 1,
@@ -15530,8 +15530,8 @@
         "locked": 1,
         "createdAt": "2025-03-25T16:08:10.693Z",
         "updatedAt": "2025-03-25T16:08:10.693Z",
-        "modifiedAt": "2025-04-29T08:30:25Z",
-        "sha256": "3baf484ae13c6f17e46f3a34e755eeff7ec08a429659d515ae7bac2a9680581f"
+        "modifiedAt": "2025-05-06T03:42:55Z",
+        "sha256": "d66168eed2aa2cf44264ae32ce7c9048b0366c365377dc5cd88f727e21fcb9d1"
     },
     "scripts/events/events/miner_atop_world_event.json": {
         "id": 919115,
