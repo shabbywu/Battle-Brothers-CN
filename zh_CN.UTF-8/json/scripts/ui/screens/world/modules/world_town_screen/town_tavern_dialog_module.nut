@@ -3,8 +3,8 @@
     "ID": 293423406,
     "key": "Pay for a round to get the patrons to share more news and rumors ([img]gfx/ui/tooltips/money.png[/img]",
     "original": "Pay for a round to get the patrons to share more news and rumors ([img]gfx/ui/tooltips/money.png[/img]",
-    "translation": "付钱为顾客们买轮酒，让顾客分享更多的新闻和谣言 ([img]gfx/ui/tooltips/money.png[/img]",
-    "stage": 5,
+    "translation": "请酒客们喝上一轮，让他们多分享些新鲜事 ([img]gfx/ui/tooltips/money.png[/img]",
+    "stage": 1,
     "context": "LeftInfo = 'Pay for a round to get the patrons to share more news and rumors ([img]gfx/ui/tooltips/money.png[/img]' + this.Math.round(20 * this.m.Tavern.getSettlement().getBuyPriceMult()) + ').'"
   },
   {

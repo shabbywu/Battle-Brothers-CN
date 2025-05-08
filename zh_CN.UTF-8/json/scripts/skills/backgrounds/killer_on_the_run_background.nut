@@ -59,7 +59,7 @@
     "ID": 293421064,
     "key": "the Murderer",
     "original": "the Murderer",
-    "translation": "杀手",
+    "translation": "杀人犯",
     "stage": 1,
     "context": "'the Murderer'"
   },
