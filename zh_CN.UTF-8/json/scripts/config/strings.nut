@@ -9752,13 +9752,15 @@
     "ID": 629317892,
     "key": "11042c2e9365f5a2e7de87a549e7e9ab42d2a1d3642401d5a3b842ec770d479e",
     "original": "Fault Finder",
-    "translation": ""
+    "translation": "寻衅侍僧",
+    "stage": 1
   },
   {
     "ID": 629317893,
     "key": "00652dd43e313b57c9758306da01cbc7325b8fad882dc1cc57867730672d8c2f",
     "original": "Fault Finders",
-    "translation": ""
+    "translation": "寻衅侍僧",
+    "stage": 1
   },
   {
     "ID": 629317894,
