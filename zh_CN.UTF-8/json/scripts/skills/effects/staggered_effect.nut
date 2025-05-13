@@ -40,27 +40,35 @@
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(actor) + ' shook off being staggered thanks to his unnatural physiology')"
   },
   {
+    "ID": 629317968,
     "key": "ccb2f8fb3cff62792429cade2a71f2a237c36549ad99bb5d30f328d9a5dfdee3",
     "original": " for ",
-    "translation": "趔趄了",
+    "translation": "，持续",
+    "stage": 1,
     "context": "_user + \" has staggered \" + _victim + \" for \" + this.getEffectDurationString()"
   },
   {
+    "ID": 629317969,
     "key": "e82b0ac5fe78c4080d551b2bada47d03a9de3ef6dbfbafdab62c51fe4f5bd7dd",
     "original": " has staggered ",
-    "translation": "使",
+    "translation": "趔趄了",
+    "stage": 1,
     "context": "_user + \" has staggered \" + _victim + \" for \" + this.getEffectDurationString()"
   },
   {
+    "ID": 629317970,
     "key": "7798317967754e498dafd47fb05276d5844a617c3cd7072371b5e26f3c2a8041",
     "original": "one turn",
     "translation": "一回合",
+    "stage": 1,
     "context": "ret = \"one turn\""
   },
   {
+    "ID": 629317971,
     "key": "e071e31557739035d337f935509889da0852aac70a258d8bd90f57d3219bc455",
     "original": "two turns",
     "translation": "两回合",
+    "stage": 1,
     "context": "ret = \"two turns\""
   }
 ]

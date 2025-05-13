@@ -2696,8 +2696,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:42.523Z",
         "updatedAt": "2023-06-26T05:46:30.811Z",
-        "modifiedAt": "2024-09-09T15:23:25Z",
-        "sha256": "95f6a524efa30b160b9963eaa0bd1e63f64e2612efecf51dc6994e51e11d33ab"
+        "modifiedAt": "2025-05-12T02:37:11Z",
+        "sha256": "3f85a549bbfabff52d4921f364f560ed4bc1b366ddce746bb3c6d0cbff0801af"
     },
     "scripts/config/items.json": {
         "id": 918417,
@@ -2840,8 +2840,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:46.237Z",
         "updatedAt": "2025-03-31T03:38:33.255Z",
-        "modifiedAt": "2025-05-06T02:17:30Z",
-        "sha256": "fd1150a7052b353b1a012a4c578a79d51bc9bf1957158bdfa59e5e3544d4869b"
+        "modifiedAt": "2025-05-12T02:39:44Z",
+        "sha256": "3abebd01ff9d0bdc68f420743d63847862d9359cbaa48e1d04de8b1a208acabe"
     },
     "scripts/contracts/contract.json": {
         "id": 918425,
@@ -5036,8 +5036,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:09.385Z",
         "updatedAt": "2025-03-25T16:08:09.385Z",
-        "modifiedAt": "2025-04-21T01:56:35Z",
-        "sha256": "ed04105dbb0c8239e002088d1f42468b286c32fb2e8a992dbdb7725f70663ef3"
+        "modifiedAt": "2025-05-12T02:45:41Z",
+        "sha256": "03e65c1b8109a06b41736393a702520c2827b52b9a15cf239555f0c31b832673"
     },
     "scripts/entity/tactical/objects/graveyard_grave.json": {
         "id": 918541,
@@ -18248,7 +18248,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:24.589Z",
         "updatedAt": "2023-06-26T05:48:21.022Z",
-        "modifiedAt": "2024-07-24T08:11:17Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "87dcfbcbcae2eefa69746d7a73fb9143f6e21263ad239547b707248fc5c1433a"
     },
     "scripts/items/accessory/falcon_item.json": {
@@ -18374,7 +18374,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:26.959Z",
         "updatedAt": "2023-06-26T05:48:21.45Z",
-        "modifiedAt": "2024-09-08T05:43:50Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "eb31c1ad1158b54e3a6d1760d5185a856ef3e0b8471f28ad6149487bcd7f5ff0"
     },
     "scripts/items/accessory/legendary/cursed_crystal_skull.json": {
@@ -18410,7 +18410,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:29.234Z",
         "updatedAt": "2023-06-26T05:48:21.571Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "98e08297ef14dc3d9a7dad69561c14fb08b6bec7a3ecf3fbaa59bbcbb019edcc"
     },
     "scripts/items/accessory/night_vision_elixir_item.json": {
@@ -18428,7 +18428,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:29.581Z",
         "updatedAt": "2023-06-26T05:48:21.633Z",
-        "modifiedAt": "2024-07-24T08:57:45Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "424efe0e0f9df0a275363df7fd9f56d1106b315adbf9b364ebce05b5ff700aa2"
     },
     "scripts/items/accessory/oathtaker_skull_01_item.json": {
@@ -18518,7 +18518,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:23:31.667Z",
         "updatedAt": "2023-06-26T05:48:21.944Z",
-        "modifiedAt": "2024-07-25T00:41:37Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "51f00a9725759fd21a028b08cd3ff09160158aa5698ae2179f48601791c34778"
     },
     "scripts/items/accessory/sergeant_badge_item.json": {
@@ -19562,8 +19562,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:32.772Z",
         "updatedAt": "2025-03-31T03:38:34.968Z",
-        "modifiedAt": "2025-03-31T03:38:35Z",
-        "sha256": "86885d18c581b937a354767ccf37c5cc8fec1b1ebd438658f9489b8c89b6a0e6"
+        "modifiedAt": "2025-05-12T04:04:20Z",
+        "sha256": "96affa6987fc5bb9805891e0fd17f2b3b912fd0f647f92dfe85bd3b641fa5421"
     },
     "scripts/items/armor/golems/greater_flesh_golem_armor_03.json": {
         "id": 1940666,
@@ -19580,8 +19580,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:32.859Z",
         "updatedAt": "2025-03-31T03:38:35.053Z",
-        "modifiedAt": "2025-03-31T03:38:35Z",
-        "sha256": "096834061e226857dc61fa7e68ab2ba5c80886e4a6c4b2981c76767e4947ade5"
+        "modifiedAt": "2025-05-12T04:03:01Z",
+        "sha256": "de6157f02df159e9d1439b4d825feffa11524dbbdf0a8a39095c8beb66b9bc5a"
     },
     "scripts/items/armor/greenskins/goblin_heavy_armor.json": {
         "id": 919333,
@@ -22370,8 +22370,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:33.195Z",
         "updatedAt": "2025-03-31T03:38:35.23Z",
-        "modifiedAt": "2025-03-31T03:38:35Z",
-        "sha256": "402973e15063595c1c11a7d5e817a985b32fcd195d27fed02aa1d7c8ff41b189"
+        "modifiedAt": "2025-05-12T04:26:56Z",
+        "sha256": "b2470b3ace1063df89539a7b007d974c7751bc80c98ed90408e52615bd6fd691"
     },
     "scripts/items/helmets/golems/fault_finder_eye_mask.json": {
         "id": 1940668,
@@ -22388,8 +22388,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:33.292Z",
         "updatedAt": "2025-03-31T03:38:35.404Z",
-        "modifiedAt": "2025-03-31T03:38:35Z",
-        "sha256": "e60f1dfe9281b89963cf4d1cf0b31fd30e99fb1891aee398b003279b26fd38f0"
+        "modifiedAt": "2025-05-12T04:11:26Z",
+        "sha256": "12a5700acbc36ec69e5258dc0d245efb3d9937993543e91c2ae510aec815afe1"
     },
     "scripts/items/helmets/golems/fault_finder_facewrap.json": {
         "id": 1940669,
@@ -22406,8 +22406,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:33.38Z",
         "updatedAt": "2025-03-31T03:38:35.5Z",
-        "modifiedAt": "2025-03-31T03:38:36Z",
-        "sha256": "44650c1e852e38f5edd3746a8e9217f78f45514dc4086cfed782d9422eabc107"
+        "modifiedAt": "2025-05-12T03:59:49Z",
+        "sha256": "1db9ddaa5d698a627017ca9a4d1f1abfe0a635599987e011ef595523c6e8cd86"
     },
     "scripts/items/helmets/golems/flesh_golem_facewrap.json": {
         "id": 1940670,
@@ -22478,8 +22478,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:33.817Z",
         "updatedAt": "2025-03-31T03:38:35.853Z",
-        "modifiedAt": "2025-03-31T03:38:36Z",
-        "sha256": "f7de9625f94e94d1dfbddea90216d1f3a51942543f178959436da4d3e1b35276"
+        "modifiedAt": "2025-05-12T04:10:31Z",
+        "sha256": "bba0631b75ac0307e46e286e6ed0ffc43f2978ee62b0194284088cf714668b5f"
     },
     "scripts/items/helmets/golems/greater_flesh_golem_helmet_03.json": {
         "id": 1940674,
@@ -22496,8 +22496,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:33.92Z",
         "updatedAt": "2025-03-31T03:38:35.942Z",
-        "modifiedAt": "2025-03-31T03:38:36Z",
-        "sha256": "039fa5f39d618bdded95a6759166b46d7a49e5705a9e9096ef3b83a65405b221"
+        "modifiedAt": "2025-05-12T04:10:10Z",
+        "sha256": "1ab572992aa7eb5ca929493d978461633d38450f468d15eb4b699765dee99b00"
     },
     "scripts/items/helmets/greatsword_faction_helm.json": {
         "id": 919487,
@@ -24584,7 +24584,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:52.219Z",
         "updatedAt": "2023-06-26T05:48:47.665Z",
-        "modifiedAt": "2024-07-24T08:46:00Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "853ac84dd2e111fdb9b9978d4b2d58360df40620682553fa2d2f2c42e3235ce1"
     },
     "scripts/items/misc/anatomist/ancient_priest_potion_item.json": {
@@ -24602,7 +24602,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:53.641Z",
         "updatedAt": "2023-06-26T05:48:47.724Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "fd55cb56c4dbc284b7be5c5c605f2df360facd3189406e0385b2e72ce6fbb9ca"
     },
     "scripts/items/misc/anatomist/apotheosis_potion_item.json": {
@@ -24620,7 +24620,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:53.981Z",
         "updatedAt": "2023-06-26T05:48:47.783Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "85c1d81f410e2e75e263d19d0063409da5167eed4fb3397b1f91d400d5de3707"
     },
     "scripts/items/misc/anatomist/direwolf_potion_item.json": {
@@ -24638,7 +24638,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:54.606Z",
         "updatedAt": "2023-06-26T05:48:47.846Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "7f48b0b0ab18ee840dad290c3a5d97587c0c7ee83b310909cbb0f35229b9fb11"
     },
     "scripts/items/misc/anatomist/fallen_hero_potion_item.json": {
@@ -24656,7 +24656,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:54.978Z",
         "updatedAt": "2023-06-26T05:48:47.91Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "35ab11709c155c7a934df4273ded64a8b704c077f7b089cfd32eb7cc3c176d4c"
     },
     "scripts/items/misc/anatomist/geist_potion_item.json": {
@@ -24674,7 +24674,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:55.612Z",
         "updatedAt": "2023-06-26T05:48:47.968Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "8d668929f2eb8df0c1ada3dff98aa382169f2a61f5af23f6edec56a3fe3bc065"
     },
     "scripts/items/misc/anatomist/goblin_grunt_potion_item.json": {
@@ -24692,7 +24692,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:56.259Z",
         "updatedAt": "2023-06-26T05:48:48.028Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "f0384dd4f16d1015034221def1f57915e7380e43ce0db193fa01872cc40c736a"
     },
     "scripts/items/misc/anatomist/goblin_overseer_potion_item.json": {
@@ -24710,7 +24710,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:56.635Z",
         "updatedAt": "2023-06-26T05:48:48.095Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "7edef36755fcd428d741cb8269dfa67935a1193be1df3a7a7f522b27a3dc9298"
     },
     "scripts/items/misc/anatomist/goblin_shaman_potion_item.json": {
@@ -24728,7 +24728,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:57.259Z",
         "updatedAt": "2023-06-26T05:48:48.158Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "545324dab77f377c5d177b44ba93a7cf6f6c414b2c90b83d8a5a5d917d1a4a5a"
     },
     "scripts/items/misc/anatomist/grand_diviner_potion_item.json": {
@@ -24746,8 +24746,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:34.223Z",
         "updatedAt": "2025-03-31T03:38:36.039Z",
-        "modifiedAt": "2025-03-31T03:38:36Z",
-        "sha256": "ea8bd7a0c507c72b260e6768f4f9b2e8709f8b608db5d351dd45496b5a5a1198"
+        "modifiedAt": "2025-05-13T00:46:40Z",
+        "sha256": "14a2b5728a190e22ee057ac98790df7cc66308c58a05abcbdb126ce2a2d76323"
     },
     "scripts/items/misc/anatomist/greater_flesh_golem_potion_item.json": {
         "id": 1940677,
@@ -24764,8 +24764,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:34.364Z",
         "updatedAt": "2025-03-31T03:38:36.13Z",
-        "modifiedAt": "2025-03-31T03:38:36Z",
-        "sha256": "cbd11d2764b73253ec721029ec36c228764fedbc298885a51c569fe5ba2a58fe"
+        "modifiedAt": "2025-05-13T00:46:40Z",
+        "sha256": "7c4fcd2c5f4acba911e992c03666024e8aabdf03202c1b72914222e3d63abc1e"
     },
     "scripts/items/misc/anatomist/hexe_potion_item.json": {
         "id": 919610,
@@ -24782,7 +24782,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:57.594Z",
         "updatedAt": "2023-06-26T05:48:48.223Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "d553a5d549875cb7927e8eb68b1a5ed32e7334d6d977ae4c213cb27131d5463c"
     },
     "scripts/items/misc/anatomist/honor_guard_potion_item.json": {
@@ -24800,7 +24800,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:57.939Z",
         "updatedAt": "2023-06-26T05:48:48.287Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "379a5ac8e7000a7ea3053a4e79e5c3524793542fa5ea044addb7c98cdd476fa0"
     },
     "scripts/items/misc/anatomist/hyena_potion_item.json": {
@@ -24818,7 +24818,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:58.283Z",
         "updatedAt": "2023-06-26T05:48:48.345Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "f44597cc6686e932d7332746b091966c5d7e66d00d9059e793a63662132ce5d4"
     },
     "scripts/items/misc/anatomist/ifrit_potion_item.json": {
@@ -24836,7 +24836,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:58.624Z",
         "updatedAt": "2023-06-26T05:48:48.405Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "c60895b2156dab4c67569c854b02681b6bbee66d4d310b906b915bfe002c8d74"
     },
     "scripts/items/misc/anatomist/ijirok_potion_item.json": {
@@ -24854,7 +24854,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:59.024Z",
         "updatedAt": "2023-06-26T05:48:48.483Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "c84a40b2dd32c2ca08c56248adfe3f43ab5ca274543f76d50b8363c84654810b"
     },
     "scripts/items/misc/anatomist/kraken_potion_item.json": {
@@ -24872,7 +24872,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:25:59.364Z",
         "updatedAt": "2023-06-26T05:48:48.542Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "aaebadc07aa9111b3cdc7575f84a0f8c08f17184057c9d62f29c9ee9ad1272ff"
     },
     "scripts/items/misc/anatomist/lesser_flesh_golem_potion_item.json": {
@@ -24890,8 +24890,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:34.459Z",
         "updatedAt": "2025-03-31T03:38:36.216Z",
-        "modifiedAt": "2025-03-31T03:38:36Z",
-        "sha256": "bba1c2c1f6dfd529d150156db2facadaddec5600f7d65ecb0a7310e72741be4a"
+        "modifiedAt": "2025-05-13T00:46:40Z",
+        "sha256": "02ad1b6cf6b718ce87acd0c72eaca8b6000e6840fdef508a9102e217b5f959e2"
     },
     "scripts/items/misc/anatomist/lindwurm_potion_item.json": {
         "id": 919616,
@@ -24908,7 +24908,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:01.087Z",
         "updatedAt": "2023-06-26T05:48:48.598Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "58ce596b2b4e17430b90bf857e1b04ca3043f070931bab1a5a0af4720f89dc9d"
     },
     "scripts/items/misc/anatomist/lorekeeper_potion_item.json": {
@@ -24926,7 +24926,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:01.551Z",
         "updatedAt": "2023-06-26T05:48:48.654Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "588797cbe252747117e059444c5ef1ac09e97d634abe63959fc86e30e32f23c3"
     },
     "scripts/items/misc/anatomist/nachzehrer_potion_item.json": {
@@ -24944,7 +24944,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:02.751Z",
         "updatedAt": "2023-06-26T05:48:48.71Z",
-        "modifiedAt": "2024-09-02T06:53:03Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "75e4fbffd66052fcf176709ef8b6a57322b0638cfbc3185edfd0feda53765200"
     },
     "scripts/items/misc/anatomist/necromancer_potion_item.json": {
@@ -24962,7 +24962,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:03.328Z",
         "updatedAt": "2023-06-26T05:48:48.775Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "24952092d78927751753d35ca838ca03425f5ba6a51c6e4f59a2056d450946e7"
     },
     "scripts/items/misc/anatomist/necrosavant_potion_item.json": {
@@ -24980,7 +24980,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:04.051Z",
         "updatedAt": "2023-06-26T05:48:48.837Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "c51bf6a5aee5e3a1b60e2c488e859450e0d5763a348e89192254d29f37f43712"
     },
     "scripts/items/misc/anatomist/orc_berserker_potion_item.json": {
@@ -24998,7 +24998,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:04.448Z",
         "updatedAt": "2023-06-26T05:48:48.909Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "7deb24546d2450ddfc1d448ad8ab7a964f83881fcc4f002881e87d7bb1aac4f2"
     },
     "scripts/items/misc/anatomist/orc_warlord_potion_item.json": {
@@ -25016,7 +25016,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:04.826Z",
         "updatedAt": "2023-06-26T05:48:48.977Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "faf811465e500f607e0b04f9dd1df8553f361f993be634100d000bf92e12e808"
     },
     "scripts/items/misc/anatomist/orc_warrior_potion_item.json": {
@@ -25034,7 +25034,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:05.16Z",
         "updatedAt": "2023-06-26T05:48:49.034Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "3498c1931fdc11b7c289050f4e6f50ae9b9af04906a27f8dd63fcfd82a084450"
     },
     "scripts/items/misc/anatomist/orc_young_potion_item.json": {
@@ -25052,7 +25052,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:05.788Z",
         "updatedAt": "2023-06-26T05:48:49.086Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "ee7b01b644f5f164b6e5210e6b485cd0754893b33bc3b47eb38aa7eb88dd5d60"
     },
     "scripts/items/misc/anatomist/rachegeist_potion_item.json": {
@@ -25070,7 +25070,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:06.137Z",
         "updatedAt": "2023-06-26T05:48:49.148Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "128a78f4a457b8a2f5922b8a3e5da5d76acc0e636a7383b898e829f3d56a9188"
     },
     "scripts/items/misc/anatomist/research_notes_beasts_item.json": {
@@ -25124,8 +25124,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:08.151Z",
         "updatedAt": "2025-03-31T03:38:36.314Z",
-        "modifiedAt": "2025-04-29T08:35:53Z",
-        "sha256": "3263d2ae31a41c492ef2dd4ada5c9e2d2ea3635f53a3f448b9b583f70df058e2"
+        "modifiedAt": "2025-05-12T04:39:19Z",
+        "sha256": "ce23cb05280f8d4f1c18c0b7928c7ff72df28449a2afaf5a850fc7e1a9c0feb4"
     },
     "scripts/items/misc/anatomist/research_notes_undead_item.json": {
         "id": 919629,
@@ -25160,7 +25160,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:09.137Z",
         "updatedAt": "2023-06-26T05:48:49.499Z",
-        "modifiedAt": "2024-09-13T00:51:44Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "1b053c18c0ad54f4f333aa745ba15c41e2ce39824f09e1a13af556c7ce5bf665"
     },
     "scripts/items/misc/anatomist/serpent_potion_item.json": {
@@ -25178,7 +25178,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:09.766Z",
         "updatedAt": "2023-06-26T05:48:49.56Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "6af55f87d8ca5a9276734acc70b91bdeedbd630dc6df8af8184ee645c23db8cb"
     },
     "scripts/items/misc/anatomist/skeleton_warrior_potion_item.json": {
@@ -25196,7 +25196,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:10.099Z",
         "updatedAt": "2023-06-26T05:48:49.616Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "0b730ee968443c3f72935dd66d20c7a8e487dd1c07f7f890718dec20946bcf70"
     },
     "scripts/items/misc/anatomist/unhold_potion_item.json": {
@@ -25214,7 +25214,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:10.728Z",
         "updatedAt": "2025-03-25T17:06:32.849Z",
-        "modifiedAt": "2025-03-28T02:01:31Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "60054d166126ebb2e5e5871b09267cdf5b42cdb8637479b91abc20123ff67784"
     },
     "scripts/items/misc/anatomist/webknecht_potion_item.json": {
@@ -25232,7 +25232,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:11.064Z",
         "updatedAt": "2023-06-26T05:48:49.732Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "0878e294c56486fada75b844978ff4a7f90bc6c9dccf270ff3e3f606b521fb43"
     },
     "scripts/items/misc/anatomist/wiederganger_potion_item.json": {
@@ -25250,7 +25250,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:11.715Z",
         "updatedAt": "2023-06-26T05:48:49.789Z",
-        "modifiedAt": "2024-09-08T05:44:40Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "0a0686515e374c5442c65ecba30635cdf6e62e79ec21341988ae7074d9457ba3"
     },
     "scripts/items/misc/ancient_wood_item.json": {
@@ -25790,7 +25790,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:24.107Z",
         "updatedAt": "2023-06-26T05:48:51.581Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "0b5ba0cf56d9f7c64221db897f1ec14060d235bb9b6fdd67d76f2146deaa6a7a"
     },
     "scripts/items/misc/potion_of_oblivion_item.json": {
@@ -25808,7 +25808,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:24.441Z",
         "updatedAt": "2023-06-26T05:48:51.639Z",
-        "modifiedAt": "2024-07-24T08:44:13Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "2ed98499088ffe89f9b5fe6a9dd52c9a65f34d328816a52251fd3185a15201f1"
     },
     "scripts/items/misc/serpent_skin_item.json": {
@@ -26780,7 +26780,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:46.977Z",
         "updatedAt": "2023-06-26T05:48:54.79Z",
-        "modifiedAt": "2024-09-08T05:44:54Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "cb5e7e787261414cc20031f8d33acb58847e8e9608b7f27d46b013aa35e313e7"
     },
     "scripts/items/special/broken_ritual_armor_item.json": {
@@ -26816,7 +26816,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:47.986Z",
         "updatedAt": "2023-06-26T05:48:54.912Z",
-        "modifiedAt": "2024-09-08T05:44:59Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "7778ec231e88a735f16d1b0cb98388e2c00f9b20ad06782e86a03983434c2ba7"
     },
     "scripts/items/special/golden_goose_item.json": {
@@ -26888,7 +26888,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:49.338Z",
         "updatedAt": "2023-06-26T05:48:55.147Z",
-        "modifiedAt": "2024-08-01T02:48:32Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "13fd589d1761c73fa25d8236bc14d89f0b4d37a2d81f600b4de03ab32ee40db9"
     },
     "scripts/items/special/trade_jug_01_item.json": {
@@ -26906,7 +26906,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:49.959Z",
         "updatedAt": "2023-06-26T05:48:55.205Z",
-        "modifiedAt": "2024-08-01T02:50:57Z",
+        "modifiedAt": "2025-05-13T00:46:40Z",
         "sha256": "96356cff411aa6a29214e73eda1f3a16b493b3c2a0076d198e0f2e0c6ebdc4b0"
     },
     "scripts/items/stash_container.json": {
@@ -28472,8 +28472,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:39.678Z",
         "updatedAt": "2025-03-31T03:38:36.41Z",
-        "modifiedAt": "2025-03-31T03:38:36Z",
-        "sha256": "fcec3c7b4653dd9fb3d00f7e1a6dc99e7f3d46342a90e3adcca2004bebb75aeb"
+        "modifiedAt": "2025-05-12T04:18:21Z",
+        "sha256": "093355ca61328eef9f4131a82c6a4ae892b82df18326c9d21b5c692088e5d7d6"
     },
     "scripts/items/weapons/golems/golem_mace_flail.json": {
         "id": 1940680,
@@ -28490,8 +28490,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:39.777Z",
         "updatedAt": "2025-03-31T03:38:36.486Z",
-        "modifiedAt": "2025-03-31T03:38:36Z",
-        "sha256": "75ada94860b9ac57515573a184d53fd5243ae705354206f207cc3576ed110dae"
+        "modifiedAt": "2025-05-12T04:18:23Z",
+        "sha256": "07dd9c2959df56baae3a7290417b9a79e3e76341171dec1d116f039a93a37c20"
     },
     "scripts/items/weapons/golems/golem_mace_hammer.json": {
         "id": 1940681,
@@ -28508,8 +28508,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:39.876Z",
         "updatedAt": "2025-03-31T03:38:36.574Z",
-        "modifiedAt": "2025-03-31T03:38:37Z",
-        "sha256": "b37985e95d76116c41b53edeeba6d57b2cf6fbb8684f196ae5318f025d5b9a6d"
+        "modifiedAt": "2025-05-12T04:18:25Z",
+        "sha256": "804b794629bd66ef66df3ce7b81911cfd8c4e54e7e7b4cc6a3cc9aec02a3a91f"
     },
     "scripts/items/weapons/golems/golem_spear_sword.json": {
         "id": 1940682,
@@ -29012,8 +29012,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:12:16.004Z",
         "updatedAt": "2025-03-31T03:38:36.839Z",
-        "modifiedAt": "2025-03-31T03:38:37Z",
-        "sha256": "3b7e94d935d88ce5dd6cafaddd7e780cf95296bb151e569f9d6045f5e496beb2"
+        "modifiedAt": "2025-05-13T01:11:26Z",
+        "sha256": "278473f8aea2575523ff3b1e09b6f6536573a6ab997c8b584a1781914e21fdbd"
     },
     "scripts/items/weapons/legendary/obsidian_dagger.json": {
         "id": 919840,
@@ -31064,8 +31064,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:37.728Z",
         "updatedAt": "2025-03-31T03:38:37.046Z",
-        "modifiedAt": "2025-03-31T03:38:37Z",
-        "sha256": "d43deb2bb2166ea145bce26a7c5827148cf1960cb659b79b17a63bbb132bb449"
+        "modifiedAt": "2025-05-12T02:59:24Z",
+        "sha256": "cae04fcbe79d56acfb705266939f3089043fb31fb1df34978fbd582304b51c63"
     },
     "scripts/retinue/followers/drill_sergeant_follower.json": {
         "id": 919954,
@@ -31928,8 +31928,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:12:16.991Z",
         "updatedAt": "2025-03-31T03:38:37.502Z",
-        "modifiedAt": "2025-03-31T03:38:38Z",
-        "sha256": "f4836aa4eaf36bcb267fc4a32036d6c0876e3a549d9b51ad9e0813b2679261a5"
+        "modifiedAt": "2025-05-12T02:21:03Z",
+        "sha256": "dba00e4670fc4602d42512f138331213d391e0ef84f5960930f53f283739fb79"
     },
     "scripts/skills/actives/crack_the_whip_skill.json": {
         "id": 919998,
@@ -32270,8 +32270,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:12:17.259Z",
         "updatedAt": "2025-03-31T03:38:37.608Z",
-        "modifiedAt": "2025-03-31T03:38:38Z",
-        "sha256": "64b87ede23cdc579b0287b4d0dc1890c1780eecd450eafe9314fe02816db8e0e"
+        "modifiedAt": "2025-05-12T02:25:00Z",
+        "sha256": "3037aa0a56bee3bcd3f4762f6e12762d75d3c4ccf979ba1507f77257184f4b34"
     },
     "scripts/skills/actives/fling_back_skill.json": {
         "id": 920016,
@@ -35312,8 +35312,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:33.224Z",
         "updatedAt": "2025-03-31T03:38:38.254Z",
-        "modifiedAt": "2025-03-31T03:38:38Z",
-        "sha256": "fc6a5ec7f84c72f4e683a029416c4a443340a38fbb92fae53f57a23f7cfd053a"
+        "modifiedAt": "2025-05-12T02:31:21Z",
+        "sha256": "cabea0a6d7c5fe3a7ef609e0e7b0cd389318c78544217fa89ea64ed60f0421e4"
     },
     "scripts/skills/backgrounds/deserter_background.json": {
         "id": 920180,
@@ -35456,8 +35456,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:36.217Z",
         "updatedAt": "2025-03-31T03:38:38.475Z",
-        "modifiedAt": "2025-03-31T03:38:38Z",
-        "sha256": "7314dea47fed3308e8dfd3981582347cb5ad54312834a6415557443bad3b088e"
+        "modifiedAt": "2025-05-12T02:32:30Z",
+        "sha256": "7f9864ec881dbf45771789c88a446308923d6358e88c4b489112e11f495ca95e"
     },
     "scripts/skills/backgrounds/gambler_background.json": {
         "id": 920188,
@@ -36698,8 +36698,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:02.924Z",
         "updatedAt": "2025-03-31T03:38:38.695Z",
-        "modifiedAt": "2025-03-31T03:38:39Z",
-        "sha256": "49f65c83467422973bec5ce039af0d988492692cb5f93cf4c91faba732be5af4"
+        "modifiedAt": "2025-05-12T03:08:20Z",
+        "sha256": "4de3605a83d7360aa0d372d006d7ba52da8500609542ce8629c2b4f94703c9ce"
     },
     "scripts/skills/effects/debilitated_effect.json": {
         "id": 920257,
@@ -36770,8 +36770,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:04.325Z",
         "updatedAt": "2025-03-31T03:38:38.82Z",
-        "modifiedAt": "2025-03-31T03:38:39Z",
-        "sha256": "96dd7a9287087bf5145385891098759a1446628db79ac6a5e55f2cd3b526c7b6"
+        "modifiedAt": "2025-05-12T03:08:56Z",
+        "sha256": "8438149204f6a6c7c984d9b31b3c437684c5c37fdc3e613ec6fe14115a2f7581"
     },
     "scripts/skills/effects/distracted_effect.json": {
         "id": 920261,
@@ -36968,8 +36968,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T17:06:34.49Z",
         "updatedAt": "2025-03-31T03:38:38.913Z",
-        "modifiedAt": "2025-03-31T03:38:39Z",
-        "sha256": "f9a59279f418291c23ebf60ac37fe870442cf7c5e4fde69df103f5d0ed1002fd"
+        "modifiedAt": "2025-05-13T00:55:36Z",
+        "sha256": "791700079f7caeb56a78677d8c83a1d282558ec01cf4ee27c1b403c8631325bc"
     },
     "scripts/skills/effects/greater_flesh_golem_potion_effect.json": {
         "id": 1942390,
@@ -36986,8 +36986,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T17:06:34.597Z",
         "updatedAt": "2025-03-31T03:38:39.234Z",
-        "modifiedAt": "2025-03-31T03:38:39Z",
-        "sha256": "983513a221b1ec621475980e3c35bd428521639347bdaf02ce562fe80a6aa761"
+        "modifiedAt": "2025-05-12T08:07:49Z",
+        "sha256": "d903024befb579a20d6fb706a09cfae396b06afc9d68eb6619ab6cfb256105c2"
     },
     "scripts/skills/effects/gruesome_feast_effect.json": {
         "id": 920271,
@@ -37292,8 +37292,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T17:06:34.697Z",
         "updatedAt": "2025-03-31T03:38:39.383Z",
-        "modifiedAt": "2025-03-31T03:38:39Z",
-        "sha256": "ec9af4f8a0d4fe4a613e33953491af325060285bb3e79d76442d6e5ac72455d7"
+        "modifiedAt": "2025-05-12T08:02:44Z",
+        "sha256": "c1a532b3daad6ad20456a382ff21ed02ca7907a663164e6da2679c96299b85e2"
     },
     "scripts/skills/effects/lindwurm_acid_effect.json": {
         "id": 920287,
@@ -37976,8 +37976,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:36.514Z",
         "updatedAt": "2025-03-31T03:38:39.555Z",
-        "modifiedAt": "2025-03-31T03:38:40Z",
-        "sha256": "8bfcb2cba423bf6ce329a2583146ed0018a458fa78f15133ba72011c87e8a1fe"
+        "modifiedAt": "2025-05-12T03:09:14Z",
+        "sha256": "c6932c2fc43027b20b755077f67a999d1f1312600c6f5f7693778e8f11e55d1d"
     },
     "scripts/skills/effects/stealth_effect.json": {
         "id": 920325,
@@ -38012,8 +38012,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:31:37.204Z",
         "updatedAt": "2025-03-31T03:38:39.675Z",
-        "modifiedAt": "2025-03-31T03:38:40Z",
-        "sha256": "632926dc549232ddf5d014aa4c97229cc89365963db674e819d1899f7bc2e983"
+        "modifiedAt": "2025-05-12T03:09:02Z",
+        "sha256": "8ea5eb4ccfc7be40bd0eea9defe85b474e5f516faf7dc26be6f644968026c0b1"
     },
     "scripts/skills/effects/swallowed_whole_effect.json": {
         "id": 920327,

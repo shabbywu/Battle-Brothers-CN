@@ -32,27 +32,35 @@
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(this.getContainer().getActor()) + ' quickly recovers from being disarmed thanks to his unnatural physiology')"
   },
   {
+    "ID": 629317955,
     "key": "ccb2f8fb3cff62792429cade2a71f2a237c36549ad99bb5d30f328d9a5dfdee3",
     "original": " for ",
-    "translation": "缴械了",
+    "translation": "，持续",
+    "stage": 1,
     "context": "_user + \" has disarmed \" + _victim + \" for \" + this.getEffectDurationString()"
   },
   {
+    "ID": 629317956,
     "key": "ea6205a8bf42cca18bc63d98021a8bcfff3341cdbe344a513d83e52903f3d457",
     "original": " has disarmed ",
-    "translation": "使",
+    "translation": "缴械了",
+    "stage": 1,
     "context": "_user + \" has disarmed \" + _victim + \" for \" + this.getEffectDurationString()"
   },
   {
+    "ID": 629317957,
     "key": "7798317967754e498dafd47fb05276d5844a617c3cd7072371b5e26f3c2a8041",
     "original": "one turn",
     "translation": "一回合",
+    "stage": 1,
     "context": "ret = \"one turn\""
   },
   {
+    "ID": 629317958,
     "key": "e071e31557739035d337f935509889da0852aac70a258d8bd90f57d3219bc455",
     "original": "two turns",
     "translation": "两回合",
+    "stage": 1,
     "context": "ret = \"two turns\""
   }
 ]

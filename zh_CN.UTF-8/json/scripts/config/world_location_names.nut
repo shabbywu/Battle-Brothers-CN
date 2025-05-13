@@ -5947,7 +5947,7 @@
     "ID": 293407726,
     "key": "Foothill Keep",
     "original": "Foothill Keep",
-    "translation": "足峰守卫塔",
+    "translation": "山脚要塞",
     "stage": 1,
     "context": "'Foothill Keep'"
   },
@@ -6019,7 +6019,7 @@
     "ID": 629317902,
     "key": "a5f013f57a2741ddaed265b5ed6ec454d16b291531243a29b4020f65aec8bb51",
     "original": "Backstabber's Hideout",
-    "translation": "背刺者的藏身处",
+    "translation": "背刺者藏身处",
     "stage": 1
   },
   {
@@ -6054,7 +6054,7 @@
     "ID": 629317907,
     "key": "8ce6c7ac1d60d5bd7b8037cc4491bac83ad42ba7650a2d9401652b7a99d8557a",
     "original": "Castle of the Mumbling Prince",
-    "translation": "喃喃王子城堡",
+    "translation": "呢喃王子之城",
     "stage": 1
   },
   {
@@ -6110,14 +6110,14 @@
     "ID": 629317915,
     "key": "1628674a5e96e8137c4a03b20e9e4581730559cfcc7ae4316da740b76d2f9424",
     "original": "Turned-Over Stones",
-    "translation": "翻过的石头",
+    "translation": "翻底石",
     "stage": 1
   },
   {
     "ID": 629317916,
     "key": "fbb916dc75eda2dc46f38982a9b1fcc9ca074860da219737df92941b0943feee",
     "original": "Walls Under the Sands",
-    "translation": "沙下之墙",
+    "translation": "沙中城",
     "stage": 1
   },
   {

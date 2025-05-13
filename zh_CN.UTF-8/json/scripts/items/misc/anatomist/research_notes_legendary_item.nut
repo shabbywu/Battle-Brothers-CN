@@ -115,7 +115,7 @@
     "ID": 629317936,
     "key": "dc0f713ff9a345b91b9893789c19b9d3530783150e43c012133b6f20ada8002d",
     "original": "Potion of Change",
-    "translation": "变身药水",
+    "translation": "变化药剂",
     "stage": 1,
     "context": "potionName = \"Potion of Change\""
   },
@@ -123,7 +123,7 @@
     "ID": 629317937,
     "key": "9e4a1d2d97a3af93cac24603889fe1c71e51022f0cedd05660e069ca4ffae51a",
     "original": "Potion of Progress",
-    "translation": "进步药水",
+    "translation": "卓越药剂",
     "stage": 1,
     "context": "potionName = \"Potion of Progress\""
   },
