@@ -1707,7 +1707,7 @@
     "ID": 293405082,
     "key": "Castigater",
     "original": "Castigater",
-    "translation": "谴责",
+    "translation": "鞭笞者",
     "stage": 1,
     "context": "'Castigater'"
   },

@@ -48,8 +48,10 @@
     "context": "this.m.Requirements[0].Text = 'Have ' + this.Math.min(8, uniqueProvisions) + '/8 different types of provisions'"
   },
   {
+    "ID": 629317945,
     "key": "994162265b55f847e050adccbca5c03216b3602182e014601b3f946f6c08d66b",
     "original": "Increases hitpoint recovery by 1 per hour",
-    "translation": "每小时生命值恢复增加1点。"
+    "translation": "每小时恢复的生命值增加1点。",
+    "stage": 1
   }
 ]
