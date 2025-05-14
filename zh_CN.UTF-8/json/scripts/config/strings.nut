@@ -8403,7 +8403,7 @@
     "ID": 293406686,
     "key": "Beasts of Winter",
     "original": "Beasts of Winter",
-    "translation": "冬天的野兽",
+    "translation": "寒冬猛兽",
     "stage": 1,
     "context": "'Beasts of Winter'"
   },

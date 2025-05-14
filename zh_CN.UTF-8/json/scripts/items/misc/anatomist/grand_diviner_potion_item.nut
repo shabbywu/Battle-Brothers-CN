@@ -35,7 +35,7 @@
     "ID": 629144018,
     "key": "They say the difference between poison and medicine is in the dosage, and perhaps nowhere is this more true than the unusual substance found in the Grand Diviner's censer and, more curiously, bloodstream. Whoever drinks this elixir, brewed from that subst",
     "original": "They say the difference between poison and medicine is in the dosage, and perhaps nowhere is this more true than the unusual substance found in the Grand Diviner's censer and, more curiously, bloodstream. Whoever drinks this elixir, brewed from that substance, will surely gain his same otherwordly vision!",
-    "translation": "人们常说，毒与药的区别在于剂量，这一点在占卜师大人的香炉中，以及更令人好奇的是，在他的血液里发现的那种奇特物质上，体现得尤为贴切。任何人若饮下由这种物质酿制的灵药，必将获得与他同样超凡的洞察力！",
+    "translation": "人们常说，毒与药的区别在于剂量，最能印证这一点的，莫过于这种在大先知香炉里发现，甚至存在于他血液里的奇异物质。而这种物质炼成的灵药，必将授予饮用者不亚于他的超凡洞察力！",
     "stage": 1,
     "context": "this.m.Description = \"They say the difference between poison and medicine is in the dosage, and perhaps nowhere is this more true than the unusual substance found in the Grand Diviner's censer and, more curiously, bloodstream. Whoever drinks this elixir, brewed from that substance, will surely gain his same otherwordly vision!\""
   }

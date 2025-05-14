@@ -2768,8 +2768,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2025-03-25T17:06:30.183Z",
-        "modifiedAt": "2025-05-07T04:22:52Z",
-        "sha256": "6f28f619c2e922c6acd631f46fa432f7cbaf57d0977b50e9d09a4cde40a0f4aa"
+        "modifiedAt": "2025-05-13T02:14:35Z",
+        "sha256": "b504958ea67a109670c7a21ca8347363d822133902b34862ec0a9e1b680bbc5f"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -19526,8 +19526,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:32.56Z",
         "updatedAt": "2025-03-31T03:38:34.581Z",
-        "modifiedAt": "2025-03-31T03:38:35Z",
-        "sha256": "4914eeed35a43fe4e865b82c2b1f21b3ee4a02b16962a11b0d003e314e32a36e"
+        "modifiedAt": "2025-05-13T02:20:36Z",
+        "sha256": "5897e7c1a0035783472c0b7e63ca43ad6c5252c9d5871adbf1fe7bfe5eb04e19"
     },
     "scripts/items/armor/golems/greater_flesh_golem_armor_01.json": {
         "id": 1940664,
@@ -22442,8 +22442,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:33.577Z",
         "updatedAt": "2025-03-31T03:38:35.691Z",
-        "modifiedAt": "2025-03-31T03:38:36Z",
-        "sha256": "7fb8bddddbb163560788ab5b4dd5fe5f5530ecfef2004eb7a2bdb417b5b71e22"
+        "modifiedAt": "2025-05-13T02:20:39Z",
+        "sha256": "0485843598e06bf8fb9d9d6fd94eec4955454414d15c8ff7e2625d8413384b5b"
     },
     "scripts/items/helmets/golems/greater_flesh_golem_helmet_01.json": {
         "id": 1940672,
@@ -24746,8 +24746,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:34.223Z",
         "updatedAt": "2025-03-31T03:38:36.039Z",
-        "modifiedAt": "2025-05-13T00:46:40Z",
-        "sha256": "14a2b5728a190e22ee057ac98790df7cc66308c58a05abcbdb126ce2a2d76323"
+        "modifiedAt": "2025-05-13T01:33:29Z",
+        "sha256": "1e70ce5dbaa6f7689f2d94d536294e4d8b47052d7e507fdd63707bdfe880fc4a"
     },
     "scripts/items/misc/anatomist/greater_flesh_golem_potion_item.json": {
         "id": 1940677,
