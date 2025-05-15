@@ -10346,8 +10346,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:33.441Z",
         "updatedAt": "2023-06-26T05:47:34.821Z",
-        "modifiedAt": "2025-05-07T07:19:21Z",
-        "sha256": "57ea0b8156c4f10a0d8a5ec56eb2bdd21ff5787094ec82595aedddb6f6196b65"
+        "modifiedAt": "2025-05-14T07:33:20Z",
+        "sha256": "4bfaedd02557eb5ff8f0acf9e31898bae01438c9fa351a0eef6a0c46f8f26a56"
     },
     "scripts/events/events/crisis/civilwar_hungry_hamlet_event.json": {
         "id": 918834,
@@ -22370,8 +22370,8 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:33.195Z",
         "updatedAt": "2025-03-31T03:38:35.23Z",
-        "modifiedAt": "2025-05-12T04:26:56Z",
-        "sha256": "b2470b3ace1063df89539a7b007d974c7751bc80c98ed90408e52615bd6fd691"
+        "modifiedAt": "2025-05-14T07:13:21Z",
+        "sha256": "029396cb07f7dc1d4657a6040252b79aa3cb0761c2ecf9084a757b4c6af6423b"
     },
     "scripts/items/helmets/golems/fault_finder_eye_mask.json": {
         "id": 1940668,
