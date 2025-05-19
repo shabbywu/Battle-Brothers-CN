@@ -31028,8 +31028,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:37.052Z",
         "updatedAt": "2023-06-26T05:49:10.433Z",
-        "modifiedAt": "2024-09-05T06:55:21Z",
-        "sha256": "508dffd02652310506a2eec4696d81365933fe73f494e51b505bab909b0c6daa"
+        "modifiedAt": "2025-05-18T11:35:28Z",
+        "sha256": "20e8d1807bd93d0931c11deb48df012cf3fae309139c5f6a0d1dc87b4c03eef7"
     },
     "scripts/retinue/followers/cartographer_follower.json": {
         "id": 919952,

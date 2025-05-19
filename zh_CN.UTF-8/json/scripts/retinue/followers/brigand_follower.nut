@@ -11,7 +11,7 @@
     "ID": 293419563,
     "key": "Makes you see the position of some caravans at all times and even if outside your sight radius",
     "original": "Makes you see the position of some caravans at all times and even if outside your sight radius",
-    "translation": "使你能随时看到一些商队的位置，即便它们在你的视野范围之外",
+    "translation": "使你能随时看到一些车队的位置，即便它们在你的视野范围之外",
     "stage": 1,
     "context": "'Makes you see the position of some caravans at all times and even if outside your sight radius'"
   },
