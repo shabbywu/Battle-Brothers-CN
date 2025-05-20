@@ -51,7 +51,7 @@
     "ID": 293411354,
     "key": "A stone keep that is towering high over the surrounding mountains. Lookouts on the towers can see approaching troops from miles away.",
     "original": "A stone keep that is towering high over the surrounding mountains. Lookouts on the towers can see approaching troops from miles away.",
-    "translation": "一座高耸于周围群山之上的石堡。塔楼上的哨兵可以在数英里之外侦查敌军。",
+    "translation": "一座高耸于周围群山之上的石堡。塔楼上的哨兵可以看到数英里外接近的敌军。",
     "stage": 1,
     "context": "this.m.Description = 'A stone keep that is towering high over the surrounding mountains. Lookouts on the towers can see approaching troops from miles away.'"
   },

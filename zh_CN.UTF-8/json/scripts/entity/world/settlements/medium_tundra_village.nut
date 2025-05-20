@@ -211,8 +211,8 @@
     "ID": 293411636,
     "key": "An established village in the rough tundra",
     "original": "An established village in the rough tundra",
-    "translation": "一座在崎岖的苔原上建立的村庄",
-    "stage": 5,
+    "translation": "一座建立在崎岖苔原上的古老村庄",
+    "stage": 1,
     "context": "this.m.UIDescription = 'An established village in the rough tundra'"
   },
   {
@@ -275,8 +275,8 @@
     "ID": 293411644,
     "key": "An established village in the rough tundra that is a meeting point for the area.",
     "original": "An established village in the rough tundra that is a meeting point for the area.",
-    "translation": "一座在崎岖的苔原上建立的村庄，也是该地区的一个交汇点。",
-    "stage": 5,
+    "translation": "一座建立在崎岖苔原上的古老村庄，附近的河流在此处会合。",
+    "stage": 1,
     "context": "this.m.Description = 'An established village in the rough tundra that is a meeting point for the area.'"
   },
   {

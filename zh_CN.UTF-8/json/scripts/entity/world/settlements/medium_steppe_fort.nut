@@ -179,8 +179,8 @@
     "ID": 293411469,
     "key": "This stone keep is a strongpoint in the area and grants a good view of the surrounding flat and dry lands.",
     "original": "This stone keep is a strongpoint in the area and grants a good view of the surrounding flat and dry lands.",
-    "translation": "这个石堡是该地区的一个战略据点，可以很好地看到周围平坦和干燥的土地。",
-    "stage": 5,
+    "translation": "这座石堡是该地区的一个战略据点，守望着周围平坦而干燥的土地。",
+    "stage": 1,
     "context": "this.m.Description = 'This stone keep is a strongpoint in the area and grants a good view of the surrounding flat and dry lands.'"
   },
   {

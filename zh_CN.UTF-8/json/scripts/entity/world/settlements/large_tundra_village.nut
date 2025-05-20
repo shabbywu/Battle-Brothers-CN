@@ -51,8 +51,8 @@
     "ID": 293411110,
     "key": "A large city and trading hub surrounded by barren tundra",
     "original": "A large city and trading hub surrounded by barren tundra",
-    "translation": "一个被贫瘠苔原包围的大城市和贸易中心",
-    "stage": 5,
+    "translation": "一座被荒芜苔原包围的大城市兼贸易中心",
+    "stage": 1,
     "context": "this.m.UIDescription = 'A large city and trading hub surrounded by barren tundra'"
   },
   {
@@ -91,8 +91,8 @@
     "ID": 293411115,
     "key": "Surrounded by barren tundra, this large city has lasted as an important trading hub and home to thinkers and fine arts.",
     "original": "Surrounded by barren tundra, this large city has lasted as an important trading hub and home to thinkers and fine arts.",
-    "translation": "这座被贫瘠的苔原包围的大城市一直是一个重要的贸易中心，也是思想家和艺术的家园。",
-    "stage": 5,
+    "translation": "这座被荒芜苔原包围的大型城市，不仅长期都是重要的贸易枢纽，还是思想家、艺术家的家园。",
+    "stage": 1,
     "context": "this.m.Description = 'Surrounded by barren tundra, this large city has lasted as an important trading hub and home to thinkers and fine arts.'"
   },
   {

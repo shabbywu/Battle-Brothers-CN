@@ -27,7 +27,7 @@
     "ID": 293412295,
     "key": "A small wooden keep in the dry steppe",
     "original": "A small wooden keep in the dry steppe",
-    "translation": "干草原上的小木屋",
+    "translation": "一座干旱草原上的小型木制堡垒",
     "stage": 1,
     "context": "this.m.UIDescription = 'A small wooden keep in the dry steppe'"
   },
@@ -83,7 +83,7 @@
     "ID": 293412302,
     "key": "This small wooden keep looks wide over the dry steppe and offers shade for weary soldiers.",
     "original": "This small wooden keep looks wide over the dry steppe and offers shade for weary soldiers.",
-    "translation": "这座小木屋在干涸的草原上显得宽阔，为疲惫的士兵提供荫凉。",
+    "translation": "这座小木堡视野开阔，俯瞰着干涸的草原，为疲惫的士兵提供荫凉。",
     "stage": 1,
     "context": "this.m.Description = 'This small wooden keep looks wide over the dry steppe and offers shade for weary soldiers.'"
   },
