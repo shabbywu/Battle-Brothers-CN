@@ -67,7 +67,7 @@
     "ID": 293411048,
     "key": "A modest city spread out over dry spots in the swampy area",
     "original": "A modest city spread out over dry spots in the swampy area",
-    "translation": "一个规模适中的城市在沼泽地区的干旱地区",
+    "translation": "一座建立在沼泽干燥地带的中型城市",
     "stage": 1,
     "context": "this.m.UIDescription = 'A modest city spread out over dry spots in the swampy area'"
   },
@@ -227,7 +227,7 @@
     "ID": 293411068,
     "key": "A collection of many smaller settlements spread out over dry spots in the swampy area to form one modestly sized city.",
     "original": "A collection of many smaller settlements spread out over dry spots in the swampy area to form one modestly sized city.",
-    "translation": "许多较小的定居点分布在沼泽地区的干旱地区，形成了一个中等规模的城市。",
+    "translation": "一系列分布在沼泽干燥地带的小型定居点，共同形成了一座中等规模的城市。",
     "stage": 1,
     "context": "this.m.Description = 'A collection of many smaller settlements spread out over dry spots in the swampy area to form one modestly sized city.'"
   },

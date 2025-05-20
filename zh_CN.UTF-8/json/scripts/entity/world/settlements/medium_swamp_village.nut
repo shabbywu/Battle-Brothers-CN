@@ -75,7 +75,7 @@
     "ID": 293411547,
     "key": "A somewhat larger settlement spread out across various dry and firm spots in the swamp.",
     "original": "A somewhat larger settlement spread out across various dry and firm spots in the swamp.",
-    "translation": "一个稍大的定居点散布在沼泽地中干燥和坚实的地方。",
+    "translation": "一座分散在沼泽干燥坚实地带的较大定居点。",
     "stage": 1,
     "context": "this.m.Description = 'A somewhat larger settlement spread out across various dry and firm spots in the swamp.'"
   },
@@ -243,7 +243,7 @@
     "ID": 293411568,
     "key": "A larger settlement surrounded by foul swamps",
     "original": "A larger settlement surrounded by foul swamps",
-    "translation": "被肮脏的沼泽包围的更大的定居点",
+    "translation": "一座被污浊沼泽包围的较大定居点",
     "stage": 1,
     "context": "this.m.UIDescription = 'A larger settlement surrounded by foul swamps'"
   },

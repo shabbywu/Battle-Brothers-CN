@@ -147,7 +147,7 @@
     "ID": 293411176,
     "key": "A stone keep surrounded by fertile lands and acting as a strongpoint and base of operations in the region.",
     "original": "A stone keep surrounded by fertile lands and acting as a strongpoint and base of operations in the region.",
-    "translation": "一座石头城堡，周围是肥沃的土地，是该地区的据点和行动基地。",
+    "translation": "一座被肥沃土地包围的石头城堡，是扼守此地的重要支点，也是当地军事行动的前哨站。",
     "stage": 1,
     "context": "this.m.Description = 'A stone keep surrounded by fertile lands and acting as a strongpoint and base of operations in the region.'"
   },

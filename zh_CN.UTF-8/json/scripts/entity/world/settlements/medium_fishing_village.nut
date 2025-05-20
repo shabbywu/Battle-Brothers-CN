@@ -35,8 +35,8 @@
     "ID": 293411223,
     "key": "A larger spread out village relying on fishing and a little trade.",
     "original": "A larger spread out village relying on fishing and a little trade.",
-    "translation": "一个分散而开的大村庄，依靠渔业和少量的贸易为生。",
-    "stage": 5,
+    "translation": "一座分散而居的大型村庄，依靠渔业和少量的贸易为生。",
+    "stage": 1,
     "context": "this.m.Description = 'A larger spread out village relying on fishing and a little trade.'"
   },
   {
@@ -219,8 +219,8 @@
     "ID": 293411246,
     "key": "A larger spread out village relying on fishing and a little trade",
     "original": "A larger spread out village relying on fishing and a little trade",
-    "translation": "一个分散而开的大村庄，依靠渔业和少量的贸易为生。",
-    "stage": 5,
+    "translation": "一座分散而居的大型村庄，依靠渔业和少量的贸易为生。",
+    "stage": 1,
     "context": "this.m.UIDescription = 'A larger spread out village relying on fishing and a little trade'"
   },
   {

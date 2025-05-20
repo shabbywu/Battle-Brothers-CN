@@ -267,7 +267,7 @@
     "ID": 293411607,
     "key": "A stone keep securing the surrounding tundra",
     "original": "A stone keep securing the surrounding tundra",
-    "translation": "一座石堡不断地保护着周围的苔原",
+    "translation": "一座守护着周围苔原的石头堡垒",
     "stage": 1,
     "context": "this.m.UIDescription = 'A stone keep securing the surrounding tundra'"
   },
