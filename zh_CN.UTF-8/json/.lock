@@ -12542,8 +12542,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:20.351Z",
         "updatedAt": "2023-06-26T05:47:49.91Z",
-        "modifiedAt": "2024-04-19T07:11:16Z",
-        "sha256": "ace37dcad03870c62896f0827c353d849011b50b749e8fa05eb406281063d101"
+        "modifiedAt": "2025-05-21T07:40:30Z",
+        "sha256": "28b8a27141d32d2919d783185b0092a36de512a729473bb52697f0fc64f62e66"
     },
     "scripts/events/events/dlc4/lone_wolf_origin_squire_event.json": {
         "id": 918956,
