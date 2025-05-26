@@ -4451,7 +4451,7 @@
     "ID": 293405425,
     "key": "Splinter",
     "original": "Splinter",
-    "translation": "分裂者",
+    "translation": "纤刃",
     "stage": 1,
     "context": "'Splinter'"
   },
