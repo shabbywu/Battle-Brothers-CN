@@ -2696,8 +2696,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:42.523Z",
         "updatedAt": "2023-06-26T05:46:30.811Z",
-        "modifiedAt": "2025-05-12T02:37:11Z",
-        "sha256": "3f85a549bbfabff52d4921f364f560ed4bc1b366ddce746bb3c6d0cbff0801af"
+        "modifiedAt": "2025-05-25T03:37:51Z",
+        "sha256": "a742778811a7a7446461b599ec8c61d6bb10641be720530d66ac6cd80c4a5121"
     },
     "scripts/config/items.json": {
         "id": 918417,
