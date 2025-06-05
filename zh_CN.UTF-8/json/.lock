@@ -26546,8 +26546,8 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:26:41.381Z",
         "updatedAt": "2023-06-26T05:48:53.983Z",
-        "modifiedAt": "2024-08-02T03:04:24Z",
-        "sha256": "b0c19dd1359df5f4df418a99cdb51f3f43297add9e44744dfe7058a062e9b100"
+        "modifiedAt": "2025-06-04T07:34:46Z",
+        "sha256": "dcfa37378f9351a7b3e784709ddba9b015e46f6c0303e9efc53fa49d3ad23c6b"
     },
     "scripts/items/shields/named/named_wing_shield.json": {
         "id": 919708,
