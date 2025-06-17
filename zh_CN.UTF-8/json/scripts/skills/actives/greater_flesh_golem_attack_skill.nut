@@ -4,6 +4,7 @@
     "key": "Clout",
     "original": "Clout",
     "translation": "冻结",
+    "stage": 1,
     "context": "this.m.Name = \"Clout\""
   },
   {
@@ -11,6 +12,7 @@
     "key": "Clouted",
     "original": "Clouted",
     "translation": "被冻结",
+    "stage": 1,
     "context": "this.m.KilledString = \"Clouted\""
   }
 ]
