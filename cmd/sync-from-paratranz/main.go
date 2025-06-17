@@ -205,6 +205,7 @@ func core() {
 							// 本地文件未更新
 							// 远程文件也未更新
 							// 跳过更新
+							logger.Printf("文件 %s 未更新, 跳过同步该文件", destFilename)
 							continue
 						}
 					} else {
