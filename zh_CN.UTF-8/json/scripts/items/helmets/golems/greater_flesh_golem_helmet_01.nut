@@ -4,6 +4,7 @@
     "key": "Mask of the Scholar",
     "original": "Mask of the Scholar",
     "translation": "学者面具",
+    "stage": 1,
     "context": "this.m.Name = \"Mask of the Scholar\""
   }
 ]
