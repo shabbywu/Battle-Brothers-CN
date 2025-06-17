@@ -201,7 +201,7 @@ func core() {
 					}
 					digest := fmt.Sprintf("%x", sha256.Sum256(content))
 					if digest == localInfo.Sha256Sum {
-						if localInfo.ModifiedAt.Equal(remoteInfo.ModifiedAt) {
+						if localInfo.Hash == remoteInfo.Hash {
 							// 本地文件未更新
 							// 远程文件也未更新
 							// 跳过更新
