@@ -127,7 +127,6 @@ func core() {
 	}()
 
 	go func() {
-		time.Sleep(time.Second * 1)
 		for filename, remoteInfo := range fileNamesToInfo {
 			select {
 			case <-interrupt:
@@ -162,6 +161,8 @@ func core() {
 				}
 				remoteInfo.Sha256Sum = fmt.Sprintf("%x", sha256.Sum256(content))
 				lockedInfos[filename] = remoteInfo
+				// 更新后主动暂停 0.5s
+				time.Sleep(time.Second * 0.5)
 			}
 
 			if !firstSync {
