@@ -5,7 +5,15 @@ on:
   # 每天0点(UTC时间)执行 1 次
   - cron: "0 0 * * *"
   workflow_dispatch:
-
+    inputs:
+      forceUpdate:
+         description: '强制更新?'
+         required: true
+         default: 'false'
+         type: choice
+         options:
+          - 'true'
+          - 'false'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -24,7 +32,7 @@ jobs:
         PARATRANZ_API_TOKEN: ${{ secrets.PARATRANZ_API_TOKEN }}
       run: |
         make sync-from-paratranz
-        ./bin/sync-from-paratranz --token ${PARATRANZ_API_TOKEN} --project 7032        
+        ./bin/sync-from-paratranz --token ${PARATRANZ_API_TOKEN} --project 7032 --force ${{ inputs.forceUpdate }}     
 
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v6
