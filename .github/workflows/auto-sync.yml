@@ -30,9 +30,10 @@ jobs:
     - name: Build Tools And Sync from ParaTranz
       env:
         PARATRANZ_API_TOKEN: ${{ secrets.PARATRANZ_API_TOKEN }}
+        SYNC_FORCE_UPDATE: ${{ inputs.forceUpdate }}
       run: |
         make sync-from-paratranz
-        ./bin/sync-from-paratranz --token ${PARATRANZ_API_TOKEN} --project 7032 --force ${{ inputs.forceUpdate }}     
+        ./bin/sync-from-paratranz --token ${PARATRANZ_API_TOKEN} --project 7032
 
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v6
