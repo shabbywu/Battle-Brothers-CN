@@ -77,6 +77,7 @@ func core() {
 	for _, file := range files {
 		fileNamesToInfo[file.Name] = file
 	}
+	logger.Printf("ParaTranz 共有 %d 个文件记录", len(fileNamesToInfo))
 
 	lockFileName := filepath.Join(*JsonBaseDir, ".lock")
 	lockedInfos := map[string]models.ParaTranzFileInfo{}
@@ -95,6 +96,7 @@ func core() {
 			logger.Fatalln(errors.Wrap(err, "读取文件锁异常"))
 		}
 	}
+	logger.Printf("本地文件锁共有 %d 个文件记录", len(lockedInfos))
 
 	sigs := make(chan os.Signal, 1)
 	interrupt := make(chan bool, 1)
