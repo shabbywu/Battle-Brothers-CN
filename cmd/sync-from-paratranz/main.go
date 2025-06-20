@@ -162,7 +162,7 @@ func core() {
 				remoteInfo.Sha256Sum = fmt.Sprintf("%x", sha256.Sum256(content))
 				lockedInfos[filename] = remoteInfo
 				// 更新后主动暂停 0.5s
-				time.Sleep(time.Second * 0.5)
+				time.Sleep(time.Second / 2)
 			}
 
 			if !firstSync {
