@@ -88,7 +88,7 @@ func core() {
 		}
 		firstSync = true
 	} else {
-		content, err := ioutil.ReadFile(lockFileName)
+		content, err := os.ReadFile(lockFileName)
 		if err != nil {
 			logger.Fatalln(errors.Wrap(err, "读取文件锁异常"))
 		}
@@ -126,7 +126,7 @@ func core() {
 		}
 	}()
 
-	go func() {
+	func() {
 		for filename, remoteInfo := range fileNamesToInfo {
 			select {
 			case <-interrupt:
@@ -184,6 +184,7 @@ func core() {
 					continue
 				}
 
+				// 备注: info.ModTime 可信度很低, 当且仅当本地一直没 checkout 过其他分支时有参考价值
 				if info.ModTime().Equal(localInfo.ModifiedAt) {
 					// 本地文件未更新, 只需要判断远程文件即可
 					if localInfo.ModifiedAt.Equal(remoteInfo.ModifiedAt) {
@@ -195,20 +196,28 @@ func core() {
 				} else {
 					// 本地文件可能被更新
 					// 判断 sha256sum 是否真的被更新
-					content, err := ioutil.ReadFile(destFilename)
+					content, err := os.ReadFile(destFilename)
 					if err != nil {
 						done <- errors.Wrapf(err, "更新文件 %s 失败, 无法读取该文件", destFilename)
 						return
 					}
 					digest := fmt.Sprintf("%x", sha256.Sum256(content))
 					if digest == localInfo.Sha256Sum {
-						if localInfo.Hash == remoteInfo.Hash {
-							// 本地文件未更新
-							// 远程文件也未更新
-							// 跳过更新
-							logger.Printf("文件 %s 未更新, 跳过同步该文件", destFilename)
+						// digest == localInfo.Sha256Sum 本地文件未更新
+						if localInfo.ModifiedAt.Before(remoteInfo.ModifiedAt) {
+							// 本地文件落后于远程文件
+							update()
 							continue
 						}
+						if localInfo.Hash != remoteInfo.Hash {
+							// 本地文件与远程文件不一致
+							// 备注: Hash 这个属性好像已经不维护了? 目前走不到这个分支
+							update()
+							continue
+						}
+						// 远程文件也未更新, 跳过更新
+						logger.Printf("文件 %s 未更新, 跳过同步该文件", destFilename)
+						continue
 					} else {
 						if localInfo.ModifiedAt.Equal(remoteInfo.ModifiedAt) {
 							// 本地文件被更新, 但未同步至线上
