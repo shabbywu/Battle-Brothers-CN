@@ -3,7 +3,7 @@
     "ID": 293403486,
     "key": "There are cooks, scouts and many more who can support us off the battlefield.\nWe'll hire one that suits our needs best!",
     "original": "There are cooks, scouts and many more who can support us off the battlefield.\nWe'll hire one that suits our needs best!",
-    "translation": "厨师、侦察员这类人，可以在战场之\n外支援我们。我们要雇一个最合宜的！",
+    "translation": "厨师、斥候这类人，可以在战场之\n外支援我们。我们要雇一个最合宜的！",
     "stage": 1,
     "context": "this.m.ButtonText = \"There are cooks, scouts and many more who can support us off the battlefield.\nWe'll hire one that suits our needs best!\""
   },

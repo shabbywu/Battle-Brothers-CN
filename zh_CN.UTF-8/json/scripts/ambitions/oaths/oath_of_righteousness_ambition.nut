@@ -35,7 +35,7 @@
     "ID": 293403682,
     "key": "{For Young Anselm! | As Oathtakers! | And death to the Oathbringers!}",
     "original": "{For Young Anselm! | As Oathtakers! | And death to the Oathbringers!}",
-    "translation": "{为了小安瑟姆！ | 宣誓者万岁！ | 誓约使者去死吧！}",
+    "translation": "{为了小安瑟姆！ | 执誓者万岁！ | 给渡誓者以死亡！}",
     "stage": 1,
     "context": "this.m.SuccessButtonText = '{For Young Anselm! | As Oathtakers! | And death to the Oathbringers!}'"
   },

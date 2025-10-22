@@ -3,7 +3,7 @@
     "ID": 293417332,
     "key": "A warband of barbarian tribals.",
     "original": "A warband of barbarian tribals.",
-    "translation": "一支野蛮部落的战团。",
+    "translation": "一支野蛮人战团。",
     "stage": 5,
     "context": "party.setDescription('A warband of barbarian tribals.')"
   },

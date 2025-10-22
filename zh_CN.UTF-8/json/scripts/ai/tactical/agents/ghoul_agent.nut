@@ -3,6 +3,7 @@
     "ID": 629143772,
     "key": "ghoul",
     "original": "ghoul",
-    "translation": ""
+    "translation": "ghoul",
+    "stage": 9
   }
 ]

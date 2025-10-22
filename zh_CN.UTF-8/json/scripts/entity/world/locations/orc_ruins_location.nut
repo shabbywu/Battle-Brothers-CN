@@ -12,7 +12,7 @@
     "key": "A once proud fortress now lying in ruins.",
     "original": "A once proud fortress now lying in ruins.",
     "translation": "昔日傲立的要塞如今已成废墟。",
-    "stage": 1,
+    "stage": 5,
     "context": "return 'A once proud fortress now lying in ruins.';"
   }
 ]

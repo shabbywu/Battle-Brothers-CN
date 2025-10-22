@@ -20,7 +20,7 @@
     "key": "The Beast Slayers",
     "original": "The Beast Slayers",
     "translation": "野兽杀手",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Title = 'The Beast Slayers'"
   }
 ]

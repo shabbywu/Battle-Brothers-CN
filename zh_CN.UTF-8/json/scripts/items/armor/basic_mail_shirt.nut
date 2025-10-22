@@ -11,8 +11,8 @@
     "ID": 293417605,
     "key": "Basic Mail Shirt",
     "original": "Basic Mail Shirt",
-    "translation": "标准链甲衫",
-    "stage": 1,
+    "translation": "无袖链甲衫",
+    "stage": 5,
     "context": "this.m.Name = 'Basic Mail Shirt'"
   }
 ]

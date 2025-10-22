@@ -147,8 +147,8 @@
     "ID": 293408243,
     "key": "{This isn't worth it. | We're needed elsewhere. | I won't risk the company against southern machines of war.}",
     "original": "{This isn't worth it. | We're needed elsewhere. | I won't risk the company against southern machines of war.}",
-    "translation": "{这不值得。 | 我们还有别的地方要去。 | 我不会冒险将战团置于南方的战争机器之下。}",
-    "stage": 1,
+    "translation": "{这事不划算。 | 我们还有别的地方要去。 | 我不会冒险让战团对抗南方的战争机器。}",
+    "stage": 5,
     "context": "Text = \"{This isn't worth it. | We're needed elsewhere. | I won't risk the company against southern machines of war.}\""
   },
   {
@@ -395,7 +395,7 @@
     "ID": 293408274,
     "key": " Company",
     "original": " Company",
-    "translation": " 战团",
+    "translation": "战团",
     "stage": 1,
     "context": "f.spawnEntity(tiles[0].Tile, candidates[this.Math.rand(0, candidates.len() - 1)].getNameOnly() + ' Company', True, this.Const.World.Spawn.Noble, this.Math.rand(100, 150) * this.getDifficultyMult() * this.getScaledDifficultyMult())"
   },
@@ -483,8 +483,8 @@
     "ID": 293408285,
     "key": "At %townname%",
     "original": "At %townname%",
-    "translation": "在%townname%",
-    "stage": 1,
+    "translation": "%townname%里",
+    "stage": 5,
     "context": "Title = 'At %townname%'"
   },
   {
@@ -563,8 +563,8 @@
     "ID": 293408295,
     "key": "At %holysite%",
     "original": "At %holysite%",
-    "translation": "在 %holysite%",
-    "stage": 1,
+    "translation": "%holysite%里",
+    "stage": 5,
     "context": "Title = 'At %holysite%'"
   }
 ]

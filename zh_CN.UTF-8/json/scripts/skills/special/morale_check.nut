@@ -67,8 +67,8 @@
     "ID": 293422274,
     "key": "Run for your lives! This character has lost it and is fleeing the battlefield in panic.",
     "original": "Run for your lives! This character has lost it and is fleeing the battlefield in panic.",
-    "translation": "逃命吧！这个角色已经失去理智，惊慌失措地逃离战场。",
-    "stage": 1,
+    "translation": "逃命吧！这个角色已经失去理智，正在溃逃。",
+    "stage": 5,
     "context": "text = 'Run for your lives! This character has lost it and is fleeing the battlefield in panic.'"
   },
   {
@@ -163,8 +163,8 @@
     "ID": 293422286,
     "key": "We can't win this! This character's morale is breaking and he is close to fleeing the battlefield.",
     "original": "We can't win this! This character's morale is breaking and he is close to fleeing the battlefield.",
-    "translation": "我军败了！这个角色的士气崩溃，一点风吹草动就能吓跑他。",
-    "stage": 1,
+    "translation": "我们毫无胜算！这个角色的士气处于瓦解状态，一点风吹草动就能吓跑他。",
+    "stage": 5,
     "context": "text = \"We can't win this! This character's morale is breaking and he is close to fleeing the battlefield.\""
   },
   {

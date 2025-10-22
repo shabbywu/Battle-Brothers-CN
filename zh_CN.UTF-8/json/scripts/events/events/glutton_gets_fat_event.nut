@@ -11,7 +11,7 @@
     "ID": 293415884,
     "key": "Drop the pork. Now.",
     "original": "Drop the pork. Now.",
-    "translation": "把猪肉放下, 马上！",
+    "translation": "把猪肉放下，马上！",
     "stage": 1,
     "context": "Text = 'Drop the pork. Now.'"
   },

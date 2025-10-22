@@ -3,8 +3,8 @@
     "ID": 293418059,
     "key": "Decorated Full Helm",
     "original": "Decorated Full Helm",
-    "translation": "装饰全盔",
-    "stage": 1,
+    "translation": "带饰全盔",
+    "stage": 5,
     "context": "this.m.Name = 'Decorated Full Helm'"
   },
   {

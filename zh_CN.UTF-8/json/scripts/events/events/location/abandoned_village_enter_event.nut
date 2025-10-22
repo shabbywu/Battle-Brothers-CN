@@ -75,7 +75,7 @@
     "ID": 629143944,
     "key": "[img]gfx/ui/events/event_178.png[/img]{The fight is being lost. You know these monstrosities must, in part, be made of those who have fallen before them already. Not wishing to suffer such a fate, you order a retreat. The Flesh Golems are not quick enough",
     "original": "[img]gfx/ui/events/event_178.png[/img]{The fight is being lost. You know these monstrosities must, in part, be made of those who have fallen before them already. Not wishing to suffer such a fate, you order a retreat. The Flesh Golems are not quick enough to give chase and lumberingly peel off the rearguard and disappear.\n\nYou might still yet return to this place, for why are those things even here at all?}",
-    "translation": "[img]gfx/ui/events/event_178.png[/img]{战局急转直下。你意识到，这些怪物身上，也一定有那些死在他们手里的人。为了不落得同样的下场，你下令撤退。血肉傀儡们太过笨拙，它们缓慢地处理掉队伍的后卫，渐渐淡出了你的视野。\n\n或许你还会回到这里 — 这里的怪物到底是怎么回事？}",
+    "translation": "[img]gfx/ui/events/event_178.png[/img]{战局急转直下。你意识到，这些怪物身上，也一定有那些死在他们手里的人。为了不落得同样的下场，你下令撤退。血肉魔像们太过笨拙，它们缓慢地处理掉队伍的后卫，渐渐淡出了你的视野。\n\n或许你还会回到这里 — 这里的怪物到底是怎么回事？}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_178.png[/img]{The fight is being lost. You know these monstrosities must, in part, be made of those who have fallen before them already. Not wishing to suffer such a fate, you order a retreat. The Flesh Golems are not quick enough to give chase and lumberingly peel off the rearguard and disappear.\n\nYou might still yet return to this place, for why are those things even here at all?}\""
   },

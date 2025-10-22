@@ -12,7 +12,7 @@
     "key": "Lost most of the company",
     "original": "Lost most of the company",
     "translation": "失去了大部分战团同伴",
-    "stage": 1,
+    "stage": 5,
     "context": "bro.worsenMood(0.5, 'Lost most of the company')"
   },
   {

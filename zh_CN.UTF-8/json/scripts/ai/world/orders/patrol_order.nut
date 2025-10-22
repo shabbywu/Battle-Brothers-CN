@@ -3,6 +3,7 @@
     "ID": 629143900,
     "key": "Patrolling",
     "original": "Patrolling",
-    "translation": ""
+    "translation": "巡逻中",
+    "stage": 1
   }
 ]

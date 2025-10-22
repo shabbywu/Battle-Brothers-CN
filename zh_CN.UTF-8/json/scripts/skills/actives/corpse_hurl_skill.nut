@@ -19,7 +19,7 @@
     "ID": 629144301,
     "key": "Corpse Hurl",
     "original": "Corpse Hurl",
-    "translation": "尸体投掷",
+    "translation": "抛掷尸体",
     "stage": 1,
     "context": "this.m.Name = \"Corpse Hurl\""
   },

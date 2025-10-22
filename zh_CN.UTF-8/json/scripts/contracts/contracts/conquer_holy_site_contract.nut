@@ -12,14 +12,14 @@
     "key": "You spend [color=",
     "original": "You spend [color=",
     "translation": "你花了[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'You spend [color=' + this.Const.UI.Color.NegativeEventValue + ']' + this.Flags.get('MercenaryPay') + '[/color] Crowns'"
   },
   {
     "ID": 293408032,
     "key": "At %holysite%",
     "original": "At %holysite%",
-    "translation": "在 %holysite%",
+    "translation": "%holysite%里",
     "stage": 5,
     "context": "Title = 'At %holysite%'"
   },
@@ -27,16 +27,16 @@
     "ID": 293408033,
     "key": "[img]gfx/ui/events/event_164.png[/img]{The defenses don't look as solid as they did before. You order the %companyname% to take the field in formation where no faulty constructs will get in the way of your command. The southern lieutenant greets you.%SPEE",
     "original": "[img]gfx/ui/events/event_164.png[/img]{The defenses don't look as solid as they did before. You order the %companyname% to take the field in formation where no faulty constructs will get in the way of your command. The southern lieutenant greets you.%SPEECH_ON%You profane %holysite% with blood, for this the Gilder Himself has no doubt drawn you to the field to die like proper men. What have you to say to this?%SPEECH_OFF%You draw your sword.%SPEECH_ON%Wasn't my blood.%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_164.png[/img]{防御看起来不如以前坚固了。你下令%companyname%采取阵型，在没有造假的结构妨碍你的指挥的地方站立。南方中尉向你问好。%SPEECH_ON%你以血亵渎%holysite%，为此，吉尔德亲自命令你到战场像合格的男人一样死去。你有何话可说？%SPEECH_OFF%你拔出你的剑。%SPEECH_ON%不是我的血。%SPEECH_OFF%}",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_164.png[/img]{防御工事看起来不如先前牢固了。你命令%companyname%以战斗队形进入战场，这样有问题的工事就不会妨碍指挥。南方部队的军官走上前来。%SPEECH_ON%们用鲜血玷污了%holysite%，为此镀金者亲自将你们引到此地，像真正的男人一样战死。对此你还有什么可说的？%SPEECH_OFF%你拔剑出鞘。%SPEECH_ON%流的不是我的血。%SPEECH_OFF%}",
+    "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/event_164.png[/img]{The defenses don't look as solid as they did before. You order the %companyname% to take the field in formation where no faulty constructs will get in the way of your command. The southern lieutenant greets you.%SPEECH_ON%You profane %holysite% with blood, for this the Gilder Himself has no doubt drawn you to the field to die like proper men. What have you to say to this?%SPEECH_OFF%You draw your sword.%SPEECH_ON%Wasn't my blood.%SPEECH_OFF%}\""
   },
   {
     "ID": 293408034,
     "key": "We'll make a stand defending the site!",
     "original": "We'll make a stand defending the site!",
-    "translation": "我们将坚守这个地点进行防御！",
-    "stage": 1,
+    "translation": "我们将坚守此地！",
+    "stage": 5,
     "context": "Text = \"We'll make a stand defending the site!\""
   },
   {
@@ -52,15 +52,15 @@
     "key": "Professional soldiers in service to local lords.",
     "original": "Professional soldiers in service to local lords.",
     "translation": "听命于当地领主的职业军人。",
-    "stage": 1,
+    "stage": 5,
     "context": "party.setDescription('Professional soldiers in service to local lords.')"
   },
   {
     "ID": 293408037,
     "key": "[img]gfx/ui/events/%illustration%.png[/img]{As you sheath your weapon and have the company set out to collect what they can from the dead, you get the strange feeling that this is not the first time %holysite% has been home to such bloodshed. Oh well, if ",
     "original": "[img]gfx/ui/events/%illustration%.png[/img]{As you sheath your weapon and have the company set out to collect what they can from the dead, you get the strange feeling that this is not the first time %holysite% has been home to such bloodshed. Oh well, if anyone's gonna be dying in their ancestor's footsteps you're glad it's not you. A few northern soldiers come in to secure the holy tract just as you make your leave for %employer%. | The enemy is defeated and %holysite% reclaimed. A crowd of the faithful slowly trickle in, passing by the dead so they may prostrate themselves at the holiest of spots. Not a one says thanks to you. Not that it matters, that's %employer%'s job. A troop of northern soldiers passes you on your way out, each of the fighters regarding you with sneers and jeers. | With the battle over, little knots of the faithful begins to congregate in the corners of %holysite%. You don't know where these people even came from. They don't mind you, and you don't mind them. What matters now is that %employer% will have a huge trove of crowns awaiting your return. As soon as a few northern soldiers come by, you make your leave.}",
-    "translation": "[img]gfx/ui/events/%illustration%.png[/img]{当你收起武器，让同伴开始搜刮尸体时，你有一种奇怪的感觉，好像这不是第一次发生在 %holysite% 的血腥事件。无论如何，如果有人注定要在这场争斗中死去，你很高兴那个人不是你。几个北方士兵进来保护圣地时，你动身前往 %employer%。 | 你打败了敌人，成功收复了 %holysite%。信徒们缓缓涌入，迈过死者后跪拜在圣地前。没有一个人对你说谢谢。虽然这并不重要，因为那是 %employer% 的工作。一队北方士兵在你出门的路上经过，每个战士都用嘲笑和咒骂的眼神看着你。 | 战斗结束后，一些忠诚的人开始聚集在%holysite%的角落里。你不知道这些人从哪里来，他们不在意你，而你也不在意他们。现在重要的是有大量克朗在 %employer% 那等待着你回去领取。几个北方士兵经过后，你就离开了。}",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/%illustration%.png[/img]{你收起武器，命令战团开始打扫战场，心头却涌起一股异样——仿佛%holysite%早已不是头一回经历此等血洗。也罢，若有人注定要重蹈先祖的覆辙，你很高兴这人不是你。正当你动身前往%employer%处时，一队北方士兵前来接管了这片圣地。 | 你打败了敌人，成功收复了%holysite%。信徒们缓缓涌入，迈过死者后跪拜在圣地前。没人向你道谢，不过无妨，%employer%自然会向你道谢。你在离开时与一队北方士兵擦肩而过，他们所有人都对你报以讥讽的嗤笑。 | 战斗结束后，小群信徒们渐渐在%holysite%的角落聚集。你不知道这些人从哪里来，他们不在意你，而你也不在意他们。现在重要的是有大量克朗在%employer%那等着你回去领取。待一队北方士兵抵达交接后，你率队离去。}",
+    "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/%illustration%.png[/img]{As you sheath your weapon and have the company set out to collect what they can from the dead, you get the strange feeling that this is not the first time %holysite% has been home to such bloodshed. Oh well, if anyone's gonna be dying in their ancestor's footsteps you're glad it's not you. A few northern soldiers come in to secure the holy tract just as you make your leave for %employer%. | The enemy is defeated and %holysite% reclaimed. A crowd of the faithful slowly trickle in, passing by the dead so they may prostrate themselves at the holiest of spots. Not a one says thanks to you. Not that it matters, that's %employer%'s job. A troop of northern soldiers passes you on your way out, each of the fighters regarding you with sneers and jeers. | With the battle over, little knots of the faithful begins to congregate in the corners of %holysite%. You don't know where these people even came from. They don't mind you, and you don't mind them. What matters now is that %employer% will have a huge trove of crowns awaiting your return. As soon as a few northern soldiers come by, you make your leave.}\""
   },
   {
@@ -68,7 +68,7 @@
     "key": "You gain [color=",
     "original": "You gain [color=",
     "translation": "你获得了[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
@@ -76,7 +76,7 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color]克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Payment.getOnCompletion() + '[/color] Crowns'"
   },
   {
@@ -100,15 +100,15 @@
     "key": "You're hired!",
     "original": "You're hired!",
     "translation": "你被雇佣了!",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = \"You're hired!\""
   },
   {
     "ID": 293408043,
     "key": "{This isn't worth it. | It's too long a march. | We have more pressing business to attend to. | We're needed elsewhere.}",
     "original": "{This isn't worth it. | It's too long a march. | We have more pressing business to attend to. | We're needed elsewhere.}",
-    "translation": "{这不值得。 | 这太远了。 | 我们有更紧迫的事情要处理。 | 我们还有别的地方要去。}",
-    "stage": 1,
+    "translation": "{这事不划算。 | 这太远了。 | 我们有更紧迫的事情要处理。 | 我们还有别的地方要去。}",
+    "stage": 5,
     "context": "Text = \"{This isn't worth it. | It's too long a march. | We have more pressing business to attend to. | We're needed elsewhere.}\""
   },
   {
@@ -211,7 +211,7 @@
     "ID": 293408056,
     "key": "{I trust you'll pay amply for an assault like this. | We're ready to do our part. | Let's talk some more about payment.}",
     "original": "{I trust you'll pay amply for an assault like this. | We're ready to do our part. | Let's talk some more about payment.}",
-    "translation": "{我相信你会为这样的袭击付出充分的报酬。 | 我们已经准备好尽自己的一份力了。 | 我们再多谈谈报酬。}",
+    "translation": "{我相信你会为这样的袭击付出充分的报酬。 | 我们已经准备好尽自己的一份力了。 | 我们再谈一谈报酬。}",
     "stage": 1,
     "context": "Text = \"{I trust you'll pay amply for an assault like this. | We're ready to do our part. | Let's talk some more about payment.}\""
   },
@@ -227,7 +227,7 @@
     "ID": 293408058,
     "key": " Company",
     "original": " Company",
-    "translation": " 战团",
+    "translation": "战团",
     "stage": 1,
     "context": "f.spawnEntity(tiles[0].Tile, candidates[this.Math.rand(0, candidates.len() - 1)].getNameOnly() + ' Company', True, this.Const.World.Spawn.Noble, 170 * this.getDifficultyMult() * this.getScaledDifficultyMult())"
   },
@@ -356,7 +356,7 @@
     "key": "Regiment of ",
     "original": "Regiment of ",
     "translation": "团",
-    "stage": 5,
+    "stage": 1,
     "context": "f.spawnEntity(tiles[0].Tile, 'Regiment of ' + candidates[this.Math.rand(0, candidates.len() - 1)].getNameOnly(), True, this.Const.World.Spawn.Southern, this.Math.rand(100, 140) * this.getDifficultyMult() * this.getScaledDifficultyMult())"
   },
   {

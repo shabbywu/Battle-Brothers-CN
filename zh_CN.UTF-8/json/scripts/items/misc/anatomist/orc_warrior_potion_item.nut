@@ -35,7 +35,7 @@
     "ID": 293418522,
     "key": "As any veteran of the Battle of Many Names can attest, to fight an orc warrior is to fight a veritable wall of metal and flesh, seemingly impervious to even the most debilitating of blows. With this potion, now you can be that wall!",
     "original": "As any veteran of the Battle of Many Names can attest, to fight an orc warrior is to fight a veritable wall of metal and flesh, seemingly impervious to even the most debilitating of blows. With this potion, now you can be that wall!",
-    "translation": "正如任何一位名副其实的老兵都可以证明的那样，与兽人战士作战就是与一面金属和血肉铸成的城墙作战，即使是最致命的打击似乎也无法伤其分毫。有了这种药剂，你就可以成为那堵墙了！",
+    "translation": "正如任何一位万名之战的老兵都可以证明的那样，与兽人战士作战就是与一面金属和血肉铸成的城墙作战，即使是最致命的打击似乎也无法伤其分毫。有了这种药剂，你就可以成为那堵墙了！",
     "stage": 1,
     "context": "this.m.Description = 'As any veteran of the Battle of Many Names can attest, to fight an orc warrior is to fight a veritable wall of metal and flesh, seemingly impervious to even the most debilitating of blows. With this potion, now you can be that wall!'"
   }

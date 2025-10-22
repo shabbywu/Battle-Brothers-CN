@@ -51,8 +51,8 @@
     "ID": 293403505,
     "key": "Famous Greatsword",
     "original": "Famous Greatsword",
-    "translation": "名剑",
-    "stage": 5,
+    "translation": "著名大剑",
+    "stage": 1,
     "context": "_vars.push(['nameditem',nameditem != null ? nameditem.getName() : 'Famous Greatsword'])"
   },
   {

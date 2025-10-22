@@ -4,7 +4,7 @@
     "key": "War never changes.",
     "original": "War never changes.",
     "translation": "战争从未改变。",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = 'War never changes.'"
   },
   {

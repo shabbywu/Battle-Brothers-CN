@@ -19,8 +19,8 @@
     "ID": 293408627,
     "key": "[img]gfx/ui/events/event_22.png[/img]{The man joins your ranks, immersing himself in a crowd of brothers who seem to take to him warmly enough for a group of paid killers. The newly hired states he's good with all weapons, but you figure you'll be the one",
     "original": "[img]gfx/ui/events/event_22.png[/img]{The man joins your ranks, immersing himself in a crowd of brothers who seem to take to him warmly enough for a group of paid killers. The newly hired states he's good with all weapons, but you figure you'll be the one to decide what he's best with. | The prisoner grins from ear to ear as you wave him in. A few brothers ask what weapons they should give him, but you shrug and figure you'll see to yourself what to arm the man with.}",
-    "translation": "[img]gfx/ui/events/event_22.png[/img]{这名男子加入了你的战团，融入了一群兄弟中，这些人似乎对他非常友好，尽管他们只是一群拿钱杀人的人。新雇的人员表示他对所有武器都很擅长，但你认为你应该决定他最擅长的是什么。 | 囚犯满脸笑容，你挥手让他加入。几位兄弟问应该给他什么武器，但你耸了耸肩，想着你自己会决定如何武装这个人。}",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_22.png[/img]{这这名男子加入了你的队伍，融入这群兄弟之中——对于一群雇佣杀手来说，大家对他的接纳算得上相当热情了。新来的自称精通所有武器，但你觉得该由你来决定他最擅长用什么。 | 当你招手让囚犯加入时，他笑得合不拢嘴。几个弟兄询问该给他配什么武器，你耸耸肩说你会自己决定给这人装备什么。}",
+    "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/event_22.png[/img]{The man joins your ranks, immersing himself in a crowd of brothers who seem to take to him warmly enough for a group of paid killers. The newly hired states he's good with all weapons, but you figure you'll be the one to decide what he's best with. | The prisoner grins from ear to ear as you wave him in. A few brothers ask what weapons they should give him, but you shrug and figure you'll see to yourself what to arm the man with.}\""
   },
   {
@@ -28,7 +28,7 @@
     "key": "We move out!",
     "original": "We move out!",
     "translation": "我们出发！",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = 'We move out!'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "You might as well join us.",
     "original": "You might as well join us.",
     "translation": "你不妨加入我们。",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = 'You might as well join us.'"
   },
   {
@@ -51,24 +51,24 @@
     "ID": 293408631,
     "key": "[img]gfx/ui/events/event_07.png[/img]The bounty hunters are too much for the %companyname%! Not wanting your men needlessly killed, you order a hasty retreat. Unfortunately, the head of %robberbaron% was lost in the chaos...",
     "original": "[img]gfx/ui/events/event_07.png[/img]The bounty hunters are too much for the %companyname%! Not wanting your men needlessly killed, you order a hasty retreat. Unfortunately, the head of %robberbaron% was lost in the chaos...",
-    "translation": "[img]gfx/ui/events/event_07.png[/img]赏金猎人对于%companyname%过于强大！为了不让你的士兵不必要的死去，你下令紧急撤退。不幸的是，在混乱中失去了%robberbaron%的头颅。",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_07.png[/img]赏金猎人对%companyname%来说实力过于强大！你不愿让队员们白白送死，下令仓促撤退。不幸的是，%robberbaron%的首级在混乱中丢失了……",
+    "stage": 5,
     "context": "Text = '[img]gfx/ui/events/event_07.png[/img]The bounty hunters are too much for the %companyname%! Not wanting your men needlessly killed, you order a hasty retreat. Unfortunately, the head of %robberbaron% was lost in the chaos...'"
   },
   {
     "ID": 293408632,
     "key": "[img]gfx/ui/events/event_22.png[/img]{Just as the battle ends and things begin to quiet, you hear a man shouting. You move toward the noise to find a prisoner of the brigands. He's got ropes over his mouth and hands which you quickly undo. As he catches h",
     "original": "[img]gfx/ui/events/event_22.png[/img]{Just as the battle ends and things begin to quiet, you hear a man shouting. You move toward the noise to find a prisoner of the brigands. He's got ropes over his mouth and hands which you quickly undo. As he catches his breath, he meekly asks if maybe he could join your outfit. | You find a prisoner tied up in the brigands' camp. Freeing him, he explains that he is from %randomtown%, and was kidnapped by the vagabonds just a few days ago. He asks if maybe he could join your band of mercenaries. | Rummaging what's left of the brigands' camp, you discover a prisoner of theirs. Freeing him, the man sits up and explains that the brigands kidnapped him as he was traveling to %randomtown% in seek of work. You wonder if maybe he could work for you instead... | A man is left behind after the battle. He's not a brigand, but in fact a prisoner of theirs. When you ask who he is, he mentions that he is from %randomtown% and that he's looking for work. You ask if he can wield a sword. He nods.}",
-    "translation": "[img]gfx/ui/events/event_22.png[/img]{战斗结束后，安静开始回归，你听到有人在喊叫。你朝着那里走去，发现一名囚犯被歹徒绑了起来。他嘴里和手上都套着绳子，你很快将其解开。他喘息着，虚弱地问道是否可以加入你的公司。 | 你在歹徒的营地发现了一名被绑架的囚犯。将他解救出来后，他解释说他来自%randomtown%，几天前被流浪汉绑架。他请求能否加入你的雇佣兵团。 | 翻找歹徒营地残留的物品，你发现了一名囚犯。将他解救出来后，他坐起身来，解释说他在前往%randomtown%寻求工作时被歹徒绑架。你想知道他是否能为你工作，取代被打败的雇佣兵团。 | 战斗结束后，留下了一个人。他不是歹徒，而是他们的囚犯。当你问他是谁时，他提到他来自%randomtown%，正在寻找工作。你问他是否能挥舞剑，他点了点头。}",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_22.png[/img]{战斗刚结束，一切开始安静下来时，你听到一名男子的喊叫声。循声而去，发现是匪徒的一名囚犯。他的嘴和双手都被绳索捆绑，你迅速解开了束缚。他喘过气后，怯生生地询问能否加入你们的队伍。 | 在匪徒营地中发现一名被捆绑的囚犯。解救他后，他解释自己来自%randomtown%，几天前刚被这群流寇绑架。他询问是否能加入你的佣兵团队。 | 在翻捡匪徒营地的残余物资时，你发现了他们关押的一名囚犯。释放他后，男子坐起身来解释，自己是在前往%randomtown%找工作的途中被这些匪徒绑架的。你在想或许他可以为你效力…… | 战斗结束后一名男子还留在战场上。他并非匪徒，实际上是他们的囚犯。当你问起他的身份时，他提到自己来自%randomtown%并且正在找工作。你问他是否会使剑。他点了点头。}",
+    "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/event_22.png[/img]{Just as the battle ends and things begin to quiet, you hear a man shouting. You move toward the noise to find a prisoner of the brigands. He's got ropes over his mouth and hands which you quickly undo. As he catches his breath, he meekly asks if maybe he could join your outfit. | You find a prisoner tied up in the brigands' camp. Freeing him, he explains that he is from %randomtown%, and was kidnapped by the vagabonds just a few days ago. He asks if maybe he could join your band of mercenaries. | Rummaging what's left of the brigands' camp, you discover a prisoner of theirs. Freeing him, the man sits up and explains that the brigands kidnapped him as he was traveling to %randomtown% in seek of work. You wonder if maybe he could work for you instead... | A man is left behind after the battle. He's not a brigand, but in fact a prisoner of theirs. When you ask who he is, he mentions that he is from %randomtown% and that he's looking for work. You ask if he can wield a sword. He nods.}\""
   },
   {
     "ID": 293408633,
     "key": "[img]gfx/ui/events/event_07.png[/img]{Heading back to collect on your contract, a few men step out onto the road. One of them points at the head of %robberbaron%. %SPEECH_ON%We are the highest paid bounty hunters in these parts and I believe you're carryi",
     "original": "[img]gfx/ui/events/event_07.png[/img]{Heading back to collect on your contract, a few men step out onto the road. One of them points at the head of %robberbaron%. %SPEECH_ON%We are the highest paid bounty hunters in these parts and I believe you're carrying off a bit of our business. Give us that there head and all parties shall get to sleep in their beds tonight.%SPEECH_OFF%You laugh.%SPEECH_ON%You will have to try better than that. %robberbaron%'s head is worth a lot of crowns, my friend.%SPEECH_OFF%The leader of these supposed bounty hunters laughs right back at you. He lifts up a bulbously weighted sack.%SPEECH_ON%This here is %randomname%, one of the more wanted fellas in these parts. And this...%SPEECH_OFF%He holds up another sack.%SPEECH_ON%Is the head of the man who killed him. Understand? So hand over the bounty and we can all be on our way.%SPEECH_OFF% | A man steps out onto the road, straightens up, and postures toward you.%SPEECH_ON%Hello good sirs. I believe you have the head of %robberbaron% in your midst.%SPEECH_OFF%You nod. The man smiles.%SPEECH_ON%Would you please kindly turn it over to me.%SPEECH_OFF%You laugh and shake your head. The man doesn't smile, instead he raises a hand and snaps his fingers. A throng of well-armed men pour out of some nearby bushes, marching onto the road to the tune of heavy metal clinks and clanks. They look like what a man on death row might dream of the night before his reckoning. Their leader flashes a gold-speckled grin.%SPEECH_ON%I'm not gonna ask you again.%SPEECH_OFF% | While talking to %randombrother%, a loud yell draws your attention. You look up the road to see a mob of men standing in your way. They got all manner of weaponry and armor. Their ringleader steps forward, announcing that they are famed bounty hunters.%SPEECH_ON%We only wish to have the head of %robberbaron%.%SPEECH_OFF%You shrug.%SPEECH_ON%We killed the man, we're collecting on his head. Now get out of our way.%SPEECH_OFF%When you take one step forward, the bounty hunters raise their weapons. Their leader takes one step toward you.%SPEECH_ON%There's a choice to be made here that could get a lot of good men killed. I know it isn't easy, but I do suggest you think it over very carefully.%SPEECH_OFF% | A sharp whistle draws the attention of you and your men. You turn to the side of the road to see a group of men emerging from some bushes. Everyone draws their weapons, but the strangers don't move a foot further. Their ringleader steps forward. He's got a bandolier of ears going across his chest, a summation of his handiwork.%SPEECH_ON%Hello fellas. We here are bounty hunters, if you couldn't tell, and I do believe you have one of our bounties.%SPEECH_OFF%You lift the head of %robberbaron%.%SPEECH_ON%You mean this?%SPEECH_OFF%The ringleader smiles warmly.%SPEECH_ON%Of course. Now if you could please hand it over, that'd sit pretty well with me and my friends.%SPEECH_OFF%Tapping the hilt of his sword, the man grins.%SPEECH_ON%It's only a matter of business. I'm sure you understand.%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_07.png[/img]{返回领取契约时，几个人走上了路。其中一个人指向%robberbaron%的头。%SPEECH_ON%我们是这个地方最高薪水的赏金猎人，我相信你们抢了我们的活计。把头给我们，今晚所有人都可以安然入睡。%SPEECH_OFF%你笑了。%SPEECH_ON%你需要比这更强。%robberbaron%的头值很多克朗，我的朋友。%SPEECH_OFF%这些所谓的赏金猎人的领袖也对你大声笑了。他举起了一个沉甸甸的袋子。%SPEECH_ON%这里有%randomname%，这里是这个地方最想抓的家伙之一。还有这个......%SPEECH_OFF%他举起另一个袋子。%SPEECH_ON%是杀了他的人的头。明白了吗？所以把赏金交出来，我们就可以离开了。%SPEECH_OFF% | 一个人走上了路，挺直了身子，对着你摆出姿势。%SPEECH_ON%你好先生们。我相信你们中有人拿着%robberbaron%的头。%SPEECH_OFF%你点了点头。那个人微笑了。%SPEECH_ON%能请你友好地将它交给我吗？%SPEECH_OFF%你笑了，摇了摇头。那个人没有笑，他举起一只手，啪地一声响指。一群武装瓦解的人从附近的灌木丛中出来，摇曳着重金属的响声从路上传来。他们看起来像是行刑前夜一个男人的梦。他们的领袖露出了一丝布满金点的冷笑。%SPEECH_ON%我不会再问你一遍。%SPEECH_OFF% | 在与%randombrother%交谈时，一个响亮的喊声引起了你的注意。你抬头看到一群人挡住了你的路。他们手持各种武器和盔甲。他们的头儿走到前面，宣布他们是著名的赏金猎人。%SPEECH_ON%我们只希望得到%robberbaron%的头。%SPEECH_OFF%你耸了耸肩。%SPEECH_ON%我们杀了那个人，我们要得到他的头颅。现在请把路让开。%SPEECH_OFF%当你向前迈了一步时，赏金猎人们举起了武器。他们的领袖向你走了一步。%SPEECH_ON%这里有一个选择，可以让很多好人死去。我知道这不容易，但我建议你认真考虑。%SPEECH_OFF% | 一声尖啸吸引了你和你的人的注意。你转向路的一侧，看到一群人从一些灌木丛中走了出来。每个人拔出了武器，但这些陌生人没有再往前走一步。他们的头儿走了过来。他胸前挂着一个穿过他胸前的弹药带，它是他的杰作的总结。%SPEECH_ON%各位，你们好。我们是赏金猎人，如果你还不知道，我相信你拿着我们的悬赏之一。%SPEECH_OFF%你举起了%robberbaron%的头。%SPEECH_ON%你是说这个吗？%SPEECH_OFF%头目热情地笑了。%SPEECH_ON%当然。如果你能把它交给我，我和我的朋友们会很高兴的。%SPEECH_OFF%他拍打着剑柄，露出笑容。%SPEECH_ON%这只是商业的问题。我相信你明白的。%SPEECH_OFF%}",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_07.png[/img]{正当你们返回交付合约时，几个人拦在了路中央。其中一人指着%robberbaron%的首级。%SPEECH_ON%我们是这带报酬最高的赏金猎人，我看你们正在抢我们的生意。把那脑袋交出来，今晚大家就都能安稳睡个好觉。%SPEECH_OFF%你大笑。%SPEECH_ON%光说可不够。%robberbaron%的脑袋值不少克朗呢，朋友。%SPEECH_OFF%那个自称赏金猎人头目的人也朝你大笑。他提起一个鼓鼓囊囊的袋子。%SPEECH_ON%这里面是%randomname%，这带最值钱的通缉犯之一。而这个...%SPEECH_OFF%他又举起另一个袋子。%SPEECH_ON%是宰了他的那家伙的脑袋。明白了吗？所以把脑袋交出来，我们各走各路。%SPEECH_OFF% | 一个男人走到路中间，挺直身子朝你们摆开架势。%SPEECH_ON%各位先生好。我相信你们手里有%robberbaron%的脑袋。%SPEECH_OFF%你点头。那人笑了。%SPEECH_ON%麻烦你们行个好，把它交给我吧。%SPEECH_OFF%你大笑着摇头。那人收起笑容，抬手打了个响指。一群全副武装的人从附近灌木丛里涌出，伴着金属碰撞的叮当声列队挡在路中间。他们模样狰狞得像是死囚临刑前夜会梦见的恶鬼。头目露出镶着金牙的笑容。%SPEECH_ON%我不会再问第二遍。%SPEECH_OFF% | 正和%randombrother%交谈时，一声大喊吸引了你的注意。抬头望去，只见一群人挡在路中央。他们装备着各式武器盔甲。为首者上前宣布他们是著名的赏金猎人。%SPEECH_ON%我们只要%robberbaron%的脑袋。%SPEECH_OFF%你耸耸肩。%SPEECH_ON%人是我们杀的，赏金自然归我们。现在让开。%SPEECH_OFF%当你向前迈出一步时，赏金猎人们纷纷举起武器。他们的首领朝你逼近一步。%SPEECH_ON%现在做的决定可能会让很多好汉送命。我知道这口气不好咽下，但我建议你仔细想清楚。%SPEECH_OFF% | 一声尖哨吸引了你和队员们的注意。转向路旁，只见一群人从灌木丛中现身。所有人都拔出武器，但这些陌生人并未再靠近。为首者走上前来，胸前斜挎的皮带上串满耳朵——这是他手艺的汇总。%SPEECH_ON%嘿哥们儿。我们是赏金猎人——要是你们还没看出来的话，而且我确信你们手里有我们的一个赏金目标。%SPEECH_OFF%你举起%robberbaron%的脑袋。%SPEECH_ON%是说这个吗？%SPEECH_OFF%头目热情地笑了。%SPEECH_ON%当然。现在请你们把它交出来，这样我和我的朋友们都会很满意。%SPEECH_OFF%那人轻敲剑柄，咧嘴一笑。%SPEECH_ON%相信你能理解，我们只是来挣钱的。%SPEECH_OFF%}",
+    "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/event_07.png[/img]{Heading back to collect on your contract, a few men step out onto the road. One of them points at the head of %robberbaron%. %SPEECH_ON%We are the highest paid bounty hunters in these parts and I believe you're carrying off a bit of our business. Give us that there head and all parties shall get to sleep in their beds tonight.%SPEECH_OFF%You laugh.%SPEECH_ON%You will have to try better than that. %robberbaron%'s head is worth a lot of crowns, my friend.%SPEECH_OFF%The leader of these supposed bounty hunters laughs right back at you. He lifts up a bulbously weighted sack.%SPEECH_ON%This here is %randomname%, one of the more wanted fellas in these parts. And this...%SPEECH_OFF%He holds up another sack.%SPEECH_ON%Is the head of the man who killed him. Understand? So hand over the bounty and we can all be on our way.%SPEECH_OFF% | A man steps out onto the road, straightens up, and postures toward you.%SPEECH_ON%Hello good sirs. I believe you have the head of %robberbaron% in your midst.%SPEECH_OFF%You nod. The man smiles.%SPEECH_ON%Would you please kindly turn it over to me.%SPEECH_OFF%You laugh and shake your head. The man doesn't smile, instead he raises a hand and snaps his fingers. A throng of well-armed men pour out of some nearby bushes, marching onto the road to the tune of heavy metal clinks and clanks. They look like what a man on death row might dream of the night before his reckoning. Their leader flashes a gold-speckled grin.%SPEECH_ON%I'm not gonna ask you again.%SPEECH_OFF% | While talking to %randombrother%, a loud yell draws your attention. You look up the road to see a mob of men standing in your way. They got all manner of weaponry and armor. Their ringleader steps forward, announcing that they are famed bounty hunters.%SPEECH_ON%We only wish to have the head of %robberbaron%.%SPEECH_OFF%You shrug.%SPEECH_ON%We killed the man, we're collecting on his head. Now get out of our way.%SPEECH_OFF%When you take one step forward, the bounty hunters raise their weapons. Their leader takes one step toward you.%SPEECH_ON%There's a choice to be made here that could get a lot of good men killed. I know it isn't easy, but I do suggest you think it over very carefully.%SPEECH_OFF% | A sharp whistle draws the attention of you and your men. You turn to the side of the road to see a group of men emerging from some bushes. Everyone draws their weapons, but the strangers don't move a foot further. Their ringleader steps forward. He's got a bandolier of ears going across his chest, a summation of his handiwork.%SPEECH_ON%Hello fellas. We here are bounty hunters, if you couldn't tell, and I do believe you have one of our bounties.%SPEECH_OFF%You lift the head of %robberbaron%.%SPEECH_ON%You mean this?%SPEECH_OFF%The ringleader smiles warmly.%SPEECH_ON%Of course. Now if you could please hand it over, that'd sit pretty well with me and my friends.%SPEECH_OFF%Tapping the hilt of his sword, the man grins.%SPEECH_ON%It's only a matter of business. I'm sure you understand.%SPEECH_OFF%}\""
   },
   {
@@ -83,7 +83,7 @@
     "ID": 293408635,
     "key": " %direction% of %origin%",
     "original": " %direction% of %origin%",
-    "translation": "(%origin%%direction%方)",
+    "translation": "%origin%%direction%边的强盗",
     "stage": 5,
     "context": "'Drive off brigands at ' + this.Flags.get('DestinationName') + ' %direction% of %origin%'"
   },
@@ -91,32 +91,32 @@
     "ID": 293408636,
     "key": "[img]gfx/ui/events/event_07.png[/img]You've seen enough bloodshed for today and hand the head over.",
     "original": "[img]gfx/ui/events/event_07.png[/img]You've seen enough bloodshed for today and hand the head over.",
-    "translation": "[img]gfx/ui/events/event_07.png[/img]你今天已经看了足够的流血，把头交给他们吧。",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_07.png[/img]你觉得今天流的血够多了，于是把脑袋给了他们。",
+    "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/event_07.png[/img]You've seen enough bloodshed for today and hand the head over.\""
   },
   {
     "ID": 293408637,
     "key": "[img]gfx/ui/events/event_22.png[/img]{The battle finished, you walk over to %robberbaron%'s slain body and remove his head with two quick thwacks of your sword, the first cutting the meat, the second the bone. You drive a hook through the lip of neckflesh",
     "original": "[img]gfx/ui/events/event_22.png[/img]{The battle finished, you walk over to %robberbaron%'s slain body and remove his head with two quick thwacks of your sword, the first cutting the meat, the second the bone. You drive a hook through the lip of neckflesh and draw a rope so as to attach it your hip. | With the fighting over, you quickly search for and find %robberbaron%'s corpse amongst the dead. He still looks mighty mean even as the color leaves his body. He still looks quite  mean when you relieve his head of his body and though you can't see his face any longer as you toss his head into a burlap sack, you assume he still looks pretty mean then, too. | %robberbaron% lies dead at your feet. You turn the body over and straighten out the neck, giving your sword a better target. It takes two good cuts to remove the head which you quickly put into a mealsack. | Now that he's dead, %robberbaron% suddenly reminds you of a lot of men you used to know. You don't settle on the deja vu for long: with a few quick slashes of a sword, you remove the man's head before tossing it into a sack. | %robberbaron% put up a good fight and his neck put up another, the sinews and bones not letting his head go easily as you collect your bounty. | You collect %robberbaron%'s head. %randombrother% points at it as you walk past.%SPEECH_ON%What is that? Is that %robberbaron%'s...?%SPEECH_OFF%You shake your head.%SPEECH_ON%Naw, that man is dead. This here is just bonus pay.%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_22.png[/img]{战斗结束后，你走向%robberbaron%的尸体，用剑快速地砍了两下，一刀肉，一刀骨。你钩住脖子上的肉，系上绳子，挂在腰间。 | 战斗结束后，你快速搜索并找到在死者中的%robberbaron%尸体。纵使面色苍白，他依然显得威武。你将他的头从身体上拔下，随手丢进麻袋里。你认为，如果你还能看见他的脸，他依然看上去威武无比。 | %robberbaron%倒在你脚下。你翻过他的身体，伸直了脖子，为你的剑提供更好的目标。你砍了两刀，将他的头迅速放入麻袋。 | 既然他死了，%robberbaron%突然让你想起了你认识的许多人。你没想那么多：几下快速的挥剑，你把他的头斩了下来，随手扔进一个袋子里。 | %robberbaron%打了一场漂亮的仗，而他的脖子又再一次证明了这一点，肌腱和骨头尚未从他的头脖上分离，你成功获得了悬赏金。 | 你拿起%robberbaron%的头。%randombrother%指着它说道：%SPEECH_ON%那是什么？那是%robberbaron%的……？%SPEECH_OFF%你摇了摇头。%SPEECH_ON%不，那家伙已经挂了。这只是额外的报酬而已。%SPEECH_OFF%}",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_22.png[/img]{战斗结束，你走到%robberbaron%的尸体旁，利落的两剑斩下了他的首级——第一剑切开皮肉，第二剑斩断骨骼。你用钩子刺入颈肉边缘，系上绳索挂在了腰间。 | 战事平息后，你迅速在尸堆中翻找出%robberbaron%的遗体。尽管血色正从躯体褪去，他面容仍显狰狞。当你将首级与躯干分离时那模样依旧狰狞，即便把脑袋扔进粗麻袋再也看不见面容，你猜那副尊容想必还是相当狰狞。 | %robberbaron%倒毙在你脚边。你将尸体翻过面来，摆正脖颈以便剑刃瞄准。两记利落劈斩后首级应声而落，你迅速将其塞进麻袋。 | %robberbaron%毙命后，他突然让你想起许多故人。你没沉溺于这既视感太久：剑光几闪便取下首级，随手抛入行囊。 | %robberbaron%顽强抗争过，他的脖颈又负隅顽抗了一番——筋络骨骼都不让你轻易取走首级兑换赏金。 | 你收好%robberbaron%的首级。经过时%randombrother%指着它问。%SPEECH_ON%那是？该不会是%robberbaron%的……？%SPEECH_OFF%你摇摇头。%SPEECH_ON%不，那人已经死了。这玩意儿只是换赏金用的。%SPEECH_OFF%}",
+    "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/event_22.png[/img]{The battle finished, you walk over to %robberbaron%'s slain body and remove his head with two quick thwacks of your sword, the first cutting the meat, the second the bone. You drive a hook through the lip of neckflesh and draw a rope so as to attach it your hip. | With the fighting over, you quickly search for and find %robberbaron%'s corpse amongst the dead. He still looks mighty mean even as the color leaves his body. He still looks quite  mean when you relieve his head of his body and though you can't see his face any longer as you toss his head into a burlap sack, you assume he still looks pretty mean then, too. | %robberbaron% lies dead at your feet. You turn the body over and straighten out the neck, giving your sword a better target. It takes two good cuts to remove the head which you quickly put into a mealsack. | Now that he's dead, %robberbaron% suddenly reminds you of a lot of men you used to know. You don't settle on the deja vu for long: with a few quick slashes of a sword, you remove the man's head before tossing it into a sack. | %robberbaron% put up a good fight and his neck put up another, the sinews and bones not letting his head go easily as you collect your bounty. | You collect %robberbaron%'s head. %randombrother% points at it as you walk past.%SPEECH_ON%What is that? Is that %robberbaron%'s...?%SPEECH_OFF%You shake your head.%SPEECH_ON%Naw, that man is dead. This here is just bonus pay.%SPEECH_OFF%}\""
   },
   {
     "ID": 293408638,
     "key": "[img]gfx/ui/events/event_22.png[/img]{You shake your head no. The man frowns.%SPEECH_ON%Are you sure? I'm pretty good with...%SPEECH_OFF%You cut him off.%SPEECH_ON%I'm sure. Now enjoy your newfound freedom, stranger.%SPEECH_OFF% | You appraise the man and",
     "original": "[img]gfx/ui/events/event_22.png[/img]{You shake your head no. The man frowns.%SPEECH_ON%Are you sure? I'm pretty good with...%SPEECH_OFF%You cut him off.%SPEECH_ON%I'm sure. Now enjoy your newfound freedom, stranger.%SPEECH_OFF% | You appraise the man and figure he's not fit for the life of a sellsword.%SPEECH_ON%We appreciate the offer, stranger, but the mercenary life is a dangerous one. Go home to your family, your work, your home.%SPEECH_OFF% | You've enough men to see you through, although you find yourself tempted to replace %randombrother% just to see the man's reaction to a demotion. Instead, you offer the prisoner a handshake and send him on his way. Although disappointed, he does thank you for freeing him.}",
-    "translation": "[img]gfx/ui/events/event_22.png[/img]{你摇了摇头。那个人皱了皱眉头。%SPEECH_ON%你确定吗？我很善于……%SPEECH_OFF%你打断了他。%SPEECH_ON%我确定。现在好好享受你的新自由吧，陌生人。%SPEECH_OFF% | 你观察了一下那个人，发现他不适合成为一名雇佣兵。%SPEECH_ON%我们感激你的提议，陌生人，但是雇佣兵生涯充满危险。回家和你的家人在一起，或者恢复你的工作和生活。%SPEECH_OFF% | 你已经有足够的人手来见缝插针了，虽然你很想替换%randombrother%，只是想看看这个人降职后的反应。然而，你会和那个囚犯握手并放他离开。虽然他有点失望，但他很感谢你解救他。}",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_22.png[/img]{你摇头拒绝。男子皱起眉头。%SPEECH_ON%你确定吗？我挺擅长……%SPEECH_OFF%你打断他。%SPEECH_ON%我很确定。现在享受你重获的自由吧，陌生人。%SPEECH_OFF% | 你打量了这名男子，判断他不适合佣兵生活。%SPEECH_ON%我们感谢你的提议，陌生人，但佣兵生涯危机四伏。回家去吧，回去找你的家人、你的工作、你的家园。%SPEECH_OFF% | 你手下的队员已经足够用了，虽然你差点想用他替换%randombrother%好看看那人被降职时的反应。但最终你还是与囚犯握了握手并送他上路。尽管失望，他还是感谢你解救了他。}",
+    "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/event_22.png[/img]{You shake your head no. The man frowns.%SPEECH_ON%Are you sure? I'm pretty good with...%SPEECH_OFF%You cut him off.%SPEECH_ON%I'm sure. Now enjoy your newfound freedom, stranger.%SPEECH_OFF% | You appraise the man and figure he's not fit for the life of a sellsword.%SPEECH_ON%We appreciate the offer, stranger, but the mercenary life is a dangerous one. Go home to your family, your work, your home.%SPEECH_OFF% | You've enough men to see you through, although you find yourself tempted to replace %randombrother% just to see the man's reaction to a demotion. Instead, you offer the prisoner a handshake and send him on his way. Although disappointed, he does thank you for freeing him.}\""
   },
   {
     "ID": 293408639,
     "key": "Oh well. We still have payment to collect.",
     "original": "Oh well. We still have payment to collect.",
-    "translation": "噢，好吧。我们还有待领取的报酬。",
-    "stage": 1,
+    "translation": "噢，好吧。还有赏金等着我们呢。",
+    "stage": 5,
     "context": "Text = 'Oh well. We still have payment to collect.'"
   },
   {
@@ -124,7 +124,7 @@
     "key": "We're not getting paid for killing them.",
     "original": "We're not getting paid for killing them.",
     "translation": "杀了他们也没人多给钱。",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = \"We're not getting paid for killing them.\""
   },
   {
@@ -132,7 +132,7 @@
     "key": "Slit their throats.",
     "original": "Slit their throats.",
     "translation": "割断他们的喉咙。",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = 'Slit their throats.'"
   },
   {
@@ -147,32 +147,32 @@
     "ID": 293408643,
     "key": "Let's move on. We still have payment to collect.",
     "original": "Let's move on. We still have payment to collect.",
-    "translation": "我们继续前进吧，我们还需要收取报酬。",
-    "stage": 1,
+    "translation": "走吧，还有赏金等着我们呢。",
+    "stage": 5,
     "context": "Text = \"Let's move on. We still have payment to collect.\""
   },
   {
     "ID": 293408644,
     "key": "[img]gfx/ui/events/event_04.png[/img]{You throw the criminal's head on %employer%'s table. With a grin, you point at it.%SPEECH_ON%That's %robberbaron%.%SPEECH_OFF%%employer% stands up and unveils the burlap sack covering the trophy. He nods.%SPEECH_ON%Ay",
     "original": "[img]gfx/ui/events/event_04.png[/img]{You throw the criminal's head on %employer%'s table. With a grin, you point at it.%SPEECH_ON%That's %robberbaron%.%SPEECH_OFF%%employer% stands up and unveils the burlap sack covering the trophy. He nods.%SPEECH_ON%Aye, that's him alright. I guess you'll be getting extra for that.%SPEECH_OFF%You're paid a tidy sum of %reward% crowns for killing the brigands as well as destroying the leadership of many nearby syndicates. | %employer% leans back as you enter his room, carrying a head by its hair. Luckily, it is not dripping.%SPEECH_ON%This here is %robberbaron%. Or should I say was?%SPEECH_OFF%Slowly standing, %employer% takes a cursory look.%SPEECH_ON%'Was' works... So, not only did you destroy the brigands' rat hole, but you've brought me the head of their leader. That is some mighty fine work, sellsword, and you'll be getting extra for this.%SPEECH_OFF%The man forks over a satchel of %original_reward% crowns and then takes a purse off his own self and pitches it toward you. | You hold %robberbaron%'s head up, its sloped gaze turning to the ropes of bloodied hair. A slow smile etches across %employer%'s face.%SPEECH_ON%You know what you've done, sellsword? Do you know how much relief you've brought to these parts just by removing that man's head from his shoulders? You'll be getting more than what you bargained for! %original_reward% crowns for the original task and...%SPEECH_OFF%The man slides a chunky purse across his table.%SPEECH_ON%A little something for that... extra weight you've been carrying around.%SPEECH_OFF%}",
-    "translation": "[img]gfx/ui/events/event_04.png[/img]{你将罪犯的头颅扔在%employer%的桌子上，冷笑着指着它。%SPEECH_ON%那是%robberbaron%。%SPEECH_OFF%%employer%站起来，揭开盖在奖杯上的麻布袋，点了点头。%SPEECH_ON%没错，就是他。我猜你会因此得到额外的奖励。%SPEECH_OFF%你因为杀了强盗并摧毁了周围许多团伙的领导而获得了%reward%克朗的丰厚报酬。 | %employer%在你提着一个头的时候走进他的房间，他后退着。幸运的是，头发上并没有流血。%SPEECH_ON%这是%robberbaron%的头。或者我该说是过去式？%SPEECH_OFF%%employer%缓慢地站起来，打量了一下。%SPEECH_ON%用过去式是正确的，你不仅摧毁了强盗的巢穴，还带来了他们的领袖的头颅。干得好，佣兵，你会得到额外的奖励。%SPEECH_OFF%男人拿出一个装有%original_reward%克朗的小包，然后从自己身上拿出一个钱袋扔向你。 | 你举起%robberbaron%的头，眼神滑向滴着血丝的头发。%employer%的脸上露出缓慢的笑容。%SPEECH_ON%你知道你干了什么吗，佣兵？你知道你通过从他的肩膀上拿下那个人的头给这些地方带来了多少安慰吗？你会得到比你预期的更多的报酬！原始任务的%original_reward%克朗和......%SPEECH_OFF%男人在桌子上放了一个厚实的钱袋。%SPEECH_ON%还有一些额外的奖金，因为你一直在承担着那份额外的负荷。%SPEECH_OFF%}",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_04.png[/img]{你将罪犯的首级扔到%employer%的桌上。咧嘴一笑，指着它。%SPEECH_ON%这就是%robberbaron%。%SPEECH_OFF%%employer%起身掀开覆盖战利品的粗麻布。他点头。%SPEECH_ON%没错，确实是他。看来这笔额外报酬你拿定了。%SPEECH_OFF%你因剿灭匪帮并摧毁附近多个犯罪集团的首脑而获得了整整%reward%克朗。 | %employer%在你提着头发拎着首级进屋时向后靠去。幸运的是，脑袋没有在滴血。%SPEECH_ON%这是%robberbaron%的脑袋。%SPEECH_OFF%%employer%缓缓起身粗略看了一眼。%SPEECH_ON%这么说，你不仅端了匪徒的老巢，还把首领的脑袋带给了我。干得漂亮，佣兵，这份额外奖赏你拿定了。%SPEECH_OFF%他推过来装有%original_reward%克朗的包裹，又从自己腰间取下钱袋抛给你。 | 你举起%robberbaron%的首级，它歪斜的目光扫过血淋淋的发丝。%employer%脸上慢慢浮现笑容。%SPEECH_ON%知道你立了什么功吗，佣兵？知道砍下那人脑袋给这片地区带来多大安宁吗？你的报酬将远超约定！%original_reward%克朗是原定任务酬金，再加上……%SPEECH_OFF%他将一个鼓囊囊的钱袋滑过桌面。%SPEECH_ON%一点小意思……就当是你一路扛着脑袋回来的辛苦费。%SPEECH_OFF%}",
+    "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/event_04.png[/img]{You throw the criminal's head on %employer%'s table. With a grin, you point at it.%SPEECH_ON%That's %robberbaron%.%SPEECH_OFF%%employer% stands up and unveils the burlap sack covering the trophy. He nods.%SPEECH_ON%Aye, that's him alright. I guess you'll be getting extra for that.%SPEECH_OFF%You're paid a tidy sum of %reward% crowns for killing the brigands as well as destroying the leadership of many nearby syndicates. | %employer% leans back as you enter his room, carrying a head by its hair. Luckily, it is not dripping.%SPEECH_ON%This here is %robberbaron%. Or should I say was?%SPEECH_OFF%Slowly standing, %employer% takes a cursory look.%SPEECH_ON%'Was' works... So, not only did you destroy the brigands' rat hole, but you've brought me the head of their leader. That is some mighty fine work, sellsword, and you'll be getting extra for this.%SPEECH_OFF%The man forks over a satchel of %original_reward% crowns and then takes a purse off his own self and pitches it toward you. | You hold %robberbaron%'s head up, its sloped gaze turning to the ropes of bloodied hair. A slow smile etches across %employer%'s face.%SPEECH_ON%You know what you've done, sellsword? Do you know how much relief you've brought to these parts just by removing that man's head from his shoulders? You'll be getting more than what you bargained for! %original_reward% crowns for the original task and...%SPEECH_OFF%The man slides a chunky purse across his table.%SPEECH_ON%A little something for that... extra weight you've been carrying around.%SPEECH_OFF%}\""
   },
   {
     "ID": 293408645,
     "key": "Take the damned head then and leave.",
     "original": "Take the damned head then and leave.",
-    "translation": "那就拿这该死的头离开吧。",
-    "stage": 1,
+    "translation": "拿上这该死的脑袋，离我们远点。",
+    "stage": 5,
     "context": "Text = 'Take the damned head then and leave.'"
   },
   {
     "ID": 293408646,
     "key": "[img]gfx/ui/events/event_22.png[/img]{There's been enough killing and dying today. You let the prisoners go, taking their arms and armor before sending them off. | Clemency for thieves and brigands doesn't come often, so when you let the prisoners go they",
     "original": "[img]gfx/ui/events/event_22.png[/img]{There's been enough killing and dying today. You let the prisoners go, taking their arms and armor before sending them off. | Clemency for thieves and brigands doesn't come often, so when you let the prisoners go they practically kiss your feet as though they were attached to a god. | You think for a time, then nod.%SPEECH_ON%Mercy it is. Take their equipment and cut them loose.%SPEECH_OFF%The prisoners are let go, leaving behind what arms and armor they had with them. | You have the brigands strip to their skivvies - if they even have them - then let the men go. %randombrother% rummages through what equipment is left behind as you watch a group of half-naked men hurry away.}",
-    "translation": "[img]gfx/ui/events/event_22.png[/img]{今天已经有足够多的杀戮和死亡。你放了囚犯，拿走了他们的武器和盔甲，然后放他们走。 | 对盗贼和强盗的宽恕并不常见，所以当你释放囚犯时，他们几乎亲吻你的脚，好像与神有关。 | 你沉思了一会儿，然后点了点头。%SPEECH_ON%就这样吧。拿走他们的装备，然后放他们走。%SPEECH_OFF%囚犯被释放了，留下了他们所带的武器和盔甲。 | 你让强盗们脱下他们的衣服，只剩下内衣 - 如果他们真的有的话 - 然后让他们走了。%randombrother%在你看着一群半裸男人匆匆离开的同时在翻找剩下的装备。}",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_22.png[/img]{今天的杀戮与死亡已经够多了。你释放了囚犯，收缴他们的武器盔甲后便放他们离开。 | 对盗匪的宽恕并不常见，因此当你释放囚犯时，他们几乎要亲吻你的脚，仿佛在膜拜神明。 | 你沉思片刻，随后点头。%SPEECH_ON%那就饶他们一命。没收了装备就放人。%SPEECH_OFF%囚犯们被释放，留下的武器盔甲都归了你们。 | 你让匪徒们脱得只剩衬衣——如果他们还有的话——随后放他们离开。%randombrother%在翻捡留下的装备时，而你目送那群半裸男子仓惶逃远。}",
+    "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/event_22.png[/img]{There's been enough killing and dying today. You let the prisoners go, taking their arms and armor before sending them off. | Clemency for thieves and brigands doesn't come often, so when you let the prisoners go they practically kiss your feet as though they were attached to a god. | You think for a time, then nod.%SPEECH_ON%Mercy it is. Take their equipment and cut them loose.%SPEECH_OFF%The prisoners are let go, leaving behind what arms and armor they had with them. | You have the brigands strip to their skivvies - if they even have them - then let the men go. %randombrother% rummages through what equipment is left behind as you watch a group of half-naked men hurry away.}\""
   },
   {
@@ -188,14 +188,14 @@
     "key": "You gain [color=",
     "original": "You gain [color=",
     "translation": "你获得了[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Reward + '[/color] Crowns'"
   },
   {
     "ID": 293408649,
     "key": "{Not interested. | We have more important matters to settle. | I wish you luck, but we'll not be part of this.}",
     "original": "{Not interested. | We have more important matters to settle. | I wish you luck, but we'll not be part of this.}",
-    "translation": "{不感兴趣。 | 我们有更重要的事情要做。 | 我祝你好运，但我们不会参与其中。}",
+    "translation": "{不感兴趣。 | 我们有更重要的事情要做。 | 祝你好运，但我们不会掺和此事。}",
     "stage": 5,
     "context": "Text = \"{Not interested. | We have more important matters to settle. | I wish you luck, but we'll not be part of this.}\""
   },
@@ -203,16 +203,16 @@
     "ID": 293408650,
     "key": "Off you go.",
     "original": "Off you go.",
-    "translation": "你已经可以出发了。",
-    "stage": 1,
+    "translation": "走吧。",
+    "stage": 5,
     "context": "Text = 'Off you go.'"
   },
   {
     "ID": 293408651,
     "key": "Take their arms and chase them away.",
     "original": "Take their arms and chase them away.",
-    "translation": "拿起武器，把他们赶走。",
-    "stage": 1,
+    "translation": "拿走他们的装备，把他们赶走。",
+    "stage": 5,
     "context": "Text = 'Take their arms and chase them away.'"
   },
   {
@@ -220,7 +220,7 @@
     "key": "Let's see about a weapon for you.",
     "original": "Let's see about a weapon for you.",
     "translation": "我们得给你找把武器。",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = \"Let's see about a weapon for you.\""
   },
   {
@@ -228,7 +228,7 @@
     "key": "Drive Off Brigands",
     "original": "Drive Off Brigands",
     "translation": "驱逐强盗",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Drive Off Brigands'"
   },
   {
@@ -236,7 +236,7 @@
     "key": "Prepare the attack!",
     "original": "Prepare the attack!",
     "translation": "准备进攻！",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = 'Prepare the attack!'"
   },
   {
@@ -244,7 +244,7 @@
     "key": "We have more important things to take care of.",
     "original": "We have more important things to take care of.",
     "translation": "还有更要紧的事等着我们。",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = 'We have more important things to take care of.'"
   },
   {
@@ -252,7 +252,7 @@
     "key": "Crowns well deserved.",
     "original": "Crowns well deserved.",
     "translation": "受之无愧。",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = 'Crowns well deserved.'"
   },
   {
@@ -268,7 +268,7 @@
     "key": "Go home.",
     "original": "Go home.",
     "translation": "回家。",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = 'Go home.'"
   },
   {
@@ -276,23 +276,23 @@
     "key": "[/color] Crowns",
     "original": "[/color] Crowns",
     "translation": "[/color]克朗",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + this.Contract.m.Reward + '[/color] Crowns'"
   },
   {
     "ID": 293408660,
     "key": "[img]gfx/ui/events/event_04.png[/img]{You return to %townname% and talk to %employer%. The details of your journey are simple: you killed the brigands. He nods, smiling tersely before handing over your payment as agreed upon.%SPEECH_ON%Good work, men. Tho",
     "original": "[img]gfx/ui/events/event_04.png[/img]{You return to %townname% and talk to %employer%. The details of your journey are simple: you killed the brigands. He nods, smiling tersely before handing over your payment as agreed upon.%SPEECH_ON%Good work, men. Those brigands were giving us plenty of trouble.%SPEECH_OFF% | %employer% opens the door for you as you get to his home. He's got a satchel in hand and holds it up.%SPEECH_ON%I take it by your return that the brigands are dead?%SPEECH_OFF%You nod. The man heaves the satchel your way. You tell him you could be lying. %employer% shrugs.%SPEECH_ON%Could be, but word travels fast for those who bite the hands that feed. Good work, sellsword. Unless you're lying of course, then I'll come find you.%SPEECH_OFF% | %employer% grins as you enter his room and lay a sacked head on his desk.%SPEECH_ON%You need not stain my fineries to show you've completed the task, sellsword. I've already gotten news of your success - the birds in these lands do travel fast, don't they? Your payment is in the corner.%SPEECH_OFF% | As you finish your report, %employer% wipes his forehead with a handkerchief.%SPEECH_ON%Really, they're all dead then? Boy... you have no idea how much you've lifted off my shoulders, sellsword. No idea at all! Your crowns, as promised.%SPEECH_OFF%He sets a satchel on his desk and you quickly take it. All is there, as promised. | %employer% sips his goblet and nods.%SPEECH_ON%You know, I don't take kindly to your sort, but you did a good job, mercenary. %randomname% reported to me, before you even got here, that all the brigands had been slain. It was some mighty fine work by the way he describes it. And, well...%SPEECH_OFF%He heaves a satchel onto the desk.%SPEECH_ON%Here's some mighty fine pay, as promised.%SPEECH_OFF% | %employer% leans back in his chair, folding his hands over his lap.%SPEECH_ON%Sellswords don't sit right with many folks, I suppose on the account of y'all killing and destroying whole villages on a shortchanged whim, but I'll admit you've done good.%SPEECH_OFF%He nods to a corner of the room where a wooden chest lays unopened.%SPEECH_ON%It's all there, but I won't be offended if you need to count it.%SPEECH_OFF%You do count it, and it is indeed all there. | %employer%'s desk is blanketed in dirtied and unfurled scrolls. He's smiling warmly over them as if he's crooning over a pile of treasure.%SPEECH_ON%Trade deals! Trade deals everywhere! Happy farmers! Happy families! Everyone's happy! Ah, it's good to be me. And, of course, it's good to be you, sellsword, because your pockets just got a little bit heavier!%SPEECH_OFF%The man tosses a small purse your way, then another and another.%SPEECH_ON%I would've paid with a larger satchel, but I just like doing that.%SPEECH_OFF%He cheekily tosses another purse which you casually catch with the sort of unamused aplomb of a man who still has fresh blood on his sword.}",
-    "translation": "[img]gfx/ui/events/event_04.png[/img]{你回到了%townname%并与%employer%交谈，你的旅程经历很简单：你消灭了土匪。他点点头，面带微笑地交付了你支付的费用。%SPEECH_ON%干得好，伙计们。那些土匪给我们带来了很多麻烦。%SPEECH_OFF% | %employer%为你打开门，他手里拎着一个小包。%SPEECH_ON%你回来了，我就知道那些土匪死了。%SPEECH_OFF%你点点头。%employer%耸了耸肩。%SPEECH_ON%可能是吧，不过那些伤口不会骗人。好工作,自由雇佣军。当然，如果你在撒谎，我就找到你。%SPEECH_OFF% | 当你把一袋头颅放在桌子上时，%employer%笑了起来。%SPEECH_ON%为了证明你的任务已经完成，不必弄得满手血腥。我已经得到你成功的消息了–这片土地上的鸟传播得很快，是不是？你的酬劳在角落里。%SPEECH_OFF% | 你报告完成后，%employer%用手帕擦了擦额头。%SPEECH_ON%他们全部死了？你不知道你给我减轻了多少负担，自由雇佣兵。你的克朗，一如既往地承诺。%SPEECH_OFF%他在桌子上放了一个小包，你很快地接过来。 | %employer%喝了一口酒，点头赞许。%SPEECH_ON%你知道吗，我不喜欢你们这种人，但你们做得非常好，雇佣兵。在你来之前，%randomname%就告诉我所有的土匪都已经被杀了。他描述的方式非常出色。好的，克朗已经准备好了。%SPEECH_OFF%他拍了一下桌子上的一个小包。%SPEECH_ON%这是你应得的回报。%SPEECH_OFF% | %employer%向后靠在椅子上，双手交叉放在膝盖上。%SPEECH_ON%很多人不喜欢雇佣兵，也许是因为你们会毁掉整个村庄，只为赚更多的钱。但我承认你们做得很好。%SPEECH_OFF%他指了一下房间的一个角落，那里有一个木箱还没有打开。%SPEECH_ON%一切都在那里，如果你需要，我不会介意你去数数。%SPEECH_OFF%你数，发现的确没问题。 | %employer%的桌子上满是脏兮兮和展开的卷轴，他露出温柔的笑容，好像他正在对着一堆宝藏诉说。%SPEECH_ON%贸易协议！贸易协议到处都是！快乐的农民！快乐的家庭！每个人都很开心！啊，太棒了。当然，对于你来说也是好事，自由佣兵，因为你的口袋变得更重了！%SPEECH_OFF%这个人把一个小钱包扔给你，然后又扔了一个，再扔一个。%SPEECH_ON%我本来想用一个更大的小包付钱的，但是这样也挺有意思。%SPEECH_OFF%他调皮地扔了一个小钱袋，而你则轻松自如地抓住了它，如同一个拥有新鲜血液的男人一样毫不在乎。}",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_04.png[/img]{你回到%townname%与%employer%会面。你的任务经过很简单：剿灭了那帮匪徒。他点点头，简短一笑，随即按约定支付了报酬。%SPEECH_ON%干得好，伙计们。那些匪徒可给我们添了不少麻烦。%SPEECH_OFF% | %employer%在你抵达时亲自为你开门。他手里提着个钱袋向你示意。%SPEECH_ON%你既然回来了，说明匪徒都解决了吧？%SPEECH_OFF%你点头。那人把钱袋抛过来。你提醒他也许你在撒谎。%employer%耸耸肩。%SPEECH_ON%也许吧，但白眼狼反咬一口这种事情，没两天就传遍世界了。干得漂亮，佣兵。当然如果只是你谎报军情，我会去找你算账的。%SPEECH_OFF% | %employer%在你进屋将首级扔上他书桌时咧嘴笑了。%SPEECH_ON%不必弄脏我的名贵家具来证明你完成了任务，佣兵。我早已收到捷报——这地方的信鸟飞得可真快，不是吗？报酬在墙角。%SPEECH_OFF% | 你刚汇报完，%employer%便用手帕擦拭额头。%SPEECH_ON%当真全都解决了？天啊……你根本不知道卸下了我多重的负担，佣兵。完全想象不到！你的克朗，如约奉上。%SPEECH_OFF%他将钱袋放在桌上，你迅速收下。分文不差，一如约定。 | %employer%抿着酒杯点头。%SPEECH_ON%知道吗，我向来不待见你们这类人，但这次干得漂亮，佣兵。%randomname%在你抵达前就向我汇报了匪徒全灭的消息。据他描述，当时的场面相当动人。所以嘛……%SPEECH_OFF%他将钱袋重重放在桌上。%SPEECH_ON%按约定，这是相当动人的报酬。%SPEECH_OFF% | %employer%靠着椅背，双手交叠放在膝上。%SPEECH_ON%佣兵向来不受待见，想必是因为你们常为点蝇头小利就屠杀村民——但我得承认这次你们做得不错。%SPEECH_OFF%他朝屋角努了努嘴，那儿放着未上锁的木箱。%SPEECH_ON%全在里面，要清点的话我也不介意。%SPEECH_OFF%你确实清点了，分文不差。 | %employer%的书桌铺满污损展开的卷轴。他对着它们暖笑，仿佛在凝视宝藏。%SPEECH_ON%贸易合约！到处都是贸易合约！快乐的农夫！幸福的家庭！皆大欢喜！啊，当个快活人真好。当然你也挺快活，佣兵，因为你的钱袋刚刚沉了不少！%SPEECH_OFF%他朝你扔来一个小钱袋，接着又一个，再接一个。%SPEECH_ON%本来能用大钱袋支付，但我偏喜欢这么给。%SPEECH_OFF%这人嬉皮笑脸地又抛来一袋，你面无表情地接住，带着剑刃血迹未干者特有的漠然从容。}",
+    "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/event_04.png[/img]{You return to %townname% and talk to %employer%. The details of your journey are simple: you killed the brigands. He nods, smiling tersely before handing over your payment as agreed upon.%SPEECH_ON%Good work, men. Those brigands were giving us plenty of trouble.%SPEECH_OFF% | %employer% opens the door for you as you get to his home. He's got a satchel in hand and holds it up.%SPEECH_ON%I take it by your return that the brigands are dead?%SPEECH_OFF%You nod. The man heaves the satchel your way. You tell him you could be lying. %employer% shrugs.%SPEECH_ON%Could be, but word travels fast for those who bite the hands that feed. Good work, sellsword. Unless you're lying of course, then I'll come find you.%SPEECH_OFF% | %employer% grins as you enter his room and lay a sacked head on his desk.%SPEECH_ON%You need not stain my fineries to show you've completed the task, sellsword. I've already gotten news of your success - the birds in these lands do travel fast, don't they? Your payment is in the corner.%SPEECH_OFF% | As you finish your report, %employer% wipes his forehead with a handkerchief.%SPEECH_ON%Really, they're all dead then? Boy... you have no idea how much you've lifted off my shoulders, sellsword. No idea at all! Your crowns, as promised.%SPEECH_OFF%He sets a satchel on his desk and you quickly take it. All is there, as promised. | %employer% sips his goblet and nods.%SPEECH_ON%You know, I don't take kindly to your sort, but you did a good job, mercenary. %randomname% reported to me, before you even got here, that all the brigands had been slain. It was some mighty fine work by the way he describes it. And, well...%SPEECH_OFF%He heaves a satchel onto the desk.%SPEECH_ON%Here's some mighty fine pay, as promised.%SPEECH_OFF% | %employer% leans back in his chair, folding his hands over his lap.%SPEECH_ON%Sellswords don't sit right with many folks, I suppose on the account of y'all killing and destroying whole villages on a shortchanged whim, but I'll admit you've done good.%SPEECH_OFF%He nods to a corner of the room where a wooden chest lays unopened.%SPEECH_ON%It's all there, but I won't be offended if you need to count it.%SPEECH_OFF%You do count it, and it is indeed all there. | %employer%'s desk is blanketed in dirtied and unfurled scrolls. He's smiling warmly over them as if he's crooning over a pile of treasure.%SPEECH_ON%Trade deals! Trade deals everywhere! Happy farmers! Happy families! Everyone's happy! Ah, it's good to be me. And, of course, it's good to be you, sellsword, because your pockets just got a little bit heavier!%SPEECH_OFF%The man tosses a small purse your way, then another and another.%SPEECH_ON%I would've paid with a larger satchel, but I just like doing that.%SPEECH_OFF%He cheekily tosses another purse which you casually catch with the sort of unamused aplomb of a man who still has fresh blood on his sword.}\""
   },
   {
     "ID": 293408661,
     "key": "[img]gfx/ui/events/event_22.png[/img]{With the battle drawing to a close, a few enemies drop to their knees and beg for mercy. %randombrother% looks to you for what to do next. | After the battle, your men round-up what brigands remain. The survivors beg ",
     "original": "[img]gfx/ui/events/event_22.png[/img]{With the battle drawing to a close, a few enemies drop to their knees and beg for mercy. %randombrother% looks to you for what to do next. | After the battle, your men round-up what brigands remain. The survivors beg for their lives. One looks more like a kid than a man, but he is the quietest of them all. | Realizing their defeat, the few last standing brigands drop their weapons and ask for mercy. You now wonder what they would do were the shoe on the other foot. | The battle's over, but decisions are still yet to be made: a few brigands survived the battle. %randombrother% stands over one, his sword to the prisoner's neck, and he asks you what you wish to do.}",
-    "translation": "[img]gfx/ui/events/event_22.png[/img]{随着战斗接近尾声，一些敌人跪下请求饶恕。%randombrother%向你寻求下一步该怎么做。 | 战斗结束后，你的士兵会缉拿剩余的强盗。幸存者请求饶命。其中有一个看起来比较像孩子，而不是一个男人，但他是所有人中最安静的。 | 剩下的几个强盗放下武器请求饶恕，现在你开始想象在相反位置的情况下他们会怎样做。 | 战斗结束了，但决定还没做出：还有一些强盗从战斗中幸存下来。%randombrother%拿着剑立在一个囚犯身边，问你想做什么。}",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_22.png[/img]{战斗接近尾声，几名敌人跪地乞求宽恕。%randombrother%望向你等候决断。 | 战斗结束后，你的队员们将残余匪徒团团围住。幸存者们哀声求饶。其中一个更像是个孩子而非成人，但他却是所有人里最安静的。 | 意识到败局已定，最后几名站着的匪徒丢下武器请求宽恕。你不禁设想若立场对调他们会作何选择。 | 战斗已经结束，但仍有待决断：几名匪徒在战斗中幸存。%randombrother%持剑抵着一名俘虏的脖颈，询问你如何处置。}",
+    "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/event_22.png[/img]{With the battle drawing to a close, a few enemies drop to their knees and beg for mercy. %randombrother% looks to you for what to do next. | After the battle, your men round-up what brigands remain. The survivors beg for their lives. One looks more like a kid than a man, but he is the quietest of them all. | Realizing their defeat, the few last standing brigands drop their weapons and ask for mercy. You now wonder what they would do were the shoe on the other foot. | The battle's over, but decisions are still yet to be made: a few brigands survived the battle. %randombrother% stands over one, his sword to the prisoner's neck, and he asks you what you wish to do.}\""
   },
   {
@@ -300,47 +300,47 @@
     "key": "Destroyed a brigand encampment",
     "original": "Destroyed a brigand encampment",
     "translation": "摧毁了强盗营地",
-    "stage": 1,
+    "stage": 5,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationCivilianContractSuccess, 'Destroyed a brigand encampment')"
   },
   {
     "ID": 293408663,
     "key": "{How many crowns are we talking about? | What is %townname% prepared to pay for their safety? | Let's talk money.}",
     "original": "{How many crowns are we talking about? | What is %townname% prepared to pay for their safety? | Let's talk money.}",
-    "translation": "{多大的生意？ | %townname%愿拿多少买个安生？ | 谈谈价钱吧。}",
-    "stage": 1,
+    "translation": "{多大的生意？ | %townname%准备拿多少钱买个安生？ | 谈谈价钱吧。}",
+    "stage": 5,
     "context": "Text = \"{How many crowns are we talking about? | What is %townname% prepared to pay for their safety? | Let's talk money.}\""
   },
   {
     "ID": 293408664,
     "key": "[img]gfx/ui/events/event_54.png[/img]{While spying on the brigand encampment, you notice the profile of a man you've heard the locals almost fervently describing: it is %robberbaron%, a famed robber baron that terrorizes these parts. He's got a retinue of",
     "original": "[img]gfx/ui/events/event_54.png[/img]{While spying on the brigand encampment, you notice the profile of a man you've heard the locals almost fervently describing: it is %robberbaron%, a famed robber baron that terrorizes these parts. He's got a retinue of brutish looking men following him everywhere he goes.\n\nYou wager his head is worth a few extra crowns. | You didn't plan to see him, but it's no doubt the man himself: %robberbaron% is at the brigands' encampment. The famed killer is apparently paying a visit to one of his criminal offshoots, studiously marching around the thieves, pointing his finger to this or that, remarking about the quality of that and this.\n\nA few bodyguards follow him everywhere. You estimate that between him and the rest of the brigands, there's about %totalenemy% men mucking about. | The contract was just to wipe out the brigands, but it appears another, much heavier carrot has been added to the stick: %robberbaron%, the infamous killer and road raider, is at the camp. Followed by a bodyguard, the robber baron seems to be assessing one of his criminal outfits.\n\nYou wonder how much %robberbaron%'s head would weigh in crowns... | %robberbaron%. It's him, you know it. Eyeing through a spyglass, you can easily see the silhouette of the infamous robber baron as he moves about the brigands' encampment. He wasn't in your plans, nor mentioned in the contract, but there's little doubt that if you bring his head back to town you'll be getting a little extra for your troubles. | While spying on the brigands - you count about %totalenemy% men moving about - you spot a figure you did not at all expect: %robberbaron%, the infamous robber baron. The man and his bodyguard detail must be inspecting the state of the camp.\n\nWhat luck! If you could take his head back to your employer, you might just earn yourself a little bonus.}",
-    "translation": "[img]gfx/ui/events/event_54.png[/img]{在侦察强盗营地时，你注意到一个人的侧影，当地人几乎狂热地描述了他:那是%robberbaron%，这个引起恐慌的富豪嗑强盗。他有一大队凶残的手下。\n\n你敢打赌他的头颅值几个克朗。 | 你本不计划见他，但毫无疑问是这个男人本人：%robberbaron%在强盗的营地里。这个臭名昭著的杀手显然在探访他的一个罪犯分子，认真地在贼王周围走动，指着这个那个地指点江山，评价这个那个的质量。\n\n几个保镖紧随其后。你估计在他和其余强盗之间，大约有%totalenemy%人胡闹。 | 合同只是要消灭强盗，但是现在多了一个要求，这个要求更重：%robberbaron%，臭名昭著的杀手和原始路霸，在营地里。跟随着一个保镖，盗贼贵族似乎正在评估他的罪犯装备。\n\n你想知道%robberbaron%的头颅值多少克朗... | %robberbaron%。就是他，你知道。用望远镜盯着，你可以轻松地看到臭名昭著的富豪强盗的轮廓，他在强盗营地周围移动。虽然他不在你的计划中，也没有提到合同，但毫无疑问，如果你把他的头带回城镇，你会因麻烦而得到一些额外的回报。 | 在窥探强盗的营地时，你数了约%totalenemy%人在动，你发现了一个意料之外的角色:%robberbaron%，这个臭名昭著的强盗。这个人和他的保镖似乎在检查营地的状态。\n\n多么幸运啊!如果你能把他的头带回给雇主，你可能会得到一点小奖励。}",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_54.png[/img]{在侦察强盗营地时，你注意到了一个让当地人恨得牙痒痒的身影：%robberbaron%，他是肆虐这片地区的著名强盗贵族。无论他去往何处，总有一群面相凶悍的随从紧跟其后。。\n\n你敢打赌，他的脑袋绝对能让你额外赚些钱。 | 你没想到能在这里碰到他，但毫无疑问那就是他本人：%robberbaron%现在就在这座强盗营地里。这个声名狼藉的刽子手正在视察他的其中一个贼窝，煞有介事地在匪徒间踱来踱去，指指点点，品头论足。\n\n几个护卫贴身跟随着他。算上他在内，你估计营地里一共有%totalenemy%个人。 | 本来合同只要求你扫清这里的强盗，但现在似乎多了个更诱人的额外目标：恶名昭彰的刽子手和路匪%robberbaron%就在这座营地里。在一名护卫的陪同下，这位强盗贵族正在评估这座犯罪据点的情况。\n\n而你正掂量着%robberbaron%的脑袋能值多少钱…… | %robberbaron%。那就是他，你确信无疑。透过望远镜，你可以清晰地看到这位恶名昭彰的强盗贵族在营地里走动的身影。他本不在计划内，合约也未曾提及，但毫无疑问的是，如果你把他的脑袋带回镇子里，会有人为你多花的这番工夫支付额外的钱。 | 你在侦察匪徒过程中——清点出约有%totalenemy%人在活动——意外瞥见一个完全出乎预料的身影：%robberbaron%，那位恶名昭彰的强盗贵族。此人带着贴身护卫，想必正在视察营地状况。\n\n真是天赐良机！如果能把他的脑袋带给你的雇主，你说不定还能赚笔外快。}",
+    "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/event_54.png[/img]{While spying on the brigand encampment, you notice the profile of a man you've heard the locals almost fervently describing: it is %robberbaron%, a famed robber baron that terrorizes these parts. He's got a retinue of brutish looking men following him everywhere he goes.\n\nYou wager his head is worth a few extra crowns. | You didn't plan to see him, but it's no doubt the man himself: %robberbaron% is at the brigands' encampment. The famed killer is apparently paying a visit to one of his criminal offshoots, studiously marching around the thieves, pointing his finger to this or that, remarking about the quality of that and this.\n\nA few bodyguards follow him everywhere. You estimate that between him and the rest of the brigands, there's about %totalenemy% men mucking about. | The contract was just to wipe out the brigands, but it appears another, much heavier carrot has been added to the stick: %robberbaron%, the infamous killer and road raider, is at the camp. Followed by a bodyguard, the robber baron seems to be assessing one of his criminal outfits.\n\nYou wonder how much %robberbaron%'s head would weigh in crowns... | %robberbaron%. It's him, you know it. Eyeing through a spyglass, you can easily see the silhouette of the infamous robber baron as he moves about the brigands' encampment. He wasn't in your plans, nor mentioned in the contract, but there's little doubt that if you bring his head back to town you'll be getting a little extra for your troubles. | While spying on the brigands - you count about %totalenemy% men moving about - you spot a figure you did not at all expect: %robberbaron%, the infamous robber baron. The man and his bodyguard detail must be inspecting the state of the camp.\n\nWhat luck! If you could take his head back to your employer, you might just earn yourself a little bonus.}\""
   },
   {
     "ID": 293408665,
     "key": "{You'll have to pay with blood if you want it so badly. | If you want your head to join this one, go on, take your chances.}",
     "original": "{You'll have to pay with blood if you want it so badly. | If you want your head to join this one, go on, take your chances.}",
-    "translation": "{要是你这么想要的话，你必须用鲜血来买单。 | 如果你想让你的头和这个一起，那么继续吧，试试你的运气。}",
-    "stage": 1,
+    "translation": "{要是你这么想要，那便用鲜血的代价来换吧。 | 想让你的脑袋和这个作伴？尽管过来试试。}",
+    "stage": 5,
     "context": "Text = \"{You'll have to pay with blood if you want it so badly. | If you want your head to join this one, go on, take your chances.}\""
   },
   {
     "ID": 293408666,
     "key": "[img]gfx/ui/events/event_22.png[/img]{Altruism is for the naive. You have the prisoners slaughtered. | You recall how many times brigands slew hapless merchants. The thought is barely out of your mind when you give the order to have the prisoners executed",
     "original": "[img]gfx/ui/events/event_22.png[/img]{Altruism is for the naive. You have the prisoners slaughtered. | You recall how many times brigands slew hapless merchants. The thought is barely out of your mind when you give the order to have the prisoners executed. They pipe up a brief protest, but it is cut short by swords and spears. | You turn away.%SPEECH_ON%Through their necks. Make it quick.%SPEECH_OFF%The mercenaries follow the order and you soon here the gargling of dying men. It is not quick at all. | You shake your head 'no'. The prisoners cry out, but the men are already upon them, hacking and slashing and stabbing. The lucky ones are decapitated before they can even realize the immediacy of their own demise. Those with some fight in them suffer to the very end. | Mercy requires time. Time to look over your shoulder. Time to wonder if it was the right decision. You've no time. You've no mercy. The prisoners are executed and that takes little time at all.}",
-    "translation": "[img]gfx/ui/events/event_22.png[/img]{慷慨是给天真幼稚之人的。你让俘虏们被屠杀。 | 你想起强盗屠杀无辜商人的次数。想法仅出自你脑海，你就下令处决这些俘虏。他们稍微抗议了一番，但很快就被剑和矛打断。 | 你转身离去。%SPEECH_ON%直接通过他们的脖子，快点。%SPEECH_OFF%雇佣兵们遵从命令，你很快就听到了垂死之人的哀嚎。根本不是什么快速。 | 你摇了摇头。俘虏们大声哭喊，但他们却已经被人砍杀和刺穿。幸运的人连察觉到自己的死亡都没来得及就已经被砍了头。那些稍微有些反抗的人一直在受苦。 | 仁慈需要时间。时间看看肩膀后面，时间考虑这是否是正确的决定。你没有时间。你没有仁慈。俘虏被处决了，而这根本就不需要花费多少时间。}",
-    "stage": 1,
+    "translation": "[img]gfx/ui/events/event_22.png[/img]{只有天真之人才会选择仁慈。你下令处决了所有囚犯。 | 你想起匪徒曾无数次残杀无辜商人。这个念头刚从你脑海冒出，你就下达了处决命令。囚犯们发出短暂的抗议，但很快被刀剑长矛打断。 | 你背过身去。%SPEECH_ON%对准脖子。利落点。%SPEECH_OFF%佣兵们执行了命令，你随即听到将死之人的哽咽声。整个过程根本谈不上利落。 | 你摇头拒绝。囚犯们失声哀嚎，但队员们已然扑上，挥砍劈刺。幸运者在意识到死亡降临前便已身首分离。那些尚存反抗意志的则煎熬至最后一刻。 | 仁慈需要时间。需要你回头审视的时间。需要质疑抉择的时间。你没有时间，也就没有仁慈。囚犯被尽数处决——这花不了多少时间。}",
+    "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/event_22.png[/img]{Altruism is for the naive. You have the prisoners slaughtered. | You recall how many times brigands slew hapless merchants. The thought is barely out of your mind when you give the order to have the prisoners executed. They pipe up a brief protest, but it is cut short by swords and spears. | You turn away.%SPEECH_ON%Through their necks. Make it quick.%SPEECH_OFF%The mercenaries follow the order and you soon here the gargling of dying men. It is not quick at all. | You shake your head 'no'. The prisoners cry out, but the men are already upon them, hacking and slashing and stabbing. The lucky ones are decapitated before they can even realize the immediacy of their own demise. Those with some fight in them suffer to the very end. | Mercy requires time. Time to look over your shoulder. Time to wonder if it was the right decision. You've no time. You've no mercy. The prisoners are executed and that takes little time at all.}\""
   },
   {
     "ID": 293408667,
     "key": "Before the attack...",
     "original": "Before the attack...",
-    "translation": "在攻击前…",
-    "stage": 1,
+    "translation": "在攻击前……",
+    "stage": 5,
     "context": "Title = 'Before the attack...'"
   }
 ]

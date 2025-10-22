@@ -4,7 +4,7 @@
     "key": "Venomblood Potion",
     "original": "Venomblood Potion",
     "translation": "毒血药剂",
-    "stage": 1,
+    "stage": 5,
     "context": "potionName = 'Venomblood Potion'"
   },
   {
@@ -124,7 +124,7 @@
     "key": "Direwolf",
     "original": "Direwolf",
     "translation": "恐狼",
-    "stage": 1,
+    "stage": 5,
     "context": "creatureName = 'Direwolf'"
   },
   {
@@ -148,7 +148,7 @@
     "key": "Alp",
     "original": "Alp",
     "translation": "梦魇",
-    "stage": 1,
+    "stage": 5,
     "context": "creatureName = 'Alp'"
   },
   {

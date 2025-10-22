@@ -11,7 +11,7 @@
     "ID": 293403521,
     "key": "Have men with the bow or crossbow mastery perk",
     "original": "Have men with the bow or crossbow mastery perk",
-    "translation": "有1人点出弓精通或弩精通特技",
+    "translation": "为你的人点出弓精通或弩精通特技",
     "stage": 1,
     "context": "this.m.UIText = 'Have men with the bow or crossbow mastery perk'"
   },

@@ -155,8 +155,8 @@
     "ID": 293412019,
     "key": "A small farming village living mostly off of the surrounding fertile lands.",
     "original": "A small farming village living mostly off of the surrounding fertile lands.",
-    "translation": "主要生活在周围肥沃土地上的小农庄.",
-    "stage": 1,
+    "translation": "一座小型农耕村落，村民大多依靠耕作周边肥沃的土地为生。",
+    "stage": 5,
     "context": "this.m.Description = 'A small farming village living mostly off of the surrounding fertile lands.'"
   },
   {
@@ -323,8 +323,8 @@
     "ID": 293412040,
     "key": "A small farming village living mostly off of the surrounding fertile lands",
     "original": "A small farming village living mostly off of the surrounding fertile lands",
-    "translation": "主要生活在周围肥沃土地上的小农庄",
-    "stage": 1,
+    "translation": "一座小型农耕村落，村民大多依靠耕作周边肥沃的土地为生。",
+    "stage": 5,
     "context": "this.m.UIDescription = 'A small farming village living mostly off of the surrounding fertile lands'"
   },
   {

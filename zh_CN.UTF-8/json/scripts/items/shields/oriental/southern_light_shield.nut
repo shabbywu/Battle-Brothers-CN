@@ -11,8 +11,8 @@
     "ID": 293418809,
     "key": "Adarga Shield",
     "original": "Adarga Shield",
-    "translation": "阿达尔加盾",
-    "stage": 5,
+    "translation": "阿达加盾",
+    "stage": 1,
     "context": "this.m.Name = 'Adarga Shield'"
   }
 ]

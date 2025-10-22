@@ -11,7 +11,7 @@
     "ID": 293412537,
     "key": "[img]gfx/ui/events/event_17.png[/img]You hear the old swordmaster sigh as you move away. Keeping up with the rest of the company, it seems, has become a battle in and of itself for him.",
     "original": "[img]gfx/ui/events/event_17.png[/img]You hear the old swordmaster sigh as you move away. Keeping up with the rest of the company, it seems, has become a battle in and of itself for him.",
-    "translation": "[img]gfx/ui/events/event_17.png[/img]你转身时听到了老剑术大师的叹息。 看来，仅仅是跟上战团的步伐，对他来说就已经是一场战斗了。",
+    "translation": "[img]gfx/ui/events/event_17.png[/img]你转身时听到了老剑术大师的叹息。看来，仅仅是跟上战团的步伐，对他来说就已经是一场战斗了。",
     "stage": 1,
     "context": "Text = '[img]gfx/ui/events/event_17.png[/img]You hear the old swordmaster sigh as you move away. Keeping up with the rest of the company, it seems, has become a battle in and of itself for him.'"
   },

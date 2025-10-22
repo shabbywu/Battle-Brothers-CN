@@ -43,8 +43,8 @@
     "ID": 293420511,
     "key": "Strike",
     "original": "Strike",
-    "translation": "横扫劈击",
-    "stage": 5,
+    "translation": "劈击",
+    "stage": 1,
     "context": "this.m.Name = 'Strike'"
   },
   {

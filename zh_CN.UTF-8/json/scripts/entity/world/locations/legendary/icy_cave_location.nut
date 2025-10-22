@@ -4,7 +4,7 @@
     "key": "Icy Cave",
     "original": "Icy Cave",
     "translation": "冰洞",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Icy Cave'"
   },
   {

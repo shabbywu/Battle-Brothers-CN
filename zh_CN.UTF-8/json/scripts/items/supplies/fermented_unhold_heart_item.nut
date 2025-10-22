@@ -11,7 +11,7 @@
     "ID": 293418889,
     "key": "Provisions. Once a delicacy for barbarian kings of the north who wished to embolden their virility, fermented unhold heart tastes distinctively awful.",
     "original": "Provisions. Once a delicacy for barbarian kings of the north who wished to embolden their virility, fermented unhold heart tastes distinctively awful.",
-    "translation": "食物。曾是北方野蛮人国王用来壮阳的美食。这玩意尝起来非常糟糕。",
+    "translation": "食物。曾是北方蛮王们为增强雄风而享用的珍馐，但其味道实在令人难以下咽。",
     "stage": 5,
     "context": "this.m.Description = 'Provisions. Once a delicacy for barbarian kings of the north who wished to embolden their virility, fermented unhold heart tastes distinctively awful.'"
   }

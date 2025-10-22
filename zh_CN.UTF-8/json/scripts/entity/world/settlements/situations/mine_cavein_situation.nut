@@ -20,7 +20,7 @@
     "key": "Mine Cave In",
     "original": "Mine Cave In",
     "translation": "矿山塌方",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Mine Cave In'"
   },
   {

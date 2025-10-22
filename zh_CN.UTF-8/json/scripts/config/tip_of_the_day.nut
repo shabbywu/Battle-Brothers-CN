@@ -188,15 +188,15 @@
     "key": "Try the Ironman mode to experience Battle Brothers the way it's meant to be played.",
     "original": "Try the Ironman mode to experience Battle Brothers the way it's meant to be played.",
     "translation": "尝试铁人模式，体验战场兄弟的真正玩法。",
-    "stage": 1,
+    "stage": 5,
     "context": "\"Try the Ironman mode to experience Battle Brothers the way it's meant to be played.\""
   },
   {
     "ID": 293406881,
     "key": "Do the job. Survive. Get paid.",
     "original": "Do the job. Survive. Get paid.",
-    "translation": "做好工作。活着。得到报酬。",
-    "stage": 1,
+    "translation": "做好工作。保住性命。领取报酬。",
+    "stage": 5,
     "context": "'Do the job. Survive. Get paid.'"
   },
   {
@@ -212,7 +212,7 @@
     "key": "Ranged weapon accuracy drops with distance.",
     "original": "Ranged weapon accuracy drops with distance.",
     "translation": "远程武器的精度随着距离下降。",
-    "stage": 1,
+    "stage": 5,
     "context": "'Ranged weapon accuracy drops with distance.'"
   },
   {
@@ -251,8 +251,8 @@
     "ID": 293406888,
     "key": "Geists test the resolve of your men - the lower, the more likely they are to panic and flee.",
     "original": "Geists test the resolve of your men - the lower, the more likely they are to panic and flee.",
-    "translation": "幽灵考验着你的人的决心 —— 决心越低，他们越有可能恐慌、逃跑。",
-    "stage": 1,
+    "translation": "幽灵考验着你手下的决心——决心越低，他们越有可能恐慌、溃逃。",
+    "stage": 5,
     "context": "'Geists test the resolve of your men - the lower, the more likely they are to panic and flee.'"
   },
   {
@@ -492,7 +492,7 @@
     "key": "You don't have to be a hero, you're running a business.",
     "original": "You don't have to be a hero, you're running a business.",
     "translation": "何必逞英雄，你在讨生计。",
-    "stage": 1,
+    "stage": 5,
     "context": "\"You don't have to be a hero, you're running a business.\""
   },
   {
@@ -524,7 +524,7 @@
     "key": "A life can be worth little in this world.",
     "original": "A life can be worth little in this world.",
     "translation": "一条命在这个世界上轻如鸿毛。",
-    "stage": 1,
+    "stage": 5,
     "context": "'A life can be worth little in this world.'"
   },
   {
@@ -532,7 +532,7 @@
     "key": "Betraying your employer can have repercussions in the long run.",
     "original": "Betraying your employer can have repercussions in the long run.",
     "translation": "背叛雇主早晚要自食恶果。",
-    "stage": 1,
+    "stage": 5,
     "context": "'Betraying your employer can have repercussions in the long run.'"
   },
   {
@@ -556,7 +556,7 @@
     "key": "A missed ranged attack can hit nearby characters, especially if they are in the direct line of fire.",
     "original": "A missed ranged attack can hit nearby characters, especially if they are in the direct line of fire.",
     "translation": "未命中的远程攻击可能击中附近的其他角色，尤其是阻挡了弹道的那些。",
-    "stage": 1,
+    "stage": 5,
     "context": "'A missed ranged attack can hit nearby characters, especially if they are in the direct line of fire.'"
   },
   {
@@ -564,7 +564,7 @@
     "key": "The larger a party on the worldmap, the slower it moves. Yours included.",
     "original": "The larger a party on the worldmap, the slower it moves. Yours included.",
     "translation": "世界地图上，队伍越大，行动越慢。你也不例外。",
-    "stage": 1,
+    "stage": 5,
     "context": "'The larger a party on the worldmap, the slower it moves. Yours included.'"
   },
   {
@@ -572,15 +572,15 @@
     "key": "Wiedergangers are the dead walking again.",
     "original": "Wiedergangers are the dead walking again.",
     "translation": "僵尸是复活了的死者。",
-    "stage": 1,
+    "stage": 5,
     "context": "'Wiedergangers are the dead walking again.'"
   },
   {
     "ID": 293406929,
     "key": "Bows perform better against unarmored targets.",
     "original": "Bows perform better against unarmored targets.",
-    "translation": "弓在对付无甲目标时表现更好。",
-    "stage": 1,
+    "translation": "弓更擅长对付无甲目标。",
+    "stage": 5,
     "context": "'Bows perform better against unarmored targets.'"
   },
   {
@@ -692,7 +692,7 @@
     "key": "Shields can be destroyed using axes and some two-handed weapons.",
     "original": "Shields can be destroyed using axes and some two-handed weapons.",
     "translation": "斧头和一些双手武器可以摧毁盾牌。",
-    "stage": 1,
+    "stage": 5,
     "context": "'Shields can be destroyed using axes and some two-handed weapons.'"
   },
   {
@@ -707,8 +707,8 @@
     "ID": 293406945,
     "key": "The higher their level, the more your men will demand in wages.",
     "original": "The higher their level, the more your men will demand in wages.",
-    "translation": "人物级别越高，工资需求越高。",
-    "stage": 1,
+    "translation": "人物级别越高，要求的工资就越高。",
+    "stage": 5,
     "context": "'The higher their level, the more your men will demand in wages.'"
   },
   {
@@ -724,7 +724,7 @@
     "key": "View range is decreased at night, both in combat and on the worldmap.",
     "original": "View range is decreased at night, both in combat and on the worldmap.",
     "translation": "夜间，无论是在战斗中还是世界地图上，视野范围都会减小。",
-    "stage": 1,
+    "stage": 5,
     "context": "'View range is decreased at night, both in combat and on the worldmap.'"
   },
   {
@@ -740,7 +740,7 @@
     "key": "As brothers we fight, as brothers we die!",
     "original": "As brothers we fight, as brothers we die!",
     "translation": "浴血同袍，同生共死！",
-    "stage": 1,
+    "stage": 5,
     "context": "'As brothers we fight, as brothers we die!'"
   },
   {
@@ -756,23 +756,23 @@
     "key": "Ranged weapons are less accurate at night - those of your enemies included.",
     "original": "Ranged weapons are less accurate at night - those of your enemies included.",
     "translation": "远程武器在夜间不太准确，敌人也一样。",
-    "stage": 1,
+    "stage": 5,
     "context": "'Ranged weapons are less accurate at night - those of your enemies included.'"
   },
   {
     "ID": 293406952,
     "key": "Skeletons are highly resistant to ranged attacks and fire.",
     "original": "Skeletons are highly resistant to ranged attacks and fire.",
-    "translation": "骷髅对远程攻击和火焰有很高的抵抗力。",
-    "stage": 1,
+    "translation": "骷髅对远程攻击和火焰有很高的抗性。",
+    "stage": 5,
     "context": "'Skeletons are highly resistant to ranged attacks and fire.'"
   },
   {
     "ID": 293406953,
     "key": "If you can not win, retreat to fight another day.",
     "original": "If you can not win, retreat to fight another day.",
-    "translation": "如果不能取胜，不如改日再战。",
-    "stage": 1,
+    "translation": "如果不能取胜，不如撤退以改日再战。",
+    "stage": 5,
     "context": "'If you can not win, retreat to fight another day.'"
   },
   {
@@ -788,7 +788,7 @@
     "key": "Selling in rich and big cities will net you the most crowns for your goods.",
     "original": "Selling in rich and big cities will net you the most crowns for your goods.",
     "translation": "在富裕的大城市销售商品能获得更多克朗。",
-    "stage": 1,
+    "stage": 5,
     "context": "'Selling in rich and big cities will net you the most crowns for your goods.'"
   },
   {
@@ -796,7 +796,7 @@
     "key": "Learn from your mistakes. Don't just repeat them and hope you'll get lucky this time.",
     "original": "Learn from your mistakes. Don't just repeat them and hope you'll get lucky this time.",
     "translation": "吸取教训，不要重蹈覆辙，祝你好运。",
-    "stage": 1,
+    "stage": 5,
     "context": "\"Learn from your mistakes. Don't just repeat them and hope you'll get lucky this time.\""
   },
   {
@@ -804,15 +804,15 @@
     "key": "Keep an eye on the mood of your men. If they are angry for too long, they may desert!",
     "original": "Keep an eye on the mood of your men. If they are angry for too long, they may desert!",
     "translation": "注意手下的情绪。如果生气太久，他们会离你而去！",
-    "stage": 1,
+    "stage": 5,
     "context": "'Keep an eye on the mood of your men. If they are angry for too long, they may desert!'"
   },
   {
     "ID": 293406958,
     "key": "Different backgrounds may unlock additional options at handling events and contracts.",
     "original": "Different backgrounds may unlock additional options at handling events and contracts.",
-    "translation": "不同背景会在事件和合同中提供更多选择。",
-    "stage": 1,
+    "translation": "不同背景可能会在事件和合同中提供更多选择。",
+    "stage": 5,
     "context": "'Different backgrounds may unlock additional options at handling events and contracts.'"
   },
   {
@@ -820,15 +820,15 @@
     "key": "Try to negotiate better payment for your contracts.",
     "original": "Try to negotiate better payment for your contracts.",
     "translation": "试着通过协商争得更佳的合同报酬。",
-    "stage": 1,
+    "stage": 5,
     "context": "'Try to negotiate better payment for your contracts.'"
   },
   {
     "ID": 293406960,
     "key": "Flails ignore the defense bonus of shields.",
     "original": "Flails ignore the defense bonus of shields.",
-    "translation": "链枷忽视盾牌的防御加成。",
-    "stage": 1,
+    "translation": "链枷可忽视盾牌的防御加成。",
+    "stage": 5,
     "context": "'Flails ignore the defense bonus of shields.'"
   },
   {

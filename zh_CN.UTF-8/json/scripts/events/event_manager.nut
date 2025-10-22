@@ -11,7 +11,7 @@
     "ID": 293412512,
     "key": "' is already queued.",
     "original": "' is already queued.",
-    "translation": "已加入队列。",
+    "translation": "'已加入队列。",
     "stage": 1,
     "context": "this.logInfo(\"Failed to fire event - another event with id '\" + this.m.ActiveEvent.getID() + \"' is already queued.\")"
   },

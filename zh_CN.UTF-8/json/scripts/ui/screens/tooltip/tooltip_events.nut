@@ -91,8 +91,8 @@
     "ID": 293422964,
     "key": "See the obituary which lists those who have fallen in service to the company since you took command.",
     "original": "See the obituary which lists those who have fallen in service to the company since you took command.",
-    "translation": "查看讣告，上面列出了自你上任以来为战团献身的人。",
-    "stage": 1,
+    "translation": "查看讣告，上面列出了自你上任以来为战团而死的人。",
+    "stage": 5,
     "context": "text = 'See the obituary which lists those who have fallen in service to the company since you took command.'"
   },
   {
@@ -307,16 +307,16 @@
     "ID": 293422991,
     "key": "[/color] more days at most. Keep in mind that individual provisions will eventually turn bad!",
     "original": "[/color] more days at most. Keep in mind that individual provisions will eventually turn bad!",
-    "translation": "[/color]天。记住，一批食物早晚会变质！",
-    "stage": 1,
+    "translation": "[/color]天。记住，食物早晚会变质！",
+    "stage": 5,
     "context": "text = 'The total amount of provisions you carry. The average man requires 2 provisions per day and more on difficult terrain. Your men will eat the provisions closest to expiring first. Running out of provisions will lower morale and will eventually lead to your people deserting you before dying of starvation.\n\nYou use [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyFood + '[/color] provisions per day. Your [color=' + this.Const.UI.Color.PositiveValue + ']' + food + '[/color] provisions will last you for [color=' + this.Const.UI.Color.PositiveValue + ']' + time + '[/color] more days at most. Keep in mind that individual provisions will eventually turn bad!'"
   },
   {
     "ID": 293422992,
     "key": "Make or break camp. While encamped, time will go faster and your men will heal and repair their equipment at a faster rate. However, you're also more vulnerable to being caught in a surprise attack.",
     "original": "Make or break camp. While encamped, time will go faster and your men will heal and repair their equipment at a faster rate. However, you're also more vulnerable to being caught in a surprise attack.",
-    "translation": "搭拆帐篷。扎营的时候，时间流逝加快，你的人会更快治愈、修好装备。然而，你也更容易受到突然袭击。",
-    "stage": 1,
+    "translation": "搭拆帐篷。扎营的时候，时间流逝加快，你的人会更快地疗伤、维修装备。然而，你也更容易受到突然袭击。",
+    "stage": 5,
     "context": "text = \"Make or break camp. While encamped, time will go faster and your men will heal and repair their equipment at a faster rate. However, you're also more vulnerable to being caught in a surprise attack.\""
   },
   {
@@ -668,7 +668,7 @@
     "key": "The free Of Flesh and Faith DLC adds two new and very unique origins for you to play as: The Anatomists and the Oathtakers. In addition, there's two new banners, new equipment, new backgrounds to hire and lots of new events.",
     "original": "The free Of Flesh and Faith DLC adds two new and very unique origins for you to play as: The Anatomists and the Oathtakers. In addition, there's two new banners, new equipment, new backgrounds to hire and lots of new events.",
     "translation": "免费的血肉与信仰DLC为你添加了两个新的、非常独特的起源：解剖学家和宣誓者。 此外，还有两个新的旗帜、新装备、新的雇佣背景和许多新事件。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = \"The free Of Flesh and Faith DLC adds two new and very unique origins for you to play as: The Anatomists and the Oathtakers. In addition, there's two new banners, new equipment, new backgrounds to hire and lots of new events.\""
   },
   {
@@ -1772,7 +1772,7 @@
     "key": "Load Campaign",
     "original": "Load Campaign",
     "translation": "载入战役",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Load Campaign'"
   },
   {
@@ -2595,8 +2595,8 @@
     "ID": 293423277,
     "key": "A map seed is a unique string that determines how the world in your campaign will look like. You can see the seed of ongoing campaigns in the game menu accessible by pressing the Escape key, and then share it with friends to have them play in the same wor",
     "original": "A map seed is a unique string that determines how the world in your campaign will look like. You can see the seed of ongoing campaigns in the game menu accessible by pressing the Escape key, and then share it with friends to have them play in the same world.",
-    "translation": "地图种子是决定了世界样貌的特殊字符串。按下Escape（Esc）键，就能看到当前战役的地图种子。把种子分享给朋友，可以让他们在同一世界中进行游玩。",
-    "stage": 1,
+    "translation": "地图种子是决定世界样貌的特殊字符串。按下Escape（Esc）键，就能在游戏菜单看到当前战役的地图种子。把种子分享给朋友，可以让他们在相同世界中进行游玩。",
+    "stage": 5,
     "context": "text = 'A map seed is a unique string that determines how the world in your campaign will look like. You can see the seed of ongoing campaigns in the game menu accessible by pressing the Escape key, and then share it with friends to have them play in the same world.'"
   },
   {
@@ -3196,7 +3196,7 @@
     "key": "Map Seed",
     "original": "Map Seed",
     "translation": "地图种子",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Map Seed'"
   },
   {
@@ -3372,7 +3372,7 @@
     "key": "The Warriors of the North DLC adds a new human faction of northern barbarians with their own fighting style and equipment, different starting scenarios for your company, new nordic and rus inspired equipment, as well as new contracts and events.",
     "original": "The Warriors of the North DLC adds a new human faction of northern barbarians with their own fighting style and equipment, different starting scenarios for your company, new nordic and rus inspired equipment, as well as new contracts and events.",
     "translation": "北方勇士DLC添加了一个新的，有着自己的战斗风格和装备的人类派系——北方野蛮人，新的战团起源系统，基于北欧和罗斯风格设计的新装备，以及新的合同和事件。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'The Warriors of the North DLC adds a new human faction of northern barbarians with their own fighting style and equipment, different starting scenarios for your company, new nordic and rus inspired equipment, as well as new contracts and events.'"
   },
   {

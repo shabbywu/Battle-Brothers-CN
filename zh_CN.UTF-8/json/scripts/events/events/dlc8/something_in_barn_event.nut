@@ -44,15 +44,15 @@
     "key": "]+200[/color] Experience",
     "original": "]+200[/color] Experience",
     "translation": "]+200[/color] 经验值",
-    "stage": 1,
+    "stage": 5,
     "context": "text = _event.m.Anatomist.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+200[/color] Experience'"
   },
   {
     "ID": 293415623,
     "key": "%beastslayer% the beast slayer should handle this.",
     "original": "%beastslayer% the beast slayer should handle this.",
-    "translation": "[队长]兽王猎人%beastslayer%应该能处理这个。",
-    "stage": 1,
+    "translation": "应该让%beastslayer%能处理此事。",
+    "stage": 5,
     "context": "Text = '%beastslayer% the beast slayer should handle this.'"
   },
   {

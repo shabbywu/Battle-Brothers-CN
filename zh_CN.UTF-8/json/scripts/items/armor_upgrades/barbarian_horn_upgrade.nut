@@ -3,7 +3,7 @@
     "ID": 293417884,
     "key": "The ceremonial adornment of a self-proclaimed barbarian king. The rare and durable horns act as an suprisingly effective armor.",
     "original": "The ceremonial adornment of a self-proclaimed barbarian king. The rare and durable horns act as an suprisingly effective armor.",
-    "translation": "自封的野蛮人国王的仪式性装饰。稀有而坚韧的犄角作为护甲出奇地有效。",
+    "translation": "自封的蛮王的仪式性装饰。稀有而坚韧的犄角作为护甲出奇地有效。",
     "stage": 1,
     "context": "this.m.Description = 'The ceremonial adornment of a self-proclaimed barbarian king. The rare and durable horns act as an suprisingly effective armor.'"
   },

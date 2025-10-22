@@ -67,8 +67,8 @@
     "ID": 293410196,
     "key": "With the 'Beast Slayers' origin you'll have an easier time tracking beasts and get more trophies from any of those you slay.",
     "original": "With the 'Beast Slayers' origin you'll have an easier time tracking beasts and get more trophies from any of those you slay.",
-    "translation": "在“野兽杀手”起源游戏中，你能更轻松地追踪野兽，从猎杀的野兽身上获得更多的战利品。",
-    "stage": 1,
+    "translation": "游玩“野兽杀手”起源时，你能更轻松地追踪野兽，从猎杀的野兽身上获得更多的战利品。",
+    "stage": 5,
     "context": "\"With the 'Beast Slayers' origin you'll have an easier time tracking beasts and get more trophies from any of those you slay.\""
   },
   {
@@ -107,8 +107,8 @@
     "ID": 293410201,
     "key": "Selling trophies from slain beasts can be lucrative. You can always get new ones.",
     "original": "Selling trophies from slain beasts can be lucrative. You can always get new ones.",
-    "translation": "出售野兽战利品可以获得高额收益。你总能得到新的。",
-    "stage": 1,
+    "translation": "出售野兽战利品的利润相当可观。反正总有机会获得新的。",
+    "stage": 5,
     "context": "'Selling trophies from slain beasts can be lucrative. You can always get new ones.'"
   },
   {

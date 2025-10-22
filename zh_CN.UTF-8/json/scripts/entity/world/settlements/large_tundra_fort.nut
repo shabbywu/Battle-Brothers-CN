@@ -163,8 +163,8 @@
     "ID": 293411091,
     "key": "Kampaborg",
     "original": "Kampaborg",
-    "translation": "吞堡",
-    "stage": 1,
+    "translation": "戍堡",
+    "stage": 5,
     "context": "this.getRandomName(['Tonderborg','Hornborg','Grimborg','Helleborg','Kalkborg','Lydersborg','Homsborg','Sommersborg','Brammingborg','Vardeborg','Norreborg','Birkeborg','Donnersborg','Tangborg','Helvikborg','Torvaborg','Skjoldborg','Eidsvikborg','Halsborg','Gerborg','Gunnborg','Asenborg','Hammarborg','Skagaborg','Selasborg','Haellborg','Kampaborg','Gufarsborg','Husnarborg','Reistarborg','Geirborg'])"
   },
   {

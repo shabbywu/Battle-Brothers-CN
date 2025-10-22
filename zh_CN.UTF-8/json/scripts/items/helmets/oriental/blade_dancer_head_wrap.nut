@@ -12,7 +12,7 @@
     "key": "Blade Dancer's Head Wrap",
     "original": "Blade Dancer's Head Wrap",
     "translation": "刀锋舞者头巾",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = \"Blade Dancer's Head Wrap\""
   }
 ]

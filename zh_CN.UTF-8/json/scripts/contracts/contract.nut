@@ -11,8 +11,8 @@
     "ID": 293407736,
     "key": "\" not found for contract \"",
     "original": "\" not found for contract \"",
-    "translation": "\"合同状态\"",
-    "stage": 1,
+    "translation": "\" not found for contract \"",
+    "stage": 5,
     "context": "this.logError('State \"' + _id + '\" not found for contract \"' + this.m.Type + '\".')"
   },
   {
@@ -20,7 +20,7 @@
     "key": "A legion of walking dead, back to claim from the living what was once theirs.",
     "original": "A legion of walking dead, back to claim from the living what was once theirs.",
     "translation": "一大群行尸，向活人索取曾属于他们的东西。",
-    "stage": 1,
+    "stage": 5,
     "context": "party.setDescription('A legion of walking dead, back to claim from the living what was once theirs.')"
   },
   {
@@ -52,15 +52,15 @@
     "key": "Undead",
     "original": "Undead",
     "translation": "亡灵",
-    "stage": 1,
+    "stage": 5,
     "context": "this.World.FactionManager.getFactionOfType(this.Const.FactionType.Undead).spawnEntity(enemyBase.getTile(), 'Undead', False, this.Const.World.Spawn.UndeadArmy, _resources)"
   },
   {
     "ID": 293407742,
     "key": "State \"",
     "original": "State \"",
-    "translation": "未找到\"",
-    "stage": 1,
+    "translation": "State \"",
+    "stage": 5,
     "context": "this.logError('State \"' + _id + '\" not found for contract \"' + this.m.Type + '\".')"
   },
   {
@@ -75,8 +75,8 @@
     "ID": 293407744,
     "key": "A band of menacing orcs, greenskinned and towering any man.",
     "original": "A band of menacing orcs, greenskinned and towering any man.",
-    "translation": "一群凶狠的兽人，绿皮肤，远高过所有人。",
-    "stage": 1,
+    "translation": "一群凶狠的兽人，绿皮肤、个头比任何人类都高。",
+    "stage": 5,
     "context": "party.setDescription('A band of menacing orcs, greenskinned and towering any man.')"
   },
   {
@@ -108,7 +108,7 @@
     "key": "Broke a contract",
     "original": "Broke a contract",
     "translation": "撕毁了合同",
-    "stage": 1,
+    "stage": 5,
     "context": "this.World.FactionManager.getFaction(this.m.Faction).addPlayerRelation(this.Const.World.Assets.RelationContractCancel, 'Broke a contract')"
   },
   {
@@ -131,8 +131,8 @@
     "ID": 293407751,
     "key": "A band of mischievous goblins, small but cunning and not to be underestimated.",
     "original": "A band of mischievous goblins, small but cunning and not to be underestimated.",
-    "translation": "一群捣蛋的地精，小而狡猾，不可低估。",
-    "stage": 1,
+    "translation": "一伙狡诈的地精，身形矮小却诡计多端，不容小觑。",
+    "stage": 5,
     "context": "party.setDescription('A band of mischievous goblins, small but cunning and not to be underestimated.')"
   },
   {
@@ -140,7 +140,7 @@
     "key": "Brigands",
     "original": "Brigands",
     "translation": "强盗",
-    "stage": 1,
+    "stage": 5,
     "context": "this.World.FactionManager.getFactionOfType(this.Const.FactionType.Bandits).spawnEntity(enemyBase.getTile(), 'Brigands', False, this.Const.World.Spawn.BanditRaiders, _resources)"
   },
   {
@@ -148,7 +148,7 @@
     "key": "Payment",
     "original": "Payment",
     "translation": "报酬",
-    "stage": 1,
+    "stage": 5,
     "context": "title = 'Payment'"
   },
   {

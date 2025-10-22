@@ -35,7 +35,7 @@
     "ID": 293419628,
     "key": "The Scout is an expert in finding mountain passes, navigating through treacherous swamps, and guiding anyone safely through the darkest of forests.",
     "original": "The Scout is an expert in finding mountain passes, navigating through treacherous swamps, and guiding anyone safely through the darkest of forests.",
-    "translation": "侦察员是寻找隐蔽山口、穿越凶险沼泽和引导人们安全通过茂密森林的专家。",
+    "translation": "斥候是寻找隐蔽山口、穿越凶险沼泽和引导人们安全通过茂密森林的专家。",
     "stage": 1,
     "context": "this.m.Description = 'The Scout is an expert in finding mountain passes, navigating through treacherous swamps, and guiding anyone safely through the darkest of forests.'"
   },
@@ -43,8 +43,8 @@
     "ID": 293419629,
     "key": "The Scout",
     "original": "The Scout",
-    "translation": "侦察员",
-    "stage": 1,
+    "translation": "斥候",
+    "stage": 5,
     "context": "this.m.Name = 'The Scout'"
   }
 ]

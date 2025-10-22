@@ -60,7 +60,7 @@
     "key": "Necromancer",
     "original": "Necromancer",
     "translation": "死灵法师",
-    "stage": 1,
+    "stage": 5,
     "context": "creatureName = 'Necromancer'"
   },
   {

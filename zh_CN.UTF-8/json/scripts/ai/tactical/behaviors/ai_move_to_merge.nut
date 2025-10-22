@@ -3,7 +3,8 @@
     "ID": 629143863,
     "key": ": Waiting until others have moved!",
     "original": ": Waiting until others have moved!",
-    "translation": "",
+    "translation": ": 等待直到其他人移动！",
+    "stage": 1,
     "context": "\"* \" + _entity.getName() + \": Waiting until others have moved!\""
   }
 ]

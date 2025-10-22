@@ -36,7 +36,7 @@
     "key": "Scale Shirt",
     "original": "Scale Shirt",
     "translation": "鳞甲衫",
-    "stage": 1,
+    "stage": 5,
     "context": "'Scale Shirt'"
   },
   {

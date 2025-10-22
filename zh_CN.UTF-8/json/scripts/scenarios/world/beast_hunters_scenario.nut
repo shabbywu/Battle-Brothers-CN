@@ -27,7 +27,7 @@
     "ID": 293419650,
     "key": "[p=c][img]gfx/ui/events/event_122.png[/img][/p][p]You and your men make your living by hunting down the many beasts that beset villages on the fringes of civilization. It's dangerous work, but it pays well enough, and there's always a bigger beast to slay",
     "original": "[p=c][img]gfx/ui/events/event_122.png[/img][/p][p]You and your men make your living by hunting down the many beasts that beset villages on the fringes of civilization. It's dangerous work, but it pays well enough, and there's always a bigger beast to slay and more crowns to earn.\n\n[color=#bcad8c]Beast Slayers:[/color] Start with three beast slayers and decent equipment, as well as some beast trophies.\n[color=#bcad8c]Expert Trackers:[/color] See tracks from further away.\n[color=#bcad8c]Expert Skinners:[/color] Each beast you slay has a 50% chance to drop an additional trophy.\n[color=#bcad8c]Prejudice:[/color] Most people don't trust your kind, so you get 10% worse prices.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_122.png[/img][/p][p]你和你的人靠捕猎在文明边缘威胁村庄的许多野兽为生。 这是一项危险的工作，但报酬足够高，而且总是有一头更大的野兽需要杀戮，还能挣得更多的克朗。\n\n[color=#bcad8c]野兽杀手：[/color] 从三个野兽杀手和体面的装备，以及一些野兽战利品开始。\n[color=#bcad8c]专家追踪者：[/color] 能看到更远处的足迹。\n[color=#bcad8c]专家剥皮师：[/color] 你杀死的每一头野兽有50%的几率掉落额外的战利品。\n[color=#bcad8c]偏见：[/color] 大多数人不相信你这类人，所以交易价格变差10%。[/p]",
+    "translation": "[p=c][img]gfx/ui/events/event_122.png[/img][/p][p]你和你的人靠捕猎在文明边缘威胁村庄的许多野兽为生。 这是一项危险的工作，但报酬足够高，而且总是有一头更大的野兽需要杀戮，还能挣得更多的克朗。\n\n[color=#bcad8c]野兽杀手：[/color] 从三个野兽杀手和体面的装备，以及一些野兽战利品开始。\n[color=#bcad8c]专业追踪者：[/color] 能看到更远处的足迹。\n[color=#bcad8c]专业剥皮师：[/color] 你杀死的每一头野兽有50%的几率掉落额外的战利品。\n[color=#bcad8c]偏见：[/color] 大多数人不相信你这类人，所以交易价格变差10%。[/p]",
     "stage": 1,
     "context": "this.m.Description = \"[p=c][img]gfx/ui/events/event_122.png[/img][/p][p]You and your men make your living by hunting down the many beasts that beset villages on the fringes of civilization. It's dangerous work, but it pays well enough, and there's always a bigger beast to slay and more crowns to earn.\n\n[color=#bcad8c]Beast Slayers:[/color] Start with three beast slayers and decent equipment, as well as some beast trophies.\n[color=#bcad8c]Expert Trackers:[/color] See tracks from further away.\n[color=#bcad8c]Expert Skinners:[/color] Each beast you slay has a 50% chance to drop an additional trophy.\n[color=#bcad8c]Prejudice:[/color] Most people don't trust your kind, so you get 10% worse prices.[/p]\""
   },
@@ -44,7 +44,7 @@
     "key": "Beast Slayers",
     "original": "Beast Slayers",
     "translation": "野兽杀手",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Beast Slayers'"
   },
   {

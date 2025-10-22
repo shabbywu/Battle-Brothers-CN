@@ -11,8 +11,8 @@
     "ID": 293410589,
     "key": "Entity cannot be attacked!",
     "original": "Entity cannot be attacked!",
-    "translation": "对象不能被攻击！",
-    "stage": 1,
+    "translation": "Entity cannot be attacked!",
+    "stage": 5,
     "context": "this.logError('Entity cannot be attacked!')"
   }
 ]

@@ -43,8 +43,8 @@
     "ID": 293411701,
     "key": "Several collectors seeking exotic curios have made their way into town. There's good coin to be made selling beast trophies and like here.",
     "original": "Several collectors seeking exotic curios have made their way into town. There's good coin to be made selling beast trophies and like here.",
-    "translation": "有几个寻求异国古董的收藏家来到镇上。在这里，出售野兽战利品能获得不错的收益。",
-    "stage": 1,
+    "translation": "有几名专门搜罗奇珍异品的收藏家来到镇上。在这里，出售野兽战利品能获得不错的收益。",
+    "stage": 5,
     "context": "this.m.Description = \"Several collectors seeking exotic curios have made their way into town. There's good coin to be made selling beast trophies and like here.\""
   },
   {

@@ -11,8 +11,8 @@
     "ID": 293422462,
     "key": "Deathwish",
     "original": "Deathwish",
-    "translation": "死亡意志",
-    "stage": 1,
+    "translation": "誓死如归",
+    "stage": 5,
     "context": "this.m.Name = 'Deathwish'"
   },
   {

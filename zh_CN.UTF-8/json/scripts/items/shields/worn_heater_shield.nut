@@ -4,7 +4,7 @@
     "key": "Decayed Heater Shield",
     "original": "Decayed Heater Shield",
     "translation": "腐朽扇形盾",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Decayed Heater Shield'"
   },
   {
