@@ -12,7 +12,7 @@
     "key": "A band of barbarians out to hunt game.",
     "original": "A band of barbarians out to hunt game.",
     "translation": "一群外出打猎的野蛮人。",
-    "stage": 1,
+    "stage": 5,
     "context": "party.setDescription('A band of barbarians out to hunt game.')"
   }
 ]

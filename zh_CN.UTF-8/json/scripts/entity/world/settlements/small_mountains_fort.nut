@@ -19,8 +19,8 @@
     "ID": 293412190,
     "key": "Greifenwall",
     "original": "Greifenwall",
-    "translation": "一握垒",
-    "stage": 1,
+    "translation": "狮鹫垒",
+    "stage": 5,
     "context": "this.getRandomName(['Wallstein','Hohenwacht','Steinberg','Wolfswall','Felswall','Steinwacht','Eisenwall','Jaderwall','Hohenschanze','Wallheim','Gronenwall','Thalwacht','Schanzberg','Windwacht','Turmwacht','Felswacht','Hohenturm','Adlerwacht','Scharfenstein','Oberwallheim','Hochwall','Bergwall','Finkenwacht','Greifenwall','Himmelswacht'])"
   },
   {

@@ -84,7 +84,7 @@
     "key": "Alps",
     "original": "Alps",
     "translation": "梦魇",
-    "stage": 1,
+    "stage": 5,
     "context": "_action.getFaction().spawnEntity(tile, 'Alps', False, this.Const.World.Spawn.Alps, this.Math.rand(80, 120) * _action.getScaledDifficultyMult() * this.Math.maxf(0.699999988079071, this.Math.minf(1.5, distanceToNextSettlement \\ 14.0)))"
   },
   {

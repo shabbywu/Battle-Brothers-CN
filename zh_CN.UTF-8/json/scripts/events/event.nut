@@ -11,8 +11,8 @@
     "ID": 293412506,
     "key": "Screen '",
     "original": "Screen '",
-    "translation": "屏幕 '",
-    "stage": 1,
+    "translation": "Screen '",
+    "stage": 5,
     "context": "this.logError(\"Screen '\" + _id + \"' not found for event '\" + this.m.ID + \"'.\")"
   },
   {
@@ -43,8 +43,8 @@
     "ID": 293412510,
     "key": "' not found for event '",
     "original": "' not found for event '",
-    "translation": "事件“'”未找到",
-    "stage": 1,
+    "translation": "' not found for event '",
+    "stage": 5,
     "context": "this.logError(\"Screen '\" + _id + \"' not found for event '\" + this.m.ID + \"'.\")"
   }
 ]

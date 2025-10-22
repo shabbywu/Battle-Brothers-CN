@@ -27,7 +27,7 @@
     "ID": 293403332,
     "key": "Defeat packs of roving beasts",
     "original": "Defeat packs of roving beasts",
-    "translation": "击败流浪兽群",
+    "translation": "击败游荡兽群",
     "stage": 1,
     "context": "this.m.UIText = 'Defeat packs of roving beasts'"
   },

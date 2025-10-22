@@ -83,8 +83,8 @@
     "ID": 293413433,
     "key": "At %town%...",
     "original": "At %town%...",
-    "translation": "在 %town%…",
-    "stage": 1,
+    "translation": "%town%里……",
+    "stage": 5,
     "context": "this.m.Title = 'At %town%...'"
   },
   {

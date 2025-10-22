@@ -4,7 +4,7 @@
     "key": " crowns on completion",
     "original": " crowns on completion",
     "translation": "克朗会在事成之后付清",
-    "stage": 1,
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsPayment.push('Get ' + this.Contract.m.Payment.getOnCompletion() + ' crowns on completion')"
   },
   {
@@ -19,7 +19,7 @@
     "ID": 293410112,
     "key": "We need to be paid more per head we return with.",
     "original": "We need to be paid more per head we return with.",
-    "translation": "我们需要你为每个带回的人头付更多的钱。",
+    "translation": "我们需要你为每个带回来的脑袋付更多的钱。",
     "stage": 5,
     "context": "Text = this.Contract.m.Payment.Count == 0 ? 'We need to be paid per head we return with.' : 'We need to be paid more per head we return with.'"
   },
@@ -35,15 +35,15 @@
     "ID": 293410114,
     "key": "Get ",
     "original": "Get ",
-    "translation": "酬金",
-    "stage": 1,
+    "translation": "预付金为",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsPayment.push('Get ' + this.Contract.m.Payment.getInAdvance() + ' crowns in advance')"
   },
   {
     "ID": 293410115,
     "key": "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you bring back, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%",
     "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you bring back, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%",
-    "translation": "每带回一个人头{你会得到 | 你会收到 | 我会给你} %reward_count% 克朗，{我最多收 %maxcount% 个头 | 我最多给你 %maxcount% 个头的钱 }。%SPEECH_OFF%",
+    "translation": "每带回一个脑袋{你会得到 | 你会收到 | 我会给你}%reward_count%克朗，{最多%maxcount%个头 | 我最多给你%maxcount%个头的钱 | 封顶%maxcount%个脑袋}。%SPEECH_OFF%",
     "stage": 5,
     "context": "this[1] += \"{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you bring back, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%\""
   },
@@ -51,8 +51,8 @@
     "ID": 293410116,
     "key": " crowns in advance",
     "original": " crowns in advance",
-    "translation": "克朗作为预付",
-    "stage": 1,
+    "translation": "克朗",
+    "stage": 5,
     "context": "this.Contract.m.BulletpointsPayment.push('Get ' + this.Contract.m.Payment.getInAdvance() + ' crowns in advance')"
   },
   {
@@ -76,7 +76,7 @@
     "key": "Contract negotiations turned sour",
     "original": "Contract negotiations turned sour",
     "translation": "合同谈崩了",
-    "stage": 1,
+    "stage": 5,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationContractNegotiationsFail, 'Contract negotiations turned sour')"
   },
   {

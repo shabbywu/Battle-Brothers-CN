@@ -284,7 +284,7 @@
     "key": "Albatros",
     "original": "Albatros",
     "translation": "信天翁号",
-    "stage": 1,
+    "stage": 5,
     "context": "'Albatros'"
   },
   {
@@ -323,8 +323,8 @@
     "ID": 293405676,
     "key": "Lost Treasure Hunter",
     "original": "Lost Treasure Hunter",
-    "translation": "失落的宝藏猎人",
-    "stage": 1,
+    "translation": "失落宝藏猎人",
+    "stage": 5,
     "context": "'Lost Treasure Hunter'"
   },
   {
@@ -660,7 +660,7 @@
     "key": "Knight's Axe Hills",
     "original": "Knight's Axe Hills",
     "translation": "战斧丘",
-    "stage": 1,
+    "stage": 5,
     "context": "\"Knight's Axe Hills\""
   },
   {
@@ -683,8 +683,8 @@
     "ID": 293405721,
     "key": "Dusky Forest",
     "original": "Dusky Forest",
-    "translation": "暮色昏林",
-    "stage": 1,
+    "translation": "暮林",
+    "stage": 5,
     "context": "'Dusky Forest'"
   },
   {
@@ -939,7 +939,7 @@
     "ID": 293405753,
     "key": "Barbarian Beastmasters",
     "original": "Barbarian Beastmasters",
-    "translation": "野蛮人兽王",
+    "translation": "野蛮人驯兽师",
     "stage": 5,
     "context": "'Barbarian Beastmasters'"
   },
@@ -1179,8 +1179,8 @@
     "ID": 293405783,
     "key": "Armored Wardogs",
     "original": "Armored Wardogs",
-    "translation": "盔甲战犬",
-    "stage": 1,
+    "translation": "披甲战犬",
+    "stage": 5,
     "context": "'Armored Wardogs'"
   },
   {
@@ -1356,7 +1356,7 @@
     "key": "Bleak Forest",
     "original": "Bleak Forest",
     "translation": "荒凉林",
-    "stage": 1,
+    "stage": 5,
     "context": "'Bleak Forest'"
   },
   {
@@ -1515,8 +1515,8 @@
     "ID": 293405825,
     "key": "Armored Wiedergangers",
     "original": "Armored Wiedergangers",
-    "translation": "盔甲僵尸",
-    "stage": 1,
+    "translation": "披甲僵尸",
+    "stage": 5,
     "context": "'Armored Wiedergangers'"
   },
   {
@@ -1692,7 +1692,7 @@
     "key": "Pagan Heathland",
     "original": "Pagan Heathland",
     "translation": "异教荒原",
-    "stage": 1,
+    "stage": 5,
     "context": "'Pagan Heathland'"
   },
   {
@@ -1820,7 +1820,7 @@
     "key": "Brunhild",
     "original": "Brunhild",
     "translation": "布伦希尔德号",
-    "stage": 1,
+    "stage": 5,
     "context": "'Brunhild'"
   },
   {
@@ -1883,7 +1883,7 @@
     "ID": 293405871,
     "key": "Hedge Knight",
     "original": "Hedge Knight",
-    "translation": "雇佣骑士",
+    "translation": "流浪骑士",
     "stage": 5,
     "context": "'Hedge Knight'"
   },
@@ -1924,7 +1924,7 @@
     "key": "Ifrit",
     "original": "Ifrit",
     "translation": "伊夫利特",
-    "stage": 1,
+    "stage": 5,
     "context": "'Ifrit'"
   },
   {
@@ -2556,7 +2556,7 @@
     "key": "Fireander",
     "original": "Fireander",
     "translation": "火枫林",
-    "stage": 1,
+    "stage": 5,
     "context": "'Fireander'"
   },
   {
@@ -3172,7 +3172,7 @@
     "key": "Barbarian Kings",
     "original": "Barbarian Kings",
     "translation": "野蛮人国王",
-    "stage": 1,
+    "stage": 5,
     "context": "'Barbarian Kings'"
   },
   {
@@ -3267,8 +3267,8 @@
     "ID": 293406044,
     "key": "Whispering Sands",
     "original": "Whispering Sands",
-    "translation": "细语沙",
-    "stage": 1,
+    "translation": "细语沙地",
+    "stage": 5,
     "context": "'Whispering Sands'"
   },
   {
@@ -3436,7 +3436,7 @@
     "key": "Unholds",
     "original": "Unholds",
     "translation": "巨魔",
-    "stage": 1,
+    "stage": 5,
     "context": "'Unholds'"
   },
   {
@@ -3547,8 +3547,8 @@
     "ID": 293406079,
     "key": "Too fast for you! Gain [color=",
     "original": "Too fast for you! Gain [color=",
-    "translation": "快你一步！近战、远程防御增加角色实时主动值的[color=",
-    "stage": 1,
+    "translation": "快你一步！近战、远程防御增加，数值为角色实时主动值的[color=",
+    "stage": 5,
     "context": "Dodge = 'Too fast for you! Gain [color=' + this.Const.UI.Color.PositiveValue + \"]15%[/color] of the character's current Initiative as a bonus to Melee and Ranged Defense.\""
   },
   {
@@ -3556,7 +3556,7 @@
     "key": "fifteen",
     "original": "fifteen",
     "translation": "15",
-    "stage": 1,
+    "stage": 5,
     "context": "'fifteen'"
   },
   {
@@ -3708,7 +3708,7 @@
     "key": "Necromancers",
     "original": "Necromancers",
     "translation": "死灵法师",
-    "stage": 1,
+    "stage": 5,
     "context": "'Necromancers'"
   },
   {
@@ -3796,7 +3796,7 @@
     "key": "Clansman",
     "original": "Clansman",
     "translation": "族人号",
-    "stage": 1,
+    "stage": 5,
     "context": "'Clansman'"
   },
   {
@@ -4635,8 +4635,8 @@
     "ID": 293406215,
     "key": "Armored Unhold",
     "original": "Armored Unhold",
-    "translation": "盔甲巨魔",
-    "stage": 1,
+    "translation": "披甲巨魔",
+    "stage": 5,
     "context": "'Armored Unhold'"
   },
   {
@@ -4667,8 +4667,8 @@
     "ID": 293406219,
     "key": "Armored Wiederganger",
     "original": "Armored Wiederganger",
-    "translation": "盔甲僵尸",
-    "stage": 1,
+    "translation": "披甲僵尸",
+    "stage": 5,
     "context": "'Armored Wiederganger'"
   },
   {
@@ -4924,7 +4924,7 @@
     "key": "Land of the Sun",
     "original": "Land of the Sun",
     "translation": "太阳之国",
-    "stage": 1,
+    "stage": 5,
     "context": "'Land of the Sun'"
   },
   {
@@ -5012,7 +5012,7 @@
     "key": "Blade Dancer",
     "original": "Blade Dancer",
     "translation": "刀锋舞者",
-    "stage": 1,
+    "stage": 5,
     "context": "'Blade Dancer'"
   },
   {
@@ -5091,8 +5091,8 @@
     "ID": 293406272,
     "key": "Unlocks the 'Recover' skill which allows for resting a turn in order to reduce accumulated Fatigue by [color=",
     "original": "Unlocks the 'Recover' skill which allows for resting a turn in order to reduce accumulated Fatigue by [color=",
-    "translation": "解锁 '恢复' 技能，允许角色休息一回合，以减少累积疲劳值的[color=",
-    "stage": 1,
+    "translation": "解锁‘恢复’技能，允许角色休息一整个回合，以减少累积疲劳值的[color=",
+    "stage": 5,
     "context": "Recover = \"Unlocks the 'Recover' skill which allows for resting a turn in order to reduce accumulated Fatigue by [color=\" + this.Const.UI.Color.NegativeValue + ']50%[/color].'"
   },
   {
@@ -5155,8 +5155,8 @@
     "ID": 293406280,
     "key": "Lost Treasure Hunters",
     "original": "Lost Treasure Hunters",
-    "translation": "失落的宝藏猎人",
-    "stage": 1,
+    "translation": "失落宝藏猎人",
+    "stage": 5,
     "context": "'Lost Treasure Hunters'"
   },
   {
@@ -5572,7 +5572,7 @@
     "key": "Southern Sands",
     "original": "Southern Sands",
     "translation": "南漠",
-    "stage": 1,
+    "stage": 5,
     "context": "'Southern Sands'"
   },
   {
@@ -5611,8 +5611,8 @@
     "ID": 293406337,
     "key": "Swordmasters",
     "original": "Swordmasters",
-    "translation": "剑圣",
-    "stage": 1,
+    "translation": "剑术大师",
+    "stage": 5,
     "context": "'Swordmasters'"
   },
   {
@@ -5659,8 +5659,8 @@
     "ID": 293406343,
     "key": "Armored Wardog",
     "original": "Armored Wardog",
-    "translation": "盔甲战犬",
-    "stage": 1,
+    "translation": "披甲战犬",
+    "stage": 5,
     "context": "'Armored Wardog'"
   },
   {
@@ -5740,7 +5740,7 @@
     "key": "Southwatch",
     "original": "Southwatch",
     "translation": "南望地",
-    "stage": 1,
+    "stage": 5,
     "context": "'Southwatch'"
   },
   {
@@ -6171,7 +6171,7 @@
     "ID": 293406407,
     "key": "Hedge Knights",
     "original": "Hedge Knights",
-    "translation": "雇佣骑士",
+    "translation": "流浪骑士",
     "stage": 5,
     "context": "'Hedge Knights'"
   },
@@ -6227,8 +6227,8 @@
     "ID": 293406414,
     "key": "Norshire",
     "original": "Norshire",
-    "translation": "北郊",
-    "stage": 1,
+    "translation": "北郡",
+    "stage": 5,
     "context": "'Norshire'"
   },
   {
@@ -6331,8 +6331,8 @@
     "ID": 293406427,
     "key": "Barbarian Beastmaster",
     "original": "Barbarian Beastmaster",
-    "translation": "野蛮兽王",
-    "stage": 1,
+    "translation": "野蛮人驯兽师",
+    "stage": 5,
     "context": "'Barbarian Beastmaster'"
   },
   {
@@ -6404,7 +6404,7 @@
     "key": "Direwolf",
     "original": "Direwolf",
     "translation": "恐狼",
-    "stage": 1,
+    "stage": 5,
     "context": "'Direwolf'"
   },
   {
@@ -7140,7 +7140,7 @@
     "key": "Ifrits",
     "original": "Ifrits",
     "translation": "伊夫利特",
-    "stage": 1,
+    "stage": 5,
     "context": "'Ifrits'"
   },
   {
@@ -7252,7 +7252,7 @@
     "key": "Sea of Sand",
     "original": "Sea of Sand",
     "translation": "沙海",
-    "stage": 1,
+    "stage": 5,
     "context": "'Sea of Sand'"
   },
   {
@@ -7420,7 +7420,7 @@
     "key": "]20%[/color] experience from battle. At the eleventh character level, you gain an additional perk point and this perk becomes inert.\n\nPlaying the 'Manhunters' origin, your indebted get the perk point refunded at the seventh character level.",
     "original": "]20%[/color] experience from battle. At the eleventh character level, you gain an additional perk point and this perk becomes inert.\n\nPlaying the 'Manhunters' origin, your indebted get the perk point refunded at the seventh character level.",
     "translation": "]20%[/color]。该角色升到十一级时，该特技失效并获得一个额外特技点。\n\n游玩“猎奴者”起源时，你的负债者会在升到七级时返还特技点。",
-    "stage": 1,
+    "stage": 5,
     "context": "Student = 'Everything can be learned if you put your mind to it. Gain additional [color=' + this.Const.UI.Color.PositiveValue + \"]20%[/color] experience from battle. At the eleventh character level, you gain an additional perk point and this perk becomes inert.\n\nPlaying the 'Manhunters' origin, your indebted get the perk point refunded at the seventh character level.\""
   },
   {
@@ -7484,7 +7484,7 @@
     "key": "Necromancer",
     "original": "Necromancer",
     "translation": "死灵法师",
-    "stage": 1,
+    "stage": 5,
     "context": "'Necromancer'"
   },
   {
@@ -8108,7 +8108,7 @@
     "key": "Wideacre",
     "original": "Wideacre",
     "translation": "广亩",
-    "stage": 1,
+    "stage": 5,
     "context": "'Wideacre'"
   },
   {
@@ -8507,8 +8507,8 @@
     "ID": 293406699,
     "key": "Swordmaster",
     "original": "Swordmaster",
-    "translation": "剑圣",
-    "stage": 1,
+    "translation": "剑术大师",
+    "stage": 5,
     "context": "'Swordmaster'"
   },
   {
@@ -8764,7 +8764,7 @@
     "key": "Scragglands",
     "original": "Scragglands",
     "translation": "荒崎地",
-    "stage": 1,
+    "stage": 5,
     "context": "'Scragglands'"
   },
   {
@@ -8780,7 +8780,7 @@
     "key": "Sunpan",
     "original": "Sunpan",
     "translation": "日熙原",
-    "stage": 1,
+    "stage": 5,
     "context": "'Sunpan'"
   },
   {
@@ -8820,7 +8820,7 @@
     "key": "Blade Dancers",
     "original": "Blade Dancers",
     "translation": "刀锋舞者",
-    "stage": 1,
+    "stage": 5,
     "context": "'Blade Dancers'"
   },
   {
@@ -8995,8 +8995,8 @@
     "ID": 293406760,
     "key": "Armored Unholds",
     "original": "Armored Unholds",
-    "translation": "盔甲巨魔",
-    "stage": 1,
+    "translation": "披甲巨魔",
+    "stage": 5,
     "context": "'Armored Unholds'"
   },
   {
@@ -9139,7 +9139,7 @@
     "ID": 293406778,
     "key": "]+5[/color], up to a maximum of 5 stacks, until this character's next turn. A single attack hitting multiple targets can add several stacks at once.\n\nIf you put away your weapon, you lose all stacks.",
     "original": "]+5[/color], up to a maximum of 5 stacks, until this character's next turn. A single attack hitting multiple targets can add several stacks at once.\n\nIf you put away your weapon, you lose all stacks.",
-    "translation": "]+5[/color]，最多叠加5层，效果持续的该角色的下个回合。一次攻击多个目标可以叠加多层。收起武器会失去所有加成。",
+    "translation": "]+5[/color]，最多叠加5层，效果持续到该角色的下个回合。一次攻击多个目标可以叠加多层。收起武器会失去所有加成。",
     "stage": 1,
     "context": "ReachAdvantage = 'Learn to use the superior reach of large weapons to keep the enemy from getting close enough to land a good hit.\n\nEach hit with a two-handed melee weapon adds a stack of Reach Advantage that increases your Melee Defense by [color=' + this.Const.UI.Color.PositiveValue + \"]+5[/color], up to a maximum of 5 stacks, until this character's next turn. A single attack hitting multiple targets can add several stacks at once.\n\nIf you put away your weapon, you lose all stacks.\""
   },
@@ -9228,7 +9228,7 @@
     "key": "Southmark",
     "original": "Southmark",
     "translation": "南陲",
-    "stage": 1,
+    "stage": 5,
     "context": "'Southmark'"
   },
   {
@@ -9588,7 +9588,7 @@
     "key": "Boar Woods",
     "original": "Boar Woods",
     "translation": "野猪林",
-    "stage": 1,
+    "stage": 5,
     "context": "'Boar Woods'"
   },
   {

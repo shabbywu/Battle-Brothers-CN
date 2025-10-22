@@ -27,7 +27,7 @@
     "ID": 293412584,
     "key": "Was denied a request",
     "original": "Was denied a request",
-    "translation": "请求被拒绝",
+    "translation": "被驳回了请求",
     "stage": 1,
     "context": "_event.m.Clown.worsenMood(1.0, 'Was denied a request')"
   },
@@ -75,7 +75,7 @@
     "ID": 293412590,
     "key": "It's for their own good.",
     "original": "It's for their own good.",
-    "translation": "这是为大家好。",
+    "translation": "这是为他们自己好。",
     "stage": 1,
     "context": "Text = \"It's for their own good.\""
   },
@@ -83,7 +83,7 @@
     "ID": 293412591,
     "key": "Displayed his archery skills",
     "original": "Displayed his archery skills",
-    "translation": "展示了他的射箭技术",
+    "translation": "展现了射箭的身手",
     "stage": 1,
     "context": "_event.m.Archer.improveMood(1, 'Displayed his archery skills')"
   },
@@ -147,7 +147,7 @@
     "ID": 293412599,
     "key": "Didn't get the entertainment he had hoped for",
     "original": "Didn't get the entertainment he had hoped for",
-    "translation": "没有得到他所希望的娱乐",
+    "translation": "没找成乐子",
     "stage": 1,
     "context": "bro.worsenMood(1.0, \"Didn't get the entertainment he had hoped for\")"
   },

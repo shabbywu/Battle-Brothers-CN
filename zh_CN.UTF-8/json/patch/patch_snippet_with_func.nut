@@ -3,7 +3,7 @@
     "ID": 315631954,
     "key": "\"Secure \" + Flags.get(\"DestinationName\")",
     "original": "\"Secure \" + Flags.get(\"DestinationName\")",
-    "translation": "确保%s的安全",
+    "translation": "清理%s的威胁",
     "stage": 5,
     "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/investigate_cemetery_contract.nut\",\n    \"location\": \"createStates::start\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
   },
@@ -11,24 +11,24 @@
     "ID": 315631955,
     "key": "[6]\"Hunted beasts around \" + World.State.getRegion(Flags.get(\"Region\")).Name",
     "original": "\"Hunted beasts around \" + World.State.getRegion(Flags.get(\"Region\")).Name",
-    "translation": "猎杀游荡在%s的野兽",
-    "stage": 1,
+    "translation": "猎杀在%s附近游荡的野兽",
+    "stage": 5,
     "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/big_game_hunt_contract.nut\",\n    \"location\": \"createScreens::getResult[6]\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
   },
   {
     "ID": 315631956,
     "key": "[7]\"Hunted beasts around \" + World.State.getRegion(Flags.get(\"Region\")).Name",
     "original": "\"Hunted beasts around \" + World.State.getRegion(Flags.get(\"Region\")).Name",
-    "translation": "猎杀游荡在%s的野兽",
-    "stage": 1,
+    "translation": "猎杀在%s附近游荡的野兽",
+    "stage": 5,
     "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/big_game_hunt_contract.nut\",\n    \"location\": \"createScreens::getResult[7]\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
   },
   {
     "ID": 315631957,
     "key": "[8]\"Hunted beasts around \" + World.State.getRegion(Flags.get(\"Region\")).Name",
     "original": "\"Hunted beasts around \" + World.State.getRegion(Flags.get(\"Region\")).Name",
-    "translation": "猎杀游荡在%s的野兽",
-    "stage": 1,
+    "translation": "猎杀在%s附近游荡的野兽",
+    "stage": 5,
     "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/big_game_hunt_contract.nut\",\n    \"location\": \"createScreens::getResult[8]\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
   },
   {
@@ -36,7 +36,7 @@
     "key": "[11]\"Failed to break the siege of \" + Flags.get(\"ObjectiveName\")",
     "original": "\"Failed to break the siege of \" + Flags.get(\"ObjectiveName\")",
     "translation": "未能解%s之围",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/break_greenskin_siege_contract.nut\",\n    \"location\": \"createScreens::getResult[11]\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
   },
   {
@@ -76,7 +76,7 @@
     "key": "\"Hunt down what terrorizes \" + this.Contract.m.Home.getName()",
     "original": "\"Hunt down what terrorizes \" + this.Contract.m.Home.getName()",
     "translation": "猎杀威胁%s的事物",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/roaming_beasts_contract.nut\",\n    \"location\": \"createStates::start\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
   },
   {
@@ -84,7 +84,7 @@
     "key": "[1]\"Hunt down what terrorizes \" + this.Contract.m.Home.getName()",
     "original": "\"Hunt down what terrorizes \" + this.Contract.m.Home.getName()",
     "translation": "猎杀威胁%s的事物",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n    \"sourcename\": \"scripts/contracts/contracts/roaming_beasts_desert_contract.nut\",\n    \"location\": \"createStates::start\",\n    \"type\": \"AddExprReplaceImpl\"\n}"
   },
   {

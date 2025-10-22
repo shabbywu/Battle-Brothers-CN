@@ -19,8 +19,8 @@
     "ID": 293415330,
     "key": "It's a small world, at least for outcasts.",
     "original": "It's a small world, at least for outcasts.",
-    "translation": "这是一个小小的世界，至少对于被流放者来说是这样。",
-    "stage": 1,
+    "translation": "这世界很小，至少对于流放者来说很小。",
+    "stage": 5,
     "context": "Text = \"It's a small world, at least for outcasts.\""
   },
   {

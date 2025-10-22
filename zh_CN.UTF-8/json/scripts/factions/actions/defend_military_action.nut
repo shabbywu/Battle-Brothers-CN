@@ -11,7 +11,7 @@
     "ID": 293417305,
     "key": " Company",
     "original": " Company",
-    "translation": " 战团",
+    "translation": "战团",
     "stage": 1,
     "context": "this.getFaction().spawnEntity(spawnpoints[i], this.m.Settlement.getName() + ' Company', True, this.Const.World.Spawn.Noble, this.m.Settlement.getResources())"
   }

@@ -19,7 +19,7 @@
     "ID": 293416500,
     "key": "'s pessimism",
     "original": "'s pessimism",
-    "translation": "的悲观情绪",
+    "translation": "的悲观情绪影响",
     "stage": 1,
     "context": "bro.worsenMood(0.4000000059604645, 'Tempered by ' + _event.m.Pessimist.getName() + \"'s pessimism\")"
   },
@@ -43,7 +43,7 @@
     "ID": 293416503,
     "key": "Tempered by ",
     "original": "Tempered by ",
-    "translation": "经过淬炼的(Tempered by)",
+    "translation": "被",
     "stage": 1,
     "context": "bro.worsenMood(0.4000000059604645, 'Tempered by ' + _event.m.Pessimist.getName() + \"'s pessimism\")"
   }

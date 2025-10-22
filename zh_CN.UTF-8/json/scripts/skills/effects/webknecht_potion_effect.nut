@@ -27,8 +27,8 @@
     "ID": 293421795,
     "key": "Immune to poison effects, including those of Webknechts and Goblins",
     "original": "Immune to poison effects, including those of Webknechts and Goblins",
-    "translation": "免疫中毒效果，包括蛛魔与地精的毒药",
-    "stage": 1,
+    "translation": "免疫中毒效果，包括蛛魔的毒液与地精的毒药",
+    "stage": 5,
     "context": "text = 'Immune to poison effects, including those of Webknechts and Goblins'"
   }
 ]

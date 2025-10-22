@@ -11,7 +11,7 @@
     "ID": 293403627,
     "key": "{For Young Anselm! | As Oathtakers! | And death to the Oathbringers!}",
     "original": "{For Young Anselm! | As Oathtakers! | And death to the Oathbringers!}",
-    "translation": "{为了小安瑟姆！ | 宣誓者万岁！ | 誓约使者去死吧！}",
+    "translation": "{为了小安瑟姆！ | 执誓者万岁！ | 给渡誓者以死亡！}",
     "stage": 1,
     "context": "this.m.SuccessButtonText = '{For Young Anselm! | As Oathtakers! | And death to the Oathbringers!}'"
   },
@@ -67,7 +67,7 @@
     "ID": 293403634,
     "key": "Beasts have always threatened civilization.\nLet us take an Oath of Dominion and stake our claim against the tides of nature!",
     "original": "Beasts have always threatened civilization.\nLet us take an Oath of Dominion and stake our claim against the tides of nature!",
-    "translation": "饕餮猛兽们是人类文明永恒的威胁。\n让我们立下统御誓言，与大自然的浪潮相抗争！",
+    "translation": "饕餮猛兽们是人类文明永恒的威胁。\n让我们立下统御誓言，与大自然的浪潮抗争！",
     "stage": 1,
     "context": "this.m.ButtonText = 'Beasts have always threatened civilization.\nLet us take an Oath of Dominion and stake our claim against the tides of nature!'"
   },

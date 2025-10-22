@@ -35,8 +35,8 @@
     "ID": 293419679,
     "key": "the Viper",
     "original": "the Viper",
-    "translation": "毒蛇",
-    "stage": 1,
+    "translation": "蝰蛇",
+    "stage": 5,
     "context": "bros[2].setTitle('the Viper')"
   },
   {

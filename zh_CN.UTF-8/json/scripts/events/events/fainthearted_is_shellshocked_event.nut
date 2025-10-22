@@ -27,7 +27,7 @@
     "ID": 293415770,
     "key": "Leave him be.",
     "original": "Leave him be.",
-    "translation": "让他自己待会儿。",
+    "translation": "不管他",
     "stage": 1,
     "context": "Text = 'Leave him be.'"
   }

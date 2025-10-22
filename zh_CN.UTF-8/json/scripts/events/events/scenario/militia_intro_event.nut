@@ -12,7 +12,7 @@
     "key": "The Peasant Militia",
     "original": "The Peasant Militia",
     "translation": "农民民兵",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Title = 'The Peasant Militia'"
   },
   {

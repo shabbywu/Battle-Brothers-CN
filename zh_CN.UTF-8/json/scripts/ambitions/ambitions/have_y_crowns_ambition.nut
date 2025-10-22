@@ -11,7 +11,7 @@
     "ID": 293403467,
     "key": "Should a battle or two go against us we may find ourselves out of pocket and\nshort of equipment. The company will therefore build a reserve of 10,000 crowns.",
     "original": "Should a battle or two go against us we may find ourselves out of pocket and\nshort of equipment. The company will therefore build a reserve of 10,000 crowns.",
-    "translation": "如果一两场战斗对我们不利，我们就会发现自己口袋空空，装备短缺。\n因此，战团将建立10,000克朗的储备。",
+    "translation": "如果一两场战斗对我们不利，我们就会发现自己口袋\n空空，装备短缺。因此，战团将建立10,000克朗的储备。",
     "stage": 1,
     "context": "this.m.ButtonText = 'Should a battle or two go against us we may find ourselves out of pocket and\nshort of equipment. The company will therefore build a reserve of 10,000 crowns.'"
   },

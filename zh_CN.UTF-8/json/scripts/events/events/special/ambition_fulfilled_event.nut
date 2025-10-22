@@ -3,7 +3,7 @@
     "ID": 293416880,
     "key": "An Ambition Fulfilled",
     "original": "An Ambition Fulfilled",
-    "translation": "一个野心达成",
+    "translation": "一项野心目标达成",
     "stage": 1,
     "context": "this.m.Title = 'An Ambition Fulfilled'"
   },

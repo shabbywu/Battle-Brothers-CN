@@ -20,7 +20,7 @@
     "key": "Almost Over",
     "original": "Almost Over",
     "translation": "尘埃落定",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Almost Over'"
   },
   {

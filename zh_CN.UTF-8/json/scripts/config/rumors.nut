@@ -411,7 +411,7 @@
     "ID": 293405480,
     "key": "The other day my pickaxe broke while I was hammering away. Piece of it clipped my cheek. Not much and I'd be missing an eye!",
     "original": "The other day my pickaxe broke while I was hammering away. Piece of it clipped my cheek. Not much and I'd be missing an eye!",
-    "translation": "有一天，我的鹤嘴锄敲坏了。飞出来的碎片崩到了我脸上。好在只是没了只眼睛！",
+    "translation": "那天我正拿着锄头猛敲呢，结果那锄头竟然坏了。飞出来的碎片崩到了我脸上。差点没弄瞎我一只眼！",
     "stage": 1,
     "context": "\"The other day my pickaxe broke while I was hammering away. Piece of it clipped my cheek. Not much and I'd be missing an eye!\""
   },
@@ -563,7 +563,7 @@
     "ID": 293405499,
     "key": "They say that some famous shield, I forgot what it was called, once stopped a boulder from rolling down a hill and crushing a camp. Sounds like shite to me. Not that we'll ever find out if it's true that it's an orc war trophy now, hidden somewhere %dista",
     "original": "They say that some famous shield, I forgot what it was called, once stopped a boulder from rolling down a hill and crushing a camp. Sounds like shite to me. Not that we'll ever find out if it's true that it's an orc war trophy now, hidden somewhere %distance% to the %direction% of here.",
-    "translation": "他们说有个著名的盾牌，叫什么来着，挡住了一块从山坡滚下来的巨石，挽救了一这个营地。这不就是扯淡吗。不过现在也无从验证了，那玩意成了兽人的战利品，藏在%direction%边的%distance%处。",
+    "translation": "他们说有个著名的盾牌，叫什么来着，挡住了一块从山坡滚下来的巨石，挽救了一整个营地。这不就是扯淡吗。不过现在也无从验证了，那玩意成了兽人的战利品，藏在%direction%边的%distance%处。",
     "stage": 1,
     "context": "\"They say that some famous shield, I forgot what it was called, once stopped a boulder from rolling down a hill and crushing a camp. Sounds like shite to me. Not that we'll ever find out if it's true that it's an orc war trophy now, hidden somewhere %distance% to the %direction% of here.\""
   },
@@ -971,7 +971,7 @@
     "ID": 293405550,
     "key": "The priest says that the old gods will take you in if you don't make it back from the crusade. 'Tis a good thing to know, right? Those Gilder fanatics are a dangerous lot.",
     "original": "The priest says that the old gods will take you in if you don't make it back from the crusade. 'Tis a good thing to know, right? Those Gilder fanatics are a dangerous lot.",
-    "translation": "牧师说，如果你没能从圣战中回来，旧神们回来接走你的灵魂。是不是感觉好多了？那些镀金狂热分子危险极了。",
+    "translation": "牧师说，如果你没能从圣战中回来，旧神们会来接走你的灵魂。是不是感觉好多了？那些镀金者狂热分子危险极了。",
     "stage": 1,
     "context": "\"The priest says that the old gods will take you in if you don't make it back from the crusade. 'Tis a good thing to know, right? Those Gilder fanatics are a dangerous lot.\""
   },
@@ -1059,7 +1059,7 @@
     "ID": 293405561,
     "key": "We don't need sellswords like you here! You're nothing but trouble. Our militia can take care of us. Always has, always will.",
     "original": "We don't need sellswords like you here! You're nothing but trouble. Our militia can take care of us. Always has, always will.",
-    "translation": "我们这儿才不需要佣兵！你们只会带来麻烦。我们的民兵保护我们保护得可好了。过去如此，将来也肯定如此。",
+    "translation": "我们这儿才不需要佣兵！你们只会带来麻烦。我们的民兵足够保护好我们了。我们这儿一向如此，将来肯定也一样。",
     "stage": 1,
     "context": "\"We don't need sellswords like you here! You're nothing but trouble. Our militia can take care of us. Always has, always will.\""
   },
@@ -1339,7 +1339,7 @@
     "ID": 293405596,
     "key": "The garrison commander fought in the Battle of Many Names. Claims large orcs just shrug off hits to the head with a waraxe, he does. Don't know what to make of this.",
     "original": "The garrison commander fought in the Battle of Many Names. Claims large orcs just shrug off hits to the head with a waraxe, he does. Don't know what to make of this.",
-    "translation": "一名经历过无数战斗的驻军指挥官声称只要耸肩就能用战斧砍中兽人的头部，也不知道他是怎么做到的，管他呢。",
+    "translation": "这的驻军指挥官曾经参加过万名之战。他说他一战斧劈到兽人头上，那兽人就跟没事一样。真不知道他是怎么活下来的。",
     "stage": 1,
     "context": "\"The garrison commander fought in the Battle of Many Names. Claims large orcs just shrug off hits to the head with a waraxe, he does. Don't know what to make of this.\""
   },

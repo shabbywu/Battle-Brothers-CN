@@ -227,8 +227,8 @@
     "ID": 293416160,
     "key": "Get back to work!",
     "original": "Get back to work!",
-    "translation": "回去干活儿！",
-    "stage": 1,
+    "translation": "回去干活！",
+    "stage": 5,
     "context": "Text = 'Get back to work!'"
   },
   {

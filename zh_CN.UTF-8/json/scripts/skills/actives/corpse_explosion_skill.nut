@@ -19,7 +19,7 @@
     "ID": 629144297,
     "key": "Corpse Explosion",
     "original": "Corpse Explosion",
-    "translation": "尸体爆炸",
+    "translation": "尸爆",
     "stage": 1,
     "context": "this.m.Name = \"Corpse Explosion\""
   },

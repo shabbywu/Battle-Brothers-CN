@@ -11,8 +11,8 @@
     "ID": 293417303,
     "key": "A band of mischievous goblins, small but cunning and not to be underestimated.",
     "original": "A band of mischievous goblins, small but cunning and not to be underestimated.",
-    "translation": "一群捣蛋的地精，小而狡猾，不可低估。",
-    "stage": 1,
+    "translation": "一伙狡诈的地精，身形矮小却诡计多端，不容小觑。",
+    "stage": 5,
     "context": "party.setDescription('A band of mischievous goblins, small but cunning and not to be underestimated.')"
   }
 ]

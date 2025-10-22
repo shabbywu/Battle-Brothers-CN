@@ -204,7 +204,7 @@
     "key": "The Swine",
     "original": "The Swine",
     "translation": "猪猡",
-    "stage": 1,
+    "stage": 5,
     "context": "'The Swine'"
   },
   {
@@ -587,7 +587,7 @@
     "ID": 293403851,
     "key": "The Raven",
     "original": "The Raven",
-    "translation": "乌鸦",
+    "translation": "渡鸦",
     "stage": 1,
     "context": "'The Raven'"
   },
@@ -972,7 +972,7 @@
     "key": "The Ifrit",
     "original": "The Ifrit",
     "translation": "伊夫利特",
-    "stage": 1,
+    "stage": 5,
     "context": "'The Ifrit'"
   },
   {
@@ -1252,7 +1252,7 @@
     "key": "%randomname% the Snake",
     "original": "%randomname% the Snake",
     "translation": "毒蛇%randomname%",
-    "stage": 1,
+    "stage": 5,
     "context": "'%randomname% the Snake'"
   },
   {
@@ -1323,8 +1323,8 @@
     "ID": 293403943,
     "key": "%randomsouthernname% the Blademaster",
     "original": "%randomsouthernname% the Blademaster",
-    "translation": "剑圣%randomsouthernname%",
-    "stage": 1,
+    "translation": "剑术大师%randomsouthernname%",
+    "stage": 5,
     "context": "'%randomsouthernname% the Blademaster'"
   },
   {
@@ -1499,7 +1499,7 @@
     "ID": 293403965,
     "key": "the Raven",
     "original": "the Raven",
-    "translation": "·乌鸦",
+    "translation": "·渡鸦",
     "stage": 1,
     "context": "'the Raven'"
   },
@@ -1564,7 +1564,7 @@
     "key": "Brunhild",
     "original": "Brunhild",
     "translation": "布伦希尔德",
-    "stage": 1,
+    "stage": 5,
     "context": "'Brunhild'"
   },
   {
@@ -1988,7 +1988,7 @@
     "key": "%randomname% the Necromancer",
     "original": "%randomname% the Necromancer",
     "translation": "死灵法师%randomname%",
-    "stage": 1,
+    "stage": 5,
     "context": "'%randomname% the Necromancer'"
   },
   {
@@ -2203,8 +2203,8 @@
     "ID": 293404053,
     "key": "%randomsouthernname% the Blade Dancer",
     "original": "%randomsouthernname% the Blade Dancer",
-    "translation": "剑舞者%randomsouthernname%",
-    "stage": 1,
+    "translation": "刀锋舞者%randomsouthernname%",
+    "stage": 5,
     "context": "'%randomsouthernname% the Blade Dancer'"
   },
   {
@@ -3083,8 +3083,8 @@
     "ID": 293404163,
     "key": "%randomsouthernname% the Viper",
     "original": "%randomsouthernname% the Viper",
-    "translation": "毒蛇%randomsouthernname%",
-    "stage": 1,
+    "translation": "蝰蛇%randomsouthernname%",
+    "stage": 5,
     "context": "'%randomsouthernname% the Viper'"
   },
   {
@@ -3380,7 +3380,7 @@
     "key": "Hakan",
     "original": "Hakan",
     "translation": "哈坎",
-    "stage": 1,
+    "stage": 5,
     "context": "'Hakan'"
   },
   {
@@ -4204,7 +4204,7 @@
     "key": "Hanke",
     "original": "Hanke",
     "translation": "汉克",
-    "stage": 1,
+    "stage": 5,
     "context": "'Hanke'"
   },
   {
@@ -4900,7 +4900,7 @@
     "key": "Red Viper",
     "original": "Red Viper",
     "translation": "红蝰蛇",
-    "stage": 1,
+    "stage": 5,
     "context": "'Red Viper'"
   },
   {
@@ -6068,7 +6068,7 @@
     "key": "Bernhard",
     "original": "Bernhard",
     "translation": "伯恩哈德",
-    "stage": 1,
+    "stage": 5,
     "context": "'Bernhard'"
   },
   {
@@ -6723,7 +6723,7 @@
     "ID": 293404618,
     "key": "The Hedge Knight",
     "original": "The Hedge Knight",
-    "translation": "雇佣骑士",
+    "translation": "流浪骑士",
     "stage": 5,
     "context": "'The Hedge Knight'"
   },
@@ -6860,7 +6860,7 @@
     "key": "the Crusher",
     "original": "the Crusher",
     "translation": "·粉碎者",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Crusher'"
   },
   {
@@ -6900,7 +6900,7 @@
     "key": "%randomname% the Apostate",
     "original": "%randomname% the Apostate",
     "translation": "叛教者%randomname%",
-    "stage": 1,
+    "stage": 5,
     "context": "'%randomname% the Apostate'"
   },
   {

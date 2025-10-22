@@ -259,8 +259,8 @@
     "ID": 293408330,
     "key": "{This isn't worth it. | We're needed elsewhere. | I won't risk the company against northern armies.}",
     "original": "{This isn't worth it. | We're needed elsewhere. | I won't risk the company against northern armies.}",
-    "translation": "{这不值得。 | 我们还有别的地方要去。 | 我不会冒险让战团对抗北方军队。}",
-    "stage": 1,
+    "translation": "{这事不划算。 | 我们还有别的地方要去。 | 我不会冒险让战团对抗北方军队。}",
+    "stage": 5,
     "context": "Text = \"{This isn't worth it. | We're needed elsewhere. | I won't risk the company against northern armies.}\""
   },
   {
@@ -299,7 +299,7 @@
     "ID": 293408335,
     "key": " Company",
     "original": " Company",
-    "translation": " 战团",
+    "translation": "战团",
     "stage": 1,
     "context": "f.spawnEntity(this.Contract.m.Destination.getTile(), candidates[this.Math.rand(0, candidates.len() - 1)].getNameOnly() + ' Company', True, this.Const.World.Spawn.Noble, this.Math.rand(100, 150) * this.Contract.getDifficultyMult() * this.Contract.getScaledDifficultyMult())"
   },
@@ -427,8 +427,8 @@
     "ID": 293408351,
     "key": "At %townname%",
     "original": "At %townname%",
-    "translation": "在%townname%",
-    "stage": 1,
+    "translation": "%townname%里",
+    "stage": 5,
     "context": "Title = 'At %townname%'"
   },
   {
@@ -571,8 +571,8 @@
     "ID": 293408369,
     "key": "At %holysite%",
     "original": "At %holysite%",
-    "translation": "在 %holysite%",
-    "stage": 1,
+    "translation": "%holysite%里",
+    "stage": 5,
     "context": "Title = 'At %holysite%'"
   }
 ]

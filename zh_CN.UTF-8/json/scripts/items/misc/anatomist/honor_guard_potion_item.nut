@@ -35,7 +35,7 @@
     "ID": 293418458,
     "key": "]50%[/color] less damage from piercing attacks, such as those from bows or spears",
     "original": "]50%[/color] less damage from piercing attacks, such as those from bows or spears",
-    "translation": "]50%[/color] 的伤害减免。",
+    "translation": "]50%[/color] 的穿刺伤害减免。",
     "stage": 1,
     "context": "text = 'Take between [color=' + this.Const.UI.Color.PositiveValue + ']25%[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] less damage from piercing attacks, such as those from bows or spears'"
   },

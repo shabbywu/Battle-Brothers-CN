@@ -4,7 +4,7 @@
     "key": "Abandoned Fortress",
     "original": "Abandoned Fortress",
     "translation": "废弃的要塞",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Abandoned Fortress'"
   },
   {

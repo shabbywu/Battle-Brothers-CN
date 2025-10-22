@@ -131,8 +131,8 @@
     "ID": 293422890,
     "key": "A band of menacing orcs, greenskinned and towering any man.",
     "original": "A band of menacing orcs, greenskinned and towering any man.",
-    "translation": "一群凶狠的兽人，绿皮肤，远高过所有人。",
-    "stage": 1,
+    "translation": "一群凶狠的兽人，绿皮肤、个头比任何人类都高。",
+    "stage": 5,
     "context": "party.setDescription('A band of menacing orcs, greenskinned and towering any man.')"
   },
   {

@@ -3,6 +3,7 @@
     "ID": 629143902,
     "key": "Roaming",
     "original": "Roaming",
-    "translation": ""
+    "translation": "游荡中",
+    "stage": 1
   }
 ]

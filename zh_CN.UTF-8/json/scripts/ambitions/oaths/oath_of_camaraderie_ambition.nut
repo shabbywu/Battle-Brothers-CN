@@ -3,7 +3,7 @@
     "ID": 293403605,
     "key": "Young Anselm believed that, on occasion, it was right to bring as many to a battle as one could muster, even if the great throngs did threaten the chain of command. Indeed, \"All men deserve to stand by their brothers.\"",
     "original": "Young Anselm believed that, on occasion, it was right to bring as many to a battle as one could muster, even if the great throngs did threaten the chain of command. Indeed, \"All men deserve to stand by their brothers.\"",
-    "translation": "小安瑟姆认为，有时，召集尽可能多的人参加战斗是正确的，即使大群人确实威胁到了指挥系统。 的确，“所有人都应该支持他们的兄弟”。",
+    "translation": "小安瑟姆认为，在特定情况下，即便会带来指挥上的问题，也应该将尽量多的人投入战斗。的确，“每个人都享有与兄弟并肩的权力”。",
     "stage": 1,
     "context": "this.m.TooltipText = 'Young Anselm believed that, on occasion, it was right to bring as many to a battle as one could muster, even if the great throngs did threaten the chain of command. Indeed, \"All men deserve to stand by their brothers.\"'"
   },
@@ -11,7 +11,7 @@
     "ID": 293403606,
     "key": "Your men always start battle randomly at Wavering or Breaking morale.",
     "original": "Your men always start battle randomly at Wavering or Breaking morale.",
-    "translation": "你的人总是随机以动摇或崩溃士气开始战斗。",
+    "translation": "战斗开始时，你的人总会随机处于动摇或崩溃士气。",
     "stage": 1,
     "context": "this.m.OathBurdenText = 'Your men always start battle randomly at Wavering or Breaking morale.'"
   },
@@ -19,7 +19,7 @@
     "ID": 293403607,
     "key": "{For Young Anselm! | As Oathtakers! | And death to the Oathbringers!}",
     "original": "{For Young Anselm! | As Oathtakers! | And death to the Oathbringers!}",
-    "translation": "{为了小安瑟姆！ | 宣誓者万岁！ | 誓约使者去死吧！}",
+    "translation": "{为了小安瑟姆！ | 执誓者万岁！ | 给渡誓者以死亡！}",
     "stage": 1,
     "context": "this.m.SuccessButtonText = '{For Young Anselm! | As Oathtakers! | And death to the Oathbringers!}'"
   },
@@ -27,7 +27,7 @@
     "ID": 293403608,
     "key": "[img]gfx/ui/events/event_180.png[/img]{Power in numbers, camaraderie in brotherhood. While fielding additional men encumbered your ability to command, over the course of every battle the %companyname% quickly realized that the chaos of combat could be ove",
     "original": "[img]gfx/ui/events/event_180.png[/img]{Power in numbers, camaraderie in brotherhood. While fielding additional men encumbered your ability to command, over the course of every battle the %companyname% quickly realized that the chaos of combat could be overcome by standing shoulder to shoulder with the man beside you, trusting him to do his job and him trusting that you do yours. The experience has hardened the company to the havocs of war.\n\nNow that the company knows it can confront its enemies by trusting its own members, it is ready to take on another Oath!}",
-    "translation": "[img]gfx/ui/events/event_180.png[/img]{力量在于人数，友情在于兄弟情谊。 虽然增派人手会阻碍你的指挥能力，但在每次战斗过程中，%companyname% 很快意识到，通过与你身边的人并肩作战，相信他能完成他的工作，他也相信你能完成你的工作，就能克服战斗的混乱。 这一经历使战团经受住了战争的浩劫。\n\n现在，战团知道可以通过信任自己的成员来对抗敌人，准备再次宣誓！}",
+    "translation": "[img]gfx/ui/events/event_180.png[/img]{人多力量大，同袍见真情。虽然增派人手会让指挥变得困难，但在一次次的战斗中，%companyname%很快意识到，只要与身旁的战友并肩作战，彼此信任、各司其职，就能克服战场上的混乱。这一经历让战团在战争中得到了淬炼。\n\n如今，这支队伍已经明白，只要彼此信任，就能直面敌人——它已准备好，立下另一道誓言！}",
     "stage": 1,
     "context": "this.m.SuccessText = '[img]gfx/ui/events/event_180.png[/img]{Power in numbers, camaraderie in brotherhood. While fielding additional men encumbered your ability to command, over the course of every battle the %companyname% quickly realized that the chaos of combat could be overcome by standing shoulder to shoulder with the man beside you, trusting him to do his job and him trusting that you do yours. The experience has hardened the company to the havocs of war.\n\nNow that the company knows it can confront its enemies by trusting its own members, it is ready to take on another Oath!}'"
   },
@@ -35,7 +35,7 @@
     "ID": 293403609,
     "key": "You can take up to [color=",
     "original": "You can take up to [color=",
-    "translation": "你至多能带[color=",
+    "translation": "你能将最多[color=",
     "stage": 1,
     "context": "this.m.OathBoonText = 'You can take up to [color=' + this.Const.UI.Color.PositiveValue + ']14[/color] men into battle.'"
   },
@@ -51,7 +51,7 @@
     "ID": 293403611,
     "key": "]14[/color] men into battle.",
     "original": "]14[/color] men into battle.",
-    "translation": "]14[/color]人加入战斗。",
+    "translation": "]14[/color]人带入战斗。",
     "stage": 1,
     "context": "this.m.OathBoonText = 'You can take up to [color=' + this.Const.UI.Color.PositiveValue + ']14[/color] men into battle.'"
   },
@@ -59,8 +59,8 @@
     "ID": 293403612,
     "key": "You gain extra Renown if your men become confident in battle enough times (",
     "original": "You gain extra Renown if your men become confident in battle enough times (",
-    "translation": "如果你的队员在战斗中达到自信的次数足够，你将获得额外的名望(",
-    "stage": 5,
+    "translation": "额外名望：队员在战斗中达到自信士气(",
+    "stage": 1,
     "context": "return 'You gain extra Renown if your men become confident in battle enough times (' + this.getBonusObjectiveProgress() + '/' + this.getBonusObjectiveGoal() + ').';"
   },
   {

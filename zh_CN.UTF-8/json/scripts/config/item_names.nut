@@ -620,7 +620,7 @@
     "key": "Dragontongue",
     "original": "Dragontongue",
     "translation": "龙舌",
-    "stage": 1,
+    "stage": 5,
     "context": "'Dragontongue'"
   },
   {
@@ -4059,7 +4059,7 @@
     "ID": 293405376,
     "key": "Phalanx",
     "original": "Phalanx",
-    "translation": "密集阵",
+    "translation": "方阵",
     "stage": 1,
     "context": "'Phalanx'"
   },
@@ -4068,7 +4068,7 @@
     "key": "Battlehammer",
     "original": "Battlehammer",
     "translation": "战锤",
-    "stage": 1,
+    "stage": 5,
     "context": "'Battlehammer'"
   },
   {
@@ -4100,7 +4100,7 @@
     "key": "Thunderrod",
     "original": "Thunderrod",
     "translation": "雷霆棒",
-    "stage": 1,
+    "stage": 5,
     "context": "'Thunderrod'"
   },
   {
@@ -4124,7 +4124,7 @@
     "key": "Half Moon",
     "original": "Half Moon",
     "translation": "残月",
-    "stage": 1,
+    "stage": 5,
     "context": "'Half Moon'"
   },
   {
@@ -4140,7 +4140,7 @@
     "key": "Longaxe",
     "original": "Longaxe",
     "translation": "长斧",
-    "stage": 1,
+    "stage": 5,
     "context": "'Longaxe'"
   },
   {
@@ -4148,7 +4148,7 @@
     "key": "Crusher",
     "original": "Crusher",
     "translation": "粉碎者",
-    "stage": 1,
+    "stage": 5,
     "context": "'Crusher'"
   },
   {
@@ -4220,7 +4220,7 @@
     "key": "Cruel",
     "original": "Cruel",
     "translation": "残忍的",
-    "stage": 1,
+    "stage": 5,
     "context": "'Cruel'"
   },
   {

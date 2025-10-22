@@ -11,7 +11,7 @@
     "ID": 293422668,
     "key": "Will not flee in battle",
     "original": "Will not flee in battle",
-    "translation": "不会逃离战斗",
+    "translation": "不会在战斗中溃逃",
     "stage": 5,
     "context": "text = 'Will not flee in battle'"
   },

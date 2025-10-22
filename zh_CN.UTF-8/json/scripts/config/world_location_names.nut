@@ -123,7 +123,7 @@
     "ID": 293406998,
     "key": "Retreat of the Wicked",
     "original": "Retreat of the Wicked",
-    "translation": "被诅咒者退避所",
+    "translation": "被诅咒者隐居地",
     "stage": 1,
     "context": "'Retreat of the Wicked'"
   },
@@ -131,7 +131,7 @@
     "ID": 293406999,
     "key": "Hideout of the Insane Master",
     "original": "Hideout of the Insane Master",
-    "translation": "疯狂大师的藏匿处",
+    "translation": "疯狂大师的藏身处",
     "stage": 1,
     "context": "'Hideout of the Insane Master'"
   },
@@ -187,7 +187,7 @@
     "ID": 293407006,
     "key": "Vile Man's Retreat",
     "original": "Vile Man's Retreat",
-    "translation": "卑鄙者退避所",
+    "translation": "卑鄙者隐居地",
     "stage": 1,
     "context": "\"Vile Man's Retreat\""
   },
@@ -467,8 +467,8 @@
     "ID": 293407041,
     "key": "Retreat of the Apostate",
     "original": "Retreat of the Apostate",
-    "translation": "叛教者退避所",
-    "stage": 1,
+    "translation": "叛教者隐修地",
+    "stage": 5,
     "context": "'Retreat of the Apostate'"
   },
   {
@@ -579,8 +579,8 @@
     "ID": 293407055,
     "key": "Child-Snatcher's Cave",
     "original": "Child-Snatcher's Cave",
-    "translation": "掠夺儿童者的洞穴",
-    "stage": 1,
+    "translation": "儿童掳掠者的洞穴",
+    "stage": 5,
     "context": "\"Child-Snatcher's Cave\""
   },
   {
@@ -619,24 +619,24 @@
     "ID": 293407060,
     "key": "Grubbzugat",
     "original": "Grubbzugat",
-    "translation": "古伯祖加特",
-    "stage": 1,
+    "translation": "格鲁布扎加特",
+    "stage": 5,
     "context": "'Grubbzugat'"
   },
   {
     "ID": 293407061,
     "key": "Necromancer's Refugium",
     "original": "Necromancer's Refugium",
-    "translation": "亡灵巫师避难所",
-    "stage": 1,
+    "translation": "死灵法师避难所",
+    "stage": 5,
     "context": "\"Necromancer's Refugium\""
   },
   {
     "ID": 293407062,
     "key": "Necromancer's Retreat",
     "original": "Necromancer's Retreat",
-    "translation": "亡灵巫师的退避所",
-    "stage": 1,
+    "translation": "死灵法师隐居地",
+    "stage": 5,
     "context": "\"Necromancer's Retreat\""
   },
   {
@@ -724,7 +724,7 @@
     "key": "Brotherhood of the Knife",
     "original": "Brotherhood of the Knife",
     "translation": "刀锋兄弟会",
-    "stage": 1,
+    "stage": 5,
     "context": "'Brotherhood of the Knife'"
   },
   {
@@ -779,8 +779,8 @@
     "ID": 293407080,
     "key": "Lair of the Outcast",
     "original": "Lair of the Outcast",
-    "translation": "被流放者窝点",
-    "stage": 1,
+    "translation": "流放者窝点",
+    "stage": 5,
     "context": "'Lair of the Outcast'"
   },
   {
@@ -899,8 +899,8 @@
     "ID": 293407095,
     "key": "Refuge of the Outcast",
     "original": "Refuge of the Outcast",
-    "translation": "被流放者藏匿处",
-    "stage": 1,
+    "translation": "流放者避难所",
+    "stage": 5,
     "context": "'Refuge of the Outcast'"
   },
   {
@@ -931,7 +931,7 @@
     "ID": 293407099,
     "key": "Retreat of the Harvester",
     "original": "Retreat of the Harvester",
-    "translation": "收割者退避所",
+    "translation": "收割者隐居地",
     "stage": 1,
     "context": "'Retreat of the Harvester'"
   },
@@ -972,7 +972,7 @@
     "key": "Nul Zadux",
     "original": "Nul Zadux",
     "translation": "努尔沙杜斯",
-    "stage": 1,
+    "stage": 5,
     "context": "'Nul Zadux'"
   },
   {
@@ -1051,7 +1051,7 @@
     "ID": 293407114,
     "key": "Viper's Den",
     "original": "Viper's Den",
-    "translation": "开膛手窝点",
+    "translation": "蝰蛇窝点",
     "stage": 1,
     "context": "\"Viper's Den\""
   },
@@ -1307,8 +1307,8 @@
     "ID": 293407146,
     "key": "Apostate's Secret Abode",
     "original": "Apostate's Secret Abode",
-    "translation": "叛教者居所",
-    "stage": 1,
+    "translation": "叛教者密居",
+    "stage": 5,
     "context": "\"Apostate's Secret Abode\""
   },
   {
@@ -1564,7 +1564,7 @@
     "key": "Tribal Warriors Camp",
     "original": "Tribal Warriors Camp",
     "translation": "部落勇士营地",
-    "stage": 1,
+    "stage": 5,
     "context": "'Tribal Warriors Camp'"
   },
   {
@@ -1612,7 +1612,7 @@
     "key": "Black Wolves Lair",
     "original": "Black Wolves Lair",
     "translation": "黑狼窝点",
-    "stage": 1,
+    "stage": 5,
     "context": "'Black Wolves Lair'"
   },
   {
@@ -1683,8 +1683,8 @@
     "ID": 293407193,
     "key": "Cavern of the Dead",
     "original": "Cavern of the Dead",
-    "translation": "死者洞穴",
-    "stage": 1,
+    "translation": "亡者洞窟",
+    "stage": 5,
     "context": "'Cavern of the Dead'"
   },
   {
@@ -1803,8 +1803,8 @@
     "ID": 293407208,
     "key": "Cave of Thousand Screams",
     "original": "Cave of Thousand Screams",
-    "translation": "尖嚎洞穴",
-    "stage": 1,
+    "translation": "千嚎洞穴",
+    "stage": 5,
     "context": "'Cave of Thousand Screams'"
   },
   {
@@ -1827,8 +1827,8 @@
     "ID": 293407211,
     "key": "Brigands' Lair",
     "original": "Brigands' Lair",
-    "translation": "强盗之巢",
-    "stage": 1,
+    "translation": "强盗窝点",
+    "stage": 5,
     "context": "\"Brigands' Lair\""
   },
   {
@@ -1867,7 +1867,7 @@
     "ID": 293407216,
     "key": "Lawless Hideout",
     "original": "Lawless Hideout",
-    "translation": "无法者藏身地",
+    "translation": "无法者藏身处",
     "stage": 1,
     "context": "'Lawless Hideout'"
   },
@@ -1972,7 +1972,7 @@
     "key": "Golden Sun Hideout",
     "original": "Golden Sun Hideout",
     "translation": "金日藏身处",
-    "stage": 1,
+    "stage": 5,
     "context": "'Golden Sun Hideout'"
   },
   {
@@ -2060,7 +2060,7 @@
     "key": "Long Daggers' Cave",
     "original": "Long Daggers' Cave",
     "translation": "长匕洞穴",
-    "stage": 1,
+    "stage": 5,
     "context": "\"Long Daggers' Cave\""
   },
   {
@@ -2187,8 +2187,8 @@
     "ID": 293407256,
     "key": "Crypt of Ogmar",
     "original": "Crypt of Ogmar",
-    "translation": "奥格玛之陵墓",
-    "stage": 1,
+    "translation": "奥格玛之陵",
+    "stage": 5,
     "context": "'Crypt of Ogmar'"
   },
   {
@@ -2211,8 +2211,8 @@
     "ID": 293407259,
     "key": "Necromancer's Lair",
     "original": "Necromancer's Lair",
-    "translation": "亡灵巫师巢穴",
-    "stage": 1,
+    "translation": "死灵法师窝点",
+    "stage": 5,
     "context": "\"Necromancer's Lair\""
   },
   {
@@ -2267,8 +2267,8 @@
     "ID": 293407266,
     "key": "Hideout of the Necromancer",
     "original": "Hideout of the Necromancer",
-    "translation": "亡灵巫师藏匿处",
-    "stage": 1,
+    "translation": "死灵法师藏身处",
+    "stage": 5,
     "context": "'Hideout of the Necromancer'"
   },
   {
@@ -2315,8 +2315,8 @@
     "ID": 293407272,
     "key": "Free People's Hideout",
     "original": "Free People's Hideout",
-    "translation": "自由人藏匿处",
-    "stage": 1,
+    "translation": "自由人藏身处",
+    "stage": 5,
     "context": "\"Free People's Hideout\""
   },
   {
@@ -2363,8 +2363,8 @@
     "ID": 293407278,
     "key": "Pointy Ear Hideout",
     "original": "Pointy Ear Hideout",
-    "translation": "尖耳藏匿处",
-    "stage": 1,
+    "translation": "尖耳藏身处",
+    "stage": 5,
     "context": "'Pointy Ear Hideout'"
   },
   {
@@ -2547,8 +2547,8 @@
     "ID": 293407301,
     "key": "Forbidden Graveyard",
     "original": "Forbidden Graveyard",
-    "translation": "被流放者墓地",
-    "stage": 1,
+    "translation": "禁忌坟场",
+    "stage": 5,
     "context": "'Forbidden Graveyard'"
   },
   {
@@ -2587,7 +2587,7 @@
     "ID": 293407306,
     "key": "Heretic's Hideout",
     "original": "Heretic's Hideout",
-    "translation": "异端藏匿处",
+    "translation": "异端藏身处",
     "stage": 1,
     "context": "\"Heretic's Hideout\""
   },
@@ -2603,8 +2603,8 @@
     "ID": 293407308,
     "key": "Bonebreaker's Cavern",
     "original": "Bonebreaker's Cavern",
-    "translation": "碎骨者洞穴",
-    "stage": 1,
+    "translation": "碎骨者洞窟",
+    "stage": 5,
     "context": "\"Bonebreaker's Cavern\""
   },
   {
@@ -2755,7 +2755,7 @@
     "ID": 293407327,
     "key": "Cavern of the Green Death",
     "original": "Cavern of the Green Death",
-    "translation": "绿色死神洞穴",
+    "translation": "绿色死神洞窟",
     "stage": 5,
     "context": "'Cavern of the Green Death'"
   },
@@ -2795,7 +2795,7 @@
     "ID": 293407332,
     "key": "Hideout of the Death-Defyer",
     "original": "Hideout of the Death-Defyer",
-    "translation": "逆转死亡者藏匿处",
+    "translation": "逆转死亡者藏身处",
     "stage": 1,
     "context": "'Hideout of the Death-Defyer'"
   },
@@ -2844,7 +2844,7 @@
     "key": "Orc infested Cave",
     "original": "Orc infested Cave",
     "translation": "兽人占据的洞穴",
-    "stage": 1,
+    "stage": 5,
     "context": "'Orc infested Cave'"
   },
   {
@@ -3028,7 +3028,7 @@
     "key": "Nul Sharax",
     "original": "Nul Sharax",
     "translation": "努尔沙拉斯",
-    "stage": 1,
+    "stage": 5,
     "context": "'Nul Sharax'"
   },
   {
@@ -3259,7 +3259,7 @@
     "ID": 293407390,
     "key": "Ambushers' Hideout",
     "original": "Ambushers' Hideout",
-    "translation": "伏击兵藏匿处",
+    "translation": "伏击兵藏身处",
     "stage": 1,
     "context": "\"Ambushers' Hideout\""
   },
@@ -3316,7 +3316,7 @@
     "key": "Sharp Teeth Lair",
     "original": "Sharp Teeth Lair",
     "translation": "尖牙窝点",
-    "stage": 1,
+    "stage": 5,
     "context": "'Sharp Teeth Lair'"
   },
   {
@@ -3340,7 +3340,7 @@
     "key": "White Sands Camp",
     "original": "White Sands Camp",
     "translation": "白沙营地",
-    "stage": 1,
+    "stage": 5,
     "context": "'White Sands Camp'"
   },
   {
@@ -3396,7 +3396,7 @@
     "key": "Zatak Nul",
     "original": "Zatak Nul",
     "translation": "赞塔克努尔",
-    "stage": 1,
+    "stage": 5,
     "context": "'Zatak Nul'"
   },
   {
@@ -3427,8 +3427,8 @@
     "ID": 293407411,
     "key": "Black Boar Lair",
     "original": "Black Boar Lair",
-    "translation": "黑色野猪窝点",
-    "stage": 1,
+    "translation": "黑猪窝点",
+    "stage": 5,
     "context": "'Black Boar Lair'"
   },
   {
@@ -3636,7 +3636,7 @@
     "key": "Shifting Sands Hideout",
     "original": "Shifting Sands Hideout",
     "translation": "流沙藏身处",
-    "stage": 1,
+    "stage": 5,
     "context": "'Shifting Sands Hideout'"
   },
   {
@@ -3683,8 +3683,8 @@
     "ID": 293407443,
     "key": "Robbers' Lair",
     "original": "Robbers' Lair",
-    "translation": "强盗之巢",
-    "stage": 1,
+    "translation": "强盗窝点",
+    "stage": 5,
     "context": "\"Robbers' Lair\""
   },
   {
@@ -3748,7 +3748,7 @@
     "key": "Stinking Cave",
     "original": "Stinking Cave",
     "translation": "恶臭洞穴",
-    "stage": 1,
+    "stage": 5,
     "context": "'Stinking Cave'"
   },
   {
@@ -3851,8 +3851,8 @@
     "ID": 293407464,
     "key": "Grotto of the Wild Men",
     "original": "Grotto of the Wild Men",
-    "translation": "野人洞穴",
-    "stage": 1,
+    "translation": "野人洞",
+    "stage": 5,
     "context": "'Grotto of the Wild Men'"
   },
   {
@@ -3915,8 +3915,8 @@
     "ID": 293407472,
     "key": "Grunter's Grotto",
     "original": "Grunter's Grotto",
-    "translation": "格朗特洞穴",
-    "stage": 1,
+    "translation": "咕噜洞",
+    "stage": 5,
     "context": "\"Grunter's Grotto\""
   },
   {
@@ -4163,8 +4163,8 @@
     "ID": 293407503,
     "key": "Cavern of Lost Screams",
     "original": "Cavern of Lost Screams",
-    "translation": "哀嚎洞穴",
-    "stage": 1,
+    "translation": "哀嚎洞窟",
+    "stage": 5,
     "context": "'Cavern of Lost Screams'"
   },
   {
@@ -4307,8 +4307,8 @@
     "ID": 293407521,
     "key": "Tomb of the Old Kings",
     "original": "Tomb of the Old Kings",
-    "translation": "老国王之墓",
-    "stage": 1,
+    "translation": "古王之墓",
+    "stage": 5,
     "context": "'Tomb of the Old Kings'"
   },
   {
@@ -4411,7 +4411,7 @@
     "ID": 293407534,
     "key": "Necromancer's Hidden Chambers",
     "original": "Necromancer's Hidden Chambers",
-    "translation": "亡灵巫师的隐藏集会所",
+    "translation": "死灵法师的隐藏集会所",
     "stage": 1,
     "context": "\"Necromancer's Hidden Chambers\""
   },
@@ -4491,7 +4491,7 @@
     "ID": 293407544,
     "key": "Retreat of the Puppet Master",
     "original": "Retreat of the Puppet Master",
-    "translation": "木偶大师退避所",
+    "translation": "木偶大师隐居地",
     "stage": 1,
     "context": "'Retreat of the Puppet Master'"
   },
@@ -4627,8 +4627,8 @@
     "ID": 293407561,
     "key": "Clansmen's Retreat",
     "original": "Clansmen's Retreat",
-    "translation": "宗族退避所",
-    "stage": 1,
+    "translation": "宗族隐居地",
+    "stage": 5,
     "context": "\"Clansmen's Retreat\""
   },
   {
@@ -4643,7 +4643,7 @@
     "ID": 293407563,
     "key": "Flesheater's Cavern",
     "original": "Flesheater's Cavern",
-    "translation": "食肉者之洞",
+    "translation": "食肉者洞窟",
     "stage": 5,
     "context": "\"Flesheater's Cavern\""
   },
@@ -4715,8 +4715,8 @@
     "ID": 293407572,
     "key": "Uncharted Cave",
     "original": "Uncharted Cave",
-    "translation": "无人涉足的洞穴",
-    "stage": 1,
+    "translation": "人迹罕至的洞穴",
+    "stage": 5,
     "context": "'Uncharted Cave'"
   },
   {
@@ -4739,7 +4739,7 @@
     "ID": 293407575,
     "key": "Headchopper's Grotto",
     "original": "Headchopper's Grotto",
-    "translation": "砍头者洞穴",
+    "translation": "砍头者之洞",
     "stage": 5,
     "context": "\"Headchopper's Grotto\""
   },
@@ -4836,15 +4836,15 @@
     "key": "Foul Cave",
     "original": "Foul Cave",
     "translation": "污秽洞穴",
-    "stage": 1,
+    "stage": 5,
     "context": "'Foul Cave'"
   },
   {
     "ID": 293407588,
     "key": "Cavern of the Boar",
     "original": "Cavern of the Boar",
-    "translation": "野猪洞穴",
-    "stage": 1,
+    "translation": "野猪洞窟",
+    "stage": 5,
     "context": "'Cavern of the Boar'"
   },
   {
@@ -4924,7 +4924,7 @@
     "key": "Fallen Keep",
     "original": "Fallen Keep",
     "translation": "沦陷的要塞",
-    "stage": 1,
+    "stage": 5,
     "context": "'Fallen Keep'"
   },
   {
@@ -4987,16 +4987,16 @@
     "ID": 293407606,
     "key": "Cave of the Dead",
     "original": "Cave of the Dead",
-    "translation": "亡者洞窟",
-    "stage": 1,
+    "translation": "亡者洞穴",
+    "stage": 5,
     "context": "'Cave of the Dead'"
   },
   {
     "ID": 293407607,
     "key": "Skullsmasher's Grotto",
     "original": "Skullsmasher's Grotto",
-    "translation": "颅骨碎裂者洞穴",
-    "stage": 1,
+    "translation": "碎颅者之洞",
+    "stage": 5,
     "context": "\"Skullsmasher's Grotto\""
   },
   {
@@ -5131,7 +5131,7 @@
     "ID": 293407624,
     "key": "Dark Charmer's Retreat",
     "original": "Dark Charmer's Retreat",
-    "translation": "黑魔法师退避所",
+    "translation": "黑魔法师隐居地",
     "stage": 1,
     "context": "\"Dark Charmer's Retreat\""
   },
@@ -5203,7 +5203,7 @@
     "ID": 293407633,
     "key": "Poacher's Retreat",
     "original": "Poacher's Retreat",
-    "translation": "偷猎者退避所",
+    "translation": "偷猎者隐居地",
     "stage": 1,
     "context": "\"Poacher's Retreat\""
   },
@@ -5316,7 +5316,7 @@
     "key": "Torturer's Cave",
     "original": "Torturer's Cave",
     "translation": "拷问者洞穴",
-    "stage": 1,
+    "stage": 5,
     "context": "\"Torturer's Cave\""
   },
   {
@@ -5619,7 +5619,7 @@
     "ID": 293407685,
     "key": "Ashen Head Hideout",
     "original": "Ashen Head Hideout",
-    "translation": "灰烬之颅藏身地",
+    "translation": "灰烬之颅藏身处",
     "stage": 1,
     "context": "'Ashen Head Hideout'"
   },
@@ -5740,7 +5740,7 @@
     "key": "Hellhole Crypt",
     "original": "Hellhole Crypt",
     "translation": "地狱之门陵墓",
-    "stage": 1,
+    "stage": 5,
     "context": "'Hellhole Crypt'"
   },
   {
@@ -5763,8 +5763,8 @@
     "ID": 293407703,
     "key": "Turned over Stones",
     "original": "Turned over Stones",
-    "translation": "翻倒的巨石",
-    "stage": 1,
+    "translation": "坍塌巨石",
+    "stage": 5,
     "context": "'Turned over Stones'"
   },
   {
@@ -5835,8 +5835,8 @@
     "ID": 293407712,
     "key": "Bandits Lair",
     "original": "Bandits Lair",
-    "translation": "土匪巢穴",
-    "stage": 1,
+    "translation": "土匪窝点",
+    "stage": 5,
     "context": "'Bandits Lair'"
   },
   {
@@ -5899,7 +5899,7 @@
     "ID": 293407720,
     "key": "Poison Brewer's Hideout",
     "original": "Poison Brewer's Hideout",
-    "translation": "酿毒者藏匿处",
+    "translation": "酿毒者藏身处",
     "stage": 1,
     "context": "\"Poison Brewer's Hideout\""
   },
@@ -5940,7 +5940,7 @@
     "key": "Mogtul Garash",
     "original": "Mogtul Garash",
     "translation": "莫塔尔盖拉什",
-    "stage": 1,
+    "stage": 5,
     "context": "'Mogtul Garash'"
   },
   {
@@ -6110,8 +6110,8 @@
     "ID": 629317915,
     "key": "1628674a5e96e8137c4a03b20e9e4581730559cfcc7ae4316da740b76d2f9424",
     "original": "Turned-Over Stones",
-    "translation": "翻底石",
-    "stage": 1
+    "translation": "坍塌巨石",
+    "stage": 5
   },
   {
     "ID": 629317916,

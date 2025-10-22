@@ -11,7 +11,7 @@
     "ID": 293420721,
     "key": "Direwolf Bite",
     "original": "Direwolf Bite",
-    "translation": "恶狼咬击",
+    "translation": "恐狼咬击",
     "stage": 5,
     "context": "this.m.Name = 'Direwolf Bite'"
   }

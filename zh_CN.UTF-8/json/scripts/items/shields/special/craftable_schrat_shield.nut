@@ -19,7 +19,7 @@
     "ID": 293418824,
     "key": "Living Tree Shield",
     "original": "Living Tree Shield",
-    "translation": "树精之盾",
+    "translation": "树人之盾",
     "stage": 1,
     "context": "this.m.Name = 'Living Tree Shield'"
   },

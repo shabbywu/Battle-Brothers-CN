@@ -19,8 +19,8 @@
     "ID": 293418142,
     "key": "This southern style helmet is not only richly decorated, but also well balanced and made from materials of the highest quality.",
     "original": "This southern style helmet is not only richly decorated, but also well balanced and made from materials of the highest quality.",
-    "translation": "这顶南方风头盔可不只是看着气派，其重量分布合理，所用材料也是一流。",
-    "stage": 1,
+    "translation": "这顶南方风格头盔可不只是看着气派，其重量分布合理，所用材料也是一流。",
+    "stage": 5,
     "context": "this.m.Description = 'This southern style helmet is not only richly decorated, but also well balanced and made from materials of the highest quality.'"
   },
   {
