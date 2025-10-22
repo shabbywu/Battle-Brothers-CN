@@ -1,6 +1,6 @@
 Battle Brothers(战场兄弟)中文翻译项目
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -15,9 +15,15 @@ Battle Brothers(战场兄弟)中文翻译项目
       <td align="center" valign="top" width="14.28%"><a href="https://blog.shabbywu.cn/"><img src="https://avatars.githubusercontent.com/u/5237578?v=4?s=100" width="100px;" alt="shabbywu"/><br /><sub><b>shabbywu</b></sub></a><br /><a href="#" title="程序开发">💻</a> <a href="https://paratranz.cn/projects/7032" title="翻译">📚</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Rayforward"><img src="https://raw.githubusercontent.com/shabbywu/Battle-Brothers-CN/main/.github/avatas/Rayforward.webp?s=100" width="100px;" alt="Rayforward"/><br /><sub><b>Rayforward</b></sub></a><br /><a href="https://paratranz.cn/projects/7032" title="翻译">📚</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/FaelGnahz"><img src="https://avatars.githubusercontent.com/u/152762848?v=4?s=100" width="100px;" alt="FaelGnahz"/><br /><sub><b>FaelGnahz</b></sub></a><br /><a href="https://paratranz.cn/projects/7032" title="翻译">📚</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/poplar47"><img src="https://raw.githubusercontent.com/shabbywu/Battle-Brothers-CN/main/.github/avatas/poplar47.webp?s=100" width="100px;" alt="poplar47"/><br /><sub><b>poplar47</b></sub></a><br /><a href="https://paratranz.cn/projects/7032" title="翻译">📚</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/DarkSjm"><img src="https://avatars.githubusercontent.com/u/132847706?v=4?s=100" width="100px;" alt="DarkSjm"/><br /><sub><b>DarkSjm</b></sub></a><br /><a href="https://paratranz.cn/projects/7032" title="翻译">📚</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/YuanzhenW"><img src="https://raw.githubusercontent.com/shabbywu/Battle-Brothers-CN/main/.github/avatas/YuanzhenW.jpg?s=100" width="100px;" alt="Yuanzhen Wu"/><br /><sub><b>Yuanzhen Wu</b></sub></a><br /><a href="https://paratranz.cn/projects/7032" title="翻译">📚</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/zzj680124"><img src="https://avatars.githubusercontent.com/u/22744064?v=4?s=100" width="100px;" alt="0v0"/><br /><sub><b>0v0</b></sub></a><br /><a href="https://paratranz.cn/projects/7032" title="翻译">📚</a></td>
+    </tr>
+    <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/BarbChosen"><img src="https://raw.githubusercontent.com/shabbywu/Battle-Brothers-CN/main/.github/avatas/BarbChosen.webp?s=100" width="100px;" alt="野蛮人神选者"/><br /><sub><b>野蛮人神选者</b></sub></a><br /><a href="https://paratranz.cn/projects/7032" title="翻译">📚</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/1246291292"><img src="https://avatars.githubusercontent.com/u/101517600?v=4?s=100" width="100px;" alt="1246291292"/><br /><sub><b>1246291292</b></sub></a><br /><a href="https://paratranz.cn/projects/7032" title="翻译">📚</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/onesingleman"><img src="https://avatars.githubusercontent.com/u/99507116?v=4?s=100" width="100px;" alt="onesingleman"/><br /><sub><b>onesingleman</b></sub></a><br /><a href="https://paratranz.cn/projects/7032" title="翻译">📚</a></td>
     </tr>
   </tbody>
   <tfoot>
