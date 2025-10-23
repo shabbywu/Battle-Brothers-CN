@@ -3129,9 +3129,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:50.013Z",
         "updatedAt": "2023-06-26T05:46:38.606Z",
-        "modifiedAt": "2025-10-22T15:45:34Z",
+        "modifiedAt": "2025-10-23T00:33:39Z",
         "hash": "9abd182c07a6ee3aedc8b4d3e7ddced4",
-        "sha256": "f7ada22d85580f93b23f0398c4e6d9b32824b9119cdbbe3cee159d8310f488a8"
+        "sha256": "073ad479a22c17f5b3b9ed1bf69336201b0b0097fc7c4a9da83c299ac85e69f0"
     },
     "scripts/contracts/contracts/confront_warlord_contract.json": {
         "id": 918432,
@@ -3357,9 +3357,9 @@
         "locked": 1,
         "createdAt": "2023-05-13T14:17:56.58Z",
         "updatedAt": "2023-06-26T05:46:42.844Z",
-        "modifiedAt": "2025-10-16T14:26:35Z",
+        "modifiedAt": "2025-10-22T23:09:11Z",
         "hash": "a98c25cbe5021d02bb3cbf30b74b4768",
-        "sha256": "0e1aaf7ce6223f797e5318abd87e237f74f65f12753d9ad03b2c6825851b64c3"
+        "sha256": "90f7763c9817f4568b5b50a1d42dfeb9ec891688616510d001aa9e773baef452"
     },
     "scripts/contracts/contracts/drive_away_bandits_contract.json": {
         "id": 918444,
@@ -3484,15 +3484,15 @@
         "total": 42,
         "translated": 42,
         "disputed": 0,
-        "checked": 11,
-        "reviewed": 11,
+        "checked": 26,
+        "reviewed": 26,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:59.489Z",
         "updatedAt": "2023-06-26T05:46:45.409Z",
-        "modifiedAt": "2025-10-14T07:02:48Z",
+        "modifiedAt": "2025-10-23T00:50:08Z",
         "hash": "b09366a5141f98cba4c776e6df2b6e14",
-        "sha256": "aa917e9015326d8e26b3f5756b20740094ed32a6849ecf9131ac54c96592d895"
+        "sha256": "d1c104585d09a7ac9edffc232d66d72f8c5315e0d7bc0e3a58b8c754ad9196bd"
     },
     "scripts/contracts/contracts/hold_chokepoint_contract.json": {
         "id": 918451,
