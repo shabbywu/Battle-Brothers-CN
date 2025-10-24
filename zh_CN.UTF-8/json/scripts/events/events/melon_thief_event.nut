@@ -107,7 +107,7 @@
     "ID": 293416317,
     "key": "Very well. Welcome to the %companyname%!",
     "original": "Very well. Welcome to the %companyname%!",
-    "translation": "非常好。 欢迎加入 %companyname%！",
+    "translation": "非常好。欢迎加入%companyname%！",
     "stage": 1,
     "context": "Text = 'Very well. Welcome to the %companyname%!'"
   },

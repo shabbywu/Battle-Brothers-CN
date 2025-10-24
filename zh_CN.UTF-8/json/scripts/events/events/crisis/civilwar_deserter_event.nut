@@ -51,7 +51,7 @@
     "ID": 293413084,
     "key": "Welcome to the %companyname%!",
     "original": "Welcome to the %companyname%!",
-    "translation": "欢迎加入 %companyname%！",
+    "translation": "欢迎加入%companyname%！",
     "stage": 1,
     "context": "Text = 'Welcome to the %companyname%!'"
   },

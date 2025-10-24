@@ -3160,16 +3160,16 @@
         "format": "json",
         "total": 48,
         "translated": 48,
-        "disputed": 0,
-        "checked": 15,
-        "reviewed": 15,
+        "disputed": 1,
+        "checked": 47,
+        "reviewed": 47,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:50.886Z",
         "updatedAt": "2023-06-26T05:46:39.056Z",
-        "modifiedAt": "2025-10-22T13:39:41Z",
+        "modifiedAt": "2025-10-23T14:56:00Z",
         "hash": "e11931498c88ff31b4e73dd0a21cf950",
-        "sha256": "0efcdba26cf1da0a1199aa6726343612b56165d02d513896e4eed413022fc331"
+        "sha256": "05a020fefa4fa01b915c04a930b9db807d30a5bd4dd17a8574a6e53d13ff0187"
     },
     "scripts/contracts/contracts/conquer_holy_site_southern_contract.json": {
         "id": 918434,
@@ -3179,16 +3179,16 @@
         "format": "json",
         "total": 48,
         "translated": 48,
-        "disputed": 0,
-        "checked": 7,
-        "reviewed": 7,
+        "disputed": 1,
+        "checked": 47,
+        "reviewed": 47,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:51.274Z",
         "updatedAt": "2023-06-26T05:46:39.218Z",
-        "modifiedAt": "2025-10-22T13:39:41Z",
+        "modifiedAt": "2025-10-23T15:04:29Z",
         "hash": "adcec35bde81305e7b9fe60544d0e953",
-        "sha256": "82bdab6d7f4abbfb5d68c2495f41f703b7e030aa92d68c4c5719014df041ff63"
+        "sha256": "ce8d47d6cf222c399d29b06e178a35dc51cfad81fcf823766cb56e73c87ddb7a"
     },
     "scripts/contracts/contracts/decisive_battle_contract.json": {
         "id": 918435,
@@ -3205,9 +3205,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:52.703Z",
         "updatedAt": "2023-07-05T12:35:53.163Z",
-        "modifiedAt": "2025-10-22T13:39:19Z",
+        "modifiedAt": "2025-10-23T13:14:57Z",
         "hash": "bfe643c21e327e0365051a04b7a8106d",
-        "sha256": "b785a24eb8cc5a847899994a2085705eae9ac9a2232470beedafc6c9b8a6cb04"
+        "sha256": "33721dbc72e8521f8b3da0d5ab203f1ab933090cdf225ec6f0802baa67162846"
     },
     "scripts/contracts/contracts/defend_holy_site_contract.json": {
         "id": 918436,
@@ -3218,15 +3218,15 @@
         "total": 71,
         "translated": 71,
         "disputed": 0,
-        "checked": 9,
-        "reviewed": 9,
+        "checked": 10,
+        "reviewed": 10,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:53.112Z",
         "updatedAt": "2023-06-26T05:46:39.951Z",
-        "modifiedAt": "2025-10-22T13:39:41Z",
+        "modifiedAt": "2025-10-23T13:14:58Z",
         "hash": "17af64cd12d88681f26fa464868eb3fe",
-        "sha256": "66b4ad589c2eb9525517095851b061cc7fbcff71ebc60ce0d2a66a0a66f39b82"
+        "sha256": "55a22e21b7c79dd44fdc0eabb6752c95df6400cec233589c10bed0890d743d47"
     },
     "scripts/contracts/contracts/defend_holy_site_southern_contract.json": {
         "id": 918437,
@@ -3237,15 +3237,15 @@
         "total": 72,
         "translated": 72,
         "disputed": 0,
-        "checked": 10,
-        "reviewed": 10,
+        "checked": 11,
+        "reviewed": 11,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:53.999Z",
         "updatedAt": "2023-06-26T05:46:40.14Z",
-        "modifiedAt": "2025-10-22T13:39:41Z",
+        "modifiedAt": "2025-10-23T13:14:59Z",
         "hash": "79b368f0c5cbea216bb69caa2d6a560c",
-        "sha256": "39eff771f6ad25dae4264034642273980f78c8f1b92c2e808283583657b1321c"
+        "sha256": "250aef834e168dfbe89bc97d7fe4ed08b658c95eda673583c25b9ec22875cce5"
     },
     "scripts/contracts/contracts/defend_settlement_bandits_contract.json": {
         "id": 918438,
@@ -3484,15 +3484,15 @@
         "total": 42,
         "translated": 42,
         "disputed": 0,
-        "checked": 26,
-        "reviewed": 26,
+        "checked": 42,
+        "reviewed": 42,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:59.489Z",
         "updatedAt": "2023-06-26T05:46:45.409Z",
-        "modifiedAt": "2025-10-23T00:50:08Z",
+        "modifiedAt": "2025-10-23T11:50:44Z",
         "hash": "b09366a5141f98cba4c776e6df2b6e14",
-        "sha256": "d1c104585d09a7ac9edffc232d66d72f8c5315e0d7bc0e3a58b8c754ad9196bd"
+        "sha256": "b19f95fd9b0941f096ff91965f96787773bbce1b21825c28b4e6e196a1dfebeb"
     },
     "scripts/contracts/contracts/hold_chokepoint_contract.json": {
         "id": 918451,
@@ -3509,9 +3509,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:59.932Z",
         "updatedAt": "2023-06-26T05:46:45.859Z",
-        "modifiedAt": "2025-10-22T13:40:03Z",
+        "modifiedAt": "2025-10-23T13:15:00Z",
         "hash": "38d522d7eb591a550cd3bdf23848c9a2",
-        "sha256": "5147e011feffb2eb2e68f2ccc8ad1c5f5db5349c82d770130a683a870c73cdf8"
+        "sha256": "8c8cc82182eda5c1da61874f4f987178b41b713dcdb5b4da955c54977656d0e4"
     },
     "scripts/contracts/contracts/hunting_alps_contract.json": {
         "id": 918452,
@@ -3680,9 +3680,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:03.44Z",
         "updatedAt": "2023-06-26T05:46:47.942Z",
-        "modifiedAt": "2025-10-16T14:26:37Z",
+        "modifiedAt": "2025-10-23T13:15:01Z",
         "hash": "77b073c6744b88384116b3944702010f",
-        "sha256": "a5d93cdc4309aefa5d8ac975cd2fdd315c37a47ed7ccb7da4e9cf8297ca5a44f"
+        "sha256": "da44818c2e268d523fb9d784e7e5f7456aea23097549312fcb75e66eac95cd0f"
     },
     "scripts/contracts/contracts/investigate_cemetery_contract.json": {
         "id": 918461,
@@ -3794,9 +3794,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:07.921Z",
         "updatedAt": "2023-06-26T05:46:49.989Z",
-        "modifiedAt": "2025-10-22T13:39:27Z",
+        "modifiedAt": "2025-10-23T13:15:02Z",
         "hash": "10cdeb42093cf748c9d9d6e85bbbbd72",
-        "sha256": "197242e2ce90a5ab7748c3a3d2eab2e0352b5abd120a0fa18a4c5acc2ac6bb24"
+        "sha256": "025f8b0dcc3da439ca2dd7e3146884793576f894d3c80af64e63b2e148dce9b6"
     },
     "scripts/contracts/contracts/raid_caravan_contract.json": {
         "id": 918467,
@@ -3946,9 +3946,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:11.523Z",
         "updatedAt": "2023-06-26T05:46:52.95Z",
-        "modifiedAt": "2025-10-22T02:40:40Z",
+        "modifiedAt": "2025-10-23T13:15:05Z",
         "hash": "032010b07d932bd63557565da39301dd",
-        "sha256": "7aa28f350164c7844a79c7279767d16c3ef6612888177803d5365fba6ec9b809"
+        "sha256": "4cbc67f89088768a9d5651f8eb9272dc99a087b7e8f18c3dde367aecdd7c150d"
     },
     "scripts/contracts/contracts/slave_uprising_contract.json": {
         "id": 918475,
@@ -10900,9 +10900,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:33.061Z",
         "updatedAt": "2023-06-26T05:47:34.661Z",
-        "modifiedAt": "2024-05-12T11:22:57Z",
+        "modifiedAt": "2025-10-23T02:06:29Z",
         "hash": "8068e13c96b50b66e856a25c16b20d4a",
-        "sha256": "0a31a353fcd4b3e6bebe17037e160aadff460ea81fe33c4faf155a507a4faaf7"
+        "sha256": "ed0f8d9dbd31b3726c3269aeccd860fc9ede476332f62da1859e8055e77669c3"
     },
     "scripts/events/events/crisis/civilwar_flavor_event.json": {
         "id": 918833,
@@ -13009,9 +13009,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:16.141Z",
         "updatedAt": "2023-06-26T05:47:45.87Z",
-        "modifiedAt": "2024-07-07T12:32:20Z",
+        "modifiedAt": "2025-10-23T02:06:29Z",
         "hash": "b4a607ec06d2fb2f34cc1a8f6cfb2e62",
-        "sha256": "cf44a0e4afaa23f509e298ba5d02d95da1c871589728e402c3ba0558620a44c0"
+        "sha256": "1f36598e9c4e5c4f67b8107ed770f4c01177c2ba727a503e4ef34470acc305e0"
     },
     "scripts/events/events/dlc4/drunk_nobleman_event.json": {
         "id": 918944,
@@ -16277,9 +16277,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:26.565Z",
         "updatedAt": "2023-06-26T05:48:09.374Z",
-        "modifiedAt": "2025-10-16T14:26:46Z",
+        "modifiedAt": "2025-10-23T02:06:49Z",
         "hash": "a6572f0f042792ecb765a5d7479bed09",
-        "sha256": "2fae369c2af65866d45e5af5813ae02270ca0e052852cc14fc23dc2eea914eec"
+        "sha256": "ffae691a4b7ec0598d4337728b0a93c48180ab9b28db3b85e94ec7b65658ad2c"
     },
     "scripts/events/events/messenger_vs_houndmaster_event.json": {
         "id": 919114,
@@ -17094,9 +17094,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:40.835Z",
         "updatedAt": "2023-07-05T12:36:08.42Z",
-        "modifiedAt": "2024-05-13T02:54:18Z",
+        "modifiedAt": "2025-10-23T02:06:29Z",
         "hash": "a522582d89bf95d1fd4389e1df7e70a1",
-        "sha256": "a3a0efc35d86761734993b9a63638db75c01e60d5a5f30a1806e5d6a838caf35"
+        "sha256": "b1b1d51b9eeb3f5e59bcdf1c957906c2e0fa5ebb4c25cbcbe20f027a66f384ec"
     },
     "scripts/events/events/running_around_event.json": {
         "id": 919152,
