@@ -13008,10 +13008,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:21:16.141Z",
-        "updatedAt": "2023-06-26T05:47:45.87Z",
-        "modifiedAt": "2025-10-23T02:06:29Z",
+        "updatedAt": "2025-10-24T20:07:07.679Z",
+        "modifiedAt": "2025-10-24T20:07:08Z",
         "hash": "b4a607ec06d2fb2f34cc1a8f6cfb2e62",
-        "sha256": "1f36598e9c4e5c4f67b8107ed770f4c01177c2ba727a503e4ef34470acc305e0"
+        "sha256": "f55e92d137a0b916101bffc33d116fcfd023cff23d5c22b284b6be6e9257bda4"
     },
     "scripts/events/events/dlc4/drunk_nobleman_event.json": {
         "id": 918944,
@@ -16181,10 +16181,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2025-03-25T16:08:10.111Z",
-        "updatedAt": "2025-03-25T16:08:10.111Z",
+        "updatedAt": "2025-10-24T20:07:08.393Z",
         "modifiedAt": "2025-07-04T07:00:06Z",
         "hash": "124e94a658a68eeae4963af2159f81a8",
-        "sha256": "8049dca1deed655e218f677823810da62b0273c68c1a1776d4df2a15218e070c"
+        "sha256": "87a03b0b5685395a8ec472dd1ab052b727980118c30754cd53fe7ebff428f5df"
     },
     "scripts/events/events/location/artifact_reliquary_enter_event.json": {
         "id": 1940654,
@@ -43427,10 +43427,10 @@
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:53.361Z",
-        "updatedAt": "2023-06-26T05:49:50.691Z",
+        "updatedAt": "2025-10-24T20:08:22.593Z",
         "modifiedAt": "2024-04-17T02:55:06Z",
         "hash": "61bc3be2a0062e0e15a55158c7049250",
-        "sha256": "a8643cbf0e4d2d6275e249aa94fbb1a689c03d6942a447b68e1008f71e32b871"
+        "sha256": "9e2358066827d3aa9c041c1186283392c0e36ad44576b2e18cf892fc2b264e24"
     },
     "scripts/skills/traits/oath_of_honor_trait.json": {
         "id": 920499,
