@@ -267,7 +267,7 @@
     "ID": 293409629,
     "key": "Took sides in the war",
     "original": "Took sides in the war",
-    "translation": "在战争选择了阵营",
+    "translation": "在战争中选择了阵营",
     "stage": 5,
     "context": "f.addPlayerRelation(-99.0, 'Took sides in the war')"
   },
