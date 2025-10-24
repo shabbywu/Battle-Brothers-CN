@@ -1123,7 +1123,7 @@
     "ID": 293405569,
     "key": "What.... WHAT!? I can't hear you! I was fighting those Gilder followers at the Oracle and something loud went up near my ear...",
     "original": "What.... WHAT!? I can't hear you! I was fighting those Gilder followers at the Oracle and something loud went up near my ear...",
-    "translation": "什……什么！？我听不见你说话！我在神谕之地和那些镀金者的追随者战斗，我耳边轰隆一声……",
+    "translation": "什……什么！？我听不见你说话！我在神谕所和那些镀金者的追随者战斗，我耳边轰隆一声……",
     "stage": 1,
     "context": "\"What.... WHAT!? I can't hear you! I was fighting those Gilder followers at the Oracle and something loud went up near my ear...\""
   },

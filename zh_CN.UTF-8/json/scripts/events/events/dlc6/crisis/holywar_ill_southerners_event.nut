@@ -51,7 +51,7 @@
     "ID": 293414557,
     "key": "[/color] Tools and Supplies.",
     "original": "[/color] Tools and Supplies.",
-    "translation": "[/color]点工具和补给",
+    "translation": "[/color]份工具和补给",
     "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + amount + '[/color] Tools and Supplies.'"
   },

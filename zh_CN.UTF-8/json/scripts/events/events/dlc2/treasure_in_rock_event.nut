@@ -147,7 +147,7 @@
     "ID": 293414089,
     "key": "[/color] Tools and Supplies.",
     "original": "[/color] Tools and Supplies.",
-    "translation": "[/color]点工具和补给",
+    "translation": "[/color]份工具和补给",
     "stage": 1,
     "context": "text = 'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']-' + amount + '[/color] Tools and Supplies.'"
   },

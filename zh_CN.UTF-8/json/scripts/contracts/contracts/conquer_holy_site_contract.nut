@@ -299,7 +299,7 @@
     "ID": 293408067,
     "key": "We can't take another fight. Retreat!",
     "original": "We can't take another fight. Retreat!",
-    "translation": "我们没办法再打一场了。撤退！",
+    "translation": "我们没法继续战斗了。撤退！",
     "stage": 5,
     "context": "Text = \"We can't take another fight. Retreat!\""
   },
