@@ -348,7 +348,7 @@
     "key": "Oh, right!",
     "original": "Oh, right!",
     "translation": "哦，对哦！",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = 'Oh, right!'"
   },
   {
@@ -467,7 +467,7 @@
     "ID": 293407825,
     "key": "%SPEECH_ON%Crownlings like you have ventured down from the north. Up there, they call them 'sellswords.' Hagh! What sort of attempt at poetry is that? Don't they know not every man even uses a sword? They ain't the brightest up there. That's why I like it",
     "original": "%SPEECH_ON%Crownlings like you have ventured down from the north. Up there, they call them 'sellswords.' Hagh! What sort of attempt at poetry is that? Don't they know not every man even uses a sword? They ain't the brightest up there. That's why I like it in the south. The sun is bright, and thus so are we.%SPEECH_OFF%",
-    "translation": "%SPEECH_ON%对面也是从北边跑来的逐币者。在北边，他们叫做“卖剑客”。呦！这又是什么破名字？他们又不是人人都用剑！北方佬的脑子可真不灵光。所以我才喜欢待在南边。这儿阳光明媚，所以我们脑子也灵光。%SPEECH_OFF%",
+    "translation": "%SPEECH_ON%对面也是从北边跑来的逐币者。在北边，他们叫做‘佣兵’。呦！这又是什么破名字？是佣人的意思吗？北方佬的脑子可真不灵光。所以我才喜欢待在南边。这儿阳光明媚，所以我们脑子也灵光。%SPEECH_OFF%",
     "stage": 5,
     "context": "this[2] += \"%SPEECH_ON%Crownlings like you have ventured down from the north. Up there, they call them 'sellswords.' Hagh! What sort of attempt at poetry is that? Don't they know not every man even uses a sword? They ain't the brightest up there. That's why I like it in the south. The sun is bright, and thus so are we.%SPEECH_OFF%\""
   },
@@ -540,7 +540,7 @@
     "key": "sha256:3916f238051e7e2ff31986d79497a33f32db0968f7c504ba091a5115bb97d2ac",
     "original": "But...",
     "translation": "可是……",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = 'But...'"
   }
 ]

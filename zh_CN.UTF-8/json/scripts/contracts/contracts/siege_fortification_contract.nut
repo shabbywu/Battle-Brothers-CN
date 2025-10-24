@@ -363,8 +363,8 @@
     "ID": 293409969,
     "key": "Took part in the siege of ",
     "original": "Took part in the siege of ",
-    "translation": "参加围攻",
-    "stage": 2,
+    "translation": "参与围攻",
+    "stage": 5,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationNobleContractSuccess, 'Took part in the siege of ' + this.Flags.get('ObjectiveName'))"
   },
   {
@@ -419,8 +419,8 @@
     "ID": 293409976,
     "key": "Failed in the siege of ",
     "original": "Failed in the siege of ",
-    "translation": "失败于围攻 ",
-    "stage": 2,
+    "translation": "未能成功攻下",
+    "stage": 5,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationNobleContractFail, 'Failed in the siege of ' + this.Flags.get('ObjectiveName'))"
   },
   {

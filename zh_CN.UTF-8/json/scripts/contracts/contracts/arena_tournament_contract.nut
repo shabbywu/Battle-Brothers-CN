@@ -196,7 +196,7 @@
     "key": "Oh, right!",
     "original": "Oh, right!",
     "translation": "哦，对哦！",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = 'Oh, right!'"
   },
   {

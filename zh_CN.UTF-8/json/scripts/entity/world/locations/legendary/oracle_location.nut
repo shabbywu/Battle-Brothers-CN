@@ -3,7 +3,7 @@
     "ID": 293410635,
     "key": "The Oracle",
     "original": "The Oracle",
-    "translation": "神谕之地",
+    "translation": "神谕所",
     "stage": 5,
     "context": "this.m.Name = 'The Oracle'"
   },

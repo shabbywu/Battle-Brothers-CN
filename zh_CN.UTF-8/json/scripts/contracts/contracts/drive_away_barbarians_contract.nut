@@ -27,7 +27,7 @@
     "ID": 293408671,
     "key": "Everyone, charge!",
     "original": "Everyone, charge!",
-    "translation": "所有人，冲锋！",
+    "translation": "全体都有，冲锋！",
     "stage": 5,
     "context": "Text = 'Everyone, charge!'"
   },

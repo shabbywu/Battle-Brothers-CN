@@ -403,7 +403,7 @@
     "ID": 293409027,
     "key": "Everyone, get ready!",
     "original": "Everyone, get ready!",
-    "translation": "所有人，准备好！",
+    "translation": "全体都有，备战！",
     "stage": 5,
     "context": "Text = 'Everyone, get ready!'"
   }
