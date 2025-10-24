@@ -134,5 +134,11 @@
     "translation": "在路上……",
     "stage": 5,
     "context": "this.m.Title = 'Along the road...'"
+  },
+  {
+    "key": "bd8b4ff2c4f6a293ecd8e8c1620ceb278116547e20957556f32869fb94abedfe",
+    "original": "Running from bounty hunters and executioners for some time, %name% bumped into your company on the road and promptly volunteered.",
+    "translation": "",
+    "context": "_event.m.Dude1.getBackground().m.RawDescription = \"Running from bounty hunters and executioners for some time, %name% bumped into your company on the road and promptly volunteered.\""
   }
 ]
