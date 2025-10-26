@@ -20,7 +20,7 @@
     "key": "I'm all ears.",
     "original": "I'm all ears.",
     "translation": "洗耳恭听。",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = \"I'm all ears.\""
   },
   {
@@ -76,7 +76,7 @@
     "key": "Let's talk, then.",
     "original": "Let's talk, then.",
     "translation": "那就谈谈吧。",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = \"Let's talk, then.\""
   },
   {
@@ -84,7 +84,7 @@
     "key": "Let's get to business.",
     "original": "Let's get to business.",
     "translation": "那就说正事吧。",
-    "stage": 1,
+    "stage": 5,
     "context": "Text = \"Let's get to business.\""
   },
   {
