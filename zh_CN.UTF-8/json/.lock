@@ -3997,15 +3997,15 @@
         "total": 12,
         "translated": 12,
         "disputed": 0,
-        "checked": 4,
-        "reviewed": 4,
+        "checked": 5,
+        "reviewed": 5,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:12.684Z",
         "updatedAt": "2025-03-25T17:06:31.876Z",
-        "modifiedAt": "2025-10-25T01:28:42Z",
+        "modifiedAt": "2025-10-28T13:16:12Z",
         "hash": "4b1948826e8d50f2c142bd3eaaf56fec",
-        "sha256": "c99368c574830142e549d86f05282f434b88dfc1801e6acad3f5037c3fbf9fd5"
+        "sha256": "8f0daa7fd1efd1910e2b0eea972a0676236a65f15f9cf6965982c70e7f883040"
     },
     "scripts/contracts/templates/negotiation_templates.json": {
         "id": 918478,
