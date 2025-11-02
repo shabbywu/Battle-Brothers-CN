@@ -4,7 +4,7 @@
     "key": "Objectives",
     "original": "Objectives",
     "translation": "目标",
-    "stage": 1,
+    "stage": 5,
     "context": "title = 'Objectives'"
   },
   {
