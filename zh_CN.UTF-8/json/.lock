@@ -3009,15 +3009,15 @@
         "total": 20,
         "translated": 20,
         "disputed": 0,
-        "checked": 12,
-        "reviewed": 12,
+        "checked": 13,
+        "reviewed": 13,
         "hidden": 0,
         "locked": 1,
         "createdAt": "2023-05-13T14:17:46.677Z",
         "updatedAt": "2023-06-26T05:46:37.263Z",
-        "modifiedAt": "2025-10-12T08:29:20Z",
+        "modifiedAt": "2025-11-02T00:31:32Z",
         "hash": "7f8e0d8a83a1c0b93b535c057a174fcc",
-        "sha256": "113d74f7d8a11890503a73e825ed1ca1b5e2f03e9598c190b99e725e0a70978d"
+        "sha256": "fe0de60eafece064d7e451176507f7b9427c7a475ab47005673477ed911a97e1"
     },
     "scripts/contracts/contract_manager.json": {
         "id": 918426,
@@ -4003,9 +4003,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:12.684Z",
         "updatedAt": "2025-03-25T17:06:31.876Z",
-        "modifiedAt": "2025-10-28T13:16:12Z",
+        "modifiedAt": "2025-11-02T00:31:03Z",
         "hash": "4b1948826e8d50f2c142bd3eaaf56fec",
-        "sha256": "8f0daa7fd1efd1910e2b0eea972a0676236a65f15f9cf6965982c70e7f883040"
+        "sha256": "6c030b16d5f6bf84d80a6497f2180bce608d49142be21afe108ce7a027e8ce18"
     },
     "scripts/contracts/templates/negotiation_templates.json": {
         "id": 918478,
