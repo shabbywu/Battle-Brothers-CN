@@ -1292,7 +1292,7 @@
     "key": "Ruins from an age long past.",
     "original": "Ruins from an age long past.",
     "translation": "远古废墟。",
-    "stage": 1,
+    "stage": 5,
     "context": "Ruin = 'Ruins from an age long past.'"
   },
   {

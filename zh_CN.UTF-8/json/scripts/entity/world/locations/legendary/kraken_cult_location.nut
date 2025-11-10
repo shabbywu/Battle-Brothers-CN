@@ -11,7 +11,7 @@
     "ID": 293410630,
     "key": "Stone circles and pillars with strange markings hint at something eerie looming in the area.",
     "original": "Stone circles and pillars with strange markings hint at something eerie looming in the area.",
-    "translation": "带有奇怪标记的石圈和石柱暗示着该地区有一些怪异的东西正在出没。",
+    "translation": "带有奇怪标记的石圈和石柱，暗示着此地潜藏着某种诡异事物。",
     "stage": 5,
     "context": "return 'Stone circles and pillars with strange markings hint at something eerie looming in the area.';"
   }

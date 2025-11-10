@@ -51,7 +51,7 @@
     "ID": 293412522,
     "key": "Damn, he really would have fit in.",
     "original": "Damn, he really would have fit in.",
-    "translation": "该死，他的适应力真强。",
+    "translation": "该死，他本该能合得来的。",
     "stage": 5,
     "context": "Text = 'Damn, he really would have fit in.'"
   },

@@ -11,7 +11,7 @@
     "ID": 293410632,
     "key": "Atop some trees sits a large wooden structure. As strange as it seems, it looks a lot like a ship.",
     "original": "Atop some trees sits a large wooden structure. As strange as it seems, it looks a lot like a ship.",
-    "translation": "在一些树的顶上有一个很大的木结构。虽然看起来很奇怪，但它看起来很像一艘船。",
+    "translation": "几棵树的顶端架着一座大型木结构。尽管很奇怪，它的确酷似一艘船。",
     "stage": 5,
     "context": "return 'Atop some trees sits a large wooden structure. As strange as it seems, it looks a lot like a ship.';"
   }
