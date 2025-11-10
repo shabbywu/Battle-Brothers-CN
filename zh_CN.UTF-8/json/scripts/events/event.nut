@@ -12,7 +12,7 @@
     "key": "Screen '",
     "original": "Screen '",
     "translation": "Screen '",
-    "stage": 5,
+    "stage": 9,
     "context": "this.logError(\"Screen '\" + _id + \"' not found for event '\" + this.m.ID + \"'.\")"
   },
   {
@@ -28,7 +28,7 @@
     "key": "\n\n[color=#bcad8c]\"",
     "original": "\n\n[color=#bcad8c]\"",
     "translation": "\n\n[color=#bcad8c]\"",
-    "stage": 1,
+    "stage": 9,
     "context": "'\n\n[color=#bcad8c]\"'"
   },
   {
@@ -44,7 +44,7 @@
     "key": "' not found for event '",
     "original": "' not found for event '",
     "translation": "' not found for event '",
-    "stage": 5,
+    "stage": 9,
     "context": "this.logError(\"Screen '\" + _id + \"' not found for event '\" + this.m.ID + \"'.\")"
   }
 ]

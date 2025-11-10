@@ -4,7 +4,7 @@
     "key": "A bronze statue from an age long past.",
     "original": "A bronze statue from an age long past.",
     "translation": "一座远古铜像。",
-    "stage": 1,
+    "stage": 5,
     "context": "return 'A bronze statue from an age long past.';"
   },
   {

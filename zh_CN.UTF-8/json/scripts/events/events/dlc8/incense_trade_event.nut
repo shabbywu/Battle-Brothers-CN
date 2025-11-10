@@ -27,7 +27,7 @@
     "ID": 293415412,
     "key": "You gain [color=",
     "original": "You gain [color=",
-    "translation": "你获得了 [color=",
+    "translation": "你获得了[color=",
     "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + crowns + '[/color] Crowns'"
   },
