@@ -4,7 +4,7 @@
     "key": "Cancel",
     "original": "Cancel",
     "translation": "取消",
-    "stage": 1,
+    "stage": 5,
     "context": "'Cancel'"
   }
 ]

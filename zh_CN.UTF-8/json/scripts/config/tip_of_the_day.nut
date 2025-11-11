@@ -235,8 +235,8 @@
     "ID": 293406886,
     "key": "Stunned characters get no attack of opportunity when someone moves inside their zone of control.",
     "original": "Stunned characters get no attack of opportunity when someone moves inside their zone of control.",
-    "translation": "昏迷的角色不会借机攻击在其控制区域移动的目标。",
-    "stage": 1,
+    "translation": "昏迷的角色不会借机攻击在其控制区内移动的目标。",
+    "stage": 5,
     "context": "'Stunned characters get no attack of opportunity when someone moves inside their zone of control.'"
   },
   {

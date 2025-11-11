@@ -4,7 +4,7 @@
     "key": "A higher ranged defense reduces the probability of being hit with a ranged attack, such as an arrow shot from afar. It can be increased as the character gains experience and by equipping a good shield.",
     "original": "A higher ranged defense reduces the probability of being hit with a ranged attack, such as an arrow shot from afar. It can be increased as the character gains experience and by equipping a good shield.",
     "translation": "更高的远程防御能降低被远程攻击，如飞来的箭矢击中的概率。此数值可以通过获得经验或装备盾牌提升。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'A higher ranged defense reduces the probability of being hit with a ranged attack, such as an arrow shot from afar. It can be increased as the character gains experience and by equipping a good shield.'"
   },
   {
@@ -12,7 +12,7 @@
     "key": "Light bruises, flesh wounds, loss of blood and similar that caused this character to lose hitpoints without impairing their abilities.",
     "original": "Light bruises, flesh wounds, loss of blood and similar that caused this character to lose hitpoints without impairing their abilities.",
     "translation": "轻微的瘀伤、皮肉伤、失血等使这个角色损失了生命值，尚不影响战斗能力。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Light bruises, flesh wounds, loss of blood and similar that caused this character to lose hitpoints without impairing their abilities.'"
   },
   {
@@ -20,23 +20,23 @@
     "key": "Ammunition",
     "original": "Ammunition",
     "translation": "弹药",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Ammunition'"
   },
   {
     "ID": 293422956,
     "key": "The arena offers an opportunity to earn gold and fame in fights that are to the death, and in front of crowds that cheer for the most gruesome manner in which lives are dispatched.",
     "original": "The arena offers an opportunity to earn gold and fame in fights that are to the death, and in front of crowds that cheer for the most gruesome manner in which lives are dispatched.",
-    "translation": "竞技场提供了一个在那些热爱凶残杀戮的观众面前，通过殊死搏斗赢得金钱和名声的机会。",
-    "stage": 1,
+    "translation": "竞技场提供了挣得金钱和名声的机会，只需要在那些热爱凶残杀戮的观众面前殊死搏斗即可。",
+    "stage": 5,
     "context": "text = 'The arena offers an opportunity to earn gold and fame in fights that are to the death, and in front of crowds that cheer for the most gruesome manner in which lives are dispatched.'"
   },
   {
     "ID": 293422957,
     "key": "There's space here to add another non-combat follower to your company.",
     "original": "There's space here to add another non-combat follower to your company.",
-    "translation": "一个空闲席位，用于招募其他非战斗追随者。",
-    "stage": 1,
+    "translation": "一个空闲席位，用于再招募一名非战斗随从。",
+    "stage": 5,
     "context": "text = \"There's space here to add another non-combat follower to your company.\""
   },
   {
@@ -44,7 +44,7 @@
     "key": "The number of kills this character had during the battle.",
     "original": "The number of kills this character had during the battle.",
     "translation": "该角色在战斗中取得的击杀数。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'The number of kills this character had during the battle.'"
   },
   {
@@ -52,7 +52,7 @@
     "key": "\n\n[color=",
     "original": "\n\n[color=",
     "translation": "\n\n[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "ret[1][7] += '\n\n[color=' + this.Const.UI.Color.NegativeValue + \"]This DLC is missing. It's available for free on Steam and GOG![/color]\""
   },
   {
@@ -68,7 +68,7 @@
     "key": "See your retinue of non-combat followers that grant various advantages outside combat, and upgrade your cart for more inventory space.",
     "original": "See your retinue of non-combat followers that grant various advantages outside combat, and upgrade your cart for more inventory space.",
     "translation": "在这里你能查看能在战斗之外带来各种好处的非战斗追随者，也可以升级你的货车以获得更多的库存空间。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'See your retinue of non-combat followers that grant various advantages outside combat, and upgrade your cart for more inventory space.'"
   },
   {
@@ -76,7 +76,7 @@
     "key": "Open the character screen and inventory for the active Battle Brother.",
     "original": "Open the character screen and inventory for the active Battle Brother.",
     "translation": "查看当前角色的状态和物品。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Open the character screen and inventory for the active Battle Brother.'"
   },
   {
@@ -84,7 +84,7 @@
     "key": "Center the camera on the currently acting character.",
     "original": "Center the camera on the currently acting character.",
     "translation": "以当前角色为中心重置相机。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Center the camera on the currently acting character.'"
   },
   {
@@ -100,7 +100,7 @@
     "key": "Shows the current items laying on the ground.",
     "original": "Shows the current items laying on the ground.",
     "translation": "显示当前放置在地面上的物品。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Shows the current items laying on the ground.'"
   },
   {
@@ -108,15 +108,15 @@
     "key": "Give the selected recruit a proper tryout to reveal his hidden character traits, if any.",
     "original": "Give the selected recruit a proper tryout to reveal his hidden character traits, if any.",
     "translation": "测试这名战团潜在的新成员，以揭示他隐藏的特性，如果有的话。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Give the selected recruit a proper tryout to reveal his hidden character traits, if any.'"
   },
   {
     "ID": 293422967,
     "key": "Fatigue is gained for every action, like moving or using skills, and when being hit in combat or dodging in melee. It is reduced at a fixed rate of 15 each turn or as much as necessary for a character to start every turn with 15 less than his maximum fati",
     "original": "Fatigue is gained for every action, like moving or using skills, and when being hit in combat or dodging in melee. It is reduced at a fixed rate of 15 each turn or as much as necessary for a character to start every turn with 15 less than his maximum fatigue. If a character accumulates too much fatigue they may need to rest a turn (i.e. do nothing) before being able to use more specialized skills again.",
-    "translation": "角色每做出一个动作，如移动或使用技能，就会累积疲劳值。此外，被击中或躲避近战攻击时也会累积。回合开始时，疲劳值会固定减少15，最多减少到0。 如果一个角色积累了太多的疲劳值，他可能需要休息一段时间（即什么都不做），然后才能再次使用专业技能。",
-    "stage": 1,
+    "translation": "角色每做出一个动作，如移动或使用技能，就会累积疲劳值。此外，被击中或躲避近战攻击时也会累积。回合开始时，疲劳值会固定减少15，最多减少到0。 如果一个角色积累了太多的疲劳值，他可能需要休息1回合（即什么都不做），然后才能再次使用更复杂的技能。",
+    "stage": 2,
     "context": "text = 'Fatigue is gained for every action, like moving or using skills, and when being hit in combat or dodging in melee. It is reduced at a fixed rate of 15 each turn or as much as necessary for a character to start every turn with 15 less than his maximum fatigue. If a character accumulates too much fatigue they may need to rest a turn (i.e. do nothing) before being able to use more specialized skills again.'"
   },
   {
@@ -132,7 +132,7 @@
     "key": "Medical supplies consist of bandages, herbs, salves and the like, and are used to heal the more severe injuries sustained by your men in battle. One point of medical supplies is required each day for every injury to improve and ultimately heal. Lost hitpo",
     "original": "Medical supplies consist of bandages, herbs, salves and the like, and are used to heal the more severe injuries sustained by your men in battle. One point of medical supplies is required each day for every injury to improve and ultimately heal. Lost hitpoints heal on their own.\n\nRunning out of medical supplies will leave your men unable to recover from severe injuries.",
     "translation": "医疗用品由绷带、草药、药膏等组成，用于治疗你的人在战斗中遭受的较严重的伤害。 每个损伤每天需要1点医疗用品来改善和治愈。失去的生命值会自行恢复。\n\n医疗用品用完会使你的人无法从重伤中恢复。",
-    "stage": 1,
+    "stage": 5,
     "context": "local desc = 'Medical supplies consist of bandages, herbs, salves and the like, and are used to heal the more severe injuries sustained by your men in battle. One point of medical supplies is required each day for every injury to improve and ultimately heal. Lost hitpoints heal on their own.\n\nRunning out of medical supplies will leave your men unable to recover from severe injuries.'"
   },
   {
@@ -163,8 +163,8 @@
     "ID": 293422973,
     "key": "Center Camera (Shift)",
     "original": "Center Camera (Shift)",
-    "translation": "居中相机 (Shift)",
-    "stage": 1,
+    "translation": "居中相机（Shift）",
+    "stage": 5,
     "context": "text = 'Center Camera (Shift)'"
   },
   {
@@ -180,7 +180,7 @@
     "key": "[/color] crowns per day.\n\n[color=",
     "original": "[/color] crowns per day.\n\n[color=",
     "translation": "[/color] 克朗。\n\n[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'The amount of coin your mercenary company has. Used to pay every man daily, as well as to hire new men and purchase equipment.\n\nYou pay out [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyMoney + '[/color] crowns per day.\n\n[color=' + this.Const.UI.Color.NegativeValue + ']You have no more crowns to pay your men with! Earn some crowns fast or let some people go before they desert you one by one.[/color]'"
   },
   {
@@ -188,7 +188,7 @@
     "key": "End the current round and have all your men skip their turn until the next round starts.",
     "original": "End the current round and have all your men skip their turn until the next round starts.",
     "translation": "结束当前轮，让所有人跳过他们的回合，直到下一轮开始。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'End the current round and have all your men skip their turn until the next round starts.'"
   },
   {
@@ -196,15 +196,15 @@
     "key": "The number of battles that the character fought in until their demise.",
     "original": "The number of battles that the character fought in until their demise.",
     "translation": "角色在死亡前所经历的战斗次数。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'The number of battles that the character fought in until their demise.'"
   },
   {
     "ID": 293422978,
     "key": "Assorted arrows, bolts and throwing weapons used to automatically refill quivers after battle. Replacing one arrow or bolt will take up one point of ammunition, replacing one shot of a Handgonne will take up two points, and replacing one throwing weapon o",
     "original": "Assorted arrows, bolts and throwing weapons used to automatically refill quivers after battle. Replacing one arrow or bolt will take up one point of ammunition, replacing one shot of a Handgonne will take up two points, and replacing one throwing weapon or charge of a Fire Lance will take up three. Running out of ammunition will leave your quivers empty and your people with nothing to shoot with. You can carry no more than ",
-    "translation": "整理好的各种箭矢、弩矢、投掷武器，用于在战后自动补充弹药。补充一支箭矢或弩矢消耗一点弹药，补充一发火铳弹消耗两点弹药，补充一支/把投掷武器或是替换火矛上的药包消耗三点弹药。弹药耗尽会使你的人箭袋空空，无法射击。你最多能携带",
-    "stage": 1,
+    "translation": "整理好的各种箭矢、弩矢、投掷武器，用于在战后自动补充弹药。补充一支箭矢或弩矢消耗一点弹药，补充一发火铳弹消耗两点弹药，补充一柄投掷武器或是替换火矛上的药包消耗三点弹药。弹药耗尽会使你的人箭袋空空，无法射击。你最多能携带",
+    "stage": 5,
     "context": "text = 'Assorted arrows, bolts and throwing weapons used to automatically refill quivers after battle. Replacing one arrow or bolt will take up one point of ammunition, replacing one shot of a Handgonne will take up two points, and replacing one throwing weapon or charge of a Fire Lance will take up three. Running out of ammunition will leave your quivers empty and your people with nothing to shoot with. You can carry no more than ' + this.Const.Difficulty.MaxResources[this.World.Assets.getEconomicDifficulty()].Ammo + this.World.Assets.m.AmmoMaxAdditional + ' units at a time.'"
   },
   {
@@ -212,15 +212,15 @@
     "key": "Lower camera level and hide elevated parts of the map.",
     "original": "Lower camera level and hide elevated parts of the map.",
     "translation": "降低相机的高度并隐藏地图上更高的部分。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Lower camera level and hide elevated parts of the map.'"
   },
   {
     "ID": 293422980,
     "key": "Auto-Adjust Height Levels",
     "original": "Auto-Adjust Height Levels",
-    "translation": "自动调整高度级别",
-    "stage": 1,
+    "translation": "自动调整高度",
+    "stage": 5,
     "context": "text = 'Auto-Adjust Height Levels'"
   },
   {
@@ -236,7 +236,7 @@
     "key": "Dealt [color=",
     "original": "Dealt [color=",
     "translation": "造成 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Dealt [color=' + this.Const.UI.Color.PositiveValue + ']' + combatStats.DamageDealtArmor + '[/color] damage to armor'"
   },
   {
@@ -244,7 +244,7 @@
     "key": "The amount of provisions a man requires each day. Running out of provisions will lower morale and will eventually lead to your men deserting you before dying of starvation.",
     "original": "The amount of provisions a man requires each day. Running out of provisions will lower morale and will eventually lead to your men deserting you before dying of starvation.",
     "translation": "一个人每天需要的食物供给量。食物短缺会降低士气，最终导致你的人在饿死之前抛弃你。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'The amount of provisions a man requires each day. Running out of provisions will lower morale and will eventually lead to your men deserting you before dying of starvation.'"
   },
   {
@@ -252,7 +252,7 @@
     "key": "Hire Recruit",
     "original": "Hire Recruit",
     "translation": "雇佣新兵",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Hire Recruit'"
   },
   {
@@ -260,7 +260,7 @@
     "key": "[/color][/b] AP and [b][color=",
     "original": "[/color][/b] AP and [b][color=",
     "translation": "[/color][/b] 行动点数，积累 [b][color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Costs [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getActionPointCosts()[lastTileHovered.Type] + '+' + actor.getLevelActionPointCost() + '[/color][/b] AP and [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getFatigueCosts()[lastTileHovered.Type] + '+' + actor.getLevelFatigueCost() + '[/color][/b] Fatigue to traverse because it is at a different height level'"
   },
   {
@@ -284,7 +284,7 @@
     "key": "Men in formation",
     "original": "Men in formation",
     "translation": "战斗序列中的角色",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Men in formation'"
   },
   {
@@ -300,14 +300,14 @@
     "key": "The number of opponents currently on the battlefield.",
     "original": "The number of opponents currently on the battlefield.",
     "translation": "当前战场上的对手数量。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'The number of opponents currently on the battlefield.'"
   },
   {
     "ID": 293422991,
     "key": "[/color] more days at most. Keep in mind that individual provisions will eventually turn bad!",
     "original": "[/color] more days at most. Keep in mind that individual provisions will eventually turn bad!",
-    "translation": "[/color]天。记住，食物早晚会变质！",
+    "translation": "[/color]天。记住，食物存放过久会变质！",
     "stage": 5,
     "context": "text = 'The total amount of provisions you carry. The average man requires 2 provisions per day and more on difficult terrain. Your men will eat the provisions closest to expiring first. Running out of provisions will lower morale and will eventually lead to your people deserting you before dying of starvation.\n\nYou use [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyFood + '[/color] provisions per day. Your [color=' + this.Const.UI.Color.PositiveValue + ']' + food + '[/color] provisions will last you for [color=' + this.Const.UI.Color.PositiveValue + ']' + time + '[/color] more days at most. Keep in mind that individual provisions will eventually turn bad!'"
   },
@@ -323,8 +323,8 @@
     "ID": 293422993,
     "key": "Show only armor, helmets and shields.",
     "original": "Show only armor, helmets and shields.",
-    "translation": "只显示盔甲、头盔和盾牌。",
-    "stage": 1,
+    "translation": "只显示甲胄、头盔和盾牌。",
+    "stage": 5,
     "context": "text = 'Show only armor, helmets and shields.'"
   },
   {
@@ -332,7 +332,7 @@
     "key": " units at a time.",
     "original": " units at a time.",
     "translation": "个单位。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Assorted arrows, bolts and throwing weapons used to automatically refill quivers after battle. Replacing one arrow or bolt will take up one point of ammunition, replacing one shot of a Handgonne will take up two points, and replacing one throwing weapon or charge of a Fire Lance will take up three. Running out of ammunition will leave your quivers empty and your people with nothing to shoot with. You can carry no more than ' + this.Const.Difficulty.MaxResources[this.World.Assets.getEconomicDifficulty()].Ammo + this.World.Assets.m.AmmoMaxAdditional + ' units at a time.'"
   },
   {
@@ -340,7 +340,7 @@
     "key": "Costs [b][color=",
     "original": "Costs [b][color=",
     "translation": "移动消耗 [b][color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Costs [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getActionPointCosts()[lastTileHovered.Type] + '+' + actor.getLevelActionPointCost() + '[/color][/b] AP and [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getFatigueCosts()[lastTileHovered.Type] + '+' + actor.getLevelFatigueCost() + '[/color][/b] Fatigue to traverse because it is at a different height level'"
   },
   {
@@ -356,7 +356,7 @@
     "key": "Cancel the current contract.",
     "original": "Cancel the current contract.",
     "translation": "取消当前合同。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Cancel the current contract.'"
   },
   {
@@ -372,15 +372,15 @@
     "key": "Choose how your company starts out in the world. Depending on your choice, you'll start with different men, equipment, resources, and special rules.",
     "original": "Choose how your company starts out in the world. Depending on your choice, you'll start with different men, equipment, resources, and special rules.",
     "translation": "选择战团如何开始闯荡世界。根据选择不同，会有不同的初始人员、装备、资源和特殊规则。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = \"Choose how your company starts out in the world. Depending on your choice, you'll start with different men, equipment, resources, and special rules.\""
   },
   {
     "ID": 293423000,
     "key": "\n\nHealing up all your men will take between [color=",
     "original": "\n\nHealing up all your men will take between [color=",
-    "translation": "\n\n治愈所有士兵需要花上[color=",
-    "stage": 1,
+    "translation": "\n\n治愈所有人需要花上[color=",
+    "stage": 5,
     "context": "desc = desc + '\n\nHealing up all your men will take between [color=' + this.Const.UI.Color.PositiveValue + ']' + heal.DaysMin + '[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']' + heal.DaysMax + '[/color] days and requires between '"
   },
   {
@@ -412,7 +412,7 @@
     "key": "Not enough crowns to pay for repairs!",
     "original": "Not enough crowns to pay for repairs!",
     "translation": "没有足够的克朗来支付修理费用！",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Not enough crowns to pay for repairs!'"
   },
   {
@@ -427,8 +427,8 @@
     "ID": 293423006,
     "key": "Raise camera level to see the more elevated parts of the map.",
     "original": "Raise camera level to see the more elevated parts of the map.",
-    "translation": "提高相机的高度，以查看地图上更高的部分。",
-    "stage": 1,
+    "translation": "提高相机的高度以查看地图上更高的部分。",
+    "stage": 5,
     "context": "text = 'Raise camera level to see the more elevated parts of the map.'"
   },
   {
@@ -436,7 +436,7 @@
     "key": "Return to the main menu.",
     "original": "Return to the main menu.",
     "translation": "返回主菜单。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Return to the main menu.'"
   },
   {
@@ -444,7 +444,7 @@
     "key": "]This DLC has been installed.[/color]",
     "original": "]This DLC has been installed.[/color]",
     "translation": "]此DLC已安装。[/color]",
-    "stage": 1,
+    "stage": 5,
     "context": "ret[1][7] += '\n\n[color=' + this.Const.UI.Color.PositiveValue + ']This DLC has been installed.[/color]'"
   },
   {
@@ -452,23 +452,23 @@
     "key": "For the right price, a taxidermist can create useful items from all kinds of trophies you bring him.",
     "original": "For the right price, a taxidermist can create useful items from all kinds of trophies you bring him.",
     "translation": "只要肯花钱，剥制师能把你带给他的战利品制成各种实用物品。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'For the right price, a taxidermist can create useful items from all kinds of trophies you bring him.'"
   },
   {
     "ID": 293423010,
     "key": "Faster Player Movement",
     "original": "Faster Player Movement",
-    "translation": "更快的玩家移动",
-    "stage": 1,
+    "translation": "玩家移动速度更快",
+    "stage": 5,
     "context": "text = 'Faster Player Movement'"
   },
   {
     "ID": 293423011,
     "key": "Pause (Spacebar)",
     "original": "Pause (Spacebar)",
-    "translation": "暂停 (空格键)",
-    "stage": 1,
+    "translation": "暂停 (空格键）",
+    "stage": 5,
     "context": "text = 'Pause (Spacebar)'"
   },
   {
@@ -476,15 +476,15 @@
     "key": "]Is in opponent's Zone of Control.[/color]",
     "original": "]Is in opponent's Zone of Control.[/color]",
     "translation": "]位于敌方控制区内。[/color]",
-    "stage": 1,
+    "stage": 5,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + \"]Is in opponent's Zone of Control.[/color]\""
   },
   {
     "ID": 293423013,
     "key": "The hiring fee will be paid immediately on hiring a man for signing up and proving you can back up your words with coin.",
     "original": "The hiring fee will be paid immediately on hiring a man for signing up and proving you can back up your words with coin.",
-    "translation": "说服某人签字，证明自己有能力兑现承诺所需的雇佣费用，雇佣费将立即支付。",
-    "stage": 1,
+    "translation": "雇佣某人时将立即支付一笔现金，用于说服对方加入，并证明你有能力兑现承诺。",
+    "stage": 5,
     "context": "text = 'The hiring fee will be paid immediately on hiring a man for signing up and proving you can back up your words with coin.'"
   },
   {
@@ -492,31 +492,31 @@
     "key": "See all factions known to you and your relation to them.",
     "original": "See all factions known to you and your relation to them.",
     "translation": "查看所有已知派系以及你与他们的关系。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'See all factions known to you and your relation to them.'"
   },
   {
     "ID": 293423015,
     "key": "Close (ESC)",
     "original": "Close (ESC)",
-    "translation": "关闭 (ESC)",
-    "stage": 1,
+    "translation": "关闭（ESC）",
+    "stage": 5,
     "context": "text = 'Close (ESC)'"
   },
   {
     "ID": 293423016,
     "key": "Wait Turn (Spacebar, End)",
     "original": "Wait Turn (Spacebar, End)",
-    "translation": "等待回合 (空格键，End)",
-    "stage": 1,
+    "translation": "等待回合（空格键，End）",
+    "stage": 5,
     "context": "text = 'Wait Turn (Spacebar, End)'"
   },
   {
     "ID": 293423017,
     "key": "Contracts will pay less, and deserters will take their equipment with them.\n\nRecommended for experts in the game who want more of a challenge managing the company's funds and supplies.",
     "original": "Contracts will pay less, and deserters will take their equipment with them.\n\nRecommended for experts in the game who want more of a challenge managing the company's funds and supplies.",
-    "translation": "合同付钱更少，逃兵会带走装备。\n\n推荐给那些希望在管理战团资金和补给方面遇到更多挑战的专家级玩家。",
-    "stage": 1,
+    "translation": "合同报酬更少，逃兵会带走装备。\n\n推荐给那些希望在管理战团资金和补给方面遇到更多挑战的专家级玩家。",
+    "stage": 5,
     "context": "text = \"Contracts will pay less, and deserters will take their equipment with them.\n\nRecommended for experts in the game who want more of a challenge managing the company's funds and supplies.\""
   },
   {
@@ -524,7 +524,7 @@
     "key": "Switch to viewing the perks of the currently selected character.\n\nThe number in braces, if any, is the number of available perk points.",
     "original": "Switch to viewing the perks of the currently selected character.\n\nThe number in braces, if any, is the number of available perk points.",
     "translation": "切换到当前角色的特技一览。\n\n括号中的数字（如有）是可用的特技点数。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Switch to viewing the perks of the currently selected character.\n\nThe number in braces, if any, is the number of available perk points.'"
   },
   {
@@ -532,7 +532,7 @@
     "key": "The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou currently don't pay anyone.",
     "original": "The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou currently don't pay anyone.",
     "translation": "你的佣兵战团拥有的钱币数量。用于每天中午时支付日薪，或是雇佣新人、购买装备。\n\n你现在不给任何人付工资。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = \"The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou currently don't pay anyone.\""
   },
   {
@@ -540,31 +540,31 @@
     "key": "Beginner Difficulty",
     "original": "Beginner Difficulty",
     "translation": "初学者难度",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Beginner Difficulty'"
   },
   {
     "ID": 293423021,
     "key": "Change the scale of the scene, i.e. everything that isn't the user interface, such as the characters shown on the battlefield.",
     "original": "Change the scale of the scene, i.e. everything that isn't the user interface, such as the characters shown on the battlefield.",
-    "translation": "更改场景的比例，即所有非用户界面的内容，如战场上显示的角色。",
-    "stage": 1,
+    "translation": "更改场景的缩放比例，即所有非用户界面的内容，如战场上显示的角色。",
+    "stage": 5,
     "context": "text = \"Change the scale of the scene, i.e. everything that isn't the user interface, such as the characters shown on the battlefield.\""
   },
   {
     "ID": 293423022,
     "key": "The character's level measures experience in battle. Characters rise in levels as they gain experience and are able to increase their attributes and gain perks that make them better at the mercenary profession.\n\nBeyond the 11th character level, characters",
     "original": "The character's level measures experience in battle. Characters rise in levels as they gain experience and are able to increase their attributes and gain perks that make them better at the mercenary profession.\n\nBeyond the 11th character level, characters are veterans and will no longer gain perk points, but can still continue to improve.",
-    "translation": "角色的等级衡量了他的战斗经验。随着经验提升，其等级也会提高，并能提高属性、获得特技，更好的从事佣兵事业。\n\n在角色11级之后，角色将成为老兵，不再获得特技点，但仍可有所提高。",
-    "stage": 1,
+    "translation": "角色的等级衡量了他的战斗经验。随着经验提升，其等级也会提高，并能提高属性、获得特技，更好的从事佣兵事业。\n\n角色在11级之后将成为老兵，不再获得特技点，但仍可有所提高。 ",
+    "stage": 5,
     "context": "text = \"The character's level measures experience in battle. Characters rise in levels as they gain experience and are able to increase their attributes and gain perks that make them better at the mercenary profession.\n\nBeyond the 11th character level, characters are veterans and will no longer gain perk points, but can still continue to improve.\""
   },
   {
     "ID": 293423023,
     "key": "Open Menu (Esc)",
     "original": "Open Menu (Esc)",
-    "translation": "打开菜单 (Esc)",
-    "stage": 1,
+    "translation": "打开菜单（Esc）",
+    "stage": 5,
     "context": "text = 'Open Menu (Esc)'"
   },
   {
@@ -572,7 +572,7 @@
     "key": "Blazing Deserts",
     "original": "Blazing Deserts",
     "translation": "炽热沙漠",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Blazing Deserts'"
   },
   {
@@ -580,7 +580,7 @@
     "key": "Your opponents will be more challenging and numerous.\n\nRecommended for experts in the game who want an even deadlier challenge.",
     "original": "Your opponents will be more challenging and numerous.\n\nRecommended for experts in the game who want an even deadlier challenge.",
     "translation": "你将面对更多更强的对手。\n\n推荐给喜欢险中求胜的专家级玩家。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Your opponents will be more challenging and numerous.\n\nRecommended for experts in the game who want an even deadlier challenge.'"
   },
   {
@@ -588,7 +588,7 @@
     "key": "Damage Dealt",
     "original": "Damage Dealt",
     "translation": "造成的伤害",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Damage Dealt'"
   },
   {
@@ -596,7 +596,7 @@
     "key": "The total amount of provisions you carry. The average man requires 2 provisions per day and more on difficult terrain. Your men will eat the provisions closest to expiring first. Running out of provisions will lower morale and will eventually lead to your",
     "original": "The total amount of provisions you carry. The average man requires 2 provisions per day and more on difficult terrain. Your men will eat the provisions closest to expiring first. Running out of provisions will lower morale and will eventually lead to your people deserting you before dying of starvation.\n\nYou use [color=",
     "translation": "你携带的食物总量。一般人每天需要2份食物，复杂地形上的需求量更大。你的人会先食用最接近过期的食物。食物短缺会降低士气，最终导致你的人在饿死之前抛弃你。\n\n你每天消耗[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'The total amount of provisions you carry. The average man requires 2 provisions per day and more on difficult terrain. Your men will eat the provisions closest to expiring first. Running out of provisions will lower morale and will eventually lead to your people deserting you before dying of starvation.\n\nYou use [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyFood + '[/color] provisions per day.\n\n[color=' + this.Const.UI.Color.NegativeValue + ']You have no more provisions to feed your men! Buy new provisions as fast as possible or your men will desert you one by one before they starve![/color]'"
   },
   {
@@ -604,15 +604,15 @@
     "key": "[/color] days and requires between ",
     "original": "[/color] days and requires between ",
     "translation": "[/color]天并需要大约",
-    "stage": 1,
+    "stage": 5,
     "context": "desc = desc + '\n\nHealing up all your men will take between [color=' + this.Const.UI.Color.PositiveValue + ']' + heal.DaysMin + '[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']' + heal.DaysMax + '[/color] days and requires between '"
   },
   {
     "ID": 293423029,
     "key": "Show/Hide Hitpoint Bars (Alt)",
     "original": "Show/Hide Hitpoint Bars (Alt)",
-    "translation": "显示/隐藏生命条 (Alt)",
-    "stage": 1,
+    "translation": "显示/隐藏生命条（Alt）",
+    "stage": 5,
     "context": "text = 'Show/Hide Hitpoint Bars (Alt)'"
   },
   {
@@ -620,14 +620,14 @@
     "key": "Of Flesh and Faith",
     "original": "Of Flesh and Faith",
     "translation": "血肉与信仰",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Of Flesh and Faith'"
   },
   {
     "ID": 293423031,
     "key": "Camp (T)",
     "original": "Camp (T)",
-    "translation": "扎营 (T)",
+    "translation": "扎营（T）",
     "stage": 5,
     "context": "text = 'Camp (T)'"
   },
@@ -636,7 +636,7 @@
     "key": "The daily wage will be paid every single day as payment for serving under your command. The wage is increased automatically by a cumulative 10% per level until the 11th, and then 3% afterwards.",
     "original": "The daily wage will be paid every single day as payment for serving under your command. The wage is increased automatically by a cumulative 10% per level until the 11th, and then 3% afterwards.",
     "translation": "日薪是在你的指挥下服役的报酬，按天支付。工资在升级时自动增加，11级前每级累加10%，之后累加3%。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'The daily wage will be paid every single day as payment for serving under your command. The wage is increased automatically by a cumulative 10% per level until the 11th, and then 3% afterwards.'"
   },
   {
@@ -644,7 +644,7 @@
     "key": "Speed up the movement of any characters controlled by you in combat significantly. Does not affect movement-related skills.",
     "original": "Speed up the movement of any characters controlled by you in combat significantly. Does not affect movement-related skills.",
     "translation": "在战斗中加快所有你控制的角色的移动速度。 不会影响移动相关的技能。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Speed up the movement of any characters controlled by you in combat significantly. Does not affect movement-related skills.'"
   },
   {
@@ -652,7 +652,7 @@
     "key": "Leveled Up",
     "original": "Leveled Up",
     "translation": "升级",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Leveled Up'"
   },
   {
@@ -660,7 +660,7 @@
     "key": "Initiative",
     "original": "Initiative",
     "translation": "主动值",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Initiative'"
   },
   {
@@ -676,31 +676,31 @@
     "key": "Open menu to adjust game options.",
     "original": "Open menu to adjust game options.",
     "translation": "打开菜单调整游戏选项。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Open menu to adjust game options.'"
   },
   {
     "ID": 293423038,
     "key": "An optional way to play the game where the map is entirely unexplored and not visible to you at the start of your campaign. You'll have to discover everything on your own, which makes your campaign more difficult, but potentially also more exciting.\n\nReco",
     "original": "An optional way to play the game where the map is entirely unexplored and not visible to you at the start of your campaign. You'll have to discover everything on your own, which makes your campaign more difficult, but potentially also more exciting.\n\nRecommended only for experienced players that know what they're doing.",
-    "translation": "一种可选的游玩方式，游戏开始时，整个地图都会处于未探索、不可见的状态。所有东西都要自己探索，提高了游戏难度，也让游戏更加刺激。\n\n只推荐给了解游戏，知己知彼的老练玩家。",
-    "stage": 1,
+    "translation": "一种可选的游玩方式，游戏开始时，整个地图都会处于未探索、不可见的状态。所有东西都要自己探索，提高了游戏难度，也让游戏更加刺激。\n\n只推荐给了解游戏的老练玩家。",
+    "stage": 5,
     "context": "text = \"An optional way to play the game where the map is entirely unexplored and not visible to you at the start of your campaign. You'll have to discover everything on your own, which makes your campaign more difficult, but potentially also more exciting.\n\nRecommended only for experienced players that know what they're doing.\""
   },
   {
     "ID": 293423039,
     "key": "Fast Speed (2)",
     "original": "Fast Speed (2)",
-    "translation": "快速 (2)",
-    "stage": 1,
+    "translation": "快速（2）",
+    "stage": 5,
     "context": "text = 'Fast Speed (2)'"
   },
   {
     "ID": 293423040,
     "key": "[/color][/b] AP)",
     "original": "[/color][/b] AP)",
-    "translation": "[/color][/b] 点行动力)",
-    "stage": 1,
+    "translation": "[/color][/b] 点行动力）",
+    "stage": 5,
     "context": "text = 'Equip item ([b][color=' + this.Const.UI.Color.PositiveValue + ']' + _activeEntity.getItems().getActionCost([_item,_entity.getItems().getItemAtSlot(_item.getSlotType()),_entity.getItems().getItemAtSlot(_item.getBlockedSlotType())]) + '[/color][/b] AP)'"
   },
   {
@@ -708,7 +708,7 @@
     "key": "Using the hardware cursor minimizes input lag when moving the mouse in the game. Disable this if you experience problems with the mouse cursor.",
     "original": "Using the hardware cursor minimizes input lag when moving the mouse in the game. Disable this if you experience problems with the mouse cursor.",
     "translation": "在游戏中移动鼠标时，使用硬件光标可以最大限度地减少输入延迟。如果鼠标光标出现问题，请禁用此选项。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Using the hardware cursor minimizes input lag when moving the mouse in the game. Disable this if you experience problems with the mouse cursor.'"
   },
   {
@@ -716,15 +716,15 @@
     "key": "Level",
     "original": "Level",
     "translation": "等级",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Level'"
   },
   {
     "ID": 293423043,
     "key": "Experience Gained",
     "original": "Experience Gained",
-    "translation": "获得的经验",
-    "stage": 1,
+    "translation": "已获得的经验值",
+    "stage": 5,
     "context": "text = 'Experience Gained'"
   },
   {
@@ -732,15 +732,15 @@
     "key": "Use item",
     "original": "Use item",
     "translation": "使用物品",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Use item'"
   },
   {
     "ID": 293423045,
     "key": "[/color] hitpoint damage",
     "original": "[/color] hitpoint damage",
-    "translation": "[/color] 生命值伤害",
-    "stage": 1,
+    "translation": "[/color] 点生命值伤害",
+    "stage": 5,
     "context": "text = 'Received [color=' + this.Const.UI.Color.NegativeValue + ']' + combatStats.DamageReceivedHitpoints + '[/color] hitpoint damage'"
   },
   {
@@ -748,15 +748,15 @@
     "key": "Drop item on the ground",
     "original": "Drop item on the ground",
     "translation": "将物品放在地上",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Drop item on the ground'"
   },
   {
     "ID": 293423047,
     "key": "Shows the current and maximium number of men placed in formation to fight in the next battle.\n\nDrag and drop your men to where you want them to be; the top row is the front facing the enemy, the second row is your back row, and the bottom row is your rese",
     "original": "Shows the current and maximium number of men placed in formation to fight in the next battle.\n\nDrag and drop your men to where you want them to be; the top row is the front facing the enemy, the second row is your back row, and the bottom row is your reserves of characters not taking part in battle.",
-    "translation": "显示了战斗序列中的当前人数和人数上限，他们会在接下来的战斗里参战。\n\n你可以任意拖拽、放置人物；最上面一排是面对敌人的前排，第二排是后排，最下面一排是不参加战斗，用于保存角色的预备队。",
-    "stage": 1,
+    "translation": "显示当前以及最大参战人数。\n\n将你的士兵拖放至预定位置；顶排为面向敌人的前线，次排为后排，底排则为不参与战斗的预备队成员。",
+    "stage": 5,
     "context": "text = 'Shows the current and maximium number of men placed in formation to fight in the next battle.\n\nDrag and drop your men to where you want them to be; the top row is the front facing the enemy, the second row is your back row, and the bottom row is your reserves of characters not taking part in battle.'"
   },
   {
@@ -764,7 +764,7 @@
     "key": "]Unable to camp while travelling with other parties[/color]",
     "original": "]Unable to camp while travelling with other parties[/color]",
     "translation": "]与其他队伍一同旅行时无法扎营[/color]",
-    "stage": 1,
+    "stage": 5,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Unable to camp while travelling with other parties[/color]'"
   },
   {
@@ -772,7 +772,7 @@
     "key": "Show only weapons, offensive tools and accessories.",
     "original": "Show only weapons, offensive tools and accessories.",
     "translation": "只显示武器、攻击性的工具和配件。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Show only weapons, offensive tools and accessories.'"
   },
   {
@@ -780,7 +780,7 @@
     "key": " more perk point is spent",
     "original": " more perk point is spent",
     "translation": "个特技点后解锁",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Locked until ' + perk.Unlocks - player.getPerkPointsSpent() + ' more perk point is spent'"
   },
   {
@@ -788,7 +788,7 @@
     "key": "Available, but this character has no perk point to spend",
     "original": "Available, but this character has no perk point to spend",
     "translation": "可以获得，但这个角色没有多余的特技点了",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Available, but this character has no perk point to spend'"
   },
   {
@@ -803,8 +803,8 @@
     "ID": 293423053,
     "key": " for [img]gfx/ui/tooltips/money.png[/img]",
     "original": " for [img]gfx/ui/tooltips/money.png[/img]",
-    "translation": "对于[img]gfx/ui/tooltips/money.png[/img]",
-    "stage": 1,
+    "translation": "将花费[img]gfx/ui/tooltips/money.png[/img]",
+    "stage": 5,
     "context": "text = this.Const.Strings.InventoryUpgradeHeader[this.World.Retinue.getInventoryUpgrades()] + ' for [img]gfx/ui/tooltips/money.png[/img]' + this.Const.Strings.InventoryUpgradeCosts[this.World.Retinue.getInventoryUpgrades()]"
   },
   {
@@ -812,7 +812,7 @@
     "key": "Sort items by type.",
     "original": "Sort items by type.",
     "translation": "按类型对物品排序。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Sort items by type.'"
   },
   {
@@ -820,7 +820,7 @@
     "key": "All crises will be randomly chosen between the options below.",
     "original": "All crises will be randomly chosen between the options below.",
     "translation": "每次危机都会在下列选项中随机选出。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'All crises will be randomly chosen between the options below.'"
   },
   {
@@ -828,7 +828,7 @@
     "key": "Use Hardware Sound",
     "original": "Use Hardware Sound",
     "translation": "使用硬件声音",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Use Hardware Sound'"
   },
   {
@@ -844,15 +844,15 @@
     "key": "Always and automatically loot everything found after combat once you close the loot screen - as long as you have the space to carry it.",
     "original": "Always and automatically loot everything found after combat once you close the loot screen - as long as you have the space to carry it.",
     "translation": "在你关闭战利品页面后自动拾取所有战利品，前提是你有足够的仓库空间。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Always and automatically loot everything found after combat once you close the loot screen - as long as you have the space to carry it.'"
   },
   {
     "ID": 293423059,
     "key": "Always have the camera centered on any AI movement visible to you.",
     "original": "Always have the camera centered on any AI movement visible to you.",
-    "translation": "始终让摄像机对准所有视野内的AI移动。",
-    "stage": 1,
+    "translation": "始终让摄像机对准所有视野内正在移动的AI。",
+    "stage": 5,
     "context": "text = 'Always have the camera centered on any AI movement visible to you.'"
   },
   {
@@ -860,15 +860,15 @@
     "key": "Relations",
     "original": "Relations",
     "translation": "关系",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Relations'"
   },
   {
     "ID": 293423061,
     "key": "An alchemist offering exotic and quite dangerous contraptions for a tidy sum.",
     "original": "An alchemist offering exotic and quite dangerous contraptions for a tidy sum.",
-    "translation": "炼金术士能以一笔可观的费用，为你提供各种奇异而危险的合剂。",
-    "stage": 1,
+    "translation": "炼金术士能为你提供各种奇异而危险的合剂，不过价格不菲。",
+    "stage": 5,
     "context": "text = 'An alchemist offering exotic and quite dangerous contraptions for a tidy sum.'"
   },
   {
@@ -884,23 +884,23 @@
     "key": "]+20%[/color] Experience Gain for the duration of five battles.",
     "original": "]+20%[/color] Experience Gain for the duration of five battles.",
     "translation": "]+20%[/color]经验加成。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Have your man undergo a rigorous training regimen to shape him into a skilled fighter. The blood and sweat spent today will benefit him in the long run with [color=' + this.Const.UI.Color.PositiveValue + ']+20%[/color] Experience Gain for the duration of five battles.'"
   },
   {
     "ID": 293423064,
     "key": "Determines the base probability of hitting a target with a melee attack, such as with swords and spears. Can be increased as the character gains experience.",
     "original": "Determines the base probability of hitting a target with a melee attack, such as with swords and spears. Can be increased as the character gains experience.",
-    "translation": "决定着使用近战攻击，比如剑、矛击中目标的基本概率。可以随着角色获得经验而提高。",
-    "stage": 1,
+    "translation": "决定着使用近战武器，比如剑、矛击中目标的基本概率。可以随着角色获得经验而提高。",
+    "stage": 5,
     "context": "text = 'Determines the base probability of hitting a target with a melee attack, such as with swords and spears. Can be increased as the character gains experience.'"
   },
   {
     "ID": 293423065,
     "key": "Have your man participate in a sparring fight with experienced opponents and various fighting styles. The bruises collected and lessons learned will result in [color=",
     "original": "Have your man participate in a sparring fight with experienced opponents and various fighting styles. The bruises collected and lessons learned will result in [color=",
-    "translation": "让你的队员与有经验的对手进行练习战斗，并学习多样的战斗方式。所获得的挫伤和经验教训将会给下一场战斗带来[color=",
-    "stage": 1,
+    "translation": "让你的队员与有经验的对手进行对练，并学习多样的战斗方式。所获得的挫伤和经验教训将会给下一场战斗带来[color=",
+    "stage": 5,
     "context": "text = 'Have your man participate in a sparring fight with experienced opponents and various fighting styles. The bruises collected and lessons learned will result in [color=' + this.Const.UI.Color.PositiveValue + ']+50%[/color] Experience Gain for the next battle.'"
   },
   {
@@ -932,23 +932,23 @@
     "key": "This fee will have to be paid up front for services to be rendered.",
     "original": "This fee will have to be paid up front for services to be rendered.",
     "translation": "该费用必须在享受服务前付清。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'This fee will have to be paid up front for services to be rendered.'"
   },
   {
     "ID": 293423070,
     "key": "You cannot fight in the arena while contracted to do other work",
     "original": "You cannot fight in the arena while contracted to do other work",
-    "translation": "你已经签订了其他合同，不能在竞技场上战斗",
-    "stage": 1,
+    "translation": "你已经签订了其他合同，不能参加竞技场角斗",
+    "stage": 5,
     "context": "text = 'You cannot fight in the arena while contracted to do other work'"
   },
   {
     "ID": 293423071,
     "key": "Center Camera (Return, Shift)",
     "original": "Center Camera (Return, Shift)",
-    "translation": "相机居中 (回车键, Shift)",
-    "stage": 1,
+    "translation": "居中相机（回车键，Shift）",
+    "stage": 5,
     "context": "text = 'Center Camera (Return, Shift)'"
   },
   {
@@ -956,7 +956,7 @@
     "key": "Use hardware-accelerated sound playback for better performance. Disable this if you experience any issues related to sound.",
     "original": "Use hardware-accelerated sound playback for better performance. Disable this if you experience any issues related to sound.",
     "translation": "使用硬件加速声音播放以改善性能表现。如遇到任何与声音相关的问题，请禁用此选项。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Use hardware-accelerated sound playback for better performance. Disable this if you experience any issues related to sound.'"
   },
   {
@@ -964,14 +964,14 @@
     "key": "Beasts & Exploration",
     "original": "Beasts & Exploration",
     "translation": "野兽与探险",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Beasts & Exploration'"
   },
   {
     "ID": 293423074,
     "key": "Open Inventory (I, C)",
     "original": "Open Inventory (I, C)",
-    "translation": "打开仓库 (I, C)",
+    "translation": "打开仓库（I, C）",
     "stage": 5,
     "context": "text = 'Open Inventory (I, C)'"
   },
@@ -980,7 +980,7 @@
     "key": "]Hides anyone inside from being seen at a distance.[/color]",
     "original": "]Hides anyone inside from being seen at a distance.[/color]",
     "translation": "]能把人藏在里面，免得被从远处看到。[/color]",
-    "stage": 1,
+    "stage": 5,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Hides anyone inside from being seen at a distance.[/color]'"
   },
   {
@@ -1011,8 +1011,8 @@
     "ID": 293423079,
     "key": "Leave this screen and return to the previous one.",
     "original": "Leave this screen and return to the previous one.",
-    "translation": "离开当前界面返回上级界面。",
-    "stage": 1,
+    "translation": "离开当前界面返回前一界面。",
+    "stage": 5,
     "context": "text = 'Leave this screen and return to the previous one.'"
   },
   {
@@ -1020,7 +1020,7 @@
     "key": "Daily Wage",
     "original": "Daily Wage",
     "translation": "日薪",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Daily Wage'"
   },
   {
@@ -1036,15 +1036,15 @@
     "key": "[/color] days",
     "original": "[/color] days",
     "translation": "[/color]天内治愈",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Will heal in [color=' + this.Const.UI.Color.NegativeValue + ']' + entity.getDaysWounded() + '[/color] days'"
   },
   {
     "ID": 293423083,
     "key": "[/color] provisions will last you for [color=",
     "original": "[/color] provisions will last you for [color=",
-    "translation": "[/color]点食物能够供您食用至多[color=",
-    "stage": 1,
+    "translation": "[/color]点食物能够供你食用至多[color=",
+    "stage": 5,
     "context": "text = 'The total amount of provisions you carry. The average man requires 2 provisions per day and more on difficult terrain. Your men will eat the provisions closest to expiring first. Running out of provisions will lower morale and will eventually lead to your people deserting you before dying of starvation.\n\nYou use [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyFood + '[/color] provisions per day. Your [color=' + this.Const.UI.Color.PositiveValue + ']' + food + '[/color] provisions will last you for [color=' + this.Const.UI.Color.PositiveValue + ']' + time + '[/color] more days at most. Keep in mind that individual provisions will eventually turn bad!'"
   },
   {
@@ -1060,7 +1060,7 @@
     "key": "Taxidermist",
     "original": "Taxidermist",
     "translation": "剥制屋",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Taxidermist'"
   },
   {
@@ -1076,7 +1076,7 @@
     "key": " units at most.",
     "original": " units at most.",
     "translation": "单位。",
-    "stage": 1,
+    "stage": 5,
     "context": "desc = desc + '  You can carry ' + this.Const.Difficulty.MaxResources[this.World.Assets.getEconomicDifficulty()].Medicine + this.World.Assets.m.MedicineMaxAdditional + ' units at most.'"
   },
   {
@@ -1099,15 +1099,15 @@
     "ID": 293423090,
     "key": "Toggle between showing and hiding red overlays that indicate tiles blocked with environmental objects (such as trees) that characters can not move onto.",
     "original": "Toggle between showing and hiding red overlays that indicate tiles blocked with environmental objects (such as trees) that characters can not move onto.",
-    "translation": "切换显示或隐藏标记角色无法通行环境物体（如：树）的红色遮罩层。",
-    "stage": 1,
+    "translation": "切换显示或隐藏红色遮罩层，后者用于标记角色无法通行的环境物体（如：树）。",
+    "stage": 5,
     "context": "text = 'Toggle between showing and hiding red overlays that indicate tiles blocked with environmental objects (such as trees) that characters can not move onto.'"
   },
   {
     "ID": 293423091,
     "key": "Show/Hide Trees (T)",
     "original": "Show/Hide Trees (T)",
-    "translation": "显示/隐藏树 (T)",
+    "translation": "显示/隐藏树（T）",
     "stage": 5,
     "context": "text = 'Show/Hide Trees (T)'"
   },
@@ -1132,7 +1132,7 @@
     "key": "Expert Difficulty",
     "original": "Expert Difficulty",
     "translation": "专家难度",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Expert Difficulty'"
   },
   {
@@ -1148,7 +1148,7 @@
     "key": "The damage dealt by this character during battle, against hitpoints and against armor.",
     "original": "The damage dealt by this character during battle, against hitpoints and against armor.",
     "translation": "这个角色在战斗中对生命值和盔甲造成的伤害。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'The damage dealt by this character during battle, against hitpoints and against armor.'"
   },
   {
@@ -1156,7 +1156,7 @@
     "key": " The more body armor, the less damage will be applied to hitpoints on taking a hit to the body.",
     "original": " The more body armor, the less damage will be applied to hitpoints on taking a hit to the body.",
     "translation": "身体护甲越高，被命中时受到的生命值伤害就越小。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = ' The more body armor, the less damage will be applied to hitpoints on taking a hit to the body.'"
   },
   {
@@ -1164,7 +1164,7 @@
     "key": "The amount of coin your mercenary company has. Used to pay every man daily, as well as to hire new men and purchase equipment.\n\nYou pay out [color=",
     "original": "The amount of coin your mercenary company has. Used to pay every man daily, as well as to hire new men and purchase equipment.\n\nYou pay out [color=",
     "translation": "你的佣兵战团拥有的钱币数量。用于支付日薪，或是雇佣新人、购买装备。\n\n日薪支出为 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'The amount of coin your mercenary company has. Used to pay every man daily, as well as to hire new men and purchase equipment.\n\nYou pay out [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyMoney + '[/color] crowns per day.\n\n[color=' + this.Const.UI.Color.NegativeValue + ']You have no more crowns to pay your men with! Earn some crowns fast or let some people go before they desert you one by one.[/color]'"
   },
   {
@@ -1179,8 +1179,8 @@
     "ID": 293423100,
     "key": "You'll face fewer and less challenging opponents, your men gain experience slightly faster, and retreating from battle is easier.\n\nYour men get a small bonus to hit chance, and the enemy gets a small penalty, to ease you into the game.\n\nRecommended for pl",
     "original": "You'll face fewer and less challenging opponents, your men gain experience slightly faster, and retreating from battle is easier.\n\nYour men get a small bonus to hit chance, and the enemy gets a small penalty, to ease you into the game.\n\nRecommended for players new to the game.",
-    "translation": "你将面对较少较弱的对手，你的人获得经验更快，更容易从战斗中撤退。\n\n你的人会有小额命中率加成，敌人则会有小额命中率惩罚，让你更轻松地代入游戏。\n\n推荐给本游戏的新玩家。",
-    "stage": 1,
+    "translation": "你将面对较少较弱的对手，你的人获得经验更快，更容易从战斗中撤退。\n\n你的人会有小额命中率加成，敌人则会有小额命中率惩罚，以便你逐步熟悉游戏。\n\n推荐给本游戏的新玩家。",
+    "stage": 5,
     "context": "text = \"You'll face fewer and less challenging opponents, your men gain experience slightly faster, and retreating from battle is easier.\n\nYour men get a small bonus to hit chance, and the enemy gets a small penalty, to ease you into the game.\n\nRecommended for players new to the game.\""
   },
   {
@@ -1188,7 +1188,7 @@
     "key": "Open store page in browser",
     "original": "Open store page in browser",
     "translation": "在浏览器里打开商店页面",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Open store page in browser'"
   },
   {
@@ -1196,7 +1196,7 @@
     "key": "Hire the selected recruit and have him join your roster.",
     "original": "Hire the selected recruit and have him join your roster.",
     "translation": "雇佣选定的新兵，让他加入你的花名册。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Hire the selected recruit and have him join your roster.'"
   },
   {
@@ -1204,7 +1204,7 @@
     "key": "  You can carry ",
     "original": "  You can carry ",
     "translation": "你至多能携带",
-    "stage": 1,
+    "stage": 5,
     "context": "desc = desc + '  You can carry ' + this.Const.Difficulty.MaxResources[this.World.Assets.getEconomicDifficulty()].Medicine + this.World.Assets.m.MedicineMaxAdditional + ' units at most.'"
   },
   {
@@ -1212,7 +1212,7 @@
     "key": "Contract available",
     "original": "Contract available",
     "translation": "能接到的合同",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Contract available'"
   },
   {
@@ -1228,7 +1228,7 @@
     "key": "Locked Seat",
     "original": "Locked Seat",
     "translation": "锁定的席位",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Locked Seat'"
   },
   {
@@ -1244,7 +1244,7 @@
     "key": "Show icons at the edges of your screen indicating the direction in which any characters currently outside the screen are on the map.",
     "original": "Show icons at the edges of your screen indicating the direction in which any characters currently outside the screen are on the map.",
     "translation": "在屏幕边缘显示图标，指示当前屏幕外的所有角色在地图上的方向。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Show icons at the edges of your screen indicating the direction in which any characters currently outside the screen are on the map.'"
   },
   {
@@ -1252,14 +1252,14 @@
     "key": "]WARNING:[/color] Deletes the selected campaign without any further warning.",
     "original": "]WARNING:[/color] Deletes the selected campaign without any further warning.",
     "translation": "]警告：[/color]这是删除所选战役的最后一道警告。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']WARNING:[/color] Deletes the selected campaign without any further warning.'"
   },
   {
     "ID": 293423110,
     "key": "]This DLC is missing. It's available for purchase on Steam and GOG![/color]",
     "original": "]This DLC is missing. It's available for purchase on Steam and GOG![/color]",
-    "translation": "]此DLC缺失。 可以在Steam和GOG上购买！[/color]",
+    "translation": "]缺失此DLC。可以在Steam和GOG上购买！[/color]",
     "stage": 5,
     "context": "ret[1][7] += '\n\n[color=' + this.Const.UI.Color.NegativeValue + \"]This DLC is missing. It's available for purchase on Steam and GOG![/color]\""
   },
@@ -1268,14 +1268,14 @@
     "key": "Scroll the screen by moving the mouse cursor to the edge of the screen.",
     "original": "Scroll the screen by moving the mouse cursor to the edge of the screen.",
     "translation": "通过将鼠标光标移到屏幕边缘来滚动屏幕。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Scroll the screen by moving the mouse cursor to the edge of the screen.'"
   },
   {
     "ID": 293423112,
     "key": "Toggle Lock Camera (X)",
     "original": "Toggle Lock Camera (X)",
-    "translation": "切换锁定相机 (X)",
+    "translation": "切换锁定相机（X）",
     "stage": 5,
     "context": "text = 'Toggle Lock Camera (X)'"
   },
@@ -1284,7 +1284,7 @@
     "key": "]Any character on this tile may retreat safely and immediately from battle.[/color]",
     "original": "]Any character on this tile may retreat safely and immediately from battle.[/color]",
     "translation": "]此地格上的任何角色都可以安全地即时撤退。[/color]",
-    "stage": 1,
+    "stage": 5,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Any character on this tile may retreat safely and immediately from battle.[/color]'"
   },
   {
@@ -1300,7 +1300,7 @@
     "key": "A higher melee defense reduces the probability of being hit with a melee attack, such as the thrust of a spear. It can be increased as the character gains experience and by equipping a good shield.",
     "original": "A higher melee defense reduces the probability of being hit with a melee attack, such as the thrust of a spear. It can be increased as the character gains experience and by equipping a good shield.",
     "translation": "更高的近战防御能降低被近战攻击，如矛的刺击击中的概率。此数值可以通过获得经验或装备盾牌提升。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'A higher melee defense reduces the probability of being hit with a melee attack, such as the thrust of a spear. It can be increased as the character gains experience and by equipping a good shield.'"
   },
   {
@@ -1316,15 +1316,15 @@
     "key": "[/color] crowns per day. Your [color=",
     "original": "[/color] crowns per day. Your [color=",
     "translation": "[/color] 克朗。你的 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou pay out [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyMoney + '[/color] crowns per day. Your [color=' + this.Const.UI.Color.PositiveValue + ']' + money + '[/color] crowns will last you for [color=' + this.Const.UI.Color.PositiveValue + ']' + time + '[/color] more days.'"
   },
   {
     "ID": 293423118,
     "key": "You cannot use the harbor while contracted to escort a caravan",
     "original": "You cannot use the harbor while contracted to escort a caravan",
-    "translation": "合同规定护送商队时不能使用港口",
-    "stage": 1,
+    "translation": "护送商队时不能使用港口",
+    "stage": 5,
     "context": "text = 'You cannot use the harbor while contracted to escort a caravan'"
   },
   {
@@ -1355,24 +1355,24 @@
     "ID": 293423122,
     "key": "Hire new men for your mercenary company. The quality and quantity of volunteers depends on the size and type of settlement, as well as your reputation here. Every few days, new people will arrive, and others will travel on.",
     "original": "Hire new men for your mercenary company. The quality and quantity of volunteers depends on the size and type of settlement, as well as your reputation here. Every few days, new people will arrive, and others will travel on.",
-    "translation": "为你的雇佣兵战团雇佣新人。志愿者的质量和数量取决于这个定居点的规模和类型，以及你在这里的声誉。每隔几天，就会有新人到来，而其他人则会继续旅行。",
-    "stage": 1,
+    "translation": "为你的雇佣兵战团雇佣新人。志愿者的质量和数量取决于这个定居点的规模和类型，以及你在这里的声誉。每隔几天，就会有新人到来，之前的人则会离开。",
+    "stage": 5,
     "context": "text = 'Hire new men for your mercenary company. The quality and quantity of volunteers depends on the size and type of settlement, as well as your reputation here. Every few days, new people will arrive, and others will travel on.'"
   },
   {
     "ID": 293423123,
     "key": "Ironman mode disables manual saving. Only a single save will exist for the company, and the game is automatically saved during the game and on exiting it. Losing the whole company means losing the save. Recommended for the best experience once you've lear",
     "original": "Ironman mode disables manual saving. Only a single save will exist for the company, and the game is automatically saved during the game and on exiting it. Losing the whole company means losing the save. Recommended for the best experience once you've learned the game.\n\nNote that on weaker computers autosaves may result in the game pausing for a few seconds.",
-    "translation": "铁人模式将禁用手动保存。该战团将只有一个存档，游戏在游戏期间和退出时自动保存。失去战团意味着失去存档。推荐给所有了解了游戏机制的人，打开此选项会带给你最好的体验。\n\n请注意，在性能较弱的计算机上，自动保存可能会导致游戏暂停几秒钟。",
-    "stage": 1,
+    "translation": "铁人模式将禁用手动保存。该战团将只有一个存档，游戏在游戏期间和退出时自动保存。失去战团意味着失去存档。建议在熟悉游戏后选择此模式以获得最佳体验。\n\n请注意，在性能较弱的计算机上，自动保存可能会导致游戏暂停数秒。",
+    "stage": 5,
     "context": "text = \"Ironman mode disables manual saving. Only a single save will exist for the company, and the game is automatically saved during the game and on exiting it. Losing the whole company means losing the save. Recommended for the best experience once you've learned the game.\n\nNote that on weaker computers autosaves may result in the game pausing for a few seconds.\""
   },
   {
     "ID": 293423124,
     "key": "The first late game crisis will be the ancient dead arising again to take back what was once theirs. If you survive for long enough, the following ones will be chosen at random.",
     "original": "The first late game crisis will be the ancient dead arising again to take back what was once theirs. If you survive for long enough, the following ones will be chosen at random.",
-    "translation": "游戏后期的第一场危机将是古代亡灵再次现身，夺回曾经属于他们的东西。如果你活得够久，接下来的危机将会随机选择。",
-    "stage": 1,
+    "translation": "游戏后期的第一场危机将是古代亡灵复生，企图夺回曾经属于他们的世界。如果你活得够久，接下来的危机将会随机选择。",
+    "stage": 5,
     "context": "text = 'The first late game crisis will be the ancient dead arising again to take back what was once theirs. If you survive for long enough, the following ones will be chosen at random.'"
   },
   {
@@ -1380,7 +1380,7 @@
     "key": "[/color] hours and requires ",
     "original": "[/color] hours and requires ",
     "translation": "[/color]小时并消耗",
-    "stage": 1,
+    "stage": 5,
     "context": "desc = desc + '\n\nRepairing all your equipment will take [color=' + this.Const.UI.Color.PositiveValue + ']' + repair.Hours + '[/color] hours and requires '"
   },
   {
@@ -1388,7 +1388,7 @@
     "key": "Show only items usable in inventory mode, like paint or armor upgrades.",
     "original": "Show only items usable in inventory mode, like paint or armor upgrades.",
     "translation": "只显示在仓库模式下可用的物品，如涂料或盔甲升级。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Show only items usable in inventory mode, like paint or armor upgrades.'"
   },
   {
@@ -1540,7 +1540,7 @@
     "key": "]+50%[/color] Experience Gain for the next battle.",
     "original": "]+50%[/color] Experience Gain for the next battle.",
     "translation": "]+50%[/color]经验加成。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Have your man participate in a sparring fight with experienced opponents and various fighting styles. The bruises collected and lessons learned will result in [color=' + this.Const.UI.Color.PositiveValue + ']+50%[/color] Experience Gain for the next battle.'"
   },
   {
@@ -1572,7 +1572,7 @@
     "key": "[/color] provisions per day.\n\n[color=",
     "original": "[/color] provisions per day.\n\n[color=",
     "translation": "[/color]点食物。\n\n[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'The total amount of provisions you carry. The average man requires 2 provisions per day and more on difficult terrain. Your men will eat the provisions closest to expiring first. Running out of provisions will lower morale and will eventually lead to your people deserting you before dying of starvation.\n\nYou use [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyFood + '[/color] provisions per day.\n\n[color=' + this.Const.UI.Color.NegativeValue + ']You have no more provisions to feed your men! Buy new provisions as fast as possible or your men will desert you one by one before they starve![/color]'"
   },
   {
@@ -1619,8 +1619,8 @@
     "ID": 293423155,
     "key": "Locked until ",
     "original": "Locked until ",
-    "translation": "特技被锁定，花费",
-    "stage": 1,
+    "translation": "特技已锁定，花费",
+    "stage": 5,
     "context": "text = 'Locked until ' + perk.Unlocks - player.getPerkPointsSpent() + ' more perk points are spent'"
   },
   {
@@ -1644,15 +1644,15 @@
     "key": "Have your man undergo a rigorous training regimen to shape him into a skilled fighter. The blood and sweat spent today will benefit him in the long run with [color=",
     "original": "Have your man undergo a rigorous training regimen to shape him into a skilled fighter. The blood and sweat spent today will benefit him in the long run with [color=",
     "translation": "让你的人接受严格的训练计划，将他打造成一个熟练的战士。今天所付出的血汗将会使他日后受益匪浅。给接下来的五场战斗[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Have your man undergo a rigorous training regimen to shape him into a skilled fighter. The blood and sweat spent today will benefit him in the long run with [color=' + this.Const.UI.Color.PositiveValue + ']+20%[/color] Experience Gain for the duration of five battles.'"
   },
   {
     "ID": 293423159,
     "key": "[/color] damage to hitpoints",
     "original": "[/color] damage to hitpoints",
-    "translation": "[/color] 生命值伤害",
-    "stage": 1,
+    "translation": "[/color] 点生命值伤害",
+    "stage": 5,
     "context": "text = 'Dealt [color=' + this.Const.UI.Color.PositiveValue + ']' + combatStats.DamageDealtHitpoints + '[/color] damage to hitpoints'"
   },
   {
@@ -1691,7 +1691,7 @@
     "ID": 293423164,
     "key": "[/color] damage to armor",
     "original": "[/color] damage to armor",
-    "translation": "[/color] 护甲伤害",
+    "translation": "[/color] 点护甲伤害",
     "stage": 5,
     "context": "text = 'Dealt [color=' + this.Const.UI.Color.PositiveValue + ']' + combatStats.DamageDealtArmor + '[/color] damage to armor'"
   },
@@ -1811,8 +1811,8 @@
     "ID": 293423179,
     "key": "Equip item ([b][color=",
     "original": "Equip item ([b][color=",
-    "translation": "装备物品 ([b][color=",
-    "stage": 1,
+    "translation": "装备物品（[b][color=",
+    "stage": 5,
     "context": "text = 'Equip item ([b][color=' + this.Const.UI.Color.PositiveValue + ']' + _activeEntity.getItems().getActionCost([_item,_entity.getItems().getItemAtSlot(_item.getSlotType()),_entity.getItems().getItemAtSlot(_item.getBlockedSlotType())]) + '[/color][/b] AP)'"
   },
   {
@@ -1956,7 +1956,7 @@
     "key": "\n\nRepairing all your equipment will take [color=",
     "original": "\n\nRepairing all your equipment will take [color=",
     "translation": "\n\n修理你所有装备需要[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "desc = desc + '\n\nRepairing all your equipment will take [color=' + this.Const.UI.Color.PositiveValue + ']' + repair.Hours + '[/color] hours and requires '"
   },
   {
@@ -1988,7 +1988,7 @@
     "key": "[/color] crowns will last you for [color=",
     "original": "[/color] crowns will last you for [color=",
     "translation": "[/color] 克朗还能撑上 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou pay out [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyMoney + '[/color] crowns per day. Your [color=' + this.Const.UI.Color.PositiveValue + ']' + money + '[/color] crowns will last you for [color=' + this.Const.UI.Color.PositiveValue + ']' + time + '[/color] more days.'"
   },
   {
@@ -2211,7 +2211,7 @@
     "ID": 293423229,
     "key": "]This DLC is missing. It's available for free on Steam and GOG![/color]",
     "original": "]This DLC is missing. It's available for free on Steam and GOG![/color]",
-    "translation": "]此DLC缺失。 在Steam和GOG上免费提供！[/color]",
+    "translation": "]缺失此DLC。 在Steam和GOG上免费提供！[/color]",
     "stage": 5,
     "context": "ret[1][7] += '\n\n[color=' + this.Const.UI.Color.NegativeValue + \"]This DLC is missing. It's available for free on Steam and GOG![/color]\""
   },
@@ -2363,8 +2363,8 @@
     "ID": 293423248,
     "key": "]You are almost out of provisions to feed your men! Buy new provisions as fast as possible or your men will desert you one by one before they starve![/color]",
     "original": "]You are almost out of provisions to feed your men! Buy new provisions as fast as possible or your men will desert you one by one before they starve![/color]",
-    "translation": "]你快要没有足够的食物养活你的人了！ 尽快购买新的食物，否则你的人会在饿死之前一个接一个地抛弃你！[/color]",
-    "stage": 1,
+    "translation": "]你快要断粮了！ 尽快购买新的食物，否则你的人会在饿死之前一个接一个地抛弃你！[/color]",
+    "stage": 5,
     "context": "text = 'The total amount of provisions you carry. The average man requires 2 provisions per day and more on difficult terrain. Your men will eat the provisions closest to expiring first. Running out of provisions will lower morale and will eventually lead to your people deserting you before dying of starvation.\n\nYou use [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyFood + '[/color] provisions per day.\n\n[color=' + this.Const.UI.Color.NegativeValue + ']You are almost out of provisions to feed your men! Buy new provisions as fast as possible or your men will desert you one by one before they starve![/color]'"
   },
   {
@@ -2443,8 +2443,8 @@
     "ID": 293423258,
     "key": "]You have no more crowns to pay your men with! Earn some crowns fast or let some people go before they desert you one by one.[/color]",
     "original": "]You have no more crowns to pay your men with! Earn some crowns fast or let some people go before they desert you one by one.[/color]",
-    "translation": "]你没有足够的克朗付给你的人了！ 要么赶快赚钱，要么在他们陆续抛弃你之前开掉一些。[/color]",
-    "stage": 1,
+    "translation": "]你付不起手下的工资了！要么赶快赚钱，要么在他们陆续抛弃你之前开除掉一些。[/color]",
+    "stage": 5,
     "context": "text = 'The amount of coin your mercenary company has. Used to pay every man daily, as well as to hire new men and purchase equipment.\n\nYou pay out [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyMoney + '[/color] crowns per day.\n\n[color=' + this.Const.UI.Color.NegativeValue + ']You have no more crowns to pay your men with! Earn some crowns fast or let some people go before they desert you one by one.[/color]'"
   },
   {
@@ -2604,7 +2604,7 @@
     "key": " more perk points are spent",
     "original": " more perk points are spent",
     "translation": "个特技点后解锁",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Locked until ' + perk.Unlocks - player.getPerkPointsSpent() + ' more perk points are spent'"
   },
   {
@@ -2636,7 +2636,7 @@
     "key": "The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou pay out [color=",
     "original": "The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou pay out [color=",
     "translation": "你的佣兵战团拥有的钱币数量。用于每天中午时支付日薪，或是雇佣新人、购买装备。\n\n日薪支出为 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'The amount of coin your mercenary company has. Used to pay every man daily at noon, as well as to hire new people and purchase equipment.\n\nYou pay out [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyMoney + '[/color] crowns per day. Your [color=' + this.Const.UI.Color.PositiveValue + ']' + money + '[/color] crowns will last you for [color=' + this.Const.UI.Color.PositiveValue + ']' + time + '[/color] more days.'"
   },
   {
@@ -2891,8 +2891,8 @@
     "ID": 293423314,
     "key": "Faster AI Movement",
     "original": "Faster AI Movement",
-    "translation": "更快的AI移动",
-    "stage": 1,
+    "translation": "AI移动速度更快",
+    "stage": 5,
     "context": "text = 'Faster AI Movement'"
   },
   {
@@ -3052,7 +3052,7 @@
     "key": "[/color] and [color=",
     "original": "[/color] and [color=",
     "translation": "[/color]到[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "desc = desc + '\n\nHealing up all your men will take between [color=' + this.Const.UI.Color.PositiveValue + ']' + heal.DaysMin + '[/color] and [color=' + this.Const.UI.Color.PositiveValue + ']' + heal.DaysMax + '[/color] days and requires between '"
   },
   {
@@ -3107,8 +3107,8 @@
     "ID": 293423341,
     "key": "]You have no more provisions to feed your men! Buy new provisions as fast as possible or your men will desert you one by one before they starve![/color]",
     "original": "]You have no more provisions to feed your men! Buy new provisions as fast as possible or your men will desert you one by one before they starve![/color]",
-    "translation": "]你没有足够的食物来养活你的人！尽快购买新的食物，否则你的人会在饿死之前陆续抛弃你！[/color]",
-    "stage": 1,
+    "translation": "]已经断粮了！尽快购买新的食物，否则你的人会在饿死之前陆续抛弃你！[/color]",
+    "stage": 5,
     "context": "text = 'The total amount of provisions you carry. The average man requires 2 provisions per day and more on difficult terrain. Your men will eat the provisions closest to expiring first. Running out of provisions will lower morale and will eventually lead to your people deserting you before dying of starvation.\n\nYou use [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyFood + '[/color] provisions per day.\n\n[color=' + this.Const.UI.Color.NegativeValue + ']You have no more provisions to feed your men! Buy new provisions as fast as possible or your men will desert you one by one before they starve![/color]'"
   },
   {
@@ -3204,7 +3204,7 @@
     "key": "[/color][/b] Fatigue to traverse because it is at a different height level",
     "original": "[/color][/b] Fatigue to traverse because it is at a different height level",
     "translation": "[/color][/b] 点疲劳（高度落差）",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Costs [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getActionPointCosts()[lastTileHovered.Type] + '+' + actor.getLevelActionPointCost() + '[/color][/b] AP and [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getFatigueCosts()[lastTileHovered.Type] + '+' + actor.getLevelFatigueCost() + '[/color][/b] Fatigue to traverse because it is at a different height level'"
   },
   {
@@ -3228,7 +3228,7 @@
     "key": "[/color] provisions per day. Your [color=",
     "original": "[/color] provisions per day. Your [color=",
     "translation": "[/color]点食物。你的[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'The total amount of provisions you carry. The average man requires 2 provisions per day and more on difficult terrain. Your men will eat the provisions closest to expiring first. Running out of provisions will lower morale and will eventually lead to your people deserting you before dying of starvation.\n\nYou use [color=' + this.Const.UI.Color.PositiveValue + ']' + dailyFood + '[/color] provisions per day. Your [color=' + this.Const.UI.Color.PositiveValue + ']' + food + '[/color] provisions will last you for [color=' + this.Const.UI.Color.PositiveValue + ']' + time + '[/color] more days at most. Keep in mind that individual provisions will eventually turn bad!'"
   },
   {
@@ -3236,7 +3236,7 @@
     "key": "Show or hide the footprints left by other parties roaming the world so you can follow or avoid them more easily.",
     "original": "Show or hide the footprints left by other parties roaming the world so you can follow or avoid them more easily.",
     "translation": "显示或隐藏其他队伍在世界上留下的足迹，以便你追踪或躲避他们。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Show or hide the footprints left by other parties roaming the world so you can follow or avoid them more easily.'"
   },
   {
@@ -3244,7 +3244,7 @@
     "key": "Ground",
     "original": "Ground",
     "translation": "地面",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Ground'"
   },
   {
@@ -3252,7 +3252,7 @@
     "key": "Show Factions & Relations (R)",
     "original": "Show Factions & Relations (R)",
     "translation": "显示派系和关系 (R)",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Show Factions & Relations (R)'"
   },
   {
@@ -3260,23 +3260,23 @@
     "key": "Kennel",
     "original": "Kennel",
     "translation": "驯犬屋",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Kennel'"
   },
   {
     "ID": 293423361,
     "key": "Always render the top of trees and other large map objects semi-transparent, as opposed to only when they're actually occluding something.",
     "original": "Always render the top of trees and other large map objects semi-transparent, as opposed to only when they're actually occluding something.",
-    "translation": "始终以半透明显示树木和其他大型地图对象的顶部，反选此选项将仅在它们遮挡对象时启用此效果。",
-    "stage": 1,
+    "translation": "始终以半透明显示树木和其他大型地图物体的顶部，反选此选项将仅在它们遮挡其他物体时启用此效果。",
+    "stage": 5,
     "context": "text = \"Always render the top of trees and other large map objects semi-transparent, as opposed to only when they're actually occluding something.\""
   },
   {
     "ID": 293423362,
     "key": "You need at least 3 empty inventory slots to fight in the arena",
     "original": "You need at least 3 empty inventory slots to fight in the arena",
-    "translation": "你需要至少3个空的仓库栏位在才能在竞技场战斗",
-    "stage": 1,
+    "translation": "你需要至少3个空的仓库栏位在才能参与竞技场战斗",
+    "stage": 5,
     "context": "text = 'You need at least 3 empty inventory slots to fight in the arena'"
   },
   {
@@ -3284,7 +3284,7 @@
     "key": "Customize the appearance of your men at the barber. Have their hair cut and their beards trimmed or buy dubious potions to lose weight.",
     "original": "Customize the appearance of your men at the barber. Have their hair cut and their beards trimmed or buy dubious potions to lose weight.",
     "translation": "在理发店定制你的人的外表。 剪掉头发，修剪胡须，或者买些不可靠的药剂来减肥。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Customize the appearance of your men at the barber. Have their hair cut and their beards trimmed or buy dubious potions to lose weight.'"
   },
   {
@@ -3292,7 +3292,7 @@
     "key": "You'll start with fewer crowns and resources.\n\nRecommended for expert players.",
     "original": "You'll start with fewer crowns and resources.\n\nRecommended for expert players.",
     "translation": "起始时拥有的克朗和资源更少。\n\n推荐给专家级玩家。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = \"You'll start with fewer crowns and resources.\n\nRecommended for expert players.\""
   },
   {
@@ -3300,22 +3300,22 @@
     "key": "Will heal in [color=",
     "original": "Will heal in [color=",
     "translation": "将在[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Will heal in [color=' + this.Const.UI.Color.NegativeValue + ']' + entity.getDaysWounded() + '[/color] days'"
   },
   {
     "ID": 293423366,
     "key": "Characters gain experience as they or their allies slay enemies in battles. If a character has accumulated sufficient experience, he'll level up and be able to increase his attributes and pick a perk that grants a unique bonus.\n\nBeyond the 11th character ",
     "original": "Characters gain experience as they or their allies slay enemies in battles. If a character has accumulated sufficient experience, he'll level up and be able to increase his attributes and pick a perk that grants a unique bonus.\n\nBeyond the 11th character level, characters are veterans and will no longer gain perk points, but can still continue to improve.",
-    "translation": "角色能在自己或队友杀敌时获得经验。如果角色积累了足够经验，他的等级会得到提高，能够提高自己的属性，选择一项能带来独特加成的特技。\n\n在角色11级之后，角色将成为老兵，不再获得特技点，但仍可有所提高。",
-    "stage": 1,
+    "translation": "角色能在自己或队友杀敌时获得经验。如果角色积累了足够经验，他会升级并提高自己的属性，还能选择一项能带来独特加成的特技。\n\n角色在11级之后将成为老兵，不再获得特技点，但仍可有所提高。",
+    "stage": 5,
     "context": "text = \"Characters gain experience as they or their allies slay enemies in battles. If a character has accumulated sufficient experience, he'll level up and be able to increase his attributes and pick a perk that grants a unique bonus.\n\nBeyond the 11th character level, characters are veterans and will no longer gain perk points, but can still continue to improve.\""
   },
   {
     "ID": 293423367,
     "key": "Your reputation reflects how people in the world judge your mercenary company to conduct itself based on past actions. Do you show mercy to your enemies? Do you burn down farmsteads and massacre the peasantry? Based on your reputation, people may offer yo",
     "original": "Your reputation reflects how people in the world judge your mercenary company to conduct itself based on past actions. Do you show mercy to your enemies? Do you burn down farmsteads and massacre the peasantry? Based on your reputation, people may offer you different kinds of contracts, and both contracts and events may play out differently.",
-    "translation": "你的声誉反映了世界上的人们如何根据过去的行为评判你的雇佣兵战团。你对敌人是否仁慈？你是否烧毁农舍、屠杀农民？根据你的声誉，人们可能会向你提供不同种类的合同，合同和事件的发展也可能会有所不同。",
+    "translation": "你的声誉反映了普罗大众如何根据过去的行为评判你的雇佣兵战团。你对敌人是否仁慈？你是否烧毁农舍、屠杀农民？根据你的声誉，人们可能会向你提供不同种类的合同，合同和事件的发展也可能会有所不同。",
     "stage": 5,
     "context": "text = 'Your reputation reflects how people in the world judge your mercenary company to conduct itself based on past actions. Do you show mercy to your enemies? Do you burn down farmsteads and massacre the peasantry? Based on your reputation, people may offer you different kinds of contracts, and both contracts and events may play out differently.'"
   },
@@ -3332,7 +3332,7 @@
     "key": "Maximum Fatigue",
     "original": "Maximum Fatigue",
     "translation": "疲劳值上限",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Maximum Fatigue'"
   },
   {
@@ -3340,7 +3340,7 @@
     "key": "Show only supplies, food, treasure and miscellaneous.",
     "original": "Show only supplies, food, treasure and miscellaneous.",
     "translation": "只显示补给、食物、贵重物品和其他物品。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Show only supplies, food, treasure and miscellaneous.'"
   },
   {
@@ -3348,7 +3348,7 @@
     "key": "Set item not to be repaired",
     "original": "Set item not to be repaired",
     "translation": "设置物品为不修理状态",
-    "stage": 1,
+    "stage": 5,
     "context": "text = _item.isToBeRepaired() ? 'Set item not to be repaired' : 'Set item to be repaired'"
   },
   {
@@ -3356,7 +3356,7 @@
     "key": "Open menu to save or load your game, adjust game options or quit the campaign and return to the main menu.",
     "original": "Open menu to save or load your game, adjust game options or quit the campaign and return to the main menu.",
     "translation": "打开菜单后，你可以保存或加载游戏，调整游戏选项或退出战役并返回主菜单。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Open menu to save or load your game, adjust game options or quit the campaign and return to the main menu.'"
   },
   {
@@ -3364,7 +3364,7 @@
     "key": "Resolve represents the willpower and bravery of characters. The higher, the less likely that characters fall to lower morale states at negative events, and the more likely that characters gain confidence from positive events. Resolve also acts as defense ",
     "original": "Resolve represents the willpower and bravery of characters. The higher, the less likely that characters fall to lower morale states at negative events, and the more likely that characters gain confidence from positive events. Resolve also acts as defense against certain mental attacks that inflict panic, fear or mind control. See also: Morale.",
     "translation": "决心代表着角色的意志力和勇气。该值越高，角色越不容易因消极事件降低士气，越容易从积极事件中获得信心。决心也可以用于防御会造成恐慌，恐惧或精神控制的精神攻击。另见：士气。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Resolve represents the willpower and bravery of characters. The higher, the less likely that characters fall to lower morale states at negative events, and the more likely that characters gain confidence from positive events. Resolve also acts as defense against certain mental attacks that inflict panic, fear or mind control. See also: Morale.'"
   },
   {
@@ -3380,7 +3380,7 @@
     "key": "Drop item on ground ([b][color=",
     "original": "Drop item on ground ([b][color=",
     "translation": "将物品放在地上 ([b][color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Drop item on ground ([b][color=' + this.Const.UI.Color.PositiveValue + ']' + _activeEntity.getItems().getActionCost([_item]) + '[/color][/b] AP)'"
   },
   {
@@ -3388,7 +3388,7 @@
     "key": "Click here to change the character's name and title.",
     "original": "Click here to change the character's name and title.",
     "translation": "单击此处更改角色的名称和头衔。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = \"Click here to change the character's name and title.\""
   },
   {
@@ -3404,7 +3404,7 @@
     "key": "sha256:c339bf736e4a210b1c5f923eacf99969dcda80adcf4753fce1902f7f4cfa4945",
     "original": "Perks",
     "translation": "特技",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Perks'"
   },
   {
@@ -3412,7 +3412,7 @@
     "key": "sha256:c83bec1f02849a09edc642f2d4226774435f1233abc8b85f7d559ba9d022f570",
     "original": "Fatigue",
     "translation": "疲劳值",
-    "stage": 1,
+    "stage": 5,
     "context": "text = \"Fatigue\""
   },
   {
@@ -3420,15 +3420,15 @@
     "key": "sha256:91470cd754d5f19c71059cc2d78b2ce70f484ec1d702bd8cdcd11b4407615180",
     "original": "Stash/Ground",
     "translation": "仓库/地面",
-    "stage": 1,
+    "stage": 5,
     "context": "text = \"Stash/Ground\""
   },
   {
     "ID": 629317982,
     "key": "88db53a63f827d82b96391635807887a97f8f2edcc50c0b49f5a3a1ede600912",
     "original": "Shows the current and maximum number of men placed in formation to fight in the next battle.\n\nDrag and drop your men to where you want them to be; the top row is the front facing the enemy, the second row is your back row, and the bottom row is your reserves of characters not taking part in battle.",
-    "translation": "显示当前及最大可布阵参战人数。\n\n将你的士兵拖放至预定位置；首排为面向敌人的前线，次排为后排，底排则为不参与战斗的预备队成员。",
-    "stage": 1,
+    "translation": "显示当前以及最大参战人数。\n\n将你的士兵拖放至预定位置；顶排为面向敌人的前线，次排为后排，底排则为不参与战斗的预备队成员。",
+    "stage": 5,
     "context": "text = \"Shows the current and maximum number of men placed in formation to fight in the next battle.\n\nDrag and drop your men to where you want them to be; the top row is the front facing the enemy, the second row is your back row, and the bottom row is your reserves of characters not taking part in battle.\""
   }
 ]

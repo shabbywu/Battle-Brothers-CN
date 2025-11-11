@@ -27,16 +27,16 @@
     "ID": 293403489,
     "key": "Gain a renown of at least 'Recognized' (250) to unlock the first slot for a non-combat follower in your retinue. You can increase your renown by completing contracts and winning battles. Then, hire a non-combat follower in the retinue screen. Some followe",
     "original": "Gain a renown of at least 'Recognized' (250) to unlock the first slot for a non-combat follower in your retinue. You can increase your renown by completing contracts and winning battles. Then, hire a non-combat follower in the retinue screen. Some followers require you to fulfill specific prerequisites to unlock their services.",
-    "translation": "至少达到“初露锋芒”（250）名望，解锁第一个非战斗随从席位。你可以通过完成合同和赢得战斗来提高自己的名望。随后，在随从界面中雇佣一名非战斗随从。有时你需要先满足一些条件，才能让特定随从为你服务。",
-    "stage": 1,
+    "translation": "至少达到“初露锋芒”（250）名望，解锁第一个非战斗随从席位。你可以通过完成合同和赢得战斗来提高自己的名望。随后，在随从界面中雇佣一名非战斗随从。有些随从需要你先满足一些条件才能雇佣。",
+    "stage": 5,
     "context": "this.m.TooltipText = \"Gain a renown of at least 'Recognized' (250) to unlock the first slot for a non-combat follower in your retinue. You can increase your renown by completing contracts and winning battles. Then, hire a non-combat follower in the retinue screen. Some followers require you to fulfill specific prerequisites to unlock their services.\""
   },
   {
     "ID": 293403490,
     "key": "Hire someone for your retinue of non-combat followers",
     "original": "Hire someone for your retinue of non-combat followers",
-    "translation": "为随行队伍雇佣一位非战斗追随者",
-    "stage": 1,
+    "translation": "雇佣一名非战斗人员作为你的随从",
+    "stage": 5,
     "context": "this.m.UIText = 'Hire someone for your retinue of non-combat followers'"
   }
 ]

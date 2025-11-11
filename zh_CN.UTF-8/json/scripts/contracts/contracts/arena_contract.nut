@@ -43,7 +43,7 @@
     "ID": 293407772,
     "key": "The arena master holds up a scroll and taps it with a hook for a hand.%SPEECH_ON%A blade dancer of the nomad tribes is on the docket. Now, he might look a bit foppish, but to get the title of 'blade dancer' you must be as articulate with the blade as a bi",
     "original": "The arena master holds up a scroll and taps it with a hook for a hand.%SPEECH_ON%A blade dancer of the nomad tribes is on the docket. Now, he might look a bit foppish, but to get the title of 'blade dancer' you must be as articulate with the blade as a bird is with the wind. Dancing expertise is optional, but they're all pretty good at that, too.%SPEECH_OFF%",
-    "translation": "竞技场主用钩状义肢敲了敲手中的卷轴。%SPEECH_ON%这一轮登场的将是来自游牧部族的刀锋舞者。虽说看着有些花哨，但只有挥舞起刀剑来都像鸟儿乘风一样自然的人，才能获得“刀锋舞者”的头衔。当然，舞蹈技巧不是必要条件，不过他们这方面也都不赖。%SPEECH_OFF%",
+    "translation": "竞技场主用钩状义肢敲了敲手中的卷轴。%SPEECH_ON%这一轮登场的是来自游牧部族的刀锋舞者。虽说看着有些花哨，但只有挥舞起刀剑来都像鸟儿乘风一样自然的人，才能获得“刀锋舞者”的头衔。当然，舞艺精湛不是必要条件，不过他们这方面也都不赖。%SPEECH_OFF%",
     "stage": 5,
     "context": "this[2] += \"The arena master holds up a scroll and taps it with a hook for a hand.%SPEECH_ON%A blade dancer of the nomad tribes is on the docket. Now, he might look a bit foppish, but to get the title of 'blade dancer' you must be as articulate with the blade as a bird is with the wind. Dancing expertise is optional, but they're all pretty good at that, too.%SPEECH_OFF%\""
   },
@@ -299,7 +299,7 @@
     "ID": 293407804,
     "key": "%SPEECH_ON%I believe northerners refer to him as a 'hate knight.' Might have that wrong. Don't tell the other arena masters I said this about northern trash, but this knight is one of the most dangerous men I've seen come through here and if you wish your",
     "original": "%SPEECH_ON%I believe northerners refer to him as a 'hate knight.' Might have that wrong. Don't tell the other arena masters I said this about northern trash, but this knight is one of the most dangerous men I've seen come through here and if you wish your path to continue being gilded then I suggest you make sharp preparations and get a good rest before the fight.%SPEECH_OFF%",
-    "translation": "%SPEECH_ON%我听说北方人管他叫“雇凶骑士”。可能我记错了。别告诉其他竞技场主我这么说北方佬——但这骑士确实是我见过最危险的人。要是你不想你的镀金之路就此了结，我劝你趁早磨利家伙，开打前好好养精蓄锐。%SPEECH_OFF%",
+    "translation": "%SPEECH_ON%我听说北方人管他叫‘牛郎骑士’。可能我听错了。别告诉其他竞技场主我这么说北方佬——但这骑士可不是什么花架子，是实打实的危险。要是你不想你的镀金之路就此了结，我劝你趁早磨利家伙，开打前好好养精蓄锐。%SPEECH_OFF%",
     "stage": 5,
     "context": "this[2] += \"%SPEECH_ON%I believe northerners refer to him as a 'hate knight.' Might have that wrong. Don't tell the other arena masters I said this about northern trash, but this knight is one of the most dangerous men I've seen come through here and if you wish your path to continue being gilded then I suggest you make sharp preparations and get a good rest before the fight.%SPEECH_OFF%\""
   },
