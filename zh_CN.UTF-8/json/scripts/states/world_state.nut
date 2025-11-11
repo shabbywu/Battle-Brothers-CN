@@ -244,7 +244,7 @@
     "key": "World Speed set to x8.0",
     "original": "World Speed set to x8.0",
     "translation": "世界速度设置为x8.0。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logDebug('World Speed set to x8.0')"
   },
   {

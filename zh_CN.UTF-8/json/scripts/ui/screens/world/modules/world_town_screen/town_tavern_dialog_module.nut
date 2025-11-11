@@ -4,7 +4,7 @@
     "key": "Pay for a round to get the patrons to share more news and rumors ([img]gfx/ui/tooltips/money.png[/img]",
     "original": "Pay for a round to get the patrons to share more news and rumors ([img]gfx/ui/tooltips/money.png[/img]",
     "translation": "请酒客们喝上一轮，让他们多分享些新鲜事 ([img]gfx/ui/tooltips/money.png[/img]",
-    "stage": 1,
+    "stage": 5,
     "context": "LeftInfo = 'Pay for a round to get the patrons to share more news and rumors ([img]gfx/ui/tooltips/money.png[/img]' + this.Math.round(20 * this.m.Tavern.getSettlement().getBuyPriceMult()) + ').'"
   },
   {

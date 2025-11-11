@@ -28,7 +28,7 @@
     "key": "Losing named shields to orcs? Hire a blacksmith for your retinue and repair any item, even if its durability reaches zero.",
     "original": "Losing named shields to orcs? Hire a blacksmith for your retinue and repair any item, even if its durability reaches zero.",
     "translation": "著名盾牌毁于兽人之手？为你的战团雇一名铁匠，耐久度归零的物品他也能修好。",
-    "stage": 1,
+    "stage": 5,
     "context": "'Losing named shields to orcs? Hire a blacksmith for your retinue and repair any item, even if its durability reaches zero.'"
   },
   {
@@ -59,8 +59,8 @@
     "ID": 293410163,
     "key": "Hire non-combat followers for your retinue to customize your campaign to your playstyle.",
     "original": "Hire non-combat followers for your retinue to customize your campaign to your playstyle.",
-    "translation": "雇佣非战斗追随者加入随行人员，根据游戏风格定制你的战役。",
-    "stage": 1,
+    "translation": "雇佣非战斗人员作为随从，根据游戏风格定制你的战役。",
+    "stage": 5,
     "context": "'Hire non-combat followers for your retinue to customize your campaign to your playstyle.'"
   },
   {
@@ -132,7 +132,7 @@
     "key": "You unlock slots for your retinue of non-combat followers by gaining Renown.",
     "original": "You unlock slots for your retinue of non-combat followers by gaining Renown.",
     "translation": "你可以通过获得名望来解锁非战斗随从席位。",
-    "stage": 1,
+    "stage": 5,
     "context": "'You unlock slots for your retinue of non-combat followers by gaining Renown.'"
   },
   {
@@ -147,7 +147,7 @@
     "ID": 293410174,
     "key": "Try out different retinue followers to find those that complement your playstyle and chosen company origin.",
     "original": "Try out different retinue followers to find those that complement your playstyle and chosen company origin.",
-    "translation": "尝试不同的追随者，找到适合你游戏风格和所选战团起源的组合。",
+    "translation": "尝试不同的随从，找到适合你游戏风格和所选战团起源的组合。",
     "stage": 5,
     "context": "'Try out different retinue followers to find those that complement your playstyle and chosen company origin.'"
   },

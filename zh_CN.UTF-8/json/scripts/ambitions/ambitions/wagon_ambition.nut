@@ -19,8 +19,8 @@
     "ID": 293403569,
     "key": "You gain 27 additional inventory slots",
     "original": "You gain 27 additional inventory slots",
-    "translation": "你获得了27个额外的仓库空位",
-    "stage": 1,
+    "translation": "你获得了27个额外的仓库栏位",
+    "stage": 5,
     "context": "text = 'You gain 27 additional inventory slots'"
   },
   {

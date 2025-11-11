@@ -5643,8 +5643,8 @@
     "ID": 293406341,
     "key": "Unlocks the 'Footwork' skill which allows you to leave a Zone of Control without triggering free attacks by using skillful footwork.",
     "original": "Unlocks the 'Footwork' skill which allows you to leave a Zone of Control without triggering free attacks by using skillful footwork.",
-    "translation": "解锁“步法”技能，使您可以通过熟练的步法离开控制区域而不会触发免费借机攻击。",
-    "stage": 1,
+    "translation": "解锁“步法”技能，使您可以通过熟练的步法离开敌方控制区而不会触发借机攻击。",
+    "stage": 5,
     "context": "Footwork = \"Unlocks the 'Footwork' skill which allows you to leave a Zone of Control without triggering free attacks by using skillful footwork.\""
   },
   {
@@ -7339,8 +7339,8 @@
     "ID": 293406553,
     "key": "]25%[/color] less Fatigue.\n\nSpearwall is no longer disabled once an opponent manages to overcome it. Instead, Spearwall can still be used and continues to give free attacks on any further opponent attempting to enter the Zone of Control.\n\nThe Spetum and W",
     "original": "]25%[/color] less Fatigue.\n\nSpearwall is no longer disabled once an opponent manages to overcome it. Instead, Spearwall can still be used and continues to give free attacks on any further opponent attempting to enter the Zone of Control.\n\nThe Spetum and Warfork no longer have a penalty for attacking targets directly adjacent.",
-    "translation": "]25%[/color]\n\n“矛墙”不再因敌人成功进入控制区域而立即失效。此外，“矛墙”仍可主动启用，并继续对其他试图进入控制区域的敌人进行免费攻击。\n\n使用三叉矛和战叉攻击近身敌人不再有命中率惩罚。",
-    "stage": 1,
+    "translation": "]25%[/color]\n\n“矛墙”不再因敌人成功进入控制区而立即失效。此外，“矛墙”仍可主动启用，并继续对其他试图进入控制区域的敌人进行自动攻击。\n\n使用三叉矛和战叉攻击近身敌人不再有命中率惩罚。",
+    "stage": 5,
     "context": "SpecSpear = 'Master fighting with spears and keeping the enemy at bay. Skills build up [color=' + this.Const.UI.Color.NegativeValue + ']25%[/color] less Fatigue.\n\nSpearwall is no longer disabled once an opponent manages to overcome it. Instead, Spearwall can still be used and continues to give free attacks on any further opponent attempting to enter the Zone of Control.\n\nThe Spetum and Warfork no longer have a penalty for attacking targets directly adjacent.'"
   },
   {
@@ -9660,7 +9660,7 @@
     "key": "Unlocks the 'Rotation' skill which allows two characters to switch places while ignoring Zone of Control as long as neither character is stunned, rooted or otherwise disabled.",
     "original": "Unlocks the 'Rotation' skill which allows two characters to switch places while ignoring Zone of Control as long as neither character is stunned, rooted or otherwise disabled.",
     "translation": "解锁“换位”技能，该技能允许两个角色在无视控制区域的情况下切换位置，前提是两个角色都没有被击晕、定身或因其他方式失能。",
-    "stage": 1,
+    "stage": 5,
     "context": "Rotation = \"Unlocks the 'Rotation' skill which allows two characters to switch places while ignoring Zone of Control as long as neither character is stunned, rooted or otherwise disabled.\""
   },
   {

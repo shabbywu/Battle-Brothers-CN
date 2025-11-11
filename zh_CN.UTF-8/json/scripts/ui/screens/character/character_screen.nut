@@ -12,15 +12,15 @@
     "key": "Failed to equip bag item.",
     "original": "Failed to equip bag item.",
     "translation": "未能装备背包物品。",
-    "stage": 1,
+    "stage": 5,
     "context": "errorString = 'Failed to equip bag item.'"
   },
   {
     "ID": 293422916,
     "key": " get reparations for his time",
     "original": " get reparations for his time",
-    "translation": "根据服役时间获得了补偿",
-    "stage": 1,
+    "translation": "根据服役时间获得了补偿而感到高兴",
+    "stage": 5,
     "context": "other.improveMood(this.Const.MoodChange.SlaveCompensated, 'Glad to see ' + bro.getName() + ' get reparations for his time')"
   },
   {
@@ -28,7 +28,7 @@
     "key": "Item is not changable in battle.",
     "original": "Item is not changable in battle.",
     "translation": "物品在战斗中无法更换。",
-    "stage": 1,
+    "stage": 5,
     "context": "errorString = 'Item is not changable in battle.'"
   },
   {
@@ -51,8 +51,8 @@
     "ID": 293422920,
     "key": "Glad to see ",
     "original": "Glad to see ",
-    "translation": "高兴",
-    "stage": 1,
+    "translation": "因",
+    "stage": 5,
     "context": "other.improveMood(this.Const.MoodChange.SlaveCompensated, 'Glad to see ' + bro.getName() + ' get reparations for his time')"
   },
   {
@@ -67,8 +67,8 @@
     "ID": 293422922,
     "key": "Undefined error.",
     "original": "Undefined error.",
-    "translation": "未定义的错误。",
-    "stage": 1,
+    "translation": "未知错误。",
+    "stage": 5,
     "context": "local errorString = 'Undefined error.'"
   },
   {
@@ -76,7 +76,7 @@
     "key": "Failed to find entity.",
     "original": "Failed to find entity.",
     "translation": "未能找到实体。",
-    "stage": 1,
+    "stage": 5,
     "context": "errorString = 'Failed to find entity.'"
   },
   {
@@ -148,7 +148,7 @@
     "key": "Failed to remove item from bag.",
     "original": "Failed to remove item from bag.",
     "translation": "未能从背包中移除物品。",
-    "stage": 1,
+    "stage": 5,
     "context": "errorString = 'Failed to remove item from bag.'"
   },
   {
@@ -164,7 +164,7 @@
     "key": "Failed to unlock perk.",
     "original": "Failed to unlock perk.",
     "translation": "未能解锁特技。",
-    "stage": 1,
+    "stage": 5,
     "context": "errorString = 'Failed to unlock perk.'"
   },
   {
@@ -180,7 +180,7 @@
     "key": "Item already within bag.",
     "original": "Item already within bag.",
     "translation": "物品已在背包中。",
-    "stage": 1,
+    "stage": 5,
     "context": "errorString = 'Item already within bag.'"
   },
   {
@@ -188,7 +188,7 @@
     "key": "Failed to equip ground item.",
     "original": "Failed to equip ground item.",
     "translation": "未能装备地上物品。",
-    "stage": 1,
+    "stage": 5,
     "context": "errorString = 'Failed to equip ground item.'"
   },
   {
@@ -204,7 +204,7 @@
     "key": "Not enough Action Points.",
     "original": "Not enough Action Points.",
     "translation": "行动点数不足。",
-    "stage": 1,
+    "stage": 5,
     "context": "errorString = 'Not enough Action Points.'"
   },
   {
@@ -212,7 +212,7 @@
     "key": "Not enough bag space.",
     "original": "Not enough bag space.",
     "translation": "背包空间不足。",
-    "stage": 1,
+    "stage": 5,
     "context": "errorString = 'Not enough bag space.'"
   },
   {
@@ -228,7 +228,7 @@
     "key": "Dismissed ",
     "original": "Dismissed ",
     "translation": "你解雇了",
-    "stage": 1,
+    "stage": 5,
     "context": "other.worsenMood(this.Const.MoodChange.BrotherDismissed, 'Dismissed ' + bro.getName())"
   }
 ]
