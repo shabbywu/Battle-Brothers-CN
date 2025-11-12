@@ -28,7 +28,7 @@
     "key": "Makes you pay 10% less up front for hiring new men, and 50% less for tryouts",
     "original": "Makes you pay 10% less up front for hiring new men, and 50% less for tryouts",
     "translation": "使新人雇佣费减少10%，测验费减少50%",
-    "stage": 1,
+    "stage": 5,
     "context": "'Makes you pay 10% less up front for hiring new men, and 50% less for tryouts'"
   },
   {

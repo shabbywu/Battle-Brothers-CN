@@ -27,8 +27,8 @@
     "ID": 293418674,
     "key": "]+10%[/color] Experience Gain for Indebted",
     "original": "]+10%[/color] Experience Gain for Indebted",
-    "translation": "]+10%[/color] 负债者经验获取",
-    "stage": 1,
+    "translation": "]+10%[/color]负债者经验获取",
+    "stage": 5,
     "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+10%[/color] Experience Gain for Indebted'"
   },
   {

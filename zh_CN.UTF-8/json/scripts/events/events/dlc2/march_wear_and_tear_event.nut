@@ -19,8 +19,8 @@
     "ID": 293413969,
     "key": "[/color] Medical Supplies.",
     "original": "[/color] Medical Supplies.",
-    "translation": "[/color]医疗用品。",
-    "stage": 1,
+    "translation": "[/color]点医疗用品。",
+    "stage": 5,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']-' + amount + '[/color] Medical Supplies.'"
   },
   {
@@ -44,7 +44,7 @@
     "key": "You gain [color=",
     "original": "You gain [color=",
     "translation": "你获得了[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']-' + amount + '[/color] Medical Supplies.'"
   },
   {
@@ -132,7 +132,7 @@
     "key": "You lose [color=",
     "original": "You lose [color=",
     "translation": "你失去了[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']-' + amount + '[/color] Medical Supplies.'"
   },
   {

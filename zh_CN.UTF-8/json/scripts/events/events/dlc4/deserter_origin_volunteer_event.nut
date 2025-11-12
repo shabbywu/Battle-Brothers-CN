@@ -27,8 +27,8 @@
     "ID": 293414246,
     "key": "[/color] Medical Supplies",
     "original": "[/color] Medical Supplies",
-    "translation": "[/color] 医疗用品",
-    "stage": 1,
+    "translation": "[/color]医疗用品",
+    "stage": 5,
     "context": "text = 'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']-' + amount + '[/color] Medical Supplies'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "You lose [color=",
     "original": "You lose [color=",
     "translation": "你失去了[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'You lose [color=' + this.Const.UI.Color.NegativeEventValue + ']-' + amount + '[/color] Medical Supplies'"
   },
   {
@@ -134,11 +134,5 @@
     "translation": "在路上……",
     "stage": 5,
     "context": "this.m.Title = 'Along the road...'"
-  },
-  {
-    "key": "bd8b4ff2c4f6a293ecd8e8c1620ceb278116547e20957556f32869fb94abedfe",
-    "original": "Running from bounty hunters and executioners for some time, %name% bumped into your company on the road and promptly volunteered.",
-    "translation": "",
-    "context": "_event.m.Dude1.getBackground().m.RawDescription = \"Running from bounty hunters and executioners for some time, %name% bumped into your company on the road and promptly volunteered.\""
   }
 ]

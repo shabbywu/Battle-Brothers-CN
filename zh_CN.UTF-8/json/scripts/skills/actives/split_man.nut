@@ -59,7 +59,7 @@
     "ID": 293420469,
     "key": "[/color] damage to armor",
     "original": "[/color] damage to armor",
-    "translation": "[/color] 护甲伤害",
+    "translation": "[/color] 点护甲伤害",
     "stage": 5,
     "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_armor_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_armor_max + '[/color] damage to armor'"
   },

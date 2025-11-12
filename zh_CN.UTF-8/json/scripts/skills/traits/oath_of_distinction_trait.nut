@@ -19,8 +19,8 @@
     "ID": 293422619,
     "key": "]0%[/color] Experience Gain for allied kills",
     "original": "]0%[/color] Experience Gain for allied kills",
-    "translation": "]0%[/color] 队友击杀分享经验",
-    "stage": 1,
+    "translation": "]0%[/color]队友击杀分享经验",
+    "stage": 5,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']0%[/color] Experience Gain for allied kills'"
   },
   {
