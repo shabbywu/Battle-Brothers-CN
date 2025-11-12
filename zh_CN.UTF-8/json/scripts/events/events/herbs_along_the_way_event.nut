@@ -52,7 +52,7 @@
     "key": "You gain [color=",
     "original": "You gain [color=",
     "translation": "你获得了[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + amount + '[/color] Medical Supplies'"
   },
   {
@@ -75,8 +75,8 @@
     "ID": 293416017,
     "key": "[/color] Medical Supplies",
     "original": "[/color] Medical Supplies",
-    "translation": "[/color] 医疗用品",
-    "stage": 1,
+    "translation": "[/color]医疗用品",
+    "stage": 5,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + amount + '[/color] Medical Supplies'"
   },
   {
