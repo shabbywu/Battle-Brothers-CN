@@ -44048,16 +44048,16 @@
         "format": "json",
         "total": 429,
         "translated": 426,
-        "disputed": 2,
+        "disputed": 1,
         "checked": 394,
         "reviewed": 394,
         "hidden": 3,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:05.329Z",
         "updatedAt": "2025-03-31T03:38:40.706Z",
-        "modifiedAt": "2025-11-11T13:06:40Z",
+        "modifiedAt": "2025-11-13T01:23:34Z",
         "hash": "2612c8f3831bcdbe23637975052d5fde",
-        "sha256": "ac4cedba063750fe6a57d25c408d9c34f313d59d80b8171253112aee5126d1b3"
+        "sha256": "12dde7b2af10e393c27f8c190f2933e26e84247e5a94e70f4b2c8b069de6d09e"
     },
     "scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.json": {
         "id": 920532,
