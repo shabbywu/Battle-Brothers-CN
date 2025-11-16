@@ -44,7 +44,7 @@
     "key": "the Pig",
     "original": "the Pig",
     "translation": "肥猪",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Pig'"
   },
   {

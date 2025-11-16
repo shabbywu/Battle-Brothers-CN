@@ -115,8 +115,8 @@
     "ID": 293422967,
     "key": "Fatigue is gained for every action, like moving or using skills, and when being hit in combat or dodging in melee. It is reduced at a fixed rate of 15 each turn or as much as necessary for a character to start every turn with 15 less than his maximum fati",
     "original": "Fatigue is gained for every action, like moving or using skills, and when being hit in combat or dodging in melee. It is reduced at a fixed rate of 15 each turn or as much as necessary for a character to start every turn with 15 less than his maximum fatigue. If a character accumulates too much fatigue they may need to rest a turn (i.e. do nothing) before being able to use more specialized skills again.",
-    "translation": "角色每做出一个动作，如移动或使用技能，就会累积疲劳值。此外，被击中或躲避近战攻击时也会累积。回合开始时，疲劳值会按照15的基础速率进行恢复，且至少会留出15点，确保角色能使用必要的技能，但最多减少到0。 如果一个角色积累了太多的疲劳值，他可能需要休息1回合（即什么都不做），然后才能再次使用更复杂的技能。",
-    "stage": 1,
+    "translation": "角色每做出一个动作，如移动或使用技能，就会累积疲劳值。此外，被击中或躲避近战攻击时也会累积。回合开始时，疲劳值会减少15点。疲劳值减少量会因特定原因有所增减，但每回合至少会恢复至比上限低15点，确保角色能使用必要的技能。 如果一个角色积累了太多的疲劳值，他可能需要休息1回合（即什么都不做），然后才能再次使用更复杂的技能。",
+    "stage": 5,
     "context": "text = 'Fatigue is gained for every action, like moving or using skills, and when being hit in combat or dodging in melee. It is reduced at a fixed rate of 15 each turn or as much as necessary for a character to start every turn with 15 less than his maximum fatigue. If a character accumulates too much fatigue they may need to rest a turn (i.e. do nothing) before being able to use more specialized skills again.'"
   },
   {
@@ -1516,7 +1516,7 @@
     "key": "Lord of ",
     "original": "Lord of ",
     "translation": "领主",
-    "stage": 2,
+    "stage": 5,
     "context": "text = 'Lord of ' + s.getName()"
   },
   {
@@ -1580,7 +1580,7 @@
     "key": "Up Front Costs",
     "original": "Up Front Costs",
     "translation": "先期付款",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Up Front Costs'"
   },
   {
@@ -2235,8 +2235,8 @@
     "ID": 293423232,
     "key": "Shows the current and maximum load of the stash, your global inventory.",
     "original": "Shows the current and maximum load of the stash, your global inventory.",
-    "translation": "显示仓库（全局物品）的当前运载量和运载量上限。",
-    "stage": 1,
+    "translation": "显示仓库的当前运载量和运载量上限。",
+    "stage": 5,
     "context": "text = 'Shows the current and maximum load of the stash, your global inventory.'"
   },
   {
@@ -2835,8 +2835,8 @@
     "ID": 293423307,
     "key": "Switch to viewing the global stash of your mercenary company, or the ground beneath the currently selected character while in combat.",
     "original": "Switch to viewing the global stash of your mercenary company, or the ground beneath the currently selected character while in combat.",
-    "translation": "切换到佣兵团仓库一览，或是战斗中选定角色下方的地面。",
-    "stage": 1,
+    "translation": "切换到佣兵团仓库，或是战斗中选定角色下方的地面。",
+    "stage": 5,
     "context": "text = 'Switch to viewing the global stash of your mercenary company, or the ground beneath the currently selected character while in combat.'"
   },
   {
@@ -2868,7 +2868,7 @@
     "key": "The base damage the currently equipped weapon does. Will be applied in full against hitpoints if no armor is protecting the target. If the target is protected by armor, the damage is applied to armor instead based on the weapon's effectiveness against arm",
     "original": "The base damage the currently equipped weapon does. Will be applied in full against hitpoints if no armor is protecting the target. If the target is protected by armor, the damage is applied to armor instead based on the weapon's effectiveness against armor. The actual damage done is modified by the skill used and the target hit.",
     "translation": "当前装备武器能造成的基本伤害。如果目标没有盔甲保护，该值将完全作用于生命值。 如果目标受到盔甲保护，则根据武器的破甲效率，对盔甲施加伤害。实际造成的伤害会因使用的技能和击中的目标而改变。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = \"The base damage the currently equipped weapon does. Will be applied in full against hitpoints if no armor is protecting the target. If the target is protected by armor, the damage is applied to armor instead based on the weapon's effectiveness against armor. The actual damage done is modified by the skill used and the target hit.\""
   },
   {
@@ -2924,7 +2924,7 @@
     "key": "Maximum Fatigue is the amount of fatigue a character can accumulate before being unable to take any more actions and having to recuperate. It is reduced by wearing heavy equipment, especially armor.",
     "original": "Maximum Fatigue is the amount of fatigue a character can accumulate before being unable to take any more actions and having to recuperate. It is reduced by wearing heavy equipment, especially armor.",
     "translation": "疲劳值上限是一名角色在无法采取任何行动、被迫休息之前允许积累的疲劳值量。 穿戴重型装备，尤其是盔甲，会使其减少。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Maximum Fatigue is the amount of fatigue a character can accumulate before being unable to take any more actions and having to recuperate. It is reduced by wearing heavy equipment, especially armor.'"
   },
   {
@@ -2964,7 +2964,7 @@
     "key": "The higher this value, the earlier the position in the turn order. Initiative is reduced by the current fatigue, as well as any penalty to maximum fatigue (such as from heavy armor). In general, someone in light armor will act before someone in heavy armo",
     "original": "The higher this value, the earlier the position in the turn order. Initiative is reduced by the current fatigue, as well as any penalty to maximum fatigue (such as from heavy armor). In general, someone in light armor will act before someone in heavy armor, and someone fresh will act before someone fatigued.",
     "translation": "该值越高，回合顺序中的位置越靠前。主动值会因当前的疲劳值以及疲劳值上限惩罚（如重型盔甲）而降低。一般来说，穿轻甲的人会在穿重甲的人之前行动，精力充沛的人会在疲惫的人之前行动。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'The higher this value, the earlier the position in the turn order. Initiative is reduced by the current fatigue, as well as any penalty to maximum fatigue (such as from heavy armor). In general, someone in light armor will act before someone in heavy armor, and someone fresh will act before someone fatigued.'"
   },
   {
@@ -2980,7 +2980,7 @@
     "key": "Vision, or view range, determines how far a character can see to uncover the fog of war, discover threats and hit with ranged attacks. Heavier helmets and night time can reduce vision.",
     "original": "Vision, or view range, determines how far a character can see to uncover the fog of war, discover threats and hit with ranged attacks. Heavier helmets and night time can reduce vision.",
     "translation": "视野，或视距，决定角色能看多远，用于揭开战争迷雾，发现威胁和发起远程攻击。重型头盔和夜幕会降低视野。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Vision, or view range, determines how far a character can see to uncover the fog of war, discover threats and hit with ranged attacks. Heavier helmets and night time can reduce vision.'"
   },
   {
@@ -3003,8 +3003,8 @@
     "ID": 293423328,
     "key": "This character just leveled up! Find him in your roster, accessible on the worldmap, to raise his attributes and select a perk.",
     "original": "This character just leveled up! Find him in your roster, accessible on the worldmap, to raise his attributes and select a perk.",
-    "translation": "这个角色刚刚升级！在世界地图上时，你可以在花名册中找到他，提高他的属性并选择一个特技。",
-    "stage": 1,
+    "translation": "这个角色刚刚升级！可以在花名册中找到他，提高他的属性并选择一个特技。",
+    "stage": 5,
     "context": "text = 'This character just leveled up! Find him in your roster, accessible on the worldmap, to raise his attributes and select a perk.'"
   },
   {
@@ -3012,7 +3012,7 @@
     "key": "Capacity",
     "original": "Capacity",
     "translation": "容量",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Capacity'"
   },
   {
@@ -3027,16 +3027,16 @@
     "ID": 293423331,
     "key": "The base percentage chance to hit a target's head for increased damage. The final chance can be modified by the skill used.",
     "original": "The base percentage chance to hit a target's head for increased damage. The final chance can be modified by the skill used.",
-    "translation": "击中目标头部，造成额外伤害的基础概率。实际概率受使用的技能影响。",
-    "stage": 1,
+    "translation": "击中目标头部造成额外伤害的基础概率。实际概率受使用的技能影响。",
+    "stage": 5,
     "context": "text = \"The base percentage chance to hit a target's head for increased damage. The final chance can be modified by the skill used.\""
   },
   {
     "ID": 293423332,
     "key": "Assorted tools and supplies to keep your weapons, armor, helmets and shields in good condition. One point is required to repair 15 points of item condition. Running out of supplies may result in weapons breaking in combat and will leave your armor damaged",
     "original": "Assorted tools and supplies to keep your weapons, armor, helmets and shields in good condition. One point is required to repair 15 points of item condition. Running out of supplies may result in weapons breaking in combat and will leave your armor damaged and useless.",
-    "translation": "各种工具和补给，用来维护你的武器，盔甲，头盔和盾牌。 每修理15点耐久需要一点工具补给。补给不足可能导致武器在战斗中断裂，使你的盔甲因无法修复而失去保护能力。",
-    "stage": 1,
+    "translation": "各种工具和补给，用来维护你的武器，护甲，头盔和盾牌。 每修理15点耐久需要一点工具补给。补给不足可能导致武器在战斗中断裂，使你的盔甲因无法修复而失去保护能力。",
+    "stage": 5,
     "context": "local desc = 'Assorted tools and supplies to keep your weapons, armor, helmets and shields in good condition. One point is required to repair 15 points of item condition. Running out of supplies may result in weapons breaking in combat and will leave your armor damaged and useless.'"
   },
   {
@@ -3044,7 +3044,7 @@
     "key": "Opponents",
     "original": "Opponents",
     "translation": "对手",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Opponents'"
   },
   {
@@ -3059,8 +3059,8 @@
     "ID": 293423335,
     "key": "Buy item for [img]gfx/ui/tooltips/money.png[/img]",
     "original": "Buy item for [img]gfx/ui/tooltips/money.png[/img]",
-    "translation": "购买物品花费 [img]gfx/ui/tooltips/money.png[/img]",
-    "stage": 1,
+    "translation": "购买物品将花费[img]gfx/ui/tooltips/money.png[/img]",
+    "stage": 5,
     "context": "text = 'Buy item for [img]gfx/ui/tooltips/money.png[/img]' + _item.getBuyPrice()"
   },
   {
@@ -3068,7 +3068,7 @@
     "key": "The character's name.",
     "original": "The character's name.",
     "translation": "角色的名称。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = \"The character's name.\""
   },
   {
@@ -3076,7 +3076,7 @@
     "key": "Daily Provisions",
     "original": "Daily Provisions",
     "translation": "每日食物",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Daily Provisions'"
   },
   {
@@ -3084,7 +3084,7 @@
     "key": "Leave and return to the world map.",
     "original": "Leave and return to the world map.",
     "translation": "离开并返回世界地图。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Leave and return to the world map.'"
   },
   {
@@ -3092,15 +3092,15 @@
     "key": "Start the battle using the selected equipment.",
     "original": "Start the battle using the selected equipment.",
     "translation": "使用选定的装备开始战斗。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Start the battle using the selected equipment.'"
   },
   {
     "ID": 293423340,
     "key": "Lock or unlock the camera to always be centered on your mercenary company.",
     "original": "Lock or unlock the camera to always be centered on your mercenary company.",
-    "translation": "锁定或解锁相机，将你的佣兵团固定在画面中央。",
-    "stage": 1,
+    "translation": "锁定或解锁相机始终将你的佣兵团固定在画面中央。",
+    "stage": 5,
     "context": "text = 'Lock or unlock the camera to always be centered on your mercenary company.'"
   },
   {
@@ -3115,8 +3115,8 @@
     "ID": 293423342,
     "key": "Automatically adjust the camera's height level to see the currently active character in combat. Disabling this will prevent the camera from changing height levels when it isn't strictly necessary, but will also require manual adjustment of height levels w",
     "original": "Automatically adjust the camera's height level to see the currently active character in combat. Disabling this will prevent the camera from changing height levels when it isn't strictly necessary, but will also require manual adjustment of height levels when characters happen to be obstructed by terrain.",
-    "translation": "自动调整摄像机的高度，以查看战斗中当前活动的角色。禁用此选项能防止摄像机在不必要时更改高度级别，但当角色恰好被地形阻挡时，还需要手动调整高度级别。",
-    "stage": 1,
+    "translation": "自动调整摄像机的高度，以查看战斗中当前活动的角色。禁用此选项能防止摄像机在不必要时更改高度级别，但当角色被地形阻挡时，还需要手动调整高度级别。",
+    "stage": 5,
     "context": "text = \"Automatically adjust the camera's height level to see the currently active character in combat. Disabling this will prevent the camera from changing height levels when it isn't strictly necessary, but will also require manual adjustment of height levels when characters happen to be obstructed by terrain.\""
   },
   {
@@ -3124,7 +3124,7 @@
     "key": "A fletcher offering all kinds of expertly crafted ranged weaponry.",
     "original": "A fletcher offering all kinds of expertly crafted ranged weaponry.",
     "translation": "弓弩店提供各种精心制作的远程武器。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'A fletcher offering all kinds of expertly crafted ranged weaponry.'"
   },
   {
@@ -3132,7 +3132,7 @@
     "key": "Hiring Fee",
     "original": "Hiring Fee",
     "translation": "雇佣费",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Hiring Fee'"
   },
   {
@@ -3140,7 +3140,7 @@
     "key": "Free Seat",
     "original": "Free Seat",
     "translation": "空闲席位",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Free Seat'"
   },
   {
@@ -3148,7 +3148,7 @@
     "key": "Rigorous Schooling",
     "original": "Rigorous Schooling",
     "translation": "严格的训练",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Rigorous Schooling'"
   },
   {
@@ -3156,7 +3156,7 @@
     "key": "Ambition",
     "original": "Ambition",
     "translation": "野心",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Ambition'"
   },
   {
@@ -3164,7 +3164,7 @@
     "key": "[/color][/b] Fatigue to traverse",
     "original": "[/color][/b] Fatigue to traverse",
     "translation": "[/color][/b] 点疲劳",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Costs [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getActionPointCosts()[lastTileHovered.Type] + '[/color][/b] AP and [b][color=' + this.Const.UI.Color.PositiveValue + ']' + actor.getFatigueCosts()[lastTileHovered.Type] + '[/color][/b] Fatigue to traverse'"
   },
   {
@@ -3172,7 +3172,7 @@
     "key": "A meeting point for those of the fighting profession. Have your men train with and learn from experienced fighters here, so you can mold them faster into hardened mercenaries.",
     "original": "A meeting point for those of the fighting profession. Have your men train with and learn from experienced fighters here, so you can mold them faster into hardened mercenaries.",
     "translation": "专业战斗人士汇集的地方。在这里，你的人能接受老练战士的教授和训练，更快被塑造成坚强的雇佣兵。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'A meeting point for those of the fighting profession. Have your men train with and learn from experienced fighters here, so you can mold them faster into hardened mercenaries.'"
   },
   {
@@ -3180,7 +3180,7 @@
     "key": "Automatically pause the game after leaving a city so that you don't waste any time - but at the expense of having to manually unpause each time.",
     "original": "Automatically pause the game after leaving a city so that you don't waste any time - but at the expense of having to manually unpause each time.",
     "translation": "离开城市后自动暂停游戏，避免时间浪费，代价是每次都要手动取消暂停。",
-    "stage": 1,
+    "stage": 5,
     "context": "text = \"Automatically pause the game after leaving a city so that you don't waste any time - but at the expense of having to manually unpause each time.\""
   },
   {
@@ -3188,7 +3188,7 @@
     "key": "Provisions",
     "original": "Provisions",
     "translation": "食物",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Provisions'"
   },
   {
@@ -3211,16 +3211,16 @@
     "ID": 293423354,
     "key": "This fee will be paid immediately on giving this recruit a proper inspection to reveal his character traits, if any.",
     "original": "This fee will be paid immediately on giving this recruit a proper inspection to reveal his character traits, if any.",
-    "translation": "这项费用将立即支出，用于对这个新兵进行适当的检查，以揭示他的特性，如果有的话。",
-    "stage": 1,
+    "translation": "立即支付一笔费用，用于对这个新兵进行适当的检查，以揭示他的特性，如果有的话。",
+    "stage": 5,
     "context": "text = 'This fee will be paid immediately on giving this recruit a proper inspection to reveal his character traits, if any.'"
   },
   {
     "ID": 293423355,
     "key": "The number of Battle Brothers controlled by you and allies controlled by the AI on the battlefield.",
     "original": "The number of Battle Brothers controlled by you and allies controlled by the AI on the battlefield.",
-    "translation": "战场上由你控制的战友和AI控制的盟友的数量。",
-    "stage": 1,
+    "translation": "战场上由你控制的战场兄弟和AI控制的盟友的数量。",
+    "stage": 5,
     "context": "text = 'The number of Battle Brothers controlled by you and allies controlled by the AI on the battlefield.'"
   },
   {
