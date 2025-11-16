@@ -3,8 +3,8 @@
     "ID": 293422914,
     "key": "Item is not assigned to any slot.",
     "original": "Item is not assigned to any slot.",
-    "translation": "物品未分配到任何插槽。",
-    "stage": 1,
+    "translation": "物品未分配到任何槽位。",
+    "stage": 5,
     "context": "errorString = 'Item is not assigned to any slot.'"
   },
   {
@@ -35,16 +35,16 @@
     "ID": 293422918,
     "key": "Failed to acquire stash.",
     "original": "Failed to acquire stash.",
-    "translation": "未能获取存储。",
-    "stage": 1,
+    "translation": "未能获取仓库清单。",
+    "stage": 5,
     "context": "errorString = 'Failed to acquire stash.'"
   },
   {
     "ID": 293422919,
     "key": "Failed to remove item from target slot.",
     "original": "Failed to remove item from target slot.",
-    "translation": "无法从目标槽中移除物品。",
-    "stage": 1,
+    "translation": "未能从目标槽位中移除物品。",
+    "stage": 5,
     "context": "errorString = 'Failed to remove item from target slot.'"
   },
   {
@@ -60,7 +60,7 @@
     "key": "Failed to acquire ground items.",
     "original": "Failed to acquire ground items.",
     "translation": "未能获取地上物品。",
-    "stage": 1,
+    "stage": 5,
     "context": "errorString = 'Failed to acquire ground items.'"
   },
   {
@@ -83,24 +83,24 @@
     "ID": 293422924,
     "key": "Failed to find stash item.",
     "original": "Failed to find stash item.",
-    "translation": "未能找到存储物品。",
-    "stage": 1,
+    "translation": "未能找到仓库物品。",
+    "stage": 5,
     "context": "errorString = 'Failed to find stash item.'"
   },
   {
     "ID": 293422925,
     "key": "Failed to equip stash item.",
     "original": "Failed to equip stash item.",
-    "translation": "未能装备存储物品。",
-    "stage": 1,
+    "translation": "未能装备仓库物品。",
+    "stage": 5,
     "context": "errorString = 'Failed to equip stash item.'"
   },
   {
     "ID": 293422926,
     "key": "Failed to find ground item.",
     "original": "Failed to find ground item.",
-    "translation": "未能找到地上的物品。",
-    "stage": 1,
+    "translation": "未能找到地上物品。",
+    "stage": 5,
     "context": "errorString = 'Failed to find ground item.'"
   },
   {
@@ -108,7 +108,7 @@
     "key": "Failed to find bag item.",
     "original": "Failed to find bag item.",
     "translation": "未能找到背包物品。",
-    "stage": 1,
+    "stage": 5,
     "context": "errorString = 'Failed to find bag item.'"
   },
   {
@@ -116,7 +116,7 @@
     "key": "Only the active entity is allowed to change items.",
     "original": "Only the active entity is allowed to change items.",
     "translation": "只有当前实体可以更换物品。",
-    "stage": 1,
+    "stage": 5,
     "context": "errorString = 'Only the active entity is allowed to change items.'"
   },
   {
@@ -131,16 +131,16 @@
     "ID": 293422930,
     "key": "Failed to acquire inventory.",
     "original": "Failed to acquire inventory.",
-    "translation": "未能获取物品清单。",
-    "stage": 1,
+    "translation": "未能获取行李清单。",
+    "stage": 5,
     "context": "errorString = 'Failed to acquire inventory.'"
   },
   {
     "ID": 293422931,
     "key": "Failed to remove item from source slot.",
     "original": "Failed to remove item from source slot.",
-    "translation": "无法从源槽中移除物品。",
-    "stage": 1,
+    "translation": "未能从源槽位中移除物品。",
+    "stage": 5,
     "context": "errorString = 'Failed to remove item from source slot.'"
   },
   {
@@ -155,8 +155,8 @@
     "ID": 293422933,
     "key": "Not enough stash space.",
     "original": "Not enough stash space.",
-    "translation": "存储空间不足。",
-    "stage": 1,
+    "translation": "仓库空间不足。",
+    "stage": 5,
     "context": "errorString = 'Not enough stash space.'"
   },
   {
@@ -195,8 +195,8 @@
     "ID": 293422938,
     "key": "Failed to put stash item into bag.",
     "original": "Failed to put stash item into bag.",
-    "translation": "未能将存储物品进背包。",
-    "stage": 1,
+    "translation": "未能将仓库物品放进背包。",
+    "stage": 5,
     "context": "errorString = 'Failed to put stash item into bag.'"
   },
   {

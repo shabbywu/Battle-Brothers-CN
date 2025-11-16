@@ -3281,9 +3281,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:54.93Z",
         "updatedAt": "2023-06-26T05:46:41.154Z",
-        "modifiedAt": "2025-11-10T10:04:50Z",
+        "modifiedAt": "2025-11-15T09:42:01Z",
         "hash": "a3d9b943b40ab2b8d07e6d1107259ce2",
-        "sha256": "2444ed61ad5f7383090758735c8204d7dfb76c6c7ce6adf2af62c17d4b0a7a79"
+        "sha256": "178c09787342fd01052e9cf7368da6d54a7c0270eac0d7d028a7bdcb9ddda205"
     },
     "scripts/contracts/contracts/deliver_item_contract.json": {
         "id": 918440,
@@ -42852,15 +42852,15 @@
         "total": 9,
         "translated": 9,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:40.844Z",
         "updatedAt": "2023-06-26T05:49:47.986Z",
-        "modifiedAt": "2025-10-06T00:33:38Z",
+        "modifiedAt": "2025-11-15T08:47:06Z",
         "hash": "68c3db80d61e0fdec6ff18410b441530",
-        "sha256": "1afd112f5f270a7ce80ad0be524146d2cc55318fdc0892291e005b5b0049d534"
+        "sha256": "c120e7a5367bb0f8488b2b7732f5a3bf7a65940d7db6302d348327e28ba212df"
     },
     "scripts/skills/traits/fear_beasts_trait.json": {
         "id": 920469,
@@ -43897,15 +43897,15 @@
         "total": 22,
         "translated": 22,
         "disputed": 0,
-        "checked": 16,
-        "reviewed": 16,
+        "checked": 22,
+        "reviewed": 22,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:02.307Z",
         "updatedAt": "2023-06-26T05:49:52.258Z",
-        "modifiedAt": "2024-08-31T13:33:31Z",
+        "modifiedAt": "2025-11-15T12:01:18Z",
         "hash": "cba8216871c368250ef1373c9ea18ade",
-        "sha256": "3e448f04a71d5b441d2bacf0f43f7d4ed75670ab0cca67e5288839de4685dacf"
+        "sha256": "d83ace7a11c40926d330e504dccf34df3719bb5e54a537322597b7d3a897e3d7"
     },
     "scripts/states/tactical_state.json": {
         "id": 920524,
@@ -43935,15 +43935,15 @@
         "total": 29,
         "translated": 29,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 29,
+        "reviewed": 29,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:03.221Z",
         "updatedAt": "2023-06-26T05:49:52.495Z",
-        "modifiedAt": "2025-10-13T03:10:41Z",
+        "modifiedAt": "2025-11-15T11:38:46Z",
         "hash": "f5f1adf1bb7228f80afd951a28db8d4a",
-        "sha256": "87109314bfa54fd714ef67002f64b7de9e3718b6bcc225e2c7283da904838e41"
+        "sha256": "be69c6328d0d0c6b22bc59c0660c79c0e83fe04f47ab815539d26194f0ce259f"
     },
     "scripts/states/world_state.json": {
         "id": 920526,
@@ -43954,15 +43954,15 @@
         "total": 40,
         "translated": 40,
         "disputed": 0,
-        "checked": 5,
-        "reviewed": 5,
+        "checked": 21,
+        "reviewed": 21,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:03.571Z",
         "updatedAt": "2023-07-05T12:36:10.079Z",
-        "modifiedAt": "2025-11-10T10:58:39Z",
+        "modifiedAt": "2025-11-15T12:06:09Z",
         "hash": "187ec9345a9657d568ba5930c9958e9b",
-        "sha256": "3b04ef2bb52ae6068bd4fb1c847ddca910278284a8678cf01d28a2fb85fb9c6a"
+        "sha256": "8110c361246b49f7fcdd515bff8626d9ae222c6a4fa4108078fff43bc8b8eae4"
     },
     "scripts/ui/global/menu_stack.json": {
         "id": 920527,
@@ -43992,15 +43992,15 @@
         "total": 29,
         "translated": 28,
         "disputed": 0,
-        "checked": 15,
-        "reviewed": 15,
+        "checked": 28,
+        "reviewed": 28,
         "hidden": 1,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:04.223Z",
         "updatedAt": "2023-06-26T05:49:52.681Z",
-        "modifiedAt": "2025-11-10T10:42:24Z",
+        "modifiedAt": "2025-11-15T04:32:02Z",
         "hash": "55b22f8a52f9a4597504c9c431bf2461",
-        "sha256": "45a17e86142146d44bc491cc326a9e481d283c8bdfe65e403fd443c0eae7032d"
+        "sha256": "2312ebecfa26ab3a82ee0db8b560a17c66161133ffede0a499faa6c12498e3cf"
     },
     "scripts/ui/screens/menu/main_menu_screen.json": {
         "id": 920529,
@@ -44048,16 +44048,16 @@
         "format": "json",
         "total": 429,
         "translated": 426,
-        "disputed": 1,
-        "checked": 394,
-        "reviewed": 394,
+        "disputed": 0,
+        "checked": 426,
+        "reviewed": 426,
         "hidden": 3,
         "locked": 0,
         "createdAt": "2023-05-13T14:33:05.329Z",
         "updatedAt": "2025-03-31T03:38:40.706Z",
-        "modifiedAt": "2025-11-13T01:23:34Z",
+        "modifiedAt": "2025-11-15T04:19:59Z",
         "hash": "2612c8f3831bcdbe23637975052d5fde",
-        "sha256": "12dde7b2af10e393c27f8c190f2933e26e84247e5a94e70f4b2c8b069de6d09e"
+        "sha256": "82d17f354df435aad1dfef18b8eb189a02ae09967a157f84c4b7bf1ba3ed5157"
     },
     "scripts/ui/screens/world/modules/topbar/world_screen_topbar_ambition_module.json": {
         "id": 920532,
