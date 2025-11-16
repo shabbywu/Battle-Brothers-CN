@@ -3,8 +3,8 @@
     "ID": 293422874,
     "key": "This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
     "original": "This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
-    "translation": "此战役是在激活“野兽与探险”DLC之前创建的。请注意，你可以继续游玩此战役，但除非你开始新的战役，你将无法访问所有新内容。",
-    "stage": 1,
+    "translation": "此战役是在激活《野兽与探险》DLC之前创建的。请注意，你可以继续游玩此战役，但除非你开始新的战役，你将无法访问所有新内容。",
+    "stage": 5,
     "context": "this.showDialogPopup('Old Campaign Loaded', \"This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.\", null, null, True)"
   },
   {
@@ -12,7 +12,7 @@
     "key": "(Press Spacebar)",
     "original": "(Press Spacebar)",
     "translation": "（按空格键）",
-    "stage": 1,
+    "stage": 5,
     "context": "this.World.TopbarDayTimeModule.showMessage('PAUSED', '(Press Spacebar)')"
   },
   {
@@ -20,7 +20,7 @@
     "key": "Save campaign: ",
     "original": "Save campaign: ",
     "translation": "保存战役：",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logDebug('Save campaign: ' + _campaignLabel)"
   },
   {
@@ -28,31 +28,31 @@
     "key": "World Speed set to x5.0",
     "original": "World Speed set to x5.0",
     "translation": "世界速度设置为x5.0。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logDebug('World Speed set to x5.0')"
   },
   {
     "ID": 293422878,
     "key": "The ",
     "original": "The ",
-    "translation": "这个。",
-    "stage": 1,
+    "translation": " ",
+    "stage": 5,
     "context": "this.removeFromBeginningOfText('The ', this.Const.Strings.EntityName[i])"
   },
   {
     "ID": 293422879,
     "key": "A ",
     "original": "A ",
-    "translation": "一个",
-    "stage": 1,
+    "translation": "A",
+    "stage": 5,
     "context": "local start = this.isFirstCharacter(this.Const.Strings.EntityName[i], ['A','E','I','O','U']) ? 'An ' : 'A '"
   },
   {
     "ID": 293422880,
     "key": "This campaign was created before you activated the 'Blazing Deserts' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
     "original": "This campaign was created before you activated the 'Blazing Deserts' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
-    "translation": "此战役是在激活“炽热沙漠”DLC之前创建的。请注意，你可以继续游玩此战役，但除非你开始新的战役，你将无法访问所有新内容。",
-    "stage": 1,
+    "translation": "此战役是在激活《炽热沙漠》DLC之前创建的。请注意，你可以继续游玩此战役，但除非你开始新的战役，你将无法访问所有新内容。",
+    "stage": 5,
     "context": "this.showDialogPopup('Old Campaign Loaded', \"This campaign was created before you activated the 'Blazing Deserts' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.\", null, null, True)"
   },
   {
@@ -60,7 +60,7 @@
     "key": "World Speed set to x9.0",
     "original": "World Speed set to x9.0",
     "translation": "世界速度设置为x9.0。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logDebug('World Speed set to x9.0')"
   },
   {
@@ -68,7 +68,7 @@
     "key": "Player can NOT be attacked.",
     "original": "Player can NOT be attacked.",
     "translation": "玩家不可被攻击。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logDebug('Player can NOT be attacked.')"
   },
   {
@@ -76,7 +76,7 @@
     "key": "World Speed set to x6.0",
     "original": "World Speed set to x6.0",
     "translation": "世界速度设置为x6.0。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logDebug('World Speed set to x6.0')"
   },
   {
@@ -92,7 +92,7 @@
     "key": "World Speed set to x3.0",
     "original": "World Speed set to x3.0",
     "translation": "世界速度设置为x3.0。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logDebug('World Speed set to x3.0')"
   },
   {
@@ -100,7 +100,7 @@
     "key": "World Speed set to x7.0",
     "original": "World Speed set to x7.0",
     "translation": "世界速度设置为x7.0。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logDebug('World Speed set to x7.0')"
   },
   {
@@ -108,15 +108,15 @@
     "key": "Load campaign: ",
     "original": "Load campaign: ",
     "translation": "读取战役：",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logDebug('Load campaign: ' + _campaignFileName)"
   },
   {
     "ID": 293422888,
     "key": "Location entered: ",
     "original": "Location entered: ",
-    "translation": "位置已输入：",
-    "stage": 1,
+    "translation": "已进入：",
+    "stage": 5,
     "context": "this.logDebug('Location entered: ' + _location.getName())"
   },
   {
@@ -139,8 +139,8 @@
     "ID": 293422891,
     "key": "This campaign was created before you activated the 'Warriors of the North' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
     "original": "This campaign was created before you activated the 'Warriors of the North' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.",
-    "translation": "此战役是在激活“北方勇士”DLC之前创建的。请注意，你可以继续游玩此战役，但除非你开始新的战役，你将无法访问所有新内容。",
-    "stage": 1,
+    "translation": "此战役是在激活《北方勇士》DLC之前创建的。请注意，你可以继续游玩此战役，但除非你开始新的战役，你将无法访问所有新内容。",
+    "stage": 5,
     "context": "this.showDialogPopup('Old Campaign Loaded', \"This campaign was created before you activated the 'Warriors of the North' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.\", null, null, True)"
   },
   {
@@ -148,7 +148,7 @@
     "key": "Fog Of War activated.",
     "original": "Fog Of War activated.",
     "translation": "战争迷雾已激活。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logDebug('Fog Of War activated.')"
   },
   {

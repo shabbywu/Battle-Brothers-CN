@@ -43,7 +43,7 @@
     "ID": 293422784,
     "key": "[p=c][img]gfx/ui/events/event_127.png[/img][/p]\n[p=c]A possible late game encounter in enemy composition and equipment available. Difficult.[/p]",
     "original": "[p=c][img]gfx/ui/events/event_127.png[/img][/p]\n[p=c]A possible late game encounter in enemy composition and equipment available. Difficult.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_127.png[/img][/p]\n[p=c]可能在游戏后期遇到的敌人组成和可用装备。困难。[/p]",
+    "translation": "[p=c][img]gfx/ui/events/event_127.png[/img][/p]\n[p=c]用游戏后期能入手的装备对抗后期敌人组合。困难难度。[/p]",
     "stage": 5,
     "context": "description = '[p=c][img]gfx/ui/events/event_127.png[/img][/p]\n[p=c]A possible late game encounter in enemy composition and equipment available. Difficult.[/p]'"
   },
@@ -51,8 +51,8 @@
     "ID": 293422785,
     "key": "[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]A possible early game encounter in enemy composition and equipment available. Moderate difficulty.[/p]",
     "original": "[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]A possible early game encounter in enemy composition and equipment available. Moderate difficulty.[/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]一场遭遇战，用前期能入手的装备对抗前期敌人组合。中等难度。[/p]",
-    "stage": 1,
+    "translation": "[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]用游戏前期能入手的装备对抗前期敌人组合。中等难度。[/p]",
+    "stage": 5,
     "context": "description = '[p=c][img]gfx/ui/events/event_09.png[/img][/p]\n[p=c]A possible early game encounter in enemy composition and equipment available. Moderate difficulty.[/p]'"
   },
   {
@@ -84,7 +84,7 @@
     "key": "[p=c]An empty map for AI testing. Spawn combatants manually and let them fight it out.[/p]",
     "original": "[p=c]An empty map for AI testing. Spawn combatants manually and let them fight it out.[/p]",
     "translation": "[p=c]用于AI测试的空地图。手动生成战斗人员，让他们分个高下。[/p]",
-    "stage": 1,
+    "stage": 5,
     "context": "description = '[p=c]An empty map for AI testing. Spawn combatants manually and let them fight it out.[/p]'"
   },
   {
@@ -92,7 +92,7 @@
     "key": "Scenario Screen is not fully visible. Be patient!",
     "original": "Scenario Screen is not fully visible. Be patient!",
     "translation": "场景界面未完全显示。请耐心等待！",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logWarning('Scenario Screen is not fully visible. Be patient!')"
   },
   {
@@ -108,7 +108,7 @@
     "key": "[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n[p=c]Few and easy opponents all over a map with lots of terrain features blocking sight. Well suited to get used to lines of sight, fog of war and ranged combat. Easy.[/p]",
     "original": "[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n[p=c]Few and easy opponents all over a map with lots of terrain features blocking sight. Well suited to get used to lines of sight, fog of war and ranged combat. Easy.[/p]",
     "translation": "[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n[p=c]有较多的视野阻挡地形，少量简单对手散布其中。适合用来熟悉视野、战争迷雾以及远程作战。容易。[/p]",
-    "stage": 1,
+    "stage": 5,
     "context": "description = '[p=c][img]gfx/ui/events/event_133.png[/img][/p]\n[p=c]Few and easy opponents all over a map with lots of terrain features blocking sight. Well suited to get used to lines of sight, fog of war and ranged combat. Easy.[/p]'"
   },
   {
@@ -124,7 +124,7 @@
     "key": "[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]Survive against overwhelming odds while positioned on top of a hill. Well suited to learn about height advantage and to test sight and usability issues with height levels. Difficult.[/p]",
     "original": "[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]Survive against overwhelming odds while positioned on top of a hill. Well suited to learn about height advantage and to test sight and usability issues with height levels. Difficult.[/p]",
     "translation": "[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]在山顶上对抗多数敌人，以求一线生机。非常适合学习高度优势，测试视野和高低差交互细节。困难。[/p]",
-    "stage": 1,
+    "stage": 5,
     "context": "description = '[p=c][img]gfx/ui/events/event_22.png[/img][/p]\n[p=c]Survive against overwhelming odds while positioned on top of a hill. Well suited to learn about height advantage and to test sight and usability issues with height levels. Difficult.[/p]'"
   },
   {
@@ -172,7 +172,7 @@
     "key": "Load Campaign Screen is not fully visible. Be patient!",
     "original": "Load Campaign Screen is not fully visible. Be patient!",
     "translation": "载入战役界面未完全显示。请耐心等待！",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logWarning('Load Campaign Screen is not fully visible. Be patient!')"
   }
 ]
