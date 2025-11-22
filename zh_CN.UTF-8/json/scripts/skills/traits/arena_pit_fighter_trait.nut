@@ -51,8 +51,8 @@
     "ID": 293422341,
     "key": " So far, this character has fought in one match",
     "original": " So far, this character has fought in one match",
-    "translation": "目前为止，这个角色只打过一场比赛",
-    "stage": 1,
+    "translation": "目前为止，这个角色只参与了一场比赛",
+    "stage": 5,
     "context": "text = ' So far, this character has fought in one match'"
   },
   {

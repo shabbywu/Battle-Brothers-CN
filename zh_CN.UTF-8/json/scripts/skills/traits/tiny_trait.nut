@@ -12,7 +12,7 @@
     "key": "the Dwarf",
     "original": "the Dwarf",
     "translation": "矮人",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Dwarf'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "the Halfman",
     "original": "the Halfman",
     "translation": "半身人",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Halfman'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "the Short",
     "original": "the Short",
     "translation": "矮子",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Short'"
   },
   {
@@ -59,8 +59,8 @@
     "ID": 293422764,
     "key": "Being very short of height, this character is used to slipping through.",
     "original": "Being very short of height, this character is used to slipping through.",
-    "translation": "由于身材非常矮小，这个角色常常能溜走。",
-    "stage": 1,
+    "translation": "由于身材非常矮小，这个角色常常能钻空子溜走。",
+    "stage": 5,
     "context": "this.m.Description = 'Being very short of height, this character is used to slipping through.'"
   }
 ]

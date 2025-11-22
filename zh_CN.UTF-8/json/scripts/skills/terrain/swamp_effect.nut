@@ -4,7 +4,7 @@
     "key": "Swamp",
     "original": "Swamp",
     "translation": "沼泽",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Swamp'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "Swamp with boggish ground is hampering movement and fighting abilities significantly.",
     "original": "Swamp with boggish ground is hampering movement and fighting abilities significantly.",
     "translation": "沼泽的泥泞地面严重限制了移动和战斗能力。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'Swamp with boggish ground is hampering movement and fighting abilities significantly.'"
   },
   {

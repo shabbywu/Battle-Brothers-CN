@@ -4,7 +4,7 @@
     "key": "the Ox",
     "original": "the Ox",
     "translation": "壮牛",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Ox'"
   },
   {
@@ -19,8 +19,8 @@
     "ID": 293422767,
     "key": "the Rock",
     "original": "the Rock",
-    "translation": "岩石",
-    "stage": 1,
+    "translation": "巨石",
+    "stage": 5,
     "context": "'the Rock'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "the Bull",
     "original": "the Bull",
     "translation": "公牛",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Bull'"
   },
   {
@@ -44,7 +44,7 @@
     "key": "the Bear",
     "original": "the Bear",
     "translation": "大熊",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Bear'"
   },
   {
@@ -52,7 +52,7 @@
     "key": "This character is tough as nails, shrugging off hits and blows.",
     "original": "This character is tough as nails, shrugging off hits and blows.",
     "translation": "这个角色硬得像钉子，挨打就像挠痒痒。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'This character is tough as nails, shrugging off hits and blows.'"
   }
 ]
