@@ -12,7 +12,7 @@
     "key": "the Coward",
     "original": "the Coward",
     "translation": "胆小鬼",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Coward'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "the Chicken",
     "original": "the Chicken",
     "translation": "鸡仔",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Chicken'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "Dastard",
     "original": "Dastard",
     "translation": "畏缩",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Dastard'"
   },
   {
@@ -44,7 +44,7 @@
     "key": "the Craven",
     "original": "the Craven",
     "translation": "懦夫",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Craven'"
   },
   {
