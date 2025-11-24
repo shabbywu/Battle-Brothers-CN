@@ -43,7 +43,7 @@
     "ID": 293422879,
     "key": "A ",
     "original": "A ",
-    "translation": "A",
+    "translation": "一个",
     "stage": 5,
     "context": "local start = this.isFirstCharacter(this.Const.Strings.EntityName[i], ['A','E','I','O','U']) ? 'An ' : 'A '"
   },
@@ -84,7 +84,7 @@
     "key": "An ",
     "original": "An ",
     "translation": "一个",
-    "stage": 1,
+    "stage": 5,
     "context": "local start = this.isFirstCharacter(this.Const.Strings.EntityName[i], ['A','E','I','O','U']) ? 'An ' : 'A '"
   },
   {
@@ -155,8 +155,8 @@
     "ID": 293422893,
     "key": "instance",
     "original": "instance",
-    "translation": "instance",
-    "stage": 1,
+    "translation": "实例",
+    "stage": 5,
     "context": "typeof _e == 'instance'"
   },
   {
@@ -164,7 +164,7 @@
     "key": "Old Campaign Loaded",
     "original": "Old Campaign Loaded",
     "translation": "已加载旧版战役",
-    "stage": 1,
+    "stage": 5,
     "context": "this.showDialogPopup('Old Campaign Loaded', \"This campaign was created before you activated the 'Beasts & Exploration' DLC. Please be aware that even though you can continue to play this campaign, you won't have access to all of the new content unless you start a new campaign.\", null, null, True)"
   },
   {
@@ -172,7 +172,7 @@
     "key": "Fortifications",
     "original": "Fortifications",
     "translation": "防御工事",
-    "stage": 1,
+    "stage": 5,
     "context": "Name = 'Fortifications'"
   },
   {
@@ -180,7 +180,7 @@
     "key": "Fall back!",
     "original": "Fall back!",
     "translation": "撤退！",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.CombatDialog.show(entities, allyBanners, enemyBanners, _isPlayerInitiated || this.m.EscortedEntity != null, _allowFormationPicking, text, image, this.m.EscortedEntity != null ? 'Flee!' : 'Fall back!')"
   },
   {
@@ -188,15 +188,15 @@
     "key": "Attacked them",
     "original": "Attacked them",
     "translation": "攻击他们",
-    "stage": 1,
+    "stage": 5,
     "context": "f.addPlayerRelation(~f.getPlayerRelation(), 'Attacked them')"
   },
   {
     "ID": 293422898,
     "key": "y: ",
     "original": "y: ",
-    "translation": "y: ",
-    "stage": 1,
+    "translation": "y：",
+    "stage": 5,
     "context": "this.logInfo('y: ' + this.m.LastTileHovered.SquareCoords.Y)"
   },
   {
@@ -204,7 +204,7 @@
     "key": "type: ",
     "original": "type: ",
     "translation": "类型：",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logInfo('type: ' + this.m.LastTileHovered.Type)"
   },
   {
@@ -212,7 +212,7 @@
     "key": "Player is NOT consuming assets.",
     "original": "Player is NOT consuming assets.",
     "translation": "玩家没有消耗资产。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logDebug('Player is NOT consuming assets.')"
   },
   {
@@ -220,7 +220,7 @@
     "key": "Fog Of War deactivated.",
     "original": "Fog Of War deactivated.",
     "translation": "战争迷雾已解除。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logDebug('Fog Of War deactivated.')"
   },
   {
@@ -228,7 +228,7 @@
     "key": "distance: ",
     "original": "distance: ",
     "translation": "距离：",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logInfo('distance: ' + this.m.LastTileHovered.getDistanceTo(this.getPlayer().getTile()))"
   },
   {
@@ -236,7 +236,7 @@
     "key": "Player is consuming assets.",
     "original": "Player is consuming assets.",
     "translation": "玩家正在消耗资产。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logDebug('Player is consuming assets.')"
   },
   {
@@ -252,15 +252,15 @@
     "key": "Flee!",
     "original": "Flee!",
     "translation": "快逃！",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.CombatDialog.show(entities, allyBanners, enemyBanners, _isPlayerInitiated || this.m.EscortedEntity != null, _allowFormationPicking, text, image, this.m.EscortedEntity != null ? 'Flee!' : 'Fall back!')"
   },
   {
     "ID": 293422906,
     "key": "You can't make out who is attacking you in time.<br/>You have to defend yourself!",
     "original": "You can't make out who is attacking you in time.<br/>You have to defend yourself!",
-    "translation": "来不及辨别了。<br/>保护好自己！",
-    "stage": 1,
+    "translation": "来不及辨别来袭的敌人了。<br/>准备自卫！",
+    "stage": 5,
     "context": "text = \"You can't make out who is attacking you in time.<br/>You have to defend yourself!\""
   },
   {
@@ -268,7 +268,7 @@
     "key": "Save version: ",
     "original": "Save version: ",
     "translation": "存档版本：",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logInfo('Save version: ' + _in.getMetaData().getVersion())"
   },
   {
@@ -276,7 +276,7 @@
     "key": "World Speed set to x4.0",
     "original": "World Speed set to x4.0",
     "translation": "世界速度设置为x4.0。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logDebug('World Speed set to x4.0')"
   },
   {
@@ -284,7 +284,7 @@
     "key": "You can't make out who you'll be facing. Attack at your own peril and be prepared to retreat if need be!",
     "original": "You can't make out who you'll be facing. Attack at your own peril and be prepared to retreat if need be!",
     "translation": "敌人尚且未知，如要以身犯险，做好撤退准备！",
-    "stage": 1,
+    "stage": 5,
     "context": "text = \"You can't make out who you'll be facing. Attack at your own peril and be prepared to retreat if need be!\""
   },
   {
@@ -292,7 +292,7 @@
     "key": "Clearing World Scene",
     "original": "Clearing World Scene",
     "translation": "清理世界场景",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logDebug('Clearing World Scene')"
   },
   {
@@ -300,7 +300,7 @@
     "key": "Player can now be attacked.",
     "original": "Player can now be attacked.",
     "translation": "现在玩家可被攻击。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.logDebug('Player can now be attacked.')"
   },
   {

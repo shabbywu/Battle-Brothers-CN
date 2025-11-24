@@ -4,7 +4,7 @@
     "key": "the Ox",
     "original": "the Ox",
     "translation": "壮牛",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Ox'"
   },
   {
@@ -12,7 +12,7 @@
     "key": "]+10[/color] Max Fatigue",
     "original": "]+10[/color] Max Fatigue",
     "translation": "]+10[/color] 点疲劳值上限",
-    "stage": 1,
+    "stage": 5,
     "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Max Fatigue'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "the Strong",
     "original": "the Strong",
     "translation": "壮士",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Strong'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "the Big",
     "original": "the Big",
     "translation": "大个子",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Big'"
   },
   {
@@ -44,14 +44,14 @@
     "key": "the Bull",
     "original": "the Bull",
     "translation": "公牛",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Bull'"
   },
   {
     "ID": 293422733,
     "key": "Well fed and buffed to the max.",
     "original": "Well fed and buffed to the max.",
-    "translation": "饮食饱足，身体健壮到极致。",
+    "translation": "吃饱喝足，身体健壮到极致。",
     "stage": 5,
     "context": "this.m.Description = 'Well fed and buffed to the max.'"
   },
@@ -60,7 +60,7 @@
     "key": "the Bear",
     "original": "the Bear",
     "translation": "大熊",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Bear'"
   }
 ]

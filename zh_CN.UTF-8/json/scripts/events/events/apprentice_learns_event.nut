@@ -3,7 +3,7 @@
     "ID": 293412560,
     "key": "[/color] Melee Skill",
     "original": "[/color] Melee Skill",
-    "translation": "[/color]点近战技能",
+    "translation": "[/color] 点近战技能",
     "stage": 5,
     "context": "text = _event.m.Apprentice.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + meleeSkill + '[/color] Melee Skill'"
   },
@@ -11,7 +11,7 @@
     "ID": 293412561,
     "key": "[/color] Resolve",
     "original": "[/color] Resolve",
-    "translation": "[/color]点决心",
+    "translation": "[/color] 决心",
     "stage": 5,
     "context": "text = _event.m.Apprentice.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + resolve + '[/color] Resolve'"
   },
@@ -43,7 +43,7 @@
     "ID": 293412565,
     "key": "[/color] Hitpoints",
     "original": "[/color] Hitpoints",
-    "translation": "[/color]点生命值",
+    "translation": "[/color] 生命值",
     "stage": 5,
     "context": "text = _event.m.Apprentice.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + hitpoints + '[/color] Hitpoints'"
   },
@@ -51,7 +51,7 @@
     "ID": 293412566,
     "key": "[/color] Melee Defense",
     "original": "[/color] Melee Defense",
-    "translation": "[/color]点近战防御",
+    "translation": "[/color] 近战防御",
     "stage": 5,
     "context": "text = _event.m.Apprentice.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + meleeDefense + '[/color] Melee Defense'"
   },
@@ -59,7 +59,7 @@
     "ID": 293412567,
     "key": "[/color] Max Fatigue",
     "original": "[/color] Max Fatigue",
-    "translation": "[/color]点疲劳值上限",
+    "translation": "[/color] 点疲劳值上限",
     "stage": 5,
     "context": "text = _event.m.Apprentice.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + stamina + '[/color] Max Fatigue'"
   },
@@ -75,7 +75,7 @@
     "ID": 293412569,
     "key": "[/color] Initiative",
     "original": "[/color] Initiative",
-    "translation": "[/color]主动值",
+    "translation": "[/color] 主动值",
     "stage": 5,
     "context": "text = _event.m.Apprentice.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + initiative + '[/color] Initiative'"
   },

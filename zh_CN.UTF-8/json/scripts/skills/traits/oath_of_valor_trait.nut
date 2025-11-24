@@ -28,7 +28,7 @@
     "key": "This character has taken an Oath of Valor, and is sworn to hold fast in battle at any cost.",
     "original": "This character has taken an Oath of Valor, and is sworn to hold fast in battle at any cost.",
     "translation": "该角色立下了英勇誓言，发誓在战斗中不惜一切代价坚持到底。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'This character has taken an Oath of Valor, and is sworn to hold fast in battle at any cost.'"
   }
 ]

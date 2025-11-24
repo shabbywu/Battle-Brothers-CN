@@ -4,7 +4,7 @@
     "key": "]Is empty and useless[/color]",
     "original": "]Is empty and useless[/color]",
     "translation": "]空空如也，毫无用处[/color]",
-    "stage": 1,
+    "stage": 5,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']Is empty and useless[/color]'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "[/color] arrows",
     "original": "[/color] arrows",
     "translation": "[/color]支箭",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Contains [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] arrows'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "Contains [color=",
     "original": "Contains [color=",
     "translation": "装有[color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Contains [color=' + this.Const.UI.Color.PositiveValue + ']' + this.m.Ammo + '[/color] arrows'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "A large quiver of arrows, required to use bows of all kinds. Is automatically refilled after each battle if you have enough ammunition.",
     "original": "A large quiver of arrows, required to use bows of all kinds. Is automatically refilled after each battle if you have enough ammunition.",
     "translation": "一大袋箭支，适用于各式弓。弹药充足时，会在战斗后自动补充。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'A large quiver of arrows, required to use bows of all kinds. Is automatically refilled after each battle if you have enough ammunition.'"
   }
 ]

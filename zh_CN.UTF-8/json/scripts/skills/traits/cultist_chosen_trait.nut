@@ -11,8 +11,8 @@
     "ID": 293422419,
     "key": "This character feels chosen by Davkul, something not many in this world can claim. He embraces physical pain and peril as bringing him closer to salvation, and he believes that his god will protect him so he can act on behest of his god.",
     "original": "This character feels chosen by Davkul, something not many in this world can claim. He embraces physical pain and peril as bringing him closer to salvation, and he believes that his god will protect him so he can act on behest of his god.",
-    "translation": "这个角色感应到了达库尔的选择，这在这个世界上并不多见。他欣然接受肉体上的痛苦和危难，因为这能使他更接近救赎，且他相信他的神会保护他，使他能够履行他的神赋予他的使命。",
-    "stage": 1,
+    "translation": "这个角色感应到了达库尔的选择——世上罕有人能宣称此殊荣。他将肉体痛苦与危险视为寻求救赎的途径，并深信神祇会庇护自己，以便践行神的旨意。",
+    "stage": 5,
     "context": "this.m.Description = 'This character feels chosen by Davkul, something not many in this world can claim. He embraces physical pain and peril as bringing him closer to salvation, and he believes that his god will protect him so he can act on behest of his god.'"
   },
   {
@@ -52,7 +52,7 @@
     "key": "Is not affected by fresh injuries sustained during the current battle",
     "original": "Is not affected by fresh injuries sustained during the current battle",
     "translation": "不会受到当前战斗中新产生的创伤的影响",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Is not affected by fresh injuries sustained during the current battle'"
   },
   {

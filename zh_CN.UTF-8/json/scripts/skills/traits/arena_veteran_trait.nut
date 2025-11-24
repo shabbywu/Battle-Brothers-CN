@@ -35,8 +35,8 @@
     "ID": 293422348,
     "key": "A veteran of the arena with many a scar, this character knows how to make the crowd cheer for a bloody spectacle. The worse the odds of winning, the better the entertainment!",
     "original": "A veteran of the arena with many a scar, this character knows how to make the crowd cheer for a bloody spectacle. The worse the odds of winning, the better the entertainment!",
-    "translation": "作为一个有着许多伤疤的竞技场老兵，这个角色知道如何让人群为血腥的场面欢呼。实力越是悬殊，娱乐效果越好！",
-    "stage": 1,
+    "translation": "这位身负无数伤疤的竞技场老手，深知如何用血腥场面引爆观众欢呼。越是胜算渺茫的对决，越能成就绝佳表演！",
+    "stage": 5,
     "context": "this.m.Description = 'A veteran of the arena with many a scar, this character knows how to make the crowd cheer for a bloody spectacle. The worse the odds of winning, the better the entertainment!'"
   },
   {
@@ -60,7 +60,7 @@
     "key": "]50%[/color] chance to survive if struck down and not killed by a fatality",
     "original": "]50%[/color] chance to survive if struck down and not killed by a fatality",
     "translation": "]50%[/color] 几率在被非致命伤害击倒时幸存",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']50%[/color] chance to survive if struck down and not killed by a fatality'"
   },
   {

@@ -52,7 +52,7 @@
     "key": "]Is empty and useless[/color]",
     "original": "]Is empty and useless[/color]",
     "translation": "]空空如也，毫无用处[/color]",
-    "stage": 1,
+    "stage": 5,
     "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]Is empty and useless[/color]\""
   }
 ]

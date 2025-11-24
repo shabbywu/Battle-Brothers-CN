@@ -44,7 +44,7 @@
     "key": "An ",
     "original": "An ",
     "translation": "一个",
-    "stage": 1,
+    "stage": 5,
     "context": "local start = this.isFirstCharacter(this.Const.Strings.EntityName[i], ['A','E','I','O','U']) ? 'An ' : 'A '"
   },
   {
@@ -100,7 +100,7 @@
     "key": "A ",
     "original": "A ",
     "translation": "一个",
-    "stage": 1,
+    "stage": 5,
     "context": "local start = this.isFirstCharacter(this.Const.Strings.EntityName[i], ['A','E','I','O','U']) ? 'An ' : 'A '"
   }
 ]

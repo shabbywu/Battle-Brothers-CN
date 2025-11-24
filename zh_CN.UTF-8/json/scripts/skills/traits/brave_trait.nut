@@ -3,7 +3,7 @@
     "ID": 293422370,
     "key": "the Hero",
     "original": "the Hero",
-    "translation": "英雄(the Hero)",
+    "translation": "英雄",
     "stage": 5,
     "context": "'the Hero'"
   },
@@ -19,8 +19,8 @@
     "ID": 293422372,
     "key": "the Brave",
     "original": "the Brave",
-    "translation": "勇士",
-    "stage": 1,
+    "translation": "勇者",
+    "stage": 5,
     "context": "'the Brave'"
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293422374,
     "key": "Just keep on going. This character will bravely venture into the unknown.",
     "original": "Just keep on going. This character will bravely venture into the unknown.",
-    "translation": "前进就是了。这个角色将勇敢地冒险进入未知领域。",
-    "stage": 1,
+    "translation": "勇往直前。这个角色将勇敢探索未知领域。",
+    "stage": 5,
     "context": "this.m.Description = 'Just keep on going. This character will bravely venture into the unknown.'"
   }
 ]

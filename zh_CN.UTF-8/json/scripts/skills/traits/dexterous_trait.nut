@@ -12,7 +12,7 @@
     "key": "A dexterous character has an easier time hitting his opponent in melee.",
     "original": "A dexterous character has an easier time hitting his opponent in melee.",
     "translation": "灵巧的角色更容易在近战中击中对手。",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Description = 'A dexterous character has an easier time hitting his opponent in melee.'"
   },
   {

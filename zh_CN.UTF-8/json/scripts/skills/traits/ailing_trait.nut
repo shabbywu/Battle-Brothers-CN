@@ -4,7 +4,7 @@
     "key": "the Ailing",
     "original": "the Ailing",
     "translation": "衰弱者",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Ailing'"
   },
   {
@@ -12,7 +12,7 @@
     "key": "Ailing",
     "original": "Ailing",
     "translation": "虚弱",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Ailing'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "Poison effects last [color=",
     "original": "Poison effects last [color=",
     "translation": "中毒效果额外持续 [color=",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Poison effects last [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] additional turn'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "the Pale",
     "original": "the Pale",
     "translation": "苍白者",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Pale'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "the Sickly",
     "original": "the Sickly",
     "translation": "病弱者",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Sickly'"
   },
   {
@@ -44,7 +44,7 @@
     "key": "]1[/color] additional turn",
     "original": "]1[/color] additional turn",
     "translation": "]1[/color] 回合",
-    "stage": 1,
+    "stage": 5,
     "context": "text = 'Poison effects last [color=' + this.Const.UI.Color.NegativeValue + ']1[/color] additional turn'"
   },
   {

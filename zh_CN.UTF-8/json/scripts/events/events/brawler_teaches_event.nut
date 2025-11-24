@@ -12,7 +12,7 @@
     "key": "[/color] Max Fatigue",
     "original": "[/color] Max Fatigue",
     "translation": "[/color] 点疲劳值上限",
-    "stage": 1,
+    "stage": 5,
     "context": "text = _event.m.Student.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + skill + '[/color] Max Fatigue'"
   },
   {

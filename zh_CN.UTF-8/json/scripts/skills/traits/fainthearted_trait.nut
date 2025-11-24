@@ -3,7 +3,7 @@
     "ID": 293422494,
     "key": "This character needs some warm words and a pat on the back from time to time.",
     "original": "This character needs some warm words and a pat on the back from time to time.",
-    "translation": "这个角色需要一些温暖的话语和不时的鼓励。",
+    "translation": "这个角色时不时地需要一些暖心话和鼓励。",
     "stage": 5,
     "context": "this.m.Description = 'This character needs some warm words and a pat on the back from time to time.'"
   },
@@ -20,7 +20,7 @@
     "key": "the Chicken",
     "original": "the Chicken",
     "translation": "鸡仔",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Chicken'"
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293422498,
     "key": "the Meek",
     "original": "the Meek",
-    "translation": "温驯者",
-    "stage": 1,
+    "translation": "软骨头",
+    "stage": 5,
     "context": "'the Meek'"
   }
 ]

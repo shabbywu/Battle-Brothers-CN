@@ -3,7 +3,7 @@
     "ID": 293422697,
     "key": "]+5[/color] Resolve at positive morale checks",
     "original": "]+5[/color] Resolve at positive morale checks",
-    "translation": "]+5[/color] 决心，在积极士气检查时",
+    "translation": "]+5[/color] 决心（仅在正面士气检查中生效）",
     "stage": 5,
     "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+5[/color] Resolve at positive morale checks'"
   },

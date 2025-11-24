@@ -20,15 +20,15 @@
     "key": "Team Player",
     "original": "Team Player",
     "translation": "团队精神",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Team Player'"
   },
   {
     "ID": 293422756,
     "key": "This character makes sure to always announce his intentions to his brothers-in-arms. In fact, he'll never shut the hell up. At least it reduces the chance of accidents happening.",
     "original": "This character makes sure to always announce his intentions to his brothers-in-arms. In fact, he'll never shut the hell up. At least it reduces the chance of accidents happening.",
-    "translation": "这个角色总是向战友们宣布他的意图。其实，他就不知道什么叫闭嘴。至少这降低了发生意外的概率。",
-    "stage": 1,
+    "translation": "这名角色总是会向战友们宣布他的意图。事实上，他简直喋喋不休……不过至少这能降低误伤的几率。",
+    "stage": 5,
     "context": "this.m.Description = \"This character makes sure to always announce his intentions to his brothers-in-arms. In fact, he'll never shut the hell up. At least it reduces the chance of accidents happening.\""
   }
 ]
