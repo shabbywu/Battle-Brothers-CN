@@ -19,7 +19,7 @@
     "ID": 293422437,
     "key": "Fanatic of Davkul",
     "original": "Fanatic of Davkul",
-    "translation": "达库尔狂热者",
+    "translation": "达库尔盲信者",
     "stage": 5,
     "context": "this.m.Name = 'Fanatic of Davkul'"
   },
@@ -27,8 +27,8 @@
     "ID": 293422438,
     "key": "This character is a fanatic follower of Davkul, believing that Davkul embraces man in death.",
     "original": "This character is a fanatic follower of Davkul, believing that Davkul embraces man in death.",
-    "translation": "这个角色是一名达库尔的狂热追随者，相信达库尔会通过死亡将人迎接到自己的神域。",
-    "stage": 1,
+    "translation": "这个角色是达库尔的狂热信徒，坚信死亡即是达库尔对人类的终极拥抱。",
+    "stage": 5,
     "context": "this.m.Description = 'This character is a fanatic follower of Davkul, believing that Davkul embraces man in death.'"
   }
 ]

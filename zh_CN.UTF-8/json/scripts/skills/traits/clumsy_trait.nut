@@ -3,8 +3,8 @@
     "ID": 293422394,
     "key": "This character can be as dangerous for himself as to his opponent.",
     "original": "This character can be as dangerous for himself as to his opponent.",
-    "translation": "这个角色对自己和对手同样危险。",
-    "stage": 1,
+    "translation": "这个角色动起手来往往伤敌一千自损八百。",
+    "stage": 5,
     "context": "this.m.Description = 'This character can be as dangerous for himself as to his opponent.'"
   },
   {

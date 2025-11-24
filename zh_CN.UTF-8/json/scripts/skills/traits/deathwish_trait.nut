@@ -4,14 +4,14 @@
     "key": "the Odd",
     "original": "the Odd",
     "translation": "怪人",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Odd'"
   },
   {
     "ID": 293422462,
     "key": "Deathwish",
     "original": "Deathwish",
-    "translation": "誓死如归",
+    "translation": "视死如归",
     "stage": 5,
     "context": "this.m.Name = 'Deathwish'"
   },
@@ -20,7 +20,7 @@
     "key": "the Fearless",
     "original": "the Fearless",
     "translation": "无畏者",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Fearless'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "the Mad",
     "original": "the Mad",
     "translation": "疯子",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Mad'"
   },
   {

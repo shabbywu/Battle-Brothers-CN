@@ -12,7 +12,7 @@
     "key": "the Swift",
     "original": "the Swift",
     "translation": "迅捷者",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Swift'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "Quickfeet",
     "original": "Quickfeet",
     "translation": "敏足",
-    "stage": 1,
+    "stage": 5,
     "context": "'Quickfeet'"
   },
   {

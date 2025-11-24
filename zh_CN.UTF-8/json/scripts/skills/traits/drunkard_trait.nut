@@ -11,8 +11,8 @@
     "ID": 293422478,
     "key": "There's no question what this character spends his crowns on. Expect him to drink heavily before any battle, in secret if need be. ",
     "original": "There's no question what this character spends his crowns on. Expect him to drink heavily before any battle, in secret if need be. ",
-    "translation": "不用猜就知道他把钱花在哪了。可以预料到他每场战斗前都会使劲喝酒，必要情况下会悄悄喝。",
-    "stage": 1,
+    "translation": "不用猜就知道他把钱花在哪了。他每场战斗之前必先豪饮，必要时还会偷偷喝。",
+    "stage": 5,
     "context": "this.m.Description = \"There's no question what this character spends his crowns on. Expect him to drink heavily before any battle, in secret if need be. \""
   },
   {
@@ -44,7 +44,7 @@
     "key": "the Drunk",
     "original": "the Drunk",
     "translation": "醉汉",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Drunk'"
   },
   {
@@ -60,7 +60,7 @@
     "key": "the Drunkard",
     "original": "the Drunkard",
     "translation": "酒鬼",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Drunkard'"
   }
 ]

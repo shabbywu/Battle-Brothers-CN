@@ -4,15 +4,15 @@
     "key": "Sure Footing",
     "original": "Sure Footing",
     "translation": "下盘稳固",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Sure Footing'"
   },
   {
     "ID": 293422739,
     "key": "A sure footing makes it hard to catch this character off balance and land a hit.",
     "original": "A sure footing makes it hard to catch this character off balance and land a hit.",
-    "translation": "稳定的下盘使这个角色很难失去平衡被打中。",
-    "stage": 1,
+    "translation": "这名角色下盘稳固，很难让他失去平衡并成功击中他。",
+    "stage": 5,
     "context": "this.m.Description = 'A sure footing makes it hard to catch this character off balance and land a hit.'"
   },
   {

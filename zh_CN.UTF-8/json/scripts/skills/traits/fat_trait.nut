@@ -4,7 +4,7 @@
     "key": "the Ox",
     "original": "the Ox",
     "translation": "壮牛",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Ox'"
   },
   {
@@ -12,7 +12,7 @@
     "key": "the Fat",
     "original": "the Fat",
     "translation": "胖子",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Fat'"
   },
   {
@@ -28,7 +28,7 @@
     "key": "]-10[/color] Max Fatigue",
     "original": "]-10[/color] Max Fatigue",
     "translation": "]-10[/color] 点疲劳值上限",
-    "stage": 1,
+    "stage": 5,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Max Fatigue'"
   },
   {
@@ -36,7 +36,7 @@
     "key": "Fat",
     "original": "Fat",
     "translation": "肥胖",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Fat'"
   },
   {
@@ -52,7 +52,7 @@
     "key": "the Mountain",
     "original": "the Mountain",
     "translation": "大山",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Mountain'"
   },
   {

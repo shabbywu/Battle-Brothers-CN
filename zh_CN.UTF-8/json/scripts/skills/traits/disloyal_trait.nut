@@ -4,7 +4,7 @@
     "key": "Disloyal",
     "original": "Disloyal",
     "translation": "不忠",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Disloyal'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "the Liar",
     "original": "the Liar",
     "translation": "骗子",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Liar'"
   },
   {

@@ -3,15 +3,15 @@
     "ID": 293422718,
     "key": "the Quick",
     "original": "the Quick",
-    "translation": "快人一步",
-    "stage": 1,
+    "translation": "快腿",
+    "stage": 5,
     "context": "'the Quick'"
   },
   {
     "ID": 293422719,
     "key": "Already there! This character is quick to act, often before his opponents do.",
     "original": "Already there! This character is quick to act, often before his opponents do.",
-    "translation": "已经到了！这个角色行动迅速，通常比他的对手更快。",
+    "translation": "抢先一步！这名角色行动迅捷，总能先于对手出手。",
     "stage": 5,
     "context": "this.m.Description = 'Already there! This character is quick to act, often before his opponents do.'"
   },
@@ -20,15 +20,15 @@
     "key": "Quick",
     "original": "Quick",
     "translation": "快速",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Quick'"
   },
   {
     "ID": 293422721,
     "key": "]+10[/color] Initiative",
     "original": "]+10[/color] Initiative",
-    "translation": "]+10[/color]主动值",
-    "stage": 1,
+    "translation": "]+10[/color] 主动值",
+    "stage": 5,
     "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Initiative'"
   }
 ]

@@ -20,7 +20,7 @@
     "key": "]+1[/color] Max Fatigue",
     "original": "]+1[/color] Max Fatigue",
     "translation": "]+1[/color] 点疲劳值上限",
-    "stage": 1,
+    "stage": 5,
     "context": "text = _event.m.Strong2.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+1[/color] Max Fatigue'"
   },
   {
