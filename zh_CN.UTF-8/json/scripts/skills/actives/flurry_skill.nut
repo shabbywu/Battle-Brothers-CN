@@ -3,7 +3,7 @@
     "ID": 629144305,
     "key": " unleashes a flurry of blows around it",
     "original": " unleashes a flurry of blows around it",
-    "translation": "它周围释放出一连串猛烈的攻击。",
+    "translation": "朝它周围胡乱地挥击。",
     "stage": 1,
     "context": "this.Const.UI.getColorizedEntityName(user) + \" unleashes a flurry of blows around it\""
   },

@@ -275,7 +275,7 @@
     "ID": 293404903,
     "key": "Flurry",
     "original": "Flurry",
-    "translation": "冷锋",
+    "translation": "花剑",
     "stage": 1,
     "context": "'Flurry'"
   },
