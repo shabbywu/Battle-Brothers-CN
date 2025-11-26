@@ -2844,9 +2844,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:42.523Z",
         "updatedAt": "2023-06-26T05:46:30.811Z",
-        "modifiedAt": "2025-10-06T09:25:29Z",
+        "modifiedAt": "2025-11-25T06:26:06Z",
         "hash": "952c673b0d2faaf4dc0ab56959a57390",
-        "sha256": "6e5584e3e587848be1296506bffb7278ac6144dab976bcb898053251c1f0fffc"
+        "sha256": "e56bb803f0ddccc7b9c3b639681900de7f6803080cfeb702711141e78ad89f2a"
     },
     "scripts/config/items.json": {
         "id": 918417,
@@ -34099,9 +34099,9 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:12:17.363Z",
         "updatedAt": "2025-03-31T03:38:37.719Z",
-        "modifiedAt": "2025-03-31T03:38:38Z",
+        "modifiedAt": "2025-11-25T06:28:45Z",
         "hash": "60149a3ac34165b5f3698749113c5311",
-        "sha256": "eb6d3c803ef3efc832935f43138701609f869d5c0333641ba8a57cdf4182fe63"
+        "sha256": "869b8f8e209964478b2cecf8985c3105f83b49db5d29598d14666a14dc2a6360"
     },
     "scripts/skills/actives/footwork.json": {
         "id": 920017,
