@@ -42871,15 +42871,15 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:41.168Z",
         "updatedAt": "2023-06-26T05:49:48.045Z",
-        "modifiedAt": "2025-11-23T15:58:20Z",
+        "modifiedAt": "2025-12-04T14:29:04Z",
         "hash": "7a558e96c8352f372064fea11b9efd97",
-        "sha256": "ad7855b445a372cd3d850e243e901939e8d5f71492d68cd14b4e2f6dd1eb79c9"
+        "sha256": "2ccc520ec114295c80f17bdc4bf65aa341da5890eb37b7f615eaa15cc21bfc35"
     },
     "scripts/skills/traits/fear_greenskins_trait.json": {
         "id": 920470,
@@ -42890,15 +42890,15 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:41.488Z",
         "updatedAt": "2023-06-26T05:49:48.108Z",
-        "modifiedAt": "2024-01-10T09:08:50Z",
+        "modifiedAt": "2025-12-04T14:29:38Z",
         "hash": "9efb500ccbfa8e97fd501a59d3ff63ba",
-        "sha256": "ea227bde37edc0f45d9de8b992a50ff1a9fa59fe1a2d77259a687177dc8f63b4"
+        "sha256": "355fc3e28286666a9a5f2716db731eef601211d766d563c79d7c35282c3e5b26"
     },
     "scripts/skills/traits/fear_undead_trait.json": {
         "id": 920471,
@@ -42909,15 +42909,15 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:41.85Z",
         "updatedAt": "2023-06-26T05:49:48.176Z",
-        "modifiedAt": "2024-01-10T09:09:01Z",
+        "modifiedAt": "2025-12-04T14:30:05Z",
         "hash": "074e923794b55d05cfc586c6e321e07e",
-        "sha256": "87c3c563d367cc33a705faa1cee35c956d84327e6b546ca377e86e7a3581346d"
+        "sha256": "6bf44e1cf77dcc76d328b9b8cad18cbf0c2d6cfaab7e45ca963c2e13b7d3be09"
     },
     "scripts/skills/traits/fearless_trait.json": {
         "id": 920472,
@@ -42928,15 +42928,15 @@
         "total": 4,
         "translated": 4,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:42.763Z",
         "updatedAt": "2023-06-26T05:49:48.529Z",
-        "modifiedAt": "2024-07-23T08:02:38Z",
+        "modifiedAt": "2025-12-04T14:31:14Z",
         "hash": "28c996a88c16489343872e3769f22cd7",
-        "sha256": "8ffbe4a7aa19a049631192184f088fb04614392261ec38aa5cd9c9ae2d8251e3"
+        "sha256": "8b9648eff71caa9578c5a95345142f3b2b671f8392137ebff336b2bc75ee065d"
     },
     "scripts/skills/traits/fragile_trait.json": {
         "id": 920473,
@@ -42947,15 +42947,15 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 3,
+        "reviewed": 3,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:43.934Z",
         "updatedAt": "2023-06-26T05:49:48.596Z",
-        "modifiedAt": "2024-06-15T09:33:01Z",
+        "modifiedAt": "2025-12-04T14:31:01Z",
         "hash": "19ac006d523af2c06edbb7cbd766d3e7",
-        "sha256": "1c1c53e591651dbd8d577ebb1584bb31fabcc5f9eb0e8dcd1f9da24d2a3b3d89"
+        "sha256": "af8b5841c549096a9676dff7c84281affda4f1688880dd20d8dfc8bfb5ef690f"
     },
     "scripts/skills/traits/glorious_endurance_trait.json": {
         "id": 920474,
