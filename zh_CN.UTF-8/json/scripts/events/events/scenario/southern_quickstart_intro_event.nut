@@ -11,7 +11,7 @@
     "ID": 293416758,
     "key": "The ",
     "original": "The ",
-    "translation": "这个",
+    "translation": "战团",
     "stage": 1,
     "context": "this.m.Title = 'The ' + this.World.Assets.getName()"
   },
