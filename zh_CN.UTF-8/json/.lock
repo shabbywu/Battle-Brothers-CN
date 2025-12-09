@@ -17227,9 +17227,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:43.271Z",
         "updatedAt": "2023-06-26T05:48:13.6Z",
-        "modifiedAt": "2023-06-26T05:48:14Z",
+        "modifiedAt": "2025-12-08T04:20:44Z",
         "hash": "d1845b32ae01dfcc73353027ac4590fb",
-        "sha256": "71c8b61794b6081a12682aea2bf1a1fabc4edfdc3ddf534fcec806f45623e2a6"
+        "sha256": "a26249c6b31a3e3c4fe66bc887a5a2f5c66ee7ca6465686fdb9b1b391cd81df2"
     },
     "scripts/events/events/scenario/gladiators_intro_event.json": {
         "id": 919159,
@@ -17379,9 +17379,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:46.09Z",
         "updatedAt": "2023-06-26T05:48:14.171Z",
-        "modifiedAt": "2023-06-26T05:48:14Z",
+        "modifiedAt": "2025-12-08T04:16:11Z",
         "hash": "2d90c0ddbcfce5c022e9d871528eda39",
-        "sha256": "68e45d5ff0da154fc4f9cfd4beea731f6b91b5dd578a9d6b3f23be7becb1a532"
+        "sha256": "6145c48323adb950db326dcc418984cbad75e38ae5e300e308fd22b88d8766bf"
     },
     "scripts/events/events/scenario/trader_intro_event.json": {
         "id": 919167,
