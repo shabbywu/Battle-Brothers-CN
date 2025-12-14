@@ -3,8 +3,8 @@
     "ID": 293422594,
     "key": "This character has a natural talent for getting out of harm's way in the last second.",
     "original": "This character has a natural talent for getting out of harm's way in the last second.",
-    "translation": "这个角色有在最后关头摆脱伤害的天赋。",
-    "stage": 1,
+    "translation": "这个角色有在最后关头躲开伤害的天赋。",
+    "stage": 5,
     "context": "this.m.Description = \"This character has a natural talent for getting out of harm's way in the last second.\""
   },
   {
@@ -12,7 +12,7 @@
     "key": "the Lucky",
     "original": "the Lucky",
     "translation": "幸运星",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Lucky'"
   },
   {
@@ -20,7 +20,7 @@
     "key": "the Blessed",
     "original": "the Blessed",
     "translation": "蒙福者",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Blessed'"
   },
   {

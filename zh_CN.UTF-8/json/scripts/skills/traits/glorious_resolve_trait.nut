@@ -3,16 +3,16 @@
     "ID": 293422533,
     "key": "Glorious Resolve",
     "original": "Glorious Resolve",
-    "translation": "决心之誉",
-    "stage": 1,
+    "translation": "荣耀之心",
+    "stage": 5,
     "context": "this.m.Name = 'Glorious Resolve'"
   },
   {
     "ID": 293422534,
     "key": "Forged in the arenas of the south, this character has fought man and beast alike, and it takes a lot to break his resolve. His fabulous lifestyle demands high pay, but he'll never desert you  and can't be dismissed. If all three original members should di",
     "original": "Forged in the arenas of the south, this character has fought man and beast alike, and it takes a lot to break his resolve. His fabulous lifestyle demands high pay, but he'll never desert you  and can't be dismissed. If all three original members should die, your campaign ends.",
-    "translation": "这个角色在南方的竞技场上由各种敌人锻炼而成，有人类，也有野兽。打垮他的决心需要付出很多。他奢靡的生活需要高薪来维持，但他永远不会抛弃你，也不能被解雇。 如果三个初始成员都死了，你的战役就结束了。",
-    "stage": 1,
+    "translation": "这个角色在南方的竞技场上经历过无数敌人的锤炼，有人类，也有野兽。这让他的意志坚不可摧。他奢靡的生活需要高薪来维持，但他永远不会抛弃你，也不能被解雇。如果三个初始成员都死了，你的战役就结束了。",
+    "stage": 5,
     "context": "this.m.Description = \"Forged in the arenas of the south, this character has fought man and beast alike, and it takes a lot to break his resolve. His fabulous lifestyle demands high pay, but he'll never desert you  and can't be dismissed. If all three original members should die, your campaign ends.\""
   },
   {

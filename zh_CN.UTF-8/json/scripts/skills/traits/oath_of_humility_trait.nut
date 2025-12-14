@@ -3,8 +3,8 @@
     "ID": 293422648,
     "key": "This character has taken an Oath of Humility, and is sworn to self-reflection and self-improvement.",
     "original": "This character has taken an Oath of Humility, and is sworn to self-reflection and self-improvement.",
-    "translation": "该角色立下了谦逊誓言，发誓要自我反思和自我提高。",
-    "stage": 1,
+    "translation": "这个角色立下了谦逊誓言，发誓要自我反思和自我提高。",
+    "stage": 5,
     "context": "this.m.Description = 'This character has taken an Oath of Humility, and is sworn to self-reflection and self-improvement.'"
   },
   {

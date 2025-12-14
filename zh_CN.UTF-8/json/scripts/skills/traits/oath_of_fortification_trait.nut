@@ -75,14 +75,8 @@
     "ID": 293422643,
     "key": "This character has taken an Oath of Fortification, and is sworn to trust in his shield above all else.",
     "original": "This character has taken an Oath of Fortification, and is sworn to trust in his shield above all else.",
-    "translation": "该角色立下了壁垒誓言，发誓对他的盾牌寄予无上的信任。",
-    "stage": 1,
+    "translation": "这个角色立下了壁垒誓言，发誓对他的盾牌寄予无上的信任。",
+    "stage": 5,
     "context": "this.m.Description = 'This character has taken an Oath of Fortification, and is sworn to trust in his shield above all else.'"
-  },
-  {
-    "key": "60f02b947b5aae6946ac3fed305a9a8675ffc0f37f24df0d706f4da12bf4bdab",
-    "original": "The 'Shield Wall' shield skill grants an additional [color=",
-    "translation": "",
-    "context": "\"The 'Shield Wall' shield skill grants an additional [color=\" + this.Const.UI.Color.PositiveValue + \"]+5[/color] Melee Defense and [color=\" + this.Const.UI.Color.PositiveValue + \"]+5[/color] Ranged Defense.\""
   }
 ]
