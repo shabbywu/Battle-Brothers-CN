@@ -19,7 +19,7 @@
     "ID": 293422608,
     "key": "During nighttime this character has to be tied to a flock, because he won't be able to see even his own nose.",
     "original": "During nighttime this character has to be tied to a flock, because he won't be able to see even his own nose.",
-    "translation": "在夜间，这个角色必须和一群人绑在一起，因为他甚至看不到自己的鼻子。",
+    "translation": "在夜间，这个角色必须被人牵着才能走路，因为他甚至看不到自己的鼻子。",
     "stage": 5,
     "context": "this.m.Description = \"During nighttime this character has to be tied to a flock, because he won't be able to see even his own nose.\""
   }

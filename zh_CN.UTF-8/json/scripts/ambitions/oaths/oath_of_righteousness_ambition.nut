@@ -27,8 +27,8 @@
     "ID": 293403681,
     "key": "Oath of Righteousness",
     "original": "Oath of Righteousness",
-    "translation": "正义誓言",
-    "stage": 1,
+    "translation": "神圣誓言",
+    "stage": 5,
     "context": "this.m.OathName = 'Oath of Righteousness'"
   },
   {
@@ -59,8 +59,8 @@
     "ID": 293403685,
     "key": "Few aberrations are as repugnant as the undead.\nLet us take an Oath of Righteousness and strike down these mockeries of life!",
     "original": "Few aberrations are as repugnant as the undead.\nLet us take an Oath of Righteousness and strike down these mockeries of life!",
-    "translation": "很少有怪物能像不死生物那样令人厌恶。\n让我们立下正义誓言，击溃这些公然嘲弄生命的污秽邪物！",
-    "stage": 1,
+    "translation": "很少有怪物能像不死生物那样令人厌恶。\n让我们立下神圣誓言，击溃这些公然嘲弄生命的污秽邪物！",
+    "stage": 5,
     "context": "this.m.ButtonText = 'Few aberrations are as repugnant as the undead.\nLet us take an Oath of Righteousness and strike down these mockeries of life!'"
   },
   {

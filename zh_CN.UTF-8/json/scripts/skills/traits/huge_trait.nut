@@ -4,7 +4,7 @@
     "key": "the Ox",
     "original": "the Ox",
     "translation": "壮牛",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Ox'"
   },
   {
@@ -12,15 +12,15 @@
     "key": "the Tower",
     "original": "the Tower",
     "translation": "高塔",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Tower'"
   },
   {
     "ID": 293422557,
     "key": "Being particularly huge and burly, this character's strikes hurt plenty, but he's also a bigger target than most.",
     "original": "Being particularly huge and burly, this character's strikes hurt plenty, but he's also a bigger target than most.",
-    "translation": "这个角色出奇地又高又壮，造成的伤害相当可观，但他也是一个比大多数人更大的目标。",
-    "stage": 1,
+    "translation": "这个角色出奇地又高又壮，造成的伤害相当可观，但也比大多数人更容易被击中。",
+    "stage": 5,
     "context": "this.m.Description = \"Being particularly huge and burly, this character's strikes hurt plenty, but he's also a bigger target than most.\""
   },
   {
@@ -36,7 +36,7 @@
     "key": "Huge",
     "original": "Huge",
     "translation": "魁梧",
-    "stage": 1,
+    "stage": 5,
     "context": "this.m.Name = 'Huge'"
   },
   {
@@ -52,7 +52,7 @@
     "key": "the Bull",
     "original": "the Bull",
     "translation": "公牛",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Bull'"
   },
   {
@@ -68,7 +68,7 @@
     "key": "the Giant",
     "original": "the Giant",
     "translation": "巨人",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Giant'"
   },
   {
@@ -76,7 +76,7 @@
     "key": "the Mountain",
     "original": "the Mountain",
     "translation": "大山",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Mountain'"
   },
   {
@@ -84,7 +84,7 @@
     "key": "the Bear",
     "original": "the Bear",
     "translation": "大熊",
-    "stage": 1,
+    "stage": 5,
     "context": "'the Bear'"
   }
 ]

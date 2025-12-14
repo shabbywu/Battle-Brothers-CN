@@ -11,7 +11,7 @@
     "ID": 293403639,
     "key": "To uphold Young Anselm's Oaths is to take on a duty without end.\nLet us take an Oath of Endurance and prepare ourselves for the tasks to come!",
     "original": "To uphold Young Anselm's Oaths is to take on a duty without end.\nLet us take an Oath of Endurance and prepare ourselves for the tasks to come!",
-    "translation": "坚持初创者安塞姆的誓言就是承担起一种无穷无尽的责任。\n让我们立下忍耐誓言，为即将到来的任务做好准备！",
+    "translation": "坚持初创者安塞姆的誓言就是承担起一种无穷无尽的责任。\n让我们立下坚韧誓言，为即将到来的任务做好准备！",
     "stage": 1,
     "context": "this.m.ButtonText = \"To uphold Young Anselm's Oaths is to take on a duty without end.\nLet us take an Oath of Endurance and prepare ourselves for the tasks to come!\""
   },
@@ -59,7 +59,7 @@
     "ID": 293403645,
     "key": "Oath of Endurance",
     "original": "Oath of Endurance",
-    "translation": "忍耐誓言",
+    "translation": "坚韧誓言",
     "stage": 5,
     "context": "this.m.OathName = 'Oath of Endurance'"
   },

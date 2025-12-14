@@ -11,7 +11,7 @@
     "ID": 293422545,
     "key": "]+10[/color] Resolve when in battle with greenskins",
     "original": "]+10[/color] Resolve when in battle with greenskins",
-    "translation": "]+10[/color] 决心，与绿皮战斗时",
+    "translation": "]+10[/color] 决心（与绿皮战斗时）",
     "stage": 5,
     "context": "text = '[color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] Resolve when in battle with greenskins'"
   },
@@ -19,8 +19,8 @@
     "ID": 293422546,
     "key": "Some past event in this character's life has fueled a burning hatred for all things green and mean.",
     "original": "Some past event in this character's life has fueled a burning hatred for all things green and mean.",
-    "translation": "这个角色过去生活中的一些事情激起了他对所有绿色和卑鄙事物的强烈仇恨。",
-    "stage": 1,
+    "translation": "这个角色过去的一些经历让他对所有卑劣的绿皮生物抱有强烈的仇恨。",
+    "stage": 5,
     "context": "this.m.Description = \"Some past event in this character's life has fueled a burning hatred for all things green and mean.\""
   },
   {
@@ -28,7 +28,7 @@
     "key": "Orcbane",
     "original": "Orcbane",
     "translation": "兽人克星",
-    "stage": 1,
+    "stage": 5,
     "context": "'Orcbane'"
   }
 ]

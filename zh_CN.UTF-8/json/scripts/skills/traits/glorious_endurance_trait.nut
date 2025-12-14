@@ -3,8 +3,8 @@
     "ID": 293422524,
     "key": "Forged in the arenas of the south, this character has fought many a battle, and every blow will only strengthen his indomitable will and endurance. His fabulous lifestyle demands high pay, but he'll never desert you and can't be dismissed. If all three or",
     "original": "Forged in the arenas of the south, this character has fought many a battle, and every blow will only strengthen his indomitable will and endurance. His fabulous lifestyle demands high pay, but he'll never desert you and can't be dismissed. If all three original members should die, your campaign ends.",
-    "translation": "这个角色在南方的竞技场上经历过许多战斗的锻炼，每一次打击只会增强他不屈不挠的意志和耐力。他奢靡的生活需要高薪来维持，但他永远不会抛弃你，也不能被解雇。如果三个初始成员都死了，你的战役就结束了。",
-    "stage": 1,
+    "translation": "这个角色在南方的竞技场上经历过无数战斗的锤炼，每一次打击只会增强他不屈不挠的意志和体魄。他奢靡的生活需要高薪来维持，但他永远不会抛弃你，也不能被解雇。如果三个初始成员都死了，你的战役就结束了。",
+    "stage": 5,
     "context": "return \"Forged in the arenas of the south, this character has fought many a battle, and every blow will only strengthen his indomitable will and endurance. His fabulous lifestyle demands high pay, but he'll never desert you and can't be dismissed. If all three original members should die, your campaign ends.\";"
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293422527,
     "key": "Glorious Endurance",
     "original": "Glorious Endurance",
-    "translation": "忍耐之誉",
-    "stage": 1,
+    "translation": "荣耀之躯",
+    "stage": 5,
     "context": "this.m.Name = 'Glorious Endurance'"
   },
   {
