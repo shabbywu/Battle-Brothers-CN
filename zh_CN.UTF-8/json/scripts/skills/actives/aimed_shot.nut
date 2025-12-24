@@ -43,7 +43,7 @@
     "ID": 293419789,
     "key": "A focused and carefully aimed shot with a good outlook of hitting its intended target even at a distance. Can not be used while engaged in melee.",
     "original": "A focused and carefully aimed shot with a good outlook of hitting its intended target even at a distance. Can not be used while engaged in melee.",
-    "translation": "集中注意，仔细瞄准。即使预设目标较远也相对容易命中。陷入近战后无法使用。",
+    "translation": "集中注意，仔细瞄准。即使离预设目标较远也相对容易命中。陷入近战后无法使用。",
     "stage": 1,
     "context": "this.m.Description = 'A focused and carefully aimed shot with a good outlook of hitting its intended target even at a distance. Can not be used while engaged in melee.'"
   },
