@@ -1371,7 +1371,7 @@
     "ID": 293405600,
     "key": "We barely fought off the greenskins last time at the Battle of Many Names, just barely made it, and now they're back.",
     "original": "We barely fought off the greenskins last time at the Battle of Many Names, just barely made it, and now they're back.",
-    "translation": "上一次在许多名人之战中，我们几乎没有撞退绿皮，只是勉强成功，现在他们又回来了。",
+    "translation": "上次万名之战中，我们好不容易才击退了绿皮，勉强活了下来，可现在他们又回来了。",
     "stage": 1,
     "context": "\"We barely fought off the greenskins last time at the Battle of Many Names, just barely made it, and now they're back.\""
   },
