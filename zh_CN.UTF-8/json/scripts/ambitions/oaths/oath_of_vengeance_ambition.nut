@@ -59,7 +59,7 @@
     "ID": 293403720,
     "key": "Young Anselm's family was killed by orcs during the Battle of Many Names. When he himself faced greenskins, it is said he seemed an unstoppable warrior and his followers seek to emulate this vengeful surge of martial prowess.",
     "original": "Young Anselm's family was killed by orcs during the Battle of Many Names. When he himself faced greenskins, it is said he seemed an unstoppable warrior and his followers seek to emulate this vengeful surge of martial prowess.",
-    "translation": "安瑟姆年轻时家人在众名之战期间被兽人杀害。据说他面对绿皮族时，似乎成为了一名不可阻挡的战士，他的追随者试图效仿他这种报复性的武术技能。",
+    "translation": "小安瑟姆的家人在“万名之战”中惨遭兽人屠戮。因此，每当他直面这些绿皮敌人，便会化身为一名势不可挡的战士。他的追随者们也纷纷效仿，试图掌握他那宣泄怒火的高超战技。",
     "stage": 1,
     "context": "this.m.TooltipText = \"Young Anselm's family was killed by orcs during the Battle of Many Names. When he himself faced greenskins, it is said he seemed an unstoppable warrior and his followers seek to emulate this vengeful surge of martial prowess.\""
   },

@@ -2730,9 +2730,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:40.194Z",
         "updatedAt": "2023-06-26T05:46:29.009Z",
-        "modifiedAt": "2025-07-09T01:50:39Z",
+        "modifiedAt": "2025-12-23T03:49:20.885Z",
         "hash": "150d40adf9beaced1b0079806564b090",
-        "sha256": "618328be070a630964e228a865a0c5376444b56dd615539e39fae48240b5f116"
+        "sha256": "0beb847bd1a0a4fc79730ad628e54c2a2d9b9b02a601a5cd2cb300c3b331bbea"
     },
     "scripts/ambitions/oaths/oath_of_wrath_ambition.json": {
         "id": 918411,
@@ -2882,9 +2882,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:43.544Z",
         "updatedAt": "2023-06-26T05:46:32.269Z",
-        "modifiedAt": "2025-10-24T01:46:08Z",
+        "modifiedAt": "2025-12-23T03:51:16.304Z",
         "hash": "01791bb7af7222f29d44656ab8efc559",
-        "sha256": "750703548eeb5224b4c05857003836049b95a063aeab0152831c253f11802c88"
+        "sha256": "286f3098740202b9e3776b7c06a14964eab18f73b9ab89578e16571173255d4a"
     },
     "scripts/config/spawnlist_master.json": {
         "id": 918419,
@@ -6226,7 +6226,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:53.766Z",
         "updatedAt": "2023-06-26T05:47:05.694Z",
-        "modifiedAt": "2024-07-22T07:48:40Z",
+        "modifiedAt": "2025-12-23T00:53:20.829Z",
         "hash": "0baff65e3adf2d31cff274bfa23f1728",
         "sha256": "696af9ea739e8478d6ef8b48c1a77cc163c071ce1a3224a849344358a212eb99"
     },
@@ -6245,7 +6245,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:54.091Z",
         "updatedAt": "2023-06-26T05:47:05.752Z",
-        "modifiedAt": "2024-01-15T05:51:27Z",
+        "modifiedAt": "2025-12-23T00:51:15.657Z",
         "hash": "448201c6313103d3a8b8f10e62cee3c6",
         "sha256": "0f443b72530a3b178f596c26babed0ef084f822072e61e85cf4a32f8b28adc00"
     },
@@ -6264,7 +6264,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:54.895Z",
         "updatedAt": "2023-06-26T05:47:05.815Z",
-        "modifiedAt": "2024-07-22T08:22:42Z",
+        "modifiedAt": "2025-12-23T00:51:58.213Z",
         "hash": "bc78bba5f33634b525542e0b68502640",
         "sha256": "d6700b8bc5b3802664a93aae92ea65f78090ffa3cc9e44e32aa727c77dcf6c7a"
     },
@@ -11147,9 +11147,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:38.101Z",
         "updatedAt": "2023-06-26T05:47:35.862Z",
-        "modifiedAt": "2023-06-26T05:47:36Z",
+        "modifiedAt": "2025-12-23T02:02:32.024Z",
         "hash": "7258402fbe6a7d03d74c0f49902b170f",
-        "sha256": "5c512a49aae673ae3dd09e28b992c85703105c0aac18dc1dc31ea3252385e074"
+        "sha256": "e9d156e64ce371ce6387baac66de34384e59b4c1912dab5c5121fd9e958d84c1"
     },
     "scripts/events/events/crisis/greenskins_investigation_event.json": {
         "id": 918846,
@@ -17968,9 +17968,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:58.367Z",
         "updatedAt": "2023-07-05T12:36:09.161Z",
-        "modifiedAt": "2024-08-23T03:29:27Z",
+        "modifiedAt": "2025-12-23T04:16:08.792Z",
         "hash": "77f7525594ea1c9780d04c0720b94003",
-        "sha256": "be95109130e9bb8a8c1c7867c2a5ce41067944d041e7eaa1a925546cb8d6d318"
+        "sha256": "3f3dabb55d4cb7f560f2232aa5f1cb9d12ba474cba058c0da4511f336bc10dca"
     },
     "scripts/events/events/traveling_troupe_event.json": {
         "id": 919198,
@@ -33320,7 +33320,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:55.246Z",
         "updatedAt": "2023-06-26T05:49:13.025Z",
-        "modifiedAt": "2024-03-12T07:20:38Z",
+        "modifiedAt": "2025-12-23T01:00:30.982Z",
         "hash": "10811fe3e7b6dbf8750d1bc0cd187d15",
         "sha256": "f39d42ed2fa614443197c6fc5a204c71b20e046b93e683253d59b856116f1f5d"
     },
@@ -33339,9 +33339,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:55.583Z",
         "updatedAt": "2023-06-26T05:49:13.089Z",
-        "modifiedAt": "2024-07-26T00:49:19Z",
+        "modifiedAt": "2025-12-23T01:07:25.306Z",
         "hash": "4c7bf1701e1d1ca9c79a5524cf81dcf2",
-        "sha256": "6159241949b1b7443421c8de3608a7d0c0e9fc8f92fa923abfc00b2fd90bb05c"
+        "sha256": "baf489b0be759dfa9b50750f8a40d027cb5bcc2f125174b999394d8ded1aa408"
     },
     "scripts/skills/actives/alp_teleport_skill.json": {
         "id": 919983,
@@ -33472,7 +33472,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:59.381Z",
         "updatedAt": "2023-06-26T05:49:13.526Z",
-        "modifiedAt": "2024-07-26T01:13:23Z",
+        "modifiedAt": "2025-12-23T00:55:40.556Z",
         "hash": "f13d1fc226d102a049cd96820077ad5d",
         "sha256": "dea5aa65eb7318e9f0cb56bae53f4d7c90f6bbb3955b93329e0df9a339016ff7"
     },
@@ -36208,7 +36208,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:55.645Z",
         "updatedAt": "2023-06-26T05:49:21.737Z",
-        "modifiedAt": "2024-09-10T15:55:44Z",
+        "modifiedAt": "2025-12-23T00:52:06.744Z",
         "hash": "c18af013f5a19fd19f63ea9fcd99ab2f",
         "sha256": "a03ec6e8650fd8d7c0476fba44982d213cb1bba3c89b7f57826db88350140d63"
     },
@@ -36284,7 +36284,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:57.389Z",
         "updatedAt": "2023-06-26T05:49:22.01Z",
-        "modifiedAt": "2024-07-26T00:51:06Z",
+        "modifiedAt": "2025-12-23T01:00:41.745Z",
         "hash": "e1b00a170ce69f57818f688c7095476a",
         "sha256": "267b41b5785443d40a99f680e75067d204ae78c33bd269f6125d02fd7b3d7896"
     },
@@ -36360,7 +36360,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:58.739Z",
         "updatedAt": "2023-06-26T05:49:22.277Z",
-        "modifiedAt": "2024-06-29T09:48:24Z",
+        "modifiedAt": "2025-12-23T00:52:11.213Z",
         "hash": "a9a9a58ce448db4ac033f4c447132860",
         "sha256": "981828fa0195b830236b8b2374ae618a7d4468a2e6c1e33dd287c002c7c76f07"
     },
@@ -36740,7 +36740,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:10.864Z",
         "updatedAt": "2023-06-26T05:49:23.668Z",
-        "modifiedAt": "2024-08-07T08:39:50Z",
+        "modifiedAt": "2025-12-23T01:01:11.772Z",
         "hash": "5b101a0f54a5bc7be74c13438f865a43",
         "sha256": "868ecd2c50cb1b06d57857b2b253d02b8608e4fd20cb2b24f59d13f28fe960ac"
     },
@@ -36759,9 +36759,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:12.177Z",
         "updatedAt": "2023-06-26T05:49:23.749Z",
-        "modifiedAt": "2024-08-08T01:50:08Z",
+        "modifiedAt": "2025-12-23T01:04:34.262Z",
         "hash": "6e2921bc5f3b28813b4d28ceae5395fe",
-        "sha256": "8aa81c1e531f2f6fa681a4ed602d972a551b185e1ad4b5859b6df220a34e2d41"
+        "sha256": "f54fc9f09197382dd09cda87f29865aa809ea9748120d42abf3abf17ca845a33"
     },
     "scripts/skills/backgrounds/apprentice_background.json": {
         "id": 920153,
@@ -36835,7 +36835,7 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:30:13.547Z",
         "updatedAt": "2023-06-26T05:49:24.033Z",
-        "modifiedAt": "2024-08-08T07:57:56Z",
+        "modifiedAt": "2025-12-23T01:00:01.594Z",
         "hash": "cf4147a40022ba47cc79815f1835d2a4",
         "sha256": "0592b12d31b97ff65fc7bd7d65fc559ffd6e24571cfd94dd2e21d463005f036a"
     },
