@@ -6126,5 +6126,11 @@
     "original": "Worn-Down Fortress",
     "translation": "破败要塞",
     "stage": 1
+  },
+  {
+    "key": "3611ad9f4ca95dc7a2a81685d30e4edbf57442c7cedab2d43c2cb8400bcadcd4",
+    "original": "Bone Sprinkled Fields",
+    "translation": "",
+    "context": ""
   }
 ]

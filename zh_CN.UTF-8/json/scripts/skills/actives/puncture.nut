@@ -46,5 +46,11 @@
     "translation": "]-15%[/color] 命中惩罚",
     "stage": 5,
     "context": "text = 'Has [color=' + this.Const.UI.Color.NegativeValue + ']-15%[/color] chance to hit'"
+  },
+  {
+    "key": "2aef3a9937a9e7cce7762c8b0b5024aa22e8845bd24b3c6c71d828b663c3e530",
+    "original": "%[/color] chance to hit",
+    "translation": "",
+    "context": "\"Has [color=\" + this.Const.UI.Color.NegativeValue + \"]\" + this.getHitChanceModifier() + \"%[/color] chance to hit\""
   }
 ]

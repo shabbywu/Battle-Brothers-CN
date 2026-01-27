@@ -9818,5 +9818,11 @@
     "translation": "]你的决心*15%[/color]的士气惩罚，而非仅在造成15点或以上伤害时进行无惩罚的士气检查。",
     "stage": 1,
     "context": "\"Make them scatter and flee! Any attack that inflicts at least 1 point of damage to hitpoints triggers a morale check for the opponent with a penalty equal to [color=\" + this.Const.UI.Color.NegativeValue + \"]15%[/color] of your Resolve, as opposed to with no penalty and only if at or above 15 points of damage.\""
+  },
+  {
+    "key": "beadbd1a47e31ca8717011e3124a2d950363e3099039edb857466f226ad80124",
+    "original": "Prowlers' Woods",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -54,5 +54,11 @@
     "translation": "[/color] 装弹剩余",
     "stage": 5,
     "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']' + ammo + '[/color] charge left'"
+  },
+  {
+    "key": "2aef3a9937a9e7cce7762c8b0b5024aa22e8845bd24b3c6c71d828b663c3e530",
+    "original": "%[/color] chance to hit",
+    "translation": "",
+    "context": "\"Has [color=\" + this.Const.UI.Color.PositiveValue + \"]+\" + this.getHitChanceModifier() + \"%[/color] chance to hit\""
   }
 ]

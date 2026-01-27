@@ -94,5 +94,17 @@
     "translation": "]+5[/color] 近战防御和 [color=",
     "stage": 5,
     "context": "this.m.OathBoonText = 'Your men build up [color=' + this.Const.UI.Color.NegativeValue + \"]25%[/color] less Fatigue when using shield skills. The 'Shield Wall' skill now grants an additional [color=\" + this.Const.UI.Color.PositiveValue + ']+5[/color] Melee Defense and [color=' + this.Const.UI.Color.PositiveValue + \"]+5[/color] Ranged Defense. The 'Knock Back' skill now staggers targets on hit.\""
+  },
+  {
+    "key": "bb55d59cb5cc0b435dd1785913b3e4193212a6109e428f8665694765816dc2c2",
+    "original": " fallen so far).",
+    "translation": "",
+    "context": "\"You gain extra Renown if none of your men fall in battle during the Oath (\" + this.getBonusObjectiveProgress() + \" fallen so far).\""
+  },
+  {
+    "key": "7a7d057da31c5bd2a777e6c60f6a8200dbc2fdb69b2f683db598b03dac6b1482",
+    "original": "You gain extra Renown if none of your men fall in battle during the Oath (",
+    "translation": "",
+    "context": "\"You gain extra Renown if none of your men fall in battle during the Oath (\" + this.getBonusObjectiveProgress() + \" fallen so far).\""
   }
 ]
