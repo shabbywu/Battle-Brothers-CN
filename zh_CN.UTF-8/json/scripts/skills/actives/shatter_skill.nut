@@ -102,5 +102,11 @@
     "translation": "]33%[/color] 几率在命中时造成趔趄",
     "stage": 5,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']33%[/color] chance to stagger on a hit'"
+  },
+  {
+    "key": "2aef3a9937a9e7cce7762c8b0b5024aa22e8845bd24b3c6c71d828b663c3e530",
+    "original": "%[/color] chance to hit",
+    "translation": "",
+    "context": "\"Has [color=\" + this.Const.UI.Color.NegativeValue + \"]\" + this.getHitChanceModifier() + \"%[/color] chance to hit\""
   }
 ]

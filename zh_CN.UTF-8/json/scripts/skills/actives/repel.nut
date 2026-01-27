@@ -94,5 +94,11 @@
     "translation": "逼退",
     "stage": 5,
     "context": "this.m.Name = 'Repel'"
+  },
+  {
+    "key": "2aef3a9937a9e7cce7762c8b0b5024aa22e8845bd24b3c6c71d828b663c3e530",
+    "original": "%[/color] chance to hit",
+    "translation": "",
+    "context": "\"Has [color=\" + this.Const.UI.Color.PositiveValue + \"]+\" + this.getHitChanceModifier() + \"%[/color] chance to hit\""
   }
 ]

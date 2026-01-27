@@ -62,5 +62,11 @@
     "translation": "额外对最多三个目标造成 [color=",
     "stage": 1,
     "context": "text = 'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
+  },
+  {
+    "key": "2aef3a9937a9e7cce7762c8b0b5024aa22e8845bd24b3c6c71d828b663c3e530",
+    "original": "%[/color] chance to hit",
+    "translation": "",
+    "context": "\"Has [color=\" + this.Const.UI.Color.PositiveValue + \"]+\" + this.getHitChanceModifier() + \"%[/color] chance to hit\""
   }
 ]

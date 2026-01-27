@@ -318,5 +318,11 @@
     "translation": "在预备队中无所事事",
     "stage": 5,
     "context": "bro.worsenMood(this.Const.MoodChange.BattleWithoutMe, 'Felt useless in reserve')"
+  },
+  {
+    "key": "df0c57d2e4b9afa7500af79bf1b04b42c335400457a277c5151c01b3c3905d90",
+    "original": "A Fleshy Corpse",
+    "translation": "",
+    "context": "corpse.CorpseName = \"A Fleshy Corpse\""
   }
 ]

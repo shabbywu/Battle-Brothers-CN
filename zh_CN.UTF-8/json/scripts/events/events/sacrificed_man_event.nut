@@ -110,5 +110,11 @@
     "translation": "你没能招募到一个邪教徒",
     "stage": 1,
     "context": "_event.m.Cultist.worsenMood(1.0, 'You failed to recruit a fellow cultist')"
+  },
+  {
+    "key": "80e4da3d3b2fc976bf563cf91c957972cb3d2c7ed6464a2805eafeb14b6ec036",
+    "original": "Of course we are.",
+    "translation": "",
+    "context": "Text = \"Of course we are.\""
   }
 ]

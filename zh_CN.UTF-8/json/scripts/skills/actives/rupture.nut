@@ -78,5 +78,11 @@
     "translation": "一种穿透攻击，可以覆盖2格的距离，可以从前线后方使用，超出大多数近战武器的范围。并且如果没有盔甲吸收打击则可以造成流血的伤口。",
     "stage": 5,
     "context": "this.m.Description = 'A thrusting attack that can cover the distance of 2 tiles and can be used from behind the frontline, outside the range of most melee weapons, and can tear bleeding wounds if not stopped by armor.'"
+  },
+  {
+    "key": "2aef3a9937a9e7cce7762c8b0b5024aa22e8845bd24b3c6c71d828b663c3e530",
+    "original": "%[/color] chance to hit",
+    "translation": "",
+    "context": "\"Has [color=\" + this.Const.UI.Color.PositiveValue + \"]+\" + this.getHitChanceModifier() + \"%[/color] chance to hit\""
   }
 ]
