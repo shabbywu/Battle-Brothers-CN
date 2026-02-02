@@ -30,5 +30,23 @@
     "translation": "{在你和他部落的战斗中，%name%幸存了下来。他要求加入你的战团，或是接受你的处决。你被他的勇敢打动，收留了他。作为一个化外之民，他不会说你的话，也不受战团里的人待见。但要说有什么能把两个人联系在一起，那无疑是并肩作战，携手杀敌，然后在酒馆里痛饮一夜。}",
     "stage": 1,
     "context": "return '{%name% survived the battle between yourself and his own tribe of warriors. He offered himself to your company or to your sword. Impressed by his bravery, you chose to take him in. A foreign brute, he hardly speaks your native tongue and he is not well liked by the rest of the company. But if anything can bond two men it is fighting beside one another, killing when it counts, and drinking the night away at the tavern.}';"
+  },
+  {
+    "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
+    "original": "body",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

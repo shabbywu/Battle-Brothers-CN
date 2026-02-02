@@ -38,5 +38,11 @@
     "translation": "一记暴力劈斩攻击，如果没有护甲吸收则会造成流血伤口，当然，前提是目标有血可流。",
     "stage": 1,
     "context": "this.m.Description = 'A brute force cleaving attack that can inflict bleeding wounds if there is no armor absorbing the blow and if the target is able to bleed at all.'"
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

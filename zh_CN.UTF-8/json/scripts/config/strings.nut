@@ -9824,5 +9824,83 @@
     "original": "Prowlers' Woods",
     "translation": "",
     "context": ""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "a9f51566bd6705f7ea6ad54bb9deb449f795582d6529a0e22207b8981233ec58",
+    "original": "E",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "a83dd0ccbffe39d071cc317ddf6e97f5c6b1c87af91919271f9fa140b0508c6c",
+    "original": "I",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "1ea442a134b2a184bd5d40104401f2a37fbc09ccf3f4bc9da161c6099be3691d",
+    "original": "No",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c4694f2e93d5c4e7d51f9c5deb75e6cc8be5e1114178c6a45b6fc2c566a0aa8c",
+    "original": "O",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "31058086b35a14d971dc55cd96f5d82c57d22aa8ab462172d66677ede215a25d",
+    "original": "Strings",
+    "translation": "",
+    "context": "!\"Strings\""
+  },
+  {
+    "key": "91c56707adfdfadd874a14e8b620f7b4a78006624b9a8abddbc5ed9d53d30ae1",
+    "original": "Tactical",
+    "translation": "",
+    "context": "!\"Tactical\""
+  },
+  {
+    "key": "a25513c7e0f6eaa80a3337ee18081b9e2ed09e00af8531c8f7bb2542764027e7",
+    "original": "U",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "683cf42adc44896f012cbc1d677e4a58487212e4076213a1c8570c801aafcf4f",
+    "original": "Wildmen",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "78ae647dc5544d227130a0682a51e30bc7777fbb6d8a8f17007463a3ecd1d524",
+    "original": "World",
+    "translation": "",
+    "context": "!\"World\""
+  },
+  {
+    "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
+    "original": "body",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "9f2e6d33a3717ee826353a404ba4618d1aeeb6879ad7936bce8ed5f46814924d",
+    "original": "head",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "9390298f3fb0c5b160498935d79cb139aef28e1c47358b4bbba61862b9c26e59",
+    "original": "no",
+    "translation": "",
+    "context": ""
   }
 ]

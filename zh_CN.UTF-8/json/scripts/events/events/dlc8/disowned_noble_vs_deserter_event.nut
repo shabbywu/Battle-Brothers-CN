@@ -54,5 +54,23 @@
     "translation": " 获得了 [color=",
     "stage": 1,
     "context": "text = _event.m.Disowned.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + attack_boost + '[/color] Melee Skill'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "1cd3f796ec23d3fa895d526176c2f1c3df89268f071aaa7e8929e746b3fc3628",
+    "original": "deserter",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "d8aed88c117edfde7603d4748a3ceb689638b7d32363710e75db2c9f46b2b381",
+    "original": "disowned",
+    "translation": "",
+    "context": ""
   }
 ]

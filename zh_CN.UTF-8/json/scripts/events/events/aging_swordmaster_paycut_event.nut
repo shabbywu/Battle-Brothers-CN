@@ -38,5 +38,17 @@
     "translation": "他的确是个高尚的人。",
     "stage": 5,
     "context": "Text = 'An honorable man if there ever was one.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "7bee15b8deab6ba5b9a89ddfbdf475ec525df25a9aa3481befc5963bd64b8816",
+    "original": "swordmaster",
+    "translation": "",
+    "context": ""
   }
 ]

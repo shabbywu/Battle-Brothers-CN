@@ -22,5 +22,23 @@
     "translation": "当你接近时……",
     "stage": 5,
     "context": "this.m.Title = 'As you approach...'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    return \"A\";;\n    return;\n}"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
   }
 ]

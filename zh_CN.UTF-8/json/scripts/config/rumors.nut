@@ -1646,5 +1646,11 @@
     "translation": "我曾经和%direction%边一些不那么野蛮的野蛮人做过买卖。上次去的时候，他们的一间小屋里还挂着一面华丽的盾牌呢。他们可能还在那边的%terrain%上。",
     "stage": 1,
     "context": "'I used to be trading with some of the not-so-wild barbarians %direction% of here. When I last visited them there was a magnificent shield hanging in one of their huts. They might still be hanging out there %terrain%.'"
+  },
+  {
+    "key": "31058086b35a14d971dc55cd96f5d82c57d22aa8ab462172d66677ede215a25d",
+    "original": "Strings",
+    "translation": "",
+    "context": "!\"Strings\""
   }
 ]

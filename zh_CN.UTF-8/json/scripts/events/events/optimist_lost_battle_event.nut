@@ -46,5 +46,17 @@
     "translation": "在途中……",
     "stage": 5,
     "context": "this.m.Title = 'Along the way...'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "1bd8f760226625d12831f60d96094a09c0e38ea31de7eb30e2ff3a33ad3a9636",
+    "original": "optimist",
+    "translation": "",
+    "context": ""
   }
 ]

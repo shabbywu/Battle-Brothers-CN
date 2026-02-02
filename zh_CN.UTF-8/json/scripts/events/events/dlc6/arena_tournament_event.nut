@@ -22,5 +22,17 @@
     "translation": "有趣。",
     "stage": 1,
     "context": "Text = \"Interesting.\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "50ac81f970325a3e011f2437818adde426e1278dee5670dd359edfca43a72d79",
+    "original": "town",
+    "translation": "",
+    "context": ""
   }
 ]

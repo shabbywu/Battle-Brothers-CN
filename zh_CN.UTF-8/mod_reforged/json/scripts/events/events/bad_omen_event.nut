@@ -1,0 +1,50 @@
+[
+  {
+    "key": "b8bd6a47fc0ec07ce7096e6aeb03acb157b9a19a4fc20236d4ea48e71698384c",
+    "original": " is afraid",
+    "translation": "",
+    "context": "_event.m.Superstitious.getName() + \" is afraid\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "ae31efc9bb7ce0a89c17317e6d702b0584f6bd73fe7518a2ae9d3464a76b1d5b",
+    "original": "Along the way...",
+    "translation": "",
+    "context": "this.m.Title = \"Along the way...\""
+  },
+  {
+    "key": "b41cccb551c9724c217630598906ee92e2442be93c9e83189082d2d7e6bc2f00",
+    "original": "Has seen a bad omen",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "f5150ee304c068edbef20dacf2450f7ec057d0c288d7fea3ec30ea4616f98d6d",
+    "original": "otherguy",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "a2b126945c422a4d223b258d4e43e172ec7dbdad5f9b3bcec95b6e2f61b4421f",
+    "original": "superstitious",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "57af79375b173f668a3106d30aafead7764b5f1b2a055d6fab72dbdf9a9e534d",
+    "original": "{Pull yourself together! | And I thought only children had such silly fears.}",
+    "translation": "",
+    "context": "Text = \"{Pull yourself together! | And I thought only children had such silly fears.}\""
+  },
+  {
+    "key": "1c4ef50bd56170cc930c6b10bc2498f21648990c64826fb4ae52cae2f468fa5a",
+    "original": "{[img]gfx/ui/events/event_12.png[/img]Cries whip through the party like the howls of the wind. There is not an enemy in sight so you've no idea what is causing this. You walk the ranks to find %superstitious% practically sobbing on the ground. He is clutching his chest with one hand while the other points to the sky, the finger shaking in pointed fear. %otherguy% explains that the man saw a great blaze of fire cross by the stars. Apparently this pathetic fool takes it for an omen and, of course, it isn't a good one. Whatever it is, it isn't going to get you where you need to be so you order the men to march. | [img]gfx/ui/events/event_12.png[/img] Shadows begin to fold in and on themselves in strange ways. You turn around to see the sun darkening, a great rim of black moving over it. Soon there is no sun at all. %superstitious% cries out that the end times are coming, but before his wailing can find a grip on the rest of your men, the great shade unveils the sun once more and there is light again as though nothing happened at all. You tell the pathetic fool to get to his feet. You've places to march and tears sure as hell won't get you there. | [img]gfx/ui/events/event_11.png[/img] %superstitious% is poking his sword into a warren when he suddenly cries out. He leaps away from the rabbit hole and screams that there is a two headed bunny within. Apparently this is a bad omen of things to come. All you can think is that two heads just means more meat for the stew. | [img]gfx/ui/events/event_11.png[/img]You pass beneath a tree whose branches are occupied by both a black cat and an albino crow. %superstitious% cries at the sight of it, saying that this is surely a sign of the end times. Why yes, of course it is. These things are never a sign of good things, right? Yeesh. | [img]gfx/ui/events/event_11.png[/img] You come across a deer skull. At first it means nothing to you, but %superstitious% picks it up with earnest. Muted dust pours out of the cavity as he turns it this way and that. Hands trembling, he throws the head out of his hands. It clatters hollow against the ground, tumbling over onto where the horns should be. The scared man claims that a soothsayer once told him that he would come across a skull such as this.\n\nThere are many skulls out here, you argue, because things have a tendency to die. Your words do nothing for the man as he slowly, and nervously, shuffles back into the marching rank. | [img]gfx/ui/events/event_11.png[/img] Marching along, a few of the men take up a game of finding shapes in the clouds. They banter back and forth about dogs and fat women and even of home, but the fun takes a wild turn when %superstitious% sees one odd-shaped cloud that brings him to his knees. He cries out that it is a bad omen, this cloud, and that doom will soon be upon the company. Thankfully, the fear does not grip the rest of the company who, instead of trembling, soon start bickering over whether or not the cloud is truly representative of %randombrother%'s impressive endowment.}",
+    "translation": "",
+    "context": "Text = \"{[img]gfx/ui/events/event_12.png[/img]Cries whip through the party like the howls of the wind. There is not an enemy in sight so you've no idea what is causing this. You walk the ranks to find %superstitious% practically sobbing on the ground. He is clutching his chest with one hand while the other points to the sky, the finger shaking in pointed fear. %otherguy% explains that the man saw a great blaze of fire cross by the stars. Apparently this pathetic fool takes it for an omen and, of course, it isn't a good one. Whatever it is, it isn't going to get you where you need to be so you order the men to march. | [img]gfx/ui/events/event_12.png[/img] Shadows begin to fold in and on themselves in strange ways. You turn around to see the sun darkening, a great rim of black moving over it. Soon there is no sun at all. %superstitious% cries out that the end times are coming, but before his wailing can find a grip on the rest of your men, the great shade unveils the sun once more and there is light again as though nothing happened at all. You tell the pathetic fool to get to his feet. You've places to march and tears sure as hell won't get you there. | [img]gfx/ui/events/event_11.png[/img] %superstitious% is poking his sword into a warren when he suddenly cries out. He leaps away from the rabbit hole and screams that there is a two headed bunny within. Apparently this is a bad omen of things to come. All you can think is that two heads just means more meat for the stew. | [img]gfx/ui/events/event_11.png[/img]You pass beneath a tree whose branches are occupied by both a black cat and an albino crow. %superstitious% cries at the sight of it, saying that this is surely a sign of the end times. Why yes, of course it is. These things are never a sign of good things, right? Yeesh. | [img]gfx/ui/events/event_11.png[/img] You come across a deer skull. At first it means nothing to you, but %superstitious% picks it up with earnest. Muted dust pours out of the cavity as he turns it this way and that. Hands trembling, he throws the head out of his hands. It clatters hollow against the ground, tumbling over onto where the horns should be. The scared man claims that a soothsayer once told him that he would come across a skull such as this.\\n\\nThere are many skulls out here, you argue, because things have a tendency to die. Your words do nothing for the man as he slowly, and nervously, shuffles back into the marching rank. | [img]gfx/ui/events/event_11.png[/img] Marching along, a few of the men take up a game of finding shapes in the clouds. They banter back and forth about dogs and fat women and even of home, but the fun takes a wild turn when %superstitious% sees one odd-shaped cloud that brings him to his knees. He cries out that it is a bad omen, this cloud, and that doom will soon be upon the company. Thankfully, the fear does not grip the rest of the company who, instead of trembling, soon start bickering over whether or not the cloud is truly representative of %randombrother%'s impressive endowment.}\""
+  }
+]

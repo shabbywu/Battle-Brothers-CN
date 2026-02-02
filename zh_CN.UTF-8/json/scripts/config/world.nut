@@ -78,5 +78,17 @@
     "translation": "未定义的桥梁笔刷",
     "stage": 1,
     "context": "return 'undefined bridge brush';"
+  },
+  {
+    "key": "78ae647dc5544d227130a0682a51e30bc7777fbb6d8a8f17007463a3ecd1d524",
+    "original": "World",
+    "translation": "",
+    "context": "!\"World\""
+  },
+  {
+    "key": "3e23e8160039594a33894f6564e1b1348bbd7a0088d42c4acb73eeaed59c009d",
+    "original": "b",
+    "translation": "",
+    "context": "\"b\" + _d"
   }
 ]

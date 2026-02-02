@@ -22,5 +22,29 @@
     "translation": "%townname%里",
     "stage": 5,
     "context": "this.m.Title = 'At %townname%'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "cf029c90a497e6c16c408c7e0ffbbeccb86bf32d933b12fe3beb0fa8e7ad6341",
+    "original": "noblehouse1",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "478f3e459c1db50e57e0d20857ad1b758c2c9051589f63420226f24c0c0fb68c",
+    "original": "noblehouse2",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "cce8cfe2ad73528fe61142ab4f5cda39410f936f701b34c2a94f736ac0a8797d",
+    "original": "townname",
+    "translation": "",
+    "context": ""
   }
 ]

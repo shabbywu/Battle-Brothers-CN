@@ -38,5 +38,23 @@
     "translation": "]-10[/color] 决心",
     "stage": 5,
     "context": "text = 'Has [color=' + this.Const.UI.Color.PositiveValue + ']+10[/color] or [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] Resolve randomly at every morale check'"
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

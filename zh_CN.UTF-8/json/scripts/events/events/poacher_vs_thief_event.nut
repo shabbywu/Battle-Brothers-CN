@@ -30,5 +30,23 @@
     "translation": "对的。",
     "stage": 1,
     "context": "Text = \"Right.\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "2005b79c198d46edc59fc4c888f9ff9b5fe63c4e131f6ae97166d6a3f102aa80",
+    "original": "poacher",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "8dd29add9992f7006f4d0f57bd9e468d6cd32012be2d820da3b6f369952e1521",
+    "original": "thief",
+    "translation": "",
+    "context": ""
   }
 ]

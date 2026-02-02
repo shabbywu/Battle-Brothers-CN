@@ -30,5 +30,29 @@
     "translation": "离开了",
     "stage": 1,
     "context": "text = _event.m.Deserter.getName() + ' leaves the ' + this.World.Assets.getName()"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "36c24b4d809b6a80b9ca662addc5ad176d7c05974b11e564d314a59a0074e074",
+    "original": "Deserter",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c46ec89055311e6c6aa7bc82258443ea81b03546e35c0e110b32df726e69fc4b",
+    "original": "desertedbrother",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "8a1b91f0a848e56df23e0300dadd21395da4522641b62d2d3f72880ae1c1a948",
+    "original": "otherbrother",
+    "translation": "",
+    "context": ""
   }
 ]

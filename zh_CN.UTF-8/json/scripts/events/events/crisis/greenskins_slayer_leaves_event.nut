@@ -30,5 +30,17 @@
     "translation": "离开了",
     "stage": 1,
     "context": "text = _event.m.Dude.getName() + ' leaves the ' + this.World.Assets.getName()"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "e39356ca575542e501150cf1817b4fe3399293672060c8c912b36743f7d13547",
+    "original": "orcslayer",
+    "translation": "",
+    "context": ""
   }
 ]

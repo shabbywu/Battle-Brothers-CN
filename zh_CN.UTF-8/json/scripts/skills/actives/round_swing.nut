@@ -46,5 +46,11 @@
     "translation": "切开",
     "stage": 5,
     "context": "this.m.KilledString = 'Carved up'"
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

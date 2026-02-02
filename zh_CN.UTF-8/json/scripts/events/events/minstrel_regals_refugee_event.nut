@@ -30,5 +30,35 @@
     "translation": "露营时……",
     "stage": 5,
     "context": "this.m.Title = 'During camp...'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    return \"A\";;\n    return;\n}"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "037af346cda0d1da17c865ccaada22c256da6e1391d84de2d8248633f48f8fd2",
+    "original": "minstrel",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "f0c913ecf11318b1988aae1672b9a911eb5e7fed83077726819f91c2c45e254c",
+    "original": "refugee",
+    "translation": "",
+    "context": ""
   }
 ]

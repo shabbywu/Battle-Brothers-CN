@@ -14,5 +14,23 @@
     "translation": "[/color] 回合后消退。\n\n角色的决心越高，抵抗魅惑的几率就越高。",
     "stage": 5,
     "context": "return 'This character has been charmed. He no longer has any control over his actions and is a puppet that has no choice but to obey his master. Wears off in [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + \"[/color] turn(s).\n\nThe higher a character's resolve, the higher the chance to resist being charmed.\";"
+  },
+  {
+    "key": "50eab20d532813f1032dc98d75780da077915e0d1ea23287152cbdbb04e3123d",
+    "original": "Charmed",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "50eab20d532813f1032dc98d75780da077915e0d1ea23287152cbdbb04e3123d",
+    "original": "Charmed",
+    "translation": "",
+    "context": "this.m.Name = \"Charmed\""
+  },
+  {
+    "key": "47dd56c2c7a7f7aac789ff6a0190ecc9f7508548c7e4f5118bef1622b478fbeb",
+    "original": "socket",
+    "translation": "",
+    "context": ""
   }
 ]

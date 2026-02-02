@@ -22,5 +22,17 @@
     "translation": "是的，加入我们。",
     "stage": 5,
     "context": "Text = 'Yes, join us.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "92a95ad892d99fa01a3db4e2f7c933374688715f5024bc322874c3f18bccce66",
+    "original": "joiner",
+    "translation": "",
+    "context": ""
   }
 ]

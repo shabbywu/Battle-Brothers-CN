@@ -14,5 +14,17 @@
     "translation": "一座古老神庙的遗迹，在久远的过去曾有先知居住于此。如今虽已倾颓，人们仍蜂拥而至，企图在此窥探未来的景象。",
     "stage": 5,
     "context": "return 'The remains of a temple that once housed an oracle in an age long past. Although ruined now, people still flock to it and have visions of things that will come to pass.';"
+  },
+  {
+    "key": "8c7ed2d9be59e21cf7cfc7da75c6c0cb7dd751f4a870f0f9236f0f35cbaf584e",
+    "original": "banner",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
+    "original": "body",
+    "translation": "",
+    "context": ""
   }
 ]

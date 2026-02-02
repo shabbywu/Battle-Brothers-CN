@@ -30,5 +30,17 @@
     "translation": "不再害怕野兽",
     "stage": 1,
     "context": "text = _event.m.Casualty.getName() + ' no longer fears beasts'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "331b049e72fbf94f8b7cfd782d77ba3c8f405d0bcf43f50a3d7b5f630ad0cefb",
+    "original": "fearful",
+    "translation": "",
+    "context": ""
   }
 ]

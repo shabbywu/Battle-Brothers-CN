@@ -62,5 +62,41 @@
     "translation": "你获得了[color=",
     "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + amount + '[/color] Tools and Supplies.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "d85eb74fd75da1bc566c5999caf5e328023b6ade367ce98626d91a7601c745ec",
+    "original": "Butcher",
+    "translation": "",
+    "context": "ID = \"Butcher\""
+  },
+  {
+    "key": "d85eb74fd75da1bc566c5999caf5e328023b6ade367ce98626d91a7601c745ec",
+    "original": "Butcher",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "d85eb74fd75da1bc566c5999caf5e328023b6ade367ce98626d91a7601c745ec",
+    "original": "Butcher",
+    "translation": "",
+    "context": "create = function create(){\n    this.m.ID = \"event.broken_wagon_in_swamp\";\n    this.m.Title = \"Along the way...\";\n    this.m.Cooldown = 60.0 * this.World.getTime().SecondsPerDay;\n    function getResult(_event){\n        if (_event.m.Butcher != null) {\n            return \"Butcher\";\n        } else {\n            return 0;\n        };\n        return;\n    };\n    function start(_event){\n        local amount = this.Math.rand(5, 15);\n        this.World.Assets.addArmorParts(amount);\n        this.List.push({\n            id = 10\n            icon = \"ui/icons/asset_supplies.png\"\n            text = \"You gain [color=\" + this.Const.UI.Color.PositiveEventValue + \"]+\" + amount + \"[/color] Tools and Supplies.\"\n        });\n        return;\n    };\n    this.m.Screens.push({\n        ID = \"A\"\n        Text = \"[img]gfx/ui/events/event_09.png[/img]Swamps are no safe place for a man's travels. Judging by the neverending smog and the way the trees bend, there's little doubt that it's a bubbling domicile for all things demonic. At least that's what the druids of these parts like to say. All you find is a couple of dead horses drowned in the mire and a wagon crushed by the mud which has seeped over its wheels and bed. %randombrother% rifles through the remains and manages to recover some items.%SPEECH_ON%Well, it's something. Whoever left this here left a short while ago. Probably spooked by whatever the hell lives out here in the day-to-day.%SPEECH_OFF%\"\n        Image = \"\"\n        List = []\n        Options = [{\n            Text = \"Still useful.\"\n            getResult = function getResult(_event){\n                if (_event.m.Butcher != null) {\n                    return \"Butcher\";\n                } else {\n                    return 0;\n                };\n                return;\n            }\n        }]\n        start = function start(_event){\n            local amount = this.Math.rand(5, 15);\n            this.World.Assets.addArmorParts(amount);\n            this.List.push({\n                id = 10\n                icon = \"ui/icons/asset_supplies.png\"\n                text = \"You gain [color=\" + this.Const.UI.Color.PositiveEventValue + \"]+\" + amount + \"[/color] Tools and Supplies.\"\n            });\n            return;\n        }\n    });\n    function getResult(_event){\n        return 0;;\n        return;\n    };\n    function start(_event){\n        this.Characters.push(_event.m.Butcher.getImagePath());\n        local item = this.new(\"scripts/items/supplies/strange_meat_item\");\n        this.World.Assets.getStash().add(item);\n        item = this.new(\"scripts/items/supplies/strange_meat_item\");\n        this.World.Assets.getStash().add(item);\n        this.List.push({\n            id = 10\n            icon = \"ui/items/\" + item.getIcon()\n            text = \"You gain \" + item.getName()\n        });\n        return;\n    };\n    this.m.Screens.push({\n        ID = \"Butcher\"\n        Text = \"[img]gfx/ui/events/event_14.png[/img]%SPEECH_ON%Sir, wait.%SPEECH_OFF%The former butcher, %butcher%, says. He moves on ahead and starts hacking at the corpse of a horse. He cuts out a series of chunks, wraps them in large leaves, dries them with a bit of dirt and salt, and hands them over.%SPEECH_ON%No reason in leaving behind what can be used.%SPEECH_OFF%\"\n        Image = \"\"\n        List = []\n        Characters = []\n        Options = [{\n            Text = \"And you're sure this is edible still?\"\n            getResult = function getResult(_event){\n                return 0;;\n                return;\n            }\n        }]\n        start = function start(_event){\n            this.Characters.push(_event.m.Butcher.getImagePath());\n            local item = this.new(\"scripts/items/supplies/strange_meat_item\");\n            this.World.Assets.getStash().add(item);\n            item = this.new(\"scripts/items/supplies/strange_meat_item\");\n            this.World.Assets.getStash().add(item);\n            this.List.push({\n                id = 10\n                icon = \"ui/items/\" + item.getIcon()\n                text = \"You gain \" + item.getName()\n            });\n            return;\n        }\n    });\n    return;\n}"
+  },
+  {
+    "key": "d85eb74fd75da1bc566c5999caf5e328023b6ade367ce98626d91a7601c745ec",
+    "original": "Butcher",
+    "translation": "",
+    "context": "getResult = function getResult(_event){\n    if (_event.m.Butcher != null) {\n        return \"Butcher\";\n    } else {\n        return 0;\n    };\n    return;\n}"
+  },
+  {
+    "key": "01303d3beb16b992be93426c567ae5d5adeb1981d9a1063c9194752e9f284b9d",
+    "original": "butcher",
+    "translation": "",
+    "context": ""
   }
 ]

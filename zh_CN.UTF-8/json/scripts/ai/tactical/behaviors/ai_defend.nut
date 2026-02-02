@@ -22,5 +22,11 @@
     "translation": ": 等待直到其他人移动！",
     "stage": 1,
     "context": "\"* \" + _entity.getName() + \": Waiting until others have moved!\""
+  },
+  {
+    "key": "fe1768e6fb4d535fcfa3948dba99c837bbb3634855b1af16b91585ed7bf1a529",
+    "original": "lindwurm",
+    "translation": "",
+    "context": ""
   }
 ]

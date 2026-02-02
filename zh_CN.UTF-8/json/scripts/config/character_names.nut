@@ -7734,5 +7734,11 @@
     "translation": "埃吉尔",
     "stage": 1,
     "context": "'Egil'"
+  },
+  {
+    "key": "31058086b35a14d971dc55cd96f5d82c57d22aa8ab462172d66677ede215a25d",
+    "original": "Strings",
+    "translation": "",
+    "context": "!\"Strings\""
   }
 ]

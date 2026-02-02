@@ -110,5 +110,11 @@
     "translation": "大熊",
     "stage": 1,
     "context": "bros[1].setTitle('the Bear')"
+  },
+  {
+    "key": "95e431e101cd6da55174ddfca09bfce83baa2ad0ccd31ecbc5983ab36fcbbd3c",
+    "original": "miniboss",
+    "translation": "",
+    "context": ""
   }
 ]

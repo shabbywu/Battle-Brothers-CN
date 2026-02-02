@@ -316,5 +316,83 @@
     "original": "PAUSED",
     "translation": "已暂停",
     "stage": 5
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "a9f51566bd6705f7ea6ad54bb9deb449f795582d6529a0e22207b8981233ec58",
+    "original": "E",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "a83dd0ccbffe39d071cc317ddf6e97f5c6b1c87af91919271f9fa140b0508c6c",
+    "original": "I",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c4694f2e93d5c4e7d51f9c5deb75e6cc8be5e1114178c6a45b6fc2c566a0aa8c",
+    "original": "O",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "a25513c7e0f6eaa80a3337ee18081b9e2ed09e00af8531c8f7bb2542764027e7",
+    "original": "U",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "5eab565ecf5fd249455ab7a981629975165e302de34816b4e5bd330ff7b8830c",
+    "original": "autosave",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "8c7ed2d9be59e21cf7cfc7da75c6c0cb7dd751f4a870f0f9236f0f35cbaf584e",
+    "original": "banner",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "ab51004e9d71a485f160f655fb9e72bcdef8f5ca4178b26938b49471456fd11c",
+    "original": "days",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "b129ae4200d2244c056bd55599b85cc632919f753f6ec835de0a9e5fa9b77a82",
+    "original": "difficulty",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "3fdcc2ac01a5d9861b9dce8143dace637f6e245d9562d119766cf4ed64ae91e1",
+    "original": "difficulty2",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "df7e5793bc7ae16e1f2f42af1603774664773a96242974445dfff377c90298c4",
+    "original": "dlc",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "27041f4e8dfcea4de066611964f4fc1cebd217bea481c29bb44266924c50ce91",
+    "original": "groupname",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "4f278cdddf52263fe21c64c94932f2b2ec316acecd39a7adcc01eb2e6592a678",
+    "original": "ironman",
+    "translation": "",
+    "context": ""
   }
 ]

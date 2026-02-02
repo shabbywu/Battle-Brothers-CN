@@ -14,5 +14,11 @@
     "translation": "食物。羊肉干是南方的特产，也是种抢手货。饥肠辘辘的佣兵们难得的享受。",
     "stage": 1,
     "context": "this.m.Description = 'Provisions. Dried Lamb is a speciality and a highy sought-after food in the south. A real treat for any hungry mercenary.'"
+  },
+  {
+    "key": "a3b50c476732c7409d297c3d7d0e23569fee5e08318553ae76041ab5fe60582e",
+    "original": "State",
+    "translation": "",
+    "context": "\"State\" && this.World.State != null && this.World.State.getCurrentTown() != null"
   }
 ]

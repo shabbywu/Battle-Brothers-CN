@@ -14,5 +14,11 @@
     "translation": "武器匠",
     "stage": 5,
     "context": "this.m.Name = 'Weaponsmith'"
+  },
+  {
+    "key": "8d9001d32c6a703d95921a77115050f33dd823d3f1730bd35215dcbecad6dc20",
+    "original": "shop",
+    "translation": "",
+    "context": ""
   }
 ]

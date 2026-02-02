@@ -94,5 +94,95 @@
     "translation": "[img]gfx/ui/events/event_53.png[/img]{幸存者艰难的爬离你。他在咕哝这什么。 你听不清，但语言还是很明显的：他知道你是谁，你是什么。 | 战斗结束了，你在战场找到一个幸存者。 他有点伤但是还有用。 | 孤独的土匪幸存者呼喊着旧神，你手中拿着锁链，心想合不合他的脖子。 | %SPEECH_ON%这是当土匪的惩罚吗？%SPEECH_OFF%北方人看着你掂量手中的锁链问道。 你还不太确定你会怎么处理他，但还是回答了。%SPEECH_ON%这不是惩罚，这只是生意。%SPEECH_OFF% | 土匪试着躲起来，但是作为最后的幸存者他就像片鲜红的战场上的白兔子。 他呼喊着旧神不会容忍你这样的人。你耸耸肩。%SPEECH_ON%旧神们现在不在这，不是吗？%SPEECH_OFF%然后你拿出了锁链绕在他的脖子上。%SPEECH_ON%不过我在想，你会愿意为了和你的其中一个神换位置付出多少，哼？%SPEECH_OFF%}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_53.png[/img]{The surviving man scrambles away from you. He's muttering something. You can't hear it, but the language is clear nonetheless: he knows who you are, and what you are. | The battle over, you find one survivor in the field. He's a little scraped up but could be of use. | The lone bandit survivor yells out for the old gods as you weigh a chain in your hand, wondering how it will fit around his neck. | %SPEECH_ON%Is this the penalty for banditry?%SPEECH_OFF%The northerner asks as you weigh a chain in your hand. You're still not sure yet of how you'll handle him, but answer anyway.%SPEECH_ON%This isn't punitive at all, it's merely business.%SPEECH_OFF% | The bandit tries to hide, but as the last survivor he's about as easy to spot as a white rabbit on a bloodslaked battlefield. He yells out that the old gods wouldn't abide by men such as yourself. You shrug.%SPEECH_ON%The old gods aren't standing where I am, now are they?%SPEECH_OFF%And you hold out the chain, sizing it with his neck.%SPEECH_ON%But I wonder, how much would you give up, to swap spots with one of your gods, hm?%SPEECH_OFF%}\""
+  },
+  {
+    "key": "6ebbcfd1076bf6e29db3f4f2476f6967ecfe8dd8ef1d1a6a440924f68d470151",
+    "original": "Bandits",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    local f = this.World.FactionManager.getFaction(this.World.Statistics.getFlags().getAsInt(\"LastCombatFaction\"));\n    if (f.getType() == this.Const.FactionType.NobleHouse) {\n        return \"Nobles\";\n    } else {\n        if (f.getType() == this.Const.FactionType.Settlement) {\n            return \"Civilians\";\n        } else {\n            if (f.getType() == this.Const.FactionType.Bandits) {\n                return \"Bandits\";\n            } else {\n                if (f.getType() == this.Const.FactionType.Barbarians) {\n                    return \"Barbarians\";\n                } else {\n                    if (f.getType() == this.Const.FactionType.OrientalCityState) {\n                        return \"CityState\";\n                    } else {\n                        if (f.getType() == this.Const.FactionType.OrientalBandits) {\n                            return \"Nomads\";\n                        } else {\n                            return \"Civilians\";\n                        }\n                    }\n                }\n            }\n        }\n    };\n    return;\n}"
+  },
+  {
+    "key": "6ebbcfd1076bf6e29db3f4f2476f6967ecfe8dd8ef1d1a6a440924f68d470151",
+    "original": "Bandits",
+    "translation": "",
+    "context": "ID = \"Bandits\""
+  },
+  {
+    "key": "6ebbcfd1076bf6e29db3f4f2476f6967ecfe8dd8ef1d1a6a440924f68d470151",
+    "original": "Bandits",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "7eb67b1e35cf703256f02dee6c774244031034b0f4a5ff21fc818cde1e8aa30c",
+    "original": "Barbarians",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    local f = this.World.FactionManager.getFaction(this.World.Statistics.getFlags().getAsInt(\"LastCombatFaction\"));\n    if (f.getType() == this.Const.FactionType.NobleHouse) {\n        return \"Nobles\";\n    } else {\n        if (f.getType() == this.Const.FactionType.Settlement) {\n            return \"Civilians\";\n        } else {\n            if (f.getType() == this.Const.FactionType.Bandits) {\n                return \"Bandits\";\n            } else {\n                if (f.getType() == this.Const.FactionType.Barbarians) {\n                    return \"Barbarians\";\n                } else {\n                    if (f.getType() == this.Const.FactionType.OrientalCityState) {\n                        return \"CityState\";\n                    } else {\n                        if (f.getType() == this.Const.FactionType.OrientalBandits) {\n                            return \"Nomads\";\n                        } else {\n                            return \"Civilians\";\n                        }\n                    }\n                }\n            }\n        }\n    };\n    return;\n}"
+  },
+  {
+    "key": "7eb67b1e35cf703256f02dee6c774244031034b0f4a5ff21fc818cde1e8aa30c",
+    "original": "Barbarians",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "7eb67b1e35cf703256f02dee6c774244031034b0f4a5ff21fc818cde1e8aa30c",
+    "original": "Barbarians",
+    "translation": "",
+    "context": "ID = \"Barbarians\""
+  },
+  {
+    "key": "49a0f9eb0224e7d63feb1a537dbad6aa584b623e8b852ffdd4860d01409af5e3",
+    "original": "Civilians",
+    "translation": "",
+    "context": "ID = \"Civilians\""
+  },
+  {
+    "key": "49a0f9eb0224e7d63feb1a537dbad6aa584b623e8b852ffdd4860d01409af5e3",
+    "original": "Civilians",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "49a0f9eb0224e7d63feb1a537dbad6aa584b623e8b852ffdd4860d01409af5e3",
+    "original": "Civilians",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    local f = this.World.FactionManager.getFaction(this.World.Statistics.getFlags().getAsInt(\"LastCombatFaction\"));\n    if (f.getType() == this.Const.FactionType.NobleHouse) {\n        return \"Nobles\";\n    } else {\n        if (f.getType() == this.Const.FactionType.Settlement) {\n            return \"Civilians\";\n        } else {\n            if (f.getType() == this.Const.FactionType.Bandits) {\n                return \"Bandits\";\n            } else {\n                if (f.getType() == this.Const.FactionType.Barbarians) {\n                    return \"Barbarians\";\n                } else {\n                    if (f.getType() == this.Const.FactionType.OrientalCityState) {\n                        return \"CityState\";\n                    } else {\n                        if (f.getType() == this.Const.FactionType.OrientalBandits) {\n                            return \"Nomads\";\n                        } else {\n                            return \"Civilians\";\n                        }\n                    }\n                }\n            }\n        }\n    };\n    return;\n}"
+  },
+  {
+    "key": "9da6bc61499199a72ee6cb9990946117b829bac9594a3594491b8e8dac379cd7",
+    "original": "Nobles",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    local f = this.World.FactionManager.getFaction(this.World.Statistics.getFlags().getAsInt(\"LastCombatFaction\"));\n    if (f.getType() == this.Const.FactionType.NobleHouse) {\n        return \"Nobles\";\n    } else {\n        if (f.getType() == this.Const.FactionType.Settlement) {\n            return \"Civilians\";\n        } else {\n            if (f.getType() == this.Const.FactionType.Bandits) {\n                return \"Bandits\";\n            } else {\n                if (f.getType() == this.Const.FactionType.Barbarians) {\n                    return \"Barbarians\";\n                } else {\n                    if (f.getType() == this.Const.FactionType.OrientalCityState) {\n                        return \"CityState\";\n                    } else {\n                        if (f.getType() == this.Const.FactionType.OrientalBandits) {\n                            return \"Nomads\";\n                        } else {\n                            return \"Civilians\";\n                        }\n                    }\n                }\n            }\n        }\n    };\n    return;\n}"
+  },
+  {
+    "key": "9da6bc61499199a72ee6cb9990946117b829bac9594a3594491b8e8dac379cd7",
+    "original": "Nobles",
+    "translation": "",
+    "context": "ID = \"Nobles\""
+  },
+  {
+    "key": "9da6bc61499199a72ee6cb9990946117b829bac9594a3594491b8e8dac379cd7",
+    "original": "Nobles",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "b71c2ac5b6dab192ccd05c880b7065b6912a4367e118bb1caf2704b195448b8f",
+    "original": "Nomads",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    local f = this.World.FactionManager.getFaction(this.World.Statistics.getFlags().getAsInt(\"LastCombatFaction\"));\n    if (f.getType() == this.Const.FactionType.NobleHouse) {\n        return \"Nobles\";\n    } else {\n        if (f.getType() == this.Const.FactionType.Settlement) {\n            return \"Civilians\";\n        } else {\n            if (f.getType() == this.Const.FactionType.Bandits) {\n                return \"Bandits\";\n            } else {\n                if (f.getType() == this.Const.FactionType.Barbarians) {\n                    return \"Barbarians\";\n                } else {\n                    if (f.getType() == this.Const.FactionType.OrientalCityState) {\n                        return \"CityState\";\n                    } else {\n                        if (f.getType() == this.Const.FactionType.OrientalBandits) {\n                            return \"Nomads\";\n                        } else {\n                            return \"Civilians\";\n                        }\n                    }\n                }\n            }\n        }\n    };\n    return;\n}"
+  },
+  {
+    "key": "b71c2ac5b6dab192ccd05c880b7065b6912a4367e118bb1caf2704b195448b8f",
+    "original": "Nomads",
+    "translation": "",
+    "context": "ID = \"Nomads\""
+  },
+  {
+    "key": "b71c2ac5b6dab192ccd05c880b7065b6912a4367e118bb1caf2704b195448b8f",
+    "original": "Nomads",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -38,5 +38,23 @@
     "translation": "不再是不安全的。",
     "stage": 1,
     "context": "text = _event.m.Insecure.getName() + ' is no longer insecure'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "d3655ec2b7da0acc622387e7288ea42daf0a17ae0bb0163eb22d518222902e8d",
+    "original": "eunuch",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "1d92dae504a70fbcae6d3721a55d7eacaf94d3133ea5f0394b7d203d64841110",
+    "original": "insecure",
+    "translation": "",
+    "context": ""
   }
 ]

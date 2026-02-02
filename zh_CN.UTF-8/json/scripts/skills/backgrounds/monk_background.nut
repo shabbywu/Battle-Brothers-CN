@@ -102,5 +102,17 @@
     "translation": "在经历了一次精神崩溃后，%name%退役并在一座修道院中找到了归所。他的所有兄弟和修道院长都因为他参与了这样的暴力冒险而排斥他。有传言说他在偷祭品时被教堂司事抓到，最终被流放。",
     "stage": 5,
     "context": "this.m.BadEnding = 'After having a spiritual breakdown, %name% retired from fighting and found home in a monastery. All his fellow brothers and abbots ostracized him for taking part in such a violent venture. Word has it he was eventually exiled when a sexton caught him stealing an offertory.'"
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

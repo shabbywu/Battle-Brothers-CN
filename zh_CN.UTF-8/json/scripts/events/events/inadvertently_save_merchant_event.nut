@@ -38,5 +38,17 @@
     "translation": "]25[/color]克朗",
     "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']25[/color] Crowns'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "cce8cfe2ad73528fe61142ab4f5cda39410f936f701b34c2a94f736ac0a8797d",
+    "original": "townname",
+    "translation": "",
+    "context": ""
   }
 ]

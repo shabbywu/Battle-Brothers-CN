@@ -14,5 +14,11 @@
     "translation": "毒药",
     "stage": 5,
     "context": "this.m.Name = 'Poison'"
+  },
+  {
+    "key": "b494b694cb092add1527a8be85e86b341628aeb2cf8e3f599caaf13c3cf4adca",
+    "original": "undead",
+    "translation": "",
+    "context": ""
   }
 ]

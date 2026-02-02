@@ -30,5 +30,17 @@
     "translation": "露营时……",
     "stage": 5,
     "context": "this.m.Title = 'During camp...'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "2b8c35ec7a1b46a3a66fcd78c8691fe083d13cbac753a8aae6846b645731c4b2",
+    "original": "anatomist",
+    "translation": "",
+    "context": ""
   }
 ]

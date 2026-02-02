@@ -30,5 +30,29 @@
     "translation": "为他感到高兴。",
     "stage": 1,
     "context": "Text = 'Good for him.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    return \"A\";;\n    return;\n}"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "dfc7858d24a47340e6a491706987b8fdc4745c02a2ecc8d67f8797fa5206d5e5",
+    "original": "forestlover",
+    "translation": "",
+    "context": ""
   }
 ]

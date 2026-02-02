@@ -22,5 +22,23 @@
     "translation": "为了财富、荣誉、和小安塞尔姆！",
     "stage": 1,
     "context": "Text = 'For gold, glory, and Young Anselm!'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "2c824c28326dc360b7ac2513574e11b90537c9d2af577978fe7ff1eef16cdb74",
+    "original": "oathtaker1",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "bea868c61ee21c970e672d396b70ffd8c2bd80804f6e0734ca06b6a3b88be137",
+    "original": "oathtaker2",
+    "translation": "",
+    "context": ""
   }
 ]

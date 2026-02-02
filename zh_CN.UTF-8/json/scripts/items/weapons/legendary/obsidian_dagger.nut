@@ -30,5 +30,29 @@
     "translation": "黑曜石匕首",
     "stage": 5,
     "context": "this.m.Name = 'Obsidian Dagger'"
+  },
+  {
+    "key": "f48889357806eadf93e3d63916610106af87e65c8cf76238ad0d5ca251eaf29b",
+    "original": "Corpse",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "79a5478768d2447431a90f7f4549df735f50ad541371464c248abc7522dc3a01",
+    "original": "human",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "cdb59355f3ba293977fc0945fb85f11822d412c45c7520c7121bd2234f6c1f48",
+    "original": "player",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

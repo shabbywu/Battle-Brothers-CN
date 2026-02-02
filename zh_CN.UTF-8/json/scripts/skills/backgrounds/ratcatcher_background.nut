@@ -38,5 +38,17 @@
     "translation": "捉鼠人%name%出身神秘，亦归于神秘。离开了%companyname%后，他开了一家捉鼠公司。他的生意非常好，直到有传言称他没有杀死任何老鼠，而是将成千上万的老鼠藏在城外的一个仓库里。据你最后所知，这个人对他新交的众多朋友非常满意。",
     "stage": 1,
     "context": "this.m.GoodEnding = \"%name% the ratcatcher came from stranger stocks, and to stranger stocks he returned. After retiring from the %companyname%, he started a ratcatching company. He was doing wonderful business until it came out that he hadn't been killing any of the rats, but instead stowing thousands of them in a storehouse just outside town. Last you heard, the man was quite content with his new and numerous friends.\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

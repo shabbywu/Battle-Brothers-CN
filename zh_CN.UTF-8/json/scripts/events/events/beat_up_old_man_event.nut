@@ -54,5 +54,35 @@
     "translation": "那个宝石戒指。交出来。",
     "stage": 1,
     "context": "Text = 'That jeweled ring. Hand it over.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "create = function create(){\n    this.m.ID = \"event.beat_up_old_man\";\n    this.m.Title = \"Along the road...\";\n    this.m.Cooldown = 60 * this.World.getTime().SecondsPerDay;\n    function getResult(_event){\n        return 0;;\n        return;\n    };\n    function getResult(_event){\n        return \"B\";;\n        return;\n    };\n    function start(_event){\n        return;\n    };\n    this.m.Screens.push({\n        ID = \"A\"\n        Text = \"[img]gfx/ui/events/event_17.png[/img]{You come across an old man hobbling along the road. He settles himself against his walking stick and awaits your approach. His eyes are grey, but he tilts his head as though to see you with his ears.%SPEECH_ON%Chinking armor. Heavy footsteps. Steady breaths. More warriors for a land of war.%SPEECH_OFF%The man straightens up as though to say 'am I right?'. You tell him that you're not here to harm him.%SPEECH_ON%So yes, I am right, as usual. It wouldn't be too much of a bother to run me through, though. My hearing's going and I suppose once it is gone so shall I be.%SPEECH_OFF%He pauses and turns his head.%SPEECH_ON%Did you say something?%SPEECH_OFF%You notice the man's got a nice jeweled ring on one of his bony fingers. %aggro_bro% sidles up to you.%SPEECH_ON%We could take that... you know, like taking a tart from a baby. A really blind, more helpless than usual baby.%SPEECH_OFF% | An old man with a walking stick is found resting against a stone wall. His hand caresses the stones with a familiar touch. He stares at you, a jeweled ring glistens on one of his bony fingers.%SPEECH_ON%Evening, sirs. What a fine day, no?%SPEECH_OFF%Getting a good look at him, you realize he is a blind man. | You come to an old man standing in the middle of the road, his body leaning against a walking stick. He's staring up at a road sign. He shakes his head.%SPEECH_ON%I know there is a sign here. I think %randomtown% is that way, if I recall correctly.%SPEECH_OFF%He turns to you grinning. His eyes glint white, blinded by old age. A very nice, very expensive looking jeweled ring glistens on one of his bony fingers.}\"\n        Image = \"\"\n        List = []\n        Options = [{\n            Text = \"Travel safely, old man.\"\n            getResult = function getResult(_event){\n                return 0;;\n                return;\n            }\n        },{\n            Text = \"That jeweled ring. Hand it over.\"\n            getResult = function getResult(_event){\n                return \"B\";;\n                return;\n            }\n        }]\n        start = function start(_event){\n            return;\n        }\n    });\n    function getResult(_event){\n        return 0;;\n        return;\n    };\n    function start(_event){\n        this.World.Assets.addMoralReputation(-1);\n        local item = this.new(\"scripts/items/loot/signet_ring_item\");\n        this.List.push({\n            id = 10\n            icon = \"ui/items/\" + item.getIcon()\n            text = \"You gain \" + item.getName()\n        });\n        this.World.Assets.getStash().add(item);\n        return;\n    };\n    this.m.Screens.push({\n        ID = \"B\"\n        Text = \"[img]gfx/ui/events/event_17.png[/img]{You approach the man. His head tilts up.%SPEECH_ON%That is a quickened pace, stranger, but I do not hear the sound of a sword, instead...%SPEECH_OFF%With a sudden push you knock the man to the ground. He clutches his walking stick, the end of it pointed upward as though you might impale yourself on its rounded tip. You kick his hand out of the way and step on his wrist, bending down to take the ring.%SPEECH_ON%Put steel through my heart while you're at it, ya bastard!%SPEECH_OFF%You let off the man and hand him back his stick, even helping him to his feet.%SPEECH_ON%No hard feelings, old man.%SPEECH_OFF% | You kick the man down. He grunts as though you'd just punted a pregnant boar. Turning over and clutching his stomach, he asks why, but you only kick him again to get him on his back. From there you easily rob him of the jeweled ring and make your leave. | The man smacks his old-man lips, that disgusting, crackling dry-mouth noise. In return, you rear back and throw a punch right into his stomach. Not seeing it coming, the elder eats it in full, blowing the air out of his lungs and bowling over. As he gasps for breath, you relieve him of the ring and leave. | The old man stands and leans against his walking stick. He raises his head up.%SPEECH_ON%Hmm, silence. The sound of ill intent between strangers. I stand in the dark, and you in the light, but where are we soon to be?%SPEECH_OFF%You kick the man's walking stick out from him and he topples over in a bumbling heap, his bony frame collapsing like a rickety hut. He rolls over and espouses some wisdom about violence between men. You boot him in the chest and tell him to shut up. The ring comes free of his finger with ease and you make your leave. | You crack your knuckles. The old man leans back.%SPEECH_ON%Surely violence is not the answer? This world doesn't need more of it.%SPEECH_OFF%With a swift punch, you knock him down and he crumples into a dry heaving mess. Taking the ring, you respond.%SPEECH_ON%I don't give a damn what this world needs or doesn't. I'm my own world and you yours. They just happened to cross paths, that's all. And guess what, old man? My world is bigger.%SPEECH_OFF%}\"\n        Image = \"\"\n        List = []\n        Options = [{\n            Text = \"Such is life.\"\n            getResult = function getResult(_event){\n                return 0;;\n                return;\n            }\n        }]\n        start = function start(_event){\n            this.World.Assets.addMoralReputation(-1);\n            local item = this.new(\"scripts/items/loot/signet_ring_item\");\n            this.List.push({\n                id = 10\n                icon = \"ui/items/\" + item.getIcon()\n                text = \"You gain \" + item.getName()\n            });\n            this.World.Assets.getStash().add(item);\n            return;\n        }\n    });\n    return;\n}"
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "ID = \"B\""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "getResult = function getResult(_event){\n    return \"B\";;\n    return;\n}"
   }
 ]

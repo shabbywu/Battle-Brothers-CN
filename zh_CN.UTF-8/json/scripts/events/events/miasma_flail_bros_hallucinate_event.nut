@@ -51,5 +51,11 @@
     "original": "hauntedbrother2",
     "translation": "",
     "stage": 9
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
   }
 ]

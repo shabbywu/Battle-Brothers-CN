@@ -22,5 +22,23 @@
     "translation": "该角色立下了友谊誓言，发誓与他的战友同生共死。然而，战场人数众多导致的普遍混乱，以及对个人技能与荣耀的忽视，会在战斗开始时削弱该角色的决心。",
     "stage": 5,
     "context": "this.m.Description = \"This character has taken an Oath of Camaraderie, and is sworn to stand and fall together with his allies. The general confusion of higher numbers on the battlefield, and the lack of focus on individual skill and personal glory has taken a toll on this character's resolve at the start of battle, however.\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

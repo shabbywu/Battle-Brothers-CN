@@ -30,5 +30,11 @@
     "translation": "这面盾牌用一棵活树的遗骸加工而成，会在受伤时再生。乍看之下，那张怪脸似乎依然会动。",
     "stage": 1,
     "context": "this.m.Description = 'This shield carved out of the remains of a living tree slowly regrows if it sustains any damage. At a glance, it almost looks as if its grotesque face is still moving.'"
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

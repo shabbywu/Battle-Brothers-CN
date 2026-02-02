@@ -62,5 +62,23 @@
     "translation": "[img]gfx/ui/events/event_52.png[/img]{在清点存货的时候，%randombrother% 提醒你一个可怕的消息：一大堆食物坏了。 简洁而中肯，你点头并感谢他这么快告诉你。 | 你在几箱食品中仔细挑选，结果发现一整箱的苹果都覆盖着一层灰色的毛状物。%randombrother% 对此说了一个词，但你以前从未听说过它。 不管怎样，这些水果都无法挽救，你只能把腐烂的水果扔掉。}",
     "stage": 1,
     "context": "this.Text = \"[img]gfx/ui/events/event_52.png[/img]{While pulling inventory duty, %randombrother% alerts you to a bit of dire news: a good sum of food has gone bad. Simple and to the point, you nod and thank him for telling you quickly. | You sift through a few crates of foodstuffs to find an entire carton of apples covered in what looks like grey fur. %randombrother% has a word for it, but you've never heard it before. Regardless, none of it can be salvaged and you toss the rotten fruit away.}\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    return \"A\";;\n    return;\n}"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
   }
 ]

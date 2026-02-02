@@ -318,5 +318,59 @@
     "translation": "心情愉快",
     "stage": 5,
     "context": "'In good spirit'"
+  },
+  {
+    "key": "d81ea1595a0453780e68c2988980d28cccabbe2a774e77725c4e66a56f073fd4",
+    "original": "armor",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
+    "original": "body",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c3838a8256696f47188d6641d945bfa308260c137b04e0e4de327e39d54cb615",
+    "original": "dirt",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "4dc2159bba05da394c3b94c6f54354db1f1f43b321ac4bbdfc2f658237858c70",
+    "original": "hair",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "9f2e6d33a3717ee826353a404ba4618d1aeeb6879ad7936bce8ed5f46814924d",
+    "original": "head",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "115584860cd5620e40fd03402e771e185a3f789038d1f70c9d651ee60580c3bb",
+    "original": "helmet",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "a945a02a044c3286e670d0ffff0cd9e8e46b3f6bcf9cf6bfaf19311d60fa830c",
+    "original": "injury",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c59435a1e9474332701fdc4ce135dbcc2d733502c43078e2d8a3565cc41ef48a",
+    "original": "quiver",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "2a0070d014bc41cb1fb0e65f98a3c94e00478a2501dca02836d2d5eb3a742a62",
+    "original": "skin",
+    "translation": "",
+    "context": ""
   }
 ]

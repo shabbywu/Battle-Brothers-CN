@@ -30,5 +30,11 @@
     "translation": "这件盔甲在不影响耐久的同时，换用了一种更为轻便的衬垫。",
     "stage": 1,
     "context": "this.m.ArmorDescription = 'This armor has its padding replaced by a lighter but no less durable one.'"
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

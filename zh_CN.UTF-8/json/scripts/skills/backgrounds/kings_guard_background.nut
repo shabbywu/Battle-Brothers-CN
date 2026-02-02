@@ -30,5 +30,17 @@
     "translation": "当你在北方荒野中发现冻僵的%name%时，你以为他只不过是个乡下人。然而事实证明，他是个名副其实的国王护卫。他为保护自己的领主而战，而他的敌人是整个世界。所幸，那段时间里，那个“领主”恰好是你。据你最近听到的消息，他前往了南方，护卫着一个新兴的游牧民国王，试图推翻当地的维齐尔。",
     "stage": 1,
     "context": "this.m.GoodEnding = \"You thought %name% a simple peasant when you found him freezing in the wastes of the north. As it turned out, he was very much a King's Guard, not only in title but in action. He fought like a man protecting his liege from the world at large. Thankfully, for a time, that 'liege' happened to be you. Last you heard he traveled to the southern realms and is protecting an upstart nomad king trying to overthrow the local Viziers.\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

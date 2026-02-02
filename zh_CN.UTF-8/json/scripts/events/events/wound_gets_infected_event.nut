@@ -30,5 +30,35 @@
     "translation": "露营时……",
     "stage": 5,
     "context": "this.m.Title = 'During camp...'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "8a1b91f0a848e56df23e0300dadd21395da4522641b62d2d3f72880ae1c1a948",
+    "original": "otherbrother",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "89364a0a769977b32c6e4dbf27068662d8581106dcead87ba8524c518820f149",
+    "original": "wound",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "ab9f28905dcc553b3a00afd6ec83e01b6bf321a7af78c9e71c05a966158128c8",
+    "original": "woundedbrother",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "ee114f12c48e4bb56b82e58588a3591c7498b99b4912b534c42e5bb90b5c5ded",
+    "original": "woundedbrothershort",
+    "translation": "",
+    "context": ""
   }
 ]

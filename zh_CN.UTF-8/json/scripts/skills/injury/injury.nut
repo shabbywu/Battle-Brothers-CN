@@ -94,5 +94,41 @@
     "translation": "暂时满足于充当后备",
     "stage": 5,
     "context": "text = 'Is content for now with being in reserve'"
+  },
+  {
+    "key": "a3b50c476732c7409d297c3d7d0e23569fee5e08318553ae76041ab5fe60582e",
+    "original": "State",
+    "translation": "",
+    "context": "\"State\" && this.World.State != null && this.World.Retinue.hasFollower(\"follower.surgeon\")"
+  },
+  {
+    "key": "a3b50c476732c7409d297c3d7d0e23569fee5e08318553ae76041ab5fe60582e",
+    "original": "State",
+    "translation": "",
+    "context": "\"State\" && this.World.State != null && this.World.State.getCombatStartTime() != 0"
+  },
+  {
+    "key": "a3b50c476732c7409d297c3d7d0e23569fee5e08318553ae76041ab5fe60582e",
+    "original": "State",
+    "translation": "",
+    "context": "\"State\" && this.Tactical.State != null"
+  },
+  {
+    "key": "a3b50c476732c7409d297c3d7d0e23569fee5e08318553ae76041ab5fe60582e",
+    "original": "State",
+    "translation": "",
+    "context": "\"State\" && this.World.State != null && this.World.Assets.getMedicine() <= 0 && this.m.IsHealingMentioned"
+  },
+  {
+    "key": "b80e0af617d0f8ff54ab3142c34c76e83eafe75c6b2cbe87a44c56bb8505dd01",
+    "original": "hint",
+    "translation": "",
+    "context": "type = \"hint\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

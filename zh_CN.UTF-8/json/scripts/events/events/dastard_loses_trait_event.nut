@@ -30,5 +30,41 @@
     "translation": "露营时……",
     "stage": 5,
     "context": "this.m.Title = 'During camp...'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    return \"A\";;\n    return;\n}"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "4a06dab1e904fa2e9d12b77c6174cf9ec9b539fc31ca45ce0137557b1f303139",
+    "original": "braveman1",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "eab9a47de0c4095bacc20098b1092e80f211136874ab70d6a9c9fd3a8600b56b",
+    "original": "braveman2",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "198b6f2cf3b5120a7f86d1b16966ba4e07ca71006c1bce84ffc730f51f0b9d85",
+    "original": "dastard",
+    "translation": "",
+    "context": ""
   }
 ]

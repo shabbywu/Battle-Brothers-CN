@@ -30,5 +30,11 @@
     "translation": ": 等待直到其他人移动！",
     "stage": 1,
     "context": "\"* \" + _entity.getName() + \": Waiting until others have moved!\""
+  },
+  {
+    "key": "f48889357806eadf93e3d63916610106af87e65c8cf76238ad0d5ca251eaf29b",
+    "original": "Corpse",
+    "translation": "",
+    "context": ""
   }
 ]

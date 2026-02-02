@@ -38,5 +38,17 @@
     "translation": "完全吸收每场战斗中不能无视护甲的第一次命中伤害",
     "stage": 1,
     "context": "text = \"Completely absorbs the first hit of every combat encounter which doesn't ignore armor\""
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]-2[/color] Maximum Fatigue\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

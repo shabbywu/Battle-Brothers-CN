@@ -30,5 +30,17 @@
     "translation": "不管他",
     "stage": 1,
     "context": "Text = 'Leave him be.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "996a7bfe646a1a1b102f68b7ebb7e01626f2a7c2128e1f8091c2b8b1da29d373",
+    "original": "fainthearted",
+    "translation": "",
+    "context": ""
   }
 ]

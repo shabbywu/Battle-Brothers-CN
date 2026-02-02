@@ -30,5 +30,17 @@
     "translation": "引人入胜啊。",
     "stage": 1,
     "context": "Text = \"Captivating.\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "cf8108731757e7da3594eedfecbc67010cd8c06b31c3186fbc568fc9e74d06d6",
+    "original": "barbarian",
+    "translation": "",
+    "context": ""
   }
 ]

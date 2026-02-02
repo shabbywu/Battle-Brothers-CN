@@ -46,5 +46,23 @@
     "translation": "受到了轻微伤",
     "stage": 1,
     "context": "text = _event.m.Brawler1.getName() + ' suffers light wounds'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "432fd51a02b9b69fd4f72b16a0b50602a2e556add9461e89fcc5c95b13b796cc",
+    "original": "brawler",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "17fa8008db058020c3abe944975e819677234f4f2ce5ca50581ea8548d2bc579",
+    "original": "brawler2",
+    "translation": "",
+    "context": ""
   }
 ]

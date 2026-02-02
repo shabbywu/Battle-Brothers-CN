@@ -30,5 +30,23 @@
     "translation": "浸毒武器",
     "stage": 1,
     "context": "this.m.Name = 'Weapon coated with poison'"
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
+  },
+  {
+    "key": "b494b694cb092add1527a8be85e86b341628aeb2cf8e3f599caaf13c3cf4adca",
+    "original": "undead",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -406,5 +406,167 @@
     "translation": "你获得了[color=",
     "stage": 5,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']400[/color] Crowns'"
+  },
+  {
+    "key": "532fdae24a3de05aa2f0c025a2f7c3eec4e41a3caad7db1574c98fcb7d89e024",
+    "original": "Briefing",
+    "translation": "",
+    "context": "ID = \"Briefing\""
+  },
+  {
+    "key": "532fdae24a3de05aa2f0c025a2f7c3eec4e41a3caad7db1574c98fcb7d89e024",
+    "original": "Briefing",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "f48889357806eadf93e3d63916610106af87e65c8cf76238ad0d5ca251eaf29b",
+    "original": "Corpse",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "4777b408551571343a036d37da3e8eac8e6ff72ab312c33b17b1d977470be31a",
+    "original": "Finale",
+    "translation": "",
+    "context": "ID = \"Finale\""
+  },
+  {
+    "key": "4777b408551571343a036d37da3e8eac8e6ff72ab312c33b17b1d977470be31a",
+    "original": "Finale",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "24601bcaae6e170b381367ec4f4475786c6dbef5e8332f8903779c76d298d304",
+    "original": "Intro",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "24601bcaae6e170b381367ec4f4475786c6dbef5e8332f8903779c76d298d304",
+    "original": "Intro",
+    "translation": "",
+    "context": "ID = \"Intro\""
+  },
+  {
+    "key": "3803d5d84b49f4d89171869c436061efb615d7b53a0c14cab12b663b7f50542b",
+    "original": "Recruit",
+    "translation": "",
+    "context": "ID = \"Recruit\""
+  },
+  {
+    "key": "3803d5d84b49f4d89171869c436061efb615d7b53a0c14cab12b663b7f50542b",
+    "original": "Recruit",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "6b0143d03864993fdf6922b8be1c69b93b24babb9989edd7533f9eeb680148e0",
+    "original": "Return",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "6b0143d03864993fdf6922b8be1c69b93b24babb9989edd7533f9eeb680148e0",
+    "original": "Return",
+    "translation": "",
+    "context": "ID = \"Return\""
+  },
+  {
+    "key": "c88a0b907419a70c27ab7c1f8e5fb54441a4d9c3567e4c928fa7b2091194aecf",
+    "original": "Success",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c88a0b907419a70c27ab7c1f8e5fb54441a4d9c3567e4c928fa7b2091194aecf",
+    "original": "Success",
+    "translation": "",
+    "context": "ID = \"Success\""
+  },
+  {
+    "key": "941192abb086502a3dfe15af00eaa964f230e9e6123c3e719320c9cf1cb22de0",
+    "original": "beard",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "1de22dca07303c5c3b2b8c9d4513980cd88c57f5eca965bef70f949dd68d363e",
+    "original": "bigcity",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "a5e7c002443743c5836758c7d1cd8ddefd9fcf2061daa0efaac683fb99966057",
+    "original": "boss",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "9f92d583fea526b56be0aa15c6556de957ed00908b8632875df7e08fa360bc6b",
+    "original": "bro1",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "76cf2c1f56707e565a2f9d88c3905ee8d02e79924479f23f7dcc293bdfa9e20d",
+    "original": "bro2",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "40555664d0d2390e77fd88c4fb3a7b9886e4d86a08e227dd0e21e891a6169890",
+    "original": "bro3",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "b23155dc9c91d33c69f3207f25ad7e9fa22f232563381ec657757e68d4740e1c",
+    "original": "citydirection",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "93c4abe27cf1696102534bb60b3795f41f60f52fa806cd5d0feadfc8bd2b8170",
+    "original": "direction",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "4dc2159bba05da394c3b94c6f54354db1f1f43b321ac4bbdfc2f658237858c70",
+    "original": "hair",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "9f2e6d33a3717ee826353a404ba4618d1aeeb6879ad7936bce8ed5f46814924d",
+    "original": "head",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "e6eaea18e885e1078829b56df34896be5ab51439e8f0ba00cb1624b2c572c10e",
+    "original": "location",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "65045134064dd4d905665eceaf4153fea4f9d69d2ae22255a0b7cef4701f4886",
+    "original": "selection",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "47dd56c2c7a7f7aac789ff6a0190ecc9f7508548c7e4f5118bef1622b478fbeb",
+    "original": "socket",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "84088805e145b555f349c164a7cfdcf13981e0affcba4393aaa78ae40f320f4e",
+    "original": "terrain",
+    "translation": "",
+    "context": ""
   }
 ]

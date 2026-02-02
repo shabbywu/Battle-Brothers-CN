@@ -30,5 +30,23 @@
     "translation": "你真幸运。",
     "stage": 1,
     "context": "Text = 'Lucky you.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "8bf18252cb6dadd5f42fca108271e688696209cdb6fae22e32318b204e6eb37d",
+    "original": "finding",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "db9fbddbd7caeff7a326645c1bb47116eb3fd4ae3834bf5039fc5d47386786f5",
+    "original": "lucky",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -86,5 +86,17 @@
     "translation": "至少他感觉有精力...",
     "stage": 1,
     "context": "Text = \"At least he's feeling energetic...\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "0bd8b2e19931fe065ab5bc50a5e0880f89f4cc812bb6b31a68c4e723cf7633f7",
+    "original": "gladiator",
+    "translation": "",
+    "context": ""
   }
 ]

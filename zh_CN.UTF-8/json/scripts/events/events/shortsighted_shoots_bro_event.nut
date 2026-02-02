@@ -54,5 +54,41 @@
     "translation": "检查一下你的伤，%shortsightedtargetshort%。",
     "stage": 1,
     "context": "Text = 'Get that wound looked at, %shortsightedtargetshort%.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    return \"A\";;\n    return;\n}"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "b44edb5c976ebd0e4b43e9ae12d436c80e342392fa703643874d41f996070158",
+    "original": "shortsighted",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "777892d98364c4de31ec67cf340f66badbae85ce22af7d346be32ed8edd1fb35",
+    "original": "shortsightedtarget",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "bcc15c31d5704a90dd3c831aaa9c9247b4f1102729ff7ef2cefbdf3ad99661f1",
+    "original": "shortsightedtargetshort",
+    "translation": "",
+    "context": ""
   }
 ]

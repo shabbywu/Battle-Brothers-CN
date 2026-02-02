@@ -54,5 +54,41 @@
     "translation": "[img]gfx/ui/events/event_58.png[/img]%determined% 继续说着，他的拇指几乎扎进了胸膛。%SPEECH_ON%我不是想说世界有多操蛋。 我要让全世界为我们道歉。 我没有请求任何邀请，所以我没有在这个操蛋的派对上表现得很好。 下辈子见，兄弟们，但在那之前，让我们在此生共舞吧！%SPEECH_OFF%一阵欢呼爆发了，队员们站了起来，以一种兴高采烈的方式爆发了出来，仿佛大地把他们一直拴在一起。",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_58.png[/img]%determined% continues, almost stabbing his thumb into his chest.%SPEECH_ON%I'm not taking the world's shit. I'm gonna make the world sorry for having me here. I didn't ask for no invitation so I ain't gonna play nice to this farkin' party. See you in the next life, men, but until then, let's dance in this one!%SPEECH_OFF%A cheer erupts and the men get to their feet, a sense of elation bursting forth as though the ground had them chained all along.\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "ID = \"B\""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "create = function create(){\n    this.m.ID = \"event.determined_delivers_peptalk\";\n    this.m.Title = \"During camp...\";\n    this.m.Cooldown = 40.0 * this.World.getTime().SecondsPerDay;\n    function getResult(_event){\n        return \"B\";;\n        return;\n    };\n    function start(_event){\n        this.Characters.push(_event.m.Determined.getImagePath());\n        return;\n    };\n    this.m.Screens.push({\n        ID = \"A\"\n        Text = \"[img]gfx/ui/events/event_58.png[/img]You are beginning to worry that a sort of malaise has fallen upon the men. They sit about the campfire, mindlessly poking sticks into the flames. Each face shows a loss of control, a loss of governance over one's own destiny. If a man can't know if tomorrow will be better than today, then how is he to keep pushing forward? Just as you are about to address this, %determined% stands up and so despondent is the mood that even the swift motion by itself catches the company's attention.%SPEECH_ON%Look at you bunch of sorry sad sacks. Do you think you're unique? Do you think you're the first to feel like shit? No, of course not. You'd not be the first to give up, either. To lay down and not rise again. That's the easy thing to do. That's what the world wants you to do. There's enough sonsabitches around, no need in having some sorry asses like yourselves mucking things up if you don't want no part and parcel in this punishment we call life.%SPEECH_OFF%Roused by this speech, you see a bit of a glint falling over the company.\"\n        Image = \"\"\n        List = []\n        Characters = []\n        Options = [{\n            Text = \"The man is right!\"\n            getResult = function getResult(_event){\n                return \"B\";;\n                return;\n            }\n        }]\n        start = function start(_event){\n            this.Characters.push(_event.m.Determined.getImagePath());\n            return;\n        }\n    });\n    function getResult(_event){\n        return 0;;\n        return;\n    };\n    function start(_event){\n        this.Characters.push(_event.m.Determined.getImagePath());\n        local brothers = this.World.getPlayerRoster().getAll();\n        foreach( bro in brothers){\n            if (bro.getMoodState() <= this.Const.MoodState.Neutral && this.Math.rand(1, 100) <= 33) {\n                bro.improveMood(1.0, \"Inspired by \" + _event.m.Determined.getNameOnly() + \"'s speech\");\n                if (bro.getMoodState() >= this.Const.MoodState.Neutral) {\n                    this.List.push({\n                        id = 10\n                        icon = this.Const.MoodStateIcon[bro.getMoodState()]\n                        text = bro.getName() + this.Const.MoodStateEvent[bro.getMoodState()]\n                    })\n                }\n            }\n        };\n        return;\n    };\n    this.m.Screens.push({\n        ID = \"B\"\n        Text = \"[img]gfx/ui/events/event_58.png[/img]%determined% continues, almost stabbing his thumb into his chest.%SPEECH_ON%I'm not taking the world's shit. I'm gonna make the world sorry for having me here. I didn't ask for no invitation so I ain't gonna play nice to this farkin' party. See you in the next life, men, but until then, let's dance in this one!%SPEECH_OFF%A cheer erupts and the men get to their feet, a sense of elation bursting forth as though the ground had them chained all along.\"\n        Image = \"\"\n        List = []\n        Characters = []\n        Options = [{\n            Text = \"Hear, hear!\"\n            getResult = function getResult(_event){\n                return 0;;\n                return;\n            }\n        }]\n        start = function start(_event){\n            this.Characters.push(_event.m.Determined.getImagePath());\n            local brothers = this.World.getPlayerRoster().getAll();\n            foreach( bro in brothers){\n                if (bro.getMoodState() <= this.Const.MoodState.Neutral && this.Math.rand(1, 100) <= 33) {\n                    bro.improveMood(1.0, \"Inspired by \" + _event.m.Determined.getNameOnly() + \"'s speech\");\n                    if (bro.getMoodState() >= this.Const.MoodState.Neutral) {\n                        this.List.push({\n                            id = 10\n                            icon = this.Const.MoodStateIcon[bro.getMoodState()]\n                            text = bro.getName() + this.Const.MoodStateEvent[bro.getMoodState()]\n                        })\n                    }\n                }\n            };\n            return;\n        }\n    });\n    return;\n}"
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "getResult = function getResult(_event){\n    return \"B\";;\n    return;\n}"
+  },
+  {
+    "key": "891af2861ee601923b0126a5b4ef8b1742c7757e330a0dd230f95117dd91212a",
+    "original": "determined",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -70,5 +70,11 @@
     "translation": "尘埃落定",
     "stage": 5,
     "context": "text = 'Almost Over'"
+  },
+  {
+    "key": "c0c891576c30453e44b9df673588a6a79f86baeb6ac9da100520699a9adfc6ec",
+    "original": "winninghouse",
+    "translation": "",
+    "context": ""
   }
 ]

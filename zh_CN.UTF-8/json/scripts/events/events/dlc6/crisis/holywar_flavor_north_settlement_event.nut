@@ -22,5 +22,11 @@
     "translation": "你说是就是。",
     "stage": 1,
     "context": "Text = 'If you say so.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
   }
 ]

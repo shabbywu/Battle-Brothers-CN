@@ -22,5 +22,29 @@
     "translation": "很高兴知道。",
     "stage": 1,
     "context": "Text = 'Good to know.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "d2e22c85ac64c2d01da1056d29f141def5b39a1fbd88b8b7ed1037b8c9e416ca",
+    "original": "noblehouse",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "cf029c90a497e6c16c408c7e0ffbbeccb86bf32d933b12fe3beb0fa8e7ad6341",
+    "original": "noblehouse1",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "478f3e459c1db50e57e0d20857ad1b758c2c9051589f63420226f24c0c0fb68c",
+    "original": "noblehouse2",
+    "translation": "",
+    "context": ""
   }
 ]

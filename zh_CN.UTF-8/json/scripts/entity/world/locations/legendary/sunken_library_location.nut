@@ -14,5 +14,11 @@
     "translation": "从沙子里露出的金色圆顶在阳光下熠熠生辉，揭示着更为庞大的建筑物正沉寂于此，深埋沙下历经岁月。",
     "stage": 5,
     "context": "return 'Shimmering in the sun, golden domes peer out of the sand and give away that something larger lies dormant here, sunken and buried under the sand for ages.';"
+  },
+  {
+    "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
+    "original": "body",
+    "translation": "",
+    "context": ""
   }
 ]

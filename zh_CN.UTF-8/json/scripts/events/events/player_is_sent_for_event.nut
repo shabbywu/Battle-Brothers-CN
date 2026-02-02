@@ -22,5 +22,23 @@
     "translation": "在路上……",
     "stage": 5,
     "context": "this.m.Title = 'Along the road...'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "93c4abe27cf1696102534bb60b3795f41f60f52fa806cd5d0feadfc8bd2b8170",
+    "original": "direction",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "a75c433ab2ae1daf8b032d38bf64e02fb152076b487bfb2784d10e4cf1bba73a",
+    "original": "settlement",
+    "translation": "",
+    "context": ""
   }
 ]

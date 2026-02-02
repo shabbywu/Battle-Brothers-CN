@@ -38,5 +38,17 @@
     "translation": "由于%companyname%遭遇困境，许多兄弟们打算回归他们以前的生活。小贩%name%也不例外。据你最后一次听到的消息，他在试图把“路上拾来的”商品卖给他本来的主人的时候被痛打了一顿。",
     "stage": 1,
     "context": "this.m.BadEnding = \"With hard times hitting the %companyname%, many brothers saw fit to return to their old lives. %name% the peddler was no different. Last you heard he got the tar beaten out of him trying to sell stolen wares that 'fell off the wagon' to the very merchant which they originally belonged.\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

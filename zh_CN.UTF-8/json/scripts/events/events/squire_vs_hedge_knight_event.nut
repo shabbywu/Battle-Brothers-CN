@@ -46,5 +46,23 @@
     "translation": " 获得了 [color=",
     "stage": 1,
     "context": "text = _event.m.Squire.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + resolve + '[/color] Resolve'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "65aae23df8220cdccdb8a0b4956662d6aec357260174640935cd0bf2e2013b6f",
+    "original": "hedgeknight",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "e4cf19cc9404a46c3edfff5611431c858956acdb08beb667a5617fdfd90378e4",
+    "original": "squire",
+    "translation": "",
+    "context": ""
   }
 ]

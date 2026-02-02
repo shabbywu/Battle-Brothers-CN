@@ -150,5 +150,41 @@
     "translation": "被缚者(the Bound)",
     "stage": 1,
     "context": "'the Bound'"
+  },
+  {
+    "key": "a3b50c476732c7409d297c3d7d0e23569fee5e08318553ae76041ab5fe60582e",
+    "original": "State",
+    "translation": "",
+    "context": "\"State\" && this.World.State != null && this.World.Assets.getOrigin() != null && this.World.Assets.getOrigin().getID() == \"scenario.manhunters\""
+  },
+  {
+    "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
+    "original": "body",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "c3838a8256696f47188d6641d945bfa308260c137b04e0e4de327e39d54cb615",
+    "original": "dirt",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

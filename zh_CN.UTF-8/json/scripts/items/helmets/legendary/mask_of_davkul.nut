@@ -30,5 +30,11 @@
     "translation": "]90[/color] 点耐久。",
     "stage": 1,
     "context": "text = 'Regenerates itself by [color=' + this.Const.UI.Color.PositiveValue + ']90[/color] points of durability each turn.'"
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

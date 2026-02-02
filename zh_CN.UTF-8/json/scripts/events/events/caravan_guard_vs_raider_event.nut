@@ -46,5 +46,53 @@
     "translation": "露营时……",
     "stage": 5,
     "context": "this.m.Title = 'During camp...'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    if (this.m.Raider.getBackground().getID() == \"background.raider\") {\n        return \"A\";\n    } else {\n        return \"B\";\n    };\n    return;\n}"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    if (this.m.Raider.getBackground().getID() == \"background.raider\") {\n        return \"A\";\n    } else {\n        return \"B\";\n    };\n    return;\n}"
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "ID = \"B\""
+  },
+  {
+    "key": "a06cb7f3861d6e85dd4e9fa15ba88b6f30d758e37cb2a9697878eb1f91e51763",
+    "original": "caravanhand",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "09053dbc39a10cab79b0c0d5b1bb2793cad99291245ea4c0fcb953cffb7bb644",
+    "original": "raider",
+    "translation": "",
+    "context": ""
   }
 ]

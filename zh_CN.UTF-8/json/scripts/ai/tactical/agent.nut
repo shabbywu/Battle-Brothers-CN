@@ -30,5 +30,23 @@
     "translation": "：开始回合。",
     "stage": 5,
     "context": "\"* \" + this.m.Actor.getName() + \": Starting turn.\""
+  },
+  {
+    "key": "5e8c03a94c7835b87dd82c690f9f85c08592ef7433aa141ceaacb36a9f4da434",
+    "original": "instance",
+    "translation": "",
+    "context": "typeof _o == \"instance\""
+  },
+  {
+    "key": "5e8c03a94c7835b87dd82c690f9f85c08592ef7433aa141ceaacb36a9f4da434",
+    "original": "instance",
+    "translation": "",
+    "context": "typeof _a == \"instance\""
+  },
+  {
+    "key": "5e8c03a94c7835b87dd82c690f9f85c08592ef7433aa141ceaacb36a9f4da434",
+    "original": "instance",
+    "translation": "",
+    "context": "this.m.Intentions.Target != null && typeof this.m.Intentions.Target == \"instance\" && this.m.Intentions.Target.isNull() || !this.m.Intentions.Target.isAlive()"
   }
 ]

@@ -46,5 +46,29 @@
     "translation": "在途中……",
     "stage": 5,
     "context": "this.m.Title = 'Along the way...'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    return \"A\";;\n    return;\n}"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "da8cc7909055a96967f8eeccb0db50bd3308829a14faee0ac9a1b1c667a0c85c",
+    "original": "fisherman",
+    "translation": "",
+    "context": ""
   }
 ]

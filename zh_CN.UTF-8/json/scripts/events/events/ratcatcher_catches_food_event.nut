@@ -62,5 +62,29 @@
     "translation": "生病了",
     "stage": 1,
     "context": "text = bro.getName() + ' is sick'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    return \"A\";;\n    return;\n}"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "636c2a7f87827ebf077bfee6244895de18748d86b83fbbc2cdb33e7d2ccbba16",
+    "original": "ratcatcher",
+    "translation": "",
+    "context": ""
   }
 ]

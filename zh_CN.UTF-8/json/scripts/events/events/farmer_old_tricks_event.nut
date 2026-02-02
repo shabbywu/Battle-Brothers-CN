@@ -46,5 +46,17 @@
     "translation": " 获得了 [color=",
     "stage": 1,
     "context": "text = _event.m.Farmer.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + meleeSkill + '[/color] Melee Skill'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "ec35901c86a6438cf52b52d9eca2b9729692c9a1c3b7f54942693b6ab46b5d78",
+    "original": "farmhand",
+    "translation": "",
+    "context": ""
   }
 ]

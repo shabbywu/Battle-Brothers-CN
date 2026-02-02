@@ -6132,5 +6132,17 @@
     "original": "Bone Sprinkled Fields",
     "translation": "",
     "context": ""
+  },
+  {
+    "key": "15b61974b2707a7b3d4201385e0f01f4ff5eb1f17c5639d98788ee5add2025cd",
+    "original": "Location",
+    "translation": "",
+    "context": "!\"Location\""
+  },
+  {
+    "key": "78ae647dc5544d227130a0682a51e30bc7777fbb6d8a8f17007463a3ecd1d524",
+    "original": "World",
+    "translation": "",
+    "context": "!\"World\""
   }
 ]

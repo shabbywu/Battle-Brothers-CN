@@ -1,0 +1,56 @@
+[
+  {
+    "key": "2dcba5149a169681dbb47296221cd607f1c32913ef32982067791e11b2968a22",
+    "original": "%name% the once-miller stayed with the %companyname% for a time, collecting enough crowns to start his own bakery. Last you heard, his sword-shaped desserts have been a hit with the nobility and he makes more money selling to them than he ever did with the company.",
+    "translation": "",
+    "context": "this.m.GoodEnding = \"%name% the once-miller stayed with the %companyname% for a time, collecting enough crowns to start his own bakery. Last you heard, his sword-shaped desserts have been a hit with the nobility and he makes more money selling to them than he ever did with the company.\""
+  },
+  {
+    "key": "eafa43730f6e914ac9a4dc5348dba0aaed75b834900da8459441204c4050d8e0",
+    "original": "A miller is used to physical labor.",
+    "translation": "",
+    "context": "this.m.BackgroundDescription = \"A miller is used to physical labor.\""
+  },
+  {
+    "key": "c70cdd61547f144f501a1b0db36216f053b5eab6819b226aa66c0719e6196c7a",
+    "original": "As the %companyname% fell on hard times, %name% the miller saw fit to go ahead and leave while he could still walk. He helped a nobleman test out a new way of grinding grains with mules and waterwheels working in tandem. Unfortunately, by 'helping' he managed to fall into the contraption and was brutally crushed to death.",
+    "translation": "",
+    "context": "this.m.BadEnding = \"As the %companyname% fell on hard times, %name% the miller saw fit to go ahead and leave while he could still walk. He helped a nobleman test out a new way of grinding grains with mules and waterwheels working in tandem. Unfortunately, by 'helping' he managed to fall into the contraption and was brutally crushed to death.\""
+  },
+  {
+    "key": "716545ea5827317b597b9f531b753bb931989bbe63df4307ef312fdb7374a154",
+    "original": "Miller",
+    "translation": "",
+    "context": "this.m.Name = \"Miller\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "660c3bfb458493b55ccb207757c8aacc479eca7cf6b706ee844db5595cb1ac07",
+    "original": "the Miller",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
+  },
+  {
+    "key": "b7ba319484ddead3dad83a3e037234ede064a3ddaaaa656a53b597fff4194e6b",
+    "original": "{The life as a miller had always been lacking something for %name%, yet the hard work kept him from making any big plans. | Continuing the family tradition, %name% learned the millers trade from his father. | Although just a simple miller, %name% always dreamed about wandering out into the world and bring home tales and pockets full of crowns. | Being a simple fellow, %name% did not mind working hard in the mill every day. | %name% always was more ambitious than other people. While his brother was content with running their family's mill, he could not shake the feeling that he was destined for more.} {One night he was awoken by a loud thunderstorm. Rushing outside, %name% realised that his mill had been ignited by a lightning strike. | When he caught his promised wife in bed with another man, he was furious, battering both of them with a hail of blows. His fists were bruised, people were shouting at him, but the only thing he felt was emptyness where once was his heart. As if in a dream he quickly packed his belongings and set out, never to return. | When his young and lovely wife was found dead, torn apart by wild beasts in the woods, he did not say a word. Silently he packed his belongings and set out into the world, to start a new life somewhere far away. | After hearing wild tales from a hedge knight in the tavern of %townname%, his imagination was running wild with all the possibilities out there in the world waiting for him. | A drought meant business was running slow for him. When %name% was not able to pay his debts any more his life was threatened by ruthless money collectors. He had to disappear.} {Remembering his cousin, %randomname%, who has made a decent living in the mercenary business, %name% decided to do the same. | While looking for opportunities he met a mercenary recruiter who promised him fame and fortune. | Although he does not know the next thing about fighting, %name% is eager to sign up with a mercenary company hooked by the promise of adventure. | Whether by lack of alternatives or by his free will, %name% stands before you now, ready to swear fealty.}",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "b7ba319484ddead3dad83a3e037234ede064a3ddaaaa656a53b597fff4194e6b",
+    "original": "{The life as a miller had always been lacking something for %name%, yet the hard work kept him from making any big plans. | Continuing the family tradition, %name% learned the millers trade from his father. | Although just a simple miller, %name% always dreamed about wandering out into the world and bring home tales and pockets full of crowns. | Being a simple fellow, %name% did not mind working hard in the mill every day. | %name% always was more ambitious than other people. While his brother was content with running their family's mill, he could not shake the feeling that he was destined for more.} {One night he was awoken by a loud thunderstorm. Rushing outside, %name% realised that his mill had been ignited by a lightning strike. | When he caught his promised wife in bed with another man, he was furious, battering both of them with a hail of blows. His fists were bruised, people were shouting at him, but the only thing he felt was emptyness where once was his heart. As if in a dream he quickly packed his belongings and set out, never to return. | When his young and lovely wife was found dead, torn apart by wild beasts in the woods, he did not say a word. Silently he packed his belongings and set out into the world, to start a new life somewhere far away. | After hearing wild tales from a hedge knight in the tavern of %townname%, his imagination was running wild with all the possibilities out there in the world waiting for him. | A drought meant business was running slow for him. When %name% was not able to pay his debts any more his life was threatened by ruthless money collectors. He had to disappear.} {Remembering his cousin, %randomname%, who has made a decent living in the mercenary business, %name% decided to do the same. | While looking for opportunities he met a mercenary recruiter who promised him fame and fortune. | Although he does not know the next thing about fighting, %name% is eager to sign up with a mercenary company hooked by the promise of adventure. | Whether by lack of alternatives or by his free will, %name% stands before you now, ready to swear fealty.}",
+    "translation": "",
+    "context": "onBuildDescription = function onBuildDescription(){\n    return \"{The life as a miller had always been lacking something for %name%, yet the hard work kept him from making any big plans. | Continuing the family tradition, %name% learned the millers trade from his father. | Although just a simple miller, %name% always dreamed about wandering out into the world and bring home tales and pockets full of crowns. | Being a simple fellow, %name% did not mind working hard in the mill every day. | %name% always was more ambitious than other people. While his brother was content with running their family's mill, he could not shake the feeling that he was destined for more.} {One night he was awoken by a loud thunderstorm. Rushing outside, %name% realised that his mill had been ignited by a lightning strike. | When he caught his promised wife in bed with another man, he was furious, battering both of them with a hail of blows. His fists were bruised, people were shouting at him, but the only thing he felt was emptyness where once was his heart. As if in a dream he quickly packed his belongings and set out, never to return. | When his young and lovely wife was found dead, torn apart by wild beasts in the woods, he did not say a word. Silently he packed his belongings and set out into the world, to start a new life somewhere far away. | After hearing wild tales from a hedge knight in the tavern of %townname%, his imagination was running wild with all the possibilities out there in the world waiting for him. | A drought meant business was running slow for him. When %name% was not able to pay his debts any more his life was threatened by ruthless money collectors. He had to disappear.} {Remembering his cousin, %randomname%, who has made a decent living in the mercenary business, %name% decided to do the same. | While looking for opportunities he met a mercenary recruiter who promised him fame and fortune. | Although he does not know the next thing about fighting, %name% is eager to sign up with a mercenary company hooked by the promise of adventure. | Whether by lack of alternatives or by his free will, %name% stands before you now, ready to swear fealty.}\";;\n    return;\n}"
+  }
+]

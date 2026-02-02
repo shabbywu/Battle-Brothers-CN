@@ -46,5 +46,29 @@
     "translation": "砌石工艺有着独特的魅力，尤以精确切割的石块和高耸入云目之不及的高塔最有代表性。石匠%name%回到了他的老本行，并利用他在%companyname%赚来的钱创办了一家享有声誉的企业，以构建冬暖夏凉的石质房间而闻名。",
     "stage": 1,
     "context": "this.m.GoodEnding = \"Masonry has its own call, notably a call perfectly cut stones and impossible towers that defy the eye's ability to even shape them against the skies. %name% the mason returned to his old trade and, with all the money he'd made with the %companyname%, he started a reputable business renowned for its ability to construct stone rooms that held the heat during winters and the cool during summers.\""
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.PositiveValue + \"]+5%[/color] Experience Gain\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

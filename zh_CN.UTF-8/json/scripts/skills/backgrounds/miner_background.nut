@@ -62,5 +62,23 @@
     "translation": "如果说有一种生活比当佣兵更加艰苦，那便是当矿工。可悲的是，%name%又回到了那种生活，回到矿井里去开采金属和矿石来填满一些富人的口袋。最近的一次地震导致了许多类似的矿井坍塌。你不知道这位老兄弟是否安然无恙，但情况看起来非常严峻。",
     "stage": 5,
     "context": "this.m.BadEnding = \"If there's one life that's more rough than that of being a sellsword, it is that of being a miner. Sadly, %name% returned to that life, going back into the mines to dig out metals and ores to fill some rich man's pockets. A recent earthquake collapsed many such mines. You're not sure if the ol' brother survived, but it's looking pretty grim.\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "c3838a8256696f47188d6641d945bfa308260c137b04e0e4de327e39d54cb615",
+    "original": "dirt",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

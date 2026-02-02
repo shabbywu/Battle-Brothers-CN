@@ -14,5 +14,11 @@
     "translation": "旧要塞遗迹。 它看起来完全被遗弃了。",
     "stage": 1,
     "context": "return 'The remains of an old fortress. It looks entirely abandoned.';"
+  },
+  {
+    "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
+    "original": "body",
+    "translation": "",
+    "context": ""
   }
 ]

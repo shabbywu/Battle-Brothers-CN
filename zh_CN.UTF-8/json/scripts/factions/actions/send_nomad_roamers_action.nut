@@ -14,5 +14,11 @@
     "translation": "游牧民",
     "stage": 5,
     "context": "this.getFaction().spawnEntity(settlement.getTile(), 'Nomads', False, this.Const.World.Spawn.NomadRoamers, this.Math.min(settlement.getResources(), this.Math.rand(60, 110)))"
+  },
+  {
+    "key": "8c7ed2d9be59e21cf7cfc7da75c6c0cb7dd751f4a870f0f9236f0f35cbaf584e",
+    "original": "banner",
+    "translation": "",
+    "context": ""
   }
 ]

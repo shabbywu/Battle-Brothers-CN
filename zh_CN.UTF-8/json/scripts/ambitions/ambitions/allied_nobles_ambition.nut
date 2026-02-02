@@ -54,5 +54,11 @@
     "translation": "好极了。",
     "stage": 5,
     "context": "this.m.SuccessButtonText = \"Excellent.\""
+  },
+  {
+    "key": "d2e22c85ac64c2d01da1056d29f141def5b39a1fbd88b8b7ed1037b8c9e416ca",
+    "original": "noblehouse",
+    "translation": "",
+    "context": ""
   }
 ]

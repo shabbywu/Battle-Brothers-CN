@@ -62,5 +62,11 @@
     "translation": "\n\n还有一些定居点要拜访。\n",
     "stage": 1,
     "context": "local ret = this.m.TooltipText + \"\n\nThere's still some settlements left to visit.\n\""
+  },
+  {
+    "key": "97903cd890c1b1fd980d9bfbf9f5d32cf01cbd5e1d40a102c2cd174e0617810b",
+    "original": "sergeantbrother",
+    "translation": "",
+    "context": ""
   }
 ]

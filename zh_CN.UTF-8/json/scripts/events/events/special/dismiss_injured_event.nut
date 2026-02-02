@@ -38,5 +38,23 @@
     "translation": "害怕因受到创伤而被解雇",
     "stage": 1,
     "context": "bro.worsenMood(1.5, 'Afraid to be dismissed on account of his injury')"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "dcd1d5223f73b3a965c07e3ff5dbee3eedcfedb806686a05b9b3868a2c3d6d50",
+    "original": "Name",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "7111684708cd2f68a436d28a55a4495b0991a3912e6795ad5eb517f2e5987413",
+    "original": "dismissed",
+    "translation": "",
+    "context": ""
   }
 ]

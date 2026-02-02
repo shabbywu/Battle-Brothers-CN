@@ -38,5 +38,23 @@
     "translation": "看到了一个坏兆头",
     "stage": 1,
     "context": "_event.m.Superstitious.worsenMood(1.0, 'Has seen a bad omen')"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "f5150ee304c068edbef20dacf2450f7ec057d0c288d7fea3ec30ea4616f98d6d",
+    "original": "otherguy",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "a2b126945c422a4d223b258d4e43e172ec7dbdad5f9b3bcec95b6e2f61b4421f",
+    "original": "superstitious",
+    "translation": "",
+    "context": ""
   }
 ]

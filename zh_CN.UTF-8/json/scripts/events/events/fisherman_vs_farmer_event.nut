@@ -102,5 +102,53 @@
     "translation": "草(Weeds)",
     "stage": 1,
     "context": "'Weeds'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    if (this.Math.rand(0, 1) == 0) {\n        return \"A\";\n    } else {\n        return \"B\";\n    };\n    return;\n}"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    if (this.Math.rand(0, 1) == 0) {\n        return \"A\";\n    } else {\n        return \"B\";\n    };\n    return;\n}"
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "ID = \"B\""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "ec35901c86a6438cf52b52d9eca2b9729692c9a1c3b7f54942693b6ab46b5d78",
+    "original": "farmhand",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "da8cc7909055a96967f8eeccb0db50bd3308829a14faee0ac9a1b1c667a0c85c",
+    "original": "fisherman",
+    "translation": "",
+    "context": ""
   }
 ]

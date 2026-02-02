@@ -30,5 +30,17 @@
     "translation": "你已经花了我不少钱了！",
     "stage": 1,
     "context": "Text = 'You cost me a fortune already!'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "7ee0a6aea916330f53642770fe109e59c0d7d6139f0bc702609029b0124cce4c",
+    "original": "gl",
+    "translation": "",
+    "context": ""
   }
 ]

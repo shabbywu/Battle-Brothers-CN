@@ -1,0 +1,56 @@
+[
+  {
+    "key": "8c4401d0753098d7a38cbf7246a4f9cc426e9ba62a6ea25d2de002bed9e8fc3a",
+    "original": " suffers ",
+    "translation": "",
+    "context": "_event.m.Injured.getName() + \" suffers \" + injury.getNameOnly()"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "5ba916722880e9f2fe0278249d34c9b18081ea49eba04dec5c22f696886360ec",
+    "original": "During camp...",
+    "translation": "",
+    "context": "this.m.Title = \"During camp...\""
+  },
+  {
+    "key": "4199a3669a4028ab07c4dc222d11fd2b6ccffd7451fa1c59afa28dd20c1a861b",
+    "original": "[img]gfx/ui/events/event_34.png[/img]{You discover %woundedbrother% passed out in the grass and there's no mead or ale beside him as a sort of coma culprit. Crouching down, you see that his eyes are dimmed and he does not respond to questions. His chest rises and falls to uneven breathing. You peel back the dressings over his %wound% to reveal green, sickly flesh. | %woundedbrother% is laughing with the rest of the men when he suddenly falls over with his eyes going to the back of his head. The rest of the men rush to his aid.%SPEECH_ON%Sir, his wound's beyond sore.%SPEECH_OFF%The flesh around his %wound% has gotten pulpy, slathered with dead skin and the pulsing viridian of infections ready to be sloughed off. | %woundedbrother%'s %wound% has gotten infected. The flesh around the injury is black and that which has color is green, both very bad signs. | Infection is settling into %woundedbrother%'s %wound%. There's no saying if he'll survive or not, but either way he's going to be in bad shape for a time. | You come to find %woundedbrother% leaning against a tree. He's shaking and saliva is dropping from his lips.%SPEECH_ON%I'm alright, sir. My %wound%'s just... a little infected. Give me time, I'll get better.%SPEECH_OFF%You purse your lips. Perhaps he'll get better on his own, but he'll be hardly in fighting shape if he goes without care. | %woundedbrother% is no longer in sound fighting shape. His wounds have gotten infected. Without immediate care, it may take some time for him to get back into fighting shape. | %woundedbrother% stumbles into your tent. He coughs into the crook of his elbow and a stringy bit of saliva trails between it and his lips.%SPEECH_ON%Ah shit, sorry sir. I'm uh, I think I'm a little sick.%SPEECH_OFF%Taking a look at him, you surmise that his wounds have gotten infected. He may still be able to fight, but you probably shouldn't risk that until he gets better. | While the company eats around a campfire, %woundedbrother% suddenly vomits. You see that there's sweat all over his brow and his eyes are a bit dazed. %otherbrother% shakes his head.%SPEECH_ON%Sir, his wounds have gotten infected.%SPEECH_OFF%The wounded brother sails back into the grass, arms pawing the air.%SPEECH_ON%I'm fine, ya gits. I'll fight the lot of you.%SPEECH_OFF%His balled fists pedal back and forth before he slides into a deep sleep. Yeah, he's probably not gonna be battle ready for awhile. | Battles take a toll on men, and sometimes they survive wounds that come back to get them. %woundedbrother% is such a man - infection from injuries has spread about his body. He's very sick and should not fight unless absolutely necessary. | With each battle, a man risks death. With each injury, he risks infection. %woundedbrother% has received the latter and it just may preempt the former. His wounds have become black and where they aren't black they are green. He's able to walk, but should probably be kept out of the frontlines until he gets better. | A man may survive a battle with terrible wounds, but it only starts another battle against infection. %woundedbrother%'s injuries have gotten worse and may need time to heal. Unless absolutely necessary, he should be kept out of the frontlines. | %woundedbrother%'s injuries have gotten worse, possibly infected. Some suggest maggots to help clear out the infection, while others hint at amputations and more drastic measures. As far as you're concerned, you simply need to give it time. That said, the mercenary should probably be kept out of the fights until he gets better.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_34.png[/img]{You discover %woundedbrother% passed out in the grass and there's no mead or ale beside him as a sort of coma culprit. Crouching down, you see that his eyes are dimmed and he does not respond to questions. His chest rises and falls to uneven breathing. You peel back the dressings over his %wound% to reveal green, sickly flesh. | %woundedbrother% is laughing with the rest of the men when he suddenly falls over with his eyes going to the back of his head. The rest of the men rush to his aid.%SPEECH_ON%Sir, his wound's beyond sore.%SPEECH_OFF%The flesh around his %wound% has gotten pulpy, slathered with dead skin and the pulsing viridian of infections ready to be sloughed off. | %woundedbrother%'s %wound% has gotten infected. The flesh around the injury is black and that which has color is green, both very bad signs. | Infection is settling into %woundedbrother%'s %wound%. There's no saying if he'll survive or not, but either way he's going to be in bad shape for a time. | You come to find %woundedbrother% leaning against a tree. He's shaking and saliva is dropping from his lips.%SPEECH_ON%I'm alright, sir. My %wound%'s just... a little infected. Give me time, I'll get better.%SPEECH_OFF%You purse your lips. Perhaps he'll get better on his own, but he'll be hardly in fighting shape if he goes without care. | %woundedbrother% is no longer in sound fighting shape. His wounds have gotten infected. Without immediate care, it may take some time for him to get back into fighting shape. | %woundedbrother% stumbles into your tent. He coughs into the crook of his elbow and a stringy bit of saliva trails between it and his lips.%SPEECH_ON%Ah shit, sorry sir. I'm uh, I think I'm a little sick.%SPEECH_OFF%Taking a look at him, you surmise that his wounds have gotten infected. He may still be able to fight, but you probably shouldn't risk that until he gets better. | While the company eats around a campfire, %woundedbrother% suddenly vomits. You see that there's sweat all over his brow and his eyes are a bit dazed. %otherbrother% shakes his head.%SPEECH_ON%Sir, his wounds have gotten infected.%SPEECH_OFF%The wounded brother sails back into the grass, arms pawing the air.%SPEECH_ON%I'm fine, ya gits. I'll fight the lot of you.%SPEECH_OFF%His balled fists pedal back and forth before he slides into a deep sleep. Yeah, he's probably not gonna be battle ready for awhile. | Battles take a toll on men, and sometimes they survive wounds that come back to get them. %woundedbrother% is such a man - infection from injuries has spread about his body. He's very sick and should not fight unless absolutely necessary. | With each battle, a man risks death. With each injury, he risks infection. %woundedbrother% has received the latter and it just may preempt the former. His wounds have become black and where they aren't black they are green. He's able to walk, but should probably be kept out of the frontlines until he gets better. | A man may survive a battle with terrible wounds, but it only starts another battle against infection. %woundedbrother%'s injuries have gotten worse and may need time to heal. Unless absolutely necessary, he should be kept out of the frontlines. | %woundedbrother%'s injuries have gotten worse, possibly infected. Some suggest maggots to help clear out the infection, while others hint at amputations and more drastic measures. As far as you're concerned, you simply need to give it time. That said, the mercenary should probably be kept out of the fights until he gets better.}\""
+  },
+  {
+    "key": "8a1b91f0a848e56df23e0300dadd21395da4522641b62d2d3f72880ae1c1a948",
+    "original": "otherbrother",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "89364a0a769977b32c6e4dbf27068662d8581106dcead87ba8524c518820f149",
+    "original": "wound",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "ab9f28905dcc553b3a00afd6ec83e01b6bf321a7af78c9e71c05a966158128c8",
+    "original": "woundedbrother",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "ee114f12c48e4bb56b82e58588a3591c7498b99b4912b534c42e5bb90b5c5ded",
+    "original": "woundedbrothershort",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "685a1b29adf5473ad5b55aac24fe1a9ea0b93ee6f851f36ad85ba1f81f1a94fa",
+    "original": "{Hope you'll pull through. | That doesn't look good. | Go get some rest, %woundedbrothershort%.}",
+    "translation": "",
+    "context": "Text = \"{Hope you'll pull through. | That doesn't look good. | Go get some rest, %woundedbrothershort%.}\""
+  }
+]

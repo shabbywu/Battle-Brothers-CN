@@ -38,5 +38,29 @@
     "translation": "这个角色有些异于常人。从外观上看他们似乎没有不同，但不知何故，他们会给人一种莫名的恐惧感。他在战场内外承受的任何伤害似乎都会波及到附近的某一个人。这个特性在战斗中很有用，但在营地里只会令人生厌，惹来孤立。",
     "stage": 1,
     "context": "return \"There's something different about this character. Physically they seem unchanged, yet somehow a sense of dread precedes them. Any harm that they endure, on or off the battlefield, seems to affect another nearby. Useful in a fight, annoying in camp, and surely isolating in every day society.\";"
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "b80e0af617d0f8ff54ab3142c34c76e83eafe75c6b2cbe87a44c56bb8505dd01",
+    "original": "hint",
+    "translation": "",
+    "context": "type = \"hint\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

@@ -46,5 +46,41 @@
     "translation": "这个角色血管中流淌着毒素。他视野模糊，口齿不清，需要大量的努力才能协调的移动。效果会在 [color=",
     "stage": 1,
     "context": "return 'This character has poison running through his veins. His vision is blurred, his speech slurred and it takes a great deal of effort for him to move in a coordinated fashion. The effect will slowly wear off over [color=' + this.Const.UI.Color.NegativeValue + ']' + this.m.TurnsLeft + '[/color] more turn(s).';"
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]-\" + 1 * this.m.TurnsLeft + \"[/color] Vision\""
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]-\" + 10 * this.m.TurnsLeft + \"[/color] Initiative\""
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]-\" + 1 * this.m.TurnsLeft + \"[/color] Action Points\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

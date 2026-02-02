@@ -62,5 +62,11 @@
     "translation": "[img]gfx/ui/events/event_28.png[/img]寻找一件被认为是战士护身符的稀有物品绝非易事，但%nameditem%的确首屈一指。你的人因为得到了它而相当自豪。在篝火旁，一些兄弟甚至喝着喝着伤感起来，流起了眼泪，把它像心爱的猎犬一样捧在手心里。%SPEECH_ON%这难道不美吗？%SPEECH_OFF%%randombrother%一边在篝火的火光中欣赏着，一边问道。很快被另一个人打断。%SPEECH_ON%转过来！转过来！让我好好看看！%SPEECH_OFF%在接下来的日子里，你的人带着%nameditem%，把它像什么恐怖巨兽的头颅一样到处炫耀。只要是在酒馆里或是节日期间，不管是蜜酒还是啤酒，只要有可能讨到口酒喝，兄弟们都会遵循这种炫耀战利品的习惯。",
     "stage": 1,
     "context": "this.m.SuccessText = \"[img]gfx/ui/events/event_28.png[/img]It was no easy task seeking out one of those rare items recognized as a talisman of fighting men, but the %nameditem% is truly remarkable. The men fairly glow with pride after acquiring it. Around the fire, some of the brothers even grow maudlin and teary-eyed when in their cups, pawing it like a favorite hound.%SPEECH_ON%Isn't it beautiful?%SPEECH_OFF%%randombrother% asks while admiring it in the glow of the campfire, quickly cut off by another of the men.%SPEECH_ON%Turn it this way so I can have a proper peek!%SPEECH_OFF%In the days that follow your men are parading the %nameditem% around like the trophy head of some fearsome beast. Usually in taverns or at festivals, and near other sources of mead and beer, the brothers make a habit of showing their prize off everywhere you go.\""
+  },
+  {
+    "key": "923e4a1cbf9594f1ea9ff72c19a82ee08a73f5415b59fb5dd47feb3d6f2d724d",
+    "original": "nameditem",
+    "translation": "",
+    "context": ""
   }
 ]

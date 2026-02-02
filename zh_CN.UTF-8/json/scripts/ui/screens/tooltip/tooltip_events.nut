@@ -3430,5 +3430,149 @@
     "translation": "显示当前以及最大参战人数。\n\n将你的士兵拖放至预定位置；顶排为面向敌人的前线，次排为后排，底排则为不参与战斗的预备队成员。",
     "stage": 5,
     "context": "text = \"Shows the current and maximum number of men placed in formation to fight in the next battle.\n\nDrag and drop your men to where you want them to be; the top row is the front facing the enemy, the second row is your back row, and the bottom row is your reserves of characters not taking part in battle.\""
+  },
+  {
+    "key": "f48889357806eadf93e3d63916610106af87e65c8cf76238ad0d5ca251eaf29b",
+    "original": "Corpse",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "dcd1d5223f73b3a965c07e3ff5dbee3eedcfedb806686a05b9b3868a2c3d6d50",
+    "original": "Name",
+    "translation": "",
+    "context": "text = \"Name\""
+  },
+  {
+    "key": "a3b50c476732c7409d297c3d7d0e23569fee5e08318553ae76041ab5fe60582e",
+    "original": "State",
+    "translation": "",
+    "context": "statusEffect.isType(this.Const.SkillType.Background) && \"State\" && this.World.State != null"
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]WARNING:[/color] Deletes the selected campaign without any further warning.\""
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "desc + \"[color=\" + this.Const.UI.Color.NegativeValue + \"]\""
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "desc + \"[color=\" + this.Const.UI.Color.PositiveValue + \"]\""
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]Hides anyone inside from being seen at a distance.[/color]\""
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]\" + lastTileHovered.Properties.Effect.Tooltip + \"[/color]\""
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]Is in opponent's Zone of Control.[/color]\""
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]Any character on this tile may retreat safely and immediately from battle.[/color]\""
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]Unable to camp while travelling with other parties[/color]\""
+  },
+  {
+    "key": "50c9c4aeb40b5b206b6d98f516f8b8c0efd29ce2e56a76b345fb9240c225a1b7",
+    "original": "actor",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "bca3685fea8acd4e4b5c149874e1aa2bad0708e7e5ed490f3cf0702cb7a8bb56",
+    "original": "entity",
+    "translation": "",
+    "context": "contentType = \"entity\""
+  },
+  {
+    "key": "bca3685fea8acd4e4b5c149874e1aa2bad0708e7e5ed490f3cf0702cb7a8bb56",
+    "original": "entity",
+    "translation": "",
+    "context": "_itemOwner == \"entity\""
+  },
+  {
+    "key": "bca3685fea8acd4e4b5c149874e1aa2bad0708e7e5ed490f3cf0702cb7a8bb56",
+    "original": "entity",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "ad95d5fa651ba86d8923fe1238d24a4f1988a752acfe426ac72ac7c04471bc17",
+    "original": "free",
+    "translation": "",
+    "context": "_followerID == \"free\""
+  },
+  {
+    "key": "dbb3b50e59c7326b2ff7d6619430257b9188cf3c0b8d778f7275ffd3bf4998a2",
+    "original": "ground",
+    "translation": "",
+    "context": "_itemOwner == \"ground\""
+  },
+  {
+    "key": "b80e0af617d0f8ff54ab3142c34c76e83eafe75c6b2cbe87a44c56bb8505dd01",
+    "original": "hint",
+    "translation": "",
+    "context": "type = \"hint\""
+  },
+  {
+    "key": "04ce686a8565da3cfb36389923ed457c2229d6674f41d7d7c2bbd4c26855a0f3",
+    "original": "icons",
+    "translation": "",
+    "context": "type = \"icons\""
+  },
+  {
+    "key": "2c70237f50de15d265e68ea22d398935fc1efe72f1c8d15824fa9a2f69a12c0b",
+    "original": "stash",
+    "translation": "",
+    "context": "_itemOwner == \"stash\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
+  },
+  {
+    "key": "f130f6263a7caf8b0583442efebf4de73eb82d62a1f28761649b5b910a17b49a",
+    "original": "tile-entity",
+    "translation": "",
+    "context": "contentType = \"tile-entity\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

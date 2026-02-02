@@ -46,5 +46,23 @@
     "translation": "投掷火油罐",
     "stage": 1,
     "context": "this.m.Name = 'Throw Fire Pot'"
+  },
+  {
+    "key": "dc9f28b12dd1818ee42ffc92ecb940386214598837348d30d3c6c0b7b57e34c9",
+    "original": "fire",
+    "translation": "",
+    "context": "tile.Properties.Effect != null && tile.Properties.Effect.Type == \"fire\""
+  },
+  {
+    "key": "dc9f28b12dd1818ee42ffc92ecb940386214598837348d30d3c6c0b7b57e34c9",
+    "original": "fire",
+    "translation": "",
+    "context": "Type = \"fire\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

@@ -22,5 +22,29 @@
     "translation": "镀金者会指引我们的道路。",
     "stage": 1,
     "context": "Text = 'The Gilder will reveal to us the way.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "9f92d583fea526b56be0aa15c6556de957ed00908b8632875df7e08fa360bc6b",
+    "original": "bro1",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "76cf2c1f56707e565a2f9d88c3905ee8d02e79924479f23f7dcc293bdfa9e20d",
+    "original": "bro2",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "40555664d0d2390e77fd88c4fb3a7b9886e4d86a08e227dd0e21e891a6169890",
+    "original": "bro3",
+    "translation": "",
+    "context": ""
   }
 ]

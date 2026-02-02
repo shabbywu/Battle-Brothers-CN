@@ -14,5 +14,11 @@
     "translation": "食物。来自黑暗沼泽的黑暗料理，这道与美味不沾边的恐怖炖汤能保存很长时间。可能是因为它早就变质了。",
     "stage": 1,
     "context": "this.m.Description = 'Provisions. Black as the marshes it hails from, this ghastly stew is far from delicious but takes ages to spoil. Possibly because it already is spoiled to begin with.'"
+  },
+  {
+    "key": "a3b50c476732c7409d297c3d7d0e23569fee5e08318553ae76041ab5fe60582e",
+    "original": "State",
+    "translation": "",
+    "context": "\"State\" && this.World.State != null && this.World.State.getCurrentTown() != null"
   }
 ]

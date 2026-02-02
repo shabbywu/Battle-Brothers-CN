@@ -38,5 +38,23 @@
     "translation": "在途中……",
     "stage": 5,
     "context": "this.m.Title = 'Along the way...'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "7d365085b3b25356cac52720f9c666bf3d0f0b85d3ef3367aab3076ab7b0c71e",
+    "original": "gravedigger",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "fcb530157106b07669ff969f69951cb1613ad483768fc439d58026c47e647d7d",
+    "original": "graverobber",
+    "translation": "",
+    "context": ""
   }
 ]

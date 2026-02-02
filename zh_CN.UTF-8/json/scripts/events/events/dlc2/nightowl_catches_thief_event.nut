@@ -54,5 +54,17 @@
     "translation": "你获得了[color=",
     "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']' + money + '[/color] Crowns'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "882099af2b09373f44dfc974cacee3830f1ab7fd8954e732f4f07ed15cf754d9",
+    "original": "nightowl",
+    "translation": "",
+    "context": ""
   }
 ]

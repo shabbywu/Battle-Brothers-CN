@@ -46,5 +46,11 @@
     "translation": "无视盾牌提供的近战防御加成",
     "stage": 1,
     "context": "text = 'Ignores the bonus to Melee Defense granted by shields'"
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

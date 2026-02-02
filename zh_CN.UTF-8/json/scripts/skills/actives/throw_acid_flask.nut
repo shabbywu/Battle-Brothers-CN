@@ -46,5 +46,17 @@
     "translation": "有 [color=",
     "stage": 5,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] chance to hit bystanders at the same or lower height level as well.'"
+  },
+  {
+    "key": "fe1768e6fb4d535fcfa3948dba99c837bbb3634855b1af16b91585ed7bf1a529",
+    "original": "lindwurm",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

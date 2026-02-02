@@ -22,5 +22,35 @@
     "translation": "北方掠袭者们",
     "stage": 5,
     "context": "this.m.Title = 'The Northern Raiders'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "15c6e58e5cb531b54591034209de7f2478e657f64da8e99e361a6061c9ab6f13",
+    "original": "raider1",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "1cca2fff6a33d5a06802fb306d695ebea154c276f6d17130e877af354ce65433",
+    "original": "raider2",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "091b7e3db520e8690cc75417cc32d8d391f5578d287f1a40443d668cb33ef0fb",
+    "original": "raider3",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "6a3779d6632d9251980ead8b115e085c02d25bb0fb3f1fc546918a76346ed487",
+    "original": "raider4",
+    "translation": "",
+    "context": ""
   }
 ]

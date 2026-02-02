@@ -54,5 +54,11 @@
     "translation": "击晕了",
     "stage": 5,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_user) + ' has stunned ' + this.Const.UI.getColorizedEntityName(_target) + ' for one turn')"
+  },
+  {
+    "key": "fe1768e6fb4d535fcfa3948dba99c837bbb3634855b1af16b91585ed7bf1a529",
+    "original": "lindwurm",
+    "translation": "",
+    "context": ""
   }
 ]

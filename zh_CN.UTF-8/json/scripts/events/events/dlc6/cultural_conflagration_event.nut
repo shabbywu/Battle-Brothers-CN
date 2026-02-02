@@ -38,5 +38,11 @@
     "translation": "为什么我们不能和睦相处？",
     "stage": 1,
     "context": "Text = \"Why can't we all just get along?\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
   }
 ]

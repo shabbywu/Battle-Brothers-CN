@@ -38,5 +38,17 @@
     "translation": "筋疲力尽了",
     "stage": 5,
     "context": "text = _event.m.SomeGuy.getName() + ' is exhausted'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "c88e8fea41f11ba3622f62579a6ce4c0a986e6fbd2160074f3b6bb936a2b6afa",
+    "original": "bitbro",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -38,5 +38,17 @@
     "translation": "[/color] 生命值",
     "stage": 1,
     "context": "text = _event.m.Flagellant.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + hitpoints + '[/color] Hitpoints'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "dcb61598ec17e2e9f55fefd4b9ef824796ccc3a2d835cd9169ffed1bb457a89b",
+    "original": "flagellant",
+    "translation": "",
+    "context": ""
   }
 ]

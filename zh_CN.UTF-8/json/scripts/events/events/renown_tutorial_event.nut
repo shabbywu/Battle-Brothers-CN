@@ -22,5 +22,17 @@
     "translation": "我会记住的。",
     "stage": 1,
     "context": "Text = \"I'll keep it in mind.\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "9f92d583fea526b56be0aa15c6556de957ed00908b8632875df7e08fa360bc6b",
+    "original": "bro1",
+    "translation": "",
+    "context": ""
   }
 ]

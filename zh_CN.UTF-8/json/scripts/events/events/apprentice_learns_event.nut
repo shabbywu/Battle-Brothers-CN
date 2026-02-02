@@ -126,5 +126,95 @@
     "translation": "投师",
     "stage": 5,
     "context": "_event.m.Apprentice.improveMood(1.0, 'Learned from ' + _event.m.Teacher.getName())"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    if (this.m.Teacher.getBackground().getID() == \"background.swordmaster\" || this.m.Teacher.getBackground().getID() == \"background.old_swordmaster\") {\n        return \"A\";\n    } else {\n        if (this.m.Teacher.getBackground().getID() == \"background.retired_soldier\") {\n            return \"B\";\n        } else {\n            if (this.m.Teacher.getBackground().getID() == \"background.sellsword\") {\n                return \"C\";\n            } else {\n                return \"D\";\n            }\n        }\n    };\n    return;\n}"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    if (this.m.Teacher.getBackground().getID() == \"background.swordmaster\" || this.m.Teacher.getBackground().getID() == \"background.old_swordmaster\") {\n        return \"A\";\n    } else {\n        if (this.m.Teacher.getBackground().getID() == \"background.retired_soldier\") {\n            return \"B\";\n        } else {\n            if (this.m.Teacher.getBackground().getID() == \"background.sellsword\") {\n                return \"C\";\n            } else {\n                return \"D\";\n            }\n        }\n    };\n    return;\n}"
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "ID = \"B\""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "6b23c0d5f35d1b11f9b683f0b0a617355deb11277d91ae091d399c655b87940d",
+    "original": "C",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    if (this.m.Teacher.getBackground().getID() == \"background.swordmaster\" || this.m.Teacher.getBackground().getID() == \"background.old_swordmaster\") {\n        return \"A\";\n    } else {\n        if (this.m.Teacher.getBackground().getID() == \"background.retired_soldier\") {\n            return \"B\";\n        } else {\n            if (this.m.Teacher.getBackground().getID() == \"background.sellsword\") {\n                return \"C\";\n            } else {\n                return \"D\";\n            }\n        }\n    };\n    return;\n}"
+  },
+  {
+    "key": "6b23c0d5f35d1b11f9b683f0b0a617355deb11277d91ae091d399c655b87940d",
+    "original": "C",
+    "translation": "",
+    "context": "ID = \"C\""
+  },
+  {
+    "key": "6b23c0d5f35d1b11f9b683f0b0a617355deb11277d91ae091d399c655b87940d",
+    "original": "C",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "3f39d5c348e5b79d06e842c114e6cc571583bbf44e4b0ebfda1a01ec05745d43",
+    "original": "D",
+    "translation": "",
+    "context": "ID = \"D\""
+  },
+  {
+    "key": "3f39d5c348e5b79d06e842c114e6cc571583bbf44e4b0ebfda1a01ec05745d43",
+    "original": "D",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    if (this.m.Teacher.getBackground().getID() == \"background.swordmaster\" || this.m.Teacher.getBackground().getID() == \"background.old_swordmaster\") {\n        return \"A\";\n    } else {\n        if (this.m.Teacher.getBackground().getID() == \"background.retired_soldier\") {\n            return \"B\";\n        } else {\n            if (this.m.Teacher.getBackground().getID() == \"background.sellsword\") {\n                return \"C\";\n            } else {\n                return \"D\";\n            }\n        }\n    };\n    return;\n}"
+  },
+  {
+    "key": "3f39d5c348e5b79d06e842c114e6cc571583bbf44e4b0ebfda1a01ec05745d43",
+    "original": "D",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "042b8f64044ee7990f5272525e9c63a93559a5bf2078bc2bcda05f2b148ecc91",
+    "original": "apprentice",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "d78e3c38d98d17d7355ec4a989e477bace56a6fa2508121a520146cd0a23ec80",
+    "original": "learned",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "1057a9604e04b274da5a4de0c8f4b4868d9b230989f8c8c6a28221143cc5a755",
+    "original": "teacher",
+    "translation": "",
+    "context": ""
   }
 ]

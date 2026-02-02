@@ -30,5 +30,17 @@
     "translation": "与战团的战犬相处的不好",
     "stage": 1,
     "context": "_event.m.Butcher.worsenMood(0.5, \"Didn't get along with the company's wardogs\")"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "01303d3beb16b992be93426c567ae5d5adeb1981d9a1063c9194752e9f284b9d",
+    "original": "butcher",
+    "translation": "",
+    "context": ""
   }
 ]

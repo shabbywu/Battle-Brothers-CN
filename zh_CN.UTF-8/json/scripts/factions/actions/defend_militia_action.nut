@@ -14,5 +14,11 @@
     "translation": "的民兵",
     "stage": 1,
     "context": "_faction.spawnEntity(spawnpoints[i], this.m.Settlement.getName() + ' Militia', False, this.Const.World.Spawn.Militia, this.m.Settlement.getResources())"
+  },
+  {
+    "key": "8c7ed2d9be59e21cf7cfc7da75c6c0cb7dd751f4a870f0f9236f0f35cbaf584e",
+    "original": "banner",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -30,5 +30,11 @@
     "translation": "立即将每个邪教徒的疲劳值降低 [color=",
     "stage": 5,
     "context": "text = 'Lowers the fatigue of every cultist, friend or foe, by [color=' + this.Const.UI.Color.NegativeValue + ']-10[/color] instantly. Anyone not a cultist is not affected.'"
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

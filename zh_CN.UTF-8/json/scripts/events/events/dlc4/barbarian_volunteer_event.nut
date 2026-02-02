@@ -38,5 +38,11 @@
     "translation": "%name%因为不愿杀死自己的兄弟而被逐出了北方的部落，在此之后他加入了你。他会为你，也会为任何人而战。",
     "stage": 1,
     "context": "_event.m.Dude.getBackground().m.RawDescription = \"%name% joined you after being exiled from his tribe in the north for refusing to kill his brother. He'll fight for you as well as for anyone.\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
   }
 ]

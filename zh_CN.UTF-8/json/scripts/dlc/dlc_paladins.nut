@@ -14,5 +14,11 @@
     "translation": "游玩“解剖学家”起源时，初次击败某种敌人将获得药剂，可使队员发生变异，获得特殊能力。",
     "stage": 5,
     "context": "\"With the 'Anatomists' origin, defeating new enemies grants potions that mutate your men and grant them special abilities.\""
+  },
+  {
+    "key": "85466a384f2c4eb3e99910a8a7713bffd1ab06ea04b1cd03ac7c2e4816de25ed",
+    "original": "Paladins",
+    "translation": "",
+    "context": "!\"Paladins\" || !this.Const.DLC.Paladins"
   }
 ]

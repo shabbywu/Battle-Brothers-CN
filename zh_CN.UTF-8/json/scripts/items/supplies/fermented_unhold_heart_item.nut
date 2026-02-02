@@ -14,5 +14,11 @@
     "translation": "食物。曾是北方蛮王们为增强雄风而享用的珍馐，但其味道实在令人难以下咽。",
     "stage": 5,
     "context": "this.m.Description = 'Provisions. Once a delicacy for barbarian kings of the north who wished to embolden their virility, fermented unhold heart tastes distinctively awful.'"
+  },
+  {
+    "key": "a3b50c476732c7409d297c3d7d0e23569fee5e08318553ae76041ab5fe60582e",
+    "original": "State",
+    "translation": "",
+    "context": "\"State\" && this.World.State != null && this.World.State.getCurrentTown() != null"
   }
 ]

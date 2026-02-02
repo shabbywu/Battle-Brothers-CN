@@ -46,5 +46,17 @@
     "translation": "从海上吹来一阵清新的微风。",
     "stage": 1,
     "context": "Text = \"There's a fresh breeze coming from the sea.\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "8b133a3868993176b613738816247a7f4d357cae555996519cf5b543e9b3554b",
+    "original": "miner",
+    "translation": "",
+    "context": ""
   }
 ]

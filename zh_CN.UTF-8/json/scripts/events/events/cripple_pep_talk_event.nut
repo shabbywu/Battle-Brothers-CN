@@ -62,5 +62,23 @@
     "translation": "[/color] 决心",
     "stage": 1,
     "context": "text = _event.m.Cripple.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + resolve + '[/color] Resolve'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "4b18aefe826adf558cdcd94d8e2c753c47213c08dd05b0f15f7e6cf450fba888",
+    "original": "cripple",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "d133a66dd576b4cfde78a2fcdd2970150b42f03010fdd7b013864f5d01833bfe",
+    "original": "veteran",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -14,5 +14,11 @@
     "translation": "几棵树的顶端架着一座大型木结构。尽管很奇怪，它的确酷似一艘船。",
     "stage": 5,
     "context": "return 'Atop some trees sits a large wooden structure. As strange as it seems, it looks a lot like a ship.';"
+  },
+  {
+    "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
+    "original": "body",
+    "translation": "",
+    "context": ""
   }
 ]

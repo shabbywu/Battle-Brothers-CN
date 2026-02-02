@@ -14,5 +14,11 @@
     "translation": "一支有武装护卫的商队，在定居点间运送给养、物资和装备。",
     "stage": 1,
     "context": "party.setDescription('A caravan with armed escorts transporting provisions, supplies and equipment between settlements.')"
+  },
+  {
+    "key": "cae662172fd450bb0cd710a769079c05bfc5d8e35efa6576edc7d0377afdd4a2",
+    "original": "base",
+    "translation": "",
+    "context": ""
   }
 ]

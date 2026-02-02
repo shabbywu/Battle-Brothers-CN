@@ -38,5 +38,11 @@
     "translation": "除非，他下场战斗就被流矢射中。",
     "stage": 1,
     "context": "this.m.SuccessButtonText = 'Unless, of course, a stray arrow catches him next battle.'"
+  },
+  {
+    "key": "525eca1d5089dbdcbb6700d910c5e0bc23fbaa23ee026c0e224c2b45490e5f29",
+    "original": "star",
+    "translation": "",
+    "context": ""
   }
 ]

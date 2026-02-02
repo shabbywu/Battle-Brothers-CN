@@ -38,5 +38,17 @@
     "translation": "{%name%，一位不为家人着想的贵族的私生子。离开了%companyname%，试图开创自己的家族血统。据你最近听到的消息，他已经成功地获得了一块好土地，并在上面建起了一座简陋的石头城堡。虽然他取得了成功，但是他仍然对他的家庭心怀怨恨。 | 作为贵族的私生子，%name%总有一种自己并不属于这个世界的感觉。但%companyname%赋予了他可以称之为家庭的兄弟情谊。据你所知，他至今仍然在为这个战团战斗着。}",
     "stage": 1,
     "context": "this.m.GoodEnding = \"{%name%, the bastard son of a familially inconsiderate nobleman, departed the %companyname% to try to carve out his own family lineage. The last you heard, he'd managed to acquire himself a good plot of land and a modest stone castle rests on it. While successful, he still harbors resentment for his family. | A bastard son of a nobleman, %name% couldn't help but always have that lingering feeling he just didn't belong in this world. But the %companyname% gave him a brotherhood to call family. As far as you know, he still fights with the company to this day.}\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

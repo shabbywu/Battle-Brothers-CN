@@ -38,5 +38,23 @@
     "translation": "港口",
     "stage": 5,
     "context": "this.m.Name = 'Harbor'"
+  },
+  {
+    "key": "a71f3b4b32669f2da3e5749993997c19192ebc6d1af6ec8bd0cfd9f2b702077b",
+    "original": "<br><br>",
+    "translation": "",
+    "context": "s.getDescription() + \"<br><br>\" + this.getRandomDescription(s.getName())"
+  },
+  {
+    "key": "ff59209e4c7e034193a66b0ba0a49f22ba80ef98186a487d37a48578b8e85399",
+    "original": "destname",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "678fb24218de40451e35352e35bc07bc90705c34ee0f6ff0af73e018a56eb85c",
+    "original": "shipname",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -94,5 +94,17 @@
     "translation": "]+7[/color] 远程防御",
     "stage": 1,
     "context": "text = _event.m.Dude.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+7[/color] Ranged Defense'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "a9d4034da07d8ef31db1cd4119b6a4552fdfbd19787e2848e71c8ee3b47703a7",
+    "original": "guard",
+    "translation": "",
+    "context": ""
   }
 ]

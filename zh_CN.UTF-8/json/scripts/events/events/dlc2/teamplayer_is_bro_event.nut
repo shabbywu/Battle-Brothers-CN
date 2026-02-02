@@ -46,5 +46,17 @@
     "translation": "]+1[/color] 决心",
     "stage": 1,
     "context": "text = bro.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+1[/color] Resolve'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "4473d5d9b03b57786fe58da2e33c2920d3db9c4d0e8367c1fdd6983ad6cea9b1",
+    "original": "teamplayer",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -14,5 +14,11 @@
     "translation": "石头岗楼",
     "stage": 5,
     "context": "this.m.Name = 'Stone Watchtower'"
+  },
+  {
+    "key": "72059e4ae63a5e1fd696c8817d6ec88d89f9c9bb05ba8cc90a99a35654516986",
+    "original": "lighting",
+    "translation": "",
+    "context": ""
   }
 ]

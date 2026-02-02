@@ -30,5 +30,11 @@
     "translation": "贵族现在会给你合同",
     "stage": 1,
     "context": "text = 'Nobles will now give you contracts'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
   }
 ]

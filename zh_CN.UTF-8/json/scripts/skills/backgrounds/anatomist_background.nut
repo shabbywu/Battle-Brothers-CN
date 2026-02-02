@@ -110,5 +110,17 @@
     "translation": "逃离%companyname%后，解剖学家%name%在其他地方继续他的研究。他因不修边幅的研究方式饱受同行谴责，又发觉自己在智力上并无过人之处。过了几年，在为甲虫研究做出一些微小贡献之后，他立即跳下了海边的悬崖，把自己的大脑捐献给了岩石，身体则归于海洋。",
     "stage": 1,
     "context": "this.m.BadEnding = 'Having fled the %companyname%, %name% the anatomist continued his studies elsewhere. He was admonished by his peers for venturing out in such an uncouth manner and found himself suffering in intellectual mediocrity. Some years later, he made a small contribution to the study of beetles after which he promptly threw himself off a seaside cliff, donating his brain to the rocks and his body to the ocean.'"
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

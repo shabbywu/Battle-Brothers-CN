@@ -22,5 +22,23 @@
     "translation": "如果可能的话，迫使目标在其下回合接近并攻击此角色。请注意，目标依旧会遵循他们的群体战略，并不一定会盲目的冲过来。",
     "stage": 5,
     "context": "text = 'Force the target to engage and attack this character, if possible, on their next turn. Note that targets will still adhere to their group strategy, and may not blindly charge forward.'"
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

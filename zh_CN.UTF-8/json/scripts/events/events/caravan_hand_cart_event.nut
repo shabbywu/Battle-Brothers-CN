@@ -38,5 +38,17 @@
     "translation": "你的仓库空间增加了",
     "stage": 1,
     "context": "text = 'You gain inventory space'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "a06cb7f3861d6e85dd4e9fa15ba88b6f30d758e37cb2a9697878eb1f91e51763",
+    "original": "caravanhand",
+    "translation": "",
+    "context": ""
   }
 ]

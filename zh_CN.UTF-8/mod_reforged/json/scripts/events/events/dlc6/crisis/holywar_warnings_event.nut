@@ -1,0 +1,26 @@
+[
+  {
+    "key": "f7d1682042d618cad5782ad0be7ad71e06fa96fe0679f8c1924b30b439de59e0",
+    "original": "%terrainImage%{A peasant passes you on the path. He mentions off-hand that he doesn't understand why gods would have their followers fight each other. If it really wanted to be settled, why not do it themselves? You grab him by the shirt and ask what he's blathering about. He pulls away.%SPEECH_ON%Oy! Hands off, or I'll nip ya! And I'm just grousing, thass'all. Lotta talk going around about the Gilded folk and the followers of the old gods butting heads. Again. Now lemme bitch in peace!%SPEECH_OFF%The man walks off, mumbling and, ironically, getting louder in volume the further away he gets from you. | You come across a congress of Gilded and old gods' monks alike. They're discussing the possibility of an upcoming war, and how to protect themselves if such a time comes to pass. It's admirably amicable, all told, but it does seem there's a hint of religious reckoning in the air. | A man fixing a wagon beside the road shakes his head.%SPEECH_ON%You know, I'd just like to go from one spot of the world t'another, and that be that. But no. Farking... something! Always something! Has gotta go wrong. Hey, speaking of wheels, here's one I hear turning: the Gilder and the old gods might be knocking heads again. Seen storm clouds of it. Holy war in the sky. Which means holy war here. I hope to get clear of it before it starts. You seen the last one? Nasty business.%SPEECH_OFF%You're sure it is, but nasty business means good business for the %companyname%. | %SPEECH_ON%Knees bothering me.%SPEECH_OFF%You look over to see an old man wiggling two stumps. He grins.%SPEECH_ON%That is to say, the spirit of my knee is getting ornery. When I had m'legs, the tinge in the knee meant bad weather. Now the twinge in no-knee means something worse.%SPEECH_OFF%A young boy comes and hauls the elder into a wheelbarrow. Before he departs, you ask what he means. He turns aside, elbow cocked and hand planted on his hand, looking dapper and lively for what he is.%SPEECH_ON%A reckoning from above. The Gilder, the old gods, maybe even more than just them. I think they're all toying with us, spurring us folk to kill one another to appease them, so they can have a watch. You look the part of a sellsword, so I imagine business will be kind to you once them clerical colors wanna go red.%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"%terrainImage%{A peasant passes you on the path. He mentions off-hand that he doesn't understand why gods would have their followers fight each other. If it really wanted to be settled, why not do it themselves? You grab him by the shirt and ask what he's blathering about. He pulls away.%SPEECH_ON%Oy! Hands off, or I'll nip ya! And I'm just grousing, thass'all. Lotta talk going around about the Gilded folk and the followers of the old gods butting heads. Again. Now lemme bitch in peace!%SPEECH_OFF%The man walks off, mumbling and, ironically, getting louder in volume the further away he gets from you. | You come across a congress of Gilded and old gods' monks alike. They're discussing the possibility of an upcoming war, and how to protect themselves if such a time comes to pass. It's admirably amicable, all told, but it does seem there's a hint of religious reckoning in the air. | A man fixing a wagon beside the road shakes his head.%SPEECH_ON%You know, I'd just like to go from one spot of the world t'another, and that be that. But no. Farking... something! Always something! Has gotta go wrong. Hey, speaking of wheels, here's one I hear turning: the Gilder and the old gods might be knocking heads again. Seen storm clouds of it. Holy war in the sky. Which means holy war here. I hope to get clear of it before it starts. You seen the last one? Nasty business.%SPEECH_OFF%You're sure it is, but nasty business means good business for the %companyname%. | %SPEECH_ON%Knees bothering me.%SPEECH_OFF%You look over to see an old man wiggling two stumps. He grins.%SPEECH_ON%That is to say, the spirit of my knee is getting ornery. When I had m'legs, the tinge in the knee meant bad weather. Now the twinge in no-knee means something worse.%SPEECH_OFF%A young boy comes and hauls the elder into a wheelbarrow. Before he departs, you ask what he means. He turns aside, elbow cocked and hand planted on his hand, looking dapper and lively for what he is.%SPEECH_ON%A reckoning from above. The Gilder, the old gods, maybe even more than just them. I think they're all toying with us, spurring us folk to kill one another to appease them, so they can have a watch. You look the part of a sellsword, so I imagine business will be kind to you once them clerical colors wanna go red.%SPEECH_OFF%}\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "285db421dde6f5bb8b0df2eb451a601f6425d4083ee4ded41980c845a8d30c76",
+    "original": "Along the road...",
+    "translation": "",
+    "context": "this.m.Title = \"Along the road...\""
+  },
+  {
+    "key": "dd3343693e8c1d29d67c51ce8b80c20a5f1a21571af1df770ef7661020c20a93",
+    "original": "Good to know.",
+    "translation": "",
+    "context": "Text = \"Good to know.\""
+  }
+]

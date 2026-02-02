@@ -22,5 +22,11 @@
     "translation": "每个人都可以通过努力干活还清镀金者的债务而获得救赎。",
     "stage": 1,
     "context": "Text = 'Everyone can earn salvation by working off their debt to the Gilder.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
   }
 ]

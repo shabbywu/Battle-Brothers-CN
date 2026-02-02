@@ -14,5 +14,11 @@
     "translation": "用来做柴火或者修栅栏的木头。",
     "stage": 1,
     "context": "return 'Wood chopped as firewood or for constructing palisades.';"
+  },
+  {
+    "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
+    "original": "body",
+    "translation": "",
+    "context": ""
   }
 ]

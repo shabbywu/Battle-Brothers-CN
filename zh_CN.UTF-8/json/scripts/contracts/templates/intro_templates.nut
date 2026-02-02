@@ -94,5 +94,29 @@
     "translation": "[img]gfx/ui/events/event_20.png[/img]{你刚进镇子，就看见个老汉坐在破屋门廊上。他一见你就啐了口唾沫。%SPEECH_ON%敢在这地界露脸，你够种啊，佣兵。%SPEECH_OFF%他用袖子抹抹嘴。%SPEECH_ON%但我不扯谎，咱们确实需要你——虽然这么说难受死我了。去吧，你知道想赚钱的话该找谁，%employer%老地方待着呢。%SPEECH_OFF% | 你刚踏进%townname%，就有人朝你大喊。%SPEECH_ON%天杀的，这不是%companyname%和它那个阴沟里的毒蛇头子嘛！%SPEECH_OFF%你挑眉按剑。那人大笑。%SPEECH_ON%我们是不待见你，佣兵，可眼下还真缺人手。来，往这里出溜——你只关心这个，对吧？该找的是%employer%。%SPEECH_OFF% | 你刚进%townname%，居民就躲得没影。窗户砰砰关紧，孩子被嘘声赶走。有个男人叉腰站在路中央。%SPEECH_ON%哟，是你啊。%SPEECH_OFF%%你环顾四周，生怕遭遇伏击。那人笑道。%SPEECH_ON%我们不是来要你命的，佣兵。我是来撮合交易的，仅此而已。如果你感兴趣，就来找%employer%吧。%SPEECH_OFF%他吐了口唾沫，转身走开了。你又花了一些时间确认没有埋伏。 | 你才一现身，妇女儿童就惊慌跑开了。只留下了几个男人，紧握着草叉或短刀。一名长者走上前来，上下打量着你。%SPEECH_ON%%employer%找你有事。我不知道他为什么还会再找你货色，但我犯不着从中作梗。%SPEECH_OFF% | 你走进%townname%时，几个衣衫褴褛的民兵正对你侧目而视。其中一人吐了口唾沫大喊。%SPEECH_ON%%employer%找你有事，佣兵。%SPEECH_OFF%之后的低声嘟囔听着像脏话。 | 一名妇女匆匆赶到路中抱起自己的孩子。她把孩子转了个圈，手紧紧护住小孩后脑勺。%SPEECH_ON%佣兵，我不知道你又来这里干什么，但是%employer%一直在找你。%SPEECH_OFF%她快步跑开，时不时谨慎地瞥向身后。 | 孩子们在你脚边打转。他们的父母冲出来大喊大叫，让自家孩子赶紧离你远点。一位母亲拉走自己的女儿，同时用敌视的眼神盯着你。%SPEECH_ON%敢碰我孩子试试，要谈生意就去找%employer%。%SPEECH_OFF% | 一个男人正修理着他家的屋顶，他看到了你。%SPEECH_ON%啊，见鬼，又是你？%SPEECH_OFF%你环顾四周，然后又看向那个人。他笑了。%SPEECH_ON%乡亲们都不喜欢你来这儿，我倒是没什么不满——毕竟待在十尺高的屋顶上容易说风凉话。%SPEECH_OFF%他咧嘴笑了笑，却踩了个空，差点从屋顶上滑下来。他紧紧抓住茅草屋顶。%SPEECH_ON%哇！唔，总之，%employer%在找你。别在意那些人的敌意，他们天生就这德性。%SPEECH_OFF% | 人们一看到%companyname%就慌忙躲闪。一个男人从窗口大声喊道。%SPEECH_ON%诶，雇佣兵！%employer%正找你呢！%SPEECH_OFF%你还没来得及回应，他就迅速关上了窗户。}",
     "stage": 5,
     "context": "Text = \"[img]gfx/ui/events/event_20.png[/img]{An old man's sitting out on a hovel's porch when you enter the town. He spits at the very sight of you.%SPEECH_ON%Some balls on you showing your face around these parts, sellsword.%SPEECH_OFF%He wipes his mouth on his sleeve.%SPEECH_ON%But I won't lie and say we don't need you, though I hate to all the hells that I have to admit it. Come on then, you know who to see if it's money yer after. %employer% be where he always be.%SPEECH_OFF% | You enter %townname% and a man barks out at you.%SPEECH_ON%Well shit, if it ain't the %companyname% and the snake in the grass it calls a leader.%SPEECH_OFF%You raise an eyebrow, and put a hand to your sword. The man laughs.%SPEECH_ON%We don't care for you, sellsword, but we do need ya. Come on, slither this way so we can talk business. That's what you really care about, right? %employer% is the man you want to be seeing.%SPEECH_OFF% | %townname%'s denizens duck out of sight as you enter. Many a shutter slam close, and children are hushed and hurried away. A man's standing in the middle of the road, his hands on his hips.%SPEECH_ON%Well, it's you.%SPEECH_OFF%You look around, making sure some ambush isn't about to fall down on your damn head. The man laughs.%SPEECH_ON%We ain't gonna kill ya, sellsword. I'm out here to broker a deal, that's all. If you're interested, come see %employer%.%SPEECH_OFF%He spits, turns, and walks off. You spend a second longer looking out for that ambush. | Frightened women and children run from the sight of you. A few men linger, clutching their pitchforks or sidearms as you pass. An elder steps forward, eyeing you up and down.%SPEECH_ON%%employer%'s been looking for ya. I don't know why after all that you've done, but I won't get between him and his business.%SPEECH_OFF% | Some of %townname%'s ragged militia give you the side-eye as you enter the town. One spits and yells out.%SPEECH_ON%%employer%'s looking for you, sellsword.%SPEECH_OFF%His voice trails off into what you thought sounded like obscenities. | A woman hurries across the road to pick up her child. She twirls the kid around, a protective hand clutching the back of its head.%SPEECH_ON%I don't know what you're doing here again, sellsword, but %employer%'s been looking for you anyhow.%SPEECH_OFF%She runs off, though occasionally looking behind her with furtive glances. | Kids cycle around your feet as you walk down the road. Their parents come out screaming, telling the kids to get away from you. A mother ushers her daughter away while mean mugging you.%SPEECH_ON%Don't ever touch my child. And if it's business you want, then go see %employer%.%SPEECH_OFF% | A man's repairing the roof of his home when he sees you.%SPEECH_ON%Ah hell, you again?%SPEECH_OFF%You look around then turn back to the man. He laughs.%SPEECH_ON%Most folks don't take kindly to yer being here. I suppose I'm neutral on the matter, but then again it's easy to be on the fence when yer ten feet up in the air.%SPEECH_OFF%He grins, but his foot kicks out and he almost slides off his roof. He clutches onto the thatching.%SPEECH_ON%Whoa! Well, uh, anyway %employer%'s looking for you. Don't mind the hate of the people. It's what comes natural to them.%SPEECH_OFF% | People scurry from the sight of the %companyname%. One man yells out from his window.%SPEECH_ON%'Ey mercenary! %employer% been wanting to see you!%SPEECH_OFF%He quickly shutters his windows before you can respond.}\""
+  },
+  {
+    "key": "0488acc63d8b513587cc45e2d7dd7c17cb873266452b23273c6dedb651764243",
+    "original": "Contracts",
+    "translation": "",
+    "context": "!\"Contracts\""
+  },
+  {
+    "key": "24601bcaae6e170b381367ec4f4475786c6dbef5e8332f8903779c76d298d304",
+    "original": "Intro",
+    "translation": "",
+    "context": "ID = \"Intro\""
+  },
+  {
+    "key": "4bc74b21357c6cf5cca8f66b4d4ee948be64d0396feb434c9645e168ad61ceaf",
+    "original": "Task",
+    "translation": "",
+    "context": "getResult = function getResult(){\n    return \"Task\";;\n    return;\n}"
+  },
+  {
+    "key": "4bc74b21357c6cf5cca8f66b4d4ee948be64d0396feb434c9645e168ad61ceaf",
+    "original": "Task",
+    "translation": "",
+    "context": ""
   }
 ]

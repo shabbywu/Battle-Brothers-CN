@@ -102,5 +102,29 @@
     "translation": "[/color] 格，向低处射击时为 [color=",
     "stage": 5,
     "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + '[/color] tiles on flat ground and [color=' + this.Const.UI.Color.PositiveValue + ']' + this.getMaxRange() + this.m.MaxRangeBonus + '[/color] tiles if shooting downhill'"
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]Needs a non-empty powder bag equipped[/color]\""
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]Can not be used because this character is engaged in melee[/color]\""
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]Must be reloaded before firing again[/color]\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

@@ -38,5 +38,11 @@
     "translation": "一记即使穿着最厚的盔甲也能被感受到并留下长久痕迹的打击。",
     "stage": 5,
     "context": "this.m.Description = 'A strike that can be felt through the thickest of armor and will leave a lasting mark.'"
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

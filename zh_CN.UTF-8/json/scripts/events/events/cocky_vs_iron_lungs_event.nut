@@ -62,5 +62,23 @@
     "translation": "受到了轻微伤",
     "stage": 1,
     "context": "text = _event.m.Cocky.getName() + ' suffers light wounds'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "390cde5f2c1ecf151dcb707ac2e2cb240d2c69a1508de81c2fbeb7527045aad5",
+    "original": "cocky",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "8bd72687551b92197e5f3f363f6d718642de74e61cf3f45469da425fb2dd177a",
+    "original": "ironlungs",
+    "translation": "",
+    "context": ""
   }
 ]

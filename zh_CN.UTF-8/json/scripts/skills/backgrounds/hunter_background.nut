@@ -94,5 +94,17 @@
     "translation": "尽管%companyname%持续取得巨大成功，猎人%name%还是决定把这一切都抛在身后。他回到树林和田野，狩猎鹿和小型动物。他很少展现出狩猎人类的残酷真相，你只能往好了想，他已经不再那么做了。 据你所知，他现在生活还不错。他买了一块地，并帮忙指导贵族进行昂贵的狩猎之旅。",
     "stage": 1,
     "context": "this.m.GoodEnding = \"While the %companyname% continued on with great success, %name% the hunter eventually saw fit to leave it all behind. He returned to the forests and fields, hunting deer and small game. He rarely showed the grim reality of hunting humans, but you have to imagine he'd just rather stop doing it. As far as you know, he's doing well for himself these days. He purchased a bit of land and helps guide nobles on pricy hunting trips.\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

@@ -30,5 +30,23 @@
     "translation": "现在憎恨亡灵",
     "stage": 5,
     "context": "text = _event.m.Casualty.getName() + ' now hates the undead'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "0b4bd77cec705cf5df016344c0fc673fb3c2240078e6af572b2c5c6fa76114af",
+    "original": "brother",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "6105d6cc76af400325e94d588ce511be5bfdbb73b437dc51eca43917d7a43e3d",
+    "original": "image",
+    "translation": "",
+    "context": ""
   }
 ]

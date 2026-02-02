@@ -46,5 +46,29 @@
     "translation": "你的一个队员取悦了群众。",
     "stage": 1,
     "context": "_event.m.Town.getOwner().addPlayerRelation(this.Const.World.Assets.RelationCivilianContractSuccess, 'One of your men entertained the masses')"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "3b7c383af0e12000c7f43ecd0cbb698e866aa2deea7ece7b500d6db6f1282feb",
+    "original": "juggler",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "50ac81f970325a3e011f2437818adde426e1278dee5670dd359edfca43a72d79",
+    "original": "town",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "cce8cfe2ad73528fe61142ab4f5cda39410f936f701b34c2a94f736ac0a8797d",
+    "original": "townname",
+    "translation": "",
+    "context": ""
   }
 ]

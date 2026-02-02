@@ -38,5 +38,17 @@
     "translation": "冒险精神是%name%的一部分。{离开%companyname%之后，他没有回到家族，而是向东进发，寻找奇珍异兽。传说他带着个超大号蜥蜴头回到了镇上，但你不相信这种天方夜谭。 | 他离开了%companyname%，向西冒险，穿过海洋，前往未知的土地，没人知道他现在何处，但毫无疑问，他会满载着故事回来。 | 他从%companyname%退休，但并没有回到他的家族，而是去了南方。传说他参加了一场宏大的贵族内战，杀死了一名兽人军阀，爬上了最高的山峰，正在写一部记录他旅行的史诗。 | 这名贵族离开%companyname%之后，选择了冒险，而非无聊的贵族生活，向北方启程。传说他正在领着一支探险队前往世界的尽头。}",
     "stage": 1,
     "context": "this.m.GoodEnding = \"Adventurousness never leaves the soul of a man like %name%. {Instead of returning to his noble family, he left the %companyname% and headed east in search of rare beasts. Word has it he returned to town with the head of what looked like a giant lizard, but you don't believe such fantastical tripe. | He departed the %companyname% and ventured west, sailing across the oceans to unseen lands. There's no telling where he is these days, but you've little doubt that he'll be coming back with stories to tell. | He retired from the %companyname% and, instead of returning to his noble family, headed south. Word has it he fought in a great noble civil war, killed an orc warlord, climbed the highest mountain in the land, and is currently writing an epic about his travels. | The nobleman left the %companyname% and, preferring the life of adventure to noble boredom, he headed north. Word has it that he's currently marching a troop of explorers to the furthest reaches of the world.}\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

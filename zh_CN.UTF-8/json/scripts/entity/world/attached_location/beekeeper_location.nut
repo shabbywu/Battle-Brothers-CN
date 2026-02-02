@@ -14,5 +14,11 @@
     "translation": "这些被嗡嗡蜂群包围的小棚屋是养蜂人的家。他们生产的蜂蜜是为糕点等食物增甜的珍贵原料。",
     "stage": 1,
     "context": "this.m.Description = 'Surrounded by humming bees, these small huts are home to beekeepers. The honey they produce is a precious ingredient to sweeten pastries and other foods.'"
+  },
+  {
+    "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
+    "original": "body",
+    "translation": "",
+    "context": ""
   }
 ]

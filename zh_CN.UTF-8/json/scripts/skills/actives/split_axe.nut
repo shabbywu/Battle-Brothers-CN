@@ -30,5 +30,11 @@
     "translation": "一种侧重打击范围而不是力量的过顶击，可以攻击直线上的两个格子。",
     "stage": 5,
     "context": "this.m.Description = 'A wide-swinging overhead attack performed for maximum reach rather than force that can hit two tiles in a straight line.'"
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

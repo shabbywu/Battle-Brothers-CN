@@ -22,5 +22,17 @@
     "translation": "战团做得很好，我们只需要保持下去！\n（没有野心）",
     "stage": 5,
     "context": "this.m.ButtonText = 'The company is doing great, we just need to keep it up!\n(No Ambition)'"
+  },
+  {
+    "key": "1e0584a25d9f43bf5cbd0aec01eb1af2220ed085b4e7f1837b0d89958cae353a",
+    "original": "header",
+    "translation": "",
+    "context": "type = \"header\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

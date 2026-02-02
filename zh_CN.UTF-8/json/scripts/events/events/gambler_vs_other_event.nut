@@ -38,5 +38,23 @@
     "translation": "露营时……",
     "stage": 5,
     "context": "this.m.Title = 'During camp...'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "0de4e1d834c19683e362bd51f64a5ff107f8390576a61fb83e4ada50684d682e",
+    "original": "gambler",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "899005b83dd2705cdc42f0a6cdae6a224780105f3d3750ba1c82b96514194d03",
+    "original": "nongambler",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -46,5 +46,17 @@
     "translation": "通过履行村庄或城镇平民派系的合同，将其关系提升到“友好”级别。半途而废或背叛他们会降低你们的关系。与增进和村庄的关系相比，增进和城邦的关系需要更长的时间。贵族家族不算平民派系。",
     "stage": 5,
     "context": "this.m.TooltipText = \"Increase the relation with a civilian faction of one of the world's villages or towns to 'Friendly' by fulfilling contracts given in the faction's settlement. Failing contracts or betraying their trust will lower your relations. Increasing relations with city states takes longer than increasing relations with small villages. Noble houses do not count as civilian factions.\""
+  },
+  {
+    "key": "432fd51a02b9b69fd4f72b16a0b50602a2e556add9461e89fcc5c95b13b796cc",
+    "original": "brawler",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "de0a3c87e498b2bc5cae9309849b04077436671caa7ef24132c48be9c10f3e76",
+    "original": "friendlytown",
+    "translation": "",
+    "context": ""
   }
 ]

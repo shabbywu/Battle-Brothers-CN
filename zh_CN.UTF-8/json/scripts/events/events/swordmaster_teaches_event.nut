@@ -62,5 +62,35 @@
     "translation": "学习 ",
     "stage": 1,
     "context": "_event.m.Student.improveMood(0.5, 'Learned from ' + _event.m.Teacher.getName())"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    return \"A\";;\n    return;\n}"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "7bee15b8deab6ba5b9a89ddfbdf475ec525df25a9aa3481befc5963bd64b8816",
+    "original": "swordmaster",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "3fa7581162e4b449e3129331e3d03c413be4be8c228bd4296de6198e96651bef",
+    "original": "swordstudent",
+    "translation": "",
+    "context": ""
   }
 ]

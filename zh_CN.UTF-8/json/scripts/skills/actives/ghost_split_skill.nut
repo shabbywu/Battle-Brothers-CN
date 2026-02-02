@@ -46,5 +46,11 @@
     "translation": "最多可以击中 2 个目标",
     "stage": 5,
     "context": "text = 'Can hit up to 2 targets'"
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

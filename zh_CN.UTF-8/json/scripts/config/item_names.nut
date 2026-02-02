@@ -4470,5 +4470,17 @@
     "translation": "钢钳",
     "stage": 1,
     "context": "'Pincer'"
+  },
+  {
+    "key": "0c8ffc17468868d41c8d6806089deaafa12da5caa0d0b9c31f0ec438fe12ac7c",
+    "original": "Desert",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "31058086b35a14d971dc55cd96f5d82c57d22aa8ab462172d66677ede215a25d",
+    "original": "Strings",
+    "translation": "",
+    "context": "!\"Strings\""
   }
 ]

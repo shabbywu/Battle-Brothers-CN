@@ -46,5 +46,23 @@
     "translation": "{众神怜悯世人，这促使许多人，如%name%一样，去寻求祂们的青睐。 | 目不识丁，出身贫寒，%name%在诸神的传说中找到了慰藉。 | %name%一向嗜书如命，自然也读到了诸神的典籍。 | 有人说神灵会跟我们对话，如果是真的，那祂们肯定跟%name%说过话。 | 随着新的邪教在荒野中涌现，%name%重拾对众神的亲近。 | 早年间，在他狂热父亲的教育下，%name%一直在治愈那些结实鞭打带来的伤口。众神会认同这样的行为的。}{当战争降临在这片土地上，众神告诉他为了更大的正义而参战。 | 正如老鼠传播瘟疫，异教徒们传播歪理邪说，%name%决定拿起武器与异端战斗。 | 他违背信仰，在%randomtown%犯下了一桩可怕的罪行 —— 一个男人有了暧昧关系。现在他每晚责打自己，从中寻求救赎。 | 哪怕只是个关于圣地的传闻，就能让朝圣者就带上行装，前去寻找。 | 战争又回到了这片土地上，这位神明们的信徒希望通过祈祷和肉体手段找出原因。 | 在山洞里的一夜让这位信徒开悟 —— 诸神需要鲜血。%name%不是会拒绝祂们召唤的人。 | 掠袭者洗劫了他教堂的金库，%name%的任务是把他再干净不过的钱袋重新填满。}{这是一场消磨世界的战争，连宇宙法则都能折服，有个像%name%这样的奇术士才能叫有备无患。 | 他拿着一根夹杂玻璃碴的皮鞭。不是用来杀敌的，他说，是用来净化心灵。有趣。 | 他自称憎恨邪恶，但只要花几个克朗，你就能替%name%定义“邪恶”。 | 这个人寻求劫难，佣兵团正适合他。 | 如果%name%神力傍身，他肯定会净化整个世界。谢天谢地，他只是个普通人。 | 讲起诸神的事，%name%总是喋喋不休，他炽热的激情适合释放在战场上。 | 朝圣者相当迷恋神的世界，难怪人世在他们眼里尽是敌人。}",
     "stage": 1,
     "context": "onBuildDescription = function onBuildDescription(){\n    return \"{The gods pity men, spurring many, not unlike %name%, to seek their favor. | Illiterate and born to poverty, %name% found refuge in tales of the gods. | Always a man to devour books, it wasn't long until %name% discovered texts of the gods. | Some say the gods speak to us and, if true, they definitely spoke to %name%. | With new cults springing up in the wilds, %name% returned to the familiarity of the gods. | Raised by his firebrand father, %name% spent much of his early years nursing wounds from good floggings. The gods would approve.} {When war came to the land, the gods told him to take part for greater justice. | As cultists spread their vile word like disease on a rat, %name% saw fit to take up arms and battle the heresy. | Straying from his faith, he committed a horrific crime in %randomtown% - finding company with a man. While flagellating himself nightly, he seeks redemption. | Hearing but a mere rumor of a holy place, the pilgrim took up staff and supplies to seek it out. | Now that war has returned to the land, the gods' devotee wished to find out why, through prayer and corporeal means. | A night spent in a cave revealed to the believer that the gods demanded blood. %name% was not one to refuse their beckoning. | After raiders looted the coffers of his church, %name%'s quest was to refill the pure purses.} {As the laws of the universe bend to a world-consuming war, a thaumaturge like %name% might be useful to have around. | He carries a whip with glass-barbed leather. This is not for your enemies, he states, but for purity. Interesting. | He professes to hate evil, but for a few crowns %name% can be persuaded to make anything 'evil'. | This man seeks the difficult road, no doubt why he saw fit to join a mercenary band. | If %name% had the power, you believe he'd purge the entire world. Thankfully, he is a mere man. | Talks of the gods might be a tad irksome, but %name%'s fiery passion lends itself well to the battlefield. | So enamored with the world of the gods, it's not much of a surprise that the pilgrim sees the real one filled with enemies.}\";;\n    return;\n}"
+  },
+  {
+    "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
+    "original": "body",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

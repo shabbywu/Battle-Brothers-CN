@@ -38,5 +38,17 @@
     "translation": "如果所有的人都像他，这将是一个疯狂的世界。",
     "stage": 1,
     "context": "Text = 'This would be a mad world if all men were like him.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "723e3534f8e27d6ed464a2bbb471b1817bb37908f73a7002f2b80cb0a3c95e8b",
+    "original": "juggernaut",
+    "translation": "",
+    "context": ""
   }
 ]

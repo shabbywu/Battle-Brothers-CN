@@ -1,0 +1,50 @@
+[
+  {
+    "key": "5c94f882e42dd13468a1432876bd504fc53931c47712a8b0e3de46ba78f15738",
+    "original": "%name% departed the %companyname% and continued his adventuring elsewhere. {He headed east, hoping to discover the source of the greenskins, but the nobleman has not been heard from since. | He headed north into the snowy wastes. Word has it he was seen a week ago, marching south this time, looking rather pale and shuffling moreso than walking. | He headed south into brutal marshlands. Word has it that a mysterious flame appeared in the fog and he walked toward it. The men who saw this said he disappeared into the mist and never returned. | He headed west and sailed the open sea. Despite having no experience at sea, he saw fit to make himself captain of the boat. They say pieces of his ship and dead sailors kept washing ashore for weeks.}",
+    "translation": "",
+    "context": "this.m.BadEnding = \"%name% departed the %companyname% and continued his adventuring elsewhere. {He headed east, hoping to discover the source of the greenskins, but the nobleman has not been heard from since. | He headed north into the snowy wastes. Word has it he was seen a week ago, marching south this time, looking rather pale and shuffling moreso than walking. | He headed south into brutal marshlands. Word has it that a mysterious flame appeared in the fog and he walked toward it. The men who saw this said he disappeared into the mist and never returned. | He headed west and sailed the open sea. Despite having no experience at sea, he saw fit to make himself captain of the boat. They say pieces of his ship and dead sailors kept washing ashore for weeks.}\""
+  },
+  {
+    "key": "4bb246a10bbb8990e906a08843235e9c90dfab47406fd39491c8fe3536b3e128",
+    "original": "Adventurous Noble",
+    "translation": "",
+    "context": "this.m.Name = \"Adventurous Noble\""
+  },
+  {
+    "key": "1f974221f5fc384861a37c5a138547d156113e44138b379623941491f02780c4",
+    "original": "Adventurous Nobles tend to have high resolve and melee skills, but often neglect ranged defense.",
+    "translation": "",
+    "context": "this.m.BackgroundDescription = \"Adventurous Nobles tend to have high resolve and melee skills, but often neglect ranged defense.\""
+  },
+  {
+    "key": "ccdf19514f357b73d9637e20e69bb3f8867dc4e4289837cc66290f2e64cfe1d2",
+    "original": "Adventurousness never leaves the soul of a man like %name%. {Instead of returning to his noble family, he left the %companyname% and headed east in search of rare beasts. Word has it he returned to town with the head of what looked like a giant lizard, but you don't believe such fantastical tripe. | He departed the %companyname% and ventured west, sailing across the oceans to unseen lands. There's no telling where he is these days, but you've little doubt that he'll be coming back with stories to tell. | He retired from the %companyname% and, instead of returning to his noble family, headed south. Word has it he fought in a great noble civil war, killed an orc warlord, climbed the highest mountain in the land, and is currently writing an epic about his travels. | The nobleman left the %companyname% and, preferring the life of adventure to noble boredom, he headed north. Word has it that he's currently marching a troop of explorers to the furthest reaches of the world.}",
+    "translation": "",
+    "context": "this.m.GoodEnding = \"Adventurousness never leaves the soul of a man like %name%. {Instead of returning to his noble family, he left the %companyname% and headed east in search of rare beasts. Word has it he returned to town with the head of what looked like a giant lizard, but you don't believe such fantastical tripe. | He departed the %companyname% and ventured west, sailing across the oceans to unseen lands. There's no telling where he is these days, but you've little doubt that he'll be coming back with stories to tell. | He retired from the %companyname% and, instead of returning to his noble family, headed south. Word has it he fought in a great noble civil war, killed an orc warlord, climbed the highest mountain in the land, and is currently writing an epic about his travels. | The nobleman left the %companyname% and, preferring the life of adventure to noble boredom, he headed north. Word has it that he's currently marching a troop of explorers to the furthest reaches of the world.}\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
+  },
+  {
+    "key": "1094e037706704ae5c5946faefb6ffe278412ec1175919c8180eb4103ad1bdf4",
+    "original": "{A minor noble | As the third in the line of succession | A young and brash noble | A skilled swordsman}, %name%'s life at court {had grown stale for him | was not exciting enough for him with endless studying of court etiquette and family lineage | felt like wasting the best time of his life | was not half as exciting to him as the tales of adventures, battles, fearsome beasts to vanquish and fair maidens to conquer}. {Wearing the family crest proudly | At the encouragement of his brother | To the frustration of his mother | Finally making a decision to change things}, %name% rode out to {prove himself | make a name for himself | earn glory on the battlefield | test his skills in battle} and {live life to its fullest as he imagined it from behind the castle walls | see all the wonders and exotic places of the world | earn his place in the world | be knighted for his valor | become famous and loved in all the known world | become infamous and feared in all the known world}.",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "1094e037706704ae5c5946faefb6ffe278412ec1175919c8180eb4103ad1bdf4",
+    "original": "{A minor noble | As the third in the line of succession | A young and brash noble | A skilled swordsman}, %name%'s life at court {had grown stale for him | was not exciting enough for him with endless studying of court etiquette and family lineage | felt like wasting the best time of his life | was not half as exciting to him as the tales of adventures, battles, fearsome beasts to vanquish and fair maidens to conquer}. {Wearing the family crest proudly | At the encouragement of his brother | To the frustration of his mother | Finally making a decision to change things}, %name% rode out to {prove himself | make a name for himself | earn glory on the battlefield | test his skills in battle} and {live life to its fullest as he imagined it from behind the castle walls | see all the wonders and exotic places of the world | earn his place in the world | be knighted for his valor | become famous and loved in all the known world | become infamous and feared in all the known world}.",
+    "translation": "",
+    "context": "onBuildDescription = function onBuildDescription(){\n    return \"{A minor noble | As the third in the line of succession | A young and brash noble | A skilled swordsman}, %name%'s life at court {had grown stale for him | was not exciting enough for him with endless studying of court etiquette and family lineage | felt like wasting the best time of his life | was not half as exciting to him as the tales of adventures, battles, fearsome beasts to vanquish and fair maidens to conquer}. {Wearing the family crest proudly | At the encouragement of his brother | To the frustration of his mother | Finally making a decision to change things}, %name% rode out to {prove himself | make a name for himself | earn glory on the battlefield | test his skills in battle} and {live life to its fullest as he imagined it from behind the castle walls | see all the wonders and exotic places of the world | earn his place in the world | be knighted for his valor | become famous and loved in all the known world | become infamous and feared in all the known world}.\";;\n    return;\n}"
+  }
+]

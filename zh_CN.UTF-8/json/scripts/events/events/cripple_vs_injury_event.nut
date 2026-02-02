@@ -38,5 +38,23 @@
     "translation": "很好地鼓舞了那个人。",
     "stage": 1,
     "context": "Text = 'Quite the spirit on that man.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "4b18aefe826adf558cdcd94d8e2c753c47213c08dd05b0f15f7e6cf450fba888",
+    "original": "cripple",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "60b6e20a4fcd5419dafff58d391f486d4c02db1b762e0ed499af14280a46e82e",
+    "original": "injured",
+    "translation": "",
+    "context": ""
   }
 ]

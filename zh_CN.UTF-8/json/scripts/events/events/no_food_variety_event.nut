@@ -30,5 +30,11 @@
     "translation": "几天来除了谷粉别的什么也没吃上",
     "stage": 5,
     "context": "bro.worsenMood(0.5, 'Has eaten nothing but ground grains for days')"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
   }
 ]

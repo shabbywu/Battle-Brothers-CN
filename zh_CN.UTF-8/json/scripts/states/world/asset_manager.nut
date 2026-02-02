@@ -230,5 +230,95 @@
     "translation": "{终于结束了。\n\n乌鸦在倒毙的战团成员上空盘旋，他们终究遇到了旗鼓相当的对手。\n\n%companyname%很快将被世人遗忘，但在这从不缺雇佣兵活计的世道，总有新的战团会前赴后继…… | 乌鸦在%companyname%的尸堆上空盘旋，等着拾荒者离开后享用盛宴。尽管他们曾奋力搏杀，但战团很快就会被遗忘，淹没在后续涌现的众多佣兵战团中。 | 战团已全员战死。等待他们的只有乌鸦与蛆虫。但在这雇佣兵永不失业的世道，总会有新的战团顶替他们的位置…… | %companyname%已全军覆没。你和弟兄们曾拼死奋战，但这对死人毫无意义。或许当初果断撤退才是明智之选？ | 作为%companyname%的团长，你真是给蛆虫送上了饕餮盛宴。战死于此的弟兄很快会被遗忘，但在这刀头舔血永不停歇的世道，总有新的战团会接替他们…… | 你仰望着漫天鸦群，眼中的光芒逐渐黯淡。这具垂死的躯体如此诱人，连拥有飞翔奇迹的生灵都愿屈尊降落，将你分食。 | 你本该带领%companyname%赢取财富与荣耀。或许曾有所获，但此刻躺在尸堆里又有何用？ | %companyname%曾相信你能带来荣耀、财富与美人。如今他们全成了地上尸骸，你也位列其中。世人很快会将他们遗忘，但在这雇佣兵永不缺活计的世道，总会有新的战团涌现…… | 鸦群开始遮蔽天空，令人作呕的啼鸣响彻四野。拾荒者正在翻检你与弟兄们的遗体，你们的武器装备将继续流转，执行你们再也无法掌控的使命。 | 难以断定是从何时开始走错。是最后关头本该撤退却选择死守？还是初次握剑时感到得心应手的那刻？这一切如今还有何意义？\n\n%companyname%已全军覆没，但在这雇佣兵永不失业的世道，总会有新的战团前赴后继…… | 一只乌鸦停在你脚上，用墓园看守般的目光凝视你走向死亡。战团其他成员横陈大地，拾荒者早已开始搜刮财物。 | 你奋战一场，至少在体内的生命缓缓消逝时你是这么宽慰自己的。\n\n战团之名终将湮没于历史，但在这雇佣兵永不缺活计的世道，总会有新的战团接替他们的位置…… | 你以为死亡如同入睡，是一个不知不觉地过程。但此刻不同——剧痛撕扯着每一根神经。你拼命祈求痛苦终止，而后终于得偿所愿。 |  %companyname%这次遇到了克星。虽非首次遭遇强敌，但过往你总能审时度势。这次却判断失误，麾下弟兄全为这个错误献出了生命。 | %companyname%已无人生还。某位史官会在阴暗烛光里记下战团覆灭的讯息。而这份记载终将湮没于洪流，连同战团存在过的所有痕迹一起消失。 | %companyname%将士的鲜血将化作史官的墨汁，所有挣扎与苦难都将沦为注脚，沉没在档案库的黑暗深处。 | 难道这就是你唯一的结局吗？你本可以走出不同的道路。在最后时刻，你拼命回溯往昔，试图在记忆中找到避开此刻结局的可能，寻求对抗这残酷终局的庄重解药。 | %companyname%的尸骸遍布荒野，即将成为蛆虫与乌鸦的食粮，一身甲胄尽成虚设。战死于此的将士很快会被遗忘，但在这雇佣兵永不失业的世道，总会有新的战团前赴后继…… | 真是份大礼——耗费时间金钱为弟兄置办武器装备，最终却便宜了拾荒者。献给乌鸦蛆虫的肉身馈赠同样值得嘉奖。恭喜。 | 不出几年，%companyname%的事迹就会彻底被遗忘。当酒客向酒保打听佣兵旧事时，他稍作思索，你的面容便从记忆中淡去，名号随之消散。最终他只会耸耸肩继续斟酒。 | 当光芒从你的世界褪去时，你仍奢望%companyname%的威名能长存于世，奢望世人铭记他们的功绩——但不会的。 | 当剧痛席卷全身，你索性抛弃物质世界，退守到意识深处，筑起壁垒，拼命寻找选择这种人生的合理缘由——此刻已再明显不过：你选择的生涯也选择了你的死亡。 | %companyname%已无人生还，你的尸身混在弟兄中间，再无需区分阶位。这是宿命吗？你们的死会催生新的力量吗？抑或世界依旧如常运转？ | 你曾施加于他人的残酷终结，如今完整回报给%companyname%。鲜少有人会提及你们，就连宣告尸体归属的乌鸦啼鸣都比这频繁。在这雇佣兵永不失业的世道，总会有新的战团前赴后继…… | %companyname%已被彻底歼灭，连最后一位弟兄也未能幸免。拾荒者正在尸堆中翻捡，为每件战利品发出惊喜的呼喊。你让他们收获颇丰——可惜这是以你的终局为代价。}",
     "stage": 5,
     "context": "data.Text = \"{And so it ends.\n\nCrows circle above as the men of the company lie dead or dying, finally having found their match.\n\nThe %companyname% will soon be forgotten, but with no shortage of work for hired swords in this world, there is always the next mercenary band to take their place... | Crows cycle above the corpses of the %companyname%, waiting for looters to clear out so they can finally land and feast. It may have fought hard, but the company will be soon forgotten, washed out in a sea of similar violent venture companies to come. | The company has been slain to the last man. Only crows and worms will be in its future. But with no shortage of work for hired swords in this world, there is always the next mercenary band to take their place... | The %companyname% has been slain to its final man. You and the men gave a spirited effort, but that doesn't matter much when you're dead. Perhaps a spirited retreat would have been more suitable? | How lucky you've made the worms who now feast upon your failures as mercenary captain of the %companyname%. The men who died here will soon be forgotten, but with no shortage of work for hired swords in this world, there is always the next mercenary band to take their place... | You stare up at a sky of crows, the light in your world slowly dimming away, your dying body an offering so good that creatures gifted the miracle of flight will set it aside to come down and feast on your corpse. | You were supposed to lead the %companyname% to gold and glory. And perhaps some was found, but of what use is it now that you lie dead? | The %companyname% trusted you to bring them glory, riches, and women. Now they're all dead on the ground, yourself in their company. They'll soon be forgotten by everyone, but with no shortage of work for hired swords in this world, there is always the next mercenary band to take their place... | Crows begin to crowd the skies, blackening it with their shapes, filling it with their sickening squawks. Men come to loot the bodies of you and your men, and so your weapons and gear will continue on, doing biddings beyond your beckoning, beyond your call. | It's difficult to say where you had gone wrong. Was it in the last moments, choosing to stand your ground when you should have run? Was it when you took up the sword for the very first time, feeling it swing comfortably in your grip? Of what use was any of it?\n\nThe %companyname% lies dead, but with no shortage of work for hired swords in this world, there is always the next mercenary band to take their place... | A crow lands on your foot, perched there, seeing you through to death with a sexton's stare. The rest of the company is laid out across the earth, looters already picking through them for goods to take. | You fought a good fight, at least that's what you tell yourself as the light of the world slowly slips away.\n\nThe company's name will soon fade from history, but with no shortage of work for hired swords in this world, there is always the next mercenary band to take their place... | You thought death would be like sleeping, but you never remember falling asleep. It just happens. This isn't just happening. All you feel is pain. You wish hard for it to stop, and then it does. | The %companyname% has met its match. It isn't the first time but, in the past, you respected the facts of the situation. Now you did not and all the men beneath your command have paid for the mistake with their lives. | The %companyname% is dead to the last man. A scribe will hear of its passing and make a note in a gloomy candlelit room. And that note will be lost in a flood and all the ink of the %companyname% will disappear with it. | The blood of the %companyname%'s men will be transferred into a scribe's ink, and all its struggles and sufferings relegated to a footnote to be lost in the dark depths of an archive. | Was this the only way? Surely you could have done something differently. You spend your final moments desperately trying to relive a past in which you are not where you are, seeking a solemn remedy to the cruel finality you are about to experience. | Bodies of the %companyname% litter the field, soon to be fed to the worms and crows, all the armor for naught. The men who died here will soon be forgotten, but with no shortage of work for hired swords in this world, there is always the next mercenary band to take their place... |  What a gift you are, having spent all this time and gold collecting arms and armor for your men, just to give it all away to a bunch of looters. Your bodily donations to the crows and worms will also be well received. Congratulations. | The history of the %companyname% will be forgotten a few years from now. In that moment, a barkeep will be asked about mercenaries and he'll pause, thinking it over, and then your face will fade from his memory and your name will pass with it. He will shrug and pour another drink. | As the light leaves your world, you hope that perhaps the name of the %companyname% will live on and that people will remember what they did. They won't. | As the pain seizes your body, you simply let the corporeal world go, retreating into your own mind, barricading yourself there, desperately seeking any good reason for why you chose this life, because it seems readily obvious now that the life you chose also chose your death. | The %companyname% is dead to the last man, your corpse amongst the bodies, no rank or order to be followed now. Was it fated? In your death, will others rise? Or will the world be as it always has been? | The cruel finality you have doled out upon others has returned in totality, claiming the lives of the entirety of the %companyname%. Few will speak of you, and certainly no more than the crows who squawk out claims to your corpses. With no shortage of work for hired swords in this world, there is always the next mercenary band to take their place... | The %companyname% has been annihilated to the last brother. Looters now pick through the bodies, calling out what they find with excited surprise. You've made their day, a shame it had to happen in your last.}\""
+  },
+  {
+    "key": "61123c4d8b19cc64abdbe9cfed9ab848c082ac01b9948e5501f75780749b8cec",
+    "original": "Anniversary",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "92f69e9b2a552bec8ce4af4d38b09a3c68c60aec5923dd8b5017f133a9505b35",
+    "original": "Campaigner",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "04b1f581511fa9e78bc4526bcd4076ecfb8b175265e0730adfbc5f176260fd91",
+    "original": "Moneymaker",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "51b40c9947e4735a4b2e949c262bddab5549473f92b7cbebfce78c1f8acd76b6",
+    "original": "Survivor",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
+    "original": "body",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "b4c32c7b7041d27e2812f09a15b489c79779e2b5f9db9a4c01a7d979c4aeaf2e",
+    "original": "companyname",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "82a3537ff0dbce7eec35d69edc3a189ee6f17d82f353a553f9aa96cb0be3ce89",
+    "original": "name",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "cdb59355f3ba293977fc0945fb85f11822d412c45c7520c7121bd2234f6c1f48",
+    "original": "player",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "649beb009dc6f3cca13cf237e1ad43dc96e82d619fbf4109750d9e4b147c11e4",
+    "original": "randombrother",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "49d17e4af7a2b25c6c3c3bb72383f5423e6b31d85c6e177445adeb2a542ce48d",
+    "original": "randombrother2",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "6332b7dfc70717743cbc07e742939bdc8de6025a8173ab8c99d252264b4256ca",
+    "original": "randomname",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "1975900b8922502d3ca4f62b82ec7c748b955671c9495e0b5e7aee9f787f9f6f",
+    "original": "randomnoble",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "3e9bd53e4dc555c2534fc3b64d3e880305cdc2dfa8d13e147b526990c7896087",
+    "original": "randomnoblehouse",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "7c415f7f34a6d92e3a349d55ae62510318406ee629ea6054781d20c320e914a1",
+    "original": "randomtown",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "548e56fceb6ba189d7cd154c1a0af13de44f8cbfdb454a98ee9ebf3c10d30479",
+    "original": "successor",
+    "translation": "",
+    "context": ""
   }
 ]

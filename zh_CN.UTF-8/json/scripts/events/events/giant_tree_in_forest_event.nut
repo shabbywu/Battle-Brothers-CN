@@ -30,5 +30,17 @@
     "translation": "真不错。",
     "stage": 1,
     "context": "Text = \"Fascinating.\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "9b550d15e298bd082ff0378694e05688e79f6a710a600ec00b834e8b15d6f6e4",
+    "original": "monk",
+    "translation": "",
+    "context": ""
   }
 ]

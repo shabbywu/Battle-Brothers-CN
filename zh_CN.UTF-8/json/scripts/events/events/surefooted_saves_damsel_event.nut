@@ -38,5 +38,29 @@
     "translation": "有点派对的味道",
     "stage": 1,
     "context": "_event.m.Surefooted.improveMood(2.0, 'Had a bit of a partie carree')"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "879f8aa59a3ab3e16914ac95d507b76416aa30d521c0265b151a936714b0466e",
+    "original": "surefooted",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "50ac81f970325a3e011f2437818adde426e1278dee5670dd359edfca43a72d79",
+    "original": "town",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "cce8cfe2ad73528fe61142ab4f5cda39410f936f701b34c2a94f736ac0a8797d",
+    "original": "townname",
+    "translation": "",
+    "context": ""
   }
 ]

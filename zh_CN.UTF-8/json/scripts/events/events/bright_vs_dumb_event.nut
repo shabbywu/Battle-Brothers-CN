@@ -46,5 +46,23 @@
     "translation": "教导了",
     "stage": 1,
     "context": "_event.m.Bright.improveMood(1.0, 'Taught ' + _event.m.Dumb.getName() + ' something')"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "a87b3e348ccb598ecb71bb83300a2bf8d91b780d0717aec6c91fb46ce6fbe3d8",
+    "original": "bright",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "ac996ae492f9a987c84f109f2118d3f6632e2259455d30c455a9ecd66c3c4959",
+    "original": "dumb",
+    "translation": "",
+    "context": ""
   }
 ]

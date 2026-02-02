@@ -118,5 +118,17 @@
     "translation": "，但该物品已被放在其他地方",
     "stage": 5,
     "context": "this.logWarning('Attempted to equip item ' + _item.getName() + ', but it is already placed somewhere else')"
+  },
+  {
+    "key": "4b68ab3847feda7d6c62c1fbcbeebfa35eab7351ed5e78f4ddadea5df64b8015",
+    "original": "X",
+    "translation": "",
+    "context": "out + \"X\""
+  },
+  {
+    "key": "cdb59355f3ba293977fc0945fb85f11822d412c45c7520c7121bd2234f6c1f48",
+    "original": "player",
+    "translation": "",
+    "context": ""
   }
 ]

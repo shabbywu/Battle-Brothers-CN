@@ -78,5 +78,29 @@
     "translation": "受到了轻微伤",
     "stage": 1,
     "context": "text = _event.m.ClumsyGuy.getName() + ' suffers light wounds'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "9eaed559f6b333eaca299163c51e04517010da172cbe2ed884e7ea9b43b9a596",
+    "original": "clumsyguy",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "38bf5f444e07f3408b00a33e5142f502c6d31be247b021a4e24a0c13f14e46e2",
+    "original": "otherguy1",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "b34228e9550269c1376b80161ef91e599285450fdf76e20fd3acb7a3f397bed5",
+    "original": "otherguy2",
+    "translation": "",
+    "context": ""
   }
 ]

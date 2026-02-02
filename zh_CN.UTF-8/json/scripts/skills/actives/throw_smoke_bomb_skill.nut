@@ -70,5 +70,23 @@
     "translation": "用烟雾覆盖一片 [color=",
     "stage": 5,
     "context": "text = 'Covers [color=' + this.Const.UI.Color.DamageValue + ']7[/color] tiles in smoke for one round, allowing anyone inside to move freely and ignore zones of control'"
+  },
+  {
+    "key": "04d588cb41b8022d1233924f0fe8280d9e2bb92cdc81658eb102ef9c42fc9452",
+    "original": "smoke",
+    "translation": "",
+    "context": "tile.Properties.Effect != null && tile.Properties.Effect.Type == \"smoke\""
+  },
+  {
+    "key": "04d588cb41b8022d1233924f0fe8280d9e2bb92cdc81658eb102ef9c42fc9452",
+    "original": "smoke",
+    "translation": "",
+    "context": "Type = \"smoke\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

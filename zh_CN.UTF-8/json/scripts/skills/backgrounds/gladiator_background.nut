@@ -38,5 +38,23 @@
     "translation": "你以为角斗士%name%会像你想象的那样重返竞技场，然而，来自南方的消息说，负债者和角斗士们一同发动了起义。与以往的起义不同，这次维齐尔被吊上屋顶、奴隶贩子则不经审判当街处决。这场大规模动荡让这位曾经的斗士成了当地权力的合法代理人。",
     "stage": 1,
     "context": "this.m.GoodEnding = 'You thought that %name% the gladiator would return to the arenas as you thought he might. However, news from the south speaks of an uprising of indebted and gladiators alike. Unlike previous revolts, this one has viziers swinging from rooftops and slavers being lynched in the streets. The general upheaval is apparently about to sit the once-ringfighter as a legitimate powerbroker in the region.'"
+  },
+  {
+    "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
+    "original": "body",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

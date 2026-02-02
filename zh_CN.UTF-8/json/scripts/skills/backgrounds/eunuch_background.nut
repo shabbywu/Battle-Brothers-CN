@@ -54,5 +54,17 @@
     "translation": "据说，在你离开战团不久后，阉人%name%也离开了，他流浪四方，一贫如洗，将仅剩的钱花在酒和妓女身上。妓女笑他没有老二，被激怒的阉人借着酒劲，用一只山羊角刺穿了她的眼。治安官找到他时，他还没醒酒。最终，在惊骇和困惑当中，他被当地人扒光、绞死、肢解喂猪。",
     "stage": 1,
     "context": "this.m.BadEnding = \"It's said that %name% the eunuch departed from the company shortly after you did. He traveled the lands, broke and broken, wasting his scant crowns on ale and wenches. Insulted by a whore for his cockless nature, the drunken and enraged eunuch stabbed the woman in the eye with a goat horn. Still inebriated when the constable found him, the confused and bewildered eunuch was stripped, hanged, and mutilated by the townspeople before having his body fed to pigs.\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

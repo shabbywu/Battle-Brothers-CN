@@ -30,5 +30,17 @@
     "translation": "你不妨加入我们。",
     "stage": 1,
     "context": "Text = 'You might as well join us.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "9f0638fd60feedbc1a5dced8234040d707c084bd75ddd2efb9154dbc220894bb",
+    "original": "crusader",
+    "translation": "",
+    "context": ""
   }
 ]

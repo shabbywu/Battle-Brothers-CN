@@ -46,5 +46,11 @@
     "translation": "[/color] - [color=",
     "stage": 5,
     "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']' + damage_armor_min + '[/color] - [color=' + this.Const.UI.Color.DamageValue + ']' + damage_armor_max + '[/color] damage to armor'"
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

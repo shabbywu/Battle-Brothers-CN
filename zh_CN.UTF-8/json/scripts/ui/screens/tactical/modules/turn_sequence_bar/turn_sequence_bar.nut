@@ -70,5 +70,29 @@
     "translation": "]角色疲劳值过高！[/color]",
     "stage": 5,
     "context": "this.Tactical.EventLog.log('[color=' + this.Const.UI.Color.NegativeValue + ']Too much fatigue![/color]')"
+  },
+  {
+    "key": "c83bec1f02849a09edc642f2d4226774435f1233abc8b85f7d559ba9d022f570",
+    "original": "Fatigue",
+    "translation": "",
+    "context": "\"Fatigue\""
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]Not enough Action Points![/color]\""
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]Too much fatigue![/color]\""
+  },
+  {
+    "key": "913a4cb91be20332f3559f8070255d7ac3e6228bb423f4441551d3f783e7d4f4",
+    "original": "clear",
+    "translation": "",
+    "context": ""
   }
 ]

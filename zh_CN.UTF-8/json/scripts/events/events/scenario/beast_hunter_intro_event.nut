@@ -22,5 +22,29 @@
     "translation": "野兽杀手",
     "stage": 5,
     "context": "this.m.Title = 'The Beast Slayers'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "2ca45bec8f2a1ec47c4f3953b47874fda5e557ae75ff1305c075f11e751d37b7",
+    "original": "bs1",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "5db2a1a3b03f3b6b5f49ec38f82de7febb2b5205f1278582695c892cf4657ceb",
+    "original": "bs2",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "367d62ab1f7e36d54ae353002242c130fc1f900d0ce919ce9b29cec3d11745c0",
+    "original": "bs3",
+    "translation": "",
+    "context": ""
   }
 ]

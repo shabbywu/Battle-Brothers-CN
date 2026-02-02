@@ -38,5 +38,47 @@
     "translation": "%companyname% 需要他们的指挥官！",
     "stage": 1,
     "context": "Text = 'The %companyname% needs their commander!'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    local north = 0;\n    local south = 0;\n    local sites = [\"location.holy_site.oracle\",\"location.holy_site.meteorite\",\"location.holy_site.vulcano\"];\n    local locations = this.World.EntityManager.getLocations();\n    foreach( v in locations){\n        foreach( i, s in sites){\n            if (v.getTypeID() == s && v.getFaction() != 0) {\n                if (this.World.FactionManager.getFaction(v.getFaction()).getType() == this.Const.FactionType.NobleHouse) {\n                    ++north\n                } else {\n                    ++south\n                }\n            }\n        }\n    };\n    south = north >= south;\n    if (south) {\n        return \"A\";\n    } else {\n        return \"B\";\n    };\n    return;\n}"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    local north = 0;\n    local south = 0;\n    local sites = [\"location.holy_site.oracle\",\"location.holy_site.meteorite\",\"location.holy_site.vulcano\"];\n    local locations = this.World.EntityManager.getLocations();\n    foreach( v in locations){\n        foreach( i, s in sites){\n            if (v.getTypeID() == s && v.getFaction() != 0) {\n                if (this.World.FactionManager.getFaction(v.getFaction()).getType() == this.Const.FactionType.NobleHouse) {\n                    ++north\n                } else {\n                    ++south\n                }\n            }\n        }\n    };\n    south = north >= south;\n    if (south) {\n        return \"A\";\n    } else {\n        return \"B\";\n    };\n    return;\n}"
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "ID = \"B\""
+  },
+  {
+    "key": "2413a68c9d78c66bd56d47330582fe8a1d4651f737aff6203662e75c333e966f",
+    "original": "Savior",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -14,5 +14,17 @@
     "translation": "取消合同",
     "stage": 5,
     "context": "this.World.State.showDialogPopup('Cancel Contract', 'Cancelling an active contract will adversely affect your reputation as a reliable sword for hire, as well as the relation to your current employer - especially if you received any payment in advance.\n\nAre you sure you want to cancel?', this.onContractCancelled.bindenv(this), null)"
+  },
+  {
+    "key": "1f5bb9791a310e136d1564ee23d2a3cc32ea7ce6fa26cb8734ec18b4607ad79e",
+    "original": "hide",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "1c6333509debf060200eb6bbe28db307508da67c0e3c58088393e4cf09de596d",
+    "original": "show",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -238,5 +238,11 @@
     "translation": "背包已满？在战团界面购买板车和货车。",
     "stage": 1,
     "context": "'Inventory full? Buy carts and wagons for your company in the Retinue screen.'"
+  },
+  {
+    "key": "0c8ffc17468868d41c8d6806089deaafa12da5caa0d0b9c31f0ec438fe12ac7c",
+    "original": "Desert",
+    "translation": "",
+    "context": "!\"Desert\" || !this.Const.DLC.Desert"
   }
 ]

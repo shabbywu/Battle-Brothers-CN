@@ -14,5 +14,11 @@
     "translation": "一小撮被渔网、鱼叉、钓钩等捕鱼装备包围的小屋。一筐筐鱼内脏的腥味传得很远。",
     "stage": 1,
     "context": "this.m.Description = 'A small group of huts surrounded by nets, spears, hooks and other fishing equipment. The smell from baskets of fish guts travels quite a distance.'"
+  },
+  {
+    "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
+    "original": "body",
+    "translation": "",
+    "context": ""
   }
 ]

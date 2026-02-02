@@ -30,5 +30,11 @@
     "translation": "[p=c][img]gfx/ui/events/event_35.png[/img][/p][p]你已经独自旅行很长时间了，参加比武赛并与年轻贵族切磋。作为高大如树的流浪骑士，你从来不需要别人陪伴很久。这还是真的吗？\n\n[color=#bcad8c]独狼：[/color]从一名经验丰富的流浪骑士开始，装备精良，但资金不足。\n[color=#bcad8c]少数精英：[/color]你的花名册上不能超过12个人。\n[color=#bcad8c]化身：[/color]如果你的流浪骑士死了，战役就结束了。[/p]",
     "stage": 1,
     "context": "this.m.Description = \"[p=c][img]gfx/ui/events/event_35.png[/img][/p][p]You've been traveling alone for a long time, taking part in tourneys and sparring with young nobles. A hedge knight tall as a tree, you never needed anybody for long. Is it true still?\n\n[color=#bcad8c]Lone Wolf:[/color] Start with a single experienced hedge knight and great equipment, but low funds.\n[color=#bcad8c]Elite Few:[/color] Can never have more than 12 men in your roster.\n[color=#bcad8c]Avatar:[/color] If your hedge knight dies, the campaign ends.[/p]\""
+  },
+  {
+    "key": "95e431e101cd6da55174ddfca09bfce83baa2ad0ccd31ecbc5983ab36fcbbd3c",
+    "original": "miniboss",
+    "translation": "",
+    "context": ""
   }
 ]

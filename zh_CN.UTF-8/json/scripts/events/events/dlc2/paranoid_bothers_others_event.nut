@@ -30,5 +30,17 @@
     "translation": "猜疑他的战友们",
     "stage": 1,
     "context": "_event.m.Paranoid.worsenMood(0.5, 'Is paranoid about his comrades')"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "7bc0ee8330e4bb4c7bc0fdfb995c7e1bc2ea1cc5a741eaa988a0b3018f78f8be",
+    "original": "paranoid",
+    "translation": "",
+    "context": ""
   }
 ]

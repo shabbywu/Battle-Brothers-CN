@@ -70,5 +70,11 @@
     "translation": "]100%[/color] 几率造成茫然",
     "stage": 1,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']100%[/color] chance to daze on a hit'"
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

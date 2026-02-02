@@ -38,5 +38,23 @@
     "translation": "你的一个手下在女士们中享有盛名",
     "stage": 1,
     "context": "_event.m.Town.getOwner().addPlayerRelation(this.Const.World.Assets.RelationCivilianContractSuccess, 'One of your men got a reputation with the ladies')"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "d3655ec2b7da0acc622387e7288ea42daf0a17ae0bb0163eb22d518222902e8d",
+    "original": "eunuch",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "50ac81f970325a3e011f2437818adde426e1278dee5670dd359edfca43a72d79",
+    "original": "town",
+    "translation": "",
+    "context": ""
   }
 ]

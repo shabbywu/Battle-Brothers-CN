@@ -30,5 +30,17 @@
     "translation": "%name%加入了战团，接替了他原本要杀死的贵族私生子。这样的协议有些荒诞，以至于你关注了这名刺客很久。但他就是单纯地为%companyname%而战，还表现得非常出色。最近你听说，刺客在你草草退休后很快就离开了战团。你决定亲自看看作为他目标的贵族私生子，却只得知，他死于一名来去无踪的刺客之手。看来%name%最终还是完成了任务。",
     "stage": 1,
     "context": "this.m.BadEnding = \"%name% joined the company in place of the bastard nobleman he had come to kill. So strange was this agreement that you kept your eye on the assassin for many days. But all he did was fight for the %companyname%, and fight well. Last you heard, the assassin departed the company not long after your hurried retirement. You decided to check in on his target the bastard nobleman only to find out that he had been slain by an unseen assassin. It appears %name% finished the job in the end.\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

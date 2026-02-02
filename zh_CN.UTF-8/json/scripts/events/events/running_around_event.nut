@@ -38,5 +38,17 @@
     "translation": "这一切都是值得的。",
     "stage": 1,
     "context": "Text = \"It's all worth it.\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "60e77101e76950a9b1830fa107fd2f8fc545255b3e0f14b6a7797cf9ee005f07",
+    "original": "dude",
+    "translation": "",
+    "context": ""
   }
 ]

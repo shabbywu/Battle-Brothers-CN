@@ -38,5 +38,23 @@
     "translation": "长柄武器，双手持",
     "stage": 5,
     "context": "this.m.Categories = 'Polearm, Two-Handed'"
+  },
+  {
+    "key": "89b91df19d9d75d4cf36d9033d0789e7ecae0c233160c3be0d56e81027ab965a",
+    "original": "background",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "a6b1880837d5e928dfd222acd61aaee3c9f9d2047776eb2609bb4b059d23ed57",
+    "original": "shaft",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

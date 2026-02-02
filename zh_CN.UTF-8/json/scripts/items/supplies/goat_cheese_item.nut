@@ -14,5 +14,11 @@
     "translation": "食物。山羊奶酪是一种味道浓郁，常见于北方寒冷地区的热门食物。",
     "stage": 1,
     "context": "this.m.Description = 'Provisions. Goat cheese is a tasty and rich food that is common and popular especially in the colder regions of the north.'"
+  },
+  {
+    "key": "a3b50c476732c7409d297c3d7d0e23569fee5e08318553ae76041ab5fe60582e",
+    "original": "State",
+    "translation": "",
+    "context": "\"State\" && this.World.State != null && this.World.State.getCurrentTown() != null"
   }
 ]

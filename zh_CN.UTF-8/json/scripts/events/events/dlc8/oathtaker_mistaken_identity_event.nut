@@ -38,5 +38,23 @@
     "translation": "被误认为是一名誓约者(Oathbringer)。",
     "stage": 1,
     "context": "_event.m.Oathtaker.worsenMood(2.0, 'Was mistaken for an Oathbringer')"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "2ae6fe7b558341a07c31696d13a0c2bc6c8689883681df07dfd620c4a4f35b54",
+    "original": "oathtaker",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "cce8cfe2ad73528fe61142ab4f5cda39410f936f701b34c2a94f736ac0a8797d",
+    "original": "townname",
+    "translation": "",
+    "context": ""
   }
 ]

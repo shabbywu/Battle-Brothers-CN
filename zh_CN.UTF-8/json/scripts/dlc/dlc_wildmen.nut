@@ -134,5 +134,11 @@
     "translation": "鼓手有节奏的部落节拍每回合都能为所有野蛮人降低少量疲劳值。",
     "stage": 1,
     "context": "'The rhythmic tribal beats of drummers reduce the fatigue of all barbarians on the field by a small amount each round.'"
+  },
+  {
+    "key": "683cf42adc44896f012cbc1d677e4a58487212e4076213a1c8570c801aafcf4f",
+    "original": "Wildmen",
+    "translation": "",
+    "context": "!\"Wildmen\" || !this.Const.DLC.Wildmen"
   }
 ]

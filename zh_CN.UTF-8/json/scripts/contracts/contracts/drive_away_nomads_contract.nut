@@ -230,5 +230,143 @@
     "translation": "把游牧民逐出",
     "stage": 5,
     "context": "'Drive off nomads at ' + this.Flags.get('DestinationName') + ' %direction% of %origin%'"
+  },
+  {
+    "key": "d66eb84fbe7a0849e763c398a2a6db2137176eb86814dd9d6a4f13c75a7cf20c",
+    "original": "Assassins",
+    "translation": "",
+    "context": "ID = \"Assassins\""
+  },
+  {
+    "key": "d66eb84fbe7a0849e763c398a2a6db2137176eb86814dd9d6a4f13c75a7cf20c",
+    "original": "Assassins",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "896ae426e8b6c0e1bbc864fb4610418343364f8825cdf623f30b183af653a3ff",
+    "original": "Necromancer",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "896ae426e8b6c0e1bbc864fb4610418343364f8825cdf623f30b183af653a3ff",
+    "original": "Necromancer",
+    "translation": "",
+    "context": "ID = \"Necromancer\""
+  },
+  {
+    "key": "3e18e2dab6f2bdb77a8888916f368ab87ad7a23534560f8159744aff0e245aff",
+    "original": "Negotiation",
+    "translation": "",
+    "context": "getResult = function getResult(){\n    return \"Negotiation\";;\n    return;\n}"
+  },
+  {
+    "key": "3e18e2dab6f2bdb77a8888916f368ab87ad7a23534560f8159744aff0e245aff",
+    "original": "Negotiation",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "3e18e2dab6f2bdb77a8888916f368ab87ad7a23534560f8159744aff0e245aff",
+    "original": "Negotiation",
+    "translation": "",
+    "context": "createScreens = function createScreens(){\n    this.importScreens(this.Const.Contracts.NegotiationDefault);\n    this.importScreens(this.Const.Contracts.Overview);\n    function getResult(){\n        return \"Negotiation\";;\n        return;\n    };\n    function getResult(){\n        this.World.Contracts.removeContract(this.Contract);\n        return 0;;\n        return;\n    };\n    function start(){\n        return;\n    };\n    this.m.Screens.push({\n        ID = \"Task\"\n        Title = \"Negotiations\"\n        Text = \"[img]gfx/ui/events/event_163.png[/img]{There are no horns, no confetti, no cheers, but there's still yet a certain level of pomp when you enter %employer%'s room. It is so decorated with golds and silvers, intricate jewelries made by genuine craftsmen, and a harem of nothing but the most attractive women, that one can't help but be spurred to do whatever is asked if only to have a chance to partake in the seemingly day-to-day festivities. %employer% sits upon a pile of cushions.%SPEECH_ON%Ah, Crownling. I've been expecting you. Please, come no closer, you will scare my attractions. I have a simple task for you. Nomads have been plundering my caravans, hereat, I am with fewer coins in my coffers. I'm sure you understand what it is like to be deprived of in any manner, yes? Ah, you seem so dumb. So blank. So, well, involved with what you do. I need those nomads killed, and I'm willing to pay %reward% crowns to have it done. Does this language please whatever resides between those ears?%SPEECH_OFF% | %employer% is partly sitting on a throne of silken cushions, and partly on the bodies of a harem of attractive women. He puts his hand up.%SPEECH_ON%If you step further, Crownling, then you will grow in sight but diminish in view, understand? A smart man knows his place. I have a simple task for your swordhand. Nomads outside %townname% have taken to thievery and thuggery. For a handsome handsel, I need you to annihilate these men who have made my life uncomfortable.%SPEECH_OFF% | You find %employer% feeding a bird in a cage. The bird is a collage of colors some of which you're not sure you have even seen before. Suspecting your presence, or perhaps smelling it, %employer% turns with a hint of disgust.%SPEECH_ON%You are scaring my bird, Crownling, so I will make this brief for her sake. There are nomads roaming the peripheral of my lands and I need them destroyed. I'm sure a man of your, eh, station, would be willing to undertake such a simple, easy task?%SPEECH_OFF% | You enter %employer%'s room. He's feeding on fruits and his lower half is submerged in a sea of flesh, a harem of caretakers who are noisily at work. Standing idly for far too long, you open your mouth but the man throws a hand up. He points at one of his servants and snaps his fingers. The servant skirts across the marble floor on sandals with silken soles. He presents to you a piece of paper. It reads:%SPEECH_ON%To Crownlings who are interested, nomads have taken to disturbing the peace around %townname%. They are to be dealt with posthaste for a reward of %reward% crowns. Uninterested parties are to leave immediately.%SPEECH_OFF%The servant looks at you for an answer. | %employer% sighs as you enter his room.%SPEECH_ON%Ah, a Crownling, I'd almost forgotten I had requested your sort to come ruin my day.%SPEECH_OFF%You stare at the Vizier as he is far too belabored to extricate himself from a sea of cushions and the harem of women who are there to fluff each and every one.%SPEECH_ON%Well, I suppose I shall sully an hour if only to get this matter settled. Nomads are ravaging my caravans, as they are wont to do, and hereat my markets are deprived of certain goods which I wish to have. I offer %reward% crowns to find and destroy these sand ridden mites.%SPEECH_OFF%}\"\n        Image = \"\"\n        List = []\n        ShowEmployer = True\n        ShowDifficulty = True\n        Options = [{\n            Text = \"{Let's talk some more about payment. | I can make this problem disappear.}\"\n            getResult = function getResult(){\n                return \"Negotiation\";;\n                return;\n            }\n        },{\n            Text = \"{Not interested. | We have more important matters to settle. | I wish you luck, but we'll not be part of this.}\"\n            getResult = function getResult(){\n                this.World.Contracts.removeContract(this.Contract);\n                return 0;;\n                return;\n            }\n        }]\n        start = function start(){\n            return;\n        }\n    });\n    function getResult(){\n        this.Contract.getActiveState().onDestinationAttacked(this.Contract.m.Destination);\n        return 0;;\n        return;\n    };\n    function getResult(){\n        return \"Treasure1A\";;\n        return;\n    };\n    this.m.Screens.push({\n        ID = \"Treasure1\"\n        Title = \"Before the attack...\"\n        Text = \"[img]gfx/ui/events/event_54.png[/img]{The nomads are surprisingly stationary and suprisingly many, but it appears there's a reason for that: you find the sand dwellers huddled around a hole in the ground. They've constructed pullies around it and are working feverishly to drag up whatever it is they've found in the desert. Based upon the grin of the man overseeing the operation, it is no doubt a trove of treasure.\\n\\nYou could attack now, and face more opposition, or you could wait until they're done and have left with whatever they're digging up.}\"\n        Image = \"\"\n        List = []\n        Options = [{\n            Text = \"We attack now!\"\n            getResult = function getResult(){\n                this.Contract.getActiveState().onDestinationAttacked(this.Contract.m.Destination);\n                return 0;;\n                return;\n            }\n        },{\n            Text = \"We'll wait until they're done and the camp is less well defended.\"\n            getResult = function getResult(){\n                return \"Treasure1A\";;\n                return;\n            }\n        }]\n    });\n    function getResult(){\n        this.Flags.set(\"IsTreasure\", False);\n        this.Contract.m.Destination.clearTroops();\n        this.Contract.addUnitsToEntity(this.Contract.m.Destination, this.Const.World.Spawn.NomadDefenders, 110 * this.Contract.getDifficultyMult() * this.Contract.getScaledDifficultyMult());\n        this.Contract.getActiveState().onDestinationAttacked(this.Contract.m.Destination);\n        return 0;;\n        return;\n    };\n    this.m.Screens.push({\n        ID = \"Treasure1A\"\n        Title = \"Before the attack...\"\n        Text = \"[img]gfx/ui/events/event_54.png[/img]{You wait for the nomads to pull the treasure out. As expected, it is a chest. When they break it open there is a hint of satisfaction on their faces. And, as also expected, the nomads split off, with a contingent of their strongest men moving off with the treasure, presumably to sell it somewhere. The nomads' camp is weaker now and far more vulnerable to attack...}\"\n        Image = \"\"\n        List = []\n        Options = [{\n            Text = \"Prepare the attack!\"\n            getResult = function getResult(){\n                this.Flags.set(\"IsTreasure\", False);\n                this.Contract.m.Destination.clearTroops();\n                this.Contract.addUnitsToEntity(this.Contract.m.Destination, this.Const.World.Spawn.NomadDefenders, 110 * this.Contract.getDifficultyMult() * this.Contract.getScaledDifficultyMult());\n                this.Contract.getActiveState().onDestinationAttacked(this.Contract.m.Destination);\n                return 0;;\n                return;\n            }\n        }]\n    });\n    function getResult(){\n        return 0;;\n        return;\n    };\n    function start(){\n        local e = 2;\n        local i = 0;\n        e = i < e;\n        while ( e ) {\n            local item = null;\n            local r = this.Math.rand(1, 4);\n            if (r == 1) {\n                item = this.new(\"scripts/items/loot/ancient_gold_coins_item\");\n                continue;\n                continue;\n                if (r == 2) {\n                    item = this.new(\"scripts/items/loot/silverware_item\");\n                    continue;\n                    continue;\n                    if (r == 3) {\n                        item = this.new(\"scripts/items/loot/jade_broche_item\");\n                        continue;\n                        continue;\n                        if (r == 4) {\n                            item = this.new(\"scripts/items/loot/white_pearls_item\");\n                            continue\n                        }\n                    }\n                }\n            };\n            this.World.Assets.getStash().add(item);\n            this.List.push({\n                id = 10\n                icon = \"ui/items/\" + item.getIcon()\n                text = \"You gain \" + item.getName()\n            });\n            ++i\n        };\n        return;\n    };\n    this.m.Screens.push({\n        ID = \"Treasure2\"\n        Title = \"After the battle...\"\n        Text = \"[img]gfx/ui/events/event_168.png[/img]{The nomads slain, you, naturally, go see what the hell they were digging out of the earth. You stand over the pulley they rigged up and stare into the hole. A chest can be seen with ropes already bound around it. You thank the dead nomads for all the work they've done, then turn to easily pull the chest up and out of the ground. You open it to find...}\"\n        Image = \"\"\n        List = []\n        Options = [{\n            Text = \"Treasure!\"\n            getResult = function getResult(){\n                return 0;;\n                return;\n            }\n        }]\n        start = function start(){\n            local e = 2;\n            local i = 0;\n            e = i < e;\n            while ( e ) {\n                local item = null;\n                local r = this.Math.rand(1, 4);\n                if (r == 1) {\n                    item = this.new(\"scripts/items/loot/ancient_gold_coins_item\");\n                    continue;\n                    continue;\n                    if (r == 2) {\n                        item = this.new(\"scripts/items/loot/silverware_item\");\n                        continue;\n                        continue;\n                        if (r == 3) {\n                            item = this.new(\"scripts/items/loot/jade_broche_item\");\n                            continue;\n                            continue;\n                            if (r == 4) {\n                                item = this.new(\"scripts/items/loot/white_pearls_item\");\n                                continue\n                            }\n                        }\n                    }\n                };\n                this.World.Assets.getStash().add(item);\n                this.List.push({\n                    id = 10\n                    icon = \"ui/items/\" + item.getIcon()\n                    text = \"You gain \" + item.getName()\n                });\n                ++i\n            };\n            return;\n        }\n    });\n    function getResult(){\n        this.Contract.getActiveState().onDestinationAttacked(this.Contract.m.Destination);\n        return 0;;\n        return;\n    };\n    this.m.Screens.push({\n        ID = \"SandGolems\"\n        Title = \"Before the attack...\"\n        Text = \"[img]gfx/ui/events/event_160.png[/img]{As you prepare to attack, a man suddenly rises up out of the sands. Startled, he jerks away and screams, rolling down the sand dune toward the nomads' camp. You chase after him with a weapon out ready to kill. In your bouncing peripheral you can see the nomads clambering over one another and toppling tents to get to their weapons. When you look back at the spotter, he suddenly disappears in sandy clasp, and the arm attached to the dunes extends out of the earth and rises before you, dust and sand and earth falling off its shapes.\\n\\nYou're hardly able to understand what you're seeing, but the nomads all seem to be screaming the same thing: 'Ifrit! Ifrit! Ifrit!' And this faceless, seemingly endless, 'Ifrit' has no allegiances in the combat to come. | You charge down the dunes at the nomads. Startled, they bark out orders and run for their weapons. As you near the camp, a wave of sand blasts the corner of the camp and a few of the nomads go flying. One second later and a boulder comes sailing out of the dust cloud and pulverizes a nomad entirely. A huge, earthen creature bellows and stomps forward. 'Ifrit! Ifrit!' the nomads scream, and you surmise that this 'Ifrit' will be on no man's side.}\"\n        Image = \"\"\n        List = []\n        Options = [{\n            Text = \"To arms!\"\n            getResult = function getResult(){\n                this.Contract.getActiveState().onDestinationAttacked(this.Contract.m.Destination);\n                return 0;;\n                return;\n            }\n        }]\n    });\n    function getResult(){\n        this.Contract.getActiveState().onDestinationAttacked(this.Contract.m.Destination);\n        return 0;;\n        return;\n    };\n    this.m.Screens.push({\n        ID = \"Assassins\"\n        Title = \"Before the attack...\"\n        Text = \"[img]gfx/ui/events/event_165.png[/img]{You charge the camp just in time to see a man in black clothes step out of one of the tents. He is shaking hands with the nomads' leader which is probably not the best sign. Both men pausing mid-handshake and staring at your attack is presumably just as sour a result. The nomad leader calls out, demanding his assassins earn their keep. The blackened killer nods and draws out a blade, and a troop of fellow assassins stream out of the tent in turn to join the nomads in the battle!}\"\n        Image = \"\"\n        List = []\n        Options = [{\n            Text = \"Charge!\"\n            getResult = function getResult(){\n                this.Contract.getActiveState().onDestinationAttacked(this.Contract.m.Destination);\n                return 0;;\n                return;\n            }\n        }]\n    });\n    function getResult(){\n        this.Contract.getActiveState().onDestinationAttacked(this.Contract.m.Destination, False);\n        return 0;;\n        return;\n    };\n    this.m.Screens.push({\n        ID = \"Necromancer\"\n        Title = \"Before the attack...\"\n        Text = \"[img]gfx/ui/events/event_161.png[/img]{Shredded tents. Baskets unwoven. Clothes rolling across the sands. And in the middle of it all sits a man in a black cloak, his ghastly face peering from its hooded shade.%SPEECH_ON%You are both late and right on time.%SPEECH_OFF%He says and gets to his feet. The tarps rustle, the baskets tilt, and the clothes jerk aside, the land riffling with liveliness. Suddenly, the sand slips into cavernous channels and inimical nomads empty from the earth, climbing out, some leaping forth as though to revivify themselves on fresh air, others tilting upward from heel to toe, bodies straight like flagpoles. They move unnervingly, stilted and tilted, and the man in black grins behind their shambling formation. He is no ordinary blaggard, but a necromancer!}\"\n        Image = \"\"\n        List = []\n        Options = [{\n            Text = \"To arms!\"\n            getResult = function getResult(){\n                this.Contract.getActiveState().onDestinationAttacked(this.Contract.m.Destination, False);\n                return 0;;\n                return;\n            }\n        }]\n    });\n    function getResult(){\n        this.World.Assets.addBusinessReputation(this.Const.World.Assets.ReputationOnContractSuccess);\n        this.World.Assets.addMoney(this.Contract.m.Payment.getOnCompletion());\n        this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationNobleContractSuccess, \"Destroyed a nomad encampment\");\n        this.World.Contracts.finishActiveContract();\n        return 0;;\n        return;\n    };\n    function start(){\n        this.List.push({\n            id = 10\n            icon = \"ui/icons/asset_money.png\"\n            text = \"You gain [color=\" + this.Const.UI.Color.PositiveEventValue + \"]\" + this.Contract.m.Payment.getOnCompletion() + \"[/color] Crowns\"\n        });\n        this.Contract.m.SituationID = this.Contract.resolveSituation(this.Contract.m.SituationID, this.Contract.m.Home, this.List);\n        return;\n    };\n    this.m.Screens.push({\n        ID = \"Success1\"\n        Title = \"On your return...\"\n        Text = \"[img]gfx/ui/events/event_04.png[/img]{A servant heads you off from meeting %employer%. He hands you a scroll as well as a satchel. Despite having already handed you the paper, the servant puts his hands behind his back and looks at the ceiling as he recites.%SPEECH_ON%The Crownling is rewarded %reward_completion% crowns as per prior arrangements. Having taken his reward, he is dismissed from the property posthaste.%SPEECH_OFF%The servant looks down at you and nods.%SPEECH_ON%Leave.%SPEECH_OFF%He says. | You try to enter %employer%'s room but a large, scarred guard lowers the business end of a polearm across the door.%SPEECH_ON%No visitors.%SPEECH_OFF%You state that you have business with the Vizier. The guard shakes his head. A servant comes up behind you and puts a satchel in your arms and then departs just as fast. The guard returns the polearm to his side.%SPEECH_ON%Your trivialities with the Vizier concluded when you first departed his presence. You are not to poison his mood any further. Leave. Now. Before you poison mine.%SPEECH_OFF% | As you approach %employer%'s room, a woman claps from across the lobby. You look over and she's already far too close. Four birds perch upon her shoulders and they sway with her every step.%SPEECH_ON%Crownling.%SPEECH_OFF%She produces a satchel and hands it over.%SPEECH_ON%%employer% need not smell you once more, this far into his home is sufficient. Count it if you wish to insult us, leave if you wish to please us.%SPEECH_OFF%She turns on her heels and walks away, her otherworldly dress flowing side to side. One of the birds rotates on her shoulder and squawks at you.}\"\n        Image = \"\"\n        Characters = []\n        List = []\n        ShowEmployer = True\n        Options = [{\n            Text = \"Well, we got paid.\"\n            getResult = function getResult(){\n                this.World.Assets.addBusinessReputation(this.Const.World.Assets.ReputationOnContractSuccess);\n                this.World.Assets.addMoney(this.Contract.m.Payment.getOnCompletion());\n                this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationNobleContractSuccess, \"Destroyed a nomad encampment\");\n                this.World.Contracts.finishActiveContract();\n                return 0;;\n                return;\n            }\n        }]\n        start = function start(){\n            this.List.push({\n                id = 10\n                icon = \"ui/icons/asset_money.png\"\n                text = \"You gain [color=\" + this.Const.UI.Color.PositiveEventValue + \"]\" + this.Contract.m.Payment.getOnCompletion() + \"[/color] Crowns\"\n            });\n            this.Contract.m.SituationID = this.Contract.resolveSituation(this.Contract.m.SituationID, this.Contract.m.Home, this.List);\n            return;\n        }\n    });\n    return;\n}"
+  },
+  {
+    "key": "0cf57c63eb976556a273198f34e8816a586471aefa434f80dab8b77667c0a981",
+    "original": "Offer",
+    "translation": "",
+    "context": "ID = \"Offer\""
+  },
+  {
+    "key": "d4b1ea5708dd532930a85188b45aff6f0a3ed458500c7577e0127a538eb0d100",
+    "original": "Overview",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "6b0143d03864993fdf6922b8be1c69b93b24babb9989edd7533f9eeb680148e0",
+    "original": "Return",
+    "translation": "",
+    "context": "ID = \"Return\""
+  },
+  {
+    "key": "6b0143d03864993fdf6922b8be1c69b93b24babb9989edd7533f9eeb680148e0",
+    "original": "Return",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "f4ccae29e1bb0c20a124570a1b43f4347ea94bba9f84ffdfddd9c7445b126128",
+    "original": "Running",
+    "translation": "",
+    "context": "ID = \"Running\""
+  },
+  {
+    "key": "29ff179c712ecea9e628e80cb4ffab177c39f6d67e8a5c428ddf6d3abebfad6c",
+    "original": "Success1",
+    "translation": "",
+    "context": "ID = \"Success1\""
+  },
+  {
+    "key": "29ff179c712ecea9e628e80cb4ffab177c39f6d67e8a5c428ddf6d3abebfad6c",
+    "original": "Success1",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "4bc74b21357c6cf5cca8f66b4d4ee948be64d0396feb434c9645e168ad61ceaf",
+    "original": "Task",
+    "translation": "",
+    "context": "ID = \"Task\""
+  },
+  {
+    "key": "4bc74b21357c6cf5cca8f66b4d4ee948be64d0396feb434c9645e168ad61ceaf",
+    "original": "Task",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "3dbe890b4c859382ac05b0d1119df16f009d7f16e6d272b3c9768cf8ee0d7543",
+    "original": "Treasure1",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "3dbe890b4c859382ac05b0d1119df16f009d7f16e6d272b3c9768cf8ee0d7543",
+    "original": "Treasure1",
+    "translation": "",
+    "context": "ID = \"Treasure1\""
+  },
+  {
+    "key": "13b581477df47160abccbd2ddd2d7ff83e37f7b4e1be7ebeb9e84e5a557b9a38",
+    "original": "Treasure2",
+    "translation": "",
+    "context": "ID = \"Treasure2\""
+  },
+  {
+    "key": "13b581477df47160abccbd2ddd2d7ff83e37f7b4e1be7ebeb9e84e5a557b9a38",
+    "original": "Treasure2",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "93c4abe27cf1696102534bb60b3795f41f60f52fa806cd5d0feadfc8bd2b8170",
+    "original": "direction",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "65045134064dd4d905665eceaf4153fea4f9d69d2ae22255a0b7cef4701f4886",
+    "original": "selection",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "373dd24d93f580dedb42a900aeef24e4669e493ac8f02f25556981a88fb042b7",
+    "original": "totalenemy",
+    "translation": "",
+    "context": ""
   }
 ]

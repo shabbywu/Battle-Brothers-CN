@@ -38,5 +38,17 @@
     "translation": "通过自己探索这片土地，发现一处废墟、营地或其他敌对地点，摧毁它，并夺取战利品。",
     "stage": 5,
     "context": "this.m.TooltipText = 'Discover a ruin, camp or other hostile location on your own by exploring the land, destroy it, and take the plunder.'"
+  },
+  {
+    "key": "51bf5502a7102c96f3ffb54d6d8762c0077dd473aa673701e233e4f3f989a149",
+    "original": "farmer",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "6c0f7e4777d61db5a7f3556959d212b0a06de91869593f02117b8d91eaa80c78",
+    "original": "notfarmer",
+    "translation": "",
+    "context": ""
   }
 ]

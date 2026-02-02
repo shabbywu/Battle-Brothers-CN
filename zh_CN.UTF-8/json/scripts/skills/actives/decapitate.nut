@@ -62,5 +62,23 @@
     "translation": "旨在当场将目标斩首的毁灭性打击。目标已经受到的伤害越大，对生命值造成的伤害就越大。如果可能的话，总是斩首杀死目标。",
     "stage": 5,
     "context": "this.m.Description = 'A devastating blow aimed to decapitate the target on the spot. Does more damage to hitpoints, the more the target is already wounded. Killing the target will always decapitate it, if at all possible.'"
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

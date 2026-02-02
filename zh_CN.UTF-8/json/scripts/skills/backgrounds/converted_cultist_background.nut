@@ -46,5 +46,11 @@
     "translation": "这个人的过去已经不重要了，他的额头已经刻上了达库尔的印记。他的喉舌尚未掌握新宗教的言语，却用熟悉的声音述说着邪教的魅力。黑暗，他说，即将降临。",
     "stage": 1,
     "context": "return \"Who this man once was no longer matters. He now bears the mark of Davkul on his forehead and while his lips do not yet know the words of his newfound religion, they speak of the cult's fascination in a familiar tongue. Darkness, he says, is coming.\";"
+  },
+  {
+    "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
+    "original": "body",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -214,5 +214,11 @@
     "translation": "北方的冰冻废土栖居着一种其他地方见不到的野兽。",
     "stage": 1,
     "context": "'The frozen wasteland of the north is home to a giant beast not seen anywhere else.'"
+  },
+  {
+    "key": "8cf16e6782a7fb31b4658cec13c9179c480cbb29a167efe2cfa9e8d150eda1f0",
+    "original": "Unhold",
+    "translation": "",
+    "context": "!\"Unhold\" || !this.Const.DLC.Unhold"
   }
 ]

@@ -38,5 +38,17 @@
     "translation": "盔甲，什么盔甲？",
     "stage": 5,
     "context": "this.m.SuccessButtonText = 'Armor, what armor?'"
+  },
+  {
+    "key": "1f9b77f5ba2115fb33549f788c9443e08f75aeaa2b6197096655df0f26634f38",
+    "original": "hammerbrother",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "2e5b3fe434056bf814b8be4e4430f49a8627b60efeb62222edbed1f61532d23e",
+    "original": "nothammerbrother",
+    "translation": "",
+    "context": ""
   }
 ]

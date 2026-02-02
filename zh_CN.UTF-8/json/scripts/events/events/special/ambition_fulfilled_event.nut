@@ -38,5 +38,23 @@
     "translation": "越发相信你的领导能力",
     "stage": 1,
     "context": "bro.improveMood(this.Const.MoodChange.AmbitionFulfilled, 'Gained confidence in your leadership')"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "28fbff976af915489d3b400aaf00e130984fed98e77ca9cf760726dbe17f17b9",
+    "original": "currenttown",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "8c4cab0908c86f169672e77106276b8a7d04b21d8331165ec47bc4bcf13802db",
+    "original": "nearesttown",
+    "translation": "",
+    "context": ""
   }
 ]

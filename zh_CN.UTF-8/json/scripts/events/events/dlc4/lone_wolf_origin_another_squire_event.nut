@@ -30,5 +30,23 @@
     "translation": "对他作为你的侍从的角色感到困惑",
     "stage": 1,
     "context": "_event.m.Dude.worsenMood(0.5, 'Confused about his role as your squire')"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "e4cf19cc9404a46c3edfff5611431c858956acdb08beb667a5617fdfd90378e4",
+    "original": "squire",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "a4b31ebef5363262268242209270bfde4ade5c1f99bc2618ca31411ca4a923e3",
+    "original": "squire2",
+    "translation": "",
+    "context": ""
   }
 ]

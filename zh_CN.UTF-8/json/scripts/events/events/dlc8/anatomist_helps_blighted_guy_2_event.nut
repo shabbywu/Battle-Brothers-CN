@@ -110,5 +110,17 @@
     "translation": "]+5[/color] 生命值",
     "stage": 1,
     "context": "text = _event.m.MilitiaCaptain.getName() + ' gains [color=' + this.Const.UI.Color.PositiveEventValue + ']+5[/color] Hitpoints'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "24f4dd39a2d6dba36767aa9937070c6687c4b12596029f16bd431b41c78eec51",
+    "original": "militiacaptain",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -324,5 +324,101 @@
     "original": "A Fleshy Corpse",
     "translation": "",
     "context": "corpse.CorpseName = \"A Fleshy Corpse\""
+  },
+  {
+    "key": "50eab20d532813f1032dc98d75780da077915e0d1ea23287152cbdbb04e3123d",
+    "original": "Charmed",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "f48889357806eadf93e3d63916610106af87e65c8cf76238ad0d5ca251eaf29b",
+    "original": "Corpse",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "84912e3ba4a72ba4f87d0d0249d57d677dc77701596573dd8de84920152b4db8",
+    "original": "Devoured",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "fb8e7a1a3cb7b25d262793159145759e97eb540a2b61dbbdf8f58841a81cf1a8",
+    "original": "Items",
+    "translation": "",
+    "context": "!\"Items\""
+  },
+  {
+    "key": "864e8d565eac5de10aced470ce96018502bebf4262bbb9eb7e3eca8c0e045d10",
+    "original": "Nightmare",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "12ff393b061d94ebc405a828c5e43e9b5fa948d6cbaf844afb2e9064e45d8de2",
+    "original": "Sleeping",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]Invalid target![/color]\""
+  },
+  {
+    "key": "50c9c4aeb40b5b206b6d98f516f8b8c0efd29ce2e56a76b345fb9240c225a1b7",
+    "original": "actor",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "adca5146416ee41992ac79a52887351cafeced9ea917ca94532bea22e70c38ef",
+    "original": "grow",
+    "translation": "",
+    "context": "\"grow\""
+  },
+  {
+    "key": "b5e0eee6e28efca6d6ad05d7b8a94631576037ec9e5ff6d305fe89faa0e1032e",
+    "original": "loose",
+    "translation": "",
+    "context": "result = isWin ? \"win\" : \"loose\""
+  },
+  {
+    "key": "cdb59355f3ba293977fc0945fb85f11822d412c45c7520c7121bd2234f6c1f48",
+    "original": "player",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "043a718774c572bd8a25adbeb1bfcd5c0256ae11cecf9f9c3f925d0e52beaf89",
+    "original": "s",
+    "translation": "",
+    "context": "\"The enemy was destroyed in \" + rounds + \" round\" + rounds > 1 ? \"s\" : \"\""
+  },
+  {
+    "key": "043a718774c572bd8a25adbeb1bfcd5c0256ae11cecf9f9c3f925d0e52beaf89",
+    "original": "s",
+    "translation": "",
+    "context": "\"You lost after \" + rounds + \" round\" + rounds > 1 ? \"s\" : \"\""
+  },
+  {
+    "key": "043a718774c572bd8a25adbeb1bfcd5c0256ae11cecf9f9c3f925d0e52beaf89",
+    "original": "s",
+    "translation": "",
+    "context": "\"The enemy retreated after \" + rounds + \" round\" + rounds > 1 ? \"s\" : \"\""
+  },
+  {
+    "key": "043a718774c572bd8a25adbeb1bfcd5c0256ae11cecf9f9c3f925d0e52beaf89",
+    "original": "s",
+    "translation": "",
+    "context": "\"You retreated after \" + rounds + \" round\" + rounds > 1 ? \"s\" : \"\""
+  },
+  {
+    "key": "823a3180dad3c9c3c4dea43ab2baf9f04bac9c3a7711745ff5f702551496d735",
+    "original": "win",
+    "translation": "",
+    "context": "result = isWin ? \"win\" : \"loose\""
   }
 ]

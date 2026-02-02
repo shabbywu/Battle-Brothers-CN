@@ -46,5 +46,17 @@
     "translation": "被",
     "stage": 1,
     "context": "bro.worsenMood(0.4000000059604645, 'Tempered by ' + _event.m.Pessimist.getName() + \"'s pessimism\")"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "fdc453046b7ed265ee9850c15bc0d0eb6e7e2cb351ae5e9787d2d306e6ede96c",
+    "original": "pessimist",
+    "translation": "",
+    "context": ""
   }
 ]

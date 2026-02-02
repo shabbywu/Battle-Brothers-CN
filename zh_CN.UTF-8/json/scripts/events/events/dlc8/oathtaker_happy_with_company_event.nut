@@ -46,5 +46,17 @@
     "translation": "很高兴有人欣赏。",
     "stage": 1,
     "context": "Text = 'Glad someone appreciates it.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "2ae6fe7b558341a07c31696d13a0c2bc6c8689883681df07dfd620c4a4f35b54",
+    "original": "oathtaker",
+    "translation": "",
+    "context": ""
   }
 ]

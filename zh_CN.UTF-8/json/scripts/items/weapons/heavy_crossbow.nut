@@ -30,5 +30,17 @@
     "translation": "一把中等射程的曲柄绞盘重弩，即使对重装甲目标也非常有效。几乎要装填上一整个回合。",
     "stage": 1,
     "context": "this.m.Description = 'A heavy crossbow with a crank that can propel bolts over medium distances and is effective even against heavily armored targets. Requires almost a full turn to reload.'"
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]Must be reloaded before firing again[/color]\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

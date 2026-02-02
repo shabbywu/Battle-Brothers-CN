@@ -1,0 +1,32 @@
+[
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "5ba916722880e9f2fe0278249d34c9b18081ea49eba04dec5c22f696886360ec",
+    "original": "During camp...",
+    "translation": "",
+    "context": "this.m.Title = \"During camp...\""
+  },
+  {
+    "key": "d4e96b1182eaeb713f560d61f66943f51808ee468dbe75fd57d5eed6823f47af",
+    "original": "Has eaten nothing but ground grains for days",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c24309c1cd31ac6ccb2cfb8fb963ebddb52d54bb73a5addea8f680a97b02b339",
+    "original": "Well, they ain't getting cake.",
+    "translation": "",
+    "context": "Text = \"Well, they ain't getting cake.\""
+  },
+  {
+    "key": "6c36e6349835329cbec242e1238c09a9d9a62fabf5dbde6fa5635536905d6dbf",
+    "original": "[img]gfx/ui/events/event_52.png[/img]{You find the mercenaries circled around a campfire, except they've no real food to put over the flames. One throws his bowl of soup down. It is such a sludge that it barely moves to spill which is, honestly, quite disgusting. %randombrother% looks at you.%SPEECH_ON%Sir, please, let us get some meat! Or something beyond this shite!%SPEECH_OFF%A bit of variety wouldn't hurt, you agree. | %randombrother% comes to you and slams a spoon on your desk. There's something on the spoon, but what exactly you can't tell. The mercenary leans back, thumbs jacked into his beltline, his chest growing with breath. Then he sighs, for he knows not to behave in such ill-manner in your presence. But he does explain himself.%SPEECH_ON%Sir, the men are complaining about the food. I think it'd be great for company morale if perhaps we picked up some meats and other goods in the next town. Only a suggestion, of course.%SPEECH_OFF%He quickly leaves. You pick up the spoon and look at whatever is in the scoop of it. That... that can't really be what they're eating out there, can it? Perhaps some variety wouldn't hurt... | %randombrother% approaches with a bowl in hand. He tilts it forward, showing the contents which are colorless and slide ever so slowly down the rim of the bowl. The mercenary shakes his head.%SPEECH_ON%The men are unhappy sir, and myself too, about the dinners we've been eating. A man can only eat the same contents day after day for so long, especially when he knows he can afford so much more. It is only a suggestion, sir, from myself and from all the men, that perhaps we liven up our food stocks so that not every meal is... well, this.%SPEECH_OFF%He sets the bowl down and walks off. | A few of your mercenaries are complaining around a campfire. You stay within earshot, carefully listening as they might say things they wouldn't in your presence. Thankfully, it's not a mutiny in motion, but instead a series of cooking criticisms. There simply is not enough variety in the company's food stocks. They're tired of eating the same thing over and over. Perhaps this could be remedied in the next town the %companyname% visits?}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_52.png[/img]{You find the mercenaries circled around a campfire, except they've no real food to put over the flames. One throws his bowl of soup down. It is such a sludge that it barely moves to spill which is, honestly, quite disgusting. %randombrother% looks at you.%SPEECH_ON%Sir, please, let us get some meat! Or something beyond this shite!%SPEECH_OFF%A bit of variety wouldn't hurt, you agree. | %randombrother% comes to you and slams a spoon on your desk. There's something on the spoon, but what exactly you can't tell. The mercenary leans back, thumbs jacked into his beltline, his chest growing with breath. Then he sighs, for he knows not to behave in such ill-manner in your presence. But he does explain himself.%SPEECH_ON%Sir, the men are complaining about the food. I think it'd be great for company morale if perhaps we picked up some meats and other goods in the next town. Only a suggestion, of course.%SPEECH_OFF%He quickly leaves. You pick up the spoon and look at whatever is in the scoop of it. That... that can't really be what they're eating out there, can it? Perhaps some variety wouldn't hurt... | %randombrother% approaches with a bowl in hand. He tilts it forward, showing the contents which are colorless and slide ever so slowly down the rim of the bowl. The mercenary shakes his head.%SPEECH_ON%The men are unhappy sir, and myself too, about the dinners we've been eating. A man can only eat the same contents day after day for so long, especially when he knows he can afford so much more. It is only a suggestion, sir, from myself and from all the men, that perhaps we liven up our food stocks so that not every meal is... well, this.%SPEECH_OFF%He sets the bowl down and walks off. | A few of your mercenaries are complaining around a campfire. You stay within earshot, carefully listening as they might say things they wouldn't in your presence. Thankfully, it's not a mutiny in motion, but instead a series of cooking criticisms. There simply is not enough variety in the company's food stocks. They're tired of eating the same thing over and over. Perhaps this could be remedied in the next town the %companyname% visits?}\""
+  }
+]

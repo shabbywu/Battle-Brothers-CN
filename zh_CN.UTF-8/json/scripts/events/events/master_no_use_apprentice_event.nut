@@ -38,5 +38,23 @@
     "translation": "好吧，我们会带走他。",
     "stage": 1,
     "context": "Text = \"Alright, we'll take him.\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "50ac81f970325a3e011f2437818adde426e1278dee5670dd359edfca43a72d79",
+    "original": "town",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "cce8cfe2ad73528fe61142ab4f5cda39410f936f701b34c2a94f736ac0a8797d",
+    "original": "townname",
+    "translation": "",
+    "context": ""
   }
 ]

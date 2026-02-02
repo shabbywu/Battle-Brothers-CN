@@ -38,5 +38,17 @@
     "translation": "一只聪明的野兽。",
     "stage": 1,
     "context": "Text = 'A noble beast.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "38de3a04e4a8e54a4ff9c9f3c4159bc040674b84992607e49285b3e970a95c42",
+    "original": "houndmaster",
+    "translation": "",
+    "context": ""
   }
 ]

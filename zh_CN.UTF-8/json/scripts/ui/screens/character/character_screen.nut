@@ -230,5 +230,59 @@
     "translation": "你解雇了",
     "stage": 5,
     "context": "other.worsenMood(this.Const.MoodChange.BrotherDismissed, 'Dismissed ' + bro.getName())"
+  },
+  {
+    "key": "dcd1d5223f73b3a965c07e3ff5dbee3eedcfedb806686a05b9b3868a2c3d6d50",
+    "original": "Name",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "a3b50c476732c7409d297c3d7d0e23569fee5e08318553ae76041ab5fe60582e",
+    "original": "State",
+    "translation": "",
+    "context": "\"State\" && this.World.State != null"
+  },
+  {
+    "key": "a3b50c476732c7409d297c3d7d0e23569fee5e08318553ae76041ab5fe60582e",
+    "original": "State",
+    "translation": "",
+    "context": "\"State\" && this.Tactical.State != null"
+  },
+  {
+    "key": "a3b50c476732c7409d297c3d7d0e23569fee5e08318553ae76041ab5fe60582e",
+    "original": "State",
+    "translation": "",
+    "context": "\"State\" && this.World.State != null && this.World.Assets.getOrigin().getID() == \"scenario.manhunters\""
+  },
+  {
+    "key": "ca00fccfb408989eddc401062c4d1219a6aceb6b9b55412357f1790862e8f178",
+    "original": "error",
+    "translation": "",
+    "context": "\"error\""
+  },
+  {
+    "key": "dbb3b50e59c7326b2ff7d6619430257b9188cf3c0b8d778f7275ffd3bf4998a2",
+    "original": "ground",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "1f5bb9791a310e136d1564ee23d2a3cc32ea7ce6fa26cb8734ec18b4607ad79e",
+    "original": "hide",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "1c6333509debf060200eb6bbe28db307508da67c0e3c58088393e4cf09de596d",
+    "original": "show",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "2c70237f50de15d265e68ea22d398935fc1efe72f1c8d15824fa9a2f69a12c0b",
+    "original": "stash",
+    "translation": "",
+    "context": ""
   }
 ]

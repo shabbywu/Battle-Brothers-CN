@@ -22,5 +22,11 @@
     "translation": "看看能招募到什么随从！",
     "stage": 5,
     "context": "Text = \"I'll take a look at our retinue!\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
   }
 ]

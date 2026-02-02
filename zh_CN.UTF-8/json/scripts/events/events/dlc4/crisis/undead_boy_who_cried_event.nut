@@ -238,5 +238,41 @@
     "translation": "唉。",
     "stage": 1,
     "context": "Text = \"Oh.\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "\"Accept\" + _event.m.Refusals + \"B\""
+  },
+  {
+    "key": "ca6d598024fec1f1582472a73437deef4f351839a797b3421428d7e281334751",
+    "original": "Refuse1",
+    "translation": "",
+    "context": "ID = \"Refuse1\""
+  },
+  {
+    "key": "0f1ef2ab4dd9d5bfb70a73a0f0afaee41f5d47538f77e15aafb092ff447fe264",
+    "original": "Refuse2",
+    "translation": "",
+    "context": "ID = \"Refuse2\""
+  },
+  {
+    "key": "59c01dd56387fa49e29eb6dbf4f200e3db626ba8fc01e1906a326b2c8c04fdd5",
+    "original": "Refuse3",
+    "translation": "",
+    "context": "ID = \"Refuse3\""
+  },
+  {
+    "key": "cce8cfe2ad73528fe61142ab4f5cda39410f936f701b34c2a94f736ac0a8797d",
+    "original": "townname",
+    "translation": "",
+    "context": ""
   }
 ]

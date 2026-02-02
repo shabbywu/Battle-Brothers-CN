@@ -46,5 +46,23 @@
     "translation": "看到了过去工作成功的活生生的证明。",
     "stage": 1,
     "context": "_event.m.Anatomist.improveMood(0.75, 'Saw living proof that his past work was successful')"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "2b8c35ec7a1b46a3a66fcd78c8691fe083d13cbac753a8aae6846b645731c4b2",
+    "original": "anatomist",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "cce8cfe2ad73528fe61142ab4f5cda39410f936f701b34c2a94f736ac0a8797d",
+    "original": "townname",
+    "translation": "",
+    "context": ""
   }
 ]

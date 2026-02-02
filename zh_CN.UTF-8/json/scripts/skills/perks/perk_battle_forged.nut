@@ -38,5 +38,17 @@
     "translation": "]这名角色的盔甲没有足够的保护，无法从战斗锻造特技中获得任何好处[/color]",
     "stage": 1,
     "context": "text = '[color=' + this.Const.UI.Color.NegativeValue + \"]This character's armor isn't protective enough to grant any benefit from having the Battleforged perk[/color]\""
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]This character's armor isn't protective enough to grant any benefit from having the Battleforged perk[/color]\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

@@ -38,5 +38,35 @@
     "translation": "在路上……",
     "stage": 5,
     "context": "this.m.Title = 'Along the road...'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "fc33f73246f48295702f404001e74d56f14d2f82689b2816422dc1a4c2ec4fb2",
+    "original": "City",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "11a62c23412b77477a71481aa2dc7323bcc61d076c8449076c4c58a8356c1bb1",
+    "original": "city",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "d229d26afc53432305ea99505d7a9404cf199bcb9e3d93d320c9b631c9498b01",
+    "original": "conqueror",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "3f876bf23981a0ee2a204dff11a7e1e12074a6bd50d234f57f44bc74cb1e1ff5",
+    "original": "defeated",
+    "translation": "",
+    "context": ""
   }
 ]

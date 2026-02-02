@@ -38,5 +38,11 @@
     "translation": "你获得了[color=",
     "stage": 1,
     "context": "text = 'You gain [color=' + this.Const.UI.Color.PositiveEventValue + ']+' + amount + '[/color] Tools and Supplies.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
   }
 ]

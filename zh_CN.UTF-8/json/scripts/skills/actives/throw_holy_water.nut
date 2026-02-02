@@ -62,5 +62,17 @@
     "translation": "造成 [color=",
     "stage": 5,
     "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage to hitpoints for [color=' + this.Const.UI.Color.DamageValue + ']3[/color] turns, all of which ignores armor'"
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
+  },
+  {
+    "key": "b494b694cb092add1527a8be85e86b341628aeb2cf8e3f599caaf13c3cf4adca",
+    "original": "undead",
+    "translation": "",
+    "context": ""
   }
 ]

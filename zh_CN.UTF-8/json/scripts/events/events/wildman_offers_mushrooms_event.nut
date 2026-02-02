@@ -46,5 +46,59 @@
     "translation": "当然，%wildman%，我要一些。",
     "stage": 1,
     "context": "Text = \"Sure, %wildman%, I'll take some of those.\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    return \"A\";;\n    return;\n}"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "create = function create(){\n    this.m.ID = \"event.wildman_offers_mushrooms\";\n    this.m.Title = \"Along the way...\";\n    this.m.Cooldown = 100.0 * this.World.getTime().SecondsPerDay;\n    function getResult(_event){\n        return \"B\";;\n        return;\n    };\n    function getResult(_event){\n        return 0;;\n        return;\n    };\n    function start(_event){\n        this.Characters.push(_event.m.Wildman.getImagePath());\n        return;\n    };\n    this.m.Screens.push({\n        ID = \"A\"\n        Text = \"[img]gfx/ui/events/event_25.png[/img]You take a rest at the base of an enormous tree. Somehow, the sun manages to sear a path through the forest canopy and blind your eyes. Getting up to move, you run into %wildman% the wildman. He's offering you a handful of various questionables: mushrooms, flower petals, berries. With a grunt, he ushers them toward your face.\"\n        Image = \"\"\n        List = []\n        Characters = []\n        Options = [{\n            Text = \"Sure, %wildman%, I'll take some of those.\"\n            getResult = function getResult(_event){\n                return \"B\";;\n                return;\n            }\n        },{\n            Text = \"Umm, no thanks.\"\n            getResult = function getResult(_event){\n                return 0;;\n                return;\n            }\n        }]\n        start = function start(_event){\n            this.Characters.push(_event.m.Wildman.getImagePath());\n            return;\n        }\n    });\n    function getResult(_event){\n        return 0;;\n        return;\n    };\n    function start(_event){\n        return;\n    };\n    this.m.Screens.push({\n        ID = \"B\"\n        Text = \"[img]gfx/ui/events/event_25.png[/img]Surprisingly, the bits of forest foods are actually quite good. Sweet, but not too sweet, and with a hint of oak. You thank teh weeldman fore his gift. He rises hyyy into the skies, the skies of all things, shaking what are noww braanches you had earlier mistakenly assumed were human arms of humane purposes. Cats rain from his mouth as he speaks. His tongue is a leenguage of marbled letters, floating before his lips innn.. innn... in great sighs for sentences. Feeling good about his graces, you give him a weave, a wave of yer hand, but find yer fingers are also hands, something you had not noticed in the befores. A shock to your beliefs, yer memories of childhood flooded with fleeting feet rocking yer crib, yer domain, yer castle. All lies. All of it! Blackness comes. The darkness smiles.\\n\\nYou awake on the ground, %otherguy% gently dabbing a rag of water over your forehead.%SPEECH_ON%He's back! You alright?%SPEECH_OFF%You can't quite remember what happened, but your mind is desperately telling you not to ask. You simply nod in response and get the men back to marching.\"\n        Image = \"\"\n        List = []\n        Characters = []\n        Options = [{\n            Text = \"I've learned something today.\"\n            getResult = function getResult(_event){\n                return 0;;\n                return;\n            }\n        }]\n        start = function start(_event){\n            return;\n        }\n    });\n    return;\n}"
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "ID = \"B\""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "getResult = function getResult(_event){\n    return \"B\";;\n    return;\n}"
+  },
+  {
+    "key": "f5150ee304c068edbef20dacf2450f7ec057d0c288d7fea3ec30ea4616f98d6d",
+    "original": "otherguy",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "8b5e678f62578828f7bea930e7ba16e36291fc403e14f60f54edce8a4de2c316",
+    "original": "wildman",
+    "translation": "",
+    "context": ""
   }
 ]

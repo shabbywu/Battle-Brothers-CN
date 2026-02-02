@@ -60,5 +60,17 @@
     "original": "%[/color] chance to hit",
     "translation": "",
     "context": "\"Has [color=\" + this.Const.UI.Color.PositiveValue + \"]+\" + this.getHitChanceModifier() + \"%[/color] chance to hit\""
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]No charges left[/color]\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

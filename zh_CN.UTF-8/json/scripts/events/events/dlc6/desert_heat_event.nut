@@ -38,5 +38,17 @@
     "translation": "体验中暑",
     "stage": 1,
     "context": "_event.m.SomeGuy.worsenMood(1.0, 'Experienced a heat stroke')"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "258e3260b396d0ed07936a50fe5ef52d5f5bb7affc7c1b48a0c41a1e6a6f8b79",
+    "original": "heatbro",
+    "translation": "",
+    "context": ""
   }
 ]

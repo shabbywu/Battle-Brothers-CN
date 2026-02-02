@@ -38,5 +38,23 @@
     "translation": "好吃。",
     "stage": 1,
     "context": "Text = 'Good eats.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "e9a63a4eb15738ae85cd416221c8fcc4ccc0018fac91335b42eaa016c76e87f9",
+    "original": "hunter",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "f5150ee304c068edbef20dacf2450f7ec057d0c288d7fea3ec30ea4616f98d6d",
+    "original": "otherguy",
+    "translation": "",
+    "context": ""
   }
 ]

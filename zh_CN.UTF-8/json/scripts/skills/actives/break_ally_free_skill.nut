@@ -30,5 +30,23 @@
     "translation": "%[/color] 。如果已经尝试过解救盟友则会更高。",
     "stage": 1,
     "context": "text = 'Has a [color=' + this.Const.UI.Color.PositiveValue + ']' + chance + \"%[/color] chance to succeed, based on Melee Skill, or higher if there's been attempts to free the ally before.\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

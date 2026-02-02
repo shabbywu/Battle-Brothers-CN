@@ -46,5 +46,11 @@
     "translation": "]33%[/color] 额外伤害，并额外穿透 [color=",
     "stage": 5,
     "context": "text = 'Inflicts [color=' + this.Const.UI.Color.DamageValue + ']33%[/color] more damage against and ignores additional [color=' + this.Const.UI.Color.DamageValue + ']20%[/color] armor of targets that have the Dazed, Stunned or Trapped in Net status effects'"
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

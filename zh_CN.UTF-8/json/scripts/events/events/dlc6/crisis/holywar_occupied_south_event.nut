@@ -30,5 +30,29 @@
     "translation": "在路上……",
     "stage": 5,
     "context": "this.m.Title = 'Along the road...'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "1aa4cb0bcca76e92e30677e809bb3d4b5c066715ef4d558184e319496bcc5125",
+    "original": "Image",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "9db1e3995058f710241cc8dce9ea5e6696be83401461abee80ec082a7af9166d",
+    "original": "holysite",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "6105d6cc76af400325e94d588ce511be5bfdbb73b437dc51eca43917d7a43e3d",
+    "original": "image",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -54,5 +54,53 @@
     "translation": "达库尔即将降临到我们。",
     "stage": 1,
     "context": "Text = 'Davkul awaits us all.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    if (this.World.Assets.getOrigin().getID() == \"scenario.cultists\") {\n        return \"B\";\n    } else {\n        return \"A\";\n    };\n    return;\n}"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    if (this.World.Assets.getOrigin().getID() == \"scenario.cultists\") {\n        return \"B\";\n    } else {\n        return \"A\";\n    };\n    return;\n}"
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "ID = \"B\""
+  },
+  {
+    "key": "604c00db87b22994f944ce913b66ca936bd63fad7305b4218c338eb9c9592118",
+    "original": "historian",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "0248991294f2af53dcff2d9574b5a0c743c6dcb13d98cef48c22542ec27b4f48",
+    "original": "nonhistorian",
+    "translation": "",
+    "context": ""
   }
 ]

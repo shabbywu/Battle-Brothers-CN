@@ -22,5 +22,23 @@
     "translation": "%townname%里",
     "stage": 5,
     "context": "this.m.Title = 'At %townname%'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "cce8cfe2ad73528fe61142ab4f5cda39410f936f701b34c2a94f736ac0a8797d",
+    "original": "townname",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "165956f21bb3c1cd93da12e0b55c1f89a431ddc84d8ebd1e2b451208f7858558",
+    "original": "witchhunter",
+    "translation": "",
+    "context": ""
   }
 ]

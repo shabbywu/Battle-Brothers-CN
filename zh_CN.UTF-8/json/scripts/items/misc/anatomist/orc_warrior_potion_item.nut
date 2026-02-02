@@ -38,5 +38,41 @@
     "translation": "正如任何一位万名之战的老兵都可以证明的那样，与兽人战士作战就是与一面金属和血肉铸成的城墙作战，即使是最致命的打击似乎也无法伤其分毫。有了这种药剂，你就可以成为那堵墙了！",
     "stage": 1,
     "context": "this.m.Description = 'As any veteran of the Battle of Many Names can attest, to fight an orc warrior is to fight a veritable wall of metal and flesh, seemingly impervious to even the most debilitating of blows. With this potion, now you can be that wall!'"
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.PositiveValue + \"]33%[/color] to resist the Dazed, Staggered, Stunned, Distracted, and Withered status effects\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "b80e0af617d0f8ff54ab3142c34c76e83eafe75c6b2cbe87a44c56bb8505dd01",
+    "original": "hint",
+    "translation": "",
+    "context": "type = \"hint\""
+  },
+  {
+    "key": "6105d6cc76af400325e94d588ce511be5bfdbb73b437dc51eca43917d7a43e3d",
+    "original": "image",
+    "translation": "",
+    "context": "type = \"image\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

@@ -46,5 +46,23 @@
     "translation": "现在害怕野兽",
     "stage": 5,
     "context": "text = _event.m.OtherBro.getName() + ' now fears beasts'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "2b8c35ec7a1b46a3a66fcd78c8691fe083d13cbac753a8aae6846b645731c4b2",
+    "original": "anatomist",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "9043d85554d88f525631bb15479c38d04f3ad1fb867b935a833304bfab8db1fb",
+    "original": "otherbro",
+    "translation": "",
+    "context": ""
   }
 ]

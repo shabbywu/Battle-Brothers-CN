@@ -70,5 +70,17 @@
     "translation": "现在被称为",
     "stage": 1,
     "context": "text = bestSergeant.getNameOnly() + ' is now known as ' + bestSergeant.getName()"
+  },
+  {
+    "key": "97903cd890c1b1fd980d9bfbf9f5d32cf01cbd5e1d40a102c2cd174e0617810b",
+    "original": "sergeantbrother",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "7114546de838a6586f2b0f1e67359003a1b92d33b8ac9f87ecfc2004623518fb",
+    "original": "sergeantbrotherfull",
+    "translation": "",
+    "context": ""
   }
 ]

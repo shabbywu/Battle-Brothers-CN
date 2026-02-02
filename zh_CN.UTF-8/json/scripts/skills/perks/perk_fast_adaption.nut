@@ -14,5 +14,11 @@
     "translation": "该角色快速适应了对手的动作，下次攻击的命中率提高[color=",
     "stage": 1,
     "context": "return \"This character is adapting fast to their opponent's moves and gains an additional [color=\" + this.Const.UI.Color.PositiveValue + ']+' + this.m.Stacks * 10 + '%[/color] chance to hit with any attack.';"
+  },
+  {
+    "key": "50c9c4aeb40b5b206b6d98f516f8b8c0efd29ce2e56a76b345fb9240c225a1b7",
+    "original": "actor",
+    "translation": "",
+    "context": ""
   }
 ]

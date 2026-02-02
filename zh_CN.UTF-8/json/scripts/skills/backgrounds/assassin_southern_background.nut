@@ -102,5 +102,17 @@
     "translation": "刺客%name%带着一大箱子的黄金离开了%companyname%远走他乡。 你听说，他在南方王国的东部山脉中建造了一座城堡。你不确定此事的真假，但维齐尔和领主的死亡率开始稳步上升。",
     "stage": 1,
     "context": "this.m.GoodEnding = \"%name% the assassin departed the %companyname% with a large chest of gold and traveled far away. From what rumors you've heard, he built a castle in the mountains east of the southern kingdoms. You're not sure if it's true, but there's been a steady increase in dead viziers and lords alike as of late.\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

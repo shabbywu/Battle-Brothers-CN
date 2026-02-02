@@ -30,5 +30,35 @@
     "translation": "战团成立之初，%name%就和你在一起。他既忠诚又有本领。呆了一段时间之后，他最终离开了战团，开创自己的事业。几天前，你收到了这位雇佣兵的来信，信中说，他开始经营自己的战团，并急需帮助。不幸的是，这封信的落款是在一年以前。你调查了他战团的存续情况，得知它已经在贵族的战争中全军覆没了。",
     "stage": 1,
     "context": "this.m.BadEnding = 'With you from the start, %name% was as loyal as he was talented. He stayed with the company for a time before eventually leaving to forge out a path for himself. The other day, you received a letter from the mercenary stating that he had started his own company and was in dire need of help. Unfortunately, the message was dated to nearly a full year ago. When you investigated the existence of his company, you learned that it had been completely annihilated in a battle between nobles.'"
+  },
+  {
+    "key": "894816281e236420190e5e2e5ec39503d42d599c90d15fcc29e38de82ebb33b7",
+    "original": "1h",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "05aecc24f3a01f629e2ad7b4110ff0d576b631dd734cabc30ed457d29ffd551f",
+    "original": "2h",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "658bb8cf121179b8804bda4f42cf7bb66c66347337772d2f00ad5f95c4edf40e",
+    "original": "ranged",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

@@ -14,5 +14,11 @@
     "translation": "凋零了",
     "stage": 5,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(target) + ' withers')"
+  },
+  {
+    "key": "b494b694cb092add1527a8be85e86b341628aeb2cf8e3f599caaf13c3cf4adca",
+    "original": "undead",
+    "translation": "",
+    "context": ""
   }
 ]

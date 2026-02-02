@@ -22,5 +22,29 @@
     "translation": "应该很容易。",
     "stage": 1,
     "context": "Text = 'Should be easy.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "711430f6164e93803d93428bc1fab80f41e213bb197689307de8606d437c3038",
+    "original": "g1",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "4d2f4b668cfc48e6059d36e91326bf87de39ba819f35450477bc1ce614a63bbd",
+    "original": "g2",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "3921871aa0881e3e94830142ac90994452f670fe337eb50303ea9cc6d0f3ae37",
+    "original": "g3",
+    "translation": "",
+    "context": ""
   }
 ]

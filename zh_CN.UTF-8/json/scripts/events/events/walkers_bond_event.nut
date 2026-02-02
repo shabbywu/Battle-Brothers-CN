@@ -30,5 +30,23 @@
     "translation": "在途中……",
     "stage": 5,
     "context": "this.m.Title = 'Along the way...'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "481573a5dc5e319de2bfdfb950798e95c1f1d03daba6622ef378ffe0beda10f7",
+    "original": "walker1",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "05b36d4fe96a2dc4cc680ad24eb014921403918c8e34d342b896710da7b6e452",
+    "original": "walker2",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -14,5 +14,11 @@
     "translation": "一间歪斜腐朽的小屋，看上去随时可能坍塌。歪扭的烟囱正升起袅袅炊烟。",
     "stage": 5,
     "context": "return 'A skewed and withered hut that looks like it could collapse at any moment. Smoke is rising from an awry chimney.';"
+  },
+  {
+    "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
+    "original": "body",
+    "translation": "",
+    "context": ""
   }
 ]

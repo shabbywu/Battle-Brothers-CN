@@ -38,5 +38,23 @@
     "translation": "[img]gfx/ui/events/event_05.png[/img]{%ailing%双手张开，像在绷紧的绳索上保持平衡一样在营地周围走着。他转身时点头，一步步地走回来。%SPEECH_ON%这是很长时间以来我第一次感觉好起来。谢谢你，%healer%！%SPEECH_OFF%看来%healer%知道几种方法来治好%ailing%的问题。}",
     "stage": 1,
     "context": "Text = '[img]gfx/ui/events/event_05.png[/img]{%ailing% is walking around camp with his hands out and his fingers stretched as though he were balancing across a rope. He nods to himself as he turns around, foot placed before foot, marching his way back across.%SPEECH_ON%For the first time in a long time I actually feel quite alright. Thanks, %healer%!%SPEECH_OFF%It seems %healer% knew of a couple means to rid what ailed %ailing%.}'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "875c895f8869039afd0a930256edd53b8dacbe7d3b3ab5b5dfba5a5f99b69150",
+    "original": "ailing",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "44f4ea1dbf1f1c659d58462df7010493e33aaef9419eff87c4920922228401c1",
+    "original": "healer",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -46,5 +46,35 @@
     "translation": "我们是头脑简单的生物。",
     "stage": 1,
     "context": "Text = 'We are but simple creatures.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "onDetermineStartScreen = function onDetermineStartScreen(){\n    return \"A\";;\n    return;\n}"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "e27b832cfc88ee24dfda4896776ecba73a8ee906a593973f659d2b6e769c762c",
+    "original": "strong1",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "2e65b4b31615d4db9e7cafd4c1ab7ae0eb0103d432891baec1748864489c9d36",
+    "original": "strong2",
+    "translation": "",
+    "context": ""
   }
 ]

@@ -86,5 +86,17 @@
     "translation": "让%name%这样的赌徒加入队伍本身也是一场豪赌。但现在看来，你显然做出了正确的选择。你上次听到的消息是，他还在战团里，并且用他的收入来丰富他的生活习惯。有传言说，他通过一系列胜利，已经秘密地成为了世界上最富有的人之一。你认为这是一派胡言，但出人意料的是，越来越多的官员放松了对赌博的管制……",
     "stage": 1,
     "context": "this.m.GoodEnding = \"It was perhaps a risk to take a gambler like %name% into your ranks. Now, many days later it's obvious you made the right choice. Last you heard, he was still with the company and uses his earnings to enrich his habits. Rumor has it that, through all his winnings, he's secretly become one of the richest men in all the land. You think it's a bunch of hogwash, but a surprising number of mayors have become suddenly lax on gaming...\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

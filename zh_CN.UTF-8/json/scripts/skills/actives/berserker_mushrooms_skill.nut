@@ -78,5 +78,29 @@
     "translation": "吃下怪异蘑菇或递给接邻盟友。吃下会让人进入一种不顾自身安危的迷幻愤怒状态。可能导致疾病。效果会用4回合慢慢消退。陷入近战后无法使用，接受物品的人需要有一个空的背包栏位。",
     "stage": 1,
     "context": "this.m.Description = 'Give to an adjacent ally or eat yourself strange mushrooms to enter a state of trance-like rage with no regard for your safety. May result in sickness. The effect will slowly wear off over 4 turns. Can not be used while engaged in melee, and anyone receiving the item needs to have a free bag slot.'"
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]Can not be used because this character is engaged in melee[/color]\""
+  },
+  {
+    "key": "c9046f7a37ad0ea7cee73355984fa5428982f8b37c8f7bcec91f7ac71a7cd104",
+    "original": "description",
+    "translation": "",
+    "context": "type = \"description\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
+  },
+  {
+    "key": "aaf2320646108059a87ab5017a86aee454f5378ed95003dbb2e12f4ca5266e0e",
+    "original": "title",
+    "translation": "",
+    "context": "type = \"title\""
   }
 ]

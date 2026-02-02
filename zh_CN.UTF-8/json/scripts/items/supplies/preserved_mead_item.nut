@@ -14,5 +14,11 @@
     "translation": "食物。一种闪着银光的灰白色液体。味道很差，但几乎不会变质。",
     "stage": 5,
     "context": "this.m.Description = 'Provisions. This ashen liquid has small sparkles of silver swirrling about. The taste is off, but it hardly ever spoils.'"
+  },
+  {
+    "key": "a3b50c476732c7409d297c3d7d0e23569fee5e08318553ae76041ab5fe60582e",
+    "original": "State",
+    "translation": "",
+    "context": "\"State\" && this.World.State != null && this.World.State.getCurrentTown() != null"
   }
 ]

@@ -30,5 +30,23 @@
     "translation": "不幸的送信员。",
     "stage": 1,
     "context": "Text = 'Woe is the mailman.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "38de3a04e4a8e54a4ff9c9f3c4159bc040674b84992607e49285b3e970a95c42",
+    "original": "houndmaster",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "050f993ea2322d4b6940f8560a253a11709fdc5ab08fd994bceb096846ea1645",
+    "original": "messenger",
+    "translation": "",
+    "context": ""
   }
 ]

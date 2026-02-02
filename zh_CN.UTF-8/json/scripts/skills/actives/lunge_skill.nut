@@ -54,5 +54,17 @@
     "translation": "突刺但被击退",
     "stage": 5,
     "context": "this.Tactical.EventLog.log(this.Const.UI.getColorizedEntityName(_entity) + ' lunges and is repelled')"
+  },
+  {
+    "key": "d72ca55072c3beeea4376a45ffed620a71467843395b71ef3e56940d51b6f1a9",
+    "original": "[color=",
+    "translation": "",
+    "context": "\"[color=\" + this.Const.UI.Color.NegativeValue + \"]Can not be used while rooted[/color]\""
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

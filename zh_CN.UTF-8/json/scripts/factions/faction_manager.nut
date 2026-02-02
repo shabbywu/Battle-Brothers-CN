@@ -102,5 +102,35 @@
     "translation": "敌人",
     "stage": 1,
     "context": "f.setName('Enemy')"
+  },
+  {
+    "key": "f685d5e40f7f7bfe7821021fd683301c35b0295938dd86d09adcde6f24276fc8",
+    "original": "citystatename",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "fb7b735d30192062a7b74375e7e40d30d44c0f15bb9511097705f746b9e738c0",
+    "original": "factionfortressname",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "ee3957448f870be6e8ade6815fdad2a8db16a4719d65c88da722c5c1b0b5fce0",
+    "original": "noblehousename",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "8cbafdf1e1ec159746643e704e1d429ae42cf0afc1dc2c903a9ae67f27734bd6",
+    "original": "othernoblehouse",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "f55be96d18ab9e334dc7194c752af2ee724329284120964305068ae6ec80e80c",
+    "original": "regionname",
+    "translation": "",
+    "context": ""
   }
 ]

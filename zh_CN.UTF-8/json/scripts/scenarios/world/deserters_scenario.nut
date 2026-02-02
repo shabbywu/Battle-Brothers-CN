@@ -70,5 +70,11 @@
     "translation": "你和你的人都被遗弃了",
     "stage": 1,
     "context": "f.addPlayerRelation(-100.0, 'You and your men deserted')"
+  },
+  {
+    "key": "982d9e3eb996f559e633f4d194def3761d909f5a3b647d1a851fead67c32c9d1",
+    "original": "text",
+    "translation": "",
+    "context": "type = \"text\""
   }
 ]

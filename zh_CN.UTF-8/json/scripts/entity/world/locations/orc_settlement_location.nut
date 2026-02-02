@@ -6,5 +6,11 @@
     "translation": "一大片散发着恶臭的帐篷海，其中最大的是军阀的帐篷和王座室。这里是整个部落的家园，直到他们去其他地方狩猎和突袭。",
     "stage": 5,
     "context": "return \"A large and foul-smelling sea of tents, with a warlord's tent and throne-room in the middle, the largest of all. It's home to a whole tribe until they move on to hunt and raid elsewhere.\";"
+  },
+  {
+    "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
+    "original": "body",
+    "translation": "",
+    "context": ""
   }
 ]

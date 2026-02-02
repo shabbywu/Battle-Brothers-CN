@@ -46,5 +46,17 @@
     "translation": "杀人放火的确是很好的睡前故事。",
     "stage": 1,
     "context": "Text = 'Killing men does make for great bedtime stories.'"
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "8e15c6fcf32b0717f0b2058e3df741fb0ab054144f2ee80111d61a35391b8fd0",
+    "original": "retiredsoldier",
+    "translation": "",
+    "context": ""
   }
 ]

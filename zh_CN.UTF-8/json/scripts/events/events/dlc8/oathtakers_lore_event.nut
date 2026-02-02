@@ -70,5 +70,47 @@
     "translation": "[img]gfx/ui/events/event_97.png[/img]{你轻敲了安瑟姆年轻时的头骨。%SPEECH_ON%安瑟姆年轻时是第一位誓言守护者，也是誓言守护者运动的开端。他最早意识到，真正的人性需要牺牲。他相信，而且是正确的，当人类最初在这个星球上游荡时，他身处痛苦之中，正是在那种状态下让他做出最伟大的进步。而现在的我们，离事情发生的那时已经很远了。现在的一切太过美好。%SPEECH_OFF%其中一个孩子刮掉了一个黑色的疙瘩，然后把它弹到另一个孩子的脸上。另一个孩子擦掉它，然后挤出一个脓包，把脓液涂在另一个孩子的身上。当他们争吵的时候，你继续前进。%SPEECH_ON%安瑟姆年轻时认识到这个世界需要回到一种牺牲的生活方式，放弃享受的元素，锤炼自己在苦难的磨石中。当然，这让安瑟姆年轻时招来了很多敌人。%SPEECH_OFF%其中一个孩子抬起头问安瑟姆年轻时是怎么死的。你微笑着说那是另一个时候的故事。}",
     "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_97.png[/img]{You tap Young Anselm's skull.%SPEECH_ON%Young Anselm was the First Oathtaker, the beginning of the Oathtakers. He was the first to realize that the true nature of man required sacrifice. He believed, and rightly so, that when man first wandered the earth, he did so in a state of suffering, and it was in that being that he made his greatest advances. What we have now is so very far away from how things were. Things are simply too good now.%SPEECH_OFF%One of the kids scratches off a black scab and flicks it onto the face of another. The other kid wipes it away and pops a pustule and rubs the pus all over the other kid. While they quarrel, you continue on.%SPEECH_ON%Young Anselm realized this world needed to return to a life of sacrifice, to give up elements of what you enjoy, to sharpen oneself against the grindstone of suffering. Naturally, this made Young Anselm many enemies.%SPEECH_OFF%One of the kids looks up and asks how it was that Young Anselm died. You smile and say that is a story for another time.}\""
+  },
+  {
+    "key": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "original": "A",
+    "translation": "",
+    "context": "ID = \"A\""
+  },
+  {
+    "key": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "original": "B",
+    "translation": "",
+    "context": "\"B\" + i"
+  },
+  {
+    "key": "05816a1560db947d6ff798e30909816f400f14230e9a06afac8f8b213127aa21",
+    "original": "B0",
+    "translation": "",
+    "context": "ID = \"B0\""
+  },
+  {
+    "key": "5b950e77941d01cdf246d00b1ece546bc95234b77d98b44c9187e2733afa696a",
+    "original": "B1",
+    "translation": "",
+    "context": "ID = \"B1\""
+  },
+  {
+    "key": "abdbc2b5cc2c7a519b72bf7a164c58ebf892ab0c2df6468213705cc2f0da8561",
+    "original": "B2",
+    "translation": "",
+    "context": "ID = \"B2\""
+  },
+  {
+    "key": "2ae6fe7b558341a07c31696d13a0c2bc6c8689883681df07dfd620c4a4f35b54",
+    "original": "oathtaker",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "cce8cfe2ad73528fe61142ab4f5cda39410f936f701b34c2a94f736ac0a8797d",
+    "original": "townname",
+    "translation": "",
+    "context": ""
   }
 ]

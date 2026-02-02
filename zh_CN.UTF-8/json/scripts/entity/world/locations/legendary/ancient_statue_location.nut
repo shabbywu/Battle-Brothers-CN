@@ -14,5 +14,11 @@
     "translation": "一座巨大的雕像在阳光下闪闪发亮，俯瞰着周围的风光。",
     "stage": 5,
     "context": "return 'A huge statue glittering in the sun that towers over the surrounding landscape.';"
+  },
+  {
+    "key": "230d8358dc8e8890b4c58deeb62912ee2f20357ae92a5cc861b98e68fe31acb5",
+    "original": "body",
+    "translation": "",
+    "context": ""
   }
 ]
