@@ -1,0 +1,182 @@
+[
+  {
+    "key": "6f726fc77b4df6ce7802402b5b22b1df8a4be30015c423307b0eee66f71c4ca0",
+    "original": " gains [color=",
+    "translation": "",
+    "context": "_event.m.Juggler.getName() + \" gains [color=\" + this.Const.UI.Color.PositiveEventValue + \"]+\" + meleeSkill + \"[/color] Melee Skill\""
+  },
+  {
+    "key": "7f2b82eacbfbecadf5a0aede8f54250ed5f154873e6ae77202e10df23f95d18f",
+    "original": " jumped in to perform the act with him, possibly saving his life. Afterwards, %name% finally had enough of his trade and volunteered to join your company.",
+    "translation": "",
+    "context": "\"You found %name% on the streets of \" + _event.m.Town.getName() + \", ready to put on fiery display of record-breaking fire juggling that could have well cost him his life. Luckily, \" + _event.m.Juggler.getName() + \" jumped in to perform the act with him, possibly saving his life. Afterwards, %name% finally had enough of his trade and volunteered to join your company.\""
+  },
+  {
+    "key": "a9af0abbeeced19692c40c47181e3897014bbeda71d7d6aaf0ae0d0f9d0d78a2",
+    "original": "%juggler%, you can juggle, can't you help him?",
+    "translation": "",
+    "context": "Text = \"%juggler%, you can juggle, can't you help him?\""
+  },
+  {
+    "key": "d6c657b1efbcbd5e163c93ae6a0b259444e7288205ad13d39f7581970da85f8b",
+    "original": ", ready to put on fiery display of record-breaking fire juggling that could have well cost him his life. Luckily, ",
+    "translation": "",
+    "context": "\"You found %name% on the streets of \" + _event.m.Town.getName() + \", ready to put on fiery display of record-breaking fire juggling that could have well cost him his life. Luckily, \" + _event.m.Juggler.getName() + \" jumped in to perform the act with him, possibly saving his life. Afterwards, %name% finally had enough of his trade and volunteered to join your company.\""
+  },
+  {
+    "key": "1f1b8deaf876a9e0b37464f3a4181fc449364378095fb6adb35a1c8ab00ccc67",
+    "original": "At %townname%",
+    "translation": "",
+    "context": "this.m.Title = \"At %townname%\""
+  },
+  {
+    "key": "eda3acf227afbb60e8a52d6657ac66c9f56e7412e9450546d3b8bbae4c2f21c6",
+    "original": "Bravo!",
+    "translation": "",
+    "context": "Text = \"Bravo!\""
+  },
+  {
+    "key": "7e4b5174e9634ddd3a97ea42a9f5b97577d98cd84042ba7c1e8ac14c5b3c4068",
+    "original": "Gold is gold.",
+    "translation": "",
+    "context": "Text = \"Gold is gold.\""
+  },
+  {
+    "key": "b923f937e723f2b22a03b10cf083d0024f72531d55d335f8debdf0ea323ba173",
+    "original": "Got saved from a possible flaming death by a fellow juggler",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "03a1cb3f6c9d720b4774cdcf5fc3dde8022ee8f8a9ccaefdfd72c0a25fa10895",
+    "original": "Let's see how he does it.",
+    "translation": "",
+    "context": "Text = \"Let's see how he does it.\""
+  },
+  {
+    "key": "520f13871c7adcfa991d885757a085b249812bc1d2a9b58e03678c0622bbdcdd",
+    "original": "May the Gilder's path for us both be as good as you hope.",
+    "translation": "",
+    "context": "Text = \"May the Gilder's path for us both be as good as you hope.\""
+  },
+  {
+    "key": "0316a059303c1083e4d3a8f64e7a2ce124c655fa43eee22bbc32029c84e172de",
+    "original": "Put on a great display of fire juggling",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "32844e5d6de8e039c814b596340266c1f07e7dd6f9893281b1df8165dc162fcf",
+    "original": "Show's over, folks.",
+    "translation": "",
+    "context": "Text = \"Show's over, folks.\""
+  },
+  {
+    "key": "ecf80bccd30eaee97f703ce97a53baae7790d19e3943a0935dcaffba0f781ea1",
+    "original": "Take care.",
+    "translation": "",
+    "context": "Text = \"Take care.\""
+  },
+  {
+    "key": "47ee9d51772dff89a344d65e94757637d289ad67eef297efe4dac6ea9c6491d5",
+    "original": "This is no place for you.",
+    "translation": "",
+    "context": "Text = \"This is no place for you.\""
+  },
+  {
+    "key": "6b3b97845b8d3285090e6f98731d315627bd37e48b25ef9277b521d679c016d3",
+    "original": "Was entertained by a fire juggler",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "69c101007463d3b89a31e285264664f1a0cfdebb8e512dc25f9bd3c0c77ed701",
+    "original": "We need to help him!",
+    "translation": "",
+    "context": "Text = \"We need to help him!\""
+  },
+  {
+    "key": "9fab47bfbfea785a1f0d28e6bcc613b2014ba121fd0cfee22b9be02d6b88e75e",
+    "original": "Welcome to the %companyname%.",
+    "translation": "",
+    "context": "Text = \"Welcome to the %companyname%.\""
+  },
+  {
+    "key": "af42c99c9d084492be2bcf4c6c7ff755bd083b6874c31514a8a10bd1baa5bf3d",
+    "original": "You found %name% on the streets of ",
+    "translation": "",
+    "context": "\"You found %name% on the streets of \" + _event.m.Town.getName() + \", ready to put on fiery display of record-breaking fire juggling that could have well cost him his life. Luckily, \" + _event.m.Juggler.getName() + \" jumped in to perform the act with him, possibly saving his life. Afterwards, %name% finally had enough of his trade and volunteered to join your company.\""
+  },
+  {
+    "key": "75c45e6b8866c7aacf8d3a14cae5d644d278d2f53ab2cc835118e64cc9d12404",
+    "original": "You gain [color=",
+    "translation": "",
+    "context": "\"You gain [color=\" + this.Const.UI.Color.PositiveEventValue + \"]\" + money + \"[/color] Crowns\""
+  },
+  {
+    "key": "4c7191ec29bcad5f88c9782f841c0151bf3019e2218c080ea4787ee82639d2e1",
+    "original": "[/color] Crowns",
+    "translation": "",
+    "context": "\"You gain [color=\" + this.Const.UI.Color.PositiveEventValue + \"]\" + money + \"[/color] Crowns\""
+  },
+  {
+    "key": "7ae66dcfdc3ff6bf0b3ecee311ea224a88691fb732a31d0345ccc9f755fdf179",
+    "original": "[/color] Melee Skill",
+    "translation": "",
+    "context": "_event.m.Juggler.getName() + \" gains [color=\" + this.Const.UI.Color.PositiveEventValue + \"]+\" + meleeSkill + \"[/color] Melee Skill\""
+  },
+  {
+    "key": "2938b778737e7eec01ddc5ea8f45cdaa3b247a930d245c108a68995649394b48",
+    "original": "[img]gfx/ui/events/event_163.png[/img]{%juggler%, the company's own former juggler, steps forward. He walks up on the 'stage' which precariously hangs over the vat of oil. The two exchange words, then %juggler% is the one left standing. He performs the act - one he has neither practiced nor seen before - and completes it without issue. The crowd is silent, though. They merely watch, only occasionally glancing at you and the company. When %juggler% finishes he opens his arms wide, but there is no applause.%SPEECH_ON%The Gilded spits on Crownlings, interloper, you dance for no one. And you, fire juggler, what do you have to say for yourself?%SPEECH_OFF%%townname%'s fire juggler thinks, then turns to you.%SPEECH_ON%I say I am tired of this nonsense, and if the Gilded one so despises us, then I'll have him despise me between the ranks of this here company. What say you, captain of the Crownlings, will you take me aboard?%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_163.png[/img]{%juggler%, the company's own former juggler, steps forward. He walks up on the 'stage' which precariously hangs over the vat of oil. The two exchange words, then %juggler% is the one left standing. He performs the act - one he has neither practiced nor seen before - and completes it without issue. The crowd is silent, though. They merely watch, only occasionally glancing at you and the company. When %juggler% finishes he opens his arms wide, but there is no applause.%SPEECH_ON%The Gilded spits on Crownlings, interloper, you dance for no one. And you, fire juggler, what do you have to say for yourself?%SPEECH_OFF%%townname%'s fire juggler thinks, then turns to you.%SPEECH_ON%I say I am tired of this nonsense, and if the Gilded one so despises us, then I'll have him despise me between the ranks of this here company. What say you, captain of the Crownlings, will you take me aboard?%SPEECH_OFF%}\""
+  },
+  {
+    "key": "639e3243c848317d0ada20bca900a6cb180bd293a277632eecb4cb5654c9a0b9",
+    "original": "[img]gfx/ui/events/event_163.png[/img]{A fire juggler has the eyes of everyone in a plaza of %townname%. He's got a trip-set of torches with bronze handles. His routine goes fairly well, but he does drop a torch at one point which raises some jeers in return. The next act he is to place a board over an open barrel of oil and then juggle the torches, arms out at his sides, except now with five torches instead of three.\n\nIn summary, his next act seems to be one of suicide and he unsurprisingly looks reluctant to follow through with it. But the crowed continues to cheer and jeer, no doubt snorting and huffing like a wolf pressing a deer to the cliffside, and the juggler, wide-eyed looks around for some form of escape.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_163.png[/img]{A fire juggler has the eyes of everyone in a plaza of %townname%. He's got a trip-set of torches with bronze handles. His routine goes fairly well, but he does drop a torch at one point which raises some jeers in return. The next act he is to place a board over an open barrel of oil and then juggle the torches, arms out at his sides, except now with five torches instead of three.\\n\\nIn summary, his next act seems to be one of suicide and he unsurprisingly looks reluctant to follow through with it. But the crowed continues to cheer and jeer, no doubt snorting and huffing like a wolf pressing a deer to the cliffside, and the juggler, wide-eyed looks around for some form of escape.}\""
+  },
+  {
+    "key": "8e819aa99d51a2e3576e744a0b92fab95c89c727a955620c70b7ef6332968e22",
+    "original": "[img]gfx/ui/events/event_163.png[/img]{You cross your arms and await the show. The fire juggler swallows hard and gets up on the barrel. He lowers a torch down and one of the villagers lights it, but when the jester pulls the torch up the villager pretends to throw their own fire into the vat of oil. The juggler jerks away momentarily and the crowd laughs as the bemused jester laughs.\n\n But the jester nails the act. All five torches whirl and twirl and a couple of times an ember sputters down and hits the rim of the oil barrel, but he is in control, and the crowd's jeers turn to cheers and when he is done they clap and then slowly disperse, going on to the next form of entertainment. One man drops a few crowns in the juggler's hands and that's that.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_163.png[/img]{You cross your arms and await the show. The fire juggler swallows hard and gets up on the barrel. He lowers a torch down and one of the villagers lights it, but when the jester pulls the torch up the villager pretends to throw their own fire into the vat of oil. The juggler jerks away momentarily and the crowd laughs as the bemused jester laughs.\\n\\n But the jester nails the act. All five torches whirl and twirl and a couple of times an ember sputters down and hits the rim of the oil barrel, but he is in control, and the crowd's jeers turn to cheers and when he is done they clap and then slowly disperse, going on to the next form of entertainment. One man drops a few crowns in the juggler's hands and that's that.}\""
+  },
+  {
+    "key": "c23ec60cfc05c78f24e9f06ff8efc5f168c50dacf64278ba4600a699543b3a6d",
+    "original": "[img]gfx/ui/events/event_163.png[/img]{You cross your arms and await the show. The fire juggler swallows hard and gets up on the barrel. He lowers a torch down and one of the villagers lights it, but when the jester pulls the torch up the villager pretends to throw their own fire into the vat of oil. The juggler jerks away momentarily and the crowd laughs as the bemused jester laughs.\n\n When the jester starts his act, he begins with setting himself on fire. Literally the first torch slips his hand and goes right into the vat which launches a plume of flame from which there is no discerning between man and fire aside from the hellish screams. He scrambles off the 'stage' and the crowd only rears back to point and laugh. When he is dead, his crowns are taken by one of the residents. They lift the gold to the sky, make a passing mention of the Gilded one, then dump the crowns into the flames. His body is left for the dogs. After all is said and done, you kick around in the ashes and find a plate of melted gold. Not exactly of much value, but it's gotta be worth something and you take it when no one - not even the dogs - are looking.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_163.png[/img]{You cross your arms and await the show. The fire juggler swallows hard and gets up on the barrel. He lowers a torch down and one of the villagers lights it, but when the jester pulls the torch up the villager pretends to throw their own fire into the vat of oil. The juggler jerks away momentarily and the crowd laughs as the bemused jester laughs.\\n\\n When the jester starts his act, he begins with setting himself on fire. Literally the first torch slips his hand and goes right into the vat which launches a plume of flame from which there is no discerning between man and fire aside from the hellish screams. He scrambles off the 'stage' and the crowd only rears back to point and laugh. When he is dead, his crowns are taken by one of the residents. They lift the gold to the sky, make a passing mention of the Gilded one, then dump the crowns into the flames. His body is left for the dogs. After all is said and done, you kick around in the ashes and find a plate of melted gold. Not exactly of much value, but it's gotta be worth something and you take it when no one - not even the dogs - are looking.}\""
+  },
+  {
+    "key": "d39dad6a33e64d840b4e509372d9b374768e0b7d8c5ff2dc0124a6a1f0501fe3",
+    "original": "[img]gfx/ui/events/event_163.png[/img]{You nod.%SPEECH_ON%Fireling, Crownling, whatever. You're with the %companyname%.%SPEECH_OFF%The crowd hisses again, but you tell them to fuck off, peppering the threat with a flash of your sword just in case they had any problems understanding. %firejuggler%, the fire juggler, thanks you profusely and quickly goes to your ranks where the company welcomes him about as begrudgingly as they do any new recruit. As for %townname%'s people, they quickly tire of the drama and move on with their lives.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_163.png[/img]{You nod.%SPEECH_ON%Fireling, Crownling, whatever. You're with the %companyname%.%SPEECH_OFF%The crowd hisses again, but you tell them to fuck off, peppering the threat with a flash of your sword just in case they had any problems understanding. %firejuggler%, the fire juggler, thanks you profusely and quickly goes to your ranks where the company welcomes him about as begrudgingly as they do any new recruit. As for %townname%'s people, they quickly tire of the drama and move on with their lives.}\""
+  },
+  {
+    "key": "c432ae39499be9b9bbb2db9202dc204bec6c6752faa71173fe78dd95c8afc692",
+    "original": "[img]gfx/ui/events/event_163.png[/img]{You shake your head. The fire juggler lowers his.%SPEECH_ON%Oh. I thought we had a thing here.%SPEECH_OFF%Pursing your lips, you shake your head again.%SPEECH_ON%No...there is no 'thing' here. I just don't want you in my company, no hard feelings. Keep, uh, practicing. You know, with the fire, and the sticks, you'll get it someday I'm sure.%SPEECH_OFF%The fire juggler nods.%SPEECH_ON%Of course. And though you have rejected me, I believe the Gilder has us both just where we are meant to be, and that His intention was not for our paths to cross fruitlessly. I will be sure to speak highly of your company wherever I go!%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_163.png[/img]{You shake your head. The fire juggler lowers his.%SPEECH_ON%Oh. I thought we had a thing here.%SPEECH_OFF%Pursing your lips, you shake your head again.%SPEECH_ON%No...there is no 'thing' here. I just don't want you in my company, no hard feelings. Keep, uh, practicing. You know, with the fire, and the sticks, you'll get it someday I'm sure.%SPEECH_OFF%The fire juggler nods.%SPEECH_ON%Of course. And though you have rejected me, I believe the Gilder has us both just where we are meant to be, and that His intention was not for our paths to cross fruitlessly. I will be sure to speak highly of your company wherever I go!%SPEECH_OFF%}\""
+  },
+  {
+    "key": "c4a2b0bc486091966e23b9957e8e9e2cfa3058b7ffe4b4bb247fa99db15a2aa6",
+    "original": "[img]gfx/ui/events/event_163.png[/img]{You sigh and step forward, yelling loudly at the juggler, feigning as though you are his manager, telling him he is not to give away the big show quite yet. The crowd quiets down, confused, then jeers at you. A draw of half your sword quiets them, and others murmur word of 'Crownling', manifesting a series of hisses and boos. But they ultimately disperse. The fire juggler steps down from his theater piece and thanks you repeatedly.%SPEECH_ON%I am not ready, I am not ready, and this you see with an eagle's eye, kind stranger! Here, my day's earnings, have all of it, for none of it would have meant a crown to me were I to step up there and die!%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_163.png[/img]{You sigh and step forward, yelling loudly at the juggler, feigning as though you are his manager, telling him he is not to give away the big show quite yet. The crowd quiets down, confused, then jeers at you. A draw of half your sword quiets them, and others murmur word of 'Crownling', manifesting a series of hisses and boos. But they ultimately disperse. The fire juggler steps down from his theater piece and thanks you repeatedly.%SPEECH_ON%I am not ready, I am not ready, and this you see with an eagle's eye, kind stranger! Here, my day's earnings, have all of it, for none of it would have meant a crown to me were I to step up there and die!%SPEECH_OFF%}\""
+  },
+  {
+    "key": "f1123396b7f815b3b233217c20306f55e5684cc350467d4fba20a2759146b747",
+    "original": "firejuggler",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "d4e9785831b03a513aaa86d75c6902ac43cd193cd8a9cdbc490fd1f4c7818eaa",
+    "original": "the Fire Juggler",
+    "translation": "",
+    "context": ""
+  }
+]

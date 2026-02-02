@@ -1,0 +1,164 @@
+[
+  {
+    "key": "8c4401d0753098d7a38cbf7246a4f9cc426e9ba62a6ea25d2de002bed9e8fc3a",
+    "original": " suffers ",
+    "translation": "",
+    "context": "_event.m.HurtBro.getName() + \" suffers \" + injury.getNameOnly()"
+  },
+  {
+    "key": "ae31efc9bb7ce0a89c17317e6d702b0584f6bd73fe7518a2ae9d3464a76b1d5b",
+    "original": "Along the way...",
+    "translation": "",
+    "context": "this.m.Title = \"Along the way...\""
+  },
+  {
+    "key": "ed3aa2764968afe70c88bddc93f66157ad691e56315942dd52064d2b5c7d67cd",
+    "original": "Better to kill that thing now.",
+    "translation": "",
+    "context": "Text = \"Better to kill that thing now.\""
+  },
+  {
+    "key": "2b42eb2d1982ee5b3aa7aae6234890879a0ea65904d00a99fe8d29ef2e5ec018",
+    "original": "Goddammit.",
+    "translation": "",
+    "context": "Text = \"Goddammit.\""
+  },
+  {
+    "key": "7c1e78df60eeb5b263b31d8fefa5f117225cdbd98da5369b6d2cc4d8fcb8d523",
+    "original": "Have a nice day. ",
+    "translation": "",
+    "context": "Text = \"Have a nice day. \""
+  },
+  {
+    "key": "4f22ce6783b75ef4b90c3f12d991013f18e5073373fee3c46ea249e8f961a203",
+    "original": "Let's take a closer look.",
+    "translation": "",
+    "context": "Text = \"Let's take a closer look.\""
+  },
+  {
+    "key": "5978378280c376619c5589794511adcc04dc699d6c98b78e4b405e7f3ef911ff",
+    "original": "Rest in peace, hermit.",
+    "translation": "",
+    "context": "Text = \"Rest in peace, hermit.\""
+  },
+  {
+    "key": "e91a3fa9c4bfd4c9e65ac20746fc510624e92584d7cce17a90289cb25289fab5",
+    "original": "Take it easy.",
+    "translation": "",
+    "context": "Text = \"Take it easy.\""
+  },
+  {
+    "key": "7665fa966241b5bd1b3d0bf909190316f9be780fa9f791b964b17f960c1b6d85",
+    "original": "That goblin will only get free and report to its true friends!",
+    "translation": "",
+    "context": "Text = \"That goblin will only get free and report to its true friends!\""
+  },
+  {
+    "key": "f577e3805acaaea2d6628d43e7e375af2188e6c538ed134d040f80fa39f56754",
+    "original": "We've got no time for crazies.",
+    "translation": "",
+    "context": "Text = \"We've got no time for crazies.\""
+  },
+  {
+    "key": "79d5eb1320a8473b0020ce29589b188de9f92887dfc454d6f2bedd3783ccac73",
+    "original": "What a madman.",
+    "translation": "",
+    "context": "Text = \"What a madman.\""
+  },
+  {
+    "key": "a064943c573acdb849fd354f0524d62c93f2c5f747e6af3212cac4a890603ea5",
+    "original": "Who chains up a friend?",
+    "translation": "",
+    "context": "Text = \"Who chains up a friend?\""
+  },
+  {
+    "key": "a5b814a695ffe70f5152b14fca09eacc0450880da2082ad10a68c9d9e8d1b599",
+    "original": "Why would you keep a goblin chained up here?",
+    "translation": "",
+    "context": "Text = \"Why would you keep a goblin chained up here?\""
+  },
+  {
+    "key": "85d13cf4d5f8d972cb9d6de67c9cc3128758d8462dd3293693b2bcc94257ec0e",
+    "original": "You gain ",
+    "translation": "",
+    "context": "\"You gain \" + item.getName()"
+  },
+  {
+    "key": "85d13cf4d5f8d972cb9d6de67c9cc3128758d8462dd3293693b2bcc94257ec0e",
+    "original": "You gain ",
+    "translation": "",
+    "context": "\"You gain \" + this.Const.Strings.getArticle(item.getName()) + item.getName()"
+  },
+  {
+    "key": "41eb00b728bb1f7d4f1c2c460ae754d1549736419b7e3c28dc49a7f1bfd47b78",
+    "original": "You lose [color=",
+    "translation": "",
+    "context": "\"You lose [color=\" + this.Const.UI.Color.NegativeEventValue + \"]-2[/color] Medical Supplies.\""
+  },
+  {
+    "key": "6f136740a4c579d8fa4fb3f5dab5448c9ffb66a933c6753d88e65b9ccccfce6d",
+    "original": "You've gone mad, hermit. Mad!",
+    "translation": "",
+    "context": "Text = \"You've gone mad, hermit. Mad!\""
+  },
+  {
+    "key": "93dfd084d02c786f4caeebf11bf5438be111062e884455208b7c6335e1bcee88",
+    "original": "[img]gfx/ui/events/event_25.png[/img]Cautiously, you go back to the old man. You pick up the chain and rankle it, asking the man.%SPEECH_ON%A friend you keep shackled? If it were your true friend, you wouldn't need the chains, no?%SPEECH_OFF%The hermit shrugs.%SPEECH_ON%Yer right. Lemme go and I'll prove to you he's a real friend.%SPEECH_OFF%You let the man up and tell him to 'prove' it. He pats the dust off his clothes and steps into the cabin. The chain slackens a bit as the goblin takes a step away from the fall. Crouching before the greenskin, the hermit extends a hand.%SPEECH_ON%Hey there, buddy.%SPEECH_OFF%As he reaches to unshackle the greenskin, the goblin growls and launches forward, sinking its teeth into the man's face. You rush into the cabin and kick the goblin back. It lands against the corner, flesh and blood hanging from its lips. %randombrother% stabs a sword through the creature's face. The old man cries out, his face a visage of gore.%SPEECH_ON%You were right, I knew it true, but my heart... it's in so much pain.%SPEECH_OFF%Getting a better look, you now see a seeping crimson chasm where his nose should be. As the hermit crawls into a ball, he points across the cabin.%SPEECH_ON%Beneath the floorboards there, where the dust is unsettled. I've no use for it anymore.%SPEECH_OFF%You nod and tell %randombrother% to fix the man up. The rest of the company starts ripping out the floorboards to look beneath the crawlspace. After getting what they need, you tell the men it's time to leave. The hermit returns to his rocking chair and takes a seat. He's got his hands face up on his knees, blood running down the lengths of the fingers, and more blood dripping from a wound that is sure to fester. You can hear the blood choking him on every breath.%SPEECH_ON%I should've hidden away. That's what I always do. Why didn't I hide?%SPEECH_OFF%",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_25.png[/img]Cautiously, you go back to the old man. You pick up the chain and rankle it, asking the man.%SPEECH_ON%A friend you keep shackled? If it were your true friend, you wouldn't need the chains, no?%SPEECH_OFF%The hermit shrugs.%SPEECH_ON%Yer right. Lemme go and I'll prove to you he's a real friend.%SPEECH_OFF%You let the man up and tell him to 'prove' it. He pats the dust off his clothes and steps into the cabin. The chain slackens a bit as the goblin takes a step away from the fall. Crouching before the greenskin, the hermit extends a hand.%SPEECH_ON%Hey there, buddy.%SPEECH_OFF%As he reaches to unshackle the greenskin, the goblin growls and launches forward, sinking its teeth into the man's face. You rush into the cabin and kick the goblin back. It lands against the corner, flesh and blood hanging from its lips. %randombrother% stabs a sword through the creature's face. The old man cries out, his face a visage of gore.%SPEECH_ON%You were right, I knew it true, but my heart... it's in so much pain.%SPEECH_OFF%Getting a better look, you now see a seeping crimson chasm where his nose should be. As the hermit crawls into a ball, he points across the cabin.%SPEECH_ON%Beneath the floorboards there, where the dust is unsettled. I've no use for it anymore.%SPEECH_OFF%You nod and tell %randombrother% to fix the man up. The rest of the company starts ripping out the floorboards to look beneath the crawlspace. After getting what they need, you tell the men it's time to leave. The hermit returns to his rocking chair and takes a seat. He's got his hands face up on his knees, blood running down the lengths of the fingers, and more blood dripping from a wound that is sure to fester. You can hear the blood choking him on every breath.%SPEECH_ON%I should've hidden away. That's what I always do. Why didn't I hide?%SPEECH_OFF%\""
+  },
+  {
+    "key": "09bd2af1e31822447752bcae69433ee608f788780a16377c9ad55c440054f0c2",
+    "original": "[img]gfx/ui/events/event_25.png[/img]Keeping the goblin in sight at all times, you ask the man why he has a greenskin tied up in his cabin. The hermit cries into the floorboards.%SPEECH_ON%He's a friend! My only friend!%SPEECH_OFF%",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_25.png[/img]Keeping the goblin in sight at all times, you ask the man why he has a greenskin tied up in his cabin. The hermit cries into the floorboards.%SPEECH_ON%He's a friend! My only friend!%SPEECH_OFF%\""
+  },
+  {
+    "key": "aa0714877d01b7d6cca966f6106601988233f5fb268752c10a700fffe2275c7e",
+    "original": "[img]gfx/ui/events/event_25.png[/img]While walking through the forest, you come into a clearing where a small little hut sits. There are bear traps hanging from its walls, squirrel pelts from the eaves, and the windows are dressed with wet leaves in their corners. An old man is on the porch, rocking in his chair. He has a crossbow aimed at you.%SPEECH_ON%This is my property.%SPEECH_OFF%There's a chain running from the arm of his chair to a hatch on the bottom of the cabin door. It moves slightly to the man's speaking and he turns and butts the crossbow against the door.%SPEECH_ON%Hush, you! Now you, man with the sword, and all yer friends, get going. Another the step the wrong way, which would be my way, and I'll put a bolt up yer arse.%SPEECH_OFF%%randombrother% eases up to your side.%SPEECH_ON%What should we do, sir?%SPEECH_OFF%",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_25.png[/img]While walking through the forest, you come into a clearing where a small little hut sits. There are bear traps hanging from its walls, squirrel pelts from the eaves, and the windows are dressed with wet leaves in their corners. An old man is on the porch, rocking in his chair. He has a crossbow aimed at you.%SPEECH_ON%This is my property.%SPEECH_OFF%There's a chain running from the arm of his chair to a hatch on the bottom of the cabin door. It moves slightly to the man's speaking and he turns and butts the crossbow against the door.%SPEECH_ON%Hush, you! Now you, man with the sword, and all yer friends, get going. Another the step the wrong way, which would be my way, and I'll put a bolt up yer arse.%SPEECH_OFF%%randombrother% eases up to your side.%SPEECH_ON%What should we do, sir?%SPEECH_OFF%\""
+  },
+  {
+    "key": "81b81e58643b36bf2811ceea8712215a06cee29554f747b47097811d465059f2",
+    "original": "[img]gfx/ui/events/event_25.png[/img]You back out of the cabin and yell at the man.%SPEECH_ON%What in the old hells do you think you're doing? If that thing gets loose, it will run to the nearest greenskin encampment and bring their wrath upon this land!%SPEECH_OFF%The old man nods toward the chain.%SPEECH_ON%My very good friend is very safe, stranger, you shouldn't worry. You know nothing about who he is or his character!%SPEECH_OFF%You knock down the man with a punch and crouch low so he hears you good and proper.%SPEECH_ON%That thing is not your friend. It is a danger.%SPEECH_OFF%You nod to %randombrother% who promptly enters the cabin and kills the goblin with a quick stab. The old man cries out, blood already clotting between his teeth like crimson rinds.%SPEECH_ON%But why? What did he ever do to you? Have you no honor, killing a creature such as he?%SPEECH_OFF%You shake your head at the madman and order the rest of the company to fan out and search for items. When they're done, you leave the old man to his cabin and dead friend.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_25.png[/img]You back out of the cabin and yell at the man.%SPEECH_ON%What in the old hells do you think you're doing? If that thing gets loose, it will run to the nearest greenskin encampment and bring their wrath upon this land!%SPEECH_OFF%The old man nods toward the chain.%SPEECH_ON%My very good friend is very safe, stranger, you shouldn't worry. You know nothing about who he is or his character!%SPEECH_OFF%You knock down the man with a punch and crouch low so he hears you good and proper.%SPEECH_ON%That thing is not your friend. It is a danger.%SPEECH_OFF%You nod to %randombrother% who promptly enters the cabin and kills the goblin with a quick stab. The old man cries out, blood already clotting between his teeth like crimson rinds.%SPEECH_ON%But why? What did he ever do to you? Have you no honor, killing a creature such as he?%SPEECH_OFF%You shake your head at the madman and order the rest of the company to fan out and search for items. When they're done, you leave the old man to his cabin and dead friend.\""
+  },
+  {
+    "key": "8115bfd9a5b7b2464164a58cb551f5be57aa65061e637a611538c86f64b5b59a",
+    "original": "[img]gfx/ui/events/event_25.png[/img]You retreat from the cabin and crouch before the old man. He wriggles and begs.%SPEECH_ON%Please, don't kill 'im!%SPEECH_OFF%The man has gone mad and you tell him as much. He sobs into the porch floorboards, his breath powdering sawdust into the air. Finally, he eases his breathing and calms down.%SPEECH_ON%Yer right. I'm not all there in the head. I found the goblin in a trap a few days ago and took him in, healed him. I've no company in these parts. It gets lonely, you understand.%SPEECH_OFF%You take and reload the crossbow and then offer it to the old man.%SPEECH_ON%Can you do it?%SPEECH_OFF%The old man stares at the crossbow. He blinks a number of times and nods. Your sellswords let him up. He takes the crossbow and steps into the cabin. His aim is shaky and he's muttering apologies under his breath. The goblin is curled into a ball, shielding itself with its sickly hands.%SPEECH_ON%I'm so sorry. So very sorry.%SPEECH_OFF%The old man readies the crossbow's release, slides his finger over the trigger, and then puts the bolt beneath his chin and fires. He buckles to the floor, the shot twanging as it slams into the ceiling, scant blood dripping off its feathers. You shake your head and step into the cabin and kill the goblin off yourself. Finished, you tell the men to search the hut and take what they can.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_25.png[/img]You retreat from the cabin and crouch before the old man. He wriggles and begs.%SPEECH_ON%Please, don't kill 'im!%SPEECH_OFF%The man has gone mad and you tell him as much. He sobs into the porch floorboards, his breath powdering sawdust into the air. Finally, he eases his breathing and calms down.%SPEECH_ON%Yer right. I'm not all there in the head. I found the goblin in a trap a few days ago and took him in, healed him. I've no company in these parts. It gets lonely, you understand.%SPEECH_OFF%You take and reload the crossbow and then offer it to the old man.%SPEECH_ON%Can you do it?%SPEECH_OFF%The old man stares at the crossbow. He blinks a number of times and nods. Your sellswords let him up. He takes the crossbow and steps into the cabin. His aim is shaky and he's muttering apologies under his breath. The goblin is curled into a ball, shielding itself with its sickly hands.%SPEECH_ON%I'm so sorry. So very sorry.%SPEECH_OFF%The old man readies the crossbow's release, slides his finger over the trigger, and then puts the bolt beneath his chin and fires. He buckles to the floor, the shot twanging as it slams into the ceiling, scant blood dripping off its feathers. You shake your head and step into the cabin and kill the goblin off yourself. Finished, you tell the men to search the hut and take what they can.\""
+  },
+  {
+    "key": "694a968dd2da4f16ba62aebba0e2f4108fe19879ca3af5180ddcd62f98b811cb",
+    "original": "[img]gfx/ui/events/event_25.png[/img]You take a step forward. The old man springs off his chair and spits.%SPEECH_ON%Sonsabitches, I warned ye! I warned ye good and clear!%SPEECH_OFF%He lifts the crossbow and shoots it from the hip. The shot sails over your shoulder and shoots clear through %hurtbro%'s arm. The sellsword looks down, a feather of a shot teetering from one end of the hole, a bloodied shaft wiggling from the other. He takes a seat.%SPEECH_ON%Well fark me.%SPEECH_OFF%%randombrother% screams and rushes ahead. As the old man tries to reload, the mercenary kicks the crossbow away and throws the shooter to the ground. You tell the sellsword to keep the man alive. While the man spits and kicks, you calmly walk up to the porch and open the door to his hut. As the door swings wide, the chain shoots across the floorboards and goes taut. A dark shape takes to the corner, scuttling up its walls trying to go further than its shackles will allow. You take a torch and wave it into the darkness. There you see the prisoner. The old man shouts from the porch.%SPEECH_ON%You leave us alone! Go on now, you leave us alone!%SPEECH_OFF%There, shrinking away from your torch, is a goblin.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_25.png[/img]You take a step forward. The old man springs off his chair and spits.%SPEECH_ON%Sonsabitches, I warned ye! I warned ye good and clear!%SPEECH_OFF%He lifts the crossbow and shoots it from the hip. The shot sails over your shoulder and shoots clear through %hurtbro%'s arm. The sellsword looks down, a feather of a shot teetering from one end of the hole, a bloodied shaft wiggling from the other. He takes a seat.%SPEECH_ON%Well fark me.%SPEECH_OFF%%randombrother% screams and rushes ahead. As the old man tries to reload, the mercenary kicks the crossbow away and throws the shooter to the ground. You tell the sellsword to keep the man alive. While the man spits and kicks, you calmly walk up to the porch and open the door to his hut. As the door swings wide, the chain shoots across the floorboards and goes taut. A dark shape takes to the corner, scuttling up its walls trying to go further than its shackles will allow. You take a torch and wave it into the darkness. There you see the prisoner. The old man shouts from the porch.%SPEECH_ON%You leave us alone! Go on now, you leave us alone!%SPEECH_OFF%There, shrinking away from your torch, is a goblin.\""
+  },
+  {
+    "key": "748d6e946e7166ea6afe638c144fe48cfaf4597f425c808cf97001f3368333b2",
+    "original": "[img]gfx/ui/events/event_25.png[/img]You take a step forward. The old man springs off his chair and spits.%SPEECH_ON%Sonuvabitch.%SPEECH_OFF%He lifts the crossbow and shoots it from the hip. The shot goes wide and into the trees where it clacks and clatters off branches and shrubs. %randombrother% rushes the porch and tackles the man to the ground.%SPEECH_ON%Get your whoremongering hands off me you, you, you whoremonger!%SPEECH_OFF%While the man spits and kicks, you calmly walk up to the porch and open the door to his hut. The chain shoots across the floorboards and goes taut. A dark shape takes to the corner, scuttling up its walls trying to get further than its shackles will allow. You take a torch and wave it into the darkness. There you see the prisoner. The old man shouts from the porch.%SPEECH_ON%You leave us alone! Go on now, you leave us alone!%SPEECH_OFF%There, shrinking away from your torch, is a goblin.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_25.png[/img]You take a step forward. The old man springs off his chair and spits.%SPEECH_ON%Sonuvabitch.%SPEECH_OFF%He lifts the crossbow and shoots it from the hip. The shot goes wide and into the trees where it clacks and clatters off branches and shrubs. %randombrother% rushes the porch and tackles the man to the ground.%SPEECH_ON%Get your whoremongering hands off me you, you, you whoremonger!%SPEECH_OFF%While the man spits and kicks, you calmly walk up to the porch and open the door to his hut. The chain shoots across the floorboards and goes taut. A dark shape takes to the corner, scuttling up its walls trying to get further than its shackles will allow. You take a torch and wave it into the darkness. There you see the prisoner. The old man shouts from the porch.%SPEECH_ON%You leave us alone! Go on now, you leave us alone!%SPEECH_OFF%There, shrinking away from your torch, is a goblin.\""
+  },
+  {
+    "key": "d3996d5edd1cbf55ffa3a9ca127a6903952b51d9f0a7ee9a2b7c6f01a62f2157",
+    "original": "[img]gfx/ui/events/event_25.png[/img]You take out your sword and step into the cabin. The old man calls out to you. All the threat and posturing is gone. He's almost manically pleading for you to not hurt the goblin. But you do just that, thrusting a blade through the greenskin's chest. It heaves against the metal, gripping it with its slimy, disgusting fingers. Its grip weakens as the light leaves its eyes. You draw out the blade and wipe the blood on your pants. As though grief renewed him with unseen power, the old man cries out and manages to wrestle to his feet. He draws a dagger and comes after you, but %randombrother% stops him with a dagger of his own, bedding the blade just beneath the man's breast. Blood spews over the hilt as his heart rapidly beats the last of its life. The old man's knees buckle and slides down, clutching at his killer's arms.%SPEECH_ON%Cruel creatures... cruel...%SPEECH_OFF%He collapses onto the floorboard. You tell the company to search the cabin and take what they can.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_25.png[/img]You take out your sword and step into the cabin. The old man calls out to you. All the threat and posturing is gone. He's almost manically pleading for you to not hurt the goblin. But you do just that, thrusting a blade through the greenskin's chest. It heaves against the metal, gripping it with its slimy, disgusting fingers. Its grip weakens as the light leaves its eyes. You draw out the blade and wipe the blood on your pants. As though grief renewed him with unseen power, the old man cries out and manages to wrestle to his feet. He draws a dagger and comes after you, but %randombrother% stops him with a dagger of his own, bedding the blade just beneath the man's breast. Blood spews over the hilt as his heart rapidly beats the last of its life. The old man's knees buckle and slides down, clutching at his killer's arms.%SPEECH_ON%Cruel creatures... cruel...%SPEECH_OFF%He collapses onto the floorboard. You tell the company to search the cabin and take what they can.\""
+  },
+  {
+    "key": "4b8dbff58c2c1fba15865008e3dd9978de4ff0e496a99d1711195f649c114abe",
+    "original": "[img]gfx/ui/events/event_25.png[/img]You've no reason to further transgress upon this old man's day, and so you tell the company to give him and his hut a wide berth. The elder eyes you suspiciously every step of the way.%SPEECH_ON%Mmhmm, y'all have a good day now.%SPEECH_OFF%You nod and respond.%SPEECH_ON%Yeah, you too.%SPEECH_OFF%The chain moves again and is met with another hushing. Who knows what the hell was going on here, but the company has places to be.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_25.png[/img]You've no reason to further transgress upon this old man's day, and so you tell the company to give him and his hut a wide berth. The elder eyes you suspiciously every step of the way.%SPEECH_ON%Mmhmm, y'all have a good day now.%SPEECH_OFF%You nod and respond.%SPEECH_ON%Yeah, you too.%SPEECH_OFF%The chain moves again and is met with another hushing. Who knows what the hell was going on here, but the company has places to be.\""
+  },
+  {
+    "key": "5a53d1d386ba0ff72eaebf4e1bea4f4e49ab558c649ec54b94cb764dc8f42fc7",
+    "original": "]-2[/color] Medical Supplies.",
+    "translation": "",
+    "context": "\"You lose [color=\" + this.Const.UI.Color.NegativeEventValue + \"]-2[/color] Medical Supplies.\""
+  }
+]

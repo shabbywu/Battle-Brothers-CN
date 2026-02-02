@@ -1,0 +1,170 @@
+[
+  {
+    "key": "e262716b040e2a6f37aa35e3bb02988e6ed3a3cca7083f4da43d22b49fd455a1",
+    "original": " from sullying the company's reputation",
+    "translation": "",
+    "context": "\"Stopped \" + _event.m.Anatomist.getName() + \" from sullying the company's reputation\""
+  },
+  {
+    "key": "6f726fc77b4df6ce7802402b5b22b1df8a4be30015c423307b0eee66f71c4ca0",
+    "original": " gains [color=",
+    "translation": "",
+    "context": "_event.m.Anatomist.getName() + \" gains [color=\" + this.Const.UI.Color.PositiveEventValue + \"]+50[/color] Experience\""
+  },
+  {
+    "key": "6f726fc77b4df6ce7802402b5b22b1df8a4be30015c423307b0eee66f71c4ca0",
+    "original": " gains [color=",
+    "translation": "",
+    "context": "_event.m.Anatomist.getName() + \" gains [color=\" + this.Const.UI.Color.PositiveEventValue + \"]+100[/color] Experience\""
+  },
+  {
+    "key": "6f726fc77b4df6ce7802402b5b22b1df8a4be30015c423307b0eee66f71c4ca0",
+    "original": " gains [color=",
+    "translation": "",
+    "context": "_event.m.Monk.getName() + \" gains [color=\" + this.Const.UI.Color.PositiveEventValue + \"]+\" + resolveBoost + \"[/color] Resolve\""
+  },
+  {
+    "key": "b7bc905957708d55178221afa8341e37cfc0312b758eb88e1a3ea8b3e2fee3c6",
+    "original": " suffers light wounds",
+    "translation": "",
+    "context": "_event.m.Anatomist.getName() + \" suffers light wounds\""
+  },
+  {
+    "key": "b7bc905957708d55178221afa8341e37cfc0312b758eb88e1a3ea8b3e2fee3c6",
+    "original": " suffers light wounds",
+    "translation": "",
+    "context": "bro.getName() + \" suffers light wounds\""
+  },
+  {
+    "key": "ac63c9e73ff179189c0322c5015fea33a7eb5f027830b16643043d933cd14800",
+    "original": "%monk%, can you talk some sense into him?",
+    "translation": "",
+    "context": "Text = \"%monk%, can you talk some sense into him?\""
+  },
+  {
+    "key": "1f1b8deaf876a9e0b37464f3a4181fc449364378095fb6adb35a1c8ab00ccc67",
+    "original": "At %townname%",
+    "translation": "",
+    "context": "this.m.Title = \"At %townname%\""
+  },
+  {
+    "key": "a07c1b8caf5d27a5227aa37d62340b78dc8eef52b35b7dccd01be35dde4ef45d",
+    "original": "Damn fool.",
+    "translation": "",
+    "context": "Text = \"Damn fool.\""
+  },
+  {
+    "key": "db7f55fe27b4257960284aab33d3d978416c6ce32c84093a6b0bec614105aa0c",
+    "original": "Gave medical advice to a receptive audience",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "3d3debc368210f91bbc3196f843471c8521369cf965d781a2b47cd01c4de04a5",
+    "original": "Go on and correct him then.",
+    "translation": "",
+    "context": "Text = \"Go on and correct him then.\""
+  },
+  {
+    "key": "73139294ba65e78e9c9122fb4054f8a062d1f0af0684c8063376ac3eab0f3f83",
+    "original": "Had his medical advice rejected",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "a8917ede069ce3de159e9f38d399792d5f394c1115204b1502fbe9115628e389",
+    "original": "It's not worth upsetting the locals.",
+    "translation": "",
+    "context": "Text = \"It's not worth upsetting the locals.\""
+  },
+  {
+    "key": "8c6afc54e738dca9749deea6c7368d98f91eaaf7db6ed77735be83fa5ae2b081",
+    "original": "Learned something about dealing with the peasantry",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c1d24569b97099f55cb02a2a0a6b13f37adf4ab68fde21f432ffaa06bab6af50",
+    "original": "Let's get on on the road.",
+    "translation": "",
+    "context": "Text = \"Let's get on on the road.\""
+  },
+  {
+    "key": "42f647e2babb17283a8741563337279c6291334aa8d0165b96ffa9765cd28f65",
+    "original": "Stopped ",
+    "translation": "",
+    "context": "\"Stopped \" + _event.m.Anatomist.getName() + \" from sullying the company's reputation\""
+  },
+  {
+    "key": "5e8c976c31ed8828a36e5f465e68620ebe84b55f9e4156d80e8b869cd836ee93",
+    "original": "Thanks, %monk%.",
+    "translation": "",
+    "context": "Text = \"Thanks, %monk%.\""
+  },
+  {
+    "key": "92f80329b40a69a0eeb06e619dc47e17a7dbda9db1e6aadadc41e16274d7e35b",
+    "original": "That went well.",
+    "translation": "",
+    "context": "Text = \"That went well.\""
+  },
+  {
+    "key": "850395c40d3d7b718d05974bd981054666ae833168235d84fcf80549c06af106",
+    "original": "Was denied the chance to correct improper medical practice",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "85d13cf4d5f8d972cb9d6de67c9cc3128758d8462dd3293693b2bcc94257ec0e",
+    "original": "You gain ",
+    "translation": "",
+    "context": "\"You gain \" + food.getName()"
+  },
+  {
+    "key": "5850807ce9325ad967ef5127c48d6e89a336fd026c9370871aa452bfc9b55fb0",
+    "original": "[/color] Resolve",
+    "translation": "",
+    "context": "_event.m.Monk.getName() + \" gains [color=\" + this.Const.UI.Color.PositiveEventValue + \"]+\" + resolveBoost + \"[/color] Resolve\""
+  },
+  {
+    "key": "2303ff97f142dcda222082f561bed19ff3ac9c4f8d35e0adb25e5f6fabb6ba9c",
+    "original": "[img]gfx/ui/events/event_141.png[/img]{You think it over for a time, and decide to let the anatomist do as he pleases. Stepping aside, you turn to watch the goings on, hoping that this won't be an event to tarnish the %companyname%'s name any more than these quacks already seem determined to do. %anatomist% sidles next to the old man and they look at each other for a moment, and a few peasants stare over as well. The anatomist pops a squat and asks the old man if he realizes he is a charlatan. You put your head in your hands. The old man stands up and pushes the anatomist backward.%SPEECH_ON%And who the fark are you, huh? A traveler with a toolbox of fancy vocabulary, huh?%SPEECH_OFF%The anatomist holds his hands out and plainly explains himself to be an intelligent, very well educated man from- before he can even finish, a peasant comes over and decks him, knocking him right into the mud. The %companyname% jumps in to save the anatomist and in the scuffle a few more blows are exchanged, but thankfully that's where it ends. You get %anatomist% back into your ranks and order everyone to settle down before the sellswords-side of the %companyname% is drawn out into the open for all the laity to see. The elder nods and says he wishes not to invite the militia to these affairs. It seems everyone barely escaped a far more gruesome affair. %anatomist% only looks at the blood coming out of his nose and ponders if anyone has been counting time to see how long it takes to coagulate.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_141.png[/img]{You think it over for a time, and decide to let the anatomist do as he pleases. Stepping aside, you turn to watch the goings on, hoping that this won't be an event to tarnish the %companyname%'s name any more than these quacks already seem determined to do. %anatomist% sidles next to the old man and they look at each other for a moment, and a few peasants stare over as well. The anatomist pops a squat and asks the old man if he realizes he is a charlatan. You put your head in your hands. The old man stands up and pushes the anatomist backward.%SPEECH_ON%And who the fark are you, huh? A traveler with a toolbox of fancy vocabulary, huh?%SPEECH_OFF%The anatomist holds his hands out and plainly explains himself to be an intelligent, very well educated man from- before he can even finish, a peasant comes over and decks him, knocking him right into the mud. The %companyname% jumps in to save the anatomist and in the scuffle a few more blows are exchanged, but thankfully that's where it ends. You get %anatomist% back into your ranks and order everyone to settle down before the sellswords-side of the %companyname% is drawn out into the open for all the laity to see. The elder nods and says he wishes not to invite the militia to these affairs. It seems everyone barely escaped a far more gruesome affair. %anatomist% only looks at the blood coming out of his nose and ponders if anyone has been counting time to see how long it takes to coagulate.}\""
+  },
+  {
+    "key": "b725edfa8e27000288b3dc14c11509785d66907a57025a4343c204cd359a8e7b",
+    "original": "[img]gfx/ui/events/event_17.png[/img]{You think it over for a time, and decide to let the anatomist do as he pleases. Stepping aside, you turn to watch the goings on, hoping that this won't be an event to tarnish the %companyname%'s name any more than this quack already seems determined to do. %anatomist% sidles next to the old man and they look at each other for a moment, and a few peasants stare over as well. The anatomist pops a squat and asks the old man if he knows that the information he is giving out is incorrect.\n\nSurprisingly, the old man is receptive to the occasion, and the two sit and talk for a long while. Instead of being offended by some outsider's input, the townspeople are equally enthralled by any knowledge he might have. There's some disagreements about trivial matters, but %anatomist% himself is so warmed by the reception that he handwaves them away and even lies and says those matters are still yet to be medically settled. By the time it is all over, the anatomist hands off some notes to the old man, and the village in turn give him a bevy of treats and goods as thanks.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_17.png[/img]{You think it over for a time, and decide to let the anatomist do as he pleases. Stepping aside, you turn to watch the goings on, hoping that this won't be an event to tarnish the %companyname%'s name any more than this quack already seems determined to do. %anatomist% sidles next to the old man and they look at each other for a moment, and a few peasants stare over as well. The anatomist pops a squat and asks the old man if he knows that the information he is giving out is incorrect.\\n\\nSurprisingly, the old man is receptive to the occasion, and the two sit and talk for a long while. Instead of being offended by some outsider's input, the townspeople are equally enthralled by any knowledge he might have. There's some disagreements about trivial matters, but %anatomist% himself is so warmed by the reception that he handwaves them away and even lies and says those matters are still yet to be medically settled. By the time it is all over, the anatomist hands off some notes to the old man, and the village in turn give him a bevy of treats and goods as thanks.}\""
+  },
+  {
+    "key": "295905fd8af6f9f261686c0c203cc60ab3c4dc1541d6ea47925258c761e96472",
+    "original": "[img]gfx/ui/events/event_20.png[/img]{You come into %townname% to find a white bearded and eloquent elder helping a family with their ill child. To you, this sight isn't anything unusual. To %anatomist% the anatomist, however, some great offense is at hand. So quick is his walk across the road to the elder that you jump in front of him, sensing that whatever it is he aims to do might reflect poorly on the %companyname% as a whole. %anatomist% stands up straight.%SPEECH_ON%Excuse me, this man is dispensing poor medical advice. He needs to be corrected.%SPEECH_OFF%Mindful of the natives, you warn him that it can be unwise to try and wedge yourself in on local customs, of which an elder is almost assuredly the spearpoint of. He might be and likely is of even greater import as well, such as overseeing the local militia. The anatomist, however, is rather diligent about the task, and seeks to weaponize his own knowledge and use it even if it tears the local politic apart.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_20.png[/img]{You come into %townname% to find a white bearded and eloquent elder helping a family with their ill child. To you, this sight isn't anything unusual. To %anatomist% the anatomist, however, some great offense is at hand. So quick is his walk across the road to the elder that you jump in front of him, sensing that whatever it is he aims to do might reflect poorly on the %companyname% as a whole. %anatomist% stands up straight.%SPEECH_ON%Excuse me, this man is dispensing poor medical advice. He needs to be corrected.%SPEECH_OFF%Mindful of the natives, you warn him that it can be unwise to try and wedge yourself in on local customs, of which an elder is almost assuredly the spearpoint of. He might be and likely is of even greater import as well, such as overseeing the local militia. The anatomist, however, is rather diligent about the task, and seeks to weaponize his own knowledge and use it even if it tears the local politic apart.}\""
+  },
+  {
+    "key": "6a6c68b0d7d80970eaf53b3300ee79dce4eefcb2f02aba1a1f165b92c90a6c2f",
+    "original": "[img]gfx/ui/events/event_40.png[/img]{As %anatomist% tries to move past you, %monk% the monk intervenes. He stands by the anatomist and calmly explains that just because someone is wrong needn't mean that a foreign party step in and correct them. The loss of face in the public's eye is not going to end with the individual being corrected, it will merely bring the light of scrutiny back upon the one doing the criticizing. %anatomist% thinks this over for a time.%SPEECH_ON%Are you telling me that the error here is not in the poor advice being given out, but in the community as a whole being so maligned with falsehoods that an entrance of truth would do not all but stoke a fire to protect what they wrongfully believe?%SPEECH_OFF%The monk purses his lips and shrugs.%SPEECH_ON%Sure.%SPEECH_OFF%The anatomist does not combat it any further and walks off, perhaps mulling over some scientific element to the affair. After he is gone, the monk shakes his head.%SPEECH_ON%I just don't want him being an arse and getting the %companyname% in more trouble than it needs to be.%SPEECH_OFF%You agree, and thank the monk for putting it in better words than you ever could.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_40.png[/img]{As %anatomist% tries to move past you, %monk% the monk intervenes. He stands by the anatomist and calmly explains that just because someone is wrong needn't mean that a foreign party step in and correct them. The loss of face in the public's eye is not going to end with the individual being corrected, it will merely bring the light of scrutiny back upon the one doing the criticizing. %anatomist% thinks this over for a time.%SPEECH_ON%Are you telling me that the error here is not in the poor advice being given out, but in the community as a whole being so maligned with falsehoods that an entrance of truth would do not all but stoke a fire to protect what they wrongfully believe?%SPEECH_OFF%The monk purses his lips and shrugs.%SPEECH_ON%Sure.%SPEECH_OFF%The anatomist does not combat it any further and walks off, perhaps mulling over some scientific element to the affair. After he is gone, the monk shakes his head.%SPEECH_ON%I just don't want him being an arse and getting the %companyname% in more trouble than it needs to be.%SPEECH_OFF%You agree, and thank the monk for putting it in better words than you ever could.}\""
+  },
+  {
+    "key": "813bc5ddedc1444cf537b22339a2b9b5ac27290dbdd8671fe0c6ee01753ab7aa",
+    "original": "[img]gfx/ui/events/event_64.png[/img]{%anatomist% moves to get past you, but you put your hand to him and hold him where he is. You explain that correcting locals on their own customs and beliefs is dangerous ground to trod on, and as a sellsword you're already distrusted and seen in a bad light. The last thing you need is a few embers blown onto the drywood that is villager traditions. The anatomist protests, but you holdfast. If he wants to go around correcting everyone and everything, he can return to the schools or universities from which he came. Eventually, %anatomist% slinks off. You glance back at the town elder just in time to see him bite the head off a frog and pour its blood into a bowl for future divinations.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_64.png[/img]{%anatomist% moves to get past you, but you put your hand to him and hold him where he is. You explain that correcting locals on their own customs and beliefs is dangerous ground to trod on, and as a sellsword you're already distrusted and seen in a bad light. The last thing you need is a few embers blown onto the drywood that is villager traditions. The anatomist protests, but you holdfast. If he wants to go around correcting everyone and everything, he can return to the schools or universities from which he came. Eventually, %anatomist% slinks off. You glance back at the town elder just in time to see him bite the head off a frog and pour its blood into a bowl for future divinations.}\""
+  },
+  {
+    "key": "be1f9e9577abe949ae6de6c40691f9d3693df5ae5ed9880c677f4f61a9a7e594",
+    "original": "]+100[/color] Experience",
+    "translation": "",
+    "context": "_event.m.Anatomist.getName() + \" gains [color=\" + this.Const.UI.Color.PositiveEventValue + \"]+100[/color] Experience\""
+  },
+  {
+    "key": "40d749e164aa85199b2accf13a31f4d11faf745b081fadfa4fce7bfeca5c5b8d",
+    "original": "]+50[/color] Experience",
+    "translation": "",
+    "context": "_event.m.Anatomist.getName() + \" gains [color=\" + this.Const.UI.Color.PositiveEventValue + \"]+50[/color] Experience\""
+  }
+]

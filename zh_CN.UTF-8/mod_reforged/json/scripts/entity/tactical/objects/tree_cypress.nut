@@ -1,0 +1,26 @@
+[
+  {
+    "key": "ef3c368335447980580c5c5cf627d60fc6e961d7cddf3db30455009d13a5ca45",
+    "original": "A cypress tree. Blocks movement and line of sight.",
+    "translation": "",
+    "context": "getDescription = function getDescription(){\n    return \"A cypress tree. Blocks movement and line of sight.\";;\n    return;\n}"
+  },
+  {
+    "key": "ef3c368335447980580c5c5cf627d60fc6e961d7cddf3db30455009d13a5ca45",
+    "original": "A cypress tree. Blocks movement and line of sight.",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "84c44516e1d4972a8f5fe905bc8989817863edd30eeb18bde76b4caf9eead5ff",
+    "original": "Cypress",
+    "translation": "",
+    "context": "getName = function getName(){\n    return \"Cypress\";;\n    return;\n}"
+  },
+  {
+    "key": "84c44516e1d4972a8f5fe905bc8989817863edd30eeb18bde76b4caf9eead5ff",
+    "original": "Cypress",
+    "translation": "",
+    "context": ""
+  }
+]

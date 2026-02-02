@@ -1,0 +1,128 @@
+[
+  {
+    "key": "6f726fc77b4df6ce7802402b5b22b1df8a4be30015c423307b0eee66f71c4ca0",
+    "original": " gains [color=",
+    "translation": "",
+    "context": "_event.m.Sledder.getName() + \" gains [color=\" + this.Const.UI.Color.PositiveEventValue + \"]+1[/color] Initiative\""
+  },
+  {
+    "key": "8c4401d0753098d7a38cbf7246a4f9cc426e9ba62a6ea25d2de002bed9e8fc3a",
+    "original": " suffers ",
+    "translation": "",
+    "context": "_event.m.Fat.getName() + \" suffers \" + injury.getNameOnly()"
+  },
+  {
+    "key": "8c4401d0753098d7a38cbf7246a4f9cc426e9ba62a6ea25d2de002bed9e8fc3a",
+    "original": " suffers ",
+    "translation": "",
+    "context": "_event.m.Blind.getName() + \" suffers \" + injury.getNameOnly()"
+  },
+  {
+    "key": "8c4401d0753098d7a38cbf7246a4f9cc426e9ba62a6ea25d2de002bed9e8fc3a",
+    "original": " suffers ",
+    "translation": "",
+    "context": "_event.m.Sledder.getName() + \" suffers \" + injury.getNameOnly()"
+  },
+  {
+    "key": "ae31efc9bb7ce0a89c17317e6d702b0584f6bd73fe7518a2ae9d3464a76b1d5b",
+    "original": "Along the way...",
+    "translation": "",
+    "context": "this.m.Title = \"Along the way...\""
+  },
+  {
+    "key": "402566648e661be7597409925e10671eb3ef1c6ce8313b02aefc7b4057194cd6",
+    "original": "Blind leading the seeing.",
+    "translation": "",
+    "context": "Text = \"Blind leading the seeing.\""
+  },
+  {
+    "key": "9de530bd8e58bc646273a5e711c216bbb2e6a67e9e81aa347946b830c8714875",
+    "original": "Felt entertained",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "8d31635bef2b1289f4de6e29f52c43cd7c9b8257d56acf889985c427ee5f6e45",
+    "original": "Holy smokes!",
+    "translation": "",
+    "context": "Text = \"Holy smokes!\""
+  },
+  {
+    "key": "22c16c45ef07686f0f5461414234a6e8cf60226de1a0dc59069235529e64f9ad",
+    "original": "Looks like %fat% is volunteering.",
+    "translation": "",
+    "context": "Text = \"Looks like %fat% is volunteering.\""
+  },
+  {
+    "key": "a9668e2eacae034ee254af0c6eb2338608f48961868ebb6f66f29aee5a347fbb",
+    "original": "Looks like %shortsighted% is volunteering.",
+    "translation": "",
+    "context": "Text = \"Looks like %shortsighted% is volunteering.\""
+  },
+  {
+    "key": "981d35b693077155c8cd271066294266038e6abbab17fb170f8da8d646859bd1",
+    "original": "Nice one!",
+    "translation": "",
+    "context": "Text = \"Nice one!\""
+  },
+  {
+    "key": "c2efaca40e325fd3d883bba3e8cbdaad6bcdc844f8ca8c536b9e4f8b8abe5540",
+    "original": "Ouch.",
+    "translation": "",
+    "context": "Text = \"Ouch.\""
+  },
+  {
+    "key": "1abbf2708bcb76391e06e745b1a8db90251af6ed512ab31127259a96e3c29da4",
+    "original": "Someone step forward and do it!",
+    "translation": "",
+    "context": "Text = \"Someone step forward and do it!\""
+  },
+  {
+    "key": "0769bf18268a5838a812ed507d5fb8c9c476db92581256ad8529dc519b99d586",
+    "original": "We have more important things to take care of.",
+    "translation": "",
+    "context": "Text = \"We have more important things to take care of.\""
+  },
+  {
+    "key": "85d13cf4d5f8d972cb9d6de67c9cc3128758d8462dd3293693b2bcc94257ec0e",
+    "original": "You gain ",
+    "translation": "",
+    "context": "\"You gain \" + item.getName()"
+  },
+  {
+    "key": "2fb38f4468ae710970718efb6fdd7d5f874bc54e0d620b92cd10f7bcb33b083e",
+    "original": "[img]gfx/ui/events/event_08.png[/img]{%fat%, the fattest man in the company, elects to give it a try. You like his chances - given his weight it's likely he'll blow right down the mountainside. The mountain man readily accepts the challenge, sets the ground rules, and starts the race proper. The two rip through the snow with ease and, just as you thought, the fat man roars through the powder like lightning through a cloud. But he doesn't seem to slow. He plows right between the two cock rocks, signaling his win, but he's unable to seize the reins or slow down. He barrels over an escarpment and that's about the last of you see of him. The mountain man grimaces and runs toward the hillside.%SPEECH_ON%He's alive! Little busted up, but alive!%SPEECH_OFF%Though you're mightily concerned, you look back to see that the company whole is doubled over or on their knees choking with laughter.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_08.png[/img]{%fat%, the fattest man in the company, elects to give it a try. You like his chances - given his weight it's likely he'll blow right down the mountainside. The mountain man readily accepts the challenge, sets the ground rules, and starts the race proper. The two rip through the snow with ease and, just as you thought, the fat man roars through the powder like lightning through a cloud. But he doesn't seem to slow. He plows right between the two cock rocks, signaling his win, but he's unable to seize the reins or slow down. He barrels over an escarpment and that's about the last of you see of him. The mountain man grimaces and runs toward the hillside.%SPEECH_ON%He's alive! Little busted up, but alive!%SPEECH_OFF%Though you're mightily concerned, you look back to see that the company whole is doubled over or on their knees choking with laughter.}\""
+  },
+  {
+    "key": "243e3ca32111627d183a9b8690827e9c9ba2ae3beade716be66c01e0d643d63e",
+    "original": "[img]gfx/ui/events/event_143.png[/img]{%shortsighted% volunteers to race the mountain man. You are reluctant to allows that, given the sellsword's poor eyesight, but he is pretty diligent about the matter. As he squats on the sled and takes up the reins you can't help but notice that he is already squinting downhill as though he wouldn't tell a mountainside from a red barn.%SPEECH_ON%Ready!%SPEECH_OFF%The mountain man sets the rules and starts the race. Almost immediately the shortsighted sellsword veers off course. Thankfully he's not even full speed when he slams head first into a rock formation. The sled shatters like a tomato against a pillory and the man himself pancakes against the stone. You rush to his aide and get him to his feet, but there you find your foot stepping on something metallic. A treasure chest! You tell the company to get the man some proper help while you dig out what you can.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_143.png[/img]{%shortsighted% volunteers to race the mountain man. You are reluctant to allows that, given the sellsword's poor eyesight, but he is pretty diligent about the matter. As he squats on the sled and takes up the reins you can't help but notice that he is already squinting downhill as though he wouldn't tell a mountainside from a red barn.%SPEECH_ON%Ready!%SPEECH_OFF%The mountain man sets the rules and starts the race. Almost immediately the shortsighted sellsword veers off course. Thankfully he's not even full speed when he slams head first into a rock formation. The sled shatters like a tomato against a pillory and the man himself pancakes against the stone. You rush to his aide and get him to his feet, but there you find your foot stepping on something metallic. A treasure chest! You tell the company to get the man some proper help while you dig out what you can.}\""
+  },
+  {
+    "key": "a2652288c95635985dc78618fa9acd39a7d3b114ce16bb17da0cf8414a8719b1",
+    "original": "[img]gfx/ui/events/event_143.png[/img]{%sledder% takes the sled from the mountain man.%SPEECH_ON%I'll beat ya to them rock dicks in proper time.%SPEECH_OFF%Everyone raises an eyebrow as he sets the sled down. He jacks his boots against its front and tips it toward the edge of the hillside.%SPEECH_ON%Ready when you are.%SPEECH_OFF%The mountain man gives a signal to start the race and the two zip down the snow in an instant. Rooster tails of powder shower in their wake and it seems like %sledder% is going to win until he angles incorrectly and smashes right into one of the rock cocks. The sled shatters to pieces and the sellsword goes flying over the stone and lands limply into the snow. Laughing, the company rushes to his aide and brings him back to his feet. He's got some raspberries and something is clicking, but he'll live. The mountain man cheers.%SPEECH_ON%Ye almost had me, but yer s'posed to split the dicks, not ride up them!%SPEECH_OFF%This brings your men to their knees in crying laughter.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_143.png[/img]{%sledder% takes the sled from the mountain man.%SPEECH_ON%I'll beat ya to them rock dicks in proper time.%SPEECH_OFF%Everyone raises an eyebrow as he sets the sled down. He jacks his boots against its front and tips it toward the edge of the hillside.%SPEECH_ON%Ready when you are.%SPEECH_OFF%The mountain man gives a signal to start the race and the two zip down the snow in an instant. Rooster tails of powder shower in their wake and it seems like %sledder% is going to win until he angles incorrectly and smashes right into one of the rock cocks. The sled shatters to pieces and the sellsword goes flying over the stone and lands limply into the snow. Laughing, the company rushes to his aide and brings him back to his feet. He's got some raspberries and something is clicking, but he'll live. The mountain man cheers.%SPEECH_ON%Ye almost had me, but yer s'posed to split the dicks, not ride up them!%SPEECH_OFF%This brings your men to their knees in crying laughter.}\""
+  },
+  {
+    "key": "6b4bac3a35d0ca02586255c2d1b90459a43d66d605602ebf175a8955ec6e4d5a",
+    "original": "[img]gfx/ui/events/event_143.png[/img]{%sledder% takes the sled from the mountain man.%SPEECH_ON%I'll beat ya to them rock dicks in proper time.%SPEECH_OFF%Everyone raises an eyebrow as he sets the sled down. He jacks his boots against its front and tips it toward the edge of the hillside.%SPEECH_ON%Ready when you are.%SPEECH_OFF%The mountain man gives a signal to start the race and the two zip down the snow in an instant. You're not sure if your sellsword played cheap, but the mountain man suddenly turns sideways and flips his sled and he goes rolling through the powder in a flail of beard and limbs. %sledder% meanwhile coasts to an easy victory. The company roars to the victory and carry him up the mountain on their shoulders. If the mercenary did cheat it doesn't show on the mountain man's face, he is just happy to have had raced at all.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_143.png[/img]{%sledder% takes the sled from the mountain man.%SPEECH_ON%I'll beat ya to them rock dicks in proper time.%SPEECH_OFF%Everyone raises an eyebrow as he sets the sled down. He jacks his boots against its front and tips it toward the edge of the hillside.%SPEECH_ON%Ready when you are.%SPEECH_OFF%The mountain man gives a signal to start the race and the two zip down the snow in an instant. You're not sure if your sellsword played cheap, but the mountain man suddenly turns sideways and flips his sled and he goes rolling through the powder in a flail of beard and limbs. %sledder% meanwhile coasts to an easy victory. The company roars to the victory and carry him up the mountain on their shoulders. If the mercenary did cheat it doesn't show on the mountain man's face, he is just happy to have had raced at all.}\""
+  },
+  {
+    "key": "4bca329f8b064d213d68e523f7ddbc15ddd485b91bdb78e2035ea2eb77abfcf7",
+    "original": "[img]gfx/ui/events/event_143.png[/img]{As the snow and stiff winds beat down upon your face, it seems almost miraculous that there's someone on this mountain waving you down. But there he is, a bearded fella with two sleds in hand. He yells out if you're interested in a race.%SPEECH_ON%First one to split them two rocks shaped like cocks is the winner!%SPEECH_OFF%You ask what it is that's on the line. When he looks at you like a dog spoken to in the wrong language, you ask what you're betting. He laughs.%SPEECH_ON%Ain't no bet! Just a matter of fun!%SPEECH_OFF%Fair enough. Maybe one of the %companyname% would like to try?}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_143.png[/img]{As the snow and stiff winds beat down upon your face, it seems almost miraculous that there's someone on this mountain waving you down. But there he is, a bearded fella with two sleds in hand. He yells out if you're interested in a race.%SPEECH_ON%First one to split them two rocks shaped like cocks is the winner!%SPEECH_OFF%You ask what it is that's on the line. When he looks at you like a dog spoken to in the wrong language, you ask what you're betting. He laughs.%SPEECH_ON%Ain't no bet! Just a matter of fun!%SPEECH_OFF%Fair enough. Maybe one of the %companyname% would like to try?}\""
+  },
+  {
+    "key": "74f24c1bcf00c832aeb16429a1623805d268bff8d15ed5258ecfcbb209c3a3dc",
+    "original": "]+1[/color] Initiative",
+    "translation": "",
+    "context": "_event.m.Sledder.getName() + \" gains [color=\" + this.Const.UI.Color.PositiveEventValue + \"]+1[/color] Initiative\""
+  }
+]
