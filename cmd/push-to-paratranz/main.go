@@ -186,6 +186,9 @@ func core() {
 									lockedInfos[filename] = fileinfo
 									anyUpdated = true
 									return nil
+								} else if errors.Is(err, paratranz.UnchangedError) {
+									println(filename, "unchanged")
+									return nil
 								}
 								return errors.Wrapf(err, "更新文件 %s 失败", filename)
 							}

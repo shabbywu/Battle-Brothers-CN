@@ -80,6 +80,7 @@
     "context": "this.m.Description = 'This character has taken an Oath of Fortification, and is sworn to trust in his shield above all else.'"
   },
   {
+    "ID": 881659007,
     "key": "60f02b947b5aae6946ac3fed305a9a8675ffc0f37f24df0d706f4da12bf4bdab",
     "original": "The 'Shield Wall' shield skill grants an additional [color=",
     "translation": "",

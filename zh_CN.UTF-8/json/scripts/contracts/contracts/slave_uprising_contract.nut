@@ -312,6 +312,7 @@
     "context": "Text = \"[img]gfx/ui/events/event_166.png[/img]{You stick your hand out. %spartacus% sticks out his. He speaks.%SPEECH_ON%So it is.%SPEECH_OFF%He holds up a pencil made of rock and some black powdery rock at its tip. He points at a far away stone.%SPEECH_ON%As we leave, I will write the location of my family's heirlooms there. Now I see upon your face the question of whether I am lying or not. Such uncertainty is the price of freedom, no? To be unsure of where you go, but to do so of your own mind. That is true freedom. The comfort of the cage is for birds who do not wish to fly, Crownling. May your travels upon the gilded road be as fruitful as our first steps.%SPEECH_OFF%}\""
   },
   {
+    "ID": 881658982,
     "key": "bb0ba8565798d938a08aa17d2bae4f648085ec52a1e22938d6b49b1b8e59c2bc",
     "original": "[img]gfx/ui/events/event_59.png[/img]{You finally catch up to the indebted. They're rough roaders by now, the bleak terrain which they have crossed having left its own marks upon them as they have upon it. But they've not come this far to just to give up: the whole lot arm themselves at the very sight of you and make their own approach. | The indebted are found in a desperate state, insofar as the journey has given them free breath, they've paid for it with mind and body alike. The sunburned, beleaguered and ragged men approach with eyes both wide and weary. You know by the wild stares that they've no quit left in them. They'll be fighting it out one way or another.}",
     "translation": "",

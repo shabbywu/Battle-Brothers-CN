@@ -64,6 +64,7 @@
     "context": "text = 'Has a range of [color=' + this.Const.UI.Color.PositiveValue + ']2' + '[/color] tiles'"
   },
   {
+    "ID": 881659005,
     "key": "2aef3a9937a9e7cce7762c8b0b5024aa22e8845bd24b3c6c71d828b663c3e530",
     "original": "%[/color] chance to hit",
     "translation": "",

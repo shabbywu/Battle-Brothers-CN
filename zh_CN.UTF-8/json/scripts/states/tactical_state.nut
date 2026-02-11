@@ -37,7 +37,7 @@
     "original": " round",
     "translation": "回合",
     "stage": 5,
-    "context": "result.subTitle = 'You retreated after ' + rounds + ' round' + rounds > 1 ? 's' : ''"
+    "context": "result.subTitle = 'You retreated after ' + rounds + ' round' + rounds &gt; 1 ? 's' : ''"
   },
   {
     "ID": 293422806,
@@ -108,7 +108,6 @@
     "key": "Are you sure you want to quit this battle and return to the main menu?\n\nAny progress made in battle will be lost, but there was an autosave made right before the battle started.",
     "original": "Are you sure you want to quit this battle and return to the main menu?\n\nAny progress made in battle will be lost, but there was an autosave made right before the battle started.",
     "translation": "你确定要退出这场战斗并返回主菜单吗？\n\n在战斗中取得的任何进展都将丢失，但战斗开始前已经进行了自动保存。",
-    "stage": 5,
     "context": "this.showDialogPopup('Quit to Main Menu', 'Are you sure you want to quit this battle and return to the main menu?\n\nAny progress made in battle will be lost, but there was an autosave made right before the battle started.', this.onQuitToMainMenu.bindenv(this), this.onCancelQuitToMainMenu.bindenv(this))"
   },
   {
@@ -117,7 +116,7 @@
     "original": "You lost after ",
     "translation": "你战败了，战斗历时",
     "stage": 5,
-    "context": "result.subTitle = 'You lost after ' + rounds + ' round' + rounds > 1 ? 's' : ''"
+    "context": "result.subTitle = 'You lost after ' + rounds + ' round' + rounds &gt; 1 ? 's' : ''"
   },
   {
     "ID": 293422816,
@@ -220,7 +219,6 @@
     "key": "Are you sure you want to quit this battle and thereby forfeit your ironman run and retire from your company?\n\nYour save will be deleted and you won't be able to continue.",
     "original": "Are you sure you want to quit this battle and thereby forfeit your ironman run and retire from your company?\n\nYour save will be deleted and you won't be able to continue.",
     "translation": "你确定你想退出这场战斗，并就此结束你的铁人模式游戏，从战团退休吗？\n\n你的存档将被删除，你将无法继续。",
-    "stage": 5,
     "context": "this.showDialogPopup('Quit & Retire', \"Are you sure you want to quit this battle and thereby forfeit your ironman run and retire from your company?\n\nYour save will be deleted and you won't be able to continue.\", this.onQuitToMainMenu.bindenv(this), this.onCancelQuitToMainMenu.bindenv(this))"
   },
   {
@@ -237,7 +235,7 @@
     "original": "You retreated after ",
     "translation": "你撤退了，战斗历时",
     "stage": 5,
-    "context": "result.subTitle = 'You retreated after ' + rounds + ' round' + rounds > 1 ? 's' : ''"
+    "context": "result.subTitle = 'You retreated after ' + rounds + ' round' + rounds &gt; 1 ? 's' : ''"
   },
   {
     "ID": 293422831,
@@ -253,7 +251,7 @@
     "original": "The enemy was destroyed in ",
     "translation": "敌人被消灭了，战斗历时",
     "stage": 5,
-    "context": "result.subTitle = 'The enemy was destroyed in ' + rounds + ' round' + rounds > 1 ? 's' : ''"
+    "context": "result.subTitle = 'The enemy was destroyed in ' + rounds + ' round' + rounds &gt; 1 ? 's' : ''"
   },
   {
     "ID": 293422833,
@@ -261,7 +259,7 @@
     "original": "The enemy retreated after ",
     "translation": "敌人撤退了，战斗历时",
     "stage": 5,
-    "context": "result.subTitle = 'The enemy retreated after ' + rounds + ' round' + rounds > 1 ? 's' : ''"
+    "context": "result.subTitle = 'The enemy retreated after ' + rounds + ' round' + rounds &gt; 1 ? 's' : ''"
   },
   {
     "ID": 293422834,
@@ -320,6 +318,7 @@
     "context": "bro.worsenMood(this.Const.MoodChange.BattleWithoutMe, 'Felt useless in reserve')"
   },
   {
+    "ID": 881659008,
     "key": "df0c57d2e4b9afa7500af79bf1b04b42c335400457a277c5151c01b3c3905d90",
     "original": "A Fleshy Corpse",
     "translation": "",

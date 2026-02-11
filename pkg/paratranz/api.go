@@ -19,6 +19,7 @@ const ParaTranzAPIHost = "https://paratranz.cn/api"
 
 var (
 	HashMatchedError = errors.New("hashMatched")
+	UnchangedError = errors.New("unchanged")
 )
 
 type API struct {
@@ -100,8 +101,10 @@ func (p *API) UpdateFile(projectID, fileID int, content []byte, filename string)
 	if respBody.File.ID == 0 {
 		if respBody.Status == HashMatchedError.Error() {
 			return respBody.File, HashMatchedError
+		} else if respBody.Status == UnchangedError.Error() {
+			return respBody.File, UnchangedError
 		}
-		return respBody.File, fmt.Errorf("更新失败, %s", string(respContent))
+		return respBody.File, fmt.Errorf("UpdateFile 更新失败 %d, %s ", resp.StatusCode, string(respContent))
 	}
 	return respBody.File, nil
 }
@@ -130,8 +133,10 @@ func (p *API) UpdateFileTranslation(projectID, fileID int, content []byte, filen
 	if respBody.File.ID == 0 {
 		if respBody.Status == HashMatchedError.Error() {
 			return respBody.File, HashMatchedError
+		} else if respBody.Status == UnchangedError.Error() {
+			return respBody.File, UnchangedError
 		}
-		return respBody.File, fmt.Errorf("更新失败, %s", string(respContent))
+		return respBody.File, fmt.Errorf("UpdateFileTranslation 更新失败 %d, %s ", resp.StatusCode, string(respContent))
 	}
 	return respBody.File, nil
 }

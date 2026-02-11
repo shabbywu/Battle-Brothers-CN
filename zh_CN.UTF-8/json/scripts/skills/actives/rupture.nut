@@ -80,6 +80,7 @@
     "context": "this.m.Description = 'A thrusting attack that can cover the distance of 2 tiles and can be used from behind the frontline, outside the range of most melee weapons, and can tear bleeding wounds if not stopped by armor.'"
   },
   {
+    "ID": 881659001,
     "key": "2aef3a9937a9e7cce7762c8b0b5024aa22e8845bd24b3c6c71d828b663c3e530",
     "original": "%[/color] chance to hit",
     "translation": "",

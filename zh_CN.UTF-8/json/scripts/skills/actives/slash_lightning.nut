@@ -64,6 +64,7 @@
     "context": "text = 'Inflicts an additional [color=' + this.Const.UI.Color.DamageValue + ']10[/color] - [color=' + this.Const.UI.Color.DamageValue + ']20[/color] damage that ignores armor to up to three targets'"
   },
   {
+    "ID": 881659004,
     "key": "2aef3a9937a9e7cce7762c8b0b5024aa22e8845bd24b3c6c71d828b663c3e530",
     "original": "%[/color] chance to hit",
     "translation": "",
