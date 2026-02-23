@@ -33700,9 +33700,9 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:12:16.991Z",
         "updatedAt": "2025-03-31T03:38:37.502Z",
-        "modifiedAt": "2025-10-18T13:50:04Z",
+        "modifiedAt": "2026-02-22T13:23:05.4Z",
         "hash": "420da29c196460b841c281958b555e9f",
-        "sha256": "deae39d2125f801312ff9f417993d9b1a1a97497572ff687230f1ec845c27cc6"
+        "sha256": "4d617e477268c9cbbe1760fbc4302282040628f7d95744283b11d0cc344708a1"
     },
     "scripts/skills/actives/crack_the_whip_skill.json": {
         "id": 919998,
@@ -43914,7 +43914,7 @@
         "filename": "",
         "format": "json",
         "total": 41,
-        "translated": 38,
+        "translated": 41,
         "disputed": 0,
         "checked": 38,
         "reviewed": 38,
@@ -43922,9 +43922,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:33:02.634Z",
         "updatedAt": "2026-02-11T17:21:52.358Z",
-        "modifiedAt": "2026-02-11T17:21:52.374Z",
+        "modifiedAt": "2026-02-21T21:52:53.517Z",
         "hash": "abedb847dc48fb9e799dbcc783c57460",
-        "sha256": "b64c4c9eb39450c405ae78ea512f64327aead214579a17fca131dabe03e744b1"
+        "sha256": "8543c95a183f061a08c4c1e4508169a0215cd7d68ed68995863e67cf192f029e"
     },
     "scripts/states/world/asset_manager.json": {
         "id": 920525,
