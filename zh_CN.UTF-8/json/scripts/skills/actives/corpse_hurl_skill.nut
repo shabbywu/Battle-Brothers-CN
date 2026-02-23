@@ -11,7 +11,7 @@
     "ID": 629144300,
     "key": "A Fleshy Corpse",
     "original": "A Fleshy Corpse",
-    "translation": "一具血肉模糊是尸体",
+    "translation": "一具腐尸",
     "stage": 1,
     "context": "corpse.CorpseName = \"A Fleshy Corpse\""
   },
