@@ -12211,9 +12211,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:01.169Z",
         "updatedAt": "2023-06-26T05:47:41.149Z",
-        "modifiedAt": "2024-05-19T14:32:19Z",
+        "modifiedAt": "2026-05-09T02:23:15.236Z",
         "hash": "90175534772805d02e2b7a1aec9dce25",
-        "sha256": "3b82ccbaf17e5ebf8bb4338c9470954da2d3b88e3d59a836d055bb3fe939413b"
+        "sha256": "b5f782bbf13f61600209d62ab21ad08ccef1c3b3088eff4e86d3e47bcf20d5c1"
     },
     "scripts/events/events/dlc2/location/goblin_city_reminder_event.json": {
         "id": 918902,
@@ -31211,9 +31211,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:01.432Z",
         "updatedAt": "2023-06-26T05:49:05.173Z",
-        "modifiedAt": "2024-08-07T07:33:10Z",
+        "modifiedAt": "2026-05-10T09:40:45.403Z",
         "hash": "0323d595062e4e3fb2feed8dba287a86",
-        "sha256": "af4b774a3c61743ad03d66006039d396530a7be98551c8a739f7fa70ef8d4abd"
+        "sha256": "f115dd5b25ab16caba8bfa6555cbde5918a144a5f57ac5d1c3184a4869256b1f"
     },
     "scripts/items/weapons/named/named_longaxe.json": {
         "id": 919871,
@@ -31629,9 +31629,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:10.536Z",
         "updatedAt": "2023-06-26T05:49:06.854Z",
-        "modifiedAt": "2024-08-07T07:07:00Z",
+        "modifiedAt": "2026-05-10T09:42:12.612Z",
         "hash": "8e7bec13b277c1cafcd5e6a1e5949354",
-        "sha256": "0c1992cb633a729fbbd5fb77d622c69c2f164632ba2bd41d249e9216421b116e"
+        "sha256": "a80d003dd5df1010a3f749bd97063992da6feade826d13a139a553546fd9986d"
     },
     "scripts/items/weapons/named/named_warbow.json": {
         "id": 919893,

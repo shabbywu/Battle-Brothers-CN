@@ -131,7 +131,7 @@
     "ID": 293413831,
     "key": "Fall back for now.",
     "original": "Fall back for now.",
-    "translation": "暂时撤退。",
+    "translation": "暂且撤退。",
     "stage": 1,
     "context": "Text = 'Fall back for now.'"
   },
