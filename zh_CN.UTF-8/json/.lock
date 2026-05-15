@@ -4022,9 +4022,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:13.051Z",
         "updatedAt": "2023-06-30T08:56:17.099Z",
-        "modifiedAt": "2025-11-09T13:43:04Z",
+        "modifiedAt": "2026-05-15T01:17:49.362Z",
         "hash": "defe79b4c627fca2d0a42fa665531185",
-        "sha256": "ffb3fc500222febe00ba756c3ef6d57c8ad5bdc15336f1e352c63762fedd7e2f"
+        "sha256": "0b6897dbc0e08910f7d062faa51cb95897cb3f90aa9fe851e7286d15c9c9e457"
     },
     "scripts/dlc/dlc_desert.json": {
         "id": 918479,
