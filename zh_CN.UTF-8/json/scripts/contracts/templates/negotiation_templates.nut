@@ -35,7 +35,7 @@
     "ID": 293410114,
     "key": "Get ",
     "original": "Get ",
-    "translation": "预付款为",
+    "translation": "酬金",
     "stage": 5,
     "context": "this.Contract.m.BulletpointsPayment.push('Get ' + this.Contract.m.Payment.getInAdvance() + ' crowns in advance')"
   },
@@ -51,7 +51,7 @@
     "ID": 293410116,
     "key": " crowns in advance",
     "original": " crowns in advance",
-    "translation": "克朗",
+    "translation": "克朗作为预付",
     "stage": 5,
     "context": "this.Contract.m.BulletpointsPayment.push('Get ' + this.Contract.m.Payment.getInAdvance() + ' crowns in advance')"
   },
