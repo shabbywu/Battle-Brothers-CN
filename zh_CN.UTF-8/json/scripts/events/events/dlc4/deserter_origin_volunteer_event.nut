@@ -139,7 +139,8 @@
     "ID": 881658986,
     "key": "bd8b4ff2c4f6a293ecd8e8c1620ceb278116547e20957556f32869fb94abedfe",
     "original": "Running from bounty hunters and executioners for some time, %name% bumped into your company on the road and promptly volunteered.",
-    "translation": "",
+    "translation": "在摆脱赏金猎人和刽子手的追捕的路上，%name%撞到了你的战团，他立刻就提出要加入。",
+    "stage": 1,
     "context": "_event.m.Dude1.getBackground().m.RawDescription = \"Running from bounty hunters and executioners for some time, %name% bumped into your company on the road and promptly volunteered.\""
   }
 ]

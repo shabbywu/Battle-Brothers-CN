@@ -315,7 +315,8 @@
     "ID": 881658982,
     "key": "bb0ba8565798d938a08aa17d2bae4f648085ec52a1e22938d6b49b1b8e59c2bc",
     "original": "[img]gfx/ui/events/event_59.png[/img]{You finally catch up to the indebted. They're rough roaders by now, the bleak terrain which they have crossed having left its own marks upon them as they have upon it. But they've not come this far to just to give up: the whole lot arm themselves at the very sight of you and make their own approach. | The indebted are found in a desperate state, insofar as the journey has given them free breath, they've paid for it with mind and body alike. The sunburned, beleaguered and ragged men approach with eyes both wide and weary. You know by the wild stares that they've no quit left in them. They'll be fighting it out one way or another.}",
-    "translation": "",
+    "translation": "[img]gfx/ui/events/event_59.png[/img]{你终于追上了这些负债者。他们如今已是饱经风霜的亡命徒，所穿越的荒芜之地在他们身上留下了印记，正如他们也在那片土地上留下了痕迹。但他们跋涉至此绝非为了放弃：一见到你，这群人便全体武装起来，并向你逼近。 | 这些负债者处境绝望，虽说这段旅程给予了他们喘息的自由，他们却为此付出了身心俱疲的代价。这些晒伤、困顿、衣衫褴褛的男人双眼圆睁又充满疲惫地靠近。从他们狂野的眼神中你明白，他们已毫无退意，决心要血战到底。}",
+    "stage": 1,
     "context": "Text = \"[img]gfx/ui/events/event_59.png[/img]{You finally catch up to the indebted. They're rough roaders by now, the bleak terrain which they have crossed having left its own marks upon them as they have upon it. But they've not come this far to just to give up: the whole lot arm themselves at the very sight of you and make their own approach. | The indebted are found in a desperate state, insofar as the journey has given them free breath, they've paid for it with mind and body alike. The sunburned, beleaguered and ragged men approach with eyes both wide and weary. You know by the wild stares that they've no quit left in them. They'll be fighting it out one way or another.}\""
   }
 ]

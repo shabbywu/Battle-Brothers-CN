@@ -11,7 +11,7 @@
     "ID": 293416708,
     "key": "%terrainImage%A strange sight: one dead man pinned to the earth with spears. His own blood has been used to circle his corpse and other strange ritualistic rites have been painted by way of his lifeblood. %otherbrother% starts retrieving the spears. You t",
     "original": "%terrainImage%A strange sight: one dead man pinned to the earth with spears. His own blood has been used to circle his corpse and other strange ritualistic rites have been painted by way of his lifeblood. %otherbrother% starts retrieving the spears. You try and tell him to stop, but it's already too late. He holds one of the weapons up.%SPEECH_ON%What? These are of good quality. Why would we leave them here?%SPEECH_OFF%Well, if there was a deific protection here it's already been broken. You collect the spears.",
-    "translation": "%terrainImage%一个奇怪的景象：一个死人被矛钉在地上。 他自己的血被用来在他的尸体上画圈。其他奇怪的仪式也用他的血来描绘。%otherbrother% 开始收回那些矛。 你试着让他停下来，但已经太晚了。 他举起其中一件武器。%SPEECH_ON%什么？这些武器质量很好。 我门为什么要把它们留在这？%SPEECH_OFF%好吧，如果这是一个神圣的守护仪式，它已经被破坏了。 你收起那些矛。",
+    "translation": "%terrainImage%一个奇怪的景象：一个死人被矛钉在地上。他自己的血被用来在他的尸体上画圈。其他奇怪的仪式也用他的血来描绘。%otherbrother% 开始收回那些矛。 你试着让他停下来，但已经太晚了。他举起其中一件武器。%SPEECH_ON%什么？这些武器质量很好。我们为什么要把它们留在这？%SPEECH_OFF%好吧，如果这是一个神圣的守护仪式，它已经被破坏了。你收起那些矛。",
     "stage": 1,
     "context": "Text = \"%terrainImage%A strange sight: one dead man pinned to the earth with spears. His own blood has been used to circle his corpse and other strange ritualistic rites have been painted by way of his lifeblood. %otherbrother% starts retrieving the spears. You try and tell him to stop, but it's already too late. He holds one of the weapons up.%SPEECH_ON%What? These are of good quality. Why would we leave them here?%SPEECH_OFF%Well, if there was a deific protection here it's already been broken. You collect the spears.\""
   },
@@ -115,7 +115,8 @@
     "ID": 881658990,
     "key": "80e4da3d3b2fc976bf563cf91c957972cb3d2c7ed6464a2805eafeb14b6ec036",
     "original": "Of course we are.",
-    "translation": "",
+    "translation": "当然了。",
+    "stage": 1,
     "context": "Text = \"Of course we are.\""
   }
 ]
