@@ -19,7 +19,8 @@
     "ID": 293403650,
     "key": "[img]gfx/ui/events/event_180.png[/img]{Texts of the Ancient Empire tell of military formations so tightly knit and compact that they were like roving castles on legs: hundreds of shields held together like the scales of a snake or the shell of a tortoise.",
     "original": "[img]gfx/ui/events/event_180.png[/img]{Texts of the Ancient Empire tell of military formations so tightly knit and compact that they were like roving castles on legs: hundreds of shields held together like the scales of a snake or the shell of a tortoise. The %companyname% tried its best to replicate these theories. It always took a few moments to piece the elements together, but you never intended for it to be an exercise in excellence. The ancients had an empire for a reason, and you're a company of misfits and Oathtakers. But by your estimation, which mostly starts and ends on whether or not the company still has a pulse, this oath was an outstanding success.\n\nNow it is time to lower the shields and the Ancient Empire-fervor and take on a new Oath!}",
-    "translation": "[img]gfx/ui/events/event_180.png[/img]{古帝国的文献记载了军事编队之间的关系是如此之紧密和紧凑，以至于就像是脚下漫步的城堡：数百个盾牌像蛇鳞或乌龟壳一样紧密结合。%companyname%尽力复制这些理论，总需要一些时间来整合这些要素，但您从未打算将其变成一个卓越的演练。古人拥有帝国，而你是一群不和谐的人和宣誓者。但根据你的估计，毕竟团队仍在坚持，因此这个誓言是一个杰出的成功。\n\n现在是时候放下盾牌和古代帝国的热情，并接受新的誓言了！}",
+    "translation": "[img]gfx/ui/events/event_180.png[/img]{古帝国文献中所记载的军事阵型十分紧凑，动起来宛如移动的堡垒：数百面盾牌紧紧相连，如同蛇鳞或龟甲。%companyname%竭尽全力去复现这些理论，但要将各个要素整合起来毕竟需要时间，你从没有指望这次演练能有多成功。古人能建立帝国自有其原因，而你们只是一群不合群的执誓者。但依你的判断 ——战团是否还活着 —— 这次誓约可谓大获成功。\n\n现在是时候放下盾牌和对古代帝国的狂热，立下新的誓言了！}",
+    "stage": 1,
     "context": "this.m.SuccessText = \"[img]gfx/ui/events/event_180.png[/img]{Texts of the Ancient Empire tell of military formations so tightly knit and compact that they were like roving castles on legs: hundreds of shields held together like the scales of a snake or the shell of a tortoise. The %companyname% tried its best to replicate these theories. It always took a few moments to piece the elements together, but you never intended for it to be an exercise in excellence. The ancients had an empire for a reason, and you're a company of misfits and Oathtakers. But by your estimation, which mostly starts and ends on whether or not the company still has a pulse, this oath was an outstanding success.\n\nNow it is time to lower the shields and the Ancient Empire-fervor and take on a new Oath!}\""
   },
   {
@@ -75,6 +76,7 @@
     "key": "Evil-doers skulk and hide away from the walls of the just.\nLet us take an Oath of Fortification and bring those walls to them!",
     "original": "Evil-doers skulk and hide away from the walls of the just.\nLet us take an Oath of Fortification and bring those walls to them!",
     "translation": "邪恶之徒躲藏在公理与正义的高墙之外。\n让我们立下壁垒誓言，把这堵高墙拍在他们脸上！",
+    "stage": 1,
     "context": "this.m.ButtonText = 'Evil-doers skulk and hide away from the walls of the just.\nLet us take an Oath of Fortification and bring those walls to them!'"
   },
   {
@@ -97,14 +99,16 @@
     "ID": 881658978,
     "key": "bb55d59cb5cc0b435dd1785913b3e4193212a6109e428f8665694765816dc2c2",
     "original": " fallen so far).",
-    "translation": "",
+    "translation": "人已牺牲)。",
+    "stage": 1,
     "context": "\"You gain extra Renown if none of your men fall in battle during the Oath (\" + this.getBonusObjectiveProgress() + \" fallen so far).\""
   },
   {
     "ID": 881658979,
     "key": "7a7d057da31c5bd2a777e6c60f6a8200dbc2fdb69b2f683db598b03dac6b1482",
     "original": "You gain extra Renown if none of your men fall in battle during the Oath (",
-    "translation": "",
+    "translation": "如果誓言期间，你从未在战斗中损失过战团成员，你将获得额外的名望 (",
+    "stage": 1,
     "context": "\"You gain extra Renown if none of your men fall in battle during the Oath (\" + this.getBonusObjectiveProgress() + \" fallen so far).\""
   }
 ]

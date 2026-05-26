@@ -2553,15 +2553,15 @@
         "total": 12,
         "translated": 12,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:37.083Z",
         "updatedAt": "2023-06-26T05:46:28.216Z",
-        "modifiedAt": "2025-12-13T07:17:37Z",
+        "modifiedAt": "2026-05-25T08:24:51.341Z",
         "hash": "b6e530a23037835fa3edc22f15f8b83d",
-        "sha256": "88181f42c375e4ad99a6ef8cb3d4ac88fcce3b49c7ced58e386ad24afaa6c827"
+        "sha256": "fe4ad6fce638c974ab1de2522f4d7a92e295f725b8bb6c2b43b9045941d41e1c"
     },
     "scripts/ambitions/oaths/oath_of_dominion_ambition.json": {
         "id": 918402,
@@ -2608,7 +2608,7 @@
         "filename": "",
         "format": "json",
         "total": 14,
-        "translated": 10,
+        "translated": 14,
         "disputed": 0,
         "checked": 2,
         "reviewed": 2,
@@ -2616,9 +2616,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:38.128Z",
         "updatedAt": "2026-02-11T17:21:49.599Z",
-        "modifiedAt": "2026-02-11T17:21:49.615Z",
+        "modifiedAt": "2026-05-25T08:38:12.349Z",
         "hash": "f20b246a766537e5c3d2c696665cfa46",
-        "sha256": "d2036fa58050a96097e315e79eb2ee36c032f6d3dee83120ca802b7e3d047e57"
+        "sha256": "a4b505c3db191295a34297e2c617b0579692d1372a4d4b777d7596d1712b9f87"
     },
     "scripts/ambitions/oaths/oath_of_honor_ambition.json": {
         "id": 918405,
@@ -2912,7 +2912,7 @@
         "filename": "",
         "format": "json",
         "total": 1230,
-        "translated": 1195,
+        "translated": 1230,
         "disputed": 0,
         "checked": 233,
         "reviewed": 233,
@@ -2920,9 +2920,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2026-02-11T17:21:50.003Z",
-        "modifiedAt": "2026-02-11T17:21:50.056Z",
+        "modifiedAt": "2026-05-25T09:10:47.808Z",
         "hash": "787b188c20066f7156200642eabdc46e",
-        "sha256": "3fa51f982177fc4cfac5d89a9a6b4340a7ab4cc6afbc853a735cbb352f0f7d52"
+        "sha256": "ae9b5624e4eb0b84b46bb6b54bec2b995daa72c2b5a72dc75c48b1327c06d5d6"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -2988,7 +2988,7 @@
         "filename": "",
         "format": "json",
         "total": 769,
-        "translated": 768,
+        "translated": 769,
         "disputed": 0,
         "checked": 126,
         "reviewed": 126,
@@ -2996,9 +2996,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:46.237Z",
         "updatedAt": "2026-02-11T17:21:50.293Z",
-        "modifiedAt": "2025-10-07T05:41:08Z",
+        "modifiedAt": "2026-05-25T08:31:47.297Z",
         "hash": "479f74284c0bdf5929d97c523e24b084",
-        "sha256": "cb8453a4ed5538341aba8e02543b2dc9bf155f04f7e274e424f495fcd7788f28"
+        "sha256": "880df4b5716427161d5377a46d050bc5b12f18b2bbd9e22a9795775f27d4eb20"
     },
     "scripts/contracts/contract.json": {
         "id": 918425,
@@ -3957,7 +3957,7 @@
         "filename": "",
         "format": "json",
         "total": 40,
-        "translated": 39,
+        "translated": 40,
         "disputed": 0,
         "checked": 39,
         "reviewed": 39,
@@ -3965,9 +3965,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:11.915Z",
         "updatedAt": "2026-02-11T17:21:50.42Z",
-        "modifiedAt": "2025-10-09T14:39:01Z",
+        "modifiedAt": "2026-05-25T09:12:06.515Z",
         "hash": "35b49e8ab7be7ace74b03f53c2bc8564",
-        "sha256": "6253951c3fdbbaf6bc0846e883782153be7c63b2c69b3e7e0817a620d233e69f"
+        "sha256": "7e49bb253f973fb960751a54242de11f1a837a58403616e0c3eaf975ed24adf4"
     },
     "scripts/contracts/contracts/tutorial_contract.json": {
         "id": 918476,
@@ -11348,7 +11348,7 @@
         "filename": "",
         "format": "json",
         "total": 17,
-        "translated": 11,
+        "translated": 17,
         "disputed": 0,
         "checked": 2,
         "reviewed": 2,
@@ -11356,9 +11356,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:20:42.976Z",
         "updatedAt": "2026-02-11T17:21:50.519Z",
-        "modifiedAt": "2026-02-11T17:21:50.53Z",
+        "modifiedAt": "2026-05-25T08:55:34.758Z",
         "hash": "867534531ea37a654aa6559f3a0fd40c",
-        "sha256": "9470201e4d9f9c022ca3f4a1d58a1440cac8179a1c189928161f7fbb6febf6d1"
+        "sha256": "454034b80524092a805bff0999b3897581d750a8663134fecb0835f6eb439a69"
     },
     "scripts/events/events/crisis/undead_hoggart_event.json": {
         "id": 918857,
@@ -13001,7 +13001,7 @@
         "filename": "",
         "format": "json",
         "total": 18,
-        "translated": 17,
+        "translated": 18,
         "disputed": 0,
         "checked": 5,
         "reviewed": 5,
@@ -13009,9 +13009,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:16.141Z",
         "updatedAt": "2026-02-11T17:21:50.611Z",
-        "modifiedAt": "2025-11-11T04:48:33Z",
+        "modifiedAt": "2026-05-25T08:52:51.431Z",
         "hash": "ecc72e11ef87886a0361529f7ba146da",
-        "sha256": "50e4c165e3a7f762a414c6ee409775b4b5747fc3e652b9af2109f6121cc84e0d"
+        "sha256": "10c30fafad48d3390e8395cb1ae51a3ceadda7085062dcae9bf34f0968b085c2"
     },
     "scripts/events/events/dlc4/drunk_nobleman_event.json": {
         "id": 918944,
@@ -16174,7 +16174,7 @@
         "filename": "",
         "format": "json",
         "total": 14,
-        "translated": 9,
+        "translated": 14,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -16182,9 +16182,9 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:10.111Z",
         "updatedAt": "2026-02-11T17:21:50.7Z",
-        "modifiedAt": "2026-02-11T17:21:50.714Z",
+        "modifiedAt": "2026-05-25T08:58:38.325Z",
         "hash": "d3917bf17e03fc02eabe848d26833098",
-        "sha256": "c8230a8b0c559c55d8b0022e3983f9ad06a46026582430c29eeb163995da9106"
+        "sha256": "7031b70465b4a6b51e9372f38f4f9bdde1889a1decd5612f4ccb87a8262ba738"
     },
     "scripts/events/events/location/artifact_reliquary_enter_event.json": {
         "id": 1940654,
@@ -17124,7 +17124,7 @@
         "filename": "",
         "format": "json",
         "total": 15,
-        "translated": 14,
+        "translated": 15,
         "disputed": 0,
         "checked": 1,
         "reviewed": 1,
@@ -17132,9 +17132,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:22:41.503Z",
         "updatedAt": "2026-02-11T17:21:50.794Z",
-        "modifiedAt": "2024-04-18T00:35:33Z",
+        "modifiedAt": "2026-05-25T09:17:51.064Z",
         "hash": "fa86893a931c203837eb0d1886555e75",
-        "sha256": "19d1b3001d7a5548482d801af951c0dd97584dadbe06cb654f175295a910dc5d"
+        "sha256": "eb43eb8d7c09c22c2ffa1a58e7b43ede335180031d23c3911669cd6190fc09d8"
     },
     "scripts/events/events/scenario/anatomists_intro_event.json": {
         "id": 919154,
@@ -23603,7 +23603,7 @@
         "filename": "",
         "format": "json",
         "total": 2,
-        "translated": 1,
+        "translated": 2,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -23611,9 +23611,9 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:33.195Z",
         "updatedAt": "2026-02-11T17:21:50.885Z",
-        "modifiedAt": "2025-05-14T07:13:21Z",
+        "modifiedAt": "2026-05-25T09:04:11.085Z",
         "hash": "90dd374b44baab22bb8ad791fb42c733",
-        "sha256": "f4572e89781900c04e7e58ed1bc99abadb875b991ea5e5cb88edbcf42bf9a015"
+        "sha256": "14df3701e2653a16e563b263c00960ac67a7f88a31f88345651960dff7d5ca27"
     },
     "scripts/items/helmets/golems/fault_finder_eye_mask.json": {
         "id": 1940668,
@@ -23622,7 +23622,7 @@
         "filename": "",
         "format": "json",
         "total": 2,
-        "translated": 1,
+        "translated": 2,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -23630,9 +23630,9 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:33.292Z",
         "updatedAt": "2026-02-11T17:21:50.964Z",
-        "modifiedAt": "2025-05-12T04:11:26Z",
+        "modifiedAt": "2026-05-25T09:06:36.378Z",
         "hash": "338972d75f2b9e372c767fa09c0d61f5",
-        "sha256": "b9df9da4fc145bd1bcf8ee2e6bb399ffae5ae8d07803f5d5a188dea9f7d7b1af"
+        "sha256": "9916fd75f4f37fa3703f0ccea21c67ba7d2b28a3e6b68f6d4568025aff9bcc41"
     },
     "scripts/items/helmets/golems/fault_finder_facewrap.json": {
         "id": 1940669,
@@ -23641,7 +23641,7 @@
         "filename": "",
         "format": "json",
         "total": 2,
-        "translated": 1,
+        "translated": 2,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -23649,9 +23649,9 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:08:33.38Z",
         "updatedAt": "2026-02-11T17:21:51.065Z",
-        "modifiedAt": "2025-05-12T03:59:49Z",
+        "modifiedAt": "2026-05-25T09:05:13.367Z",
         "hash": "8a9c7bc3ba3be1e579282fd4dfe1442c",
-        "sha256": "89e403ed921f8f77ae06d8f932d7e69118df6af93db666b21ce71a6b83a27d1d"
+        "sha256": "ba1b0ad0c45305f16044fbabf4078b68687616b15f371cea6ff7431a7eb98abe"
     },
     "scripts/items/helmets/golems/flesh_golem_facewrap.json": {
         "id": 1940670,
@@ -33179,7 +33179,7 @@
         "filename": "",
         "format": "json",
         "total": 5,
-        "translated": 3,
+        "translated": 5,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -33187,9 +33187,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:52.263Z",
         "updatedAt": "2026-02-11T17:21:51.161Z",
-        "modifiedAt": "2026-02-11T17:21:51.17Z",
+        "modifiedAt": "2026-05-25T08:49:38.536Z",
         "hash": "f425a4c705b1742d7e760c919a20635d",
-        "sha256": "05b2b5a5d5aef37624f611a29ea845d7528f792305c899169aa1b4a444f33e73"
+        "sha256": "76b50fa2435bdcdec67e6cf526c64d8a0d4f83be1f8d197b0af6512d2c772499"
     },
     "scripts/scenarios/world/raiders_scenario.json": {
         "id": 919975,
@@ -34129,7 +34129,7 @@
         "filename": "",
         "format": "json",
         "total": 9,
-        "translated": 8,
+        "translated": 9,
         "disputed": 0,
         "checked": 6,
         "reviewed": 6,
@@ -34137,9 +34137,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:13.024Z",
         "updatedAt": "2026-02-11T17:21:51.245Z",
-        "modifiedAt": "2024-09-08T05:45:38Z",
+        "modifiedAt": "2026-05-25T08:32:40.827Z",
         "hash": "e89cc58e0a1a5c97ef782df2e7ae08cf",
-        "sha256": "9099f46b8c589ebf37d9c7789d2b5c8cd77a54180cb18917ad0cabe65b3d5525"
+        "sha256": "fafef6c4d0625df556d6f14a856dec6738837b16dc716611f238e94ccff594bd"
     },
     "scripts/skills/actives/geomancy_once_skill.json": {
         "id": 920019,
@@ -34623,7 +34623,7 @@
         "filename": "",
         "format": "json",
         "total": 8,
-        "translated": 7,
+        "translated": 8,
         "disputed": 0,
         "checked": 7,
         "reviewed": 7,
@@ -34631,9 +34631,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:22.191Z",
         "updatedAt": "2026-02-11T17:21:51.339Z",
-        "modifiedAt": "2023-06-26T05:49:17Z",
+        "modifiedAt": "2026-05-25T08:45:23.966Z",
         "hash": "c3a469523514e7d084a99c021cbc7993",
-        "sha256": "7cddd063ed22aa46893ca44ae73a1f8c0094a4b9260896d2b249c9f69b866c5d"
+        "sha256": "6adf600f50fcd3d553a4a4526884107691872bdf0931e54f6f4653b219caf037"
     },
     "scripts/skills/actives/impale.json": {
         "id": 920043,
@@ -34642,7 +34642,7 @@
         "filename": "",
         "format": "json",
         "total": 9,
-        "translated": 8,
+        "translated": 9,
         "disputed": 0,
         "checked": 6,
         "reviewed": 6,
@@ -34650,9 +34650,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:22.519Z",
         "updatedAt": "2026-02-11T17:21:51.427Z",
-        "modifiedAt": "2024-07-02T03:21:36Z",
+        "modifiedAt": "2026-05-25T08:45:29.423Z",
         "hash": "2d18680735820621feac5e4ee536b7d9",
-        "sha256": "8db9a8a60810f8847b1225adcdb813ea0c0def4908ca8296712e8e0148f8e18e"
+        "sha256": "238f319bcad88c7e3c243e369a008c52ab465e987bf0bc6cb07871adcdd5edfb"
     },
     "scripts/skills/actives/indomitable.json": {
         "id": 920044,
@@ -35117,7 +35117,7 @@
         "filename": "",
         "format": "json",
         "total": 9,
-        "translated": 8,
+        "translated": 9,
         "disputed": 0,
         "checked": 7,
         "reviewed": 7,
@@ -35125,9 +35125,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:32.342Z",
         "updatedAt": "2026-02-11T17:21:51.509Z",
-        "modifiedAt": "2024-07-02T03:23:04Z",
+        "modifiedAt": "2026-05-25T08:45:33.498Z",
         "hash": "e96525b8b72ee08aee178e4490c8d83d",
-        "sha256": "a50fc80e78e5d73557c009738641a4cd08c298167590761f3e6a37d5302bd403"
+        "sha256": "2a0a294851455701e6c17cf63a1f2c289ac65cc40250804c79a1643b73cb63fa"
     },
     "scripts/skills/actives/puncture.json": {
         "id": 920068,
@@ -35136,7 +35136,7 @@
         "filename": "",
         "format": "json",
         "total": 7,
-        "translated": 6,
+        "translated": 7,
         "disputed": 0,
         "checked": 6,
         "reviewed": 6,
@@ -35144,9 +35144,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:32.68Z",
         "updatedAt": "2026-02-11T17:21:51.587Z",
-        "modifiedAt": "2023-06-26T05:49:18Z",
+        "modifiedAt": "2026-05-25T08:45:37.364Z",
         "hash": "d882d9e8413786d926152bb2949b45cd",
-        "sha256": "a0147b9793db8ce35b380a84560c172d8e4c7782be248d9defa472cc5f3053c9"
+        "sha256": "c09d91b6e14ecbbe2789b9348ba7992a16d724a4051a25ba090070b1bc5f495d"
     },
     "scripts/skills/actives/quick_shot.json": {
         "id": 920069,
@@ -35326,7 +35326,7 @@
         "filename": "",
         "format": "json",
         "total": 13,
-        "translated": 12,
+        "translated": 13,
         "disputed": 0,
         "checked": 9,
         "reviewed": 9,
@@ -35334,9 +35334,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:37.075Z",
         "updatedAt": "2026-02-11T17:21:51.677Z",
-        "modifiedAt": "2024-07-02T03:24:53Z",
+        "modifiedAt": "2026-05-25T08:45:41.619Z",
         "hash": "5667ac5ee7fdb115c8d1a44abfb2d4f7",
-        "sha256": "6ed65836a50f1d7559bdaa93e6159bd38bc9b35b9fbb159a3738adce6616be9e"
+        "sha256": "69884161445ee2db1c04cd5302eec9a227bd63fd4b1e0cefca6462684fbc5053"
     },
     "scripts/skills/actives/return_favor.json": {
         "id": 920079,
@@ -35440,7 +35440,7 @@
         "filename": "",
         "format": "json",
         "total": 11,
-        "translated": 10,
+        "translated": 11,
         "disputed": 0,
         "checked": 9,
         "reviewed": 9,
@@ -35448,9 +35448,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:39.141Z",
         "updatedAt": "2026-02-11T17:21:51.76Z",
-        "modifiedAt": "2024-07-02T03:25:23Z",
+        "modifiedAt": "2026-05-25T08:45:45.391Z",
         "hash": "f792aa1cd79c0bc84b2b825c00349d8f",
-        "sha256": "39e27475160dc839bec49e40b34ff80cceb4aa54d7951f2c86d68f535114c057"
+        "sha256": "6a73404b4c726dd9f4f0755991f89469200490b04f33e0891a6de079f2c76a29"
     },
     "scripts/skills/actives/serpent_bite_skill.json": {
         "id": 920085,
@@ -35497,7 +35497,7 @@
         "filename": "",
         "format": "json",
         "total": 14,
-        "translated": 13,
+        "translated": 14,
         "disputed": 0,
         "checked": 13,
         "reviewed": 13,
@@ -35505,9 +35505,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:40.941Z",
         "updatedAt": "2026-02-11T17:21:51.84Z",
-        "modifiedAt": "2023-06-29T05:06:56Z",
+        "modifiedAt": "2026-05-25T08:45:49.559Z",
         "hash": "fe6f95dc57a6406ea60d5e0c2da69860",
-        "sha256": "4e40b7f2260df3f457a184cf3ea32672a00fa28a940e7639b2a3f0285cb72682"
+        "sha256": "46da55b11c3d36c5416191623a80dd8046dcbdf6ca851361b2cf044418b73305"
     },
     "scripts/skills/actives/shieldwall.json": {
         "id": 920088,
@@ -35573,7 +35573,7 @@
         "filename": "",
         "format": "json",
         "total": 6,
-        "translated": 5,
+        "translated": 6,
         "disputed": 0,
         "checked": 5,
         "reviewed": 5,
@@ -35581,9 +35581,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:42.931Z",
         "updatedAt": "2026-02-11T17:21:51.922Z",
-        "modifiedAt": "2023-06-26T05:49:20Z",
+        "modifiedAt": "2026-05-25T08:45:54.172Z",
         "hash": "2bc32106107a687cb0d0468e840ff23f",
-        "sha256": "09e951a5802865324711c33a4b4045137bb7907987212eaf5915f49d4500d256"
+        "sha256": "13fb39c7e3e08455b444948dbc3051cc274ab3cf961169519d5fa73ed5cebecd"
     },
     "scripts/skills/actives/slash_lightning.json": {
         "id": 920092,
@@ -35592,7 +35592,7 @@
         "filename": "",
         "format": "json",
         "total": 9,
-        "translated": 8,
+        "translated": 9,
         "disputed": 0,
         "checked": 6,
         "reviewed": 6,
@@ -35600,9 +35600,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:43.256Z",
         "updatedAt": "2026-02-11T17:21:52.002Z",
-        "modifiedAt": "2024-08-05T08:48:59Z",
+        "modifiedAt": "2026-05-25T08:45:58.845Z",
         "hash": "8bf800c03c8e358409d63a0fc44cc61d",
-        "sha256": "d694fa9e0d02397f7b3b3836ac9a7b9e0ebda6214a9ce3113a2ed23e497d0f26"
+        "sha256": "e27058909065300b497d3b1b040a90e20ad2d18ed548a30c5361309ed1c69f38"
     },
     "scripts/skills/actives/sleep_skill.json": {
         "id": 920093,
@@ -35858,7 +35858,7 @@
         "filename": "",
         "format": "json",
         "total": 9,
-        "translated": 8,
+        "translated": 9,
         "disputed": 0,
         "checked": 6,
         "reviewed": 6,
@@ -35866,9 +35866,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:47.997Z",
         "updatedAt": "2026-02-11T17:21:52.08Z",
-        "modifiedAt": "2025-07-22T09:23:37Z",
+        "modifiedAt": "2026-05-25T08:46:03.131Z",
         "hash": "cab1fda4eb91448df6e7d40e9937d7b3",
-        "sha256": "a360cc99bab32ce16e2c125152d350053ea105c077f7462bd98e55af0ef887af"
+        "sha256": "293cbe82235735bd956d138fcceea95460bcb7358f8f6f37c888f866cc994b27"
     },
     "scripts/skills/actives/summon_flying_skulls_skill.json": {
         "id": 920106,
@@ -36352,7 +36352,7 @@
         "filename": "",
         "format": "json",
         "total": 6,
-        "translated": 5,
+        "translated": 6,
         "disputed": 0,
         "checked": 4,
         "reviewed": 4,
@@ -36360,9 +36360,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:29:58.739Z",
         "updatedAt": "2026-02-11T17:21:52.161Z",
-        "modifiedAt": "2025-12-23T00:52:11.213Z",
+        "modifiedAt": "2026-05-25T08:46:07.271Z",
         "hash": "406ac587903c6c746cdccc70680a5dfc",
-        "sha256": "50e5f32c4e8f39716f71ada93053a92f1ecd6542ac97c1650e361433d5acb823"
+        "sha256": "59ed0341b62fc7222b4d52dbba287834d365b99bfa91157f0c305fa65aedb3da"
     },
     "scripts/skills/actives/unleash_wardog.json": {
         "id": 920132,
@@ -43365,15 +43365,15 @@
         "total": 6,
         "translated": 6,
         "disputed": 0,
-        "checked": 6,
-        "reviewed": 6,
+        "checked": 4,
+        "reviewed": 4,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:32:52.347Z",
         "updatedAt": "2023-06-26T05:49:50.477Z",
-        "modifiedAt": "2025-12-13T07:09:31Z",
+        "modifiedAt": "2026-05-25T08:24:55.944Z",
         "hash": "719fcea0f652eaa5d84b025f6ff9ca9f",
-        "sha256": "ae807406cf76d3665aa21fff2eda8217dabed660c66a75f1503b4483643681b0"
+        "sha256": "a4486bdebdba277ebe316085f6e9e60c28ffe897d3f2afc6c2d172893d8a6e54"
     },
     "scripts/skills/traits/oath_of_dominion_trait.json": {
         "id": 920496,
@@ -43420,7 +43420,7 @@
         "filename": "",
         "format": "json",
         "total": 11,
-        "translated": 10,
+        "translated": 11,
         "disputed": 0,
         "checked": 10,
         "reviewed": 10,
@@ -43428,9 +43428,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:32:53.361Z",
         "updatedAt": "2026-02-11T17:21:52.269Z",
-        "modifiedAt": "2025-12-13T08:13:55Z",
+        "modifiedAt": "2026-05-25T08:32:15.48Z",
         "hash": "d0f0cd5a443804e4c791377078a93dcd",
-        "sha256": "0d4c5fbd0f1dc611ca6253fda300867473f7a0e47656a6af08ca016b4a55c0d0"
+        "sha256": "6390cec1b1eef063b7b25eac79594b2a9cc67b5a2d5b6994ff6ae7053b018bdc"
     },
     "scripts/skills/traits/oath_of_honor_trait.json": {
         "id": 920499,

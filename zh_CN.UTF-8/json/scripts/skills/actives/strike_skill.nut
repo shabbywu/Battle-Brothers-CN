@@ -67,7 +67,8 @@
     "ID": 881659005,
     "key": "2aef3a9937a9e7cce7762c8b0b5024aa22e8845bd24b3c6c71d828b663c3e530",
     "original": "%[/color] chance to hit",
-    "translation": "",
+    "translation": "%[/color] 命中几率",
+    "stage": 1,
     "context": "\"Has [color=\" + this.Const.UI.Color.PositiveValue + \"]+\" + this.getHitChanceModifier() + \"%[/color] chance to hit\""
   }
 ]

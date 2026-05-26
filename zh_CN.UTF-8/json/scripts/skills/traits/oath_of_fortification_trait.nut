@@ -83,7 +83,8 @@
     "ID": 881659007,
     "key": "60f02b947b5aae6946ac3fed305a9a8675ffc0f37f24df0d706f4da12bf4bdab",
     "original": "The 'Shield Wall' shield skill grants an additional [color=",
-    "translation": "",
+    "translation": "‘盾墙’技能将会额外赋予 [color=",
+    "stage": 1,
     "context": "\"The 'Shield Wall' shield skill grants an additional [color=\" + this.Const.UI.Color.PositiveValue + \"]+5[/color] Melee Defense and [color=\" + this.Const.UI.Color.PositiveValue + \"]+5[/color] Ranged Defense.\""
   }
 ]
