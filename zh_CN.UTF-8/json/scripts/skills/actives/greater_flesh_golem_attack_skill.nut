@@ -3,7 +3,7 @@
     "ID": 629144309,
     "key": "Clout",
     "original": "Clout",
-    "translation": "冻结",
+    "translation": "扑击",
     "stage": 1,
     "context": "this.m.Name = \"Clout\""
   },
@@ -11,7 +11,7 @@
     "ID": 629144310,
     "key": "Clouted",
     "original": "Clouted",
-    "translation": "被冻结",
+    "translation": "被扑死",
     "stage": 1,
     "context": "this.m.KilledString = \"Clouted\""
   }

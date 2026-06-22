@@ -59,7 +59,7 @@
     "ID": 293408675,
     "key": "You destroyed a barbarian encampment that threatened ",
     "original": "You destroyed a barbarian encampment that threatened ",
-    "translation": "你摧毁了一个带来威胁的野蛮人营地",
+    "translation": "你摧毁了一个有威胁的野蛮人营地",
     "stage": 2,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationCivilianContractSuccess, 'You destroyed a barbarian encampment that threatened ' + this.Contract.m.Home.getName())"
   },
