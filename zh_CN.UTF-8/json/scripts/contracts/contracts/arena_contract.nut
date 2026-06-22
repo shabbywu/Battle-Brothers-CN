@@ -299,8 +299,8 @@
     "ID": 293407804,
     "key": "%SPEECH_ON%I believe northerners refer to him as a 'hate knight.' Might have that wrong. Don't tell the other arena masters I said this about northern trash, but this knight is one of the most dangerous men I've seen come through here and if you wish your",
     "original": "%SPEECH_ON%I believe northerners refer to him as a 'hate knight.' Might have that wrong. Don't tell the other arena masters I said this about northern trash, but this knight is one of the most dangerous men I've seen come through here and if you wish your path to continue being gilded then I suggest you make sharp preparations and get a good rest before the fight.%SPEECH_OFF%",
-    "translation": "%SPEECH_ON%我听说北方人管他叫‘牛郎骑士’。可能我听错了。别告诉其他竞技场主我这么说北方佬——但这骑士可不是什么花架子，是实打实的危险。要是你不想你的镀金之路就此了结，我劝你趁早磨利家伙，开打前好好养精蓄锐。%SPEECH_OFF%",
-    "stage": 5,
+    "translation": "%SPEECH_ON%我听说北方人管他叫‘游荡骑士’。可能我听错了。别告诉其他竞技场主我这么说北方佬——但这骑士可不是什么花架子，是实打实的危险。要是你不想你的镀金之路就此了结，我劝你趁早磨利家伙，开打前好好养精蓄锐。%SPEECH_OFF%",
+    "stage": 1,
     "context": "this[2] += \"%SPEECH_ON%I believe northerners refer to him as a 'hate knight.' Might have that wrong. Don't tell the other arena masters I said this about northern trash, but this knight is one of the most dangerous men I've seen come through here and if you wish your path to continue being gilded then I suggest you make sharp preparations and get a good rest before the fight.%SPEECH_OFF%\""
   },
   {

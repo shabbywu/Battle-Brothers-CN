@@ -3047,15 +3047,15 @@
         "total": 68,
         "translated": 68,
         "disputed": 0,
-        "checked": 68,
-        "reviewed": 68,
+        "checked": 67,
+        "reviewed": 67,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:48.463Z",
         "updatedAt": "2023-06-30T08:56:14.464Z",
-        "modifiedAt": "2025-11-10T10:38:05Z",
+        "modifiedAt": "2026-06-05T07:26:50.734Z",
         "hash": "80f8a9bfc1c7fd77e6fa52ee005dcfb0",
-        "sha256": "122873bc2777037577674e0570e74a36af1f8670bc58e990c5f15963b7bb24f7"
+        "sha256": "70f3623087c9434dbdcf326ca8c638478f6540352903a9ed8ea2db30875bdca2"
     },
     "scripts/contracts/contracts/arena_tournament_contract.json": {
         "id": 918428,
@@ -3395,9 +3395,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:57.391Z",
         "updatedAt": "2023-06-26T05:46:43.53Z",
-        "modifiedAt": "2025-10-24T06:55:13Z",
+        "modifiedAt": "2026-06-21T03:44:32.216Z",
         "hash": "11bb8303113b8ae9b549d27297f73c8f",
-        "sha256": "1e3c2adda83486109dc272555ab8b3634921de37d2c3938a940f8596b6ae1b96"
+        "sha256": "7c428d6a290eafd7fbe2eb8304da761765f452c8726e0467e1e4043c0c4ff004"
     },
     "scripts/contracts/contracts/drive_away_nomads_contract.json": {
         "id": 918446,
@@ -3864,15 +3864,15 @@
         "total": 41,
         "translated": 41,
         "disputed": 0,
-        "checked": 41,
-        "reviewed": 41,
+        "checked": 40,
+        "reviewed": 40,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:09.692Z",
         "updatedAt": "2025-03-25T17:06:31.668Z",
-        "modifiedAt": "2025-11-10T10:03:44Z",
+        "modifiedAt": "2026-06-05T04:02:24.546Z",
         "hash": "5ec4e8b56f5042be57eae460d8fe66e5",
-        "sha256": "4f99ca9add08c6c90f8655792b9190a35a076c3b6a8b3df97d01ec9d2076acda"
+        "sha256": "ccb5e23fd74ec41d106e3a12c2501ab13d585e7d6ef412e027e3e865cfc0602a"
     },
     "scripts/contracts/contracts/roaming_beasts_contract.json": {
         "id": 918471,
@@ -34384,9 +34384,9 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:12:17.564Z",
         "updatedAt": "2025-03-31T03:38:37.924Z",
-        "modifiedAt": "2025-03-31T03:38:38Z",
+        "modifiedAt": "2026-06-05T02:48:04.706Z",
         "hash": "c5c12ca239f3f5b3f5cfc995a56a8e25",
-        "sha256": "4dbc0277df1dddec465f9d405ba1a7921cc1a21a0356e6efe48a855fe748118c"
+        "sha256": "41d1312891cb5fcfb5725f9f730a6e1b20f6e26de38fe8dd4d702718ea6ca79f"
     },
     "scripts/skills/actives/grow_shield_skill.json": {
         "id": 920030,
