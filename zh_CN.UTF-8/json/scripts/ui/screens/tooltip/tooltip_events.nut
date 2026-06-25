@@ -3430,5 +3430,17 @@
     "translation": "显示当前以及最大参战人数。\n\n将你的士兵拖放至预定位置；顶排为面向敌人的前线，次排为后排，底排则为不参与战斗的预备队成员。",
     "stage": 5,
     "context": "text = \"Shows the current and maximum number of men placed in formation to fight in the next battle.\n\nDrag and drop your men to where you want them to be; the top row is the front facing the enemy, the second row is your back row, and the bottom row is your reserves of characters not taking part in battle.\""
+  },
+  {
+    "key": "58589017ed158190a5f1a4294b670e7a0941ad734d8daefcfd44f3889696a037",
+    "original": "Set time to pass even faster than normal. Use judiciously.",
+    "translation": "",
+    "context": "text = \"Set time to pass even faster than normal. Use judiciously.\""
+  },
+  {
+    "key": "53a92a66da11de09b0be17f53a6bdcc40b0856a348a9dca5dc2476fc50abbdb8",
+    "original": "Very Fast Speed (3)",
+    "translation": "",
+    "context": "text = \"Very Fast Speed (3)\""
   }
 ]

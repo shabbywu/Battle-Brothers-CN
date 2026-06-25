@@ -28,5 +28,11 @@
     "original": "switching to melee weapon - noone to hit from here!",
     "translation": "切换为近战武器——此处没有可攻击的目标！",
     "stage": 1
+  },
+  {
+    "key": "5fd79200e5005240f8268e6c1068d529db631f52f0227472982f19b05e2bdf88",
+    "original": ": Countering disarm with weapon '",
+    "translation": "",
+    "context": "\"* \" + _entity.getName() + \": Countering disarm with weapon '\" + oldWeapon.getID() + \"'!\""
   }
 ]

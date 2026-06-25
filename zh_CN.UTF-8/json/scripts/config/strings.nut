@@ -9825,5 +9825,41 @@
     "original": "Prowlers' Woods",
     "translation": "绰影林",
     "stage": 1
+  },
+  {
+    "key": "a68a9dc9ea8c86c0d460a504f5db75d0764b7a4e0ce1bc805cde783536d98cf2",
+    "original": "Become one with your weapon and go for the weak spots! With the offhand free or carrying a buckler or throwable tool (e.g. throwing net), an additional [color=",
+    "translation": "",
+    "context": "\"Become one with your weapon and go for the weak spots! With the offhand free or carrying a buckler or throwable tool (e.g. throwing net), an additional [color=\" + this.Const.UI.Color.PositiveValue + \"]+25%[/color] of any damage ignores armor. Does not work with two-handed weapons.\""
+  },
+  {
+    "key": "46cae25aa45ed4b7c837217097d114bda9e63b13091898378304f39eee5259fc",
+    "original": "Brigand Marauder",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "bdc3230383998356a181cd0f14791ae7332c8f195b06f7248fc9f9df8d2cf817",
+    "original": "Brigand Marauders",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "1e27e13043cb34da0f272f37caca2cdf9288c39b2ffabe2ef703c1979616b996",
+    "original": "Man-at-Arms",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c0c762afb98d00bb7df68cf775ddc0f9f1dba1e343df5f5bb050daab6fbda821",
+    "original": "Men-at-Arms",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "65b011f007e45822ef1438aa170f6dc042a3c3775ceb185a8425b783f3458017",
+    "original": "]25%[/color] less Fatigue.\n\nStab, Puncture, Deathblow, Perforate, and Skewer have a reduced Action Point cost, potentially allowing for an additional attack each turn.",
+    "translation": "",
+    "context": "\"Master swift and deadly daggers. Skills build up [color=\" + this.Const.UI.Color.NegativeValue + \"]25%[/color] less Fatigue.\\n\\nStab, Puncture, Deathblow, Perforate, and Skewer have a reduced Action Point cost, potentially allowing for an additional attack each turn.\""
   }
 ]
