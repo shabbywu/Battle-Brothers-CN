@@ -70,5 +70,11 @@
     "translation": "驯犬师",
     "stage": 1,
     "context": "this.m.Name = 'Houndmaster'"
+  },
+  {
+    "key": "3074e519a176c8e9751f16ece2d64fd04c485ad6137c263fb20a00d99c06a67f",
+    "original": "Wardogs unleashed by this character will start at confident morale",
+    "translation": "",
+    "context": "text = \"Wardogs unleashed by this character will start at confident morale\""
   }
 ]
