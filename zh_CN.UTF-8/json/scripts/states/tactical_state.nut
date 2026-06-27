@@ -328,63 +328,57 @@
     "context": "corpse.CorpseName = \"A Fleshy Corpse\""
   },
   {
+    "ID": 993341503,
     "key": "a8752bb5c9deb95f1ef2fc2a769ef7220d7e683082c784cb9b0c142cf0e7b564",
     "original": "Dense smoke covers the area, allowing anyone inside to move freely and ignore zones of control, and granting protection from ranged attacks",
-    "translation": "",
+    "translation": "浓烟笼罩着这片区域，允许其中的人无视控制区域自由移动，并提供对远程攻击的保护",
+    "stage": 1,
     "context": "Tooltip = \"Dense smoke covers the area, allowing anyone inside to move freely and ignore zones of control, and granting protection from ranged attacks\""
   },
   {
+    "ID": 993341504,
     "key": "343c0d5fdc6288d159c727f855c79b74b2793c90fca3b6a1a1ff6cf54f65941f",
     "original": "Fire rages here, melting armor and flesh alike",
-    "translation": "",
+    "translation": "火焰在这里肆虐，熔化盔甲和血肉",
+    "stage": 1,
     "context": "Tooltip = \"Fire rages here, melting armor and flesh alike\""
   },
   {
+    "ID": 993341505,
     "key": "4fb1591a31ada1d10cd2bae2283f0beb12c996e619a7aa93616f1b200f530b3e",
     "original": "Miasma lingers here, harmful to any living being",
-    "translation": "",
+    "translation": "瘴气弥漫此处，毒害所有活物",
+    "stage": 1,
     "context": "Tooltip = \"Miasma lingers here, harmful to any living being\""
   },
   {
+    "ID": 993341506,
     "key": "dc9f28b12dd1818ee42ffc92ecb940386214598837348d30d3c6c0b7b57e34c9",
     "original": "fire",
-    "translation": "",
+    "translation": "火焰",
+    "stage": 1,
     "context": "Type = \"fire\""
   },
   {
-    "key": "dc9f28b12dd1818ee42ffc92ecb940386214598837348d30d3c6c0b7b57e34c9",
-    "original": "fire",
-    "translation": "",
-    "context": ""
-  },
-  {
+    "ID": 993341507,
     "key": "02d66bd0cd94444e10e1e393d80bcb6a7e48d1118e7449be927f22e3fcbfec06",
     "original": "miasma",
-    "translation": "",
-    "context": ""
+    "translation": "瘴气",
+    "stage": 1
   },
   {
-    "key": "02d66bd0cd94444e10e1e393d80bcb6a7e48d1118e7449be927f22e3fcbfec06",
-    "original": "miasma",
-    "translation": "",
-    "context": "Type = \"miasma\""
-  },
-  {
+    "ID": 993341508,
     "key": "04d588cb41b8022d1233924f0fe8280d9e2bb92cdc81658eb102ef9c42fc9452",
     "original": "smoke",
-    "translation": "",
+    "translation": "烟雾",
+    "stage": 1,
     "context": "Type = \"smoke\""
   },
   {
-    "key": "04d588cb41b8022d1233924f0fe8280d9e2bb92cdc81658eb102ef9c42fc9452",
-    "original": "smoke",
-    "translation": "",
-    "context": ""
-  },
-  {
+    "ID": 993341509,
     "key": "b494b694cb092add1527a8be85e86b341628aeb2cf8e3f599caaf13c3cf4adca",
     "original": "undead",
     "translation": "",
-    "context": ""
+    "stage": 9
   }
 ]

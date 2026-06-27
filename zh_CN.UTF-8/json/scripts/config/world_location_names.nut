@@ -6135,9 +6135,10 @@
     "stage": 1
   },
   {
+    "ID": 993341497,
     "key": "8f1d43b55dfad405a2817c3f36d5b146592184d875831c9d19eda1f09a3fdbec",
     "original": "Orc Infested Cave",
-    "translation": "",
-    "context": ""
+    "translation": "兽人占据的洞穴",
+    "stage": 1
   }
 ]

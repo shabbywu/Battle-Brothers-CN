@@ -72,9 +72,11 @@
     "context": "this.m.Name = 'Houndmaster'"
   },
   {
+    "ID": 993341502,
     "key": "3074e519a176c8e9751f16ece2d64fd04c485ad6137c263fb20a00d99c06a67f",
     "original": "Wardogs unleashed by this character will start at confident morale",
-    "translation": "",
+    "translation": "由该角色释放的战犬将以自信的士气开始战斗",
+    "stage": 1,
     "context": "text = \"Wardogs unleashed by this character will start at confident morale\""
   }
 ]

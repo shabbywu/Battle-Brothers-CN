@@ -80,9 +80,11 @@
     "context": "return 'undefined bridge brush';"
   },
   {
+    "ID": 993341496,
     "key": "94adacf18ff70225928d36c1c97356e8207c46eab83265725053a4d6d9262c4d",
     "original": "Shore Brush undefined (",
-    "translation": "",
+    "translation": "未定义的海岸笔刷 (",
+    "stage": 1,
     "context": "\"Shore Brush undefined (\" + _d + \")!\""
   }
 ]
