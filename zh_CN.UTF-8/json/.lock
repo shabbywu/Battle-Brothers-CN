@@ -6245,9 +6245,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:54.091Z",
         "updatedAt": "2023-06-26T05:47:05.752Z",
-        "modifiedAt": "2025-12-23T00:51:15.657Z",
+        "modifiedAt": "2026-06-26T09:01:57.372Z",
         "hash": "448201c6313103d3a8b8f10e62cee3c6",
-        "sha256": "0f443b72530a3b178f596c26babed0ef084f822072e61e85cf4a32f8b28adc00"
+        "sha256": "5b2e3f062cf75bff907a5a2f6f911760bc11d2b942d29ad2afa9accd30ae1f91"
     },
     "scripts/entity/world/attached_location/blast_furnace_location.json": {
         "id": 918589,
@@ -6264,9 +6264,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:54.895Z",
         "updatedAt": "2023-06-26T05:47:05.815Z",
-        "modifiedAt": "2025-12-23T00:51:58.213Z",
+        "modifiedAt": "2026-06-26T08:57:12.493Z",
         "hash": "bc78bba5f33634b525542e0b68502640",
-        "sha256": "d6700b8bc5b3802664a93aae92ea65f78090ffa3cc9e44e32aa727c77dcf6c7a"
+        "sha256": "eb9ceb798cc78a7dd3654d0068312992058da8a048a0d60d517b0444891788d0"
     },
     "scripts/entity/world/attached_location/brewery_location.json": {
         "id": 918590,
@@ -6283,9 +6283,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:55.974Z",
         "updatedAt": "2023-06-26T05:47:05.961Z",
-        "modifiedAt": "2024-07-22T08:21:06Z",
+        "modifiedAt": "2026-06-26T09:04:46.51Z",
         "hash": "700339aef2604b49a350be444ec6cbe1",
-        "sha256": "1aff47b06af574f0f653cc165d581d717eb8843be256aebf18adae354f34422c"
+        "sha256": "150420451f220208e6bb69f75329a74ad87188ca67d9eb9bf435ea722b444ab1"
     },
     "scripts/entity/world/attached_location/dye_maker_location.json": {
         "id": 918591,
@@ -6340,9 +6340,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:57.316Z",
         "updatedAt": "2023-06-26T05:47:06.243Z",
-        "modifiedAt": "2024-07-22T08:44:17Z",
+        "modifiedAt": "2026-06-26T09:09:32.234Z",
         "hash": "8c8940a4404940f568116b62ac3e50b3",
-        "sha256": "47d06505788f7f471cccbb1663d1bd5462c05fa773d9d01519a7e64b5c12c661"
+        "sha256": "16da5a5d0cc6e0748095f4004b63a95c097b495acbc4b69900ba5c9eaef856d2"
     },
     "scripts/entity/world/attached_location/fortified_outpost_location.json": {
         "id": 918594,
@@ -6454,9 +6454,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:18:59.993Z",
         "updatedAt": "2023-06-26T05:47:06.767Z",
-        "modifiedAt": "2025-10-17T03:23:10Z",
+        "modifiedAt": "2026-06-26T09:16:44.23Z",
         "hash": "92ed13472018ecb46d1c02638afc2aad",
-        "sha256": "1a15d56f714ccc24194880882a61247cfd558db8a59ca591961981e4a48fd937"
+        "sha256": "3035324c3df43386708eb497a9604b91ecbd9c63e6bd8564888e17c848fa729a"
     },
     "scripts/entity/world/attached_location/harbor_location.json": {
         "id": 918600,
