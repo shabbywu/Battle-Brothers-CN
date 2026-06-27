@@ -1,0 +1,278 @@
+[
+  {
+    "key": "92458ad0c611028a19764b228464206ec0f5e781ad91ed965753a76d81bbc0d8",
+    "original": " crowns in advance",
+    "translation": "",
+    "context": "\"Get \" + this.Contract.m.Payment.getInAdvance() + \" crowns in advance\""
+  },
+  {
+    "key": "59e4f36fb6094abb783726488eb67a8a8ce47a9a54e1cc4f7efc5adde82128a7",
+    "original": " crowns on completion",
+    "translation": "",
+    "context": "\"Get \" + this.Contract.m.Payment.getOnCompletion() + \" crowns on completion\""
+  },
+  {
+    "key": "d7522a3f11ca0eede5fa44eb75f4beb72963bdeaa2dbb0772743edb698c65378",
+    "original": " crowns per head you arrive with, up to ",
+    "translation": "",
+    "context": "\"Get \" + this.Contract.m.Payment.getPerCount() + \" crowns per head you arrive with, up to \" + this.Contract.m.Payment.MaxCount + \" total\""
+  },
+  {
+    "key": "998813ca6caeb918f52bf96840394d5f6c32862d912d86c3769aa05d2efe8675",
+    "original": " crowns per head you bring back, up to ",
+    "translation": "",
+    "context": "\"Get \" + this.Contract.m.Payment.getPerCount() + \" crowns per head you bring back, up to \" + this.Contract.m.Payment.MaxCount + \" total\""
+  },
+  {
+    "key": "88c4fa9611792c998a67d25c19fdf071e831f30cb381ad6af487be1c7b86100f",
+    "original": " total",
+    "translation": "",
+    "context": "\"Get \" + this.Contract.m.Payment.getPerCount() + \" crowns per head you bring back, up to \" + this.Contract.m.Payment.MaxCount + \" total\""
+  },
+  {
+    "key": "88c4fa9611792c998a67d25c19fdf071e831f30cb381ad6af487be1c7b86100f",
+    "original": " total",
+    "translation": "",
+    "context": "\"Get \" + this.Contract.m.Payment.getPerCount() + \" crowns per head you arrive with, up to \" + this.Contract.m.Payment.MaxCount + \" total\""
+  },
+  {
+    "key": "b177a473e6f4271541a9e9e354b3ec7144f982ba89a1d498ecefd024456fbe8a",
+    "original": "Contract negotiations turned sour",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "9b79338efc10fd7a2d89220306b328e0b9d854cf1524ae671e79f35fd7b02bf1",
+    "original": "Forget it, this isn't worth it.",
+    "translation": "",
+    "context": "Text = \"Forget it, this isn't worth it.\""
+  },
+  {
+    "key": "9d22c3380dafac610d6630225f05e852662ebf475eddbe1066f0095522fee59e",
+    "original": "Get ",
+    "translation": "",
+    "context": "\"Get \" + this.Contract.m.Payment.getOnCompletion() + \" crowns on completion\""
+  },
+  {
+    "key": "9d22c3380dafac610d6630225f05e852662ebf475eddbe1066f0095522fee59e",
+    "original": "Get ",
+    "translation": "",
+    "context": "\"Get \" + this.Contract.m.Payment.getPerCount() + \" crowns per head you bring back, up to \" + this.Contract.m.Payment.MaxCount + \" total\""
+  },
+  {
+    "key": "9d22c3380dafac610d6630225f05e852662ebf475eddbe1066f0095522fee59e",
+    "original": "Get ",
+    "translation": "",
+    "context": "\"Get \" + this.Contract.m.Payment.getInAdvance() + \" crowns in advance\""
+  },
+  {
+    "key": "9d22c3380dafac610d6630225f05e852662ebf475eddbe1066f0095522fee59e",
+    "original": "Get ",
+    "translation": "",
+    "context": "\"Get \" + this.Contract.m.Payment.getPerCount() + \" crowns per head you arrive with, up to \" + this.Contract.m.Payment.MaxCount + \" total\""
+  },
+  {
+    "key": "0ff031bf6ac8f25b81e889380fdd501594eb2381aab5732f12cb2d9fae9c9539",
+    "original": "I accept this contract.",
+    "translation": "",
+    "context": "Text = \"I accept this contract.\""
+  },
+  {
+    "key": "7d57f5dc898294359ad4ad02a1abed0611398c201221d3c83bbe65e955502440",
+    "original": "I accept your offer.",
+    "translation": "",
+    "context": "Text = \"I accept your offer.\""
+  },
+  {
+    "key": "52fdc459220bb0bfeec71a3504bca14482e96f2cf32e01064bbbe22a937c944d",
+    "original": "I'll need some time to think about this.",
+    "translation": "",
+    "context": "Text = \"I'll need some time to think about this.\""
+  },
+  {
+    "key": "e118b8b104814007c28f11cc75cf462591337e4686c50908a368b947d3fc29b0",
+    "original": "Negotiations",
+    "translation": "",
+    "context": "Title = \"Negotiations\""
+  },
+  {
+    "key": "2607275fce08b707deffb3d29b6a2a0691d1b8c3c269226aa936eb8a753350f8",
+    "original": "On second thought, I decline this contract.",
+    "translation": "",
+    "context": "Text = \"On second thought, I decline this contract.\""
+  },
+  {
+    "key": "20b1f58e0cea8c5c1aaf777c53c7387d5a5fa859a8c7eed79a31f7d0b38de2af",
+    "original": "The contract you negotiated is as follows. Do you agree to the terms?",
+    "translation": "",
+    "context": "Text = \"The contract you negotiated is as follows. Do you agree to the terms?\""
+  },
+  {
+    "key": "43631d3aa450f910888a06873ed848fc927c57f8825c07fe3cb9a62ca307bf66",
+    "original": "We need more payment in advance.",
+    "translation": "",
+    "context": "Text = this.Contract.m.Payment.Advance == 0 ? \"We need payment in advance.\" : \"We need more payment in advance.\""
+  },
+  {
+    "key": "811d5ff57cd2b0fdf5b8bb472072550629407ff1c666f1b74e6ff59fc30b8f88",
+    "original": "We need more payment once the work is done.",
+    "translation": "",
+    "context": "Text = this.Contract.m.Payment.Completion == 0 ? \"We need payment once the work is done.\" : \"We need more payment once the work is done.\""
+  },
+  {
+    "key": "6ce1e2f01e78d4e7a0973150981529c06bea57f1ecc65c321d7cb5426568aa62",
+    "original": "We need payment in advance.",
+    "translation": "",
+    "context": "Text = this.Contract.m.Payment.Advance == 0 ? \"We need payment in advance.\" : \"We need more payment in advance.\""
+  },
+  {
+    "key": "9f4cdec107374ce997bf704f0b7df78fcdf8cffec07478de71ce3559caf0ad61",
+    "original": "We need payment once the work is done.",
+    "translation": "",
+    "context": "Text = this.Contract.m.Payment.Completion == 0 ? \"We need payment once the work is done.\" : \"We need more payment once the work is done.\""
+  },
+  {
+    "key": "fdd55f6022028cdcbd54da0783923d4f6756c618caefd2665f1af312c9835853",
+    "original": "We need to be paid more for this.",
+    "translation": "",
+    "context": "Text = \"We need to be paid more for this.\""
+  },
+  {
+    "key": "3e24394542b1303e73b94d3e73486f9b54624a63a95e0681f95edcf86d1a0a91",
+    "original": "We need to be paid more per head we arrive with.",
+    "translation": "",
+    "context": "Text = this.Contract.m.Payment.Count == 0 ? \"We need to be paid per head we arrive with.\" : \"We need to be paid more per head we arrive with.\""
+  },
+  {
+    "key": "2568c71a77de6800cea002c2cc4977ad4d5174b84050e3df020e47ba962a0ee2",
+    "original": "We need to be paid more per head we return with.",
+    "translation": "",
+    "context": "Text = this.Contract.m.Payment.Count == 0 ? \"We need to be paid per head we return with.\" : \"We need to be paid more per head we return with.\""
+  },
+  {
+    "key": "81bee40aeb7ba3542bc2545ac0bf92be27731f71296dd030e88751c73ed635d4",
+    "original": "We need to be paid per head we arrive with.",
+    "translation": "",
+    "context": "Text = this.Contract.m.Payment.Count == 0 ? \"We need to be paid per head we arrive with.\" : \"We need to be paid more per head we arrive with.\""
+  },
+  {
+    "key": "39261dcac9c33601230a6a58d5efb72f2a93190851785d5ff47fd7eda9fce5c2",
+    "original": "We need to be paid per head we return with.",
+    "translation": "",
+    "context": "Text = this.Contract.m.Payment.Count == 0 ? \"We need to be paid per head we return with.\" : \"We need to be paid more per head we return with.\""
+  },
+  {
+    "key": "664a36117dbeb60ddc7683a65ed59c3dcb8deb8f8ff5cfaf1d1136722376e741",
+    "original": "We won't risk our lives for such meager pay...",
+    "translation": "",
+    "context": "Text = \"We won't risk our lives for such meager pay...\""
+  },
+  {
+    "key": "aaa5790bdb4191dc9937f50ca766bc165761af27a69f7da95a4f05ba96cfd0c1",
+    "original": "You'll be paid nothing. Is that what you want?%SPEECH_OFF%",
+    "translation": "",
+    "context": "this[1] + \"You'll be paid nothing. Is that what you want?%SPEECH_OFF%\""
+  },
+  {
+    "key": "e19f027b052249ed2cd92cc8e497550eef82b8ca24774122d3e56295e69a68b1",
+    "original": "[img]gfx/ui/events/event_04.png[/img]{%SPEECH_START%I refuse to pay any more for this.  | %SPEECH_START%Be reasonable.  | %SPEECH_START%No, no, no.  | %SPEECH_START%Who do you think you are? I tell you how you're getting paid.  | He just looks at you sternly and shakes his head.%SPEECH_ON% | %SPEECH_START%No way!%SPEECH_OFF%He shouts, bursting with anger.%SPEECH_ON% | %SPEECH_START%No, you are already getting more than you're worth.  | %SPEECH_START%No. Do not push me too far!  | %SPEECH_START%I don't think you quite understand how this works. We need to come to terms if you want to be paid for this. My offer still stands. }",
+    "translation": "",
+    "context": "this.Text = \"[img]gfx/ui/events/event_04.png[/img]{%SPEECH_START%I refuse to pay any more for this.  | %SPEECH_START%Be reasonable.  | %SPEECH_START%No, no, no.  | %SPEECH_START%Who do you think you are? I tell you how you're getting paid.  | He just looks at you sternly and shakes his head.%SPEECH_ON% | %SPEECH_START%No way!%SPEECH_OFF%He shouts, bursting with anger.%SPEECH_ON% | %SPEECH_START%No, you are already getting more than you're worth.  | %SPEECH_START%No. Do not push me too far!  | %SPEECH_START%I don't think you quite understand how this works. We need to come to terms if you want to be paid for this. My offer still stands. }\""
+  },
+  {
+    "key": "1894ff09e4618dd9f58c1ea9570732f846efb4e360ba31ecbd73a2ed966fa22c",
+    "original": "[img]gfx/ui/events/event_04.png[/img]{%SPEECH_START%This is it then?  | He takes a deep breath.%SPEECH_ON% | He sighs.%SPEECH_ON% | %SPEECH_START%Fair enough.  | %SPEECH_START%Fine, fine.  | %SPEECH_START%If it must be.  | %SPEECH_START%Fine. How about this?  | %SPEECH_START%Sure, sure, I understand.  | %SPEECH_START%Reasonable.  | %SPEECH_START%Interesting. I think this would be more appropiate then.  | %SPEECH_START%Would you take this instead?  | %SPEECH_START%Let me make the following offer.  | %SPEECH_ON%Fair. Would you accept this instead?  | %SPEECH_START%Very well. Given your demands I offer you this.  | %SPEECH_START%Let's get this over with quickly. Here is my new offer.  | %SPEECH_START%We're all friends here, aren't we? Let's see... }",
+    "translation": "",
+    "context": "this.Text = \"[img]gfx/ui/events/event_04.png[/img]{%SPEECH_START%This is it then?  | He takes a deep breath.%SPEECH_ON% | He sighs.%SPEECH_ON% | %SPEECH_START%Fair enough.  | %SPEECH_START%Fine, fine.  | %SPEECH_START%If it must be.  | %SPEECH_START%Fine. How about this?  | %SPEECH_START%Sure, sure, I understand.  | %SPEECH_START%Reasonable.  | %SPEECH_START%Interesting. I think this would be more appropiate then.  | %SPEECH_START%Would you take this instead?  | %SPEECH_START%Let me make the following offer.  | %SPEECH_ON%Fair. Would you accept this instead?  | %SPEECH_START%Very well. Given your demands I offer you this.  | %SPEECH_START%Let's get this over with quickly. Here is my new offer.  | %SPEECH_START%We're all friends here, aren't we? Let's see... }\""
+  },
+  {
+    "key": "71b7fe868b5b60d1134adacf9f54e3c8fa0ab7363693de65975a8b49bc8d1146",
+    "original": "[img]gfx/ui/events/event_04.png[/img]{He nods.%SPEECH_ON%Yes. Good. I was thinking about payment for your task earlier. | He smiles.%SPEECH_ON%This will make you a rich man, my friend. | He takes a deep breath.%SPEECH_ON%Very well, this is what I'm prepared to offer you. | He puts his hand on your shoulder, smiling reaffirmingly.%SPEECH_ON%I think I know an adequate compensation for your services. | He gesticulates with his hands, pointing at his fingers as if counting something, but it means nothing to you.%SPEECH_ON%Judging from experience, this is good payment for the task. | He nods. %SPEECH_ON%You look able, so I am willing to pay quite a bit. | He jingles with a bag of coins.%SPEECH_ON%This will be yours if you help me out on this. | He opens the palm of his hands.%SPEECH_ON%I'm tight on crowns, so before you ask, this is all I have right now. | %SPEECH_ON%Rest assured that what I'm offering you now is a fine prize for your work.} ",
+    "translation": "",
+    "context": "this.Text = \"[img]gfx/ui/events/event_04.png[/img]{He nods.%SPEECH_ON%Yes. Good. I was thinking about payment for your task earlier. | He smiles.%SPEECH_ON%This will make you a rich man, my friend. | He takes a deep breath.%SPEECH_ON%Very well, this is what I'm prepared to offer you. | He puts his hand on your shoulder, smiling reaffirmingly.%SPEECH_ON%I think I know an adequate compensation for your services. | He gesticulates with his hands, pointing at his fingers as if counting something, but it means nothing to you.%SPEECH_ON%Judging from experience, this is good payment for the task. | He nods. %SPEECH_ON%You look able, so I am willing to pay quite a bit. | He jingles with a bag of coins.%SPEECH_ON%This will be yours if you help me out on this. | He opens the palm of his hands.%SPEECH_ON%I'm tight on crowns, so before you ask, this is all I have right now. | %SPEECH_ON%Rest assured that what I'm offering you now is a fine prize for your work.} \""
+  },
+  {
+    "key": "bf20f525f37b9830e546ce3f6ab3406f22f8dff3999717748745ea784ab95449",
+    "original": "[img]gfx/ui/events/event_04.png[/img]{He nods.%SPEECH_ON%Yes. Good. I was thinking about payment for your task earlier. | He straightens up.%SPEECH_ON%So, payment. | He smiles.%SPEECH_ON%This will make you a rich man, my friend. | He takes a deep breath.%SPEECH_ON%Very well, this is what I'm prepared to offer you. | He puts his hand on your shoulder, smiling reaffirmingly.%SPEECH_ON%I think I know an adequate compensation for your services. | He gesticulates with his hands, pointing at his fingers as if counting something, but it means nothing to you.%SPEECH_ON%Judging from experience, this is good payment for the task. | He nods. %SPEECH_ON%You look able, so I am willing to pay quite a bit. | He jingles with a bag of coins.%SPEECH_ON%This will be yours if you help me out on this. | He opens the palm of his hands.%SPEECH_ON%I'm tight on crowns, so before you ask, this is all I have right now. | %SPEECH_ON%Rest assured that what I'm offering you now is a fine prize for your work.} ",
+    "translation": "",
+    "context": "this.Text = \"[img]gfx/ui/events/event_04.png[/img]{He nods.%SPEECH_ON%Yes. Good. I was thinking about payment for your task earlier. | He straightens up.%SPEECH_ON%So, payment. | He smiles.%SPEECH_ON%This will make you a rich man, my friend. | He takes a deep breath.%SPEECH_ON%Very well, this is what I'm prepared to offer you. | He puts his hand on your shoulder, smiling reaffirmingly.%SPEECH_ON%I think I know an adequate compensation for your services. | He gesticulates with his hands, pointing at his fingers as if counting something, but it means nothing to you.%SPEECH_ON%Judging from experience, this is good payment for the task. | He nods. %SPEECH_ON%You look able, so I am willing to pay quite a bit. | He jingles with a bag of coins.%SPEECH_ON%This will be yours if you help me out on this. | He opens the palm of his hands.%SPEECH_ON%I'm tight on crowns, so before you ask, this is all I have right now. | %SPEECH_ON%Rest assured that what I'm offering you now is a fine prize for your work.} \""
+  },
+  {
+    "key": "ee39f140c7c1ce9f09cec77cc709ee3984188699c2d26aab88ce29ddc5fdaa3c",
+    "original": "[img]gfx/ui/events/event_74.png[/img]{%SPEECH_START%You act as if you were the only ones to hold a sword for coin. I think I'll look elsewhere for the men I need. Good day.%SPEECH_OFF% | %SPEECH_START%My patience has limits, too, and I think I'm wasting my time here.%SPEECH_OFF% | %SPEECH_START%I've had enough of this! I'm sure I'll find someone else to do the job!%SPEECH_OFF% | %SPEECH_START%Do not insult my intelligence! Forget about this contract. We're done.%SPEECH_OFF% | He's face turns red with anger.%SPEECH_ON%Get out of here, I'm not in the habit of making deals with greedy devils!%SPEECH_OFF% | He sighs. %SPEECH_ON%Just... forget it. I shouldn't have trusted you in the first place. Leave me so I can look for other, more sensible men.%SPEECH_OFF% | %SPEECH_START%I really thought we had a good relationship here. But know that I can only be pushed so far. I don't think this is working out. I'll take my leave.%SPEECH_OFF% | %SPEECH_ON%This has been an utter waste of time for me. Don't bother coming back until you learned some reason.%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_74.png[/img]{%SPEECH_START%You act as if you were the only ones to hold a sword for coin. I think I'll look elsewhere for the men I need. Good day.%SPEECH_OFF% | %SPEECH_START%My patience has limits, too, and I think I'm wasting my time here.%SPEECH_OFF% | %SPEECH_START%I've had enough of this! I'm sure I'll find someone else to do the job!%SPEECH_OFF% | %SPEECH_START%Do not insult my intelligence! Forget about this contract. We're done.%SPEECH_OFF% | He's face turns red with anger.%SPEECH_ON%Get out of here, I'm not in the habit of making deals with greedy devils!%SPEECH_OFF% | He sighs. %SPEECH_ON%Just... forget it. I shouldn't have trusted you in the first place. Leave me so I can look for other, more sensible men.%SPEECH_OFF% | %SPEECH_START%I really thought we had a good relationship here. But know that I can only be pushed so far. I don't think this is working out. I'll take my leave.%SPEECH_OFF% | %SPEECH_ON%This has been an utter waste of time for me. Don't bother coming back until you learned some reason.%SPEECH_OFF%}\""
+  },
+  {
+    "key": "c85b2e32a7e3db04a5b91867bed4672ba13b6395988ea646382ef7f6b3a7c9f6",
+    "original": "[img]gfx/ui/events/event_74.png[/img]{%SPEECH_START%You act as if you were the only ones to hold a sword for coin. I think I'll look elsewhere for the men I need. Good day.%SPEECH_OFF% | %SPEECH_START%My patience has limits, too, and I think I'm wasting my time here.%SPEECH_OFF% | %SPEECH_START%I've had enough of this! I'm sure I'll find someone else to do the job!%SPEECH_OFF% | %SPEECH_START%Do not insult my intelligence! Forget about this contract. We're done.%SPEECH_OFF% | He's face turns red with anger.%SPEECH_ON%Get out of here, I'm not in the habit of making deals with greedy devils!%SPEECH_OFF% | He sighs. %SPEECH_ON%Just... forget it. I shouldn't have trusted you in the first place. Leave me so I can look for other, more sensible men.%SPEECH_OFF% | %SPEECH_START%I really thought we had a good relationship here. But know that I can only be pushed so far. I don't think this is working out. I'll take my leave.%SPEECH_OFF% | %SPEECH_START%This has been an utter waste of time for me. Don't bother coming back until you learned some reason.%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_74.png[/img]{%SPEECH_START%You act as if you were the only ones to hold a sword for coin. I think I'll look elsewhere for the men I need. Good day.%SPEECH_OFF% | %SPEECH_START%My patience has limits, too, and I think I'm wasting my time here.%SPEECH_OFF% | %SPEECH_START%I've had enough of this! I'm sure I'll find someone else to do the job!%SPEECH_OFF% | %SPEECH_START%Do not insult my intelligence! Forget about this contract. We're done.%SPEECH_OFF% | He's face turns red with anger.%SPEECH_ON%Get out of here, I'm not in the habit of making deals with greedy devils!%SPEECH_OFF% | He sighs. %SPEECH_ON%Just... forget it. I shouldn't have trusted you in the first place. Leave me so I can look for other, more sensible men.%SPEECH_OFF% | %SPEECH_START%I really thought we had a good relationship here. But know that I can only be pushed so far. I don't think this is working out. I'll take my leave.%SPEECH_OFF% | %SPEECH_START%This has been an utter waste of time for me. Don't bother coming back until you learned some reason.%SPEECH_OFF%}\""
+  },
+  {
+    "key": "5d82bb08c9c9d3d69b712e7e97901ea8c545c0bb598efd183b1d4d854b0f9110",
+    "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%",
+    "translation": "",
+    "context": "this[1] + \"{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%\""
+  },
+  {
+    "key": "315cc058f1a1534fe93fe6cd13d11f0b32cee3e740923b3830b16985804165ef",
+    "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, %reward_count% crowns per head you bring, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%",
+    "translation": "",
+    "context": "this[1] + \"{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, %reward_count% crowns per head you bring, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%\""
+  },
+  {
+    "key": "48d2e55ce9372fd4fadb25753dc34930d36f44e73cfaae8f5934b350a034c465",
+    "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, and another %reward_completion% when the job is done.%SPEECH_OFF%",
+    "translation": "",
+    "context": "this[1] + \"{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, and another %reward_completion% when the job is done.%SPEECH_OFF%\""
+  },
+  {
+    "key": "4eabf283d94e12f9daf831d40e06c711f370fd76fa786d7bf9f2cc61f2ce58ff",
+    "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, and another %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%",
+    "translation": "",
+    "context": "this[1] + \"{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, and another %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%\""
+  },
+  {
+    "key": "ba711a9bfe82754892824a851112975128a2d35bb7d1b2b9c3ac7eab4dffa107",
+    "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, and another %reward_count% crowns per head you bring back, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%",
+    "translation": "",
+    "context": "this[1] + \"{You'll get | You are to receive | You'll be paid | It's} %reward_advance% crowns in advance, and another %reward_count% crowns per head you bring back, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%\""
+  },
+  {
+    "key": "29b47a4a91812ca948f24a6851f496cfa24697e87da725fab16833e8d684de2d",
+    "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_completion% crowns when the contract is done.%SPEECH_OFF%",
+    "translation": "",
+    "context": "this[1] + \"{You'll get | You are to receive | You'll be paid | It's} %reward_completion% crowns when the contract is done.%SPEECH_OFF%\""
+  },
+  {
+    "key": "3f9635e2686ed4f6cd6bb15a444e2fd806cb3e263ec0035818bc4633afb4fb07",
+    "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%",
+    "translation": "",
+    "context": "this[1] + \"{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%\""
+  },
+  {
+    "key": "ea08b2241b1e2aa4a9249df8ac65e9f1dc79d9c2766c64e8c1be7de92ca60fc8",
+    "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%",
+    "translation": "",
+    "context": "this[1] + \"{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you arrive with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%\""
+  },
+  {
+    "key": "04b274c0d0286de09fc6b84303dfba2ed99f26c6a54a470970d7467cea4a6094",
+    "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you bring back, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%",
+    "translation": "",
+    "context": "this[1] + \"{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you bring back, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}.%SPEECH_OFF%\""
+  },
+  {
+    "key": "f3a525df9a7263188ba1278c8c2b82f8a65d117a07e29d02cb25a891cbfe9400",
+    "original": "{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you return with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%",
+    "translation": "",
+    "context": "this[1] + \"{You'll get | You are to receive | You'll be paid | It's} %reward_count% crowns per head you return with, {for up to %maxcount% heads | and I'll pay for up to %maxcount% heads | %maxcount% heads at most}, and another %reward_completion% when the job is done.%SPEECH_OFF%\""
+  },
+  {
+    "key": "9b6e26694b8cd77d0a1827d72456956a14c5ba6fbdcd887d09403fbf7ea0536b",
+    "original": "{You'll get | You are to receive | You'll be paid} all %reward_advance% crowns in advance.%SPEECH_OFF%",
+    "translation": "",
+    "context": "this[1] + \"{You'll get | You are to receive | You'll be paid} all %reward_advance% crowns in advance.%SPEECH_OFF%\""
+  }
+]

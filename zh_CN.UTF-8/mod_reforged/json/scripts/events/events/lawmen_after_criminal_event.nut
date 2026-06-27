@@ -1,0 +1,158 @@
+[
+  {
+    "key": "88ecd252ad11cb0d70863a5e60eb3fd2a4dbeb04776c64e142666cccd1871b88",
+    "original": " has left the company",
+    "translation": "",
+    "context": "_event.m.Criminal.getName() + \" has left the company\""
+  },
+  {
+    "key": "285db421dde6f5bb8b0df2eb451a601f6425d4083ee4ded41980c845a8d30c76",
+    "original": "Along the road...",
+    "translation": "",
+    "context": "this.m.Title = \"Along the road...\""
+  },
+  {
+    "key": "d84e102765128a4dafb50f2cecadad052dd494a9b8083233ce657e5181cb4258",
+    "original": "Charge!",
+    "translation": "",
+    "context": "Text = \"Charge!\""
+  },
+  {
+    "key": "c4e469d52c7598df0777cfb63c22f0425800b75eb48822f0ecd25f3a76082342",
+    "original": "Don't challenge the %companyname%!",
+    "translation": "",
+    "context": "Text = \"Don't challenge the %companyname%!\""
+  },
+  {
+    "key": "d440bedfb010829b9f3eedab5d02b5e73d6e8b34538da9bf951a82d65b90301a",
+    "original": "Form up!",
+    "translation": "",
+    "context": "Text = \"Form up!\""
+  },
+  {
+    "key": "88577470d9058d8e2c821564f5dbf434876ad4cebec8b15f030112c4f8445523",
+    "original": "I can't put the whole company on the line for you.",
+    "translation": "",
+    "context": "Text = \"I can't put the whole company on the line for you.\""
+  },
+  {
+    "key": "285d6cc2afa8db542721945d5c3b4609f308b762fdbdc09887f5234de0adc2fd",
+    "original": "Phew.",
+    "translation": "",
+    "context": "Text = \"Phew.\""
+  },
+  {
+    "key": "e028c9756c2140135deb35742c3d6c635961a058d2df4cf7731c3502aa2a2206",
+    "original": "Surely this isn't something that can't be solved with a fat purse of crowns?",
+    "translation": "",
+    "context": "Text = \"Surely this isn't something that can't be solved with a fat purse of crowns?\""
+  },
+  {
+    "key": "a6d4e579afd4776decef79be15e2c4e6bb3a05e759778b86fb409842787a5b27",
+    "original": "The company would only suffer if we fought over this. The man is yours.",
+    "translation": "",
+    "context": "Text = \"The company would only suffer if we fought over this. The man is yours.\""
+  },
+  {
+    "key": "d1d3ba1599c47885136b9800c89039677eb69f65aa034f1370c90c9e5c461628",
+    "original": "Was protected by the company",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "e6b760d3f858a857fef609c9114bf9dd4d107676b90572742b13ded65e3e6e57",
+    "original": "We'll not give him up.",
+    "translation": "",
+    "context": "Text = \"We'll not give him up.\""
+  },
+  {
+    "key": "e15d8c9bc278c2287e2a23b44c174a15453ec50857b543454b5f16f2e432788b",
+    "original": "What I don't do for you lot...",
+    "translation": "",
+    "context": "Text = \"What I don't do for you lot...\""
+  },
+  {
+    "key": "75c45e6b8866c7aacf8d3a14cae5d644d278d2f53ab2cc835118e64cc9d12404",
+    "original": "You gain [color=",
+    "translation": "",
+    "context": "\"You gain [color=\" + this.Const.UI.Color.PositiveEventValue + \"]\" + 100 + \"[/color] Crowns\""
+  },
+  {
+    "key": "a3c7e4da56aeadd8229a30e7d2a13b570d2171421221cdf4fd06551aa75744d7",
+    "original": "You got a drawing of the man you're after? Let me take a look.",
+    "translation": "",
+    "context": "Text = \"You got a drawing of the man you're after? Let me take a look.\""
+  },
+  {
+    "key": "64ccf788b4a98a05a02cd388bcf78fb31928480b2041b839d628a9e9aaff8228",
+    "original": "You killed some of their men",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "8359c5e38d848ee0cd35ef8e58e4a384b88eeeca05263f70d42bc051f4eb6b37",
+    "original": "You know who it is you're threatening? The %companyname%!",
+    "translation": "",
+    "context": "Text = \"You know who it is you're threatening? The %companyname%!\""
+  },
+  {
+    "key": "a13fe5411cacd783f255c572bdc6c56739d54be420a516b38fb8ae49baa5a6d3",
+    "original": "You spend [color=",
+    "translation": "",
+    "context": "\"You spend [color=\" + this.Const.UI.Color.NegativeEventValue + \"]\" + 1000 + \"[/color] Crowns\""
+  },
+  {
+    "key": "4c7191ec29bcad5f88c9782f841c0151bf3019e2218c080ea4787ee82639d2e1",
+    "original": "[/color] Crowns",
+    "translation": "",
+    "context": "\"You spend [color=\" + this.Const.UI.Color.NegativeEventValue + \"]\" + 1000 + \"[/color] Crowns\""
+  },
+  {
+    "key": "4c7191ec29bcad5f88c9782f841c0151bf3019e2218c080ea4787ee82639d2e1",
+    "original": "[/color] Crowns",
+    "translation": "",
+    "context": "\"You gain [color=\" + this.Const.UI.Color.PositiveEventValue + \"]\" + 100 + \"[/color] Crowns\""
+  },
+  {
+    "key": "6890ca5a5c34d95401fe4434fc166af96412fa30ad798e1d1795cbcebc00d9c6",
+    "original": "[img]gfx/ui/events/event_04.png[/img]The captain's threats are cooled when you retrieve a large satchel of crowns. His men exchange glances as you hold the bag up.%SPEECH_ON%We've no time for this. What I have here is %bribe% crowns. Take it and go away. Stay, and earn yourself a grave. Your choice, lawman.%SPEECH_OFF%Sensing the stares of his fellow riders, the captain is especially careful in mulling this one over. He sizes up your men, and briefly does the same to his men. He must see great losses for he finally nods. Jerking his horse's bridle, he drives his steed forward and the two of you come face to face. You smile as you hand the crowns over.%SPEECH_ON%Spend it well.%SPEECH_OFF%The captain takes the satchel and cinches it to the side of his saddle, looping the leather harness over the hilt of a sword while his men look on. He nods, but does not smile back.%SPEECH_ON%My daughter is to be wed in a fortnight. I'd like to be there.%SPEECH_OFF%You nod and bid the humorless captain farewell.%SPEECH_ON%May her husband be kind, and her children bountiful.%SPEECH_OFF%The captain haws his horse and leads it back to his men. They depart, the hooves of their mounts steadily thumping into the distance until there is nothing but the scratch of wind-tickled grass to fill the air.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_04.png[/img]The captain's threats are cooled when you retrieve a large satchel of crowns. His men exchange glances as you hold the bag up.%SPEECH_ON%We've no time for this. What I have here is %bribe% crowns. Take it and go away. Stay, and earn yourself a grave. Your choice, lawman.%SPEECH_OFF%Sensing the stares of his fellow riders, the captain is especially careful in mulling this one over. He sizes up your men, and briefly does the same to his men. He must see great losses for he finally nods. Jerking his horse's bridle, he drives his steed forward and the two of you come face to face. You smile as you hand the crowns over.%SPEECH_ON%Spend it well.%SPEECH_OFF%The captain takes the satchel and cinches it to the side of his saddle, looping the leather harness over the hilt of a sword while his men look on. He nods, but does not smile back.%SPEECH_ON%My daughter is to be wed in a fortnight. I'd like to be there.%SPEECH_OFF%You nod and bid the humorless captain farewell.%SPEECH_ON%May her husband be kind, and her children bountiful.%SPEECH_OFF%The captain haws his horse and leads it back to his men. They depart, the hooves of their mounts steadily thumping into the distance until there is nothing but the scratch of wind-tickled grass to fill the air.\""
+  },
+  {
+    "key": "132de44ab0003e39e1ea41fa84f57ae3dbaeb2b3561f8317872209d950528693",
+    "original": "[img]gfx/ui/events/event_10.png[/img]As the lawman stares at you, waiting for an answer, you let out a sharp whistle. Half of the company emerges from the bushes, whooping and hollering in ambush. The steed pulling the travois bucks its rider to the ground before taking off altogether, a group of wide-eyed criminals going along for the ride. Another lawman retreats, abandoning his troop.\n\n%randombrother% plucks one man from his saddle while another brother drives a spear into a horse's chest, bringing both beast and man crashing to the ground. The captain falls off his horse when it rears up in wild fear. It's a hard tumble, but he manages to roll back to his feet only for the bucking horse to clip him in the head. It is a quick, blunt demise that leaves the captain face down in the cradle of his own helmet.\n\nThe rest of his men come to stand by his body and they look to you with vengeance in their eyes.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_10.png[/img]As the lawman stares at you, waiting for an answer, you let out a sharp whistle. Half of the company emerges from the bushes, whooping and hollering in ambush. The steed pulling the travois bucks its rider to the ground before taking off altogether, a group of wide-eyed criminals going along for the ride. Another lawman retreats, abandoning his troop.\\n\\n%randombrother% plucks one man from his saddle while another brother drives a spear into a horse's chest, bringing both beast and man crashing to the ground. The captain falls off his horse when it rears up in wild fear. It's a hard tumble, but he manages to roll back to his feet only for the bucking horse to clip him in the head. It is a quick, blunt demise that leaves the captain face down in the cradle of his own helmet.\\n\\nThe rest of his men come to stand by his body and they look to you with vengeance in their eyes.\""
+  },
+  {
+    "key": "e3492a2b050cd624a87ca77cceeb94f072783eed0945462fb33ebd5febe1c80f",
+    "original": "[img]gfx/ui/events/event_12.png[/img]You walk directly toward the captain, stopping halfway between your men and his. With your fists to your hips, you call out to the captain's lawmen, asking if they know the name of the %companyname%. You see a few of the riders shift up on their saddles, balancing tented arms on their pommels as they stare intently at your banner. They quickly sit back down and hushed whispers trickle down and back up their battle line.\n\nOne man calls out, asking if it's true that you shorn the noses of those you slay. It is not true, but you've no reason to spill the truth. Another man asks if %randombrother% is in your ranks, and if he has a necklace of ears and eats bonemeal for breakfast. You stifle the urge to laugh, only nodding in return. Quite naturally, the rumors overtake your opponents and they begin to cry out that this fight is not theirs to have.\n\nThe captain tells them that you're full of shit and to charge, but none follow his orders. Eventually, the captain is forced to turn back, heading after his men who are now in retreat.\n\nThe supposed cannibal-brother walks up, scratching his head.%SPEECH_ON%Bonemeal for breakfast?%SPEECH_OFF%A crackle of laughter rips through the company and soon a chant of 'don't eat me!' is to be had.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_12.png[/img]You walk directly toward the captain, stopping halfway between your men and his. With your fists to your hips, you call out to the captain's lawmen, asking if they know the name of the %companyname%. You see a few of the riders shift up on their saddles, balancing tented arms on their pommels as they stare intently at your banner. They quickly sit back down and hushed whispers trickle down and back up their battle line.\\n\\nOne man calls out, asking if it's true that you shorn the noses of those you slay. It is not true, but you've no reason to spill the truth. Another man asks if %randombrother% is in your ranks, and if he has a necklace of ears and eats bonemeal for breakfast. You stifle the urge to laugh, only nodding in return. Quite naturally, the rumors overtake your opponents and they begin to cry out that this fight is not theirs to have.\\n\\nThe captain tells them that you're full of shit and to charge, but none follow his orders. Eventually, the captain is forced to turn back, heading after his men who are now in retreat.\\n\\nThe supposed cannibal-brother walks up, scratching his head.%SPEECH_ON%Bonemeal for breakfast?%SPEECH_OFF%A crackle of laughter rips through the company and soon a chant of 'don't eat me!' is to be had.\""
+  },
+  {
+    "key": "b6495ed643253cf28e6e149a96c8d7684c060ccf564d5f5d28bc8b9014cf2432",
+    "original": "[img]gfx/ui/events/event_53.png[/img]You stand no chance against these men. Although it pains you mightily, you hand %criminal% over. He barks curses at you as the lawmen chain him up, and swears your name into the mud as they throw him in with the rest of the bound men. The captain of the lawmen trots his horse over to you. He sneers at you before throwing a purse of coins to the ground. His body is close and there's an opening in his armor. You could fit a knife in there, right between the ribs, lead the blade right to his heart. It'd be quick. But you wouldn't last much long after, and all of your men would be quickly slain.\n\nInstead, you lean over and pick up the coins, swallow you pride, and say your thanks. The lawmen waste little time returning from whence they came.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_53.png[/img]You stand no chance against these men. Although it pains you mightily, you hand %criminal% over. He barks curses at you as the lawmen chain him up, and swears your name into the mud as they throw him in with the rest of the bound men. The captain of the lawmen trots his horse over to you. He sneers at you before throwing a purse of coins to the ground. His body is close and there's an opening in his armor. You could fit a knife in there, right between the ribs, lead the blade right to his heart. It'd be quick. But you wouldn't last much long after, and all of your men would be quickly slain.\\n\\nInstead, you lean over and pick up the coins, swallow you pride, and say your thanks. The lawmen waste little time returning from whence they came.\""
+  },
+  {
+    "key": "d4513d5ecd8df10d92b9dedc7c8bb4294ba9584292ba6db65e6f9aeb1a4f75ad",
+    "original": "[img]gfx/ui/events/event_78.png[/img]The captain hands you a scroll with %criminal%'s face on it. True, the resemblance is there. But the man has been in your company long enough to gain a scar or two. Maybe they won't realize it's him? You ask the criminal to step forward and, nervously, he does as told. You look to the captain.%SPEECH_ON%Is this the man you are after? I can see why you might think this is him, but look at these scars. The man in the drawing has none. And look at his hair! The one in the drawing is straight, and this man's is clearly matted and curly.%SPEECH_OFF%You stop because judging by the faces of your audience this isn't even coming close to working. The captain draws his sword.%SPEECH_ON%Do you take me for a fool? Kill them all.%SPEECH_OFF%Well, so much for that. Before the lawmen can charge you whistle as loud as you can. Half the company surges forth from the bushes, whooping and hollering like banshees. The sudden fright drives the horses wild, pitching their riders into the dirt and the travois-puller even runs off altogether, carrying with it a couple of very confused criminals.\n\n%randombrother% comes charging across the field of mayhem with a spear in hand. He plunges it deep into the captain's steed, bringing both man and beast crashing to the ground. The lawmen, what's left of them, gather around their captain. Seemingly growling, the man wipes blood from his face and spits out a tooth. He grins a gapped smile before ordering his men to charge.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_78.png[/img]The captain hands you a scroll with %criminal%'s face on it. True, the resemblance is there. But the man has been in your company long enough to gain a scar or two. Maybe they won't realize it's him? You ask the criminal to step forward and, nervously, he does as told. You look to the captain.%SPEECH_ON%Is this the man you are after? I can see why you might think this is him, but look at these scars. The man in the drawing has none. And look at his hair! The one in the drawing is straight, and this man's is clearly matted and curly.%SPEECH_OFF%You stop because judging by the faces of your audience this isn't even coming close to working. The captain draws his sword.%SPEECH_ON%Do you take me for a fool? Kill them all.%SPEECH_OFF%Well, so much for that. Before the lawmen can charge you whistle as loud as you can. Half the company surges forth from the bushes, whooping and hollering like banshees. The sudden fright drives the horses wild, pitching their riders into the dirt and the travois-puller even runs off altogether, carrying with it a couple of very confused criminals.\\n\\n%randombrother% comes charging across the field of mayhem with a spear in hand. He plunges it deep into the captain's steed, bringing both man and beast crashing to the ground. The lawmen, what's left of them, gather around their captain. Seemingly growling, the man wipes blood from his face and spits out a tooth. He grins a gapped smile before ordering his men to charge.\""
+  },
+  {
+    "key": "22a2dcb56dbbc1413321d3a62e577866c9ab62c905ff757f88702befb5e844a0",
+    "original": "[img]gfx/ui/events/event_78.png[/img]The captain of the lawmen snaps his fingers at one of the bannermen. He hands over a scroll which the captain unfurls before handing it to you. The man you see looks remarkably like %criminal%, but since you've been on the road the mercenary has gained a few scars that separate his visage from the one on the paper. But they won't buy that. So you lie instead.%SPEECH_ON%The man you're looking for is dead. He was a criminal, just as you said, and we found him thieving from our foods. %other_bro% ran a sword through him when we'd found out.%SPEECH_OFF%The brother looks at you, and then the lawmen. He nods.%SPEECH_ON%That I did. He had a mouthful of my bread when I stuck him like a pig! I saved the rest of the loaf for m'self, thank goodness.%SPEECH_OFF%The lawmen chuckle amongst themselves. Their captain looks back on them, his gaze a quieting one. He looks back to you. You can see why they shut up: his eyes are stern, unmoving, fierce, black. The man holds you in this stare for nearly half a minute before he nods and gathers his reins.%SPEECH_ON%Alright, mercenary. Thank you for letting us know.%SPEECH_OFF%The lawmen pack up and head back from whence they came. A sigh of relief passes over the company as a whole and you order the men hiding in the bushes to come out. It's a long road ahead and hopefully there won't be more problems like this one.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_78.png[/img]The captain of the lawmen snaps his fingers at one of the bannermen. He hands over a scroll which the captain unfurls before handing it to you. The man you see looks remarkably like %criminal%, but since you've been on the road the mercenary has gained a few scars that separate his visage from the one on the paper. But they won't buy that. So you lie instead.%SPEECH_ON%The man you're looking for is dead. He was a criminal, just as you said, and we found him thieving from our foods. %other_bro% ran a sword through him when we'd found out.%SPEECH_OFF%The brother looks at you, and then the lawmen. He nods.%SPEECH_ON%That I did. He had a mouthful of my bread when I stuck him like a pig! I saved the rest of the loaf for m'self, thank goodness.%SPEECH_OFF%The lawmen chuckle amongst themselves. Their captain looks back on them, his gaze a quieting one. He looks back to you. You can see why they shut up: his eyes are stern, unmoving, fierce, black. The man holds you in this stare for nearly half a minute before he nods and gathers his reins.%SPEECH_ON%Alright, mercenary. Thank you for letting us know.%SPEECH_OFF%The lawmen pack up and head back from whence they came. A sigh of relief passes over the company as a whole and you order the men hiding in the bushes to come out. It's a long road ahead and hopefully there won't be more problems like this one.\""
+  },
+  {
+    "key": "d71bec392558530255d808bb8f820fccf0d2d216a4582130315629fe5c9bf472",
+    "original": "[img]gfx/ui/events/event_90.png[/img]Riders crest a nearby hill, their silhouettes dark and oddly shaped on its rim like a reef of rippling black. Not wholly able to see who they are, you order a few of your brothers to hide away. An ambush might be needed to defend yourself otherwise you stand no chance against such a mounted force. As the selected mercenaries dip into the bushes, the horsemen begin heading down the hill. The thunder of the hooves grows louder, but you stand resolute, hoping to give your men a good show of bravery.\n\nYou see that the bannerman is carrying a sigil of %noblehousename%. Behind him another horseman is dragging a travois with a few shackled men for cargo. When the men arrive, their leader stands up between the withers of his horse and points at you before talking.%SPEECH_ON%Mercenary! We have by the lord's authority the right to claim the - shackled! - hands of a sir %criminal%. Said man is within your midst. He must pay for his crimes. Hand him over immediately and you will be rewarded.%SPEECH_OFF%You turn your head and spit. You nod at the lawman before asking him a question.%SPEECH_ON%And whose authority do you have? There are a lot of lords in these lands and not all of them pay me well.%SPEECH_OFF%The lawmen's captain sits back down in his saddle. His hands cross over his pommel, resting there with armored authority. He does not look the least bit amused and voices his displeasure as such.%SPEECH_ON%The punishment for willfully harboring a fugitive is death. You've but one more chance to release this criminal to me or you shall face a fate well suited for a sword-selling dog.%SPEECH_OFF%",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_90.png[/img]Riders crest a nearby hill, their silhouettes dark and oddly shaped on its rim like a reef of rippling black. Not wholly able to see who they are, you order a few of your brothers to hide away. An ambush might be needed to defend yourself otherwise you stand no chance against such a mounted force. As the selected mercenaries dip into the bushes, the horsemen begin heading down the hill. The thunder of the hooves grows louder, but you stand resolute, hoping to give your men a good show of bravery.\\n\\nYou see that the bannerman is carrying a sigil of %noblehousename%. Behind him another horseman is dragging a travois with a few shackled men for cargo. When the men arrive, their leader stands up between the withers of his horse and points at you before talking.%SPEECH_ON%Mercenary! We have by the lord's authority the right to claim the - shackled! - hands of a sir %criminal%. Said man is within your midst. He must pay for his crimes. Hand him over immediately and you will be rewarded.%SPEECH_OFF%You turn your head and spit. You nod at the lawman before asking him a question.%SPEECH_ON%And whose authority do you have? There are a lot of lords in these lands and not all of them pay me well.%SPEECH_OFF%The lawmen's captain sits back down in his saddle. His hands cross over his pommel, resting there with armored authority. He does not look the least bit amused and voices his displeasure as such.%SPEECH_ON%The punishment for willfully harboring a fugitive is death. You've but one more chance to release this criminal to me or you shall face a fate well suited for a sword-selling dog.%SPEECH_OFF%\""
+  }
+]

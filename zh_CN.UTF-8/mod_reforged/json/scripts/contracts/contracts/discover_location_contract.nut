@@ -1,0 +1,284 @@
+[
+  {
+    "key": "5616ba5f3ec9ac53e529460a09cf3e0b3fc74cf82f0c0b536fb79372327d4e42",
+    "original": " to another party",
+    "translation": "",
+    "context": "\"Sold the location of \" + this.Flags.get(\"Location\") + \" to another party\""
+  },
+  {
+    "key": "ae31efc9bb7ce0a89c17317e6d702b0584f6bd73fe7518a2ae9d3464a76b1d5b",
+    "original": "Along the way...",
+    "translation": "",
+    "context": "Title = \"Along the way...\""
+  },
+  {
+    "key": "09d7c1efa40de3a8fd1ed19578f1c888a7f5b211fcc7e38eaad577fd6314184d",
+    "original": "At %location%",
+    "translation": "",
+    "context": "Title = \"At %location%\""
+  },
+  {
+    "key": "1f1b8deaf876a9e0b37464f3a4181fc449364378095fb6adb35a1c8ab00ccc67",
+    "original": "At %townname%",
+    "translation": "",
+    "context": "Title = \"At %townname%\""
+  },
+  {
+    "key": "2f7cec9a9b5185fedbd3e6cfbaed29725186a74e5491a00bcc85acec33aa3e4c",
+    "original": "Crowns well deserved.",
+    "translation": "",
+    "context": "Text = \"Crowns well deserved.\""
+  },
+  {
+    "key": "58ced39ea5d8c35b8f078f88c0cf3d6254048fe927adad87852b81cab3e801bd",
+    "original": "Find %location% %distance% to the %direction% and somewhere around the region of %region%",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "4d3a30850c0c78123a0b8a6a3b751d46ef893ec114242bf300a8a032759833f8",
+    "original": "Find %location% to the %direction% and around the region of %region%",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "6134e05d449aeb9e96054e5f02d0134aaa740dd9ae5d3e96079d0ba3209c7982",
+    "original": "Find Location",
+    "translation": "",
+    "context": "this.m.Name = \"Find Location\""
+  },
+  {
+    "key": "13fcf4cb875540d1db417b028d005ee9bb902a35244593e46cea39e876c50f9f",
+    "original": "Fine, here's the crowns. Now speak.",
+    "translation": "",
+    "context": "Text = \"Fine, here's the crowns. Now speak.\""
+  },
+  {
+    "key": "085cee2d1093d482896ca099c420bc1f61a1d43da32eb1479a322c7d12557953",
+    "original": "Gave information to a competitor",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "5179dad09edbbe176af499524ea56a17b9f173415ba495ec6b1d1086f04f0eb5",
+    "original": "Got it.",
+    "translation": "",
+    "context": "Text = \"Got it.\""
+  },
+  {
+    "key": "1d029ba57125b000c0a369094cf1db9b2828866d11291380ca5bc2e8e33b4080",
+    "original": "Hired to find the ",
+    "translation": "",
+    "context": "\"Hired to find the \" + this.Flags.get(\"Location\")"
+  },
+  {
+    "key": "760407b244206abe234c067dd34b0b6338d5c6a529c2ea294fa8903505578b46",
+    "original": "I don't think so. Only our employer will learn where it is.",
+    "translation": "",
+    "context": "Text = \"I don't think so. Only our employer will learn where it is.\""
+  },
+  {
+    "key": "fa43b23b01a4262fbdae4763df72ba2ff2044ac81c9d8216f5f697bac81b9b61",
+    "original": "I'll think about it.",
+    "translation": "",
+    "context": "Text = \"I'll think about it.\""
+  },
+  {
+    "key": "111c02313d69efe5a23eea54d50462ccb51fb2a1bb7311fa73716f94384d6414",
+    "original": "Much appreciated.",
+    "translation": "",
+    "context": "Text = \"Much appreciated.\""
+  },
+  {
+    "key": "e118b8b104814007c28f11cc75cf462591337e4686c50908a368b947d3fc29b0",
+    "original": "Negotiations",
+    "translation": "",
+    "context": "Title = \"Negotiations\""
+  },
+  {
+    "key": "6642622682354f56b375e3483bd33ef113a1889b60382c8f8c00aa0181a2c715",
+    "original": "No need, we'll find it on our own.",
+    "translation": "",
+    "context": "Text = \"No need, we'll find it on our own.\""
+  },
+  {
+    "key": "1d522c1890fe9ed8d3774b7a34d7816ebe4ae08d9f56b28a59320a9f7562dbac",
+    "original": "On your return...",
+    "translation": "",
+    "context": "Title = \"On your return...\""
+  },
+  {
+    "key": "33cb1c3a6cfe39ec5b91429a127d66a604610c4228d4eaefbde1a929b0fe6d87",
+    "original": "Out of the way.",
+    "translation": "",
+    "context": "Text = \"Out of the way.\""
+  },
+  {
+    "key": "353f0e89403fe7497bd325b52b09dcff03cfd78d78704b4ae195ff9ee5b3a6f1",
+    "original": "Return to ",
+    "translation": "",
+    "context": "\"Return to \" + this.Contract.m.Home.getName()"
+  },
+  {
+    "key": "21be0df9c8a143a637963350405fcee0e2cd47105ceb155e6a04b1bde697b8cb",
+    "original": "Sold the location of ",
+    "translation": "",
+    "context": "\"Sold the location of \" + this.Flags.get(\"Location\") + \" to another party\""
+  },
+  {
+    "key": "2bb5fcd8ee13d7bcc834294d9c794860004afc2a35e769e1625d59ac1e243dc2",
+    "original": "Those people will never learn.",
+    "translation": "",
+    "context": "Text = \"Those people will never learn.\""
+  },
+  {
+    "key": "bf0c8bd0225e63142379bcec30bb059d21e88d7063a2cb418273717e008cc6fc",
+    "original": "Time to head back.",
+    "translation": "",
+    "context": "Text = \"Time to head back.\""
+  },
+  {
+    "key": "9fb4cc2bfcb9fc71d9d90de899de23f60a96f39b19fb43083c57e7559fe8ded8",
+    "original": "To Arms!",
+    "translation": "",
+    "context": "Text = \"To Arms!\""
+  },
+  {
+    "key": "82fc7c15abf408e5ead9cce859aa0e162553d80801c26d48ade15bdb1ad847a0",
+    "original": "We have a deal. You and no one else will learn where it is.",
+    "translation": "",
+    "context": "Text = \"We have a deal. You and no one else will learn where it is.\""
+  },
+  {
+    "key": "c919eacfe2ddb91b2a131d856b891827467f221771e6d3ae67ebeebe86b414ef",
+    "original": "Well, %employer% should have just payed us more.",
+    "translation": "",
+    "context": "Text = \"Well, %employer% should have just payed us more.\""
+  },
+  {
+    "key": "d0f15fcafa837f913a3dca79b2541288852109f4f1554ce66c59a28470b75f8d",
+    "original": "Why get paid only once if we can get paid twice?",
+    "translation": "",
+    "context": "Text = \"Why get paid only once if we can get paid twice?\""
+  },
+  {
+    "key": "75c45e6b8866c7aacf8d3a14cae5d644d278d2f53ab2cc835118e64cc9d12404",
+    "original": "You gain [color=",
+    "translation": "",
+    "context": "\"You gain [color=\" + this.Const.UI.Color.PositiveEventValue + \"]\" + this.Flags.get(\"Bribe\") + \"[/color] Crowns\""
+  },
+  {
+    "key": "75c45e6b8866c7aacf8d3a14cae5d644d278d2f53ab2cc835118e64cc9d12404",
+    "original": "You gain [color=",
+    "translation": "",
+    "context": "\"You gain [color=\" + this.Const.UI.Color.PositiveEventValue + \"]\" + this.Contract.m.Payment.getOnCompletion() + \"[/color] Crowns\""
+  },
+  {
+    "key": "41eb00b728bb1f7d4f1c2c460ae754d1549736419b7e3c28dc49a7f1bfd47b78",
+    "original": "You lose [color=",
+    "translation": "",
+    "context": "\"You lose [color=\" + this.Const.UI.Color.NegativeEventValue + \"]\" + this.Flags.get(\"HintBribe\") + \"[/color] Crowns\""
+  },
+  {
+    "key": "4c7191ec29bcad5f88c9782f841c0151bf3019e2218c080ea4787ee82639d2e1",
+    "original": "[/color] Crowns",
+    "translation": "",
+    "context": "\"You lose [color=\" + this.Const.UI.Color.NegativeEventValue + \"]\" + this.Flags.get(\"HintBribe\") + \"[/color] Crowns\""
+  },
+  {
+    "key": "4c7191ec29bcad5f88c9782f841c0151bf3019e2218c080ea4787ee82639d2e1",
+    "original": "[/color] Crowns",
+    "translation": "",
+    "context": "\"You gain [color=\" + this.Const.UI.Color.PositiveEventValue + \"]\" + this.Contract.m.Payment.getOnCompletion() + \"[/color] Crowns\""
+  },
+  {
+    "key": "4c7191ec29bcad5f88c9782f841c0151bf3019e2218c080ea4787ee82639d2e1",
+    "original": "[/color] Crowns",
+    "translation": "",
+    "context": "\"You gain [color=\" + this.Const.UI.Color.PositiveEventValue + \"]\" + this.Flags.get(\"Bribe\") + \"[/color] Crowns\""
+  },
+  {
+    "key": "2c58aa526abcf8a2a2c03c845d4d1babfa1690074236877ad787e649568beaf8",
+    "original": "[img]gfx/ui/events/event_04.png[/img]You tell the man that you'll keep the location of his familial home a secret. While he celebrates, you go and tell %employer% where the %location% is. Getting paid by both sides makes for a pretty sweet gig. Catching hate from both not so much, but what did they expect in dealing with a sellsword?",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_04.png[/img]You tell the man that you'll keep the location of his familial home a secret. While he celebrates, you go and tell %employer% where the %location% is. Getting paid by both sides makes for a pretty sweet gig. Catching hate from both not so much, but what did they expect in dealing with a sellsword?\""
+  },
+  {
+    "key": "712c52661f95cb5fc3cc719c55e4e01d21e2ae239e0e2f0faf48be86c34d6323",
+    "original": "[img]gfx/ui/events/event_07.png[/img]The %location% has been spotted - and so has the %companyname%. The supposed 'altruist' who had given you the directions is standing there, except now he has a band of hardy and unfriendly men with him.%SPEECH_ON%{Well, looks like you can follow directions after all. Setting an ambush is pretty easy when you tell the idiot where to meet ya. Anyway, kill them all! | Hey there, sellsword. Strange seeing you here. Oh wait, no it isn't. Kill them all! | Damn, took you long enough! What, you can't follow simple instructions on how to walk into your own graves? Foolish, sellsword, and annoyingly dumb. Well, let's get this over with. Kill them all.}%SPEECH_OFF%",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_07.png[/img]The %location% has been spotted - and so has the %companyname%. The supposed 'altruist' who had given you the directions is standing there, except now he has a band of hardy and unfriendly men with him.%SPEECH_ON%{Well, looks like you can follow directions after all. Setting an ambush is pretty easy when you tell the idiot where to meet ya. Anyway, kill them all! | Hey there, sellsword. Strange seeing you here. Oh wait, no it isn't. Kill them all! | Damn, took you long enough! What, you can't follow simple instructions on how to walk into your own graves? Foolish, sellsword, and annoyingly dumb. Well, let's get this over with. Kill them all.}%SPEECH_OFF%\""
+  },
+  {
+    "key": "625ee7ec06ed4f717e49bccbaae1454e78acdd0d1aa57cf6c1f43a9206dbd319",
+    "original": "[img]gfx/ui/events/event_20.png[/img]{%employer% welcomes you back. You hand over your recently illustrated map and he pores over it, swatting the spotted mark with the back of his hand.%SPEECH_ON%Of course that's where it is!%SPEECH_OFF%He smirks and pays you what you're owed. | You come to %employer%'s room, a fresh map in hand. He takes it from you and looks it over.%SPEECH_ON%Well then. I'd mind to think this was a spot too easy, but an agreement is an agreement.%SPEECH_OFF%He hands you a satchel weighed with precisely what is owed. | You report to %employer%, telling him of %location%'s location. He nods and scribbles, copying the notes from your map. Curious, you ask how he knows you're not lying. The man sets down in a chair and leans back, clasping his hands over his belly.%SPEECH_ON%I invested in a tracker who kept close to your company. He made it here before you did and you've but confirmed what I already know. Hope you don't mind the measures taken.%SPEECH_OFF%Nodding, you think it a wise move and take your pay and go.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_20.png[/img]{%employer% welcomes you back. You hand over your recently illustrated map and he pores over it, swatting the spotted mark with the back of his hand.%SPEECH_ON%Of course that's where it is!%SPEECH_OFF%He smirks and pays you what you're owed. | You come to %employer%'s room, a fresh map in hand. He takes it from you and looks it over.%SPEECH_ON%Well then. I'd mind to think this was a spot too easy, but an agreement is an agreement.%SPEECH_OFF%He hands you a satchel weighed with precisely what is owed. | You report to %employer%, telling him of %location%'s location. He nods and scribbles, copying the notes from your map. Curious, you ask how he knows you're not lying. The man sets down in a chair and leans back, clasping his hands over his belly.%SPEECH_ON%I invested in a tracker who kept close to your company. He made it here before you did and you've but confirmed what I already know. Hope you don't mind the measures taken.%SPEECH_OFF%Nodding, you think it a wise move and take your pay and go.}\""
+  },
+  {
+    "key": "02836b801180c64f4482d50bf623d6665eaedc05bb6feee61b0a0fac01a3fcf1",
+    "original": "[img]gfx/ui/events/event_45.png[/img]{%employer% is looking at a poorly drawn map, then looks up at you as though you're the one responsible for making it.%SPEECH_ON%Look, mercenary, this is a strange thing to task you with, but you seem to have a good head on your shoulders. See this dark spot here? Would you be willing to venture that way and try and find the %location%? It's somewhere at or around the region of %region%.%SPEECH_OFF% | You step into %employer%'s room and he shoves a map into your face.%SPEECH_ON%{Sellsword! Time for you to go exploring! See this uncharted spot, %direction% of here in the region of %region%? That's where I need you to go in search of the %location%. Do you accept or not? | Alright, this might seem strange, but I need a place by the name of the %location% located and charted. Our maps are incomplete in regards to this spot which, at the very least, I believe is at or near the region of %region% %direction% of here. Go, find it, and come back with the coordinates and you will be properly rewarded. | There are parts of this world man still has yet to find and chart into his maps. I'm looking for %location% %direction% of here at or near the region of %region%. That's about all I know of it, but I do know it exists. So you go and find it for me and you'll be properly rewarded. | I need a place found, sellsword. It lies %direction% of here at or near to the region of %region%. The laymen call it %location%, but whatever it is, I need to know WHERE it is, understand? Find it and you will be paid handsomely. | I'm in need of a soldier and explorer, sellsword, and I think you're just the man to be both in one. Now, before you accuse me of being cheap by not hiring both vocations, let's just say I have plenty of crowns for you to earn in doing this for me. What is it, hm? Well, I know of a place by the name of %location%, but I know not where it is other than it resides %direction% of here in the strip of land called %region%. Find it, draw its place on the map, and you'll get the pay of both a soldier and an explorer!}%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_45.png[/img]{%employer% is looking at a poorly drawn map, then looks up at you as though you're the one responsible for making it.%SPEECH_ON%Look, mercenary, this is a strange thing to task you with, but you seem to have a good head on your shoulders. See this dark spot here? Would you be willing to venture that way and try and find the %location%? It's somewhere at or around the region of %region%.%SPEECH_OFF% | You step into %employer%'s room and he shoves a map into your face.%SPEECH_ON%{Sellsword! Time for you to go exploring! See this uncharted spot, %direction% of here in the region of %region%? That's where I need you to go in search of the %location%. Do you accept or not? | Alright, this might seem strange, but I need a place by the name of the %location% located and charted. Our maps are incomplete in regards to this spot which, at the very least, I believe is at or near the region of %region% %direction% of here. Go, find it, and come back with the coordinates and you will be properly rewarded. | There are parts of this world man still has yet to find and chart into his maps. I'm looking for %location% %direction% of here at or near the region of %region%. That's about all I know of it, but I do know it exists. So you go and find it for me and you'll be properly rewarded. | I need a place found, sellsword. It lies %direction% of here at or near to the region of %region%. The laymen call it %location%, but whatever it is, I need to know WHERE it is, understand? Find it and you will be paid handsomely. | I'm in need of a soldier and explorer, sellsword, and I think you're just the man to be both in one. Now, before you accuse me of being cheap by not hiring both vocations, let's just say I have plenty of crowns for you to earn in doing this for me. What is it, hm? Well, I know of a place by the name of %location%, but I know not where it is other than it resides %direction% of here in the strip of land called %region%. Find it, draw its place on the map, and you'll get the pay of both a soldier and an explorer!}%SPEECH_OFF%}\""
+  },
+  {
+    "key": "d4450a8ccdd8251368a9f794e2309fe359a6163205429f5470e029424fbd7a33",
+    "original": "[img]gfx/ui/events/event_51.png[/img]{After telling the man no, he falls to his knees and cries out, much to the amusement of the %companyname%. He wails on about how you've left the historic past of his family in the hands of lechers and usurers. You tell him that you don't care. | Telling the man that you've no interest in betraying your original employer sets him off. He tries to attack you, launching forward to glom onto you with angry hands. %randombrother% pushes him away and threatens to kill him with a blade. The man backs off. He sits beside the path, head between his knees, sobbing. One of the men gives him a handkerchief as they pass by. | You tell the man no. He begs. You tell him no again. He begs some more. You suddenly realize you've done with this with a woman or two. It really isn't a good look. You tell him as much, but the emotion of the moment is too much for him. He starts to wail, going on about how his family name will be ruined by the greedy bastards that run %townname%. You tell him that his supposed family name would be spared if, perhaps, he was the one running this town. This does not clear his tears.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_51.png[/img]{After telling the man no, he falls to his knees and cries out, much to the amusement of the %companyname%. He wails on about how you've left the historic past of his family in the hands of lechers and usurers. You tell him that you don't care. | Telling the man that you've no interest in betraying your original employer sets him off. He tries to attack you, launching forward to glom onto you with angry hands. %randombrother% pushes him away and threatens to kill him with a blade. The man backs off. He sits beside the path, head between his knees, sobbing. One of the men gives him a handkerchief as they pass by. | You tell the man no. He begs. You tell him no again. He begs some more. You suddenly realize you've done with this with a woman or two. It really isn't a good look. You tell him as much, but the emotion of the moment is too much for him. He starts to wail, going on about how his family name will be ruined by the greedy bastards that run %townname%. You tell him that his supposed family name would be spared if, perhaps, he was the one running this town. This does not clear his tears.}\""
+  },
+  {
+    "key": "6e44feb92c95cfe51b11360f7b6d9954eed24ab0062357ebc9e60d586f5a751b",
+    "original": "[img]gfx/ui/events/event_51.png[/img]{As you and the %companyname% prepare their journey, %randombrother% states that there is a man who wishes to speak to you directly. You nod and have him led to you. He's a glum, small man who states that the 'rulers' of %townname% have no interest in the %location% other than ones of greed. Of course that's the case, so what's the problem? The man nods.%SPEECH_ON%Look, I've some folks who are interested in keeping the %location% hidden away for good. If you find it, well, talk to me first. We'll make you a pretty penny.%SPEECH_OFF% | While the %companyname% readies its trip to find the %location%, a man sidles up next to you. He hands you a note and departs without saying a word. The scroll reads: LEAVE THE %locationC% WHERE IT BE. IF YOU FIND IT, TALK TO US. OUR CROWNS FOR YOUR SILENCE. THE RULERS OF %townnameC% NEED NOT KNOW NOTHIN'! | A man approaches the company. Behind him you spy a couple of poor families staring on. You're not sure if he's their ambassador or not, but either way he comes right for you with a proposition spoken low and quiet.%SPEECH_ON%Listen here, sellsword. If you go out and find the %location%, come to us first. The rulers of %townname% need not bring their greed and lust for power to that place. Leave it to us, alright? We'll pay you well.%SPEECH_OFF%Before you can say a word, he straightens up and continues on. When you look back down the road those families are no longer around.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_51.png[/img]{As you and the %companyname% prepare their journey, %randombrother% states that there is a man who wishes to speak to you directly. You nod and have him led to you. He's a glum, small man who states that the 'rulers' of %townname% have no interest in the %location% other than ones of greed. Of course that's the case, so what's the problem? The man nods.%SPEECH_ON%Look, I've some folks who are interested in keeping the %location% hidden away for good. If you find it, well, talk to me first. We'll make you a pretty penny.%SPEECH_OFF% | While the %companyname% readies its trip to find the %location%, a man sidles up next to you. He hands you a note and departs without saying a word. The scroll reads: LEAVE THE %locationC% WHERE IT BE. IF YOU FIND IT, TALK TO US. OUR CROWNS FOR YOUR SILENCE. THE RULERS OF %townnameC% NEED NOT KNOW NOTHIN'! | A man approaches the company. Behind him you spy a couple of poor families staring on. You're not sure if he's their ambassador or not, but either way he comes right for you with a proposition spoken low and quiet.%SPEECH_ON%Listen here, sellsword. If you go out and find the %location%, come to us first. The rulers of %townname% need not bring their greed and lust for power to that place. Leave it to us, alright? We'll pay you well.%SPEECH_OFF%Before you can say a word, he straightens up and continues on. When you look back down the road those families are no longer around.}\""
+  },
+  {
+    "key": "592eb018e28e731c028d75cc7c6f5f1a77e45ee9537f3ac439e2acd47d9fdcfa",
+    "original": "[img]gfx/ui/events/event_51.png[/img]{As you head toward %townname%, a stranger comes out to the path. He's the man you talked to before, but this time he has a satchel in hand.%SPEECH_ON%{You've no reason to tell the rulers of this town where the %location% is. Leave its secrets to us, you've no idea what heirlooms and history we have there. For your silence, we're willing to give you this as payment, %bribe% crowns. Please, sir, accept. | Look, sellsword, I know you speak one language and that is the language of money. Take this satchel as a token of our appreciation - if you stay silent. You needn't tell the rulers of %townname% where the %location% is. That place belongs to our families. Those petty rulers will only ruin it with their greed and power-seeking. So, what say you, will you take this? There are %bribe% crowns in there. All you gotta do is take it and not talk.}%SPEECH_OFF% | Entering %townname%, you're headed off by a familiar face: the man who had greeted you just before you had departed in the first place. But this time he has a satchel with him.%SPEECH_ON%{%bribe% crowns for your silence. Tell the rulers of this town absolutely nothing and it's yours. They need not know about our deal, they just need not know where this place is. It's important to us, with history beyond measure, and all they'll do is raid and pillage it. Please, accept. | Take this, it's %bribe% crowns. That's how much we're prepared to give you for your silence. The rulers of %townname% will take your information and use it to pillage the %location%, because they know of our own familial relations to it and, well, we've long since fallen out of favor around here. We've little left so, please, let us keep our heirlooms and old home.}%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_51.png[/img]{As you head toward %townname%, a stranger comes out to the path. He's the man you talked to before, but this time he has a satchel in hand.%SPEECH_ON%{You've no reason to tell the rulers of this town where the %location% is. Leave its secrets to us, you've no idea what heirlooms and history we have there. For your silence, we're willing to give you this as payment, %bribe% crowns. Please, sir, accept. | Look, sellsword, I know you speak one language and that is the language of money. Take this satchel as a token of our appreciation - if you stay silent. You needn't tell the rulers of %townname% where the %location% is. That place belongs to our families. Those petty rulers will only ruin it with their greed and power-seeking. So, what say you, will you take this? There are %bribe% crowns in there. All you gotta do is take it and not talk.}%SPEECH_OFF% | Entering %townname%, you're headed off by a familiar face: the man who had greeted you just before you had departed in the first place. But this time he has a satchel with him.%SPEECH_ON%{%bribe% crowns for your silence. Tell the rulers of this town absolutely nothing and it's yours. They need not know about our deal, they just need not know where this place is. It's important to us, with history beyond measure, and all they'll do is raid and pillage it. Please, accept. | Take this, it's %bribe% crowns. That's how much we're prepared to give you for your silence. The rulers of %townname% will take your information and use it to pillage the %location%, because they know of our own familial relations to it and, well, we've long since fallen out of favor around here. We've little left so, please, let us keep our heirlooms and old home.}%SPEECH_OFF%}\""
+  },
+  {
+    "key": "16857a704e634253e1fc24ac7a7b1dee7bb0b18b46147eae79da7e017f929c3c",
+    "original": "[img]gfx/ui/events/event_51.png[/img]{You agree to sell the man the details of your expedition. He's overly joyous about the whole affair, but %employer% is not. Apparently, a little child saw this exchange and reported your betrayal to the head of %townname%. Your reputation here has, no doubt, been a little hurt. | Well, on one hand you spared this man's supposed familial home from destruction at the hands of those who run %townname%. On the other, those who run %townname% quickly heard of what you'd done. You should have paid more mind to a small town's population to double as rumormills extraordinaire.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_51.png[/img]{You agree to sell the man the details of your expedition. He's overly joyous about the whole affair, but %employer% is not. Apparently, a little child saw this exchange and reported your betrayal to the head of %townname%. Your reputation here has, no doubt, been a little hurt. | Well, on one hand you spared this man's supposed familial home from destruction at the hands of those who run %townname%. On the other, those who run %townname% quickly heard of what you'd done. You should have paid more mind to a small town's population to double as rumormills extraordinaire.}\""
+  },
+  {
+    "key": "539be467f45771494b963c7328c191d719d40a38160af1597a17459494f0cd4f",
+    "original": "[img]gfx/ui/events/event_57.png[/img]{You sight %location% in the glass of your scope and mark it on your maps. Easy enough. Time to return to %employer%. | Well, it's already time to return to %employer% as %location% was easier to find than you figured. Marking it on your map, you pause and chuckle and shake your head. What luck. | %location% comes into view and it's immediately reborn upon your map to the best of your illustrative capabilities. %randombrother% asks if that's all there is to do. You nod. A rough go or an easy one, %employer% will be waiting to pay you all the same.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_57.png[/img]{You sight %location% in the glass of your scope and mark it on your maps. Easy enough. Time to return to %employer%. | Well, it's already time to return to %employer% as %location% was easier to find than you figured. Marking it on your map, you pause and chuckle and shake your head. What luck. | %location% comes into view and it's immediately reborn upon your map to the best of your illustrative capabilities. %randombrother% asks if that's all there is to do. You nod. A rough go or an easy one, %employer% will be waiting to pay you all the same.}\""
+  },
+  {
+    "key": "2b91778905480d4c8909c2da8755b3638f79c86f22917b76743ff40d3a7db153",
+    "original": "[img]gfx/ui/events/event_76.png[/img]You accept the man's offer and he dishes out the details as promised.%SPEECH_ON%You see, it's there, of course, %terrain% %distance% to the %direction% of where we are now. Easy.%SPEECH_OFF%He whistles as he walks off, no doubt a very easy payday for him.",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_76.png[/img]You accept the man's offer and he dishes out the details as promised.%SPEECH_ON%You see, it's there, of course, %terrain% %distance% to the %direction% of where we are now. Easy.%SPEECH_OFF%He whistles as he walks off, no doubt a very easy payday for him.\""
+  },
+  {
+    "key": "cb12945b29bd1ebf9323ebeff69dbb2b5feabbd6d37c306b0ca3dfef9ca7a23a",
+    "original": "[img]gfx/ui/events/event_76.png[/img]{The stranger is a lone man who keeps his distance, one foot on the path, the other inching toward escape.%SPEECH_ON%Hey there.%SPEECH_OFF%He glances across your men, slowly smiling as though he can sense our being lost.%SPEECH_ON%Searching for the %location% are ya? Hmm, yeah. Well I'll tell you what, hand me %hint_bribe% crowns and I'll tell you exactly where it is! Come after me with yer swords and I'll be gone quicker than you can blink!%SPEECH_OFF% | You watch as the stranger comes into the light of the path, shielding his eyes so as to keep much of his face hidden.%SPEECH_ON%You look like the sort to be in search of something, but you know not where it be! The %location% is tricky like that. Good thing I know where it is. Good thing you, too, can know where it is by sliding %hint_bribe% crowns my way. I'm the fastest sprinter you ever did see, so don't try and wring it out of me with one of them shiny swords you got.%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_76.png[/img]{The stranger is a lone man who keeps his distance, one foot on the path, the other inching toward escape.%SPEECH_ON%Hey there.%SPEECH_OFF%He glances across your men, slowly smiling as though he can sense our being lost.%SPEECH_ON%Searching for the %location% are ya? Hmm, yeah. Well I'll tell you what, hand me %hint_bribe% crowns and I'll tell you exactly where it is! Come after me with yer swords and I'll be gone quicker than you can blink!%SPEECH_OFF% | You watch as the stranger comes into the light of the path, shielding his eyes so as to keep much of his face hidden.%SPEECH_ON%You look like the sort to be in search of something, but you know not where it be! The %location% is tricky like that. Good thing I know where it is. Good thing you, too, can know where it is by sliding %hint_bribe% crowns my way. I'm the fastest sprinter you ever did see, so don't try and wring it out of me with one of them shiny swords you got.%SPEECH_OFF%}\""
+  },
+  {
+    "key": "b4fd99efcb1c6dd2c7fbc76be34af7de71352cadf616775c0e485e7e087c3be1",
+    "original": "[img]gfx/ui/events/event_76.png[/img]{Waving his hand rather friendly-like, a man approaches. You respond by unsheathing your sword halfway. He laughs.%SPEECH_ON%So many are interested in the %location%, so I can't fault you for being so defensive. Look, I'll tell you exactly where it's at. Just %distance% to the %direction% of here, %terrain%.%SPEECH_OFF%He heads off, cackling with laughter.%SPEECH_ON%I dunno if I've done good or ill, and that's just the sort of fun I like!%SPEECH_OFF% | A group of world-weary explorers! They seize up in the middle of the road, half covered in mud and half in leaves and all in unintentional camouflage. One rubs his forehead, eyeing you carefully before a smile widens.%SPEECH_ON%Eh, I know a searcher when I see one. You're looking for the %location%, aintcha? Well yer in luck, we was just coming from there! Here, give me your map and I'll show you just where it is. You see, %terrain% %distance% to the %direction% of where we are now.%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_76.png[/img]{Waving his hand rather friendly-like, a man approaches. You respond by unsheathing your sword halfway. He laughs.%SPEECH_ON%So many are interested in the %location%, so I can't fault you for being so defensive. Look, I'll tell you exactly where it's at. Just %distance% to the %direction% of here, %terrain%.%SPEECH_OFF%He heads off, cackling with laughter.%SPEECH_ON%I dunno if I've done good or ill, and that's just the sort of fun I like!%SPEECH_OFF% | A group of world-weary explorers! They seize up in the middle of the road, half covered in mud and half in leaves and all in unintentional camouflage. One rubs his forehead, eyeing you carefully before a smile widens.%SPEECH_ON%Eh, I know a searcher when I see one. You're looking for the %location%, aintcha? Well yer in luck, we was just coming from there! Here, give me your map and I'll show you just where it is. You see, %terrain% %distance% to the %direction% of where we are now.%SPEECH_OFF%}\""
+  },
+  {
+    "key": "f6cc7757f346ec7749d3f68e46080be410e50d94c57703b5050128bdbae88bac",
+    "original": "{Not interested. | Our travels will not take us there for a while. | This is not the kind of work we're looking for.}",
+    "translation": "",
+    "context": "Text = \"{Not interested. | Our travels will not take us there for a while. | This is not the kind of work we're looking for.}\""
+  },
+  {
+    "key": "0a284812a1d2c1edafd4a5d665be68ea5aec610872e4cbbad33bf4f457e3c24a",
+    "original": "{What does it pay? | For the right price we'll find it.}",
+    "translation": "",
+    "context": "Text = \"{What does it pay? | For the right price we'll find it.}\""
+  }
+]
