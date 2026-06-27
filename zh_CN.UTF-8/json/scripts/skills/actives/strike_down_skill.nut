@@ -80,9 +80,11 @@
     "context": "this.m.KilledString = 'Cudgeled to death'"
   },
   {
+    "ID": 993341500,
     "key": "b9822957444db8781f1b5beea201a5c0706428ebdd8ea39cf50754a7dfd488f0",
     "original": "]100%[/color] chance to stun for two turns on a hit",
-    "translation": "",
+    "translation": "]100%[/color]几率造成昏迷2回合",
+    "stage": 1,
     "context": "\"Has a [color=\" + this.Const.UI.Color.PositiveValue + \"]100%[/color] chance to stun for two turns on a hit\""
   }
 ]
