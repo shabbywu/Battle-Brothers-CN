@@ -1,0 +1,296 @@
+[
+  {
+    "key": "2ff805b7158eaef90390043c9d657f0abd10f21f22c5de1a431084f5da9093a2",
+    "original": " Company",
+    "translation": "",
+    "context": "candidates[this.Math.rand(0, candidates.len() - 1)].getNameOnly() + \" Company\""
+  },
+  {
+    "key": "48ca43bf972e276b47cc227f26934b020bebb263302f95d4b2c11da897e17836",
+    "original": "A field battle, then.",
+    "translation": "",
+    "context": "Text = \"A field battle, then.\""
+  },
+  {
+    "key": "09a363b50173e4453bea5208c00b83a1a7fffc1150bf767c845d128f0907fdb0",
+    "original": "After the battle...",
+    "translation": "",
+    "context": "Title = \"After the battle...\""
+  },
+  {
+    "key": "5d761fd9b5a65cd65d7c9aae052355f8a5f3b941c9786b0badbdb4178b3948ed",
+    "original": "As you approach...",
+    "translation": "",
+    "context": "Title = \"As you approach...\""
+  },
+  {
+    "key": "431f516b67bb00579e3f6e9583b5087b85be665626844aeebbef869a463e202d",
+    "original": "At %holysite%",
+    "translation": "",
+    "context": "Title = \"At %holysite%\""
+  },
+  {
+    "key": "9354c44087e382a0432d25b072a8330ff9eaf65b39de7c39298c76d29106f941",
+    "original": "Begin the assault!",
+    "translation": "",
+    "context": "Text = \"Begin the assault!\""
+  },
+  {
+    "key": "d84e102765128a4dafb50f2cecadad052dd494a9b8083233ce657e5181cb4258",
+    "original": "Charge!",
+    "translation": "",
+    "context": "Text = \"Charge!\""
+  },
+  {
+    "key": "0caa99bd871fed00c8b2ada945d6e31c2846fc2dc985a09e66b53ea14c59b011",
+    "original": "Conquer %holysite% from southern heathens",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "c8ece0fe418aee344f6d1733188165dd8ad18af2b9c3338dae8b95d3d3afc2a6",
+    "original": "Conquer Holy Site",
+    "translation": "",
+    "context": "this.m.Name = \"Conquer Holy Site\""
+  },
+  {
+    "key": "ec004767599d220f5f5216e9c8771a42659a3201f5945e443895190db85fa03c",
+    "original": "Conquered a holy site",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "a255d39dc0162943603e5b9a14252d5d4848eb819ce2329a4f3abe27e2c9b896",
+    "original": "Conscripted soldiers loyal to their city state.",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "2f7cec9a9b5185fedbd3e6cfbaed29725186a74e5491a00bcc85acec33aa3e4c",
+    "original": "Crowns well deserved.",
+    "translation": "",
+    "context": "Text = \"Crowns well deserved.\""
+  },
+  {
+    "key": "d5081959821e37852557e7d164f8561a7f532d85884be56f16214b0edd443fb7",
+    "original": "Destroy or rout enemy regiments in the vicinity",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "39f3e4c08a21a3230d253e314e675175eabef231f0ad11969498591cd3e10846",
+    "original": "Disaster!",
+    "translation": "",
+    "context": "Text = \"Disaster!\""
+  },
+  {
+    "key": "e5d8d0685d55d1e0acddbeb694ef15481f4a9f329948807a9f225ce4022fd964",
+    "original": "Failed to conquer a holy site",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "463c335bbfaf43fbc18b6d5e077a6136bf5f4396a13aa64f1e6cd29c2d490292",
+    "original": "Find your own work, %mercenary%. We don't need help.",
+    "translation": "",
+    "context": "Text = \"Find your own work, %mercenary%. We don't need help.\""
+  },
+  {
+    "key": "65c5a16bb3513b1bd29717782b3e68054caecdcc78e3e01599a07a5385985685",
+    "original": "I'm afraid we don't have that kind of coin.",
+    "translation": "",
+    "context": "Text = \"I'm afraid we don't have that kind of coin.\""
+  },
+  {
+    "key": "e118b8b104814007c28f11cc75cf462591337e4686c50908a368b947d3fc29b0",
+    "original": "Negotiations",
+    "translation": "",
+    "context": "Title = \"Negotiations\""
+  },
+  {
+    "key": "1d522c1890fe9ed8d3774b7a34d7816ebe4ae08d9f56b28a59320a9f7562dbac",
+    "original": "On your return...",
+    "translation": "",
+    "context": "Title = \"On your return...\""
+  },
+  {
+    "key": "fd42b8a0256129ec3df173a9c577015547580f1c524d90a9d29ebb07bc779b05",
+    "original": "Professional soldiers in service to local lords.",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "ed9a28b28350087617b6301427dd695a9a577320ddc5c3dc9002df579099b089",
+    "original": "Rally!",
+    "translation": "",
+    "context": "Text = \"Rally!\""
+  },
+  {
+    "key": "6ce1b48c8314ae800a6517012a86951c90fc463ef9c19677cc4887deaa33ace2",
+    "original": "Regiment of ",
+    "translation": "",
+    "context": "\"Regiment of \" + candidates[this.Math.rand(0, candidates.len() - 1)].getNameOnly()"
+  },
+  {
+    "key": "353f0e89403fe7497bd325b52b09dcff03cfd78d78704b4ae195ff9ee5b3a6f1",
+    "original": "Return to ",
+    "translation": "",
+    "context": "\"Return to \" + this.Contract.m.Home.getName()"
+  },
+  {
+    "key": "1b48480759955e2d2b60fe3abc7162a757285fb353e10769a8806f00d20ac0d8",
+    "original": "Took sides in the war",
+    "translation": "",
+    "context": ""
+  },
+  {
+    "key": "d32cecd931e0b8acbdc9d8ccc72eccfdb9363121481fa2a346785afa2137c5bb",
+    "original": "Victory!",
+    "translation": "",
+    "context": "Text = \"Victory!\""
+  },
+  {
+    "key": "deee5e4b4cc1cee1b8dcbf743e4a105dd9032f0dc785f92c9ff114b897f7b5d0",
+    "original": "We can't take another fight. Retreat!",
+    "translation": "",
+    "context": "Text = \"We can't take another fight. Retreat!\""
+  },
+  {
+    "key": "6667c8ca72abf03e81610adbf2d8ebe8842bbcd1197f38366cc07a0b1a1f53ed",
+    "original": "We'll make a stand defending the site!",
+    "translation": "",
+    "context": "Text = \"We'll make a stand defending the site!\""
+  },
+  {
+    "key": "3068271d83ec1dfac9716b97da7a8cad1c58ca63008372308372dd7c2bccfcf9",
+    "original": "We'll meet again on the battlefield. Begin the assault!",
+    "translation": "",
+    "context": "Text = \"We'll meet again on the battlefield. Begin the assault!\""
+  },
+  {
+    "key": "56b21ed9a0c81a0feabd7752682f08c916ba019be48550f12b6c1bd18a0675ae",
+    "original": "We'll meet them in the open!",
+    "translation": "",
+    "context": "Text = \"We'll meet them in the open!\""
+  },
+  {
+    "key": "75c45e6b8866c7aacf8d3a14cae5d644d278d2f53ab2cc835118e64cc9d12404",
+    "original": "You gain [color=",
+    "translation": "",
+    "context": "\"You gain [color=\" + this.Const.UI.Color.PositiveEventValue + \"]\" + this.Contract.m.Payment.getOnCompletion() + \"[/color] Crowns\""
+  },
+  {
+    "key": "a13fe5411cacd783f255c572bdc6c56739d54be420a516b38fb8ae49baa5a6d3",
+    "original": "You spend [color=",
+    "translation": "",
+    "context": "\"You spend [color=\" + this.Const.UI.Color.NegativeEventValue + \"]\" + this.Flags.get(\"MercenaryPay\") + \"[/color] Crowns\""
+  },
+  {
+    "key": "1c44b0fb7dd61787e08eca9d874b349a5549a7fbe7f038e1eb98a64c7e649c7b",
+    "original": "You're hired!",
+    "translation": "",
+    "context": "Text = \"You're hired!\""
+  },
+  {
+    "key": "4c7191ec29bcad5f88c9782f841c0151bf3019e2218c080ea4787ee82639d2e1",
+    "original": "[/color] Crowns",
+    "translation": "",
+    "context": "\"You gain [color=\" + this.Const.UI.Color.PositiveEventValue + \"]\" + this.Contract.m.Payment.getOnCompletion() + \"[/color] Crowns\""
+  },
+  {
+    "key": "4c7191ec29bcad5f88c9782f841c0151bf3019e2218c080ea4787ee82639d2e1",
+    "original": "[/color] Crowns",
+    "translation": "",
+    "context": "\"You spend [color=\" + this.Const.UI.Color.NegativeEventValue + \"]\" + this.Flags.get(\"MercenaryPay\") + \"[/color] Crowns\""
+  },
+  {
+    "key": "6b35fe00e980792ced3031a3af0873fb24e4c8fa1e10cfad841f778d67708914",
+    "original": "[img]gfx/ui/events/%illustration%.png[/img]{%holysite% has fallen to the southerners. One sellsword shakes his head.%SPEECH_ON%Well. I suspect they'll be all over the place shinin' or shittin'.%SPEECH_OFF%Indeed. With the sacred tracts lost, there'll be no reason to get back to %employer% unless you're interested in seeing another kind of holy spectacle.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/%illustration%.png[/img]{%holysite% has fallen to the southerners. One sellsword shakes his head.%SPEECH_ON%Well. I suspect they'll be all over the place shinin' or shittin'.%SPEECH_OFF%Indeed. With the sacred tracts lost, there'll be no reason to get back to %employer% unless you're interested in seeing another kind of holy spectacle.}\""
+  },
+  {
+    "key": "f16732cff2b6e1ce79b81dfa7d0b46efe7313060c15ffd04d46acf95a8305706",
+    "original": "[img]gfx/ui/events/%illustration%.png[/img]{%holysite%'s defenders have received reinforcements! Thankfully, there is a silver lining: the additional arms has given them the confidence to leave the natural defenses of the holy site and to approach you in the open field. | You're surprised to see the defenders leaving %holysite% and trekking across the open field. A quick scouting report relays that they received reinforcements sometime in the past few days and are emboldened by numbers alone. On one hand, their deep ranks are a bit unsettling, but on the other hand facing them on even ground will be much easier. Though by your honest estimation it is their mistake to face the %companyname% at all.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/%illustration%.png[/img]{%holysite%'s defenders have received reinforcements! Thankfully, there is a silver lining: the additional arms has given them the confidence to leave the natural defenses of the holy site and to approach you in the open field. | You're surprised to see the defenders leaving %holysite% and trekking across the open field. A quick scouting report relays that they received reinforcements sometime in the past few days and are emboldened by numbers alone. On one hand, their deep ranks are a bit unsettling, but on the other hand facing them on even ground will be much easier. Though by your honest estimation it is their mistake to face the %companyname% at all.}\""
+  },
+  {
+    "key": "a1b019827cc3384d1cb9bf9462f0c792cab685e423ccdaadce8464eb992d2840",
+    "original": "[img]gfx/ui/events/%illustration%.png[/img]{As you sheath your weapon and have the company set out to collect what they can from the dead, you get the strange feeling that this is not the first time %holysite% has been home to such bloodshed. Oh well, if anyone's gonna be dying in their ancestor's footsteps you're glad it's not you. A few northern soldiers come in to secure the holy tract just as you make your leave for %employer%. | The enemy is defeated and %holysite% reclaimed. A crowd of the faithful slowly trickle in, passing by the dead so they may prostrate themselves at the holiest of spots. Not a one says thanks to you. Not that it matters, that's %employer%'s job. A troop of northern soldiers passes you on your way out, each of the fighters regarding you with sneers and jeers. | With the battle over, little knots of the faithful begins to congregate in the corners of %holysite%. You don't know where these people even came from. They don't mind you, and you don't mind them. What matters now is that %employer% will have a huge trove of crowns awaiting your return. As soon as a few northern soldiers come by, you make your leave.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/%illustration%.png[/img]{As you sheath your weapon and have the company set out to collect what they can from the dead, you get the strange feeling that this is not the first time %holysite% has been home to such bloodshed. Oh well, if anyone's gonna be dying in their ancestor's footsteps you're glad it's not you. A few northern soldiers come in to secure the holy tract just as you make your leave for %employer%. | The enemy is defeated and %holysite% reclaimed. A crowd of the faithful slowly trickle in, passing by the dead so they may prostrate themselves at the holiest of spots. Not a one says thanks to you. Not that it matters, that's %employer%'s job. A troop of northern soldiers passes you on your way out, each of the fighters regarding you with sneers and jeers. | With the battle over, little knots of the faithful begins to congregate in the corners of %holysite%. You don't know where these people even came from. They don't mind you, and you don't mind them. What matters now is that %employer% will have a huge trove of crowns awaiting your return. As soon as a few northern soldiers come by, you make your leave.}\""
+  },
+  {
+    "key": "4aa138e6ba88505fc57725aeb12559abae0d22e65624493f571348c01d90af4a",
+    "original": "[img]gfx/ui/events/%illustration%.png[/img]{The southerners have posted themselves in and around %holysite%. With time on their side, they've erected a sturdy defense, but nothing the %companyname% can't handle. You draw out your sword and prepare your men for the attack.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/%illustration%.png[/img]{The southerners have posted themselves in and around %holysite%. With time on their side, they've erected a sturdy defense, but nothing the %companyname% can't handle. You draw out your sword and prepare your men for the attack.}\""
+  },
+  {
+    "key": "69ed79149aedb859f3c539c92c0fa8b7eb5e799d1107bbc49aed90d42a494a34",
+    "original": "[img]gfx/ui/events/event_04.png[/img]{%townname%'s priory is flush with more peasants than you've ever seen before. %employer% is outside on the steps and greets you with a hand to your shoulder.%SPEECH_ON%Welcome back, sellsword. You might be a slight git seekin' his coin, but you carry the wrath of the old gods with you. %holysite% is with whom it belongs now.%SPEECH_OFF%The nobleman snaps his fingers a few times and a few rotund monks waddle forth carrying chests of %reward% crowns. %employer% makes his leave up the steps.%SPEECH_ON%I'll say a word for you to the crowd, what was your name? Ah, I'm sure you want the company take credit. I'll thank the %companyname% as a whole.%SPEECH_OFF% | %employer% is looking at his battle maps.%SPEECH_ON%It's a mite amusing that where I send my men, I am met with failures, but when the old gods raise hell I am spurred to hire a sellsword and met with... victory. Hopefully with %holysite% back within our grasps it will be drive my men to fight as the %companyname% does. For %reward% crowns, you've sent them southern shits back to the hells of their desert and encouraged the war effort as a whole. I'd almost say I shortchanged you, sellsword. Almost.%SPEECH_OFF% | %SPEECH_ON%When the scouts returned the first thing they did was visit the priory. That's how I knew you were successful. I also gave them each a day in the dungeon for vacating their duties to me.%SPEECH_OFF%%employer% is sitting on a strange looking cushion, perhaps one he had somehow attained during these wars with the southerners. He swishes wine around in a goblet.%SPEECH_ON%Your %reward% crowns are awaiting outside. I have to ask, when you were down there, did you hear of anything? Perhaps whispers of the old gods? Perhaps even murmurs of this one they call, what is it, the Gilder?%SPEECH_OFF%You shake your head no. The nobleman shrugs.%SPEECH_ON%A shame. One must wonder what it takes for the gods to come to us again.%SPEECH_OFF%You tell him %reward% crowns spent in a particular direction would be a good start. The nobleman smiles cheekily and grants you this wish. | %employer% is found with a young, tanned woman clearly from the southern realms. He looks her up and down.%SPEECH_ON%The old gods sent me this, just as I'm assuming they sent me you.%SPEECH_OFF%He fumbles his words for a second and clears his throat.%SPEECH_ON%I mean, in another way, of course. Your victories at %holysite% have invigorated the men, lifting the spell of defeat from their shoulders. The monks now have the faithful back in their flock, and with good diligence we shall prove to the old gods our worth.%SPEECH_OFF%He pushes the woman away and tries to get to his feet, but the cushion is too deep, possibly too comfortable. He stays put.%SPEECH_ON%Your %reward% crowns will be out in the hall. Send for one of my servants to come and fetch this sand-lass for prayers in the priory.%SPEECH_OFF% | You find %employer% in one of the town's temples, standing beneath a statue of one of the old gods.%SPEECH_ON%I'd gotten word of your successes. The town has been elated, and the region as a whole is murmuring with delight. They won't speak of you, of course, they'll speak of me.%SPEECH_OFF%The nobleman seems quite happy with himself. He turns and pats you on the shoulder.%SPEECH_ON%I hope them southern shits didn't trouble you much. My lieutenants will bring your %reward% crowns. Say, do you think %holysite% is worth a visit? I've never been. In fact, don't care to. I am blessed wherever my feet go.%SPEECH_OFF%You purse your lips as the nobleman makes his leave.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_04.png[/img]{%townname%'s priory is flush with more peasants than you've ever seen before. %employer% is outside on the steps and greets you with a hand to your shoulder.%SPEECH_ON%Welcome back, sellsword. You might be a slight git seekin' his coin, but you carry the wrath of the old gods with you. %holysite% is with whom it belongs now.%SPEECH_OFF%The nobleman snaps his fingers a few times and a few rotund monks waddle forth carrying chests of %reward% crowns. %employer% makes his leave up the steps.%SPEECH_ON%I'll say a word for you to the crowd, what was your name? Ah, I'm sure you want the company take credit. I'll thank the %companyname% as a whole.%SPEECH_OFF% | %employer% is looking at his battle maps.%SPEECH_ON%It's a mite amusing that where I send my men, I am met with failures, but when the old gods raise hell I am spurred to hire a sellsword and met with... victory. Hopefully with %holysite% back within our grasps it will be drive my men to fight as the %companyname% does. For %reward% crowns, you've sent them southern shits back to the hells of their desert and encouraged the war effort as a whole. I'd almost say I shortchanged you, sellsword. Almost.%SPEECH_OFF% | %SPEECH_ON%When the scouts returned the first thing they did was visit the priory. That's how I knew you were successful. I also gave them each a day in the dungeon for vacating their duties to me.%SPEECH_OFF%%employer% is sitting on a strange looking cushion, perhaps one he had somehow attained during these wars with the southerners. He swishes wine around in a goblet.%SPEECH_ON%Your %reward% crowns are awaiting outside. I have to ask, when you were down there, did you hear of anything? Perhaps whispers of the old gods? Perhaps even murmurs of this one they call, what is it, the Gilder?%SPEECH_OFF%You shake your head no. The nobleman shrugs.%SPEECH_ON%A shame. One must wonder what it takes for the gods to come to us again.%SPEECH_OFF%You tell him %reward% crowns spent in a particular direction would be a good start. The nobleman smiles cheekily and grants you this wish. | %employer% is found with a young, tanned woman clearly from the southern realms. He looks her up and down.%SPEECH_ON%The old gods sent me this, just as I'm assuming they sent me you.%SPEECH_OFF%He fumbles his words for a second and clears his throat.%SPEECH_ON%I mean, in another way, of course. Your victories at %holysite% have invigorated the men, lifting the spell of defeat from their shoulders. The monks now have the faithful back in their flock, and with good diligence we shall prove to the old gods our worth.%SPEECH_OFF%He pushes the woman away and tries to get to his feet, but the cushion is too deep, possibly too comfortable. He stays put.%SPEECH_ON%Your %reward% crowns will be out in the hall. Send for one of my servants to come and fetch this sand-lass for prayers in the priory.%SPEECH_OFF% | You find %employer% in one of the town's temples, standing beneath a statue of one of the old gods.%SPEECH_ON%I'd gotten word of your successes. The town has been elated, and the region as a whole is murmuring with delight. They won't speak of you, of course, they'll speak of me.%SPEECH_OFF%The nobleman seems quite happy with himself. He turns and pats you on the shoulder.%SPEECH_ON%I hope them southern shits didn't trouble you much. My lieutenants will bring your %reward% crowns. Say, do you think %holysite% is worth a visit? I've never been. In fact, don't care to. I am blessed wherever my feet go.%SPEECH_OFF%You purse your lips as the nobleman makes his leave.}\""
+  },
+  {
+    "key": "67f841c05a76aa2d3c31b5f98af63f3c4428f742dad879a3a1438123fb4c6cf1",
+    "original": "[img]gfx/ui/events/event_134.png[/img]{%SPEECH_START%That's a shame.%SPEECH_OFF%%mercenary% says as he quickly jaunts back to the ranks of the %mercenarycompany%. He keeps backing up right into the soldiers defending %holysite%. His arms are wide and fanning, as though he were swimming against a current.%SPEECH_ON%A damn shame, I say! Well, captain of the %companyname%, let us see which side purchased the finer sellsword, yeah?%SPEECH_OFF%The mercenary draws his weapon, as do the southern soldiers at %holysite% behind them. Naturally, you draw your weapon as well. It is time to fight. | %SPEECH_ON%Aye, aye, I see. Well. I didn't expect much. I am, after all, also a seller of the sword. And right now...%SPEECH_OFF%He paces backward to his company, and his company to the ranks of the southern soldiers protecting %holysite%.%SPEECH_ON%Right now, the south proves to be the highest bidder.%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_134.png[/img]{%SPEECH_START%That's a shame.%SPEECH_OFF%%mercenary% says as he quickly jaunts back to the ranks of the %mercenarycompany%. He keeps backing up right into the soldiers defending %holysite%. His arms are wide and fanning, as though he were swimming against a current.%SPEECH_ON%A damn shame, I say! Well, captain of the %companyname%, let us see which side purchased the finer sellsword, yeah?%SPEECH_OFF%The mercenary draws his weapon, as do the southern soldiers at %holysite% behind them. Naturally, you draw your weapon as well. It is time to fight. | %SPEECH_ON%Aye, aye, I see. Well. I didn't expect much. I am, after all, also a seller of the sword. And right now...%SPEECH_OFF%He paces backward to his company, and his company to the ranks of the southern soldiers protecting %holysite%.%SPEECH_ON%Right now, the south proves to be the highest bidder.%SPEECH_OFF%}\""
+  },
+  {
+    "key": "bb2ada27d1b271e4358048bb3976d6b1926ff50a1e7fb0cbb8eb89b5d77dcb89",
+    "original": "[img]gfx/ui/events/event_134.png[/img]{As %holysite% draws into view, a man who looks almost eerily similar to you approaches. He's got a paymaster and a couple of sellswords at his side.%SPEECH_ON%Evenin', captain. I am %mercenary% of the %mercenarycompany%. I came to these lands in search of crown, just as you have. Now, I wager that fat nobleman wetted his pen in a mighty sound contract for you and your men, but what say you pay me %pay% crowns and I'll help you in this little endeavor? Unless, of course, you want me to offer my services to the other side over yonder.%SPEECH_OFF% | You are approached by a group of men, one of which whose gait and constitution alike seem strangely reminiscent to your own. He announces himself as %mercenary%, captain of the %mercenarycompany%.%SPEECH_ON%I thought %employer% might send his professional army to see to the holy site's change of hands. I will admit to you, captain, that I helped them dune loons take over this prestigious monument in the first place. However, for %pay% crowns, I'm willing to help your side take it back. As a fellow mercenary, I'm sure you can see how this would be a good deal for all involved.%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_134.png[/img]{As %holysite% draws into view, a man who looks almost eerily similar to you approaches. He's got a paymaster and a couple of sellswords at his side.%SPEECH_ON%Evenin', captain. I am %mercenary% of the %mercenarycompany%. I came to these lands in search of crown, just as you have. Now, I wager that fat nobleman wetted his pen in a mighty sound contract for you and your men, but what say you pay me %pay% crowns and I'll help you in this little endeavor? Unless, of course, you want me to offer my services to the other side over yonder.%SPEECH_OFF% | You are approached by a group of men, one of which whose gait and constitution alike seem strangely reminiscent to your own. He announces himself as %mercenary%, captain of the %mercenarycompany%.%SPEECH_ON%I thought %employer% might send his professional army to see to the holy site's change of hands. I will admit to you, captain, that I helped them dune loons take over this prestigious monument in the first place. However, for %pay% crowns, I'm willing to help your side take it back. As a fellow mercenary, I'm sure you can see how this would be a good deal for all involved.%SPEECH_OFF%}\""
+  },
+  {
+    "key": "fae82c41f5e1dda462b187b6452110e13bcbec5ab77faaba48cf2acfc0d72a02",
+    "original": "[img]gfx/ui/events/event_134.png[/img]{The captain grins and slaps your shoulder.%SPEECH_ON%Aaahhh, there it is! There it is, the noble sellsword spirit! Aye, commander of the %companyname%, let us venture forth, for a short time, and do battle together, also for a short time!%SPEECH_OFF% | With the deal made, the captain of the mercenary company sidles up next to you. Almost uncomfortably close, and assuredly within range of his breath, which is unappreciated.%SPEECH_ON%You know, men like us, fellas like us, pals, we're pals, right? Pals like us. We gotta stick together. And for this here battle, we'll be sticking together.%SPEECH_OFF%He nods and slugs one into your shoulder.%SPEECH_ON%After the fight, well, I hope we can be buddies again sometime, you know?%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_134.png[/img]{The captain grins and slaps your shoulder.%SPEECH_ON%Aaahhh, there it is! There it is, the noble sellsword spirit! Aye, commander of the %companyname%, let us venture forth, for a short time, and do battle together, also for a short time!%SPEECH_OFF% | With the deal made, the captain of the mercenary company sidles up next to you. Almost uncomfortably close, and assuredly within range of his breath, which is unappreciated.%SPEECH_ON%You know, men like us, fellas like us, pals, we're pals, right? Pals like us. We gotta stick together. And for this here battle, we'll be sticking together.%SPEECH_OFF%He nods and slugs one into your shoulder.%SPEECH_ON%After the fight, well, I hope we can be buddies again sometime, you know?%SPEECH_OFF%}\""
+  },
+  {
+    "key": "f9fdc30631ff0bb4830d1d7ba8ec2aa68fdfc809f02d653ba3ee9a87448cc816",
+    "original": "[img]gfx/ui/events/event_164.png[/img]{The battle is over, but a golden gleam in the distance catches your eye. As you stare at the horizon, a troop of southerners appears, their bright appearance no doubt meant to be seen. It's a counter-attack! | As you sheathe your blade %randombrother% calls out. He points at the horizon. A line of southerners is on the approach, their armor glinting, their gait swaggering. The counter-attackers wish to be seen, and no doubt intend to be victorious...}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_164.png[/img]{The battle is over, but a golden gleam in the distance catches your eye. As you stare at the horizon, a troop of southerners appears, their bright appearance no doubt meant to be seen. It's a counter-attack! | As you sheathe your blade %randombrother% calls out. He points at the horizon. A line of southerners is on the approach, their armor glinting, their gait swaggering. The counter-attackers wish to be seen, and no doubt intend to be victorious...}\""
+  },
+  {
+    "key": "d9f6be221f467d224b3f1a39ea3a06c558ddcf2a5dbd251aaad75f6c3f1b3df2",
+    "original": "[img]gfx/ui/events/event_164.png[/img]{The defenses don't look as solid as they did before. You order the %companyname% to take the field in formation where no faulty constructs will get in the way of your command. The southern lieutenant greets you.%SPEECH_ON%You profane %holysite% with blood, for this the Gilder Himself has no doubt drawn you to the field to die like proper men. What have you to say to this?%SPEECH_OFF%You draw your sword.%SPEECH_ON%Wasn't my blood.%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_164.png[/img]{The defenses don't look as solid as they did before. You order the %companyname% to take the field in formation where no faulty constructs will get in the way of your command. The southern lieutenant greets you.%SPEECH_ON%You profane %holysite% with blood, for this the Gilder Himself has no doubt drawn you to the field to die like proper men. What have you to say to this?%SPEECH_OFF%You draw your sword.%SPEECH_ON%Wasn't my blood.%SPEECH_OFF%}\""
+  },
+  {
+    "key": "16455a75ec69edf15a0ce8e57a7319dda35041d98b285041c8e775cf7d25039c",
+    "original": "[img]gfx/ui/events/event_164.png[/img]{The southerners' approach is ever steady.%SPEECH_ON%Roaches, they just never end.%SPEECH_OFF%You look over to see %randombrother% shaking his head. He lifts up his boot and flicks a bug off the toe. He puts his foot down and nods back toward the attackers.%SPEECH_ON%Don't worry, captain, we'll have %holysite%'s defenses in tip-top shape for them savage bastards.%SPEECH_OFF% | You order the men to defend the site.%SPEECH_ON%Making a stand in %holysite%, what a time to be alive.%SPEECH_OFF%%randombrother% says. You nod and tell him you hope it will one day be a memory for him. He laughs and asks how he could ever forget. Another sellsword chimes in that there's one very certain way he can forget, but you cut him off and tell the men to pay attention to the task at hand.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_164.png[/img]{The southerners' approach is ever steady.%SPEECH_ON%Roaches, they just never end.%SPEECH_OFF%You look over to see %randombrother% shaking his head. He lifts up his boot and flicks a bug off the toe. He puts his foot down and nods back toward the attackers.%SPEECH_ON%Don't worry, captain, we'll have %holysite%'s defenses in tip-top shape for them savage bastards.%SPEECH_OFF% | You order the men to defend the site.%SPEECH_ON%Making a stand in %holysite%, what a time to be alive.%SPEECH_OFF%%randombrother% says. You nod and tell him you hope it will one day be a memory for him. He laughs and asks how he could ever forget. Another sellsword chimes in that there's one very certain way he can forget, but you cut him off and tell the men to pay attention to the task at hand.}\""
+  },
+  {
+    "key": "46d528cc75b13d93fe31a093ee361b4455ba626edf0d0cc63fa728fd37b93cd3",
+    "original": "[img]gfx/ui/events/event_45.png[/img]{%employer% is found surrounded by a congress of holy men, each seemingly more knowledgeable than the last about the intent and desires of the old gods. But there is a clear line of thought arrowing through the conversation: the southerners have taken %holysite% and it must be recovered. The lord points you out.%SPEECH_ON%The %companyname% shall endeavor to end this nightmare!%SPEECH_OFF%Pushing the priors out of the way, %employer% nears and his voice lowers.%SPEECH_ON%For the right price, of course. I've few men to spare, but the holy lands are of great importance to the people and to myself. You must go there and drive out the heathens so that the old gods shall not leave us behind, our failures and all.%SPEECH_OFF% | The door to %employer%'s room flies open and a line of holy men make their leave. A couple pause to glare at you, not a one seemingly happy by your presence. %employer% waves you in.%SPEECH_ON%Do not concern yourself with their pitiful, accusative eyes, sellsword. %holysite% has been lost to the southerners and it has put a whole faggot of sticks up their collective arses. Not that I blame them, even a grouser such as I carries a soft spot for the sacred lands. These priors simply wish to have %holysite% reclaimed by proper royal colors, but alas, I've committed my soldiers elsewhere. You, however, can do the job just fine, for proper coin, aye?%SPEECH_OFF% | %SPEECH_ON%The old gods are no doubt looking upon this room, sellsword.%SPEECH_OFF%%employer% swirls his chalice around, the wine sloshing along the rim and leaving a purple glisten behind.%SPEECH_ON%Southerners have taken %holysite% and no doubt profaned it entirely. I'd sooner have a dog find a piss spot on the sacred lands than watch one of those southern shits stand in the supposed sublimity of their god. What was it, the Gilder? What a load of horse shit. Go there and kill them all and return %holysite% to proper standing.%SPEECH_OFF% | %employer% is found in his garden and he's almost aggressively alone. Men and women around the fenceline seem scared to even glance his way. Not that care: you freely walk in. He's staring at a kicked ant pile, the insects scurrying around to rebuild. The nobleman sighs.%SPEECH_ON%I sometimes wonder if the old gods look upon us in such a manner.%SPEECH_OFF%You remark that you really only notice ants when they bite. The nobleman gets to his feet.%SPEECH_ON%You should know they're good for the garden, sellsword. If they bite, I surmise it is without passion. It is only them doing what they know to do, just as they know to rebuild when I kick their home over. Just as it is that when I learned the southern roaches had impermanently trespassed upon %holysite% that I, by the way of the old gods, knew they must be rooted out and destroyed.%SPEECH_OFF%You half-expect the nobleman to compare you to an ant, but instead he simply offers you a large chunk of crowns to get to the holy lands and break its occupants.%SPEECH_ON%You would be like a wasp in the garden, perhaps.%SPEECH_OFF%The nobleman says, to which you respond with a stoic nod. | %SPEECH_ON%I'm not one for pottery, sellsword, so when I say the southern farks are lower than an arsemonger's moonlit depravity, you should know that their trespass alone has compelled me to the way of the minstrel.%SPEECH_OFF%You think to inform %employer% that he may mean 'poetry', but in a way he is breaking pots here. Besides, he no doubt sees you as someone with clay feet.%SPEECH_ON%The savages have taken %holysite% and rumors are they've even killed all 'non-believers.' My soldiers are spread out, the fields of battle plentiful as they are. But you are available. And you're a greedy fark, sure, but I also know the %companyname% is the exact sort of might and main we need to get those bastards out of the holy lands.%SPEECH_OFF%}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_45.png[/img]{%employer% is found surrounded by a congress of holy men, each seemingly more knowledgeable than the last about the intent and desires of the old gods. But there is a clear line of thought arrowing through the conversation: the southerners have taken %holysite% and it must be recovered. The lord points you out.%SPEECH_ON%The %companyname% shall endeavor to end this nightmare!%SPEECH_OFF%Pushing the priors out of the way, %employer% nears and his voice lowers.%SPEECH_ON%For the right price, of course. I've few men to spare, but the holy lands are of great importance to the people and to myself. You must go there and drive out the heathens so that the old gods shall not leave us behind, our failures and all.%SPEECH_OFF% | The door to %employer%'s room flies open and a line of holy men make their leave. A couple pause to glare at you, not a one seemingly happy by your presence. %employer% waves you in.%SPEECH_ON%Do not concern yourself with their pitiful, accusative eyes, sellsword. %holysite% has been lost to the southerners and it has put a whole faggot of sticks up their collective arses. Not that I blame them, even a grouser such as I carries a soft spot for the sacred lands. These priors simply wish to have %holysite% reclaimed by proper royal colors, but alas, I've committed my soldiers elsewhere. You, however, can do the job just fine, for proper coin, aye?%SPEECH_OFF% | %SPEECH_ON%The old gods are no doubt looking upon this room, sellsword.%SPEECH_OFF%%employer% swirls his chalice around, the wine sloshing along the rim and leaving a purple glisten behind.%SPEECH_ON%Southerners have taken %holysite% and no doubt profaned it entirely. I'd sooner have a dog find a piss spot on the sacred lands than watch one of those southern shits stand in the supposed sublimity of their god. What was it, the Gilder? What a load of horse shit. Go there and kill them all and return %holysite% to proper standing.%SPEECH_OFF% | %employer% is found in his garden and he's almost aggressively alone. Men and women around the fenceline seem scared to even glance his way. Not that care: you freely walk in. He's staring at a kicked ant pile, the insects scurrying around to rebuild. The nobleman sighs.%SPEECH_ON%I sometimes wonder if the old gods look upon us in such a manner.%SPEECH_OFF%You remark that you really only notice ants when they bite. The nobleman gets to his feet.%SPEECH_ON%You should know they're good for the garden, sellsword. If they bite, I surmise it is without passion. It is only them doing what they know to do, just as they know to rebuild when I kick their home over. Just as it is that when I learned the southern roaches had impermanently trespassed upon %holysite% that I, by the way of the old gods, knew they must be rooted out and destroyed.%SPEECH_OFF%You half-expect the nobleman to compare you to an ant, but instead he simply offers you a large chunk of crowns to get to the holy lands and break its occupants.%SPEECH_ON%You would be like a wasp in the garden, perhaps.%SPEECH_OFF%The nobleman says, to which you respond with a stoic nod. | %SPEECH_ON%I'm not one for pottery, sellsword, so when I say the southern farks are lower than an arsemonger's moonlit depravity, you should know that their trespass alone has compelled me to the way of the minstrel.%SPEECH_OFF%You think to inform %employer% that he may mean 'poetry', but in a way he is breaking pots here. Besides, he no doubt sees you as someone with clay feet.%SPEECH_ON%The savages have taken %holysite% and rumors are they've even killed all 'non-believers.' My soldiers are spread out, the fields of battle plentiful as they are. But you are available. And you're a greedy fark, sure, but I also know the %companyname% is the exact sort of might and main we need to get those bastards out of the holy lands.%SPEECH_OFF%}\""
+  },
+  {
+    "key": "7581952bbd93061a2412caf81d2b1b5dfee8265fcc0e191fc982cd3016a6af69",
+    "original": "[img]gfx/ui/events/event_78.png[/img]{%holysite% is already under siege by men carrying %employerfaction%'s banner. As you come closer, a man meets you half way. He raises his hand and then puts it to his belt.%SPEECH_ON%I got word they were sending a mercenary and you appear to be it. The %companyname%, was it? Well, I am %commander%, a lieutenant of %employer%'s. I will be joining you in rooting out these desert rats. I fear, as I'm sure you do, that the old gods will be punish us all if we do not see to this task posthaste.%SPEECH_OFF%The lieutenant spits and runs a hand across his grizzled face.%SPEECH_ON%Well. Let the old gods see us as truly as we are, and we shall butcher these dune goons in a manner most righteous.%SPEECH_OFF% | %holysite% is already under siege by men carrying %employerfaction%'s banner. The leader steps forward and speaks loudly.%SPEECH_ON%The %companyname%, my name is %commander%, lieutenant to %employer%'s field army. I have come to join you, or shall I say you will be joining me, in going to %holysite% and ripping out those southern scum from every inch of the place. For the old gods watch over us all, even the likes of you sellswords, and failure today will surely doom us to every hell there is.%SPEECH_OFF%Right. You just want to be sure, help or not, that %employer% will pay you the full amount of that which will be owed. | %holysite% is already under siege by men carrying %employerfaction%'s banner. It's seemingly a congress of holy men and soldiers alike, and the lieutenant leading the troop brandishes his sword before swiftly aiming it toward %holysite%.%SPEECH_ON%The southern lickspittles will either leave, or we will convert them to the hells of the old gods by the grace of our steel. There is no other choice in this matter. Come then, mercenaries!%SPEECH_OFF%It appears the %companyname% will have some help in this endeavor, though you fully expect to still see the entirety of the reward promised.}",
+    "translation": "",
+    "context": "Text = \"[img]gfx/ui/events/event_78.png[/img]{%holysite% is already under siege by men carrying %employerfaction%'s banner. As you come closer, a man meets you half way. He raises his hand and then puts it to his belt.%SPEECH_ON%I got word they were sending a mercenary and you appear to be it. The %companyname%, was it? Well, I am %commander%, a lieutenant of %employer%'s. I will be joining you in rooting out these desert rats. I fear, as I'm sure you do, that the old gods will be punish us all if we do not see to this task posthaste.%SPEECH_OFF%The lieutenant spits and runs a hand across his grizzled face.%SPEECH_ON%Well. Let the old gods see us as truly as we are, and we shall butcher these dune goons in a manner most righteous.%SPEECH_OFF% | %holysite% is already under siege by men carrying %employerfaction%'s banner. The leader steps forward and speaks loudly.%SPEECH_ON%The %companyname%, my name is %commander%, lieutenant to %employer%'s field army. I have come to join you, or shall I say you will be joining me, in going to %holysite% and ripping out those southern scum from every inch of the place. For the old gods watch over us all, even the likes of you sellswords, and failure today will surely doom us to every hell there is.%SPEECH_OFF%Right. You just want to be sure, help or not, that %employer% will pay you the full amount of that which will be owed. | %holysite% is already under siege by men carrying %employerfaction%'s banner. It's seemingly a congress of holy men and soldiers alike, and the lieutenant leading the troop brandishes his sword before swiftly aiming it toward %holysite%.%SPEECH_ON%The southern lickspittles will either leave, or we will convert them to the hells of the old gods by the grace of our steel. There is no other choice in this matter. Come then, mercenaries!%SPEECH_OFF%It appears the %companyname% will have some help in this endeavor, though you fully expect to still see the entirety of the reward promised.}\""
+  },
+  {
+    "key": "5482b1848bddc77c0cb2d9b8c0530254e977413a225d3ed0fa714422c0f1d6e2",
+    "original": "{I trust you'll pay amply for an assault like this. | We're ready to do our part. | Let's talk some more about payment.}",
+    "translation": "",
+    "context": "Text = \"{I trust you'll pay amply for an assault like this. | We're ready to do our part. | Let's talk some more about payment.}\""
+  },
+  {
+    "key": "9a7c936ce58d357db4a70781f7434915ef4a904c17c3848f3b5d700076c5c997",
+    "original": "{This isn't worth it. | It's too long a march. | We have more pressing business to attend to. | We're needed elsewhere.}",
+    "translation": "",
+    "context": "Text = \"{This isn't worth it. | It's too long a march. | We have more pressing business to attend to. | We're needed elsewhere.}\""
+  }
+]
