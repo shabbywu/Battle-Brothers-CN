@@ -9830,7 +9830,7 @@
     "ID": 993341490,
     "key": "a68a9dc9ea8c86c0d460a504f5db75d0764b7a4e0ce1bc805cde783536d98cf2",
     "original": "Become one with your weapon and go for the weak spots! With the offhand free or carrying a buckler or throwable tool (e.g. throwing net), an additional [color=",
-    "translation": "人兵合一，直取空门！如果副手未持有物品或者仅携带投网等投掷工具，则可额外造成[color=",
+    "translation": "人兵合一，直取空门！如果副手未持有物品或者仅携带小圆盾或投网等投掷工具，则可额外造成[color=",
     "stage": 1,
     "context": "\"Become one with your weapon and go for the weak spots! With the offhand free or carrying a buckler or throwable tool (e.g. throwing net), an additional [color=\" + this.Const.UI.Color.PositiveValue + \"]+25%[/color] of any damage ignores armor. Does not work with two-handed weapons.\""
   },
