@@ -4651,8 +4651,8 @@
     "ID": 293407564,
     "key": "Skewer's Hideout",
     "original": "Skewer's Hideout",
-    "translation": "串肉扦藏身处",
-    "stage": 5,
+    "translation": "穿刺者藏身处",
+    "stage": 1,
     "context": "\"Skewer's Hideout\""
   },
   {
