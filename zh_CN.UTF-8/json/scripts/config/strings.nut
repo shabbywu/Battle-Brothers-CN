@@ -9866,7 +9866,7 @@
     "ID": 993341495,
     "key": "65b011f007e45822ef1438aa170f6dc042a3c3775ceb185a8425b783f3458017",
     "original": "]25%[/color] less Fatigue.\n\nStab, Puncture, Deathblow, Perforate, and Skewer have a reduced Action Point cost, potentially allowing for an additional attack each turn.",
-    "translation": "]25%[/color] 疲劳值积累\n\n“刺击”、“穿刺”、“致命一击”、“贯穿”和“串刺”的行动点消耗降低1，从而可在每回合中额外攻击一次。",
+    "translation": "]25%[/color] 疲劳值积累\n\n“刺击”、“穿刺”、“致命一击”、“连环穿刺”和“洞穿”的行动点消耗降低1，从而可在每回合中额外攻击一次。",
     "stage": 1,
     "context": "\"Master swift and deadly daggers. Skills build up [color=\" + this.Const.UI.Color.NegativeValue + \"]25%[/color] less Fatigue.\n\nStab, Puncture, Deathblow, Perforate, and Skewer have a reduced Action Point cost, potentially allowing for an additional attack each turn.\""
   }

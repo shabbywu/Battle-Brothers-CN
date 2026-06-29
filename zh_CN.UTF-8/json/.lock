@@ -2939,9 +2939,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2026-06-25T17:01:02.606Z",
-        "modifiedAt": "2026-06-27T05:29:40.436Z",
+        "modifiedAt": "2026-06-28T12:32:11.688Z",
         "hash": "2391631015230a785fca4d6c8a3efbc8",
-        "sha256": "305c3fd411b17589a32c65d3e06c0af3aaa0fa15964d6b0d35fc90d49614054c"
+        "sha256": "a7ab893151d1339f28dee331140e8cc0df94cf908e6e2a4199094e9ce409d0ce"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -3009,15 +3009,15 @@
         "total": 770,
         "translated": 770,
         "disputed": 0,
-        "checked": 126,
-        "reviewed": 126,
+        "checked": 125,
+        "reviewed": 125,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:17:46.237Z",
         "updatedAt": "2026-06-25T17:01:02.96Z",
-        "modifiedAt": "2026-06-26T02:00:44.34Z",
+        "modifiedAt": "2026-06-28T12:32:31.546Z",
         "hash": "1f36b33e82b5ea21d693064f05d727fa",
-        "sha256": "c152844ef03e9e3b7d89f44d0bc942b6d6c2a2f93b33645c4bb14eac849d08f3"
+        "sha256": "de850fd27136540e0fc93e944065c110d003b2ccf64e639e5ad8efd8637f6237"
     },
     "scripts/config/world_scaling.json": {
         "id": 3144247,
@@ -37910,7 +37910,7 @@
         "filename": "",
         "format": "json",
         "total": 13,
-        "translated": 10,
+        "translated": 13,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -37918,9 +37918,9 @@
         "locked": 0,
         "createdAt": "2026-06-27T04:01:57.435Z",
         "updatedAt": "2026-06-27T04:01:57.435Z",
-        "modifiedAt": "2026-06-28T02:54:27.064Z",
+        "modifiedAt": "2026-06-28T06:03:45.244Z",
         "hash": "c227c8a7feff24567835eef4438ee76d",
-        "sha256": "57585efebdfaa8444871d599361f6a4dd19c7c98c7b156f55ea2bf12b290e23d"
+        "sha256": "84dd170ba820555bc7bd36ca41a47b36934fa0c0ed81caec9ab4c21aba2007c5"
     },
     "scripts/skills/backgrounds/executioner_southern_background.json": {
         "id": 3144276,
@@ -37929,7 +37929,7 @@
         "filename": "",
         "format": "json",
         "total": 1,
-        "translated": 0,
+        "translated": 1,
         "disputed": 0,
         "checked": 0,
         "reviewed": 0,
@@ -37937,9 +37937,9 @@
         "locked": 0,
         "createdAt": "2026-06-27T04:01:57.597Z",
         "updatedAt": "2026-06-27T04:01:57.597Z",
-        "modifiedAt": "2026-06-27T04:01:57.597Z",
+        "modifiedAt": "2026-06-28T05:34:31.646Z",
         "hash": "b904515d350736a4e52309daa6fa98b1",
-        "sha256": "30c31107fe88108f4c0b433ffc77e72b7e3365cb01539401bc70ccc3fb18e0b1"
+        "sha256": "3ad61d61573a526d0eb9ea01c40513635dc24b117c57926376bad1866e8fc303"
     },
     "scripts/skills/backgrounds/farmhand_background.json": {
         "id": 920184,
