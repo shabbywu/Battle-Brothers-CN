@@ -3,16 +3,16 @@
     "ID": 293421276,
     "key": "the Prisoner",
     "original": "the Prisoner",
-    "translation": "囚犯(the Prisoner)",
-    "stage": 5,
+    "translation": "囚犯",
+    "stage": 1,
     "context": "'the Prisoner'"
   },
   {
     "ID": 293421277,
     "key": "the Kidnapped",
     "original": "the Kidnapped",
-    "translation": "被劫持者(the Kidnapped)",
-    "stage": 5,
+    "translation": "被劫持者",
+    "stage": 1,
     "context": "'the Kidnapped'"
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293421279,
     "key": "the Unfree",
     "original": "the Unfree",
-    "translation": "不自由者(the Unfree)",
-    "stage": 5,
+    "translation": "不自由者",
+    "stage": 1,
     "context": "'the Unfree'"
   },
   {
@@ -43,8 +43,8 @@
     "ID": 293421281,
     "key": "the Pale",
     "original": "the Pale",
-    "translation": "苍白者(the Pale)",
-    "stage": 5,
+    "translation": "苍白者",
+    "stage": 1,
     "context": "'the Pale'"
   },
   {
@@ -67,16 +67,16 @@
     "ID": 293421284,
     "key": "the Captive",
     "original": "the Captive",
-    "translation": "俘虏(the Captive)",
-    "stage": 5,
+    "translation": "俘虏",
+    "stage": 1,
     "context": "'the Captive'"
   },
   {
     "ID": 293421285,
     "key": "the Northerner",
     "original": "the Northerner",
-    "translation": "北方人(the Northerner)",
-    "stage": 5,
+    "translation": "北方人",
+    "stage": 1,
     "context": "'the Northerner'"
   },
   {
@@ -99,8 +99,8 @@
     "ID": 293421288,
     "key": "the Indebted",
     "original": "the Indebted",
-    "translation": "负债者(the Indebted)",
-    "stage": 5,
+    "translation": "负债者",
+    "stage": 1,
     "context": "'the Indebted'"
   },
   {
@@ -123,7 +123,7 @@
     "ID": 293421291,
     "key": "the Unlucky",
     "original": "the Unlucky",
-    "translation": "倒霉蛋(the Unlucky)",
+    "translation": "倒霉蛋",
     "stage": 1,
     "context": "'the Unlucky'"
   },
@@ -131,7 +131,7 @@
     "ID": 293421292,
     "key": "the Shackled",
     "original": "the Shackled",
-    "translation": "受铐者(the Shackled)",
+    "translation": "受铐者",
     "stage": 1,
     "context": "'the Shackled'"
   },
@@ -139,15 +139,15 @@
     "ID": 293421293,
     "key": "the Enslaved",
     "original": "the Enslaved",
-    "translation": "受奴役者(the Enslaved)",
-    "stage": 5,
+    "translation": "受奴役者",
+    "stage": 1,
     "context": "'the Enslaved'"
   },
   {
     "ID": 293421294,
     "key": "the Bound",
     "original": "the Bound",
-    "translation": "被缚者(the Bound)",
+    "translation": "被缚者",
     "stage": 1,
     "context": "'the Bound'"
   }

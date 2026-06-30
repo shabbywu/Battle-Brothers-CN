@@ -19,8 +19,8 @@
     "ID": 293421128,
     "key": "the Crawler",
     "original": "the Crawler",
-    "translation": "爬行者(the Crawler)",
-    "stage": 5,
+    "translation": "爬行者",
+    "stage": 1,
     "context": "'the Crawler'"
   },
   {
@@ -35,7 +35,7 @@
     "ID": 293421130,
     "key": "Earthside",
     "original": "Earthside",
-    "translation": "地底人(Earthside)",
+    "translation": "地底人",
     "stage": 1,
     "context": "'Earthside'"
   },
@@ -43,8 +43,8 @@
     "ID": 293421131,
     "key": "the Miner",
     "original": "the Miner",
-    "translation": "矿工(the Miner)",
-    "stage": 5,
+    "translation": "矿工",
+    "stage": 1,
     "context": "'the Miner'"
   },
   {

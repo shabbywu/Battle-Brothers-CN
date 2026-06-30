@@ -3,16 +3,16 @@
     "ID": 293421308,
     "key": "the Prisoner",
     "original": "the Prisoner",
-    "translation": "囚犯(the Prisoner)",
-    "stage": 5,
+    "translation": "囚犯",
+    "stage": 1,
     "context": "'the Prisoner'"
   },
   {
     "ID": 293421309,
     "key": "the Unfree",
     "original": "the Unfree",
-    "translation": "不自由者(the Unfree)",
-    "stage": 5,
+    "translation": "不自由者",
+    "stage": 1,
     "context": "'the Unfree'"
   },
   {
@@ -27,7 +27,7 @@
     "ID": 293421311,
     "key": "the Unlucky",
     "original": "the Unlucky",
-    "translation": "倒霉蛋(the Unlucky)",
+    "translation": "倒霉蛋",
     "stage": 1,
     "context": "'the Unlucky'"
   },
@@ -35,7 +35,7 @@
     "ID": 293421312,
     "key": "the Shackled",
     "original": "the Shackled",
-    "translation": "受铐者(the Shackled)",
+    "translation": "受铐者",
     "stage": 1,
     "context": "'the Shackled'"
   },
@@ -43,8 +43,8 @@
     "ID": 293421313,
     "key": "the Indebted",
     "original": "the Indebted",
-    "translation": "负债者(the Indebted)",
-    "stage": 5,
+    "translation": "负债者",
+    "stage": 1,
     "context": "'the Indebted'"
   },
   {
@@ -59,31 +59,31 @@
     "ID": 293421315,
     "key": "the Criminal",
     "original": "the Criminal",
-    "translation": "罪犯(the Criminal)",
-    "stage": 5,
+    "translation": "罪犯",
+    "stage": 1,
     "context": "'the Criminal'"
   },
   {
     "ID": 293421316,
     "key": "the Obedient",
     "original": "the Obedient",
-    "translation": "顺从者(the Obedient)",
-    "stage": 5,
+    "translation": "顺从者",
+    "stage": 1,
     "context": "'the Obedient'"
   },
   {
     "ID": 293421317,
     "key": "the Enslaved",
     "original": "the Enslaved",
-    "translation": "受奴役者(the Enslaved)",
-    "stage": 5,
+    "translation": "受奴役者",
+    "stage": 1,
     "context": "'the Enslaved'"
   },
   {
     "ID": 293421318,
     "key": "the Bound",
     "original": "the Bound",
-    "translation": "被缚者(the Bound)",
+    "translation": "被缚者",
     "stage": 1,
     "context": "'the Bound'"
   },

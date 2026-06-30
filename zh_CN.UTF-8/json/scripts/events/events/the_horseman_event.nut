@@ -27,7 +27,7 @@
     "ID": 293417013,
     "key": "the Filly Fiddler",
     "original": "the Filly Fiddler",
-    "translation": "小马拉琴手(the Filly Fiddler)",
+    "translation": "小马拉琴手",
     "stage": 1,
     "context": "_event.m.Dude.setTitle('the Filly Fiddler')"
   },

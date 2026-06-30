@@ -35,7 +35,7 @@
     "ID": 293421124,
     "key": "the Miller",
     "original": "the Miller",
-    "translation": "碾磨工(the Miller)",
+    "translation": "碾磨工",
     "stage": 1,
     "context": "'the Miller'"
   },

@@ -19,16 +19,16 @@
     "ID": 293420941,
     "key": "the Disowned",
     "original": "the Disowned",
-    "translation": "被断绝关系者(the Disowned)",
-    "stage": 5,
+    "translation": "被断绝关系者",
+    "stage": 1,
     "context": "'the Disowned'"
   },
   {
     "ID": 293420942,
     "key": "the Exiled",
     "original": "the Exiled",
-    "translation": "流放者(the Exiled)",
-    "stage": 5,
+    "translation": "流放者",
+    "stage": 1,
     "context": "'the Exiled'"
   },
   {

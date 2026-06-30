@@ -3,7 +3,7 @@
     "ID": 293413610,
     "key": "Witnessed ",
     "original": "Witnessed ",
-    "translation": "目睹(Witnessed)",
+    "translation": "目睹了",
     "stage": 1,
     "context": "bro.improveMood(1.0, 'Witnessed ' + _event.m.Archer.getName() + \"'s fine display of archery\")"
   },
@@ -51,7 +51,7 @@
     "ID": 293413616,
     "key": "'s fine display of archery",
     "original": "'s fine display of archery",
-    "translation": "队长精湛的射箭技艺",
+    "translation": "精湛的射箭技艺",
     "stage": 1,
     "context": "bro.improveMood(1.0, 'Witnessed ' + _event.m.Archer.getName() + \"'s fine display of archery\")"
   },

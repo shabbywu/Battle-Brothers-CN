@@ -3,8 +3,8 @@
     "ID": 293421360,
     "key": "Tatterdemalion",
     "original": "Tatterdemalion",
-    "translation": "褴褛汉(Tatterdemalion)",
-    "stage": 5,
+    "translation": "褴褛汉",
+    "stage": 1,
     "context": "'Tatterdemalion'"
   },
   {
@@ -27,15 +27,15 @@
     "ID": 293421363,
     "key": "the Wanderer",
     "original": "the Wanderer",
-    "translation": "流浪者(the Wanderer)",
-    "stage": 5,
+    "translation": "流浪者",
+    "stage": 1,
     "context": "'the Wanderer'"
   },
   {
     "ID": 293421364,
     "key": "the Restless",
     "original": "the Restless",
-    "translation": "不得安歇者(the Restless)",
+    "translation": "不得安歇者",
     "stage": 1,
     "context": "'the Restless'"
   },
@@ -83,8 +83,8 @@
     "ID": 293421370,
     "key": "Bindlestiff",
     "original": "Bindlestiff",
-    "translation": "背包客(Bindlestiff)",
-    "stage": 5,
+    "translation": "背包客",
+    "stage": 1,
     "context": "'Bindlestiff'"
   },
   {
@@ -99,16 +99,16 @@
     "ID": 293421372,
     "key": "Threefeet",
     "original": "Threefeet",
-    "translation": "三只脚(Threefeet)",
-    "stage": 5,
+    "translation": "三只脚",
+    "stage": 1,
     "context": "'Threefeet'"
   },
   {
     "ID": 293421373,
     "key": "the Traveller",
     "original": "the Traveller",
-    "translation": "旅行者(the Traveller)",
-    "stage": 5,
+    "translation": "旅行者",
+    "stage": 1,
     "context": "'the Traveller'"
   }
 ]

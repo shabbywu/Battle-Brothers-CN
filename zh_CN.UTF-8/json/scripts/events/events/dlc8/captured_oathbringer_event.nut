@@ -11,7 +11,7 @@
     "ID": 293415307,
     "key": "Let a captive Oathbringer escape",
     "original": "Let a captive Oathbringer escape",
-    "translation": "放走一名被俘的誓言者(Oathbringer)。",
+    "translation": "放走了一名被俘的渡誓者。",
     "stage": 1,
     "context": "_event.m.Torturer.worsenMood(0.5, 'Let a captive Oathbringer escape')"
   },

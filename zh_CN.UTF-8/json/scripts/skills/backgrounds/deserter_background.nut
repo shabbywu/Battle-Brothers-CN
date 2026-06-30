@@ -27,8 +27,8 @@
     "ID": 293420930,
     "key": "the Worm",
     "original": "the Worm",
-    "translation": "蠕虫(the Worm)",
-    "stage": 5,
+    "translation": "蠕虫",
+    "stage": 1,
     "context": "'the Worm'"
   },
   {
@@ -43,16 +43,16 @@
     "ID": 293420932,
     "key": "the Runner",
     "original": "the Runner",
-    "translation": "跑手(the Runner)",
-    "stage": 5,
+    "translation": "跑路仔",
+    "stage": 1,
     "context": "'the Runner'"
   },
   {
     "ID": 293420933,
     "key": "Turncloak",
     "original": "Turncloak",
-    "translation": "叛徒(Turncloak)",
-    "stage": 5,
+    "translation": "叛徒",
+    "stage": 1,
     "context": "'Turncloak'"
   },
   {
@@ -83,16 +83,16 @@
     "ID": 293420937,
     "key": "the Deserter",
     "original": "the Deserter",
-    "translation": "逃兵(the Deserter)",
-    "stage": 5,
+    "translation": "逃兵",
+    "stage": 1,
     "context": "'the Deserter'"
   },
   {
     "ID": 293420938,
     "key": "the Betrayer",
     "original": "the Betrayer",
-    "translation": "背叛者(the Betrayer)",
-    "stage": 5,
+    "translation": "背叛者",
+    "stage": 1,
     "context": "'the Betrayer'"
   }
 ]

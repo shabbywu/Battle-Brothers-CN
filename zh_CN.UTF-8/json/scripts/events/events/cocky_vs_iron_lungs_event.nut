@@ -11,7 +11,7 @@
     "ID": 293412874,
     "key": " in a contest of strength",
     "original": " in a contest of strength",
-    "translation": "在力量比拼中",
+    "translation": "兄弟",
     "stage": 1,
     "context": "_event.m.IronLungs.improveMood(1.0, 'Beat ' + _event.m.Cocky.getName() + ' in a contest of strength')"
   },
@@ -51,7 +51,7 @@
     "ID": 293412879,
     "key": "Beat ",
     "original": "Beat ",
-    "translation": "击败 (Beat)",
+    "translation": "在力量比拼中击败了",
     "stage": 1,
     "context": "_event.m.IronLungs.improveMood(1.0, 'Beat ' + _event.m.Cocky.getName() + ' in a contest of strength')"
   },

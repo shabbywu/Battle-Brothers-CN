@@ -11,7 +11,7 @@
     "ID": 293415511,
     "key": "Young Anselm.",
     "original": "Young Anselm.",
-    "translation": "年轻的安瑟姆.(Young Anselm)",
+    "translation": "小安瑟姆",
     "stage": 1,
     "context": "Text = 'Young Anselm.'"
   },

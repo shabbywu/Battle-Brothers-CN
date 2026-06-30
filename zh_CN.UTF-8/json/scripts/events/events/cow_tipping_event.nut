@@ -3,7 +3,7 @@
     "ID": 293412946,
     "key": "Witnessed ",
     "original": "Witnessed ",
-    "translation": "目击(Witnessed)",
+    "translation": "目睹了",
     "stage": 1,
     "context": "bro.improveMood(0.5, 'Witnessed ' + _event.m.Strong.getName() + \"'s incredible feat\")"
   },

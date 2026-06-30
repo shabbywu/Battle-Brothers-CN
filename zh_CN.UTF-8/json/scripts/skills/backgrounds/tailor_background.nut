@@ -11,7 +11,7 @@
     "ID": 293421334,
     "key": "the Particular",
     "original": "the Particular",
-    "translation": "讲究者(The Particular)",
+    "translation": "讲究者",
     "stage": 1,
     "context": "'the Particular'"
   },
@@ -19,16 +19,16 @@
     "ID": 293421335,
     "key": "the Tailor",
     "original": "the Tailor",
-    "translation": "裁缝(the Tailor)",
-    "stage": 5,
+    "translation": "裁缝",
+    "stage": 1,
     "context": "'the Tailor'"
   },
   {
     "ID": 293421336,
     "key": "the Fine",
     "original": "the Fine",
-    "translation": "妙手(the Fine)",
-    "stage": 5,
+    "translation": "妙手",
+    "stage": 1,
     "context": "'the Fine'"
   },
   {
@@ -43,8 +43,8 @@
     "ID": 293421338,
     "key": "Silkworm",
     "original": "Silkworm",
-    "translation": "蚕(Silkworm)",
-    "stage": 5,
+    "translation": "蚕",
+    "stage": 1,
     "context": "'Silkworm'"
   },
   {
@@ -75,7 +75,7 @@
     "ID": 293421342,
     "key": "the Peculiar",
     "original": "the Peculiar",
-    "translation": "精打细算者(the Peculiar)",
+    "translation": "精打细算者",
     "stage": 1,
     "context": "'the Peculiar'"
   }

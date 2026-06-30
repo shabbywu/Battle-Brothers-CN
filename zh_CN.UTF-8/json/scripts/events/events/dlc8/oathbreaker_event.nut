@@ -91,7 +91,7 @@
     "ID": 293415501,
     "key": "Young Anselm has other plans for you. Join us!",
     "original": "Young Anselm has other plans for you. Join us!",
-    "translation": "年轻的安瑟姆(Anselm)有其他计划给你。加入我们！",
+    "translation": "小安瑟姆对你另有安排。加入我们！",
     "stage": 1,
     "context": "Text = 'Young Anselm has other plans for you. Join us!'"
   },

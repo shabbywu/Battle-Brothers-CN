@@ -11,7 +11,7 @@
     "ID": 293413156,
     "key": "Defeated",
     "original": "Defeated",
-    "translation": "失败了(Defeated)",
+    "translation": "被击败",
     "stage": 1,
     "context": "this.m.News.get('Defeated')"
   },

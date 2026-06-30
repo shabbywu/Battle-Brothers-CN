@@ -179,7 +179,7 @@
     "ID": 293414831,
     "key": "the Sailor",
     "original": "the Sailor",
-    "translation": "船员(the Sailor)",
+    "translation": "船员",
     "stage": 1,
     "context": "_event.m.Dude.setTitle('the Sailor')"
   },
@@ -195,7 +195,7 @@
     "ID": 293414833,
     "key": "the Mariner",
     "original": "the Mariner",
-    "translation": "航海家(the Mariner)",
+    "translation": "航海家",
     "stage": 1,
     "context": "_event.m.Fisherman.setTitle('the Mariner')"
   }

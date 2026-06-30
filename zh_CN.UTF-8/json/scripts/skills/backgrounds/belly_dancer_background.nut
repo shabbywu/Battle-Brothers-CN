@@ -11,8 +11,8 @@
     "ID": 293420834,
     "key": "the Belly Dancer",
     "original": "the Belly Dancer",
-    "translation": "肚皮舞者(the Belly Dancer)",
-    "stage": 5,
+    "translation": "肚皮舞者",
+    "stage": 1,
     "context": "actor.setTitle('the Belly Dancer')"
   },
   {

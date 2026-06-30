@@ -3,24 +3,24 @@
     "ID": 293421162,
     "key": "the Hawk",
     "original": "the Hawk",
-    "translation": "鹰(the Hawk)",
-    "stage": 5,
+    "translation": "鹰",
+    "stage": 1,
     "context": "'the Hawk'"
   },
   {
     "ID": 293421163,
     "key": "the Scorpion",
     "original": "the Scorpion",
-    "translation": "蝎子(the Scorpion)",
-    "stage": 5,
+    "translation": "蝎子",
+    "stage": 1,
     "context": "'the Scorpion'"
   },
   {
     "ID": 293421164,
     "key": "the Wanderer",
     "original": "the Wanderer",
-    "translation": "流浪者(the Wanderer)",
-    "stage": 5,
+    "translation": "流浪者",
+    "stage": 1,
     "context": "'the Wanderer'"
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293421166,
     "key": "Redsands",
     "original": "Redsands",
-    "translation": "红沙(Redsands)",
-    "stage": 5,
+    "translation": "红沙",
+    "stage": 1,
     "context": "'Redsands'"
   },
   {
@@ -51,40 +51,40 @@
     "ID": 293421168,
     "key": "the Free",
     "original": "the Free",
-    "translation": "自由者(the Free)",
-    "stage": 5,
+    "translation": "自由者",
+    "stage": 1,
     "context": "'the Free'"
   },
   {
     "ID": 293421169,
     "key": "the Serpent",
     "original": "the Serpent",
-    "translation": "大蛇(the Serpent)",
-    "stage": 5,
+    "translation": "大蛇",
+    "stage": 1,
     "context": "'the Serpent'"
   },
   {
     "ID": 293421170,
     "key": "the Desert Scourge",
     "original": "the Desert Scourge",
-    "translation": "沙漠之灾(the Desert Scourge)",
-    "stage": 5,
+    "translation": "沙漠之灾",
+    "stage": 1,
     "context": "'the Desert Scourge'"
   },
   {
     "ID": 293421171,
     "key": "the Waylayer",
     "original": "the Waylayer",
-    "translation": "拦路者(the Waylayer)",
-    "stage": 5,
+    "translation": "拦路者",
+    "stage": 1,
     "context": "'the Waylayer'"
   },
   {
     "ID": 293421172,
     "key": "the Hyena",
     "original": "the Hyena",
-    "translation": "鬣狗(the Hyena)",
-    "stage": 5,
+    "translation": "鬣狗",
+    "stage": 1,
     "context": "'the Hyena'"
   },
   {
@@ -123,24 +123,24 @@
     "ID": 293421177,
     "key": "the Desert Raider",
     "original": "the Desert Raider",
-    "translation": "沙漠掠袭者(the Desert Raider)",
-    "stage": 5,
+    "translation": "沙漠掠袭者",
+    "stage": 1,
     "context": "'the Desert Raider'"
   },
   {
     "ID": 293421178,
     "key": "Son of the Desert",
     "original": "Son of the Desert",
-    "translation": "沙漠之子(Son of the Desert)",
-    "stage": 5,
+    "translation": "沙漠之子",
+    "stage": 1,
     "context": "'Son of the Desert'"
   },
   {
     "ID": 293421179,
     "key": "the Nomad",
     "original": "the Nomad",
-    "translation": "游牧民(the Nomad)",
-    "stage": 5,
+    "translation": "游牧民",
+    "stage": 1,
     "context": "'the Nomad'"
   }
 ]

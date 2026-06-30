@@ -35,7 +35,7 @@
     "ID": 293415521,
     "key": "Was mistaken for an Oathbringer",
     "original": "Was mistaken for an Oathbringer",
-    "translation": "被误认为是一名誓约者(Oathbringer)。",
+    "translation": "被误认为是一名渡誓者。",
     "stage": 1,
     "context": "_event.m.Oathtaker.worsenMood(2.0, 'Was mistaken for an Oathbringer')"
   }

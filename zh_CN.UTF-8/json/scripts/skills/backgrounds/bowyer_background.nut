@@ -3,8 +3,8 @@
     "ID": 293420837,
     "key": "the Arrowmaker",
     "original": "the Arrowmaker",
-    "translation": "制箭者(the Arrowmaker)",
-    "stage": 5,
+    "translation": "制箭者",
+    "stage": 1,
     "context": "'the Arrowmaker'"
   },
   {
@@ -19,16 +19,16 @@
     "ID": 293420839,
     "key": "the Bowyer",
     "original": "the Bowyer",
-    "translation": "弓匠(the Bowyer)",
-    "stage": 5,
+    "translation": "弓匠",
+    "stage": 1,
     "context": "'the Bowyer'"
   },
   {
     "ID": 293420840,
     "key": "the Fletcher",
     "original": "the Fletcher",
-    "translation": "制箭师(the Fletcher)",
-    "stage": 5,
+    "translation": "制箭师",
+    "stage": 1,
     "context": "'the Fletcher'"
   },
   {
@@ -67,8 +67,8 @@
     "ID": 293420845,
     "key": "the Patient",
     "original": "the Patient",
-    "translation": "耐心者(the Patient)",
-    "stage": 5,
+    "translation": "耐心者",
+    "stage": 1,
     "context": "'the Patient'"
   }
 ]

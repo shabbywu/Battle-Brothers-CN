@@ -43,7 +43,7 @@
     "ID": 293415677,
     "key": "Oathtakers!",
     "original": "Oathtakers!",
-    "translation": "宣誓者!(Oathtakers)",
+    "translation": "执誓者!",
     "stage": 1,
     "context": "Text = 'Oathtakers!'"
   },
