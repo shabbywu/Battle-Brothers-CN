@@ -3,7 +3,7 @@
     "ID": 293415812,
     "key": "the Proud",
     "original": "the Proud",
-    "translation": "骄傲者(the Proud)",
+    "translation": "·众人之傲",
     "stage": 1,
     "context": "'the Proud'"
   },
@@ -11,7 +11,7 @@
     "ID": 293415813,
     "key": "the Fisherman",
     "original": "the Fisherman",
-    "translation": "渔夫(the Fisherman)",
+    "translation": "渔夫",
     "stage": 1,
     "context": "'the Fisherman'"
   },
@@ -19,7 +19,7 @@
     "ID": 293415814,
     "key": "the Armwrestler",
     "original": "the Armwrestler",
-    "translation": "臂力选手(the Armwrestler)",
+    "translation": "掰手腕大师",
     "stage": 1,
     "context": "'the Armwrestler'"
   },
@@ -35,15 +35,15 @@
     "ID": 293415816,
     "key": "the Farmhand",
     "original": "the Farmhand",
-    "translation": "雇农(the Farmhand)",
-    "stage": 5,
+    "translation": "雇农",
+    "stage": 1,
     "context": "'the Farmhand'"
   },
   {
     "ID": 293415817,
     "key": "Fishes",
     "original": "Fishes",
-    "translation": "鱼(Fishes)",
+    "translation": "鱼",
     "stage": 1,
     "context": "'Fishes'"
   },
@@ -99,7 +99,7 @@
     "ID": 293415824,
     "key": "Weeds",
     "original": "Weeds",
-    "translation": "草(Weeds)",
+    "translation": "草",
     "stage": 1,
     "context": "'Weeds'"
   }

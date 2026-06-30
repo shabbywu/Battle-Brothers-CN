@@ -19,7 +19,7 @@
     "ID": 293414393,
     "key": "the Squire",
     "original": "the Squire",
-    "translation": "侍从(the Squire)",
+    "translation": "扈从",
     "stage": 1,
     "context": "_event.m.Dude.setTitle('the Squire')"
   },

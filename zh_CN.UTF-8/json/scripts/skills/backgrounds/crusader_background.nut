@@ -19,8 +19,8 @@
     "ID": 293420904,
     "key": "the Crusader",
     "original": "the Crusader",
-    "translation": "十字军(the Crusader)",
-    "stage": 5,
+    "translation": "十字军",
+    "stage": 1,
     "context": "actor.setTitle('the Crusader')"
   }
 ]

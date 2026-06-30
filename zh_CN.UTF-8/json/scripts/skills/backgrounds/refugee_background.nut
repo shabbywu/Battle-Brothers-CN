@@ -27,24 +27,24 @@
     "ID": 293421234,
     "key": "the Refugee",
     "original": "the Refugee",
-    "translation": "难民(the Refugee)",
-    "stage": 5,
+    "translation": "难民",
+    "stage": 1,
     "context": "'the Refugee'"
   },
   {
     "ID": 293421235,
     "key": "the Surbated",
     "original": "the Surbated",
-    "translation": "痛脚(the Surbated)",
-    "stage": 5,
+    "translation": "痛脚",
+    "stage": 1,
     "context": "'the Surbated'"
   },
   {
     "ID": 293421236,
     "key": "the Derelict",
     "original": "the Derelict",
-    "translation": "弃儿(the Derelict)",
-    "stage": 5,
+    "translation": "弃儿",
+    "stage": 1,
     "context": "'the Derelict'"
   },
   {
@@ -67,8 +67,8 @@
     "ID": 293421239,
     "key": "Runsfar",
     "original": "Runsfar",
-    "translation": "远跑(Runsfar)",
-    "stage": 5,
+    "translation": "远跑",
+    "stage": 1,
     "context": "'Runsfar'"
   },
   {

@@ -3,7 +3,7 @@
     "ID": 293421036,
     "key": "One Shot",
     "original": "One Shot",
-    "translation": "一击中的(Ond Shot)",
+    "translation": "一击中的",
     "stage": 1,
     "context": "'One Shot'"
   },
@@ -11,7 +11,7 @@
     "ID": 293421037,
     "key": "True-Shot",
     "original": "True-Shot",
-    "translation": "箭发直中(True-Shot)",
+    "translation": "箭发直中",
     "stage": 1,
     "context": "'True-Shot'"
   },
@@ -35,16 +35,16 @@
     "ID": 293421040,
     "key": "the Hunter",
     "original": "the Hunter",
-    "translation": "猎人(the Hunter)",
-    "stage": 5,
+    "translation": "猎人",
+    "stage": 1,
     "context": "'the Hunter'"
   },
   {
     "ID": 293421041,
     "key": "the Deerhunter",
     "original": "the Deerhunter",
-    "translation": "猎鹿人(the Deerhunter)",
-    "stage": 5,
+    "translation": "猎鹿人",
+    "stage": 1,
     "context": "'the Deerhunter'"
   },
   {
@@ -59,7 +59,7 @@
     "ID": 293421043,
     "key": "Woodstalker",
     "original": "Woodstalker",
-    "translation": "林间行者(Woodstalker)",
+    "translation": "林间行者",
     "stage": 1,
     "context": "'Woodstalker'"
   },
@@ -75,7 +75,7 @@
     "ID": 293421045,
     "key": "the Woodsman",
     "original": "the Woodsman",
-    "translation": "林中人(the Woodsman)",
+    "translation": "林中人",
     "stage": 1,
     "context": "'the Woodsman'"
   },
@@ -83,8 +83,8 @@
     "ID": 293421046,
     "key": "Eagle Eye",
     "original": "Eagle Eye",
-    "translation": "鹰眼(Eagle Eye)",
-    "stage": 5,
+    "translation": "鹰眼",
+    "stage": 1,
     "context": "'Eagle Eye'"
   },
   {

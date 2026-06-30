@@ -131,7 +131,7 @@
     "ID": 293415208,
     "key": "Helped ",
     "original": "Helped ",
-    "translation": "帮助了 (Helped)",
+    "translation": "帮助",
     "stage": 1,
     "context": "_event.m.Wildman.improveMood(1.0, 'Helped ' + _event.m.Anatomist.getName() + ' acquire an unusual skull')"
   },
@@ -155,7 +155,7 @@
     "ID": 293415211,
     "key": " acquire an unusual skull",
     "original": " acquire an unusual skull",
-    "translation": "获得一颗不寻常的头骨",
+    "translation": "获得了一颗不寻常的头骨",
     "stage": 1,
     "context": "_event.m.Wildman.improveMood(1.0, 'Helped ' + _event.m.Anatomist.getName() + ' acquire an unusual skull')"
   },

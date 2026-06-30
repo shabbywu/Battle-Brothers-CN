@@ -11,24 +11,24 @@
     "ID": 293420906,
     "key": "the Lost",
     "original": "the Lost",
-    "translation": "迷失者(the Lost)",
-    "stage": 5,
+    "translation": "迷失者",
+    "stage": 1,
     "context": "'the Lost'"
   },
   {
     "ID": 293420907,
     "key": "the Misguided",
     "original": "the Misguided",
-    "translation": "歧途者(the Misguided)",
-    "stage": 5,
+    "translation": "歧途者",
+    "stage": 1,
     "context": "'the Misguided'"
   },
   {
     "ID": 293420908,
     "key": "the Fanatic",
     "original": "the Fanatic",
-    "translation": "狂热者(the Fanatic)",
-    "stage": 5,
+    "translation": "狂热者",
+    "stage": 1,
     "context": "'the Fanatic'"
   },
   {
@@ -59,8 +59,8 @@
     "ID": 293420912,
     "key": "the Occultist",
     "original": "the Occultist",
-    "translation": "神秘学者(the Occultist)",
-    "stage": 5,
+    "translation": "神秘学者",
+    "stage": 1,
     "context": "'the Occultist'"
   },
   {
@@ -83,24 +83,24 @@
     "ID": 293420915,
     "key": "the Insane",
     "original": "the Insane",
-    "translation": "疯狂者(the Insane)",
-    "stage": 5,
+    "translation": "疯狂者",
+    "stage": 1,
     "context": "'the Insane'"
   },
   {
     "ID": 293420916,
     "key": "the Cultist",
     "original": "the Cultist",
-    "translation": "邪教徒(the Cultist)",
-    "stage": 5,
+    "translation": "邪教徒",
+    "stage": 1,
     "context": "'the Cultist'"
   },
   {
     "ID": 293420917,
     "key": "the Zealot",
     "original": "the Zealot",
-    "translation": "狂信者(the Zealot)",
-    "stage": 5,
+    "translation": "狂信者",
+    "stage": 1,
     "context": "'the Zealot'"
   },
   {

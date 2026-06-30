@@ -11,16 +11,16 @@
     "ID": 293420853,
     "key": "the Cleaver",
     "original": "the Cleaver",
-    "translation": "剁肉者(the Cleaver)",
-    "stage": 5,
+    "translation": "剁肉者",
+    "stage": 1,
     "context": "'the Cleaver'"
   },
   {
     "ID": 293420854,
     "key": "the Butcher",
     "original": "the Butcher",
-    "translation": "屠夫(the Butcher)",
-    "stage": 5,
+    "translation": "屠夫",
+    "stage": 1,
     "context": "'the Butcher'"
   },
   {
@@ -35,8 +35,8 @@
     "ID": 293420856,
     "key": "Redmeat",
     "original": "Redmeat",
-    "translation": "红肉(Redmeat)",
-    "stage": 5,
+    "translation": "红肉",
+    "stage": 1,
     "context": "'Redmeat'"
   },
   {
@@ -67,16 +67,16 @@
     "ID": 293420860,
     "key": "Bloodeye",
     "original": "Bloodeye",
-    "translation": "血眼(Bloodeye)",
-    "stage": 5,
+    "translation": "血眼",
+    "stage": 1,
     "context": "'Bloodeye'"
   },
   {
     "ID": 293420861,
     "key": "the Red",
     "original": "the Red",
-    "translation": "血红(the Red)",
-    "stage": 5,
+    "translation": "血红",
+    "stage": 1,
     "context": "'the Red'"
   }
 ]

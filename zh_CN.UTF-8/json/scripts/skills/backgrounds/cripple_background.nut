@@ -27,16 +27,16 @@
     "ID": 293420893,
     "key": "the Broken",
     "original": "the Broken",
-    "translation": "废人(the Broken)",
-    "stage": 5,
+    "translation": "废人",
+    "stage": 1,
     "context": "'the Broken'"
   },
   {
     "ID": 293420894,
     "key": "the Cripple",
     "original": "the Cripple",
-    "translation": "残废(the Cripple)",
-    "stage": 5,
+    "translation": "残废",
+    "stage": 1,
     "context": "'the Cripple'"
   },
   {
@@ -59,8 +59,8 @@
     "ID": 293420897,
     "key": "the Maimed",
     "original": "the Maimed",
-    "translation": "残废者(the Maimed)",
-    "stage": 5,
+    "translation": "残废者",
+    "stage": 1,
     "context": "'the Maimed'"
   },
   {
@@ -75,8 +75,8 @@
     "ID": 293420899,
     "key": "the Grotesque",
     "original": "the Grotesque",
-    "translation": "奇形怪状者(the Grotesque)",
-    "stage": 5,
+    "translation": "奇形者",
+    "stage": 1,
     "context": "'the Grotesque'"
   }
 ]

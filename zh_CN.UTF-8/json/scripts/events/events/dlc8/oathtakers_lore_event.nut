@@ -43,7 +43,7 @@
     "ID": 293415533,
     "key": "Speak about Young Anselm.",
     "original": "Speak about Young Anselm.",
-    "translation": "谈谈年轻的安瑟姆(Young Anselm)。",
+    "translation": "谈谈小安瑟姆。",
     "stage": 1,
     "context": "this.m.Texts.1 = 'Speak about Young Anselm.'"
   },

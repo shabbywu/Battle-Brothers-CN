@@ -11,7 +11,7 @@
     "ID": 293416541,
     "key": "the Pimp",
     "original": "the Pimp",
-    "translation": "皮普(The Pimp)",
+    "translation": "皮条客",
     "stage": 1,
     "context": "_event.m.Dude.setTitle('the Pimp')"
   },

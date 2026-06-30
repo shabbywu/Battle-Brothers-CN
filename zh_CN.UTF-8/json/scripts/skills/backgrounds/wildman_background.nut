@@ -3,7 +3,7 @@
     "ID": 293421374,
     "key": "the Savage",
     "original": "the Savage",
-    "translation": "蒙昧者(the Savage)",
+    "translation": "蒙昧者",
     "stage": 1,
     "context": "'the Savage'"
   },
@@ -11,8 +11,8 @@
     "ID": 293421375,
     "key": "the Outcast",
     "original": "the Outcast",
-    "translation": "被驱逐者(the Outcast)",
-    "stage": 5,
+    "translation": "被驱逐者",
+    "stage": 1,
     "context": "'the Outcast'"
   },
   {
@@ -27,8 +27,8 @@
     "ID": 293421377,
     "key": "the Wildman",
     "original": "the Wildman",
-    "translation": "野人(the Wildman)",
-    "stage": 5,
+    "translation": "野人",
+    "stage": 1,
     "context": "'the Wildman'"
   },
   {
@@ -43,24 +43,24 @@
     "ID": 293421379,
     "key": "the Feral",
     "original": "the Feral",
-    "translation": "蛮族(the Feral)",
-    "stage": 5,
+    "translation": "蛮族",
+    "stage": 1,
     "context": "'the Feral'"
   },
   {
     "ID": 293421380,
     "key": "the Barbarian",
     "original": "the Barbarian",
-    "translation": "野蛮人(the Barbarian)",
-    "stage": 5,
+    "translation": "野蛮人",
+    "stage": 1,
     "context": "'the Barbarian'"
   },
   {
     "ID": 293421381,
     "key": "the Wild",
     "original": "the Wild",
-    "translation": "野蛮者(the Wild)",
-    "stage": 5,
+    "translation": "野蛮者",
+    "stage": 1,
     "context": "'the Wild'"
   },
   {

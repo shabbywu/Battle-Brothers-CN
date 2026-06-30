@@ -11,7 +11,7 @@
     "ID": 293421058,
     "key": "Backblade",
     "original": "Backblade",
-    "translation": "背藏刀(Backblade)",
+    "translation": "背藏刀",
     "stage": 1,
     "context": "'Backblade'"
   },
@@ -35,24 +35,24 @@
     "ID": 293421061,
     "key": "Throatslash",
     "original": "Throatslash",
-    "translation": "割喉(Throatslash)",
-    "stage": 5,
+    "translation": "割喉",
+    "stage": 1,
     "context": "'Throatslash'"
   },
   {
     "ID": 293421062,
     "key": "Darkhearted",
     "original": "Darkhearted",
-    "translation": "黑心者(Darkhearted)",
-    "stage": 5,
+    "translation": "黑心者",
+    "stage": 1,
     "context": "'Darkhearted'"
   },
   {
     "ID": 293421063,
     "key": "the Wanted",
     "original": "the Wanted",
-    "translation": "通缉犯(the Wanted)",
-    "stage": 5,
+    "translation": "通缉犯",
+    "stage": 1,
     "context": "'the Wanted'"
   },
   {

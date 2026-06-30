@@ -3,7 +3,7 @@
     "ID": 293415583,
     "key": "Afraid of ",
     "original": "Afraid of ",
-    "translation": "害怕 (Afraid of)",
+    "translation": "害怕",
     "stage": 1,
     "context": "bro.worsenMood(0.5, 'Afraid of ' + _event.m.Mercenary.getName())"
   },

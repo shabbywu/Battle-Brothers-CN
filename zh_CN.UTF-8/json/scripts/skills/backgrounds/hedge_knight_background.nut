@@ -3,8 +3,8 @@
     "ID": 293421000,
     "key": "the Lone Wolf",
     "original": "the Lone Wolf",
-    "translation": "独狼(the Lone Wolf)",
-    "stage": 5,
+    "translation": "独狼",
+    "stage": 1,
     "context": "'the Lone Wolf'"
   },
   {
@@ -27,31 +27,31 @@
     "ID": 293421003,
     "key": "the Wolf",
     "original": "the Wolf",
-    "translation": "狼(the Wolf)",
-    "stage": 5,
+    "translation": "狼",
+    "stage": 1,
     "context": "'the Wolf'"
   },
   {
     "ID": 293421004,
     "key": "Strongface",
     "original": "Strongface",
-    "translation": "强面(Strongface)",
-    "stage": 5,
+    "translation": "强面",
+    "stage": 1,
     "context": "'Strongface'"
   },
   {
     "ID": 293421005,
     "key": "the Defiler",
     "original": "the Defiler",
-    "translation": "亵渎者(the Defiler)",
-    "stage": 5,
+    "translation": "亵渎者",
+    "stage": 1,
     "context": "'the Defiler'"
   },
   {
     "ID": 293421006,
     "key": "Steelwielder",
     "original": "Steelwielder",
-    "translation": "执钢者(Steelwielder)",
+    "translation": "执钢者",
     "stage": 1,
     "context": "'Steelwielder'"
   },
@@ -67,24 +67,24 @@
     "ID": 293421008,
     "key": "the Slayer",
     "original": "the Slayer",
-    "translation": "杀手(the Slayer)",
-    "stage": 5,
+    "translation": "杀手",
+    "stage": 1,
     "context": "'the Slayer'"
   },
   {
     "ID": 293421009,
     "key": "the Hound",
     "original": "the Hound",
-    "translation": "猎犬(the Hound)",
-    "stage": 5,
+    "translation": "猎犬",
+    "stage": 1,
     "context": "'the Hound'"
   },
   {
     "ID": 293421010,
     "key": "the Knightslayer",
     "original": "the Knightslayer",
-    "translation": "骑士杀手(the Knightslayer)",
-    "stage": 5,
+    "translation": "骑士杀手",
+    "stage": 1,
     "context": "'the Knightslayer'"
   },
   {
@@ -115,8 +115,8 @@
     "ID": 293421014,
     "key": "the Jouster",
     "original": "the Jouster",
-    "translation": "比武骑士(the Jouster)",
-    "stage": 5,
+    "translation": "比武骑士",
+    "stage": 1,
     "context": "'the Jouster'"
   },
   {
@@ -131,8 +131,8 @@
     "ID": 293421016,
     "key": "the Hedge Knight",
     "original": "the Hedge Knight",
-    "translation": "流浪骑士(the Hedge Knight)",
-    "stage": 5,
+    "translation": "流浪骑士",
+    "stage": 1,
     "context": "'the Hedge Knight'"
   }
 ]

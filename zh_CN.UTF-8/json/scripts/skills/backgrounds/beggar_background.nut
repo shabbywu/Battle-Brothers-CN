@@ -35,8 +35,8 @@
     "ID": 293420818,
     "key": "the Ragged",
     "original": "the Ragged",
-    "translation": "衣衫褴褛者(the Ragged)",
-    "stage": 5,
+    "translation": "破衣烂衫",
+    "stage": 1,
     "context": "'the Ragged'"
   },
   {
@@ -99,8 +99,8 @@
     "ID": 293420826,
     "key": "the Dirty",
     "original": "the Dirty",
-    "translation": "肮脏之人(the Dirty)",
-    "stage": 5,
+    "translation": "脏兮兮",
+    "stage": 1,
     "context": "'the Dirty'"
   },
   {

@@ -19,7 +19,7 @@
     "ID": 293416306,
     "key": "the Melon Mugger",
     "original": "the Melon Mugger",
-    "translation": "西瓜小偷(the Melon Mugger)",
+    "translation": "西瓜小偷",
     "stage": 1,
     "context": "_event.m.Dude.setTitle('the Melon Mugger')"
   },

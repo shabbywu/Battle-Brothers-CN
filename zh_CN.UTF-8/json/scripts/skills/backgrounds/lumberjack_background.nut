@@ -3,8 +3,8 @@
     "ID": 293421074,
     "key": "the Sturdy",
     "original": "the Sturdy",
-    "translation": "结实者(the Sturdy)",
-    "stage": 5,
+    "translation": "结实者",
+    "stage": 1,
     "context": "'the Sturdy'"
   },
   {
@@ -35,7 +35,7 @@
     "ID": 293421078,
     "key": "the Woodsman",
     "original": "the Woodsman",
-    "translation": "林中人(the Woodsman)",
+    "translation": "林中人",
     "stage": 1,
     "context": "'the Woodsman'"
   },
@@ -43,8 +43,8 @@
     "ID": 293421079,
     "key": "the Axe",
     "original": "the Axe",
-    "translation": "砍斧(the Axe)",
-    "stage": 5,
+    "translation": "砍斧",
+    "stage": 1,
     "context": "'the Axe'"
   },
   {

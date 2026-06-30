@@ -19,16 +19,16 @@
     "ID": 293420886,
     "key": "the Insane",
     "original": "the Insane",
-    "translation": "疯狂者(the Insane)",
-    "stage": 5,
+    "translation": "疯狂者",
+    "stage": 1,
     "context": "'the Insane'"
   },
   {
     "ID": 293420887,
     "key": "the Cultist",
     "original": "the Cultist",
-    "translation": "邪教徒(the Cultist)",
-    "stage": 5,
+    "translation": "邪教徒",
+    "stage": 1,
     "context": "'the Cultist'"
   },
   {

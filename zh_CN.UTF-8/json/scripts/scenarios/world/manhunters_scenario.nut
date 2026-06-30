@@ -3,8 +3,8 @@
     "ID": 293419693,
     "key": "the Deserter",
     "original": "the Deserter",
-    "translation": "逃兵(the Deserter)",
-    "stage": 5,
+    "translation": "逃兵",
+    "stage": 1,
     "context": "bros[4].setTitle('the Deserter')"
   },
   {
@@ -51,8 +51,8 @@
     "ID": 293419699,
     "key": "the Northerner",
     "original": "the Northerner",
-    "translation": "北方人(the Northerner)",
-    "stage": 5,
+    "translation": "北方人",
+    "stage": 1,
     "context": "bros[3].setTitle('the Northerner')"
   },
   {
@@ -75,7 +75,7 @@
     "ID": 293419702,
     "key": "the Whip",
     "original": "the Whip",
-    "translation": "鞭子(the Whip)",
+    "translation": "鞭子",
     "stage": 1,
     "context": "bros[1].setTitle('the Whip')"
   },
@@ -203,7 +203,7 @@
     "ID": 293419718,
     "key": "the Learned",
     "original": "the Learned",
-    "translation": "博学者(the Learned)",
+    "translation": "博学者",
     "stage": 1,
     "context": "bros[2].setTitle('the Learned')"
   }

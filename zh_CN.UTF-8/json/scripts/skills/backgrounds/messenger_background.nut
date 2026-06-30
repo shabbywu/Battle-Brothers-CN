@@ -19,16 +19,16 @@
     "ID": 293421109,
     "key": "the Runner",
     "original": "the Runner",
-    "translation": "跑手(the Runner)",
-    "stage": 5,
+    "translation": "跑手",
+    "stage": 1,
     "context": "'the Runner'"
   },
   {
     "ID": 293421110,
     "key": "the Courier",
     "original": "the Courier",
-    "translation": "邮差(the Courier)",
-    "stage": 5,
+    "translation": "邮差",
+    "stage": 1,
     "context": "'the Courier'"
   },
   {
@@ -59,8 +59,8 @@
     "ID": 293421114,
     "key": "the Messenger",
     "original": "the Messenger",
-    "translation": "信使(the Messenger)",
-    "stage": 5,
+    "translation": "信使",
+    "stage": 1,
     "context": "'the Messenger'"
   }
 ]

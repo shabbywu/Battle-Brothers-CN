@@ -19,8 +19,8 @@
     "ID": 293421029,
     "key": "the Dogkeeper",
     "original": "the Dogkeeper",
-    "translation": "看狗人(the Dogkeeper)",
-    "stage": 5,
+    "translation": "看狗人",
+    "stage": 1,
     "context": "'the Dogkeeper'"
   },
   {
@@ -59,8 +59,8 @@
     "ID": 293421034,
     "key": "the Kennelmaster",
     "original": "the Kennelmaster",
-    "translation": "养犬师(the Kennelmaster)",
-    "stage": 5,
+    "translation": "养犬师",
+    "stage": 1,
     "context": "'the Kennelmaster'"
   },
   {

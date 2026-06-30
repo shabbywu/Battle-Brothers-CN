@@ -203,7 +203,7 @@
     "ID": 293413250,
     "key": " a favor",
     "original": " a favor",
-    "translation": "一个恳求/请求",
+    "translation": "的要求",
     "stage": 1,
     "context": "_event.m.NobleHouse.addPlayerRelation(-5.0, 'Denied ' + _event.m.Noble.getName() + ' a favor')"
   },
@@ -227,7 +227,7 @@
     "ID": 293413253,
     "key": "Denied ",
     "original": "Denied ",
-    "translation": "拒绝 (Denied)",
+    "translation": "拒绝了",
     "stage": 1,
     "context": "_event.m.NobleHouse.addPlayerRelation(-5.0, 'Denied ' + _event.m.Noble.getName() + ' a favor')"
   },

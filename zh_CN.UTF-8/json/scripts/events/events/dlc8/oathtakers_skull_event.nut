@@ -11,7 +11,7 @@
     "ID": 293415554,
     "key": "Young Anselm renewed his faith in the oaths",
     "original": "Young Anselm renewed his faith in the oaths",
-    "translation": "年轻的安瑟姆(Anselm) 重归他的誓约信仰。",
+    "translation": "小安瑟姆使他重拾了对誓言的信仰",
     "stage": 1,
     "context": "_event.m.Oathtaker.improveMood(1.350000023841858, 'Young Anselm renewed his faith in the oaths')"
   },

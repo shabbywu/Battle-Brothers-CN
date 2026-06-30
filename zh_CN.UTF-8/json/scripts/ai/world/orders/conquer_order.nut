@@ -24,7 +24,7 @@
     "ID": 629143889,
     "key": "Defeated",
     "original": "Defeated",
-    "translation": "失败了(Defeated)",
+    "translation": "被击败",
     "stage": 1
   }
 ]

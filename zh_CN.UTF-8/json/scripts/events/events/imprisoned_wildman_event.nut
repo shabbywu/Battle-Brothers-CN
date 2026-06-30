@@ -75,7 +75,7 @@
     "ID": 293416089,
     "key": "the Animal",
     "original": "the Animal",
-    "translation": "动物(the Animal)",
+    "translation": "展览动物",
     "stage": 1,
     "context": "_event.m.Dude.setTitle('the Animal')"
   },

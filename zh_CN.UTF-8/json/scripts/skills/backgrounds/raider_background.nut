@@ -3,24 +3,24 @@
     "ID": 293421211,
     "key": "Ravensblack",
     "original": "Ravensblack",
-    "translation": "乌鸦黑(Ravensblack)",
-    "stage": 5,
+    "translation": "乌鸦黑",
+    "stage": 1,
     "context": "'Ravensblack'"
   },
   {
     "ID": 293421212,
     "key": "the Defiant",
     "original": "the Defiant",
-    "translation": "反抗者(the Defiant)",
-    "stage": 5,
+    "translation": "反抗者",
+    "stage": 1,
     "context": "'the Defiant'"
   },
   {
     "ID": 293421213,
     "key": "the Terrible",
     "original": "the Terrible",
-    "translation": "可怖者(the Terrible)",
-    "stage": 5,
+    "translation": "可怖者",
+    "stage": 1,
     "context": "'the Terrible'"
   },
   {
@@ -43,16 +43,16 @@
     "ID": 293421216,
     "key": "the Raider",
     "original": "the Raider",
-    "translation": "掠袭者(the Raider)",
-    "stage": 5,
+    "translation": "掠袭者",
+    "stage": 1,
     "context": "'the Raider'"
   },
   {
     "ID": 293421217,
     "key": "the Pillager",
     "original": "the Pillager",
-    "translation": "劫掠者(the Pillager)",
-    "stage": 5,
+    "translation": "劫掠者",
+    "stage": 1,
     "context": "'the Pillager'"
   },
   {
@@ -75,32 +75,32 @@
     "ID": 293421220,
     "key": "the Crow",
     "original": "the Crow",
-    "translation": "乌鸦(The Crow)",
-    "stage": 5,
+    "translation": "乌鸦",
+    "stage": 1,
     "context": "'the Crow'"
   },
   {
     "ID": 293421221,
     "key": "the Menace",
     "original": "the Menace",
-    "translation": "威胁者(the Menace)",
-    "stage": 5,
+    "translation": "威胁者",
+    "stage": 1,
     "context": "'the Menace'"
   },
   {
     "ID": 293421222,
     "key": "the Marauder",
     "original": "the Marauder",
-    "translation": "掳掠者(the Marauder)",
-    "stage": 5,
+    "translation": "掳掠者",
+    "stage": 1,
     "context": "'the Marauder'"
   },
   {
     "ID": 293421223,
     "key": "Fourfingers",
     "original": "Fourfingers",
-    "translation": "四指(Fourfingers)",
-    "stage": 5,
+    "translation": "四指",
+    "stage": 1,
     "context": "'Fourfingers'"
   },
   {
@@ -115,8 +115,8 @@
     "ID": 293421225,
     "key": "the Bandit",
     "original": "the Bandit",
-    "translation": "强盗(the Bandit)",
-    "stage": 5,
+    "translation": "强盗",
+    "stage": 1,
     "context": "'the Bandit'"
   }
 ]
