@@ -33985,9 +33985,9 @@
         "locked": 0,
         "createdAt": "2025-03-25T16:12:16.616Z",
         "updatedAt": "2025-03-31T03:38:37.145Z",
-        "modifiedAt": "2025-04-29T08:18:47Z",
+        "modifiedAt": "2026-07-03T13:42:53.364Z",
         "hash": "3068360118acb6f81f851bdf709ce208",
-        "sha256": "d3e415600135369a07bae073dce8178f5111d4ef9cbfcfe1495f782ecf369b3f"
+        "sha256": "ddafbd75b8d636a791f2331dbe4b500333bcb590f0e8292648a179bf46aeeac7"
     },
     "scripts/skills/actives/censer_strike.json": {
         "id": 1940686,
@@ -44505,15 +44505,15 @@
         "total": 48,
         "translated": 48,
         "disputed": 0,
-        "checked": 39,
-        "reviewed": 39,
+        "checked": 42,
+        "reviewed": 42,
         "hidden": 0,
-        "locked": 1,
+        "locked": 4,
         "createdAt": "2023-05-13T14:33:02.634Z",
         "updatedAt": "2026-06-25T17:01:04.235Z",
-        "modifiedAt": "2026-06-27T02:11:33.026Z",
+        "modifiedAt": "2026-07-03T13:52:58.39Z",
         "hash": "96ace28c4e1665d7521322b994ba0473",
-        "sha256": "88c9e1996681401358868c94625281ff123775ac2dd1d35d656c8280350915fb"
+        "sha256": "0e014ee1f5c2521a849cae55915ff98e2e89b20702297caf8db852ec12943185"
     },
     "scripts/states/world/asset_manager.json": {
         "id": 920525,
