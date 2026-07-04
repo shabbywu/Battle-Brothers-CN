@@ -51,7 +51,7 @@
     "ID": 629144281,
     "key": "Leaves a cloud of miasma on target tiles",
     "original": "Leaves a cloud of miasma on target tiles",
-    "translation": "在目标区域留下一片瘴气之云。",
+    "translation": "在目标区域留下一片瘴气云雾。",
     "stage": 1,
     "context": "text = \"Leaves a cloud of miasma on target tiles\""
   },

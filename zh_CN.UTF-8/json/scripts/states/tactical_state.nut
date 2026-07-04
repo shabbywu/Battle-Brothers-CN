@@ -355,23 +355,23 @@
     "ID": 993341506,
     "key": "dc9f28b12dd1818ee42ffc92ecb940386214598837348d30d3c6c0b7b57e34c9",
     "original": "fire",
-    "translation": "火焰",
-    "stage": 1,
+    "translation": "fire",
+    "stage": 9,
     "context": "Type = \"fire\""
   },
   {
     "ID": 993341507,
     "key": "02d66bd0cd94444e10e1e393d80bcb6a7e48d1118e7449be927f22e3fcbfec06",
     "original": "miasma",
-    "translation": "瘴气",
-    "stage": 1
+    "translation": "miasma",
+    "stage": 9
   },
   {
     "ID": 993341508,
     "key": "04d588cb41b8022d1233924f0fe8280d9e2bb92cdc81658eb102ef9c42fc9452",
     "original": "smoke",
-    "translation": "烟雾",
-    "stage": 1,
+    "translation": "smoke",
+    "stage": 9,
     "context": "Type = \"smoke\""
   },
   {
