@@ -33700,9 +33700,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:53.61Z",
         "updatedAt": "2023-06-26T05:49:12.845Z",
-        "modifiedAt": "2024-07-03T01:22:30Z",
+        "modifiedAt": "2026-07-04T04:48:21.287Z",
         "hash": "1490a4f03504153f1a13ef027376dbf0",
-        "sha256": "b6451fb161590522257dcb5fd296bf35557d33249c7898b4d22c2433bfc50390"
+        "sha256": "9252ac4c970c8cbde847b9386b35e2694cf23d22ca1a5d2492a1341305264dbc"
     },
     "scripts/scenarios/world/trader_scenario.json": {
         "id": 919979,
