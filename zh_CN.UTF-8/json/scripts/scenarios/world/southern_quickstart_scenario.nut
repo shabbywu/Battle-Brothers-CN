@@ -3,7 +3,7 @@
     "ID": 293419767,
     "key": "[p=c][img]gfx/ui/events/event_156.png[/img][/p][p]You and your small band of mercenaries have done the dirty work of small-time merchants for years, yet you're barely a step above brigands. You want to be bigger than that. You want it all. And the Gilder ",
     "original": "[p=c][img]gfx/ui/events/event_156.png[/img][/p][p]You and your small band of mercenaries have done the dirty work of small-time merchants for years, yet you're barely a step above brigands. You want to be bigger than that. You want it all. And the Gilder will reveal to you the way.\n\n[color=#bcad8c]A quick start into the southern part of the world, without any particular advantages or disadvantages.[/color][/p]",
-    "translation": "[p=c][img]gfx/ui/events/event_156.png[/img][/p][p]你和你那一小撮雇佣军多年来一直在做小商贩的肮脏勾当，但你跟强盗比还差一步。 你想变得更大。 你想要一切。 镀金者会给你指路。\n\n[color=#bcad8c]快速开始进入世界南部，没有任何特殊的优势或劣势。[/color][/p]",
+    "translation": "[p=c][img]gfx/ui/events/event_156.png[/img][/p][p]多年来，你和你那一小撮佣兵，一直给一些不入流的小商人干着脏活，跟强盗也差不了多少。你想要更多。你想得到一切。镀金者将会为你指明道路。\n\n[color=#bcad8c]快速在世界南部开始，没有特殊的优势或劣势。[/color][/p]",
     "stage": 1,
     "context": "this.m.Description = \"[p=c][img]gfx/ui/events/event_156.png[/img][/p][p]You and your small band of mercenaries have done the dirty work of small-time merchants for years, yet you're barely a step above brigands. You want to be bigger than that. You want it all. And the Gilder will reveal to you the way.\n\n[color=#bcad8c]A quick start into the southern part of the world, without any particular advantages or disadvantages.[/color][/p]\""
   },
