@@ -3,8 +3,8 @@
     "ID": 293417391,
     "key": "Supply Caravan",
     "original": "Supply Caravan",
-    "translation": "补给商队",
-    "stage": 5,
+    "translation": "补给车队",
+    "stage": 1,
     "context": "_faction.spawnEntity(this.m.Start.getTile(), 'Supply Caravan', False, this.Const.World.Spawn.NobleCaravan, r * 100)"
   },
   {

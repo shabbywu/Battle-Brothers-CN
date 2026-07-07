@@ -291,8 +291,8 @@
     "ID": 293409632,
     "key": "Destroy any caravans or patrols",
     "original": "Destroy any caravans or patrols",
-    "translation": "摧毁商队或巡逻队",
-    "stage": 5,
+    "translation": "摧毁车队或巡逻队",
+    "stage": 1,
     "context": "'Destroy any caravans or patrols'"
   },
   {

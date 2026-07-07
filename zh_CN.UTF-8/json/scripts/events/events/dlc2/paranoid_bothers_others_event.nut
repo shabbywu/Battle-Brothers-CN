@@ -11,7 +11,7 @@
     "ID": 293414026,
     "key": "Stop being so paranoid.",
     "original": "Stop being so paranoid.",
-    "translation": "别那么多疑了。",
+    "translation": "别那么疑神疑鬼的了。",
     "stage": 1,
     "context": "Text = 'Stop being so paranoid.'"
   },

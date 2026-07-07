@@ -11,8 +11,8 @@
     "ID": 293416761,
     "key": "The Trading Caravan",
     "original": "The Trading Caravan",
-    "translation": "贸易商队",
-    "stage": 5,
+    "translation": "贸易车队",
+    "stage": 1,
     "context": "this.m.Title = 'The Trading Caravan'"
   },
   {
