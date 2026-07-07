@@ -2274,9 +2274,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:31.033Z",
         "updatedAt": "2023-06-26T05:46:26.773Z",
-        "modifiedAt": "2024-07-12T08:34:16Z",
+        "modifiedAt": "2026-07-06T03:25:06.465Z",
         "hash": "4b1f37ab34bd3b34479f3d455107a925",
-        "sha256": "f785b80b7cb97af7ff7a4d94d35291a0e95ba9577ff59e65beb53cb072566222"
+        "sha256": "ccad0b08bc098434f0887e24d7231b49928485e2156807fcf096e311c1269dc6"
     },
     "scripts/ambitions/ambitions/ranged_mastery_ambition.json": {
         "id": 918386,
@@ -2939,9 +2939,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:17:44.396Z",
         "updatedAt": "2026-06-25T17:01:02.606Z",
-        "modifiedAt": "2026-06-28T12:32:11.688Z",
+        "modifiedAt": "2026-07-06T03:26:15.309Z",
         "hash": "2391631015230a785fca4d6c8a3efbc8",
-        "sha256": "a7ab893151d1339f28dee331140e8cc0df94cf908e6e2a4199094e9ce409d0ce"
+        "sha256": "cec755ff629fc843560c94887d408c83826cf44492b6edc724d2d9f8ba3877d4"
     },
     "scripts/config/tactical.json": {
         "id": 918421,
@@ -3465,15 +3465,15 @@
         "total": 83,
         "translated": 83,
         "disputed": 0,
-        "checked": 82,
-        "reviewed": 82,
+        "checked": 81,
+        "reviewed": 81,
         "hidden": 0,
         "locked": 1,
         "createdAt": "2023-05-13T14:17:58.212Z",
         "updatedAt": "2023-06-26T05:46:44.164Z",
-        "modifiedAt": "2025-10-17T14:00:24Z",
+        "modifiedAt": "2026-07-06T03:21:32.377Z",
         "hash": "f5541a0dc04b58b3b9d2ae58aa4c7651",
-        "sha256": "ba5a5aa363f2634980f756f22d51c52305a8e6b85fb6107448fd046318f3e5d6"
+        "sha256": "12e63da5233ab03c52a681e2771e58ad0a7bef4626cc44a74fc6603dd3ebaa4b"
     },
     "scripts/contracts/contracts/escort_envoy_contract.json": {
         "id": 918448,
@@ -3826,15 +3826,15 @@
         "total": 42,
         "translated": 42,
         "disputed": 2,
-        "checked": 40,
-        "reviewed": 40,
+        "checked": 39,
+        "reviewed": 39,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:07.921Z",
         "updatedAt": "2023-06-26T05:46:49.989Z",
-        "modifiedAt": "2025-10-23T13:15:02Z",
+        "modifiedAt": "2026-07-06T03:26:44.644Z",
         "hash": "10cdeb42093cf748c9d9d6e85bbbbd72",
-        "sha256": "025f8b0dcc3da439ca2dd7e3146884793576f894d3c80af64e63b2e148dce9b6"
+        "sha256": "ae2eaea62cb73549575cef617f7ff389f5b2418c71d5273badba87fce1f4422b"
     },
     "scripts/contracts/contracts/raid_caravan_contract.json": {
         "id": 918467,
@@ -3845,15 +3845,15 @@
         "total": 54,
         "translated": 54,
         "disputed": 1,
-        "checked": 53,
-        "reviewed": 53,
+        "checked": 47,
+        "reviewed": 47,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:18:08.538Z",
         "updatedAt": "2025-03-25T17:06:31.272Z",
-        "modifiedAt": "2025-10-21T12:58:45Z",
+        "modifiedAt": "2026-07-06T03:27:36.824Z",
         "hash": "e99c78ee79530f400bbb75af76b65db7",
-        "sha256": "3f4fdc921faf6959cc8c45ec2dd604be191ae1116123c97a5444869363ea8e87"
+        "sha256": "7a2d96a4081321a0a6cccc9b6235360bda71a120a604e9cb2128a7a70a25eec7"
     },
     "scripts/contracts/contracts/raze_attached_location_contract.json": {
         "id": 918468,
@@ -12648,9 +12648,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:21:08.567Z",
         "updatedAt": "2023-06-26T05:47:43.632Z",
-        "modifiedAt": "2023-06-26T05:47:44Z",
+        "modifiedAt": "2026-07-06T04:53:22.624Z",
         "hash": "debaab4ce77704f3d485e78580957901",
-        "sha256": "50f5d43349eac1aac13b899760a88b88da53642ace23e1951d2e799e221ce363"
+        "sha256": "227828829266b07b83d1413f55f3e6dfeeffa845058a9d480ff3b55efeb4feed"
     },
     "scripts/events/events/dlc2/petrified_scream_event.json": {
         "id": 918923,
@@ -17430,15 +17430,15 @@
         "total": 7,
         "translated": 7,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:22:46.445Z",
         "updatedAt": "2023-06-26T05:48:14.255Z",
-        "modifiedAt": "2023-06-26T05:48:14Z",
+        "modifiedAt": "2026-07-06T03:21:11.862Z",
         "hash": "53e3ddbb367712e2819584eaaa7cc9d6",
-        "sha256": "7144d2441602b86f84f228f6fe2f78a473fb54c40d73278d84c414ccd342ecbc"
+        "sha256": "e55bb8695255e04daef493cbdd981845e79c7935b5fe2c06e13cb37d7a108be0"
     },
     "scripts/events/events/scientist_in_the_mountains_event.json": {
         "id": 919168,
@@ -18722,15 +18722,15 @@
         "total": 3,
         "translated": 3,
         "disputed": 0,
-        "checked": 2,
-        "reviewed": 2,
+        "checked": 1,
+        "reviewed": 1,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:14.222Z",
         "updatedAt": "2023-06-26T05:48:19.342Z",
-        "modifiedAt": "2024-07-19T03:29:46Z",
+        "modifiedAt": "2026-07-06T03:28:04.104Z",
         "hash": "fe6c06e56345a803b6c2fcaa1fc36281",
-        "sha256": "bc113c7194082835ad4bd2a7814d089614f26ab795092d7211e5d7505d21806d"
+        "sha256": "35ad6263bbdf84e6ec11f5c9608aaddf7b433d4ad9255a54f84dabff5194bd7f"
     },
     "scripts/factions/actions/send_citystate_army_action.json": {
         "id": 919236,
@@ -19007,15 +19007,15 @@
         "total": 2,
         "translated": 2,
         "disputed": 0,
-        "checked": 1,
-        "reviewed": 1,
+        "checked": 0,
+        "reviewed": 0,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:23:19.288Z",
         "updatedAt": "2023-06-25T06:22:11.765Z",
-        "modifiedAt": "2024-07-19T03:29:54Z",
+        "modifiedAt": "2026-07-06T03:21:00.727Z",
         "hash": "fcbfcdfeb7fa8c7b69ff6a617e2179df",
-        "sha256": "eebcb74264c50f8478b65fecc911af3a487bb311d7b6701c8ed894c42114b2bb"
+        "sha256": "0b1a3c17f4571d4ef0fe6e422bd86007883b71c6c8377b14b7c868ca376ff2ca"
     },
     "scripts/factions/actions/send_undead_ambushers_action.json": {
         "id": 919251,
@@ -33187,9 +33187,9 @@
         "locked": 0,
         "createdAt": "2023-05-13T14:28:37.052Z",
         "updatedAt": "2023-06-26T05:49:10.433Z",
-        "modifiedAt": "2025-05-18T11:35:28Z",
+        "modifiedAt": "2026-07-06T03:24:10.06Z",
         "hash": "450944d2844cfac7fb8adf9a6af647d3",
-        "sha256": "20e8d1807bd93d0931c11deb48df012cf3fae309139c5f6a0d1dc87b4c03eef7"
+        "sha256": "ec60e2554915e7594c98c81000471999f2e8d21c13e2bb0479be0e353871da18"
     },
     "scripts/retinue/followers/cartographer_follower.json": {
         "id": 919952,
@@ -33713,15 +33713,15 @@
         "total": 5,
         "translated": 5,
         "disputed": 0,
-        "checked": 3,
-        "reviewed": 3,
+        "checked": 2,
+        "reviewed": 2,
         "hidden": 0,
         "locked": 0,
         "createdAt": "2023-05-13T14:28:54.563Z",
         "updatedAt": "2023-06-26T05:49:12.904Z",
-        "modifiedAt": "2023-06-26T05:49:13Z",
+        "modifiedAt": "2026-07-06T03:22:04.242Z",
         "hash": "56ee84eb120c270e8c03f7b4fdad9b3a",
-        "sha256": "87c2af248a712f8180346c15c858fdd962df0673730a806645093b69722042ef"
+        "sha256": "1145187cd628edd2fa10a473d49f6bfc73425884d580df2de5d8e81e788c9a32"
     },
     "scripts/scenarios/world/tutorial_scenario.json": {
         "id": 919980,

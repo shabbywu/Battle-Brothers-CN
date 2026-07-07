@@ -563,8 +563,8 @@
     "ID": 293408815,
     "key": "Trading Caravan",
     "original": "Trading Caravan",
-    "translation": "贸易商队",
-    "stage": 5,
+    "translation": "贸易车队",
+    "stage": 1,
     "context": "faction.spawnEntity(this.m.Home.getTile(), 'Trading Caravan', False, this.Const.World.Spawn.CaravanEscort, this.m.Home.getResources() * 0.4000000059604645)"
   },
   {

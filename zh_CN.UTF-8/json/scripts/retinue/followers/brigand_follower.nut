@@ -3,7 +3,7 @@
     "ID": 293419562,
     "key": "The Brigand may be old and weak now, but at one point his name was feared across the land. In exchange for a hot meal he happily shares with you what he learns from his contacts about caravans on the road.",
     "original": "The Brigand may be old and weak now, but at one point his name was feared across the land. In exchange for a hot meal he happily shares with you what he learns from his contacts about caravans on the road.",
-    "translation": "这位强盗或许已经年迈力衰，却也曾在这片土地上威震一时。为了一顿热饭，他很愿意与你分享他从联系人那里得来的商队情报。",
+    "translation": "这位强盗或许已经年迈力衰，却也曾在这片土地上威震一时。为了一顿热饭，他很愿意与你分享他从联系人那里得来的车队情报。",
     "stage": 1,
     "context": "this.m.Description = 'The Brigand may be old and weak now, but at one point his name was feared across the land. In exchange for a hot meal he happily shares with you what he learns from his contacts about caravans on the road.'"
   },

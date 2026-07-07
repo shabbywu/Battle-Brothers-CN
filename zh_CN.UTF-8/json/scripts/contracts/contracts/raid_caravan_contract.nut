@@ -123,8 +123,8 @@
     "ID": 293409653,
     "key": "Failed to destroy a caravan without letting anyone escape",
     "original": "Failed to destroy a caravan without letting anyone escape",
-    "translation": "摧毁商队时遗漏了一些活口",
-    "stage": 5,
+    "translation": "摧毁车队时遗漏了一些活口",
+    "stage": 1,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationNobleContractFail, 'Failed to destroy a caravan without letting anyone escape')"
   },
   {
@@ -139,8 +139,8 @@
     "ID": 293409655,
     "key": "Raid Caravan",
     "original": "Raid Caravan",
-    "translation": "劫掠商队",
-    "stage": 5,
+    "translation": "劫掠车队",
+    "stage": 1,
     "context": "this.m.Name = 'Raid Caravan'"
   },
   {
@@ -211,8 +211,8 @@
     "ID": 293409664,
     "key": "Raid the caravan going from %start% to %dest%",
     "original": "Raid the caravan going from %start% to %dest%",
-    "translation": "劫掠从%start%前往%dest%的商队",
-    "stage": 5,
+    "translation": "劫掠从%start%前往%dest%的车队",
+    "stage": 1,
     "context": "'Raid the caravan going from %start% to %dest%'"
   },
   {
@@ -243,8 +243,8 @@
     "ID": 293409668,
     "key": "Caravan",
     "original": "Caravan",
-    "translation": "商队",
-    "stage": 5,
+    "translation": "车队",
+    "stage": 1,
     "context": "enemyFaction.spawnEntity(best_start.getTile(), 'Caravan', False, this.Const.World.Spawn.NobleCaravan, 100 * this.Contract.getDifficultyMult() * this.Contract.getScaledDifficultyMult())"
   },
   {
@@ -323,8 +323,8 @@
     "ID": 293409678,
     "key": "Failed to destroy a caravan",
     "original": "Failed to destroy a caravan",
-    "translation": "没能摧毁商队",
-    "stage": 5,
+    "translation": "没能摧毁车队",
+    "stage": 1,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationNobleContractFail, 'Failed to destroy a caravan')"
   },
   {
@@ -419,8 +419,8 @@
     "ID": 293409690,
     "key": "Destroyed a caravan",
     "original": "Destroyed a caravan",
-    "translation": "摧毁了一支商队",
-    "stage": 5,
+    "translation": "摧毁了一支车队",
+    "stage": 1,
     "context": "this.World.FactionManager.getFaction(this.Contract.getFaction()).addPlayerRelation(this.Const.World.Assets.RelationNobleContractSuccess, 'Destroyed a caravan')"
   },
   {

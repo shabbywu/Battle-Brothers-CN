@@ -2931,7 +2931,7 @@
     "ID": 293406002,
     "key": "A caravan",
     "original": "A caravan",
-    "translation": "商队",
+    "translation": "一支商队",
     "stage": 1,
     "context": "'A caravan'"
   },
