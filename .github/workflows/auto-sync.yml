@@ -34,9 +34,9 @@ jobs:
         make sync-from-paratranz
         if [ "${{ inputs.forceUpdate }}" == "true" ]; then
           echo "force updating!!!"
-          ./bin/sync-from-paratranz --token ${PARATRANZ_API_TOKEN} --project 7032 --force
+          ./bin/sync-from-paratranz --token ${PARATRANZ_API_TOKEN} --manifest localization.manifest.json --force
         else
-          ./bin/sync-from-paratranz --token ${PARATRANZ_API_TOKEN} --project 7032   
+          ./bin/sync-from-paratranz --token ${PARATRANZ_API_TOKEN} --manifest localization.manifest.json
         fi
 
     - name: Create Pull Request
